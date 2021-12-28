@@ -1,3 +1,17 @@
+* fixes cargo weight mod bottoming to 0 ([#53812](https://github.com/CleverRaven/Cataclysm-DDA/pull/53812))
+* Prevent Mana Nose CBM from use by Earthshaper ([#53810](https://github.com/CleverRaven/Cataclysm-DDA/pull/53810))
+* Crafting: Colorize component selection options ([#53798](https://github.com/CleverRaven/Cataclysm-DDA/pull/53798))
+* Avoid misplaced portal traps ([#53698](https://github.com/CleverRaven/Cataclysm-DDA/pull/53698))
+* Enable calories intake tracker in both atomic smartphones ([#53711](https://github.com/CleverRaven/Cataclysm-DDA/pull/53711))
+* TropiCataclysm: Some more mammals and changes ([#53758](https://github.com/CleverRaven/Cataclysm-DDA/pull/53758))
+* Progress bar or feedback for compose.py ([#53815](https://github.com/CleverRaven/Cataclysm-DDA/pull/53815))
+* Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-28-1625 ([d239083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-1625))
+
+* Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
 
 ---
 
@@ -203,11 +217,6 @@
 #### Cataclysm-DDA experimental build 2021-12-22-1415 ([c0953e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-22-1415))
 
 * Fix vehicle damage test + Additional degradation tests ([#53633](https://github.com/CleverRaven/Cataclysm-DDA/pull/53633))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-22-1019 ([630da64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-22-1019))
-
 * Improve the description of Synaptic Regeneration System. ([#53640](https://github.com/CleverRaven/Cataclysm-DDA/pull/53640))
 * Translate pocket descriptions ([#53628](https://github.com/CleverRaven/Cataclysm-DDA/pull/53628))
 * Pluralize message in MOLLE attach screen ([#53665](https://github.com/CleverRaven/Cataclysm-DDA/pull/53665))
@@ -224,14 +233,5 @@
 * Fix detach_vehicle errors and other test issues ([#53598](https://github.com/CleverRaven/Cataclysm-DDA/pull/53598))
 * Move armor suits from the normal to the outer layer ([#53590](https://github.com/CleverRaven/Cataclysm-DDA/pull/53590))
 * gitignore: improve BUILD_PREFIX support ([#53585](https://github.com/CleverRaven/Cataclysm-DDA/pull/53585))
-* Limit eyebot spawns ([#53584](https://github.com/CleverRaven/Cataclysm-DDA/pull/53584))
-* Make diary page head text more translatable ([#53582](https://github.com/CleverRaven/Cataclysm-DDA/pull/53582))
-* [Magiclysm] Changed Magiclysm recipes to use more types of blood. ([#53568](https://github.com/CleverRaven/Cataclysm-DDA/pull/53568))
 * Fix ‘ammunition’ typo in caravan_category_name() ([#53609](https://github.com/CleverRaven/Cataclysm-DDA/pull/53609))
-* Tailoring requirements update ([#53578](https://github.com/CleverRaven/Cataclysm-DDA/pull/53578))
 * Add basic build special case logic to label removal ([#53594](https://github.com/CleverRaven/Cataclysm-DDA/pull/53594))
-* Renamed wraith to prevent monster overlap ([#53572](https://github.com/CleverRaven/Cataclysm-DDA/pull/53572))
-* Proficiency mitigation from ebooks ([#53580](https://github.com/CleverRaven/Cataclysm-DDA/pull/53580))
-* Correct misspelling of 'failed' in diary UI ([#53576](https://github.com/CleverRaven/Cataclysm-DDA/pull/53576))
-* Fix slimes multiplying infinitely ([#53573](https://github.com/CleverRaven/Cataclysm-DDA/pull/53573))
-* Fix long range teleport ([#53563](https://github.com/CleverRaven/Cataclysm-DDA/pull/53563))
