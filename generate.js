@@ -30,6 +30,13 @@ const initData = async function() {
     await getReleases();
     await getChanges()
 
+    if (releases.message || changes.message) {
+        // Short circuit if one of the APIs didn't return correctly.
+        // TODO: fail handling over multiple runs, but at the current frequency it should be fine
+        console.log("API Failure, aborting.")
+        process.exit()
+    }
+
     releases.sort((a,b) => (a.published_at < b.published_at) ? 1 : -1)
     changes.sort((a,b) => (a.merged_at < b.merged_at) ? 1 : -1)
 }
