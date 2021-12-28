@@ -130,8 +130,6 @@ Cataclysm-DDA experimental build 2021-12-23-0559 (d6eef4f)
 
 Cataclysm-DDA experimental build 2021-12-22-1921 (8b32af6)
 * Remove lobster helmet (#53660)
-
-Cataclysm-DDA experimental build 2021-12-22-1415 (c0953e1)
 * Fix vehicle damage test + Additional degradation tests (#53633)
 * Improve the description of Synaptic Regeneration System. (#53640)
 * Translate pocket descriptions (#53628)
