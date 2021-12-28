@@ -3,11 +3,12 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 * * * *' # Every hour. Ref https://crontab.guru/examples.html
+    - cron:  '*/5 * * * *'
+    # Was originally every hour, now every five minutes, but won't be that often anyway: https://upptime.js.org/blog/2021/01/22/github-actions-schedule-not-working/
 name: Generate Changelog
 jobs:
   build:
-    name: Build
+    name: Generate Changelog
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
