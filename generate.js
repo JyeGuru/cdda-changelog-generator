@@ -28,7 +28,10 @@ const getChanges = async function() {
 
 const initData = async function() {
     await getReleases();
-    await getChanges();
+    await getChanges()
+
+    releases.sort((a,b) => (a.published_at < b.published_at) ? 1 : -1)
+    changes.sort((a,b) => (a.merged_at < b.merged_at) ? 1 : -1)
 }
 
 const generateChanges = async function() {
@@ -37,13 +40,15 @@ const generateChanges = async function() {
 
     await initData();
     for (const change of changes) {
-        let release = releases.find(x => x.target_commitish === change.merge_commit_sha);
-        if (release) {
-            markdown += `\n---\n\n#### ${release.name} ([${release.target_commitish.substring(0,7)}](${release.html_url}))\n\n`;
-            plaintext += `\n${release.name} (${release.target_commitish.substring(0,7)})\n`;
+        if (change.merged_at) {
+            let release = releases.find(x => x.target_commitish === change.merge_commit_sha);
+            if (release) {
+                markdown += `\n---\n\n#### ${release.name} ([${release.target_commitish.substring(0,7)}](${release.html_url}))\n\n`;
+                plaintext += `\n${release.name} (${release.target_commitish.substring(0,7)})\n`;
+            }
+            markdown += `* ${change.title} ([#${change.number}](${change.html_url}))\n`;
+            plaintext += `* ${change.title} (#${change.number})\n`;
         }
-        markdown += `* ${change.title} ([#${change.number}](${change.html_url}))\n`;
-        plaintext += `* ${change.title} (#${change.number})\n`;
     }
     return {
         markdown: markdown,
