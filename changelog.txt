@@ -5,16 +5,9 @@
 * Enable calories intake tracker in both atomic smartphones (#53711)
 * TropiCataclysm: Some more mammals and changes (#53758)
 * Progress bar or feedback for compose.py (#53815)
-* Correctly generate stack trace with ASLR enabled (#53837)
-
-Cataclysm-DDA experimental build 2021-12-28-1625 (d239083)
-* Revert "Downgrade MXE GCC to 9.3" (#53833)
 
 Cataclysm-DDA experimental build 2021-12-28-1306 (cb14c61)
 * Place monster corpses in json mapgen and jsonify "grave" map extra (#53782)
-
-Cataclysm-DDA experimental build 2021-12-28-0235 (fbab99b)
-* Adding gun mod to use m240 and m249 in semi-auto mode (#53821)
 
 Cataclysm-DDA experimental build 2021-12-27-2333 (7f32d77)
 * ID cards are now categorized as KEYS (#53770)
@@ -24,20 +17,10 @@ Cataclysm-DDA experimental build 2021-12-27-2333 (7f32d77)
 
 Cataclysm-DDA experimental build 2021-12-27-2151 (48b8ece)
 * Downgrade MXE GCC to 9.3 (#53805)
-
-Cataclysm-DDA experimental build 2021-12-27-0903 (f8734ab)
-* Carabiners now can hold pots (#53786)
-* Skip capital letter words in spell check (#53783)
-
-Cataclysm-DDA experimental build 2021-12-27-0754 (83137a8)
-* Add missing args to formatted string (#53799)
 * Don't enumerate obsolete mods. (#53750)
 
 Cataclysm-DDA experimental build 2021-12-27-0434 (162201a)
 * Add more tools for cutting metal (#53757)
-
-Cataclysm-DDA experimental build 2021-12-27-0250 (77de2bd)
-* Replace removed overmap special id (fixes consistency check) (#53778)
 
 Cataclysm-DDA experimental build 2021-12-27-0100 (c094790)
 * Add monster electric resistances (#53736)
@@ -48,13 +31,34 @@ Cataclysm-DDA experimental build 2021-12-26-1058 (34f079e)
 * Fix ruminant/grazer hunger lock (#53769)
 * Add missing space in Lizard Tail technique message (#53740)
 * Do not post duplicate spell checking alerts (#53756)
-* Fixed inability to sleep in a boat in deep water (#53761)
 * Fixed infinite water in puddles (#53760)
-* Misc typo fixes (#53759)
-* Fix some loaded data persisting between games (#53776)
 
 Cataclysm-DDA experimental build 2021-12-26-0917 (4105c25)
 * Bulk JSON typo fixes (#53775)
+* Explicitly state type of empty_filter lambda expression in craft_commands.cpp (#53727)
+* Update launching condition of Text Changes Analyzer (#53723)
+* Skip translating sole tags in NPC dialogue lines (#53721)
+* Fix syntax error in test labeler GHA workflow (#53728)
+* Correctly generate stack trace with ASLR enabled (#53837)
+
+Cataclysm-DDA experimental build 2021-12-28-1625 (d239083)
+* Revert "Downgrade MXE GCC to 9.3" (#53833)
+
+Cataclysm-DDA experimental build 2021-12-28-0235 (fbab99b)
+* Adding gun mod to use m240 and m249 in semi-auto mode (#53821)
+
+Cataclysm-DDA experimental build 2021-12-27-0903 (f8734ab)
+* Carabiners now can hold pots (#53786)
+* Skip capital letter words in spell check (#53783)
+
+Cataclysm-DDA experimental build 2021-12-27-0754 (83137a8)
+* Add missing args to formatted string (#53799)
+
+Cataclysm-DDA experimental build 2021-12-27-0250 (77de2bd)
+* Replace removed overmap special id (fixes consistency check) (#53778)
+* Fixed inability to sleep in a boat in deep water (#53761)
+* Misc typo fixes (#53759)
+* Fix some loaded data persisting between games (#53776)
 
 Cataclysm-DDA experimental build 2021-12-26-0712 (5d4daeb)
 * Fix odd palisade gates in trailer parks (#53771)
@@ -79,15 +83,11 @@ Cataclysm-DDA experimental build 2021-12-24-1925 (a41de98)
 * Fix misspelling of 'specialized' in ballistic armor (#53735)
 * Automatic spell check on pull requests (#53734)
 * Fix typo in spell of Storm Elemental (#53731)
-* Explicitly state type of empty_filter lambda expression in craft_commands.cpp (#53727)
-* Update launching condition of Text Changes Analyzer (#53723)
-* Skip translating sole tags in NPC dialogue lines (#53721)
 * Const-ify mood face indicator (#53719)
 * Alcohol Adjustments (#53716)
 
 Cataclysm-DDA experimental build 2021-12-24-1745 (e0f5c4e)
 * Enabled ablative style plates that degraded normally (#53713)
-* Fix syntax error in test labeler GHA workflow (#53728)
 
 Cataclysm-DDA experimental build 2021-12-24-1109 (83b08cc)
 * Before deploying furniture, players need to clear the tile. (#53724)
@@ -146,6 +146,5 @@ Cataclysm-DDA experimental build 2021-12-22-1921 (8b32af6)
 * adding footwear info for LEG_TENTACLES mutation (#53600)
 * Fix detach_vehicle errors and other test issues (#53598)
 * Move armor suits from the normal to the outer layer (#53590)
-* gitignore: improve BUILD_PREFIX support (#53585)
 * Fix ‘ammunition’ typo in caravan_category_name() (#53609)
 * Add basic build special case logic to label removal (#53594)
