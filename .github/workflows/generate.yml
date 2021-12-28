@@ -1,6 +1,7 @@
 # Idea thanks to https://github.com/sw-yx/gh-action-data-scraping/
 
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '0 * * * *' # Every hour. Ref https://crontab.guru/examples.html
 name: Generate Changelog
