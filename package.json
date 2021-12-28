@@ -1,0 +1,16 @@
+{
+  "name": "cdda-changelog-generator",
+  "version": "1.0.0",
+  "description": "A simple changelog generator for CDDA.",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "generate": "node ./generate.js"
+  },
+  "author": "JyeGuru <me@jye.guru>",
+  "license": "CC-BY-SA-3.0"
+}

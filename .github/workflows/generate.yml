@@ -1,0 +1,19 @@
+# Idea thanks to https://github.com/sw-yx/gh-action-data-scraping/
+
+on:
+  schedule:
+    - cron:  '0 * * * *' # Every hour. Ref https://crontab.guru/examples.html
+name: Generate Changelog
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Build
+      run: npm install
+    - name: Generate
+      run: npm run generate
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
