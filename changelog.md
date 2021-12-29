@@ -233,5 +233,4 @@
 * Fix pawn shop floor appearing outside of building ([#53610](https://github.com/CleverRaven/Cataclysm-DDA/pull/53610))
 * Adds ability to remove, fields, vehicles, items, and traps to update_mapgen ([#53605](https://github.com/CleverRaven/Cataclysm-DDA/pull/53605))
 * Display terrain/furniture descriptions in Look Around / Mouse View ([#53602](https://github.com/CleverRaven/Cataclysm-DDA/pull/53602))
-* adding footwear info for LEG_TENTACLES mutation ([#53600](https://github.com/CleverRaven/Cataclysm-DDA/pull/53600))
 * Fix ‘ammunition’ typo in caravan_category_name() ([#53609](https://github.com/CleverRaven/Cataclysm-DDA/pull/53609))
