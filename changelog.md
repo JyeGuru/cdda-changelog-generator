@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-29-0225 ([0a4da06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0225))
+
+* Added a sort zone for keys ([#53850](https://github.com/CleverRaven/Cataclysm-DDA/pull/53850))
 * fixes cargo weight mod bottoming to 0 ([#53812](https://github.com/CleverRaven/Cataclysm-DDA/pull/53812))
 * Prevent Mana Nose CBM from use by Earthshaper ([#53810](https://github.com/CleverRaven/Cataclysm-DDA/pull/53810))
 * Crafting: Colorize component selection options ([#53798](https://github.com/CleverRaven/Cataclysm-DDA/pull/53798))
@@ -5,12 +11,25 @@
 * Enable calories intake tracker in both atomic smartphones ([#53711](https://github.com/CleverRaven/Cataclysm-DDA/pull/53711))
 * TropiCataclysm: Some more mammals and changes ([#53758](https://github.com/CleverRaven/Cataclysm-DDA/pull/53758))
 * Progress bar or feedback for compose.py ([#53815](https://github.com/CleverRaven/Cataclysm-DDA/pull/53815))
+* Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-28-1625 ([d239083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-1625))
+
+* Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
 
 ---
 
 #### Cataclysm-DDA experimental build 2021-12-28-1306 ([cb14c61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-1306))
 
 * Place monster corpses in json mapgen and jsonify "grave" map extra ([#53782](https://github.com/CleverRaven/Cataclysm-DDA/pull/53782))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-28-0235 ([fbab99b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-0235))
+
+* Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
 
 ---
 
@@ -26,6 +45,19 @@
 #### Cataclysm-DDA experimental build 2021-12-27-2151 ([48b8ece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-2151))
 
 * Downgrade MXE GCC to 9.3 ([#53805](https://github.com/CleverRaven/Cataclysm-DDA/pull/53805))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-27-0903 ([f8734ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0903))
+
+* Carabiners now can hold pots ([#53786](https://github.com/CleverRaven/Cataclysm-DDA/pull/53786))
+* Skip capital letter words in spell check ([#53783](https://github.com/CleverRaven/Cataclysm-DDA/pull/53783))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-27-0754 ([83137a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0754))
+
+* Add missing args to formatted string ([#53799](https://github.com/CleverRaven/Cataclysm-DDA/pull/53799))
 * Don't enumerate obsolete mods. ([#53750](https://github.com/CleverRaven/Cataclysm-DDA/pull/53750))
 
 ---
@@ -33,6 +65,12 @@
 #### Cataclysm-DDA experimental build 2021-12-27-0434 ([162201a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0434))
 
 * Add more tools for cutting metal ([#53757](https://github.com/CleverRaven/Cataclysm-DDA/pull/53757))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-27-0250 ([77de2bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0250))
+
+* Replace removed overmap special id (fixes consistency check) ([#53778](https://github.com/CleverRaven/Cataclysm-DDA/pull/53778))
 
 ---
 
@@ -49,52 +87,16 @@
 * Fix ruminant/grazer hunger lock ([#53769](https://github.com/CleverRaven/Cataclysm-DDA/pull/53769))
 * Add missing space in Lizard Tail technique message ([#53740](https://github.com/CleverRaven/Cataclysm-DDA/pull/53740))
 * Do not post duplicate spell checking alerts ([#53756](https://github.com/CleverRaven/Cataclysm-DDA/pull/53756))
+* Fixed inability to sleep in a boat in deep water ([#53761](https://github.com/CleverRaven/Cataclysm-DDA/pull/53761))
 * Fixed infinite water in puddles ([#53760](https://github.com/CleverRaven/Cataclysm-DDA/pull/53760))
+* Misc typo fixes ([#53759](https://github.com/CleverRaven/Cataclysm-DDA/pull/53759))
+* Fix some loaded data persisting between games ([#53776](https://github.com/CleverRaven/Cataclysm-DDA/pull/53776))
 
 ---
 
 #### Cataclysm-DDA experimental build 2021-12-26-0917 ([4105c25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-26-0917))
 
 * Bulk JSON typo fixes ([#53775](https://github.com/CleverRaven/Cataclysm-DDA/pull/53775))
-* Explicitly state type of empty_filter lambda expression in craft_commands.cpp ([#53727](https://github.com/CleverRaven/Cataclysm-DDA/pull/53727))
-* Update launching condition of Text Changes Analyzer ([#53723](https://github.com/CleverRaven/Cataclysm-DDA/pull/53723))
-* Skip translating sole tags in NPC dialogue lines ([#53721](https://github.com/CleverRaven/Cataclysm-DDA/pull/53721))
-* Fix syntax error in test labeler GHA workflow ([#53728](https://github.com/CleverRaven/Cataclysm-DDA/pull/53728))
-* Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-28-1625 ([d239083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-1625))
-
-* Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-28-0235 ([fbab99b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-0235))
-
-* Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-0903 ([f8734ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0903))
-
-* Carabiners now can hold pots ([#53786](https://github.com/CleverRaven/Cataclysm-DDA/pull/53786))
-* Skip capital letter words in spell check ([#53783](https://github.com/CleverRaven/Cataclysm-DDA/pull/53783))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-0754 ([83137a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0754))
-
-* Add missing args to formatted string ([#53799](https://github.com/CleverRaven/Cataclysm-DDA/pull/53799))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-0250 ([77de2bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0250))
-
-* Replace removed overmap special id (fixes consistency check) ([#53778](https://github.com/CleverRaven/Cataclysm-DDA/pull/53778))
-* Fixed inability to sleep in a boat in deep water ([#53761](https://github.com/CleverRaven/Cataclysm-DDA/pull/53761))
-* Misc typo fixes ([#53759](https://github.com/CleverRaven/Cataclysm-DDA/pull/53759))
-* Fix some loaded data persisting between games ([#53776](https://github.com/CleverRaven/Cataclysm-DDA/pull/53776))
 
 ---
 
@@ -137,6 +139,9 @@
 * Fix misspelling of 'specialized' in ballistic armor ([#53735](https://github.com/CleverRaven/Cataclysm-DDA/pull/53735))
 * Automatic spell check on pull requests ([#53734](https://github.com/CleverRaven/Cataclysm-DDA/pull/53734))
 * Fix typo in spell of Storm Elemental ([#53731](https://github.com/CleverRaven/Cataclysm-DDA/pull/53731))
+* Explicitly state type of empty_filter lambda expression in craft_commands.cpp ([#53727](https://github.com/CleverRaven/Cataclysm-DDA/pull/53727))
+* Update launching condition of Text Changes Analyzer ([#53723](https://github.com/CleverRaven/Cataclysm-DDA/pull/53723))
+* Skip translating sole tags in NPC dialogue lines ([#53721](https://github.com/CleverRaven/Cataclysm-DDA/pull/53721))
 * Const-ify mood face indicator ([#53719](https://github.com/CleverRaven/Cataclysm-DDA/pull/53719))
 * Alcohol Adjustments ([#53716](https://github.com/CleverRaven/Cataclysm-DDA/pull/53716))
 
@@ -145,6 +150,7 @@
 #### Cataclysm-DDA experimental build 2021-12-24-1745 ([e0f5c4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-24-1745))
 
 * Enabled ablative style plates that degraded normally ([#53713](https://github.com/CleverRaven/Cataclysm-DDA/pull/53713))
+* Fix syntax error in test labeler GHA workflow ([#53728](https://github.com/CleverRaven/Cataclysm-DDA/pull/53728))
 
 ---
 
@@ -205,11 +211,6 @@
 * TropiCataclysm: More South American fauna + Old World newcomers ([#53630](https://github.com/CleverRaven/Cataclysm-DDA/pull/53630))
 * Removed bashism (path expansion) from Makefile. ([#53626](https://github.com/CleverRaven/Cataclysm-DDA/pull/53626))
 * Rework on_death effect for slimes ([#53617](https://github.com/CleverRaven/Cataclysm-DDA/pull/53617))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-22-1921 ([8b32af6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-22-1921))
-
 * Remove lobster helmet ([#53660](https://github.com/CleverRaven/Cataclysm-DDA/pull/53660))
 * Fix vehicle damage test + Additional degradation tests ([#53633](https://github.com/CleverRaven/Cataclysm-DDA/pull/53633))
 * Improve the description of Synaptic Regeneration System. ([#53640](https://github.com/CleverRaven/Cataclysm-DDA/pull/53640))
