@@ -1,7 +1,7 @@
 * Rewrite fitness band heart-rate measurement function to make use of new heart rate variables (#53627)
 
-Cataclysm-DDA experimental build 2021-12-29-0647 (80c5f8d)
-* Layering Info Can Now Be Defined Per Limb (#53682)
+Cataclysm-DDA experimental build 2021-12-29-2136 (d85d040)
+* Distinguish personal/regular zones, add bulk enable/disable shortcuts (#53730)
 
 Cataclysm-DDA experimental build 2021-12-29-1144 (ae582e0)
 * Fix some typos and grammar inconsistencies (#53855)
@@ -12,6 +12,9 @@ Cataclysm-DDA experimental build 2021-12-29-0817 (a8dec18)
 * Use map_extra_id over std::string (#53838)
 * Replace f_scrap_bridge with t_scrap_bridge (#53840)
 * Fix MSVC type conversion warnings (#53856)
+
+Cataclysm-DDA experimental build 2021-12-29-0647 (80c5f8d)
+* Layering Info Can Now Be Defined Per Limb (#53682)
 
 Cataclysm-DDA experimental build 2021-12-29-0329 (02b403f)
 * Phased mapgen fixes (#53842)
@@ -124,8 +127,6 @@ Cataclysm-DDA experimental build 2021-12-24-0321 (8ce83a9)
 * Dialog variable clean up (#53696)
 * Balance crossbow hunter and bow hunter (#53629)
 * Simplify windows workflows for latest run-vcpkg release. (#53717)
-
-Cataclysm-DDA experimental build 2021-12-23-1949 (dcf1455)
 * Fix XL pot helmet thickness (#53653)
 * Make camspy non-hostile (#53686)
 * Weapon Categories: Niten Ichi-Ryu (#53695)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2021-12-23-1949 (dcf1455)
 * Pluralize message in MOLLE attach screen (#53665)
 * Add Leather Skirt and Kilt Recipes (#53650)
 * Stop hallucinating mon_human (#53649)
-* Fix some grammar in id_cards.json (#53622)

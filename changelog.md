@@ -2,9 +2,9 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2021-12-29-0647 ([80c5f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0647))
+#### Cataclysm-DDA experimental build 2021-12-29-2136 ([d85d040](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-2136))
 
-* Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
+* Distinguish personal/regular zones, add bulk enable/disable shortcuts ([#53730](https://github.com/CleverRaven/Cataclysm-DDA/pull/53730))
 
 ---
 
@@ -21,6 +21,12 @@
 * Use map_extra_id over std::string ([#53838](https://github.com/CleverRaven/Cataclysm-DDA/pull/53838))
 * Replace f_scrap_bridge with t_scrap_bridge ([#53840](https://github.com/CleverRaven/Cataclysm-DDA/pull/53840))
 * Fix MSVC type conversion warnings ([#53856](https://github.com/CleverRaven/Cataclysm-DDA/pull/53856))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-29-0647 ([80c5f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0647))
+
+* Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
 
 ---
 
@@ -205,11 +211,6 @@
 * Dialog variable clean up ([#53696](https://github.com/CleverRaven/Cataclysm-DDA/pull/53696))
 * Balance crossbow hunter and bow hunter ([#53629](https://github.com/CleverRaven/Cataclysm-DDA/pull/53629))
 * Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-23-1949 ([dcf1455](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-23-1949))
-
 * Fix XL pot helmet thickness ([#53653](https://github.com/CleverRaven/Cataclysm-DDA/pull/53653))
 * Make camspy non-hostile ([#53686](https://github.com/CleverRaven/Cataclysm-DDA/pull/53686))
 * Weapon Categories: Niten Ichi-Ryu ([#53695](https://github.com/CleverRaven/Cataclysm-DDA/pull/53695))
@@ -233,4 +234,3 @@
 * Pluralize message in MOLLE attach screen ([#53665](https://github.com/CleverRaven/Cataclysm-DDA/pull/53665))
 * Add Leather Skirt and Kilt Recipes ([#53650](https://github.com/CleverRaven/Cataclysm-DDA/pull/53650))
 * Stop hallucinating mon_human ([#53649](https://github.com/CleverRaven/Cataclysm-DDA/pull/53649))
-* Fix some grammar in id_cards.json ([#53622](https://github.com/CleverRaven/Cataclysm-DDA/pull/53622))
