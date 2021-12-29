@@ -8,6 +8,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2021-12-29-1144 ([ae582e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-1144))
+
+* Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
+
+---
+
 #### Cataclysm-DDA experimental build 2021-12-29-0817 ([a8dec18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0817))
 
 * Irradiated Zombies drop corpses and have normalized loot drops ([#53857](https://github.com/CleverRaven/Cataclysm-DDA/pull/53857))
@@ -205,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2021-12-23-1949 ([dcf1455](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-23-1949))
 
 * Fix XL pot helmet thickness ([#53653](https://github.com/CleverRaven/Cataclysm-DDA/pull/53653))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-23-0930 ([14aa061](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-23-0930))
-
 * Make camspy non-hostile ([#53686](https://github.com/CleverRaven/Cataclysm-DDA/pull/53686))
 * Weapon Categories: Niten Ichi-Ryu ([#53695](https://github.com/CleverRaven/Cataclysm-DDA/pull/53695))
 * Allow mutants to transform appropriate worn gear ([#53681](https://github.com/CleverRaven/Cataclysm-DDA/pull/53681))
@@ -225,7 +226,6 @@
 * Fix typo in liquid handling menu ([#53639](https://github.com/CleverRaven/Cataclysm-DDA/pull/53639))
 * TropiCataclysm: More South American fauna + Old World newcomers ([#53630](https://github.com/CleverRaven/Cataclysm-DDA/pull/53630))
 * Removed bashism (path expansion) from Makefile. ([#53626](https://github.com/CleverRaven/Cataclysm-DDA/pull/53626))
-* Rework on_death effect for slimes ([#53617](https://github.com/CleverRaven/Cataclysm-DDA/pull/53617))
 * Remove lobster helmet ([#53660](https://github.com/CleverRaven/Cataclysm-DDA/pull/53660))
 * Fix vehicle damage test + Additional degradation tests ([#53633](https://github.com/CleverRaven/Cataclysm-DDA/pull/53633))
 * Improve the description of Synaptic Regeneration System. ([#53640](https://github.com/CleverRaven/Cataclysm-DDA/pull/53640))
