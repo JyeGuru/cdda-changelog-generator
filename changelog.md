@@ -1,9 +1,15 @@
+* Rewrite fitness band heart-rate measurement function to make use of new heart rate variables ([#53627](https://github.com/CleverRaven/Cataclysm-DDA/pull/53627))
 
 ---
 
 #### Cataclysm-DDA experimental build 2021-12-29-0647 ([80c5f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0647))
 
 * Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
+* Irradiated Zombies drop corpses and have normalized loot drops ([#53857](https://github.com/CleverRaven/Cataclysm-DDA/pull/53857))
+* Portal storm tweaks ([#53817](https://github.com/CleverRaven/Cataclysm-DDA/pull/53817))
+* Use map_extra_id over std::string ([#53838](https://github.com/CleverRaven/Cataclysm-DDA/pull/53838))
+* Replace f_scrap_bridge with t_scrap_bridge ([#53840](https://github.com/CleverRaven/Cataclysm-DDA/pull/53840))
+* Fix MSVC type conversion warnings ([#53856](https://github.com/CleverRaven/Cataclysm-DDA/pull/53856))
 
 ---
 
@@ -226,11 +232,5 @@
 * Translate pocket descriptions ([#53628](https://github.com/CleverRaven/Cataclysm-DDA/pull/53628))
 * Pluralize message in MOLLE attach screen ([#53665](https://github.com/CleverRaven/Cataclysm-DDA/pull/53665))
 * Add Leather Skirt and Kilt Recipes ([#53650](https://github.com/CleverRaven/Cataclysm-DDA/pull/53650))
-* Allow character swap on death. ([#53606](https://github.com/CleverRaven/Cataclysm-DDA/pull/53606))
 * Stop hallucinating mon_human ([#53649](https://github.com/CleverRaven/Cataclysm-DDA/pull/53649))
 * Fix some grammar in id_cards.json ([#53622](https://github.com/CleverRaven/Cataclysm-DDA/pull/53622))
-* Migrate "comfort" and "floor_bedding_warmth" to common map data ([#53612](https://github.com/CleverRaven/Cataclysm-DDA/pull/53612))
-* Fix typographical errors in #53420 ([#53611](https://github.com/CleverRaven/Cataclysm-DDA/pull/53611))
-* Fix pawn shop floor appearing outside of building ([#53610](https://github.com/CleverRaven/Cataclysm-DDA/pull/53610))
-* Adds ability to remove, fields, vehicles, items, and traps to update_mapgen ([#53605](https://github.com/CleverRaven/Cataclysm-DDA/pull/53605))
-* Fix ‘ammunition’ typo in caravan_category_name() ([#53609](https://github.com/CleverRaven/Cataclysm-DDA/pull/53609))
