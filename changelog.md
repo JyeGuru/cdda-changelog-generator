@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2021-12-29-0647 ([80c5f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0647))
+
+* Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
+
+---
+
 #### Cataclysm-DDA experimental build 2021-12-29-0329 ([02b403f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0329))
 
 * Phased mapgen fixes ([#53842](https://github.com/CleverRaven/Cataclysm-DDA/pull/53842))
@@ -211,11 +217,6 @@
 * Add standing lamp appliance ([#53652](https://github.com/CleverRaven/Cataclysm-DDA/pull/53652))
 * Remove unused has_pockets() ([#53651](https://github.com/CleverRaven/Cataclysm-DDA/pull/53651))
 * Fix typo in liquid handling menu ([#53639](https://github.com/CleverRaven/Cataclysm-DDA/pull/53639))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-23-0559 ([d6eef4f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-23-0559))
-
 * TropiCataclysm: More South American fauna + Old World newcomers ([#53630](https://github.com/CleverRaven/Cataclysm-DDA/pull/53630))
 * Removed bashism (path expansion) from Makefile. ([#53626](https://github.com/CleverRaven/Cataclysm-DDA/pull/53626))
 * Rework on_death effect for slimes ([#53617](https://github.com/CleverRaven/Cataclysm-DDA/pull/53617))
@@ -232,5 +233,4 @@
 * Fix typographical errors in #53420 ([#53611](https://github.com/CleverRaven/Cataclysm-DDA/pull/53611))
 * Fix pawn shop floor appearing outside of building ([#53610](https://github.com/CleverRaven/Cataclysm-DDA/pull/53610))
 * Adds ability to remove, fields, vehicles, items, and traps to update_mapgen ([#53605](https://github.com/CleverRaven/Cataclysm-DDA/pull/53605))
-* Display terrain/furniture descriptions in Look Around / Mouse View ([#53602](https://github.com/CleverRaven/Cataclysm-DDA/pull/53602))
 * Fix ‘ammunition’ typo in caravan_category_name() ([#53609](https://github.com/CleverRaven/Cataclysm-DDA/pull/53609))

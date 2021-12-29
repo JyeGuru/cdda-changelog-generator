@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2021-12-29-0647 (80c5f8d)
+* Layering Info Can Now Be Defined Per Limb (#53682)
+
 Cataclysm-DDA experimental build 2021-12-29-0329 (02b403f)
 * Phased mapgen fixes (#53842)
 * Fix missing floors in freshwater research station roof (#53843)
@@ -130,8 +133,6 @@ Cataclysm-DDA experimental build 2021-12-23-0758 (bac714d)
 * Add standing lamp appliance (#53652)
 * Remove unused has_pockets() (#53651)
 * Fix typo in liquid handling menu (#53639)
-
-Cataclysm-DDA experimental build 2021-12-23-0559 (d6eef4f)
 * TropiCataclysm: More South American fauna + Old World newcomers (#53630)
 * Removed bashism (path expansion) from Makefile. (#53626)
 * Rework on_death effect for slimes (#53617)
@@ -148,5 +149,4 @@ Cataclysm-DDA experimental build 2021-12-23-0559 (d6eef4f)
 * Fix typographical errors in #53420 (#53611)
 * Fix pawn shop floor appearing outside of building (#53610)
 * Adds ability to remove, fields, vehicles, items, and traps to update_mapgen (#53605)
-* Display terrain/furniture descriptions in Look Around / Mouse View (#53602)
 * Fix ‘ammunition’ typo in caravan_category_name() (#53609)
