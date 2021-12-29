@@ -1,3 +1,5 @@
+* Fix missing floors in freshwater research station roof ([#53843](https://github.com/CleverRaven/Cataclysm-DDA/pull/53843))
+* Fix some confusing variable names ([#53844](https://github.com/CleverRaven/Cataclysm-DDA/pull/53844))
 
 ---
 
@@ -226,7 +228,4 @@
 * Adds ability to remove, fields, vehicles, items, and traps to update_mapgen ([#53605](https://github.com/CleverRaven/Cataclysm-DDA/pull/53605))
 * Display terrain/furniture descriptions in Look Around / Mouse View ([#53602](https://github.com/CleverRaven/Cataclysm-DDA/pull/53602))
 * adding footwear info for LEG_TENTACLES mutation ([#53600](https://github.com/CleverRaven/Cataclysm-DDA/pull/53600))
-* Fix detach_vehicle errors and other test issues ([#53598](https://github.com/CleverRaven/Cataclysm-DDA/pull/53598))
-* Move armor suits from the normal to the outer layer ([#53590](https://github.com/CleverRaven/Cataclysm-DDA/pull/53590))
 * Fix ‘ammunition’ typo in caravan_category_name() ([#53609](https://github.com/CleverRaven/Cataclysm-DDA/pull/53609))
-* Add basic build special case logic to label removal ([#53594](https://github.com/CleverRaven/Cataclysm-DDA/pull/53594))
