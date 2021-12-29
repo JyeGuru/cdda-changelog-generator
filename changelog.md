@@ -1,4 +1,9 @@
-* Rewrite fitness band heart-rate measurement function to make use of new heart rate variables ([#53627](https://github.com/CleverRaven/Cataclysm-DDA/pull/53627))
+* Eliminate Self-Aware trait and replace it with sidebar widgets ([#53802](https://github.com/CleverRaven/Cataclysm-DDA/pull/53802))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-29-2240 ([c3bd37d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-2240))
+
 * Crafting: Warn when using favorite item as component ([#53794](https://github.com/CleverRaven/Cataclysm-DDA/pull/53794))
 
 ---

@@ -1,4 +1,6 @@
-* Rewrite fitness band heart-rate measurement function to make use of new heart rate variables (#53627)
+* Eliminate Self-Aware trait and replace it with sidebar widgets (#53802)
+
+Cataclysm-DDA experimental build 2021-12-29-2240 (c3bd37d)
 * Crafting: Warn when using favorite item as component (#53794)
 
 Cataclysm-DDA experimental build 2021-12-29-2136 (d85d040)
