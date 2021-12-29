@@ -2,6 +2,8 @@
 
 Cataclysm-DDA experimental build 2021-12-29-0647 (80c5f8d)
 * Layering Info Can Now Be Defined Per Limb (#53682)
+
+Cataclysm-DDA experimental build 2021-12-29-0817 (a8dec18)
 * Irradiated Zombies drop corpses and have normalized loot drops (#53857)
 * Portal storm tweaks (#53817)
 * Use map_extra_id over std::string (#53838)
@@ -125,8 +127,6 @@ Cataclysm-DDA experimental build 2021-12-23-1949 (dcf1455)
 
 Cataclysm-DDA experimental build 2021-12-23-0930 (14aa061)
 * Make camspy non-hostile (#53686)
-
-Cataclysm-DDA experimental build 2021-12-23-0758 (bac714d)
 * Weapon Categories: Niten Ichi-Ryu (#53695)
 * Allow mutants to transform appropriate worn gear (#53681)
 * Grab vehicles and furniture up and down ramps (#53673)

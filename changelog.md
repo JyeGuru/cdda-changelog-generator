@@ -5,6 +5,11 @@
 #### Cataclysm-DDA experimental build 2021-12-29-0647 ([80c5f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0647))
 
 * Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-29-0817 ([a8dec18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0817))
+
 * Irradiated Zombies drop corpses and have normalized loot drops ([#53857](https://github.com/CleverRaven/Cataclysm-DDA/pull/53857))
 * Portal storm tweaks ([#53817](https://github.com/CleverRaven/Cataclysm-DDA/pull/53817))
 * Use map_extra_id over std::string ([#53838](https://github.com/CleverRaven/Cataclysm-DDA/pull/53838))
@@ -206,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2021-12-23-0930 ([14aa061](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-23-0930))
 
 * Make camspy non-hostile ([#53686](https://github.com/CleverRaven/Cataclysm-DDA/pull/53686))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-23-0758 ([bac714d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-23-0758))
-
 * Weapon Categories: Niten Ichi-Ryu ([#53695](https://github.com/CleverRaven/Cataclysm-DDA/pull/53695))
 * Allow mutants to transform appropriate worn gear ([#53681](https://github.com/CleverRaven/Cataclysm-DDA/pull/53681))
 * Grab vehicles and furniture up and down ramps ([#53673](https://github.com/CleverRaven/Cataclysm-DDA/pull/53673))
