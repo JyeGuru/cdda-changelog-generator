@@ -1,4 +1,5 @@
 * Rewrite fitness band heart-rate measurement function to make use of new heart rate variables ([#53627](https://github.com/CleverRaven/Cataclysm-DDA/pull/53627))
+* Crafting: Warn when using favorite item as component ([#53794](https://github.com/CleverRaven/Cataclysm-DDA/pull/53794))
 
 ---
 
@@ -226,7 +227,6 @@
 * Remove unused has_pockets() ([#53651](https://github.com/CleverRaven/Cataclysm-DDA/pull/53651))
 * Fix typo in liquid handling menu ([#53639](https://github.com/CleverRaven/Cataclysm-DDA/pull/53639))
 * TropiCataclysm: More South American fauna + Old World newcomers ([#53630](https://github.com/CleverRaven/Cataclysm-DDA/pull/53630))
-* Removed bashism (path expansion) from Makefile. ([#53626](https://github.com/CleverRaven/Cataclysm-DDA/pull/53626))
 * Remove lobster helmet ([#53660](https://github.com/CleverRaven/Cataclysm-DDA/pull/53660))
 * Fix vehicle damage test + Additional degradation tests ([#53633](https://github.com/CleverRaven/Cataclysm-DDA/pull/53633))
 * Improve the description of Synaptic Regeneration System. ([#53640](https://github.com/CleverRaven/Cataclysm-DDA/pull/53640))
