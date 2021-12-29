@@ -1,3 +1,4 @@
+* Adjust format of coverage values ([#53816](https://github.com/CleverRaven/Cataclysm-DDA/pull/53816))
 * Eliminate Self-Aware trait and replace it with sidebar widgets ([#53802](https://github.com/CleverRaven/Cataclysm-DDA/pull/53802))
 
 ---
@@ -215,7 +216,6 @@
 * sdlsound.cpp: improve the debug logging ([#53709](https://github.com/CleverRaven/Cataclysm-DDA/pull/53709))
 * Fix typo in a martial art description ([#53705](https://github.com/CleverRaven/Cataclysm-DDA/pull/53705))
 * Dialog variable clean up ([#53696](https://github.com/CleverRaven/Cataclysm-DDA/pull/53696))
-* Balance crossbow hunter and bow hunter ([#53629](https://github.com/CleverRaven/Cataclysm-DDA/pull/53629))
 * Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
 * Fix XL pot helmet thickness ([#53653](https://github.com/CleverRaven/Cataclysm-DDA/pull/53653))
 * Make camspy non-hostile ([#53686](https://github.com/CleverRaven/Cataclysm-DDA/pull/53686))
@@ -235,7 +235,6 @@
 * Remove lobster helmet ([#53660](https://github.com/CleverRaven/Cataclysm-DDA/pull/53660))
 * Fix vehicle damage test + Additional degradation tests ([#53633](https://github.com/CleverRaven/Cataclysm-DDA/pull/53633))
 * Improve the description of Synaptic Regeneration System. ([#53640](https://github.com/CleverRaven/Cataclysm-DDA/pull/53640))
-* Translate pocket descriptions ([#53628](https://github.com/CleverRaven/Cataclysm-DDA/pull/53628))
 * Pluralize message in MOLLE attach screen ([#53665](https://github.com/CleverRaven/Cataclysm-DDA/pull/53665))
 * Add Leather Skirt and Kilt Recipes ([#53650](https://github.com/CleverRaven/Cataclysm-DDA/pull/53650))
 * Stop hallucinating mon_human ([#53649](https://github.com/CleverRaven/Cataclysm-DDA/pull/53649))
