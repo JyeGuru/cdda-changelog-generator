@@ -1,3 +1,4 @@
+* Rework ABSORBS/ABSORBS_SPLITS behavior ([#53741](https://github.com/CleverRaven/Cataclysm-DDA/pull/53741))
 
 ---
 
@@ -97,7 +98,6 @@
 * Add standing lamp appliance ([#53652](https://github.com/CleverRaven/Cataclysm-DDA/pull/53652))
 * Remove unused has_pockets() ([#53651](https://github.com/CleverRaven/Cataclysm-DDA/pull/53651))
 * Remove lobster helmet ([#53660](https://github.com/CleverRaven/Cataclysm-DDA/pull/53660))
-* Improve the description of Synaptic Regeneration System. ([#53640](https://github.com/CleverRaven/Cataclysm-DDA/pull/53640))
 * Pluralize message in MOLLE attach screen ([#53665](https://github.com/CleverRaven/Cataclysm-DDA/pull/53665))
 * Add Leather Skirt and Kilt Recipes ([#53650](https://github.com/CleverRaven/Cataclysm-DDA/pull/53650))
 * Stop hallucinating mon_human ([#53649](https://github.com/CleverRaven/Cataclysm-DDA/pull/53649))

@@ -1,3 +1,4 @@
+* Rework ABSORBS/ABSORBS_SPLITS behavior (#53741)
 
 Cataclysm-DDA experimental build 2021-12-29-2136 (d85d040)
 * Distinguish personal/regular zones, add bulk enable/disable shortcuts (#53730)
@@ -64,7 +65,6 @@ Cataclysm-DDA experimental build 2021-12-24-1109 (83b08cc)
 * Add standing lamp appliance (#53652)
 * Remove unused has_pockets() (#53651)
 * Remove lobster helmet (#53660)
-* Improve the description of Synaptic Regeneration System. (#53640)
 * Pluralize message in MOLLE attach screen (#53665)
 * Add Leather Skirt and Kilt Recipes (#53650)
 * Stop hallucinating mon_human (#53649)
