@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-30-2228 ([a9de872](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-2228))
+
 * Enhance limb arm scores, rework block logic ([#53746](https://github.com/CleverRaven/Cataclysm-DDA/pull/53746))
 
 ---
@@ -202,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2021-12-26-0917 ([4105c25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-26-0917))
 
 * Bulk JSON typo fixes ([#53775](https://github.com/CleverRaven/Cataclysm-DDA/pull/53775))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-26-0712 ([5d4daeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-26-0712))
-
 * Fix odd palisade gates in trailer parks ([#53771](https://github.com/CleverRaven/Cataclysm-DDA/pull/53771))
 * Parkour training fix ([#53745](https://github.com/CleverRaven/Cataclysm-DDA/pull/53745))
 * Routine i18n updates on 25 December 2021 ([#53754](https://github.com/CleverRaven/Cataclysm-DDA/pull/53754))
