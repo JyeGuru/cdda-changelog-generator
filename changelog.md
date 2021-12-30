@@ -18,12 +18,9 @@
 * Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
 * Avoid misplaced portal traps ([#53698](https://github.com/CleverRaven/Cataclysm-DDA/pull/53698))
 * Enable calories intake tracker in both atomic smartphones ([#53711](https://github.com/CleverRaven/Cataclysm-DDA/pull/53711))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-0100 ([c094790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0100))
-
-* Add monster electric resistances ([#53736](https://github.com/CleverRaven/Cataclysm-DDA/pull/53736))
+* Instructional books are now manuals ([#53852](https://github.com/CleverRaven/Cataclysm-DDA/pull/53852))
+* Modern Chainmail ([#53820](https://github.com/CleverRaven/Cataclysm-DDA/pull/53820))
+* Add Storage Lines ([#53790](https://github.com/CleverRaven/Cataclysm-DDA/pull/53790))
 * Reenable auto deconstruction removing wheels ([#53859](https://github.com/CleverRaven/Cataclysm-DDA/pull/53859))
 * Change tanned hides/pelts to GENERIC (was AMMO) ([#53866](https://github.com/CleverRaven/Cataclysm-DDA/pull/53866))
 
@@ -152,6 +149,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2021-12-27-0100 ([c094790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0100))
+
+* Add monster electric resistances ([#53736](https://github.com/CleverRaven/Cataclysm-DDA/pull/53736))
+
+---
+
 #### Cataclysm-DDA experimental build 2021-12-26-1058 ([34f079e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-26-1058))
 
 * Cave roof fix ([#53743](https://github.com/CleverRaven/Cataclysm-DDA/pull/53743))
@@ -225,7 +228,6 @@
 * Fix typo in a martial art description ([#53705](https://github.com/CleverRaven/Cataclysm-DDA/pull/53705))
 * Dialog variable clean up ([#53696](https://github.com/CleverRaven/Cataclysm-DDA/pull/53696))
 * Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
-* Fix XL pot helmet thickness ([#53653](https://github.com/CleverRaven/Cataclysm-DDA/pull/53653))
 * Make camspy non-hostile ([#53686](https://github.com/CleverRaven/Cataclysm-DDA/pull/53686))
 * Weapon Categories: Niten Ichi-Ryu ([#53695](https://github.com/CleverRaven/Cataclysm-DDA/pull/53695))
 * Allow mutants to transform appropriate worn gear ([#53681](https://github.com/CleverRaven/Cataclysm-DDA/pull/53681))
@@ -236,6 +238,4 @@
 * Occupied lmoe shelter adjustments ([#53666](https://github.com/CleverRaven/Cataclysm-DDA/pull/53666))
 * Shorter dialog var names ([#53664](https://github.com/CleverRaven/Cataclysm-DDA/pull/53664))
 * Fix Yrax Trifacet flag ([#53662](https://github.com/CleverRaven/Cataclysm-DDA/pull/53662))
-* Add standing lamp appliance ([#53652](https://github.com/CleverRaven/Cataclysm-DDA/pull/53652))
-* Remove lobster helmet ([#53660](https://github.com/CleverRaven/Cataclysm-DDA/pull/53660))
 * Pluralize message in MOLLE attach screen ([#53665](https://github.com/CleverRaven/Cataclysm-DDA/pull/53665))
