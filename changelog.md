@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-30-1516 ([75a01ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-1516))
+
 * Fixed double material thickness for some armor defs ([#53881](https://github.com/CleverRaven/Cataclysm-DDA/pull/53881))
 
 ---
@@ -208,11 +213,6 @@
 #### Cataclysm-DDA experimental build 2021-12-26-0712 ([5d4daeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-26-0712))
 
 * Fix odd palisade gates in trailer parks ([#53771](https://github.com/CleverRaven/Cataclysm-DDA/pull/53771))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-25-0755 ([b5228cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0755))
-
 * Parkour training fix ([#53745](https://github.com/CleverRaven/Cataclysm-DDA/pull/53745))
 * Routine i18n updates on 25 December 2021 ([#53754](https://github.com/CleverRaven/Cataclysm-DDA/pull/53754))
 * Migrate overmap specials ([#53702](https://github.com/CleverRaven/Cataclysm-DDA/pull/53702))

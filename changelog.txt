@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2021-12-30-1516 (75a01ca)
 * Fixed double material thickness for some armor defs (#53881)
 
 Cataclysm-DDA experimental build 2021-12-30-1356 (f19c3dd)
@@ -124,8 +126,6 @@ Cataclysm-DDA experimental build 2021-12-26-0917 (4105c25)
 
 Cataclysm-DDA experimental build 2021-12-26-0712 (5d4daeb)
 * Fix odd palisade gates in trailer parks (#53771)
-
-Cataclysm-DDA experimental build 2021-12-25-0755 (b5228cf)
 * Parkour training fix (#53745)
 * Routine i18n updates on 25 December 2021 (#53754)
 * Migrate overmap specials (#53702)
