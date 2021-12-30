@@ -24,83 +24,14 @@
 #### Cataclysm-DDA experimental build 2021-12-27-0100 ([c094790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0100))
 
 * Add monster electric resistances ([#53736](https://github.com/CleverRaven/Cataclysm-DDA/pull/53736))
+* Reenable auto deconstruction removing wheels ([#53859](https://github.com/CleverRaven/Cataclysm-DDA/pull/53859))
+* Change tanned hides/pelts to GENERIC (was AMMO) ([#53866](https://github.com/CleverRaven/Cataclysm-DDA/pull/53866))
 
 ---
 
-#### Cataclysm-DDA experimental build 2021-12-26-1058 ([34f079e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-26-1058))
+#### Cataclysm-DDA experimental build 2021-12-30-0612 ([3c154af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0612))
 
-* Cave roof fix ([#53743](https://github.com/CleverRaven/Cataclysm-DDA/pull/53743))
-* Add missing space in Lizard Tail technique message ([#53740](https://github.com/CleverRaven/Cataclysm-DDA/pull/53740))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-25-0755 ([b5228cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0755))
-
-* Parkour training fix ([#53745](https://github.com/CleverRaven/Cataclysm-DDA/pull/53745))
-* Migrate overmap specials ([#53702](https://github.com/CleverRaven/Cataclysm-DDA/pull/53702))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-25-0648 ([1f2ddd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0648))
-
-* Crafting: Prevent unloading items that shouldn't be unloaded ([#53739](https://github.com/CleverRaven/Cataclysm-DDA/pull/53739))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-25-0139 ([3c2e9f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0139))
-
-* Permit aquatic mutants sleep in deep water ([#53742](https://github.com/CleverRaven/Cataclysm-DDA/pull/53742))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-25-0001 ([854d649](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0001))
-
-* Fix graveyard file name collision ([#53744](https://github.com/CleverRaven/Cataclysm-DDA/pull/53744))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-24-1925 ([a41de98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-24-1925))
-
-* Remove grass spawning inside dojos ([#53738](https://github.com/CleverRaven/Cataclysm-DDA/pull/53738))
-* Fix misspelling of 'specialized' in ballistic armor ([#53735](https://github.com/CleverRaven/Cataclysm-DDA/pull/53735))
-* Automatic spell check on pull requests ([#53734](https://github.com/CleverRaven/Cataclysm-DDA/pull/53734))
-* Fix typo in spell of Storm Elemental ([#53731](https://github.com/CleverRaven/Cataclysm-DDA/pull/53731))
-* Explicitly state type of empty_filter lambda expression in craft_commands.cpp ([#53727](https://github.com/CleverRaven/Cataclysm-DDA/pull/53727))
-* Update launching condition of Text Changes Analyzer ([#53723](https://github.com/CleverRaven/Cataclysm-DDA/pull/53723))
-* Skip translating sole tags in NPC dialogue lines ([#53721](https://github.com/CleverRaven/Cataclysm-DDA/pull/53721))
-* Const-ify mood face indicator ([#53719](https://github.com/CleverRaven/Cataclysm-DDA/pull/53719))
-* Alcohol Adjustments ([#53716](https://github.com/CleverRaven/Cataclysm-DDA/pull/53716))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-24-1745 ([e0f5c4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-24-1745))
-
-* Enabled ablative style plates that degraded normally ([#53713](https://github.com/CleverRaven/Cataclysm-DDA/pull/53713))
-* Fix syntax error in test labeler GHA workflow ([#53728](https://github.com/CleverRaven/Cataclysm-DDA/pull/53728))
-* Before deploying furniture, players need to clear the tile. ([#53724](https://github.com/CleverRaven/Cataclysm-DDA/pull/53724))
-* Add OVERSIZE to cigars, cigarettes, and joints ([#53669](https://github.com/CleverRaven/Cataclysm-DDA/pull/53669))
-* Remove vcpkg dependency on gettext because it's not needed. ([#53714](https://github.com/CleverRaven/Cataclysm-DDA/pull/53714))
-* sdlsound.cpp: improve the debug logging ([#53709](https://github.com/CleverRaven/Cataclysm-DDA/pull/53709))
-* Fix typo in a martial art description ([#53705](https://github.com/CleverRaven/Cataclysm-DDA/pull/53705))
-* Dialog variable clean up ([#53696](https://github.com/CleverRaven/Cataclysm-DDA/pull/53696))
-* Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
-* Fix XL pot helmet thickness ([#53653](https://github.com/CleverRaven/Cataclysm-DDA/pull/53653))
-* Make camspy non-hostile ([#53686](https://github.com/CleverRaven/Cataclysm-DDA/pull/53686))
-* Weapon Categories: Niten Ichi-Ryu ([#53695](https://github.com/CleverRaven/Cataclysm-DDA/pull/53695))
-* Allow mutants to transform appropriate worn gear ([#53681](https://github.com/CleverRaven/Cataclysm-DDA/pull/53681))
-* Grab vehicles and furniture up and down ramps ([#53673](https://github.com/CleverRaven/Cataclysm-DDA/pull/53673))
-* Pluralize time duration messages ([#53672](https://github.com/CleverRaven/Cataclysm-DDA/pull/53672))
-* Fix perpetual motion ([#53670](https://github.com/CleverRaven/Cataclysm-DDA/pull/53670))
-* trade_selector: add on_toggle override ([#53668](https://github.com/CleverRaven/Cataclysm-DDA/pull/53668))
-* Occupied lmoe shelter adjustments ([#53666](https://github.com/CleverRaven/Cataclysm-DDA/pull/53666))
-* Shorter dialog var names ([#53664](https://github.com/CleverRaven/Cataclysm-DDA/pull/53664))
-* Fix Yrax Trifacet flag ([#53662](https://github.com/CleverRaven/Cataclysm-DDA/pull/53662))
-* Add standing lamp appliance ([#53652](https://github.com/CleverRaven/Cataclysm-DDA/pull/53652))
-* Remove unused has_pockets() ([#53651](https://github.com/CleverRaven/Cataclysm-DDA/pull/53651))
-* Remove lobster helmet ([#53660](https://github.com/CleverRaven/Cataclysm-DDA/pull/53660))
-* Pluralize message in MOLLE attach screen ([#53665](https://github.com/CleverRaven/Cataclysm-DDA/pull/53665))
-* Add Leather Skirt and Kilt Recipes ([#53650](https://github.com/CleverRaven/Cataclysm-DDA/pull/53650))
-* Stop hallucinating mon_human ([#53649](https://github.com/CleverRaven/Cataclysm-DDA/pull/53649))
+* Volume and length details for containers is a menu option ([#53848](https://github.com/CleverRaven/Cataclysm-DDA/pull/53848))
 * Allow homemade half-pike to be used to block ([#53865](https://github.com/CleverRaven/Cataclysm-DDA/pull/53865))
 
 ---
@@ -218,8 +149,15 @@
 #### Cataclysm-DDA experimental build 2021-12-27-0250 ([77de2bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0250))
 
 * Replace removed overmap special id (fixes consistency check) ([#53778](https://github.com/CleverRaven/Cataclysm-DDA/pull/53778))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-26-1058 ([34f079e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-26-1058))
+
+* Cave roof fix ([#53743](https://github.com/CleverRaven/Cataclysm-DDA/pull/53743))
 * Fix frames ([#53766](https://github.com/CleverRaven/Cataclysm-DDA/pull/53766))
 * Fix ruminant/grazer hunger lock ([#53769](https://github.com/CleverRaven/Cataclysm-DDA/pull/53769))
+* Add missing space in Lizard Tail technique message ([#53740](https://github.com/CleverRaven/Cataclysm-DDA/pull/53740))
 * Do not post duplicate spell checking alerts ([#53756](https://github.com/CleverRaven/Cataclysm-DDA/pull/53756))
 * Fixed inability to sleep in a boat in deep water ([#53761](https://github.com/CleverRaven/Cataclysm-DDA/pull/53761))
 * Fixed infinite water in puddles ([#53760](https://github.com/CleverRaven/Cataclysm-DDA/pull/53760))
@@ -237,5 +175,67 @@
 #### Cataclysm-DDA experimental build 2021-12-26-0712 ([5d4daeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-26-0712))
 
 * Fix odd palisade gates in trailer parks ([#53771](https://github.com/CleverRaven/Cataclysm-DDA/pull/53771))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-25-0755 ([b5228cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0755))
+
+* Parkour training fix ([#53745](https://github.com/CleverRaven/Cataclysm-DDA/pull/53745))
 * Routine i18n updates on 25 December 2021 ([#53754](https://github.com/CleverRaven/Cataclysm-DDA/pull/53754))
+* Migrate overmap specials ([#53702](https://github.com/CleverRaven/Cataclysm-DDA/pull/53702))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-25-0648 ([1f2ddd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0648))
+
+* Crafting: Prevent unloading items that shouldn't be unloaded ([#53739](https://github.com/CleverRaven/Cataclysm-DDA/pull/53739))
 * Fix permission problem with automated spell checking ([#53751](https://github.com/CleverRaven/Cataclysm-DDA/pull/53751))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-25-0139 ([3c2e9f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0139))
+
+* Permit aquatic mutants sleep in deep water ([#53742](https://github.com/CleverRaven/Cataclysm-DDA/pull/53742))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-25-0001 ([854d649](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0001))
+
+* Fix graveyard file name collision ([#53744](https://github.com/CleverRaven/Cataclysm-DDA/pull/53744))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-24-1925 ([a41de98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-24-1925))
+
+* Remove grass spawning inside dojos ([#53738](https://github.com/CleverRaven/Cataclysm-DDA/pull/53738))
+* Fix misspelling of 'specialized' in ballistic armor ([#53735](https://github.com/CleverRaven/Cataclysm-DDA/pull/53735))
+* Automatic spell check on pull requests ([#53734](https://github.com/CleverRaven/Cataclysm-DDA/pull/53734))
+* Fix typo in spell of Storm Elemental ([#53731](https://github.com/CleverRaven/Cataclysm-DDA/pull/53731))
+* Explicitly state type of empty_filter lambda expression in craft_commands.cpp ([#53727](https://github.com/CleverRaven/Cataclysm-DDA/pull/53727))
+* Update launching condition of Text Changes Analyzer ([#53723](https://github.com/CleverRaven/Cataclysm-DDA/pull/53723))
+* Skip translating sole tags in NPC dialogue lines ([#53721](https://github.com/CleverRaven/Cataclysm-DDA/pull/53721))
+* Const-ify mood face indicator ([#53719](https://github.com/CleverRaven/Cataclysm-DDA/pull/53719))
+* Alcohol Adjustments ([#53716](https://github.com/CleverRaven/Cataclysm-DDA/pull/53716))
+* Enabled ablative style plates that degraded normally ([#53713](https://github.com/CleverRaven/Cataclysm-DDA/pull/53713))
+* Fix syntax error in test labeler GHA workflow ([#53728](https://github.com/CleverRaven/Cataclysm-DDA/pull/53728))
+* Before deploying furniture, players need to clear the tile. ([#53724](https://github.com/CleverRaven/Cataclysm-DDA/pull/53724))
+* Add OVERSIZE to cigars, cigarettes, and joints ([#53669](https://github.com/CleverRaven/Cataclysm-DDA/pull/53669))
+* Remove vcpkg dependency on gettext because it's not needed. ([#53714](https://github.com/CleverRaven/Cataclysm-DDA/pull/53714))
+* sdlsound.cpp: improve the debug logging ([#53709](https://github.com/CleverRaven/Cataclysm-DDA/pull/53709))
+* Fix typo in a martial art description ([#53705](https://github.com/CleverRaven/Cataclysm-DDA/pull/53705))
+* Dialog variable clean up ([#53696](https://github.com/CleverRaven/Cataclysm-DDA/pull/53696))
+* Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
+* Fix XL pot helmet thickness ([#53653](https://github.com/CleverRaven/Cataclysm-DDA/pull/53653))
+* Make camspy non-hostile ([#53686](https://github.com/CleverRaven/Cataclysm-DDA/pull/53686))
+* Weapon Categories: Niten Ichi-Ryu ([#53695](https://github.com/CleverRaven/Cataclysm-DDA/pull/53695))
+* Allow mutants to transform appropriate worn gear ([#53681](https://github.com/CleverRaven/Cataclysm-DDA/pull/53681))
+* Grab vehicles and furniture up and down ramps ([#53673](https://github.com/CleverRaven/Cataclysm-DDA/pull/53673))
+* Pluralize time duration messages ([#53672](https://github.com/CleverRaven/Cataclysm-DDA/pull/53672))
+* Fix perpetual motion ([#53670](https://github.com/CleverRaven/Cataclysm-DDA/pull/53670))
+* trade_selector: add on_toggle override ([#53668](https://github.com/CleverRaven/Cataclysm-DDA/pull/53668))
+* Occupied lmoe shelter adjustments ([#53666](https://github.com/CleverRaven/Cataclysm-DDA/pull/53666))
+* Shorter dialog var names ([#53664](https://github.com/CleverRaven/Cataclysm-DDA/pull/53664))
+* Fix Yrax Trifacet flag ([#53662](https://github.com/CleverRaven/Cataclysm-DDA/pull/53662))
+* Add standing lamp appliance ([#53652](https://github.com/CleverRaven/Cataclysm-DDA/pull/53652))
+* Remove lobster helmet ([#53660](https://github.com/CleverRaven/Cataclysm-DDA/pull/53660))
+* Pluralize message in MOLLE attach screen ([#53665](https://github.com/CleverRaven/Cataclysm-DDA/pull/53665))
