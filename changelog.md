@@ -1,5 +1,11 @@
-* Improve SIDEBAR_MOD documentation ([#53795](https://github.com/CleverRaven/Cataclysm-DDA/pull/53795))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-30-0133 ([1d65ff0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0133))
+
+* Nerf dress uniform protection ([#53839](https://github.com/CleverRaven/Cataclysm-DDA/pull/53839))
 * Extend vehicle parts repair requirements ([#53854](https://github.com/CleverRaven/Cataclysm-DDA/pull/53854))
+* Improve SIDEBAR_MOD documentation ([#53795](https://github.com/CleverRaven/Cataclysm-DDA/pull/53795))
 
 ---
 
@@ -208,11 +214,6 @@
 #### Cataclysm-DDA experimental build 2021-12-24-1109 ([83b08cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-24-1109))
 
 * Before deploying furniture, players need to clear the tile. ([#53724](https://github.com/CleverRaven/Cataclysm-DDA/pull/53724))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-24-0558 ([3a04d0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-24-0558))
-
 * Add OVERSIZE to cigars, cigarettes, and joints ([#53669](https://github.com/CleverRaven/Cataclysm-DDA/pull/53669))
 * Remove vcpkg dependency on gettext because it's not needed. ([#53714](https://github.com/CleverRaven/Cataclysm-DDA/pull/53714))
 * sdlsound.cpp: improve the debug logging ([#53709](https://github.com/CleverRaven/Cataclysm-DDA/pull/53709))
