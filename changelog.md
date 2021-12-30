@@ -18,6 +18,11 @@
 * Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
 * Avoid misplaced portal traps ([#53698](https://github.com/CleverRaven/Cataclysm-DDA/pull/53698))
 * Enable calories intake tracker in both atomic smartphones ([#53711](https://github.com/CleverRaven/Cataclysm-DDA/pull/53711))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-30-0848 ([9071873](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0848))
+
 * Add map::is_open_air; limit furniture placement ([#53878](https://github.com/CleverRaven/Cataclysm-DDA/pull/53878))
 * Limit map extras by zlevel ([#53877](https://github.com/CleverRaven/Cataclysm-DDA/pull/53877))
 
@@ -211,11 +216,6 @@
 #### Cataclysm-DDA experimental build 2021-12-25-0139 ([3c2e9f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0139))
 
 * Permit aquatic mutants sleep in deep water ([#53742](https://github.com/CleverRaven/Cataclysm-DDA/pull/53742))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-25-0001 ([854d649](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0001))
-
 * Fix graveyard file name collision ([#53744](https://github.com/CleverRaven/Cataclysm-DDA/pull/53744))
 * Remove grass spawning inside dojos ([#53738](https://github.com/CleverRaven/Cataclysm-DDA/pull/53738))
 * Fix misspelling of 'specialized' in ballistic armor ([#53735](https://github.com/CleverRaven/Cataclysm-DDA/pull/53735))

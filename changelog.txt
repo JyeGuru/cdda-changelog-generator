@@ -9,6 +9,8 @@ Cataclysm-DDA experimental build 2021-12-29-0647 (80c5f8d)
 * Layering Info Can Now Be Defined Per Limb (#53682)
 * Avoid misplaced portal traps (#53698)
 * Enable calories intake tracker in both atomic smartphones (#53711)
+
+Cataclysm-DDA experimental build 2021-12-30-0848 (9071873)
 * Add map::is_open_air; limit furniture placement (#53878)
 * Limit map extras by zlevel (#53877)
 
@@ -127,8 +129,6 @@ Cataclysm-DDA experimental build 2021-12-25-0648 (1f2ddd6)
 
 Cataclysm-DDA experimental build 2021-12-25-0139 (3c2e9f5)
 * Permit aquatic mutants sleep in deep water (#53742)
-
-Cataclysm-DDA experimental build 2021-12-25-0001 (854d649)
 * Fix graveyard file name collision (#53744)
 * Remove grass spawning inside dojos (#53738)
 * Fix misspelling of 'specialized' in ballistic armor (#53735)
