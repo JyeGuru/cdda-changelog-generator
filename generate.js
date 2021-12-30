@@ -37,8 +37,8 @@ const initData = async function() {
         process.exit()
     }
 
-    releases.sort((a,b) => (a.published_at < b.published_at) ? 1 : -1)
-    changes.sort((a,b) => (a.merged_at < b.merged_at) ? 1 : -1)
+    //releases.sort((a,b) => (a.published_at < b.published_at) ? 1 : -1)
+    changes.sort((a,b) => ((new Date(b.merged_at)) - (new Date(a.merged_at))))
 }
 
 const generateChanges = async function() {
