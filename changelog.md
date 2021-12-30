@@ -18,6 +18,7 @@
 * Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
 * Avoid misplaced portal traps ([#53698](https://github.com/CleverRaven/Cataclysm-DDA/pull/53698))
 * Enable calories intake tracker in both atomic smartphones ([#53711](https://github.com/CleverRaven/Cataclysm-DDA/pull/53711))
+* Clean up Blacksmith Toolset ([#53883](https://github.com/CleverRaven/Cataclysm-DDA/pull/53883))
 
 ---
 
@@ -238,4 +239,3 @@
 * Weapon Categories: Niten Ichi-Ryu ([#53695](https://github.com/CleverRaven/Cataclysm-DDA/pull/53695))
 * Allow mutants to transform appropriate worn gear ([#53681](https://github.com/CleverRaven/Cataclysm-DDA/pull/53681))
 * Grab vehicles and furniture up and down ramps ([#53673](https://github.com/CleverRaven/Cataclysm-DDA/pull/53673))
-* Pluralize time duration messages ([#53672](https://github.com/CleverRaven/Cataclysm-DDA/pull/53672))
