@@ -97,6 +97,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2021-12-29-0647 ([80c5f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0647))
+
+* Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
+
+---
+
 #### Cataclysm-DDA experimental build 2021-12-29-0329 ([02b403f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0329))
 
 * Phased mapgen fixes ([#53842](https://github.com/CleverRaven/Cataclysm-DDA/pull/53842))
