@@ -1,3 +1,4 @@
+* Enhance limb arm scores, rework block logic (#53746)
 
 Cataclysm-DDA experimental build 2021-12-30-1516 (75a01ca)
 * Fixed double material thickness for some armor defs (#53881)
@@ -55,9 +56,6 @@ Cataclysm-DDA experimental build 2021-12-29-0817 (a8dec18)
 * Use map_extra_id over std::string (#53838)
 * Replace f_scrap_bridge with t_scrap_bridge (#53840)
 * Fix MSVC type conversion warnings (#53856)
-
-Cataclysm-DDA experimental build 2021-12-29-0647 (80c5f8d)
-* Layering Info Can Now Be Defined Per Limb (#53682)
 
 Cataclysm-DDA experimental build 2021-12-29-0329 (02b403f)
 * Phased mapgen fixes (#53842)

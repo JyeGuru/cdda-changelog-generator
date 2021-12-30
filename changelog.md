@@ -1,3 +1,4 @@
+* Enhance limb arm scores, rework block logic ([#53746](https://github.com/CleverRaven/Cataclysm-DDA/pull/53746))
 
 ---
 
@@ -94,12 +95,6 @@
 * Use map_extra_id over std::string ([#53838](https://github.com/CleverRaven/Cataclysm-DDA/pull/53838))
 * Replace f_scrap_bridge with t_scrap_bridge ([#53840](https://github.com/CleverRaven/Cataclysm-DDA/pull/53840))
 * Fix MSVC type conversion warnings ([#53856](https://github.com/CleverRaven/Cataclysm-DDA/pull/53856))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-29-0647 ([80c5f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0647))
-
-* Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
 
 ---
 
