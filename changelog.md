@@ -18,6 +18,11 @@
 * Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
 * Avoid misplaced portal traps ([#53698](https://github.com/CleverRaven/Cataclysm-DDA/pull/53698))
 * Enable calories intake tracker in both atomic smartphones ([#53711](https://github.com/CleverRaven/Cataclysm-DDA/pull/53711))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-30-1057 ([d6fecb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-1057))
+
 * Clean up Blacksmith Toolset ([#53883](https://github.com/CleverRaven/Cataclysm-DDA/pull/53883))
 
 ---
@@ -211,11 +216,6 @@
 
 * Crafting: Prevent unloading items that shouldn't be unloaded ([#53739](https://github.com/CleverRaven/Cataclysm-DDA/pull/53739))
 * Fix permission problem with automated spell checking ([#53751](https://github.com/CleverRaven/Cataclysm-DDA/pull/53751))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-25-0139 ([3c2e9f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0139))
-
 * Permit aquatic mutants sleep in deep water ([#53742](https://github.com/CleverRaven/Cataclysm-DDA/pull/53742))
 * Fix graveyard file name collision ([#53744](https://github.com/CleverRaven/Cataclysm-DDA/pull/53744))
 * Remove grass spawning inside dojos ([#53738](https://github.com/CleverRaven/Cataclysm-DDA/pull/53738))
