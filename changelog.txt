@@ -1,3 +1,7 @@
+* Fixed double material thickness for some armor defs (#53881)
+
+Cataclysm-DDA experimental build 2021-12-30-1356 (f19c3dd)
+* Tilesets Update 21-12-30 (#53887)
 
 Cataclysm-DDA experimental build 2021-12-30-1057 (d6fecb3)
 * Clean up Blacksmith Toolset (#53883)
@@ -125,8 +129,6 @@ Cataclysm-DDA experimental build 2021-12-25-0755 (b5228cf)
 * Parkour training fix (#53745)
 * Routine i18n updates on 25 December 2021 (#53754)
 * Migrate overmap specials (#53702)
-
-Cataclysm-DDA experimental build 2021-12-25-0648 (1f2ddd6)
 * Crafting: Prevent unloading items that shouldn't be unloaded (#53739)
 * Fix permission problem with automated spell checking (#53751)
 * Permit aquatic mutants sleep in deep water (#53742)
@@ -150,5 +152,3 @@ Cataclysm-DDA experimental build 2021-12-25-0648 (1f2ddd6)
 * Simplify windows workflows for latest run-vcpkg release. (#53717)
 * Make camspy non-hostile (#53686)
 * Weapon Categories: Niten Ichi-Ryu (#53695)
-* Allow mutants to transform appropriate worn gear (#53681)
-* Grab vehicles and furniture up and down ramps (#53673)

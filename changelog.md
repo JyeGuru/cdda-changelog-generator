@@ -1,3 +1,10 @@
+* Fixed double material thickness for some armor defs ([#53881](https://github.com/CleverRaven/Cataclysm-DDA/pull/53881))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-30-1356 ([f19c3dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-1356))
+
+* Tilesets Update 21-12-30 ([#53887](https://github.com/CleverRaven/Cataclysm-DDA/pull/53887))
 
 ---
 
@@ -209,11 +216,6 @@
 * Parkour training fix ([#53745](https://github.com/CleverRaven/Cataclysm-DDA/pull/53745))
 * Routine i18n updates on 25 December 2021 ([#53754](https://github.com/CleverRaven/Cataclysm-DDA/pull/53754))
 * Migrate overmap specials ([#53702](https://github.com/CleverRaven/Cataclysm-DDA/pull/53702))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-25-0648 ([1f2ddd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-25-0648))
-
 * Crafting: Prevent unloading items that shouldn't be unloaded ([#53739](https://github.com/CleverRaven/Cataclysm-DDA/pull/53739))
 * Fix permission problem with automated spell checking ([#53751](https://github.com/CleverRaven/Cataclysm-DDA/pull/53751))
 * Permit aquatic mutants sleep in deep water ([#53742](https://github.com/CleverRaven/Cataclysm-DDA/pull/53742))
@@ -237,5 +239,3 @@
 * Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
 * Make camspy non-hostile ([#53686](https://github.com/CleverRaven/Cataclysm-DDA/pull/53686))
 * Weapon Categories: Niten Ichi-Ryu ([#53695](https://github.com/CleverRaven/Cataclysm-DDA/pull/53695))
-* Allow mutants to transform appropriate worn gear ([#53681](https://github.com/CleverRaven/Cataclysm-DDA/pull/53681))
-* Grab vehicles and furniture up and down ramps ([#53673](https://github.com/CleverRaven/Cataclysm-DDA/pull/53673))
