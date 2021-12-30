@@ -1,26 +1,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2021-12-30-0323 ([24e295c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0323))
-
-* Rework ABSORBS/ABSORBS_SPLITS behavior ([#53741](https://github.com/CleverRaven/Cataclysm-DDA/pull/53741))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-29-2136 ([d85d040](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-2136))
-
-* Distinguish personal/regular zones, add bulk enable/disable shortcuts ([#53730](https://github.com/CleverRaven/Cataclysm-DDA/pull/53730))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-29-0647 ([80c5f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0647))
-
-* Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
-* Avoid misplaced portal traps ([#53698](https://github.com/CleverRaven/Cataclysm-DDA/pull/53698))
-* Enable calories intake tracker in both atomic smartphones ([#53711](https://github.com/CleverRaven/Cataclysm-DDA/pull/53711))
-
----
-
 #### Cataclysm-DDA experimental build 2021-12-30-1057 ([d6fecb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-1057))
 
 * Clean up Blacksmith Toolset ([#53883](https://github.com/CleverRaven/Cataclysm-DDA/pull/53883))
@@ -52,6 +32,12 @@
 #### Cataclysm-DDA experimental build 2021-12-30-0612 ([3c154af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0612))
 
 * Volume and length details for containers is a menu option ([#53848](https://github.com/CleverRaven/Cataclysm-DDA/pull/53848))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-30-0323 ([24e295c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0323))
+
+* Rework ABSORBS/ABSORBS_SPLITS behavior ([#53741](https://github.com/CleverRaven/Cataclysm-DDA/pull/53741))
 * Allow homemade half-pike to be used to block ([#53865](https://github.com/CleverRaven/Cataclysm-DDA/pull/53865))
 
 ---
@@ -77,6 +63,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2021-12-29-2136 ([d85d040](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-2136))
+
+* Distinguish personal/regular zones, add bulk enable/disable shortcuts ([#53730](https://github.com/CleverRaven/Cataclysm-DDA/pull/53730))
+
+---
+
 #### Cataclysm-DDA experimental build 2021-12-29-1144 ([ae582e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-1144))
 
 * Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
@@ -90,6 +82,12 @@
 * Use map_extra_id over std::string ([#53838](https://github.com/CleverRaven/Cataclysm-DDA/pull/53838))
 * Replace f_scrap_bridge with t_scrap_bridge ([#53840](https://github.com/CleverRaven/Cataclysm-DDA/pull/53840))
 * Fix MSVC type conversion warnings ([#53856](https://github.com/CleverRaven/Cataclysm-DDA/pull/53856))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-29-0647 ([80c5f8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0647))
+
+* Layering Info Can Now Be Defined Per Limb ([#53682](https://github.com/CleverRaven/Cataclysm-DDA/pull/53682))
 
 ---
 
@@ -107,6 +105,8 @@
 * fixes cargo weight mod bottoming to 0 ([#53812](https://github.com/CleverRaven/Cataclysm-DDA/pull/53812))
 * Prevent Mana Nose CBM from use by Earthshaper ([#53810](https://github.com/CleverRaven/Cataclysm-DDA/pull/53810))
 * Crafting: Colorize component selection options ([#53798](https://github.com/CleverRaven/Cataclysm-DDA/pull/53798))
+* Avoid misplaced portal traps ([#53698](https://github.com/CleverRaven/Cataclysm-DDA/pull/53698))
+* Enable calories intake tracker in both atomic smartphones ([#53711](https://github.com/CleverRaven/Cataclysm-DDA/pull/53711))
 * TropiCataclysm: Some more mammals and changes ([#53758](https://github.com/CleverRaven/Cataclysm-DDA/pull/53758))
 * Progress bar or feedback for compose.py ([#53815](https://github.com/CleverRaven/Cataclysm-DDA/pull/53815))
 * Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
