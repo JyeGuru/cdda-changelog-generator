@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2021-12-30-0323 (24e295c)
 * Rework ABSORBS/ABSORBS_SPLITS behavior (#53741)
 
 Cataclysm-DDA experimental build 2021-12-29-2136 (d85d040)
@@ -42,8 +44,6 @@ Cataclysm-DDA experimental build 2021-12-24-1925 (a41de98)
 Cataclysm-DDA experimental build 2021-12-24-1745 (e0f5c4e)
 * Enabled ablative style plates that degraded normally (#53713)
 * Fix syntax error in test labeler GHA workflow (#53728)
-
-Cataclysm-DDA experimental build 2021-12-24-1109 (83b08cc)
 * Before deploying furniture, players need to clear the tile. (#53724)
 * Add OVERSIZE to cigars, cigarettes, and joints (#53669)
 * Remove vcpkg dependency on gettext because it's not needed. (#53714)
