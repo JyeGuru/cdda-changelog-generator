@@ -56,9 +56,6 @@ Cataclysm-DDA experimental build 2021-12-29-0817 (a8dec18)
 * Replace f_scrap_bridge with t_scrap_bridge (#53840)
 * Fix MSVC type conversion warnings (#53856)
 
-Cataclysm-DDA experimental build 2021-12-29-0647 (80c5f8d)
-* Layering Info Can Now Be Defined Per Limb (#53682)
-
 Cataclysm-DDA experimental build 2021-12-29-0329 (02b403f)
 * Phased mapgen fixes (#53842)
 * Fix missing floors in freshwater research station roof (#53843)
