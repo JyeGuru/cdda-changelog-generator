@@ -1,3 +1,12 @@
+* Fix Regressions From 52361 ([#53924](https://github.com/CleverRaven/Cataclysm-DDA/pull/53924))
+* Another batch of JSON misspellings fix ([#53916](https://github.com/CleverRaven/Cataclysm-DDA/pull/53916))
+* add --version flag to cli arguments ([#53920](https://github.com/CleverRaven/Cataclysm-DDA/pull/53920))
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-31-1850 ([de1aa0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-31-1850))
+
+* remove move cost modifier for crafting spot ([#53926](https://github.com/CleverRaven/Cataclysm-DDA/pull/53926))
 * Improve translation comments for items ([#53917](https://github.com/CleverRaven/Cataclysm-DDA/pull/53917))
 
 ---
@@ -124,7 +133,6 @@
 * fixes cargo weight mod bottoming to 0 ([#53812](https://github.com/CleverRaven/Cataclysm-DDA/pull/53812))
 * Prevent Mana Nose CBM from use by Earthshaper ([#53810](https://github.com/CleverRaven/Cataclysm-DDA/pull/53810))
 * Crafting: Colorize component selection options ([#53798](https://github.com/CleverRaven/Cataclysm-DDA/pull/53798))
-* Avoid misplaced portal traps ([#53698](https://github.com/CleverRaven/Cataclysm-DDA/pull/53698))
 * Enable calories intake tracker in both atomic smartphones ([#53711](https://github.com/CleverRaven/Cataclysm-DDA/pull/53711))
 * TropiCataclysm: Some more mammals and changes ([#53758](https://github.com/CleverRaven/Cataclysm-DDA/pull/53758))
 * Progress bar or feedback for compose.py ([#53815](https://github.com/CleverRaven/Cataclysm-DDA/pull/53815))
@@ -188,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2021-12-27-0250 ([77de2bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0250))
 
 * Replace removed overmap special id (fixes consistency check) ([#53778](https://github.com/CleverRaven/Cataclysm-DDA/pull/53778))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-0100 ([c094790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0100))
-
 * Add monster electric resistances ([#53736](https://github.com/CleverRaven/Cataclysm-DDA/pull/53736))
 * Cave roof fix ([#53743](https://github.com/CleverRaven/Cataclysm-DDA/pull/53743))
 * Fix frames ([#53766](https://github.com/CleverRaven/Cataclysm-DDA/pull/53766))
@@ -207,7 +210,6 @@
 * Fix odd palisade gates in trailer parks ([#53771](https://github.com/CleverRaven/Cataclysm-DDA/pull/53771))
 * Parkour training fix ([#53745](https://github.com/CleverRaven/Cataclysm-DDA/pull/53745))
 * Routine i18n updates on 25 December 2021 ([#53754](https://github.com/CleverRaven/Cataclysm-DDA/pull/53754))
-* Migrate overmap specials ([#53702](https://github.com/CleverRaven/Cataclysm-DDA/pull/53702))
 * Crafting: Prevent unloading items that shouldn't be unloaded ([#53739](https://github.com/CleverRaven/Cataclysm-DDA/pull/53739))
 * Fix permission problem with automated spell checking ([#53751](https://github.com/CleverRaven/Cataclysm-DDA/pull/53751))
 * Permit aquatic mutants sleep in deep water ([#53742](https://github.com/CleverRaven/Cataclysm-DDA/pull/53742))
@@ -226,6 +228,4 @@
 * Before deploying furniture, players need to clear the tile. ([#53724](https://github.com/CleverRaven/Cataclysm-DDA/pull/53724))
 * Remove vcpkg dependency on gettext because it's not needed. ([#53714](https://github.com/CleverRaven/Cataclysm-DDA/pull/53714))
 * sdlsound.cpp: improve the debug logging ([#53709](https://github.com/CleverRaven/Cataclysm-DDA/pull/53709))
-* Fix typo in a martial art description ([#53705](https://github.com/CleverRaven/Cataclysm-DDA/pull/53705))
-* Dialog variable clean up ([#53696](https://github.com/CleverRaven/Cataclysm-DDA/pull/53696))
 * Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
