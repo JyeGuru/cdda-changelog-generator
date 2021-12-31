@@ -1,3 +1,4 @@
+* Improve translation comments for items (#53917)
 
 Cataclysm-DDA experimental build 2021-12-31-0620 (524a7db)
 * Hide negligable armor info (#53888)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2021-12-27-0100 (c094790)
 * Fix typo in a martial art description (#53705)
 * Dialog variable clean up (#53696)
 * Simplify windows workflows for latest run-vcpkg release. (#53717)
-* Weapon Categories: Niten Ichi-Ryu (#53695)
