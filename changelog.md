@@ -1,3 +1,4 @@
+* Hide negligable armor info ([#53888](https://github.com/CleverRaven/Cataclysm-DDA/pull/53888))
 
 ---
 
@@ -227,5 +228,4 @@
 * Fix typo in a martial art description ([#53705](https://github.com/CleverRaven/Cataclysm-DDA/pull/53705))
 * Dialog variable clean up ([#53696](https://github.com/CleverRaven/Cataclysm-DDA/pull/53696))
 * Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
-* Make camspy non-hostile ([#53686](https://github.com/CleverRaven/Cataclysm-DDA/pull/53686))
 * Weapon Categories: Niten Ichi-Ryu ([#53695](https://github.com/CleverRaven/Cataclysm-DDA/pull/53695))
