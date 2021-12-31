@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2021-12-31-0620 (524a7db)
 * Hide negligable armor info (#53888)
 
 Cataclysm-DDA experimental build 2021-12-30-2228 (a9de872)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2021-12-27-0250 (77de2bd)
 
 Cataclysm-DDA experimental build 2021-12-27-0100 (c094790)
 * Add monster electric resistances (#53736)
-
-Cataclysm-DDA experimental build 2021-12-26-1058 (34f079e)
 * Cave roof fix (#53743)
 * Fix frames (#53766)
 * Fix ruminant/grazer hunger lock (#53769)

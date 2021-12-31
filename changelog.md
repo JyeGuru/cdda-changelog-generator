@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-31-0620 ([524a7db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-31-0620))
+
 * Hide negligable armor info ([#53888](https://github.com/CleverRaven/Cataclysm-DDA/pull/53888))
 
 ---
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2021-12-27-0100 ([c094790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0100))
 
 * Add monster electric resistances ([#53736](https://github.com/CleverRaven/Cataclysm-DDA/pull/53736))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-26-1058 ([34f079e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-26-1058))
-
 * Cave roof fix ([#53743](https://github.com/CleverRaven/Cataclysm-DDA/pull/53743))
 * Fix frames ([#53766](https://github.com/CleverRaven/Cataclysm-DDA/pull/53766))
 * Fix ruminant/grazer hunger lock ([#53769](https://github.com/CleverRaven/Cataclysm-DDA/pull/53769))
