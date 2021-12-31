@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2021-12-31-2003 ([d4d82f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-31-2003))
+
 * Add repairs_like line to all gambesons ([#53907](https://github.com/CleverRaven/Cataclysm-DDA/pull/53907))
 * Fix stack-use-after-scope error reported by MSVC ASAN ([#53919](https://github.com/CleverRaven/Cataclysm-DDA/pull/53919))
 * Fix Regressions From 52361 ([#53924](https://github.com/CleverRaven/Cataclysm-DDA/pull/53924))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2021-12-27-0434 ([162201a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0434))
 
 * Add more tools for cutting metal ([#53757](https://github.com/CleverRaven/Cataclysm-DDA/pull/53757))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-0250 ([77de2bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0250))
-
 * Replace removed overmap special id (fixes consistency check) ([#53778](https://github.com/CleverRaven/Cataclysm-DDA/pull/53778))
 * Add monster electric resistances ([#53736](https://github.com/CleverRaven/Cataclysm-DDA/pull/53736))
 * Cave roof fix ([#53743](https://github.com/CleverRaven/Cataclysm-DDA/pull/53743))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2021-12-31-2003 (d4d82f8)
 * Add repairs_like line to all gambesons (#53907)
 * Fix stack-use-after-scope error reported by MSVC ASAN (#53919)
 * Fix Regressions From 52361 (#53924)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2021-12-27-0754 (83137a8)
 
 Cataclysm-DDA experimental build 2021-12-27-0434 (162201a)
 * Add more tools for cutting metal (#53757)
-
-Cataclysm-DDA experimental build 2021-12-27-0250 (77de2bd)
 * Replace removed overmap special id (fixes consistency check) (#53778)
 * Add monster electric resistances (#53736)
 * Cave roof fix (#53743)
