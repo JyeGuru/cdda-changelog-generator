@@ -1,3 +1,4 @@
+* Fix stack-use-after-scope error reported by MSVC ASAN ([#53919](https://github.com/CleverRaven/Cataclysm-DDA/pull/53919))
 * Fix Regressions From 52361 ([#53924](https://github.com/CleverRaven/Cataclysm-DDA/pull/53924))
 * Another batch of JSON misspellings fix ([#53916](https://github.com/CleverRaven/Cataclysm-DDA/pull/53916))
 * add --version flag to cli arguments ([#53920](https://github.com/CleverRaven/Cataclysm-DDA/pull/53920))
@@ -227,5 +228,4 @@
 * Fix syntax error in test labeler GHA workflow ([#53728](https://github.com/CleverRaven/Cataclysm-DDA/pull/53728))
 * Before deploying furniture, players need to clear the tile. ([#53724](https://github.com/CleverRaven/Cataclysm-DDA/pull/53724))
 * Remove vcpkg dependency on gettext because it's not needed. ([#53714](https://github.com/CleverRaven/Cataclysm-DDA/pull/53714))
-* sdlsound.cpp: improve the debug logging ([#53709](https://github.com/CleverRaven/Cataclysm-DDA/pull/53709))
 * Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
