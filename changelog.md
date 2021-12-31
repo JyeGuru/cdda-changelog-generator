@@ -201,11 +201,6 @@
 * Fixed infinite water in puddles ([#53760](https://github.com/CleverRaven/Cataclysm-DDA/pull/53760))
 * Misc typo fixes ([#53759](https://github.com/CleverRaven/Cataclysm-DDA/pull/53759))
 * Fix some loaded data persisting between games ([#53776](https://github.com/CleverRaven/Cataclysm-DDA/pull/53776))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-26-0917 ([4105c25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-26-0917))
-
 * Bulk JSON typo fixes ([#53775](https://github.com/CleverRaven/Cataclysm-DDA/pull/53775))
 * Fix odd palisade gates in trailer parks ([#53771](https://github.com/CleverRaven/Cataclysm-DDA/pull/53771))
 * Parkour training fix ([#53745](https://github.com/CleverRaven/Cataclysm-DDA/pull/53745))
