@@ -1,3 +1,10 @@
+* Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-01-0515 ([c8defa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0515))
+
+* Remove the extra space from layering menu ([#53905](https://github.com/CleverRaven/Cataclysm-DDA/pull/53905))
 
 ---
 
@@ -183,11 +190,6 @@
 
 * Carabiners now can hold pots ([#53786](https://github.com/CleverRaven/Cataclysm-DDA/pull/53786))
 * Skip capital letter words in spell check ([#53783](https://github.com/CleverRaven/Cataclysm-DDA/pull/53783))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-0754 ([83137a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0754))
-
 * Add missing args to formatted string ([#53799](https://github.com/CleverRaven/Cataclysm-DDA/pull/53799))
 * Don't enumerate obsolete mods. ([#53750](https://github.com/CleverRaven/Cataclysm-DDA/pull/53750))
 * Add more tools for cutting metal ([#53757](https://github.com/CleverRaven/Cataclysm-DDA/pull/53757))
@@ -219,8 +221,6 @@
 * Skip translating sole tags in NPC dialogue lines ([#53721](https://github.com/CleverRaven/Cataclysm-DDA/pull/53721))
 * Const-ify mood face indicator ([#53719](https://github.com/CleverRaven/Cataclysm-DDA/pull/53719))
 * Alcohol Adjustments ([#53716](https://github.com/CleverRaven/Cataclysm-DDA/pull/53716))
-* Enabled ablative style plates that degraded normally ([#53713](https://github.com/CleverRaven/Cataclysm-DDA/pull/53713))
 * Fix syntax error in test labeler GHA workflow ([#53728](https://github.com/CleverRaven/Cataclysm-DDA/pull/53728))
 * Before deploying furniture, players need to clear the tile. ([#53724](https://github.com/CleverRaven/Cataclysm-DDA/pull/53724))
-* Remove vcpkg dependency on gettext because it's not needed. ([#53714](https://github.com/CleverRaven/Cataclysm-DDA/pull/53714))
 * Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
