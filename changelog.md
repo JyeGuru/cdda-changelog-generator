@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-01-0616 ([a261855](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0616))
+
 * Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2021-12-27-2151 ([48b8ece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-2151))
 
 * Downgrade MXE GCC to 9.3 ([#53805](https://github.com/CleverRaven/Cataclysm-DDA/pull/53805))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-0903 ([f8734ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0903))
-
 * Carabiners now can hold pots ([#53786](https://github.com/CleverRaven/Cataclysm-DDA/pull/53786))
 * Skip capital letter words in spell check ([#53783](https://github.com/CleverRaven/Cataclysm-DDA/pull/53783))
 * Add missing args to formatted string ([#53799](https://github.com/CleverRaven/Cataclysm-DDA/pull/53799))
