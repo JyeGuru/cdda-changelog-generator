@@ -1,3 +1,11 @@
+* Fix warning text for consuming food with parasites ([#53912](https://github.com/CleverRaven/Cataclysm-DDA/pull/53912))
+* Replace filing requirement in chisel recipe with grinding ([#53931](https://github.com/CleverRaven/Cataclysm-DDA/pull/53931))
+* Deswage the metal file recipe ([#53909](https://github.com/CleverRaven/Cataclysm-DDA/pull/53909))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-01-0817 ([82e7766](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0817))
+
 * Candles are no longer without wax ([#53893](https://github.com/CleverRaven/Cataclysm-DDA/pull/53893))
 * Routine i18n updates on 01 January 2022 ([#53933](https://github.com/CleverRaven/Cataclysm-DDA/pull/53933))
 * Add percent coverage info for sublocations to the UI ([#53932](https://github.com/CleverRaven/Cataclysm-DDA/pull/53932))
@@ -181,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2021-12-28-0235 ([fbab99b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-0235))
 
 * Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-2333 ([7f32d77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-2333))
-
 * ID cards are now categorized as KEYS ([#53770](https://github.com/CleverRaven/Cataclysm-DDA/pull/53770))
 * Fix 'Very Hungry' not matching capitalisation of other status messages ([#53780](https://github.com/CleverRaven/Cataclysm-DDA/pull/53780))
 * Make the name of the casserole pot slightly less ambiguous. ([#53787](https://github.com/CleverRaven/Cataclysm-DDA/pull/53787))
@@ -216,6 +219,3 @@
 * Permit aquatic mutants sleep in deep water ([#53742](https://github.com/CleverRaven/Cataclysm-DDA/pull/53742))
 * Fix graveyard file name collision ([#53744](https://github.com/CleverRaven/Cataclysm-DDA/pull/53744))
 * Remove grass spawning inside dojos ([#53738](https://github.com/CleverRaven/Cataclysm-DDA/pull/53738))
-* Fix misspelling of 'specialized' in ballistic armor ([#53735](https://github.com/CleverRaven/Cataclysm-DDA/pull/53735))
-* Automatic spell check on pull requests ([#53734](https://github.com/CleverRaven/Cataclysm-DDA/pull/53734))
-* Fix typo in spell of Storm Elemental ([#53731](https://github.com/CleverRaven/Cataclysm-DDA/pull/53731))
