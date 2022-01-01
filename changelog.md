@@ -1,3 +1,4 @@
+* [Magiclysm] XL demon chitin armor set ([#53886](https://github.com/CleverRaven/Cataclysm-DDA/pull/53886))
 * Fix warning text for consuming food with parasites ([#53912](https://github.com/CleverRaven/Cataclysm-DDA/pull/53912))
 * Replace filing requirement in chisel recipe with grinding ([#53931](https://github.com/CleverRaven/Cataclysm-DDA/pull/53931))
 * Deswage the metal file recipe ([#53909](https://github.com/CleverRaven/Cataclysm-DDA/pull/53909))
@@ -200,7 +201,6 @@
 * Don't enumerate obsolete mods. ([#53750](https://github.com/CleverRaven/Cataclysm-DDA/pull/53750))
 * Add more tools for cutting metal ([#53757](https://github.com/CleverRaven/Cataclysm-DDA/pull/53757))
 * Replace removed overmap special id (fixes consistency check) ([#53778](https://github.com/CleverRaven/Cataclysm-DDA/pull/53778))
-* Add monster electric resistances ([#53736](https://github.com/CleverRaven/Cataclysm-DDA/pull/53736))
 * Cave roof fix ([#53743](https://github.com/CleverRaven/Cataclysm-DDA/pull/53743))
 * Fix frames ([#53766](https://github.com/CleverRaven/Cataclysm-DDA/pull/53766))
 * Fix ruminant/grazer hunger lock ([#53769](https://github.com/CleverRaven/Cataclysm-DDA/pull/53769))
