@@ -112,8 +112,6 @@ Cataclysm-DDA experimental build 2021-12-27-0903 (f8734ab)
 Cataclysm-DDA experimental build 2021-12-27-0754 (83137a8)
 * Add missing args to formatted string (#53799)
 * Don't enumerate obsolete mods. (#53750)
-
-Cataclysm-DDA experimental build 2021-12-27-0434 (162201a)
 * Add more tools for cutting metal (#53757)
 * Replace removed overmap special id (fixes consistency check) (#53778)
 * Add monster electric resistances (#53736)

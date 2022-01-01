@@ -190,11 +190,6 @@
 
 * Add missing args to formatted string ([#53799](https://github.com/CleverRaven/Cataclysm-DDA/pull/53799))
 * Don't enumerate obsolete mods. ([#53750](https://github.com/CleverRaven/Cataclysm-DDA/pull/53750))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-0434 ([162201a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-0434))
-
 * Add more tools for cutting metal ([#53757](https://github.com/CleverRaven/Cataclysm-DDA/pull/53757))
 * Replace removed overmap special id (fixes consistency check) ([#53778](https://github.com/CleverRaven/Cataclysm-DDA/pull/53778))
 * Add monster electric resistances ([#53736](https://github.com/CleverRaven/Cataclysm-DDA/pull/53736))
