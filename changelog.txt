@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-01-0918 (451e33d)
 * [Magiclysm] XL demon chitin armor set (#53886)
 * Fix warning text for consuming food with parasites (#53912)
 * Replace filing requirement in chisel recipe with grinding (#53931)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2021-12-28-1625 (d239083)
 
 Cataclysm-DDA experimental build 2021-12-28-1306 (cb14c61)
 * Place monster corpses in json mapgen and jsonify "grave" map extra (#53782)
-
-Cataclysm-DDA experimental build 2021-12-28-0235 (fbab99b)
 * Adding gun mod to use m240 and m249 in semi-auto mode (#53821)
 * ID cards are now categorized as KEYS (#53770)
 * Fix 'Very Hungry' not matching capitalisation of other status messages (#53780)

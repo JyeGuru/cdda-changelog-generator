@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-01-0918 ([451e33d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0918))
+
 * [Magiclysm] XL demon chitin armor set ([#53886](https://github.com/CleverRaven/Cataclysm-DDA/pull/53886))
 * Fix warning text for consuming food with parasites ([#53912](https://github.com/CleverRaven/Cataclysm-DDA/pull/53912))
 * Replace filing requirement in chisel recipe with grinding ([#53931](https://github.com/CleverRaven/Cataclysm-DDA/pull/53931))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2021-12-28-1306 ([cb14c61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-1306))
 
 * Place monster corpses in json mapgen and jsonify "grave" map extra ([#53782](https://github.com/CleverRaven/Cataclysm-DDA/pull/53782))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-28-0235 ([fbab99b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-0235))
-
 * Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
 * ID cards are now categorized as KEYS ([#53770](https://github.com/CleverRaven/Cataclysm-DDA/pull/53770))
 * Fix 'Very Hungry' not matching capitalisation of other status messages ([#53780](https://github.com/CleverRaven/Cataclysm-DDA/pull/53780))
