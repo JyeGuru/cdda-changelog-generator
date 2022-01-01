@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-01-1943 ([68cfef5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-1943))
+
+* Fix typographical errors in TropiCataclysm item descriptions ([#53934](https://github.com/CleverRaven/Cataclysm-DDA/pull/53934))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-01-0918 ([451e33d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0918))
 
 * [Magiclysm] XL demon chitin armor set ([#53886](https://github.com/CleverRaven/Cataclysm-DDA/pull/53886))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2021-12-28-1625 ([d239083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-1625))
 
 * Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-28-1306 ([cb14c61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-1306))
-
 * Place monster corpses in json mapgen and jsonify "grave" map extra ([#53782](https://github.com/CleverRaven/Cataclysm-DDA/pull/53782))
 * Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
 * ID cards are now categorized as KEYS ([#53770](https://github.com/CleverRaven/Cataclysm-DDA/pull/53770))
@@ -218,4 +219,3 @@
 * Fix permission problem with automated spell checking ([#53751](https://github.com/CleverRaven/Cataclysm-DDA/pull/53751))
 * Permit aquatic mutants sleep in deep water ([#53742](https://github.com/CleverRaven/Cataclysm-DDA/pull/53742))
 * Fix graveyard file name collision ([#53744](https://github.com/CleverRaven/Cataclysm-DDA/pull/53744))
-* Remove grass spawning inside dojos ([#53738](https://github.com/CleverRaven/Cataclysm-DDA/pull/53738))

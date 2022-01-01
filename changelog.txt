@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-01-1943 (68cfef5)
+* Fix typographical errors in TropiCataclysm item descriptions (#53934)
+
 Cataclysm-DDA experimental build 2022-01-01-0918 (451e33d)
 * [Magiclysm] XL demon chitin armor set (#53886)
 * Fix warning text for consuming food with parasites (#53912)
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2021-12-29-0225 (0a4da06)
 
 Cataclysm-DDA experimental build 2021-12-28-1625 (d239083)
 * Revert "Downgrade MXE GCC to 9.3" (#53833)
-
-Cataclysm-DDA experimental build 2021-12-28-1306 (cb14c61)
 * Place monster corpses in json mapgen and jsonify "grave" map extra (#53782)
 * Adding gun mod to use m240 and m249 in semi-auto mode (#53821)
 * ID cards are now categorized as KEYS (#53770)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2021-12-28-1306 (cb14c61)
 * Fix permission problem with automated spell checking (#53751)
 * Permit aquatic mutants sleep in deep water (#53742)
 * Fix graveyard file name collision (#53744)
-* Remove grass spawning inside dojos (#53738)
