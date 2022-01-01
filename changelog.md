@@ -1,3 +1,17 @@
+* Candles are no longer without wax ([#53893](https://github.com/CleverRaven/Cataclysm-DDA/pull/53893))
+* Routine i18n updates on 01 January 2022 ([#53933](https://github.com/CleverRaven/Cataclysm-DDA/pull/53933))
+* Add percent coverage info for sublocations to the UI ([#53932](https://github.com/CleverRaven/Cataclysm-DDA/pull/53932))
+* remove extraneous chainmail_hood recipe ([#53930](https://github.com/CleverRaven/Cataclysm-DDA/pull/53930))
+* Add widget showing radiation badge color ([#53915](https://github.com/CleverRaven/Cataclysm-DDA/pull/53915))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-01-0716 ([279f9a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0716))
+
+* Restore 300AAC BLK conversion kit ([#53904](https://github.com/CleverRaven/Cataclysm-DDA/pull/53904))
+* More detailed lbvs ([#53892](https://github.com/CleverRaven/Cataclysm-DDA/pull/53892))
+* Simple Appliance UI ([#53884](https://github.com/CleverRaven/Cataclysm-DDA/pull/53884))
+* Robofac Tactical Modular Poncho ([#53871](https://github.com/CleverRaven/Cataclysm-DDA/pull/53871))
 
 ---
 
@@ -116,12 +130,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2021-12-29-2136 ([d85d040](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-2136))
-
-* Distinguish personal/regular zones, add bulk enable/disable shortcuts ([#53730](https://github.com/CleverRaven/Cataclysm-DDA/pull/53730))
-
----
-
 #### Cataclysm-DDA experimental build 2021-12-29-1144 ([ae582e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-1144))
 
 * Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
@@ -182,11 +190,6 @@
 * Fix 'Very Hungry' not matching capitalisation of other status messages ([#53780](https://github.com/CleverRaven/Cataclysm-DDA/pull/53780))
 * Make the name of the casserole pot slightly less ambiguous. ([#53787](https://github.com/CleverRaven/Cataclysm-DDA/pull/53787))
 * Move test JSON data to TEST_DATA mod ([#53804](https://github.com/CleverRaven/Cataclysm-DDA/pull/53804))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-27-2151 ([48b8ece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-27-2151))
-
 * Downgrade MXE GCC to 9.3 ([#53805](https://github.com/CleverRaven/Cataclysm-DDA/pull/53805))
 * Carabiners now can hold pots ([#53786](https://github.com/CleverRaven/Cataclysm-DDA/pull/53786))
 * Skip capital letter words in spell check ([#53783](https://github.com/CleverRaven/Cataclysm-DDA/pull/53783))
@@ -216,11 +219,3 @@
 * Fix misspelling of 'specialized' in ballistic armor ([#53735](https://github.com/CleverRaven/Cataclysm-DDA/pull/53735))
 * Automatic spell check on pull requests ([#53734](https://github.com/CleverRaven/Cataclysm-DDA/pull/53734))
 * Fix typo in spell of Storm Elemental ([#53731](https://github.com/CleverRaven/Cataclysm-DDA/pull/53731))
-* Explicitly state type of empty_filter lambda expression in craft_commands.cpp ([#53727](https://github.com/CleverRaven/Cataclysm-DDA/pull/53727))
-* Update launching condition of Text Changes Analyzer ([#53723](https://github.com/CleverRaven/Cataclysm-DDA/pull/53723))
-* Skip translating sole tags in NPC dialogue lines ([#53721](https://github.com/CleverRaven/Cataclysm-DDA/pull/53721))
-* Const-ify mood face indicator ([#53719](https://github.com/CleverRaven/Cataclysm-DDA/pull/53719))
-* Alcohol Adjustments ([#53716](https://github.com/CleverRaven/Cataclysm-DDA/pull/53716))
-* Fix syntax error in test labeler GHA workflow ([#53728](https://github.com/CleverRaven/Cataclysm-DDA/pull/53728))
-* Before deploying furniture, players need to clear the tile. ([#53724](https://github.com/CleverRaven/Cataclysm-DDA/pull/53724))
-* Simplify windows workflows for latest run-vcpkg release. ([#53717](https://github.com/CleverRaven/Cataclysm-DDA/pull/53717))
