@@ -1,3 +1,8 @@
+* Fix some minor issues with Rubik's conversation ([#53948](https://github.com/CleverRaven/Cataclysm-DDA/pull/53948))
+* Update spell checker dictionary ([#53945](https://github.com/CleverRaven/Cataclysm-DDA/pull/53945))
+* Pluralize a message in vehicle::thrust() ([#53942](https://github.com/CleverRaven/Cataclysm-DDA/pull/53942))
+* Fix letter casing of "3D" and "Nomex" ([#53943](https://github.com/CleverRaven/Cataclysm-DDA/pull/53943))
+* Mainline "More Structures" mod ([#53938](https://github.com/CleverRaven/Cataclysm-DDA/pull/53938))
 
 ---
 
@@ -119,12 +124,6 @@
 #### Cataclysm-DDA experimental build 2021-12-30-0612 ([3c154af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0612))
 
 * Volume and length details for containers is a menu option ([#53848](https://github.com/CleverRaven/Cataclysm-DDA/pull/53848))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-30-0323 ([24e295c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0323))
-
-* Rework ABSORBS/ABSORBS_SPLITS behavior ([#53741](https://github.com/CleverRaven/Cataclysm-DDA/pull/53741))
 * Allow homemade half-pike to be used to block ([#53865](https://github.com/CleverRaven/Cataclysm-DDA/pull/53865))
 
 ---
@@ -202,10 +201,8 @@
 * Don't enumerate obsolete mods. ([#53750](https://github.com/CleverRaven/Cataclysm-DDA/pull/53750))
 * Add more tools for cutting metal ([#53757](https://github.com/CleverRaven/Cataclysm-DDA/pull/53757))
 * Replace removed overmap special id (fixes consistency check) ([#53778](https://github.com/CleverRaven/Cataclysm-DDA/pull/53778))
-* Cave roof fix ([#53743](https://github.com/CleverRaven/Cataclysm-DDA/pull/53743))
 * Fix frames ([#53766](https://github.com/CleverRaven/Cataclysm-DDA/pull/53766))
 * Fix ruminant/grazer hunger lock ([#53769](https://github.com/CleverRaven/Cataclysm-DDA/pull/53769))
-* Add missing space in Lizard Tail technique message ([#53740](https://github.com/CleverRaven/Cataclysm-DDA/pull/53740))
 * Do not post duplicate spell checking alerts ([#53756](https://github.com/CleverRaven/Cataclysm-DDA/pull/53756))
 * Fixed inability to sleep in a boat in deep water ([#53761](https://github.com/CleverRaven/Cataclysm-DDA/pull/53761))
 * Fixed infinite water in puddles ([#53760](https://github.com/CleverRaven/Cataclysm-DDA/pull/53760))
@@ -215,7 +212,5 @@
 * Fix odd palisade gates in trailer parks ([#53771](https://github.com/CleverRaven/Cataclysm-DDA/pull/53771))
 * Parkour training fix ([#53745](https://github.com/CleverRaven/Cataclysm-DDA/pull/53745))
 * Routine i18n updates on 25 December 2021 ([#53754](https://github.com/CleverRaven/Cataclysm-DDA/pull/53754))
-* Crafting: Prevent unloading items that shouldn't be unloaded ([#53739](https://github.com/CleverRaven/Cataclysm-DDA/pull/53739))
 * Fix permission problem with automated spell checking ([#53751](https://github.com/CleverRaven/Cataclysm-DDA/pull/53751))
-* Permit aquatic mutants sleep in deep water ([#53742](https://github.com/CleverRaven/Cataclysm-DDA/pull/53742))
 * Fix graveyard file name collision ([#53744](https://github.com/CleverRaven/Cataclysm-DDA/pull/53744))
