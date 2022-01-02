@@ -1,3 +1,5 @@
+* Show storage capacity in armor layering menu ([#53946](https://github.com/CleverRaven/Cataclysm-DDA/pull/53946))
+* Allow reloading partially full magazines with favorited ammo ([#53949](https://github.com/CleverRaven/Cataclysm-DDA/pull/53949))
 * Fix failing cardio test and make sprinting distance less random ([#53950](https://github.com/CleverRaven/Cataclysm-DDA/pull/53950))
 
 ---
@@ -89,12 +91,6 @@
 #### Cataclysm-DDA experimental build 2021-12-31-0620 ([524a7db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-31-0620))
 
 * Hide negligable armor info ([#53888](https://github.com/CleverRaven/Cataclysm-DDA/pull/53888))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-30-2228 ([a9de872](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-2228))
-
-* Enhance limb arm scores, rework block logic ([#53746](https://github.com/CleverRaven/Cataclysm-DDA/pull/53746))
 
 ---
 

@@ -1,3 +1,5 @@
+* Show storage capacity in armor layering menu (#53946)
+* Allow reloading partially full magazines with favorited ammo (#53949)
 * Fix failing cardio test and make sprinting distance less random (#53950)
 
 Cataclysm-DDA experimental build 2022-01-02-0603 (6e07ff6)
@@ -53,9 +55,6 @@ Cataclysm-DDA experimental build 2021-12-31-1850 (de1aa0d)
 
 Cataclysm-DDA experimental build 2021-12-31-0620 (524a7db)
 * Hide negligable armor info (#53888)
-
-Cataclysm-DDA experimental build 2021-12-30-2228 (a9de872)
-* Enhance limb arm scores, rework block logic (#53746)
 
 Cataclysm-DDA experimental build 2021-12-30-1516 (75a01ca)
 * Fixed double material thickness for some armor defs (#53881)
