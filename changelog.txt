@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-02-0826 (b49f934)
 * Update plate armor materials. (#53846)
 
 Cataclysm-DDA experimental build 2022-01-02-0715 (2eb3587)
