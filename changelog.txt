@@ -105,8 +105,6 @@ Cataclysm-DDA experimental build 2021-12-29-2240 (c3bd37d)
 
 Cataclysm-DDA experimental build 2021-12-29-1144 (ae582e0)
 * Fix some typos and grammar inconsistencies (#53855)
-
-Cataclysm-DDA experimental build 2021-12-29-0817 (a8dec18)
 * Irradiated Zombies drop corpses and have normalized loot drops (#53857)
 * Portal storm tweaks (#53817)
 * Use map_extra_id over std::string (#53838)

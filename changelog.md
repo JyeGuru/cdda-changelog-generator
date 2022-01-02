@@ -177,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2021-12-29-1144 ([ae582e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-1144))
 
 * Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-29-0817 ([a8dec18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0817))
-
 * Irradiated Zombies drop corpses and have normalized loot drops ([#53857](https://github.com/CleverRaven/Cataclysm-DDA/pull/53857))
 * Portal storm tweaks ([#53817](https://github.com/CleverRaven/Cataclysm-DDA/pull/53817))
 * Use map_extra_id over std::string ([#53838](https://github.com/CleverRaven/Cataclysm-DDA/pull/53838))
