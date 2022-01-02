@@ -219,4 +219,3 @@
 * Fix some loaded data persisting between games ([#53776](https://github.com/CleverRaven/Cataclysm-DDA/pull/53776))
 * Bulk JSON typo fixes ([#53775](https://github.com/CleverRaven/Cataclysm-DDA/pull/53775))
 * Fix odd palisade gates in trailer parks ([#53771](https://github.com/CleverRaven/Cataclysm-DDA/pull/53771))
-* Routine i18n updates on 25 December 2021 ([#53754](https://github.com/CleverRaven/Cataclysm-DDA/pull/53754))
