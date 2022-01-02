@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-02-0715 ([2eb3587](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-02-0715))
+
 * Pluralize messages ([#53961](https://github.com/CleverRaven/Cataclysm-DDA/pull/53961))
 * Show storage capacity in armor layering menu ([#53946](https://github.com/CleverRaven/Cataclysm-DDA/pull/53946))
 * Allow reloading partially full magazines with favorited ammo ([#53949](https://github.com/CleverRaven/Cataclysm-DDA/pull/53949))
@@ -176,11 +181,6 @@
 * Use map_extra_id over std::string ([#53838](https://github.com/CleverRaven/Cataclysm-DDA/pull/53838))
 * Replace f_scrap_bridge with t_scrap_bridge ([#53840](https://github.com/CleverRaven/Cataclysm-DDA/pull/53840))
 * Fix MSVC type conversion warnings ([#53856](https://github.com/CleverRaven/Cataclysm-DDA/pull/53856))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-29-0329 ([02b403f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0329))
-
 * Phased mapgen fixes ([#53842](https://github.com/CleverRaven/Cataclysm-DDA/pull/53842))
 * Fix missing floors in freshwater research station roof ([#53843](https://github.com/CleverRaven/Cataclysm-DDA/pull/53843))
 * Fix some confusing variable names ([#53844](https://github.com/CleverRaven/Cataclysm-DDA/pull/53844))
