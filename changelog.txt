@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-02-0603 (6e07ff6)
+* C++ typo fix (#53944)
+
 Cataclysm-DDA experimental build 2022-01-02-0132 (774f6b2)
 * Fix some minor issues with Rubik's conversation (#53948)
 * Update spell checker dictionary (#53945)
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2021-12-29-0329 (02b403f)
 * Phased mapgen fixes (#53842)
 * Fix missing floors in freshwater research station roof (#53843)
 * Fix some confusing variable names (#53844)
-
-Cataclysm-DDA experimental build 2021-12-29-0225 (0a4da06)
 * Added a sort zone for keys (#53850)
 * fixes cargo weight mod bottoming to 0 (#53812)
 * Prevent Mana Nose CBM from use by Earthshaper (#53810)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2021-12-29-0225 (0a4da06)
 * Parkour training fix (#53745)
 * Routine i18n updates on 25 December 2021 (#53754)
 * Fix permission problem with automated spell checking (#53751)
-* Fix graveyard file name collision (#53744)

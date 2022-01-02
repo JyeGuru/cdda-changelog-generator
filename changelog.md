@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-02-0603 ([6e07ff6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-02-0603))
+
+* C++ typo fix ([#53944](https://github.com/CleverRaven/Cataclysm-DDA/pull/53944))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-02-0132 ([774f6b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-02-0132))
 
 * Fix some minor issues with Rubik's conversation ([#53948](https://github.com/CleverRaven/Cataclysm-DDA/pull/53948))
@@ -180,11 +186,6 @@
 * Phased mapgen fixes ([#53842](https://github.com/CleverRaven/Cataclysm-DDA/pull/53842))
 * Fix missing floors in freshwater research station roof ([#53843](https://github.com/CleverRaven/Cataclysm-DDA/pull/53843))
 * Fix some confusing variable names ([#53844](https://github.com/CleverRaven/Cataclysm-DDA/pull/53844))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-29-0225 ([0a4da06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-0225))
-
 * Added a sort zone for keys ([#53850](https://github.com/CleverRaven/Cataclysm-DDA/pull/53850))
 * fixes cargo weight mod bottoming to 0 ([#53812](https://github.com/CleverRaven/Cataclysm-DDA/pull/53812))
 * Prevent Mana Nose CBM from use by Earthshaper ([#53810](https://github.com/CleverRaven/Cataclysm-DDA/pull/53810))
@@ -218,4 +219,3 @@
 * Parkour training fix ([#53745](https://github.com/CleverRaven/Cataclysm-DDA/pull/53745))
 * Routine i18n updates on 25 December 2021 ([#53754](https://github.com/CleverRaven/Cataclysm-DDA/pull/53754))
 * Fix permission problem with automated spell checking ([#53751](https://github.com/CleverRaven/Cataclysm-DDA/pull/53751))
-* Fix graveyard file name collision ([#53744](https://github.com/CleverRaven/Cataclysm-DDA/pull/53744))
