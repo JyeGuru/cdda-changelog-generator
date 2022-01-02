@@ -1,3 +1,4 @@
+* Pluralize messages ([#53961](https://github.com/CleverRaven/Cataclysm-DDA/pull/53961))
 * Show storage capacity in armor layering menu ([#53946](https://github.com/CleverRaven/Cataclysm-DDA/pull/53946))
 * Allow reloading partially full magazines with favorited ammo ([#53949](https://github.com/CleverRaven/Cataclysm-DDA/pull/53949))
 * Fix failing cardio test and make sprinting distance less random ([#53950](https://github.com/CleverRaven/Cataclysm-DDA/pull/53950))
@@ -201,7 +202,6 @@
 * Carabiners now can hold pots ([#53786](https://github.com/CleverRaven/Cataclysm-DDA/pull/53786))
 * Skip capital letter words in spell check ([#53783](https://github.com/CleverRaven/Cataclysm-DDA/pull/53783))
 * Add missing args to formatted string ([#53799](https://github.com/CleverRaven/Cataclysm-DDA/pull/53799))
-* Don't enumerate obsolete mods. ([#53750](https://github.com/CleverRaven/Cataclysm-DDA/pull/53750))
 * Add more tools for cutting metal ([#53757](https://github.com/CleverRaven/Cataclysm-DDA/pull/53757))
 * Replace removed overmap special id (fixes consistency check) ([#53778](https://github.com/CleverRaven/Cataclysm-DDA/pull/53778))
 * Fix frames ([#53766](https://github.com/CleverRaven/Cataclysm-DDA/pull/53766))
