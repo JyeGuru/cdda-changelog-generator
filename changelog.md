@@ -2,6 +2,11 @@
 * Update spell checker dictionary ([#53945](https://github.com/CleverRaven/Cataclysm-DDA/pull/53945))
 * Pluralize a message in vehicle::thrust() ([#53942](https://github.com/CleverRaven/Cataclysm-DDA/pull/53942))
 * Fix letter casing of "3D" and "Nomex" ([#53943](https://github.com/CleverRaven/Cataclysm-DDA/pull/53943))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-01-2355 ([03be6f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-2355))
+
 * Mainline "More Structures" mod ([#53938](https://github.com/CleverRaven/Cataclysm-DDA/pull/53938))
 
 ---
@@ -182,11 +187,6 @@
 * TropiCataclysm: Some more mammals and changes ([#53758](https://github.com/CleverRaven/Cataclysm-DDA/pull/53758))
 * Progress bar or feedback for compose.py ([#53815](https://github.com/CleverRaven/Cataclysm-DDA/pull/53815))
 * Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-28-1625 ([d239083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-28-1625))
-
 * Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
 * Place monster corpses in json mapgen and jsonify "grave" map extra ([#53782](https://github.com/CleverRaven/Cataclysm-DDA/pull/53782))
 * Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
