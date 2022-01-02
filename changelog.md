@@ -207,7 +207,6 @@
 * Replace removed overmap special id (fixes consistency check) ([#53778](https://github.com/CleverRaven/Cataclysm-DDA/pull/53778))
 * Fix frames ([#53766](https://github.com/CleverRaven/Cataclysm-DDA/pull/53766))
 * Fix ruminant/grazer hunger lock ([#53769](https://github.com/CleverRaven/Cataclysm-DDA/pull/53769))
-* Do not post duplicate spell checking alerts ([#53756](https://github.com/CleverRaven/Cataclysm-DDA/pull/53756))
 * Fixed inability to sleep in a boat in deep water ([#53761](https://github.com/CleverRaven/Cataclysm-DDA/pull/53761))
 * Fixed infinite water in puddles ([#53760](https://github.com/CleverRaven/Cataclysm-DDA/pull/53760))
 * Misc typo fixes ([#53759](https://github.com/CleverRaven/Cataclysm-DDA/pull/53759))
