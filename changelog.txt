@@ -1,3 +1,4 @@
+* Update plate armor materials. (#53846)
 
 Cataclysm-DDA experimental build 2022-01-02-0715 (2eb3587)
 * Pluralize messages (#53961)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2021-12-29-0817 (a8dec18)
 * Bulk JSON typo fixes (#53775)
 * Fix odd palisade gates in trailer parks (#53771)
 * Routine i18n updates on 25 December 2021 (#53754)
-* Fix permission problem with automated spell checking (#53751)

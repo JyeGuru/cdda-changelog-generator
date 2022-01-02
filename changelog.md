@@ -1,3 +1,4 @@
+* Update plate armor materials. ([#53846](https://github.com/CleverRaven/Cataclysm-DDA/pull/53846))
 
 ---
 
@@ -214,4 +215,3 @@
 * Bulk JSON typo fixes ([#53775](https://github.com/CleverRaven/Cataclysm-DDA/pull/53775))
 * Fix odd palisade gates in trailer parks ([#53771](https://github.com/CleverRaven/Cataclysm-DDA/pull/53771))
 * Routine i18n updates on 25 December 2021 ([#53754](https://github.com/CleverRaven/Cataclysm-DDA/pull/53754))
-* Fix permission problem with automated spell checking ([#53751](https://github.com/CleverRaven/Cataclysm-DDA/pull/53751))
