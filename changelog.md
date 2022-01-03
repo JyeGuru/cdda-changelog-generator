@@ -190,7 +190,6 @@
 * fixes cargo weight mod bottoming to 0 ([#53812](https://github.com/CleverRaven/Cataclysm-DDA/pull/53812))
 * Prevent Mana Nose CBM from use by Earthshaper ([#53810](https://github.com/CleverRaven/Cataclysm-DDA/pull/53810))
 * Crafting: Colorize component selection options ([#53798](https://github.com/CleverRaven/Cataclysm-DDA/pull/53798))
-* TropiCataclysm: Some more mammals and changes ([#53758](https://github.com/CleverRaven/Cataclysm-DDA/pull/53758))
 * Progress bar or feedback for compose.py ([#53815](https://github.com/CleverRaven/Cataclysm-DDA/pull/53815))
 * Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
 * Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
