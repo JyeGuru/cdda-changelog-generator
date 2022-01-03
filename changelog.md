@@ -1,3 +1,6 @@
+* Hub 1 blueprint cleanup tent, rock, rammed earth, mi-go resin (3-6/8) ([#54005](https://github.com/CleverRaven/Cataclysm-DDA/pull/54005))
+* hub 1 blueprint cleanup wood + wad (1-2/8) ([#53999](https://github.com/CleverRaven/Cataclysm-DDA/pull/53999))
+* Fix spell effect name in documentation ([#53992](https://github.com/CleverRaven/Cataclysm-DDA/pull/53992))
 
 ---
 
@@ -203,12 +206,9 @@
 * Progress bar or feedback for compose.py ([#53815](https://github.com/CleverRaven/Cataclysm-DDA/pull/53815))
 * Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
 * Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
-* Place monster corpses in json mapgen and jsonify "grave" map extra ([#53782](https://github.com/CleverRaven/Cataclysm-DDA/pull/53782))
 * Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
-* Fix 'Very Hungry' not matching capitalisation of other status messages ([#53780](https://github.com/CleverRaven/Cataclysm-DDA/pull/53780))
 * Make the name of the casserole pot slightly less ambiguous. ([#53787](https://github.com/CleverRaven/Cataclysm-DDA/pull/53787))
 * Move test JSON data to TEST_DATA mod ([#53804](https://github.com/CleverRaven/Cataclysm-DDA/pull/53804))
 * Downgrade MXE GCC to 9.3 ([#53805](https://github.com/CleverRaven/Cataclysm-DDA/pull/53805))
 * Carabiners now can hold pots ([#53786](https://github.com/CleverRaven/Cataclysm-DDA/pull/53786))
-* Skip capital letter words in spell check ([#53783](https://github.com/CleverRaven/Cataclysm-DDA/pull/53783))
 * Add missing args to formatted string ([#53799](https://github.com/CleverRaven/Cataclysm-DDA/pull/53799))
