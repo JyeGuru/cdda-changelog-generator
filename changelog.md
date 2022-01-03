@@ -171,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2021-12-29-2240 ([c3bd37d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-2240))
 
 * Crafting: Warn when using favorite item as component ([#53794](https://github.com/CleverRaven/Cataclysm-DDA/pull/53794))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-29-1144 ([ae582e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-29-1144))
-
 * Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
 * Irradiated Zombies drop corpses and have normalized loot drops ([#53857](https://github.com/CleverRaven/Cataclysm-DDA/pull/53857))
 * Portal storm tweaks ([#53817](https://github.com/CleverRaven/Cataclysm-DDA/pull/53817))
