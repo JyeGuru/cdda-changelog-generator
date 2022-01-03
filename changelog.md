@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-03-2224 ([d5c1dac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-03-2224))
+
 * [Magiclysm] Fix ring of blades flags ([#54004](https://github.com/CleverRaven/Cataclysm-DDA/pull/54004))
 * Skip expensive drop_invalid_inventory() calls in pickup activity ([#53953](https://github.com/CleverRaven/Cataclysm-DDA/pull/53953))
 * Whitelist new rarely spawning map locations to prevent test failures. ([#53986](https://github.com/CleverRaven/Cataclysm-DDA/pull/53986))
@@ -179,11 +184,6 @@
 * Nerf dress uniform protection ([#53839](https://github.com/CleverRaven/Cataclysm-DDA/pull/53839))
 * Extend vehicle parts repair requirements ([#53854](https://github.com/CleverRaven/Cataclysm-DDA/pull/53854))
 * Improve SIDEBAR_MOD documentation ([#53795](https://github.com/CleverRaven/Cataclysm-DDA/pull/53795))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-30-0000 ([4dfebd8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0000))
-
 * Adjust format of coverage values ([#53816](https://github.com/CleverRaven/Cataclysm-DDA/pull/53816))
 * Eliminate Self-Aware trait and replace it with sidebar widgets ([#53802](https://github.com/CleverRaven/Cataclysm-DDA/pull/53802))
 * Crafting: Warn when using favorite item as component ([#53794](https://github.com/CleverRaven/Cataclysm-DDA/pull/53794))
