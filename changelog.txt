@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-04-1022 (1787cb0)
+* Yule Wreath Fix (#54023)
+
 Cataclysm-DDA experimental build 2022-01-04-0812 (40a0960)
 * Regenericise currency (#53963)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2021-12-30-1356 (f19c3dd)
 
 Cataclysm-DDA experimental build 2021-12-30-1057 (d6fecb3)
 * Clean up Blacksmith Toolset (#53883)
-
-Cataclysm-DDA experimental build 2021-12-30-0848 (9071873)
 * Add map::is_open_air; limit furniture placement (#53878)
 * Limit map extras by zlevel (#53877)
 * [Magiclysm] Shapeshifter Alkahest spell (#53872)
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2021-12-30-0848 (9071873)
 * Nerf dress uniform protection (#53839)
 * Extend vehicle parts repair requirements (#53854)
 * Adjust format of coverage values (#53816)
-* Eliminate Self-Aware trait and replace it with sidebar widgets (#53802)
 * Fix some typos and grammar inconsistencies (#53855)
 * Irradiated Zombies drop corpses and have normalized loot drops (#53857)
 * Portal storm tweaks (#53817)

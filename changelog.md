@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-04-1022 ([1787cb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1022))
+
+* Yule Wreath Fix ([#54023](https://github.com/CleverRaven/Cataclysm-DDA/pull/54023))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-04-0812 ([40a0960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-0812))
 
 * Regenericise currency ([#53963](https://github.com/CleverRaven/Cataclysm-DDA/pull/53963))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2021-12-30-1057 ([d6fecb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-1057))
 
 * Clean up Blacksmith Toolset ([#53883](https://github.com/CleverRaven/Cataclysm-DDA/pull/53883))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-30-0848 ([9071873](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0848))
-
 * Add map::is_open_air; limit furniture placement ([#53878](https://github.com/CleverRaven/Cataclysm-DDA/pull/53878))
 * Limit map extras by zlevel ([#53877](https://github.com/CleverRaven/Cataclysm-DDA/pull/53877))
 * [Magiclysm] Shapeshifter Alkahest spell ([#53872](https://github.com/CleverRaven/Cataclysm-DDA/pull/53872))
@@ -193,7 +194,6 @@
 * Nerf dress uniform protection ([#53839](https://github.com/CleverRaven/Cataclysm-DDA/pull/53839))
 * Extend vehicle parts repair requirements ([#53854](https://github.com/CleverRaven/Cataclysm-DDA/pull/53854))
 * Adjust format of coverage values ([#53816](https://github.com/CleverRaven/Cataclysm-DDA/pull/53816))
-* Eliminate Self-Aware trait and replace it with sidebar widgets ([#53802](https://github.com/CleverRaven/Cataclysm-DDA/pull/53802))
 * Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
 * Irradiated Zombies drop corpses and have normalized loot drops ([#53857](https://github.com/CleverRaven/Cataclysm-DDA/pull/53857))
 * Portal storm tweaks ([#53817](https://github.com/CleverRaven/Cataclysm-DDA/pull/53817))
