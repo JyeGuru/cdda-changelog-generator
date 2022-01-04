@@ -1,3 +1,11 @@
+* [DinoMod] dino blood ([#54042](https://github.com/CleverRaven/Cataclysm-DDA/pull/54042))
+* Use Oxford comma consistently in tips ([#54043](https://github.com/CleverRaven/Cataclysm-DDA/pull/54043))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-04-2306 ([8c498f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-2306))
+
+* Correct start of game option descriptions. ([#54044](https://github.com/CleverRaven/Cataclysm-DDA/pull/54044))
 
 ---
 
@@ -190,11 +198,6 @@
 * Fix Regressions From 52361 ([#53924](https://github.com/CleverRaven/Cataclysm-DDA/pull/53924))
 * Another batch of JSON misspellings fix ([#53916](https://github.com/CleverRaven/Cataclysm-DDA/pull/53916))
 * add --version flag to cli arguments ([#53920](https://github.com/CleverRaven/Cataclysm-DDA/pull/53920))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-31-1850 ([de1aa0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-31-1850))
-
 * remove move cost modifier for crafting spot ([#53926](https://github.com/CleverRaven/Cataclysm-DDA/pull/53926))
 * Improve translation comments for items ([#53917](https://github.com/CleverRaven/Cataclysm-DDA/pull/53917))
 * Hide negligable armor info ([#53888](https://github.com/CleverRaven/Cataclysm-DDA/pull/53888))
@@ -213,12 +216,9 @@
 * Change tanned hides/pelts to GENERIC (was AMMO) ([#53866](https://github.com/CleverRaven/Cataclysm-DDA/pull/53866))
 * Volume and length details for containers is a menu option ([#53848](https://github.com/CleverRaven/Cataclysm-DDA/pull/53848))
 * Allow homemade half-pike to be used to block ([#53865](https://github.com/CleverRaven/Cataclysm-DDA/pull/53865))
-* Nerf dress uniform protection ([#53839](https://github.com/CleverRaven/Cataclysm-DDA/pull/53839))
 * Extend vehicle parts repair requirements ([#53854](https://github.com/CleverRaven/Cataclysm-DDA/pull/53854))
 * Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
 * Irradiated Zombies drop corpses and have normalized loot drops ([#53857](https://github.com/CleverRaven/Cataclysm-DDA/pull/53857))
-* Use map_extra_id over std::string ([#53838](https://github.com/CleverRaven/Cataclysm-DDA/pull/53838))
-* Replace f_scrap_bridge with t_scrap_bridge ([#53840](https://github.com/CleverRaven/Cataclysm-DDA/pull/53840))
 * Fix MSVC type conversion warnings ([#53856](https://github.com/CleverRaven/Cataclysm-DDA/pull/53856))
 * Phased mapgen fixes ([#53842](https://github.com/CleverRaven/Cataclysm-DDA/pull/53842))
 * Fix missing floors in freshwater research station roof ([#53843](https://github.com/CleverRaven/Cataclysm-DDA/pull/53843))
