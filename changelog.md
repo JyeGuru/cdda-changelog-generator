@@ -1,3 +1,11 @@
+* Regenericise currency ([#53963](https://github.com/CleverRaven/Cataclysm-DDA/pull/53963))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-04-0651 ([4a83e3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-0651))
+
+* Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
+* Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
 
 ---
 
@@ -180,16 +188,10 @@
 * Modern Chainmail ([#53820](https://github.com/CleverRaven/Cataclysm-DDA/pull/53820))
 * Reenable auto deconstruction removing wheels ([#53859](https://github.com/CleverRaven/Cataclysm-DDA/pull/53859))
 * Change tanned hides/pelts to GENERIC (was AMMO) ([#53866](https://github.com/CleverRaven/Cataclysm-DDA/pull/53866))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-30-0612 ([3c154af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0612))
-
 * Volume and length details for containers is a menu option ([#53848](https://github.com/CleverRaven/Cataclysm-DDA/pull/53848))
 * Allow homemade half-pike to be used to block ([#53865](https://github.com/CleverRaven/Cataclysm-DDA/pull/53865))
 * Nerf dress uniform protection ([#53839](https://github.com/CleverRaven/Cataclysm-DDA/pull/53839))
 * Extend vehicle parts repair requirements ([#53854](https://github.com/CleverRaven/Cataclysm-DDA/pull/53854))
-* Improve SIDEBAR_MOD documentation ([#53795](https://github.com/CleverRaven/Cataclysm-DDA/pull/53795))
 * Adjust format of coverage values ([#53816](https://github.com/CleverRaven/Cataclysm-DDA/pull/53816))
 * Eliminate Self-Aware trait and replace it with sidebar widgets ([#53802](https://github.com/CleverRaven/Cataclysm-DDA/pull/53802))
 * Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
@@ -204,11 +206,9 @@
 * Added a sort zone for keys ([#53850](https://github.com/CleverRaven/Cataclysm-DDA/pull/53850))
 * fixes cargo weight mod bottoming to 0 ([#53812](https://github.com/CleverRaven/Cataclysm-DDA/pull/53812))
 * Prevent Mana Nose CBM from use by Earthshaper ([#53810](https://github.com/CleverRaven/Cataclysm-DDA/pull/53810))
-* Crafting: Colorize component selection options ([#53798](https://github.com/CleverRaven/Cataclysm-DDA/pull/53798))
 * Progress bar or feedback for compose.py ([#53815](https://github.com/CleverRaven/Cataclysm-DDA/pull/53815))
 * Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
 * Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
 * Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
 * Move test JSON data to TEST_DATA mod ([#53804](https://github.com/CleverRaven/Cataclysm-DDA/pull/53804))
 * Downgrade MXE GCC to 9.3 ([#53805](https://github.com/CleverRaven/Cataclysm-DDA/pull/53805))
-* Add missing args to formatted string ([#53799](https://github.com/CleverRaven/Cataclysm-DDA/pull/53799))
