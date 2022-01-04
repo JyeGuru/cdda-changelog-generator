@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-04-1500 (cb11ca5)
+* Reeneable mapgen test (#53913)
+
 Cataclysm-DDA experimental build 2022-01-04-1142 (0426c7c)
 * 500L fridge capacity (#54019)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2021-12-31-0620 (524a7db)
 
 Cataclysm-DDA experimental build 2021-12-30-1516 (75a01ca)
 * Fixed double material thickness for some armor defs (#53881)
-
-Cataclysm-DDA experimental build 2021-12-30-1356 (f19c3dd)
 * Tilesets Update 21-12-30 (#53887)
 * Clean up Blacksmith Toolset (#53883)
 * Add map::is_open_air; limit furniture placement (#53878)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2021-12-30-1356 (f19c3dd)
 * Correctly generate stack trace with ASLR enabled (#53837)
 * Revert "Downgrade MXE GCC to 9.3" (#53833)
 * Adding gun mod to use m240 and m249 in semi-auto mode (#53821)
-* Downgrade MXE GCC to 9.3 (#53805)
