@@ -179,11 +179,6 @@
 
 * Volume and length details for containers is a menu option ([#53848](https://github.com/CleverRaven/Cataclysm-DDA/pull/53848))
 * Allow homemade half-pike to be used to block ([#53865](https://github.com/CleverRaven/Cataclysm-DDA/pull/53865))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-30-0133 ([1d65ff0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0133))
-
 * Nerf dress uniform protection ([#53839](https://github.com/CleverRaven/Cataclysm-DDA/pull/53839))
 * Extend vehicle parts repair requirements ([#53854](https://github.com/CleverRaven/Cataclysm-DDA/pull/53854))
 * Improve SIDEBAR_MOD documentation ([#53795](https://github.com/CleverRaven/Cataclysm-DDA/pull/53795))
