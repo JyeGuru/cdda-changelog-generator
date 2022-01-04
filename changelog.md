@@ -1,3 +1,7 @@
+* remove unused curammo ([#54027](https://github.com/CleverRaven/Cataclysm-DDA/pull/54027))
+* Added warmth fixed volumes and weight for Robofac Ponchos ([#53988](https://github.com/CleverRaven/Cataclysm-DDA/pull/53988))
+* brought base blueprint recipe names inside their name spaces ([#54038](https://github.com/CleverRaven/Cataclysm-DDA/pull/54038))
+* Use forward declaration of struct dialogue in weather_type.h ([#54041](https://github.com/CleverRaven/Cataclysm-DDA/pull/54041))
 
 ---
 
@@ -196,17 +200,14 @@
 * Misc mapgen fixes ([#53880](https://github.com/CleverRaven/Cataclysm-DDA/pull/53880))
 * Typo Fix: ark welding -> arc welding ([#53882](https://github.com/CleverRaven/Cataclysm-DDA/pull/53882))
 * Instructional books are now manuals ([#53852](https://github.com/CleverRaven/Cataclysm-DDA/pull/53852))
-* Modern Chainmail ([#53820](https://github.com/CleverRaven/Cataclysm-DDA/pull/53820))
 * Reenable auto deconstruction removing wheels ([#53859](https://github.com/CleverRaven/Cataclysm-DDA/pull/53859))
 * Change tanned hides/pelts to GENERIC (was AMMO) ([#53866](https://github.com/CleverRaven/Cataclysm-DDA/pull/53866))
 * Volume and length details for containers is a menu option ([#53848](https://github.com/CleverRaven/Cataclysm-DDA/pull/53848))
 * Allow homemade half-pike to be used to block ([#53865](https://github.com/CleverRaven/Cataclysm-DDA/pull/53865))
 * Nerf dress uniform protection ([#53839](https://github.com/CleverRaven/Cataclysm-DDA/pull/53839))
 * Extend vehicle parts repair requirements ([#53854](https://github.com/CleverRaven/Cataclysm-DDA/pull/53854))
-* Adjust format of coverage values ([#53816](https://github.com/CleverRaven/Cataclysm-DDA/pull/53816))
 * Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
 * Irradiated Zombies drop corpses and have normalized loot drops ([#53857](https://github.com/CleverRaven/Cataclysm-DDA/pull/53857))
-* Portal storm tweaks ([#53817](https://github.com/CleverRaven/Cataclysm-DDA/pull/53817))
 * Use map_extra_id over std::string ([#53838](https://github.com/CleverRaven/Cataclysm-DDA/pull/53838))
 * Replace f_scrap_bridge with t_scrap_bridge ([#53840](https://github.com/CleverRaven/Cataclysm-DDA/pull/53840))
 * Fix MSVC type conversion warnings ([#53856](https://github.com/CleverRaven/Cataclysm-DDA/pull/53856))
@@ -214,7 +215,6 @@
 * Fix missing floors in freshwater research station roof ([#53843](https://github.com/CleverRaven/Cataclysm-DDA/pull/53843))
 * Fix some confusing variable names ([#53844](https://github.com/CleverRaven/Cataclysm-DDA/pull/53844))
 * Added a sort zone for keys ([#53850](https://github.com/CleverRaven/Cataclysm-DDA/pull/53850))
-* Progress bar or feedback for compose.py ([#53815](https://github.com/CleverRaven/Cataclysm-DDA/pull/53815))
 * Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
 * Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
 * Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
