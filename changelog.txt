@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-04-0255 (7dc394a)
 * Fix typo in minifridge description (#54011)
 * Port overmap mission arrow fix from BN (#53971)
 * Fix firing gun with mixed fav/unfav ammo (#53973)
