@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-04-0812 ([40a0960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-0812))
+
 * Regenericise currency ([#53963](https://github.com/CleverRaven/Cataclysm-DDA/pull/53963))
 
 ---
@@ -174,11 +179,6 @@
 
 * Add map::is_open_air; limit furniture placement ([#53878](https://github.com/CleverRaven/Cataclysm-DDA/pull/53878))
 * Limit map extras by zlevel ([#53877](https://github.com/CleverRaven/Cataclysm-DDA/pull/53877))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-30-0730 ([6250d43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-0730))
-
 * [Magiclysm] Shapeshifter Alkahest spell ([#53872](https://github.com/CleverRaven/Cataclysm-DDA/pull/53872))
 * mapgen_function_json_nested: Pass proper params ([#53876](https://github.com/CleverRaven/Cataclysm-DDA/pull/53876))
 * Run bash and radiation mapgen in transform phase ([#53879](https://github.com/CleverRaven/Cataclysm-DDA/pull/53879))
