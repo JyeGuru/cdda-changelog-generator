@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-04-1142 ([0426c7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1142))
+
+* 500L fridge capacity ([#54019](https://github.com/CleverRaven/Cataclysm-DDA/pull/54019))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-04-1022 ([1787cb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1022))
 
 * Yule Wreath Fix ([#54023](https://github.com/CleverRaven/Cataclysm-DDA/pull/54023))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2021-12-30-1356 ([f19c3dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-1356))
 
 * Tilesets Update 21-12-30 ([#53887](https://github.com/CleverRaven/Cataclysm-DDA/pull/53887))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-30-1057 ([d6fecb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-1057))
-
 * Clean up Blacksmith Toolset ([#53883](https://github.com/CleverRaven/Cataclysm-DDA/pull/53883))
 * Add map::is_open_air; limit furniture placement ([#53878](https://github.com/CleverRaven/Cataclysm-DDA/pull/53878))
 * Limit map extras by zlevel ([#53877](https://github.com/CleverRaven/Cataclysm-DDA/pull/53877))
@@ -210,5 +211,4 @@
 * Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
 * Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
 * Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
-* Move test JSON data to TEST_DATA mod ([#53804](https://github.com/CleverRaven/Cataclysm-DDA/pull/53804))
 * Downgrade MXE GCC to 9.3 ([#53805](https://github.com/CleverRaven/Cataclysm-DDA/pull/53805))
