@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-04-1743 ([5ea4546](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1743))
+
+* Automatically connect Appliances to their neighbours upon completion ([#53981](https://github.com/CleverRaven/Cataclysm-DDA/pull/53981))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-04-1617 ([e7cd5fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1617))
+
+* Remove diary.h from avatar.h ([#54037](https://github.com/CleverRaven/Cataclysm-DDA/pull/54037))
+* Include sstream to fix test compilation ([#54034](https://github.com/CleverRaven/Cataclysm-DDA/pull/54034))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-04-1500 ([cb11ca5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1500))
 
 * Reeneable mapgen test ([#53913](https://github.com/CleverRaven/Cataclysm-DDA/pull/53913))
@@ -172,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2021-12-31-0620 ([524a7db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-31-0620))
 
 * Hide negligable armor info ([#53888](https://github.com/CleverRaven/Cataclysm-DDA/pull/53888))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-30-1516 ([75a01ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-30-1516))
-
 * Fixed double material thickness for some armor defs ([#53881](https://github.com/CleverRaven/Cataclysm-DDA/pull/53881))
 * Tilesets Update 21-12-30 ([#53887](https://github.com/CleverRaven/Cataclysm-DDA/pull/53887))
 * Clean up Blacksmith Toolset ([#53883](https://github.com/CleverRaven/Cataclysm-DDA/pull/53883))
@@ -206,8 +214,6 @@
 * Fix missing floors in freshwater research station roof ([#53843](https://github.com/CleverRaven/Cataclysm-DDA/pull/53843))
 * Fix some confusing variable names ([#53844](https://github.com/CleverRaven/Cataclysm-DDA/pull/53844))
 * Added a sort zone for keys ([#53850](https://github.com/CleverRaven/Cataclysm-DDA/pull/53850))
-* fixes cargo weight mod bottoming to 0 ([#53812](https://github.com/CleverRaven/Cataclysm-DDA/pull/53812))
-* Prevent Mana Nose CBM from use by Earthshaper ([#53810](https://github.com/CleverRaven/Cataclysm-DDA/pull/53810))
 * Progress bar or feedback for compose.py ([#53815](https://github.com/CleverRaven/Cataclysm-DDA/pull/53815))
 * Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
 * Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
