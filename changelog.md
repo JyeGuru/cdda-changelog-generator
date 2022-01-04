@@ -1,3 +1,12 @@
+* hub 1 blueprint cleanup metal log (7-8/8) ([#54029](https://github.com/CleverRaven/Cataclysm-DDA/pull/54029))
+* Fix monster special attack dodge message ([#54033](https://github.com/CleverRaven/Cataclysm-DDA/pull/54033))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-04-1912 ([06acd84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1912))
+
+* Portal Storm changes ([#54018](https://github.com/CleverRaven/Cataclysm-DDA/pull/54018))
+* spinning wheels revived ([#54015](https://github.com/CleverRaven/Cataclysm-DDA/pull/54015))
 * remove unused curammo ([#54027](https://github.com/CleverRaven/Cataclysm-DDA/pull/54027))
 * Added warmth fixed volumes and weight for Robofac Ponchos ([#53988](https://github.com/CleverRaven/Cataclysm-DDA/pull/53988))
 * brought base blueprint recipe names inside their name spaces ([#54038](https://github.com/CleverRaven/Cataclysm-DDA/pull/54038))
@@ -215,6 +224,3 @@
 * Fix missing floors in freshwater research station roof ([#53843](https://github.com/CleverRaven/Cataclysm-DDA/pull/53843))
 * Fix some confusing variable names ([#53844](https://github.com/CleverRaven/Cataclysm-DDA/pull/53844))
 * Added a sort zone for keys ([#53850](https://github.com/CleverRaven/Cataclysm-DDA/pull/53850))
-* Correctly generate stack trace with ASLR enabled ([#53837](https://github.com/CleverRaven/Cataclysm-DDA/pull/53837))
-* Revert "Downgrade MXE GCC to 9.3" ([#53833](https://github.com/CleverRaven/Cataclysm-DDA/pull/53833))
-* Adding gun mod to use m240 and m249 in semi-auto mode ([#53821](https://github.com/CleverRaven/Cataclysm-DDA/pull/53821))
