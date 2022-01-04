@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-04-2029 ([aa7dee9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-2029))
+
 * hub 1 blueprint cleanup metal log (7-8/8) ([#54029](https://github.com/CleverRaven/Cataclysm-DDA/pull/54029))
 * Fix monster special attack dodge message ([#54033](https://github.com/CleverRaven/Cataclysm-DDA/pull/54033))
 
@@ -192,11 +197,6 @@
 
 * remove move cost modifier for crafting spot ([#53926](https://github.com/CleverRaven/Cataclysm-DDA/pull/53926))
 * Improve translation comments for items ([#53917](https://github.com/CleverRaven/Cataclysm-DDA/pull/53917))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-31-0620 ([524a7db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-31-0620))
-
 * Hide negligable armor info ([#53888](https://github.com/CleverRaven/Cataclysm-DDA/pull/53888))
 * Fixed double material thickness for some armor defs ([#53881](https://github.com/CleverRaven/Cataclysm-DDA/pull/53881))
 * Tilesets Update 21-12-30 ([#53887](https://github.com/CleverRaven/Cataclysm-DDA/pull/53887))
