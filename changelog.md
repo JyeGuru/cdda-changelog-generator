@@ -1,3 +1,14 @@
+* New Innawood mod ([#53960](https://github.com/CleverRaven/Cataclysm-DDA/pull/53960))
+* Magic Circle is now Transparent ([#54054](https://github.com/CleverRaven/Cataclysm-DDA/pull/54054))
+* Adjust aim threshold ([#54059](https://github.com/CleverRaven/Cataclysm-DDA/pull/54059))
+* Introduce NO_AUTO_CONSUME flag ([#54065](https://github.com/CleverRaven/Cataclysm-DDA/pull/54065))
+* Convert zone manager to type-safe points ([#54068](https://github.com/CleverRaven/Cataclysm-DDA/pull/54068))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-05-2224 ([6cabc43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-2224))
+
+* Leather Belt can hold batons ([#54071](https://github.com/CleverRaven/Cataclysm-DDA/pull/54071))
 
 ---
 
@@ -186,11 +197,6 @@
 * Add percent coverage info for sublocations to the UI ([#53932](https://github.com/CleverRaven/Cataclysm-DDA/pull/53932))
 * remove extraneous chainmail_hood recipe ([#53930](https://github.com/CleverRaven/Cataclysm-DDA/pull/53930))
 * Add widget showing radiation badge color ([#53915](https://github.com/CleverRaven/Cataclysm-DDA/pull/53915))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-01-0716 ([279f9a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0716))
-
 * Restore 300AAC BLK conversion kit ([#53904](https://github.com/CleverRaven/Cataclysm-DDA/pull/53904))
 * More detailed lbvs ([#53892](https://github.com/CleverRaven/Cataclysm-DDA/pull/53892))
 * Simple Appliance UI ([#53884](https://github.com/CleverRaven/Cataclysm-DDA/pull/53884))
@@ -215,11 +221,5 @@
 * Run bash and radiation mapgen in transform phase ([#53879](https://github.com/CleverRaven/Cataclysm-DDA/pull/53879))
 * Misc mapgen fixes ([#53880](https://github.com/CleverRaven/Cataclysm-DDA/pull/53880))
 * Typo Fix: ark welding -> arc welding ([#53882](https://github.com/CleverRaven/Cataclysm-DDA/pull/53882))
-* Instructional books are now manuals ([#53852](https://github.com/CleverRaven/Cataclysm-DDA/pull/53852))
-* Reenable auto deconstruction removing wheels ([#53859](https://github.com/CleverRaven/Cataclysm-DDA/pull/53859))
 * Change tanned hides/pelts to GENERIC (was AMMO) ([#53866](https://github.com/CleverRaven/Cataclysm-DDA/pull/53866))
 * Allow homemade half-pike to be used to block ([#53865](https://github.com/CleverRaven/Cataclysm-DDA/pull/53865))
-* Extend vehicle parts repair requirements ([#53854](https://github.com/CleverRaven/Cataclysm-DDA/pull/53854))
-* Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
-* Irradiated Zombies drop corpses and have normalized loot drops ([#53857](https://github.com/CleverRaven/Cataclysm-DDA/pull/53857))
-* Fix MSVC type conversion warnings ([#53856](https://github.com/CleverRaven/Cataclysm-DDA/pull/53856))
