@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-05-1032 (a1f0736)
+* Change keybinding name from "Workout" to "Work Out" (#54052)
+
 Cataclysm-DDA experimental build 2022-01-05-0320 (9a985cf)
 * Fix permanent alien grass (#54051)
 
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2022-01-01-0716 (279f9a6)
 * More detailed lbvs (#53892)
 * Simple Appliance UI (#53884)
 * Robofac Tactical Modular Poncho (#53871)
-
-Cataclysm-DDA experimental build 2022-01-01-0616 (a261855)
 * Fix crafting time for cutting long undertops into sleeveless version (#53927)
 * Remove the extra space from layering menu (#53905)
 * Add repairs_like line to all gambesons (#53907)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2022-01-01-0616 (a261855)
 * Instructional books are now manuals (#53852)
 * Reenable auto deconstruction removing wheels (#53859)
 * Change tanned hides/pelts to GENERIC (was AMMO) (#53866)
-* Volume and length details for containers is a menu option (#53848)
 * Allow homemade half-pike to be used to block (#53865)
 * Extend vehicle parts repair requirements (#53854)
 * Fix some typos and grammar inconsistencies (#53855)

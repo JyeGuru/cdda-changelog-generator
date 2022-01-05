@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-05-1032 ([a1f0736](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-1032))
+
+* Change keybinding name from "Workout" to "Work Out" ([#54052](https://github.com/CleverRaven/Cataclysm-DDA/pull/54052))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-05-0320 ([9a985cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-0320))
 
 * Fix permanent alien grass ([#54051](https://github.com/CleverRaven/Cataclysm-DDA/pull/54051))
@@ -189,11 +195,6 @@
 * More detailed lbvs ([#53892](https://github.com/CleverRaven/Cataclysm-DDA/pull/53892))
 * Simple Appliance UI ([#53884](https://github.com/CleverRaven/Cataclysm-DDA/pull/53884))
 * Robofac Tactical Modular Poncho ([#53871](https://github.com/CleverRaven/Cataclysm-DDA/pull/53871))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-01-0616 ([a261855](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0616))
-
 * Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
 * Remove the extra space from layering menu ([#53905](https://github.com/CleverRaven/Cataclysm-DDA/pull/53905))
 * Add repairs_like line to all gambesons ([#53907](https://github.com/CleverRaven/Cataclysm-DDA/pull/53907))
@@ -217,7 +218,6 @@
 * Instructional books are now manuals ([#53852](https://github.com/CleverRaven/Cataclysm-DDA/pull/53852))
 * Reenable auto deconstruction removing wheels ([#53859](https://github.com/CleverRaven/Cataclysm-DDA/pull/53859))
 * Change tanned hides/pelts to GENERIC (was AMMO) ([#53866](https://github.com/CleverRaven/Cataclysm-DDA/pull/53866))
-* Volume and length details for containers is a menu option ([#53848](https://github.com/CleverRaven/Cataclysm-DDA/pull/53848))
 * Allow homemade half-pike to be used to block ([#53865](https://github.com/CleverRaven/Cataclysm-DDA/pull/53865))
 * Extend vehicle parts repair requirements ([#53854](https://github.com/CleverRaven/Cataclysm-DDA/pull/53854))
 * Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
