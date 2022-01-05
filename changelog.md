@@ -1,3 +1,22 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-05-0320 ([9a985cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-0320))
+
+* Fix permanent alien grass ([#54051](https://github.com/CleverRaven/Cataclysm-DDA/pull/54051))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-05-0145 ([807eb16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-0145))
+
+* Nerf electricity field damage to players ([#54049](https://github.com/CleverRaven/Cataclysm-DDA/pull/54049))
+* Clearly Sorted Sealed Perishables ([#54020](https://github.com/CleverRaven/Cataclysm-DDA/pull/54020))
+* Steel Grades ([#53875](https://github.com/CleverRaven/Cataclysm-DDA/pull/53875))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-05-0020 ([98045f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-0020))
+
 * [DinoMod] dino blood ([#54042](https://github.com/CleverRaven/Cataclysm-DDA/pull/54042))
 * Use Oxford comma consistently in tips ([#54043](https://github.com/CleverRaven/Cataclysm-DDA/pull/54043))
 
@@ -109,12 +128,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-01-02-0826 ([b49f934](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-02-0826))
-
-* Update plate armor materials. ([#53846](https://github.com/CleverRaven/Cataclysm-DDA/pull/53846))
-
----
-
 #### Cataclysm-DDA experimental build 2022-01-02-0715 ([2eb3587](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-02-0715))
 
 * Pluralize messages ([#53961](https://github.com/CleverRaven/Cataclysm-DDA/pull/53961))
@@ -182,17 +195,7 @@
 #### Cataclysm-DDA experimental build 2022-01-01-0616 ([a261855](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0616))
 
 * Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-01-0515 ([c8defa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0515))
-
 * Remove the extra space from layering menu ([#53905](https://github.com/CleverRaven/Cataclysm-DDA/pull/53905))
-
----
-
-#### Cataclysm-DDA experimental build 2021-12-31-2003 ([d4d82f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2021-12-31-2003))
-
 * Add repairs_like line to all gambesons ([#53907](https://github.com/CleverRaven/Cataclysm-DDA/pull/53907))
 * Fix stack-use-after-scope error reported by MSVC ASAN ([#53919](https://github.com/CleverRaven/Cataclysm-DDA/pull/53919))
 * Fix Regressions From 52361 ([#53924](https://github.com/CleverRaven/Cataclysm-DDA/pull/53924))
@@ -220,7 +223,4 @@
 * Fix some typos and grammar inconsistencies ([#53855](https://github.com/CleverRaven/Cataclysm-DDA/pull/53855))
 * Irradiated Zombies drop corpses and have normalized loot drops ([#53857](https://github.com/CleverRaven/Cataclysm-DDA/pull/53857))
 * Fix MSVC type conversion warnings ([#53856](https://github.com/CleverRaven/Cataclysm-DDA/pull/53856))
-* Phased mapgen fixes ([#53842](https://github.com/CleverRaven/Cataclysm-DDA/pull/53842))
-* Fix missing floors in freshwater research station roof ([#53843](https://github.com/CleverRaven/Cataclysm-DDA/pull/53843))
-* Fix some confusing variable names ([#53844](https://github.com/CleverRaven/Cataclysm-DDA/pull/53844))
 * Added a sort zone for keys ([#53850](https://github.com/CleverRaven/Cataclysm-DDA/pull/53850))

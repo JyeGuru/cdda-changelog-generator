@@ -1,3 +1,13 @@
+
+Cataclysm-DDA experimental build 2022-01-05-0320 (9a985cf)
+* Fix permanent alien grass (#54051)
+
+Cataclysm-DDA experimental build 2022-01-05-0145 (807eb16)
+* Nerf electricity field damage to players (#54049)
+* Clearly Sorted Sealed Perishables (#54020)
+* Steel Grades (#53875)
+
+Cataclysm-DDA experimental build 2022-01-05-0020 (98045f8)
 * [DinoMod] dino blood (#54042)
 * Use Oxford comma consistently in tips (#54043)
 
@@ -65,9 +75,6 @@ Cataclysm-DDA experimental build 2022-01-03-2052 (f649f3c)
 Cataclysm-DDA experimental build 2022-01-03-0731 (eacb7d9)
 * adjusted workshop recipes plus parkour bug (#53969)
 
-Cataclysm-DDA experimental build 2022-01-02-0826 (b49f934)
-* Update plate armor materials. (#53846)
-
 Cataclysm-DDA experimental build 2022-01-02-0715 (2eb3587)
 * Pluralize messages (#53961)
 * Show storage capacity in armor layering menu (#53946)
@@ -110,11 +117,7 @@ Cataclysm-DDA experimental build 2022-01-01-0716 (279f9a6)
 
 Cataclysm-DDA experimental build 2022-01-01-0616 (a261855)
 * Fix crafting time for cutting long undertops into sleeveless version (#53927)
-
-Cataclysm-DDA experimental build 2022-01-01-0515 (c8defa5)
 * Remove the extra space from layering menu (#53905)
-
-Cataclysm-DDA experimental build 2021-12-31-2003 (d4d82f8)
 * Add repairs_like line to all gambesons (#53907)
 * Fix stack-use-after-scope error reported by MSVC ASAN (#53919)
 * Fix Regressions From 52361 (#53924)
@@ -142,7 +145,4 @@ Cataclysm-DDA experimental build 2021-12-31-2003 (d4d82f8)
 * Fix some typos and grammar inconsistencies (#53855)
 * Irradiated Zombies drop corpses and have normalized loot drops (#53857)
 * Fix MSVC type conversion warnings (#53856)
-* Phased mapgen fixes (#53842)
-* Fix missing floors in freshwater research station roof (#53843)
-* Fix some confusing variable names (#53844)
 * Added a sort zone for keys (#53850)
