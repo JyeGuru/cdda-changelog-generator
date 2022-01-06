@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-06-1211 ([3c42e07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-1211))
+
+* 3 new Magiclysm spells (reopen #51092) ([#53940](https://github.com/CleverRaven/Cataclysm-DDA/pull/53940))
 * Make portal storm warnings popup ([#54084](https://github.com/CleverRaven/Cataclysm-DDA/pull/54084))
 * [Magiclysm] Added Technomancer mana-toolbar to the 'Fior Di Battaglia' martial art. ([#54016](https://github.com/CleverRaven/Cataclysm-DDA/pull/54016))
 * Customizable widget height ([#54050](https://github.com/CleverRaven/Cataclysm-DDA/pull/54050))
@@ -177,11 +183,6 @@
 * Show storage capacity in armor layering menu ([#53946](https://github.com/CleverRaven/Cataclysm-DDA/pull/53946))
 * Allow reloading partially full magazines with favorited ammo ([#53949](https://github.com/CleverRaven/Cataclysm-DDA/pull/53949))
 * Fix failing cardio test and make sprinting distance less random ([#53950](https://github.com/CleverRaven/Cataclysm-DDA/pull/53950))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-02-0603 ([6e07ff6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-02-0603))
-
 * C++ typo fix ([#53944](https://github.com/CleverRaven/Cataclysm-DDA/pull/53944))
 * Fix some minor issues with Rubik's conversation ([#53948](https://github.com/CleverRaven/Cataclysm-DDA/pull/53948))
 * Update spell checker dictionary ([#53945](https://github.com/CleverRaven/Cataclysm-DDA/pull/53945))
@@ -213,4 +214,3 @@
 * Hide negligable armor info ([#53888](https://github.com/CleverRaven/Cataclysm-DDA/pull/53888))
 * Tilesets Update 21-12-30 ([#53887](https://github.com/CleverRaven/Cataclysm-DDA/pull/53887))
 * Clean up Blacksmith Toolset ([#53883](https://github.com/CleverRaven/Cataclysm-DDA/pull/53883))
-* Typo Fix: ark welding -> arc welding ([#53882](https://github.com/CleverRaven/Cataclysm-DDA/pull/53882))
