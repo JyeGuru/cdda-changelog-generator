@@ -183,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2022-01-02-0603 ([6e07ff6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-02-0603))
 
 * C++ typo fix ([#53944](https://github.com/CleverRaven/Cataclysm-DDA/pull/53944))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-02-0132 ([774f6b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-02-0132))
-
 * Fix some minor issues with Rubik's conversation ([#53948](https://github.com/CleverRaven/Cataclysm-DDA/pull/53948))
 * Update spell checker dictionary ([#53945](https://github.com/CleverRaven/Cataclysm-DDA/pull/53945))
 * Pluralize a message in vehicle::thrust() ([#53942](https://github.com/CleverRaven/Cataclysm-DDA/pull/53942))
