@@ -1,3 +1,18 @@
+* Make clang-tidy happy with a little optimization ([#54080](https://github.com/CleverRaven/Cataclysm-DDA/pull/54080))
+* Design doc updates ([#54074](https://github.com/CleverRaven/Cataclysm-DDA/pull/54074))
+* Simplify StringMaker<T> template specialization in tests ([#54075](https://github.com/CleverRaven/Cataclysm-DDA/pull/54075))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-06-0147 ([420a483](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-0147))
+
+* Kevlar Chainmail Fix ([#54063](https://github.com/CleverRaven/Cataclysm-DDA/pull/54063))
+* Flexible Per Pocket Encumbrance ([#53968](https://github.com/CleverRaven/Cataclysm-DDA/pull/53968))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-06-0007 ([a6bd055](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-0007))
+
 * New Innawood mod ([#53960](https://github.com/CleverRaven/Cataclysm-DDA/pull/53960))
 * Magic Circle is now Transparent ([#54054](https://github.com/CleverRaven/Cataclysm-DDA/pull/54054))
 * Adjust aim threshold ([#54059](https://github.com/CleverRaven/Cataclysm-DDA/pull/54059))
@@ -172,26 +187,11 @@
 #### Cataclysm-DDA experimental build 2022-01-01-2355 ([03be6f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-2355))
 
 * Mainline "More Structures" mod ([#53938](https://github.com/CleverRaven/Cataclysm-DDA/pull/53938))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-01-1943 ([68cfef5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-1943))
-
 * Fix typographical errors in TropiCataclysm item descriptions ([#53934](https://github.com/CleverRaven/Cataclysm-DDA/pull/53934))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-01-0918 ([451e33d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0918))
-
 * [Magiclysm] XL demon chitin armor set ([#53886](https://github.com/CleverRaven/Cataclysm-DDA/pull/53886))
 * Fix warning text for consuming food with parasites ([#53912](https://github.com/CleverRaven/Cataclysm-DDA/pull/53912))
 * Replace filing requirement in chisel recipe with grinding ([#53931](https://github.com/CleverRaven/Cataclysm-DDA/pull/53931))
 * Deswage the metal file recipe ([#53909](https://github.com/CleverRaven/Cataclysm-DDA/pull/53909))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-01-0817 ([82e7766](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-0817))
-
 * Candles are no longer without wax ([#53893](https://github.com/CleverRaven/Cataclysm-DDA/pull/53893))
 * Routine i18n updates on 01 January 2022 ([#53933](https://github.com/CleverRaven/Cataclysm-DDA/pull/53933))
 * Add percent coverage info for sublocations to the UI ([#53932](https://github.com/CleverRaven/Cataclysm-DDA/pull/53932))
@@ -200,7 +200,6 @@
 * Restore 300AAC BLK conversion kit ([#53904](https://github.com/CleverRaven/Cataclysm-DDA/pull/53904))
 * More detailed lbvs ([#53892](https://github.com/CleverRaven/Cataclysm-DDA/pull/53892))
 * Simple Appliance UI ([#53884](https://github.com/CleverRaven/Cataclysm-DDA/pull/53884))
-* Robofac Tactical Modular Poncho ([#53871](https://github.com/CleverRaven/Cataclysm-DDA/pull/53871))
 * Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
 * Remove the extra space from layering menu ([#53905](https://github.com/CleverRaven/Cataclysm-DDA/pull/53905))
 * Add repairs_like line to all gambesons ([#53907](https://github.com/CleverRaven/Cataclysm-DDA/pull/53907))
@@ -216,10 +215,7 @@
 * Clean up Blacksmith Toolset ([#53883](https://github.com/CleverRaven/Cataclysm-DDA/pull/53883))
 * Add map::is_open_air; limit furniture placement ([#53878](https://github.com/CleverRaven/Cataclysm-DDA/pull/53878))
 * Limit map extras by zlevel ([#53877](https://github.com/CleverRaven/Cataclysm-DDA/pull/53877))
-* [Magiclysm] Shapeshifter Alkahest spell ([#53872](https://github.com/CleverRaven/Cataclysm-DDA/pull/53872))
 * mapgen_function_json_nested: Pass proper params ([#53876](https://github.com/CleverRaven/Cataclysm-DDA/pull/53876))
 * Run bash and radiation mapgen in transform phase ([#53879](https://github.com/CleverRaven/Cataclysm-DDA/pull/53879))
 * Misc mapgen fixes ([#53880](https://github.com/CleverRaven/Cataclysm-DDA/pull/53880))
 * Typo Fix: ark welding -> arc welding ([#53882](https://github.com/CleverRaven/Cataclysm-DDA/pull/53882))
-* Change tanned hides/pelts to GENERIC (was AMMO) ([#53866](https://github.com/CleverRaven/Cataclysm-DDA/pull/53866))
-* Allow homemade half-pike to be used to block ([#53865](https://github.com/CleverRaven/Cataclysm-DDA/pull/53865))
