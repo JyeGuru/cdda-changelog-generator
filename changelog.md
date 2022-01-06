@@ -1,3 +1,14 @@
+* Make portal storm warnings popup ([#54084](https://github.com/CleverRaven/Cataclysm-DDA/pull/54084))
+* [Magiclysm] Added Technomancer mana-toolbar to the 'Fior Di Battaglia' martial art. ([#54016](https://github.com/CleverRaven/Cataclysm-DDA/pull/54016))
+* Customizable widget height ([#54050](https://github.com/CleverRaven/Cataclysm-DDA/pull/54050))
+* Fix body part not being used to generate resistance objects ([#54079](https://github.com/CleverRaven/Cataclysm-DDA/pull/54079))
+* Clang-tidy: use `emplace_back` ([#54085](https://github.com/CleverRaven/Cataclysm-DDA/pull/54085))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-06-0707 ([74414b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-0707))
+
+* Fix out of bounds nests in mods ([#54081](https://github.com/CleverRaven/Cataclysm-DDA/pull/54081))
 * Fix ccache archive handling for better hit rates. ([#54078](https://github.com/CleverRaven/Cataclysm-DDA/pull/54078))
 * Make clang-tidy happy with a little optimization ([#54080](https://github.com/CleverRaven/Cataclysm-DDA/pull/54080))
 * Design doc updates ([#54074](https://github.com/CleverRaven/Cataclysm-DDA/pull/54074))
@@ -181,11 +192,6 @@
 * Update spell checker dictionary ([#53945](https://github.com/CleverRaven/Cataclysm-DDA/pull/53945))
 * Pluralize a message in vehicle::thrust() ([#53942](https://github.com/CleverRaven/Cataclysm-DDA/pull/53942))
 * Fix letter casing of "3D" and "Nomex" ([#53943](https://github.com/CleverRaven/Cataclysm-DDA/pull/53943))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-01-2355 ([03be6f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-01-2355))
-
 * Mainline "More Structures" mod ([#53938](https://github.com/CleverRaven/Cataclysm-DDA/pull/53938))
 * Fix typographical errors in TropiCataclysm item descriptions ([#53934](https://github.com/CleverRaven/Cataclysm-DDA/pull/53934))
 * [Magiclysm] XL demon chitin armor set ([#53886](https://github.com/CleverRaven/Cataclysm-DDA/pull/53886))
@@ -210,12 +216,6 @@
 * remove move cost modifier for crafting spot ([#53926](https://github.com/CleverRaven/Cataclysm-DDA/pull/53926))
 * Improve translation comments for items ([#53917](https://github.com/CleverRaven/Cataclysm-DDA/pull/53917))
 * Hide negligable armor info ([#53888](https://github.com/CleverRaven/Cataclysm-DDA/pull/53888))
-* Fixed double material thickness for some armor defs ([#53881](https://github.com/CleverRaven/Cataclysm-DDA/pull/53881))
 * Tilesets Update 21-12-30 ([#53887](https://github.com/CleverRaven/Cataclysm-DDA/pull/53887))
 * Clean up Blacksmith Toolset ([#53883](https://github.com/CleverRaven/Cataclysm-DDA/pull/53883))
-* Add map::is_open_air; limit furniture placement ([#53878](https://github.com/CleverRaven/Cataclysm-DDA/pull/53878))
-* Limit map extras by zlevel ([#53877](https://github.com/CleverRaven/Cataclysm-DDA/pull/53877))
-* mapgen_function_json_nested: Pass proper params ([#53876](https://github.com/CleverRaven/Cataclysm-DDA/pull/53876))
-* Run bash and radiation mapgen in transform phase ([#53879](https://github.com/CleverRaven/Cataclysm-DDA/pull/53879))
-* Misc mapgen fixes ([#53880](https://github.com/CleverRaven/Cataclysm-DDA/pull/53880))
 * Typo Fix: ark welding -> arc welding ([#53882](https://github.com/CleverRaven/Cataclysm-DDA/pull/53882))
