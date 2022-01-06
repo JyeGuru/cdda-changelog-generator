@@ -1,3 +1,4 @@
+* Fix ccache archive handling for better hit rates. ([#54078](https://github.com/CleverRaven/Cataclysm-DDA/pull/54078))
 * Make clang-tidy happy with a little optimization ([#54080](https://github.com/CleverRaven/Cataclysm-DDA/pull/54080))
 * Design doc updates ([#54074](https://github.com/CleverRaven/Cataclysm-DDA/pull/54074))
 * Simplify StringMaker<T> template specialization in tests ([#54075](https://github.com/CleverRaven/Cataclysm-DDA/pull/54075))
@@ -43,7 +44,6 @@
 
 * Nerf electricity field damage to players ([#54049](https://github.com/CleverRaven/Cataclysm-DDA/pull/54049))
 * Clearly Sorted Sealed Perishables ([#54020](https://github.com/CleverRaven/Cataclysm-DDA/pull/54020))
-* Steel Grades ([#53875](https://github.com/CleverRaven/Cataclysm-DDA/pull/53875))
 
 ---
 
