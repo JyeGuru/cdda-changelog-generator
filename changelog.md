@@ -1,3 +1,16 @@
+* Allow limbs to define MA techniques and unarmed damage, expand MA tech functionality ([#53939](https://github.com/CleverRaven/Cataclysm-DDA/pull/53939))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-06-1757 ([7de9626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-1757))
+
+* Propane ([#54066](https://github.com/CleverRaven/Cataclysm-DDA/pull/54066))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-06-1656 ([d532033](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-1656))
+
+* Grim Howler's Bite ([#54082](https://github.com/CleverRaven/Cataclysm-DDA/pull/54082))
 * livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
 
 ---
@@ -192,7 +205,6 @@
 * Fix letter casing of "3D" and "Nomex" ([#53943](https://github.com/CleverRaven/Cataclysm-DDA/pull/53943))
 * Mainline "More Structures" mod ([#53938](https://github.com/CleverRaven/Cataclysm-DDA/pull/53938))
 * Fix typographical errors in TropiCataclysm item descriptions ([#53934](https://github.com/CleverRaven/Cataclysm-DDA/pull/53934))
-* [Magiclysm] XL demon chitin armor set ([#53886](https://github.com/CleverRaven/Cataclysm-DDA/pull/53886))
 * Fix warning text for consuming food with parasites ([#53912](https://github.com/CleverRaven/Cataclysm-DDA/pull/53912))
 * Replace filing requirement in chisel recipe with grinding ([#53931](https://github.com/CleverRaven/Cataclysm-DDA/pull/53931))
 * Deswage the metal file recipe ([#53909](https://github.com/CleverRaven/Cataclysm-DDA/pull/53909))
@@ -212,5 +224,3 @@
 * add --version flag to cli arguments ([#53920](https://github.com/CleverRaven/Cataclysm-DDA/pull/53920))
 * remove move cost modifier for crafting spot ([#53926](https://github.com/CleverRaven/Cataclysm-DDA/pull/53926))
 * Improve translation comments for items ([#53917](https://github.com/CleverRaven/Cataclysm-DDA/pull/53917))
-* Hide negligable armor info ([#53888](https://github.com/CleverRaven/Cataclysm-DDA/pull/53888))
-* Tilesets Update 21-12-30 ([#53887](https://github.com/CleverRaven/Cataclysm-DDA/pull/53887))
