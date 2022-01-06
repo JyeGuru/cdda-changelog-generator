@@ -1,3 +1,10 @@
+* livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-06-1542 ([b4fa624](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-1542))
+
+* Canteen 1 blueprint cleanup ([#54067](https://github.com/CleverRaven/Cataclysm-DDA/pull/54067))
 
 ---
 
@@ -174,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-01-03-0731 ([eacb7d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-03-0731))
 
 * adjusted workshop recipes plus parkour bug ([#53969](https://github.com/CleverRaven/Cataclysm-DDA/pull/53969))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-02-0715 ([2eb3587](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-02-0715))
-
 * Pluralize messages ([#53961](https://github.com/CleverRaven/Cataclysm-DDA/pull/53961))
 * Show storage capacity in armor layering menu ([#53946](https://github.com/CleverRaven/Cataclysm-DDA/pull/53946))
 * Allow reloading partially full magazines with favorited ammo ([#53949](https://github.com/CleverRaven/Cataclysm-DDA/pull/53949))
@@ -201,7 +203,6 @@
 * Add widget showing radiation badge color ([#53915](https://github.com/CleverRaven/Cataclysm-DDA/pull/53915))
 * Restore 300AAC BLK conversion kit ([#53904](https://github.com/CleverRaven/Cataclysm-DDA/pull/53904))
 * More detailed lbvs ([#53892](https://github.com/CleverRaven/Cataclysm-DDA/pull/53892))
-* Simple Appliance UI ([#53884](https://github.com/CleverRaven/Cataclysm-DDA/pull/53884))
 * Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
 * Remove the extra space from layering menu ([#53905](https://github.com/CleverRaven/Cataclysm-DDA/pull/53905))
 * Add repairs_like line to all gambesons ([#53907](https://github.com/CleverRaven/Cataclysm-DDA/pull/53907))
@@ -213,4 +214,3 @@
 * Improve translation comments for items ([#53917](https://github.com/CleverRaven/Cataclysm-DDA/pull/53917))
 * Hide negligable armor info ([#53888](https://github.com/CleverRaven/Cataclysm-DDA/pull/53888))
 * Tilesets Update 21-12-30 ([#53887](https://github.com/CleverRaven/Cataclysm-DDA/pull/53887))
-* Clean up Blacksmith Toolset ([#53883](https://github.com/CleverRaven/Cataclysm-DDA/pull/53883))
