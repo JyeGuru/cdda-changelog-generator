@@ -1,3 +1,5 @@
+* Remove starting trait conflicts with bio armor (#54146)
+* saltpan expansion blueprint cleanup (#54135)
 
 Cataclysm-DDA experimental build 2022-01-07-2224 (cfafb47)
 * Fixed outer region of the tower being resin floor (#54137)
@@ -145,5 +147,3 @@ Cataclysm-DDA experimental build 2022-01-04-0651 (4a83e3d)
 * Pluralize a message in vehicle::thrust() (#53942)
 * Fix letter casing of "3D" and "Nomex" (#53943)
 * Mainline "More Structures" mod (#53938)
-* Fix typographical errors in TropiCataclysm item descriptions (#53934)
-* Routine i18n updates on 01 January 2022 (#53933)

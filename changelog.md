@@ -1,3 +1,5 @@
+* Remove starting trait conflicts with bio armor ([#54146](https://github.com/CleverRaven/Cataclysm-DDA/pull/54146))
+* saltpan expansion blueprint cleanup ([#54135](https://github.com/CleverRaven/Cataclysm-DDA/pull/54135))
 
 ---
 
@@ -223,5 +225,3 @@
 * Pluralize a message in vehicle::thrust() ([#53942](https://github.com/CleverRaven/Cataclysm-DDA/pull/53942))
 * Fix letter casing of "3D" and "Nomex" ([#53943](https://github.com/CleverRaven/Cataclysm-DDA/pull/53943))
 * Mainline "More Structures" mod ([#53938](https://github.com/CleverRaven/Cataclysm-DDA/pull/53938))
-* Fix typographical errors in TropiCataclysm item descriptions ([#53934](https://github.com/CleverRaven/Cataclysm-DDA/pull/53934))
-* Routine i18n updates on 01 January 2022 ([#53933](https://github.com/CleverRaven/Cataclysm-DDA/pull/53933))
