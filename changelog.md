@@ -1,3 +1,16 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-07-0358 ([11cfa83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-07-0358))
+
+* Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
+* Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-06-2356 ([1acfc7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-2356))
+
+* Add widgets for movement mode letter/word and move cost ([#53977](https://github.com/CleverRaven/Cataclysm-DDA/pull/53977))
 * Allow limbs to define MA techniques and unarmed damage, expand MA tech functionality ([#53939](https://github.com/CleverRaven/Cataclysm-DDA/pull/53939))
 
 ---
@@ -182,17 +195,7 @@
 * Update help file ([#54001](https://github.com/CleverRaven/Cataclysm-DDA/pull/54001))
 * Move some template specializations of StringMaker<T>::convert<T> to a cpp file ([#54003](https://github.com/CleverRaven/Cataclysm-DDA/pull/54003))
 * Use pimpl<T> class for TranslationManagerImpl ([#53994](https://github.com/CleverRaven/Cataclysm-DDA/pull/53994))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-03-2052 ([f649f3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-03-2052))
-
 * Fix time stamp retrieval on Windows ([#54006](https://github.com/CleverRaven/Cataclysm-DDA/pull/54006))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-03-0731 ([eacb7d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-03-0731))
-
 * adjusted workshop recipes plus parkour bug ([#53969](https://github.com/CleverRaven/Cataclysm-DDA/pull/53969))
 * Pluralize messages ([#53961](https://github.com/CleverRaven/Cataclysm-DDA/pull/53961))
 * Show storage capacity in armor layering menu ([#53946](https://github.com/CleverRaven/Cataclysm-DDA/pull/53946))
@@ -208,13 +211,10 @@
 * Fix warning text for consuming food with parasites ([#53912](https://github.com/CleverRaven/Cataclysm-DDA/pull/53912))
 * Replace filing requirement in chisel recipe with grinding ([#53931](https://github.com/CleverRaven/Cataclysm-DDA/pull/53931))
 * Deswage the metal file recipe ([#53909](https://github.com/CleverRaven/Cataclysm-DDA/pull/53909))
-* Candles are no longer without wax ([#53893](https://github.com/CleverRaven/Cataclysm-DDA/pull/53893))
 * Routine i18n updates on 01 January 2022 ([#53933](https://github.com/CleverRaven/Cataclysm-DDA/pull/53933))
 * Add percent coverage info for sublocations to the UI ([#53932](https://github.com/CleverRaven/Cataclysm-DDA/pull/53932))
 * remove extraneous chainmail_hood recipe ([#53930](https://github.com/CleverRaven/Cataclysm-DDA/pull/53930))
 * Add widget showing radiation badge color ([#53915](https://github.com/CleverRaven/Cataclysm-DDA/pull/53915))
-* Restore 300AAC BLK conversion kit ([#53904](https://github.com/CleverRaven/Cataclysm-DDA/pull/53904))
-* More detailed lbvs ([#53892](https://github.com/CleverRaven/Cataclysm-DDA/pull/53892))
 * Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
 * Remove the extra space from layering menu ([#53905](https://github.com/CleverRaven/Cataclysm-DDA/pull/53905))
 * Add repairs_like line to all gambesons ([#53907](https://github.com/CleverRaven/Cataclysm-DDA/pull/53907))
