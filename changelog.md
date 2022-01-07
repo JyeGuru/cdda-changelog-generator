@@ -1,3 +1,4 @@
+* Expanded plate mail ([#53962](https://github.com/CleverRaven/Cataclysm-DDA/pull/53962))
 
 ---
 
@@ -217,7 +218,6 @@
 * remove extraneous chainmail_hood recipe ([#53930](https://github.com/CleverRaven/Cataclysm-DDA/pull/53930))
 * Add widget showing radiation badge color ([#53915](https://github.com/CleverRaven/Cataclysm-DDA/pull/53915))
 * Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
-* Add repairs_like line to all gambesons ([#53907](https://github.com/CleverRaven/Cataclysm-DDA/pull/53907))
 * Fix stack-use-after-scope error reported by MSVC ASAN ([#53919](https://github.com/CleverRaven/Cataclysm-DDA/pull/53919))
 * Fix Regressions From 52361 ([#53924](https://github.com/CleverRaven/Cataclysm-DDA/pull/53924))
 * Another batch of JSON misspellings fix ([#53916](https://github.com/CleverRaven/Cataclysm-DDA/pull/53916))

@@ -1,3 +1,4 @@
+* Expanded plate mail (#53962)
 
 Cataclysm-DDA experimental build 2022-01-07-0857 (1793043)
 * Reduced mi-go scout speed from 150 to 120 (#54129)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2022-01-04-0255 (7dc394a)
 * remove extraneous chainmail_hood recipe (#53930)
 * Add widget showing radiation badge color (#53915)
 * Fix crafting time for cutting long undertops into sleeveless version (#53927)
-* Add repairs_like line to all gambesons (#53907)
 * Fix stack-use-after-scope error reported by MSVC ASAN (#53919)
 * Fix Regressions From 52361 (#53924)
 * Another batch of JSON misspellings fix (#53916)
