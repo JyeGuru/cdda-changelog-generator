@@ -46,7 +46,6 @@
 #### Cataclysm-DDA experimental build 2022-01-06-2356 ([1acfc7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-2356))
 
 * Add widgets for movement mode letter/word and move cost ([#53977](https://github.com/CleverRaven/Cataclysm-DDA/pull/53977))
-* Allow limbs to define MA techniques and unarmed damage, expand MA tech functionality ([#53939](https://github.com/CleverRaven/Cataclysm-DDA/pull/53939))
 
 ---
 

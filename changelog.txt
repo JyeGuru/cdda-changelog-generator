@@ -31,7 +31,6 @@ Cataclysm-DDA experimental build 2022-01-07-0358 (11cfa83)
 
 Cataclysm-DDA experimental build 2022-01-06-2356 (1acfc7c)
 * Add widgets for movement mode letter/word and move cost (#53977)
-* Allow limbs to define MA techniques and unarmed damage, expand MA tech functionality (#53939)
 
 Cataclysm-DDA experimental build 2022-01-06-1757 (7de9626)
 * Propane (#54066)
