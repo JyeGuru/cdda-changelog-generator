@@ -1,3 +1,13 @@
+* Category change for containers ([#54101](https://github.com/CleverRaven/Cataclysm-DDA/pull/54101))
+* Fix eternal season affect on weather ([#54100](https://github.com/CleverRaven/Cataclysm-DDA/pull/54100))
+* New survivor notes ([#54072](https://github.com/CleverRaven/Cataclysm-DDA/pull/54072))
+* Add widgets for bodypart status ([#53975](https://github.com/CleverRaven/Cataclysm-DDA/pull/53975))
+* [Aftershock] Modular Exosuit UI ([#53964](https://github.com/CleverRaven/Cataclysm-DDA/pull/53964))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-07-2158 ([92a6fa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-07-2158))
+
 * Expanded plate mail ([#53962](https://github.com/CleverRaven/Cataclysm-DDA/pull/53962))
 
 ---
@@ -148,12 +158,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-01-04-1500 ([cb11ca5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1500))
-
-* Reeneable mapgen test ([#53913](https://github.com/CleverRaven/Cataclysm-DDA/pull/53913))
-
----
-
 #### Cataclysm-DDA experimental build 2022-01-04-1142 ([0426c7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1142))
 
 * 500L fridge capacity ([#54019](https://github.com/CleverRaven/Cataclysm-DDA/pull/54019))
@@ -210,13 +214,10 @@
 * Fix letter casing of "3D" and "Nomex" ([#53943](https://github.com/CleverRaven/Cataclysm-DDA/pull/53943))
 * Mainline "More Structures" mod ([#53938](https://github.com/CleverRaven/Cataclysm-DDA/pull/53938))
 * Fix typographical errors in TropiCataclysm item descriptions ([#53934](https://github.com/CleverRaven/Cataclysm-DDA/pull/53934))
-* Fix warning text for consuming food with parasites ([#53912](https://github.com/CleverRaven/Cataclysm-DDA/pull/53912))
 * Replace filing requirement in chisel recipe with grinding ([#53931](https://github.com/CleverRaven/Cataclysm-DDA/pull/53931))
-* Deswage the metal file recipe ([#53909](https://github.com/CleverRaven/Cataclysm-DDA/pull/53909))
 * Routine i18n updates on 01 January 2022 ([#53933](https://github.com/CleverRaven/Cataclysm-DDA/pull/53933))
 * Add percent coverage info for sublocations to the UI ([#53932](https://github.com/CleverRaven/Cataclysm-DDA/pull/53932))
 * remove extraneous chainmail_hood recipe ([#53930](https://github.com/CleverRaven/Cataclysm-DDA/pull/53930))
-* Add widget showing radiation badge color ([#53915](https://github.com/CleverRaven/Cataclysm-DDA/pull/53915))
 * Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
 * Fix stack-use-after-scope error reported by MSVC ASAN ([#53919](https://github.com/CleverRaven/Cataclysm-DDA/pull/53919))
 * Fix Regressions From 52361 ([#53924](https://github.com/CleverRaven/Cataclysm-DDA/pull/53924))
