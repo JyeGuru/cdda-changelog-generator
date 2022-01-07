@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-07-0857 ([1793043](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-07-0857))
+
+* Reduced mi-go scout speed from 150 to 120 ([#54129](https://github.com/CleverRaven/Cataclysm-DDA/pull/54129))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-07-0358 ([11cfa83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-07-0358))
 
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
@@ -181,11 +187,6 @@
 * Hub 1 blueprint cleanup tent, rock, rammed earth, mi-go resin (3-6/8) ([#54005](https://github.com/CleverRaven/Cataclysm-DDA/pull/54005))
 * hub 1 blueprint cleanup wood + wad (1-2/8) ([#53999](https://github.com/CleverRaven/Cataclysm-DDA/pull/53999))
 * Fix spell effect name in documentation ([#53992](https://github.com/CleverRaven/Cataclysm-DDA/pull/53992))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-03-2224 ([d5c1dac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-03-2224))
-
 * [Magiclysm] Fix ring of blades flags ([#54004](https://github.com/CleverRaven/Cataclysm-DDA/pull/54004))
 * Skip expensive drop_invalid_inventory() calls in pickup activity ([#53953](https://github.com/CleverRaven/Cataclysm-DDA/pull/53953))
 * Whitelist new rarely spawning map locations to prevent test failures. ([#53986](https://github.com/CleverRaven/Cataclysm-DDA/pull/53986))
@@ -216,7 +217,6 @@
 * remove extraneous chainmail_hood recipe ([#53930](https://github.com/CleverRaven/Cataclysm-DDA/pull/53930))
 * Add widget showing radiation badge color ([#53915](https://github.com/CleverRaven/Cataclysm-DDA/pull/53915))
 * Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
-* Remove the extra space from layering menu ([#53905](https://github.com/CleverRaven/Cataclysm-DDA/pull/53905))
 * Add repairs_like line to all gambesons ([#53907](https://github.com/CleverRaven/Cataclysm-DDA/pull/53907))
 * Fix stack-use-after-scope error reported by MSVC ASAN ([#53919](https://github.com/CleverRaven/Cataclysm-DDA/pull/53919))
 * Fix Regressions From 52361 ([#53924](https://github.com/CleverRaven/Cataclysm-DDA/pull/53924))
