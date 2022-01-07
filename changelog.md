@@ -1,3 +1,18 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-07-2224 ([cfafb47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-07-2224))
+
+* Fixed outer region of the tower being resin floor ([#54137](https://github.com/CleverRaven/Cataclysm-DDA/pull/54137))
+* Clean up and update JSON_FLAGS.md ([#54131](https://github.com/CleverRaven/Cataclysm-DDA/pull/54131))
+* Update mapgen with puddles ([#54128](https://github.com/CleverRaven/Cataclysm-DDA/pull/54128))
+* Make it easier to make temporary terrain changes ([#54123](https://github.com/CleverRaven/Cataclysm-DDA/pull/54123))
+* Minor portal storm fixes ([#54121](https://github.com/CleverRaven/Cataclysm-DDA/pull/54121))
+* Add some Uncanny news ([#54119](https://github.com/CleverRaven/Cataclysm-DDA/pull/54119))
+* fix lab nest error ([#54115](https://github.com/CleverRaven/Cataclysm-DDA/pull/54115))
+* Added features to smartphone ([#54114](https://github.com/CleverRaven/Cataclysm-DDA/pull/54114))
+* Fix Bioluminescent Flare ability ([#54112](https://github.com/CleverRaven/Cataclysm-DDA/pull/54112))
+* NPCs - only mapgen stuff ([#54102](https://github.com/CleverRaven/Cataclysm-DDA/pull/54102))
 * Category change for containers ([#54101](https://github.com/CleverRaven/Cataclysm-DDA/pull/54101))
 * Fix eternal season affect on weather ([#54100](https://github.com/CleverRaven/Cataclysm-DDA/pull/54100))
 * New survivor notes ([#54072](https://github.com/CleverRaven/Cataclysm-DDA/pull/54072))
@@ -180,11 +195,6 @@
 
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-04-0255 ([7dc394a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-0255))
-
 * Fix typo in minifridge description ([#54011](https://github.com/CleverRaven/Cataclysm-DDA/pull/54011))
 * Port overmap mission arrow fix from BN ([#53971](https://github.com/CleverRaven/Cataclysm-DDA/pull/53971))
 * Fix firing gun with mixed fav/unfav ammo ([#53973](https://github.com/CleverRaven/Cataclysm-DDA/pull/53973))
@@ -214,14 +224,4 @@
 * Fix letter casing of "3D" and "Nomex" ([#53943](https://github.com/CleverRaven/Cataclysm-DDA/pull/53943))
 * Mainline "More Structures" mod ([#53938](https://github.com/CleverRaven/Cataclysm-DDA/pull/53938))
 * Fix typographical errors in TropiCataclysm item descriptions ([#53934](https://github.com/CleverRaven/Cataclysm-DDA/pull/53934))
-* Replace filing requirement in chisel recipe with grinding ([#53931](https://github.com/CleverRaven/Cataclysm-DDA/pull/53931))
 * Routine i18n updates on 01 January 2022 ([#53933](https://github.com/CleverRaven/Cataclysm-DDA/pull/53933))
-* Add percent coverage info for sublocations to the UI ([#53932](https://github.com/CleverRaven/Cataclysm-DDA/pull/53932))
-* remove extraneous chainmail_hood recipe ([#53930](https://github.com/CleverRaven/Cataclysm-DDA/pull/53930))
-* Fix crafting time for cutting long undertops into sleeveless version ([#53927](https://github.com/CleverRaven/Cataclysm-DDA/pull/53927))
-* Fix stack-use-after-scope error reported by MSVC ASAN ([#53919](https://github.com/CleverRaven/Cataclysm-DDA/pull/53919))
-* Fix Regressions From 52361 ([#53924](https://github.com/CleverRaven/Cataclysm-DDA/pull/53924))
-* Another batch of JSON misspellings fix ([#53916](https://github.com/CleverRaven/Cataclysm-DDA/pull/53916))
-* add --version flag to cli arguments ([#53920](https://github.com/CleverRaven/Cataclysm-DDA/pull/53920))
-* remove move cost modifier for crafting spot ([#53926](https://github.com/CleverRaven/Cataclysm-DDA/pull/53926))
-* Improve translation comments for items ([#53917](https://github.com/CleverRaven/Cataclysm-DDA/pull/53917))
