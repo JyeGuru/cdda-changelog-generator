@@ -1,3 +1,4 @@
+* Propane accessories (#54143)
 * Remove starting trait conflicts with bio armor (#54146)
 * saltpan expansion blueprint cleanup (#54135)
 
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2022-01-04-0651 (4a83e3d)
 * Update spell checker dictionary (#53945)
 * Pluralize a message in vehicle::thrust() (#53942)
 * Fix letter casing of "3D" and "Nomex" (#53943)
-* Mainline "More Structures" mod (#53938)
