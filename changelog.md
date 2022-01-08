@@ -1,3 +1,11 @@
+* Clarify VS2019 requirement because of vcpkg. ([#54170](https://github.com/CleverRaven/Cataclysm-DDA/pull/54170))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-08-1901 ([a2d1557](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-1901))
+
+* storehouse 1 expansion blueprint cleanup ([#54168](https://github.com/CleverRaven/Cataclysm-DDA/pull/54168))
+* Add a script to check for tags in translations ([#54163](https://github.com/CleverRaven/Cataclysm-DDA/pull/54163))
 
 ---
 
@@ -57,7 +65,6 @@
 * Fix eternal season affect on weather ([#54100](https://github.com/CleverRaven/Cataclysm-DDA/pull/54100))
 * New survivor notes ([#54072](https://github.com/CleverRaven/Cataclysm-DDA/pull/54072))
 * Add widgets for bodypart status ([#53975](https://github.com/CleverRaven/Cataclysm-DDA/pull/53975))
-* [Aftershock] Modular Exosuit UI ([#53964](https://github.com/CleverRaven/Cataclysm-DDA/pull/53964))
 
 ---
 
@@ -117,7 +124,6 @@
 #### Cataclysm-DDA experimental build 2022-01-06-0147 ([420a483](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-0147))
 
 * Kevlar Chainmail Fix ([#54063](https://github.com/CleverRaven/Cataclysm-DDA/pull/54063))
-* Flexible Per Pocket Encumbrance ([#53968](https://github.com/CleverRaven/Cataclysm-DDA/pull/53968))
 * Magic Circle is now Transparent ([#54054](https://github.com/CleverRaven/Cataclysm-DDA/pull/54054))
 * Adjust aim threshold ([#54059](https://github.com/CleverRaven/Cataclysm-DDA/pull/54059))
 * Introduce NO_AUTO_CONSUME flag ([#54065](https://github.com/CleverRaven/Cataclysm-DDA/pull/54065))
@@ -178,17 +184,11 @@
 * Added warmth fixed volumes and weight for Robofac Ponchos ([#53988](https://github.com/CleverRaven/Cataclysm-DDA/pull/53988))
 * brought base blueprint recipe names inside their name spaces ([#54038](https://github.com/CleverRaven/Cataclysm-DDA/pull/54038))
 * Use forward declaration of struct dialogue in weather_type.h ([#54041](https://github.com/CleverRaven/Cataclysm-DDA/pull/54041))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-04-1743 ([5ea4546](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1743))
-
 * Automatically connect Appliances to their neighbours upon completion ([#53981](https://github.com/CleverRaven/Cataclysm-DDA/pull/53981))
 * Remove diary.h from avatar.h ([#54037](https://github.com/CleverRaven/Cataclysm-DDA/pull/54037))
 * Include sstream to fix test compilation ([#54034](https://github.com/CleverRaven/Cataclysm-DDA/pull/54034))
 * 500L fridge capacity ([#54019](https://github.com/CleverRaven/Cataclysm-DDA/pull/54019))
 * Yule Wreath Fix ([#54023](https://github.com/CleverRaven/Cataclysm-DDA/pull/54023))
-* Regenericise currency ([#53963](https://github.com/CleverRaven/Cataclysm-DDA/pull/53963))
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
 * Fix typo in minifridge description ([#54011](https://github.com/CleverRaven/Cataclysm-DDA/pull/54011))
