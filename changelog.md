@@ -1,3 +1,13 @@
+* [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
+* Fix multiclean volume always using full charges ([#54145](https://github.com/CleverRaven/Cataclysm-DDA/pull/54145))
+* Add widgets for vehicle azimuth, cruising speed, and fuel ([#53978](https://github.com/CleverRaven/Cataclysm-DDA/pull/53978))
+* Add widgets for compass ([#53980](https://github.com/CleverRaven/Cataclysm-DDA/pull/53980))
+* Extract "name" from pocket_data ([#54158](https://github.com/CleverRaven/Cataclysm-DDA/pull/54158))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-08-0400 ([1849155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0400))
+
 * Split up sidebar.json roughly by widget_var ([#54125](https://github.com/CleverRaven/Cataclysm-DDA/pull/54125))
 * Crafting: Fix component filters when continuing craft ([#54138](https://github.com/CleverRaven/Cataclysm-DDA/pull/54138))
 * Small fix: make new portal storm popup rarer ([#54154](https://github.com/CleverRaven/Cataclysm-DDA/pull/54154))
@@ -187,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-01-04-1022 ([1787cb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1022))
 
 * Yule Wreath Fix ([#54023](https://github.com/CleverRaven/Cataclysm-DDA/pull/54023))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-04-0812 ([40a0960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-0812))
-
 * Regenericise currency ([#53963](https://github.com/CleverRaven/Cataclysm-DDA/pull/53963))
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
@@ -203,7 +208,6 @@
 * hub 1 blueprint cleanup wood + wad (1-2/8) ([#53999](https://github.com/CleverRaven/Cataclysm-DDA/pull/53999))
 * Fix spell effect name in documentation ([#53992](https://github.com/CleverRaven/Cataclysm-DDA/pull/53992))
 * [Magiclysm] Fix ring of blades flags ([#54004](https://github.com/CleverRaven/Cataclysm-DDA/pull/54004))
-* Skip expensive drop_invalid_inventory() calls in pickup activity ([#53953](https://github.com/CleverRaven/Cataclysm-DDA/pull/53953))
 * Whitelist new rarely spawning map locations to prevent test failures. ([#53986](https://github.com/CleverRaven/Cataclysm-DDA/pull/53986))
 * Mre fix sirbab ([#53984](https://github.com/CleverRaven/Cataclysm-DDA/pull/53984))
 * Add widget for weather description ([#53976](https://github.com/CleverRaven/Cataclysm-DDA/pull/53976))
@@ -214,7 +218,3 @@
 * Fix time stamp retrieval on Windows ([#54006](https://github.com/CleverRaven/Cataclysm-DDA/pull/54006))
 * adjusted workshop recipes plus parkour bug ([#53969](https://github.com/CleverRaven/Cataclysm-DDA/pull/53969))
 * Pluralize messages ([#53961](https://github.com/CleverRaven/Cataclysm-DDA/pull/53961))
-* Show storage capacity in armor layering menu ([#53946](https://github.com/CleverRaven/Cataclysm-DDA/pull/53946))
-* Allow reloading partially full magazines with favorited ammo ([#53949](https://github.com/CleverRaven/Cataclysm-DDA/pull/53949))
-* Fix failing cardio test and make sprinting distance less random ([#53950](https://github.com/CleverRaven/Cataclysm-DDA/pull/53950))
-* Fix some minor issues with Rubik's conversation ([#53948](https://github.com/CleverRaven/Cataclysm-DDA/pull/53948))
