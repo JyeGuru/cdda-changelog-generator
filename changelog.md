@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-08-0703 ([2ba94d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0703))
+
+* Routine i18n updates on 08 January 2022 ([#54160](https://github.com/CleverRaven/Cataclysm-DDA/pull/54160))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-08-0546 ([98c666f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0546))
 
 * Redesigned Cathedral ([#54144](https://github.com/CleverRaven/Cataclysm-DDA/pull/54144))
@@ -185,11 +191,6 @@
 
 * Remove diary.h from avatar.h ([#54037](https://github.com/CleverRaven/Cataclysm-DDA/pull/54037))
 * Include sstream to fix test compilation ([#54034](https://github.com/CleverRaven/Cataclysm-DDA/pull/54034))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-04-1142 ([0426c7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1142))
-
 * 500L fridge capacity ([#54019](https://github.com/CleverRaven/Cataclysm-DDA/pull/54019))
 * Yule Wreath Fix ([#54023](https://github.com/CleverRaven/Cataclysm-DDA/pull/54023))
 * Regenericise currency ([#53963](https://github.com/CleverRaven/Cataclysm-DDA/pull/53963))
@@ -212,4 +213,3 @@
 * Use pimpl<T> class for TranslationManagerImpl ([#53994](https://github.com/CleverRaven/Cataclysm-DDA/pull/53994))
 * Fix time stamp retrieval on Windows ([#54006](https://github.com/CleverRaven/Cataclysm-DDA/pull/54006))
 * adjusted workshop recipes plus parkour bug ([#53969](https://github.com/CleverRaven/Cataclysm-DDA/pull/53969))
-* Pluralize messages ([#53961](https://github.com/CleverRaven/Cataclysm-DDA/pull/53961))

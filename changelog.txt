@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-08-0703 (2ba94d9)
+* Routine i18n updates on 08 January 2022 (#54160)
+
 Cataclysm-DDA experimental build 2022-01-08-0546 (98c666f)
 * Redesigned Cathedral (#54144)
 * [Magiclysm] adjust black dragon lair mapgen (#54156)
@@ -116,8 +119,6 @@ Cataclysm-DDA experimental build 2022-01-04-1743 (5ea4546)
 Cataclysm-DDA experimental build 2022-01-04-1617 (e7cd5fb)
 * Remove diary.h from avatar.h (#54037)
 * Include sstream to fix test compilation (#54034)
-
-Cataclysm-DDA experimental build 2022-01-04-1142 (0426c7c)
 * 500L fridge capacity (#54019)
 * Yule Wreath Fix (#54023)
 * Regenericise currency (#53963)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2022-01-04-1142 (0426c7c)
 * Use pimpl<T> class for TranslationManagerImpl (#53994)
 * Fix time stamp retrieval on Windows (#54006)
 * adjusted workshop recipes plus parkour bug (#53969)
-* Pluralize messages (#53961)
