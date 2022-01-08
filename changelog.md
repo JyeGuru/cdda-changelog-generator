@@ -1,3 +1,12 @@
+* Split up sidebar.json roughly by widget_var ([#54125](https://github.com/CleverRaven/Cataclysm-DDA/pull/54125))
+* Crafting: Fix component filters when continuing craft ([#54138](https://github.com/CleverRaven/Cataclysm-DDA/pull/54138))
+* Small fix: make new portal storm popup rarer ([#54154](https://github.com/CleverRaven/Cataclysm-DDA/pull/54154))
+* Smartphone fix ([#54150](https://github.com/CleverRaven/Cataclysm-DDA/pull/54150))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-08-0009 ([9b986bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0009))
+
 * Propane accessories ([#54143](https://github.com/CleverRaven/Cataclysm-DDA/pull/54143))
 * Remove starting trait conflicts with bio armor ([#54146](https://github.com/CleverRaven/Cataclysm-DDA/pull/54146))
 * saltpan expansion blueprint cleanup ([#54135](https://github.com/CleverRaven/Cataclysm-DDA/pull/54135))
@@ -65,12 +74,6 @@
 #### Cataclysm-DDA experimental build 2022-01-06-1542 ([b4fa624](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-1542))
 
 * Canteen 1 blueprint cleanup ([#54067](https://github.com/CleverRaven/Cataclysm-DDA/pull/54067))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-06-1211 ([3c42e07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-1211))
-
-* 3 new Magiclysm spells (reopen #51092) ([#53940](https://github.com/CleverRaven/Cataclysm-DDA/pull/53940))
 * Make portal storm warnings popup ([#54084](https://github.com/CleverRaven/Cataclysm-DDA/pull/54084))
 * [Magiclysm] Added Technomancer mana-toolbar to the 'Fior Di Battaglia' martial art. ([#54016](https://github.com/CleverRaven/Cataclysm-DDA/pull/54016))
 * Customizable widget height ([#54050](https://github.com/CleverRaven/Cataclysm-DDA/pull/54050))
@@ -190,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2022-01-04-0812 ([40a0960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-0812))
 
 * Regenericise currency ([#53963](https://github.com/CleverRaven/Cataclysm-DDA/pull/53963))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-04-0651 ([4a83e3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-0651))
-
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
 * Fix typo in minifridge description ([#54011](https://github.com/CleverRaven/Cataclysm-DDA/pull/54011))
@@ -219,8 +217,4 @@
 * Show storage capacity in armor layering menu ([#53946](https://github.com/CleverRaven/Cataclysm-DDA/pull/53946))
 * Allow reloading partially full magazines with favorited ammo ([#53949](https://github.com/CleverRaven/Cataclysm-DDA/pull/53949))
 * Fix failing cardio test and make sprinting distance less random ([#53950](https://github.com/CleverRaven/Cataclysm-DDA/pull/53950))
-* C++ typo fix ([#53944](https://github.com/CleverRaven/Cataclysm-DDA/pull/53944))
 * Fix some minor issues with Rubik's conversation ([#53948](https://github.com/CleverRaven/Cataclysm-DDA/pull/53948))
-* Update spell checker dictionary ([#53945](https://github.com/CleverRaven/Cataclysm-DDA/pull/53945))
-* Pluralize a message in vehicle::thrust() ([#53942](https://github.com/CleverRaven/Cataclysm-DDA/pull/53942))
-* Fix letter casing of "3D" and "Nomex" ([#53943](https://github.com/CleverRaven/Cataclysm-DDA/pull/53943))
