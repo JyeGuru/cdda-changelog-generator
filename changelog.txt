@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-08-2012 (55ae5ff)
 * Clarify VS2019 requirement because of vcpkg. (#54170)
 
 Cataclysm-DDA experimental build 2022-01-08-1901 (a2d1557)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2022-01-04-2306 (8c498f6)
 Cataclysm-DDA experimental build 2022-01-04-2029 (aa7dee9)
 * hub 1 blueprint cleanup metal log (7-8/8) (#54029)
 * Fix monster special attack dodge message (#54033)
-
-Cataclysm-DDA experimental build 2022-01-04-1912 (06acd84)
 * Portal Storm changes (#54018)
 * spinning wheels revived (#54015)
 * remove unused curammo (#54027)

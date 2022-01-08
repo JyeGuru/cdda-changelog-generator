@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-08-2012 ([55ae5ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-2012))
+
 * Clarify VS2019 requirement because of vcpkg. ([#54170](https://github.com/CleverRaven/Cataclysm-DDA/pull/54170))
 
 ---
@@ -173,11 +178,6 @@
 
 * hub 1 blueprint cleanup metal log (7-8/8) ([#54029](https://github.com/CleverRaven/Cataclysm-DDA/pull/54029))
 * Fix monster special attack dodge message ([#54033](https://github.com/CleverRaven/Cataclysm-DDA/pull/54033))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-04-1912 ([06acd84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1912))
-
 * Portal Storm changes ([#54018](https://github.com/CleverRaven/Cataclysm-DDA/pull/54018))
 * spinning wheels revived ([#54015](https://github.com/CleverRaven/Cataclysm-DDA/pull/54015))
 * remove unused curammo ([#54027](https://github.com/CleverRaven/Cataclysm-DDA/pull/54027))
