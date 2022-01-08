@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-08-0815 ([e639e61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0815))
+
+* [Innawood] Various improvements based on feedback ([#54149](https://github.com/CleverRaven/Cataclysm-DDA/pull/54149))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-08-0703 ([2ba94d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0703))
 
 * Routine i18n updates on 08 January 2022 ([#54160](https://github.com/CleverRaven/Cataclysm-DDA/pull/54160))
@@ -52,12 +58,6 @@
 * New survivor notes ([#54072](https://github.com/CleverRaven/Cataclysm-DDA/pull/54072))
 * Add widgets for bodypart status ([#53975](https://github.com/CleverRaven/Cataclysm-DDA/pull/53975))
 * [Aftershock] Modular Exosuit UI ([#53964](https://github.com/CleverRaven/Cataclysm-DDA/pull/53964))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-07-2158 ([92a6fa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-07-2158))
-
-* Expanded plate mail ([#53962](https://github.com/CleverRaven/Cataclysm-DDA/pull/53962))
 
 ---
 

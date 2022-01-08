@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-08-0815 (e639e61)
+* [Innawood] Various improvements based on feedback (#54149)
+
 Cataclysm-DDA experimental build 2022-01-08-0703 (2ba94d9)
 * Routine i18n updates on 08 January 2022 (#54160)
 
@@ -37,9 +40,6 @@ Cataclysm-DDA experimental build 2022-01-07-2224 (cfafb47)
 * New survivor notes (#54072)
 * Add widgets for bodypart status (#53975)
 * [Aftershock] Modular Exosuit UI (#53964)
-
-Cataclysm-DDA experimental build 2022-01-07-2158 (92a6fa6)
-* Expanded plate mail (#53962)
 
 Cataclysm-DDA experimental build 2022-01-07-0857 (1793043)
 * Reduced mi-go scout speed from 150 to 120 (#54129)
