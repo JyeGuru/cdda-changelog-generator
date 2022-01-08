@@ -115,8 +115,6 @@ Cataclysm-DDA experimental build 2022-01-04-1912 (06acd84)
 
 Cataclysm-DDA experimental build 2022-01-04-1743 (5ea4546)
 * Automatically connect Appliances to their neighbours upon completion (#53981)
-
-Cataclysm-DDA experimental build 2022-01-04-1617 (e7cd5fb)
 * Remove diary.h from avatar.h (#54037)
 * Include sstream to fix test compilation (#54034)
 * 500L fridge capacity (#54019)

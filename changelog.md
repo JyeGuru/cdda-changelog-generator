@@ -184,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-01-04-1743 ([5ea4546](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1743))
 
 * Automatically connect Appliances to their neighbours upon completion ([#53981](https://github.com/CleverRaven/Cataclysm-DDA/pull/53981))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-04-1617 ([e7cd5fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1617))
-
 * Remove diary.h from avatar.h ([#54037](https://github.com/CleverRaven/Cataclysm-DDA/pull/54037))
 * Include sstream to fix test compilation ([#54034](https://github.com/CleverRaven/Cataclysm-DDA/pull/54034))
 * 500L fridge capacity ([#54019](https://github.com/CleverRaven/Cataclysm-DDA/pull/54019))
