@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-08-0546 ([98c666f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0546))
+
+* Redesigned Cathedral ([#54144](https://github.com/CleverRaven/Cataclysm-DDA/pull/54144))
 * [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
 * Fix multiclean volume always using full charges ([#54145](https://github.com/CleverRaven/Cataclysm-DDA/pull/54145))
 * Add widgets for vehicle azimuth, cruising speed, and fuel ([#53978](https://github.com/CleverRaven/Cataclysm-DDA/pull/53978))
@@ -106,12 +112,6 @@
 
 * Kevlar Chainmail Fix ([#54063](https://github.com/CleverRaven/Cataclysm-DDA/pull/54063))
 * Flexible Per Pocket Encumbrance ([#53968](https://github.com/CleverRaven/Cataclysm-DDA/pull/53968))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-06-0007 ([a6bd055](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-0007))
-
-* New Innawood mod ([#53960](https://github.com/CleverRaven/Cataclysm-DDA/pull/53960))
 * Magic Circle is now Transparent ([#54054](https://github.com/CleverRaven/Cataclysm-DDA/pull/54054))
 * Adjust aim threshold ([#54059](https://github.com/CleverRaven/Cataclysm-DDA/pull/54059))
 * Introduce NO_AUTO_CONSUME flag ([#54065](https://github.com/CleverRaven/Cataclysm-DDA/pull/54065))
@@ -191,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-01-04-1142 ([0426c7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1142))
 
 * 500L fridge capacity ([#54019](https://github.com/CleverRaven/Cataclysm-DDA/pull/54019))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-04-1022 ([1787cb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-1022))
-
 * Yule Wreath Fix ([#54023](https://github.com/CleverRaven/Cataclysm-DDA/pull/54023))
 * Regenericise currency ([#53963](https://github.com/CleverRaven/Cataclysm-DDA/pull/53963))
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
