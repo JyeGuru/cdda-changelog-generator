@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-09-0903 ([0d43a6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-09-0903))
+
+* [Magiclysm] New spell for shapeshifter ([#54148](https://github.com/CleverRaven/Cataclysm-DDA/pull/54148))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-09-0643 ([e40f1ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-09-0643))
 
 * Improve makeshift crowbar action description ([#54195](https://github.com/CleverRaven/Cataclysm-DDA/pull/54195))
@@ -48,7 +54,6 @@
 * Redesigned Cathedral ([#54144](https://github.com/CleverRaven/Cataclysm-DDA/pull/54144))
 * [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
 * Fix multiclean volume always using full charges ([#54145](https://github.com/CleverRaven/Cataclysm-DDA/pull/54145))
-* Add widgets for vehicle azimuth, cruising speed, and fuel ([#53978](https://github.com/CleverRaven/Cataclysm-DDA/pull/53978))
 * Add widgets for compass ([#53980](https://github.com/CleverRaven/Cataclysm-DDA/pull/53980))
 * Extract "name" from pocket_data ([#54158](https://github.com/CleverRaven/Cataclysm-DDA/pull/54158))
 
@@ -168,11 +173,6 @@
 
 * Nerf electricity field damage to players ([#54049](https://github.com/CleverRaven/Cataclysm-DDA/pull/54049))
 * Clearly Sorted Sealed Perishables ([#54020](https://github.com/CleverRaven/Cataclysm-DDA/pull/54020))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-05-0020 ([98045f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-0020))
-
 * [DinoMod] dino blood ([#54042](https://github.com/CleverRaven/Cataclysm-DDA/pull/54042))
 * Use Oxford comma consistently in tips ([#54043](https://github.com/CleverRaven/Cataclysm-DDA/pull/54043))
 * Correct start of game option descriptions. ([#54044](https://github.com/CleverRaven/Cataclysm-DDA/pull/54044))
