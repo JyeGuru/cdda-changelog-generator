@@ -1,6 +1,23 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-09-0643 ([e40f1ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-09-0643))
+
+* Improve makeshift crowbar action description ([#54195](https://github.com/CleverRaven/Cataclysm-DDA/pull/54195))
+* Minor style fixes ([#54193](https://github.com/CleverRaven/Cataclysm-DDA/pull/54193))
+* Widget flags: Flags for special widget behaviours ([#54190](https://github.com/CleverRaven/Cataclysm-DDA/pull/54190))
+* [Innawood] Patch 2 ([#54181](https://github.com/CleverRaven/Cataclysm-DDA/pull/54181))
+* Fix malformed gas station purchase string ([#54171](https://github.com/CleverRaven/Cataclysm-DDA/pull/54171))
+* Balanced/corrected firearm and gunsmith repair kits ([#54116](https://github.com/CleverRaven/Cataclysm-DDA/pull/54116))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-09-0542 ([482fc79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-09-0542))
+
+* Fix #53974 ([#54188](https://github.com/CleverRaven/Cataclysm-DDA/pull/54188))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-08-2012 ([55ae5ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-2012))
 
 * Clarify VS2019 requirement because of vcpkg. ([#54170](https://github.com/CleverRaven/Cataclysm-DDA/pull/54170))
@@ -69,7 +86,6 @@
 * Category change for containers ([#54101](https://github.com/CleverRaven/Cataclysm-DDA/pull/54101))
 * Fix eternal season affect on weather ([#54100](https://github.com/CleverRaven/Cataclysm-DDA/pull/54100))
 * New survivor notes ([#54072](https://github.com/CleverRaven/Cataclysm-DDA/pull/54072))
-* Add widgets for bodypart status ([#53975](https://github.com/CleverRaven/Cataclysm-DDA/pull/53975))
 
 ---
 
@@ -83,12 +99,6 @@
 
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-06-2356 ([1acfc7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-2356))
-
-* Add widgets for movement mode letter/word and move cost ([#53977](https://github.com/CleverRaven/Cataclysm-DDA/pull/53977))
 
 ---
 
@@ -165,17 +175,7 @@
 
 * [DinoMod] dino blood ([#54042](https://github.com/CleverRaven/Cataclysm-DDA/pull/54042))
 * Use Oxford comma consistently in tips ([#54043](https://github.com/CleverRaven/Cataclysm-DDA/pull/54043))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-04-2306 ([8c498f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-2306))
-
 * Correct start of game option descriptions. ([#54044](https://github.com/CleverRaven/Cataclysm-DDA/pull/54044))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-04-2029 ([aa7dee9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-04-2029))
-
 * hub 1 blueprint cleanup metal log (7-8/8) ([#54029](https://github.com/CleverRaven/Cataclysm-DDA/pull/54029))
 * Fix monster special attack dodge message ([#54033](https://github.com/CleverRaven/Cataclysm-DDA/pull/54033))
 * Portal Storm changes ([#54018](https://github.com/CleverRaven/Cataclysm-DDA/pull/54018))
@@ -192,8 +192,6 @@
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
 * Fix typo in minifridge description ([#54011](https://github.com/CleverRaven/Cataclysm-DDA/pull/54011))
-* Port overmap mission arrow fix from BN ([#53971](https://github.com/CleverRaven/Cataclysm-DDA/pull/53971))
-* Fix firing gun with mixed fav/unfav ammo ([#53973](https://github.com/CleverRaven/Cataclysm-DDA/pull/53973))
 * M855 yields lead not steel ([#53985](https://github.com/CleverRaven/Cataclysm-DDA/pull/53985))
 * Hub 1 blueprint cleanup tent, rock, rammed earth, mi-go resin (3-6/8) ([#54005](https://github.com/CleverRaven/Cataclysm-DDA/pull/54005))
 * hub 1 blueprint cleanup wood + wad (1-2/8) ([#53999](https://github.com/CleverRaven/Cataclysm-DDA/pull/53999))
@@ -201,10 +199,8 @@
 * [Magiclysm] Fix ring of blades flags ([#54004](https://github.com/CleverRaven/Cataclysm-DDA/pull/54004))
 * Whitelist new rarely spawning map locations to prevent test failures. ([#53986](https://github.com/CleverRaven/Cataclysm-DDA/pull/53986))
 * Mre fix sirbab ([#53984](https://github.com/CleverRaven/Cataclysm-DDA/pull/53984))
-* Add widget for weather description ([#53976](https://github.com/CleverRaven/Cataclysm-DDA/pull/53976))
 * Description update: wild yeast must be placed in a fermenting vat to mature. ([#53990](https://github.com/CleverRaven/Cataclysm-DDA/pull/53990))
 * Update help file ([#54001](https://github.com/CleverRaven/Cataclysm-DDA/pull/54001))
 * Move some template specializations of StringMaker<T>::convert<T> to a cpp file ([#54003](https://github.com/CleverRaven/Cataclysm-DDA/pull/54003))
 * Use pimpl<T> class for TranslationManagerImpl ([#53994](https://github.com/CleverRaven/Cataclysm-DDA/pull/53994))
 * Fix time stamp retrieval on Windows ([#54006](https://github.com/CleverRaven/Cataclysm-DDA/pull/54006))
-* adjusted workshop recipes plus parkour bug ([#53969](https://github.com/CleverRaven/Cataclysm-DDA/pull/53969))
