@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-10-2039 ([7169906](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-2039))
+
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))
 * Update spell checker alert comment text ([#54259](https://github.com/CleverRaven/Cataclysm-DDA/pull/54259))
 
@@ -177,11 +182,6 @@
 * Customizable widget height ([#54050](https://github.com/CleverRaven/Cataclysm-DDA/pull/54050))
 * Fix body part not being used to generate resistance objects ([#54079](https://github.com/CleverRaven/Cataclysm-DDA/pull/54079))
 * Clang-tidy: use `emplace_back` ([#54085](https://github.com/CleverRaven/Cataclysm-DDA/pull/54085))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-06-0707 ([74414b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-0707))
-
 * Fix out of bounds nests in mods ([#54081](https://github.com/CleverRaven/Cataclysm-DDA/pull/54081))
 * Fix ccache archive handling for better hit rates. ([#54078](https://github.com/CleverRaven/Cataclysm-DDA/pull/54078))
 * Make clang-tidy happy with a little optimization ([#54080](https://github.com/CleverRaven/Cataclysm-DDA/pull/54080))

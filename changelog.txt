@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-10-2039 (7169906)
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. (#54258)
 * Update spell checker alert comment text (#54259)
 
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2022-01-06-1542 (b4fa624)
 * Customizable widget height (#54050)
 * Fix body part not being used to generate resistance objects (#54079)
 * Clang-tidy: use `emplace_back` (#54085)
-
-Cataclysm-DDA experimental build 2022-01-06-0707 (74414b8)
 * Fix out of bounds nests in mods (#54081)
 * Fix ccache archive handling for better hit rates. (#54078)
 * Make clang-tidy happy with a little optimization (#54080)
