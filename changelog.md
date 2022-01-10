@@ -1,3 +1,9 @@
+* workshop 1 expansion blueprint cleanup ([#54206](https://github.com/CleverRaven/Cataclysm-DDA/pull/54206))
+* Add FILTHY flag to kevlar sheets from zombie_kevlar harvest ([#54198](https://github.com/CleverRaven/Cataclysm-DDA/pull/54198))
+* Fix rollerblade movement penalty on flat roofs ([#54197](https://github.com/CleverRaven/Cataclysm-DDA/pull/54197))
+* Move disable_activity_actor to the right file. ([#54196](https://github.com/CleverRaven/Cataclysm-DDA/pull/54196))
+* Add examples using predefined widgets to custom sidebar docs ([#54186](https://github.com/CleverRaven/Cataclysm-DDA/pull/54186))
+* Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
 
 ---
 
@@ -54,7 +60,6 @@
 * Redesigned Cathedral ([#54144](https://github.com/CleverRaven/Cataclysm-DDA/pull/54144))
 * [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
 * Fix multiclean volume always using full charges ([#54145](https://github.com/CleverRaven/Cataclysm-DDA/pull/54145))
-* Add widgets for compass ([#53980](https://github.com/CleverRaven/Cataclysm-DDA/pull/53980))
 * Extract "name" from pocket_data ([#54158](https://github.com/CleverRaven/Cataclysm-DDA/pull/54158))
 
 ---
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2022-01-05-0320 ([9a985cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-0320))
 
 * Fix permanent alien grass ([#54051](https://github.com/CleverRaven/Cataclysm-DDA/pull/54051))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-05-0145 ([807eb16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-0145))
-
 * Nerf electricity field damage to players ([#54049](https://github.com/CleverRaven/Cataclysm-DDA/pull/54049))
 * Clearly Sorted Sealed Perishables ([#54020](https://github.com/CleverRaven/Cataclysm-DDA/pull/54020))
 * [DinoMod] dino blood ([#54042](https://github.com/CleverRaven/Cataclysm-DDA/pull/54042))
@@ -181,10 +181,8 @@
 * Portal Storm changes ([#54018](https://github.com/CleverRaven/Cataclysm-DDA/pull/54018))
 * spinning wheels revived ([#54015](https://github.com/CleverRaven/Cataclysm-DDA/pull/54015))
 * remove unused curammo ([#54027](https://github.com/CleverRaven/Cataclysm-DDA/pull/54027))
-* Added warmth fixed volumes and weight for Robofac Ponchos ([#53988](https://github.com/CleverRaven/Cataclysm-DDA/pull/53988))
 * brought base blueprint recipe names inside their name spaces ([#54038](https://github.com/CleverRaven/Cataclysm-DDA/pull/54038))
 * Use forward declaration of struct dialogue in weather_type.h ([#54041](https://github.com/CleverRaven/Cataclysm-DDA/pull/54041))
-* Automatically connect Appliances to their neighbours upon completion ([#53981](https://github.com/CleverRaven/Cataclysm-DDA/pull/53981))
 * Remove diary.h from avatar.h ([#54037](https://github.com/CleverRaven/Cataclysm-DDA/pull/54037))
 * Include sstream to fix test compilation ([#54034](https://github.com/CleverRaven/Cataclysm-DDA/pull/54034))
 * 500L fridge capacity ([#54019](https://github.com/CleverRaven/Cataclysm-DDA/pull/54019))
@@ -192,13 +190,10 @@
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
 * Fix typo in minifridge description ([#54011](https://github.com/CleverRaven/Cataclysm-DDA/pull/54011))
-* M855 yields lead not steel ([#53985](https://github.com/CleverRaven/Cataclysm-DDA/pull/53985))
 * Hub 1 blueprint cleanup tent, rock, rammed earth, mi-go resin (3-6/8) ([#54005](https://github.com/CleverRaven/Cataclysm-DDA/pull/54005))
 * hub 1 blueprint cleanup wood + wad (1-2/8) ([#53999](https://github.com/CleverRaven/Cataclysm-DDA/pull/53999))
 * Fix spell effect name in documentation ([#53992](https://github.com/CleverRaven/Cataclysm-DDA/pull/53992))
 * [Magiclysm] Fix ring of blades flags ([#54004](https://github.com/CleverRaven/Cataclysm-DDA/pull/54004))
-* Whitelist new rarely spawning map locations to prevent test failures. ([#53986](https://github.com/CleverRaven/Cataclysm-DDA/pull/53986))
-* Mre fix sirbab ([#53984](https://github.com/CleverRaven/Cataclysm-DDA/pull/53984))
 * Description update: wild yeast must be placed in a fermenting vat to mature. ([#53990](https://github.com/CleverRaven/Cataclysm-DDA/pull/53990))
 * Update help file ([#54001](https://github.com/CleverRaven/Cataclysm-DDA/pull/54001))
 * Move some template specializations of StringMaker<T>::convert<T> to a cpp file ([#54003](https://github.com/CleverRaven/Cataclysm-DDA/pull/54003))
