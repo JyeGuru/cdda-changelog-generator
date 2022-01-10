@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-10-2340 (57fc087)
 * Don't spawn random NPCs as arsonists (#54250)
 
 Cataclysm-DDA experimental build 2022-01-10-2207 (8a25ad4)

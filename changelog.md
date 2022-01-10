@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-10-2340 ([57fc087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-2340))
+
 * Don't spawn random NPCs as arsonists ([#54250](https://github.com/CleverRaven/Cataclysm-DDA/pull/54250))
 
 ---
