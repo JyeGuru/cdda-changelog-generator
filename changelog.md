@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-10-0643 ([becdd6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-0643))
+
 * Make narrowing casts explicit. ([#54203](https://github.com/CleverRaven/Cataclysm-DDA/pull/54203))
 * Radio activation mod improvements ([#54213](https://github.com/CleverRaven/Cataclysm-DDA/pull/54213))
 * Fix zombie children not giving moral penalty ([#54216](https://github.com/CleverRaven/Cataclysm-DDA/pull/54216))
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-01-05-2224 ([6cabc43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-2224))
 
 * Leather Belt can hold batons ([#54071](https://github.com/CleverRaven/Cataclysm-DDA/pull/54071))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-05-1032 ([a1f0736](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-1032))
-
 * Change keybinding name from "Workout" to "Work Out" ([#54052](https://github.com/CleverRaven/Cataclysm-DDA/pull/54052))
 * Fix permanent alien grass ([#54051](https://github.com/CleverRaven/Cataclysm-DDA/pull/54051))
 * Nerf electricity field damage to players ([#54049](https://github.com/CleverRaven/Cataclysm-DDA/pull/54049))

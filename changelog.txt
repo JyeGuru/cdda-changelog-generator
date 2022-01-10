@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-10-0643 (becdd6f)
 * Make narrowing casts explicit. (#54203)
 * Radio activation mod improvements (#54213)
 * Fix zombie children not giving moral penalty (#54216)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2022-01-06-0147 (420a483)
 
 Cataclysm-DDA experimental build 2022-01-05-2224 (6cabc43)
 * Leather Belt can hold batons (#54071)
-
-Cataclysm-DDA experimental build 2022-01-05-1032 (a1f0736)
 * Change keybinding name from "Workout" to "Work Out" (#54052)
 * Fix permanent alien grass (#54051)
 * Nerf electricity field damage to players (#54049)
