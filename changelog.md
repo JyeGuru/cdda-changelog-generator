@@ -1,3 +1,6 @@
+* Report accidents only if you are an eyewitness ([#54209](https://github.com/CleverRaven/Cataclysm-DDA/pull/54209))
+* Add repeating martial arts techniques ([#54217](https://github.com/CleverRaven/Cataclysm-DDA/pull/54217))
+* Fix .desktop filename in appdata file ([#54240](https://github.com/CleverRaven/Cataclysm-DDA/pull/54240))
 
 ---
 
@@ -164,7 +167,6 @@
 
 * Canteen 1 blueprint cleanup ([#54067](https://github.com/CleverRaven/Cataclysm-DDA/pull/54067))
 * Make portal storm warnings popup ([#54084](https://github.com/CleverRaven/Cataclysm-DDA/pull/54084))
-* [Magiclysm] Added Technomancer mana-toolbar to the 'Fior Di Battaglia' martial art. ([#54016](https://github.com/CleverRaven/Cataclysm-DDA/pull/54016))
 * Customizable widget height ([#54050](https://github.com/CleverRaven/Cataclysm-DDA/pull/54050))
 * Fix body part not being used to generate resistance objects ([#54079](https://github.com/CleverRaven/Cataclysm-DDA/pull/54079))
 * Clang-tidy: use `emplace_back` ([#54085](https://github.com/CleverRaven/Cataclysm-DDA/pull/54085))
@@ -193,8 +195,6 @@
 * Correct start of game option descriptions. ([#54044](https://github.com/CleverRaven/Cataclysm-DDA/pull/54044))
 * hub 1 blueprint cleanup metal log (7-8/8) ([#54029](https://github.com/CleverRaven/Cataclysm-DDA/pull/54029))
 * Fix monster special attack dodge message ([#54033](https://github.com/CleverRaven/Cataclysm-DDA/pull/54033))
-* Portal Storm changes ([#54018](https://github.com/CleverRaven/Cataclysm-DDA/pull/54018))
-* spinning wheels revived ([#54015](https://github.com/CleverRaven/Cataclysm-DDA/pull/54015))
 * remove unused curammo ([#54027](https://github.com/CleverRaven/Cataclysm-DDA/pull/54027))
 * brought base blueprint recipe names inside their name spaces ([#54038](https://github.com/CleverRaven/Cataclysm-DDA/pull/54038))
 * Use forward declaration of struct dialogue in weather_type.h ([#54041](https://github.com/CleverRaven/Cataclysm-DDA/pull/54041))
