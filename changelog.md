@@ -1,3 +1,5 @@
+* Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))
+* Update spell checker alert comment text ([#54259](https://github.com/CleverRaven/Cataclysm-DDA/pull/54259))
 
 ---
 
@@ -194,7 +196,6 @@
 * Change keybinding name from "Workout" to "Work Out" ([#54052](https://github.com/CleverRaven/Cataclysm-DDA/pull/54052))
 * Fix permanent alien grass ([#54051](https://github.com/CleverRaven/Cataclysm-DDA/pull/54051))
 * Nerf electricity field damage to players ([#54049](https://github.com/CleverRaven/Cataclysm-DDA/pull/54049))
-* Clearly Sorted Sealed Perishables ([#54020](https://github.com/CleverRaven/Cataclysm-DDA/pull/54020))
 * [DinoMod] dino blood ([#54042](https://github.com/CleverRaven/Cataclysm-DDA/pull/54042))
 * Use Oxford comma consistently in tips ([#54043](https://github.com/CleverRaven/Cataclysm-DDA/pull/54043))
 * Correct start of game option descriptions. ([#54044](https://github.com/CleverRaven/Cataclysm-DDA/pull/54044))
@@ -205,7 +206,6 @@
 * Use forward declaration of struct dialogue in weather_type.h ([#54041](https://github.com/CleverRaven/Cataclysm-DDA/pull/54041))
 * Remove diary.h from avatar.h ([#54037](https://github.com/CleverRaven/Cataclysm-DDA/pull/54037))
 * Include sstream to fix test compilation ([#54034](https://github.com/CleverRaven/Cataclysm-DDA/pull/54034))
-* 500L fridge capacity ([#54019](https://github.com/CleverRaven/Cataclysm-DDA/pull/54019))
 * Yule Wreath Fix ([#54023](https://github.com/CleverRaven/Cataclysm-DDA/pull/54023))
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
