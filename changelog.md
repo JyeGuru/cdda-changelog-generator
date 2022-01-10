@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-10-1755 ([01c7497](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-1755))
+
+* Construction: Prevent non-simple furniture from simple deconstruction ([#54234](https://github.com/CleverRaven/Cataclysm-DDA/pull/54234))
 * Update spell checker dictionary ([#54236](https://github.com/CleverRaven/Cataclysm-DDA/pull/54236))
 * fire lookout tower blueprint cleanup ([#54243](https://github.com/CleverRaven/Cataclysm-DDA/pull/54243))
 
@@ -172,11 +178,6 @@
 * Make clang-tidy happy with a little optimization ([#54080](https://github.com/CleverRaven/Cataclysm-DDA/pull/54080))
 * Design doc updates ([#54074](https://github.com/CleverRaven/Cataclysm-DDA/pull/54074))
 * Simplify StringMaker<T> template specialization in tests ([#54075](https://github.com/CleverRaven/Cataclysm-DDA/pull/54075))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-06-0147 ([420a483](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-0147))
-
 * Kevlar Chainmail Fix ([#54063](https://github.com/CleverRaven/Cataclysm-DDA/pull/54063))
 * Magic Circle is now Transparent ([#54054](https://github.com/CleverRaven/Cataclysm-DDA/pull/54054))
 * Adjust aim threshold ([#54059](https://github.com/CleverRaven/Cataclysm-DDA/pull/54059))
@@ -203,4 +204,3 @@
 * Yule Wreath Fix ([#54023](https://github.com/CleverRaven/Cataclysm-DDA/pull/54023))
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
-* Fix typo in minifridge description ([#54011](https://github.com/CleverRaven/Cataclysm-DDA/pull/54011))
