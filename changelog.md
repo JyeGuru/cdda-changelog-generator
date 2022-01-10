@@ -1,3 +1,4 @@
+* Fix use-after-free error in vehicle mapgen ([#54254](https://github.com/CleverRaven/Cataclysm-DDA/pull/54254))
 
 ---
 
@@ -206,6 +207,5 @@
 * Use forward declaration of struct dialogue in weather_type.h ([#54041](https://github.com/CleverRaven/Cataclysm-DDA/pull/54041))
 * Remove diary.h from avatar.h ([#54037](https://github.com/CleverRaven/Cataclysm-DDA/pull/54037))
 * Include sstream to fix test compilation ([#54034](https://github.com/CleverRaven/Cataclysm-DDA/pull/54034))
-* Yule Wreath Fix ([#54023](https://github.com/CleverRaven/Cataclysm-DDA/pull/54023))
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
