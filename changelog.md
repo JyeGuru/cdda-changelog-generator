@@ -1,3 +1,12 @@
+* Update spell checker dictionary ([#54236](https://github.com/CleverRaven/Cataclysm-DDA/pull/54236))
+* fire lookout tower blueprint cleanup ([#54243](https://github.com/CleverRaven/Cataclysm-DDA/pull/54243))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-10-1747 ([4844881](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-1747))
+
+* Fix Skeleton Layering File ([#54245](https://github.com/CleverRaven/Cataclysm-DDA/pull/54245))
+* Fix compile error on macOS ([#54248](https://github.com/CleverRaven/Cataclysm-DDA/pull/54248))
 
 ---
 
@@ -195,8 +204,3 @@
 * Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
 * Fix typo in minifridge description ([#54011](https://github.com/CleverRaven/Cataclysm-DDA/pull/54011))
-* Hub 1 blueprint cleanup tent, rock, rammed earth, mi-go resin (3-6/8) ([#54005](https://github.com/CleverRaven/Cataclysm-DDA/pull/54005))
-* [Magiclysm] Fix ring of blades flags ([#54004](https://github.com/CleverRaven/Cataclysm-DDA/pull/54004))
-* Update help file ([#54001](https://github.com/CleverRaven/Cataclysm-DDA/pull/54001))
-* Move some template specializations of StringMaker<T>::convert<T> to a cpp file ([#54003](https://github.com/CleverRaven/Cataclysm-DDA/pull/54003))
-* Fix time stamp retrieval on Windows ([#54006](https://github.com/CleverRaven/Cataclysm-DDA/pull/54006))
