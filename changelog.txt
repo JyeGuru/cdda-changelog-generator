@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-10-1912 (79b5add)
 * Report accidents only if you are an eyewitness (#54209)
 * Add repeating martial arts techniques (#54217)
 * Fix .desktop filename in appdata file (#54240)

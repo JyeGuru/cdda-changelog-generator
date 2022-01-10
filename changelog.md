@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-10-1912 ([79b5add](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-1912))
+
 * Report accidents only if you are an eyewitness ([#54209](https://github.com/CleverRaven/Cataclysm-DDA/pull/54209))
 * Add repeating martial arts techniques ([#54217](https://github.com/CleverRaven/Cataclysm-DDA/pull/54217))
 * Fix .desktop filename in appdata file ([#54240](https://github.com/CleverRaven/Cataclysm-DDA/pull/54240))
