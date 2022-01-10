@@ -2,6 +2,8 @@
 * Radio activation mod improvements (#54213)
 * Fix zombie children not giving moral penalty (#54216)
 * Improve container descriptions (#54210)
+
+Cataclysm-DDA experimental build 2022-01-10-0447 (939ec93)
 * workshop 1 expansion blueprint cleanup (#54206)
 * Add FILTHY flag to kevlar sheets from zombie_kevlar harvest (#54198)
 * Fix rollerblade movement penalty on flat roofs (#54197)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2022-01-05-2224 (6cabc43)
 
 Cataclysm-DDA experimental build 2022-01-05-1032 (a1f0736)
 * Change keybinding name from "Workout" to "Work Out" (#54052)
-
-Cataclysm-DDA experimental build 2022-01-05-0320 (9a985cf)
 * Fix permanent alien grass (#54051)
 * Nerf electricity field damage to players (#54049)
 * Clearly Sorted Sealed Perishables (#54020)

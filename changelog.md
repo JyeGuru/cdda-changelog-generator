@@ -2,6 +2,11 @@
 * Radio activation mod improvements ([#54213](https://github.com/CleverRaven/Cataclysm-DDA/pull/54213))
 * Fix zombie children not giving moral penalty ([#54216](https://github.com/CleverRaven/Cataclysm-DDA/pull/54216))
 * Improve container descriptions ([#54210](https://github.com/CleverRaven/Cataclysm-DDA/pull/54210))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-10-0447 ([939ec93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-0447))
+
 * workshop 1 expansion blueprint cleanup ([#54206](https://github.com/CleverRaven/Cataclysm-DDA/pull/54206))
 * Add FILTHY flag to kevlar sheets from zombie_kevlar harvest ([#54198](https://github.com/CleverRaven/Cataclysm-DDA/pull/54198))
 * Fix rollerblade movement penalty on flat roofs ([#54197](https://github.com/CleverRaven/Cataclysm-DDA/pull/54197))
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2022-01-05-1032 ([a1f0736](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-1032))
 
 * Change keybinding name from "Workout" to "Work Out" ([#54052](https://github.com/CleverRaven/Cataclysm-DDA/pull/54052))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-05-0320 ([9a985cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-0320))
-
 * Fix permanent alien grass ([#54051](https://github.com/CleverRaven/Cataclysm-DDA/pull/54051))
 * Nerf electricity field damage to players ([#54049](https://github.com/CleverRaven/Cataclysm-DDA/pull/54049))
 * Clearly Sorted Sealed Perishables ([#54020](https://github.com/CleverRaven/Cataclysm-DDA/pull/54020))
