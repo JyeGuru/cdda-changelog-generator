@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-10-0816 ([7ddf235](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-0816))
+
+* Fix invalid backpack recipe components ([#54202](https://github.com/CleverRaven/Cataclysm-DDA/pull/54202))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-10-0643 ([becdd6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-0643))
 
 * Make narrowing casts explicit. ([#54203](https://github.com/CleverRaven/Cataclysm-DDA/pull/54203))
@@ -167,11 +173,6 @@
 * Adjust aim threshold ([#54059](https://github.com/CleverRaven/Cataclysm-DDA/pull/54059))
 * Introduce NO_AUTO_CONSUME flag ([#54065](https://github.com/CleverRaven/Cataclysm-DDA/pull/54065))
 * Convert zone manager to type-safe points ([#54068](https://github.com/CleverRaven/Cataclysm-DDA/pull/54068))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-05-2224 ([6cabc43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-05-2224))
-
 * Leather Belt can hold batons ([#54071](https://github.com/CleverRaven/Cataclysm-DDA/pull/54071))
 * Change keybinding name from "Workout" to "Work Out" ([#54052](https://github.com/CleverRaven/Cataclysm-DDA/pull/54052))
 * Fix permanent alien grass ([#54051](https://github.com/CleverRaven/Cataclysm-DDA/pull/54051))
@@ -195,7 +196,6 @@
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
 * Fix typo in minifridge description ([#54011](https://github.com/CleverRaven/Cataclysm-DDA/pull/54011))
 * Hub 1 blueprint cleanup tent, rock, rammed earth, mi-go resin (3-6/8) ([#54005](https://github.com/CleverRaven/Cataclysm-DDA/pull/54005))
-* hub 1 blueprint cleanup wood + wad (1-2/8) ([#53999](https://github.com/CleverRaven/Cataclysm-DDA/pull/53999))
 * [Magiclysm] Fix ring of blades flags ([#54004](https://github.com/CleverRaven/Cataclysm-DDA/pull/54004))
 * Update help file ([#54001](https://github.com/CleverRaven/Cataclysm-DDA/pull/54001))
 * Move some template specializations of StringMaker<T>::convert<T> to a cpp file ([#54003](https://github.com/CleverRaven/Cataclysm-DDA/pull/54003))
