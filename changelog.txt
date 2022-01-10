@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-10-2207 (8a25ad4)
 * Fix use-after-free error in vehicle mapgen (#54254)
 
 Cataclysm-DDA experimental build 2022-01-10-2039 (7169906)
