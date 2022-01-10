@@ -1,3 +1,4 @@
+* Don't spawn random NPCs as arsonists ([#54250](https://github.com/CleverRaven/Cataclysm-DDA/pull/54250))
 
 ---
 
@@ -212,5 +213,4 @@
 * Use forward declaration of struct dialogue in weather_type.h ([#54041](https://github.com/CleverRaven/Cataclysm-DDA/pull/54041))
 * Remove diary.h from avatar.h ([#54037](https://github.com/CleverRaven/Cataclysm-DDA/pull/54037))
 * Include sstream to fix test compilation ([#54034](https://github.com/CleverRaven/Cataclysm-DDA/pull/54034))
-* Include martial art style name in confirmation message after selection ([#54024](https://github.com/CleverRaven/Cataclysm-DDA/pull/54024))
 * Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))

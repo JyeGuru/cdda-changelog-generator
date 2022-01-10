@@ -1,3 +1,4 @@
+* Don't spawn random NPCs as arsonists (#54250)
 
 Cataclysm-DDA experimental build 2022-01-10-2207 (8a25ad4)
 * Fix use-after-free error in vehicle mapgen (#54254)
@@ -140,5 +141,4 @@ Cataclysm-DDA experimental build 2022-01-06-1542 (b4fa624)
 * Use forward declaration of struct dialogue in weather_type.h (#54041)
 * Remove diary.h from avatar.h (#54037)
 * Include sstream to fix test compilation (#54034)
-* Include martial art style name in confirmation message after selection (#54024)
 * Skip translating solely tag harvest messages (#54025)
