@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-11-2307 ([a02bf59](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-2307))
+
+* Allow limbs to modify their own temperature ([#54305](https://github.com/CleverRaven/Cataclysm-DDA/pull/54305))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-11-2024 ([5662136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-2024))
 
 * fbmc camp blueprint cleanup ([#54292](https://github.com/CleverRaven/Cataclysm-DDA/pull/54292))
@@ -201,11 +207,6 @@
 * Propane accessories ([#54143](https://github.com/CleverRaven/Cataclysm-DDA/pull/54143))
 * Remove starting trait conflicts with bio armor ([#54146](https://github.com/CleverRaven/Cataclysm-DDA/pull/54146))
 * saltpan expansion blueprint cleanup ([#54135](https://github.com/CleverRaven/Cataclysm-DDA/pull/54135))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-07-2224 ([cfafb47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-07-2224))
-
 * Fixed outer region of the tower being resin floor ([#54137](https://github.com/CleverRaven/Cataclysm-DDA/pull/54137))
 * Clean up and update JSON_FLAGS.md ([#54131](https://github.com/CleverRaven/Cataclysm-DDA/pull/54131))
 * Update mapgen with puddles ([#54128](https://github.com/CleverRaven/Cataclysm-DDA/pull/54128))
@@ -232,4 +233,3 @@
 * Make clang-tidy happy with a little optimization ([#54080](https://github.com/CleverRaven/Cataclysm-DDA/pull/54080))
 * Design doc updates ([#54074](https://github.com/CleverRaven/Cataclysm-DDA/pull/54074))
 * Simplify StringMaker<T> template specialization in tests ([#54075](https://github.com/CleverRaven/Cataclysm-DDA/pull/54075))
-* Leather Belt can hold batons ([#54071](https://github.com/CleverRaven/Cataclysm-DDA/pull/54071))
