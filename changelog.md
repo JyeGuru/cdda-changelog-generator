@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-11-2024 ([5662136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-2024))
+
 * fbmc camp blueprint cleanup ([#54292](https://github.com/CleverRaven/Cataclysm-DDA/pull/54292))
 * Mutation UI fix ([#54204](https://github.com/CleverRaven/Cataclysm-DDA/pull/54204))
 * [ui] Colorize charge ratios in inventory screens ([#54223](https://github.com/CleverRaven/Cataclysm-DDA/pull/54223))

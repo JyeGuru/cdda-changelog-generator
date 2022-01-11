@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-11-2024 (5662136)
 * fbmc camp blueprint cleanup (#54292)
 * Mutation UI fix (#54204)
 * [ui] Colorize charge ratios in inventory screens (#54223)
