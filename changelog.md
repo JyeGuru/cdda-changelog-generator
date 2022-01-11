@@ -1,3 +1,13 @@
+* Mutation UI fix ([#54204](https://github.com/CleverRaven/Cataclysm-DDA/pull/54204))
+* [ui] Colorize charge ratios in inventory screens ([#54223](https://github.com/CleverRaven/Cataclysm-DDA/pull/54223))
+* [ui] Allow (z)ooming while (V)iewing items/monsters ([#54226](https://github.com/CleverRaven/Cataclysm-DDA/pull/54226))
+* Grabs can cause you to suffocate ([#54227](https://github.com/CleverRaven/Cataclysm-DDA/pull/54227))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-11-1905 ([6187aec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-1905))
+
+* Remove default bindings for hiding minimap and recipes ([#54272](https://github.com/CleverRaven/Cataclysm-DDA/pull/54272))
 * Set per-matrix-job ccache limits for better bounded usage. ([#54231](https://github.com/CleverRaven/Cataclysm-DDA/pull/54231))
 
 ---
@@ -203,15 +213,9 @@
 * Category change for containers ([#54101](https://github.com/CleverRaven/Cataclysm-DDA/pull/54101))
 * Fix eternal season affect on weather ([#54100](https://github.com/CleverRaven/Cataclysm-DDA/pull/54100))
 * New survivor notes ([#54072](https://github.com/CleverRaven/Cataclysm-DDA/pull/54072))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-07-0857 ([1793043](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-07-0857))
-
 * Reduced mi-go scout speed from 150 to 120 ([#54129](https://github.com/CleverRaven/Cataclysm-DDA/pull/54129))
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
-* Propane ([#54066](https://github.com/CleverRaven/Cataclysm-DDA/pull/54066))
 * Grim Howler's Bite ([#54082](https://github.com/CleverRaven/Cataclysm-DDA/pull/54082))
 * livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
 * Canteen 1 blueprint cleanup ([#54067](https://github.com/CleverRaven/Cataclysm-DDA/pull/54067))
@@ -223,8 +227,5 @@
 * Make clang-tidy happy with a little optimization ([#54080](https://github.com/CleverRaven/Cataclysm-DDA/pull/54080))
 * Design doc updates ([#54074](https://github.com/CleverRaven/Cataclysm-DDA/pull/54074))
 * Simplify StringMaker<T> template specialization in tests ([#54075](https://github.com/CleverRaven/Cataclysm-DDA/pull/54075))
-* Kevlar Chainmail Fix ([#54063](https://github.com/CleverRaven/Cataclysm-DDA/pull/54063))
-* Adjust aim threshold ([#54059](https://github.com/CleverRaven/Cataclysm-DDA/pull/54059))
-* Introduce NO_AUTO_CONSUME flag ([#54065](https://github.com/CleverRaven/Cataclysm-DDA/pull/54065))
 * Convert zone manager to type-safe points ([#54068](https://github.com/CleverRaven/Cataclysm-DDA/pull/54068))
 * Leather Belt can hold batons ([#54071](https://github.com/CleverRaven/Cataclysm-DDA/pull/54071))
