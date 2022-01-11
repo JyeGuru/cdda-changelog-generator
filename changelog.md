@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-11-0719 ([e2b23c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0719))
+
 * Inform player when stuff is dropped for no apparent reason ([#54268](https://github.com/CleverRaven/Cataclysm-DDA/pull/54268))
 
 ---
@@ -217,5 +222,4 @@
 * Change keybinding name from "Workout" to "Work Out" ([#54052](https://github.com/CleverRaven/Cataclysm-DDA/pull/54052))
 * Fix permanent alien grass ([#54051](https://github.com/CleverRaven/Cataclysm-DDA/pull/54051))
 * Nerf electricity field damage to players ([#54049](https://github.com/CleverRaven/Cataclysm-DDA/pull/54049))
-* Use Oxford comma consistently in tips ([#54043](https://github.com/CleverRaven/Cataclysm-DDA/pull/54043))
 * Correct start of game option descriptions. ([#54044](https://github.com/CleverRaven/Cataclysm-DDA/pull/54044))
