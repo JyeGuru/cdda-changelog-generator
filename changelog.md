@@ -1,3 +1,9 @@
+* Unhardcode Bird/Butterfly Wings' effect ([#54264](https://github.com/CleverRaven/Cataclysm-DDA/pull/54264))
+* Makes long sticks usable in more constructions ([#54261](https://github.com/CleverRaven/Cataclysm-DDA/pull/54261))
+* Makes wind mill and water mill recipes accept primitive funnels ([#54260](https://github.com/CleverRaven/Cataclysm-DDA/pull/54260))
+* Factor display namespace out of panels ([#54232](https://github.com/CleverRaven/Cataclysm-DDA/pull/54232))
+* Fix character starting as overweight ([#54207](https://github.com/CleverRaven/Cataclysm-DDA/pull/54207))
+* Create more stories for random NPCs to tell you. ([#54086](https://github.com/CleverRaven/Cataclysm-DDA/pull/54086))
 
 ---
 
@@ -211,11 +217,5 @@
 * [DinoMod] dino blood ([#54042](https://github.com/CleverRaven/Cataclysm-DDA/pull/54042))
 * Use Oxford comma consistently in tips ([#54043](https://github.com/CleverRaven/Cataclysm-DDA/pull/54043))
 * Correct start of game option descriptions. ([#54044](https://github.com/CleverRaven/Cataclysm-DDA/pull/54044))
-* hub 1 blueprint cleanup metal log (7-8/8) ([#54029](https://github.com/CleverRaven/Cataclysm-DDA/pull/54029))
-* Fix monster special attack dodge message ([#54033](https://github.com/CleverRaven/Cataclysm-DDA/pull/54033))
-* remove unused curammo ([#54027](https://github.com/CleverRaven/Cataclysm-DDA/pull/54027))
 * brought base blueprint recipe names inside their name spaces ([#54038](https://github.com/CleverRaven/Cataclysm-DDA/pull/54038))
 * Use forward declaration of struct dialogue in weather_type.h ([#54041](https://github.com/CleverRaven/Cataclysm-DDA/pull/54041))
-* Remove diary.h from avatar.h ([#54037](https://github.com/CleverRaven/Cataclysm-DDA/pull/54037))
-* Include sstream to fix test compilation ([#54034](https://github.com/CleverRaven/Cataclysm-DDA/pull/54034))
-* Skip translating solely tag harvest messages ([#54025](https://github.com/CleverRaven/Cataclysm-DDA/pull/54025))
