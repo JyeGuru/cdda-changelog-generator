@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-11-1421 (a34653b)
 * Allow sweetened coffee to be made with instant coffee powder (#54274)
 * Added roof and made several tweaks to office tower (#54293)
 * Correctly capitalize first letter in terrain and area name in look around menu (#54286)
@@ -125,8 +127,6 @@ Cataclysm-DDA experimental build 2022-01-07-2224 (cfafb47)
 
 Cataclysm-DDA experimental build 2022-01-07-0857 (1793043)
 * Reduced mi-go scout speed from 150 to 120 (#54129)
-
-Cataclysm-DDA experimental build 2022-01-07-0358 (11cfa83)
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. (#54118)
 * Remove cancel others behavior (#54122)
 * Propane (#54066)
