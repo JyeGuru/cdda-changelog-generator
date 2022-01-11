@@ -1,3 +1,4 @@
+* Limit resource usage of repeated pushes to PRs ([#54306](https://github.com/CleverRaven/Cataclysm-DDA/pull/54306))
 
 ---
 
@@ -219,7 +220,6 @@
 * NPCs - only mapgen stuff ([#54102](https://github.com/CleverRaven/Cataclysm-DDA/pull/54102))
 * Category change for containers ([#54101](https://github.com/CleverRaven/Cataclysm-DDA/pull/54101))
 * Fix eternal season affect on weather ([#54100](https://github.com/CleverRaven/Cataclysm-DDA/pull/54100))
-* New survivor notes ([#54072](https://github.com/CleverRaven/Cataclysm-DDA/pull/54072))
 * Reduced mi-go scout speed from 150 to 120 ([#54129](https://github.com/CleverRaven/Cataclysm-DDA/pull/54129))
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
