@@ -1,3 +1,13 @@
+* Allow sweetened coffee to be made with instant coffee powder ([#54274](https://github.com/CleverRaven/Cataclysm-DDA/pull/54274))
+* Added roof and made several tweaks to office tower ([#54293](https://github.com/CleverRaven/Cataclysm-DDA/pull/54293))
+* Correctly capitalize first letter in terrain and area name in look around menu ([#54286](https://github.com/CleverRaven/Cataclysm-DDA/pull/54286))
+* Revert "Workaround for linking error w/ clang & glibc 2.31+" ([#54241](https://github.com/CleverRaven/Cataclysm-DDA/pull/54241))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-11-1319 ([e349e49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-1319))
+
+* Fix vehicle mapgen.cpp range-loop-analysis error. ([#54284](https://github.com/CleverRaven/Cataclysm-DDA/pull/54284))
 
 ---
 
@@ -205,7 +215,6 @@
 * livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
 * Canteen 1 blueprint cleanup ([#54067](https://github.com/CleverRaven/Cataclysm-DDA/pull/54067))
 * Make portal storm warnings popup ([#54084](https://github.com/CleverRaven/Cataclysm-DDA/pull/54084))
-* Customizable widget height ([#54050](https://github.com/CleverRaven/Cataclysm-DDA/pull/54050))
 * Fix body part not being used to generate resistance objects ([#54079](https://github.com/CleverRaven/Cataclysm-DDA/pull/54079))
 * Clang-tidy: use `emplace_back` ([#54085](https://github.com/CleverRaven/Cataclysm-DDA/pull/54085))
 * Fix out of bounds nests in mods ([#54081](https://github.com/CleverRaven/Cataclysm-DDA/pull/54081))
@@ -219,7 +228,3 @@
 * Introduce NO_AUTO_CONSUME flag ([#54065](https://github.com/CleverRaven/Cataclysm-DDA/pull/54065))
 * Convert zone manager to type-safe points ([#54068](https://github.com/CleverRaven/Cataclysm-DDA/pull/54068))
 * Leather Belt can hold batons ([#54071](https://github.com/CleverRaven/Cataclysm-DDA/pull/54071))
-* Change keybinding name from "Workout" to "Work Out" ([#54052](https://github.com/CleverRaven/Cataclysm-DDA/pull/54052))
-* Fix permanent alien grass ([#54051](https://github.com/CleverRaven/Cataclysm-DDA/pull/54051))
-* Nerf electricity field damage to players ([#54049](https://github.com/CleverRaven/Cataclysm-DDA/pull/54049))
-* Correct start of game option descriptions. ([#54044](https://github.com/CleverRaven/Cataclysm-DDA/pull/54044))
