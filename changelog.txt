@@ -1,3 +1,4 @@
+* Set per-matrix-job ccache limits for better bounded usage. (#54231)
 
 Cataclysm-DDA experimental build 2022-01-11-1421 (a34653b)
 * Allow sweetened coffee to be made with instant coffee powder (#54274)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2022-01-07-0857 (1793043)
 * Design doc updates (#54074)
 * Simplify StringMaker<T> template specialization in tests (#54075)
 * Kevlar Chainmail Fix (#54063)
-* Magic Circle is now Transparent (#54054)
 * Adjust aim threshold (#54059)
 * Introduce NO_AUTO_CONSUME flag (#54065)
 * Convert zone manager to type-safe points (#54068)

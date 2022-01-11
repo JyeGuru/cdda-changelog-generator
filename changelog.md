@@ -1,3 +1,4 @@
+* Set per-matrix-job ccache limits for better bounded usage. ([#54231](https://github.com/CleverRaven/Cataclysm-DDA/pull/54231))
 
 ---
 
@@ -223,7 +224,6 @@
 * Design doc updates ([#54074](https://github.com/CleverRaven/Cataclysm-DDA/pull/54074))
 * Simplify StringMaker<T> template specialization in tests ([#54075](https://github.com/CleverRaven/Cataclysm-DDA/pull/54075))
 * Kevlar Chainmail Fix ([#54063](https://github.com/CleverRaven/Cataclysm-DDA/pull/54063))
-* Magic Circle is now Transparent ([#54054](https://github.com/CleverRaven/Cataclysm-DDA/pull/54054))
 * Adjust aim threshold ([#54059](https://github.com/CleverRaven/Cataclysm-DDA/pull/54059))
 * Introduce NO_AUTO_CONSUME flag ([#54065](https://github.com/CleverRaven/Cataclysm-DDA/pull/54065))
 * Convert zone manager to type-safe points ([#54068](https://github.com/CleverRaven/Cataclysm-DDA/pull/54068))
