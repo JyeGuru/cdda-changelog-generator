@@ -1,3 +1,10 @@
+* Inform player when stuff is dropped for no apparent reason ([#54268](https://github.com/CleverRaven/Cataclysm-DDA/pull/54268))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-11-0617 ([d51d5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0617))
+
+* Remove inaccurate description of fireplaces ([#54267](https://github.com/CleverRaven/Cataclysm-DDA/pull/54267))
 
 ---
 
@@ -188,11 +195,6 @@
 
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-06-1757 ([7de9626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-1757))
-
 * Propane ([#54066](https://github.com/CleverRaven/Cataclysm-DDA/pull/54066))
 * Grim Howler's Bite ([#54082](https://github.com/CleverRaven/Cataclysm-DDA/pull/54082))
 * livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
@@ -215,7 +217,5 @@
 * Change keybinding name from "Workout" to "Work Out" ([#54052](https://github.com/CleverRaven/Cataclysm-DDA/pull/54052))
 * Fix permanent alien grass ([#54051](https://github.com/CleverRaven/Cataclysm-DDA/pull/54051))
 * Nerf electricity field damage to players ([#54049](https://github.com/CleverRaven/Cataclysm-DDA/pull/54049))
-* [DinoMod] dino blood ([#54042](https://github.com/CleverRaven/Cataclysm-DDA/pull/54042))
 * Use Oxford comma consistently in tips ([#54043](https://github.com/CleverRaven/Cataclysm-DDA/pull/54043))
 * Correct start of game option descriptions. ([#54044](https://github.com/CleverRaven/Cataclysm-DDA/pull/54044))
-* Use forward declaration of struct dialogue in weather_type.h ([#54041](https://github.com/CleverRaven/Cataclysm-DDA/pull/54041))
