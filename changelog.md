@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-11-0136 ([e23fd18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0136))
+
+* Add Vital Numbers section to custom sidebar ([#54228](https://github.com/CleverRaven/Cataclysm-DDA/pull/54228))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-11-0045 ([2a545bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0045))
+
 * Unhardcode Bird/Butterfly Wings' effect ([#54264](https://github.com/CleverRaven/Cataclysm-DDA/pull/54264))
 * Makes long sticks usable in more constructions ([#54261](https://github.com/CleverRaven/Cataclysm-DDA/pull/54261))
 * Makes wind mill and water mill recipes accept primitive funnels ([#54260](https://github.com/CleverRaven/Cataclysm-DDA/pull/54260))
@@ -183,18 +194,8 @@
 #### Cataclysm-DDA experimental build 2022-01-06-1757 ([7de9626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-1757))
 
 * Propane ([#54066](https://github.com/CleverRaven/Cataclysm-DDA/pull/54066))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-06-1656 ([d532033](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-1656))
-
 * Grim Howler's Bite ([#54082](https://github.com/CleverRaven/Cataclysm-DDA/pull/54082))
 * livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-06-1542 ([b4fa624](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-06-1542))
-
 * Canteen 1 blueprint cleanup ([#54067](https://github.com/CleverRaven/Cataclysm-DDA/pull/54067))
 * Make portal storm warnings popup ([#54084](https://github.com/CleverRaven/Cataclysm-DDA/pull/54084))
 * Customizable widget height ([#54050](https://github.com/CleverRaven/Cataclysm-DDA/pull/54050))
@@ -217,5 +218,4 @@
 * [DinoMod] dino blood ([#54042](https://github.com/CleverRaven/Cataclysm-DDA/pull/54042))
 * Use Oxford comma consistently in tips ([#54043](https://github.com/CleverRaven/Cataclysm-DDA/pull/54043))
 * Correct start of game option descriptions. ([#54044](https://github.com/CleverRaven/Cataclysm-DDA/pull/54044))
-* brought base blueprint recipe names inside their name spaces ([#54038](https://github.com/CleverRaven/Cataclysm-DDA/pull/54038))
 * Use forward declaration of struct dialogue in weather_type.h ([#54041](https://github.com/CleverRaven/Cataclysm-DDA/pull/54041))
