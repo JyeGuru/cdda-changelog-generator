@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-12-0034 ([2057907](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-0034))
+
 * Added plural for Memories ([#54304](https://github.com/CleverRaven/Cataclysm-DDA/pull/54304))
 * Limit resource usage of repeated pushes to PRs ([#54306](https://github.com/CleverRaven/Cataclysm-DDA/pull/54306))
 
@@ -201,11 +206,6 @@
 * Crafting: Fix component filters when continuing craft ([#54138](https://github.com/CleverRaven/Cataclysm-DDA/pull/54138))
 * Small fix: make new portal storm popup rarer ([#54154](https://github.com/CleverRaven/Cataclysm-DDA/pull/54154))
 * Smartphone fix ([#54150](https://github.com/CleverRaven/Cataclysm-DDA/pull/54150))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-08-0009 ([9b986bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0009))
-
 * Propane accessories ([#54143](https://github.com/CleverRaven/Cataclysm-DDA/pull/54143))
 * Remove starting trait conflicts with bio armor ([#54146](https://github.com/CleverRaven/Cataclysm-DDA/pull/54146))
 * saltpan expansion blueprint cleanup ([#54135](https://github.com/CleverRaven/Cataclysm-DDA/pull/54135))
