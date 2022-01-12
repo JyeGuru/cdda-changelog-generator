@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-12-1842 ([5163f91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1842))
+
+* Adjust load order for character activities ([#54323](https://github.com/CleverRaven/Cataclysm-DDA/pull/54323))
 * Ignore vs2019 temporary files ([#54325](https://github.com/CleverRaven/Cataclysm-DDA/pull/54325))
 
 ---
@@ -202,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-01-08-2012 ([55ae5ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-2012))
 
 * Clarify VS2019 requirement because of vcpkg. ([#54170](https://github.com/CleverRaven/Cataclysm-DDA/pull/54170))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-08-1901 ([a2d1557](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-1901))
-
 * storehouse 1 expansion blueprint cleanup ([#54168](https://github.com/CleverRaven/Cataclysm-DDA/pull/54168))
 * Add a script to check for tags in translations ([#54163](https://github.com/CleverRaven/Cataclysm-DDA/pull/54163))
 * [Innawood] Various improvements based on feedback ([#54149](https://github.com/CleverRaven/Cataclysm-DDA/pull/54149))
@@ -237,4 +238,3 @@
 * Reduced mi-go scout speed from 150 to 120 ([#54129](https://github.com/CleverRaven/Cataclysm-DDA/pull/54129))
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
-* livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
