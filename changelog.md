@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-12-1952 ([38e1d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1952))
+
+* modular shelter blueprint cleanup ([#54326](https://github.com/CleverRaven/Cataclysm-DDA/pull/54326))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-12-1842 ([5163f91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1842))
 
 * Adjust load order for character activities ([#54323](https://github.com/CleverRaven/Cataclysm-DDA/pull/54323))
@@ -202,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-01-09-0542 ([482fc79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-09-0542))
 
 * Fix #53974 ([#54188](https://github.com/CleverRaven/Cataclysm-DDA/pull/54188))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-08-2012 ([55ae5ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-2012))
-
 * Clarify VS2019 requirement because of vcpkg. ([#54170](https://github.com/CleverRaven/Cataclysm-DDA/pull/54170))
 * storehouse 1 expansion blueprint cleanup ([#54168](https://github.com/CleverRaven/Cataclysm-DDA/pull/54168))
 * Add a script to check for tags in translations ([#54163](https://github.com/CleverRaven/Cataclysm-DDA/pull/54163))
@@ -234,7 +235,6 @@
 * Fix Bioluminescent Flare ability ([#54112](https://github.com/CleverRaven/Cataclysm-DDA/pull/54112))
 * NPCs - only mapgen stuff ([#54102](https://github.com/CleverRaven/Cataclysm-DDA/pull/54102))
 * Category change for containers ([#54101](https://github.com/CleverRaven/Cataclysm-DDA/pull/54101))
-* Fix eternal season affect on weather ([#54100](https://github.com/CleverRaven/Cataclysm-DDA/pull/54100))
 * Reduced mi-go scout speed from 150 to 120 ([#54129](https://github.com/CleverRaven/Cataclysm-DDA/pull/54129))
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
