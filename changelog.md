@@ -1,3 +1,10 @@
+* Hallucinations: Misc fixes ([#54307](https://github.com/CleverRaven/Cataclysm-DDA/pull/54307))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-12-0627 ([6ae3e36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-0627))
+
+* Performance: Cache NPC goal ([#54312](https://github.com/CleverRaven/Cataclysm-DDA/pull/54312))
 * Unify ccache retrieve steps ([#54311](https://github.com/CleverRaven/Cataclysm-DDA/pull/54311))
 
 ---
@@ -198,11 +205,6 @@
 * [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
 * Fix multiclean volume always using full charges ([#54145](https://github.com/CleverRaven/Cataclysm-DDA/pull/54145))
 * Extract "name" from pocket_data ([#54158](https://github.com/CleverRaven/Cataclysm-DDA/pull/54158))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-08-0400 ([1849155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0400))
-
 * Split up sidebar.json roughly by widget_var ([#54125](https://github.com/CleverRaven/Cataclysm-DDA/pull/54125))
 * Crafting: Fix component filters when continuing craft ([#54138](https://github.com/CleverRaven/Cataclysm-DDA/pull/54138))
 * Small fix: make new portal storm popup rarer ([#54154](https://github.com/CleverRaven/Cataclysm-DDA/pull/54154))
@@ -228,9 +230,6 @@
 * Grim Howler's Bite ([#54082](https://github.com/CleverRaven/Cataclysm-DDA/pull/54082))
 * livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
 * Make portal storm warnings popup ([#54084](https://github.com/CleverRaven/Cataclysm-DDA/pull/54084))
-* Fix body part not being used to generate resistance objects ([#54079](https://github.com/CleverRaven/Cataclysm-DDA/pull/54079))
 * Clang-tidy: use `emplace_back` ([#54085](https://github.com/CleverRaven/Cataclysm-DDA/pull/54085))
 * Fix out of bounds nests in mods ([#54081](https://github.com/CleverRaven/Cataclysm-DDA/pull/54081))
-* Fix ccache archive handling for better hit rates. ([#54078](https://github.com/CleverRaven/Cataclysm-DDA/pull/54078))
 * Make clang-tidy happy with a little optimization ([#54080](https://github.com/CleverRaven/Cataclysm-DDA/pull/54080))
-* Simplify StringMaker<T> template specialization in tests ([#54075](https://github.com/CleverRaven/Cataclysm-DDA/pull/54075))
