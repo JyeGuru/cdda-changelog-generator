@@ -1,3 +1,4 @@
+* Ignore vs2019 temporary files ([#54325](https://github.com/CleverRaven/Cataclysm-DDA/pull/54325))
 
 ---
 
@@ -104,7 +105,6 @@
 * Makes wind mill and water mill recipes accept primitive funnels ([#54260](https://github.com/CleverRaven/Cataclysm-DDA/pull/54260))
 * Factor display namespace out of panels ([#54232](https://github.com/CleverRaven/Cataclysm-DDA/pull/54232))
 * Fix character starting as overweight ([#54207](https://github.com/CleverRaven/Cataclysm-DDA/pull/54207))
-* Create more stories for random NPCs to tell you. ([#54086](https://github.com/CleverRaven/Cataclysm-DDA/pull/54086))
 
 ---
 

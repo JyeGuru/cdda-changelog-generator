@@ -1,3 +1,4 @@
+* Ignore vs2019 temporary files (#54325)
 
 Cataclysm-DDA experimental build 2022-01-12-1654 (4113a89)
 * Make volume rounding consistent (#54328)
@@ -59,7 +60,6 @@ Cataclysm-DDA experimental build 2022-01-11-0045 (2a545bf)
 * Makes wind mill and water mill recipes accept primitive funnels (#54260)
 * Factor display namespace out of panels (#54232)
 * Fix character starting as overweight (#54207)
-* Create more stories for random NPCs to tell you. (#54086)
 
 Cataclysm-DDA experimental build 2022-01-10-2340 (57fc087)
 * Don't spawn random NPCs as arsonists (#54250)
