@@ -1,3 +1,5 @@
+* Insure weather doesn't randomly match precise values when it isn't supposed to ([#54335](https://github.com/CleverRaven/Cataclysm-DDA/pull/54335))
+* Replace all tolower/toupper() with wchar_t alternative ([#54333](https://github.com/CleverRaven/Cataclysm-DDA/pull/54333))
 
 ---
 
@@ -233,8 +235,6 @@
 * Add some Uncanny news ([#54119](https://github.com/CleverRaven/Cataclysm-DDA/pull/54119))
 * fix lab nest error ([#54115](https://github.com/CleverRaven/Cataclysm-DDA/pull/54115))
 * Added features to smartphone ([#54114](https://github.com/CleverRaven/Cataclysm-DDA/pull/54114))
-* Fix Bioluminescent Flare ability ([#54112](https://github.com/CleverRaven/Cataclysm-DDA/pull/54112))
-* NPCs - only mapgen stuff ([#54102](https://github.com/CleverRaven/Cataclysm-DDA/pull/54102))
 * Reduced mi-go scout speed from 150 to 120 ([#54129](https://github.com/CleverRaven/Cataclysm-DDA/pull/54129))
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
