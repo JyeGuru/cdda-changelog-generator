@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-12-2037 ([67ba4fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-2037))
+
+* Limbs: Apply crawling score to prone movement cost ([#54194](https://github.com/CleverRaven/Cataclysm-DDA/pull/54194))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-12-1952 ([38e1d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1952))
 
 * modular shelter blueprint cleanup ([#54326](https://github.com/CleverRaven/Cataclysm-DDA/pull/54326))
@@ -202,11 +208,6 @@
 * [Innawood] Patch 2 ([#54181](https://github.com/CleverRaven/Cataclysm-DDA/pull/54181))
 * Fix malformed gas station purchase string ([#54171](https://github.com/CleverRaven/Cataclysm-DDA/pull/54171))
 * Balanced/corrected firearm and gunsmith repair kits ([#54116](https://github.com/CleverRaven/Cataclysm-DDA/pull/54116))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-09-0542 ([482fc79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-09-0542))
-
 * Fix #53974 ([#54188](https://github.com/CleverRaven/Cataclysm-DDA/pull/54188))
 * Clarify VS2019 requirement because of vcpkg. ([#54170](https://github.com/CleverRaven/Cataclysm-DDA/pull/54170))
 * storehouse 1 expansion blueprint cleanup ([#54168](https://github.com/CleverRaven/Cataclysm-DDA/pull/54168))
@@ -234,7 +235,6 @@
 * Added features to smartphone ([#54114](https://github.com/CleverRaven/Cataclysm-DDA/pull/54114))
 * Fix Bioluminescent Flare ability ([#54112](https://github.com/CleverRaven/Cataclysm-DDA/pull/54112))
 * NPCs - only mapgen stuff ([#54102](https://github.com/CleverRaven/Cataclysm-DDA/pull/54102))
-* Category change for containers ([#54101](https://github.com/CleverRaven/Cataclysm-DDA/pull/54101))
 * Reduced mi-go scout speed from 150 to 120 ([#54129](https://github.com/CleverRaven/Cataclysm-DDA/pull/54129))
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
