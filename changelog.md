@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-12-1654 ([4113a89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1654))
+
+* Make volume rounding consistent ([#54328](https://github.com/CleverRaven/Cataclysm-DDA/pull/54328))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-12-1619 ([a813ab3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1619))
 
 * Allow "Unknown command" messages to be coalesced ([#54315](https://github.com/CleverRaven/Cataclysm-DDA/pull/54315))
@@ -232,4 +238,3 @@
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
 * livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
-* Clang-tidy: use `emplace_back` ([#54085](https://github.com/CleverRaven/Cataclysm-DDA/pull/54085))
