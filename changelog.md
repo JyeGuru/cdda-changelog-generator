@@ -1,3 +1,4 @@
+* Add script for autogenerating mutation documentation to tools/ ([#54230](https://github.com/CleverRaven/Cataclysm-DDA/pull/54230))
 * Hallucinations: Misc fixes ([#54307](https://github.com/CleverRaven/Cataclysm-DDA/pull/54307))
 
 ---
@@ -232,4 +233,3 @@
 * Make portal storm warnings popup ([#54084](https://github.com/CleverRaven/Cataclysm-DDA/pull/54084))
 * Clang-tidy: use `emplace_back` ([#54085](https://github.com/CleverRaven/Cataclysm-DDA/pull/54085))
 * Fix out of bounds nests in mods ([#54081](https://github.com/CleverRaven/Cataclysm-DDA/pull/54081))
-* Make clang-tidy happy with a little optimization ([#54080](https://github.com/CleverRaven/Cataclysm-DDA/pull/54080))

@@ -1,3 +1,4 @@
+* Add script for autogenerating mutation documentation to tools/ (#54230)
 * Hallucinations: Misc fixes (#54307)
 
 Cataclysm-DDA experimental build 2022-01-12-0627 (6ae3e36)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2022-01-08-0546 (98c666f)
 * Make portal storm warnings popup (#54084)
 * Clang-tidy: use `emplace_back` (#54085)
 * Fix out of bounds nests in mods (#54081)
-* Make clang-tidy happy with a little optimization (#54080)
