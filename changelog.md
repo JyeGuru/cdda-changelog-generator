@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-12-2215 ([600018f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-2215))
+
 * [Innawood] More items repairable ([#54278](https://github.com/CleverRaven/Cataclysm-DDA/pull/54278))
 * Eliminate concurrency of expensive builds ([#54336](https://github.com/CleverRaven/Cataclysm-DDA/pull/54336))
 * Insure weather doesn't randomly match precise values when it isn't supposed to ([#54335](https://github.com/CleverRaven/Cataclysm-DDA/pull/54335))
@@ -200,11 +205,6 @@
 * Move disable_activity_actor to the right file. ([#54196](https://github.com/CleverRaven/Cataclysm-DDA/pull/54196))
 * Add examples using predefined widgets to custom sidebar docs ([#54186](https://github.com/CleverRaven/Cataclysm-DDA/pull/54186))
 * Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-09-0903 ([0d43a6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-09-0903))
-
 * [Magiclysm] New spell for shapeshifter ([#54148](https://github.com/CleverRaven/Cataclysm-DDA/pull/54148))
 * Improve makeshift crowbar action description ([#54195](https://github.com/CleverRaven/Cataclysm-DDA/pull/54195))
 * Minor style fixes ([#54193](https://github.com/CleverRaven/Cataclysm-DDA/pull/54193))
