@@ -1,4 +1,9 @@
 * Insure weather doesn't randomly match precise values when it isn't supposed to ([#54335](https://github.com/CleverRaven/Cataclysm-DDA/pull/54335))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-12-2136 ([5662c6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-2136))
+
 * Replace all tolower/toupper() with wchar_t alternative ([#54333](https://github.com/CleverRaven/Cataclysm-DDA/pull/54333))
 
 ---
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2022-01-09-0903 ([0d43a6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-09-0903))
 
 * [Magiclysm] New spell for shapeshifter ([#54148](https://github.com/CleverRaven/Cataclysm-DDA/pull/54148))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-09-0643 ([e40f1ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-09-0643))
-
 * Improve makeshift crowbar action description ([#54195](https://github.com/CleverRaven/Cataclysm-DDA/pull/54195))
 * Minor style fixes ([#54193](https://github.com/CleverRaven/Cataclysm-DDA/pull/54193))
 * Widget flags: Flags for special widget behaviours ([#54190](https://github.com/CleverRaven/Cataclysm-DDA/pull/54190))
