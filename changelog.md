@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-12-0737 ([3d39df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-0737))
+
+* Bionic conflicts and minor fixes ([#54200](https://github.com/CleverRaven/Cataclysm-DDA/pull/54200))
 * Add script for autogenerating mutation documentation to tools/ ([#54230](https://github.com/CleverRaven/Cataclysm-DDA/pull/54230))
 * Hallucinations: Misc fixes ([#54307](https://github.com/CleverRaven/Cataclysm-DDA/pull/54307))
 
@@ -197,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-01-08-0703 ([2ba94d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0703))
 
 * Routine i18n updates on 08 January 2022 ([#54160](https://github.com/CleverRaven/Cataclysm-DDA/pull/54160))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-08-0546 ([98c666f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0546))
-
 * Redesigned Cathedral ([#54144](https://github.com/CleverRaven/Cataclysm-DDA/pull/54144))
 * [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
 * Fix multiclean volume always using full charges ([#54145](https://github.com/CleverRaven/Cataclysm-DDA/pull/54145))
@@ -232,4 +233,3 @@
 * livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
 * Make portal storm warnings popup ([#54084](https://github.com/CleverRaven/Cataclysm-DDA/pull/54084))
 * Clang-tidy: use `emplace_back` ([#54085](https://github.com/CleverRaven/Cataclysm-DDA/pull/54085))
-* Fix out of bounds nests in mods ([#54081](https://github.com/CleverRaven/Cataclysm-DDA/pull/54081))
