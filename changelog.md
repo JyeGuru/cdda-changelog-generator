@@ -1,3 +1,4 @@
+* Added plural for Memories ([#54304](https://github.com/CleverRaven/Cataclysm-DDA/pull/54304))
 * Limit resource usage of repeated pushes to PRs ([#54306](https://github.com/CleverRaven/Cataclysm-DDA/pull/54306))
 
 ---
