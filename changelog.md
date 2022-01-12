@@ -1,3 +1,5 @@
+* [Innawood] More items repairable ([#54278](https://github.com/CleverRaven/Cataclysm-DDA/pull/54278))
+* Eliminate concurrency of expensive builds ([#54336](https://github.com/CleverRaven/Cataclysm-DDA/pull/54336))
 * Insure weather doesn't randomly match precise values when it isn't supposed to ([#54335](https://github.com/CleverRaven/Cataclysm-DDA/pull/54335))
 
 ---
@@ -233,8 +235,6 @@
 * Make it easier to make temporary terrain changes ([#54123](https://github.com/CleverRaven/Cataclysm-DDA/pull/54123))
 * Minor portal storm fixes ([#54121](https://github.com/CleverRaven/Cataclysm-DDA/pull/54121))
 * Add some Uncanny news ([#54119](https://github.com/CleverRaven/Cataclysm-DDA/pull/54119))
-* fix lab nest error ([#54115](https://github.com/CleverRaven/Cataclysm-DDA/pull/54115))
-* Added features to smartphone ([#54114](https://github.com/CleverRaven/Cataclysm-DDA/pull/54114))
 * Reduced mi-go scout speed from 150 to 120 ([#54129](https://github.com/CleverRaven/Cataclysm-DDA/pull/54129))
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
