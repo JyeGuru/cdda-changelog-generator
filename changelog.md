@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-12-1619 ([a813ab3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1619))
+
+* Allow "Unknown command" messages to be coalesced ([#54315](https://github.com/CleverRaven/Cataclysm-DDA/pull/54315))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-12-1412 ([96e8d40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1412))
 
 * Prolong starch spoil time ([#54320](https://github.com/CleverRaven/Cataclysm-DDA/pull/54320))
@@ -197,11 +203,6 @@
 
 * storehouse 1 expansion blueprint cleanup ([#54168](https://github.com/CleverRaven/Cataclysm-DDA/pull/54168))
 * Add a script to check for tags in translations ([#54163](https://github.com/CleverRaven/Cataclysm-DDA/pull/54163))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-08-0815 ([e639e61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-08-0815))
-
 * [Innawood] Various improvements based on feedback ([#54149](https://github.com/CleverRaven/Cataclysm-DDA/pull/54149))
 * Routine i18n updates on 08 January 2022 ([#54160](https://github.com/CleverRaven/Cataclysm-DDA/pull/54160))
 * Redesigned Cathedral ([#54144](https://github.com/CleverRaven/Cataclysm-DDA/pull/54144))
@@ -231,5 +232,4 @@
 * Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
 * Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
 * livestock 1 palette f_clear augmentations ([#54090](https://github.com/CleverRaven/Cataclysm-DDA/pull/54090))
-* Make portal storm warnings popup ([#54084](https://github.com/CleverRaven/Cataclysm-DDA/pull/54084))
 * Clang-tidy: use `emplace_back` ([#54085](https://github.com/CleverRaven/Cataclysm-DDA/pull/54085))
