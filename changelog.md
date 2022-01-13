@@ -1,3 +1,9 @@
+* Use Oxford comma in `input_context::get_desc()` ([#54345](https://github.com/CleverRaven/Cataclysm-DDA/pull/54345))
+* [Innawood] ores from mining stone ([#54338](https://github.com/CleverRaven/Cataclysm-DDA/pull/54338))
+* Correct infinite rope generation bug ([#54319](https://github.com/CleverRaven/Cataclysm-DDA/pull/54319))
+* [Magiclysm] Extend custom sidebar to include mana, max mana, and mana graph ([#54314](https://github.com/CleverRaven/Cataclysm-DDA/pull/54314))
+* Update Lost Submissive ([#54310](https://github.com/CleverRaven/Cataclysm-DDA/pull/54310))
+* Fix being unable to siphon from vehicles with a hole inside ([#54341](https://github.com/CleverRaven/Cataclysm-DDA/pull/54341))
 
 ---
 
@@ -227,7 +233,6 @@
 * [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
 * Fix multiclean volume always using full charges ([#54145](https://github.com/CleverRaven/Cataclysm-DDA/pull/54145))
 * Extract "name" from pocket_data ([#54158](https://github.com/CleverRaven/Cataclysm-DDA/pull/54158))
-* Split up sidebar.json roughly by widget_var ([#54125](https://github.com/CleverRaven/Cataclysm-DDA/pull/54125))
 * Crafting: Fix component filters when continuing craft ([#54138](https://github.com/CleverRaven/Cataclysm-DDA/pull/54138))
 * Small fix: make new portal storm popup rarer ([#54154](https://github.com/CleverRaven/Cataclysm-DDA/pull/54154))
 * Smartphone fix ([#54150](https://github.com/CleverRaven/Cataclysm-DDA/pull/54150))
@@ -237,9 +242,4 @@
 * Fixed outer region of the tower being resin floor ([#54137](https://github.com/CleverRaven/Cataclysm-DDA/pull/54137))
 * Clean up and update JSON_FLAGS.md ([#54131](https://github.com/CleverRaven/Cataclysm-DDA/pull/54131))
 * Update mapgen with puddles ([#54128](https://github.com/CleverRaven/Cataclysm-DDA/pull/54128))
-* Make it easier to make temporary terrain changes ([#54123](https://github.com/CleverRaven/Cataclysm-DDA/pull/54123))
-* Minor portal storm fixes ([#54121](https://github.com/CleverRaven/Cataclysm-DDA/pull/54121))
-* Add some Uncanny news ([#54119](https://github.com/CleverRaven/Cataclysm-DDA/pull/54119))
 * Reduced mi-go scout speed from 150 to 120 ([#54129](https://github.com/CleverRaven/Cataclysm-DDA/pull/54129))
-* Set ZSTD_CLEVEL=17 in jobs using GHA caching for space wins. ([#54118](https://github.com/CleverRaven/Cataclysm-DDA/pull/54118))
-* Remove cancel others behavior ([#54122](https://github.com/CleverRaven/Cataclysm-DDA/pull/54122))
