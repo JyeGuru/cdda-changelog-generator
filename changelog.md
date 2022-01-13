@@ -1,3 +1,11 @@
+* Fix timestamp generation ([#54379](https://github.com/CleverRaven/Cataclysm-DDA/pull/54379))
+* Speed up JSON style check in general build matrix  ([#54375](https://github.com/CleverRaven/Cataclysm-DDA/pull/54375))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-13-2242 ([1cb6d41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-2242))
+
+* modular shelter 1 blueprint cleanup ([#54371](https://github.com/CleverRaven/Cataclysm-DDA/pull/54371))
 
 ---
 
@@ -200,11 +208,6 @@
 
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))
 * Update spell checker alert comment text ([#54259](https://github.com/CleverRaven/Cataclysm-DDA/pull/54259))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-10-1912 ([79b5add](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-1912))
-
 * Report accidents only if you are an eyewitness ([#54209](https://github.com/CleverRaven/Cataclysm-DDA/pull/54209))
 * Add repeating martial arts techniques ([#54217](https://github.com/CleverRaven/Cataclysm-DDA/pull/54217))
 * Fix .desktop filename in appdata file ([#54240](https://github.com/CleverRaven/Cataclysm-DDA/pull/54240))
@@ -236,10 +239,7 @@
 * Add a script to check for tags in translations ([#54163](https://github.com/CleverRaven/Cataclysm-DDA/pull/54163))
 * [Innawood] Various improvements based on feedback ([#54149](https://github.com/CleverRaven/Cataclysm-DDA/pull/54149))
 * Routine i18n updates on 08 January 2022 ([#54160](https://github.com/CleverRaven/Cataclysm-DDA/pull/54160))
-* Redesigned Cathedral ([#54144](https://github.com/CleverRaven/Cataclysm-DDA/pull/54144))
 * [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
-* Fix multiclean volume always using full charges ([#54145](https://github.com/CleverRaven/Cataclysm-DDA/pull/54145))
 * Extract "name" from pocket_data ([#54158](https://github.com/CleverRaven/Cataclysm-DDA/pull/54158))
 * Small fix: make new portal storm popup rarer ([#54154](https://github.com/CleverRaven/Cataclysm-DDA/pull/54154))
 * Smartphone fix ([#54150](https://github.com/CleverRaven/Cataclysm-DDA/pull/54150))
-* Remove starting trait conflicts with bio armor ([#54146](https://github.com/CleverRaven/Cataclysm-DDA/pull/54146))
