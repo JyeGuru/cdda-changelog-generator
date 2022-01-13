@@ -1,3 +1,4 @@
+* Cleanup some random clang-tidy errors. ([#54374](https://github.com/CleverRaven/Cataclysm-DDA/pull/54374))
 * Fix timestamp generation ([#54379](https://github.com/CleverRaven/Cataclysm-DDA/pull/54379))
 * Speed up JSON style check in general build matrix  ([#54375](https://github.com/CleverRaven/Cataclysm-DDA/pull/54375))
 
@@ -227,7 +228,6 @@
 * Move disable_activity_actor to the right file. ([#54196](https://github.com/CleverRaven/Cataclysm-DDA/pull/54196))
 * Add examples using predefined widgets to custom sidebar docs ([#54186](https://github.com/CleverRaven/Cataclysm-DDA/pull/54186))
 * Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
-* [Magiclysm] New spell for shapeshifter ([#54148](https://github.com/CleverRaven/Cataclysm-DDA/pull/54148))
 * Improve makeshift crowbar action description ([#54195](https://github.com/CleverRaven/Cataclysm-DDA/pull/54195))
 * Minor style fixes ([#54193](https://github.com/CleverRaven/Cataclysm-DDA/pull/54193))
 * Widget flags: Flags for special widget behaviours ([#54190](https://github.com/CleverRaven/Cataclysm-DDA/pull/54190))

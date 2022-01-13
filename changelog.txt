@@ -1,3 +1,4 @@
+* Cleanup some random clang-tidy errors. (#54374)
 * Fix timestamp generation (#54379)
 * Speed up JSON style check in general build matrix  (#54375)
 
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2022-01-10-2039 (7169906)
 * Move disable_activity_actor to the right file. (#54196)
 * Add examples using predefined widgets to custom sidebar docs (#54186)
 * Tilesets update 22-01-10 (#54229)
-* [Magiclysm] New spell for shapeshifter (#54148)
 * Improve makeshift crowbar action description (#54195)
 * Minor style fixes (#54193)
 * Widget flags: Flags for special widget behaviours (#54190)
