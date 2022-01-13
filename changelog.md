@@ -1,5 +1,10 @@
 * Upgrade to actions/checkout@v2 ([#54353](https://github.com/CleverRaven/Cataclysm-DDA/pull/54353))
 * Add a clang-tidy check for usage of tolower()/toupper() on UTF-8 string ([#54289](https://github.com/CleverRaven/Cataclysm-DDA/pull/54289))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-13-1613 ([52f2984](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-1613))
+
 * Replace toupper() in suffer.cpp with safer alternative ([#54351](https://github.com/CleverRaven/Cataclysm-DDA/pull/54351))
 * Fix a typo in Sweet Cataclysm ([#54352](https://github.com/CleverRaven/Cataclysm-DDA/pull/54352))
 
@@ -206,11 +211,6 @@
 
 * Fix Skeleton Layering File ([#54245](https://github.com/CleverRaven/Cataclysm-DDA/pull/54245))
 * Fix compile error on macOS ([#54248](https://github.com/CleverRaven/Cataclysm-DDA/pull/54248))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-10-0816 ([7ddf235](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-0816))
-
 * Fix invalid backpack recipe components ([#54202](https://github.com/CleverRaven/Cataclysm-DDA/pull/54202))
 * Make narrowing casts explicit. ([#54203](https://github.com/CleverRaven/Cataclysm-DDA/pull/54203))
 * Radio activation mod improvements ([#54213](https://github.com/CleverRaven/Cataclysm-DDA/pull/54213))
