@@ -1,3 +1,13 @@
+* Upgrade to actions/checkout@v2 ([#54353](https://github.com/CleverRaven/Cataclysm-DDA/pull/54353))
+* Add a clang-tidy check for usage of tolower()/toupper() on UTF-8 string ([#54289](https://github.com/CleverRaven/Cataclysm-DDA/pull/54289))
+* Replace toupper() in suffer.cpp with safer alternative ([#54351](https://github.com/CleverRaven/Cataclysm-DDA/pull/54351))
+* Fix a typo in Sweet Cataclysm ([#54352](https://github.com/CleverRaven/Cataclysm-DDA/pull/54352))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-13-1512 ([c8a49e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-1512))
+
+* Fix list menu filter not working ([#54356](https://github.com/CleverRaven/Cataclysm-DDA/pull/54356))
 
 ---
 
@@ -202,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2022-01-10-0816 ([7ddf235](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-0816))
 
 * Fix invalid backpack recipe components ([#54202](https://github.com/CleverRaven/Cataclysm-DDA/pull/54202))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-10-0643 ([becdd6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-0643))
-
 * Make narrowing casts explicit. ([#54203](https://github.com/CleverRaven/Cataclysm-DDA/pull/54203))
 * Radio activation mod improvements ([#54213](https://github.com/CleverRaven/Cataclysm-DDA/pull/54213))
 * Fix zombie children not giving moral penalty ([#54216](https://github.com/CleverRaven/Cataclysm-DDA/pull/54216))
@@ -238,8 +243,3 @@
 * Smartphone fix ([#54150](https://github.com/CleverRaven/Cataclysm-DDA/pull/54150))
 * Propane accessories ([#54143](https://github.com/CleverRaven/Cataclysm-DDA/pull/54143))
 * Remove starting trait conflicts with bio armor ([#54146](https://github.com/CleverRaven/Cataclysm-DDA/pull/54146))
-* saltpan expansion blueprint cleanup ([#54135](https://github.com/CleverRaven/Cataclysm-DDA/pull/54135))
-* Fixed outer region of the tower being resin floor ([#54137](https://github.com/CleverRaven/Cataclysm-DDA/pull/54137))
-* Clean up and update JSON_FLAGS.md ([#54131](https://github.com/CleverRaven/Cataclysm-DDA/pull/54131))
-* Update mapgen with puddles ([#54128](https://github.com/CleverRaven/Cataclysm-DDA/pull/54128))
-* Reduced mi-go scout speed from 150 to 120 ([#54129](https://github.com/CleverRaven/Cataclysm-DDA/pull/54129))
