@@ -1,3 +1,4 @@
+* Load Bearing Vests have distinct scaling ([#54339](https://github.com/CleverRaven/Cataclysm-DDA/pull/54339))
 * Cleanup some random clang-tidy errors. ([#54374](https://github.com/CleverRaven/Cataclysm-DDA/pull/54374))
 * Fix timestamp generation ([#54379](https://github.com/CleverRaven/Cataclysm-DDA/pull/54379))
 * Speed up JSON style check in general build matrix  ([#54375](https://github.com/CleverRaven/Cataclysm-DDA/pull/54375))
@@ -237,7 +238,6 @@
 * Clarify VS2019 requirement because of vcpkg. ([#54170](https://github.com/CleverRaven/Cataclysm-DDA/pull/54170))
 * storehouse 1 expansion blueprint cleanup ([#54168](https://github.com/CleverRaven/Cataclysm-DDA/pull/54168))
 * Add a script to check for tags in translations ([#54163](https://github.com/CleverRaven/Cataclysm-DDA/pull/54163))
-* [Innawood] Various improvements based on feedback ([#54149](https://github.com/CleverRaven/Cataclysm-DDA/pull/54149))
 * Routine i18n updates on 08 January 2022 ([#54160](https://github.com/CleverRaven/Cataclysm-DDA/pull/54160))
 * [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
 * Extract "name" from pocket_data ([#54158](https://github.com/CleverRaven/Cataclysm-DDA/pull/54158))
