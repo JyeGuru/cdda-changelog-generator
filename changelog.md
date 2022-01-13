@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-13-1831 ([9f2940a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-1831))
+
 * Speed up JSON style check on GHA CI ([#54363](https://github.com/CleverRaven/Cataclysm-DDA/pull/54363))
 
 ---
@@ -203,11 +208,6 @@
 * Report accidents only if you are an eyewitness ([#54209](https://github.com/CleverRaven/Cataclysm-DDA/pull/54209))
 * Add repeating martial arts techniques ([#54217](https://github.com/CleverRaven/Cataclysm-DDA/pull/54217))
 * Fix .desktop filename in appdata file ([#54240](https://github.com/CleverRaven/Cataclysm-DDA/pull/54240))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-10-1755 ([01c7497](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-1755))
-
 * Construction: Prevent non-simple furniture from simple deconstruction ([#54234](https://github.com/CleverRaven/Cataclysm-DDA/pull/54234))
 * Update spell checker dictionary ([#54236](https://github.com/CleverRaven/Cataclysm-DDA/pull/54236))
 * fire lookout tower blueprint cleanup ([#54243](https://github.com/CleverRaven/Cataclysm-DDA/pull/54243))
