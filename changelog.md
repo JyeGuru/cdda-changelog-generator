@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-13-0723 ([991dd84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-0723))
+
+* [ui] Fix "Unknown command" message after #54315 broke it ([#54342](https://github.com/CleverRaven/Cataclysm-DDA/pull/54342))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-12-2215 ([600018f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-2215))
 
 * [Innawood] More items repairable ([#54278](https://github.com/CleverRaven/Cataclysm-DDA/pull/54278))
@@ -211,7 +217,6 @@
 * Widget flags: Flags for special widget behaviours ([#54190](https://github.com/CleverRaven/Cataclysm-DDA/pull/54190))
 * [Innawood] Patch 2 ([#54181](https://github.com/CleverRaven/Cataclysm-DDA/pull/54181))
 * Fix malformed gas station purchase string ([#54171](https://github.com/CleverRaven/Cataclysm-DDA/pull/54171))
-* Balanced/corrected firearm and gunsmith repair kits ([#54116](https://github.com/CleverRaven/Cataclysm-DDA/pull/54116))
 * Fix #53974 ([#54188](https://github.com/CleverRaven/Cataclysm-DDA/pull/54188))
 * Clarify VS2019 requirement because of vcpkg. ([#54170](https://github.com/CleverRaven/Cataclysm-DDA/pull/54170))
 * storehouse 1 expansion blueprint cleanup ([#54168](https://github.com/CleverRaven/Cataclysm-DDA/pull/54168))
