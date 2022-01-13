@@ -1,3 +1,10 @@
+* Speed up JSON style check on GHA CI ([#54363](https://github.com/CleverRaven/Cataclysm-DDA/pull/54363))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-13-1741 ([e3058b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-1741))
+
+* Fix compile error when LOCALIZE is disabled ([#54362](https://github.com/CleverRaven/Cataclysm-DDA/pull/54362))
 * Upgrade to actions/checkout@v2 ([#54353](https://github.com/CleverRaven/Cataclysm-DDA/pull/54353))
 * Add a clang-tidy check for usage of tolower()/toupper() on UTF-8 string ([#54289](https://github.com/CleverRaven/Cataclysm-DDA/pull/54289))
 
@@ -204,11 +211,6 @@
 * Construction: Prevent non-simple furniture from simple deconstruction ([#54234](https://github.com/CleverRaven/Cataclysm-DDA/pull/54234))
 * Update spell checker dictionary ([#54236](https://github.com/CleverRaven/Cataclysm-DDA/pull/54236))
 * fire lookout tower blueprint cleanup ([#54243](https://github.com/CleverRaven/Cataclysm-DDA/pull/54243))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-10-1747 ([4844881](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-1747))
-
 * Fix Skeleton Layering File ([#54245](https://github.com/CleverRaven/Cataclysm-DDA/pull/54245))
 * Fix compile error on macOS ([#54248](https://github.com/CleverRaven/Cataclysm-DDA/pull/54248))
 * Fix invalid backpack recipe components ([#54202](https://github.com/CleverRaven/Cataclysm-DDA/pull/54202))
@@ -238,8 +240,6 @@
 * [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
 * Fix multiclean volume always using full charges ([#54145](https://github.com/CleverRaven/Cataclysm-DDA/pull/54145))
 * Extract "name" from pocket_data ([#54158](https://github.com/CleverRaven/Cataclysm-DDA/pull/54158))
-* Crafting: Fix component filters when continuing craft ([#54138](https://github.com/CleverRaven/Cataclysm-DDA/pull/54138))
 * Small fix: make new portal storm popup rarer ([#54154](https://github.com/CleverRaven/Cataclysm-DDA/pull/54154))
 * Smartphone fix ([#54150](https://github.com/CleverRaven/Cataclysm-DDA/pull/54150))
-* Propane accessories ([#54143](https://github.com/CleverRaven/Cataclysm-DDA/pull/54143))
 * Remove starting trait conflicts with bio armor ([#54146](https://github.com/CleverRaven/Cataclysm-DDA/pull/54146))
