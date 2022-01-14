@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-14-0756 ([380414c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-0756))
+
+* Construct fire ring without shallow pit ([#54386](https://github.com/CleverRaven/Cataclysm-DDA/pull/54386))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-14-0110 ([0d7276f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-0110))
 
 * Paramater agreement ([#54381](https://github.com/CleverRaven/Cataclysm-DDA/pull/54381))
@@ -202,11 +208,6 @@
 * Makes wind mill and water mill recipes accept primitive funnels ([#54260](https://github.com/CleverRaven/Cataclysm-DDA/pull/54260))
 * Factor display namespace out of panels ([#54232](https://github.com/CleverRaven/Cataclysm-DDA/pull/54232))
 * Fix character starting as overweight ([#54207](https://github.com/CleverRaven/Cataclysm-DDA/pull/54207))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-10-2340 ([57fc087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-2340))
-
 * Don't spawn random NPCs as arsonists ([#54250](https://github.com/CleverRaven/Cataclysm-DDA/pull/54250))
 * Fix use-after-free error in vehicle mapgen ([#54254](https://github.com/CleverRaven/Cataclysm-DDA/pull/54254))
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))

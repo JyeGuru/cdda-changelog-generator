@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-14-0756 (380414c)
+* Construct fire ring without shallow pit (#54386)
+
 Cataclysm-DDA experimental build 2022-01-14-0110 (0d7276f)
 * Paramater agreement (#54381)
 
@@ -115,8 +118,6 @@ Cataclysm-DDA experimental build 2022-01-11-0045 (2a545bf)
 * Makes wind mill and water mill recipes accept primitive funnels (#54260)
 * Factor display namespace out of panels (#54232)
 * Fix character starting as overweight (#54207)
-
-Cataclysm-DDA experimental build 2022-01-10-2340 (57fc087)
 * Don't spawn random NPCs as arsonists (#54250)
 * Fix use-after-free error in vehicle mapgen (#54254)
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. (#54258)
