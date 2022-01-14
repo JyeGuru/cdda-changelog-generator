@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-14-2023 ([46ce8f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-2023))
+
 * fixed misspelled word ([#54389](https://github.com/CleverRaven/Cataclysm-DDA/pull/54389))
 * Eliminate ~80% of JsonObject copies ([#54399](https://github.com/CleverRaven/Cataclysm-DDA/pull/54399))
 * Refactor case-sensitive list menu filter ([#54370](https://github.com/CleverRaven/Cataclysm-DDA/pull/54370))
@@ -202,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2022-01-11-0617 ([d51d5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0617))
 
 * Remove inaccurate description of fireplaces ([#54267](https://github.com/CleverRaven/Cataclysm-DDA/pull/54267))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-11-0136 ([e23fd18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0136))
-
 * Add Vital Numbers section to custom sidebar ([#54228](https://github.com/CleverRaven/Cataclysm-DDA/pull/54228))
 * Unhardcode Bird/Butterfly Wings' effect ([#54264](https://github.com/CleverRaven/Cataclysm-DDA/pull/54264))
 * Makes long sticks usable in more constructions ([#54261](https://github.com/CleverRaven/Cataclysm-DDA/pull/54261))
