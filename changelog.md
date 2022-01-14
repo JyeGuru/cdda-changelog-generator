@@ -1,3 +1,5 @@
+* Cata stream subclasses need noexcept move operations. ([#54403](https://github.com/CleverRaven/Cataclysm-DDA/pull/54403))
+* Make release msvc vcpkg step match the PR equivalent ([#54410](https://github.com/CleverRaven/Cataclysm-DDA/pull/54410))
 
 ---
 
@@ -242,5 +244,3 @@
 * [Innawood] Patch 2 ([#54181](https://github.com/CleverRaven/Cataclysm-DDA/pull/54181))
 * Fix malformed gas station purchase string ([#54171](https://github.com/CleverRaven/Cataclysm-DDA/pull/54171))
 * Fix #53974 ([#54188](https://github.com/CleverRaven/Cataclysm-DDA/pull/54188))
-* Clarify VS2019 requirement because of vcpkg. ([#54170](https://github.com/CleverRaven/Cataclysm-DDA/pull/54170))
-* storehouse 1 expansion blueprint cleanup ([#54168](https://github.com/CleverRaven/Cataclysm-DDA/pull/54168))

@@ -1,3 +1,5 @@
+* Cata stream subclasses need noexcept move operations. (#54403)
+* Make release msvc vcpkg step match the PR equivalent (#54410)
 
 Cataclysm-DDA experimental build 2022-01-14-2023 (46ce8f1)
 * fixed misspelled word (#54389)
@@ -152,5 +154,3 @@ Cataclysm-DDA experimental build 2022-01-11-0617 (d51d5f2)
 * [Innawood] Patch 2 (#54181)
 * Fix malformed gas station purchase string (#54171)
 * Fix #53974 (#54188)
-* Clarify VS2019 requirement because of vcpkg. (#54170)
-* storehouse 1 expansion blueprint cleanup (#54168)
