@@ -1,3 +1,5 @@
+* Enable "no tiles" builds for MSVC. ([#54401](https://github.com/CleverRaven/Cataclysm-DDA/pull/54401))
+* Skip ccache post-build step if env.SKIP is set like the rest of the steps do. ([#54417](https://github.com/CleverRaven/Cataclysm-DDA/pull/54417))
 * Remove JsonSerializer/Deserializer, replace with JsonValue where appropriate. ([#54402](https://github.com/CleverRaven/Cataclysm-DDA/pull/54402))
 * Cata stream subclasses need noexcept move operations. ([#54403](https://github.com/CleverRaven/Cataclysm-DDA/pull/54403))
 
@@ -237,10 +239,8 @@
 * Add FILTHY flag to kevlar sheets from zombie_kevlar harvest ([#54198](https://github.com/CleverRaven/Cataclysm-DDA/pull/54198))
 * Fix rollerblade movement penalty on flat roofs ([#54197](https://github.com/CleverRaven/Cataclysm-DDA/pull/54197))
 * Move disable_activity_actor to the right file. ([#54196](https://github.com/CleverRaven/Cataclysm-DDA/pull/54196))
-* Add examples using predefined widgets to custom sidebar docs ([#54186](https://github.com/CleverRaven/Cataclysm-DDA/pull/54186))
 * Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
 * Improve makeshift crowbar action description ([#54195](https://github.com/CleverRaven/Cataclysm-DDA/pull/54195))
 * Minor style fixes ([#54193](https://github.com/CleverRaven/Cataclysm-DDA/pull/54193))
 * Widget flags: Flags for special widget behaviours ([#54190](https://github.com/CleverRaven/Cataclysm-DDA/pull/54190))
-* [Innawood] Patch 2 ([#54181](https://github.com/CleverRaven/Cataclysm-DDA/pull/54181))
 * Fix #53974 ([#54188](https://github.com/CleverRaven/Cataclysm-DDA/pull/54188))
