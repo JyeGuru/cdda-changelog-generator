@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-13-2356 ([6ee8d46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-2356))
+
 * Load Bearing Vests have distinct scaling ([#54339](https://github.com/CleverRaven/Cataclysm-DDA/pull/54339))
 * Cleanup some random clang-tidy errors. ([#54374](https://github.com/CleverRaven/Cataclysm-DDA/pull/54374))
 * Fix timestamp generation ([#54379](https://github.com/CleverRaven/Cataclysm-DDA/pull/54379))
@@ -203,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-01-10-2207 ([8a25ad4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-2207))
 
 * Fix use-after-free error in vehicle mapgen ([#54254](https://github.com/CleverRaven/Cataclysm-DDA/pull/54254))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-10-2039 ([7169906](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-2039))
-
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))
 * Update spell checker alert comment text ([#54259](https://github.com/CleverRaven/Cataclysm-DDA/pull/54259))
 * Report accidents only if you are an eyewitness ([#54209](https://github.com/CleverRaven/Cataclysm-DDA/pull/54209))
