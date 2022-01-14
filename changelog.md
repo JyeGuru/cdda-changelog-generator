@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-14-0110 ([0d7276f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-0110))
+
+* Paramater agreement ([#54381](https://github.com/CleverRaven/Cataclysm-DDA/pull/54381))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-13-2356 ([6ee8d46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-2356))
 
 * Load Bearing Vests have distinct scaling ([#54339](https://github.com/CleverRaven/Cataclysm-DDA/pull/54339))
@@ -202,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-01-10-2340 ([57fc087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-2340))
 
 * Don't spawn random NPCs as arsonists ([#54250](https://github.com/CleverRaven/Cataclysm-DDA/pull/54250))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-10-2207 ([8a25ad4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-10-2207))
-
 * Fix use-after-free error in vehicle mapgen ([#54254](https://github.com/CleverRaven/Cataclysm-DDA/pull/54254))
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))
 * Update spell checker alert comment text ([#54259](https://github.com/CleverRaven/Cataclysm-DDA/pull/54259))
@@ -242,4 +243,3 @@
 * [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
 * Extract "name" from pocket_data ([#54158](https://github.com/CleverRaven/Cataclysm-DDA/pull/54158))
 * Small fix: make new portal storm popup rarer ([#54154](https://github.com/CleverRaven/Cataclysm-DDA/pull/54154))
-* Smartphone fix ([#54150](https://github.com/CleverRaven/Cataclysm-DDA/pull/54150))

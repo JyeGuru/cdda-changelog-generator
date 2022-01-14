@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-14-0110 (0d7276f)
+* Paramater agreement (#54381)
+
 Cataclysm-DDA experimental build 2022-01-13-2356 (6ee8d46)
 * Load Bearing Vests have distinct scaling (#54339)
 * Cleanup some random clang-tidy errors. (#54374)
@@ -115,8 +118,6 @@ Cataclysm-DDA experimental build 2022-01-11-0045 (2a545bf)
 
 Cataclysm-DDA experimental build 2022-01-10-2340 (57fc087)
 * Don't spawn random NPCs as arsonists (#54250)
-
-Cataclysm-DDA experimental build 2022-01-10-2207 (8a25ad4)
 * Fix use-after-free error in vehicle mapgen (#54254)
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. (#54258)
 * Update spell checker alert comment text (#54259)
@@ -152,4 +153,3 @@ Cataclysm-DDA experimental build 2022-01-10-2207 (8a25ad4)
 * [Magiclysm] adjust black dragon lair mapgen (#54156)
 * Extract "name" from pocket_data (#54158)
 * Small fix: make new portal storm popup rarer (#54154)
-* Smartphone fix (#54150)
