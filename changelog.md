@@ -1,5 +1,10 @@
 * Remove JsonSerializer/Deserializer, replace with JsonValue where appropriate. ([#54402](https://github.com/CleverRaven/Cataclysm-DDA/pull/54402))
 * Cata stream subclasses need noexcept move operations. ([#54403](https://github.com/CleverRaven/Cataclysm-DDA/pull/54403))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-14-2240 ([462020b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-2240))
+
 * Make release msvc vcpkg step match the PR equivalent ([#54410](https://github.com/CleverRaven/Cataclysm-DDA/pull/54410))
 
 ---
@@ -204,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2022-01-11-0719 ([e2b23c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0719))
 
 * Inform player when stuff is dropped for no apparent reason ([#54268](https://github.com/CleverRaven/Cataclysm-DDA/pull/54268))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-11-0617 ([d51d5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0617))
-
 * Remove inaccurate description of fireplaces ([#54267](https://github.com/CleverRaven/Cataclysm-DDA/pull/54267))
 * Add Vital Numbers section to custom sidebar ([#54228](https://github.com/CleverRaven/Cataclysm-DDA/pull/54228))
 * Unhardcode Bird/Butterfly Wings' effect ([#54264](https://github.com/CleverRaven/Cataclysm-DDA/pull/54264))
