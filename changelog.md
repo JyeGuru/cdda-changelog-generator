@@ -1,3 +1,13 @@
+* fixed misspelled word ([#54389](https://github.com/CleverRaven/Cataclysm-DDA/pull/54389))
+* Eliminate ~80% of JsonObject copies ([#54399](https://github.com/CleverRaven/Cataclysm-DDA/pull/54399))
+* Refactor case-sensitive list menu filter ([#54370](https://github.com/CleverRaven/Cataclysm-DDA/pull/54370))
+* Fix excessive Tinder Production in Copper Circlet recipe. ([#54388](https://github.com/CleverRaven/Cataclysm-DDA/pull/54388))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-14-1847 ([faf0f84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-1847))
+
+* modular shelter 2 blueprint cleanup ([#54390](https://github.com/CleverRaven/Cataclysm-DDA/pull/54390))
 
 ---
 
@@ -198,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-01-11-0136 ([e23fd18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0136))
 
 * Add Vital Numbers section to custom sidebar ([#54228](https://github.com/CleverRaven/Cataclysm-DDA/pull/54228))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-11-0045 ([2a545bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0045))
-
 * Unhardcode Bird/Butterfly Wings' effect ([#54264](https://github.com/CleverRaven/Cataclysm-DDA/pull/54264))
 * Makes long sticks usable in more constructions ([#54261](https://github.com/CleverRaven/Cataclysm-DDA/pull/54261))
 * Makes wind mill and water mill recipes accept primitive funnels ([#54260](https://github.com/CleverRaven/Cataclysm-DDA/pull/54260))
@@ -239,8 +244,3 @@
 * Fix #53974 ([#54188](https://github.com/CleverRaven/Cataclysm-DDA/pull/54188))
 * Clarify VS2019 requirement because of vcpkg. ([#54170](https://github.com/CleverRaven/Cataclysm-DDA/pull/54170))
 * storehouse 1 expansion blueprint cleanup ([#54168](https://github.com/CleverRaven/Cataclysm-DDA/pull/54168))
-* Add a script to check for tags in translations ([#54163](https://github.com/CleverRaven/Cataclysm-DDA/pull/54163))
-* Routine i18n updates on 08 January 2022 ([#54160](https://github.com/CleverRaven/Cataclysm-DDA/pull/54160))
-* [Magiclysm] adjust black dragon lair mapgen ([#54156](https://github.com/CleverRaven/Cataclysm-DDA/pull/54156))
-* Extract "name" from pocket_data ([#54158](https://github.com/CleverRaven/Cataclysm-DDA/pull/54158))
-* Small fix: make new portal storm popup rarer ([#54154](https://github.com/CleverRaven/Cataclysm-DDA/pull/54154))
