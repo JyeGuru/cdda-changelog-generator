@@ -1,6 +1,11 @@
 * Different layers on different body parts now visible ([#54277](https://github.com/CleverRaven/Cataclysm-DDA/pull/54277))
 * Add more drench / drying factors to bodyparts ([#54358](https://github.com/CleverRaven/Cataclysm-DDA/pull/54358))
 * Add myself as widget owner ([#54422](https://github.com/CleverRaven/Cataclysm-DDA/pull/54422))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-15-0404 ([e741c45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-0404))
+
 * Add mending speed and healing rate to bodypart definitions, unhardcode Reptilian Healing ([#54404](https://github.com/CleverRaven/Cataclysm-DDA/pull/54404))
 * Enable "no tiles" builds for MSVC. ([#54401](https://github.com/CleverRaven/Cataclysm-DDA/pull/54401))
 * Skip ccache post-build step if env.SKIP is set like the rest of the steps do. ([#54417](https://github.com/CleverRaven/Cataclysm-DDA/pull/54417))
@@ -202,11 +207,6 @@
 * Added roof and made several tweaks to office tower ([#54293](https://github.com/CleverRaven/Cataclysm-DDA/pull/54293))
 * Correctly capitalize first letter in terrain and area name in look around menu ([#54286](https://github.com/CleverRaven/Cataclysm-DDA/pull/54286))
 * Revert "Workaround for linking error w/ clang & glibc 2.31+" ([#54241](https://github.com/CleverRaven/Cataclysm-DDA/pull/54241))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-11-1319 ([e349e49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-1319))
-
 * Fix vehicle mapgen.cpp range-loop-analysis error. ([#54284](https://github.com/CleverRaven/Cataclysm-DDA/pull/54284))
 * Inform player when stuff is dropped for no apparent reason ([#54268](https://github.com/CleverRaven/Cataclysm-DDA/pull/54268))
 * Remove inaccurate description of fireplaces ([#54267](https://github.com/CleverRaven/Cataclysm-DDA/pull/54267))
