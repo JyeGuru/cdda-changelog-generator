@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-15-2213 ([56ae13e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-2213))
+
+* [ui] Properly render control character in keybindings list ([#54350](https://github.com/CleverRaven/Cataclysm-DDA/pull/54350))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-15-2113 ([43f202e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-2113))
 
 * Upcycled Turrets Are Now Robots ([#54429](https://github.com/CleverRaven/Cataclysm-DDA/pull/54429))
@@ -190,11 +196,6 @@
 * Prolong starch spoil time ([#54320](https://github.com/CleverRaven/Cataclysm-DDA/pull/54320))
 * Add script for autogenerating mutation documentation to tools/ ([#54230](https://github.com/CleverRaven/Cataclysm-DDA/pull/54230))
 * Hallucinations: Misc fixes ([#54307](https://github.com/CleverRaven/Cataclysm-DDA/pull/54307))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-0627 ([6ae3e36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-0627))
-
 * Performance: Cache NPC goal ([#54312](https://github.com/CleverRaven/Cataclysm-DDA/pull/54312))
 * Unify ccache retrieve steps ([#54311](https://github.com/CleverRaven/Cataclysm-DDA/pull/54311))
 * Added plural for Memories ([#54304](https://github.com/CleverRaven/Cataclysm-DDA/pull/54304))
@@ -222,7 +223,6 @@
 * Fix use-after-free error in vehicle mapgen ([#54254](https://github.com/CleverRaven/Cataclysm-DDA/pull/54254))
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))
 * Update spell checker alert comment text ([#54259](https://github.com/CleverRaven/Cataclysm-DDA/pull/54259))
-* Report accidents only if you are an eyewitness ([#54209](https://github.com/CleverRaven/Cataclysm-DDA/pull/54209))
 * Add repeating martial arts techniques ([#54217](https://github.com/CleverRaven/Cataclysm-DDA/pull/54217))
 * Fix .desktop filename in appdata file ([#54240](https://github.com/CleverRaven/Cataclysm-DDA/pull/54240))
 * Construction: Prevent non-simple furniture from simple deconstruction ([#54234](https://github.com/CleverRaven/Cataclysm-DDA/pull/54234))
