@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-15-0823 ([f1997bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-0823))
+
 * Add baseball recipe ([#54384](https://github.com/CleverRaven/Cataclysm-DDA/pull/54384))
 
 ---
@@ -199,11 +204,6 @@
 * [ui] Colorize charge ratios in inventory screens ([#54223](https://github.com/CleverRaven/Cataclysm-DDA/pull/54223))
 * [ui] Allow (z)ooming while (V)iewing items/monsters ([#54226](https://github.com/CleverRaven/Cataclysm-DDA/pull/54226))
 * Grabs can cause you to suffocate ([#54227](https://github.com/CleverRaven/Cataclysm-DDA/pull/54227))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-11-1905 ([6187aec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-1905))
-
 * Remove default bindings for hiding minimap and recipes ([#54272](https://github.com/CleverRaven/Cataclysm-DDA/pull/54272))
 * Set per-matrix-job ccache limits for better bounded usage. ([#54231](https://github.com/CleverRaven/Cataclysm-DDA/pull/54231))
 * Allow sweetened coffee to be made with instant coffee powder ([#54274](https://github.com/CleverRaven/Cataclysm-DDA/pull/54274))
