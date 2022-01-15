@@ -1,3 +1,11 @@
+* GraphicalOvermap: helipad is not a survivor's camp ([#54438](https://github.com/CleverRaven/Cataclysm-DDA/pull/54438))
+* Fix a MSVC type conversion warning in sun_test.cpp ([#54444](https://github.com/CleverRaven/Cataclysm-DDA/pull/54444))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-15-1927 ([a52fd9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-1927))
+
+* Fix color tags in item search. ([#54442](https://github.com/CleverRaven/Cataclysm-DDA/pull/54442))
 
 ---
 
@@ -166,12 +174,6 @@
 #### Cataclysm-DDA experimental build 2022-01-12-1412 ([96e8d40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1412))
 
 * Prolong starch spoil time ([#54320](https://github.com/CleverRaven/Cataclysm-DDA/pull/54320))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-0737 ([3d39df9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-0737))
-
-* Bionic conflicts and minor fixes ([#54200](https://github.com/CleverRaven/Cataclysm-DDA/pull/54200))
 * Add script for autogenerating mutation documentation to tools/ ([#54230](https://github.com/CleverRaven/Cataclysm-DDA/pull/54230))
 * Hallucinations: Misc fixes ([#54307](https://github.com/CleverRaven/Cataclysm-DDA/pull/54307))
 
@@ -194,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-01-11-2307 ([a02bf59](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-2307))
 
 * Allow limbs to modify their own temperature ([#54305](https://github.com/CleverRaven/Cataclysm-DDA/pull/54305))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-11-2024 ([5662136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-2024))
-
 * fbmc camp blueprint cleanup ([#54292](https://github.com/CleverRaven/Cataclysm-DDA/pull/54292))
 * Mutation UI fix ([#54204](https://github.com/CleverRaven/Cataclysm-DDA/pull/54204))
 * [ui] Colorize charge ratios in inventory screens ([#54223](https://github.com/CleverRaven/Cataclysm-DDA/pull/54223))
@@ -231,11 +228,9 @@
 * fire lookout tower blueprint cleanup ([#54243](https://github.com/CleverRaven/Cataclysm-DDA/pull/54243))
 * Fix Skeleton Layering File ([#54245](https://github.com/CleverRaven/Cataclysm-DDA/pull/54245))
 * Fix compile error on macOS ([#54248](https://github.com/CleverRaven/Cataclysm-DDA/pull/54248))
-* Fix invalid backpack recipe components ([#54202](https://github.com/CleverRaven/Cataclysm-DDA/pull/54202))
 * Make narrowing casts explicit. ([#54203](https://github.com/CleverRaven/Cataclysm-DDA/pull/54203))
 * Radio activation mod improvements ([#54213](https://github.com/CleverRaven/Cataclysm-DDA/pull/54213))
 * Fix zombie children not giving moral penalty ([#54216](https://github.com/CleverRaven/Cataclysm-DDA/pull/54216))
 * Improve container descriptions ([#54210](https://github.com/CleverRaven/Cataclysm-DDA/pull/54210))
 * workshop 1 expansion blueprint cleanup ([#54206](https://github.com/CleverRaven/Cataclysm-DDA/pull/54206))
-* Add FILTHY flag to kevlar sheets from zombie_kevlar harvest ([#54198](https://github.com/CleverRaven/Cataclysm-DDA/pull/54198))
 * Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
