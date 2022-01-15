@@ -1,3 +1,4 @@
+* Add myself as widget owner ([#54422](https://github.com/CleverRaven/Cataclysm-DDA/pull/54422))
 * Add mending speed and healing rate to bodypart definitions, unhardcode Reptilian Healing ([#54404](https://github.com/CleverRaven/Cataclysm-DDA/pull/54404))
 * Enable "no tiles" builds for MSVC. ([#54401](https://github.com/CleverRaven/Cataclysm-DDA/pull/54401))
 * Skip ccache post-build step if env.SKIP is set like the rest of the steps do. ([#54417](https://github.com/CleverRaven/Cataclysm-DDA/pull/54417))
@@ -243,4 +244,3 @@
 * Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
 * Improve makeshift crowbar action description ([#54195](https://github.com/CleverRaven/Cataclysm-DDA/pull/54195))
 * Minor style fixes ([#54193](https://github.com/CleverRaven/Cataclysm-DDA/pull/54193))
-* Widget flags: Flags for special widget behaviours ([#54190](https://github.com/CleverRaven/Cataclysm-DDA/pull/54190))
