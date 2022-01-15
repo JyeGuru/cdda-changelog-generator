@@ -1,3 +1,4 @@
+* Add baseball recipe (#54384)
 
 Cataclysm-DDA experimental build 2022-01-15-0639 (e62f9be)
 * Hallucination fixes 2: hallucinogenic boogaloo (#54425)
@@ -150,5 +151,4 @@ Cataclysm-DDA experimental build 2022-01-11-1905 (6187aec)
 * Improve container descriptions (#54210)
 * workshop 1 expansion blueprint cleanup (#54206)
 * Add FILTHY flag to kevlar sheets from zombie_kevlar harvest (#54198)
-* Fix rollerblade movement penalty on flat roofs (#54197)
 * Tilesets update 22-01-10 (#54229)

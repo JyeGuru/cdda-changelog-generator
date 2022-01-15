@@ -1,3 +1,4 @@
+* Add baseball recipe ([#54384](https://github.com/CleverRaven/Cataclysm-DDA/pull/54384))
 
 ---
 
@@ -237,5 +238,4 @@
 * Improve container descriptions ([#54210](https://github.com/CleverRaven/Cataclysm-DDA/pull/54210))
 * workshop 1 expansion blueprint cleanup ([#54206](https://github.com/CleverRaven/Cataclysm-DDA/pull/54206))
 * Add FILTHY flag to kevlar sheets from zombie_kevlar harvest ([#54198](https://github.com/CleverRaven/Cataclysm-DDA/pull/54198))
-* Fix rollerblade movement penalty on flat roofs ([#54197](https://github.com/CleverRaven/Cataclysm-DDA/pull/54197))
 * Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
