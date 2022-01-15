@@ -1,3 +1,5 @@
+* Hallucination fixes 2: hallucinogenic boogaloo ([#54425](https://github.com/CleverRaven/Cataclysm-DDA/pull/54425))
+* Routine i18n updates on 15 January 2022 ([#54430](https://github.com/CleverRaven/Cataclysm-DDA/pull/54430))
 * Different layers on different body parts now visible ([#54277](https://github.com/CleverRaven/Cataclysm-DDA/pull/54277))
 * Add more drench / drying factors to bodyparts ([#54358](https://github.com/CleverRaven/Cataclysm-DDA/pull/54358))
 * Add myself as widget owner ([#54422](https://github.com/CleverRaven/Cataclysm-DDA/pull/54422))
@@ -236,6 +238,4 @@
 * workshop 1 expansion blueprint cleanup ([#54206](https://github.com/CleverRaven/Cataclysm-DDA/pull/54206))
 * Add FILTHY flag to kevlar sheets from zombie_kevlar harvest ([#54198](https://github.com/CleverRaven/Cataclysm-DDA/pull/54198))
 * Fix rollerblade movement penalty on flat roofs ([#54197](https://github.com/CleverRaven/Cataclysm-DDA/pull/54197))
-* Move disable_activity_actor to the right file. ([#54196](https://github.com/CleverRaven/Cataclysm-DDA/pull/54196))
 * Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
-* Improve makeshift crowbar action description ([#54195](https://github.com/CleverRaven/Cataclysm-DDA/pull/54195))
