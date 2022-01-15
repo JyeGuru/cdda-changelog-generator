@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-15-2113 ([43f202e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-2113))
+
 * Upcycled Turrets Are Now Robots ([#54429](https://github.com/CleverRaven/Cataclysm-DDA/pull/54429))
 * Move remaining display functions out of panels.cpp ([#54432](https://github.com/CleverRaven/Cataclysm-DDA/pull/54432))
 * Separate build step and test step in GitHub Actions build matrix ([#54435](https://github.com/CleverRaven/Cataclysm-DDA/pull/54435))
@@ -192,11 +197,6 @@
 
 * Performance: Cache NPC goal ([#54312](https://github.com/CleverRaven/Cataclysm-DDA/pull/54312))
 * Unify ccache retrieve steps ([#54311](https://github.com/CleverRaven/Cataclysm-DDA/pull/54311))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-0034 ([2057907](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-0034))
-
 * Added plural for Memories ([#54304](https://github.com/CleverRaven/Cataclysm-DDA/pull/54304))
 * Limit resource usage of repeated pushes to PRs ([#54306](https://github.com/CleverRaven/Cataclysm-DDA/pull/54306))
 * Allow limbs to modify their own temperature ([#54305](https://github.com/CleverRaven/Cataclysm-DDA/pull/54305))
