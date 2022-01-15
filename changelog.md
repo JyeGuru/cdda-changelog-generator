@@ -1,3 +1,5 @@
+* Different layers on different body parts now visible ([#54277](https://github.com/CleverRaven/Cataclysm-DDA/pull/54277))
+* Add more drench / drying factors to bodyparts ([#54358](https://github.com/CleverRaven/Cataclysm-DDA/pull/54358))
 * Add myself as widget owner ([#54422](https://github.com/CleverRaven/Cataclysm-DDA/pull/54422))
 * Add mending speed and healing rate to bodypart definitions, unhardcode Reptilian Healing ([#54404](https://github.com/CleverRaven/Cataclysm-DDA/pull/54404))
 * Enable "no tiles" builds for MSVC. ([#54401](https://github.com/CleverRaven/Cataclysm-DDA/pull/54401))
@@ -115,12 +117,6 @@
 #### Cataclysm-DDA experimental build 2022-01-12-2136 ([5662c6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-2136))
 
 * Replace all tolower/toupper() with wchar_t alternative ([#54333](https://github.com/CleverRaven/Cataclysm-DDA/pull/54333))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-2037 ([67ba4fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-2037))
-
-* Limbs: Apply crawling score to prone movement cost ([#54194](https://github.com/CleverRaven/Cataclysm-DDA/pull/54194))
 
 ---
 
@@ -243,4 +239,3 @@
 * Move disable_activity_actor to the right file. ([#54196](https://github.com/CleverRaven/Cataclysm-DDA/pull/54196))
 * Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
 * Improve makeshift crowbar action description ([#54195](https://github.com/CleverRaven/Cataclysm-DDA/pull/54195))
-* Minor style fixes ([#54193](https://github.com/CleverRaven/Cataclysm-DDA/pull/54193))
