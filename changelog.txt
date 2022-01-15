@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-15-0639 (e62f9be)
 * Hallucination fixes 2: hallucinogenic boogaloo (#54425)
 * Routine i18n updates on 15 January 2022 (#54430)
 * Different layers on different body parts now visible (#54277)
@@ -116,8 +118,6 @@ Cataclysm-DDA experimental build 2022-01-11-2024 (5662136)
 Cataclysm-DDA experimental build 2022-01-11-1905 (6187aec)
 * Remove default bindings for hiding minimap and recipes (#54272)
 * Set per-matrix-job ccache limits for better bounded usage. (#54231)
-
-Cataclysm-DDA experimental build 2022-01-11-1421 (a34653b)
 * Allow sweetened coffee to be made with instant coffee powder (#54274)
 * Added roof and made several tweaks to office tower (#54293)
 * Correctly capitalize first letter in terrain and area name in look around menu (#54286)

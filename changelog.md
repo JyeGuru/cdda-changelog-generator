@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-15-0639 ([e62f9be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-0639))
+
 * Hallucination fixes 2: hallucinogenic boogaloo ([#54425](https://github.com/CleverRaven/Cataclysm-DDA/pull/54425))
 * Routine i18n updates on 15 January 2022 ([#54430](https://github.com/CleverRaven/Cataclysm-DDA/pull/54430))
 * Different layers on different body parts now visible ([#54277](https://github.com/CleverRaven/Cataclysm-DDA/pull/54277))
@@ -200,11 +205,6 @@
 
 * Remove default bindings for hiding minimap and recipes ([#54272](https://github.com/CleverRaven/Cataclysm-DDA/pull/54272))
 * Set per-matrix-job ccache limits for better bounded usage. ([#54231](https://github.com/CleverRaven/Cataclysm-DDA/pull/54231))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-11-1421 ([a34653b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-1421))
-
 * Allow sweetened coffee to be made with instant coffee powder ([#54274](https://github.com/CleverRaven/Cataclysm-DDA/pull/54274))
 * Added roof and made several tweaks to office tower ([#54293](https://github.com/CleverRaven/Cataclysm-DDA/pull/54293))
 * Correctly capitalize first letter in terrain and area name in look around menu ([#54286](https://github.com/CleverRaven/Cataclysm-DDA/pull/54286))
