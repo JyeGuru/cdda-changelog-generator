@@ -1,5 +1,11 @@
+* Add mending speed and healing rate to bodypart definitions, unhardcode Reptilian Healing ([#54404](https://github.com/CleverRaven/Cataclysm-DDA/pull/54404))
 * Enable "no tiles" builds for MSVC. ([#54401](https://github.com/CleverRaven/Cataclysm-DDA/pull/54401))
 * Skip ccache post-build step if env.SKIP is set like the rest of the steps do. ([#54417](https://github.com/CleverRaven/Cataclysm-DDA/pull/54417))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-15-0048 ([28c767d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-0048))
+
 * Remove JsonSerializer/Deserializer, replace with JsonValue where appropriate. ([#54402](https://github.com/CleverRaven/Cataclysm-DDA/pull/54402))
 * Cata stream subclasses need noexcept move operations. ([#54403](https://github.com/CleverRaven/Cataclysm-DDA/pull/54403))
 
@@ -205,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2022-01-11-1319 ([e349e49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-1319))
 
 * Fix vehicle mapgen.cpp range-loop-analysis error. ([#54284](https://github.com/CleverRaven/Cataclysm-DDA/pull/54284))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-11-0719 ([e2b23c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-11-0719))
-
 * Inform player when stuff is dropped for no apparent reason ([#54268](https://github.com/CleverRaven/Cataclysm-DDA/pull/54268))
 * Remove inaccurate description of fireplaces ([#54267](https://github.com/CleverRaven/Cataclysm-DDA/pull/54267))
 * Add Vital Numbers section to custom sidebar ([#54228](https://github.com/CleverRaven/Cataclysm-DDA/pull/54228))
@@ -243,4 +244,3 @@
 * Improve makeshift crowbar action description ([#54195](https://github.com/CleverRaven/Cataclysm-DDA/pull/54195))
 * Minor style fixes ([#54193](https://github.com/CleverRaven/Cataclysm-DDA/pull/54193))
 * Widget flags: Flags for special widget behaviours ([#54190](https://github.com/CleverRaven/Cataclysm-DDA/pull/54190))
-* Fix #53974 ([#54188](https://github.com/CleverRaven/Cataclysm-DDA/pull/54188))
