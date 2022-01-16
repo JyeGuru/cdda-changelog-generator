@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-16-1932 ([e49949d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-16-1932))
+
 * Bodypart secondary types ([#54478](https://github.com/CleverRaven/Cataclysm-DDA/pull/54478))
 * Fix Mycogenesis error ([#54480](https://github.com/CleverRaven/Cataclysm-DDA/pull/54480))
 * Update tilesets 22-01-16 ([#54481](https://github.com/CleverRaven/Cataclysm-DDA/pull/54481))
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2022-01-12-1952 ([38e1d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1952))
 
 * modular shelter blueprint cleanup ([#54326](https://github.com/CleverRaven/Cataclysm-DDA/pull/54326))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-1842 ([5163f91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1842))
-
 * Adjust load order for character activities ([#54323](https://github.com/CleverRaven/Cataclysm-DDA/pull/54323))
 * Ignore vs2019 temporary files ([#54325](https://github.com/CleverRaven/Cataclysm-DDA/pull/54325))
 * Make volume rounding consistent ([#54328](https://github.com/CleverRaven/Cataclysm-DDA/pull/54328))

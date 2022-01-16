@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-16-1932 (e49949d)
 * Bodypart secondary types (#54478)
 * Fix Mycogenesis error (#54480)
 * Update tilesets 22-01-16 (#54481)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2022-01-12-2136 (5662c6d)
 
 Cataclysm-DDA experimental build 2022-01-12-1952 (38e1d8f)
 * modular shelter blueprint cleanup (#54326)
-
-Cataclysm-DDA experimental build 2022-01-12-1842 (5163f91)
 * Adjust load order for character activities (#54323)
 * Ignore vs2019 temporary files (#54325)
 * Make volume rounding consistent (#54328)
