@@ -203,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-01-12-1654 ([4113a89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1654))
 
 * Make volume rounding consistent ([#54328](https://github.com/CleverRaven/Cataclysm-DDA/pull/54328))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-1619 ([a813ab3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1619))
-
 * Allow "Unknown command" messages to be coalesced ([#54315](https://github.com/CleverRaven/Cataclysm-DDA/pull/54315))
 * Prolong starch spoil time ([#54320](https://github.com/CleverRaven/Cataclysm-DDA/pull/54320))
 * Hallucinations: Misc fixes ([#54307](https://github.com/CleverRaven/Cataclysm-DDA/pull/54307))

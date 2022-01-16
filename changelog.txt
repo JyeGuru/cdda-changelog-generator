@@ -119,8 +119,6 @@ Cataclysm-DDA experimental build 2022-01-12-1842 (5163f91)
 
 Cataclysm-DDA experimental build 2022-01-12-1654 (4113a89)
 * Make volume rounding consistent (#54328)
-
-Cataclysm-DDA experimental build 2022-01-12-1619 (a813ab3)
 * Allow "Unknown command" messages to be coalesced (#54315)
 * Prolong starch spoil time (#54320)
 * Hallucinations: Misc fixes (#54307)
