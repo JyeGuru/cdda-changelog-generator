@@ -1,3 +1,12 @@
+* Bodypart secondary types ([#54478](https://github.com/CleverRaven/Cataclysm-DDA/pull/54478))
+* Fix Mycogenesis error ([#54480](https://github.com/CleverRaven/Cataclysm-DDA/pull/54480))
+* Update tilesets 22-01-16 ([#54481](https://github.com/CleverRaven/Cataclysm-DDA/pull/54481))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-16-1828 ([abda7ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-16-1828))
+
+* Expanded plate mail pt 3 ([#54377](https://github.com/CleverRaven/Cataclysm-DDA/pull/54377))
 * Fix compile error on Clang 6 ([#54446](https://github.com/CleverRaven/Cataclysm-DDA/pull/54446))
 
 ---
@@ -197,11 +206,6 @@
 
 * Adjust load order for character activities ([#54323](https://github.com/CleverRaven/Cataclysm-DDA/pull/54323))
 * Ignore vs2019 temporary files ([#54325](https://github.com/CleverRaven/Cataclysm-DDA/pull/54325))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-1654 ([4113a89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1654))
-
 * Make volume rounding consistent ([#54328](https://github.com/CleverRaven/Cataclysm-DDA/pull/54328))
 * Allow "Unknown command" messages to be coalesced ([#54315](https://github.com/CleverRaven/Cataclysm-DDA/pull/54315))
 * Prolong starch spoil time ([#54320](https://github.com/CleverRaven/Cataclysm-DDA/pull/54320))
@@ -216,7 +220,6 @@
 * Allow sweetened coffee to be made with instant coffee powder ([#54274](https://github.com/CleverRaven/Cataclysm-DDA/pull/54274))
 * Added roof and made several tweaks to office tower ([#54293](https://github.com/CleverRaven/Cataclysm-DDA/pull/54293))
 * Correctly capitalize first letter in terrain and area name in look around menu ([#54286](https://github.com/CleverRaven/Cataclysm-DDA/pull/54286))
-* Revert "Workaround for linking error w/ clang & glibc 2.31+" ([#54241](https://github.com/CleverRaven/Cataclysm-DDA/pull/54241))
 * Fix vehicle mapgen.cpp range-loop-analysis error. ([#54284](https://github.com/CleverRaven/Cataclysm-DDA/pull/54284))
 * Inform player when stuff is dropped for no apparent reason ([#54268](https://github.com/CleverRaven/Cataclysm-DDA/pull/54268))
 * Remove inaccurate description of fireplaces ([#54267](https://github.com/CleverRaven/Cataclysm-DDA/pull/54267))
@@ -227,6 +230,4 @@
 * Fix use-after-free error in vehicle mapgen ([#54254](https://github.com/CleverRaven/Cataclysm-DDA/pull/54254))
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))
 * Update spell checker alert comment text ([#54259](https://github.com/CleverRaven/Cataclysm-DDA/pull/54259))
-* fire lookout tower blueprint cleanup ([#54243](https://github.com/CleverRaven/Cataclysm-DDA/pull/54243))
-* Fix Skeleton Layering File ([#54245](https://github.com/CleverRaven/Cataclysm-DDA/pull/54245))
 * Fix compile error on macOS ([#54248](https://github.com/CleverRaven/Cataclysm-DDA/pull/54248))
