@@ -1,3 +1,10 @@
+* Don't insinuate that condoms are always rigid ([#54418](https://github.com/CleverRaven/Cataclysm-DDA/pull/54418))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-16-0556 ([3a0641e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-16-0556))
+
+* Martial art tech effect custom messages, gate tech effects behind arbitrary character flags ([#54414](https://github.com/CleverRaven/Cataclysm-DDA/pull/54414))
 
 ---
 
@@ -223,12 +230,10 @@
 * Fix use-after-free error in vehicle mapgen ([#54254](https://github.com/CleverRaven/Cataclysm-DDA/pull/54254))
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))
 * Update spell checker alert comment text ([#54259](https://github.com/CleverRaven/Cataclysm-DDA/pull/54259))
-* Add repeating martial arts techniques ([#54217](https://github.com/CleverRaven/Cataclysm-DDA/pull/54217))
 * Fix .desktop filename in appdata file ([#54240](https://github.com/CleverRaven/Cataclysm-DDA/pull/54240))
 * Construction: Prevent non-simple furniture from simple deconstruction ([#54234](https://github.com/CleverRaven/Cataclysm-DDA/pull/54234))
 * Update spell checker dictionary ([#54236](https://github.com/CleverRaven/Cataclysm-DDA/pull/54236))
 * fire lookout tower blueprint cleanup ([#54243](https://github.com/CleverRaven/Cataclysm-DDA/pull/54243))
 * Fix Skeleton Layering File ([#54245](https://github.com/CleverRaven/Cataclysm-DDA/pull/54245))
 * Fix compile error on macOS ([#54248](https://github.com/CleverRaven/Cataclysm-DDA/pull/54248))
-* Fix zombie children not giving moral penalty ([#54216](https://github.com/CleverRaven/Cataclysm-DDA/pull/54216))
 * Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
