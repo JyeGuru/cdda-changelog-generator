@@ -232,5 +232,4 @@
 * Fix compile error on macOS ([#54248](https://github.com/CleverRaven/Cataclysm-DDA/pull/54248))
 * Radio activation mod improvements ([#54213](https://github.com/CleverRaven/Cataclysm-DDA/pull/54213))
 * Fix zombie children not giving moral penalty ([#54216](https://github.com/CleverRaven/Cataclysm-DDA/pull/54216))
-* Improve container descriptions ([#54210](https://github.com/CleverRaven/Cataclysm-DDA/pull/54210))
 * Tilesets update 22-01-10 ([#54229](https://github.com/CleverRaven/Cataclysm-DDA/pull/54229))
