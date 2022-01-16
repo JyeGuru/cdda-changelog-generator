@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-16-0703 ([c464191](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-16-0703))
+
 * Translate remains/max length in inventory ui ([#54464](https://github.com/CleverRaven/Cataclysm-DDA/pull/54464))
 * Fix #54224 and #54219 ([#54462](https://github.com/CleverRaven/Cataclysm-DDA/pull/54462))
 * Update rural mapgen regional biome settings ([#54460](https://github.com/CleverRaven/Cataclysm-DDA/pull/54460))
@@ -203,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-01-12-1619 ([a813ab3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1619))
 
 * Allow "Unknown command" messages to be coalesced ([#54315](https://github.com/CleverRaven/Cataclysm-DDA/pull/54315))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-1412 ([96e8d40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1412))
-
 * Prolong starch spoil time ([#54320](https://github.com/CleverRaven/Cataclysm-DDA/pull/54320))
 * Hallucinations: Misc fixes ([#54307](https://github.com/CleverRaven/Cataclysm-DDA/pull/54307))
 * Performance: Cache NPC goal ([#54312](https://github.com/CleverRaven/Cataclysm-DDA/pull/54312))
