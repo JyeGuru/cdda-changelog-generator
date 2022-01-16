@@ -1,3 +1,4 @@
+* Fix compile error on Clang 6 (#54446)
 
 Cataclysm-DDA experimental build 2022-01-16-0703 (c464191)
 * Translate remains/max length in inventory ui (#54464)
@@ -144,8 +145,6 @@ Cataclysm-DDA experimental build 2022-01-12-1619 (a813ab3)
 * Fix use-after-free error in vehicle mapgen (#54254)
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. (#54258)
 * Update spell checker alert comment text (#54259)
-* Fix .desktop filename in appdata file (#54240)
-* Update spell checker dictionary (#54236)
 * fire lookout tower blueprint cleanup (#54243)
 * Fix Skeleton Layering File (#54245)
 * Fix compile error on macOS (#54248)

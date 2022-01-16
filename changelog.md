@@ -1,3 +1,4 @@
+* Fix compile error on Clang 6 ([#54446](https://github.com/CleverRaven/Cataclysm-DDA/pull/54446))
 
 ---
 
@@ -231,8 +232,6 @@
 * Fix use-after-free error in vehicle mapgen ([#54254](https://github.com/CleverRaven/Cataclysm-DDA/pull/54254))
 * Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))
 * Update spell checker alert comment text ([#54259](https://github.com/CleverRaven/Cataclysm-DDA/pull/54259))
-* Fix .desktop filename in appdata file ([#54240](https://github.com/CleverRaven/Cataclysm-DDA/pull/54240))
-* Update spell checker dictionary ([#54236](https://github.com/CleverRaven/Cataclysm-DDA/pull/54236))
 * fire lookout tower blueprint cleanup ([#54243](https://github.com/CleverRaven/Cataclysm-DDA/pull/54243))
 * Fix Skeleton Layering File ([#54245](https://github.com/CleverRaven/Cataclysm-DDA/pull/54245))
 * Fix compile error on macOS ([#54248](https://github.com/CleverRaven/Cataclysm-DDA/pull/54248))
