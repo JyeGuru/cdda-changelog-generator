@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-17-1621 (dc02e84)
+* Buff gelato a bit (#54490)
+
 Cataclysm-DDA experimental build 2022-01-17-0932 (1e91f34)
 * [ui] Provide (r)eset filter keybinding on inventory screens (#54413)
 * Add dialog functions for vitamins (#54483)
@@ -61,7 +64,6 @@ Cataclysm-DDA experimental build 2022-01-15-0823 (f1997bf)
 Cataclysm-DDA experimental build 2022-01-15-0639 (e62f9be)
 * Hallucination fixes 2: hallucinogenic boogaloo (#54425)
 * Routine i18n updates on 15 January 2022 (#54430)
-* Different layers on different body parts now visible (#54277)
 * Add more drench / drying factors to bodyparts (#54358)
 * Add myself as widget owner (#54422)
 
@@ -126,8 +128,6 @@ Cataclysm-DDA experimental build 2022-01-13-0824 (73825af)
 
 Cataclysm-DDA experimental build 2022-01-13-0723 (991dd84)
 * [ui] Fix "Unknown command" message after #54315 broke it (#54342)
-
-Cataclysm-DDA experimental build 2022-01-12-2215 (600018f)
 * [Innawood] More items repairable (#54278)
 * Eliminate concurrency of expensive builds (#54336)
 * Insure weather doesn't randomly match precise values when it isn't supposed to (#54335)

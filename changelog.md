@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-17-1621 ([dc02e84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-17-1621))
+
+* Buff gelato a bit ([#54490](https://github.com/CleverRaven/Cataclysm-DDA/pull/54490))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-17-0932 ([1e91f34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-17-0932))
 
 * [ui] Provide (r)eset filter keybinding on inventory screens ([#54413](https://github.com/CleverRaven/Cataclysm-DDA/pull/54413))
@@ -97,7 +103,6 @@
 
 * Hallucination fixes 2: hallucinogenic boogaloo ([#54425](https://github.com/CleverRaven/Cataclysm-DDA/pull/54425))
 * Routine i18n updates on 15 January 2022 ([#54430](https://github.com/CleverRaven/Cataclysm-DDA/pull/54430))
-* Different layers on different body parts now visible ([#54277](https://github.com/CleverRaven/Cataclysm-DDA/pull/54277))
 * Add more drench / drying factors to bodyparts ([#54358](https://github.com/CleverRaven/Cataclysm-DDA/pull/54358))
 * Add myself as widget owner ([#54422](https://github.com/CleverRaven/Cataclysm-DDA/pull/54422))
 
@@ -207,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2022-01-13-0723 ([991dd84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-0723))
 
 * [ui] Fix "Unknown command" message after #54315 broke it ([#54342](https://github.com/CleverRaven/Cataclysm-DDA/pull/54342))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-2215 ([600018f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-2215))
-
 * [Innawood] More items repairable ([#54278](https://github.com/CleverRaven/Cataclysm-DDA/pull/54278))
 * Eliminate concurrency of expensive builds ([#54336](https://github.com/CleverRaven/Cataclysm-DDA/pull/54336))
 * Insure weather doesn't randomly match precise values when it isn't supposed to ([#54335](https://github.com/CleverRaven/Cataclysm-DDA/pull/54335))
