@@ -229,4 +229,3 @@
 * Allow limbs to modify their own temperature ([#54305](https://github.com/CleverRaven/Cataclysm-DDA/pull/54305))
 * fbmc camp blueprint cleanup ([#54292](https://github.com/CleverRaven/Cataclysm-DDA/pull/54292))
 * Added roof and made several tweaks to office tower ([#54293](https://github.com/CleverRaven/Cataclysm-DDA/pull/54293))
-* Correctly capitalize first letter in terrain and area name in look around menu ([#54286](https://github.com/CleverRaven/Cataclysm-DDA/pull/54286))
