@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-17-0932 (1e91f34)
 * [ui] Provide (r)eset filter keybinding on inventory screens (#54413)
 * Add dialog functions for vitamins (#54483)
 * Add ability to transform traps and fields (#54491)
@@ -129,8 +131,6 @@ Cataclysm-DDA experimental build 2022-01-12-2215 (600018f)
 * [Innawood] More items repairable (#54278)
 * Eliminate concurrency of expensive builds (#54336)
 * Insure weather doesn't randomly match precise values when it isn't supposed to (#54335)
-
-Cataclysm-DDA experimental build 2022-01-12-2136 (5662c6d)
 * Replace all tolower/toupper() with wchar_t alternative (#54333)
 * modular shelter blueprint cleanup (#54326)
 * Adjust load order for character activities (#54323)

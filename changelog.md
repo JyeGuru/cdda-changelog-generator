@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-17-0932 ([1e91f34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-17-0932))
+
 * [ui] Provide (r)eset filter keybinding on inventory screens ([#54413](https://github.com/CleverRaven/Cataclysm-DDA/pull/54413))
 * Add dialog functions for vitamins ([#54483](https://github.com/CleverRaven/Cataclysm-DDA/pull/54483))
 * Add ability to transform traps and fields ([#54491](https://github.com/CleverRaven/Cataclysm-DDA/pull/54491))
@@ -210,11 +215,6 @@
 * [Innawood] More items repairable ([#54278](https://github.com/CleverRaven/Cataclysm-DDA/pull/54278))
 * Eliminate concurrency of expensive builds ([#54336](https://github.com/CleverRaven/Cataclysm-DDA/pull/54336))
 * Insure weather doesn't randomly match precise values when it isn't supposed to ([#54335](https://github.com/CleverRaven/Cataclysm-DDA/pull/54335))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-2136 ([5662c6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-2136))
-
 * Replace all tolower/toupper() with wchar_t alternative ([#54333](https://github.com/CleverRaven/Cataclysm-DDA/pull/54333))
 * modular shelter blueprint cleanup ([#54326](https://github.com/CleverRaven/Cataclysm-DDA/pull/54326))
 * Adjust load order for character activities ([#54323](https://github.com/CleverRaven/Cataclysm-DDA/pull/54323))
