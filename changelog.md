@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-17-0821 ([dd0993b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-17-0821))
+
 * Sort some lists of functions/action ids. ([#54503](https://github.com/CleverRaven/Cataclysm-DDA/pull/54503))
 * Added some flags from existing code ([#54495](https://github.com/CleverRaven/Cataclysm-DDA/pull/54495))
 * Remove old pickup menu code ([#54493](https://github.com/CleverRaven/Cataclysm-DDA/pull/54493))
