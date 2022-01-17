@@ -1,3 +1,6 @@
+* [ui] Provide (r)eset filter keybinding on inventory screens ([#54413](https://github.com/CleverRaven/Cataclysm-DDA/pull/54413))
+* Add dialog functions for vitamins ([#54483](https://github.com/CleverRaven/Cataclysm-DDA/pull/54483))
+* Add ability to transform traps and fields ([#54491](https://github.com/CleverRaven/Cataclysm-DDA/pull/54491))
 
 ---
 
@@ -226,8 +229,6 @@
 * Limit resource usage of repeated pushes to PRs ([#54306](https://github.com/CleverRaven/Cataclysm-DDA/pull/54306))
 * Allow limbs to modify their own temperature ([#54305](https://github.com/CleverRaven/Cataclysm-DDA/pull/54305))
 * fbmc camp blueprint cleanup ([#54292](https://github.com/CleverRaven/Cataclysm-DDA/pull/54292))
-* Remove default bindings for hiding minimap and recipes ([#54272](https://github.com/CleverRaven/Cataclysm-DDA/pull/54272))
-* Allow sweetened coffee to be made with instant coffee powder ([#54274](https://github.com/CleverRaven/Cataclysm-DDA/pull/54274))
 * Added roof and made several tweaks to office tower ([#54293](https://github.com/CleverRaven/Cataclysm-DDA/pull/54293))
 * Correctly capitalize first letter in terrain and area name in look around menu ([#54286](https://github.com/CleverRaven/Cataclysm-DDA/pull/54286))
 * Fix vehicle mapgen.cpp range-loop-analysis error. ([#54284](https://github.com/CleverRaven/Cataclysm-DDA/pull/54284))
