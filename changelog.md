@@ -1,3 +1,7 @@
+* Clear weather override on game end ([#54482](https://github.com/CleverRaven/Cataclysm-DDA/pull/54482))
+* [CR] Replaced worded direction with direction arrow in "Climb where" menu ([#54476](https://github.com/CleverRaven/Cataclysm-DDA/pull/54476))
+* Graphical_Overmap: Fix dangling references ([#54391](https://github.com/CleverRaven/Cataclysm-DDA/pull/54391))
+* Spelling and Punctuation Fixes ([#54347](https://github.com/CleverRaven/Cataclysm-DDA/pull/54347))
 
 ---
 
@@ -198,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2022-01-12-2136 ([5662c6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-2136))
 
 * Replace all tolower/toupper() with wchar_t alternative ([#54333](https://github.com/CleverRaven/Cataclysm-DDA/pull/54333))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-12-1952 ([38e1d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-12-1952))
-
 * modular shelter blueprint cleanup ([#54326](https://github.com/CleverRaven/Cataclysm-DDA/pull/54326))
 * Adjust load order for character activities ([#54323](https://github.com/CleverRaven/Cataclysm-DDA/pull/54323))
 * Ignore vs2019 temporary files ([#54325](https://github.com/CleverRaven/Cataclysm-DDA/pull/54325))
@@ -226,8 +225,4 @@
 * Unhardcode Bird/Butterfly Wings' effect ([#54264](https://github.com/CleverRaven/Cataclysm-DDA/pull/54264))
 * Makes long sticks usable in more constructions ([#54261](https://github.com/CleverRaven/Cataclysm-DDA/pull/54261))
 * Makes wind mill and water mill recipes accept primitive funnels ([#54260](https://github.com/CleverRaven/Cataclysm-DDA/pull/54260))
-* Don't spawn random NPCs as arsonists ([#54250](https://github.com/CleverRaven/Cataclysm-DDA/pull/54250))
-* Fix use-after-free error in vehicle mapgen ([#54254](https://github.com/CleverRaven/Cataclysm-DDA/pull/54254))
-* Fix #54212: Replace tire iron/jack/wheel in cars with higher-probability item group. ([#54258](https://github.com/CleverRaven/Cataclysm-DDA/pull/54258))
 * Update spell checker alert comment text ([#54259](https://github.com/CleverRaven/Cataclysm-DDA/pull/54259))
-* Fix compile error on macOS ([#54248](https://github.com/CleverRaven/Cataclysm-DDA/pull/54248))
