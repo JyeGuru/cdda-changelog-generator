@@ -1,3 +1,10 @@
+* Remove unused itype id declaration in pickup.cpp ([#54536](https://github.com/CleverRaven/Cataclysm-DDA/pull/54536))
+* Hopefully fix clang ccache issues with better include flags. ([#54539](https://github.com/CleverRaven/Cataclysm-DDA/pull/54539))
+* Add __pycache__ to .gitignore ([#54540](https://github.com/CleverRaven/Cataclysm-DDA/pull/54540))
+* Steel and Propane spawns ([#54380](https://github.com/CleverRaven/Cataclysm-DDA/pull/54380))
+* Make oven and fridge appliances draggable ([#54521](https://github.com/CleverRaven/Cataclysm-DDA/pull/54521))
+* Make athletic skill description more correct ([#54500](https://github.com/CleverRaven/Cataclysm-DDA/pull/54500))
+* Smartphone grammar/word choice fix ([#54484](https://github.com/CleverRaven/Cataclysm-DDA/pull/54484))
 
 ---
 
@@ -215,9 +222,6 @@
 * Fix list menu filter not working ([#54356](https://github.com/CleverRaven/Cataclysm-DDA/pull/54356))
 * Use Oxford comma in `input_context::get_desc()` ([#54345](https://github.com/CleverRaven/Cataclysm-DDA/pull/54345))
 * [Innawood] ores from mining stone ([#54338](https://github.com/CleverRaven/Cataclysm-DDA/pull/54338))
-* Correct infinite rope generation bug ([#54319](https://github.com/CleverRaven/Cataclysm-DDA/pull/54319))
-* [Magiclysm] Extend custom sidebar to include mana, max mana, and mana graph ([#54314](https://github.com/CleverRaven/Cataclysm-DDA/pull/54314))
-* Update Lost Submissive ([#54310](https://github.com/CleverRaven/Cataclysm-DDA/pull/54310))
 * Fix being unable to siphon from vehicles with a hole inside ([#54341](https://github.com/CleverRaven/Cataclysm-DDA/pull/54341))
 * [ui] Fix "Unknown command" message after #54315 broke it ([#54342](https://github.com/CleverRaven/Cataclysm-DDA/pull/54342))
 * Eliminate concurrency of expensive builds ([#54336](https://github.com/CleverRaven/Cataclysm-DDA/pull/54336))
@@ -227,7 +231,3 @@
 * Adjust load order for character activities ([#54323](https://github.com/CleverRaven/Cataclysm-DDA/pull/54323))
 * Ignore vs2019 temporary files ([#54325](https://github.com/CleverRaven/Cataclysm-DDA/pull/54325))
 * Make volume rounding consistent ([#54328](https://github.com/CleverRaven/Cataclysm-DDA/pull/54328))
-* Allow "Unknown command" messages to be coalesced ([#54315](https://github.com/CleverRaven/Cataclysm-DDA/pull/54315))
-* Prolong starch spoil time ([#54320](https://github.com/CleverRaven/Cataclysm-DDA/pull/54320))
-* Performance: Cache NPC goal ([#54312](https://github.com/CleverRaven/Cataclysm-DDA/pull/54312))
-* Unify ccache retrieve steps ([#54311](https://github.com/CleverRaven/Cataclysm-DDA/pull/54311))
