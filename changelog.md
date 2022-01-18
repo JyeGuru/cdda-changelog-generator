@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-18-0550 ([8fe7f90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-18-0550))
+
 * [Innawood] Bloomery uses charcoal as ammo ([#54510](https://github.com/CleverRaven/Cataclysm-DDA/pull/54510))
 * fixes#54183 ([#54488](https://github.com/CleverRaven/Cataclysm-DDA/pull/54488))
 * [ui] Enhance safe mode messages with color and information about monster count/direction ([#54461](https://github.com/CleverRaven/Cataclysm-DDA/pull/54461))
@@ -206,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2022-01-13-1512 ([c8a49e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-1512))
 
 * Fix list menu filter not working ([#54356](https://github.com/CleverRaven/Cataclysm-DDA/pull/54356))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-13-0824 ([73825af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-0824))
-
 * Use Oxford comma in `input_context::get_desc()` ([#54345](https://github.com/CleverRaven/Cataclysm-DDA/pull/54345))
 * [Innawood] ores from mining stone ([#54338](https://github.com/CleverRaven/Cataclysm-DDA/pull/54338))
 * Correct infinite rope generation bug ([#54319](https://github.com/CleverRaven/Cataclysm-DDA/pull/54319))

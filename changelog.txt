@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-18-0550 (8fe7f90)
 * [Innawood] Bloomery uses charcoal as ammo (#54510)
 * fixes#54183 (#54488)
 * [ui] Enhance safe mode messages with color and information about monster count/direction (#54461)
@@ -125,8 +127,6 @@ Cataclysm-DDA experimental build 2022-01-13-1613 (52f2984)
 
 Cataclysm-DDA experimental build 2022-01-13-1512 (c8a49e1)
 * Fix list menu filter not working (#54356)
-
-Cataclysm-DDA experimental build 2022-01-13-0824 (73825af)
 * Use Oxford comma in `input_context::get_desc()` (#54345)
 * [Innawood] ores from mining stone (#54338)
 * Correct infinite rope generation bug (#54319)
