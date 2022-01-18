@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-18-0727 (bb20c4d)
 * Portal map extra jsonify (#54514)
 * Migrate ACT_FORAGE to the new activity actor system. (#54441)
 
@@ -126,8 +128,6 @@ Cataclysm-DDA experimental build 2022-01-13-1741 (e3058b4)
 Cataclysm-DDA experimental build 2022-01-13-1613 (52f2984)
 * Replace toupper() in suffer.cpp with safer alternative (#54351)
 * Fix a typo in Sweet Cataclysm (#54352)
-
-Cataclysm-DDA experimental build 2022-01-13-1512 (c8a49e1)
 * Fix list menu filter not working (#54356)
 * Use Oxford comma in `input_context::get_desc()` (#54345)
 * [Innawood] ores from mining stone (#54338)

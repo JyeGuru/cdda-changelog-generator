@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-18-0727 ([bb20c4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-18-0727))
+
 * Portal map extra jsonify ([#54514](https://github.com/CleverRaven/Cataclysm-DDA/pull/54514))
 * Migrate ACT_FORAGE to the new activity actor system. ([#54441](https://github.com/CleverRaven/Cataclysm-DDA/pull/54441))
 
@@ -207,11 +212,6 @@
 
 * Replace toupper() in suffer.cpp with safer alternative ([#54351](https://github.com/CleverRaven/Cataclysm-DDA/pull/54351))
 * Fix a typo in Sweet Cataclysm ([#54352](https://github.com/CleverRaven/Cataclysm-DDA/pull/54352))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-13-1512 ([c8a49e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-1512))
-
 * Fix list menu filter not working ([#54356](https://github.com/CleverRaven/Cataclysm-DDA/pull/54356))
 * Use Oxford comma in `input_context::get_desc()` ([#54345](https://github.com/CleverRaven/Cataclysm-DDA/pull/54345))
 * [Innawood] ores from mining stone ([#54338](https://github.com/CleverRaven/Cataclysm-DDA/pull/54338))
