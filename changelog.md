@@ -1,3 +1,15 @@
+* [Innawood] Bloomery uses charcoal as ammo ([#54510](https://github.com/CleverRaven/Cataclysm-DDA/pull/54510))
+* fixes#54183 ([#54488](https://github.com/CleverRaven/Cataclysm-DDA/pull/54488))
+* [ui] Enhance safe mode messages with color and information about monster count/direction ([#54461](https://github.com/CleverRaven/Cataclysm-DDA/pull/54461))
+* [UI] Increase contrast for highlighted items in character creation UI ([#54530](https://github.com/CleverRaven/Cataclysm-DDA/pull/54530))
+* [UI] Use white instead of light gray for highlighted tabs to increase contrast ([#54526](https://github.com/CleverRaven/Cataclysm-DDA/pull/54526))
+* [UI] Provide (r)eset filter keybinding on character creation screen ([#54533](https://github.com/CleverRaven/Cataclysm-DDA/pull/54533))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-18-0444 ([497ae72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-18-0444))
+
+* Fix heap overflow error in Character::remove_bionic() ([#54516](https://github.com/CleverRaven/Cataclysm-DDA/pull/54516))
 
 ---
 
@@ -181,7 +193,6 @@
 
 * Fix compile error when LOCALIZE is disabled ([#54362](https://github.com/CleverRaven/Cataclysm-DDA/pull/54362))
 * Upgrade to actions/checkout@v2 ([#54353](https://github.com/CleverRaven/Cataclysm-DDA/pull/54353))
-* Add a clang-tidy check for usage of tolower()/toupper() on UTF-8 string ([#54289](https://github.com/CleverRaven/Cataclysm-DDA/pull/54289))
 
 ---
 
@@ -206,11 +217,6 @@
 * [Magiclysm] Extend custom sidebar to include mana, max mana, and mana graph ([#54314](https://github.com/CleverRaven/Cataclysm-DDA/pull/54314))
 * Update Lost Submissive ([#54310](https://github.com/CleverRaven/Cataclysm-DDA/pull/54310))
 * Fix being unable to siphon from vehicles with a hole inside ([#54341](https://github.com/CleverRaven/Cataclysm-DDA/pull/54341))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-13-0723 ([991dd84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-0723))
-
 * [ui] Fix "Unknown command" message after #54315 broke it ([#54342](https://github.com/CleverRaven/Cataclysm-DDA/pull/54342))
 * Eliminate concurrency of expensive builds ([#54336](https://github.com/CleverRaven/Cataclysm-DDA/pull/54336))
 * Insure weather doesn't randomly match precise values when it isn't supposed to ([#54335](https://github.com/CleverRaven/Cataclysm-DDA/pull/54335))
@@ -224,8 +230,4 @@
 * Hallucinations: Misc fixes ([#54307](https://github.com/CleverRaven/Cataclysm-DDA/pull/54307))
 * Performance: Cache NPC goal ([#54312](https://github.com/CleverRaven/Cataclysm-DDA/pull/54312))
 * Unify ccache retrieve steps ([#54311](https://github.com/CleverRaven/Cataclysm-DDA/pull/54311))
-* Added plural for Memories ([#54304](https://github.com/CleverRaven/Cataclysm-DDA/pull/54304))
 * Limit resource usage of repeated pushes to PRs ([#54306](https://github.com/CleverRaven/Cataclysm-DDA/pull/54306))
-* Allow limbs to modify their own temperature ([#54305](https://github.com/CleverRaven/Cataclysm-DDA/pull/54305))
-* fbmc camp blueprint cleanup ([#54292](https://github.com/CleverRaven/Cataclysm-DDA/pull/54292))
-* Added roof and made several tweaks to office tower ([#54293](https://github.com/CleverRaven/Cataclysm-DDA/pull/54293))
