@@ -1,3 +1,5 @@
+* Portal map extra jsonify ([#54514](https://github.com/CleverRaven/Cataclysm-DDA/pull/54514))
+* Migrate ACT_FORAGE to the new activity actor system. ([#54441](https://github.com/CleverRaven/Cataclysm-DDA/pull/54441))
 
 ---
 
@@ -227,7 +229,5 @@
 * Make volume rounding consistent ([#54328](https://github.com/CleverRaven/Cataclysm-DDA/pull/54328))
 * Allow "Unknown command" messages to be coalesced ([#54315](https://github.com/CleverRaven/Cataclysm-DDA/pull/54315))
 * Prolong starch spoil time ([#54320](https://github.com/CleverRaven/Cataclysm-DDA/pull/54320))
-* Hallucinations: Misc fixes ([#54307](https://github.com/CleverRaven/Cataclysm-DDA/pull/54307))
 * Performance: Cache NPC goal ([#54312](https://github.com/CleverRaven/Cataclysm-DDA/pull/54312))
 * Unify ccache retrieve steps ([#54311](https://github.com/CleverRaven/Cataclysm-DDA/pull/54311))
-* Limit resource usage of repeated pushes to PRs ([#54306](https://github.com/CleverRaven/Cataclysm-DDA/pull/54306))

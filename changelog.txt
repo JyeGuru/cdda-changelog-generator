@@ -1,3 +1,5 @@
+* Portal map extra jsonify (#54514)
+* Migrate ACT_FORAGE to the new activity actor system. (#54441)
 
 Cataclysm-DDA experimental build 2022-01-18-0550 (8fe7f90)
 * [Innawood] Bloomery uses charcoal as ammo (#54510)
@@ -143,7 +145,5 @@ Cataclysm-DDA experimental build 2022-01-13-1512 (c8a49e1)
 * Make volume rounding consistent (#54328)
 * Allow "Unknown command" messages to be coalesced (#54315)
 * Prolong starch spoil time (#54320)
-* Hallucinations: Misc fixes (#54307)
 * Performance: Cache NPC goal (#54312)
 * Unify ccache retrieve steps (#54311)
-* Limit resource usage of repeated pushes to PRs (#54306)
