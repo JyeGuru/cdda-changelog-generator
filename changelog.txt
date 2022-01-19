@@ -1,3 +1,4 @@
+* Portal Storm change warnings (#54559)
 * Print qualities of tool furniture that has them (#54562)
 * Fix crash when pouring water from vehicle to container (#54578)
 
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2022-01-14-0110 (0d7276f)
 * Fix timestamp generation (#54379)
 * Speed up JSON style check in general build matrix  (#54375)
 * modular shelter 1 blueprint cleanup (#54371)
-* Speed up JSON style check on GHA CI (#54363)

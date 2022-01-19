@@ -1,3 +1,4 @@
+* Portal Storm change warnings ([#54559](https://github.com/CleverRaven/Cataclysm-DDA/pull/54559))
 * Print qualities of tool furniture that has them ([#54562](https://github.com/CleverRaven/Cataclysm-DDA/pull/54562))
 * Fix crash when pouring water from vehicle to container ([#54578](https://github.com/CleverRaven/Cataclysm-DDA/pull/54578))
 
@@ -224,4 +225,3 @@
 * Fix timestamp generation ([#54379](https://github.com/CleverRaven/Cataclysm-DDA/pull/54379))
 * Speed up JSON style check in general build matrix  ([#54375](https://github.com/CleverRaven/Cataclysm-DDA/pull/54375))
 * modular shelter 1 blueprint cleanup ([#54371](https://github.com/CleverRaven/Cataclysm-DDA/pull/54371))
-* Speed up JSON style check on GHA CI ([#54363](https://github.com/CleverRaven/Cataclysm-DDA/pull/54363))
