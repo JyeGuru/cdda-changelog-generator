@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-19-0641 ([3eb84f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-0641))
+
+* Crafting: Don't embed nested items within craft ([#54563](https://github.com/CleverRaven/Cataclysm-DDA/pull/54563))
+* Phase out "fridge" item group (part 2 - survivor fridges) ([#54560](https://github.com/CleverRaven/Cataclysm-DDA/pull/54560))
+* Bloated Corvid and Oversized Crow Fix ([#54556](https://github.com/CleverRaven/Cataclysm-DDA/pull/54556))
+* 'Spider' map extra jsonify ([#54547](https://github.com/CleverRaven/Cataclysm-DDA/pull/54547))
+* Add scrollbar to panel manager ([#54545](https://github.com/CleverRaven/Cataclysm-DDA/pull/54545))
+* Migrate ACT_LONGSALVAGE to the new activity actor system. ([#54542](https://github.com/CleverRaven/Cataclysm-DDA/pull/54542))
+* Expanded plate mail pt 4 ([#54535](https://github.com/CleverRaven/Cataclysm-DDA/pull/54535))
+* Workbench with in-built charger for vehicle ([#54529](https://github.com/CleverRaven/Cataclysm-DDA/pull/54529))
+* Reduce Wasps Nest spawns in forests ([#54528](https://github.com/CleverRaven/Cataclysm-DDA/pull/54528))
+* Add mapgen ability to set variables or remove traps in lines/squares.  ([#54523](https://github.com/CleverRaven/Cataclysm-DDA/pull/54523))
+* Allow tool charged_qualities to work with UPS battery mod ([#54494](https://github.com/CleverRaven/Cataclysm-DDA/pull/54494))
+* Add vegetable oil press ([#54467](https://github.com/CleverRaven/Cataclysm-DDA/pull/54467))
+* Aftershock Exoplanet: Glacial tunnels ([#54385](https://github.com/CleverRaven/Cataclysm-DDA/pull/54385))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-19-0456 ([840220f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-0456))
 
 * A modest ccache proposal ([#54558](https://github.com/CleverRaven/Cataclysm-DDA/pull/54558))
@@ -69,7 +87,6 @@
 * Clear weather override on game end ([#54482](https://github.com/CleverRaven/Cataclysm-DDA/pull/54482))
 * [CR] Replaced worded direction with direction arrow in "Climb where" menu ([#54476](https://github.com/CleverRaven/Cataclysm-DDA/pull/54476))
 * Graphical_Overmap: Fix dangling references ([#54391](https://github.com/CleverRaven/Cataclysm-DDA/pull/54391))
-* Spelling and Punctuation Fixes ([#54347](https://github.com/CleverRaven/Cataclysm-DDA/pull/54347))
 
 ---
 
@@ -105,12 +122,6 @@
 #### Cataclysm-DDA experimental build 2022-01-16-0556 ([3a0641e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-16-0556))
 
 * Martial art tech effect custom messages, gate tech effects behind arbitrary character flags ([#54414](https://github.com/CleverRaven/Cataclysm-DDA/pull/54414))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-15-2213 ([56ae13e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-2213))
-
-* [ui] Properly render control character in keybindings list ([#54350](https://github.com/CleverRaven/Cataclysm-DDA/pull/54350))
 
 ---
 
@@ -196,12 +207,6 @@
 #### Cataclysm-DDA experimental build 2022-01-14-0110 ([0d7276f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-0110))
 
 * Paramater agreement ([#54381](https://github.com/CleverRaven/Cataclysm-DDA/pull/54381))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-13-2356 ([6ee8d46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-2356))
-
-* Load Bearing Vests have distinct scaling ([#54339](https://github.com/CleverRaven/Cataclysm-DDA/pull/54339))
 * Cleanup some random clang-tidy errors. ([#54374](https://github.com/CleverRaven/Cataclysm-DDA/pull/54374))
 * Fix timestamp generation ([#54379](https://github.com/CleverRaven/Cataclysm-DDA/pull/54379))
 * Speed up JSON style check in general build matrix  ([#54375](https://github.com/CleverRaven/Cataclysm-DDA/pull/54375))
@@ -211,23 +216,7 @@
 #### Cataclysm-DDA experimental build 2022-01-13-2242 ([1cb6d41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-2242))
 
 * modular shelter 1 blueprint cleanup ([#54371](https://github.com/CleverRaven/Cataclysm-DDA/pull/54371))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-13-1831 ([9f2940a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-1831))
-
 * Speed up JSON style check on GHA CI ([#54363](https://github.com/CleverRaven/Cataclysm-DDA/pull/54363))
 * Fix compile error when LOCALIZE is disabled ([#54362](https://github.com/CleverRaven/Cataclysm-DDA/pull/54362))
 * Upgrade to actions/checkout@v2 ([#54353](https://github.com/CleverRaven/Cataclysm-DDA/pull/54353))
-* Replace toupper() in suffer.cpp with safer alternative ([#54351](https://github.com/CleverRaven/Cataclysm-DDA/pull/54351))
-* Fix a typo in Sweet Cataclysm ([#54352](https://github.com/CleverRaven/Cataclysm-DDA/pull/54352))
 * Fix list menu filter not working ([#54356](https://github.com/CleverRaven/Cataclysm-DDA/pull/54356))
-* Use Oxford comma in `input_context::get_desc()` ([#54345](https://github.com/CleverRaven/Cataclysm-DDA/pull/54345))
-* [Innawood] ores from mining stone ([#54338](https://github.com/CleverRaven/Cataclysm-DDA/pull/54338))
-* Fix being unable to siphon from vehicles with a hole inside ([#54341](https://github.com/CleverRaven/Cataclysm-DDA/pull/54341))
-* [ui] Fix "Unknown command" message after #54315 broke it ([#54342](https://github.com/CleverRaven/Cataclysm-DDA/pull/54342))
-* Eliminate concurrency of expensive builds ([#54336](https://github.com/CleverRaven/Cataclysm-DDA/pull/54336))
-* Insure weather doesn't randomly match precise values when it isn't supposed to ([#54335](https://github.com/CleverRaven/Cataclysm-DDA/pull/54335))
-* Replace all tolower/toupper() with wchar_t alternative ([#54333](https://github.com/CleverRaven/Cataclysm-DDA/pull/54333))
-* modular shelter blueprint cleanup ([#54326](https://github.com/CleverRaven/Cataclysm-DDA/pull/54326))
-* Make volume rounding consistent ([#54328](https://github.com/CleverRaven/Cataclysm-DDA/pull/54328))
