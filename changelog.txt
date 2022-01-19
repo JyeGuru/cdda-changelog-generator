@@ -1,3 +1,8 @@
+* Print qualities of tool furniture that has them (#54562)
+* Fix crash when pouring water from vehicle to container (#54578)
+
+Cataclysm-DDA experimental build 2022-01-19-2117 (770fbad)
+* Fix comma error in savegame_legacy.cpp (#54580)
 
 Cataclysm-DDA experimental build 2022-01-19-1123 (d740104)
 * Make wild root smokable (#54568)
@@ -106,7 +111,6 @@ Cataclysm-DDA experimental build 2022-01-15-0823 (f1997bf)
 Cataclysm-DDA experimental build 2022-01-15-0639 (e62f9be)
 * Hallucination fixes 2: hallucinogenic boogaloo (#54425)
 * Routine i18n updates on 15 January 2022 (#54430)
-* Add more drench / drying factors to bodyparts (#54358)
 * Add myself as widget owner (#54422)
 
 Cataclysm-DDA experimental build 2022-01-15-0404 (e741c45)
@@ -140,5 +144,3 @@ Cataclysm-DDA experimental build 2022-01-14-0110 (0d7276f)
 * Speed up JSON style check in general build matrix  (#54375)
 * modular shelter 1 blueprint cleanup (#54371)
 * Speed up JSON style check on GHA CI (#54363)
-* Fix compile error when LOCALIZE is disabled (#54362)
-* Fix list menu filter not working (#54356)

@@ -1,3 +1,11 @@
+* Print qualities of tool furniture that has them ([#54562](https://github.com/CleverRaven/Cataclysm-DDA/pull/54562))
+* Fix crash when pouring water from vehicle to container ([#54578](https://github.com/CleverRaven/Cataclysm-DDA/pull/54578))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-19-2117 ([770fbad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-2117))
+
+* Fix comma error in savegame_legacy.cpp ([#54580](https://github.com/CleverRaven/Cataclysm-DDA/pull/54580))
 
 ---
 
@@ -163,7 +171,6 @@
 
 * Hallucination fixes 2: hallucinogenic boogaloo ([#54425](https://github.com/CleverRaven/Cataclysm-DDA/pull/54425))
 * Routine i18n updates on 15 January 2022 ([#54430](https://github.com/CleverRaven/Cataclysm-DDA/pull/54430))
-* Add more drench / drying factors to bodyparts ([#54358](https://github.com/CleverRaven/Cataclysm-DDA/pull/54358))
 * Add myself as widget owner ([#54422](https://github.com/CleverRaven/Cataclysm-DDA/pull/54422))
 
 ---
@@ -218,5 +225,3 @@
 * Speed up JSON style check in general build matrix  ([#54375](https://github.com/CleverRaven/Cataclysm-DDA/pull/54375))
 * modular shelter 1 blueprint cleanup ([#54371](https://github.com/CleverRaven/Cataclysm-DDA/pull/54371))
 * Speed up JSON style check on GHA CI ([#54363](https://github.com/CleverRaven/Cataclysm-DDA/pull/54363))
-* Fix compile error when LOCALIZE is disabled ([#54362](https://github.com/CleverRaven/Cataclysm-DDA/pull/54362))
-* Fix list menu filter not working ([#54356](https://github.com/CleverRaven/Cataclysm-DDA/pull/54356))
