@@ -1,3 +1,4 @@
+* Fix typo in vsproj for MSVC. (#54546)
 
 Cataclysm-DDA experimental build 2022-01-18-0852 (98a8e80)
 * Remove unused itype id declaration in pickup.cpp (#54536)
@@ -144,6 +145,5 @@ Cataclysm-DDA experimental build 2022-01-13-1741 (e3058b4)
 * Insure weather doesn't randomly match precise values when it isn't supposed to (#54335)
 * Replace all tolower/toupper() with wchar_t alternative (#54333)
 * modular shelter blueprint cleanup (#54326)
-* Adjust load order for character activities (#54323)
 * Ignore vs2019 temporary files (#54325)
 * Make volume rounding consistent (#54328)
