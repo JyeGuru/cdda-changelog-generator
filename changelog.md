@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-19-1123 ([d740104](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-1123))
+
+* Make wild root smokable ([#54568](https://github.com/CleverRaven/Cataclysm-DDA/pull/54568))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-19-0641 ([3eb84f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-0641))
 
 * Crafting: Don't embed nested items within craft ([#54563](https://github.com/CleverRaven/Cataclysm-DDA/pull/54563))
@@ -210,13 +216,7 @@
 * Cleanup some random clang-tidy errors. ([#54374](https://github.com/CleverRaven/Cataclysm-DDA/pull/54374))
 * Fix timestamp generation ([#54379](https://github.com/CleverRaven/Cataclysm-DDA/pull/54379))
 * Speed up JSON style check in general build matrix  ([#54375](https://github.com/CleverRaven/Cataclysm-DDA/pull/54375))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-13-2242 ([1cb6d41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-13-2242))
-
 * modular shelter 1 blueprint cleanup ([#54371](https://github.com/CleverRaven/Cataclysm-DDA/pull/54371))
 * Speed up JSON style check on GHA CI ([#54363](https://github.com/CleverRaven/Cataclysm-DDA/pull/54363))
 * Fix compile error when LOCALIZE is disabled ([#54362](https://github.com/CleverRaven/Cataclysm-DDA/pull/54362))
-* Upgrade to actions/checkout@v2 ([#54353](https://github.com/CleverRaven/Cataclysm-DDA/pull/54353))
 * Fix list menu filter not working ([#54356](https://github.com/CleverRaven/Cataclysm-DDA/pull/54356))

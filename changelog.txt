@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-19-1123 (d740104)
+* Make wild root smokable (#54568)
+
 Cataclysm-DDA experimental build 2022-01-19-0641 (3eb84f6)
 * Crafting: Don't embed nested items within craft (#54563)
 * Phase out "fridge" item group (part 2 - survivor fridges) (#54560)
@@ -135,10 +138,7 @@ Cataclysm-DDA experimental build 2022-01-14-0110 (0d7276f)
 * Cleanup some random clang-tidy errors. (#54374)
 * Fix timestamp generation (#54379)
 * Speed up JSON style check in general build matrix  (#54375)
-
-Cataclysm-DDA experimental build 2022-01-13-2242 (1cb6d41)
 * modular shelter 1 blueprint cleanup (#54371)
 * Speed up JSON style check on GHA CI (#54363)
 * Fix compile error when LOCALIZE is disabled (#54362)
-* Upgrade to actions/checkout@v2 (#54353)
 * Fix list menu filter not working (#54356)
