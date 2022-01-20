@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-20-0836 ([372311f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0836))
+
+* Add sticks to wood saw recipe ([#54597](https://github.com/CleverRaven/Cataclysm-DDA/pull/54597))
 * Add a small morale boost for pyromaniacs when setting items on fire ([#54396](https://github.com/CleverRaven/Cataclysm-DDA/pull/54396))
 
 ---
@@ -204,13 +210,7 @@
 * Add mending speed and healing rate to bodypart definitions, unhardcode Reptilian Healing ([#54404](https://github.com/CleverRaven/Cataclysm-DDA/pull/54404))
 * Enable "no tiles" builds for MSVC. ([#54401](https://github.com/CleverRaven/Cataclysm-DDA/pull/54401))
 * Skip ccache post-build step if env.SKIP is set like the rest of the steps do. ([#54417](https://github.com/CleverRaven/Cataclysm-DDA/pull/54417))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-15-0048 ([28c767d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-0048))
-
 * Remove JsonSerializer/Deserializer, replace with JsonValue where appropriate. ([#54402](https://github.com/CleverRaven/Cataclysm-DDA/pull/54402))
 * Cata stream subclasses need noexcept move operations. ([#54403](https://github.com/CleverRaven/Cataclysm-DDA/pull/54403))
 * Make release msvc vcpkg step match the PR equivalent ([#54410](https://github.com/CleverRaven/Cataclysm-DDA/pull/54410))
 * Eliminate ~80% of JsonObject copies ([#54399](https://github.com/CleverRaven/Cataclysm-DDA/pull/54399))
-* modular shelter 2 blueprint cleanup ([#54390](https://github.com/CleverRaven/Cataclysm-DDA/pull/54390))
