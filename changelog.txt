@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-20-2018 (70d33eb)
+* Fix for #54609 (#54611)
+
 Cataclysm-DDA experimental build 2022-01-20-0836 (372311f)
 * Add sticks to wood saw recipe (#54597)
 * Add a small morale boost for pyromaniacs when setting items on fire (#54396)
@@ -91,7 +94,6 @@ Cataclysm-DDA experimental build 2022-01-17-0821 (dd0993b)
 * Add context for gravel and sand (#54485)
 * Clear weather override on game end (#54482)
 * [CR] Replaced worded direction with direction arrow in "Climb where" menu (#54476)
-* Graphical_Overmap: Fix dangling references (#54391)
 
 Cataclysm-DDA experimental build 2022-01-16-1932 (e49949d)
 * Bodypart secondary types (#54478)
@@ -130,8 +132,6 @@ Cataclysm-DDA experimental build 2022-01-15-0639 (e62f9be)
 * Hallucination fixes 2: hallucinogenic boogaloo (#54425)
 * Routine i18n updates on 15 January 2022 (#54430)
 * Add myself as widget owner (#54422)
-
-Cataclysm-DDA experimental build 2022-01-15-0404 (e741c45)
 * Add mending speed and healing rate to bodypart definitions, unhardcode Reptilian Healing (#54404)
 * Enable "no tiles" builds for MSVC. (#54401)
 * Skip ccache post-build step if env.SKIP is set like the rest of the steps do. (#54417)

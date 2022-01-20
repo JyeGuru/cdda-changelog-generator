@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-20-2018 ([70d33eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-2018))
+
+* Fix for #54609 ([#54611](https://github.com/CleverRaven/Cataclysm-DDA/pull/54611))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-20-0836 ([372311f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0836))
 
 * Add sticks to wood saw recipe ([#54597](https://github.com/CleverRaven/Cataclysm-DDA/pull/54597))
@@ -142,7 +148,6 @@
 * Add context for gravel and sand ([#54485](https://github.com/CleverRaven/Cataclysm-DDA/pull/54485))
 * Clear weather override on game end ([#54482](https://github.com/CleverRaven/Cataclysm-DDA/pull/54482))
 * [CR] Replaced worded direction with direction arrow in "Climb where" menu ([#54476](https://github.com/CleverRaven/Cataclysm-DDA/pull/54476))
-* Graphical_Overmap: Fix dangling references ([#54391](https://github.com/CleverRaven/Cataclysm-DDA/pull/54391))
 
 ---
 
@@ -202,11 +207,6 @@
 * Hallucination fixes 2: hallucinogenic boogaloo ([#54425](https://github.com/CleverRaven/Cataclysm-DDA/pull/54425))
 * Routine i18n updates on 15 January 2022 ([#54430](https://github.com/CleverRaven/Cataclysm-DDA/pull/54430))
 * Add myself as widget owner ([#54422](https://github.com/CleverRaven/Cataclysm-DDA/pull/54422))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-15-0404 ([e741c45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-0404))
-
 * Add mending speed and healing rate to bodypart definitions, unhardcode Reptilian Healing ([#54404](https://github.com/CleverRaven/Cataclysm-DDA/pull/54404))
 * Enable "no tiles" builds for MSVC. ([#54401](https://github.com/CleverRaven/Cataclysm-DDA/pull/54401))
 * Skip ccache post-build step if env.SKIP is set like the rest of the steps do. ([#54417](https://github.com/CleverRaven/Cataclysm-DDA/pull/54417))
