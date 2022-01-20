@@ -1,3 +1,9 @@
+* Add a small morale boost for pyromaniacs when setting items on fire ([#54396](https://github.com/CleverRaven/Cataclysm-DDA/pull/54396))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-20-0631 ([13d52d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0631))
+
 * [innawood] flintlocks and cows ([#54596](https://github.com/CleverRaven/Cataclysm-DDA/pull/54596))
 * Aftershock Exoplanet Glacier Layers ([#54595](https://github.com/CleverRaven/Cataclysm-DDA/pull/54595))
 * Add context for better translation ([#54594](https://github.com/CleverRaven/Cataclysm-DDA/pull/54594))
@@ -205,12 +211,6 @@
 
 * Remove JsonSerializer/Deserializer, replace with JsonValue where appropriate. ([#54402](https://github.com/CleverRaven/Cataclysm-DDA/pull/54402))
 * Cata stream subclasses need noexcept move operations. ([#54403](https://github.com/CleverRaven/Cataclysm-DDA/pull/54403))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-14-2240 ([462020b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-2240))
-
 * Make release msvc vcpkg step match the PR equivalent ([#54410](https://github.com/CleverRaven/Cataclysm-DDA/pull/54410))
-* fixed misspelled word ([#54389](https://github.com/CleverRaven/Cataclysm-DDA/pull/54389))
 * Eliminate ~80% of JsonObject copies ([#54399](https://github.com/CleverRaven/Cataclysm-DDA/pull/54399))
 * modular shelter 2 blueprint cleanup ([#54390](https://github.com/CleverRaven/Cataclysm-DDA/pull/54390))

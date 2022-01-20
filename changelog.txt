@@ -1,3 +1,6 @@
+* Add a small morale boost for pyromaniacs when setting items on fire (#54396)
+
+Cataclysm-DDA experimental build 2022-01-20-0631 (13d52d1)
 * [innawood] flintlocks and cows (#54596)
 * Aftershock Exoplanet Glacier Layers (#54595)
 * Add context for better translation (#54594)
@@ -133,9 +136,6 @@ Cataclysm-DDA experimental build 2022-01-15-0404 (e741c45)
 Cataclysm-DDA experimental build 2022-01-15-0048 (28c767d)
 * Remove JsonSerializer/Deserializer, replace with JsonValue where appropriate. (#54402)
 * Cata stream subclasses need noexcept move operations. (#54403)
-
-Cataclysm-DDA experimental build 2022-01-14-2240 (462020b)
 * Make release msvc vcpkg step match the PR equivalent (#54410)
-* fixed misspelled word (#54389)
 * Eliminate ~80% of JsonObject copies (#54399)
 * modular shelter 2 blueprint cleanup (#54390)
