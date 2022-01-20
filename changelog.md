@@ -1,3 +1,5 @@
+* Rename empty_real to empty_with_no_mods and document it better ([#54487](https://github.com/CleverRaven/Cataclysm-DDA/pull/54487))
+* Add tests for picking up items and putting them in pockets ([#54451](https://github.com/CleverRaven/Cataclysm-DDA/pull/54451))
 
 ---
 
@@ -65,7 +67,6 @@
 * Remove unused itype id declaration in pickup.cpp ([#54536](https://github.com/CleverRaven/Cataclysm-DDA/pull/54536))
 * Hopefully fix clang ccache issues with better include flags. ([#54539](https://github.com/CleverRaven/Cataclysm-DDA/pull/54539))
 * Add __pycache__ to .gitignore ([#54540](https://github.com/CleverRaven/Cataclysm-DDA/pull/54540))
-* Steel and Propane spawns ([#54380](https://github.com/CleverRaven/Cataclysm-DDA/pull/54380))
 * Make oven and fridge appliances draggable ([#54521](https://github.com/CleverRaven/Cataclysm-DDA/pull/54521))
 * Make athletic skill description more correct ([#54500](https://github.com/CleverRaven/Cataclysm-DDA/pull/54500))
 * Smartphone grammar/word choice fix ([#54484](https://github.com/CleverRaven/Cataclysm-DDA/pull/54484))
@@ -218,4 +219,3 @@
 * modular shelter 2 blueprint cleanup ([#54390](https://github.com/CleverRaven/Cataclysm-DDA/pull/54390))
 * Construct fire ring without shallow pit ([#54386](https://github.com/CleverRaven/Cataclysm-DDA/pull/54386))
 * Paramater agreement ([#54381](https://github.com/CleverRaven/Cataclysm-DDA/pull/54381))
-* Fix timestamp generation ([#54379](https://github.com/CleverRaven/Cataclysm-DDA/pull/54379))
