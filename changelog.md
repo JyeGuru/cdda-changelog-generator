@@ -129,12 +129,6 @@
 * Bodypart secondary types ([#54478](https://github.com/CleverRaven/Cataclysm-DDA/pull/54478))
 * Fix Mycogenesis error ([#54480](https://github.com/CleverRaven/Cataclysm-DDA/pull/54480))
 * Update tilesets 22-01-16 ([#54481](https://github.com/CleverRaven/Cataclysm-DDA/pull/54481))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-16-1828 ([abda7ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-16-1828))
-
-* Expanded plate mail pt 3 ([#54377](https://github.com/CleverRaven/Cataclysm-DDA/pull/54377))
 * Fix compile error on Clang 6 ([#54446](https://github.com/CleverRaven/Cataclysm-DDA/pull/54446))
 
 ---

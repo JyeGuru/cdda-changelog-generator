@@ -84,9 +84,6 @@ Cataclysm-DDA experimental build 2022-01-16-1932 (e49949d)
 * Bodypart secondary types (#54478)
 * Fix Mycogenesis error (#54480)
 * Update tilesets 22-01-16 (#54481)
-
-Cataclysm-DDA experimental build 2022-01-16-1828 (abda7ad)
-* Expanded plate mail pt 3 (#54377)
 * Fix compile error on Clang 6 (#54446)
 
 Cataclysm-DDA experimental build 2022-01-16-0703 (c464191)
