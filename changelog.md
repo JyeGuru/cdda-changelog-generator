@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-20-0235 ([1d1fa66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0235))
+
+* Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
+* Tetanus Fix and Visibility ([#54587](https://github.com/CleverRaven/Cataclysm-DDA/pull/54587))
+* Dynamic height for multi-line widgets ([#54537](https://github.com/CleverRaven/Cataclysm-DDA/pull/54537))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-20-0041 ([ed73323](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0041))
+
+* Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-19-2259 ([6c1a4d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-2259))
 
 * Portal Storm change warnings ([#54559](https://github.com/CleverRaven/Cataclysm-DDA/pull/54559))
@@ -206,22 +220,8 @@
 
 * fixed misspelled word ([#54389](https://github.com/CleverRaven/Cataclysm-DDA/pull/54389))
 * Eliminate ~80% of JsonObject copies ([#54399](https://github.com/CleverRaven/Cataclysm-DDA/pull/54399))
-* Refactor case-sensitive list menu filter ([#54370](https://github.com/CleverRaven/Cataclysm-DDA/pull/54370))
 * Fix excessive Tinder Production in Copper Circlet recipe. ([#54388](https://github.com/CleverRaven/Cataclysm-DDA/pull/54388))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-14-1847 ([faf0f84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-1847))
-
 * modular shelter 2 blueprint cleanup ([#54390](https://github.com/CleverRaven/Cataclysm-DDA/pull/54390))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-14-0756 ([380414c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-0756))
-
 * Construct fire ring without shallow pit ([#54386](https://github.com/CleverRaven/Cataclysm-DDA/pull/54386))
 * Paramater agreement ([#54381](https://github.com/CleverRaven/Cataclysm-DDA/pull/54381))
-* Cleanup some random clang-tidy errors. ([#54374](https://github.com/CleverRaven/Cataclysm-DDA/pull/54374))
 * Fix timestamp generation ([#54379](https://github.com/CleverRaven/Cataclysm-DDA/pull/54379))
-* Speed up JSON style check in general build matrix  ([#54375](https://github.com/CleverRaven/Cataclysm-DDA/pull/54375))
-* modular shelter 1 blueprint cleanup ([#54371](https://github.com/CleverRaven/Cataclysm-DDA/pull/54371))

@@ -1,4 +1,12 @@
 
+Cataclysm-DDA experimental build 2022-01-20-0235 (1d1fa66)
+* Eggnog is delicious when hot and can be made with powdered eggs (#54586)
+* Tetanus Fix and Visibility (#54587)
+* Dynamic height for multi-line widgets (#54537)
+
+Cataclysm-DDA experimental build 2022-01-20-0041 (ed73323)
+* Just keep raising cache limits to keep the eviction demons away. (#54583)
+
 Cataclysm-DDA experimental build 2022-01-19-2259 (6c1a4d0)
 * Portal Storm change warnings (#54559)
 * Print qualities of tool furniture that has them (#54562)
@@ -131,16 +139,8 @@ Cataclysm-DDA experimental build 2022-01-14-2240 (462020b)
 Cataclysm-DDA experimental build 2022-01-14-2023 (46ce8f1)
 * fixed misspelled word (#54389)
 * Eliminate ~80% of JsonObject copies (#54399)
-* Refactor case-sensitive list menu filter (#54370)
 * Fix excessive Tinder Production in Copper Circlet recipe. (#54388)
-
-Cataclysm-DDA experimental build 2022-01-14-1847 (faf0f84)
 * modular shelter 2 blueprint cleanup (#54390)
-
-Cataclysm-DDA experimental build 2022-01-14-0756 (380414c)
 * Construct fire ring without shallow pit (#54386)
 * Paramater agreement (#54381)
-* Cleanup some random clang-tidy errors. (#54374)
 * Fix timestamp generation (#54379)
-* Speed up JSON style check in general build matrix  (#54375)
-* modular shelter 1 blueprint cleanup (#54371)
