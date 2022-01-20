@@ -1,4 +1,14 @@
+* [innawood] flintlocks and cows ([#54596](https://github.com/CleverRaven/Cataclysm-DDA/pull/54596))
+* Aftershock Exoplanet Glacier Layers ([#54595](https://github.com/CleverRaven/Cataclysm-DDA/pull/54595))
+* Add context for better translation ([#54594](https://github.com/CleverRaven/Cataclysm-DDA/pull/54594))
+* Fix for Limousine spawning with no muffler ([#54581](https://github.com/CleverRaven/Cataclysm-DDA/pull/54581))
+* Dialogue can embed any Avatar or NPC variable in the line as a tag ([#54572](https://github.com/CleverRaven/Cataclysm-DDA/pull/54572))
 * Rename empty_real to empty_with_no_mods and document it better ([#54487](https://github.com/CleverRaven/Cataclysm-DDA/pull/54487))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-20-0455 ([c5db025](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0455))
+
 * Add tests for picking up items and putting them in pockets ([#54451](https://github.com/CleverRaven/Cataclysm-DDA/pull/54451))
 
 ---
@@ -51,7 +61,6 @@
 * Add mapgen ability to set variables or remove traps in lines/squares.  ([#54523](https://github.com/CleverRaven/Cataclysm-DDA/pull/54523))
 * Allow tool charged_qualities to work with UPS battery mod ([#54494](https://github.com/CleverRaven/Cataclysm-DDA/pull/54494))
 * Add vegetable oil press ([#54467](https://github.com/CleverRaven/Cataclysm-DDA/pull/54467))
-* Aftershock Exoplanet: Glacial tunnels ([#54385](https://github.com/CleverRaven/Cataclysm-DDA/pull/54385))
 
 ---
 
@@ -176,12 +185,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-01-15-0823 ([f1997bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-0823))
-
-* Add baseball recipe ([#54384](https://github.com/CleverRaven/Cataclysm-DDA/pull/54384))
-
----
-
 #### Cataclysm-DDA experimental build 2022-01-15-0639 ([e62f9be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-0639))
 
 * Hallucination fixes 2: hallucinogenic boogaloo ([#54425](https://github.com/CleverRaven/Cataclysm-DDA/pull/54425))
@@ -208,14 +211,6 @@
 #### Cataclysm-DDA experimental build 2022-01-14-2240 ([462020b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-2240))
 
 * Make release msvc vcpkg step match the PR equivalent ([#54410](https://github.com/CleverRaven/Cataclysm-DDA/pull/54410))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-14-2023 ([46ce8f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-14-2023))
-
 * fixed misspelled word ([#54389](https://github.com/CleverRaven/Cataclysm-DDA/pull/54389))
 * Eliminate ~80% of JsonObject copies ([#54399](https://github.com/CleverRaven/Cataclysm-DDA/pull/54399))
-* Fix excessive Tinder Production in Copper Circlet recipe. ([#54388](https://github.com/CleverRaven/Cataclysm-DDA/pull/54388))
 * modular shelter 2 blueprint cleanup ([#54390](https://github.com/CleverRaven/Cataclysm-DDA/pull/54390))
-* Construct fire ring without shallow pit ([#54386](https://github.com/CleverRaven/Cataclysm-DDA/pull/54386))
-* Paramater agreement ([#54381](https://github.com/CleverRaven/Cataclysm-DDA/pull/54381))

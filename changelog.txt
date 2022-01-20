@@ -1,4 +1,11 @@
+* [innawood] flintlocks and cows (#54596)
+* Aftershock Exoplanet Glacier Layers (#54595)
+* Add context for better translation (#54594)
+* Fix for Limousine spawning with no muffler (#54581)
+* Dialogue can embed any Avatar or NPC variable in the line as a tag (#54572)
 * Rename empty_real to empty_with_no_mods and document it better (#54487)
+
+Cataclysm-DDA experimental build 2022-01-20-0455 (c5db025)
 * Add tests for picking up items and putting them in pockets (#54451)
 
 Cataclysm-DDA experimental build 2022-01-20-0235 (1d1fa66)
@@ -33,7 +40,6 @@ Cataclysm-DDA experimental build 2022-01-19-0641 (3eb84f6)
 * Add mapgen ability to set variables or remove traps in lines/squares.  (#54523)
 * Allow tool charged_qualities to work with UPS battery mod (#54494)
 * Add vegetable oil press (#54467)
-* Aftershock Exoplanet: Glacial tunnels (#54385)
 
 Cataclysm-DDA experimental build 2022-01-19-0456 (840220f)
 * A modest ccache proposal (#54558)
@@ -114,9 +120,6 @@ Cataclysm-DDA experimental build 2022-01-15-2012 (8661ac4)
 Cataclysm-DDA experimental build 2022-01-15-1927 (a52fd9c)
 * Fix color tags in item search. (#54442)
 
-Cataclysm-DDA experimental build 2022-01-15-0823 (f1997bf)
-* Add baseball recipe (#54384)
-
 Cataclysm-DDA experimental build 2022-01-15-0639 (e62f9be)
 * Hallucination fixes 2: hallucinogenic boogaloo (#54425)
 * Routine i18n updates on 15 January 2022 (#54430)
@@ -133,11 +136,6 @@ Cataclysm-DDA experimental build 2022-01-15-0048 (28c767d)
 
 Cataclysm-DDA experimental build 2022-01-14-2240 (462020b)
 * Make release msvc vcpkg step match the PR equivalent (#54410)
-
-Cataclysm-DDA experimental build 2022-01-14-2023 (46ce8f1)
 * fixed misspelled word (#54389)
 * Eliminate ~80% of JsonObject copies (#54399)
-* Fix excessive Tinder Production in Copper Circlet recipe. (#54388)
 * modular shelter 2 blueprint cleanup (#54390)
-* Construct fire ring without shallow pit (#54386)
-* Paramater agreement (#54381)
