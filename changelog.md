@@ -1,4 +1,10 @@
+* Update monster deaths to return nullptr ([#54632](https://github.com/CleverRaven/Cataclysm-DDA/pull/54632))
 * Add 'no-c-format' hint in JSON flag translations ([#54637](https://github.com/CleverRaven/Cataclysm-DDA/pull/54637))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-21-1842 ([09fc8ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-1842))
+
 * Fix clang-tidy warning in faction.cpp ([#54633](https://github.com/CleverRaven/Cataclysm-DDA/pull/54633))
 * Explicitly state loop of rope's max item length ([#54630](https://github.com/CleverRaven/Cataclysm-DDA/pull/54630))
 * Fix compile error on OpenBSD ([#54629](https://github.com/CleverRaven/Cataclysm-DDA/pull/54629))
@@ -207,6 +213,5 @@
 * Fix some spelling and formatting of Artisan stuff ([#54459](https://github.com/CleverRaven/Cataclysm-DDA/pull/54459))
 * Atomic Pitchman Fix ([#54458](https://github.com/CleverRaven/Cataclysm-DDA/pull/54458))
 * [typo] "thorough" -> "through" in description of "Surrounded" scenario ([#54454](https://github.com/CleverRaven/Cataclysm-DDA/pull/54454))
-* GraphicalOvermap: helipad is not a survivor's camp ([#54438](https://github.com/CleverRaven/Cataclysm-DDA/pull/54438))
 * Fix a MSVC type conversion warning in sun_test.cpp ([#54444](https://github.com/CleverRaven/Cataclysm-DDA/pull/54444))
 * Fix color tags in item search. ([#54442](https://github.com/CleverRaven/Cataclysm-DDA/pull/54442))
