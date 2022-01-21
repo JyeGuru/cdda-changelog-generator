@@ -1,3 +1,30 @@
+* Make armor materials translate to item materials ([#54470](https://github.com/CleverRaven/Cataclysm-DDA/pull/54470))
+* Clarify the description of MISSION_REFUGEE_Boris_WORKSPACE ([#54626](https://github.com/CleverRaven/Cataclysm-DDA/pull/54626))
+* Ferns to no longer be harvested when auto-forage is set to bushes ([#54601](https://github.com/CleverRaven/Cataclysm-DDA/pull/54601))
+* New Bastion Fort starting scenario ([#54598](https://github.com/CleverRaven/Cataclysm-DDA/pull/54598))
+* Shifting fixes ([#54590](https://github.com/CleverRaven/Cataclysm-DDA/pull/54590))
+* Migrate ACT_FIRSTAID to the new activity actor system. ([#54567](https://github.com/CleverRaven/Cataclysm-DDA/pull/54567))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-21-0543 ([cba81ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-0543))
+
+* Slightly rework ledges, allow Web Diver to rappel down Z-levels, add a character flag to climb up/down walls ([#54555](https://github.com/CleverRaven/Cataclysm-DDA/pull/54555))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-21-0035 ([62a046c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-0035))
+
+* Snippets "LORE" Tab ([#54499](https://github.com/CleverRaven/Cataclysm-DDA/pull/54499))
+* Allow mutagens to add vitamins ([#54610](https://github.com/CleverRaven/Cataclysm-DDA/pull/54610))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-20-2319 ([df944a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-2319))
+
+* added disassembly for tanned pelt ([#54612](https://github.com/CleverRaven/Cataclysm-DDA/pull/54612))
+* Do a load test for just aftershock ([#54614](https://github.com/CleverRaven/Cataclysm-DDA/pull/54614))
+* Don't cancel running master builds ([#54617](https://github.com/CleverRaven/Cataclysm-DDA/pull/54617))
 
 ---
 
@@ -10,7 +37,6 @@
 #### Cataclysm-DDA experimental build 2022-01-20-0836 ([372311f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0836))
 
 * Add sticks to wood saw recipe ([#54597](https://github.com/CleverRaven/Cataclysm-DDA/pull/54597))
-* Add a small morale boost for pyromaniacs when setting items on fire ([#54396](https://github.com/CleverRaven/Cataclysm-DDA/pull/54396))
 
 ---
 
@@ -127,12 +153,6 @@
 #### Cataclysm-DDA experimental build 2022-01-17-1621 ([dc02e84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-17-1621))
 
 * Buff gelato a bit ([#54490](https://github.com/CleverRaven/Cataclysm-DDA/pull/54490))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-17-0932 ([1e91f34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-17-0932))
-
-* [ui] Provide (r)eset filter keybinding on inventory screens ([#54413](https://github.com/CleverRaven/Cataclysm-DDA/pull/54413))
 * Add dialog functions for vitamins ([#54483](https://github.com/CleverRaven/Cataclysm-DDA/pull/54483))
 * Add ability to transform traps and fields ([#54491](https://github.com/CleverRaven/Cataclysm-DDA/pull/54491))
 
@@ -168,15 +188,7 @@
 * Fix some spelling and formatting of Artisan stuff ([#54459](https://github.com/CleverRaven/Cataclysm-DDA/pull/54459))
 * Atomic Pitchman Fix ([#54458](https://github.com/CleverRaven/Cataclysm-DDA/pull/54458))
 * [typo] "thorough" -> "through" in description of "Surrounded" scenario ([#54454](https://github.com/CleverRaven/Cataclysm-DDA/pull/54454))
-* Isolated Artisans: Jays vest always has ballistic plates ([#54394](https://github.com/CleverRaven/Cataclysm-DDA/pull/54394))
 * Basic EMF Detector ([#54428](https://github.com/CleverRaven/Cataclysm-DDA/pull/54428))
-* Don't insinuate that condoms are always rigid ([#54418](https://github.com/CleverRaven/Cataclysm-DDA/pull/54418))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-16-0556 ([3a0641e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-16-0556))
-
-* Martial art tech effect custom messages, gate tech effects behind arbitrary character flags ([#54414](https://github.com/CleverRaven/Cataclysm-DDA/pull/54414))
 
 ---
 
@@ -193,24 +205,7 @@
 
 * GraphicalOvermap: helipad is not a survivor's camp ([#54438](https://github.com/CleverRaven/Cataclysm-DDA/pull/54438))
 * Fix a MSVC type conversion warning in sun_test.cpp ([#54444](https://github.com/CleverRaven/Cataclysm-DDA/pull/54444))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-15-1927 ([a52fd9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-1927))
-
 * Fix color tags in item search. ([#54442](https://github.com/CleverRaven/Cataclysm-DDA/pull/54442))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-15-0639 ([e62f9be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-0639))
-
 * Hallucination fixes 2: hallucinogenic boogaloo ([#54425](https://github.com/CleverRaven/Cataclysm-DDA/pull/54425))
 * Routine i18n updates on 15 January 2022 ([#54430](https://github.com/CleverRaven/Cataclysm-DDA/pull/54430))
 * Add myself as widget owner ([#54422](https://github.com/CleverRaven/Cataclysm-DDA/pull/54422))
-* Add mending speed and healing rate to bodypart definitions, unhardcode Reptilian Healing ([#54404](https://github.com/CleverRaven/Cataclysm-DDA/pull/54404))
-* Enable "no tiles" builds for MSVC. ([#54401](https://github.com/CleverRaven/Cataclysm-DDA/pull/54401))
-* Skip ccache post-build step if env.SKIP is set like the rest of the steps do. ([#54417](https://github.com/CleverRaven/Cataclysm-DDA/pull/54417))
-* Remove JsonSerializer/Deserializer, replace with JsonValue where appropriate. ([#54402](https://github.com/CleverRaven/Cataclysm-DDA/pull/54402))
-* Cata stream subclasses need noexcept move operations. ([#54403](https://github.com/CleverRaven/Cataclysm-DDA/pull/54403))
-* Make release msvc vcpkg step match the PR equivalent ([#54410](https://github.com/CleverRaven/Cataclysm-DDA/pull/54410))
-* Eliminate ~80% of JsonObject copies ([#54399](https://github.com/CleverRaven/Cataclysm-DDA/pull/54399))
