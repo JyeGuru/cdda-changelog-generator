@@ -1,3 +1,4 @@
+* Do shallow clone in pull translations workflow (#54645)
 
 Cataclysm-DDA experimental build 2022-01-21-1955 (5ac1a12)
 * Update monster deaths to return nullptr (#54632)

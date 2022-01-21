@@ -1,3 +1,4 @@
+* Do shallow clone in pull translations workflow ([#54645](https://github.com/CleverRaven/Cataclysm-DDA/pull/54645))
 
 ---
 
