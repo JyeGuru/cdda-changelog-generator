@@ -1,3 +1,5 @@
+* Fix zones save load ([#54541](https://github.com/CleverRaven/Cataclysm-DDA/pull/54541))
+* Bodypart status widget: Symbols + Legend ([#54531](https://github.com/CleverRaven/Cataclysm-DDA/pull/54531))
 * Make armor materials translate to item materials ([#54470](https://github.com/CleverRaven/Cataclysm-DDA/pull/54470))
 * Clarify the description of MISSION_REFUGEE_Boris_WORKSPACE ([#54626](https://github.com/CleverRaven/Cataclysm-DDA/pull/54626))
 * Ferns to no longer be harvested when auto-forage is set to bushes ([#54601](https://github.com/CleverRaven/Cataclysm-DDA/pull/54601))
@@ -206,6 +208,4 @@
 * GraphicalOvermap: helipad is not a survivor's camp ([#54438](https://github.com/CleverRaven/Cataclysm-DDA/pull/54438))
 * Fix a MSVC type conversion warning in sun_test.cpp ([#54444](https://github.com/CleverRaven/Cataclysm-DDA/pull/54444))
 * Fix color tags in item search. ([#54442](https://github.com/CleverRaven/Cataclysm-DDA/pull/54442))
-* Hallucination fixes 2: hallucinogenic boogaloo ([#54425](https://github.com/CleverRaven/Cataclysm-DDA/pull/54425))
 * Routine i18n updates on 15 January 2022 ([#54430](https://github.com/CleverRaven/Cataclysm-DDA/pull/54430))
-* Add myself as widget owner ([#54422](https://github.com/CleverRaven/Cataclysm-DDA/pull/54422))
