@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-21-0728 (a3d494f)
 * Fix zones save load (#54541)
 * Bodypart status widget: Symbols + Legend (#54531)
 * Make armor materials translate to item materials (#54470)
@@ -131,8 +133,6 @@ Cataclysm-DDA experimental build 2022-01-15-2113 (43f202e)
 * Move remaining display functions out of panels.cpp (#54432)
 * Separate build step and test step in GitHub Actions build matrix (#54435)
 * Make wild yeast from honey (#54437)
-
-Cataclysm-DDA experimental build 2022-01-15-2012 (8661ac4)
 * GraphicalOvermap: helipad is not a survivor's camp (#54438)
 * Fix a MSVC type conversion warning in sun_test.cpp (#54444)
 * Fix color tags in item search. (#54442)

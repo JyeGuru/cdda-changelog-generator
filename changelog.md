@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-21-0728 ([a3d494f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-0728))
+
 * Fix zones save load ([#54541](https://github.com/CleverRaven/Cataclysm-DDA/pull/54541))
 * Bodypart status widget: Symbols + Legend ([#54531](https://github.com/CleverRaven/Cataclysm-DDA/pull/54531))
 * Make armor materials translate to item materials ([#54470](https://github.com/CleverRaven/Cataclysm-DDA/pull/54470))
@@ -200,11 +205,6 @@
 * Move remaining display functions out of panels.cpp ([#54432](https://github.com/CleverRaven/Cataclysm-DDA/pull/54432))
 * Separate build step and test step in GitHub Actions build matrix ([#54435](https://github.com/CleverRaven/Cataclysm-DDA/pull/54435))
 * Make wild yeast from honey ([#54437](https://github.com/CleverRaven/Cataclysm-DDA/pull/54437))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-15-2012 ([8661ac4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-2012))
-
 * GraphicalOvermap: helipad is not a survivor's camp ([#54438](https://github.com/CleverRaven/Cataclysm-DDA/pull/54438))
 * Fix a MSVC type conversion warning in sun_test.cpp ([#54444](https://github.com/CleverRaven/Cataclysm-DDA/pull/54444))
 * Fix color tags in item search. ([#54442](https://github.com/CleverRaven/Cataclysm-DDA/pull/54442))
