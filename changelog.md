@@ -1,3 +1,15 @@
+* Add 'no-c-format' hint in JSON flag translations ([#54637](https://github.com/CleverRaven/Cataclysm-DDA/pull/54637))
+* Fix clang-tidy warning in faction.cpp ([#54633](https://github.com/CleverRaven/Cataclysm-DDA/pull/54633))
+* Explicitly state loop of rope's max item length ([#54630](https://github.com/CleverRaven/Cataclysm-DDA/pull/54630))
+* Fix compile error on OpenBSD ([#54629](https://github.com/CleverRaven/Cataclysm-DDA/pull/54629))
+* [innawood] Makes crossbows autolearn ([#54607](https://github.com/CleverRaven/Cataclysm-DDA/pull/54607))
+* Migrate ACT_MOP to the new activity actor system. ([#54591](https://github.com/CleverRaven/Cataclysm-DDA/pull/54591))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-21-1741 ([60079bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-1741))
+
+* Initialize avatar position on game start ([#54571](https://github.com/CleverRaven/Cataclysm-DDA/pull/54571))
 
 ---
 
@@ -195,17 +207,6 @@
 * Fix some spelling and formatting of Artisan stuff ([#54459](https://github.com/CleverRaven/Cataclysm-DDA/pull/54459))
 * Atomic Pitchman Fix ([#54458](https://github.com/CleverRaven/Cataclysm-DDA/pull/54458))
 * [typo] "thorough" -> "through" in description of "Surrounded" scenario ([#54454](https://github.com/CleverRaven/Cataclysm-DDA/pull/54454))
-* Basic EMF Detector ([#54428](https://github.com/CleverRaven/Cataclysm-DDA/pull/54428))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-15-2113 ([43f202e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-15-2113))
-
-* Upcycled Turrets Are Now Robots ([#54429](https://github.com/CleverRaven/Cataclysm-DDA/pull/54429))
-* Move remaining display functions out of panels.cpp ([#54432](https://github.com/CleverRaven/Cataclysm-DDA/pull/54432))
-* Separate build step and test step in GitHub Actions build matrix ([#54435](https://github.com/CleverRaven/Cataclysm-DDA/pull/54435))
-* Make wild yeast from honey ([#54437](https://github.com/CleverRaven/Cataclysm-DDA/pull/54437))
 * GraphicalOvermap: helipad is not a survivor's camp ([#54438](https://github.com/CleverRaven/Cataclysm-DDA/pull/54438))
 * Fix a MSVC type conversion warning in sun_test.cpp ([#54444](https://github.com/CleverRaven/Cataclysm-DDA/pull/54444))
 * Fix color tags in item search. ([#54442](https://github.com/CleverRaven/Cataclysm-DDA/pull/54442))
-* Routine i18n updates on 15 January 2022 ([#54430](https://github.com/CleverRaven/Cataclysm-DDA/pull/54430))
