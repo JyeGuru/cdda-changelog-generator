@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-21-1955 ([5ac1a12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-1955))
+
 * Update monster deaths to return nullptr ([#54632](https://github.com/CleverRaven/Cataclysm-DDA/pull/54632))
 * Add 'no-c-format' hint in JSON flag translations ([#54637](https://github.com/CleverRaven/Cataclysm-DDA/pull/54637))
 

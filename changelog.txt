@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-21-1955 (5ac1a12)
 * Update monster deaths to return nullptr (#54632)
 * Add 'no-c-format' hint in JSON flag translations (#54637)
 
