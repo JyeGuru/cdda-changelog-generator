@@ -1,3 +1,9 @@
+* Add text widget to show move count and mode (#54623)
+* Bombardier boomer (#54615)
+
+Cataclysm-DDA experimental build 2022-01-21-2341 (2f4c5a5)
+* Standardize Layer Names (#54640)
+* Chain push translation template workflow after experimental release (#54644)
 * Do shallow clone in pull translations workflow (#54645)
 
 Cataclysm-DDA experimental build 2022-01-21-1955 (5ac1a12)
@@ -100,7 +106,6 @@ Cataclysm-DDA experimental build 2022-01-18-0852 (98a8e80)
 
 Cataclysm-DDA experimental build 2022-01-18-0727 (bb20c4d)
 * Portal map extra jsonify (#54514)
-* Migrate ACT_FORAGE to the new activity actor system. (#54441)
 
 Cataclysm-DDA experimental build 2022-01-18-0550 (8fe7f90)
 * [Innawood] Bloomery uses charcoal as ammo (#54510)
@@ -132,14 +137,9 @@ Cataclysm-DDA experimental build 2022-01-16-1932 (e49949d)
 * Bodypart secondary types (#54478)
 * Fix Mycogenesis error (#54480)
 * Update tilesets 22-01-16 (#54481)
-* Fix compile error on Clang 6 (#54446)
-
-Cataclysm-DDA experimental build 2022-01-16-0703 (c464191)
 * Translate remains/max length in inventory ui (#54464)
 * Fix #54224 and #54219 (#54462)
 * Update rural mapgen regional biome settings (#54460)
 * Fix some spelling and formatting of Artisan stuff (#54459)
 * Atomic Pitchman Fix (#54458)
 * [typo] "thorough" -> "through" in description of "Surrounded" scenario (#54454)
-* Fix a MSVC type conversion warning in sun_test.cpp (#54444)
-* Fix color tags in item search. (#54442)

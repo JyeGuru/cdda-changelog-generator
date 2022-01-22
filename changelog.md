@@ -1,3 +1,12 @@
+* Add text widget to show move count and mode ([#54623](https://github.com/CleverRaven/Cataclysm-DDA/pull/54623))
+* Bombardier boomer ([#54615](https://github.com/CleverRaven/Cataclysm-DDA/pull/54615))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-21-2341 ([2f4c5a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-2341))
+
+* Standardize Layer Names ([#54640](https://github.com/CleverRaven/Cataclysm-DDA/pull/54640))
+* Chain push translation template workflow after experimental release ([#54644](https://github.com/CleverRaven/Cataclysm-DDA/pull/54644))
 * Do shallow clone in pull translations workflow ([#54645](https://github.com/CleverRaven/Cataclysm-DDA/pull/54645))
 
 ---
@@ -160,7 +169,6 @@
 #### Cataclysm-DDA experimental build 2022-01-18-0727 ([bb20c4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-18-0727))
 
 * Portal map extra jsonify ([#54514](https://github.com/CleverRaven/Cataclysm-DDA/pull/54514))
-* Migrate ACT_FORAGE to the new activity actor system. ([#54441](https://github.com/CleverRaven/Cataclysm-DDA/pull/54441))
 
 ---
 
@@ -207,17 +215,9 @@
 * Bodypart secondary types ([#54478](https://github.com/CleverRaven/Cataclysm-DDA/pull/54478))
 * Fix Mycogenesis error ([#54480](https://github.com/CleverRaven/Cataclysm-DDA/pull/54480))
 * Update tilesets 22-01-16 ([#54481](https://github.com/CleverRaven/Cataclysm-DDA/pull/54481))
-* Fix compile error on Clang 6 ([#54446](https://github.com/CleverRaven/Cataclysm-DDA/pull/54446))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-16-0703 ([c464191](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-16-0703))
-
 * Translate remains/max length in inventory ui ([#54464](https://github.com/CleverRaven/Cataclysm-DDA/pull/54464))
 * Fix #54224 and #54219 ([#54462](https://github.com/CleverRaven/Cataclysm-DDA/pull/54462))
 * Update rural mapgen regional biome settings ([#54460](https://github.com/CleverRaven/Cataclysm-DDA/pull/54460))
 * Fix some spelling and formatting of Artisan stuff ([#54459](https://github.com/CleverRaven/Cataclysm-DDA/pull/54459))
 * Atomic Pitchman Fix ([#54458](https://github.com/CleverRaven/Cataclysm-DDA/pull/54458))
 * [typo] "thorough" -> "through" in description of "Surrounded" scenario ([#54454](https://github.com/CleverRaven/Cataclysm-DDA/pull/54454))
-* Fix a MSVC type conversion warning in sun_test.cpp ([#54444](https://github.com/CleverRaven/Cataclysm-DDA/pull/54444))
-* Fix color tags in item search. ([#54442](https://github.com/CleverRaven/Cataclysm-DDA/pull/54442))
