@@ -1,3 +1,9 @@
+* Gave the blood cookbook spawn locations ([#54680](https://github.com/CleverRaven/Cataclysm-DDA/pull/54680))
+* Remove slime glob from mutagen recipe ([#54679](https://github.com/CleverRaven/Cataclysm-DDA/pull/54679))
+* Nerf suits and bathrobes ([#54676](https://github.com/CleverRaven/Cataclysm-DDA/pull/54676))
+* Made the armor UI even more verbose in extreme situations ([#54671](https://github.com/CleverRaven/Cataclysm-DDA/pull/54671))
+* Updated mapgen-test ([#54669](https://github.com/CleverRaven/Cataclysm-DDA/pull/54669))
+* bombardier boomer polishing ([#54668](https://github.com/CleverRaven/Cataclysm-DDA/pull/54668))
 * Add gambeson arming pants ([#54665](https://github.com/CleverRaven/Cataclysm-DDA/pull/54665))
 * Combine wheat-free and wheat-full flours into a single recipe requirement ([#54663](https://github.com/CleverRaven/Cataclysm-DDA/pull/54663))
 * change t_screen_door_o from + to . ([#54662](https://github.com/CleverRaven/Cataclysm-DDA/pull/54662))
@@ -57,7 +63,6 @@
 
 * Fix zones save load ([#54541](https://github.com/CleverRaven/Cataclysm-DDA/pull/54541))
 * Bodypart status widget: Symbols + Legend ([#54531](https://github.com/CleverRaven/Cataclysm-DDA/pull/54531))
-* Make armor materials translate to item materials ([#54470](https://github.com/CleverRaven/Cataclysm-DDA/pull/54470))
 * Clarify the description of MISSION_REFUGEE_Boris_WORKSPACE ([#54626](https://github.com/CleverRaven/Cataclysm-DDA/pull/54626))
 * Ferns to no longer be harvested when auto-forage is set to bushes ([#54601](https://github.com/CleverRaven/Cataclysm-DDA/pull/54601))
 * New Bastion Fort starting scenario ([#54598](https://github.com/CleverRaven/Cataclysm-DDA/pull/54598))
@@ -157,7 +162,6 @@
 * Reduce Wasps Nest spawns in forests ([#54528](https://github.com/CleverRaven/Cataclysm-DDA/pull/54528))
 * Add mapgen ability to set variables or remove traps in lines/squares.  ([#54523](https://github.com/CleverRaven/Cataclysm-DDA/pull/54523))
 * Allow tool charged_qualities to work with UPS battery mod ([#54494](https://github.com/CleverRaven/Cataclysm-DDA/pull/54494))
-* Add vegetable oil press ([#54467](https://github.com/CleverRaven/Cataclysm-DDA/pull/54467))
 
 ---
 
@@ -218,7 +222,5 @@
 * Make EOC popups allow activity interruption ([#54486](https://github.com/CleverRaven/Cataclysm-DDA/pull/54486))
 * Add context for gravel and sand ([#54485](https://github.com/CleverRaven/Cataclysm-DDA/pull/54485))
 * Clear weather override on game end ([#54482](https://github.com/CleverRaven/Cataclysm-DDA/pull/54482))
-* [CR] Replaced worded direction with direction arrow in "Climb where" menu ([#54476](https://github.com/CleverRaven/Cataclysm-DDA/pull/54476))
-* Bodypart secondary types ([#54478](https://github.com/CleverRaven/Cataclysm-DDA/pull/54478))
 * Fix Mycogenesis error ([#54480](https://github.com/CleverRaven/Cataclysm-DDA/pull/54480))
 * Update tilesets 22-01-16 ([#54481](https://github.com/CleverRaven/Cataclysm-DDA/pull/54481))
