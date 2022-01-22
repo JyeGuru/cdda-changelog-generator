@@ -1,3 +1,11 @@
+* Add gambeson arming pants ([#54665](https://github.com/CleverRaven/Cataclysm-DDA/pull/54665))
+* Combine wheat-free and wheat-full flours into a single recipe requirement ([#54663](https://github.com/CleverRaven/Cataclysm-DDA/pull/54663))
+* change t_screen_door_o from + to . ([#54662](https://github.com/CleverRaven/Cataclysm-DDA/pull/54662))
+* Routine i18n updates on 22 January 2022 ([#54656](https://github.com/CleverRaven/Cataclysm-DDA/pull/54656))
+* Make "You mess up and destroy the <ITEM>" message considered bad ([#54653](https://github.com/CleverRaven/Cataclysm-DDA/pull/54653))
+* added emf detector to Paranormal Investigator ([#54651](https://github.com/CleverRaven/Cataclysm-DDA/pull/54651))
+* Widget Alignment ([#54628](https://github.com/CleverRaven/Cataclysm-DDA/pull/54628))
+* Steel to steel ([#54606](https://github.com/CleverRaven/Cataclysm-DDA/pull/54606))
 
 ---
 
@@ -102,12 +110,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-01-20-0455 ([c5db025](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0455))
-
-* Add tests for picking up items and putting them in pockets ([#54451](https://github.com/CleverRaven/Cataclysm-DDA/pull/54451))
-
----
-
 #### Cataclysm-DDA experimental build 2022-01-20-0235 ([1d1fa66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0235))
 
 * Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
@@ -187,7 +189,6 @@
 
 * [Innawood] Bloomery uses charcoal as ammo ([#54510](https://github.com/CleverRaven/Cataclysm-DDA/pull/54510))
 * fixes#54183 ([#54488](https://github.com/CleverRaven/Cataclysm-DDA/pull/54488))
-* [ui] Enhance safe mode messages with color and information about monster count/direction ([#54461](https://github.com/CleverRaven/Cataclysm-DDA/pull/54461))
 * [UI] Increase contrast for highlighted items in character creation UI ([#54530](https://github.com/CleverRaven/Cataclysm-DDA/pull/54530))
 * [UI] Use white instead of light gray for highlighted tabs to increase contrast ([#54526](https://github.com/CleverRaven/Cataclysm-DDA/pull/54526))
 * [UI] Provide (r)eset filter keybinding on character creation screen ([#54533](https://github.com/CleverRaven/Cataclysm-DDA/pull/54533))
@@ -218,17 +219,6 @@
 * Add context for gravel and sand ([#54485](https://github.com/CleverRaven/Cataclysm-DDA/pull/54485))
 * Clear weather override on game end ([#54482](https://github.com/CleverRaven/Cataclysm-DDA/pull/54482))
 * [CR] Replaced worded direction with direction arrow in "Climb where" menu ([#54476](https://github.com/CleverRaven/Cataclysm-DDA/pull/54476))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-16-1932 ([e49949d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-16-1932))
-
 * Bodypart secondary types ([#54478](https://github.com/CleverRaven/Cataclysm-DDA/pull/54478))
 * Fix Mycogenesis error ([#54480](https://github.com/CleverRaven/Cataclysm-DDA/pull/54480))
 * Update tilesets 22-01-16 ([#54481](https://github.com/CleverRaven/Cataclysm-DDA/pull/54481))
-* Translate remains/max length in inventory ui ([#54464](https://github.com/CleverRaven/Cataclysm-DDA/pull/54464))
-* Fix #54224 and #54219 ([#54462](https://github.com/CleverRaven/Cataclysm-DDA/pull/54462))
-* Update rural mapgen regional biome settings ([#54460](https://github.com/CleverRaven/Cataclysm-DDA/pull/54460))
-* Fix some spelling and formatting of Artisan stuff ([#54459](https://github.com/CleverRaven/Cataclysm-DDA/pull/54459))
-* Atomic Pitchman Fix ([#54458](https://github.com/CleverRaven/Cataclysm-DDA/pull/54458))
-* [typo] "thorough" -> "through" in description of "Surrounded" scenario ([#54454](https://github.com/CleverRaven/Cataclysm-DDA/pull/54454))
