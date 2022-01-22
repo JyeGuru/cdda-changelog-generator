@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-22-0628 ([017f471](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-22-0628))
+
+* fix an typo ([#54661](https://github.com/CleverRaven/Cataclysm-DDA/pull/54661))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-22-0042 ([2dd2316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-22-0042))
 
 * Add text widget to show move count and mode ([#54623](https://github.com/CleverRaven/Cataclysm-DDA/pull/54623))

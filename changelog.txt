@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-22-0628 (017f471)
+* fix an typo (#54661)
+
 Cataclysm-DDA experimental build 2022-01-22-0042 (2dd2316)
 * Add text widget to show move count and mode (#54623)
 * Bombardier boomer (#54615)
