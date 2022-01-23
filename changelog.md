@@ -1,3 +1,10 @@
+* Plate Armor Recipe Fix ([#54686](https://github.com/CleverRaven/Cataclysm-DDA/pull/54686))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-23-0527 ([61206da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-23-0527))
+
+* Replaced glass door in toilets with wood ones in dollar stores ([#54688](https://github.com/CleverRaven/Cataclysm-DDA/pull/54688))
 
 ---
 
@@ -215,11 +222,6 @@
 * Buff gelato a bit ([#54490](https://github.com/CleverRaven/Cataclysm-DDA/pull/54490))
 * Add dialog functions for vitamins ([#54483](https://github.com/CleverRaven/Cataclysm-DDA/pull/54483))
 * Add ability to transform traps and fields ([#54491](https://github.com/CleverRaven/Cataclysm-DDA/pull/54491))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-17-0821 ([dd0993b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-17-0821))
-
 * Sort some lists of functions/action ids. ([#54503](https://github.com/CleverRaven/Cataclysm-DDA/pull/54503))
 * Added some flags from existing code ([#54495](https://github.com/CleverRaven/Cataclysm-DDA/pull/54495))
 * Remove old pickup menu code ([#54493](https://github.com/CleverRaven/Cataclysm-DDA/pull/54493))
@@ -227,5 +229,3 @@
 * Make EOC popups allow activity interruption ([#54486](https://github.com/CleverRaven/Cataclysm-DDA/pull/54486))
 * Add context for gravel and sand ([#54485](https://github.com/CleverRaven/Cataclysm-DDA/pull/54485))
 * Clear weather override on game end ([#54482](https://github.com/CleverRaven/Cataclysm-DDA/pull/54482))
-* Fix Mycogenesis error ([#54480](https://github.com/CleverRaven/Cataclysm-DDA/pull/54480))
-* Update tilesets 22-01-16 ([#54481](https://github.com/CleverRaven/Cataclysm-DDA/pull/54481))
