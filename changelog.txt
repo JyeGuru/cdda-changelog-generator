@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-22-2354 (bbb2868)
 * Gave the blood cookbook spawn locations (#54680)
 * Remove slime glob from mutagen recipe (#54679)
 * Nerf suits and bathrobes (#54676)
