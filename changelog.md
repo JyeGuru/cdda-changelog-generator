@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-23-0628 ([51814ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-23-0628))
+
 * Plate Armor Recipe Fix ([#54686](https://github.com/CleverRaven/Cataclysm-DDA/pull/54686))
 
 ---

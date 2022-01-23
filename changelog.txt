@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-23-0628 (51814ea)
 * Plate Armor Recipe Fix (#54686)
 
 Cataclysm-DDA experimental build 2022-01-23-0527 (61206da)
