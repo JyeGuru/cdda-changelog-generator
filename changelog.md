@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-23-1429 ([ee4600e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-23-1429))
+
+* XL wool socks are now craftable ([#54689](https://github.com/CleverRaven/Cataclysm-DDA/pull/54689))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-23-0628 ([51814ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-23-0628))
 
 * Plate Armor Recipe Fix ([#54686](https://github.com/CleverRaven/Cataclysm-DDA/pull/54686))
@@ -219,11 +225,6 @@
 #### Cataclysm-DDA experimental build 2022-01-18-0444 ([497ae72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-18-0444))
 
 * Fix heap overflow error in Character::remove_bionic() ([#54516](https://github.com/CleverRaven/Cataclysm-DDA/pull/54516))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-17-1621 ([dc02e84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-17-1621))
-
 * Buff gelato a bit ([#54490](https://github.com/CleverRaven/Cataclysm-DDA/pull/54490))
 * Add dialog functions for vitamins ([#54483](https://github.com/CleverRaven/Cataclysm-DDA/pull/54483))
 * Add ability to transform traps and fields ([#54491](https://github.com/CleverRaven/Cataclysm-DDA/pull/54491))
@@ -233,4 +234,3 @@
 * [ui] Fix scrollbars in character creation, crafting, and options menus ([#54492](https://github.com/CleverRaven/Cataclysm-DDA/pull/54492))
 * Make EOC popups allow activity interruption ([#54486](https://github.com/CleverRaven/Cataclysm-DDA/pull/54486))
 * Add context for gravel and sand ([#54485](https://github.com/CleverRaven/Cataclysm-DDA/pull/54485))
-* Clear weather override on game end ([#54482](https://github.com/CleverRaven/Cataclysm-DDA/pull/54482))
