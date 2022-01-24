@@ -1,3 +1,21 @@
+* Gives Western Boots a thickness ([#54714](https://github.com/CleverRaven/Cataclysm-DDA/pull/54714))
+* Fix beginning spelling ([#54709](https://github.com/CleverRaven/Cataclysm-DDA/pull/54709))
+* Fix Fatima's barter success price mentioned ([#54742](https://github.com/CleverRaven/Cataclysm-DDA/pull/54742))
+* added deconstruct for ballistic vests ([#54741](https://github.com/CleverRaven/Cataclysm-DDA/pull/54741))
+* More looks_like for overmap ([#54740](https://github.com/CleverRaven/Cataclysm-DDA/pull/54740))
+* Update misc repair kit with fabric cutting to match the X-Acto knife ingredient ([#54736](https://github.com/CleverRaven/Cataclysm-DDA/pull/54736))
+* Mark pinecones as made of wood and suitable as firewood ([#54733](https://github.com/CleverRaven/Cataclysm-DDA/pull/54733))
+* Add brains to pelt tanning recipe ([#54730](https://github.com/CleverRaven/Cataclysm-DDA/pull/54730))
+* Make charcoal forge use a rigid pocket ([#54729](https://github.com/CleverRaven/Cataclysm-DDA/pull/54729))
+* Allow dangerous fields appearing on your tile to interrupt activities ([#54727](https://github.com/CleverRaven/Cataclysm-DDA/pull/54727))
+* Adjust voltmeter weight from 3kg to 500g ([#54724](https://github.com/CleverRaven/Cataclysm-DDA/pull/54724))
+* Rearrange info blocks depending on the item type ([#54721](https://github.com/CleverRaven/Cataclysm-DDA/pull/54721))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-24-2122 ([6a794f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-24-2122))
+
+* General cleanup of `string_editor_window` ([#54720](https://github.com/CleverRaven/Cataclysm-DDA/pull/54720))
 
 ---
 
@@ -110,7 +128,6 @@
 #### Cataclysm-DDA experimental build 2022-01-21-0728 ([a3d494f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-0728))
 
 * Fix zones save load ([#54541](https://github.com/CleverRaven/Cataclysm-DDA/pull/54541))
-* Bodypart status widget: Symbols + Legend ([#54531](https://github.com/CleverRaven/Cataclysm-DDA/pull/54531))
 * Clarify the description of MISSION_REFUGEE_Boris_WORKSPACE ([#54626](https://github.com/CleverRaven/Cataclysm-DDA/pull/54626))
 * Ferns to no longer be harvested when auto-forage is set to bushes ([#54601](https://github.com/CleverRaven/Cataclysm-DDA/pull/54601))
 * New Bastion Fort starting scenario ([#54598](https://github.com/CleverRaven/Cataclysm-DDA/pull/54598))
@@ -199,9 +216,6 @@
 * Add scrollbar to panel manager ([#54545](https://github.com/CleverRaven/Cataclysm-DDA/pull/54545))
 * Migrate ACT_LONGSALVAGE to the new activity actor system. ([#54542](https://github.com/CleverRaven/Cataclysm-DDA/pull/54542))
 * Expanded plate mail pt 4 ([#54535](https://github.com/CleverRaven/Cataclysm-DDA/pull/54535))
-* Workbench with in-built charger for vehicle ([#54529](https://github.com/CleverRaven/Cataclysm-DDA/pull/54529))
-* Reduce Wasps Nest spawns in forests ([#54528](https://github.com/CleverRaven/Cataclysm-DDA/pull/54528))
-* Add mapgen ability to set variables or remove traps in lines/squares.  ([#54523](https://github.com/CleverRaven/Cataclysm-DDA/pull/54523))
 
 ---
 
@@ -209,18 +223,6 @@
 
 * A modest ccache proposal ([#54558](https://github.com/CleverRaven/Cataclysm-DDA/pull/54558))
 * Fix typo in vsproj for MSVC. ([#54546](https://github.com/CleverRaven/Cataclysm-DDA/pull/54546))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-18-0852 ([98a8e80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-18-0852))
-
 * Remove unused itype id declaration in pickup.cpp ([#54536](https://github.com/CleverRaven/Cataclysm-DDA/pull/54536))
 * Hopefully fix clang ccache issues with better include flags. ([#54539](https://github.com/CleverRaven/Cataclysm-DDA/pull/54539))
 * Add __pycache__ to .gitignore ([#54540](https://github.com/CleverRaven/Cataclysm-DDA/pull/54540))
-* Make oven and fridge appliances draggable ([#54521](https://github.com/CleverRaven/Cataclysm-DDA/pull/54521))
-* Portal map extra jsonify ([#54514](https://github.com/CleverRaven/Cataclysm-DDA/pull/54514))
-* [Innawood] Bloomery uses charcoal as ammo ([#54510](https://github.com/CleverRaven/Cataclysm-DDA/pull/54510))
-* [UI] Increase contrast for highlighted items in character creation UI ([#54530](https://github.com/CleverRaven/Cataclysm-DDA/pull/54530))
-* [UI] Use white instead of light gray for highlighted tabs to increase contrast ([#54526](https://github.com/CleverRaven/Cataclysm-DDA/pull/54526))
-* [UI] Provide (r)eset filter keybinding on character creation screen ([#54533](https://github.com/CleverRaven/Cataclysm-DDA/pull/54533))
-* Fix heap overflow error in Character::remove_bionic() ([#54516](https://github.com/CleverRaven/Cataclysm-DDA/pull/54516))
