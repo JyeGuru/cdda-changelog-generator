@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-24-0603 ([8f56778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-24-0603))
+
+* Tilesets update 22-01-23 ([#54715](https://github.com/CleverRaven/Cataclysm-DDA/pull/54715))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-23-1429 ([ee4600e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-23-1429))
 
 * XL wool socks are now craftable ([#54689](https://github.com/CleverRaven/Cataclysm-DDA/pull/54689))
@@ -219,14 +225,8 @@
 * [UI] Increase contrast for highlighted items in character creation UI ([#54530](https://github.com/CleverRaven/Cataclysm-DDA/pull/54530))
 * [UI] Use white instead of light gray for highlighted tabs to increase contrast ([#54526](https://github.com/CleverRaven/Cataclysm-DDA/pull/54526))
 * [UI] Provide (r)eset filter keybinding on character creation screen ([#54533](https://github.com/CleverRaven/Cataclysm-DDA/pull/54533))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-18-0444 ([497ae72](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-18-0444))
-
 * Fix heap overflow error in Character::remove_bionic() ([#54516](https://github.com/CleverRaven/Cataclysm-DDA/pull/54516))
 * Buff gelato a bit ([#54490](https://github.com/CleverRaven/Cataclysm-DDA/pull/54490))
-* Add dialog functions for vitamins ([#54483](https://github.com/CleverRaven/Cataclysm-DDA/pull/54483))
 * Add ability to transform traps and fields ([#54491](https://github.com/CleverRaven/Cataclysm-DDA/pull/54491))
 * Sort some lists of functions/action ids. ([#54503](https://github.com/CleverRaven/Cataclysm-DDA/pull/54503))
 * Added some flags from existing code ([#54495](https://github.com/CleverRaven/Cataclysm-DDA/pull/54495))
