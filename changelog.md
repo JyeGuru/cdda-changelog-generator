@@ -1,3 +1,9 @@
+* Bump windows builds cachekeys. ([#54726](https://github.com/CleverRaven/Cataclysm-DDA/pull/54726))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-24-2243 ([b06810f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-24-2243))
+
 * Gives Western Boots a thickness ([#54714](https://github.com/CleverRaven/Cataclysm-DDA/pull/54714))
 * Fix beginning spelling ([#54709](https://github.com/CleverRaven/Cataclysm-DDA/pull/54709))
 * Fix Fatima's barter success price mentioned ([#54742](https://github.com/CleverRaven/Cataclysm-DDA/pull/54742))
@@ -215,12 +221,6 @@
 * 'Spider' map extra jsonify ([#54547](https://github.com/CleverRaven/Cataclysm-DDA/pull/54547))
 * Add scrollbar to panel manager ([#54545](https://github.com/CleverRaven/Cataclysm-DDA/pull/54545))
 * Migrate ACT_LONGSALVAGE to the new activity actor system. ([#54542](https://github.com/CleverRaven/Cataclysm-DDA/pull/54542))
-* Expanded plate mail pt 4 ([#54535](https://github.com/CleverRaven/Cataclysm-DDA/pull/54535))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-19-0456 ([840220f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-0456))
-
 * A modest ccache proposal ([#54558](https://github.com/CleverRaven/Cataclysm-DDA/pull/54558))
 * Fix typo in vsproj for MSVC. ([#54546](https://github.com/CleverRaven/Cataclysm-DDA/pull/54546))
 * Remove unused itype id declaration in pickup.cpp ([#54536](https://github.com/CleverRaven/Cataclysm-DDA/pull/54536))
