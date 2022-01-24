@@ -1,3 +1,17 @@
+* Better terrain error message ([#54719](https://github.com/CleverRaven/Cataclysm-DDA/pull/54719))
+* Rearrange climb_down logic for greater clarity ([#54716](https://github.com/CleverRaven/Cataclysm-DDA/pull/54716))
+* Player cannot deconstruct wooden floors they themselves constructed ([#54713](https://github.com/CleverRaven/Cataclysm-DDA/pull/54713))
+* Fixing Robot Scavenger profession ([#54707](https://github.com/CleverRaven/Cataclysm-DDA/pull/54707))
+* Fixed number of syringes required to bring to nurse in Tacoma ranch ([#54705](https://github.com/CleverRaven/Cataclysm-DDA/pull/54705))
+* If movement is impeded, try to break free before trying to climb the fence ([#54704](https://github.com/CleverRaven/Cataclysm-DDA/pull/54704))
+* Added zombies spawn for s_apt and s_apt_2 locations ([#54701](https://github.com/CleverRaven/Cataclysm-DDA/pull/54701))
+* Fixed typo for medium propane tank ([#54700](https://github.com/CleverRaven/Cataclysm-DDA/pull/54700))
+* @ menu only collapses limbs of equal health ([#54697](https://github.com/CleverRaven/Cataclysm-DDA/pull/54697))
+* Add `looks_like` to pure_meth ([#54696](https://github.com/CleverRaven/Cataclysm-DDA/pull/54696))
+* Add wide-character support to graph widgets ([#54694](https://github.com/CleverRaven/Cataclysm-DDA/pull/54694))
+* Nest placement bounds checking ([#54682](https://github.com/CleverRaven/Cataclysm-DDA/pull/54682))
+* Add town hall to surrounded start ([#54659](https://github.com/CleverRaven/Cataclysm-DDA/pull/54659))
+* Add armor widget to custom sidebar ([#54616](https://github.com/CleverRaven/Cataclysm-DDA/pull/54616))
 
 ---
 
@@ -103,12 +117,6 @@
 #### Cataclysm-DDA experimental build 2022-01-21-0543 ([cba81ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-0543))
 
 * Slightly rework ledges, allow Web Diver to rappel down Z-levels, add a character flag to climb up/down walls ([#54555](https://github.com/CleverRaven/Cataclysm-DDA/pull/54555))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-21-0035 ([62a046c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-0035))
-
-* Snippets "LORE" Tab ([#54499](https://github.com/CleverRaven/Cataclysm-DDA/pull/54499))
 * Allow mutagens to add vitamins ([#54610](https://github.com/CleverRaven/Cataclysm-DDA/pull/54610))
 
 ---
@@ -140,7 +148,6 @@
 * Add context for better translation ([#54594](https://github.com/CleverRaven/Cataclysm-DDA/pull/54594))
 * Fix for Limousine spawning with no muffler ([#54581](https://github.com/CleverRaven/Cataclysm-DDA/pull/54581))
 * Dialogue can embed any Avatar or NPC variable in the line as a tag ([#54572](https://github.com/CleverRaven/Cataclysm-DDA/pull/54572))
-* Rename empty_real to empty_with_no_mods and document it better ([#54487](https://github.com/CleverRaven/Cataclysm-DDA/pull/54487))
 
 ---
 
@@ -190,7 +197,6 @@
 * Workbench with in-built charger for vehicle ([#54529](https://github.com/CleverRaven/Cataclysm-DDA/pull/54529))
 * Reduce Wasps Nest spawns in forests ([#54528](https://github.com/CleverRaven/Cataclysm-DDA/pull/54528))
 * Add mapgen ability to set variables or remove traps in lines/squares.  ([#54523](https://github.com/CleverRaven/Cataclysm-DDA/pull/54523))
-* Allow tool charged_qualities to work with UPS battery mod ([#54494](https://github.com/CleverRaven/Cataclysm-DDA/pull/54494))
 
 ---
 
@@ -207,30 +213,14 @@
 * Hopefully fix clang ccache issues with better include flags. ([#54539](https://github.com/CleverRaven/Cataclysm-DDA/pull/54539))
 * Add __pycache__ to .gitignore ([#54540](https://github.com/CleverRaven/Cataclysm-DDA/pull/54540))
 * Make oven and fridge appliances draggable ([#54521](https://github.com/CleverRaven/Cataclysm-DDA/pull/54521))
-* Make athletic skill description more correct ([#54500](https://github.com/CleverRaven/Cataclysm-DDA/pull/54500))
-* Smartphone grammar/word choice fix ([#54484](https://github.com/CleverRaven/Cataclysm-DDA/pull/54484))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-01-18-0727 ([bb20c4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-18-0727))
 
 * Portal map extra jsonify ([#54514](https://github.com/CleverRaven/Cataclysm-DDA/pull/54514))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-18-0550 ([8fe7f90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-18-0550))
-
 * [Innawood] Bloomery uses charcoal as ammo ([#54510](https://github.com/CleverRaven/Cataclysm-DDA/pull/54510))
-* fixes#54183 ([#54488](https://github.com/CleverRaven/Cataclysm-DDA/pull/54488))
 * [UI] Increase contrast for highlighted items in character creation UI ([#54530](https://github.com/CleverRaven/Cataclysm-DDA/pull/54530))
 * [UI] Use white instead of light gray for highlighted tabs to increase contrast ([#54526](https://github.com/CleverRaven/Cataclysm-DDA/pull/54526))
 * [UI] Provide (r)eset filter keybinding on character creation screen ([#54533](https://github.com/CleverRaven/Cataclysm-DDA/pull/54533))
 * Fix heap overflow error in Character::remove_bionic() ([#54516](https://github.com/CleverRaven/Cataclysm-DDA/pull/54516))
-* Buff gelato a bit ([#54490](https://github.com/CleverRaven/Cataclysm-DDA/pull/54490))
-* Add ability to transform traps and fields ([#54491](https://github.com/CleverRaven/Cataclysm-DDA/pull/54491))
-* Sort some lists of functions/action ids. ([#54503](https://github.com/CleverRaven/Cataclysm-DDA/pull/54503))
-* Added some flags from existing code ([#54495](https://github.com/CleverRaven/Cataclysm-DDA/pull/54495))
-* Remove old pickup menu code ([#54493](https://github.com/CleverRaven/Cataclysm-DDA/pull/54493))
-* [ui] Fix scrollbars in character creation, crafting, and options menus ([#54492](https://github.com/CleverRaven/Cataclysm-DDA/pull/54492))
-* Make EOC popups allow activity interruption ([#54486](https://github.com/CleverRaven/Cataclysm-DDA/pull/54486))
-* Add context for gravel and sand ([#54485](https://github.com/CleverRaven/Cataclysm-DDA/pull/54485))
