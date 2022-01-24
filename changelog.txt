@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-24-1919 (bb66027)
 * Better terrain error message (#54719)
 * Rearrange climb_down logic for greater clarity (#54716)
 * Player cannot deconstruct wooden floors they themselves constructed (#54713)
@@ -138,8 +140,6 @@ Cataclysm-DDA experimental build 2022-01-18-0852 (98a8e80)
 * Hopefully fix clang ccache issues with better include flags. (#54539)
 * Add __pycache__ to .gitignore (#54540)
 * Make oven and fridge appliances draggable (#54521)
-
-Cataclysm-DDA experimental build 2022-01-18-0727 (bb20c4d)
 * Portal map extra jsonify (#54514)
 * [Innawood] Bloomery uses charcoal as ammo (#54510)
 * [UI] Increase contrast for highlighted items in character creation UI (#54530)

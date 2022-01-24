@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-24-1919 ([bb66027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-24-1919))
+
 * Better terrain error message ([#54719](https://github.com/CleverRaven/Cataclysm-DDA/pull/54719))
 * Rearrange climb_down logic for greater clarity ([#54716](https://github.com/CleverRaven/Cataclysm-DDA/pull/54716))
 * Player cannot deconstruct wooden floors they themselves constructed ([#54713](https://github.com/CleverRaven/Cataclysm-DDA/pull/54713))
@@ -213,11 +218,6 @@
 * Hopefully fix clang ccache issues with better include flags. ([#54539](https://github.com/CleverRaven/Cataclysm-DDA/pull/54539))
 * Add __pycache__ to .gitignore ([#54540](https://github.com/CleverRaven/Cataclysm-DDA/pull/54540))
 * Make oven and fridge appliances draggable ([#54521](https://github.com/CleverRaven/Cataclysm-DDA/pull/54521))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-18-0727 ([bb20c4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-18-0727))
-
 * Portal map extra jsonify ([#54514](https://github.com/CleverRaven/Cataclysm-DDA/pull/54514))
 * [Innawood] Bloomery uses charcoal as ammo ([#54510](https://github.com/CleverRaven/Cataclysm-DDA/pull/54510))
 * [UI] Increase contrast for highlighted items in character creation UI ([#54530](https://github.com/CleverRaven/Cataclysm-DDA/pull/54530))
