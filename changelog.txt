@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-25-0547 (bee4e45)
+* fixed personal zones (for real this time) (#54675)
+
 Cataclysm-DDA experimental build 2022-01-25-0246 (671245d)
 * Remove random double space between words in intercom speech (#54755)
 * Add conditional bodypart flags (#54749)
@@ -132,14 +135,11 @@ Cataclysm-DDA experimental build 2022-01-19-2259 (6c1a4d0)
 * Portal Storm change warnings (#54559)
 * Print qualities of tool furniture that has them (#54562)
 * Fix crash when pouring water from vehicle to container (#54578)
-
-Cataclysm-DDA experimental build 2022-01-19-2117 (770fbad)
 * Fix comma error in savegame_legacy.cpp (#54580)
 * Make wild root smokable (#54568)
 * Crafting: Don't embed nested items within craft (#54563)
 * Phase out "fridge" item group (part 2 - survivor fridges) (#54560)
 * Bloated Corvid and Oversized Crow Fix (#54556)
 * 'Spider' map extra jsonify (#54547)
-* Add scrollbar to panel manager (#54545)
 * A modest ccache proposal (#54558)
 * Fix typo in vsproj for MSVC. (#54546)

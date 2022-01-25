@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-25-0547 ([bee4e45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-0547))
+
+* fixed personal zones (for real this time) ([#54675](https://github.com/CleverRaven/Cataclysm-DDA/pull/54675))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-25-0246 ([671245d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-0246))
 
 * Remove random double space between words in intercom speech ([#54755](https://github.com/CleverRaven/Cataclysm-DDA/pull/54755))
@@ -201,17 +207,11 @@
 * Portal Storm change warnings ([#54559](https://github.com/CleverRaven/Cataclysm-DDA/pull/54559))
 * Print qualities of tool furniture that has them ([#54562](https://github.com/CleverRaven/Cataclysm-DDA/pull/54562))
 * Fix crash when pouring water from vehicle to container ([#54578](https://github.com/CleverRaven/Cataclysm-DDA/pull/54578))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-19-2117 ([770fbad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-2117))
-
 * Fix comma error in savegame_legacy.cpp ([#54580](https://github.com/CleverRaven/Cataclysm-DDA/pull/54580))
 * Make wild root smokable ([#54568](https://github.com/CleverRaven/Cataclysm-DDA/pull/54568))
 * Crafting: Don't embed nested items within craft ([#54563](https://github.com/CleverRaven/Cataclysm-DDA/pull/54563))
 * Phase out "fridge" item group (part 2 - survivor fridges) ([#54560](https://github.com/CleverRaven/Cataclysm-DDA/pull/54560))
 * Bloated Corvid and Oversized Crow Fix ([#54556](https://github.com/CleverRaven/Cataclysm-DDA/pull/54556))
 * 'Spider' map extra jsonify ([#54547](https://github.com/CleverRaven/Cataclysm-DDA/pull/54547))
-* Add scrollbar to panel manager ([#54545](https://github.com/CleverRaven/Cataclysm-DDA/pull/54545))
 * A modest ccache proposal ([#54558](https://github.com/CleverRaven/Cataclysm-DDA/pull/54558))
 * Fix typo in vsproj for MSVC. ([#54546](https://github.com/CleverRaven/Cataclysm-DDA/pull/54546))
