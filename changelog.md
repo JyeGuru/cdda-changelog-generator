@@ -3,7 +3,7 @@
 
 #### Cataclysm-DDA experimental build 2022-01-25-1859 ([ef67fb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-1859))
 
-* Feral soilders ([#54717](https://github.com/CleverRaven/Cataclysm-DDA/pull/54717))
+* Feral soldiers ([#54717](https://github.com/CleverRaven/Cataclysm-DDA/pull/54717))
 * Remove hardcoded Power Armor encumbrance reduction ([#54764](https://github.com/CleverRaven/Cataclysm-DDA/pull/54764))
 * Add optional uncraft time to recipes ([#54761](https://github.com/CleverRaven/Cataclysm-DDA/pull/54761))
 
