@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-25-1859 ([ef67fb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-1859))
+
 * Feral soilders ([#54717](https://github.com/CleverRaven/Cataclysm-DDA/pull/54717))
 * Remove hardcoded Power Armor encumbrance reduction ([#54764](https://github.com/CleverRaven/Cataclysm-DDA/pull/54764))
 * Add optional uncraft time to recipes ([#54761](https://github.com/CleverRaven/Cataclysm-DDA/pull/54761))
@@ -191,11 +196,6 @@
 * Add context for better translation ([#54594](https://github.com/CleverRaven/Cataclysm-DDA/pull/54594))
 * Fix for Limousine spawning with no muffler ([#54581](https://github.com/CleverRaven/Cataclysm-DDA/pull/54581))
 * Dialogue can embed any Avatar or NPC variable in the line as a tag ([#54572](https://github.com/CleverRaven/Cataclysm-DDA/pull/54572))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-20-0235 ([1d1fa66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0235))
-
 * Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
 * Tetanus Fix and Visibility ([#54587](https://github.com/CleverRaven/Cataclysm-DDA/pull/54587))
 * Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
