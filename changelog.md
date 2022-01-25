@@ -1,3 +1,5 @@
+* Fixed martial arts traits for NPCs ([#54762](https://github.com/CleverRaven/Cataclysm-DDA/pull/54762))
+* New zombie type: Sleepwalker ([#54750](https://github.com/CleverRaven/Cataclysm-DDA/pull/54750))
 
 ---
 
@@ -212,6 +214,4 @@
 * Crafting: Don't embed nested items within craft ([#54563](https://github.com/CleverRaven/Cataclysm-DDA/pull/54563))
 * Phase out "fridge" item group (part 2 - survivor fridges) ([#54560](https://github.com/CleverRaven/Cataclysm-DDA/pull/54560))
 * Bloated Corvid and Oversized Crow Fix ([#54556](https://github.com/CleverRaven/Cataclysm-DDA/pull/54556))
-* 'Spider' map extra jsonify ([#54547](https://github.com/CleverRaven/Cataclysm-DDA/pull/54547))
 * A modest ccache proposal ([#54558](https://github.com/CleverRaven/Cataclysm-DDA/pull/54558))
-* Fix typo in vsproj for MSVC. ([#54546](https://github.com/CleverRaven/Cataclysm-DDA/pull/54546))

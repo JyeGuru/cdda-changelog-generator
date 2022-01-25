@@ -1,3 +1,5 @@
+* Fixed martial arts traits for NPCs (#54762)
+* New zombie type: Sleepwalker (#54750)
 
 Cataclysm-DDA experimental build 2022-01-25-0547 (bee4e45)
 * fixed personal zones (for real this time) (#54675)
@@ -140,6 +142,4 @@ Cataclysm-DDA experimental build 2022-01-19-2259 (6c1a4d0)
 * Crafting: Don't embed nested items within craft (#54563)
 * Phase out "fridge" item group (part 2 - survivor fridges) (#54560)
 * Bloated Corvid and Oversized Crow Fix (#54556)
-* 'Spider' map extra jsonify (#54547)
 * A modest ccache proposal (#54558)
-* Fix typo in vsproj for MSVC. (#54546)
