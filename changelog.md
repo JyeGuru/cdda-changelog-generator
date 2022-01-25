@@ -1,3 +1,6 @@
+* Feral soilders ([#54717](https://github.com/CleverRaven/Cataclysm-DDA/pull/54717))
+* Remove hardcoded Power Armor encumbrance reduction ([#54764](https://github.com/CleverRaven/Cataclysm-DDA/pull/54764))
+* Add optional uncraft time to recipes ([#54761](https://github.com/CleverRaven/Cataclysm-DDA/pull/54761))
 
 ---
 
@@ -196,12 +199,9 @@
 * Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
 * Tetanus Fix and Visibility ([#54587](https://github.com/CleverRaven/Cataclysm-DDA/pull/54587))
 * Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
-* Portal Storm change warnings ([#54559](https://github.com/CleverRaven/Cataclysm-DDA/pull/54559))
 * Print qualities of tool furniture that has them ([#54562](https://github.com/CleverRaven/Cataclysm-DDA/pull/54562))
 * Fix crash when pouring water from vehicle to container ([#54578](https://github.com/CleverRaven/Cataclysm-DDA/pull/54578))
 * Fix comma error in savegame_legacy.cpp ([#54580](https://github.com/CleverRaven/Cataclysm-DDA/pull/54580))
 * Make wild root smokable ([#54568](https://github.com/CleverRaven/Cataclysm-DDA/pull/54568))
 * Crafting: Don't embed nested items within craft ([#54563](https://github.com/CleverRaven/Cataclysm-DDA/pull/54563))
 * Phase out "fridge" item group (part 2 - survivor fridges) ([#54560](https://github.com/CleverRaven/Cataclysm-DDA/pull/54560))
-* Bloated Corvid and Oversized Crow Fix ([#54556](https://github.com/CleverRaven/Cataclysm-DDA/pull/54556))
-* A modest ccache proposal ([#54558](https://github.com/CleverRaven/Cataclysm-DDA/pull/54558))
