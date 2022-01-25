@@ -201,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2022-01-20-0041 ([ed73323](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0041))
 
 * Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-19-2259 ([6c1a4d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-2259))
-
 * Portal Storm change warnings ([#54559](https://github.com/CleverRaven/Cataclysm-DDA/pull/54559))
 * Print qualities of tool furniture that has them ([#54562](https://github.com/CleverRaven/Cataclysm-DDA/pull/54562))
 * Fix crash when pouring water from vehicle to container ([#54578](https://github.com/CleverRaven/Cataclysm-DDA/pull/54578))
