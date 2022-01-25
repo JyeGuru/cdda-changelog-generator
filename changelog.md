@@ -210,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2022-01-19-1123 ([d740104](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-1123))
 
 * Make wild root smokable ([#54568](https://github.com/CleverRaven/Cataclysm-DDA/pull/54568))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-19-0641 ([3eb84f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-0641))
-
 * Crafting: Don't embed nested items within craft ([#54563](https://github.com/CleverRaven/Cataclysm-DDA/pull/54563))
 * Phase out "fridge" item group (part 2 - survivor fridges) ([#54560](https://github.com/CleverRaven/Cataclysm-DDA/pull/54560))
 * Bloated Corvid and Oversized Crow Fix ([#54556](https://github.com/CleverRaven/Cataclysm-DDA/pull/54556))
