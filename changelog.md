@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-25-0246 ([671245d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-0246))
+
 * Remove random double space between words in intercom speech ([#54755](https://github.com/CleverRaven/Cataclysm-DDA/pull/54755))
 * Add conditional bodypart flags ([#54749](https://github.com/CleverRaven/Cataclysm-DDA/pull/54749))
 * Fix for Bell Peppers never rotting ([#54748](https://github.com/CleverRaven/Cataclysm-DDA/pull/54748))
@@ -202,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2022-01-19-2117 ([770fbad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-2117))
 
 * Fix comma error in savegame_legacy.cpp ([#54580](https://github.com/CleverRaven/Cataclysm-DDA/pull/54580))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-19-1123 ([d740104](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-19-1123))
-
 * Make wild root smokable ([#54568](https://github.com/CleverRaven/Cataclysm-DDA/pull/54568))
 * Crafting: Don't embed nested items within craft ([#54563](https://github.com/CleverRaven/Cataclysm-DDA/pull/54563))
 * Phase out "fridge" item group (part 2 - survivor fridges) ([#54560](https://github.com/CleverRaven/Cataclysm-DDA/pull/54560))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-25-0246 (671245d)
 * Remove random double space between words in intercom speech (#54755)
 * Add conditional bodypart flags (#54749)
 * Fix for Bell Peppers never rotting (#54748)
@@ -133,8 +135,6 @@ Cataclysm-DDA experimental build 2022-01-19-2259 (6c1a4d0)
 
 Cataclysm-DDA experimental build 2022-01-19-2117 (770fbad)
 * Fix comma error in savegame_legacy.cpp (#54580)
-
-Cataclysm-DDA experimental build 2022-01-19-1123 (d740104)
 * Make wild root smokable (#54568)
 * Crafting: Don't embed nested items within craft (#54563)
 * Phase out "fridge" item group (part 2 - survivor fridges) (#54560)
