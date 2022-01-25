@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-25-1757 ([9dbadbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-1757))
+
+* Add disassembly recipe for towels ([#54760](https://github.com/CleverRaven/Cataclysm-DDA/pull/54760))
 * Fixed martial arts traits for NPCs ([#54762](https://github.com/CleverRaven/Cataclysm-DDA/pull/54762))
 * New zombie type: Sleepwalker ([#54750](https://github.com/CleverRaven/Cataclysm-DDA/pull/54750))
 
@@ -151,12 +157,6 @@
 * New Bastion Fort starting scenario ([#54598](https://github.com/CleverRaven/Cataclysm-DDA/pull/54598))
 * Shifting fixes ([#54590](https://github.com/CleverRaven/Cataclysm-DDA/pull/54590))
 * Migrate ACT_FIRSTAID to the new activity actor system. ([#54567](https://github.com/CleverRaven/Cataclysm-DDA/pull/54567))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-21-0543 ([cba81ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-0543))
-
-* Slightly rework ledges, allow Web Diver to rappel down Z-levels, add a character flag to climb up/down walls ([#54555](https://github.com/CleverRaven/Cataclysm-DDA/pull/54555))
 * Allow mutagens to add vitamins ([#54610](https://github.com/CleverRaven/Cataclysm-DDA/pull/54610))
 
 ---
@@ -195,11 +195,6 @@
 
 * Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
 * Tetanus Fix and Visibility ([#54587](https://github.com/CleverRaven/Cataclysm-DDA/pull/54587))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-20-0041 ([ed73323](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0041))
-
 * Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
 * Portal Storm change warnings ([#54559](https://github.com/CleverRaven/Cataclysm-DDA/pull/54559))
 * Print qualities of tool furniture that has them ([#54562](https://github.com/CleverRaven/Cataclysm-DDA/pull/54562))
