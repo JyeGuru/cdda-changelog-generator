@@ -1,3 +1,8 @@
+* Remove random double space between words in intercom speech ([#54755](https://github.com/CleverRaven/Cataclysm-DDA/pull/54755))
+* Add conditional bodypart flags ([#54749](https://github.com/CleverRaven/Cataclysm-DDA/pull/54749))
+* Fix for Bell Peppers never rotting ([#54748](https://github.com/CleverRaven/Cataclysm-DDA/pull/54748))
+* Fix merchant merch chat ([#54746](https://github.com/CleverRaven/Cataclysm-DDA/pull/54746))
+* [Magiclysm] XL Black dragon armor inheritance cleanups ([#54681](https://github.com/CleverRaven/Cataclysm-DDA/pull/54681))
 * Bump windows builds cachekeys. ([#54726](https://github.com/CleverRaven/Cataclysm-DDA/pull/54726))
 
 ---
@@ -128,12 +133,6 @@
 #### Cataclysm-DDA experimental build 2022-01-21-1741 ([60079bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-1741))
 
 * Initialize avatar position on game start ([#54571](https://github.com/CleverRaven/Cataclysm-DDA/pull/54571))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-21-0728 ([a3d494f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-0728))
-
-* Fix zones save load ([#54541](https://github.com/CleverRaven/Cataclysm-DDA/pull/54541))
 * Clarify the description of MISSION_REFUGEE_Boris_WORKSPACE ([#54626](https://github.com/CleverRaven/Cataclysm-DDA/pull/54626))
 * Ferns to no longer be harvested when auto-forage is set to bushes ([#54601](https://github.com/CleverRaven/Cataclysm-DDA/pull/54601))
 * New Bastion Fort starting scenario ([#54598](https://github.com/CleverRaven/Cataclysm-DDA/pull/54598))
@@ -183,7 +182,6 @@
 
 * Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
 * Tetanus Fix and Visibility ([#54587](https://github.com/CleverRaven/Cataclysm-DDA/pull/54587))
-* Dynamic height for multi-line widgets ([#54537](https://github.com/CleverRaven/Cataclysm-DDA/pull/54537))
 
 ---
 
@@ -215,9 +213,5 @@
 * Bloated Corvid and Oversized Crow Fix ([#54556](https://github.com/CleverRaven/Cataclysm-DDA/pull/54556))
 * 'Spider' map extra jsonify ([#54547](https://github.com/CleverRaven/Cataclysm-DDA/pull/54547))
 * Add scrollbar to panel manager ([#54545](https://github.com/CleverRaven/Cataclysm-DDA/pull/54545))
-* Migrate ACT_LONGSALVAGE to the new activity actor system. ([#54542](https://github.com/CleverRaven/Cataclysm-DDA/pull/54542))
 * A modest ccache proposal ([#54558](https://github.com/CleverRaven/Cataclysm-DDA/pull/54558))
 * Fix typo in vsproj for MSVC. ([#54546](https://github.com/CleverRaven/Cataclysm-DDA/pull/54546))
-* Remove unused itype id declaration in pickup.cpp ([#54536](https://github.com/CleverRaven/Cataclysm-DDA/pull/54536))
-* Hopefully fix clang ccache issues with better include flags. ([#54539](https://github.com/CleverRaven/Cataclysm-DDA/pull/54539))
-* Add __pycache__ to .gitignore ([#54540](https://github.com/CleverRaven/Cataclysm-DDA/pull/54540))
