@@ -193,7 +193,6 @@
 * Aftershock Exoplanet Glacier Layers ([#54595](https://github.com/CleverRaven/Cataclysm-DDA/pull/54595))
 * Add context for better translation ([#54594](https://github.com/CleverRaven/Cataclysm-DDA/pull/54594))
 * Fix for Limousine spawning with no muffler ([#54581](https://github.com/CleverRaven/Cataclysm-DDA/pull/54581))
-* Dialogue can embed any Avatar or NPC variable in the line as a tag ([#54572](https://github.com/CleverRaven/Cataclysm-DDA/pull/54572))
 * Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
 * Tetanus Fix and Visibility ([#54587](https://github.com/CleverRaven/Cataclysm-DDA/pull/54587))
 * Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
