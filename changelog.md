@@ -209,4 +209,3 @@
 * Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
 * Fix crash when pouring water from vehicle to container ([#54578](https://github.com/CleverRaven/Cataclysm-DDA/pull/54578))
 * Fix comma error in savegame_legacy.cpp ([#54580](https://github.com/CleverRaven/Cataclysm-DDA/pull/54580))
-* Make wild root smokable ([#54568](https://github.com/CleverRaven/Cataclysm-DDA/pull/54568))
