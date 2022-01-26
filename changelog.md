@@ -187,11 +187,6 @@
 * added disassembly for tanned pelt ([#54612](https://github.com/CleverRaven/Cataclysm-DDA/pull/54612))
 * Do a load test for just aftershock ([#54614](https://github.com/CleverRaven/Cataclysm-DDA/pull/54614))
 * Don't cancel running master builds ([#54617](https://github.com/CleverRaven/Cataclysm-DDA/pull/54617))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-20-2018 ([70d33eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-2018))
-
 * Fix for #54609 ([#54611](https://github.com/CleverRaven/Cataclysm-DDA/pull/54611))
 * Add sticks to wood saw recipe ([#54597](https://github.com/CleverRaven/Cataclysm-DDA/pull/54597))
 * [innawood] flintlocks and cows ([#54596](https://github.com/CleverRaven/Cataclysm-DDA/pull/54596))

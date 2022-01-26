@@ -124,8 +124,6 @@ Cataclysm-DDA experimental build 2022-01-20-2319 (df944a4)
 * added disassembly for tanned pelt (#54612)
 * Do a load test for just aftershock (#54614)
 * Don't cancel running master builds (#54617)
-
-Cataclysm-DDA experimental build 2022-01-20-2018 (70d33eb)
 * Fix for #54609 (#54611)
 * Add sticks to wood saw recipe (#54597)
 * [innawood] flintlocks and cows (#54596)
