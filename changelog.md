@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-26-0610 ([97119d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-26-0610))
+
+* Fix typo: 27" off-road bicycle -> off-road bicycle TIRE ([#54785](https://github.com/CleverRaven/Cataclysm-DDA/pull/54785))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-26-0420 ([51f7d93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-26-0420))
 
 * Caffeinate the caffeinated gum and decaffeinate the uncaffeinated coffee ([#54780](https://github.com/CleverRaven/Cataclysm-DDA/pull/54780))
@@ -168,12 +174,6 @@
 * Fix compile error on OpenBSD ([#54629](https://github.com/CleverRaven/Cataclysm-DDA/pull/54629))
 * [innawood] Makes crossbows autolearn ([#54607](https://github.com/CleverRaven/Cataclysm-DDA/pull/54607))
 * Migrate ACT_MOP to the new activity actor system. ([#54591](https://github.com/CleverRaven/Cataclysm-DDA/pull/54591))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-21-1741 ([60079bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-1741))
-
-* Initialize avatar position on game start ([#54571](https://github.com/CleverRaven/Cataclysm-DDA/pull/54571))
 * Clarify the description of MISSION_REFUGEE_Boris_WORKSPACE ([#54626](https://github.com/CleverRaven/Cataclysm-DDA/pull/54626))
 * Ferns to no longer be harvested when auto-forage is set to bushes ([#54601](https://github.com/CleverRaven/Cataclysm-DDA/pull/54601))
 * New Bastion Fort starting scenario ([#54598](https://github.com/CleverRaven/Cataclysm-DDA/pull/54598))
@@ -193,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2022-01-20-2018 ([70d33eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-2018))
 
 * Fix for #54609 ([#54611](https://github.com/CleverRaven/Cataclysm-DDA/pull/54611))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-20-0836 ([372311f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0836))
-
 * Add sticks to wood saw recipe ([#54597](https://github.com/CleverRaven/Cataclysm-DDA/pull/54597))
 * [innawood] flintlocks and cows ([#54596](https://github.com/CleverRaven/Cataclysm-DDA/pull/54596))
 * Aftershock Exoplanet Glacier Layers ([#54595](https://github.com/CleverRaven/Cataclysm-DDA/pull/54595))
