@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-26-0310 ([c69df08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-26-0310))
+
+* Adjust plague vector eggs and allow them as an option for powdered egg ([#54687](https://github.com/CleverRaven/Cataclysm-DDA/pull/54687))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-25-1859 ([ef67fb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-1859))
 
 * Feral soldiers ([#54717](https://github.com/CleverRaven/Cataclysm-DDA/pull/54717))
@@ -204,4 +210,3 @@
 * Fix comma error in savegame_legacy.cpp ([#54580](https://github.com/CleverRaven/Cataclysm-DDA/pull/54580))
 * Make wild root smokable ([#54568](https://github.com/CleverRaven/Cataclysm-DDA/pull/54568))
 * Crafting: Don't embed nested items within craft ([#54563](https://github.com/CleverRaven/Cataclysm-DDA/pull/54563))
-* Phase out "fridge" item group (part 2 - survivor fridges) ([#54560](https://github.com/CleverRaven/Cataclysm-DDA/pull/54560))
