@@ -1,3 +1,6 @@
+* Caffeinate the caffeinated gum and decaffeinate the uncaffeinated coffee ([#54780](https://github.com/CleverRaven/Cataclysm-DDA/pull/54780))
+* Sleepwalker Zombie fix ([#54779](https://github.com/CleverRaven/Cataclysm-DDA/pull/54779))
+* [UI] In butchery menu, make it clear when an item will be disassembled ([#54774](https://github.com/CleverRaven/Cataclysm-DDA/pull/54774))
 
 ---
 
@@ -170,7 +173,6 @@
 * Ferns to no longer be harvested when auto-forage is set to bushes ([#54601](https://github.com/CleverRaven/Cataclysm-DDA/pull/54601))
 * New Bastion Fort starting scenario ([#54598](https://github.com/CleverRaven/Cataclysm-DDA/pull/54598))
 * Shifting fixes ([#54590](https://github.com/CleverRaven/Cataclysm-DDA/pull/54590))
-* Migrate ACT_FIRSTAID to the new activity actor system. ([#54567](https://github.com/CleverRaven/Cataclysm-DDA/pull/54567))
 * Allow mutagens to add vitamins ([#54610](https://github.com/CleverRaven/Cataclysm-DDA/pull/54610))
 
 ---
@@ -205,8 +207,6 @@
 * Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
 * Tetanus Fix and Visibility ([#54587](https://github.com/CleverRaven/Cataclysm-DDA/pull/54587))
 * Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
-* Print qualities of tool furniture that has them ([#54562](https://github.com/CleverRaven/Cataclysm-DDA/pull/54562))
 * Fix crash when pouring water from vehicle to container ([#54578](https://github.com/CleverRaven/Cataclysm-DDA/pull/54578))
 * Fix comma error in savegame_legacy.cpp ([#54580](https://github.com/CleverRaven/Cataclysm-DDA/pull/54580))
 * Make wild root smokable ([#54568](https://github.com/CleverRaven/Cataclysm-DDA/pull/54568))
-* Crafting: Don't embed nested items within craft ([#54563](https://github.com/CleverRaven/Cataclysm-DDA/pull/54563))
