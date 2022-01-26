@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-26-0420 ([51f7d93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-26-0420))
+
 * Caffeinate the caffeinated gum and decaffeinate the uncaffeinated coffee ([#54780](https://github.com/CleverRaven/Cataclysm-DDA/pull/54780))
 * Sleepwalker Zombie fix ([#54779](https://github.com/CleverRaven/Cataclysm-DDA/pull/54779))
 * [UI] In butchery menu, make it clear when an item will be disassembled ([#54774](https://github.com/CleverRaven/Cataclysm-DDA/pull/54774))
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2022-01-20-0836 ([372311f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0836))
 
 * Add sticks to wood saw recipe ([#54597](https://github.com/CleverRaven/Cataclysm-DDA/pull/54597))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-20-0631 ([13d52d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-0631))
-
 * [innawood] flintlocks and cows ([#54596](https://github.com/CleverRaven/Cataclysm-DDA/pull/54596))
 * Aftershock Exoplanet Glacier Layers ([#54595](https://github.com/CleverRaven/Cataclysm-DDA/pull/54595))
 * Add context for better translation ([#54594](https://github.com/CleverRaven/Cataclysm-DDA/pull/54594))
