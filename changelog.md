@@ -197,4 +197,3 @@
 * Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
 * Tetanus Fix and Visibility ([#54587](https://github.com/CleverRaven/Cataclysm-DDA/pull/54587))
 * Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
-* Fix comma error in savegame_legacy.cpp ([#54580](https://github.com/CleverRaven/Cataclysm-DDA/pull/54580))
