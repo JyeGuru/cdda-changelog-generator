@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-27-0622 (761fb51)
+* NPC grammar fixes (#54836)
+
 Cataclysm-DDA experimental build 2022-01-26-0610 (97119d1)
 * Fix typo: 27" off-road bicycle -> off-road bicycle TIRE (#54785)
 
@@ -119,8 +122,6 @@ Cataclysm-DDA experimental build 2022-01-21-1842 (09fc8ed)
 * New Bastion Fort starting scenario (#54598)
 * Shifting fixes (#54590)
 * Allow mutagens to add vitamins (#54610)
-
-Cataclysm-DDA experimental build 2022-01-20-2319 (df944a4)
 * added disassembly for tanned pelt (#54612)
 * Do a load test for just aftershock (#54614)
 * Don't cancel running master builds (#54617)
@@ -133,5 +134,4 @@ Cataclysm-DDA experimental build 2022-01-20-2319 (df944a4)
 * Eggnog is delicious when hot and can be made with powdered eggs (#54586)
 * Tetanus Fix and Visibility (#54587)
 * Just keep raising cache limits to keep the eviction demons away. (#54583)
-* Fix crash when pouring water from vehicle to container (#54578)
 * Fix comma error in savegame_legacy.cpp (#54580)

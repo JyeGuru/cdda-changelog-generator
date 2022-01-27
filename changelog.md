@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-27-0622 ([761fb51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-27-0622))
+
+* NPC grammar fixes ([#54836](https://github.com/CleverRaven/Cataclysm-DDA/pull/54836))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-26-0610 ([97119d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-26-0610))
 
 * Fix typo: 27" off-road bicycle -> off-road bicycle TIRE ([#54785](https://github.com/CleverRaven/Cataclysm-DDA/pull/54785))
@@ -179,11 +185,6 @@
 * New Bastion Fort starting scenario ([#54598](https://github.com/CleverRaven/Cataclysm-DDA/pull/54598))
 * Shifting fixes ([#54590](https://github.com/CleverRaven/Cataclysm-DDA/pull/54590))
 * Allow mutagens to add vitamins ([#54610](https://github.com/CleverRaven/Cataclysm-DDA/pull/54610))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-20-2319 ([df944a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-20-2319))
-
 * added disassembly for tanned pelt ([#54612](https://github.com/CleverRaven/Cataclysm-DDA/pull/54612))
 * Do a load test for just aftershock ([#54614](https://github.com/CleverRaven/Cataclysm-DDA/pull/54614))
 * Don't cancel running master builds ([#54617](https://github.com/CleverRaven/Cataclysm-DDA/pull/54617))
@@ -196,5 +197,4 @@
 * Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
 * Tetanus Fix and Visibility ([#54587](https://github.com/CleverRaven/Cataclysm-DDA/pull/54587))
 * Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
-* Fix crash when pouring water from vehicle to container ([#54578](https://github.com/CleverRaven/Cataclysm-DDA/pull/54578))
 * Fix comma error in savegame_legacy.cpp ([#54580](https://github.com/CleverRaven/Cataclysm-DDA/pull/54580))
