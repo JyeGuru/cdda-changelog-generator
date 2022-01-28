@@ -1,3 +1,19 @@
+* Don't enjoy mp3 under narcosis or while sleeping ([#54845](https://github.com/CleverRaven/Cataclysm-DDA/pull/54845))
+* Allow migration of charges to an equivalent amount of single items ([#54843](https://github.com/CleverRaven/Cataclysm-DDA/pull/54843))
+* Reduce time and tools need to uncraft patchwork cotton sheets ([#54840](https://github.com/CleverRaven/Cataclysm-DDA/pull/54840))
+* Make polycarbonate sheets spare parts, not ammo ([#54838](https://github.com/CleverRaven/Cataclysm-DDA/pull/54838))
+* Crafting: Prevent bionic pseudo-items from being used as components ([#54835](https://github.com/CleverRaven/Cataclysm-DDA/pull/54835))
+* prevent leather items disassembling into fur ([#54827](https://github.com/CleverRaven/Cataclysm-DDA/pull/54827))
+* Add option to clear pocket settings ([#54825](https://github.com/CleverRaven/Cataclysm-DDA/pull/54825))
+* Remove Midcourse Location from Burning Building Scenario ([#54823](https://github.com/CleverRaven/Cataclysm-DDA/pull/54823))
+* Include extra bodyparts in dodge calculations ([#54819](https://github.com/CleverRaven/Cataclysm-DDA/pull/54819))
+* Fix grammar of brewery/workshop descriptions and windmill grind spelling ([#54813](https://github.com/CleverRaven/Cataclysm-DDA/pull/54813))
+* Containers holding a stack of a single item will now display its quantity ([#54802](https://github.com/CleverRaven/Cataclysm-DDA/pull/54802))
+* Prevent `copy-from` from discarding armour values ([#54801](https://github.com/CleverRaven/Cataclysm-DDA/pull/54801))
+* Add more gitignore rules ([#54798](https://github.com/CleverRaven/Cataclysm-DDA/pull/54798))
+* Updated several map extras to erase all before placing terrain ([#54797](https://github.com/CleverRaven/Cataclysm-DDA/pull/54797))
+* Fix favourite recipes being unselectable via related menu ([#54794](https://github.com/CleverRaven/Cataclysm-DDA/pull/54794))
+* makes steel_lump disassembly work again ([#54793](https://github.com/CleverRaven/Cataclysm-DDA/pull/54793))
 * [Innawood] Makes cannon craftable ([#54792](https://github.com/CleverRaven/Cataclysm-DDA/pull/54792))
 * Cattail Jelly ([#54790](https://github.com/CleverRaven/Cataclysm-DDA/pull/54790))
 * Fix typos/grammar in tips.json ([#54789](https://github.com/CleverRaven/Cataclysm-DDA/pull/54789))
@@ -6,7 +22,6 @@
 * added molle functions to ballistic vests ([#54771](https://github.com/CleverRaven/Cataclysm-DDA/pull/54771))
 * Weapon Categories: Barbaran Montante ([#54758](https://github.com/CleverRaven/Cataclysm-DDA/pull/54758))
 * Police Department and Detention Services ([#54678](https://github.com/CleverRaven/Cataclysm-DDA/pull/54678))
-* Attack cost tweaks to a select few monsters ([#54624](https://github.com/CleverRaven/Cataclysm-DDA/pull/54624))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
@@ -108,7 +123,6 @@
 * Add wide-character support to graph widgets ([#54694](https://github.com/CleverRaven/Cataclysm-DDA/pull/54694))
 * Nest placement bounds checking ([#54682](https://github.com/CleverRaven/Cataclysm-DDA/pull/54682))
 * Add town hall to surrounded start ([#54659](https://github.com/CleverRaven/Cataclysm-DDA/pull/54659))
-* Add armor widget to custom sidebar ([#54616](https://github.com/CleverRaven/Cataclysm-DDA/pull/54616))
 
 ---
 
@@ -150,21 +164,12 @@
 * Routine i18n updates on 22 January 2022 ([#54656](https://github.com/CleverRaven/Cataclysm-DDA/pull/54656))
 * Make "You mess up and destroy the <ITEM>" message considered bad ([#54653](https://github.com/CleverRaven/Cataclysm-DDA/pull/54653))
 * added emf detector to Paranormal Investigator ([#54651](https://github.com/CleverRaven/Cataclysm-DDA/pull/54651))
-* Widget Alignment ([#54628](https://github.com/CleverRaven/Cataclysm-DDA/pull/54628))
-* Steel to steel ([#54606](https://github.com/CleverRaven/Cataclysm-DDA/pull/54606))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-01-22-0628 ([017f471](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-22-0628))
 
 * fix an typo ([#54661](https://github.com/CleverRaven/Cataclysm-DDA/pull/54661))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-22-0042 ([2dd2316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-22-0042))
-
-* Add text widget to show move count and mode ([#54623](https://github.com/CleverRaven/Cataclysm-DDA/pull/54623))
-* Bombardier boomer ([#54615](https://github.com/CleverRaven/Cataclysm-DDA/pull/54615))
 
 ---
 
@@ -188,13 +193,3 @@
 * Fix clang-tidy warning in faction.cpp ([#54633](https://github.com/CleverRaven/Cataclysm-DDA/pull/54633))
 * Explicitly state loop of rope's max item length ([#54630](https://github.com/CleverRaven/Cataclysm-DDA/pull/54630))
 * Fix compile error on OpenBSD ([#54629](https://github.com/CleverRaven/Cataclysm-DDA/pull/54629))
-* [innawood] Makes crossbows autolearn ([#54607](https://github.com/CleverRaven/Cataclysm-DDA/pull/54607))
-* Clarify the description of MISSION_REFUGEE_Boris_WORKSPACE ([#54626](https://github.com/CleverRaven/Cataclysm-DDA/pull/54626))
-* Ferns to no longer be harvested when auto-forage is set to bushes ([#54601](https://github.com/CleverRaven/Cataclysm-DDA/pull/54601))
-* New Bastion Fort starting scenario ([#54598](https://github.com/CleverRaven/Cataclysm-DDA/pull/54598))
-* Allow mutagens to add vitamins ([#54610](https://github.com/CleverRaven/Cataclysm-DDA/pull/54610))
-* added disassembly for tanned pelt ([#54612](https://github.com/CleverRaven/Cataclysm-DDA/pull/54612))
-* Do a load test for just aftershock ([#54614](https://github.com/CleverRaven/Cataclysm-DDA/pull/54614))
-* Don't cancel running master builds ([#54617](https://github.com/CleverRaven/Cataclysm-DDA/pull/54617))
-* Fix for #54609 ([#54611](https://github.com/CleverRaven/Cataclysm-DDA/pull/54611))
-* Add sticks to wood saw recipe ([#54597](https://github.com/CleverRaven/Cataclysm-DDA/pull/54597))
