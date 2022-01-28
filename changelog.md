@@ -1,3 +1,7 @@
+* Archive 0.E translations ([#54817](https://github.com/CleverRaven/Cataclysm-DDA/pull/54817))
+* Archive 0.D translations ([#54816](https://github.com/CleverRaven/Cataclysm-DDA/pull/54816))
+* Archive 0.C translations ([#54815](https://github.com/CleverRaven/Cataclysm-DDA/pull/54815))
+* Archive 0.B translations ([#54814](https://github.com/CleverRaven/Cataclysm-DDA/pull/54814))
 * Don't enjoy mp3 under narcosis or while sleeping ([#54845](https://github.com/CleverRaven/Cataclysm-DDA/pull/54845))
 * Allow migration of charges to an equivalent amount of single items ([#54843](https://github.com/CleverRaven/Cataclysm-DDA/pull/54843))
 * Reduce time and tools need to uncraft patchwork cotton sheets ([#54840](https://github.com/CleverRaven/Cataclysm-DDA/pull/54840))
@@ -178,18 +182,4 @@
 * Standardize Layer Names ([#54640](https://github.com/CleverRaven/Cataclysm-DDA/pull/54640))
 * Chain push translation template workflow after experimental release ([#54644](https://github.com/CleverRaven/Cataclysm-DDA/pull/54644))
 * Do shallow clone in pull translations workflow ([#54645](https://github.com/CleverRaven/Cataclysm-DDA/pull/54645))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-21-1955 ([5ac1a12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-1955))
-
-* Update monster deaths to return nullptr ([#54632](https://github.com/CleverRaven/Cataclysm-DDA/pull/54632))
 * Add 'no-c-format' hint in JSON flag translations ([#54637](https://github.com/CleverRaven/Cataclysm-DDA/pull/54637))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-21-1842 ([09fc8ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-1842))
-
-* Fix clang-tidy warning in faction.cpp ([#54633](https://github.com/CleverRaven/Cataclysm-DDA/pull/54633))
-* Explicitly state loop of rope's max item length ([#54630](https://github.com/CleverRaven/Cataclysm-DDA/pull/54630))
-* Fix compile error on OpenBSD ([#54629](https://github.com/CleverRaven/Cataclysm-DDA/pull/54629))
