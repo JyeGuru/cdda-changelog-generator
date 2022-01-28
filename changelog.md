@@ -1,3 +1,6 @@
+* Weapon Categories: Barbaran Montante ([#54758](https://github.com/CleverRaven/Cataclysm-DDA/pull/54758))
+* Police Department and Detention Services ([#54678](https://github.com/CleverRaven/Cataclysm-DDA/pull/54678))
+* Attack cost tweaks to a select few monsters ([#54624](https://github.com/CleverRaven/Cataclysm-DDA/pull/54624))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
@@ -194,6 +197,3 @@
 * [innawood] flintlocks and cows ([#54596](https://github.com/CleverRaven/Cataclysm-DDA/pull/54596))
 * Aftershock Exoplanet Glacier Layers ([#54595](https://github.com/CleverRaven/Cataclysm-DDA/pull/54595))
 * Add context for better translation ([#54594](https://github.com/CleverRaven/Cataclysm-DDA/pull/54594))
-* Eggnog is delicious when hot and can be made with powdered eggs ([#54586](https://github.com/CleverRaven/Cataclysm-DDA/pull/54586))
-* Tetanus Fix and Visibility ([#54587](https://github.com/CleverRaven/Cataclysm-DDA/pull/54587))
-* Just keep raising cache limits to keep the eviction demons away. ([#54583](https://github.com/CleverRaven/Cataclysm-DDA/pull/54583))
