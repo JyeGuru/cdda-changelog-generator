@@ -1,7 +1,13 @@
+* Allow anvils to be placed as furniture ([#54853](https://github.com/CleverRaven/Cataclysm-DDA/pull/54853))
 * Archive 0.E translations ([#54817](https://github.com/CleverRaven/Cataclysm-DDA/pull/54817))
 * Archive 0.D translations ([#54816](https://github.com/CleverRaven/Cataclysm-DDA/pull/54816))
 * Archive 0.C translations ([#54815](https://github.com/CleverRaven/Cataclysm-DDA/pull/54815))
 * Archive 0.B translations ([#54814](https://github.com/CleverRaven/Cataclysm-DDA/pull/54814))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-28-0658 ([7ec78e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-28-0658))
+
 * Don't enjoy mp3 under narcosis or while sleeping ([#54845](https://github.com/CleverRaven/Cataclysm-DDA/pull/54845))
 * Allow migration of charges to an equivalent amount of single items ([#54843](https://github.com/CleverRaven/Cataclysm-DDA/pull/54843))
 * Reduce time and tools need to uncraft patchwork cotton sheets ([#54840](https://github.com/CleverRaven/Cataclysm-DDA/pull/54840))
@@ -182,4 +188,3 @@
 * Standardize Layer Names ([#54640](https://github.com/CleverRaven/Cataclysm-DDA/pull/54640))
 * Chain push translation template workflow after experimental release ([#54644](https://github.com/CleverRaven/Cataclysm-DDA/pull/54644))
 * Do shallow clone in pull translations workflow ([#54645](https://github.com/CleverRaven/Cataclysm-DDA/pull/54645))
-* Add 'no-c-format' hint in JSON flag translations ([#54637](https://github.com/CleverRaven/Cataclysm-DDA/pull/54637))
