@@ -1,3 +1,4 @@
+* added molle functions to ballistic vests ([#54771](https://github.com/CleverRaven/Cataclysm-DDA/pull/54771))
 * Weapon Categories: Barbaran Montante ([#54758](https://github.com/CleverRaven/Cataclysm-DDA/pull/54758))
 * Police Department and Detention Services ([#54678](https://github.com/CleverRaven/Cataclysm-DDA/pull/54678))
 * Attack cost tweaks to a select few monsters ([#54624](https://github.com/CleverRaven/Cataclysm-DDA/pull/54624))
