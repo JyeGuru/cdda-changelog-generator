@@ -185,11 +185,5 @@
 #### Cataclysm-DDA experimental build 2022-01-22-0628 ([017f471](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-22-0628))
 
 * fix an typo ([#54661](https://github.com/CleverRaven/Cataclysm-DDA/pull/54661))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-21-2341 ([2f4c5a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-21-2341))
-
-* Standardize Layer Names ([#54640](https://github.com/CleverRaven/Cataclysm-DDA/pull/54640))
 * Chain push translation template workflow after experimental release ([#54644](https://github.com/CleverRaven/Cataclysm-DDA/pull/54644))
 * Do shallow clone in pull translations workflow ([#54645](https://github.com/CleverRaven/Cataclysm-DDA/pull/54645))
