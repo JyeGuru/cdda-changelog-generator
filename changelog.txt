@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-29-0623 (38f5a62)
+* Fix though -> tough in robofac free merchant speech (#54887)
+
 Cataclysm-DDA experimental build 2022-01-29-0449 (b50213a)
 * Aftershock Exoplanet: New Alien fauna (#54844)
 * Removed a zero from barter price of cooking oil. (#54830)
@@ -130,7 +133,6 @@ Cataclysm-DDA experimental build 2022-01-22-2354 (bbb2868)
 * Add gambeson arming pants (#54665)
 * Combine wheat-free and wheat-full flours into a single recipe requirement (#54663)
 * change t_screen_door_o from + to . (#54662)
-* Routine i18n updates on 22 January 2022 (#54656)
 
 Cataclysm-DDA experimental build 2022-01-22-0628 (017f471)
 * fix an typo (#54661)

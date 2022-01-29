@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-29-0623 ([38f5a62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0623))
+
+* Fix though -> tough in robofac free merchant speech ([#54887](https://github.com/CleverRaven/Cataclysm-DDA/pull/54887))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-29-0449 ([b50213a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0449))
 
 * Aftershock Exoplanet: New Alien fauna ([#54844](https://github.com/CleverRaven/Cataclysm-DDA/pull/54844))
@@ -190,7 +196,6 @@
 * Add gambeson arming pants ([#54665](https://github.com/CleverRaven/Cataclysm-DDA/pull/54665))
 * Combine wheat-free and wheat-full flours into a single recipe requirement ([#54663](https://github.com/CleverRaven/Cataclysm-DDA/pull/54663))
 * change t_screen_door_o from + to . ([#54662](https://github.com/CleverRaven/Cataclysm-DDA/pull/54662))
-* Routine i18n updates on 22 January 2022 ([#54656](https://github.com/CleverRaven/Cataclysm-DDA/pull/54656))
 
 ---
 
