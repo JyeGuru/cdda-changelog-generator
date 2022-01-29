@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-29-0942 ([1bba9b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0942))
+
 * ordinance -> ordnance ([#54888](https://github.com/CleverRaven/Cataclysm-DDA/pull/54888))
 * [DinoMod] new hulk evolutions ([#54883](https://github.com/CleverRaven/Cataclysm-DDA/pull/54883))
 * Remove invalid TOC entry ([#54800](https://github.com/CleverRaven/Cataclysm-DDA/pull/54800))
