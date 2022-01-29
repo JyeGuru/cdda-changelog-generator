@@ -1,3 +1,11 @@
+* Fix Aftershock mapgen errors ([#54864](https://github.com/CleverRaven/Cataclysm-DDA/pull/54864))
+* Remove double fabrication requirement for basecamp stove ([#54877](https://github.com/CleverRaven/Cataclysm-DDA/pull/54877))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-29-0842 ([3cd53fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0842))
+
+* Routine i18n updates on 29 January 2022 ([#54882](https://github.com/CleverRaven/Cataclysm-DDA/pull/54882))
 
 ---
 
@@ -157,7 +165,6 @@
 * Add `looks_like` to pure_meth ([#54696](https://github.com/CleverRaven/Cataclysm-DDA/pull/54696))
 * Add wide-character support to graph widgets ([#54694](https://github.com/CleverRaven/Cataclysm-DDA/pull/54694))
 * Nest placement bounds checking ([#54682](https://github.com/CleverRaven/Cataclysm-DDA/pull/54682))
-* Add town hall to surrounded start ([#54659](https://github.com/CleverRaven/Cataclysm-DDA/pull/54659))
 
 ---
 
@@ -195,10 +202,3 @@
 * bombardier boomer polishing ([#54668](https://github.com/CleverRaven/Cataclysm-DDA/pull/54668))
 * Add gambeson arming pants ([#54665](https://github.com/CleverRaven/Cataclysm-DDA/pull/54665))
 * Combine wheat-free and wheat-full flours into a single recipe requirement ([#54663](https://github.com/CleverRaven/Cataclysm-DDA/pull/54663))
-* change t_screen_door_o from + to . ([#54662](https://github.com/CleverRaven/Cataclysm-DDA/pull/54662))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-22-0628 ([017f471](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-22-0628))
-
-* fix an typo ([#54661](https://github.com/CleverRaven/Cataclysm-DDA/pull/54661))

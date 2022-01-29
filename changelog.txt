@@ -1,3 +1,8 @@
+* Fix Aftershock mapgen errors (#54864)
+* Remove double fabrication requirement for basecamp stove (#54877)
+
+Cataclysm-DDA experimental build 2022-01-29-0842 (3cd53fe)
+* Routine i18n updates on 29 January 2022 (#54882)
 
 Cataclysm-DDA experimental build 2022-01-29-0623 (38f5a62)
 * Fix though -> tough in robofac free merchant speech (#54887)
@@ -109,7 +114,6 @@ Cataclysm-DDA experimental build 2022-01-24-1919 (bb66027)
 * Add `looks_like` to pure_meth (#54696)
 * Add wide-character support to graph widgets (#54694)
 * Nest placement bounds checking (#54682)
-* Add town hall to surrounded start (#54659)
 
 Cataclysm-DDA experimental build 2022-01-24-0603 (8f56778)
 * Tilesets update 22-01-23 (#54715)
@@ -132,7 +136,3 @@ Cataclysm-DDA experimental build 2022-01-22-2354 (bbb2868)
 * bombardier boomer polishing (#54668)
 * Add gambeson arming pants (#54665)
 * Combine wheat-free and wheat-full flours into a single recipe requirement (#54663)
-* change t_screen_door_o from + to . (#54662)
-
-Cataclysm-DDA experimental build 2022-01-22-0628 (017f471)
-* fix an typo (#54661)
