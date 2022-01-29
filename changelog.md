@@ -1,3 +1,12 @@
+* Aftershock Exoplanet: New Alien fauna ([#54844](https://github.com/CleverRaven/Cataclysm-DDA/pull/54844))
+* Removed a zero from barter price of cooking oil. ([#54830](https://github.com/CleverRaven/Cataclysm-DDA/pull/54830))
+* Always show crafting recipes on item info, possibly with '...and more' ([#54854](https://github.com/CleverRaven/Cataclysm-DDA/pull/54854))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-29-0334 ([249b4ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0334))
+
+* Colorize widget values above and below normal ([#54754](https://github.com/CleverRaven/Cataclysm-DDA/pull/54754))
 
 ---
 
@@ -177,13 +186,9 @@
 * Combine wheat-free and wheat-full flours into a single recipe requirement ([#54663](https://github.com/CleverRaven/Cataclysm-DDA/pull/54663))
 * change t_screen_door_o from + to . ([#54662](https://github.com/CleverRaven/Cataclysm-DDA/pull/54662))
 * Routine i18n updates on 22 January 2022 ([#54656](https://github.com/CleverRaven/Cataclysm-DDA/pull/54656))
-* Make "You mess up and destroy the <ITEM>" message considered bad ([#54653](https://github.com/CleverRaven/Cataclysm-DDA/pull/54653))
-* added emf detector to Paranormal Investigator ([#54651](https://github.com/CleverRaven/Cataclysm-DDA/pull/54651))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-01-22-0628 ([017f471](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-22-0628))
 
 * fix an typo ([#54661](https://github.com/CleverRaven/Cataclysm-DDA/pull/54661))
-* Chain push translation template workflow after experimental release ([#54644](https://github.com/CleverRaven/Cataclysm-DDA/pull/54644))
-* Do shallow clone in pull translations workflow ([#54645](https://github.com/CleverRaven/Cataclysm-DDA/pull/54645))
