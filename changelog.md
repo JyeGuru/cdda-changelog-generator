@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-29-0449 ([b50213a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0449))
+
 * Aftershock Exoplanet: New Alien fauna ([#54844](https://github.com/CleverRaven/Cataclysm-DDA/pull/54844))
 * Removed a zero from barter price of cooking oil. ([#54830](https://github.com/CleverRaven/Cataclysm-DDA/pull/54830))
 * Always show crafting recipes on item info, possibly with '...and more' ([#54854](https://github.com/CleverRaven/Cataclysm-DDA/pull/54854))
