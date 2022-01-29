@@ -1,3 +1,7 @@
+* [DinoMod] new hulk evolutions ([#54883](https://github.com/CleverRaven/Cataclysm-DDA/pull/54883))
+* Remove invalid TOC entry ([#54800](https://github.com/CleverRaven/Cataclysm-DDA/pull/54800))
+* Revert NPC mission name churns ([#54862](https://github.com/CleverRaven/Cataclysm-DDA/pull/54862))
+* Add `prof_forage_cooking` to acorn recipes ([#54858](https://github.com/CleverRaven/Cataclysm-DDA/pull/54858))
 * Fix Aftershock mapgen errors ([#54864](https://github.com/CleverRaven/Cataclysm-DDA/pull/54864))
 * Remove double fabrication requirement for basecamp stove ([#54877](https://github.com/CleverRaven/Cataclysm-DDA/pull/54877))
 
@@ -198,7 +202,3 @@
 * Remove slime glob from mutagen recipe ([#54679](https://github.com/CleverRaven/Cataclysm-DDA/pull/54679))
 * Nerf suits and bathrobes ([#54676](https://github.com/CleverRaven/Cataclysm-DDA/pull/54676))
 * Made the armor UI even more verbose in extreme situations ([#54671](https://github.com/CleverRaven/Cataclysm-DDA/pull/54671))
-* Updated mapgen-test ([#54669](https://github.com/CleverRaven/Cataclysm-DDA/pull/54669))
-* bombardier boomer polishing ([#54668](https://github.com/CleverRaven/Cataclysm-DDA/pull/54668))
-* Add gambeson arming pants ([#54665](https://github.com/CleverRaven/Cataclysm-DDA/pull/54665))
-* Combine wheat-free and wheat-full flours into a single recipe requirement ([#54663](https://github.com/CleverRaven/Cataclysm-DDA/pull/54663))
