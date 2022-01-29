@@ -1,3 +1,4 @@
+* ordinance -> ordnance ([#54888](https://github.com/CleverRaven/Cataclysm-DDA/pull/54888))
 * [DinoMod] new hulk evolutions ([#54883](https://github.com/CleverRaven/Cataclysm-DDA/pull/54883))
 * Remove invalid TOC entry ([#54800](https://github.com/CleverRaven/Cataclysm-DDA/pull/54800))
 * Revert NPC mission name churns ([#54862](https://github.com/CleverRaven/Cataclysm-DDA/pull/54862))
@@ -201,4 +202,3 @@
 * Gave the blood cookbook spawn locations ([#54680](https://github.com/CleverRaven/Cataclysm-DDA/pull/54680))
 * Remove slime glob from mutagen recipe ([#54679](https://github.com/CleverRaven/Cataclysm-DDA/pull/54679))
 * Nerf suits and bathrobes ([#54676](https://github.com/CleverRaven/Cataclysm-DDA/pull/54676))
-* Made the armor UI even more verbose in extreme situations ([#54671](https://github.com/CleverRaven/Cataclysm-DDA/pull/54671))
