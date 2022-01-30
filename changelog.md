@@ -1,3 +1,8 @@
+* Added recipe for the Single Point Sling ([#54885](https://github.com/CleverRaven/Cataclysm-DDA/pull/54885))
+* Show minimum as well as maximum encumberance on items ([#54884](https://github.com/CleverRaven/Cataclysm-DDA/pull/54884))
+* fixed personal zones (for real this time) (for real this time) ([#54867](https://github.com/CleverRaven/Cataclysm-DDA/pull/54867))
+* Remove redundant skills_required from several crafting recipes ([#54863](https://github.com/CleverRaven/Cataclysm-DDA/pull/54863))
+* Changes MRE descriptions about spoilage to be conditional. ([#54857](https://github.com/CleverRaven/Cataclysm-DDA/pull/54857))
 * Fixes For Worn Enchanted Armor ([#54852](https://github.com/CleverRaven/Cataclysm-DDA/pull/54852))
 * Quicken up seed extraction times ([#54850](https://github.com/CleverRaven/Cataclysm-DDA/pull/54850))
 * Add ability to revert submaps to update mapgen. ([#54772](https://github.com/CleverRaven/Cataclysm-DDA/pull/54772))
@@ -102,12 +107,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-01-26-0310 ([c69df08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-26-0310))
-
-* Adjust plague vector eggs and allow them as an option for powdered egg ([#54687](https://github.com/CleverRaven/Cataclysm-DDA/pull/54687))
-
----
-
 #### Cataclysm-DDA experimental build 2022-01-25-1859 ([ef67fb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-1859))
 
 * Feral soldiers ([#54717](https://github.com/CleverRaven/Cataclysm-DDA/pull/54717))
@@ -130,7 +129,6 @@
 * Add conditional bodypart flags ([#54749](https://github.com/CleverRaven/Cataclysm-DDA/pull/54749))
 * Fix for Bell Peppers never rotting ([#54748](https://github.com/CleverRaven/Cataclysm-DDA/pull/54748))
 * Fix merchant merch chat ([#54746](https://github.com/CleverRaven/Cataclysm-DDA/pull/54746))
-* [Magiclysm] XL Black dragon armor inheritance cleanups ([#54681](https://github.com/CleverRaven/Cataclysm-DDA/pull/54681))
 * Bump windows builds cachekeys. ([#54726](https://github.com/CleverRaven/Cataclysm-DDA/pull/54726))
 
 ---
@@ -171,7 +169,6 @@
 * @ menu only collapses limbs of equal health ([#54697](https://github.com/CleverRaven/Cataclysm-DDA/pull/54697))
 * Add `looks_like` to pure_meth ([#54696](https://github.com/CleverRaven/Cataclysm-DDA/pull/54696))
 * Add wide-character support to graph widgets ([#54694](https://github.com/CleverRaven/Cataclysm-DDA/pull/54694))
-* Nest placement bounds checking ([#54682](https://github.com/CleverRaven/Cataclysm-DDA/pull/54682))
 
 ---
 
@@ -187,18 +184,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-01-23-0628 ([51814ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-23-0628))
-
-* Plate Armor Recipe Fix ([#54686](https://github.com/CleverRaven/Cataclysm-DDA/pull/54686))
-
----
-
 #### Cataclysm-DDA experimental build 2022-01-23-0527 ([61206da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-23-0527))
 
 * Replaced glass door in toilets with wood ones in dollar stores ([#54688](https://github.com/CleverRaven/Cataclysm-DDA/pull/54688))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-22-2354 ([bbb2868](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-22-2354))
-
-* Gave the blood cookbook spawn locations ([#54680](https://github.com/CleverRaven/Cataclysm-DDA/pull/54680))
