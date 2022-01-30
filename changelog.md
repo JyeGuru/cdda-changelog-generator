@@ -1,3 +1,12 @@
+* Fix typos in NPC_ROBOFAC_INTERCOM.json ([#54913](https://github.com/CleverRaven/Cataclysm-DDA/pull/54913))
+* Remove EBOOK pockets from length calculations ([#54912](https://github.com/CleverRaven/Cataclysm-DDA/pull/54912))
+* Mark Unknown for translation ([#54910](https://github.com/CleverRaven/Cataclysm-DDA/pull/54910))
+* Mark walk modes for translation ([#54907](https://github.com/CleverRaven/Cataclysm-DDA/pull/54907))
+* Add latest pl.motd from Transifex ([#54903](https://github.com/CleverRaven/Cataclysm-DDA/pull/54903))
+* Mark missing NPC dialogs for translation ([#54900](https://github.com/CleverRaven/Cataclysm-DDA/pull/54900))
+* More accurate checking in layering conflicts ([#54897](https://github.com/CleverRaven/Cataclysm-DDA/pull/54897))
+* Add (nonfunctional) vitamins to some mutagens ([#54895](https://github.com/CleverRaven/Cataclysm-DDA/pull/54895))
+* to a clear -> to clear ([#54923](https://github.com/CleverRaven/Cataclysm-DDA/pull/54923))
 
 ---
 
@@ -168,27 +177,9 @@
 * Player cannot deconstruct wooden floors they themselves constructed ([#54713](https://github.com/CleverRaven/Cataclysm-DDA/pull/54713))
 * Fixing Robot Scavenger profession ([#54707](https://github.com/CleverRaven/Cataclysm-DDA/pull/54707))
 * Fixed number of syringes required to bring to nurse in Tacoma ranch ([#54705](https://github.com/CleverRaven/Cataclysm-DDA/pull/54705))
-* If movement is impeded, try to break free before trying to climb the fence ([#54704](https://github.com/CleverRaven/Cataclysm-DDA/pull/54704))
-* Added zombies spawn for s_apt and s_apt_2 locations ([#54701](https://github.com/CleverRaven/Cataclysm-DDA/pull/54701))
-* Fixed typo for medium propane tank ([#54700](https://github.com/CleverRaven/Cataclysm-DDA/pull/54700))
-* @ menu only collapses limbs of equal health ([#54697](https://github.com/CleverRaven/Cataclysm-DDA/pull/54697))
-* Add `looks_like` to pure_meth ([#54696](https://github.com/CleverRaven/Cataclysm-DDA/pull/54696))
-* Add wide-character support to graph widgets ([#54694](https://github.com/CleverRaven/Cataclysm-DDA/pull/54694))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-01-24-0603 ([8f56778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-24-0603))
 
 * Tilesets update 22-01-23 ([#54715](https://github.com/CleverRaven/Cataclysm-DDA/pull/54715))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-23-1429 ([ee4600e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-23-1429))
-
-* XL wool socks are now craftable ([#54689](https://github.com/CleverRaven/Cataclysm-DDA/pull/54689))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-23-0527 ([61206da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-23-0527))
-
-* Replaced glass door in toilets with wood ones in dollar stores ([#54688](https://github.com/CleverRaven/Cataclysm-DDA/pull/54688))
