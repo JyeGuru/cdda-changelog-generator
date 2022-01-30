@@ -1,3 +1,4 @@
+* Migrate to new Transifex CLI ([#54892](https://github.com/CleverRaven/Cataclysm-DDA/pull/54892))
 
 ---
 
@@ -118,12 +119,6 @@
 * Add disassembly recipe for towels ([#54760](https://github.com/CleverRaven/Cataclysm-DDA/pull/54760))
 * Fixed martial arts traits for NPCs ([#54762](https://github.com/CleverRaven/Cataclysm-DDA/pull/54762))
 * New zombie type: Sleepwalker ([#54750](https://github.com/CleverRaven/Cataclysm-DDA/pull/54750))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-25-0547 ([bee4e45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-0547))
-
-* fixed personal zones (for real this time) ([#54675](https://github.com/CleverRaven/Cataclysm-DDA/pull/54675))
 
 ---
 
