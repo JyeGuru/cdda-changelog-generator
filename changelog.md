@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-30-0754 ([7684355](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-30-0754))
+
 * drop the item on the ground ([#54930](https://github.com/CleverRaven/Cataclysm-DDA/pull/54930))
 * Add context to W from compass ([#54922](https://github.com/CleverRaven/Cataclysm-DDA/pull/54922))
 * Add context to Place to custom sidebar UI ([#54918](https://github.com/CleverRaven/Cataclysm-DDA/pull/54918))
