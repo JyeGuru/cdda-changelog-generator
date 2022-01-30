@@ -1,3 +1,6 @@
+* Fixes For Worn Enchanted Armor (#54852)
+* Quicken up seed extraction times (#54850)
+* Add ability to revert submaps to update mapgen. (#54772)
 * Migrate to new Transifex CLI (#54892)
 
 Cataclysm-DDA experimental build 2022-01-29-0942 (1bba9b7)
@@ -54,7 +57,6 @@ Cataclysm-DDA experimental build 2022-01-28-0658 (7ec78e4)
 * [DinoMod] weak points with effects mk 2 (#54777)
 * added molle functions to ballistic vests (#54771)
 * Weapon Categories: Barbaran Montante (#54758)
-* Police Department and Detention Services (#54678)
 * Fix ranged coverage tests (#54851)
 
 Cataclysm-DDA experimental build 2022-01-27-0622 (761fb51)
@@ -134,5 +136,3 @@ Cataclysm-DDA experimental build 2022-01-23-0527 (61206da)
 
 Cataclysm-DDA experimental build 2022-01-22-2354 (bbb2868)
 * Gave the blood cookbook spawn locations (#54680)
-* Remove slime glob from mutagen recipe (#54679)
-* Nerf suits and bathrobes (#54676)

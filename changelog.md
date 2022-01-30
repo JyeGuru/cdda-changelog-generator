@@ -1,3 +1,6 @@
+* Fixes For Worn Enchanted Armor ([#54852](https://github.com/CleverRaven/Cataclysm-DDA/pull/54852))
+* Quicken up seed extraction times ([#54850](https://github.com/CleverRaven/Cataclysm-DDA/pull/54850))
+* Add ability to revert submaps to update mapgen. ([#54772](https://github.com/CleverRaven/Cataclysm-DDA/pull/54772))
 * Migrate to new Transifex CLI ([#54892](https://github.com/CleverRaven/Cataclysm-DDA/pull/54892))
 
 ---
@@ -75,7 +78,6 @@
 * [DinoMod] weak points with effects mk 2 ([#54777](https://github.com/CleverRaven/Cataclysm-DDA/pull/54777))
 * added molle functions to ballistic vests ([#54771](https://github.com/CleverRaven/Cataclysm-DDA/pull/54771))
 * Weapon Categories: Barbaran Montante ([#54758](https://github.com/CleverRaven/Cataclysm-DDA/pull/54758))
-* Police Department and Detention Services ([#54678](https://github.com/CleverRaven/Cataclysm-DDA/pull/54678))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
@@ -200,5 +202,3 @@
 #### Cataclysm-DDA experimental build 2022-01-22-2354 ([bbb2868](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-22-2354))
 
 * Gave the blood cookbook spawn locations ([#54680](https://github.com/CleverRaven/Cataclysm-DDA/pull/54680))
-* Remove slime glob from mutagen recipe ([#54679](https://github.com/CleverRaven/Cataclysm-DDA/pull/54679))
-* Nerf suits and bathrobes ([#54676](https://github.com/CleverRaven/Cataclysm-DDA/pull/54676))
