@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-30-0654 ([22c8e2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-30-0654))
+
 * Added recipe for the Single Point Sling ([#54885](https://github.com/CleverRaven/Cataclysm-DDA/pull/54885))
 * Show minimum as well as maximum encumberance on items ([#54884](https://github.com/CleverRaven/Cataclysm-DDA/pull/54884))
 * fixed personal zones (for real this time) (for real this time) ([#54867](https://github.com/CleverRaven/Cataclysm-DDA/pull/54867))
