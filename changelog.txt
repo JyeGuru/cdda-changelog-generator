@@ -1,3 +1,4 @@
+* More Gambeson Stuff (#54947)
 * Make most of the weaker alcohols mixable. (#54799)
 * Fix permanent effect default duration (#54957)
 * Add global auto-note settings (#54855)
