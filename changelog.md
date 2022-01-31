@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-01-31-1443 ([6895299](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-1443))
+
+* Consistently name saw tools and blades ([#54948](https://github.com/CleverRaven/Cataclysm-DDA/pull/54948))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-31-0804 ([40b6557](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-0804))
 
 * More Gun Mod Upgrades ([#54961](https://github.com/CleverRaven/Cataclysm-DDA/pull/54961))
@@ -170,4 +176,3 @@
 #### Cataclysm-DDA experimental build 2022-01-25-0246 ([671245d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-0246))
 
 * Remove random double space between words in intercom speech ([#54755](https://github.com/CleverRaven/Cataclysm-DDA/pull/54755))
-* Add conditional bodypart flags ([#54749](https://github.com/CleverRaven/Cataclysm-DDA/pull/54749))

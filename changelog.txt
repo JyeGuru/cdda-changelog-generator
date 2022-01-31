@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-01-31-1443 (6895299)
+* Consistently name saw tools and blades (#54948)
+
 Cataclysm-DDA experimental build 2022-01-31-0804 (40b6557)
 * More Gun Mod Upgrades (#54961)
 * Remove double about (#54951)
@@ -122,4 +125,3 @@ Cataclysm-DDA experimental build 2022-01-25-1757 (9dbadbd)
 
 Cataclysm-DDA experimental build 2022-01-25-0246 (671245d)
 * Remove random double space between words in intercom speech (#54755)
-* Add conditional bodypart flags (#54749)
