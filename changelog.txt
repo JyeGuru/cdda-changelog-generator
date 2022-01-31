@@ -1,3 +1,11 @@
+* Align "Goals" with other panels (#54906)
+* Align sidebar widget values to the left by default (#54905)
+* Write door and window unit tests (#54874)
+* Fix multilayer stacking encumbrance (#54869)
+* Typo fix (#54841)
+
+Cataclysm-DDA experimental build 2022-01-31-0700 (a003639)
+* Allow *really* slow crafting (#54820)
 
 Cataclysm-DDA experimental build 2022-01-30-0754 (7684355)
 * drop the item on the ground (#54930)
@@ -91,9 +99,6 @@ Cataclysm-DDA experimental build 2022-01-26-0420 (51f7d93)
 * Caffeinate the caffeinated gum and decaffeinate the uncaffeinated coffee (#54780)
 * Sleepwalker Zombie fix (#54779)
 * [UI] In butchery menu, make it clear when an item will be disassembled (#54774)
-
-Cataclysm-DDA experimental build 2022-01-25-1859 (ef67fb9)
-* Feral soldiers (#54717)
 * Remove hardcoded Power Armor encumbrance reduction (#54764)
 * Add optional uncraft time to recipes (#54761)
 
@@ -108,9 +113,6 @@ Cataclysm-DDA experimental build 2022-01-25-0246 (671245d)
 * Fix for Bell Peppers never rotting (#54748)
 * Fix merchant merch chat (#54746)
 * Bump windows builds cachekeys. (#54726)
-
-Cataclysm-DDA experimental build 2022-01-24-2243 (b06810f)
-* Gives Western Boots a thickness (#54714)
 * Fix Fatima's barter success price mentioned (#54742)
 * added deconstruct for ballistic vests (#54741)
 * More looks_like for overmap (#54740)
@@ -120,14 +122,3 @@ Cataclysm-DDA experimental build 2022-01-24-2243 (b06810f)
 * Make charcoal forge use a rigid pocket (#54729)
 * Allow dangerous fields appearing on your tile to interrupt activities (#54727)
 * Adjust voltmeter weight from 3kg to 500g (#54724)
-* Rearrange info blocks depending on the item type (#54721)
-
-Cataclysm-DDA experimental build 2022-01-24-2122 (6a794f1)
-* General cleanup of `string_editor_window` (#54720)
-
-Cataclysm-DDA experimental build 2022-01-24-1919 (bb66027)
-* Better terrain error message (#54719)
-* Rearrange climb_down logic for greater clarity (#54716)
-
-Cataclysm-DDA experimental build 2022-01-24-0603 (8f56778)
-* Tilesets update 22-01-23 (#54715)

@@ -1,3 +1,14 @@
+* Align "Goals" with other panels ([#54906](https://github.com/CleverRaven/Cataclysm-DDA/pull/54906))
+* Align sidebar widget values to the left by default ([#54905](https://github.com/CleverRaven/Cataclysm-DDA/pull/54905))
+* Write door and window unit tests ([#54874](https://github.com/CleverRaven/Cataclysm-DDA/pull/54874))
+* Fix multilayer stacking encumbrance ([#54869](https://github.com/CleverRaven/Cataclysm-DDA/pull/54869))
+* Typo fix ([#54841](https://github.com/CleverRaven/Cataclysm-DDA/pull/54841))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-31-0700 ([a003639](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-0700))
+
+* Allow *really* slow crafting ([#54820](https://github.com/CleverRaven/Cataclysm-DDA/pull/54820))
 
 ---
 
@@ -127,12 +138,6 @@
 * Caffeinate the caffeinated gum and decaffeinate the uncaffeinated coffee ([#54780](https://github.com/CleverRaven/Cataclysm-DDA/pull/54780))
 * Sleepwalker Zombie fix ([#54779](https://github.com/CleverRaven/Cataclysm-DDA/pull/54779))
 * [UI] In butchery menu, make it clear when an item will be disassembled ([#54774](https://github.com/CleverRaven/Cataclysm-DDA/pull/54774))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-25-1859 ([ef67fb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-1859))
-
-* Feral soldiers ([#54717](https://github.com/CleverRaven/Cataclysm-DDA/pull/54717))
 * Remove hardcoded Power Armor encumbrance reduction ([#54764](https://github.com/CleverRaven/Cataclysm-DDA/pull/54764))
 * Add optional uncraft time to recipes ([#54761](https://github.com/CleverRaven/Cataclysm-DDA/pull/54761))
 
@@ -153,12 +158,6 @@
 * Fix for Bell Peppers never rotting ([#54748](https://github.com/CleverRaven/Cataclysm-DDA/pull/54748))
 * Fix merchant merch chat ([#54746](https://github.com/CleverRaven/Cataclysm-DDA/pull/54746))
 * Bump windows builds cachekeys. ([#54726](https://github.com/CleverRaven/Cataclysm-DDA/pull/54726))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-24-2243 ([b06810f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-24-2243))
-
-* Gives Western Boots a thickness ([#54714](https://github.com/CleverRaven/Cataclysm-DDA/pull/54714))
 * Fix Fatima's barter success price mentioned ([#54742](https://github.com/CleverRaven/Cataclysm-DDA/pull/54742))
 * added deconstruct for ballistic vests ([#54741](https://github.com/CleverRaven/Cataclysm-DDA/pull/54741))
 * More looks_like for overmap ([#54740](https://github.com/CleverRaven/Cataclysm-DDA/pull/54740))
@@ -168,23 +167,3 @@
 * Make charcoal forge use a rigid pocket ([#54729](https://github.com/CleverRaven/Cataclysm-DDA/pull/54729))
 * Allow dangerous fields appearing on your tile to interrupt activities ([#54727](https://github.com/CleverRaven/Cataclysm-DDA/pull/54727))
 * Adjust voltmeter weight from 3kg to 500g ([#54724](https://github.com/CleverRaven/Cataclysm-DDA/pull/54724))
-* Rearrange info blocks depending on the item type ([#54721](https://github.com/CleverRaven/Cataclysm-DDA/pull/54721))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-24-2122 ([6a794f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-24-2122))
-
-* General cleanup of `string_editor_window` ([#54720](https://github.com/CleverRaven/Cataclysm-DDA/pull/54720))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-24-1919 ([bb66027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-24-1919))
-
-* Better terrain error message ([#54719](https://github.com/CleverRaven/Cataclysm-DDA/pull/54719))
-* Rearrange climb_down logic for greater clarity ([#54716](https://github.com/CleverRaven/Cataclysm-DDA/pull/54716))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-24-0603 ([8f56778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-24-0603))
-
-* Tilesets update 22-01-23 ([#54715](https://github.com/CleverRaven/Cataclysm-DDA/pull/54715))
