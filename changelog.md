@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-31-1543 ([272b7a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-1543))
+
 * More Gambeson Stuff ([#54947](https://github.com/CleverRaven/Cataclysm-DDA/pull/54947))
 * Make most of the weaker alcohols mixable. ([#54799](https://github.com/CleverRaven/Cataclysm-DDA/pull/54799))
 * Fix permanent effect default duration ([#54957](https://github.com/CleverRaven/Cataclysm-DDA/pull/54957))

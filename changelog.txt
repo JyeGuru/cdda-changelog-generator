@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-01-31-1543 (272b7a4)
 * More Gambeson Stuff (#54947)
 * Make most of the weaker alcohols mixable. (#54799)
 * Fix permanent effect default duration (#54957)
