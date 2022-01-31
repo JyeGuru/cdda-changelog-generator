@@ -1,3 +1,8 @@
+* Make most of the weaker alcohols mixable. ([#54799](https://github.com/CleverRaven/Cataclysm-DDA/pull/54799))
+* Fix permanent effect default duration ([#54957](https://github.com/CleverRaven/Cataclysm-DDA/pull/54957))
+* Add global auto-note settings ([#54855](https://github.com/CleverRaven/Cataclysm-DDA/pull/54855))
+* Allow split coverage strings to be properly translated ([#54955](https://github.com/CleverRaven/Cataclysm-DDA/pull/54955))
+* Fix compile error on Clang compiler ([#54967](https://github.com/CleverRaven/Cataclysm-DDA/pull/54967))
 
 ---
 
@@ -98,12 +103,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-01-29-0334 ([249b4ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0334))
-
-* Colorize widget values above and below normal ([#54754](https://github.com/CleverRaven/Cataclysm-DDA/pull/54754))
-
----
-
 #### Cataclysm-DDA experimental build 2022-01-28-0753 ([64b4f57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-28-0753))
 
 * Allow anvils to be placed as furniture ([#54853](https://github.com/CleverRaven/Cataclysm-DDA/pull/54853))
@@ -138,7 +137,6 @@
 * Added longest_side_internal as a mod option ([#54781](https://github.com/CleverRaven/Cataclysm-DDA/pull/54781))
 * [DinoMod] weak points with effects mk 2 ([#54777](https://github.com/CleverRaven/Cataclysm-DDA/pull/54777))
 * added molle functions to ballistic vests ([#54771](https://github.com/CleverRaven/Cataclysm-DDA/pull/54771))
-* Weapon Categories: Barbaran Montante ([#54758](https://github.com/CleverRaven/Cataclysm-DDA/pull/54758))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
@@ -169,10 +167,3 @@
 
 * Add disassembly recipe for towels ([#54760](https://github.com/CleverRaven/Cataclysm-DDA/pull/54760))
 * Fixed martial arts traits for NPCs ([#54762](https://github.com/CleverRaven/Cataclysm-DDA/pull/54762))
-* New zombie type: Sleepwalker ([#54750](https://github.com/CleverRaven/Cataclysm-DDA/pull/54750))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-25-0246 ([671245d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-0246))
-
-* Remove random double space between words in intercom speech ([#54755](https://github.com/CleverRaven/Cataclysm-DDA/pull/54755))
