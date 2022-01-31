@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-01-31-0804 ([40b6557](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-0804))
+
 * More Gun Mod Upgrades ([#54961](https://github.com/CleverRaven/Cataclysm-DDA/pull/54961))
 * Remove double about ([#54951](https://github.com/CleverRaven/Cataclysm-DDA/pull/54951))
 * fix some typos ([#54950](https://github.com/CleverRaven/Cataclysm-DDA/pull/54950))
