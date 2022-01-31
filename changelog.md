@@ -171,4 +171,3 @@
 
 * Remove random double space between words in intercom speech ([#54755](https://github.com/CleverRaven/Cataclysm-DDA/pull/54755))
 * Add conditional bodypart flags ([#54749](https://github.com/CleverRaven/Cataclysm-DDA/pull/54749))
-* Fix for Bell Peppers never rotting ([#54748](https://github.com/CleverRaven/Cataclysm-DDA/pull/54748))
