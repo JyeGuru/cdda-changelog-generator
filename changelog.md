@@ -1,3 +1,7 @@
+* Added Masonry Saw to Power Tools group ([#54999](https://github.com/CleverRaven/Cataclysm-DDA/pull/54999))
+* Prevent being itchy from canceling activites ([#54994](https://github.com/CleverRaven/Cataclysm-DDA/pull/54994))
+* Add "OUTER" to tuxedo ([#54990](https://github.com/CleverRaven/Cataclysm-DDA/pull/54990))
+* Unscrew snail serum ([#54978](https://github.com/CleverRaven/Cataclysm-DDA/pull/54978))
 * Add context to worn as item location ([#54977](https://github.com/CleverRaven/Cataclysm-DDA/pull/54977))
 * Add sake and soy sauce recipe ([#54976](https://github.com/CleverRaven/Cataclysm-DDA/pull/54976))
 * Add context to custom sidebar ([#54975](https://github.com/CleverRaven/Cataclysm-DDA/pull/54975))
@@ -150,8 +154,6 @@
 * [Innawood] Makes cannon craftable ([#54792](https://github.com/CleverRaven/Cataclysm-DDA/pull/54792))
 * Cattail Jelly ([#54790](https://github.com/CleverRaven/Cataclysm-DDA/pull/54790))
 * Fix typos/grammar in tips.json ([#54789](https://github.com/CleverRaven/Cataclysm-DDA/pull/54789))
-* Added longest_side_internal as a mod option ([#54781](https://github.com/CleverRaven/Cataclysm-DDA/pull/54781))
-* [DinoMod] weak points with effects mk 2 ([#54777](https://github.com/CleverRaven/Cataclysm-DDA/pull/54777))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
@@ -165,10 +167,3 @@
 #### Cataclysm-DDA experimental build 2022-01-26-0610 ([97119d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-26-0610))
 
 * Fix typo: 27" off-road bicycle -> off-road bicycle TIRE ([#54785](https://github.com/CleverRaven/Cataclysm-DDA/pull/54785))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-26-0420 ([51f7d93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-26-0420))
-
-* Caffeinate the caffeinated gum and decaffeinate the uncaffeinated coffee ([#54780](https://github.com/CleverRaven/Cataclysm-DDA/pull/54780))
-* Sleepwalker Zombie fix ([#54779](https://github.com/CleverRaven/Cataclysm-DDA/pull/54779))
