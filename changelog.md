@@ -171,5 +171,4 @@
 * Sleepwalker Zombie fix ([#54779](https://github.com/CleverRaven/Cataclysm-DDA/pull/54779))
 * [UI] In butchery menu, make it clear when an item will be disassembled ([#54774](https://github.com/CleverRaven/Cataclysm-DDA/pull/54774))
 * Remove hardcoded Power Armor encumbrance reduction ([#54764](https://github.com/CleverRaven/Cataclysm-DDA/pull/54764))
-* Add optional uncraft time to recipes ([#54761](https://github.com/CleverRaven/Cataclysm-DDA/pull/54761))
 * Fixed martial arts traits for NPCs ([#54762](https://github.com/CleverRaven/Cataclysm-DDA/pull/54762))
