@@ -1,3 +1,8 @@
+* Add context to worn as item location ([#54977](https://github.com/CleverRaven/Cataclysm-DDA/pull/54977))
+* Add sake and soy sauce recipe ([#54976](https://github.com/CleverRaven/Cataclysm-DDA/pull/54976))
+* Add context to custom sidebar ([#54975](https://github.com/CleverRaven/Cataclysm-DDA/pull/54975))
+* Add dialog functions for age, height and improve formatting of compare_int ([#54974](https://github.com/CleverRaven/Cataclysm-DDA/pull/54974))
+* Crafting recipe for still no longer destroys included sand ([#54964](https://github.com/CleverRaven/Cataclysm-DDA/pull/54964))
 
 ---
 
@@ -78,7 +83,6 @@
 * Changes MRE descriptions about spoilage to be conditional. ([#54857](https://github.com/CleverRaven/Cataclysm-DDA/pull/54857))
 * Fixes For Worn Enchanted Armor ([#54852](https://github.com/CleverRaven/Cataclysm-DDA/pull/54852))
 * Quicken up seed extraction times ([#54850](https://github.com/CleverRaven/Cataclysm-DDA/pull/54850))
-* Add ability to revert submaps to update mapgen. ([#54772](https://github.com/CleverRaven/Cataclysm-DDA/pull/54772))
 * Migrate to new Transifex CLI ([#54892](https://github.com/CleverRaven/Cataclysm-DDA/pull/54892))
 
 ---
@@ -148,7 +152,6 @@
 * Fix typos/grammar in tips.json ([#54789](https://github.com/CleverRaven/Cataclysm-DDA/pull/54789))
 * Added longest_side_internal as a mod option ([#54781](https://github.com/CleverRaven/Cataclysm-DDA/pull/54781))
 * [DinoMod] weak points with effects mk 2 ([#54777](https://github.com/CleverRaven/Cataclysm-DDA/pull/54777))
-* added molle functions to ballistic vests ([#54771](https://github.com/CleverRaven/Cataclysm-DDA/pull/54771))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
@@ -169,6 +172,3 @@
 
 * Caffeinate the caffeinated gum and decaffeinate the uncaffeinated coffee ([#54780](https://github.com/CleverRaven/Cataclysm-DDA/pull/54780))
 * Sleepwalker Zombie fix ([#54779](https://github.com/CleverRaven/Cataclysm-DDA/pull/54779))
-* [UI] In butchery menu, make it clear when an item will be disassembled ([#54774](https://github.com/CleverRaven/Cataclysm-DDA/pull/54774))
-* Remove hardcoded Power Armor encumbrance reduction ([#54764](https://github.com/CleverRaven/Cataclysm-DDA/pull/54764))
-* Fixed martial arts traits for NPCs ([#54762](https://github.com/CleverRaven/Cataclysm-DDA/pull/54762))
