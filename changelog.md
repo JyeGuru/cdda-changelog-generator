@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-01-0639 ([1d4f464](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-01-0639))
+
+* Give better advice for the Foreman's electric motors quest ([#54986](https://github.com/CleverRaven/Cataclysm-DDA/pull/54986))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-01-31-1543 ([272b7a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-1543))
 
 * More Gambeson Stuff ([#54947](https://github.com/CleverRaven/Cataclysm-DDA/pull/54947))
@@ -166,10 +172,4 @@
 * [UI] In butchery menu, make it clear when an item will be disassembled ([#54774](https://github.com/CleverRaven/Cataclysm-DDA/pull/54774))
 * Remove hardcoded Power Armor encumbrance reduction ([#54764](https://github.com/CleverRaven/Cataclysm-DDA/pull/54764))
 * Add optional uncraft time to recipes ([#54761](https://github.com/CleverRaven/Cataclysm-DDA/pull/54761))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-25-1757 ([9dbadbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-25-1757))
-
-* Add disassembly recipe for towels ([#54760](https://github.com/CleverRaven/Cataclysm-DDA/pull/54760))
 * Fixed martial arts traits for NPCs ([#54762](https://github.com/CleverRaven/Cataclysm-DDA/pull/54762))
