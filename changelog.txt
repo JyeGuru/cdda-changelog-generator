@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-02-02-0031 (f7e3308)
 * Added Masonry Saw to Power Tools group (#54999)
 * Prevent being itchy from canceling activites (#54994)
 * Add "OUTER" to tuxedo (#54990)
