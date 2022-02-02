@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-02-0842 (689dfa5)
+* Make floor lamp transparent (#55009)
+
 Cataclysm-DDA experimental build 2022-02-02-0031 (f7e3308)
 * Added Masonry Saw to Power Tools group (#54999)
 * Prevent being itchy from canceling activites (#54994)
@@ -121,6 +124,3 @@ Cataclysm-DDA experimental build 2022-01-28-0658 (7ec78e4)
 
 Cataclysm-DDA experimental build 2022-01-27-0622 (761fb51)
 * NPC grammar fixes (#54836)
-
-Cataclysm-DDA experimental build 2022-01-26-0610 (97119d1)
-* Fix typo: 27" off-road bicycle -> off-road bicycle TIRE (#54785)

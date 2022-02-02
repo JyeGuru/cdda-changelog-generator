@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-02-0842 ([689dfa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-02-0842))
+
+* Make floor lamp transparent ([#55009](https://github.com/CleverRaven/Cataclysm-DDA/pull/55009))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-02-0031 ([f7e3308](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-02-0031))
 
 * Added Masonry Saw to Power Tools group ([#54999](https://github.com/CleverRaven/Cataclysm-DDA/pull/54999))
@@ -166,9 +172,3 @@
 #### Cataclysm-DDA experimental build 2022-01-27-0622 ([761fb51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-27-0622))
 
 * NPC grammar fixes ([#54836](https://github.com/CleverRaven/Cataclysm-DDA/pull/54836))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-26-0610 ([97119d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-26-0610))
-
-* Fix typo: 27" off-road bicycle -> off-road bicycle TIRE ([#54785](https://github.com/CleverRaven/Cataclysm-DDA/pull/54785))
