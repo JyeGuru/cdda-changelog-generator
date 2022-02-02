@@ -164,7 +164,6 @@
 * makes steel_lump disassembly work again ([#54793](https://github.com/CleverRaven/Cataclysm-DDA/pull/54793))
 * [Innawood] Makes cannon craftable ([#54792](https://github.com/CleverRaven/Cataclysm-DDA/pull/54792))
 * Cattail Jelly ([#54790](https://github.com/CleverRaven/Cataclysm-DDA/pull/54790))
-* Fix typos/grammar in tips.json ([#54789](https://github.com/CleverRaven/Cataclysm-DDA/pull/54789))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
