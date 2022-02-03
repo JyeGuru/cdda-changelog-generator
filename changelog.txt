@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-03-0641 (97d8c8b)
+* Fix magnifying glass recipe (#55024)
+
 Cataclysm-DDA experimental build 2022-02-02-0842 (689dfa5)
 * Make floor lamp transparent (#55009)
 
@@ -117,7 +120,6 @@ Cataclysm-DDA experimental build 2022-01-28-0658 (7ec78e4)
 * Updated several map extras to erase all before placing terrain (#54797)
 * Fix favourite recipes being unselectable via related menu (#54794)
 * makes steel_lump disassembly work again (#54793)
-* [Innawood] Makes cannon craftable (#54792)
 * Fix ranged coverage tests (#54851)
 
 Cataclysm-DDA experimental build 2022-01-27-0622 (761fb51)

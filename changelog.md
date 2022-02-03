@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-03-0641 ([97d8c8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-03-0641))
+
+* Fix magnifying glass recipe ([#55024](https://github.com/CleverRaven/Cataclysm-DDA/pull/55024))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-02-0842 ([689dfa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-02-0842))
 
 * Make floor lamp transparent ([#55009](https://github.com/CleverRaven/Cataclysm-DDA/pull/55009))
@@ -162,7 +168,6 @@
 * Updated several map extras to erase all before placing terrain ([#54797](https://github.com/CleverRaven/Cataclysm-DDA/pull/54797))
 * Fix favourite recipes being unselectable via related menu ([#54794](https://github.com/CleverRaven/Cataclysm-DDA/pull/54794))
 * makes steel_lump disassembly work again ([#54793](https://github.com/CleverRaven/Cataclysm-DDA/pull/54793))
-* [Innawood] Makes cannon craftable ([#54792](https://github.com/CleverRaven/Cataclysm-DDA/pull/54792))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
