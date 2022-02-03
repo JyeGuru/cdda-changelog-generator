@@ -1,3 +1,8 @@
+* Give a chance of another try if game is unable to find a valid starting location ([#55025](https://github.com/CleverRaven/Cataclysm-DDA/pull/55025))
+* Update requirements.txt for Pillow-9.0.0 ([#55022](https://github.com/CleverRaven/Cataclysm-DDA/pull/55022))
+* Fix update_mapgen bug ([#55021](https://github.com/CleverRaven/Cataclysm-DDA/pull/55021))
+* move BARS to integrated mod ([#55018](https://github.com/CleverRaven/Cataclysm-DDA/pull/55018))
+* Mechanics Practice recipes ([#55010](https://github.com/CleverRaven/Cataclysm-DDA/pull/55010))
 * Fix wrong calorie count on batch crafted foods ([#55008](https://github.com/CleverRaven/Cataclysm-DDA/pull/55008))
 * Vitamin rates from mutations now scale sensibly ([#55005](https://github.com/CleverRaven/Cataclysm-DDA/pull/55005))
 * Aligns mutation.cpp with other uses of condition.cpp ([#55004](https://github.com/CleverRaven/Cataclysm-DDA/pull/55004))
@@ -81,12 +86,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-01-31-0700 ([a003639](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-0700))
-
-* Allow *really* slow crafting ([#54820](https://github.com/CleverRaven/Cataclysm-DDA/pull/54820))
-
----
-
 #### Cataclysm-DDA experimental build 2022-01-30-0754 ([7684355](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-30-0754))
 
 * drop the item on the ground ([#54930](https://github.com/CleverRaven/Cataclysm-DDA/pull/54930))
@@ -152,8 +151,6 @@
 #### Cataclysm-DDA experimental build 2022-01-28-0753 ([64b4f57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-28-0753))
 
 * Allow anvils to be placed as furniture ([#54853](https://github.com/CleverRaven/Cataclysm-DDA/pull/54853))
-* Archive 0.E translations ([#54817](https://github.com/CleverRaven/Cataclysm-DDA/pull/54817))
-* Archive 0.D translations ([#54816](https://github.com/CleverRaven/Cataclysm-DDA/pull/54816))
 
 ---
 
@@ -166,8 +163,6 @@
 * Crafting: Prevent bionic pseudo-items from being used as components ([#54835](https://github.com/CleverRaven/Cataclysm-DDA/pull/54835))
 * prevent leather items disassembling into fur ([#54827](https://github.com/CleverRaven/Cataclysm-DDA/pull/54827))
 * Add option to clear pocket settings ([#54825](https://github.com/CleverRaven/Cataclysm-DDA/pull/54825))
-* Remove Midcourse Location from Burning Building Scenario ([#54823](https://github.com/CleverRaven/Cataclysm-DDA/pull/54823))
-* Include extra bodyparts in dodge calculations ([#54819](https://github.com/CleverRaven/Cataclysm-DDA/pull/54819))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
