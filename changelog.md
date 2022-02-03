@@ -1,3 +1,11 @@
+* Fix wrong calorie count on batch crafted foods ([#55008](https://github.com/CleverRaven/Cataclysm-DDA/pull/55008))
+* Vitamin rates from mutations now scale sensibly ([#55005](https://github.com/CleverRaven/Cataclysm-DDA/pull/55005))
+* Aligns mutation.cpp with other uses of condition.cpp ([#55004](https://github.com/CleverRaven/Cataclysm-DDA/pull/55004))
+* Clarify Trader Refresh Code ([#54996](https://github.com/CleverRaven/Cataclysm-DDA/pull/54996))
+* added stick recipe ([#54993](https://github.com/CleverRaven/Cataclysm-DDA/pull/54993))
+* Prevent crash when filling empty tank ([#54987](https://github.com/CleverRaven/Cataclysm-DDA/pull/54987))
+* Make armor traits more flexible ([#54966](https://github.com/CleverRaven/Cataclysm-DDA/pull/54966))
+* Remove redundant null terrains from mapgen ([#54959](https://github.com/CleverRaven/Cataclysm-DDA/pull/54959))
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
 * Fix crash in armor coverage test ([#55037](https://github.com/CleverRaven/Cataclysm-DDA/pull/55037))
@@ -39,7 +47,6 @@
 #### Cataclysm-DDA experimental build 2022-01-31-1543 ([272b7a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-1543))
 
 * More Gambeson Stuff ([#54947](https://github.com/CleverRaven/Cataclysm-DDA/pull/54947))
-* Make most of the weaker alcohols mixable. ([#54799](https://github.com/CleverRaven/Cataclysm-DDA/pull/54799))
 * Fix permanent effect default duration ([#54957](https://github.com/CleverRaven/Cataclysm-DDA/pull/54957))
 * Add global auto-note settings ([#54855](https://github.com/CleverRaven/Cataclysm-DDA/pull/54855))
 * Allow split coverage strings to be properly translated ([#54955](https://github.com/CleverRaven/Cataclysm-DDA/pull/54955))
@@ -115,7 +122,6 @@
 
 * ordinance -> ordnance ([#54888](https://github.com/CleverRaven/Cataclysm-DDA/pull/54888))
 * [DinoMod] new hulk evolutions ([#54883](https://github.com/CleverRaven/Cataclysm-DDA/pull/54883))
-* Remove invalid TOC entry ([#54800](https://github.com/CleverRaven/Cataclysm-DDA/pull/54800))
 * Revert NPC mission name churns ([#54862](https://github.com/CleverRaven/Cataclysm-DDA/pull/54862))
 * Add `prof_forage_cooking` to acorn recipes ([#54858](https://github.com/CleverRaven/Cataclysm-DDA/pull/54858))
 * Fix Aftershock mapgen errors ([#54864](https://github.com/CleverRaven/Cataclysm-DDA/pull/54864))
@@ -148,8 +154,6 @@
 * Allow anvils to be placed as furniture ([#54853](https://github.com/CleverRaven/Cataclysm-DDA/pull/54853))
 * Archive 0.E translations ([#54817](https://github.com/CleverRaven/Cataclysm-DDA/pull/54817))
 * Archive 0.D translations ([#54816](https://github.com/CleverRaven/Cataclysm-DDA/pull/54816))
-* Archive 0.C translations ([#54815](https://github.com/CleverRaven/Cataclysm-DDA/pull/54815))
-* Archive 0.B translations ([#54814](https://github.com/CleverRaven/Cataclysm-DDA/pull/54814))
 
 ---
 
@@ -164,10 +168,6 @@
 * Add option to clear pocket settings ([#54825](https://github.com/CleverRaven/Cataclysm-DDA/pull/54825))
 * Remove Midcourse Location from Burning Building Scenario ([#54823](https://github.com/CleverRaven/Cataclysm-DDA/pull/54823))
 * Include extra bodyparts in dodge calculations ([#54819](https://github.com/CleverRaven/Cataclysm-DDA/pull/54819))
-* Fix grammar of brewery/workshop descriptions and windmill grind spelling ([#54813](https://github.com/CleverRaven/Cataclysm-DDA/pull/54813))
-* Containers holding a stack of a single item will now display its quantity ([#54802](https://github.com/CleverRaven/Cataclysm-DDA/pull/54802))
-* Prevent `copy-from` from discarding armour values ([#54801](https://github.com/CleverRaven/Cataclysm-DDA/pull/54801))
-* Add more gitignore rules ([#54798](https://github.com/CleverRaven/Cataclysm-DDA/pull/54798))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
