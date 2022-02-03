@@ -163,7 +163,6 @@
 * Fix favourite recipes being unselectable via related menu ([#54794](https://github.com/CleverRaven/Cataclysm-DDA/pull/54794))
 * makes steel_lump disassembly work again ([#54793](https://github.com/CleverRaven/Cataclysm-DDA/pull/54793))
 * [Innawood] Makes cannon craftable ([#54792](https://github.com/CleverRaven/Cataclysm-DDA/pull/54792))
-* Cattail Jelly ([#54790](https://github.com/CleverRaven/Cataclysm-DDA/pull/54790))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---

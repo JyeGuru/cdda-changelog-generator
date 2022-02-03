@@ -118,7 +118,6 @@ Cataclysm-DDA experimental build 2022-01-28-0658 (7ec78e4)
 * Fix favourite recipes being unselectable via related menu (#54794)
 * makes steel_lump disassembly work again (#54793)
 * [Innawood] Makes cannon craftable (#54792)
-* Cattail Jelly (#54790)
 * Fix ranged coverage tests (#54851)
 
 Cataclysm-DDA experimental build 2022-01-27-0622 (761fb51)
