@@ -1,3 +1,6 @@
+* Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
+* Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
+* Fix crash in armor coverage test ([#55037](https://github.com/CleverRaven/Cataclysm-DDA/pull/55037))
 
 ---
 
@@ -165,9 +168,6 @@
 * Containers holding a stack of a single item will now display its quantity ([#54802](https://github.com/CleverRaven/Cataclysm-DDA/pull/54802))
 * Prevent `copy-from` from discarding armour values ([#54801](https://github.com/CleverRaven/Cataclysm-DDA/pull/54801))
 * Add more gitignore rules ([#54798](https://github.com/CleverRaven/Cataclysm-DDA/pull/54798))
-* Updated several map extras to erase all before placing terrain ([#54797](https://github.com/CleverRaven/Cataclysm-DDA/pull/54797))
-* Fix favourite recipes being unselectable via related menu ([#54794](https://github.com/CleverRaven/Cataclysm-DDA/pull/54794))
-* makes steel_lump disassembly work again ([#54793](https://github.com/CleverRaven/Cataclysm-DDA/pull/54793))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
