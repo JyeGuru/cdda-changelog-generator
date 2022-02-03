@@ -1,3 +1,6 @@
+* Lazy create level cache layers to reduce load path cpu ~8% (and slow tests 15-20s) ([#55038](https://github.com/CleverRaven/Cataclysm-DDA/pull/55038))
+* Portal Storm Tweaks ([#55036](https://github.com/CleverRaven/Cataclysm-DDA/pull/55036))
+* Adding salt water pipe and tannery to workshop version 2 ([#55026](https://github.com/CleverRaven/Cataclysm-DDA/pull/55026))
 * Give a chance of another try if game is unable to find a valid starting location ([#55025](https://github.com/CleverRaven/Cataclysm-DDA/pull/55025))
 * Update requirements.txt for Pillow-9.0.0 ([#55022](https://github.com/CleverRaven/Cataclysm-DDA/pull/55022))
 * Fix update_mapgen bug ([#55021](https://github.com/CleverRaven/Cataclysm-DDA/pull/55021))
@@ -161,8 +164,6 @@
 * Reduce time and tools need to uncraft patchwork cotton sheets ([#54840](https://github.com/CleverRaven/Cataclysm-DDA/pull/54840))
 * Make polycarbonate sheets spare parts, not ammo ([#54838](https://github.com/CleverRaven/Cataclysm-DDA/pull/54838))
 * Crafting: Prevent bionic pseudo-items from being used as components ([#54835](https://github.com/CleverRaven/Cataclysm-DDA/pull/54835))
-* prevent leather items disassembling into fur ([#54827](https://github.com/CleverRaven/Cataclysm-DDA/pull/54827))
-* Add option to clear pocket settings ([#54825](https://github.com/CleverRaven/Cataclysm-DDA/pull/54825))
 * Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
 
 ---
