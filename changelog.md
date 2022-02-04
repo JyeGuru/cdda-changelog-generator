@@ -1,3 +1,12 @@
+* Use move semantics in inventory::add_item() ([#55100](https://github.com/CleverRaven/Cataclysm-DDA/pull/55100))
+* Fix water temperature from vehicle faucets ([#55092](https://github.com/CleverRaven/Cataclysm-DDA/pull/55092))
+* Skip installing SDL2 on ncurses build on GHA ([#55088](https://github.com/CleverRaven/Cataclysm-DDA/pull/55088))
+* Add VARSIZE to gloves_light ([#55087](https://github.com/CleverRaven/Cataclysm-DDA/pull/55087))
+* Unhardcode grass cutting and add a stone sickle ([#55086](https://github.com/CleverRaven/Cataclysm-DDA/pull/55086))
+* Fix compile error on macOS ([#55085](https://github.com/CleverRaven/Cataclysm-DDA/pull/55085))
+* Fix typo in GitHub Actions CI test script ([#55084](https://github.com/CleverRaven/Cataclysm-DDA/pull/55084))
+* Make gourmand work as advertised ([#55083](https://github.com/CleverRaven/Cataclysm-DDA/pull/55083))
+* Added low profile mag pockets to light ballistic vest ([#55080](https://github.com/CleverRaven/Cataclysm-DDA/pull/55080))
 * More Utility Exo Spawns ([#55078](https://github.com/CleverRaven/Cataclysm-DDA/pull/55078))
 * Refactor inventory_multiselector and remove inventory_iuse_selector ([#55072](https://github.com/CleverRaven/Cataclysm-DDA/pull/55072))
 * Add standing floodlight appliance ([#55047](https://github.com/CleverRaven/Cataclysm-DDA/pull/55047))
@@ -112,8 +121,6 @@
 * Clothing butcher weight ([#54914](https://github.com/CleverRaven/Cataclysm-DDA/pull/54914))
 * Align "Goals" with other panels ([#54906](https://github.com/CleverRaven/Cataclysm-DDA/pull/54906))
 * Align sidebar widget values to the left by default ([#54905](https://github.com/CleverRaven/Cataclysm-DDA/pull/54905))
-* Write door and window unit tests ([#54874](https://github.com/CleverRaven/Cataclysm-DDA/pull/54874))
-* Fix multilayer stacking encumbrance ([#54869](https://github.com/CleverRaven/Cataclysm-DDA/pull/54869))
 
 ---
 
@@ -139,8 +146,6 @@
 
 * Added recipe for the Single Point Sling ([#54885](https://github.com/CleverRaven/Cataclysm-DDA/pull/54885))
 * Show minimum as well as maximum encumberance on items ([#54884](https://github.com/CleverRaven/Cataclysm-DDA/pull/54884))
-* fixed personal zones (for real this time) (for real this time) ([#54867](https://github.com/CleverRaven/Cataclysm-DDA/pull/54867))
-* Remove redundant skills_required from several crafting recipes ([#54863](https://github.com/CleverRaven/Cataclysm-DDA/pull/54863))
 * Migrate to new Transifex CLI ([#54892](https://github.com/CleverRaven/Cataclysm-DDA/pull/54892))
 
 ---
@@ -149,15 +154,6 @@
 
 * ordinance -> ordnance ([#54888](https://github.com/CleverRaven/Cataclysm-DDA/pull/54888))
 * [DinoMod] new hulk evolutions ([#54883](https://github.com/CleverRaven/Cataclysm-DDA/pull/54883))
-* Revert NPC mission name churns ([#54862](https://github.com/CleverRaven/Cataclysm-DDA/pull/54862))
-* Fix Aftershock mapgen errors ([#54864](https://github.com/CleverRaven/Cataclysm-DDA/pull/54864))
-* Remove double fabrication requirement for basecamp stove ([#54877](https://github.com/CleverRaven/Cataclysm-DDA/pull/54877))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-29-0842 ([3cd53fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0842))
-
-* Routine i18n updates on 29 January 2022 ([#54882](https://github.com/CleverRaven/Cataclysm-DDA/pull/54882))
 
 ---
 
