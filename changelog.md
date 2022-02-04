@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-04-0647 ([9fb7080](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-04-0647))
+
+* Added pants and leg armor to class ([#55057](https://github.com/CleverRaven/Cataclysm-DDA/pull/55057))
 * Make Clang 6 the basic build test configuration ([#55059](https://github.com/CleverRaven/Cataclysm-DDA/pull/55059))
 * Speedup item::best_pocket ~100% (2x as fast) and misc other wins too ([#55070](https://github.com/CleverRaven/Cataclysm-DDA/pull/55070))
 * Enhance limb healing functionality ([#55069](https://github.com/CleverRaven/Cataclysm-DDA/pull/55069))
@@ -128,7 +134,6 @@
 * fixed personal zones (for real this time) (for real this time) ([#54867](https://github.com/CleverRaven/Cataclysm-DDA/pull/54867))
 * Remove redundant skills_required from several crafting recipes ([#54863](https://github.com/CleverRaven/Cataclysm-DDA/pull/54863))
 * Changes MRE descriptions about spoilage to be conditional. ([#54857](https://github.com/CleverRaven/Cataclysm-DDA/pull/54857))
-* Fixes For Worn Enchanted Armor ([#54852](https://github.com/CleverRaven/Cataclysm-DDA/pull/54852))
 * Migrate to new Transifex CLI ([#54892](https://github.com/CleverRaven/Cataclysm-DDA/pull/54892))
 
 ---
