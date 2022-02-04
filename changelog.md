@@ -1,3 +1,12 @@
+* More Utility Exo Spawns ([#55078](https://github.com/CleverRaven/Cataclysm-DDA/pull/55078))
+* Refactor inventory_multiselector and remove inventory_iuse_selector ([#55072](https://github.com/CleverRaven/Cataclysm-DDA/pull/55072))
+* Add standing floodlight appliance ([#55047](https://github.com/CleverRaven/Cataclysm-DDA/pull/55047))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-04-2151 ([9dc9a34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-04-2151))
+
+* Rubik no longer restocks every time you talk to him ([#55046](https://github.com/CleverRaven/Cataclysm-DDA/pull/55046))
 
 ---
 
@@ -77,7 +86,6 @@
 
 * More Gambeson Stuff ([#54947](https://github.com/CleverRaven/Cataclysm-DDA/pull/54947))
 * Fix permanent effect default duration ([#54957](https://github.com/CleverRaven/Cataclysm-DDA/pull/54957))
-* Add global auto-note settings ([#54855](https://github.com/CleverRaven/Cataclysm-DDA/pull/54855))
 * Allow split coverage strings to be properly translated ([#54955](https://github.com/CleverRaven/Cataclysm-DDA/pull/54955))
 * Fix compile error on Clang compiler ([#54967](https://github.com/CleverRaven/Cataclysm-DDA/pull/54967))
 
@@ -133,7 +141,6 @@
 * Show minimum as well as maximum encumberance on items ([#54884](https://github.com/CleverRaven/Cataclysm-DDA/pull/54884))
 * fixed personal zones (for real this time) (for real this time) ([#54867](https://github.com/CleverRaven/Cataclysm-DDA/pull/54867))
 * Remove redundant skills_required from several crafting recipes ([#54863](https://github.com/CleverRaven/Cataclysm-DDA/pull/54863))
-* Changes MRE descriptions about spoilage to be conditional. ([#54857](https://github.com/CleverRaven/Cataclysm-DDA/pull/54857))
 * Migrate to new Transifex CLI ([#54892](https://github.com/CleverRaven/Cataclysm-DDA/pull/54892))
 
 ---
@@ -143,7 +150,6 @@
 * ordinance -> ordnance ([#54888](https://github.com/CleverRaven/Cataclysm-DDA/pull/54888))
 * [DinoMod] new hulk evolutions ([#54883](https://github.com/CleverRaven/Cataclysm-DDA/pull/54883))
 * Revert NPC mission name churns ([#54862](https://github.com/CleverRaven/Cataclysm-DDA/pull/54862))
-* Add `prof_forage_cooking` to acorn recipes ([#54858](https://github.com/CleverRaven/Cataclysm-DDA/pull/54858))
 * Fix Aftershock mapgen errors ([#54864](https://github.com/CleverRaven/Cataclysm-DDA/pull/54864))
 * Remove double fabrication requirement for basecamp stove ([#54877](https://github.com/CleverRaven/Cataclysm-DDA/pull/54877))
 
@@ -158,4 +164,3 @@
 #### Cataclysm-DDA experimental build 2022-01-29-0623 ([38f5a62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0623))
 
 * Fix though -> tough in robofac free merchant speech ([#54887](https://github.com/CleverRaven/Cataclysm-DDA/pull/54887))
-* Always show crafting recipes on item info, possibly with '...and more' ([#54854](https://github.com/CleverRaven/Cataclysm-DDA/pull/54854))
