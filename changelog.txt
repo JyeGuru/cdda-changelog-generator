@@ -117,6 +117,3 @@ Cataclysm-DDA experimental build 2022-01-29-0842 (3cd53fe)
 Cataclysm-DDA experimental build 2022-01-29-0623 (38f5a62)
 * Fix though -> tough in robofac free merchant speech (#54887)
 * Always show crafting recipes on item info, possibly with '...and more' (#54854)
-
-Cataclysm-DDA experimental build 2022-01-28-0753 (64b4f57)
-* Allow anvils to be placed as furniture (#54853)

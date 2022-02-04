@@ -159,9 +159,3 @@
 
 * Fix though -> tough in robofac free merchant speech ([#54887](https://github.com/CleverRaven/Cataclysm-DDA/pull/54887))
 * Always show crafting recipes on item info, possibly with '...and more' ([#54854](https://github.com/CleverRaven/Cataclysm-DDA/pull/54854))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-28-0753 ([64b4f57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-28-0753))
-
-* Allow anvils to be placed as furniture ([#54853](https://github.com/CleverRaven/Cataclysm-DDA/pull/54853))
