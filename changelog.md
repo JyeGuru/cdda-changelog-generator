@@ -1,3 +1,18 @@
+* Make Clang 6 the basic build test configuration ([#55059](https://github.com/CleverRaven/Cataclysm-DDA/pull/55059))
+* Speedup item::best_pocket ~100% (2x as fast) and misc other wins too ([#55070](https://github.com/CleverRaven/Cataclysm-DDA/pull/55070))
+* Enhance limb healing functionality ([#55069](https://github.com/CleverRaven/Cataclysm-DDA/pull/55069))
+* Rebalance test parallelism ([#55065](https://github.com/CleverRaven/Cataclysm-DDA/pull/55065))
+* Fixed blocked nested chunks for hunting lodge's basement ([#55064](https://github.com/CleverRaven/Cataclysm-DDA/pull/55064))
+* Add ability to count character flags, move all trait flag checks over to character flag ([#55061](https://github.com/CleverRaven/Cataclysm-DDA/pull/55061))
+* Link to libncursesw in CMake ([#55054](https://github.com/CleverRaven/Cataclysm-DDA/pull/55054))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-04-0021 ([de82384](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-04-0021))
+
+* Repair Nanobots are now sleep friendly ([#55052](https://github.com/CleverRaven/Cataclysm-DDA/pull/55052))
+* Changed symbol and its color for `mx_casings` map extra ([#55051](https://github.com/CleverRaven/Cataclysm-DDA/pull/55051))
+* Cost allowance for "give_equipment" ([#55048](https://github.com/CleverRaven/Cataclysm-DDA/pull/55048))
 * Lazy create level cache layers to reduce load path cpu ~8% (and slow tests 15-20s) ([#55038](https://github.com/CleverRaven/Cataclysm-DDA/pull/55038))
 * Portal Storm Tweaks ([#55036](https://github.com/CleverRaven/Cataclysm-DDA/pull/55036))
 * Adding salt water pipe and tannery to workshop version 2 ([#55026](https://github.com/CleverRaven/Cataclysm-DDA/pull/55026))
@@ -85,7 +100,6 @@
 * Align sidebar widget values to the left by default ([#54905](https://github.com/CleverRaven/Cataclysm-DDA/pull/54905))
 * Write door and window unit tests ([#54874](https://github.com/CleverRaven/Cataclysm-DDA/pull/54874))
 * Fix multilayer stacking encumbrance ([#54869](https://github.com/CleverRaven/Cataclysm-DDA/pull/54869))
-* Typo fix ([#54841](https://github.com/CleverRaven/Cataclysm-DDA/pull/54841))
 
 ---
 
@@ -115,7 +129,6 @@
 * Remove redundant skills_required from several crafting recipes ([#54863](https://github.com/CleverRaven/Cataclysm-DDA/pull/54863))
 * Changes MRE descriptions about spoilage to be conditional. ([#54857](https://github.com/CleverRaven/Cataclysm-DDA/pull/54857))
 * Fixes For Worn Enchanted Armor ([#54852](https://github.com/CleverRaven/Cataclysm-DDA/pull/54852))
-* Quicken up seed extraction times ([#54850](https://github.com/CleverRaven/Cataclysm-DDA/pull/54850))
 * Migrate to new Transifex CLI ([#54892](https://github.com/CleverRaven/Cataclysm-DDA/pull/54892))
 
 ---
@@ -140,13 +153,6 @@
 #### Cataclysm-DDA experimental build 2022-01-29-0623 ([38f5a62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0623))
 
 * Fix though -> tough in robofac free merchant speech ([#54887](https://github.com/CleverRaven/Cataclysm-DDA/pull/54887))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-29-0449 ([b50213a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0449))
-
-* Aftershock Exoplanet: New Alien fauna ([#54844](https://github.com/CleverRaven/Cataclysm-DDA/pull/54844))
-* Removed a zero from barter price of cooking oil. ([#54830](https://github.com/CleverRaven/Cataclysm-DDA/pull/54830))
 * Always show crafting recipes on item info, possibly with '...and more' ([#54854](https://github.com/CleverRaven/Cataclysm-DDA/pull/54854))
 
 ---
@@ -154,20 +160,3 @@
 #### Cataclysm-DDA experimental build 2022-01-28-0753 ([64b4f57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-28-0753))
 
 * Allow anvils to be placed as furniture ([#54853](https://github.com/CleverRaven/Cataclysm-DDA/pull/54853))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-28-0658 ([7ec78e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-28-0658))
-
-* Don't enjoy mp3 under narcosis or while sleeping ([#54845](https://github.com/CleverRaven/Cataclysm-DDA/pull/54845))
-* Allow migration of charges to an equivalent amount of single items ([#54843](https://github.com/CleverRaven/Cataclysm-DDA/pull/54843))
-* Reduce time and tools need to uncraft patchwork cotton sheets ([#54840](https://github.com/CleverRaven/Cataclysm-DDA/pull/54840))
-* Make polycarbonate sheets spare parts, not ammo ([#54838](https://github.com/CleverRaven/Cataclysm-DDA/pull/54838))
-* Crafting: Prevent bionic pseudo-items from being used as components ([#54835](https://github.com/CleverRaven/Cataclysm-DDA/pull/54835))
-* Fix ranged coverage tests ([#54851](https://github.com/CleverRaven/Cataclysm-DDA/pull/54851))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-27-0622 ([761fb51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-27-0622))
-
-* NPC grammar fixes ([#54836](https://github.com/CleverRaven/Cataclysm-DDA/pull/54836))
