@@ -1,3 +1,4 @@
+* Jsonify radiation widget ([#55079](https://github.com/CleverRaven/Cataclysm-DDA/pull/55079))
 
 ---
 
@@ -151,12 +152,6 @@
 * More accurate checking in layering conflicts ([#54897](https://github.com/CleverRaven/Cataclysm-DDA/pull/54897))
 * Add (nonfunctional) vitamins to some mutagens ([#54895](https://github.com/CleverRaven/Cataclysm-DDA/pull/54895))
 * to a clear -> to clear ([#54923](https://github.com/CleverRaven/Cataclysm-DDA/pull/54923))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-30-0654 ([22c8e2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-30-0654))
-
-* Added recipe for the Single Point Sling ([#54885](https://github.com/CleverRaven/Cataclysm-DDA/pull/54885))
 * Migrate to new Transifex CLI ([#54892](https://github.com/CleverRaven/Cataclysm-DDA/pull/54892))
 
 ---
