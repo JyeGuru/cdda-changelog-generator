@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-05-0240 ([a1a0541](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0240))
+
+* Alternate implementation of my earlier town hall varient ([#54921](https://github.com/CleverRaven/Cataclysm-DDA/pull/54921))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-05-0131 ([fe15810](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0131))
 
 * [CR] Fix nested pockets pickup ([#54941](https://github.com/CleverRaven/Cataclysm-DDA/pull/54941))
@@ -151,7 +157,6 @@
 #### Cataclysm-DDA experimental build 2022-01-30-0654 ([22c8e2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-30-0654))
 
 * Added recipe for the Single Point Sling ([#54885](https://github.com/CleverRaven/Cataclysm-DDA/pull/54885))
-* Show minimum as well as maximum encumberance on items ([#54884](https://github.com/CleverRaven/Cataclysm-DDA/pull/54884))
 * Migrate to new Transifex CLI ([#54892](https://github.com/CleverRaven/Cataclysm-DDA/pull/54892))
 
 ---

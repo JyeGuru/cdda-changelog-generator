@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-05-0240 (a1a0541)
+* Alternate implementation of my earlier town hall varient (#54921)
+
 Cataclysm-DDA experimental build 2022-02-05-0131 (fe15810)
 * [CR] Fix nested pockets pickup (#54941)
 * Use move semantics in inventory::add_item() (#55100)
@@ -112,7 +115,6 @@ Cataclysm-DDA experimental build 2022-01-30-0754 (7684355)
 
 Cataclysm-DDA experimental build 2022-01-30-0654 (22c8e2c)
 * Added recipe for the Single Point Sling (#54885)
-* Show minimum as well as maximum encumberance on items (#54884)
 * Migrate to new Transifex CLI (#54892)
 
 Cataclysm-DDA experimental build 2022-01-29-0942 (1bba9b7)
