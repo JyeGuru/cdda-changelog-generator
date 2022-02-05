@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-05-0623 ([7efd4f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0623))
+
+* Add an entry for the diary in the Action Menu ([#55045](https://github.com/CleverRaven/Cataclysm-DDA/pull/55045))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-05-0459 ([60b363d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0459))
 
 * Fix character name covering world name ([#55113](https://github.com/CleverRaven/Cataclysm-DDA/pull/55113))
@@ -163,5 +169,4 @@
 * Mark Unknown for translation ([#54910](https://github.com/CleverRaven/Cataclysm-DDA/pull/54910))
 * Mark walk modes for translation ([#54907](https://github.com/CleverRaven/Cataclysm-DDA/pull/54907))
 * Add latest pl.motd from Transifex ([#54903](https://github.com/CleverRaven/Cataclysm-DDA/pull/54903))
-* Mark missing NPC dialogs for translation ([#54900](https://github.com/CleverRaven/Cataclysm-DDA/pull/54900))
 * to a clear -> to clear ([#54923](https://github.com/CleverRaven/Cataclysm-DDA/pull/54923))

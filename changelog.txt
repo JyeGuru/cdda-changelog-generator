@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-05-0623 (7efd4f5)
+* Add an entry for the diary in the Action Menu (#55045)
+
 Cataclysm-DDA experimental build 2022-02-05-0459 (60b363d)
 * Fix character name covering world name (#55113)
 
@@ -118,5 +121,4 @@ Cataclysm-DDA experimental build 2022-01-30-0754 (7684355)
 * Mark Unknown for translation (#54910)
 * Mark walk modes for translation (#54907)
 * Add latest pl.motd from Transifex (#54903)
-* Mark missing NPC dialogs for translation (#54900)
 * to a clear -> to clear (#54923)
