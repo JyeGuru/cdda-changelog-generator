@@ -1,3 +1,4 @@
+* Fix character name covering world name (#55113)
 
 Cataclysm-DDA experimental build 2022-02-05-0348 (6ccd58e)
 * Restore "Building with Visual Studio" heading (#55105)
@@ -116,5 +117,4 @@ Cataclysm-DDA experimental build 2022-01-30-0754 (7684355)
 * Mark walk modes for translation (#54907)
 * Add latest pl.motd from Transifex (#54903)
 * Mark missing NPC dialogs for translation (#54900)
-* More accurate checking in layering conflicts (#54897)
 * to a clear -> to clear (#54923)

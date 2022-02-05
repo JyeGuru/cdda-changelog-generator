@@ -1,3 +1,4 @@
+* Fix character name covering world name ([#55113](https://github.com/CleverRaven/Cataclysm-DDA/pull/55113))
 
 ---
 
@@ -158,5 +159,4 @@
 * Mark walk modes for translation ([#54907](https://github.com/CleverRaven/Cataclysm-DDA/pull/54907))
 * Add latest pl.motd from Transifex ([#54903](https://github.com/CleverRaven/Cataclysm-DDA/pull/54903))
 * Mark missing NPC dialogs for translation ([#54900](https://github.com/CleverRaven/Cataclysm-DDA/pull/54900))
-* More accurate checking in layering conflicts ([#54897](https://github.com/CleverRaven/Cataclysm-DDA/pull/54897))
 * to a clear -> to clear ([#54923](https://github.com/CleverRaven/Cataclysm-DDA/pull/54923))
