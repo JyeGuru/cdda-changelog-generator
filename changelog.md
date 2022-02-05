@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-05-0348 ([6ccd58e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0348))
+
 * Restore "Building with Visual Studio" heading ([#55105](https://github.com/CleverRaven/Cataclysm-DDA/pull/55105))
 * Don't fail-fast on master builds for the general matrix. ([#55103](https://github.com/CleverRaven/Cataclysm-DDA/pull/55103))
 * Optimize item spawn list creation ([#55099](https://github.com/CleverRaven/Cataclysm-DDA/pull/55099))
