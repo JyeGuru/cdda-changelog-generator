@@ -1,3 +1,7 @@
+* Restore "Building with Visual Studio" heading ([#55105](https://github.com/CleverRaven/Cataclysm-DDA/pull/55105))
+* Don't fail-fast on master builds for the general matrix. ([#55103](https://github.com/CleverRaven/Cataclysm-DDA/pull/55103))
+* Optimize item spawn list creation ([#55099](https://github.com/CleverRaven/Cataclysm-DDA/pull/55099))
+* Molle Pouch & Load Bearing Vest Recipes, Consistency Pass on \recipes\armor\storage ([#55073](https://github.com/CleverRaven/Cataclysm-DDA/pull/55073))
 * Jsonify radiation widget ([#55079](https://github.com/CleverRaven/Cataclysm-DDA/pull/55079))
 
 ---
@@ -150,18 +154,4 @@
 * Add latest pl.motd from Transifex ([#54903](https://github.com/CleverRaven/Cataclysm-DDA/pull/54903))
 * Mark missing NPC dialogs for translation ([#54900](https://github.com/CleverRaven/Cataclysm-DDA/pull/54900))
 * More accurate checking in layering conflicts ([#54897](https://github.com/CleverRaven/Cataclysm-DDA/pull/54897))
-* Add (nonfunctional) vitamins to some mutagens ([#54895](https://github.com/CleverRaven/Cataclysm-DDA/pull/54895))
 * to a clear -> to clear ([#54923](https://github.com/CleverRaven/Cataclysm-DDA/pull/54923))
-* Migrate to new Transifex CLI ([#54892](https://github.com/CleverRaven/Cataclysm-DDA/pull/54892))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-29-0942 ([1bba9b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0942))
-
-* ordinance -> ordnance ([#54888](https://github.com/CleverRaven/Cataclysm-DDA/pull/54888))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-29-0623 ([38f5a62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0623))
-
-* Fix though -> tough in robofac free merchant speech ([#54887](https://github.com/CleverRaven/Cataclysm-DDA/pull/54887))
