@@ -1,3 +1,4 @@
+* [CR] Fix nested pockets pickup (#54941)
 * Use move semantics in inventory::add_item() (#55100)
 * Fix water temperature from vehicle faucets (#55092)
 * Skip installing SDL2 on ncurses build on GHA (#55088)
@@ -114,7 +115,6 @@ Cataclysm-DDA experimental build 2022-01-30-0654 (22c8e2c)
 
 Cataclysm-DDA experimental build 2022-01-29-0942 (1bba9b7)
 * ordinance -> ordnance (#54888)
-* [DinoMod] new hulk evolutions (#54883)
 
 Cataclysm-DDA experimental build 2022-01-29-0623 (38f5a62)
 * Fix though -> tough in robofac free merchant speech (#54887)

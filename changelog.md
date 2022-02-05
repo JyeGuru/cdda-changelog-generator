@@ -1,3 +1,4 @@
+* [CR] Fix nested pockets pickup ([#54941](https://github.com/CleverRaven/Cataclysm-DDA/pull/54941))
 * Use move semantics in inventory::add_item() ([#55100](https://github.com/CleverRaven/Cataclysm-DDA/pull/55100))
 * Fix water temperature from vehicle faucets ([#55092](https://github.com/CleverRaven/Cataclysm-DDA/pull/55092))
 * Skip installing SDL2 on ncurses build on GHA ([#55088](https://github.com/CleverRaven/Cataclysm-DDA/pull/55088))
@@ -153,7 +154,6 @@
 #### Cataclysm-DDA experimental build 2022-01-29-0942 ([1bba9b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-29-0942))
 
 * ordinance -> ordnance ([#54888](https://github.com/CleverRaven/Cataclysm-DDA/pull/54888))
-* [DinoMod] new hulk evolutions ([#54883](https://github.com/CleverRaven/Cataclysm-DDA/pull/54883))
 
 ---
 
