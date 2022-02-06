@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-02-06-0843 (d08dddd)
 * Add message to end of failed pickup activity (#55136)
 * Added check for being on ground for several cases of falling down (#55128)
 * Use move semantics in profession::items() (#55127)

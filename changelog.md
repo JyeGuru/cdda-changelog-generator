@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-06-0843 ([d08dddd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-06-0843))
+
 * Add message to end of failed pickup activity ([#55136](https://github.com/CleverRaven/Cataclysm-DDA/pull/55136))
 * Added check for being on ground for several cases of falling down ([#55128](https://github.com/CleverRaven/Cataclysm-DDA/pull/55128))
 * Use move semantics in profession::items() ([#55127](https://github.com/CleverRaven/Cataclysm-DDA/pull/55127))
