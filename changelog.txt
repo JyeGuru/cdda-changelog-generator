@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-06-2331 (7ba05c9)
+* Artisans Stocks Refresh (#55002)
+
 Cataclysm-DDA experimental build 2022-02-06-2048 (afef564)
 * JSONify movement mode widgets (#55143)
 
@@ -28,9 +31,6 @@ Cataclysm-DDA experimental build 2022-02-05-0348 (6ccd58e)
 * Optimize item spawn list creation (#55099)
 * Molle Pouch & Load Bearing Vest Recipes, Consistency Pass on \recipes\armor\storage (#55073)
 * Jsonify radiation widget (#55079)
-
-Cataclysm-DDA experimental build 2022-02-05-0240 (a1a0541)
-* Alternate implementation of my earlier town hall varient (#54921)
 
 Cataclysm-DDA experimental build 2022-02-05-0131 (fe15810)
 * [CR] Fix nested pockets pickup (#54941)

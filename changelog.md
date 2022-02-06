@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-06-2331 ([7ba05c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-06-2331))
+
+* Artisans Stocks Refresh ([#55002](https://github.com/CleverRaven/Cataclysm-DDA/pull/55002))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-06-2048 ([afef564](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-06-2048))
 
 * JSONify movement mode widgets ([#55143](https://github.com/CleverRaven/Cataclysm-DDA/pull/55143))
@@ -46,12 +52,6 @@
 * Optimize item spawn list creation ([#55099](https://github.com/CleverRaven/Cataclysm-DDA/pull/55099))
 * Molle Pouch & Load Bearing Vest Recipes, Consistency Pass on \recipes\armor\storage ([#55073](https://github.com/CleverRaven/Cataclysm-DDA/pull/55073))
 * Jsonify radiation widget ([#55079](https://github.com/CleverRaven/Cataclysm-DDA/pull/55079))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-05-0240 ([a1a0541](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0240))
-
-* Alternate implementation of my earlier town hall varient ([#54921](https://github.com/CleverRaven/Cataclysm-DDA/pull/54921))
 
 ---
 
