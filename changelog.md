@@ -1,3 +1,9 @@
+* Add message to end of failed pickup activity ([#55136](https://github.com/CleverRaven/Cataclysm-DDA/pull/55136))
+* Added check for being on ground for several cases of falling down ([#55128](https://github.com/CleverRaven/Cataclysm-DDA/pull/55128))
+* Use move semantics in profession::items() ([#55127](https://github.com/CleverRaven/Cataclysm-DDA/pull/55127))
+* Follow HTTP 302 redirection in installing Transifex CLI ([#55126](https://github.com/CleverRaven/Cataclysm-DDA/pull/55126))
+* JSONify weight text widget ([#55111](https://github.com/CleverRaven/Cataclysm-DDA/pull/55111))
+* Added OM_MOVE and u_near_om_location EOC effects ([#55077](https://github.com/CleverRaven/Cataclysm-DDA/pull/55077))
 * Replaced `HEATPROOF` flag with `HEAT_IMMUNE` flag for consistency ([#55062](https://github.com/CleverRaven/Cataclysm-DDA/pull/55062))
 * Allocate test NPC on heap ([#54965](https://github.com/CleverRaven/Cataclysm-DDA/pull/54965))
 
@@ -161,7 +167,6 @@
 * Update robofac_greaves to use ALLOWS_TAIL ([#54936](https://github.com/CleverRaven/Cataclysm-DDA/pull/54936))
 * Update pl.credits ([#54935](https://github.com/CleverRaven/Cataclysm-DDA/pull/54935))
 * Fix the arsonist's fertilizer description ([#54932](https://github.com/CleverRaven/Cataclysm-DDA/pull/54932))
-* Clothing butcher weight ([#54914](https://github.com/CleverRaven/Cataclysm-DDA/pull/54914))
 
 ---
 
@@ -170,9 +175,4 @@
 * drop the item on the ground ([#54930](https://github.com/CleverRaven/Cataclysm-DDA/pull/54930))
 * Add context to W from compass ([#54922](https://github.com/CleverRaven/Cataclysm-DDA/pull/54922))
 * Add context to Place to custom sidebar UI ([#54918](https://github.com/CleverRaven/Cataclysm-DDA/pull/54918))
-* Fix the padding for widget alignment ([#54915](https://github.com/CleverRaven/Cataclysm-DDA/pull/54915))
-* Fix typos in NPC_ROBOFAC_INTERCOM.json ([#54913](https://github.com/CleverRaven/Cataclysm-DDA/pull/54913))
-* Remove EBOOK pockets from length calculations ([#54912](https://github.com/CleverRaven/Cataclysm-DDA/pull/54912))
-* Mark Unknown for translation ([#54910](https://github.com/CleverRaven/Cataclysm-DDA/pull/54910))
-* Mark walk modes for translation ([#54907](https://github.com/CleverRaven/Cataclysm-DDA/pull/54907))
 * to a clear -> to clear ([#54923](https://github.com/CleverRaven/Cataclysm-DDA/pull/54923))
