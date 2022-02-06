@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-06-2048 ([afef564](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-06-2048))
+
+* JSONify movement mode widgets ([#55143](https://github.com/CleverRaven/Cataclysm-DDA/pull/55143))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-06-0843 ([d08dddd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-06-0843))
 
 * Add message to end of failed pickup activity ([#55136](https://github.com/CleverRaven/Cataclysm-DDA/pull/55136))
@@ -179,5 +185,4 @@
 
 * drop the item on the ground ([#54930](https://github.com/CleverRaven/Cataclysm-DDA/pull/54930))
 * Add context to W from compass ([#54922](https://github.com/CleverRaven/Cataclysm-DDA/pull/54922))
-* Add context to Place to custom sidebar UI ([#54918](https://github.com/CleverRaven/Cataclysm-DDA/pull/54918))
 * to a clear -> to clear ([#54923](https://github.com/CleverRaven/Cataclysm-DDA/pull/54923))

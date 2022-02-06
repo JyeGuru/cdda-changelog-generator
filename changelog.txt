@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-06-2048 (afef564)
+* JSONify movement mode widgets (#55143)
+
 Cataclysm-DDA experimental build 2022-02-06-0843 (d08dddd)
 * Add message to end of failed pickup activity (#55136)
 * Added check for being on ground for several cases of falling down (#55128)
@@ -125,5 +128,4 @@ Cataclysm-DDA experimental build 2022-01-31-0804 (40b6557)
 Cataclysm-DDA experimental build 2022-01-30-0754 (7684355)
 * drop the item on the ground (#54930)
 * Add context to W from compass (#54922)
-* Add context to Place to custom sidebar UI (#54918)
 * to a clear -> to clear (#54923)
