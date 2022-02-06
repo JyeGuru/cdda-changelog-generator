@@ -1,3 +1,4 @@
+* Hotfix segmentation fault after commit Lazy create level cache layers ([#55121](https://github.com/CleverRaven/Cataclysm-DDA/pull/55121))
 
 ---
 
@@ -168,5 +169,4 @@
 * Remove EBOOK pockets from length calculations ([#54912](https://github.com/CleverRaven/Cataclysm-DDA/pull/54912))
 * Mark Unknown for translation ([#54910](https://github.com/CleverRaven/Cataclysm-DDA/pull/54910))
 * Mark walk modes for translation ([#54907](https://github.com/CleverRaven/Cataclysm-DDA/pull/54907))
-* Add latest pl.motd from Transifex ([#54903](https://github.com/CleverRaven/Cataclysm-DDA/pull/54903))
 * to a clear -> to clear ([#54923](https://github.com/CleverRaven/Cataclysm-DDA/pull/54923))

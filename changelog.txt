@@ -1,3 +1,4 @@
+* Hotfix segmentation fault after commit Lazy create level cache layers (#55121)
 
 Cataclysm-DDA experimental build 2022-02-05-0623 (7efd4f5)
 * Add an entry for the diary in the Action Menu (#55045)
@@ -120,5 +121,4 @@ Cataclysm-DDA experimental build 2022-01-30-0754 (7684355)
 * Remove EBOOK pockets from length calculations (#54912)
 * Mark Unknown for translation (#54910)
 * Mark walk modes for translation (#54907)
-* Add latest pl.motd from Transifex (#54903)
 * to a clear -> to clear (#54923)
