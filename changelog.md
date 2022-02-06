@@ -1,3 +1,5 @@
+* Replaced `HEATPROOF` flag with `HEAT_IMMUNE` flag for consistency ([#55062](https://github.com/CleverRaven/Cataclysm-DDA/pull/55062))
+* Allocate test NPC on heap ([#54965](https://github.com/CleverRaven/Cataclysm-DDA/pull/54965))
 
 ---
 
@@ -160,8 +162,6 @@
 * Update pl.credits ([#54935](https://github.com/CleverRaven/Cataclysm-DDA/pull/54935))
 * Fix the arsonist's fertilizer description ([#54932](https://github.com/CleverRaven/Cataclysm-DDA/pull/54932))
 * Clothing butcher weight ([#54914](https://github.com/CleverRaven/Cataclysm-DDA/pull/54914))
-* Align "Goals" with other panels ([#54906](https://github.com/CleverRaven/Cataclysm-DDA/pull/54906))
-* Align sidebar widget values to the left by default ([#54905](https://github.com/CleverRaven/Cataclysm-DDA/pull/54905))
 
 ---
 

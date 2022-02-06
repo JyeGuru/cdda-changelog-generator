@@ -1,3 +1,5 @@
+* Replaced `HEATPROOF` flag with `HEAT_IMMUNE` flag for consistency (#55062)
+* Allocate test NPC on heap (#54965)
 
 Cataclysm-DDA experimental build 2022-02-06-0615 (55900e8)
 * JSONify thirst & hunger widgets (#55118)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2022-01-31-0804 (40b6557)
 * Update pl.credits (#54935)
 * Fix the arsonist's fertilizer description (#54932)
 * Clothing butcher weight (#54914)
-* Align "Goals" with other panels (#54906)
-* Align sidebar widget values to the left by default (#54905)
 
 Cataclysm-DDA experimental build 2022-01-30-0754 (7684355)
 * drop the item on the ground (#54930)
