@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-06-0615 ([55900e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-06-0615))
+
+* JSONify thirst & hunger widgets ([#55118](https://github.com/CleverRaven/Cataclysm-DDA/pull/55118))
 * Hotfix segmentation fault after commit Lazy create level cache layers ([#55121](https://github.com/CleverRaven/Cataclysm-DDA/pull/55121))
 
 ---
