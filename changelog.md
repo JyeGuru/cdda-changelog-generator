@@ -1,3 +1,15 @@
+* Add max length to worldname input ([#55152](https://github.com/CleverRaven/Cataclysm-DDA/pull/55152))
+* Install Python3 dependencies in Push Translation Template workflow ([#55150](https://github.com/CleverRaven/Cataclysm-DDA/pull/55150))
+* Fix pickup activity error heap-use-after-free ([#55149](https://github.com/CleverRaven/Cataclysm-DDA/pull/55149))
+* add 'ERASE_ALL_BEFORE_PLACING_TERRAIN' flags to map_extras/sewers.json ([#55147](https://github.com/CleverRaven/Cataclysm-DDA/pull/55147))
+* added 4x sight to spawns ([#55145](https://github.com/CleverRaven/Cataclysm-DDA/pull/55145))
+* Reset player character position in NPC attack test ([#55134](https://github.com/CleverRaven/Cataclysm-DDA/pull/55134))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-07-0701 ([b16f740](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-0701))
+
+* Add a kiln as placeable appliance ([#55125](https://github.com/CleverRaven/Cataclysm-DDA/pull/55125))
 
 ---
 
@@ -174,15 +186,3 @@
 * Add makeshift cane and crutch items and recipes, add CRUTCH tag to hollow cane ([#54944](https://github.com/CleverRaven/Cataclysm-DDA/pull/54944))
 * Add looks_like to basic pipe spear ([#54943](https://github.com/CleverRaven/Cataclysm-DDA/pull/54943))
 * Add looks_like to bottle_bathroom ([#54942](https://github.com/CleverRaven/Cataclysm-DDA/pull/54942))
-* Update en.credits ([#54938](https://github.com/CleverRaven/Cataclysm-DDA/pull/54938))
-* Update robofac_greaves to use ALLOWS_TAIL ([#54936](https://github.com/CleverRaven/Cataclysm-DDA/pull/54936))
-* Update pl.credits ([#54935](https://github.com/CleverRaven/Cataclysm-DDA/pull/54935))
-* Fix the arsonist's fertilizer description ([#54932](https://github.com/CleverRaven/Cataclysm-DDA/pull/54932))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-30-0754 ([7684355](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-30-0754))
-
-* drop the item on the ground ([#54930](https://github.com/CleverRaven/Cataclysm-DDA/pull/54930))
-* Add context to W from compass ([#54922](https://github.com/CleverRaven/Cataclysm-DDA/pull/54922))
-* to a clear -> to clear ([#54923](https://github.com/CleverRaven/Cataclysm-DDA/pull/54923))
