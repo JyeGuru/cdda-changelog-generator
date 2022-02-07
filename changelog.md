@@ -1,3 +1,29 @@
+* Added heavy crowbar as an item ([#55027](https://github.com/CleverRaven/Cataclysm-DDA/pull/55027))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-07-1815 ([0fde9da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-1815))
+
+* Made recipe of makeshift hammer reversible ([#55186](https://github.com/CleverRaven/Cataclysm-DDA/pull/55186))
+* Made blood filter remove triffid paralyze poison ([#55179](https://github.com/CleverRaven/Cataclysm-DDA/pull/55179))
+* No Junkplate On Cody ([#55174](https://github.com/CleverRaven/Cataclysm-DDA/pull/55174))
+* Fix potential crash when processing widgets ([#55141](https://github.com/CleverRaven/Cataclysm-DDA/pull/55141))
+* Optimize overmap special placement with zero-copy transformation ([#55124](https://github.com/CleverRaven/Cataclysm-DDA/pull/55124))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-07-1709 ([b3f9826](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-1709))
+
+* Fix panel deserialization crash ([#55167](https://github.com/CleverRaven/Cataclysm-DDA/pull/55167))
+* Restrict player's view when prone, similar to crouch ([#55162](https://github.com/CleverRaven/Cataclysm-DDA/pull/55162))
+* Few tweaks for traps ([#55157](https://github.com/CleverRaven/Cataclysm-DDA/pull/55157))
+* Optimize null stream in DebugLog ([#55156](https://github.com/CleverRaven/Cataclysm-DDA/pull/55156))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-07-1608 ([ea101df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-1608))
+
+* Minor changes to Plant-based json ([#55153](https://github.com/CleverRaven/Cataclysm-DDA/pull/55153))
 
 ---
 
@@ -69,12 +95,6 @@
 * Optimize item spawn list creation ([#55099](https://github.com/CleverRaven/Cataclysm-DDA/pull/55099))
 * Molle Pouch & Load Bearing Vest Recipes, Consistency Pass on \recipes\armor\storage ([#55073](https://github.com/CleverRaven/Cataclysm-DDA/pull/55073))
 * Jsonify radiation widget ([#55079](https://github.com/CleverRaven/Cataclysm-DDA/pull/55079))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-05-0131 ([fe15810](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0131))
-
-* [CR] Fix nested pockets pickup ([#54941](https://github.com/CleverRaven/Cataclysm-DDA/pull/54941))
 * Use move semantics in inventory::add_item() ([#55100](https://github.com/CleverRaven/Cataclysm-DDA/pull/55100))
 * Fix water temperature from vehicle faucets ([#55092](https://github.com/CleverRaven/Cataclysm-DDA/pull/55092))
 * Skip installing SDL2 on ncurses build on GHA ([#55088](https://github.com/CleverRaven/Cataclysm-DDA/pull/55088))
@@ -129,7 +149,6 @@
 * added stick recipe ([#54993](https://github.com/CleverRaven/Cataclysm-DDA/pull/54993))
 * Prevent crash when filling empty tank ([#54987](https://github.com/CleverRaven/Cataclysm-DDA/pull/54987))
 * Make armor traits more flexible ([#54966](https://github.com/CleverRaven/Cataclysm-DDA/pull/54966))
-* Remove redundant null terrains from mapgen ([#54959](https://github.com/CleverRaven/Cataclysm-DDA/pull/54959))
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
 * Fix crash in armor coverage test ([#55037](https://github.com/CleverRaven/Cataclysm-DDA/pull/55037))
@@ -165,29 +184,10 @@
 #### Cataclysm-DDA experimental build 2022-02-01-0639 ([1d4f464](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-01-0639))
 
 * Give better advice for the Foreman's electric motors quest ([#54986](https://github.com/CleverRaven/Cataclysm-DDA/pull/54986))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-31-1543 ([272b7a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-1543))
-
-* More Gambeson Stuff ([#54947](https://github.com/CleverRaven/Cataclysm-DDA/pull/54947))
-* Fix permanent effect default duration ([#54957](https://github.com/CleverRaven/Cataclysm-DDA/pull/54957))
-* Allow split coverage strings to be properly translated ([#54955](https://github.com/CleverRaven/Cataclysm-DDA/pull/54955))
 * Fix compile error on Clang compiler ([#54967](https://github.com/CleverRaven/Cataclysm-DDA/pull/54967))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-31-1443 ([6895299](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-1443))
-
-* Consistently name saw tools and blades ([#54948](https://github.com/CleverRaven/Cataclysm-DDA/pull/54948))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-01-31-0804 ([40b6557](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-0804))
 
 * More Gun Mod Upgrades ([#54961](https://github.com/CleverRaven/Cataclysm-DDA/pull/54961))
-* Remove double about ([#54951](https://github.com/CleverRaven/Cataclysm-DDA/pull/54951))
-* fix some typos ([#54950](https://github.com/CleverRaven/Cataclysm-DDA/pull/54950))
-* Add makeshift cane and crutch items and recipes, add CRUTCH tag to hollow cane ([#54944](https://github.com/CleverRaven/Cataclysm-DDA/pull/54944))
-* Add looks_like to basic pipe spear ([#54943](https://github.com/CleverRaven/Cataclysm-DDA/pull/54943))
-* Add looks_like to bottle_bathroom ([#54942](https://github.com/CleverRaven/Cataclysm-DDA/pull/54942))
