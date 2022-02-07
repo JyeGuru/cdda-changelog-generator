@@ -1,3 +1,9 @@
+* Fixing some feral soldiers stuff ([#55139](https://github.com/CleverRaven/Cataclysm-DDA/pull/55139))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-07-1920 ([9387799](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-1920))
+
 * Added heavy crowbar as an item ([#55027](https://github.com/CleverRaven/Cataclysm-DDA/pull/55027))
 
 ---
@@ -185,9 +191,3 @@
 
 * Give better advice for the Foreman's electric motors quest ([#54986](https://github.com/CleverRaven/Cataclysm-DDA/pull/54986))
 * Fix compile error on Clang compiler ([#54967](https://github.com/CleverRaven/Cataclysm-DDA/pull/54967))
-
----
-
-#### Cataclysm-DDA experimental build 2022-01-31-0804 ([40b6557](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-01-31-0804))
-
-* More Gun Mod Upgrades ([#54961](https://github.com/CleverRaven/Cataclysm-DDA/pull/54961))
