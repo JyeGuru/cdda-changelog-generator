@@ -1,3 +1,6 @@
+* Update tilesets 22-02-06 (#55171)
+
+Cataclysm-DDA experimental build 2022-02-07-2027 (519e9bf)
 * Fixing some feral soldiers stuff (#55139)
 
 Cataclysm-DDA experimental build 2022-02-07-1920 (9387799)
@@ -126,7 +129,6 @@ Cataclysm-DDA experimental build 2022-02-02-0031 (f7e3308)
 * Add sake and soy sauce recipe (#54976)
 * Add context to custom sidebar (#54975)
 * Add dialog functions for age, height and improve formatting of compare_int (#54974)
-* Crafting recipe for still no longer destroys included sand (#54964)
 
 Cataclysm-DDA experimental build 2022-02-01-0639 (1d4f464)
 * Give better advice for the Foreman's electric motors quest (#54986)

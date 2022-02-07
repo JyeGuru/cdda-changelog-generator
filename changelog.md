@@ -1,3 +1,9 @@
+* Update tilesets 22-02-06 ([#55171](https://github.com/CleverRaven/Cataclysm-DDA/pull/55171))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-07-2027 ([519e9bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-2027))
+
 * Fixing some feral soldiers stuff ([#55139](https://github.com/CleverRaven/Cataclysm-DDA/pull/55139))
 
 ---
@@ -183,7 +189,6 @@
 * Add sake and soy sauce recipe ([#54976](https://github.com/CleverRaven/Cataclysm-DDA/pull/54976))
 * Add context to custom sidebar ([#54975](https://github.com/CleverRaven/Cataclysm-DDA/pull/54975))
 * Add dialog functions for age, height and improve formatting of compare_int ([#54974](https://github.com/CleverRaven/Cataclysm-DDA/pull/54974))
-* Crafting recipe for still no longer destroys included sand ([#54964](https://github.com/CleverRaven/Cataclysm-DDA/pull/54964))
 
 ---
 
