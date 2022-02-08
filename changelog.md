@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-08-0632 ([6aea83a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0632))
+
+* Add samples to Rat and Mouse mutagen ([#55202](https://github.com/CleverRaven/Cataclysm-DDA/pull/55202))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-08-0515 ([59c26ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0515))
 
 * Added XL light survivor mask item and recipe ([#55146](https://github.com/CleverRaven/Cataclysm-DDA/pull/55146))
@@ -202,13 +208,7 @@
 #### Cataclysm-DDA experimental build 2022-02-02-0842 ([689dfa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-02-0842))
 
 * Make floor lamp transparent ([#55009](https://github.com/CleverRaven/Cataclysm-DDA/pull/55009))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-02-0031 ([f7e3308](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-02-0031))
-
 * Added Masonry Saw to Power Tools group ([#54999](https://github.com/CleverRaven/Cataclysm-DDA/pull/54999))
 * Prevent being itchy from canceling activites ([#54994](https://github.com/CleverRaven/Cataclysm-DDA/pull/54994))
 * Add "OUTER" to tuxedo ([#54990](https://github.com/CleverRaven/Cataclysm-DDA/pull/54990))
-* Unscrew snail serum ([#54978](https://github.com/CleverRaven/Cataclysm-DDA/pull/54978))
 * Give better advice for the Foreman's electric motors quest ([#54986](https://github.com/CleverRaven/Cataclysm-DDA/pull/54986))

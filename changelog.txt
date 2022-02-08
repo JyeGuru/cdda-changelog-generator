@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-08-0632 (6aea83a)
+* Add samples to Rat and Mouse mutagen (#55202)
+
 Cataclysm-DDA experimental build 2022-02-08-0515 (59c26ec)
 * Added XL light survivor mask item and recipe (#55146)
 * Fix table.py encoding error (#55115)
@@ -133,10 +136,7 @@ Cataclysm-DDA experimental build 2022-02-03-0641 (97d8c8b)
 
 Cataclysm-DDA experimental build 2022-02-02-0842 (689dfa5)
 * Make floor lamp transparent (#55009)
-
-Cataclysm-DDA experimental build 2022-02-02-0031 (f7e3308)
 * Added Masonry Saw to Power Tools group (#54999)
 * Prevent being itchy from canceling activites (#54994)
 * Add "OUTER" to tuxedo (#54990)
-* Unscrew snail serum (#54978)
 * Give better advice for the Foreman's electric motors quest (#54986)
