@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-08-0206 ([05365b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0206))
+
+* Homemade grenades are grenades, let them go into pockets that are limited to grenades ([#55197](https://github.com/CleverRaven/Cataclysm-DDA/pull/55197))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-07-2131 ([1d9e012](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-2131))
 
 * Update tilesets 22-02-06 ([#55171](https://github.com/CleverRaven/Cataclysm-DDA/pull/55171))
@@ -82,7 +88,6 @@
 * JSONify weight text widget ([#55111](https://github.com/CleverRaven/Cataclysm-DDA/pull/55111))
 * Added OM_MOVE and u_near_om_location EOC effects ([#55077](https://github.com/CleverRaven/Cataclysm-DDA/pull/55077))
 * Replaced `HEATPROOF` flag with `HEAT_IMMUNE` flag for consistency ([#55062](https://github.com/CleverRaven/Cataclysm-DDA/pull/55062))
-* Allocate test NPC on heap ([#54965](https://github.com/CleverRaven/Cataclysm-DDA/pull/54965))
 
 ---
 
