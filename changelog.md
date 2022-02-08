@@ -1,6 +1,23 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-08-0515 ([59c26ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0515))
+
+* Added XL light survivor mask item and recipe ([#55146](https://github.com/CleverRaven/Cataclysm-DDA/pull/55146))
+* Fix table.py encoding error ([#55115](https://github.com/CleverRaven/Cataclysm-DDA/pull/55115))
+* Ported changes from BN related to overmap wrong tile selection with mouse ([#55161](https://github.com/CleverRaven/Cataclysm-DDA/pull/55161))
+* JSONify moon & lighting widgets ([#55175](https://github.com/CleverRaven/Cataclysm-DDA/pull/55175))
+* Lazily evaluate column width ([#55007](https://github.com/CleverRaven/Cataclysm-DDA/pull/55007))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-08-0425 ([6737b6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0425))
+
+* Add max move cost parameter ([#55198](https://github.com/CleverRaven/Cataclysm-DDA/pull/55198))
+* Only push translation template after successful completion of experimental release build ([#55193](https://github.com/CleverRaven/Cataclysm-DDA/pull/55193))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-08-0206 ([05365b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0206))
 
 * Homemade grenades are grenades, let them go into pockets that are limited to grenades ([#55197](https://github.com/CleverRaven/Cataclysm-DDA/pull/55197))
@@ -170,7 +187,6 @@
 * Clarify Trader Refresh Code ([#54996](https://github.com/CleverRaven/Cataclysm-DDA/pull/54996))
 * added stick recipe ([#54993](https://github.com/CleverRaven/Cataclysm-DDA/pull/54993))
 * Prevent crash when filling empty tank ([#54987](https://github.com/CleverRaven/Cataclysm-DDA/pull/54987))
-* Make armor traits more flexible ([#54966](https://github.com/CleverRaven/Cataclysm-DDA/pull/54966))
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
 * Fix crash in armor coverage test ([#55037](https://github.com/CleverRaven/Cataclysm-DDA/pull/55037))
@@ -195,14 +211,4 @@
 * Prevent being itchy from canceling activites ([#54994](https://github.com/CleverRaven/Cataclysm-DDA/pull/54994))
 * Add "OUTER" to tuxedo ([#54990](https://github.com/CleverRaven/Cataclysm-DDA/pull/54990))
 * Unscrew snail serum ([#54978](https://github.com/CleverRaven/Cataclysm-DDA/pull/54978))
-* Add context to worn as item location ([#54977](https://github.com/CleverRaven/Cataclysm-DDA/pull/54977))
-* Add sake and soy sauce recipe ([#54976](https://github.com/CleverRaven/Cataclysm-DDA/pull/54976))
-* Add context to custom sidebar ([#54975](https://github.com/CleverRaven/Cataclysm-DDA/pull/54975))
-* Add dialog functions for age, height and improve formatting of compare_int ([#54974](https://github.com/CleverRaven/Cataclysm-DDA/pull/54974))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-01-0639 ([1d4f464](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-01-0639))
-
 * Give better advice for the Foreman's electric motors quest ([#54986](https://github.com/CleverRaven/Cataclysm-DDA/pull/54986))
-* Fix compile error on Clang compiler ([#54967](https://github.com/CleverRaven/Cataclysm-DDA/pull/54967))
