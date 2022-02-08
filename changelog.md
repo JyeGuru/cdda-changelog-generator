@@ -1,3 +1,10 @@
+* TropiCata: animal aggro fixes ([#55203](https://github.com/CleverRaven/Cataclysm-DDA/pull/55203))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-08-1037 ([19f01e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-1037))
+
+* Remove crater radiation ([#55204](https://github.com/CleverRaven/Cataclysm-DDA/pull/55204))
 
 ---
 
@@ -192,7 +199,6 @@
 * Aligns mutation.cpp with other uses of condition.cpp ([#55004](https://github.com/CleverRaven/Cataclysm-DDA/pull/55004))
 * Clarify Trader Refresh Code ([#54996](https://github.com/CleverRaven/Cataclysm-DDA/pull/54996))
 * added stick recipe ([#54993](https://github.com/CleverRaven/Cataclysm-DDA/pull/54993))
-* Prevent crash when filling empty tank ([#54987](https://github.com/CleverRaven/Cataclysm-DDA/pull/54987))
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
 * Fix crash in armor coverage test ([#55037](https://github.com/CleverRaven/Cataclysm-DDA/pull/55037))
@@ -202,13 +208,7 @@
 #### Cataclysm-DDA experimental build 2022-02-03-0641 ([97d8c8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-03-0641))
 
 * Fix magnifying glass recipe ([#55024](https://github.com/CleverRaven/Cataclysm-DDA/pull/55024))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-02-0842 ([689dfa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-02-0842))
-
 * Make floor lamp transparent ([#55009](https://github.com/CleverRaven/Cataclysm-DDA/pull/55009))
 * Added Masonry Saw to Power Tools group ([#54999](https://github.com/CleverRaven/Cataclysm-DDA/pull/54999))
 * Prevent being itchy from canceling activites ([#54994](https://github.com/CleverRaven/Cataclysm-DDA/pull/54994))
 * Add "OUTER" to tuxedo ([#54990](https://github.com/CleverRaven/Cataclysm-DDA/pull/54990))
-* Give better advice for the Foreman's electric motors quest ([#54986](https://github.com/CleverRaven/Cataclysm-DDA/pull/54986))
