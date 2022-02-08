@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-08-1127 ([44b27ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-1127))
+
 * TropiCata: animal aggro fixes ([#55203](https://github.com/CleverRaven/Cataclysm-DDA/pull/55203))
 
 ---
@@ -202,11 +207,6 @@
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
 * Fix crash in armor coverage test ([#55037](https://github.com/CleverRaven/Cataclysm-DDA/pull/55037))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-03-0641 ([97d8c8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-03-0641))
-
 * Fix magnifying glass recipe ([#55024](https://github.com/CleverRaven/Cataclysm-DDA/pull/55024))
 * Make floor lamp transparent ([#55009](https://github.com/CleverRaven/Cataclysm-DDA/pull/55009))
 * Added Masonry Saw to Power Tools group ([#54999](https://github.com/CleverRaven/Cataclysm-DDA/pull/54999))
