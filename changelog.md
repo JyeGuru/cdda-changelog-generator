@@ -182,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-02-04-2151 ([9dc9a34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-04-2151))
 
 * Rubik no longer restocks every time you talk to him ([#55046](https://github.com/CleverRaven/Cataclysm-DDA/pull/55046))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-04-0647 ([9fb7080](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-04-0647))
-
 * Added pants and leg armor to class ([#55057](https://github.com/CleverRaven/Cataclysm-DDA/pull/55057))
 * Make Clang 6 the basic build test configuration ([#55059](https://github.com/CleverRaven/Cataclysm-DDA/pull/55059))
 * Speedup item::best_pocket ~100% (2x as fast) and misc other wins too ([#55070](https://github.com/CleverRaven/Cataclysm-DDA/pull/55070))
