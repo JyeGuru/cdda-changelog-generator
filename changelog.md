@@ -1,3 +1,9 @@
+* Portal storm monsters spawn outdoors while you are indoors plus syntax cleanup ([#55223](https://github.com/CleverRaven/Cataclysm-DDA/pull/55223))
+* suddendly -> suddenly ([#55215](https://github.com/CleverRaven/Cataclysm-DDA/pull/55215))
+* powerfull -> powerful ([#55214](https://github.com/CleverRaven/Cataclysm-DDA/pull/55214))
+* Mounted monsters with high armor value won't get cut by stepping into sharp terrain ([#55194](https://github.com/CleverRaven/Cataclysm-DDA/pull/55194))
+* JSONify activity text widget ([#55138](https://github.com/CleverRaven/Cataclysm-DDA/pull/55138))
+* Add minifridge and minifreezer as placeable appliances ([#55042](https://github.com/CleverRaven/Cataclysm-DDA/pull/55042))
 
 ---
 
@@ -202,13 +208,8 @@
 * Fix wrong calorie count on batch crafted foods ([#55008](https://github.com/CleverRaven/Cataclysm-DDA/pull/55008))
 * Vitamin rates from mutations now scale sensibly ([#55005](https://github.com/CleverRaven/Cataclysm-DDA/pull/55005))
 * Aligns mutation.cpp with other uses of condition.cpp ([#55004](https://github.com/CleverRaven/Cataclysm-DDA/pull/55004))
-* Clarify Trader Refresh Code ([#54996](https://github.com/CleverRaven/Cataclysm-DDA/pull/54996))
-* added stick recipe ([#54993](https://github.com/CleverRaven/Cataclysm-DDA/pull/54993))
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
 * Fix crash in armor coverage test ([#55037](https://github.com/CleverRaven/Cataclysm-DDA/pull/55037))
 * Fix magnifying glass recipe ([#55024](https://github.com/CleverRaven/Cataclysm-DDA/pull/55024))
 * Make floor lamp transparent ([#55009](https://github.com/CleverRaven/Cataclysm-DDA/pull/55009))
-* Added Masonry Saw to Power Tools group ([#54999](https://github.com/CleverRaven/Cataclysm-DDA/pull/54999))
-* Prevent being itchy from canceling activites ([#54994](https://github.com/CleverRaven/Cataclysm-DDA/pull/54994))
-* Add "OUTER" to tuxedo ([#54990](https://github.com/CleverRaven/Cataclysm-DDA/pull/54990))
