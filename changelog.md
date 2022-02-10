@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-10-0709 ([03e7363](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-10-0709))
+
+* Shrink OG-7V rocket ([#55257](https://github.com/CleverRaven/Cataclysm-DDA/pull/55257))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-09-0753 ([9c5e55b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-09-0753))
 
 * Double-layered cardboard box ([#55216](https://github.com/CleverRaven/Cataclysm-DDA/pull/55216))
@@ -176,11 +182,6 @@
 * More Utility Exo Spawns ([#55078](https://github.com/CleverRaven/Cataclysm-DDA/pull/55078))
 * Refactor inventory_multiselector and remove inventory_iuse_selector ([#55072](https://github.com/CleverRaven/Cataclysm-DDA/pull/55072))
 * Add standing floodlight appliance ([#55047](https://github.com/CleverRaven/Cataclysm-DDA/pull/55047))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-04-2151 ([9dc9a34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-04-2151))
-
 * Rubik no longer restocks every time you talk to him ([#55046](https://github.com/CleverRaven/Cataclysm-DDA/pull/55046))
 * Added pants and leg armor to class ([#55057](https://github.com/CleverRaven/Cataclysm-DDA/pull/55057))
 * Make Clang 6 the basic build test configuration ([#55059](https://github.com/CleverRaven/Cataclysm-DDA/pull/55059))
@@ -202,7 +203,6 @@
 * move BARS to integrated mod ([#55018](https://github.com/CleverRaven/Cataclysm-DDA/pull/55018))
 * Mechanics Practice recipes ([#55010](https://github.com/CleverRaven/Cataclysm-DDA/pull/55010))
 * Fix wrong calorie count on batch crafted foods ([#55008](https://github.com/CleverRaven/Cataclysm-DDA/pull/55008))
-* Vitamin rates from mutations now scale sensibly ([#55005](https://github.com/CleverRaven/Cataclysm-DDA/pull/55005))
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
 * Fix crash in armor coverage test ([#55037](https://github.com/CleverRaven/Cataclysm-DDA/pull/55037))
