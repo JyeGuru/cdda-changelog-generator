@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-11-2240 ([6585fef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-2240))
+
+* Use real keybinds for the tutorial and improve tutorial readability ([#55230](https://github.com/CleverRaven/Cataclysm-DDA/pull/55230))
+* Add small and large space heater appliances ([#55140](https://github.com/CleverRaven/Cataclysm-DDA/pull/55140))
+* Add a forge as placeable appliance ([#55131](https://github.com/CleverRaven/Cataclysm-DDA/pull/55131))
+* Implements EOCs in activated mutations and bionics and makes EOC spells targetable as an option ([#55044](https://github.com/CleverRaven/Cataclysm-DDA/pull/55044))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-11-2135 ([f49ffd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-2135))
+
+* added bow saw as an alternative to wood saw for misc repair kit recipe ([#55039](https://github.com/CleverRaven/Cataclysm-DDA/pull/55039))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-11-0611 ([cc83f7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-0611))
 
 * TropiCata: some minor fixes ([#55260](https://github.com/CleverRaven/Cataclysm-DDA/pull/55260))
@@ -204,12 +219,7 @@
 * Adding salt water pipe and tannery to workshop version 2 ([#55026](https://github.com/CleverRaven/Cataclysm-DDA/pull/55026))
 * Give a chance of another try if game is unable to find a valid starting location ([#55025](https://github.com/CleverRaven/Cataclysm-DDA/pull/55025))
 * Update requirements.txt for Pillow-9.0.0 ([#55022](https://github.com/CleverRaven/Cataclysm-DDA/pull/55022))
-* Fix update_mapgen bug ([#55021](https://github.com/CleverRaven/Cataclysm-DDA/pull/55021))
-* move BARS to integrated mod ([#55018](https://github.com/CleverRaven/Cataclysm-DDA/pull/55018))
-* Mechanics Practice recipes ([#55010](https://github.com/CleverRaven/Cataclysm-DDA/pull/55010))
-* Fix wrong calorie count on batch crafted foods ([#55008](https://github.com/CleverRaven/Cataclysm-DDA/pull/55008))
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
 * Fix crash in armor coverage test ([#55037](https://github.com/CleverRaven/Cataclysm-DDA/pull/55037))
 * Fix magnifying glass recipe ([#55024](https://github.com/CleverRaven/Cataclysm-DDA/pull/55024))
-* Make floor lamp transparent ([#55009](https://github.com/CleverRaven/Cataclysm-DDA/pull/55009))
