@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-11-0611 ([cc83f7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-0611))
+
+* TropiCata: some minor fixes ([#55260](https://github.com/CleverRaven/Cataclysm-DDA/pull/55260))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-10-0709 ([03e7363](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-10-0709))
 
 * Shrink OG-7V rocket ([#55257](https://github.com/CleverRaven/Cataclysm-DDA/pull/55257))
