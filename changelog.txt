@@ -31,7 +31,6 @@ Cataclysm-DDA experimental build 2022-02-08-0515 (59c26ec)
 * Fix table.py encoding error (#55115)
 * Ported changes from BN related to overmap wrong tile selection with mouse (#55161)
 * JSONify moon & lighting widgets (#55175)
-* Lazily evaluate column width (#55007)
 
 Cataclysm-DDA experimental build 2022-02-08-0425 (6737b6e)
 * Add max move cost parameter (#55198)

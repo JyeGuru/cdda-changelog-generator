@@ -55,7 +55,6 @@
 * Fix table.py encoding error ([#55115](https://github.com/CleverRaven/Cataclysm-DDA/pull/55115))
 * Ported changes from BN related to overmap wrong tile selection with mouse ([#55161](https://github.com/CleverRaven/Cataclysm-DDA/pull/55161))
 * JSONify moon & lighting widgets ([#55175](https://github.com/CleverRaven/Cataclysm-DDA/pull/55175))
-* Lazily evaluate column width ([#55007](https://github.com/CleverRaven/Cataclysm-DDA/pull/55007))
 
 ---
 
