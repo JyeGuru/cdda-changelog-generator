@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-12-0144 (ee956f5)
+* Set the correct furniture id for box_large_reinforced (#55256)
+
 Cataclysm-DDA experimental build 2022-02-12-0043 (2219cab)
 * Make hyper-metabolism obtainable (#55254)
 * Small enhancement to Character Modifiers (#55253)
@@ -18,7 +21,6 @@ Cataclysm-DDA experimental build 2022-02-11-2240 (6585fef)
 * Use real keybinds for the tutorial and improve tutorial readability (#55230)
 * Add small and large space heater appliances (#55140)
 * Add a forge as placeable appliance (#55131)
-* Implements EOCs in activated mutations and bionics and makes EOC spells targetable as an option (#55044)
 
 Cataclysm-DDA experimental build 2022-02-11-0611 (cc83f7a)
 * TropiCata: some minor fixes (#55260)
@@ -36,7 +38,6 @@ Cataclysm-DDA experimental build 2022-02-09-0651 (d065e00)
 * powerfull -> powerful (#55214)
 * Mounted monsters with high armor value won't get cut by stepping into sharp terrain (#55194)
 * JSONify activity text widget (#55138)
-* Add minifridge and minifreezer as placeable appliances (#55042)
 
 Cataclysm-DDA experimental build 2022-02-08-1127 (44b27ad)
 * TropiCata: animal aggro fixes (#55203)
@@ -108,8 +109,6 @@ Cataclysm-DDA experimental build 2022-02-06-0843 (d08dddd)
 Cataclysm-DDA experimental build 2022-02-06-0615 (55900e8)
 * JSONify thirst & hunger widgets (#55118)
 * Hotfix segmentation fault after commit Lazy create level cache layers (#55121)
-
-Cataclysm-DDA experimental build 2022-02-05-0623 (7efd4f5)
 * Add an entry for the diary in the Action Menu (#55045)
 * Fix character name covering world name (#55113)
 * Restore "Building with Visual Studio" heading (#55105)

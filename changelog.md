@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-12-0144 ([ee956f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0144))
+
+* Set the correct furniture id for box_large_reinforced ([#55256](https://github.com/CleverRaven/Cataclysm-DDA/pull/55256))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-12-0043 ([2219cab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0043))
 
 * Make hyper-metabolism obtainable ([#55254](https://github.com/CleverRaven/Cataclysm-DDA/pull/55254))
@@ -27,7 +33,6 @@
 * Use real keybinds for the tutorial and improve tutorial readability ([#55230](https://github.com/CleverRaven/Cataclysm-DDA/pull/55230))
 * Add small and large space heater appliances ([#55140](https://github.com/CleverRaven/Cataclysm-DDA/pull/55140))
 * Add a forge as placeable appliance ([#55131](https://github.com/CleverRaven/Cataclysm-DDA/pull/55131))
-* Implements EOCs in activated mutations and bionics and makes EOC spells targetable as an option ([#55044](https://github.com/CleverRaven/Cataclysm-DDA/pull/55044))
 
 ---
 
@@ -57,7 +62,6 @@
 * powerfull -> powerful ([#55214](https://github.com/CleverRaven/Cataclysm-DDA/pull/55214))
 * Mounted monsters with high armor value won't get cut by stepping into sharp terrain ([#55194](https://github.com/CleverRaven/Cataclysm-DDA/pull/55194))
 * JSONify activity text widget ([#55138](https://github.com/CleverRaven/Cataclysm-DDA/pull/55138))
-* Add minifridge and minifreezer as placeable appliances ([#55042](https://github.com/CleverRaven/Cataclysm-DDA/pull/55042))
 
 ---
 
@@ -177,11 +181,6 @@
 
 * JSONify thirst & hunger widgets ([#55118](https://github.com/CleverRaven/Cataclysm-DDA/pull/55118))
 * Hotfix segmentation fault after commit Lazy create level cache layers ([#55121](https://github.com/CleverRaven/Cataclysm-DDA/pull/55121))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-05-0623 ([7efd4f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0623))
-
 * Add an entry for the diary in the Action Menu ([#55045](https://github.com/CleverRaven/Cataclysm-DDA/pull/55045))
 * Fix character name covering world name ([#55113](https://github.com/CleverRaven/Cataclysm-DDA/pull/55113))
 * Restore "Building with Visual Studio" heading ([#55105](https://github.com/CleverRaven/Cataclysm-DDA/pull/55105))
