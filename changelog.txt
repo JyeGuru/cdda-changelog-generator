@@ -127,8 +127,6 @@ Cataclysm-DDA experimental build 2022-02-07-0802 (f7c3192)
 
 Cataclysm-DDA experimental build 2022-02-07-0701 (b16f740)
 * Add a kiln as placeable appliance (#55125)
-
-Cataclysm-DDA experimental build 2022-02-06-2048 (afef564)
 * JSONify movement mode widgets (#55143)
 * Add message to end of failed pickup activity (#55136)
 * Added check for being on ground for several cases of falling down (#55128)

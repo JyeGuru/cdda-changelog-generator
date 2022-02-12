@@ -196,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-02-07-0701 ([b16f740](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-0701))
 
 * Add a kiln as placeable appliance ([#55125](https://github.com/CleverRaven/Cataclysm-DDA/pull/55125))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-06-2048 ([afef564](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-06-2048))
-
 * JSONify movement mode widgets ([#55143](https://github.com/CleverRaven/Cataclysm-DDA/pull/55143))
 * Add message to end of failed pickup activity ([#55136](https://github.com/CleverRaven/Cataclysm-DDA/pull/55136))
 * Added check for being on ground for several cases of falling down ([#55128](https://github.com/CleverRaven/Cataclysm-DDA/pull/55128))
