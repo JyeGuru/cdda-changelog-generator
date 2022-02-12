@@ -1,3 +1,12 @@
+* Simplify plate armor names ([#55264](https://github.com/CleverRaven/Cataclysm-DDA/pull/55264))
+* Increased width of 'List Items and Monsters' menu to fit NPC attitude text ([#55262](https://github.com/CleverRaven/Cataclysm-DDA/pull/55262))
+* Document tl;dr for running Cata clang tidy in Ubuntu and WSL ([#55261](https://github.com/CleverRaven/Cataclysm-DDA/pull/55261))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-12-0620 ([d1d7da9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0620))
+
+* Widgets: New flag to auto-hide widget when empty ([#55259](https://github.com/CleverRaven/Cataclysm-DDA/pull/55259))
 
 ---
 
@@ -174,14 +183,8 @@
 * JSONify weight text widget ([#55111](https://github.com/CleverRaven/Cataclysm-DDA/pull/55111))
 * Added OM_MOVE and u_near_om_location EOC effects ([#55077](https://github.com/CleverRaven/Cataclysm-DDA/pull/55077))
 * Replaced `HEATPROOF` flag with `HEAT_IMMUNE` flag for consistency ([#55062](https://github.com/CleverRaven/Cataclysm-DDA/pull/55062))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-06-0615 ([55900e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-06-0615))
-
 * JSONify thirst & hunger widgets ([#55118](https://github.com/CleverRaven/Cataclysm-DDA/pull/55118))
 * Hotfix segmentation fault after commit Lazy create level cache layers ([#55121](https://github.com/CleverRaven/Cataclysm-DDA/pull/55121))
-* Add an entry for the diary in the Action Menu ([#55045](https://github.com/CleverRaven/Cataclysm-DDA/pull/55045))
 * Fix character name covering world name ([#55113](https://github.com/CleverRaven/Cataclysm-DDA/pull/55113))
 * Restore "Building with Visual Studio" heading ([#55105](https://github.com/CleverRaven/Cataclysm-DDA/pull/55105))
 * Don't fail-fast on master builds for the general matrix. ([#55103](https://github.com/CleverRaven/Cataclysm-DDA/pull/55103))
@@ -199,8 +202,6 @@
 * Added low profile mag pockets to light ballistic vest ([#55080](https://github.com/CleverRaven/Cataclysm-DDA/pull/55080))
 * More Utility Exo Spawns ([#55078](https://github.com/CleverRaven/Cataclysm-DDA/pull/55078))
 * Refactor inventory_multiselector and remove inventory_iuse_selector ([#55072](https://github.com/CleverRaven/Cataclysm-DDA/pull/55072))
-* Add standing floodlight appliance ([#55047](https://github.com/CleverRaven/Cataclysm-DDA/pull/55047))
-* Rubik no longer restocks every time you talk to him ([#55046](https://github.com/CleverRaven/Cataclysm-DDA/pull/55046))
 * Added pants and leg armor to class ([#55057](https://github.com/CleverRaven/Cataclysm-DDA/pull/55057))
 * Make Clang 6 the basic build test configuration ([#55059](https://github.com/CleverRaven/Cataclysm-DDA/pull/55059))
 * Speedup item::best_pocket ~100% (2x as fast) and misc other wins too ([#55070](https://github.com/CleverRaven/Cataclysm-DDA/pull/55070))
@@ -211,6 +212,5 @@
 * Link to libncursesw in CMake ([#55054](https://github.com/CleverRaven/Cataclysm-DDA/pull/55054))
 * Repair Nanobots are now sleep friendly ([#55052](https://github.com/CleverRaven/Cataclysm-DDA/pull/55052))
 * Changed symbol and its color for `mx_casings` map extra ([#55051](https://github.com/CleverRaven/Cataclysm-DDA/pull/55051))
-* Cost allowance for "give_equipment" ([#55048](https://github.com/CleverRaven/Cataclysm-DDA/pull/55048))
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
