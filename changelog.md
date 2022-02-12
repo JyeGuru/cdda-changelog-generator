@@ -1,18 +1,33 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-12-0043 ([2219cab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0043))
+
+* Make hyper-metabolism obtainable ([#55254](https://github.com/CleverRaven/Cataclysm-DDA/pull/55254))
+* Small enhancement to Character Modifiers ([#55253](https://github.com/CleverRaven/Cataclysm-DDA/pull/55253))
+* Give medical residents a doctor's badge ([#55250](https://github.com/CleverRaven/Cataclysm-DDA/pull/55250))
+* Add tool qualities to XS metal arm guards recipe ([#55245](https://github.com/CleverRaven/Cataclysm-DDA/pull/55245))
+* If there's nowhere to put syringe after injecting vaccine shot, drop it on the ground ([#55244](https://github.com/CleverRaven/Cataclysm-DDA/pull/55244))
+* Armored monsters won't avoid sharp terrain no more, even if not attacking ([#55243](https://github.com/CleverRaven/Cataclysm-DDA/pull/55243))
+* Print "You pushed your mount" only if it was really done ([#55242](https://github.com/CleverRaven/Cataclysm-DDA/pull/55242))
+* Increase performance of item processing of contained items ([#55240](https://github.com/CleverRaven/Cataclysm-DDA/pull/55240))
+* Minor character modifier / limb score tweaks ([#55239](https://github.com/CleverRaven/Cataclysm-DDA/pull/55239))
+* Fix tried to put an item (fn57) count (1) in a container (holster) ([#55236](https://github.com/CleverRaven/Cataclysm-DDA/pull/55236))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-11-2342 ([e2d561b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-2342))
+
+* Deconstruct kevlar sheet into threads ([#55235](https://github.com/CleverRaven/Cataclysm-DDA/pull/55235))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-11-2240 ([6585fef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-2240))
 
 * Use real keybinds for the tutorial and improve tutorial readability ([#55230](https://github.com/CleverRaven/Cataclysm-DDA/pull/55230))
 * Add small and large space heater appliances ([#55140](https://github.com/CleverRaven/Cataclysm-DDA/pull/55140))
 * Add a forge as placeable appliance ([#55131](https://github.com/CleverRaven/Cataclysm-DDA/pull/55131))
 * Implements EOCs in activated mutations and bionics and makes EOC spells targetable as an option ([#55044](https://github.com/CleverRaven/Cataclysm-DDA/pull/55044))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-11-2135 ([f49ffd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-2135))
-
-* added bow saw as an alternative to wood saw for misc repair kit recipe ([#55039](https://github.com/CleverRaven/Cataclysm-DDA/pull/55039))
 
 ---
 
@@ -98,12 +113,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-02-07-1920 ([9387799](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-1920))
-
-* Added heavy crowbar as an item ([#55027](https://github.com/CleverRaven/Cataclysm-DDA/pull/55027))
-
----
-
 #### Cataclysm-DDA experimental build 2022-02-07-1815 ([0fde9da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-1815))
 
 * Made recipe of makeshift hammer reversible ([#55186](https://github.com/CleverRaven/Cataclysm-DDA/pull/55186))
@@ -174,17 +183,7 @@
 #### Cataclysm-DDA experimental build 2022-02-05-0623 ([7efd4f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0623))
 
 * Add an entry for the diary in the Action Menu ([#55045](https://github.com/CleverRaven/Cataclysm-DDA/pull/55045))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-05-0459 ([60b363d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0459))
-
 * Fix character name covering world name ([#55113](https://github.com/CleverRaven/Cataclysm-DDA/pull/55113))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-05-0348 ([6ccd58e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-05-0348))
-
 * Restore "Building with Visual Studio" heading ([#55105](https://github.com/CleverRaven/Cataclysm-DDA/pull/55105))
 * Don't fail-fast on master builds for the general matrix. ([#55103](https://github.com/CleverRaven/Cataclysm-DDA/pull/55103))
 * Optimize item spawn list creation ([#55099](https://github.com/CleverRaven/Cataclysm-DDA/pull/55099))
@@ -214,12 +213,5 @@
 * Repair Nanobots are now sleep friendly ([#55052](https://github.com/CleverRaven/Cataclysm-DDA/pull/55052))
 * Changed symbol and its color for `mx_casings` map extra ([#55051](https://github.com/CleverRaven/Cataclysm-DDA/pull/55051))
 * Cost allowance for "give_equipment" ([#55048](https://github.com/CleverRaven/Cataclysm-DDA/pull/55048))
-* Lazy create level cache layers to reduce load path cpu ~8% (and slow tests 15-20s) ([#55038](https://github.com/CleverRaven/Cataclysm-DDA/pull/55038))
-* Portal Storm Tweaks ([#55036](https://github.com/CleverRaven/Cataclysm-DDA/pull/55036))
-* Adding salt water pipe and tannery to workshop version 2 ([#55026](https://github.com/CleverRaven/Cataclysm-DDA/pull/55026))
-* Give a chance of another try if game is unable to find a valid starting location ([#55025](https://github.com/CleverRaven/Cataclysm-DDA/pull/55025))
-* Update requirements.txt for Pillow-9.0.0 ([#55022](https://github.com/CleverRaven/Cataclysm-DDA/pull/55022))
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
-* Fix crash in armor coverage test ([#55037](https://github.com/CleverRaven/Cataclysm-DDA/pull/55037))
-* Fix magnifying glass recipe ([#55024](https://github.com/CleverRaven/Cataclysm-DDA/pull/55024))
