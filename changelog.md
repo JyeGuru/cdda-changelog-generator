@@ -1,3 +1,5 @@
+* Rebalancing Gambesons (again): Warmer, more encumbering, weight fixes, and warmth fix for hood. ([#55258](https://github.com/CleverRaven/Cataclysm-DDA/pull/55258))
+* If blood is drawn from corpse of a monster from ZOMBIE species, convert blood to tainted blood ([#55267](https://github.com/CleverRaven/Cataclysm-DDA/pull/55267))
 * Simplify plate armor names ([#55264](https://github.com/CleverRaven/Cataclysm-DDA/pull/55264))
 * Increased width of 'List Items and Monsters' menu to fit NPC attitude text ([#55262](https://github.com/CleverRaven/Cataclysm-DDA/pull/55262))
 * Document tl;dr for running Cata clang tidy in Ubuntu and WSL ([#55261](https://github.com/CleverRaven/Cataclysm-DDA/pull/55261))
@@ -210,7 +212,5 @@
 * Fixed blocked nested chunks for hunting lodge's basement ([#55064](https://github.com/CleverRaven/Cataclysm-DDA/pull/55064))
 * Add ability to count character flags, move all trait flag checks over to character flag ([#55061](https://github.com/CleverRaven/Cataclysm-DDA/pull/55061))
 * Link to libncursesw in CMake ([#55054](https://github.com/CleverRaven/Cataclysm-DDA/pull/55054))
-* Repair Nanobots are now sleep friendly ([#55052](https://github.com/CleverRaven/Cataclysm-DDA/pull/55052))
-* Changed symbol and its color for `mx_casings` map extra ([#55051](https://github.com/CleverRaven/Cataclysm-DDA/pull/55051))
 * Optimize JSON validation on CI ([#55060](https://github.com/CleverRaven/Cataclysm-DDA/pull/55060))
 * Optimize shot_features and shot_features_with_choke test ([#55063](https://github.com/CleverRaven/Cataclysm-DDA/pull/55063))
