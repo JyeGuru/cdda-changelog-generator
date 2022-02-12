@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-02-12-2230 (9fa6ac1)
 * Zweihander fix (#55321)
 
 Cataclysm-DDA experimental build 2022-02-12-1812 (13a4346)
@@ -128,8 +130,6 @@ Cataclysm-DDA experimental build 2022-02-07-0802 (f7c3192)
 * add 'ERASE_ALL_BEFORE_PLACING_TERRAIN' flags to map_extras/sewers.json (#55147)
 * added 4x sight to spawns (#55145)
 * Reset player character position in NPC attack test (#55134)
-
-Cataclysm-DDA experimental build 2022-02-07-0701 (b16f740)
 * Add a kiln as placeable appliance (#55125)
 * JSONify movement mode widgets (#55143)
 * Add message to end of failed pickup activity (#55136)

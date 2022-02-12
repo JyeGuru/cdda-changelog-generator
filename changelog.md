@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-12-2230 ([9fa6ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-2230))
+
 * Zweihander fix ([#55321](https://github.com/CleverRaven/Cataclysm-DDA/pull/55321))
 
 ---
@@ -197,11 +202,6 @@
 * add 'ERASE_ALL_BEFORE_PLACING_TERRAIN' flags to map_extras/sewers.json ([#55147](https://github.com/CleverRaven/Cataclysm-DDA/pull/55147))
 * added 4x sight to spawns ([#55145](https://github.com/CleverRaven/Cataclysm-DDA/pull/55145))
 * Reset player character position in NPC attack test ([#55134](https://github.com/CleverRaven/Cataclysm-DDA/pull/55134))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-07-0701 ([b16f740](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-0701))
-
 * Add a kiln as placeable appliance ([#55125](https://github.com/CleverRaven/Cataclysm-DDA/pull/55125))
 * JSONify movement mode widgets ([#55143](https://github.com/CleverRaven/Cataclysm-DDA/pull/55143))
 * Add message to end of failed pickup activity ([#55136](https://github.com/CleverRaven/Cataclysm-DDA/pull/55136))
