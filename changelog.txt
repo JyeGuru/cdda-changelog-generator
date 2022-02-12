@@ -1,3 +1,4 @@
+* Fix crafting test (#55324)
 
 Cataclysm-DDA experimental build 2022-02-12-2230 (9fa6ac1)
 * Zweihander fix (#55321)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2022-02-07-0802 (f7c3192)
 * Fix character name covering world name (#55113)
 * Restore "Building with Visual Studio" heading (#55105)
 * Don't fail-fast on master builds for the general matrix. (#55103)
-* Use move semantics in inventory::add_item() (#55100)

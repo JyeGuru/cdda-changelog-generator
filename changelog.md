@@ -1,3 +1,4 @@
+* Fix crafting test ([#55324](https://github.com/CleverRaven/Cataclysm-DDA/pull/55324))
 
 ---
 
@@ -214,4 +215,3 @@
 * Fix character name covering world name ([#55113](https://github.com/CleverRaven/Cataclysm-DDA/pull/55113))
 * Restore "Building with Visual Studio" heading ([#55105](https://github.com/CleverRaven/Cataclysm-DDA/pull/55105))
 * Don't fail-fast on master builds for the general matrix. ([#55103](https://github.com/CleverRaven/Cataclysm-DDA/pull/55103))
-* Use move semantics in inventory::add_item() ([#55100](https://github.com/CleverRaven/Cataclysm-DDA/pull/55100))
