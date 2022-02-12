@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-12-1812 ([13a4346](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-1812))
+
+* remove radiation from hard-coded craters too ([#55317](https://github.com/CleverRaven/Cataclysm-DDA/pull/55317))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-12-0923 ([fbd5ba7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0923))
 
 * Crucibles can now hold liquids like buckets ([#55307](https://github.com/CleverRaven/Cataclysm-DDA/pull/55307))
