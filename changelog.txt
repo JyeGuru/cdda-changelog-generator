@@ -1,3 +1,4 @@
+* variable name typo (#55312)
 * Remove CBMs from mines (#55329)
 * Allow single point sling to utilize PALS/MOLLE attach system (#55289)
 * Nerf bearings from smashing electric motors (#55326)
@@ -94,7 +95,6 @@ Cataclysm-DDA experimental build 2022-02-08-0632 (6aea83a)
 
 Cataclysm-DDA experimental build 2022-02-08-0515 (59c26ec)
 * Added XL light survivor mask item and recipe (#55146)
-* Fix table.py encoding error (#55115)
 * Ported changes from BN related to overmap wrong tile selection with mouse (#55161)
 * JSONify moon & lighting widgets (#55175)
 

@@ -1,3 +1,4 @@
+* variable name typo ([#55312](https://github.com/CleverRaven/Cataclysm-DDA/pull/55312))
 * Remove CBMs from mines ([#55329](https://github.com/CleverRaven/Cataclysm-DDA/pull/55329))
 * Allow single point sling to utilize PALS/MOLLE attach system ([#55289](https://github.com/CleverRaven/Cataclysm-DDA/pull/55289))
 * Nerf bearings from smashing electric motors ([#55326](https://github.com/CleverRaven/Cataclysm-DDA/pull/55326))
@@ -142,7 +143,6 @@
 #### Cataclysm-DDA experimental build 2022-02-08-0515 ([59c26ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0515))
 
 * Added XL light survivor mask item and recipe ([#55146](https://github.com/CleverRaven/Cataclysm-DDA/pull/55146))
-* Fix table.py encoding error ([#55115](https://github.com/CleverRaven/Cataclysm-DDA/pull/55115))
 * Ported changes from BN related to overmap wrong tile selection with mouse ([#55161](https://github.com/CleverRaven/Cataclysm-DDA/pull/55161))
 * JSONify moon & lighting widgets ([#55175](https://github.com/CleverRaven/Cataclysm-DDA/pull/55175))
 
