@@ -192,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-02-07-1608 ([ea101df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-1608))
 
 * Minor changes to Plant-based json ([#55153](https://github.com/CleverRaven/Cataclysm-DDA/pull/55153))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-07-0802 ([f7c3192](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-0802))
-
 * Add max length to worldname input ([#55152](https://github.com/CleverRaven/Cataclysm-DDA/pull/55152))
 * Install Python3 dependencies in Push Translation Template workflow ([#55150](https://github.com/CleverRaven/Cataclysm-DDA/pull/55150))
 * Fix pickup activity error heap-use-after-free ([#55149](https://github.com/CleverRaven/Cataclysm-DDA/pull/55149))
