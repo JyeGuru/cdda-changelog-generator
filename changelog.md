@@ -1,3 +1,5 @@
+* Nerf bearings from smashing electric motors ([#55326](https://github.com/CleverRaven/Cataclysm-DDA/pull/55326))
+* JSONify health text widget ([#55320](https://github.com/CleverRaven/Cataclysm-DDA/pull/55320))
 * Fix crafting test ([#55324](https://github.com/CleverRaven/Cataclysm-DDA/pull/55324))
 
 ---
@@ -104,7 +106,6 @@
 #### Cataclysm-DDA experimental build 2022-02-09-0753 ([9c5e55b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-09-0753))
 
 * Double-layered cardboard box ([#55216](https://github.com/CleverRaven/Cataclysm-DDA/pull/55216))
-* Add more survival food ([#55106](https://github.com/CleverRaven/Cataclysm-DDA/pull/55106))
 
 ---
 
@@ -208,4 +209,3 @@
 * JSONify thirst & hunger widgets ([#55118](https://github.com/CleverRaven/Cataclysm-DDA/pull/55118))
 * Hotfix segmentation fault after commit Lazy create level cache layers ([#55121](https://github.com/CleverRaven/Cataclysm-DDA/pull/55121))
 * Fix character name covering world name ([#55113](https://github.com/CleverRaven/Cataclysm-DDA/pull/55113))
-* Restore "Building with Visual Studio" heading ([#55105](https://github.com/CleverRaven/Cataclysm-DDA/pull/55105))

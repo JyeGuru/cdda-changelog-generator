@@ -1,3 +1,5 @@
+* Nerf bearings from smashing electric motors (#55326)
+* JSONify health text widget (#55320)
 * Fix crafting test (#55324)
 
 Cataclysm-DDA experimental build 2022-02-12-2230 (9fa6ac1)
@@ -71,7 +73,6 @@ Cataclysm-DDA experimental build 2022-02-10-0709 (03e7363)
 
 Cataclysm-DDA experimental build 2022-02-09-0753 (9c5e55b)
 * Double-layered cardboard box (#55216)
-* Add more survival food (#55106)
 
 Cataclysm-DDA experimental build 2022-02-09-0651 (d065e00)
 * Portal storm monsters spawn outdoors while you are indoors plus syntax cleanup (#55223)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2022-02-07-1608 (ea101df)
 * JSONify thirst & hunger widgets (#55118)
 * Hotfix segmentation fault after commit Lazy create level cache layers (#55121)
 * Fix character name covering world name (#55113)
-* Restore "Building with Visual Studio" heading (#55105)
