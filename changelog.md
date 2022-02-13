@@ -1,3 +1,5 @@
+* Remove CBMs from mines ([#55329](https://github.com/CleverRaven/Cataclysm-DDA/pull/55329))
+* Allow single point sling to utilize PALS/MOLLE attach system ([#55289](https://github.com/CleverRaven/Cataclysm-DDA/pull/55289))
 * Nerf bearings from smashing electric motors ([#55326](https://github.com/CleverRaven/Cataclysm-DDA/pull/55326))
 * JSONify health text widget ([#55320](https://github.com/CleverRaven/Cataclysm-DDA/pull/55320))
 * Fix crafting test ([#55324](https://github.com/CleverRaven/Cataclysm-DDA/pull/55324))
@@ -205,7 +207,5 @@
 * Added check for being on ground for several cases of falling down ([#55128](https://github.com/CleverRaven/Cataclysm-DDA/pull/55128))
 * Use move semantics in profession::items() ([#55127](https://github.com/CleverRaven/Cataclysm-DDA/pull/55127))
 * Follow HTTP 302 redirection in installing Transifex CLI ([#55126](https://github.com/CleverRaven/Cataclysm-DDA/pull/55126))
-* JSONify weight text widget ([#55111](https://github.com/CleverRaven/Cataclysm-DDA/pull/55111))
 * JSONify thirst & hunger widgets ([#55118](https://github.com/CleverRaven/Cataclysm-DDA/pull/55118))
 * Hotfix segmentation fault after commit Lazy create level cache layers ([#55121](https://github.com/CleverRaven/Cataclysm-DDA/pull/55121))
-* Fix character name covering world name ([#55113](https://github.com/CleverRaven/Cataclysm-DDA/pull/55113))
