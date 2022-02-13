@@ -1,3 +1,4 @@
+* Nested mapgen fix mi-go ([#55343](https://github.com/CleverRaven/Cataclysm-DDA/pull/55343))
 
 ---
 
@@ -207,5 +208,4 @@
 * Added check for being on ground for several cases of falling down ([#55128](https://github.com/CleverRaven/Cataclysm-DDA/pull/55128))
 * Use move semantics in profession::items() ([#55127](https://github.com/CleverRaven/Cataclysm-DDA/pull/55127))
 * Follow HTTP 302 redirection in installing Transifex CLI ([#55126](https://github.com/CleverRaven/Cataclysm-DDA/pull/55126))
-* JSONify thirst & hunger widgets ([#55118](https://github.com/CleverRaven/Cataclysm-DDA/pull/55118))
 * Hotfix segmentation fault after commit Lazy create level cache layers ([#55121](https://github.com/CleverRaven/Cataclysm-DDA/pull/55121))
