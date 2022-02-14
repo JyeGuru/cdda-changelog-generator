@@ -1,3 +1,5 @@
+* Add solar panels and storage batteries to the power grid ([#55265](https://github.com/CleverRaven/Cataclysm-DDA/pull/55265))
+* Display cut down message based on TREE flag ([#55293](https://github.com/CleverRaven/Cataclysm-DDA/pull/55293))
 * Prevent clean water (0) from being placed. ([#55358](https://github.com/CleverRaven/Cataclysm-DDA/pull/55358))
 * Minor fixes to new tutorial strings ([#55310](https://github.com/CleverRaven/Cataclysm-DDA/pull/55310))
 * added missing verb to Tiger Kung Fu grab break text  ([#55311](https://github.com/CleverRaven/Cataclysm-DDA/pull/55311))
@@ -202,5 +204,3 @@
 * Restrict player's view when prone, similar to crouch ([#55162](https://github.com/CleverRaven/Cataclysm-DDA/pull/55162))
 * Few tweaks for traps ([#55157](https://github.com/CleverRaven/Cataclysm-DDA/pull/55157))
 * Optimize null stream in DebugLog ([#55156](https://github.com/CleverRaven/Cataclysm-DDA/pull/55156))
-* Minor changes to Plant-based json ([#55153](https://github.com/CleverRaven/Cataclysm-DDA/pull/55153))
-* Add max length to worldname input ([#55152](https://github.com/CleverRaven/Cataclysm-DDA/pull/55152))
