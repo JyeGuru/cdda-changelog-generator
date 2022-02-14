@@ -1,3 +1,5 @@
+* Prevent clean water (0) from being placed. ([#55358](https://github.com/CleverRaven/Cataclysm-DDA/pull/55358))
+* Minor fixes to new tutorial strings ([#55310](https://github.com/CleverRaven/Cataclysm-DDA/pull/55310))
 * added missing verb to Tiger Kung Fu grab break text  ([#55311](https://github.com/CleverRaven/Cataclysm-DDA/pull/55311))
 * leather touring suit → track touring suit ([#55319](https://github.com/CleverRaven/Cataclysm-DDA/pull/55319))
 * Add DIY Compendium to libraries ([#55332](https://github.com/CleverRaven/Cataclysm-DDA/pull/55332))
@@ -202,5 +204,3 @@
 * Optimize null stream in DebugLog ([#55156](https://github.com/CleverRaven/Cataclysm-DDA/pull/55156))
 * Minor changes to Plant-based json ([#55153](https://github.com/CleverRaven/Cataclysm-DDA/pull/55153))
 * Add max length to worldname input ([#55152](https://github.com/CleverRaven/Cataclysm-DDA/pull/55152))
-* Install Python3 dependencies in Push Translation Template workflow ([#55150](https://github.com/CleverRaven/Cataclysm-DDA/pull/55150))
-* Fix pickup activity error heap-use-after-free ([#55149](https://github.com/CleverRaven/Cataclysm-DDA/pull/55149))
