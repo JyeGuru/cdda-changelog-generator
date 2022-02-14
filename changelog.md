@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-14-0658 ([a8f310d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-14-0658))
+
+* Typos bad ([#55362](https://github.com/CleverRaven/Cataclysm-DDA/pull/55362))
 * CODEOWNERS: Fix typo and notify dseguin of changes to widgets ([#55359](https://github.com/CleverRaven/Cataclysm-DDA/pull/55359))
 
 ---
@@ -182,16 +188,10 @@
 #### Cataclysm-DDA experimental build 2022-02-07-2027 ([519e9bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-2027))
 
 * Fixing some feral soldiers stuff ([#55139](https://github.com/CleverRaven/Cataclysm-DDA/pull/55139))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-07-1815 ([0fde9da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-1815))
-
 * Made recipe of makeshift hammer reversible ([#55186](https://github.com/CleverRaven/Cataclysm-DDA/pull/55186))
 * Made blood filter remove triffid paralyze poison ([#55179](https://github.com/CleverRaven/Cataclysm-DDA/pull/55179))
 * No Junkplate On Cody ([#55174](https://github.com/CleverRaven/Cataclysm-DDA/pull/55174))
 * Fix potential crash when processing widgets ([#55141](https://github.com/CleverRaven/Cataclysm-DDA/pull/55141))
-* Optimize overmap special placement with zero-copy transformation ([#55124](https://github.com/CleverRaven/Cataclysm-DDA/pull/55124))
 * Fix panel deserialization crash ([#55167](https://github.com/CleverRaven/Cataclysm-DDA/pull/55167))
 * Restrict player's view when prone, similar to crouch ([#55162](https://github.com/CleverRaven/Cataclysm-DDA/pull/55162))
 * Few tweaks for traps ([#55157](https://github.com/CleverRaven/Cataclysm-DDA/pull/55157))
