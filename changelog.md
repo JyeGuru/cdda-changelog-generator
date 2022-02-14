@@ -1,3 +1,23 @@
+* added missing verb to Tiger Kung Fu grab break text  ([#55311](https://github.com/CleverRaven/Cataclysm-DDA/pull/55311))
+* leather touring suit → track touring suit ([#55319](https://github.com/CleverRaven/Cataclysm-DDA/pull/55319))
+* Add DIY Compendium to libraries ([#55332](https://github.com/CleverRaven/Cataclysm-DDA/pull/55332))
+* Add space to Goals in the sidebar to align with other strings ([#55351](https://github.com/CleverRaven/Cataclysm-DDA/pull/55351))
+* Set e-money barter value to 0 ([#55349](https://github.com/CleverRaven/Cataclysm-DDA/pull/55349))
+* Remove unnecessary gunmod check ([#55372](https://github.com/CleverRaven/Cataclysm-DDA/pull/55372))
+* Teamster: fix the title of a mission ([#55374](https://github.com/CleverRaven/Cataclysm-DDA/pull/55374))
+* Lab nested mapgen fixes ([#55366](https://github.com/CleverRaven/Cataclysm-DDA/pull/55366))
+* Made active gas pump smashable, like its inactive version ([#55306](https://github.com/CleverRaven/Cataclysm-DDA/pull/55306))
+* Permitted to analyze tainted blood on centrifuge ([#55365](https://github.com/CleverRaven/Cataclysm-DDA/pull/55365))
+* Increased computer level required to craft electrohack from 1 to 5 ([#55309](https://github.com/CleverRaven/Cataclysm-DDA/pull/55309))
+* One can toggle visible weather overlay on map only if player character is outside ([#55338](https://github.com/CleverRaven/Cataclysm-DDA/pull/55338))
+* XL Survivor Hood now copies from and is proportional to Survivor Hood ([#55354](https://github.com/CleverRaven/Cataclysm-DDA/pull/55354))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-14-1642 ([7fbca7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-14-1642))
+
+* add ALLOW_TERRAIN_UNDER_OTHER_DATA to 4x4 junk ([#55339](https://github.com/CleverRaven/Cataclysm-DDA/pull/55339))
+* Follow HTTP 302 redirection in installing Transifex CLI for pull-translations.yml ([#55342](https://github.com/CleverRaven/Cataclysm-DDA/pull/55342))
 
 ---
 
@@ -107,8 +127,6 @@
 #### Cataclysm-DDA experimental build 2022-02-11-2240 ([6585fef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-2240))
 
 * Use real keybinds for the tutorial and improve tutorial readability ([#55230](https://github.com/CleverRaven/Cataclysm-DDA/pull/55230))
-* Add small and large space heater appliances ([#55140](https://github.com/CleverRaven/Cataclysm-DDA/pull/55140))
-* Add a forge as placeable appliance ([#55131](https://github.com/CleverRaven/Cataclysm-DDA/pull/55131))
 
 ---
 
@@ -136,7 +154,6 @@
 * suddendly -> suddenly ([#55215](https://github.com/CleverRaven/Cataclysm-DDA/pull/55215))
 * powerfull -> powerful ([#55214](https://github.com/CleverRaven/Cataclysm-DDA/pull/55214))
 * Mounted monsters with high armor value won't get cut by stepping into sharp terrain ([#55194](https://github.com/CleverRaven/Cataclysm-DDA/pull/55194))
-* JSONify activity text widget ([#55138](https://github.com/CleverRaven/Cataclysm-DDA/pull/55138))
 
 ---
 
@@ -155,12 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-02-08-0632 ([6aea83a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0632))
 
 * Add samples to Rat and Mouse mutagen ([#55202](https://github.com/CleverRaven/Cataclysm-DDA/pull/55202))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-08-0515 ([59c26ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0515))
-
-* Added XL light survivor mask item and recipe ([#55146](https://github.com/CleverRaven/Cataclysm-DDA/pull/55146))
 * Ported changes from BN related to overmap wrong tile selection with mouse ([#55161](https://github.com/CleverRaven/Cataclysm-DDA/pull/55161))
 * JSONify moon & lighting widgets ([#55175](https://github.com/CleverRaven/Cataclysm-DDA/pull/55175))
 
@@ -182,16 +193,9 @@
 #### Cataclysm-DDA experimental build 2022-02-07-2131 ([1d9e012](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-2131))
 
 * Update tilesets 22-02-06 ([#55171](https://github.com/CleverRaven/Cataclysm-DDA/pull/55171))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-07-2027 ([519e9bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-2027))
-
-* Fixing some feral soldiers stuff ([#55139](https://github.com/CleverRaven/Cataclysm-DDA/pull/55139))
 * Made recipe of makeshift hammer reversible ([#55186](https://github.com/CleverRaven/Cataclysm-DDA/pull/55186))
 * Made blood filter remove triffid paralyze poison ([#55179](https://github.com/CleverRaven/Cataclysm-DDA/pull/55179))
 * No Junkplate On Cody ([#55174](https://github.com/CleverRaven/Cataclysm-DDA/pull/55174))
-* Fix potential crash when processing widgets ([#55141](https://github.com/CleverRaven/Cataclysm-DDA/pull/55141))
 * Fix panel deserialization crash ([#55167](https://github.com/CleverRaven/Cataclysm-DDA/pull/55167))
 * Restrict player's view when prone, similar to crouch ([#55162](https://github.com/CleverRaven/Cataclysm-DDA/pull/55162))
 * Few tweaks for traps ([#55157](https://github.com/CleverRaven/Cataclysm-DDA/pull/55157))
@@ -200,12 +204,3 @@
 * Add max length to worldname input ([#55152](https://github.com/CleverRaven/Cataclysm-DDA/pull/55152))
 * Install Python3 dependencies in Push Translation Template workflow ([#55150](https://github.com/CleverRaven/Cataclysm-DDA/pull/55150))
 * Fix pickup activity error heap-use-after-free ([#55149](https://github.com/CleverRaven/Cataclysm-DDA/pull/55149))
-* add 'ERASE_ALL_BEFORE_PLACING_TERRAIN' flags to map_extras/sewers.json ([#55147](https://github.com/CleverRaven/Cataclysm-DDA/pull/55147))
-* added 4x sight to spawns ([#55145](https://github.com/CleverRaven/Cataclysm-DDA/pull/55145))
-* Reset player character position in NPC attack test ([#55134](https://github.com/CleverRaven/Cataclysm-DDA/pull/55134))
-* Add a kiln as placeable appliance ([#55125](https://github.com/CleverRaven/Cataclysm-DDA/pull/55125))
-* JSONify movement mode widgets ([#55143](https://github.com/CleverRaven/Cataclysm-DDA/pull/55143))
-* Add message to end of failed pickup activity ([#55136](https://github.com/CleverRaven/Cataclysm-DDA/pull/55136))
-* Added check for being on ground for several cases of falling down ([#55128](https://github.com/CleverRaven/Cataclysm-DDA/pull/55128))
-* Use move semantics in profession::items() ([#55127](https://github.com/CleverRaven/Cataclysm-DDA/pull/55127))
-* Follow HTTP 302 redirection in installing Transifex CLI ([#55126](https://github.com/CleverRaven/Cataclysm-DDA/pull/55126))
