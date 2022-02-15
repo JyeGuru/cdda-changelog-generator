@@ -1,3 +1,5 @@
+* Full auto conversion for Glock pistols ([#55334](https://github.com/CleverRaven/Cataclysm-DDA/pull/55334))
+* Fix my own blunder in resolving #55272 ([#55325](https://github.com/CleverRaven/Cataclysm-DDA/pull/55325))
 * Add Tong Length and Byproducts ([#55347](https://github.com/CleverRaven/Cataclysm-DDA/pull/55347))
 * Recenter tiled overmap and fix mouse clicking within it ([#55341](https://github.com/CleverRaven/Cataclysm-DDA/pull/55341))
 * Armored dummies can withstand what an unarmored can for practice ([#55363](https://github.com/CleverRaven/Cataclysm-DDA/pull/55363))
@@ -96,7 +98,6 @@
 * Converted mi-go portal variant of `mx_portal_in` map extra to overmap special ([#55291](https://github.com/CleverRaven/Cataclysm-DDA/pull/55291))
 * Add clay canning pot ([#55247](https://github.com/CleverRaven/Cataclysm-DDA/pull/55247))
 * Making jeans less encumbering and motorcycle pants more accurate to their jean roots. ([#55285](https://github.com/CleverRaven/Cataclysm-DDA/pull/55285))
-* Chloromorph Permits Forced Sleep ([#55184](https://github.com/CleverRaven/Cataclysm-DDA/pull/55184))
 * [Magiclysm] Adds rigid to thread generators ([#55284](https://github.com/CleverRaven/Cataclysm-DDA/pull/55284))
 * If floor has collapsed, trigger a ledge trap on former floor tile to make creature fall down ([#55282](https://github.com/CleverRaven/Cataclysm-DDA/pull/55282))
 * Dive underwater after climbing down onto a tile with `DEEP_WATER` flag ([#55281](https://github.com/CleverRaven/Cataclysm-DDA/pull/55281))
@@ -208,4 +209,3 @@
 
 * Homemade grenades are grenades, let them go into pockets that are limited to grenades ([#55197](https://github.com/CleverRaven/Cataclysm-DDA/pull/55197))
 * Made recipe of makeshift hammer reversible ([#55186](https://github.com/CleverRaven/Cataclysm-DDA/pull/55186))
-* Made blood filter remove triffid paralyze poison ([#55179](https://github.com/CleverRaven/Cataclysm-DDA/pull/55179))
