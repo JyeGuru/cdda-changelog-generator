@@ -1,3 +1,16 @@
+* Add Tong Length and Byproducts ([#55347](https://github.com/CleverRaven/Cataclysm-DDA/pull/55347))
+* Recenter tiled overmap and fix mouse clicking within it ([#55341](https://github.com/CleverRaven/Cataclysm-DDA/pull/55341))
+* Armored dummies can withstand what an unarmored can for practice ([#55363](https://github.com/CleverRaven/Cataclysm-DDA/pull/55363))
+* Typo fix ([#55384](https://github.com/CleverRaven/Cataclysm-DDA/pull/55384))
+* Fix pressing letter keys in pocket autopickup settings ([#55390](https://github.com/CleverRaven/Cataclysm-DDA/pull/55390))
+* Active Railgun bionic will now actually consume bionic power per throw ([#55382](https://github.com/CleverRaven/Cataclysm-DDA/pull/55382))
+* frozen lemonade is no longer considered dairy ([#55383](https://github.com/CleverRaven/Cataclysm-DDA/pull/55383))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-15-0701 ([d1b3418](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-0701))
+
+* Empty Oxygen spawns no more ([#55387](https://github.com/CleverRaven/Cataclysm-DDA/pull/55387))
 
 ---
 
@@ -181,8 +194,6 @@
 #### Cataclysm-DDA experimental build 2022-02-08-0632 ([6aea83a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0632))
 
 * Add samples to Rat and Mouse mutagen ([#55202](https://github.com/CleverRaven/Cataclysm-DDA/pull/55202))
-* Ported changes from BN related to overmap wrong tile selection with mouse ([#55161](https://github.com/CleverRaven/Cataclysm-DDA/pull/55161))
-* JSONify moon & lighting widgets ([#55175](https://github.com/CleverRaven/Cataclysm-DDA/pull/55175))
 
 ---
 
@@ -196,16 +207,5 @@
 #### Cataclysm-DDA experimental build 2022-02-08-0206 ([05365b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0206))
 
 * Homemade grenades are grenades, let them go into pockets that are limited to grenades ([#55197](https://github.com/CleverRaven/Cataclysm-DDA/pull/55197))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-07-2131 ([1d9e012](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-07-2131))
-
-* Update tilesets 22-02-06 ([#55171](https://github.com/CleverRaven/Cataclysm-DDA/pull/55171))
 * Made recipe of makeshift hammer reversible ([#55186](https://github.com/CleverRaven/Cataclysm-DDA/pull/55186))
 * Made blood filter remove triffid paralyze poison ([#55179](https://github.com/CleverRaven/Cataclysm-DDA/pull/55179))
-* No Junkplate On Cody ([#55174](https://github.com/CleverRaven/Cataclysm-DDA/pull/55174))
-* Fix panel deserialization crash ([#55167](https://github.com/CleverRaven/Cataclysm-DDA/pull/55167))
-* Restrict player's view when prone, similar to crouch ([#55162](https://github.com/CleverRaven/Cataclysm-DDA/pull/55162))
-* Few tweaks for traps ([#55157](https://github.com/CleverRaven/Cataclysm-DDA/pull/55157))
-* Optimize null stream in DebugLog ([#55156](https://github.com/CleverRaven/Cataclysm-DDA/pull/55156))
