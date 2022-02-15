@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-15-0804 ([735e42d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-0804))
+
 * Full auto conversion for Glock pistols ([#55334](https://github.com/CleverRaven/Cataclysm-DDA/pull/55334))
 * Fix my own blunder in resolving #55272 ([#55325](https://github.com/CleverRaven/Cataclysm-DDA/pull/55325))
 * Add Tong Length and Byproducts ([#55347](https://github.com/CleverRaven/Cataclysm-DDA/pull/55347))
@@ -201,11 +206,4 @@
 #### Cataclysm-DDA experimental build 2022-02-08-0425 ([6737b6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0425))
 
 * Add max move cost parameter ([#55198](https://github.com/CleverRaven/Cataclysm-DDA/pull/55198))
-* Only push translation template after successful completion of experimental release build ([#55193](https://github.com/CleverRaven/Cataclysm-DDA/pull/55193))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-08-0206 ([05365b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0206))
-
 * Homemade grenades are grenades, let them go into pockets that are limited to grenades ([#55197](https://github.com/CleverRaven/Cataclysm-DDA/pull/55197))
-* Made recipe of makeshift hammer reversible ([#55186](https://github.com/CleverRaven/Cataclysm-DDA/pull/55186))
