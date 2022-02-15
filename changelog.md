@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-15-1047 ([973d737](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-1047))
+
+* added in ear lowprofile hearing protection ([#55386](https://github.com/CleverRaven/Cataclysm-DDA/pull/55386))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-15-0804 ([735e42d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-0804))
 
 * Full auto conversion for Glock pistols ([#55334](https://github.com/CleverRaven/Cataclysm-DDA/pull/55334))
@@ -181,7 +187,6 @@
 * Portal storm monsters spawn outdoors while you are indoors plus syntax cleanup ([#55223](https://github.com/CleverRaven/Cataclysm-DDA/pull/55223))
 * suddendly -> suddenly ([#55215](https://github.com/CleverRaven/Cataclysm-DDA/pull/55215))
 * powerfull -> powerful ([#55214](https://github.com/CleverRaven/Cataclysm-DDA/pull/55214))
-* Mounted monsters with high armor value won't get cut by stepping into sharp terrain ([#55194](https://github.com/CleverRaven/Cataclysm-DDA/pull/55194))
 
 ---
 
@@ -200,10 +205,5 @@
 #### Cataclysm-DDA experimental build 2022-02-08-0632 ([6aea83a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0632))
 
 * Add samples to Rat and Mouse mutagen ([#55202](https://github.com/CleverRaven/Cataclysm-DDA/pull/55202))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-08-0425 ([6737b6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0425))
-
 * Add max move cost parameter ([#55198](https://github.com/CleverRaven/Cataclysm-DDA/pull/55198))
 * Homemade grenades are grenades, let them go into pockets that are limited to grenades ([#55197](https://github.com/CleverRaven/Cataclysm-DDA/pull/55197))
