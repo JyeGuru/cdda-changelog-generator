@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-16-0646 ([cc10e0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-16-0646))
+
+* Mitten Gauntlets as unarmed weapon ([#55413](https://github.com/CleverRaven/Cataclysm-DDA/pull/55413))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-15-1047 ([973d737](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-1047))
 
 * added in ear lowprofile hearing protection ([#55386](https://github.com/CleverRaven/Cataclysm-DDA/pull/55386))
@@ -206,4 +212,3 @@
 
 * Add samples to Rat and Mouse mutagen ([#55202](https://github.com/CleverRaven/Cataclysm-DDA/pull/55202))
 * Add max move cost parameter ([#55198](https://github.com/CleverRaven/Cataclysm-DDA/pull/55198))
-* Homemade grenades are grenades, let them go into pockets that are limited to grenades ([#55197](https://github.com/CleverRaven/Cataclysm-DDA/pull/55197))
