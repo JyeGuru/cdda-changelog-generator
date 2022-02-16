@@ -139,4 +139,3 @@ Cataclysm-DDA experimental build 2022-02-08-1037 (19f01e3)
 
 Cataclysm-DDA experimental build 2022-02-08-0632 (6aea83a)
 * Add samples to Rat and Mouse mutagen (#55202)
-* Add max move cost parameter (#55198)

@@ -211,4 +211,3 @@
 #### Cataclysm-DDA experimental build 2022-02-08-0632 ([6aea83a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0632))
 
 * Add samples to Rat and Mouse mutagen ([#55202](https://github.com/CleverRaven/Cataclysm-DDA/pull/55202))
-* Add max move cost parameter ([#55198](https://github.com/CleverRaven/Cataclysm-DDA/pull/55198))
