@@ -1,3 +1,14 @@
+* Furniture and terrain can have custom field sprites ([#55416](https://github.com/CleverRaven/Cataclysm-DDA/pull/55416))
+* Fix pocket information not displaying for hackPRO and more ([#55411](https://github.com/CleverRaven/Cataclysm-DDA/pull/55411))
+* Football Armor Overhaul ([#55406](https://github.com/CleverRaven/Cataclysm-DDA/pull/55406))
+* Materials Roll Individually For Direct Attacks ([#55405](https://github.com/CleverRaven/Cataclysm-DDA/pull/55405))
+* Add list of obligatory flags to MA techs ([#55403](https://github.com/CleverRaven/Cataclysm-DDA/pull/55403))
+* OLD_GUARD_REP_3: spawn exodii base if can't find ([#55400](https://github.com/CleverRaven/Cataclysm-DDA/pull/55400))
+* Make fit professions fit, add football prof & hobby ([#55391](https://github.com/CleverRaven/Cataclysm-DDA/pull/55391))
+* Small comment for field ([#55388](https://github.com/CleverRaven/Cataclysm-DDA/pull/55388))
+* Fix 'Reach Refugee Center' mission location and pathing over bridges ([#55385](https://github.com/CleverRaven/Cataclysm-DDA/pull/55385))
+* Make leather more cut resistant but less bash resistant ([#55381](https://github.com/CleverRaven/Cataclysm-DDA/pull/55381))
+* Display current firemode on sidebar ([#55377](https://github.com/CleverRaven/Cataclysm-DDA/pull/55377))
 * Fix zone constructions that allow keeping items ([#55367](https://github.com/CleverRaven/Cataclysm-DDA/pull/55367))
 * JSONify fatigue widget ([#55364](https://github.com/CleverRaven/Cataclysm-DDA/pull/55364))
 * JSONify body temp widgets ([#55361](https://github.com/CleverRaven/Cataclysm-DDA/pull/55361))
@@ -20,7 +31,6 @@
 * Fix amalgamation of materials for complex armors ([#55315](https://github.com/CleverRaven/Cataclysm-DDA/pull/55315))
 * Allow ugliness to be defined per bodypart, allow covering up those ugly bits ([#55295](https://github.com/CleverRaven/Cataclysm-DDA/pull/55295))
 * Updated Survivor Harness And Similar Other Torso Storage ([#55294](https://github.com/CleverRaven/Cataclysm-DDA/pull/55294))
-* Cleaned up basecamp code string mess somewhat ([#55246](https://github.com/CleverRaven/Cataclysm-DDA/pull/55246))
 
 ---
 
@@ -134,7 +144,6 @@
 * Disable the warning about mapgen in reality bubble ([#55299](https://github.com/CleverRaven/Cataclysm-DDA/pull/55299))
 * Let standing lamps be constructed using lightstrips ([#55280](https://github.com/CleverRaven/Cataclysm-DDA/pull/55280))
 * Converted mi-go portal variant of `mx_portal_in` map extra to overmap special ([#55291](https://github.com/CleverRaven/Cataclysm-DDA/pull/55291))
-* Add clay canning pot ([#55247](https://github.com/CleverRaven/Cataclysm-DDA/pull/55247))
 * Making jeans less encumbering and motorcycle pants more accurate to their jean roots. ([#55285](https://github.com/CleverRaven/Cataclysm-DDA/pull/55285))
 * [Magiclysm] Adds rigid to thread generators ([#55284](https://github.com/CleverRaven/Cataclysm-DDA/pull/55284))
 * If floor has collapsed, trigger a ledge trap on former floor tile to make creature fall down ([#55282](https://github.com/CleverRaven/Cataclysm-DDA/pull/55282))
@@ -167,15 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-02-12-0043 ([2219cab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0043))
 
 * Make hyper-metabolism obtainable ([#55254](https://github.com/CleverRaven/Cataclysm-DDA/pull/55254))
-* Small enhancement to Character Modifiers ([#55253](https://github.com/CleverRaven/Cataclysm-DDA/pull/55253))
-* Give medical residents a doctor's badge ([#55250](https://github.com/CleverRaven/Cataclysm-DDA/pull/55250))
-* Add tool qualities to XS metal arm guards recipe ([#55245](https://github.com/CleverRaven/Cataclysm-DDA/pull/55245))
-* If there's nowhere to put syringe after injecting vaccine shot, drop it on the ground ([#55244](https://github.com/CleverRaven/Cataclysm-DDA/pull/55244))
-* Armored monsters won't avoid sharp terrain no more, even if not attacking ([#55243](https://github.com/CleverRaven/Cataclysm-DDA/pull/55243))
-* Print "You pushed your mount" only if it was really done ([#55242](https://github.com/CleverRaven/Cataclysm-DDA/pull/55242))
-* Increase performance of item processing of contained items ([#55240](https://github.com/CleverRaven/Cataclysm-DDA/pull/55240))
-* Minor character modifier / limb score tweaks ([#55239](https://github.com/CleverRaven/Cataclysm-DDA/pull/55239))
-* Fix tried to put an item (fn57) count (1) in a container (holster) ([#55236](https://github.com/CleverRaven/Cataclysm-DDA/pull/55236))
 
 ---
 
