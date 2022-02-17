@@ -1,3 +1,13 @@
+* TropiCata: Cigarras and Roly-Polies ([#55360](https://github.com/CleverRaven/Cataclysm-DDA/pull/55360))
+* Improve dialog functions handling of min max. ([#55352](https://github.com/CleverRaven/Cataclysm-DDA/pull/55352))
+* Allow gendered descriptions for professions outside of translations ([#55345](https://github.com/CleverRaven/Cataclysm-DDA/pull/55345))
+* Add never mind option to npc aiming rules ([#55333](https://github.com/CleverRaven/Cataclysm-DDA/pull/55333))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-17-0537 ([1ed949a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-17-0537))
+
+* Show only time or failure rate for proficiency if both don't apply ([#55330](https://github.com/CleverRaven/Cataclysm-DDA/pull/55330))
 
 ---
 
@@ -121,7 +131,6 @@
 * Disable the warning about mapgen in reality bubble ([#55299](https://github.com/CleverRaven/Cataclysm-DDA/pull/55299))
 * Don't prompt for stepping into thorny bush when you're in a mecha ([#55234](https://github.com/CleverRaven/Cataclysm-DDA/pull/55234))
 * Let standing lamps be constructed using lightstrips ([#55280](https://github.com/CleverRaven/Cataclysm-DDA/pull/55280))
-* Standing lamps draw 20 watts instead of 200 watts ([#55225](https://github.com/CleverRaven/Cataclysm-DDA/pull/55225))
 * Converted mi-go portal variant of `mx_portal_in` map extra to overmap special ([#55291](https://github.com/CleverRaven/Cataclysm-DDA/pull/55291))
 * Add clay canning pot ([#55247](https://github.com/CleverRaven/Cataclysm-DDA/pull/55247))
 * Making jeans less encumbering and motorcycle pants more accurate to their jean roots. ([#55285](https://github.com/CleverRaven/Cataclysm-DDA/pull/55285))
@@ -189,15 +198,3 @@
 #### Cataclysm-DDA experimental build 2022-02-10-0709 ([03e7363](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-10-0709))
 
 * Shrink OG-7V rocket ([#55257](https://github.com/CleverRaven/Cataclysm-DDA/pull/55257))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-09-0753 ([9c5e55b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-09-0753))
-
-* Double-layered cardboard box ([#55216](https://github.com/CleverRaven/Cataclysm-DDA/pull/55216))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-09-0651 ([d065e00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-09-0651))
-
-* Portal storm monsters spawn outdoors while you are indoors plus syntax cleanup ([#55223](https://github.com/CleverRaven/Cataclysm-DDA/pull/55223))
