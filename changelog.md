@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-17-0641 ([97018ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-17-0641))
+
 * No survivor belts for cunning ferals ([#55438](https://github.com/CleverRaven/Cataclysm-DDA/pull/55438))
 * Fix EOC temperature assignment not taking effect ([#55435](https://github.com/CleverRaven/Cataclysm-DDA/pull/55435))
 * Make small and large cardboard boxes craftable ([#55434](https://github.com/CleverRaven/Cataclysm-DDA/pull/55434))
