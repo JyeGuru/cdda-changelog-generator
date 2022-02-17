@@ -205,9 +205,4 @@
 #### Cataclysm-DDA experimental build 2022-02-08-1037 ([19f01e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-1037))
 
 * Remove crater radiation ([#55204](https://github.com/CleverRaven/Cataclysm-DDA/pull/55204))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-08-0632 ([6aea83a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-0632))
-
 * Add samples to Rat and Mouse mutagen ([#55202](https://github.com/CleverRaven/Cataclysm-DDA/pull/55202))
