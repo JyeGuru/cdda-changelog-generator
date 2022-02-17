@@ -1,3 +1,6 @@
+* Fix zone constructions that allow keeping items ([#55367](https://github.com/CleverRaven/Cataclysm-DDA/pull/55367))
+* JSONify fatigue widget ([#55364](https://github.com/CleverRaven/Cataclysm-DDA/pull/55364))
+* JSONify body temp widgets ([#55361](https://github.com/CleverRaven/Cataclysm-DDA/pull/55361))
 * TropiCata: Cigarras and Roly-Polies ([#55360](https://github.com/CleverRaven/Cataclysm-DDA/pull/55360))
 * Improve dialog functions handling of min max. ([#55352](https://github.com/CleverRaven/Cataclysm-DDA/pull/55352))
 * Allow gendered descriptions for professions outside of translations ([#55345](https://github.com/CleverRaven/Cataclysm-DDA/pull/55345))
@@ -129,7 +132,6 @@
 * adding SUN_GLASSES to clothing_flags_description in armor_layers.cpp ([#55300](https://github.com/CleverRaven/Cataclysm-DDA/pull/55300))
 * Nest mapgen fixes Dinomod ([#55304](https://github.com/CleverRaven/Cataclysm-DDA/pull/55304))
 * Disable the warning about mapgen in reality bubble ([#55299](https://github.com/CleverRaven/Cataclysm-DDA/pull/55299))
-* Don't prompt for stepping into thorny bush when you're in a mecha ([#55234](https://github.com/CleverRaven/Cataclysm-DDA/pull/55234))
 * Let standing lamps be constructed using lightstrips ([#55280](https://github.com/CleverRaven/Cataclysm-DDA/pull/55280))
 * Converted mi-go portal variant of `mx_portal_in` map extra to overmap special ([#55291](https://github.com/CleverRaven/Cataclysm-DDA/pull/55291))
 * Add clay canning pot ([#55247](https://github.com/CleverRaven/Cataclysm-DDA/pull/55247))
@@ -174,18 +176,6 @@
 * Increase performance of item processing of contained items ([#55240](https://github.com/CleverRaven/Cataclysm-DDA/pull/55240))
 * Minor character modifier / limb score tweaks ([#55239](https://github.com/CleverRaven/Cataclysm-DDA/pull/55239))
 * Fix tried to put an item (fn57) count (1) in a container (holster) ([#55236](https://github.com/CleverRaven/Cataclysm-DDA/pull/55236))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-11-2342 ([e2d561b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-2342))
-
-* Deconstruct kevlar sheet into threads ([#55235](https://github.com/CleverRaven/Cataclysm-DDA/pull/55235))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-11-2240 ([6585fef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-2240))
-
-* Use real keybinds for the tutorial and improve tutorial readability ([#55230](https://github.com/CleverRaven/Cataclysm-DDA/pull/55230))
 
 ---
 
