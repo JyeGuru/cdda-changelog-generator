@@ -1,3 +1,8 @@
+* Fixes to enchantment armor with mutations ([#55328](https://github.com/CleverRaven/Cataclysm-DDA/pull/55328))
+* Fix amalgamation of materials for complex armors ([#55315](https://github.com/CleverRaven/Cataclysm-DDA/pull/55315))
+* Allow ugliness to be defined per bodypart, allow covering up those ugly bits ([#55295](https://github.com/CleverRaven/Cataclysm-DDA/pull/55295))
+* Updated Survivor Harness And Similar Other Torso Storage ([#55294](https://github.com/CleverRaven/Cataclysm-DDA/pull/55294))
+* Cleaned up basecamp code string mess somewhat ([#55246](https://github.com/CleverRaven/Cataclysm-DDA/pull/55246))
 
 ---
 
@@ -191,13 +196,3 @@
 #### Cataclysm-DDA experimental build 2022-02-09-0651 ([d065e00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-09-0651))
 
 * Portal storm monsters spawn outdoors while you are indoors plus syntax cleanup ([#55223](https://github.com/CleverRaven/Cataclysm-DDA/pull/55223))
-* suddendly -> suddenly ([#55215](https://github.com/CleverRaven/Cataclysm-DDA/pull/55215))
-* powerfull -> powerful ([#55214](https://github.com/CleverRaven/Cataclysm-DDA/pull/55214))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-08-1127 ([44b27ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-1127))
-
-* TropiCata: animal aggro fixes ([#55203](https://github.com/CleverRaven/Cataclysm-DDA/pull/55203))
-* Remove crater radiation ([#55204](https://github.com/CleverRaven/Cataclysm-DDA/pull/55204))
-* Add samples to Rat and Mouse mutagen ([#55202](https://github.com/CleverRaven/Cataclysm-DDA/pull/55202))
