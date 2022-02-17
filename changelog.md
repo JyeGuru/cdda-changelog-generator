@@ -1,3 +1,9 @@
+* No survivor belts for cunning ferals ([#55438](https://github.com/CleverRaven/Cataclysm-DDA/pull/55438))
+* Fix EOC temperature assignment not taking effect ([#55435](https://github.com/CleverRaven/Cataclysm-DDA/pull/55435))
+* Make small and large cardboard boxes craftable ([#55434](https://github.com/CleverRaven/Cataclysm-DDA/pull/55434))
+* Fix auto-mopping in the dark ([#55429](https://github.com/CleverRaven/Cataclysm-DDA/pull/55429))
+* Add component selection dialog for vehicle part installation ([#55426](https://github.com/CleverRaven/Cataclysm-DDA/pull/55426))
+* Rename foie gras to faux gras ([#55417](https://github.com/CleverRaven/Cataclysm-DDA/pull/55417))
 * Furniture and terrain can have custom field sprites ([#55416](https://github.com/CleverRaven/Cataclysm-DDA/pull/55416))
 * Fix pocket information not displaying for hackPRO and more ([#55411](https://github.com/CleverRaven/Cataclysm-DDA/pull/55411))
 * Football Armor Overhaul ([#55406](https://github.com/CleverRaven/Cataclysm-DDA/pull/55406))
@@ -153,7 +159,6 @@
 * skill_rust_multiplier in mutations does something now ([#55275](https://github.com/CleverRaven/Cataclysm-DDA/pull/55275))
 * "u_set_queue_eoc" -> "queue_eocs" ([#55302](https://github.com/CleverRaven/Cataclysm-DDA/pull/55302))
 * Fix Warmth On New Platemail ([#55269](https://github.com/CleverRaven/Cataclysm-DDA/pull/55269))
-* Rebalancing Gambesons (again): Warmer, more encumbering, weight fixes, and warmth fix for hood. ([#55258](https://github.com/CleverRaven/Cataclysm-DDA/pull/55258))
 * If blood is drawn from corpse of a monster from ZOMBIE species, convert blood to tainted blood ([#55267](https://github.com/CleverRaven/Cataclysm-DDA/pull/55267))
 * Simplify plate armor names ([#55264](https://github.com/CleverRaven/Cataclysm-DDA/pull/55264))
 * Increased width of 'List Items and Monsters' menu to fit NPC attitude text ([#55262](https://github.com/CleverRaven/Cataclysm-DDA/pull/55262))
@@ -161,30 +166,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-02-12-0620 ([d1d7da9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0620))
-
-* Widgets: New flag to auto-hide widget when empty ([#55259](https://github.com/CleverRaven/Cataclysm-DDA/pull/55259))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-12-0144 ([ee956f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0144))
-
-* Set the correct furniture id for box_large_reinforced ([#55256](https://github.com/CleverRaven/Cataclysm-DDA/pull/55256))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-12-0043 ([2219cab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0043))
-
-* Make hyper-metabolism obtainable ([#55254](https://github.com/CleverRaven/Cataclysm-DDA/pull/55254))
-
----
-
 #### Cataclysm-DDA experimental build 2022-02-11-0611 ([cc83f7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-0611))
 
 * TropiCata: some minor fixes ([#55260](https://github.com/CleverRaven/Cataclysm-DDA/pull/55260))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-10-0709 ([03e7363](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-10-0709))
-
-* Shrink OG-7V rocket ([#55257](https://github.com/CleverRaven/Cataclysm-DDA/pull/55257))
