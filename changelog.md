@@ -199,10 +199,5 @@
 #### Cataclysm-DDA experimental build 2022-02-08-1127 ([44b27ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-1127))
 
 * TropiCata: animal aggro fixes ([#55203](https://github.com/CleverRaven/Cataclysm-DDA/pull/55203))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-08-1037 ([19f01e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-08-1037))
-
 * Remove crater radiation ([#55204](https://github.com/CleverRaven/Cataclysm-DDA/pull/55204))
 * Add samples to Rat and Mouse mutagen ([#55202](https://github.com/CleverRaven/Cataclysm-DDA/pull/55202))
