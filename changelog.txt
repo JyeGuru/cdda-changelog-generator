@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-18-0721 (7fa132e)
+* Clarify mission description: Bring 10 plastic sheets (#55459)
+
 Cataclysm-DDA experimental build 2022-02-18-0612 (8ca38c1)
 * Streamline pocket whitelist/blacklist creation (#55323)
 
@@ -127,4 +130,3 @@ Cataclysm-DDA experimental build 2022-02-12-0923 (fbd5ba7)
 * Fix Warmth On New Platemail (#55269)
 * If blood is drawn from corpse of a monster from ZOMBIE species, convert blood to tainted blood (#55267)
 * Simplify plate armor names (#55264)
-* Increased width of 'List Items and Monsters' menu to fit NPC attitude text (#55262)

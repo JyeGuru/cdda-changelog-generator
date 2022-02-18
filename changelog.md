@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-18-0721 ([7fa132e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-18-0721))
+
+* Clarify mission description: Bring 10 plastic sheets ([#55459](https://github.com/CleverRaven/Cataclysm-DDA/pull/55459))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-18-0612 ([8ca38c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-18-0612))
 
 * Streamline pocket whitelist/blacklist creation ([#55323](https://github.com/CleverRaven/Cataclysm-DDA/pull/55323))
@@ -178,4 +184,3 @@
 * Fix Warmth On New Platemail ([#55269](https://github.com/CleverRaven/Cataclysm-DDA/pull/55269))
 * If blood is drawn from corpse of a monster from ZOMBIE species, convert blood to tainted blood ([#55267](https://github.com/CleverRaven/Cataclysm-DDA/pull/55267))
 * Simplify plate armor names ([#55264](https://github.com/CleverRaven/Cataclysm-DDA/pull/55264))
-* Increased width of 'List Items and Monsters' menu to fit NPC attitude text ([#55262](https://github.com/CleverRaven/Cataclysm-DDA/pull/55262))
