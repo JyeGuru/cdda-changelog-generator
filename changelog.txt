@@ -109,7 +109,6 @@ Cataclysm-DDA experimental build 2022-02-12-1812 (13a4346)
 
 Cataclysm-DDA experimental build 2022-02-12-0923 (fbd5ba7)
 * Crucibles can now hold liquids like buckets (#55307)
-* Reworking the touring suit. (#55263)
 * Change the workbench to drop its item form upon deconstruction (#55268)
 * Made Flakey Coverage Test Wider (#55286)
 * Fix keybinding assignment in uilists (e.g., Map Notes) (#55288)

@@ -163,7 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-02-12-0923 ([fbd5ba7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0923))
 
 * Crucibles can now hold liquids like buckets ([#55307](https://github.com/CleverRaven/Cataclysm-DDA/pull/55307))
-* Reworking the touring suit. ([#55263](https://github.com/CleverRaven/Cataclysm-DDA/pull/55263))
 * Change the workbench to drop its item form upon deconstruction ([#55268](https://github.com/CleverRaven/Cataclysm-DDA/pull/55268))
 * Made Flakey Coverage Test Wider ([#55286](https://github.com/CleverRaven/Cataclysm-DDA/pull/55286))
 * Fix keybinding assignment in uilists (e.g., Map Notes) ([#55288](https://github.com/CleverRaven/Cataclysm-DDA/pull/55288))
