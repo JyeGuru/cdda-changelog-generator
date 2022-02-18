@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-18-0236 ([9370fd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-18-0236))
+
+* Fix for duplicate IDs in Aftershock ([#55452](https://github.com/CleverRaven/Cataclysm-DDA/pull/55452))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-17-0641 ([97018ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-17-0641))
 
 * No survivor belts for cunning ferals ([#55438](https://github.com/CleverRaven/Cataclysm-DDA/pull/55438))
@@ -168,9 +174,3 @@
 * Simplify plate armor names ([#55264](https://github.com/CleverRaven/Cataclysm-DDA/pull/55264))
 * Increased width of 'List Items and Monsters' menu to fit NPC attitude text ([#55262](https://github.com/CleverRaven/Cataclysm-DDA/pull/55262))
 * Document tl;dr for running Cata clang tidy in Ubuntu and WSL ([#55261](https://github.com/CleverRaven/Cataclysm-DDA/pull/55261))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-11-0611 ([cc83f7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-11-0611))
-
-* TropiCata: some minor fixes ([#55260](https://github.com/CleverRaven/Cataclysm-DDA/pull/55260))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-18-0236 (9370fd2)
+* Fix for duplicate IDs in Aftershock (#55452)
+
 Cataclysm-DDA experimental build 2022-02-17-0641 (97018ef)
 * No survivor belts for cunning ferals (#55438)
 * Fix EOC temperature assignment not taking effect (#55435)
@@ -123,6 +126,3 @@ Cataclysm-DDA experimental build 2022-02-12-0923 (fbd5ba7)
 * Simplify plate armor names (#55264)
 * Increased width of 'List Items and Monsters' menu to fit NPC attitude text (#55262)
 * Document tl;dr for running Cata clang tidy in Ubuntu and WSL (#55261)
-
-Cataclysm-DDA experimental build 2022-02-11-0611 (cc83f7a)
-* TropiCata: some minor fixes (#55260)
