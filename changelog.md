@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-18-0612 ([8ca38c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-18-0612))
+
+* Streamline pocket whitelist/blacklist creation ([#55323](https://github.com/CleverRaven/Cataclysm-DDA/pull/55323))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-18-0236 ([9370fd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-18-0236))
 
 * Fix for duplicate IDs in Aftershock ([#55452](https://github.com/CleverRaven/Cataclysm-DDA/pull/55452))
@@ -173,4 +179,3 @@
 * If blood is drawn from corpse of a monster from ZOMBIE species, convert blood to tainted blood ([#55267](https://github.com/CleverRaven/Cataclysm-DDA/pull/55267))
 * Simplify plate armor names ([#55264](https://github.com/CleverRaven/Cataclysm-DDA/pull/55264))
 * Increased width of 'List Items and Monsters' menu to fit NPC attitude text ([#55262](https://github.com/CleverRaven/Cataclysm-DDA/pull/55262))
-* Document tl;dr for running Cata clang tidy in Ubuntu and WSL ([#55261](https://github.com/CleverRaven/Cataclysm-DDA/pull/55261))
