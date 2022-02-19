@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-19-0828 ([6149a27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-19-0828))
+
+* Make strong knees cancel out bad knees ([#55496](https://github.com/CleverRaven/Cataclysm-DDA/pull/55496))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-18-0721 ([7fa132e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-18-0721))
 
 * Clarify mission description: Bring 10 plastic sheets ([#55459](https://github.com/CleverRaven/Cataclysm-DDA/pull/55459))
@@ -92,12 +98,6 @@
 #### Cataclysm-DDA experimental build 2022-02-15-0701 ([d1b3418](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-0701))
 
 * Empty Oxygen spawns no more ([#55387](https://github.com/CleverRaven/Cataclysm-DDA/pull/55387))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-14-1820 ([c7ffe3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-14-1820))
-
-* Add solar panels and storage batteries to the power grid ([#55265](https://github.com/CleverRaven/Cataclysm-DDA/pull/55265))
 * Display cut down message based on TREE flag ([#55293](https://github.com/CleverRaven/Cataclysm-DDA/pull/55293))
 * Prevent clean water (0) from being placed. ([#55358](https://github.com/CleverRaven/Cataclysm-DDA/pull/55358))
 * Minor fixes to new tutorial strings ([#55310](https://github.com/CleverRaven/Cataclysm-DDA/pull/55310))
