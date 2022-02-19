@@ -1,3 +1,4 @@
+* More robust test for multi material portions ([#55461](https://github.com/CleverRaven/Cataclysm-DDA/pull/55461))
 
 ---
 
@@ -163,7 +164,6 @@
 #### Cataclysm-DDA experimental build 2022-02-12-0923 ([fbd5ba7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0923))
 
 * Crucibles can now hold liquids like buckets ([#55307](https://github.com/CleverRaven/Cataclysm-DDA/pull/55307))
-* Change the workbench to drop its item form upon deconstruction ([#55268](https://github.com/CleverRaven/Cataclysm-DDA/pull/55268))
 * Made Flakey Coverage Test Wider ([#55286](https://github.com/CleverRaven/Cataclysm-DDA/pull/55286))
 * Fix keybinding assignment in uilists (e.g., Map Notes) ([#55288](https://github.com/CleverRaven/Cataclysm-DDA/pull/55288))
 * Fix portal storm indoor smoke, reduce warning ([#55297](https://github.com/CleverRaven/Cataclysm-DDA/pull/55297))
