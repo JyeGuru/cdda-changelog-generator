@@ -182,4 +182,3 @@
 * "u_set_queue_eoc" -> "queue_eocs" ([#55302](https://github.com/CleverRaven/Cataclysm-DDA/pull/55302))
 * Fix Warmth On New Platemail ([#55269](https://github.com/CleverRaven/Cataclysm-DDA/pull/55269))
 * If blood is drawn from corpse of a monster from ZOMBIE species, convert blood to tainted blood ([#55267](https://github.com/CleverRaven/Cataclysm-DDA/pull/55267))
-* Simplify plate armor names ([#55264](https://github.com/CleverRaven/Cataclysm-DDA/pull/55264))
