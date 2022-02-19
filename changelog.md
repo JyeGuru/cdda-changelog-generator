@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-19-2313 ([27ab2a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-19-2313))
+
 * Improve dialog string variables ([#55380](https://github.com/CleverRaven/Cataclysm-DDA/pull/55380))
 * Lightening up the hard chest/arm/leg guards a bit. ([#55378](https://github.com/CleverRaven/Cataclysm-DDA/pull/55378))
 * Chainmail standardization ([#55455](https://github.com/CleverRaven/Cataclysm-DDA/pull/55455))
