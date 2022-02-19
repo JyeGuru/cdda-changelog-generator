@@ -1,3 +1,4 @@
+* Improve dialog string variables ([#55380](https://github.com/CleverRaven/Cataclysm-DDA/pull/55380))
 * Lightening up the hard chest/arm/leg guards a bit. ([#55378](https://github.com/CleverRaven/Cataclysm-DDA/pull/55378))
 * Chainmail standardization ([#55455](https://github.com/CleverRaven/Cataclysm-DDA/pull/55455))
 
@@ -184,5 +185,4 @@
 * If floor has collapsed, trigger a ledge trap on former floor tile to make creature fall down ([#55282](https://github.com/CleverRaven/Cataclysm-DDA/pull/55282))
 * Dive underwater after climbing down onto a tile with `DEEP_WATER` flag ([#55281](https://github.com/CleverRaven/Cataclysm-DDA/pull/55281))
 * Make a few clothing items power armor compatible ([#55279](https://github.com/CleverRaven/Cataclysm-DDA/pull/55279))
-* skill_rust_multiplier in mutations does something now ([#55275](https://github.com/CleverRaven/Cataclysm-DDA/pull/55275))
 * "u_set_queue_eoc" -> "queue_eocs" ([#55302](https://github.com/CleverRaven/Cataclysm-DDA/pull/55302))
