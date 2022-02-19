@@ -181,4 +181,3 @@
 * skill_rust_multiplier in mutations does something now ([#55275](https://github.com/CleverRaven/Cataclysm-DDA/pull/55275))
 * "u_set_queue_eoc" -> "queue_eocs" ([#55302](https://github.com/CleverRaven/Cataclysm-DDA/pull/55302))
 * Fix Warmth On New Platemail ([#55269](https://github.com/CleverRaven/Cataclysm-DDA/pull/55269))
-* If blood is drawn from corpse of a monster from ZOMBIE species, convert blood to tainted blood ([#55267](https://github.com/CleverRaven/Cataclysm-DDA/pull/55267))
