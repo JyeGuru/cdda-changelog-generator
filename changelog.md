@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-20-2211 ([51e44ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-2211))
+
+* Add alternative black gunpowder recipe and update original recipe ([#55486](https://github.com/CleverRaven/Cataclysm-DDA/pull/55486))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-20-1818 ([5822d67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-1818))
 
 * Polish up COMPILING-VS-VCPKG.md ([#55467](https://github.com/CleverRaven/Cataclysm-DDA/pull/55467))

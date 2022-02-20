@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-20-2211 (51e44ef)
+* Add alternative black gunpowder recipe and update original recipe (#55486)
+
 Cataclysm-DDA experimental build 2022-02-20-1818 (5822d67)
 * Polish up COMPILING-VS-VCPKG.md (#55467)
 * Force pull all translations from Transifex (#55530)
