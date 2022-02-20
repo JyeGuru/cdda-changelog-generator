@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-02-20-1818 (5822d67)
 * Polish up COMPILING-VS-VCPKG.md (#55467)
 * Force pull all translations from Transifex (#55530)
 * Create spell accuracy stat (#55502)
@@ -131,8 +133,6 @@ Cataclysm-DDA experimental build 2022-02-12-2230 (9fa6ac1)
 
 Cataclysm-DDA experimental build 2022-02-12-1812 (13a4346)
 * remove radiation from hard-coded craters too (#55317)
-
-Cataclysm-DDA experimental build 2022-02-12-0923 (fbd5ba7)
 * Crucibles can now hold liquids like buckets (#55307)
 * Fix portal storm indoor smoke, reduce warning (#55297)
 * adding SUN_GLASSES to clothing_flags_description in armor_layers.cpp (#55300)
