@@ -1,3 +1,11 @@
+* Force pull all translations from Transifex ([#55530](https://github.com/CleverRaven/Cataclysm-DDA/pull/55530))
+* Create spell accuracy stat ([#55502](https://github.com/CleverRaven/Cataclysm-DDA/pull/55502))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-20-1700 ([728eb52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-1700))
+
+* Increased the manhacks accuracy in coverage tests ([#55516](https://github.com/CleverRaven/Cataclysm-DDA/pull/55516))
 
 ---
 
@@ -201,12 +209,9 @@
 #### Cataclysm-DDA experimental build 2022-02-12-0923 ([fbd5ba7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-0923))
 
 * Crucibles can now hold liquids like buckets ([#55307](https://github.com/CleverRaven/Cataclysm-DDA/pull/55307))
-* Made Flakey Coverage Test Wider ([#55286](https://github.com/CleverRaven/Cataclysm-DDA/pull/55286))
-* Fix keybinding assignment in uilists (e.g., Map Notes) ([#55288](https://github.com/CleverRaven/Cataclysm-DDA/pull/55288))
 * Fix portal storm indoor smoke, reduce warning ([#55297](https://github.com/CleverRaven/Cataclysm-DDA/pull/55297))
 * adding SUN_GLASSES to clothing_flags_description in armor_layers.cpp ([#55300](https://github.com/CleverRaven/Cataclysm-DDA/pull/55300))
 * Nest mapgen fixes Dinomod ([#55304](https://github.com/CleverRaven/Cataclysm-DDA/pull/55304))
 * Disable the warning about mapgen in reality bubble ([#55299](https://github.com/CleverRaven/Cataclysm-DDA/pull/55299))
 * Converted mi-go portal variant of `mx_portal_in` map extra to overmap special ([#55291](https://github.com/CleverRaven/Cataclysm-DDA/pull/55291))
-* Making jeans less encumbering and motorcycle pants more accurate to their jean roots. ([#55285](https://github.com/CleverRaven/Cataclysm-DDA/pull/55285))
 * "u_set_queue_eoc" -> "queue_eocs" ([#55302](https://github.com/CleverRaven/Cataclysm-DDA/pull/55302))
