@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-20-0244 ([2250ecb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-0244))
+
+* Additional TLC Finales ([#55445](https://github.com/CleverRaven/Cataclysm-DDA/pull/55445))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-19-2313 ([27ab2a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-19-2313))
 
 * Improve dialog string variables ([#55380](https://github.com/CleverRaven/Cataclysm-DDA/pull/55380))
@@ -189,5 +195,4 @@
 * [Magiclysm] Adds rigid to thread generators ([#55284](https://github.com/CleverRaven/Cataclysm-DDA/pull/55284))
 * If floor has collapsed, trigger a ledge trap on former floor tile to make creature fall down ([#55282](https://github.com/CleverRaven/Cataclysm-DDA/pull/55282))
 * Dive underwater after climbing down onto a tile with `DEEP_WATER` flag ([#55281](https://github.com/CleverRaven/Cataclysm-DDA/pull/55281))
-* Make a few clothing items power armor compatible ([#55279](https://github.com/CleverRaven/Cataclysm-DDA/pull/55279))
 * "u_set_queue_eoc" -> "queue_eocs" ([#55302](https://github.com/CleverRaven/Cataclysm-DDA/pull/55302))
