@@ -209,5 +209,4 @@
 * Disable the warning about mapgen in reality bubble ([#55299](https://github.com/CleverRaven/Cataclysm-DDA/pull/55299))
 * Converted mi-go portal variant of `mx_portal_in` map extra to overmap special ([#55291](https://github.com/CleverRaven/Cataclysm-DDA/pull/55291))
 * Making jeans less encumbering and motorcycle pants more accurate to their jean roots. ([#55285](https://github.com/CleverRaven/Cataclysm-DDA/pull/55285))
-* [Magiclysm] Adds rigid to thread generators ([#55284](https://github.com/CleverRaven/Cataclysm-DDA/pull/55284))
 * "u_set_queue_eoc" -> "queue_eocs" ([#55302](https://github.com/CleverRaven/Cataclysm-DDA/pull/55302))
