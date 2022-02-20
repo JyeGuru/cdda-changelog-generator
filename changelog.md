@@ -1,3 +1,4 @@
+* Polish up COMPILING-VS-VCPKG.md ([#55467](https://github.com/CleverRaven/Cataclysm-DDA/pull/55467))
 * Force pull all translations from Transifex ([#55530](https://github.com/CleverRaven/Cataclysm-DDA/pull/55530))
 * Create spell accuracy stat ([#55502](https://github.com/CleverRaven/Cataclysm-DDA/pull/55502))
 
@@ -187,7 +188,6 @@
 
 * variable name typo ([#55312](https://github.com/CleverRaven/Cataclysm-DDA/pull/55312))
 * Remove CBMs from mines ([#55329](https://github.com/CleverRaven/Cataclysm-DDA/pull/55329))
-* Allow single point sling to utilize PALS/MOLLE attach system ([#55289](https://github.com/CleverRaven/Cataclysm-DDA/pull/55289))
 * Nerf bearings from smashing electric motors ([#55326](https://github.com/CleverRaven/Cataclysm-DDA/pull/55326))
 * JSONify health text widget ([#55320](https://github.com/CleverRaven/Cataclysm-DDA/pull/55320))
 * Fix crafting test ([#55324](https://github.com/CleverRaven/Cataclysm-DDA/pull/55324))
