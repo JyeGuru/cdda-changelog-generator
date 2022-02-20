@@ -1,3 +1,10 @@
+* Ignore autopickup setting when transfering liquids ([#55497](https://github.com/CleverRaven/Cataclysm-DDA/pull/55497))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-20-0604 ([edb9f92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-0604))
+
+* Fix crash when displaying weapon name ([#55500](https://github.com/CleverRaven/Cataclysm-DDA/pull/55500))
 
 ---
 
@@ -189,10 +196,8 @@
 * adding SUN_GLASSES to clothing_flags_description in armor_layers.cpp ([#55300](https://github.com/CleverRaven/Cataclysm-DDA/pull/55300))
 * Nest mapgen fixes Dinomod ([#55304](https://github.com/CleverRaven/Cataclysm-DDA/pull/55304))
 * Disable the warning about mapgen in reality bubble ([#55299](https://github.com/CleverRaven/Cataclysm-DDA/pull/55299))
-* Let standing lamps be constructed using lightstrips ([#55280](https://github.com/CleverRaven/Cataclysm-DDA/pull/55280))
 * Converted mi-go portal variant of `mx_portal_in` map extra to overmap special ([#55291](https://github.com/CleverRaven/Cataclysm-DDA/pull/55291))
 * Making jeans less encumbering and motorcycle pants more accurate to their jean roots. ([#55285](https://github.com/CleverRaven/Cataclysm-DDA/pull/55285))
 * [Magiclysm] Adds rigid to thread generators ([#55284](https://github.com/CleverRaven/Cataclysm-DDA/pull/55284))
 * If floor has collapsed, trigger a ledge trap on former floor tile to make creature fall down ([#55282](https://github.com/CleverRaven/Cataclysm-DDA/pull/55282))
-* Dive underwater after climbing down onto a tile with `DEEP_WATER` flag ([#55281](https://github.com/CleverRaven/Cataclysm-DDA/pull/55281))
 * "u_set_queue_eoc" -> "queue_eocs" ([#55302](https://github.com/CleverRaven/Cataclysm-DDA/pull/55302))
