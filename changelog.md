@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-20-0704 ([f889ed9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-0704))
+
 * Ignore autopickup setting when transfering liquids ([#55497](https://github.com/CleverRaven/Cataclysm-DDA/pull/55497))
 
 ---
