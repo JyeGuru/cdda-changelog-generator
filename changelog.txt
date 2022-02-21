@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-21-1404 (6c74cc8)
+* Add leather jacket uncraft recipe (#55560)
+
 Cataclysm-DDA experimental build 2022-02-21-0716 (158205f)
 * materials defense values can be floats (#55529)
 * Renamed allow_melee martial arts attribute (#55515)
@@ -61,9 +64,6 @@ Cataclysm-DDA experimental build 2022-02-19-0828 (6149a27)
 
 Cataclysm-DDA experimental build 2022-02-18-0721 (7fa132e)
 * Clarify mission description: Bring 10 plastic sheets (#55459)
-
-Cataclysm-DDA experimental build 2022-02-18-0612 (8ca38c1)
-* Streamline pocket whitelist/blacklist creation (#55323)
 
 Cataclysm-DDA experimental build 2022-02-18-0236 (9370fd2)
 * Fix for duplicate IDs in Aftershock (#55452)

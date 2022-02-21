@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-21-1404 ([6c74cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1404))
+
+* Add leather jacket uncraft recipe ([#55560](https://github.com/CleverRaven/Cataclysm-DDA/pull/55560))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-21-0716 ([158205f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-0716))
 
 * materials defense values can be floats ([#55529](https://github.com/CleverRaven/Cataclysm-DDA/pull/55529))
@@ -103,12 +109,6 @@
 #### Cataclysm-DDA experimental build 2022-02-18-0721 ([7fa132e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-18-0721))
 
 * Clarify mission description: Bring 10 plastic sheets ([#55459](https://github.com/CleverRaven/Cataclysm-DDA/pull/55459))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-18-0612 ([8ca38c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-18-0612))
-
-* Streamline pocket whitelist/blacklist creation ([#55323](https://github.com/CleverRaven/Cataclysm-DDA/pull/55323))
 
 ---
 
