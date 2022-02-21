@@ -1,3 +1,27 @@
+* materials defense values can be floats ([#55529](https://github.com/CleverRaven/Cataclysm-DDA/pull/55529))
+* Renamed allow_melee martial arts attribute ([#55515](https://github.com/CleverRaven/Cataclysm-DDA/pull/55515))
+* Migrate map::abs_sub to typesafe point ([#55510](https://github.com/CleverRaven/Cataclysm-DDA/pull/55510))
+* Add debug mana mutation to magiclysm ([#55473](https://github.com/CleverRaven/Cataclysm-DDA/pull/55473))
+* Fixed camp trapping ([#55478](https://github.com/CleverRaven/Cataclysm-DDA/pull/55478))
+* Allow Letter Opener to be disassembled ([#55494](https://github.com/CleverRaven/Cataclysm-DDA/pull/55494))
+* Player is immune to deafing effect if he is already deaf ([#55396](https://github.com/CleverRaven/Cataclysm-DDA/pull/55396))
+* Don't increase broken bones stat when bones are already broken ([#55458](https://github.com/CleverRaven/Cataclysm-DDA/pull/55458))
+* Clarify the "In a Pickle" mission description ([#55464](https://github.com/CleverRaven/Cataclysm-DDA/pull/55464))
+* Dana Nunez: Fix unreachable dialogue ([#55465](https://github.com/CleverRaven/Cataclysm-DDA/pull/55465))
+* Fix reported version of newer Windows 10 releases ([#55506](https://github.com/CleverRaven/Cataclysm-DDA/pull/55506))
+* Missing metal detail in XS chainmail arm plural names. ([#55517](https://github.com/CleverRaven/Cataclysm-DDA/pull/55517))
+* strait -> straight ([#55537](https://github.com/CleverRaven/Cataclysm-DDA/pull/55537))
+* [AFS] fix some typos ([#55539](https://github.com/CleverRaven/Cataclysm-DDA/pull/55539))
+* chestrig → chest rig ([#55542](https://github.com/CleverRaven/Cataclysm-DDA/pull/55542))
+* Add dialog functions for portal storm doors opening/closing and being taken away briefly. ([#55538](https://github.com/CleverRaven/Cataclysm-DDA/pull/55538))
+* add 1st_aid_box to neodays ([#55547](https://github.com/CleverRaven/Cataclysm-DDA/pull/55547))
+* hosptial -> hospital ([#55553](https://github.com/CleverRaven/Cataclysm-DDA/pull/55553))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-21-0612 ([de5b5f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-0612))
+
+* fix sabatons having two left feet ([#55545](https://github.com/CleverRaven/Cataclysm-DDA/pull/55545))
 
 ---
 
@@ -127,9 +151,6 @@
 #### Cataclysm-DDA experimental build 2022-02-17-0246 ([8447514](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-17-0246))
 
 * Fixes to enchantment armor with mutations ([#55328](https://github.com/CleverRaven/Cataclysm-DDA/pull/55328))
-* Fix amalgamation of materials for complex armors ([#55315](https://github.com/CleverRaven/Cataclysm-DDA/pull/55315))
-* Allow ugliness to be defined per bodypart, allow covering up those ugly bits ([#55295](https://github.com/CleverRaven/Cataclysm-DDA/pull/55295))
-* Updated Survivor Harness And Similar Other Torso Storage ([#55294](https://github.com/CleverRaven/Cataclysm-DDA/pull/55294))
 
 ---
 
@@ -162,20 +183,14 @@
 #### Cataclysm-DDA experimental build 2022-02-15-0701 ([d1b3418](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-0701))
 
 * Empty Oxygen spawns no more ([#55387](https://github.com/CleverRaven/Cataclysm-DDA/pull/55387))
-* Display cut down message based on TREE flag ([#55293](https://github.com/CleverRaven/Cataclysm-DDA/pull/55293))
 * Prevent clean water (0) from being placed. ([#55358](https://github.com/CleverRaven/Cataclysm-DDA/pull/55358))
-* Minor fixes to new tutorial strings ([#55310](https://github.com/CleverRaven/Cataclysm-DDA/pull/55310))
-* added missing verb to Tiger Kung Fu grab break text  ([#55311](https://github.com/CleverRaven/Cataclysm-DDA/pull/55311))
-* leather touring suit → track touring suit ([#55319](https://github.com/CleverRaven/Cataclysm-DDA/pull/55319))
 * Add DIY Compendium to libraries ([#55332](https://github.com/CleverRaven/Cataclysm-DDA/pull/55332))
 * Add space to Goals in the sidebar to align with other strings ([#55351](https://github.com/CleverRaven/Cataclysm-DDA/pull/55351))
 * Set e-money barter value to 0 ([#55349](https://github.com/CleverRaven/Cataclysm-DDA/pull/55349))
 * Remove unnecessary gunmod check ([#55372](https://github.com/CleverRaven/Cataclysm-DDA/pull/55372))
 * Teamster: fix the title of a mission ([#55374](https://github.com/CleverRaven/Cataclysm-DDA/pull/55374))
 * Lab nested mapgen fixes ([#55366](https://github.com/CleverRaven/Cataclysm-DDA/pull/55366))
-* Made active gas pump smashable, like its inactive version ([#55306](https://github.com/CleverRaven/Cataclysm-DDA/pull/55306))
 * Permitted to analyze tainted blood on centrifuge ([#55365](https://github.com/CleverRaven/Cataclysm-DDA/pull/55365))
-* Increased computer level required to craft electrohack from 1 to 5 ([#55309](https://github.com/CleverRaven/Cataclysm-DDA/pull/55309))
 * One can toggle visible weather overlay on map only if player character is outside ([#55338](https://github.com/CleverRaven/Cataclysm-DDA/pull/55338))
 * XL Survivor Hood now copies from and is proportional to Survivor Hood ([#55354](https://github.com/CleverRaven/Cataclysm-DDA/pull/55354))
 
@@ -198,26 +213,7 @@
 #### Cataclysm-DDA experimental build 2022-02-13-2132 ([001d98b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-13-2132))
 
 * Nested mapgen fix mi-go ([#55343](https://github.com/CleverRaven/Cataclysm-DDA/pull/55343))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-13-0707 ([919d0fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-13-0707))
-
-* variable name typo ([#55312](https://github.com/CleverRaven/Cataclysm-DDA/pull/55312))
 * Remove CBMs from mines ([#55329](https://github.com/CleverRaven/Cataclysm-DDA/pull/55329))
 * Nerf bearings from smashing electric motors ([#55326](https://github.com/CleverRaven/Cataclysm-DDA/pull/55326))
-* JSONify health text widget ([#55320](https://github.com/CleverRaven/Cataclysm-DDA/pull/55320))
 * Fix crafting test ([#55324](https://github.com/CleverRaven/Cataclysm-DDA/pull/55324))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-12-2230 ([9fa6ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-2230))
-
 * Zweihander fix ([#55321](https://github.com/CleverRaven/Cataclysm-DDA/pull/55321))
-* remove radiation from hard-coded craters too ([#55317](https://github.com/CleverRaven/Cataclysm-DDA/pull/55317))
-* Crucibles can now hold liquids like buckets ([#55307](https://github.com/CleverRaven/Cataclysm-DDA/pull/55307))
-* Fix portal storm indoor smoke, reduce warning ([#55297](https://github.com/CleverRaven/Cataclysm-DDA/pull/55297))
-* adding SUN_GLASSES to clothing_flags_description in armor_layers.cpp ([#55300](https://github.com/CleverRaven/Cataclysm-DDA/pull/55300))
-* Nest mapgen fixes Dinomod ([#55304](https://github.com/CleverRaven/Cataclysm-DDA/pull/55304))
-* Disable the warning about mapgen in reality bubble ([#55299](https://github.com/CleverRaven/Cataclysm-DDA/pull/55299))
-* "u_set_queue_eoc" -> "queue_eocs" ([#55302](https://github.com/CleverRaven/Cataclysm-DDA/pull/55302))
