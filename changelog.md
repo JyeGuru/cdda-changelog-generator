@@ -1,3 +1,11 @@
+* Misc. fixes for vehicle part variants ([#55543](https://github.com/CleverRaven/Cataclysm-DDA/pull/55543))
+* Misc overmap_terrain edits ([#55485](https://github.com/CleverRaven/Cataclysm-DDA/pull/55485))
+* Remove climate control kit from nomad harness ([#55565](https://github.com/CleverRaven/Cataclysm-DDA/pull/55565))
+* TropiCata: Plants vs Zombies  ([#55476](https://github.com/CleverRaven/Cataclysm-DDA/pull/55476))
+* Adds new fine grinding quality to mortar and pestle + recipe updates ([#55518](https://github.com/CleverRaven/Cataclysm-DDA/pull/55518))
+* Added holster info to pockets ([#55548](https://github.com/CleverRaven/Cataclysm-DDA/pull/55548))
+* Prevent selected NPC jumping to the top in training session menus ([#55432](https://github.com/CleverRaven/Cataclysm-DDA/pull/55432))
+* Give firefigher and police belts defined thickness ([#55557](https://github.com/CleverRaven/Cataclysm-DDA/pull/55557))
 * Removed the Talon From Collapsed Tower ([#55561](https://github.com/CleverRaven/Cataclysm-DDA/pull/55561))
 * Waterproof smartphone case ([#55558](https://github.com/CleverRaven/Cataclysm-DDA/pull/55558))
 * Hide toggle minimap hint if no keys are bound to it ([#55562](https://github.com/CleverRaven/Cataclysm-DDA/pull/55562))
@@ -163,8 +171,6 @@
 * JSONify fatigue widget ([#55364](https://github.com/CleverRaven/Cataclysm-DDA/pull/55364))
 * JSONify body temp widgets ([#55361](https://github.com/CleverRaven/Cataclysm-DDA/pull/55361))
 * TropiCata: Cigarras and Roly-Polies ([#55360](https://github.com/CleverRaven/Cataclysm-DDA/pull/55360))
-* Improve dialog functions handling of min max. ([#55352](https://github.com/CleverRaven/Cataclysm-DDA/pull/55352))
-* Allow gendered descriptions for professions outside of translations ([#55345](https://github.com/CleverRaven/Cataclysm-DDA/pull/55345))
 
 ---
 
@@ -177,7 +183,6 @@
 #### Cataclysm-DDA experimental build 2022-02-15-1047 ([973d737](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-1047))
 
 * added in ear lowprofile hearing protection ([#55386](https://github.com/CleverRaven/Cataclysm-DDA/pull/55386))
-* Add Tong Length and Byproducts ([#55347](https://github.com/CleverRaven/Cataclysm-DDA/pull/55347))
 * Armored dummies can withstand what an unarmored can for practice ([#55363](https://github.com/CleverRaven/Cataclysm-DDA/pull/55363))
 * Typo fix ([#55384](https://github.com/CleverRaven/Cataclysm-DDA/pull/55384))
 * Fix pressing letter keys in pocket autopickup settings ([#55390](https://github.com/CleverRaven/Cataclysm-DDA/pull/55390))
@@ -190,14 +195,9 @@
 
 * Empty Oxygen spawns no more ([#55387](https://github.com/CleverRaven/Cataclysm-DDA/pull/55387))
 * Prevent clean water (0) from being placed. ([#55358](https://github.com/CleverRaven/Cataclysm-DDA/pull/55358))
-* Add space to Goals in the sidebar to align with other strings ([#55351](https://github.com/CleverRaven/Cataclysm-DDA/pull/55351))
-* Set e-money barter value to 0 ([#55349](https://github.com/CleverRaven/Cataclysm-DDA/pull/55349))
 * Remove unnecessary gunmod check ([#55372](https://github.com/CleverRaven/Cataclysm-DDA/pull/55372))
 * Teamster: fix the title of a mission ([#55374](https://github.com/CleverRaven/Cataclysm-DDA/pull/55374))
 * Lab nested mapgen fixes ([#55366](https://github.com/CleverRaven/Cataclysm-DDA/pull/55366))
 * Permitted to analyze tainted blood on centrifuge ([#55365](https://github.com/CleverRaven/Cataclysm-DDA/pull/55365))
-* XL Survivor Hood now copies from and is proportional to Survivor Hood ([#55354](https://github.com/CleverRaven/Cataclysm-DDA/pull/55354))
-* Follow HTTP 302 redirection in installing Transifex CLI for pull-translations.yml ([#55342](https://github.com/CleverRaven/Cataclysm-DDA/pull/55342))
 * Typos bad ([#55362](https://github.com/CleverRaven/Cataclysm-DDA/pull/55362))
 * CODEOWNERS: Fix typo and notify dseguin of changes to widgets ([#55359](https://github.com/CleverRaven/Cataclysm-DDA/pull/55359))
-* Nested mapgen fix mi-go ([#55343](https://github.com/CleverRaven/Cataclysm-DDA/pull/55343))
