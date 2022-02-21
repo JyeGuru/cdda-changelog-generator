@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-21-1607 ([d13be28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1607))
+
+* Remove vitamin A and B for good ([#55466](https://github.com/CleverRaven/Cataclysm-DDA/pull/55466))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-21-1404 ([6c74cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1404))
 
 * Add leather jacket uncraft recipe ([#55560](https://github.com/CleverRaven/Cataclysm-DDA/pull/55560))
@@ -212,12 +218,6 @@
 
 * Typos bad ([#55362](https://github.com/CleverRaven/Cataclysm-DDA/pull/55362))
 * CODEOWNERS: Fix typo and notify dseguin of changes to widgets ([#55359](https://github.com/CleverRaven/Cataclysm-DDA/pull/55359))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-13-2132 ([001d98b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-13-2132))
-
 * Nested mapgen fix mi-go ([#55343](https://github.com/CleverRaven/Cataclysm-DDA/pull/55343))
 * Remove CBMs from mines ([#55329](https://github.com/CleverRaven/Cataclysm-DDA/pull/55329))
 * Nerf bearings from smashing electric motors ([#55326](https://github.com/CleverRaven/Cataclysm-DDA/pull/55326))
-* Fix crafting test ([#55324](https://github.com/CleverRaven/Cataclysm-DDA/pull/55324))
