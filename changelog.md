@@ -199,7 +199,6 @@
 #### Cataclysm-DDA experimental build 2022-02-15-0701 ([d1b3418](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-0701))
 
 * Empty Oxygen spawns no more ([#55387](https://github.com/CleverRaven/Cataclysm-DDA/pull/55387))
-* Prevent clean water (0) from being placed. ([#55358](https://github.com/CleverRaven/Cataclysm-DDA/pull/55358))
 * Remove unnecessary gunmod check ([#55372](https://github.com/CleverRaven/Cataclysm-DDA/pull/55372))
 * Teamster: fix the title of a mission ([#55374](https://github.com/CleverRaven/Cataclysm-DDA/pull/55374))
 * Lab nested mapgen fixes ([#55366](https://github.com/CleverRaven/Cataclysm-DDA/pull/55366))
