@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-21-0405 (d055515)
+* enshrine test clothing for encumbrance test (#55457)
+
 Cataclysm-DDA experimental build 2022-02-20-2211 (51e44ef)
 * Add alternative black gunpowder recipe and update original recipe (#55486)
 
@@ -133,13 +136,10 @@ Cataclysm-DDA experimental build 2022-02-13-0707 (919d0fc)
 
 Cataclysm-DDA experimental build 2022-02-12-2230 (9fa6ac1)
 * Zweihander fix (#55321)
-
-Cataclysm-DDA experimental build 2022-02-12-1812 (13a4346)
 * remove radiation from hard-coded craters too (#55317)
 * Crucibles can now hold liquids like buckets (#55307)
 * Fix portal storm indoor smoke, reduce warning (#55297)
 * adding SUN_GLASSES to clothing_flags_description in armor_layers.cpp (#55300)
 * Nest mapgen fixes Dinomod (#55304)
 * Disable the warning about mapgen in reality bubble (#55299)
-* Converted mi-go portal variant of `mx_portal_in` map extra to overmap special (#55291)
 * "u_set_queue_eoc" -> "queue_eocs" (#55302)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-21-0405 ([d055515](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-0405))
+
+* enshrine test clothing for encumbrance test ([#55457](https://github.com/CleverRaven/Cataclysm-DDA/pull/55457))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-20-2211 ([51e44ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-2211))
 
 * Add alternative black gunpowder recipe and update original recipe ([#55486](https://github.com/CleverRaven/Cataclysm-DDA/pull/55486))
@@ -208,16 +214,10 @@
 #### Cataclysm-DDA experimental build 2022-02-12-2230 ([9fa6ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-2230))
 
 * Zweihander fix ([#55321](https://github.com/CleverRaven/Cataclysm-DDA/pull/55321))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-12-1812 ([13a4346](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-12-1812))
-
 * remove radiation from hard-coded craters too ([#55317](https://github.com/CleverRaven/Cataclysm-DDA/pull/55317))
 * Crucibles can now hold liquids like buckets ([#55307](https://github.com/CleverRaven/Cataclysm-DDA/pull/55307))
 * Fix portal storm indoor smoke, reduce warning ([#55297](https://github.com/CleverRaven/Cataclysm-DDA/pull/55297))
 * adding SUN_GLASSES to clothing_flags_description in armor_layers.cpp ([#55300](https://github.com/CleverRaven/Cataclysm-DDA/pull/55300))
 * Nest mapgen fixes Dinomod ([#55304](https://github.com/CleverRaven/Cataclysm-DDA/pull/55304))
 * Disable the warning about mapgen in reality bubble ([#55299](https://github.com/CleverRaven/Cataclysm-DDA/pull/55299))
-* Converted mi-go portal variant of `mx_portal_in` map extra to overmap special ([#55291](https://github.com/CleverRaven/Cataclysm-DDA/pull/55291))
 * "u_set_queue_eoc" -> "queue_eocs" ([#55302](https://github.com/CleverRaven/Cataclysm-DDA/pull/55302))
