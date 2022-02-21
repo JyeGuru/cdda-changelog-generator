@@ -1,3 +1,19 @@
+* Removed the Talon From Collapsed Tower ([#55561](https://github.com/CleverRaven/Cataclysm-DDA/pull/55561))
+* Waterproof smartphone case ([#55558](https://github.com/CleverRaven/Cataclysm-DDA/pull/55558))
+* Hide toggle minimap hint if no keys are bound to it ([#55562](https://github.com/CleverRaven/Cataclysm-DDA/pull/55562))
+* Re-add lost meats to meat_nofish recipes ([#55559](https://github.com/CleverRaven/Cataclysm-DDA/pull/55559))
+* Fix repair difficulty for combat blouse and shirt ([#55552](https://github.com/CleverRaven/Cataclysm-DDA/pull/55552))
+* Removed extra use guns space ([#55556](https://github.com/CleverRaven/Cataclysm-DDA/pull/55556))
+* Prevent error when trying to pick up items and wielding the container ([#55477](https://github.com/CleverRaven/Cataclysm-DDA/pull/55477))
+* Add limb score component to vaulting chainlink fences (and similar obstacles) ([#55401](https://github.com/CleverRaven/Cataclysm-DDA/pull/55401))
+* ammount -> amount ([#55551](https://github.com/CleverRaven/Cataclysm-DDA/pull/55551))
+* Check for duplicate (same id) JSON entries within the same mod for objects loaded via generic_factory. ([#55495](https://github.com/CleverRaven/Cataclysm-DDA/pull/55495))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-21-1902 ([6ca3ef2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1902))
+
+* Add a dive shop location ([#55535](https://github.com/CleverRaven/Cataclysm-DDA/pull/55535))
 
 ---
 
@@ -149,19 +165,6 @@
 * TropiCata: Cigarras and Roly-Polies ([#55360](https://github.com/CleverRaven/Cataclysm-DDA/pull/55360))
 * Improve dialog functions handling of min max. ([#55352](https://github.com/CleverRaven/Cataclysm-DDA/pull/55352))
 * Allow gendered descriptions for professions outside of translations ([#55345](https://github.com/CleverRaven/Cataclysm-DDA/pull/55345))
-* Add never mind option to npc aiming rules ([#55333](https://github.com/CleverRaven/Cataclysm-DDA/pull/55333))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-17-0537 ([1ed949a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-17-0537))
-
-* Show only time or failure rate for proficiency if both don't apply ([#55330](https://github.com/CleverRaven/Cataclysm-DDA/pull/55330))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-17-0246 ([8447514](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-17-0246))
-
-* Fixes to enchantment armor with mutations ([#55328](https://github.com/CleverRaven/Cataclysm-DDA/pull/55328))
 
 ---
 
@@ -174,15 +177,7 @@
 #### Cataclysm-DDA experimental build 2022-02-15-1047 ([973d737](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-1047))
 
 * added in ear lowprofile hearing protection ([#55386](https://github.com/CleverRaven/Cataclysm-DDA/pull/55386))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-15-0804 ([735e42d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-0804))
-
-* Full auto conversion for Glock pistols ([#55334](https://github.com/CleverRaven/Cataclysm-DDA/pull/55334))
-* Fix my own blunder in resolving #55272 ([#55325](https://github.com/CleverRaven/Cataclysm-DDA/pull/55325))
 * Add Tong Length and Byproducts ([#55347](https://github.com/CleverRaven/Cataclysm-DDA/pull/55347))
-* Recenter tiled overmap and fix mouse clicking within it ([#55341](https://github.com/CleverRaven/Cataclysm-DDA/pull/55341))
 * Armored dummies can withstand what an unarmored can for practice ([#55363](https://github.com/CleverRaven/Cataclysm-DDA/pull/55363))
 * Typo fix ([#55384](https://github.com/CleverRaven/Cataclysm-DDA/pull/55384))
 * Fix pressing letter keys in pocket autopickup settings ([#55390](https://github.com/CleverRaven/Cataclysm-DDA/pull/55390))
@@ -195,29 +190,14 @@
 
 * Empty Oxygen spawns no more ([#55387](https://github.com/CleverRaven/Cataclysm-DDA/pull/55387))
 * Prevent clean water (0) from being placed. ([#55358](https://github.com/CleverRaven/Cataclysm-DDA/pull/55358))
-* Add DIY Compendium to libraries ([#55332](https://github.com/CleverRaven/Cataclysm-DDA/pull/55332))
 * Add space to Goals in the sidebar to align with other strings ([#55351](https://github.com/CleverRaven/Cataclysm-DDA/pull/55351))
 * Set e-money barter value to 0 ([#55349](https://github.com/CleverRaven/Cataclysm-DDA/pull/55349))
 * Remove unnecessary gunmod check ([#55372](https://github.com/CleverRaven/Cataclysm-DDA/pull/55372))
 * Teamster: fix the title of a mission ([#55374](https://github.com/CleverRaven/Cataclysm-DDA/pull/55374))
 * Lab nested mapgen fixes ([#55366](https://github.com/CleverRaven/Cataclysm-DDA/pull/55366))
 * Permitted to analyze tainted blood on centrifuge ([#55365](https://github.com/CleverRaven/Cataclysm-DDA/pull/55365))
-* One can toggle visible weather overlay on map only if player character is outside ([#55338](https://github.com/CleverRaven/Cataclysm-DDA/pull/55338))
 * XL Survivor Hood now copies from and is proportional to Survivor Hood ([#55354](https://github.com/CleverRaven/Cataclysm-DDA/pull/55354))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-14-1642 ([7fbca7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-14-1642))
-
-* add ALLOW_TERRAIN_UNDER_OTHER_DATA to 4x4 junk ([#55339](https://github.com/CleverRaven/Cataclysm-DDA/pull/55339))
 * Follow HTTP 302 redirection in installing Transifex CLI for pull-translations.yml ([#55342](https://github.com/CleverRaven/Cataclysm-DDA/pull/55342))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-14-0658 ([a8f310d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-14-0658))
-
 * Typos bad ([#55362](https://github.com/CleverRaven/Cataclysm-DDA/pull/55362))
 * CODEOWNERS: Fix typo and notify dseguin of changes to widgets ([#55359](https://github.com/CleverRaven/Cataclysm-DDA/pull/55359))
 * Nested mapgen fix mi-go ([#55343](https://github.com/CleverRaven/Cataclysm-DDA/pull/55343))
-* Remove CBMs from mines ([#55329](https://github.com/CleverRaven/Cataclysm-DDA/pull/55329))
-* Nerf bearings from smashing electric motors ([#55326](https://github.com/CleverRaven/Cataclysm-DDA/pull/55326))
