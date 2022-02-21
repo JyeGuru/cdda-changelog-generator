@@ -221,4 +221,3 @@
 * Remove CBMs from mines ([#55329](https://github.com/CleverRaven/Cataclysm-DDA/pull/55329))
 * Nerf bearings from smashing electric motors ([#55326](https://github.com/CleverRaven/Cataclysm-DDA/pull/55326))
 * Fix crafting test ([#55324](https://github.com/CleverRaven/Cataclysm-DDA/pull/55324))
-* Zweihander fix ([#55321](https://github.com/CleverRaven/Cataclysm-DDA/pull/55321))
