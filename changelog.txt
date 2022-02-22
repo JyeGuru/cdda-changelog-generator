@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-22-1014 (30df995)
+* Add filthy flag to CBMs from zomborgs (#55576)
+
 Cataclysm-DDA experimental build 2022-02-21-2034 (a139c2e)
 * Misc. fixes for vehicle part variants (#55543)
 * Misc overmap_terrain edits (#55485)
@@ -130,7 +133,6 @@ Cataclysm-DDA experimental build 2022-02-15-1047 (973d737)
 
 Cataclysm-DDA experimental build 2022-02-15-0701 (d1b3418)
 * Empty Oxygen spawns no more (#55387)
-* Prevent clean water (0) from being placed. (#55358)
 * Remove unnecessary gunmod check (#55372)
 * Teamster: fix the title of a mission (#55374)
 * Lab nested mapgen fixes (#55366)
