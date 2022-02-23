@@ -187,7 +187,6 @@
 * Fix zone constructions that allow keeping items ([#55367](https://github.com/CleverRaven/Cataclysm-DDA/pull/55367))
 * JSONify fatigue widget ([#55364](https://github.com/CleverRaven/Cataclysm-DDA/pull/55364))
 * JSONify body temp widgets ([#55361](https://github.com/CleverRaven/Cataclysm-DDA/pull/55361))
-* TropiCata: Cigarras and Roly-Polies ([#55360](https://github.com/CleverRaven/Cataclysm-DDA/pull/55360))
 
 ---
 
