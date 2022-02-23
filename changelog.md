@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-23-0614 ([8f8e2b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-23-0614))
+
+* Give military flight suit repairs like value ([#55599](https://github.com/CleverRaven/Cataclysm-DDA/pull/55599))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-22-1014 ([30df995](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-22-1014))
 
 * Add filthy flag to CBMs from zomborgs ([#55576](https://github.com/CleverRaven/Cataclysm-DDA/pull/55576))
@@ -199,15 +205,9 @@
 * Fix pressing letter keys in pocket autopickup settings ([#55390](https://github.com/CleverRaven/Cataclysm-DDA/pull/55390))
 * Active Railgun bionic will now actually consume bionic power per throw ([#55382](https://github.com/CleverRaven/Cataclysm-DDA/pull/55382))
 * frozen lemonade is no longer considered dairy ([#55383](https://github.com/CleverRaven/Cataclysm-DDA/pull/55383))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-15-0701 ([d1b3418](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-0701))
-
 * Empty Oxygen spawns no more ([#55387](https://github.com/CleverRaven/Cataclysm-DDA/pull/55387))
 * Remove unnecessary gunmod check ([#55372](https://github.com/CleverRaven/Cataclysm-DDA/pull/55372))
 * Teamster: fix the title of a mission ([#55374](https://github.com/CleverRaven/Cataclysm-DDA/pull/55374))
 * Lab nested mapgen fixes ([#55366](https://github.com/CleverRaven/Cataclysm-DDA/pull/55366))
 * Permitted to analyze tainted blood on centrifuge ([#55365](https://github.com/CleverRaven/Cataclysm-DDA/pull/55365))
 * Typos bad ([#55362](https://github.com/CleverRaven/Cataclysm-DDA/pull/55362))
-* CODEOWNERS: Fix typo and notify dseguin of changes to widgets ([#55359](https://github.com/CleverRaven/Cataclysm-DDA/pull/55359))
