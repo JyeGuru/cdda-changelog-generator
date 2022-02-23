@@ -120,7 +120,6 @@ Cataclysm-DDA experimental build 2022-02-17-0641 (97018ef)
 * Display current firemode on sidebar (#55377)
 * Fix zone constructions that allow keeping items (#55367)
 * JSONify fatigue widget (#55364)
-* JSONify body temp widgets (#55361)
 
 Cataclysm-DDA experimental build 2022-02-16-0646 (cc10e0c)
 * Mitten Gauntlets as unarmed weapon (#55413)
