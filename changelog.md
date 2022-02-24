@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-24-0712 ([43cc367](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-24-0712))
+
+* Make furniture fridge easy to turn into fridge item ([#55615](https://github.com/CleverRaven/Cataclysm-DDA/pull/55615))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-23-0614 ([8f8e2b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-23-0614))
 
 * Give military flight suit repairs like value ([#55599](https://github.com/CleverRaven/Cataclysm-DDA/pull/55599))
@@ -208,4 +214,3 @@
 * Teamster: fix the title of a mission ([#55374](https://github.com/CleverRaven/Cataclysm-DDA/pull/55374))
 * Lab nested mapgen fixes ([#55366](https://github.com/CleverRaven/Cataclysm-DDA/pull/55366))
 * Permitted to analyze tainted blood on centrifuge ([#55365](https://github.com/CleverRaven/Cataclysm-DDA/pull/55365))
-* Typos bad ([#55362](https://github.com/CleverRaven/Cataclysm-DDA/pull/55362))

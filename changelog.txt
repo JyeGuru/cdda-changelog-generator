@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-24-0712 (43cc367)
+* Make furniture fridge easy to turn into fridge item (#55615)
+
 Cataclysm-DDA experimental build 2022-02-23-0614 (8f8e2b4)
 * Give military flight suit repairs like value (#55599)
 
@@ -136,4 +139,3 @@ Cataclysm-DDA experimental build 2022-02-15-1047 (973d737)
 * Teamster: fix the title of a mission (#55374)
 * Lab nested mapgen fixes (#55366)
 * Permitted to analyze tainted blood on centrifuge (#55365)
-* Typos bad (#55362)
