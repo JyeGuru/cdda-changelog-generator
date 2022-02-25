@@ -1,3 +1,4 @@
+* Create NO_WEAR_EFFECT flag for jewelry's 'won't provide any effects' (#55550)
 * Make multitool able to reveal wall wiring (#55522)
 * Sub All The Limbs (#55498)
 * Remove the archery skill requirement to learn how to craft makeshift wooden arrows (#55493)
@@ -94,9 +95,6 @@ Cataclysm-DDA experimental build 2022-02-20-0604 (edb9f92)
 
 Cataclysm-DDA experimental build 2022-02-20-0244 (2250ecb)
 * Additional TLC Finales (#55445)
-
-Cataclysm-DDA experimental build 2022-02-19-2313 (27ab2a5)
-* Improve dialog string variables (#55380)
 * Chainmail standardization (#55455)
 
 Cataclysm-DDA experimental build 2022-02-19-2135 (90b1c80)

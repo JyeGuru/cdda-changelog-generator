@@ -1,3 +1,4 @@
+* Create NO_WEAR_EFFECT flag for jewelry's 'won't provide any effects' ([#55550](https://github.com/CleverRaven/Cataclysm-DDA/pull/55550))
 * Make multitool able to reveal wall wiring ([#55522](https://github.com/CleverRaven/Cataclysm-DDA/pull/55522))
 * Sub All The Limbs ([#55498](https://github.com/CleverRaven/Cataclysm-DDA/pull/55498))
 * Remove the archery skill requirement to learn how to craft makeshift wooden arrows ([#55493](https://github.com/CleverRaven/Cataclysm-DDA/pull/55493))
@@ -145,12 +146,6 @@
 #### Cataclysm-DDA experimental build 2022-02-20-0244 ([2250ecb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-0244))
 
 * Additional TLC Finales ([#55445](https://github.com/CleverRaven/Cataclysm-DDA/pull/55445))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-19-2313 ([27ab2a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-19-2313))
-
-* Improve dialog string variables ([#55380](https://github.com/CleverRaven/Cataclysm-DDA/pull/55380))
 * Chainmail standardization ([#55455](https://github.com/CleverRaven/Cataclysm-DDA/pull/55455))
 
 ---
