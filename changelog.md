@@ -1,3 +1,23 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-25-0713 ([05bed4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-0713))
+
+* Remove ability of spike pit to spawn on hostile LMOE entry stairs ([#55586](https://github.com/CleverRaven/Cataclysm-DDA/pull/55586))
+* Have single malt whiskey spawn in glass bottles ([#55585](https://github.com/CleverRaven/Cataclysm-DDA/pull/55585))
+* Keep pickle and sauerkraut charges consistent with the jar they are in ([#55584](https://github.com/CleverRaven/Cataclysm-DDA/pull/55584))
+* Add option to take down appliances ([#55583](https://github.com/CleverRaven/Cataclysm-DDA/pull/55583))
+* Limbs, gloves, and boots cleanup ([#55582](https://github.com/CleverRaven/Cataclysm-DDA/pull/55582))
+* Make ballistic plates less fragile ([#55581](https://github.com/CleverRaven/Cataclysm-DDA/pull/55581))
+* Fix crash in debug menu when selecting only active effects ([#55580](https://github.com/CleverRaven/Cataclysm-DDA/pull/55580))
+* Limbs: Convert limb types to a weighted list ([#55579](https://github.com/CleverRaven/Cataclysm-DDA/pull/55579))
+* Made Hub HWP mag sizes more realistic ([#55578](https://github.com/CleverRaven/Cataclysm-DDA/pull/55578))
+* remove redundant white space in firing mode strings ([#55577](https://github.com/CleverRaven/Cataclysm-DDA/pull/55577))
+* Improve astyle-check message ([#55574](https://github.com/CleverRaven/Cataclysm-DDA/pull/55574))
+* Add reinforced/upgraded solar panels as appliances ([#55573](https://github.com/CleverRaven/Cataclysm-DDA/pull/55573))
+* Add abandoned house palette, add new variable parameters for houses ([#55570](https://github.com/CleverRaven/Cataclysm-DDA/pull/55570))
+* Build fire ring underground ([#55569](https://github.com/CleverRaven/Cataclysm-DDA/pull/55569))
+* Fixed description mismatch for brown bread and wheat-free brown bread ([#55567](https://github.com/CleverRaven/Cataclysm-DDA/pull/55567))
 * Create NO_WEAR_EFFECT flag for jewelry's 'won't provide any effects' ([#55550](https://github.com/CleverRaven/Cataclysm-DDA/pull/55550))
 * Make multitool able to reveal wall wiring ([#55522](https://github.com/CleverRaven/Cataclysm-DDA/pull/55522))
 * Sub All The Limbs ([#55498](https://github.com/CleverRaven/Cataclysm-DDA/pull/55498))
@@ -6,8 +26,6 @@
 * Renovate Apartments ([#55448](https://github.com/CleverRaven/Cataclysm-DDA/pull/55448))
 * Garbage bags. ([#55447](https://github.com/CleverRaven/Cataclysm-DDA/pull/55447))
 * Move shirts to skin layer and hoodies to normal layer ([#55408](https://github.com/CleverRaven/Cataclysm-DDA/pull/55408))
-* Give hidden illnesses a name and description ([#55394](https://github.com/CleverRaven/Cataclysm-DDA/pull/55394))
-* Allow arrows/bolts to keep their favorited status after firing ([#55393](https://github.com/CleverRaven/Cataclysm-DDA/pull/55393))
 
 ---
 
@@ -78,7 +96,6 @@
 * Add debug mana mutation to magiclysm ([#55473](https://github.com/CleverRaven/Cataclysm-DDA/pull/55473))
 * Fixed camp trapping ([#55478](https://github.com/CleverRaven/Cataclysm-DDA/pull/55478))
 * Allow Letter Opener to be disassembled ([#55494](https://github.com/CleverRaven/Cataclysm-DDA/pull/55494))
-* Player is immune to deafing effect if he is already deaf ([#55396](https://github.com/CleverRaven/Cataclysm-DDA/pull/55396))
 * Don't increase broken bones stat when bones are already broken ([#55458](https://github.com/CleverRaven/Cataclysm-DDA/pull/55458))
 * Clarify the "In a Pickle" mission description ([#55464](https://github.com/CleverRaven/Cataclysm-DDA/pull/55464))
 * Dana Nunez: Fix unreachable dialogue ([#55465](https://github.com/CleverRaven/Cataclysm-DDA/pull/55465))
@@ -187,15 +204,4 @@
 * Football Armor Overhaul ([#55406](https://github.com/CleverRaven/Cataclysm-DDA/pull/55406))
 * Materials Roll Individually For Direct Attacks ([#55405](https://github.com/CleverRaven/Cataclysm-DDA/pull/55405))
 * Add list of obligatory flags to MA techs ([#55403](https://github.com/CleverRaven/Cataclysm-DDA/pull/55403))
-* OLD_GUARD_REP_3: spawn exodii base if can't find ([#55400](https://github.com/CleverRaven/Cataclysm-DDA/pull/55400))
-* Make fit professions fit, add football prof & hobby ([#55391](https://github.com/CleverRaven/Cataclysm-DDA/pull/55391))
-* Small comment for field ([#55388](https://github.com/CleverRaven/Cataclysm-DDA/pull/55388))
-* Fix 'Reach Refugee Center' mission location and pathing over bridges ([#55385](https://github.com/CleverRaven/Cataclysm-DDA/pull/55385))
-* Make leather more cut resistant but less bash resistant ([#55381](https://github.com/CleverRaven/Cataclysm-DDA/pull/55381))
 * Mitten Gauntlets as unarmed weapon ([#55413](https://github.com/CleverRaven/Cataclysm-DDA/pull/55413))
-* added in ear lowprofile hearing protection ([#55386](https://github.com/CleverRaven/Cataclysm-DDA/pull/55386))
-* Typo fix ([#55384](https://github.com/CleverRaven/Cataclysm-DDA/pull/55384))
-* Fix pressing letter keys in pocket autopickup settings ([#55390](https://github.com/CleverRaven/Cataclysm-DDA/pull/55390))
-* Active Railgun bionic will now actually consume bionic power per throw ([#55382](https://github.com/CleverRaven/Cataclysm-DDA/pull/55382))
-* frozen lemonade is no longer considered dairy ([#55383](https://github.com/CleverRaven/Cataclysm-DDA/pull/55383))
-* Empty Oxygen spawns no more ([#55387](https://github.com/CleverRaven/Cataclysm-DDA/pull/55387))
