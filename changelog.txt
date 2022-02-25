@@ -131,6 +131,3 @@ Cataclysm-DDA experimental build 2022-02-19-2135 (90b1c80)
 
 Cataclysm-DDA experimental build 2022-02-19-0828 (6149a27)
 * Make strong knees cancel out bad knees (#55496)
-
-Cataclysm-DDA experimental build 2022-02-18-0721 (7fa132e)
-* Clarify mission description: Bring 10 plastic sheets (#55459)
