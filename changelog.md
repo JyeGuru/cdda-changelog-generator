@@ -198,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2022-02-16-0646 ([cc10e0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-16-0646))
 
 * Mitten Gauntlets as unarmed weapon ([#55413](https://github.com/CleverRaven/Cataclysm-DDA/pull/55413))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-15-1047 ([973d737](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-15-1047))
-
 * added in ear lowprofile hearing protection ([#55386](https://github.com/CleverRaven/Cataclysm-DDA/pull/55386))
 * Armored dummies can withstand what an unarmored can for practice ([#55363](https://github.com/CleverRaven/Cataclysm-DDA/pull/55363))
 * Typo fix ([#55384](https://github.com/CleverRaven/Cataclysm-DDA/pull/55384))
