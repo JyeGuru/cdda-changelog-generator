@@ -1,3 +1,13 @@
+* Give the female hacker a sports bra ([#55622](https://github.com/CleverRaven/Cataclysm-DDA/pull/55622))
+* [Innawood] Minor spellcheck ([#55657](https://github.com/CleverRaven/Cataclysm-DDA/pull/55657))
+* ruins_4x4_camp: Fix intermittent CI error ([#55636](https://github.com/CleverRaven/Cataclysm-DDA/pull/55636))
+* Add missing break statement in faction_camp.cpp ([#55658](https://github.com/CleverRaven/Cataclysm-DDA/pull/55658))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-25-1515 ([d27e979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-1515))
+
+* Revert "Balance weak/strong mixed alcohol when crafting ethanol" ([#55656](https://github.com/CleverRaven/Cataclysm-DDA/pull/55656))
 
 ---
 
@@ -105,12 +115,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-02-21-1607 ([d13be28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1607))
-
-* Remove vitamin A and B for good ([#55466](https://github.com/CleverRaven/Cataclysm-DDA/pull/55466))
-
----
-
 #### Cataclysm-DDA experimental build 2022-02-21-1404 ([6c74cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1404))
 
 * Add leather jacket uncraft recipe ([#55560](https://github.com/CleverRaven/Cataclysm-DDA/pull/55560))
@@ -125,8 +129,6 @@
 * Add debug mana mutation to magiclysm ([#55473](https://github.com/CleverRaven/Cataclysm-DDA/pull/55473))
 * Fixed camp trapping ([#55478](https://github.com/CleverRaven/Cataclysm-DDA/pull/55478))
 * Allow Letter Opener to be disassembled ([#55494](https://github.com/CleverRaven/Cataclysm-DDA/pull/55494))
-* Clarify the "In a Pickle" mission description ([#55464](https://github.com/CleverRaven/Cataclysm-DDA/pull/55464))
-* Dana Nunez: Fix unreachable dialogue ([#55465](https://github.com/CleverRaven/Cataclysm-DDA/pull/55465))
 * Fix reported version of newer Windows 10 releases ([#55506](https://github.com/CleverRaven/Cataclysm-DDA/pull/55506))
 * Missing metal detail in XS chainmail arm plural names. ([#55517](https://github.com/CleverRaven/Cataclysm-DDA/pull/55517))
 * strait -> straight ([#55537](https://github.com/CleverRaven/Cataclysm-DDA/pull/55537))
@@ -147,12 +149,6 @@
 #### Cataclysm-DDA experimental build 2022-02-20-2211 ([51e44ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-2211))
 
 * Add alternative black gunpowder recipe and update original recipe ([#55486](https://github.com/CleverRaven/Cataclysm-DDA/pull/55486))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-20-1818 ([5822d67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-1818))
-
-* Polish up COMPILING-VS-VCPKG.md ([#55467](https://github.com/CleverRaven/Cataclysm-DDA/pull/55467))
 * Force pull all translations from Transifex ([#55530](https://github.com/CleverRaven/Cataclysm-DDA/pull/55530))
 * Create spell accuracy stat ([#55502](https://github.com/CleverRaven/Cataclysm-DDA/pull/55502))
 
@@ -179,12 +175,6 @@
 #### Cataclysm-DDA experimental build 2022-02-20-0604 ([edb9f92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-0604))
 
 * Fix crash when displaying weapon name ([#55500](https://github.com/CleverRaven/Cataclysm-DDA/pull/55500))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-19-2135 ([90b1c80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-19-2135))
-
-* More robust test for multi material portions ([#55461](https://github.com/CleverRaven/Cataclysm-DDA/pull/55461))
 
 ---
 

@@ -1,3 +1,10 @@
+* Give the female hacker a sports bra (#55622)
+* [Innawood] Minor spellcheck (#55657)
+* ruins_4x4_camp: Fix intermittent CI error (#55636)
+* Add missing break statement in faction_camp.cpp (#55658)
+
+Cataclysm-DDA experimental build 2022-02-25-1515 (d27e979)
+* Revert "Balance weak/strong mixed alcohol when crafting ethanol" (#55656)
 
 Cataclysm-DDA experimental build 2022-02-25-0917 (74f3b56)
 * Mapgen improvements, location override, fixes/improvements to portal storm cell effect (#55614)
@@ -79,9 +86,6 @@ Cataclysm-DDA experimental build 2022-02-21-2034 (a139c2e)
 Cataclysm-DDA experimental build 2022-02-21-1902 (6ca3ef2)
 * Add a dive shop location (#55535)
 
-Cataclysm-DDA experimental build 2022-02-21-1607 (d13be28)
-* Remove vitamin A and B for good (#55466)
-
 Cataclysm-DDA experimental build 2022-02-21-1404 (6c74cc8)
 * Add leather jacket uncraft recipe (#55560)
 
@@ -92,8 +96,6 @@ Cataclysm-DDA experimental build 2022-02-21-0716 (158205f)
 * Add debug mana mutation to magiclysm (#55473)
 * Fixed camp trapping (#55478)
 * Allow Letter Opener to be disassembled (#55494)
-* Clarify the "In a Pickle" mission description (#55464)
-* Dana Nunez: Fix unreachable dialogue (#55465)
 * Fix reported version of newer Windows 10 releases (#55506)
 * Missing metal detail in XS chainmail arm plural names. (#55517)
 * strait -> straight (#55537)
@@ -108,9 +110,6 @@ Cataclysm-DDA experimental build 2022-02-21-0612 (de5b5f9)
 
 Cataclysm-DDA experimental build 2022-02-20-2211 (51e44ef)
 * Add alternative black gunpowder recipe and update original recipe (#55486)
-
-Cataclysm-DDA experimental build 2022-02-20-1818 (5822d67)
-* Polish up COMPILING-VS-VCPKG.md (#55467)
 * Force pull all translations from Transifex (#55530)
 * Create spell accuracy stat (#55502)
 
@@ -125,9 +124,6 @@ Cataclysm-DDA experimental build 2022-02-20-0704 (f889ed9)
 
 Cataclysm-DDA experimental build 2022-02-20-0604 (edb9f92)
 * Fix crash when displaying weapon name (#55500)
-
-Cataclysm-DDA experimental build 2022-02-19-2135 (90b1c80)
-* More robust test for multi material portions (#55461)
 
 Cataclysm-DDA experimental build 2022-02-19-0828 (6149a27)
 * Make strong knees cancel out bad knees (#55496)
