@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-25-0917 ([74f3b56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-0917))
+
 * Mapgen improvements, location override, fixes/improvements to portal storm cell effect ([#55614](https://github.com/CleverRaven/Cataclysm-DDA/pull/55614))
 
 ---
