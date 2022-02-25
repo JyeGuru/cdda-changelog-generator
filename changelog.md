@@ -1,3 +1,14 @@
+* Include build number in windows debug report ([#55646](https://github.com/CleverRaven/Cataclysm-DDA/pull/55646))
+* Modernize Armor For Phase Immersion Suit ([#55641](https://github.com/CleverRaven/Cataclysm-DDA/pull/55641))
+* Fix some plurals and fix json loading encoding in `get_all_mods.py` ([#55634](https://github.com/CleverRaven/Cataclysm-DDA/pull/55634))
+* Balance weak/strong mixed alcohol when crafting ethanol ([#55630](https://github.com/CleverRaven/Cataclysm-DDA/pull/55630))
+* (tropicata): fix some typos ([#55624](https://github.com/CleverRaven/Cataclysm-DDA/pull/55624))
+* Updated Armor info in FAQ ([#55623](https://github.com/CleverRaven/Cataclysm-DDA/pull/55623))
+* Fridges shouldn't hold liquids anymore.  ([#55621](https://github.com/CleverRaven/Cataclysm-DDA/pull/55621))
+* Added NANOFAB templates with single use ([#55620](https://github.com/CleverRaven/Cataclysm-DDA/pull/55620))
+* Adjust primers recipes ([#55618](https://github.com/CleverRaven/Cataclysm-DDA/pull/55618))
+* replace welding googles with whole set of welding gear ([#55597](https://github.com/CleverRaven/Cataclysm-DDA/pull/55597))
+* Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
 * Rat Cave loot ([#55617](https://github.com/CleverRaven/Cataclysm-DDA/pull/55617))
 * added ALLOW_TERRAIN_UNDER_OTHER_DATA to version 2 base/expansions ([#55612](https://github.com/CleverRaven/Cataclysm-DDA/pull/55612))
 * Fix the compile error in the MinGW test ([#55609](https://github.com/CleverRaven/Cataclysm-DDA/pull/55609))
@@ -34,8 +45,6 @@
 * Sub All The Limbs ([#55498](https://github.com/CleverRaven/Cataclysm-DDA/pull/55498))
 * Remove the archery skill requirement to learn how to craft makeshift wooden arrows ([#55493](https://github.com/CleverRaven/Cataclysm-DDA/pull/55493))
 * Add a tool: detect missing .om_special in missions ([#55489](https://github.com/CleverRaven/Cataclysm-DDA/pull/55489))
-* Renovate Apartments ([#55448](https://github.com/CleverRaven/Cataclysm-DDA/pull/55448))
-* Garbage bags. ([#55447](https://github.com/CleverRaven/Cataclysm-DDA/pull/55447))
 
 ---
 
@@ -65,7 +74,6 @@
 * TropiCata: Plants vs Zombies  ([#55476](https://github.com/CleverRaven/Cataclysm-DDA/pull/55476))
 * Adds new fine grinding quality to mortar and pestle + recipe updates ([#55518](https://github.com/CleverRaven/Cataclysm-DDA/pull/55518))
 * Added holster info to pockets ([#55548](https://github.com/CleverRaven/Cataclysm-DDA/pull/55548))
-* Prevent selected NPC jumping to the top in training session menus ([#55432](https://github.com/CleverRaven/Cataclysm-DDA/pull/55432))
 * Give firefigher and police belts defined thickness ([#55557](https://github.com/CleverRaven/Cataclysm-DDA/pull/55557))
 * Removed the Talon From Collapsed Tower ([#55561](https://github.com/CleverRaven/Cataclysm-DDA/pull/55561))
 * Waterproof smartphone case ([#55558](https://github.com/CleverRaven/Cataclysm-DDA/pull/55558))
@@ -169,13 +177,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-02-20-0244 ([2250ecb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-0244))
-
-* Additional TLC Finales ([#55445](https://github.com/CleverRaven/Cataclysm-DDA/pull/55445))
-* Chainmail standardization ([#55455](https://github.com/CleverRaven/Cataclysm-DDA/pull/55455))
-
----
-
 #### Cataclysm-DDA experimental build 2022-02-19-2135 ([90b1c80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-19-2135))
 
 * More robust test for multi material portions ([#55461](https://github.com/CleverRaven/Cataclysm-DDA/pull/55461))
@@ -191,18 +192,3 @@
 #### Cataclysm-DDA experimental build 2022-02-18-0721 ([7fa132e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-18-0721))
 
 * Clarify mission description: Bring 10 plastic sheets ([#55459](https://github.com/CleverRaven/Cataclysm-DDA/pull/55459))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-18-0236 ([9370fd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-18-0236))
-
-* Fix for duplicate IDs in Aftershock ([#55452](https://github.com/CleverRaven/Cataclysm-DDA/pull/55452))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-17-0641 ([97018ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-17-0641))
-
-* No survivor belts for cunning ferals ([#55438](https://github.com/CleverRaven/Cataclysm-DDA/pull/55438))
-* Fix EOC temperature assignment not taking effect ([#55435](https://github.com/CleverRaven/Cataclysm-DDA/pull/55435))
-* Make small and large cardboard boxes craftable ([#55434](https://github.com/CleverRaven/Cataclysm-DDA/pull/55434))
-* Fix auto-mopping in the dark ([#55429](https://github.com/CleverRaven/Cataclysm-DDA/pull/55429))
