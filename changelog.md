@@ -1,3 +1,11 @@
+* Fixes for multi material damage rolls ([#55607](https://github.com/CleverRaven/Cataclysm-DDA/pull/55607))
+* Remove hp-based "bloodloss" chilling for limbs ([#55601](https://github.com/CleverRaven/Cataclysm-DDA/pull/55601))
+* Check for duplicate (same id) item definitions from the same mod  ([#55600](https://github.com/CleverRaven/Cataclysm-DDA/pull/55600))
+* Misc mapgen edits ([#55598](https://github.com/CleverRaven/Cataclysm-DDA/pull/55598))
+* Add clay oil lamp ([#55596](https://github.com/CleverRaven/Cataclysm-DDA/pull/55596))
+* Adds improvised wool and nomex sock mitts ([#55593](https://github.com/CleverRaven/Cataclysm-DDA/pull/55593))
+* Update black powder and formic acid recipe ([#55592](https://github.com/CleverRaven/Cataclysm-DDA/pull/55592))
+* Rework of mission handling ([#55591](https://github.com/CleverRaven/Cataclysm-DDA/pull/55591))
 
 ---
 
@@ -25,7 +33,6 @@
 * Add a tool: detect missing .om_special in missions ([#55489](https://github.com/CleverRaven/Cataclysm-DDA/pull/55489))
 * Renovate Apartments ([#55448](https://github.com/CleverRaven/Cataclysm-DDA/pull/55448))
 * Garbage bags. ([#55447](https://github.com/CleverRaven/Cataclysm-DDA/pull/55447))
-* Move shirts to skin layer and hoodies to normal layer ([#55408](https://github.com/CleverRaven/Cataclysm-DDA/pull/55408))
 
 ---
 
@@ -64,7 +71,6 @@
 * Fix repair difficulty for combat blouse and shirt ([#55552](https://github.com/CleverRaven/Cataclysm-DDA/pull/55552))
 * Removed extra use guns space ([#55556](https://github.com/CleverRaven/Cataclysm-DDA/pull/55556))
 * Prevent error when trying to pick up items and wielding the container ([#55477](https://github.com/CleverRaven/Cataclysm-DDA/pull/55477))
-* Add limb score component to vaulting chainlink fences (and similar obstacles) ([#55401](https://github.com/CleverRaven/Cataclysm-DDA/pull/55401))
 * ammount -> amount ([#55551](https://github.com/CleverRaven/Cataclysm-DDA/pull/55551))
 * Check for duplicate (same id) JSON entries within the same mod for objects loaded via generic_factory. ([#55495](https://github.com/CleverRaven/Cataclysm-DDA/pull/55495))
 
@@ -200,8 +206,3 @@
 * Add component selection dialog for vehicle part installation ([#55426](https://github.com/CleverRaven/Cataclysm-DDA/pull/55426))
 * Rename foie gras to faux gras ([#55417](https://github.com/CleverRaven/Cataclysm-DDA/pull/55417))
 * Furniture and terrain can have custom field sprites ([#55416](https://github.com/CleverRaven/Cataclysm-DDA/pull/55416))
-* Fix pocket information not displaying for hackPRO and more ([#55411](https://github.com/CleverRaven/Cataclysm-DDA/pull/55411))
-* Football Armor Overhaul ([#55406](https://github.com/CleverRaven/Cataclysm-DDA/pull/55406))
-* Materials Roll Individually For Direct Attacks ([#55405](https://github.com/CleverRaven/Cataclysm-DDA/pull/55405))
-* Add list of obligatory flags to MA techs ([#55403](https://github.com/CleverRaven/Cataclysm-DDA/pull/55403))
-* Mitten Gauntlets as unarmed weapon ([#55413](https://github.com/CleverRaven/Cataclysm-DDA/pull/55413))
