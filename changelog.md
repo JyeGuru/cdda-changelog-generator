@@ -1,3 +1,6 @@
+* Rat Cave loot ([#55617](https://github.com/CleverRaven/Cataclysm-DDA/pull/55617))
+* added ALLOW_TERRAIN_UNDER_OTHER_DATA to version 2 base/expansions ([#55612](https://github.com/CleverRaven/Cataclysm-DDA/pull/55612))
+* Fix the compile error in the MinGW test ([#55609](https://github.com/CleverRaven/Cataclysm-DDA/pull/55609))
 * Fixes for multi material damage rolls ([#55607](https://github.com/CleverRaven/Cataclysm-DDA/pull/55607))
 * Remove hp-based "bloodloss" chilling for limbs ([#55601](https://github.com/CleverRaven/Cataclysm-DDA/pull/55601))
 * Check for duplicate (same id) item definitions from the same mod  ([#55600](https://github.com/CleverRaven/Cataclysm-DDA/pull/55600))
@@ -203,6 +206,3 @@
 * Fix EOC temperature assignment not taking effect ([#55435](https://github.com/CleverRaven/Cataclysm-DDA/pull/55435))
 * Make small and large cardboard boxes craftable ([#55434](https://github.com/CleverRaven/Cataclysm-DDA/pull/55434))
 * Fix auto-mopping in the dark ([#55429](https://github.com/CleverRaven/Cataclysm-DDA/pull/55429))
-* Add component selection dialog for vehicle part installation ([#55426](https://github.com/CleverRaven/Cataclysm-DDA/pull/55426))
-* Rename foie gras to faux gras ([#55417](https://github.com/CleverRaven/Cataclysm-DDA/pull/55417))
-* Furniture and terrain can have custom field sprites ([#55416](https://github.com/CleverRaven/Cataclysm-DDA/pull/55416))
