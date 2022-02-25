@@ -1,3 +1,12 @@
+* Make multitool able to reveal wall wiring ([#55522](https://github.com/CleverRaven/Cataclysm-DDA/pull/55522))
+* Sub All The Limbs ([#55498](https://github.com/CleverRaven/Cataclysm-DDA/pull/55498))
+* Remove the archery skill requirement to learn how to craft makeshift wooden arrows ([#55493](https://github.com/CleverRaven/Cataclysm-DDA/pull/55493))
+* Add a tool: detect missing .om_special in missions ([#55489](https://github.com/CleverRaven/Cataclysm-DDA/pull/55489))
+* Renovate Apartments ([#55448](https://github.com/CleverRaven/Cataclysm-DDA/pull/55448))
+* Garbage bags. ([#55447](https://github.com/CleverRaven/Cataclysm-DDA/pull/55447))
+* Move shirts to skin layer and hoodies to normal layer ([#55408](https://github.com/CleverRaven/Cataclysm-DDA/pull/55408))
+* Give hidden illnesses a name and description ([#55394](https://github.com/CleverRaven/Cataclysm-DDA/pull/55394))
+* Allow arrows/bolts to keep their favorited status after firing ([#55393](https://github.com/CleverRaven/Cataclysm-DDA/pull/55393))
 
 ---
 
@@ -142,7 +151,6 @@
 #### Cataclysm-DDA experimental build 2022-02-19-2313 ([27ab2a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-19-2313))
 
 * Improve dialog string variables ([#55380](https://github.com/CleverRaven/Cataclysm-DDA/pull/55380))
-* Lightening up the hard chest/arm/leg guards a bit. ([#55378](https://github.com/CleverRaven/Cataclysm-DDA/pull/55378))
 * Chainmail standardization ([#55455](https://github.com/CleverRaven/Cataclysm-DDA/pull/55455))
 
 ---
@@ -189,18 +197,10 @@
 * Small comment for field ([#55388](https://github.com/CleverRaven/Cataclysm-DDA/pull/55388))
 * Fix 'Reach Refugee Center' mission location and pathing over bridges ([#55385](https://github.com/CleverRaven/Cataclysm-DDA/pull/55385))
 * Make leather more cut resistant but less bash resistant ([#55381](https://github.com/CleverRaven/Cataclysm-DDA/pull/55381))
-* Display current firemode on sidebar ([#55377](https://github.com/CleverRaven/Cataclysm-DDA/pull/55377))
-* Fix zone constructions that allow keeping items ([#55367](https://github.com/CleverRaven/Cataclysm-DDA/pull/55367))
-* JSONify fatigue widget ([#55364](https://github.com/CleverRaven/Cataclysm-DDA/pull/55364))
 * Mitten Gauntlets as unarmed weapon ([#55413](https://github.com/CleverRaven/Cataclysm-DDA/pull/55413))
 * added in ear lowprofile hearing protection ([#55386](https://github.com/CleverRaven/Cataclysm-DDA/pull/55386))
-* Armored dummies can withstand what an unarmored can for practice ([#55363](https://github.com/CleverRaven/Cataclysm-DDA/pull/55363))
 * Typo fix ([#55384](https://github.com/CleverRaven/Cataclysm-DDA/pull/55384))
 * Fix pressing letter keys in pocket autopickup settings ([#55390](https://github.com/CleverRaven/Cataclysm-DDA/pull/55390))
 * Active Railgun bionic will now actually consume bionic power per throw ([#55382](https://github.com/CleverRaven/Cataclysm-DDA/pull/55382))
 * frozen lemonade is no longer considered dairy ([#55383](https://github.com/CleverRaven/Cataclysm-DDA/pull/55383))
 * Empty Oxygen spawns no more ([#55387](https://github.com/CleverRaven/Cataclysm-DDA/pull/55387))
-* Remove unnecessary gunmod check ([#55372](https://github.com/CleverRaven/Cataclysm-DDA/pull/55372))
-* Teamster: fix the title of a mission ([#55374](https://github.com/CleverRaven/Cataclysm-DDA/pull/55374))
-* Lab nested mapgen fixes ([#55366](https://github.com/CleverRaven/Cataclysm-DDA/pull/55366))
-* Permitted to analyze tainted blood on centrifuge ([#55365](https://github.com/CleverRaven/Cataclysm-DDA/pull/55365))
