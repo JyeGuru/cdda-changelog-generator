@@ -1,3 +1,10 @@
+* Mapgen improvements, location override, fixes/improvements to portal storm cell effect ([#55614](https://github.com/CleverRaven/Cataclysm-DDA/pull/55614))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-25-0816 ([8fe4bd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-0816))
+
+* Migrate ACT_CHURN to the new activity actor system. ([#55639](https://github.com/CleverRaven/Cataclysm-DDA/pull/55639))
 * Include build number in windows debug report ([#55646](https://github.com/CleverRaven/Cataclysm-DDA/pull/55646))
 * Modernize Armor For Phase Immersion Suit ([#55641](https://github.com/CleverRaven/Cataclysm-DDA/pull/55641))
 * Fix some plurals and fix json loading encoding in `get_all_mods.py` ([#55634](https://github.com/CleverRaven/Cataclysm-DDA/pull/55634))
@@ -113,7 +120,6 @@
 * Add debug mana mutation to magiclysm ([#55473](https://github.com/CleverRaven/Cataclysm-DDA/pull/55473))
 * Fixed camp trapping ([#55478](https://github.com/CleverRaven/Cataclysm-DDA/pull/55478))
 * Allow Letter Opener to be disassembled ([#55494](https://github.com/CleverRaven/Cataclysm-DDA/pull/55494))
-* Don't increase broken bones stat when bones are already broken ([#55458](https://github.com/CleverRaven/Cataclysm-DDA/pull/55458))
 * Clarify the "In a Pickle" mission description ([#55464](https://github.com/CleverRaven/Cataclysm-DDA/pull/55464))
 * Dana Nunez: Fix unreachable dialogue ([#55465](https://github.com/CleverRaven/Cataclysm-DDA/pull/55465))
 * Fix reported version of newer Windows 10 releases ([#55506](https://github.com/CleverRaven/Cataclysm-DDA/pull/55506))
@@ -130,12 +136,6 @@
 #### Cataclysm-DDA experimental build 2022-02-21-0612 ([de5b5f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-0612))
 
 * fix sabatons having two left feet ([#55545](https://github.com/CleverRaven/Cataclysm-DDA/pull/55545))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-21-0405 ([d055515](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-0405))
-
-* enshrine test clothing for encumbrance test ([#55457](https://github.com/CleverRaven/Cataclysm-DDA/pull/55457))
 
 ---
 
