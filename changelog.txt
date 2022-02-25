@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-02-25-2342 (9f1612e)
+* change bo recipe components (#55680)
+
 Cataclysm-DDA experimental build 2022-02-25-1616 (582984d)
 * Give the female hacker a sports bra (#55622)
 * [Innawood] Minor spellcheck (#55657)
@@ -117,9 +120,6 @@ Cataclysm-DDA experimental build 2022-02-20-2211 (51e44ef)
 
 Cataclysm-DDA experimental build 2022-02-20-1700 (728eb52)
 * Increased the manhacks accuracy in coverage tests (#55516)
-
-Cataclysm-DDA experimental build 2022-02-20-1022 (f0f6f19)
-* Pebbles can be stored in a stone pouch (#55470)
 
 Cataclysm-DDA experimental build 2022-02-20-0704 (f889ed9)
 * Ignore autopickup setting when transfering liquids (#55497)

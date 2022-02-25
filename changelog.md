@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-25-2342 ([9f1612e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-2342))
+
+* change bo recipe components ([#55680](https://github.com/CleverRaven/Cataclysm-DDA/pull/55680))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-25-1616 ([582984d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-1616))
 
 * Give the female hacker a sports bra ([#55622](https://github.com/CleverRaven/Cataclysm-DDA/pull/55622))
@@ -162,12 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-02-20-1700 ([728eb52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-1700))
 
 * Increased the manhacks accuracy in coverage tests ([#55516](https://github.com/CleverRaven/Cataclysm-DDA/pull/55516))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-20-1022 ([f0f6f19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-1022))
-
-* Pebbles can be stored in a stone pouch ([#55470](https://github.com/CleverRaven/Cataclysm-DDA/pull/55470))
 
 ---
 
