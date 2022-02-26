@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-26-0227 ([d9840e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-0227))
+
+* Fix sugar people melting ([#55676](https://github.com/CleverRaven/Cataclysm-DDA/pull/55676))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-02-26-0058 ([bc4b99c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-0058))
+
+* Typo name Update 762.json ([#55672](https://github.com/CleverRaven/Cataclysm-DDA/pull/55672))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-25-2342 ([9f1612e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-2342))
 
 * change bo recipe components ([#55680](https://github.com/CleverRaven/Cataclysm-DDA/pull/55680))
@@ -104,7 +116,6 @@
 * Misc. fixes for vehicle part variants ([#55543](https://github.com/CleverRaven/Cataclysm-DDA/pull/55543))
 * Misc overmap_terrain edits ([#55485](https://github.com/CleverRaven/Cataclysm-DDA/pull/55485))
 * Remove climate control kit from nomad harness ([#55565](https://github.com/CleverRaven/Cataclysm-DDA/pull/55565))
-* TropiCata: Plants vs Zombies  ([#55476](https://github.com/CleverRaven/Cataclysm-DDA/pull/55476))
 * Adds new fine grinding quality to mortar and pestle + recipe updates ([#55518](https://github.com/CleverRaven/Cataclysm-DDA/pull/55518))
 * Added holster info to pockets ([#55548](https://github.com/CleverRaven/Cataclysm-DDA/pull/55548))
 * Give firefigher and police belts defined thickness ([#55557](https://github.com/CleverRaven/Cataclysm-DDA/pull/55557))
@@ -137,7 +148,6 @@
 * materials defense values can be floats ([#55529](https://github.com/CleverRaven/Cataclysm-DDA/pull/55529))
 * Renamed allow_melee martial arts attribute ([#55515](https://github.com/CleverRaven/Cataclysm-DDA/pull/55515))
 * Migrate map::abs_sub to typesafe point ([#55510](https://github.com/CleverRaven/Cataclysm-DDA/pull/55510))
-* Add debug mana mutation to magiclysm ([#55473](https://github.com/CleverRaven/Cataclysm-DDA/pull/55473))
 * Fixed camp trapping ([#55478](https://github.com/CleverRaven/Cataclysm-DDA/pull/55478))
 * Allow Letter Opener to be disassembled ([#55494](https://github.com/CleverRaven/Cataclysm-DDA/pull/55494))
 * Fix reported version of newer Windows 10 releases ([#55506](https://github.com/CleverRaven/Cataclysm-DDA/pull/55506))
@@ -180,9 +190,4 @@
 #### Cataclysm-DDA experimental build 2022-02-20-0604 ([edb9f92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-0604))
 
 * Fix crash when displaying weapon name ([#55500](https://github.com/CleverRaven/Cataclysm-DDA/pull/55500))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-19-0828 ([6149a27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-19-0828))
-
 * Make strong knees cancel out bad knees ([#55496](https://github.com/CleverRaven/Cataclysm-DDA/pull/55496))
