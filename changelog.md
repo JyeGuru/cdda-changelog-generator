@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-02-26-1302 ([6cea46d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-1302))
+
+* Routine i18n updates on 26 February 2022 ([#55683](https://github.com/CleverRaven/Cataclysm-DDA/pull/55683))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-26-0227 ([d9840e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-0227))
 
 * Fix sugar people melting ([#55676](https://github.com/CleverRaven/Cataclysm-DDA/pull/55676))
@@ -125,7 +131,6 @@
 * Re-add lost meats to meat_nofish recipes ([#55559](https://github.com/CleverRaven/Cataclysm-DDA/pull/55559))
 * Fix repair difficulty for combat blouse and shirt ([#55552](https://github.com/CleverRaven/Cataclysm-DDA/pull/55552))
 * Removed extra use guns space ([#55556](https://github.com/CleverRaven/Cataclysm-DDA/pull/55556))
-* Prevent error when trying to pick up items and wielding the container ([#55477](https://github.com/CleverRaven/Cataclysm-DDA/pull/55477))
 * ammount -> amount ([#55551](https://github.com/CleverRaven/Cataclysm-DDA/pull/55551))
 * Check for duplicate (same id) JSON entries within the same mod for objects loaded via generic_factory. ([#55495](https://github.com/CleverRaven/Cataclysm-DDA/pull/55495))
 
