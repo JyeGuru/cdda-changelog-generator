@@ -1,3 +1,4 @@
+* amalgamation fixes for combined limbs (#55697)
 
 Cataclysm-DDA experimental build 2022-02-26-1302 (6cea46d)
 * Routine i18n updates on 26 February 2022 (#55683)
@@ -105,7 +106,6 @@ Cataclysm-DDA experimental build 2022-02-21-0716 (158205f)
 * materials defense values can be floats (#55529)
 * Renamed allow_melee martial arts attribute (#55515)
 * Migrate map::abs_sub to typesafe point (#55510)
-* Fixed camp trapping (#55478)
 * Allow Letter Opener to be disassembled (#55494)
 * Fix reported version of newer Windows 10 releases (#55506)
 * Missing metal detail in XS chainmail arm plural names. (#55517)

@@ -1,3 +1,4 @@
+* amalgamation fixes for combined limbs ([#55697](https://github.com/CleverRaven/Cataclysm-DDA/pull/55697))
 
 ---
 
@@ -153,7 +154,6 @@
 * materials defense values can be floats ([#55529](https://github.com/CleverRaven/Cataclysm-DDA/pull/55529))
 * Renamed allow_melee martial arts attribute ([#55515](https://github.com/CleverRaven/Cataclysm-DDA/pull/55515))
 * Migrate map::abs_sub to typesafe point ([#55510](https://github.com/CleverRaven/Cataclysm-DDA/pull/55510))
-* Fixed camp trapping ([#55478](https://github.com/CleverRaven/Cataclysm-DDA/pull/55478))
 * Allow Letter Opener to be disassembled ([#55494](https://github.com/CleverRaven/Cataclysm-DDA/pull/55494))
 * Fix reported version of newer Windows 10 releases ([#55506](https://github.com/CleverRaven/Cataclysm-DDA/pull/55506))
 * Missing metal detail in XS chainmail arm plural names. ([#55517](https://github.com/CleverRaven/Cataclysm-DDA/pull/55517))
