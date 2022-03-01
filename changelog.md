@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-01-1530 ([2c922b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-01-1530))
+
+* Magiclysm typos  ([#55692](https://github.com/CleverRaven/Cataclysm-DDA/pull/55692))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-01-1429 ([d8bff3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-01-1429))
+
+* Cooked liver is not nasty ([#55758](https://github.com/CleverRaven/Cataclysm-DDA/pull/55758))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-02-28-0721 ([f8b23b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-28-0721))
 
 * contractable -> contractible ([#55734](https://github.com/CleverRaven/Cataclysm-DDA/pull/55734))
@@ -112,8 +124,6 @@
 * Create NO_WEAR_EFFECT flag for jewelry's 'won't provide any effects' ([#55550](https://github.com/CleverRaven/Cataclysm-DDA/pull/55550))
 * Make multitool able to reveal wall wiring ([#55522](https://github.com/CleverRaven/Cataclysm-DDA/pull/55522))
 * Sub All The Limbs ([#55498](https://github.com/CleverRaven/Cataclysm-DDA/pull/55498))
-* Remove the archery skill requirement to learn how to craft makeshift wooden arrows ([#55493](https://github.com/CleverRaven/Cataclysm-DDA/pull/55493))
-* Add a tool: detect missing .om_special in missions ([#55489](https://github.com/CleverRaven/Cataclysm-DDA/pull/55489))
 
 ---
 
@@ -193,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-02-20-1700 ([728eb52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-1700))
 
 * Increased the manhacks accuracy in coverage tests ([#55516](https://github.com/CleverRaven/Cataclysm-DDA/pull/55516))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-20-0704 ([f889ed9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-0704))
-
 * Ignore autopickup setting when transfering liquids ([#55497](https://github.com/CleverRaven/Cataclysm-DDA/pull/55497))
 * Fix crash when displaying weapon name ([#55500](https://github.com/CleverRaven/Cataclysm-DDA/pull/55500))
 * Make strong knees cancel out bad knees ([#55496](https://github.com/CleverRaven/Cataclysm-DDA/pull/55496))
