@@ -1,3 +1,4 @@
+* Few misc item fixes (#55664)
 
 Cataclysm-DDA experimental build 2022-03-01-1530 (2c922b0)
 * Magiclysm typos  (#55692)
@@ -117,7 +118,6 @@ Cataclysm-DDA experimental build 2022-02-21-0716 (158205f)
 * materials defense values can be floats (#55529)
 * Renamed allow_melee martial arts attribute (#55515)
 * Migrate map::abs_sub to typesafe point (#55510)
-* Allow Letter Opener to be disassembled (#55494)
 * Fix reported version of newer Windows 10 releases (#55506)
 * Missing metal detail in XS chainmail arm plural names. (#55517)
 * strait -> straight (#55537)
