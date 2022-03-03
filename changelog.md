@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-03-0603 ([e0ad823](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-0603))
+
+* bugfix-55778 ([#55787](https://github.com/CleverRaven/Cataclysm-DDA/pull/55787))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-03-0253 ([3046771](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-0253))
 
 * Don't make NPC angry if he's already dead ([#55689](https://github.com/CleverRaven/Cataclysm-DDA/pull/55689))
@@ -143,7 +149,6 @@
 * Build fire ring underground ([#55569](https://github.com/CleverRaven/Cataclysm-DDA/pull/55569))
 * Fixed description mismatch for brown bread and wheat-free brown bread ([#55567](https://github.com/CleverRaven/Cataclysm-DDA/pull/55567))
 * Create NO_WEAR_EFFECT flag for jewelry's 'won't provide any effects' ([#55550](https://github.com/CleverRaven/Cataclysm-DDA/pull/55550))
-* Make multitool able to reveal wall wiring ([#55522](https://github.com/CleverRaven/Cataclysm-DDA/pull/55522))
 
 ---
 
