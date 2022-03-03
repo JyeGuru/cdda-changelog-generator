@@ -197,11 +197,6 @@
 * fix sabatons having two left feet ([#55545](https://github.com/CleverRaven/Cataclysm-DDA/pull/55545))
 * Force pull all translations from Transifex ([#55530](https://github.com/CleverRaven/Cataclysm-DDA/pull/55530))
 * Create spell accuracy stat ([#55502](https://github.com/CleverRaven/Cataclysm-DDA/pull/55502))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-20-1700 ([728eb52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-20-1700))
-
 * Increased the manhacks accuracy in coverage tests ([#55516](https://github.com/CleverRaven/Cataclysm-DDA/pull/55516))
 * Ignore autopickup setting when transfering liquids ([#55497](https://github.com/CleverRaven/Cataclysm-DDA/pull/55497))
 * Fix crash when displaying weapon name ([#55500](https://github.com/CleverRaven/Cataclysm-DDA/pull/55500))

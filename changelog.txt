@@ -131,8 +131,6 @@ Cataclysm-DDA experimental build 2022-02-21-0612 (de5b5f9)
 * fix sabatons having two left feet (#55545)
 * Force pull all translations from Transifex (#55530)
 * Create spell accuracy stat (#55502)
-
-Cataclysm-DDA experimental build 2022-02-20-1700 (728eb52)
 * Increased the manhacks accuracy in coverage tests (#55516)
 * Ignore autopickup setting when transfering liquids (#55497)
 * Fix crash when displaying weapon name (#55500)
