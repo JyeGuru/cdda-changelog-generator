@@ -1,3 +1,23 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-03-0253 ([3046771](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-0253))
+
+* Don't make NPC angry if he's already dead ([#55689](https://github.com/CleverRaven/Cataclysm-DDA/pull/55689))
+* make pen reloadable fix #55357 ([#55687](https://github.com/CleverRaven/Cataclysm-DDA/pull/55687))
+* Homogenize cabin side pond water - Fix for 55682 ([#55684](https://github.com/CleverRaven/Cataclysm-DDA/pull/55684))
+* Add option and CLI switch to disable title screen ascii art ([#55681](https://github.com/CleverRaven/Cataclysm-DDA/pull/55681))
+* added description for scenario (un)living History ([#55678](https://github.com/CleverRaven/Cataclysm-DDA/pull/55678))
+* Added detailed description for the 'Analyze zombie blood' quest ([#55675](https://github.com/CleverRaven/Cataclysm-DDA/pull/55675))
+* Phase Suit Repairs and Robofac Prototype Reorganize ([#55674](https://github.com/CleverRaven/Cataclysm-DDA/pull/55674))
+* Nano Fabricator Repairs ([#55673](https://github.com/CleverRaven/Cataclysm-DDA/pull/55673))
+* allowed for 3 concurrent camp crafting activities ([#55670](https://github.com/CleverRaven/Cataclysm-DDA/pull/55670))
+* Nerfed bashing damage of quarterstaff, staff sling, and bo ([#55668](https://github.com/CleverRaven/Cataclysm-DDA/pull/55668))
+* Revert #55650 and actually fix the expansion limit for mansions ([#55666](https://github.com/CleverRaven/Cataclysm-DDA/pull/55666))
+* Spawn monsters in dojos. ([#55663](https://github.com/CleverRaven/Cataclysm-DDA/pull/55663))
+* NPCs shouldn't investigate base camp animals ([#55653](https://github.com/CleverRaven/Cataclysm-DDA/pull/55653))
+* [Innawood] Nerf portal storms ([#55644](https://github.com/CleverRaven/Cataclysm-DDA/pull/55644))
+* Refactor npctalk.h to avoid dynamic_cast ([#55627](https://github.com/CleverRaven/Cataclysm-DDA/pull/55627))
 * Few misc item fixes ([#55664](https://github.com/CleverRaven/Cataclysm-DDA/pull/55664))
 
 ---
@@ -124,7 +144,6 @@
 * Fixed description mismatch for brown bread and wheat-free brown bread ([#55567](https://github.com/CleverRaven/Cataclysm-DDA/pull/55567))
 * Create NO_WEAR_EFFECT flag for jewelry's 'won't provide any effects' ([#55550](https://github.com/CleverRaven/Cataclysm-DDA/pull/55550))
 * Make multitool able to reveal wall wiring ([#55522](https://github.com/CleverRaven/Cataclysm-DDA/pull/55522))
-* Sub All The Limbs ([#55498](https://github.com/CleverRaven/Cataclysm-DDA/pull/55498))
 
 ---
 
@@ -150,7 +169,6 @@
 
 * Misc. fixes for vehicle part variants ([#55543](https://github.com/CleverRaven/Cataclysm-DDA/pull/55543))
 * Remove climate control kit from nomad harness ([#55565](https://github.com/CleverRaven/Cataclysm-DDA/pull/55565))
-* Adds new fine grinding quality to mortar and pestle + recipe updates ([#55518](https://github.com/CleverRaven/Cataclysm-DDA/pull/55518))
 * Added holster info to pockets ([#55548](https://github.com/CleverRaven/Cataclysm-DDA/pull/55548))
 * Give firefigher and police belts defined thickness ([#55557](https://github.com/CleverRaven/Cataclysm-DDA/pull/55557))
 * Removed the Talon From Collapsed Tower ([#55561](https://github.com/CleverRaven/Cataclysm-DDA/pull/55561))
@@ -160,7 +178,6 @@
 * Fix repair difficulty for combat blouse and shirt ([#55552](https://github.com/CleverRaven/Cataclysm-DDA/pull/55552))
 * Removed extra use guns space ([#55556](https://github.com/CleverRaven/Cataclysm-DDA/pull/55556))
 * ammount -> amount ([#55551](https://github.com/CleverRaven/Cataclysm-DDA/pull/55551))
-* Check for duplicate (same id) JSON entries within the same mod for objects loaded via generic_factory. ([#55495](https://github.com/CleverRaven/Cataclysm-DDA/pull/55495))
 
 ---
 
@@ -179,10 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-02-21-0716 ([158205f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-0716))
 
 * materials defense values can be floats ([#55529](https://github.com/CleverRaven/Cataclysm-DDA/pull/55529))
-* Renamed allow_melee martial arts attribute ([#55515](https://github.com/CleverRaven/Cataclysm-DDA/pull/55515))
-* Migrate map::abs_sub to typesafe point ([#55510](https://github.com/CleverRaven/Cataclysm-DDA/pull/55510))
-* Fix reported version of newer Windows 10 releases ([#55506](https://github.com/CleverRaven/Cataclysm-DDA/pull/55506))
-* Missing metal detail in XS chainmail arm plural names. ([#55517](https://github.com/CleverRaven/Cataclysm-DDA/pull/55517))
 * strait -> straight ([#55537](https://github.com/CleverRaven/Cataclysm-DDA/pull/55537))
 * [AFS] fix some typos ([#55539](https://github.com/CleverRaven/Cataclysm-DDA/pull/55539))
 * chestrig → chest rig ([#55542](https://github.com/CleverRaven/Cataclysm-DDA/pull/55542))
@@ -196,8 +209,3 @@
 
 * fix sabatons having two left feet ([#55545](https://github.com/CleverRaven/Cataclysm-DDA/pull/55545))
 * Force pull all translations from Transifex ([#55530](https://github.com/CleverRaven/Cataclysm-DDA/pull/55530))
-* Create spell accuracy stat ([#55502](https://github.com/CleverRaven/Cataclysm-DDA/pull/55502))
-* Increased the manhacks accuracy in coverage tests ([#55516](https://github.com/CleverRaven/Cataclysm-DDA/pull/55516))
-* Ignore autopickup setting when transfering liquids ([#55497](https://github.com/CleverRaven/Cataclysm-DDA/pull/55497))
-* Fix crash when displaying weapon name ([#55500](https://github.com/CleverRaven/Cataclysm-DDA/pull/55500))
-* Make strong knees cancel out bad knees ([#55496](https://github.com/CleverRaven/Cataclysm-DDA/pull/55496))
