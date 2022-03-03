@@ -1,3 +1,11 @@
+* Fixed mech placement in lab finale ([#55696](https://github.com/CleverRaven/Cataclysm-DDA/pull/55696))
+* Don't delete all savegames in a world when retrying to find a suitable location ([#55695](https://github.com/CleverRaven/Cataclysm-DDA/pull/55695))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-03-1844 ([50d482d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-1844))
+
+* Add basket fish trap (plastic free) ([#55694](https://github.com/CleverRaven/Cataclysm-DDA/pull/55694))
 
 ---
 
@@ -186,21 +194,9 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-02-21-1902 ([6ca3ef2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1902))
-
-* Add a dive shop location ([#55535](https://github.com/CleverRaven/Cataclysm-DDA/pull/55535))
-
----
-
 #### Cataclysm-DDA experimental build 2022-02-21-1404 ([6c74cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1404))
 
 * Add leather jacket uncraft recipe ([#55560](https://github.com/CleverRaven/Cataclysm-DDA/pull/55560))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-21-0716 ([158205f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-0716))
-
-* materials defense values can be floats ([#55529](https://github.com/CleverRaven/Cataclysm-DDA/pull/55529))
 * strait -> straight ([#55537](https://github.com/CleverRaven/Cataclysm-DDA/pull/55537))
 * [AFS] fix some typos ([#55539](https://github.com/CleverRaven/Cataclysm-DDA/pull/55539))
 * chestrig → chest rig ([#55542](https://github.com/CleverRaven/Cataclysm-DDA/pull/55542))
@@ -213,4 +209,3 @@
 #### Cataclysm-DDA experimental build 2022-02-21-0612 ([de5b5f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-0612))
 
 * fix sabatons having two left feet ([#55545](https://github.com/CleverRaven/Cataclysm-DDA/pull/55545))
-* Force pull all translations from Transifex ([#55530](https://github.com/CleverRaven/Cataclysm-DDA/pull/55530))

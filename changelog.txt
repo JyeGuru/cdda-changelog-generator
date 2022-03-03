@@ -1,3 +1,8 @@
+* Fixed mech placement in lab finale (#55696)
+* Don't delete all savegames in a world when retrying to find a suitable location (#55695)
+
+Cataclysm-DDA experimental build 2022-03-03-1844 (50d482d)
+* Add basket fish trap (plastic free) (#55694)
 
 Cataclysm-DDA experimental build 2022-03-03-0603 (e0ad823)
 * bugfix-55778 (#55787)
@@ -124,14 +129,8 @@ Cataclysm-DDA experimental build 2022-02-21-2034 (a139c2e)
 * Removed extra use guns space (#55556)
 * ammount -> amount (#55551)
 
-Cataclysm-DDA experimental build 2022-02-21-1902 (6ca3ef2)
-* Add a dive shop location (#55535)
-
 Cataclysm-DDA experimental build 2022-02-21-1404 (6c74cc8)
 * Add leather jacket uncraft recipe (#55560)
-
-Cataclysm-DDA experimental build 2022-02-21-0716 (158205f)
-* materials defense values can be floats (#55529)
 * strait -> straight (#55537)
 * [AFS] fix some typos (#55539)
 * chestrig → chest rig (#55542)
@@ -141,4 +140,3 @@ Cataclysm-DDA experimental build 2022-02-21-0716 (158205f)
 
 Cataclysm-DDA experimental build 2022-02-21-0612 (de5b5f9)
 * fix sabatons having two left feet (#55545)
-* Force pull all translations from Transifex (#55530)
