@@ -1,3 +1,9 @@
+* Add missing vector include ([#55728](https://github.com/CleverRaven/Cataclysm-DDA/pull/55728))
+* Increased Missions menu UI size ([#55724](https://github.com/CleverRaven/Cataclysm-DDA/pull/55724))
+* Remove deep water hidden below sand and clay mounds ([#55723](https://github.com/CleverRaven/Cataclysm-DDA/pull/55723))
+* Hallucination fixes ([#55721](https://github.com/CleverRaven/Cataclysm-DDA/pull/55721))
+* Added SOLES mutation type & place relevant mutations in it ([#55719](https://github.com/CleverRaven/Cataclysm-DDA/pull/55719))
+* Improve monster whitelist & blacklist docs ([#55711](https://github.com/CleverRaven/Cataclysm-DDA/pull/55711))
 * Challenge mod: Deadly Zombie Virus ([#55707](https://github.com/CleverRaven/Cataclysm-DDA/pull/55707))
 
 ---
@@ -174,7 +180,6 @@
 * Add abandoned house palette, add new variable parameters for houses ([#55570](https://github.com/CleverRaven/Cataclysm-DDA/pull/55570))
 * Build fire ring underground ([#55569](https://github.com/CleverRaven/Cataclysm-DDA/pull/55569))
 * Fixed description mismatch for brown bread and wheat-free brown bread ([#55567](https://github.com/CleverRaven/Cataclysm-DDA/pull/55567))
-* Create NO_WEAR_EFFECT flag for jewelry's 'won't provide any effects' ([#55550](https://github.com/CleverRaven/Cataclysm-DDA/pull/55550))
 
 ---
 
@@ -199,13 +204,9 @@
 * Waterproof smartphone case ([#55558](https://github.com/CleverRaven/Cataclysm-DDA/pull/55558))
 * Hide toggle minimap hint if no keys are bound to it ([#55562](https://github.com/CleverRaven/Cataclysm-DDA/pull/55562))
 * Re-add lost meats to meat_nofish recipes ([#55559](https://github.com/CleverRaven/Cataclysm-DDA/pull/55559))
-* Fix repair difficulty for combat blouse and shirt ([#55552](https://github.com/CleverRaven/Cataclysm-DDA/pull/55552))
-* Removed extra use guns space ([#55556](https://github.com/CleverRaven/Cataclysm-DDA/pull/55556))
-* ammount -> amount ([#55551](https://github.com/CleverRaven/Cataclysm-DDA/pull/55551))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-02-21-1404 ([6c74cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1404))
 
 * Add leather jacket uncraft recipe ([#55560](https://github.com/CleverRaven/Cataclysm-DDA/pull/55560))
-* hosptial -> hospital ([#55553](https://github.com/CleverRaven/Cataclysm-DDA/pull/55553))
