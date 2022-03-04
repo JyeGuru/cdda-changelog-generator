@@ -1,3 +1,8 @@
+* Replace hard steel with tempered steel ([#55648](https://github.com/CleverRaven/Cataclysm-DDA/pull/55648))
+* Artifact move cost mod multiplicative instead of additive ([#55708](https://github.com/CleverRaven/Cataclysm-DDA/pull/55708))
+* Removed force_unarmed from Taekwondo ([#55669](https://github.com/CleverRaven/Cataclysm-DDA/pull/55669))
+* More material breathabilities and better naming ([#55662](https://github.com/CleverRaven/Cataclysm-DDA/pull/55662))
+* Improved faction camp emergency recall UI ([#55659](https://github.com/CleverRaven/Cataclysm-DDA/pull/55659))
 * Arcade appliance ([#55632](https://github.com/CleverRaven/Cataclysm-DDA/pull/55632))
 * Remove gavel joke in gravel description ([#55688](https://github.com/CleverRaven/Cataclysm-DDA/pull/55688))
 * Large building scenario adjustments ([#55809](https://github.com/CleverRaven/Cataclysm-DDA/pull/55809))
@@ -55,12 +60,6 @@
 * NPC talk menu: arrow key navigation & highlighting ([#55763](https://github.com/CleverRaven/Cataclysm-DDA/pull/55763))
 * Overhauls chances of good or bad mutations ([#55743](https://github.com/CleverRaven/Cataclysm-DDA/pull/55743))
 * EOC Queue fix ([#55726](https://github.com/CleverRaven/Cataclysm-DDA/pull/55726))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-04-0407 ([d63fc9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-04-0407))
-
-* TropiCata: Birds Galore ([#55610](https://github.com/CleverRaven/Cataclysm-DDA/pull/55610))
 * Fixed mech placement in lab finale ([#55696](https://github.com/CleverRaven/Cataclysm-DDA/pull/55696))
 * Don't delete all savegames in a world when retrying to find a suitable location ([#55695](https://github.com/CleverRaven/Cataclysm-DDA/pull/55695))
 
@@ -168,12 +167,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-02-25-0917 ([74f3b56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-0917))
-
-* Mapgen improvements, location override, fixes/improvements to portal storm cell effect ([#55614](https://github.com/CleverRaven/Cataclysm-DDA/pull/55614))
-
----
-
 #### Cataclysm-DDA experimental build 2022-02-25-0816 ([8fe4bd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-0816))
 
 * Migrate ACT_CHURN to the new activity actor system. ([#55639](https://github.com/CleverRaven/Cataclysm-DDA/pull/55639))
@@ -188,10 +181,3 @@
 * Adjust primers recipes ([#55618](https://github.com/CleverRaven/Cataclysm-DDA/pull/55618))
 * Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
 * Rat Cave loot ([#55617](https://github.com/CleverRaven/Cataclysm-DDA/pull/55617))
-* added ALLOW_TERRAIN_UNDER_OTHER_DATA to version 2 base/expansions ([#55612](https://github.com/CleverRaven/Cataclysm-DDA/pull/55612))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-24-0712 ([43cc367](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-24-0712))
-
-* Make furniture fridge easy to turn into fridge item ([#55615](https://github.com/CleverRaven/Cataclysm-DDA/pull/55615))
