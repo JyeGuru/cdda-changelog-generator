@@ -1,3 +1,4 @@
+* Challenge mod: Deadly Zombie Virus (#55707)
 
 Cataclysm-DDA experimental build 2022-03-04-0512 (1062753)
 * Robofac Poncho Increased Volume Pockets (#55706)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2022-02-23-0614 (8f8e2b4)
 Cataclysm-DDA experimental build 2022-02-22-1014 (30df995)
 * Add filthy flag to CBMs from zomborgs (#55576)
 * Remove climate control kit from nomad harness (#55565)
-* Added holster info to pockets (#55548)
 * Give firefigher and police belts defined thickness (#55557)
 * Removed the Talon From Collapsed Tower (#55561)
 * Waterproof smartphone case (#55558)

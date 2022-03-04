@@ -1,3 +1,4 @@
+* Challenge mod: Deadly Zombie Virus ([#55707](https://github.com/CleverRaven/Cataclysm-DDA/pull/55707))
 
 ---
 
@@ -193,7 +194,6 @@
 
 * Add filthy flag to CBMs from zomborgs ([#55576](https://github.com/CleverRaven/Cataclysm-DDA/pull/55576))
 * Remove climate control kit from nomad harness ([#55565](https://github.com/CleverRaven/Cataclysm-DDA/pull/55565))
-* Added holster info to pockets ([#55548](https://github.com/CleverRaven/Cataclysm-DDA/pull/55548))
 * Give firefigher and police belts defined thickness ([#55557](https://github.com/CleverRaven/Cataclysm-DDA/pull/55557))
 * Removed the Talon From Collapsed Tower ([#55561](https://github.com/CleverRaven/Cataclysm-DDA/pull/55561))
 * Waterproof smartphone case ([#55558](https://github.com/CleverRaven/Cataclysm-DDA/pull/55558))
