@@ -1,3 +1,26 @@
+* Changed the wording in the miss recovery technique description ([#55772](https://github.com/CleverRaven/Cataclysm-DDA/pull/55772))
+* Made survivor chef, pizzaiolo and foodperson don't investigate noises in restaurants they've hidden in ([#55769](https://github.com/CleverRaven/Cataclysm-DDA/pull/55769))
+* Add missing species whitelist and blacklist behaviour ([#55766](https://github.com/CleverRaven/Cataclysm-DDA/pull/55766))
+* Alpha Metamorphosis does intended damage ([#55761](https://github.com/CleverRaven/Cataclysm-DDA/pull/55761))
+* maces get wblock_1 ([#55759](https://github.com/CleverRaven/Cataclysm-DDA/pull/55759))
+* Tileset update 2022-02-28 ([#55757](https://github.com/CleverRaven/Cataclysm-DDA/pull/55757))
+* Partial update to martial arts and magic weapons ([#55756](https://github.com/CleverRaven/Cataclysm-DDA/pull/55756))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-04-0627 ([a6702c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-04-0627))
+
+* Adds info about Holsters to the inventory UI ([#55755](https://github.com/CleverRaven/Cataclysm-DDA/pull/55755))
+* Limited most map extras to 0 z-level ([#55754](https://github.com/CleverRaven/Cataclysm-DDA/pull/55754))
+* Link to libncursesw in Makefile ([#55753](https://github.com/CleverRaven/Cataclysm-DDA/pull/55753))
+* Fix comestible (corn cob) transformation ([#55750](https://github.com/CleverRaven/Cataclysm-DDA/pull/55750))
+* e-ink tablet (on) now has WATCH flag ([#55747](https://github.com/CleverRaven/Cataclysm-DDA/pull/55747))
+* improved dialog companion mission UI ([#55746](https://github.com/CleverRaven/Cataclysm-DDA/pull/55746))
+* Fix heavy dry cell material error ([#55740](https://github.com/CleverRaven/Cataclysm-DDA/pull/55740))
+* Consistently show merch cost in conversation ([#55737](https://github.com/CleverRaven/Cataclysm-DDA/pull/55737))
+* ci: basic pr auto labeler ([#55736](https://github.com/CleverRaven/Cataclysm-DDA/pull/55736))
+* Add context to Fish action ([#55793](https://github.com/CleverRaven/Cataclysm-DDA/pull/55793))
+* Fix lit molotov weight, volume, and length ([#55733](https://github.com/CleverRaven/Cataclysm-DDA/pull/55733))
 * Add missing vector include ([#55728](https://github.com/CleverRaven/Cataclysm-DDA/pull/55728))
 * Increased Missions menu UI size ([#55724](https://github.com/CleverRaven/Cataclysm-DDA/pull/55724))
 * Remove deep water hidden below sand and clay mounds ([#55723](https://github.com/CleverRaven/Cataclysm-DDA/pull/55723))
@@ -170,16 +193,6 @@
 * Keep pickle and sauerkraut charges consistent with the jar they are in ([#55584](https://github.com/CleverRaven/Cataclysm-DDA/pull/55584))
 * Add option to take down appliances ([#55583](https://github.com/CleverRaven/Cataclysm-DDA/pull/55583))
 * Limbs, gloves, and boots cleanup ([#55582](https://github.com/CleverRaven/Cataclysm-DDA/pull/55582))
-* Make ballistic plates less fragile ([#55581](https://github.com/CleverRaven/Cataclysm-DDA/pull/55581))
-* Fix crash in debug menu when selecting only active effects ([#55580](https://github.com/CleverRaven/Cataclysm-DDA/pull/55580))
-* Limbs: Convert limb types to a weighted list ([#55579](https://github.com/CleverRaven/Cataclysm-DDA/pull/55579))
-* Made Hub HWP mag sizes more realistic ([#55578](https://github.com/CleverRaven/Cataclysm-DDA/pull/55578))
-* remove redundant white space in firing mode strings ([#55577](https://github.com/CleverRaven/Cataclysm-DDA/pull/55577))
-* Improve astyle-check message ([#55574](https://github.com/CleverRaven/Cataclysm-DDA/pull/55574))
-* Add reinforced/upgraded solar panels as appliances ([#55573](https://github.com/CleverRaven/Cataclysm-DDA/pull/55573))
-* Add abandoned house palette, add new variable parameters for houses ([#55570](https://github.com/CleverRaven/Cataclysm-DDA/pull/55570))
-* Build fire ring underground ([#55569](https://github.com/CleverRaven/Cataclysm-DDA/pull/55569))
-* Fixed description mismatch for brown bread and wheat-free brown bread ([#55567](https://github.com/CleverRaven/Cataclysm-DDA/pull/55567))
 
 ---
 
@@ -192,21 +205,3 @@
 #### Cataclysm-DDA experimental build 2022-02-23-0614 ([8f8e2b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-23-0614))
 
 * Give military flight suit repairs like value ([#55599](https://github.com/CleverRaven/Cataclysm-DDA/pull/55599))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-22-1014 ([30df995](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-22-1014))
-
-* Add filthy flag to CBMs from zomborgs ([#55576](https://github.com/CleverRaven/Cataclysm-DDA/pull/55576))
-* Remove climate control kit from nomad harness ([#55565](https://github.com/CleverRaven/Cataclysm-DDA/pull/55565))
-* Give firefigher and police belts defined thickness ([#55557](https://github.com/CleverRaven/Cataclysm-DDA/pull/55557))
-* Removed the Talon From Collapsed Tower ([#55561](https://github.com/CleverRaven/Cataclysm-DDA/pull/55561))
-* Waterproof smartphone case ([#55558](https://github.com/CleverRaven/Cataclysm-DDA/pull/55558))
-* Hide toggle minimap hint if no keys are bound to it ([#55562](https://github.com/CleverRaven/Cataclysm-DDA/pull/55562))
-* Re-add lost meats to meat_nofish recipes ([#55559](https://github.com/CleverRaven/Cataclysm-DDA/pull/55559))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-21-1404 ([6c74cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1404))
-
-* Add leather jacket uncraft recipe ([#55560](https://github.com/CleverRaven/Cataclysm-DDA/pull/55560))
