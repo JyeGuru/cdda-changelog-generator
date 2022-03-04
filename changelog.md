@@ -1,3 +1,19 @@
+* Arcade appliance ([#55632](https://github.com/CleverRaven/Cataclysm-DDA/pull/55632))
+* Remove gavel joke in gravel description ([#55688](https://github.com/CleverRaven/Cataclysm-DDA/pull/55688))
+* Large building scenario adjustments ([#55809](https://github.com/CleverRaven/Cataclysm-DDA/pull/55809))
+* copy fix for hub anchor ([#55808](https://github.com/CleverRaven/Cataclysm-DDA/pull/55808))
+* Make the graphical overmap mod into a tileset overmap ([#55807](https://github.com/CleverRaven/Cataclysm-DDA/pull/55807))
+* Fix spawns for hunting archery gear ([#55805](https://github.com/CleverRaven/Cataclysm-DDA/pull/55805))
+* Second Skin Materials Fixes ([#55804](https://github.com/CleverRaven/Cataclysm-DDA/pull/55804))
+* Stocks, stock accessories, new C++ handling for Folding Stocks ([#55802](https://github.com/CleverRaven/Cataclysm-DDA/pull/55802))
+* [WIP] Option to use Grass Sheets for Door Curtains ([#55792](https://github.com/CleverRaven/Cataclysm-DDA/pull/55792))
+* Add 'Heated Tank' vehicle part ([#55791](https://github.com/CleverRaven/Cataclysm-DDA/pull/55791))
+* perf: restore and use old astyle check ([#55788](https://github.com/CleverRaven/Cataclysm-DDA/pull/55788))
+* fix: extra space in eat menu ([#55786](https://github.com/CleverRaven/Cataclysm-DDA/pull/55786))
+* NPC EOC deactivate condition fix ([#55785](https://github.com/CleverRaven/Cataclysm-DDA/pull/55785))
+* Reduce moves to loot mres, ifaks, first aids ([#55784](https://github.com/CleverRaven/Cataclysm-DDA/pull/55784))
+* Extract module image base address to correctly produce stack trace ([#55782](https://github.com/CleverRaven/Cataclysm-DDA/pull/55782))
+* Changing paintball from stab to bash ([#55774](https://github.com/CleverRaven/Cataclysm-DDA/pull/55774))
 * Changed the wording in the miss recovery technique description ([#55772](https://github.com/CleverRaven/Cataclysm-DDA/pull/55772))
 * Made survivor chef, pizzaiolo and foodperson don't investigate noises in restaurants they've hidden in ([#55769](https://github.com/CleverRaven/Cataclysm-DDA/pull/55769))
 * Add missing species whitelist and blacklist behaviour ([#55766](https://github.com/CleverRaven/Cataclysm-DDA/pull/55766))
@@ -170,38 +186,12 @@
 * Fridges shouldn't hold liquids anymore.  ([#55621](https://github.com/CleverRaven/Cataclysm-DDA/pull/55621))
 * Added NANOFAB templates with single use ([#55620](https://github.com/CleverRaven/Cataclysm-DDA/pull/55620))
 * Adjust primers recipes ([#55618](https://github.com/CleverRaven/Cataclysm-DDA/pull/55618))
-* replace welding googles with whole set of welding gear ([#55597](https://github.com/CleverRaven/Cataclysm-DDA/pull/55597))
 * Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
 * Rat Cave loot ([#55617](https://github.com/CleverRaven/Cataclysm-DDA/pull/55617))
 * added ALLOW_TERRAIN_UNDER_OTHER_DATA to version 2 base/expansions ([#55612](https://github.com/CleverRaven/Cataclysm-DDA/pull/55612))
-* Fix the compile error in the MinGW test ([#55609](https://github.com/CleverRaven/Cataclysm-DDA/pull/55609))
-* Fixes for multi material damage rolls ([#55607](https://github.com/CleverRaven/Cataclysm-DDA/pull/55607))
-* Remove hp-based "bloodloss" chilling for limbs ([#55601](https://github.com/CleverRaven/Cataclysm-DDA/pull/55601))
-* Check for duplicate (same id) item definitions from the same mod  ([#55600](https://github.com/CleverRaven/Cataclysm-DDA/pull/55600))
-* Misc mapgen edits ([#55598](https://github.com/CleverRaven/Cataclysm-DDA/pull/55598))
-* Add clay oil lamp ([#55596](https://github.com/CleverRaven/Cataclysm-DDA/pull/55596))
-* Adds improvised wool and nomex sock mitts ([#55593](https://github.com/CleverRaven/Cataclysm-DDA/pull/55593))
-* Update black powder and formic acid recipe ([#55592](https://github.com/CleverRaven/Cataclysm-DDA/pull/55592))
-* Rework of mission handling ([#55591](https://github.com/CleverRaven/Cataclysm-DDA/pull/55591))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-25-0713 ([05bed4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-0713))
-
-* Remove ability of spike pit to spawn on hostile LMOE entry stairs ([#55586](https://github.com/CleverRaven/Cataclysm-DDA/pull/55586))
-* Have single malt whiskey spawn in glass bottles ([#55585](https://github.com/CleverRaven/Cataclysm-DDA/pull/55585))
-* Keep pickle and sauerkraut charges consistent with the jar they are in ([#55584](https://github.com/CleverRaven/Cataclysm-DDA/pull/55584))
-* Add option to take down appliances ([#55583](https://github.com/CleverRaven/Cataclysm-DDA/pull/55583))
-* Limbs, gloves, and boots cleanup ([#55582](https://github.com/CleverRaven/Cataclysm-DDA/pull/55582))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-02-24-0712 ([43cc367](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-24-0712))
 
 * Make furniture fridge easy to turn into fridge item ([#55615](https://github.com/CleverRaven/Cataclysm-DDA/pull/55615))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-23-0614 ([8f8e2b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-23-0614))
-
-* Give military flight suit repairs like value ([#55599](https://github.com/CleverRaven/Cataclysm-DDA/pull/55599))
