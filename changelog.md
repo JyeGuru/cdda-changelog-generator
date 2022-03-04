@@ -1,3 +1,5 @@
+* Robofac Poncho Increased Volume Pockets ([#55706](https://github.com/CleverRaven/Cataclysm-DDA/pull/55706))
+* Add glass goggles ([#55705](https://github.com/CleverRaven/Cataclysm-DDA/pull/55705))
 * added extension chords ([#55702](https://github.com/CleverRaven/Cataclysm-DDA/pull/55702))
 * NPC talk menu: arrow key navigation & highlighting ([#55763](https://github.com/CleverRaven/Cataclysm-DDA/pull/55763))
 * Overhauls chances of good or bad mutations ([#55743](https://github.com/CleverRaven/Cataclysm-DDA/pull/55743))
@@ -201,6 +203,4 @@
 #### Cataclysm-DDA experimental build 2022-02-21-1404 ([6c74cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1404))
 
 * Add leather jacket uncraft recipe ([#55560](https://github.com/CleverRaven/Cataclysm-DDA/pull/55560))
-* add 1st_aid_box to neodays ([#55547](https://github.com/CleverRaven/Cataclysm-DDA/pull/55547))
 * hosptial -> hospital ([#55553](https://github.com/CleverRaven/Cataclysm-DDA/pull/55553))
-* fix sabatons having two left feet ([#55545](https://github.com/CleverRaven/Cataclysm-DDA/pull/55545))
