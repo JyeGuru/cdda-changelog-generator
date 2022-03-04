@@ -1,3 +1,13 @@
+* added extension chords ([#55702](https://github.com/CleverRaven/Cataclysm-DDA/pull/55702))
+* NPC talk menu: arrow key navigation & highlighting ([#55763](https://github.com/CleverRaven/Cataclysm-DDA/pull/55763))
+* Overhauls chances of good or bad mutations ([#55743](https://github.com/CleverRaven/Cataclysm-DDA/pull/55743))
+* EOC Queue fix ([#55726](https://github.com/CleverRaven/Cataclysm-DDA/pull/55726))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-04-0407 ([d63fc9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-04-0407))
+
+* TropiCata: Birds Galore ([#55610](https://github.com/CleverRaven/Cataclysm-DDA/pull/55610))
 * Fixed mech placement in lab finale ([#55696](https://github.com/CleverRaven/Cataclysm-DDA/pull/55696))
 * Don't delete all savegames in a world when retrying to find a suitable location ([#55695](https://github.com/CleverRaven/Cataclysm-DDA/pull/55695))
 
@@ -175,12 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-02-22-1014 ([30df995](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-22-1014))
 
 * Add filthy flag to CBMs from zomborgs ([#55576](https://github.com/CleverRaven/Cataclysm-DDA/pull/55576))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-21-2034 ([a139c2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-2034))
-
-* Misc. fixes for vehicle part variants ([#55543](https://github.com/CleverRaven/Cataclysm-DDA/pull/55543))
 * Remove climate control kit from nomad harness ([#55565](https://github.com/CleverRaven/Cataclysm-DDA/pull/55565))
 * Added holster info to pockets ([#55548](https://github.com/CleverRaven/Cataclysm-DDA/pull/55548))
 * Give firefigher and police belts defined thickness ([#55557](https://github.com/CleverRaven/Cataclysm-DDA/pull/55557))
@@ -197,15 +201,6 @@
 #### Cataclysm-DDA experimental build 2022-02-21-1404 ([6c74cc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-1404))
 
 * Add leather jacket uncraft recipe ([#55560](https://github.com/CleverRaven/Cataclysm-DDA/pull/55560))
-* strait -> straight ([#55537](https://github.com/CleverRaven/Cataclysm-DDA/pull/55537))
-* [AFS] fix some typos ([#55539](https://github.com/CleverRaven/Cataclysm-DDA/pull/55539))
-* chestrig → chest rig ([#55542](https://github.com/CleverRaven/Cataclysm-DDA/pull/55542))
-* Add dialog functions for portal storm doors opening/closing and being taken away briefly. ([#55538](https://github.com/CleverRaven/Cataclysm-DDA/pull/55538))
 * add 1st_aid_box to neodays ([#55547](https://github.com/CleverRaven/Cataclysm-DDA/pull/55547))
 * hosptial -> hospital ([#55553](https://github.com/CleverRaven/Cataclysm-DDA/pull/55553))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-21-0612 ([de5b5f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-21-0612))
-
 * fix sabatons having two left feet ([#55545](https://github.com/CleverRaven/Cataclysm-DDA/pull/55545))
