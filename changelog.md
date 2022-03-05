@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-05-0704 ([bd61d70](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-05-0704))
+
+* Restore millability of cattail rhizomes which was accidentally removed some time ago ([#55814](https://github.com/CleverRaven/Cataclysm-DDA/pull/55814))
 * Fix syntax error in pull request labeller workflow ([#55818](https://github.com/CleverRaven/Cataclysm-DDA/pull/55818))
 
 ---
