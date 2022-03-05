@@ -1,3 +1,10 @@
+* Fix syntax error in pull request labeller workflow ([#55818](https://github.com/CleverRaven/Cataclysm-DDA/pull/55818))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-05-0050 ([3f48036](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-05-0050))
+
+* Remove redundant parentheses in item_contents.cpp ([#55817](https://github.com/CleverRaven/Cataclysm-DDA/pull/55817))
 
 ---
 
@@ -183,6 +190,4 @@
 * Updated Armor info in FAQ ([#55623](https://github.com/CleverRaven/Cataclysm-DDA/pull/55623))
 * Fridges shouldn't hold liquids anymore.  ([#55621](https://github.com/CleverRaven/Cataclysm-DDA/pull/55621))
 * Added NANOFAB templates with single use ([#55620](https://github.com/CleverRaven/Cataclysm-DDA/pull/55620))
-* Adjust primers recipes ([#55618](https://github.com/CleverRaven/Cataclysm-DDA/pull/55618))
 * Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
-* Rat Cave loot ([#55617](https://github.com/CleverRaven/Cataclysm-DDA/pull/55617))

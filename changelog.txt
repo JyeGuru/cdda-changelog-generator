@@ -1,3 +1,7 @@
+* Fix syntax error in pull request labeller workflow (#55818)
+
+Cataclysm-DDA experimental build 2022-03-05-0050 (3f48036)
+* Remove redundant parentheses in item_contents.cpp (#55817)
 
 Cataclysm-DDA experimental build 2022-03-04-0748 (2250560)
 * Replace hard steel with tempered steel (#55648)
@@ -129,6 +133,4 @@ Cataclysm-DDA experimental build 2022-02-25-0816 (8fe4bd5)
 * Updated Armor info in FAQ (#55623)
 * Fridges shouldn't hold liquids anymore.  (#55621)
 * Added NANOFAB templates with single use (#55620)
-* Adjust primers recipes (#55618)
 * Removed doubling number of current expansions when checking if more expansions are possible. (#55650)
-* Rat Cave loot (#55617)
