@@ -195,5 +195,4 @@
 * (tropicata): fix some typos ([#55624](https://github.com/CleverRaven/Cataclysm-DDA/pull/55624))
 * Updated Armor info in FAQ ([#55623](https://github.com/CleverRaven/Cataclysm-DDA/pull/55623))
 * Fridges shouldn't hold liquids anymore.  ([#55621](https://github.com/CleverRaven/Cataclysm-DDA/pull/55621))
-* Added NANOFAB templates with single use ([#55620](https://github.com/CleverRaven/Cataclysm-DDA/pull/55620))
 * Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
