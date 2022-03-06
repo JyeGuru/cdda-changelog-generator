@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-03-06-0604 (cc9ccc4)
+* composition b → composition B (#55858)
+
 Cataclysm-DDA experimental build 2022-03-05-0704 (bd61d70)
 * Restore millability of cattail rhizomes which was accidentally removed some time ago (#55814)
 * Fix syntax error in pull request labeller workflow (#55818)
@@ -134,5 +137,4 @@ Cataclysm-DDA experimental build 2022-02-25-0816 (8fe4bd5)
 * Balance weak/strong mixed alcohol when crafting ethanol (#55630)
 * (tropicata): fix some typos (#55624)
 * Updated Armor info in FAQ (#55623)
-* Fridges shouldn't hold liquids anymore.  (#55621)
 * Removed doubling number of current expansions when checking if more expansions are possible. (#55650)

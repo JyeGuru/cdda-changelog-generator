@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-06-0604 ([cc9ccc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-06-0604))
+
+* composition b → composition B ([#55858](https://github.com/CleverRaven/Cataclysm-DDA/pull/55858))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-05-0704 ([bd61d70](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-05-0704))
 
 * Restore millability of cattail rhizomes which was accidentally removed some time ago ([#55814](https://github.com/CleverRaven/Cataclysm-DDA/pull/55814))
@@ -194,5 +200,4 @@
 * Balance weak/strong mixed alcohol when crafting ethanol ([#55630](https://github.com/CleverRaven/Cataclysm-DDA/pull/55630))
 * (tropicata): fix some typos ([#55624](https://github.com/CleverRaven/Cataclysm-DDA/pull/55624))
 * Updated Armor info in FAQ ([#55623](https://github.com/CleverRaven/Cataclysm-DDA/pull/55623))
-* Fridges shouldn't hold liquids anymore.  ([#55621](https://github.com/CleverRaven/Cataclysm-DDA/pull/55621))
 * Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
