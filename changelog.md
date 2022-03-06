@@ -193,5 +193,4 @@
 * Fix some plurals and fix json loading encoding in `get_all_mods.py` ([#55634](https://github.com/CleverRaven/Cataclysm-DDA/pull/55634))
 * Balance weak/strong mixed alcohol when crafting ethanol ([#55630](https://github.com/CleverRaven/Cataclysm-DDA/pull/55630))
 * (tropicata): fix some typos ([#55624](https://github.com/CleverRaven/Cataclysm-DDA/pull/55624))
-* Updated Armor info in FAQ ([#55623](https://github.com/CleverRaven/Cataclysm-DDA/pull/55623))
 * Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
