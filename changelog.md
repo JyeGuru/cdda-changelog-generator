@@ -1,3 +1,4 @@
+* fix: label bot uses existing labels ([#55828](https://github.com/CleverRaven/Cataclysm-DDA/pull/55828))
 
 ---
 
@@ -202,5 +203,4 @@
 * Include build number in windows debug report ([#55646](https://github.com/CleverRaven/Cataclysm-DDA/pull/55646))
 * Modernize Armor For Phase Immersion Suit ([#55641](https://github.com/CleverRaven/Cataclysm-DDA/pull/55641))
 * Fix some plurals and fix json loading encoding in `get_all_mods.py` ([#55634](https://github.com/CleverRaven/Cataclysm-DDA/pull/55634))
-* Balance weak/strong mixed alcohol when crafting ethanol ([#55630](https://github.com/CleverRaven/Cataclysm-DDA/pull/55630))
 * Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
