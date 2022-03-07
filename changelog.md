@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-07-0605 ([fd0520e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-07-0605))
+
+* Fix mapgen test errors ([#55810](https://github.com/CleverRaven/Cataclysm-DDA/pull/55810))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-06-0604 ([cc9ccc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-06-0604))
 
 * composition b → composition B ([#55858](https://github.com/CleverRaven/Cataclysm-DDA/pull/55858))
@@ -192,5 +198,4 @@
 * Modernize Armor For Phase Immersion Suit ([#55641](https://github.com/CleverRaven/Cataclysm-DDA/pull/55641))
 * Fix some plurals and fix json loading encoding in `get_all_mods.py` ([#55634](https://github.com/CleverRaven/Cataclysm-DDA/pull/55634))
 * Balance weak/strong mixed alcohol when crafting ethanol ([#55630](https://github.com/CleverRaven/Cataclysm-DDA/pull/55630))
-* (tropicata): fix some typos ([#55624](https://github.com/CleverRaven/Cataclysm-DDA/pull/55624))
 * Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
