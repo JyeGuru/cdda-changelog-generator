@@ -40,7 +40,6 @@
 * Removed force_unarmed from Taekwondo ([#55669](https://github.com/CleverRaven/Cataclysm-DDA/pull/55669))
 * More material breathabilities and better naming ([#55662](https://github.com/CleverRaven/Cataclysm-DDA/pull/55662))
 * Improved faction camp emergency recall UI ([#55659](https://github.com/CleverRaven/Cataclysm-DDA/pull/55659))
-* Arcade appliance ([#55632](https://github.com/CleverRaven/Cataclysm-DDA/pull/55632))
 * Remove gavel joke in gravel description ([#55688](https://github.com/CleverRaven/Cataclysm-DDA/pull/55688))
 * Large building scenario adjustments ([#55809](https://github.com/CleverRaven/Cataclysm-DDA/pull/55809))
 * copy fix for hub anchor ([#55808](https://github.com/CleverRaven/Cataclysm-DDA/pull/55808))
