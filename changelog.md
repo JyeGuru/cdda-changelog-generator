@@ -1,3 +1,4 @@
+* Remove extra space ([#55901](https://github.com/CleverRaven/Cataclysm-DDA/pull/55901))
 
 ---
 
@@ -123,7 +124,6 @@
 * Spawn monsters in dojos. ([#55663](https://github.com/CleverRaven/Cataclysm-DDA/pull/55663))
 * NPCs shouldn't investigate base camp animals ([#55653](https://github.com/CleverRaven/Cataclysm-DDA/pull/55653))
 * [Innawood] Nerf portal storms ([#55644](https://github.com/CleverRaven/Cataclysm-DDA/pull/55644))
-* Refactor npctalk.h to avoid dynamic_cast ([#55627](https://github.com/CleverRaven/Cataclysm-DDA/pull/55627))
 * Few misc item fixes ([#55664](https://github.com/CleverRaven/Cataclysm-DDA/pull/55664))
 
 ---
