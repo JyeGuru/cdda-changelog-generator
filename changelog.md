@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-07-0703 ([48260d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-07-0703))
+
 * Remove extra space ([#55901](https://github.com/CleverRaven/Cataclysm-DDA/pull/55901))
 
 ---
