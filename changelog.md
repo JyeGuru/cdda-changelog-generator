@@ -16,18 +16,8 @@
 #### Cataclysm-DDA experimental build 2022-03-06-0604 ([cc9ccc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-06-0604))
 
 * composition b → composition B ([#55858](https://github.com/CleverRaven/Cataclysm-DDA/pull/55858))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-05-0704 ([bd61d70](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-05-0704))
-
 * Restore millability of cattail rhizomes which was accidentally removed some time ago ([#55814](https://github.com/CleverRaven/Cataclysm-DDA/pull/55814))
 * Fix syntax error in pull request labeller workflow ([#55818](https://github.com/CleverRaven/Cataclysm-DDA/pull/55818))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-05-0050 ([3f48036](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-05-0050))
-
 * Remove redundant parentheses in item_contents.cpp ([#55817](https://github.com/CleverRaven/Cataclysm-DDA/pull/55817))
 
 ---
@@ -62,11 +52,6 @@
 * maces get wblock_1 ([#55759](https://github.com/CleverRaven/Cataclysm-DDA/pull/55759))
 * Tileset update 2022-02-28 ([#55757](https://github.com/CleverRaven/Cataclysm-DDA/pull/55757))
 * Partial update to martial arts and magic weapons ([#55756](https://github.com/CleverRaven/Cataclysm-DDA/pull/55756))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-04-0627 ([a6702c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-04-0627))
-
 * Adds info about Holsters to the inventory UI ([#55755](https://github.com/CleverRaven/Cataclysm-DDA/pull/55755))
 * Limited most map extras to 0 z-level ([#55754](https://github.com/CleverRaven/Cataclysm-DDA/pull/55754))
 * Link to libncursesw in Makefile ([#55753](https://github.com/CleverRaven/Cataclysm-DDA/pull/55753))
@@ -110,11 +95,6 @@
 #### Cataclysm-DDA experimental build 2022-03-03-0603 ([e0ad823](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-0603))
 
 * bugfix-55778 ([#55787](https://github.com/CleverRaven/Cataclysm-DDA/pull/55787))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-03-0253 ([3046771](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-0253))
-
 * Don't make NPC angry if he's already dead ([#55689](https://github.com/CleverRaven/Cataclysm-DDA/pull/55689))
 * make pen reloadable fix #55357 ([#55687](https://github.com/CleverRaven/Cataclysm-DDA/pull/55687))
 * Homogenize cabin side pond water - Fix for 55682 ([#55684](https://github.com/CleverRaven/Cataclysm-DDA/pull/55684))
@@ -142,17 +122,7 @@
 #### Cataclysm-DDA experimental build 2022-03-01-1429 ([d8bff3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-01-1429))
 
 * Cooked liver is not nasty ([#55758](https://github.com/CleverRaven/Cataclysm-DDA/pull/55758))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-28-0721 ([f8b23b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-28-0721))
-
 * contractable -> contractible ([#55734](https://github.com/CleverRaven/Cataclysm-DDA/pull/55734))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-27-1338 ([f7c92b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-27-1338))
-
 * green house -> greenhouse ([#55698](https://github.com/CleverRaven/Cataclysm-DDA/pull/55698))
 
 ---
@@ -166,11 +136,6 @@
 #### Cataclysm-DDA experimental build 2022-02-26-1302 ([6cea46d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-1302))
 
 * Routine i18n updates on 26 February 2022 ([#55683](https://github.com/CleverRaven/Cataclysm-DDA/pull/55683))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-26-0227 ([d9840e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-0227))
-
 * Fix sugar people melting ([#55676](https://github.com/CleverRaven/Cataclysm-DDA/pull/55676))
 
 ---
