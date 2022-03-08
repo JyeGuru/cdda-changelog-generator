@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-08-1811 ([b6afc5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-08-1811))
+
 * Spelling fixes ([#55748](https://github.com/CleverRaven/Cataclysm-DDA/pull/55748))
 * Fix bow_stabilizer_set ([#55813](https://github.com/CleverRaven/Cataclysm-DDA/pull/55813))
 * fixed odd question mark ([#55824](https://github.com/CleverRaven/Cataclysm-DDA/pull/55824))
