@@ -1,3 +1,14 @@
+* Fix double space between Mrs. Claus ([#55884](https://github.com/CleverRaven/Cataclysm-DDA/pull/55884))
+* fix wrong non_functional for one of the migo plates ([#55942](https://github.com/CleverRaven/Cataclysm-DDA/pull/55942))
+* Fix the double definition bug ([#55938](https://github.com/CleverRaven/Cataclysm-DDA/pull/55938))
+* Remove _ from a visible item ([#55897](https://github.com/CleverRaven/Cataclysm-DDA/pull/55897))
+* picatinny → Picatinny ([#55899](https://github.com/CleverRaven/Cataclysm-DDA/pull/55899))
+* Improves Innawood, Aftershock, and Magiclysm interactions with flags ([#55906](https://github.com/CleverRaven/Cataclysm-DDA/pull/55906))
+* Automatically post a warning comment when translation files are changed ([#55922](https://github.com/CleverRaven/Cataclysm-DDA/pull/55922))
+* fix typo in football hobby description ([#55946](https://github.com/CleverRaven/Cataclysm-DDA/pull/55946))
+* Consistently spell bubble wrap ([#55948](https://github.com/CleverRaven/Cataclysm-DDA/pull/55948))
+* fix: minor edit to rubik's '**' use ([#55827](https://github.com/CleverRaven/Cataclysm-DDA/pull/55827))
+* Routine i18n updates on 05 March 2022 ([#55825](https://github.com/CleverRaven/Cataclysm-DDA/pull/55825))
 * Speling: Innert -> Inert ([#55731](https://github.com/CleverRaven/Cataclysm-DDA/pull/55731))
 * Clean up itemgroups for mutagens in CRIT ([#55873](https://github.com/CleverRaven/Cataclysm-DDA/pull/55873))
 * SPAS 12 → SPAS-12 ([#55898](https://github.com/CleverRaven/Cataclysm-DDA/pull/55898))
@@ -69,7 +80,6 @@
 
 * Remove redundant parentheses in item_contents.cpp ([#55817](https://github.com/CleverRaven/Cataclysm-DDA/pull/55817))
 * Artifact move cost mod multiplicative instead of additive ([#55708](https://github.com/CleverRaven/Cataclysm-DDA/pull/55708))
-* Remove gavel joke in gravel description ([#55688](https://github.com/CleverRaven/Cataclysm-DDA/pull/55688))
 * Large building scenario adjustments ([#55809](https://github.com/CleverRaven/Cataclysm-DDA/pull/55809))
 * copy fix for hub anchor ([#55808](https://github.com/CleverRaven/Cataclysm-DDA/pull/55808))
 * Make the graphical overmap mod into a tileset overmap ([#55807](https://github.com/CleverRaven/Cataclysm-DDA/pull/55807))
@@ -125,35 +135,12 @@
 * NPC talk menu: arrow key navigation & highlighting ([#55763](https://github.com/CleverRaven/Cataclysm-DDA/pull/55763))
 * Overhauls chances of good or bad mutations ([#55743](https://github.com/CleverRaven/Cataclysm-DDA/pull/55743))
 * EOC Queue fix ([#55726](https://github.com/CleverRaven/Cataclysm-DDA/pull/55726))
-* Fixed mech placement in lab finale ([#55696](https://github.com/CleverRaven/Cataclysm-DDA/pull/55696))
-* Don't delete all savegames in a world when retrying to find a suitable location ([#55695](https://github.com/CleverRaven/Cataclysm-DDA/pull/55695))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-03-1844 ([50d482d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-1844))
-
-* Add basket fish trap (plastic free) ([#55694](https://github.com/CleverRaven/Cataclysm-DDA/pull/55694))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-03-03-0603 ([e0ad823](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-0603))
 
 * bugfix-55778 ([#55787](https://github.com/CleverRaven/Cataclysm-DDA/pull/55787))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-03-0253 ([3046771](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-0253))
-
-* Don't make NPC angry if he's already dead ([#55689](https://github.com/CleverRaven/Cataclysm-DDA/pull/55689))
-* make pen reloadable fix #55357 ([#55687](https://github.com/CleverRaven/Cataclysm-DDA/pull/55687))
-* Homogenize cabin side pond water - Fix for 55682 ([#55684](https://github.com/CleverRaven/Cataclysm-DDA/pull/55684))
-* Add option and CLI switch to disable title screen ascii art ([#55681](https://github.com/CleverRaven/Cataclysm-DDA/pull/55681))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-01-1530 ([2c922b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-01-1530))
-
-* Magiclysm typos  ([#55692](https://github.com/CleverRaven/Cataclysm-DDA/pull/55692))
 
 ---
 
@@ -172,15 +159,3 @@
 #### Cataclysm-DDA experimental build 2022-02-27-1338 ([f7c92b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-27-1338))
 
 * green house -> greenhouse ([#55698](https://github.com/CleverRaven/Cataclysm-DDA/pull/55698))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-26-2357 ([bedfc51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-2357))
-
-* amalgamation fixes for combined limbs ([#55697](https://github.com/CleverRaven/Cataclysm-DDA/pull/55697))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-26-1302 ([6cea46d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-1302))
-
-* Routine i18n updates on 26 February 2022 ([#55683](https://github.com/CleverRaven/Cataclysm-DDA/pull/55683))
