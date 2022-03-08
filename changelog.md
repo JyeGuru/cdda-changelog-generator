@@ -1,3 +1,32 @@
+* Change _ to space ([#55854](https://github.com/CleverRaven/Cataclysm-DDA/pull/55854))
+* Remove extra space from technique description ([#55849](https://github.com/CleverRaven/Cataclysm-DDA/pull/55849))
+* M1991 → M1911 ([#55895](https://github.com/CleverRaven/Cataclysm-DDA/pull/55895))
+* Add full stop to `walther_p22` description ([#55890](https://github.com/CleverRaven/Cataclysm-DDA/pull/55890))
+* Add full stop to `plastic_straw` description ([#55889](https://github.com/CleverRaven/Cataclysm-DDA/pull/55889))
+* Carbon → carbon ([#55856](https://github.com/CleverRaven/Cataclysm-DDA/pull/55856))
+* Add context to Fior Di Battaglia book ([#55835](https://github.com/CleverRaven/Cataclysm-DDA/pull/55835))
+* Update legacy_artifact_active.json ([#55853](https://github.com/CleverRaven/Cataclysm-DDA/pull/55853))
+* Update traps.json ([#55851](https://github.com/CleverRaven/Cataclysm-DDA/pull/55851))
+* Add comma to a sentence ([#55839](https://github.com/CleverRaven/Cataclysm-DDA/pull/55839))
+* Update help to match the current game state ([#55837](https://github.com/CleverRaven/Cataclysm-DDA/pull/55837))
+* Aluminium → Aluminum ([#55834](https://github.com/CleverRaven/Cataclysm-DDA/pull/55834))
+* magnum → Magnum ([#55857](https://github.com/CleverRaven/Cataclysm-DDA/pull/55857))
+* Fix plural for a loose gameson vest ([#55883](https://github.com/CleverRaven/Cataclysm-DDA/pull/55883))
+* Add full stops to two exoskeletom descriptions ([#55881](https://github.com/CleverRaven/Cataclysm-DDA/pull/55881))
+* Remove double space from pair of santa gloves desc ([#55880](https://github.com/CleverRaven/Cataclysm-DDA/pull/55880))
+* denatonuim → denatonium ([#55860](https://github.com/CleverRaven/Cataclysm-DDA/pull/55860))
+* Change Aftershock fire modes to follow other ([#55879](https://github.com/CleverRaven/Cataclysm-DDA/pull/55879))
+* Remove double full stop ([#55875](https://github.com/CleverRaven/Cataclysm-DDA/pull/55875))
+* pedals → petals ([#55863](https://github.com/CleverRaven/Cataclysm-DDA/pull/55863))
+* Remove double disarmed ([#55862](https://github.com/CleverRaven/Cataclysm-DDA/pull/55862))
+* foodplace → Foodplace ([#55861](https://github.com/CleverRaven/Cataclysm-DDA/pull/55861))
+* goat ([#55870](https://github.com/CleverRaven/Cataclysm-DDA/pull/55870))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-08-1603 ([debe92d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-08-1603))
+
+* [DinoMod] readable name colors ([#55869](https://github.com/CleverRaven/Cataclysm-DDA/pull/55869))
 
 ---
 
@@ -36,16 +65,7 @@
 #### Cataclysm-DDA experimental build 2022-03-05-0050 ([3f48036](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-05-0050))
 
 * Remove redundant parentheses in item_contents.cpp ([#55817](https://github.com/CleverRaven/Cataclysm-DDA/pull/55817))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-04-0748 ([2250560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-04-0748))
-
-* Replace hard steel with tempered steel ([#55648](https://github.com/CleverRaven/Cataclysm-DDA/pull/55648))
 * Artifact move cost mod multiplicative instead of additive ([#55708](https://github.com/CleverRaven/Cataclysm-DDA/pull/55708))
-* Removed force_unarmed from Taekwondo ([#55669](https://github.com/CleverRaven/Cataclysm-DDA/pull/55669))
-* More material breathabilities and better naming ([#55662](https://github.com/CleverRaven/Cataclysm-DDA/pull/55662))
-* Improved faction camp emergency recall UI ([#55659](https://github.com/CleverRaven/Cataclysm-DDA/pull/55659))
 * Remove gavel joke in gravel description ([#55688](https://github.com/CleverRaven/Cataclysm-DDA/pull/55688))
 * Large building scenario adjustments ([#55809](https://github.com/CleverRaven/Cataclysm-DDA/pull/55809))
 * copy fix for hub anchor ([#55808](https://github.com/CleverRaven/Cataclysm-DDA/pull/55808))
@@ -126,16 +146,6 @@
 * Homogenize cabin side pond water - Fix for 55682 ([#55684](https://github.com/CleverRaven/Cataclysm-DDA/pull/55684))
 * Add option and CLI switch to disable title screen ascii art ([#55681](https://github.com/CleverRaven/Cataclysm-DDA/pull/55681))
 * added description for scenario (un)living History ([#55678](https://github.com/CleverRaven/Cataclysm-DDA/pull/55678))
-* Added detailed description for the 'Analyze zombie blood' quest ([#55675](https://github.com/CleverRaven/Cataclysm-DDA/pull/55675))
-* Phase Suit Repairs and Robofac Prototype Reorganize ([#55674](https://github.com/CleverRaven/Cataclysm-DDA/pull/55674))
-* Nano Fabricator Repairs ([#55673](https://github.com/CleverRaven/Cataclysm-DDA/pull/55673))
-* allowed for 3 concurrent camp crafting activities ([#55670](https://github.com/CleverRaven/Cataclysm-DDA/pull/55670))
-* Nerfed bashing damage of quarterstaff, staff sling, and bo ([#55668](https://github.com/CleverRaven/Cataclysm-DDA/pull/55668))
-* Revert #55650 and actually fix the expansion limit for mansions ([#55666](https://github.com/CleverRaven/Cataclysm-DDA/pull/55666))
-* Spawn monsters in dojos. ([#55663](https://github.com/CleverRaven/Cataclysm-DDA/pull/55663))
-* NPCs shouldn't investigate base camp animals ([#55653](https://github.com/CleverRaven/Cataclysm-DDA/pull/55653))
-* [Innawood] Nerf portal storms ([#55644](https://github.com/CleverRaven/Cataclysm-DDA/pull/55644))
-* Few misc item fixes ([#55664](https://github.com/CleverRaven/Cataclysm-DDA/pull/55664))
 
 ---
 
@@ -181,30 +191,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-02-26-0058 ([bc4b99c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-0058))
-
-* Typo name Update 762.json ([#55672](https://github.com/CleverRaven/Cataclysm-DDA/pull/55672))
-
----
-
 #### Cataclysm-DDA experimental build 2022-02-25-2342 ([9f1612e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-2342))
 
 * change bo recipe components ([#55680](https://github.com/CleverRaven/Cataclysm-DDA/pull/55680))
-* [Innawood] Minor spellcheck ([#55657](https://github.com/CleverRaven/Cataclysm-DDA/pull/55657))
-* ruins_4x4_camp: Fix intermittent CI error ([#55636](https://github.com/CleverRaven/Cataclysm-DDA/pull/55636))
-* Add missing break statement in faction_camp.cpp ([#55658](https://github.com/CleverRaven/Cataclysm-DDA/pull/55658))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-25-1515 ([d27e979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-1515))
-
-* Revert "Balance weak/strong mixed alcohol when crafting ethanol" ([#55656](https://github.com/CleverRaven/Cataclysm-DDA/pull/55656))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-25-0816 ([8fe4bd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-0816))
-
-* Migrate ACT_CHURN to the new activity actor system. ([#55639](https://github.com/CleverRaven/Cataclysm-DDA/pull/55639))
-* Include build number in windows debug report ([#55646](https://github.com/CleverRaven/Cataclysm-DDA/pull/55646))
-* Modernize Armor For Phase Immersion Suit ([#55641](https://github.com/CleverRaven/Cataclysm-DDA/pull/55641))
-* Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
