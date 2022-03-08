@@ -1,3 +1,6 @@
+* Speling: Innert -> Inert ([#55731](https://github.com/CleverRaven/Cataclysm-DDA/pull/55731))
+* Clean up itemgroups for mutagens in CRIT ([#55873](https://github.com/CleverRaven/Cataclysm-DDA/pull/55873))
+* SPAS 12 → SPAS-12 ([#55898](https://github.com/CleverRaven/Cataclysm-DDA/pull/55898))
 * Change _ to space ([#55854](https://github.com/CleverRaven/Cataclysm-DDA/pull/55854))
 * Remove extra space from technique description ([#55849](https://github.com/CleverRaven/Cataclysm-DDA/pull/55849))
 * M1991 → M1911 ([#55895](https://github.com/CleverRaven/Cataclysm-DDA/pull/55895))
@@ -145,7 +148,6 @@
 * make pen reloadable fix #55357 ([#55687](https://github.com/CleverRaven/Cataclysm-DDA/pull/55687))
 * Homogenize cabin side pond water - Fix for 55682 ([#55684](https://github.com/CleverRaven/Cataclysm-DDA/pull/55684))
 * Add option and CLI switch to disable title screen ascii art ([#55681](https://github.com/CleverRaven/Cataclysm-DDA/pull/55681))
-* added description for scenario (un)living History ([#55678](https://github.com/CleverRaven/Cataclysm-DDA/pull/55678))
 
 ---
 
@@ -182,15 +184,3 @@
 #### Cataclysm-DDA experimental build 2022-02-26-1302 ([6cea46d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-1302))
 
 * Routine i18n updates on 26 February 2022 ([#55683](https://github.com/CleverRaven/Cataclysm-DDA/pull/55683))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-26-0227 ([d9840e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-26-0227))
-
-* Fix sugar people melting ([#55676](https://github.com/CleverRaven/Cataclysm-DDA/pull/55676))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-25-2342 ([9f1612e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-25-2342))
-
-* change bo recipe components ([#55680](https://github.com/CleverRaven/Cataclysm-DDA/pull/55680))
