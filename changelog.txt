@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-03-08-0607 (8150729)
+* Fixed mix up of requirements for fish traps (#55933)
 * fix: label bot uses existing labels (#55828)
 
 Cataclysm-DDA experimental build 2022-03-07-0703 (48260d3)
@@ -135,5 +138,4 @@ Cataclysm-DDA experimental build 2022-02-25-0816 (8fe4bd5)
 * Migrate ACT_CHURN to the new activity actor system. (#55639)
 * Include build number in windows debug report (#55646)
 * Modernize Armor For Phase Immersion Suit (#55641)
-* Fix some plurals and fix json loading encoding in `get_all_mods.py` (#55634)
 * Removed doubling number of current expansions when checking if more expansions are possible. (#55650)

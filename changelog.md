@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-08-0607 ([8150729](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-08-0607))
+
+* Fixed mix up of requirements for fish traps ([#55933](https://github.com/CleverRaven/Cataclysm-DDA/pull/55933))
 * fix: label bot uses existing labels ([#55828](https://github.com/CleverRaven/Cataclysm-DDA/pull/55828))
 
 ---
@@ -201,5 +207,4 @@
 * Migrate ACT_CHURN to the new activity actor system. ([#55639](https://github.com/CleverRaven/Cataclysm-DDA/pull/55639))
 * Include build number in windows debug report ([#55646](https://github.com/CleverRaven/Cataclysm-DDA/pull/55646))
 * Modernize Armor For Phase Immersion Suit ([#55641](https://github.com/CleverRaven/Cataclysm-DDA/pull/55641))
-* Fix some plurals and fix json loading encoding in `get_all_mods.py` ([#55634](https://github.com/CleverRaven/Cataclysm-DDA/pull/55634))
 * Removed doubling number of current expansions when checking if more expansions are possible. ([#55650](https://github.com/CleverRaven/Cataclysm-DDA/pull/55650))
