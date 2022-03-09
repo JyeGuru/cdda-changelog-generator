@@ -1,3 +1,15 @@
+* Red → red ([#55855](https://github.com/CleverRaven/Cataclysm-DDA/pull/55855))
+* Update altered_object_active.json ([#55852](https://github.com/CleverRaven/Cataclysm-DDA/pull/55852))
+* Update effects.json to title case + minor fixes ([#55848](https://github.com/CleverRaven/Cataclysm-DDA/pull/55848))
+* Exodii cross faction gear ([#55806](https://github.com/CleverRaven/Cataclysm-DDA/pull/55806))
+* Add ALLOWS_TALONS to RAP_TALONS ([#55846](https://github.com/CleverRaven/Cataclysm-DDA/pull/55846))
+* Update feature_request.yaml due to typo ([#55845](https://github.com/CleverRaven/Cataclysm-DDA/pull/55845))
+* Whilst active → While active ([#55844](https://github.com/CleverRaven/Cataclysm-DDA/pull/55844))
+* Update materials to consistently use title case ([#55836](https://github.com/CleverRaven/Cataclysm-DDA/pull/55836))
+* Small AFS bugfixes ([#55831](https://github.com/CleverRaven/Cataclysm-DDA/pull/55831))
+* Code for ammo requiring melee techniques ([#55820](https://github.com/CleverRaven/Cataclysm-DDA/pull/55820))
+* Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
+* Added multiple camp construction workers ([#55816](https://github.com/CleverRaven/Cataclysm-DDA/pull/55816))
 
 ---
 
@@ -5,7 +17,6 @@
 
 * Fix appliance construction errors with debug hammerspace ([#55811](https://github.com/CleverRaven/Cataclysm-DDA/pull/55811))
 * Better dialog message variable handling ([#55775](https://github.com/CleverRaven/Cataclysm-DDA/pull/55775))
-* Migrate ACT_GUNMOD_ADD to the new activity actor system. ([#55722](https://github.com/CleverRaven/Cataclysm-DDA/pull/55722))
 
 ---
 
@@ -31,7 +42,6 @@
 * Consistently spell bubble wrap ([#55948](https://github.com/CleverRaven/Cataclysm-DDA/pull/55948))
 * fix: minor edit to rubik's '**' use ([#55827](https://github.com/CleverRaven/Cataclysm-DDA/pull/55827))
 * Routine i18n updates on 05 March 2022 ([#55825](https://github.com/CleverRaven/Cataclysm-DDA/pull/55825))
-* Speling: Innert -> Inert ([#55731](https://github.com/CleverRaven/Cataclysm-DDA/pull/55731))
 * Clean up itemgroups for mutagens in CRIT ([#55873](https://github.com/CleverRaven/Cataclysm-DDA/pull/55873))
 * SPAS 12 → SPAS-12 ([#55898](https://github.com/CleverRaven/Cataclysm-DDA/pull/55898))
 * Change _ to space ([#55854](https://github.com/CleverRaven/Cataclysm-DDA/pull/55854))
@@ -133,19 +143,9 @@
 * Fix comestible (corn cob) transformation ([#55750](https://github.com/CleverRaven/Cataclysm-DDA/pull/55750))
 * e-ink tablet (on) now has WATCH flag ([#55747](https://github.com/CleverRaven/Cataclysm-DDA/pull/55747))
 * improved dialog companion mission UI ([#55746](https://github.com/CleverRaven/Cataclysm-DDA/pull/55746))
-* Fix heavy dry cell material error ([#55740](https://github.com/CleverRaven/Cataclysm-DDA/pull/55740))
-* Consistently show merch cost in conversation ([#55737](https://github.com/CleverRaven/Cataclysm-DDA/pull/55737))
-* ci: basic pr auto labeler ([#55736](https://github.com/CleverRaven/Cataclysm-DDA/pull/55736))
 * Add context to Fish action ([#55793](https://github.com/CleverRaven/Cataclysm-DDA/pull/55793))
-* Fix lit molotov weight, volume, and length ([#55733](https://github.com/CleverRaven/Cataclysm-DDA/pull/55733))
-* Add missing vector include ([#55728](https://github.com/CleverRaven/Cataclysm-DDA/pull/55728))
-* Increased Missions menu UI size ([#55724](https://github.com/CleverRaven/Cataclysm-DDA/pull/55724))
-* Remove deep water hidden below sand and clay mounds ([#55723](https://github.com/CleverRaven/Cataclysm-DDA/pull/55723))
-* Hallucination fixes ([#55721](https://github.com/CleverRaven/Cataclysm-DDA/pull/55721))
-* Added SOLES mutation type & place relevant mutations in it ([#55719](https://github.com/CleverRaven/Cataclysm-DDA/pull/55719))
 * NPC talk menu: arrow key navigation & highlighting ([#55763](https://github.com/CleverRaven/Cataclysm-DDA/pull/55763))
 * Overhauls chances of good or bad mutations ([#55743](https://github.com/CleverRaven/Cataclysm-DDA/pull/55743))
-* EOC Queue fix ([#55726](https://github.com/CleverRaven/Cataclysm-DDA/pull/55726))
 
 ---
 
@@ -158,9 +158,3 @@
 #### Cataclysm-DDA experimental build 2022-03-01-1429 ([d8bff3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-01-1429))
 
 * Cooked liver is not nasty ([#55758](https://github.com/CleverRaven/Cataclysm-DDA/pull/55758))
-
----
-
-#### Cataclysm-DDA experimental build 2022-02-28-0721 ([f8b23b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-02-28-0721))
-
-* contractable -> contractible ([#55734](https://github.com/CleverRaven/Cataclysm-DDA/pull/55734))
