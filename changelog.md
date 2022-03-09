@@ -1,3 +1,15 @@
+* Armor balance guide ([#55957](https://github.com/CleverRaven/Cataclysm-DDA/pull/55957))
+* Fix test failure when LOCALIZE is disabled ([#55956](https://github.com/CleverRaven/Cataclysm-DDA/pull/55956))
+* [DinoMod] Albertonykus ([#55955](https://github.com/CleverRaven/Cataclysm-DDA/pull/55955))
+* Quick and dirty fix for vertical peek bug ([#55952](https://github.com/CleverRaven/Cataclysm-DDA/pull/55952))
+* Replace knife spear hint with spike on a stick ([#55947](https://github.com/CleverRaven/Cataclysm-DDA/pull/55947))
+* Military Armor Item Groups ([#55927](https://github.com/CleverRaven/Cataclysm-DDA/pull/55927))
+* Spawn Zombie Cops with small firearms more often and lower pick rate of mx_military 'map extra' ([#55908](https://github.com/CleverRaven/Cataclysm-DDA/pull/55908))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-09-0720 ([c460657](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-09-0720))
+
 * Add `[ "HAMMER", 1 ]` quality to mortar&pestle ([#55888](https://github.com/CleverRaven/Cataclysm-DDA/pull/55888))
 * Remove obsolete and unusable Graphical Overmap mods ([#55887](https://github.com/CleverRaven/Cataclysm-DDA/pull/55887))
 * More Metal Armor Updates ([#55865](https://github.com/CleverRaven/Cataclysm-DDA/pull/55865))
@@ -20,12 +32,6 @@
 
 * Fix appliance construction errors with debug hammerspace ([#55811](https://github.com/CleverRaven/Cataclysm-DDA/pull/55811))
 * Better dialog message variable handling ([#55775](https://github.com/CleverRaven/Cataclysm-DDA/pull/55775))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-08-1811 ([b6afc5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-08-1811))
-
-* Spelling fixes ([#55748](https://github.com/CleverRaven/Cataclysm-DDA/pull/55748))
 * Fix bow_stabilizer_set ([#55813](https://github.com/CleverRaven/Cataclysm-DDA/pull/55813))
 * fixed odd question mark ([#55824](https://github.com/CleverRaven/Cataclysm-DDA/pull/55824))
 
@@ -133,17 +139,6 @@
 * Add missing species whitelist and blacklist behaviour ([#55766](https://github.com/CleverRaven/Cataclysm-DDA/pull/55766))
 * Alpha Metamorphosis does intended damage ([#55761](https://github.com/CleverRaven/Cataclysm-DDA/pull/55761))
 * maces get wblock_1 ([#55759](https://github.com/CleverRaven/Cataclysm-DDA/pull/55759))
-* Tileset update 2022-02-28 ([#55757](https://github.com/CleverRaven/Cataclysm-DDA/pull/55757))
-* Partial update to martial arts and magic weapons ([#55756](https://github.com/CleverRaven/Cataclysm-DDA/pull/55756))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-04-0627 ([a6702c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-04-0627))
-
-* Adds info about Holsters to the inventory UI ([#55755](https://github.com/CleverRaven/Cataclysm-DDA/pull/55755))
-* Limited most map extras to 0 z-level ([#55754](https://github.com/CleverRaven/Cataclysm-DDA/pull/55754))
-* Link to libncursesw in Makefile ([#55753](https://github.com/CleverRaven/Cataclysm-DDA/pull/55753))
-* Fix comestible (corn cob) transformation ([#55750](https://github.com/CleverRaven/Cataclysm-DDA/pull/55750))
 * Add context to Fish action ([#55793](https://github.com/CleverRaven/Cataclysm-DDA/pull/55793))
 * NPC talk menu: arrow key navigation & highlighting ([#55763](https://github.com/CleverRaven/Cataclysm-DDA/pull/55763))
 
