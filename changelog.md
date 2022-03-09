@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-09-1813 ([cfb2da5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-09-1813))
+
+* fix for not wearing anything ([#55967](https://github.com/CleverRaven/Cataclysm-DDA/pull/55967))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-09-0821 ([a166404](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-09-0821))
 
 * Armor balance guide ([#55957](https://github.com/CleverRaven/Cataclysm-DDA/pull/55957))
@@ -152,9 +158,3 @@
 #### Cataclysm-DDA experimental build 2022-03-03-0603 ([e0ad823](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-0603))
 
 * bugfix-55778 ([#55787](https://github.com/CleverRaven/Cataclysm-DDA/pull/55787))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-01-1429 ([d8bff3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-01-1429))
-
-* Cooked liver is not nasty ([#55758](https://github.com/CleverRaven/Cataclysm-DDA/pull/55758))

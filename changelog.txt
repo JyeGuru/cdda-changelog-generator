@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-03-09-1813 (cfb2da5)
+* fix for not wearing anything (#55967)
+
 Cataclysm-DDA experimental build 2022-03-09-0821 (a166404)
 * Armor balance guide (#55957)
 * Fix test failure when LOCALIZE is disabled (#55956)
@@ -116,6 +119,3 @@ Cataclysm-DDA experimental build 2022-03-05-0050 (3f48036)
 
 Cataclysm-DDA experimental build 2022-03-03-0603 (e0ad823)
 * bugfix-55778 (#55787)
-
-Cataclysm-DDA experimental build 2022-03-01-1429 (d8bff3d)
-* Cooked liver is not nasty (#55758)
