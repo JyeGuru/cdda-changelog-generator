@@ -1,3 +1,6 @@
+* Fix appliance construction errors with debug hammerspace ([#55811](https://github.com/CleverRaven/Cataclysm-DDA/pull/55811))
+* Better dialog message variable handling ([#55775](https://github.com/CleverRaven/Cataclysm-DDA/pull/55775))
+* Migrate ACT_GUNMOD_ADD to the new activity actor system. ([#55722](https://github.com/CleverRaven/Cataclysm-DDA/pull/55722))
 
 ---
 
@@ -93,7 +96,6 @@
 #### Cataclysm-DDA experimental build 2022-03-05-0050 ([3f48036](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-05-0050))
 
 * Remove redundant parentheses in item_contents.cpp ([#55817](https://github.com/CleverRaven/Cataclysm-DDA/pull/55817))
-* Artifact move cost mod multiplicative instead of additive ([#55708](https://github.com/CleverRaven/Cataclysm-DDA/pull/55708))
 * Large building scenario adjustments ([#55809](https://github.com/CleverRaven/Cataclysm-DDA/pull/55809))
 * copy fix for hub anchor ([#55808](https://github.com/CleverRaven/Cataclysm-DDA/pull/55808))
 * Make the graphical overmap mod into a tileset overmap ([#55807](https://github.com/CleverRaven/Cataclysm-DDA/pull/55807))
@@ -136,8 +138,6 @@
 * Remove deep water hidden below sand and clay mounds ([#55723](https://github.com/CleverRaven/Cataclysm-DDA/pull/55723))
 * Hallucination fixes ([#55721](https://github.com/CleverRaven/Cataclysm-DDA/pull/55721))
 * Added SOLES mutation type & place relevant mutations in it ([#55719](https://github.com/CleverRaven/Cataclysm-DDA/pull/55719))
-* Improve monster whitelist & blacklist docs ([#55711](https://github.com/CleverRaven/Cataclysm-DDA/pull/55711))
-* Challenge mod: Deadly Zombie Virus ([#55707](https://github.com/CleverRaven/Cataclysm-DDA/pull/55707))
 * NPC talk menu: arrow key navigation & highlighting ([#55763](https://github.com/CleverRaven/Cataclysm-DDA/pull/55763))
 * Overhauls chances of good or bad mutations ([#55743](https://github.com/CleverRaven/Cataclysm-DDA/pull/55743))
 * EOC Queue fix ([#55726](https://github.com/CleverRaven/Cataclysm-DDA/pull/55726))
