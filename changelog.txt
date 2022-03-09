@@ -1,4 +1,9 @@
 
+Cataclysm-DDA experimental build 2022-03-09-1914 (56af356)
+* Added a check for MA_manual when reading near NPCs (#55958)
+* Pockets: prioritize parent over nested (#55944)
+* [Aftershock] Grav Chute CBM (#55920)
+
 Cataclysm-DDA experimental build 2022-03-09-1813 (cfb2da5)
 * fix for not wearing anything (#55967)
 
@@ -112,10 +117,7 @@ Cataclysm-DDA experimental build 2022-03-05-0050 (3f48036)
 * Changed the wording in the miss recovery technique description (#55772)
 * Made survivor chef, pizzaiolo and foodperson don't investigate noises in restaurants they've hidden in (#55769)
 * Add missing species whitelist and blacklist behaviour (#55766)
-* Alpha Metamorphosis does intended damage (#55761)
-* maces get wblock_1 (#55759)
 * Add context to Fish action (#55793)
-* NPC talk menu: arrow key navigation & highlighting (#55763)
 
 Cataclysm-DDA experimental build 2022-03-03-0603 (e0ad823)
 * bugfix-55778 (#55787)

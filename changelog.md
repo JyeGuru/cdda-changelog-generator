@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-09-1914 ([56af356](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-09-1914))
+
+* Added a check for MA_manual when reading near NPCs ([#55958](https://github.com/CleverRaven/Cataclysm-DDA/pull/55958))
+* Pockets: prioritize parent over nested ([#55944](https://github.com/CleverRaven/Cataclysm-DDA/pull/55944))
+* [Aftershock] Grav Chute CBM ([#55920](https://github.com/CleverRaven/Cataclysm-DDA/pull/55920))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-09-1813 ([cfb2da5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-09-1813))
 
 * fix for not wearing anything ([#55967](https://github.com/CleverRaven/Cataclysm-DDA/pull/55967))
@@ -148,10 +156,7 @@
 * Changed the wording in the miss recovery technique description ([#55772](https://github.com/CleverRaven/Cataclysm-DDA/pull/55772))
 * Made survivor chef, pizzaiolo and foodperson don't investigate noises in restaurants they've hidden in ([#55769](https://github.com/CleverRaven/Cataclysm-DDA/pull/55769))
 * Add missing species whitelist and blacklist behaviour ([#55766](https://github.com/CleverRaven/Cataclysm-DDA/pull/55766))
-* Alpha Metamorphosis does intended damage ([#55761](https://github.com/CleverRaven/Cataclysm-DDA/pull/55761))
-* maces get wblock_1 ([#55759](https://github.com/CleverRaven/Cataclysm-DDA/pull/55759))
 * Add context to Fish action ([#55793](https://github.com/CleverRaven/Cataclysm-DDA/pull/55793))
-* NPC talk menu: arrow key navigation & highlighting ([#55763](https://github.com/CleverRaven/Cataclysm-DDA/pull/55763))
 
 ---
 
