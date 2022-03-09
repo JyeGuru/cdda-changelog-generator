@@ -1,3 +1,6 @@
+* Add `[ "HAMMER", 1 ]` quality to mortar&pestle ([#55888](https://github.com/CleverRaven/Cataclysm-DDA/pull/55888))
+* Remove obsolete and unusable Graphical Overmap mods ([#55887](https://github.com/CleverRaven/Cataclysm-DDA/pull/55887))
+* More Metal Armor Updates ([#55865](https://github.com/CleverRaven/Cataclysm-DDA/pull/55865))
 * Red → red ([#55855](https://github.com/CleverRaven/Cataclysm-DDA/pull/55855))
 * Update altered_object_active.json ([#55852](https://github.com/CleverRaven/Cataclysm-DDA/pull/55852))
 * Update effects.json to title case + minor fixes ([#55848](https://github.com/CleverRaven/Cataclysm-DDA/pull/55848))
@@ -141,11 +144,8 @@
 * Limited most map extras to 0 z-level ([#55754](https://github.com/CleverRaven/Cataclysm-DDA/pull/55754))
 * Link to libncursesw in Makefile ([#55753](https://github.com/CleverRaven/Cataclysm-DDA/pull/55753))
 * Fix comestible (corn cob) transformation ([#55750](https://github.com/CleverRaven/Cataclysm-DDA/pull/55750))
-* e-ink tablet (on) now has WATCH flag ([#55747](https://github.com/CleverRaven/Cataclysm-DDA/pull/55747))
-* improved dialog companion mission UI ([#55746](https://github.com/CleverRaven/Cataclysm-DDA/pull/55746))
 * Add context to Fish action ([#55793](https://github.com/CleverRaven/Cataclysm-DDA/pull/55793))
 * NPC talk menu: arrow key navigation & highlighting ([#55763](https://github.com/CleverRaven/Cataclysm-DDA/pull/55763))
-* Overhauls chances of good or bad mutations ([#55743](https://github.com/CleverRaven/Cataclysm-DDA/pull/55743))
 
 ---
 
