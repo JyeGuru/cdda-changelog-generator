@@ -1,3 +1,14 @@
+* typo fixes by faalagorn for Cody Fabrication ([#55982](https://github.com/CleverRaven/Cataclysm-DDA/pull/55982))
+* Kevlar Gambeson Complexify ([#55976](https://github.com/CleverRaven/Cataclysm-DDA/pull/55976))
+* Allow opening of non watertight containers in AIM ([#55974](https://github.com/CleverRaven/Cataclysm-DDA/pull/55974))
+* Lemat → LeMat ([#55900](https://github.com/CleverRaven/Cataclysm-DDA/pull/55900))
+* Add new portal storm monster swarm structure ([#55847](https://github.com/CleverRaven/Cataclysm-DDA/pull/55847))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-10-0103 ([1694938](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-10-0103))
+
+* Made Lamellar Cuirass more interesting ([#55971](https://github.com/CleverRaven/Cataclysm-DDA/pull/55971))
 
 ---
 
@@ -50,7 +61,6 @@
 #### Cataclysm-DDA experimental build 2022-03-09-0613 ([97843a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-09-0613))
 
 * Fix appliance construction errors with debug hammerspace ([#55811](https://github.com/CleverRaven/Cataclysm-DDA/pull/55811))
-* Better dialog message variable handling ([#55775](https://github.com/CleverRaven/Cataclysm-DDA/pull/55775))
 * Fix bow_stabilizer_set ([#55813](https://github.com/CleverRaven/Cataclysm-DDA/pull/55813))
 * fixed odd question mark ([#55824](https://github.com/CleverRaven/Cataclysm-DDA/pull/55824))
 
@@ -151,11 +161,6 @@
 * fix: extra space in eat menu ([#55786](https://github.com/CleverRaven/Cataclysm-DDA/pull/55786))
 * NPC EOC deactivate condition fix ([#55785](https://github.com/CleverRaven/Cataclysm-DDA/pull/55785))
 * Reduce moves to loot mres, ifaks, first aids ([#55784](https://github.com/CleverRaven/Cataclysm-DDA/pull/55784))
-* Extract module image base address to correctly produce stack trace ([#55782](https://github.com/CleverRaven/Cataclysm-DDA/pull/55782))
-* Changing paintball from stab to bash ([#55774](https://github.com/CleverRaven/Cataclysm-DDA/pull/55774))
-* Changed the wording in the miss recovery technique description ([#55772](https://github.com/CleverRaven/Cataclysm-DDA/pull/55772))
-* Made survivor chef, pizzaiolo and foodperson don't investigate noises in restaurants they've hidden in ([#55769](https://github.com/CleverRaven/Cataclysm-DDA/pull/55769))
-* Add missing species whitelist and blacklist behaviour ([#55766](https://github.com/CleverRaven/Cataclysm-DDA/pull/55766))
 * Add context to Fish action ([#55793](https://github.com/CleverRaven/Cataclysm-DDA/pull/55793))
 
 ---
