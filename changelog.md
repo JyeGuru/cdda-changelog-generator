@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-10-0605 ([f0a49a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-10-0605))
+
+* Fix worn wrapper warmth function not checking for bp coverage ([#55973](https://github.com/CleverRaven/Cataclysm-DDA/pull/55973))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-10-0222 ([1b16228](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-10-0222))
 
 * typo fixes by faalagorn for Cody Fabrication ([#55982](https://github.com/CleverRaven/Cataclysm-DDA/pull/55982))
@@ -165,7 +171,6 @@
 * perf: restore and use old astyle check ([#55788](https://github.com/CleverRaven/Cataclysm-DDA/pull/55788))
 * fix: extra space in eat menu ([#55786](https://github.com/CleverRaven/Cataclysm-DDA/pull/55786))
 * NPC EOC deactivate condition fix ([#55785](https://github.com/CleverRaven/Cataclysm-DDA/pull/55785))
-* Reduce moves to loot mres, ifaks, first aids ([#55784](https://github.com/CleverRaven/Cataclysm-DDA/pull/55784))
 * Add context to Fish action ([#55793](https://github.com/CleverRaven/Cataclysm-DDA/pull/55793))
 
 ---
