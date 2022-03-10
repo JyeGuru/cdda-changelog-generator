@@ -1,3 +1,7 @@
+* Blood isn't quenchy. (#55991)
+
+Cataclysm-DDA experimental build 2022-03-10-0816 (3f3b54d)
+* Fix crash when holstering items (#55988)
 
 Cataclysm-DDA experimental build 2022-03-10-0605 (f0a49a0)
 * Fix worn wrapper warmth function not checking for bp coverage (#55973)
@@ -121,8 +125,6 @@ Cataclysm-DDA experimental build 2022-03-05-0050 (3f48036)
 * [WIP] Option to use Grass Sheets for Door Curtains (#55792)
 * Add 'Heated Tank' vehicle part (#55791)
 * perf: restore and use old astyle check (#55788)
-* fix: extra space in eat menu (#55786)
-* NPC EOC deactivate condition fix (#55785)
 * Add context to Fish action (#55793)
 
 Cataclysm-DDA experimental build 2022-03-03-0603 (e0ad823)

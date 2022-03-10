@@ -1,3 +1,10 @@
+* Blood isn't quenchy. ([#55991](https://github.com/CleverRaven/Cataclysm-DDA/pull/55991))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-10-0816 ([3f3b54d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-10-0816))
+
+* Fix crash when holstering items ([#55988](https://github.com/CleverRaven/Cataclysm-DDA/pull/55988))
 
 ---
 
@@ -169,8 +176,6 @@
 * [WIP] Option to use Grass Sheets for Door Curtains ([#55792](https://github.com/CleverRaven/Cataclysm-DDA/pull/55792))
 * Add 'Heated Tank' vehicle part ([#55791](https://github.com/CleverRaven/Cataclysm-DDA/pull/55791))
 * perf: restore and use old astyle check ([#55788](https://github.com/CleverRaven/Cataclysm-DDA/pull/55788))
-* fix: extra space in eat menu ([#55786](https://github.com/CleverRaven/Cataclysm-DDA/pull/55786))
-* NPC EOC deactivate condition fix ([#55785](https://github.com/CleverRaven/Cataclysm-DDA/pull/55785))
 * Add context to Fish action ([#55793](https://github.com/CleverRaven/Cataclysm-DDA/pull/55793))
 
 ---
