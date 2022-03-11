@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-11-0559 ([53f9bd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-0559))
+
 * Gave `MECH_DEFENSIVE` flag to all three mechas in No Hope mod ([#55989](https://github.com/CleverRaven/Cataclysm-DDA/pull/55989))
 * Don't make player's feet wet when walking over scrap metal bridge ([#56005](https://github.com/CleverRaven/Cataclysm-DDA/pull/56005))
 * Allow swapping positions and moving out of the way for all types of friendly NPCs ([#56000](https://github.com/CleverRaven/Cataclysm-DDA/pull/56000))
