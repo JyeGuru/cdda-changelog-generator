@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-11-2134 ([b0a8d8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-2134))
+
 * Use translated string for inf ([#55975](https://github.com/CleverRaven/Cataclysm-DDA/pull/55975))
 * Revive MXE-MinGW experimental release build ([#56031](https://github.com/CleverRaven/Cataclysm-DDA/pull/56031))
 * Correct “Code: Tests” tag name in auto labeller ([#56029](https://github.com/CleverRaven/Cataclysm-DDA/pull/56029))
