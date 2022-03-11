@@ -1,3 +1,16 @@
+* Use translated string for inf ([#55975](https://github.com/CleverRaven/Cataclysm-DDA/pull/55975))
+* Revive MXE-MinGW experimental release build ([#56031](https://github.com/CleverRaven/Cataclysm-DDA/pull/56031))
+* Correct “Code: Tests” tag name in auto labeller ([#56029](https://github.com/CleverRaven/Cataclysm-DDA/pull/56029))
+* Phone case variants ([#56028](https://github.com/CleverRaven/Cataclysm-DDA/pull/56028))
+* Don't let players climb up via downspouts or ropes when all their arms are broken ([#56018](https://github.com/CleverRaven/Cataclysm-DDA/pull/56018))
+* Tweaks to furniture bridges ([#56019](https://github.com/CleverRaven/Cataclysm-DDA/pull/56019))
+* Fixed beartrap disappearing after monster steps on it ([#56022](https://github.com/CleverRaven/Cataclysm-DDA/pull/56022))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-11-2015 ([e4e6681](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-2015))
+
+* Fix compile error on Android ([#56032](https://github.com/CleverRaven/Cataclysm-DDA/pull/56032))
 * Adding loose ammo to looted gun stores ([#55987](https://github.com/CleverRaven/Cataclysm-DDA/pull/55987))
 
 ---
@@ -86,7 +99,6 @@
 * Red → red ([#55855](https://github.com/CleverRaven/Cataclysm-DDA/pull/55855))
 * Update altered_object_active.json ([#55852](https://github.com/CleverRaven/Cataclysm-DDA/pull/55852))
 * Update effects.json to title case + minor fixes ([#55848](https://github.com/CleverRaven/Cataclysm-DDA/pull/55848))
-* Exodii cross faction gear ([#55806](https://github.com/CleverRaven/Cataclysm-DDA/pull/55806))
 * Add ALLOWS_TALONS to RAP_TALONS ([#55846](https://github.com/CleverRaven/Cataclysm-DDA/pull/55846))
 * Update feature_request.yaml due to typo ([#55845](https://github.com/CleverRaven/Cataclysm-DDA/pull/55845))
 * Whilst active → While active ([#55844](https://github.com/CleverRaven/Cataclysm-DDA/pull/55844))
@@ -95,13 +107,6 @@
 * Code for ammo requiring melee techniques ([#55820](https://github.com/CleverRaven/Cataclysm-DDA/pull/55820))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 * Added multiple camp construction workers ([#55816](https://github.com/CleverRaven/Cataclysm-DDA/pull/55816))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-09-0613 ([97843a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-09-0613))
-
-* Fix appliance construction errors with debug hammerspace ([#55811](https://github.com/CleverRaven/Cataclysm-DDA/pull/55811))
-* Fix bow_stabilizer_set ([#55813](https://github.com/CleverRaven/Cataclysm-DDA/pull/55813))
 * fixed odd question mark ([#55824](https://github.com/CleverRaven/Cataclysm-DDA/pull/55824))
 
 ---
@@ -167,12 +172,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-03-07-0605 ([fd0520e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-07-0605))
-
-* Fix mapgen test errors ([#55810](https://github.com/CleverRaven/Cataclysm-DDA/pull/55810))
-
----
-
 #### Cataclysm-DDA experimental build 2022-03-06-0604 ([cc9ccc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-06-0604))
 
 * composition b → composition B ([#55858](https://github.com/CleverRaven/Cataclysm-DDA/pull/55858))
@@ -189,7 +188,3 @@
 #### Cataclysm-DDA experimental build 2022-03-05-0050 ([3f48036](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-05-0050))
 
 * Remove redundant parentheses in item_contents.cpp ([#55817](https://github.com/CleverRaven/Cataclysm-DDA/pull/55817))
-* Large building scenario adjustments ([#55809](https://github.com/CleverRaven/Cataclysm-DDA/pull/55809))
-* copy fix for hub anchor ([#55808](https://github.com/CleverRaven/Cataclysm-DDA/pull/55808))
-* Make the graphical overmap mod into a tileset overmap ([#55807](https://github.com/CleverRaven/Cataclysm-DDA/pull/55807))
-* Fix spawns for hunting archery gear ([#55805](https://github.com/CleverRaven/Cataclysm-DDA/pull/55805))
