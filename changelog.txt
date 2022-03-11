@@ -1,3 +1,4 @@
+* Adding loose ammo to looted gun stores (#55987)
 
 Cataclysm-DDA experimental build 2022-03-11-0559 (53f9bd3)
 * Gave `MECH_DEFENSIVE` flag to all three mechas in No Hope mod (#55989)
@@ -132,4 +133,3 @@ Cataclysm-DDA experimental build 2022-03-05-0050 (3f48036)
 * copy fix for hub anchor (#55808)
 * Make the graphical overmap mod into a tileset overmap (#55807)
 * Fix spawns for hunting archery gear (#55805)
-* Second Skin Materials Fixes (#55804)

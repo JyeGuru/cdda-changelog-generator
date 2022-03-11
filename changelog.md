@@ -1,3 +1,4 @@
+* Adding loose ammo to looted gun stores ([#55987](https://github.com/CleverRaven/Cataclysm-DDA/pull/55987))
 
 ---
 
@@ -192,4 +193,3 @@
 * copy fix for hub anchor ([#55808](https://github.com/CleverRaven/Cataclysm-DDA/pull/55808))
 * Make the graphical overmap mod into a tileset overmap ([#55807](https://github.com/CleverRaven/Cataclysm-DDA/pull/55807))
 * Fix spawns for hunting archery gear ([#55805](https://github.com/CleverRaven/Cataclysm-DDA/pull/55805))
-* Second Skin Materials Fixes ([#55804](https://github.com/CleverRaven/Cataclysm-DDA/pull/55804))
