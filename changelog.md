@@ -1,3 +1,14 @@
+* Gave `MECH_DEFENSIVE` flag to all three mechas in No Hope mod ([#55989](https://github.com/CleverRaven/Cataclysm-DDA/pull/55989))
+* Don't make player's feet wet when walking over scrap metal bridge ([#56005](https://github.com/CleverRaven/Cataclysm-DDA/pull/56005))
+* Allow swapping positions and moving out of the way for all types of friendly NPCs ([#56000](https://github.com/CleverRaven/Cataclysm-DDA/pull/56000))
+* Don't apply increased stamina burn if player is on a boat on water ([#55992](https://github.com/CleverRaven/Cataclysm-DDA/pull/55992))
+* Now it's possible to load .38 Super into .38 Super magazines ([#55995](https://github.com/CleverRaven/Cataclysm-DDA/pull/55995))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-11-0513 ([8e1aaa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-0513))
+
+* [DinoMod] scutellosaurus fixes ([#55985](https://github.com/CleverRaven/Cataclysm-DDA/pull/55985))
 
 ---
 
@@ -177,14 +188,3 @@
 * Make the graphical overmap mod into a tileset overmap ([#55807](https://github.com/CleverRaven/Cataclysm-DDA/pull/55807))
 * Fix spawns for hunting archery gear ([#55805](https://github.com/CleverRaven/Cataclysm-DDA/pull/55805))
 * Second Skin Materials Fixes ([#55804](https://github.com/CleverRaven/Cataclysm-DDA/pull/55804))
-* Stocks, stock accessories, new C++ handling for Folding Stocks ([#55802](https://github.com/CleverRaven/Cataclysm-DDA/pull/55802))
-* [WIP] Option to use Grass Sheets for Door Curtains ([#55792](https://github.com/CleverRaven/Cataclysm-DDA/pull/55792))
-* Add 'Heated Tank' vehicle part ([#55791](https://github.com/CleverRaven/Cataclysm-DDA/pull/55791))
-* perf: restore and use old astyle check ([#55788](https://github.com/CleverRaven/Cataclysm-DDA/pull/55788))
-* Add context to Fish action ([#55793](https://github.com/CleverRaven/Cataclysm-DDA/pull/55793))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-03-0603 ([e0ad823](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-03-0603))
-
-* bugfix-55778 ([#55787](https://github.com/CleverRaven/Cataclysm-DDA/pull/55787))
