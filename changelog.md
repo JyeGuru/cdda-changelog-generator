@@ -1,3 +1,4 @@
+* Rebalance powered utility exosuits ([#55868](https://github.com/CleverRaven/Cataclysm-DDA/pull/55868))
 
 ---
 
@@ -190,7 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-03-08-0607 ([8150729](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-08-0607))
 
 * Fixed mix up of requirements for fish traps ([#55933](https://github.com/CleverRaven/Cataclysm-DDA/pull/55933))
-* fix: label bot uses existing labels ([#55828](https://github.com/CleverRaven/Cataclysm-DDA/pull/55828))
 
 ---
 

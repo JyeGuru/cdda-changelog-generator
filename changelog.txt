@@ -1,3 +1,4 @@
+* Rebalance powered utility exosuits (#55868)
 
 Cataclysm-DDA experimental build 2022-03-12-1711 (d464d32)
 * Nested mapgen update test fix (#56049)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2022-03-08-1603 (debe92d)
 
 Cataclysm-DDA experimental build 2022-03-08-0607 (8150729)
 * Fixed mix up of requirements for fish traps (#55933)
-* fix: label bot uses existing labels (#55828)
 
 Cataclysm-DDA experimental build 2022-03-07-0703 (48260d3)
 * Remove extra space (#55901)
