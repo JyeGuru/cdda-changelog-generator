@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-12-1711 ([d464d32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-1711))
+
+* Nested mapgen update test fix ([#56049](https://github.com/CleverRaven/Cataclysm-DDA/pull/56049))
+* NPC talker test fix ([#56050](https://github.com/CleverRaven/Cataclysm-DDA/pull/56050))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-12-0953 ([b5427b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-0953))
 
 * Decrease min_item_volume for holster to allow storing smaller service pistols ([#56044](https://github.com/CleverRaven/Cataclysm-DDA/pull/56044))
@@ -146,8 +153,6 @@
 * Automatically post a warning comment when translation files are changed ([#55922](https://github.com/CleverRaven/Cataclysm-DDA/pull/55922))
 * fix typo in football hobby description ([#55946](https://github.com/CleverRaven/Cataclysm-DDA/pull/55946))
 * Consistently spell bubble wrap ([#55948](https://github.com/CleverRaven/Cataclysm-DDA/pull/55948))
-* fix: minor edit to rubik's '**' use ([#55827](https://github.com/CleverRaven/Cataclysm-DDA/pull/55827))
-* Routine i18n updates on 05 March 2022 ([#55825](https://github.com/CleverRaven/Cataclysm-DDA/pull/55825))
 * Clean up itemgroups for mutagens in CRIT ([#55873](https://github.com/CleverRaven/Cataclysm-DDA/pull/55873))
 * SPAS 12 → SPAS-12 ([#55898](https://github.com/CleverRaven/Cataclysm-DDA/pull/55898))
 * Change _ to space ([#55854](https://github.com/CleverRaven/Cataclysm-DDA/pull/55854))
