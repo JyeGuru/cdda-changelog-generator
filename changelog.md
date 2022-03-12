@@ -1,3 +1,13 @@
+* Fix os dependent implementation in `compose.py` ([#56039](https://github.com/CleverRaven/Cataclysm-DDA/pull/56039))
+* added missing n typo ([#56024](https://github.com/CleverRaven/Cataclysm-DDA/pull/56024))
+* Add ASCII picture to missing memory cards ([#56035](https://github.com/CleverRaven/Cataclysm-DDA/pull/56035))
+* Routine i18n updates on 12 March 2022 ([#56046](https://github.com/CleverRaven/Cataclysm-DDA/pull/56046))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-12-0645 ([70509e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-0645))
+
+* Fix sfx preload ([#56037](https://github.com/CleverRaven/Cataclysm-DDA/pull/56037))
 
 ---
 
@@ -109,9 +119,7 @@
 * Whilst active → While active ([#55844](https://github.com/CleverRaven/Cataclysm-DDA/pull/55844))
 * Update materials to consistently use title case ([#55836](https://github.com/CleverRaven/Cataclysm-DDA/pull/55836))
 * Small AFS bugfixes ([#55831](https://github.com/CleverRaven/Cataclysm-DDA/pull/55831))
-* Code for ammo requiring melee techniques ([#55820](https://github.com/CleverRaven/Cataclysm-DDA/pull/55820))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
-* Added multiple camp construction workers ([#55816](https://github.com/CleverRaven/Cataclysm-DDA/pull/55816))
 * fixed odd question mark ([#55824](https://github.com/CleverRaven/Cataclysm-DDA/pull/55824))
 
 ---
@@ -180,16 +188,3 @@
 #### Cataclysm-DDA experimental build 2022-03-06-0604 ([cc9ccc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-06-0604))
 
 * composition b → composition B ([#55858](https://github.com/CleverRaven/Cataclysm-DDA/pull/55858))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-05-0704 ([bd61d70](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-05-0704))
-
-* Restore millability of cattail rhizomes which was accidentally removed some time ago ([#55814](https://github.com/CleverRaven/Cataclysm-DDA/pull/55814))
-* Fix syntax error in pull request labeller workflow ([#55818](https://github.com/CleverRaven/Cataclysm-DDA/pull/55818))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-05-0050 ([3f48036](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-05-0050))
-
-* Remove redundant parentheses in item_contents.cpp ([#55817](https://github.com/CleverRaven/Cataclysm-DDA/pull/55817))
