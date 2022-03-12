@@ -1,4 +1,9 @@
 * Fix os dependent implementation in `compose.py` ([#56039](https://github.com/CleverRaven/Cataclysm-DDA/pull/56039))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-12-0749 ([f172211](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-0749))
+
 * added missing n typo ([#56024](https://github.com/CleverRaven/Cataclysm-DDA/pull/56024))
 * Add ASCII picture to missing memory cards ([#56035](https://github.com/CleverRaven/Cataclysm-DDA/pull/56035))
 * Routine i18n updates on 12 March 2022 ([#56046](https://github.com/CleverRaven/Cataclysm-DDA/pull/56046))
