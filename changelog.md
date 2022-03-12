@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-12-0953 ([b5427b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-0953))
+
+* Decrease min_item_volume for holster to allow storing smaller service pistols ([#56044](https://github.com/CleverRaven/Cataclysm-DDA/pull/56044))
 * Fix os dependent implementation in `compose.py` ([#56039](https://github.com/CleverRaven/Cataclysm-DDA/pull/56039))
 
 ---
@@ -125,7 +131,6 @@
 * Update materials to consistently use title case ([#55836](https://github.com/CleverRaven/Cataclysm-DDA/pull/55836))
 * Small AFS bugfixes ([#55831](https://github.com/CleverRaven/Cataclysm-DDA/pull/55831))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
-* fixed odd question mark ([#55824](https://github.com/CleverRaven/Cataclysm-DDA/pull/55824))
 
 ---
 

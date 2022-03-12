@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-03-12-0953 (b5427b0)
+* Decrease min_item_volume for holster to allow storing smaller service pistols (#56044)
 * Fix os dependent implementation in `compose.py` (#56039)
 
 Cataclysm-DDA experimental build 2022-03-12-0749 (f172211)
@@ -80,7 +83,6 @@ Cataclysm-DDA experimental build 2022-03-09-0720 (c460657)
 * Update materials to consistently use title case (#55836)
 * Small AFS bugfixes (#55831)
 * Recover oxygen over time (#55949)
-* fixed odd question mark (#55824)
 
 Cataclysm-DDA experimental build 2022-03-08-1705 (650d22c)
 * Update flask_glass description to match test_tube (#55859)
