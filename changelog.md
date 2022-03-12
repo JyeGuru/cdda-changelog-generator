@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-12-1812 ([679f478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-1812))
+
 * [DinoMod] anzu ([#56006](https://github.com/CleverRaven/Cataclysm-DDA/pull/56006))
 * Rebalance powered utility exosuits ([#55868](https://github.com/CleverRaven/Cataclysm-DDA/pull/55868))
 
