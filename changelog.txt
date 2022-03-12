@@ -1,3 +1,4 @@
+* [DinoMod] anzu (#56006)
 * Rebalance powered utility exosuits (#55868)
 
 Cataclysm-DDA experimental build 2022-03-12-1711 (d464d32)
@@ -86,7 +87,6 @@ Cataclysm-DDA experimental build 2022-03-09-0720 (c460657)
 * Update feature_request.yaml due to typo (#55845)
 * Whilst active → While active (#55844)
 * Update materials to consistently use title case (#55836)
-* Small AFS bugfixes (#55831)
 * Recover oxygen over time (#55949)
 
 Cataclysm-DDA experimental build 2022-03-08-1705 (650d22c)

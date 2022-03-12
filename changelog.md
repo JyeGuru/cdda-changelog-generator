@@ -1,3 +1,4 @@
+* [DinoMod] anzu ([#56006](https://github.com/CleverRaven/Cataclysm-DDA/pull/56006))
 * Rebalance powered utility exosuits ([#55868](https://github.com/CleverRaven/Cataclysm-DDA/pull/55868))
 
 ---
@@ -137,7 +138,6 @@
 * Update feature_request.yaml due to typo ([#55845](https://github.com/CleverRaven/Cataclysm-DDA/pull/55845))
 * Whilst active → While active ([#55844](https://github.com/CleverRaven/Cataclysm-DDA/pull/55844))
 * Update materials to consistently use title case ([#55836](https://github.com/CleverRaven/Cataclysm-DDA/pull/55836))
-* Small AFS bugfixes ([#55831](https://github.com/CleverRaven/Cataclysm-DDA/pull/55831))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 
 ---
