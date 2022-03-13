@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-03-13-0619 (a7c2d6d)
+* TropiCata: remove goats from mod (#56065)
+
 Cataclysm-DDA experimental build 2022-03-12-1812 (679f478)
 * [DinoMod] anzu (#56006)
 * Rebalance powered utility exosuits (#55868)
@@ -110,7 +113,6 @@ Cataclysm-DDA experimental build 2022-03-08-1705 (650d22c)
 * Add full stop to `walther_p22` description (#55890)
 * Add full stop to `plastic_straw` description (#55889)
 * Carbon → carbon (#55856)
-* Add context to Fior Di Battaglia book (#55835)
 * Update legacy_artifact_active.json (#55853)
 * Update traps.json (#55851)
 * Add comma to a sentence (#55839)
@@ -135,6 +137,4 @@ Cataclysm-DDA experimental build 2022-03-08-0607 (8150729)
 
 Cataclysm-DDA experimental build 2022-03-07-0703 (48260d3)
 * Remove extra space (#55901)
-
-Cataclysm-DDA experimental build 2022-03-06-0604 (cc9ccc4)
 * composition b → composition B (#55858)

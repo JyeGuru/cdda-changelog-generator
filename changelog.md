@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-13-0619 ([a7c2d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-13-0619))
+
+* TropiCata: remove goats from mod ([#56065](https://github.com/CleverRaven/Cataclysm-DDA/pull/56065))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-12-1812 ([679f478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-1812))
 
 * [DinoMod] anzu ([#56006](https://github.com/CleverRaven/Cataclysm-DDA/pull/56006))
@@ -167,7 +173,6 @@
 * Add full stop to `walther_p22` description ([#55890](https://github.com/CleverRaven/Cataclysm-DDA/pull/55890))
 * Add full stop to `plastic_straw` description ([#55889](https://github.com/CleverRaven/Cataclysm-DDA/pull/55889))
 * Carbon → carbon ([#55856](https://github.com/CleverRaven/Cataclysm-DDA/pull/55856))
-* Add context to Fior Di Battaglia book ([#55835](https://github.com/CleverRaven/Cataclysm-DDA/pull/55835))
 * Update legacy_artifact_active.json ([#55853](https://github.com/CleverRaven/Cataclysm-DDA/pull/55853))
 * Update traps.json ([#55851](https://github.com/CleverRaven/Cataclysm-DDA/pull/55851))
 * Add comma to a sentence ([#55839](https://github.com/CleverRaven/Cataclysm-DDA/pull/55839))
@@ -201,9 +206,4 @@
 #### Cataclysm-DDA experimental build 2022-03-07-0703 ([48260d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-07-0703))
 
 * Remove extra space ([#55901](https://github.com/CleverRaven/Cataclysm-DDA/pull/55901))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-06-0604 ([cc9ccc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-06-0604))
-
 * composition b → composition B ([#55858](https://github.com/CleverRaven/Cataclysm-DDA/pull/55858))
