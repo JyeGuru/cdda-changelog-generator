@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-13-1128 ([20b4ebb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-13-1128))
+
+* Rev vcpkg cachekeys again. ([#56073](https://github.com/CleverRaven/Cataclysm-DDA/pull/56073))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-13-0619 ([a7c2d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-13-0619))
 
 * TropiCata: remove goats from mod ([#56065](https://github.com/CleverRaven/Cataclysm-DDA/pull/56065))
@@ -148,7 +154,6 @@
 * Add ALLOWS_TALONS to RAP_TALONS ([#55846](https://github.com/CleverRaven/Cataclysm-DDA/pull/55846))
 * Update feature_request.yaml due to typo ([#55845](https://github.com/CleverRaven/Cataclysm-DDA/pull/55845))
 * Whilst active → While active ([#55844](https://github.com/CleverRaven/Cataclysm-DDA/pull/55844))
-* Update materials to consistently use title case ([#55836](https://github.com/CleverRaven/Cataclysm-DDA/pull/55836))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 
 ---
