@@ -119,7 +119,6 @@
 * Kevlar Gambeson Complexify ([#55976](https://github.com/CleverRaven/Cataclysm-DDA/pull/55976))
 * Allow opening of non watertight containers in AIM ([#55974](https://github.com/CleverRaven/Cataclysm-DDA/pull/55974))
 * Lemat → LeMat ([#55900](https://github.com/CleverRaven/Cataclysm-DDA/pull/55900))
-* Add new portal storm monster swarm structure ([#55847](https://github.com/CleverRaven/Cataclysm-DDA/pull/55847))
 
 ---
 

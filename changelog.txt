@@ -68,7 +68,6 @@ Cataclysm-DDA experimental build 2022-03-10-0222 (1b16228)
 * Kevlar Gambeson Complexify (#55976)
 * Allow opening of non watertight containers in AIM (#55974)
 * Lemat → LeMat (#55900)
-* Add new portal storm monster swarm structure (#55847)
 
 Cataclysm-DDA experimental build 2022-03-10-0103 (1694938)
 * Made Lamellar Cuirass more interesting (#55971)
