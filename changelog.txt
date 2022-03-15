@@ -97,7 +97,6 @@ Cataclysm-DDA experimental build 2022-03-09-0720 (c460657)
 * Red → red (#55855)
 * Update altered_object_active.json (#55852)
 * Update effects.json to title case + minor fixes (#55848)
-* Add ALLOWS_TALONS to RAP_TALONS (#55846)
 * Recover oxygen over time (#55949)
 
 Cataclysm-DDA experimental build 2022-03-08-1705 (650d22c)
