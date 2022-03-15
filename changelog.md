@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-15-0611 ([d703f84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-15-0611))
+
+* Minor fix to TRANSLATING guide ([#56075](https://github.com/CleverRaven/Cataclysm-DDA/pull/56075))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-14-0751 ([ef1e34c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-14-0751))
 
 * [DinoMod] Saurischian dino nests ([#56067](https://github.com/CleverRaven/Cataclysm-DDA/pull/56067))
@@ -159,7 +165,6 @@
 * Update effects.json to title case + minor fixes ([#55848](https://github.com/CleverRaven/Cataclysm-DDA/pull/55848))
 * Add ALLOWS_TALONS to RAP_TALONS ([#55846](https://github.com/CleverRaven/Cataclysm-DDA/pull/55846))
 * Update feature_request.yaml due to typo ([#55845](https://github.com/CleverRaven/Cataclysm-DDA/pull/55845))
-* Whilst active → While active ([#55844](https://github.com/CleverRaven/Cataclysm-DDA/pull/55844))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 
 ---
@@ -203,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-03-08-1603 ([debe92d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-08-1603))
 
 * [DinoMod] readable name colors ([#55869](https://github.com/CleverRaven/Cataclysm-DDA/pull/55869))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-08-0607 ([8150729](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-08-0607))
-
 * Fixed mix up of requirements for fish traps ([#55933](https://github.com/CleverRaven/Cataclysm-DDA/pull/55933))
 * Remove extra space ([#55901](https://github.com/CleverRaven/Cataclysm-DDA/pull/55901))
 * composition b → composition B ([#55858](https://github.com/CleverRaven/Cataclysm-DDA/pull/55858))

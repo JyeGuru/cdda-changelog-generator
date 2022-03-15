@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-03-15-0611 (d703f84)
+* Minor fix to TRANSLATING guide (#56075)
+
 Cataclysm-DDA experimental build 2022-03-14-0751 (ef1e34c)
 * [DinoMod] Saurischian dino nests (#56067)
 
@@ -96,7 +99,6 @@ Cataclysm-DDA experimental build 2022-03-09-0720 (c460657)
 * Update effects.json to title case + minor fixes (#55848)
 * Add ALLOWS_TALONS to RAP_TALONS (#55846)
 * Update feature_request.yaml due to typo (#55845)
-* Whilst active → While active (#55844)
 * Recover oxygen over time (#55949)
 
 Cataclysm-DDA experimental build 2022-03-08-1705 (650d22c)
@@ -134,8 +136,6 @@ Cataclysm-DDA experimental build 2022-03-08-1705 (650d22c)
 
 Cataclysm-DDA experimental build 2022-03-08-1603 (debe92d)
 * [DinoMod] readable name colors (#55869)
-
-Cataclysm-DDA experimental build 2022-03-08-0607 (8150729)
 * Fixed mix up of requirements for fish traps (#55933)
 * Remove extra space (#55901)
 * composition b → composition B (#55858)
