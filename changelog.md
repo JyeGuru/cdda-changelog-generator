@@ -164,7 +164,6 @@
 * Update altered_object_active.json ([#55852](https://github.com/CleverRaven/Cataclysm-DDA/pull/55852))
 * Update effects.json to title case + minor fixes ([#55848](https://github.com/CleverRaven/Cataclysm-DDA/pull/55848))
 * Add ALLOWS_TALONS to RAP_TALONS ([#55846](https://github.com/CleverRaven/Cataclysm-DDA/pull/55846))
-* Update feature_request.yaml due to typo ([#55845](https://github.com/CleverRaven/Cataclysm-DDA/pull/55845))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 
 ---
