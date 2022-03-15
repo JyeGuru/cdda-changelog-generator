@@ -186,7 +186,6 @@
 * Carbon → carbon ([#55856](https://github.com/CleverRaven/Cataclysm-DDA/pull/55856))
 * Update legacy_artifact_active.json ([#55853](https://github.com/CleverRaven/Cataclysm-DDA/pull/55853))
 * Update traps.json ([#55851](https://github.com/CleverRaven/Cataclysm-DDA/pull/55851))
-* Add comma to a sentence ([#55839](https://github.com/CleverRaven/Cataclysm-DDA/pull/55839))
 * magnum → Magnum ([#55857](https://github.com/CleverRaven/Cataclysm-DDA/pull/55857))
 * Fix plural for a loose gameson vest ([#55883](https://github.com/CleverRaven/Cataclysm-DDA/pull/55883))
 * Add full stops to two exoskeletom descriptions ([#55881](https://github.com/CleverRaven/Cataclysm-DDA/pull/55881))
