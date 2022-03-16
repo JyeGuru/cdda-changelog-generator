@@ -1,3 +1,4 @@
+* Replace artificial forests, part III ([#56123](https://github.com/CleverRaven/Cataclysm-DDA/pull/56123))
 * added breathability for mod materials ([#56099](https://github.com/CleverRaven/Cataclysm-DDA/pull/56099))
 * Fix liquid handling for multipocket containers ([#56069](https://github.com/CleverRaven/Cataclysm-DDA/pull/56069))
 
@@ -204,7 +205,6 @@
 * Quick and dirty fix for vertical peek bug ([#55952](https://github.com/CleverRaven/Cataclysm-DDA/pull/55952))
 * Replace knife spear hint with spike on a stick ([#55947](https://github.com/CleverRaven/Cataclysm-DDA/pull/55947))
 * Military Armor Item Groups ([#55927](https://github.com/CleverRaven/Cataclysm-DDA/pull/55927))
-* Spawn Zombie Cops with small firearms more often and lower pick rate of mx_military 'map extra' ([#55908](https://github.com/CleverRaven/Cataclysm-DDA/pull/55908))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 * fix wrong non_functional for one of the migo plates ([#55942](https://github.com/CleverRaven/Cataclysm-DDA/pull/55942))
 * Fix the double definition bug ([#55938](https://github.com/CleverRaven/Cataclysm-DDA/pull/55938))
