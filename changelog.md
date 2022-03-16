@@ -180,7 +180,6 @@
 * Clean up itemgroups for mutagens in CRIT ([#55873](https://github.com/CleverRaven/Cataclysm-DDA/pull/55873))
 * SPAS 12 → SPAS-12 ([#55898](https://github.com/CleverRaven/Cataclysm-DDA/pull/55898))
 * Change _ to space ([#55854](https://github.com/CleverRaven/Cataclysm-DDA/pull/55854))
-* Remove extra space from technique description ([#55849](https://github.com/CleverRaven/Cataclysm-DDA/pull/55849))
 * M1991 → M1911 ([#55895](https://github.com/CleverRaven/Cataclysm-DDA/pull/55895))
 * Add full stop to `walther_p22` description ([#55890](https://github.com/CleverRaven/Cataclysm-DDA/pull/55890))
 * Add full stop to `plastic_straw` description ([#55889](https://github.com/CleverRaven/Cataclysm-DDA/pull/55889))
