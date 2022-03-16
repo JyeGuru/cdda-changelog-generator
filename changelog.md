@@ -1,3 +1,26 @@
+* Add <u_name> and <npc_name> to tag parsing. Update docs for others ([#56066](https://github.com/CleverRaven/Cataclysm-DDA/pull/56066))
+* fix house fallback rotations in graphical overmap ([#56081](https://github.com/CleverRaven/Cataclysm-DDA/pull/56081))
+* Fixed camp farm return to not require at least 15 minutes ([#56017](https://github.com/CleverRaven/Cataclysm-DDA/pull/56017))
+* fix: [CR] don't remove labels automatically ([#56085](https://github.com/CleverRaven/Cataclysm-DDA/pull/56085))
+* Made Bracelets and Rings >"sided":true< ([#56097](https://github.com/CleverRaven/Cataclysm-DDA/pull/56097))
+* Expand playlist ids for soundpack ([#56045](https://github.com/CleverRaven/Cataclysm-DDA/pull/56045))
+* Extract prying and lockpicking sounds to Transifex ([#56078](https://github.com/CleverRaven/Cataclysm-DDA/pull/56078))
+* [MMA] Remove redundant "weapons" entries where covered by "weapons_category" ([#56082](https://github.com/CleverRaven/Cataclysm-DDA/pull/56082))
+* Apply diving underwater for all types of climbing down, crawling down, and falling down to deep water tiles ([#56093](https://github.com/CleverRaven/Cataclysm-DDA/pull/56093))
+* Max height of window for Sort Armor menu ([#56056](https://github.com/CleverRaven/Cataclysm-DDA/pull/56056))
+* Allowed using full window height for Live View if pixel minimap option is turned off ([#56057](https://github.com/CleverRaven/Cataclysm-DDA/pull/56057))
+* [DinoMod] sauropod stomach ([#56098](https://github.com/CleverRaven/Cataclysm-DDA/pull/56098))
+* Fix map extra generation CI failure ([#56114](https://github.com/CleverRaven/Cataclysm-DDA/pull/56114))
+* Fix MSVC compile warnings ([#56118](https://github.com/CleverRaven/Cataclysm-DDA/pull/56118))
+* Remove erroneous usage of to_translation in mission_companion.cpp ([#56119](https://github.com/CleverRaven/Cataclysm-DDA/pull/56119))
+* fix missing sideds for the hands and feet ([#56120](https://github.com/CleverRaven/Cataclysm-DDA/pull/56120))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-16-0529 ([8f8fcae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-0529))
+
+* Fix farm greenhouse floors. Add metal floors to grain bins. ([#56124](https://github.com/CleverRaven/Cataclysm-DDA/pull/56124))
+* Prevent divide by zero when slipping with no str or dex ([#56125](https://github.com/CleverRaven/Cataclysm-DDA/pull/56125))
 
 ---
 
@@ -28,7 +51,6 @@
 #### Cataclysm-DDA experimental build 2022-03-12-1812 ([679f478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-1812))
 
 * [DinoMod] anzu ([#56006](https://github.com/CleverRaven/Cataclysm-DDA/pull/56006))
-* Rebalance powered utility exosuits ([#55868](https://github.com/CleverRaven/Cataclysm-DDA/pull/55868))
 
 ---
 
@@ -158,16 +180,7 @@
 
 * Add `[ "HAMMER", 1 ]` quality to mortar&pestle ([#55888](https://github.com/CleverRaven/Cataclysm-DDA/pull/55888))
 * Remove obsolete and unusable Graphical Overmap mods ([#55887](https://github.com/CleverRaven/Cataclysm-DDA/pull/55887))
-* More Metal Armor Updates ([#55865](https://github.com/CleverRaven/Cataclysm-DDA/pull/55865))
-* Red → red ([#55855](https://github.com/CleverRaven/Cataclysm-DDA/pull/55855))
-* Update altered_object_active.json ([#55852](https://github.com/CleverRaven/Cataclysm-DDA/pull/55852))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-08-1705 ([650d22c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-08-1705))
-
-* Update flask_glass description to match test_tube ([#55859](https://github.com/CleverRaven/Cataclysm-DDA/pull/55859))
 * Fix double space between Mrs. Claus ([#55884](https://github.com/CleverRaven/Cataclysm-DDA/pull/55884))
 * fix wrong non_functional for one of the migo plates ([#55942](https://github.com/CleverRaven/Cataclysm-DDA/pull/55942))
 * Fix the double definition bug ([#55938](https://github.com/CleverRaven/Cataclysm-DDA/pull/55938))
@@ -179,30 +192,13 @@
 * Consistently spell bubble wrap ([#55948](https://github.com/CleverRaven/Cataclysm-DDA/pull/55948))
 * Clean up itemgroups for mutagens in CRIT ([#55873](https://github.com/CleverRaven/Cataclysm-DDA/pull/55873))
 * SPAS 12 → SPAS-12 ([#55898](https://github.com/CleverRaven/Cataclysm-DDA/pull/55898))
-* Change _ to space ([#55854](https://github.com/CleverRaven/Cataclysm-DDA/pull/55854))
 * M1991 → M1911 ([#55895](https://github.com/CleverRaven/Cataclysm-DDA/pull/55895))
 * Add full stop to `walther_p22` description ([#55890](https://github.com/CleverRaven/Cataclysm-DDA/pull/55890))
 * Add full stop to `plastic_straw` description ([#55889](https://github.com/CleverRaven/Cataclysm-DDA/pull/55889))
-* Carbon → carbon ([#55856](https://github.com/CleverRaven/Cataclysm-DDA/pull/55856))
-* Update legacy_artifact_active.json ([#55853](https://github.com/CleverRaven/Cataclysm-DDA/pull/55853))
-* Update traps.json ([#55851](https://github.com/CleverRaven/Cataclysm-DDA/pull/55851))
-* magnum → Magnum ([#55857](https://github.com/CleverRaven/Cataclysm-DDA/pull/55857))
 * Fix plural for a loose gameson vest ([#55883](https://github.com/CleverRaven/Cataclysm-DDA/pull/55883))
 * Add full stops to two exoskeletom descriptions ([#55881](https://github.com/CleverRaven/Cataclysm-DDA/pull/55881))
 * Remove double space from pair of santa gloves desc ([#55880](https://github.com/CleverRaven/Cataclysm-DDA/pull/55880))
-* denatonuim → denatonium ([#55860](https://github.com/CleverRaven/Cataclysm-DDA/pull/55860))
 * Change Aftershock fire modes to follow other ([#55879](https://github.com/CleverRaven/Cataclysm-DDA/pull/55879))
 * Remove double full stop ([#55875](https://github.com/CleverRaven/Cataclysm-DDA/pull/55875))
-* pedals → petals ([#55863](https://github.com/CleverRaven/Cataclysm-DDA/pull/55863))
-* Remove double disarmed ([#55862](https://github.com/CleverRaven/Cataclysm-DDA/pull/55862))
-* foodplace → Foodplace ([#55861](https://github.com/CleverRaven/Cataclysm-DDA/pull/55861))
-* goat ([#55870](https://github.com/CleverRaven/Cataclysm-DDA/pull/55870))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-08-1603 ([debe92d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-08-1603))
-
-* [DinoMod] readable name colors ([#55869](https://github.com/CleverRaven/Cataclysm-DDA/pull/55869))
 * Fixed mix up of requirements for fish traps ([#55933](https://github.com/CleverRaven/Cataclysm-DDA/pull/55933))
 * Remove extra space ([#55901](https://github.com/CleverRaven/Cataclysm-DDA/pull/55901))
-* composition b → composition B ([#55858](https://github.com/CleverRaven/Cataclysm-DDA/pull/55858))
