@@ -1,3 +1,4 @@
+* Added expected thickness multiple for materials ([#55981](https://github.com/CleverRaven/Cataclysm-DDA/pull/55981))
 
 ---
 
@@ -215,6 +216,5 @@
 * Consistently spell bubble wrap ([#55948](https://github.com/CleverRaven/Cataclysm-DDA/pull/55948))
 * SPAS 12 → SPAS-12 ([#55898](https://github.com/CleverRaven/Cataclysm-DDA/pull/55898))
 * M1991 → M1911 ([#55895](https://github.com/CleverRaven/Cataclysm-DDA/pull/55895))
-* Add full stop to `walther_p22` description ([#55890](https://github.com/CleverRaven/Cataclysm-DDA/pull/55890))
 * Fixed mix up of requirements for fish traps ([#55933](https://github.com/CleverRaven/Cataclysm-DDA/pull/55933))
 * Remove extra space ([#55901](https://github.com/CleverRaven/Cataclysm-DDA/pull/55901))

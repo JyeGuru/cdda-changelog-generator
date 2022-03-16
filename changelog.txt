@@ -1,3 +1,4 @@
+* Added expected thickness multiple for materials (#55981)
 
 Cataclysm-DDA experimental build 2022-03-16-2131 (540281e)
 * [MMA] Weapon Categories: Desert Wind (#55980)
@@ -137,6 +138,5 @@ Cataclysm-DDA experimental build 2022-03-09-1813 (cfb2da5)
 * Consistently spell bubble wrap (#55948)
 * SPAS 12 → SPAS-12 (#55898)
 * M1991 → M1911 (#55895)
-* Add full stop to `walther_p22` description (#55890)
 * Fixed mix up of requirements for fish traps (#55933)
 * Remove extra space (#55901)
