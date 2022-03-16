@@ -1,3 +1,4 @@
+* remove obsolete mods since 0.E ([#55894](https://github.com/CleverRaven/Cataclysm-DDA/pull/55894))
 
 ---
 
@@ -202,7 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-03-09-0720 ([c460657](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-09-0720))
 
 * Add `[ "HAMMER", 1 ]` quality to mortar&pestle ([#55888](https://github.com/CleverRaven/Cataclysm-DDA/pull/55888))
-* Remove obsolete and unusable Graphical Overmap mods ([#55887](https://github.com/CleverRaven/Cataclysm-DDA/pull/55887))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 * fix wrong non_functional for one of the migo plates ([#55942](https://github.com/CleverRaven/Cataclysm-DDA/pull/55942))
 * Fix the double definition bug ([#55938](https://github.com/CleverRaven/Cataclysm-DDA/pull/55938))
