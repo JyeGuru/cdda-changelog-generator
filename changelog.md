@@ -200,6 +200,5 @@
 * Remove double space from pair of santa gloves desc ([#55880](https://github.com/CleverRaven/Cataclysm-DDA/pull/55880))
 * Change Aftershock fire modes to follow other ([#55879](https://github.com/CleverRaven/Cataclysm-DDA/pull/55879))
 * Remove double full stop ([#55875](https://github.com/CleverRaven/Cataclysm-DDA/pull/55875))
-* goat ([#55870](https://github.com/CleverRaven/Cataclysm-DDA/pull/55870))
 * Fixed mix up of requirements for fish traps ([#55933](https://github.com/CleverRaven/Cataclysm-DDA/pull/55933))
 * Remove extra space ([#55901](https://github.com/CleverRaven/Cataclysm-DDA/pull/55901))
