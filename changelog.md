@@ -1,3 +1,5 @@
+* [MMA] Weapon Categories: Desert Wind ([#55980](https://github.com/CleverRaven/Cataclysm-DDA/pull/55980))
+* Glooscap ([#55966](https://github.com/CleverRaven/Cataclysm-DDA/pull/55966))
 
 ---
 
@@ -202,7 +204,6 @@
 * Replace knife spear hint with spike on a stick ([#55947](https://github.com/CleverRaven/Cataclysm-DDA/pull/55947))
 * Military Armor Item Groups ([#55927](https://github.com/CleverRaven/Cataclysm-DDA/pull/55927))
 * Spawn Zombie Cops with small firearms more often and lower pick rate of mx_military 'map extra' ([#55908](https://github.com/CleverRaven/Cataclysm-DDA/pull/55908))
-* Add `[ "HAMMER", 1 ]` quality to mortar&pestle ([#55888](https://github.com/CleverRaven/Cataclysm-DDA/pull/55888))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 * fix wrong non_functional for one of the migo plates ([#55942](https://github.com/CleverRaven/Cataclysm-DDA/pull/55942))
 * Fix the double definition bug ([#55938](https://github.com/CleverRaven/Cataclysm-DDA/pull/55938))
@@ -215,6 +216,5 @@
 * SPAS 12 → SPAS-12 ([#55898](https://github.com/CleverRaven/Cataclysm-DDA/pull/55898))
 * M1991 → M1911 ([#55895](https://github.com/CleverRaven/Cataclysm-DDA/pull/55895))
 * Add full stop to `walther_p22` description ([#55890](https://github.com/CleverRaven/Cataclysm-DDA/pull/55890))
-* Add full stop to `plastic_straw` description ([#55889](https://github.com/CleverRaven/Cataclysm-DDA/pull/55889))
 * Fixed mix up of requirements for fish traps ([#55933](https://github.com/CleverRaven/Cataclysm-DDA/pull/55933))
 * Remove extra space ([#55901](https://github.com/CleverRaven/Cataclysm-DDA/pull/55901))
