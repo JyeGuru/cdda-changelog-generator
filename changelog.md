@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-16-1821 ([776942d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-1821))
+
 * String fixes to Add an effect debug menu ([#56053](https://github.com/CleverRaven/Cataclysm-DDA/pull/56053))
 * Text fixes to 40x46mm grenades ([#56088](https://github.com/CleverRaven/Cataclysm-DDA/pull/56088))
 * Switch corn cob to consume_drug ([#56117](https://github.com/CleverRaven/Cataclysm-DDA/pull/56117))
