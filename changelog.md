@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-16-2028 ([8bc0694](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-2028))
+
 * remove obsolete mods since 0.E ([#55894](https://github.com/CleverRaven/Cataclysm-DDA/pull/55894))
 
 ---
@@ -197,11 +202,6 @@
 * Replace knife spear hint with spike on a stick ([#55947](https://github.com/CleverRaven/Cataclysm-DDA/pull/55947))
 * Military Armor Item Groups ([#55927](https://github.com/CleverRaven/Cataclysm-DDA/pull/55927))
 * Spawn Zombie Cops with small firearms more often and lower pick rate of mx_military 'map extra' ([#55908](https://github.com/CleverRaven/Cataclysm-DDA/pull/55908))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-09-0720 ([c460657](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-09-0720))
-
 * Add `[ "HAMMER", 1 ]` quality to mortar&pestle ([#55888](https://github.com/CleverRaven/Cataclysm-DDA/pull/55888))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 * fix wrong non_functional for one of the migo plates ([#55942](https://github.com/CleverRaven/Cataclysm-DDA/pull/55942))
