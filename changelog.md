@@ -198,7 +198,6 @@
 * Made Lamellar Cuirass more interesting ([#55971](https://github.com/CleverRaven/Cataclysm-DDA/pull/55971))
 * Added a check for MA_manual when reading near NPCs ([#55958](https://github.com/CleverRaven/Cataclysm-DDA/pull/55958))
 * Pockets: prioritize parent over nested ([#55944](https://github.com/CleverRaven/Cataclysm-DDA/pull/55944))
-* [Aftershock] Grav Chute CBM ([#55920](https://github.com/CleverRaven/Cataclysm-DDA/pull/55920))
 * fix for not wearing anything ([#55967](https://github.com/CleverRaven/Cataclysm-DDA/pull/55967))
 * Armor balance guide ([#55957](https://github.com/CleverRaven/Cataclysm-DDA/pull/55957))
 * Fix test failure when LOCALIZE is disabled ([#55956](https://github.com/CleverRaven/Cataclysm-DDA/pull/55956))
