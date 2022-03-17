@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-03-17-0510 (86fe522)
+* Make National Guard worth its points (#56089)
+
 Cataclysm-DDA experimental build 2022-03-16-2354 (03d89b0)
 * Replace artificial forests, part III (#56123)
 * added breathability for mod materials (#56099)
@@ -117,8 +120,6 @@ Cataclysm-DDA experimental build 2022-03-10-0222 (1b16228)
 * typo fixes by faalagorn for Cody Fabrication (#55982)
 * Kevlar Gambeson Complexify (#55976)
 * Allow opening of non watertight containers in AIM (#55974)
-
-Cataclysm-DDA experimental build 2022-03-10-0103 (1694938)
 * Made Lamellar Cuirass more interesting (#55971)
 * Added a check for MA_manual when reading near NPCs (#55958)
 * Pockets: prioritize parent over nested (#55944)

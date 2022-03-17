@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-17-0510 ([86fe522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-17-0510))
+
+* Make National Guard worth its points ([#56089](https://github.com/CleverRaven/Cataclysm-DDA/pull/56089))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-16-2354 ([03d89b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-2354))
 
 * Replace artificial forests, part III ([#56123](https://github.com/CleverRaven/Cataclysm-DDA/pull/56123))
@@ -189,11 +195,6 @@
 * typo fixes by faalagorn for Cody Fabrication ([#55982](https://github.com/CleverRaven/Cataclysm-DDA/pull/55982))
 * Kevlar Gambeson Complexify ([#55976](https://github.com/CleverRaven/Cataclysm-DDA/pull/55976))
 * Allow opening of non watertight containers in AIM ([#55974](https://github.com/CleverRaven/Cataclysm-DDA/pull/55974))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-10-0103 ([1694938](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-10-0103))
-
 * Made Lamellar Cuirass more interesting ([#55971](https://github.com/CleverRaven/Cataclysm-DDA/pull/55971))
 * Added a check for MA_manual when reading near NPCs ([#55958](https://github.com/CleverRaven/Cataclysm-DDA/pull/55958))
 * Pockets: prioritize parent over nested ([#55944](https://github.com/CleverRaven/Cataclysm-DDA/pull/55944))
