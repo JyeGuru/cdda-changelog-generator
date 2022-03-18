@@ -205,6 +205,7 @@
 * [DinoMod] Albertonykus ([#55955](https://github.com/CleverRaven/Cataclysm-DDA/pull/55955))
 * Quick and dirty fix for vertical peek bug ([#55952](https://github.com/CleverRaven/Cataclysm-DDA/pull/55952))
 * Replace knife spear hint with spike on a stick ([#55947](https://github.com/CleverRaven/Cataclysm-DDA/pull/55947))
+* Military Armor Item Groups ([#55927](https://github.com/CleverRaven/Cataclysm-DDA/pull/55927))
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 * fix wrong non_functional for one of the migo plates ([#55942](https://github.com/CleverRaven/Cataclysm-DDA/pull/55942))
 * Fix the double definition bug ([#55938](https://github.com/CleverRaven/Cataclysm-DDA/pull/55938))
