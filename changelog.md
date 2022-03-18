@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-18-0508 ([714f560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-18-0508))
+
+* Cutting chainlink fence will now yield wires, not steel chunks ([#56160](https://github.com/CleverRaven/Cataclysm-DDA/pull/56160))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-17-0510 ([86fe522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-17-0510))
 
 * Make National Guard worth its points ([#56089](https://github.com/CleverRaven/Cataclysm-DDA/pull/56089))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2022-03-10-0605 ([f0a49a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-10-0605))
 
 * Fix worn wrapper warmth function not checking for bp coverage ([#55973](https://github.com/CleverRaven/Cataclysm-DDA/pull/55973))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-10-0222 ([1b16228](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-10-0222))
-
 * typo fixes by faalagorn for Cody Fabrication ([#55982](https://github.com/CleverRaven/Cataclysm-DDA/pull/55982))
 * Kevlar Gambeson Complexify ([#55976](https://github.com/CleverRaven/Cataclysm-DDA/pull/55976))
 * Allow opening of non watertight containers in AIM ([#55974](https://github.com/CleverRaven/Cataclysm-DDA/pull/55974))
@@ -208,7 +209,6 @@
 * Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
 * fix wrong non_functional for one of the migo plates ([#55942](https://github.com/CleverRaven/Cataclysm-DDA/pull/55942))
 * Fix the double definition bug ([#55938](https://github.com/CleverRaven/Cataclysm-DDA/pull/55938))
-* Automatically post a warning comment when translation files are changed ([#55922](https://github.com/CleverRaven/Cataclysm-DDA/pull/55922))
 * fix typo in football hobby description ([#55946](https://github.com/CleverRaven/Cataclysm-DDA/pull/55946))
 * Consistently spell bubble wrap ([#55948](https://github.com/CleverRaven/Cataclysm-DDA/pull/55948))
 * Fixed mix up of requirements for fish traps ([#55933](https://github.com/CleverRaven/Cataclysm-DDA/pull/55933))
