@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-03-19-0804 (f2c491b)
+* Fix jackolantern → jack o'lantern (#56197)
+
 Cataclysm-DDA experimental build 2022-03-19-0426 (1b95893)
 * Mosin-Nagant 91/30 Boreal → 1891/30 Boreal (#56194)
 
@@ -118,8 +121,6 @@ Cataclysm-DDA experimental build 2022-03-10-0857 (640d061)
 
 Cataclysm-DDA experimental build 2022-03-10-0816 (3f3b54d)
 * Fix crash when holstering items (#55988)
-
-Cataclysm-DDA experimental build 2022-03-10-0605 (f0a49a0)
 * Fix worn wrapper warmth function not checking for bp coverage (#55973)
 * typo fixes by faalagorn for Cody Fabrication (#55982)
 * Kevlar Gambeson Complexify (#55976)

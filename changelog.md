@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-19-0804 ([f2c491b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-19-0804))
+
+* Fix jackolantern → jack o'lantern ([#56197](https://github.com/CleverRaven/Cataclysm-DDA/pull/56197))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-19-0426 ([1b95893](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-19-0426))
 
 * Mosin-Nagant 91/30 Boreal → 1891/30 Boreal ([#56194](https://github.com/CleverRaven/Cataclysm-DDA/pull/56194))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2022-03-10-0816 ([3f3b54d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-10-0816))
 
 * Fix crash when holstering items ([#55988](https://github.com/CleverRaven/Cataclysm-DDA/pull/55988))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-10-0605 ([f0a49a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-10-0605))
-
 * Fix worn wrapper warmth function not checking for bp coverage ([#55973](https://github.com/CleverRaven/Cataclysm-DDA/pull/55973))
 * typo fixes by faalagorn for Cody Fabrication ([#55982](https://github.com/CleverRaven/Cataclysm-DDA/pull/55982))
 * Kevlar Gambeson Complexify ([#55976](https://github.com/CleverRaven/Cataclysm-DDA/pull/55976))
