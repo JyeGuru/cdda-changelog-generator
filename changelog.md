@@ -1,3 +1,4 @@
+* Remove "none" plurals ([#56230](https://github.com/CleverRaven/Cataclysm-DDA/pull/56230))
 * Change multi-tool → multitool to match others ([#56214](https://github.com/CleverRaven/Cataclysm-DDA/pull/56214))
 * Translate inline weakpoint names ([#56201](https://github.com/CleverRaven/Cataclysm-DDA/pull/56201))
 * Polish playlist id expansion feature from #56045 ([#56203](https://github.com/CleverRaven/Cataclysm-DDA/pull/56203))
@@ -218,4 +219,3 @@
 * Added a check for MA_manual when reading near NPCs ([#55958](https://github.com/CleverRaven/Cataclysm-DDA/pull/55958))
 * fix for not wearing anything ([#55967](https://github.com/CleverRaven/Cataclysm-DDA/pull/55967))
 * Armor balance guide ([#55957](https://github.com/CleverRaven/Cataclysm-DDA/pull/55957))
-* Fix test failure when LOCALIZE is disabled ([#55956](https://github.com/CleverRaven/Cataclysm-DDA/pull/55956))
