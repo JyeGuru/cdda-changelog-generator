@@ -1,3 +1,4 @@
+* fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
 * Add id_suffix to shadowed recipes (#56161) ([#56177](https://github.com/CleverRaven/Cataclysm-DDA/pull/56177))
 * Tacoma grammar updates. Change knife spear to simple knife spear ([#56188](https://github.com/CleverRaven/Cataclysm-DDA/pull/56188))
@@ -88,7 +89,6 @@
 * Switch corn cob to consume_drug ([#56117](https://github.com/CleverRaven/Cataclysm-DDA/pull/56117))
 * [Innawood] Food made from blood ([#56025](https://github.com/CleverRaven/Cataclysm-DDA/pull/56025))
 * Lamellar Cuirass Should Be Outer ([#56042](https://github.com/CleverRaven/Cataclysm-DDA/pull/56042))
-* Ablative Plates Sort With Other Armor ([#55978](https://github.com/CleverRaven/Cataclysm-DDA/pull/55978))
 
 ---
 
