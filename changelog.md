@@ -1,3 +1,12 @@
+* fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
+* Add id_suffix to shadowed recipes (#56161) ([#56177](https://github.com/CleverRaven/Cataclysm-DDA/pull/56177))
+* Tacoma grammar updates. Change knife spear to simple knife spear ([#56188](https://github.com/CleverRaven/Cataclysm-DDA/pull/56188))
+* Fix missing appliance removal prompt ([#56189](https://github.com/CleverRaven/Cataclysm-DDA/pull/56189))
+* Tacoma - Convert buying logs to json ([#56192](https://github.com/CleverRaven/Cataclysm-DDA/pull/56192))
+* Properly fix conflicting `uilist` keys ([#56212](https://github.com/CleverRaven/Cataclysm-DDA/pull/56212))
+* Translate "something" in monster attack messages ([#56200](https://github.com/CleverRaven/Cataclysm-DDA/pull/56200))
+* Translate game window title ([#56218](https://github.com/CleverRaven/Cataclysm-DDA/pull/56218))
+* flaming eye danger fix ([#56226](https://github.com/CleverRaven/Cataclysm-DDA/pull/56226))
 * Remove "none" plurals ([#56230](https://github.com/CleverRaven/Cataclysm-DDA/pull/56230))
 * Change multi-tool → multitool to match others ([#56214](https://github.com/CleverRaven/Cataclysm-DDA/pull/56214))
 * Translate inline weakpoint names ([#56201](https://github.com/CleverRaven/Cataclysm-DDA/pull/56201))
@@ -69,7 +78,6 @@
 #### Cataclysm-DDA experimental build 2022-03-16-2131 ([540281e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-2131))
 
 * [MMA] Weapon Categories: Desert Wind ([#55980](https://github.com/CleverRaven/Cataclysm-DDA/pull/55980))
-* Glooscap ([#55966](https://github.com/CleverRaven/Cataclysm-DDA/pull/55966))
 
 ---
 
@@ -174,12 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-03-12-0645 ([70509e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-0645))
 
 * Fix sfx preload ([#56037](https://github.com/CleverRaven/Cataclysm-DDA/pull/56037))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-11-2134 ([b0a8d8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-2134))
-
-* Use translated string for inf ([#55975](https://github.com/CleverRaven/Cataclysm-DDA/pull/55975))
 * Revive MXE-MinGW experimental release build ([#56031](https://github.com/CleverRaven/Cataclysm-DDA/pull/56031))
 * Correct “Code: Tests” tag name in auto labeller ([#56029](https://github.com/CleverRaven/Cataclysm-DDA/pull/56029))
 * Phone case variants ([#56028](https://github.com/CleverRaven/Cataclysm-DDA/pull/56028))
@@ -211,11 +213,4 @@
 * [DinoMod] scutellosaurus fixes ([#55985](https://github.com/CleverRaven/Cataclysm-DDA/pull/55985))
 * Blood isn't quenchy. ([#55991](https://github.com/CleverRaven/Cataclysm-DDA/pull/55991))
 * Fix crash when holstering items ([#55988](https://github.com/CleverRaven/Cataclysm-DDA/pull/55988))
-* Fix worn wrapper warmth function not checking for bp coverage ([#55973](https://github.com/CleverRaven/Cataclysm-DDA/pull/55973))
 * typo fixes by faalagorn for Cody Fabrication ([#55982](https://github.com/CleverRaven/Cataclysm-DDA/pull/55982))
-* Kevlar Gambeson Complexify ([#55976](https://github.com/CleverRaven/Cataclysm-DDA/pull/55976))
-* Allow opening of non watertight containers in AIM ([#55974](https://github.com/CleverRaven/Cataclysm-DDA/pull/55974))
-* Made Lamellar Cuirass more interesting ([#55971](https://github.com/CleverRaven/Cataclysm-DDA/pull/55971))
-* Added a check for MA_manual when reading near NPCs ([#55958](https://github.com/CleverRaven/Cataclysm-DDA/pull/55958))
-* fix for not wearing anything ([#55967](https://github.com/CleverRaven/Cataclysm-DDA/pull/55967))
-* Armor balance guide ([#55957](https://github.com/CleverRaven/Cataclysm-DDA/pull/55957))
