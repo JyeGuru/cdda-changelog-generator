@@ -1,3 +1,4 @@
+* More variants phone cases and t-shirts ([#56041](https://github.com/CleverRaven/Cataclysm-DDA/pull/56041))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
 * Add id_suffix to shadowed recipes (#56161) ([#56177](https://github.com/CleverRaven/Cataclysm-DDA/pull/56177))
@@ -73,12 +74,6 @@
 * New tool forged shears is added ([#56008](https://github.com/CleverRaven/Cataclysm-DDA/pull/56008))
 * Fix plants spawning on dirt mounds ([#56007](https://github.com/CleverRaven/Cataclysm-DDA/pull/56007))
 * Added expected thickness multiple for materials ([#55981](https://github.com/CleverRaven/Cataclysm-DDA/pull/55981))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-16-2131 ([540281e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-2131))
-
-* [MMA] Weapon Categories: Desert Wind ([#55980](https://github.com/CleverRaven/Cataclysm-DDA/pull/55980))
 
 ---
 
