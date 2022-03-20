@@ -1,3 +1,18 @@
+* Change multi-tool → multitool to match others ([#56214](https://github.com/CleverRaven/Cataclysm-DDA/pull/56214))
+* Translate inline weakpoint names ([#56201](https://github.com/CleverRaven/Cataclysm-DDA/pull/56201))
+* Polish playlist id expansion feature from #56045 ([#56203](https://github.com/CleverRaven/Cataclysm-DDA/pull/56203))
+* Mark Artisan gun "Crack!" appear in translation ([#56221](https://github.com/CleverRaven/Cataclysm-DDA/pull/56221))
+* Remove duplicate hotkeys from debug menu ([#56058](https://github.com/CleverRaven/Cataclysm-DDA/pull/56058))
+* Fix typos in doc ([#56210](https://github.com/CleverRaven/Cataclysm-DDA/pull/56210))
+* Add missing dot for dialog response ([#56213](https://github.com/CleverRaven/Cataclysm-DDA/pull/56213))
+* movecost → move cost ([#56225](https://github.com/CleverRaven/Cataclysm-DDA/pull/56225))
+* Add context to mustard ([#56228](https://github.com/CleverRaven/Cataclysm-DDA/pull/56228))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-20-0826 ([851d472](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-20-0826))
+
+* Add ASCII picture to missing batteries ([#56040](https://github.com/CleverRaven/Cataclysm-DDA/pull/56040))
 
 ---
 
@@ -193,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-03-11-0513 ([8e1aaa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-0513))
 
 * [DinoMod] scutellosaurus fixes ([#55985](https://github.com/CleverRaven/Cataclysm-DDA/pull/55985))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-10-0857 ([640d061](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-10-0857))
-
 * Blood isn't quenchy. ([#55991](https://github.com/CleverRaven/Cataclysm-DDA/pull/55991))
 * Fix crash when holstering items ([#55988](https://github.com/CleverRaven/Cataclysm-DDA/pull/55988))
 * Fix worn wrapper warmth function not checking for bp coverage ([#55973](https://github.com/CleverRaven/Cataclysm-DDA/pull/55973))
@@ -206,15 +216,6 @@
 * Allow opening of non watertight containers in AIM ([#55974](https://github.com/CleverRaven/Cataclysm-DDA/pull/55974))
 * Made Lamellar Cuirass more interesting ([#55971](https://github.com/CleverRaven/Cataclysm-DDA/pull/55971))
 * Added a check for MA_manual when reading near NPCs ([#55958](https://github.com/CleverRaven/Cataclysm-DDA/pull/55958))
-* Pockets: prioritize parent over nested ([#55944](https://github.com/CleverRaven/Cataclysm-DDA/pull/55944))
 * fix for not wearing anything ([#55967](https://github.com/CleverRaven/Cataclysm-DDA/pull/55967))
 * Armor balance guide ([#55957](https://github.com/CleverRaven/Cataclysm-DDA/pull/55957))
 * Fix test failure when LOCALIZE is disabled ([#55956](https://github.com/CleverRaven/Cataclysm-DDA/pull/55956))
-* [DinoMod] Albertonykus ([#55955](https://github.com/CleverRaven/Cataclysm-DDA/pull/55955))
-* Quick and dirty fix for vertical peek bug ([#55952](https://github.com/CleverRaven/Cataclysm-DDA/pull/55952))
-* Replace knife spear hint with spike on a stick ([#55947](https://github.com/CleverRaven/Cataclysm-DDA/pull/55947))
-* Recover oxygen over time ([#55949](https://github.com/CleverRaven/Cataclysm-DDA/pull/55949))
-* fix wrong non_functional for one of the migo plates ([#55942](https://github.com/CleverRaven/Cataclysm-DDA/pull/55942))
-* Fix the double definition bug ([#55938](https://github.com/CleverRaven/Cataclysm-DDA/pull/55938))
-* fix typo in football hobby description ([#55946](https://github.com/CleverRaven/Cataclysm-DDA/pull/55946))
-* Consistently spell bubble wrap ([#55948](https://github.com/CleverRaven/Cataclysm-DDA/pull/55948))
