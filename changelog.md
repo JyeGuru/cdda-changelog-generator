@@ -1,3 +1,6 @@
+* Zap Rattigan fixes ([#56149](https://github.com/CleverRaven/Cataclysm-DDA/pull/56149))
+* Gunstore, Liquor Store, Fix ([#56147](https://github.com/CleverRaven/Cataclysm-DDA/pull/56147))
+* Update XL/XS items to use extend flags ([#56158](https://github.com/CleverRaven/Cataclysm-DDA/pull/56158))
 * More variants phone cases and t-shirts ([#56041](https://github.com/CleverRaven/Cataclysm-DDA/pull/56041))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
@@ -73,7 +76,6 @@
 * Fix biosilicified chitin inconsistencies ([#56010](https://github.com/CleverRaven/Cataclysm-DDA/pull/56010))
 * New tool forged shears is added ([#56008](https://github.com/CleverRaven/Cataclysm-DDA/pull/56008))
 * Fix plants spawning on dirt mounds ([#56007](https://github.com/CleverRaven/Cataclysm-DDA/pull/56007))
-* Added expected thickness multiple for materials ([#55981](https://github.com/CleverRaven/Cataclysm-DDA/pull/55981))
 
 ---
 
@@ -200,12 +202,5 @@
 * Allow swapping positions and moving out of the way for all types of friendly NPCs ([#56000](https://github.com/CleverRaven/Cataclysm-DDA/pull/56000))
 * Don't apply increased stamina burn if player is on a boat on water ([#55992](https://github.com/CleverRaven/Cataclysm-DDA/pull/55992))
 * Now it's possible to load .38 Super into .38 Super magazines ([#55995](https://github.com/CleverRaven/Cataclysm-DDA/pull/55995))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-11-0513 ([8e1aaa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-0513))
-
-* [DinoMod] scutellosaurus fixes ([#55985](https://github.com/CleverRaven/Cataclysm-DDA/pull/55985))
 * Blood isn't quenchy. ([#55991](https://github.com/CleverRaven/Cataclysm-DDA/pull/55991))
 * Fix crash when holstering items ([#55988](https://github.com/CleverRaven/Cataclysm-DDA/pull/55988))
-* typo fixes by faalagorn for Cody Fabrication ([#55982](https://github.com/CleverRaven/Cataclysm-DDA/pull/55982))
