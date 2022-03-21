@@ -1,3 +1,4 @@
+* Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
 * Zap Rattigan fixes ([#56149](https://github.com/CleverRaven/Cataclysm-DDA/pull/56149))
 * Gunstore, Liquor Store, Fix ([#56147](https://github.com/CleverRaven/Cataclysm-DDA/pull/56147))
 * Update XL/XS items to use extend flags ([#56158](https://github.com/CleverRaven/Cataclysm-DDA/pull/56158))
@@ -202,4 +203,3 @@
 * Don't apply increased stamina burn if player is on a boat on water ([#55992](https://github.com/CleverRaven/Cataclysm-DDA/pull/55992))
 * Now it's possible to load .38 Super into .38 Super magazines ([#55995](https://github.com/CleverRaven/Cataclysm-DDA/pull/55995))
 * Blood isn't quenchy. ([#55991](https://github.com/CleverRaven/Cataclysm-DDA/pull/55991))
-* Fix crash when holstering items ([#55988](https://github.com/CleverRaven/Cataclysm-DDA/pull/55988))
