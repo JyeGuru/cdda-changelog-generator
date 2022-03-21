@@ -125,7 +125,6 @@ Cataclysm-DDA experimental build 2022-03-12-0645 (70509e4)
 
 Cataclysm-DDA experimental build 2022-03-11-2015 (e4e6681)
 * Fix compile error on Android (#56032)
-* Adding loose ammo to looted gun stores (#55987)
 
 Cataclysm-DDA experimental build 2022-03-11-0559 (53f9bd3)
 * Gave `MECH_DEFENSIVE` flag to all three mechas in No Hope mod (#55989)

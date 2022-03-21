@@ -191,7 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-03-11-2015 ([e4e6681](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-2015))
 
 * Fix compile error on Android ([#56032](https://github.com/CleverRaven/Cataclysm-DDA/pull/56032))
-* Adding loose ammo to looted gun stores ([#55987](https://github.com/CleverRaven/Cataclysm-DDA/pull/55987))
 
 ---
 
