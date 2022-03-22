@@ -1,3 +1,13 @@
+* [DinoMod] hadrosaurus ([#56295](https://github.com/CleverRaven/Cataclysm-DDA/pull/56295))
+* Fix food plurals + minor typos ([#56255](https://github.com/CleverRaven/Cataclysm-DDA/pull/56255))
+* Consistent Marloss/Mycus/Mycal case ([#56251](https://github.com/CleverRaven/Cataclysm-DDA/pull/56251))
+* Fix book plurals + minor typos ([#56268](https://github.com/CleverRaven/Cataclysm-DDA/pull/56268))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-22-1513 ([8d98924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-22-1513))
+
+* Prevent potential null pointer dereferencing in talk_effect_fun_t::set_spawn_monster() ([#56261](https://github.com/CleverRaven/Cataclysm-DDA/pull/56261))
 
 ---
 
@@ -203,8 +213,3 @@
 #### Cataclysm-DDA experimental build 2022-03-11-2015 ([e4e6681](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-2015))
 
 * Fix compile error on Android ([#56032](https://github.com/CleverRaven/Cataclysm-DDA/pull/56032))
-* Don't make player's feet wet when walking over scrap metal bridge ([#56005](https://github.com/CleverRaven/Cataclysm-DDA/pull/56005))
-* Allow swapping positions and moving out of the way for all types of friendly NPCs ([#56000](https://github.com/CleverRaven/Cataclysm-DDA/pull/56000))
-* Don't apply increased stamina burn if player is on a boat on water ([#55992](https://github.com/CleverRaven/Cataclysm-DDA/pull/55992))
-* Now it's possible to load .38 Super into .38 Super magazines ([#55995](https://github.com/CleverRaven/Cataclysm-DDA/pull/55995))
-* Blood isn't quenchy. ([#55991](https://github.com/CleverRaven/Cataclysm-DDA/pull/55991))
