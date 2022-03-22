@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-03-22-0540 (880df58)
+* Fix mechanic recipes typos (#56286)
+
 Cataclysm-DDA experimental build 2022-03-21-0633 (3b9e1a3)
 * Add Bōjutsu to mutation description (#56273)
 * Zap Rattigan fixes (#56149)
@@ -128,9 +131,6 @@ Cataclysm-DDA experimental build 2022-03-12-0645 (70509e4)
 
 Cataclysm-DDA experimental build 2022-03-11-2015 (e4e6681)
 * Fix compile error on Android (#56032)
-
-Cataclysm-DDA experimental build 2022-03-11-0559 (53f9bd3)
-* Gave `MECH_DEFENSIVE` flag to all three mechas in No Hope mod (#55989)
 * Don't make player's feet wet when walking over scrap metal bridge (#56005)
 * Allow swapping positions and moving out of the way for all types of friendly NPCs (#56000)
 * Don't apply increased stamina burn if player is on a boat on water (#55992)

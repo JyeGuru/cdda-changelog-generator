@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-22-0540 ([880df58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-22-0540))
+
+* Fix mechanic recipes typos ([#56286](https://github.com/CleverRaven/Cataclysm-DDA/pull/56286))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-21-0633 ([3b9e1a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-21-0633))
 
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
@@ -197,12 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-03-11-2015 ([e4e6681](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-2015))
 
 * Fix compile error on Android ([#56032](https://github.com/CleverRaven/Cataclysm-DDA/pull/56032))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-11-0559 ([53f9bd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-11-0559))
-
-* Gave `MECH_DEFENSIVE` flag to all three mechas in No Hope mod ([#55989](https://github.com/CleverRaven/Cataclysm-DDA/pull/55989))
 * Don't make player's feet wet when walking over scrap metal bridge ([#56005](https://github.com/CleverRaven/Cataclysm-DDA/pull/56005))
 * Allow swapping positions and moving out of the way for all types of friendly NPCs ([#56000](https://github.com/CleverRaven/Cataclysm-DDA/pull/56000))
 * Don't apply increased stamina burn if player is on a boat on water ([#55992](https://github.com/CleverRaven/Cataclysm-DDA/pull/55992))
