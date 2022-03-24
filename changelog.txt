@@ -69,7 +69,6 @@ Cataclysm-DDA experimental build 2022-03-16-2240 (8540234)
 * Add new item, leather stone pouch (#56054)
 * buff motorcycle helmet (#56048)
 * Fix biosilicified chitin inconsistencies (#56010)
-* New tool forged shears is added (#56008)
 
 Cataclysm-DDA experimental build 2022-03-16-1821 (776942d)
 * String fixes to Add an effect debug menu (#56053)

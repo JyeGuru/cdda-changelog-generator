@@ -108,7 +108,6 @@
 * Add new item, leather stone pouch ([#56054](https://github.com/CleverRaven/Cataclysm-DDA/pull/56054))
 * buff motorcycle helmet ([#56048](https://github.com/CleverRaven/Cataclysm-DDA/pull/56048))
 * Fix biosilicified chitin inconsistencies ([#56010](https://github.com/CleverRaven/Cataclysm-DDA/pull/56010))
-* New tool forged shears is added ([#56008](https://github.com/CleverRaven/Cataclysm-DDA/pull/56008))
 
 ---
 
