@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-24-1409 ([543b040](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-24-1409))
+
+* Lower spawn rate of campground_npc ([#56322](https://github.com/CleverRaven/Cataclysm-DDA/pull/56322))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-23-0638 ([b87878f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-23-0638))
 
 * Modified Gun Spawns for every loaded gun ([#56191](https://github.com/CleverRaven/Cataclysm-DDA/pull/56191))
@@ -198,11 +204,6 @@
 * added missing n typo ([#56024](https://github.com/CleverRaven/Cataclysm-DDA/pull/56024))
 * Add ASCII picture to missing memory cards ([#56035](https://github.com/CleverRaven/Cataclysm-DDA/pull/56035))
 * Routine i18n updates on 12 March 2022 ([#56046](https://github.com/CleverRaven/Cataclysm-DDA/pull/56046))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-12-0645 ([70509e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-0645))
-
 * Fix sfx preload ([#56037](https://github.com/CleverRaven/Cataclysm-DDA/pull/56037))
 * Revive MXE-MinGW experimental release build ([#56031](https://github.com/CleverRaven/Cataclysm-DDA/pull/56031))
 * Correct “Code: Tests” tag name in auto labeller ([#56029](https://github.com/CleverRaven/Cataclysm-DDA/pull/56029))

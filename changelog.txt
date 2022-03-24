@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-03-24-1409 (543b040)
+* Lower spawn rate of campground_npc (#56322)
+
 Cataclysm-DDA experimental build 2022-03-23-0638 (b87878f)
 * Modified Gun Spawns for every loaded gun (#56191)
 
@@ -126,8 +129,6 @@ Cataclysm-DDA experimental build 2022-03-12-0749 (f172211)
 * added missing n typo (#56024)
 * Add ASCII picture to missing memory cards (#56035)
 * Routine i18n updates on 12 March 2022 (#56046)
-
-Cataclysm-DDA experimental build 2022-03-12-0645 (70509e4)
 * Fix sfx preload (#56037)
 * Revive MXE-MinGW experimental release build (#56031)
 * Correct “Code: Tests” tag name in auto labeller (#56029)
