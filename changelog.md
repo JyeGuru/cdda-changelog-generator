@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-25-0319 ([5ba62ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0319))
+
 * Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))
 
 ---
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2022-03-13-0619 ([a7c2d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-13-0619))
 
 * TropiCata: remove goats from mod ([#56065](https://github.com/CleverRaven/Cataclysm-DDA/pull/56065))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-12-1711 ([d464d32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-12-1711))
-
 * Nested mapgen update test fix ([#56049](https://github.com/CleverRaven/Cataclysm-DDA/pull/56049))
 * NPC talker test fix ([#56050](https://github.com/CleverRaven/Cataclysm-DDA/pull/56050))
 * Decrease min_item_volume for holster to allow storing smaller service pistols ([#56044](https://github.com/CleverRaven/Cataclysm-DDA/pull/56044))
