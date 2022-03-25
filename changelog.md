@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-25-0611 ([cf4ad66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0611))
+
 * [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
 * Add an alternative grappling hook recipe ([#56137](https://github.com/CleverRaven/Cataclysm-DDA/pull/56137))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
