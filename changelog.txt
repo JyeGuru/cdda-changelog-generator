@@ -124,8 +124,6 @@ Cataclysm-DDA experimental build 2022-03-12-1711 (d464d32)
 Cataclysm-DDA experimental build 2022-03-12-0953 (b5427b0)
 * Decrease min_item_volume for holster to allow storing smaller service pistols (#56044)
 * Fix os dependent implementation in `compose.py` (#56039)
-
-Cataclysm-DDA experimental build 2022-03-12-0749 (f172211)
 * added missing n typo (#56024)
 * Add ASCII picture to missing memory cards (#56035)
 * Routine i18n updates on 12 March 2022 (#56046)
