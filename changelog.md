@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-25-0907 ([aeb1bd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0907))
+
+* Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-25-0611 ([cf4ad66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0611))
 
 * [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
@@ -150,7 +156,6 @@
 
 * Replace artificial forests, part III ([#56123](https://github.com/CleverRaven/Cataclysm-DDA/pull/56123))
 * added breathability for mod materials ([#56099](https://github.com/CleverRaven/Cataclysm-DDA/pull/56099))
-* Fix liquid handling for multipocket containers ([#56069](https://github.com/CleverRaven/Cataclysm-DDA/pull/56069))
 * Text fixes to 40x46mm grenades ([#56088](https://github.com/CleverRaven/Cataclysm-DDA/pull/56088))
 * Switch corn cob to consume_drug ([#56117](https://github.com/CleverRaven/Cataclysm-DDA/pull/56117))
 
@@ -189,9 +194,4 @@
 #### Cataclysm-DDA experimental build 2022-03-15-0611 ([d703f84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-15-0611))
 
 * Minor fix to TRANSLATING guide ([#56075](https://github.com/CleverRaven/Cataclysm-DDA/pull/56075))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-13-1128 ([20b4ebb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-13-1128))
-
 * Rev vcpkg cachekeys again. ([#56073](https://github.com/CleverRaven/Cataclysm-DDA/pull/56073))
