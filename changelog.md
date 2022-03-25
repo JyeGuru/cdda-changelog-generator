@@ -1,3 +1,34 @@
+* [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
+* Add an alternative grappling hook recipe ([#56137](https://github.com/CleverRaven/Cataclysm-DDA/pull/56137))
+* [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
+* [Innawoods] Welding-free mechanical pump ([#56208](https://github.com/CleverRaven/Cataclysm-DDA/pull/56208))
+* Fix incorrect item weights (#56131) ([#56162](https://github.com/CleverRaven/Cataclysm-DDA/pull/56162))
+* Typo Fixes, Added desired name for the Pulverizer ([#56164](https://github.com/CleverRaven/Cataclysm-DDA/pull/56164))
+* Add "polearms" weapon categories to the lucerne hammer and Poleaxe ([#56146](https://github.com/CleverRaven/Cataclysm-DDA/pull/56146))
+* [DinoMod] sauropod stomach cooking ([#56150](https://github.com/CleverRaven/Cataclysm-DDA/pull/56150))
+* When tired, cancel current activity if "Maybe later" is chosen; finish current activity if "Finish it" is chosen ([#56180](https://github.com/CleverRaven/Cataclysm-DDA/pull/56180))
+* Tacoma - Fix Woodworker not spawning ([#56196](https://github.com/CleverRaven/Cataclysm-DDA/pull/56196))
+* Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
+* Don't spawn hallucinations on open air ([#56238](https://github.com/CleverRaven/Cataclysm-DDA/pull/56238))
+* Tilesets Update 2022-03-20 ([#56246](https://github.com/CleverRaven/Cataclysm-DDA/pull/56246))
+* Added a house with unfortunate victim of weird aircraft accident ([#56248](https://github.com/CleverRaven/Cataclysm-DDA/pull/56248))
+* bamboo ([#56258](https://github.com/CleverRaven/Cataclysm-DDA/pull/56258))
+* Update SOUNDPACK.md ([#56250](https://github.com/CleverRaven/Cataclysm-DDA/pull/56250))
+* Restore missing flags ([#56275](https://github.com/CleverRaven/Cataclysm-DDA/pull/56275))
+* Typo fixes to bionics file ([#56245](https://github.com/CleverRaven/Cataclysm-DDA/pull/56245))
+* iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
+* Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
+* Fix guns and minor typos ([#56262](https://github.com/CleverRaven/Cataclysm-DDA/pull/56262))
+* Unify robotfindskitten spelling ([#56244](https://github.com/CleverRaven/Cataclysm-DDA/pull/56244))
+* Fix mutations minor typos ([#56266](https://github.com/CleverRaven/Cataclysm-DDA/pull/56266))
+* Consistently use ™ ([#56284](https://github.com/CleverRaven/Cataclysm-DDA/pull/56284))
+* pack → cigarette pack ([#56331](https://github.com/CleverRaven/Cataclysm-DDA/pull/56331))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-25-0511 ([46d4710](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0511))
+
+* Fix installation of certain vehicle part variants ([#56304](https://github.com/CleverRaven/Cataclysm-DDA/pull/56304))
 
 ---
 
@@ -15,8 +46,6 @@
 * Assign faction to (some) item and vehicle placement ([#56110](https://github.com/CleverRaven/Cataclysm-DDA/pull/56110))
 * Fixed Remington ACR .223 description. ([#56090](https://github.com/CleverRaven/Cataclysm-DDA/pull/56090))
 * Additions and changes to ferals, and some other things ([#56074](https://github.com/CleverRaven/Cataclysm-DDA/pull/56074))
-* Add context to Drink in inventory ([#56060](https://github.com/CleverRaven/Cataclysm-DDA/pull/56060))
-* Add paper wrapper recipe ([#56038](https://github.com/CleverRaven/Cataclysm-DDA/pull/56038))
 
 ---
 
@@ -60,7 +89,6 @@
 * Zap Rattigan fixes ([#56149](https://github.com/CleverRaven/Cataclysm-DDA/pull/56149))
 * Gunstore, Liquor Store, Fix ([#56147](https://github.com/CleverRaven/Cataclysm-DDA/pull/56147))
 * Update XL/XS items to use extend flags ([#56158](https://github.com/CleverRaven/Cataclysm-DDA/pull/56158))
-* More variants phone cases and t-shirts ([#56041](https://github.com/CleverRaven/Cataclysm-DDA/pull/56041))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
 * Add id_suffix to shadowed recipes (#56161) ([#56177](https://github.com/CleverRaven/Cataclysm-DDA/pull/56177))
@@ -76,17 +104,10 @@
 * Translate inline weakpoint names ([#56201](https://github.com/CleverRaven/Cataclysm-DDA/pull/56201))
 * Polish playlist id expansion feature from #56045 ([#56203](https://github.com/CleverRaven/Cataclysm-DDA/pull/56203))
 * Mark Artisan gun "Crack!" appear in translation ([#56221](https://github.com/CleverRaven/Cataclysm-DDA/pull/56221))
-* Remove duplicate hotkeys from debug menu ([#56058](https://github.com/CleverRaven/Cataclysm-DDA/pull/56058))
 * Fix typos in doc ([#56210](https://github.com/CleverRaven/Cataclysm-DDA/pull/56210))
 * Add missing dot for dialog response ([#56213](https://github.com/CleverRaven/Cataclysm-DDA/pull/56213))
 * movecost → move cost ([#56225](https://github.com/CleverRaven/Cataclysm-DDA/pull/56225))
 * Add context to mustard ([#56228](https://github.com/CleverRaven/Cataclysm-DDA/pull/56228))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-20-0826 ([851d472](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-20-0826))
-
-* Add ASCII picture to missing batteries ([#56040](https://github.com/CleverRaven/Cataclysm-DDA/pull/56040))
 
 ---
 
@@ -125,22 +146,8 @@
 * Replace artificial forests, part III ([#56123](https://github.com/CleverRaven/Cataclysm-DDA/pull/56123))
 * added breathability for mod materials ([#56099](https://github.com/CleverRaven/Cataclysm-DDA/pull/56099))
 * Fix liquid handling for multipocket containers ([#56069](https://github.com/CleverRaven/Cataclysm-DDA/pull/56069))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-16-2240 ([8540234](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-2240))
-
-* Add new item, leather stone pouch ([#56054](https://github.com/CleverRaven/Cataclysm-DDA/pull/56054))
-* buff motorcycle helmet ([#56048](https://github.com/CleverRaven/Cataclysm-DDA/pull/56048))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-16-1821 ([776942d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-1821))
-
-* String fixes to Add an effect debug menu ([#56053](https://github.com/CleverRaven/Cataclysm-DDA/pull/56053))
 * Text fixes to 40x46mm grenades ([#56088](https://github.com/CleverRaven/Cataclysm-DDA/pull/56088))
 * Switch corn cob to consume_drug ([#56117](https://github.com/CleverRaven/Cataclysm-DDA/pull/56117))
-* Lamellar Cuirass Should Be Outer ([#56042](https://github.com/CleverRaven/Cataclysm-DDA/pull/56042))
 
 ---
 
@@ -153,16 +160,12 @@
 #### Cataclysm-DDA experimental build 2022-03-16-1243 ([e033309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-1243))
 
 * Suppress wear messages for turrets ([#56108](https://github.com/CleverRaven/Cataclysm-DDA/pull/56108))
-* Add <u_name> and <npc_name> to tag parsing. Update docs for others ([#56066](https://github.com/CleverRaven/Cataclysm-DDA/pull/56066))
 * fix house fallback rotations in graphical overmap ([#56081](https://github.com/CleverRaven/Cataclysm-DDA/pull/56081))
 * fix: [CR] don't remove labels automatically ([#56085](https://github.com/CleverRaven/Cataclysm-DDA/pull/56085))
 * Made Bracelets and Rings >"sided":true< ([#56097](https://github.com/CleverRaven/Cataclysm-DDA/pull/56097))
-* Expand playlist ids for soundpack ([#56045](https://github.com/CleverRaven/Cataclysm-DDA/pull/56045))
 * Extract prying and lockpicking sounds to Transifex ([#56078](https://github.com/CleverRaven/Cataclysm-DDA/pull/56078))
 * [MMA] Remove redundant "weapons" entries where covered by "weapons_category" ([#56082](https://github.com/CleverRaven/Cataclysm-DDA/pull/56082))
 * Apply diving underwater for all types of climbing down, crawling down, and falling down to deep water tiles ([#56093](https://github.com/CleverRaven/Cataclysm-DDA/pull/56093))
-* Max height of window for Sort Armor menu ([#56056](https://github.com/CleverRaven/Cataclysm-DDA/pull/56056))
-* Allowed using full window height for Live View if pixel minimap option is turned off ([#56057](https://github.com/CleverRaven/Cataclysm-DDA/pull/56057))
 * [DinoMod] sauropod stomach ([#56098](https://github.com/CleverRaven/Cataclysm-DDA/pull/56098))
 * Fix map extra generation CI failure ([#56114](https://github.com/CleverRaven/Cataclysm-DDA/pull/56114))
 * Fix MSVC compile warnings ([#56118](https://github.com/CleverRaven/Cataclysm-DDA/pull/56118))
@@ -184,27 +187,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-03-14-0751 ([ef1e34c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-14-0751))
-
-* [DinoMod] Saurischian dino nests ([#56067](https://github.com/CleverRaven/Cataclysm-DDA/pull/56067))
-
----
-
 #### Cataclysm-DDA experimental build 2022-03-13-1128 ([20b4ebb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-13-1128))
 
 * Rev vcpkg cachekeys again. ([#56073](https://github.com/CleverRaven/Cataclysm-DDA/pull/56073))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-13-0619 ([a7c2d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-13-0619))
-
-* TropiCata: remove goats from mod ([#56065](https://github.com/CleverRaven/Cataclysm-DDA/pull/56065))
-* Nested mapgen update test fix ([#56049](https://github.com/CleverRaven/Cataclysm-DDA/pull/56049))
-* NPC talker test fix ([#56050](https://github.com/CleverRaven/Cataclysm-DDA/pull/56050))
-* Decrease min_item_volume for holster to allow storing smaller service pistols ([#56044](https://github.com/CleverRaven/Cataclysm-DDA/pull/56044))
-* Fix os dependent implementation in `compose.py` ([#56039](https://github.com/CleverRaven/Cataclysm-DDA/pull/56039))
-* Add ASCII picture to missing memory cards ([#56035](https://github.com/CleverRaven/Cataclysm-DDA/pull/56035))
-* Routine i18n updates on 12 March 2022 ([#56046](https://github.com/CleverRaven/Cataclysm-DDA/pull/56046))
-* Fix sfx preload ([#56037](https://github.com/CleverRaven/Cataclysm-DDA/pull/56037))
-* Revive MXE-MinGW experimental release build ([#56031](https://github.com/CleverRaven/Cataclysm-DDA/pull/56031))
-* Fix compile error on Android ([#56032](https://github.com/CleverRaven/Cataclysm-DDA/pull/56032))
