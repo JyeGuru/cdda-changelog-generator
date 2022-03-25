@@ -1,3 +1,10 @@
+* EOC arithmetic can alter NPC opinion (#56152)
+* Chainmail thickness enforcement (#56145)
+* Give cables proper measurements (#56142)
+* Add human and demihuman organs (#56141)
+
+Cataclysm-DDA experimental build 2022-03-25-1851 (6379956)
+* Reword suicide prompt (#56139)
 
 Cataclysm-DDA experimental build 2022-03-25-0907 (aeb1bd2)
 * Fix wind turbine accessibility (#56309)
@@ -41,7 +48,6 @@ Cataclysm-DDA experimental build 2022-03-25-0200 (e54e31f)
 * lobster dishes and recipes (#56121)
 * Assign faction to (some) item and vehicle placement (#56110)
 * Fixed Remington ACR .223 description. (#56090)
-* Additions and changes to ferals, and some other things (#56074)
 
 Cataclysm-DDA experimental build 2022-03-24-1409 (543b040)
 * Lower spawn rate of campground_npc (#56322)
@@ -128,7 +134,3 @@ Cataclysm-DDA experimental build 2022-03-16-1243 (e033309)
 Cataclysm-DDA experimental build 2022-03-16-0529 (8f8fcae)
 * Fix farm greenhouse floors. Add metal floors to grain bins. (#56124)
 * Prevent divide by zero when slipping with no str or dex (#56125)
-
-Cataclysm-DDA experimental build 2022-03-15-0611 (d703f84)
-* Minor fix to TRANSLATING guide (#56075)
-* Rev vcpkg cachekeys again. (#56073)

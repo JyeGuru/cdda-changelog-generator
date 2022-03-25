@@ -1,3 +1,13 @@
+* EOC arithmetic can alter NPC opinion ([#56152](https://github.com/CleverRaven/Cataclysm-DDA/pull/56152))
+* Chainmail thickness enforcement ([#56145](https://github.com/CleverRaven/Cataclysm-DDA/pull/56145))
+* Give cables proper measurements ([#56142](https://github.com/CleverRaven/Cataclysm-DDA/pull/56142))
+* Add human and demihuman organs ([#56141](https://github.com/CleverRaven/Cataclysm-DDA/pull/56141))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-25-1851 ([6379956](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-1851))
+
+* Reword suicide prompt ([#56139](https://github.com/CleverRaven/Cataclysm-DDA/pull/56139))
 
 ---
 
@@ -56,7 +66,6 @@
 * lobster dishes and recipes ([#56121](https://github.com/CleverRaven/Cataclysm-DDA/pull/56121))
 * Assign faction to (some) item and vehicle placement ([#56110](https://github.com/CleverRaven/Cataclysm-DDA/pull/56110))
 * Fixed Remington ACR .223 description. ([#56090](https://github.com/CleverRaven/Cataclysm-DDA/pull/56090))
-* Additions and changes to ferals, and some other things ([#56074](https://github.com/CleverRaven/Cataclysm-DDA/pull/56074))
 
 ---
 
@@ -188,10 +197,3 @@
 
 * Fix farm greenhouse floors. Add metal floors to grain bins. ([#56124](https://github.com/CleverRaven/Cataclysm-DDA/pull/56124))
 * Prevent divide by zero when slipping with no str or dex ([#56125](https://github.com/CleverRaven/Cataclysm-DDA/pull/56125))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-15-0611 ([d703f84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-15-0611))
-
-* Minor fix to TRANSLATING guide ([#56075](https://github.com/CleverRaven/Cataclysm-DDA/pull/56075))
-* Rev vcpkg cachekeys again. ([#56073](https://github.com/CleverRaven/Cataclysm-DDA/pull/56073))
