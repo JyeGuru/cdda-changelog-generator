@@ -1,3 +1,7 @@
+* Don't show warning prompt on entering deep water tiles with water-sensitive items and dangerous tiles while being stunned ([#56170](https://github.com/CleverRaven/Cataclysm-DDA/pull/56170))
+* Yogurt and pudding edible frozen (#56072) ([#56168](https://github.com/CleverRaven/Cataclysm-DDA/pull/56168))
+* fixed material coverage for Nomad Plate  ([#56166](https://github.com/CleverRaven/Cataclysm-DDA/pull/56166))
+* Add some more post-thresh mutation dreams ([#56163](https://github.com/CleverRaven/Cataclysm-DDA/pull/56163))
 * EOC arithmetic can alter NPC opinion ([#56152](https://github.com/CleverRaven/Cataclysm-DDA/pull/56152))
 * Chainmail thickness enforcement ([#56145](https://github.com/CleverRaven/Cataclysm-DDA/pull/56145))
 * Give cables proper measurements ([#56142](https://github.com/CleverRaven/Cataclysm-DDA/pull/56142))
@@ -165,7 +169,6 @@
 
 * Replace artificial forests, part III ([#56123](https://github.com/CleverRaven/Cataclysm-DDA/pull/56123))
 * added breathability for mod materials ([#56099](https://github.com/CleverRaven/Cataclysm-DDA/pull/56099))
-* Text fixes to 40x46mm grenades ([#56088](https://github.com/CleverRaven/Cataclysm-DDA/pull/56088))
 * Switch corn cob to consume_drug ([#56117](https://github.com/CleverRaven/Cataclysm-DDA/pull/56117))
 
 ---
@@ -179,11 +182,7 @@
 #### Cataclysm-DDA experimental build 2022-03-16-1243 ([e033309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-1243))
 
 * Suppress wear messages for turrets ([#56108](https://github.com/CleverRaven/Cataclysm-DDA/pull/56108))
-* fix house fallback rotations in graphical overmap ([#56081](https://github.com/CleverRaven/Cataclysm-DDA/pull/56081))
-* fix: [CR] don't remove labels automatically ([#56085](https://github.com/CleverRaven/Cataclysm-DDA/pull/56085))
 * Made Bracelets and Rings >"sided":true< ([#56097](https://github.com/CleverRaven/Cataclysm-DDA/pull/56097))
-* Extract prying and lockpicking sounds to Transifex ([#56078](https://github.com/CleverRaven/Cataclysm-DDA/pull/56078))
-* [MMA] Remove redundant "weapons" entries where covered by "weapons_category" ([#56082](https://github.com/CleverRaven/Cataclysm-DDA/pull/56082))
 * Apply diving underwater for all types of climbing down, crawling down, and falling down to deep water tiles ([#56093](https://github.com/CleverRaven/Cataclysm-DDA/pull/56093))
 * [DinoMod] sauropod stomach ([#56098](https://github.com/CleverRaven/Cataclysm-DDA/pull/56098))
 * Fix map extra generation CI failure ([#56114](https://github.com/CleverRaven/Cataclysm-DDA/pull/56114))
