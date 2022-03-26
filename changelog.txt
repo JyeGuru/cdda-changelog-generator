@@ -1,3 +1,7 @@
+
+Cataclysm-DDA experimental build 2022-03-26-2153 (5b7fb0f)
+* added waist sublocation (#56224)
+* Allow swith on death beyond reality bubble (#56220)
 * Diary: approximate time (#56209)
 * Portal storm text and writing update (#56204)
 * Fix coffin burial (#56198)
@@ -126,10 +130,7 @@ Cataclysm-DDA experimental build 2022-03-18-0508 (714f560)
 Cataclysm-DDA experimental build 2022-03-16-2354 (03d89b0)
 * Replace artificial forests, part III (#56123)
 * Switch corn cob to consume_drug (#56117)
-
-Cataclysm-DDA experimental build 2022-03-16-1720 (f0e21bd)
 * Stop Rubik selling his unique gun (#56128)
-* Fix map extra generation CI failure (#56114)
 * Fix MSVC compile warnings (#56118)
 * Remove erroneous usage of to_translation in mission_companion.cpp (#56119)
 * fix missing sideds for the hands and feet (#56120)

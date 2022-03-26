@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-26-2153 ([5b7fb0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-26-2153))
+
+* added waist sublocation ([#56224](https://github.com/CleverRaven/Cataclysm-DDA/pull/56224))
+* Allow swith on death beyond reality bubble ([#56220](https://github.com/CleverRaven/Cataclysm-DDA/pull/56220))
 * Diary: approximate time ([#56209](https://github.com/CleverRaven/Cataclysm-DDA/pull/56209))
 * Portal storm text and writing update ([#56204](https://github.com/CleverRaven/Cataclysm-DDA/pull/56204))
 * Fix coffin burial ([#56198](https://github.com/CleverRaven/Cataclysm-DDA/pull/56198))
@@ -186,13 +193,7 @@
 
 * Replace artificial forests, part III ([#56123](https://github.com/CleverRaven/Cataclysm-DDA/pull/56123))
 * Switch corn cob to consume_drug ([#56117](https://github.com/CleverRaven/Cataclysm-DDA/pull/56117))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-16-1720 ([f0e21bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-1720))
-
 * Stop Rubik selling his unique gun ([#56128](https://github.com/CleverRaven/Cataclysm-DDA/pull/56128))
-* Fix map extra generation CI failure ([#56114](https://github.com/CleverRaven/Cataclysm-DDA/pull/56114))
 * Fix MSVC compile warnings ([#56118](https://github.com/CleverRaven/Cataclysm-DDA/pull/56118))
 * Remove erroneous usage of to_translation in mission_companion.cpp ([#56119](https://github.com/CleverRaven/Cataclysm-DDA/pull/56119))
 * fix missing sideds for the hands and feet ([#56120](https://github.com/CleverRaven/Cataclysm-DDA/pull/56120))
