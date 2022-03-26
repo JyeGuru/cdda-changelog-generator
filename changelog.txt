@@ -1,3 +1,7 @@
+* Epilogue Message Accounts For Your Followers (#56175)
+
+Cataclysm-DDA experimental build 2022-03-26-2052 (f698c79)
+* Add Additional MOLLE equipment (#56171)
 
 Cataclysm-DDA experimental build 2022-03-26-0700 (d1776b2)
 * Unify description of the new zones (#56342)
@@ -56,7 +60,6 @@ Cataclysm-DDA experimental build 2022-03-25-0200 (e54e31f)
 * Fix autopickup settings (#56129)
 * lobster dishes and recipes (#56121)
 * Assign faction to (some) item and vehicle placement (#56110)
-* Fixed Remington ACR .223 description. (#56090)
 
 Cataclysm-DDA experimental build 2022-03-24-1409 (543b040)
 * Lower spawn rate of campground_npc (#56322)
@@ -121,8 +124,6 @@ Cataclysm-DDA experimental build 2022-03-16-2354 (03d89b0)
 
 Cataclysm-DDA experimental build 2022-03-16-1720 (f0e21bd)
 * Stop Rubik selling his unique gun (#56128)
-
-Cataclysm-DDA experimental build 2022-03-16-1243 (e033309)
 * Suppress wear messages for turrets (#56108)
 * Made Bracelets and Rings >"sided":true< (#56097)
 * Apply diving underwater for all types of climbing down, crawling down, and falling down to deep water tiles (#56093)

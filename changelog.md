@@ -1,3 +1,10 @@
+* Epilogue Message Accounts For Your Followers ([#56175](https://github.com/CleverRaven/Cataclysm-DDA/pull/56175))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-26-2052 ([f698c79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-26-2052))
+
+* Add Additional MOLLE equipment ([#56171](https://github.com/CleverRaven/Cataclysm-DDA/pull/56171))
 
 ---
 
@@ -80,7 +87,6 @@
 * Fix autopickup settings ([#56129](https://github.com/CleverRaven/Cataclysm-DDA/pull/56129))
 * lobster dishes and recipes ([#56121](https://github.com/CleverRaven/Cataclysm-DDA/pull/56121))
 * Assign faction to (some) item and vehicle placement ([#56110](https://github.com/CleverRaven/Cataclysm-DDA/pull/56110))
-* Fixed Remington ACR .223 description. ([#56090](https://github.com/CleverRaven/Cataclysm-DDA/pull/56090))
 
 ---
 
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-03-16-1720 ([f0e21bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-1720))
 
 * Stop Rubik selling his unique gun ([#56128](https://github.com/CleverRaven/Cataclysm-DDA/pull/56128))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-16-1243 ([e033309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-1243))
-
 * Suppress wear messages for turrets ([#56108](https://github.com/CleverRaven/Cataclysm-DDA/pull/56108))
 * Made Bracelets and Rings >"sided":true< ([#56097](https://github.com/CleverRaven/Cataclysm-DDA/pull/56097))
 * Apply diving underwater for all types of climbing down, crawling down, and falling down to deep water tiles ([#56093](https://github.com/CleverRaven/Cataclysm-DDA/pull/56093))
