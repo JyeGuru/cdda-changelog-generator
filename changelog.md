@@ -1,3 +1,10 @@
+* Consistent Exodii case + minor typos ([#56257](https://github.com/CleverRaven/Cataclysm-DDA/pull/56257))
+* Reduce length of staff sling, reduce damage to reflect length reduction ([#56254](https://github.com/CleverRaven/Cataclysm-DDA/pull/56254))
+* Add Spawn and Monsters label to label bot ([#56249](https://github.com/CleverRaven/Cataclysm-DDA/pull/56249))
+* Fix clothes plurals + minor typos ([#56247](https://github.com/CleverRaven/Cataclysm-DDA/pull/56247))
+* Blunt weapons are now steel and not iron ([#56240](https://github.com/CleverRaven/Cataclysm-DDA/pull/56240))
+* Torso plate armor coverage ([#56236](https://github.com/CleverRaven/Cataclysm-DDA/pull/56236))
+* Visible fire drill charges (#56219) ([#56232](https://github.com/CleverRaven/Cataclysm-DDA/pull/56232))
 * [MMA] Weapon Categories: Iron Heart and Panzer Kunst ([#56229](https://github.com/CleverRaven/Cataclysm-DDA/pull/56229))
 
 ---
@@ -100,7 +107,6 @@
 
 * Durable gloves ([#56130](https://github.com/CleverRaven/Cataclysm-DDA/pull/56130))
 * Fix autopickup settings ([#56129](https://github.com/CleverRaven/Cataclysm-DDA/pull/56129))
-* lobster dishes and recipes ([#56121](https://github.com/CleverRaven/Cataclysm-DDA/pull/56121))
 
 ---
 
@@ -187,15 +193,4 @@
 #### Cataclysm-DDA experimental build 2022-03-18-0508 ([714f560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-18-0508))
 
 * Cutting chainlink fence will now yield wires, not steel chunks ([#56160](https://github.com/CleverRaven/Cataclysm-DDA/pull/56160))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-16-2354 ([03d89b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-2354))
-
-* Replace artificial forests, part III ([#56123](https://github.com/CleverRaven/Cataclysm-DDA/pull/56123))
 * Stop Rubik selling his unique gun ([#56128](https://github.com/CleverRaven/Cataclysm-DDA/pull/56128))
-* Fix MSVC compile warnings ([#56118](https://github.com/CleverRaven/Cataclysm-DDA/pull/56118))
-* Remove erroneous usage of to_translation in mission_companion.cpp ([#56119](https://github.com/CleverRaven/Cataclysm-DDA/pull/56119))
-* fix missing sideds for the hands and feet ([#56120](https://github.com/CleverRaven/Cataclysm-DDA/pull/56120))
-* Fix farm greenhouse floors. Add metal floors to grain bins. ([#56124](https://github.com/CleverRaven/Cataclysm-DDA/pull/56124))
-* Prevent divide by zero when slipping with no str or dex ([#56125](https://github.com/CleverRaven/Cataclysm-DDA/pull/56125))
