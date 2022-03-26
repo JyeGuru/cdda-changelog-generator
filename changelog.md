@@ -1,3 +1,4 @@
+* [Magiclysm] Fix Weak not cancelling some strength mutations ([#56288](https://github.com/CleverRaven/Cataclysm-DDA/pull/56288))
 * ft: more auto labeling ([#56282](https://github.com/CleverRaven/Cataclysm-DDA/pull/56282))
 * Remove post vehicle dismantling item dissorting ([#56276](https://github.com/CleverRaven/Cataclysm-DDA/pull/56276))
 * Fix monsters minor typos ([#56264](https://github.com/CleverRaven/Cataclysm-DDA/pull/56264))
@@ -55,12 +56,6 @@
 * Chainmail thickness enforcement ([#56145](https://github.com/CleverRaven/Cataclysm-DDA/pull/56145))
 * Give cables proper measurements ([#56142](https://github.com/CleverRaven/Cataclysm-DDA/pull/56142))
 * Add human and demihuman organs ([#56141](https://github.com/CleverRaven/Cataclysm-DDA/pull/56141))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-25-1851 ([6379956](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-1851))
-
-* Reword suicide prompt ([#56139](https://github.com/CleverRaven/Cataclysm-DDA/pull/56139))
 
 ---
 
