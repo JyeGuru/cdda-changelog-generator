@@ -1,3 +1,4 @@
+* Add more mixed drinks ([#56259](https://github.com/CleverRaven/Cataclysm-DDA/pull/56259))
 * Consistent Exodii case + minor typos ([#56257](https://github.com/CleverRaven/Cataclysm-DDA/pull/56257))
 * Reduce length of staff sling, reduce damage to reflect length reduction ([#56254](https://github.com/CleverRaven/Cataclysm-DDA/pull/56254))
 * Add Spawn and Monsters label to label bot ([#56249](https://github.com/CleverRaven/Cataclysm-DDA/pull/56249))
@@ -193,4 +194,3 @@
 #### Cataclysm-DDA experimental build 2022-03-18-0508 ([714f560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-18-0508))
 
 * Cutting chainlink fence will now yield wires, not steel chunks ([#56160](https://github.com/CleverRaven/Cataclysm-DDA/pull/56160))
-* Stop Rubik selling his unique gun ([#56128](https://github.com/CleverRaven/Cataclysm-DDA/pull/56128))
