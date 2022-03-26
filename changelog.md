@@ -1,3 +1,4 @@
+* [MMA] Weapon Categories: Iron Heart and Panzer Kunst ([#56229](https://github.com/CleverRaven/Cataclysm-DDA/pull/56229))
 
 ---
 
@@ -192,7 +193,6 @@
 #### Cataclysm-DDA experimental build 2022-03-16-2354 ([03d89b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-2354))
 
 * Replace artificial forests, part III ([#56123](https://github.com/CleverRaven/Cataclysm-DDA/pull/56123))
-* Switch corn cob to consume_drug ([#56117](https://github.com/CleverRaven/Cataclysm-DDA/pull/56117))
 * Stop Rubik selling his unique gun ([#56128](https://github.com/CleverRaven/Cataclysm-DDA/pull/56128))
 * Fix MSVC compile warnings ([#56118](https://github.com/CleverRaven/Cataclysm-DDA/pull/56118))
 * Remove erroneous usage of to_translation in mission_companion.cpp ([#56119](https://github.com/CleverRaven/Cataclysm-DDA/pull/56119))
