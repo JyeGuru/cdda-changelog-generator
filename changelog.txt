@@ -1,3 +1,5 @@
+* Remove post vehicle dismantling item dissorting (#56276)
+* Fix monsters minor typos (#56264)
 
 Cataclysm-DDA experimental build 2022-03-26-2255 (9e704fc)
 * Add more mixed drinks (#56259)
@@ -76,10 +78,6 @@ Cataclysm-DDA experimental build 2022-03-25-0511 (46d4710)
 
 Cataclysm-DDA experimental build 2022-03-25-0319 (5ba62ff)
 * Zone cleanup (#56332)
-
-Cataclysm-DDA experimental build 2022-03-25-0200 (e54e31f)
-* Durable gloves (#56130)
-* Fix autopickup settings (#56129)
 
 Cataclysm-DDA experimental build 2022-03-24-1409 (543b040)
 * Lower spawn rate of campground_npc (#56322)

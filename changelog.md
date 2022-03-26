@@ -1,3 +1,5 @@
+* Remove post vehicle dismantling item dissorting ([#56276](https://github.com/CleverRaven/Cataclysm-DDA/pull/56276))
+* Fix monsters minor typos ([#56264](https://github.com/CleverRaven/Cataclysm-DDA/pull/56264))
 
 ---
 
@@ -106,13 +108,6 @@
 #### Cataclysm-DDA experimental build 2022-03-25-0319 ([5ba62ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0319))
 
 * Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-25-0200 ([e54e31f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0200))
-
-* Durable gloves ([#56130](https://github.com/CleverRaven/Cataclysm-DDA/pull/56130))
-* Fix autopickup settings ([#56129](https://github.com/CleverRaven/Cataclysm-DDA/pull/56129))
 
 ---
 
