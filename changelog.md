@@ -1,3 +1,10 @@
+* Diary: approximate time ([#56209](https://github.com/CleverRaven/Cataclysm-DDA/pull/56209))
+* Portal storm text and writing update ([#56204](https://github.com/CleverRaven/Cataclysm-DDA/pull/56204))
+* Fix coffin burial ([#56198](https://github.com/CleverRaven/Cataclysm-DDA/pull/56198))
+* Computer practice works in the dark ([#56190](https://github.com/CleverRaven/Cataclysm-DDA/pull/56190))
+* Reword PR summary instructions in template ([#56186](https://github.com/CleverRaven/Cataclysm-DDA/pull/56186))
+* Obsolete old chainmail armor. ([#56182](https://github.com/CleverRaven/Cataclysm-DDA/pull/56182))
+* Martial Arts and Techniques can trigger EOCs ([#56179](https://github.com/CleverRaven/Cataclysm-DDA/pull/56179))
 * Epilogue Message Accounts For Your Followers ([#56175](https://github.com/CleverRaven/Cataclysm-DDA/pull/56175))
 
 ---
@@ -86,7 +93,6 @@
 * Durable gloves ([#56130](https://github.com/CleverRaven/Cataclysm-DDA/pull/56130))
 * Fix autopickup settings ([#56129](https://github.com/CleverRaven/Cataclysm-DDA/pull/56129))
 * lobster dishes and recipes ([#56121](https://github.com/CleverRaven/Cataclysm-DDA/pull/56121))
-* Assign faction to (some) item and vehicle placement ([#56110](https://github.com/CleverRaven/Cataclysm-DDA/pull/56110))
 
 ---
 
@@ -179,7 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-03-16-2354 ([03d89b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-2354))
 
 * Replace artificial forests, part III ([#56123](https://github.com/CleverRaven/Cataclysm-DDA/pull/56123))
-* added breathability for mod materials ([#56099](https://github.com/CleverRaven/Cataclysm-DDA/pull/56099))
 * Switch corn cob to consume_drug ([#56117](https://github.com/CleverRaven/Cataclysm-DDA/pull/56117))
 
 ---
@@ -187,10 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-03-16-1720 ([f0e21bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-1720))
 
 * Stop Rubik selling his unique gun ([#56128](https://github.com/CleverRaven/Cataclysm-DDA/pull/56128))
-* Suppress wear messages for turrets ([#56108](https://github.com/CleverRaven/Cataclysm-DDA/pull/56108))
-* Made Bracelets and Rings >"sided":true< ([#56097](https://github.com/CleverRaven/Cataclysm-DDA/pull/56097))
-* Apply diving underwater for all types of climbing down, crawling down, and falling down to deep water tiles ([#56093](https://github.com/CleverRaven/Cataclysm-DDA/pull/56093))
-* [DinoMod] sauropod stomach ([#56098](https://github.com/CleverRaven/Cataclysm-DDA/pull/56098))
 * Fix map extra generation CI failure ([#56114](https://github.com/CleverRaven/Cataclysm-DDA/pull/56114))
 * Fix MSVC compile warnings ([#56118](https://github.com/CleverRaven/Cataclysm-DDA/pull/56118))
 * Remove erroneous usage of to_translation in mission_companion.cpp ([#56119](https://github.com/CleverRaven/Cataclysm-DDA/pull/56119))
