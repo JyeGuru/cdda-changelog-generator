@@ -1,3 +1,4 @@
+* ft: more auto labeling ([#56282](https://github.com/CleverRaven/Cataclysm-DDA/pull/56282))
 * Remove post vehicle dismantling item dissorting ([#56276](https://github.com/CleverRaven/Cataclysm-DDA/pull/56276))
 * Fix monsters minor typos ([#56264](https://github.com/CleverRaven/Cataclysm-DDA/pull/56264))
 
@@ -72,7 +73,6 @@
 #### Cataclysm-DDA experimental build 2022-03-25-0611 ([cf4ad66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0611))
 
 * [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
-* Add an alternative grappling hook recipe ([#56137](https://github.com/CleverRaven/Cataclysm-DDA/pull/56137))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * [Innawoods] Welding-free mechanical pump ([#56208](https://github.com/CleverRaven/Cataclysm-DDA/pull/56208))
 * Fix incorrect item weights (#56131) ([#56162](https://github.com/CleverRaven/Cataclysm-DDA/pull/56162))
