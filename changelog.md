@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-26-0700 ([d1776b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-26-0700))
+
+* Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-25-1951 ([a1c5d0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-1951))
 
 * Don't show warning prompt on entering deep water tiles with water-sensitive items and dangerous tiles while being stunned ([#56170](https://github.com/CleverRaven/Cataclysm-DDA/pull/56170))
@@ -164,12 +170,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-03-17-0510 ([86fe522](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-17-0510))
-
-* Make National Guard worth its points ([#56089](https://github.com/CleverRaven/Cataclysm-DDA/pull/56089))
-
----
-
 #### Cataclysm-DDA experimental build 2022-03-16-2354 ([03d89b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-2354))
 
 * Replace artificial forests, part III ([#56123](https://github.com/CleverRaven/Cataclysm-DDA/pull/56123))
@@ -194,10 +194,5 @@
 * Fix MSVC compile warnings ([#56118](https://github.com/CleverRaven/Cataclysm-DDA/pull/56118))
 * Remove erroneous usage of to_translation in mission_companion.cpp ([#56119](https://github.com/CleverRaven/Cataclysm-DDA/pull/56119))
 * fix missing sideds for the hands and feet ([#56120](https://github.com/CleverRaven/Cataclysm-DDA/pull/56120))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-16-0529 ([8f8fcae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-16-0529))
-
 * Fix farm greenhouse floors. Add metal floors to grain bins. ([#56124](https://github.com/CleverRaven/Cataclysm-DDA/pull/56124))
 * Prevent divide by zero when slipping with no str or dex ([#56125](https://github.com/CleverRaven/Cataclysm-DDA/pull/56125))
