@@ -1,3 +1,12 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-27-0102 ([ede427e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0102))
+
+* Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
+* Steel Crafts ([#56300](https://github.com/CleverRaven/Cataclysm-DDA/pull/56300))
+* Generic mutagen can cause mutations again ([#56294](https://github.com/CleverRaven/Cataclysm-DDA/pull/56294))
+* Added freezer appliances/items/furniture ([#56293](https://github.com/CleverRaven/Cataclysm-DDA/pull/56293))
 * Fix problems with t-shirt variants in professions ([#56290](https://github.com/CleverRaven/Cataclysm-DDA/pull/56290))
 * Add wooden bucket and wooden well for obtaining water ([#56289](https://github.com/CleverRaven/Cataclysm-DDA/pull/56289))
 
@@ -60,7 +69,6 @@
 * fixed material coverage for Nomad Plate  ([#56166](https://github.com/CleverRaven/Cataclysm-DDA/pull/56166))
 * Add some more post-thresh mutation dreams ([#56163](https://github.com/CleverRaven/Cataclysm-DDA/pull/56163))
 * EOC arithmetic can alter NPC opinion ([#56152](https://github.com/CleverRaven/Cataclysm-DDA/pull/56152))
-* Chainmail thickness enforcement ([#56145](https://github.com/CleverRaven/Cataclysm-DDA/pull/56145))
 
 ---
 
@@ -77,7 +85,6 @@
 * [Innawoods] Welding-free mechanical pump ([#56208](https://github.com/CleverRaven/Cataclysm-DDA/pull/56208))
 * Fix incorrect item weights (#56131) ([#56162](https://github.com/CleverRaven/Cataclysm-DDA/pull/56162))
 * Typo Fixes, Added desired name for the Pulverizer ([#56164](https://github.com/CleverRaven/Cataclysm-DDA/pull/56164))
-* Add "polearms" weapon categories to the lucerne hammer and Poleaxe ([#56146](https://github.com/CleverRaven/Cataclysm-DDA/pull/56146))
 * [DinoMod] sauropod stomach cooking ([#56150](https://github.com/CleverRaven/Cataclysm-DDA/pull/56150))
 * When tired, cancel current activity if "Maybe later" is chosen; finish current activity if "Finish it" is chosen ([#56180](https://github.com/CleverRaven/Cataclysm-DDA/pull/56180))
 * Tacoma - Fix Woodworker not spawning ([#56196](https://github.com/CleverRaven/Cataclysm-DDA/pull/56196))
@@ -148,8 +155,6 @@
 #### Cataclysm-DDA experimental build 2022-03-21-0633 ([3b9e1a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-21-0633))
 
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
-* Zap Rattigan fixes ([#56149](https://github.com/CleverRaven/Cataclysm-DDA/pull/56149))
-* Gunstore, Liquor Store, Fix ([#56147](https://github.com/CleverRaven/Cataclysm-DDA/pull/56147))
 * Update XL/XS items to use extend flags ([#56158](https://github.com/CleverRaven/Cataclysm-DDA/pull/56158))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
