@@ -71,7 +71,6 @@ Cataclysm-DDA experimental build 2022-03-26-2153 (5b7fb0f)
 * Allow swith on death beyond reality bubble (#56220)
 * Diary: approximate time (#56209)
 * Portal storm text and writing update (#56204)
-* Fix coffin burial (#56198)
 
 Cataclysm-DDA experimental build 2022-03-26-0700 (d1776b2)
 * Unify description of the new zones (#56342)

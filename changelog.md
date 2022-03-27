@@ -110,7 +110,6 @@
 * Allow swith on death beyond reality bubble ([#56220](https://github.com/CleverRaven/Cataclysm-DDA/pull/56220))
 * Diary: approximate time ([#56209](https://github.com/CleverRaven/Cataclysm-DDA/pull/56209))
 * Portal storm text and writing update ([#56204](https://github.com/CleverRaven/Cataclysm-DDA/pull/56204))
-* Fix coffin burial ([#56198](https://github.com/CleverRaven/Cataclysm-DDA/pull/56198))
 
 ---
 
