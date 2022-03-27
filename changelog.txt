@@ -61,9 +61,6 @@ Cataclysm-DDA experimental build 2022-03-26-2052 (f698c79)
 Cataclysm-DDA experimental build 2022-03-26-0700 (d1776b2)
 * Unify description of the new zones (#56342)
 
-Cataclysm-DDA experimental build 2022-03-25-1951 (a1c5d0a)
-* Don't show warning prompt on entering deep water tiles with water-sensitive items and dangerous tiles while being stunned (#56170)
-
 Cataclysm-DDA experimental build 2022-03-25-0907 (aeb1bd2)
 * Fix wind turbine accessibility (#56309)
 
