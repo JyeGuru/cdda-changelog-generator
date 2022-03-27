@@ -1,3 +1,4 @@
+* Crafting: add support for byproduct item groups (#56317)
 
 Cataclysm-DDA experimental build 2022-03-27-0437 (f49e497)
 * Three new animist spells, revolving around shadows and spirts (#56305)
@@ -57,7 +58,6 @@ Cataclysm-DDA experimental build 2022-03-25-1951 (a1c5d0a)
 * Don't show warning prompt on entering deep water tiles with water-sensitive items and dangerous tiles while being stunned (#56170)
 * Yogurt and pudding edible frozen (#56072) (#56168)
 * fixed material coverage for Nomad Plate  (#56166)
-* Add some more post-thresh mutation dreams (#56163)
 
 Cataclysm-DDA experimental build 2022-03-25-0907 (aeb1bd2)
 * Fix wind turbine accessibility (#56309)
