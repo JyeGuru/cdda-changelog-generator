@@ -1,3 +1,9 @@
+* Show background traits on TRAITS window in character creation menu ([#56358](https://github.com/CleverRaven/Cataclysm-DDA/pull/56358))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-27-2126 ([992dbdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-2126))
+
 * Add more simple tools and containers ([#56357](https://github.com/CleverRaven/Cataclysm-DDA/pull/56357))
 * fueled UPSes → gas-powered UPSes ([#56354](https://github.com/CleverRaven/Cataclysm-DDA/pull/56354))
 
@@ -184,7 +190,6 @@
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
-* Tacoma grammar updates. Change knife spear to simple knife spear ([#56188](https://github.com/CleverRaven/Cataclysm-DDA/pull/56188))
 * Fix missing appliance removal prompt ([#56189](https://github.com/CleverRaven/Cataclysm-DDA/pull/56189))
 * Tacoma - Convert buying logs to json ([#56192](https://github.com/CleverRaven/Cataclysm-DDA/pull/56192))
 * Properly fix conflicting `uilist` keys ([#56212](https://github.com/CleverRaven/Cataclysm-DDA/pull/56212))
@@ -200,11 +205,6 @@
 * Add missing dot for dialog response ([#56213](https://github.com/CleverRaven/Cataclysm-DDA/pull/56213))
 * movecost → move cost ([#56225](https://github.com/CleverRaven/Cataclysm-DDA/pull/56225))
 * Add context to mustard ([#56228](https://github.com/CleverRaven/Cataclysm-DDA/pull/56228))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-19-0915 ([f335922](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-19-0915))
-
 * Routine i18n updates on 19 March 2022 ([#56206](https://github.com/CleverRaven/Cataclysm-DDA/pull/56206))
 * Fix jackolantern → jack o'lantern ([#56197](https://github.com/CleverRaven/Cataclysm-DDA/pull/56197))
 * Mosin-Nagant 91/30 Boreal → 1891/30 Boreal ([#56194](https://github.com/CleverRaven/Cataclysm-DDA/pull/56194))
