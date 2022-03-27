@@ -1,3 +1,5 @@
+* [Innawood] Chemistry, electricity, and more! ([#56348](https://github.com/CleverRaven/Cataclysm-DDA/pull/56348))
+* obsolete Graphical Overmap mods ([#56347](https://github.com/CleverRaven/Cataclysm-DDA/pull/56347))
 * autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
 
 ---
@@ -92,8 +94,6 @@
 #### Cataclysm-DDA experimental build 2022-03-25-1951 ([a1c5d0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-1951))
 
 * Don't show warning prompt on entering deep water tiles with water-sensitive items and dangerous tiles while being stunned ([#56170](https://github.com/CleverRaven/Cataclysm-DDA/pull/56170))
-* Yogurt and pudding edible frozen (#56072) ([#56168](https://github.com/CleverRaven/Cataclysm-DDA/pull/56168))
-* fixed material coverage for Nomad Plate  ([#56166](https://github.com/CleverRaven/Cataclysm-DDA/pull/56166))
 
 ---
 
