@@ -1,3 +1,5 @@
+* Extract variants for all items, not just guns and magazines ([#56366](https://github.com/CleverRaven/Cataclysm-DDA/pull/56366))
+* Add hammocks ([#56364](https://github.com/CleverRaven/Cataclysm-DDA/pull/56364))
 * added vehicle item for long cable ([#56363](https://github.com/CleverRaven/Cataclysm-DDA/pull/56363))
 * Fix keybindings in Sort Armor's F1 help menu ([#56362](https://github.com/CleverRaven/Cataclysm-DDA/pull/56362))
 * Add multiple flags to reduce description string duplication ([#56361](https://github.com/CleverRaven/Cataclysm-DDA/pull/56361))
@@ -129,7 +131,6 @@
 * [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * [Innawoods] Welding-free mechanical pump ([#56208](https://github.com/CleverRaven/Cataclysm-DDA/pull/56208))
-* Tacoma - Fix Woodworker not spawning ([#56196](https://github.com/CleverRaven/Cataclysm-DDA/pull/56196))
 * Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
 * Don't spawn hallucinations on open air ([#56238](https://github.com/CleverRaven/Cataclysm-DDA/pull/56238))
 * Tilesets Update 2022-03-20 ([#56246](https://github.com/CleverRaven/Cataclysm-DDA/pull/56246))
@@ -207,4 +208,3 @@
 * movecost → move cost ([#56225](https://github.com/CleverRaven/Cataclysm-DDA/pull/56225))
 * Add context to mustard ([#56228](https://github.com/CleverRaven/Cataclysm-DDA/pull/56228))
 * Routine i18n updates on 19 March 2022 ([#56206](https://github.com/CleverRaven/Cataclysm-DDA/pull/56206))
-* Fix jackolantern → jack o'lantern ([#56197](https://github.com/CleverRaven/Cataclysm-DDA/pull/56197))
