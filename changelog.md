@@ -1,3 +1,9 @@
+* autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-27-0612 ([d099305](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0612))
+
 * Crafting: add support for byproduct item groups ([#56317](https://github.com/CleverRaven/Cataclysm-DDA/pull/56317))
 
 ---
@@ -102,7 +108,6 @@
 * [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * [Innawoods] Welding-free mechanical pump ([#56208](https://github.com/CleverRaven/Cataclysm-DDA/pull/56208))
-* Typo Fixes, Added desired name for the Pulverizer ([#56164](https://github.com/CleverRaven/Cataclysm-DDA/pull/56164))
 * When tired, cancel current activity if "Maybe later" is chosen; finish current activity if "Finish it" is chosen ([#56180](https://github.com/CleverRaven/Cataclysm-DDA/pull/56180))
 * Tacoma - Fix Woodworker not spawning ([#56196](https://github.com/CleverRaven/Cataclysm-DDA/pull/56196))
 * Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
