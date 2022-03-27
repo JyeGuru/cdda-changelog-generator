@@ -1,3 +1,4 @@
+* Add context to Lightning storm spell ([#56359](https://github.com/CleverRaven/Cataclysm-DDA/pull/56359))
 * Show background traits on TRAITS window in character creation menu ([#56358](https://github.com/CleverRaven/Cataclysm-DDA/pull/56358))
 
 ---
@@ -190,7 +191,6 @@
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
-* Fix missing appliance removal prompt ([#56189](https://github.com/CleverRaven/Cataclysm-DDA/pull/56189))
 * Tacoma - Convert buying logs to json ([#56192](https://github.com/CleverRaven/Cataclysm-DDA/pull/56192))
 * Properly fix conflicting `uilist` keys ([#56212](https://github.com/CleverRaven/Cataclysm-DDA/pull/56212))
 * Translate "something" in monster attack messages ([#56200](https://github.com/CleverRaven/Cataclysm-DDA/pull/56200))
