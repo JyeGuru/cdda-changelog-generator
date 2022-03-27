@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-27-0437 ([f49e497](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0437))
+
+* Three new animist spells, revolving around shadows and spirts ([#56305](https://github.com/CleverRaven/Cataclysm-DDA/pull/56305))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-27-0318 ([52d991b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0318))
 
 * Monster cameras, vision optimizations, and an implementation through Slime ([#56231](https://github.com/CleverRaven/Cataclysm-DDA/pull/56231))
@@ -96,7 +102,6 @@
 * [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * [Innawoods] Welding-free mechanical pump ([#56208](https://github.com/CleverRaven/Cataclysm-DDA/pull/56208))
-* Fix incorrect item weights (#56131) ([#56162](https://github.com/CleverRaven/Cataclysm-DDA/pull/56162))
 * Typo Fixes, Added desired name for the Pulverizer ([#56164](https://github.com/CleverRaven/Cataclysm-DDA/pull/56164))
 * When tired, cancel current activity if "Maybe later" is chosen; finish current activity if "Finish it" is chosen ([#56180](https://github.com/CleverRaven/Cataclysm-DDA/pull/56180))
 * Tacoma - Fix Woodworker not spawning ([#56196](https://github.com/CleverRaven/Cataclysm-DDA/pull/56196))
