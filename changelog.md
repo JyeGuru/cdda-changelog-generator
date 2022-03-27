@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-27-1951 ([2e60697](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-1951))
+
 * plantain → cooking banana ([#56346](https://github.com/CleverRaven/Cataclysm-DDA/pull/56346))
 * Balance Impact Knuckles ([#56338](https://github.com/CleverRaven/Cataclysm-DDA/pull/56338))
 * Prevent container item appearing twice in AIM ([#56335](https://github.com/CleverRaven/Cataclysm-DDA/pull/56335))
@@ -201,10 +206,5 @@
 #### Cataclysm-DDA experimental build 2022-03-19-0915 ([f335922](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-19-0915))
 
 * Routine i18n updates on 19 March 2022 ([#56206](https://github.com/CleverRaven/Cataclysm-DDA/pull/56206))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-19-0804 ([f2c491b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-19-0804))
-
 * Fix jackolantern → jack o'lantern ([#56197](https://github.com/CleverRaven/Cataclysm-DDA/pull/56197))
 * Mosin-Nagant 91/30 Boreal → 1891/30 Boreal ([#56194](https://github.com/CleverRaven/Cataclysm-DDA/pull/56194))
