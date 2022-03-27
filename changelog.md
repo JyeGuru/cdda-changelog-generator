@@ -1,3 +1,5 @@
+* plantain → cooking banana ([#56346](https://github.com/CleverRaven/Cataclysm-DDA/pull/56346))
+* Balance Impact Knuckles ([#56338](https://github.com/CleverRaven/Cataclysm-DDA/pull/56338))
 * Prevent container item appearing twice in AIM ([#56335](https://github.com/CleverRaven/Cataclysm-DDA/pull/56335))
 * Extend requirement groups ([#56323](https://github.com/CleverRaven/Cataclysm-DDA/pull/56323))
 
@@ -87,7 +89,6 @@
 * Computer practice works in the dark ([#56190](https://github.com/CleverRaven/Cataclysm-DDA/pull/56190))
 * Reword PR summary instructions in template ([#56186](https://github.com/CleverRaven/Cataclysm-DDA/pull/56186))
 * Obsolete old chainmail armor. ([#56182](https://github.com/CleverRaven/Cataclysm-DDA/pull/56182))
-* Martial Arts and Techniques can trigger EOCs ([#56179](https://github.com/CleverRaven/Cataclysm-DDA/pull/56179))
 
 ---
 
@@ -179,7 +180,6 @@
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
-* Add id_suffix to shadowed recipes (#56161) ([#56177](https://github.com/CleverRaven/Cataclysm-DDA/pull/56177))
 * Tacoma grammar updates. Change knife spear to simple knife spear ([#56188](https://github.com/CleverRaven/Cataclysm-DDA/pull/56188))
 * Fix missing appliance removal prompt ([#56189](https://github.com/CleverRaven/Cataclysm-DDA/pull/56189))
 * Tacoma - Convert buying logs to json ([#56192](https://github.com/CleverRaven/Cataclysm-DDA/pull/56192))
