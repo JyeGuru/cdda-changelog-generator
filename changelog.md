@@ -1,4 +1,13 @@
+* added vehicle item for long cable ([#56363](https://github.com/CleverRaven/Cataclysm-DDA/pull/56363))
+* Fix keybindings in Sort Armor's F1 help menu ([#56362](https://github.com/CleverRaven/Cataclysm-DDA/pull/56362))
+* Add multiple flags to reduce description string duplication ([#56361](https://github.com/CleverRaven/Cataclysm-DDA/pull/56361))
+* Unify t-shirt names ([#56360](https://github.com/CleverRaven/Cataclysm-DDA/pull/56360))
 * Add context to Lightning storm spell ([#56359](https://github.com/CleverRaven/Cataclysm-DDA/pull/56359))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-27-2241 ([b24a3b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-2241))
+
 * Show background traits on TRAITS window in character creation menu ([#56358](https://github.com/CleverRaven/Cataclysm-DDA/pull/56358))
 
 ---
@@ -100,7 +109,6 @@
 * Diary: approximate time ([#56209](https://github.com/CleverRaven/Cataclysm-DDA/pull/56209))
 * Portal storm text and writing update ([#56204](https://github.com/CleverRaven/Cataclysm-DDA/pull/56204))
 * Fix coffin burial ([#56198](https://github.com/CleverRaven/Cataclysm-DDA/pull/56198))
-* Computer practice works in the dark ([#56190](https://github.com/CleverRaven/Cataclysm-DDA/pull/56190))
 
 ---
 
@@ -158,12 +166,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-03-23-0638 ([b87878f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-23-0638))
-
-* Modified Gun Spawns for every loaded gun ([#56191](https://github.com/CleverRaven/Cataclysm-DDA/pull/56191))
-
----
-
 #### Cataclysm-DDA experimental build 2022-03-23-0524 ([0468e7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-23-0524))
 
 * Add watermelon seeds ([#56285](https://github.com/CleverRaven/Cataclysm-DDA/pull/56285))
@@ -191,7 +193,6 @@
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
-* Tacoma - Convert buying logs to json ([#56192](https://github.com/CleverRaven/Cataclysm-DDA/pull/56192))
 * Properly fix conflicting `uilist` keys ([#56212](https://github.com/CleverRaven/Cataclysm-DDA/pull/56212))
 * Translate "something" in monster attack messages ([#56200](https://github.com/CleverRaven/Cataclysm-DDA/pull/56200))
 * Translate game window title ([#56218](https://github.com/CleverRaven/Cataclysm-DDA/pull/56218))
@@ -207,4 +208,3 @@
 * Add context to mustard ([#56228](https://github.com/CleverRaven/Cataclysm-DDA/pull/56228))
 * Routine i18n updates on 19 March 2022 ([#56206](https://github.com/CleverRaven/Cataclysm-DDA/pull/56206))
 * Fix jackolantern → jack o'lantern ([#56197](https://github.com/CleverRaven/Cataclysm-DDA/pull/56197))
-* Mosin-Nagant 91/30 Boreal → 1891/30 Boreal ([#56194](https://github.com/CleverRaven/Cataclysm-DDA/pull/56194))
