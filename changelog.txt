@@ -1,3 +1,5 @@
+* Add more simple tools and containers (#56357)
+* fueled UPSes → gas-powered UPSes (#56354)
 
 Cataclysm-DDA experimental build 2022-03-27-1951 (2e60697)
 * plantain → cooking banana (#56346)
@@ -59,8 +61,6 @@ Cataclysm-DDA experimental build 2022-03-26-2153 (5b7fb0f)
 * Portal storm text and writing update (#56204)
 * Fix coffin burial (#56198)
 * Computer practice works in the dark (#56190)
-* Reword PR summary instructions in template (#56186)
-* Obsolete old chainmail armor. (#56182)
 
 Cataclysm-DDA experimental build 2022-03-26-0700 (d1776b2)
 * Unify description of the new zones (#56342)

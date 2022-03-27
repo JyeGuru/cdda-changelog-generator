@@ -1,3 +1,5 @@
+* Add more simple tools and containers ([#56357](https://github.com/CleverRaven/Cataclysm-DDA/pull/56357))
+* fueled UPSes → gas-powered UPSes ([#56354](https://github.com/CleverRaven/Cataclysm-DDA/pull/56354))
 
 ---
 
@@ -92,8 +94,6 @@
 * Portal storm text and writing update ([#56204](https://github.com/CleverRaven/Cataclysm-DDA/pull/56204))
 * Fix coffin burial ([#56198](https://github.com/CleverRaven/Cataclysm-DDA/pull/56198))
 * Computer practice works in the dark ([#56190](https://github.com/CleverRaven/Cataclysm-DDA/pull/56190))
-* Reword PR summary instructions in template ([#56186](https://github.com/CleverRaven/Cataclysm-DDA/pull/56186))
-* Obsolete old chainmail armor. ([#56182](https://github.com/CleverRaven/Cataclysm-DDA/pull/56182))
 
 ---
 
