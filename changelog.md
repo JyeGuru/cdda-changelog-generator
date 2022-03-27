@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-27-0318 ([52d991b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0318))
+
 * Monster cameras, vision optimizations, and an implementation through Slime ([#56231](https://github.com/CleverRaven/Cataclysm-DDA/pull/56231))
 * Tacoma - Convert clinic and nurse to json ([#56205](https://github.com/CleverRaven/Cataclysm-DDA/pull/56205))
 

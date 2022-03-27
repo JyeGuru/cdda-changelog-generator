@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-03-27-0318 (52d991b)
 * Monster cameras, vision optimizations, and an implementation through Slime (#56231)
 * Tacoma - Convert clinic and nurse to json (#56205)
 
