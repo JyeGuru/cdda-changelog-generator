@@ -1,3 +1,10 @@
+* Fix problems with t-shirt variants in professions ([#56290](https://github.com/CleverRaven/Cataclysm-DDA/pull/56290))
+* Add wooden bucket and wooden well for obtaining water ([#56289](https://github.com/CleverRaven/Cataclysm-DDA/pull/56289))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-26-2356 ([0e5db3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-26-2356))
+
 * [Magiclysm] Fix Weak not cancelling some strength mutations ([#56288](https://github.com/CleverRaven/Cataclysm-DDA/pull/56288))
 * ft: more auto labeling ([#56282](https://github.com/CleverRaven/Cataclysm-DDA/pull/56282))
 * Remove post vehicle dismantling item dissorting ([#56276](https://github.com/CleverRaven/Cataclysm-DDA/pull/56276))
@@ -54,8 +61,6 @@
 * Add some more post-thresh mutation dreams ([#56163](https://github.com/CleverRaven/Cataclysm-DDA/pull/56163))
 * EOC arithmetic can alter NPC opinion ([#56152](https://github.com/CleverRaven/Cataclysm-DDA/pull/56152))
 * Chainmail thickness enforcement ([#56145](https://github.com/CleverRaven/Cataclysm-DDA/pull/56145))
-* Give cables proper measurements ([#56142](https://github.com/CleverRaven/Cataclysm-DDA/pull/56142))
-* Add human and demihuman organs ([#56141](https://github.com/CleverRaven/Cataclysm-DDA/pull/56141))
 
 ---
 
