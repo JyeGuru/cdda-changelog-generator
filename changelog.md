@@ -1,3 +1,12 @@
+* Monster cameras, vision optimizations, and an implementation through Slime ([#56231](https://github.com/CleverRaven/Cataclysm-DDA/pull/56231))
+* Tacoma - Convert clinic and nurse to json ([#56205](https://github.com/CleverRaven/Cataclysm-DDA/pull/56205))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-27-0216 ([7152aef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0216))
+
+* Add some documentation for `ui_manager` ([#56281](https://github.com/CleverRaven/Cataclysm-DDA/pull/56281))
+* Effect typo fixes ([#56263](https://github.com/CleverRaven/Cataclysm-DDA/pull/56263))
 
 ---
 
@@ -68,7 +77,6 @@
 * Yogurt and pudding edible frozen (#56072) ([#56168](https://github.com/CleverRaven/Cataclysm-DDA/pull/56168))
 * fixed material coverage for Nomad Plate  ([#56166](https://github.com/CleverRaven/Cataclysm-DDA/pull/56166))
 * Add some more post-thresh mutation dreams ([#56163](https://github.com/CleverRaven/Cataclysm-DDA/pull/56163))
-* EOC arithmetic can alter NPC opinion ([#56152](https://github.com/CleverRaven/Cataclysm-DDA/pull/56152))
 
 ---
 
@@ -85,7 +93,6 @@
 * [Innawoods] Welding-free mechanical pump ([#56208](https://github.com/CleverRaven/Cataclysm-DDA/pull/56208))
 * Fix incorrect item weights (#56131) ([#56162](https://github.com/CleverRaven/Cataclysm-DDA/pull/56162))
 * Typo Fixes, Added desired name for the Pulverizer ([#56164](https://github.com/CleverRaven/Cataclysm-DDA/pull/56164))
-* [DinoMod] sauropod stomach cooking ([#56150](https://github.com/CleverRaven/Cataclysm-DDA/pull/56150))
 * When tired, cancel current activity if "Maybe later" is chosen; finish current activity if "Finish it" is chosen ([#56180](https://github.com/CleverRaven/Cataclysm-DDA/pull/56180))
 * Tacoma - Fix Woodworker not spawning ([#56196](https://github.com/CleverRaven/Cataclysm-DDA/pull/56196))
 * Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
@@ -155,7 +162,6 @@
 #### Cataclysm-DDA experimental build 2022-03-21-0633 ([3b9e1a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-21-0633))
 
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
-* Update XL/XS items to use extend flags ([#56158](https://github.com/CleverRaven/Cataclysm-DDA/pull/56158))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
 * Add id_suffix to shadowed recipes (#56161) ([#56177](https://github.com/CleverRaven/Cataclysm-DDA/pull/56177))
@@ -193,9 +199,3 @@
 #### Cataclysm-DDA experimental build 2022-03-19-0426 ([1b95893](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-19-0426))
 
 * Mosin-Nagant 91/30 Boreal → 1891/30 Boreal ([#56194](https://github.com/CleverRaven/Cataclysm-DDA/pull/56194))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-18-0508 ([714f560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-18-0508))
-
-* Cutting chainlink fence will now yield wires, not steel chunks ([#56160](https://github.com/CleverRaven/Cataclysm-DDA/pull/56160))
