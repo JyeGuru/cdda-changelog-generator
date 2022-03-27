@@ -1,3 +1,11 @@
+* Prevent container item appearing twice in AIM ([#56335](https://github.com/CleverRaven/Cataclysm-DDA/pull/56335))
+* Extend requirement groups ([#56323](https://github.com/CleverRaven/Cataclysm-DDA/pull/56323))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-27-1850 ([e699348](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-1850))
+
+* chore: typo hunting ft. codespell ([#56320](https://github.com/CleverRaven/Cataclysm-DDA/pull/56320))
 
 ---
 
@@ -80,13 +88,6 @@
 * Reword PR summary instructions in template ([#56186](https://github.com/CleverRaven/Cataclysm-DDA/pull/56186))
 * Obsolete old chainmail armor. ([#56182](https://github.com/CleverRaven/Cataclysm-DDA/pull/56182))
 * Martial Arts and Techniques can trigger EOCs ([#56179](https://github.com/CleverRaven/Cataclysm-DDA/pull/56179))
-* Epilogue Message Accounts For Your Followers ([#56175](https://github.com/CleverRaven/Cataclysm-DDA/pull/56175))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-26-2052 ([f698c79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-26-2052))
-
-* Add Additional MOLLE equipment ([#56171](https://github.com/CleverRaven/Cataclysm-DDA/pull/56171))
 
 ---
 
@@ -207,9 +208,4 @@
 #### Cataclysm-DDA experimental build 2022-03-19-0804 ([f2c491b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-19-0804))
 
 * Fix jackolantern → jack o'lantern ([#56197](https://github.com/CleverRaven/Cataclysm-DDA/pull/56197))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-19-0426 ([1b95893](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-19-0426))
-
 * Mosin-Nagant 91/30 Boreal → 1891/30 Boreal ([#56194](https://github.com/CleverRaven/Cataclysm-DDA/pull/56194))
