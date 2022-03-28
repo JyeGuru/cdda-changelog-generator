@@ -1,4 +1,6 @@
 * Extract variants for all items, not just guns and magazines (#56366)
+
+Cataclysm-DDA experimental build 2022-03-28-0027 (cddb9bd)
 * Add hammocks (#56364)
 * added vehicle item for long cable (#56363)
 * Fix keybindings in Sort Armor's F1 help menu (#56362)

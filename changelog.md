@@ -1,4 +1,9 @@
 * Extract variants for all items, not just guns and magazines ([#56366](https://github.com/CleverRaven/Cataclysm-DDA/pull/56366))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-28-0027 ([cddb9bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-28-0027))
+
 * Add hammocks ([#56364](https://github.com/CleverRaven/Cataclysm-DDA/pull/56364))
 * added vehicle item for long cable ([#56363](https://github.com/CleverRaven/Cataclysm-DDA/pull/56363))
 * Fix keybindings in Sort Armor's F1 help menu ([#56362](https://github.com/CleverRaven/Cataclysm-DDA/pull/56362))
