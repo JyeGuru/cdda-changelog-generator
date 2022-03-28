@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-28-0537 ([e0dc297](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-28-0537))
+
+* Moulded -> Molded ([#56419](https://github.com/CleverRaven/Cataclysm-DDA/pull/56419))
 * Extract variants for all items, not just guns and magazines ([#56366](https://github.com/CleverRaven/Cataclysm-DDA/pull/56366))
 
 ---
@@ -190,16 +196,10 @@
 #### Cataclysm-DDA experimental build 2022-03-22-0540 ([880df58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-22-0540))
 
 * Fix mechanic recipes typos ([#56286](https://github.com/CleverRaven/Cataclysm-DDA/pull/56286))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-21-0633 ([3b9e1a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-21-0633))
-
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
 * Properly fix conflicting `uilist` keys ([#56212](https://github.com/CleverRaven/Cataclysm-DDA/pull/56212))
-* Translate "something" in monster attack messages ([#56200](https://github.com/CleverRaven/Cataclysm-DDA/pull/56200))
 * Translate game window title ([#56218](https://github.com/CleverRaven/Cataclysm-DDA/pull/56218))
 * flaming eye danger fix ([#56226](https://github.com/CleverRaven/Cataclysm-DDA/pull/56226))
 * Remove "none" plurals ([#56230](https://github.com/CleverRaven/Cataclysm-DDA/pull/56230))
