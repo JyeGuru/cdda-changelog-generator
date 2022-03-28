@@ -52,11 +52,6 @@
 * [Innawood] Chemistry, electricity, and more! ([#56348](https://github.com/CleverRaven/Cataclysm-DDA/pull/56348))
 * obsolete Graphical Overmap mods ([#56347](https://github.com/CleverRaven/Cataclysm-DDA/pull/56347))
 * autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-27-0612 ([d099305](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0612))
-
 * Crafting: add support for byproduct item groups ([#56317](https://github.com/CleverRaven/Cataclysm-DDA/pull/56317))
 
 ---
@@ -71,11 +66,6 @@
 
 * Monster cameras, vision optimizations, and an implementation through Slime ([#56231](https://github.com/CleverRaven/Cataclysm-DDA/pull/56231))
 * Tacoma - Convert clinic and nurse to json ([#56205](https://github.com/CleverRaven/Cataclysm-DDA/pull/56205))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-27-0216 ([7152aef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0216))
-
 * Add some documentation for `ui_manager` ([#56281](https://github.com/CleverRaven/Cataclysm-DDA/pull/56281))
 * Effect typo fixes ([#56263](https://github.com/CleverRaven/Cataclysm-DDA/pull/56263))
 
@@ -98,11 +88,6 @@
 * ft: more auto labeling ([#56282](https://github.com/CleverRaven/Cataclysm-DDA/pull/56282))
 * Remove post vehicle dismantling item dissorting ([#56276](https://github.com/CleverRaven/Cataclysm-DDA/pull/56276))
 * Fix monsters minor typos ([#56264](https://github.com/CleverRaven/Cataclysm-DDA/pull/56264))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-26-2255 ([9e704fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-26-2255))
-
 * Add more mixed drinks ([#56259](https://github.com/CleverRaven/Cataclysm-DDA/pull/56259))
 * Consistent Exodii case + minor typos ([#56257](https://github.com/CleverRaven/Cataclysm-DDA/pull/56257))
 * Reduce length of staff sling, reduce damage to reflect length reduction ([#56254](https://github.com/CleverRaven/Cataclysm-DDA/pull/56254))
@@ -196,6 +181,11 @@
 #### Cataclysm-DDA experimental build 2022-03-22-0540 ([880df58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-22-0540))
 
 * Fix mechanic recipes typos ([#56286](https://github.com/CleverRaven/Cataclysm-DDA/pull/56286))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-21-0633 ([3b9e1a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-21-0633))
+
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * fix: extra sign in exoddi base ([#56216](https://github.com/CleverRaven/Cataclysm-DDA/pull/56216))
@@ -211,4 +201,9 @@
 * Add missing dot for dialog response ([#56213](https://github.com/CleverRaven/Cataclysm-DDA/pull/56213))
 * movecost → move cost ([#56225](https://github.com/CleverRaven/Cataclysm-DDA/pull/56225))
 * Add context to mustard ([#56228](https://github.com/CleverRaven/Cataclysm-DDA/pull/56228))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-03-19-0915 ([f335922](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-19-0915))
+
 * Routine i18n updates on 19 March 2022 ([#56206](https://github.com/CleverRaven/Cataclysm-DDA/pull/56206))
