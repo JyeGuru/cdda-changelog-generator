@@ -190,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-03-24-1409 ([543b040](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-24-1409))
 
 * Lower spawn rate of campground_npc ([#56322](https://github.com/CleverRaven/Cataclysm-DDA/pull/56322))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-23-0524 ([0468e7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-23-0524))
-
 * Add watermelon seeds ([#56285](https://github.com/CleverRaven/Cataclysm-DDA/pull/56285))
 * [DinoMod] hadrosaurus ([#56295](https://github.com/CleverRaven/Cataclysm-DDA/pull/56295))
 * Fix food plurals + minor typos ([#56255](https://github.com/CleverRaven/Cataclysm-DDA/pull/56255))
@@ -203,6 +198,5 @@
 * Prevent potential null pointer dereferencing in talk_effect_fun_t::set_spawn_monster() ([#56261](https://github.com/CleverRaven/Cataclysm-DDA/pull/56261))
 * Fix mechanic recipes typos ([#56286](https://github.com/CleverRaven/Cataclysm-DDA/pull/56286))
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
-* fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
 * Remove "none" plurals ([#56230](https://github.com/CleverRaven/Cataclysm-DDA/pull/56230))
 * Add context to mustard ([#56228](https://github.com/CleverRaven/Cataclysm-DDA/pull/56228))
