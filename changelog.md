@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-03-29-0554 ([605cd53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-29-0554))
+
+* Unify Kevlar and Nomex ([#56414](https://github.com/CleverRaven/Cataclysm-DDA/pull/56414))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-28-0537 ([e0dc297](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-28-0537))
 
 * Moulded -> Molded ([#56419](https://github.com/CleverRaven/Cataclysm-DDA/pull/56419))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-03-22-1513 ([8d98924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-22-1513))
 
 * Prevent potential null pointer dereferencing in talk_effect_fun_t::set_spawn_monster() ([#56261](https://github.com/CleverRaven/Cataclysm-DDA/pull/56261))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-22-0540 ([880df58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-22-0540))
-
 * Fix mechanic recipes typos ([#56286](https://github.com/CleverRaven/Cataclysm-DDA/pull/56286))
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
 * fix: don't validate empty summary descriptions ([#56227](https://github.com/CleverRaven/Cataclysm-DDA/pull/56227))
@@ -204,7 +205,6 @@
 * flaming eye danger fix ([#56226](https://github.com/CleverRaven/Cataclysm-DDA/pull/56226))
 * Remove "none" plurals ([#56230](https://github.com/CleverRaven/Cataclysm-DDA/pull/56230))
 * Change multi-tool → multitool to match others ([#56214](https://github.com/CleverRaven/Cataclysm-DDA/pull/56214))
-* Polish playlist id expansion feature from #56045 ([#56203](https://github.com/CleverRaven/Cataclysm-DDA/pull/56203))
 * Mark Artisan gun "Crack!" appear in translation ([#56221](https://github.com/CleverRaven/Cataclysm-DDA/pull/56221))
 * Fix typos in doc ([#56210](https://github.com/CleverRaven/Cataclysm-DDA/pull/56210))
 * Add missing dot for dialog response ([#56213](https://github.com/CleverRaven/Cataclysm-DDA/pull/56213))
