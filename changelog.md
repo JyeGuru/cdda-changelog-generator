@@ -204,7 +204,6 @@
 * flaming eye danger fix ([#56226](https://github.com/CleverRaven/Cataclysm-DDA/pull/56226))
 * Remove "none" plurals ([#56230](https://github.com/CleverRaven/Cataclysm-DDA/pull/56230))
 * Change multi-tool → multitool to match others ([#56214](https://github.com/CleverRaven/Cataclysm-DDA/pull/56214))
-* Translate inline weakpoint names ([#56201](https://github.com/CleverRaven/Cataclysm-DDA/pull/56201))
 * Polish playlist id expansion feature from #56045 ([#56203](https://github.com/CleverRaven/Cataclysm-DDA/pull/56203))
 * Mark Artisan gun "Crack!" appear in translation ([#56221](https://github.com/CleverRaven/Cataclysm-DDA/pull/56221))
 * Fix typos in doc ([#56210](https://github.com/CleverRaven/Cataclysm-DDA/pull/56210))
