@@ -203,3 +203,4 @@
 * Prevent potential null pointer dereferencing in talk_effect_fun_t::set_spawn_monster() ([#56261](https://github.com/CleverRaven/Cataclysm-DDA/pull/56261))
 * Fix mechanic recipes typos ([#56286](https://github.com/CleverRaven/Cataclysm-DDA/pull/56286))
 * Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
+* Remove "none" plurals ([#56230](https://github.com/CleverRaven/Cataclysm-DDA/pull/56230))
