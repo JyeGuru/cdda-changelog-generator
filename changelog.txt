@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-03-31-1424 (ed4559e)
+* Obsolete CRIT (#56404)
+
 Cataclysm-DDA experimental build 2022-03-30-0513 (3d0002b)
 * Update robotfindskitten links (#56465)
 * Clarify two spaces rule for translations (#56408)
@@ -123,8 +126,6 @@ Cataclysm-DDA experimental build 2022-03-25-0511 (46d4710)
 
 Cataclysm-DDA experimental build 2022-03-25-0319 (5ba62ff)
 * Zone cleanup (#56332)
-
-Cataclysm-DDA experimental build 2022-03-24-1409 (543b040)
 * Lower spawn rate of campground_npc (#56322)
 * Add watermelon seeds (#56285)
 * [DinoMod] hadrosaurus (#56295)
@@ -134,4 +135,3 @@ Cataclysm-DDA experimental build 2022-03-24-1409 (543b040)
 * Prevent potential null pointer dereferencing in talk_effect_fun_t::set_spawn_monster() (#56261)
 * Fix mechanic recipes typos (#56286)
 * Add Bōjutsu to mutation description (#56273)
-* Remove "none" plurals (#56230)
