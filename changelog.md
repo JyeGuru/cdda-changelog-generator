@@ -147,7 +147,6 @@
 * Add Spawn and Monsters label to label bot ([#56249](https://github.com/CleverRaven/Cataclysm-DDA/pull/56249))
 * Fix clothes plurals + minor typos ([#56247](https://github.com/CleverRaven/Cataclysm-DDA/pull/56247))
 * Blunt weapons are now steel and not iron ([#56240](https://github.com/CleverRaven/Cataclysm-DDA/pull/56240))
-* Torso plate armor coverage ([#56236](https://github.com/CleverRaven/Cataclysm-DDA/pull/56236))
 
 ---
 
@@ -168,7 +167,6 @@
 * [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
-* Don't spawn hallucinations on open air ([#56238](https://github.com/CleverRaven/Cataclysm-DDA/pull/56238))
 * Tilesets Update 2022-03-20 ([#56246](https://github.com/CleverRaven/Cataclysm-DDA/pull/56246))
 * Added a house with unfortunate victim of weird aircraft accident ([#56248](https://github.com/CleverRaven/Cataclysm-DDA/pull/56248))
 * bamboo ([#56258](https://github.com/CleverRaven/Cataclysm-DDA/pull/56258))
