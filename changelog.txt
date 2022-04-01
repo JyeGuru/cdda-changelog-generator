@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-01-0639 (1ce0619)
+* Fingerless gloves actually fingerless (#56495)
+
 Cataclysm-DDA experimental build 2022-03-31-1424 (ed4559e)
 * Obsolete CRIT (#56404)
 
@@ -91,7 +94,6 @@ Cataclysm-DDA experimental build 2022-03-26-2255 (9e704fc)
 * Fix clothes plurals + minor typos (#56247)
 * Blunt weapons are now steel and not iron (#56240)
 * Torso plate armor coverage (#56236)
-* Visible fire drill charges (#56219) (#56232)
 
 Cataclysm-DDA experimental build 2022-03-26-0700 (d1776b2)
 * Unify description of the new zones (#56342)

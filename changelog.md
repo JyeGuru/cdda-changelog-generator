@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-01-0639 ([1ce0619](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-01-0639))
+
+* Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-03-31-1424 ([ed4559e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-31-1424))
 
 * Obsolete CRIT ([#56404](https://github.com/CleverRaven/Cataclysm-DDA/pull/56404))
@@ -142,7 +148,6 @@
 * Fix clothes plurals + minor typos ([#56247](https://github.com/CleverRaven/Cataclysm-DDA/pull/56247))
 * Blunt weapons are now steel and not iron ([#56240](https://github.com/CleverRaven/Cataclysm-DDA/pull/56240))
 * Torso plate armor coverage ([#56236](https://github.com/CleverRaven/Cataclysm-DDA/pull/56236))
-* Visible fire drill charges (#56219) ([#56232](https://github.com/CleverRaven/Cataclysm-DDA/pull/56232))
 
 ---
 
