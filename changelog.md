@@ -106,12 +106,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-03-27-0318 ([52d991b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0318))
-
-* Monster cameras, vision optimizations, and an implementation through Slime ([#56231](https://github.com/CleverRaven/Cataclysm-DDA/pull/56231))
-
----
-
 #### Cataclysm-DDA experimental build 2022-03-27-0216 ([7152aef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0216))
 
 * Add some documentation for `ui_manager` ([#56281](https://github.com/CleverRaven/Cataclysm-DDA/pull/56281))

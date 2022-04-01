@@ -65,9 +65,6 @@ Cataclysm-DDA experimental build 2022-03-27-0612 (d099305)
 Cataclysm-DDA experimental build 2022-03-27-0437 (f49e497)
 * Three new animist spells, revolving around shadows and spirts (#56305)
 
-Cataclysm-DDA experimental build 2022-03-27-0318 (52d991b)
-* Monster cameras, vision optimizations, and an implementation through Slime (#56231)
-
 Cataclysm-DDA experimental build 2022-03-27-0216 (7152aef)
 * Add some documentation for `ui_manager` (#56281)
 * Effect typo fixes (#56263)
