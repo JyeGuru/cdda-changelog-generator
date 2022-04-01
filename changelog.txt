@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-01-2134 (f0715f7)
+* tjking293-add-karambit (#56515)
+
 Cataclysm-DDA experimental build 2022-04-01-0639 (1ce0619)
 * Fingerless gloves actually fingerless (#56495)
 
@@ -92,7 +95,6 @@ Cataclysm-DDA experimental build 2022-03-26-2255 (9e704fc)
 * Reduce length of staff sling, reduce damage to reflect length reduction (#56254)
 * Add Spawn and Monsters label to label bot (#56249)
 * Fix clothes plurals + minor typos (#56247)
-* Blunt weapons are now steel and not iron (#56240)
 
 Cataclysm-DDA experimental build 2022-03-26-0700 (d1776b2)
 * Unify description of the new zones (#56342)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2022-03-25-0611 (cf4ad66)
 
 Cataclysm-DDA experimental build 2022-03-25-0511 (46d4710)
 * Fix installation of certain vehicle part variants (#56304)
-
-Cataclysm-DDA experimental build 2022-03-25-0319 (5ba62ff)
 * Zone cleanup (#56332)
 * Lower spawn rate of campground_npc (#56322)
 * Add watermelon seeds (#56285)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-01-2134 ([f0715f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-01-2134))
+
+* tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-01-0639 ([1ce0619](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-01-0639))
 
 * Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
@@ -146,7 +152,6 @@
 * Reduce length of staff sling, reduce damage to reflect length reduction ([#56254](https://github.com/CleverRaven/Cataclysm-DDA/pull/56254))
 * Add Spawn and Monsters label to label bot ([#56249](https://github.com/CleverRaven/Cataclysm-DDA/pull/56249))
 * Fix clothes plurals + minor typos ([#56247](https://github.com/CleverRaven/Cataclysm-DDA/pull/56247))
-* Blunt weapons are now steel and not iron ([#56240](https://github.com/CleverRaven/Cataclysm-DDA/pull/56240))
 
 ---
 
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-03-25-0511 ([46d4710](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0511))
 
 * Fix installation of certain vehicle part variants ([#56304](https://github.com/CleverRaven/Cataclysm-DDA/pull/56304))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-25-0319 ([5ba62ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0319))
-
 * Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))
 * Lower spawn rate of campground_npc ([#56322](https://github.com/CleverRaven/Cataclysm-DDA/pull/56322))
 * Add watermelon seeds ([#56285](https://github.com/CleverRaven/Cataclysm-DDA/pull/56285))
