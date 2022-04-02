@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-02-0518 ([e5f7ce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-02-0518))
+
+* Routine i18n updates on 02 April 2022 ([#56522](https://github.com/CleverRaven/Cataclysm-DDA/pull/56522))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-01-2134 ([f0715f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-01-2134))
 
 * tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
@@ -181,15 +187,9 @@
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
 * Fix guns and minor typos ([#56262](https://github.com/CleverRaven/Cataclysm-DDA/pull/56262))
-* Unify robotfindskitten spelling ([#56244](https://github.com/CleverRaven/Cataclysm-DDA/pull/56244))
 * Fix mutations minor typos ([#56266](https://github.com/CleverRaven/Cataclysm-DDA/pull/56266))
 * Consistently use ™ ([#56284](https://github.com/CleverRaven/Cataclysm-DDA/pull/56284))
 * pack → cigarette pack ([#56331](https://github.com/CleverRaven/Cataclysm-DDA/pull/56331))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-25-0511 ([46d4710](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0511))
-
 * Fix installation of certain vehicle part variants ([#56304](https://github.com/CleverRaven/Cataclysm-DDA/pull/56304))
 * Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))
 * Lower spawn rate of campground_npc ([#56322](https://github.com/CleverRaven/Cataclysm-DDA/pull/56322))
