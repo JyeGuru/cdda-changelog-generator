@@ -1,3 +1,5 @@
+* Fix wooden javelin recipe ([#56369](https://github.com/CleverRaven/Cataclysm-DDA/pull/56369))
+* Fixes for pockets and sub-holsters ([#56367](https://github.com/CleverRaven/Cataclysm-DDA/pull/56367))
 * Jay no longer gives Hub mission ([#56365](https://github.com/CleverRaven/Cataclysm-DDA/pull/56365))
 
 ---
@@ -172,7 +174,6 @@
 
 * Add more mixed drinks ([#56259](https://github.com/CleverRaven/Cataclysm-DDA/pull/56259))
 * Consistent Exodii case + minor typos ([#56257](https://github.com/CleverRaven/Cataclysm-DDA/pull/56257))
-* Reduce length of staff sling, reduce damage to reflect length reduction ([#56254](https://github.com/CleverRaven/Cataclysm-DDA/pull/56254))
 
 ---
 
@@ -195,7 +196,6 @@
 * Lower spawn rate of campground_npc ([#56322](https://github.com/CleverRaven/Cataclysm-DDA/pull/56322))
 * Add watermelon seeds ([#56285](https://github.com/CleverRaven/Cataclysm-DDA/pull/56285))
 * [DinoMod] hadrosaurus ([#56295](https://github.com/CleverRaven/Cataclysm-DDA/pull/56295))
-* Fix food plurals + minor typos ([#56255](https://github.com/CleverRaven/Cataclysm-DDA/pull/56255))
 * Fix book plurals + minor typos ([#56268](https://github.com/CleverRaven/Cataclysm-DDA/pull/56268))
 * Prevent potential null pointer dereferencing in talk_effect_fun_t::set_spawn_monster() ([#56261](https://github.com/CleverRaven/Cataclysm-DDA/pull/56261))
 * Fix mechanic recipes typos ([#56286](https://github.com/CleverRaven/Cataclysm-DDA/pull/56286))
