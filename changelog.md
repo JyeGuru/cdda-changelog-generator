@@ -1,3 +1,5 @@
+* Hub 01 intercom dialogue revamp ([#56308](https://github.com/CleverRaven/Cataclysm-DDA/pull/56308))
+* Allow basecamp planting from manual plowing as soon as you have a farm ([#56292](https://github.com/CleverRaven/Cataclysm-DDA/pull/56292))
 * feat: label prs based on summary line ([#56265](https://github.com/CleverRaven/Cataclysm-DDA/pull/56265))
 * Fix diary and string editor windows ([#56253](https://github.com/CleverRaven/Cataclysm-DDA/pull/56253))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
@@ -160,7 +162,6 @@
 * Add more mixed drinks ([#56259](https://github.com/CleverRaven/Cataclysm-DDA/pull/56259))
 * Consistent Exodii case + minor typos ([#56257](https://github.com/CleverRaven/Cataclysm-DDA/pull/56257))
 * Reduce length of staff sling, reduce damage to reflect length reduction ([#56254](https://github.com/CleverRaven/Cataclysm-DDA/pull/56254))
-* Add Spawn and Monsters label to label bot ([#56249](https://github.com/CleverRaven/Cataclysm-DDA/pull/56249))
 
 ---
 
@@ -172,7 +173,6 @@
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
 * bamboo ([#56258](https://github.com/CleverRaven/Cataclysm-DDA/pull/56258))
-* Update SOUNDPACK.md ([#56250](https://github.com/CleverRaven/Cataclysm-DDA/pull/56250))
 * Restore missing flags ([#56275](https://github.com/CleverRaven/Cataclysm-DDA/pull/56275))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
@@ -186,7 +186,6 @@
 * Add watermelon seeds ([#56285](https://github.com/CleverRaven/Cataclysm-DDA/pull/56285))
 * [DinoMod] hadrosaurus ([#56295](https://github.com/CleverRaven/Cataclysm-DDA/pull/56295))
 * Fix food plurals + minor typos ([#56255](https://github.com/CleverRaven/Cataclysm-DDA/pull/56255))
-* Consistent Marloss/Mycus/Mycal case ([#56251](https://github.com/CleverRaven/Cataclysm-DDA/pull/56251))
 * Fix book plurals + minor typos ([#56268](https://github.com/CleverRaven/Cataclysm-DDA/pull/56268))
 * Prevent potential null pointer dereferencing in talk_effect_fun_t::set_spawn_monster() ([#56261](https://github.com/CleverRaven/Cataclysm-DDA/pull/56261))
 * Fix mechanic recipes typos ([#56286](https://github.com/CleverRaven/Cataclysm-DDA/pull/56286))
