@@ -1,3 +1,4 @@
+* Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 
 ---
@@ -171,15 +172,9 @@
 #### Cataclysm-DDA experimental build 2022-03-25-0907 ([aeb1bd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0907))
 
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-25-0611 ([cf4ad66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0611))
-
 * [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
-* Tilesets Update 2022-03-20 ([#56246](https://github.com/CleverRaven/Cataclysm-DDA/pull/56246))
 * Added a house with unfortunate victim of weird aircraft accident ([#56248](https://github.com/CleverRaven/Cataclysm-DDA/pull/56248))
 * bamboo ([#56258](https://github.com/CleverRaven/Cataclysm-DDA/pull/56258))
 * Update SOUNDPACK.md ([#56250](https://github.com/CleverRaven/Cataclysm-DDA/pull/56250))
