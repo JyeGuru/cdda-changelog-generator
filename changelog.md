@@ -1,3 +1,5 @@
+* [DinoMod] appalachiosaurus ([#56371](https://github.com/CleverRaven/Cataclysm-DDA/pull/56371))
+* Allow using a wooden panel to make paper ([#56370](https://github.com/CleverRaven/Cataclysm-DDA/pull/56370))
 * Fix wooden javelin recipe ([#56369](https://github.com/CleverRaven/Cataclysm-DDA/pull/56369))
 * Fixes for pockets and sub-holsters ([#56367](https://github.com/CleverRaven/Cataclysm-DDA/pull/56367))
 * Jay no longer gives Hub mission ([#56365](https://github.com/CleverRaven/Cataclysm-DDA/pull/56365))
@@ -173,7 +175,6 @@
 #### Cataclysm-DDA experimental build 2022-03-26-2255 ([9e704fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-26-2255))
 
 * Add more mixed drinks ([#56259](https://github.com/CleverRaven/Cataclysm-DDA/pull/56259))
-* Consistent Exodii case + minor typos ([#56257](https://github.com/CleverRaven/Cataclysm-DDA/pull/56257))
 
 ---
 
@@ -183,7 +184,6 @@
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
-* bamboo ([#56258](https://github.com/CleverRaven/Cataclysm-DDA/pull/56258))
 * Restore missing flags ([#56275](https://github.com/CleverRaven/Cataclysm-DDA/pull/56275))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
