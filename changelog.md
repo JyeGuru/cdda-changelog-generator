@@ -1,3 +1,5 @@
+* feat: label prs based on summary line ([#56265](https://github.com/CleverRaven/Cataclysm-DDA/pull/56265))
+* Fix diary and string editor windows ([#56253](https://github.com/CleverRaven/Cataclysm-DDA/pull/56253))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 
@@ -159,23 +161,16 @@
 * Consistent Exodii case + minor typos ([#56257](https://github.com/CleverRaven/Cataclysm-DDA/pull/56257))
 * Reduce length of staff sling, reduce damage to reflect length reduction ([#56254](https://github.com/CleverRaven/Cataclysm-DDA/pull/56254))
 * Add Spawn and Monsters label to label bot ([#56249](https://github.com/CleverRaven/Cataclysm-DDA/pull/56249))
-* Fix clothes plurals + minor typos ([#56247](https://github.com/CleverRaven/Cataclysm-DDA/pull/56247))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-03-26-0700 ([d1776b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-26-0700))
 
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-25-0907 ([aeb1bd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-25-0907))
-
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
 * [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
-* Added a house with unfortunate victim of weird aircraft accident ([#56248](https://github.com/CleverRaven/Cataclysm-DDA/pull/56248))
 * bamboo ([#56258](https://github.com/CleverRaven/Cataclysm-DDA/pull/56258))
 * Update SOUNDPACK.md ([#56250](https://github.com/CleverRaven/Cataclysm-DDA/pull/56250))
 * Restore missing flags ([#56275](https://github.com/CleverRaven/Cataclysm-DDA/pull/56275))
