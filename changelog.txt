@@ -1,9 +1,12 @@
+* Jay no longer gives Hub mission (#56365)
+
+Cataclysm-DDA experimental build 2022-04-02-2308 (15c73c7)
+* [CR] Scrap metal rework (#56339)
 
 Cataclysm-DDA experimental build 2022-04-02-2054 (2e7d272)
 * Hub 01 intercom dialogue revamp (#56308)
 * Allow basecamp planting from manual plowing as soon as you have a farm (#56292)
 * feat: label prs based on summary line (#56265)
-* Fix diary and string editor windows (#56253)
 * Update Tilesets 2022-04-03 (#56531)
 * JSON formatter: show filename on empty input (#56524)
 
@@ -108,7 +111,6 @@ Cataclysm-DDA experimental build 2022-03-26-2255 (9e704fc)
 Cataclysm-DDA experimental build 2022-03-26-0700 (d1776b2)
 * Unify description of the new zones (#56342)
 * Fix wind turbine accessibility (#56309)
-* [Innawoods] Goat profession (#56252)
 * [Innawoods] Bronze tools (#56306)
 * Prevent generating normal distribution with zero sigma (#56260)
 * bamboo (#56258)

@@ -1,3 +1,10 @@
+* Jay no longer gives Hub mission ([#56365](https://github.com/CleverRaven/Cataclysm-DDA/pull/56365))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-02-2308 ([15c73c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-02-2308))
+
+* [CR] Scrap metal rework ([#56339](https://github.com/CleverRaven/Cataclysm-DDA/pull/56339))
 
 ---
 
@@ -6,7 +13,6 @@
 * Hub 01 intercom dialogue revamp ([#56308](https://github.com/CleverRaven/Cataclysm-DDA/pull/56308))
 * Allow basecamp planting from manual plowing as soon as you have a farm ([#56292](https://github.com/CleverRaven/Cataclysm-DDA/pull/56292))
 * feat: label prs based on summary line ([#56265](https://github.com/CleverRaven/Cataclysm-DDA/pull/56265))
-* Fix diary and string editor windows ([#56253](https://github.com/CleverRaven/Cataclysm-DDA/pull/56253))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 
@@ -174,7 +180,6 @@
 
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
-* [Innawoods] Goat profession ([#56252](https://github.com/CleverRaven/Cataclysm-DDA/pull/56252))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
 * bamboo ([#56258](https://github.com/CleverRaven/Cataclysm-DDA/pull/56258))
