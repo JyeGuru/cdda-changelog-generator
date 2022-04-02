@@ -1,3 +1,4 @@
+* JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 
 ---
 
@@ -183,7 +184,6 @@
 * bamboo ([#56258](https://github.com/CleverRaven/Cataclysm-DDA/pull/56258))
 * Update SOUNDPACK.md ([#56250](https://github.com/CleverRaven/Cataclysm-DDA/pull/56250))
 * Restore missing flags ([#56275](https://github.com/CleverRaven/Cataclysm-DDA/pull/56275))
-* Typo fixes to bionics file ([#56245](https://github.com/CleverRaven/Cataclysm-DDA/pull/56245))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
 * Fix guns and minor typos ([#56262](https://github.com/CleverRaven/Cataclysm-DDA/pull/56262))
