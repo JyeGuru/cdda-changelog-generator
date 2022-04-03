@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-03-0551 ([96d10a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-0551))
+
+* Water strider description typo ([#56551](https://github.com/CleverRaven/Cataclysm-DDA/pull/56551))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-03-0355 ([add752e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-0355))
 
 * Fix Rubik's anesthetic quest ([#56546](https://github.com/CleverRaven/Cataclysm-DDA/pull/56546))
@@ -183,7 +189,6 @@
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
-* Prevent generating normal distribution with zero sigma ([#56260](https://github.com/CleverRaven/Cataclysm-DDA/pull/56260))
 * Restore missing flags ([#56275](https://github.com/CleverRaven/Cataclysm-DDA/pull/56275))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
