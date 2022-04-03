@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-03-0355 (add752e)
 * Fix Rubik's anesthetic quest (#56546)
 
 Cataclysm-DDA experimental build 2022-04-03-0015 (d0221e2)

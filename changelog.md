@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-03-0355 ([add752e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-0355))
+
 * Fix Rubik's anesthetic quest ([#56546](https://github.com/CleverRaven/Cataclysm-DDA/pull/56546))
 
 ---
