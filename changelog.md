@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-03-2051 ([ba5e863](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-2051))
+
+* Add directions signpost to exodii safehouses and some pods ([#56540](https://github.com/CleverRaven/Cataclysm-DDA/pull/56540))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-03-1820 ([10aed29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-1820))
 
 * Fixes for eyewear and other rigid issues ([#56398](https://github.com/CleverRaven/Cataclysm-DDA/pull/56398))
@@ -183,11 +189,6 @@
 * Added freezer appliances/items/furniture ([#56293](https://github.com/CleverRaven/Cataclysm-DDA/pull/56293))
 * Fix problems with t-shirt variants in professions ([#56290](https://github.com/CleverRaven/Cataclysm-DDA/pull/56290))
 * Add wooden bucket and wooden well for obtaining water ([#56289](https://github.com/CleverRaven/Cataclysm-DDA/pull/56289))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-26-2356 ([0e5db3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-26-2356))
-
 * [Magiclysm] Fix Weak not cancelling some strength mutations ([#56288](https://github.com/CleverRaven/Cataclysm-DDA/pull/56288))
 * ft: more auto labeling ([#56282](https://github.com/CleverRaven/Cataclysm-DDA/pull/56282))
 * Remove post vehicle dismantling item dissorting ([#56276](https://github.com/CleverRaven/Cataclysm-DDA/pull/56276))
@@ -198,7 +199,6 @@
 * Restore missing flags ([#56275](https://github.com/CleverRaven/Cataclysm-DDA/pull/56275))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
-* Fix guns and minor typos ([#56262](https://github.com/CleverRaven/Cataclysm-DDA/pull/56262))
 * Fix mutations minor typos ([#56266](https://github.com/CleverRaven/Cataclysm-DDA/pull/56266))
 * Consistently use ™ ([#56284](https://github.com/CleverRaven/Cataclysm-DDA/pull/56284))
 * pack → cigarette pack ([#56331](https://github.com/CleverRaven/Cataclysm-DDA/pull/56331))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-03-2051 (ba5e863)
+* Add directions signpost to exodii safehouses and some pods (#56540)
+
 Cataclysm-DDA experimental build 2022-04-03-1820 (10aed29)
 * Fixes for eyewear and other rigid issues (#56398)
 
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2022-03-27-0102 (ede427e)
 * Added freezer appliances/items/furniture (#56293)
 * Fix problems with t-shirt variants in professions (#56290)
 * Add wooden bucket and wooden well for obtaining water (#56289)
-
-Cataclysm-DDA experimental build 2022-03-26-2356 (0e5db3a)
 * [Magiclysm] Fix Weak not cancelling some strength mutations (#56288)
 * ft: more auto labeling (#56282)
 * Remove post vehicle dismantling item dissorting (#56276)
@@ -123,7 +124,6 @@ Cataclysm-DDA experimental build 2022-03-26-2356 (0e5db3a)
 * Restore missing flags (#56275)
 * iron and steel horse armor (#56327)
 * Fix touring suit warmth (#56330)
-* Fix guns and minor typos (#56262)
 * Fix mutations minor typos (#56266)
 * Consistently use ™ (#56284)
 * pack → cigarette pack (#56331)
