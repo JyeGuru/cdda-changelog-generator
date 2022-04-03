@@ -1,3 +1,4 @@
+* Fix Rubik's anesthetic quest (#56546)
 
 Cataclysm-DDA experimental build 2022-04-03-0015 (d0221e2)
 * [DinoMod] appalachiosaurus (#56371)
@@ -108,9 +109,6 @@ Cataclysm-DDA experimental build 2022-03-26-2356 (0e5db3a)
 * ft: more auto labeling (#56282)
 * Remove post vehicle dismantling item dissorting (#56276)
 * Fix monsters minor typos (#56264)
-
-Cataclysm-DDA experimental build 2022-03-26-2255 (9e704fc)
-* Add more mixed drinks (#56259)
 * Unify description of the new zones (#56342)
 * Fix wind turbine accessibility (#56309)
 * [Innawoods] Bronze tools (#56306)
