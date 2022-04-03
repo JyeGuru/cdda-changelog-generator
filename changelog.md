@@ -177,7 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-03-27-0216 ([7152aef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0216))
 
 * Add some documentation for `ui_manager` ([#56281](https://github.com/CleverRaven/Cataclysm-DDA/pull/56281))
-* Effect typo fixes ([#56263](https://github.com/CleverRaven/Cataclysm-DDA/pull/56263))
 
 ---
 

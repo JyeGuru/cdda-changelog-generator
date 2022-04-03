@@ -105,7 +105,6 @@ Cataclysm-DDA experimental build 2022-03-27-0437 (f49e497)
 
 Cataclysm-DDA experimental build 2022-03-27-0216 (7152aef)
 * Add some documentation for `ui_manager` (#56281)
-* Effect typo fixes (#56263)
 
 Cataclysm-DDA experimental build 2022-03-27-0102 (ede427e)
 * Routine i18n updates on 26 March 2022 (#56350)
