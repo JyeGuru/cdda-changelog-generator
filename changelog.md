@@ -1,3 +1,13 @@
+* Minor t-shirt variants fixes ([#56435](https://github.com/CleverRaven/Cataclysm-DDA/pull/56435))
+* Clarify smartphone cases ([#56434](https://github.com/CleverRaven/Cataclysm-DDA/pull/56434))
+* Expand armor definition for cestus ([#56429](https://github.com/CleverRaven/Cataclysm-DDA/pull/56429))
+* inventory_selector: clean up deprecated code ([#56427](https://github.com/CleverRaven/Cataclysm-DDA/pull/56427))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-04-1726 ([b0b5bcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1726))
+
+* Mutation infrastructure and a Threshold calculation revamp ([#56421](https://github.com/CleverRaven/Cataclysm-DDA/pull/56421))
 
 ---
 
@@ -87,7 +97,6 @@
 #### Cataclysm-DDA experimental build 2022-04-02-2054 ([2e7d272](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-02-2054))
 
 * Hub 01 intercom dialogue revamp ([#56308](https://github.com/CleverRaven/Cataclysm-DDA/pull/56308))
-* Allow basecamp planting from manual plowing as soon as you have a farm ([#56292](https://github.com/CleverRaven/Cataclysm-DDA/pull/56292))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 
@@ -187,11 +196,6 @@
 * Balance Impact Knuckles ([#56338](https://github.com/CleverRaven/Cataclysm-DDA/pull/56338))
 * Prevent container item appearing twice in AIM ([#56335](https://github.com/CleverRaven/Cataclysm-DDA/pull/56335))
 * Extend requirement groups ([#56323](https://github.com/CleverRaven/Cataclysm-DDA/pull/56323))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-27-1850 ([e699348](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-1850))
-
 * chore: typo hunting ft. codespell ([#56320](https://github.com/CleverRaven/Cataclysm-DDA/pull/56320))
 * [Innawood] Chemistry, electricity, and more! ([#56348](https://github.com/CleverRaven/Cataclysm-DDA/pull/56348))
 * obsolete Graphical Overmap mods ([#56347](https://github.com/CleverRaven/Cataclysm-DDA/pull/56347))
@@ -202,9 +206,6 @@
 * Steel Crafts ([#56300](https://github.com/CleverRaven/Cataclysm-DDA/pull/56300))
 * Generic mutagen can cause mutations again ([#56294](https://github.com/CleverRaven/Cataclysm-DDA/pull/56294))
 * Added freezer appliances/items/furniture ([#56293](https://github.com/CleverRaven/Cataclysm-DDA/pull/56293))
-* Fix problems with t-shirt variants in professions ([#56290](https://github.com/CleverRaven/Cataclysm-DDA/pull/56290))
-* Add wooden bucket and wooden well for obtaining water ([#56289](https://github.com/CleverRaven/Cataclysm-DDA/pull/56289))
-* [Magiclysm] Fix Weak not cancelling some strength mutations ([#56288](https://github.com/CleverRaven/Cataclysm-DDA/pull/56288))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
@@ -215,4 +216,3 @@
 * Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))
 * Lower spawn rate of campground_npc ([#56322](https://github.com/CleverRaven/Cataclysm-DDA/pull/56322))
 * [DinoMod] hadrosaurus ([#56295](https://github.com/CleverRaven/Cataclysm-DDA/pull/56295))
-* Fix mechanic recipes typos ([#56286](https://github.com/CleverRaven/Cataclysm-DDA/pull/56286))
