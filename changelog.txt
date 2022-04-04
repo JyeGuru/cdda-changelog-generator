@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-04-1616 (f373d83)
+* Fix waist CI error (#56578)
+
 Cataclysm-DDA experimental build 2022-04-04-0719 (df6d5f0)
 * Add missing double space to NPC_ROBOFAC_INTERCOM (#56548)
 
@@ -112,8 +115,6 @@ Cataclysm-DDA experimental build 2022-03-27-1951 (2e60697)
 
 Cataclysm-DDA experimental build 2022-03-27-1850 (e699348)
 * chore: typo hunting ft. codespell (#56320)
-
-Cataclysm-DDA experimental build 2022-03-27-0725 (0cc5c05)
 * [Innawood] Chemistry, electricity, and more! (#56348)
 * obsolete Graphical Overmap mods (#56347)
 * autodoc → Autodoc (#56355)
@@ -135,6 +136,5 @@ Cataclysm-DDA experimental build 2022-03-27-0725 (0cc5c05)
 * Fix installation of certain vehicle part variants (#56304)
 * Zone cleanup (#56332)
 * Lower spawn rate of campground_npc (#56322)
-* Add watermelon seeds (#56285)
 * [DinoMod] hadrosaurus (#56295)
 * Fix mechanic recipes typos (#56286)
