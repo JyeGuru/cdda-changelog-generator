@@ -1,3 +1,9 @@
+* Adds more rocks to mining results ([#56455](https://github.com/CleverRaven/Cataclysm-DDA/pull/56455))
+* Use GitHub REST API to determine files changed in clang-tidy workflow ([#56454](https://github.com/CleverRaven/Cataclysm-DDA/pull/56454))
+* Add Shoulder Holster ([#56452](https://github.com/CleverRaven/Cataclysm-DDA/pull/56452))
+* [Innawood] Minor caves update ([#56449](https://github.com/CleverRaven/Cataclysm-DDA/pull/56449))
+* mercenary attire ([#56448](https://github.com/CleverRaven/Cataclysm-DDA/pull/56448))
+* [Innawoods] Pickling and cheese ([#56443](https://github.com/CleverRaven/Cataclysm-DDA/pull/56443))
 
 ---
 
@@ -203,16 +209,11 @@
 * Crafting: add support for byproduct item groups ([#56317](https://github.com/CleverRaven/Cataclysm-DDA/pull/56317))
 * Three new animist spells, revolving around shadows and spirts ([#56305](https://github.com/CleverRaven/Cataclysm-DDA/pull/56305))
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
-* Steel Crafts ([#56300](https://github.com/CleverRaven/Cataclysm-DDA/pull/56300))
-* Generic mutagen can cause mutations again ([#56294](https://github.com/CleverRaven/Cataclysm-DDA/pull/56294))
-* Added freezer appliances/items/furniture ([#56293](https://github.com/CleverRaven/Cataclysm-DDA/pull/56293))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
 * pack → cigarette pack ([#56331](https://github.com/CleverRaven/Cataclysm-DDA/pull/56331))
-* Fix installation of certain vehicle part variants ([#56304](https://github.com/CleverRaven/Cataclysm-DDA/pull/56304))
 * Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))
 * Lower spawn rate of campground_npc ([#56322](https://github.com/CleverRaven/Cataclysm-DDA/pull/56322))
-* [DinoMod] hadrosaurus ([#56295](https://github.com/CleverRaven/Cataclysm-DDA/pull/56295))
