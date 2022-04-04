@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-04-0552 (0d17de3)
 * Fix 0 breathability of junk chainmail (#56420)
 
 Cataclysm-DDA experimental build 2022-04-04-0436 (3a2a5bc)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2022-03-27-0725 (0cc5c05)
 
 Cataclysm-DDA experimental build 2022-03-27-0612 (d099305)
 * Crafting: add support for byproduct item groups (#56317)
-
-Cataclysm-DDA experimental build 2022-03-27-0437 (f49e497)
 * Three new animist spells, revolving around shadows and spirts (#56305)
 * Routine i18n updates on 26 March 2022 (#56350)
 * Steel Crafts (#56300)

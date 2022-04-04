@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-04-0552 ([0d17de3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0552))
+
 * Fix 0 breathability of junk chainmail ([#56420](https://github.com/CleverRaven/Cataclysm-DDA/pull/56420))
 
 ---
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2022-03-27-0612 ([d099305](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0612))
 
 * Crafting: add support for byproduct item groups ([#56317](https://github.com/CleverRaven/Cataclysm-DDA/pull/56317))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-27-0437 ([f49e497](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0437))
-
 * Three new animist spells, revolving around shadows and spirts ([#56305](https://github.com/CleverRaven/Cataclysm-DDA/pull/56305))
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
 * Steel Crafts ([#56300](https://github.com/CleverRaven/Cataclysm-DDA/pull/56300))
