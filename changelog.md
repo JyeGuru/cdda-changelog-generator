@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-04-2334 ([f430da6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-2334))
+
+* Update one missing Elf-A instance ([#56459](https://github.com/CleverRaven/Cataclysm-DDA/pull/56459))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-04-1931 ([af04487](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1931))
 
 * Adds more rocks to mining results ([#56455](https://github.com/CleverRaven/Cataclysm-DDA/pull/56455))
@@ -190,11 +196,6 @@
 * Add multiple flags to reduce description string duplication ([#56361](https://github.com/CleverRaven/Cataclysm-DDA/pull/56361))
 * Unify t-shirt names ([#56360](https://github.com/CleverRaven/Cataclysm-DDA/pull/56360))
 * Add context to Lightning storm spell ([#56359](https://github.com/CleverRaven/Cataclysm-DDA/pull/56359))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-27-2241 ([b24a3b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-2241))
-
 * Show background traits on TRAITS window in character creation menu ([#56358](https://github.com/CleverRaven/Cataclysm-DDA/pull/56358))
 * Add more simple tools and containers ([#56357](https://github.com/CleverRaven/Cataclysm-DDA/pull/56357))
 * fueled UPSes → gas-powered UPSes ([#56354](https://github.com/CleverRaven/Cataclysm-DDA/pull/56354))
@@ -210,7 +211,6 @@
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
-* [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
 * pack → cigarette pack ([#56331](https://github.com/CleverRaven/Cataclysm-DDA/pull/56331))
