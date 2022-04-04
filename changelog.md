@@ -1,3 +1,15 @@
+* Upgrade Hub 01's subway station ([#56411](https://github.com/CleverRaven/Cataclysm-DDA/pull/56411))
+* Rename Dinoclysm label to DinoMod ([#56410](https://github.com/CleverRaven/Cataclysm-DDA/pull/56410))
+* Tacoma - Convert scavenger to json and update companion missions ([#56403](https://github.com/CleverRaven/Cataclysm-DDA/pull/56403))
+* Fix XL holster description ([#56394](https://github.com/CleverRaven/Cataclysm-DDA/pull/56394))
+* Expanding bronze: Weapons ([#56381](https://github.com/CleverRaven/Cataclysm-DDA/pull/56381))
+* slimespring → slime microbian ([#56380](https://github.com/CleverRaven/Cataclysm-DDA/pull/56380))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-04-0142 ([88799b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0142))
+
+* Move belts from WAIST layer to waist sublimb ([#56376](https://github.com/CleverRaven/Cataclysm-DDA/pull/56376))
 
 ---
 
@@ -45,7 +57,6 @@
 
 * Hub 01 intercom dialogue revamp ([#56308](https://github.com/CleverRaven/Cataclysm-DDA/pull/56308))
 * Allow basecamp planting from manual plowing as soon as you have a farm ([#56292](https://github.com/CleverRaven/Cataclysm-DDA/pull/56292))
-* feat: label prs based on summary line ([#56265](https://github.com/CleverRaven/Cataclysm-DDA/pull/56265))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 
@@ -177,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-03-27-0216 ([7152aef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0216))
 
 * Add some documentation for `ui_manager` ([#56281](https://github.com/CleverRaven/Cataclysm-DDA/pull/56281))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-27-0102 ([ede427e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0102))
-
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
 * Steel Crafts ([#56300](https://github.com/CleverRaven/Cataclysm-DDA/pull/56300))
 * Generic mutagen can cause mutations again ([#56294](https://github.com/CleverRaven/Cataclysm-DDA/pull/56294))
@@ -191,14 +197,12 @@
 * [Magiclysm] Fix Weak not cancelling some strength mutations ([#56288](https://github.com/CleverRaven/Cataclysm-DDA/pull/56288))
 * ft: more auto labeling ([#56282](https://github.com/CleverRaven/Cataclysm-DDA/pull/56282))
 * Remove post vehicle dismantling item dissorting ([#56276](https://github.com/CleverRaven/Cataclysm-DDA/pull/56276))
-* Fix monsters minor typos ([#56264](https://github.com/CleverRaven/Cataclysm-DDA/pull/56264))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * Restore missing flags ([#56275](https://github.com/CleverRaven/Cataclysm-DDA/pull/56275))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
-* Fix mutations minor typos ([#56266](https://github.com/CleverRaven/Cataclysm-DDA/pull/56266))
 * Consistently use ™ ([#56284](https://github.com/CleverRaven/Cataclysm-DDA/pull/56284))
 * pack → cigarette pack ([#56331](https://github.com/CleverRaven/Cataclysm-DDA/pull/56331))
 * Fix installation of certain vehicle part variants ([#56304](https://github.com/CleverRaven/Cataclysm-DDA/pull/56304))
@@ -206,6 +210,4 @@
 * Lower spawn rate of campground_npc ([#56322](https://github.com/CleverRaven/Cataclysm-DDA/pull/56322))
 * Add watermelon seeds ([#56285](https://github.com/CleverRaven/Cataclysm-DDA/pull/56285))
 * [DinoMod] hadrosaurus ([#56295](https://github.com/CleverRaven/Cataclysm-DDA/pull/56295))
-* Fix book plurals + minor typos ([#56268](https://github.com/CleverRaven/Cataclysm-DDA/pull/56268))
 * Fix mechanic recipes typos ([#56286](https://github.com/CleverRaven/Cataclysm-DDA/pull/56286))
-* Add Bōjutsu to mutation description ([#56273](https://github.com/CleverRaven/Cataclysm-DDA/pull/56273))
