@@ -1,3 +1,10 @@
+* Fix 0 breathability of junk chainmail ([#56420](https://github.com/CleverRaven/Cataclysm-DDA/pull/56420))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-04-0436 ([3a2a5bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0436))
+
+* Adds lamp oil powered oil press ([#56417](https://github.com/CleverRaven/Cataclysm-DDA/pull/56417))
 
 ---
 
@@ -189,7 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-03-27-0437 ([f49e497](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0437))
 
 * Three new animist spells, revolving around shadows and spirts ([#56305](https://github.com/CleverRaven/Cataclysm-DDA/pull/56305))
-* Add some documentation for `ui_manager` ([#56281](https://github.com/CleverRaven/Cataclysm-DDA/pull/56281))
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
 * Steel Crafts ([#56300](https://github.com/CleverRaven/Cataclysm-DDA/pull/56300))
 * Generic mutagen can cause mutations again ([#56294](https://github.com/CleverRaven/Cataclysm-DDA/pull/56294))
@@ -197,7 +203,6 @@
 * Fix problems with t-shirt variants in professions ([#56290](https://github.com/CleverRaven/Cataclysm-DDA/pull/56290))
 * Add wooden bucket and wooden well for obtaining water ([#56289](https://github.com/CleverRaven/Cataclysm-DDA/pull/56289))
 * [Magiclysm] Fix Weak not cancelling some strength mutations ([#56288](https://github.com/CleverRaven/Cataclysm-DDA/pull/56288))
-* ft: more auto labeling ([#56282](https://github.com/CleverRaven/Cataclysm-DDA/pull/56282))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
