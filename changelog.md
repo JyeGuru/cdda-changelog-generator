@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-04-1826 ([77cec43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1826))
+
 * Minor t-shirt variants fixes ([#56435](https://github.com/CleverRaven/Cataclysm-DDA/pull/56435))
 * Clarify smartphone cases ([#56434](https://github.com/CleverRaven/Cataclysm-DDA/pull/56434))
 * Expand armor definition for cestus ([#56429](https://github.com/CleverRaven/Cataclysm-DDA/pull/56429))
@@ -187,11 +192,6 @@
 
 * Add more simple tools and containers ([#56357](https://github.com/CleverRaven/Cataclysm-DDA/pull/56357))
 * fueled UPSes → gas-powered UPSes ([#56354](https://github.com/CleverRaven/Cataclysm-DDA/pull/56354))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-27-1951 ([2e60697](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-1951))
-
 * plantain → cooking banana ([#56346](https://github.com/CleverRaven/Cataclysm-DDA/pull/56346))
 * Balance Impact Knuckles ([#56338](https://github.com/CleverRaven/Cataclysm-DDA/pull/56338))
 * Prevent container item appearing twice in AIM ([#56335](https://github.com/CleverRaven/Cataclysm-DDA/pull/56335))
