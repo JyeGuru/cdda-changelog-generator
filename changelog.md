@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-04-0243 ([b66a9b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0243))
+
+* Remove NEW! recipe flag on current item when moving up or down ([#56416](https://github.com/CleverRaven/Cataclysm-DDA/pull/56416))
+* TropiCataclysm: tropical fishes ([#56413](https://github.com/CleverRaven/Cataclysm-DDA/pull/56413))
 * Upgrade Hub 01's subway station ([#56411](https://github.com/CleverRaven/Cataclysm-DDA/pull/56411))
 * Rename Dinoclysm label to DinoMod ([#56410](https://github.com/CleverRaven/Cataclysm-DDA/pull/56410))
 * Tacoma - Convert scavenger to json and update companion missions ([#56403](https://github.com/CleverRaven/Cataclysm-DDA/pull/56403))
@@ -182,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2022-03-27-0437 ([f49e497](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0437))
 
 * Three new animist spells, revolving around shadows and spirts ([#56305](https://github.com/CleverRaven/Cataclysm-DDA/pull/56305))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-27-0216 ([7152aef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0216))
-
 * Add some documentation for `ui_manager` ([#56281](https://github.com/CleverRaven/Cataclysm-DDA/pull/56281))
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
 * Steel Crafts ([#56300](https://github.com/CleverRaven/Cataclysm-DDA/pull/56300))
@@ -196,11 +198,9 @@
 * Add wooden bucket and wooden well for obtaining water ([#56289](https://github.com/CleverRaven/Cataclysm-DDA/pull/56289))
 * [Magiclysm] Fix Weak not cancelling some strength mutations ([#56288](https://github.com/CleverRaven/Cataclysm-DDA/pull/56288))
 * ft: more auto labeling ([#56282](https://github.com/CleverRaven/Cataclysm-DDA/pull/56282))
-* Remove post vehicle dismantling item dissorting ([#56276](https://github.com/CleverRaven/Cataclysm-DDA/pull/56276))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
-* Restore missing flags ([#56275](https://github.com/CleverRaven/Cataclysm-DDA/pull/56275))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
 * Consistently use ™ ([#56284](https://github.com/CleverRaven/Cataclysm-DDA/pull/56284))
