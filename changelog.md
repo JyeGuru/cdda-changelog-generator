@@ -207,7 +207,6 @@
 * obsolete Graphical Overmap mods ([#56347](https://github.com/CleverRaven/Cataclysm-DDA/pull/56347))
 * autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
 * Crafting: add support for byproduct item groups ([#56317](https://github.com/CleverRaven/Cataclysm-DDA/pull/56317))
-* Three new animist spells, revolving around shadows and spirts ([#56305](https://github.com/CleverRaven/Cataclysm-DDA/pull/56305))
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
 * Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
