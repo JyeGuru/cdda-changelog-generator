@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-04-1931 ([af04487](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1931))
+
 * Adds more rocks to mining results ([#56455](https://github.com/CleverRaven/Cataclysm-DDA/pull/56455))
 * Use GitHub REST API to determine files changed in clang-tidy workflow ([#56454](https://github.com/CleverRaven/Cataclysm-DDA/pull/56454))
 * Add Shoulder Holster ([#56452](https://github.com/CleverRaven/Cataclysm-DDA/pull/56452))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-03-27-2241 ([b24a3b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-2241))
 
 * Show background traits on TRAITS window in character creation menu ([#56358](https://github.com/CleverRaven/Cataclysm-DDA/pull/56358))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-27-2126 ([992dbdc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-2126))
-
 * Add more simple tools and containers ([#56357](https://github.com/CleverRaven/Cataclysm-DDA/pull/56357))
 * fueled UPSes → gas-powered UPSes ([#56354](https://github.com/CleverRaven/Cataclysm-DDA/pull/56354))
 * plantain → cooking banana ([#56346](https://github.com/CleverRaven/Cataclysm-DDA/pull/56346))
