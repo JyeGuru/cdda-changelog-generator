@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-04-0719 ([df6d5f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0719))
+
+* Add missing double space to NPC_ROBOFAC_INTERCOM ([#56548](https://github.com/CleverRaven/Cataclysm-DDA/pull/56548))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-04-0552 ([0d17de3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0552))
 
 * Fix 0 breathability of junk chainmail ([#56420](https://github.com/CleverRaven/Cataclysm-DDA/pull/56420))
@@ -189,11 +195,6 @@
 * [Innawood] Chemistry, electricity, and more! ([#56348](https://github.com/CleverRaven/Cataclysm-DDA/pull/56348))
 * obsolete Graphical Overmap mods ([#56347](https://github.com/CleverRaven/Cataclysm-DDA/pull/56347))
 * autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-27-0612 ([d099305](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-27-0612))
-
 * Crafting: add support for byproduct item groups ([#56317](https://github.com/CleverRaven/Cataclysm-DDA/pull/56317))
 * Three new animist spells, revolving around shadows and spirts ([#56305](https://github.com/CleverRaven/Cataclysm-DDA/pull/56305))
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
@@ -208,7 +209,6 @@
 * [Innawoods] Bronze tools ([#56306](https://github.com/CleverRaven/Cataclysm-DDA/pull/56306))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
-* Consistently use ™ ([#56284](https://github.com/CleverRaven/Cataclysm-DDA/pull/56284))
 * pack → cigarette pack ([#56331](https://github.com/CleverRaven/Cataclysm-DDA/pull/56331))
 * Fix installation of certain vehicle part variants ([#56304](https://github.com/CleverRaven/Cataclysm-DDA/pull/56304))
 * Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))

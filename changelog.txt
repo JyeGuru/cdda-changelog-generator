@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-04-0719 (df6d5f0)
+* Add missing double space to NPC_ROBOFAC_INTERCOM (#56548)
+
 Cataclysm-DDA experimental build 2022-04-04-0552 (0d17de3)
 * Fix 0 breathability of junk chainmail (#56420)
 
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2022-03-27-0725 (0cc5c05)
 * [Innawood] Chemistry, electricity, and more! (#56348)
 * obsolete Graphical Overmap mods (#56347)
 * autodoc → Autodoc (#56355)
-
-Cataclysm-DDA experimental build 2022-03-27-0612 (d099305)
 * Crafting: add support for byproduct item groups (#56317)
 * Three new animist spells, revolving around shadows and spirts (#56305)
 * Routine i18n updates on 26 March 2022 (#56350)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2022-03-27-0612 (d099305)
 * [Innawoods] Bronze tools (#56306)
 * iron and steel horse armor (#56327)
 * Fix touring suit warmth (#56330)
-* Consistently use ™ (#56284)
 * pack → cigarette pack (#56331)
 * Fix installation of certain vehicle part variants (#56304)
 * Zone cleanup (#56332)
