@@ -208,6 +208,5 @@
 * autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
-* Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
 * pack → cigarette pack ([#56331](https://github.com/CleverRaven/Cataclysm-DDA/pull/56331))
 * Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))
