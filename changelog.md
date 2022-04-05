@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-05-1942 ([77d4a83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-1942))
+
+* Isolated artisans writing touchup ([#56438](https://github.com/CleverRaven/Cataclysm-DDA/pull/56438))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-05-0553 ([aba61a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-0553))
 
 * MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-03-29-1547 ([0b63322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-29-1547))
 
 * Prevent possible nullptr crash ([#56405](https://github.com/CleverRaven/Cataclysm-DDA/pull/56405))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-29-0554 ([605cd53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-29-0554))
-
 * Unify Kevlar and Nomex ([#56414](https://github.com/CleverRaven/Cataclysm-DDA/pull/56414))
 * Moulded -> Molded ([#56419](https://github.com/CleverRaven/Cataclysm-DDA/pull/56419))
 * Extract variants for all items, not just guns and magazines ([#56366](https://github.com/CleverRaven/Cataclysm-DDA/pull/56366))
@@ -207,7 +208,6 @@
 * autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
-* iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
 * pack → cigarette pack ([#56331](https://github.com/CleverRaven/Cataclysm-DDA/pull/56331))
 * Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))
