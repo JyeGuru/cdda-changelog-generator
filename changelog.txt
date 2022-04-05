@@ -1,3 +1,4 @@
+* Don't treat movement noises as provocative (#56616)
 
 Cataclysm-DDA experimental build 2022-04-05-1942 (77d4a83)
 * Isolated artisans writing touchup (#56438)
@@ -133,5 +134,4 @@ Cataclysm-DDA experimental build 2022-03-29-1547 (0b63322)
 * autodoc → Autodoc (#56355)
 * Routine i18n updates on 26 March 2022 (#56350)
 * Unify description of the new zones (#56342)
-* pack → cigarette pack (#56331)
 * Zone cleanup (#56332)
