@@ -1,3 +1,9 @@
+* UI fixes for rigid armor ([#56476](https://github.com/CleverRaven/Cataclysm-DDA/pull/56476))
+* Added non-zero price_postapoc to fasteners.json ([#56475](https://github.com/CleverRaven/Cataclysm-DDA/pull/56475))
+* Fix Aftershock typos and texts ([#56470](https://github.com/CleverRaven/Cataclysm-DDA/pull/56470))
+* Fix extension_cable name ([#56467](https://github.com/CleverRaven/Cataclysm-DDA/pull/56467))
+* Add missing serial commas to WETCODEs definitions ([#56466](https://github.com/CleverRaven/Cataclysm-DDA/pull/56466))
+* Mark shout quotes to translation ([#56464](https://github.com/CleverRaven/Cataclysm-DDA/pull/56464))
 
 ---
 
@@ -113,12 +119,6 @@
 #### Cataclysm-DDA experimental build 2022-04-02-2308 ([15c73c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-02-2308))
 
 * [CR] Scrap metal rework ([#56339](https://github.com/CleverRaven/Cataclysm-DDA/pull/56339))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-02-2054 ([2e7d272](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-02-2054))
-
-* Hub 01 intercom dialogue revamp ([#56308](https://github.com/CleverRaven/Cataclysm-DDA/pull/56308))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 
@@ -163,7 +163,6 @@
 * hp → HP ([#56374](https://github.com/CleverRaven/Cataclysm-DDA/pull/56374))
 * 12v → 12V ([#56386](https://github.com/CleverRaven/Cataclysm-DDA/pull/56386))
 * Fix extras showing as unknown when using ASCIITiles Overmap ([#56433](https://github.com/CleverRaven/Cataclysm-DDA/pull/56433))
-* [DinoMod] stenonychosaurus and egg cooking rework ([#56319](https://github.com/CleverRaven/Cataclysm-DDA/pull/56319))
 * [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
 * Delete outdated spell check comment when new commits are pushed in a pull request ([#56453](https://github.com/CleverRaven/Cataclysm-DDA/pull/56453))
 
@@ -203,16 +202,12 @@
 * Balance Impact Knuckles ([#56338](https://github.com/CleverRaven/Cataclysm-DDA/pull/56338))
 * Prevent container item appearing twice in AIM ([#56335](https://github.com/CleverRaven/Cataclysm-DDA/pull/56335))
 * Extend requirement groups ([#56323](https://github.com/CleverRaven/Cataclysm-DDA/pull/56323))
-* chore: typo hunting ft. codespell ([#56320](https://github.com/CleverRaven/Cataclysm-DDA/pull/56320))
 * [Innawood] Chemistry, electricity, and more! ([#56348](https://github.com/CleverRaven/Cataclysm-DDA/pull/56348))
 * obsolete Graphical Overmap mods ([#56347](https://github.com/CleverRaven/Cataclysm-DDA/pull/56347))
 * autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
-* Crafting: add support for byproduct item groups ([#56317](https://github.com/CleverRaven/Cataclysm-DDA/pull/56317))
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
-* Fix wind turbine accessibility ([#56309](https://github.com/CleverRaven/Cataclysm-DDA/pull/56309))
 * iron and steel horse armor ([#56327](https://github.com/CleverRaven/Cataclysm-DDA/pull/56327))
 * Fix touring suit warmth ([#56330](https://github.com/CleverRaven/Cataclysm-DDA/pull/56330))
 * pack → cigarette pack ([#56331](https://github.com/CleverRaven/Cataclysm-DDA/pull/56331))
 * Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))
-* Lower spawn rate of campground_npc ([#56322](https://github.com/CleverRaven/Cataclysm-DDA/pull/56322))
