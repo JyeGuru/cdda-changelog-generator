@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-05-0553 (aba61a8)
+* MOLLE attach no longer always refers to vests (#56594)
+
 Cataclysm-DDA experimental build 2022-04-05-0041 (4cbd44f)
 * UI fixes for rigid armor (#56476)
 * Added non-zero price_postapoc to fasteners.json (#56475)
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2022-03-29-1547 (0b63322)
 
 Cataclysm-DDA experimental build 2022-03-29-0554 (605cd53)
 * Unify Kevlar and Nomex (#56414)
-
-Cataclysm-DDA experimental build 2022-03-28-0537 (e0dc297)
 * Moulded -> Molded (#56419)
 * Extract variants for all items, not just guns and magazines (#56366)
 * Add hammocks (#56364)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2022-03-28-0537 (e0dc297)
 * plantain → cooking banana (#56346)
 * Balance Impact Knuckles (#56338)
 * Prevent container item appearing twice in AIM (#56335)
-* Extend requirement groups (#56323)
 * [Innawood] Chemistry, electricity, and more! (#56348)
 * obsolete Graphical Overmap mods (#56347)
 * autodoc → Autodoc (#56355)

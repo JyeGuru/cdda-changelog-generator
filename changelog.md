@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-05-0553 ([aba61a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-0553))
+
+* MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-05-0041 ([4cbd44f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-0041))
 
 * UI fixes for rigid armor ([#56476](https://github.com/CleverRaven/Cataclysm-DDA/pull/56476))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-03-29-0554 ([605cd53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-29-0554))
 
 * Unify Kevlar and Nomex ([#56414](https://github.com/CleverRaven/Cataclysm-DDA/pull/56414))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-28-0537 ([e0dc297](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-28-0537))
-
 * Moulded -> Molded ([#56419](https://github.com/CleverRaven/Cataclysm-DDA/pull/56419))
 * Extract variants for all items, not just guns and magazines ([#56366](https://github.com/CleverRaven/Cataclysm-DDA/pull/56366))
 * Add hammocks ([#56364](https://github.com/CleverRaven/Cataclysm-DDA/pull/56364))
@@ -201,7 +202,6 @@
 * plantain → cooking banana ([#56346](https://github.com/CleverRaven/Cataclysm-DDA/pull/56346))
 * Balance Impact Knuckles ([#56338](https://github.com/CleverRaven/Cataclysm-DDA/pull/56338))
 * Prevent container item appearing twice in AIM ([#56335](https://github.com/CleverRaven/Cataclysm-DDA/pull/56335))
-* Extend requirement groups ([#56323](https://github.com/CleverRaven/Cataclysm-DDA/pull/56323))
 * [Innawood] Chemistry, electricity, and more! ([#56348](https://github.com/CleverRaven/Cataclysm-DDA/pull/56348))
 * obsolete Graphical Overmap mods ([#56347](https://github.com/CleverRaven/Cataclysm-DDA/pull/56347))
 * autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
