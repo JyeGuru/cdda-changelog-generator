@@ -1,3 +1,6 @@
+* Dumpsite and homeless camp mutables ([#56482](https://github.com/CleverRaven/Cataclysm-DDA/pull/56482))
+* Allow using lactose-free milk in recipes ([#56393](https://github.com/CleverRaven/Cataclysm-DDA/pull/56393))
+* Adds repairs_like for cataphract armor and allows Thessalonian bronze to be repaired like normal bronze ([#56372](https://github.com/CleverRaven/Cataclysm-DDA/pull/56372))
 
 ---
 
@@ -202,11 +205,8 @@
 * Add more simple tools and containers ([#56357](https://github.com/CleverRaven/Cataclysm-DDA/pull/56357))
 * fueled UPSes → gas-powered UPSes ([#56354](https://github.com/CleverRaven/Cataclysm-DDA/pull/56354))
 * plantain → cooking banana ([#56346](https://github.com/CleverRaven/Cataclysm-DDA/pull/56346))
-* Balance Impact Knuckles ([#56338](https://github.com/CleverRaven/Cataclysm-DDA/pull/56338))
-* Prevent container item appearing twice in AIM ([#56335](https://github.com/CleverRaven/Cataclysm-DDA/pull/56335))
 * [Innawood] Chemistry, electricity, and more! ([#56348](https://github.com/CleverRaven/Cataclysm-DDA/pull/56348))
 * obsolete Graphical Overmap mods ([#56347](https://github.com/CleverRaven/Cataclysm-DDA/pull/56347))
 * autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
 * Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
 * Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
-* Zone cleanup ([#56332](https://github.com/CleverRaven/Cataclysm-DDA/pull/56332))
