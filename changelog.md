@@ -1,3 +1,10 @@
+* docs: TODOs report in readme ([#56535](https://github.com/CleverRaven/Cataclysm-DDA/pull/56535))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-06-0505 ([6183c4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0505))
+
+* Add SHEATH_SPEAR to spear_rebar ([#56534](https://github.com/CleverRaven/Cataclysm-DDA/pull/56534))
 
 ---
 
@@ -174,8 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-04-03-0015 ([d0221e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-0015))
 
 * [DinoMod] appalachiosaurus ([#56371](https://github.com/CleverRaven/Cataclysm-DDA/pull/56371))
-* Allow using a wooden panel to make paper ([#56370](https://github.com/CleverRaven/Cataclysm-DDA/pull/56370))
-* Fix wooden javelin recipe ([#56369](https://github.com/CleverRaven/Cataclysm-DDA/pull/56369))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 

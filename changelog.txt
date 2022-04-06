@@ -1,3 +1,7 @@
+* docs: TODOs report in readme (#56535)
+
+Cataclysm-DDA experimental build 2022-04-06-0505 (6183c4d)
+* Add SHEATH_SPEAR to spear_rebar (#56534)
 
 Cataclysm-DDA experimental build 2022-04-06-0254 (d02e825)
 * Fixes for clang issue that just got merged (#56599)
@@ -105,8 +109,6 @@ Cataclysm-DDA experimental build 2022-04-03-0355 (add752e)
 
 Cataclysm-DDA experimental build 2022-04-03-0015 (d0221e2)
 * [DinoMod] appalachiosaurus (#56371)
-* Allow using a wooden panel to make paper (#56370)
-* Fix wooden javelin recipe (#56369)
 * Update Tilesets 2022-04-03 (#56531)
 * JSON formatter: show filename on empty input (#56524)
 
