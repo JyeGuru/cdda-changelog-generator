@@ -1,3 +1,21 @@
+* Use meese as the correct plural form of moose ([#56508](https://github.com/CleverRaven/Cataclysm-DDA/pull/56508))
+* Add option to build the clang-tidy checks as an executable with CMake ([#56506](https://github.com/CleverRaven/Cataclysm-DDA/pull/56506))
+* More triagebot labels ([#56505](https://github.com/CleverRaven/Cataclysm-DDA/pull/56505))
+* Allow Fur sleeping bag to use wool staple ([#56504](https://github.com/CleverRaven/Cataclysm-DDA/pull/56504))
+* Fix broken links in markdown docs ([#56502](https://github.com/CleverRaven/Cataclysm-DDA/pull/56502))
+* Mark missing basecamp strings for translation ([#56497](https://github.com/CleverRaven/Cataclysm-DDA/pull/56497))
+* Remove welding tool from clothing recipes ([#56496](https://github.com/CleverRaven/Cataclysm-DDA/pull/56496))
+* Fix exclude functionality of compose.py ([#56493](https://github.com/CleverRaven/Cataclysm-DDA/pull/56493))
+* [Innawood] Add bronze sickle ([#56492](https://github.com/CleverRaven/Cataclysm-DDA/pull/56492))
+* Balance "cut_grass"/"remove_grass" constructions and grass cutting tools ([#56491](https://github.com/CleverRaven/Cataclysm-DDA/pull/56491))
+* Subsonic 57 ammo ([#56488](https://github.com/CleverRaven/Cataclysm-DDA/pull/56488))
+* Add conversion to freezer for itemized fridge ([#56486](https://github.com/CleverRaven/Cataclysm-DDA/pull/56486))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-06-0046 ([a006d14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0046))
+
+* Fix unload zones when unload target is on the zone's edge ([#56483](https://github.com/CleverRaven/Cataclysm-DDA/pull/56483))
 
 ---
 
@@ -144,12 +162,6 @@
 * Fix wooden javelin recipe ([#56369](https://github.com/CleverRaven/Cataclysm-DDA/pull/56369))
 * Fixes for pockets and sub-holsters ([#56367](https://github.com/CleverRaven/Cataclysm-DDA/pull/56367))
 * Jay no longer gives Hub mission ([#56365](https://github.com/CleverRaven/Cataclysm-DDA/pull/56365))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-02-2308 ([15c73c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-02-2308))
-
-* [CR] Scrap metal rework ([#56339](https://github.com/CleverRaven/Cataclysm-DDA/pull/56339))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 
@@ -176,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-03-31-1424 ([ed4559e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-31-1424))
 
 * Obsolete CRIT ([#56404](https://github.com/CleverRaven/Cataclysm-DDA/pull/56404))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-30-0513 ([3d0002b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-30-0513))
-
 * Update robotfindskitten links ([#56465](https://github.com/CleverRaven/Cataclysm-DDA/pull/56465))
 * Clarify two spaces rule for translations ([#56408](https://github.com/CleverRaven/Cataclysm-DDA/pull/56408))
 * Minor Mk spelling adjustements ([#56412](https://github.com/CleverRaven/Cataclysm-DDA/pull/56412))
@@ -203,15 +210,3 @@
 * Add hammocks ([#56364](https://github.com/CleverRaven/Cataclysm-DDA/pull/56364))
 * added vehicle item for long cable ([#56363](https://github.com/CleverRaven/Cataclysm-DDA/pull/56363))
 * Fix keybindings in Sort Armor's F1 help menu ([#56362](https://github.com/CleverRaven/Cataclysm-DDA/pull/56362))
-* Add multiple flags to reduce description string duplication ([#56361](https://github.com/CleverRaven/Cataclysm-DDA/pull/56361))
-* Unify t-shirt names ([#56360](https://github.com/CleverRaven/Cataclysm-DDA/pull/56360))
-* Add context to Lightning storm spell ([#56359](https://github.com/CleverRaven/Cataclysm-DDA/pull/56359))
-* Show background traits on TRAITS window in character creation menu ([#56358](https://github.com/CleverRaven/Cataclysm-DDA/pull/56358))
-* Add more simple tools and containers ([#56357](https://github.com/CleverRaven/Cataclysm-DDA/pull/56357))
-* fueled UPSes → gas-powered UPSes ([#56354](https://github.com/CleverRaven/Cataclysm-DDA/pull/56354))
-* plantain → cooking banana ([#56346](https://github.com/CleverRaven/Cataclysm-DDA/pull/56346))
-* [Innawood] Chemistry, electricity, and more! ([#56348](https://github.com/CleverRaven/Cataclysm-DDA/pull/56348))
-* obsolete Graphical Overmap mods ([#56347](https://github.com/CleverRaven/Cataclysm-DDA/pull/56347))
-* autodoc → Autodoc ([#56355](https://github.com/CleverRaven/Cataclysm-DDA/pull/56355))
-* Routine i18n updates on 26 March 2022 ([#56350](https://github.com/CleverRaven/Cataclysm-DDA/pull/56350))
-* Unify description of the new zones ([#56342](https://github.com/CleverRaven/Cataclysm-DDA/pull/56342))
