@@ -1,3 +1,8 @@
+* Proficiencies UI ([#56549](https://github.com/CleverRaven/Cataclysm-DDA/pull/56549))
+* Add keybind for debug_hour_timer ([#56547](https://github.com/CleverRaven/Cataclysm-DDA/pull/56547))
+* Add a comma after supermarket ([#56539](https://github.com/CleverRaven/Cataclysm-DDA/pull/56539))
+* Fix Mr. Lapin becoming Smokes ([#56538](https://github.com/CleverRaven/Cataclysm-DDA/pull/56538))
+* ci: don't apply test labels if workflow was skipped ([#56536](https://github.com/CleverRaven/Cataclysm-DDA/pull/56536))
 * docs: TODOs report in readme ([#56535](https://github.com/CleverRaven/Cataclysm-DDA/pull/56535))
 
 ---
@@ -46,7 +51,6 @@
 
 * Dumpsite and homeless camp mutables ([#56482](https://github.com/CleverRaven/Cataclysm-DDA/pull/56482))
 * Allow using lactose-free milk in recipes ([#56393](https://github.com/CleverRaven/Cataclysm-DDA/pull/56393))
-* Adds repairs_like for cataphract armor and allows Thessalonian bronze to be repaired like normal bronze ([#56372](https://github.com/CleverRaven/Cataclysm-DDA/pull/56372))
 
 ---
 
@@ -175,12 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-04-03-0355 ([add752e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-0355))
 
 * Fix Rubik's anesthetic quest ([#56546](https://github.com/CleverRaven/Cataclysm-DDA/pull/56546))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-03-0015 ([d0221e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-0015))
-
-* [DinoMod] appalachiosaurus ([#56371](https://github.com/CleverRaven/Cataclysm-DDA/pull/56371))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 
@@ -206,8 +204,6 @@
 * Consistent Elf-A spelling ([#56395](https://github.com/CleverRaven/Cataclysm-DDA/pull/56395))
 * Fix few Aftershock typos ([#56387](https://github.com/CleverRaven/Cataclysm-DDA/pull/56387))
 * blody mary → Bloody Mary ([#56377](https://github.com/CleverRaven/Cataclysm-DDA/pull/56377))
-* Fix missing spell case and description dots ([#56373](https://github.com/CleverRaven/Cataclysm-DDA/pull/56373))
-* hp → HP ([#56374](https://github.com/CleverRaven/Cataclysm-DDA/pull/56374))
 * 12v → 12V ([#56386](https://github.com/CleverRaven/Cataclysm-DDA/pull/56386))
 * Fix extras showing as unknown when using ASCIITiles Overmap ([#56433](https://github.com/CleverRaven/Cataclysm-DDA/pull/56433))
 * [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
