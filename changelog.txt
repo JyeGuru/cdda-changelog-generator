@@ -1,3 +1,8 @@
+* Update Innawood scenario names (#56589)
+* Fix error for non-default color settings (#56610)
+
+Cataclysm-DDA experimental build 2022-04-06-1556 (8c92c6d)
+* Add missing parameter to debugmsg call (#56625)
 
 Cataclysm-DDA experimental build 2022-04-06-0711 (ba9af2e)
 * Add leather cordage (#56543)
@@ -111,7 +116,6 @@ Cataclysm-DDA experimental build 2022-04-04-0436 (3a2a5bc)
 
 Cataclysm-DDA experimental build 2022-04-04-0243 (b66a9b5)
 * Remove NEW! recipe flag on current item when moving up or down (#56416)
-* TropiCataclysm: tropical fishes (#56413)
 
 Cataclysm-DDA experimental build 2022-04-03-2051 (ba5e863)
 * Add directions signpost to exodii safehouses and some pods (#56540)
@@ -127,10 +131,8 @@ Cataclysm-DDA experimental build 2022-04-03-0355 (add752e)
 * tjking293-add-karambit (#56515)
 * Fingerless gloves actually fingerless (#56495)
 * Update robotfindskitten links (#56465)
-* Minor Mk spelling adjustements (#56412)
 * Mark dialog quotes to translation (#56441)
 * Fix extras showing as unknown when using ASCIITiles Overmap (#56433)
 * [DinoMod] new scenarios (#56451)
 * Delete outdated spell check comment when new commits are pushed in a pull request (#56453)
-* Unify Kevlar and Nomex (#56414)
 * Moulded -> Molded (#56419)

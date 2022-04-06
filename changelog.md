@@ -1,3 +1,11 @@
+* Update Innawood scenario names ([#56589](https://github.com/CleverRaven/Cataclysm-DDA/pull/56589))
+* Fix error for non-default color settings ([#56610](https://github.com/CleverRaven/Cataclysm-DDA/pull/56610))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-06-1556 ([8c92c6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-1556))
+
+* Add missing parameter to debugmsg call ([#56625](https://github.com/CleverRaven/Cataclysm-DDA/pull/56625))
 
 ---
 
@@ -171,7 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-04-04-0243 ([b66a9b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0243))
 
 * Remove NEW! recipe flag on current item when moving up or down ([#56416](https://github.com/CleverRaven/Cataclysm-DDA/pull/56416))
-* TropiCataclysm: tropical fishes ([#56413](https://github.com/CleverRaven/Cataclysm-DDA/pull/56413))
 
 ---
 
@@ -196,10 +203,8 @@
 * tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
 * Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
 * Update robotfindskitten links ([#56465](https://github.com/CleverRaven/Cataclysm-DDA/pull/56465))
-* Minor Mk spelling adjustements ([#56412](https://github.com/CleverRaven/Cataclysm-DDA/pull/56412))
 * Mark dialog quotes to translation ([#56441](https://github.com/CleverRaven/Cataclysm-DDA/pull/56441))
 * Fix extras showing as unknown when using ASCIITiles Overmap ([#56433](https://github.com/CleverRaven/Cataclysm-DDA/pull/56433))
 * [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
 * Delete outdated spell check comment when new commits are pushed in a pull request ([#56453](https://github.com/CleverRaven/Cataclysm-DDA/pull/56453))
-* Unify Kevlar and Nomex ([#56414](https://github.com/CleverRaven/Cataclysm-DDA/pull/56414))
 * Moulded -> Molded ([#56419](https://github.com/CleverRaven/Cataclysm-DDA/pull/56419))
