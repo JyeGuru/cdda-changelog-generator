@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-06-0605 ([fdbe06d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0605))
+
+* Only use empty worlds when selecting "Play Now" ([#56591](https://github.com/CleverRaven/Cataclysm-DDA/pull/56591))
 * MOLLE rigging → webbing ([#56588](https://github.com/CleverRaven/Cataclysm-DDA/pull/56588))
 * Fix magiclysm belt coverages ([#56587](https://github.com/CleverRaven/Cataclysm-DDA/pull/56587))
 * More rigid fixes ([#56581](https://github.com/CleverRaven/Cataclysm-DDA/pull/56581))
@@ -157,7 +163,6 @@
 * TropiCataclysm: tropical fishes ([#56413](https://github.com/CleverRaven/Cataclysm-DDA/pull/56413))
 * Upgrade Hub 01's subway station ([#56411](https://github.com/CleverRaven/Cataclysm-DDA/pull/56411))
 * Rename Dinoclysm label to DinoMod ([#56410](https://github.com/CleverRaven/Cataclysm-DDA/pull/56410))
-* Tacoma - Convert scavenger to json and update companion missions ([#56403](https://github.com/CleverRaven/Cataclysm-DDA/pull/56403))
 
 ---
 
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2022-04-02-0518 ([e5f7ce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-02-0518))
 
 * Routine i18n updates on 02 April 2022 ([#56522](https://github.com/CleverRaven/Cataclysm-DDA/pull/56522))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-01-2134 ([f0715f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-01-2134))
-
 * tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
 * Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
 * Obsolete CRIT ([#56404](https://github.com/CleverRaven/Cataclysm-DDA/pull/56404))
