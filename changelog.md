@@ -1,3 +1,19 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-06-0254 ([d02e825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0254))
+
+* Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-06-0150 ([cc4cd99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0150))
+
+* [CrazyCata] Flu shot fix, armory quest realism, labels the penultimate key ([#56521](https://github.com/CleverRaven/Cataclysm-DDA/pull/56521))
+* More repairs_like ([#56519](https://github.com/CleverRaven/Cataclysm-DDA/pull/56519))
+* tjking293-add-karambit-recipe-and-spawn-locations ([#56518](https://github.com/CleverRaven/Cataclysm-DDA/pull/56518))
+* Vehicle falls forever on skylight ([#56514](https://github.com/CleverRaven/Cataclysm-DDA/pull/56514))
+* Check more static translation calls and update message ([#56509](https://github.com/CleverRaven/Cataclysm-DDA/pull/56509))
 * Use meese as the correct plural form of moose ([#56508](https://github.com/CleverRaven/Cataclysm-DDA/pull/56508))
 * Add option to build the clang-tidy checks as an executable with CMake ([#56506](https://github.com/CleverRaven/Cataclysm-DDA/pull/56506))
 * More triagebot labels ([#56505](https://github.com/CleverRaven/Cataclysm-DDA/pull/56505))
@@ -160,8 +176,6 @@
 * [DinoMod] appalachiosaurus ([#56371](https://github.com/CleverRaven/Cataclysm-DDA/pull/56371))
 * Allow using a wooden panel to make paper ([#56370](https://github.com/CleverRaven/Cataclysm-DDA/pull/56370))
 * Fix wooden javelin recipe ([#56369](https://github.com/CleverRaven/Cataclysm-DDA/pull/56369))
-* Fixes for pockets and sub-holsters ([#56367](https://github.com/CleverRaven/Cataclysm-DDA/pull/56367))
-* Jay no longer gives Hub mission ([#56365](https://github.com/CleverRaven/Cataclysm-DDA/pull/56365))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 
@@ -176,17 +190,7 @@
 #### Cataclysm-DDA experimental build 2022-04-01-2134 ([f0715f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-01-2134))
 
 * tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-01-0639 ([1ce0619](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-01-0639))
-
 * Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
-
----
-
-#### Cataclysm-DDA experimental build 2022-03-31-1424 ([ed4559e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-03-31-1424))
-
 * Obsolete CRIT ([#56404](https://github.com/CleverRaven/Cataclysm-DDA/pull/56404))
 * Update robotfindskitten links ([#56465](https://github.com/CleverRaven/Cataclysm-DDA/pull/56465))
 * Clarify two spaces rule for translations ([#56408](https://github.com/CleverRaven/Cataclysm-DDA/pull/56408))
@@ -206,7 +210,3 @@
 * Prevent possible nullptr crash ([#56405](https://github.com/CleverRaven/Cataclysm-DDA/pull/56405))
 * Unify Kevlar and Nomex ([#56414](https://github.com/CleverRaven/Cataclysm-DDA/pull/56414))
 * Moulded -> Molded ([#56419](https://github.com/CleverRaven/Cataclysm-DDA/pull/56419))
-* Extract variants for all items, not just guns and magazines ([#56366](https://github.com/CleverRaven/Cataclysm-DDA/pull/56366))
-* Add hammocks ([#56364](https://github.com/CleverRaven/Cataclysm-DDA/pull/56364))
-* added vehicle item for long cable ([#56363](https://github.com/CleverRaven/Cataclysm-DDA/pull/56363))
-* Fix keybindings in Sort Armor's F1 help menu ([#56362](https://github.com/CleverRaven/Cataclysm-DDA/pull/56362))
