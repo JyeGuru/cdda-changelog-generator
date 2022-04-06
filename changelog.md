@@ -1,3 +1,9 @@
+* Add leather cordage ([#56543](https://github.com/CleverRaven/Cataclysm-DDA/pull/56543))
+* Fix octopus monster names case ([#56545](https://github.com/CleverRaven/Cataclysm-DDA/pull/56545))
+* heavy duty → heavy-duty ([#56619](https://github.com/CleverRaven/Cataclysm-DDA/pull/56619))
+* Adjust `roof_6x6_survivor` chunk coordinates in `music_venue_1_roof` mapgen ([#56612](https://github.com/CleverRaven/Cataclysm-DDA/pull/56612))
+* Monster factions: extend / delete / copy-from ([#56596](https://github.com/CleverRaven/Cataclysm-DDA/pull/56596))
+* Add phones with cases to zombie death drops ([#56592](https://github.com/CleverRaven/Cataclysm-DDA/pull/56592))
 
 ---
 
@@ -161,8 +167,6 @@
 
 * Remove NEW! recipe flag on current item when moving up or down ([#56416](https://github.com/CleverRaven/Cataclysm-DDA/pull/56416))
 * TropiCataclysm: tropical fishes ([#56413](https://github.com/CleverRaven/Cataclysm-DDA/pull/56413))
-* Upgrade Hub 01's subway station ([#56411](https://github.com/CleverRaven/Cataclysm-DDA/pull/56411))
-* Rename Dinoclysm label to DinoMod ([#56410](https://github.com/CleverRaven/Cataclysm-DDA/pull/56410))
 
 ---
 
@@ -191,15 +195,11 @@
 * Routine i18n updates on 02 April 2022 ([#56522](https://github.com/CleverRaven/Cataclysm-DDA/pull/56522))
 * tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
 * Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
-* Obsolete CRIT ([#56404](https://github.com/CleverRaven/Cataclysm-DDA/pull/56404))
 * Update robotfindskitten links ([#56465](https://github.com/CleverRaven/Cataclysm-DDA/pull/56465))
-* Clarify two spaces rule for translations ([#56408](https://github.com/CleverRaven/Cataclysm-DDA/pull/56408))
 * Minor Mk spelling adjustements ([#56412](https://github.com/CleverRaven/Cataclysm-DDA/pull/56412))
-* CRIT → C.R.I.T ([#56406](https://github.com/CleverRaven/Cataclysm-DDA/pull/56406))
 * Mark dialog quotes to translation ([#56441](https://github.com/CleverRaven/Cataclysm-DDA/pull/56441))
 * Fix extras showing as unknown when using ASCIITiles Overmap ([#56433](https://github.com/CleverRaven/Cataclysm-DDA/pull/56433))
 * [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
 * Delete outdated spell check comment when new commits are pushed in a pull request ([#56453](https://github.com/CleverRaven/Cataclysm-DDA/pull/56453))
-* Prevent possible nullptr crash ([#56405](https://github.com/CleverRaven/Cataclysm-DDA/pull/56405))
 * Unify Kevlar and Nomex ([#56414](https://github.com/CleverRaven/Cataclysm-DDA/pull/56414))
 * Moulded -> Molded ([#56419](https://github.com/CleverRaven/Cataclysm-DDA/pull/56419))
