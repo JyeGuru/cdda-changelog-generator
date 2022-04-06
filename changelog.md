@@ -1,3 +1,10 @@
+* [DinoMod] struthiomimus and ornithomimus ([#56579](https://github.com/CleverRaven/Cataclysm-DDA/pull/56579))
+* Rephrase matches/lighter descriptions to read better ([#56570](https://github.com/CleverRaven/Cataclysm-DDA/pull/56570))
+* Retry when GitHub gives 502 error on generate_changelog script ([#56563](https://github.com/CleverRaven/Cataclysm-DDA/pull/56563))
+* Actually keep scenario when randomizing all but scenario with cities disabled ([#56562](https://github.com/CleverRaven/Cataclysm-DDA/pull/56562))
+* [Innawoods] Add Light-Wave to CODEOWNERS ([#56561](https://github.com/CleverRaven/Cataclysm-DDA/pull/56561))
+* fix: incorrect labeler regex ([#56560](https://github.com/CleverRaven/Cataclysm-DDA/pull/56560))
+* Fix missing subject when teaching ([#56559](https://github.com/CleverRaven/Cataclysm-DDA/pull/56559))
 * Improve bionic removal chance from Rubik/doctors ([#56558](https://github.com/CleverRaven/Cataclysm-DDA/pull/56558))
 * Create cs_city_dump_small.json ([#56556](https://github.com/CleverRaven/Cataclysm-DDA/pull/56556))
 * restaurant.json: add missing gutters ([#56618](https://github.com/CleverRaven/Cataclysm-DDA/pull/56618))
@@ -53,7 +60,6 @@
 #### Cataclysm-DDA experimental build 2022-04-05-2201 ([9f22143](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-2201))
 
 * Dumpsite and homeless camp mutables ([#56482](https://github.com/CleverRaven/Cataclysm-DDA/pull/56482))
-* Allow using lactose-free milk in recipes ([#56393](https://github.com/CleverRaven/Cataclysm-DDA/pull/56393))
 
 ---
 
@@ -149,9 +155,6 @@
 * Upgrade Hub 01's subway station ([#56411](https://github.com/CleverRaven/Cataclysm-DDA/pull/56411))
 * Rename Dinoclysm label to DinoMod ([#56410](https://github.com/CleverRaven/Cataclysm-DDA/pull/56410))
 * Tacoma - Convert scavenger to json and update companion missions ([#56403](https://github.com/CleverRaven/Cataclysm-DDA/pull/56403))
-* Fix XL holster description ([#56394](https://github.com/CleverRaven/Cataclysm-DDA/pull/56394))
-* Expanding bronze: Weapons ([#56381](https://github.com/CleverRaven/Cataclysm-DDA/pull/56381))
-* slimespring → slime microbian ([#56380](https://github.com/CleverRaven/Cataclysm-DDA/pull/56380))
 
 ---
 
@@ -195,12 +198,9 @@
 * Update robotfindskitten links ([#56465](https://github.com/CleverRaven/Cataclysm-DDA/pull/56465))
 * Clarify two spaces rule for translations ([#56408](https://github.com/CleverRaven/Cataclysm-DDA/pull/56408))
 * Minor Mk spelling adjustements ([#56412](https://github.com/CleverRaven/Cataclysm-DDA/pull/56412))
-* Mark double space in vehicles for translation ([#56390](https://github.com/CleverRaven/Cataclysm-DDA/pull/56390))
 * CRIT → C.R.I.T ([#56406](https://github.com/CleverRaven/Cataclysm-DDA/pull/56406))
 * Mark dialog quotes to translation ([#56441](https://github.com/CleverRaven/Cataclysm-DDA/pull/56441))
 * Consistent Elf-A spelling ([#56395](https://github.com/CleverRaven/Cataclysm-DDA/pull/56395))
-* Fix few Aftershock typos ([#56387](https://github.com/CleverRaven/Cataclysm-DDA/pull/56387))
-* 12v → 12V ([#56386](https://github.com/CleverRaven/Cataclysm-DDA/pull/56386))
 * Fix extras showing as unknown when using ASCIITiles Overmap ([#56433](https://github.com/CleverRaven/Cataclysm-DDA/pull/56433))
 * [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
 * Delete outdated spell check comment when new commits are pushed in a pull request ([#56453](https://github.com/CleverRaven/Cataclysm-DDA/pull/56453))
