@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-06-1656 ([610fb34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-1656))
+
 * Update Innawood scenario names ([#56589](https://github.com/CleverRaven/Cataclysm-DDA/pull/56589))
 * Fix error for non-default color settings ([#56610](https://github.com/CleverRaven/Cataclysm-DDA/pull/56610))
 
