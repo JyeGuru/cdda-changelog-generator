@@ -1,3 +1,6 @@
+* Improve bionic removal chance from Rubik/doctors ([#56558](https://github.com/CleverRaven/Cataclysm-DDA/pull/56558))
+* Create cs_city_dump_small.json ([#56556](https://github.com/CleverRaven/Cataclysm-DDA/pull/56556))
+* restaurant.json: add missing gutters ([#56618](https://github.com/CleverRaven/Cataclysm-DDA/pull/56618))
 * Proficiencies UI ([#56549](https://github.com/CleverRaven/Cataclysm-DDA/pull/56549))
 * Add keybind for debug_hour_timer ([#56547](https://github.com/CleverRaven/Cataclysm-DDA/pull/56547))
 * Add a comma after supermarket ([#56539](https://github.com/CleverRaven/Cataclysm-DDA/pull/56539))
@@ -152,12 +155,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-04-0142 ([88799b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0142))
-
-* Move belts from WAIST layer to waist sublimb ([#56376](https://github.com/CleverRaven/Cataclysm-DDA/pull/56376))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-03-2051 ([ba5e863](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-2051))
 
 * Add directions signpost to exodii safehouses and some pods ([#56540](https://github.com/CleverRaven/Cataclysm-DDA/pull/56540))
@@ -203,7 +200,6 @@
 * Mark dialog quotes to translation ([#56441](https://github.com/CleverRaven/Cataclysm-DDA/pull/56441))
 * Consistent Elf-A spelling ([#56395](https://github.com/CleverRaven/Cataclysm-DDA/pull/56395))
 * Fix few Aftershock typos ([#56387](https://github.com/CleverRaven/Cataclysm-DDA/pull/56387))
-* blody mary → Bloody Mary ([#56377](https://github.com/CleverRaven/Cataclysm-DDA/pull/56377))
 * 12v → 12V ([#56386](https://github.com/CleverRaven/Cataclysm-DDA/pull/56386))
 * Fix extras showing as unknown when using ASCIITiles Overmap ([#56433](https://github.com/CleverRaven/Cataclysm-DDA/pull/56433))
 * [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
