@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-06-0711 ([ba9af2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0711))
+
 * Add leather cordage ([#56543](https://github.com/CleverRaven/Cataclysm-DDA/pull/56543))
 * Fix octopus monster names case ([#56545](https://github.com/CleverRaven/Cataclysm-DDA/pull/56545))
 * heavy duty → heavy-duty ([#56619](https://github.com/CleverRaven/Cataclysm-DDA/pull/56619))
@@ -187,11 +192,6 @@
 * Fix Rubik's anesthetic quest ([#56546](https://github.com/CleverRaven/Cataclysm-DDA/pull/56546))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-02-0518 ([e5f7ce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-02-0518))
-
 * Routine i18n updates on 02 April 2022 ([#56522](https://github.com/CleverRaven/Cataclysm-DDA/pull/56522))
 * tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
 * Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))

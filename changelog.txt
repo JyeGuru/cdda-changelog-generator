@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-06-0711 (ba9af2e)
 * Add leather cordage (#56543)
 * Fix octopus monster names case (#56545)
 * heavy duty → heavy-duty (#56619)
@@ -121,8 +123,6 @@ Cataclysm-DDA experimental build 2022-04-03-0355 (add752e)
 * Fix Rubik's anesthetic quest (#56546)
 * Update Tilesets 2022-04-03 (#56531)
 * JSON formatter: show filename on empty input (#56524)
-
-Cataclysm-DDA experimental build 2022-04-02-0518 (e5f7ce7)
 * Routine i18n updates on 02 April 2022 (#56522)
 * tjking293-add-karambit (#56515)
 * Fingerless gloves actually fingerless (#56495)
