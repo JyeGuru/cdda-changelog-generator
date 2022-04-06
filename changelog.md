@@ -1,3 +1,6 @@
+* MOLLE rigging → webbing ([#56588](https://github.com/CleverRaven/Cataclysm-DDA/pull/56588))
+* Fix magiclysm belt coverages ([#56587](https://github.com/CleverRaven/Cataclysm-DDA/pull/56587))
+* More rigid fixes ([#56581](https://github.com/CleverRaven/Cataclysm-DDA/pull/56581))
 * [DinoMod] struthiomimus and ornithomimus ([#56579](https://github.com/CleverRaven/Cataclysm-DDA/pull/56579))
 * Rephrase matches/lighter descriptions to read better ([#56570](https://github.com/CleverRaven/Cataclysm-DDA/pull/56570))
 * Retry when GitHub gives 502 error on generate_changelog script ([#56563](https://github.com/CleverRaven/Cataclysm-DDA/pull/56563))
@@ -164,12 +167,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-03-1820 ([10aed29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-1820))
-
-* Fixes for eyewear and other rigid issues ([#56398](https://github.com/CleverRaven/Cataclysm-DDA/pull/56398))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-03-0551 ([96d10a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-0551))
 
 * Water strider description typo ([#56551](https://github.com/CleverRaven/Cataclysm-DDA/pull/56551))
@@ -200,7 +197,6 @@
 * Minor Mk spelling adjustements ([#56412](https://github.com/CleverRaven/Cataclysm-DDA/pull/56412))
 * CRIT → C.R.I.T ([#56406](https://github.com/CleverRaven/Cataclysm-DDA/pull/56406))
 * Mark dialog quotes to translation ([#56441](https://github.com/CleverRaven/Cataclysm-DDA/pull/56441))
-* Consistent Elf-A spelling ([#56395](https://github.com/CleverRaven/Cataclysm-DDA/pull/56395))
 * Fix extras showing as unknown when using ASCIITiles Overmap ([#56433](https://github.com/CleverRaven/Cataclysm-DDA/pull/56433))
 * [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
 * Delete outdated spell check comment when new commits are pushed in a pull request ([#56453](https://github.com/CleverRaven/Cataclysm-DDA/pull/56453))
