@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-07-2143 ([2dda6db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-07-2143))
+
+* Convert woodworking machines to appliances ([#56628](https://github.com/CleverRaven/Cataclysm-DDA/pull/56628))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-07-0632 ([69830f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-07-0632))
 
 * Fix one missing Kevlar instance ([#56634](https://github.com/CleverRaven/Cataclysm-DDA/pull/56634))
@@ -184,12 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-04-04-0436 ([3a2a5bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0436))
 
 * Adds lamp oil powered oil press ([#56417](https://github.com/CleverRaven/Cataclysm-DDA/pull/56417))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-04-0243 ([b66a9b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0243))
-
-* Remove NEW! recipe flag on current item when moving up or down ([#56416](https://github.com/CleverRaven/Cataclysm-DDA/pull/56416))
 
 ---
 
