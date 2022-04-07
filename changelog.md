@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-07-0632 ([69830f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-07-0632))
+
+* Fix one missing Kevlar instance ([#56634](https://github.com/CleverRaven/Cataclysm-DDA/pull/56634))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-06-1656 ([610fb34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-1656))
 
 * Update Innawood scenario names ([#56589](https://github.com/CleverRaven/Cataclysm-DDA/pull/56589))

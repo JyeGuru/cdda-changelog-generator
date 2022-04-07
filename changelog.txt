@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-07-0632 (69830f8)
+* Fix one missing Kevlar instance (#56634)
+
 Cataclysm-DDA experimental build 2022-04-06-1656 (610fb34)
 * Update Innawood scenario names (#56589)
 * Fix error for non-default color settings (#56610)
