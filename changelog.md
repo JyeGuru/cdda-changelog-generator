@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-08-0938 ([a8f0168](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-08-0938))
+
+* Fix double space in Aftershock item name ([#56654](https://github.com/CleverRaven/Cataclysm-DDA/pull/56654))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-07-2143 ([2dda6db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-07-2143))
 
 * Convert woodworking machines to appliances ([#56628](https://github.com/CleverRaven/Cataclysm-DDA/pull/56628))
@@ -187,12 +193,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-04-0436 ([3a2a5bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0436))
-
-* Adds lamp oil powered oil press ([#56417](https://github.com/CleverRaven/Cataclysm-DDA/pull/56417))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-03-2051 ([ba5e863](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-2051))
 
 * Add directions signpost to exodii safehouses and some pods ([#56540](https://github.com/CleverRaven/Cataclysm-DDA/pull/56540))
@@ -202,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2022-04-03-0551 ([96d10a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-0551))
 
 * Water strider description typo ([#56551](https://github.com/CleverRaven/Cataclysm-DDA/pull/56551))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-03-0355 ([add752e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-0355))
-
 * Fix Rubik's anesthetic quest ([#56546](https://github.com/CleverRaven/Cataclysm-DDA/pull/56546))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
