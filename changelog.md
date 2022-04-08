@@ -190,6 +190,11 @@
 #### Cataclysm-DDA experimental build 2022-04-04-0436 ([3a2a5bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0436))
 
 * Adds lamp oil powered oil press ([#56417](https://github.com/CleverRaven/Cataclysm-DDA/pull/56417))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-03-2051 ([ba5e863](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-2051))
+
 * Add directions signpost to exodii safehouses and some pods ([#56540](https://github.com/CleverRaven/Cataclysm-DDA/pull/56540))
 
 ---
