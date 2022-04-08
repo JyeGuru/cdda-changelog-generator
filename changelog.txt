@@ -121,8 +121,6 @@ Cataclysm-DDA experimental build 2022-04-04-0552 (0d17de3)
 
 Cataclysm-DDA experimental build 2022-04-04-0436 (3a2a5bc)
 * Adds lamp oil powered oil press (#56417)
-
-Cataclysm-DDA experimental build 2022-04-03-2051 (ba5e863)
 * Add directions signpost to exodii safehouses and some pods (#56540)
 
 Cataclysm-DDA experimental build 2022-04-03-0551 (96d10a5)
