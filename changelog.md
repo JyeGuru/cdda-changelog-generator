@@ -1,3 +1,6 @@
+* Vehicle parts can looks_like more types of stuff ([#56627](https://github.com/CleverRaven/Cataclysm-DDA/pull/56627))
+* Mouthguard and helmets rigid fixes ([#56626](https://github.com/CleverRaven/Cataclysm-DDA/pull/56626))
+* Fix flaming arrow duplication and infinite flames ([#56595](https://github.com/CleverRaven/Cataclysm-DDA/pull/56595))
 * Tacoma - Convert crop overseer field planting to json ([#56510](https://github.com/CleverRaven/Cataclysm-DDA/pull/56510))
 * Weakpoint proficiencies: (some) zombies and insects ([#56487](https://github.com/CleverRaven/Cataclysm-DDA/pull/56487))
 * Crash when reloading with charcoal directly from charcoal kiln ([#56479](https://github.com/CleverRaven/Cataclysm-DDA/pull/56479))
@@ -126,12 +129,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-05-1942 ([77d4a83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-1942))
-
-* Isolated artisans writing touchup ([#56438](https://github.com/CleverRaven/Cataclysm-DDA/pull/56438))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-05-0553 ([aba61a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-0553))
 
 * MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
@@ -166,12 +163,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-04-1826 ([77cec43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1826))
-
-* Minor t-shirt variants fixes ([#56435](https://github.com/CleverRaven/Cataclysm-DDA/pull/56435))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-04-1616 ([f373d83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1616))
 
 * Fix waist CI error ([#56578](https://github.com/CleverRaven/Cataclysm-DDA/pull/56578))
@@ -195,6 +186,5 @@
 * tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
 * Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
 * Update robotfindskitten links ([#56465](https://github.com/CleverRaven/Cataclysm-DDA/pull/56465))
-* Mark dialog quotes to translation ([#56441](https://github.com/CleverRaven/Cataclysm-DDA/pull/56441))
 * [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
 * Delete outdated spell check comment when new commits are pushed in a pull request ([#56453](https://github.com/CleverRaven/Cataclysm-DDA/pull/56453))

@@ -1,3 +1,6 @@
+* Vehicle parts can looks_like more types of stuff (#56627)
+* Mouthguard and helmets rigid fixes (#56626)
+* Fix flaming arrow duplication and infinite flames (#56595)
 * Tacoma - Convert crop overseer field planting to json (#56510)
 * Weakpoint proficiencies: (some) zombies and insects (#56487)
 * Crash when reloading with charcoal directly from charcoal kiln (#56479)
@@ -85,9 +88,6 @@ Cataclysm-DDA experimental build 2022-04-05-2201 (9f22143)
 Cataclysm-DDA experimental build 2022-04-05-2055 (c1f4cf8)
 * Don't treat movement noises as provocative (#56616)
 
-Cataclysm-DDA experimental build 2022-04-05-1942 (77d4a83)
-* Isolated artisans writing touchup (#56438)
-
 Cataclysm-DDA experimental build 2022-04-05-0553 (aba61a8)
 * MOLLE attach no longer always refers to vests (#56594)
 
@@ -110,9 +110,6 @@ Cataclysm-DDA experimental build 2022-04-04-1931 (af04487)
 * mercenary attire (#56448)
 * [Innawoods] Pickling and cheese (#56443)
 
-Cataclysm-DDA experimental build 2022-04-04-1826 (77cec43)
-* Minor t-shirt variants fixes (#56435)
-
 Cataclysm-DDA experimental build 2022-04-04-1616 (f373d83)
 * Fix waist CI error (#56578)
 
@@ -129,6 +126,5 @@ Cataclysm-DDA experimental build 2022-04-03-2051 (ba5e863)
 * tjking293-add-karambit (#56515)
 * Fingerless gloves actually fingerless (#56495)
 * Update robotfindskitten links (#56465)
-* Mark dialog quotes to translation (#56441)
 * [DinoMod] new scenarios (#56451)
 * Delete outdated spell check comment when new commits are pushed in a pull request (#56453)
