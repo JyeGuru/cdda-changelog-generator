@@ -1,3 +1,9 @@
+* Baseball Stadium ([#56681](https://github.com/CleverRaven/Cataclysm-DDA/pull/56681))
+* "Creatures" Lore Tab ([#56665](https://github.com/CleverRaven/Cataclysm-DDA/pull/56665))
+* [MMA] Weapon Categories: Setting Sun ([#56656](https://github.com/CleverRaven/Cataclysm-DDA/pull/56656))
+* Check for attachable subpockets first when holstering ([#56655](https://github.com/CleverRaven/Cataclysm-DDA/pull/56655))
+* Do not unmark recipe right after marking it as unread ([#56650](https://github.com/CleverRaven/Cataclysm-DDA/pull/56650))
+* More shirt variants ([#56644](https://github.com/CleverRaven/Cataclysm-DDA/pull/56644))
 * Additional Labels ([#56638](https://github.com/CleverRaven/Cataclysm-DDA/pull/56638))
 * Fix a short woth typo ([#56636](https://github.com/CleverRaven/Cataclysm-DDA/pull/56636))
 * Add plural forms to missing armors ([#56635](https://github.com/CleverRaven/Cataclysm-DDA/pull/56635))
@@ -150,20 +156,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-04-2334 ([f430da6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-2334))
-
-* Update one missing Elf-A instance ([#56459](https://github.com/CleverRaven/Cataclysm-DDA/pull/56459))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-04-1931 ([af04487](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1931))
-
-* Adds more rocks to mining results ([#56455](https://github.com/CleverRaven/Cataclysm-DDA/pull/56455))
-* Use GitHub REST API to determine files changed in clang-tidy workflow ([#56454](https://github.com/CleverRaven/Cataclysm-DDA/pull/56454))
-* Add Shoulder Holster ([#56452](https://github.com/CleverRaven/Cataclysm-DDA/pull/56452))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-04-1616 ([f373d83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1616))
 
 * Fix waist CI error ([#56578](https://github.com/CleverRaven/Cataclysm-DDA/pull/56578))
@@ -187,5 +179,3 @@
 * tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
 * Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
 * Update robotfindskitten links ([#56465](https://github.com/CleverRaven/Cataclysm-DDA/pull/56465))
-* [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
-* Delete outdated spell check comment when new commits are pushed in a pull request ([#56453](https://github.com/CleverRaven/Cataclysm-DDA/pull/56453))
