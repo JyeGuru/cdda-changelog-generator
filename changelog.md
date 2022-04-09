@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-09-0627 ([b54ab40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-09-0627))
+
 * Baseball Stadium ([#56681](https://github.com/CleverRaven/Cataclysm-DDA/pull/56681))
 * "Creatures" Lore Tab ([#56665](https://github.com/CleverRaven/Cataclysm-DDA/pull/56665))
 * [MMA] Weapon Categories: Setting Sun ([#56656](https://github.com/CleverRaven/Cataclysm-DDA/pull/56656))
