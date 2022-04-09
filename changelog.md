@@ -213,4 +213,3 @@
 * Fix extras showing as unknown when using ASCIITiles Overmap ([#56433](https://github.com/CleverRaven/Cataclysm-DDA/pull/56433))
 * [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
 * Delete outdated spell check comment when new commits are pushed in a pull request ([#56453](https://github.com/CleverRaven/Cataclysm-DDA/pull/56453))
-* Moulded -> Molded ([#56419](https://github.com/CleverRaven/Cataclysm-DDA/pull/56419))
