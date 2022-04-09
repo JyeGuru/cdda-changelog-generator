@@ -1,3 +1,5 @@
+* Tacoma - Convert crop overseer field planting to json ([#56510](https://github.com/CleverRaven/Cataclysm-DDA/pull/56510))
+* Weakpoint proficiencies: (some) zombies and insects ([#56487](https://github.com/CleverRaven/Cataclysm-DDA/pull/56487))
 * Crash when reloading with charcoal directly from charcoal kiln ([#56479](https://github.com/CleverRaven/Cataclysm-DDA/pull/56479))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
 * Default itemgroups to overwrite if not extending ([#56469](https://github.com/CleverRaven/Cataclysm-DDA/pull/56469))
@@ -167,7 +169,6 @@
 #### Cataclysm-DDA experimental build 2022-04-04-1826 ([77cec43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1826))
 
 * Minor t-shirt variants fixes ([#56435](https://github.com/CleverRaven/Cataclysm-DDA/pull/56435))
-* Clarify smartphone cases ([#56434](https://github.com/CleverRaven/Cataclysm-DDA/pull/56434))
 
 ---
 
@@ -195,6 +196,5 @@
 * Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
 * Update robotfindskitten links ([#56465](https://github.com/CleverRaven/Cataclysm-DDA/pull/56465))
 * Mark dialog quotes to translation ([#56441](https://github.com/CleverRaven/Cataclysm-DDA/pull/56441))
-* Fix extras showing as unknown when using ASCIITiles Overmap ([#56433](https://github.com/CleverRaven/Cataclysm-DDA/pull/56433))
 * [DinoMod] new scenarios ([#56451](https://github.com/CleverRaven/Cataclysm-DDA/pull/56451))
 * Delete outdated spell check comment when new commits are pushed in a pull request ([#56453](https://github.com/CleverRaven/Cataclysm-DDA/pull/56453))
