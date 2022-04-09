@@ -1,3 +1,7 @@
+* Crash when reloading with charcoal directly from charcoal kiln (#56479)
+* Routine i18n updates on 09 April 2022 (#56685)
+* Default itemgroups to overwrite if not extending (#56469)
+* dinozoo → DinoZoo (#56463)
 
 Cataclysm-DDA experimental build 2022-04-08-0938 (a8f0168)
 * Fix double space in Aftershock item name (#56654)
@@ -107,20 +111,12 @@ Cataclysm-DDA experimental build 2022-04-04-1931 (af04487)
 Cataclysm-DDA experimental build 2022-04-04-1826 (77cec43)
 * Minor t-shirt variants fixes (#56435)
 * Clarify smartphone cases (#56434)
-* Expand armor definition for cestus (#56429)
-* inventory_selector: clean up deprecated code (#56427)
-
-Cataclysm-DDA experimental build 2022-04-04-1726 (b0b5bcf)
-* Mutation infrastructure and a Threshold calculation revamp (#56421)
 
 Cataclysm-DDA experimental build 2022-04-04-1616 (f373d83)
 * Fix waist CI error (#56578)
 
 Cataclysm-DDA experimental build 2022-04-04-0719 (df6d5f0)
 * Add missing double space to NPC_ROBOFAC_INTERCOM (#56548)
-
-Cataclysm-DDA experimental build 2022-04-04-0552 (0d17de3)
-* Fix 0 breathability of junk chainmail (#56420)
 
 Cataclysm-DDA experimental build 2022-04-03-2051 (ba5e863)
 * Add directions signpost to exodii safehouses and some pods (#56540)

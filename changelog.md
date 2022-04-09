@@ -1,3 +1,7 @@
+* Crash when reloading with charcoal directly from charcoal kiln ([#56479](https://github.com/CleverRaven/Cataclysm-DDA/pull/56479))
+* Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
+* Default itemgroups to overwrite if not extending ([#56469](https://github.com/CleverRaven/Cataclysm-DDA/pull/56469))
+* dinozoo → DinoZoo ([#56463](https://github.com/CleverRaven/Cataclysm-DDA/pull/56463))
 
 ---
 
@@ -164,14 +168,6 @@
 
 * Minor t-shirt variants fixes ([#56435](https://github.com/CleverRaven/Cataclysm-DDA/pull/56435))
 * Clarify smartphone cases ([#56434](https://github.com/CleverRaven/Cataclysm-DDA/pull/56434))
-* Expand armor definition for cestus ([#56429](https://github.com/CleverRaven/Cataclysm-DDA/pull/56429))
-* inventory_selector: clean up deprecated code ([#56427](https://github.com/CleverRaven/Cataclysm-DDA/pull/56427))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-04-1726 ([b0b5bcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1726))
-
-* Mutation infrastructure and a Threshold calculation revamp ([#56421](https://github.com/CleverRaven/Cataclysm-DDA/pull/56421))
 
 ---
 
@@ -184,12 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-04-04-0719 ([df6d5f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0719))
 
 * Add missing double space to NPC_ROBOFAC_INTERCOM ([#56548](https://github.com/CleverRaven/Cataclysm-DDA/pull/56548))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-04-0552 ([0d17de3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0552))
-
-* Fix 0 breathability of junk chainmail ([#56420](https://github.com/CleverRaven/Cataclysm-DDA/pull/56420))
 
 ---
 
