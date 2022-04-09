@@ -1,3 +1,7 @@
+* Additional Labels ([#56638](https://github.com/CleverRaven/Cataclysm-DDA/pull/56638))
+* Fix a short woth typo ([#56636](https://github.com/CleverRaven/Cataclysm-DDA/pull/56636))
+* Add plural forms to missing armors ([#56635](https://github.com/CleverRaven/Cataclysm-DDA/pull/56635))
+* Merch → merch ([#56631](https://github.com/CleverRaven/Cataclysm-DDA/pull/56631))
 * Vehicle parts can looks_like more types of stuff ([#56627](https://github.com/CleverRaven/Cataclysm-DDA/pull/56627))
 * Mouthguard and helmets rigid fixes ([#56626](https://github.com/CleverRaven/Cataclysm-DDA/pull/56626))
 * Fix flaming arrow duplication and infinite flames ([#56595](https://github.com/CleverRaven/Cataclysm-DDA/pull/56595))
@@ -157,9 +161,6 @@
 * Adds more rocks to mining results ([#56455](https://github.com/CleverRaven/Cataclysm-DDA/pull/56455))
 * Use GitHub REST API to determine files changed in clang-tidy workflow ([#56454](https://github.com/CleverRaven/Cataclysm-DDA/pull/56454))
 * Add Shoulder Holster ([#56452](https://github.com/CleverRaven/Cataclysm-DDA/pull/56452))
-* [Innawood] Minor caves update ([#56449](https://github.com/CleverRaven/Cataclysm-DDA/pull/56449))
-* mercenary attire ([#56448](https://github.com/CleverRaven/Cataclysm-DDA/pull/56448))
-* [Innawoods] Pickling and cheese ([#56443](https://github.com/CleverRaven/Cataclysm-DDA/pull/56443))
 
 ---
 
