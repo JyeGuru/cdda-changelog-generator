@@ -124,8 +124,6 @@ Cataclysm-DDA experimental build 2022-04-04-0552 (0d17de3)
 
 Cataclysm-DDA experimental build 2022-04-03-2051 (ba5e863)
 * Add directions signpost to exodii safehouses and some pods (#56540)
-
-Cataclysm-DDA experimental build 2022-04-03-0551 (96d10a5)
 * Water strider description typo (#56551)
 * Fix Rubik's anesthetic quest (#56546)
 * Update Tilesets 2022-04-03 (#56531)

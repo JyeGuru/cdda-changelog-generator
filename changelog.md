@@ -196,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-04-03-2051 ([ba5e863](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-2051))
 
 * Add directions signpost to exodii safehouses and some pods ([#56540](https://github.com/CleverRaven/Cataclysm-DDA/pull/56540))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-03-0551 ([96d10a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-0551))
-
 * Water strider description typo ([#56551](https://github.com/CleverRaven/Cataclysm-DDA/pull/56551))
 * Fix Rubik's anesthetic quest ([#56546](https://github.com/CleverRaven/Cataclysm-DDA/pull/56546))
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
