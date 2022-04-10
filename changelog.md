@@ -27,7 +27,6 @@
 * Crash when reloading with charcoal directly from charcoal kiln ([#56479](https://github.com/CleverRaven/Cataclysm-DDA/pull/56479))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
 * Default itemgroups to overwrite if not extending ([#56469](https://github.com/CleverRaven/Cataclysm-DDA/pull/56469))
-* dinozoo → DinoZoo ([#56463](https://github.com/CleverRaven/Cataclysm-DDA/pull/56463))
 
 ---
 
