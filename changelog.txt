@@ -1,3 +1,4 @@
+* discontinuity → Discontinuity (#56715)
 
 Cataclysm-DDA experimental build 2022-04-09-0627 (b54ab40)
 * Baseball Stadium (#56681)

@@ -1,3 +1,4 @@
+* discontinuity → Discontinuity ([#56715](https://github.com/CleverRaven/Cataclysm-DDA/pull/56715))
 
 ---
 
