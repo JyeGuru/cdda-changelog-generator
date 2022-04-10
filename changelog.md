@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-10-0547 ([9f9b09d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-10-0547))
+
 * discontinuity → Discontinuity ([#56715](https://github.com/CleverRaven/Cataclysm-DDA/pull/56715))
 
 ---
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-04-04-0719 ([df6d5f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0719))
 
 * Add missing double space to NPC_ROBOFAC_INTERCOM ([#56548](https://github.com/CleverRaven/Cataclysm-DDA/pull/56548))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-03-2051 ([ba5e863](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-03-2051))
-
 * Add directions signpost to exodii safehouses and some pods ([#56540](https://github.com/CleverRaven/Cataclysm-DDA/pull/56540))
 * Water strider description typo ([#56551](https://github.com/CleverRaven/Cataclysm-DDA/pull/56551))
 * Fix Rubik's anesthetic quest ([#56546](https://github.com/CleverRaven/Cataclysm-DDA/pull/56546))
