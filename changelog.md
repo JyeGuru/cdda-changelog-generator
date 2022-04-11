@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-11-0341 ([96935e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-11-0341))
+
 * bronze horse armor ([#56660](https://github.com/CleverRaven/Cataclysm-DDA/pull/56660))
 * [DinoMod] dryptosaurus ([#56649](https://github.com/CleverRaven/Cataclysm-DDA/pull/56649))
 
