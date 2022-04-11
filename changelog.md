@@ -1,3 +1,27 @@
+* bronze horse armor ([#56660](https://github.com/CleverRaven/Cataclysm-DDA/pull/56660))
+* [DinoMod] dryptosaurus ([#56649](https://github.com/CleverRaven/Cataclysm-DDA/pull/56649))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-11-0240 ([55a4450](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-11-0240))
+
+* CBM Spawn Cleanup ([#56552](https://github.com/CleverRaven/Cataclysm-DDA/pull/56552))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-11-0110 ([666fb27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-11-0110))
+
+* Transition nutrition to kcal for good ([#56728](https://github.com/CleverRaven/Cataclysm-DDA/pull/56728))
+* Rename "You adopts" to "%s adopts" ([#56734](https://github.com/CleverRaven/Cataclysm-DDA/pull/56734))
+* Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))
+* Fix minor proficiency typos ([#56709](https://github.com/CleverRaven/Cataclysm-DDA/pull/56709))
+* dummys → dummies ([#56733](https://github.com/CleverRaven/Cataclysm-DDA/pull/56733))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-11-0010 ([2cb06a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-11-0010))
+
+* fix: bugout bags error ([#56743](https://github.com/CleverRaven/Cataclysm-DDA/pull/56743))
 
 ---
 
@@ -24,9 +48,7 @@
 * Fix flaming arrow duplication and infinite flames ([#56595](https://github.com/CleverRaven/Cataclysm-DDA/pull/56595))
 * Tacoma - Convert crop overseer field planting to json ([#56510](https://github.com/CleverRaven/Cataclysm-DDA/pull/56510))
 * Weakpoint proficiencies: (some) zombies and insects ([#56487](https://github.com/CleverRaven/Cataclysm-DDA/pull/56487))
-* Crash when reloading with charcoal directly from charcoal kiln ([#56479](https://github.com/CleverRaven/Cataclysm-DDA/pull/56479))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
-* Default itemgroups to overwrite if not extending ([#56469](https://github.com/CleverRaven/Cataclysm-DDA/pull/56469))
 
 ---
 
@@ -155,17 +177,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-05-0041 ([4cbd44f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-0041))
-
-* UI fixes for rigid armor ([#56476](https://github.com/CleverRaven/Cataclysm-DDA/pull/56476))
-* Added non-zero price_postapoc to fasteners.json ([#56475](https://github.com/CleverRaven/Cataclysm-DDA/pull/56475))
-* Fix Aftershock typos and texts ([#56470](https://github.com/CleverRaven/Cataclysm-DDA/pull/56470))
-* Fix extension_cable name ([#56467](https://github.com/CleverRaven/Cataclysm-DDA/pull/56467))
-* Add missing serial commas to WETCODEs definitions ([#56466](https://github.com/CleverRaven/Cataclysm-DDA/pull/56466))
-* Mark shout quotes to translation ([#56464](https://github.com/CleverRaven/Cataclysm-DDA/pull/56464))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-04-1616 ([f373d83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1616))
 
 * Fix waist CI error ([#56578](https://github.com/CleverRaven/Cataclysm-DDA/pull/56578))
@@ -183,4 +194,3 @@
 * Routine i18n updates on 02 April 2022 ([#56522](https://github.com/CleverRaven/Cataclysm-DDA/pull/56522))
 * tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
 * Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
-* Update robotfindskitten links ([#56465](https://github.com/CleverRaven/Cataclysm-DDA/pull/56465))

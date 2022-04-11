@@ -1,3 +1,18 @@
+* bronze horse armor (#56660)
+* [DinoMod] dryptosaurus (#56649)
+
+Cataclysm-DDA experimental build 2022-04-11-0240 (55a4450)
+* CBM Spawn Cleanup (#56552)
+
+Cataclysm-DDA experimental build 2022-04-11-0110 (666fb27)
+* Transition nutrition to kcal for good (#56728)
+* Rename "You adopts" to "%s adopts" (#56734)
+* Fix large amount of toilet water spawning in washrooms (#56736)
+* Fix minor proficiency typos (#56709)
+* dummys → dummies (#56733)
+
+Cataclysm-DDA experimental build 2022-04-11-0010 (2cb06a4)
+* fix: bugout bags error (#56743)
 
 Cataclysm-DDA experimental build 2022-04-10-0547 (9f9b09d)
 * discontinuity → Discontinuity (#56715)
@@ -18,9 +33,7 @@ Cataclysm-DDA experimental build 2022-04-09-0627 (b54ab40)
 * Fix flaming arrow duplication and infinite flames (#56595)
 * Tacoma - Convert crop overseer field planting to json (#56510)
 * Weakpoint proficiencies: (some) zombies and insects (#56487)
-* Crash when reloading with charcoal directly from charcoal kiln (#56479)
 * Routine i18n updates on 09 April 2022 (#56685)
-* Default itemgroups to overwrite if not extending (#56469)
 
 Cataclysm-DDA experimental build 2022-04-08-0938 (a8f0168)
 * Fix double space in Aftershock item name (#56654)
@@ -105,14 +118,6 @@ Cataclysm-DDA experimental build 2022-04-05-2055 (c1f4cf8)
 Cataclysm-DDA experimental build 2022-04-05-0553 (aba61a8)
 * MOLLE attach no longer always refers to vests (#56594)
 
-Cataclysm-DDA experimental build 2022-04-05-0041 (4cbd44f)
-* UI fixes for rigid armor (#56476)
-* Added non-zero price_postapoc to fasteners.json (#56475)
-* Fix Aftershock typos and texts (#56470)
-* Fix extension_cable name (#56467)
-* Add missing serial commas to WETCODEs definitions (#56466)
-* Mark shout quotes to translation (#56464)
-
 Cataclysm-DDA experimental build 2022-04-04-1616 (f373d83)
 * Fix waist CI error (#56578)
 
@@ -126,4 +131,3 @@ Cataclysm-DDA experimental build 2022-04-04-0719 (df6d5f0)
 * Routine i18n updates on 02 April 2022 (#56522)
 * tjking293-add-karambit (#56515)
 * Fingerless gloves actually fingerless (#56495)
-* Update robotfindskitten links (#56465)
