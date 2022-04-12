@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-12-0728 (2b38de5)
+* Minor fixes to NPC classes (#56708)
+
 Cataclysm-DDA experimental build 2022-04-11-0608 (5fe200b)
 * Add damage and charge randomization to reenactor loot (#56717)
 
@@ -111,16 +114,11 @@ Cataclysm-DDA experimental build 2022-04-06-0150 (cc4cd99)
 * Subsonic 57 ammo (#56488)
 * Add conversion to freezer for itemized fridge (#56486)
 
-Cataclysm-DDA experimental build 2022-04-06-0046 (a006d14)
-* Fix unload zones when unload target is on the zone's edge (#56483)
-
 Cataclysm-DDA experimental build 2022-04-05-2055 (c1f4cf8)
 * Don't treat movement noises as provocative (#56616)
 
 Cataclysm-DDA experimental build 2022-04-05-0553 (aba61a8)
 * MOLLE attach no longer always refers to vests (#56594)
-
-Cataclysm-DDA experimental build 2022-04-04-1616 (f373d83)
 * Fix waist CI error (#56578)
 * Add missing double space to NPC_ROBOFAC_INTERCOM (#56548)
 * Add directions signpost to exodii safehouses and some pods (#56540)
