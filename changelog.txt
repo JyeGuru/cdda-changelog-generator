@@ -119,7 +119,11 @@ Cataclysm-DDA experimental build 2022-04-05-2055 (c1f4cf8)
 
 Cataclysm-DDA experimental build 2022-04-05-0553 (aba61a8)
 * MOLLE attach no longer always refers to vests (#56594)
+
+Cataclysm-DDA experimental build 2022-04-04-1616 (f373d83)
 * Fix waist CI error (#56578)
+
+Cataclysm-DDA experimental build 2022-04-04-0719 (df6d5f0)
 * Add missing double space to NPC_ROBOFAC_INTERCOM (#56548)
 * Add directions signpost to exodii safehouses and some pods (#56540)
 * Water strider description typo (#56551)

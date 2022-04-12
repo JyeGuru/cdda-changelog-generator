@@ -179,7 +179,17 @@
 #### Cataclysm-DDA experimental build 2022-04-05-0553 ([aba61a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-0553))
 
 * MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-04-1616 ([f373d83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-1616))
+
 * Fix waist CI error ([#56578](https://github.com/CleverRaven/Cataclysm-DDA/pull/56578))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-04-0719 ([df6d5f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-04-0719))
+
 * Add missing double space to NPC_ROBOFAC_INTERCOM ([#56548](https://github.com/CleverRaven/Cataclysm-DDA/pull/56548))
 * Add directions signpost to exodii safehouses and some pods ([#56540](https://github.com/CleverRaven/Cataclysm-DDA/pull/56540))
 * Water strider description typo ([#56551](https://github.com/CleverRaven/Cataclysm-DDA/pull/56551))
