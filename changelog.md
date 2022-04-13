@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-13-0549 ([a1cea1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-13-0549))
+
+* Update help to match new layers ([#56729](https://github.com/CleverRaven/Cataclysm-DDA/pull/56729))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-12-0728 ([2b38de5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-12-0728))
 
 * Minor fixes to NPC classes ([#56708](https://github.com/CleverRaven/Cataclysm-DDA/pull/56708))
@@ -166,7 +172,6 @@
 * [Innawood] Add bronze sickle ([#56492](https://github.com/CleverRaven/Cataclysm-DDA/pull/56492))
 * Balance "cut_grass"/"remove_grass" constructions and grass cutting tools ([#56491](https://github.com/CleverRaven/Cataclysm-DDA/pull/56491))
 * Subsonic 57 ammo ([#56488](https://github.com/CleverRaven/Cataclysm-DDA/pull/56488))
-* Add conversion to freezer for itemized fridge ([#56486](https://github.com/CleverRaven/Cataclysm-DDA/pull/56486))
 
 ---
 

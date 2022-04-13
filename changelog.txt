@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-13-0549 (a1cea1e)
+* Update help to match new layers (#56729)
+
 Cataclysm-DDA experimental build 2022-04-12-0728 (2b38de5)
 * Minor fixes to NPC classes (#56708)
 
@@ -112,7 +115,6 @@ Cataclysm-DDA experimental build 2022-04-06-0150 (cc4cd99)
 * [Innawood] Add bronze sickle (#56492)
 * Balance "cut_grass"/"remove_grass" constructions and grass cutting tools (#56491)
 * Subsonic 57 ammo (#56488)
-* Add conversion to freezer for itemized fridge (#56486)
 
 Cataclysm-DDA experimental build 2022-04-05-2055 (c1f4cf8)
 * Don't treat movement noises as provocative (#56616)
