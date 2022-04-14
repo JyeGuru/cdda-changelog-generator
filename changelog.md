@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-14-2340 ([db0e2b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-14-2340))
+
+* Update security professions with new vests ([#56793](https://github.com/CleverRaven/Cataclysm-DDA/pull/56793))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-14-2138 ([8e5d4aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-14-2138))
 
 * Fixes for the SWAT classes ([#56757](https://github.com/CleverRaven/Cataclysm-DDA/pull/56757))
@@ -181,7 +187,6 @@
 * Check more static translation calls and update message ([#56509](https://github.com/CleverRaven/Cataclysm-DDA/pull/56509))
 * Use meese as the correct plural form of moose ([#56508](https://github.com/CleverRaven/Cataclysm-DDA/pull/56508))
 * Add option to build the clang-tidy checks as an executable with CMake ([#56506](https://github.com/CleverRaven/Cataclysm-DDA/pull/56506))
-* More triagebot labels ([#56505](https://github.com/CleverRaven/Cataclysm-DDA/pull/56505))
 
 ---
 
