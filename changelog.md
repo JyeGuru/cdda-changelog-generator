@@ -1,3 +1,6 @@
+* [DinoMod] nest rework ([#56667](https://github.com/CleverRaven/Cataclysm-DDA/pull/56667))
+* TropiCata 0.7: Le Fungi Update ([#56572](https://github.com/CleverRaven/Cataclysm-DDA/pull/56572))
+* [DinoMod] dromaeosaurus and dino droppings ([#56744](https://github.com/CleverRaven/Cataclysm-DDA/pull/56744))
 * Survivor armor uses better materials, small adjustment to thickness ([#56659](https://github.com/CleverRaven/Cataclysm-DDA/pull/56659))
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
 
@@ -175,8 +178,6 @@
 * Fix broken links in markdown docs ([#56502](https://github.com/CleverRaven/Cataclysm-DDA/pull/56502))
 * Mark missing basecamp strings for translation ([#56497](https://github.com/CleverRaven/Cataclysm-DDA/pull/56497))
 * Remove welding tool from clothing recipes ([#56496](https://github.com/CleverRaven/Cataclysm-DDA/pull/56496))
-* Fix exclude functionality of compose.py ([#56493](https://github.com/CleverRaven/Cataclysm-DDA/pull/56493))
-* [Innawood] Add bronze sickle ([#56492](https://github.com/CleverRaven/Cataclysm-DDA/pull/56492))
 
 ---
 
@@ -198,4 +199,3 @@
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 * Routine i18n updates on 02 April 2022 ([#56522](https://github.com/CleverRaven/Cataclysm-DDA/pull/56522))
 * tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
-* Fingerless gloves actually fingerless ([#56495](https://github.com/CleverRaven/Cataclysm-DDA/pull/56495))
