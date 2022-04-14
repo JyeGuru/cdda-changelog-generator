@@ -1,3 +1,5 @@
+* Fixes for the SWAT classes ([#56757](https://github.com/CleverRaven/Cataclysm-DDA/pull/56757))
+* aztlani → Aztlani ([#56711](https://github.com/CleverRaven/Cataclysm-DDA/pull/56711))
 * Crafting: fix tool ammo as component ([#56622](https://github.com/CleverRaven/Cataclysm-DDA/pull/56622))
 * [DinoMod] nest rework ([#56667](https://github.com/CleverRaven/Cataclysm-DDA/pull/56667))
 * TropiCata 0.7: Le Fungi Update ([#56572](https://github.com/CleverRaven/Cataclysm-DDA/pull/56572))
@@ -176,8 +178,6 @@
 * Add option to build the clang-tidy checks as an executable with CMake ([#56506](https://github.com/CleverRaven/Cataclysm-DDA/pull/56506))
 * More triagebot labels ([#56505](https://github.com/CleverRaven/Cataclysm-DDA/pull/56505))
 * Allow Fur sleeping bag to use wool staple ([#56504](https://github.com/CleverRaven/Cataclysm-DDA/pull/56504))
-* Fix broken links in markdown docs ([#56502](https://github.com/CleverRaven/Cataclysm-DDA/pull/56502))
-* Mark missing basecamp strings for translation ([#56497](https://github.com/CleverRaven/Cataclysm-DDA/pull/56497))
 
 ---
 
