@@ -1,3 +1,4 @@
+* Survivor armor uses better materials, small adjustment to thickness ([#56659](https://github.com/CleverRaven/Cataclysm-DDA/pull/56659))
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
 
 ---
@@ -176,7 +177,6 @@
 * Remove welding tool from clothing recipes ([#56496](https://github.com/CleverRaven/Cataclysm-DDA/pull/56496))
 * Fix exclude functionality of compose.py ([#56493](https://github.com/CleverRaven/Cataclysm-DDA/pull/56493))
 * [Innawood] Add bronze sickle ([#56492](https://github.com/CleverRaven/Cataclysm-DDA/pull/56492))
-* Balance "cut_grass"/"remove_grass" constructions and grass cutting tools ([#56491](https://github.com/CleverRaven/Cataclysm-DDA/pull/56491))
 
 ---
 
