@@ -1,3 +1,4 @@
+* Crafting: fix tool ammo as component ([#56622](https://github.com/CleverRaven/Cataclysm-DDA/pull/56622))
 * [DinoMod] nest rework ([#56667](https://github.com/CleverRaven/Cataclysm-DDA/pull/56667))
 * TropiCata 0.7: Le Fungi Update ([#56572](https://github.com/CleverRaven/Cataclysm-DDA/pull/56572))
 * [DinoMod] dromaeosaurus and dino droppings ([#56744](https://github.com/CleverRaven/Cataclysm-DDA/pull/56744))
@@ -177,7 +178,6 @@
 * Allow Fur sleeping bag to use wool staple ([#56504](https://github.com/CleverRaven/Cataclysm-DDA/pull/56504))
 * Fix broken links in markdown docs ([#56502](https://github.com/CleverRaven/Cataclysm-DDA/pull/56502))
 * Mark missing basecamp strings for translation ([#56497](https://github.com/CleverRaven/Cataclysm-DDA/pull/56497))
-* Remove welding tool from clothing recipes ([#56496](https://github.com/CleverRaven/Cataclysm-DDA/pull/56496))
 
 ---
 
