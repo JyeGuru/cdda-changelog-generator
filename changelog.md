@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-14-0550 ([6a35b49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-14-0550))
+
+* Cannons get their wheels on the sides ([#56788](https://github.com/CleverRaven/Cataclysm-DDA/pull/56788))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-13-0549 ([a1cea1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-13-0549))
 
 * Update help to match new layers ([#56729](https://github.com/CleverRaven/Cataclysm-DDA/pull/56729))
@@ -70,7 +76,6 @@
 * Mouthguard and helmets rigid fixes ([#56626](https://github.com/CleverRaven/Cataclysm-DDA/pull/56626))
 * Fix flaming arrow duplication and infinite flames ([#56595](https://github.com/CleverRaven/Cataclysm-DDA/pull/56595))
 * Tacoma - Convert crop overseer field planting to json ([#56510](https://github.com/CleverRaven/Cataclysm-DDA/pull/56510))
-* Weakpoint proficiencies: (some) zombies and insects ([#56487](https://github.com/CleverRaven/Cataclysm-DDA/pull/56487))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
 
 ---
