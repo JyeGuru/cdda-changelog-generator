@@ -182,7 +182,6 @@
 * Use meese as the correct plural form of moose ([#56508](https://github.com/CleverRaven/Cataclysm-DDA/pull/56508))
 * Add option to build the clang-tidy checks as an executable with CMake ([#56506](https://github.com/CleverRaven/Cataclysm-DDA/pull/56506))
 * More triagebot labels ([#56505](https://github.com/CleverRaven/Cataclysm-DDA/pull/56505))
-* Allow Fur sleeping bag to use wool staple ([#56504](https://github.com/CleverRaven/Cataclysm-DDA/pull/56504))
 
 ---
 
