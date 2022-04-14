@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-14-2138 ([8e5d4aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-14-2138))
+
 * Fixes for the SWAT classes ([#56757](https://github.com/CleverRaven/Cataclysm-DDA/pull/56757))
 * aztlani → Aztlani ([#56711](https://github.com/CleverRaven/Cataclysm-DDA/pull/56711))
 * Crafting: fix tool ammo as component ([#56622](https://github.com/CleverRaven/Cataclysm-DDA/pull/56622))
