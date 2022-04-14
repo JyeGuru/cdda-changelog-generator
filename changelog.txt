@@ -1,3 +1,4 @@
+* Update CODEOWNERS (#56803)
 
 Cataclysm-DDA experimental build 2022-04-14-0550 (6a35b49)
 * Cannons get their wheels on the sides (#56788)
@@ -116,7 +117,6 @@ Cataclysm-DDA experimental build 2022-04-06-0150 (cc4cd99)
 * Fix exclude functionality of compose.py (#56493)
 * [Innawood] Add bronze sickle (#56492)
 * Balance "cut_grass"/"remove_grass" constructions and grass cutting tools (#56491)
-* Subsonic 57 ammo (#56488)
 
 Cataclysm-DDA experimental build 2022-04-05-2055 (c1f4cf8)
 * Don't treat movement noises as provocative (#56616)
