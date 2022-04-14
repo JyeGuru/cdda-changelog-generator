@@ -122,8 +122,6 @@ Cataclysm-DDA experimental build 2022-04-06-0150 (cc4cd99)
 
 Cataclysm-DDA experimental build 2022-04-05-2055 (c1f4cf8)
 * Don't treat movement noises as provocative (#56616)
-
-Cataclysm-DDA experimental build 2022-04-05-0553 (aba61a8)
 * MOLLE attach no longer always refers to vests (#56594)
 * Fix waist CI error (#56578)
 * Add missing double space to NPC_ROBOFAC_INTERCOM (#56548)

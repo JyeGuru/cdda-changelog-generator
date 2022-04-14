@@ -188,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-04-05-2055 ([c1f4cf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-2055))
 
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-05-0553 ([aba61a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-0553))
-
 * MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
 * Fix waist CI error ([#56578](https://github.com/CleverRaven/Cataclysm-DDA/pull/56578))
 * Add missing double space to NPC_ROBOFAC_INTERCOM ([#56548](https://github.com/CleverRaven/Cataclysm-DDA/pull/56548))
