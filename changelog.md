@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-15-0104 ([06a7a60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0104))
+
+* Hallowen costumes ([#56517](https://github.com/CleverRaven/Cataclysm-DDA/pull/56517))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-14-2340 ([db0e2b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-14-2340))
 
 * Update security professions with new vests ([#56793](https://github.com/CleverRaven/Cataclysm-DDA/pull/56793))
@@ -186,12 +192,6 @@
 * Vehicle falls forever on skylight ([#56514](https://github.com/CleverRaven/Cataclysm-DDA/pull/56514))
 * Check more static translation calls and update message ([#56509](https://github.com/CleverRaven/Cataclysm-DDA/pull/56509))
 * Use meese as the correct plural form of moose ([#56508](https://github.com/CleverRaven/Cataclysm-DDA/pull/56508))
-* Add option to build the clang-tidy checks as an executable with CMake ([#56506](https://github.com/CleverRaven/Cataclysm-DDA/pull/56506))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-05-2055 ([c1f4cf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-05-2055))
-
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
 * MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
 * Fix waist CI error ([#56578](https://github.com/CleverRaven/Cataclysm-DDA/pull/56578))
