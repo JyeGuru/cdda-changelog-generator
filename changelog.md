@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-15-0500 ([045620c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0500))
+
+* Make Strict Humanitarian conflict with Cannibal and Psychopath ([#56762](https://github.com/CleverRaven/Cataclysm-DDA/pull/56762))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-15-0104 ([06a7a60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0104))
 
 * Hallowen costumes ([#56517](https://github.com/CleverRaven/Cataclysm-DDA/pull/56517))
@@ -191,7 +197,6 @@
 * tjking293-add-karambit-recipe-and-spawn-locations ([#56518](https://github.com/CleverRaven/Cataclysm-DDA/pull/56518))
 * Vehicle falls forever on skylight ([#56514](https://github.com/CleverRaven/Cataclysm-DDA/pull/56514))
 * Check more static translation calls and update message ([#56509](https://github.com/CleverRaven/Cataclysm-DDA/pull/56509))
-* Use meese as the correct plural form of moose ([#56508](https://github.com/CleverRaven/Cataclysm-DDA/pull/56508))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
 * MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
 * Fix waist CI error ([#56578](https://github.com/CleverRaven/Cataclysm-DDA/pull/56578))
