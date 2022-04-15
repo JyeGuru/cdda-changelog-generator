@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-15-1513 ([8af3a1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-1513))
+
+* Update manual of style with more rules ([#56754](https://github.com/CleverRaven/Cataclysm-DDA/pull/56754))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-15-0755 ([4a59e7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0755))
 
 * Lazy Lobster Casserole can also use hard cheese. ([#56810](https://github.com/CleverRaven/Cataclysm-DDA/pull/56810))
@@ -112,7 +118,6 @@
 * Vehicle parts can looks_like more types of stuff ([#56627](https://github.com/CleverRaven/Cataclysm-DDA/pull/56627))
 * Mouthguard and helmets rigid fixes ([#56626](https://github.com/CleverRaven/Cataclysm-DDA/pull/56626))
 * Fix flaming arrow duplication and infinite flames ([#56595](https://github.com/CleverRaven/Cataclysm-DDA/pull/56595))
-* Tacoma - Convert crop overseer field planting to json ([#56510](https://github.com/CleverRaven/Cataclysm-DDA/pull/56510))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-04-06-0505 ([6183c4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0505))
 
 * Add SHEATH_SPEAR to spear_rebar ([#56534](https://github.com/CleverRaven/Cataclysm-DDA/pull/56534))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-06-0254 ([d02e825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0254))
-
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * [CrazyCata] Flu shot fix, armory quest realism, labels the penultimate key ([#56521](https://github.com/CleverRaven/Cataclysm-DDA/pull/56521))
 * More repairs_like ([#56519](https://github.com/CleverRaven/Cataclysm-DDA/pull/56519))

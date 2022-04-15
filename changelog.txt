@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-15-1513 (8af3a1a)
+* Update manual of style with more rules (#56754)
+
 Cataclysm-DDA experimental build 2022-04-15-0755 (4a59e7d)
 * Lazy Lobster Casserole can also use hard cheese. (#56810)
 
@@ -67,7 +70,6 @@ Cataclysm-DDA experimental build 2022-04-09-0627 (b54ab40)
 * Vehicle parts can looks_like more types of stuff (#56627)
 * Mouthguard and helmets rigid fixes (#56626)
 * Fix flaming arrow duplication and infinite flames (#56595)
-* Tacoma - Convert crop overseer field planting to json (#56510)
 * Routine i18n updates on 09 April 2022 (#56685)
 
 Cataclysm-DDA experimental build 2022-04-08-0938 (a8f0168)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2022-04-06-0605 (fdbe06d)
 
 Cataclysm-DDA experimental build 2022-04-06-0505 (6183c4d)
 * Add SHEATH_SPEAR to spear_rebar (#56534)
-
-Cataclysm-DDA experimental build 2022-04-06-0254 (d02e825)
 * Fixes for clang issue that just got merged (#56599)
 * [CrazyCata] Flu shot fix, armory quest realism, labels the penultimate key (#56521)
 * More repairs_like (#56519)
