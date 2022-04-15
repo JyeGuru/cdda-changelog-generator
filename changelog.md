@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-15-0755 ([4a59e7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0755))
+
+* Lazy Lobster Casserole can also use hard cheese. ([#56810](https://github.com/CleverRaven/Cataclysm-DDA/pull/56810))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-15-0500 ([045620c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0500))
 
 * Make Strict Humanitarian conflict with Cannibal and Psychopath ([#56762](https://github.com/CleverRaven/Cataclysm-DDA/pull/56762))
@@ -187,16 +193,10 @@
 #### Cataclysm-DDA experimental build 2022-04-06-0254 ([d02e825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0254))
 
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-06-0150 ([cc4cd99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0150))
-
 * [CrazyCata] Flu shot fix, armory quest realism, labels the penultimate key ([#56521](https://github.com/CleverRaven/Cataclysm-DDA/pull/56521))
 * More repairs_like ([#56519](https://github.com/CleverRaven/Cataclysm-DDA/pull/56519))
 * tjking293-add-karambit-recipe-and-spawn-locations ([#56518](https://github.com/CleverRaven/Cataclysm-DDA/pull/56518))
 * Vehicle falls forever on skylight ([#56514](https://github.com/CleverRaven/Cataclysm-DDA/pull/56514))
-* Check more static translation calls and update message ([#56509](https://github.com/CleverRaven/Cataclysm-DDA/pull/56509))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
 * MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
 * Fix waist CI error ([#56578](https://github.com/CleverRaven/Cataclysm-DDA/pull/56578))
