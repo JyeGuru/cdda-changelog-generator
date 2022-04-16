@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-16-1527 ([89dce91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-1527))
+
 * Add missing comma to the sentences ([#56707](https://github.com/CleverRaven/Cataclysm-DDA/pull/56707))
 * Fix missing full stop in description ([#56698](https://github.com/CleverRaven/Cataclysm-DDA/pull/56698))
 * Capitalize 1 missed description on an item ([#56695](https://github.com/CleverRaven/Cataclysm-DDA/pull/56695))
@@ -164,11 +169,6 @@
 
 * Update Innawood scenario names ([#56589](https://github.com/CleverRaven/Cataclysm-DDA/pull/56589))
 * Fix error for non-default color settings ([#56610](https://github.com/CleverRaven/Cataclysm-DDA/pull/56610))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-06-1556 ([8c92c6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-1556))
-
 * Add missing parameter to debugmsg call ([#56625](https://github.com/CleverRaven/Cataclysm-DDA/pull/56625))
 * Add leather cordage ([#56543](https://github.com/CleverRaven/Cataclysm-DDA/pull/56543))
 * Fix octopus monster names case ([#56545](https://github.com/CleverRaven/Cataclysm-DDA/pull/56545))
