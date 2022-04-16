@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-16-0734 (692653b)
+* Denim Shorts and Jeans swapped cotton requirements (#56819)
+
 Cataclysm-DDA experimental build 2022-04-16-0623 (f4a46c4)
 * MA: Shaping the country (#56778)
 
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2022-04-06-0711 (ba9af2e)
 * Adjust `roof_6x6_survivor` chunk coordinates in `music_venue_1_roof` mapgen (#56612)
 * Monster factions: extend / delete / copy-from (#56596)
 * Add phones with cases to zombie death drops (#56592)
-
-Cataclysm-DDA experimental build 2022-04-06-0605 (fdbe06d)
 * Only use empty worlds when selecting "Play Now" (#56591)
 * MOLLE rigging → webbing (#56588)
 * Fix magiclysm belt coverages (#56587)

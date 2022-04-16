@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-16-0734 ([692653b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-0734))
+
+* Denim Shorts and Jeans swapped cotton requirements ([#56819](https://github.com/CleverRaven/Cataclysm-DDA/pull/56819))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-16-0623 ([f4a46c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-0623))
 
 * MA: Shaping the country ([#56778](https://github.com/CleverRaven/Cataclysm-DDA/pull/56778))
@@ -167,11 +173,6 @@
 * Adjust `roof_6x6_survivor` chunk coordinates in `music_venue_1_roof` mapgen ([#56612](https://github.com/CleverRaven/Cataclysm-DDA/pull/56612))
 * Monster factions: extend / delete / copy-from ([#56596](https://github.com/CleverRaven/Cataclysm-DDA/pull/56596))
 * Add phones with cases to zombie death drops ([#56592](https://github.com/CleverRaven/Cataclysm-DDA/pull/56592))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-06-0605 ([fdbe06d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0605))
-
 * Only use empty worlds when selecting "Play Now" ([#56591](https://github.com/CleverRaven/Cataclysm-DDA/pull/56591))
 * MOLLE rigging → webbing ([#56588](https://github.com/CleverRaven/Cataclysm-DDA/pull/56588))
 * Fix magiclysm belt coverages ([#56587](https://github.com/CleverRaven/Cataclysm-DDA/pull/56587))
