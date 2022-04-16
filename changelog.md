@@ -1,3 +1,12 @@
+* Knapping practice and book help ([#56643](https://github.com/CleverRaven/Cataclysm-DDA/pull/56643))
+* torvosaurus daspletosaurus ([#56821](https://github.com/CleverRaven/Cataclysm-DDA/pull/56821))
+* Ability to override armor breathability ([#56691](https://github.com/CleverRaven/Cataclysm-DDA/pull/56691))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-16-1426 ([b962869](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-1426))
+
+* Battery charging appliances ([#56604](https://github.com/CleverRaven/Cataclysm-DDA/pull/56604))
 
 ---
 
@@ -28,12 +37,6 @@
 #### Cataclysm-DDA experimental build 2022-04-15-0500 ([045620c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0500))
 
 * Make Strict Humanitarian conflict with Cannibal and Psychopath ([#56762](https://github.com/CleverRaven/Cataclysm-DDA/pull/56762))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-15-0104 ([06a7a60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0104))
-
-* Hallowen costumes ([#56517](https://github.com/CleverRaven/Cataclysm-DDA/pull/56517))
 
 ---
 
@@ -162,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-04-06-1556 ([8c92c6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-1556))
 
 * Add missing parameter to debugmsg call ([#56625](https://github.com/CleverRaven/Cataclysm-DDA/pull/56625))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-06-0711 ([ba9af2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0711))
-
 * Add leather cordage ([#56543](https://github.com/CleverRaven/Cataclysm-DDA/pull/56543))
 * Fix octopus monster names case ([#56545](https://github.com/CleverRaven/Cataclysm-DDA/pull/56545))
 * heavy duty → heavy-duty ([#56619](https://github.com/CleverRaven/Cataclysm-DDA/pull/56619))
@@ -197,8 +195,6 @@
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * [CrazyCata] Flu shot fix, armory quest realism, labels the penultimate key ([#56521](https://github.com/CleverRaven/Cataclysm-DDA/pull/56521))
 * More repairs_like ([#56519](https://github.com/CleverRaven/Cataclysm-DDA/pull/56519))
-* tjking293-add-karambit-recipe-and-spawn-locations ([#56518](https://github.com/CleverRaven/Cataclysm-DDA/pull/56518))
-* Vehicle falls forever on skylight ([#56514](https://github.com/CleverRaven/Cataclysm-DDA/pull/56514))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
 * MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
 * Fix waist CI error ([#56578](https://github.com/CleverRaven/Cataclysm-DDA/pull/56578))
@@ -209,4 +205,3 @@
 * Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
 * JSON formatter: show filename on empty input ([#56524](https://github.com/CleverRaven/Cataclysm-DDA/pull/56524))
 * Routine i18n updates on 02 April 2022 ([#56522](https://github.com/CleverRaven/Cataclysm-DDA/pull/56522))
-* tjking293-add-karambit ([#56515](https://github.com/CleverRaven/Cataclysm-DDA/pull/56515))
