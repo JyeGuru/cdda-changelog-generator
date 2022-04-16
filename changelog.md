@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-16-0623 ([f4a46c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-0623))
+
+* MA: Shaping the country ([#56778](https://github.com/CleverRaven/Cataclysm-DDA/pull/56778))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-15-1513 ([8af3a1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-1513))
 
 * Update manual of style with more rules ([#56754](https://github.com/CleverRaven/Cataclysm-DDA/pull/56754))
@@ -186,11 +192,6 @@
 * Fix Mr. Lapin becoming Smokes ([#56538](https://github.com/CleverRaven/Cataclysm-DDA/pull/56538))
 * ci: don't apply test labels if workflow was skipped ([#56536](https://github.com/CleverRaven/Cataclysm-DDA/pull/56536))
 * docs: TODOs report in readme ([#56535](https://github.com/CleverRaven/Cataclysm-DDA/pull/56535))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-06-0505 ([6183c4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-0505))
-
 * Add SHEATH_SPEAR to spear_rebar ([#56534](https://github.com/CleverRaven/Cataclysm-DDA/pull/56534))
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * [CrazyCata] Flu shot fix, armory quest realism, labels the penultimate key ([#56521](https://github.com/CleverRaven/Cataclysm-DDA/pull/56521))

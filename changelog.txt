@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-16-0623 (f4a46c4)
+* MA: Shaping the country (#56778)
+
 Cataclysm-DDA experimental build 2022-04-15-1513 (8af3a1a)
 * Update manual of style with more rules (#56754)
 
@@ -117,8 +120,6 @@ Cataclysm-DDA experimental build 2022-04-06-0605 (fdbe06d)
 * Fix Mr. Lapin becoming Smokes (#56538)
 * ci: don't apply test labels if workflow was skipped (#56536)
 * docs: TODOs report in readme (#56535)
-
-Cataclysm-DDA experimental build 2022-04-06-0505 (6183c4d)
 * Add SHEATH_SPEAR to spear_rebar (#56534)
 * Fixes for clang issue that just got merged (#56599)
 * [CrazyCata] Flu shot fix, armory quest realism, labels the penultimate key (#56521)
