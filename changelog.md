@@ -1,3 +1,16 @@
+* Fix wrong plural for `beach_volleyball` ([#56699](https://github.com/CleverRaven/Cataclysm-DDA/pull/56699))
+* Later → later ([#56690](https://github.com/CleverRaven/Cataclysm-DDA/pull/56690))
+* beebalm → bee balm ([#56710](https://github.com/CleverRaven/Cataclysm-DDA/pull/56710))
+* Remove full stop from "Cheers" ([#56841](https://github.com/CleverRaven/Cataclysm-DDA/pull/56841))
+* Remove "a" from `workbench_with_recharger` singular ([#56852](https://github.com/CleverRaven/Cataclysm-DDA/pull/56852))
+* Update the table of contents in doc/JSON_INFO.md ([#56808](https://github.com/CleverRaven/Cataclysm-DDA/pull/56808))
+* Routine i18n updates on 16 April 2022 ([#56834](https://github.com/CleverRaven/Cataclysm-DDA/pull/56834))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-16-1935 ([0737174](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-1935))
+
+* generic_factory: ordered init. of static globals ([#56836](https://github.com/CleverRaven/Cataclysm-DDA/pull/56836))
 
 ---
 
@@ -162,16 +175,9 @@
 #### Cataclysm-DDA experimental build 2022-04-07-0632 ([69830f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-07-0632))
 
 * Fix one missing Kevlar instance ([#56634](https://github.com/CleverRaven/Cataclysm-DDA/pull/56634))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-06-1656 ([610fb34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-06-1656))
-
 * Update Innawood scenario names ([#56589](https://github.com/CleverRaven/Cataclysm-DDA/pull/56589))
 * Fix error for non-default color settings ([#56610](https://github.com/CleverRaven/Cataclysm-DDA/pull/56610))
 * Add missing parameter to debugmsg call ([#56625](https://github.com/CleverRaven/Cataclysm-DDA/pull/56625))
-* Add leather cordage ([#56543](https://github.com/CleverRaven/Cataclysm-DDA/pull/56543))
-* Fix octopus monster names case ([#56545](https://github.com/CleverRaven/Cataclysm-DDA/pull/56545))
 * heavy duty → heavy-duty ([#56619](https://github.com/CleverRaven/Cataclysm-DDA/pull/56619))
 * Adjust `roof_6x6_survivor` chunk coordinates in `music_venue_1_roof` mapgen ([#56612](https://github.com/CleverRaven/Cataclysm-DDA/pull/56612))
 * Monster factions: extend / delete / copy-from ([#56596](https://github.com/CleverRaven/Cataclysm-DDA/pull/56596))
@@ -192,15 +198,10 @@
 * restaurant.json: add missing gutters ([#56618](https://github.com/CleverRaven/Cataclysm-DDA/pull/56618))
 * Proficiencies UI ([#56549](https://github.com/CleverRaven/Cataclysm-DDA/pull/56549))
 * Add keybind for debug_hour_timer ([#56547](https://github.com/CleverRaven/Cataclysm-DDA/pull/56547))
-* Add a comma after supermarket ([#56539](https://github.com/CleverRaven/Cataclysm-DDA/pull/56539))
-* Fix Mr. Lapin becoming Smokes ([#56538](https://github.com/CleverRaven/Cataclysm-DDA/pull/56538))
-* ci: don't apply test labels if workflow was skipped ([#56536](https://github.com/CleverRaven/Cataclysm-DDA/pull/56536))
-* docs: TODOs report in readme ([#56535](https://github.com/CleverRaven/Cataclysm-DDA/pull/56535))
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
 * MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
 * Fix waist CI error ([#56578](https://github.com/CleverRaven/Cataclysm-DDA/pull/56578))
 * Add missing double space to NPC_ROBOFAC_INTERCOM ([#56548](https://github.com/CleverRaven/Cataclysm-DDA/pull/56548))
-* Add directions signpost to exodii safehouses and some pods ([#56540](https://github.com/CleverRaven/Cataclysm-DDA/pull/56540))
 * Water strider description typo ([#56551](https://github.com/CleverRaven/Cataclysm-DDA/pull/56551))
 * Fix Rubik's anesthetic quest ([#56546](https://github.com/CleverRaven/Cataclysm-DDA/pull/56546))
