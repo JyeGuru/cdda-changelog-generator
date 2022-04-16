@@ -1,3 +1,4 @@
+* No Hope maintenance work ([#56850](https://github.com/CleverRaven/Cataclysm-DDA/pull/56850))
 
 ---
 
@@ -195,7 +196,6 @@
 * Fix magiclysm belt coverages ([#56587](https://github.com/CleverRaven/Cataclysm-DDA/pull/56587))
 * More rigid fixes ([#56581](https://github.com/CleverRaven/Cataclysm-DDA/pull/56581))
 * [DinoMod] struthiomimus and ornithomimus ([#56579](https://github.com/CleverRaven/Cataclysm-DDA/pull/56579))
-* Rephrase matches/lighter descriptions to read better ([#56570](https://github.com/CleverRaven/Cataclysm-DDA/pull/56570))
 * restaurant.json: add missing gutters ([#56618](https://github.com/CleverRaven/Cataclysm-DDA/pull/56618))
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))

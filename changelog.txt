@@ -1,3 +1,4 @@
+* No Hope maintenance work (#56850)
 
 Cataclysm-DDA experimental build 2022-04-16-2036 (a50a766)
 * Add missing biology proficiencies to Hazmat Unit and Illicit Fleshmender, give medical profs Burn Care (#56713)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2022-04-07-2143 (2dda6db)
 * Fix magiclysm belt coverages (#56587)
 * More rigid fixes (#56581)
 * [DinoMod] struthiomimus and ornithomimus (#56579)
-* Rephrase matches/lighter descriptions to read better (#56570)
 * restaurant.json: add missing gutters (#56618)
 * Fixes for clang issue that just got merged (#56599)
 * Don't treat movement noises as provocative (#56616)
