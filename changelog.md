@@ -196,7 +196,6 @@
 * Fix Mr. Lapin becoming Smokes ([#56538](https://github.com/CleverRaven/Cataclysm-DDA/pull/56538))
 * ci: don't apply test labels if workflow was skipped ([#56536](https://github.com/CleverRaven/Cataclysm-DDA/pull/56536))
 * docs: TODOs report in readme ([#56535](https://github.com/CleverRaven/Cataclysm-DDA/pull/56535))
-* Add SHEATH_SPEAR to spear_rebar ([#56534](https://github.com/CleverRaven/Cataclysm-DDA/pull/56534))
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
 * MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
@@ -205,4 +204,3 @@
 * Add directions signpost to exodii safehouses and some pods ([#56540](https://github.com/CleverRaven/Cataclysm-DDA/pull/56540))
 * Water strider description typo ([#56551](https://github.com/CleverRaven/Cataclysm-DDA/pull/56551))
 * Fix Rubik's anesthetic quest ([#56546](https://github.com/CleverRaven/Cataclysm-DDA/pull/56546))
-* Update Tilesets 2022-04-03 ([#56531](https://github.com/CleverRaven/Cataclysm-DDA/pull/56531))
