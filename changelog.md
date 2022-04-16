@@ -1,3 +1,4 @@
+* Cleanup oter static vars ([#56855](https://github.com/CleverRaven/Cataclysm-DDA/pull/56855))
 * No Hope maintenance work ([#56850](https://github.com/CleverRaven/Cataclysm-DDA/pull/56850))
 
 ---
@@ -95,7 +96,6 @@
 * aztlani → Aztlani ([#56711](https://github.com/CleverRaven/Cataclysm-DDA/pull/56711))
 * Crafting: fix tool ammo as component ([#56622](https://github.com/CleverRaven/Cataclysm-DDA/pull/56622))
 * [DinoMod] nest rework ([#56667](https://github.com/CleverRaven/Cataclysm-DDA/pull/56667))
-* TropiCata 0.7: Le Fungi Update ([#56572](https://github.com/CleverRaven/Cataclysm-DDA/pull/56572))
 * [DinoMod] dromaeosaurus and dino droppings ([#56744](https://github.com/CleverRaven/Cataclysm-DDA/pull/56744))
 * Survivor armor uses better materials, small adjustment to thickness ([#56659](https://github.com/CleverRaven/Cataclysm-DDA/pull/56659))
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))

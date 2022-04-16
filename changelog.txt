@@ -1,3 +1,4 @@
+* Cleanup oter static vars (#56855)
 * No Hope maintenance work (#56850)
 
 Cataclysm-DDA experimental build 2022-04-16-2036 (a50a766)
@@ -62,7 +63,6 @@ Cataclysm-DDA experimental build 2022-04-14-2138 (8e5d4aa)
 * aztlani → Aztlani (#56711)
 * Crafting: fix tool ammo as component (#56622)
 * [DinoMod] nest rework (#56667)
-* TropiCata 0.7: Le Fungi Update (#56572)
 * [DinoMod] dromaeosaurus and dino droppings (#56744)
 * Survivor armor uses better materials, small adjustment to thickness (#56659)
 * Update CODEOWNERS (#56803)
