@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-17-1629 ([b58a307](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-1629))
+
 * Unify pocket descriptions ([#56697](https://github.com/CleverRaven/Cataclysm-DDA/pull/56697))
 * Use full display name when selecting a vehicle part for installation ([#56687](https://github.com/CleverRaven/Cataclysm-DDA/pull/56687))
 
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-04-10-0547 ([9f9b09d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-10-0547))
 
 * discontinuity → Discontinuity ([#56715](https://github.com/CleverRaven/Cataclysm-DDA/pull/56715))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-09-0627 ([b54ab40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-09-0627))
-
 * Baseball Stadium ([#56681](https://github.com/CleverRaven/Cataclysm-DDA/pull/56681))
 * "Creatures" Lore Tab ([#56665](https://github.com/CleverRaven/Cataclysm-DDA/pull/56665))
 * [MMA] Weapon Categories: Setting Sun ([#56656](https://github.com/CleverRaven/Cataclysm-DDA/pull/56656))

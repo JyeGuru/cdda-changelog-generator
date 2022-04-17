@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-17-1629 (b58a307)
 * Unify pocket descriptions (#56697)
 * Use full display name when selecting a vehicle part for installation (#56687)
 
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2022-04-11-0010 (2cb06a4)
 
 Cataclysm-DDA experimental build 2022-04-10-0547 (9f9b09d)
 * discontinuity → Discontinuity (#56715)
-
-Cataclysm-DDA experimental build 2022-04-09-0627 (b54ab40)
 * Baseball Stadium (#56681)
 * "Creatures" Lore Tab (#56665)
 * [MMA] Weapon Categories: Setting Sun (#56656)
