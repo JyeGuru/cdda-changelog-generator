@@ -1,3 +1,11 @@
+* Unify pocket descriptions ([#56697](https://github.com/CleverRaven/Cataclysm-DDA/pull/56697))
+* Use full display name when selecting a vehicle part for installation ([#56687](https://github.com/CleverRaven/Cataclysm-DDA/pull/56687))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-17-1523 ([2ae0a94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-1523))
+
+* Fix insta-charging appliance batteries ([#56686](https://github.com/CleverRaven/Cataclysm-DDA/pull/56686))
 
 ---
 
@@ -200,8 +208,6 @@
 * Add phones with cases to zombie death drops ([#56592](https://github.com/CleverRaven/Cataclysm-DDA/pull/56592))
 * Only use empty worlds when selecting "Play Now" ([#56591](https://github.com/CleverRaven/Cataclysm-DDA/pull/56591))
 * MOLLE rigging → webbing ([#56588](https://github.com/CleverRaven/Cataclysm-DDA/pull/56588))
-* Fix magiclysm belt coverages ([#56587](https://github.com/CleverRaven/Cataclysm-DDA/pull/56587))
-* More rigid fixes ([#56581](https://github.com/CleverRaven/Cataclysm-DDA/pull/56581))
 * restaurant.json: add missing gutters ([#56618](https://github.com/CleverRaven/Cataclysm-DDA/pull/56618))
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))

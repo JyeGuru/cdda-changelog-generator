@@ -1,3 +1,8 @@
+* Unify pocket descriptions (#56697)
+* Use full display name when selecting a vehicle part for installation (#56687)
+
+Cataclysm-DDA experimental build 2022-04-17-1523 (2ae0a94)
+* Fix insta-charging appliance batteries (#56686)
 
 Cataclysm-DDA experimental build 2022-04-17-1317 (fdf796c)
 * Adjusted onyx jewlerry description to match other (#56869)
@@ -131,8 +136,6 @@ Cataclysm-DDA experimental build 2022-04-09-0627 (b54ab40)
 * Add phones with cases to zombie death drops (#56592)
 * Only use empty worlds when selecting "Play Now" (#56591)
 * MOLLE rigging → webbing (#56588)
-* Fix magiclysm belt coverages (#56587)
-* More rigid fixes (#56581)
 * restaurant.json: add missing gutters (#56618)
 * Fixes for clang issue that just got merged (#56599)
 * Don't treat movement noises as provocative (#56616)
