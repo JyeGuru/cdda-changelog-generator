@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-17-1317 (fdf796c)
+* Adjusted onyx jewlerry description to match other (#56869)
+
 Cataclysm-DDA experimental build 2022-04-17-0706 (e802591)
 * fix: extra dresser in duplex (#56825)
 
@@ -116,8 +119,6 @@ Cataclysm-DDA experimental build 2022-04-09-0627 (b54ab40)
 * Mouthguard and helmets rigid fixes (#56626)
 * Fix flaming arrow duplication and infinite flames (#56595)
 * Routine i18n updates on 09 April 2022 (#56685)
-
-Cataclysm-DDA experimental build 2022-04-08-0938 (a8f0168)
 * Fix double space in Aftershock item name (#56654)
 * Convert woodworking machines to appliances (#56628)
 * Fix one missing Kevlar instance (#56634)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2022-04-08-0938 (a8f0168)
 * MOLLE rigging → webbing (#56588)
 * Fix magiclysm belt coverages (#56587)
 * More rigid fixes (#56581)
-* [DinoMod] struthiomimus and ornithomimus (#56579)
 * restaurant.json: add missing gutters (#56618)
 * Fixes for clang issue that just got merged (#56599)
 * Don't treat movement noises as provocative (#56616)

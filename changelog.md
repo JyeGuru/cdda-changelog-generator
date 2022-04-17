@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-17-1317 ([fdf796c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-1317))
+
+* Adjusted onyx jewlerry description to match other ([#56869](https://github.com/CleverRaven/Cataclysm-DDA/pull/56869))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-17-0706 ([e802591](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-0706))
 
 * fix: extra dresser in duplex ([#56825](https://github.com/CleverRaven/Cataclysm-DDA/pull/56825))
@@ -182,11 +188,6 @@
 * Mouthguard and helmets rigid fixes ([#56626](https://github.com/CleverRaven/Cataclysm-DDA/pull/56626))
 * Fix flaming arrow duplication and infinite flames ([#56595](https://github.com/CleverRaven/Cataclysm-DDA/pull/56595))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-08-0938 ([a8f0168](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-08-0938))
-
 * Fix double space in Aftershock item name ([#56654](https://github.com/CleverRaven/Cataclysm-DDA/pull/56654))
 * Convert woodworking machines to appliances ([#56628](https://github.com/CleverRaven/Cataclysm-DDA/pull/56628))
 * Fix one missing Kevlar instance ([#56634](https://github.com/CleverRaven/Cataclysm-DDA/pull/56634))
@@ -201,7 +202,6 @@
 * MOLLE rigging → webbing ([#56588](https://github.com/CleverRaven/Cataclysm-DDA/pull/56588))
 * Fix magiclysm belt coverages ([#56587](https://github.com/CleverRaven/Cataclysm-DDA/pull/56587))
 * More rigid fixes ([#56581](https://github.com/CleverRaven/Cataclysm-DDA/pull/56581))
-* [DinoMod] struthiomimus and ornithomimus ([#56579](https://github.com/CleverRaven/Cataclysm-DDA/pull/56579))
 * restaurant.json: add missing gutters ([#56618](https://github.com/CleverRaven/Cataclysm-DDA/pull/56618))
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
