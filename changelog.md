@@ -1,3 +1,5 @@
+* Fallback fonts should use the first font that works, not the last ([#56722](https://github.com/CleverRaven/Cataclysm-DDA/pull/56722))
+* Minor fixes to fliers ([#56714](https://github.com/CleverRaven/Cataclysm-DDA/pull/56714))
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * [Innawoods] Ethanol and jacks ([#56796](https://github.com/CleverRaven/Cataclysm-DDA/pull/56796))
 * inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
@@ -144,7 +146,6 @@
 
 * Fixes for the SWAT classes ([#56757](https://github.com/CleverRaven/Cataclysm-DDA/pull/56757))
 * aztlani → Aztlani ([#56711](https://github.com/CleverRaven/Cataclysm-DDA/pull/56711))
-* Crafting: fix tool ammo as component ([#56622](https://github.com/CleverRaven/Cataclysm-DDA/pull/56622))
 * [DinoMod] nest rework ([#56667](https://github.com/CleverRaven/Cataclysm-DDA/pull/56667))
 * [DinoMod] dromaeosaurus and dino droppings ([#56744](https://github.com/CleverRaven/Cataclysm-DDA/pull/56744))
 * Survivor armor uses better materials, small adjustment to thickness ([#56659](https://github.com/CleverRaven/Cataclysm-DDA/pull/56659))
@@ -203,4 +204,3 @@
 * Fix double space in Aftershock item name ([#56654](https://github.com/CleverRaven/Cataclysm-DDA/pull/56654))
 * Convert woodworking machines to appliances ([#56628](https://github.com/CleverRaven/Cataclysm-DDA/pull/56628))
 * Fix one missing Kevlar instance ([#56634](https://github.com/CleverRaven/Cataclysm-DDA/pull/56634))
-* Add missing parameter to debugmsg call ([#56625](https://github.com/CleverRaven/Cataclysm-DDA/pull/56625))
