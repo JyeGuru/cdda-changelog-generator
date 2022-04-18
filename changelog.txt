@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-18-2237 (8fa8088)
 * Cap the duration of the forge of wonders' anti-invisibility effect (#56900)
 
 Cataclysm-DDA experimental build 2022-04-18-2136 (4240dc0)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2022-04-14-0550 (6a35b49)
 
 Cataclysm-DDA experimental build 2022-04-13-0549 (a1cea1e)
 * Update help to match new layers (#56729)
-
-Cataclysm-DDA experimental build 2022-04-12-0728 (2b38de5)
 * Minor fixes to NPC classes (#56708)
 * Add damage and charge randomization to reenactor loot (#56717)
 * bronze horse armor (#56660)
