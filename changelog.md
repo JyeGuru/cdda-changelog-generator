@@ -199,7 +199,6 @@
 * Fix double space in Aftershock item name ([#56654](https://github.com/CleverRaven/Cataclysm-DDA/pull/56654))
 * Convert woodworking machines to appliances ([#56628](https://github.com/CleverRaven/Cataclysm-DDA/pull/56628))
 * Fix one missing Kevlar instance ([#56634](https://github.com/CleverRaven/Cataclysm-DDA/pull/56634))
-* Fix error for non-default color settings ([#56610](https://github.com/CleverRaven/Cataclysm-DDA/pull/56610))
 * Add missing parameter to debugmsg call ([#56625](https://github.com/CleverRaven/Cataclysm-DDA/pull/56625))
 * heavy duty → heavy-duty ([#56619](https://github.com/CleverRaven/Cataclysm-DDA/pull/56619))
 * Adjust `roof_6x6_survivor` chunk coordinates in `music_venue_1_roof` mapgen ([#56612](https://github.com/CleverRaven/Cataclysm-DDA/pull/56612))
