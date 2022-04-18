@@ -1,5 +1,6 @@
+* Tropicataclysm and additional labels (#56719)
+* Allow examining furniture to convert to appliances (#56807)
 * Random encounter 1 (#56629)
-* Dissection separation and an increase in sample availability (#56608)
 * Description updates for Hub 01 armor and hybrid weapons platform (#56641)
 * Dragon skin vest update (#56773)
 
@@ -61,9 +62,6 @@ Cataclysm-DDA experimental build 2022-04-16-1527 (89dce91)
 * Knapping practice and book help (#56643)
 * torvosaurus daspletosaurus (#56821)
 * Ability to override armor breathability (#56691)
-
-Cataclysm-DDA experimental build 2022-04-16-1426 (b962869)
-* Battery charging appliances (#56604)
 
 Cataclysm-DDA experimental build 2022-04-16-0734 (692653b)
 * Denim Shorts and Jeans swapped cotton requirements (#56819)
@@ -137,5 +135,4 @@ Cataclysm-DDA experimental build 2022-04-11-0110 (666fb27)
 * heavy duty → heavy-duty (#56619)
 * Adjust `roof_6x6_survivor` chunk coordinates in `music_venue_1_roof` mapgen (#56612)
 * restaurant.json: add missing gutters (#56618)
-* Fixes for clang issue that just got merged (#56599)
 * Don't treat movement noises as provocative (#56616)

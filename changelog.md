@@ -1,5 +1,6 @@
+* Tropicataclysm and additional labels ([#56719](https://github.com/CleverRaven/Cataclysm-DDA/pull/56719))
+* Allow examining furniture to convert to appliances ([#56807](https://github.com/CleverRaven/Cataclysm-DDA/pull/56807))
 * Random encounter 1 ([#56629](https://github.com/CleverRaven/Cataclysm-DDA/pull/56629))
-* Dissection separation and an increase in sample availability ([#56608](https://github.com/CleverRaven/Cataclysm-DDA/pull/56608))
 * Description updates for Hub 01 armor and hybrid weapons platform ([#56641](https://github.com/CleverRaven/Cataclysm-DDA/pull/56641))
 * Dragon skin vest update ([#56773](https://github.com/CleverRaven/Cataclysm-DDA/pull/56773))
 
@@ -91,12 +92,6 @@
 * Knapping practice and book help ([#56643](https://github.com/CleverRaven/Cataclysm-DDA/pull/56643))
 * torvosaurus daspletosaurus ([#56821](https://github.com/CleverRaven/Cataclysm-DDA/pull/56821))
 * Ability to override armor breathability ([#56691](https://github.com/CleverRaven/Cataclysm-DDA/pull/56691))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-16-1426 ([b962869](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-1426))
-
-* Battery charging appliances ([#56604](https://github.com/CleverRaven/Cataclysm-DDA/pull/56604))
 
 ---
 
@@ -209,5 +204,4 @@
 * heavy duty → heavy-duty ([#56619](https://github.com/CleverRaven/Cataclysm-DDA/pull/56619))
 * Adjust `roof_6x6_survivor` chunk coordinates in `music_venue_1_roof` mapgen ([#56612](https://github.com/CleverRaven/Cataclysm-DDA/pull/56612))
 * restaurant.json: add missing gutters ([#56618](https://github.com/CleverRaven/Cataclysm-DDA/pull/56618))
-* Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
