@@ -1,3 +1,13 @@
+* Random encounter 1 ([#56629](https://github.com/CleverRaven/Cataclysm-DDA/pull/56629))
+* Dissection separation and an increase in sample availability ([#56608](https://github.com/CleverRaven/Cataclysm-DDA/pull/56608))
+* Description updates for Hub 01 armor and hybrid weapons platform ([#56641](https://github.com/CleverRaven/Cataclysm-DDA/pull/56641))
+* Dragon skin vest update ([#56773](https://github.com/CleverRaven/Cataclysm-DDA/pull/56773))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-18-1633 ([efc8ef5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-1633))
+
+* Unifies grammar for morale types ([#56761](https://github.com/CleverRaven/Cataclysm-DDA/pull/56761))
 
 ---
 
@@ -176,11 +186,6 @@
 * Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))
 * Fix minor proficiency typos ([#56709](https://github.com/CleverRaven/Cataclysm-DDA/pull/56709))
 * dummys → dummies ([#56733](https://github.com/CleverRaven/Cataclysm-DDA/pull/56733))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-11-0010 ([2cb06a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-11-0010))
-
 * fix: bugout bags error ([#56743](https://github.com/CleverRaven/Cataclysm-DDA/pull/56743))
 * discontinuity → Discontinuity ([#56715](https://github.com/CleverRaven/Cataclysm-DDA/pull/56715))
 * Baseball Stadium ([#56681](https://github.com/CleverRaven/Cataclysm-DDA/pull/56681))
@@ -195,7 +200,6 @@
 * Merch → merch ([#56631](https://github.com/CleverRaven/Cataclysm-DDA/pull/56631))
 * Vehicle parts can looks_like more types of stuff ([#56627](https://github.com/CleverRaven/Cataclysm-DDA/pull/56627))
 * Mouthguard and helmets rigid fixes ([#56626](https://github.com/CleverRaven/Cataclysm-DDA/pull/56626))
-* Fix flaming arrow duplication and infinite flames ([#56595](https://github.com/CleverRaven/Cataclysm-DDA/pull/56595))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
 * Fix double space in Aftershock item name ([#56654](https://github.com/CleverRaven/Cataclysm-DDA/pull/56654))
 * Convert woodworking machines to appliances ([#56628](https://github.com/CleverRaven/Cataclysm-DDA/pull/56628))
@@ -204,10 +208,6 @@
 * Add missing parameter to debugmsg call ([#56625](https://github.com/CleverRaven/Cataclysm-DDA/pull/56625))
 * heavy duty → heavy-duty ([#56619](https://github.com/CleverRaven/Cataclysm-DDA/pull/56619))
 * Adjust `roof_6x6_survivor` chunk coordinates in `music_venue_1_roof` mapgen ([#56612](https://github.com/CleverRaven/Cataclysm-DDA/pull/56612))
-* Monster factions: extend / delete / copy-from ([#56596](https://github.com/CleverRaven/Cataclysm-DDA/pull/56596))
-* Add phones with cases to zombie death drops ([#56592](https://github.com/CleverRaven/Cataclysm-DDA/pull/56592))
-* Only use empty worlds when selecting "Play Now" ([#56591](https://github.com/CleverRaven/Cataclysm-DDA/pull/56591))
 * restaurant.json: add missing gutters ([#56618](https://github.com/CleverRaven/Cataclysm-DDA/pull/56618))
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
-* MOLLE attach no longer always refers to vests ([#56594](https://github.com/CleverRaven/Cataclysm-DDA/pull/56594))
