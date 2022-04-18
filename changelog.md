@@ -1,3 +1,9 @@
+* Stop NPCs throwing guns, allow throwing non-wielded items. ([#56746](https://github.com/CleverRaven/Cataclysm-DDA/pull/56746))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-18-2018 ([529fb0f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-2018))
+
 * Fix Amphibious Truck ([#56739](https://github.com/CleverRaven/Cataclysm-DDA/pull/56739))
 * Update metalworking tongs recipe to not produce more steel than put in ([#56735](https://github.com/CleverRaven/Cataclysm-DDA/pull/56735))
 * Fallback fonts should use the first font that works, not the last ([#56722](https://github.com/CleverRaven/Cataclysm-DDA/pull/56722))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-04-11-0608 ([5fe200b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-11-0608))
 
 * Add damage and charge randomization to reenactor loot ([#56717](https://github.com/CleverRaven/Cataclysm-DDA/pull/56717))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-11-0341 ([96935e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-11-0341))
-
 * bronze horse armor ([#56660](https://github.com/CleverRaven/Cataclysm-DDA/pull/56660))
 * [DinoMod] dryptosaurus ([#56649](https://github.com/CleverRaven/Cataclysm-DDA/pull/56649))
 * Transition nutrition to kcal for good ([#56728](https://github.com/CleverRaven/Cataclysm-DDA/pull/56728))
@@ -202,5 +203,4 @@
 * Merch → merch ([#56631](https://github.com/CleverRaven/Cataclysm-DDA/pull/56631))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
 * Fix double space in Aftershock item name ([#56654](https://github.com/CleverRaven/Cataclysm-DDA/pull/56654))
-* Convert woodworking machines to appliances ([#56628](https://github.com/CleverRaven/Cataclysm-DDA/pull/56628))
 * Fix one missing Kevlar instance ([#56634](https://github.com/CleverRaven/Cataclysm-DDA/pull/56634))
