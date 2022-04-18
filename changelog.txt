@@ -1,3 +1,6 @@
+* Cap the duration of the forge of wonders' anti-invisibility effect (#56900)
+
+Cataclysm-DDA experimental build 2022-04-18-2136 (4240dc0)
 * Stop NPCs throwing guns, allow throwing non-wielded items. (#56746)
 
 Cataclysm-DDA experimental build 2022-04-18-2018 (529fb0f)
@@ -13,7 +16,6 @@ Cataclysm-DDA experimental build 2022-04-18-2018 (529fb0f)
 
 Cataclysm-DDA experimental build 2022-04-18-1757 (6b6bf37)
 * Allow examining furniture to convert to appliances (#56807)
-* Random encounter 1 (#56629)
 * Description updates for Hub 01 armor and hybrid weapons platform (#56641)
 * Dragon skin vest update (#56773)
 
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2022-04-13-0549 (a1cea1e)
 
 Cataclysm-DDA experimental build 2022-04-12-0728 (2b38de5)
 * Minor fixes to NPC classes (#56708)
-
-Cataclysm-DDA experimental build 2022-04-11-0608 (5fe200b)
 * Add damage and charge randomization to reenactor loot (#56717)
 * bronze horse armor (#56660)
 * [DinoMod] dryptosaurus (#56649)

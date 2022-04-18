@@ -1,3 +1,9 @@
+* Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-18-2136 ([4240dc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-2136))
+
 * Stop NPCs throwing guns, allow throwing non-wielded items. ([#56746](https://github.com/CleverRaven/Cataclysm-DDA/pull/56746))
 
 ---
@@ -19,7 +25,6 @@
 #### Cataclysm-DDA experimental build 2022-04-18-1757 ([6b6bf37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-1757))
 
 * Allow examining furniture to convert to appliances ([#56807](https://github.com/CleverRaven/Cataclysm-DDA/pull/56807))
-* Random encounter 1 ([#56629](https://github.com/CleverRaven/Cataclysm-DDA/pull/56629))
 * Description updates for Hub 01 armor and hybrid weapons platform ([#56641](https://github.com/CleverRaven/Cataclysm-DDA/pull/56641))
 * Dragon skin vest update ([#56773](https://github.com/CleverRaven/Cataclysm-DDA/pull/56773))
 
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-04-12-0728 ([2b38de5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-12-0728))
 
 * Minor fixes to NPC classes ([#56708](https://github.com/CleverRaven/Cataclysm-DDA/pull/56708))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-11-0608 ([5fe200b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-11-0608))
-
 * Add damage and charge randomization to reenactor loot ([#56717](https://github.com/CleverRaven/Cataclysm-DDA/pull/56717))
 * bronze horse armor ([#56660](https://github.com/CleverRaven/Cataclysm-DDA/pull/56660))
 * [DinoMod] dryptosaurus ([#56649](https://github.com/CleverRaven/Cataclysm-DDA/pull/56649))
