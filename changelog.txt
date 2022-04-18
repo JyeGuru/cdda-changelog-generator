@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2022-04-14-2138 (8e5d4aa)
 
 Cataclysm-DDA experimental build 2022-04-14-0550 (6a35b49)
 * Cannons get their wheels on the sides (#56788)
-
-Cataclysm-DDA experimental build 2022-04-13-0549 (a1cea1e)
 * Update help to match new layers (#56729)
 * Minor fixes to NPC classes (#56708)
 * Add damage and charge randomization to reenactor loot (#56717)
