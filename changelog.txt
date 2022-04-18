@@ -1,4 +1,6 @@
 * Tropicataclysm and additional labels (#56719)
+
+Cataclysm-DDA experimental build 2022-04-18-1757 (6b6bf37)
 * Allow examining furniture to convert to appliances (#56807)
 * Random encounter 1 (#56629)
 * Description updates for Hub 01 armor and hybrid weapons platform (#56641)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2022-04-11-0608 (5fe200b)
 Cataclysm-DDA experimental build 2022-04-11-0341 (96935e9)
 * bronze horse armor (#56660)
 * [DinoMod] dryptosaurus (#56649)
-
-Cataclysm-DDA experimental build 2022-04-11-0110 (666fb27)
 * Transition nutrition to kcal for good (#56728)
 * Rename "You adopts" to "%s adopts" (#56734)
 * Fix large amount of toilet water spawning in washrooms (#56736)

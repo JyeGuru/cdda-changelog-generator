@@ -1,4 +1,9 @@
 * Tropicataclysm and additional labels ([#56719](https://github.com/CleverRaven/Cataclysm-DDA/pull/56719))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-18-1757 ([6b6bf37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-1757))
+
 * Allow examining furniture to convert to appliances ([#56807](https://github.com/CleverRaven/Cataclysm-DDA/pull/56807))
 * Random encounter 1 ([#56629](https://github.com/CleverRaven/Cataclysm-DDA/pull/56629))
 * Description updates for Hub 01 armor and hybrid weapons platform ([#56641](https://github.com/CleverRaven/Cataclysm-DDA/pull/56641))
@@ -171,11 +176,6 @@
 
 * bronze horse armor ([#56660](https://github.com/CleverRaven/Cataclysm-DDA/pull/56660))
 * [DinoMod] dryptosaurus ([#56649](https://github.com/CleverRaven/Cataclysm-DDA/pull/56649))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-11-0110 ([666fb27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-11-0110))
-
 * Transition nutrition to kcal for good ([#56728](https://github.com/CleverRaven/Cataclysm-DDA/pull/56728))
 * Rename "You adopts" to "%s adopts" ([#56734](https://github.com/CleverRaven/Cataclysm-DDA/pull/56734))
 * Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))
