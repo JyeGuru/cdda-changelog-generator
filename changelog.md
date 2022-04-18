@@ -1,3 +1,5 @@
+* Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
+* [Innawoods] Ethanol and jacks ([#56796](https://github.com/CleverRaven/Cataclysm-DDA/pull/56796))
 * inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
 * TropiCata: regional weather and climate rebalances ([#56890](https://github.com/CleverRaven/Cataclysm-DDA/pull/56890))
 * Tropicataclysm and additional labels ([#56719](https://github.com/CleverRaven/Cataclysm-DDA/pull/56719))
@@ -202,5 +204,3 @@
 * Convert woodworking machines to appliances ([#56628](https://github.com/CleverRaven/Cataclysm-DDA/pull/56628))
 * Fix one missing Kevlar instance ([#56634](https://github.com/CleverRaven/Cataclysm-DDA/pull/56634))
 * Add missing parameter to debugmsg call ([#56625](https://github.com/CleverRaven/Cataclysm-DDA/pull/56625))
-* heavy duty → heavy-duty ([#56619](https://github.com/CleverRaven/Cataclysm-DDA/pull/56619))
-* restaurant.json: add missing gutters ([#56618](https://github.com/CleverRaven/Cataclysm-DDA/pull/56618))
