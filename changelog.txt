@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-18-0551 (6bf9189)
+* fix: minor hub mapgen edits (#56857)
+
 Cataclysm-DDA experimental build 2022-04-17-1629 (b58a307)
 * Unify pocket descriptions (#56697)
 * Use full display name when selecting a vehicle part for installation (#56687)
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2022-04-11-0110 (666fb27)
 
 Cataclysm-DDA experimental build 2022-04-11-0010 (2cb06a4)
 * fix: bugout bags error (#56743)
-
-Cataclysm-DDA experimental build 2022-04-10-0547 (9f9b09d)
 * discontinuity → Discontinuity (#56715)
 * Baseball Stadium (#56681)
 * "Creatures" Lore Tab (#56665)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2022-04-10-0547 (9f9b09d)
 * Monster factions: extend / delete / copy-from (#56596)
 * Add phones with cases to zombie death drops (#56592)
 * Only use empty worlds when selecting "Play Now" (#56591)
-* MOLLE rigging → webbing (#56588)
 * restaurant.json: add missing gutters (#56618)
 * Fixes for clang issue that just got merged (#56599)
 * Don't treat movement noises as provocative (#56616)

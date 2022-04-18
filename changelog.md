@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-18-0551 ([6bf9189](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-0551))
+
+* fix: minor hub mapgen edits ([#56857](https://github.com/CleverRaven/Cataclysm-DDA/pull/56857))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-17-1629 ([b58a307](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-1629))
 
 * Unify pocket descriptions ([#56697](https://github.com/CleverRaven/Cataclysm-DDA/pull/56697))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-04-11-0010 ([2cb06a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-11-0010))
 
 * fix: bugout bags error ([#56743](https://github.com/CleverRaven/Cataclysm-DDA/pull/56743))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-10-0547 ([9f9b09d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-10-0547))
-
 * discontinuity → Discontinuity ([#56715](https://github.com/CleverRaven/Cataclysm-DDA/pull/56715))
 * Baseball Stadium ([#56681](https://github.com/CleverRaven/Cataclysm-DDA/pull/56681))
 * "Creatures" Lore Tab ([#56665](https://github.com/CleverRaven/Cataclysm-DDA/pull/56665))
@@ -207,7 +208,6 @@
 * Monster factions: extend / delete / copy-from ([#56596](https://github.com/CleverRaven/Cataclysm-DDA/pull/56596))
 * Add phones with cases to zombie death drops ([#56592](https://github.com/CleverRaven/Cataclysm-DDA/pull/56592))
 * Only use empty worlds when selecting "Play Now" ([#56591](https://github.com/CleverRaven/Cataclysm-DDA/pull/56591))
-* MOLLE rigging → webbing ([#56588](https://github.com/CleverRaven/Cataclysm-DDA/pull/56588))
 * restaurant.json: add missing gutters ([#56618](https://github.com/CleverRaven/Cataclysm-DDA/pull/56618))
 * Fixes for clang issue that just got merged ([#56599](https://github.com/CleverRaven/Cataclysm-DDA/pull/56599))
 * Don't treat movement noises as provocative ([#56616](https://github.com/CleverRaven/Cataclysm-DDA/pull/56616))
