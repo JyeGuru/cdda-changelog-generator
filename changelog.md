@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-19-0750 ([e9e4d30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0750))
+
 * Add a missing full stop to one of Rubik's translated dialogs ([#56860](https://github.com/CleverRaven/Cataclysm-DDA/pull/56860))
 * Add exception of US English for dialogs in manual of style ([#56854](https://github.com/CleverRaven/Cataclysm-DDA/pull/56854))
 
