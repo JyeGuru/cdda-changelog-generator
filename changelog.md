@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-19-0505 ([e6c6b87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0505))
+
+* Add a closing quote mark ([#56883](https://github.com/CleverRaven/Cataclysm-DDA/pull/56883))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-19-0230 ([897795a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0230))
 
 * Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-04-14-2340 ([db0e2b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-14-2340))
 
 * Update security professions with new vests ([#56793](https://github.com/CleverRaven/Cataclysm-DDA/pull/56793))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-14-2138 ([8e5d4aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-14-2138))
-
 * Fixes for the SWAT classes ([#56757](https://github.com/CleverRaven/Cataclysm-DDA/pull/56757))
 * aztlani → Aztlani ([#56711](https://github.com/CleverRaven/Cataclysm-DDA/pull/56711))
 * [DinoMod] nest rework ([#56667](https://github.com/CleverRaven/Cataclysm-DDA/pull/56667))
@@ -191,7 +192,6 @@
 * Minor fixes to NPC classes ([#56708](https://github.com/CleverRaven/Cataclysm-DDA/pull/56708))
 * Add damage and charge randomization to reenactor loot ([#56717](https://github.com/CleverRaven/Cataclysm-DDA/pull/56717))
 * bronze horse armor ([#56660](https://github.com/CleverRaven/Cataclysm-DDA/pull/56660))
-* [DinoMod] dryptosaurus ([#56649](https://github.com/CleverRaven/Cataclysm-DDA/pull/56649))
 * Transition nutrition to kcal for good ([#56728](https://github.com/CleverRaven/Cataclysm-DDA/pull/56728))
 * Rename "You adopts" to "%s adopts" ([#56734](https://github.com/CleverRaven/Cataclysm-DDA/pull/56734))
 * Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))

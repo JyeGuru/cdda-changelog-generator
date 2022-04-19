@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-19-0505 (e6c6b87)
+* Add a closing quote mark (#56883)
+
 Cataclysm-DDA experimental build 2022-04-19-0230 (897795a)
 * Misc fixes to MA mod (2022-04-18) (#56895)
 * Improve display of the crafting screen header on narrow windows (#56822)
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2022-04-15-0500 (045620c)
 
 Cataclysm-DDA experimental build 2022-04-14-2340 (db0e2b0)
 * Update security professions with new vests (#56793)
-
-Cataclysm-DDA experimental build 2022-04-14-2138 (8e5d4aa)
 * Fixes for the SWAT classes (#56757)
 * aztlani → Aztlani (#56711)
 * [DinoMod] nest rework (#56667)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2022-04-14-2138 (8e5d4aa)
 * Minor fixes to NPC classes (#56708)
 * Add damage and charge randomization to reenactor loot (#56717)
 * bronze horse armor (#56660)
-* [DinoMod] dryptosaurus (#56649)
 * Transition nutrition to kcal for good (#56728)
 * Rename "You adopts" to "%s adopts" (#56734)
 * Fix large amount of toilet water spawning in washrooms (#56736)
