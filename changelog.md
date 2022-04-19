@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-19-0650 ([5552c18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0650))
+
 * Unequip armor transformed into non-armor ([#56892](https://github.com/CleverRaven/Cataclysm-DDA/pull/56892))
 
 ---
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-04-15-0500 ([045620c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0500))
 
 * Make Strict Humanitarian conflict with Cannibal and Psychopath ([#56762](https://github.com/CleverRaven/Cataclysm-DDA/pull/56762))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-14-2340 ([db0e2b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-14-2340))
-
 * Update security professions with new vests ([#56793](https://github.com/CleverRaven/Cataclysm-DDA/pull/56793))
 * Fixes for the SWAT classes ([#56757](https://github.com/CleverRaven/Cataclysm-DDA/pull/56757))
 * aztlani → Aztlani ([#56711](https://github.com/CleverRaven/Cataclysm-DDA/pull/56711))

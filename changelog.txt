@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-19-0650 (5552c18)
 * Unequip armor transformed into non-armor (#56892)
 
 Cataclysm-DDA experimental build 2022-04-19-0549 (0999815)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2022-04-15-0755 (4a59e7d)
 
 Cataclysm-DDA experimental build 2022-04-15-0500 (045620c)
 * Make Strict Humanitarian conflict with Cannibal and Psychopath (#56762)
-
-Cataclysm-DDA experimental build 2022-04-14-2340 (db0e2b0)
 * Update security professions with new vests (#56793)
 * Fixes for the SWAT classes (#56757)
 * aztlani → Aztlani (#56711)
