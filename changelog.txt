@@ -1,3 +1,5 @@
+* Add a missing full stop to one of Rubik's translated dialogs (#56860)
+* Add exception of US English for dialogs in manual of style (#56854)
 
 Cataclysm-DDA experimental build 2022-04-19-0650 (5552c18)
 * Unequip armor transformed into non-armor (#56892)
@@ -136,6 +138,4 @@ Cataclysm-DDA experimental build 2022-04-15-0500 (045620c)
 * discontinuity → Discontinuity (#56715)
 * Baseball Stadium (#56681)
 * "Creatures" Lore Tab (#56665)
-* [MMA] Weapon Categories: Setting Sun (#56656)
-* Check for attachable subpockets first when holstering (#56655)
 * Routine i18n updates on 09 April 2022 (#56685)
