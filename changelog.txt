@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-19-1450 (ee59875)
+* savegame: migrate addiction variants (#56915)
+
 Cataclysm-DDA experimental build 2022-04-19-0750 (e9e4d30)
 * Add a missing full stop to one of Rubik's translated dialogs (#56860)
 * Add exception of US English for dialogs in manual of style (#56854)
@@ -124,7 +127,6 @@ Cataclysm-DDA experimental build 2022-04-15-0500 (045620c)
 * aztlani → Aztlani (#56711)
 * [DinoMod] nest rework (#56667)
 * [DinoMod] dromaeosaurus and dino droppings (#56744)
-* Survivor armor uses better materials, small adjustment to thickness (#56659)
 * Update CODEOWNERS (#56803)
 * Cannons get their wheels on the sides (#56788)
 * Update help to match new layers (#56729)
