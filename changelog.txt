@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-19-1752 (3ad05f9)
+* Fix compile error in experimental release on macOS (#56918)
+
 Cataclysm-DDA experimental build 2022-04-19-1450 (ee59875)
 * savegame: migrate addiction variants (#56915)
 
@@ -119,8 +122,6 @@ Cataclysm-DDA experimental build 2022-04-15-1513 (8af3a1a)
 
 Cataclysm-DDA experimental build 2022-04-15-0755 (4a59e7d)
 * Lazy Lobster Casserole can also use hard cheese. (#56810)
-
-Cataclysm-DDA experimental build 2022-04-15-0500 (045620c)
 * Make Strict Humanitarian conflict with Cannibal and Psychopath (#56762)
 * Update security professions with new vests (#56793)
 * Fixes for the SWAT classes (#56757)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2022-04-15-0500 (045620c)
 * Update help to match new layers (#56729)
 * Minor fixes to NPC classes (#56708)
 * Add damage and charge randomization to reenactor loot (#56717)
-* bronze horse armor (#56660)
 * Transition nutrition to kcal for good (#56728)
 * Rename "You adopts" to "%s adopts" (#56734)
 * Fix large amount of toilet water spawning in washrooms (#56736)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-19-1752 ([3ad05f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-1752))
+
+* Fix compile error in experimental release on macOS ([#56918](https://github.com/CleverRaven/Cataclysm-DDA/pull/56918))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-19-1450 ([ee59875](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-1450))
 
 * savegame: migrate addiction variants ([#56915](https://github.com/CleverRaven/Cataclysm-DDA/pull/56915))
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2022-04-15-0755 ([4a59e7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0755))
 
 * Lazy Lobster Casserole can also use hard cheese. ([#56810](https://github.com/CleverRaven/Cataclysm-DDA/pull/56810))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-15-0500 ([045620c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-0500))
-
 * Make Strict Humanitarian conflict with Cannibal and Psychopath ([#56762](https://github.com/CleverRaven/Cataclysm-DDA/pull/56762))
 * Update security professions with new vests ([#56793](https://github.com/CleverRaven/Cataclysm-DDA/pull/56793))
 * Fixes for the SWAT classes ([#56757](https://github.com/CleverRaven/Cataclysm-DDA/pull/56757))
@@ -210,7 +211,6 @@
 * Update help to match new layers ([#56729](https://github.com/CleverRaven/Cataclysm-DDA/pull/56729))
 * Minor fixes to NPC classes ([#56708](https://github.com/CleverRaven/Cataclysm-DDA/pull/56708))
 * Add damage and charge randomization to reenactor loot ([#56717](https://github.com/CleverRaven/Cataclysm-DDA/pull/56717))
-* bronze horse armor ([#56660](https://github.com/CleverRaven/Cataclysm-DDA/pull/56660))
 * Transition nutrition to kcal for good ([#56728](https://github.com/CleverRaven/Cataclysm-DDA/pull/56728))
 * Rename "You adopts" to "%s adopts" ([#56734](https://github.com/CleverRaven/Cataclysm-DDA/pull/56734))
 * Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))
