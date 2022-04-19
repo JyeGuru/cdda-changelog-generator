@@ -204,7 +204,6 @@
 * Update security professions with new vests ([#56793](https://github.com/CleverRaven/Cataclysm-DDA/pull/56793))
 * Fixes for the SWAT classes ([#56757](https://github.com/CleverRaven/Cataclysm-DDA/pull/56757))
 * aztlani → Aztlani ([#56711](https://github.com/CleverRaven/Cataclysm-DDA/pull/56711))
-* [DinoMod] nest rework ([#56667](https://github.com/CleverRaven/Cataclysm-DDA/pull/56667))
 * [DinoMod] dromaeosaurus and dino droppings ([#56744](https://github.com/CleverRaven/Cataclysm-DDA/pull/56744))
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
 * Cannons get their wheels on the sides ([#56788](https://github.com/CleverRaven/Cataclysm-DDA/pull/56788))
