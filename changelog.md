@@ -1,6 +1,27 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-19-0230 ([897795a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0230))
+
+* Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
+* Improve display of the crafting screen header on narrow windows ([#56822](https://github.com/CleverRaven/Cataclysm-DDA/pull/56822))
+* [DinoMod] dino weak point proficiencies ([#56865](https://github.com/CleverRaven/Cataclysm-DDA/pull/56865))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-19-0150 ([76005ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0150))
+
+* Fix Nursebot's assistance being overpowered ([#56809](https://github.com/CleverRaven/Cataclysm-DDA/pull/56809))
+* Bleeding messages now vary based on body part and intensity, changes message shown when applying pressure ([#56791](https://github.com/CleverRaven/Cataclysm-DDA/pull/56791))
+* JSONify addictions ([#56786](https://github.com/CleverRaven/Cataclysm-DDA/pull/56786))
+* inv_col: fix ground items stacking with veh items ([#56777](https://github.com/CleverRaven/Cataclysm-DDA/pull/56777))
+* Added padded to hard hats and Phase Immersion Suit ([#56767](https://github.com/CleverRaven/Cataclysm-DDA/pull/56767))
+* Ballistic armor syntax audit ([#56763](https://github.com/CleverRaven/Cataclysm-DDA/pull/56763))
+* Fix duplicating splints when using on npcs ([#56760](https://github.com/CleverRaven/Cataclysm-DDA/pull/56760))
+* Optimize map rendering ([#56764](https://github.com/CleverRaven/Cataclysm-DDA/pull/56764))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-18-2237 ([8fa8088](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-2237))
 
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
@@ -30,7 +51,6 @@
 #### Cataclysm-DDA experimental build 2022-04-18-1757 ([6b6bf37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-1757))
 
 * Allow examining furniture to convert to appliances ([#56807](https://github.com/CleverRaven/Cataclysm-DDA/pull/56807))
-* Description updates for Hub 01 armor and hybrid weapons platform ([#56641](https://github.com/CleverRaven/Cataclysm-DDA/pull/56641))
 * Dragon skin vest update ([#56773](https://github.com/CleverRaven/Cataclysm-DDA/pull/56773))
 
 ---
@@ -117,8 +137,6 @@
 * Fix missing full stop in description ([#56698](https://github.com/CleverRaven/Cataclysm-DDA/pull/56698))
 * Capitalize 1 missed description on an item ([#56695](https://github.com/CleverRaven/Cataclysm-DDA/pull/56695))
 * Capitalize National Guard ([#56693](https://github.com/CleverRaven/Cataclysm-DDA/pull/56693))
-* Chitinworking lesser penalty with the arthropods book ([#56645](https://github.com/CleverRaven/Cataclysm-DDA/pull/56645))
-* Knapping practice and book help ([#56643](https://github.com/CleverRaven/Cataclysm-DDA/pull/56643))
 * torvosaurus daspletosaurus ([#56821](https://github.com/CleverRaven/Cataclysm-DDA/pull/56821))
 * Ability to override armor breathability ([#56691](https://github.com/CleverRaven/Cataclysm-DDA/pull/56691))
 
@@ -168,11 +186,6 @@
 * [DinoMod] dromaeosaurus and dino droppings ([#56744](https://github.com/CleverRaven/Cataclysm-DDA/pull/56744))
 * Survivor armor uses better materials, small adjustment to thickness ([#56659](https://github.com/CleverRaven/Cataclysm-DDA/pull/56659))
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-14-0550 ([6a35b49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-14-0550))
-
 * Cannons get their wheels on the sides ([#56788](https://github.com/CleverRaven/Cataclysm-DDA/pull/56788))
 * Update help to match new layers ([#56729](https://github.com/CleverRaven/Cataclysm-DDA/pull/56729))
 * Minor fixes to NPC classes ([#56708](https://github.com/CleverRaven/Cataclysm-DDA/pull/56708))
@@ -191,11 +204,5 @@
 * [MMA] Weapon Categories: Setting Sun ([#56656](https://github.com/CleverRaven/Cataclysm-DDA/pull/56656))
 * Check for attachable subpockets first when holstering ([#56655](https://github.com/CleverRaven/Cataclysm-DDA/pull/56655))
 * Do not unmark recipe right after marking it as unread ([#56650](https://github.com/CleverRaven/Cataclysm-DDA/pull/56650))
-* More shirt variants ([#56644](https://github.com/CleverRaven/Cataclysm-DDA/pull/56644))
-* Additional Labels ([#56638](https://github.com/CleverRaven/Cataclysm-DDA/pull/56638))
-* Fix a short woth typo ([#56636](https://github.com/CleverRaven/Cataclysm-DDA/pull/56636))
-* Add plural forms to missing armors ([#56635](https://github.com/CleverRaven/Cataclysm-DDA/pull/56635))
-* Merch → merch ([#56631](https://github.com/CleverRaven/Cataclysm-DDA/pull/56631))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
 * Fix double space in Aftershock item name ([#56654](https://github.com/CleverRaven/Cataclysm-DDA/pull/56654))
-* Fix one missing Kevlar instance ([#56634](https://github.com/CleverRaven/Cataclysm-DDA/pull/56634))
