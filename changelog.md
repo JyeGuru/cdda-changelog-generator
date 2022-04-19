@@ -1,3 +1,4 @@
+* Unequip armor transformed into non-armor ([#56892](https://github.com/CleverRaven/Cataclysm-DDA/pull/56892))
 
 ---
 
@@ -210,4 +211,3 @@
 * [MMA] Weapon Categories: Setting Sun ([#56656](https://github.com/CleverRaven/Cataclysm-DDA/pull/56656))
 * Check for attachable subpockets first when holstering ([#56655](https://github.com/CleverRaven/Cataclysm-DDA/pull/56655))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
-* Fix double space in Aftershock item name ([#56654](https://github.com/CleverRaven/Cataclysm-DDA/pull/56654))

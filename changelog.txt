@@ -1,3 +1,4 @@
+* Unequip armor transformed into non-armor (#56892)
 
 Cataclysm-DDA experimental build 2022-04-19-0549 (0999815)
 * Fix medical UI / addictions compile error (#56910)
@@ -138,4 +139,3 @@ Cataclysm-DDA experimental build 2022-04-14-2340 (db0e2b0)
 * [MMA] Weapon Categories: Setting Sun (#56656)
 * Check for attachable subpockets first when holstering (#56655)
 * Routine i18n updates on 09 April 2022 (#56685)
-* Fix double space in Aftershock item name (#56654)
