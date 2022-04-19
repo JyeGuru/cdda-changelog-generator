@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-19-0549 ([0999815](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0549))
+
+* Fix medical UI / addictions compile error ([#56910](https://github.com/CleverRaven/Cataclysm-DDA/pull/56910))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-19-0505 ([e6c6b87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0505))
 
 * Add a closing quote mark ([#56883](https://github.com/CleverRaven/Cataclysm-DDA/pull/56883))
@@ -203,6 +209,5 @@
 * "Creatures" Lore Tab ([#56665](https://github.com/CleverRaven/Cataclysm-DDA/pull/56665))
 * [MMA] Weapon Categories: Setting Sun ([#56656](https://github.com/CleverRaven/Cataclysm-DDA/pull/56656))
 * Check for attachable subpockets first when holstering ([#56655](https://github.com/CleverRaven/Cataclysm-DDA/pull/56655))
-* Do not unmark recipe right after marking it as unread ([#56650](https://github.com/CleverRaven/Cataclysm-DDA/pull/56650))
 * Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
 * Fix double space in Aftershock item name ([#56654](https://github.com/CleverRaven/Cataclysm-DDA/pull/56654))
