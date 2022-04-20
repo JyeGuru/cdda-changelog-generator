@@ -1,3 +1,4 @@
+* Revise rodentkin.json monster descriptions (#56880)
 * Correct density of multiple materials (#56868)
 * Metal Arm/Leg guard crafting inconsistency correction (#56820)
 
@@ -108,7 +109,6 @@ Cataclysm-DDA experimental build 2022-04-17-0706 (e802591)
 * Use the practive/mechanics tab (#56837)
 * Fix extra space in debug_feather_fall description (#56751)
 * Capitalize `BELTED` to clarify it's code name (#56730)
-* beebalm → bee balm (#56710)
 * Remove full stop from "Cheers" (#56841)
 * Remove "a" from `workbench_with_recharger` singular (#56852)
 * Update the table of contents in doc/JSON_INFO.md (#56808)

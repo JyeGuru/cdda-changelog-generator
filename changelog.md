@@ -1,3 +1,4 @@
+* Revise rodentkin.json monster descriptions ([#56880](https://github.com/CleverRaven/Cataclysm-DDA/pull/56880))
 * Correct density of multiple materials ([#56868](https://github.com/CleverRaven/Cataclysm-DDA/pull/56868))
 * Metal Arm/Leg guard crafting inconsistency correction ([#56820](https://github.com/CleverRaven/Cataclysm-DDA/pull/56820))
 
@@ -174,7 +175,6 @@
 * Use the practive/mechanics tab ([#56837](https://github.com/CleverRaven/Cataclysm-DDA/pull/56837))
 * Fix extra space in debug_feather_fall description ([#56751](https://github.com/CleverRaven/Cataclysm-DDA/pull/56751))
 * Capitalize `BELTED` to clarify it's code name ([#56730](https://github.com/CleverRaven/Cataclysm-DDA/pull/56730))
-* beebalm → bee balm ([#56710](https://github.com/CleverRaven/Cataclysm-DDA/pull/56710))
 * Remove full stop from "Cheers" ([#56841](https://github.com/CleverRaven/Cataclysm-DDA/pull/56841))
 * Remove "a" from `workbench_with_recharger` singular ([#56852](https://github.com/CleverRaven/Cataclysm-DDA/pull/56852))
 * Update the table of contents in doc/JSON_INFO.md ([#56808](https://github.com/CleverRaven/Cataclysm-DDA/pull/56808))
