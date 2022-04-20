@@ -1,3 +1,12 @@
+* Correct density of multiple materials ([#56868](https://github.com/CleverRaven/Cataclysm-DDA/pull/56868))
+* Metal Arm/Leg guard crafting inconsistency correction ([#56820](https://github.com/CleverRaven/Cataclysm-DDA/pull/56820))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-20-2325 ([16ef9ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-20-2325))
+
+* Fix martial arts descriptions ([#56745](https://github.com/CleverRaven/Cataclysm-DDA/pull/56745))
+* Washing machine appliance ([#56950](https://github.com/CleverRaven/Cataclysm-DDA/pull/56950))
 
 ---
 
@@ -150,16 +159,10 @@
 #### Cataclysm-DDA experimental build 2022-04-17-0706 ([e802591](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-0706))
 
 * fix: extra dresser in duplex ([#56825](https://github.com/CleverRaven/Cataclysm-DDA/pull/56825))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-16-2152 ([f37635a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-2152))
-
 * Cleanup oter static vars ([#56855](https://github.com/CleverRaven/Cataclysm-DDA/pull/56855))
 * No Hope maintenance work ([#56850](https://github.com/CleverRaven/Cataclysm-DDA/pull/56850))
 * Add missing biology proficiencies to Hazmat Unit and Illicit Fleshmender, give medical profs Burn Care ([#56713](https://github.com/CleverRaven/Cataclysm-DDA/pull/56713))
 * Remove migo_prisoner scenario from classic zombies ([#56748](https://github.com/CleverRaven/Cataclysm-DDA/pull/56748))
-* Update doc/COMPILING-VS-VCPKG.md ([#56704](https://github.com/CleverRaven/Cataclysm-DDA/pull/56704))
 * nerf day one mutant wasp speed ([#56848](https://github.com/CleverRaven/Cataclysm-DDA/pull/56848))
 * document monster maximum damage scaling ([#56811](https://github.com/CleverRaven/Cataclysm-DDA/pull/56811))
 * Enforce minimum terminal size in case the system ignores minimum window size ([#56753](https://github.com/CleverRaven/Cataclysm-DDA/pull/56753))
@@ -177,7 +180,6 @@
 * Update the table of contents in doc/JSON_INFO.md ([#56808](https://github.com/CleverRaven/Cataclysm-DDA/pull/56808))
 * Routine i18n updates on 16 April 2022 ([#56834](https://github.com/CleverRaven/Cataclysm-DDA/pull/56834))
 * generic_factory: ordered init. of static globals ([#56836](https://github.com/CleverRaven/Cataclysm-DDA/pull/56836))
-* Add missing comma to the sentences ([#56707](https://github.com/CleverRaven/Cataclysm-DDA/pull/56707))
 * torvosaurus daspletosaurus ([#56821](https://github.com/CleverRaven/Cataclysm-DDA/pull/56821))
 * Denim Shorts and Jeans swapped cotton requirements ([#56819](https://github.com/CleverRaven/Cataclysm-DDA/pull/56819))
 * MA: Shaping the country ([#56778](https://github.com/CleverRaven/Cataclysm-DDA/pull/56778))
@@ -191,12 +193,10 @@
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
 * Cannons get their wheels on the sides ([#56788](https://github.com/CleverRaven/Cataclysm-DDA/pull/56788))
 * Update help to match new layers ([#56729](https://github.com/CleverRaven/Cataclysm-DDA/pull/56729))
-* Minor fixes to NPC classes ([#56708](https://github.com/CleverRaven/Cataclysm-DDA/pull/56708))
 * Add damage and charge randomization to reenactor loot ([#56717](https://github.com/CleverRaven/Cataclysm-DDA/pull/56717))
 * Transition nutrition to kcal for good ([#56728](https://github.com/CleverRaven/Cataclysm-DDA/pull/56728))
 * Rename "You adopts" to "%s adopts" ([#56734](https://github.com/CleverRaven/Cataclysm-DDA/pull/56734))
 * Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))
-* Fix minor proficiency typos ([#56709](https://github.com/CleverRaven/Cataclysm-DDA/pull/56709))
 * dummys → dummies ([#56733](https://github.com/CleverRaven/Cataclysm-DDA/pull/56733))
 * fix: bugout bags error ([#56743](https://github.com/CleverRaven/Cataclysm-DDA/pull/56743))
 * discontinuity → Discontinuity ([#56715](https://github.com/CleverRaven/Cataclysm-DDA/pull/56715))
