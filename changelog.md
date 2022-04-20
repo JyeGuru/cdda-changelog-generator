@@ -1,3 +1,4 @@
+* Add OVEN quality to the oven appliance ([#56943](https://github.com/CleverRaven/Cataclysm-DDA/pull/56943))
 
 ---
 
@@ -170,7 +171,6 @@
 * Use the practive/mechanics tab ([#56837](https://github.com/CleverRaven/Cataclysm-DDA/pull/56837))
 * Fix extra space in debug_feather_fall description ([#56751](https://github.com/CleverRaven/Cataclysm-DDA/pull/56751))
 * Capitalize `BELTED` to clarify it's code name ([#56730](https://github.com/CleverRaven/Cataclysm-DDA/pull/56730))
-* Fix wrong plural for `beach_volleyball` ([#56699](https://github.com/CleverRaven/Cataclysm-DDA/pull/56699))
 * beebalm → bee balm ([#56710](https://github.com/CleverRaven/Cataclysm-DDA/pull/56710))
 * Remove full stop from "Cheers" ([#56841](https://github.com/CleverRaven/Cataclysm-DDA/pull/56841))
 * Remove "a" from `workbench_with_recharger` singular ([#56852](https://github.com/CleverRaven/Cataclysm-DDA/pull/56852))
