@@ -1,3 +1,4 @@
+* Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
 * fix: avoid w_hobbies overlapping with w_guide ([#56823](https://github.com/CleverRaven/Cataclysm-DDA/pull/56823))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
 * [MMA] Weapon Categories: Shii-Cho ([#56904](https://github.com/CleverRaven/Cataclysm-DDA/pull/56904))
@@ -117,12 +118,6 @@
 
 * Unify pocket descriptions ([#56697](https://github.com/CleverRaven/Cataclysm-DDA/pull/56697))
 * Use full display name when selecting a vehicle part for installation ([#56687](https://github.com/CleverRaven/Cataclysm-DDA/pull/56687))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-17-1523 ([2ae0a94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-1523))
-
-* Fix insta-charging appliance batteries ([#56686](https://github.com/CleverRaven/Cataclysm-DDA/pull/56686))
 
 ---
 
