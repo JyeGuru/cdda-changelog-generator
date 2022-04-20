@@ -1,3 +1,5 @@
+* fix: avoid w_hobbies overlapping with w_guide ([#56823](https://github.com/CleverRaven/Cataclysm-DDA/pull/56823))
+* Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
 * [MMA] Weapon Categories: Shii-Cho ([#56904](https://github.com/CleverRaven/Cataclysm-DDA/pull/56904))
 
 ---
@@ -195,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-04-16-0623 ([f4a46c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-0623))
 
 * MA: Shaping the country ([#56778](https://github.com/CleverRaven/Cataclysm-DDA/pull/56778))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-15-1513 ([8af3a1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-15-1513))
-
 * Update manual of style with more rules ([#56754](https://github.com/CleverRaven/Cataclysm-DDA/pull/56754))
 * Lazy Lobster Casserole can also use hard cheese. ([#56810](https://github.com/CleverRaven/Cataclysm-DDA/pull/56810))
 * Make Strict Humanitarian conflict with Cannibal and Psychopath ([#56762](https://github.com/CleverRaven/Cataclysm-DDA/pull/56762))
@@ -219,4 +216,3 @@
 * dummys → dummies ([#56733](https://github.com/CleverRaven/Cataclysm-DDA/pull/56733))
 * fix: bugout bags error ([#56743](https://github.com/CleverRaven/Cataclysm-DDA/pull/56743))
 * discontinuity → Discontinuity ([#56715](https://github.com/CleverRaven/Cataclysm-DDA/pull/56715))
-* Routine i18n updates on 09 April 2022 ([#56685](https://github.com/CleverRaven/Cataclysm-DDA/pull/56685))
