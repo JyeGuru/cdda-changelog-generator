@@ -71,7 +71,6 @@ Cataclysm-DDA experimental build 2022-04-18-0551 (6bf9189)
 
 Cataclysm-DDA experimental build 2022-04-17-1629 (b58a307)
 * Unify pocket descriptions (#56697)
-* Use full display name when selecting a vehicle part for installation (#56687)
 
 Cataclysm-DDA experimental build 2022-04-17-1317 (fdf796c)
 * Adjusted onyx jewlerry description to match other (#56869)

@@ -122,7 +122,6 @@
 #### Cataclysm-DDA experimental build 2022-04-17-1629 ([b58a307](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-1629))
 
 * Unify pocket descriptions ([#56697](https://github.com/CleverRaven/Cataclysm-DDA/pull/56697))
-* Use full display name when selecting a vehicle part for installation ([#56687](https://github.com/CleverRaven/Cataclysm-DDA/pull/56687))
 
 ---
 
