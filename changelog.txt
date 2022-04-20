@@ -113,8 +113,6 @@ Cataclysm-DDA experimental build 2022-04-16-2036 (a50a766)
 
 Cataclysm-DDA experimental build 2022-04-16-1935 (0737174)
 * generic_factory: ordered init. of static globals (#56836)
-
-Cataclysm-DDA experimental build 2022-04-16-1527 (89dce91)
 * Add missing comma to the sentences (#56707)
 * torvosaurus daspletosaurus (#56821)
 * Denim Shorts and Jeans swapped cotton requirements (#56819)

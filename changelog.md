@@ -182,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-04-16-1935 ([0737174](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-1935))
 
 * generic_factory: ordered init. of static globals ([#56836](https://github.com/CleverRaven/Cataclysm-DDA/pull/56836))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-16-1527 ([89dce91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-1527))
-
 * Add missing comma to the sentences ([#56707](https://github.com/CleverRaven/Cataclysm-DDA/pull/56707))
 * torvosaurus daspletosaurus ([#56821](https://github.com/CleverRaven/Cataclysm-DDA/pull/56821))
 * Denim Shorts and Jeans swapped cotton requirements ([#56819](https://github.com/CleverRaven/Cataclysm-DDA/pull/56819))
