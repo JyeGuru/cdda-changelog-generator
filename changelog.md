@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-20-0553 ([a820c3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-20-0553))
+
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
 * fix: avoid w_hobbies overlapping with w_guide ([#56823](https://github.com/CleverRaven/Cataclysm-DDA/pull/56823))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-04-16-0734 ([692653b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-0734))
 
 * Denim Shorts and Jeans swapped cotton requirements ([#56819](https://github.com/CleverRaven/Cataclysm-DDA/pull/56819))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-16-0623 ([f4a46c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-0623))
-
 * MA: Shaping the country ([#56778](https://github.com/CleverRaven/Cataclysm-DDA/pull/56778))
 * Update manual of style with more rules ([#56754](https://github.com/CleverRaven/Cataclysm-DDA/pull/56754))
 * Lazy Lobster Casserole can also use hard cheese. ([#56810](https://github.com/CleverRaven/Cataclysm-DDA/pull/56810))
