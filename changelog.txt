@@ -110,8 +110,6 @@ Cataclysm-DDA experimental build 2022-04-16-2036 (a50a766)
 * Remove "a" from `workbench_with_recharger` singular (#56852)
 * Update the table of contents in doc/JSON_INFO.md (#56808)
 * Routine i18n updates on 16 April 2022 (#56834)
-
-Cataclysm-DDA experimental build 2022-04-16-1935 (0737174)
 * generic_factory: ordered init. of static globals (#56836)
 * Add missing comma to the sentences (#56707)
 * torvosaurus daspletosaurus (#56821)

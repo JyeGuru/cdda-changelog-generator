@@ -176,11 +176,6 @@
 * Remove "a" from `workbench_with_recharger` singular ([#56852](https://github.com/CleverRaven/Cataclysm-DDA/pull/56852))
 * Update the table of contents in doc/JSON_INFO.md ([#56808](https://github.com/CleverRaven/Cataclysm-DDA/pull/56808))
 * Routine i18n updates on 16 April 2022 ([#56834](https://github.com/CleverRaven/Cataclysm-DDA/pull/56834))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-16-1935 ([0737174](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-16-1935))
-
 * generic_factory: ordered init. of static globals ([#56836](https://github.com/CleverRaven/Cataclysm-DDA/pull/56836))
 * Add missing comma to the sentences ([#56707](https://github.com/CleverRaven/Cataclysm-DDA/pull/56707))
 * torvosaurus daspletosaurus ([#56821](https://github.com/CleverRaven/Cataclysm-DDA/pull/56821))
