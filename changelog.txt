@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-21-2353 (93c5670)
+* Adjust cudgel crafting requirements and make new "wooden clubs" as 0 skill replacement. (#56953)
+
 Cataclysm-DDA experimental build 2022-04-21-2247 (e453626)
 * Show remembered vehicles across z levels (#56747)
 * [Innawood] Sewing and Tailor Kit plastic free fix (#56929)
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2022-04-19-0150 (76005ed)
 
 Cataclysm-DDA experimental build 2022-04-18-2237 (8fa8088)
 * Cap the duration of the forge of wonders' anti-invisibility effect (#56900)
-
-Cataclysm-DDA experimental build 2022-04-18-2136 (4240dc0)
 * Stop NPCs throwing guns, allow throwing non-wielded items. (#56746)
 * Fix Amphibious Truck (#56739)
 * Update metalworking tongs recipe to not produce more steel than put in (#56735)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2022-04-18-2136 (4240dc0)
 * Cannons get their wheels on the sides (#56788)
 * Rename "You adopts" to "%s adopts" (#56734)
 * Fix large amount of toilet water spawning in washrooms (#56736)
-* dummys → dummies (#56733)
 * fix: bugout bags error (#56743)

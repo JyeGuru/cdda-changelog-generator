@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-21-2353 ([93c5670](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-2353))
+
+* Adjust cudgel crafting requirements and make new "wooden clubs" as 0 skill replacement. ([#56953](https://github.com/CleverRaven/Cataclysm-DDA/pull/56953))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-21-2247 ([e453626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-2247))
 
 * Show remembered vehicles across z levels ([#56747](https://github.com/CleverRaven/Cataclysm-DDA/pull/56747))
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2022-04-18-2237 ([8fa8088](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-2237))
 
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-18-2136 ([4240dc0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-2136))
-
 * Stop NPCs throwing guns, allow throwing non-wielded items. ([#56746](https://github.com/CleverRaven/Cataclysm-DDA/pull/56746))
 * Fix Amphibious Truck ([#56739](https://github.com/CleverRaven/Cataclysm-DDA/pull/56739))
 * Update metalworking tongs recipe to not produce more steel than put in ([#56735](https://github.com/CleverRaven/Cataclysm-DDA/pull/56735))
@@ -214,5 +215,4 @@
 * Cannons get their wheels on the sides ([#56788](https://github.com/CleverRaven/Cataclysm-DDA/pull/56788))
 * Rename "You adopts" to "%s adopts" ([#56734](https://github.com/CleverRaven/Cataclysm-DDA/pull/56734))
 * Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))
-* dummys → dummies ([#56733](https://github.com/CleverRaven/Cataclysm-DDA/pull/56733))
 * fix: bugout bags error ([#56743](https://github.com/CleverRaven/Cataclysm-DDA/pull/56743))
