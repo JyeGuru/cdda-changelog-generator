@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2022-04-21-0306 (cc09934)
+* Hub 01 Renovations (#56942)
+
+Cataclysm-DDA experimental build 2022-04-21-0206 (7bada03)
+* Fix siphoning for washing machine & dishwasher (#56968)
+
 Cataclysm-DDA experimental build 2022-04-21-0037 (1d96e06)
 * New dialogue trial type to check the level of a skill against a flat difficulty (#56896)
 * Revise rodentkin.json monster descriptions (#56880)
@@ -75,7 +81,6 @@ Cataclysm-DDA experimental build 2022-04-18-2018 (529fb0f)
 * Fix Amphibious Truck (#56739)
 * Update metalworking tongs recipe to not produce more steel than put in (#56735)
 * Fallback fonts should use the first font that works, not the last (#56722)
-* Minor fixes to fliers (#56714)
 * Car battery appliance (#56876)
 * [Innawoods] Ethanol and jacks (#56796)
 * inv_ui: check only allowed parents in indent sort (#56867)
@@ -91,13 +96,10 @@ Cataclysm-DDA experimental build 2022-04-18-1633 (efc8ef5)
 
 Cataclysm-DDA experimental build 2022-04-18-0551 (6bf9189)
 * fix: minor hub mapgen edits (#56857)
-
-Cataclysm-DDA experimental build 2022-04-17-1317 (fdf796c)
 * Adjusted onyx jewlerry description to match other (#56869)
 * fix: extra dresser in duplex (#56825)
 * Cleanup oter static vars (#56855)
 * No Hope maintenance work (#56850)
-* Add missing biology proficiencies to Hazmat Unit and Illicit Fleshmender, give medical profs Burn Care (#56713)
 * Remove migo_prisoner scenario from classic zombies (#56748)
 * nerf day one mutant wasp speed (#56848)
 * document monster maximum damage scaling (#56811)

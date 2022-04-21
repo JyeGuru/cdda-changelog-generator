@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-21-0306 ([cc09934](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0306))
+
+* Hub 01 Renovations ([#56942](https://github.com/CleverRaven/Cataclysm-DDA/pull/56942))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-21-0206 ([7bada03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0206))
+
+* Fix siphoning for washing machine & dishwasher ([#56968](https://github.com/CleverRaven/Cataclysm-DDA/pull/56968))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-21-0037 ([1d96e06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0037))
 
 * New dialogue trial type to check the level of a skill against a flat difficulty ([#56896](https://github.com/CleverRaven/Cataclysm-DDA/pull/56896))
@@ -129,7 +141,6 @@
 * Fix Amphibious Truck ([#56739](https://github.com/CleverRaven/Cataclysm-DDA/pull/56739))
 * Update metalworking tongs recipe to not produce more steel than put in ([#56735](https://github.com/CleverRaven/Cataclysm-DDA/pull/56735))
 * Fallback fonts should use the first font that works, not the last ([#56722](https://github.com/CleverRaven/Cataclysm-DDA/pull/56722))
-* Minor fixes to fliers ([#56714](https://github.com/CleverRaven/Cataclysm-DDA/pull/56714))
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * [Innawoods] Ethanol and jacks ([#56796](https://github.com/CleverRaven/Cataclysm-DDA/pull/56796))
 * inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
@@ -154,16 +165,10 @@
 #### Cataclysm-DDA experimental build 2022-04-18-0551 ([6bf9189](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-0551))
 
 * fix: minor hub mapgen edits ([#56857](https://github.com/CleverRaven/Cataclysm-DDA/pull/56857))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-17-1317 ([fdf796c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-1317))
-
 * Adjusted onyx jewlerry description to match other ([#56869](https://github.com/CleverRaven/Cataclysm-DDA/pull/56869))
 * fix: extra dresser in duplex ([#56825](https://github.com/CleverRaven/Cataclysm-DDA/pull/56825))
 * Cleanup oter static vars ([#56855](https://github.com/CleverRaven/Cataclysm-DDA/pull/56855))
 * No Hope maintenance work ([#56850](https://github.com/CleverRaven/Cataclysm-DDA/pull/56850))
-* Add missing biology proficiencies to Hazmat Unit and Illicit Fleshmender, give medical profs Burn Care ([#56713](https://github.com/CleverRaven/Cataclysm-DDA/pull/56713))
 * Remove migo_prisoner scenario from classic zombies ([#56748](https://github.com/CleverRaven/Cataclysm-DDA/pull/56748))
 * nerf day one mutant wasp speed ([#56848](https://github.com/CleverRaven/Cataclysm-DDA/pull/56848))
 * document monster maximum damage scaling ([#56811](https://github.com/CleverRaven/Cataclysm-DDA/pull/56811))
