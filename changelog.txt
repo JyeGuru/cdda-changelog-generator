@@ -1,3 +1,4 @@
+* Move refugee center fence in to leave room for defenses (#56970)
 
 Cataclysm-DDA experimental build 2022-04-21-0551 (bd20f38)
 * Add missing Halloween plurals (#56840)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2022-04-18-1633 (efc8ef5)
 * Update CODEOWNERS (#56803)
 * Cannons get their wheels on the sides (#56788)
 * Update help to match new layers (#56729)
-* Add damage and charge randomization to reenactor loot (#56717)
 * Transition nutrition to kcal for good (#56728)
 * Rename "You adopts" to "%s adopts" (#56734)
 * Fix large amount of toilet water spawning in washrooms (#56736)

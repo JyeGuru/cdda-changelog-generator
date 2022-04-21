@@ -1,3 +1,4 @@
+* Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
 
 ---
 
@@ -205,7 +206,6 @@
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
 * Cannons get their wheels on the sides ([#56788](https://github.com/CleverRaven/Cataclysm-DDA/pull/56788))
 * Update help to match new layers ([#56729](https://github.com/CleverRaven/Cataclysm-DDA/pull/56729))
-* Add damage and charge randomization to reenactor loot ([#56717](https://github.com/CleverRaven/Cataclysm-DDA/pull/56717))
 * Transition nutrition to kcal for good ([#56728](https://github.com/CleverRaven/Cataclysm-DDA/pull/56728))
 * Rename "You adopts" to "%s adopts" ([#56734](https://github.com/CleverRaven/Cataclysm-DDA/pull/56734))
 * Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))
