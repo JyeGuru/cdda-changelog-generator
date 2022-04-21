@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-21-2033 (445fc89)
+* Fixes Hub 01 having extremely enthusiastic camspy operators (#56921)
+
 Cataclysm-DDA experimental build 2022-04-21-0706 (8abcb3f)
 * Move refugee center fence in to leave room for defenses (#56970)
 
@@ -94,9 +97,6 @@ Cataclysm-DDA experimental build 2022-04-18-2018 (529fb0f)
 * [Innawoods] Ethanol and jacks (#56796)
 * inv_ui: check only allowed parents in indent sort (#56867)
 * TropiCata: regional weather and climate rebalances (#56890)
-* Tropicataclysm and additional labels (#56719)
-
-Cataclysm-DDA experimental build 2022-04-18-1757 (6b6bf37)
 * Allow examining furniture to convert to appliances (#56807)
 * Dragon skin vest update (#56773)
 * Unifies grammar for morale types (#56761)
