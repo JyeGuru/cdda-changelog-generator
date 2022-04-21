@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-21-0706 ([8abcb3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0706))
+
 * Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
 
 ---
@@ -166,11 +171,6 @@
 
 * Allow examining furniture to convert to appliances ([#56807](https://github.com/CleverRaven/Cataclysm-DDA/pull/56807))
 * Dragon skin vest update ([#56773](https://github.com/CleverRaven/Cataclysm-DDA/pull/56773))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-18-1633 ([efc8ef5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-1633))
-
 * Unifies grammar for morale types ([#56761](https://github.com/CleverRaven/Cataclysm-DDA/pull/56761))
 * fix: minor hub mapgen edits ([#56857](https://github.com/CleverRaven/Cataclysm-DDA/pull/56857))
 * Adjusted onyx jewlerry description to match other ([#56869](https://github.com/CleverRaven/Cataclysm-DDA/pull/56869))
