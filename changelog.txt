@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-21-0551 (bd20f38)
+* Add missing Halloween plurals (#56840)
+
 Cataclysm-DDA experimental build 2022-04-21-0434 (6804ab9)
 * Move close helm recipes to the head subcategory (#56826)
 
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2022-04-18-1757 (6b6bf37)
 
 Cataclysm-DDA experimental build 2022-04-18-1633 (efc8ef5)
 * Unifies grammar for morale types (#56761)
-
-Cataclysm-DDA experimental build 2022-04-18-0551 (6bf9189)
 * fix: minor hub mapgen edits (#56857)
 * Adjusted onyx jewlerry description to match other (#56869)
 * fix: extra dresser in duplex (#56825)
