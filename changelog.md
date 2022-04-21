@@ -1,3 +1,11 @@
+* [Innawood] Sewing and Tailor Kit plastic free fix ([#56929](https://github.com/CleverRaven/Cataclysm-DDA/pull/56929))
+* Irradiated singular/plural mismatch correction ([#56980](https://github.com/CleverRaven/Cataclysm-DDA/pull/56980))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-21-2141 ([c968ef3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-2141))
+
+* [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))
 
 ---
 
@@ -164,7 +172,6 @@
 
 * Fix Amphibious Truck ([#56739](https://github.com/CleverRaven/Cataclysm-DDA/pull/56739))
 * Update metalworking tongs recipe to not produce more steel than put in ([#56735](https://github.com/CleverRaven/Cataclysm-DDA/pull/56735))
-* Fallback fonts should use the first font that works, not the last ([#56722](https://github.com/CleverRaven/Cataclysm-DDA/pull/56722))
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * [Innawoods] Ethanol and jacks ([#56796](https://github.com/CleverRaven/Cataclysm-DDA/pull/56796))
 * inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
@@ -205,8 +212,6 @@
 * [DinoMod] dromaeosaurus and dino droppings ([#56744](https://github.com/CleverRaven/Cataclysm-DDA/pull/56744))
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
 * Cannons get their wheels on the sides ([#56788](https://github.com/CleverRaven/Cataclysm-DDA/pull/56788))
-* Update help to match new layers ([#56729](https://github.com/CleverRaven/Cataclysm-DDA/pull/56729))
-* Transition nutrition to kcal for good ([#56728](https://github.com/CleverRaven/Cataclysm-DDA/pull/56728))
 * Rename "You adopts" to "%s adopts" ([#56734](https://github.com/CleverRaven/Cataclysm-DDA/pull/56734))
 * Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))
 * dummys → dummies ([#56733](https://github.com/CleverRaven/Cataclysm-DDA/pull/56733))
