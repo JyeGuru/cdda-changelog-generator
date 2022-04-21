@@ -1,3 +1,4 @@
+* Show remembered vehicles across z levels ([#56747](https://github.com/CleverRaven/Cataclysm-DDA/pull/56747))
 * [Innawood] Sewing and Tailor Kit plastic free fix ([#56929](https://github.com/CleverRaven/Cataclysm-DDA/pull/56929))
 * Irradiated singular/plural mismatch correction ([#56980](https://github.com/CleverRaven/Cataclysm-DDA/pull/56980))
 
@@ -195,7 +196,6 @@
 * Use c++ sleep_for instead of nanosleep ([#56792](https://github.com/CleverRaven/Cataclysm-DDA/pull/56792))
 * Use the practive/mechanics tab ([#56837](https://github.com/CleverRaven/Cataclysm-DDA/pull/56837))
 * Fix extra space in debug_feather_fall description ([#56751](https://github.com/CleverRaven/Cataclysm-DDA/pull/56751))
-* Capitalize `BELTED` to clarify it's code name ([#56730](https://github.com/CleverRaven/Cataclysm-DDA/pull/56730))
 * Remove full stop from "Cheers" ([#56841](https://github.com/CleverRaven/Cataclysm-DDA/pull/56841))
 * Remove "a" from `workbench_with_recharger` singular ([#56852](https://github.com/CleverRaven/Cataclysm-DDA/pull/56852))
 * Update the table of contents in doc/JSON_INFO.md ([#56808](https://github.com/CleverRaven/Cataclysm-DDA/pull/56808))

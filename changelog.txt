@@ -1,3 +1,4 @@
+* Show remembered vehicles across z levels (#56747)
 * [Innawood] Sewing and Tailor Kit plastic free fix (#56929)
 * Irradiated singular/plural mismatch correction (#56980)
 
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2022-04-18-2018 (529fb0f)
 * Use c++ sleep_for instead of nanosleep (#56792)
 * Use the practive/mechanics tab (#56837)
 * Fix extra space in debug_feather_fall description (#56751)
-* Capitalize `BELTED` to clarify it's code name (#56730)
 * Remove full stop from "Cheers" (#56841)
 * Remove "a" from `workbench_with_recharger` singular (#56852)
 * Update the table of contents in doc/JSON_INFO.md (#56808)
