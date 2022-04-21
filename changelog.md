@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-21-0434 ([6804ab9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0434))
+
+* Move close helm recipes to the head subcategory ([#56826](https://github.com/CleverRaven/Cataclysm-DDA/pull/56826))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-21-0306 ([cc09934](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0306))
 
 * Hub 01 Renovations ([#56942](https://github.com/CleverRaven/Cataclysm-DDA/pull/56942))
@@ -204,4 +210,3 @@
 * Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))
 * dummys → dummies ([#56733](https://github.com/CleverRaven/Cataclysm-DDA/pull/56733))
 * fix: bugout bags error ([#56743](https://github.com/CleverRaven/Cataclysm-DDA/pull/56743))
-* discontinuity → Discontinuity ([#56715](https://github.com/CleverRaven/Cataclysm-DDA/pull/56715))

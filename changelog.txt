@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-21-0434 (6804ab9)
+* Move close helm recipes to the head subcategory (#56826)
+
 Cataclysm-DDA experimental build 2022-04-21-0306 (cc09934)
 * Hub 01 Renovations (#56942)
 
@@ -135,4 +138,3 @@ Cataclysm-DDA experimental build 2022-04-18-0551 (6bf9189)
 * Fix large amount of toilet water spawning in washrooms (#56736)
 * dummys → dummies (#56733)
 * fix: bugout bags error (#56743)
-* discontinuity → Discontinuity (#56715)
