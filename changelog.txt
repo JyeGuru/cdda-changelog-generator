@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-21-0037 (1d96e06)
 * New dialogue trial type to check the level of a skill against a flat difficulty (#56896)
 * Revise rodentkin.json monster descriptions (#56880)
 * Correct density of multiple materials (#56868)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2022-04-18-0551 (6bf9189)
 
 Cataclysm-DDA experimental build 2022-04-17-1317 (fdf796c)
 * Adjusted onyx jewlerry description to match other (#56869)
-
-Cataclysm-DDA experimental build 2022-04-17-0706 (e802591)
 * fix: extra dresser in duplex (#56825)
 * Cleanup oter static vars (#56855)
 * No Hope maintenance work (#56850)

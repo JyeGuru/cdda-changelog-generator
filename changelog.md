@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-21-0037 ([1d96e06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0037))
+
 * New dialogue trial type to check the level of a skill against a flat difficulty ([#56896](https://github.com/CleverRaven/Cataclysm-DDA/pull/56896))
 * Revise rodentkin.json monster descriptions ([#56880](https://github.com/CleverRaven/Cataclysm-DDA/pull/56880))
 * Correct density of multiple materials ([#56868](https://github.com/CleverRaven/Cataclysm-DDA/pull/56868))
@@ -155,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-04-17-1317 ([fdf796c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-1317))
 
 * Adjusted onyx jewlerry description to match other ([#56869](https://github.com/CleverRaven/Cataclysm-DDA/pull/56869))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-17-0706 ([e802591](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-17-0706))
-
 * fix: extra dresser in duplex ([#56825](https://github.com/CleverRaven/Cataclysm-DDA/pull/56825))
 * Cleanup oter static vars ([#56855](https://github.com/CleverRaven/Cataclysm-DDA/pull/56855))
 * No Hope maintenance work ([#56850](https://github.com/CleverRaven/Cataclysm-DDA/pull/56850))
