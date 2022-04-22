@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-22-1403 (61562af)
 * Add precise strike to batons/tonfas, remove from qiang, fix description (#57015)
 * Adds a new evolved child zombie (#56914)
 * ci: more auto labeling (#56963)
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2022-04-19-1450 (ee59875)
 Cataclysm-DDA experimental build 2022-04-19-0750 (e9e4d30)
 * Add a missing full stop to one of Rubik's translated dialogs (#56860)
 * Add exception of US English for dialogs in manual of style (#56854)
-
-Cataclysm-DDA experimental build 2022-04-19-0650 (5552c18)
 * Unequip armor transformed into non-armor (#56892)
 * Fix medical UI / addictions compile error (#56910)
 * Add a closing quote mark (#56883)

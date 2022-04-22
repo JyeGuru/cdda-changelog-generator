@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-22-1403 ([61562af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-1403))
+
 * Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
 * Adds a new evolved child zombie ([#56914](https://github.com/CleverRaven/Cataclysm-DDA/pull/56914))
 * ci: more auto labeling ([#56963](https://github.com/CleverRaven/Cataclysm-DDA/pull/56963))
@@ -149,11 +154,6 @@
 
 * Add a missing full stop to one of Rubik's translated dialogs ([#56860](https://github.com/CleverRaven/Cataclysm-DDA/pull/56860))
 * Add exception of US English for dialogs in manual of style ([#56854](https://github.com/CleverRaven/Cataclysm-DDA/pull/56854))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-19-0650 ([5552c18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0650))
-
 * Unequip armor transformed into non-armor ([#56892](https://github.com/CleverRaven/Cataclysm-DDA/pull/56892))
 * Fix medical UI / addictions compile error ([#56910](https://github.com/CleverRaven/Cataclysm-DDA/pull/56910))
 * Add a closing quote mark ([#56883](https://github.com/CleverRaven/Cataclysm-DDA/pull/56883))
