@@ -1,3 +1,6 @@
+* Reduce effect of wetness on morale ([#56816](https://github.com/CleverRaven/Cataclysm-DDA/pull/56816))
+* Rename different steel types ([#56913](https://github.com/CleverRaven/Cataclysm-DDA/pull/56913))
+* labeler.yml: Add Melee label ([#56999](https://github.com/CleverRaven/Cataclysm-DDA/pull/56999))
 
 ---
 
@@ -180,17 +183,14 @@
 * fix: extra dresser in duplex ([#56825](https://github.com/CleverRaven/Cataclysm-DDA/pull/56825))
 * Cleanup oter static vars ([#56855](https://github.com/CleverRaven/Cataclysm-DDA/pull/56855))
 * No Hope maintenance work ([#56850](https://github.com/CleverRaven/Cataclysm-DDA/pull/56850))
-* Remove migo_prisoner scenario from classic zombies ([#56748](https://github.com/CleverRaven/Cataclysm-DDA/pull/56748))
 * nerf day one mutant wasp speed ([#56848](https://github.com/CleverRaven/Cataclysm-DDA/pull/56848))
 * document monster maximum damage scaling ([#56811](https://github.com/CleverRaven/Cataclysm-DDA/pull/56811))
-* Enforce minimum terminal size in case the system ignores minimum window size ([#56753](https://github.com/CleverRaven/Cataclysm-DDA/pull/56753))
 * Use regex for irregular plural detection ([#56755](https://github.com/CleverRaven/Cataclysm-DDA/pull/56755))
 * [DinoMod] more dino armor ([#56758](https://github.com/CleverRaven/Cataclysm-DDA/pull/56758))
 * Adds optional subtitles to Rubik's dialogue ([#56801](https://github.com/CleverRaven/Cataclysm-DDA/pull/56801))
 * CMake: Clean up if commands and fix compilation with MSYS ncurses ([#56799](https://github.com/CleverRaven/Cataclysm-DDA/pull/56799))
 * Use c++ sleep_for instead of nanosleep ([#56792](https://github.com/CleverRaven/Cataclysm-DDA/pull/56792))
 * Use the practive/mechanics tab ([#56837](https://github.com/CleverRaven/Cataclysm-DDA/pull/56837))
-* Fix extra space in debug_feather_fall description ([#56751](https://github.com/CleverRaven/Cataclysm-DDA/pull/56751))
 * Remove full stop from "Cheers" ([#56841](https://github.com/CleverRaven/Cataclysm-DDA/pull/56841))
 * Remove "a" from `workbench_with_recharger` singular ([#56852](https://github.com/CleverRaven/Cataclysm-DDA/pull/56852))
 * Update the table of contents in doc/JSON_INFO.md ([#56808](https://github.com/CleverRaven/Cataclysm-DDA/pull/56808))
