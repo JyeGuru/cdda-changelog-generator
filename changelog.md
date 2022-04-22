@@ -1,3 +1,15 @@
+* Mass nuts ([#57002](https://github.com/CleverRaven/Cataclysm-DDA/pull/57002))
+* Adjust armband pouch encumbrance ([#56978](https://github.com/CleverRaven/Cataclysm-DDA/pull/56978))
+* Dollar store costumes spawn ([#56979](https://github.com/CleverRaven/Cataclysm-DDA/pull/56979))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-22-0210 ([9938e06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-0210))
+
+* Revamps the randomized Hub 01 mercenary into a defined character ([#56843](https://github.com/CleverRaven/Cataclysm-DDA/pull/56843))
+* Add field_remove and clear back bay and garage ([#56984](https://github.com/CleverRaven/Cataclysm-DDA/pull/56984))
+* Require mastering Basic Knapping and Wound Care to use speed knapping and adv. bandaging practices ([#56866](https://github.com/CleverRaven/Cataclysm-DDA/pull/56866))
+* Defer weakpoint set loading ([#56972](https://github.com/CleverRaven/Cataclysm-DDA/pull/56972))
 
 ---
 
@@ -63,12 +75,6 @@
 * Revise rodentkin.json monster descriptions ([#56880](https://github.com/CleverRaven/Cataclysm-DDA/pull/56880))
 * Correct density of multiple materials ([#56868](https://github.com/CleverRaven/Cataclysm-DDA/pull/56868))
 * Metal Arm/Leg guard crafting inconsistency correction ([#56820](https://github.com/CleverRaven/Cataclysm-DDA/pull/56820))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-20-2325 ([16ef9ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-20-2325))
-
-* Fix martial arts descriptions ([#56745](https://github.com/CleverRaven/Cataclysm-DDA/pull/56745))
 * Washing machine appliance ([#56950](https://github.com/CleverRaven/Cataclysm-DDA/pull/56950))
 
 ---
@@ -165,15 +171,8 @@
 * Ballistic armor syntax audit ([#56763](https://github.com/CleverRaven/Cataclysm-DDA/pull/56763))
 * Fix duplicating splints when using on npcs ([#56760](https://github.com/CleverRaven/Cataclysm-DDA/pull/56760))
 * Optimize map rendering ([#56764](https://github.com/CleverRaven/Cataclysm-DDA/pull/56764))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-18-2237 ([8fa8088](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-18-2237))
-
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
 * Stop NPCs throwing guns, allow throwing non-wielded items. ([#56746](https://github.com/CleverRaven/Cataclysm-DDA/pull/56746))
-* Fix Amphibious Truck ([#56739](https://github.com/CleverRaven/Cataclysm-DDA/pull/56739))
-* Update metalworking tongs recipe to not produce more steel than put in ([#56735](https://github.com/CleverRaven/Cataclysm-DDA/pull/56735))
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * [Innawoods] Ethanol and jacks ([#56796](https://github.com/CleverRaven/Cataclysm-DDA/pull/56796))
 * inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
@@ -210,9 +209,5 @@
 * Make Strict Humanitarian conflict with Cannibal and Psychopath ([#56762](https://github.com/CleverRaven/Cataclysm-DDA/pull/56762))
 * Update security professions with new vests ([#56793](https://github.com/CleverRaven/Cataclysm-DDA/pull/56793))
 * Fixes for the SWAT classes ([#56757](https://github.com/CleverRaven/Cataclysm-DDA/pull/56757))
-* [DinoMod] dromaeosaurus and dino droppings ([#56744](https://github.com/CleverRaven/Cataclysm-DDA/pull/56744))
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
 * Cannons get their wheels on the sides ([#56788](https://github.com/CleverRaven/Cataclysm-DDA/pull/56788))
-* Rename "You adopts" to "%s adopts" ([#56734](https://github.com/CleverRaven/Cataclysm-DDA/pull/56734))
-* Fix large amount of toilet water spawning in washrooms ([#56736](https://github.com/CleverRaven/Cataclysm-DDA/pull/56736))
-* fix: bugout bags error ([#56743](https://github.com/CleverRaven/Cataclysm-DDA/pull/56743))
