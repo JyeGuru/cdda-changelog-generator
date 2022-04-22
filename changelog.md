@@ -147,11 +147,6 @@
 #### Cataclysm-DDA experimental build 2022-04-19-1752 ([3ad05f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-1752))
 
 * Fix compile error in experimental release on macOS ([#56918](https://github.com/CleverRaven/Cataclysm-DDA/pull/56918))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-19-1450 ([ee59875](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-1450))
-
 * savegame: migrate addiction variants ([#56915](https://github.com/CleverRaven/Cataclysm-DDA/pull/56915))
 * Add a missing full stop to one of Rubik's translated dialogs ([#56860](https://github.com/CleverRaven/Cataclysm-DDA/pull/56860))
 * Add exception of US English for dialogs in manual of style ([#56854](https://github.com/CleverRaven/Cataclysm-DDA/pull/56854))
