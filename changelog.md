@@ -1,3 +1,4 @@
+* Adds a new evolved child zombie ([#56914](https://github.com/CleverRaven/Cataclysm-DDA/pull/56914))
 * ci: more auto labeling ([#56963](https://github.com/CleverRaven/Cataclysm-DDA/pull/56963))
 * Shockers can launch their attack through impassable terrain with `THIN_OBSTACLE` or `PERMEABLE` flags ([#56871](https://github.com/CleverRaven/Cataclysm-DDA/pull/56871))
 * Adjusts the headless horror to sane levels ([#56947](https://github.com/CleverRaven/Cataclysm-DDA/pull/56947))
@@ -153,11 +154,6 @@
 #### Cataclysm-DDA experimental build 2022-04-19-0650 ([5552c18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0650))
 
 * Unequip armor transformed into non-armor ([#56892](https://github.com/CleverRaven/Cataclysm-DDA/pull/56892))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-19-0549 ([0999815](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0549))
-
 * Fix medical UI / addictions compile error ([#56910](https://github.com/CleverRaven/Cataclysm-DDA/pull/56910))
 * Add a closing quote mark ([#56883](https://github.com/CleverRaven/Cataclysm-DDA/pull/56883))
 * Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
@@ -197,7 +193,6 @@
 * Denim Shorts and Jeans swapped cotton requirements ([#56819](https://github.com/CleverRaven/Cataclysm-DDA/pull/56819))
 * MA: Shaping the country ([#56778](https://github.com/CleverRaven/Cataclysm-DDA/pull/56778))
 * Lazy Lobster Casserole can also use hard cheese. ([#56810](https://github.com/CleverRaven/Cataclysm-DDA/pull/56810))
-* Make Strict Humanitarian conflict with Cannibal and Psychopath ([#56762](https://github.com/CleverRaven/Cataclysm-DDA/pull/56762))
 * Update security professions with new vests ([#56793](https://github.com/CleverRaven/Cataclysm-DDA/pull/56793))
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
 * Cannons get their wheels on the sides ([#56788](https://github.com/CleverRaven/Cataclysm-DDA/pull/56788))
