@@ -84,8 +84,6 @@ Cataclysm-DDA experimental build 2022-04-20-0553 (a820c3e)
 
 Cataclysm-DDA experimental build 2022-04-20-0352 (cca0df7)
 * [DinoMod] harvest cleanup (#56909)
-
-Cataclysm-DDA experimental build 2022-04-19-1752 (3ad05f9)
 * Fix compile error in experimental release on macOS (#56918)
 * savegame: migrate addiction variants (#56915)
 * Add a missing full stop to one of Rubik's translated dialogs (#56860)
