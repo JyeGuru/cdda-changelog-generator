@@ -1,3 +1,4 @@
+* Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
 * Adds a new evolved child zombie ([#56914](https://github.com/CleverRaven/Cataclysm-DDA/pull/56914))
 * ci: more auto labeling ([#56963](https://github.com/CleverRaven/Cataclysm-DDA/pull/56963))
 * Shockers can launch their attack through impassable terrain with `THIN_OBSTACLE` or `PERMEABLE` flags ([#56871](https://github.com/CleverRaven/Cataclysm-DDA/pull/56871))
@@ -164,8 +165,6 @@
 * JSONify addictions ([#56786](https://github.com/CleverRaven/Cataclysm-DDA/pull/56786))
 * inv_col: fix ground items stacking with veh items ([#56777](https://github.com/CleverRaven/Cataclysm-DDA/pull/56777))
 * Added padded to hard hats and Phase Immersion Suit ([#56767](https://github.com/CleverRaven/Cataclysm-DDA/pull/56767))
-* Ballistic armor syntax audit ([#56763](https://github.com/CleverRaven/Cataclysm-DDA/pull/56763))
-* Optimize map rendering ([#56764](https://github.com/CleverRaven/Cataclysm-DDA/pull/56764))
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * [Innawoods] Ethanol and jacks ([#56796](https://github.com/CleverRaven/Cataclysm-DDA/pull/56796))
