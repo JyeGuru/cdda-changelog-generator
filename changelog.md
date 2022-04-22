@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-22-2352 ([a944c6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-2352))
+
+* More 5.7mm guns ([#56846](https://github.com/CleverRaven/Cataclysm-DDA/pull/56846))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-22-1649 ([2eef1a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-1649))
 
 * Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
@@ -135,11 +141,6 @@
 * fix: avoid w_hobbies overlapping with w_guide ([#56823](https://github.com/CleverRaven/Cataclysm-DDA/pull/56823))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
 * [MMA] Weapon Categories: Shii-Cho ([#56904](https://github.com/CleverRaven/Cataclysm-DDA/pull/56904))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-20-0352 ([cca0df7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-20-0352))
-
 * [DinoMod] harvest cleanup ([#56909](https://github.com/CleverRaven/Cataclysm-DDA/pull/56909))
 * Fix compile error in experimental release on macOS ([#56918](https://github.com/CleverRaven/Cataclysm-DDA/pull/56918))
 * savegame: migrate addiction variants ([#56915](https://github.com/CleverRaven/Cataclysm-DDA/pull/56915))
@@ -161,7 +162,6 @@
 * inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
 * TropiCata: regional weather and climate rebalances ([#56890](https://github.com/CleverRaven/Cataclysm-DDA/pull/56890))
 * Allow examining furniture to convert to appliances ([#56807](https://github.com/CleverRaven/Cataclysm-DDA/pull/56807))
-* Dragon skin vest update ([#56773](https://github.com/CleverRaven/Cataclysm-DDA/pull/56773))
 * fix: minor hub mapgen edits ([#56857](https://github.com/CleverRaven/Cataclysm-DDA/pull/56857))
 * Adjusted onyx jewlerry description to match other ([#56869](https://github.com/CleverRaven/Cataclysm-DDA/pull/56869))
 * fix: extra dresser in duplex ([#56825](https://github.com/CleverRaven/Cataclysm-DDA/pull/56825))
