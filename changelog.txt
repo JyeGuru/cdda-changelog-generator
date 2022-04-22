@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-22-1649 (2eef1a1)
+* Fix pneumatics proficiency typo (#57024)
+
 Cataclysm-DDA experimental build 2022-04-22-1403 (61562af)
 * Add precise strike to batons/tonfas, remove from qiang, fix description (#57015)
 * Adds a new evolved child zombie (#56914)
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2022-04-19-1752 (3ad05f9)
 
 Cataclysm-DDA experimental build 2022-04-19-1450 (ee59875)
 * savegame: migrate addiction variants (#56915)
-
-Cataclysm-DDA experimental build 2022-04-19-0750 (e9e4d30)
 * Add a missing full stop to one of Rubik's translated dialogs (#56860)
 * Add exception of US English for dialogs in manual of style (#56854)
 * Unequip armor transformed into non-armor (#56892)

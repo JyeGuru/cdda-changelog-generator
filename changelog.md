@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-22-1649 ([2eef1a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-1649))
+
+* Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-22-1403 ([61562af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-1403))
 
 * Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
@@ -147,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2022-04-19-1450 ([ee59875](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-1450))
 
 * savegame: migrate addiction variants ([#56915](https://github.com/CleverRaven/Cataclysm-DDA/pull/56915))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-19-0750 ([e9e4d30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0750))
-
 * Add a missing full stop to one of Rubik's translated dialogs ([#56860](https://github.com/CleverRaven/Cataclysm-DDA/pull/56860))
 * Add exception of US English for dialogs in manual of style ([#56854](https://github.com/CleverRaven/Cataclysm-DDA/pull/56854))
 * Unequip armor transformed into non-armor ([#56892](https://github.com/CleverRaven/Cataclysm-DDA/pull/56892))
