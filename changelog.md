@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-22-0522 ([4ba96aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-0522))
+
+* Fix wall wiring removal ([#57011](https://github.com/CleverRaven/Cataclysm-DDA/pull/57011))
 * Changes volume and length of steel resources ([#56870](https://github.com/CleverRaven/Cataclysm-DDA/pull/56870))
 
 ---
@@ -22,12 +28,6 @@
 #### Cataclysm-DDA experimental build 2022-04-21-2353 ([93c5670](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-2353))
 
 * Adjust cudgel crafting requirements and make new "wooden clubs" as 0 skill replacement. ([#56953](https://github.com/CleverRaven/Cataclysm-DDA/pull/56953))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-21-2247 ([e453626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-2247))
-
-* Show remembered vehicles across z levels ([#56747](https://github.com/CleverRaven/Cataclysm-DDA/pull/56747))
 * [Innawood] Sewing and Tailor Kit plastic free fix ([#56929](https://github.com/CleverRaven/Cataclysm-DDA/pull/56929))
 * Irradiated singular/plural mismatch correction ([#56980](https://github.com/CleverRaven/Cataclysm-DDA/pull/56980))
 
@@ -156,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2022-04-19-0505 ([e6c6b87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0505))
 
 * Add a closing quote mark ([#56883](https://github.com/CleverRaven/Cataclysm-DDA/pull/56883))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-19-0230 ([897795a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0230))
-
 * Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
 * Improve display of the crafting screen header on narrow windows ([#56822](https://github.com/CleverRaven/Cataclysm-DDA/pull/56822))
 * [DinoMod] dino weak point proficiencies ([#56865](https://github.com/CleverRaven/Cataclysm-DDA/pull/56865))
