@@ -1,3 +1,9 @@
+* Changes volume and length of steel resources ([#56870](https://github.com/CleverRaven/Cataclysm-DDA/pull/56870))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-22-0311 ([0f21327](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-0311))
+
 * Mass nuts ([#57002](https://github.com/CleverRaven/Cataclysm-DDA/pull/57002))
 * Adjust armband pouch encumbrance ([#56978](https://github.com/CleverRaven/Cataclysm-DDA/pull/56978))
 * Dollar store costumes spawn ([#56979](https://github.com/CleverRaven/Cataclysm-DDA/pull/56979))
@@ -158,11 +164,6 @@
 * Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
 * Improve display of the crafting screen header on narrow windows ([#56822](https://github.com/CleverRaven/Cataclysm-DDA/pull/56822))
 * [DinoMod] dino weak point proficiencies ([#56865](https://github.com/CleverRaven/Cataclysm-DDA/pull/56865))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-19-0150 ([76005ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0150))
-
 * Fix Nursebot's assistance being overpowered ([#56809](https://github.com/CleverRaven/Cataclysm-DDA/pull/56809))
 * Bleeding messages now vary based on body part and intensity, changes message shown when applying pressure ([#56791](https://github.com/CleverRaven/Cataclysm-DDA/pull/56791))
 * JSONify addictions ([#56786](https://github.com/CleverRaven/Cataclysm-DDA/pull/56786))
@@ -172,7 +173,6 @@
 * Fix duplicating splints when using on npcs ([#56760](https://github.com/CleverRaven/Cataclysm-DDA/pull/56760))
 * Optimize map rendering ([#56764](https://github.com/CleverRaven/Cataclysm-DDA/pull/56764))
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
-* Stop NPCs throwing guns, allow throwing non-wielded items. ([#56746](https://github.com/CleverRaven/Cataclysm-DDA/pull/56746))
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * [Innawoods] Ethanol and jacks ([#56796](https://github.com/CleverRaven/Cataclysm-DDA/pull/56796))
 * inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
