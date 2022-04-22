@@ -164,7 +164,6 @@
 * Bleeding messages now vary based on body part and intensity, changes message shown when applying pressure ([#56791](https://github.com/CleverRaven/Cataclysm-DDA/pull/56791))
 * JSONify addictions ([#56786](https://github.com/CleverRaven/Cataclysm-DDA/pull/56786))
 * inv_col: fix ground items stacking with veh items ([#56777](https://github.com/CleverRaven/Cataclysm-DDA/pull/56777))
-* Added padded to hard hats and Phase Immersion Suit ([#56767](https://github.com/CleverRaven/Cataclysm-DDA/pull/56767))
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * [Innawoods] Ethanol and jacks ([#56796](https://github.com/CleverRaven/Cataclysm-DDA/pull/56796))
