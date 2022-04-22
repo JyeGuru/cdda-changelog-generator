@@ -93,8 +93,6 @@ Cataclysm-DDA experimental build 2022-04-19-0650 (5552c18)
 
 Cataclysm-DDA experimental build 2022-04-19-0549 (0999815)
 * Fix medical UI / addictions compile error (#56910)
-
-Cataclysm-DDA experimental build 2022-04-19-0505 (e6c6b87)
 * Add a closing quote mark (#56883)
 * Misc fixes to MA mod (2022-04-18) (#56895)
 * Improve display of the crafting screen header on narrow windows (#56822)

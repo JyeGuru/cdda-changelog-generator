@@ -159,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2022-04-19-0549 ([0999815](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0549))
 
 * Fix medical UI / addictions compile error ([#56910](https://github.com/CleverRaven/Cataclysm-DDA/pull/56910))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-19-0505 ([e6c6b87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-19-0505))
-
 * Add a closing quote mark ([#56883](https://github.com/CleverRaven/Cataclysm-DDA/pull/56883))
 * Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
 * Improve display of the crafting screen header on narrow windows ([#56822](https://github.com/CleverRaven/Cataclysm-DDA/pull/56822))
