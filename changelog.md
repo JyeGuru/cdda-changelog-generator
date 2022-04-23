@@ -1,3 +1,4 @@
+* Fix hide site creation and make error message clearer ([#57063](https://github.com/CleverRaven/Cataclysm-DDA/pull/57063))
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
 
@@ -129,12 +130,6 @@
 #### Cataclysm-DDA experimental build 2022-04-21-0551 ([bd20f38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0551))
 
 * Add missing Halloween plurals ([#56840](https://github.com/CleverRaven/Cataclysm-DDA/pull/56840))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-21-0434 ([6804ab9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0434))
-
-* Move close helm recipes to the head subcategory ([#56826](https://github.com/CleverRaven/Cataclysm-DDA/pull/56826))
 
 ---
 

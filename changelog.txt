@@ -1,3 +1,4 @@
+* Fix hide site creation and make error message clearer (#57063)
 * Create proper rope uncraft recipes (#57068)
 * Wrist fixes (#57057)
 
@@ -81,9 +82,6 @@ Cataclysm-DDA experimental build 2022-04-21-0706 (8abcb3f)
 
 Cataclysm-DDA experimental build 2022-04-21-0551 (bd20f38)
 * Add missing Halloween plurals (#56840)
-
-Cataclysm-DDA experimental build 2022-04-21-0434 (6804ab9)
-* Move close helm recipes to the head subcategory (#56826)
 
 Cataclysm-DDA experimental build 2022-04-21-0306 (cc09934)
 * Hub 01 Renovations (#56942)
