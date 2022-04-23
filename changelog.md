@@ -1,3 +1,11 @@
+* Added a new evac shelter basement for shelter_1 ([#57026](https://github.com/CleverRaven/Cataclysm-DDA/pull/57026))
+* Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-23-1449 ([dd9f086](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-1449))
+
+* update the integrated silencer for mp5  ([#57045](https://github.com/CleverRaven/Cataclysm-DDA/pull/57045))
 
 ---
 
@@ -143,11 +151,6 @@
 * Unify engine names and descriptions ([#56884](https://github.com/CleverRaven/Cataclysm-DDA/pull/56884))
 * [Innawoods] Welding and plastic molding ([#56946](https://github.com/CleverRaven/Cataclysm-DDA/pull/56946))
 * grey → gray ([#56853](https://github.com/CleverRaven/Cataclysm-DDA/pull/56853))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-20-1558 ([195f082](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-20-1558))
-
 * Deflate `select_crafting_recipe` a bit ([#56812](https://github.com/CleverRaven/Cataclysm-DDA/pull/56812))
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
 * fix: avoid w_hobbies overlapping with w_guide ([#56823](https://github.com/CleverRaven/Cataclysm-DDA/pull/56823))
@@ -177,8 +180,6 @@
 * No Hope maintenance work ([#56850](https://github.com/CleverRaven/Cataclysm-DDA/pull/56850))
 * nerf day one mutant wasp speed ([#56848](https://github.com/CleverRaven/Cataclysm-DDA/pull/56848))
 * document monster maximum damage scaling ([#56811](https://github.com/CleverRaven/Cataclysm-DDA/pull/56811))
-* Adds optional subtitles to Rubik's dialogue ([#56801](https://github.com/CleverRaven/Cataclysm-DDA/pull/56801))
-* CMake: Clean up if commands and fix compilation with MSYS ncurses ([#56799](https://github.com/CleverRaven/Cataclysm-DDA/pull/56799))
 * Use the practive/mechanics tab ([#56837](https://github.com/CleverRaven/Cataclysm-DDA/pull/56837))
 * Remove full stop from "Cheers" ([#56841](https://github.com/CleverRaven/Cataclysm-DDA/pull/56841))
 * Remove "a" from `workbench_with_recharger` singular ([#56852](https://github.com/CleverRaven/Cataclysm-DDA/pull/56852))
@@ -188,4 +189,3 @@
 * torvosaurus daspletosaurus ([#56821](https://github.com/CleverRaven/Cataclysm-DDA/pull/56821))
 * Denim Shorts and Jeans swapped cotton requirements ([#56819](https://github.com/CleverRaven/Cataclysm-DDA/pull/56819))
 * Lazy Lobster Casserole can also use hard cheese. ([#56810](https://github.com/CleverRaven/Cataclysm-DDA/pull/56810))
-* Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
