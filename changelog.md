@@ -1,3 +1,10 @@
+* Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-23-1817 ([9e87626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-1817))
+
+* New mod: Tamable Wildlife ([#57034](https://github.com/CleverRaven/Cataclysm-DDA/pull/57034))
 
 ---
 
@@ -160,7 +167,6 @@
 * [Innawoods] Welding and plastic molding ([#56946](https://github.com/CleverRaven/Cataclysm-DDA/pull/56946))
 * grey → gray ([#56853](https://github.com/CleverRaven/Cataclysm-DDA/pull/56853))
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
-* fix: avoid w_hobbies overlapping with w_guide ([#56823](https://github.com/CleverRaven/Cataclysm-DDA/pull/56823))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
 * [MMA] Weapon Categories: Shii-Cho ([#56904](https://github.com/CleverRaven/Cataclysm-DDA/pull/56904))
 * [DinoMod] harvest cleanup ([#56909](https://github.com/CleverRaven/Cataclysm-DDA/pull/56909))

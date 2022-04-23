@@ -1,3 +1,7 @@
+* Wrist fixes (#57057)
+
+Cataclysm-DDA experimental build 2022-04-23-1817 (9e87626)
+* New mod: Tamable Wildlife (#57034)
 
 Cataclysm-DDA experimental build 2022-04-23-1612 (4f506d1)
 * Fixes waterproof smartphone cases being unable to hold phones that had their flashlight or music active (#57019)
@@ -100,7 +104,6 @@ Cataclysm-DDA experimental build 2022-04-20-2206 (d857d7d)
 * [Innawoods] Welding and plastic molding (#56946)
 * grey → gray (#56853)
 * Make Guys Fawkes mask repairable like hockey mask (#56933)
-* fix: avoid w_hobbies overlapping with w_guide (#56823)
 * Set a sane default working directory for VS debugging. (#56931)
 * [MMA] Weapon Categories: Shii-Cho (#56904)
 * [DinoMod] harvest cleanup (#56909)
