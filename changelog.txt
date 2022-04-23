@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-23-0523 (d546a90)
+* Routine i18n updates on 23 April 2022 (#57049)
+
 Cataclysm-DDA experimental build 2022-04-23-0101 (40392e5)
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes (#57018)
 * Update entry_tools.json to-hit values to use the new categorized system (#56973)
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2022-04-20-1704 (e591d9f)
 
 Cataclysm-DDA experimental build 2022-04-20-1558 (195f082)
 * Deflate `select_crafting_recipe` a bit (#56812)
-
-Cataclysm-DDA experimental build 2022-04-20-0553 (a820c3e)
 * Make Guys Fawkes mask repairable like hockey mask (#56933)
 * fix: avoid w_hobbies overlapping with w_guide (#56823)
 * Set a sane default working directory for VS debugging. (#56931)
@@ -128,5 +129,4 @@ Cataclysm-DDA experimental build 2022-04-20-0553 (a820c3e)
 * torvosaurus daspletosaurus (#56821)
 * Denim Shorts and Jeans swapped cotton requirements (#56819)
 * Lazy Lobster Casserole can also use hard cheese. (#56810)
-* Update security professions with new vests (#56793)
 * Update CODEOWNERS (#56803)

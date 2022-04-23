@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-23-0523 ([d546a90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-0523))
+
+* Routine i18n updates on 23 April 2022 ([#57049](https://github.com/CleverRaven/Cataclysm-DDA/pull/57049))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-23-0101 ([40392e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-0101))
 
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes ([#57018](https://github.com/CleverRaven/Cataclysm-DDA/pull/57018))
@@ -143,11 +149,6 @@
 #### Cataclysm-DDA experimental build 2022-04-20-1558 ([195f082](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-20-1558))
 
 * Deflate `select_crafting_recipe` a bit ([#56812](https://github.com/CleverRaven/Cataclysm-DDA/pull/56812))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-20-0553 ([a820c3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-20-0553))
-
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
 * fix: avoid w_hobbies overlapping with w_guide ([#56823](https://github.com/CleverRaven/Cataclysm-DDA/pull/56823))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
@@ -188,5 +189,4 @@
 * torvosaurus daspletosaurus ([#56821](https://github.com/CleverRaven/Cataclysm-DDA/pull/56821))
 * Denim Shorts and Jeans swapped cotton requirements ([#56819](https://github.com/CleverRaven/Cataclysm-DDA/pull/56819))
 * Lazy Lobster Casserole can also use hard cheese. ([#56810](https://github.com/CleverRaven/Cataclysm-DDA/pull/56810))
-* Update security professions with new vests ([#56793](https://github.com/CleverRaven/Cataclysm-DDA/pull/56793))
 * Update CODEOWNERS ([#56803](https://github.com/CleverRaven/Cataclysm-DDA/pull/56803))
