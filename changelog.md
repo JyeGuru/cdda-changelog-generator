@@ -1,3 +1,6 @@
+* MP18 → MP 18 ([#57043](https://github.com/CleverRaven/Cataclysm-DDA/pull/57043))
+* Add missing full stops to CRIT bladework descriptions ([#57038](https://github.com/CleverRaven/Cataclysm-DDA/pull/57038))
+* Fungal-raptor → fungal raptor ([#57032](https://github.com/CleverRaven/Cataclysm-DDA/pull/57032))
 * Fix loading foraging activity ([#57020](https://github.com/CleverRaven/Cataclysm-DDA/pull/57020))
 * Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
 
@@ -102,12 +105,6 @@
 * Mass nuts ([#57002](https://github.com/CleverRaven/Cataclysm-DDA/pull/57002))
 * Adjust armband pouch encumbrance ([#56978](https://github.com/CleverRaven/Cataclysm-DDA/pull/56978))
 * Dollar store costumes spawn ([#56979](https://github.com/CleverRaven/Cataclysm-DDA/pull/56979))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-22-0210 ([9938e06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-0210))
-
-* Revamps the randomized Hub 01 mercenary into a defined character ([#56843](https://github.com/CleverRaven/Cataclysm-DDA/pull/56843))
 * Add field_remove and clear back bay and garage ([#56984](https://github.com/CleverRaven/Cataclysm-DDA/pull/56984))
 * Require mastering Basic Knapping and Wound Care to use speed knapping and adv. bandaging practices ([#56866](https://github.com/CleverRaven/Cataclysm-DDA/pull/56866))
 * Defer weakpoint set loading ([#56972](https://github.com/CleverRaven/Cataclysm-DDA/pull/56972))
@@ -137,12 +134,6 @@
 #### Cataclysm-DDA experimental build 2022-04-21-0706 ([8abcb3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0706))
 
 * Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-21-0551 ([bd20f38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0551))
-
-* Add missing Halloween plurals ([#56840](https://github.com/CleverRaven/Cataclysm-DDA/pull/56840))
 
 ---
 
@@ -192,5 +183,4 @@
 * Cleanup oter static vars ([#56855](https://github.com/CleverRaven/Cataclysm-DDA/pull/56855))
 * No Hope maintenance work ([#56850](https://github.com/CleverRaven/Cataclysm-DDA/pull/56850))
 * nerf day one mutant wasp speed ([#56848](https://github.com/CleverRaven/Cataclysm-DDA/pull/56848))
-* Remove full stop from "Cheers" ([#56841](https://github.com/CleverRaven/Cataclysm-DDA/pull/56841))
 * Remove "a" from `workbench_with_recharger` singular ([#56852](https://github.com/CleverRaven/Cataclysm-DDA/pull/56852))
