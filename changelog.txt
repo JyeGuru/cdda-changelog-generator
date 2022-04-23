@@ -1,3 +1,4 @@
+* Create proper rope uncraft recipes (#57068)
 * Wrist fixes (#57057)
 
 Cataclysm-DDA experimental build 2022-04-23-1817 (9e87626)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2022-04-20-2206 (d857d7d)
 * TropiCata: regional weather and climate rebalances (#56890)
 * fix: minor hub mapgen edits (#56857)
 * Adjusted onyx jewlerry description to match other (#56869)
-* fix: extra dresser in duplex (#56825)
 * Cleanup oter static vars (#56855)
 * No Hope maintenance work (#56850)
 * nerf day one mutant wasp speed (#56848)
