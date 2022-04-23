@@ -1,3 +1,5 @@
+* Fix loading foraging activity (#57020)
+* Conductive aluminum bat (#57079)
 
 Cataclysm-DDA experimental build 2022-04-23-2053 (ec173c3)
 * Dark Days of the Dead: Headshots, deadly bites, and a cleanup of out-of-setting stuff. (#56964)
@@ -127,7 +129,5 @@ Cataclysm-DDA experimental build 2022-04-21-0037 (1d96e06)
 * Cleanup oter static vars (#56855)
 * No Hope maintenance work (#56850)
 * nerf day one mutant wasp speed (#56848)
-* Use the practive/mechanics tab (#56837)
 * Remove full stop from "Cheers" (#56841)
 * Remove "a" from `workbench_with_recharger` singular (#56852)
-* generic_factory: ordered init. of static globals (#56836)
