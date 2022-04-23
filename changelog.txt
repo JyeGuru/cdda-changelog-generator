@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-23-2053 (ec173c3)
+* Dark Days of the Dead: Headshots, deadly bites, and a cleanup of out-of-setting stuff. (#56964)
+
 Cataclysm-DDA experimental build 2022-04-23-1928 (533d07a)
 * Fix hide site creation and make error message clearer (#57063)
 * Create proper rope uncraft recipes (#57068)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2022-04-21-0037 (1d96e06)
 * Revise rodentkin.json monster descriptions (#56880)
 * Correct density of multiple materials (#56868)
 * Washing machine appliance (#56950)
-
-Cataclysm-DDA experimental build 2022-04-20-2206 (d857d7d)
 * Add OVEN quality to the oven appliance (#56943)
 * Increase dmg size limit in macOS experimental release build process (#56949)
 * More storage boxes (#56899)
@@ -129,5 +130,4 @@ Cataclysm-DDA experimental build 2022-04-20-2206 (d857d7d)
 * Use the practive/mechanics tab (#56837)
 * Remove full stop from "Cheers" (#56841)
 * Remove "a" from `workbench_with_recharger` singular (#56852)
-* Routine i18n updates on 16 April 2022 (#56834)
 * generic_factory: ordered init. of static globals (#56836)

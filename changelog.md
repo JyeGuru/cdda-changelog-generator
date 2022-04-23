@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-23-2053 ([ec173c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-2053))
+
+* Dark Days of the Dead: Headshots, deadly bites, and a cleanup of out-of-setting stuff. ([#56964](https://github.com/CleverRaven/Cataclysm-DDA/pull/56964))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-23-1928 ([533d07a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-1928))
 
 * Fix hide site creation and make error message clearer ([#57063](https://github.com/CleverRaven/Cataclysm-DDA/pull/57063))
@@ -156,11 +162,6 @@
 * Revise rodentkin.json monster descriptions ([#56880](https://github.com/CleverRaven/Cataclysm-DDA/pull/56880))
 * Correct density of multiple materials ([#56868](https://github.com/CleverRaven/Cataclysm-DDA/pull/56868))
 * Washing machine appliance ([#56950](https://github.com/CleverRaven/Cataclysm-DDA/pull/56950))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-20-2206 ([d857d7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-20-2206))
-
 * Add OVEN quality to the oven appliance ([#56943](https://github.com/CleverRaven/Cataclysm-DDA/pull/56943))
 * Increase dmg size limit in macOS experimental release build process ([#56949](https://github.com/CleverRaven/Cataclysm-DDA/pull/56949))
 * More storage boxes ([#56899](https://github.com/CleverRaven/Cataclysm-DDA/pull/56899))
@@ -192,5 +193,4 @@
 * Use the practive/mechanics tab ([#56837](https://github.com/CleverRaven/Cataclysm-DDA/pull/56837))
 * Remove full stop from "Cheers" ([#56841](https://github.com/CleverRaven/Cataclysm-DDA/pull/56841))
 * Remove "a" from `workbench_with_recharger` singular ([#56852](https://github.com/CleverRaven/Cataclysm-DDA/pull/56852))
-* Routine i18n updates on 16 April 2022 ([#56834](https://github.com/CleverRaven/Cataclysm-DDA/pull/56834))
 * generic_factory: ordered init. of static globals ([#56836](https://github.com/CleverRaven/Cataclysm-DDA/pull/56836))
