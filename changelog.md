@@ -172,7 +172,6 @@
 * Fix medical UI / addictions compile error ([#56910](https://github.com/CleverRaven/Cataclysm-DDA/pull/56910))
 * Add a closing quote mark ([#56883](https://github.com/CleverRaven/Cataclysm-DDA/pull/56883))
 * Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
-* Improve display of the crafting screen header on narrow windows ([#56822](https://github.com/CleverRaven/Cataclysm-DDA/pull/56822))
 * [DinoMod] dino weak point proficiencies ([#56865](https://github.com/CleverRaven/Cataclysm-DDA/pull/56865))
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
