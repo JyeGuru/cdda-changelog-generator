@@ -1,3 +1,4 @@
+* item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
 
 ---
 
@@ -68,12 +69,6 @@
 * Weapon categories: Aikido, Judo, Bōjutsu and weapon category specific techniques ([#57008](https://github.com/CleverRaven/Cataclysm-DDA/pull/57008))
 * Baseball bats love ([#56995](https://github.com/CleverRaven/Cataclysm-DDA/pull/56995))
 * Exosuit Updates ([#56974](https://github.com/CleverRaven/Cataclysm-DDA/pull/56974))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-22-2352 ([a944c6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-2352))
-
-* More 5.7mm guns ([#56846](https://github.com/CleverRaven/Cataclysm-DDA/pull/56846))
 
 ---
 

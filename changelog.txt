@@ -1,3 +1,4 @@
+* item: don't use ret_val for pocket accessors (#57056)
 
 Cataclysm-DDA experimental build 2022-04-23-2201 (097be44)
 * MP18 → MP 18 (#57043)
@@ -44,9 +45,6 @@ Cataclysm-DDA experimental build 2022-04-23-0101 (40392e5)
 * Weapon categories: Aikido, Judo, Bōjutsu and weapon category specific techniques (#57008)
 * Baseball bats love (#56995)
 * Exosuit Updates (#56974)
-
-Cataclysm-DDA experimental build 2022-04-22-2352 (a944c6e)
-* More 5.7mm guns (#56846)
 
 Cataclysm-DDA experimental build 2022-04-22-1649 (2eef1a1)
 * Fix pneumatics proficiency typo (#57024)
