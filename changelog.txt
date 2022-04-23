@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-23-2313 (a1be28b)
 * item: don't use ret_val for pocket accessors (#57056)
 
 Cataclysm-DDA experimental build 2022-04-23-2201 (097be44)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2022-04-21-0306 (cc09934)
 
 Cataclysm-DDA experimental build 2022-04-21-0206 (7bada03)
 * Fix siphoning for washing machine & dishwasher (#56968)
-
-Cataclysm-DDA experimental build 2022-04-21-0037 (1d96e06)
 * New dialogue trial type to check the level of a skill against a flat difficulty (#56896)
 * Revise rodentkin.json monster descriptions (#56880)
 * Correct density of multiple materials (#56868)
