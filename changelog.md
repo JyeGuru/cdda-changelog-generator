@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-23-2201 ([097be44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-2201))
+
 * MP18 → MP 18 ([#57043](https://github.com/CleverRaven/Cataclysm-DDA/pull/57043))
 * Add missing full stops to CRIT bladework descriptions ([#57038](https://github.com/CleverRaven/Cataclysm-DDA/pull/57038))
 * Fungal-raptor → fungal raptor ([#57032](https://github.com/CleverRaven/Cataclysm-DDA/pull/57032))
