@@ -1,3 +1,4 @@
+* Autoclave Appliance ([#57007](https://github.com/CleverRaven/Cataclysm-DDA/pull/57007))
 * Added a new evac shelter basement for shelter_1 ([#57026](https://github.com/CleverRaven/Cataclysm-DDA/pull/57026))
 * Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))
 
@@ -172,7 +173,6 @@
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
 * TropiCata: regional weather and climate rebalances ([#56890](https://github.com/CleverRaven/Cataclysm-DDA/pull/56890))
-* Allow examining furniture to convert to appliances ([#56807](https://github.com/CleverRaven/Cataclysm-DDA/pull/56807))
 * fix: minor hub mapgen edits ([#56857](https://github.com/CleverRaven/Cataclysm-DDA/pull/56857))
 * Adjusted onyx jewlerry description to match other ([#56869](https://github.com/CleverRaven/Cataclysm-DDA/pull/56869))
 * fix: extra dresser in duplex ([#56825](https://github.com/CleverRaven/Cataclysm-DDA/pull/56825))

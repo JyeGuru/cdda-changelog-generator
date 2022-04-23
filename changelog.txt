@@ -1,3 +1,4 @@
+* Autoclave Appliance (#57007)
 * Added a new evac shelter basement for shelter_1 (#57026)
 * Fix Aleesha dialogue (#57065)
 
@@ -112,7 +113,6 @@ Cataclysm-DDA experimental build 2022-04-20-1704 (e591d9f)
 * Car battery appliance (#56876)
 * inv_ui: check only allowed parents in indent sort (#56867)
 * TropiCata: regional weather and climate rebalances (#56890)
-* Allow examining furniture to convert to appliances (#56807)
 * fix: minor hub mapgen edits (#56857)
 * Adjusted onyx jewlerry description to match other (#56869)
 * fix: extra dresser in duplex (#56825)
