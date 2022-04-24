@@ -1,3 +1,4 @@
+* item: unhardcode shoulder straps (#57108)
 
 Cataclysm-DDA experimental build 2022-04-24-1154 (d1c89ba)
 * Shuttlecock spawns (#57104)
@@ -124,5 +125,4 @@ Cataclysm-DDA experimental build 2022-04-21-2353 (93c5670)
 * Add a closing quote mark (#56883)
 * Misc fixes to MA mod (2022-04-18) (#56895)
 * Cap the duration of the forge of wonders' anti-invisibility effect (#56900)
-* Car battery appliance (#56876)
 * TropiCata: regional weather and climate rebalances (#56890)

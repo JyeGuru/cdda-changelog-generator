@@ -1,3 +1,4 @@
+* item: unhardcode shoulder straps ([#57108](https://github.com/CleverRaven/Cataclysm-DDA/pull/57108))
 
 ---
 
@@ -181,5 +182,4 @@
 * Add a closing quote mark ([#56883](https://github.com/CleverRaven/Cataclysm-DDA/pull/56883))
 * Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
-* Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * TropiCata: regional weather and climate rebalances ([#56890](https://github.com/CleverRaven/Cataclysm-DDA/pull/56890))
