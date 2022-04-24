@@ -1,3 +1,6 @@
+* Added external options to override status and fuel for spawned vehicles ([#56956](https://github.com/CleverRaven/Cataclysm-DDA/pull/56956))
+* Fix microlab toilet water and remove counters generating in walls ([#57067](https://github.com/CleverRaven/Cataclysm-DDA/pull/57067))
+* Swimming gloves soft ([#57074](https://github.com/CleverRaven/Cataclysm-DDA/pull/57074))
 * Remove extra T ([#57087](https://github.com/CleverRaven/Cataclysm-DDA/pull/57087))
 * Add missing comma ([#57090](https://github.com/CleverRaven/Cataclysm-DDA/pull/57090))
 
@@ -160,7 +163,6 @@
 * Fix siphoning for washing machine & dishwasher ([#56968](https://github.com/CleverRaven/Cataclysm-DDA/pull/56968))
 * New dialogue trial type to check the level of a skill against a flat difficulty ([#56896](https://github.com/CleverRaven/Cataclysm-DDA/pull/56896))
 * Revise rodentkin.json monster descriptions ([#56880](https://github.com/CleverRaven/Cataclysm-DDA/pull/56880))
-* Correct density of multiple materials ([#56868](https://github.com/CleverRaven/Cataclysm-DDA/pull/56868))
 * Washing machine appliance ([#56950](https://github.com/CleverRaven/Cataclysm-DDA/pull/56950))
 * Add OVEN quality to the oven appliance ([#56943](https://github.com/CleverRaven/Cataclysm-DDA/pull/56943))
 * Increase dmg size limit in macOS experimental release build process ([#56949](https://github.com/CleverRaven/Cataclysm-DDA/pull/56949))
@@ -179,6 +181,4 @@
 * Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
-* inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
 * TropiCata: regional weather and climate rebalances ([#56890](https://github.com/CleverRaven/Cataclysm-DDA/pull/56890))
-* Adjusted onyx jewlerry description to match other ([#56869](https://github.com/CleverRaven/Cataclysm-DDA/pull/56869))
