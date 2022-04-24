@@ -1,3 +1,4 @@
+* Fix encumbrance and comfort updating after tailoring and wielding worn items ([#57077](https://github.com/CleverRaven/Cataclysm-DDA/pull/57077))
 * MP18 → MP 18, MP40 → MP 40 ([#57112](https://github.com/CleverRaven/Cataclysm-DDA/pull/57112))
 * remove unused line in translation ([#57114](https://github.com/CleverRaven/Cataclysm-DDA/pull/57114))
 * item: fix magazine_default for null ammo ([#57115](https://github.com/CleverRaven/Cataclysm-DDA/pull/57115))
@@ -190,7 +191,6 @@
 * Washing machine appliance ([#56950](https://github.com/CleverRaven/Cataclysm-DDA/pull/56950))
 * Add OVEN quality to the oven appliance ([#56943](https://github.com/CleverRaven/Cataclysm-DDA/pull/56943))
 * Increase dmg size limit in macOS experimental release build process ([#56949](https://github.com/CleverRaven/Cataclysm-DDA/pull/56949))
-* More storage boxes ([#56899](https://github.com/CleverRaven/Cataclysm-DDA/pull/56899))
 * [Innawoods] Welding and plastic molding ([#56946](https://github.com/CleverRaven/Cataclysm-DDA/pull/56946))
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
