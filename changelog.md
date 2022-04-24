@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-24-1648 ([77235b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1648))
+
 * Fix an inaccuracy in NPCs.md regarding dialogue skill checks ([#57118](https://github.com/CleverRaven/Cataclysm-DDA/pull/57118))
 
 ---
