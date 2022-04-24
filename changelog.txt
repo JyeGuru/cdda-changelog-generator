@@ -1,3 +1,4 @@
+* Try to break free before jumping over the ledge or climbing/crawling down (#57073)
 * Fix mutagen addiction test (#57053)
 
 Cataclysm-DDA experimental build 2022-04-24-0336 (7e2f77a)
@@ -125,5 +126,4 @@ Cataclysm-DDA experimental build 2022-04-21-0706 (8abcb3f)
 * Car battery appliance (#56876)
 * inv_ui: check only allowed parents in indent sort (#56867)
 * TropiCata: regional weather and climate rebalances (#56890)
-* fix: minor hub mapgen edits (#56857)
 * Adjusted onyx jewlerry description to match other (#56869)

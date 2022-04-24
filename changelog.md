@@ -1,3 +1,4 @@
+* Try to break free before jumping over the ledge or climbing/crawling down ([#57073](https://github.com/CleverRaven/Cataclysm-DDA/pull/57073))
 * Fix mutagen addiction test ([#57053](https://github.com/CleverRaven/Cataclysm-DDA/pull/57053))
 
 ---
@@ -185,5 +186,4 @@
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
 * TropiCata: regional weather and climate rebalances ([#56890](https://github.com/CleverRaven/Cataclysm-DDA/pull/56890))
-* fix: minor hub mapgen edits ([#56857](https://github.com/CleverRaven/Cataclysm-DDA/pull/56857))
 * Adjusted onyx jewlerry description to match other ([#56869](https://github.com/CleverRaven/Cataclysm-DDA/pull/56869))
