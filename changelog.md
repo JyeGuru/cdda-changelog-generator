@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-24-2338 ([4b7f27b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-2338))
+
 * Fix encumbrance and comfort updating after tailoring and wielding worn items ([#57077](https://github.com/CleverRaven/Cataclysm-DDA/pull/57077))
 * MP18 → MP 18, MP40 → MP 40 ([#57112](https://github.com/CleverRaven/Cataclysm-DDA/pull/57112))
 * remove unused line in translation ([#57114](https://github.com/CleverRaven/Cataclysm-DDA/pull/57114))
