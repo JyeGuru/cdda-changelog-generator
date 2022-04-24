@@ -1,3 +1,10 @@
+* Fix mutagen addiction test ([#57053](https://github.com/CleverRaven/Cataclysm-DDA/pull/57053))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-24-0336 ([7e2f77a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0336))
+
+* Prevent item insert crash ([#56863](https://github.com/CleverRaven/Cataclysm-DDA/pull/56863))
 
 ---
 
@@ -162,7 +169,6 @@
 * More storage boxes ([#56899](https://github.com/CleverRaven/Cataclysm-DDA/pull/56899))
 * Unify engine names and descriptions ([#56884](https://github.com/CleverRaven/Cataclysm-DDA/pull/56884))
 * [Innawoods] Welding and plastic molding ([#56946](https://github.com/CleverRaven/Cataclysm-DDA/pull/56946))
-* grey → gray ([#56853](https://github.com/CleverRaven/Cataclysm-DDA/pull/56853))
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
 * [MMA] Weapon Categories: Shii-Cho ([#56904](https://github.com/CleverRaven/Cataclysm-DDA/pull/56904))
@@ -170,7 +176,6 @@
 * Fix compile error in experimental release on macOS ([#56918](https://github.com/CleverRaven/Cataclysm-DDA/pull/56918))
 * savegame: migrate addiction variants ([#56915](https://github.com/CleverRaven/Cataclysm-DDA/pull/56915))
 * Add a missing full stop to one of Rubik's translated dialogs ([#56860](https://github.com/CleverRaven/Cataclysm-DDA/pull/56860))
-* Add exception of US English for dialogs in manual of style ([#56854](https://github.com/CleverRaven/Cataclysm-DDA/pull/56854))
 * Unequip armor transformed into non-armor ([#56892](https://github.com/CleverRaven/Cataclysm-DDA/pull/56892))
 * Fix medical UI / addictions compile error ([#56910](https://github.com/CleverRaven/Cataclysm-DDA/pull/56910))
 * Add a closing quote mark ([#56883](https://github.com/CleverRaven/Cataclysm-DDA/pull/56883))
@@ -182,4 +187,3 @@
 * TropiCata: regional weather and climate rebalances ([#56890](https://github.com/CleverRaven/Cataclysm-DDA/pull/56890))
 * fix: minor hub mapgen edits ([#56857](https://github.com/CleverRaven/Cataclysm-DDA/pull/56857))
 * Adjusted onyx jewlerry description to match other ([#56869](https://github.com/CleverRaven/Cataclysm-DDA/pull/56869))
-* Cleanup oter static vars ([#56855](https://github.com/CleverRaven/Cataclysm-DDA/pull/56855))
