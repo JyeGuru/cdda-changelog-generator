@@ -1,3 +1,10 @@
+* Remove extra T ([#57087](https://github.com/CleverRaven/Cataclysm-DDA/pull/57087))
+* Add missing comma ([#57090](https://github.com/CleverRaven/Cataclysm-DDA/pull/57090))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-24-0549 ([9b93808](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0549))
+
 * [Innawoods] Baking and dummies ([#57070](https://github.com/CleverRaven/Cataclysm-DDA/pull/57070))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Try to break free before jumping over the ledge or climbing/crawling down ([#57073](https://github.com/CleverRaven/Cataclysm-DDA/pull/57073))
@@ -127,7 +134,6 @@
 * Adjust armband pouch encumbrance ([#56978](https://github.com/CleverRaven/Cataclysm-DDA/pull/56978))
 * Dollar store costumes spawn ([#56979](https://github.com/CleverRaven/Cataclysm-DDA/pull/56979))
 * Add field_remove and clear back bay and garage ([#56984](https://github.com/CleverRaven/Cataclysm-DDA/pull/56984))
-* Require mastering Basic Knapping and Wound Care to use speed knapping and adv. bandaging practices ([#56866](https://github.com/CleverRaven/Cataclysm-DDA/pull/56866))
 * Defer weakpoint set loading ([#56972](https://github.com/CleverRaven/Cataclysm-DDA/pull/56972))
 
 ---
@@ -149,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2022-04-21-2033 ([445fc89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-2033))
 
 * Fixes Hub 01 having extremely enthusiastic camspy operators ([#56921](https://github.com/CleverRaven/Cataclysm-DDA/pull/56921))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-21-0706 ([8abcb3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0706))
-
 * Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
 * Hub 01 Renovations ([#56942](https://github.com/CleverRaven/Cataclysm-DDA/pull/56942))
 * Fix siphoning for washing machine & dishwasher ([#56968](https://github.com/CleverRaven/Cataclysm-DDA/pull/56968))
@@ -176,7 +177,6 @@
 * Fix medical UI / addictions compile error ([#56910](https://github.com/CleverRaven/Cataclysm-DDA/pull/56910))
 * Add a closing quote mark ([#56883](https://github.com/CleverRaven/Cataclysm-DDA/pull/56883))
 * Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
-* [DinoMod] dino weak point proficiencies ([#56865](https://github.com/CleverRaven/Cataclysm-DDA/pull/56865))
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
 * Car battery appliance ([#56876](https://github.com/CleverRaven/Cataclysm-DDA/pull/56876))
 * inv_ui: check only allowed parents in indent sort ([#56867](https://github.com/CleverRaven/Cataclysm-DDA/pull/56867))
