@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-24-1432 ([5781898](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1432))
+
+* Clay ovens ([#57066](https://github.com/CleverRaven/Cataclysm-DDA/pull/57066))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-24-1301 ([c62a895](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1301))
 
 * item: unhardcode shoulder straps ([#57108](https://github.com/CleverRaven/Cataclysm-DDA/pull/57108))
@@ -155,11 +161,6 @@
 * Dollar store costumes spawn ([#56979](https://github.com/CleverRaven/Cataclysm-DDA/pull/56979))
 * Add field_remove and clear back bay and garage ([#56984](https://github.com/CleverRaven/Cataclysm-DDA/pull/56984))
 * Defer weakpoint set loading ([#56972](https://github.com/CleverRaven/Cataclysm-DDA/pull/56972))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-21-2353 ([93c5670](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-2353))
-
 * Adjust cudgel crafting requirements and make new "wooden clubs" as 0 skill replacement. ([#56953](https://github.com/CleverRaven/Cataclysm-DDA/pull/56953))
 * [Innawood] Sewing and Tailor Kit plastic free fix ([#56929](https://github.com/CleverRaven/Cataclysm-DDA/pull/56929))
 * Irradiated singular/plural mismatch correction ([#56980](https://github.com/CleverRaven/Cataclysm-DDA/pull/56980))
@@ -169,7 +170,6 @@
 * Hub 01 Renovations ([#56942](https://github.com/CleverRaven/Cataclysm-DDA/pull/56942))
 * Fix siphoning for washing machine & dishwasher ([#56968](https://github.com/CleverRaven/Cataclysm-DDA/pull/56968))
 * New dialogue trial type to check the level of a skill against a flat difficulty ([#56896](https://github.com/CleverRaven/Cataclysm-DDA/pull/56896))
-* Revise rodentkin.json monster descriptions ([#56880](https://github.com/CleverRaven/Cataclysm-DDA/pull/56880))
 * Washing machine appliance ([#56950](https://github.com/CleverRaven/Cataclysm-DDA/pull/56950))
 * Add OVEN quality to the oven appliance ([#56943](https://github.com/CleverRaven/Cataclysm-DDA/pull/56943))
 * Increase dmg size limit in macOS experimental release build process ([#56949](https://github.com/CleverRaven/Cataclysm-DDA/pull/56949))
