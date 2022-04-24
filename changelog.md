@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-24-0200 ([45671a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0200))
+
+* Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-24-0028 ([ed649e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0028))
+
+* Allow true or false effects of talk effects ([#56932](https://github.com/CleverRaven/Cataclysm-DDA/pull/56932))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-23-2313 ([a1be28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-2313))
 
 * item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
@@ -139,17 +151,7 @@
 #### Cataclysm-DDA experimental build 2022-04-21-0706 ([8abcb3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0706))
 
 * Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-21-0306 ([cc09934](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0306))
-
 * Hub 01 Renovations ([#56942](https://github.com/CleverRaven/Cataclysm-DDA/pull/56942))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-21-0206 ([7bada03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-0206))
-
 * Fix siphoning for washing machine & dishwasher ([#56968](https://github.com/CleverRaven/Cataclysm-DDA/pull/56968))
 * New dialogue trial type to check the level of a skill against a flat difficulty ([#56896](https://github.com/CleverRaven/Cataclysm-DDA/pull/56896))
 * Revise rodentkin.json monster descriptions ([#56880](https://github.com/CleverRaven/Cataclysm-DDA/pull/56880))
@@ -181,6 +183,3 @@
 * fix: minor hub mapgen edits ([#56857](https://github.com/CleverRaven/Cataclysm-DDA/pull/56857))
 * Adjusted onyx jewlerry description to match other ([#56869](https://github.com/CleverRaven/Cataclysm-DDA/pull/56869))
 * Cleanup oter static vars ([#56855](https://github.com/CleverRaven/Cataclysm-DDA/pull/56855))
-* No Hope maintenance work ([#56850](https://github.com/CleverRaven/Cataclysm-DDA/pull/56850))
-* nerf day one mutant wasp speed ([#56848](https://github.com/CleverRaven/Cataclysm-DDA/pull/56848))
-* Remove "a" from `workbench_with_recharger` singular ([#56852](https://github.com/CleverRaven/Cataclysm-DDA/pull/56852))
