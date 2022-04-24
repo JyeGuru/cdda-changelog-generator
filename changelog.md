@@ -1,3 +1,4 @@
+* Warmth is now more granular on sub covered limbs ([#57096](https://github.com/CleverRaven/Cataclysm-DDA/pull/57096))
 * Unify options screen names ([#57113](https://github.com/CleverRaven/Cataclysm-DDA/pull/57113))
 
 ---
@@ -175,7 +176,6 @@
 * Add OVEN quality to the oven appliance ([#56943](https://github.com/CleverRaven/Cataclysm-DDA/pull/56943))
 * Increase dmg size limit in macOS experimental release build process ([#56949](https://github.com/CleverRaven/Cataclysm-DDA/pull/56949))
 * More storage boxes ([#56899](https://github.com/CleverRaven/Cataclysm-DDA/pull/56899))
-* Unify engine names and descriptions ([#56884](https://github.com/CleverRaven/Cataclysm-DDA/pull/56884))
 * [Innawoods] Welding and plastic molding ([#56946](https://github.com/CleverRaven/Cataclysm-DDA/pull/56946))
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
