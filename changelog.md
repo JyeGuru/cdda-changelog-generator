@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-24-0655 ([0b45ac6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0655))
+
 * [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
 * elf-a → Elf-A ([#57080](https://github.com/CleverRaven/Cataclysm-DDA/pull/57080))
 * Added external options to override status and fuel for spawned vehicles ([#56956](https://github.com/CleverRaven/Cataclysm-DDA/pull/56956))
@@ -152,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2022-04-21-2141 ([c968ef3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-2141))
 
 * [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-21-2033 ([445fc89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-2033))
-
 * Fixes Hub 01 having extremely enthusiastic camspy operators ([#56921](https://github.com/CleverRaven/Cataclysm-DDA/pull/56921))
 * Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
 * Hub 01 Renovations ([#56942](https://github.com/CleverRaven/Cataclysm-DDA/pull/56942))
