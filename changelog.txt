@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-24-1301 (c62a895)
 * item: unhardcode shoulder straps (#57108)
 
 Cataclysm-DDA experimental build 2022-04-24-1154 (d1c89ba)
