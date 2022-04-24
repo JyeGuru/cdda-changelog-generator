@@ -1,12 +1,7 @@
+* [Innawoods] Baking and dummies ([#57070](https://github.com/CleverRaven/Cataclysm-DDA/pull/57070))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Try to break free before jumping over the ledge or climbing/crawling down ([#57073](https://github.com/CleverRaven/Cataclysm-DDA/pull/57073))
 * Fix mutagen addiction test ([#57053](https://github.com/CleverRaven/Cataclysm-DDA/pull/57053))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-0336 ([7e2f77a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0336))
-
-* Prevent item insert crash ([#56863](https://github.com/CleverRaven/Cataclysm-DDA/pull/56863))
 
 ---
 

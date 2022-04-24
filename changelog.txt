@@ -1,9 +1,7 @@
+* [Innawoods] Baking and dummies (#57070)
 * More Rigid Fixes (#57093)
 * Try to break free before jumping over the ledge or climbing/crawling down (#57073)
 * Fix mutagen addiction test (#57053)
-
-Cataclysm-DDA experimental build 2022-04-24-0336 (7e2f77a)
-* Prevent item insert crash (#56863)
 
 Cataclysm-DDA experimental build 2022-04-24-0200 (45671a0)
 * Revert "Create proper rope uncraft recipes (#57068)" (#57095)
