@@ -1,3 +1,6 @@
+* MP18 → MP 18, MP40 → MP 40 ([#57112](https://github.com/CleverRaven/Cataclysm-DDA/pull/57112))
+* remove unused line in translation ([#57114](https://github.com/CleverRaven/Cataclysm-DDA/pull/57114))
+* item: fix magazine_default for null ammo ([#57115](https://github.com/CleverRaven/Cataclysm-DDA/pull/57115))
 * [DinoMod] large boiled dino egg fixes ([#57110](https://github.com/CleverRaven/Cataclysm-DDA/pull/57110))
 
 ---
@@ -184,7 +187,6 @@
 * Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
 * Hub 01 Renovations ([#56942](https://github.com/CleverRaven/Cataclysm-DDA/pull/56942))
 * Fix siphoning for washing machine & dishwasher ([#56968](https://github.com/CleverRaven/Cataclysm-DDA/pull/56968))
-* New dialogue trial type to check the level of a skill against a flat difficulty ([#56896](https://github.com/CleverRaven/Cataclysm-DDA/pull/56896))
 * Washing machine appliance ([#56950](https://github.com/CleverRaven/Cataclysm-DDA/pull/56950))
 * Add OVEN quality to the oven appliance ([#56943](https://github.com/CleverRaven/Cataclysm-DDA/pull/56943))
 * Increase dmg size limit in macOS experimental release build process ([#56949](https://github.com/CleverRaven/Cataclysm-DDA/pull/56949))
@@ -197,5 +199,4 @@
 * Fix compile error in experimental release on macOS ([#56918](https://github.com/CleverRaven/Cataclysm-DDA/pull/56918))
 * savegame: migrate addiction variants ([#56915](https://github.com/CleverRaven/Cataclysm-DDA/pull/56915))
 * Fix medical UI / addictions compile error ([#56910](https://github.com/CleverRaven/Cataclysm-DDA/pull/56910))
-* Misc fixes to MA mod (2022-04-18) ([#56895](https://github.com/CleverRaven/Cataclysm-DDA/pull/56895))
 * Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
