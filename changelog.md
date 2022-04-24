@@ -1,3 +1,5 @@
+* [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
+* elf-a → Elf-A ([#57080](https://github.com/CleverRaven/Cataclysm-DDA/pull/57080))
 * Added external options to override status and fuel for spawned vehicles ([#56956](https://github.com/CleverRaven/Cataclysm-DDA/pull/56956))
 * Fix microlab toilet water and remove counters generating in walls ([#57067](https://github.com/CleverRaven/Cataclysm-DDA/pull/57067))
 * Swimming gloves soft ([#57074](https://github.com/CleverRaven/Cataclysm-DDA/pull/57074))
@@ -114,7 +116,6 @@
 * Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
 * Adds a new evolved child zombie ([#56914](https://github.com/CleverRaven/Cataclysm-DDA/pull/56914))
 * ci: more auto labeling ([#56963](https://github.com/CleverRaven/Cataclysm-DDA/pull/56963))
-* Shockers can launch their attack through impassable terrain with `THIN_OBSTACLE` or `PERMEABLE` flags ([#56871](https://github.com/CleverRaven/Cataclysm-DDA/pull/56871))
 * Adjusts the headless horror to sane levels ([#56947](https://github.com/CleverRaven/Cataclysm-DDA/pull/56947))
 * Add wolf puppies ([#56982](https://github.com/CleverRaven/Cataclysm-DDA/pull/56982))
 * Add hydration pouches to hiking backpack and military rucksack ([#57001](https://github.com/CleverRaven/Cataclysm-DDA/pull/57001))
@@ -127,7 +128,6 @@
 #### Cataclysm-DDA experimental build 2022-04-22-0522 ([4ba96aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-0522))
 
 * Fix wall wiring removal ([#57011](https://github.com/CleverRaven/Cataclysm-DDA/pull/57011))
-* Changes volume and length of steel resources ([#56870](https://github.com/CleverRaven/Cataclysm-DDA/pull/56870))
 
 ---
 
