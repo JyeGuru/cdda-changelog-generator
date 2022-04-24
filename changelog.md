@@ -1,3 +1,4 @@
+* Fix an inaccuracy in NPCs.md regarding dialogue skill checks ([#57118](https://github.com/CleverRaven/Cataclysm-DDA/pull/57118))
 
 ---
 
