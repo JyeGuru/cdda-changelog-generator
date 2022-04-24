@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-24-1533 ([968108c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1533))
+
 * Warmth is now more granular on sub covered limbs ([#57096](https://github.com/CleverRaven/Cataclysm-DDA/pull/57096))
 * Unify options screen names ([#57113](https://github.com/CleverRaven/Cataclysm-DDA/pull/57113))
 
