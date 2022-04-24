@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-24-1154 (d1c89ba)
+* Shuttlecock spawns (#57104)
+
 Cataclysm-DDA experimental build 2022-04-24-0655 (0b45ac6)
 * [DinoMod] DDotD compatibility fix (#57091)
 * elf-a → Elf-A (#57080)
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2022-04-21-2353 (93c5670)
 * Adjust cudgel crafting requirements and make new "wooden clubs" as 0 skill replacement. (#56953)
 * [Innawood] Sewing and Tailor Kit plastic free fix (#56929)
 * Irradiated singular/plural mismatch correction (#56980)
-
-Cataclysm-DDA experimental build 2022-04-21-2141 (c968ef3)
 * [DinoMod] wilderness spawn rebalance (#56987)
 * Fixes Hub 01 having extremely enthusiastic camspy operators (#56921)
 * Move refugee center fence in to leave room for defenses (#56970)

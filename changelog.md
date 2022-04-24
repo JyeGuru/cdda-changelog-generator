@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-24-1154 ([d1c89ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1154))
+
+* Shuttlecock spawns ([#57104](https://github.com/CleverRaven/Cataclysm-DDA/pull/57104))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-24-0655 ([0b45ac6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0655))
 
 * [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
@@ -151,11 +157,6 @@
 * Adjust cudgel crafting requirements and make new "wooden clubs" as 0 skill replacement. ([#56953](https://github.com/CleverRaven/Cataclysm-DDA/pull/56953))
 * [Innawood] Sewing and Tailor Kit plastic free fix ([#56929](https://github.com/CleverRaven/Cataclysm-DDA/pull/56929))
 * Irradiated singular/plural mismatch correction ([#56980](https://github.com/CleverRaven/Cataclysm-DDA/pull/56980))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-21-2141 ([c968ef3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-21-2141))
-
 * [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))
 * Fixes Hub 01 having extremely enthusiastic camspy operators ([#56921](https://github.com/CleverRaven/Cataclysm-DDA/pull/56921))
 * Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
