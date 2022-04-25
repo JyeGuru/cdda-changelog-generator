@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-25-0216 ([c36b042](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-0216))
+
+* Heres → Here's ([#57089](https://github.com/CleverRaven/Cataclysm-DDA/pull/57089))
+* Fix tiaras throwing error ([#57117](https://github.com/CleverRaven/Cataclysm-DDA/pull/57117))
+* Sanitize NPC item value logic ([#57029](https://github.com/CleverRaven/Cataclysm-DDA/pull/57029))
+* feat: label issues by template+confirm bug command ([#57072](https://github.com/CleverRaven/Cataclysm-DDA/pull/57072))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-24-2338 ([4b7f27b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-2338))
 
 * Fix encumbrance and comfort updating after tailoring and wielding worn items ([#57077](https://github.com/CleverRaven/Cataclysm-DDA/pull/57077))
@@ -171,14 +180,8 @@
 * Adjusts the headless horror to sane levels ([#56947](https://github.com/CleverRaven/Cataclysm-DDA/pull/56947))
 * Add wolf puppies ([#56982](https://github.com/CleverRaven/Cataclysm-DDA/pull/56982))
 * Add hydration pouches to hiking backpack and military rucksack ([#57001](https://github.com/CleverRaven/Cataclysm-DDA/pull/57001))
-* Re-enable repairing chitin using chunks ([#56903](https://github.com/CleverRaven/Cataclysm-DDA/pull/56903))
 * Rename different steel types ([#56913](https://github.com/CleverRaven/Cataclysm-DDA/pull/56913))
 * labeler.yml: Add Melee label ([#56999](https://github.com/CleverRaven/Cataclysm-DDA/pull/56999))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-22-0522 ([4ba96aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-0522))
-
 * Fix wall wiring removal ([#57011](https://github.com/CleverRaven/Cataclysm-DDA/pull/57011))
 * Mass nuts ([#57002](https://github.com/CleverRaven/Cataclysm-DDA/pull/57002))
 * Adjust armband pouch encumbrance ([#56978](https://github.com/CleverRaven/Cataclysm-DDA/pull/56978))
@@ -199,9 +202,7 @@
 * [Innawoods] Welding and plastic molding ([#56946](https://github.com/CleverRaven/Cataclysm-DDA/pull/56946))
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
-* [MMA] Weapon Categories: Shii-Cho ([#56904](https://github.com/CleverRaven/Cataclysm-DDA/pull/56904))
 * [DinoMod] harvest cleanup ([#56909](https://github.com/CleverRaven/Cataclysm-DDA/pull/56909))
 * Fix compile error in experimental release on macOS ([#56918](https://github.com/CleverRaven/Cataclysm-DDA/pull/56918))
 * savegame: migrate addiction variants ([#56915](https://github.com/CleverRaven/Cataclysm-DDA/pull/56915))
 * Fix medical UI / addictions compile error ([#56910](https://github.com/CleverRaven/Cataclysm-DDA/pull/56910))
-* Cap the duration of the forge of wonders' anti-invisibility effect ([#56900](https://github.com/CleverRaven/Cataclysm-DDA/pull/56900))
