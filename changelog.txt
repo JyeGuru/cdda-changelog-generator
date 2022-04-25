@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-25-2239 (209b7d1)
 * Fix scrolling of dialog responses and standardize the scrollbar (#57153)
 * Fix typos in faction camp menus (#57141)
 * npctrade: fix bionic installation prices (#57135)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2022-04-23-1449 (dd9f086)
 
 Cataclysm-DDA experimental build 2022-04-23-0523 (d546a90)
 * Routine i18n updates on 23 April 2022 (#57049)
-
-Cataclysm-DDA experimental build 2022-04-23-0101 (40392e5)
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes (#57018)
 * Update entry_tools.json to-hit values to use the new categorized system (#56973)
 * [Innawoods] Make Lonely Cave start available (#57035)
@@ -128,7 +128,6 @@ Cataclysm-DDA experimental build 2022-04-23-0101 (40392e5)
 * Exosuit Updates (#56974)
 * Fix pneumatics proficiency typo (#57024)
 * Add precise strike to batons/tonfas, remove from qiang, fix description (#57015)
-* ci: more auto labeling (#56963)
 * Add wolf puppies (#56982)
 * Add hydration pouches to hiking backpack and military rucksack (#57001)
 * labeler.yml: Add Melee label (#56999)

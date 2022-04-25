@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-25-2239 ([209b7d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-2239))
+
 * Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
 * Fix typos in faction camp menus ([#57141](https://github.com/CleverRaven/Cataclysm-DDA/pull/57141))
 * npctrade: fix bionic installation prices ([#57135](https://github.com/CleverRaven/Cataclysm-DDA/pull/57135))
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2022-04-23-0523 ([d546a90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-0523))
 
 * Routine i18n updates on 23 April 2022 ([#57049](https://github.com/CleverRaven/Cataclysm-DDA/pull/57049))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-23-0101 ([40392e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-0101))
-
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes ([#57018](https://github.com/CleverRaven/Cataclysm-DDA/pull/57018))
 * Update entry_tools.json to-hit values to use the new categorized system ([#56973](https://github.com/CleverRaven/Cataclysm-DDA/pull/56973))
 * [Innawoods] Make Lonely Cave start available ([#57035](https://github.com/CleverRaven/Cataclysm-DDA/pull/57035))
@@ -206,7 +206,6 @@
 * Exosuit Updates ([#56974](https://github.com/CleverRaven/Cataclysm-DDA/pull/56974))
 * Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
 * Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
-* ci: more auto labeling ([#56963](https://github.com/CleverRaven/Cataclysm-DDA/pull/56963))
 * Add wolf puppies ([#56982](https://github.com/CleverRaven/Cataclysm-DDA/pull/56982))
 * Add hydration pouches to hiking backpack and military rucksack ([#57001](https://github.com/CleverRaven/Cataclysm-DDA/pull/57001))
 * labeler.yml: Add Melee label ([#56999](https://github.com/CleverRaven/Cataclysm-DDA/pull/56999))
