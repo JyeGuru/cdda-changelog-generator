@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-25-1942 ([9263c61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-1942))
+
 * Costume professions ([#57062](https://github.com/CleverRaven/Cataclysm-DDA/pull/57062))
 * Swimming spawns revamp ([#57103](https://github.com/CleverRaven/Cataclysm-DDA/pull/57103))
 * Revamp Really Bad Day professions ([#57134](https://github.com/CleverRaven/Cataclysm-DDA/pull/57134))
