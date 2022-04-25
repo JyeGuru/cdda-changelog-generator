@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-25-2137 (176634a)
 * Clarified drum/double drum for HWP gun (#57149)
 
 Cataclysm-DDA experimental build 2022-04-25-1942 (9263c61)
