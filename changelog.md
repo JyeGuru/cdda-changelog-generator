@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-25-1228 ([44c51a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-1228))
+
+* Add two new drum magazines to Hub01 gun ([#57128](https://github.com/CleverRaven/Cataclysm-DDA/pull/57128))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-25-0724 ([8206614](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-0724))
 
 * Update reward for rescuing Barry Isherwood ([#57131](https://github.com/CleverRaven/Cataclysm-DDA/pull/57131))
@@ -176,14 +182,8 @@
 * Weapon categories: Aikido, Judo, Bōjutsu and weapon category specific techniques ([#57008](https://github.com/CleverRaven/Cataclysm-DDA/pull/57008))
 * Baseball bats love ([#56995](https://github.com/CleverRaven/Cataclysm-DDA/pull/56995))
 * Exosuit Updates ([#56974](https://github.com/CleverRaven/Cataclysm-DDA/pull/56974))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-22-1649 ([2eef1a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-1649))
-
 * Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
 * Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
-* Adds a new evolved child zombie ([#56914](https://github.com/CleverRaven/Cataclysm-DDA/pull/56914))
 * ci: more auto labeling ([#56963](https://github.com/CleverRaven/Cataclysm-DDA/pull/56963))
 * Adjusts the headless horror to sane levels ([#56947](https://github.com/CleverRaven/Cataclysm-DDA/pull/56947))
 * Add wolf puppies ([#56982](https://github.com/CleverRaven/Cataclysm-DDA/pull/56982))

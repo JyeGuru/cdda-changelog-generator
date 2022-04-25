@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-25-1228 (44c51a4)
+* Add two new drum magazines to Hub01 gun (#57128)
+
 Cataclysm-DDA experimental build 2022-04-25-0724 (8206614)
 * Update reward for rescuing Barry Isherwood (#57131)
 * Change 3 init.cpp items to title case (#57130)
@@ -107,11 +110,8 @@ Cataclysm-DDA experimental build 2022-04-23-0101 (40392e5)
 * Weapon categories: Aikido, Judo, Bōjutsu and weapon category specific techniques (#57008)
 * Baseball bats love (#56995)
 * Exosuit Updates (#56974)
-
-Cataclysm-DDA experimental build 2022-04-22-1649 (2eef1a1)
 * Fix pneumatics proficiency typo (#57024)
 * Add precise strike to batons/tonfas, remove from qiang, fix description (#57015)
-* Adds a new evolved child zombie (#56914)
 * ci: more auto labeling (#56963)
 * Adjusts the headless horror to sane levels (#56947)
 * Add wolf puppies (#56982)
