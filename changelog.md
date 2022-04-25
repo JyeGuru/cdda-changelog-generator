@@ -1,3 +1,4 @@
+* Adding yarn spinning to livestock area 2 ([#57055](https://github.com/CleverRaven/Cataclysm-DDA/pull/57055))
 
 ---
 
@@ -149,12 +150,6 @@
 * Fungal-raptor → fungal raptor ([#57032](https://github.com/CleverRaven/Cataclysm-DDA/pull/57032))
 * Fix loading foraging activity ([#57020](https://github.com/CleverRaven/Cataclysm-DDA/pull/57020))
 * Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-23-2053 ([ec173c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-2053))
-
-* Dark Days of the Dead: Headshots, deadly bites, and a cleanup of out-of-setting stuff. ([#56964](https://github.com/CleverRaven/Cataclysm-DDA/pull/56964))
 
 ---
 

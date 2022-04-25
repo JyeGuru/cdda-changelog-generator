@@ -1,3 +1,4 @@
+* Adding yarn spinning to livestock area 2 (#57055)
 
 Cataclysm-DDA experimental build 2022-04-25-2239 (209b7d1)
 * Fix scrolling of dialog responses and standardize the scrollbar (#57153)
@@ -89,9 +90,6 @@ Cataclysm-DDA experimental build 2022-04-23-2201 (097be44)
 * Fungal-raptor → fungal raptor (#57032)
 * Fix loading foraging activity (#57020)
 * Conductive aluminum bat (#57079)
-
-Cataclysm-DDA experimental build 2022-04-23-2053 (ec173c3)
-* Dark Days of the Dead: Headshots, deadly bites, and a cleanup of out-of-setting stuff. (#56964)
 
 Cataclysm-DDA experimental build 2022-04-23-1928 (533d07a)
 * Fix hide site creation and make error message clearer (#57063)
