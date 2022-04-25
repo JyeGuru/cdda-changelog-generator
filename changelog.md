@@ -1,3 +1,11 @@
+* Swimming spawns revamp ([#57103](https://github.com/CleverRaven/Cataclysm-DDA/pull/57103))
+* Revamp Really Bad Day professions ([#57134](https://github.com/CleverRaven/Cataclysm-DDA/pull/57134))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-25-1823 ([615ddec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-1823))
+
+* Naked description updates ([#57136](https://github.com/CleverRaven/Cataclysm-DDA/pull/57136))
 
 ---
 
@@ -199,7 +207,6 @@
 * [Innawood] Sewing and Tailor Kit plastic free fix ([#56929](https://github.com/CleverRaven/Cataclysm-DDA/pull/56929))
 * Irradiated singular/plural mismatch correction ([#56980](https://github.com/CleverRaven/Cataclysm-DDA/pull/56980))
 * [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))
-* Fixes Hub 01 having extremely enthusiastic camspy operators ([#56921](https://github.com/CleverRaven/Cataclysm-DDA/pull/56921))
 * Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
 * Hub 01 Renovations ([#56942](https://github.com/CleverRaven/Cataclysm-DDA/pull/56942))
 * Fix siphoning for washing machine & dishwasher ([#56968](https://github.com/CleverRaven/Cataclysm-DDA/pull/56968))
@@ -209,4 +216,3 @@
 * [Innawoods] Welding and plastic molding ([#56946](https://github.com/CleverRaven/Cataclysm-DDA/pull/56946))
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
-* Fix compile error in experimental release on macOS ([#56918](https://github.com/CleverRaven/Cataclysm-DDA/pull/56918))
