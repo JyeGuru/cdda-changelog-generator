@@ -1,3 +1,4 @@
+* Clarified drum/double drum for HWP gun ([#57149](https://github.com/CleverRaven/Cataclysm-DDA/pull/57149))
 
 ---
 
@@ -220,4 +221,3 @@
 * Increase dmg size limit in macOS experimental release build process ([#56949](https://github.com/CleverRaven/Cataclysm-DDA/pull/56949))
 * [Innawoods] Welding and plastic molding ([#56946](https://github.com/CleverRaven/Cataclysm-DDA/pull/56946))
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
-* Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
