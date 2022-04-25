@@ -1,3 +1,11 @@
+* Update reward for rescuing Barry Isherwood ([#57131](https://github.com/CleverRaven/Cataclysm-DDA/pull/57131))
+* Change 3 init.cpp items to title case ([#57130](https://github.com/CleverRaven/Cataclysm-DDA/pull/57130))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-25-0606 ([d2f35f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-0606))
+
+* Tileset Update 2022-04-24 ([#57129](https://github.com/CleverRaven/Cataclysm-DDA/pull/57129))
 
 ---
 
@@ -180,7 +188,6 @@
 * Adjusts the headless horror to sane levels ([#56947](https://github.com/CleverRaven/Cataclysm-DDA/pull/56947))
 * Add wolf puppies ([#56982](https://github.com/CleverRaven/Cataclysm-DDA/pull/56982))
 * Add hydration pouches to hiking backpack and military rucksack ([#57001](https://github.com/CleverRaven/Cataclysm-DDA/pull/57001))
-* Rename different steel types ([#56913](https://github.com/CleverRaven/Cataclysm-DDA/pull/56913))
 * labeler.yml: Add Melee label ([#56999](https://github.com/CleverRaven/Cataclysm-DDA/pull/56999))
 * Fix wall wiring removal ([#57011](https://github.com/CleverRaven/Cataclysm-DDA/pull/57011))
 * Mass nuts ([#57002](https://github.com/CleverRaven/Cataclysm-DDA/pull/57002))
@@ -202,7 +209,5 @@
 * [Innawoods] Welding and plastic molding ([#56946](https://github.com/CleverRaven/Cataclysm-DDA/pull/56946))
 * Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))
 * Set a sane default working directory for VS debugging. ([#56931](https://github.com/CleverRaven/Cataclysm-DDA/pull/56931))
-* [DinoMod] harvest cleanup ([#56909](https://github.com/CleverRaven/Cataclysm-DDA/pull/56909))
 * Fix compile error in experimental release on macOS ([#56918](https://github.com/CleverRaven/Cataclysm-DDA/pull/56918))
 * savegame: migrate addiction variants ([#56915](https://github.com/CleverRaven/Cataclysm-DDA/pull/56915))
-* Fix medical UI / addictions compile error ([#56910](https://github.com/CleverRaven/Cataclysm-DDA/pull/56910))
