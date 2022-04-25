@@ -1,3 +1,4 @@
+* npctrade: fix bionic installation prices ([#57135](https://github.com/CleverRaven/Cataclysm-DDA/pull/57135))
 * Fix mixing NO_PARASITES water with normal water ([#57145](https://github.com/CleverRaven/Cataclysm-DDA/pull/57145))
 * Adding Furriery Proficiency In a recipe #56960 ([#56994](https://github.com/CleverRaven/Cataclysm-DDA/pull/56994))
 * Some keybinding fixes ([#57139](https://github.com/CleverRaven/Cataclysm-DDA/pull/57139))
@@ -219,4 +220,3 @@
 * [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))
 * Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
 * Fix siphoning for washing machine & dishwasher ([#56968](https://github.com/CleverRaven/Cataclysm-DDA/pull/56968))
-* Washing machine appliance ([#56950](https://github.com/CleverRaven/Cataclysm-DDA/pull/56950))
