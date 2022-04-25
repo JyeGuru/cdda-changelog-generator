@@ -187,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-04-23-1449 ([dd9f086](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-1449))
 
 * update the integrated silencer for mp5  ([#57045](https://github.com/CleverRaven/Cataclysm-DDA/pull/57045))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-23-0523 ([d546a90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-0523))
-
 * Routine i18n updates on 23 April 2022 ([#57049](https://github.com/CleverRaven/Cataclysm-DDA/pull/57049))
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes ([#57018](https://github.com/CleverRaven/Cataclysm-DDA/pull/57018))
 * Update entry_tools.json to-hit values to use the new categorized system ([#56973](https://github.com/CleverRaven/Cataclysm-DDA/pull/56973))

@@ -115,8 +115,6 @@ Cataclysm-DDA experimental build 2022-04-23-1612 (4f506d1)
 
 Cataclysm-DDA experimental build 2022-04-23-1449 (dd9f086)
 * update the integrated silencer for mp5  (#57045)
-
-Cataclysm-DDA experimental build 2022-04-23-0523 (d546a90)
 * Routine i18n updates on 23 April 2022 (#57049)
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes (#57018)
 * Update entry_tools.json to-hit values to use the new categorized system (#56973)
