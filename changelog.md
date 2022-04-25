@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-25-0724 ([8206614](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-0724))
+
 * Update reward for rescuing Barry Isherwood ([#57131](https://github.com/CleverRaven/Cataclysm-DDA/pull/57131))
 * Change 3 init.cpp items to title case ([#57130](https://github.com/CleverRaven/Cataclysm-DDA/pull/57130))
 
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-04-22-1649 ([2eef1a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-1649))
 
 * Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-22-1403 ([61562af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-22-1403))
-
 * Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
 * Adds a new evolved child zombie ([#56914](https://github.com/CleverRaven/Cataclysm-DDA/pull/56914))
 * ci: more auto labeling ([#56963](https://github.com/CleverRaven/Cataclysm-DDA/pull/56963))

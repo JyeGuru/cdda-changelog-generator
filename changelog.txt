@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-25-0724 (8206614)
 * Update reward for rescuing Barry Isherwood (#57131)
 * Change 3 init.cpp items to title case (#57130)
 
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2022-04-23-0101 (40392e5)
 
 Cataclysm-DDA experimental build 2022-04-22-1649 (2eef1a1)
 * Fix pneumatics proficiency typo (#57024)
-
-Cataclysm-DDA experimental build 2022-04-22-1403 (61562af)
 * Add precise strike to batons/tonfas, remove from qiang, fix description (#57015)
 * Adds a new evolved child zombie (#56914)
 * ci: more auto labeling (#56963)
