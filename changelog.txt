@@ -1,3 +1,4 @@
+* Costume professions (#57062)
 * Swimming spawns revamp (#57103)
 * Revamp Really Bad Day professions (#57134)
 
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2022-04-23-0101 (40392e5)
 * Add field_remove and clear back bay and garage (#56984)
 * Defer weakpoint set loading (#56972)
 * Adjust cudgel crafting requirements and make new "wooden clubs" as 0 skill replacement. (#56953)
-* [Innawood] Sewing and Tailor Kit plastic free fix (#56929)
 * Irradiated singular/plural mismatch correction (#56980)
 * [DinoMod] wilderness spawn rebalance (#56987)
 * Move refugee center fence in to leave room for defenses (#56970)

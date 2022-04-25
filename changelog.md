@@ -1,3 +1,4 @@
+* Costume professions ([#57062](https://github.com/CleverRaven/Cataclysm-DDA/pull/57062))
 * Swimming spawns revamp ([#57103](https://github.com/CleverRaven/Cataclysm-DDA/pull/57103))
 * Revamp Really Bad Day professions ([#57134](https://github.com/CleverRaven/Cataclysm-DDA/pull/57134))
 
@@ -204,7 +205,6 @@
 * Add field_remove and clear back bay and garage ([#56984](https://github.com/CleverRaven/Cataclysm-DDA/pull/56984))
 * Defer weakpoint set loading ([#56972](https://github.com/CleverRaven/Cataclysm-DDA/pull/56972))
 * Adjust cudgel crafting requirements and make new "wooden clubs" as 0 skill replacement. ([#56953](https://github.com/CleverRaven/Cataclysm-DDA/pull/56953))
-* [Innawood] Sewing and Tailor Kit plastic free fix ([#56929](https://github.com/CleverRaven/Cataclysm-DDA/pull/56929))
 * Irradiated singular/plural mismatch correction ([#56980](https://github.com/CleverRaven/Cataclysm-DDA/pull/56980))
 * [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))
 * Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
