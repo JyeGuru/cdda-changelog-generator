@@ -1,3 +1,4 @@
+* vehicle: fix a collision crash ([#57146](https://github.com/CleverRaven/Cataclysm-DDA/pull/57146))
 
 ---
 
@@ -123,12 +124,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-24-0028 ([ed649e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0028))
-
-* Allow true or false effects of talk effects ([#56932](https://github.com/CleverRaven/Cataclysm-DDA/pull/56932))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-23-2313 ([a1be28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-2313))
 
 * item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
@@ -225,4 +220,3 @@
 * Add OVEN quality to the oven appliance ([#56943](https://github.com/CleverRaven/Cataclysm-DDA/pull/56943))
 * Increase dmg size limit in macOS experimental release build process ([#56949](https://github.com/CleverRaven/Cataclysm-DDA/pull/56949))
 * [Innawoods] Welding and plastic molding ([#56946](https://github.com/CleverRaven/Cataclysm-DDA/pull/56946))
-* Make Guys Fawkes mask repairable like hockey mask ([#56933](https://github.com/CleverRaven/Cataclysm-DDA/pull/56933))

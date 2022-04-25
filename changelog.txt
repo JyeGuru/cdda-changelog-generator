@@ -1,3 +1,4 @@
+* vehicle: fix a collision crash (#57146)
 
 Cataclysm-DDA experimental build 2022-04-25-2137 (176634a)
 * Clarified drum/double drum for HWP gun (#57149)
@@ -70,9 +71,6 @@ Cataclysm-DDA experimental build 2022-04-24-0549 (9b93808)
 Cataclysm-DDA experimental build 2022-04-24-0200 (45671a0)
 * Revert "Create proper rope uncraft recipes (#57068)" (#57095)
 
-Cataclysm-DDA experimental build 2022-04-24-0028 (ed649e0)
-* Allow true or false effects of talk effects (#56932)
-
 Cataclysm-DDA experimental build 2022-04-23-2313 (a1be28b)
 * item: don't use ret_val for pocket accessors (#57056)
 
@@ -144,4 +142,3 @@ Cataclysm-DDA experimental build 2022-04-23-0101 (40392e5)
 * Add OVEN quality to the oven appliance (#56943)
 * Increase dmg size limit in macOS experimental release build process (#56949)
 * [Innawoods] Welding and plastic molding (#56946)
-* Make Guys Fawkes mask repairable like hockey mask (#56933)
