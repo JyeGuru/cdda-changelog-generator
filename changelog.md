@@ -1,3 +1,10 @@
+* Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-26-1607 ([3003d88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-1607))
+
+* deployment bag ([#57163](https://github.com/CleverRaven/Cataclysm-DDA/pull/57163))
 
 ---
 
@@ -204,8 +211,6 @@
 * labeler.yml: Add Melee label ([#56999](https://github.com/CleverRaven/Cataclysm-DDA/pull/56999))
 * Fix wall wiring removal ([#57011](https://github.com/CleverRaven/Cataclysm-DDA/pull/57011))
 * Mass nuts ([#57002](https://github.com/CleverRaven/Cataclysm-DDA/pull/57002))
-* Adjust armband pouch encumbrance ([#56978](https://github.com/CleverRaven/Cataclysm-DDA/pull/56978))
-* Dollar store costumes spawn ([#56979](https://github.com/CleverRaven/Cataclysm-DDA/pull/56979))
 * Add field_remove and clear back bay and garage ([#56984](https://github.com/CleverRaven/Cataclysm-DDA/pull/56984))
 * Irradiated singular/plural mismatch correction ([#56980](https://github.com/CleverRaven/Cataclysm-DDA/pull/56980))
 * [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))

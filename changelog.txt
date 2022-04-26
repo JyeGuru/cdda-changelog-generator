@@ -1,3 +1,7 @@
+* Fix hydraulic press copy-paste (#57173)
+
+Cataclysm-DDA experimental build 2022-04-26-1607 (3003d88)
+* deployment bag (#57163)
 
 Cataclysm-DDA experimental build 2022-04-26-1329 (90c3b39)
 * [CR] Hub 01 intercom dialogue update pt 2: Missions (#57069)
@@ -132,8 +136,6 @@ Cataclysm-DDA experimental build 2022-04-23-2201 (097be44)
 * labeler.yml: Add Melee label (#56999)
 * Fix wall wiring removal (#57011)
 * Mass nuts (#57002)
-* Adjust armband pouch encumbrance (#56978)
-* Dollar store costumes spawn (#56979)
 * Add field_remove and clear back bay and garage (#56984)
 * Irradiated singular/plural mismatch correction (#56980)
 * [DinoMod] wilderness spawn rebalance (#56987)
