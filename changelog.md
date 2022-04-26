@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-26-1329 ([90c3b39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-1329))
+
+* [CR] Hub 01 intercom dialogue update pt 2: Missions ([#57069](https://github.com/CleverRaven/Cataclysm-DDA/pull/57069))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-26-0554 ([3e81ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0554))
 
 * Move explicit pliers/multitool requirements to WRENCH 1 requirement ([#57124](https://github.com/CleverRaven/Cataclysm-DDA/pull/57124))
@@ -169,11 +175,6 @@
 * Fungal-raptor → fungal raptor ([#57032](https://github.com/CleverRaven/Cataclysm-DDA/pull/57032))
 * Fix loading foraging activity ([#57020](https://github.com/CleverRaven/Cataclysm-DDA/pull/57020))
 * Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-23-1928 ([533d07a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-1928))
-
 * Fix hide site creation and make error message clearer ([#57063](https://github.com/CleverRaven/Cataclysm-DDA/pull/57063))
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
@@ -196,7 +197,6 @@
 * [Innawoods] Make Lonely Cave start available ([#57035](https://github.com/CleverRaven/Cataclysm-DDA/pull/57035))
 * Weapon categories: Aikido, Judo, Bōjutsu and weapon category specific techniques ([#57008](https://github.com/CleverRaven/Cataclysm-DDA/pull/57008))
 * Baseball bats love ([#56995](https://github.com/CleverRaven/Cataclysm-DDA/pull/56995))
-* Exosuit Updates ([#56974](https://github.com/CleverRaven/Cataclysm-DDA/pull/56974))
 * Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
 * Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
 * Add wolf puppies ([#56982](https://github.com/CleverRaven/Cataclysm-DDA/pull/56982))
