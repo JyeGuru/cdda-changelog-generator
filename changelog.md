@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-26-2336 ([1fa5cd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-2336))
+
+* Optional popup functionality for u_consume_item, including some implementation ([#57183](https://github.com/CleverRaven/Cataclysm-DDA/pull/57183))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-26-2127 ([a85a36f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-2127))
 
 * Minor text correction in sinister staff of bleeding ([#57169](https://github.com/CleverRaven/Cataclysm-DDA/pull/57169))
@@ -211,5 +217,4 @@
 * labeler.yml: Add Melee label ([#56999](https://github.com/CleverRaven/Cataclysm-DDA/pull/56999))
 * Fix wall wiring removal ([#57011](https://github.com/CleverRaven/Cataclysm-DDA/pull/57011))
 * Mass nuts ([#57002](https://github.com/CleverRaven/Cataclysm-DDA/pull/57002))
-* Add field_remove and clear back bay and garage ([#56984](https://github.com/CleverRaven/Cataclysm-DDA/pull/56984))
 * [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))
