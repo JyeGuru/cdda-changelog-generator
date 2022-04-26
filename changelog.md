@@ -212,5 +212,4 @@
 * Fix wall wiring removal ([#57011](https://github.com/CleverRaven/Cataclysm-DDA/pull/57011))
 * Mass nuts ([#57002](https://github.com/CleverRaven/Cataclysm-DDA/pull/57002))
 * Add field_remove and clear back bay and garage ([#56984](https://github.com/CleverRaven/Cataclysm-DDA/pull/56984))
-* Irradiated singular/plural mismatch correction ([#56980](https://github.com/CleverRaven/Cataclysm-DDA/pull/56980))
 * [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))
