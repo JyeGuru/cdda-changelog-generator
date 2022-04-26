@@ -1,3 +1,4 @@
+* Move explicit pliers/multitool requirements to WRENCH 1 requirement (#57124)
 * Ensure it is always possible to clean the refugee center back bay (#57159)
 
 Cataclysm-DDA experimental build 2022-04-26-0453 (3a43709)
@@ -28,6 +29,8 @@ Cataclysm-DDA experimental build 2022-04-25-1942 (9263c61)
 
 Cataclysm-DDA experimental build 2022-04-25-1823 (615ddec)
 * Naked description updates (#57136)
+
+Cataclysm-DDA experimental build 2022-04-25-1228 (44c51a4)
 * Add two new drum magazines to Hub01 gun (#57128)
 
 Cataclysm-DDA experimental build 2022-04-25-0724 (8206614)
@@ -68,6 +71,8 @@ Cataclysm-DDA experimental build 2022-04-24-1301 (c62a895)
 
 Cataclysm-DDA experimental build 2022-04-24-1154 (d1c89ba)
 * Shuttlecock spawns (#57104)
+
+Cataclysm-DDA experimental build 2022-04-24-0655 (0b45ac6)
 * [DinoMod] DDotD compatibility fix (#57091)
 * elf-a → Elf-A (#57080)
 * Fix microlab toilet water and remove counters generating in walls (#57067)
@@ -86,6 +91,8 @@ Cataclysm-DDA experimental build 2022-04-24-0200 (45671a0)
 
 Cataclysm-DDA experimental build 2022-04-23-2313 (a1be28b)
 * item: don't use ret_val for pocket accessors (#57056)
+
+Cataclysm-DDA experimental build 2022-04-23-2201 (097be44)
 * MP18 → MP 18 (#57043)
 * Add missing full stops to CRIT bladework descriptions (#57038)
 * Fungal-raptor → fungal raptor (#57032)
@@ -99,8 +106,6 @@ Cataclysm-DDA experimental build 2022-04-23-1928 (533d07a)
 
 Cataclysm-DDA experimental build 2022-04-23-1817 (9e87626)
 * New mod: Tamable Wildlife (#57034)
-
-Cataclysm-DDA experimental build 2022-04-23-1612 (4f506d1)
 * Fixes waterproof smartphone cases being unable to hold phones that had their flashlight or music active (#57019)
 * Audit spawns of tire-changing equipment in vehicles (#57017)
 * Fix STEN Mk II plural (#57031)
@@ -113,14 +118,9 @@ Cataclysm-DDA experimental build 2022-04-23-1612 (4f506d1)
 * Autoclave Appliance (#57007)
 * Added a new evac shelter basement for shelter_1 (#57026)
 * Fix Aleesha dialogue (#57065)
-
-Cataclysm-DDA experimental build 2022-04-23-1449 (dd9f086)
 * update the integrated silencer for mp5  (#57045)
-
-Cataclysm-DDA experimental build 2022-04-23-0523 (d546a90)
 * Routine i18n updates on 23 April 2022 (#57049)
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes (#57018)
-* Update entry_tools.json to-hit values to use the new categorized system (#56973)
 * [Innawoods] Make Lonely Cave start available (#57035)
 * Weapon categories: Aikido, Judo, Bōjutsu and weapon category specific techniques (#57008)
 * Baseball bats love (#56995)

@@ -1,3 +1,4 @@
+* Move explicit pliers/multitool requirements to WRENCH 1 requirement ([#57124](https://github.com/CleverRaven/Cataclysm-DDA/pull/57124))
 * Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
 
 ---
@@ -46,6 +47,11 @@
 #### Cataclysm-DDA experimental build 2022-04-25-1823 ([615ddec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-1823))
 
 * Naked description updates ([#57136](https://github.com/CleverRaven/Cataclysm-DDA/pull/57136))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-25-1228 ([44c51a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-1228))
+
 * Add two new drum magazines to Hub01 gun ([#57128](https://github.com/CleverRaven/Cataclysm-DDA/pull/57128))
 
 ---
@@ -116,6 +122,11 @@
 #### Cataclysm-DDA experimental build 2022-04-24-1154 ([d1c89ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1154))
 
 * Shuttlecock spawns ([#57104](https://github.com/CleverRaven/Cataclysm-DDA/pull/57104))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-24-0655 ([0b45ac6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0655))
+
 * [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
 * elf-a → Elf-A ([#57080](https://github.com/CleverRaven/Cataclysm-DDA/pull/57080))
 * Fix microlab toilet water and remove counters generating in walls ([#57067](https://github.com/CleverRaven/Cataclysm-DDA/pull/57067))
@@ -143,6 +154,11 @@
 #### Cataclysm-DDA experimental build 2022-04-23-2313 ([a1be28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-2313))
 
 * item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-23-2201 ([097be44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-2201))
+
 * MP18 → MP 18 ([#57043](https://github.com/CleverRaven/Cataclysm-DDA/pull/57043))
 * Add missing full stops to CRIT bladework descriptions ([#57038](https://github.com/CleverRaven/Cataclysm-DDA/pull/57038))
 * Fungal-raptor → fungal raptor ([#57032](https://github.com/CleverRaven/Cataclysm-DDA/pull/57032))
@@ -162,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-04-23-1817 ([9e87626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-1817))
 
 * New mod: Tamable Wildlife ([#57034](https://github.com/CleverRaven/Cataclysm-DDA/pull/57034))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-23-1612 ([4f506d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-1612))
-
 * Fixes waterproof smartphone cases being unable to hold phones that had their flashlight or music active ([#57019](https://github.com/CleverRaven/Cataclysm-DDA/pull/57019))
 * Audit spawns of tire-changing equipment in vehicles ([#57017](https://github.com/CleverRaven/Cataclysm-DDA/pull/57017))
 * Fix STEN Mk II plural ([#57031](https://github.com/CleverRaven/Cataclysm-DDA/pull/57031))
@@ -179,20 +190,9 @@
 * Autoclave Appliance ([#57007](https://github.com/CleverRaven/Cataclysm-DDA/pull/57007))
 * Added a new evac shelter basement for shelter_1 ([#57026](https://github.com/CleverRaven/Cataclysm-DDA/pull/57026))
 * Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-23-1449 ([dd9f086](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-1449))
-
 * update the integrated silencer for mp5  ([#57045](https://github.com/CleverRaven/Cataclysm-DDA/pull/57045))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-23-0523 ([d546a90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-0523))
-
 * Routine i18n updates on 23 April 2022 ([#57049](https://github.com/CleverRaven/Cataclysm-DDA/pull/57049))
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes ([#57018](https://github.com/CleverRaven/Cataclysm-DDA/pull/57018))
-* Update entry_tools.json to-hit values to use the new categorized system ([#56973](https://github.com/CleverRaven/Cataclysm-DDA/pull/56973))
 * [Innawoods] Make Lonely Cave start available ([#57035](https://github.com/CleverRaven/Cataclysm-DDA/pull/57035))
 * Weapon categories: Aikido, Judo, Bōjutsu and weapon category specific techniques ([#57008](https://github.com/CleverRaven/Cataclysm-DDA/pull/57008))
 * Baseball bats love ([#56995](https://github.com/CleverRaven/Cataclysm-DDA/pull/56995))
