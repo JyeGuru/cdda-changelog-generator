@@ -1,3 +1,10 @@
+* Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-26-0453 ([3a43709](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0453))
+
+* Sexy spawn revamp ([#57142](https://github.com/CleverRaven/Cataclysm-DDA/pull/57142))
 
 ---
 
@@ -170,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-04-23-1817 ([9e87626](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-1817))
 
 * New mod: Tamable Wildlife ([#57034](https://github.com/CleverRaven/Cataclysm-DDA/pull/57034))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-23-1612 ([4f506d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-1612))
-
 * Fixes waterproof smartphone cases being unable to hold phones that had their flashlight or music active ([#57019](https://github.com/CleverRaven/Cataclysm-DDA/pull/57019))
 * Audit spawns of tire-changing equipment in vehicles ([#57017](https://github.com/CleverRaven/Cataclysm-DDA/pull/57017))
 * Fix STEN Mk II plural ([#57031](https://github.com/CleverRaven/Cataclysm-DDA/pull/57031))
@@ -205,7 +207,5 @@
 * Adjust armband pouch encumbrance ([#56978](https://github.com/CleverRaven/Cataclysm-DDA/pull/56978))
 * Dollar store costumes spawn ([#56979](https://github.com/CleverRaven/Cataclysm-DDA/pull/56979))
 * Add field_remove and clear back bay and garage ([#56984](https://github.com/CleverRaven/Cataclysm-DDA/pull/56984))
-* Defer weakpoint set loading ([#56972](https://github.com/CleverRaven/Cataclysm-DDA/pull/56972))
 * Irradiated singular/plural mismatch correction ([#56980](https://github.com/CleverRaven/Cataclysm-DDA/pull/56980))
 * [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))
-* Move refugee center fence in to leave room for defenses ([#56970](https://github.com/CleverRaven/Cataclysm-DDA/pull/56970))
