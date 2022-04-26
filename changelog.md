@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-26-1708 ([4697554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-1708))
+
 * Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
 
 ---
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-04-23-2313 ([a1be28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-2313))
 
 * item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-23-2201 ([097be44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-2201))
-
 * MP18 → MP 18 ([#57043](https://github.com/CleverRaven/Cataclysm-DDA/pull/57043))
 * Add missing full stops to CRIT bladework descriptions ([#57038](https://github.com/CleverRaven/Cataclysm-DDA/pull/57038))
 * Fungal-raptor → fungal raptor ([#57032](https://github.com/CleverRaven/Cataclysm-DDA/pull/57032))
