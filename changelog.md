@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-26-2127 ([a85a36f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-2127))
+
+* Minor text correction in sinister staff of bleeding ([#57169](https://github.com/CleverRaven/Cataclysm-DDA/pull/57169))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-26-1708 ([4697554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-1708))
 
 * Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-04-24-0200 ([45671a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0200))
 
 * Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-23-2313 ([a1be28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-23-2313))
-
 * item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
 * MP18 → MP 18 ([#57043](https://github.com/CleverRaven/Cataclysm-DDA/pull/57043))
 * Add missing full stops to CRIT bladework descriptions ([#57038](https://github.com/CleverRaven/Cataclysm-DDA/pull/57038))
@@ -206,7 +207,6 @@
 * Baseball bats love ([#56995](https://github.com/CleverRaven/Cataclysm-DDA/pull/56995))
 * Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
 * Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
-* Add wolf puppies ([#56982](https://github.com/CleverRaven/Cataclysm-DDA/pull/56982))
 * Add hydration pouches to hiking backpack and military rucksack ([#57001](https://github.com/CleverRaven/Cataclysm-DDA/pull/57001))
 * labeler.yml: Add Melee label ([#56999](https://github.com/CleverRaven/Cataclysm-DDA/pull/56999))
 * Fix wall wiring removal ([#57011](https://github.com/CleverRaven/Cataclysm-DDA/pull/57011))
