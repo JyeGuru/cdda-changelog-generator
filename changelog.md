@@ -1,3 +1,4 @@
+* Bags encumbrance update ([#57184](https://github.com/CleverRaven/Cataclysm-DDA/pull/57184))
 
 ---
 

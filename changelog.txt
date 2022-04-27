@@ -1,3 +1,4 @@
+* Bags encumbrance update (#57184)
 
 Cataclysm-DDA experimental build 2022-04-27-0545 (6a76396)
 * Aprons love (#57197)
