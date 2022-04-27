@@ -1,3 +1,18 @@
+* Expand the containers auto-labeling ([#57185](https://github.com/CleverRaven/Cataclysm-DDA/pull/57185))
+* Updated faction camp hide site UI ([#57150](https://github.com/CleverRaven/Cataclysm-DDA/pull/57150))
+* added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-27-0320 ([64f6698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0320))
+
+* Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-27-0206 ([fad9622](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0206))
+
+* json/refugee_center: move trader zones to same submap ([#57156](https://github.com/CleverRaven/Cataclysm-DDA/pull/57156))
 
 ---
 
@@ -57,7 +72,6 @@
 * Fix typos in faction camp menus ([#57141](https://github.com/CleverRaven/Cataclysm-DDA/pull/57141))
 * npctrade: fix bionic installation prices ([#57135](https://github.com/CleverRaven/Cataclysm-DDA/pull/57135))
 * Fix mixing NO_PARASITES water with normal water ([#57145](https://github.com/CleverRaven/Cataclysm-DDA/pull/57145))
-* Adding Furriery Proficiency In a recipe #56960 ([#56994](https://github.com/CleverRaven/Cataclysm-DDA/pull/56994))
 * Some keybinding fixes ([#57139](https://github.com/CleverRaven/Cataclysm-DDA/pull/57139))
 * Air compressor, Hydraulic press & Water purifier appliances ([#57100](https://github.com/CleverRaven/Cataclysm-DDA/pull/57100))
 * fix: don't run comments command on prs ([#57133](https://github.com/CleverRaven/Cataclysm-DDA/pull/57133))
@@ -177,11 +191,6 @@
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Try to break free before jumping over the ledge or climbing/crawling down ([#57073](https://github.com/CleverRaven/Cataclysm-DDA/pull/57073))
 * Fix mutagen addiction test ([#57053](https://github.com/CleverRaven/Cataclysm-DDA/pull/57053))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-0200 ([45671a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0200))
-
 * Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
 * item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
 * MP18 → MP 18 ([#57043](https://github.com/CleverRaven/Cataclysm-DDA/pull/57043))
@@ -210,11 +219,7 @@
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes ([#57018](https://github.com/CleverRaven/Cataclysm-DDA/pull/57018))
 * [Innawoods] Make Lonely Cave start available ([#57035](https://github.com/CleverRaven/Cataclysm-DDA/pull/57035))
 * Weapon categories: Aikido, Judo, Bōjutsu and weapon category specific techniques ([#57008](https://github.com/CleverRaven/Cataclysm-DDA/pull/57008))
-* Baseball bats love ([#56995](https://github.com/CleverRaven/Cataclysm-DDA/pull/56995))
 * Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
 * Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
-* Add hydration pouches to hiking backpack and military rucksack ([#57001](https://github.com/CleverRaven/Cataclysm-DDA/pull/57001))
-* labeler.yml: Add Melee label ([#56999](https://github.com/CleverRaven/Cataclysm-DDA/pull/56999))
 * Fix wall wiring removal ([#57011](https://github.com/CleverRaven/Cataclysm-DDA/pull/57011))
 * Mass nuts ([#57002](https://github.com/CleverRaven/Cataclysm-DDA/pull/57002))
-* [DinoMod] wilderness spawn rebalance ([#56987](https://github.com/CleverRaven/Cataclysm-DDA/pull/56987))
