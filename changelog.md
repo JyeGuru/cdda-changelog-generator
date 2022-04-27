@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-27-2107 ([1e7f271](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-2107))
+
+* [Innawoods] Aphid ranching and wild crops ([#57203](https://github.com/CleverRaven/Cataclysm-DDA/pull/57203))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-27-0746 ([d6087a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0746))
 
 * Allow applying arbitrary filters to tripoint_range, add points_in_radius_circ ([#57187](https://github.com/CleverRaven/Cataclysm-DDA/pull/57187))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-04-24-1432 ([5781898](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1432))
 
 * Clay ovens ([#57066](https://github.com/CleverRaven/Cataclysm-DDA/pull/57066))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-1301 ([c62a895](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1301))
-
 * item: unhardcode shoulder straps ([#57108](https://github.com/CleverRaven/Cataclysm-DDA/pull/57108))
 * Shuttlecock spawns ([#57104](https://github.com/CleverRaven/Cataclysm-DDA/pull/57104))
 * [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
@@ -214,7 +215,6 @@
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
 * New mod: Tamable Wildlife ([#57034](https://github.com/CleverRaven/Cataclysm-DDA/pull/57034))
-* Fixes waterproof smartphone cases being unable to hold phones that had their flashlight or music active ([#57019](https://github.com/CleverRaven/Cataclysm-DDA/pull/57019))
 * Fix STEN Mk II plural ([#57031](https://github.com/CleverRaven/Cataclysm-DDA/pull/57031))
 * Add missing full stop to MMA description ([#57040](https://github.com/CleverRaven/Cataclysm-DDA/pull/57040))
 * A couple more labels ([#57036](https://github.com/CleverRaven/Cataclysm-DDA/pull/57036))

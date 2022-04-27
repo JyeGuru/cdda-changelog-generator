@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-27-2107 (1e7f271)
+* [Innawoods] Aphid ranching and wild crops (#57203)
+
 Cataclysm-DDA experimental build 2022-04-27-0746 (d6087a2)
 * Allow applying arbitrary filters to tripoint_range, add points_in_radius_circ (#57187)
 * Replace chain link recipe line mistakenly deleted by PR #57124, previously merged (#57200)
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2022-04-24-1533 (968108c)
 
 Cataclysm-DDA experimental build 2022-04-24-1432 (5781898)
 * Clay ovens (#57066)
-
-Cataclysm-DDA experimental build 2022-04-24-1301 (c62a895)
 * item: unhardcode shoulder straps (#57108)
 * Shuttlecock spawns (#57104)
 * [DinoMod] DDotD compatibility fix (#57091)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2022-04-24-1301 (c62a895)
 * Create proper rope uncraft recipes (#57068)
 * Wrist fixes (#57057)
 * New mod: Tamable Wildlife (#57034)
-* Fixes waterproof smartphone cases being unable to hold phones that had their flashlight or music active (#57019)
 * Fix STEN Mk II plural (#57031)
 * Add missing full stop to MMA description (#57040)
 * A couple more labels (#57036)
