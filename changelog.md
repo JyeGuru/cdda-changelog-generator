@@ -1,3 +1,12 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-27-0545 ([6a76396](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0545))
+
+* Aprons love ([#57197](https://github.com/CleverRaven/Cataclysm-DDA/pull/57197))
+* Update GAME_BALANCE.md with improved weapon to-hit descriptions ([#57180](https://github.com/CleverRaven/Cataclysm-DDA/pull/57180))
+* Quick to-hit fixes for a couple of weapons ([#57181](https://github.com/CleverRaven/Cataclysm-DDA/pull/57181))
+* Hockey stick love ([#57190](https://github.com/CleverRaven/Cataclysm-DDA/pull/57190))
 * Expand the containers auto-labeling ([#57185](https://github.com/CleverRaven/Cataclysm-DDA/pull/57185))
 
 ---
@@ -187,11 +196,6 @@
 * Swimming gloves soft ([#57074](https://github.com/CleverRaven/Cataclysm-DDA/pull/57074))
 * Remove extra T ([#57087](https://github.com/CleverRaven/Cataclysm-DDA/pull/57087))
 * Add missing comma ([#57090](https://github.com/CleverRaven/Cataclysm-DDA/pull/57090))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-0549 ([9b93808](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0549))
-
 * [Innawoods] Baking and dummies ([#57070](https://github.com/CleverRaven/Cataclysm-DDA/pull/57070))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Try to break free before jumping over the ledge or climbing/crawling down ([#57073](https://github.com/CleverRaven/Cataclysm-DDA/pull/57073))
@@ -216,15 +220,11 @@
 * marloss → Marloss ([#57042](https://github.com/CleverRaven/Cataclysm-DDA/pull/57042))
 * Small Text Fixes and Additions ([#57048](https://github.com/CleverRaven/Cataclysm-DDA/pull/57048))
 * Removed changes to No Hope mod which borked lab generation ([#57051](https://github.com/CleverRaven/Cataclysm-DDA/pull/57051))
-* Autoclave Appliance ([#57007](https://github.com/CleverRaven/Cataclysm-DDA/pull/57007))
 * Added a new evac shelter basement for shelter_1 ([#57026](https://github.com/CleverRaven/Cataclysm-DDA/pull/57026))
 * Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))
 * update the integrated silencer for mp5  ([#57045](https://github.com/CleverRaven/Cataclysm-DDA/pull/57045))
 * Routine i18n updates on 23 April 2022 ([#57049](https://github.com/CleverRaven/Cataclysm-DDA/pull/57049))
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes ([#57018](https://github.com/CleverRaven/Cataclysm-DDA/pull/57018))
 * [Innawoods] Make Lonely Cave start available ([#57035](https://github.com/CleverRaven/Cataclysm-DDA/pull/57035))
-* Weapon categories: Aikido, Judo, Bōjutsu and weapon category specific techniques ([#57008](https://github.com/CleverRaven/Cataclysm-DDA/pull/57008))
 * Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
 * Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
-* Fix wall wiring removal ([#57011](https://github.com/CleverRaven/Cataclysm-DDA/pull/57011))
-* Mass nuts ([#57002](https://github.com/CleverRaven/Cataclysm-DDA/pull/57002))
