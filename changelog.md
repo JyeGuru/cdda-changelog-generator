@@ -1,3 +1,5 @@
+* Allow applying arbitrary filters to tripoint_range, add points_in_radius_circ ([#57187](https://github.com/CleverRaven/Cataclysm-DDA/pull/57187))
+* Replace chain link recipe line mistakenly deleted by PR #57124, previously merged ([#57200](https://github.com/CleverRaven/Cataclysm-DDA/pull/57200))
 
 ---
 
@@ -213,7 +215,6 @@
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
 * New mod: Tamable Wildlife ([#57034](https://github.com/CleverRaven/Cataclysm-DDA/pull/57034))
 * Fixes waterproof smartphone cases being unable to hold phones that had their flashlight or music active ([#57019](https://github.com/CleverRaven/Cataclysm-DDA/pull/57019))
-* Audit spawns of tire-changing equipment in vehicles ([#57017](https://github.com/CleverRaven/Cataclysm-DDA/pull/57017))
 * Fix STEN Mk II plural ([#57031](https://github.com/CleverRaven/Cataclysm-DDA/pull/57031))
 * Add missing full stop to MMA description ([#57040](https://github.com/CleverRaven/Cataclysm-DDA/pull/57040))
 * A couple more labels ([#57036](https://github.com/CleverRaven/Cataclysm-DDA/pull/57036))
@@ -225,6 +226,5 @@
 * Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))
 * update the integrated silencer for mp5  ([#57045](https://github.com/CleverRaven/Cataclysm-DDA/pull/57045))
 * Routine i18n updates on 23 April 2022 ([#57049](https://github.com/CleverRaven/Cataclysm-DDA/pull/57049))
-* Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes ([#57018](https://github.com/CleverRaven/Cataclysm-DDA/pull/57018))
 * [Innawoods] Make Lonely Cave start available ([#57035](https://github.com/CleverRaven/Cataclysm-DDA/pull/57035))
 * Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
