@@ -19,6 +19,8 @@ Cataclysm-DDA experimental build 2022-04-27-0428 (3d839aa)
 
 Cataclysm-DDA experimental build 2022-04-27-0320 (64f6698)
 * Rest of the consumes that need a popup (#57195)
+
+Cataclysm-DDA experimental build 2022-04-27-0206 (fad9622)
 * json/refugee_center: move trader zones to same submap (#57156)
 
 Cataclysm-DDA experimental build 2022-04-26-2336 (1fa5cd4)
@@ -42,8 +44,12 @@ Cataclysm-DDA experimental build 2022-04-26-0554 (3e81ac1)
 
 Cataclysm-DDA experimental build 2022-04-26-0453 (3a43709)
 * Sexy spawn revamp (#57142)
+
+Cataclysm-DDA experimental build 2022-04-26-0053 (c06edeb)
 * Correct plural for sinister minor staff of bleeding (#57157)
 * Adding yarn spinning to livestock area 2 (#57055)
+
+Cataclysm-DDA experimental build 2022-04-25-2239 (209b7d1)
 * Fix scrolling of dialog responses and standardize the scrollbar (#57153)
 * Fix typos in faction camp menus (#57141)
 * npctrade: fix bionic installation prices (#57135)
@@ -89,6 +95,8 @@ Cataclysm-DDA experimental build 2022-04-24-2338 (4b7f27b)
 
 Cataclysm-DDA experimental build 2022-04-24-2223 (01565ec)
 * [Innawoods] Fibrecloth (#57116)
+
+Cataclysm-DDA experimental build 2022-04-24-1648 (77235b6)
 * Fix an inaccuracy in NPCs.md regarding dialogue skill checks (#57118)
 
 Cataclysm-DDA experimental build 2022-04-24-1533 (968108c)
@@ -100,19 +108,13 @@ Cataclysm-DDA experimental build 2022-04-24-1432 (5781898)
 
 Cataclysm-DDA experimental build 2022-04-24-1301 (c62a895)
 * item: unhardcode shoulder straps (#57108)
-
-Cataclysm-DDA experimental build 2022-04-24-1154 (d1c89ba)
 * Shuttlecock spawns (#57104)
-
-Cataclysm-DDA experimental build 2022-04-24-0655 (0b45ac6)
 * [DinoMod] DDotD compatibility fix (#57091)
 * elf-a → Elf-A (#57080)
 * Fix microlab toilet water and remove counters generating in walls (#57067)
 * Swimming gloves soft (#57074)
 * Remove extra T (#57087)
 * Add missing comma (#57090)
-
-Cataclysm-DDA experimental build 2022-04-24-0549 (9b93808)
 * [Innawoods] Baking and dummies (#57070)
 * More Rigid Fixes (#57093)
 * Try to break free before jumping over the ledge or climbing/crawling down (#57073)

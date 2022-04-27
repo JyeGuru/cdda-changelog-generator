@@ -34,6 +34,11 @@
 #### Cataclysm-DDA experimental build 2022-04-27-0320 ([64f6698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0320))
 
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-27-0206 ([fad9622](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0206))
+
 * json/refugee_center: move trader zones to same submap ([#57156](https://github.com/CleverRaven/Cataclysm-DDA/pull/57156))
 
 ---
@@ -78,8 +83,18 @@
 #### Cataclysm-DDA experimental build 2022-04-26-0453 ([3a43709](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0453))
 
 * Sexy spawn revamp ([#57142](https://github.com/CleverRaven/Cataclysm-DDA/pull/57142))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-26-0053 ([c06edeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0053))
+
 * Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
 * Adding yarn spinning to livestock area 2 ([#57055](https://github.com/CleverRaven/Cataclysm-DDA/pull/57055))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-25-2239 ([209b7d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-2239))
+
 * Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
 * Fix typos in faction camp menus ([#57141](https://github.com/CleverRaven/Cataclysm-DDA/pull/57141))
 * npctrade: fix bionic installation prices ([#57135](https://github.com/CleverRaven/Cataclysm-DDA/pull/57135))
@@ -152,6 +167,11 @@
 #### Cataclysm-DDA experimental build 2022-04-24-2223 ([01565ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-2223))
 
 * [Innawoods] Fibrecloth ([#57116](https://github.com/CleverRaven/Cataclysm-DDA/pull/57116))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-24-1648 ([77235b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1648))
+
 * Fix an inaccuracy in NPCs.md regarding dialogue skill checks ([#57118](https://github.com/CleverRaven/Cataclysm-DDA/pull/57118))
 
 ---
@@ -172,28 +192,13 @@
 #### Cataclysm-DDA experimental build 2022-04-24-1301 ([c62a895](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1301))
 
 * item: unhardcode shoulder straps ([#57108](https://github.com/CleverRaven/Cataclysm-DDA/pull/57108))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-1154 ([d1c89ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1154))
-
 * Shuttlecock spawns ([#57104](https://github.com/CleverRaven/Cataclysm-DDA/pull/57104))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-0655 ([0b45ac6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0655))
-
 * [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
 * elf-a → Elf-A ([#57080](https://github.com/CleverRaven/Cataclysm-DDA/pull/57080))
 * Fix microlab toilet water and remove counters generating in walls ([#57067](https://github.com/CleverRaven/Cataclysm-DDA/pull/57067))
 * Swimming gloves soft ([#57074](https://github.com/CleverRaven/Cataclysm-DDA/pull/57074))
 * Remove extra T ([#57087](https://github.com/CleverRaven/Cataclysm-DDA/pull/57087))
 * Add missing comma ([#57090](https://github.com/CleverRaven/Cataclysm-DDA/pull/57090))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-0549 ([9b93808](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0549))
-
 * [Innawoods] Baking and dummies ([#57070](https://github.com/CleverRaven/Cataclysm-DDA/pull/57070))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Try to break free before jumping over the ledge or climbing/crawling down ([#57073](https://github.com/CleverRaven/Cataclysm-DDA/pull/57073))
