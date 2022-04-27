@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-27-2208 ([916d778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-2208))
+
 * Fix to radio station maps to allow them to be correctly faced to the street during mapgen ([#57078](https://github.com/CleverRaven/Cataclysm-DDA/pull/57078))
 
 ---
@@ -187,11 +192,6 @@
 
 * Warmth is now more granular on sub covered limbs ([#57096](https://github.com/CleverRaven/Cataclysm-DDA/pull/57096))
 * Unify options screen names ([#57113](https://github.com/CleverRaven/Cataclysm-DDA/pull/57113))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-1432 ([5781898](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1432))
-
 * Clay ovens ([#57066](https://github.com/CleverRaven/Cataclysm-DDA/pull/57066))
 * item: unhardcode shoulder straps ([#57108](https://github.com/CleverRaven/Cataclysm-DDA/pull/57108))
 * Shuttlecock spawns ([#57104](https://github.com/CleverRaven/Cataclysm-DDA/pull/57104))

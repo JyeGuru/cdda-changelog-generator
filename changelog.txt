@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-27-2208 (916d778)
 * Fix to radio station maps to allow them to be correctly faced to the street during mapgen (#57078)
 
 Cataclysm-DDA experimental build 2022-04-27-2107 (1e7f271)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2022-04-24-1648 (77235b6)
 Cataclysm-DDA experimental build 2022-04-24-1533 (968108c)
 * Warmth is now more granular on sub covered limbs (#57096)
 * Unify options screen names (#57113)
-
-Cataclysm-DDA experimental build 2022-04-24-1432 (5781898)
 * Clay ovens (#57066)
 * item: unhardcode shoulder straps (#57108)
 * Shuttlecock spawns (#57104)
