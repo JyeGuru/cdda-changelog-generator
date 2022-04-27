@@ -1,4 +1,9 @@
 * Expand the containers auto-labeling ([#57185](https://github.com/CleverRaven/Cataclysm-DDA/pull/57185))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-27-0428 ([3d839aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0428))
+
 * Updated faction camp hide site UI ([#57150](https://github.com/CleverRaven/Cataclysm-DDA/pull/57150))
 * added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
 
