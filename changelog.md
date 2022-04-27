@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-27-0645 ([6eae86c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0645))
+
 * Bags encumbrance update ([#57184](https://github.com/CleverRaven/Cataclysm-DDA/pull/57184))
 
 ---
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-04-24-1154 ([d1c89ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1154))
 
 * Shuttlecock spawns ([#57104](https://github.com/CleverRaven/Cataclysm-DDA/pull/57104))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-0655 ([0b45ac6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-0655))
-
 * [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
 * elf-a → Elf-A ([#57080](https://github.com/CleverRaven/Cataclysm-DDA/pull/57080))
 * Fix microlab toilet water and remove counters generating in walls ([#57067](https://github.com/CleverRaven/Cataclysm-DDA/pull/57067))
