@@ -227,4 +227,3 @@
 * Modestly granularize NPC_ROBOFAC_INTERCOM.json in prep for future changes ([#57018](https://github.com/CleverRaven/Cataclysm-DDA/pull/57018))
 * [Innawoods] Make Lonely Cave start available ([#57035](https://github.com/CleverRaven/Cataclysm-DDA/pull/57035))
 * Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
-* Add precise strike to batons/tonfas, remove from qiang, fix description ([#57015](https://github.com/CleverRaven/Cataclysm-DDA/pull/57015))
