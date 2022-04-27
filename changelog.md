@@ -1,3 +1,4 @@
+* Fix to radio station maps to allow them to be correctly faced to the street during mapgen ([#57078](https://github.com/CleverRaven/Cataclysm-DDA/pull/57078))
 
 ---
 
@@ -209,7 +210,6 @@
 * MP18 → MP 18 ([#57043](https://github.com/CleverRaven/Cataclysm-DDA/pull/57043))
 * Add missing full stops to CRIT bladework descriptions ([#57038](https://github.com/CleverRaven/Cataclysm-DDA/pull/57038))
 * Fungal-raptor → fungal raptor ([#57032](https://github.com/CleverRaven/Cataclysm-DDA/pull/57032))
-* Fix loading foraging activity ([#57020](https://github.com/CleverRaven/Cataclysm-DDA/pull/57020))
 * Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
 * Fix hide site creation and make error message clearer ([#57063](https://github.com/CleverRaven/Cataclysm-DDA/pull/57063))
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
