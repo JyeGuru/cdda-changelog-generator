@@ -1,3 +1,4 @@
+* Kitchen knives and cleavers damage buff (#57204)
 
 Cataclysm-DDA experimental build 2022-04-28-0536 (9305a5f)
 * Zombie child drops update (#57212)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2022-04-25-0216 (c36b042)
 * Create proper rope uncraft recipes (#57068)
 * Wrist fixes (#57057)
 * Add missing full stop to MMA description (#57040)
-* pokemon → Pokémon (#57039)
 * marloss → Marloss (#57042)
 * Small Text Fixes and Additions (#57048)
 * Removed changes to No Hope mod which borked lab generation (#57051)

@@ -1,3 +1,4 @@
+* Kitchen knives and cleavers damage buff ([#57204](https://github.com/CleverRaven/Cataclysm-DDA/pull/57204))
 
 ---
 
@@ -224,7 +225,6 @@
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
 * Add missing full stop to MMA description ([#57040](https://github.com/CleverRaven/Cataclysm-DDA/pull/57040))
-* pokemon → Pokémon ([#57039](https://github.com/CleverRaven/Cataclysm-DDA/pull/57039))
 * marloss → Marloss ([#57042](https://github.com/CleverRaven/Cataclysm-DDA/pull/57042))
 * Small Text Fixes and Additions ([#57048](https://github.com/CleverRaven/Cataclysm-DDA/pull/57048))
 * Removed changes to No Hope mod which borked lab generation ([#57051](https://github.com/CleverRaven/Cataclysm-DDA/pull/57051))
