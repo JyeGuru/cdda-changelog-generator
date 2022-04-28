@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-28-0416 ([6d87e1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0416))
+
+* inv_ui: fix entry copy to/from hierarchical mode ([#57210](https://github.com/CleverRaven/Cataclysm-DDA/pull/57210))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-28-0137 ([76c4d02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0137))
 
 * Nailboard, 2-by-sword, nord, crude sword adjustments + fixes ([#57147](https://github.com/CleverRaven/Cataclysm-DDA/pull/57147))
@@ -192,11 +198,6 @@
 * remove unused line in translation ([#57114](https://github.com/CleverRaven/Cataclysm-DDA/pull/57114))
 * item: fix magazine_default for null ammo ([#57115](https://github.com/CleverRaven/Cataclysm-DDA/pull/57115))
 * [DinoMod] large boiled dino egg fixes ([#57110](https://github.com/CleverRaven/Cataclysm-DDA/pull/57110))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-2223 ([01565ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-2223))
-
 * [Innawoods] Fibrecloth ([#57116](https://github.com/CleverRaven/Cataclysm-DDA/pull/57116))
 * Fix an inaccuracy in NPCs.md regarding dialogue skill checks ([#57118](https://github.com/CleverRaven/Cataclysm-DDA/pull/57118))
 * Warmth is now more granular on sub covered limbs ([#57096](https://github.com/CleverRaven/Cataclysm-DDA/pull/57096))
@@ -223,7 +224,6 @@
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
 * Add missing full stop to MMA description ([#57040](https://github.com/CleverRaven/Cataclysm-DDA/pull/57040))
-* A couple more labels ([#57036](https://github.com/CleverRaven/Cataclysm-DDA/pull/57036))
 * pokemon → Pokémon ([#57039](https://github.com/CleverRaven/Cataclysm-DDA/pull/57039))
 * marloss → Marloss ([#57042](https://github.com/CleverRaven/Cataclysm-DDA/pull/57042))
 * Small Text Fixes and Additions ([#57048](https://github.com/CleverRaven/Cataclysm-DDA/pull/57048))
