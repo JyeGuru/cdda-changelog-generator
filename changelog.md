@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-28-1742 ([42c118b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-1742))
+
 * Kitchen knives and cleavers damage buff ([#57204](https://github.com/CleverRaven/Cataclysm-DDA/pull/57204))
 
 ---
