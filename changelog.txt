@@ -1,3 +1,4 @@
+* Bound food health between -1 and 0 (#57225)
 
 Cataclysm-DDA experimental build 2022-04-28-1742 (42c118b)
 * Kitchen knives and cleavers damage buff (#57204)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2022-04-25-0216 (c36b042)
 * Fix hide site creation and make error message clearer (#57063)
 * Create proper rope uncraft recipes (#57068)
 * Wrist fixes (#57057)
-* Add missing full stop to MMA description (#57040)
 * marloss → Marloss (#57042)
 * Small Text Fixes and Additions (#57048)
 * Removed changes to No Hope mod which borked lab generation (#57051)

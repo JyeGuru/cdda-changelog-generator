@@ -1,3 +1,4 @@
+* Bound food health between -1 and 0 ([#57225](https://github.com/CleverRaven/Cataclysm-DDA/pull/57225))
 
 ---
 
@@ -229,7 +230,6 @@
 * Fix hide site creation and make error message clearer ([#57063](https://github.com/CleverRaven/Cataclysm-DDA/pull/57063))
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
-* Add missing full stop to MMA description ([#57040](https://github.com/CleverRaven/Cataclysm-DDA/pull/57040))
 * marloss → Marloss ([#57042](https://github.com/CleverRaven/Cataclysm-DDA/pull/57042))
 * Small Text Fixes and Additions ([#57048](https://github.com/CleverRaven/Cataclysm-DDA/pull/57048))
 * Removed changes to No Hope mod which borked lab generation ([#57051](https://github.com/CleverRaven/Cataclysm-DDA/pull/57051))
