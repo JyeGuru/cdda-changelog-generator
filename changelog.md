@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-28-0137 ([76c4d02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0137))
+
+* Nailboard, 2-by-sword, nord, crude sword adjustments + fixes ([#57147](https://github.com/CleverRaven/Cataclysm-DDA/pull/57147))
+* Trade autobalance ([#57168](https://github.com/CleverRaven/Cataclysm-DDA/pull/57168))
+* Scan basecamp ([#57170](https://github.com/CleverRaven/Cataclysm-DDA/pull/57170))
+* Add looks_like to standing lamp in appliance and item form. ([#57172](https://github.com/CleverRaven/Cataclysm-DDA/pull/57172))
+* Fix insertion error when looting valid ammo ([#57192](https://github.com/CleverRaven/Cataclysm-DDA/pull/57192))
+* Only load cataclysm-dda.mo from system locale directory ([#57213](https://github.com/CleverRaven/Cataclysm-DDA/pull/57213))
+* breachers LBV ([#57176](https://github.com/CleverRaven/Cataclysm-DDA/pull/57176))
+* Add keypad enter key when loading old keybinding file ([#57206](https://github.com/CleverRaven/Cataclysm-DDA/pull/57206))
+* Returned range check for shocker's attack ([#57207](https://github.com/CleverRaven/Cataclysm-DDA/pull/57207))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-28-0029 ([97334d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0029))
+
+* Added melee damage modifier to pistol bayonet ([#57208](https://github.com/CleverRaven/Cataclysm-DDA/pull/57208))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-27-2208 ([916d778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-2208))
 
 * Fix to radio station maps to allow them to be correctly faced to the street during mapgen ([#57078](https://github.com/CleverRaven/Cataclysm-DDA/pull/57078))
@@ -161,7 +181,6 @@
 
 * Heres → Here's ([#57089](https://github.com/CleverRaven/Cataclysm-DDA/pull/57089))
 * Fix tiaras throwing error ([#57117](https://github.com/CleverRaven/Cataclysm-DDA/pull/57117))
-* Sanitize NPC item value logic ([#57029](https://github.com/CleverRaven/Cataclysm-DDA/pull/57029))
 * feat: label issues by template+confirm bug command ([#57072](https://github.com/CleverRaven/Cataclysm-DDA/pull/57072))
 
 ---
@@ -179,17 +198,7 @@
 #### Cataclysm-DDA experimental build 2022-04-24-2223 ([01565ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-2223))
 
 * [Innawoods] Fibrecloth ([#57116](https://github.com/CleverRaven/Cataclysm-DDA/pull/57116))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-1648 ([77235b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1648))
-
 * Fix an inaccuracy in NPCs.md regarding dialogue skill checks ([#57118](https://github.com/CleverRaven/Cataclysm-DDA/pull/57118))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-24-1533 ([968108c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-24-1533))
-
 * Warmth is now more granular on sub covered limbs ([#57096](https://github.com/CleverRaven/Cataclysm-DDA/pull/57096))
 * Unify options screen names ([#57113](https://github.com/CleverRaven/Cataclysm-DDA/pull/57113))
 * Clay ovens ([#57066](https://github.com/CleverRaven/Cataclysm-DDA/pull/57066))
@@ -209,22 +218,16 @@
 * item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
 * MP18 → MP 18 ([#57043](https://github.com/CleverRaven/Cataclysm-DDA/pull/57043))
 * Add missing full stops to CRIT bladework descriptions ([#57038](https://github.com/CleverRaven/Cataclysm-DDA/pull/57038))
-* Fungal-raptor → fungal raptor ([#57032](https://github.com/CleverRaven/Cataclysm-DDA/pull/57032))
 * Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
 * Fix hide site creation and make error message clearer ([#57063](https://github.com/CleverRaven/Cataclysm-DDA/pull/57063))
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
-* New mod: Tamable Wildlife ([#57034](https://github.com/CleverRaven/Cataclysm-DDA/pull/57034))
-* Fix STEN Mk II plural ([#57031](https://github.com/CleverRaven/Cataclysm-DDA/pull/57031))
 * Add missing full stop to MMA description ([#57040](https://github.com/CleverRaven/Cataclysm-DDA/pull/57040))
 * A couple more labels ([#57036](https://github.com/CleverRaven/Cataclysm-DDA/pull/57036))
 * pokemon → Pokémon ([#57039](https://github.com/CleverRaven/Cataclysm-DDA/pull/57039))
 * marloss → Marloss ([#57042](https://github.com/CleverRaven/Cataclysm-DDA/pull/57042))
 * Small Text Fixes and Additions ([#57048](https://github.com/CleverRaven/Cataclysm-DDA/pull/57048))
 * Removed changes to No Hope mod which borked lab generation ([#57051](https://github.com/CleverRaven/Cataclysm-DDA/pull/57051))
-* Added a new evac shelter basement for shelter_1 ([#57026](https://github.com/CleverRaven/Cataclysm-DDA/pull/57026))
 * Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))
 * update the integrated silencer for mp5  ([#57045](https://github.com/CleverRaven/Cataclysm-DDA/pull/57045))
 * Routine i18n updates on 23 April 2022 ([#57049](https://github.com/CleverRaven/Cataclysm-DDA/pull/57049))
-* [Innawoods] Make Lonely Cave start available ([#57035](https://github.com/CleverRaven/Cataclysm-DDA/pull/57035))
-* Fix pneumatics proficiency typo ([#57024](https://github.com/CleverRaven/Cataclysm-DDA/pull/57024))
