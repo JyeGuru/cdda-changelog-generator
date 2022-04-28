@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-28-1848 ([993af16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-1848))
+
 * Bound food health between -1 and 0 ([#57225](https://github.com/CleverRaven/Cataclysm-DDA/pull/57225))
 
 ---
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2022-04-25-0606 ([d2f35f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-0606))
 
 * Tileset Update 2022-04-24 ([#57129](https://github.com/CleverRaven/Cataclysm-DDA/pull/57129))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-25-0216 ([c36b042](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-0216))
-
 * Heres → Here's ([#57089](https://github.com/CleverRaven/Cataclysm-DDA/pull/57089))
 * Fix tiaras throwing error ([#57117](https://github.com/CleverRaven/Cataclysm-DDA/pull/57117))
 * feat: label issues by template+confirm bug command ([#57072](https://github.com/CleverRaven/Cataclysm-DDA/pull/57072))
