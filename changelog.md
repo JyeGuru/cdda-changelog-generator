@@ -1,4 +1,9 @@
 * ft.: allow more users to confirm bug reports ([#57191](https://github.com/CleverRaven/Cataclysm-DDA/pull/57191))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-29-2137 ([963495a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-2137))
+
 * [MMA] Weapon Categories: Tiger Claw + update great axes category ([#57214](https://github.com/CleverRaven/Cataclysm-DDA/pull/57214))
 * Don't spawn non-gaseous fields on open air ([#57224](https://github.com/CleverRaven/Cataclysm-DDA/pull/57224))
 * Added mission hiding functionality ([#57231](https://github.com/CleverRaven/Cataclysm-DDA/pull/57231))
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2022-04-26-0453 ([3a43709](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0453))
 
 * Sexy spawn revamp ([#57142](https://github.com/CleverRaven/Cataclysm-DDA/pull/57142))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-26-0053 ([c06edeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0053))
-
 * Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
 * Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
 * Fix typos in faction camp menus ([#57141](https://github.com/CleverRaven/Cataclysm-DDA/pull/57141))
