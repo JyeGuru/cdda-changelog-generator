@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-29-1636 ([d2cecff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-1636))
+
+* Add early game swords to Niten Ichi-Ryu ([#57252](https://github.com/CleverRaven/Cataclysm-DDA/pull/57252))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-29-1531 ([e874d48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-1531))
 
 * Body Graph UI ([#57222](https://github.com/CleverRaven/Cataclysm-DDA/pull/57222))
@@ -170,11 +176,6 @@
 
 * Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
 * Adding yarn spinning to livestock area 2 ([#57055](https://github.com/CleverRaven/Cataclysm-DDA/pull/57055))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-25-2239 ([209b7d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-2239))
-
 * Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
 * Fix typos in faction camp menus ([#57141](https://github.com/CleverRaven/Cataclysm-DDA/pull/57141))
 * npctrade: fix bionic installation prices ([#57135](https://github.com/CleverRaven/Cataclysm-DDA/pull/57135))
@@ -223,5 +224,4 @@
 * Fix hide site creation and make error message clearer ([#57063](https://github.com/CleverRaven/Cataclysm-DDA/pull/57063))
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
-* Removed changes to No Hope mod which borked lab generation ([#57051](https://github.com/CleverRaven/Cataclysm-DDA/pull/57051))
 * Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))

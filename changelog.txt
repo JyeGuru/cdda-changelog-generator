@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-29-1636 (d2cecff)
+* Add early game swords to Niten Ichi-Ryu (#57252)
+
 Cataclysm-DDA experimental build 2022-04-29-1531 (e874d48)
 * Body Graph UI (#57222)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2022-04-26-0453 (3a43709)
 Cataclysm-DDA experimental build 2022-04-26-0053 (c06edeb)
 * Correct plural for sinister minor staff of bleeding (#57157)
 * Adding yarn spinning to livestock area 2 (#57055)
-
-Cataclysm-DDA experimental build 2022-04-25-2239 (209b7d1)
 * Fix scrolling of dialog responses and standardize the scrollbar (#57153)
 * Fix typos in faction camp menus (#57141)
 * npctrade: fix bionic installation prices (#57135)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2022-04-25-2239 (209b7d1)
 * Fix hide site creation and make error message clearer (#57063)
 * Create proper rope uncraft recipes (#57068)
 * Wrist fixes (#57057)
-* Removed changes to No Hope mod which borked lab generation (#57051)
 * Fix Aleesha dialogue (#57065)
