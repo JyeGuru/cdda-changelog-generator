@@ -1,3 +1,11 @@
+* [Innawoods] Plastic from chitin ([#57236](https://github.com/CleverRaven/Cataclysm-DDA/pull/57236))
+* Unify costumes groups ([#57202](https://github.com/CleverRaven/Cataclysm-DDA/pull/57202))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-29-2319 ([f10076a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-2319))
+
+* Update torso_armor.json warmth values ([#57215](https://github.com/CleverRaven/Cataclysm-DDA/pull/57215))
 * ft.: allow more users to confirm bug reports ([#57191](https://github.com/CleverRaven/Cataclysm-DDA/pull/57191))
 
 ---
@@ -180,11 +188,6 @@
 
 * Move explicit pliers/multitool requirements to WRENCH 1 requirement ([#57124](https://github.com/CleverRaven/Cataclysm-DDA/pull/57124))
 * Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-26-0453 ([3a43709](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0453))
-
 * Sexy spawn revamp ([#57142](https://github.com/CleverRaven/Cataclysm-DDA/pull/57142))
 * Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
 * Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
@@ -205,7 +208,6 @@
 * Tileset Update 2022-04-24 ([#57129](https://github.com/CleverRaven/Cataclysm-DDA/pull/57129))
 * Heres → Here's ([#57089](https://github.com/CleverRaven/Cataclysm-DDA/pull/57089))
 * Fix tiaras throwing error ([#57117](https://github.com/CleverRaven/Cataclysm-DDA/pull/57117))
-* Fix encumbrance and comfort updating after tailoring and wielding worn items ([#57077](https://github.com/CleverRaven/Cataclysm-DDA/pull/57077))
 * MP18 → MP 18, MP40 → MP 40 ([#57112](https://github.com/CleverRaven/Cataclysm-DDA/pull/57112))
 * remove unused line in translation ([#57114](https://github.com/CleverRaven/Cataclysm-DDA/pull/57114))
 * item: fix magazine_default for null ammo ([#57115](https://github.com/CleverRaven/Cataclysm-DDA/pull/57115))
@@ -218,10 +220,8 @@
 * Shuttlecock spawns ([#57104](https://github.com/CleverRaven/Cataclysm-DDA/pull/57104))
 * [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
 * elf-a → Elf-A ([#57080](https://github.com/CleverRaven/Cataclysm-DDA/pull/57080))
-* Swimming gloves soft ([#57074](https://github.com/CleverRaven/Cataclysm-DDA/pull/57074))
 * Remove extra T ([#57087](https://github.com/CleverRaven/Cataclysm-DDA/pull/57087))
 * Add missing comma ([#57090](https://github.com/CleverRaven/Cataclysm-DDA/pull/57090))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
-* Try to break free before jumping over the ledge or climbing/crawling down ([#57073](https://github.com/CleverRaven/Cataclysm-DDA/pull/57073))
 * Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
 * Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
