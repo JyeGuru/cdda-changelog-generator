@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-29-1531 ([e874d48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-1531))
+
 * Body Graph UI ([#57222](https://github.com/CleverRaven/Cataclysm-DDA/pull/57222))
 
 ---
@@ -178,11 +183,6 @@
 * Air compressor, Hydraulic press & Water purifier appliances ([#57100](https://github.com/CleverRaven/Cataclysm-DDA/pull/57100))
 * fix: don't run comments command on prs ([#57133](https://github.com/CleverRaven/Cataclysm-DDA/pull/57133))
 * vehicle: fix a collision crash ([#57146](https://github.com/CleverRaven/Cataclysm-DDA/pull/57146))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-25-2137 ([176634a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-2137))
-
 * Clarified drum/double drum for HWP gun ([#57149](https://github.com/CleverRaven/Cataclysm-DDA/pull/57149))
 * Costume professions ([#57062](https://github.com/CleverRaven/Cataclysm-DDA/pull/57062))
 * Swimming spawns revamp ([#57103](https://github.com/CleverRaven/Cataclysm-DDA/pull/57103))
