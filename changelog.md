@@ -224,5 +224,4 @@
 * Small Text Fixes and Additions ([#57048](https://github.com/CleverRaven/Cataclysm-DDA/pull/57048))
 * Removed changes to No Hope mod which borked lab generation ([#57051](https://github.com/CleverRaven/Cataclysm-DDA/pull/57051))
 * Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))
-* update the integrated silencer for mp5  ([#57045](https://github.com/CleverRaven/Cataclysm-DDA/pull/57045))
 * Routine i18n updates on 23 April 2022 ([#57049](https://github.com/CleverRaven/Cataclysm-DDA/pull/57049))
