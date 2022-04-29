@@ -1,3 +1,8 @@
+* crafting_ui: fix recipe result quantities ([#57258](https://github.com/CleverRaven/Cataclysm-DDA/pull/57258))
+* Add plurals to some missing snails ([#57263](https://github.com/CleverRaven/Cataclysm-DDA/pull/57263))
+* Clarify the delete world message ([#57264](https://github.com/CleverRaven/Cataclysm-DDA/pull/57264))
+* Restore previous new recipe symbol ([#57265](https://github.com/CleverRaven/Cataclysm-DDA/pull/57265))
+* Appease clang-tidy ([#57267](https://github.com/CleverRaven/Cataclysm-DDA/pull/57267))
 * [DinoMod] mosasaurus looks_like ([#57260](https://github.com/CleverRaven/Cataclysm-DDA/pull/57260))
 
 ---
@@ -182,7 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-04-26-0053 ([c06edeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0053))
 
 * Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
-* Adding yarn spinning to livestock area 2 ([#57055](https://github.com/CleverRaven/Cataclysm-DDA/pull/57055))
 * Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
 * Fix typos in faction camp menus ([#57141](https://github.com/CleverRaven/Cataclysm-DDA/pull/57141))
 * npctrade: fix bionic installation prices ([#57135](https://github.com/CleverRaven/Cataclysm-DDA/pull/57135))
@@ -192,7 +196,6 @@
 * fix: don't run comments command on prs ([#57133](https://github.com/CleverRaven/Cataclysm-DDA/pull/57133))
 * vehicle: fix a collision crash ([#57146](https://github.com/CleverRaven/Cataclysm-DDA/pull/57146))
 * Clarified drum/double drum for HWP gun ([#57149](https://github.com/CleverRaven/Cataclysm-DDA/pull/57149))
-* Costume professions ([#57062](https://github.com/CleverRaven/Cataclysm-DDA/pull/57062))
 * Swimming spawns revamp ([#57103](https://github.com/CleverRaven/Cataclysm-DDA/pull/57103))
 * Revamp Really Bad Day professions ([#57134](https://github.com/CleverRaven/Cataclysm-DDA/pull/57134))
 * Naked description updates ([#57136](https://github.com/CleverRaven/Cataclysm-DDA/pull/57136))
@@ -225,9 +228,5 @@
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Try to break free before jumping over the ledge or climbing/crawling down ([#57073](https://github.com/CleverRaven/Cataclysm-DDA/pull/57073))
 * Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
-* item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
 * Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
-* Fix hide site creation and make error message clearer ([#57063](https://github.com/CleverRaven/Cataclysm-DDA/pull/57063))
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
-* Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
-* Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))
