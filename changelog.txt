@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-29-0525 (8c4fc2a)
+* TropiCata: More Tropical Fishes (#57242)
+
 Cataclysm-DDA experimental build 2022-04-29-0115 (405a7d0)
 * Unify keybindings and menus (#57125)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2022-04-25-1942 (9263c61)
 * Costume professions (#57062)
 * Swimming spawns revamp (#57103)
 * Revamp Really Bad Day professions (#57134)
-
-Cataclysm-DDA experimental build 2022-04-25-1823 (615ddec)
 * Naked description updates (#57136)
 * Add two new drum magazines to Hub01 gun (#57128)
 * Update reward for rescuing Barry Isherwood (#57131)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2022-04-25-1823 (615ddec)
 * Fix mutagen addiction test (#57053)
 * Revert "Create proper rope uncraft recipes (#57068)" (#57095)
 * item: don't use ret_val for pocket accessors (#57056)
-* MP18 → MP 18 (#57043)
 * Conductive aluminum bat (#57079)
 * Fix hide site creation and make error message clearer (#57063)
 * Create proper rope uncraft recipes (#57068)

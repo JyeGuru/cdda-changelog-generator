@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-29-0525 ([8c4fc2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-0525))
+
+* TropiCata: More Tropical Fishes ([#57242](https://github.com/CleverRaven/Cataclysm-DDA/pull/57242))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-29-0115 ([405a7d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-0115))
 
 * Unify keybindings and menus ([#57125](https://github.com/CleverRaven/Cataclysm-DDA/pull/57125))
@@ -179,11 +185,6 @@
 * Costume professions ([#57062](https://github.com/CleverRaven/Cataclysm-DDA/pull/57062))
 * Swimming spawns revamp ([#57103](https://github.com/CleverRaven/Cataclysm-DDA/pull/57103))
 * Revamp Really Bad Day professions ([#57134](https://github.com/CleverRaven/Cataclysm-DDA/pull/57134))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-25-1823 ([615ddec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-1823))
-
 * Naked description updates ([#57136](https://github.com/CleverRaven/Cataclysm-DDA/pull/57136))
 * Add two new drum magazines to Hub01 gun ([#57128](https://github.com/CleverRaven/Cataclysm-DDA/pull/57128))
 * Update reward for rescuing Barry Isherwood ([#57131](https://github.com/CleverRaven/Cataclysm-DDA/pull/57131))
@@ -216,7 +217,6 @@
 * Fix mutagen addiction test ([#57053](https://github.com/CleverRaven/Cataclysm-DDA/pull/57053))
 * Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
 * item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
-* MP18 → MP 18 ([#57043](https://github.com/CleverRaven/Cataclysm-DDA/pull/57043))
 * Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
 * Fix hide site creation and make error message clearer ([#57063](https://github.com/CleverRaven/Cataclysm-DDA/pull/57063))
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
