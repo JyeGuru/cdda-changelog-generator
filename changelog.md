@@ -1,3 +1,4 @@
+* ft.: allow more users to confirm bug reports ([#57191](https://github.com/CleverRaven/Cataclysm-DDA/pull/57191))
 * [MMA] Weapon Categories: Tiger Claw + update great axes category ([#57214](https://github.com/CleverRaven/Cataclysm-DDA/pull/57214))
 * Don't spawn non-gaseous fields on open air ([#57224](https://github.com/CleverRaven/Cataclysm-DDA/pull/57224))
 * Added mission hiding functionality ([#57231](https://github.com/CleverRaven/Cataclysm-DDA/pull/57231))
@@ -204,7 +205,6 @@
 * Tileset Update 2022-04-24 ([#57129](https://github.com/CleverRaven/Cataclysm-DDA/pull/57129))
 * Heres → Here's ([#57089](https://github.com/CleverRaven/Cataclysm-DDA/pull/57089))
 * Fix tiaras throwing error ([#57117](https://github.com/CleverRaven/Cataclysm-DDA/pull/57117))
-* feat: label issues by template+confirm bug command ([#57072](https://github.com/CleverRaven/Cataclysm-DDA/pull/57072))
 * Fix encumbrance and comfort updating after tailoring and wielding worn items ([#57077](https://github.com/CleverRaven/Cataclysm-DDA/pull/57077))
 * MP18 → MP 18, MP40 → MP 40 ([#57112](https://github.com/CleverRaven/Cataclysm-DDA/pull/57112))
 * remove unused line in translation ([#57114](https://github.com/CleverRaven/Cataclysm-DDA/pull/57114))
