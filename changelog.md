@@ -1,3 +1,4 @@
+* Body Graph UI ([#57222](https://github.com/CleverRaven/Cataclysm-DDA/pull/57222))
 
 ---
 
@@ -224,4 +225,3 @@
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
 * Removed changes to No Hope mod which borked lab generation ([#57051](https://github.com/CleverRaven/Cataclysm-DDA/pull/57051))
 * Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))
-* Routine i18n updates on 23 April 2022 ([#57049](https://github.com/CleverRaven/Cataclysm-DDA/pull/57049))
