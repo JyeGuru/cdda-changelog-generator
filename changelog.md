@@ -1,3 +1,6 @@
+* [MMA] Weapon Categories: Tiger Claw + update great axes category ([#57214](https://github.com/CleverRaven/Cataclysm-DDA/pull/57214))
+* Don't spawn non-gaseous fields on open air ([#57224](https://github.com/CleverRaven/Cataclysm-DDA/pull/57224))
+* Added mission hiding functionality ([#57231](https://github.com/CleverRaven/Cataclysm-DDA/pull/57231))
 * item: apply faction ownership to contents too ([#57248](https://github.com/CleverRaven/Cataclysm-DDA/pull/57248))
 * game_inv: don't shown worn ablative armor in wear menu ([#57250](https://github.com/CleverRaven/Cataclysm-DDA/pull/57250))
 * crafting_ui: fix recipe result quantities ([#57258](https://github.com/CleverRaven/Cataclysm-DDA/pull/57258))
@@ -167,12 +170,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-26-1329 ([90c3b39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-1329))
-
-* [CR] Hub 01 intercom dialogue update pt 2: Missions ([#57069](https://github.com/CleverRaven/Cataclysm-DDA/pull/57069))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-26-0554 ([3e81ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0554))
 
 * Move explicit pliers/multitool requirements to WRENCH 1 requirement ([#57124](https://github.com/CleverRaven/Cataclysm-DDA/pull/57124))
@@ -224,9 +221,7 @@
 * Swimming gloves soft ([#57074](https://github.com/CleverRaven/Cataclysm-DDA/pull/57074))
 * Remove extra T ([#57087](https://github.com/CleverRaven/Cataclysm-DDA/pull/57087))
 * Add missing comma ([#57090](https://github.com/CleverRaven/Cataclysm-DDA/pull/57090))
-* [Innawoods] Baking and dummies ([#57070](https://github.com/CleverRaven/Cataclysm-DDA/pull/57070))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Try to break free before jumping over the ledge or climbing/crawling down ([#57073](https://github.com/CleverRaven/Cataclysm-DDA/pull/57073))
 * Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
 * Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
-* Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
