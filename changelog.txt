@@ -104,8 +104,6 @@ Cataclysm-DDA experimental build 2022-04-25-1942 (9263c61)
 
 Cataclysm-DDA experimental build 2022-04-25-1823 (615ddec)
 * Naked description updates (#57136)
-
-Cataclysm-DDA experimental build 2022-04-25-1228 (44c51a4)
 * Add two new drum magazines to Hub01 gun (#57128)
 * Update reward for rescuing Barry Isherwood (#57131)
 * Change 3 init.cpp items to title case (#57130)

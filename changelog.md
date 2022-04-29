@@ -185,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-04-25-1823 ([615ddec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-1823))
 
 * Naked description updates ([#57136](https://github.com/CleverRaven/Cataclysm-DDA/pull/57136))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-25-1228 ([44c51a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-1228))
-
 * Add two new drum magazines to Hub01 gun ([#57128](https://github.com/CleverRaven/Cataclysm-DDA/pull/57128))
 * Update reward for rescuing Barry Isherwood ([#57131](https://github.com/CleverRaven/Cataclysm-DDA/pull/57131))
 * Change 3 init.cpp items to title case ([#57130](https://github.com/CleverRaven/Cataclysm-DDA/pull/57130))
