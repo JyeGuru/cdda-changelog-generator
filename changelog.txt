@@ -1,3 +1,7 @@
+* [DinoMod] mosasaurus looks_like (#57260)
+
+Cataclysm-DDA experimental build 2022-04-29-2028 (300984c)
+* [DinoMod] more dino npc stuff (#57122)
 
 Cataclysm-DDA experimental build 2022-04-29-1636 (d2cecff)
 * Add early game swords to Niten Ichi-Ryu (#57252)
@@ -136,7 +140,6 @@ Cataclysm-DDA experimental build 2022-04-26-0053 (c06edeb)
 * [Innawoods] Baking and dummies (#57070)
 * More Rigid Fixes (#57093)
 * Try to break free before jumping over the ledge or climbing/crawling down (#57073)
-* Fix mutagen addiction test (#57053)
 * Revert "Create proper rope uncraft recipes (#57068)" (#57095)
 * item: don't use ret_val for pocket accessors (#57056)
 * Conductive aluminum bat (#57079)

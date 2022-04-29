@@ -1,3 +1,10 @@
+* [DinoMod] mosasaurus looks_like ([#57260](https://github.com/CleverRaven/Cataclysm-DDA/pull/57260))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-29-2028 ([300984c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-2028))
+
+* [DinoMod] more dino npc stuff ([#57122](https://github.com/CleverRaven/Cataclysm-DDA/pull/57122))
 
 ---
 
@@ -217,7 +224,6 @@
 * [Innawoods] Baking and dummies ([#57070](https://github.com/CleverRaven/Cataclysm-DDA/pull/57070))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Try to break free before jumping over the ledge or climbing/crawling down ([#57073](https://github.com/CleverRaven/Cataclysm-DDA/pull/57073))
-* Fix mutagen addiction test ([#57053](https://github.com/CleverRaven/Cataclysm-DDA/pull/57053))
 * Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
 * item: don't use ret_val for pocket accessors ([#57056](https://github.com/CleverRaven/Cataclysm-DDA/pull/57056))
 * Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
