@@ -1,3 +1,4 @@
+* Unify keybindings and menus ([#57125](https://github.com/CleverRaven/Cataclysm-DDA/pull/57125))
 
 ---
 
@@ -192,11 +193,6 @@
 
 * Update reward for rescuing Barry Isherwood ([#57131](https://github.com/CleverRaven/Cataclysm-DDA/pull/57131))
 * Change 3 init.cpp items to title case ([#57130](https://github.com/CleverRaven/Cataclysm-DDA/pull/57130))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-25-0606 ([d2f35f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-25-0606))
-
 * Tileset Update 2022-04-24 ([#57129](https://github.com/CleverRaven/Cataclysm-DDA/pull/57129))
 * Heres → Here's ([#57089](https://github.com/CleverRaven/Cataclysm-DDA/pull/57089))
 * Fix tiaras throwing error ([#57117](https://github.com/CleverRaven/Cataclysm-DDA/pull/57117))
@@ -230,7 +226,6 @@
 * Fix hide site creation and make error message clearer ([#57063](https://github.com/CleverRaven/Cataclysm-DDA/pull/57063))
 * Create proper rope uncraft recipes ([#57068](https://github.com/CleverRaven/Cataclysm-DDA/pull/57068))
 * Wrist fixes ([#57057](https://github.com/CleverRaven/Cataclysm-DDA/pull/57057))
-* marloss → Marloss ([#57042](https://github.com/CleverRaven/Cataclysm-DDA/pull/57042))
 * Small Text Fixes and Additions ([#57048](https://github.com/CleverRaven/Cataclysm-DDA/pull/57048))
 * Removed changes to No Hope mod which borked lab generation ([#57051](https://github.com/CleverRaven/Cataclysm-DDA/pull/57051))
 * Fix Aleesha dialogue ([#57065](https://github.com/CleverRaven/Cataclysm-DDA/pull/57065))
