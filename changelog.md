@@ -180,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-04-26-2127 ([a85a36f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-2127))
 
 * Minor text correction in sinister staff of bleeding ([#57169](https://github.com/CleverRaven/Cataclysm-DDA/pull/57169))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-26-1708 ([4697554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-1708))
-
 * Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
 * deployment bag ([#57163](https://github.com/CleverRaven/Cataclysm-DDA/pull/57163))
 * Move explicit pliers/multitool requirements to WRENCH 1 requirement ([#57124](https://github.com/CleverRaven/Cataclysm-DDA/pull/57124))

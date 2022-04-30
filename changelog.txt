@@ -102,8 +102,6 @@ Cataclysm-DDA experimental build 2022-04-26-2336 (1fa5cd4)
 
 Cataclysm-DDA experimental build 2022-04-26-2127 (a85a36f)
 * Minor text correction in sinister staff of bleeding (#57169)
-
-Cataclysm-DDA experimental build 2022-04-26-1708 (4697554)
 * Fix hydraulic press copy-paste (#57173)
 * deployment bag (#57163)
 * Move explicit pliers/multitool requirements to WRENCH 1 requirement (#57124)
