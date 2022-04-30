@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-04-30-2315 (a26d6be)
 * First Version Of Encumbrance By Sentence (#57243)
 
 Cataclysm-DDA experimental build 2022-04-30-2214 (4974cb9)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2022-04-27-0320 (64f6698)
 
 Cataclysm-DDA experimental build 2022-04-27-0206 (fad9622)
 * json/refugee_center: move trader zones to same submap (#57156)
-
-Cataclysm-DDA experimental build 2022-04-26-2336 (1fa5cd4)
 * Optional popup functionality for u_consume_item, including some implementation (#57183)
 * Minor text correction in sinister staff of bleeding (#57169)
 * Fix hydraulic press copy-paste (#57173)
