@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-30-2214 ([4974cb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-2214))
+
+* Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-30-1427 ([e0aadea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-1427))
 
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-04-26-2336 ([1fa5cd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-2336))
 
 * Optional popup functionality for u_consume_item, including some implementation ([#57183](https://github.com/CleverRaven/Cataclysm-DDA/pull/57183))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-26-2127 ([a85a36f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-2127))
-
 * Minor text correction in sinister staff of bleeding ([#57169](https://github.com/CleverRaven/Cataclysm-DDA/pull/57169))
 * Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
 * deployment bag ([#57163](https://github.com/CleverRaven/Cataclysm-DDA/pull/57163))
@@ -215,7 +216,6 @@
 * item: unhardcode shoulder straps ([#57108](https://github.com/CleverRaven/Cataclysm-DDA/pull/57108))
 * Shuttlecock spawns ([#57104](https://github.com/CleverRaven/Cataclysm-DDA/pull/57104))
 * [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
-* elf-a → Elf-A ([#57080](https://github.com/CleverRaven/Cataclysm-DDA/pull/57080))
 * Remove extra T ([#57087](https://github.com/CleverRaven/Cataclysm-DDA/pull/57087))
 * Add missing comma ([#57090](https://github.com/CleverRaven/Cataclysm-DDA/pull/57090))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
