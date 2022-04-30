@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-30-0026 ([c5953ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-0026))
+
 * [Innawoods] Plastic from chitin ([#57236](https://github.com/CleverRaven/Cataclysm-DDA/pull/57236))
 * Unify costumes groups ([#57202](https://github.com/CleverRaven/Cataclysm-DDA/pull/57202))
 
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2022-04-26-1607 ([3003d88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-1607))
 
 * deployment bag ([#57163](https://github.com/CleverRaven/Cataclysm-DDA/pull/57163))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-26-0554 ([3e81ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0554))
-
 * Move explicit pliers/multitool requirements to WRENCH 1 requirement ([#57124](https://github.com/CleverRaven/Cataclysm-DDA/pull/57124))
 * Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
 * Sexy spawn revamp ([#57142](https://github.com/CleverRaven/Cataclysm-DDA/pull/57142))
