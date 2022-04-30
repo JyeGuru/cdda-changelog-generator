@@ -40,11 +40,6 @@
 #### Cataclysm-DDA experimental build 2022-04-29-1636 ([d2cecff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-1636))
 
 * Add early game swords to Niten Ichi-Ryu ([#57252](https://github.com/CleverRaven/Cataclysm-DDA/pull/57252))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-29-1531 ([e874d48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-1531))
-
 * Body Graph UI ([#57222](https://github.com/CleverRaven/Cataclysm-DDA/pull/57222))
 
 ---
@@ -186,6 +181,11 @@
 #### Cataclysm-DDA experimental build 2022-04-26-1607 ([3003d88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-1607))
 
 * deployment bag ([#57163](https://github.com/CleverRaven/Cataclysm-DDA/pull/57163))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-26-0554 ([3e81ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-0554))
+
 * Move explicit pliers/multitool requirements to WRENCH 1 requirement ([#57124](https://github.com/CleverRaven/Cataclysm-DDA/pull/57124))
 * Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
 * Sexy spawn revamp ([#57142](https://github.com/CleverRaven/Cataclysm-DDA/pull/57142))
