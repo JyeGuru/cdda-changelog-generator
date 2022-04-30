@@ -1,3 +1,4 @@
+* Fix auto medicinal tea (#57305)
 
 Cataclysm-DDA experimental build 2022-04-30-0614 (c27c434)
 * Routine i18n updates on 30 April 2022 (#57283)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2022-04-26-1607 (3003d88)
 * Add missing comma (#57090)
 * More Rigid Fixes (#57093)
 * Revert "Create proper rope uncraft recipes (#57068)" (#57095)
-* Conductive aluminum bat (#57079)

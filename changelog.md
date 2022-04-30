@@ -1,3 +1,4 @@
+* Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 
 ---
 
@@ -224,4 +225,3 @@
 * Add missing comma ([#57090](https://github.com/CleverRaven/Cataclysm-DDA/pull/57090))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
-* Conductive aluminum bat ([#57079](https://github.com/CleverRaven/Cataclysm-DDA/pull/57079))
