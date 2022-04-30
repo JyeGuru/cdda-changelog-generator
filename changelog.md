@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-04-30-1427 ([e0aadea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-1427))
+
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2022-04-26-1708 ([4697554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-1708))
 
 * Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-26-1607 ([3003d88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-26-1607))
-
 * deployment bag ([#57163](https://github.com/CleverRaven/Cataclysm-DDA/pull/57163))
 * Move explicit pliers/multitool requirements to WRENCH 1 requirement ([#57124](https://github.com/CleverRaven/Cataclysm-DDA/pull/57124))
 * Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
