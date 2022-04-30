@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-04-30-0614 (c27c434)
+* Routine i18n updates on 30 April 2022 (#57283)
+
 Cataclysm-DDA experimental build 2022-04-30-0026 (c5953ac)
 * [Innawoods] Plastic from chitin (#57236)
 * Unify costumes groups (#57202)
@@ -63,9 +66,6 @@ Cataclysm-DDA experimental build 2022-04-28-0137 (76c4d02)
 
 Cataclysm-DDA experimental build 2022-04-28-0029 (97334d5)
 * Added melee damage modifier to pistol bayonet (#57208)
-
-Cataclysm-DDA experimental build 2022-04-27-2208 (916d778)
-* Fix to radio station maps to allow them to be correctly faced to the street during mapgen (#57078)
 
 Cataclysm-DDA experimental build 2022-04-27-2107 (1e7f271)
 * [Innawoods] Aphid ranching and wild crops (#57203)

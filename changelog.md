@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-04-30-0614 ([c27c434](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-0614))
+
+* Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-30-0026 ([c5953ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-0026))
 
 * [Innawoods] Plastic from chitin ([#57236](https://github.com/CleverRaven/Cataclysm-DDA/pull/57236))
@@ -108,12 +114,6 @@
 #### Cataclysm-DDA experimental build 2022-04-28-0029 ([97334d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0029))
 
 * Added melee damage modifier to pistol bayonet ([#57208](https://github.com/CleverRaven/Cataclysm-DDA/pull/57208))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-27-2208 ([916d778](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-2208))
-
-* Fix to radio station maps to allow them to be correctly faced to the street during mapgen ([#57078](https://github.com/CleverRaven/Cataclysm-DDA/pull/57078))
 
 ---
 
