@@ -1,3 +1,4 @@
+* First Version Of Encumbrance By Sentence ([#57243](https://github.com/CleverRaven/Cataclysm-DDA/pull/57243))
 
 ---
 

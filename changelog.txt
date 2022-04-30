@@ -1,3 +1,4 @@
+* First Version Of Encumbrance By Sentence (#57243)
 
 Cataclysm-DDA experimental build 2022-04-30-2214 (4974cb9)
 * Mask love (#57298)
