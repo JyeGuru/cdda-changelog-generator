@@ -1,3 +1,5 @@
+* Add a space after Customize character keybinding ([#57303](https://github.com/CleverRaven/Cataclysm-DDA/pull/57303))
+* Sleep deprivation affects health ([#57306](https://github.com/CleverRaven/Cataclysm-DDA/pull/57306))
 * port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))
 * auto-balance/autobalance → auto balance ([#57311](https://github.com/CleverRaven/Cataclysm-DDA/pull/57311))
 * Fix text breaking before CJK characters ([#57319](https://github.com/CleverRaven/Cataclysm-DDA/pull/57319))
@@ -110,12 +112,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-29-0115 ([405a7d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-0115))
-
-* Unify keybindings and menus ([#57125](https://github.com/CleverRaven/Cataclysm-DDA/pull/57125))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-28-1848 ([993af16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-1848))
 
 * Bound food health between -1 and 0 ([#57225](https://github.com/CleverRaven/Cataclysm-DDA/pull/57225))
@@ -199,7 +195,6 @@
 * Minor text correction in sinister staff of bleeding ([#57169](https://github.com/CleverRaven/Cataclysm-DDA/pull/57169))
 * Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
 * deployment bag ([#57163](https://github.com/CleverRaven/Cataclysm-DDA/pull/57163))
-* Move explicit pliers/multitool requirements to WRENCH 1 requirement ([#57124](https://github.com/CleverRaven/Cataclysm-DDA/pull/57124))
 * Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
 * Sexy spawn revamp ([#57142](https://github.com/CleverRaven/Cataclysm-DDA/pull/57142))
 * Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
