@@ -1,3 +1,4 @@
+* Remove duplicate chain_link recipe ([#57233](https://github.com/CleverRaven/Cataclysm-DDA/pull/57233))
 * Add a space after Customize character keybinding ([#57303](https://github.com/CleverRaven/Cataclysm-DDA/pull/57303))
 * Sleep deprivation affects health ([#57306](https://github.com/CleverRaven/Cataclysm-DDA/pull/57306))
 * port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))
@@ -208,7 +209,6 @@
 * Clarified drum/double drum for HWP gun ([#57149](https://github.com/CleverRaven/Cataclysm-DDA/pull/57149))
 * Revamp Really Bad Day professions ([#57134](https://github.com/CleverRaven/Cataclysm-DDA/pull/57134))
 * Naked description updates ([#57136](https://github.com/CleverRaven/Cataclysm-DDA/pull/57136))
-* Add two new drum magazines to Hub01 gun ([#57128](https://github.com/CleverRaven/Cataclysm-DDA/pull/57128))
 * Update reward for rescuing Barry Isherwood ([#57131](https://github.com/CleverRaven/Cataclysm-DDA/pull/57131))
 * Change 3 init.cpp items to title case ([#57130](https://github.com/CleverRaven/Cataclysm-DDA/pull/57130))
 * Tileset Update 2022-04-24 ([#57129](https://github.com/CleverRaven/Cataclysm-DDA/pull/57129))
