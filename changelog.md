@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-01-0629 ([4b90b94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-01-0629))
+
+* Obsolete old sourdough recipes ([#57318](https://github.com/CleverRaven/Cataclysm-DDA/pull/57318))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-04-30-2315 ([a26d6be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-2315))
 
 * First Version Of Encumbrance By Sentence ([#57243](https://github.com/CleverRaven/Cataclysm-DDA/pull/57243))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-04-27-0320 ([64f6698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0320))
 
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-27-0206 ([fad9622](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0206))
-
 * json/refugee_center: move trader zones to same submap ([#57156](https://github.com/CleverRaven/Cataclysm-DDA/pull/57156))
 * Optional popup functionality for u_consume_item, including some implementation ([#57183](https://github.com/CleverRaven/Cataclysm-DDA/pull/57183))
 * Minor text correction in sinister staff of bleeding ([#57169](https://github.com/CleverRaven/Cataclysm-DDA/pull/57169))
@@ -204,7 +205,6 @@
 * Update reward for rescuing Barry Isherwood ([#57131](https://github.com/CleverRaven/Cataclysm-DDA/pull/57131))
 * Change 3 init.cpp items to title case ([#57130](https://github.com/CleverRaven/Cataclysm-DDA/pull/57130))
 * Tileset Update 2022-04-24 ([#57129](https://github.com/CleverRaven/Cataclysm-DDA/pull/57129))
-* Heres → Here's ([#57089](https://github.com/CleverRaven/Cataclysm-DDA/pull/57089))
 * Fix tiaras throwing error ([#57117](https://github.com/CleverRaven/Cataclysm-DDA/pull/57117))
 * MP18 → MP 18, MP40 → MP 40 ([#57112](https://github.com/CleverRaven/Cataclysm-DDA/pull/57112))
 * remove unused line in translation ([#57114](https://github.com/CleverRaven/Cataclysm-DDA/pull/57114))
@@ -217,7 +217,6 @@
 * item: unhardcode shoulder straps ([#57108](https://github.com/CleverRaven/Cataclysm-DDA/pull/57108))
 * Shuttlecock spawns ([#57104](https://github.com/CleverRaven/Cataclysm-DDA/pull/57104))
 * [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
-* Remove extra T ([#57087](https://github.com/CleverRaven/Cataclysm-DDA/pull/57087))
 * Add missing comma ([#57090](https://github.com/CleverRaven/Cataclysm-DDA/pull/57090))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
