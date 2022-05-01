@@ -1,3 +1,4 @@
+* Fixing infinite gravel bug/exploit ([#57301](https://github.com/CleverRaven/Cataclysm-DDA/pull/57301))
 
 ---
 
@@ -210,6 +211,5 @@
 * Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
 * Fix typos in faction camp menus ([#57141](https://github.com/CleverRaven/Cataclysm-DDA/pull/57141))
 * Fix mixing NO_PARASITES water with normal water ([#57145](https://github.com/CleverRaven/Cataclysm-DDA/pull/57145))
-* Some keybinding fixes ([#57139](https://github.com/CleverRaven/Cataclysm-DDA/pull/57139))
 * vehicle: fix a collision crash ([#57146](https://github.com/CleverRaven/Cataclysm-DDA/pull/57146))
 * Clarified drum/double drum for HWP gun ([#57149](https://github.com/CleverRaven/Cataclysm-DDA/pull/57149))
