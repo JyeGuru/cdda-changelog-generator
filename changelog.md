@@ -1,3 +1,5 @@
+* Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
+* Update the table of contents in doc/JSON_INFO.md ([#57314](https://github.com/CleverRaven/Cataclysm-DDA/pull/57314))
 * npc: restock shop on npc load instead of map load ([#57294](https://github.com/CleverRaven/Cataclysm-DDA/pull/57294))
 * Remove a fourth-wall breaking line of dialog ([#57279](https://github.com/CleverRaven/Cataclysm-DDA/pull/57279))
 * Add missing full stop to description in Tropiclysm ([#57278](https://github.com/CleverRaven/Cataclysm-DDA/pull/57278))
@@ -211,4 +213,3 @@
 * Some keybinding fixes ([#57139](https://github.com/CleverRaven/Cataclysm-DDA/pull/57139))
 * vehicle: fix a collision crash ([#57146](https://github.com/CleverRaven/Cataclysm-DDA/pull/57146))
 * Clarified drum/double drum for HWP gun ([#57149](https://github.com/CleverRaven/Cataclysm-DDA/pull/57149))
-* Naked description updates ([#57136](https://github.com/CleverRaven/Cataclysm-DDA/pull/57136))
