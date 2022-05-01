@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-01-1936 ([762e351](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-01-1936))
+
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
 * Update the table of contents in doc/JSON_INFO.md ([#57314](https://github.com/CleverRaven/Cataclysm-DDA/pull/57314))
 * npc: restock shop on npc load instead of map load ([#57294](https://github.com/CleverRaven/Cataclysm-DDA/pull/57294))
@@ -191,11 +196,6 @@
 * Quick to-hit fixes for a couple of weapons ([#57181](https://github.com/CleverRaven/Cataclysm-DDA/pull/57181))
 * Hockey stick love ([#57190](https://github.com/CleverRaven/Cataclysm-DDA/pull/57190))
 * Expand the containers auto-labeling ([#57185](https://github.com/CleverRaven/Cataclysm-DDA/pull/57185))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-27-0428 ([3d839aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0428))
-
 * Updated faction camp hide site UI ([#57150](https://github.com/CleverRaven/Cataclysm-DDA/pull/57150))
 * added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
