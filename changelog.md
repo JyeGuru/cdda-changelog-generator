@@ -1,3 +1,8 @@
+* port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))
+* auto-balance/autobalance → auto balance ([#57311](https://github.com/CleverRaven/Cataclysm-DDA/pull/57311))
+* Fix text breaking before CJK characters ([#57319](https://github.com/CleverRaven/Cataclysm-DDA/pull/57319))
+* Clean up portal storm query code ([#57320](https://github.com/CleverRaven/Cataclysm-DDA/pull/57320))
+* Do not save or discard diary text when canceling the saving query ([#57321](https://github.com/CleverRaven/Cataclysm-DDA/pull/57321))
 * Fix curses overmap not drawn after switching from tiles ([#57323](https://github.com/CleverRaven/Cataclysm-DDA/pull/57323))
 * tutorial.json: fix typo ([#57324](https://github.com/CleverRaven/Cataclysm-DDA/pull/57324))
 * Keybindings menu fixes ([#57325](https://github.com/CleverRaven/Cataclysm-DDA/pull/57325))
@@ -78,12 +83,6 @@
 * Restore previous new recipe symbol ([#57265](https://github.com/CleverRaven/Cataclysm-DDA/pull/57265))
 * Appease clang-tidy ([#57267](https://github.com/CleverRaven/Cataclysm-DDA/pull/57267))
 * [DinoMod] mosasaurus looks_like ([#57260](https://github.com/CleverRaven/Cataclysm-DDA/pull/57260))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-29-2028 ([300984c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-2028))
-
-* [DinoMod] more dino npc stuff ([#57122](https://github.com/CleverRaven/Cataclysm-DDA/pull/57122))
 
 ---
 
@@ -218,7 +217,3 @@
 * Update reward for rescuing Barry Isherwood ([#57131](https://github.com/CleverRaven/Cataclysm-DDA/pull/57131))
 * Change 3 init.cpp items to title case ([#57130](https://github.com/CleverRaven/Cataclysm-DDA/pull/57130))
 * Tileset Update 2022-04-24 ([#57129](https://github.com/CleverRaven/Cataclysm-DDA/pull/57129))
-* Fix tiaras throwing error ([#57117](https://github.com/CleverRaven/Cataclysm-DDA/pull/57117))
-* item: fix magazine_default for null ammo ([#57115](https://github.com/CleverRaven/Cataclysm-DDA/pull/57115))
-* [Innawoods] Fibrecloth ([#57116](https://github.com/CleverRaven/Cataclysm-DDA/pull/57116))
-* Fix an inaccuracy in NPCs.md regarding dialogue skill checks ([#57118](https://github.com/CleverRaven/Cataclysm-DDA/pull/57118))
