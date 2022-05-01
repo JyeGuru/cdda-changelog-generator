@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-01-2107 ([c86ae6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-01-2107))
+
 * Fixing infinite gravel bug/exploit ([#57301](https://github.com/CleverRaven/Cataclysm-DDA/pull/57301))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-04-27-0645 ([6eae86c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0645))
 
 * Bags encumbrance update ([#57184](https://github.com/CleverRaven/Cataclysm-DDA/pull/57184))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-27-0545 ([6a76396](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0545))
-
 * Aprons love ([#57197](https://github.com/CleverRaven/Cataclysm-DDA/pull/57197))
 * Update GAME_BALANCE.md with improved weapon to-hit descriptions ([#57180](https://github.com/CleverRaven/Cataclysm-DDA/pull/57180))
 * Quick to-hit fixes for a couple of weapons ([#57181](https://github.com/CleverRaven/Cataclysm-DDA/pull/57181))

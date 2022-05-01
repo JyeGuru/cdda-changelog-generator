@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-01-2107 (c86ae6d)
 * Fixing infinite gravel bug/exploit (#57301)
 
 Cataclysm-DDA experimental build 2022-05-01-1936 (762e351)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2022-04-27-0746 (d6087a2)
 
 Cataclysm-DDA experimental build 2022-04-27-0645 (6eae86c)
 * Bags encumbrance update (#57184)
-
-Cataclysm-DDA experimental build 2022-04-27-0545 (6a76396)
 * Aprons love (#57197)
 * Update GAME_BALANCE.md with improved weapon to-hit descriptions (#57180)
 * Quick to-hit fixes for a couple of weapons (#57181)
