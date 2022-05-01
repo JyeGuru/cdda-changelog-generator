@@ -1,3 +1,11 @@
+* New pipe maces (and pipe fix) ([#57259](https://github.com/CleverRaven/Cataclysm-DDA/pull/57259))
+* Add tool qualities documentation to JSON_INFO.md ([#57329](https://github.com/CleverRaven/Cataclysm-DDA/pull/57329))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-01-1828 ([4f2de87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-01-1828))
+
+* Sheriffshirt fix ([#57310](https://github.com/CleverRaven/Cataclysm-DDA/pull/57310))
 
 ---
 
@@ -174,11 +182,6 @@
 
 * Updated faction camp hide site UI ([#57150](https://github.com/CleverRaven/Cataclysm-DDA/pull/57150))
 * added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-27-0320 ([64f6698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0320))
-
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
 * json/refugee_center: move trader zones to same submap ([#57156](https://github.com/CleverRaven/Cataclysm-DDA/pull/57156))
 * Optional popup functionality for u_consume_item, including some implementation ([#57183](https://github.com/CleverRaven/Cataclysm-DDA/pull/57183))
@@ -216,7 +219,5 @@
 * Unify options screen names ([#57113](https://github.com/CleverRaven/Cataclysm-DDA/pull/57113))
 * item: unhardcode shoulder straps ([#57108](https://github.com/CleverRaven/Cataclysm-DDA/pull/57108))
 * Shuttlecock spawns ([#57104](https://github.com/CleverRaven/Cataclysm-DDA/pull/57104))
-* [DinoMod] DDotD compatibility fix ([#57091](https://github.com/CleverRaven/Cataclysm-DDA/pull/57091))
-* Add missing comma ([#57090](https://github.com/CleverRaven/Cataclysm-DDA/pull/57090))
 * More Rigid Fixes ([#57093](https://github.com/CleverRaven/Cataclysm-DDA/pull/57093))
 * Revert "Create proper rope uncraft recipes (#57068)" ([#57095](https://github.com/CleverRaven/Cataclysm-DDA/pull/57095))
