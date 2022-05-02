@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-02-1804 ([200caf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-1804))
+
+* Trapper packs and grass headwear ([#57276](https://github.com/CleverRaven/Cataclysm-DDA/pull/57276))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-02-0624 ([184e0bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-0624))
 
 * Fix mechs missing their guns ([#57308](https://github.com/CleverRaven/Cataclysm-DDA/pull/57308))
@@ -186,11 +192,6 @@
 * breachers LBV ([#57176](https://github.com/CleverRaven/Cataclysm-DDA/pull/57176))
 * Add keypad enter key when loading old keybinding file ([#57206](https://github.com/CleverRaven/Cataclysm-DDA/pull/57206))
 * Returned range check for shocker's attack ([#57207](https://github.com/CleverRaven/Cataclysm-DDA/pull/57207))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-28-0029 ([97334d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0029))
-
 * Added melee damage modifier to pistol bayonet ([#57208](https://github.com/CleverRaven/Cataclysm-DDA/pull/57208))
 * [Innawoods] Aphid ranching and wild crops ([#57203](https://github.com/CleverRaven/Cataclysm-DDA/pull/57203))
 * Allow applying arbitrary filters to tripoint_range, add points_in_radius_circ ([#57187](https://github.com/CleverRaven/Cataclysm-DDA/pull/57187))
@@ -212,4 +213,3 @@
 * Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
 * Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
 * Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
-* Clarified drum/double drum for HWP gun ([#57149](https://github.com/CleverRaven/Cataclysm-DDA/pull/57149))

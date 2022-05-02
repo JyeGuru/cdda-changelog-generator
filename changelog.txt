@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-02-1804 (200caf5)
+* Trapper packs and grass headwear (#57276)
+
 Cataclysm-DDA experimental build 2022-05-02-0624 (184e0bb)
 * Fix mechs missing their guns (#57308)
 
@@ -117,8 +120,6 @@ Cataclysm-DDA experimental build 2022-04-28-0416 (6d87e1b)
 * breachers LBV (#57176)
 * Add keypad enter key when loading old keybinding file (#57206)
 * Returned range check for shocker's attack (#57207)
-
-Cataclysm-DDA experimental build 2022-04-28-0029 (97334d5)
 * Added melee damage modifier to pistol bayonet (#57208)
 * [Innawoods] Aphid ranching and wild crops (#57203)
 * Allow applying arbitrary filters to tripoint_range, add points_in_radius_circ (#57187)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2022-04-28-0029 (97334d5)
 * Ensure it is always possible to clean the refugee center back bay (#57159)
 * Correct plural for sinister minor staff of bleeding (#57157)
 * Fix scrolling of dialog responses and standardize the scrollbar (#57153)
-* Clarified drum/double drum for HWP gun (#57149)
