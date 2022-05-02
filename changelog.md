@@ -1,3 +1,10 @@
+* take down solar panels ([#57357](https://github.com/CleverRaven/Cataclysm-DDA/pull/57357))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-02-2115 ([dd1c695](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-2115))
+
+* Dear sweet David, it is time to go home. ([#57291](https://github.com/CleverRaven/Cataclysm-DDA/pull/57291))
 
 ---
 
@@ -202,7 +209,6 @@
 * Quick to-hit fixes for a couple of weapons ([#57181](https://github.com/CleverRaven/Cataclysm-DDA/pull/57181))
 * Hockey stick love ([#57190](https://github.com/CleverRaven/Cataclysm-DDA/pull/57190))
 * Expand the containers auto-labeling ([#57185](https://github.com/CleverRaven/Cataclysm-DDA/pull/57185))
-* Updated faction camp hide site UI ([#57150](https://github.com/CleverRaven/Cataclysm-DDA/pull/57150))
 * added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
 * json/refugee_center: move trader zones to same submap ([#57156](https://github.com/CleverRaven/Cataclysm-DDA/pull/57156))

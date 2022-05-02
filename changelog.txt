@@ -1,3 +1,7 @@
+* take down solar panels (#57357)
+
+Cataclysm-DDA experimental build 2022-05-02-2115 (dd1c695)
+* Dear sweet David, it is time to go home. (#57291)
 
 Cataclysm-DDA experimental build 2022-05-02-1804 (200caf5)
 * Trapper packs and grass headwear (#57276)
@@ -130,7 +134,6 @@ Cataclysm-DDA experimental build 2022-04-28-0416 (6d87e1b)
 * Quick to-hit fixes for a couple of weapons (#57181)
 * Hockey stick love (#57190)
 * Expand the containers auto-labeling (#57185)
-* Updated faction camp hide site UI (#57150)
 * added the deployment bag to molle pouches that are available (#57194)
 * Rest of the consumes that need a popup (#57195)
 * json/refugee_center: move trader zones to same submap (#57156)
