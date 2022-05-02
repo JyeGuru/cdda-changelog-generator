@@ -1,3 +1,11 @@
+* Consistently capitalize Kevlar ([#57340](https://github.com/CleverRaven/Cataclysm-DDA/pull/57340))
+* TropiCata: Some more Tropical Fishes ([#57286](https://github.com/CleverRaven/Cataclysm-DDA/pull/57286))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-02-0314 ([3e8f435](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-0314))
+
+* Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
 
 ---
 
@@ -186,11 +194,6 @@
 
 * Allow applying arbitrary filters to tripoint_range, add points_in_radius_circ ([#57187](https://github.com/CleverRaven/Cataclysm-DDA/pull/57187))
 * Replace chain link recipe line mistakenly deleted by PR #57124, previously merged ([#57200](https://github.com/CleverRaven/Cataclysm-DDA/pull/57200))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-27-0645 ([6eae86c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-0645))
-
 * Bags encumbrance update ([#57184](https://github.com/CleverRaven/Cataclysm-DDA/pull/57184))
 * Aprons love ([#57197](https://github.com/CleverRaven/Cataclysm-DDA/pull/57197))
 * Update GAME_BALANCE.md with improved weapon to-hit descriptions ([#57180](https://github.com/CleverRaven/Cataclysm-DDA/pull/57180))
@@ -206,10 +209,7 @@
 * Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
 * deployment bag ([#57163](https://github.com/CleverRaven/Cataclysm-DDA/pull/57163))
 * Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
-* Sexy spawn revamp ([#57142](https://github.com/CleverRaven/Cataclysm-DDA/pull/57142))
 * Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
 * Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
-* Fix typos in faction camp menus ([#57141](https://github.com/CleverRaven/Cataclysm-DDA/pull/57141))
-* Fix mixing NO_PARASITES water with normal water ([#57145](https://github.com/CleverRaven/Cataclysm-DDA/pull/57145))
 * vehicle: fix a collision crash ([#57146](https://github.com/CleverRaven/Cataclysm-DDA/pull/57146))
 * Clarified drum/double drum for HWP gun ([#57149](https://github.com/CleverRaven/Cataclysm-DDA/pull/57149))
