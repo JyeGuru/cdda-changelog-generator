@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-02-2216 ([79c79b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-2216))
+
 * take down solar panels ([#57357](https://github.com/CleverRaven/Cataclysm-DDA/pull/57357))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-04-28-0536 ([9305a5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0536))
 
 * Zombie child drops update ([#57212](https://github.com/CleverRaven/Cataclysm-DDA/pull/57212))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-28-0416 ([6d87e1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0416))
-
 * inv_ui: fix entry copy to/from hierarchical mode ([#57210](https://github.com/CleverRaven/Cataclysm-DDA/pull/57210))
 * Trade autobalance ([#57168](https://github.com/CleverRaven/Cataclysm-DDA/pull/57168))
 * Scan basecamp ([#57170](https://github.com/CleverRaven/Cataclysm-DDA/pull/57170))
