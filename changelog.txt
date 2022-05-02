@@ -1,3 +1,4 @@
+* Minor Comment Spelling Fix (#57219)
 
 Cataclysm-DDA experimental build 2022-05-02-2216 (79c79b2)
 * take down solar panels (#57357)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2022-04-28-0536 (9305a5f)
 * deployment bag (#57163)
 * Ensure it is always possible to clean the refugee center back bay (#57159)
 * Correct plural for sinister minor staff of bleeding (#57157)
-* Fix scrolling of dialog responses and standardize the scrollbar (#57153)

@@ -1,3 +1,4 @@
+* Minor Comment Spelling Fix ([#57219](https://github.com/CleverRaven/Cataclysm-DDA/pull/57219))
 
 ---
 
@@ -218,4 +219,3 @@
 * deployment bag ([#57163](https://github.com/CleverRaven/Cataclysm-DDA/pull/57163))
 * Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
 * Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
-* Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
