@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-02-2346 ([89c4bb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-2346))
+
 * Minor Comment Spelling Fix ([#57219](https://github.com/CleverRaven/Cataclysm-DDA/pull/57219))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-04-28-1742 ([42c118b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-1742))
 
 * Kitchen knives and cleavers damage buff ([#57204](https://github.com/CleverRaven/Cataclysm-DDA/pull/57204))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-28-0536 ([9305a5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0536))
-
 * Zombie child drops update ([#57212](https://github.com/CleverRaven/Cataclysm-DDA/pull/57212))
 * inv_ui: fix entry copy to/from hierarchical mode ([#57210](https://github.com/CleverRaven/Cataclysm-DDA/pull/57210))
 * Trade autobalance ([#57168](https://github.com/CleverRaven/Cataclysm-DDA/pull/57168))
