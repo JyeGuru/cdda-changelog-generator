@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-02-0624 (184e0bb)
 * Fix mechs missing their guns (#57308)
 
 Cataclysm-DDA experimental build 2022-05-02-0523 (0cd272a)
