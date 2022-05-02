@@ -1,3 +1,10 @@
+* Fix mechs missing their guns ([#57308](https://github.com/CleverRaven/Cataclysm-DDA/pull/57308))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-02-0523 ([0cd272a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-0523))
+
+* Make portal storm voices only hearable by player ([#57348](https://github.com/CleverRaven/Cataclysm-DDA/pull/57348))
 
 ---
 
@@ -166,12 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-04-28-0416 ([6d87e1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0416))
 
 * inv_ui: fix entry copy to/from hierarchical mode ([#57210](https://github.com/CleverRaven/Cataclysm-DDA/pull/57210))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-28-0137 ([76c4d02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0137))
-
-* Nailboard, 2-by-sword, nord, crude sword adjustments + fixes ([#57147](https://github.com/CleverRaven/Cataclysm-DDA/pull/57147))
 * Trade autobalance ([#57168](https://github.com/CleverRaven/Cataclysm-DDA/pull/57168))
 * Scan basecamp ([#57170](https://github.com/CleverRaven/Cataclysm-DDA/pull/57170))
 * Add looks_like to standing lamp in appliance and item form. ([#57172](https://github.com/CleverRaven/Cataclysm-DDA/pull/57172))
@@ -186,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-04-28-0029 ([97334d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-0029))
 
 * Added melee damage modifier to pistol bayonet ([#57208](https://github.com/CleverRaven/Cataclysm-DDA/pull/57208))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-27-2107 ([1e7f271](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-27-2107))
-
 * [Innawoods] Aphid ranching and wild crops ([#57203](https://github.com/CleverRaven/Cataclysm-DDA/pull/57203))
 * Allow applying arbitrary filters to tripoint_range, add points_in_radius_circ ([#57187](https://github.com/CleverRaven/Cataclysm-DDA/pull/57187))
 * Replace chain link recipe line mistakenly deleted by PR #57124, previously merged ([#57200](https://github.com/CleverRaven/Cataclysm-DDA/pull/57200))
@@ -211,5 +207,4 @@
 * Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
 * Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
 * Fix scrolling of dialog responses and standardize the scrollbar ([#57153](https://github.com/CleverRaven/Cataclysm-DDA/pull/57153))
-* vehicle: fix a collision crash ([#57146](https://github.com/CleverRaven/Cataclysm-DDA/pull/57146))
 * Clarified drum/double drum for HWP gun ([#57149](https://github.com/CleverRaven/Cataclysm-DDA/pull/57149))
