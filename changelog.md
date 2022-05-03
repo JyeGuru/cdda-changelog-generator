@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-03-0539 ([57d911c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-0539))
+
+* Leather Pouch related balance changes ([#57380](https://github.com/CleverRaven/Cataclysm-DDA/pull/57380))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-03-0230 ([4719188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-0230))
 
 * Variable Visual View When Aiming Down Sight ([#57365](https://github.com/CleverRaven/Cataclysm-DDA/pull/57365))
@@ -199,7 +205,6 @@
 * Kitchen knives and cleavers damage buff ([#57204](https://github.com/CleverRaven/Cataclysm-DDA/pull/57204))
 * Zombie child drops update ([#57212](https://github.com/CleverRaven/Cataclysm-DDA/pull/57212))
 * inv_ui: fix entry copy to/from hierarchical mode ([#57210](https://github.com/CleverRaven/Cataclysm-DDA/pull/57210))
-* Scan basecamp ([#57170](https://github.com/CleverRaven/Cataclysm-DDA/pull/57170))
 * Add looks_like to standing lamp in appliance and item form. ([#57172](https://github.com/CleverRaven/Cataclysm-DDA/pull/57172))
 * Fix insertion error when looting valid ammo ([#57192](https://github.com/CleverRaven/Cataclysm-DDA/pull/57192))
 * Only load cataclysm-dda.mo from system locale directory ([#57213](https://github.com/CleverRaven/Cataclysm-DDA/pull/57213))

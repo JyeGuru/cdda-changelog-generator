@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-03-0539 (57d911c)
+* Leather Pouch related balance changes (#57380)
+
 Cataclysm-DDA experimental build 2022-05-03-0230 (4719188)
 * Variable Visual View When Aiming Down Sight (#57365)
 
@@ -124,7 +127,6 @@ Cataclysm-DDA experimental build 2022-04-29-0525 (8c4fc2a)
 * Kitchen knives and cleavers damage buff (#57204)
 * Zombie child drops update (#57212)
 * inv_ui: fix entry copy to/from hierarchical mode (#57210)
-* Scan basecamp (#57170)
 * Add looks_like to standing lamp in appliance and item form. (#57172)
 * Fix insertion error when looting valid ammo (#57192)
 * Only load cataclysm-dda.mo from system locale directory (#57213)
