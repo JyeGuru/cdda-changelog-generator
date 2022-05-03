@@ -1,3 +1,10 @@
+* Integrated Armor Rigidity Fixes ([#57371](https://github.com/CleverRaven/Cataclysm-DDA/pull/57371))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-03-2157 ([0305019](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-2157))
+
+* [DinoMod] dino mass grave and snippets ([#57281](https://github.com/CleverRaven/Cataclysm-DDA/pull/57281))
 
 ---
 
@@ -213,7 +220,6 @@
 * inv_ui: fix entry copy to/from hierarchical mode ([#57210](https://github.com/CleverRaven/Cataclysm-DDA/pull/57210))
 * Fix insertion error when looting valid ammo ([#57192](https://github.com/CleverRaven/Cataclysm-DDA/pull/57192))
 * Only load cataclysm-dda.mo from system locale directory ([#57213](https://github.com/CleverRaven/Cataclysm-DDA/pull/57213))
-* breachers LBV ([#57176](https://github.com/CleverRaven/Cataclysm-DDA/pull/57176))
 * Add keypad enter key when loading old keybinding file ([#57206](https://github.com/CleverRaven/Cataclysm-DDA/pull/57206))
 * Returned range check for shocker's attack ([#57207](https://github.com/CleverRaven/Cataclysm-DDA/pull/57207))
 * Added melee damage modifier to pistol bayonet ([#57208](https://github.com/CleverRaven/Cataclysm-DDA/pull/57208))
@@ -229,4 +235,3 @@
 * added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
 * Optional popup functionality for u_consume_item, including some implementation ([#57183](https://github.com/CleverRaven/Cataclysm-DDA/pull/57183))
-* Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
