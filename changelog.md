@@ -1,3 +1,7 @@
+* Torso warmth update ([#57375](https://github.com/CleverRaven/Cataclysm-DDA/pull/57375))
+* Added morale gain for lighting a fire in charcoal kiln and smoker for pyromaniacs ([#57388](https://github.com/CleverRaven/Cataclysm-DDA/pull/57388))
+* Doble -> Double ([#57390](https://github.com/CleverRaven/Cataclysm-DDA/pull/57390))
+* remove unused variables and functions, surprised clang didn't catch ([#57377](https://github.com/CleverRaven/Cataclysm-DDA/pull/57377))
 * Integrated Armor Rigidity Fixes ([#57371](https://github.com/CleverRaven/Cataclysm-DDA/pull/57371))
 
 ---
@@ -226,12 +230,8 @@
 * [Innawoods] Aphid ranching and wild crops ([#57203](https://github.com/CleverRaven/Cataclysm-DDA/pull/57203))
 * Allow applying arbitrary filters to tripoint_range, add points_in_radius_circ ([#57187](https://github.com/CleverRaven/Cataclysm-DDA/pull/57187))
 * Replace chain link recipe line mistakenly deleted by PR #57124, previously merged ([#57200](https://github.com/CleverRaven/Cataclysm-DDA/pull/57200))
-* Bags encumbrance update ([#57184](https://github.com/CleverRaven/Cataclysm-DDA/pull/57184))
 * Aprons love ([#57197](https://github.com/CleverRaven/Cataclysm-DDA/pull/57197))
-* Update GAME_BALANCE.md with improved weapon to-hit descriptions ([#57180](https://github.com/CleverRaven/Cataclysm-DDA/pull/57180))
-* Quick to-hit fixes for a couple of weapons ([#57181](https://github.com/CleverRaven/Cataclysm-DDA/pull/57181))
 * Hockey stick love ([#57190](https://github.com/CleverRaven/Cataclysm-DDA/pull/57190))
 * Expand the containers auto-labeling ([#57185](https://github.com/CleverRaven/Cataclysm-DDA/pull/57185))
 * added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
-* Optional popup functionality for u_consume_item, including some implementation ([#57183](https://github.com/CleverRaven/Cataclysm-DDA/pull/57183))
