@@ -1,3 +1,7 @@
+* activity/construction: fix ACT_MULTIPLE_CONSTRUCTION ([#57327](https://github.com/CleverRaven/Cataclysm-DDA/pull/57327))
+* Tacoma - Bartender improvements ([#57338](https://github.com/CleverRaven/Cataclysm-DDA/pull/57338))
+* Beekeeping hood breathability override ([#57368](https://github.com/CleverRaven/Cataclysm-DDA/pull/57368))
+* Make foot locker recharge station appliance movable ([#57372](https://github.com/CleverRaven/Cataclysm-DDA/pull/57372))
 * Torso warmth update ([#57375](https://github.com/CleverRaven/Cataclysm-DDA/pull/57375))
 * Added morale gain for lighting a fire in charcoal kiln and smoker for pyromaniacs ([#57388](https://github.com/CleverRaven/Cataclysm-DDA/pull/57388))
 * Doble -> Double ([#57390](https://github.com/CleverRaven/Cataclysm-DDA/pull/57390))
@@ -177,7 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-04-29-2319 ([f10076a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-2319))
 
 * Update torso_armor.json warmth values ([#57215](https://github.com/CleverRaven/Cataclysm-DDA/pull/57215))
-* ft.: allow more users to confirm bug reports ([#57191](https://github.com/CleverRaven/Cataclysm-DDA/pull/57191))
 
 ---
 
@@ -228,10 +231,7 @@
 * Returned range check for shocker's attack ([#57207](https://github.com/CleverRaven/Cataclysm-DDA/pull/57207))
 * Added melee damage modifier to pistol bayonet ([#57208](https://github.com/CleverRaven/Cataclysm-DDA/pull/57208))
 * [Innawoods] Aphid ranching and wild crops ([#57203](https://github.com/CleverRaven/Cataclysm-DDA/pull/57203))
-* Allow applying arbitrary filters to tripoint_range, add points_in_radius_circ ([#57187](https://github.com/CleverRaven/Cataclysm-DDA/pull/57187))
 * Replace chain link recipe line mistakenly deleted by PR #57124, previously merged ([#57200](https://github.com/CleverRaven/Cataclysm-DDA/pull/57200))
 * Aprons love ([#57197](https://github.com/CleverRaven/Cataclysm-DDA/pull/57197))
-* Hockey stick love ([#57190](https://github.com/CleverRaven/Cataclysm-DDA/pull/57190))
-* Expand the containers auto-labeling ([#57185](https://github.com/CleverRaven/Cataclysm-DDA/pull/57185))
 * added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
