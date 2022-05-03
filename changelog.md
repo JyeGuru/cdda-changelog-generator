@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-03-0230 ([4719188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-0230))
+
+* Variable Visual View When Aiming Down Sight ([#57365](https://github.com/CleverRaven/Cataclysm-DDA/pull/57365))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-03-0054 ([5fd4bfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-0054))
+
 * Some UI fixes ([#57361](https://github.com/CleverRaven/Cataclysm-DDA/pull/57361))
 * Firing flamethrower and other fire-producing weapons will trigger morale gain for pyromaniacs ([#57354](https://github.com/CleverRaven/Cataclysm-DDA/pull/57354))
 * Spawn mortar and pestle in kitchens ([#57362](https://github.com/CleverRaven/Cataclysm-DDA/pull/57362))
@@ -184,17 +195,7 @@
 #### Cataclysm-DDA experimental build 2022-04-29-0525 ([8c4fc2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-0525))
 
 * TropiCata: More Tropical Fishes ([#57242](https://github.com/CleverRaven/Cataclysm-DDA/pull/57242))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-28-1848 ([993af16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-1848))
-
 * Bound food health between -1 and 0 ([#57225](https://github.com/CleverRaven/Cataclysm-DDA/pull/57225))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-28-1742 ([42c118b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-28-1742))
-
 * Kitchen knives and cleavers damage buff ([#57204](https://github.com/CleverRaven/Cataclysm-DDA/pull/57204))
 * Zombie child drops update ([#57212](https://github.com/CleverRaven/Cataclysm-DDA/pull/57212))
 * inv_ui: fix entry copy to/from hierarchical mode ([#57210](https://github.com/CleverRaven/Cataclysm-DDA/pull/57210))
@@ -218,5 +219,4 @@
 * added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
 * Optional popup functionality for u_consume_item, including some implementation ([#57183](https://github.com/CleverRaven/Cataclysm-DDA/pull/57183))
-* Minor text correction in sinister staff of bleeding ([#57169](https://github.com/CleverRaven/Cataclysm-DDA/pull/57169))
 * Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
