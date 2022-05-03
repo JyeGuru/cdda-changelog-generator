@@ -1,3 +1,6 @@
+* Lycra bodysuits (Cosplay) (#57383)
+
+Cataclysm-DDA experimental build 2022-05-03-2319 (8acdd5f)
 * Add accent to piraíba and tucunaré (#57299)
 * activity/construction: fix ACT_MULTIPLE_CONSTRUCTION (#57327)
 * Tacoma - Bartender improvements (#57338)
@@ -135,8 +138,6 @@ Cataclysm-DDA experimental build 2022-04-29-1531 (e874d48)
 
 Cataclysm-DDA experimental build 2022-04-29-1231 (2811e3c)
 * Pom poms plural fix (#57253)
-
-Cataclysm-DDA experimental build 2022-04-29-0525 (8c4fc2a)
 * TropiCata: More Tropical Fishes (#57242)
 * Bound food health between -1 and 0 (#57225)
 * Kitchen knives and cleavers damage buff (#57204)
@@ -149,5 +150,4 @@ Cataclysm-DDA experimental build 2022-04-29-0525 (8c4fc2a)
 * [Innawoods] Aphid ranching and wild crops (#57203)
 * Replace chain link recipe line mistakenly deleted by PR #57124, previously merged (#57200)
 * Aprons love (#57197)
-* added the deployment bag to molle pouches that are available (#57194)
 * Rest of the consumes that need a popup (#57195)

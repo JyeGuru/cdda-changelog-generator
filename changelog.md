@@ -1,3 +1,9 @@
+* Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-03-2319 ([8acdd5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-2319))
+
 * Add accent to piraíba and tucunaré ([#57299](https://github.com/CleverRaven/Cataclysm-DDA/pull/57299))
 * activity/construction: fix ACT_MULTIPLE_CONSTRUCTION ([#57327](https://github.com/CleverRaven/Cataclysm-DDA/pull/57327))
 * Tacoma - Bartender improvements ([#57338](https://github.com/CleverRaven/Cataclysm-DDA/pull/57338))
@@ -216,11 +222,6 @@
 #### Cataclysm-DDA experimental build 2022-04-29-1231 ([2811e3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-1231))
 
 * Pom poms plural fix ([#57253](https://github.com/CleverRaven/Cataclysm-DDA/pull/57253))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-29-0525 ([8c4fc2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-0525))
-
 * TropiCata: More Tropical Fishes ([#57242](https://github.com/CleverRaven/Cataclysm-DDA/pull/57242))
 * Bound food health between -1 and 0 ([#57225](https://github.com/CleverRaven/Cataclysm-DDA/pull/57225))
 * Kitchen knives and cleavers damage buff ([#57204](https://github.com/CleverRaven/Cataclysm-DDA/pull/57204))
@@ -233,5 +234,4 @@
 * [Innawoods] Aphid ranching and wild crops ([#57203](https://github.com/CleverRaven/Cataclysm-DDA/pull/57203))
 * Replace chain link recipe line mistakenly deleted by PR #57124, previously merged ([#57200](https://github.com/CleverRaven/Cataclysm-DDA/pull/57200))
 * Aprons love ([#57197](https://github.com/CleverRaven/Cataclysm-DDA/pull/57197))
-* added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
