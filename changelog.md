@@ -1,3 +1,9 @@
+* Some UI fixes ([#57361](https://github.com/CleverRaven/Cataclysm-DDA/pull/57361))
+* Firing flamethrower and other fire-producing weapons will trigger morale gain for pyromaniacs ([#57354](https://github.com/CleverRaven/Cataclysm-DDA/pull/57354))
+* Spawn mortar and pestle in kitchens ([#57362](https://github.com/CleverRaven/Cataclysm-DDA/pull/57362))
+* More labels to the label god! ([#57313](https://github.com/CleverRaven/Cataclysm-DDA/pull/57313))
+* Chef expansion ([#57350](https://github.com/CleverRaven/Cataclysm-DDA/pull/57350))
+* Swimmer ferals ([#57359](https://github.com/CleverRaven/Cataclysm-DDA/pull/57359))
 
 ---
 
@@ -192,7 +198,6 @@
 * Kitchen knives and cleavers damage buff ([#57204](https://github.com/CleverRaven/Cataclysm-DDA/pull/57204))
 * Zombie child drops update ([#57212](https://github.com/CleverRaven/Cataclysm-DDA/pull/57212))
 * inv_ui: fix entry copy to/from hierarchical mode ([#57210](https://github.com/CleverRaven/Cataclysm-DDA/pull/57210))
-* Trade autobalance ([#57168](https://github.com/CleverRaven/Cataclysm-DDA/pull/57168))
 * Scan basecamp ([#57170](https://github.com/CleverRaven/Cataclysm-DDA/pull/57170))
 * Add looks_like to standing lamp in appliance and item form. ([#57172](https://github.com/CleverRaven/Cataclysm-DDA/pull/57172))
 * Fix insertion error when looting valid ammo ([#57192](https://github.com/CleverRaven/Cataclysm-DDA/pull/57192))
@@ -212,10 +217,6 @@
 * Expand the containers auto-labeling ([#57185](https://github.com/CleverRaven/Cataclysm-DDA/pull/57185))
 * added the deployment bag to molle pouches that are available ([#57194](https://github.com/CleverRaven/Cataclysm-DDA/pull/57194))
 * Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
-* json/refugee_center: move trader zones to same submap ([#57156](https://github.com/CleverRaven/Cataclysm-DDA/pull/57156))
 * Optional popup functionality for u_consume_item, including some implementation ([#57183](https://github.com/CleverRaven/Cataclysm-DDA/pull/57183))
 * Minor text correction in sinister staff of bleeding ([#57169](https://github.com/CleverRaven/Cataclysm-DDA/pull/57169))
 * Fix hydraulic press copy-paste ([#57173](https://github.com/CleverRaven/Cataclysm-DDA/pull/57173))
-* deployment bag ([#57163](https://github.com/CleverRaven/Cataclysm-DDA/pull/57163))
-* Ensure it is always possible to clean the refugee center back bay ([#57159](https://github.com/CleverRaven/Cataclysm-DDA/pull/57159))
-* Correct plural for sinister minor staff of bleeding ([#57157](https://github.com/CleverRaven/Cataclysm-DDA/pull/57157))
