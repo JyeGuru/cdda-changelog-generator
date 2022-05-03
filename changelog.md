@@ -1,3 +1,4 @@
+* Add accent to piraíba and tucunaré ([#57299](https://github.com/CleverRaven/Cataclysm-DDA/pull/57299))
 * activity/construction: fix ACT_MULTIPLE_CONSTRUCTION ([#57327](https://github.com/CleverRaven/Cataclysm-DDA/pull/57327))
 * Tacoma - Bartender improvements ([#57338](https://github.com/CleverRaven/Cataclysm-DDA/pull/57338))
 * Beekeeping hood breathability override ([#57368](https://github.com/CleverRaven/Cataclysm-DDA/pull/57368))
@@ -225,7 +226,6 @@
 * Kitchen knives and cleavers damage buff ([#57204](https://github.com/CleverRaven/Cataclysm-DDA/pull/57204))
 * Zombie child drops update ([#57212](https://github.com/CleverRaven/Cataclysm-DDA/pull/57212))
 * inv_ui: fix entry copy to/from hierarchical mode ([#57210](https://github.com/CleverRaven/Cataclysm-DDA/pull/57210))
-* Fix insertion error when looting valid ammo ([#57192](https://github.com/CleverRaven/Cataclysm-DDA/pull/57192))
 * Only load cataclysm-dda.mo from system locale directory ([#57213](https://github.com/CleverRaven/Cataclysm-DDA/pull/57213))
 * Add keypad enter key when loading old keybinding file ([#57206](https://github.com/CleverRaven/Cataclysm-DDA/pull/57206))
 * Returned range check for shocker's attack ([#57207](https://github.com/CleverRaven/Cataclysm-DDA/pull/57207))
