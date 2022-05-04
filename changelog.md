@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-04-2351 ([1293340](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-2351))
+
 * Added positive morale gain for firing incendiary ammo for pyromaniacs ([#57408](https://github.com/CleverRaven/Cataclysm-DDA/pull/57408))
 * activity/constr: check if route is not empty first ([#57402](https://github.com/CleverRaven/Cataclysm-DDA/pull/57402))
 * Crowbar now respects json ammo overrides ([#57398](https://github.com/CleverRaven/Cataclysm-DDA/pull/57398))
@@ -205,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2022-05-01-0629 ([4b90b94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-01-0629))
 
 * Obsolete old sourdough recipes ([#57318](https://github.com/CleverRaven/Cataclysm-DDA/pull/57318))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-30-2214 ([4974cb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-2214))
-
 * Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 * Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
