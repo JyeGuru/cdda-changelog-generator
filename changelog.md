@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-04-1526 ([f97c81e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1526))
+
 * Wood axe and hatchet adjustments ([#57370](https://github.com/CleverRaven/Cataclysm-DDA/pull/57370))
 * Give longsword some techniques ([#57395](https://github.com/CleverRaven/Cataclysm-DDA/pull/57395))
 
@@ -212,11 +217,6 @@
 #### Cataclysm-DDA experimental build 2022-04-30-0026 ([c5953ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-0026))
 
 * [Innawoods] Plastic from chitin ([#57236](https://github.com/CleverRaven/Cataclysm-DDA/pull/57236))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-29-2319 ([f10076a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-2319))
-
 * Update torso_armor.json warmth values ([#57215](https://github.com/CleverRaven/Cataclysm-DDA/pull/57215))
 * [MMA] Weapon Categories: Tiger Claw + update great axes category ([#57214](https://github.com/CleverRaven/Cataclysm-DDA/pull/57214))
 * Don't spawn non-gaseous fields on open air ([#57224](https://github.com/CleverRaven/Cataclysm-DDA/pull/57224))
