@@ -1,3 +1,10 @@
+* Use finer ranges for determining CJK characters ([#57366](https://github.com/CleverRaven/Cataclysm-DDA/pull/57366))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-04-0252 ([3721d13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-0252))
+
+* Football Stadium ([#57373](https://github.com/CleverRaven/Cataclysm-DDA/pull/57373))
 
 ---
 
@@ -215,11 +222,6 @@
 #### Cataclysm-DDA experimental build 2022-04-29-1636 ([d2cecff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-1636))
 
 * Add early game swords to Niten Ichi-Ryu ([#57252](https://github.com/CleverRaven/Cataclysm-DDA/pull/57252))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-29-1531 ([e874d48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-1531))
-
 * Body Graph UI ([#57222](https://github.com/CleverRaven/Cataclysm-DDA/pull/57222))
 * Pom poms plural fix ([#57253](https://github.com/CleverRaven/Cataclysm-DDA/pull/57253))
 * TropiCata: More Tropical Fishes ([#57242](https://github.com/CleverRaven/Cataclysm-DDA/pull/57242))
@@ -233,5 +235,3 @@
 * Added melee damage modifier to pistol bayonet ([#57208](https://github.com/CleverRaven/Cataclysm-DDA/pull/57208))
 * [Innawoods] Aphid ranching and wild crops ([#57203](https://github.com/CleverRaven/Cataclysm-DDA/pull/57203))
 * Replace chain link recipe line mistakenly deleted by PR #57124, previously merged ([#57200](https://github.com/CleverRaven/Cataclysm-DDA/pull/57200))
-* Aprons love ([#57197](https://github.com/CleverRaven/Cataclysm-DDA/pull/57197))
-* Rest of the consumes that need a popup ([#57195](https://github.com/CleverRaven/Cataclysm-DDA/pull/57195))
