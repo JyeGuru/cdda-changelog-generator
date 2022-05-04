@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-04-1109 ([e2cf698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1109))
+
+* Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-04-0359 ([eb07c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-0359))
 
 * Use finer ranges for determining CJK characters ([#57366](https://github.com/CleverRaven/Cataclysm-DDA/pull/57366))
@@ -198,7 +204,6 @@
 #### Cataclysm-DDA experimental build 2022-04-30-0026 ([c5953ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-0026))
 
 * [Innawoods] Plastic from chitin ([#57236](https://github.com/CleverRaven/Cataclysm-DDA/pull/57236))
-* Unify costumes groups ([#57202](https://github.com/CleverRaven/Cataclysm-DDA/pull/57202))
 
 ---
 
