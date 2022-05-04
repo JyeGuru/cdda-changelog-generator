@@ -1,3 +1,5 @@
+* [DinoMod] skeletal hulks theropods ([#57342](https://github.com/CleverRaven/Cataclysm-DDA/pull/57342))
+* Changes mead recipe, adds new ones ([#57339](https://github.com/CleverRaven/Cataclysm-DDA/pull/57339))
 * Mollusk based food updates ([#57326](https://github.com/CleverRaven/Cataclysm-DDA/pull/57326))
 * Allow interrupt while applying first aid ([#57317](https://github.com/CleverRaven/Cataclysm-DDA/pull/57317))
 * Add plural to some missing TropiCataclysm monsters ([#57302](https://github.com/CleverRaven/Cataclysm-DDA/pull/57302))
@@ -173,7 +175,6 @@
 * Add missing space for one innawood description ([#57277](https://github.com/CleverRaven/Cataclysm-DDA/pull/57277))
 * Conditionally prompt for follower control on death ([#57269](https://github.com/CleverRaven/Cataclysm-DDA/pull/57269))
 * Allow customization of text input UI hotkeys ([#57266](https://github.com/CleverRaven/Cataclysm-DDA/pull/57266))
-* Remove duplicate chain_link recipe ([#57233](https://github.com/CleverRaven/Cataclysm-DDA/pull/57233))
 * Add a space after Customize character keybinding ([#57303](https://github.com/CleverRaven/Cataclysm-DDA/pull/57303))
 * Sleep deprivation affects health ([#57306](https://github.com/CleverRaven/Cataclysm-DDA/pull/57306))
 * port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))
