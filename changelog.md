@@ -1,3 +1,6 @@
+* Added positive morale gain for firing incendiary ammo for pyromaniacs ([#57408](https://github.com/CleverRaven/Cataclysm-DDA/pull/57408))
+* activity/constr: check if route is not empty first ([#57402](https://github.com/CleverRaven/Cataclysm-DDA/pull/57402))
+* Crowbar now respects json ammo overrides ([#57398](https://github.com/CleverRaven/Cataclysm-DDA/pull/57398))
 * Fix unicode world names rejected by world generation ([#57382](https://github.com/CleverRaven/Cataclysm-DDA/pull/57382))
 * [DinoMod] skeletal hulks theropods ([#57342](https://github.com/CleverRaven/Cataclysm-DDA/pull/57342))
 * Changes mead recipe, adds new ones ([#57339](https://github.com/CleverRaven/Cataclysm-DDA/pull/57339))
@@ -20,7 +23,6 @@
 * Add batch time savings to quern and food processor oatmeal recipes ([#57249](https://github.com/CleverRaven/Cataclysm-DDA/pull/57249))
 * TropiCata: some description improvements ([#57247](https://github.com/CleverRaven/Cataclysm-DDA/pull/57247))
 * Try telefragging again ([#57244](https://github.com/CleverRaven/Cataclysm-DDA/pull/57244))
-* Power Tools do tool things ([#57239](https://github.com/CleverRaven/Cataclysm-DDA/pull/57239))
 
 ---
 
@@ -217,7 +219,6 @@
 * Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 * Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
-* [Innawoods] Plastic from chitin ([#57236](https://github.com/CleverRaven/Cataclysm-DDA/pull/57236))
 * item: apply faction ownership to contents too ([#57248](https://github.com/CleverRaven/Cataclysm-DDA/pull/57248))
 * game_inv: don't shown worn ablative armor in wear menu ([#57250](https://github.com/CleverRaven/Cataclysm-DDA/pull/57250))
 * crafting_ui: fix recipe result quantities ([#57258](https://github.com/CleverRaven/Cataclysm-DDA/pull/57258))
@@ -228,4 +229,3 @@
 * [DinoMod] mosasaurus looks_like ([#57260](https://github.com/CleverRaven/Cataclysm-DDA/pull/57260))
 * Add early game swords to Niten Ichi-Ryu ([#57252](https://github.com/CleverRaven/Cataclysm-DDA/pull/57252))
 * Pom poms plural fix ([#57253](https://github.com/CleverRaven/Cataclysm-DDA/pull/57253))
-* TropiCata: More Tropical Fishes ([#57242](https://github.com/CleverRaven/Cataclysm-DDA/pull/57242))
