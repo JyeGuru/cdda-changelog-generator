@@ -208,12 +208,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-04-30-2315 ([a26d6be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-2315))
-
-* First Version Of Encumbrance By Sentence ([#57243](https://github.com/CleverRaven/Cataclysm-DDA/pull/57243))
-
----
-
 #### Cataclysm-DDA experimental build 2022-04-30-2214 ([4974cb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-2214))
 
 * Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))

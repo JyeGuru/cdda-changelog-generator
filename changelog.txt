@@ -131,9 +131,6 @@ Cataclysm-DDA experimental build 2022-05-01-1828 (4f2de87)
 Cataclysm-DDA experimental build 2022-05-01-0629 (4b90b94)
 * Obsolete old sourdough recipes (#57318)
 
-Cataclysm-DDA experimental build 2022-04-30-2315 (a26d6be)
-* First Version Of Encumbrance By Sentence (#57243)
-
 Cataclysm-DDA experimental build 2022-04-30-2214 (4974cb9)
 * Mask love (#57298)
 * Fix auto medicinal tea (#57305)
