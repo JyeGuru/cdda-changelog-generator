@@ -1,3 +1,4 @@
+* Fix unicode world names rejected by world generation (#57382)
 * [DinoMod] skeletal hulks theropods (#57342)
 * Changes mead recipe, adds new ones (#57339)
 * Mollusk based food updates (#57326)
@@ -14,9 +15,6 @@ Cataclysm-DDA experimental build 2022-05-04-1853 (8d4eaab)
 * TropiCata: some description improvements (#57247)
 * Try telefragging again (#57244)
 * Power Tools do tool things (#57239)
-
-Cataclysm-DDA experimental build 2022-05-04-1752 (262de91)
-* Partially revert #56231 (#57235)
 
 Cataclysm-DDA experimental build 2022-05-04-1526 (f97c81e)
 * Wood axe and hatchet adjustments (#57370)

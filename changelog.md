@@ -1,3 +1,4 @@
+* Fix unicode world names rejected by world generation ([#57382](https://github.com/CleverRaven/Cataclysm-DDA/pull/57382))
 * [DinoMod] skeletal hulks theropods ([#57342](https://github.com/CleverRaven/Cataclysm-DDA/pull/57342))
 * Changes mead recipe, adds new ones ([#57339](https://github.com/CleverRaven/Cataclysm-DDA/pull/57339))
 * Mollusk based food updates ([#57326](https://github.com/CleverRaven/Cataclysm-DDA/pull/57326))
@@ -20,12 +21,6 @@
 * TropiCata: some description improvements ([#57247](https://github.com/CleverRaven/Cataclysm-DDA/pull/57247))
 * Try telefragging again ([#57244](https://github.com/CleverRaven/Cataclysm-DDA/pull/57244))
 * Power Tools do tool things ([#57239](https://github.com/CleverRaven/Cataclysm-DDA/pull/57239))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-04-1752 ([262de91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1752))
-
-* Partially revert #56231 ([#57235](https://github.com/CleverRaven/Cataclysm-DDA/pull/57235))
 
 ---
 
