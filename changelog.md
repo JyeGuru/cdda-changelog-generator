@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-04-1752 ([262de91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1752))
+
 * Partially revert #56231 ([#57235](https://github.com/CleverRaven/Cataclysm-DDA/pull/57235))
 
 ---
@@ -206,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2022-04-30-1427 ([e0aadea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-1427))
 
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-30-0614 ([c27c434](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-0614))
-
 * Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
 * [Innawoods] Plastic from chitin ([#57236](https://github.com/CleverRaven/Cataclysm-DDA/pull/57236))
 * Update torso_armor.json warmth values ([#57215](https://github.com/CleverRaven/Cataclysm-DDA/pull/57215))
