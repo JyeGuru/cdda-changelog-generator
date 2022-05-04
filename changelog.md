@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-04-1853 ([8d4eaab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1853))
+
 * Give Bo staff rapid strike technique, slightly improve recipe ([#57287](https://github.com/CleverRaven/Cataclysm-DDA/pull/57287))
 * misc fixes for "xs gambeson sleeves" ([#57273](https://github.com/CleverRaven/Cataclysm-DDA/pull/57273))
 * Add batch time savings to quern and food processor oatmeal recipes ([#57249](https://github.com/CleverRaven/Cataclysm-DDA/pull/57249))
@@ -205,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2022-04-30-2214 ([4974cb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-2214))
 
 * Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-30-1427 ([e0aadea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-30-1427))
-
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 * Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
 * [Innawoods] Plastic from chitin ([#57236](https://github.com/CleverRaven/Cataclysm-DDA/pull/57236))

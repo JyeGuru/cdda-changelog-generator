@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-04-1853 (8d4eaab)
 * Give Bo staff rapid strike technique, slightly improve recipe (#57287)
 * misc fixes for "xs gambeson sleeves" (#57273)
 * Add batch time savings to quern and food processor oatmeal recipes (#57249)
@@ -127,8 +129,6 @@ Cataclysm-DDA experimental build 2022-04-30-2315 (a26d6be)
 
 Cataclysm-DDA experimental build 2022-04-30-2214 (4974cb9)
 * Mask love (#57298)
-
-Cataclysm-DDA experimental build 2022-04-30-1427 (e0aadea)
 * Fix auto medicinal tea (#57305)
 * Routine i18n updates on 30 April 2022 (#57283)
 * [Innawoods] Plastic from chitin (#57236)
