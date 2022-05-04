@@ -127,8 +127,6 @@ Cataclysm-DDA experimental build 2022-04-30-1427 (e0aadea)
 
 Cataclysm-DDA experimental build 2022-04-30-0614 (c27c434)
 * Routine i18n updates on 30 April 2022 (#57283)
-
-Cataclysm-DDA experimental build 2022-04-30-0026 (c5953ac)
 * [Innawoods] Plastic from chitin (#57236)
 * Update torso_armor.json warmth values (#57215)
 * [MMA] Weapon Categories: Tiger Claw + update great axes category (#57214)
