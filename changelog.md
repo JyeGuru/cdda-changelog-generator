@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-04-0027 ([633bd56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-0027))
+
 * Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
 
 ---
@@ -216,11 +221,6 @@
 #### Cataclysm-DDA experimental build 2022-04-29-1531 ([e874d48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-1531))
 
 * Body Graph UI ([#57222](https://github.com/CleverRaven/Cataclysm-DDA/pull/57222))
-
----
-
-#### Cataclysm-DDA experimental build 2022-04-29-1231 ([2811e3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-04-29-1231))
-
 * Pom poms plural fix ([#57253](https://github.com/CleverRaven/Cataclysm-DDA/pull/57253))
 * TropiCata: More Tropical Fishes ([#57242](https://github.com/CleverRaven/Cataclysm-DDA/pull/57242))
 * Bound food health between -1 and 0 ([#57225](https://github.com/CleverRaven/Cataclysm-DDA/pull/57225))
