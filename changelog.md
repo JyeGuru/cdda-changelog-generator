@@ -1,3 +1,12 @@
+* Mollusk based food updates ([#57326](https://github.com/CleverRaven/Cataclysm-DDA/pull/57326))
+* Allow interrupt while applying first aid ([#57317](https://github.com/CleverRaven/Cataclysm-DDA/pull/57317))
+* Add plural to some missing TropiCataclysm monsters ([#57302](https://github.com/CleverRaven/Cataclysm-DDA/pull/57302))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-04-2206 ([e36a58a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-2206))
+
+* Body Graphs - Part 2: Enhancements ([#57295](https://github.com/CleverRaven/Cataclysm-DDA/pull/57295))
 
 ---
 
@@ -213,8 +222,6 @@
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 * Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
 * [Innawoods] Plastic from chitin ([#57236](https://github.com/CleverRaven/Cataclysm-DDA/pull/57236))
-* Don't spawn non-gaseous fields on open air ([#57224](https://github.com/CleverRaven/Cataclysm-DDA/pull/57224))
-* Added mission hiding functionality ([#57231](https://github.com/CleverRaven/Cataclysm-DDA/pull/57231))
 * item: apply faction ownership to contents too ([#57248](https://github.com/CleverRaven/Cataclysm-DDA/pull/57248))
 * game_inv: don't shown worn ablative armor in wear menu ([#57250](https://github.com/CleverRaven/Cataclysm-DDA/pull/57250))
 * crafting_ui: fix recipe result quantities ([#57258](https://github.com/CleverRaven/Cataclysm-DDA/pull/57258))
@@ -224,7 +231,5 @@
 * Appease clang-tidy ([#57267](https://github.com/CleverRaven/Cataclysm-DDA/pull/57267))
 * [DinoMod] mosasaurus looks_like ([#57260](https://github.com/CleverRaven/Cataclysm-DDA/pull/57260))
 * Add early game swords to Niten Ichi-Ryu ([#57252](https://github.com/CleverRaven/Cataclysm-DDA/pull/57252))
-* Body Graph UI ([#57222](https://github.com/CleverRaven/Cataclysm-DDA/pull/57222))
 * Pom poms plural fix ([#57253](https://github.com/CleverRaven/Cataclysm-DDA/pull/57253))
 * TropiCata: More Tropical Fishes ([#57242](https://github.com/CleverRaven/Cataclysm-DDA/pull/57242))
-* Bound food health between -1 and 0 ([#57225](https://github.com/CleverRaven/Cataclysm-DDA/pull/57225))
