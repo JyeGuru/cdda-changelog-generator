@@ -1,3 +1,8 @@
+* misc fixes for "xs gambeson sleeves" ([#57273](https://github.com/CleverRaven/Cataclysm-DDA/pull/57273))
+* Add batch time savings to quern and food processor oatmeal recipes ([#57249](https://github.com/CleverRaven/Cataclysm-DDA/pull/57249))
+* TropiCata: some description improvements ([#57247](https://github.com/CleverRaven/Cataclysm-DDA/pull/57247))
+* Try telefragging again ([#57244](https://github.com/CleverRaven/Cataclysm-DDA/pull/57244))
+* Power Tools do tool things ([#57239](https://github.com/CleverRaven/Cataclysm-DDA/pull/57239))
 
 ---
 
@@ -213,8 +218,6 @@
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 * Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
 * [Innawoods] Plastic from chitin ([#57236](https://github.com/CleverRaven/Cataclysm-DDA/pull/57236))
-* Update torso_armor.json warmth values ([#57215](https://github.com/CleverRaven/Cataclysm-DDA/pull/57215))
-* [MMA] Weapon Categories: Tiger Claw + update great axes category ([#57214](https://github.com/CleverRaven/Cataclysm-DDA/pull/57214))
 * Don't spawn non-gaseous fields on open air ([#57224](https://github.com/CleverRaven/Cataclysm-DDA/pull/57224))
 * Added mission hiding functionality ([#57231](https://github.com/CleverRaven/Cataclysm-DDA/pull/57231))
 * item: apply faction ownership to contents too ([#57248](https://github.com/CleverRaven/Cataclysm-DDA/pull/57248))
@@ -230,6 +233,3 @@
 * Pom poms plural fix ([#57253](https://github.com/CleverRaven/Cataclysm-DDA/pull/57253))
 * TropiCata: More Tropical Fishes ([#57242](https://github.com/CleverRaven/Cataclysm-DDA/pull/57242))
 * Bound food health between -1 and 0 ([#57225](https://github.com/CleverRaven/Cataclysm-DDA/pull/57225))
-* Zombie child drops update ([#57212](https://github.com/CleverRaven/Cataclysm-DDA/pull/57212))
-* inv_ui: fix entry copy to/from hierarchical mode ([#57210](https://github.com/CleverRaven/Cataclysm-DDA/pull/57210))
-* Only load cataclysm-dda.mo from system locale directory ([#57213](https://github.com/CleverRaven/Cataclysm-DDA/pull/57213))
