@@ -1,3 +1,4 @@
+* Give Bo staff rapid strike technique, slightly improve recipe ([#57287](https://github.com/CleverRaven/Cataclysm-DDA/pull/57287))
 * misc fixes for "xs gambeson sleeves" ([#57273](https://github.com/CleverRaven/Cataclysm-DDA/pull/57273))
 * Add batch time savings to quern and food processor oatmeal recipes ([#57249](https://github.com/CleverRaven/Cataclysm-DDA/pull/57249))
 * TropiCata: some description improvements ([#57247](https://github.com/CleverRaven/Cataclysm-DDA/pull/57247))
@@ -96,12 +97,6 @@
 * More labels to the label god! ([#57313](https://github.com/CleverRaven/Cataclysm-DDA/pull/57313))
 * Chef expansion ([#57350](https://github.com/CleverRaven/Cataclysm-DDA/pull/57350))
 * Swimmer ferals ([#57359](https://github.com/CleverRaven/Cataclysm-DDA/pull/57359))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-02-2346 ([89c4bb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-2346))
-
-* Minor Comment Spelling Fix ([#57219](https://github.com/CleverRaven/Cataclysm-DDA/pull/57219))
 
 ---
 
