@@ -1,3 +1,18 @@
+* fix: restore missing afs definition ([#57433](https://github.com/CleverRaven/Cataclysm-DDA/pull/57433))
+* clip closing zoom more loosley ([#57431](https://github.com/CleverRaven/Cataclysm-DDA/pull/57431))
+* cause bread to be autolearned in "innawood" play ([#57423](https://github.com/CleverRaven/Cataclysm-DDA/pull/57423))
+* make the EXODII sniper a reliable rifle ([#57422](https://github.com/CleverRaven/Cataclysm-DDA/pull/57422))
+* Field for defining starting missions in professions/hobbies ([#57421](https://github.com/CleverRaven/Cataclysm-DDA/pull/57421))
+* New helmet stuff fixes ([#57416](https://github.com/CleverRaven/Cataclysm-DDA/pull/57416))
+* [DinoMod] blacklist dino mass grave ([#57415](https://github.com/CleverRaven/Cataclysm-DDA/pull/57415))
+* Fix ammo disassembly ([#57412](https://github.com/CleverRaven/Cataclysm-DDA/pull/57412))
+* item: migrate batch size from charges to craft_data ([#57409](https://github.com/CleverRaven/Cataclysm-DDA/pull/57409))
+* mapgen: add ability to skip some phases ([#57406](https://github.com/CleverRaven/Cataclysm-DDA/pull/57406))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-05-0358 ([0a1003d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-0358))
+
 * Takedown bow and multi-function quiver ([#57292](https://github.com/CleverRaven/Cataclysm-DDA/pull/57292))
 
 ---
@@ -26,8 +41,6 @@
 
 * Give Bo staff rapid strike technique, slightly improve recipe ([#57287](https://github.com/CleverRaven/Cataclysm-DDA/pull/57287))
 * misc fixes for "xs gambeson sleeves" ([#57273](https://github.com/CleverRaven/Cataclysm-DDA/pull/57273))
-* Add batch time savings to quern and food processor oatmeal recipes ([#57249](https://github.com/CleverRaven/Cataclysm-DDA/pull/57249))
-* TropiCata: some description improvements ([#57247](https://github.com/CleverRaven/Cataclysm-DDA/pull/57247))
 
 ---
 
@@ -192,11 +205,9 @@
 * Fix an off-by-one error in parsing b: item filter ([#57334](https://github.com/CleverRaven/Cataclysm-DDA/pull/57334))
 * Fix infinite loop in replace_substring() ([#57336](https://github.com/CleverRaven/Cataclysm-DDA/pull/57336))
 * Adjust Butcher Roof chunk spawns to avoid overwriting stairs/gutters ([#57290](https://github.com/CleverRaven/Cataclysm-DDA/pull/57290))
-* More bags! ([#57245](https://github.com/CleverRaven/Cataclysm-DDA/pull/57245))
 * Assassin and throwing knives sheaths ([#57274](https://github.com/CleverRaven/Cataclysm-DDA/pull/57274))
 * Change hotkey to avoid collision ([#57297](https://github.com/CleverRaven/Cataclysm-DDA/pull/57297))
 * When reviving a corpse, set its top level armor's FILTHY flag ([#57296](https://github.com/CleverRaven/Cataclysm-DDA/pull/57296))
-* New pipe maces (and pipe fix) ([#57259](https://github.com/CleverRaven/Cataclysm-DDA/pull/57259))
 * Add tool qualities documentation to JSON_INFO.md ([#57329](https://github.com/CleverRaven/Cataclysm-DDA/pull/57329))
 
 ---
@@ -213,13 +224,8 @@
 * Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 * Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
-* item: apply faction ownership to contents too ([#57248](https://github.com/CleverRaven/Cataclysm-DDA/pull/57248))
-* game_inv: don't shown worn ablative armor in wear menu ([#57250](https://github.com/CleverRaven/Cataclysm-DDA/pull/57250))
-* crafting_ui: fix recipe result quantities ([#57258](https://github.com/CleverRaven/Cataclysm-DDA/pull/57258))
 * Add plurals to some missing snails ([#57263](https://github.com/CleverRaven/Cataclysm-DDA/pull/57263))
 * Clarify the delete world message ([#57264](https://github.com/CleverRaven/Cataclysm-DDA/pull/57264))
 * Restore previous new recipe symbol ([#57265](https://github.com/CleverRaven/Cataclysm-DDA/pull/57265))
 * Appease clang-tidy ([#57267](https://github.com/CleverRaven/Cataclysm-DDA/pull/57267))
 * [DinoMod] mosasaurus looks_like ([#57260](https://github.com/CleverRaven/Cataclysm-DDA/pull/57260))
-* Add early game swords to Niten Ichi-Ryu ([#57252](https://github.com/CleverRaven/Cataclysm-DDA/pull/57252))
-* Pom poms plural fix ([#57253](https://github.com/CleverRaven/Cataclysm-DDA/pull/57253))
