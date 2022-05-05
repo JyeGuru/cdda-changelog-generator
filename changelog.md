@@ -1,3 +1,4 @@
+* Manatouched mutagen ([#57384](https://github.com/CleverRaven/Cataclysm-DDA/pull/57384))
 
 ---
 
@@ -226,6 +227,5 @@
 * Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 * Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
-* Clarify the delete world message ([#57264](https://github.com/CleverRaven/Cataclysm-DDA/pull/57264))
 * Restore previous new recipe symbol ([#57265](https://github.com/CleverRaven/Cataclysm-DDA/pull/57265))
 * Appease clang-tidy ([#57267](https://github.com/CleverRaven/Cataclysm-DDA/pull/57267))

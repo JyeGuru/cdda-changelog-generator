@@ -1,3 +1,4 @@
+* Manatouched mutagen (#57384)
 
 Cataclysm-DDA experimental build 2022-05-05-0635 (c2e3aaf)
 * Add more craftable tools (#57270)
@@ -145,6 +146,5 @@ Cataclysm-DDA experimental build 2022-05-01-1936 (762e351)
 * Mask love (#57298)
 * Fix auto medicinal tea (#57305)
 * Routine i18n updates on 30 April 2022 (#57283)
-* Clarify the delete world message (#57264)
 * Restore previous new recipe symbol (#57265)
 * Appease clang-tidy (#57267)
