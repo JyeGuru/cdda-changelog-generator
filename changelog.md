@@ -1,3 +1,9 @@
+* Assassin convict and fix prison scenario description ([#57399](https://github.com/CleverRaven/Cataclysm-DDA/pull/57399))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-05-0506 ([e1a449f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-0506))
+
 * fix: restore missing afs definition ([#57433](https://github.com/CleverRaven/Cataclysm-DDA/pull/57433))
 * clip closing zoom more loosley ([#57431](https://github.com/CleverRaven/Cataclysm-DDA/pull/57431))
 * cause bread to be autolearned in "innawood" play ([#57423](https://github.com/CleverRaven/Cataclysm-DDA/pull/57423))
@@ -215,11 +221,6 @@
 #### Cataclysm-DDA experimental build 2022-05-01-1828 ([4f2de87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-01-1828))
 
 * Sheriffshirt fix ([#57310](https://github.com/CleverRaven/Cataclysm-DDA/pull/57310))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-01-0629 ([4b90b94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-01-0629))
-
 * Obsolete old sourdough recipes ([#57318](https://github.com/CleverRaven/Cataclysm-DDA/pull/57318))
 * Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
@@ -228,4 +229,3 @@
 * Clarify the delete world message ([#57264](https://github.com/CleverRaven/Cataclysm-DDA/pull/57264))
 * Restore previous new recipe symbol ([#57265](https://github.com/CleverRaven/Cataclysm-DDA/pull/57265))
 * Appease clang-tidy ([#57267](https://github.com/CleverRaven/Cataclysm-DDA/pull/57267))
-* [DinoMod] mosasaurus looks_like ([#57260](https://github.com/CleverRaven/Cataclysm-DDA/pull/57260))
