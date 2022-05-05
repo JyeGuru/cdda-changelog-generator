@@ -1,3 +1,11 @@
+* Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
+* zones: add debug option for showing foreign zones ([#57452](https://github.com/CleverRaven/Cataclysm-DDA/pull/57452))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-05-2206 ([08f280f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-2206))
+
+* Fix the teamster's Hub 01 directions assign_mission_target ([#57453](https://github.com/CleverRaven/Cataclysm-DDA/pull/57453))
 
 ---
 
@@ -189,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-05-02-0314 ([3e8f435](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-0314))
 
 * Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-01-2107 ([c86ae6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-01-2107))
-
 * Fixing infinite gravel bug/exploit ([#57301](https://github.com/CleverRaven/Cataclysm-DDA/pull/57301))
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
 * Update the table of contents in doc/JSON_INFO.md ([#57314](https://github.com/CleverRaven/Cataclysm-DDA/pull/57314))
@@ -202,7 +205,6 @@
 * Add missing full stop to description in Tropiclysm ([#57278](https://github.com/CleverRaven/Cataclysm-DDA/pull/57278))
 * Add missing space for one innawood description ([#57277](https://github.com/CleverRaven/Cataclysm-DDA/pull/57277))
 * Conditionally prompt for follower control on death ([#57269](https://github.com/CleverRaven/Cataclysm-DDA/pull/57269))
-* Allow customization of text input UI hotkeys ([#57266](https://github.com/CleverRaven/Cataclysm-DDA/pull/57266))
 * Add a space after Customize character keybinding ([#57303](https://github.com/CleverRaven/Cataclysm-DDA/pull/57303))
 * Sleep deprivation affects health ([#57306](https://github.com/CleverRaven/Cataclysm-DDA/pull/57306))
 * port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))
@@ -227,5 +229,3 @@
 * Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 * Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
-* Restore previous new recipe symbol ([#57265](https://github.com/CleverRaven/Cataclysm-DDA/pull/57265))
-* Appease clang-tidy ([#57267](https://github.com/CleverRaven/Cataclysm-DDA/pull/57267))
