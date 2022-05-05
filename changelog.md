@@ -1,3 +1,4 @@
+* Takedown bow and multi-function quiver ([#57292](https://github.com/CleverRaven/Cataclysm-DDA/pull/57292))
 
 ---
 
@@ -27,7 +28,6 @@
 * misc fixes for "xs gambeson sleeves" ([#57273](https://github.com/CleverRaven/Cataclysm-DDA/pull/57273))
 * Add batch time savings to quern and food processor oatmeal recipes ([#57249](https://github.com/CleverRaven/Cataclysm-DDA/pull/57249))
 * TropiCata: some description improvements ([#57247](https://github.com/CleverRaven/Cataclysm-DDA/pull/57247))
-* Try telefragging again ([#57244](https://github.com/CleverRaven/Cataclysm-DDA/pull/57244))
 
 ---
 

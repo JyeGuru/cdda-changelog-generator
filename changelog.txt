@@ -1,3 +1,4 @@
+* Takedown bow and multi-function quiver (#57292)
 
 Cataclysm-DDA experimental build 2022-05-04-2351 (1293340)
 * Added positive morale gain for firing incendiary ammo for pyromaniacs (#57408)
@@ -18,7 +19,6 @@ Cataclysm-DDA experimental build 2022-05-04-1853 (8d4eaab)
 * misc fixes for "xs gambeson sleeves" (#57273)
 * Add batch time savings to quern and food processor oatmeal recipes (#57249)
 * TropiCata: some description improvements (#57247)
-* Try telefragging again (#57244)
 
 Cataclysm-DDA experimental build 2022-05-04-1526 (f97c81e)
 * Wood axe and hatchet adjustments (#57370)
