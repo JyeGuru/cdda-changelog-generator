@@ -1,3 +1,4 @@
+* Add more craftable tools ([#57270](https://github.com/CleverRaven/Cataclysm-DDA/pull/57270))
 * Assassin convict and fix prison scenario description ([#57399](https://github.com/CleverRaven/Cataclysm-DDA/pull/57399))
 
 ---
@@ -225,7 +226,6 @@
 * Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
 * Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
-* Add plurals to some missing snails ([#57263](https://github.com/CleverRaven/Cataclysm-DDA/pull/57263))
 * Clarify the delete world message ([#57264](https://github.com/CleverRaven/Cataclysm-DDA/pull/57264))
 * Restore previous new recipe symbol ([#57265](https://github.com/CleverRaven/Cataclysm-DDA/pull/57265))
 * Appease clang-tidy ([#57267](https://github.com/CleverRaven/Cataclysm-DDA/pull/57267))
