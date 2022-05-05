@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-05-1855 (d252a42)
 * Manatouched mutagen (#57384)
 
 Cataclysm-DDA experimental build 2022-05-05-0635 (c2e3aaf)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2022-05-02-0314 (3e8f435)
 
 Cataclysm-DDA experimental build 2022-05-01-2107 (c86ae6d)
 * Fixing infinite gravel bug/exploit (#57301)
-
-Cataclysm-DDA experimental build 2022-05-01-1936 (762e351)
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json (#57333)
 * Update the table of contents in doc/JSON_INFO.md (#57314)
 * npc: restock shop on npc load instead of map load (#57294)
