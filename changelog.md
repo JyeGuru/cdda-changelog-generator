@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-06-0603 ([30c8dc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0603))
+
 * Adjust Glass Sheet recipes ([#57467](https://github.com/CleverRaven/Cataclysm-DDA/pull/57467))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-05-02-2115 ([dd1c695](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-2115))
 
 * Dear sweet David, it is time to go home. ([#57291](https://github.com/CleverRaven/Cataclysm-DDA/pull/57291))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-02-1804 ([200caf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-1804))
-
 * Trapper packs and grass headwear ([#57276](https://github.com/CleverRaven/Cataclysm-DDA/pull/57276))
 * Fix mechs missing their guns ([#57308](https://github.com/CleverRaven/Cataclysm-DDA/pull/57308))
 * Make portal storm voices only hearable by player ([#57348](https://github.com/CleverRaven/Cataclysm-DDA/pull/57348))
