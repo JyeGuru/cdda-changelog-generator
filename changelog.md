@@ -199,7 +199,6 @@
 * npc: restock shop on npc load instead of map load ([#57294](https://github.com/CleverRaven/Cataclysm-DDA/pull/57294))
 * Remove a fourth-wall breaking line of dialog ([#57279](https://github.com/CleverRaven/Cataclysm-DDA/pull/57279))
 * Add missing full stop to description in Tropiclysm ([#57278](https://github.com/CleverRaven/Cataclysm-DDA/pull/57278))
-* Add missing space for one innawood description ([#57277](https://github.com/CleverRaven/Cataclysm-DDA/pull/57277))
 * Add a space after Customize character keybinding ([#57303](https://github.com/CleverRaven/Cataclysm-DDA/pull/57303))
 * Sleep deprivation affects health ([#57306](https://github.com/CleverRaven/Cataclysm-DDA/pull/57306))
 * port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))
