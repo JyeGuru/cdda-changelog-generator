@@ -1,3 +1,5 @@
+* adding info about MAN_MADE to docs ([#57445](https://github.com/CleverRaven/Cataclysm-DDA/pull/57445))
+* Unify bolt/lever/pump-action spelling ([#57424](https://github.com/CleverRaven/Cataclysm-DDA/pull/57424))
 
 ---
 
@@ -182,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-05-02-2216 ([79c79b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-2216))
 
 * take down solar panels ([#57357](https://github.com/CleverRaven/Cataclysm-DDA/pull/57357))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-02-2115 ([dd1c695](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-2115))
-
 * Dear sweet David, it is time to go home. ([#57291](https://github.com/CleverRaven/Cataclysm-DDA/pull/57291))
 * Fix mechs missing their guns ([#57308](https://github.com/CleverRaven/Cataclysm-DDA/pull/57308))
 * Make portal storm voices only hearable by player ([#57348](https://github.com/CleverRaven/Cataclysm-DDA/pull/57348))
@@ -197,8 +194,6 @@
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
 * Update the table of contents in doc/JSON_INFO.md ([#57314](https://github.com/CleverRaven/Cataclysm-DDA/pull/57314))
 * npc: restock shop on npc load instead of map load ([#57294](https://github.com/CleverRaven/Cataclysm-DDA/pull/57294))
-* Remove a fourth-wall breaking line of dialog ([#57279](https://github.com/CleverRaven/Cataclysm-DDA/pull/57279))
-* Add missing full stop to description in Tropiclysm ([#57278](https://github.com/CleverRaven/Cataclysm-DDA/pull/57278))
 * Add a space after Customize character keybinding ([#57303](https://github.com/CleverRaven/Cataclysm-DDA/pull/57303))
 * Sleep deprivation affects health ([#57306](https://github.com/CleverRaven/Cataclysm-DDA/pull/57306))
 * port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))

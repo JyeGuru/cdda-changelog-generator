@@ -1,3 +1,5 @@
+* adding info about MAN_MADE to docs (#57445)
+* Unify bolt/lever/pump-action spelling (#57424)
 
 Cataclysm-DDA experimental build 2022-05-06-0603 (30c8dc3)
 * Adjust Glass Sheet recipes (#57467)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2022-05-03-0054 (5fd4bfe)
 
 Cataclysm-DDA experimental build 2022-05-02-2216 (79c79b2)
 * take down solar panels (#57357)
-
-Cataclysm-DDA experimental build 2022-05-02-2115 (dd1c695)
 * Dear sweet David, it is time to go home. (#57291)
 * Fix mechs missing their guns (#57308)
 * Make portal storm voices only hearable by player (#57348)
@@ -119,8 +119,6 @@ Cataclysm-DDA experimental build 2022-05-02-2115 (dd1c695)
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json (#57333)
 * Update the table of contents in doc/JSON_INFO.md (#57314)
 * npc: restock shop on npc load instead of map load (#57294)
-* Remove a fourth-wall breaking line of dialog (#57279)
-* Add missing full stop to description in Tropiclysm (#57278)
 * Add a space after Customize character keybinding (#57303)
 * Sleep deprivation affects health (#57306)
 * port: Safe mode manager: reset cursor when switching tabs (#57309)
