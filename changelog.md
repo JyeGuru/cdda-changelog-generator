@@ -114,11 +114,6 @@
 #### Cataclysm-DDA experimental build 2022-05-04-0359 ([eb07c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-0359))
 
 * Use finer ranges for determining CJK characters ([#57366](https://github.com/CleverRaven/Cataclysm-DDA/pull/57366))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-04-0252 ([3721d13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-0252))
-
 * Football Stadium ([#57373](https://github.com/CleverRaven/Cataclysm-DDA/pull/57373))
 
 ---
@@ -188,6 +183,11 @@
 #### Cataclysm-DDA experimental build 2022-05-02-2115 ([dd1c695](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-2115))
 
 * Dear sweet David, it is time to go home. ([#57291](https://github.com/CleverRaven/Cataclysm-DDA/pull/57291))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-02-1804 ([200caf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-1804))
+
 * Trapper packs and grass headwear ([#57276](https://github.com/CleverRaven/Cataclysm-DDA/pull/57276))
 * Fix mechs missing their guns ([#57308](https://github.com/CleverRaven/Cataclysm-DDA/pull/57308))
 * Make portal storm voices only hearable by player ([#57348](https://github.com/CleverRaven/Cataclysm-DDA/pull/57348))

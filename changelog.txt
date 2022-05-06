@@ -66,8 +66,6 @@ Cataclysm-DDA experimental build 2022-05-04-1109 (e2cf698)
 
 Cataclysm-DDA experimental build 2022-05-04-0359 (eb07c6a)
 * Use finer ranges for determining CJK characters (#57366)
-
-Cataclysm-DDA experimental build 2022-05-04-0252 (3721d13)
 * Football Stadium (#57373)
 
 Cataclysm-DDA experimental build 2022-05-04-0027 (633bd56)
@@ -110,6 +108,8 @@ Cataclysm-DDA experimental build 2022-05-02-2216 (79c79b2)
 
 Cataclysm-DDA experimental build 2022-05-02-2115 (dd1c695)
 * Dear sweet David, it is time to go home. (#57291)
+
+Cataclysm-DDA experimental build 2022-05-02-1804 (200caf5)
 * Trapper packs and grass headwear (#57276)
 * Fix mechs missing their guns (#57308)
 * Make portal storm voices only hearable by player (#57348)
