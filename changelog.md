@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-06-1613 ([c68b9c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-1613))
+
 * adding info about MAN_MADE to docs ([#57445](https://github.com/CleverRaven/Cataclysm-DDA/pull/57445))
 * Unify bolt/lever/pump-action spelling ([#57424](https://github.com/CleverRaven/Cataclysm-DDA/pull/57424))
 
@@ -178,11 +183,6 @@
 * More labels to the label god! ([#57313](https://github.com/CleverRaven/Cataclysm-DDA/pull/57313))
 * Chef expansion ([#57350](https://github.com/CleverRaven/Cataclysm-DDA/pull/57350))
 * Swimmer ferals ([#57359](https://github.com/CleverRaven/Cataclysm-DDA/pull/57359))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-02-2216 ([79c79b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-2216))
-
 * take down solar panels ([#57357](https://github.com/CleverRaven/Cataclysm-DDA/pull/57357))
 * Dear sweet David, it is time to go home. ([#57291](https://github.com/CleverRaven/Cataclysm-DDA/pull/57291))
 * Fix mechs missing their guns ([#57308](https://github.com/CleverRaven/Cataclysm-DDA/pull/57308))

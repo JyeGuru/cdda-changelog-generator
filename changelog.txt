@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-06-1613 (c68b9c6)
 * adding info about MAN_MADE to docs (#57445)
 * Unify bolt/lever/pump-action spelling (#57424)
 
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2022-05-03-0054 (5fd4bfe)
 * More labels to the label god! (#57313)
 * Chef expansion (#57350)
 * Swimmer ferals (#57359)
-
-Cataclysm-DDA experimental build 2022-05-02-2216 (79c79b2)
 * take down solar panels (#57357)
 * Dear sweet David, it is time to go home. (#57291)
 * Fix mechs missing their guns (#57308)
