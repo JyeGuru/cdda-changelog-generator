@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-06-0428 ([efe36ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0428))
+
 * Unseal pocket after pickup ([#57451](https://github.com/CleverRaven/Cataclysm-DDA/pull/57451))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-05-02-1804 ([200caf5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-1804))
 
 * Trapper packs and grass headwear ([#57276](https://github.com/CleverRaven/Cataclysm-DDA/pull/57276))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-02-0624 ([184e0bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-0624))
-
 * Fix mechs missing their guns ([#57308](https://github.com/CleverRaven/Cataclysm-DDA/pull/57308))
 * Make portal storm voices only hearable by player ([#57348](https://github.com/CleverRaven/Cataclysm-DDA/pull/57348))
 * Consistently capitalize Kevlar ([#57340](https://github.com/CleverRaven/Cataclysm-DDA/pull/57340))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-06-0428 (efe36ec)
 * Unseal pocket after pickup (#57451)
 
 Cataclysm-DDA experimental build 2022-05-06-0313 (5363e66)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2022-05-02-2115 (dd1c695)
 
 Cataclysm-DDA experimental build 2022-05-02-1804 (200caf5)
 * Trapper packs and grass headwear (#57276)
-
-Cataclysm-DDA experimental build 2022-05-02-0624 (184e0bb)
 * Fix mechs missing their guns (#57308)
 * Make portal storm voices only hearable by player (#57348)
 * Consistently capitalize Kevlar (#57340)
