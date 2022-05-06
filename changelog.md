@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-06-0313 ([5363e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0313))
+
+* Tacoma - Doctor improvements ([#57387](https://github.com/CleverRaven/Cataclysm-DDA/pull/57387))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-06-0144 ([c532a5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0144))
+
+* Added positive morale gain when setting creatures on fire for pyromaniacs ([#57435](https://github.com/CleverRaven/Cataclysm-DDA/pull/57435))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-05-2321 ([53ce6df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-2321))
 
 * Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
@@ -17,12 +29,6 @@
 #### Cataclysm-DDA experimental build 2022-05-05-1855 ([d252a42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-1855))
 
 * Manatouched mutagen ([#57384](https://github.com/CleverRaven/Cataclysm-DDA/pull/57384))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-05-0635 ([c2e3aaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-0635))
-
-* Add more craftable tools ([#57270](https://github.com/CleverRaven/Cataclysm-DDA/pull/57270))
 * Assassin convict and fix prison scenario description ([#57399](https://github.com/CleverRaven/Cataclysm-DDA/pull/57399))
 
 ---
@@ -183,17 +189,7 @@
 #### Cataclysm-DDA experimental build 2022-05-02-0624 ([184e0bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-0624))
 
 * Fix mechs missing their guns ([#57308](https://github.com/CleverRaven/Cataclysm-DDA/pull/57308))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-02-0523 ([0cd272a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-0523))
-
 * Make portal storm voices only hearable by player ([#57348](https://github.com/CleverRaven/Cataclysm-DDA/pull/57348))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-02-0415 ([6cb173c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-02-0415))
-
 * Consistently capitalize Kevlar ([#57340](https://github.com/CleverRaven/Cataclysm-DDA/pull/57340))
 * TropiCata: Some more Tropical Fishes ([#57286](https://github.com/CleverRaven/Cataclysm-DDA/pull/57286))
 * Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
@@ -204,7 +200,6 @@
 * Remove a fourth-wall breaking line of dialog ([#57279](https://github.com/CleverRaven/Cataclysm-DDA/pull/57279))
 * Add missing full stop to description in Tropiclysm ([#57278](https://github.com/CleverRaven/Cataclysm-DDA/pull/57278))
 * Add missing space for one innawood description ([#57277](https://github.com/CleverRaven/Cataclysm-DDA/pull/57277))
-* Conditionally prompt for follower control on death ([#57269](https://github.com/CleverRaven/Cataclysm-DDA/pull/57269))
 * Add a space after Customize character keybinding ([#57303](https://github.com/CleverRaven/Cataclysm-DDA/pull/57303))
 * Sleep deprivation affects health ([#57306](https://github.com/CleverRaven/Cataclysm-DDA/pull/57306))
 * port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))

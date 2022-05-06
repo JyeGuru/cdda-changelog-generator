@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2022-05-06-0313 (5363e66)
+* Tacoma - Doctor improvements (#57387)
+
+Cataclysm-DDA experimental build 2022-05-06-0144 (c532a5c)
+* Added positive morale gain when setting creatures on fire for pyromaniacs (#57435)
+
 Cataclysm-DDA experimental build 2022-05-05-2321 (53ce6df)
 * Unflub clang-tidy (#57450)
 * zones: add debug option for showing foreign zones (#57452)
@@ -8,9 +14,6 @@ Cataclysm-DDA experimental build 2022-05-05-2206 (08f280f)
 
 Cataclysm-DDA experimental build 2022-05-05-1855 (d252a42)
 * Manatouched mutagen (#57384)
-
-Cataclysm-DDA experimental build 2022-05-05-0635 (c2e3aaf)
-* Add more craftable tools (#57270)
 * Assassin convict and fix prison scenario description (#57399)
 
 Cataclysm-DDA experimental build 2022-05-05-0506 (e1a449f)
@@ -108,11 +111,7 @@ Cataclysm-DDA experimental build 2022-05-02-1804 (200caf5)
 
 Cataclysm-DDA experimental build 2022-05-02-0624 (184e0bb)
 * Fix mechs missing their guns (#57308)
-
-Cataclysm-DDA experimental build 2022-05-02-0523 (0cd272a)
 * Make portal storm voices only hearable by player (#57348)
-
-Cataclysm-DDA experimental build 2022-05-02-0415 (6cb173c)
 * Consistently capitalize Kevlar (#57340)
 * TropiCata: Some more Tropical Fishes (#57286)
 * Fixes being unable to start turning in NRE printouts if you only had a short one (#57353)
@@ -123,7 +122,6 @@ Cataclysm-DDA experimental build 2022-05-02-0415 (6cb173c)
 * Remove a fourth-wall breaking line of dialog (#57279)
 * Add missing full stop to description in Tropiclysm (#57278)
 * Add missing space for one innawood description (#57277)
-* Conditionally prompt for follower control on death (#57269)
 * Add a space after Customize character keybinding (#57303)
 * Sleep deprivation affects health (#57306)
 * port: Safe mode manager: reset cursor when switching tabs (#57309)
