@@ -1,3 +1,4 @@
+* Unseal pocket after pickup (#57451)
 
 Cataclysm-DDA experimental build 2022-05-06-0313 (5363e66)
 * Tacoma - Doctor improvements (#57387)
@@ -47,7 +48,6 @@ Cataclysm-DDA experimental build 2022-05-04-2206 (e36a58a)
 
 Cataclysm-DDA experimental build 2022-05-04-1853 (8d4eaab)
 * Give Bo staff rapid strike technique, slightly improve recipe (#57287)
-* misc fixes for "xs gambeson sleeves" (#57273)
 
 Cataclysm-DDA experimental build 2022-05-04-1526 (f97c81e)
 * Wood axe and hatchet adjustments (#57370)

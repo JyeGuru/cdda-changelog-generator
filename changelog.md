@@ -1,3 +1,4 @@
+* Unseal pocket after pickup ([#57451](https://github.com/CleverRaven/Cataclysm-DDA/pull/57451))
 
 ---
 
@@ -77,7 +78,6 @@
 #### Cataclysm-DDA experimental build 2022-05-04-1853 ([8d4eaab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1853))
 
 * Give Bo staff rapid strike technique, slightly improve recipe ([#57287](https://github.com/CleverRaven/Cataclysm-DDA/pull/57287))
-* misc fixes for "xs gambeson sleeves" ([#57273](https://github.com/CleverRaven/Cataclysm-DDA/pull/57273))
 
 ---
 
