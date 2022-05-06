@@ -1,3 +1,4 @@
+* Adjust Glass Sheet recipes ([#57467](https://github.com/CleverRaven/Cataclysm-DDA/pull/57467))
 
 ---
 
@@ -215,7 +216,6 @@
 * Fix an off-by-one error in parsing b: item filter ([#57334](https://github.com/CleverRaven/Cataclysm-DDA/pull/57334))
 * Fix infinite loop in replace_substring() ([#57336](https://github.com/CleverRaven/Cataclysm-DDA/pull/57336))
 * Adjust Butcher Roof chunk spawns to avoid overwriting stairs/gutters ([#57290](https://github.com/CleverRaven/Cataclysm-DDA/pull/57290))
-* Assassin and throwing knives sheaths ([#57274](https://github.com/CleverRaven/Cataclysm-DDA/pull/57274))
 * Change hotkey to avoid collision ([#57297](https://github.com/CleverRaven/Cataclysm-DDA/pull/57297))
 * When reviving a corpse, set its top level armor's FILTHY flag ([#57296](https://github.com/CleverRaven/Cataclysm-DDA/pull/57296))
 * Add tool qualities documentation to JSON_INFO.md ([#57329](https://github.com/CleverRaven/Cataclysm-DDA/pull/57329))
