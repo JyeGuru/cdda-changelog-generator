@@ -151,12 +151,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-05-03-2157 ([0305019](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-2157))
-
-* [DinoMod] dino mass grave and snippets ([#57281](https://github.com/CleverRaven/Cataclysm-DDA/pull/57281))
-
----
-
 #### Cataclysm-DDA experimental build 2022-05-03-1838 ([f0fae3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-1838))
 
 * Rigid jewelry fix ([#57379](https://github.com/CleverRaven/Cataclysm-DDA/pull/57379))

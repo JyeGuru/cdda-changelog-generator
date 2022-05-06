@@ -89,9 +89,6 @@ Cataclysm-DDA experimental build 2022-05-03-2319 (8acdd5f)
 * remove unused variables and functions, surprised clang didn't catch (#57377)
 * Integrated Armor Rigidity Fixes (#57371)
 
-Cataclysm-DDA experimental build 2022-05-03-2157 (0305019)
-* [DinoMod] dino mass grave and snippets (#57281)
-
 Cataclysm-DDA experimental build 2022-05-03-1838 (f0fae3e)
 * Rigid jewelry fix (#57379)
 
