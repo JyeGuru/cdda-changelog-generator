@@ -110,7 +110,6 @@ Cataclysm-DDA experimental build 2022-05-02-2216 (79c79b2)
 
 Cataclysm-DDA experimental build 2022-05-02-2115 (dd1c695)
 * Dear sweet David, it is time to go home. (#57291)
-* Trapper packs and grass headwear (#57276)
 * Fix mechs missing their guns (#57308)
 * Make portal storm voices only hearable by player (#57348)
 * Consistently capitalize Kevlar (#57340)
