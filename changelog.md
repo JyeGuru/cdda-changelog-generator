@@ -1,3 +1,11 @@
+* Warmth and Env. Protection small audit ([#57432](https://github.com/CleverRaven/Cataclysm-DDA/pull/57432))
+* Blacklist/whitelist map extras using flags ([#57428](https://github.com/CleverRaven/Cataclysm-DDA/pull/57428))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-06-2315 ([589bcb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-2315))
+
+* Prevent monsters from dragging people in seatbelts, fix dragged players getting run over by their own cars ([#57351](https://github.com/CleverRaven/Cataclysm-DDA/pull/57351))
 
 ---
 
@@ -93,12 +101,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-05-04-1853 ([8d4eaab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1853))
-
-* Give Bo staff rapid strike technique, slightly improve recipe ([#57287](https://github.com/CleverRaven/Cataclysm-DDA/pull/57287))
-
----
-
 #### Cataclysm-DDA experimental build 2022-05-04-1526 ([f97c81e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1526))
 
 * Wood axe and hatchet adjustments ([#57370](https://github.com/CleverRaven/Cataclysm-DDA/pull/57370))
@@ -182,7 +184,6 @@
 * Fix mechs missing their guns ([#57308](https://github.com/CleverRaven/Cataclysm-DDA/pull/57308))
 * Make portal storm voices only hearable by player ([#57348](https://github.com/CleverRaven/Cataclysm-DDA/pull/57348))
 * Consistently capitalize Kevlar ([#57340](https://github.com/CleverRaven/Cataclysm-DDA/pull/57340))
-* TropiCata: Some more Tropical Fishes ([#57286](https://github.com/CleverRaven/Cataclysm-DDA/pull/57286))
 * Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
 * Fixing infinite gravel bug/exploit ([#57301](https://github.com/CleverRaven/Cataclysm-DDA/pull/57301))
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
@@ -210,4 +211,3 @@
 * Obsolete old sourdough recipes ([#57318](https://github.com/CleverRaven/Cataclysm-DDA/pull/57318))
 * Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
-* Routine i18n updates on 30 April 2022 ([#57283](https://github.com/CleverRaven/Cataclysm-DDA/pull/57283))
