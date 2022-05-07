@@ -1,3 +1,10 @@
+* Fix for rats everywhere mutating ([#57473](https://github.com/CleverRaven/Cataclysm-DDA/pull/57473))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-07-2105 ([b0a7cf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-2105))
+
+* Add barbecue sauce ([#57495](https://github.com/CleverRaven/Cataclysm-DDA/pull/57495))
 
 ---
 
@@ -155,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2022-05-04-0252 ([3721d13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-0252))
 
 * Football Stadium ([#57373](https://github.com/CleverRaven/Cataclysm-DDA/pull/57373))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-04-0027 ([633bd56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-0027))
-
 * Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
 * activity/construction: fix ACT_MULTIPLE_CONSTRUCTION ([#57327](https://github.com/CleverRaven/Cataclysm-DDA/pull/57327))
 * Tacoma - Bartender improvements ([#57338](https://github.com/CleverRaven/Cataclysm-DDA/pull/57338))
@@ -186,7 +188,6 @@
 * Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
 * Update the table of contents in doc/JSON_INFO.md ([#57314](https://github.com/CleverRaven/Cataclysm-DDA/pull/57314))
-* Add a space after Customize character keybinding ([#57303](https://github.com/CleverRaven/Cataclysm-DDA/pull/57303))
 * Sleep deprivation affects health ([#57306](https://github.com/CleverRaven/Cataclysm-DDA/pull/57306))
 * port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))
 * auto-balance/autobalance → auto balance ([#57311](https://github.com/CleverRaven/Cataclysm-DDA/pull/57311))
@@ -203,4 +204,3 @@
 * Add tool qualities documentation to JSON_INFO.md ([#57329](https://github.com/CleverRaven/Cataclysm-DDA/pull/57329))
 * Sheriffshirt fix ([#57310](https://github.com/CleverRaven/Cataclysm-DDA/pull/57310))
 * Obsolete old sourdough recipes ([#57318](https://github.com/CleverRaven/Cataclysm-DDA/pull/57318))
-* Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
