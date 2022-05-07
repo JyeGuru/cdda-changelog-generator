@@ -1,3 +1,5 @@
+* Fix heat shield typo ([#57490](https://github.com/CleverRaven/Cataclysm-DDA/pull/57490))
+* défense → defense ([#57487](https://github.com/CleverRaven/Cataclysm-DDA/pull/57487))
 * Fix for rats everywhere mutating ([#57473](https://github.com/CleverRaven/Cataclysm-DDA/pull/57473))
 
 ---
@@ -182,13 +184,11 @@
 * Chef expansion ([#57350](https://github.com/CleverRaven/Cataclysm-DDA/pull/57350))
 * Swimmer ferals ([#57359](https://github.com/CleverRaven/Cataclysm-DDA/pull/57359))
 * take down solar panels ([#57357](https://github.com/CleverRaven/Cataclysm-DDA/pull/57357))
-* Fix mechs missing their guns ([#57308](https://github.com/CleverRaven/Cataclysm-DDA/pull/57308))
 * Make portal storm voices only hearable by player ([#57348](https://github.com/CleverRaven/Cataclysm-DDA/pull/57348))
 * Consistently capitalize Kevlar ([#57340](https://github.com/CleverRaven/Cataclysm-DDA/pull/57340))
 * Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
 * Update the table of contents in doc/JSON_INFO.md ([#57314](https://github.com/CleverRaven/Cataclysm-DDA/pull/57314))
-* Sleep deprivation affects health ([#57306](https://github.com/CleverRaven/Cataclysm-DDA/pull/57306))
 * port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))
 * auto-balance/autobalance → auto balance ([#57311](https://github.com/CleverRaven/Cataclysm-DDA/pull/57311))
 * Fix text breaking before CJK characters ([#57319](https://github.com/CleverRaven/Cataclysm-DDA/pull/57319))
