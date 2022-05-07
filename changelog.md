@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-07-0804 ([46d0df6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-0804))
+
 * Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))
 
 ---
@@ -162,11 +167,6 @@
 * Doble -> Double ([#57390](https://github.com/CleverRaven/Cataclysm-DDA/pull/57390))
 * remove unused variables and functions, surprised clang didn't catch ([#57377](https://github.com/CleverRaven/Cataclysm-DDA/pull/57377))
 * Integrated Armor Rigidity Fixes ([#57371](https://github.com/CleverRaven/Cataclysm-DDA/pull/57371))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-03-1838 ([f0fae3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-1838))
-
 * Rigid jewelry fix ([#57379](https://github.com/CleverRaven/Cataclysm-DDA/pull/57379))
 * Leather Pouch related balance changes ([#57380](https://github.com/CleverRaven/Cataclysm-DDA/pull/57380))
 * Variable Visual View When Aiming Down Sight ([#57365](https://github.com/CleverRaven/Cataclysm-DDA/pull/57365))
