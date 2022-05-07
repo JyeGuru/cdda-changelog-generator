@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-07-0647 ([dd2babc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-0647))
+
 * Tacoma - Add loot zones for bartender and scavenger boss ([#57449](https://github.com/CleverRaven/Cataclysm-DDA/pull/57449))
 
 ---
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-05-03-1838 ([f0fae3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-1838))
 
 * Rigid jewelry fix ([#57379](https://github.com/CleverRaven/Cataclysm-DDA/pull/57379))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-03-0539 ([57d911c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-0539))
-
 * Leather Pouch related balance changes ([#57380](https://github.com/CleverRaven/Cataclysm-DDA/pull/57380))
 * Variable Visual View When Aiming Down Sight ([#57365](https://github.com/CleverRaven/Cataclysm-DDA/pull/57365))
 * Some UI fixes ([#57361](https://github.com/CleverRaven/Cataclysm-DDA/pull/57361))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-07-0647 (dd2babc)
 * Tacoma - Add loot zones for bartender and scavenger boss (#57449)
 
 Cataclysm-DDA experimental build 2022-05-07-0539 (d09c3fb)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2022-05-03-2319 (8acdd5f)
 
 Cataclysm-DDA experimental build 2022-05-03-1838 (f0fae3e)
 * Rigid jewelry fix (#57379)
-
-Cataclysm-DDA experimental build 2022-05-03-0539 (57d911c)
 * Leather Pouch related balance changes (#57380)
 * Variable Visual View When Aiming Down Sight (#57365)
 * Some UI fixes (#57361)
