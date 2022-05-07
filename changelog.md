@@ -185,7 +185,6 @@
 * Make portal storm voices only hearable by player ([#57348](https://github.com/CleverRaven/Cataclysm-DDA/pull/57348))
 * Consistently capitalize Kevlar ([#57340](https://github.com/CleverRaven/Cataclysm-DDA/pull/57340))
 * Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
-* Fixing infinite gravel bug/exploit ([#57301](https://github.com/CleverRaven/Cataclysm-DDA/pull/57301))
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
 * Update the table of contents in doc/JSON_INFO.md ([#57314](https://github.com/CleverRaven/Cataclysm-DDA/pull/57314))
 * Add a space after Customize character keybinding ([#57303](https://github.com/CleverRaven/Cataclysm-DDA/pull/57303))
