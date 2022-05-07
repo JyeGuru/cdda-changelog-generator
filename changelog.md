@@ -1,3 +1,5 @@
+* make anchor soft ([#57469](https://github.com/CleverRaven/Cataclysm-DDA/pull/57469))
+* Retain monster inventory when changing type ([#57468](https://github.com/CleverRaven/Cataclysm-DDA/pull/57468))
 * Add the Excalibread (crazy cataclysm) ([#57465](https://github.com/CleverRaven/Cataclysm-DDA/pull/57465))
 * Chest protector actually covers the chest ([#57463](https://github.com/CleverRaven/Cataclysm-DDA/pull/57463))
 
@@ -200,9 +202,7 @@
 * inv_ui: hotfix for #57210 ([#57332](https://github.com/CleverRaven/Cataclysm-DDA/pull/57332))
 * Fix an off-by-one error in parsing b: item filter ([#57334](https://github.com/CleverRaven/Cataclysm-DDA/pull/57334))
 * Fix infinite loop in replace_substring() ([#57336](https://github.com/CleverRaven/Cataclysm-DDA/pull/57336))
-* Change hotkey to avoid collision ([#57297](https://github.com/CleverRaven/Cataclysm-DDA/pull/57297))
 * Add tool qualities documentation to JSON_INFO.md ([#57329](https://github.com/CleverRaven/Cataclysm-DDA/pull/57329))
 * Sheriffshirt fix ([#57310](https://github.com/CleverRaven/Cataclysm-DDA/pull/57310))
 * Obsolete old sourdough recipes ([#57318](https://github.com/CleverRaven/Cataclysm-DDA/pull/57318))
-* Mask love ([#57298](https://github.com/CleverRaven/Cataclysm-DDA/pull/57298))
 * Fix auto medicinal tea ([#57305](https://github.com/CleverRaven/Cataclysm-DDA/pull/57305))
