@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-07-2212 (0a6883a)
 * Fix heat shield typo (#57490)
 * défense → defense (#57487)
 * Fix for rats everywhere mutating (#57473)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2022-05-04-1109 (e2cf698)
 
 Cataclysm-DDA experimental build 2022-05-04-0359 (eb07c6a)
 * Use finer ranges for determining CJK characters (#57366)
-
-Cataclysm-DDA experimental build 2022-05-04-0252 (3721d13)
 * Football Stadium (#57373)
 * Lycra bodysuits (Cosplay) (#57383)
 * activity/construction: fix ACT_MULTIPLE_CONSTRUCTION (#57327)
