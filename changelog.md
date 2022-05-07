@@ -1,3 +1,4 @@
+* Update GAME_BALANCE document with more precise skill level defintions ([#57470](https://github.com/CleverRaven/Cataclysm-DDA/pull/57470))
 * make anchor soft ([#57469](https://github.com/CleverRaven/Cataclysm-DDA/pull/57469))
 * Retain monster inventory when changing type ([#57468](https://github.com/CleverRaven/Cataclysm-DDA/pull/57468))
 * Add the Excalibread (crazy cataclysm) ([#57465](https://github.com/CleverRaven/Cataclysm-DDA/pull/57465))
@@ -156,12 +157,6 @@
 #### Cataclysm-DDA experimental build 2022-05-04-0027 ([633bd56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-0027))
 
 * Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-03-2319 ([8acdd5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-2319))
-
-* Add accent to piraíba and tucunaré ([#57299](https://github.com/CleverRaven/Cataclysm-DDA/pull/57299))
 * activity/construction: fix ACT_MULTIPLE_CONSTRUCTION ([#57327](https://github.com/CleverRaven/Cataclysm-DDA/pull/57327))
 * Tacoma - Bartender improvements ([#57338](https://github.com/CleverRaven/Cataclysm-DDA/pull/57338))
 * Beekeeping hood breathability override ([#57368](https://github.com/CleverRaven/Cataclysm-DDA/pull/57368))
