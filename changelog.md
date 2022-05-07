@@ -1,3 +1,11 @@
+* Add the Excalibread (crazy cataclysm) ([#57465](https://github.com/CleverRaven/Cataclysm-DDA/pull/57465))
+* Chest protector actually covers the chest ([#57463](https://github.com/CleverRaven/Cataclysm-DDA/pull/57463))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-07-1532 ([42ddccb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-1532))
+
+* Charcoal forge and clay kiln can use coal ([#57458](https://github.com/CleverRaven/Cataclysm-DDA/pull/57458))
 
 ---
 
@@ -112,12 +120,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-05-04-2206 ([e36a58a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-2206))
-
-* Body Graphs - Part 2: Enhancements ([#57295](https://github.com/CleverRaven/Cataclysm-DDA/pull/57295))
-
----
-
 #### Cataclysm-DDA experimental build 2022-05-04-1526 ([f97c81e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1526))
 
 * Wood axe and hatchet adjustments ([#57370](https://github.com/CleverRaven/Cataclysm-DDA/pull/57370))
@@ -184,7 +186,6 @@
 * Fixing infinite gravel bug/exploit ([#57301](https://github.com/CleverRaven/Cataclysm-DDA/pull/57301))
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
 * Update the table of contents in doc/JSON_INFO.md ([#57314](https://github.com/CleverRaven/Cataclysm-DDA/pull/57314))
-* npc: restock shop on npc load instead of map load ([#57294](https://github.com/CleverRaven/Cataclysm-DDA/pull/57294))
 * Add a space after Customize character keybinding ([#57303](https://github.com/CleverRaven/Cataclysm-DDA/pull/57303))
 * Sleep deprivation affects health ([#57306](https://github.com/CleverRaven/Cataclysm-DDA/pull/57306))
 * port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))
@@ -200,7 +201,6 @@
 * Fix an off-by-one error in parsing b: item filter ([#57334](https://github.com/CleverRaven/Cataclysm-DDA/pull/57334))
 * Fix infinite loop in replace_substring() ([#57336](https://github.com/CleverRaven/Cataclysm-DDA/pull/57336))
 * Change hotkey to avoid collision ([#57297](https://github.com/CleverRaven/Cataclysm-DDA/pull/57297))
-* When reviving a corpse, set its top level armor's FILTHY flag ([#57296](https://github.com/CleverRaven/Cataclysm-DDA/pull/57296))
 * Add tool qualities documentation to JSON_INFO.md ([#57329](https://github.com/CleverRaven/Cataclysm-DDA/pull/57329))
 * Sheriffshirt fix ([#57310](https://github.com/CleverRaven/Cataclysm-DDA/pull/57310))
 * Obsolete old sourdough recipes ([#57318](https://github.com/CleverRaven/Cataclysm-DDA/pull/57318))
