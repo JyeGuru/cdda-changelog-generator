@@ -1,3 +1,4 @@
+* Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))
 
 ---
 
@@ -89,12 +90,6 @@
 * Fix ammo disassembly ([#57412](https://github.com/CleverRaven/Cataclysm-DDA/pull/57412))
 * item: migrate batch size from charges to craft_data ([#57409](https://github.com/CleverRaven/Cataclysm-DDA/pull/57409))
 * mapgen: add ability to skip some phases ([#57406](https://github.com/CleverRaven/Cataclysm-DDA/pull/57406))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-05-0358 ([0a1003d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-0358))
-
-* Takedown bow and multi-function quiver ([#57292](https://github.com/CleverRaven/Cataclysm-DDA/pull/57292))
 
 ---
 

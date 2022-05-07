@@ -1,3 +1,4 @@
+* Routine i18n updates on 07 May 2022 (#57498)
 
 Cataclysm-DDA experimental build 2022-05-07-0647 (dd2babc)
 * Tacoma - Add loot zones for bartender and scavenger boss (#57449)
@@ -50,9 +51,6 @@ Cataclysm-DDA experimental build 2022-05-05-0506 (e1a449f)
 * Fix ammo disassembly (#57412)
 * item: migrate batch size from charges to craft_data (#57409)
 * mapgen: add ability to skip some phases (#57406)
-
-Cataclysm-DDA experimental build 2022-05-05-0358 (0a1003d)
-* Takedown bow and multi-function quiver (#57292)
 
 Cataclysm-DDA experimental build 2022-05-04-2351 (1293340)
 * Added positive morale gain for firing incendiary ammo for pyromaniacs (#57408)
