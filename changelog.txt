@@ -73,7 +73,6 @@ Cataclysm-DDA experimental build 2022-05-04-2351 (1293340)
 * Changes mead recipe, adds new ones (#57339)
 * Mollusk based food updates (#57326)
 * Allow interrupt while applying first aid (#57317)
-* Add plural to some missing TropiCataclysm monsters (#57302)
 
 Cataclysm-DDA experimental build 2022-05-04-1526 (f97c81e)
 * Wood axe and hatchet adjustments (#57370)

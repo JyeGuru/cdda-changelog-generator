@@ -124,7 +124,6 @@
 * Changes mead recipe, adds new ones ([#57339](https://github.com/CleverRaven/Cataclysm-DDA/pull/57339))
 * Mollusk based food updates ([#57326](https://github.com/CleverRaven/Cataclysm-DDA/pull/57326))
 * Allow interrupt while applying first aid ([#57317](https://github.com/CleverRaven/Cataclysm-DDA/pull/57317))
-* Add plural to some missing TropiCataclysm monsters ([#57302](https://github.com/CleverRaven/Cataclysm-DDA/pull/57302))
 
 ---
 
