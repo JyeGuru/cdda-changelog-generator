@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-07-0023 (26d5517)
 * Warmth and Env. Protection small audit (#57432)
 * Blacklist/whitelist map extras using flags (#57428)
 
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2022-05-03-0539 (57d911c)
 
 Cataclysm-DDA experimental build 2022-05-03-0230 (4719188)
 * Variable Visual View When Aiming Down Sight (#57365)
-
-Cataclysm-DDA experimental build 2022-05-03-0054 (5fd4bfe)
 * Some UI fixes (#57361)
 * Firing flamethrower and other fire-producing weapons will trigger morale gain for pyromaniacs (#57354)
 * Spawn mortar and pestle in kitchens (#57362)

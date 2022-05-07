@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-07-0023 ([26d5517](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-0023))
+
 * Warmth and Env. Protection small audit ([#57432](https://github.com/CleverRaven/Cataclysm-DDA/pull/57432))
 * Blacklist/whitelist map extras using flags ([#57428](https://github.com/CleverRaven/Cataclysm-DDA/pull/57428))
 
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-05-03-0230 ([4719188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-0230))
 
 * Variable Visual View When Aiming Down Sight ([#57365](https://github.com/CleverRaven/Cataclysm-DDA/pull/57365))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-03-0054 ([5fd4bfe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-0054))
-
 * Some UI fixes ([#57361](https://github.com/CleverRaven/Cataclysm-DDA/pull/57361))
 * Firing flamethrower and other fire-producing weapons will trigger morale gain for pyromaniacs ([#57354](https://github.com/CleverRaven/Cataclysm-DDA/pull/57354))
 * Spawn mortar and pestle in kitchens ([#57362](https://github.com/CleverRaven/Cataclysm-DDA/pull/57362))
