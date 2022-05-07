@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-07-0539 ([d09c3fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-0539))
+
+* Trap-specific jsonified trigger messages ([#57448](https://github.com/CleverRaven/Cataclysm-DDA/pull/57448))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-07-0023 ([26d5517](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-0023))
 
 * Warmth and Env. Protection small audit ([#57432](https://github.com/CleverRaven/Cataclysm-DDA/pull/57432))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-05-03-0539 ([57d911c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-0539))
 
 * Leather Pouch related balance changes ([#57380](https://github.com/CleverRaven/Cataclysm-DDA/pull/57380))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-03-0230 ([4719188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-03-0230))
-
 * Variable Visual View When Aiming Down Sight ([#57365](https://github.com/CleverRaven/Cataclysm-DDA/pull/57365))
 * Some UI fixes ([#57361](https://github.com/CleverRaven/Cataclysm-DDA/pull/57361))
 * Firing flamethrower and other fire-producing weapons will trigger morale gain for pyromaniacs ([#57354](https://github.com/CleverRaven/Cataclysm-DDA/pull/57354))
@@ -203,7 +204,6 @@
 * inv_ui: hotfix for #57210 ([#57332](https://github.com/CleverRaven/Cataclysm-DDA/pull/57332))
 * Fix an off-by-one error in parsing b: item filter ([#57334](https://github.com/CleverRaven/Cataclysm-DDA/pull/57334))
 * Fix infinite loop in replace_substring() ([#57336](https://github.com/CleverRaven/Cataclysm-DDA/pull/57336))
-* Adjust Butcher Roof chunk spawns to avoid overwriting stairs/gutters ([#57290](https://github.com/CleverRaven/Cataclysm-DDA/pull/57290))
 * Change hotkey to avoid collision ([#57297](https://github.com/CleverRaven/Cataclysm-DDA/pull/57297))
 * When reviving a corpse, set its top level armor's FILTHY flag ([#57296](https://github.com/CleverRaven/Cataclysm-DDA/pull/57296))
 * Add tool qualities documentation to JSON_INFO.md ([#57329](https://github.com/CleverRaven/Cataclysm-DDA/pull/57329))
