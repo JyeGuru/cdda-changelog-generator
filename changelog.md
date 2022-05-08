@@ -189,7 +189,6 @@
 * Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
 * Update the table of contents in doc/JSON_INFO.md ([#57314](https://github.com/CleverRaven/Cataclysm-DDA/pull/57314))
-* port: Safe mode manager: reset cursor when switching tabs ([#57309](https://github.com/CleverRaven/Cataclysm-DDA/pull/57309))
 * auto-balance/autobalance → auto balance ([#57311](https://github.com/CleverRaven/Cataclysm-DDA/pull/57311))
 * Fix text breaking before CJK characters ([#57319](https://github.com/CleverRaven/Cataclysm-DDA/pull/57319))
 * Clean up portal storm query code ([#57320](https://github.com/CleverRaven/Cataclysm-DDA/pull/57320))
