@@ -1,3 +1,12 @@
+* Store Update 2 ([#57554](https://github.com/CleverRaven/Cataclysm-DDA/pull/57554))
+* Store Update 1 ([#57553](https://github.com/CleverRaven/Cataclysm-DDA/pull/57553))
+* Motel Update ([#57524](https://github.com/CleverRaven/Cataclysm-DDA/pull/57524))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-09-1728 ([4be560b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-1728))
+
+* [DinoMod] Restore dino mass grave ([#57546](https://github.com/CleverRaven/Cataclysm-DDA/pull/57546))
 
 ---
 
@@ -106,12 +115,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-05-06-2315 ([589bcb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-2315))
-
-* Prevent monsters from dragging people in seatbelts, fix dragged players getting run over by their own cars ([#57351](https://github.com/CleverRaven/Cataclysm-DDA/pull/57351))
-
----
-
 #### Cataclysm-DDA experimental build 2022-05-06-1613 ([c68b9c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-1613))
 
 * adding info about MAN_MADE to docs ([#57445](https://github.com/CleverRaven/Cataclysm-DDA/pull/57445))
@@ -184,7 +187,6 @@
 * activity/constr: check if route is not empty first ([#57402](https://github.com/CleverRaven/Cataclysm-DDA/pull/57402))
 * Crowbar now respects json ammo overrides ([#57398](https://github.com/CleverRaven/Cataclysm-DDA/pull/57398))
 * Fix unicode world names rejected by world generation ([#57382](https://github.com/CleverRaven/Cataclysm-DDA/pull/57382))
-* [DinoMod] skeletal hulks theropods ([#57342](https://github.com/CleverRaven/Cataclysm-DDA/pull/57342))
 * Wood axe and hatchet adjustments ([#57370](https://github.com/CleverRaven/Cataclysm-DDA/pull/57370))
 * Give longsword some techniques ([#57395](https://github.com/CleverRaven/Cataclysm-DDA/pull/57395))
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
@@ -205,8 +207,6 @@
 * Some UI fixes ([#57361](https://github.com/CleverRaven/Cataclysm-DDA/pull/57361))
 * Firing flamethrower and other fire-producing weapons will trigger morale gain for pyromaniacs ([#57354](https://github.com/CleverRaven/Cataclysm-DDA/pull/57354))
 * Spawn mortar and pestle in kitchens ([#57362](https://github.com/CleverRaven/Cataclysm-DDA/pull/57362))
-* Chef expansion ([#57350](https://github.com/CleverRaven/Cataclysm-DDA/pull/57350))
 * Swimmer ferals ([#57359](https://github.com/CleverRaven/Cataclysm-DDA/pull/57359))
 * take down solar panels ([#57357](https://github.com/CleverRaven/Cataclysm-DDA/pull/57357))
-* Make portal storm voices only hearable by player ([#57348](https://github.com/CleverRaven/Cataclysm-DDA/pull/57348))
 * Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
