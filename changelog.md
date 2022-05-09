@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-09-0534 ([cd22ef2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0534))
+
 * Fix CBM wording ([#57528](https://github.com/CleverRaven/Cataclysm-DDA/pull/57528))
 * [MMA] Weapon Categories: Hylian Swordsmanship + a new technique ([#57427](https://github.com/CleverRaven/Cataclysm-DDA/pull/57427))
 * People weren't getting back their vision when meleeing ([#57516](https://github.com/CleverRaven/Cataclysm-DDA/pull/57516))
@@ -174,11 +179,6 @@
 * Crowbar now respects json ammo overrides ([#57398](https://github.com/CleverRaven/Cataclysm-DDA/pull/57398))
 * Fix unicode world names rejected by world generation ([#57382](https://github.com/CleverRaven/Cataclysm-DDA/pull/57382))
 * [DinoMod] skeletal hulks theropods ([#57342](https://github.com/CleverRaven/Cataclysm-DDA/pull/57342))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-04-1526 ([f97c81e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1526))
-
 * Wood axe and hatchet adjustments ([#57370](https://github.com/CleverRaven/Cataclysm-DDA/pull/57370))
 * Give longsword some techniques ([#57395](https://github.com/CleverRaven/Cataclysm-DDA/pull/57395))
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
