@@ -1,3 +1,13 @@
+* Fix `uilist` treating `j`, `k`, etc. as directional keys and ignoring item action hotkeys ([#57541](https://github.com/CleverRaven/Cataclysm-DDA/pull/57541))
+* Fix bug with invalid alpha talker ([#57561](https://github.com/CleverRaven/Cataclysm-DDA/pull/57561))
+* Remove extra comma ([#57563](https://github.com/CleverRaven/Cataclysm-DDA/pull/57563))
+* Change the id to actual item name ([#57566](https://github.com/CleverRaven/Cataclysm-DDA/pull/57566))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-09-0429 ([1902180](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0429))
+
+* Remove space between number and mm ([#57568](https://github.com/CleverRaven/Cataclysm-DDA/pull/57568))
 
 ---
 
@@ -167,17 +177,11 @@
 
 * Wood axe and hatchet adjustments ([#57370](https://github.com/CleverRaven/Cataclysm-DDA/pull/57370))
 * Give longsword some techniques ([#57395](https://github.com/CleverRaven/Cataclysm-DDA/pull/57395))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-04-1424 ([7b9faed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1424))
-
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
 * Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
 * Use finer ranges for determining CJK characters ([#57366](https://github.com/CleverRaven/Cataclysm-DDA/pull/57366))
 * Football Stadium ([#57373](https://github.com/CleverRaven/Cataclysm-DDA/pull/57373))
 * Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
-* activity/construction: fix ACT_MULTIPLE_CONSTRUCTION ([#57327](https://github.com/CleverRaven/Cataclysm-DDA/pull/57327))
 * Tacoma - Bartender improvements ([#57338](https://github.com/CleverRaven/Cataclysm-DDA/pull/57338))
 * Beekeeping hood breathability override ([#57368](https://github.com/CleverRaven/Cataclysm-DDA/pull/57368))
 * Make foot locker recharge station appliance movable ([#57372](https://github.com/CleverRaven/Cataclysm-DDA/pull/57372))
@@ -199,8 +203,5 @@
 * Consistently capitalize Kevlar ([#57340](https://github.com/CleverRaven/Cataclysm-DDA/pull/57340))
 * Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
-* More things to please pyromaniacs ([#57330](https://github.com/CleverRaven/Cataclysm-DDA/pull/57330))
-* inv_ui: hotfix for #57210 ([#57332](https://github.com/CleverRaven/Cataclysm-DDA/pull/57332))
 * Fix an off-by-one error in parsing b: item filter ([#57334](https://github.com/CleverRaven/Cataclysm-DDA/pull/57334))
 * Fix infinite loop in replace_substring() ([#57336](https://github.com/CleverRaven/Cataclysm-DDA/pull/57336))
-* Add tool qualities documentation to JSON_INFO.md ([#57329](https://github.com/CleverRaven/Cataclysm-DDA/pull/57329))
