@@ -1,6 +1,30 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-09-0218 ([68fbf0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0218))
+
+* First aid item deletion fix ([#57538](https://github.com/CleverRaven/Cataclysm-DDA/pull/57538))
+* LANGUAGE->LANGUAGES in COMPILING.md ([#57532](https://github.com/CleverRaven/Cataclysm-DDA/pull/57532))
+* Unify loot zone names ([#57531](https://github.com/CleverRaven/Cataclysm-DDA/pull/57531))
+* Calc FOV off recoil not stability ([#57529](https://github.com/CleverRaven/Cataclysm-DDA/pull/57529))
+* 57522 fixes missing question mark on item examine promt UI ([#57540](https://github.com/CleverRaven/Cataclysm-DDA/pull/57540))
+* Fix vehicle interact casing ([#57517](https://github.com/CleverRaven/Cataclysm-DDA/pull/57517))
+* Fix heat from nearby sources when blind ([#57515](https://github.com/CleverRaven/Cataclysm-DDA/pull/57515))
+* Vehicle controls → vehicle controls ([#57514](https://github.com/CleverRaven/Cataclysm-DDA/pull/57514))
+* Unify gas-operated spelling ([#57512](https://github.com/CleverRaven/Cataclysm-DDA/pull/57512))
+* Firstaid QOL improvements ([#57491](https://github.com/CleverRaven/Cataclysm-DDA/pull/57491))
+* Fix crash when hiding sprite without clothes ([#57485](https://github.com/CleverRaven/Cataclysm-DDA/pull/57485))
+* Added positive morale gain when casting fire-related spells for pyromaniacs ([#57474](https://github.com/CleverRaven/Cataclysm-DDA/pull/57474))
+* Tacoma - misc fixes ([#57481](https://github.com/CleverRaven/Cataclysm-DDA/pull/57481))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-09-0041 ([80edfb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0041))
+
+* Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-07-2212 ([0a6883a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-2212))
 
 * Fix heat shield typo ([#57490](https://github.com/CleverRaven/Cataclysm-DDA/pull/57490))
@@ -136,8 +160,6 @@
 * Fix unicode world names rejected by world generation ([#57382](https://github.com/CleverRaven/Cataclysm-DDA/pull/57382))
 * [DinoMod] skeletal hulks theropods ([#57342](https://github.com/CleverRaven/Cataclysm-DDA/pull/57342))
 * Changes mead recipe, adds new ones ([#57339](https://github.com/CleverRaven/Cataclysm-DDA/pull/57339))
-* Mollusk based food updates ([#57326](https://github.com/CleverRaven/Cataclysm-DDA/pull/57326))
-* Allow interrupt while applying first aid ([#57317](https://github.com/CleverRaven/Cataclysm-DDA/pull/57317))
 
 ---
 
@@ -151,17 +173,7 @@
 #### Cataclysm-DDA experimental build 2022-05-04-1424 ([7b9faed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1424))
 
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-04-1109 ([e2cf698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-1109))
-
 * Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-04-0359 ([eb07c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-0359))
-
 * Use finer ranges for determining CJK characters ([#57366](https://github.com/CleverRaven/Cataclysm-DDA/pull/57366))
 * Football Stadium ([#57373](https://github.com/CleverRaven/Cataclysm-DDA/pull/57373))
 * Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
@@ -180,7 +192,6 @@
 * Some UI fixes ([#57361](https://github.com/CleverRaven/Cataclysm-DDA/pull/57361))
 * Firing flamethrower and other fire-producing weapons will trigger morale gain for pyromaniacs ([#57354](https://github.com/CleverRaven/Cataclysm-DDA/pull/57354))
 * Spawn mortar and pestle in kitchens ([#57362](https://github.com/CleverRaven/Cataclysm-DDA/pull/57362))
-* More labels to the label god! ([#57313](https://github.com/CleverRaven/Cataclysm-DDA/pull/57313))
 * Chef expansion ([#57350](https://github.com/CleverRaven/Cataclysm-DDA/pull/57350))
 * Swimmer ferals ([#57359](https://github.com/CleverRaven/Cataclysm-DDA/pull/57359))
 * take down solar panels ([#57357](https://github.com/CleverRaven/Cataclysm-DDA/pull/57357))
@@ -188,18 +199,8 @@
 * Consistently capitalize Kevlar ([#57340](https://github.com/CleverRaven/Cataclysm-DDA/pull/57340))
 * Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
 * Fix terrain conflict in lab_2x2_MUT_tier_2.json ([#57333](https://github.com/CleverRaven/Cataclysm-DDA/pull/57333))
-* Update the table of contents in doc/JSON_INFO.md ([#57314](https://github.com/CleverRaven/Cataclysm-DDA/pull/57314))
-* auto-balance/autobalance → auto balance ([#57311](https://github.com/CleverRaven/Cataclysm-DDA/pull/57311))
-* Fix text breaking before CJK characters ([#57319](https://github.com/CleverRaven/Cataclysm-DDA/pull/57319))
-* Clean up portal storm query code ([#57320](https://github.com/CleverRaven/Cataclysm-DDA/pull/57320))
-* Do not save or discard diary text when canceling the saving query ([#57321](https://github.com/CleverRaven/Cataclysm-DDA/pull/57321))
-* Fix curses overmap not drawn after switching from tiles ([#57323](https://github.com/CleverRaven/Cataclysm-DDA/pull/57323))
-* tutorial.json: fix typo ([#57324](https://github.com/CleverRaven/Cataclysm-DDA/pull/57324))
-* Keybindings menu fixes ([#57325](https://github.com/CleverRaven/Cataclysm-DDA/pull/57325))
 * More things to please pyromaniacs ([#57330](https://github.com/CleverRaven/Cataclysm-DDA/pull/57330))
 * inv_ui: hotfix for #57210 ([#57332](https://github.com/CleverRaven/Cataclysm-DDA/pull/57332))
 * Fix an off-by-one error in parsing b: item filter ([#57334](https://github.com/CleverRaven/Cataclysm-DDA/pull/57334))
 * Fix infinite loop in replace_substring() ([#57336](https://github.com/CleverRaven/Cataclysm-DDA/pull/57336))
 * Add tool qualities documentation to JSON_INFO.md ([#57329](https://github.com/CleverRaven/Cataclysm-DDA/pull/57329))
-* Sheriffshirt fix ([#57310](https://github.com/CleverRaven/Cataclysm-DDA/pull/57310))
-* Obsolete old sourdough recipes ([#57318](https://github.com/CleverRaven/Cataclysm-DDA/pull/57318))
