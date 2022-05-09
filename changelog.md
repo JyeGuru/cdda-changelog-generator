@@ -1,3 +1,10 @@
+* Unique npc ids, allow interacting with npcs that are not in reality bubble ([#57533](https://github.com/CleverRaven/Cataclysm-DDA/pull/57533))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-09-2044 ([e3e4e28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-2044))
+
+* add remaining reses (even the nonsense ones) ([#57462](https://github.com/CleverRaven/Cataclysm-DDA/pull/57462))
 * Store Update 2 ([#57554](https://github.com/CleverRaven/Cataclysm-DDA/pull/57554))
 * Store Update 1 ([#57553](https://github.com/CleverRaven/Cataclysm-DDA/pull/57553))
 * Motel Update ([#57524](https://github.com/CleverRaven/Cataclysm-DDA/pull/57524))
@@ -205,8 +212,6 @@
 * Leather Pouch related balance changes ([#57380](https://github.com/CleverRaven/Cataclysm-DDA/pull/57380))
 * Variable Visual View When Aiming Down Sight ([#57365](https://github.com/CleverRaven/Cataclysm-DDA/pull/57365))
 * Some UI fixes ([#57361](https://github.com/CleverRaven/Cataclysm-DDA/pull/57361))
-* Firing flamethrower and other fire-producing weapons will trigger morale gain for pyromaniacs ([#57354](https://github.com/CleverRaven/Cataclysm-DDA/pull/57354))
 * Spawn mortar and pestle in kitchens ([#57362](https://github.com/CleverRaven/Cataclysm-DDA/pull/57362))
 * Swimmer ferals ([#57359](https://github.com/CleverRaven/Cataclysm-DDA/pull/57359))
 * take down solar panels ([#57357](https://github.com/CleverRaven/Cataclysm-DDA/pull/57357))
-* Fixes being unable to start turning in NRE printouts if you only had a short one ([#57353](https://github.com/CleverRaven/Cataclysm-DDA/pull/57353))
