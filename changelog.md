@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-09-2231 ([dc48ac2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-2231))
+
 * Unique npc ids, allow interacting with npcs that are not in reality bubble ([#57533](https://github.com/CleverRaven/Cataclysm-DDA/pull/57533))
 
 ---
@@ -185,11 +190,6 @@
 * Fix ammo disassembly ([#57412](https://github.com/CleverRaven/Cataclysm-DDA/pull/57412))
 * item: migrate batch size from charges to craft_data ([#57409](https://github.com/CleverRaven/Cataclysm-DDA/pull/57409))
 * mapgen: add ability to skip some phases ([#57406](https://github.com/CleverRaven/Cataclysm-DDA/pull/57406))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-04-2351 ([1293340](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-04-2351))
-
 * Added positive morale gain for firing incendiary ammo for pyromaniacs ([#57408](https://github.com/CleverRaven/Cataclysm-DDA/pull/57408))
 * activity/constr: check if route is not empty first ([#57402](https://github.com/CleverRaven/Cataclysm-DDA/pull/57402))
 * Crowbar now respects json ammo overrides ([#57398](https://github.com/CleverRaven/Cataclysm-DDA/pull/57398))
