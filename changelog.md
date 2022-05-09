@@ -1,3 +1,4 @@
+* Fix CBM wording ([#57528](https://github.com/CleverRaven/Cataclysm-DDA/pull/57528))
 * [MMA] Weapon Categories: Hylian Swordsmanship + a new technique ([#57427](https://github.com/CleverRaven/Cataclysm-DDA/pull/57427))
 * People weren't getting back their vision when meleeing ([#57516](https://github.com/CleverRaven/Cataclysm-DDA/pull/57516))
 * feat: use github auto assign label to issue templates ([#57534](https://github.com/CleverRaven/Cataclysm-DDA/pull/57534))
@@ -173,7 +174,6 @@
 * Crowbar now respects json ammo overrides ([#57398](https://github.com/CleverRaven/Cataclysm-DDA/pull/57398))
 * Fix unicode world names rejected by world generation ([#57382](https://github.com/CleverRaven/Cataclysm-DDA/pull/57382))
 * [DinoMod] skeletal hulks theropods ([#57342](https://github.com/CleverRaven/Cataclysm-DDA/pull/57342))
-* Changes mead recipe, adds new ones ([#57339](https://github.com/CleverRaven/Cataclysm-DDA/pull/57339))
 
 ---
 
