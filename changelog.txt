@@ -1,3 +1,4 @@
+* Fixed move cost for open privacy gate (#57608)
 
 Cataclysm-DDA experimental build 2022-05-10-2157 (9e10426)
 * Change pieces → recipes in book description (#57586)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2022-05-06-0313 (5363e66)
 * Unflub clang-tidy (#57450)
 * zones: add debug option for showing foreign zones (#57452)
 * Fix the teamster's Hub 01 directions assign_mission_target (#57453)
-* Manatouched mutagen (#57384)
 * Assassin convict and fix prison scenario description (#57399)
 * fix: restore missing afs definition (#57433)
 * clip closing zoom more loosley (#57431)
