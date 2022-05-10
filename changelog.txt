@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-10-1536 (0bf16a2)
 * Cutting chain link fence will now yield wires instead of steel chunk (#57602)
 * Add prof_quenching to tempered armor recipes (#57596)
 
@@ -114,8 +116,6 @@ Cataclysm-DDA experimental build 2022-05-06-0144 (c532a5c)
 Cataclysm-DDA experimental build 2022-05-05-2321 (53ce6df)
 * Unflub clang-tidy (#57450)
 * zones: add debug option for showing foreign zones (#57452)
-
-Cataclysm-DDA experimental build 2022-05-05-2206 (08f280f)
 * Fix the teamster's Hub 01 directions assign_mission_target (#57453)
 * Manatouched mutagen (#57384)
 * Assassin convict and fix prison scenario description (#57399)

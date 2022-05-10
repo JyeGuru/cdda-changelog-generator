@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-10-1536 ([0bf16a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-1536))
+
 * Cutting chain link fence will now yield wires instead of steel chunk ([#57602](https://github.com/CleverRaven/Cataclysm-DDA/pull/57602))
 * Add prof_quenching to tempered armor recipes ([#57596](https://github.com/CleverRaven/Cataclysm-DDA/pull/57596))
 
@@ -192,11 +197,6 @@
 
 * Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
 * zones: add debug option for showing foreign zones ([#57452](https://github.com/CleverRaven/Cataclysm-DDA/pull/57452))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-05-2206 ([08f280f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-2206))
-
 * Fix the teamster's Hub 01 directions assign_mission_target ([#57453](https://github.com/CleverRaven/Cataclysm-DDA/pull/57453))
 * Manatouched mutagen ([#57384](https://github.com/CleverRaven/Cataclysm-DDA/pull/57384))
 * Assassin convict and fix prison scenario description ([#57399](https://github.com/CleverRaven/Cataclysm-DDA/pull/57399))
