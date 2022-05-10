@@ -217,7 +217,6 @@
 * Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
 * Football Stadium ([#57373](https://github.com/CleverRaven/Cataclysm-DDA/pull/57373))
 * Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
-* Beekeeping hood breathability override ([#57368](https://github.com/CleverRaven/Cataclysm-DDA/pull/57368))
 * Make foot locker recharge station appliance movable ([#57372](https://github.com/CleverRaven/Cataclysm-DDA/pull/57372))
 * Torso warmth update ([#57375](https://github.com/CleverRaven/Cataclysm-DDA/pull/57375))
 * Added morale gain for lighting a fire in charcoal kiln and smoker for pyromaniacs ([#57388](https://github.com/CleverRaven/Cataclysm-DDA/pull/57388))
