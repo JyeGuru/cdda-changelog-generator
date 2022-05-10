@@ -1,3 +1,11 @@
+* Grim reaper's scythe adjustments ([#57613](https://github.com/CleverRaven/Cataclysm-DDA/pull/57613))
+* inventory_ui: save uimode to uistate ([#57574](https://github.com/CleverRaven/Cataclysm-DDA/pull/57574))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-10-2025 ([064ac27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-2025))
+
+* add eggs to ordinary wasp nesp ([#57583](https://github.com/CleverRaven/Cataclysm-DDA/pull/57583))
 
 ---
 
@@ -190,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2022-05-06-0144 ([c532a5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0144))
 
 * Added positive morale gain when setting creatures on fire for pyromaniacs ([#57435](https://github.com/CleverRaven/Cataclysm-DDA/pull/57435))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-05-2321 ([53ce6df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-2321))
-
 * Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
 * zones: add debug option for showing foreign zones ([#57452](https://github.com/CleverRaven/Cataclysm-DDA/pull/57452))
 * Fix the teamster's Hub 01 directions assign_mission_target ([#57453](https://github.com/CleverRaven/Cataclysm-DDA/pull/57453))
@@ -217,11 +220,8 @@
 * Give longsword some techniques ([#57395](https://github.com/CleverRaven/Cataclysm-DDA/pull/57395))
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
 * Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
-* Football Stadium ([#57373](https://github.com/CleverRaven/Cataclysm-DDA/pull/57373))
 * Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
-* Torso warmth update ([#57375](https://github.com/CleverRaven/Cataclysm-DDA/pull/57375))
 * Added morale gain for lighting a fire in charcoal kiln and smoker for pyromaniacs ([#57388](https://github.com/CleverRaven/Cataclysm-DDA/pull/57388))
 * Doble -> Double ([#57390](https://github.com/CleverRaven/Cataclysm-DDA/pull/57390))
-* remove unused variables and functions, surprised clang didn't catch ([#57377](https://github.com/CleverRaven/Cataclysm-DDA/pull/57377))
 * Rigid jewelry fix ([#57379](https://github.com/CleverRaven/Cataclysm-DDA/pull/57379))
 * Leather Pouch related balance changes ([#57380](https://github.com/CleverRaven/Cataclysm-DDA/pull/57380))
