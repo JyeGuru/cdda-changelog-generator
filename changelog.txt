@@ -1,3 +1,10 @@
+* Store Update 6 (#57558)
+* Store Update 5 (#57557)
+* Store Update 4 (#57556)
+* Store Update 3 (#57555)
+* Fix potential nullptr crash when crafting (#57587)
+
+Cataclysm-DDA experimental build 2022-05-10-0211 (147fb80)
 * Prevent crash when using page down in options menu (#57594)
 
 Cataclysm-DDA experimental build 2022-05-09-2231 (dc48ac2)
@@ -136,7 +143,3 @@ Cataclysm-DDA experimental build 2022-05-05-0506 (e1a449f)
 * Integrated Armor Rigidity Fixes (#57371)
 * Rigid jewelry fix (#57379)
 * Leather Pouch related balance changes (#57380)
-* Variable Visual View When Aiming Down Sight (#57365)
-* Some UI fixes (#57361)
-* Spawn mortar and pestle in kitchens (#57362)
-* Swimmer ferals (#57359)
