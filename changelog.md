@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-10-0523 ([a2ea872](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-0523))
+
+* Add recipe for thick rubber chunk ([#57576](https://github.com/CleverRaven/Cataclysm-DDA/pull/57576))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-10-0322 ([b072194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-0322))
 
 * Store Update 6 ([#57558](https://github.com/CleverRaven/Cataclysm-DDA/pull/57558))
@@ -209,7 +215,6 @@
 * Give longsword some techniques ([#57395](https://github.com/CleverRaven/Cataclysm-DDA/pull/57395))
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
 * Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
-* Use finer ranges for determining CJK characters ([#57366](https://github.com/CleverRaven/Cataclysm-DDA/pull/57366))
 * Football Stadium ([#57373](https://github.com/CleverRaven/Cataclysm-DDA/pull/57373))
 * Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
 * Beekeeping hood breathability override ([#57368](https://github.com/CleverRaven/Cataclysm-DDA/pull/57368))
