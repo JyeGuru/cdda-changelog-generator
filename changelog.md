@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-10-2157 ([9e10426](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-2157))
+
 * Change pieces → recipes in book description ([#57586](https://github.com/CleverRaven/Cataclysm-DDA/pull/57586))
 * Add missing activity deserializers ([#57614](https://github.com/CleverRaven/Cataclysm-DDA/pull/57614))
 * Added variant to house08 ([#57446](https://github.com/CleverRaven/Cataclysm-DDA/pull/57446))
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2022-05-06-0313 ([5363e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0313))
 
 * Tacoma - Doctor improvements ([#57387](https://github.com/CleverRaven/Cataclysm-DDA/pull/57387))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-06-0144 ([c532a5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0144))
-
 * Added positive morale gain when setting creatures on fire for pyromaniacs ([#57435](https://github.com/CleverRaven/Cataclysm-DDA/pull/57435))
 * Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
 * zones: add debug option for showing foreign zones ([#57452](https://github.com/CleverRaven/Cataclysm-DDA/pull/57452))
