@@ -1,3 +1,4 @@
+* Change pieces → recipes in book description ([#57586](https://github.com/CleverRaven/Cataclysm-DDA/pull/57586))
 * Add missing activity deserializers ([#57614](https://github.com/CleverRaven/Cataclysm-DDA/pull/57614))
 * Added variant to house08 ([#57446](https://github.com/CleverRaven/Cataclysm-DDA/pull/57446))
 * Z level transparency flag for better skylights ([#57551](https://github.com/CleverRaven/Cataclysm-DDA/pull/57551))
@@ -222,6 +223,5 @@
 * Give longsword some techniques ([#57395](https://github.com/CleverRaven/Cataclysm-DDA/pull/57395))
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
 * Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
-* Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
 * Added morale gain for lighting a fire in charcoal kiln and smoker for pyromaniacs ([#57388](https://github.com/CleverRaven/Cataclysm-DDA/pull/57388))
 * Doble -> Double ([#57390](https://github.com/CleverRaven/Cataclysm-DDA/pull/57390))
