@@ -1,3 +1,11 @@
+* Cutting chain link fence will now yield wires instead of steel chunk ([#57602](https://github.com/CleverRaven/Cataclysm-DDA/pull/57602))
+* Add prof_quenching to tempered armor recipes ([#57596](https://github.com/CleverRaven/Cataclysm-DDA/pull/57596))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-10-1434 ([c228b98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-1434))
+
+* [Innawoods] New lost tribal profession ([#57603](https://github.com/CleverRaven/Cataclysm-DDA/pull/57603))
 
 ---
 
@@ -190,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2022-05-05-2206 ([08f280f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-2206))
 
 * Fix the teamster's Hub 01 directions assign_mission_target ([#57453](https://github.com/CleverRaven/Cataclysm-DDA/pull/57453))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-05-1855 ([d252a42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-1855))
-
 * Manatouched mutagen ([#57384](https://github.com/CleverRaven/Cataclysm-DDA/pull/57384))
 * Assassin convict and fix prison scenario description ([#57399](https://github.com/CleverRaven/Cataclysm-DDA/pull/57399))
 * fix: restore missing afs definition ([#57433](https://github.com/CleverRaven/Cataclysm-DDA/pull/57433))
@@ -211,17 +214,14 @@
 * activity/constr: check if route is not empty first ([#57402](https://github.com/CleverRaven/Cataclysm-DDA/pull/57402))
 * Crowbar now respects json ammo overrides ([#57398](https://github.com/CleverRaven/Cataclysm-DDA/pull/57398))
 * Fix unicode world names rejected by world generation ([#57382](https://github.com/CleverRaven/Cataclysm-DDA/pull/57382))
-* Wood axe and hatchet adjustments ([#57370](https://github.com/CleverRaven/Cataclysm-DDA/pull/57370))
 * Give longsword some techniques ([#57395](https://github.com/CleverRaven/Cataclysm-DDA/pull/57395))
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
 * Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
 * Football Stadium ([#57373](https://github.com/CleverRaven/Cataclysm-DDA/pull/57373))
 * Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
-* Make foot locker recharge station appliance movable ([#57372](https://github.com/CleverRaven/Cataclysm-DDA/pull/57372))
 * Torso warmth update ([#57375](https://github.com/CleverRaven/Cataclysm-DDA/pull/57375))
 * Added morale gain for lighting a fire in charcoal kiln and smoker for pyromaniacs ([#57388](https://github.com/CleverRaven/Cataclysm-DDA/pull/57388))
 * Doble -> Double ([#57390](https://github.com/CleverRaven/Cataclysm-DDA/pull/57390))
 * remove unused variables and functions, surprised clang didn't catch ([#57377](https://github.com/CleverRaven/Cataclysm-DDA/pull/57377))
-* Integrated Armor Rigidity Fixes ([#57371](https://github.com/CleverRaven/Cataclysm-DDA/pull/57371))
 * Rigid jewelry fix ([#57379](https://github.com/CleverRaven/Cataclysm-DDA/pull/57379))
 * Leather Pouch related balance changes ([#57380](https://github.com/CleverRaven/Cataclysm-DDA/pull/57380))
