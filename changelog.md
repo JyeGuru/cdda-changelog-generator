@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-10-2315 ([1d42ceb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-2315))
+
 * Fixed move cost for open privacy gate ([#57608](https://github.com/CleverRaven/Cataclysm-DDA/pull/57608))
 
 ---
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2022-05-06-0428 ([efe36ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0428))
 
 * Unseal pocket after pickup ([#57451](https://github.com/CleverRaven/Cataclysm-DDA/pull/57451))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-06-0313 ([5363e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0313))
-
 * Tacoma - Doctor improvements ([#57387](https://github.com/CleverRaven/Cataclysm-DDA/pull/57387))
 * Added positive morale gain when setting creatures on fire for pyromaniacs ([#57435](https://github.com/CleverRaven/Cataclysm-DDA/pull/57435))
 * Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
