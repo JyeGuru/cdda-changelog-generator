@@ -1,3 +1,4 @@
+* Prevent crash when using page down in options menu ([#57594](https://github.com/CleverRaven/Cataclysm-DDA/pull/57594))
 
 ---
 
@@ -214,4 +215,3 @@
 * Some UI fixes ([#57361](https://github.com/CleverRaven/Cataclysm-DDA/pull/57361))
 * Spawn mortar and pestle in kitchens ([#57362](https://github.com/CleverRaven/Cataclysm-DDA/pull/57362))
 * Swimmer ferals ([#57359](https://github.com/CleverRaven/Cataclysm-DDA/pull/57359))
-* take down solar panels ([#57357](https://github.com/CleverRaven/Cataclysm-DDA/pull/57357))
