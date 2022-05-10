@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-10-0322 ([b072194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-0322))
+
 * Store Update 6 ([#57558](https://github.com/CleverRaven/Cataclysm-DDA/pull/57558))
 * Store Update 5 ([#57557](https://github.com/CleverRaven/Cataclysm-DDA/pull/57557))
 * Store Update 4 ([#57556](https://github.com/CleverRaven/Cataclysm-DDA/pull/57556))
@@ -186,11 +191,6 @@
 
 * Manatouched mutagen ([#57384](https://github.com/CleverRaven/Cataclysm-DDA/pull/57384))
 * Assassin convict and fix prison scenario description ([#57399](https://github.com/CleverRaven/Cataclysm-DDA/pull/57399))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-05-0506 ([e1a449f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-05-0506))
-
 * fix: restore missing afs definition ([#57433](https://github.com/CleverRaven/Cataclysm-DDA/pull/57433))
 * clip closing zoom more loosley ([#57431](https://github.com/CleverRaven/Cataclysm-DDA/pull/57431))
 * cause bread to be autolearned in "innawood" play ([#57423](https://github.com/CleverRaven/Cataclysm-DDA/pull/57423))
