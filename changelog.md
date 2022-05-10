@@ -1,3 +1,4 @@
+* Added variant to house08 ([#57446](https://github.com/CleverRaven/Cataclysm-DDA/pull/57446))
 * Z level transparency flag for better skylights ([#57551](https://github.com/CleverRaven/Cataclysm-DDA/pull/57551))
 * Grim reaper's scythe adjustments ([#57613](https://github.com/CleverRaven/Cataclysm-DDA/pull/57613))
 * inventory_ui: save uimode to uistate ([#57574](https://github.com/CleverRaven/Cataclysm-DDA/pull/57574))
@@ -224,4 +225,3 @@
 * Lycra bodysuits (Cosplay) ([#57383](https://github.com/CleverRaven/Cataclysm-DDA/pull/57383))
 * Added morale gain for lighting a fire in charcoal kiln and smoker for pyromaniacs ([#57388](https://github.com/CleverRaven/Cataclysm-DDA/pull/57388))
 * Doble -> Double ([#57390](https://github.com/CleverRaven/Cataclysm-DDA/pull/57390))
-* Leather Pouch related balance changes ([#57380](https://github.com/CleverRaven/Cataclysm-DDA/pull/57380))
