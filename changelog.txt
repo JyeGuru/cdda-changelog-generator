@@ -1,3 +1,7 @@
+* Componentless practice crafts no longer leave in-progress items (#57625)
+
+Cataclysm-DDA experimental build 2022-05-11-2336 (a573eea)
+* Update activity_handlers.cpp (#57630)
 
 Cataclysm-DDA experimental build 2022-05-11-2106 (aa6a7f8)
 * Replace RU by actual resources used in mutation UI (#57616)
@@ -124,8 +128,6 @@ Cataclysm-DDA experimental build 2022-05-07-0804 (46d0df6)
 
 Cataclysm-DDA experimental build 2022-05-07-0647 (dd2babc)
 * Tacoma - Add loot zones for bartender and scavenger boss (#57449)
-
-Cataclysm-DDA experimental build 2022-05-07-0539 (d09c3fb)
 * Trap-specific jsonified trigger messages (#57448)
 * Warmth and Env. Protection small audit (#57432)
 * Blacklist/whitelist map extras using flags (#57428)
@@ -145,5 +147,3 @@ Cataclysm-DDA experimental build 2022-05-07-0539 (d09c3fb)
 * New helmet stuff fixes (#57416)
 * [DinoMod] blacklist dino mass grave (#57415)
 * Fix ammo disassembly (#57412)
-* item: migrate batch size from charges to craft_data (#57409)
-* Added positive morale gain for firing incendiary ammo for pyromaniacs (#57408)

@@ -1,3 +1,10 @@
+* Componentless practice crafts no longer leave in-progress items ([#57625](https://github.com/CleverRaven/Cataclysm-DDA/pull/57625))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-11-2336 ([a573eea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-2336))
+
+* Update activity_handlers.cpp ([#57630](https://github.com/CleverRaven/Cataclysm-DDA/pull/57630))
 
 ---
 
@@ -208,11 +215,6 @@
 #### Cataclysm-DDA experimental build 2022-05-07-0647 ([dd2babc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-0647))
 
 * Tacoma - Add loot zones for bartender and scavenger boss ([#57449](https://github.com/CleverRaven/Cataclysm-DDA/pull/57449))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-07-0539 ([d09c3fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-0539))
-
 * Trap-specific jsonified trigger messages ([#57448](https://github.com/CleverRaven/Cataclysm-DDA/pull/57448))
 * Warmth and Env. Protection small audit ([#57432](https://github.com/CleverRaven/Cataclysm-DDA/pull/57432))
 * Blacklist/whitelist map extras using flags ([#57428](https://github.com/CleverRaven/Cataclysm-DDA/pull/57428))
@@ -232,5 +234,3 @@
 * New helmet stuff fixes ([#57416](https://github.com/CleverRaven/Cataclysm-DDA/pull/57416))
 * [DinoMod] blacklist dino mass grave ([#57415](https://github.com/CleverRaven/Cataclysm-DDA/pull/57415))
 * Fix ammo disassembly ([#57412](https://github.com/CleverRaven/Cataclysm-DDA/pull/57412))
-* item: migrate batch size from charges to craft_data ([#57409](https://github.com/CleverRaven/Cataclysm-DDA/pull/57409))
-* Added positive morale gain for firing incendiary ammo for pyromaniacs ([#57408](https://github.com/CleverRaven/Cataclysm-DDA/pull/57408))
