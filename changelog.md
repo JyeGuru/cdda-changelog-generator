@@ -233,5 +233,4 @@
 * [DinoMod] blacklist dino mass grave ([#57415](https://github.com/CleverRaven/Cataclysm-DDA/pull/57415))
 * Fix ammo disassembly ([#57412](https://github.com/CleverRaven/Cataclysm-DDA/pull/57412))
 * item: migrate batch size from charges to craft_data ([#57409](https://github.com/CleverRaven/Cataclysm-DDA/pull/57409))
-* mapgen: add ability to skip some phases ([#57406](https://github.com/CleverRaven/Cataclysm-DDA/pull/57406))
 * Added positive morale gain for firing incendiary ammo for pyromaniacs ([#57408](https://github.com/CleverRaven/Cataclysm-DDA/pull/57408))
