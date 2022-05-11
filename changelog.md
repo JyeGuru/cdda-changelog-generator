@@ -1,3 +1,4 @@
+* Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
 * Allow Tacoma to rotate ([#57548](https://github.com/CleverRaven/Cataclysm-DDA/pull/57548))
 
 ---
@@ -234,4 +235,3 @@
 * item: migrate batch size from charges to craft_data ([#57409](https://github.com/CleverRaven/Cataclysm-DDA/pull/57409))
 * mapgen: add ability to skip some phases ([#57406](https://github.com/CleverRaven/Cataclysm-DDA/pull/57406))
 * Added positive morale gain for firing incendiary ammo for pyromaniacs ([#57408](https://github.com/CleverRaven/Cataclysm-DDA/pull/57408))
-* json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
