@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-11-0512 (c1e2b3c)
+* Fix house_08 mapgen errors (#57618)
+
 Cataclysm-DDA experimental build 2022-05-11-0312 (9b1541e)
 * Progress update while heating food (#57598)
 
@@ -143,4 +146,3 @@ Cataclysm-DDA experimental build 2022-05-06-1613 (c68b9c6)
 * Give longsword some techniques (#57395)
 * json/exodii: restore shop balance (#57403)
 * Sleeveless fur duster material thickness fix - closes #56945 (#57401)
-* Doble -> Double (#57390)

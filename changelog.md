@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-11-0512 ([c1e2b3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-0512))
+
+* Fix house_08 mapgen errors ([#57618](https://github.com/CleverRaven/Cataclysm-DDA/pull/57618))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-11-0312 ([9b1541e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-0312))
 
 * Progress update while heating food ([#57598](https://github.com/CleverRaven/Cataclysm-DDA/pull/57598))
@@ -224,4 +230,3 @@
 * Give longsword some techniques ([#57395](https://github.com/CleverRaven/Cataclysm-DDA/pull/57395))
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
 * Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
-* Doble -> Double ([#57390](https://github.com/CleverRaven/Cataclysm-DDA/pull/57390))
