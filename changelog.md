@@ -1,3 +1,9 @@
+* Allow Tacoma to rotate ([#57548](https://github.com/CleverRaven/Cataclysm-DDA/pull/57548))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-11-1925 ([1fdaa93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-1925))
+
 * Add quote to "Airframe and Powerplant Mechanic" ([#57519](https://github.com/CleverRaven/Cataclysm-DDA/pull/57519))
 * pentjak → pencak ([#57530](https://github.com/CleverRaven/Cataclysm-DDA/pull/57530))
 * npctalk: fix remove_npc ([#57570](https://github.com/CleverRaven/Cataclysm-DDA/pull/57570))
@@ -228,5 +234,4 @@
 * item: migrate batch size from charges to craft_data ([#57409](https://github.com/CleverRaven/Cataclysm-DDA/pull/57409))
 * mapgen: add ability to skip some phases ([#57406](https://github.com/CleverRaven/Cataclysm-DDA/pull/57406))
 * Added positive morale gain for firing incendiary ammo for pyromaniacs ([#57408](https://github.com/CleverRaven/Cataclysm-DDA/pull/57408))
-* activity/constr: check if route is not empty first ([#57402](https://github.com/CleverRaven/Cataclysm-DDA/pull/57402))
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))

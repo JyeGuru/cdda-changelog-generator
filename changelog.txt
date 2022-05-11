@@ -1,3 +1,6 @@
+* Allow Tacoma to rotate (#57548)
+
+Cataclysm-DDA experimental build 2022-05-11-1925 (1fdaa93)
 * Add quote to "Airframe and Powerplant Mechanic" (#57519)
 * pentjak → pencak (#57530)
 * npctalk: fix remove_npc (#57570)
@@ -144,5 +147,4 @@ Cataclysm-DDA experimental build 2022-05-07-0023 (26d5517)
 * item: migrate batch size from charges to craft_data (#57409)
 * mapgen: add ability to skip some phases (#57406)
 * Added positive morale gain for firing incendiary ammo for pyromaniacs (#57408)
-* activity/constr: check if route is not empty first (#57402)
 * json/exodii: restore shop balance (#57403)
