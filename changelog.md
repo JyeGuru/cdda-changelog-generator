@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-11-0312 ([9b1541e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-0312))
+
 * Progress update while heating food ([#57598](https://github.com/CleverRaven/Cataclysm-DDA/pull/57598))
 
 ---
@@ -196,11 +201,6 @@
 
 * adding info about MAN_MADE to docs ([#57445](https://github.com/CleverRaven/Cataclysm-DDA/pull/57445))
 * Unify bolt/lever/pump-action spelling ([#57424](https://github.com/CleverRaven/Cataclysm-DDA/pull/57424))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-06-0603 ([30c8dc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0603))
-
 * Adjust Glass Sheet recipes ([#57467](https://github.com/CleverRaven/Cataclysm-DDA/pull/57467))
 * Unseal pocket after pickup ([#57451](https://github.com/CleverRaven/Cataclysm-DDA/pull/57451))
 * Added positive morale gain when setting creatures on fire for pyromaniacs ([#57435](https://github.com/CleverRaven/Cataclysm-DDA/pull/57435))
