@@ -1,3 +1,6 @@
+* Add quote to "Airframe and Powerplant Mechanic" ([#57519](https://github.com/CleverRaven/Cataclysm-DDA/pull/57519))
+* pentjak → pencak ([#57530](https://github.com/CleverRaven/Cataclysm-DDA/pull/57530))
+* npctalk: fix remove_npc ([#57570](https://github.com/CleverRaven/Cataclysm-DDA/pull/57570))
 
 ---
 
@@ -214,7 +217,6 @@
 * Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
 * zones: add debug option for showing foreign zones ([#57452](https://github.com/CleverRaven/Cataclysm-DDA/pull/57452))
 * Fix the teamster's Hub 01 directions assign_mission_target ([#57453](https://github.com/CleverRaven/Cataclysm-DDA/pull/57453))
-* Assassin convict and fix prison scenario description ([#57399](https://github.com/CleverRaven/Cataclysm-DDA/pull/57399))
 * fix: restore missing afs definition ([#57433](https://github.com/CleverRaven/Cataclysm-DDA/pull/57433))
 * clip closing zoom more loosley ([#57431](https://github.com/CleverRaven/Cataclysm-DDA/pull/57431))
 * cause bread to be autolearned in "innawood" play ([#57423](https://github.com/CleverRaven/Cataclysm-DDA/pull/57423))
@@ -227,6 +229,4 @@
 * mapgen: add ability to skip some phases ([#57406](https://github.com/CleverRaven/Cataclysm-DDA/pull/57406))
 * Added positive morale gain for firing incendiary ammo for pyromaniacs ([#57408](https://github.com/CleverRaven/Cataclysm-DDA/pull/57408))
 * activity/constr: check if route is not empty first ([#57402](https://github.com/CleverRaven/Cataclysm-DDA/pull/57402))
-* Crowbar now respects json ammo overrides ([#57398](https://github.com/CleverRaven/Cataclysm-DDA/pull/57398))
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
-* Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
