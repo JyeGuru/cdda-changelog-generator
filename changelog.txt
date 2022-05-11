@@ -1,3 +1,7 @@
+* Progress update while heating food (#57598)
+
+Cataclysm-DDA experimental build 2022-05-11-0153 (e9b6c33)
+* Fix accidental sign change in calorie consumption (#57615)
 
 Cataclysm-DDA experimental build 2022-05-10-2315 (1d42ceb)
 * Fixed move cost for open privacy gate (#57608)
@@ -117,10 +121,7 @@ Cataclysm-DDA experimental build 2022-05-06-1613 (c68b9c6)
 
 Cataclysm-DDA experimental build 2022-05-06-0603 (30c8dc3)
 * Adjust Glass Sheet recipes (#57467)
-
-Cataclysm-DDA experimental build 2022-05-06-0428 (efe36ec)
 * Unseal pocket after pickup (#57451)
-* Tacoma - Doctor improvements (#57387)
 * Added positive morale gain when setting creatures on fire for pyromaniacs (#57435)
 * Unflub clang-tidy (#57450)
 * zones: add debug option for showing foreign zones (#57452)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2022-05-06-0428 (efe36ec)
 * Give longsword some techniques (#57395)
 * json/exodii: restore shop balance (#57403)
 * Sleeveless fur duster material thickness fix - closes #56945 (#57401)
-* Added morale gain for lighting a fire in charcoal kiln and smoker for pyromaniacs (#57388)
 * Doble -> Double (#57390)

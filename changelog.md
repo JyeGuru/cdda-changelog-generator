@@ -1,3 +1,10 @@
+* Progress update while heating food ([#57598](https://github.com/CleverRaven/Cataclysm-DDA/pull/57598))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-11-0153 ([e9b6c33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-0153))
+
+* Fix accidental sign change in calorie consumption ([#57615](https://github.com/CleverRaven/Cataclysm-DDA/pull/57615))
 
 ---
 
@@ -195,13 +202,7 @@
 #### Cataclysm-DDA experimental build 2022-05-06-0603 ([30c8dc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0603))
 
 * Adjust Glass Sheet recipes ([#57467](https://github.com/CleverRaven/Cataclysm-DDA/pull/57467))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-06-0428 ([efe36ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-06-0428))
-
 * Unseal pocket after pickup ([#57451](https://github.com/CleverRaven/Cataclysm-DDA/pull/57451))
-* Tacoma - Doctor improvements ([#57387](https://github.com/CleverRaven/Cataclysm-DDA/pull/57387))
 * Added positive morale gain when setting creatures on fire for pyromaniacs ([#57435](https://github.com/CleverRaven/Cataclysm-DDA/pull/57435))
 * Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
 * zones: add debug option for showing foreign zones ([#57452](https://github.com/CleverRaven/Cataclysm-DDA/pull/57452))
@@ -223,5 +224,4 @@
 * Give longsword some techniques ([#57395](https://github.com/CleverRaven/Cataclysm-DDA/pull/57395))
 * json/exodii: restore shop balance ([#57403](https://github.com/CleverRaven/Cataclysm-DDA/pull/57403))
 * Sleeveless fur duster material thickness fix - closes #56945 ([#57401](https://github.com/CleverRaven/Cataclysm-DDA/pull/57401))
-* Added morale gain for lighting a fire in charcoal kiln and smoker for pyromaniacs ([#57388](https://github.com/CleverRaven/Cataclysm-DDA/pull/57388))
 * Doble -> Double ([#57390](https://github.com/CleverRaven/Cataclysm-DDA/pull/57390))
