@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-11-2106 (aa6a7f8)
 * Replace RU by actual resources used in mutation UI (#57616)
 * Allow Tacoma to rotate (#57548)
 
@@ -125,8 +127,6 @@ Cataclysm-DDA experimental build 2022-05-07-0647 (dd2babc)
 
 Cataclysm-DDA experimental build 2022-05-07-0539 (d09c3fb)
 * Trap-specific jsonified trigger messages (#57448)
-
-Cataclysm-DDA experimental build 2022-05-07-0023 (26d5517)
 * Warmth and Env. Protection small audit (#57432)
 * Blacklist/whitelist map extras using flags (#57428)
 * adding info about MAN_MADE to docs (#57445)

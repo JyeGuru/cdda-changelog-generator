@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-11-2106 ([aa6a7f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-2106))
+
 * Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
 * Allow Tacoma to rotate ([#57548](https://github.com/CleverRaven/Cataclysm-DDA/pull/57548))
 
@@ -209,11 +214,6 @@
 #### Cataclysm-DDA experimental build 2022-05-07-0539 ([d09c3fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-0539))
 
 * Trap-specific jsonified trigger messages ([#57448](https://github.com/CleverRaven/Cataclysm-DDA/pull/57448))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-07-0023 ([26d5517](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-0023))
-
 * Warmth and Env. Protection small audit ([#57432](https://github.com/CleverRaven/Cataclysm-DDA/pull/57432))
 * Blacklist/whitelist map extras using flags ([#57428](https://github.com/CleverRaven/Cataclysm-DDA/pull/57428))
 * adding info about MAN_MADE to docs ([#57445](https://github.com/CleverRaven/Cataclysm-DDA/pull/57445))
