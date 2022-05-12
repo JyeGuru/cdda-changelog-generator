@@ -234,4 +234,3 @@
 * Field for defining starting missions in professions/hobbies ([#57421](https://github.com/CleverRaven/Cataclysm-DDA/pull/57421))
 * New helmet stuff fixes ([#57416](https://github.com/CleverRaven/Cataclysm-DDA/pull/57416))
 * [DinoMod] blacklist dino mass grave ([#57415](https://github.com/CleverRaven/Cataclysm-DDA/pull/57415))
-* Fix ammo disassembly ([#57412](https://github.com/CleverRaven/Cataclysm-DDA/pull/57412))
