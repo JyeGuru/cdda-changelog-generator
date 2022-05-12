@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-12-0506 ([7a89bbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-12-0506))
+
+* Make it so you can craft, and hopefully disassemble bathroom scales. ([#57562](https://github.com/CleverRaven/Cataclysm-DDA/pull/57562))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-12-0148 ([f7f9c53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-12-0148))
 
 * Componentless practice crafts no longer leave in-progress items ([#57625](https://github.com/CleverRaven/Cataclysm-DDA/pull/57625))
@@ -208,11 +214,6 @@
 #### Cataclysm-DDA experimental build 2022-05-07-1532 ([42ddccb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-1532))
 
 * Charcoal forge and clay kiln can use coal ([#57458](https://github.com/CleverRaven/Cataclysm-DDA/pull/57458))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-07-0804 ([46d0df6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-0804))
-
 * Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))
 * Tacoma - Add loot zones for bartender and scavenger boss ([#57449](https://github.com/CleverRaven/Cataclysm-DDA/pull/57449))
 * Trap-specific jsonified trigger messages ([#57448](https://github.com/CleverRaven/Cataclysm-DDA/pull/57448))
