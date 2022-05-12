@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-12-0148 (f7f9c53)
 * Componentless practice crafts no longer leave in-progress items (#57625)
 
 Cataclysm-DDA experimental build 2022-05-11-2336 (a573eea)
@@ -125,8 +127,6 @@ Cataclysm-DDA experimental build 2022-05-07-1532 (42ddccb)
 
 Cataclysm-DDA experimental build 2022-05-07-0804 (46d0df6)
 * Routine i18n updates on 07 May 2022 (#57498)
-
-Cataclysm-DDA experimental build 2022-05-07-0647 (dd2babc)
 * Tacoma - Add loot zones for bartender and scavenger boss (#57449)
 * Trap-specific jsonified trigger messages (#57448)
 * Warmth and Env. Protection small audit (#57432)
