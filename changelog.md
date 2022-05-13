@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-13-0818 ([7c0b8b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0818))
+
+* Make few magiclysm location a bit more visible ([#57604](https://github.com/CleverRaven/Cataclysm-DDA/pull/57604))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-13-0455 ([ed53115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0455))
 
 * AI AS50 description update ([#57577](https://github.com/CleverRaven/Cataclysm-DDA/pull/57577))
@@ -205,11 +211,6 @@
 * Fix crash when hiding sprite without clothes ([#57485](https://github.com/CleverRaven/Cataclysm-DDA/pull/57485))
 * Added positive morale gain when casting fire-related spells for pyromaniacs ([#57474](https://github.com/CleverRaven/Cataclysm-DDA/pull/57474))
 * Tacoma - misc fixes ([#57481](https://github.com/CleverRaven/Cataclysm-DDA/pull/57481))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-09-0041 ([80edfb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0041))
-
 * Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))
 * Fix heat shield typo ([#57490](https://github.com/CleverRaven/Cataclysm-DDA/pull/57490))
 * défense → defense ([#57487](https://github.com/CleverRaven/Cataclysm-DDA/pull/57487))
@@ -231,4 +232,3 @@
 * Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
 * zones: add debug option for showing foreign zones ([#57452](https://github.com/CleverRaven/Cataclysm-DDA/pull/57452))
 * Fix the teamster's Hub 01 directions assign_mission_target ([#57453](https://github.com/CleverRaven/Cataclysm-DDA/pull/57453))
-* fix: restore missing afs definition ([#57433](https://github.com/CleverRaven/Cataclysm-DDA/pull/57433))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-13-0818 (7c0b8b2)
+* Make few magiclysm location a bit more visible (#57604)
+
 Cataclysm-DDA experimental build 2022-05-13-0455 (ed53115)
 * AI AS50 description update (#57577)
 * Appliance Repair professions (#57637)
@@ -121,8 +124,6 @@ Cataclysm-DDA experimental build 2022-05-09-0218 (68fbf0b)
 * Fix crash when hiding sprite without clothes (#57485)
 * Added positive morale gain when casting fire-related spells for pyromaniacs (#57474)
 * Tacoma - misc fixes (#57481)
-
-Cataclysm-DDA experimental build 2022-05-09-0041 (80edfb9)
 * Cash registers (#57523)
 * Fix heat shield typo (#57490)
 * défense → defense (#57487)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2022-05-09-0041 (80edfb9)
 * Unflub clang-tidy (#57450)
 * zones: add debug option for showing foreign zones (#57452)
 * Fix the teamster's Hub 01 directions assign_mission_target (#57453)
-* fix: restore missing afs definition (#57433)
