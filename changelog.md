@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-13-0455 ([ed53115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0455))
+
+* AI AS50 description update ([#57577](https://github.com/CleverRaven/Cataclysm-DDA/pull/57577))
 * Appliance Repair professions ([#57637](https://github.com/CleverRaven/Cataclysm-DDA/pull/57637))
 
 ---
@@ -205,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2022-05-09-0041 ([80edfb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0041))
 
 * Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-07-2212 ([0a6883a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-2212))
-
 * Fix heat shield typo ([#57490](https://github.com/CleverRaven/Cataclysm-DDA/pull/57490))
 * défense → defense ([#57487](https://github.com/CleverRaven/Cataclysm-DDA/pull/57487))
 * Fix for rats everywhere mutating ([#57473](https://github.com/CleverRaven/Cataclysm-DDA/pull/57473))
@@ -232,4 +233,3 @@
 * zones: add debug option for showing foreign zones ([#57452](https://github.com/CleverRaven/Cataclysm-DDA/pull/57452))
 * Fix the teamster's Hub 01 directions assign_mission_target ([#57453](https://github.com/CleverRaven/Cataclysm-DDA/pull/57453))
 * fix: restore missing afs definition ([#57433](https://github.com/CleverRaven/Cataclysm-DDA/pull/57433))
-* clip closing zoom more loosley ([#57431](https://github.com/CleverRaven/Cataclysm-DDA/pull/57431))
