@@ -1,3 +1,10 @@
+* Appliance Repair professions ([#57637](https://github.com/CleverRaven/Cataclysm-DDA/pull/57637))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-13-0346 ([2a3cf01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0346))
+
+* Assassination professions and mission ([#57636](https://github.com/CleverRaven/Cataclysm-DDA/pull/57636))
 
 ---
 
@@ -161,7 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-05-09-0534 ([cd22ef2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0534))
 
 * Fix CBM wording ([#57528](https://github.com/CleverRaven/Cataclysm-DDA/pull/57528))
-* [MMA] Weapon Categories: Hylian Swordsmanship + a new technique ([#57427](https://github.com/CleverRaven/Cataclysm-DDA/pull/57427))
 * People weren't getting back their vision when meleeing ([#57516](https://github.com/CleverRaven/Cataclysm-DDA/pull/57516))
 * feat: use github auto assign label to issue templates ([#57534](https://github.com/CleverRaven/Cataclysm-DDA/pull/57534))
 * Scarfs organization ([#57535](https://github.com/CleverRaven/Cataclysm-DDA/pull/57535))
@@ -207,11 +213,6 @@
 * Fix heat shield typo ([#57490](https://github.com/CleverRaven/Cataclysm-DDA/pull/57490))
 * défense → defense ([#57487](https://github.com/CleverRaven/Cataclysm-DDA/pull/57487))
 * Fix for rats everywhere mutating ([#57473](https://github.com/CleverRaven/Cataclysm-DDA/pull/57473))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-07-2105 ([b0a7cf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-2105))
-
 * Add barbecue sauce ([#57495](https://github.com/CleverRaven/Cataclysm-DDA/pull/57495))
 * Update GAME_BALANCE document with more precise skill level defintions ([#57470](https://github.com/CleverRaven/Cataclysm-DDA/pull/57470))
 * make anchor soft ([#57469](https://github.com/CleverRaven/Cataclysm-DDA/pull/57469))
@@ -223,7 +224,6 @@
 * Tacoma - Add loot zones for bartender and scavenger boss ([#57449](https://github.com/CleverRaven/Cataclysm-DDA/pull/57449))
 * Trap-specific jsonified trigger messages ([#57448](https://github.com/CleverRaven/Cataclysm-DDA/pull/57448))
 * Warmth and Env. Protection small audit ([#57432](https://github.com/CleverRaven/Cataclysm-DDA/pull/57432))
-* Blacklist/whitelist map extras using flags ([#57428](https://github.com/CleverRaven/Cataclysm-DDA/pull/57428))
 * adding info about MAN_MADE to docs ([#57445](https://github.com/CleverRaven/Cataclysm-DDA/pull/57445))
 * Adjust Glass Sheet recipes ([#57467](https://github.com/CleverRaven/Cataclysm-DDA/pull/57467))
 * Unseal pocket after pickup ([#57451](https://github.com/CleverRaven/Cataclysm-DDA/pull/57451))
