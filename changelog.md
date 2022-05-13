@@ -1,3 +1,13 @@
+* Avoid debug_cardio overflow ([#57634](https://github.com/CleverRaven/Cataclysm-DDA/pull/57634))
+* Fixed weird roof on 2nd floor of twd motel ([#57644](https://github.com/CleverRaven/Cataclysm-DDA/pull/57644))
+* Store update - places I've missed ([#57651](https://github.com/CleverRaven/Cataclysm-DDA/pull/57651))
+* Align Motel Ladders ([#57655](https://github.com/CleverRaven/Cataclysm-DDA/pull/57655))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-13-0014 ([16565f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0014))
+
+* Bad Back cancels Strong Back ([#57656](https://github.com/CleverRaven/Cataclysm-DDA/pull/57656))
 
 ---
 
@@ -208,11 +218,6 @@
 * Retain monster inventory when changing type ([#57468](https://github.com/CleverRaven/Cataclysm-DDA/pull/57468))
 * Add the Excalibread (crazy cataclysm) ([#57465](https://github.com/CleverRaven/Cataclysm-DDA/pull/57465))
 * Chest protector actually covers the chest ([#57463](https://github.com/CleverRaven/Cataclysm-DDA/pull/57463))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-07-1532 ([42ddccb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-07-1532))
-
 * Charcoal forge and clay kiln can use coal ([#57458](https://github.com/CleverRaven/Cataclysm-DDA/pull/57458))
 * Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))
 * Tacoma - Add loot zones for bartender and scavenger boss ([#57449](https://github.com/CleverRaven/Cataclysm-DDA/pull/57449))
@@ -220,7 +225,6 @@
 * Warmth and Env. Protection small audit ([#57432](https://github.com/CleverRaven/Cataclysm-DDA/pull/57432))
 * Blacklist/whitelist map extras using flags ([#57428](https://github.com/CleverRaven/Cataclysm-DDA/pull/57428))
 * adding info about MAN_MADE to docs ([#57445](https://github.com/CleverRaven/Cataclysm-DDA/pull/57445))
-* Unify bolt/lever/pump-action spelling ([#57424](https://github.com/CleverRaven/Cataclysm-DDA/pull/57424))
 * Adjust Glass Sheet recipes ([#57467](https://github.com/CleverRaven/Cataclysm-DDA/pull/57467))
 * Unseal pocket after pickup ([#57451](https://github.com/CleverRaven/Cataclysm-DDA/pull/57451))
 * Added positive morale gain when setting creatures on fire for pyromaniacs ([#57435](https://github.com/CleverRaven/Cataclysm-DDA/pull/57435))
@@ -229,8 +233,3 @@
 * Fix the teamster's Hub 01 directions assign_mission_target ([#57453](https://github.com/CleverRaven/Cataclysm-DDA/pull/57453))
 * fix: restore missing afs definition ([#57433](https://github.com/CleverRaven/Cataclysm-DDA/pull/57433))
 * clip closing zoom more loosley ([#57431](https://github.com/CleverRaven/Cataclysm-DDA/pull/57431))
-* cause bread to be autolearned in "innawood" play ([#57423](https://github.com/CleverRaven/Cataclysm-DDA/pull/57423))
-* make the EXODII sniper a reliable rifle ([#57422](https://github.com/CleverRaven/Cataclysm-DDA/pull/57422))
-* Field for defining starting missions in professions/hobbies ([#57421](https://github.com/CleverRaven/Cataclysm-DDA/pull/57421))
-* New helmet stuff fixes ([#57416](https://github.com/CleverRaven/Cataclysm-DDA/pull/57416))
-* [DinoMod] blacklist dino mass grave ([#57415](https://github.com/CleverRaven/Cataclysm-DDA/pull/57415))
