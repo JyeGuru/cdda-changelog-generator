@@ -226,7 +226,6 @@
 * Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))
 * Tacoma - Add loot zones for bartender and scavenger boss ([#57449](https://github.com/CleverRaven/Cataclysm-DDA/pull/57449))
 * Trap-specific jsonified trigger messages ([#57448](https://github.com/CleverRaven/Cataclysm-DDA/pull/57448))
-* adding info about MAN_MADE to docs ([#57445](https://github.com/CleverRaven/Cataclysm-DDA/pull/57445))
 * Adjust Glass Sheet recipes ([#57467](https://github.com/CleverRaven/Cataclysm-DDA/pull/57467))
 * Unseal pocket after pickup ([#57451](https://github.com/CleverRaven/Cataclysm-DDA/pull/57451))
 * Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
