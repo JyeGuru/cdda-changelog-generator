@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-14-2208 ([e99f3b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-2208))
+
+* Cody will no longer give free duplicate artisan armor ([#57701](https://github.com/CleverRaven/Cataclysm-DDA/pull/57701))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-14-1851 ([ea157f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-1851))
 
 * Remove extra newlines ([#57691](https://github.com/CleverRaven/Cataclysm-DDA/pull/57691))
@@ -176,12 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-05-09-2231 ([dc48ac2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-2231))
 
 * Unique npc ids, allow interacting with npcs that are not in reality bubble ([#57533](https://github.com/CleverRaven/Cataclysm-DDA/pull/57533))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-09-2044 ([e3e4e28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-2044))
-
-* add remaining reses (even the nonsense ones) ([#57462](https://github.com/CleverRaven/Cataclysm-DDA/pull/57462))
 * Store Update 2 ([#57554](https://github.com/CleverRaven/Cataclysm-DDA/pull/57554))
 * Store Update 1 ([#57553](https://github.com/CleverRaven/Cataclysm-DDA/pull/57553))
 * Motel Update ([#57524](https://github.com/CleverRaven/Cataclysm-DDA/pull/57524))
@@ -191,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-05-09-1728 ([4be560b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-1728))
 
 * [DinoMod] Restore dino mass grave ([#57546](https://github.com/CleverRaven/Cataclysm-DDA/pull/57546))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-09-1410 ([6779b81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-1410))
-
 * Bugfix: Hub poncho and HWP toolkit can now hold the HWP Exotic barrel ([#57539](https://github.com/CleverRaven/Cataclysm-DDA/pull/57539))
 * Fix CBM wording ([#57528](https://github.com/CleverRaven/Cataclysm-DDA/pull/57528))
 * People weren't getting back their vision when meleeing ([#57516](https://github.com/CleverRaven/Cataclysm-DDA/pull/57516))

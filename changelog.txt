@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-14-2208 (e99f3b2)
+* Cody will no longer give free duplicate artisan armor (#57701)
+
 Cataclysm-DDA experimental build 2022-05-14-1851 (ea157f5)
 * Remove extra newlines (#57691)
 * Include case use for snippet override for NPCs (#57668)
@@ -98,17 +101,12 @@ Cataclysm-DDA experimental build 2022-05-10-0211 (147fb80)
 
 Cataclysm-DDA experimental build 2022-05-09-2231 (dc48ac2)
 * Unique npc ids, allow interacting with npcs that are not in reality bubble (#57533)
-
-Cataclysm-DDA experimental build 2022-05-09-2044 (e3e4e28)
-* add remaining reses (even the nonsense ones) (#57462)
 * Store Update 2 (#57554)
 * Store Update 1 (#57553)
 * Motel Update (#57524)
 
 Cataclysm-DDA experimental build 2022-05-09-1728 (4be560b)
 * [DinoMod] Restore dino mass grave (#57546)
-
-Cataclysm-DDA experimental build 2022-05-09-1410 (6779b81)
 * Bugfix: Hub poncho and HWP toolkit can now hold the HWP Exotic barrel (#57539)
 * Fix CBM wording (#57528)
 * People weren't getting back their vision when meleeing (#57516)
