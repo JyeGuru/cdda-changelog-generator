@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-14-1851 ([ea157f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-1851))
+
 * Remove extra newlines ([#57691](https://github.com/CleverRaven/Cataclysm-DDA/pull/57691))
 * Include case use for snippet override for NPCs ([#57668](https://github.com/CleverRaven/Cataclysm-DDA/pull/57668))
 * Bondage love ([#57669](https://github.com/CleverRaven/Cataclysm-DDA/pull/57669))
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-05-09-1410 ([6779b81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-1410))
 
 * Bugfix: Hub poncho and HWP toolkit can now hold the HWP Exotic barrel ([#57539](https://github.com/CleverRaven/Cataclysm-DDA/pull/57539))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-09-0534 ([cd22ef2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0534))
-
 * Fix CBM wording ([#57528](https://github.com/CleverRaven/Cataclysm-DDA/pull/57528))
 * People weren't getting back their vision when meleeing ([#57516](https://github.com/CleverRaven/Cataclysm-DDA/pull/57516))
 * feat: use github auto assign label to issue templates ([#57534](https://github.com/CleverRaven/Cataclysm-DDA/pull/57534))

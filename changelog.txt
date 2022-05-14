@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-14-1851 (ea157f5)
 * Remove extra newlines (#57691)
 * Include case use for snippet override for NPCs (#57668)
 * Bondage love (#57669)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2022-05-09-1728 (4be560b)
 
 Cataclysm-DDA experimental build 2022-05-09-1410 (6779b81)
 * Bugfix: Hub poncho and HWP toolkit can now hold the HWP Exotic barrel (#57539)
-
-Cataclysm-DDA experimental build 2022-05-09-0534 (cd22ef2)
 * Fix CBM wording (#57528)
 * People weren't getting back their vision when meleeing (#57516)
 * feat: use github auto assign label to issue templates (#57534)
