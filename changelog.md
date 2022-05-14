@@ -1,3 +1,12 @@
+* Make alcohol washes freeze at lower temperature ([#57507](https://github.com/CleverRaven/Cataclysm-DDA/pull/57507))
+* Remove space before "cm" ([#57518](https://github.com/CleverRaven/Cataclysm-DDA/pull/57518))
+* More Armor UI Upgrades ([#57628](https://github.com/CleverRaven/Cataclysm-DDA/pull/57628))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-14-1744 ([77adc61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-1744))
+
+* calendar: relax time_accuracy enumeration ([#57672](https://github.com/CleverRaven/Cataclysm-DDA/pull/57672))
 
 ---
 
@@ -108,7 +117,6 @@
 
 * Change pieces → recipes in book description ([#57586](https://github.com/CleverRaven/Cataclysm-DDA/pull/57586))
 * Add missing activity deserializers ([#57614](https://github.com/CleverRaven/Cataclysm-DDA/pull/57614))
-* Added variant to house08 ([#57446](https://github.com/CleverRaven/Cataclysm-DDA/pull/57446))
 * Z level transparency flag for better skylights ([#57551](https://github.com/CleverRaven/Cataclysm-DDA/pull/57551))
 * Grim reaper's scythe adjustments ([#57613](https://github.com/CleverRaven/Cataclysm-DDA/pull/57613))
 * inventory_ui: save uimode to uistate ([#57574](https://github.com/CleverRaven/Cataclysm-DDA/pull/57574))
@@ -193,11 +201,6 @@
 * Fix bug with invalid alpha talker ([#57561](https://github.com/CleverRaven/Cataclysm-DDA/pull/57561))
 * Remove extra comma ([#57563](https://github.com/CleverRaven/Cataclysm-DDA/pull/57563))
 * Change the id to actual item name ([#57566](https://github.com/CleverRaven/Cataclysm-DDA/pull/57566))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-09-0429 ([1902180](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0429))
-
 * Remove space between number and mm ([#57568](https://github.com/CleverRaven/Cataclysm-DDA/pull/57568))
 * First aid item deletion fix ([#57538](https://github.com/CleverRaven/Cataclysm-DDA/pull/57538))
 * LANGUAGE->LANGUAGES in COMPILING.md ([#57532](https://github.com/CleverRaven/Cataclysm-DDA/pull/57532))
@@ -224,10 +227,7 @@
 * Chest protector actually covers the chest ([#57463](https://github.com/CleverRaven/Cataclysm-DDA/pull/57463))
 * Charcoal forge and clay kiln can use coal ([#57458](https://github.com/CleverRaven/Cataclysm-DDA/pull/57458))
 * Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))
-* Tacoma - Add loot zones for bartender and scavenger boss ([#57449](https://github.com/CleverRaven/Cataclysm-DDA/pull/57449))
-* Trap-specific jsonified trigger messages ([#57448](https://github.com/CleverRaven/Cataclysm-DDA/pull/57448))
 * Adjust Glass Sheet recipes ([#57467](https://github.com/CleverRaven/Cataclysm-DDA/pull/57467))
 * Unseal pocket after pickup ([#57451](https://github.com/CleverRaven/Cataclysm-DDA/pull/57451))
-* Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
 * zones: add debug option for showing foreign zones ([#57452](https://github.com/CleverRaven/Cataclysm-DDA/pull/57452))
 * Fix the teamster's Hub 01 directions assign_mission_target ([#57453](https://github.com/CleverRaven/Cataclysm-DDA/pull/57453))
