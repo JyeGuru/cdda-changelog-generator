@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-14-0602 (5f60b52)
+* Routine i18n updates on 14 May 2022 (#57682)
+
 Cataclysm-DDA experimental build 2022-05-13-0818 (7c0b8b2)
 * Make few magiclysm location a bit more visible (#57604)
 
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2022-05-09-0534 (cd22ef2)
 
 Cataclysm-DDA experimental build 2022-05-09-0429 (1902180)
 * Remove space between number and mm (#57568)
-
-Cataclysm-DDA experimental build 2022-05-09-0218 (68fbf0b)
 * First aid item deletion fix (#57538)
 * LANGUAGE->LANGUAGES in COMPILING.md (#57532)
 * Unify loot zone names (#57531)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2022-05-09-0218 (68fbf0b)
 * adding info about MAN_MADE to docs (#57445)
 * Adjust Glass Sheet recipes (#57467)
 * Unseal pocket after pickup (#57451)
-* Added positive morale gain when setting creatures on fire for pyromaniacs (#57435)
 * Unflub clang-tidy (#57450)
 * zones: add debug option for showing foreign zones (#57452)
 * Fix the teamster's Hub 01 directions assign_mission_target (#57453)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-14-0602 ([5f60b52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-0602))
+
+* Routine i18n updates on 14 May 2022 ([#57682](https://github.com/CleverRaven/Cataclysm-DDA/pull/57682))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-13-0818 ([7c0b8b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0818))
 
 * Make few magiclysm location a bit more visible ([#57604](https://github.com/CleverRaven/Cataclysm-DDA/pull/57604))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2022-05-09-0429 ([1902180](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0429))
 
 * Remove space between number and mm ([#57568](https://github.com/CleverRaven/Cataclysm-DDA/pull/57568))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-09-0218 ([68fbf0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-09-0218))
-
 * First aid item deletion fix ([#57538](https://github.com/CleverRaven/Cataclysm-DDA/pull/57538))
 * LANGUAGE->LANGUAGES in COMPILING.md ([#57532](https://github.com/CleverRaven/Cataclysm-DDA/pull/57532))
 * Unify loot zone names ([#57531](https://github.com/CleverRaven/Cataclysm-DDA/pull/57531))
@@ -228,7 +229,6 @@
 * adding info about MAN_MADE to docs ([#57445](https://github.com/CleverRaven/Cataclysm-DDA/pull/57445))
 * Adjust Glass Sheet recipes ([#57467](https://github.com/CleverRaven/Cataclysm-DDA/pull/57467))
 * Unseal pocket after pickup ([#57451](https://github.com/CleverRaven/Cataclysm-DDA/pull/57451))
-* Added positive morale gain when setting creatures on fire for pyromaniacs ([#57435](https://github.com/CleverRaven/Cataclysm-DDA/pull/57435))
 * Unflub clang-tidy ([#57450](https://github.com/CleverRaven/Cataclysm-DDA/pull/57450))
 * zones: add debug option for showing foreign zones ([#57452](https://github.com/CleverRaven/Cataclysm-DDA/pull/57452))
 * Fix the teamster's Hub 01 directions assign_mission_target ([#57453](https://github.com/CleverRaven/Cataclysm-DDA/pull/57453))
