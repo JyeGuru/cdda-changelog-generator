@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-15-2324 ([eafc5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-2324))
+
+* Wrists -> Fingers in armor summary UI ([#57731](https://github.com/CleverRaven/Cataclysm-DDA/pull/57731))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-15-2138 ([0e527d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-2138))
 
 * Missions: Allow goal condition without an NPC when using ORIGIN_GAME_START ([#57609](https://github.com/CleverRaven/Cataclysm-DDA/pull/57609))
@@ -51,7 +57,6 @@
 * Include case use for snippet override for NPCs ([#57668](https://github.com/CleverRaven/Cataclysm-DDA/pull/57668))
 * Bondage love ([#57669](https://github.com/CleverRaven/Cataclysm-DDA/pull/57669))
 * Beach clothing ([#57641](https://github.com/CleverRaven/Cataclysm-DDA/pull/57641))
-* Make alcohol washes freeze at lower temperature ([#57507](https://github.com/CleverRaven/Cataclysm-DDA/pull/57507))
 * Remove space before "cm" ([#57518](https://github.com/CleverRaven/Cataclysm-DDA/pull/57518))
 * More Armor UI Upgrades ([#57628](https://github.com/CleverRaven/Cataclysm-DDA/pull/57628))
 
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-05-10-2025 ([064ac27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-2025))
 
 * add eggs to ordinary wasp nesp ([#57583](https://github.com/CleverRaven/Cataclysm-DDA/pull/57583))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-10-1536 ([0bf16a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-1536))
-
 * Cutting chain link fence will now yield wires instead of steel chunk ([#57602](https://github.com/CleverRaven/Cataclysm-DDA/pull/57602))
 * Add prof_quenching to tempered armor recipes ([#57596](https://github.com/CleverRaven/Cataclysm-DDA/pull/57596))
 * [Innawoods] New lost tribal profession ([#57603](https://github.com/CleverRaven/Cataclysm-DDA/pull/57603))
