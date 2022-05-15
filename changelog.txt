@@ -1,3 +1,5 @@
+* Audit mutations for in-category reachability (#57611)
+* Update gun cleaning (#57599)
 
 Cataclysm-DDA experimental build 2022-05-15-2019 (d5502cf)
 * Adjust P90 and PS90 mod slots. Add P90 magazine longest_side (#57567)
@@ -138,5 +140,3 @@ Cataclysm-DDA experimental build 2022-05-10-1434 (c228b98)
 * Vehicle controls → vehicle controls (#57514)
 * Unify gas-operated spelling (#57512)
 * Cash registers (#57523)
-* Add barbecue sauce (#57495)
-* Routine i18n updates on 07 May 2022 (#57498)

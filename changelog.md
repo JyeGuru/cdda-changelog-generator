@@ -1,3 +1,5 @@
+* Audit mutations for in-category reachability ([#57611](https://github.com/CleverRaven/Cataclysm-DDA/pull/57611))
+* Update gun cleaning ([#57599](https://github.com/CleverRaven/Cataclysm-DDA/pull/57599))
 
 ---
 
@@ -216,5 +218,3 @@
 * Vehicle controls → vehicle controls ([#57514](https://github.com/CleverRaven/Cataclysm-DDA/pull/57514))
 * Unify gas-operated spelling ([#57512](https://github.com/CleverRaven/Cataclysm-DDA/pull/57512))
 * Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))
-* Add barbecue sauce ([#57495](https://github.com/CleverRaven/Cataclysm-DDA/pull/57495))
-* Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))
