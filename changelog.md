@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-15-1448 ([89f95bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-1448))
+
+* Adds monster armors ([#57471](https://github.com/CleverRaven/Cataclysm-DDA/pull/57471))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-15-0543 ([6a66c47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-0543))
 
 * Carl Gustav → Carl Gustaf ([#57710](https://github.com/CleverRaven/Cataclysm-DDA/pull/57710))
@@ -230,4 +236,3 @@
 * make anchor soft ([#57469](https://github.com/CleverRaven/Cataclysm-DDA/pull/57469))
 * Retain monster inventory when changing type ([#57468](https://github.com/CleverRaven/Cataclysm-DDA/pull/57468))
 * Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))
-* Adjust Glass Sheet recipes ([#57467](https://github.com/CleverRaven/Cataclysm-DDA/pull/57467))
