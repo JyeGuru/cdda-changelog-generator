@@ -1,3 +1,4 @@
+* zones: only serde during regular savegame serde ([#57476](https://github.com/CleverRaven/Cataclysm-DDA/pull/57476))
 
 ---
 
@@ -223,6 +224,4 @@
 * Fix for rats everywhere mutating ([#57473](https://github.com/CleverRaven/Cataclysm-DDA/pull/57473))
 * Add barbecue sauce ([#57495](https://github.com/CleverRaven/Cataclysm-DDA/pull/57495))
 * Update GAME_BALANCE document with more precise skill level defintions ([#57470](https://github.com/CleverRaven/Cataclysm-DDA/pull/57470))
-* make anchor soft ([#57469](https://github.com/CleverRaven/Cataclysm-DDA/pull/57469))
-* Retain monster inventory when changing type ([#57468](https://github.com/CleverRaven/Cataclysm-DDA/pull/57468))
 * Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))

@@ -1,3 +1,4 @@
+* zones: only serde during regular savegame serde (#57476)
 
 Cataclysm-DDA experimental build 2022-05-15-1448 (89f95bb)
 * Adds monster armors (#57471)
@@ -139,6 +140,4 @@ Cataclysm-DDA experimental build 2022-05-10-0322 (b072194)
 * Fix for rats everywhere mutating (#57473)
 * Add barbecue sauce (#57495)
 * Update GAME_BALANCE document with more precise skill level defintions (#57470)
-* make anchor soft (#57469)
-* Retain monster inventory when changing type (#57468)
 * Routine i18n updates on 07 May 2022 (#57498)
