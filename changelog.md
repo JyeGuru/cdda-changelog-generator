@@ -188,11 +188,6 @@
 * Store Update 4 ([#57556](https://github.com/CleverRaven/Cataclysm-DDA/pull/57556))
 * Store Update 3 ([#57555](https://github.com/CleverRaven/Cataclysm-DDA/pull/57555))
 * Fix potential nullptr crash when crafting ([#57587](https://github.com/CleverRaven/Cataclysm-DDA/pull/57587))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-10-0211 ([147fb80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-0211))
-
 * Prevent crash when using page down in options menu ([#57594](https://github.com/CleverRaven/Cataclysm-DDA/pull/57594))
 * Unique npc ids, allow interacting with npcs that are not in reality bubble ([#57533](https://github.com/CleverRaven/Cataclysm-DDA/pull/57533))
 * Store Update 2 ([#57554](https://github.com/CleverRaven/Cataclysm-DDA/pull/57554))

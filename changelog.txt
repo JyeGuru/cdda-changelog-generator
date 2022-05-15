@@ -104,8 +104,6 @@ Cataclysm-DDA experimental build 2022-05-10-0322 (b072194)
 * Store Update 4 (#57556)
 * Store Update 3 (#57555)
 * Fix potential nullptr crash when crafting (#57587)
-
-Cataclysm-DDA experimental build 2022-05-10-0211 (147fb80)
 * Prevent crash when using page down in options menu (#57594)
 * Unique npc ids, allow interacting with npcs that are not in reality bubble (#57533)
 * Store Update 2 (#57554)
