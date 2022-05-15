@@ -107,8 +107,6 @@ Cataclysm-DDA experimental build 2022-05-10-0322 (b072194)
 
 Cataclysm-DDA experimental build 2022-05-10-0211 (147fb80)
 * Prevent crash when using page down in options menu (#57594)
-
-Cataclysm-DDA experimental build 2022-05-09-2231 (dc48ac2)
 * Unique npc ids, allow interacting with npcs that are not in reality bubble (#57533)
 * Store Update 2 (#57554)
 * Store Update 1 (#57553)
