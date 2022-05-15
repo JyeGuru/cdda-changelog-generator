@@ -1,3 +1,4 @@
+* Missions: Allow goal condition without an NPC when using ORIGIN_GAME_START ([#57609](https://github.com/CleverRaven/Cataclysm-DDA/pull/57609))
 * Audit mutations for in-category reachability ([#57611](https://github.com/CleverRaven/Cataclysm-DDA/pull/57611))
 * Update gun cleaning ([#57599](https://github.com/CleverRaven/Cataclysm-DDA/pull/57599))
 
