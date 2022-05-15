@@ -1,10 +1,12 @@
-* zones: only serde during regular savegame serde ([#57476](https://github.com/CleverRaven/Cataclysm-DDA/pull/57476))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-15-1448 ([89f95bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-1448))
-
-* Adds monster armors ([#57471](https://github.com/CleverRaven/Cataclysm-DDA/pull/57471))
+* Maybe Later → Maybe later ([#57703](https://github.com/CleverRaven/Cataclysm-DDA/pull/57703))
+* Add durable melee flag to the Disorder ([#57712](https://github.com/CleverRaven/Cataclysm-DDA/pull/57712))
+* Change ; to , for throwing prompts ([#57713](https://github.com/CleverRaven/Cataclysm-DDA/pull/57713))
+* zones: don't rotate personal zones ([#57721](https://github.com/CleverRaven/Cataclysm-DDA/pull/57721))
+* Railroad Update ([#57707](https://github.com/CleverRaven/Cataclysm-DDA/pull/57707))
+* Comes in size XX → Comes in XX size ([#57728](https://github.com/CleverRaven/Cataclysm-DDA/pull/57728))
+* member → Member ([#57726](https://github.com/CleverRaven/Cataclysm-DDA/pull/57726))
+* chainlink → chain link ([#57725](https://github.com/CleverRaven/Cataclysm-DDA/pull/57725))
+* cataclysm → Cataclysm ([#57724](https://github.com/CleverRaven/Cataclysm-DDA/pull/57724))
 
 ---
 
@@ -179,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-05-10-0523 ([a2ea872](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-0523))
 
 * Add recipe for thick rubber chunk ([#57576](https://github.com/CleverRaven/Cataclysm-DDA/pull/57576))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-10-0322 ([b072194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-0322))
-
 * Store Update 6 ([#57558](https://github.com/CleverRaven/Cataclysm-DDA/pull/57558))
 * Store Update 5 ([#57557](https://github.com/CleverRaven/Cataclysm-DDA/pull/57557))
 * Store Update 4 ([#57556](https://github.com/CleverRaven/Cataclysm-DDA/pull/57556))
@@ -215,13 +212,8 @@
 * Vehicle controls → vehicle controls ([#57514](https://github.com/CleverRaven/Cataclysm-DDA/pull/57514))
 * Unify gas-operated spelling ([#57512](https://github.com/CleverRaven/Cataclysm-DDA/pull/57512))
 * Firstaid QOL improvements ([#57491](https://github.com/CleverRaven/Cataclysm-DDA/pull/57491))
-* Fix crash when hiding sprite without clothes ([#57485](https://github.com/CleverRaven/Cataclysm-DDA/pull/57485))
-* Added positive morale gain when casting fire-related spells for pyromaniacs ([#57474](https://github.com/CleverRaven/Cataclysm-DDA/pull/57474))
-* Tacoma - misc fixes ([#57481](https://github.com/CleverRaven/Cataclysm-DDA/pull/57481))
 * Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))
 * Fix heat shield typo ([#57490](https://github.com/CleverRaven/Cataclysm-DDA/pull/57490))
 * défense → defense ([#57487](https://github.com/CleverRaven/Cataclysm-DDA/pull/57487))
-* Fix for rats everywhere mutating ([#57473](https://github.com/CleverRaven/Cataclysm-DDA/pull/57473))
 * Add barbecue sauce ([#57495](https://github.com/CleverRaven/Cataclysm-DDA/pull/57495))
-* Update GAME_BALANCE document with more precise skill level defintions ([#57470](https://github.com/CleverRaven/Cataclysm-DDA/pull/57470))
 * Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))
