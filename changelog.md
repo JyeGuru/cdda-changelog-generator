@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-15-2019 ([d5502cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-2019))
+
 * Adjust P90 and PS90 mod slots. Add P90 magazine longest_side ([#57567](https://github.com/CleverRaven/Cataclysm-DDA/pull/57567))
 * Update childlike fetch singular to match plural ([#57729](https://github.com/CleverRaven/Cataclysm-DDA/pull/57729))
 * Add plural for shimmer wolf ([#57730](https://github.com/CleverRaven/Cataclysm-DDA/pull/57730))
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-05-10-1434 ([c228b98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-1434))
 
 * [Innawoods] New lost tribal profession ([#57603](https://github.com/CleverRaven/Cataclysm-DDA/pull/57603))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-10-0523 ([a2ea872](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-0523))
-
 * Add recipe for thick rubber chunk ([#57576](https://github.com/CleverRaven/Cataclysm-DDA/pull/57576))
 * Store Update 6 ([#57558](https://github.com/CleverRaven/Cataclysm-DDA/pull/57558))
 * Store Update 5 ([#57557](https://github.com/CleverRaven/Cataclysm-DDA/pull/57557))
