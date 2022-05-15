@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-15-2138 (0e527d8)
 * Missions: Allow goal condition without an NPC when using ORIGIN_GAME_START (#57609)
 * Audit mutations for in-category reachability (#57611)
 * Update gun cleaning (#57599)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2022-05-10-2025 (064ac27)
 Cataclysm-DDA experimental build 2022-05-10-1536 (0bf16a2)
 * Cutting chain link fence will now yield wires instead of steel chunk (#57602)
 * Add prof_quenching to tempered armor recipes (#57596)
-
-Cataclysm-DDA experimental build 2022-05-10-1434 (c228b98)
 * [Innawoods] New lost tribal profession (#57603)
 * Add recipe for thick rubber chunk (#57576)
 * Store Update 6 (#57558)
