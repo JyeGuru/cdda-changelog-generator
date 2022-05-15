@@ -1,3 +1,4 @@
+* Adjust P90 and PS90 mod slots. Add P90 magazine longest_side ([#57567](https://github.com/CleverRaven/Cataclysm-DDA/pull/57567))
 * Update childlike fetch singular to match plural ([#57729](https://github.com/CleverRaven/Cataclysm-DDA/pull/57729))
 * Add plural for shimmer wolf ([#57730](https://github.com/CleverRaven/Cataclysm-DDA/pull/57730))
 * Remove default `c_black_white` from headers ([#57693](https://github.com/CleverRaven/Cataclysm-DDA/pull/57693))
@@ -214,7 +215,6 @@
 * Fix heat from nearby sources when blind ([#57515](https://github.com/CleverRaven/Cataclysm-DDA/pull/57515))
 * Vehicle controls → vehicle controls ([#57514](https://github.com/CleverRaven/Cataclysm-DDA/pull/57514))
 * Unify gas-operated spelling ([#57512](https://github.com/CleverRaven/Cataclysm-DDA/pull/57512))
-* Firstaid QOL improvements ([#57491](https://github.com/CleverRaven/Cataclysm-DDA/pull/57491))
 * Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))
 * Add barbecue sauce ([#57495](https://github.com/CleverRaven/Cataclysm-DDA/pull/57495))
 * Routine i18n updates on 07 May 2022 ([#57498](https://github.com/CleverRaven/Cataclysm-DDA/pull/57498))
