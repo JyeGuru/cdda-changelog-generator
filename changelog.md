@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-16-0037 ([d8897bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-16-0037))
+
+* Hub 01 Environment suit now has proper boot and glove parts ([#57709](https://github.com/CleverRaven/Cataclysm-DDA/pull/57709))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-15-2324 ([eafc5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-2324))
 
 * Wrists -> Fingers in armor summary UI ([#57731](https://github.com/CleverRaven/Cataclysm-DDA/pull/57731))
@@ -178,11 +184,6 @@
 * Z level transparency flag for better skylights ([#57551](https://github.com/CleverRaven/Cataclysm-DDA/pull/57551))
 * Grim reaper's scythe adjustments ([#57613](https://github.com/CleverRaven/Cataclysm-DDA/pull/57613))
 * inventory_ui: save uimode to uistate ([#57574](https://github.com/CleverRaven/Cataclysm-DDA/pull/57574))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-10-2025 ([064ac27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-2025))
-
 * add eggs to ordinary wasp nesp ([#57583](https://github.com/CleverRaven/Cataclysm-DDA/pull/57583))
 * Cutting chain link fence will now yield wires instead of steel chunk ([#57602](https://github.com/CleverRaven/Cataclysm-DDA/pull/57602))
 * Add prof_quenching to tempered armor recipes ([#57596](https://github.com/CleverRaven/Cataclysm-DDA/pull/57596))
@@ -217,5 +218,4 @@
 * Fix vehicle interact casing ([#57517](https://github.com/CleverRaven/Cataclysm-DDA/pull/57517))
 * Fix heat from nearby sources when blind ([#57515](https://github.com/CleverRaven/Cataclysm-DDA/pull/57515))
 * Vehicle controls → vehicle controls ([#57514](https://github.com/CleverRaven/Cataclysm-DDA/pull/57514))
-* Unify gas-operated spelling ([#57512](https://github.com/CleverRaven/Cataclysm-DDA/pull/57512))
 * Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))

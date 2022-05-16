@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-16-0037 (d8897bc)
+* Hub 01 Environment suit now has proper boot and glove parts (#57709)
+
 Cataclysm-DDA experimental build 2022-05-15-2324 (eafc5f2)
 * Wrists -> Fingers in armor summary UI (#57731)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2022-05-10-2157 (9e10426)
 * Z level transparency flag for better skylights (#57551)
 * Grim reaper's scythe adjustments (#57613)
 * inventory_ui: save uimode to uistate (#57574)
-
-Cataclysm-DDA experimental build 2022-05-10-2025 (064ac27)
 * add eggs to ordinary wasp nesp (#57583)
 * Cutting chain link fence will now yield wires instead of steel chunk (#57602)
 * Add prof_quenching to tempered armor recipes (#57596)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2022-05-10-2025 (064ac27)
 * Fix vehicle interact casing (#57517)
 * Fix heat from nearby sources when blind (#57515)
 * Vehicle controls → vehicle controls (#57514)
-* Unify gas-operated spelling (#57512)
 * Cash registers (#57523)
