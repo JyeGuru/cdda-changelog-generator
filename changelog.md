@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-16-0602 ([e87eb80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-16-0602))
+
+* Remove extra space from a terrain name ([#57711](https://github.com/CleverRaven/Cataclysm-DDA/pull/57711))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-16-0037 ([d8897bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-16-0037))
 
 * Hub 01 Environment suit now has proper boot and glove parts ([#57709](https://github.com/CleverRaven/Cataclysm-DDA/pull/57709))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-05-10-2315 ([1d42ceb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-2315))
 
 * Fixed move cost for open privacy gate ([#57608](https://github.com/CleverRaven/Cataclysm-DDA/pull/57608))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-10-2157 ([9e10426](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-2157))
-
 * Change pieces → recipes in book description ([#57586](https://github.com/CleverRaven/Cataclysm-DDA/pull/57586))
 * Add missing activity deserializers ([#57614](https://github.com/CleverRaven/Cataclysm-DDA/pull/57614))
 * Z level transparency flag for better skylights ([#57551](https://github.com/CleverRaven/Cataclysm-DDA/pull/57551))
@@ -217,5 +218,4 @@
 * 57522 fixes missing question mark on item examine promt UI ([#57540](https://github.com/CleverRaven/Cataclysm-DDA/pull/57540))
 * Fix vehicle interact casing ([#57517](https://github.com/CleverRaven/Cataclysm-DDA/pull/57517))
 * Fix heat from nearby sources when blind ([#57515](https://github.com/CleverRaven/Cataclysm-DDA/pull/57515))
-* Vehicle controls → vehicle controls ([#57514](https://github.com/CleverRaven/Cataclysm-DDA/pull/57514))
 * Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))
