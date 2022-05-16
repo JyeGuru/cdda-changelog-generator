@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-16-2138 ([556afb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-16-2138))
+
+* Make 8x40mm 50-round box mag rigid ([#57741](https://github.com/CleverRaven/Cataclysm-DDA/pull/57741))
 * Add new marina roof OMTs to test whitelist ([#57663](https://github.com/CleverRaven/Cataclysm-DDA/pull/57663))
 
 ---
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-05-11-0153 ([e9b6c33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-0153))
 
 * Fix accidental sign change in calorie consumption ([#57615](https://github.com/CleverRaven/Cataclysm-DDA/pull/57615))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-10-2315 ([1d42ceb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-10-2315))
-
 * Fixed move cost for open privacy gate ([#57608](https://github.com/CleverRaven/Cataclysm-DDA/pull/57608))
 * Change pieces → recipes in book description ([#57586](https://github.com/CleverRaven/Cataclysm-DDA/pull/57586))
 * Add missing activity deserializers ([#57614](https://github.com/CleverRaven/Cataclysm-DDA/pull/57614))
@@ -204,7 +205,6 @@
 * [DinoMod] Restore dino mass grave ([#57546](https://github.com/CleverRaven/Cataclysm-DDA/pull/57546))
 * Bugfix: Hub poncho and HWP toolkit can now hold the HWP Exotic barrel ([#57539](https://github.com/CleverRaven/Cataclysm-DDA/pull/57539))
 * Fix CBM wording ([#57528](https://github.com/CleverRaven/Cataclysm-DDA/pull/57528))
-* People weren't getting back their vision when meleeing ([#57516](https://github.com/CleverRaven/Cataclysm-DDA/pull/57516))
 * feat: use github auto assign label to issue templates ([#57534](https://github.com/CleverRaven/Cataclysm-DDA/pull/57534))
 * Scarfs organization ([#57535](https://github.com/CleverRaven/Cataclysm-DDA/pull/57535))
 * Fix `uilist` treating `j`, `k`, etc. as directional keys and ignoring item action hotkeys ([#57541](https://github.com/CleverRaven/Cataclysm-DDA/pull/57541))

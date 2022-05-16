@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-05-16-2138 (556afb9)
+* Make 8x40mm 50-round box mag rigid (#57741)
 * Add new marina roof OMTs to test whitelist (#57663)
 
 Cataclysm-DDA experimental build 2022-05-16-0602 (e87eb80)
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2022-05-11-0312 (9b1541e)
 
 Cataclysm-DDA experimental build 2022-05-11-0153 (e9b6c33)
 * Fix accidental sign change in calorie consumption (#57615)
-
-Cataclysm-DDA experimental build 2022-05-10-2315 (1d42ceb)
 * Fixed move cost for open privacy gate (#57608)
 * Change pieces → recipes in book description (#57586)
 * Add missing activity deserializers (#57614)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2022-05-10-2315 (1d42ceb)
 * [DinoMod] Restore dino mass grave (#57546)
 * Bugfix: Hub poncho and HWP toolkit can now hold the HWP Exotic barrel (#57539)
 * Fix CBM wording (#57528)
-* People weren't getting back their vision when meleeing (#57516)
 * feat: use github auto assign label to issue templates (#57534)
 * Scarfs organization (#57535)
 * Fix `uilist` treating `j`, `k`, etc. as directional keys and ignoring item action hotkeys (#57541)
