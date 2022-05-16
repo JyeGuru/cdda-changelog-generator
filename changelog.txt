@@ -1,3 +1,4 @@
+* Add new marina roof OMTs to test whitelist (#57663)
 
 Cataclysm-DDA experimental build 2022-05-16-0602 (e87eb80)
 * Remove extra space from a terrain name (#57711)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2022-05-10-2315 (1d42ceb)
 * Calc FOV off recoil not stability (#57529)
 * 57522 fixes missing question mark on item examine promt UI (#57540)
 * Fix vehicle interact casing (#57517)
-* Fix heat from nearby sources when blind (#57515)
 * Cash registers (#57523)

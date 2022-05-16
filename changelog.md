@@ -1,3 +1,4 @@
+* Add new marina roof OMTs to test whitelist ([#57663](https://github.com/CleverRaven/Cataclysm-DDA/pull/57663))
 
 ---
 
@@ -217,5 +218,4 @@
 * Calc FOV off recoil not stability ([#57529](https://github.com/CleverRaven/Cataclysm-DDA/pull/57529))
 * 57522 fixes missing question mark on item examine promt UI ([#57540](https://github.com/CleverRaven/Cataclysm-DDA/pull/57540))
 * Fix vehicle interact casing ([#57517](https://github.com/CleverRaven/Cataclysm-DDA/pull/57517))
-* Fix heat from nearby sources when blind ([#57515](https://github.com/CleverRaven/Cataclysm-DDA/pull/57515))
 * Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))
