@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-17-1927 ([29bbc8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-1927))
+
+* Fix a typo 150000->15000 in POSTAPOC_PRICE_GUIDE.md ([#57750](https://github.com/CleverRaven/Cataclysm-DDA/pull/57750))
+* limit test failures to 20 things for density ([#57772](https://github.com/CleverRaven/Cataclysm-DDA/pull/57772))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-17-0536 ([681c2a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-0536))
 
 * Adjust flip-flops encumbrance ([#57740](https://github.com/CleverRaven/Cataclysm-DDA/pull/57740))
@@ -169,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-05-11-0512 ([c1e2b3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-0512))
 
 * Fix house_08 mapgen errors ([#57618](https://github.com/CleverRaven/Cataclysm-DDA/pull/57618))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-11-0312 ([9b1541e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-0312))
-
 * Progress update while heating food ([#57598](https://github.com/CleverRaven/Cataclysm-DDA/pull/57598))
 * Fix accidental sign change in calorie consumption ([#57615](https://github.com/CleverRaven/Cataclysm-DDA/pull/57615))
 * Fixed move cost for open privacy gate ([#57608](https://github.com/CleverRaven/Cataclysm-DDA/pull/57608))
@@ -196,7 +198,6 @@
 * Unique npc ids, allow interacting with npcs that are not in reality bubble ([#57533](https://github.com/CleverRaven/Cataclysm-DDA/pull/57533))
 * Store Update 2 ([#57554](https://github.com/CleverRaven/Cataclysm-DDA/pull/57554))
 * Store Update 1 ([#57553](https://github.com/CleverRaven/Cataclysm-DDA/pull/57553))
-* Motel Update ([#57524](https://github.com/CleverRaven/Cataclysm-DDA/pull/57524))
 * [DinoMod] Restore dino mass grave ([#57546](https://github.com/CleverRaven/Cataclysm-DDA/pull/57546))
 * Bugfix: Hub poncho and HWP toolkit can now hold the HWP Exotic barrel ([#57539](https://github.com/CleverRaven/Cataclysm-DDA/pull/57539))
 * Fix CBM wording ([#57528](https://github.com/CleverRaven/Cataclysm-DDA/pull/57528))
@@ -212,4 +213,3 @@
 * Unify loot zone names ([#57531](https://github.com/CleverRaven/Cataclysm-DDA/pull/57531))
 * Calc FOV off recoil not stability ([#57529](https://github.com/CleverRaven/Cataclysm-DDA/pull/57529))
 * 57522 fixes missing question mark on item examine promt UI ([#57540](https://github.com/CleverRaven/Cataclysm-DDA/pull/57540))
-* Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))
