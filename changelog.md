@@ -1,3 +1,4 @@
+* Revert "feat: use github auto assign label to issue templates" ([#57763](https://github.com/CleverRaven/Cataclysm-DDA/pull/57763))
 
 ---
 
@@ -217,5 +218,4 @@
 * Unify loot zone names ([#57531](https://github.com/CleverRaven/Cataclysm-DDA/pull/57531))
 * Calc FOV off recoil not stability ([#57529](https://github.com/CleverRaven/Cataclysm-DDA/pull/57529))
 * 57522 fixes missing question mark on item examine promt UI ([#57540](https://github.com/CleverRaven/Cataclysm-DDA/pull/57540))
-* Fix vehicle interact casing ([#57517](https://github.com/CleverRaven/Cataclysm-DDA/pull/57517))
 * Cash registers ([#57523](https://github.com/CleverRaven/Cataclysm-DDA/pull/57523))

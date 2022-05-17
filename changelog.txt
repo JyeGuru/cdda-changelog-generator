@@ -1,3 +1,4 @@
+* Revert "feat: use github auto assign label to issue templates" (#57763)
 
 Cataclysm-DDA experimental build 2022-05-16-2138 (556afb9)
 * Make 8x40mm 50-round box mag rigid (#57741)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2022-05-11-0153 (e9b6c33)
 * Unify loot zone names (#57531)
 * Calc FOV off recoil not stability (#57529)
 * 57522 fixes missing question mark on item examine promt UI (#57540)
-* Fix vehicle interact casing (#57517)
 * Cash registers (#57523)
