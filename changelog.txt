@@ -1,3 +1,4 @@
+* set up the hide structure to cover all the values (#57732)
 * map/item: process items on loaded map (#57666)
 * Updated smoking etc. to name fruit/veggies (#57671)
 * Fixed Ki Strike and Claw mutations damage (#57695)
