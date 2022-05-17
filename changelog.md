@@ -155,12 +155,6 @@
 
 * Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
 * Allow Tacoma to rotate ([#57548](https://github.com/CleverRaven/Cataclysm-DDA/pull/57548))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-11-1925 ([1fdaa93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-1925))
-
-* Add quote to "Airframe and Powerplant Mechanic" ([#57519](https://github.com/CleverRaven/Cataclysm-DDA/pull/57519))
 * pentjak → pencak ([#57530](https://github.com/CleverRaven/Cataclysm-DDA/pull/57530))
 * npctalk: fix remove_npc ([#57570](https://github.com/CleverRaven/Cataclysm-DDA/pull/57570))
 

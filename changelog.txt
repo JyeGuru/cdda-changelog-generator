@@ -89,9 +89,6 @@ Cataclysm-DDA experimental build 2022-05-11-2336 (a573eea)
 Cataclysm-DDA experimental build 2022-05-11-2106 (aa6a7f8)
 * Replace RU by actual resources used in mutation UI (#57616)
 * Allow Tacoma to rotate (#57548)
-
-Cataclysm-DDA experimental build 2022-05-11-1925 (1fdaa93)
-* Add quote to "Airframe and Powerplant Mechanic" (#57519)
 * pentjak → pencak (#57530)
 * npctalk: fix remove_npc (#57570)
 
