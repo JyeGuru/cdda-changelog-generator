@@ -1,3 +1,10 @@
+* Cash registers - large buildings ([#57753](https://github.com/CleverRaven/Cataclysm-DDA/pull/57753))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-17-2254 ([fb693d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-2254))
+
+* Professions and Hobbies Missions ([#57600](https://github.com/CleverRaven/Cataclysm-DDA/pull/57600))
 
 ---
 
@@ -170,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-05-11-1808 ([400bccb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-1808))
 
 * NPC pathing problems near wall wiring ([#57622](https://github.com/CleverRaven/Cataclysm-DDA/pull/57622))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-11-0512 ([c1e2b3c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-0512))
-
 * Fix house_08 mapgen errors ([#57618](https://github.com/CleverRaven/Cataclysm-DDA/pull/57618))
 * Progress update while heating food ([#57598](https://github.com/CleverRaven/Cataclysm-DDA/pull/57598))
 * Fix accidental sign change in calorie consumption ([#57615](https://github.com/CleverRaven/Cataclysm-DDA/pull/57615))
@@ -200,7 +202,6 @@
 * Store Update 1 ([#57553](https://github.com/CleverRaven/Cataclysm-DDA/pull/57553))
 * [DinoMod] Restore dino mass grave ([#57546](https://github.com/CleverRaven/Cataclysm-DDA/pull/57546))
 * Bugfix: Hub poncho and HWP toolkit can now hold the HWP Exotic barrel ([#57539](https://github.com/CleverRaven/Cataclysm-DDA/pull/57539))
-* Fix CBM wording ([#57528](https://github.com/CleverRaven/Cataclysm-DDA/pull/57528))
 * feat: use github auto assign label to issue templates ([#57534](https://github.com/CleverRaven/Cataclysm-DDA/pull/57534))
 * Scarfs organization ([#57535](https://github.com/CleverRaven/Cataclysm-DDA/pull/57535))
 * Fix `uilist` treating `j`, `k`, etc. as directional keys and ignoring item action hotkeys ([#57541](https://github.com/CleverRaven/Cataclysm-DDA/pull/57541))
