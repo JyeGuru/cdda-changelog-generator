@@ -1,3 +1,7 @@
+* activities: fix broken code in tidy activity ([#57761](https://github.com/CleverRaven/Cataclysm-DDA/pull/57761))
+* Drastically reduced price_postapoc of hobo fishing rods. ([#57757](https://github.com/CleverRaven/Cataclysm-DDA/pull/57757))
+* Inflatable boat and hand pump spawns ([#57745](https://github.com/CleverRaven/Cataclysm-DDA/pull/57745))
+* Swim caps ([#57743](https://github.com/CleverRaven/Cataclysm-DDA/pull/57743))
 * Cash registers - large buildings ([#57753](https://github.com/CleverRaven/Cataclysm-DDA/pull/57753))
 
 ---
@@ -169,7 +173,6 @@
 
 * Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
 * Allow Tacoma to rotate ([#57548](https://github.com/CleverRaven/Cataclysm-DDA/pull/57548))
-* pentjak → pencak ([#57530](https://github.com/CleverRaven/Cataclysm-DDA/pull/57530))
 * npctalk: fix remove_npc ([#57570](https://github.com/CleverRaven/Cataclysm-DDA/pull/57570))
 
 ---
@@ -210,7 +213,4 @@
 * Change the id to actual item name ([#57566](https://github.com/CleverRaven/Cataclysm-DDA/pull/57566))
 * Remove space between number and mm ([#57568](https://github.com/CleverRaven/Cataclysm-DDA/pull/57568))
 * First aid item deletion fix ([#57538](https://github.com/CleverRaven/Cataclysm-DDA/pull/57538))
-* LANGUAGE->LANGUAGES in COMPILING.md ([#57532](https://github.com/CleverRaven/Cataclysm-DDA/pull/57532))
-* Unify loot zone names ([#57531](https://github.com/CleverRaven/Cataclysm-DDA/pull/57531))
-* Calc FOV off recoil not stability ([#57529](https://github.com/CleverRaven/Cataclysm-DDA/pull/57529))
 * 57522 fixes missing question mark on item examine promt UI ([#57540](https://github.com/CleverRaven/Cataclysm-DDA/pull/57540))
