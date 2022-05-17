@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-05-17-0536 (681c2a4)
+* Adjust flip-flops encumbrance (#57740)
 * Revert "feat: use github auto assign label to issue templates" (#57763)
 
 Cataclysm-DDA experimental build 2022-05-16-2138 (556afb9)
@@ -47,7 +50,6 @@ Cataclysm-DDA experimental build 2022-05-14-1851 (ea157f5)
 * Include case use for snippet override for NPCs (#57668)
 * Bondage love (#57669)
 * Beach clothing (#57641)
-* Remove space before "cm" (#57518)
 * More Armor UI Upgrades (#57628)
 
 Cataclysm-DDA experimental build 2022-05-14-1744 (77adc61)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2022-05-11-0512 (c1e2b3c)
 
 Cataclysm-DDA experimental build 2022-05-11-0312 (9b1541e)
 * Progress update while heating food (#57598)
-
-Cataclysm-DDA experimental build 2022-05-11-0153 (e9b6c33)
 * Fix accidental sign change in calorie consumption (#57615)
 * Fixed move cost for open privacy gate (#57608)
 * Change pieces → recipes in book description (#57586)

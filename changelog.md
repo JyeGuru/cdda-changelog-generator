@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-17-0536 ([681c2a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-0536))
+
+* Adjust flip-flops encumbrance ([#57740](https://github.com/CleverRaven/Cataclysm-DDA/pull/57740))
 * Revert "feat: use github auto assign label to issue templates" ([#57763](https://github.com/CleverRaven/Cataclysm-DDA/pull/57763))
 
 ---
@@ -77,7 +83,6 @@
 * Include case use for snippet override for NPCs ([#57668](https://github.com/CleverRaven/Cataclysm-DDA/pull/57668))
 * Bondage love ([#57669](https://github.com/CleverRaven/Cataclysm-DDA/pull/57669))
 * Beach clothing ([#57641](https://github.com/CleverRaven/Cataclysm-DDA/pull/57641))
-* Remove space before "cm" ([#57518](https://github.com/CleverRaven/Cataclysm-DDA/pull/57518))
 * More Armor UI Upgrades ([#57628](https://github.com/CleverRaven/Cataclysm-DDA/pull/57628))
 
 ---
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-05-11-0312 ([9b1541e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-0312))
 
 * Progress update while heating food ([#57598](https://github.com/CleverRaven/Cataclysm-DDA/pull/57598))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-11-0153 ([e9b6c33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-0153))
-
 * Fix accidental sign change in calorie consumption ([#57615](https://github.com/CleverRaven/Cataclysm-DDA/pull/57615))
 * Fixed move cost for open privacy gate ([#57608](https://github.com/CleverRaven/Cataclysm-DDA/pull/57608))
 * Change pieces → recipes in book description ([#57586](https://github.com/CleverRaven/Cataclysm-DDA/pull/57586))
