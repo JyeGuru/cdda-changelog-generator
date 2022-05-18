@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-18-0029 ([77955ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-0029))
+
+* map: run open_door() logic with the right creature ([#57756](https://github.com/CleverRaven/Cataclysm-DDA/pull/57756))
 * moon tear → moon tears ([#57727](https://github.com/CleverRaven/Cataclysm-DDA/pull/57727))
 * Add pipe bundles ([#57681](https://github.com/CleverRaven/Cataclysm-DDA/pull/57681))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
@@ -187,11 +193,6 @@
 
 * Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
 * npctalk: fix remove_npc ([#57570](https://github.com/CleverRaven/Cataclysm-DDA/pull/57570))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-11-1808 ([400bccb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-1808))
-
 * NPC pathing problems near wall wiring ([#57622](https://github.com/CleverRaven/Cataclysm-DDA/pull/57622))
 * Fix house_08 mapgen errors ([#57618](https://github.com/CleverRaven/Cataclysm-DDA/pull/57618))
 * Progress update while heating food ([#57598](https://github.com/CleverRaven/Cataclysm-DDA/pull/57598))
@@ -208,7 +209,6 @@
 * Add recipe for thick rubber chunk ([#57576](https://github.com/CleverRaven/Cataclysm-DDA/pull/57576))
 * Store Update 6 ([#57558](https://github.com/CleverRaven/Cataclysm-DDA/pull/57558))
 * Store Update 5 ([#57557](https://github.com/CleverRaven/Cataclysm-DDA/pull/57557))
-* Store Update 4 ([#57556](https://github.com/CleverRaven/Cataclysm-DDA/pull/57556))
 * Fix potential nullptr crash when crafting ([#57587](https://github.com/CleverRaven/Cataclysm-DDA/pull/57587))
 * Prevent crash when using page down in options menu ([#57594](https://github.com/CleverRaven/Cataclysm-DDA/pull/57594))
 * Fix bug with invalid alpha talker ([#57561](https://github.com/CleverRaven/Cataclysm-DDA/pull/57561))
