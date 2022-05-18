@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-18-1335 (962ad68)
+* Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps (#57784)
+
 Cataclysm-DDA experimental build 2022-05-18-0029 (77955ca)
 * map: run open_door() logic with the right creature (#57756)
 * moon tear → moon tears (#57727)
@@ -133,7 +136,6 @@ Cataclysm-DDA experimental build 2022-05-11-2106 (aa6a7f8)
 * [Innawoods] New lost tribal profession (#57603)
 * Add recipe for thick rubber chunk (#57576)
 * Store Update 6 (#57558)
-* Store Update 5 (#57557)
 * Fix potential nullptr crash when crafting (#57587)
 * Prevent crash when using page down in options menu (#57594)
 * Fix bug with invalid alpha talker (#57561)
