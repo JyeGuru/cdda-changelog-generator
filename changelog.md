@@ -1,3 +1,12 @@
+* Allow disassembling very heavy items ([#57769](https://github.com/CleverRaven/Cataclysm-DDA/pull/57769))
+* Add cosmetics store, moisturizer ([#57751](https://github.com/CleverRaven/Cataclysm-DDA/pull/57751))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-18-1915 ([d7863be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-1915))
+
+* Clarify plural check message ([#57786](https://github.com/CleverRaven/Cataclysm-DDA/pull/57786))
+* feat: automatic tileset updates ([#57597](https://github.com/CleverRaven/Cataclysm-DDA/pull/57597))
 
 ---
 
@@ -177,12 +186,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-05-12-0506 ([7a89bbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-12-0506))
-
-* Make it so you can craft, and hopefully disassemble bathroom scales. ([#57562](https://github.com/CleverRaven/Cataclysm-DDA/pull/57562))
-
----
-
 #### Cataclysm-DDA experimental build 2022-05-12-0148 ([f7f9c53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-12-0148))
 
 * Componentless practice crafts no longer leave in-progress items ([#57625](https://github.com/CleverRaven/Cataclysm-DDA/pull/57625))
@@ -192,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2022-05-11-2336 ([a573eea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-2336))
 
 * Update activity_handlers.cpp ([#57630](https://github.com/CleverRaven/Cataclysm-DDA/pull/57630))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-11-2106 ([aa6a7f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-2106))
-
 * Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
 * npctalk: fix remove_npc ([#57570](https://github.com/CleverRaven/Cataclysm-DDA/pull/57570))
 * NPC pathing problems near wall wiring ([#57622](https://github.com/CleverRaven/Cataclysm-DDA/pull/57622))
@@ -213,10 +211,8 @@
 * Add prof_quenching to tempered armor recipes ([#57596](https://github.com/CleverRaven/Cataclysm-DDA/pull/57596))
 * [Innawoods] New lost tribal profession ([#57603](https://github.com/CleverRaven/Cataclysm-DDA/pull/57603))
 * Add recipe for thick rubber chunk ([#57576](https://github.com/CleverRaven/Cataclysm-DDA/pull/57576))
-* Store Update 6 ([#57558](https://github.com/CleverRaven/Cataclysm-DDA/pull/57558))
 * Fix potential nullptr crash when crafting ([#57587](https://github.com/CleverRaven/Cataclysm-DDA/pull/57587))
 * Prevent crash when using page down in options menu ([#57594](https://github.com/CleverRaven/Cataclysm-DDA/pull/57594))
-* Fix bug with invalid alpha talker ([#57561](https://github.com/CleverRaven/Cataclysm-DDA/pull/57561))
 * Remove extra comma ([#57563](https://github.com/CleverRaven/Cataclysm-DDA/pull/57563))
 * Change the id to actual item name ([#57566](https://github.com/CleverRaven/Cataclysm-DDA/pull/57566))
 * Remove space between number and mm ([#57568](https://github.com/CleverRaven/Cataclysm-DDA/pull/57568))
