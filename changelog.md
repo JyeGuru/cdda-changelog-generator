@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-18-2327 ([42dbcfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-2327))
+
+* Fix typos in starting_missions.json ([#57793](https://github.com/CleverRaven/Cataclysm-DDA/pull/57793))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-18-2024 ([173e28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-2024))
 
 * Allow disassembling very heavy items ([#57769](https://github.com/CleverRaven/Cataclysm-DDA/pull/57769))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2022-05-13-0014 ([16565f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0014))
 
 * Bad Back cancels Strong Back ([#57656](https://github.com/CleverRaven/Cataclysm-DDA/pull/57656))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-12-0148 ([f7f9c53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-12-0148))
-
 * Componentless practice crafts no longer leave in-progress items ([#57625](https://github.com/CleverRaven/Cataclysm-DDA/pull/57625))
 * Update activity_handlers.cpp ([#57630](https://github.com/CleverRaven/Cataclysm-DDA/pull/57630))
 * Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
@@ -213,6 +214,5 @@
 * Add recipe for thick rubber chunk ([#57576](https://github.com/CleverRaven/Cataclysm-DDA/pull/57576))
 * Fix potential nullptr crash when crafting ([#57587](https://github.com/CleverRaven/Cataclysm-DDA/pull/57587))
 * Prevent crash when using page down in options menu ([#57594](https://github.com/CleverRaven/Cataclysm-DDA/pull/57594))
-* Remove extra comma ([#57563](https://github.com/CleverRaven/Cataclysm-DDA/pull/57563))
 * Change the id to actual item name ([#57566](https://github.com/CleverRaven/Cataclysm-DDA/pull/57566))
 * Remove space between number and mm ([#57568](https://github.com/CleverRaven/Cataclysm-DDA/pull/57568))
