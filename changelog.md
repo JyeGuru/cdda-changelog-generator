@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-18-2024 ([173e28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-2024))
+
 * Allow disassembling very heavy items ([#57769](https://github.com/CleverRaven/Cataclysm-DDA/pull/57769))
 * Add cosmetics store, moisturizer ([#57751](https://github.com/CleverRaven/Cataclysm-DDA/pull/57751))
 
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2022-05-12-0148 ([f7f9c53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-12-0148))
 
 * Componentless practice crafts no longer leave in-progress items ([#57625](https://github.com/CleverRaven/Cataclysm-DDA/pull/57625))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-11-2336 ([a573eea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-2336))
-
 * Update activity_handlers.cpp ([#57630](https://github.com/CleverRaven/Cataclysm-DDA/pull/57630))
 * Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
 * npctalk: fix remove_npc ([#57570](https://github.com/CleverRaven/Cataclysm-DDA/pull/57570))
