@@ -1,3 +1,10 @@
+* fix: default issue template labels ([#57792](https://github.com/CleverRaven/Cataclysm-DDA/pull/57792))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-19-0332 ([406401f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-19-0332))
+
+* Holo cloak now soft ([#57796](https://github.com/CleverRaven/Cataclysm-DDA/pull/57796))
 
 ---
 
@@ -190,16 +197,10 @@
 * Fixed weird roof on 2nd floor of twd motel ([#57644](https://github.com/CleverRaven/Cataclysm-DDA/pull/57644))
 * Store update - places I've missed ([#57651](https://github.com/CleverRaven/Cataclysm-DDA/pull/57651))
 * Align Motel Ladders ([#57655](https://github.com/CleverRaven/Cataclysm-DDA/pull/57655))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-13-0014 ([16565f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0014))
-
 * Bad Back cancels Strong Back ([#57656](https://github.com/CleverRaven/Cataclysm-DDA/pull/57656))
 * Componentless practice crafts no longer leave in-progress items ([#57625](https://github.com/CleverRaven/Cataclysm-DDA/pull/57625))
 * Update activity_handlers.cpp ([#57630](https://github.com/CleverRaven/Cataclysm-DDA/pull/57630))
 * Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
-* npctalk: fix remove_npc ([#57570](https://github.com/CleverRaven/Cataclysm-DDA/pull/57570))
 * NPC pathing problems near wall wiring ([#57622](https://github.com/CleverRaven/Cataclysm-DDA/pull/57622))
 * Fix house_08 mapgen errors ([#57618](https://github.com/CleverRaven/Cataclysm-DDA/pull/57618))
 * Progress update while heating food ([#57598](https://github.com/CleverRaven/Cataclysm-DDA/pull/57598))
@@ -216,4 +217,3 @@
 * Add recipe for thick rubber chunk ([#57576](https://github.com/CleverRaven/Cataclysm-DDA/pull/57576))
 * Fix potential nullptr crash when crafting ([#57587](https://github.com/CleverRaven/Cataclysm-DDA/pull/57587))
 * Prevent crash when using page down in options menu ([#57594](https://github.com/CleverRaven/Cataclysm-DDA/pull/57594))
-* Remove space between number and mm ([#57568](https://github.com/CleverRaven/Cataclysm-DDA/pull/57568))
