@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-05-19-0557 (218edd5)
+* Tweak grammar in `PALS_LARGE` description (#57794)
 * fix: default issue template labels (#57792)
 
 Cataclysm-DDA experimental build 2022-05-19-0332 (406401f)
@@ -116,8 +119,6 @@ Cataclysm-DDA experimental build 2022-05-13-0455 (ed53115)
 
 Cataclysm-DDA experimental build 2022-05-13-0346 (2a3cf01)
 * Assassination professions and mission (#57636)
-
-Cataclysm-DDA experimental build 2022-05-13-0133 (197f0a8)
 * Avoid debug_cardio overflow (#57634)
 * Fixed weird roof on 2nd floor of twd motel (#57644)
 * Store update - places I've missed (#57651)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2022-05-13-0133 (197f0a8)
 * Change pieces → recipes in book description (#57586)
 * Add missing activity deserializers (#57614)
 * Grim reaper's scythe adjustments (#57613)
-* inventory_ui: save uimode to uistate (#57574)
 * add eggs to ordinary wasp nesp (#57583)
 * Cutting chain link fence will now yield wires instead of steel chunk (#57602)
 * Add prof_quenching to tempered armor recipes (#57596)
