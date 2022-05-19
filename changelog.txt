@@ -18,6 +18,8 @@ Cataclysm-DDA experimental build 2022-05-18-2024 (173e28b)
 Cataclysm-DDA experimental build 2022-05-18-1915 (d7863be)
 * Clarify plural check message (#57786)
 * feat: automatic tileset updates (#57597)
+
+Cataclysm-DDA experimental build 2022-05-18-1335 (962ad68)
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps (#57784)
 
 Cataclysm-DDA experimental build 2022-05-18-0029 (77955ca)
@@ -44,8 +46,12 @@ Cataclysm-DDA experimental build 2022-05-18-0029 (77955ca)
 
 Cataclysm-DDA experimental build 2022-05-17-2254 (fb693d4)
 * Professions and Hobbies Missions (#57600)
+
+Cataclysm-DDA experimental build 2022-05-17-1927 (29bbc8b)
 * Fix a typo 150000->15000 in POSTAPOC_PRICE_GUIDE.md (#57750)
 * limit test failures to 20 things for density (#57772)
+
+Cataclysm-DDA experimental build 2022-05-17-0536 (681c2a4)
 * Adjust flip-flops encumbrance (#57740)
 * Revert "feat: use github auto assign label to issue templates" (#57763)
 
@@ -103,6 +109,8 @@ Cataclysm-DDA experimental build 2022-05-14-0602 (5f60b52)
 
 Cataclysm-DDA experimental build 2022-05-13-0818 (7c0b8b2)
 * Make few magiclysm location a bit more visible (#57604)
+
+Cataclysm-DDA experimental build 2022-05-13-0455 (ed53115)
 * AI AS50 description update (#57577)
 * Appliance Repair professions (#57637)
 
@@ -114,14 +122,8 @@ Cataclysm-DDA experimental build 2022-05-13-0133 (197f0a8)
 * Fixed weird roof on 2nd floor of twd motel (#57644)
 * Store update - places I've missed (#57651)
 * Align Motel Ladders (#57655)
-
-Cataclysm-DDA experimental build 2022-05-13-0014 (16565f9)
 * Bad Back cancels Strong Back (#57656)
-
-Cataclysm-DDA experimental build 2022-05-12-0148 (f7f9c53)
 * Componentless practice crafts no longer leave in-progress items (#57625)
-
-Cataclysm-DDA experimental build 2022-05-11-2336 (a573eea)
 * Update activity_handlers.cpp (#57630)
 * Replace RU by actual resources used in mutation UI (#57616)
 * NPC pathing problems near wall wiring (#57622)

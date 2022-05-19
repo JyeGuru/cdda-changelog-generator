@@ -33,6 +33,11 @@
 
 * Clarify plural check message ([#57786](https://github.com/CleverRaven/Cataclysm-DDA/pull/57786))
 * feat: automatic tileset updates ([#57597](https://github.com/CleverRaven/Cataclysm-DDA/pull/57597))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-18-1335 ([962ad68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-1335))
+
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
 
 ---
@@ -65,8 +70,18 @@
 #### Cataclysm-DDA experimental build 2022-05-17-2254 ([fb693d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-2254))
 
 * Professions and Hobbies Missions ([#57600](https://github.com/CleverRaven/Cataclysm-DDA/pull/57600))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-17-1927 ([29bbc8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-1927))
+
 * Fix a typo 150000->15000 in POSTAPOC_PRICE_GUIDE.md ([#57750](https://github.com/CleverRaven/Cataclysm-DDA/pull/57750))
 * limit test failures to 20 things for density ([#57772](https://github.com/CleverRaven/Cataclysm-DDA/pull/57772))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-17-0536 ([681c2a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-0536))
+
 * Adjust flip-flops encumbrance ([#57740](https://github.com/CleverRaven/Cataclysm-DDA/pull/57740))
 * Revert "feat: use github auto assign label to issue templates" ([#57763](https://github.com/CleverRaven/Cataclysm-DDA/pull/57763))
 
@@ -160,6 +175,11 @@
 #### Cataclysm-DDA experimental build 2022-05-13-0818 ([7c0b8b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0818))
 
 * Make few magiclysm location a bit more visible ([#57604](https://github.com/CleverRaven/Cataclysm-DDA/pull/57604))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-13-0455 ([ed53115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0455))
+
 * AI AS50 description update ([#57577](https://github.com/CleverRaven/Cataclysm-DDA/pull/57577))
 * Appliance Repair professions ([#57637](https://github.com/CleverRaven/Cataclysm-DDA/pull/57637))
 
@@ -177,23 +197,8 @@
 * Fixed weird roof on 2nd floor of twd motel ([#57644](https://github.com/CleverRaven/Cataclysm-DDA/pull/57644))
 * Store update - places I've missed ([#57651](https://github.com/CleverRaven/Cataclysm-DDA/pull/57651))
 * Align Motel Ladders ([#57655](https://github.com/CleverRaven/Cataclysm-DDA/pull/57655))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-13-0014 ([16565f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0014))
-
 * Bad Back cancels Strong Back ([#57656](https://github.com/CleverRaven/Cataclysm-DDA/pull/57656))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-12-0148 ([f7f9c53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-12-0148))
-
 * Componentless practice crafts no longer leave in-progress items ([#57625](https://github.com/CleverRaven/Cataclysm-DDA/pull/57625))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-11-2336 ([a573eea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-11-2336))
-
 * Update activity_handlers.cpp ([#57630](https://github.com/CleverRaven/Cataclysm-DDA/pull/57630))
 * Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
 * NPC pathing problems near wall wiring ([#57622](https://github.com/CleverRaven/Cataclysm-DDA/pull/57622))
