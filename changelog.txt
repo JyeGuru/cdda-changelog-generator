@@ -1,4 +1,9 @@
 
+Cataclysm-DDA experimental build 2022-05-19-0029 (b0d3624)
+* Unify option descriptions (#57715)
+* Don't auto pickup electrons (#57765)
+* Armor Balance documentation typo fix (#57782)
+
 Cataclysm-DDA experimental build 2022-05-18-2327 (42dbcfd)
 * Fix typos in starting_missions.json (#57793)
 
@@ -63,9 +68,6 @@ Cataclysm-DDA experimental build 2022-05-15-2138 (0e527d8)
 * Missions: Allow goal condition without an NPC when using ORIGIN_GAME_START (#57609)
 * Audit mutations for in-category reachability (#57611)
 * Update gun cleaning (#57599)
-
-Cataclysm-DDA experimental build 2022-05-15-2019 (d5502cf)
-* Adjust P90 and PS90 mod slots. Add P90 magazine longest_side (#57567)
 * Update childlike fetch singular to match plural (#57729)
 * Add plural for shimmer wolf (#57730)
 * Remove default `c_black_white` from headers (#57693)
@@ -139,5 +141,4 @@ Cataclysm-DDA experimental build 2022-05-13-0014 (16565f9)
 * Add recipe for thick rubber chunk (#57576)
 * Fix potential nullptr crash when crafting (#57587)
 * Prevent crash when using page down in options menu (#57594)
-* Change the id to actual item name (#57566)
 * Remove space between number and mm (#57568)

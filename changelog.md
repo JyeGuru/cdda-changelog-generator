@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-19-0029 ([b0d3624](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-19-0029))
+
+* Unify option descriptions ([#57715](https://github.com/CleverRaven/Cataclysm-DDA/pull/57715))
+* Don't auto pickup electrons ([#57765](https://github.com/CleverRaven/Cataclysm-DDA/pull/57765))
+* Armor Balance documentation typo fix ([#57782](https://github.com/CleverRaven/Cataclysm-DDA/pull/57782))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-18-2327 ([42dbcfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-2327))
 
 * Fix typos in starting_missions.json ([#57793](https://github.com/CleverRaven/Cataclysm-DDA/pull/57793))
@@ -102,12 +110,6 @@
 * Missions: Allow goal condition without an NPC when using ORIGIN_GAME_START ([#57609](https://github.com/CleverRaven/Cataclysm-DDA/pull/57609))
 * Audit mutations for in-category reachability ([#57611](https://github.com/CleverRaven/Cataclysm-DDA/pull/57611))
 * Update gun cleaning ([#57599](https://github.com/CleverRaven/Cataclysm-DDA/pull/57599))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-15-2019 ([d5502cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-2019))
-
-* Adjust P90 and PS90 mod slots. Add P90 magazine longest_side ([#57567](https://github.com/CleverRaven/Cataclysm-DDA/pull/57567))
 * Update childlike fetch singular to match plural ([#57729](https://github.com/CleverRaven/Cataclysm-DDA/pull/57729))
 * Add plural for shimmer wolf ([#57730](https://github.com/CleverRaven/Cataclysm-DDA/pull/57730))
 * Remove default `c_black_white` from headers ([#57693](https://github.com/CleverRaven/Cataclysm-DDA/pull/57693))
@@ -214,5 +216,4 @@
 * Add recipe for thick rubber chunk ([#57576](https://github.com/CleverRaven/Cataclysm-DDA/pull/57576))
 * Fix potential nullptr crash when crafting ([#57587](https://github.com/CleverRaven/Cataclysm-DDA/pull/57587))
 * Prevent crash when using page down in options menu ([#57594](https://github.com/CleverRaven/Cataclysm-DDA/pull/57594))
-* Change the id to actual item name ([#57566](https://github.com/CleverRaven/Cataclysm-DDA/pull/57566))
 * Remove space between number and mm ([#57568](https://github.com/CleverRaven/Cataclysm-DDA/pull/57568))
