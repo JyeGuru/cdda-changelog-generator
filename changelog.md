@@ -183,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2022-05-14-1744 ([77adc61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-1744))
 
 * calendar: relax time_accuracy enumeration ([#57672](https://github.com/CleverRaven/Cataclysm-DDA/pull/57672))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-14-0602 ([5f60b52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-0602))
-
 * Routine i18n updates on 14 May 2022 ([#57682](https://github.com/CleverRaven/Cataclysm-DDA/pull/57682))
 * Make few magiclysm location a bit more visible ([#57604](https://github.com/CleverRaven/Cataclysm-DDA/pull/57604))
 * Appliance Repair professions ([#57637](https://github.com/CleverRaven/Cataclysm-DDA/pull/57637))
