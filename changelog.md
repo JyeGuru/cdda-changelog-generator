@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-20-0847 ([f5861b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-20-0847))
+
+* Beach professions ([#57744](https://github.com/CleverRaven/Cataclysm-DDA/pull/57744))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-20-0407 ([58ab772](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-20-0407))
 
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2022-05-14-0602 ([5f60b52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-0602))
 
 * Routine i18n updates on 14 May 2022 ([#57682](https://github.com/CleverRaven/Cataclysm-DDA/pull/57682))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-13-0818 ([7c0b8b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0818))
-
 * Make few magiclysm location a bit more visible ([#57604](https://github.com/CleverRaven/Cataclysm-DDA/pull/57604))
 * Appliance Repair professions ([#57637](https://github.com/CleverRaven/Cataclysm-DDA/pull/57637))
 * Assassination professions and mission ([#57636](https://github.com/CleverRaven/Cataclysm-DDA/pull/57636))
@@ -209,5 +210,4 @@
 * Cutting chain link fence will now yield wires instead of steel chunk ([#57602](https://github.com/CleverRaven/Cataclysm-DDA/pull/57602))
 * Add prof_quenching to tempered armor recipes ([#57596](https://github.com/CleverRaven/Cataclysm-DDA/pull/57596))
 * [Innawoods] New lost tribal profession ([#57603](https://github.com/CleverRaven/Cataclysm-DDA/pull/57603))
-* Fix potential nullptr crash when crafting ([#57587](https://github.com/CleverRaven/Cataclysm-DDA/pull/57587))
 * Prevent crash when using page down in options menu ([#57594](https://github.com/CleverRaven/Cataclysm-DDA/pull/57594))
