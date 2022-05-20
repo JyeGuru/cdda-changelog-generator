@@ -1,3 +1,6 @@
+* Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
+* Extra Container files to be labeled ([#57718](https://github.com/CleverRaven/Cataclysm-DDA/pull/57718))
+* Fixed weird changing room windows ([#57673](https://github.com/CleverRaven/Cataclysm-DDA/pull/57673))
 
 ---
 
@@ -181,18 +184,7 @@
 #### Cataclysm-DDA experimental build 2022-05-13-0818 ([7c0b8b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0818))
 
 * Make few magiclysm location a bit more visible ([#57604](https://github.com/CleverRaven/Cataclysm-DDA/pull/57604))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-13-0455 ([ed53115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0455))
-
-* AI AS50 description update ([#57577](https://github.com/CleverRaven/Cataclysm-DDA/pull/57577))
 * Appliance Repair professions ([#57637](https://github.com/CleverRaven/Cataclysm-DDA/pull/57637))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-13-0346 ([2a3cf01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-13-0346))
-
 * Assassination professions and mission ([#57636](https://github.com/CleverRaven/Cataclysm-DDA/pull/57636))
 * Avoid debug_cardio overflow ([#57634](https://github.com/CleverRaven/Cataclysm-DDA/pull/57634))
 * Fixed weird roof on 2nd floor of twd motel ([#57644](https://github.com/CleverRaven/Cataclysm-DDA/pull/57644))
@@ -207,10 +199,8 @@
 * Progress update while heating food ([#57598](https://github.com/CleverRaven/Cataclysm-DDA/pull/57598))
 * Fix accidental sign change in calorie consumption ([#57615](https://github.com/CleverRaven/Cataclysm-DDA/pull/57615))
 * Fixed move cost for open privacy gate ([#57608](https://github.com/CleverRaven/Cataclysm-DDA/pull/57608))
-* Change pieces → recipes in book description ([#57586](https://github.com/CleverRaven/Cataclysm-DDA/pull/57586))
 * Add missing activity deserializers ([#57614](https://github.com/CleverRaven/Cataclysm-DDA/pull/57614))
 * Grim reaper's scythe adjustments ([#57613](https://github.com/CleverRaven/Cataclysm-DDA/pull/57613))
-* add eggs to ordinary wasp nesp ([#57583](https://github.com/CleverRaven/Cataclysm-DDA/pull/57583))
 * Cutting chain link fence will now yield wires instead of steel chunk ([#57602](https://github.com/CleverRaven/Cataclysm-DDA/pull/57602))
 * Add prof_quenching to tempered armor recipes ([#57596](https://github.com/CleverRaven/Cataclysm-DDA/pull/57596))
 * [Innawoods] New lost tribal profession ([#57603](https://github.com/CleverRaven/Cataclysm-DDA/pull/57603))
