@@ -200,4 +200,3 @@
 * Cutting chain link fence will now yield wires instead of steel chunk ([#57602](https://github.com/CleverRaven/Cataclysm-DDA/pull/57602))
 * Add prof_quenching to tempered armor recipes ([#57596](https://github.com/CleverRaven/Cataclysm-DDA/pull/57596))
 * [Innawoods] New lost tribal profession ([#57603](https://github.com/CleverRaven/Cataclysm-DDA/pull/57603))
-* Prevent crash when using page down in options menu ([#57594](https://github.com/CleverRaven/Cataclysm-DDA/pull/57594))
