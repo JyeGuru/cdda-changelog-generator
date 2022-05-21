@@ -1,3 +1,7 @@
+* [Aftershock] Remove bag of holding spawns (#57822)
+
+Cataclysm-DDA experimental build 2022-05-21-1817 (714cafd)
+* Carry over relative rot during item transformation and fix transformed comestible not rotting over time (#57824)
 
 Cataclysm-DDA experimental build 2022-05-21-1219 (c6030fb)
 * bulls-eye → bullseye (#57828)
@@ -31,7 +35,6 @@ Cataclysm-DDA experimental build 2022-05-18-2024 (173e28b)
 
 Cataclysm-DDA experimental build 2022-05-18-1915 (d7863be)
 * Clarify plural check message (#57786)
-* feat: automatic tileset updates (#57597)
 
 Cataclysm-DDA experimental build 2022-05-18-1335 (962ad68)
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps (#57784)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2022-05-15-0543 (6a66c47)
 
 Cataclysm-DDA experimental build 2022-05-14-2309 (b03e041)
 * Fix missing dot on description (#57690)
-
-Cataclysm-DDA experimental build 2022-05-14-2208 (e99f3b2)
 * Cody will no longer give free duplicate artisan armor (#57701)
 * Remove extra newlines (#57691)
 * Include case use for snippet override for NPCs (#57668)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2022-05-14-2208 (e99f3b2)
 * Replace RU by actual resources used in mutation UI (#57616)
 * NPC pathing problems near wall wiring (#57622)
 * Fix house_08 mapgen errors (#57618)
-* Progress update while heating food (#57598)
 * Fix accidental sign change in calorie consumption (#57615)
 * Fixed move cost for open privacy gate (#57608)
 * Add missing activity deserializers (#57614)

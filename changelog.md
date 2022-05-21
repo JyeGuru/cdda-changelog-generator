@@ -1,3 +1,10 @@
+* [Aftershock] Remove bag of holding spawns ([#57822](https://github.com/CleverRaven/Cataclysm-DDA/pull/57822))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-21-1817 ([714cafd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-21-1817))
+
+* Carry over relative rot during item transformation and fix transformed comestible not rotting over time ([#57824](https://github.com/CleverRaven/Cataclysm-DDA/pull/57824))
 
 ---
 
@@ -58,7 +65,6 @@
 #### Cataclysm-DDA experimental build 2022-05-18-1915 ([d7863be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-1915))
 
 * Clarify plural check message ([#57786](https://github.com/CleverRaven/Cataclysm-DDA/pull/57786))
-* feat: automatic tileset updates ([#57597](https://github.com/CleverRaven/Cataclysm-DDA/pull/57597))
 
 ---
 
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-05-14-2309 ([b03e041](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-2309))
 
 * Fix missing dot on description ([#57690](https://github.com/CleverRaven/Cataclysm-DDA/pull/57690))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-14-2208 ([e99f3b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-2208))
-
 * Cody will no longer give free duplicate artisan armor ([#57701](https://github.com/CleverRaven/Cataclysm-DDA/pull/57701))
 * Remove extra newlines ([#57691](https://github.com/CleverRaven/Cataclysm-DDA/pull/57691))
 * Include case use for snippet override for NPCs ([#57668](https://github.com/CleverRaven/Cataclysm-DDA/pull/57668))
@@ -193,7 +194,6 @@
 * Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
 * NPC pathing problems near wall wiring ([#57622](https://github.com/CleverRaven/Cataclysm-DDA/pull/57622))
 * Fix house_08 mapgen errors ([#57618](https://github.com/CleverRaven/Cataclysm-DDA/pull/57618))
-* Progress update while heating food ([#57598](https://github.com/CleverRaven/Cataclysm-DDA/pull/57598))
 * Fix accidental sign change in calorie consumption ([#57615](https://github.com/CleverRaven/Cataclysm-DDA/pull/57615))
 * Fixed move cost for open privacy gate ([#57608](https://github.com/CleverRaven/Cataclysm-DDA/pull/57608))
 * Add missing activity deserializers ([#57614](https://github.com/CleverRaven/Cataclysm-DDA/pull/57614))
