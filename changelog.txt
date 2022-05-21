@@ -105,8 +105,6 @@ Cataclysm-DDA experimental build 2022-05-15-2324 (eafc5f2)
 
 Cataclysm-DDA experimental build 2022-05-15-0543 (6a66c47)
 * Carl Gustav → Carl Gustaf (#57710)
-
-Cataclysm-DDA experimental build 2022-05-14-2309 (b03e041)
 * Fix missing dot on description (#57690)
 * Cody will no longer give free duplicate artisan armor (#57701)
 * Remove extra newlines (#57691)

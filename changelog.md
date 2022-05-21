@@ -162,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2022-05-15-0543 ([6a66c47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-0543))
 
 * Carl Gustav → Carl Gustaf ([#57710](https://github.com/CleverRaven/Cataclysm-DDA/pull/57710))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-14-2309 ([b03e041](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-2309))
-
 * Fix missing dot on description ([#57690](https://github.com/CleverRaven/Cataclysm-DDA/pull/57690))
 * Cody will no longer give free duplicate artisan armor ([#57701](https://github.com/CleverRaven/Cataclysm-DDA/pull/57701))
 * Remove extra newlines ([#57691](https://github.com/CleverRaven/Cataclysm-DDA/pull/57691))
