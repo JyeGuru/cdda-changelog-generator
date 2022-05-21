@@ -1,3 +1,11 @@
+* [CR] Replaced separate keys for SHOW_CONTENTS and HIDE_CONTENTS with one key for SHOW_HIDE_CONTENTS ([#57645](https://github.com/CleverRaven/Cataclysm-DDA/pull/57645))
+* Non-rigid ammo clips and reasonable .30-06 mag sizes ([#57654](https://github.com/CleverRaven/Cataclysm-DDA/pull/57654))
+* Restored effect of Pain Recovery mutation line ([#57798](https://github.com/CleverRaven/Cataclysm-DDA/pull/57798))
+* Routine i18n updates on 21 May 2022 ([#57823](https://github.com/CleverRaven/Cataclysm-DDA/pull/57823))
+* Remove extra spaces between parentheses ([#57829](https://github.com/CleverRaven/Cataclysm-DDA/pull/57829))
+* Update nightmares.json ([#57821](https://github.com/CleverRaven/Cataclysm-DDA/pull/57821))
+* Xedra Spy profession, mission, safehouse and fixes ([#57778](https://github.com/CleverRaven/Cataclysm-DDA/pull/57778))
+* Add moisturizer to bottle, add variants ([#57808](https://github.com/CleverRaven/Cataclysm-DDA/pull/57808))
 * [Aftershock] Remove bag of holding spawns ([#57822](https://github.com/CleverRaven/Cataclysm-DDA/pull/57822))
 
 ---
@@ -99,12 +107,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-05-17-2254 ([fb693d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-2254))
-
-* Professions and Hobbies Missions ([#57600](https://github.com/CleverRaven/Cataclysm-DDA/pull/57600))
-
----
-
 #### Cataclysm-DDA experimental build 2022-05-17-1927 ([29bbc8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-1927))
 
 * Fix a typo 150000->15000 in POSTAPOC_PRICE_GUIDE.md ([#57750](https://github.com/CleverRaven/Cataclysm-DDA/pull/57750))
@@ -141,14 +143,7 @@
 #### Cataclysm-DDA experimental build 2022-05-15-2324 ([eafc5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-2324))
 
 * Wrists -> Fingers in armor summary UI ([#57731](https://github.com/CleverRaven/Cataclysm-DDA/pull/57731))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-15-2138 ([0e527d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-2138))
-
-* Missions: Allow goal condition without an NPC when using ORIGIN_GAME_START ([#57609](https://github.com/CleverRaven/Cataclysm-DDA/pull/57609))
 * Audit mutations for in-category reachability ([#57611](https://github.com/CleverRaven/Cataclysm-DDA/pull/57611))
-* Update gun cleaning ([#57599](https://github.com/CleverRaven/Cataclysm-DDA/pull/57599))
 * Update childlike fetch singular to match plural ([#57729](https://github.com/CleverRaven/Cataclysm-DDA/pull/57729))
 * Add plural for shimmer wolf ([#57730](https://github.com/CleverRaven/Cataclysm-DDA/pull/57730))
 * Remove default `c_black_white` from headers ([#57693](https://github.com/CleverRaven/Cataclysm-DDA/pull/57693))
@@ -181,7 +176,6 @@
 * More Armor UI Upgrades ([#57628](https://github.com/CleverRaven/Cataclysm-DDA/pull/57628))
 * calendar: relax time_accuracy enumeration ([#57672](https://github.com/CleverRaven/Cataclysm-DDA/pull/57672))
 * Routine i18n updates on 14 May 2022 ([#57682](https://github.com/CleverRaven/Cataclysm-DDA/pull/57682))
-* Make few magiclysm location a bit more visible ([#57604](https://github.com/CleverRaven/Cataclysm-DDA/pull/57604))
 * Appliance Repair professions ([#57637](https://github.com/CleverRaven/Cataclysm-DDA/pull/57637))
 * Assassination professions and mission ([#57636](https://github.com/CleverRaven/Cataclysm-DDA/pull/57636))
 * Avoid debug_cardio overflow ([#57634](https://github.com/CleverRaven/Cataclysm-DDA/pull/57634))
@@ -195,8 +189,5 @@
 * NPC pathing problems near wall wiring ([#57622](https://github.com/CleverRaven/Cataclysm-DDA/pull/57622))
 * Fix house_08 mapgen errors ([#57618](https://github.com/CleverRaven/Cataclysm-DDA/pull/57618))
 * Fix accidental sign change in calorie consumption ([#57615](https://github.com/CleverRaven/Cataclysm-DDA/pull/57615))
-* Fixed move cost for open privacy gate ([#57608](https://github.com/CleverRaven/Cataclysm-DDA/pull/57608))
 * Add missing activity deserializers ([#57614](https://github.com/CleverRaven/Cataclysm-DDA/pull/57614))
 * Grim reaper's scythe adjustments ([#57613](https://github.com/CleverRaven/Cataclysm-DDA/pull/57613))
-* Cutting chain link fence will now yield wires instead of steel chunk ([#57602](https://github.com/CleverRaven/Cataclysm-DDA/pull/57602))
-* [Innawoods] New lost tribal profession ([#57603](https://github.com/CleverRaven/Cataclysm-DDA/pull/57603))
