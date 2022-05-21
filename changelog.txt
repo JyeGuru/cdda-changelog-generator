@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-21-1219 (c6030fb)
+* bulls-eye → bullseye (#57828)
+
 Cataclysm-DDA experimental build 2022-05-20-0847 (f5861b7)
 * Beach professions (#57744)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2022-05-14-2309 (b03e041)
 
 Cataclysm-DDA experimental build 2022-05-14-2208 (e99f3b2)
 * Cody will no longer give free duplicate artisan armor (#57701)
-
-Cataclysm-DDA experimental build 2022-05-14-1851 (ea157f5)
 * Remove extra newlines (#57691)
 * Include case use for snippet override for NPCs (#57668)
 * Bondage love (#57669)
@@ -132,5 +133,4 @@ Cataclysm-DDA experimental build 2022-05-14-1851 (ea157f5)
 * Add missing activity deserializers (#57614)
 * Grim reaper's scythe adjustments (#57613)
 * Cutting chain link fence will now yield wires instead of steel chunk (#57602)
-* Add prof_quenching to tempered armor recipes (#57596)
 * [Innawoods] New lost tribal profession (#57603)

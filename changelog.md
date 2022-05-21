@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-21-1219 ([c6030fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-21-1219))
+
+* bulls-eye → bullseye ([#57828](https://github.com/CleverRaven/Cataclysm-DDA/pull/57828))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-20-0847 ([f5861b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-20-0847))
 
 * Beach professions ([#57744](https://github.com/CleverRaven/Cataclysm-DDA/pull/57744))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-05-14-2208 ([e99f3b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-2208))
 
 * Cody will no longer give free duplicate artisan armor ([#57701](https://github.com/CleverRaven/Cataclysm-DDA/pull/57701))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-14-1851 ([ea157f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-1851))
-
 * Remove extra newlines ([#57691](https://github.com/CleverRaven/Cataclysm-DDA/pull/57691))
 * Include case use for snippet override for NPCs ([#57668](https://github.com/CleverRaven/Cataclysm-DDA/pull/57668))
 * Bondage love ([#57669](https://github.com/CleverRaven/Cataclysm-DDA/pull/57669))
@@ -198,5 +199,4 @@
 * Add missing activity deserializers ([#57614](https://github.com/CleverRaven/Cataclysm-DDA/pull/57614))
 * Grim reaper's scythe adjustments ([#57613](https://github.com/CleverRaven/Cataclysm-DDA/pull/57613))
 * Cutting chain link fence will now yield wires instead of steel chunk ([#57602](https://github.com/CleverRaven/Cataclysm-DDA/pull/57602))
-* Add prof_quenching to tempered armor recipes ([#57596](https://github.com/CleverRaven/Cataclysm-DDA/pull/57596))
 * [Innawoods] New lost tribal profession ([#57603](https://github.com/CleverRaven/Cataclysm-DDA/pull/57603))
