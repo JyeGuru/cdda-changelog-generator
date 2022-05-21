@@ -177,11 +177,6 @@
 * Bondage love ([#57669](https://github.com/CleverRaven/Cataclysm-DDA/pull/57669))
 * Beach clothing ([#57641](https://github.com/CleverRaven/Cataclysm-DDA/pull/57641))
 * More Armor UI Upgrades ([#57628](https://github.com/CleverRaven/Cataclysm-DDA/pull/57628))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-14-1744 ([77adc61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-14-1744))
-
 * calendar: relax time_accuracy enumeration ([#57672](https://github.com/CleverRaven/Cataclysm-DDA/pull/57672))
 * Routine i18n updates on 14 May 2022 ([#57682](https://github.com/CleverRaven/Cataclysm-DDA/pull/57682))
 * Make few magiclysm location a bit more visible ([#57604](https://github.com/CleverRaven/Cataclysm-DDA/pull/57604))

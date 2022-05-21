@@ -111,8 +111,6 @@ Cataclysm-DDA experimental build 2022-05-14-1851 (ea157f5)
 * Bondage love (#57669)
 * Beach clothing (#57641)
 * More Armor UI Upgrades (#57628)
-
-Cataclysm-DDA experimental build 2022-05-14-1744 (77adc61)
 * calendar: relax time_accuracy enumeration (#57672)
 * Routine i18n updates on 14 May 2022 (#57682)
 * Make few magiclysm location a bit more visible (#57604)
