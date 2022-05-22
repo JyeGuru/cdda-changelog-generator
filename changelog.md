@@ -1,3 +1,10 @@
+* Fix freed pointer use when summoned vehicle despawns during autodrive. ([#57820](https://github.com/CleverRaven/Cataclysm-DDA/pull/57820))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-22-0342 ([1d5d188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0342))
+
+* Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
 
 ---
 
@@ -184,5 +191,3 @@
 * NPC pathing problems near wall wiring ([#57622](https://github.com/CleverRaven/Cataclysm-DDA/pull/57622))
 * Fix house_08 mapgen errors ([#57618](https://github.com/CleverRaven/Cataclysm-DDA/pull/57618))
 * Fix accidental sign change in calorie consumption ([#57615](https://github.com/CleverRaven/Cataclysm-DDA/pull/57615))
-* Add missing activity deserializers ([#57614](https://github.com/CleverRaven/Cataclysm-DDA/pull/57614))
-* Grim reaper's scythe adjustments ([#57613](https://github.com/CleverRaven/Cataclysm-DDA/pull/57613))
