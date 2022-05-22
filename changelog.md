@@ -198,6 +198,5 @@
 * Bad Back cancels Strong Back ([#57656](https://github.com/CleverRaven/Cataclysm-DDA/pull/57656))
 * Componentless practice crafts no longer leave in-progress items ([#57625](https://github.com/CleverRaven/Cataclysm-DDA/pull/57625))
 * Update activity_handlers.cpp ([#57630](https://github.com/CleverRaven/Cataclysm-DDA/pull/57630))
-* Replace RU by actual resources used in mutation UI ([#57616](https://github.com/CleverRaven/Cataclysm-DDA/pull/57616))
 * NPC pathing problems near wall wiring ([#57622](https://github.com/CleverRaven/Cataclysm-DDA/pull/57622))
 * Fix house_08 mapgen errors ([#57618](https://github.com/CleverRaven/Cataclysm-DDA/pull/57618))
