@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-22-0218 ([a4628ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0218))
+
+* Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
 * [CR] Replaced separate keys for SHOW_CONTENTS and HIDE_CONTENTS with one key for SHOW_HIDE_CONTENTS ([#57645](https://github.com/CleverRaven/Cataclysm-DDA/pull/57645))
 * Non-rigid ammo clips and reasonable .30-06 mag sizes ([#57654](https://github.com/CleverRaven/Cataclysm-DDA/pull/57654))
 * Restored effect of Pain Recovery mutation line ([#57798](https://github.com/CleverRaven/Cataclysm-DDA/pull/57798))
@@ -143,7 +149,6 @@
 #### Cataclysm-DDA experimental build 2022-05-15-2324 ([eafc5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-2324))
 
 * Wrists -> Fingers in armor summary UI ([#57731](https://github.com/CleverRaven/Cataclysm-DDA/pull/57731))
-* Audit mutations for in-category reachability ([#57611](https://github.com/CleverRaven/Cataclysm-DDA/pull/57611))
 * Update childlike fetch singular to match plural ([#57729](https://github.com/CleverRaven/Cataclysm-DDA/pull/57729))
 * Add plural for shimmer wolf ([#57730](https://github.com/CleverRaven/Cataclysm-DDA/pull/57730))
 * Remove default `c_black_white` from headers ([#57693](https://github.com/CleverRaven/Cataclysm-DDA/pull/57693))
