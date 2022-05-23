@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-23-0733 ([9dbad78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-23-0733))
+
+* Remove Car Salesman's duplicated watch  ([#57867](https://github.com/CleverRaven/Cataclysm-DDA/pull/57867))
 * fix: automatic tileset updates error ([#57868](https://github.com/CleverRaven/Cataclysm-DDA/pull/57868))
 
 ---
@@ -43,7 +49,6 @@
 #### Cataclysm-DDA experimental build 2022-05-22-0218 ([a4628ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0218))
 
 * Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
-* [CR] Replaced separate keys for SHOW_CONTENTS and HIDE_CONTENTS with one key for SHOW_HIDE_CONTENTS ([#57645](https://github.com/CleverRaven/Cataclysm-DDA/pull/57645))
 * Non-rigid ammo clips and reasonable .30-06 mag sizes ([#57654](https://github.com/CleverRaven/Cataclysm-DDA/pull/57654))
 * Restored effect of Pain Recovery mutation line ([#57798](https://github.com/CleverRaven/Cataclysm-DDA/pull/57798))
 * Routine i18n updates on 21 May 2022 ([#57823](https://github.com/CleverRaven/Cataclysm-DDA/pull/57823))
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-05-16-0037 ([d8897bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-16-0037))
 
 * Hub 01 Environment suit now has proper boot and glove parts ([#57709](https://github.com/CleverRaven/Cataclysm-DDA/pull/57709))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-15-2324 ([eafc5f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-15-2324))
-
 * Wrists -> Fingers in armor summary UI ([#57731](https://github.com/CleverRaven/Cataclysm-DDA/pull/57731))
 * Update childlike fetch singular to match plural ([#57729](https://github.com/CleverRaven/Cataclysm-DDA/pull/57729))
 * Add plural for shimmer wolf ([#57730](https://github.com/CleverRaven/Cataclysm-DDA/pull/57730))
