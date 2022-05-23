@@ -49,7 +49,6 @@
 #### Cataclysm-DDA experimental build 2022-05-22-0218 ([a4628ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0218))
 
 * Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
-* Non-rigid ammo clips and reasonable .30-06 mag sizes ([#57654](https://github.com/CleverRaven/Cataclysm-DDA/pull/57654))
 * Restored effect of Pain Recovery mutation line ([#57798](https://github.com/CleverRaven/Cataclysm-DDA/pull/57798))
 * Routine i18n updates on 21 May 2022 ([#57823](https://github.com/CleverRaven/Cataclysm-DDA/pull/57823))
 * Remove extra spaces between parentheses ([#57829](https://github.com/CleverRaven/Cataclysm-DDA/pull/57829))
