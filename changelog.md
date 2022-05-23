@@ -208,6 +208,5 @@
 * Bondage love ([#57669](https://github.com/CleverRaven/Cataclysm-DDA/pull/57669))
 * calendar: relax time_accuracy enumeration ([#57672](https://github.com/CleverRaven/Cataclysm-DDA/pull/57672))
 * Routine i18n updates on 14 May 2022 ([#57682](https://github.com/CleverRaven/Cataclysm-DDA/pull/57682))
-* Store update - places I've missed ([#57651](https://github.com/CleverRaven/Cataclysm-DDA/pull/57651))
 * Align Motel Ladders ([#57655](https://github.com/CleverRaven/Cataclysm-DDA/pull/57655))
 * Bad Back cancels Strong Back ([#57656](https://github.com/CleverRaven/Cataclysm-DDA/pull/57656))
