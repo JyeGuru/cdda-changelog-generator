@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-23-0333 ([cd1303a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-23-0333))
+
+* Add OLD_CURRENCY flag for strap/bundle to reduce keypress ([#57833](https://github.com/CleverRaven/Cataclysm-DDA/pull/57833))
+* Fair Lord's → Fair Lords ([#57857](https://github.com/CleverRaven/Cataclysm-DDA/pull/57857))
+* Change Cyrylic for translateration in item name ([#57856](https://github.com/CleverRaven/Cataclysm-DDA/pull/57856))
+* al→all ([#57854](https://github.com/CleverRaven/Cataclysm-DDA/pull/57854))
+* Change `–` to `-` between the words ([#57853](https://github.com/CleverRaven/Cataclysm-DDA/pull/57853))
+* Add a fullstop to two descriptions ([#57851](https://github.com/CleverRaven/Cataclysm-DDA/pull/57851))
+* Adding Ghee as a fat usable for Pemmican ([#57825](https://github.com/CleverRaven/Cataclysm-DDA/pull/57825))
+* Rebalance hunting lodge water tanks to be in line with other water supplies ([#57662](https://github.com/CleverRaven/Cataclysm-DDA/pull/57662))
+* Add Textile mill museum ([#57805](https://github.com/CleverRaven/Cataclysm-DDA/pull/57805))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-23-0232 ([81d6e5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-23-0232))
 
 * Fix description of liberty talon ([#57855](https://github.com/CleverRaven/Cataclysm-DDA/pull/57855))
@@ -191,17 +205,9 @@
 * Remove extra newlines ([#57691](https://github.com/CleverRaven/Cataclysm-DDA/pull/57691))
 * Include case use for snippet override for NPCs ([#57668](https://github.com/CleverRaven/Cataclysm-DDA/pull/57668))
 * Bondage love ([#57669](https://github.com/CleverRaven/Cataclysm-DDA/pull/57669))
-* Beach clothing ([#57641](https://github.com/CleverRaven/Cataclysm-DDA/pull/57641))
-* More Armor UI Upgrades ([#57628](https://github.com/CleverRaven/Cataclysm-DDA/pull/57628))
 * calendar: relax time_accuracy enumeration ([#57672](https://github.com/CleverRaven/Cataclysm-DDA/pull/57672))
 * Routine i18n updates on 14 May 2022 ([#57682](https://github.com/CleverRaven/Cataclysm-DDA/pull/57682))
-* Appliance Repair professions ([#57637](https://github.com/CleverRaven/Cataclysm-DDA/pull/57637))
-* Assassination professions and mission ([#57636](https://github.com/CleverRaven/Cataclysm-DDA/pull/57636))
-* Avoid debug_cardio overflow ([#57634](https://github.com/CleverRaven/Cataclysm-DDA/pull/57634))
 * Fixed weird roof on 2nd floor of twd motel ([#57644](https://github.com/CleverRaven/Cataclysm-DDA/pull/57644))
 * Store update - places I've missed ([#57651](https://github.com/CleverRaven/Cataclysm-DDA/pull/57651))
 * Align Motel Ladders ([#57655](https://github.com/CleverRaven/Cataclysm-DDA/pull/57655))
 * Bad Back cancels Strong Back ([#57656](https://github.com/CleverRaven/Cataclysm-DDA/pull/57656))
-* Componentless practice crafts no longer leave in-progress items ([#57625](https://github.com/CleverRaven/Cataclysm-DDA/pull/57625))
-* Update activity_handlers.cpp ([#57630](https://github.com/CleverRaven/Cataclysm-DDA/pull/57630))
-* NPC pathing problems near wall wiring ([#57622](https://github.com/CleverRaven/Cataclysm-DDA/pull/57622))
