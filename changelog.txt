@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-23-0232 (81d6e5e)
+* Fix description of liberty talon (#57855)
+
 Cataclysm-DDA experimental build 2022-05-22-0543 (051a3c7)
 * Fix grocery bot description (#57840)
 
@@ -133,4 +136,3 @@ Cataclysm-DDA experimental build 2022-05-15-2324 (eafc5f2)
 * Componentless practice crafts no longer leave in-progress items (#57625)
 * Update activity_handlers.cpp (#57630)
 * NPC pathing problems near wall wiring (#57622)
-* Fix house_08 mapgen errors (#57618)
