@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-24-2057 ([2c0acf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-2057))
+
 * Cold leach acorns 2 ([#57850](https://github.com/CleverRaven/Cataclysm-DDA/pull/57850))
 * update steel mill monster spawn ([#57841](https://github.com/CleverRaven/Cataclysm-DDA/pull/57841))
 * Add a roof to military outposts ([#57874](https://github.com/CleverRaven/Cataclysm-DDA/pull/57874))
@@ -163,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-05-18-1335 ([962ad68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-1335))
 
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-18-0029 ([77955ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-0029))
-
 * map: run open_door() logic with the right creature ([#57756](https://github.com/CleverRaven/Cataclysm-DDA/pull/57756))
 * moon tear → moon tears ([#57727](https://github.com/CleverRaven/Cataclysm-DDA/pull/57727))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
