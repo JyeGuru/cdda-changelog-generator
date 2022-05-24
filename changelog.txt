@@ -1,3 +1,4 @@
+* Update comment-commands.yml (#57895)
 
 Cataclysm-DDA experimental build 2022-05-24-1205 (2bdeed8)
 * improvised ballistic plates in the style of scrap metal armor (#57881)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2022-05-18-0029 (77955ca)
 * Fix missing dot on description (#57690)
 * Cody will no longer give free duplicate artisan armor (#57701)
 * Remove extra newlines (#57691)
-* Include case use for snippet override for NPCs (#57668)
 * Bondage love (#57669)
 * calendar: relax time_accuracy enumeration (#57672)
 * Routine i18n updates on 14 May 2022 (#57682)
