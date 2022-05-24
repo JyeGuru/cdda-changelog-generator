@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-24-1205 ([2bdeed8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-1205))
+
+* improvised ballistic plates in the style of scrap metal armor ([#57881](https://github.com/CleverRaven/Cataclysm-DDA/pull/57881))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-24-0603 ([a8aebb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0603))
 
 * Turrets recipe no longer autolearn ([#57878](https://github.com/CleverRaven/Cataclysm-DDA/pull/57878))
@@ -156,7 +162,6 @@
 * Add pipe bundles ([#57681](https://github.com/CleverRaven/Cataclysm-DDA/pull/57681))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
 * set up the hide structure to cover all the values ([#57732](https://github.com/CleverRaven/Cataclysm-DDA/pull/57732))
-* map/item: process items on loaded map ([#57666](https://github.com/CleverRaven/Cataclysm-DDA/pull/57666))
 * Updated smoking etc. to name fruit/veggies ([#57671](https://github.com/CleverRaven/Cataclysm-DDA/pull/57671))
 * Fixed Ki Strike and Claw mutations damage ([#57695](https://github.com/CleverRaven/Cataclysm-DDA/pull/57695))
 * St, → St. ([#57723](https://github.com/CleverRaven/Cataclysm-DDA/pull/57723))
@@ -171,11 +176,6 @@
 * Inflatable boat and hand pump spawns ([#57745](https://github.com/CleverRaven/Cataclysm-DDA/pull/57745))
 * Swim caps ([#57743](https://github.com/CleverRaven/Cataclysm-DDA/pull/57743))
 * Cash registers - large buildings ([#57753](https://github.com/CleverRaven/Cataclysm-DDA/pull/57753))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-17-1927 ([29bbc8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-1927))
-
 * Fix a typo 150000->15000 in POSTAPOC_PRICE_GUIDE.md ([#57750](https://github.com/CleverRaven/Cataclysm-DDA/pull/57750))
 * limit test failures to 20 things for density ([#57772](https://github.com/CleverRaven/Cataclysm-DDA/pull/57772))
 * Adjust flip-flops encumbrance ([#57740](https://github.com/CleverRaven/Cataclysm-DDA/pull/57740))
