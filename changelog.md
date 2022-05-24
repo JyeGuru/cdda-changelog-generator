@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-24-1946 ([cf0791a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-1946))
+
+* Refresh player stats in creation screen ([#57884](https://github.com/CleverRaven/Cataclysm-DDA/pull/57884))
 * Update comment-commands.yml ([#57895](https://github.com/CleverRaven/Cataclysm-DDA/pull/57895))
 
 ---
@@ -201,6 +207,5 @@
 * Fix missing dot on description ([#57690](https://github.com/CleverRaven/Cataclysm-DDA/pull/57690))
 * Cody will no longer give free duplicate artisan armor ([#57701](https://github.com/CleverRaven/Cataclysm-DDA/pull/57701))
 * Remove extra newlines ([#57691](https://github.com/CleverRaven/Cataclysm-DDA/pull/57691))
-* Bondage love ([#57669](https://github.com/CleverRaven/Cataclysm-DDA/pull/57669))
 * calendar: relax time_accuracy enumeration ([#57672](https://github.com/CleverRaven/Cataclysm-DDA/pull/57672))
 * Routine i18n updates on 14 May 2022 ([#57682](https://github.com/CleverRaven/Cataclysm-DDA/pull/57682))
