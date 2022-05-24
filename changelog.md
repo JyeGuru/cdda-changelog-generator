@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-24-0603 ([a8aebb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0603))
+
+* Turrets recipe no longer autolearn ([#57878](https://github.com/CleverRaven/Cataclysm-DDA/pull/57878))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-24-0115 ([ea73260](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0115))
 
 * Fixes for "XS holster" and "XS leather rifle case" ([#57773](https://github.com/CleverRaven/Cataclysm-DDA/pull/57773))
@@ -172,15 +178,9 @@
 
 * Fix a typo 150000->15000 in POSTAPOC_PRICE_GUIDE.md ([#57750](https://github.com/CleverRaven/Cataclysm-DDA/pull/57750))
 * limit test failures to 20 things for density ([#57772](https://github.com/CleverRaven/Cataclysm-DDA/pull/57772))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-17-0536 ([681c2a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-17-0536))
-
 * Adjust flip-flops encumbrance ([#57740](https://github.com/CleverRaven/Cataclysm-DDA/pull/57740))
 * Revert "feat: use github auto assign label to issue templates" ([#57763](https://github.com/CleverRaven/Cataclysm-DDA/pull/57763))
 * Make 8x40mm 50-round box mag rigid ([#57741](https://github.com/CleverRaven/Cataclysm-DDA/pull/57741))
-* Add new marina roof OMTs to test whitelist ([#57663](https://github.com/CleverRaven/Cataclysm-DDA/pull/57663))
 * Remove extra space from a terrain name ([#57711](https://github.com/CleverRaven/Cataclysm-DDA/pull/57711))
 * Hub 01 Environment suit now has proper boot and glove parts ([#57709](https://github.com/CleverRaven/Cataclysm-DDA/pull/57709))
 * Wrists -> Fingers in armor summary UI ([#57731](https://github.com/CleverRaven/Cataclysm-DDA/pull/57731))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-24-0603 (a8aebb0)
+* Turrets recipe no longer autolearn (#57878)
+
 Cataclysm-DDA experimental build 2022-05-24-0115 (ea73260)
 * Fixes for "XS holster" and "XS leather rifle case" (#57773)
 * Fix wearing power armor hauling frame (#57836)
@@ -106,12 +109,9 @@ Cataclysm-DDA experimental build 2022-05-18-0029 (77955ca)
 Cataclysm-DDA experimental build 2022-05-17-1927 (29bbc8b)
 * Fix a typo 150000->15000 in POSTAPOC_PRICE_GUIDE.md (#57750)
 * limit test failures to 20 things for density (#57772)
-
-Cataclysm-DDA experimental build 2022-05-17-0536 (681c2a4)
 * Adjust flip-flops encumbrance (#57740)
 * Revert "feat: use github auto assign label to issue templates" (#57763)
 * Make 8x40mm 50-round box mag rigid (#57741)
-* Add new marina roof OMTs to test whitelist (#57663)
 * Remove extra space from a terrain name (#57711)
 * Hub 01 Environment suit now has proper boot and glove parts (#57709)
 * Wrists -> Fingers in armor summary UI (#57731)
