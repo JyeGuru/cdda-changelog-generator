@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-24-0115 ([ea73260](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0115))
+
+* Fixes for "XS holster" and "XS leather rifle case" ([#57773](https://github.com/CleverRaven/Cataclysm-DDA/pull/57773))
+* Fix wearing power armor hauling frame ([#57836](https://github.com/CleverRaven/Cataclysm-DDA/pull/57836))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-24-0014 ([d03b273](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0014))
+
+* Minor strange cabin basement overhaul ([#57869](https://github.com/CleverRaven/Cataclysm-DDA/pull/57869))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-23-0733 ([9dbad78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-23-0733))
 
 * Remove Car Salesman's duplicated watch  ([#57867](https://github.com/CleverRaven/Cataclysm-DDA/pull/57867))
@@ -17,7 +30,6 @@
 * Change `–` to `-` between the words ([#57853](https://github.com/CleverRaven/Cataclysm-DDA/pull/57853))
 * Add a fullstop to two descriptions ([#57851](https://github.com/CleverRaven/Cataclysm-DDA/pull/57851))
 * Adding Ghee as a fat usable for Pemmican ([#57825](https://github.com/CleverRaven/Cataclysm-DDA/pull/57825))
-* Rebalance hunting lodge water tanks to be in line with other water supplies ([#57662](https://github.com/CleverRaven/Cataclysm-DDA/pull/57662))
 * Add Textile mill museum ([#57805](https://github.com/CleverRaven/Cataclysm-DDA/pull/57805))
 
 ---
@@ -174,17 +186,7 @@
 
 * Make 8x40mm 50-round box mag rigid ([#57741](https://github.com/CleverRaven/Cataclysm-DDA/pull/57741))
 * Add new marina roof OMTs to test whitelist ([#57663](https://github.com/CleverRaven/Cataclysm-DDA/pull/57663))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-16-0602 ([e87eb80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-16-0602))
-
 * Remove extra space from a terrain name ([#57711](https://github.com/CleverRaven/Cataclysm-DDA/pull/57711))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-16-0037 ([d8897bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-16-0037))
-
 * Hub 01 Environment suit now has proper boot and glove parts ([#57709](https://github.com/CleverRaven/Cataclysm-DDA/pull/57709))
 * Wrists -> Fingers in armor summary UI ([#57731](https://github.com/CleverRaven/Cataclysm-DDA/pull/57731))
 * Update childlike fetch singular to match plural ([#57729](https://github.com/CleverRaven/Cataclysm-DDA/pull/57729))
@@ -207,5 +209,3 @@
 * Bondage love ([#57669](https://github.com/CleverRaven/Cataclysm-DDA/pull/57669))
 * calendar: relax time_accuracy enumeration ([#57672](https://github.com/CleverRaven/Cataclysm-DDA/pull/57672))
 * Routine i18n updates on 14 May 2022 ([#57682](https://github.com/CleverRaven/Cataclysm-DDA/pull/57682))
-* Align Motel Ladders ([#57655](https://github.com/CleverRaven/Cataclysm-DDA/pull/57655))
-* Bad Back cancels Strong Back ([#57656](https://github.com/CleverRaven/Cataclysm-DDA/pull/57656))
