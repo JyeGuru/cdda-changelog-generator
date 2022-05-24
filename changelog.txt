@@ -110,8 +110,6 @@ Cataclysm-DDA experimental build 2022-05-17-1927 (29bbc8b)
 Cataclysm-DDA experimental build 2022-05-17-0536 (681c2a4)
 * Adjust flip-flops encumbrance (#57740)
 * Revert "feat: use github auto assign label to issue templates" (#57763)
-
-Cataclysm-DDA experimental build 2022-05-16-2138 (556afb9)
 * Make 8x40mm 50-round box mag rigid (#57741)
 * Add new marina roof OMTs to test whitelist (#57663)
 * Remove extra space from a terrain name (#57711)

@@ -179,11 +179,6 @@
 
 * Adjust flip-flops encumbrance ([#57740](https://github.com/CleverRaven/Cataclysm-DDA/pull/57740))
 * Revert "feat: use github auto assign label to issue templates" ([#57763](https://github.com/CleverRaven/Cataclysm-DDA/pull/57763))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-16-2138 ([556afb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-16-2138))
-
 * Make 8x40mm 50-round box mag rigid ([#57741](https://github.com/CleverRaven/Cataclysm-DDA/pull/57741))
 * Add new marina roof OMTs to test whitelist ([#57663](https://github.com/CleverRaven/Cataclysm-DDA/pull/57663))
 * Remove extra space from a terrain name ([#57711](https://github.com/CleverRaven/Cataclysm-DDA/pull/57711))
