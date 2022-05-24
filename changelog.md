@@ -1,3 +1,8 @@
+* Cold leach acorns 2 ([#57850](https://github.com/CleverRaven/Cataclysm-DDA/pull/57850))
+* update steel mill monster spawn ([#57841](https://github.com/CleverRaven/Cataclysm-DDA/pull/57841))
+* Add a roof to military outposts ([#57874](https://github.com/CleverRaven/Cataclysm-DDA/pull/57874))
+* Add kevlar shears to tailor's kit recipe ([#57892](https://github.com/CleverRaven/Cataclysm-DDA/pull/57892))
+* [DinoMod] shady shady theropods ([#57776](https://github.com/CleverRaven/Cataclysm-DDA/pull/57776))
 
 ---
 
@@ -112,7 +117,6 @@
 
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
 * Extra Container files to be labeled ([#57718](https://github.com/CleverRaven/Cataclysm-DDA/pull/57718))
-* Fixed weird changing room windows ([#57673](https://github.com/CleverRaven/Cataclysm-DDA/pull/57673))
 
 ---
 
@@ -166,10 +170,8 @@
 
 * map: run open_door() logic with the right creature ([#57756](https://github.com/CleverRaven/Cataclysm-DDA/pull/57756))
 * moon tear → moon tears ([#57727](https://github.com/CleverRaven/Cataclysm-DDA/pull/57727))
-* Add pipe bundles ([#57681](https://github.com/CleverRaven/Cataclysm-DDA/pull/57681))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
 * set up the hide structure to cover all the values ([#57732](https://github.com/CleverRaven/Cataclysm-DDA/pull/57732))
-* Updated smoking etc. to name fruit/veggies ([#57671](https://github.com/CleverRaven/Cataclysm-DDA/pull/57671))
 * Fixed Ki Strike and Claw mutations damage ([#57695](https://github.com/CleverRaven/Cataclysm-DDA/pull/57695))
 * St, → St. ([#57723](https://github.com/CleverRaven/Cataclysm-DDA/pull/57723))
 * ebook → e-book ([#57736](https://github.com/CleverRaven/Cataclysm-DDA/pull/57736))
@@ -207,5 +209,3 @@
 * Fix missing dot on description ([#57690](https://github.com/CleverRaven/Cataclysm-DDA/pull/57690))
 * Cody will no longer give free duplicate artisan armor ([#57701](https://github.com/CleverRaven/Cataclysm-DDA/pull/57701))
 * Remove extra newlines ([#57691](https://github.com/CleverRaven/Cataclysm-DDA/pull/57691))
-* calendar: relax time_accuracy enumeration ([#57672](https://github.com/CleverRaven/Cataclysm-DDA/pull/57672))
-* Routine i18n updates on 14 May 2022 ([#57682](https://github.com/CleverRaven/Cataclysm-DDA/pull/57682))
