@@ -19,21 +19,11 @@
 #### Cataclysm-DDA experimental build 2022-05-25-0126 ([a595ad9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-0126))
 
 * Starvation alert trigger lowered and slowed ([#57900](https://github.com/CleverRaven/Cataclysm-DDA/pull/57900))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-24-2057 ([2c0acf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-2057))
-
 * Cold leach acorns 2 ([#57850](https://github.com/CleverRaven/Cataclysm-DDA/pull/57850))
 * update steel mill monster spawn ([#57841](https://github.com/CleverRaven/Cataclysm-DDA/pull/57841))
 * Add a roof to military outposts ([#57874](https://github.com/CleverRaven/Cataclysm-DDA/pull/57874))
 * Add kevlar shears to tailor's kit recipe ([#57892](https://github.com/CleverRaven/Cataclysm-DDA/pull/57892))
 * [DinoMod] shady shady theropods ([#57776](https://github.com/CleverRaven/Cataclysm-DDA/pull/57776))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-24-1946 ([cf0791a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-1946))
-
 * Refresh player stats in creation screen ([#57884](https://github.com/CleverRaven/Cataclysm-DDA/pull/57884))
 * Update comment-commands.yml ([#57895](https://github.com/CleverRaven/Cataclysm-DDA/pull/57895))
 
@@ -55,11 +45,6 @@
 
 * Fixes for "XS holster" and "XS leather rifle case" ([#57773](https://github.com/CleverRaven/Cataclysm-DDA/pull/57773))
 * Fix wearing power armor hauling frame ([#57836](https://github.com/CleverRaven/Cataclysm-DDA/pull/57836))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-24-0014 ([d03b273](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0014))
-
 * Minor strange cabin basement overhaul ([#57869](https://github.com/CleverRaven/Cataclysm-DDA/pull/57869))
 
 ---
@@ -105,11 +90,6 @@
 #### Cataclysm-DDA experimental build 2022-05-22-0342 ([1d5d188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0342))
 
 * Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-22-0218 ([a4628ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0218))
-
 * Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
 * Restored effect of Pain Recovery mutation line ([#57798](https://github.com/CleverRaven/Cataclysm-DDA/pull/57798))
 * Routine i18n updates on 21 May 2022 ([#57823](https://github.com/CleverRaven/Cataclysm-DDA/pull/57823))
@@ -143,11 +123,6 @@
 
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
 * Extra Container files to be labeled ([#57718](https://github.com/CleverRaven/Cataclysm-DDA/pull/57718))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-19-0557 ([218edd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-19-0557))
-
 * Tweak grammar in `PALS_LARGE` description ([#57794](https://github.com/CleverRaven/Cataclysm-DDA/pull/57794))
 * fix: default issue template labels ([#57792](https://github.com/CleverRaven/Cataclysm-DDA/pull/57792))
 
@@ -170,10 +145,30 @@
 #### Cataclysm-DDA experimental build 2022-05-18-2327 ([42dbcfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-2327))
 
 * Fix typos in starting_missions.json ([#57793](https://github.com/CleverRaven/Cataclysm-DDA/pull/57793))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-18-2024 ([173e28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-2024))
+
 * Allow disassembling very heavy items ([#57769](https://github.com/CleverRaven/Cataclysm-DDA/pull/57769))
 * Add cosmetics store, moisturizer ([#57751](https://github.com/CleverRaven/Cataclysm-DDA/pull/57751))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-18-1915 ([d7863be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-1915))
+
 * Clarify plural check message ([#57786](https://github.com/CleverRaven/Cataclysm-DDA/pull/57786))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-18-1335 ([962ad68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-1335))
+
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-18-0029 ([77955ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-0029))
+
 * map: run open_door() logic with the right creature ([#57756](https://github.com/CleverRaven/Cataclysm-DDA/pull/57756))
 * moon tear → moon tears ([#57727](https://github.com/CleverRaven/Cataclysm-DDA/pull/57727))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
