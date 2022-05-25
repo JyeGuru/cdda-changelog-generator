@@ -1,3 +1,8 @@
+* [DinoMod] change CBM spawns (#57767)
+* Shoe Bottoms / Soles (#57903)
+
+Cataclysm-DDA experimental build 2022-05-25-0126 (a595ad9)
+* Starvation alert trigger lowered and slowed (#57900)
 
 Cataclysm-DDA experimental build 2022-05-24-2057 (2c0acf4)
 * Cold leach acorns 2 (#57850)
@@ -93,8 +98,6 @@ Cataclysm-DDA experimental build 2022-05-18-2024 (173e28b)
 
 Cataclysm-DDA experimental build 2022-05-18-1915 (d7863be)
 * Clarify plural check message (#57786)
-
-Cataclysm-DDA experimental build 2022-05-18-1335 (962ad68)
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps (#57784)
 * map: run open_door() logic with the right creature (#57756)
 * moon tear → moon tears (#57727)
@@ -134,6 +137,5 @@ Cataclysm-DDA experimental build 2022-05-18-1335 (962ad68)
 * chainlink → chain link (#57725)
 * cataclysm → Cataclysm (#57724)
 * Carl Gustav → Carl Gustaf (#57710)
-* Fix missing dot on description (#57690)
 * Cody will no longer give free duplicate artisan armor (#57701)
 * Remove extra newlines (#57691)

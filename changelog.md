@@ -1,3 +1,11 @@
+* [DinoMod] change CBM spawns ([#57767](https://github.com/CleverRaven/Cataclysm-DDA/pull/57767))
+* Shoe Bottoms / Soles ([#57903](https://github.com/CleverRaven/Cataclysm-DDA/pull/57903))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-25-0126 ([a595ad9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-0126))
+
+* Starvation alert trigger lowered and slowed ([#57900](https://github.com/CleverRaven/Cataclysm-DDA/pull/57900))
 
 ---
 
@@ -162,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-05-18-1915 ([d7863be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-1915))
 
 * Clarify plural check message ([#57786](https://github.com/CleverRaven/Cataclysm-DDA/pull/57786))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-18-1335 ([962ad68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-1335))
-
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
 * map: run open_door() logic with the right creature ([#57756](https://github.com/CleverRaven/Cataclysm-DDA/pull/57756))
 * moon tear → moon tears ([#57727](https://github.com/CleverRaven/Cataclysm-DDA/pull/57727))
@@ -206,6 +209,5 @@
 * chainlink → chain link ([#57725](https://github.com/CleverRaven/Cataclysm-DDA/pull/57725))
 * cataclysm → Cataclysm ([#57724](https://github.com/CleverRaven/Cataclysm-DDA/pull/57724))
 * Carl Gustav → Carl Gustaf ([#57710](https://github.com/CleverRaven/Cataclysm-DDA/pull/57710))
-* Fix missing dot on description ([#57690](https://github.com/CleverRaven/Cataclysm-DDA/pull/57690))
 * Cody will no longer give free duplicate artisan armor ([#57701](https://github.com/CleverRaven/Cataclysm-DDA/pull/57701))
 * Remove extra newlines ([#57691](https://github.com/CleverRaven/Cataclysm-DDA/pull/57691))
