@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-25-1740 ([117381b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-1740))
+
+* "Huge" mutation bugfix ([#57919](https://github.com/CleverRaven/Cataclysm-DDA/pull/57919))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-25-0655 ([8e26d46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-0655))
 
 * Update talk_tags.json ([#57787](https://github.com/CleverRaven/Cataclysm-DDA/pull/57787))
@@ -164,11 +170,6 @@
 * Unify option descriptions ([#57715](https://github.com/CleverRaven/Cataclysm-DDA/pull/57715))
 * Don't auto pickup electrons ([#57765](https://github.com/CleverRaven/Cataclysm-DDA/pull/57765))
 * Armor Balance documentation typo fix ([#57782](https://github.com/CleverRaven/Cataclysm-DDA/pull/57782))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-18-2327 ([42dbcfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-2327))
-
 * Fix typos in starting_missions.json ([#57793](https://github.com/CleverRaven/Cataclysm-DDA/pull/57793))
 * Allow disassembling very heavy items ([#57769](https://github.com/CleverRaven/Cataclysm-DDA/pull/57769))
 * Add cosmetics store, moisturizer ([#57751](https://github.com/CleverRaven/Cataclysm-DDA/pull/57751))
@@ -203,7 +204,6 @@
 * Add durable melee flag to the Disorder ([#57712](https://github.com/CleverRaven/Cataclysm-DDA/pull/57712))
 * Change ; to , for throwing prompts ([#57713](https://github.com/CleverRaven/Cataclysm-DDA/pull/57713))
 * zones: don't rotate personal zones ([#57721](https://github.com/CleverRaven/Cataclysm-DDA/pull/57721))
-* Railroad Update ([#57707](https://github.com/CleverRaven/Cataclysm-DDA/pull/57707))
 * Comes in size XX → Comes in XX size ([#57728](https://github.com/CleverRaven/Cataclysm-DDA/pull/57728))
 * member → Member ([#57726](https://github.com/CleverRaven/Cataclysm-DDA/pull/57726))
 * chainlink → chain link ([#57725](https://github.com/CleverRaven/Cataclysm-DDA/pull/57725))
