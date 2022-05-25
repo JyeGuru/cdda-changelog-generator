@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-25-0655 ([8e26d46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-0655))
+
+* Update talk_tags.json ([#57787](https://github.com/CleverRaven/Cataclysm-DDA/pull/57787))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-25-0238 ([2e13887](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-0238))
 
 * Expand nightmare snippets ([#57813](https://github.com/CleverRaven/Cataclysm-DDA/pull/57813))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-05-18-2327 ([42dbcfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-2327))
 
 * Fix typos in starting_missions.json ([#57793](https://github.com/CleverRaven/Cataclysm-DDA/pull/57793))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-18-2024 ([173e28b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-18-2024))
-
 * Allow disassembling very heavy items ([#57769](https://github.com/CleverRaven/Cataclysm-DDA/pull/57769))
 * Add cosmetics store, moisturizer ([#57751](https://github.com/CleverRaven/Cataclysm-DDA/pull/57751))
 * Clarify plural check message ([#57786](https://github.com/CleverRaven/Cataclysm-DDA/pull/57786))
@@ -199,7 +200,6 @@
 * Wrists -> Fingers in armor summary UI ([#57731](https://github.com/CleverRaven/Cataclysm-DDA/pull/57731))
 * Update childlike fetch singular to match plural ([#57729](https://github.com/CleverRaven/Cataclysm-DDA/pull/57729))
 * Add plural for shimmer wolf ([#57730](https://github.com/CleverRaven/Cataclysm-DDA/pull/57730))
-* Maybe Later → Maybe later ([#57703](https://github.com/CleverRaven/Cataclysm-DDA/pull/57703))
 * Add durable melee flag to the Disorder ([#57712](https://github.com/CleverRaven/Cataclysm-DDA/pull/57712))
 * Change ; to , for throwing prompts ([#57713](https://github.com/CleverRaven/Cataclysm-DDA/pull/57713))
 * zones: don't rotate personal zones ([#57721](https://github.com/CleverRaven/Cataclysm-DDA/pull/57721))
