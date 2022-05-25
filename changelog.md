@@ -209,4 +209,3 @@
 * chainlink → chain link ([#57725](https://github.com/CleverRaven/Cataclysm-DDA/pull/57725))
 * cataclysm → Cataclysm ([#57724](https://github.com/CleverRaven/Cataclysm-DDA/pull/57724))
 * Carl Gustav → Carl Gustaf ([#57710](https://github.com/CleverRaven/Cataclysm-DDA/pull/57710))
-* Cody will no longer give free duplicate artisan armor ([#57701](https://github.com/CleverRaven/Cataclysm-DDA/pull/57701))
