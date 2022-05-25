@@ -177,7 +177,6 @@
 * moon tear → moon tears ([#57727](https://github.com/CleverRaven/Cataclysm-DDA/pull/57727))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
 * set up the hide structure to cover all the values ([#57732](https://github.com/CleverRaven/Cataclysm-DDA/pull/57732))
-* Fixed Ki Strike and Claw mutations damage ([#57695](https://github.com/CleverRaven/Cataclysm-DDA/pull/57695))
 * St, → St. ([#57723](https://github.com/CleverRaven/Cataclysm-DDA/pull/57723))
 * ebook → e-book ([#57736](https://github.com/CleverRaven/Cataclysm-DDA/pull/57736))
 * Remove extra spaces between parantheses ([#57737](https://github.com/CleverRaven/Cataclysm-DDA/pull/57737))
