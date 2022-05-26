@@ -84,8 +84,6 @@ Cataclysm-DDA experimental build 2022-05-22-0543 (051a3c7)
 
 Cataclysm-DDA experimental build 2022-05-22-0442 (01f7b57)
 * Fix freed pointer use when summoned vehicle despawns during autodrive. (#57820)
-
-Cataclysm-DDA experimental build 2022-05-22-0342 (1d5d188)
 * Aircraft carrier scenario (#57839)
 
 Cataclysm-DDA experimental build 2022-05-22-0218 (a4628ed)
