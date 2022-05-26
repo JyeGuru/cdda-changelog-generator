@@ -1,3 +1,4 @@
+* Make fur mutation armor give warmth to the mouth ([#57920](https://github.com/CleverRaven/Cataclysm-DDA/pull/57920))
 
 ---
 
@@ -166,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2022-05-20-0407 ([58ab772](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-20-0407))
 
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-19-0557 ([218edd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-19-0557))
-
 * Tweak grammar in `PALS_LARGE` description ([#57794](https://github.com/CleverRaven/Cataclysm-DDA/pull/57794))
 * fix: default issue template labels ([#57792](https://github.com/CleverRaven/Cataclysm-DDA/pull/57792))
 * Holo cloak now soft ([#57796](https://github.com/CleverRaven/Cataclysm-DDA/pull/57796))
@@ -185,7 +181,6 @@
 * moon tear → moon tears ([#57727](https://github.com/CleverRaven/Cataclysm-DDA/pull/57727))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
 * set up the hide structure to cover all the values ([#57732](https://github.com/CleverRaven/Cataclysm-DDA/pull/57732))
-* St, → St. ([#57723](https://github.com/CleverRaven/Cataclysm-DDA/pull/57723))
 * ebook → e-book ([#57736](https://github.com/CleverRaven/Cataclysm-DDA/pull/57736))
 * Remove extra spaces between parantheses ([#57737](https://github.com/CleverRaven/Cataclysm-DDA/pull/57737))
 * hase → has ([#57738](https://github.com/CleverRaven/Cataclysm-DDA/pull/57738))

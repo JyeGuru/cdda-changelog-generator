@@ -1,3 +1,4 @@
+* Make fur mutation armor give warmth to the mouth (#57920)
 
 Cataclysm-DDA experimental build 2022-05-26-0132 (aaa3e24)
 * Clothing and Armor Coverage Conversion Part 1 (#57911)
@@ -97,8 +98,6 @@ Cataclysm-DDA experimental build 2022-05-20-0847 (f5861b7)
 
 Cataclysm-DDA experimental build 2022-05-20-0407 (58ab772)
 * Disambiguate light machinery from counter in lab palettes (#57801)
-
-Cataclysm-DDA experimental build 2022-05-19-0557 (218edd5)
 * Tweak grammar in `PALS_LARGE` description (#57794)
 * fix: default issue template labels (#57792)
 * Holo cloak now soft (#57796)
@@ -113,7 +112,6 @@ Cataclysm-DDA experimental build 2022-05-19-0557 (218edd5)
 * moon tear → moon tears (#57727)
 * Make gold ring fancy (#57760)
 * set up the hide structure to cover all the values (#57732)
-* St, → St. (#57723)
 * ebook → e-book (#57736)
 * Remove extra spaces between parantheses (#57737)
 * hase → has (#57738)
