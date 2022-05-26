@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-26-0340 (d2a94d2)
 * Make fur mutation armor give warmth to the mouth (#57920)
 
 Cataclysm-DDA experimental build 2022-05-26-0132 (aaa3e24)
