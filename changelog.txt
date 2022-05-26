@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-26-0515 (5621a8a)
+* Allows dissassembly of turret mounts (#57858)
+
 Cataclysm-DDA experimental build 2022-05-26-0340 (d2a94d2)
 * Make fur mutation armor give warmth to the mouth (#57920)
 
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2022-05-21-1219 (c6030fb)
 
 Cataclysm-DDA experimental build 2022-05-20-0847 (f5861b7)
 * Beach professions (#57744)
-
-Cataclysm-DDA experimental build 2022-05-20-0407 (58ab772)
 * Disambiguate light machinery from counter in lab palettes (#57801)
 * Tweak grammar in `PALS_LARGE` description (#57794)
 * fix: default issue template labels (#57792)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-05-20-0407 (58ab772)
 * Comes in size XX → Comes in XX size (#57728)
 * member → Member (#57726)
 * chainlink → chain link (#57725)
-* cataclysm → Cataclysm (#57724)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-26-0515 ([5621a8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-0515))
+
+* Allows dissassembly of turret mounts ([#57858](https://github.com/CleverRaven/Cataclysm-DDA/pull/57858))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-26-0340 ([d2a94d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-0340))
 
 * Make fur mutation armor give warmth to the mouth ([#57920](https://github.com/CleverRaven/Cataclysm-DDA/pull/57920))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-05-20-0847 ([f5861b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-20-0847))
 
 * Beach professions ([#57744](https://github.com/CleverRaven/Cataclysm-DDA/pull/57744))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-20-0407 ([58ab772](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-20-0407))
-
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
 * Tweak grammar in `PALS_LARGE` description ([#57794](https://github.com/CleverRaven/Cataclysm-DDA/pull/57794))
 * fix: default issue template labels ([#57792](https://github.com/CleverRaven/Cataclysm-DDA/pull/57792))
@@ -208,4 +209,3 @@
 * Comes in size XX → Comes in XX size ([#57728](https://github.com/CleverRaven/Cataclysm-DDA/pull/57728))
 * member → Member ([#57726](https://github.com/CleverRaven/Cataclysm-DDA/pull/57726))
 * chainlink → chain link ([#57725](https://github.com/CleverRaven/Cataclysm-DDA/pull/57725))
-* cataclysm → Cataclysm ([#57724](https://github.com/CleverRaven/Cataclysm-DDA/pull/57724))
