@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-26-1332 ([b683075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-1332))
+
+* Clothing and Armor Coverage Conversion Part 2 ([#57940](https://github.com/CleverRaven/Cataclysm-DDA/pull/57940))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-26-0515 ([5621a8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-0515))
 
 * Allows dissassembly of turret mounts ([#57858](https://github.com/CleverRaven/Cataclysm-DDA/pull/57858))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-05-21-1219 ([c6030fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-21-1219))
 
 * bulls-eye → bullseye ([#57828](https://github.com/CleverRaven/Cataclysm-DDA/pull/57828))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-20-0847 ([f5861b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-20-0847))
-
 * Beach professions ([#57744](https://github.com/CleverRaven/Cataclysm-DDA/pull/57744))
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
 * Tweak grammar in `PALS_LARGE` description ([#57794](https://github.com/CleverRaven/Cataclysm-DDA/pull/57794))
@@ -208,4 +209,3 @@
 * Add plural for shimmer wolf ([#57730](https://github.com/CleverRaven/Cataclysm-DDA/pull/57730))
 * Comes in size XX → Comes in XX size ([#57728](https://github.com/CleverRaven/Cataclysm-DDA/pull/57728))
 * member → Member ([#57726](https://github.com/CleverRaven/Cataclysm-DDA/pull/57726))
-* chainlink → chain link ([#57725](https://github.com/CleverRaven/Cataclysm-DDA/pull/57725))

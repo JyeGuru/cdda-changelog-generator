@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-26-1332 (b683075)
+* Clothing and Armor Coverage Conversion Part 2 (#57940)
+
 Cataclysm-DDA experimental build 2022-05-26-0515 (5621a8a)
 * Allows dissassembly of turret mounts (#57858)
 
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2022-05-21-1817 (714cafd)
 
 Cataclysm-DDA experimental build 2022-05-21-1219 (c6030fb)
 * bulls-eye → bullseye (#57828)
-
-Cataclysm-DDA experimental build 2022-05-20-0847 (f5861b7)
 * Beach professions (#57744)
 * Disambiguate light machinery from counter in lab palettes (#57801)
 * Tweak grammar in `PALS_LARGE` description (#57794)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-05-20-0847 (f5861b7)
 * Add plural for shimmer wolf (#57730)
 * Comes in size XX → Comes in XX size (#57728)
 * member → Member (#57726)
-* chainlink → chain link (#57725)
