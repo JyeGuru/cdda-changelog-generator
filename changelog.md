@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-26-0132 ([aaa3e24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-0132))
+
+* Clothing and Armor Coverage Conversion Part 1 ([#57911](https://github.com/CleverRaven/Cataclysm-DDA/pull/57911))
+* Prevent save crash by sanitizing backlog in firstaid activity ([#57928](https://github.com/CleverRaven/Cataclysm-DDA/pull/57928))
+* more clearly differentiate the shoulders on bodygraph ([#57935](https://github.com/CleverRaven/Cataclysm-DDA/pull/57935))
+* Match some job names to majority ([#57849](https://github.com/CleverRaven/Cataclysm-DDA/pull/57849))
+* Player-owned vehicles won't spawn locked ([#57870](https://github.com/CleverRaven/Cataclysm-DDA/pull/57870))
+* explosion: fixup for defered explosions ([#57897](https://github.com/CleverRaven/Cataclysm-DDA/pull/57897))
+* [DinoMod] brave ankylosaurids ([#57896](https://github.com/CleverRaven/Cataclysm-DDA/pull/57896))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-26-0031 ([f366e38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-0031))
+
+* fixed typo with right foot bottom ([#57933](https://github.com/CleverRaven/Cataclysm-DDA/pull/57933))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-25-1740 ([117381b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-1740))
 
 * "Huge" mutation bugfix ([#57919](https://github.com/CleverRaven/Cataclysm-DDA/pull/57919))
@@ -148,7 +166,6 @@
 #### Cataclysm-DDA experimental build 2022-05-20-0407 ([58ab772](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-20-0407))
 
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
-* Extra Container files to be labeled ([#57718](https://github.com/CleverRaven/Cataclysm-DDA/pull/57718))
 
 ---
 
@@ -156,18 +173,7 @@
 
 * Tweak grammar in `PALS_LARGE` description ([#57794](https://github.com/CleverRaven/Cataclysm-DDA/pull/57794))
 * fix: default issue template labels ([#57792](https://github.com/CleverRaven/Cataclysm-DDA/pull/57792))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-19-0332 ([406401f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-19-0332))
-
 * Holo cloak now soft ([#57796](https://github.com/CleverRaven/Cataclysm-DDA/pull/57796))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-19-0029 ([b0d3624](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-19-0029))
-
-* Unify option descriptions ([#57715](https://github.com/CleverRaven/Cataclysm-DDA/pull/57715))
 * Don't auto pickup electrons ([#57765](https://github.com/CleverRaven/Cataclysm-DDA/pull/57765))
 * Armor Balance documentation typo fix ([#57782](https://github.com/CleverRaven/Cataclysm-DDA/pull/57782))
 * Fix typos in starting_missions.json ([#57793](https://github.com/CleverRaven/Cataclysm-DDA/pull/57793))
@@ -196,16 +202,10 @@
 * Adjust flip-flops encumbrance ([#57740](https://github.com/CleverRaven/Cataclysm-DDA/pull/57740))
 * Revert "feat: use github auto assign label to issue templates" ([#57763](https://github.com/CleverRaven/Cataclysm-DDA/pull/57763))
 * Make 8x40mm 50-round box mag rigid ([#57741](https://github.com/CleverRaven/Cataclysm-DDA/pull/57741))
-* Remove extra space from a terrain name ([#57711](https://github.com/CleverRaven/Cataclysm-DDA/pull/57711))
-* Hub 01 Environment suit now has proper boot and glove parts ([#57709](https://github.com/CleverRaven/Cataclysm-DDA/pull/57709))
 * Wrists -> Fingers in armor summary UI ([#57731](https://github.com/CleverRaven/Cataclysm-DDA/pull/57731))
 * Update childlike fetch singular to match plural ([#57729](https://github.com/CleverRaven/Cataclysm-DDA/pull/57729))
 * Add plural for shimmer wolf ([#57730](https://github.com/CleverRaven/Cataclysm-DDA/pull/57730))
-* Add durable melee flag to the Disorder ([#57712](https://github.com/CleverRaven/Cataclysm-DDA/pull/57712))
-* Change ; to , for throwing prompts ([#57713](https://github.com/CleverRaven/Cataclysm-DDA/pull/57713))
-* zones: don't rotate personal zones ([#57721](https://github.com/CleverRaven/Cataclysm-DDA/pull/57721))
 * Comes in size XX → Comes in XX size ([#57728](https://github.com/CleverRaven/Cataclysm-DDA/pull/57728))
 * member → Member ([#57726](https://github.com/CleverRaven/Cataclysm-DDA/pull/57726))
 * chainlink → chain link ([#57725](https://github.com/CleverRaven/Cataclysm-DDA/pull/57725))
 * cataclysm → Cataclysm ([#57724](https://github.com/CleverRaven/Cataclysm-DDA/pull/57724))
-* Carl Gustav → Carl Gustaf ([#57710](https://github.com/CleverRaven/Cataclysm-DDA/pull/57710))
