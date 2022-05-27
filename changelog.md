@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-27-0523 ([9ab7cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-27-0523))
+
+* Assign a price to the battery toolmods ([#57901](https://github.com/CleverRaven/Cataclysm-DDA/pull/57901))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-27-0329 ([61c5517](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-27-0329))
 
 * construction: increase construction activity levels ([#57860](https://github.com/CleverRaven/Cataclysm-DDA/pull/57860))
@@ -183,11 +189,6 @@
 * Xedra Spy profession, mission, safehouse and fixes ([#57778](https://github.com/CleverRaven/Cataclysm-DDA/pull/57778))
 * Add moisturizer to bottle, add variants ([#57808](https://github.com/CleverRaven/Cataclysm-DDA/pull/57808))
 * [Aftershock] Remove bag of holding spawns ([#57822](https://github.com/CleverRaven/Cataclysm-DDA/pull/57822))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-21-1817 ([714cafd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-21-1817))
-
 * Carry over relative rot during item transformation and fix transformed comestible not rotting over time ([#57824](https://github.com/CleverRaven/Cataclysm-DDA/pull/57824))
 * bulls-eye → bullseye ([#57828](https://github.com/CleverRaven/Cataclysm-DDA/pull/57828))
 * Beach professions ([#57744](https://github.com/CleverRaven/Cataclysm-DDA/pull/57744))
@@ -204,7 +205,6 @@
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
 * map: run open_door() logic with the right creature ([#57756](https://github.com/CleverRaven/Cataclysm-DDA/pull/57756))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
-* Remove extra spaces between parantheses ([#57737](https://github.com/CleverRaven/Cataclysm-DDA/pull/57737))
 * hase → has ([#57738](https://github.com/CleverRaven/Cataclysm-DDA/pull/57738))
 * Add full stops to descriptions in Magiclysm ([#57739](https://github.com/CleverRaven/Cataclysm-DDA/pull/57739))
 * Remove magazines when disassembling items ([#57747](https://github.com/CleverRaven/Cataclysm-DDA/pull/57747))
