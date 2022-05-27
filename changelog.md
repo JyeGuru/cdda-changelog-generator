@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-27-0329 ([61c5517](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-27-0329))
+
+* construction: increase construction activity levels ([#57860](https://github.com/CleverRaven/Cataclysm-DDA/pull/57860))
 * npctrade: json-ize shop consumption rates ([#57852](https://github.com/CleverRaven/Cataclysm-DDA/pull/57852))
 * Work towards Deprecating "melee_cut" ([#57913](https://github.com/CleverRaven/Cataclysm-DDA/pull/57913))
 * sdl: don't start text input if already in text input ([#57932](https://github.com/CleverRaven/Cataclysm-DDA/pull/57932))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2022-05-21-1817 ([714cafd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-21-1817))
 
 * Carry over relative rot during item transformation and fix transformed comestible not rotting over time ([#57824](https://github.com/CleverRaven/Cataclysm-DDA/pull/57824))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-21-1219 ([c6030fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-21-1219))
-
 * bulls-eye → bullseye ([#57828](https://github.com/CleverRaven/Cataclysm-DDA/pull/57828))
 * Beach professions ([#57744](https://github.com/CleverRaven/Cataclysm-DDA/pull/57744))
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
@@ -203,7 +204,6 @@
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
 * map: run open_door() logic with the right creature ([#57756](https://github.com/CleverRaven/Cataclysm-DDA/pull/57756))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
-* ebook → e-book ([#57736](https://github.com/CleverRaven/Cataclysm-DDA/pull/57736))
 * Remove extra spaces between parantheses ([#57737](https://github.com/CleverRaven/Cataclysm-DDA/pull/57737))
 * hase → has ([#57738](https://github.com/CleverRaven/Cataclysm-DDA/pull/57738))
 * Add full stops to descriptions in Magiclysm ([#57739](https://github.com/CleverRaven/Cataclysm-DDA/pull/57739))
