@@ -1,3 +1,14 @@
+* npctrade: json-ize shop consumption rates ([#57852](https://github.com/CleverRaven/Cataclysm-DDA/pull/57852))
+* Work towards Deprecating "melee_cut" ([#57913](https://github.com/CleverRaven/Cataclysm-DDA/pull/57913))
+* sdl: don't start text input if already in text input ([#57932](https://github.com/CleverRaven/Cataclysm-DDA/pull/57932))
+* Update laser gun mods to use heat damage type ([#57938](https://github.com/CleverRaven/Cataclysm-DDA/pull/57938))
+* Made velocity change consistent ([#57941](https://github.com/CleverRaven/Cataclysm-DDA/pull/57941))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-27-0228 ([28b5335](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-27-0228))
+
+* Add carving proficiency to knitting needles ([#57951](https://github.com/CleverRaven/Cataclysm-DDA/pull/57951))
 
 ---
 
@@ -191,9 +202,7 @@
 * Clarify plural check message ([#57786](https://github.com/CleverRaven/Cataclysm-DDA/pull/57786))
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
 * map: run open_door() logic with the right creature ([#57756](https://github.com/CleverRaven/Cataclysm-DDA/pull/57756))
-* moon tear → moon tears ([#57727](https://github.com/CleverRaven/Cataclysm-DDA/pull/57727))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
-* set up the hide structure to cover all the values ([#57732](https://github.com/CleverRaven/Cataclysm-DDA/pull/57732))
 * ebook → e-book ([#57736](https://github.com/CleverRaven/Cataclysm-DDA/pull/57736))
 * Remove extra spaces between parantheses ([#57737](https://github.com/CleverRaven/Cataclysm-DDA/pull/57737))
 * hase → has ([#57738](https://github.com/CleverRaven/Cataclysm-DDA/pull/57738))
@@ -210,7 +219,3 @@
 * Adjust flip-flops encumbrance ([#57740](https://github.com/CleverRaven/Cataclysm-DDA/pull/57740))
 * Revert "feat: use github auto assign label to issue templates" ([#57763](https://github.com/CleverRaven/Cataclysm-DDA/pull/57763))
 * Make 8x40mm 50-round box mag rigid ([#57741](https://github.com/CleverRaven/Cataclysm-DDA/pull/57741))
-* Wrists -> Fingers in armor summary UI ([#57731](https://github.com/CleverRaven/Cataclysm-DDA/pull/57731))
-* Update childlike fetch singular to match plural ([#57729](https://github.com/CleverRaven/Cataclysm-DDA/pull/57729))
-* Add plural for shimmer wolf ([#57730](https://github.com/CleverRaven/Cataclysm-DDA/pull/57730))
-* Comes in size XX → Comes in XX size ([#57728](https://github.com/CleverRaven/Cataclysm-DDA/pull/57728))
