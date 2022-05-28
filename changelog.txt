@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-28-0754 (6027e66)
 * fix: bad <swear> tag (#57955)
 * remove hard code rigid rules for feet (#57934)
 * [DinoMod] cathemeral dinos (#57954)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2022-05-22-0543 (051a3c7)
 
 Cataclysm-DDA experimental build 2022-05-22-0442 (01f7b57)
 * Fix freed pointer use when summoned vehicle despawns during autodrive. (#57820)
-
-Cataclysm-DDA experimental build 2022-05-22-0342 (1d5d188)
 * Aircraft carrier scenario (#57839)
 * Punctuate miss recoveries. (#57838)
 * Restored effect of Pain Recovery mutation line (#57798)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-28-0754 ([6027e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-28-0754))
+
 * fix: bad <swear> tag ([#57955](https://github.com/CleverRaven/Cataclysm-DDA/pull/57955))
 * remove hard code rigid rules for feet ([#57934](https://github.com/CleverRaven/Cataclysm-DDA/pull/57934))
 * [DinoMod] cathemeral dinos ([#57954](https://github.com/CleverRaven/Cataclysm-DDA/pull/57954))
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-05-22-0442 ([01f7b57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0442))
 
 * Fix freed pointer use when summoned vehicle despawns during autodrive. ([#57820](https://github.com/CleverRaven/Cataclysm-DDA/pull/57820))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-22-0342 ([1d5d188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0342))
-
 * Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
 * Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
 * Restored effect of Pain Recovery mutation line ([#57798](https://github.com/CleverRaven/Cataclysm-DDA/pull/57798))
