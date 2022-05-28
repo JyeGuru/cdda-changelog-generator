@@ -1,3 +1,8 @@
+* fix: bad <swear> tag ([#57955](https://github.com/CleverRaven/Cataclysm-DDA/pull/57955))
+* remove hard code rigid rules for feet ([#57934](https://github.com/CleverRaven/Cataclysm-DDA/pull/57934))
+* [DinoMod] cathemeral dinos ([#57954](https://github.com/CleverRaven/Cataclysm-DDA/pull/57954))
+* Construction activity level fixup ([#57958](https://github.com/CleverRaven/Cataclysm-DDA/pull/57958))
+* removed appliances from valid vehicle deconstruction targets ([#57960](https://github.com/CleverRaven/Cataclysm-DDA/pull/57960))
 * fix: nre printout typos ([#57963](https://github.com/CleverRaven/Cataclysm-DDA/pull/57963))
 
 ---
@@ -193,7 +198,6 @@
 * [Aftershock] Remove bag of holding spawns ([#57822](https://github.com/CleverRaven/Cataclysm-DDA/pull/57822))
 * Carry over relative rot during item transformation and fix transformed comestible not rotting over time ([#57824](https://github.com/CleverRaven/Cataclysm-DDA/pull/57824))
 * bulls-eye → bullseye ([#57828](https://github.com/CleverRaven/Cataclysm-DDA/pull/57828))
-* Beach professions ([#57744](https://github.com/CleverRaven/Cataclysm-DDA/pull/57744))
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
 * Tweak grammar in `PALS_LARGE` description ([#57794](https://github.com/CleverRaven/Cataclysm-DDA/pull/57794))
 * fix: default issue template labels ([#57792](https://github.com/CleverRaven/Cataclysm-DDA/pull/57792))
@@ -211,11 +215,7 @@
 * Don't prompt for smashing acid corpses when immune to acid ([#57758](https://github.com/CleverRaven/Cataclysm-DDA/pull/57758))
 * activities: fix broken code in tidy activity ([#57761](https://github.com/CleverRaven/Cataclysm-DDA/pull/57761))
 * Drastically reduced price_postapoc of hobo fishing rods. ([#57757](https://github.com/CleverRaven/Cataclysm-DDA/pull/57757))
-* Inflatable boat and hand pump spawns ([#57745](https://github.com/CleverRaven/Cataclysm-DDA/pull/57745))
-* Swim caps ([#57743](https://github.com/CleverRaven/Cataclysm-DDA/pull/57743))
 * Cash registers - large buildings ([#57753](https://github.com/CleverRaven/Cataclysm-DDA/pull/57753))
 * Fix a typo 150000->15000 in POSTAPOC_PRICE_GUIDE.md ([#57750](https://github.com/CleverRaven/Cataclysm-DDA/pull/57750))
 * limit test failures to 20 things for density ([#57772](https://github.com/CleverRaven/Cataclysm-DDA/pull/57772))
-* Adjust flip-flops encumbrance ([#57740](https://github.com/CleverRaven/Cataclysm-DDA/pull/57740))
 * Revert "feat: use github auto assign label to issue templates" ([#57763](https://github.com/CleverRaven/Cataclysm-DDA/pull/57763))
-* Make 8x40mm 50-round box mag rigid ([#57741](https://github.com/CleverRaven/Cataclysm-DDA/pull/57741))
