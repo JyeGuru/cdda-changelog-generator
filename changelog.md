@@ -1,3 +1,10 @@
+* fix: nre printout typos ([#57963](https://github.com/CleverRaven/Cataclysm-DDA/pull/57963))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-28-0639 ([ed2af16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-28-0639))
+
+* Always convert uppercase on wchar_t ([#57967](https://github.com/CleverRaven/Cataclysm-DDA/pull/57967))
 
 ---
 
@@ -176,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2022-05-22-0342 ([1d5d188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0342))
 
 * Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-22-0218 ([a4628ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0218))
-
 * Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
 * Restored effect of Pain Recovery mutation line ([#57798](https://github.com/CleverRaven/Cataclysm-DDA/pull/57798))
 * Routine i18n updates on 21 May 2022 ([#57823](https://github.com/CleverRaven/Cataclysm-DDA/pull/57823))
@@ -205,8 +207,6 @@
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
 * map: run open_door() logic with the right creature ([#57756](https://github.com/CleverRaven/Cataclysm-DDA/pull/57756))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
-* hase → has ([#57738](https://github.com/CleverRaven/Cataclysm-DDA/pull/57738))
-* Add full stops to descriptions in Magiclysm ([#57739](https://github.com/CleverRaven/Cataclysm-DDA/pull/57739))
 * Remove magazines when disassembling items ([#57747](https://github.com/CleverRaven/Cataclysm-DDA/pull/57747))
 * Don't prompt for smashing acid corpses when immune to acid ([#57758](https://github.com/CleverRaven/Cataclysm-DDA/pull/57758))
 * activities: fix broken code in tidy activity ([#57761](https://github.com/CleverRaven/Cataclysm-DDA/pull/57761))
