@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-28-1015 ([9129922](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-28-1015))
+
+* Routine i18n updates on 28 May 2022 ([#57973](https://github.com/CleverRaven/Cataclysm-DDA/pull/57973))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-28-0754 ([6027e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-28-0754))
 
 * fix: bad <swear> tag ([#57955](https://github.com/CleverRaven/Cataclysm-DDA/pull/57955))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-05-22-0543 ([051a3c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0543))
 
 * Fix grocery bot description ([#57840](https://github.com/CleverRaven/Cataclysm-DDA/pull/57840))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-22-0442 ([01f7b57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-22-0442))
-
 * Fix freed pointer use when summoned vehicle despawns during autodrive. ([#57820](https://github.com/CleverRaven/Cataclysm-DDA/pull/57820))
 * Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
 * Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
@@ -211,7 +212,6 @@
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
 * map: run open_door() logic with the right creature ([#57756](https://github.com/CleverRaven/Cataclysm-DDA/pull/57756))
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
-* Remove magazines when disassembling items ([#57747](https://github.com/CleverRaven/Cataclysm-DDA/pull/57747))
 * Don't prompt for smashing acid corpses when immune to acid ([#57758](https://github.com/CleverRaven/Cataclysm-DDA/pull/57758))
 * activities: fix broken code in tidy activity ([#57761](https://github.com/CleverRaven/Cataclysm-DDA/pull/57761))
 * Drastically reduced price_postapoc of hobo fishing rods. ([#57757](https://github.com/CleverRaven/Cataclysm-DDA/pull/57757))
