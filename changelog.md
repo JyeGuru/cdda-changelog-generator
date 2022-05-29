@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-29-0616 ([4231084](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-29-0616))
+
 * Fix grammar mistakes in new talk tags ([#57931](https://github.com/CleverRaven/Cataclysm-DDA/pull/57931))
 * Update / expand clang-tidy local build docs ([#57971](https://github.com/CleverRaven/Cataclysm-DDA/pull/57971))
 * Add plural to M26 MASS ([#57976](https://github.com/CleverRaven/Cataclysm-DDA/pull/57976))
@@ -184,11 +189,6 @@
 * Add a fullstop to two descriptions ([#57851](https://github.com/CleverRaven/Cataclysm-DDA/pull/57851))
 * Adding Ghee as a fat usable for Pemmican ([#57825](https://github.com/CleverRaven/Cataclysm-DDA/pull/57825))
 * Add Textile mill museum ([#57805](https://github.com/CleverRaven/Cataclysm-DDA/pull/57805))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-23-0232 ([81d6e5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-23-0232))
-
 * Fix description of liberty talon ([#57855](https://github.com/CleverRaven/Cataclysm-DDA/pull/57855))
 * Fix grocery bot description ([#57840](https://github.com/CleverRaven/Cataclysm-DDA/pull/57840))
 * Fix freed pointer use when summoned vehicle despawns during autodrive. ([#57820](https://github.com/CleverRaven/Cataclysm-DDA/pull/57820))

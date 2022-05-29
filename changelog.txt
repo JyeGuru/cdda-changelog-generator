@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-29-0616 (4231084)
 * Fix grammar mistakes in new talk tags (#57931)
 * Update / expand clang-tidy local build docs (#57971)
 * Add plural to M26 MASS (#57976)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2022-05-23-0333 (cd1303a)
 * Add a fullstop to two descriptions (#57851)
 * Adding Ghee as a fat usable for Pemmican (#57825)
 * Add Textile mill museum (#57805)
-
-Cataclysm-DDA experimental build 2022-05-23-0232 (81d6e5e)
 * Fix description of liberty talon (#57855)
 * Fix grocery bot description (#57840)
 * Fix freed pointer use when summoned vehicle despawns during autodrive. (#57820)
