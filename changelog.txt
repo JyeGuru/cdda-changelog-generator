@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-29-2307 (8c73a5e)
 * Add NUTRIENT_OVERRIDE to json_flags md (#58008)
 * Add flags to robofac mission chunks (#57992)
 * fix: npc label (#58000)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2022-05-24-0115 (ea73260)
 
 Cataclysm-DDA experimental build 2022-05-24-0014 (d03b273)
 * Minor strange cabin basement overhaul (#57869)
-
-Cataclysm-DDA experimental build 2022-05-23-0733 (9dbad78)
 * Remove Car Salesman's duplicated watch  (#57867)
 * fix: automatic tileset updates error (#57868)
 * Add OLD_CURRENCY flag for strap/bundle to reduce keypress (#57833)

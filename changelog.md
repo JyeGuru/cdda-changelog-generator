@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-29-2307 ([8c73a5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-29-2307))
+
 * Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))
 * Add flags to robofac mission chunks ([#57992](https://github.com/CleverRaven/Cataclysm-DDA/pull/57992))
 * fix: npc label ([#58000](https://github.com/CleverRaven/Cataclysm-DDA/pull/58000))
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-05-24-0014 ([d03b273](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0014))
 
 * Minor strange cabin basement overhaul ([#57869](https://github.com/CleverRaven/Cataclysm-DDA/pull/57869))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-23-0733 ([9dbad78](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-23-0733))
-
 * Remove Car Salesman's duplicated watch  ([#57867](https://github.com/CleverRaven/Cataclysm-DDA/pull/57867))
 * fix: automatic tileset updates error ([#57868](https://github.com/CleverRaven/Cataclysm-DDA/pull/57868))
 * Add OLD_CURRENCY flag for strap/bundle to reduce keypress ([#57833](https://github.com/CleverRaven/Cataclysm-DDA/pull/57833))
