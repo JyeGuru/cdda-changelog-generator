@@ -1,3 +1,7 @@
+* Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))
+* Add flags to robofac mission chunks ([#57992](https://github.com/CleverRaven/Cataclysm-DDA/pull/57992))
+* fix: npc label ([#58000](https://github.com/CleverRaven/Cataclysm-DDA/pull/58000))
+* Start Location Fix ([#58003](https://github.com/CleverRaven/Cataclysm-DDA/pull/58003))
 
 ---
 
@@ -214,8 +218,4 @@
 * Allow disassembling very heavy items ([#57769](https://github.com/CleverRaven/Cataclysm-DDA/pull/57769))
 * Clarify plural check message ([#57786](https://github.com/CleverRaven/Cataclysm-DDA/pull/57786))
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
-* Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
-* Don't prompt for smashing acid corpses when immune to acid ([#57758](https://github.com/CleverRaven/Cataclysm-DDA/pull/57758))
-* activities: fix broken code in tidy activity ([#57761](https://github.com/CleverRaven/Cataclysm-DDA/pull/57761))
 * limit test failures to 20 things for density ([#57772](https://github.com/CleverRaven/Cataclysm-DDA/pull/57772))
-* Revert "feat: use github auto assign label to issue templates" ([#57763](https://github.com/CleverRaven/Cataclysm-DDA/pull/57763))
