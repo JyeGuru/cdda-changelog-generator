@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-29-2159 ([2f69c36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-29-2159))
+
+* Fix typo M25→M26 ([#58013](https://github.com/CleverRaven/Cataclysm-DDA/pull/58013))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-29-0616 ([4231084](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-29-0616))
 
 * Fix grammar mistakes in new talk tags ([#57931](https://github.com/CleverRaven/Cataclysm-DDA/pull/57931))
@@ -176,11 +182,6 @@
 
 * Remove Car Salesman's duplicated watch  ([#57867](https://github.com/CleverRaven/Cataclysm-DDA/pull/57867))
 * fix: automatic tileset updates error ([#57868](https://github.com/CleverRaven/Cataclysm-DDA/pull/57868))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-23-0333 ([cd1303a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-23-0333))
-
 * Add OLD_CURRENCY flag for strap/bundle to reduce keypress ([#57833](https://github.com/CleverRaven/Cataclysm-DDA/pull/57833))
 * Fair Lord's → Fair Lords ([#57857](https://github.com/CleverRaven/Cataclysm-DDA/pull/57857))
 * Change Cyrylic for translateration in item name ([#57856](https://github.com/CleverRaven/Cataclysm-DDA/pull/57856))
@@ -216,6 +217,5 @@
 * Make gold ring fancy ([#57760](https://github.com/CleverRaven/Cataclysm-DDA/pull/57760))
 * Don't prompt for smashing acid corpses when immune to acid ([#57758](https://github.com/CleverRaven/Cataclysm-DDA/pull/57758))
 * activities: fix broken code in tidy activity ([#57761](https://github.com/CleverRaven/Cataclysm-DDA/pull/57761))
-* Drastically reduced price_postapoc of hobo fishing rods. ([#57757](https://github.com/CleverRaven/Cataclysm-DDA/pull/57757))
 * limit test failures to 20 things for density ([#57772](https://github.com/CleverRaven/Cataclysm-DDA/pull/57772))
 * Revert "feat: use github auto assign label to issue templates" ([#57763](https://github.com/CleverRaven/Cataclysm-DDA/pull/57763))
