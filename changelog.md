@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-30-0739 ([0ac1478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-30-0739))
+
+* Routine Tileset updates on 29 May 2022 ([#58018](https://github.com/CleverRaven/Cataclysm-DDA/pull/58018))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-30-0621 ([fcd7721](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-30-0621))
 
 * Nerf wasps (a little bit) ([#58015](https://github.com/CleverRaven/Cataclysm-DDA/pull/58015))
@@ -166,7 +172,6 @@
 * update steel mill monster spawn ([#57841](https://github.com/CleverRaven/Cataclysm-DDA/pull/57841))
 * Add a roof to military outposts ([#57874](https://github.com/CleverRaven/Cataclysm-DDA/pull/57874))
 * Add kevlar shears to tailor's kit recipe ([#57892](https://github.com/CleverRaven/Cataclysm-DDA/pull/57892))
-* [DinoMod] shady shady theropods ([#57776](https://github.com/CleverRaven/Cataclysm-DDA/pull/57776))
 
 ---
 
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-05-24-1205 ([2bdeed8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-1205))
 
 * improvised ballistic plates in the style of scrap metal armor ([#57881](https://github.com/CleverRaven/Cataclysm-DDA/pull/57881))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-24-0603 ([a8aebb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0603))
-
 * Turrets recipe no longer autolearn ([#57878](https://github.com/CleverRaven/Cataclysm-DDA/pull/57878))
 * Fix wearing power armor hauling frame ([#57836](https://github.com/CleverRaven/Cataclysm-DDA/pull/57836))
 * Minor strange cabin basement overhaul ([#57869](https://github.com/CleverRaven/Cataclysm-DDA/pull/57869))

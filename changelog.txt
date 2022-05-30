@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-30-0739 (0ac1478)
+* Routine Tileset updates on 29 May 2022 (#58018)
+
 Cataclysm-DDA experimental build 2022-05-30-0621 (fcd7721)
 * Nerf wasps (a little bit) (#58015)
 * construction: add dig pit variant for t_grave_new (#57998)
@@ -97,7 +100,6 @@ Cataclysm-DDA experimental build 2022-05-24-2057 (2c0acf4)
 * update steel mill monster spawn (#57841)
 * Add a roof to military outposts (#57874)
 * Add kevlar shears to tailor's kit recipe (#57892)
-* [DinoMod] shady shady theropods (#57776)
 
 Cataclysm-DDA experimental build 2022-05-24-1946 (cf0791a)
 * Refresh player stats in creation screen (#57884)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2022-05-24-1946 (cf0791a)
 
 Cataclysm-DDA experimental build 2022-05-24-1205 (2bdeed8)
 * improvised ballistic plates in the style of scrap metal armor (#57881)
-
-Cataclysm-DDA experimental build 2022-05-24-0603 (a8aebb0)
 * Turrets recipe no longer autolearn (#57878)
 * Fix wearing power armor hauling frame (#57836)
 * Minor strange cabin basement overhaul (#57869)
