@@ -180,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-05-24-0603 ([a8aebb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0603))
 
 * Turrets recipe no longer autolearn ([#57878](https://github.com/CleverRaven/Cataclysm-DDA/pull/57878))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-24-0115 ([ea73260](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0115))
-
 * Fixes for "XS holster" and "XS leather rifle case" ([#57773](https://github.com/CleverRaven/Cataclysm-DDA/pull/57773))
 * Fix wearing power armor hauling frame ([#57836](https://github.com/CleverRaven/Cataclysm-DDA/pull/57836))
 * Minor strange cabin basement overhaul ([#57869](https://github.com/CleverRaven/Cataclysm-DDA/pull/57869))
