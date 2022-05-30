@@ -1,3 +1,13 @@
+* construction: add dig pit variant for t_grave_new ([#57998](https://github.com/CleverRaven/Cataclysm-DDA/pull/57998))
+* Update Forge of Wonders merchants ([#57993](https://github.com/CleverRaven/Cataclysm-DDA/pull/57993))
+* Cooking mutant organs retain toxins ([#58007](https://github.com/CleverRaven/Cataclysm-DDA/pull/58007))
+* Transform more water into puddles ([#58001](https://github.com/CleverRaven/Cataclysm-DDA/pull/58001))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-30-0411 ([6f51e7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-30-0411))
+
+* Konsistent Kevlar ([#57986](https://github.com/CleverRaven/Cataclysm-DDA/pull/57986))
 
 ---
 
@@ -134,7 +144,6 @@
 
 * Expand nightmare snippets ([#57813](https://github.com/CleverRaven/Cataclysm-DDA/pull/57813))
 * head and torso graph tweaks ([#57905](https://github.com/CleverRaven/Cataclysm-DDA/pull/57905))
-* [DinoMod] change CBM spawns ([#57767](https://github.com/CleverRaven/Cataclysm-DDA/pull/57767))
 * Shoe Bottoms / Soles ([#57903](https://github.com/CleverRaven/Cataclysm-DDA/pull/57903))
 
 ---
@@ -178,11 +187,6 @@
 
 * Fixes for "XS holster" and "XS leather rifle case" ([#57773](https://github.com/CleverRaven/Cataclysm-DDA/pull/57773))
 * Fix wearing power armor hauling frame ([#57836](https://github.com/CleverRaven/Cataclysm-DDA/pull/57836))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-24-0014 ([d03b273](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-0014))
-
 * Minor strange cabin basement overhaul ([#57869](https://github.com/CleverRaven/Cataclysm-DDA/pull/57869))
 * Remove Car Salesman's duplicated watch  ([#57867](https://github.com/CleverRaven/Cataclysm-DDA/pull/57867))
 * fix: automatic tileset updates error ([#57868](https://github.com/CleverRaven/Cataclysm-DDA/pull/57868))
@@ -212,10 +216,7 @@
 * Tweak grammar in `PALS_LARGE` description ([#57794](https://github.com/CleverRaven/Cataclysm-DDA/pull/57794))
 * fix: default issue template labels ([#57792](https://github.com/CleverRaven/Cataclysm-DDA/pull/57792))
 * Holo cloak now soft ([#57796](https://github.com/CleverRaven/Cataclysm-DDA/pull/57796))
-* Don't auto pickup electrons ([#57765](https://github.com/CleverRaven/Cataclysm-DDA/pull/57765))
 * Armor Balance documentation typo fix ([#57782](https://github.com/CleverRaven/Cataclysm-DDA/pull/57782))
 * Fix typos in starting_missions.json ([#57793](https://github.com/CleverRaven/Cataclysm-DDA/pull/57793))
-* Allow disassembling very heavy items ([#57769](https://github.com/CleverRaven/Cataclysm-DDA/pull/57769))
 * Clarify plural check message ([#57786](https://github.com/CleverRaven/Cataclysm-DDA/pull/57786))
 * Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
-* limit test failures to 20 things for density ([#57772](https://github.com/CleverRaven/Cataclysm-DDA/pull/57772))
