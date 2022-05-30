@@ -207,7 +207,6 @@
 * Routine i18n updates on 21 May 2022 ([#57823](https://github.com/CleverRaven/Cataclysm-DDA/pull/57823))
 * Remove extra spaces between parentheses ([#57829](https://github.com/CleverRaven/Cataclysm-DDA/pull/57829))
 * Update nightmares.json ([#57821](https://github.com/CleverRaven/Cataclysm-DDA/pull/57821))
-* Xedra Spy profession, mission, safehouse and fixes ([#57778](https://github.com/CleverRaven/Cataclysm-DDA/pull/57778))
 * Add moisturizer to bottle, add variants ([#57808](https://github.com/CleverRaven/Cataclysm-DDA/pull/57808))
 * [Aftershock] Remove bag of holding spawns ([#57822](https://github.com/CleverRaven/Cataclysm-DDA/pull/57822))
 * Carry over relative rot during item transformation and fix transformed comestible not rotting over time ([#57824](https://github.com/CleverRaven/Cataclysm-DDA/pull/57824))
