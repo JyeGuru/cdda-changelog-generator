@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-30-1938 (e4795cc)
+* Zombie cops always drop a holster and their sidearms spawn in the holster. (#58026)
+
 Cataclysm-DDA experimental build 2022-05-30-0739 (0ac1478)
 * Routine Tileset updates on 29 May 2022 (#58018)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2022-05-24-2057 (2c0acf4)
 Cataclysm-DDA experimental build 2022-05-24-1946 (cf0791a)
 * Refresh player stats in creation screen (#57884)
 * Update comment-commands.yml (#57895)
-
-Cataclysm-DDA experimental build 2022-05-24-1205 (2bdeed8)
 * improvised ballistic plates in the style of scrap metal armor (#57881)
 * Turrets recipe no longer autolearn (#57878)
 * Fix wearing power armor hauling frame (#57836)
