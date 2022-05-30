@@ -1,3 +1,4 @@
+* Nerf wasps (a little bit) (#58015)
 * construction: add dig pit variant for t_grave_new (#57998)
 * Update Forge of Wonders merchants (#57993)
 * Cooking mutant organs retain toxins (#58007)
@@ -105,7 +106,6 @@ Cataclysm-DDA experimental build 2022-05-24-1205 (2bdeed8)
 
 Cataclysm-DDA experimental build 2022-05-24-0603 (a8aebb0)
 * Turrets recipe no longer autolearn (#57878)
-* Fixes for "XS holster" and "XS leather rifle case" (#57773)
 * Fix wearing power armor hauling frame (#57836)
 * Minor strange cabin basement overhaul (#57869)
 * Remove Car Salesman's duplicated watch  (#57867)
