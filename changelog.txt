@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-31-1317 (b28db36)
+* Add new martial arts to CQB CBM (#58021)
+
 Cataclysm-DDA experimental build 2022-05-31-0645 (0f30e55)
 * Allow more dialog use of arithmetic, small portal storm rebalance.  (#57983)
 * Adjust time approximations (#58030)
