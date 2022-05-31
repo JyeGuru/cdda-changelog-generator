@@ -1,3 +1,14 @@
+* Desert Region Revival ([#57902](https://github.com/CleverRaven/Cataclysm-DDA/pull/57902))
+* fixes and unit tests for rigid armor and splints ([#57970](https://github.com/CleverRaven/Cataclysm-DDA/pull/57970))
+* disassemble long string with cutting 1 ([#58009](https://github.com/CleverRaven/Cataclysm-DDA/pull/58009))
+* Swimming Clothing Consolidation ([#58012](https://github.com/CleverRaven/Cataclysm-DDA/pull/58012))
+* remove sew_advanced from the tailor kits ([#58035](https://github.com/CleverRaven/Cataclysm-DDA/pull/58035))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-31-0055 ([c355923](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0055))
+
+* Update sabatons. ([#58038](https://github.com/CleverRaven/Cataclysm-DDA/pull/58038))
 
 ---
 
@@ -152,12 +163,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-05-25-0655 ([8e26d46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-0655))
-
-* Update talk_tags.json ([#57787](https://github.com/CleverRaven/Cataclysm-DDA/pull/57787))
-
----
-
 #### Cataclysm-DDA experimental build 2022-05-25-0238 ([2e13887](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-0238))
 
 * Expand nightmare snippets ([#57813](https://github.com/CleverRaven/Cataclysm-DDA/pull/57813))
@@ -178,11 +183,6 @@
 * update steel mill monster spawn ([#57841](https://github.com/CleverRaven/Cataclysm-DDA/pull/57841))
 * Add a roof to military outposts ([#57874](https://github.com/CleverRaven/Cataclysm-DDA/pull/57874))
 * Add kevlar shears to tailor's kit recipe ([#57892](https://github.com/CleverRaven/Cataclysm-DDA/pull/57892))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-24-1946 ([cf0791a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-1946))
-
 * Refresh player stats in creation screen ([#57884](https://github.com/CleverRaven/Cataclysm-DDA/pull/57884))
 * Update comment-commands.yml ([#57895](https://github.com/CleverRaven/Cataclysm-DDA/pull/57895))
 * improvised ballistic plates in the style of scrap metal armor ([#57881](https://github.com/CleverRaven/Cataclysm-DDA/pull/57881))
@@ -214,9 +214,4 @@
 * bulls-eye → bullseye ([#57828](https://github.com/CleverRaven/Cataclysm-DDA/pull/57828))
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
 * Tweak grammar in `PALS_LARGE` description ([#57794](https://github.com/CleverRaven/Cataclysm-DDA/pull/57794))
-* fix: default issue template labels ([#57792](https://github.com/CleverRaven/Cataclysm-DDA/pull/57792))
 * Holo cloak now soft ([#57796](https://github.com/CleverRaven/Cataclysm-DDA/pull/57796))
-* Armor Balance documentation typo fix ([#57782](https://github.com/CleverRaven/Cataclysm-DDA/pull/57782))
-* Fix typos in starting_missions.json ([#57793](https://github.com/CleverRaven/Cataclysm-DDA/pull/57793))
-* Clarify plural check message ([#57786](https://github.com/CleverRaven/Cataclysm-DDA/pull/57786))
-* Added firestarter abilities to gasoline, oil, propane, and acetylene lanterns/lamps ([#57784](https://github.com/CleverRaven/Cataclysm-DDA/pull/57784))
