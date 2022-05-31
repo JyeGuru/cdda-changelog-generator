@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-31-0544 ([bd61653](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0544))
+
+* Fix mispriced fifty-cent coin ([#58031](https://github.com/CleverRaven/Cataclysm-DDA/pull/58031))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-31-0202 ([6d87d30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0202))
 
 * Desert Region Revival ([#57902](https://github.com/CleverRaven/Cataclysm-DDA/pull/57902))
@@ -173,11 +179,6 @@
 * Expand nightmare snippets ([#57813](https://github.com/CleverRaven/Cataclysm-DDA/pull/57813))
 * head and torso graph tweaks ([#57905](https://github.com/CleverRaven/Cataclysm-DDA/pull/57905))
 * Shoe Bottoms / Soles ([#57903](https://github.com/CleverRaven/Cataclysm-DDA/pull/57903))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-25-0126 ([a595ad9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-0126))
-
 * Starvation alert trigger lowered and slowed ([#57900](https://github.com/CleverRaven/Cataclysm-DDA/pull/57900))
 * Cold leach acorns 2 ([#57850](https://github.com/CleverRaven/Cataclysm-DDA/pull/57850))
 * update steel mill monster spawn ([#57841](https://github.com/CleverRaven/Cataclysm-DDA/pull/57841))
@@ -213,5 +214,4 @@
 * Carry over relative rot during item transformation and fix transformed comestible not rotting over time ([#57824](https://github.com/CleverRaven/Cataclysm-DDA/pull/57824))
 * bulls-eye → bullseye ([#57828](https://github.com/CleverRaven/Cataclysm-DDA/pull/57828))
 * Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
-* Tweak grammar in `PALS_LARGE` description ([#57794](https://github.com/CleverRaven/Cataclysm-DDA/pull/57794))
 * Holo cloak now soft ([#57796](https://github.com/CleverRaven/Cataclysm-DDA/pull/57796))

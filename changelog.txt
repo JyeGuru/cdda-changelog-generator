@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-05-31-0544 (bd61653)
+* Fix mispriced fifty-cent coin (#58031)
+
 Cataclysm-DDA experimental build 2022-05-31-0202 (6d87d30)
 * Desert Region Revival (#57902)
 * fixes and unit tests for rigid armor and splints (#57970)
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2022-05-25-0238 (2e13887)
 * Expand nightmare snippets (#57813)
 * head and torso graph tweaks (#57905)
 * Shoe Bottoms / Soles (#57903)
-
-Cataclysm-DDA experimental build 2022-05-25-0126 (a595ad9)
 * Starvation alert trigger lowered and slowed (#57900)
 * Cold leach acorns 2 (#57850)
 * update steel mill monster spawn (#57841)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2022-05-25-0126 (a595ad9)
 * Carry over relative rot during item transformation and fix transformed comestible not rotting over time (#57824)
 * bulls-eye → bullseye (#57828)
 * Disambiguate light machinery from counter in lab palettes (#57801)
-* Tweak grammar in `PALS_LARGE` description (#57794)
 * Holo cloak now soft (#57796)
