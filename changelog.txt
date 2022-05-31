@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-05-31-0202 (6d87d30)
 * Desert Region Revival (#57902)
 * fixes and unit tests for rigid armor and splints (#57970)
 * disassemble long string with cutting 1 (#58009)
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2022-05-25-0238 (2e13887)
 
 Cataclysm-DDA experimental build 2022-05-25-0126 (a595ad9)
 * Starvation alert trigger lowered and slowed (#57900)
-
-Cataclysm-DDA experimental build 2022-05-24-2057 (2c0acf4)
 * Cold leach acorns 2 (#57850)
 * update steel mill monster spawn (#57841)
 * Add a roof to military outposts (#57874)

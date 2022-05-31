@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-05-31-0202 ([6d87d30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0202))
+
 * Desert Region Revival ([#57902](https://github.com/CleverRaven/Cataclysm-DDA/pull/57902))
 * fixes and unit tests for rigid armor and splints ([#57970](https://github.com/CleverRaven/Cataclysm-DDA/pull/57970))
 * disassemble long string with cutting 1 ([#58009](https://github.com/CleverRaven/Cataclysm-DDA/pull/58009))
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-05-25-0126 ([a595ad9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-0126))
 
 * Starvation alert trigger lowered and slowed ([#57900](https://github.com/CleverRaven/Cataclysm-DDA/pull/57900))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-24-2057 ([2c0acf4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-24-2057))
-
 * Cold leach acorns 2 ([#57850](https://github.com/CleverRaven/Cataclysm-DDA/pull/57850))
 * update steel mill monster spawn ([#57841](https://github.com/CleverRaven/Cataclysm-DDA/pull/57841))
 * Add a roof to military outposts ([#57874](https://github.com/CleverRaven/Cataclysm-DDA/pull/57874))
