@@ -202,7 +202,6 @@
 * Change `–` to `-` between the words ([#57853](https://github.com/CleverRaven/Cataclysm-DDA/pull/57853))
 * Add a fullstop to two descriptions ([#57851](https://github.com/CleverRaven/Cataclysm-DDA/pull/57851))
 * Adding Ghee as a fat usable for Pemmican ([#57825](https://github.com/CleverRaven/Cataclysm-DDA/pull/57825))
-* Add Textile mill museum ([#57805](https://github.com/CleverRaven/Cataclysm-DDA/pull/57805))
 * Fix description of liberty talon ([#57855](https://github.com/CleverRaven/Cataclysm-DDA/pull/57855))
 * Fix grocery bot description ([#57840](https://github.com/CleverRaven/Cataclysm-DDA/pull/57840))
 * Fix freed pointer use when summoned vehicle despawns during autodrive. ([#57820](https://github.com/CleverRaven/Cataclysm-DDA/pull/57820))
