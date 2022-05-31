@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-05-31-0645 ([0f30e55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0645))
+
+* Allow more dialog use of arithmetic, small portal storm rebalance.  ([#57983](https://github.com/CleverRaven/Cataclysm-DDA/pull/57983))
+* Adjust time approximations ([#58030](https://github.com/CleverRaven/Cataclysm-DDA/pull/58030))
+* Aftershock: Minor bugfixing ([#58042](https://github.com/CleverRaven/Cataclysm-DDA/pull/58042))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-31-0544 ([bd61653](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0544))
 
 * Fix mispriced fifty-cent coin ([#58031](https://github.com/CleverRaven/Cataclysm-DDA/pull/58031))
@@ -171,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-05-25-1740 ([117381b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-1740))
 
 * "Huge" mutation bugfix ([#57919](https://github.com/CleverRaven/Cataclysm-DDA/pull/57919))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-25-0238 ([2e13887](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-25-0238))
-
 * Expand nightmare snippets ([#57813](https://github.com/CleverRaven/Cataclysm-DDA/pull/57813))
 * head and torso graph tweaks ([#57905](https://github.com/CleverRaven/Cataclysm-DDA/pull/57905))
 * Shoe Bottoms / Soles ([#57903](https://github.com/CleverRaven/Cataclysm-DDA/pull/57903))
@@ -205,7 +208,6 @@
 * Fix freed pointer use when summoned vehicle despawns during autodrive. ([#57820](https://github.com/CleverRaven/Cataclysm-DDA/pull/57820))
 * Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
 * Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
-* Restored effect of Pain Recovery mutation line ([#57798](https://github.com/CleverRaven/Cataclysm-DDA/pull/57798))
 * Routine i18n updates on 21 May 2022 ([#57823](https://github.com/CleverRaven/Cataclysm-DDA/pull/57823))
 * Remove extra spaces between parentheses ([#57829](https://github.com/CleverRaven/Cataclysm-DDA/pull/57829))
 * Update nightmares.json ([#57821](https://github.com/CleverRaven/Cataclysm-DDA/pull/57821))
@@ -213,5 +215,3 @@
 * [Aftershock] Remove bag of holding spawns ([#57822](https://github.com/CleverRaven/Cataclysm-DDA/pull/57822))
 * Carry over relative rot during item transformation and fix transformed comestible not rotting over time ([#57824](https://github.com/CleverRaven/Cataclysm-DDA/pull/57824))
 * bulls-eye → bullseye ([#57828](https://github.com/CleverRaven/Cataclysm-DDA/pull/57828))
-* Disambiguate light machinery from counter in lab palettes ([#57801](https://github.com/CleverRaven/Cataclysm-DDA/pull/57801))
-* Holo cloak now soft ([#57796](https://github.com/CleverRaven/Cataclysm-DDA/pull/57796))
