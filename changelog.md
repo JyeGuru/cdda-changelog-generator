@@ -1,3 +1,4 @@
+* Standardize damage to armor when blocking ([#58046](https://github.com/CleverRaven/Cataclysm-DDA/pull/58046))
 
 ---
 
