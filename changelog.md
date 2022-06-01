@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-01-0137 ([3df7dc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-0137))
+
+* Add abandoned textile mill ([#57982](https://github.com/CleverRaven/Cataclysm-DDA/pull/57982))
+* Update the table of contents in doc/JSON_INFO.md ([#58053](https://github.com/CleverRaven/Cataclysm-DDA/pull/58053))
+* Research facility - fix perfect condition vehicles ([#58058](https://github.com/CleverRaven/Cataclysm-DDA/pull/58058))
+* Correct a border height for world creation ([#58062](https://github.com/CleverRaven/Cataclysm-DDA/pull/58062))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-01-0020 ([cec8f23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-0020))
+
+* Speed up crafting menu tab loading ([#58004](https://github.com/CleverRaven/Cataclysm-DDA/pull/58004))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-05-31-1543 ([9e22069](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-1543))
 
 * Hard hats love ([#58020](https://github.com/CleverRaven/Cataclysm-DDA/pull/58020))
@@ -167,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-05-26-0340 ([d2a94d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-0340))
 
 * Make fur mutation armor give warmth to the mouth ([#57920](https://github.com/CleverRaven/Cataclysm-DDA/pull/57920))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-26-0132 ([aaa3e24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-0132))
-
 * Clothing and Armor Coverage Conversion Part 1 ([#57911](https://github.com/CleverRaven/Cataclysm-DDA/pull/57911))
 * Prevent save crash by sanitizing backlog in firstaid activity ([#57928](https://github.com/CleverRaven/Cataclysm-DDA/pull/57928))
 * more clearly differentiate the shoulders on bodygraph ([#57935](https://github.com/CleverRaven/Cataclysm-DDA/pull/57935))
@@ -179,14 +189,8 @@
 * Player-owned vehicles won't spawn locked ([#57870](https://github.com/CleverRaven/Cataclysm-DDA/pull/57870))
 * explosion: fixup for defered explosions ([#57897](https://github.com/CleverRaven/Cataclysm-DDA/pull/57897))
 * [DinoMod] brave ankylosaurids ([#57896](https://github.com/CleverRaven/Cataclysm-DDA/pull/57896))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-26-0031 ([f366e38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-0031))
-
 * fixed typo with right foot bottom ([#57933](https://github.com/CleverRaven/Cataclysm-DDA/pull/57933))
 * "Huge" mutation bugfix ([#57919](https://github.com/CleverRaven/Cataclysm-DDA/pull/57919))
-* Expand nightmare snippets ([#57813](https://github.com/CleverRaven/Cataclysm-DDA/pull/57813))
 * head and torso graph tweaks ([#57905](https://github.com/CleverRaven/Cataclysm-DDA/pull/57905))
 * Shoe Bottoms / Soles ([#57903](https://github.com/CleverRaven/Cataclysm-DDA/pull/57903))
 * Starvation alert trigger lowered and slowed ([#57900](https://github.com/CleverRaven/Cataclysm-DDA/pull/57900))
@@ -211,12 +215,8 @@
 * Adding Ghee as a fat usable for Pemmican ([#57825](https://github.com/CleverRaven/Cataclysm-DDA/pull/57825))
 * Fix description of liberty talon ([#57855](https://github.com/CleverRaven/Cataclysm-DDA/pull/57855))
 * Fix grocery bot description ([#57840](https://github.com/CleverRaven/Cataclysm-DDA/pull/57840))
-* Fix freed pointer use when summoned vehicle despawns during autodrive. ([#57820](https://github.com/CleverRaven/Cataclysm-DDA/pull/57820))
 * Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
 * Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
-* Routine i18n updates on 21 May 2022 ([#57823](https://github.com/CleverRaven/Cataclysm-DDA/pull/57823))
 * Remove extra spaces between parentheses ([#57829](https://github.com/CleverRaven/Cataclysm-DDA/pull/57829))
-* Update nightmares.json ([#57821](https://github.com/CleverRaven/Cataclysm-DDA/pull/57821))
-* [Aftershock] Remove bag of holding spawns ([#57822](https://github.com/CleverRaven/Cataclysm-DDA/pull/57822))
 * Carry over relative rot during item transformation and fix transformed comestible not rotting over time ([#57824](https://github.com/CleverRaven/Cataclysm-DDA/pull/57824))
 * bulls-eye → bullseye ([#57828](https://github.com/CleverRaven/Cataclysm-DDA/pull/57828))
