@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-01-2013 (2fd4131)
 * Rework fire axe ferals into something more dangerous. (#58028)
 * Feral weapon variety (#58014)
 
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2022-05-27-0329 (61c5517)
 * sdl: don't start text input if already in text input (#57932)
 * Update laser gun mods to use heat damage type (#57938)
 * Made velocity change consistent (#57941)
-
-Cataclysm-DDA experimental build 2022-05-27-0228 (28b5335)
 * Add carving proficiency to knitting needles (#57951)
 * Added padded flag to mining helmet and mining helmet off (#57944)
 * Clothing and Armor Coverage Conversion Part 2 (#57940)
