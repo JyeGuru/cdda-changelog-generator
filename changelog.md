@@ -1,3 +1,11 @@
+* Rework fire axe ferals into something more dangerous. ([#58028](https://github.com/CleverRaven/Cataclysm-DDA/pull/58028))
+* Feral weapon variety ([#58014](https://github.com/CleverRaven/Cataclysm-DDA/pull/58014))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-01-1906 ([b1410ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-1906))
+
+* Explicitly define a mission arrow for ASCIITiles tileset ([#58066](https://github.com/CleverRaven/Cataclysm-DDA/pull/58066))
 
 ---
 
@@ -182,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-05-27-0228 ([28b5335](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-27-0228))
 
 * Add carving proficiency to knitting needles ([#57951](https://github.com/CleverRaven/Cataclysm-DDA/pull/57951))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-26-1750 ([7163541](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-1750))
-
 * Added padded flag to mining helmet and mining helmet off ([#57944](https://github.com/CleverRaven/Cataclysm-DDA/pull/57944))
 * Clothing and Armor Coverage Conversion Part 2 ([#57940](https://github.com/CleverRaven/Cataclysm-DDA/pull/57940))
 * Allows dissassembly of turret mounts ([#57858](https://github.com/CleverRaven/Cataclysm-DDA/pull/57858))
@@ -211,11 +214,9 @@
 * Update comment-commands.yml ([#57895](https://github.com/CleverRaven/Cataclysm-DDA/pull/57895))
 * improvised ballistic plates in the style of scrap metal armor ([#57881](https://github.com/CleverRaven/Cataclysm-DDA/pull/57881))
 * Turrets recipe no longer autolearn ([#57878](https://github.com/CleverRaven/Cataclysm-DDA/pull/57878))
-* Fix wearing power armor hauling frame ([#57836](https://github.com/CleverRaven/Cataclysm-DDA/pull/57836))
 * Minor strange cabin basement overhaul ([#57869](https://github.com/CleverRaven/Cataclysm-DDA/pull/57869))
 * Remove Car Salesman's duplicated watch  ([#57867](https://github.com/CleverRaven/Cataclysm-DDA/pull/57867))
 * fix: automatic tileset updates error ([#57868](https://github.com/CleverRaven/Cataclysm-DDA/pull/57868))
-* Add OLD_CURRENCY flag for strap/bundle to reduce keypress ([#57833](https://github.com/CleverRaven/Cataclysm-DDA/pull/57833))
 * Fair Lord's → Fair Lords ([#57857](https://github.com/CleverRaven/Cataclysm-DDA/pull/57857))
 * Change Cyrylic for translateration in item name ([#57856](https://github.com/CleverRaven/Cataclysm-DDA/pull/57856))
 * al→all ([#57854](https://github.com/CleverRaven/Cataclysm-DDA/pull/57854))
@@ -224,4 +225,3 @@
 * Fix description of liberty talon ([#57855](https://github.com/CleverRaven/Cataclysm-DDA/pull/57855))
 * Fix grocery bot description ([#57840](https://github.com/CleverRaven/Cataclysm-DDA/pull/57840))
 * Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
-* Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
