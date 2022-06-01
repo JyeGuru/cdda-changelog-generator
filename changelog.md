@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-01-1641 ([3fcf075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-1641))
+
+* Assign Melee Damage ([#57957](https://github.com/CleverRaven/Cataclysm-DDA/pull/57957))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-01-1501 ([274bd31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-1501))
 
 * Reset steadiness after most actions ([#58073](https://github.com/CleverRaven/Cataclysm-DDA/pull/58073))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-05-26-1332 ([b683075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-1332))
 
 * Clothing and Armor Coverage Conversion Part 2 ([#57940](https://github.com/CleverRaven/Cataclysm-DDA/pull/57940))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-26-0515 ([5621a8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-26-0515))
-
 * Allows dissassembly of turret mounts ([#57858](https://github.com/CleverRaven/Cataclysm-DDA/pull/57858))
 * Make fur mutation armor give warmth to the mouth ([#57920](https://github.com/CleverRaven/Cataclysm-DDA/pull/57920))
 * Clothing and Armor Coverage Conversion Part 1 ([#57911](https://github.com/CleverRaven/Cataclysm-DDA/pull/57911))
@@ -223,4 +224,3 @@
 * Fix grocery bot description ([#57840](https://github.com/CleverRaven/Cataclysm-DDA/pull/57840))
 * Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
 * Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
-* Remove extra spaces between parentheses ([#57829](https://github.com/CleverRaven/Cataclysm-DDA/pull/57829))

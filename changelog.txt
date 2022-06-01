@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-01-1641 (3fcf075)
+* Assign Melee Damage (#57957)
+
 Cataclysm-DDA experimental build 2022-06-01-1501 (274bd31)
 * Reset steadiness after most actions (#58073)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2022-05-26-1750 (7163541)
 
 Cataclysm-DDA experimental build 2022-05-26-1332 (b683075)
 * Clothing and Armor Coverage Conversion Part 2 (#57940)
-
-Cataclysm-DDA experimental build 2022-05-26-0515 (5621a8a)
 * Allows dissassembly of turret mounts (#57858)
 * Make fur mutation armor give warmth to the mouth (#57920)
 * Clothing and Armor Coverage Conversion Part 1 (#57911)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2022-05-26-0515 (5621a8a)
 * Fix grocery bot description (#57840)
 * Aircraft carrier scenario (#57839)
 * Punctuate miss recoveries. (#57838)
-* Remove extra spaces between parentheses (#57829)
