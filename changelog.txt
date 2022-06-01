@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-01-1804 (015755d)
 * Standardize damage to armor when blocking (#58046)
 
 Cataclysm-DDA experimental build 2022-06-01-1641 (3fcf075)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2022-05-27-0228 (28b5335)
 
 Cataclysm-DDA experimental build 2022-05-26-1750 (7163541)
 * Added padded flag to mining helmet and mining helmet off (#57944)
-
-Cataclysm-DDA experimental build 2022-05-26-1332 (b683075)
 * Clothing and Armor Coverage Conversion Part 2 (#57940)
 * Allows dissassembly of turret mounts (#57858)
 * Make fur mutation armor give warmth to the mouth (#57920)
