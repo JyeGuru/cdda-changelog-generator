@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-01-1501 (274bd31)
+* Reset steadiness after most actions (#58073)
+
 Cataclysm-DDA experimental build 2022-06-01-0513 (da364ef)
 * Subject suit is soft (#58064)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2022-05-26-1332 (b683075)
 
 Cataclysm-DDA experimental build 2022-05-26-0515 (5621a8a)
 * Allows dissassembly of turret mounts (#57858)
-
-Cataclysm-DDA experimental build 2022-05-26-0340 (d2a94d2)
 * Make fur mutation armor give warmth to the mouth (#57920)
 * Clothing and Armor Coverage Conversion Part 1 (#57911)
 * Prevent save crash by sanitizing backlog in firstaid activity (#57928)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2022-05-26-0340 (d2a94d2)
 * Aircraft carrier scenario (#57839)
 * Punctuate miss recoveries. (#57838)
 * Remove extra spaces between parentheses (#57829)
-* bulls-eye → bullseye (#57828)
