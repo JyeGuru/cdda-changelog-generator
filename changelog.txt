@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-01-0513 (da364ef)
+* Subject suit is soft (#58064)
+
 Cataclysm-DDA experimental build 2022-06-01-0137 (3df7dc7)
 * Add abandoned textile mill (#57982)
 * Update the table of contents in doc/JSON_INFO.md (#58053)
@@ -140,5 +143,4 @@ Cataclysm-DDA experimental build 2022-05-26-0340 (d2a94d2)
 * Aircraft carrier scenario (#57839)
 * Punctuate miss recoveries. (#57838)
 * Remove extra spaces between parentheses (#57829)
-* Carry over relative rot during item transformation and fix transformed comestible not rotting over time (#57824)
 * bulls-eye → bullseye (#57828)

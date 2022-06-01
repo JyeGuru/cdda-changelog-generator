@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-01-0513 ([da364ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-0513))
+
+* Subject suit is soft ([#58064](https://github.com/CleverRaven/Cataclysm-DDA/pull/58064))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-01-0137 ([3df7dc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-0137))
 
 * Add abandoned textile mill ([#57982](https://github.com/CleverRaven/Cataclysm-DDA/pull/57982))
@@ -218,5 +224,4 @@
 * Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
 * Punctuate miss recoveries. ([#57838](https://github.com/CleverRaven/Cataclysm-DDA/pull/57838))
 * Remove extra spaces between parentheses ([#57829](https://github.com/CleverRaven/Cataclysm-DDA/pull/57829))
-* Carry over relative rot during item transformation and fix transformed comestible not rotting over time ([#57824](https://github.com/CleverRaven/Cataclysm-DDA/pull/57824))
 * bulls-eye → bullseye ([#57828](https://github.com/CleverRaven/Cataclysm-DDA/pull/57828))
