@@ -101,8 +101,6 @@ Cataclysm-DDA experimental build 2022-05-28-0754 (6027e66)
 * Construction activity level fixup (#57958)
 * removed appliances from valid vehicle deconstruction targets (#57960)
 * fix: nre printout typos (#57963)
-
-Cataclysm-DDA experimental build 2022-05-28-0639 (ed2af16)
 * Always convert uppercase on wchar_t (#57967)
 * Assign a price to the battery toolmods (#57901)
 * construction: increase construction activity levels (#57860)

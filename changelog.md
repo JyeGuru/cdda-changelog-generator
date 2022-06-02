@@ -179,11 +179,6 @@
 * Construction activity level fixup ([#57958](https://github.com/CleverRaven/Cataclysm-DDA/pull/57958))
 * removed appliances from valid vehicle deconstruction targets ([#57960](https://github.com/CleverRaven/Cataclysm-DDA/pull/57960))
 * fix: nre printout typos ([#57963](https://github.com/CleverRaven/Cataclysm-DDA/pull/57963))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-28-0639 ([ed2af16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-28-0639))
-
 * Always convert uppercase on wchar_t ([#57967](https://github.com/CleverRaven/Cataclysm-DDA/pull/57967))
 * Assign a price to the battery toolmods ([#57901](https://github.com/CleverRaven/Cataclysm-DDA/pull/57901))
 * construction: increase construction activity levels ([#57860](https://github.com/CleverRaven/Cataclysm-DDA/pull/57860))
