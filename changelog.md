@@ -1,3 +1,4 @@
+* Convert map extra mx_military to JSON ([#57924](https://github.com/CleverRaven/Cataclysm-DDA/pull/57924))
 
 ---
 
@@ -199,7 +200,6 @@
 * Clothing and Armor Coverage Conversion Part 1 ([#57911](https://github.com/CleverRaven/Cataclysm-DDA/pull/57911))
 * Prevent save crash by sanitizing backlog in firstaid activity ([#57928](https://github.com/CleverRaven/Cataclysm-DDA/pull/57928))
 * more clearly differentiate the shoulders on bodygraph ([#57935](https://github.com/CleverRaven/Cataclysm-DDA/pull/57935))
-* Match some job names to majority ([#57849](https://github.com/CleverRaven/Cataclysm-DDA/pull/57849))
 * Player-owned vehicles won't spawn locked ([#57870](https://github.com/CleverRaven/Cataclysm-DDA/pull/57870))
 * explosion: fixup for defered explosions ([#57897](https://github.com/CleverRaven/Cataclysm-DDA/pull/57897))
 * [DinoMod] brave ankylosaurids ([#57896](https://github.com/CleverRaven/Cataclysm-DDA/pull/57896))
@@ -209,7 +209,6 @@
 * Shoe Bottoms / Soles ([#57903](https://github.com/CleverRaven/Cataclysm-DDA/pull/57903))
 * Starvation alert trigger lowered and slowed ([#57900](https://github.com/CleverRaven/Cataclysm-DDA/pull/57900))
 * Cold leach acorns 2 ([#57850](https://github.com/CleverRaven/Cataclysm-DDA/pull/57850))
-* update steel mill monster spawn ([#57841](https://github.com/CleverRaven/Cataclysm-DDA/pull/57841))
 * Add a roof to military outposts ([#57874](https://github.com/CleverRaven/Cataclysm-DDA/pull/57874))
 * Add kevlar shears to tailor's kit recipe ([#57892](https://github.com/CleverRaven/Cataclysm-DDA/pull/57892))
 * Refresh player stats in creation screen ([#57884](https://github.com/CleverRaven/Cataclysm-DDA/pull/57884))
