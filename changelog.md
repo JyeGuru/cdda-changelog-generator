@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-02-0322 ([e65e468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0322))
+
+* Added a dozen new hints for the main menu ([#58056](https://github.com/CleverRaven/Cataclysm-DDA/pull/58056))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-02-0129 ([9a10f80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0129))
+
+* [DinoMod] bonus damage types ([#57943](https://github.com/CleverRaven/Cataclysm-DDA/pull/57943))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-01-2013 ([2fd4131](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-2013))
 
 * Rework fire axe ferals into something more dangerous. ([#58028](https://github.com/CleverRaven/Cataclysm-DDA/pull/58028))
@@ -172,17 +184,7 @@
 #### Cataclysm-DDA experimental build 2022-05-28-0639 ([ed2af16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-28-0639))
 
 * Always convert uppercase on wchar_t ([#57967](https://github.com/CleverRaven/Cataclysm-DDA/pull/57967))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-27-0523 ([9ab7cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-27-0523))
-
 * Assign a price to the battery toolmods ([#57901](https://github.com/CleverRaven/Cataclysm-DDA/pull/57901))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-27-0329 ([61c5517](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-27-0329))
-
 * construction: increase construction activity levels ([#57860](https://github.com/CleverRaven/Cataclysm-DDA/pull/57860))
 * npctrade: json-ize shop consumption rates ([#57852](https://github.com/CleverRaven/Cataclysm-DDA/pull/57852))
 * Work towards Deprecating "melee_cut" ([#57913](https://github.com/CleverRaven/Cataclysm-DDA/pull/57913))
@@ -223,5 +225,3 @@
 * Change `–` to `-` between the words ([#57853](https://github.com/CleverRaven/Cataclysm-DDA/pull/57853))
 * Add a fullstop to two descriptions ([#57851](https://github.com/CleverRaven/Cataclysm-DDA/pull/57851))
 * Fix description of liberty talon ([#57855](https://github.com/CleverRaven/Cataclysm-DDA/pull/57855))
-* Fix grocery bot description ([#57840](https://github.com/CleverRaven/Cataclysm-DDA/pull/57840))
-* Aircraft carrier scenario ([#57839](https://github.com/CleverRaven/Cataclysm-DDA/pull/57839))
