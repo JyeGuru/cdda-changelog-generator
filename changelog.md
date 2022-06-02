@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-02-1401 ([f841d7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-1401))
+
+* fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-02-0724 ([9301c86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0724))
 
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2022-05-29-0516 ([c9c141a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-29-0516))
 
 * bulls-eye → bullseye ([#57978](https://github.com/CleverRaven/Cataclysm-DDA/pull/57978))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-28-1015 ([9129922](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-28-1015))
-
 * Routine i18n updates on 28 May 2022 ([#57973](https://github.com/CleverRaven/Cataclysm-DDA/pull/57973))
 * fix: bad <swear> tag ([#57955](https://github.com/CleverRaven/Cataclysm-DDA/pull/57955))
 * remove hard code rigid rules for feet ([#57934](https://github.com/CleverRaven/Cataclysm-DDA/pull/57934))
@@ -217,5 +218,4 @@
 * Change Cyrylic for translateration in item name ([#57856](https://github.com/CleverRaven/Cataclysm-DDA/pull/57856))
 * al→all ([#57854](https://github.com/CleverRaven/Cataclysm-DDA/pull/57854))
 * Change `–` to `-` between the words ([#57853](https://github.com/CleverRaven/Cataclysm-DDA/pull/57853))
-* Add a fullstop to two descriptions ([#57851](https://github.com/CleverRaven/Cataclysm-DDA/pull/57851))
 * Fix description of liberty talon ([#57855](https://github.com/CleverRaven/Cataclysm-DDA/pull/57855))
