@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-02-0724 ([9301c86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0724))
+
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
 * Convert map extra mx_military to JSON ([#57924](https://github.com/CleverRaven/Cataclysm-DDA/pull/57924))
 
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2022-05-28-1015 ([9129922](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-28-1015))
 
 * Routine i18n updates on 28 May 2022 ([#57973](https://github.com/CleverRaven/Cataclysm-DDA/pull/57973))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-28-0754 ([6027e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-28-0754))
-
 * fix: bad <swear> tag ([#57955](https://github.com/CleverRaven/Cataclysm-DDA/pull/57955))
 * remove hard code rigid rules for feet ([#57934](https://github.com/CleverRaven/Cataclysm-DDA/pull/57934))
 * [DinoMod] cathemeral dinos ([#57954](https://github.com/CleverRaven/Cataclysm-DDA/pull/57954))
