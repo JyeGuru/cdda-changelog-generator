@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-02-2003 (d465fe4)
+* Clarify stat scaling in GAME_BALANCE.md (#58089)
+
 Cataclysm-DDA experimental build 2022-06-02-1541 (18d1da2)
 * Adds stamina info to item melee description. (#58075)
 
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2022-05-29-2307 (8c73a5e)
 
 Cataclysm-DDA experimental build 2022-05-29-2159 (2f69c36)
 * Fix typo M25→M26 (#58013)
-
-Cataclysm-DDA experimental build 2022-05-29-0616 (4231084)
 * Fix grammar mistakes in new talk tags (#57931)
 * Update / expand clang-tidy local build docs (#57971)
 * Add plural to M26 MASS (#57976)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2022-05-29-0616 (4231084)
 * Fair Lord's → Fair Lords (#57857)
 * Change Cyrylic for translateration in item name (#57856)
 * al→all (#57854)
-* Change `–` to `-` between the words (#57853)
 * Fix description of liberty talon (#57855)

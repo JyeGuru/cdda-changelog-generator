@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-02-2003 ([d465fe4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-2003))
+
+* Clarify stat scaling in GAME_BALANCE.md ([#58089](https://github.com/CleverRaven/Cataclysm-DDA/pull/58089))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-02-1541 ([18d1da2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-1541))
 
 * Adds stamina info to item melee description. ([#58075](https://github.com/CleverRaven/Cataclysm-DDA/pull/58075))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-05-29-2159 ([2f69c36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-29-2159))
 
 * Fix typo M25→M26 ([#58013](https://github.com/CleverRaven/Cataclysm-DDA/pull/58013))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-29-0616 ([4231084](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-29-0616))
-
 * Fix grammar mistakes in new talk tags ([#57931](https://github.com/CleverRaven/Cataclysm-DDA/pull/57931))
 * Update / expand clang-tidy local build docs ([#57971](https://github.com/CleverRaven/Cataclysm-DDA/pull/57971))
 * Add plural to M26 MASS ([#57976](https://github.com/CleverRaven/Cataclysm-DDA/pull/57976))
@@ -217,5 +218,4 @@
 * Fair Lord's → Fair Lords ([#57857](https://github.com/CleverRaven/Cataclysm-DDA/pull/57857))
 * Change Cyrylic for translateration in item name ([#57856](https://github.com/CleverRaven/Cataclysm-DDA/pull/57856))
 * al→all ([#57854](https://github.com/CleverRaven/Cataclysm-DDA/pull/57854))
-* Change `–` to `-` between the words ([#57853](https://github.com/CleverRaven/Cataclysm-DDA/pull/57853))
 * Fix description of liberty talon ([#57855](https://github.com/CleverRaven/Cataclysm-DDA/pull/57855))
