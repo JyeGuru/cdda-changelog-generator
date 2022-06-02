@@ -1,3 +1,4 @@
+* [MMA] Fix Attack vector typo (#58079)
 * Convert map extra mx_military to JSON (#57924)
 
 Cataclysm-DDA experimental build 2022-06-02-0322 (e65e468)
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2022-05-28-0754 (6027e66)
 * head and torso graph tweaks (#57905)
 * Shoe Bottoms / Soles (#57903)
 * Starvation alert trigger lowered and slowed (#57900)
-* Cold leach acorns 2 (#57850)
 * Add a roof to military outposts (#57874)
 * Add kevlar shears to tailor's kit recipe (#57892)
 * Refresh player stats in creation screen (#57884)
