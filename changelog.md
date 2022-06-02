@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-02-1541 ([18d1da2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-1541))
+
+* Adds stamina info to item melee description. ([#58075](https://github.com/CleverRaven/Cataclysm-DDA/pull/58075))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-02-1401 ([f841d7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-1401))
 
 * fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
@@ -168,11 +174,6 @@
 * Fix grammar mistakes in new talk tags ([#57931](https://github.com/CleverRaven/Cataclysm-DDA/pull/57931))
 * Update / expand clang-tidy local build docs ([#57971](https://github.com/CleverRaven/Cataclysm-DDA/pull/57971))
 * Add plural to M26 MASS ([#57976](https://github.com/CleverRaven/Cataclysm-DDA/pull/57976))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-29-0516 ([c9c141a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-29-0516))
-
 * bulls-eye → bullseye ([#57978](https://github.com/CleverRaven/Cataclysm-DDA/pull/57978))
 * Routine i18n updates on 28 May 2022 ([#57973](https://github.com/CleverRaven/Cataclysm-DDA/pull/57973))
 * fix: bad <swear> tag ([#57955](https://github.com/CleverRaven/Cataclysm-DDA/pull/57955))
@@ -184,7 +185,6 @@
 * Always convert uppercase on wchar_t ([#57967](https://github.com/CleverRaven/Cataclysm-DDA/pull/57967))
 * Assign a price to the battery toolmods ([#57901](https://github.com/CleverRaven/Cataclysm-DDA/pull/57901))
 * construction: increase construction activity levels ([#57860](https://github.com/CleverRaven/Cataclysm-DDA/pull/57860))
-* npctrade: json-ize shop consumption rates ([#57852](https://github.com/CleverRaven/Cataclysm-DDA/pull/57852))
 * Work towards Deprecating "melee_cut" ([#57913](https://github.com/CleverRaven/Cataclysm-DDA/pull/57913))
 * sdl: don't start text input if already in text input ([#57932](https://github.com/CleverRaven/Cataclysm-DDA/pull/57932))
 * Update laser gun mods to use heat damage type ([#57938](https://github.com/CleverRaven/Cataclysm-DDA/pull/57938))
