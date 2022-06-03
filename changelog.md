@@ -164,11 +164,6 @@
 * Update Forge of Wonders merchants ([#57993](https://github.com/CleverRaven/Cataclysm-DDA/pull/57993))
 * Cooking mutant organs retain toxins ([#58007](https://github.com/CleverRaven/Cataclysm-DDA/pull/58007))
 * Transform more water into puddles ([#58001](https://github.com/CleverRaven/Cataclysm-DDA/pull/58001))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-30-0411 ([6f51e7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-30-0411))
-
 * Konsistent Kevlar ([#57986](https://github.com/CleverRaven/Cataclysm-DDA/pull/57986))
 * Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))
 * Add flags to robofac mission chunks ([#57992](https://github.com/CleverRaven/Cataclysm-DDA/pull/57992))
