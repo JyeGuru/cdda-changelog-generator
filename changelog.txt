@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-03-0939 (ca05dd4)
 * Shorten shillelagh weapons to fit in belt loop (#58041)
 * Reduce time to take down most simple appliances (#58096)
 
@@ -87,8 +89,6 @@ Cataclysm-DDA experimental build 2022-05-30-1938 (e4795cc)
 
 Cataclysm-DDA experimental build 2022-05-30-0739 (0ac1478)
 * Routine Tileset updates on 29 May 2022 (#58018)
-
-Cataclysm-DDA experimental build 2022-05-30-0621 (fcd7721)
 * Nerf wasps (a little bit) (#58015)
 * construction: add dig pit variant for t_grave_new (#57998)
 * Update Forge of Wonders merchants (#57993)

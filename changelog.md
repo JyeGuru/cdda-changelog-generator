@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-03-0939 ([ca05dd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-0939))
+
 * Shorten shillelagh weapons to fit in belt loop ([#58041](https://github.com/CleverRaven/Cataclysm-DDA/pull/58041))
 * Reduce time to take down most simple appliances ([#58096](https://github.com/CleverRaven/Cataclysm-DDA/pull/58096))
 
@@ -162,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2022-05-30-0739 ([0ac1478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-30-0739))
 
 * Routine Tileset updates on 29 May 2022 ([#58018](https://github.com/CleverRaven/Cataclysm-DDA/pull/58018))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-30-0621 ([fcd7721](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-30-0621))
-
 * Nerf wasps (a little bit) ([#58015](https://github.com/CleverRaven/Cataclysm-DDA/pull/58015))
 * construction: add dig pit variant for t_grave_new ([#57998](https://github.com/CleverRaven/Cataclysm-DDA/pull/57998))
 * Update Forge of Wonders merchants ([#57993](https://github.com/CleverRaven/Cataclysm-DDA/pull/57993))
