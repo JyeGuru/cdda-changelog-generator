@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-03-2253 ([80a0da6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-2253))
+
 * Make Dinomod work with NoMonsters ([#58101](https://github.com/CleverRaven/Cataclysm-DDA/pull/58101))
 * Restore the holy balance of cucumber sandwiches ([#58121](https://github.com/CleverRaven/Cataclysm-DDA/pull/58121))
 * Add ability to fill in recess and murky water tiles ([#58126](https://github.com/CleverRaven/Cataclysm-DDA/pull/58126))
@@ -170,11 +175,6 @@
 * disassemble long string with cutting 1 ([#58009](https://github.com/CleverRaven/Cataclysm-DDA/pull/58009))
 * Swimming Clothing Consolidation ([#58012](https://github.com/CleverRaven/Cataclysm-DDA/pull/58012))
 * remove sew_advanced from the tailor kits ([#58035](https://github.com/CleverRaven/Cataclysm-DDA/pull/58035))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-31-0055 ([c355923](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0055))
-
 * Update sabatons. ([#58038](https://github.com/CleverRaven/Cataclysm-DDA/pull/58038))
 * Zombie cops always drop a holster and their sidearms spawn in the holster. ([#58026](https://github.com/CleverRaven/Cataclysm-DDA/pull/58026))
 * Routine Tileset updates on 29 May 2022 ([#58018](https://github.com/CleverRaven/Cataclysm-DDA/pull/58018))
