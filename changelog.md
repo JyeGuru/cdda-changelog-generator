@@ -1,3 +1,12 @@
+* Fix diary entry approximate time display ([#58088](https://github.com/CleverRaven/Cataclysm-DDA/pull/58088))
+* Butane spawns no longer all or nothing ([#58122](https://github.com/CleverRaven/Cataclysm-DDA/pull/58122))
+* Mall spawn audit ([#58040](https://github.com/CleverRaven/Cataclysm-DDA/pull/58040))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-03-2138 ([a62e76c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-2138))
+
+* Update how rot is inherited when crafting ([#58097](https://github.com/CleverRaven/Cataclysm-DDA/pull/58097))
 
 ---
 
@@ -161,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-05-31-0055 ([c355923](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0055))
 
 * Update sabatons. ([#58038](https://github.com/CleverRaven/Cataclysm-DDA/pull/58038))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-30-1938 ([e4795cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-30-1938))
-
 * Zombie cops always drop a holster and their sidearms spawn in the holster. ([#58026](https://github.com/CleverRaven/Cataclysm-DDA/pull/58026))
 * Routine Tileset updates on 29 May 2022 ([#58018](https://github.com/CleverRaven/Cataclysm-DDA/pull/58018))
 * Nerf wasps (a little bit) ([#58015](https://github.com/CleverRaven/Cataclysm-DDA/pull/58015))
@@ -203,7 +207,6 @@
 * Clothing and Armor Coverage Conversion Part 1 ([#57911](https://github.com/CleverRaven/Cataclysm-DDA/pull/57911))
 * Prevent save crash by sanitizing backlog in firstaid activity ([#57928](https://github.com/CleverRaven/Cataclysm-DDA/pull/57928))
 * more clearly differentiate the shoulders on bodygraph ([#57935](https://github.com/CleverRaven/Cataclysm-DDA/pull/57935))
-* Player-owned vehicles won't spawn locked ([#57870](https://github.com/CleverRaven/Cataclysm-DDA/pull/57870))
 * explosion: fixup for defered explosions ([#57897](https://github.com/CleverRaven/Cataclysm-DDA/pull/57897))
 * [DinoMod] brave ankylosaurids ([#57896](https://github.com/CleverRaven/Cataclysm-DDA/pull/57896))
 * fixed typo with right foot bottom ([#57933](https://github.com/CleverRaven/Cataclysm-DDA/pull/57933))
@@ -217,6 +220,3 @@
 * Update comment-commands.yml ([#57895](https://github.com/CleverRaven/Cataclysm-DDA/pull/57895))
 * improvised ballistic plates in the style of scrap metal armor ([#57881](https://github.com/CleverRaven/Cataclysm-DDA/pull/57881))
 * Turrets recipe no longer autolearn ([#57878](https://github.com/CleverRaven/Cataclysm-DDA/pull/57878))
-* Minor strange cabin basement overhaul ([#57869](https://github.com/CleverRaven/Cataclysm-DDA/pull/57869))
-* Remove Car Salesman's duplicated watch  ([#57867](https://github.com/CleverRaven/Cataclysm-DDA/pull/57867))
-* fix: automatic tileset updates error ([#57868](https://github.com/CleverRaven/Cataclysm-DDA/pull/57868))
