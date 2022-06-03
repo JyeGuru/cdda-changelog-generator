@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-03-1639 ([b70bca1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-1639))
+
+* Allow mutants with paws to wear bracelets ([#58109](https://github.com/CleverRaven/Cataclysm-DDA/pull/58109))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-03-0939 ([ca05dd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-0939))
 
 * Shorten shillelagh weapons to fit in belt loop ([#58041](https://github.com/CleverRaven/Cataclysm-DDA/pull/58041))
@@ -161,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2022-05-30-1938 ([e4795cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-30-1938))
 
 * Zombie cops always drop a holster and their sidearms spawn in the holster. ([#58026](https://github.com/CleverRaven/Cataclysm-DDA/pull/58026))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-30-0739 ([0ac1478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-30-0739))
-
 * Routine Tileset updates on 29 May 2022 ([#58018](https://github.com/CleverRaven/Cataclysm-DDA/pull/58018))
 * Nerf wasps (a little bit) ([#58015](https://github.com/CleverRaven/Cataclysm-DDA/pull/58015))
 * construction: add dig pit variant for t_grave_new ([#57998](https://github.com/CleverRaven/Cataclysm-DDA/pull/57998))
