@@ -1,4 +1,11 @@
 
+Cataclysm-DDA experimental build 2022-06-03-0145 (b281423)
+* Added external option with setting frequency of displaying music descriptions in sidebar (#58029)
+* Fix loading itype::weight_capacity_modifier (#58091)
+
+Cataclysm-DDA experimental build 2022-06-03-0036 (462c6d0)
+* Remove doc and src melee_cut (#58077)
+
 Cataclysm-DDA experimental build 2022-06-02-2003 (d465fe4)
 * Clarify stat scaling in GAME_BALANCE.md (#58089)
 
@@ -85,14 +92,10 @@ Cataclysm-DDA experimental build 2022-05-30-0621 (fcd7721)
 
 Cataclysm-DDA experimental build 2022-05-30-0411 (6f51e7f)
 * Konsistent Kevlar (#57986)
-
-Cataclysm-DDA experimental build 2022-05-29-2307 (8c73a5e)
 * Add NUTRIENT_OVERRIDE to json_flags md (#58008)
 * Add flags to robofac mission chunks (#57992)
 * fix: npc label (#58000)
 * Start Location Fix (#58003)
-
-Cataclysm-DDA experimental build 2022-05-29-2159 (2f69c36)
 * Fix typo M25→M26 (#58013)
 * Fix grammar mistakes in new talk tags (#57931)
 * Update / expand clang-tidy local build docs (#57971)
@@ -138,6 +141,3 @@ Cataclysm-DDA experimental build 2022-05-29-2159 (2f69c36)
 * Remove Car Salesman's duplicated watch  (#57867)
 * fix: automatic tileset updates error (#57868)
 * Fair Lord's → Fair Lords (#57857)
-* Change Cyrylic for translateration in item name (#57856)
-* al→all (#57854)
-* Fix description of liberty talon (#57855)

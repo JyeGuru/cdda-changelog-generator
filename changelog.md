@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-03-0145 ([b281423](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-0145))
+
+* Added external option with setting frequency of displaying music descriptions in sidebar ([#58029](https://github.com/CleverRaven/Cataclysm-DDA/pull/58029))
+* Fix loading itype::weight_capacity_modifier ([#58091](https://github.com/CleverRaven/Cataclysm-DDA/pull/58091))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-03-0036 ([462c6d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-0036))
+
+* Remove doc and src melee_cut ([#58077](https://github.com/CleverRaven/Cataclysm-DDA/pull/58077))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-02-2003 ([d465fe4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-2003))
 
 * Clarify stat scaling in GAME_BALANCE.md ([#58089](https://github.com/CleverRaven/Cataclysm-DDA/pull/58089))
@@ -157,20 +170,10 @@
 #### Cataclysm-DDA experimental build 2022-05-30-0411 ([6f51e7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-30-0411))
 
 * Konsistent Kevlar ([#57986](https://github.com/CleverRaven/Cataclysm-DDA/pull/57986))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-29-2307 ([8c73a5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-29-2307))
-
 * Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))
 * Add flags to robofac mission chunks ([#57992](https://github.com/CleverRaven/Cataclysm-DDA/pull/57992))
 * fix: npc label ([#58000](https://github.com/CleverRaven/Cataclysm-DDA/pull/58000))
 * Start Location Fix ([#58003](https://github.com/CleverRaven/Cataclysm-DDA/pull/58003))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-29-2159 ([2f69c36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-29-2159))
-
 * Fix typo M25→M26 ([#58013](https://github.com/CleverRaven/Cataclysm-DDA/pull/58013))
 * Fix grammar mistakes in new talk tags ([#57931](https://github.com/CleverRaven/Cataclysm-DDA/pull/57931))
 * Update / expand clang-tidy local build docs ([#57971](https://github.com/CleverRaven/Cataclysm-DDA/pull/57971))
@@ -216,6 +219,3 @@
 * Remove Car Salesman's duplicated watch  ([#57867](https://github.com/CleverRaven/Cataclysm-DDA/pull/57867))
 * fix: automatic tileset updates error ([#57868](https://github.com/CleverRaven/Cataclysm-DDA/pull/57868))
 * Fair Lord's → Fair Lords ([#57857](https://github.com/CleverRaven/Cataclysm-DDA/pull/57857))
-* Change Cyrylic for translateration in item name ([#57856](https://github.com/CleverRaven/Cataclysm-DDA/pull/57856))
-* al→all ([#57854](https://github.com/CleverRaven/Cataclysm-DDA/pull/57854))
-* Fix description of liberty talon ([#57855](https://github.com/CleverRaven/Cataclysm-DDA/pull/57855))
