@@ -1,3 +1,11 @@
+* Shorten shillelagh weapons to fit in belt loop ([#58041](https://github.com/CleverRaven/Cataclysm-DDA/pull/58041))
+* Reduce time to take down most simple appliances ([#58096](https://github.com/CleverRaven/Cataclysm-DDA/pull/58096))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-03-0838 ([4f24da8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-0838))
+
+* Added baking soda to rehydration drink recipe ([#58084](https://github.com/CleverRaven/Cataclysm-DDA/pull/58084))
 
 ---
 
@@ -183,7 +191,6 @@
 * fix: nre printout typos ([#57963](https://github.com/CleverRaven/Cataclysm-DDA/pull/57963))
 * Always convert uppercase on wchar_t ([#57967](https://github.com/CleverRaven/Cataclysm-DDA/pull/57967))
 * Assign a price to the battery toolmods ([#57901](https://github.com/CleverRaven/Cataclysm-DDA/pull/57901))
-* construction: increase construction activity levels ([#57860](https://github.com/CleverRaven/Cataclysm-DDA/pull/57860))
 * Work towards Deprecating "melee_cut" ([#57913](https://github.com/CleverRaven/Cataclysm-DDA/pull/57913))
 * sdl: don't start text input if already in text input ([#57932](https://github.com/CleverRaven/Cataclysm-DDA/pull/57932))
 * Update laser gun mods to use heat damage type ([#57938](https://github.com/CleverRaven/Cataclysm-DDA/pull/57938))
@@ -191,7 +198,6 @@
 * Add carving proficiency to knitting needles ([#57951](https://github.com/CleverRaven/Cataclysm-DDA/pull/57951))
 * Added padded flag to mining helmet and mining helmet off ([#57944](https://github.com/CleverRaven/Cataclysm-DDA/pull/57944))
 * Clothing and Armor Coverage Conversion Part 2 ([#57940](https://github.com/CleverRaven/Cataclysm-DDA/pull/57940))
-* Allows dissassembly of turret mounts ([#57858](https://github.com/CleverRaven/Cataclysm-DDA/pull/57858))
 * Make fur mutation armor give warmth to the mouth ([#57920](https://github.com/CleverRaven/Cataclysm-DDA/pull/57920))
 * Clothing and Armor Coverage Conversion Part 1 ([#57911](https://github.com/CleverRaven/Cataclysm-DDA/pull/57911))
 * Prevent save crash by sanitizing backlog in firstaid activity ([#57928](https://github.com/CleverRaven/Cataclysm-DDA/pull/57928))
@@ -213,4 +219,3 @@
 * Minor strange cabin basement overhaul ([#57869](https://github.com/CleverRaven/Cataclysm-DDA/pull/57869))
 * Remove Car Salesman's duplicated watch  ([#57867](https://github.com/CleverRaven/Cataclysm-DDA/pull/57867))
 * fix: automatic tileset updates error ([#57868](https://github.com/CleverRaven/Cataclysm-DDA/pull/57868))
-* Fair Lord's → Fair Lords ([#57857](https://github.com/CleverRaven/Cataclysm-DDA/pull/57857))
