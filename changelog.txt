@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-04-2129 (5f229e6)
 * Power Armor ICE Generator (#58134)
 * Remove vague "Unknown" strings from UI with Inattentive trait (#58102)
 * Prevent Isherwood Farm from spawning on lake tiles (#58133)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2022-06-01-0137 (3df7dc7)
 
 Cataclysm-DDA experimental build 2022-06-01-0020 (cec8f23)
 * Speed up crafting menu tab loading (#58004)
-
-Cataclysm-DDA experimental build 2022-05-31-1543 (9e22069)
 * Hard hats love (#58020)
 * Add new martial arts to CQB CBM (#58021)
 * Allow more dialog use of arithmetic, small portal storm rebalance.  (#57983)

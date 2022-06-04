@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-04-2129 ([5f229e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-04-2129))
+
 * Power Armor ICE Generator ([#58134](https://github.com/CleverRaven/Cataclysm-DDA/pull/58134))
 * Remove vague "Unknown" strings from UI with Inattentive trait ([#58102](https://github.com/CleverRaven/Cataclysm-DDA/pull/58102))
 * Prevent Isherwood Farm from spawning on lake tiles ([#58133](https://github.com/CleverRaven/Cataclysm-DDA/pull/58133))
@@ -160,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-06-01-0020 ([cec8f23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-0020))
 
 * Speed up crafting menu tab loading ([#58004](https://github.com/CleverRaven/Cataclysm-DDA/pull/58004))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-31-1543 ([9e22069](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-1543))
-
 * Hard hats love ([#58020](https://github.com/CleverRaven/Cataclysm-DDA/pull/58020))
 * Add new martial arts to CQB CBM ([#58021](https://github.com/CleverRaven/Cataclysm-DDA/pull/58021))
 * Allow more dialog use of arithmetic, small portal storm rebalance.  ([#57983](https://github.com/CleverRaven/Cataclysm-DDA/pull/57983))
