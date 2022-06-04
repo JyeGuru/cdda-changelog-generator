@@ -1,3 +1,12 @@
+* Power Armor ICE Generator ([#58134](https://github.com/CleverRaven/Cataclysm-DDA/pull/58134))
+* Remove vague "Unknown" strings from UI with Inattentive trait ([#58102](https://github.com/CleverRaven/Cataclysm-DDA/pull/58102))
+* Prevent Isherwood Farm from spawning on lake tiles ([#58133](https://github.com/CleverRaven/Cataclysm-DDA/pull/58133))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-04-2007 ([75c1a61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-04-2007))
+
+* crafting: fix initialization of disassembly act ([#58144](https://github.com/CleverRaven/Cataclysm-DDA/pull/58144))
 
 ---
 
@@ -157,17 +166,11 @@
 #### Cataclysm-DDA experimental build 2022-05-31-1543 ([9e22069](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-1543))
 
 * Hard hats love ([#58020](https://github.com/CleverRaven/Cataclysm-DDA/pull/58020))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-31-1317 ([b28db36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-1317))
-
 * Add new martial arts to CQB CBM ([#58021](https://github.com/CleverRaven/Cataclysm-DDA/pull/58021))
 * Allow more dialog use of arithmetic, small portal storm rebalance.  ([#57983](https://github.com/CleverRaven/Cataclysm-DDA/pull/57983))
 * Adjust time approximations ([#58030](https://github.com/CleverRaven/Cataclysm-DDA/pull/58030))
 * Aftershock: Minor bugfixing ([#58042](https://github.com/CleverRaven/Cataclysm-DDA/pull/58042))
 * Fix mispriced fifty-cent coin ([#58031](https://github.com/CleverRaven/Cataclysm-DDA/pull/58031))
-* Desert Region Revival ([#57902](https://github.com/CleverRaven/Cataclysm-DDA/pull/57902))
 * fixes and unit tests for rigid armor and splints ([#57970](https://github.com/CleverRaven/Cataclysm-DDA/pull/57970))
 * disassemble long string with cutting 1 ([#58009](https://github.com/CleverRaven/Cataclysm-DDA/pull/58009))
 * Swimming Clothing Consolidation ([#58012](https://github.com/CleverRaven/Cataclysm-DDA/pull/58012))
@@ -198,7 +201,6 @@
 * removed appliances from valid vehicle deconstruction targets ([#57960](https://github.com/CleverRaven/Cataclysm-DDA/pull/57960))
 * fix: nre printout typos ([#57963](https://github.com/CleverRaven/Cataclysm-DDA/pull/57963))
 * Always convert uppercase on wchar_t ([#57967](https://github.com/CleverRaven/Cataclysm-DDA/pull/57967))
-* Assign a price to the battery toolmods ([#57901](https://github.com/CleverRaven/Cataclysm-DDA/pull/57901))
 * Work towards Deprecating "melee_cut" ([#57913](https://github.com/CleverRaven/Cataclysm-DDA/pull/57913))
 * sdl: don't start text input if already in text input ([#57932](https://github.com/CleverRaven/Cataclysm-DDA/pull/57932))
 * Update laser gun mods to use heat damage type ([#57938](https://github.com/CleverRaven/Cataclysm-DDA/pull/57938))
@@ -213,5 +215,3 @@
 * fixed typo with right foot bottom ([#57933](https://github.com/CleverRaven/Cataclysm-DDA/pull/57933))
 * "Huge" mutation bugfix ([#57919](https://github.com/CleverRaven/Cataclysm-DDA/pull/57919))
 * head and torso graph tweaks ([#57905](https://github.com/CleverRaven/Cataclysm-DDA/pull/57905))
-* Shoe Bottoms / Soles ([#57903](https://github.com/CleverRaven/Cataclysm-DDA/pull/57903))
-* Starvation alert trigger lowered and slowed ([#57900](https://github.com/CleverRaven/Cataclysm-DDA/pull/57900))
