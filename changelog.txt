@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-04-0526 (98ec1bd)
 * fix broken notes spawn Isolated Artisans (#58138)
 
 Cataclysm-DDA experimental build 2022-06-03-2253 (80a0da6)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2022-05-31-0645 (0f30e55)
 * Allow more dialog use of arithmetic, small portal storm rebalance.  (#57983)
 * Adjust time approximations (#58030)
 * Aftershock: Minor bugfixing (#58042)
-
-Cataclysm-DDA experimental build 2022-05-31-0544 (bd61653)
 * Fix mispriced fifty-cent coin (#58031)
 * Desert Region Revival (#57902)
 * fixes and unit tests for rigid armor and splints (#57970)
