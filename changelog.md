@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-04-0712 ([ac85e55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-04-0712))
+
+* Routine i18n updates on 04 June 2022 ([#58135](https://github.com/CleverRaven/Cataclysm-DDA/pull/58135))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-04-0526 ([98ec1bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-04-0526))
 
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
@@ -157,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-05-31-1317 ([b28db36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-1317))
 
 * Add new martial arts to CQB CBM ([#58021](https://github.com/CleverRaven/Cataclysm-DDA/pull/58021))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-31-0645 ([0f30e55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0645))
-
 * Allow more dialog use of arithmetic, small portal storm rebalance.  ([#57983](https://github.com/CleverRaven/Cataclysm-DDA/pull/57983))
 * Adjust time approximations ([#58030](https://github.com/CleverRaven/Cataclysm-DDA/pull/58030))
 * Aftershock: Minor bugfixing ([#58042](https://github.com/CleverRaven/Cataclysm-DDA/pull/58042))
@@ -209,7 +210,6 @@
 * Clothing and Armor Coverage Conversion Part 1 ([#57911](https://github.com/CleverRaven/Cataclysm-DDA/pull/57911))
 * Prevent save crash by sanitizing backlog in firstaid activity ([#57928](https://github.com/CleverRaven/Cataclysm-DDA/pull/57928))
 * more clearly differentiate the shoulders on bodygraph ([#57935](https://github.com/CleverRaven/Cataclysm-DDA/pull/57935))
-* explosion: fixup for defered explosions ([#57897](https://github.com/CleverRaven/Cataclysm-DDA/pull/57897))
 * fixed typo with right foot bottom ([#57933](https://github.com/CleverRaven/Cataclysm-DDA/pull/57933))
 * "Huge" mutation bugfix ([#57919](https://github.com/CleverRaven/Cataclysm-DDA/pull/57919))
 * head and torso graph tweaks ([#57905](https://github.com/CleverRaven/Cataclysm-DDA/pull/57905))
