@@ -1,3 +1,4 @@
+* fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
 
 ---
 
@@ -165,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2022-05-31-0544 ([bd61653](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0544))
 
 * Fix mispriced fifty-cent coin ([#58031](https://github.com/CleverRaven/Cataclysm-DDA/pull/58031))
-
----
-
-#### Cataclysm-DDA experimental build 2022-05-31-0202 ([6d87d30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-05-31-0202))
-
 * Desert Region Revival ([#57902](https://github.com/CleverRaven/Cataclysm-DDA/pull/57902))
 * fixes and unit tests for rigid armor and splints ([#57970](https://github.com/CleverRaven/Cataclysm-DDA/pull/57970))
 * disassemble long string with cutting 1 ([#58009](https://github.com/CleverRaven/Cataclysm-DDA/pull/58009))
@@ -214,7 +210,6 @@
 * Prevent save crash by sanitizing backlog in firstaid activity ([#57928](https://github.com/CleverRaven/Cataclysm-DDA/pull/57928))
 * more clearly differentiate the shoulders on bodygraph ([#57935](https://github.com/CleverRaven/Cataclysm-DDA/pull/57935))
 * explosion: fixup for defered explosions ([#57897](https://github.com/CleverRaven/Cataclysm-DDA/pull/57897))
-* [DinoMod] brave ankylosaurids ([#57896](https://github.com/CleverRaven/Cataclysm-DDA/pull/57896))
 * fixed typo with right foot bottom ([#57933](https://github.com/CleverRaven/Cataclysm-DDA/pull/57933))
 * "Huge" mutation bugfix ([#57919](https://github.com/CleverRaven/Cataclysm-DDA/pull/57919))
 * head and torso graph tweaks ([#57905](https://github.com/CleverRaven/Cataclysm-DDA/pull/57905))
