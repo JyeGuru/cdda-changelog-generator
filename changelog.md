@@ -119,11 +119,6 @@
 #### Cataclysm-DDA experimental build 2022-06-02-0129 ([9a10f80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0129))
 
 * [DinoMod] bonus damage types ([#57943](https://github.com/CleverRaven/Cataclysm-DDA/pull/57943))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-01-2013 ([2fd4131](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-2013))
-
 * Rework fire axe ferals into something more dangerous. ([#58028](https://github.com/CleverRaven/Cataclysm-DDA/pull/58028))
 * Feral weapon variety ([#58014](https://github.com/CleverRaven/Cataclysm-DDA/pull/58014))
 
@@ -165,6 +160,11 @@
 * Update the table of contents in doc/JSON_INFO.md ([#58053](https://github.com/CleverRaven/Cataclysm-DDA/pull/58053))
 * Research facility - fix perfect condition vehicles ([#58058](https://github.com/CleverRaven/Cataclysm-DDA/pull/58058))
 * Correct a border height for world creation ([#58062](https://github.com/CleverRaven/Cataclysm-DDA/pull/58062))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-01-0020 ([cec8f23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-0020))
+
 * Speed up crafting menu tab loading ([#58004](https://github.com/CleverRaven/Cataclysm-DDA/pull/58004))
 * Hard hats love ([#58020](https://github.com/CleverRaven/Cataclysm-DDA/pull/58020))
 * Add new martial arts to CQB CBM ([#58021](https://github.com/CleverRaven/Cataclysm-DDA/pull/58021))
