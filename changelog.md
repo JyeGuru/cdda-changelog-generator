@@ -202,7 +202,6 @@
 * removed appliances from valid vehicle deconstruction targets ([#57960](https://github.com/CleverRaven/Cataclysm-DDA/pull/57960))
 * fix: nre printout typos ([#57963](https://github.com/CleverRaven/Cataclysm-DDA/pull/57963))
 * Always convert uppercase on wchar_t ([#57967](https://github.com/CleverRaven/Cataclysm-DDA/pull/57967))
-* Work towards Deprecating "melee_cut" ([#57913](https://github.com/CleverRaven/Cataclysm-DDA/pull/57913))
 * sdl: don't start text input if already in text input ([#57932](https://github.com/CleverRaven/Cataclysm-DDA/pull/57932))
 * Update laser gun mods to use heat damage type ([#57938](https://github.com/CleverRaven/Cataclysm-DDA/pull/57938))
 * Made velocity change consistent ([#57941](https://github.com/CleverRaven/Cataclysm-DDA/pull/57941))
