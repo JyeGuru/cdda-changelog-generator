@@ -1,3 +1,11 @@
+* Change some words to American localization ([#58032](https://github.com/CleverRaven/Cataclysm-DDA/pull/58032))
+* Several martial arts fixes ([#58050](https://github.com/CleverRaven/Cataclysm-DDA/pull/58050))
+* fix: nerf adhesive bandages' gravitational effects ([#57968](https://github.com/CleverRaven/Cataclysm-DDA/pull/57968))
+* added OUTER tag to dragon armor suit ([#58177](https://github.com/CleverRaven/Cataclysm-DDA/pull/58177))
+* Add mouse scrolling to all scrollable_text() windows (help, NPC epilogue, faction epilogue, some NPC talk) ([#58145](https://github.com/CleverRaven/Cataclysm-DDA/pull/58145))
+* labeler: don't apply Mods label for TEST_DATA changes ([#58170](https://github.com/CleverRaven/Cataclysm-DDA/pull/58170))
+* fix negative weight remaining in quiver ([#58147](https://github.com/CleverRaven/Cataclysm-DDA/pull/58147))
+* Add missing translation for a single string. ([#58153](https://github.com/CleverRaven/Cataclysm-DDA/pull/58153))
 
 ---
 
@@ -165,7 +173,6 @@
 
 * Explicitly define a mission arrow for ASCIITiles tileset ([#58066](https://github.com/CleverRaven/Cataclysm-DDA/pull/58066))
 * Standardize damage to armor when blocking ([#58046](https://github.com/CleverRaven/Cataclysm-DDA/pull/58046))
-* Assign Melee Damage ([#57957](https://github.com/CleverRaven/Cataclysm-DDA/pull/57957))
 * Reset steadiness after most actions ([#58073](https://github.com/CleverRaven/Cataclysm-DDA/pull/58073))
 * Subject suit is soft ([#58064](https://github.com/CleverRaven/Cataclysm-DDA/pull/58064))
 * Add abandoned textile mill ([#57982](https://github.com/CleverRaven/Cataclysm-DDA/pull/57982))
@@ -201,10 +208,3 @@
 * Add plural to M26 MASS ([#57976](https://github.com/CleverRaven/Cataclysm-DDA/pull/57976))
 * bulls-eye → bullseye ([#57978](https://github.com/CleverRaven/Cataclysm-DDA/pull/57978))
 * Routine i18n updates on 28 May 2022 ([#57973](https://github.com/CleverRaven/Cataclysm-DDA/pull/57973))
-* fix: bad <swear> tag ([#57955](https://github.com/CleverRaven/Cataclysm-DDA/pull/57955))
-* [DinoMod] cathemeral dinos ([#57954](https://github.com/CleverRaven/Cataclysm-DDA/pull/57954))
-* Construction activity level fixup ([#57958](https://github.com/CleverRaven/Cataclysm-DDA/pull/57958))
-* removed appliances from valid vehicle deconstruction targets ([#57960](https://github.com/CleverRaven/Cataclysm-DDA/pull/57960))
-* fix: nre printout typos ([#57963](https://github.com/CleverRaven/Cataclysm-DDA/pull/57963))
-* Always convert uppercase on wchar_t ([#57967](https://github.com/CleverRaven/Cataclysm-DDA/pull/57967))
-* Add carving proficiency to knitting needles ([#57951](https://github.com/CleverRaven/Cataclysm-DDA/pull/57951))
