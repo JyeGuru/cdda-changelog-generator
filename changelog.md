@@ -1,3 +1,14 @@
+* Add cast-iron dutch oven to various itemgroups ([#58160](https://github.com/CleverRaven/Cataclysm-DDA/pull/58160))
+* Consolidate starting missions ([#58166](https://github.com/CleverRaven/Cataclysm-DDA/pull/58166))
+* Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
+* fix: remove starting "&"s in npc dialogue ([#58178](https://github.com/CleverRaven/Cataclysm-DDA/pull/58178))
+* Remove Methanol byproduct from Moonshine ([#58149](https://github.com/CleverRaven/Cataclysm-DDA/pull/58149))
+* Fill in mx_crater with dirt if we're at z=0 ([#58063](https://github.com/CleverRaven/Cataclysm-DDA/pull/58063))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-06-0604 ([14a6293](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0604))
+
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
 * Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
 
@@ -138,12 +149,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-06-02-0129 ([9a10f80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0129))
-
-* [DinoMod] bonus damage types ([#57943](https://github.com/CleverRaven/Cataclysm-DDA/pull/57943))
-
----
-
 #### Cataclysm-DDA experimental build 2022-06-01-2013 ([2fd4131](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-2013))
 
 * Rework fire axe ferals into something more dangerous. ([#58028](https://github.com/CleverRaven/Cataclysm-DDA/pull/58028))
@@ -160,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-06-01-1804 ([015755d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-1804))
 
 * Standardize damage to armor when blocking ([#58046](https://github.com/CleverRaven/Cataclysm-DDA/pull/58046))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-01-1641 ([3fcf075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-1641))
-
 * Assign Melee Damage ([#57957](https://github.com/CleverRaven/Cataclysm-DDA/pull/57957))
 * Reset steadiness after most actions ([#58073](https://github.com/CleverRaven/Cataclysm-DDA/pull/58073))
 * Subject suit is soft ([#58064](https://github.com/CleverRaven/Cataclysm-DDA/pull/58064))
@@ -207,9 +207,4 @@
 * removed appliances from valid vehicle deconstruction targets ([#57960](https://github.com/CleverRaven/Cataclysm-DDA/pull/57960))
 * fix: nre printout typos ([#57963](https://github.com/CleverRaven/Cataclysm-DDA/pull/57963))
 * Always convert uppercase on wchar_t ([#57967](https://github.com/CleverRaven/Cataclysm-DDA/pull/57967))
-* Update laser gun mods to use heat damage type ([#57938](https://github.com/CleverRaven/Cataclysm-DDA/pull/57938))
-* Made velocity change consistent ([#57941](https://github.com/CleverRaven/Cataclysm-DDA/pull/57941))
 * Add carving proficiency to knitting needles ([#57951](https://github.com/CleverRaven/Cataclysm-DDA/pull/57951))
-* Added padded flag to mining helmet and mining helmet off ([#57944](https://github.com/CleverRaven/Cataclysm-DDA/pull/57944))
-* Clothing and Armor Coverage Conversion Part 2 ([#57940](https://github.com/CleverRaven/Cataclysm-DDA/pull/57940))
-* more clearly differentiate the shoulders on bodygraph ([#57935](https://github.com/CleverRaven/Cataclysm-DDA/pull/57935))
