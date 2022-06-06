@@ -1,6 +1,12 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-06-0839 ([4f1c3fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0839))
+
+* PREFIX doesn't go through C preprocessor stringification ([#57984](https://github.com/CleverRaven/Cataclysm-DDA/pull/57984))
+*  Stop debug injury causing instant death ([#57985](https://github.com/CleverRaven/Cataclysm-DDA/pull/57985))
 * Change some words to American localization ([#58032](https://github.com/CleverRaven/Cataclysm-DDA/pull/58032))
 * Several martial arts fixes ([#58050](https://github.com/CleverRaven/Cataclysm-DDA/pull/58050))
-* fix: nerf adhesive bandages' gravitational effects ([#57968](https://github.com/CleverRaven/Cataclysm-DDA/pull/57968))
 * added OUTER tag to dragon armor suit ([#58177](https://github.com/CleverRaven/Cataclysm-DDA/pull/58177))
 * Add mouse scrolling to all scrollable_text() windows (help, NPC epilogue, faction epilogue, some NPC talk) ([#58145](https://github.com/CleverRaven/Cataclysm-DDA/pull/58145))
 * labeler: don't apply Mods label for TEST_DATA changes ([#58170](https://github.com/CleverRaven/Cataclysm-DDA/pull/58170))
@@ -166,11 +172,6 @@
 
 * Rework fire axe ferals into something more dangerous. ([#58028](https://github.com/CleverRaven/Cataclysm-DDA/pull/58028))
 * Feral weapon variety ([#58014](https://github.com/CleverRaven/Cataclysm-DDA/pull/58014))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-01-1906 ([b1410ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-1906))
-
 * Explicitly define a mission arrow for ASCIITiles tileset ([#58066](https://github.com/CleverRaven/Cataclysm-DDA/pull/58066))
 * Standardize damage to armor when blocking ([#58046](https://github.com/CleverRaven/Cataclysm-DDA/pull/58046))
 * Reset steadiness after most actions ([#58073](https://github.com/CleverRaven/Cataclysm-DDA/pull/58073))
