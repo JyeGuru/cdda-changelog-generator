@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-06-0146 (e618b6f)
 * inv_col: preserve denial for aggregated entries (#58179)
 * Assert that sprite dimensions are positive (#58184)
 * Prevent the sort armor screen from moving clothing on naked characters (#58192)
@@ -87,8 +89,6 @@ Cataclysm-DDA experimental build 2022-06-01-1641 (3fcf075)
 
 Cataclysm-DDA experimental build 2022-06-01-1501 (274bd31)
 * Reset steadiness after most actions (#58073)
-
-Cataclysm-DDA experimental build 2022-06-01-0513 (da364ef)
 * Subject suit is soft (#58064)
 * Add abandoned textile mill (#57982)
 * Update the table of contents in doc/JSON_INFO.md (#58053)
@@ -119,7 +119,6 @@ Cataclysm-DDA experimental build 2022-06-01-0513 (da364ef)
 * fix: npc label (#58000)
 * Start Location Fix (#58003)
 * Fix typo M25→M26 (#58013)
-* Fix grammar mistakes in new talk tags (#57931)
 * Update / expand clang-tidy local build docs (#57971)
 * Add plural to M26 MASS (#57976)
 * bulls-eye → bullseye (#57978)
