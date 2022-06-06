@@ -1,3 +1,13 @@
+* inv_col: preserve denial for aggregated entries ([#58179](https://github.com/CleverRaven/Cataclysm-DDA/pull/58179))
+* Assert that sprite dimensions are positive ([#58184](https://github.com/CleverRaven/Cataclysm-DDA/pull/58184))
+* Prevent the sort armor screen from moving clothing on naked characters ([#58192](https://github.com/CleverRaven/Cataclysm-DDA/pull/58192))
+* Add new labels for Desert Region and Xedra Evolved ([#58193](https://github.com/CleverRaven/Cataclysm-DDA/pull/58193))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-06-0023 ([3b63790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0023))
+
+* Routine Tileset updates on 05 June 2022 ([#58194](https://github.com/CleverRaven/Cataclysm-DDA/pull/58194))
 
 ---
 
@@ -106,7 +116,6 @@
 #### Cataclysm-DDA experimental build 2022-06-02-0724 ([9301c86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0724))
 
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
-* Convert map extra mx_military to JSON ([#57924](https://github.com/CleverRaven/Cataclysm-DDA/pull/57924))
 
 ---
 
@@ -156,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-06-01-0513 ([da364ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-0513))
 
 * Subject suit is soft ([#58064](https://github.com/CleverRaven/Cataclysm-DDA/pull/58064))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-01-0137 ([3df7dc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-0137))
-
 * Add abandoned textile mill ([#57982](https://github.com/CleverRaven/Cataclysm-DDA/pull/57982))
 * Update the table of contents in doc/JSON_INFO.md ([#58053](https://github.com/CleverRaven/Cataclysm-DDA/pull/58053))
 * Research facility - fix perfect condition vehicles ([#58058](https://github.com/CleverRaven/Cataclysm-DDA/pull/58058))
@@ -208,8 +212,5 @@
 * Add carving proficiency to knitting needles ([#57951](https://github.com/CleverRaven/Cataclysm-DDA/pull/57951))
 * Added padded flag to mining helmet and mining helmet off ([#57944](https://github.com/CleverRaven/Cataclysm-DDA/pull/57944))
 * Clothing and Armor Coverage Conversion Part 2 ([#57940](https://github.com/CleverRaven/Cataclysm-DDA/pull/57940))
-* Make fur mutation armor give warmth to the mouth ([#57920](https://github.com/CleverRaven/Cataclysm-DDA/pull/57920))
-* Prevent save crash by sanitizing backlog in firstaid activity ([#57928](https://github.com/CleverRaven/Cataclysm-DDA/pull/57928))
 * more clearly differentiate the shoulders on bodygraph ([#57935](https://github.com/CleverRaven/Cataclysm-DDA/pull/57935))
 * fixed typo with right foot bottom ([#57933](https://github.com/CleverRaven/Cataclysm-DDA/pull/57933))
-* "Huge" mutation bugfix ([#57919](https://github.com/CleverRaven/Cataclysm-DDA/pull/57919))

@@ -1,3 +1,10 @@
+* inv_col: preserve denial for aggregated entries (#58179)
+* Assert that sprite dimensions are positive (#58184)
+* Prevent the sort armor screen from moving clothing on naked characters (#58192)
+* Add new labels for Desert Region and Xedra Evolved (#58193)
+
+Cataclysm-DDA experimental build 2022-06-06-0023 (3b63790)
+* Routine Tileset updates on 05 June 2022 (#58194)
 
 Cataclysm-DDA experimental build 2022-06-05-1345 (82afe21)
 * Make Reptilian Healing not be a downgrade (#58148)
@@ -58,7 +65,6 @@ Cataclysm-DDA experimental build 2022-06-02-1401 (f841d7b)
 
 Cataclysm-DDA experimental build 2022-06-02-0724 (9301c86)
 * [MMA] Fix Attack vector typo (#58079)
-* Convert map extra mx_military to JSON (#57924)
 
 Cataclysm-DDA experimental build 2022-06-02-0322 (e65e468)
 * Added a dozen new hints for the main menu (#58056)
@@ -84,8 +90,6 @@ Cataclysm-DDA experimental build 2022-06-01-1501 (274bd31)
 
 Cataclysm-DDA experimental build 2022-06-01-0513 (da364ef)
 * Subject suit is soft (#58064)
-
-Cataclysm-DDA experimental build 2022-06-01-0137 (3df7dc7)
 * Add abandoned textile mill (#57982)
 * Update the table of contents in doc/JSON_INFO.md (#58053)
 * Research facility - fix perfect condition vehicles (#58058)
@@ -133,8 +137,5 @@ Cataclysm-DDA experimental build 2022-06-01-0137 (3df7dc7)
 * Add carving proficiency to knitting needles (#57951)
 * Added padded flag to mining helmet and mining helmet off (#57944)
 * Clothing and Armor Coverage Conversion Part 2 (#57940)
-* Make fur mutation armor give warmth to the mouth (#57920)
-* Prevent save crash by sanitizing backlog in firstaid activity (#57928)
 * more clearly differentiate the shoulders on bodygraph (#57935)
 * fixed typo with right foot bottom (#57933)
-* "Huge" mutation bugfix (#57919)
