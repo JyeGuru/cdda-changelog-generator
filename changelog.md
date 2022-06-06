@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-06-2119 ([dbe28af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-2119))
+
 * npc/randenc: robustify random encounter EOCs ([#58112](https://github.com/CleverRaven/Cataclysm-DDA/pull/58112))
 * Add vertical mouse scrolling to achievement UI window ([#58127](https://github.com/CleverRaven/Cataclysm-DDA/pull/58127))
 * Kerosene rename ([#58201](https://github.com/CleverRaven/Cataclysm-DDA/pull/58201))
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-06-02-0724 ([9301c86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0724))
 
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-02-0322 ([e65e468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0322))
-
 * Added a dozen new hints for the main menu ([#58056](https://github.com/CleverRaven/Cataclysm-DDA/pull/58056))
 * Rework fire axe ferals into something more dangerous. ([#58028](https://github.com/CleverRaven/Cataclysm-DDA/pull/58028))
 * Feral weapon variety ([#58014](https://github.com/CleverRaven/Cataclysm-DDA/pull/58014))
