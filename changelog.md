@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-06-0719 ([612cf18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0719))
+
 * Add cast-iron dutch oven to various itemgroups ([#58160](https://github.com/CleverRaven/Cataclysm-DDA/pull/58160))
 * Consolidate starting missions ([#58166](https://github.com/CleverRaven/Cataclysm-DDA/pull/58166))
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
@@ -159,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2022-06-01-1906 ([b1410ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-1906))
 
 * Explicitly define a mission arrow for ASCIITiles tileset ([#58066](https://github.com/CleverRaven/Cataclysm-DDA/pull/58066))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-01-1804 ([015755d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-1804))
-
 * Standardize damage to armor when blocking ([#58046](https://github.com/CleverRaven/Cataclysm-DDA/pull/58046))
 * Assign Melee Damage ([#57957](https://github.com/CleverRaven/Cataclysm-DDA/pull/57957))
 * Reset steadiness after most actions ([#58073](https://github.com/CleverRaven/Cataclysm-DDA/pull/58073))

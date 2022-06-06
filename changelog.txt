@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-06-0719 (612cf18)
 * Add cast-iron dutch oven to various itemgroups (#58160)
 * Consolidate starting missions (#58166)
 * Fix incorrect kitchen floor (#58205)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2022-06-01-2013 (2fd4131)
 
 Cataclysm-DDA experimental build 2022-06-01-1906 (b1410ee)
 * Explicitly define a mission arrow for ASCIITiles tileset (#58066)
-
-Cataclysm-DDA experimental build 2022-06-01-1804 (015755d)
 * Standardize damage to armor when blocking (#58046)
 * Assign Melee Damage (#57957)
 * Reset steadiness after most actions (#58073)
