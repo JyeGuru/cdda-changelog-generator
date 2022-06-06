@@ -166,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2022-06-02-0322 ([e65e468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0322))
 
 * Added a dozen new hints for the main menu ([#58056](https://github.com/CleverRaven/Cataclysm-DDA/pull/58056))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-01-2013 ([2fd4131](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-01-2013))
-
 * Rework fire axe ferals into something more dangerous. ([#58028](https://github.com/CleverRaven/Cataclysm-DDA/pull/58028))
 * Feral weapon variety ([#58014](https://github.com/CleverRaven/Cataclysm-DDA/pull/58014))
 * Explicitly define a mission arrow for ASCIITiles tileset ([#58066](https://github.com/CleverRaven/Cataclysm-DDA/pull/58066))
