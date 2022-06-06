@@ -1,3 +1,5 @@
+* Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
+* Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
 
 ---
 
@@ -200,7 +202,6 @@
 * bulls-eye → bullseye ([#57978](https://github.com/CleverRaven/Cataclysm-DDA/pull/57978))
 * Routine i18n updates on 28 May 2022 ([#57973](https://github.com/CleverRaven/Cataclysm-DDA/pull/57973))
 * fix: bad <swear> tag ([#57955](https://github.com/CleverRaven/Cataclysm-DDA/pull/57955))
-* remove hard code rigid rules for feet ([#57934](https://github.com/CleverRaven/Cataclysm-DDA/pull/57934))
 * [DinoMod] cathemeral dinos ([#57954](https://github.com/CleverRaven/Cataclysm-DDA/pull/57954))
 * Construction activity level fixup ([#57958](https://github.com/CleverRaven/Cataclysm-DDA/pull/57958))
 * removed appliances from valid vehicle deconstruction targets ([#57960](https://github.com/CleverRaven/Cataclysm-DDA/pull/57960))
@@ -212,4 +213,3 @@
 * Added padded flag to mining helmet and mining helmet off ([#57944](https://github.com/CleverRaven/Cataclysm-DDA/pull/57944))
 * Clothing and Armor Coverage Conversion Part 2 ([#57940](https://github.com/CleverRaven/Cataclysm-DDA/pull/57940))
 * more clearly differentiate the shoulders on bodygraph ([#57935](https://github.com/CleverRaven/Cataclysm-DDA/pull/57935))
-* fixed typo with right foot bottom ([#57933](https://github.com/CleverRaven/Cataclysm-DDA/pull/57933))
