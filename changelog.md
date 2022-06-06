@@ -1,3 +1,6 @@
+* Kerosene rename ([#58201](https://github.com/CleverRaven/Cataclysm-DDA/pull/58201))
+* Insert GCC unreachability intrinsic in false branch of cata_assert when NDEBUG is enabled ([#58210](https://github.com/CleverRaven/Cataclysm-DDA/pull/58210))
+* crafting: fix disassemble all ([#58203](https://github.com/CleverRaven/Cataclysm-DDA/pull/58203))
 * Regional Terrain Update 5 ([#58190](https://github.com/CleverRaven/Cataclysm-DDA/pull/58190))
 * Regional Terrain Update 4 ([#58189](https://github.com/CleverRaven/Cataclysm-DDA/pull/58189))
 * Regional Terrain Update 3 ([#58188](https://github.com/CleverRaven/Cataclysm-DDA/pull/58188))
@@ -9,13 +12,6 @@
 
 * Regional Terrain Update 1 ([#58186](https://github.com/CleverRaven/Cataclysm-DDA/pull/58186))
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-06-0839 ([4f1c3fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0839))
-
-* PREFIX doesn't go through C preprocessor stringification ([#57984](https://github.com/CleverRaven/Cataclysm-DDA/pull/57984))
-*  Stop debug injury causing instant death ([#57985](https://github.com/CleverRaven/Cataclysm-DDA/pull/57985))
 * Change some words to American localization ([#58032](https://github.com/CleverRaven/Cataclysm-DDA/pull/58032))
 * Several martial arts fixes ([#58050](https://github.com/CleverRaven/Cataclysm-DDA/pull/58050))
 * added OUTER tag to dragon armor suit ([#58177](https://github.com/CleverRaven/Cataclysm-DDA/pull/58177))
@@ -188,7 +184,6 @@
 * Speed up crafting menu tab loading ([#58004](https://github.com/CleverRaven/Cataclysm-DDA/pull/58004))
 * Hard hats love ([#58020](https://github.com/CleverRaven/Cataclysm-DDA/pull/58020))
 * Add new martial arts to CQB CBM ([#58021](https://github.com/CleverRaven/Cataclysm-DDA/pull/58021))
-* Allow more dialog use of arithmetic, small portal storm rebalance.  ([#57983](https://github.com/CleverRaven/Cataclysm-DDA/pull/57983))
 * Adjust time approximations ([#58030](https://github.com/CleverRaven/Cataclysm-DDA/pull/58030))
 * Aftershock: Minor bugfixing ([#58042](https://github.com/CleverRaven/Cataclysm-DDA/pull/58042))
 * Fix mispriced fifty-cent coin ([#58031](https://github.com/CleverRaven/Cataclysm-DDA/pull/58031))
