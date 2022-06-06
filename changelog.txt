@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-06-0417 (293c808)
+* Fix MOTD/Credits scrolling bug (#58140)
+
 Cataclysm-DDA experimental build 2022-06-06-0146 (e618b6f)
 * inv_col: preserve denial for aggregated entries (#58179)
 * Assert that sprite dimensions are positive (#58184)
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2022-06-01-1804 (015755d)
 
 Cataclysm-DDA experimental build 2022-06-01-1641 (3fcf075)
 * Assign Melee Damage (#57957)
-
-Cataclysm-DDA experimental build 2022-06-01-1501 (274bd31)
 * Reset steadiness after most actions (#58073)
 * Subject suit is soft (#58064)
 * Add abandoned textile mill (#57982)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2022-06-01-1501 (274bd31)
 * removed appliances from valid vehicle deconstruction targets (#57960)
 * fix: nre printout typos (#57963)
 * Always convert uppercase on wchar_t (#57967)
-* sdl: don't start text input if already in text input (#57932)
 * Update laser gun mods to use heat damage type (#57938)
 * Made velocity change consistent (#57941)
 * Add carving proficiency to knitting needles (#57951)
