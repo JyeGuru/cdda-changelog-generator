@@ -1,3 +1,13 @@
+* Regional Terrain Update 5 ([#58190](https://github.com/CleverRaven/Cataclysm-DDA/pull/58190))
+* Regional Terrain Update 4 ([#58189](https://github.com/CleverRaven/Cataclysm-DDA/pull/58189))
+* Regional Terrain Update 3 ([#58188](https://github.com/CleverRaven/Cataclysm-DDA/pull/58188))
+* Regional Terrain Update 2 ([#58187](https://github.com/CleverRaven/Cataclysm-DDA/pull/58187))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-06-2018 ([90e1eb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-2018))
+
+* Regional Terrain Update 1 ([#58186](https://github.com/CleverRaven/Cataclysm-DDA/pull/58186))
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
 
 ---
@@ -172,7 +182,6 @@
 * Standardize damage to armor when blocking ([#58046](https://github.com/CleverRaven/Cataclysm-DDA/pull/58046))
 * Reset steadiness after most actions ([#58073](https://github.com/CleverRaven/Cataclysm-DDA/pull/58073))
 * Subject suit is soft ([#58064](https://github.com/CleverRaven/Cataclysm-DDA/pull/58064))
-* Add abandoned textile mill ([#57982](https://github.com/CleverRaven/Cataclysm-DDA/pull/57982))
 * Update the table of contents in doc/JSON_INFO.md ([#58053](https://github.com/CleverRaven/Cataclysm-DDA/pull/58053))
 * Research facility - fix perfect condition vehicles ([#58058](https://github.com/CleverRaven/Cataclysm-DDA/pull/58058))
 * Correct a border height for world creation ([#58062](https://github.com/CleverRaven/Cataclysm-DDA/pull/58062))
@@ -200,7 +209,3 @@
 * fix: npc label ([#58000](https://github.com/CleverRaven/Cataclysm-DDA/pull/58000))
 * Start Location Fix ([#58003](https://github.com/CleverRaven/Cataclysm-DDA/pull/58003))
 * Fix typo M25→M26 ([#58013](https://github.com/CleverRaven/Cataclysm-DDA/pull/58013))
-* Update / expand clang-tidy local build docs ([#57971](https://github.com/CleverRaven/Cataclysm-DDA/pull/57971))
-* Add plural to M26 MASS ([#57976](https://github.com/CleverRaven/Cataclysm-DDA/pull/57976))
-* bulls-eye → bullseye ([#57978](https://github.com/CleverRaven/Cataclysm-DDA/pull/57978))
-* Routine i18n updates on 28 May 2022 ([#57973](https://github.com/CleverRaven/Cataclysm-DDA/pull/57973))
