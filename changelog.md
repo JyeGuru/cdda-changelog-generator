@@ -1,3 +1,4 @@
+* Add vertical mouse scrolling to achievement UI window ([#58127](https://github.com/CleverRaven/Cataclysm-DDA/pull/58127))
 * Kerosene rename ([#58201](https://github.com/CleverRaven/Cataclysm-DDA/pull/58201))
 * Insert GCC unreachability intrinsic in false branch of cata_assert when NDEBUG is enabled ([#58210](https://github.com/CleverRaven/Cataclysm-DDA/pull/58210))
 * crafting: fix disassemble all ([#58203](https://github.com/CleverRaven/Cataclysm-DDA/pull/58203))
@@ -198,7 +199,6 @@
 * Update Forge of Wonders merchants ([#57993](https://github.com/CleverRaven/Cataclysm-DDA/pull/57993))
 * Cooking mutant organs retain toxins ([#58007](https://github.com/CleverRaven/Cataclysm-DDA/pull/58007))
 * Transform more water into puddles ([#58001](https://github.com/CleverRaven/Cataclysm-DDA/pull/58001))
-* Konsistent Kevlar ([#57986](https://github.com/CleverRaven/Cataclysm-DDA/pull/57986))
 * Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))
 * Add flags to robofac mission chunks ([#57992](https://github.com/CleverRaven/Cataclysm-DDA/pull/57992))
 * fix: npc label ([#58000](https://github.com/CleverRaven/Cataclysm-DDA/pull/58000))
