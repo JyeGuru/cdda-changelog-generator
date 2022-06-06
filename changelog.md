@@ -1,3 +1,4 @@
+* Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
 
 ---
 
@@ -187,7 +188,6 @@
 * Adjust time approximations ([#58030](https://github.com/CleverRaven/Cataclysm-DDA/pull/58030))
 * Aftershock: Minor bugfixing ([#58042](https://github.com/CleverRaven/Cataclysm-DDA/pull/58042))
 * Fix mispriced fifty-cent coin ([#58031](https://github.com/CleverRaven/Cataclysm-DDA/pull/58031))
-* fixes and unit tests for rigid armor and splints ([#57970](https://github.com/CleverRaven/Cataclysm-DDA/pull/57970))
 * disassemble long string with cutting 1 ([#58009](https://github.com/CleverRaven/Cataclysm-DDA/pull/58009))
 * Swimming Clothing Consolidation ([#58012](https://github.com/CleverRaven/Cataclysm-DDA/pull/58012))
 * remove sew_advanced from the tailor kits ([#58035](https://github.com/CleverRaven/Cataclysm-DDA/pull/58035))

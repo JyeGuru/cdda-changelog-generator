@@ -1,3 +1,4 @@
+* Fix compile error in Object Creator (#58207)
 
 Cataclysm-DDA experimental build 2022-06-06-0839 (4f1c3fc)
 * PREFIX doesn't go through C preprocessor stringification (#57984)
@@ -115,7 +116,6 @@ Cataclysm-DDA experimental build 2022-06-01-2013 (2fd4131)
 * Adjust time approximations (#58030)
 * Aftershock: Minor bugfixing (#58042)
 * Fix mispriced fifty-cent coin (#58031)
-* fixes and unit tests for rigid armor and splints (#57970)
 * disassemble long string with cutting 1 (#58009)
 * Swimming Clothing Consolidation (#58012)
 * remove sew_advanced from the tailor kits (#58035)
