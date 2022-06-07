@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-07-0507 (7ffd17f)
+* Add NO_AUTO_CONSUME to a bunch of stuff (#58227)
+
 Cataclysm-DDA experimental build 2022-06-07-0322 (7e8b40a)
 * Add mouse up and down scrolling to message log window (P by default) (#58124)
 
@@ -136,6 +139,5 @@ Cataclysm-DDA experimental build 2022-06-02-0724 (9301c86)
 * Cooking mutant organs retain toxins (#58007)
 * Transform more water into puddles (#58001)
 * Add NUTRIENT_OVERRIDE to json_flags md (#58008)
-* fix: npc label (#58000)
 * Start Location Fix (#58003)
 * Fix typo M25→M26 (#58013)

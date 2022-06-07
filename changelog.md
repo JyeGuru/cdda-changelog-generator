@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-07-0507 ([7ffd17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0507))
+
+* Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-07-0322 ([7e8b40a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0322))
 
 * Add mouse up and down scrolling to message log window (P by default) ([#58124](https://github.com/CleverRaven/Cataclysm-DDA/pull/58124))
@@ -211,6 +217,5 @@
 * Cooking mutant organs retain toxins ([#58007](https://github.com/CleverRaven/Cataclysm-DDA/pull/58007))
 * Transform more water into puddles ([#58001](https://github.com/CleverRaven/Cataclysm-DDA/pull/58001))
 * Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))
-* fix: npc label ([#58000](https://github.com/CleverRaven/Cataclysm-DDA/pull/58000))
 * Start Location Fix ([#58003](https://github.com/CleverRaven/Cataclysm-DDA/pull/58003))
 * Fix typo M25→M26 ([#58013](https://github.com/CleverRaven/Cataclysm-DDA/pull/58013))
