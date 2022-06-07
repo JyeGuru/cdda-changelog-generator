@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-07-1738 (68afa17)
 * Widgets: rows-in-columns support (#58129)
 
 Cataclysm-DDA experimental build 2022-06-07-1633 (df202fe)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2022-06-03-0145 (b281423)
 
 Cataclysm-DDA experimental build 2022-06-03-0036 (462c6d0)
 * Remove doc and src melee_cut (#58077)
-
-Cataclysm-DDA experimental build 2022-06-02-2003 (d465fe4)
 * Clarify stat scaling in GAME_BALANCE.md (#58089)
 * Adds stamina info to item melee description. (#58075)
 * fix compilation errors in condition.cpp (#58082)

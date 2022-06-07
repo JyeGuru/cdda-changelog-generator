@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-07-1738 ([68afa17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-1738))
+
 * Widgets: rows-in-columns support ([#58129](https://github.com/CleverRaven/Cataclysm-DDA/pull/58129))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-06-03-0036 ([462c6d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-0036))
 
 * Remove doc and src melee_cut ([#58077](https://github.com/CleverRaven/Cataclysm-DDA/pull/58077))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-02-2003 ([d465fe4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-2003))
-
 * Clarify stat scaling in GAME_BALANCE.md ([#58089](https://github.com/CleverRaven/Cataclysm-DDA/pull/58089))
 * Adds stamina info to item melee description. ([#58075](https://github.com/CleverRaven/Cataclysm-DDA/pull/58075))
 * fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
