@@ -215,7 +215,6 @@
 * Routine Tileset updates on 29 May 2022 ([#58018](https://github.com/CleverRaven/Cataclysm-DDA/pull/58018))
 * Nerf wasps (a little bit) ([#58015](https://github.com/CleverRaven/Cataclysm-DDA/pull/58015))
 * Cooking mutant organs retain toxins ([#58007](https://github.com/CleverRaven/Cataclysm-DDA/pull/58007))
-* Transform more water into puddles ([#58001](https://github.com/CleverRaven/Cataclysm-DDA/pull/58001))
 * Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))
 * Start Location Fix ([#58003](https://github.com/CleverRaven/Cataclysm-DDA/pull/58003))
 * Fix typo M25→M26 ([#58013](https://github.com/CleverRaven/Cataclysm-DDA/pull/58013))
