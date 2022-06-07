@@ -1,3 +1,11 @@
+* Fix biotek attunement ([#58243](https://github.com/CleverRaven/Cataclysm-DDA/pull/58243))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-07-1519 ([4d34ea0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-1519))
+
+* Fix problematic list element removal in firstaid_activity_actor::finish() ([#58233](https://github.com/CleverRaven/Cataclysm-DDA/pull/58233))
+* Define RELEASE in msvc Release configurations. ([#58237](https://github.com/CleverRaven/Cataclysm-DDA/pull/58237))
 
 ---
 
@@ -185,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2022-06-02-1541 ([18d1da2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-1541))
 
 * Adds stamina info to item melee description. ([#58075](https://github.com/CleverRaven/Cataclysm-DDA/pull/58075))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-02-1401 ([f841d7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-1401))
-
 * fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
 * Added a dozen new hints for the main menu ([#58056](https://github.com/CleverRaven/Cataclysm-DDA/pull/58056))
@@ -202,7 +205,6 @@
 * Update the table of contents in doc/JSON_INFO.md ([#58053](https://github.com/CleverRaven/Cataclysm-DDA/pull/58053))
 * Research facility - fix perfect condition vehicles ([#58058](https://github.com/CleverRaven/Cataclysm-DDA/pull/58058))
 * Correct a border height for world creation ([#58062](https://github.com/CleverRaven/Cataclysm-DDA/pull/58062))
-* Speed up crafting menu tab loading ([#58004](https://github.com/CleverRaven/Cataclysm-DDA/pull/58004))
 * Hard hats love ([#58020](https://github.com/CleverRaven/Cataclysm-DDA/pull/58020))
 * Add new martial arts to CQB CBM ([#58021](https://github.com/CleverRaven/Cataclysm-DDA/pull/58021))
 * Adjust time approximations ([#58030](https://github.com/CleverRaven/Cataclysm-DDA/pull/58030))
@@ -215,6 +217,4 @@
 * Zombie cops always drop a holster and their sidearms spawn in the holster. ([#58026](https://github.com/CleverRaven/Cataclysm-DDA/pull/58026))
 * Routine Tileset updates on 29 May 2022 ([#58018](https://github.com/CleverRaven/Cataclysm-DDA/pull/58018))
 * Nerf wasps (a little bit) ([#58015](https://github.com/CleverRaven/Cataclysm-DDA/pull/58015))
-* Cooking mutant organs retain toxins ([#58007](https://github.com/CleverRaven/Cataclysm-DDA/pull/58007))
-* Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))
 * Fix typo M25→M26 ([#58013](https://github.com/CleverRaven/Cataclysm-DDA/pull/58013))
