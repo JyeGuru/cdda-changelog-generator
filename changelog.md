@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-07-0322 ([7e8b40a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0322))
+
+* Add mouse up and down scrolling to message log window (P by default) ([#58124](https://github.com/CleverRaven/Cataclysm-DDA/pull/58124))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-07-0205 ([a758fa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0205))
 
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
@@ -202,7 +208,6 @@
 * Zombie cops always drop a holster and their sidearms spawn in the holster. ([#58026](https://github.com/CleverRaven/Cataclysm-DDA/pull/58026))
 * Routine Tileset updates on 29 May 2022 ([#58018](https://github.com/CleverRaven/Cataclysm-DDA/pull/58018))
 * Nerf wasps (a little bit) ([#58015](https://github.com/CleverRaven/Cataclysm-DDA/pull/58015))
-* construction: add dig pit variant for t_grave_new ([#57998](https://github.com/CleverRaven/Cataclysm-DDA/pull/57998))
 * Cooking mutant organs retain toxins ([#58007](https://github.com/CleverRaven/Cataclysm-DDA/pull/58007))
 * Transform more water into puddles ([#58001](https://github.com/CleverRaven/Cataclysm-DDA/pull/58001))
 * Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))

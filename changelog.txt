@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-07-0322 (7e8b40a)
+* Add mouse up and down scrolling to message log window (P by default) (#58124)
+
 Cataclysm-DDA experimental build 2022-06-07-0205 (a758fa0)
 * [Innawood] minor updates (#58213)
 
@@ -130,7 +133,6 @@ Cataclysm-DDA experimental build 2022-06-02-0724 (9301c86)
 * Zombie cops always drop a holster and their sidearms spawn in the holster. (#58026)
 * Routine Tileset updates on 29 May 2022 (#58018)
 * Nerf wasps (a little bit) (#58015)
-* construction: add dig pit variant for t_grave_new (#57998)
 * Cooking mutant organs retain toxins (#58007)
 * Transform more water into puddles (#58001)
 * Add NUTRIENT_OVERRIDE to json_flags md (#58008)
