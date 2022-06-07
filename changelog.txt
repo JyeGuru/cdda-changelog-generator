@@ -111,8 +111,6 @@ Cataclysm-DDA experimental build 2022-06-03-0838 (4f24da8)
 Cataclysm-DDA experimental build 2022-06-03-0145 (b281423)
 * Added external option with setting frequency of displaying music descriptions in sidebar (#58029)
 * Fix loading itype::weight_capacity_modifier (#58091)
-
-Cataclysm-DDA experimental build 2022-06-03-0036 (462c6d0)
 * Remove doc and src melee_cut (#58077)
 * Clarify stat scaling in GAME_BALANCE.md (#58089)
 * Adds stamina info to item melee description. (#58075)

@@ -186,11 +186,6 @@
 
 * Added external option with setting frequency of displaying music descriptions in sidebar ([#58029](https://github.com/CleverRaven/Cataclysm-DDA/pull/58029))
 * Fix loading itype::weight_capacity_modifier ([#58091](https://github.com/CleverRaven/Cataclysm-DDA/pull/58091))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-03-0036 ([462c6d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-0036))
-
 * Remove doc and src melee_cut ([#58077](https://github.com/CleverRaven/Cataclysm-DDA/pull/58077))
 * Clarify stat scaling in GAME_BALANCE.md ([#58089](https://github.com/CleverRaven/Cataclysm-DDA/pull/58089))
 * Adds stamina info to item melee description. ([#58075](https://github.com/CleverRaven/Cataclysm-DDA/pull/58075))
