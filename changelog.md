@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-07-0205 ([a758fa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0205))
+
+* [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-06-2119 ([dbe28af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-2119))
 
 * npc/randenc: robustify random encounter EOCs ([#58112](https://github.com/CleverRaven/Cataclysm-DDA/pull/58112))
@@ -197,7 +203,6 @@
 * Routine Tileset updates on 29 May 2022 ([#58018](https://github.com/CleverRaven/Cataclysm-DDA/pull/58018))
 * Nerf wasps (a little bit) ([#58015](https://github.com/CleverRaven/Cataclysm-DDA/pull/58015))
 * construction: add dig pit variant for t_grave_new ([#57998](https://github.com/CleverRaven/Cataclysm-DDA/pull/57998))
-* Update Forge of Wonders merchants ([#57993](https://github.com/CleverRaven/Cataclysm-DDA/pull/57993))
 * Cooking mutant organs retain toxins ([#58007](https://github.com/CleverRaven/Cataclysm-DDA/pull/58007))
 * Transform more water into puddles ([#58001](https://github.com/CleverRaven/Cataclysm-DDA/pull/58001))
 * Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))
