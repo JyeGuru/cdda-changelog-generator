@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-07-1633 ([df202fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-1633))
+
 * Fix biotek attunement ([#58243](https://github.com/CleverRaven/Cataclysm-DDA/pull/58243))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-06-02-2003 ([d465fe4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-2003))
 
 * Clarify stat scaling in GAME_BALANCE.md ([#58089](https://github.com/CleverRaven/Cataclysm-DDA/pull/58089))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-02-1541 ([18d1da2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-1541))
-
 * Adds stamina info to item melee description. ([#58075](https://github.com/CleverRaven/Cataclysm-DDA/pull/58075))
 * fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
