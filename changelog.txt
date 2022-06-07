@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-07-1053 (0e2b561)
+* Add STANAG ranger plates (#58171)
+
 Cataclysm-DDA experimental build 2022-06-07-0507 (7ffd17f)
 * Add NO_AUTO_CONSUME to a bunch of stuff (#58227)
 
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2022-06-02-1541 (18d1da2)
 
 Cataclysm-DDA experimental build 2022-06-02-1401 (f841d7b)
 * fix compilation errors in condition.cpp (#58082)
-
-Cataclysm-DDA experimental build 2022-06-02-0724 (9301c86)
 * [MMA] Fix Attack vector typo (#58079)
 * Added a dozen new hints for the main menu (#58056)
 * Rework fire axe ferals into something more dangerous. (#58028)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2022-06-02-0724 (9301c86)
 * Nerf wasps (a little bit) (#58015)
 * Cooking mutant organs retain toxins (#58007)
 * Add NUTRIENT_OVERRIDE to json_flags md (#58008)
-* Start Location Fix (#58003)
 * Fix typo M25→M26 (#58013)

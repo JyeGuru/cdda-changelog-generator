@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-07-1053 ([0e2b561](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-1053))
+
+* Add STANAG ranger plates ([#58171](https://github.com/CleverRaven/Cataclysm-DDA/pull/58171))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-07-0507 ([7ffd17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0507))
 
 * Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-06-02-1401 ([f841d7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-1401))
 
 * fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-02-0724 ([9301c86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-02-0724))
-
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
 * Added a dozen new hints for the main menu ([#58056](https://github.com/CleverRaven/Cataclysm-DDA/pull/58056))
 * Rework fire axe ferals into something more dangerous. ([#58028](https://github.com/CleverRaven/Cataclysm-DDA/pull/58028))
@@ -216,5 +217,4 @@
 * Nerf wasps (a little bit) ([#58015](https://github.com/CleverRaven/Cataclysm-DDA/pull/58015))
 * Cooking mutant organs retain toxins ([#58007](https://github.com/CleverRaven/Cataclysm-DDA/pull/58007))
 * Add NUTRIENT_OVERRIDE to json_flags md ([#58008](https://github.com/CleverRaven/Cataclysm-DDA/pull/58008))
-* Start Location Fix ([#58003](https://github.com/CleverRaven/Cataclysm-DDA/pull/58003))
 * Fix typo M25→M26 ([#58013](https://github.com/CleverRaven/Cataclysm-DDA/pull/58013))
