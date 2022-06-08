@@ -1,3 +1,7 @@
+* Add slime, bird samples to the sample loot-table (#58270)
+
+Cataclysm-DDA experimental build 2022-06-08-1832 (93cf075)
+* Add batteries to broken anchor (#58272)
 
 Cataclysm-DDA experimental build 2022-06-08-0624 (3fc0f90)
 * docs: removing quotation around dialogue text (#58259)
@@ -112,8 +116,6 @@ Cataclysm-DDA experimental build 2022-06-03-2138 (a62e76c)
 
 Cataclysm-DDA experimental build 2022-06-03-1639 (b70bca1)
 * Allow mutants with paws to wear bracelets (#58109)
-
-Cataclysm-DDA experimental build 2022-06-03-0939 (ca05dd4)
 * Shorten shillelagh weapons to fit in belt loop (#58041)
 * Reduce time to take down most simple appliances (#58096)
 * Added baking soda to rehydration drink recipe (#58084)
@@ -133,10 +135,8 @@ Cataclysm-DDA experimental build 2022-06-03-0939 (ca05dd4)
 * Update the table of contents in doc/JSON_INFO.md (#58053)
 * Research facility - fix perfect condition vehicles (#58058)
 * Correct a border height for world creation (#58062)
-* Add new martial arts to CQB CBM (#58021)
 * Adjust time approximations (#58030)
 * Aftershock: Minor bugfixing (#58042)
 * Fix mispriced fifty-cent coin (#58031)
 * remove sew_advanced from the tailor kits (#58035)
 * Update sabatons. (#58038)
-* Zombie cops always drop a holster and their sidearms spawn in the holster. (#58026)
