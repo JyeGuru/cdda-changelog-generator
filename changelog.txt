@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-08-0147 (0d4107d)
 * Makes Exodii mag rigid (#58251)
 * Deduplicate files in repeat_clang_tidy.sh (#58262)
 * Npc weapon reload without crashing (#58240)
