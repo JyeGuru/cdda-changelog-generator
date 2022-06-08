@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-08-0624 ([3fc0f90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-0624))
+
+* docs: removing quotation around dialogue text ([#58259](https://github.com/CleverRaven/Cataclysm-DDA/pull/58259))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-08-0147 ([0d4107d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-0147))
 
 * Makes Exodii mag rigid ([#58251](https://github.com/CleverRaven/Cataclysm-DDA/pull/58251))
@@ -188,11 +194,6 @@
 
 * Shorten shillelagh weapons to fit in belt loop ([#58041](https://github.com/CleverRaven/Cataclysm-DDA/pull/58041))
 * Reduce time to take down most simple appliances ([#58096](https://github.com/CleverRaven/Cataclysm-DDA/pull/58096))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-03-0838 ([4f24da8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-0838))
-
 * Added baking soda to rehydration drink recipe ([#58084](https://github.com/CleverRaven/Cataclysm-DDA/pull/58084))
 * Added external option with setting frequency of displaying music descriptions in sidebar ([#58029](https://github.com/CleverRaven/Cataclysm-DDA/pull/58029))
 * Fix loading itype::weight_capacity_modifier ([#58091](https://github.com/CleverRaven/Cataclysm-DDA/pull/58091))
@@ -210,7 +211,6 @@
 * Update the table of contents in doc/JSON_INFO.md ([#58053](https://github.com/CleverRaven/Cataclysm-DDA/pull/58053))
 * Research facility - fix perfect condition vehicles ([#58058](https://github.com/CleverRaven/Cataclysm-DDA/pull/58058))
 * Correct a border height for world creation ([#58062](https://github.com/CleverRaven/Cataclysm-DDA/pull/58062))
-* Hard hats love ([#58020](https://github.com/CleverRaven/Cataclysm-DDA/pull/58020))
 * Add new martial arts to CQB CBM ([#58021](https://github.com/CleverRaven/Cataclysm-DDA/pull/58021))
 * Adjust time approximations ([#58030](https://github.com/CleverRaven/Cataclysm-DDA/pull/58030))
 * Aftershock: Minor bugfixing ([#58042](https://github.com/CleverRaven/Cataclysm-DDA/pull/58042))
