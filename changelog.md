@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-08-1950 ([2ec0e5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-1950))
+
 * Add slime, bird samples to the sample loot-table ([#58270](https://github.com/CleverRaven/Cataclysm-DDA/pull/58270))
 
 ---
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2022-06-03-2138 ([a62e76c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-2138))
 
 * Update how rot is inherited when crafting ([#58097](https://github.com/CleverRaven/Cataclysm-DDA/pull/58097))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-03-1639 ([b70bca1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-1639))
-
 * Allow mutants with paws to wear bracelets ([#58109](https://github.com/CleverRaven/Cataclysm-DDA/pull/58109))
 * Shorten shillelagh weapons to fit in belt loop ([#58041](https://github.com/CleverRaven/Cataclysm-DDA/pull/58041))
 * Reduce time to take down most simple appliances ([#58096](https://github.com/CleverRaven/Cataclysm-DDA/pull/58096))

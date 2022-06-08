@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-08-1950 (2ec0e5e)
 * Add slime, bird samples to the sample loot-table (#58270)
 
 Cataclysm-DDA experimental build 2022-06-08-1832 (93cf075)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2022-06-03-2253 (80a0da6)
 
 Cataclysm-DDA experimental build 2022-06-03-2138 (a62e76c)
 * Update how rot is inherited when crafting (#58097)
-
-Cataclysm-DDA experimental build 2022-06-03-1639 (b70bca1)
 * Allow mutants with paws to wear bracelets (#58109)
 * Shorten shillelagh weapons to fit in belt loop (#58041)
 * Reduce time to take down most simple appliances (#58096)
