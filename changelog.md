@@ -187,11 +187,6 @@
 * Fix diary entry approximate time display ([#58088](https://github.com/CleverRaven/Cataclysm-DDA/pull/58088))
 * Butane spawns no longer all or nothing ([#58122](https://github.com/CleverRaven/Cataclysm-DDA/pull/58122))
 * Mall spawn audit ([#58040](https://github.com/CleverRaven/Cataclysm-DDA/pull/58040))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-03-2138 ([a62e76c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-2138))
-
 * Update how rot is inherited when crafting ([#58097](https://github.com/CleverRaven/Cataclysm-DDA/pull/58097))
 * Allow mutants with paws to wear bracelets ([#58109](https://github.com/CleverRaven/Cataclysm-DDA/pull/58109))
 * Shorten shillelagh weapons to fit in belt loop ([#58041](https://github.com/CleverRaven/Cataclysm-DDA/pull/58041))
