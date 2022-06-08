@@ -1,3 +1,13 @@
+* Makes Exodii mag rigid ([#58251](https://github.com/CleverRaven/Cataclysm-DDA/pull/58251))
+* Deduplicate files in repeat_clang_tidy.sh ([#58262](https://github.com/CleverRaven/Cataclysm-DDA/pull/58262))
+* Npc weapon reload without crashing ([#58240](https://github.com/CleverRaven/Cataclysm-DDA/pull/58240))
+* [CR] 2 Additional Trucks ([#58099](https://github.com/CleverRaven/Cataclysm-DDA/pull/58099))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-08-0036 ([75e5575](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-0036))
+
+* Improve appliance grid performance with many connections ([#58235](https://github.com/CleverRaven/Cataclysm-DDA/pull/58235))
 
 ---
 
@@ -179,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2022-06-03-0838 ([4f24da8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-0838))
 
 * Added baking soda to rehydration drink recipe ([#58084](https://github.com/CleverRaven/Cataclysm-DDA/pull/58084))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-03-0145 ([b281423](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-0145))
-
 * Added external option with setting frequency of displaying music descriptions in sidebar ([#58029](https://github.com/CleverRaven/Cataclysm-DDA/pull/58029))
 * Fix loading itype::weight_capacity_modifier ([#58091](https://github.com/CleverRaven/Cataclysm-DDA/pull/58091))
 * Remove doc and src melee_cut ([#58077](https://github.com/CleverRaven/Cataclysm-DDA/pull/58077))
@@ -193,7 +198,6 @@
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
 * Added a dozen new hints for the main menu ([#58056](https://github.com/CleverRaven/Cataclysm-DDA/pull/58056))
 * Rework fire axe ferals into something more dangerous. ([#58028](https://github.com/CleverRaven/Cataclysm-DDA/pull/58028))
-* Feral weapon variety ([#58014](https://github.com/CleverRaven/Cataclysm-DDA/pull/58014))
 * Explicitly define a mission arrow for ASCIITiles tileset ([#58066](https://github.com/CleverRaven/Cataclysm-DDA/pull/58066))
 * Standardize damage to armor when blocking ([#58046](https://github.com/CleverRaven/Cataclysm-DDA/pull/58046))
 * Reset steadiness after most actions ([#58073](https://github.com/CleverRaven/Cataclysm-DDA/pull/58073))
@@ -206,10 +210,6 @@
 * Adjust time approximations ([#58030](https://github.com/CleverRaven/Cataclysm-DDA/pull/58030))
 * Aftershock: Minor bugfixing ([#58042](https://github.com/CleverRaven/Cataclysm-DDA/pull/58042))
 * Fix mispriced fifty-cent coin ([#58031](https://github.com/CleverRaven/Cataclysm-DDA/pull/58031))
-* Swimming Clothing Consolidation ([#58012](https://github.com/CleverRaven/Cataclysm-DDA/pull/58012))
 * remove sew_advanced from the tailor kits ([#58035](https://github.com/CleverRaven/Cataclysm-DDA/pull/58035))
 * Update sabatons. ([#58038](https://github.com/CleverRaven/Cataclysm-DDA/pull/58038))
 * Zombie cops always drop a holster and their sidearms spawn in the holster. ([#58026](https://github.com/CleverRaven/Cataclysm-DDA/pull/58026))
-* Routine Tileset updates on 29 May 2022 ([#58018](https://github.com/CleverRaven/Cataclysm-DDA/pull/58018))
-* Nerf wasps (a little bit) ([#58015](https://github.com/CleverRaven/Cataclysm-DDA/pull/58015))
-* Fix typo M25→M26 ([#58013](https://github.com/CleverRaven/Cataclysm-DDA/pull/58013))
