@@ -114,7 +114,6 @@
 
 * Regional Terrain Update 1 ([#58186](https://github.com/CleverRaven/Cataclysm-DDA/pull/58186))
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
-* Change some words to American localization ([#58032](https://github.com/CleverRaven/Cataclysm-DDA/pull/58032))
 * Several martial arts fixes ([#58050](https://github.com/CleverRaven/Cataclysm-DDA/pull/58050))
 * added OUTER tag to dragon armor suit ([#58177](https://github.com/CleverRaven/Cataclysm-DDA/pull/58177))
 * Add mouse scrolling to all scrollable_text() windows (help, NPC epilogue, faction epilogue, some NPC talk) ([#58145](https://github.com/CleverRaven/Cataclysm-DDA/pull/58145))
