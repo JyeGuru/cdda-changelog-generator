@@ -1,3 +1,10 @@
+* parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-09-2306 ([f31ea55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-2306))
+
+* json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
 
 ---
 
@@ -152,7 +159,6 @@
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
 * fix: remove starting "&"s in npc dialogue ([#58178](https://github.com/CleverRaven/Cataclysm-DDA/pull/58178))
 * Remove Methanol byproduct from Moonshine ([#58149](https://github.com/CleverRaven/Cataclysm-DDA/pull/58149))
-* Fill in mx_crater with dirt if we're at z=0 ([#58063](https://github.com/CleverRaven/Cataclysm-DDA/pull/58063))
 
 ---
 
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2022-06-05-1345 ([82afe21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-05-1345))
 
 * Make Reptilian Healing not be a downgrade ([#58148](https://github.com/CleverRaven/Cataclysm-DDA/pull/58148))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-04-2129 ([5f229e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-04-2129))
-
 * Power Armor ICE Generator ([#58134](https://github.com/CleverRaven/Cataclysm-DDA/pull/58134))
 * Remove vague "Unknown" strings from UI with Inattentive trait ([#58102](https://github.com/CleverRaven/Cataclysm-DDA/pull/58102))
 * Prevent Isherwood Farm from spawning on lake tiles ([#58133](https://github.com/CleverRaven/Cataclysm-DDA/pull/58133))
@@ -218,4 +219,3 @@
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
 * Explicitly define a mission arrow for ASCIITiles tileset ([#58066](https://github.com/CleverRaven/Cataclysm-DDA/pull/58066))
 * Reset steadiness after most actions ([#58073](https://github.com/CleverRaven/Cataclysm-DDA/pull/58073))
-* Subject suit is soft ([#58064](https://github.com/CleverRaven/Cataclysm-DDA/pull/58064))
