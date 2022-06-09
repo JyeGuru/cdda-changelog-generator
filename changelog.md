@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-09-1441 ([0881332](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-1441))
+
+* Rename vehicle::__part_removal_actual() ([#58293](https://github.com/CleverRaven/Cataclysm-DDA/pull/58293))
 * Fix compile errors on macOS ([#58292](https://github.com/CleverRaven/Cataclysm-DDA/pull/58292))
 
 ---
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2022-06-04-0712 ([ac85e55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-04-0712))
 
 * Routine i18n updates on 04 June 2022 ([#58135](https://github.com/CleverRaven/Cataclysm-DDA/pull/58135))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-04-0526 ([98ec1bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-04-0526))
-
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
 * Make Dinomod work with NoMonsters ([#58101](https://github.com/CleverRaven/Cataclysm-DDA/pull/58101))
 * Restore the holy balance of cucumber sandwiches ([#58121](https://github.com/CleverRaven/Cataclysm-DDA/pull/58121))
@@ -215,6 +216,5 @@
 * Research facility - fix perfect condition vehicles ([#58058](https://github.com/CleverRaven/Cataclysm-DDA/pull/58058))
 * Correct a border height for world creation ([#58062](https://github.com/CleverRaven/Cataclysm-DDA/pull/58062))
 * Aftershock: Minor bugfixing ([#58042](https://github.com/CleverRaven/Cataclysm-DDA/pull/58042))
-* Fix mispriced fifty-cent coin ([#58031](https://github.com/CleverRaven/Cataclysm-DDA/pull/58031))
 * remove sew_advanced from the tailor kits ([#58035](https://github.com/CleverRaven/Cataclysm-DDA/pull/58035))
 * Update sabatons. ([#58038](https://github.com/CleverRaven/Cataclysm-DDA/pull/58038))
