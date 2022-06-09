@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-09-2157 ([e08f026](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-2157))
+
 * [DinoMod] issi ([#58211](https://github.com/CleverRaven/Cataclysm-DDA/pull/58211))
 * Mechs give smaller batteries when disassembled ([#58228](https://github.com/CleverRaven/Cataclysm-DDA/pull/58228))
 * Ensure strict weak ordering in scored_address::operator>() ([#58248](https://github.com/CleverRaven/Cataclysm-DDA/pull/58248))
@@ -190,11 +195,6 @@
 * Power Armor ICE Generator ([#58134](https://github.com/CleverRaven/Cataclysm-DDA/pull/58134))
 * Remove vague "Unknown" strings from UI with Inattentive trait ([#58102](https://github.com/CleverRaven/Cataclysm-DDA/pull/58102))
 * Prevent Isherwood Farm from spawning on lake tiles ([#58133](https://github.com/CleverRaven/Cataclysm-DDA/pull/58133))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-04-2007 ([75c1a61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-04-2007))
-
 * crafting: fix initialization of disassembly act ([#58144](https://github.com/CleverRaven/Cataclysm-DDA/pull/58144))
 * Routine i18n updates on 04 June 2022 ([#58135](https://github.com/CleverRaven/Cataclysm-DDA/pull/58135))
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
