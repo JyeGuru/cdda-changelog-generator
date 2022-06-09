@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-09-0904 (e0f2fa5)
+* Update kevlar to Kevlar (#58291)
+
 Cataclysm-DDA experimental build 2022-06-08-1950 (2ec0e5e)
 * Add slime, bird samples to the sample loot-table (#58270)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2022-06-04-0712 (ac85e55)
 
 Cataclysm-DDA experimental build 2022-06-04-0526 (98ec1bd)
 * fix broken notes spawn Isolated Artisans (#58138)
-
-Cataclysm-DDA experimental build 2022-06-03-2253 (80a0da6)
 * Make Dinomod work with NoMonsters (#58101)
 * Restore the holy balance of cucumber sandwiches (#58121)
 * Add ability to fill in recess and murky water tiles (#58126)
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2022-06-03-2253 (80a0da6)
 * fix compilation errors in condition.cpp (#58082)
 * [MMA] Fix Attack vector typo (#58079)
 * Added a dozen new hints for the main menu (#58056)
-* Rework fire axe ferals into something more dangerous. (#58028)
 * Explicitly define a mission arrow for ASCIITiles tileset (#58066)
 * Standardize damage to armor when blocking (#58046)
 * Reset steadiness after most actions (#58073)

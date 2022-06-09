@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-09-0904 ([e0f2fa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-0904))
+
+* Update kevlar to Kevlar ([#58291](https://github.com/CleverRaven/Cataclysm-DDA/pull/58291))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-08-1950 ([2ec0e5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-1950))
 
 * Add slime, bird samples to the sample loot-table ([#58270](https://github.com/CleverRaven/Cataclysm-DDA/pull/58270))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-06-04-0526 ([98ec1bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-04-0526))
 
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-03-2253 ([80a0da6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-03-2253))
-
 * Make Dinomod work with NoMonsters ([#58101](https://github.com/CleverRaven/Cataclysm-DDA/pull/58101))
 * Restore the holy balance of cucumber sandwiches ([#58121](https://github.com/CleverRaven/Cataclysm-DDA/pull/58121))
 * Add ability to fill in recess and murky water tiles ([#58126](https://github.com/CleverRaven/Cataclysm-DDA/pull/58126))
@@ -200,7 +201,6 @@
 * fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
 * Added a dozen new hints for the main menu ([#58056](https://github.com/CleverRaven/Cataclysm-DDA/pull/58056))
-* Rework fire axe ferals into something more dangerous. ([#58028](https://github.com/CleverRaven/Cataclysm-DDA/pull/58028))
 * Explicitly define a mission arrow for ASCIITiles tileset ([#58066](https://github.com/CleverRaven/Cataclysm-DDA/pull/58066))
 * Standardize damage to armor when blocking ([#58046](https://github.com/CleverRaven/Cataclysm-DDA/pull/58046))
 * Reset steadiness after most actions ([#58073](https://github.com/CleverRaven/Cataclysm-DDA/pull/58073))
