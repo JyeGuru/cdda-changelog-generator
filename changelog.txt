@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-09-1125 (f689b47)
+* Lab soldier/security lockers contain pristine ballstic plates (#58294)
+
 Cataclysm-DDA experimental build 2022-06-09-0904 (e0f2fa5)
 * Update kevlar to Kevlar (#58291)
 
@@ -118,7 +121,6 @@ Cataclysm-DDA experimental build 2022-06-04-0526 (98ec1bd)
 * Shorten shillelagh weapons to fit in belt loop (#58041)
 * Reduce time to take down most simple appliances (#58096)
 * Added baking soda to rehydration drink recipe (#58084)
-* Added external option with setting frequency of displaying music descriptions in sidebar (#58029)
 * Fix loading itype::weight_capacity_modifier (#58091)
 * Remove doc and src melee_cut (#58077)
 * Clarify stat scaling in GAME_BALANCE.md (#58089)
