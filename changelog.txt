@@ -68,6 +68,8 @@ Cataclysm-DDA experimental build 2022-06-07-1738 (68afa17)
 
 Cataclysm-DDA experimental build 2022-06-07-1633 (df202fe)
 * Fix biotek attunement (#58243)
+
+Cataclysm-DDA experimental build 2022-06-07-1519 (4d34ea0)
 * Fix problematic list element removal in firstaid_activity_actor::finish() (#58233)
 * Define RELEASE in msvc Release configurations. (#58237)
 
@@ -112,15 +114,11 @@ Cataclysm-DDA experimental build 2022-06-06-0719 (612cf18)
 * Avoid reserved identifiers (#58200)
 * Enable clang-tidy bugprone-sizeof-expression (#58199)
 * Fix MOTD/Credits scrolling bug (#58140)
-
-Cataclysm-DDA experimental build 2022-06-06-0146 (e618b6f)
 * inv_col: preserve denial for aggregated entries (#58179)
 * Assert that sprite dimensions are positive (#58184)
 * Prevent the sort armor screen from moving clothing on naked characters (#58192)
 * Add new labels for Desert Region and Xedra Evolved (#58193)
 * Routine Tileset updates on 05 June 2022 (#58194)
-
-Cataclysm-DDA experimental build 2022-06-05-1345 (82afe21)
 * Make Reptilian Healing not be a downgrade (#58148)
 * Power Armor ICE Generator (#58134)
 * Remove vague "Unknown" strings from UI with Inattentive trait (#58102)

@@ -122,6 +122,11 @@
 #### Cataclysm-DDA experimental build 2022-06-07-1633 ([df202fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-1633))
 
 * Fix biotek attunement ([#58243](https://github.com/CleverRaven/Cataclysm-DDA/pull/58243))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-07-1519 ([4d34ea0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-1519))
+
 * Fix problematic list element removal in firstaid_activity_actor::finish() ([#58233](https://github.com/CleverRaven/Cataclysm-DDA/pull/58233))
 * Define RELEASE in msvc Release configurations. ([#58237](https://github.com/CleverRaven/Cataclysm-DDA/pull/58237))
 
@@ -187,21 +192,11 @@
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
 * Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
 * Fix MOTD/Credits scrolling bug ([#58140](https://github.com/CleverRaven/Cataclysm-DDA/pull/58140))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-06-0146 ([e618b6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0146))
-
 * inv_col: preserve denial for aggregated entries ([#58179](https://github.com/CleverRaven/Cataclysm-DDA/pull/58179))
 * Assert that sprite dimensions are positive ([#58184](https://github.com/CleverRaven/Cataclysm-DDA/pull/58184))
 * Prevent the sort armor screen from moving clothing on naked characters ([#58192](https://github.com/CleverRaven/Cataclysm-DDA/pull/58192))
 * Add new labels for Desert Region and Xedra Evolved ([#58193](https://github.com/CleverRaven/Cataclysm-DDA/pull/58193))
 * Routine Tileset updates on 05 June 2022 ([#58194](https://github.com/CleverRaven/Cataclysm-DDA/pull/58194))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-05-1345 ([82afe21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-05-1345))
-
 * Make Reptilian Healing not be a downgrade ([#58148](https://github.com/CleverRaven/Cataclysm-DDA/pull/58148))
 * Power Armor ICE Generator ([#58134](https://github.com/CleverRaven/Cataclysm-DDA/pull/58134))
 * Remove vague "Unknown" strings from UI with Inattentive trait ([#58102](https://github.com/CleverRaven/Cataclysm-DDA/pull/58102))
