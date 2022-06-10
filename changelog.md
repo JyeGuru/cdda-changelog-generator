@@ -1,3 +1,9 @@
+* Main menu overhaul (Part 1.5): mouse control fixes & improvements ([#58142](https://github.com/CleverRaven/Cataclysm-DDA/pull/58142))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-10-0533 ([84e6579](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0533))
+
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
 * [CR] Catalytic Cracking ([#58234](https://github.com/CleverRaven/Cataclysm-DDA/pull/58234))
 
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-06-06-0417 ([293c808](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0417))
 
 * Fix MOTD/Credits scrolling bug ([#58140](https://github.com/CleverRaven/Cataclysm-DDA/pull/58140))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-06-0146 ([e618b6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0146))
-
 * inv_col: preserve denial for aggregated entries ([#58179](https://github.com/CleverRaven/Cataclysm-DDA/pull/58179))
 * Assert that sprite dimensions are positive ([#58184](https://github.com/CleverRaven/Cataclysm-DDA/pull/58184))
 * Prevent the sort armor screen from moving clothing on naked characters ([#58192](https://github.com/CleverRaven/Cataclysm-DDA/pull/58192))
@@ -217,6 +218,5 @@
 * Fix loading itype::weight_capacity_modifier ([#58091](https://github.com/CleverRaven/Cataclysm-DDA/pull/58091))
 * Remove doc and src melee_cut ([#58077](https://github.com/CleverRaven/Cataclysm-DDA/pull/58077))
 * Clarify stat scaling in GAME_BALANCE.md ([#58089](https://github.com/CleverRaven/Cataclysm-DDA/pull/58089))
-* Adds stamina info to item melee description. ([#58075](https://github.com/CleverRaven/Cataclysm-DDA/pull/58075))
 * fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
