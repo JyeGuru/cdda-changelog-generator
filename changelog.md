@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-10-0652 ([1e56d2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0652))
+
 * Main menu overhaul (Part 1.5): mouse control fixes & improvements ([#58142](https://github.com/CleverRaven/Cataclysm-DDA/pull/58142))
 
 ---
@@ -185,11 +190,6 @@
 
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
 * Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-06-0417 ([293c808](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0417))
-
 * Fix MOTD/Credits scrolling bug ([#58140](https://github.com/CleverRaven/Cataclysm-DDA/pull/58140))
 * inv_col: preserve denial for aggregated entries ([#58179](https://github.com/CleverRaven/Cataclysm-DDA/pull/58179))
 * Assert that sprite dimensions are positive ([#58184](https://github.com/CleverRaven/Cataclysm-DDA/pull/58184))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-10-0652 (1e56d2a)
 * Main menu overhaul (Part 1.5): mouse control fixes & improvements (#58142)
 
 Cataclysm-DDA experimental build 2022-06-10-0533 (84e6579)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2022-06-06-0719 (612cf18)
 Cataclysm-DDA experimental build 2022-06-06-0604 (14a6293)
 * Avoid reserved identifiers (#58200)
 * Enable clang-tidy bugprone-sizeof-expression (#58199)
-
-Cataclysm-DDA experimental build 2022-06-06-0417 (293c808)
 * Fix MOTD/Credits scrolling bug (#58140)
 * inv_col: preserve denial for aggregated entries (#58179)
 * Assert that sprite dimensions are positive (#58184)
