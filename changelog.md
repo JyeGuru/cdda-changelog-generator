@@ -1,3 +1,11 @@
+* Can build validate terrain check ([#58269](https://github.com/CleverRaven/Cataclysm-DDA/pull/58269))
+* Deployed reinforced cardboard box looks like deployed large cardboard box ([#58277](https://github.com/CleverRaven/Cataclysm-DDA/pull/58277))
+* Restore display of range of nutrition in crafting screen ([#58278](https://github.com/CleverRaven/Cataclysm-DDA/pull/58278))
+* Add accessibility services warning to Android pre-launch menu ([#58297](https://github.com/CleverRaven/Cataclysm-DDA/pull/58297))
+* Custom sidebar - Allow layout widgets to specify a minimum width ([#58308](https://github.com/CleverRaven/Cataclysm-DDA/pull/58308))
+* added obsolete items flag ([#58316](https://github.com/CleverRaven/Cataclysm-DDA/pull/58316))
+* Fix Lynx Fur mutation ordering ([#58322](https://github.com/CleverRaven/Cataclysm-DDA/pull/58322))
+* Correct container quantities in crafting recipe information ([#58330](https://github.com/CleverRaven/Cataclysm-DDA/pull/58330))
 
 ---
 
@@ -109,7 +117,6 @@
 * Makes Exodii mag rigid ([#58251](https://github.com/CleverRaven/Cataclysm-DDA/pull/58251))
 * Deduplicate files in repeat_clang_tidy.sh ([#58262](https://github.com/CleverRaven/Cataclysm-DDA/pull/58262))
 * Npc weapon reload without crashing ([#58240](https://github.com/CleverRaven/Cataclysm-DDA/pull/58240))
-* [CR] 2 Additional Trucks ([#58099](https://github.com/CleverRaven/Cataclysm-DDA/pull/58099))
 
 ---
 
@@ -211,12 +218,5 @@
 * fix: mark string for translation ([#58105](https://github.com/CleverRaven/Cataclysm-DDA/pull/58105))
 * item: migrate disassembly batch size from charges ([#58114](https://github.com/CleverRaven/Cataclysm-DDA/pull/58114))
 * npctrade: fix int impact on prices ([#58119](https://github.com/CleverRaven/Cataclysm-DDA/pull/58119))
-* Fix diary entry approximate time display ([#58088](https://github.com/CleverRaven/Cataclysm-DDA/pull/58088))
 * Butane spawns no longer all or nothing ([#58122](https://github.com/CleverRaven/Cataclysm-DDA/pull/58122))
-* Update how rot is inherited when crafting ([#58097](https://github.com/CleverRaven/Cataclysm-DDA/pull/58097))
 * Allow mutants with paws to wear bracelets ([#58109](https://github.com/CleverRaven/Cataclysm-DDA/pull/58109))
-* Reduce time to take down most simple appliances ([#58096](https://github.com/CleverRaven/Cataclysm-DDA/pull/58096))
-* Added baking soda to rehydration drink recipe ([#58084](https://github.com/CleverRaven/Cataclysm-DDA/pull/58084))
-* Fix loading itype::weight_capacity_modifier ([#58091](https://github.com/CleverRaven/Cataclysm-DDA/pull/58091))
-* Clarify stat scaling in GAME_BALANCE.md ([#58089](https://github.com/CleverRaven/Cataclysm-DDA/pull/58089))
-* fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
