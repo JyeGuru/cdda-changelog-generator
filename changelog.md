@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-10-1720 ([f7484c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-1720))
+
+* Fix erroneous check in veh_type ([#58208](https://github.com/CleverRaven/Cataclysm-DDA/pull/58208))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-10-0828 ([07ed0a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0828))
 
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
@@ -179,11 +185,6 @@
 * labeler: don't apply Mods label for TEST_DATA changes ([#58170](https://github.com/CleverRaven/Cataclysm-DDA/pull/58170))
 * fix negative weight remaining in quiver ([#58147](https://github.com/CleverRaven/Cataclysm-DDA/pull/58147))
 * Add missing translation for a single string. ([#58153](https://github.com/CleverRaven/Cataclysm-DDA/pull/58153))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-06-0719 ([612cf18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0719))
-
 * Add cast-iron dutch oven to various itemgroups ([#58160](https://github.com/CleverRaven/Cataclysm-DDA/pull/58160))
 * Consolidate starting missions ([#58166](https://github.com/CleverRaven/Cataclysm-DDA/pull/58166))
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
@@ -219,4 +220,3 @@
 * Fix loading itype::weight_capacity_modifier ([#58091](https://github.com/CleverRaven/Cataclysm-DDA/pull/58091))
 * Clarify stat scaling in GAME_BALANCE.md ([#58089](https://github.com/CleverRaven/Cataclysm-DDA/pull/58089))
 * fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
-* [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
