@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-10-0828 ([07ed0a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0828))
+
+* Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-10-0652 ([1e56d2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0652))
 
 * Main menu overhaul (Part 1.5): mouse control fixes & improvements ([#58142](https://github.com/CleverRaven/Cataclysm-DDA/pull/58142))
@@ -183,11 +189,6 @@
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
 * fix: remove starting "&"s in npc dialogue ([#58178](https://github.com/CleverRaven/Cataclysm-DDA/pull/58178))
 * Remove Methanol byproduct from Moonshine ([#58149](https://github.com/CleverRaven/Cataclysm-DDA/pull/58149))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-06-0604 ([14a6293](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-0604))
-
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
 * Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
 * Fix MOTD/Credits scrolling bug ([#58140](https://github.com/CleverRaven/Cataclysm-DDA/pull/58140))
@@ -216,7 +217,6 @@
 * Reduce time to take down most simple appliances ([#58096](https://github.com/CleverRaven/Cataclysm-DDA/pull/58096))
 * Added baking soda to rehydration drink recipe ([#58084](https://github.com/CleverRaven/Cataclysm-DDA/pull/58084))
 * Fix loading itype::weight_capacity_modifier ([#58091](https://github.com/CleverRaven/Cataclysm-DDA/pull/58091))
-* Remove doc and src melee_cut ([#58077](https://github.com/CleverRaven/Cataclysm-DDA/pull/58077))
 * Clarify stat scaling in GAME_BALANCE.md ([#58089](https://github.com/CleverRaven/Cataclysm-DDA/pull/58089))
 * fix compilation errors in condition.cpp ([#58082](https://github.com/CleverRaven/Cataclysm-DDA/pull/58082))
 * [MMA] Fix Attack vector typo ([#58079](https://github.com/CleverRaven/Cataclysm-DDA/pull/58079))
