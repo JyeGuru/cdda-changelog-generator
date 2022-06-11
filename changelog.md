@@ -1,4 +1,11 @@
-* Pocket Organize Menu ([#58116](https://github.com/CleverRaven/Cataclysm-DDA/pull/58116))
+* Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
+* Add spawns to magic halloween items ([#58168](https://github.com/CleverRaven/Cataclysm-DDA/pull/58168))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-11-0156 ([c56004c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-11-0156))
+
+* Ablative armor can cover more than base armor ([#58331](https://github.com/CleverRaven/Cataclysm-DDA/pull/58331))
 * Revive LGTM C++ analysis ([#58246](https://github.com/CleverRaven/Cataclysm-DDA/pull/58246))
 * [MMA] Weapon Categories: Exemplar Weapons ([#58261](https://github.com/CleverRaven/Cataclysm-DDA/pull/58261))
 * swappable shoulder strap to front ([#58311](https://github.com/CleverRaven/Cataclysm-DDA/pull/58311))
@@ -170,12 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-06-07-0205 ([a758fa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0205))
 
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-06-2119 ([dbe28af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-2119))
-
-* npc/randenc: robustify random encounter EOCs ([#58112](https://github.com/CleverRaven/Cataclysm-DDA/pull/58112))
 * Add vertical mouse scrolling to achievement UI window ([#58127](https://github.com/CleverRaven/Cataclysm-DDA/pull/58127))
 * Kerosene rename ([#58201](https://github.com/CleverRaven/Cataclysm-DDA/pull/58201))
 * Insert GCC unreachability intrinsic in false branch of cata_assert when NDEBUG is enabled ([#58210](https://github.com/CleverRaven/Cataclysm-DDA/pull/58210))
@@ -212,6 +213,5 @@
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
 * Restore the holy balance of cucumber sandwiches ([#58121](https://github.com/CleverRaven/Cataclysm-DDA/pull/58121))
 * Add ability to fill in recess and murky water tiles ([#58126](https://github.com/CleverRaven/Cataclysm-DDA/pull/58126))
-* item: migrate disassembly batch size from charges ([#58114](https://github.com/CleverRaven/Cataclysm-DDA/pull/58114))
 * npctrade: fix int impact on prices ([#58119](https://github.com/CleverRaven/Cataclysm-DDA/pull/58119))
 * Butane spawns no longer all or nothing ([#58122](https://github.com/CleverRaven/Cataclysm-DDA/pull/58122))
