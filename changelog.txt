@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-06-11-0641 (74ad8be)
+* Routine i18n updates on 11 June 2022 (#58343)
 * Fix non-compiling test (#58326)
 
 Cataclysm-DDA experimental build 2022-06-11-0326 (fe7e4ac)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2022-06-07-1053 (0e2b561)
 
 Cataclysm-DDA experimental build 2022-06-07-0507 (7ffd17f)
 * Add NO_AUTO_CONSUME to a bunch of stuff (#58227)
-
-Cataclysm-DDA experimental build 2022-06-07-0322 (7e8b40a)
 * Add mouse up and down scrolling to message log window (P by default) (#58124)
 * [Innawood] minor updates (#58213)
 * Add vertical mouse scrolling to achievement UI window (#58127)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2022-06-07-0322 (7e8b40a)
 * fix broken notes spawn Isolated Artisans (#58138)
 * Restore the holy balance of cucumber sandwiches (#58121)
 * Add ability to fill in recess and murky water tiles (#58126)
-* npctrade: fix int impact on prices (#58119)
 * Butane spawns no longer all or nothing (#58122)

@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-11-0641 ([74ad8be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-11-0641))
+
+* Routine i18n updates on 11 June 2022 ([#58343](https://github.com/CleverRaven/Cataclysm-DDA/pull/58343))
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
 
 ---
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-06-07-0507 ([7ffd17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0507))
 
 * Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-07-0322 ([7e8b40a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0322))
-
 * Add mouse up and down scrolling to message log window (P by default) ([#58124](https://github.com/CleverRaven/Cataclysm-DDA/pull/58124))
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
 * Add vertical mouse scrolling to achievement UI window ([#58127](https://github.com/CleverRaven/Cataclysm-DDA/pull/58127))
@@ -213,5 +214,4 @@
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
 * Restore the holy balance of cucumber sandwiches ([#58121](https://github.com/CleverRaven/Cataclysm-DDA/pull/58121))
 * Add ability to fill in recess and murky water tiles ([#58126](https://github.com/CleverRaven/Cataclysm-DDA/pull/58126))
-* npctrade: fix int impact on prices ([#58119](https://github.com/CleverRaven/Cataclysm-DDA/pull/58119))
 * Butane spawns no longer all or nothing ([#58122](https://github.com/CleverRaven/Cataclysm-DDA/pull/58122))
