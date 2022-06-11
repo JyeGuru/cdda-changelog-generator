@@ -1,3 +1,7 @@
+* Pocket Organize Menu ([#58116](https://github.com/CleverRaven/Cataclysm-DDA/pull/58116))
+* Revive LGTM C++ analysis ([#58246](https://github.com/CleverRaven/Cataclysm-DDA/pull/58246))
+* [MMA] Weapon Categories: Exemplar Weapons ([#58261](https://github.com/CleverRaven/Cataclysm-DDA/pull/58261))
+* swappable shoulder strap to front ([#58311](https://github.com/CleverRaven/Cataclysm-DDA/pull/58311))
 * Can build validate terrain check ([#58269](https://github.com/CleverRaven/Cataclysm-DDA/pull/58269))
 * Deployed reinforced cardboard box looks like deployed large cardboard box ([#58277](https://github.com/CleverRaven/Cataclysm-DDA/pull/58277))
 * Restore display of range of nutrition in crafting screen ([#58278](https://github.com/CleverRaven/Cataclysm-DDA/pull/58278))
@@ -180,11 +184,6 @@
 * Regional Terrain Update 4 ([#58189](https://github.com/CleverRaven/Cataclysm-DDA/pull/58189))
 * Regional Terrain Update 3 ([#58188](https://github.com/CleverRaven/Cataclysm-DDA/pull/58188))
 * Regional Terrain Update 2 ([#58187](https://github.com/CleverRaven/Cataclysm-DDA/pull/58187))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-06-2018 ([90e1eb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-06-2018))
-
 * Regional Terrain Update 1 ([#58186](https://github.com/CleverRaven/Cataclysm-DDA/pull/58186))
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
 * added OUTER tag to dragon armor suit ([#58177](https://github.com/CleverRaven/Cataclysm-DDA/pull/58177))
@@ -207,16 +206,12 @@
 * Routine Tileset updates on 05 June 2022 ([#58194](https://github.com/CleverRaven/Cataclysm-DDA/pull/58194))
 * Make Reptilian Healing not be a downgrade ([#58148](https://github.com/CleverRaven/Cataclysm-DDA/pull/58148))
 * Power Armor ICE Generator ([#58134](https://github.com/CleverRaven/Cataclysm-DDA/pull/58134))
-* Remove vague "Unknown" strings from UI with Inattentive trait ([#58102](https://github.com/CleverRaven/Cataclysm-DDA/pull/58102))
 * Prevent Isherwood Farm from spawning on lake tiles ([#58133](https://github.com/CleverRaven/Cataclysm-DDA/pull/58133))
 * crafting: fix initialization of disassembly act ([#58144](https://github.com/CleverRaven/Cataclysm-DDA/pull/58144))
 * Routine i18n updates on 04 June 2022 ([#58135](https://github.com/CleverRaven/Cataclysm-DDA/pull/58135))
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
-* Make Dinomod work with NoMonsters ([#58101](https://github.com/CleverRaven/Cataclysm-DDA/pull/58101))
 * Restore the holy balance of cucumber sandwiches ([#58121](https://github.com/CleverRaven/Cataclysm-DDA/pull/58121))
 * Add ability to fill in recess and murky water tiles ([#58126](https://github.com/CleverRaven/Cataclysm-DDA/pull/58126))
-* fix: mark string for translation ([#58105](https://github.com/CleverRaven/Cataclysm-DDA/pull/58105))
 * item: migrate disassembly batch size from charges ([#58114](https://github.com/CleverRaven/Cataclysm-DDA/pull/58114))
 * npctrade: fix int impact on prices ([#58119](https://github.com/CleverRaven/Cataclysm-DDA/pull/58119))
 * Butane spawns no longer all or nothing ([#58122](https://github.com/CleverRaven/Cataclysm-DDA/pull/58122))
-* Allow mutants with paws to wear bracelets ([#58109](https://github.com/CleverRaven/Cataclysm-DDA/pull/58109))
