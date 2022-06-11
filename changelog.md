@@ -1,4 +1,9 @@
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-11-0326 ([fe7e4ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-11-0326))
+
 * Add spawns to magic halloween items ([#58168](https://github.com/CleverRaven/Cataclysm-DDA/pull/58168))
 
 ---
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-06-07-0322 ([7e8b40a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0322))
 
 * Add mouse up and down scrolling to message log window (P by default) ([#58124](https://github.com/CleverRaven/Cataclysm-DDA/pull/58124))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-07-0205 ([a758fa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0205))
-
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
 * Add vertical mouse scrolling to achievement UI window ([#58127](https://github.com/CleverRaven/Cataclysm-DDA/pull/58127))
 * Kerosene rename ([#58201](https://github.com/CleverRaven/Cataclysm-DDA/pull/58201))
