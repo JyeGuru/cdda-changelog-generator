@@ -1,3 +1,5 @@
+* Fixes mismatched farmhouse roof ([#58333](https://github.com/CleverRaven/Cataclysm-DDA/pull/58333))
+* Drop Classic flag from Ant Hill ([#58346](https://github.com/CleverRaven/Cataclysm-DDA/pull/58346))
 
 ---
 
@@ -170,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-06-07-1053 ([0e2b561](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-1053))
 
 * Add STANAG ranger plates ([#58171](https://github.com/CleverRaven/Cataclysm-DDA/pull/58171))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-07-0507 ([7ffd17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0507))
-
 * Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
 * Add mouse up and down scrolling to message log window (P by default) ([#58124](https://github.com/CleverRaven/Cataclysm-DDA/pull/58124))
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
@@ -212,6 +209,4 @@
 * crafting: fix initialization of disassembly act ([#58144](https://github.com/CleverRaven/Cataclysm-DDA/pull/58144))
 * Routine i18n updates on 04 June 2022 ([#58135](https://github.com/CleverRaven/Cataclysm-DDA/pull/58135))
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
-* Restore the holy balance of cucumber sandwiches ([#58121](https://github.com/CleverRaven/Cataclysm-DDA/pull/58121))
 * Add ability to fill in recess and murky water tiles ([#58126](https://github.com/CleverRaven/Cataclysm-DDA/pull/58126))
-* Butane spawns no longer all or nothing ([#58122](https://github.com/CleverRaven/Cataclysm-DDA/pull/58122))

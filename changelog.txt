@@ -1,3 +1,5 @@
+* Fixes mismatched farmhouse roof (#58333)
+* Drop Classic flag from Ant Hill (#58346)
 
 Cataclysm-DDA experimental build 2022-06-11-0641 (74ad8be)
 * Routine i18n updates on 11 June 2022 (#58343)
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2022-06-07-1519 (4d34ea0)
 
 Cataclysm-DDA experimental build 2022-06-07-1053 (0e2b561)
 * Add STANAG ranger plates (#58171)
-
-Cataclysm-DDA experimental build 2022-06-07-0507 (7ffd17f)
 * Add NO_AUTO_CONSUME to a bunch of stuff (#58227)
 * Add mouse up and down scrolling to message log window (P by default) (#58124)
 * [Innawood] minor updates (#58213)
@@ -137,6 +137,4 @@ Cataclysm-DDA experimental build 2022-06-07-0507 (7ffd17f)
 * crafting: fix initialization of disassembly act (#58144)
 * Routine i18n updates on 04 June 2022 (#58135)
 * fix broken notes spawn Isolated Artisans (#58138)
-* Restore the holy balance of cucumber sandwiches (#58121)
 * Add ability to fill in recess and murky water tiles (#58126)
-* Butane spawns no longer all or nothing (#58122)
