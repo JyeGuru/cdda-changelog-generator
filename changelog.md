@@ -168,11 +168,6 @@
 
 * Fix problematic list element removal in firstaid_activity_actor::finish() ([#58233](https://github.com/CleverRaven/Cataclysm-DDA/pull/58233))
 * Define RELEASE in msvc Release configurations. ([#58237](https://github.com/CleverRaven/Cataclysm-DDA/pull/58237))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-07-1053 ([0e2b561](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-1053))
-
 * Add STANAG ranger plates ([#58171](https://github.com/CleverRaven/Cataclysm-DDA/pull/58171))
 * Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))

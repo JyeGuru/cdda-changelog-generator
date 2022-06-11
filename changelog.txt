@@ -99,8 +99,6 @@ Cataclysm-DDA experimental build 2022-06-07-1633 (df202fe)
 Cataclysm-DDA experimental build 2022-06-07-1519 (4d34ea0)
 * Fix problematic list element removal in firstaid_activity_actor::finish() (#58233)
 * Define RELEASE in msvc Release configurations. (#58237)
-
-Cataclysm-DDA experimental build 2022-06-07-1053 (0e2b561)
 * Add STANAG ranger plates (#58171)
 * Add NO_AUTO_CONSUME to a bunch of stuff (#58227)
 * [Innawood] minor updates (#58213)
