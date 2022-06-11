@@ -58,12 +58,8 @@ Cataclysm-DDA experimental build 2022-06-09-2157 (e08f026)
 
 Cataclysm-DDA experimental build 2022-06-09-2026 (fd3913c)
 * Fixes undamaged bus station buses (#58304)
-
-Cataclysm-DDA experimental build 2022-06-09-1441 (0881332)
 * Rename vehicle::__part_removal_actual() (#58293)
 * Fix compile errors on macOS (#58292)
-
-Cataclysm-DDA experimental build 2022-06-09-1125 (f689b47)
 * Lab soldier/security lockers contain pristine ballstic plates (#58294)
 
 Cataclysm-DDA experimental build 2022-06-09-0904 (e0f2fa5)
@@ -71,8 +67,6 @@ Cataclysm-DDA experimental build 2022-06-09-0904 (e0f2fa5)
 
 Cataclysm-DDA experimental build 2022-06-08-1950 (2ec0e5e)
 * Add slime, bird samples to the sample loot-table (#58270)
-
-Cataclysm-DDA experimental build 2022-06-08-1832 (93cf075)
 * Add batteries to broken anchor (#58272)
 
 Cataclysm-DDA experimental build 2022-06-08-0624 (3fc0f90)
@@ -101,7 +95,11 @@ Cataclysm-DDA experimental build 2022-06-07-1053 (0e2b561)
 
 Cataclysm-DDA experimental build 2022-06-07-0507 (7ffd17f)
 * Add NO_AUTO_CONSUME to a bunch of stuff (#58227)
+
+Cataclysm-DDA experimental build 2022-06-07-0322 (7e8b40a)
 * Add mouse up and down scrolling to message log window (P by default) (#58124)
+
+Cataclysm-DDA experimental build 2022-06-07-0205 (a758fa0)
 * [Innawood] minor updates (#58213)
 * Add vertical mouse scrolling to achievement UI window (#58127)
 * Kerosene rename (#58201)

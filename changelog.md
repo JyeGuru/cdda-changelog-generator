@@ -94,18 +94,8 @@
 #### Cataclysm-DDA experimental build 2022-06-09-2026 ([fd3913c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-2026))
 
 * Fixes undamaged bus station buses ([#58304](https://github.com/CleverRaven/Cataclysm-DDA/pull/58304))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-09-1441 ([0881332](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-1441))
-
 * Rename vehicle::__part_removal_actual() ([#58293](https://github.com/CleverRaven/Cataclysm-DDA/pull/58293))
 * Fix compile errors on macOS ([#58292](https://github.com/CleverRaven/Cataclysm-DDA/pull/58292))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-09-1125 ([f689b47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-1125))
-
 * Lab soldier/security lockers contain pristine ballstic plates ([#58294](https://github.com/CleverRaven/Cataclysm-DDA/pull/58294))
 
 ---
@@ -119,11 +109,6 @@
 #### Cataclysm-DDA experimental build 2022-06-08-1950 ([2ec0e5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-1950))
 
 * Add slime, bird samples to the sample loot-table ([#58270](https://github.com/CleverRaven/Cataclysm-DDA/pull/58270))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-08-1832 ([93cf075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-1832))
-
 * Add batteries to broken anchor ([#58272](https://github.com/CleverRaven/Cataclysm-DDA/pull/58272))
 
 ---
@@ -176,7 +161,17 @@
 #### Cataclysm-DDA experimental build 2022-06-07-0507 ([7ffd17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0507))
 
 * Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-07-0322 ([7e8b40a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0322))
+
 * Add mouse up and down scrolling to message log window (P by default) ([#58124](https://github.com/CleverRaven/Cataclysm-DDA/pull/58124))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-07-0205 ([a758fa0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-0205))
+
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
 * Add vertical mouse scrolling to achievement UI window ([#58127](https://github.com/CleverRaven/Cataclysm-DDA/pull/58127))
 * Kerosene rename ([#58201](https://github.com/CleverRaven/Cataclysm-DDA/pull/58201))
