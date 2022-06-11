@@ -1,3 +1,5 @@
+* Enable clang-tidy check readability-avoid-const-params-in-decls ([#58254](https://github.com/CleverRaven/Cataclysm-DDA/pull/58254))
+* Updated halligan bar weight to match real world specs ([#58321](https://github.com/CleverRaven/Cataclysm-DDA/pull/58321))
 * Fixes mismatched farmhouse roof ([#58333](https://github.com/CleverRaven/Cataclysm-DDA/pull/58333))
 * Drop Classic flag from Ant Hill ([#58346](https://github.com/CleverRaven/Cataclysm-DDA/pull/58346))
 
@@ -173,7 +175,6 @@
 
 * Add STANAG ranger plates ([#58171](https://github.com/CleverRaven/Cataclysm-DDA/pull/58171))
 * Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
-* Add mouse up and down scrolling to message log window (P by default) ([#58124](https://github.com/CleverRaven/Cataclysm-DDA/pull/58124))
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
 * Add vertical mouse scrolling to achievement UI window ([#58127](https://github.com/CleverRaven/Cataclysm-DDA/pull/58127))
 * Kerosene rename ([#58201](https://github.com/CleverRaven/Cataclysm-DDA/pull/58201))
@@ -209,4 +210,3 @@
 * crafting: fix initialization of disassembly act ([#58144](https://github.com/CleverRaven/Cataclysm-DDA/pull/58144))
 * Routine i18n updates on 04 June 2022 ([#58135](https://github.com/CleverRaven/Cataclysm-DDA/pull/58135))
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
-* Add ability to fill in recess and murky water tiles ([#58126](https://github.com/CleverRaven/Cataclysm-DDA/pull/58126))
