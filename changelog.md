@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-12-1440 ([781a1fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-12-1440))
+
 * Fixes melee attack_vector to properly use the weapon ([#58373](https://github.com/CleverRaven/Cataclysm-DDA/pull/58373))
 
 ---
