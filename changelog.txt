@@ -98,8 +98,6 @@ Cataclysm-DDA experimental build 2022-06-08-0147 (0d4107d)
 * Makes Exodii mag rigid (#58251)
 * Deduplicate files in repeat_clang_tidy.sh (#58262)
 * Npc weapon reload without crashing (#58240)
-
-Cataclysm-DDA experimental build 2022-06-08-0036 (75e5575)
 * Improve appliance grid performance with many connections (#58235)
 * Fix biotek attunement (#58243)
 * Fix problematic list element removal in firstaid_activity_actor::finish() (#58233)

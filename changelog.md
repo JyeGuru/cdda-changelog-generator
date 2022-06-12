@@ -164,11 +164,6 @@
 * Makes Exodii mag rigid ([#58251](https://github.com/CleverRaven/Cataclysm-DDA/pull/58251))
 * Deduplicate files in repeat_clang_tidy.sh ([#58262](https://github.com/CleverRaven/Cataclysm-DDA/pull/58262))
 * Npc weapon reload without crashing ([#58240](https://github.com/CleverRaven/Cataclysm-DDA/pull/58240))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-08-0036 ([75e5575](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-0036))
-
 * Improve appliance grid performance with many connections ([#58235](https://github.com/CleverRaven/Cataclysm-DDA/pull/58235))
 * Fix biotek attunement ([#58243](https://github.com/CleverRaven/Cataclysm-DDA/pull/58243))
 * Fix problematic list element removal in firstaid_activity_actor::finish() ([#58233](https://github.com/CleverRaven/Cataclysm-DDA/pull/58233))
