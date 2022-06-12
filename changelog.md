@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-12-0511 ([ab8c2ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-12-0511))
+
+* Fix crash due to zero-charge milling result ([#58348](https://github.com/CleverRaven/Cataclysm-DDA/pull/58348))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-12-0101 ([c15589a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-12-0101))
 
 * Minor rework of shopkeeper_item_group ([#58174](https://github.com/CleverRaven/Cataclysm-DDA/pull/58174))
@@ -193,4 +199,3 @@
 * Routine Tileset updates on 05 June 2022 ([#58194](https://github.com/CleverRaven/Cataclysm-DDA/pull/58194))
 * Make Reptilian Healing not be a downgrade ([#58148](https://github.com/CleverRaven/Cataclysm-DDA/pull/58148))
 * crafting: fix initialization of disassembly act ([#58144](https://github.com/CleverRaven/Cataclysm-DDA/pull/58144))
-* fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
