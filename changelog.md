@@ -1,3 +1,4 @@
+* Fixes melee attack_vector to properly use the weapon ([#58373](https://github.com/CleverRaven/Cataclysm-DDA/pull/58373))
 
 ---
 
@@ -191,7 +192,6 @@
 * Remove Methanol byproduct from Moonshine ([#58149](https://github.com/CleverRaven/Cataclysm-DDA/pull/58149))
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
 * Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
-* Fix MOTD/Credits scrolling bug ([#58140](https://github.com/CleverRaven/Cataclysm-DDA/pull/58140))
 * inv_col: preserve denial for aggregated entries ([#58179](https://github.com/CleverRaven/Cataclysm-DDA/pull/58179))
 * Assert that sprite dimensions are positive ([#58184](https://github.com/CleverRaven/Cataclysm-DDA/pull/58184))
 * Prevent the sort armor screen from moving clothing on naked characters ([#58192](https://github.com/CleverRaven/Cataclysm-DDA/pull/58192))
