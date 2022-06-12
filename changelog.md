@@ -1,3 +1,11 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-12-0101 ([c15589a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-12-0101))
+
+* Minor rework of shopkeeper_item_group ([#58174](https://github.com/CleverRaven/Cataclysm-DDA/pull/58174))
+* Remove extra space ([#58363](https://github.com/CleverRaven/Cataclysm-DDA/pull/58363))
+* Update ko.json ([#58329](https://github.com/CleverRaven/Cataclysm-DDA/pull/58329))
 * Change keybinding names to sentence case ([#58350](https://github.com/CleverRaven/Cataclysm-DDA/pull/58350))
 
 ---
@@ -150,17 +158,6 @@
 #### Cataclysm-DDA experimental build 2022-06-08-0036 ([75e5575](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-0036))
 
 * Improve appliance grid performance with many connections ([#58235](https://github.com/CleverRaven/Cataclysm-DDA/pull/58235))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-07-1738 ([68afa17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-1738))
-
-* Widgets: rows-in-columns support ([#58129](https://github.com/CleverRaven/Cataclysm-DDA/pull/58129))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-07-1633 ([df202fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-07-1633))
-
 * Fix biotek attunement ([#58243](https://github.com/CleverRaven/Cataclysm-DDA/pull/58243))
 * Fix problematic list element removal in firstaid_activity_actor::finish() ([#58233](https://github.com/CleverRaven/Cataclysm-DDA/pull/58233))
 * Define RELEASE in msvc Release configurations. ([#58237](https://github.com/CleverRaven/Cataclysm-DDA/pull/58237))
@@ -195,8 +192,6 @@
 * Add new labels for Desert Region and Xedra Evolved ([#58193](https://github.com/CleverRaven/Cataclysm-DDA/pull/58193))
 * Routine Tileset updates on 05 June 2022 ([#58194](https://github.com/CleverRaven/Cataclysm-DDA/pull/58194))
 * Make Reptilian Healing not be a downgrade ([#58148](https://github.com/CleverRaven/Cataclysm-DDA/pull/58148))
-* Power Armor ICE Generator ([#58134](https://github.com/CleverRaven/Cataclysm-DDA/pull/58134))
-* Prevent Isherwood Farm from spawning on lake tiles ([#58133](https://github.com/CleverRaven/Cataclysm-DDA/pull/58133))
 * crafting: fix initialization of disassembly act ([#58144](https://github.com/CleverRaven/Cataclysm-DDA/pull/58144))
 * Routine i18n updates on 04 June 2022 ([#58135](https://github.com/CleverRaven/Cataclysm-DDA/pull/58135))
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
