@@ -193,5 +193,4 @@
 * Routine Tileset updates on 05 June 2022 ([#58194](https://github.com/CleverRaven/Cataclysm-DDA/pull/58194))
 * Make Reptilian Healing not be a downgrade ([#58148](https://github.com/CleverRaven/Cataclysm-DDA/pull/58148))
 * crafting: fix initialization of disassembly act ([#58144](https://github.com/CleverRaven/Cataclysm-DDA/pull/58144))
-* Routine i18n updates on 04 June 2022 ([#58135](https://github.com/CleverRaven/Cataclysm-DDA/pull/58135))
 * fix broken notes spawn Isolated Artisans ([#58138](https://github.com/CleverRaven/Cataclysm-DDA/pull/58138))
