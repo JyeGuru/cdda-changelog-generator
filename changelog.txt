@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-13-1536 (6dc7309)
+* Fix null dereference in `vehicle_part::info` (#58334)
+
 Cataclysm-DDA experimental build 2022-06-13-1158 (3396a32)
 * Make Water Purifier furniture Easily Deconstructable (#58357)
 
@@ -123,7 +126,6 @@ Cataclysm-DDA experimental build 2022-06-09-0904 (e0f2fa5)
 * Consolidate starting missions (#58166)
 * Fix incorrect kitchen floor (#58205)
 * fix: remove starting "&"s in npc dialogue (#58178)
-* Remove Methanol byproduct from Moonshine (#58149)
 * Avoid reserved identifiers (#58200)
 * Enable clang-tidy bugprone-sizeof-expression (#58199)
 * inv_col: preserve denial for aggregated entries (#58179)
