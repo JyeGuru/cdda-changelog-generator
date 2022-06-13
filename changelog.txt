@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-13-0057 (e188037)
 * Account for batch size in companion crafting byproducts (#58378)
 * Fix AFS nested chunk errors (#58381)
 
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2022-06-08-1832 (93cf075)
 
 Cataclysm-DDA experimental build 2022-06-08-0624 (3fc0f90)
 * docs: removing quotation around dialogue text (#58259)
-
-Cataclysm-DDA experimental build 2022-06-08-0147 (0d4107d)
 * Makes Exodii mag rigid (#58251)
 * Deduplicate files in repeat_clang_tidy.sh (#58262)
 * Npc weapon reload without crashing (#58240)
