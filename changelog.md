@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-13-0621 ([be2fdc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-13-0621))
+
+* Add copper melting recipe ([#58379](https://github.com/CleverRaven/Cataclysm-DDA/pull/58379))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-13-0416 ([0845387](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-13-0416))
 
 * Added the ability to customize label separators for sidebar widgets ([#58355](https://github.com/CleverRaven/Cataclysm-DDA/pull/58355))
@@ -151,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2022-06-08-1950 ([2ec0e5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-1950))
 
 * Add slime, bird samples to the sample loot-table ([#58270](https://github.com/CleverRaven/Cataclysm-DDA/pull/58270))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-08-1832 ([93cf075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-1832))
-
 * Add batteries to broken anchor ([#58272](https://github.com/CleverRaven/Cataclysm-DDA/pull/58272))
 * docs: removing quotation around dialogue text ([#58259](https://github.com/CleverRaven/Cataclysm-DDA/pull/58259))
 * Makes Exodii mag rigid ([#58251](https://github.com/CleverRaven/Cataclysm-DDA/pull/58251))
@@ -179,7 +180,6 @@
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
 * added OUTER tag to dragon armor suit ([#58177](https://github.com/CleverRaven/Cataclysm-DDA/pull/58177))
 * labeler: don't apply Mods label for TEST_DATA changes ([#58170](https://github.com/CleverRaven/Cataclysm-DDA/pull/58170))
-* fix negative weight remaining in quiver ([#58147](https://github.com/CleverRaven/Cataclysm-DDA/pull/58147))
 * Add missing translation for a single string. ([#58153](https://github.com/CleverRaven/Cataclysm-DDA/pull/58153))
 * Add cast-iron dutch oven to various itemgroups ([#58160](https://github.com/CleverRaven/Cataclysm-DDA/pull/58160))
 * Consolidate starting missions ([#58166](https://github.com/CleverRaven/Cataclysm-DDA/pull/58166))
