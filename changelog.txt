@@ -1,3 +1,5 @@
+* Account for batch size in companion crafting byproducts (#58378)
+* Fix AFS nested chunk errors (#58381)
 
 Cataclysm-DDA experimental build 2022-06-12-1440 (781a1fc)
 * Fixes melee attack_vector to properly use the weapon (#58373)
@@ -44,9 +46,6 @@ Cataclysm-DDA experimental build 2022-06-10-1720 (f7484c2)
 
 Cataclysm-DDA experimental build 2022-06-10-0828 (07ed0a7)
 * Remove underscores from name (#58323)
-
-Cataclysm-DDA experimental build 2022-06-10-0652 (1e56d2a)
-* Main menu overhaul (Part 1.5): mouse control fixes & improvements (#58142)
 
 Cataclysm-DDA experimental build 2022-06-10-0533 (84e6579)
 * [DinoMod] horn stab stretch attack (#58319)
@@ -132,4 +131,3 @@ Cataclysm-DDA experimental build 2022-06-08-0147 (0d4107d)
 * Add new labels for Desert Region and Xedra Evolved (#58193)
 * Routine Tileset updates on 05 June 2022 (#58194)
 * Make Reptilian Healing not be a downgrade (#58148)
-* crafting: fix initialization of disassembly act (#58144)

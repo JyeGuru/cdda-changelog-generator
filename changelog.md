@@ -1,3 +1,5 @@
+* Account for batch size in companion crafting byproducts ([#58378](https://github.com/CleverRaven/Cataclysm-DDA/pull/58378))
+* Fix AFS nested chunk errors ([#58381](https://github.com/CleverRaven/Cataclysm-DDA/pull/58381))
 
 ---
 
@@ -71,12 +73,6 @@
 #### Cataclysm-DDA experimental build 2022-06-10-0828 ([07ed0a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0828))
 
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-10-0652 ([1e56d2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0652))
-
-* Main menu overhaul (Part 1.5): mouse control fixes & improvements ([#58142](https://github.com/CleverRaven/Cataclysm-DDA/pull/58142))
 
 ---
 
@@ -198,4 +194,3 @@
 * Add new labels for Desert Region and Xedra Evolved ([#58193](https://github.com/CleverRaven/Cataclysm-DDA/pull/58193))
 * Routine Tileset updates on 05 June 2022 ([#58194](https://github.com/CleverRaven/Cataclysm-DDA/pull/58194))
 * Make Reptilian Healing not be a downgrade ([#58148](https://github.com/CleverRaven/Cataclysm-DDA/pull/58148))
-* crafting: fix initialization of disassembly act ([#58144](https://github.com/CleverRaven/Cataclysm-DDA/pull/58144))
