@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-13-0416 ([0845387](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-13-0416))
+
+* Added the ability to customize label separators for sidebar widgets ([#58355](https://github.com/CleverRaven/Cataclysm-DDA/pull/58355))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-13-0057 ([e188037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-13-0057))
 
 * Account for batch size in companion crafting byproducts ([#58378](https://github.com/CleverRaven/Cataclysm-DDA/pull/58378))
@@ -151,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2022-06-08-1832 ([93cf075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-1832))
 
 * Add batteries to broken anchor ([#58272](https://github.com/CleverRaven/Cataclysm-DDA/pull/58272))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-08-0624 ([3fc0f90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-08-0624))
-
 * docs: removing quotation around dialogue text ([#58259](https://github.com/CleverRaven/Cataclysm-DDA/pull/58259))
 * Makes Exodii mag rigid ([#58251](https://github.com/CleverRaven/Cataclysm-DDA/pull/58251))
 * Deduplicate files in repeat_clang_tidy.sh ([#58262](https://github.com/CleverRaven/Cataclysm-DDA/pull/58262))
@@ -177,7 +178,6 @@
 * Regional Terrain Update 1 ([#58186](https://github.com/CleverRaven/Cataclysm-DDA/pull/58186))
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
 * added OUTER tag to dragon armor suit ([#58177](https://github.com/CleverRaven/Cataclysm-DDA/pull/58177))
-* Add mouse scrolling to all scrollable_text() windows (help, NPC epilogue, faction epilogue, some NPC talk) ([#58145](https://github.com/CleverRaven/Cataclysm-DDA/pull/58145))
 * labeler: don't apply Mods label for TEST_DATA changes ([#58170](https://github.com/CleverRaven/Cataclysm-DDA/pull/58170))
 * fix negative weight remaining in quiver ([#58147](https://github.com/CleverRaven/Cataclysm-DDA/pull/58147))
 * Add missing translation for a single string. ([#58153](https://github.com/CleverRaven/Cataclysm-DDA/pull/58153))

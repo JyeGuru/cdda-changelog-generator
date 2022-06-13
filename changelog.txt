@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-13-0416 (0845387)
+* Added the ability to customize label separators for sidebar widgets (#58355)
+
 Cataclysm-DDA experimental build 2022-06-13-0057 (e188037)
 * Account for batch size in companion crafting byproducts (#58378)
 * Fix AFS nested chunk errors (#58381)
@@ -91,8 +94,6 @@ Cataclysm-DDA experimental build 2022-06-08-1950 (2ec0e5e)
 
 Cataclysm-DDA experimental build 2022-06-08-1832 (93cf075)
 * Add batteries to broken anchor (#58272)
-
-Cataclysm-DDA experimental build 2022-06-08-0624 (3fc0f90)
 * docs: removing quotation around dialogue text (#58259)
 * Makes Exodii mag rigid (#58251)
 * Deduplicate files in repeat_clang_tidy.sh (#58262)
@@ -114,7 +115,6 @@ Cataclysm-DDA experimental build 2022-06-08-0624 (3fc0f90)
 * Regional Terrain Update 1 (#58186)
 * Fix compile error in Object Creator (#58207)
 * added OUTER tag to dragon armor suit (#58177)
-* Add mouse scrolling to all scrollable_text() windows (help, NPC epilogue, faction epilogue, some NPC talk) (#58145)
 * labeler: don't apply Mods label for TEST_DATA changes (#58170)
 * fix negative weight remaining in quiver (#58147)
 * Add missing translation for a single string. (#58153)
