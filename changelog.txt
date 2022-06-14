@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-14-0600 (9a1002b)
+* Remove WATER_PROOF and HOOD flags from dress uniform (#58403)
+
 Cataclysm-DDA experimental build 2022-06-13-1536 (6dc7309)
 * Fix null dereference in `vehicle_part::info` (#58334)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2022-06-09-1441 (0881332)
 
 Cataclysm-DDA experimental build 2022-06-09-1125 (f689b47)
 * Lab soldier/security lockers contain pristine ballstic plates (#58294)
-
-Cataclysm-DDA experimental build 2022-06-09-0904 (e0f2fa5)
 * Update kevlar to Kevlar (#58291)
 * Add slime, bird samples to the sample loot-table (#58270)
 * Add batteries to broken anchor (#58272)

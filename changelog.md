@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-14-0600 ([9a1002b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-0600))
+
+* Remove WATER_PROOF and HOOD flags from dress uniform ([#58403](https://github.com/CleverRaven/Cataclysm-DDA/pull/58403))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-13-1536 ([6dc7309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-13-1536))
 
 * Fix null dereference in `vehicle_part::info` ([#58334](https://github.com/CleverRaven/Cataclysm-DDA/pull/58334))
@@ -157,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-06-09-1125 ([f689b47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-1125))
 
 * Lab soldier/security lockers contain pristine ballstic plates ([#58294](https://github.com/CleverRaven/Cataclysm-DDA/pull/58294))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-09-0904 ([e0f2fa5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-0904))
-
 * Update kevlar to Kevlar ([#58291](https://github.com/CleverRaven/Cataclysm-DDA/pull/58291))
 * Add slime, bird samples to the sample loot-table ([#58270](https://github.com/CleverRaven/Cataclysm-DDA/pull/58270))
 * Add batteries to broken anchor ([#58272](https://github.com/CleverRaven/Cataclysm-DDA/pull/58272))
