@@ -1,3 +1,6 @@
+* Mapgen readability improvements ([#58339](https://github.com/CleverRaven/Cataclysm-DDA/pull/58339))
+* Construction Site Overhaul ([#58283](https://github.com/CleverRaven/Cataclysm-DDA/pull/58283))
+* Extended toolset missing cut 2 ([#58396](https://github.com/CleverRaven/Cataclysm-DDA/pull/58396))
 
 ---
 
@@ -85,12 +88,6 @@
 
 * Routine i18n updates on 11 June 2022 ([#58343](https://github.com/CleverRaven/Cataclysm-DDA/pull/58343))
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-11-0326 ([fe7e4ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-11-0326))
-
-* Add spawns to magic halloween items ([#58168](https://github.com/CleverRaven/Cataclysm-DDA/pull/58168))
 
 ---
 
@@ -190,7 +187,6 @@
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
 * added OUTER tag to dragon armor suit ([#58177](https://github.com/CleverRaven/Cataclysm-DDA/pull/58177))
 * labeler: don't apply Mods label for TEST_DATA changes ([#58170](https://github.com/CleverRaven/Cataclysm-DDA/pull/58170))
-* Consolidate starting missions ([#58166](https://github.com/CleverRaven/Cataclysm-DDA/pull/58166))
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
 * fix: remove starting "&"s in npc dialogue ([#58178](https://github.com/CleverRaven/Cataclysm-DDA/pull/58178))
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
