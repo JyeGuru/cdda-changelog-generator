@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-14-1709 (59a02e8)
+* Padded military flight helmet (#58393)
+
 Cataclysm-DDA experimental build 2022-06-14-0600 (9a1002b)
 * Remove WATER_PROOF and HOOD flags from dress uniform (#58403)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2022-06-09-2026 (fd3913c)
 Cataclysm-DDA experimental build 2022-06-09-1441 (0881332)
 * Rename vehicle::__part_removal_actual() (#58293)
 * Fix compile errors on macOS (#58292)
-
-Cataclysm-DDA experimental build 2022-06-09-1125 (f689b47)
 * Lab soldier/security lockers contain pristine ballstic plates (#58294)
 * Update kevlar to Kevlar (#58291)
 * Add slime, bird samples to the sample loot-table (#58270)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2022-06-09-1125 (f689b47)
 * Fix compile error in Object Creator (#58207)
 * added OUTER tag to dragon armor suit (#58177)
 * labeler: don't apply Mods label for TEST_DATA changes (#58170)
-* Add missing translation for a single string. (#58153)
 * Add cast-iron dutch oven to various itemgroups (#58160)
 * Consolidate starting missions (#58166)
 * Fix incorrect kitchen floor (#58205)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-14-1709 ([59a02e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-1709))
+
+* Padded military flight helmet ([#58393](https://github.com/CleverRaven/Cataclysm-DDA/pull/58393))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-14-0600 ([9a1002b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-0600))
 
 * Remove WATER_PROOF and HOOD flags from dress uniform ([#58403](https://github.com/CleverRaven/Cataclysm-DDA/pull/58403))
@@ -157,11 +163,6 @@
 
 * Rename vehicle::__part_removal_actual() ([#58293](https://github.com/CleverRaven/Cataclysm-DDA/pull/58293))
 * Fix compile errors on macOS ([#58292](https://github.com/CleverRaven/Cataclysm-DDA/pull/58292))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-09-1125 ([f689b47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-1125))
-
 * Lab soldier/security lockers contain pristine ballstic plates ([#58294](https://github.com/CleverRaven/Cataclysm-DDA/pull/58294))
 * Update kevlar to Kevlar ([#58291](https://github.com/CleverRaven/Cataclysm-DDA/pull/58291))
 * Add slime, bird samples to the sample loot-table ([#58270](https://github.com/CleverRaven/Cataclysm-DDA/pull/58270))
@@ -188,7 +189,6 @@
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
 * added OUTER tag to dragon armor suit ([#58177](https://github.com/CleverRaven/Cataclysm-DDA/pull/58177))
 * labeler: don't apply Mods label for TEST_DATA changes ([#58170](https://github.com/CleverRaven/Cataclysm-DDA/pull/58170))
-* Add missing translation for a single string. ([#58153](https://github.com/CleverRaven/Cataclysm-DDA/pull/58153))
 * Add cast-iron dutch oven to various itemgroups ([#58160](https://github.com/CleverRaven/Cataclysm-DDA/pull/58160))
 * Consolidate starting missions ([#58166](https://github.com/CleverRaven/Cataclysm-DDA/pull/58166))
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
