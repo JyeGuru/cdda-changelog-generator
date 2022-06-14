@@ -1,4 +1,9 @@
 * Added Vehicle Parts as Appliances ([#58345](https://github.com/CleverRaven/Cataclysm-DDA/pull/58345))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-14-1958 ([091516a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-1958))
+
 * Routine Tileset updates on 12 June 2022 ([#58387](https://github.com/CleverRaven/Cataclysm-DDA/pull/58387))
 * Layers and subparts for armor are now stored as sets ([#58341](https://github.com/CleverRaven/Cataclysm-DDA/pull/58341))
 * Mapgen readability improvements ([#58339](https://github.com/CleverRaven/Cataclysm-DDA/pull/58339))
@@ -150,11 +155,6 @@
 * Prevent making kevlar, nomex, and synthetic fabric from thread only ([#58296](https://github.com/CleverRaven/Cataclysm-DDA/pull/58296))
 * Allow hexagonrecursion to /confirmed bugs ([#58295](https://github.com/CleverRaven/Cataclysm-DDA/pull/58295))
 * Fixes fields at the ends of runways ([#58305](https://github.com/CleverRaven/Cataclysm-DDA/pull/58305))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-09-2026 ([fd3913c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-2026))
-
 * Fixes undamaged bus station buses ([#58304](https://github.com/CleverRaven/Cataclysm-DDA/pull/58304))
 * Rename vehicle::__part_removal_actual() ([#58293](https://github.com/CleverRaven/Cataclysm-DDA/pull/58293))
 * Fix compile errors on macOS ([#58292](https://github.com/CleverRaven/Cataclysm-DDA/pull/58292))
