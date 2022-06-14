@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-14-2114 (6785899)
 * Added Vehicle Parts as Appliances (#58345)
 
 Cataclysm-DDA experimental build 2022-06-14-1958 (091516a)
@@ -81,8 +83,6 @@ Cataclysm-DDA experimental build 2022-06-10-0027 (fc2371d)
 
 Cataclysm-DDA experimental build 2022-06-09-2306 (f31ea55)
 * json/construction: tamp ground for free (#58314)
-
-Cataclysm-DDA experimental build 2022-06-09-2157 (e08f026)
 * [DinoMod] issi (#58211)
 * Mechs give smaller batteries when disassembled (#58228)
 * Ensure strict weak ordering in scored_address::operator>() (#58248)

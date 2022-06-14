@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-14-2114 ([6785899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-2114))
+
 * Added Vehicle Parts as Appliances ([#58345](https://github.com/CleverRaven/Cataclysm-DDA/pull/58345))
 
 ---
@@ -138,11 +143,6 @@
 #### Cataclysm-DDA experimental build 2022-06-09-2306 ([f31ea55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-2306))
 
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-09-2157 ([e08f026](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-2157))
-
 * [DinoMod] issi ([#58211](https://github.com/CleverRaven/Cataclysm-DDA/pull/58211))
 * Mechs give smaller batteries when disassembled ([#58228](https://github.com/CleverRaven/Cataclysm-DDA/pull/58228))
 * Ensure strict weak ordering in scored_address::operator>() ([#58248](https://github.com/CleverRaven/Cataclysm-DDA/pull/58248))
