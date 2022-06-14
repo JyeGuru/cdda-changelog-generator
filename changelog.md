@@ -1,3 +1,4 @@
+* Added Vehicle Parts as Appliances ([#58345](https://github.com/CleverRaven/Cataclysm-DDA/pull/58345))
 * Routine Tileset updates on 12 June 2022 ([#58387](https://github.com/CleverRaven/Cataclysm-DDA/pull/58387))
 * Layers and subparts for armor are now stored as sets ([#58341](https://github.com/CleverRaven/Cataclysm-DDA/pull/58341))
 * Mapgen readability improvements ([#58339](https://github.com/CleverRaven/Cataclysm-DDA/pull/58339))
@@ -64,12 +65,6 @@
 #### Cataclysm-DDA experimental build 2022-06-12-0511 ([ab8c2ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-12-0511))
 
 * Fix crash due to zero-charge milling result ([#58348](https://github.com/CleverRaven/Cataclysm-DDA/pull/58348))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-12-0101 ([c15589a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-12-0101))
-
-* Minor rework of shopkeeper_item_group ([#58174](https://github.com/CleverRaven/Cataclysm-DDA/pull/58174))
 * Remove extra space ([#58363](https://github.com/CleverRaven/Cataclysm-DDA/pull/58363))
 * Update ko.json ([#58329](https://github.com/CleverRaven/Cataclysm-DDA/pull/58329))
 * Change keybinding names to sentence case ([#58350](https://github.com/CleverRaven/Cataclysm-DDA/pull/58350))
