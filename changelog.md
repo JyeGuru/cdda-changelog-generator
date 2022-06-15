@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-15-1824 ([060b19e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-1824))
+
+* Fail rates audit ([#58428](https://github.com/CleverRaven/Cataclysm-DDA/pull/58428))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-15-1402 ([aeaec40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-1402))
 
 * [Magiclysm] Weapon Categories touchup ([#58418](https://github.com/CleverRaven/Cataclysm-DDA/pull/58418))
@@ -136,11 +142,6 @@
 #### Cataclysm-DDA experimental build 2022-06-10-1720 ([f7484c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-1720))
 
 * Fix erroneous check in veh_type ([#58208](https://github.com/CleverRaven/Cataclysm-DDA/pull/58208))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-10-0828 ([07ed0a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0828))
-
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
 * [CR] Catalytic Cracking ([#58234](https://github.com/CleverRaven/Cataclysm-DDA/pull/58234))
@@ -187,7 +188,6 @@
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
 * Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
-* Assert that sprite dimensions are positive ([#58184](https://github.com/CleverRaven/Cataclysm-DDA/pull/58184))
 * Prevent the sort armor screen from moving clothing on naked characters ([#58192](https://github.com/CleverRaven/Cataclysm-DDA/pull/58192))
 * Add new labels for Desert Region and Xedra Evolved ([#58193](https://github.com/CleverRaven/Cataclysm-DDA/pull/58193))
 * Routine Tileset updates on 05 June 2022 ([#58194](https://github.com/CleverRaven/Cataclysm-DDA/pull/58194))
