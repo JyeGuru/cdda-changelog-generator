@@ -137,11 +137,6 @@
 
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
 * [CR] Catalytic Cracking ([#58234](https://github.com/CleverRaven/Cataclysm-DDA/pull/58234))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-10-0027 ([fc2371d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0027))
-
 * parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
 * [DinoMod] issi ([#58211](https://github.com/CleverRaven/Cataclysm-DDA/pull/58211))
