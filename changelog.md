@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-15-0654 ([79c1b99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-0654))
+
+* Fixes misspelling of satellite ([#58420](https://github.com/CleverRaven/Cataclysm-DDA/pull/58420))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-15-0034 ([9445eff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-0034))
 
 * Sort armor UI small screen cleanup and scrollbars ([#58351](https://github.com/CleverRaven/Cataclysm-DDA/pull/58351))
@@ -178,7 +184,6 @@
 * Regional Terrain Update 1 ([#58186](https://github.com/CleverRaven/Cataclysm-DDA/pull/58186))
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
-* fix: remove starting "&"s in npc dialogue ([#58178](https://github.com/CleverRaven/Cataclysm-DDA/pull/58178))
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
 * Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
 * inv_col: preserve denial for aggregated entries ([#58179](https://github.com/CleverRaven/Cataclysm-DDA/pull/58179))
