@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-15-1402 ([aeaec40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-1402))
+
+* [Magiclysm] Weapon Categories touchup ([#58418](https://github.com/CleverRaven/Cataclysm-DDA/pull/58418))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-15-0654 ([79c1b99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-0654))
 
 * Fixes misspelling of satellite ([#58420](https://github.com/CleverRaven/Cataclysm-DDA/pull/58420))
@@ -136,11 +142,6 @@
 #### Cataclysm-DDA experimental build 2022-06-10-0828 ([07ed0a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0828))
 
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-10-0533 ([84e6579](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0533))
-
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
 * [CR] Catalytic Cracking ([#58234](https://github.com/CleverRaven/Cataclysm-DDA/pull/58234))
 * parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
