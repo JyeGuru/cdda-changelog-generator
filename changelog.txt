@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-15-0034 (9445eff)
+* Sort armor UI small screen cleanup and scrollbars (#58351)
+
 Cataclysm-DDA experimental build 2022-06-14-2114 (6785899)
 * Added Vehicle Parts as Appliances (#58345)
 
@@ -80,8 +83,6 @@ Cataclysm-DDA experimental build 2022-06-10-0533 (84e6579)
 
 Cataclysm-DDA experimental build 2022-06-10-0027 (fc2371d)
 * parity for pristine ballistic vest groups (#58300)
-
-Cataclysm-DDA experimental build 2022-06-09-2306 (f31ea55)
 * json/construction: tamp ground for free (#58314)
 * [DinoMod] issi (#58211)
 * Mechs give smaller batteries when disassembled (#58228)
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2022-06-09-2306 (f31ea55)
 * Regional Terrain Update 2 (#58187)
 * Regional Terrain Update 1 (#58186)
 * Fix compile error in Object Creator (#58207)
-* added OUTER tag to dragon armor suit (#58177)
 * Fix incorrect kitchen floor (#58205)
 * fix: remove starting "&"s in npc dialogue (#58178)
 * Avoid reserved identifiers (#58200)

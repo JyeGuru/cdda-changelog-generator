@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-15-0034 ([9445eff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-0034))
+
+* Sort armor UI small screen cleanup and scrollbars ([#58351](https://github.com/CleverRaven/Cataclysm-DDA/pull/58351))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-14-2114 ([6785899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-2114))
 
 * Added Vehicle Parts as Appliances ([#58345](https://github.com/CleverRaven/Cataclysm-DDA/pull/58345))
@@ -137,11 +143,6 @@
 #### Cataclysm-DDA experimental build 2022-06-10-0027 ([fc2371d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-0027))
 
 * parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-09-2306 ([f31ea55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-09-2306))
-
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
 * [DinoMod] issi ([#58211](https://github.com/CleverRaven/Cataclysm-DDA/pull/58211))
 * Mechs give smaller batteries when disassembled ([#58228](https://github.com/CleverRaven/Cataclysm-DDA/pull/58228))
@@ -181,7 +182,6 @@
 * Regional Terrain Update 2 ([#58187](https://github.com/CleverRaven/Cataclysm-DDA/pull/58187))
 * Regional Terrain Update 1 ([#58186](https://github.com/CleverRaven/Cataclysm-DDA/pull/58186))
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
-* added OUTER tag to dragon armor suit ([#58177](https://github.com/CleverRaven/Cataclysm-DDA/pull/58177))
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
 * fix: remove starting "&"s in npc dialogue ([#58178](https://github.com/CleverRaven/Cataclysm-DDA/pull/58178))
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
