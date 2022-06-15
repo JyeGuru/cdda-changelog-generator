@@ -186,7 +186,6 @@
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
 * Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
-* inv_col: preserve denial for aggregated entries ([#58179](https://github.com/CleverRaven/Cataclysm-DDA/pull/58179))
 * Assert that sprite dimensions are positive ([#58184](https://github.com/CleverRaven/Cataclysm-DDA/pull/58184))
 * Prevent the sort armor screen from moving clothing on naked characters ([#58192](https://github.com/CleverRaven/Cataclysm-DDA/pull/58192))
 * Add new labels for Desert Region and Xedra Evolved ([#58193](https://github.com/CleverRaven/Cataclysm-DDA/pull/58193))
