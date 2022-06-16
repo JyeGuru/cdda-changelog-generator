@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-16-2017 ([c992d94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-2017))
+
 * Classic Map Compatibility ([#58409](https://github.com/CleverRaven/Cataclysm-DDA/pull/58409))
 
 ---

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-16-2017 (c992d94)
 * Classic Map Compatibility (#58409)
 
 Cataclysm-DDA experimental build 2022-06-16-1911 (52e7c2e)
