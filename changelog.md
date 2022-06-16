@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-16-1911 ([52e7c2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-1911))
+
+* Update ko.json ([#58453](https://github.com/CleverRaven/Cataclysm-DDA/pull/58453))
+* Fix crash in displaying NPC attack potential values ([#58467](https://github.com/CleverRaven/Cataclysm-DDA/pull/58467))
+* Fix crash when pressing load button in main menu if there is no world ([#58465](https://github.com/CleverRaven/Cataclysm-DDA/pull/58465))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-16-1811 ([95afc89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-1811))
+
+* [DinoMod] egg cooking fix ([#58466](https://github.com/CleverRaven/Cataclysm-DDA/pull/58466))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-16-0508 ([f6be61e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-0508))
 
 * Minor glass workshop tweaks ([#58450](https://github.com/CleverRaven/Cataclysm-DDA/pull/58450))
@@ -134,11 +148,6 @@
 
 * Routine i18n updates on 11 June 2022 ([#58343](https://github.com/CleverRaven/Cataclysm-DDA/pull/58343))
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-11-0156 ([c56004c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-11-0156))
-
 * Ablative armor can cover more than base armor ([#58331](https://github.com/CleverRaven/Cataclysm-DDA/pull/58331))
 * Revive LGTM C++ analysis ([#58246](https://github.com/CleverRaven/Cataclysm-DDA/pull/58246))
 * [MMA] Weapon Categories: Exemplar Weapons ([#58261](https://github.com/CleverRaven/Cataclysm-DDA/pull/58261))
@@ -186,11 +195,7 @@
 * Define RELEASE in msvc Release configurations. ([#58237](https://github.com/CleverRaven/Cataclysm-DDA/pull/58237))
 * Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
-* Kerosene rename ([#58201](https://github.com/CleverRaven/Cataclysm-DDA/pull/58201))
 * Insert GCC unreachability intrinsic in false branch of cata_assert when NDEBUG is enabled ([#58210](https://github.com/CleverRaven/Cataclysm-DDA/pull/58210))
 * crafting: fix disassemble all ([#58203](https://github.com/CleverRaven/Cataclysm-DDA/pull/58203))
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
-* Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
-* Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
-* Routine Tileset updates on 05 June 2022 ([#58194](https://github.com/CleverRaven/Cataclysm-DDA/pull/58194))
