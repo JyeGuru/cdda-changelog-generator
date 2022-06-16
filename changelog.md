@@ -1,3 +1,12 @@
+* Increase range when failing to find nemesis position ([#58382](https://github.com/CleverRaven/Cataclysm-DDA/pull/58382))
+* fixes #58386 ([#58400](https://github.com/CleverRaven/Cataclysm-DDA/pull/58400))
+* [MOD] BlazeIndustries: Adds full size washing machine to vehicles ([#58424](https://github.com/CleverRaven/Cataclysm-DDA/pull/58424))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-16-0158 ([61f0263](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-0158))
+
+* Adds vehicles to hardware store parking lots ([#58443](https://github.com/CleverRaven/Cataclysm-DDA/pull/58443))
 
 ---
 
@@ -136,11 +145,6 @@
 * added obsolete items flag ([#58316](https://github.com/CleverRaven/Cataclysm-DDA/pull/58316))
 * Fix Lynx Fur mutation ordering ([#58322](https://github.com/CleverRaven/Cataclysm-DDA/pull/58322))
 * Correct container quantities in crafting recipe information ([#58330](https://github.com/CleverRaven/Cataclysm-DDA/pull/58330))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-10-1720 ([f7484c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-10-1720))
-
 * Fix erroneous check in veh_type ([#58208](https://github.com/CleverRaven/Cataclysm-DDA/pull/58208))
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
@@ -179,11 +183,6 @@
 * Kerosene rename ([#58201](https://github.com/CleverRaven/Cataclysm-DDA/pull/58201))
 * Insert GCC unreachability intrinsic in false branch of cata_assert when NDEBUG is enabled ([#58210](https://github.com/CleverRaven/Cataclysm-DDA/pull/58210))
 * crafting: fix disassemble all ([#58203](https://github.com/CleverRaven/Cataclysm-DDA/pull/58203))
-* Regional Terrain Update 5 ([#58190](https://github.com/CleverRaven/Cataclysm-DDA/pull/58190))
-* Regional Terrain Update 4 ([#58189](https://github.com/CleverRaven/Cataclysm-DDA/pull/58189))
-* Regional Terrain Update 3 ([#58188](https://github.com/CleverRaven/Cataclysm-DDA/pull/58188))
-* Regional Terrain Update 2 ([#58187](https://github.com/CleverRaven/Cataclysm-DDA/pull/58187))
-* Regional Terrain Update 1 ([#58186](https://github.com/CleverRaven/Cataclysm-DDA/pull/58186))
 * Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
