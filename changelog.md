@@ -1,3 +1,4 @@
+* Classic Map Compatibility ([#58409](https://github.com/CleverRaven/Cataclysm-DDA/pull/58409))
 
 ---
 
