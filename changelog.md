@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-16-0508 ([f6be61e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-0508))
+
+* Minor glass workshop tweaks ([#58450](https://github.com/CleverRaven/Cataclysm-DDA/pull/58450))
 * Increase range when failing to find nemesis position ([#58382](https://github.com/CleverRaven/Cataclysm-DDA/pull/58382))
 * fixes #58386 ([#58400](https://github.com/CleverRaven/Cataclysm-DDA/pull/58400))
 * [MOD] BlazeIndustries: Adds full size washing machine to vehicles ([#58424](https://github.com/CleverRaven/Cataclysm-DDA/pull/58424))
@@ -187,6 +193,5 @@
 * Fix incorrect kitchen floor ([#58205](https://github.com/CleverRaven/Cataclysm-DDA/pull/58205))
 * Avoid reserved identifiers ([#58200](https://github.com/CleverRaven/Cataclysm-DDA/pull/58200))
 * Enable clang-tidy bugprone-sizeof-expression ([#58199](https://github.com/CleverRaven/Cataclysm-DDA/pull/58199))
-* Prevent the sort armor screen from moving clothing on naked characters ([#58192](https://github.com/CleverRaven/Cataclysm-DDA/pull/58192))
 * Add new labels for Desert Region and Xedra Evolved ([#58193](https://github.com/CleverRaven/Cataclysm-DDA/pull/58193))
 * Routine Tileset updates on 05 June 2022 ([#58194](https://github.com/CleverRaven/Cataclysm-DDA/pull/58194))
