@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-17-1020 ([bcf34db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-17-1020))
+
+* Rural house update ([#58472](https://github.com/CleverRaven/Cataclysm-DDA/pull/58472))
 * Fixes ([#58456](https://github.com/CleverRaven/Cataclysm-DDA/pull/58456))
 
 ---
@@ -162,7 +168,6 @@
 * added obsolete items flag ([#58316](https://github.com/CleverRaven/Cataclysm-DDA/pull/58316))
 * Fix Lynx Fur mutation ordering ([#58322](https://github.com/CleverRaven/Cataclysm-DDA/pull/58322))
 * Correct container quantities in crafting recipe information ([#58330](https://github.com/CleverRaven/Cataclysm-DDA/pull/58330))
-* Fix erroneous check in veh_type ([#58208](https://github.com/CleverRaven/Cataclysm-DDA/pull/58208))
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
 * [CR] Catalytic Cracking ([#58234](https://github.com/CleverRaven/Cataclysm-DDA/pull/58234))

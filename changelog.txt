@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-06-17-1020 (bcf34db)
+* Rural house update (#58472)
 * Fixes (#58456)
 
 Cataclysm-DDA experimental build 2022-06-16-2017 (c992d94)
@@ -96,7 +99,6 @@ Cataclysm-DDA experimental build 2022-06-11-2347 (cf8caa8)
 * added obsolete items flag (#58316)
 * Fix Lynx Fur mutation ordering (#58322)
 * Correct container quantities in crafting recipe information (#58330)
-* Fix erroneous check in veh_type (#58208)
 * Remove underscores from name (#58323)
 * [DinoMod] horn stab stretch attack (#58319)
 * [CR] Catalytic Cracking (#58234)
