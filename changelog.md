@@ -1,3 +1,4 @@
+* Fixes ([#58456](https://github.com/CleverRaven/Cataclysm-DDA/pull/58456))
 
 ---
 
@@ -147,11 +148,6 @@
 * Updated halligan bar weight to match real world specs ([#58321](https://github.com/CleverRaven/Cataclysm-DDA/pull/58321))
 * Fixes mismatched farmhouse roof ([#58333](https://github.com/CleverRaven/Cataclysm-DDA/pull/58333))
 * Drop Classic flag from Ant Hill ([#58346](https://github.com/CleverRaven/Cataclysm-DDA/pull/58346))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-11-0641 ([74ad8be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-11-0641))
-
 * Routine i18n updates on 11 June 2022 ([#58343](https://github.com/CleverRaven/Cataclysm-DDA/pull/58343))
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
 * Ablative armor can cover more than base armor ([#58331](https://github.com/CleverRaven/Cataclysm-DDA/pull/58331))
@@ -202,4 +198,3 @@
 * Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
 * Insert GCC unreachability intrinsic in false branch of cata_assert when NDEBUG is enabled ([#58210](https://github.com/CleverRaven/Cataclysm-DDA/pull/58210))
-* Fix compile error in Object Creator ([#58207](https://github.com/CleverRaven/Cataclysm-DDA/pull/58207))
