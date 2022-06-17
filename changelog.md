@@ -1,3 +1,4 @@
+* Fix overmap coverage test ([#58442](https://github.com/CleverRaven/Cataclysm-DDA/pull/58442))
 
 ---
 
@@ -174,7 +175,6 @@
 * [CR] Catalytic Cracking ([#58234](https://github.com/CleverRaven/Cataclysm-DDA/pull/58234))
 * parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
-* [DinoMod] issi ([#58211](https://github.com/CleverRaven/Cataclysm-DDA/pull/58211))
 * Mechs give smaller batteries when disassembled ([#58228](https://github.com/CleverRaven/Cataclysm-DDA/pull/58228))
 * Ensure strict weak ordering in scored_address::operator>() ([#58248](https://github.com/CleverRaven/Cataclysm-DDA/pull/58248))
 * Sort armor UI left pane tweaks ([#58257](https://github.com/CleverRaven/Cataclysm-DDA/pull/58257))
