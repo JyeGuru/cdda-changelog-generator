@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-17-1449 (8863600)
+* Reduce Kevlar Hulks' Night Vision Range (#58485)
+
 Cataclysm-DDA experimental build 2022-06-17-1020 (bcf34db)
 * Rural house update (#58472)
 * Fixes (#58456)
@@ -78,8 +81,6 @@ Cataclysm-DDA experimental build 2022-06-12-0511 (ab8c2ff)
 * Remove extra space (#58363)
 * Update ko.json (#58329)
 * Change keybinding names to sentence case (#58350)
-
-Cataclysm-DDA experimental build 2022-06-11-2347 (cf8caa8)
 * Add missing full stop to Magiclysm description (#58361)
 * Enable clang-tidy check readability-avoid-const-params-in-decls (#58254)
 * Updated halligan bar weight to match real world specs (#58321)
@@ -133,4 +134,3 @@ Cataclysm-DDA experimental build 2022-06-11-2347 (cf8caa8)
 * Define RELEASE in msvc Release configurations. (#58237)
 * Add NO_AUTO_CONSUME to a bunch of stuff (#58227)
 * [Innawood] minor updates (#58213)
-* Insert GCC unreachability intrinsic in false branch of cata_assert when NDEBUG is enabled (#58210)

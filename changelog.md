@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-17-1449 ([8863600](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-17-1449))
+
+* Reduce Kevlar Hulks' Night Vision Range ([#58485](https://github.com/CleverRaven/Cataclysm-DDA/pull/58485))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-17-1020 ([bcf34db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-17-1020))
 
 * Rural house update ([#58472](https://github.com/CleverRaven/Cataclysm-DDA/pull/58472))
@@ -144,11 +150,6 @@
 * Remove extra space ([#58363](https://github.com/CleverRaven/Cataclysm-DDA/pull/58363))
 * Update ko.json ([#58329](https://github.com/CleverRaven/Cataclysm-DDA/pull/58329))
 * Change keybinding names to sentence case ([#58350](https://github.com/CleverRaven/Cataclysm-DDA/pull/58350))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-11-2347 ([cf8caa8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-11-2347))
-
 * Add missing full stop to Magiclysm description ([#58361](https://github.com/CleverRaven/Cataclysm-DDA/pull/58361))
 * Enable clang-tidy check readability-avoid-const-params-in-decls ([#58254](https://github.com/CleverRaven/Cataclysm-DDA/pull/58254))
 * Updated halligan bar weight to match real world specs ([#58321](https://github.com/CleverRaven/Cataclysm-DDA/pull/58321))
@@ -202,4 +203,3 @@
 * Define RELEASE in msvc Release configurations. ([#58237](https://github.com/CleverRaven/Cataclysm-DDA/pull/58237))
 * Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
 * [Innawood] minor updates ([#58213](https://github.com/CleverRaven/Cataclysm-DDA/pull/58213))
-* Insert GCC unreachability intrinsic in false branch of cata_assert when NDEBUG is enabled ([#58210](https://github.com/CleverRaven/Cataclysm-DDA/pull/58210))
