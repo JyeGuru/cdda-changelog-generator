@@ -76,8 +76,6 @@ Cataclysm-DDA experimental build 2022-06-13-0057 (e188037)
 
 Cataclysm-DDA experimental build 2022-06-12-1440 (781a1fc)
 * Fixes melee attack_vector to properly use the weapon (#58373)
-
-Cataclysm-DDA experimental build 2022-06-12-0511 (ab8c2ff)
 * Fix crash due to zero-charge milling result (#58348)
 * Remove extra space (#58363)
 * Update ko.json (#58329)
