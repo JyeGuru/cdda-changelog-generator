@@ -136,11 +136,6 @@
 
 * Account for batch size in companion crafting byproducts ([#58378](https://github.com/CleverRaven/Cataclysm-DDA/pull/58378))
 * Fix AFS nested chunk errors ([#58381](https://github.com/CleverRaven/Cataclysm-DDA/pull/58381))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-12-1440 ([781a1fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-12-1440))
-
 * Fixes melee attack_vector to properly use the weapon ([#58373](https://github.com/CleverRaven/Cataclysm-DDA/pull/58373))
 * Fix crash due to zero-charge milling result ([#58348](https://github.com/CleverRaven/Cataclysm-DDA/pull/58348))
 * Remove extra space ([#58363](https://github.com/CleverRaven/Cataclysm-DDA/pull/58363))
