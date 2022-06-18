@@ -63,8 +63,6 @@ Cataclysm-DDA experimental build 2022-06-14-0600 (9a1002b)
 
 Cataclysm-DDA experimental build 2022-06-13-1536 (6dc7309)
 * Fix null dereference in `vehicle_part::info` (#58334)
-
-Cataclysm-DDA experimental build 2022-06-13-1158 (3396a32)
 * Make Water Purifier furniture Easily Deconstructable (#58357)
 * Add copper melting recipe (#58379)
 * Added the ability to customize label separators for sidebar widgets (#58355)
