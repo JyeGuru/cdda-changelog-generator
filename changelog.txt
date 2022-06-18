@@ -69,8 +69,6 @@ Cataclysm-DDA experimental build 2022-06-13-1158 (3396a32)
 
 Cataclysm-DDA experimental build 2022-06-13-0621 (be2fdc3)
 * Add copper melting recipe (#58379)
-
-Cataclysm-DDA experimental build 2022-06-13-0416 (0845387)
 * Added the ability to customize label separators for sidebar widgets (#58355)
 * Account for batch size in companion crafting byproducts (#58378)
 * Fix AFS nested chunk errors (#58381)
