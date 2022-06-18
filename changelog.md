@@ -123,11 +123,6 @@
 #### Cataclysm-DDA experimental build 2022-06-13-1158 ([3396a32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-13-1158))
 
 * Make Water Purifier furniture Easily Deconstructable ([#58357](https://github.com/CleverRaven/Cataclysm-DDA/pull/58357))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-13-0621 ([be2fdc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-13-0621))
-
 * Add copper melting recipe ([#58379](https://github.com/CleverRaven/Cataclysm-DDA/pull/58379))
 * Added the ability to customize label separators for sidebar widgets ([#58355](https://github.com/CleverRaven/Cataclysm-DDA/pull/58355))
 * Account for batch size in companion crafting byproducts ([#58378](https://github.com/CleverRaven/Cataclysm-DDA/pull/58378))

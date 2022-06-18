@@ -66,8 +66,6 @@ Cataclysm-DDA experimental build 2022-06-13-1536 (6dc7309)
 
 Cataclysm-DDA experimental build 2022-06-13-1158 (3396a32)
 * Make Water Purifier furniture Easily Deconstructable (#58357)
-
-Cataclysm-DDA experimental build 2022-06-13-0621 (be2fdc3)
 * Add copper melting recipe (#58379)
 * Added the ability to customize label separators for sidebar widgets (#58355)
 * Account for batch size in companion crafting byproducts (#58378)
