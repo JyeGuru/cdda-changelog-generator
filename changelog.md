@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-18-1025 ([b1a5586](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-18-1025))
+
 * Reset steadiness after smashing corpses ([#58507](https://github.com/CleverRaven/Cataclysm-DDA/pull/58507))
 * Fix overmap coverage test ([#58442](https://github.com/CleverRaven/Cataclysm-DDA/pull/58442))
 
@@ -130,11 +135,6 @@
 #### Cataclysm-DDA experimental build 2022-06-13-0416 ([0845387](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-13-0416))
 
 * Added the ability to customize label separators for sidebar widgets ([#58355](https://github.com/CleverRaven/Cataclysm-DDA/pull/58355))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-13-0057 ([e188037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-13-0057))
-
 * Account for batch size in companion crafting byproducts ([#58378](https://github.com/CleverRaven/Cataclysm-DDA/pull/58378))
 * Fix AFS nested chunk errors ([#58381](https://github.com/CleverRaven/Cataclysm-DDA/pull/58381))
 * Fixes melee attack_vector to properly use the weapon ([#58373](https://github.com/CleverRaven/Cataclysm-DDA/pull/58373))
