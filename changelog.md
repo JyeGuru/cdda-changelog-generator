@@ -1,3 +1,4 @@
+* Reset steadiness after smashing corpses ([#58507](https://github.com/CleverRaven/Cataclysm-DDA/pull/58507))
 * Fix overmap coverage test ([#58442](https://github.com/CleverRaven/Cataclysm-DDA/pull/58442))
 
 ---
