@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-19-1722 ([6e7d1a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-1722))
+
+* Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-19-0725 ([cc694a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0725))
 
 * added heavy vest to soldier spawn groups ([#58490](https://github.com/CleverRaven/Cataclysm-DDA/pull/58490))
@@ -124,11 +130,6 @@
 #### Cataclysm-DDA experimental build 2022-06-15-0034 ([9445eff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-0034))
 
 * Sort armor UI small screen cleanup and scrollbars ([#58351](https://github.com/CleverRaven/Cataclysm-DDA/pull/58351))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-14-2114 ([6785899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-2114))
-
 * Added Vehicle Parts as Appliances ([#58345](https://github.com/CleverRaven/Cataclysm-DDA/pull/58345))
 * Routine Tileset updates on 12 June 2022 ([#58387](https://github.com/CleverRaven/Cataclysm-DDA/pull/58387))
 * Layers and subparts for armor are now stored as sets ([#58341](https://github.com/CleverRaven/Cataclysm-DDA/pull/58341))
@@ -179,5 +180,4 @@
 * Fix compile errors on macOS ([#58292](https://github.com/CleverRaven/Cataclysm-DDA/pull/58292))
 * Lab soldier/security lockers contain pristine ballstic plates ([#58294](https://github.com/CleverRaven/Cataclysm-DDA/pull/58294))
 * Update kevlar to Kevlar ([#58291](https://github.com/CleverRaven/Cataclysm-DDA/pull/58291))
-* Add slime, bird samples to the sample loot-table ([#58270](https://github.com/CleverRaven/Cataclysm-DDA/pull/58270))
 * Add batteries to broken anchor ([#58272](https://github.com/CleverRaven/Cataclysm-DDA/pull/58272))

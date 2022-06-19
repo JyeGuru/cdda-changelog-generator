@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-19-1722 (6e7d1a9)
+* Fixes a few recipes i missed in tailoring audit (#58539)
+
 Cataclysm-DDA experimental build 2022-06-19-0725 (cc694a8)
 * added heavy vest to soldier spawn groups (#58490)
 * Make repeat_clang_tidy more concurrency-safe (#58521)
@@ -73,8 +76,6 @@ Cataclysm-DDA experimental build 2022-06-15-0654 (79c1b99)
 
 Cataclysm-DDA experimental build 2022-06-15-0034 (9445eff)
 * Sort armor UI small screen cleanup and scrollbars (#58351)
-
-Cataclysm-DDA experimental build 2022-06-14-2114 (6785899)
 * Added Vehicle Parts as Appliances (#58345)
 * Routine Tileset updates on 12 June 2022 (#58387)
 * Layers and subparts for armor are now stored as sets (#58341)
@@ -125,5 +126,4 @@ Cataclysm-DDA experimental build 2022-06-14-2114 (6785899)
 * Fix compile errors on macOS (#58292)
 * Lab soldier/security lockers contain pristine ballstic plates (#58294)
 * Update kevlar to Kevlar (#58291)
-* Add slime, bird samples to the sample loot-table (#58270)
 * Add batteries to broken anchor (#58272)
