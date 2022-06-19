@@ -1,3 +1,10 @@
+* [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-19-0414 ([3091c9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0414))
+
+* fix unloading containers which also have other types of pockets ([#58315](https://github.com/CleverRaven/Cataclysm-DDA/pull/58315))
 
 ---
 
@@ -127,11 +134,6 @@
 #### Cataclysm-DDA experimental build 2022-06-14-1821 ([d95d319](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-1821))
 
 * Remove const from declarations for clang-tidy ([#58415](https://github.com/CleverRaven/Cataclysm-DDA/pull/58415))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-14-1709 ([59a02e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-1709))
-
 * Padded military flight helmet ([#58393](https://github.com/CleverRaven/Cataclysm-DDA/pull/58393))
 * Remove WATER_PROOF and HOOD flags from dress uniform ([#58403](https://github.com/CleverRaven/Cataclysm-DDA/pull/58403))
 * Fix null dereference in `vehicle_part::info` ([#58334](https://github.com/CleverRaven/Cataclysm-DDA/pull/58334))
@@ -165,7 +167,6 @@
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
 * parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
-* Clang tidy bugprone unhandled self assignment ([#58263](https://github.com/CleverRaven/Cataclysm-DDA/pull/58263))
 * Report JSON error and exit gracefully in JSON formatter ([#58268](https://github.com/CleverRaven/Cataclysm-DDA/pull/58268))
 * kevlar → Kevlar ([#58281](https://github.com/CleverRaven/Cataclysm-DDA/pull/58281))
 * Fix some typos form #57508 ([#58282](https://github.com/CleverRaven/Cataclysm-DDA/pull/58282))
@@ -180,4 +181,3 @@
 * Update kevlar to Kevlar ([#58291](https://github.com/CleverRaven/Cataclysm-DDA/pull/58291))
 * Add slime, bird samples to the sample loot-table ([#58270](https://github.com/CleverRaven/Cataclysm-DDA/pull/58270))
 * Add batteries to broken anchor ([#58272](https://github.com/CleverRaven/Cataclysm-DDA/pull/58272))
-* Deduplicate files in repeat_clang_tidy.sh ([#58262](https://github.com/CleverRaven/Cataclysm-DDA/pull/58262))
