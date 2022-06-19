@@ -1,3 +1,4 @@
+* Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
 * Routine i18n updates on 18 June 2022 ([#58503](https://github.com/CleverRaven/Cataclysm-DDA/pull/58503))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
 
@@ -167,7 +168,6 @@
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
 * parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
-* Report JSON error and exit gracefully in JSON formatter ([#58268](https://github.com/CleverRaven/Cataclysm-DDA/pull/58268))
 * kevlar → Kevlar ([#58281](https://github.com/CleverRaven/Cataclysm-DDA/pull/58281))
 * Fix some typos form #57508 ([#58282](https://github.com/CleverRaven/Cataclysm-DDA/pull/58282))
 * [Innawood] fix bronze nail recipe ([#58284](https://github.com/CleverRaven/Cataclysm-DDA/pull/58284))
