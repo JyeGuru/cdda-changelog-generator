@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-19-0725 ([cc694a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0725))
+
+* added heavy vest to soldier spawn groups ([#58490](https://github.com/CleverRaven/Cataclysm-DDA/pull/58490))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
 
 ---
@@ -124,11 +130,6 @@
 #### Cataclysm-DDA experimental build 2022-06-14-2114 ([6785899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-2114))
 
 * Added Vehicle Parts as Appliances ([#58345](https://github.com/CleverRaven/Cataclysm-DDA/pull/58345))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-14-1958 ([091516a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-1958))
-
 * Routine Tileset updates on 12 June 2022 ([#58387](https://github.com/CleverRaven/Cataclysm-DDA/pull/58387))
 * Layers and subparts for armor are now stored as sets ([#58341](https://github.com/CleverRaven/Cataclysm-DDA/pull/58341))
 * Mapgen readability improvements ([#58339](https://github.com/CleverRaven/Cataclysm-DDA/pull/58339))
@@ -156,7 +157,6 @@
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
 * Ablative armor can cover more than base armor ([#58331](https://github.com/CleverRaven/Cataclysm-DDA/pull/58331))
 * swappable shoulder strap to front ([#58311](https://github.com/CleverRaven/Cataclysm-DDA/pull/58311))
-* Can build validate terrain check ([#58269](https://github.com/CleverRaven/Cataclysm-DDA/pull/58269))
 * Deployed reinforced cardboard box looks like deployed large cardboard box ([#58277](https://github.com/CleverRaven/Cataclysm-DDA/pull/58277))
 * Restore display of range of nutrition in crafting screen ([#58278](https://github.com/CleverRaven/Cataclysm-DDA/pull/58278))
 * Add accessibility services warning to Android pre-launch menu ([#58297](https://github.com/CleverRaven/Cataclysm-DDA/pull/58297))
