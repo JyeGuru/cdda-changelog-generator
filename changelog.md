@@ -1,3 +1,4 @@
+* Routine i18n updates on 18 June 2022 ([#58503](https://github.com/CleverRaven/Cataclysm-DDA/pull/58503))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
 
 ---
@@ -11,7 +12,6 @@
 #### Cataclysm-DDA experimental build 2022-06-19-0225 ([03f4e32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0225))
 
 * Improvised oven has other plate options, and pocket isn't sealed ([#58394](https://github.com/CleverRaven/Cataclysm-DDA/pull/58394))
-* Wield gun before attaching mods ([#58266](https://github.com/CleverRaven/Cataclysm-DDA/pull/58266))
 * [DinoMod] nightstalkers ([#58477](https://github.com/CleverRaven/Cataclysm-DDA/pull/58477))
 * [Magiclysm] Vault Fixes and defenses ([#58499](https://github.com/CleverRaven/Cataclysm-DDA/pull/58499))
 * Fixes duplicate entry error for Autodoc bionic installation ([#58474](https://github.com/CleverRaven/Cataclysm-DDA/pull/58474))

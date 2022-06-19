@@ -1,3 +1,4 @@
+* Routine i18n updates on 18 June 2022 (#58503)
 * [DinoMod] oryctodromeus (#58519)
 
 Cataclysm-DDA experimental build 2022-06-19-0414 (3091c9f)
@@ -5,7 +6,6 @@ Cataclysm-DDA experimental build 2022-06-19-0414 (3091c9f)
 
 Cataclysm-DDA experimental build 2022-06-19-0225 (03f4e32)
 * Improvised oven has other plate options, and pocket isn't sealed (#58394)
-* Wield gun before attaching mods (#58266)
 * [DinoMod] nightstalkers (#58477)
 * [Magiclysm] Vault Fixes and defenses (#58499)
 * Fixes duplicate entry error for Autodoc bionic installation (#58474)
