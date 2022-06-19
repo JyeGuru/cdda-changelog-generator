@@ -1,6 +1,34 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-19-0225 ([03f4e32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0225))
+
+* Improvised oven has other plate options, and pocket isn't sealed ([#58394](https://github.com/CleverRaven/Cataclysm-DDA/pull/58394))
+* Wield gun before attaching mods ([#58266](https://github.com/CleverRaven/Cataclysm-DDA/pull/58266))
+* [DinoMod] nightstalkers ([#58477](https://github.com/CleverRaven/Cataclysm-DDA/pull/58477))
+* [Magiclysm] Vault Fixes and defenses ([#58499](https://github.com/CleverRaven/Cataclysm-DDA/pull/58499))
+* Fixes duplicate entry error for Autodoc bionic installation ([#58474](https://github.com/CleverRaven/Cataclysm-DDA/pull/58474))
+* Fix NPC not casting spells ([#58482](https://github.com/CleverRaven/Cataclysm-DDA/pull/58482))
+* Fix incorrect AIM weight display of items counted by charges on corpses ([#58484](https://github.com/CleverRaven/Cataclysm-DDA/pull/58484))
+* [DinoMod] anzu fungalize fix ([#58496](https://github.com/CleverRaven/Cataclysm-DDA/pull/58496))
+* Electrolyzer → Water Electrolyzer ([#58510](https://github.com/CleverRaven/Cataclysm-DDA/pull/58510))
+* Change dash to hyphen ([#58511](https://github.com/CleverRaven/Cataclysm-DDA/pull/58511))
+* Add missing comma to pull request template ([#58512](https://github.com/CleverRaven/Cataclysm-DDA/pull/58512))
+* Add plural to cotton patch ([#58513](https://github.com/CleverRaven/Cataclysm-DDA/pull/58513))
+* Add singular/plurals to sheets ([#58514](https://github.com/CleverRaven/Cataclysm-DDA/pull/58514))
+* Add plural to synthetic fabric patch ([#58515](https://github.com/CleverRaven/Cataclysm-DDA/pull/58515))
+* New foliage capitalization ([#58518](https://github.com/CleverRaven/Cataclysm-DDA/pull/58518))
+* Add hyphen to AA-12 magazine names ([#58525](https://github.com/CleverRaven/Cataclysm-DDA/pull/58525))
+* Add missing dot to a spell description ([#58526](https://github.com/CleverRaven/Cataclysm-DDA/pull/58526))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-19-0046 ([1b74a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0046))
+
+* Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-18-1025 ([b1a5586](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-18-1025))
 
 * Reset steadiness after smashing corpses ([#58507](https://github.com/CleverRaven/Cataclysm-DDA/pull/58507))
@@ -105,17 +133,7 @@
 #### Cataclysm-DDA experimental build 2022-06-14-1709 ([59a02e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-1709))
 
 * Padded military flight helmet ([#58393](https://github.com/CleverRaven/Cataclysm-DDA/pull/58393))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-14-0600 ([9a1002b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-14-0600))
-
 * Remove WATER_PROOF and HOOD flags from dress uniform ([#58403](https://github.com/CleverRaven/Cataclysm-DDA/pull/58403))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-13-1536 ([6dc7309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-13-1536))
-
 * Fix null dereference in `vehicle_part::info` ([#58334](https://github.com/CleverRaven/Cataclysm-DDA/pull/58334))
 * Make Water Purifier furniture Easily Deconstructable ([#58357](https://github.com/CleverRaven/Cataclysm-DDA/pull/58357))
 * Add copper melting recipe ([#58379](https://github.com/CleverRaven/Cataclysm-DDA/pull/58379))
@@ -128,15 +146,12 @@
 * Update ko.json ([#58329](https://github.com/CleverRaven/Cataclysm-DDA/pull/58329))
 * Change keybinding names to sentence case ([#58350](https://github.com/CleverRaven/Cataclysm-DDA/pull/58350))
 * Add missing full stop to Magiclysm description ([#58361](https://github.com/CleverRaven/Cataclysm-DDA/pull/58361))
-* Enable clang-tidy check readability-avoid-const-params-in-decls ([#58254](https://github.com/CleverRaven/Cataclysm-DDA/pull/58254))
 * Updated halligan bar weight to match real world specs ([#58321](https://github.com/CleverRaven/Cataclysm-DDA/pull/58321))
 * Fixes mismatched farmhouse roof ([#58333](https://github.com/CleverRaven/Cataclysm-DDA/pull/58333))
 * Drop Classic flag from Ant Hill ([#58346](https://github.com/CleverRaven/Cataclysm-DDA/pull/58346))
 * Routine i18n updates on 11 June 2022 ([#58343](https://github.com/CleverRaven/Cataclysm-DDA/pull/58343))
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
 * Ablative armor can cover more than base armor ([#58331](https://github.com/CleverRaven/Cataclysm-DDA/pull/58331))
-* Revive LGTM C++ analysis ([#58246](https://github.com/CleverRaven/Cataclysm-DDA/pull/58246))
-* [MMA] Weapon Categories: Exemplar Weapons ([#58261](https://github.com/CleverRaven/Cataclysm-DDA/pull/58261))
 * swappable shoulder strap to front ([#58311](https://github.com/CleverRaven/Cataclysm-DDA/pull/58311))
 * Can build validate terrain check ([#58269](https://github.com/CleverRaven/Cataclysm-DDA/pull/58269))
 * Deployed reinforced cardboard box looks like deployed large cardboard box ([#58277](https://github.com/CleverRaven/Cataclysm-DDA/pull/58277))
@@ -148,12 +163,8 @@
 * Correct container quantities in crafting recipe information ([#58330](https://github.com/CleverRaven/Cataclysm-DDA/pull/58330))
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
-* [CR] Catalytic Cracking ([#58234](https://github.com/CleverRaven/Cataclysm-DDA/pull/58234))
 * parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
-* Mechs give smaller batteries when disassembled ([#58228](https://github.com/CleverRaven/Cataclysm-DDA/pull/58228))
-* Ensure strict weak ordering in scored_address::operator>() ([#58248](https://github.com/CleverRaven/Cataclysm-DDA/pull/58248))
-* Sort armor UI left pane tweaks ([#58257](https://github.com/CleverRaven/Cataclysm-DDA/pull/58257))
 * Clang tidy bugprone unhandled self assignment ([#58263](https://github.com/CleverRaven/Cataclysm-DDA/pull/58263))
 * Report JSON error and exit gracefully in JSON formatter ([#58268](https://github.com/CleverRaven/Cataclysm-DDA/pull/58268))
 * kevlar → Kevlar ([#58281](https://github.com/CleverRaven/Cataclysm-DDA/pull/58281))
@@ -169,12 +180,4 @@
 * Update kevlar to Kevlar ([#58291](https://github.com/CleverRaven/Cataclysm-DDA/pull/58291))
 * Add slime, bird samples to the sample loot-table ([#58270](https://github.com/CleverRaven/Cataclysm-DDA/pull/58270))
 * Add batteries to broken anchor ([#58272](https://github.com/CleverRaven/Cataclysm-DDA/pull/58272))
-* docs: removing quotation around dialogue text ([#58259](https://github.com/CleverRaven/Cataclysm-DDA/pull/58259))
-* Makes Exodii mag rigid ([#58251](https://github.com/CleverRaven/Cataclysm-DDA/pull/58251))
 * Deduplicate files in repeat_clang_tidy.sh ([#58262](https://github.com/CleverRaven/Cataclysm-DDA/pull/58262))
-* Npc weapon reload without crashing ([#58240](https://github.com/CleverRaven/Cataclysm-DDA/pull/58240))
-* Improve appliance grid performance with many connections ([#58235](https://github.com/CleverRaven/Cataclysm-DDA/pull/58235))
-* Fix biotek attunement ([#58243](https://github.com/CleverRaven/Cataclysm-DDA/pull/58243))
-* Fix problematic list element removal in firstaid_activity_actor::finish() ([#58233](https://github.com/CleverRaven/Cataclysm-DDA/pull/58233))
-* Define RELEASE in msvc Release configurations. ([#58237](https://github.com/CleverRaven/Cataclysm-DDA/pull/58237))
-* Add NO_AUTO_CONSUME to a bunch of stuff ([#58227](https://github.com/CleverRaven/Cataclysm-DDA/pull/58227))
