@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-20-2159 ([6ac3704](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-2159))
+
 * Widgets: flag to omit column padding ([#58543](https://github.com/CleverRaven/Cataclysm-DDA/pull/58543))
 
 ---
@@ -129,11 +134,6 @@
 #### Cataclysm-DDA experimental build 2022-06-16-2017 ([c992d94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-2017))
 
 * Classic Map Compatibility ([#58409](https://github.com/CleverRaven/Cataclysm-DDA/pull/58409))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-16-1911 ([52e7c2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-1911))
-
 * Update ko.json ([#58453](https://github.com/CleverRaven/Cataclysm-DDA/pull/58453))
 * Fix crash in displaying NPC attack potential values ([#58467](https://github.com/CleverRaven/Cataclysm-DDA/pull/58467))
 * Fix crash when pressing load button in main menu if there is no world ([#58465](https://github.com/CleverRaven/Cataclysm-DDA/pull/58465))

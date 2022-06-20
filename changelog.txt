@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-20-2159 (6ac3704)
 * Widgets: flag to omit column padding (#58543)
 
 Cataclysm-DDA experimental build 2022-06-20-2055 (d01948f)
@@ -78,8 +80,6 @@ Cataclysm-DDA experimental build 2022-06-17-1020 (bcf34db)
 
 Cataclysm-DDA experimental build 2022-06-16-2017 (c992d94)
 * Classic Map Compatibility (#58409)
-
-Cataclysm-DDA experimental build 2022-06-16-1911 (52e7c2e)
 * Update ko.json (#58453)
 * Fix crash in displaying NPC attack potential values (#58467)
 * Fix crash when pressing load button in main menu if there is no world (#58465)
