@@ -123,11 +123,6 @@
 #### Cataclysm-DDA experimental build 2022-06-15-1824 ([060b19e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-1824))
 
 * Fail rates audit ([#58428](https://github.com/CleverRaven/Cataclysm-DDA/pull/58428))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-15-1402 ([aeaec40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-1402))
-
 * [Magiclysm] Weapon Categories touchup ([#58418](https://github.com/CleverRaven/Cataclysm-DDA/pull/58418))
 * Fixes misspelling of satellite ([#58420](https://github.com/CleverRaven/Cataclysm-DDA/pull/58420))
 * Sort armor UI small screen cleanup and scrollbars ([#58351](https://github.com/CleverRaven/Cataclysm-DDA/pull/58351))

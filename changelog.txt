@@ -75,8 +75,6 @@ Cataclysm-DDA experimental build 2022-06-16-0158 (61f0263)
 
 Cataclysm-DDA experimental build 2022-06-15-1824 (060b19e)
 * Fail rates audit (#58428)
-
-Cataclysm-DDA experimental build 2022-06-15-1402 (aeaec40)
 * [Magiclysm] Weapon Categories touchup (#58418)
 * Fixes misspelling of satellite (#58420)
 * Sort armor UI small screen cleanup and scrollbars (#58351)
