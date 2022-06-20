@@ -1,3 +1,10 @@
+* Widgets: flag to omit column padding ([#58543](https://github.com/CleverRaven/Cataclysm-DDA/pull/58543))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-20-2055 ([d01948f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-2055))
+
+* uilist: don't scroll when mousing over ([#58335](https://github.com/CleverRaven/Cataclysm-DDA/pull/58335))
 
 ---
 
@@ -130,11 +137,6 @@
 * Update ko.json ([#58453](https://github.com/CleverRaven/Cataclysm-DDA/pull/58453))
 * Fix crash in displaying NPC attack potential values ([#58467](https://github.com/CleverRaven/Cataclysm-DDA/pull/58467))
 * Fix crash when pressing load button in main menu if there is no world ([#58465](https://github.com/CleverRaven/Cataclysm-DDA/pull/58465))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-16-1811 ([95afc89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-1811))
-
 * [DinoMod] egg cooking fix ([#58466](https://github.com/CleverRaven/Cataclysm-DDA/pull/58466))
 * Minor glass workshop tweaks ([#58450](https://github.com/CleverRaven/Cataclysm-DDA/pull/58450))
 * Increase range when failing to find nemesis position ([#58382](https://github.com/CleverRaven/Cataclysm-DDA/pull/58382))
@@ -179,5 +181,3 @@
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
-* Fixes fields at the ends of runways ([#58305](https://github.com/CleverRaven/Cataclysm-DDA/pull/58305))
-* Fixes undamaged bus station buses ([#58304](https://github.com/CleverRaven/Cataclysm-DDA/pull/58304))

@@ -1,3 +1,7 @@
+* Widgets: flag to omit column padding (#58543)
+
+Cataclysm-DDA experimental build 2022-06-20-2055 (d01948f)
+* uilist: don't scroll when mousing over (#58335)
 
 Cataclysm-DDA experimental build 2022-06-20-1927 (eeef80f)
 * Fixes textile mill museum path (#58455)
@@ -79,8 +83,6 @@ Cataclysm-DDA experimental build 2022-06-16-1911 (52e7c2e)
 * Update ko.json (#58453)
 * Fix crash in displaying NPC attack potential values (#58467)
 * Fix crash when pressing load button in main menu if there is no world (#58465)
-
-Cataclysm-DDA experimental build 2022-06-16-1811 (95afc89)
 * [DinoMod] egg cooking fix (#58466)
 * Minor glass workshop tweaks (#58450)
 * Increase range when failing to find nemesis position (#58382)
@@ -125,5 +127,3 @@ Cataclysm-DDA experimental build 2022-06-16-1811 (95afc89)
 * Remove underscores from name (#58323)
 * [DinoMod] horn stab stretch attack (#58319)
 * json/construction: tamp ground for free (#58314)
-* Fixes fields at the ends of runways (#58305)
-* Fixes undamaged bus station buses (#58304)
