@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-20-0708 ([d84d159](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-0708))
+
 * [Innawood] update map settings to include Forest and foliage overhaul ([#58540](https://github.com/CleverRaven/Cataclysm-DDA/pull/58540))
 
 ---
@@ -124,11 +129,6 @@
 #### Cataclysm-DDA experimental build 2022-06-16-0158 ([61f0263](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-0158))
 
 * Adds vehicles to hardware store parking lots ([#58443](https://github.com/CleverRaven/Cataclysm-DDA/pull/58443))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-15-1824 ([060b19e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-1824))
-
 * Fail rates audit ([#58428](https://github.com/CleverRaven/Cataclysm-DDA/pull/58428))
 * [Magiclysm] Weapon Categories touchup ([#58418](https://github.com/CleverRaven/Cataclysm-DDA/pull/58418))
 * Fixes misspelling of satellite ([#58420](https://github.com/CleverRaven/Cataclysm-DDA/pull/58420))
