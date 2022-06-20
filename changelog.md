@@ -1,3 +1,14 @@
+* Correct logic for -Wno-unknown-warning-option ([#58523](https://github.com/CleverRaven/Cataclysm-DDA/pull/58523))
+* Stop loading on duplicate definition from same mod ([#58542](https://github.com/CleverRaven/Cataclysm-DDA/pull/58542))
+* Update expected shot damage in ranged balance test ([#58550](https://github.com/CleverRaven/Cataclysm-DDA/pull/58550))
+* scoot down the item bodygraphs ([#58553](https://github.com/CleverRaven/Cataclysm-DDA/pull/58553))
+* Routine Tileset updates on 19 June 2022 ([#58562](https://github.com/CleverRaven/Cataclysm-DDA/pull/58562))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-19-2347 ([2a3a693](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-2347))
+
+* Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
 
 ---
 
@@ -124,11 +135,6 @@
 #### Cataclysm-DDA experimental build 2022-06-15-0654 ([79c1b99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-0654))
 
 * Fixes misspelling of satellite ([#58420](https://github.com/CleverRaven/Cataclysm-DDA/pull/58420))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-15-0034 ([9445eff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-0034))
-
 * Sort armor UI small screen cleanup and scrollbars ([#58351](https://github.com/CleverRaven/Cataclysm-DDA/pull/58351))
 * Added Vehicle Parts as Appliances ([#58345](https://github.com/CleverRaven/Cataclysm-DDA/pull/58345))
 * Routine Tileset updates on 12 June 2022 ([#58387](https://github.com/CleverRaven/Cataclysm-DDA/pull/58387))
@@ -158,8 +164,6 @@
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
 * Ablative armor can cover more than base armor ([#58331](https://github.com/CleverRaven/Cataclysm-DDA/pull/58331))
 * swappable shoulder strap to front ([#58311](https://github.com/CleverRaven/Cataclysm-DDA/pull/58311))
-* Deployed reinforced cardboard box looks like deployed large cardboard box ([#58277](https://github.com/CleverRaven/Cataclysm-DDA/pull/58277))
-* Restore display of range of nutrition in crafting screen ([#58278](https://github.com/CleverRaven/Cataclysm-DDA/pull/58278))
 * Add accessibility services warning to Android pre-launch menu ([#58297](https://github.com/CleverRaven/Cataclysm-DDA/pull/58297))
 * Custom sidebar - Allow layout widgets to specify a minimum width ([#58308](https://github.com/CleverRaven/Cataclysm-DDA/pull/58308))
 * added obsolete items flag ([#58316](https://github.com/CleverRaven/Cataclysm-DDA/pull/58316))
@@ -169,8 +173,6 @@
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
 * parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
-* kevlar → Kevlar ([#58281](https://github.com/CleverRaven/Cataclysm-DDA/pull/58281))
-* Fix some typos form #57508 ([#58282](https://github.com/CleverRaven/Cataclysm-DDA/pull/58282))
 * [Innawood] fix bronze nail recipe ([#58284](https://github.com/CleverRaven/Cataclysm-DDA/pull/58284))
 * Prevent making kevlar, nomex, and synthetic fabric from thread only ([#58296](https://github.com/CleverRaven/Cataclysm-DDA/pull/58296))
 * Allow hexagonrecursion to /confirmed bugs ([#58295](https://github.com/CleverRaven/Cataclysm-DDA/pull/58295))
@@ -180,4 +182,3 @@
 * Fix compile errors on macOS ([#58292](https://github.com/CleverRaven/Cataclysm-DDA/pull/58292))
 * Lab soldier/security lockers contain pristine ballstic plates ([#58294](https://github.com/CleverRaven/Cataclysm-DDA/pull/58294))
 * Update kevlar to Kevlar ([#58291](https://github.com/CleverRaven/Cataclysm-DDA/pull/58291))
-* Add batteries to broken anchor ([#58272](https://github.com/CleverRaven/Cataclysm-DDA/pull/58272))
