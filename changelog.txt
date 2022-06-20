@@ -78,8 +78,6 @@ Cataclysm-DDA experimental build 2022-06-15-1824 (060b19e)
 
 Cataclysm-DDA experimental build 2022-06-15-1402 (aeaec40)
 * [Magiclysm] Weapon Categories touchup (#58418)
-
-Cataclysm-DDA experimental build 2022-06-15-0654 (79c1b99)
 * Fixes misspelling of satellite (#58420)
 * Sort armor UI small screen cleanup and scrollbars (#58351)
 * Added Vehicle Parts as Appliances (#58345)

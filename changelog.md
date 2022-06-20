@@ -129,11 +129,6 @@
 #### Cataclysm-DDA experimental build 2022-06-15-1402 ([aeaec40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-1402))
 
 * [Magiclysm] Weapon Categories touchup ([#58418](https://github.com/CleverRaven/Cataclysm-DDA/pull/58418))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-15-0654 ([79c1b99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-15-0654))
-
 * Fixes misspelling of satellite ([#58420](https://github.com/CleverRaven/Cataclysm-DDA/pull/58420))
 * Sort armor UI small screen cleanup and scrollbars ([#58351](https://github.com/CleverRaven/Cataclysm-DDA/pull/58351))
 * Added Vehicle Parts as Appliances ([#58345](https://github.com/CleverRaven/Cataclysm-DDA/pull/58345))
