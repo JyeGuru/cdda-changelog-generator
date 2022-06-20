@@ -1,3 +1,6 @@
+* Ammonia fixes ([#58545](https://github.com/CleverRaven/Cataclysm-DDA/pull/58545))
+* Pocket Organize Fixes ([#58564](https://github.com/CleverRaven/Cataclysm-DDA/pull/58564))
+* clang fixes for health test ([#58578](https://github.com/CleverRaven/Cataclysm-DDA/pull/58578))
 
 ---
 
@@ -171,8 +174,5 @@
 * parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
 * Prevent making kevlar, nomex, and synthetic fabric from thread only ([#58296](https://github.com/CleverRaven/Cataclysm-DDA/pull/58296))
-* Allow hexagonrecursion to /confirmed bugs ([#58295](https://github.com/CleverRaven/Cataclysm-DDA/pull/58295))
 * Fixes fields at the ends of runways ([#58305](https://github.com/CleverRaven/Cataclysm-DDA/pull/58305))
 * Fixes undamaged bus station buses ([#58304](https://github.com/CleverRaven/Cataclysm-DDA/pull/58304))
-* Rename vehicle::__part_removal_actual() ([#58293](https://github.com/CleverRaven/Cataclysm-DDA/pull/58293))
-* Lab soldier/security lockers contain pristine ballstic plates ([#58294](https://github.com/CleverRaven/Cataclysm-DDA/pull/58294))
