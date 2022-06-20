@@ -130,7 +130,6 @@
 * Routine Tileset updates on 12 June 2022 ([#58387](https://github.com/CleverRaven/Cataclysm-DDA/pull/58387))
 * Layers and subparts for armor are now stored as sets ([#58341](https://github.com/CleverRaven/Cataclysm-DDA/pull/58341))
 * Mapgen readability improvements ([#58339](https://github.com/CleverRaven/Cataclysm-DDA/pull/58339))
-* Construction Site Overhaul ([#58283](https://github.com/CleverRaven/Cataclysm-DDA/pull/58283))
 * Extended toolset missing cut 2 ([#58396](https://github.com/CleverRaven/Cataclysm-DDA/pull/58396))
 * Remove const from declarations for clang-tidy ([#58415](https://github.com/CleverRaven/Cataclysm-DDA/pull/58415))
 * Padded military flight helmet ([#58393](https://github.com/CleverRaven/Cataclysm-DDA/pull/58393))
