@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-20-2312 (765f442)
 * Orc village overhaul (#58555)
 
 Cataclysm-DDA experimental build 2022-06-20-2159 (6ac3704)
@@ -78,8 +80,6 @@ Cataclysm-DDA experimental build 2022-06-17-1449 (8863600)
 Cataclysm-DDA experimental build 2022-06-17-1020 (bcf34db)
 * Rural house update (#58472)
 * Fixes (#58456)
-
-Cataclysm-DDA experimental build 2022-06-16-2017 (c992d94)
 * Classic Map Compatibility (#58409)
 * Update ko.json (#58453)
 * Fix crash in displaying NPC attack potential values (#58467)
