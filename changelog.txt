@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-20-1927 (eeef80f)
 * Fixes textile mill museum path (#58455)
 * Aircraft carrier: use console furniture instead of terrain (#58457)
 * consolidates entries together for armor (#58494)
@@ -80,8 +82,6 @@ Cataclysm-DDA experimental build 2022-06-16-1911 (52e7c2e)
 
 Cataclysm-DDA experimental build 2022-06-16-1811 (95afc89)
 * [DinoMod] egg cooking fix (#58466)
-
-Cataclysm-DDA experimental build 2022-06-16-0508 (f6be61e)
 * Minor glass workshop tweaks (#58450)
 * Increase range when failing to find nemesis position (#58382)
 * fixes #58386 (#58400)

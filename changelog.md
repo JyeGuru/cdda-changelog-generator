@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-20-1927 ([eeef80f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-1927))
+
 * Fixes textile mill museum path ([#58455](https://github.com/CleverRaven/Cataclysm-DDA/pull/58455))
 * Aircraft carrier: use console furniture instead of terrain ([#58457](https://github.com/CleverRaven/Cataclysm-DDA/pull/58457))
 * consolidates entries together for armor ([#58494](https://github.com/CleverRaven/Cataclysm-DDA/pull/58494))
@@ -131,11 +136,6 @@
 #### Cataclysm-DDA experimental build 2022-06-16-1811 ([95afc89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-1811))
 
 * [DinoMod] egg cooking fix ([#58466](https://github.com/CleverRaven/Cataclysm-DDA/pull/58466))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-16-0508 ([f6be61e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-0508))
-
 * Minor glass workshop tweaks ([#58450](https://github.com/CleverRaven/Cataclysm-DDA/pull/58450))
 * Increase range when failing to find nemesis position ([#58382](https://github.com/CleverRaven/Cataclysm-DDA/pull/58382))
 * fixes #58386 ([#58400](https://github.com/CleverRaven/Cataclysm-DDA/pull/58400))
