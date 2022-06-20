@@ -1,4 +1,12 @@
+* Fixes textile mill museum path ([#58455](https://github.com/CleverRaven/Cataclysm-DDA/pull/58455))
+* Aircraft carrier: use console furniture instead of terrain ([#58457](https://github.com/CleverRaven/Cataclysm-DDA/pull/58457))
+* consolidates entries together for armor ([#58494](https://github.com/CleverRaven/Cataclysm-DDA/pull/58494))
 * Ammonia fixes ([#58545](https://github.com/CleverRaven/Cataclysm-DDA/pull/58545))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-20-1759 ([008354a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-1759))
+
 * Pocket Organize Fixes ([#58564](https://github.com/CleverRaven/Cataclysm-DDA/pull/58564))
 * clang fixes for health test ([#58578](https://github.com/CleverRaven/Cataclysm-DDA/pull/58578))
 
@@ -164,15 +172,12 @@
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
 * Ablative armor can cover more than base armor ([#58331](https://github.com/CleverRaven/Cataclysm-DDA/pull/58331))
 * swappable shoulder strap to front ([#58311](https://github.com/CleverRaven/Cataclysm-DDA/pull/58311))
-* Add accessibility services warning to Android pre-launch menu ([#58297](https://github.com/CleverRaven/Cataclysm-DDA/pull/58297))
 * Custom sidebar - Allow layout widgets to specify a minimum width ([#58308](https://github.com/CleverRaven/Cataclysm-DDA/pull/58308))
 * added obsolete items flag ([#58316](https://github.com/CleverRaven/Cataclysm-DDA/pull/58316))
 * Fix Lynx Fur mutation ordering ([#58322](https://github.com/CleverRaven/Cataclysm-DDA/pull/58322))
 * Correct container quantities in crafting recipe information ([#58330](https://github.com/CleverRaven/Cataclysm-DDA/pull/58330))
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
-* parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
-* Prevent making kevlar, nomex, and synthetic fabric from thread only ([#58296](https://github.com/CleverRaven/Cataclysm-DDA/pull/58296))
 * Fixes fields at the ends of runways ([#58305](https://github.com/CleverRaven/Cataclysm-DDA/pull/58305))
 * Fixes undamaged bus station buses ([#58304](https://github.com/CleverRaven/Cataclysm-DDA/pull/58304))
