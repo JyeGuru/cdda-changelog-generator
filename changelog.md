@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-20-0913 ([57db2bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-0913))
+
+* Apply movement cost reduction from wearing rollerblades only if character is walking or running ([#58505](https://github.com/CleverRaven/Cataclysm-DDA/pull/58505))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-20-0708 ([d84d159](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-0708))
 
 * [Innawood] update map settings to include Forest and foliage overhaul ([#58540](https://github.com/CleverRaven/Cataclysm-DDA/pull/58540))
@@ -123,11 +129,6 @@
 * Increase range when failing to find nemesis position ([#58382](https://github.com/CleverRaven/Cataclysm-DDA/pull/58382))
 * fixes #58386 ([#58400](https://github.com/CleverRaven/Cataclysm-DDA/pull/58400))
 * [MOD] BlazeIndustries: Adds full size washing machine to vehicles ([#58424](https://github.com/CleverRaven/Cataclysm-DDA/pull/58424))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-16-0158 ([61f0263](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-0158))
-
 * Adds vehicles to hardware store parking lots ([#58443](https://github.com/CleverRaven/Cataclysm-DDA/pull/58443))
 * Fail rates audit ([#58428](https://github.com/CleverRaven/Cataclysm-DDA/pull/58428))
 * [Magiclysm] Weapon Categories touchup ([#58418](https://github.com/CleverRaven/Cataclysm-DDA/pull/58418))
@@ -174,5 +175,4 @@
 * Fixes fields at the ends of runways ([#58305](https://github.com/CleverRaven/Cataclysm-DDA/pull/58305))
 * Fixes undamaged bus station buses ([#58304](https://github.com/CleverRaven/Cataclysm-DDA/pull/58304))
 * Rename vehicle::__part_removal_actual() ([#58293](https://github.com/CleverRaven/Cataclysm-DDA/pull/58293))
-* Fix compile errors on macOS ([#58292](https://github.com/CleverRaven/Cataclysm-DDA/pull/58292))
 * Lab soldier/security lockers contain pristine ballstic plates ([#58294](https://github.com/CleverRaven/Cataclysm-DDA/pull/58294))
