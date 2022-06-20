@@ -1,3 +1,4 @@
+* Orc village overhaul (#58555)
 
 Cataclysm-DDA experimental build 2022-06-20-2159 (6ac3704)
 * Widgets: flag to omit column padding (#58543)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2022-06-16-2017 (c992d94)
 * Fix non-compiling test (#58326)
 * Ablative armor can cover more than base armor (#58331)
 * swappable shoulder strap to front (#58311)
-* Custom sidebar - Allow layout widgets to specify a minimum width (#58308)
 * added obsolete items flag (#58316)
 * Fix Lynx Fur mutation ordering (#58322)
 * Correct container quantities in crafting recipe information (#58330)

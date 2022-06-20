@@ -1,3 +1,4 @@
+* Orc village overhaul ([#58555](https://github.com/CleverRaven/Cataclysm-DDA/pull/58555))
 
 ---
 
@@ -174,7 +175,6 @@
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
 * Ablative armor can cover more than base armor ([#58331](https://github.com/CleverRaven/Cataclysm-DDA/pull/58331))
 * swappable shoulder strap to front ([#58311](https://github.com/CleverRaven/Cataclysm-DDA/pull/58311))
-* Custom sidebar - Allow layout widgets to specify a minimum width ([#58308](https://github.com/CleverRaven/Cataclysm-DDA/pull/58308))
 * added obsolete items flag ([#58316](https://github.com/CleverRaven/Cataclysm-DDA/pull/58316))
 * Fix Lynx Fur mutation ordering ([#58322](https://github.com/CleverRaven/Cataclysm-DDA/pull/58322))
 * Correct container quantities in crafting recipe information ([#58330](https://github.com/CleverRaven/Cataclysm-DDA/pull/58330))
