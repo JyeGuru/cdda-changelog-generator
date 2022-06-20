@@ -1,3 +1,10 @@
+* [Innawood] update map settings to include Forest and foliage overhaul ([#58540](https://github.com/CleverRaven/Cataclysm-DDA/pull/58540))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-20-0601 ([e642f08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-0601))
+
+* Forest glass ([#58538](https://github.com/CleverRaven/Cataclysm-DDA/pull/58538))
 * Correct logic for -Wno-unknown-warning-option ([#58523](https://github.com/CleverRaven/Cataclysm-DDA/pull/58523))
 * Stop loading on duplicate definition from same mod ([#58542](https://github.com/CleverRaven/Cataclysm-DDA/pull/58542))
 * Update expected shot damage in ranged balance test ([#58550](https://github.com/CleverRaven/Cataclysm-DDA/pull/58550))
@@ -162,7 +169,6 @@
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
 * parity for pristine ballistic vest groups ([#58300](https://github.com/CleverRaven/Cataclysm-DDA/pull/58300))
 * json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
-* [Innawood] fix bronze nail recipe ([#58284](https://github.com/CleverRaven/Cataclysm-DDA/pull/58284))
 * Prevent making kevlar, nomex, and synthetic fabric from thread only ([#58296](https://github.com/CleverRaven/Cataclysm-DDA/pull/58296))
 * Allow hexagonrecursion to /confirmed bugs ([#58295](https://github.com/CleverRaven/Cataclysm-DDA/pull/58295))
 * Fixes fields at the ends of runways ([#58305](https://github.com/CleverRaven/Cataclysm-DDA/pull/58305))
@@ -170,4 +176,3 @@
 * Rename vehicle::__part_removal_actual() ([#58293](https://github.com/CleverRaven/Cataclysm-DDA/pull/58293))
 * Fix compile errors on macOS ([#58292](https://github.com/CleverRaven/Cataclysm-DDA/pull/58292))
 * Lab soldier/security lockers contain pristine ballstic plates ([#58294](https://github.com/CleverRaven/Cataclysm-DDA/pull/58294))
-* Update kevlar to Kevlar ([#58291](https://github.com/CleverRaven/Cataclysm-DDA/pull/58291))
