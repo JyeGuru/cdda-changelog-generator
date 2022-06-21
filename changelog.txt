@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-21-1547 (d046929)
 * fixed minor grammar error in hub mercenary npc dialogue (#58591)
 
 Cataclysm-DDA experimental build 2022-06-21-1446 (cb4fd82)
@@ -80,8 +82,6 @@ Cataclysm-DDA experimental build 2022-06-19-0046 (1b74a10)
 Cataclysm-DDA experimental build 2022-06-18-1025 (b1a5586)
 * Reset steadiness after smashing corpses (#58507)
 * Fix overmap coverage test (#58442)
-
-Cataclysm-DDA experimental build 2022-06-17-1449 (8863600)
 * Reduce Kevlar Hulks' Night Vision Range (#58485)
 * Rural house update (#58472)
 * Fixes (#58456)
