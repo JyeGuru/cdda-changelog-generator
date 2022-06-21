@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-21-2140 ([f16a8c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-2140))
+
+* Marginally better display of refusal reason in trade UI ([#58583](https://github.com/CleverRaven/Cataclysm-DDA/pull/58583))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-21-1547 ([d046929](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-1547))
 
 * fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
@@ -99,12 +105,6 @@
 
 * Routine i18n updates on 18 June 2022 ([#58503](https://github.com/CleverRaven/Cataclysm-DDA/pull/58503))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-19-0414 ([3091c9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0414))
-
-* fix unloading containers which also have other types of pockets ([#58315](https://github.com/CleverRaven/Cataclysm-DDA/pull/58315))
 
 ---
 
