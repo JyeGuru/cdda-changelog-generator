@@ -1,8 +1,6 @@
 
 Cataclysm-DDA experimental build 2022-06-21-0758 (f80cdc8)
 * fixes 'science' attack to not mutate the player (#58589)
-
-Cataclysm-DDA experimental build 2022-06-20-2312 (765f442)
 * Orc village overhaul (#58555)
 
 Cataclysm-DDA experimental build 2022-06-20-2159 (6ac3704)
@@ -40,8 +38,6 @@ Cataclysm-DDA experimental build 2022-06-19-2347 (2a3a693)
 
 Cataclysm-DDA experimental build 2022-06-19-1722 (6e7d1a9)
 * Fixes a few recipes i missed in tailoring audit (#58539)
-
-Cataclysm-DDA experimental build 2022-06-19-0725 (cc694a8)
 * added heavy vest to soldier spawn groups (#58490)
 * Make repeat_clang_tidy more concurrency-safe (#58521)
 
@@ -83,6 +79,8 @@ Cataclysm-DDA experimental build 2022-06-17-1449 (8863600)
 Cataclysm-DDA experimental build 2022-06-17-1020 (bcf34db)
 * Rural house update (#58472)
 * Fixes (#58456)
+
+Cataclysm-DDA experimental build 2022-06-16-2017 (c992d94)
 * Classic Map Compatibility (#58409)
 * Update ko.json (#58453)
 * Fix crash in displaying NPC attack potential values (#58467)

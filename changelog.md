@@ -4,11 +4,6 @@
 #### Cataclysm-DDA experimental build 2022-06-21-0758 ([f80cdc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-0758))
 
 * fixes 'science' attack to not mutate the player ([#58589](https://github.com/CleverRaven/Cataclysm-DDA/pull/58589))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-20-2312 ([765f442](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-2312))
-
 * Orc village overhaul ([#58555](https://github.com/CleverRaven/Cataclysm-DDA/pull/58555))
 
 ---
@@ -73,11 +68,6 @@
 #### Cataclysm-DDA experimental build 2022-06-19-1722 ([6e7d1a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-1722))
 
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-19-0725 ([cc694a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0725))
-
 * added heavy vest to soldier spawn groups ([#58490](https://github.com/CleverRaven/Cataclysm-DDA/pull/58490))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
 
@@ -140,6 +130,11 @@
 
 * Rural house update ([#58472](https://github.com/CleverRaven/Cataclysm-DDA/pull/58472))
 * Fixes ([#58456](https://github.com/CleverRaven/Cataclysm-DDA/pull/58456))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-16-2017 ([c992d94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-16-2017))
+
 * Classic Map Compatibility ([#58409](https://github.com/CleverRaven/Cataclysm-DDA/pull/58409))
 * Update ko.json ([#58453](https://github.com/CleverRaven/Cataclysm-DDA/pull/58453))
 * Fix crash in displaying NPC attack potential values ([#58467](https://github.com/CleverRaven/Cataclysm-DDA/pull/58467))
