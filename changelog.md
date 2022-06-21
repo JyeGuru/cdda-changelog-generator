@@ -1,3 +1,10 @@
+* fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-21-1446 ([cb4fd82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-1446))
+
+* Repairs_like for ballistic armor ([#58551](https://github.com/CleverRaven/Cataclysm-DDA/pull/58551))
 
 ---
 
@@ -133,11 +140,6 @@
 #### Cataclysm-DDA experimental build 2022-06-17-1449 ([8863600](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-17-1449))
 
 * Reduce Kevlar Hulks' Night Vision Range ([#58485](https://github.com/CleverRaven/Cataclysm-DDA/pull/58485))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-17-1020 ([bcf34db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-17-1020))
-
 * Rural house update ([#58472](https://github.com/CleverRaven/Cataclysm-DDA/pull/58472))
 * Fixes ([#58456](https://github.com/CleverRaven/Cataclysm-DDA/pull/58456))
 * Classic Map Compatibility ([#58409](https://github.com/CleverRaven/Cataclysm-DDA/pull/58409))
@@ -180,10 +182,8 @@
 * Routine i18n updates on 11 June 2022 ([#58343](https://github.com/CleverRaven/Cataclysm-DDA/pull/58343))
 * Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
 * Ablative armor can cover more than base armor ([#58331](https://github.com/CleverRaven/Cataclysm-DDA/pull/58331))
-* swappable shoulder strap to front ([#58311](https://github.com/CleverRaven/Cataclysm-DDA/pull/58311))
 * added obsolete items flag ([#58316](https://github.com/CleverRaven/Cataclysm-DDA/pull/58316))
 * Fix Lynx Fur mutation ordering ([#58322](https://github.com/CleverRaven/Cataclysm-DDA/pull/58322))
 * Correct container quantities in crafting recipe information ([#58330](https://github.com/CleverRaven/Cataclysm-DDA/pull/58330))
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
 * [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
-* json/construction: tamp ground for free ([#58314](https://github.com/CleverRaven/Cataclysm-DDA/pull/58314))
