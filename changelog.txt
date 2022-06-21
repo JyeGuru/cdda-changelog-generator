@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-21-0758 (f80cdc8)
+* fixes 'science' attack to not mutate the player (#58589)
+
 Cataclysm-DDA experimental build 2022-06-20-2312 (765f442)
 * Orc village overhaul (#58555)
 
