@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-22-1940 ([bcd8b3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-1940))
+
 * Add wild plant seeds ([#58557](https://github.com/CleverRaven/Cataclysm-DDA/pull/58557))
 * Fix blocking with weapon when wearing armor that blocks. ([#58579](https://github.com/CleverRaven/Cataclysm-DDA/pull/58579))
 * Sort armor UI item information pane cleanup ([#58463](https://github.com/CleverRaven/Cataclysm-DDA/pull/58463))
@@ -159,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2022-06-19-0046 ([1b74a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0046))
 
 * Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-18-1025 ([b1a5586](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-18-1025))
-
 * Reset steadiness after smashing corpses ([#58507](https://github.com/CleverRaven/Cataclysm-DDA/pull/58507))
 * Fix overmap coverage test ([#58442](https://github.com/CleverRaven/Cataclysm-DDA/pull/58442))
 * Reduce Kevlar Hulks' Night Vision Range ([#58485](https://github.com/CleverRaven/Cataclysm-DDA/pull/58485))

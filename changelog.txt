@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-22-1940 (bcd8b3b)
 * Add wild plant seeds (#58557)
 * Fix blocking with weapon when wearing armor that blocks. (#58579)
 * Sort armor UI item information pane cleanup (#58463)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2022-06-19-0225 (03f4e32)
 
 Cataclysm-DDA experimental build 2022-06-19-0046 (1b74a10)
 * Enable misc-redundant-expression (#58531)
-
-Cataclysm-DDA experimental build 2022-06-18-1025 (b1a5586)
 * Reset steadiness after smashing corpses (#58507)
 * Fix overmap coverage test (#58442)
 * Reduce Kevlar Hulks' Night Vision Range (#58485)
