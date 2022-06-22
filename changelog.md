@@ -1,3 +1,5 @@
+* Add wild plant seeds ([#58557](https://github.com/CleverRaven/Cataclysm-DDA/pull/58557))
+* Fix blocking with weapon when wearing armor that blocks. ([#58579](https://github.com/CleverRaven/Cataclysm-DDA/pull/58579))
 * Sort armor UI item information pane cleanup ([#58463](https://github.com/CleverRaven/Cataclysm-DDA/pull/58463))
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
@@ -192,7 +194,5 @@
 * Account for batch size in companion crafting byproducts ([#58378](https://github.com/CleverRaven/Cataclysm-DDA/pull/58378))
 * Fix AFS nested chunk errors ([#58381](https://github.com/CleverRaven/Cataclysm-DDA/pull/58381))
 * Fixes melee attack_vector to properly use the weapon ([#58373](https://github.com/CleverRaven/Cataclysm-DDA/pull/58373))
-* Fix crash due to zero-charge milling result ([#58348](https://github.com/CleverRaven/Cataclysm-DDA/pull/58348))
 * Remove extra space ([#58363](https://github.com/CleverRaven/Cataclysm-DDA/pull/58363))
-* Change keybinding names to sentence case ([#58350](https://github.com/CleverRaven/Cataclysm-DDA/pull/58350))
 * Add missing full stop to Magiclysm description ([#58361](https://github.com/CleverRaven/Cataclysm-DDA/pull/58361))
