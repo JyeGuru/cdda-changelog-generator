@@ -1,3 +1,7 @@
+* Peek over ledges (#58611)
+
+Cataclysm-DDA experimental build 2022-06-22-1839 (9bae48c)
+* Fixed road connection to TCL (#58620)
 
 Cataclysm-DDA experimental build 2022-06-22-1357 (92acd0c)
 * hotfix build error in widget.cpp  (#58592)
@@ -130,6 +134,4 @@ Cataclysm-DDA experimental build 2022-06-18-1025 (b1a5586)
 * Routine i18n updates on 11 June 2022 (#58343)
 * Fix non-compiling test (#58326)
 * Ablative armor can cover more than base armor (#58331)
-* Fix Lynx Fur mutation ordering (#58322)
 * Correct container quantities in crafting recipe information (#58330)
-* Remove underscores from name (#58323)
