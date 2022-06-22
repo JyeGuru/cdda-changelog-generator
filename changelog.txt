@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-22-1357 (92acd0c)
+* hotfix build error in widget.cpp  (#58592)
+
 Cataclysm-DDA experimental build 2022-06-22-0515 (9d30272)
 * add metal bars to empty window frames (#58599)
 
@@ -131,4 +134,3 @@ Cataclysm-DDA experimental build 2022-06-18-1025 (b1a5586)
 * Fix Lynx Fur mutation ordering (#58322)
 * Correct container quantities in crafting recipe information (#58330)
 * Remove underscores from name (#58323)
-* [DinoMod] horn stab stretch attack (#58319)

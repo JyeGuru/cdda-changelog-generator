@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-22-1357 ([92acd0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-1357))
+
+* hotfix build error in widget.cpp  ([#58592](https://github.com/CleverRaven/Cataclysm-DDA/pull/58592))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-22-0515 ([9d30272](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-0515))
 
 * add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))
@@ -191,4 +197,3 @@
 * Fix Lynx Fur mutation ordering ([#58322](https://github.com/CleverRaven/Cataclysm-DDA/pull/58322))
 * Correct container quantities in crafting recipe information ([#58330](https://github.com/CleverRaven/Cataclysm-DDA/pull/58330))
 * Remove underscores from name ([#58323](https://github.com/CleverRaven/Cataclysm-DDA/pull/58323))
-* [DinoMod] horn stab stretch attack ([#58319](https://github.com/CleverRaven/Cataclysm-DDA/pull/58319))
