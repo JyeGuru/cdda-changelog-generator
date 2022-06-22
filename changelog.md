@@ -1,3 +1,12 @@
+* Fix a bug in the mutations code preventing removal of mutations not matching current category ([#58530](https://github.com/CleverRaven/Cataclysm-DDA/pull/58530))
+* Don't display hidden mutations on the mutations screen ([#58520](https://github.com/CleverRaven/Cataclysm-DDA/pull/58520))
+* Ladybugs ([#58547](https://github.com/CleverRaven/Cataclysm-DDA/pull/58547))
+* Description fix for new military containers ([#58576](https://github.com/CleverRaven/Cataclysm-DDA/pull/58576))
+* fixes riot turrets to not shoot through obstacles ([#58569](https://github.com/CleverRaven/Cataclysm-DDA/pull/58569))
+* Mini lighter ([#58567](https://github.com/CleverRaven/Cataclysm-DDA/pull/58567))
+* Add recipes for refreshing fire drills ([#58559](https://github.com/CleverRaven/Cataclysm-DDA/pull/58559))
+* [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
+* [DinoMod] autolearn simple dino armor ([#58590](https://github.com/CleverRaven/Cataclysm-DDA/pull/58590))
 * Peek over ledges ([#58611](https://github.com/CleverRaven/Cataclysm-DDA/pull/58611))
 
 ---
@@ -53,12 +62,6 @@
 #### Cataclysm-DDA experimental build 2022-06-20-2159 ([6ac3704](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-2159))
 
 * Widgets: flag to omit column padding ([#58543](https://github.com/CleverRaven/Cataclysm-DDA/pull/58543))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-20-2055 ([d01948f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-2055))
-
-* uilist: don't scroll when mousing over ([#58335](https://github.com/CleverRaven/Cataclysm-DDA/pull/58335))
 
 ---
 
@@ -177,13 +180,10 @@
 * Sort armor UI small screen cleanup and scrollbars ([#58351](https://github.com/CleverRaven/Cataclysm-DDA/pull/58351))
 * Added Vehicle Parts as Appliances ([#58345](https://github.com/CleverRaven/Cataclysm-DDA/pull/58345))
 * Routine Tileset updates on 12 June 2022 ([#58387](https://github.com/CleverRaven/Cataclysm-DDA/pull/58387))
-* Layers and subparts for armor are now stored as sets ([#58341](https://github.com/CleverRaven/Cataclysm-DDA/pull/58341))
-* Mapgen readability improvements ([#58339](https://github.com/CleverRaven/Cataclysm-DDA/pull/58339))
 * Extended toolset missing cut 2 ([#58396](https://github.com/CleverRaven/Cataclysm-DDA/pull/58396))
 * Remove const from declarations for clang-tidy ([#58415](https://github.com/CleverRaven/Cataclysm-DDA/pull/58415))
 * Padded military flight helmet ([#58393](https://github.com/CleverRaven/Cataclysm-DDA/pull/58393))
 * Remove WATER_PROOF and HOOD flags from dress uniform ([#58403](https://github.com/CleverRaven/Cataclysm-DDA/pull/58403))
-* Fix null dereference in `vehicle_part::info` ([#58334](https://github.com/CleverRaven/Cataclysm-DDA/pull/58334))
 * Make Water Purifier furniture Easily Deconstructable ([#58357](https://github.com/CleverRaven/Cataclysm-DDA/pull/58357))
 * Add copper melting recipe ([#58379](https://github.com/CleverRaven/Cataclysm-DDA/pull/58379))
 * Added the ability to customize label separators for sidebar widgets ([#58355](https://github.com/CleverRaven/Cataclysm-DDA/pull/58355))
@@ -192,12 +192,7 @@
 * Fixes melee attack_vector to properly use the weapon ([#58373](https://github.com/CleverRaven/Cataclysm-DDA/pull/58373))
 * Fix crash due to zero-charge milling result ([#58348](https://github.com/CleverRaven/Cataclysm-DDA/pull/58348))
 * Remove extra space ([#58363](https://github.com/CleverRaven/Cataclysm-DDA/pull/58363))
-* Update ko.json ([#58329](https://github.com/CleverRaven/Cataclysm-DDA/pull/58329))
 * Change keybinding names to sentence case ([#58350](https://github.com/CleverRaven/Cataclysm-DDA/pull/58350))
 * Add missing full stop to Magiclysm description ([#58361](https://github.com/CleverRaven/Cataclysm-DDA/pull/58361))
-* Fixes mismatched farmhouse roof ([#58333](https://github.com/CleverRaven/Cataclysm-DDA/pull/58333))
 * Drop Classic flag from Ant Hill ([#58346](https://github.com/CleverRaven/Cataclysm-DDA/pull/58346))
 * Routine i18n updates on 11 June 2022 ([#58343](https://github.com/CleverRaven/Cataclysm-DDA/pull/58343))
-* Fix non-compiling test ([#58326](https://github.com/CleverRaven/Cataclysm-DDA/pull/58326))
-* Ablative armor can cover more than base armor ([#58331](https://github.com/CleverRaven/Cataclysm-DDA/pull/58331))
-* Correct container quantities in crafting recipe information ([#58330](https://github.com/CleverRaven/Cataclysm-DDA/pull/58330))
