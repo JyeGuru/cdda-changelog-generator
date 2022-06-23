@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-23-0500 (bedb303)
 * Reduce wintergreen oil pkill effect (#58642)
 * Increased height of aim window by one point to fix overlapping monster speed description and steadiness display (#58460)
 * Don't offer dropping unwieldable weapons when talking with NPCs (#58622)
