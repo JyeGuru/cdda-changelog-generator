@@ -1,3 +1,4 @@
+* Do not try to show info of "on" variants for power armor that are already on ([#58595](https://github.com/CleverRaven/Cataclysm-DDA/pull/58595))
 
 ---
 

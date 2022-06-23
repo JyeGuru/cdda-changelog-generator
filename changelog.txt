@@ -1,3 +1,4 @@
+* Do not try to show info of "on" variants for power armor that are already on (#58595)
 
 Cataclysm-DDA experimental build 2022-06-23-0500 (bedb303)
 * Reduce wintergreen oil pkill effect (#58642)
