@@ -1,3 +1,5 @@
+* Reduce wintergreen oil pkill effect (#58642)
+* Increased height of aim window by one point to fix overlapping monster speed description and steadiness display (#58460)
 * Don't offer dropping unwieldable weapons when talking with NPCs (#58622)
 * Aftershock: Remove the 3x4 formless ruin special (#58629)
 
@@ -133,5 +135,3 @@ Cataclysm-DDA experimental build 2022-06-19-0046 (1b74a10)
 * Account for batch size in companion crafting byproducts (#58378)
 * Fix AFS nested chunk errors (#58381)
 * Fixes melee attack_vector to properly use the weapon (#58373)
-* Remove extra space (#58363)
-* Add missing full stop to Magiclysm description (#58361)

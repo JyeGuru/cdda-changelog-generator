@@ -1,3 +1,5 @@
+* Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))
+* Increased height of aim window by one point to fix overlapping monster speed description and steadiness display ([#58460](https://github.com/CleverRaven/Cataclysm-DDA/pull/58460))
 * Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
 * Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
 
@@ -199,5 +201,3 @@
 * Account for batch size in companion crafting byproducts ([#58378](https://github.com/CleverRaven/Cataclysm-DDA/pull/58378))
 * Fix AFS nested chunk errors ([#58381](https://github.com/CleverRaven/Cataclysm-DDA/pull/58381))
 * Fixes melee attack_vector to properly use the weapon ([#58373](https://github.com/CleverRaven/Cataclysm-DDA/pull/58373))
-* Remove extra space ([#58363](https://github.com/CleverRaven/Cataclysm-DDA/pull/58363))
-* Add missing full stop to Magiclysm description ([#58361](https://github.com/CleverRaven/Cataclysm-DDA/pull/58361))
