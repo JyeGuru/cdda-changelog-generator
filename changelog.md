@@ -1,3 +1,11 @@
+* Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
+* Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-23-0349 ([1cabfb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-23-0349))
+
+* hide collapsed and sealed items in organize menu ([#58612](https://github.com/CleverRaven/Cataclysm-DDA/pull/58612))
 
 ---
 
@@ -182,15 +190,12 @@
 * Fail rates audit ([#58428](https://github.com/CleverRaven/Cataclysm-DDA/pull/58428))
 * [Magiclysm] Weapon Categories touchup ([#58418](https://github.com/CleverRaven/Cataclysm-DDA/pull/58418))
 * Fixes misspelling of satellite ([#58420](https://github.com/CleverRaven/Cataclysm-DDA/pull/58420))
-* Sort armor UI small screen cleanup and scrollbars ([#58351](https://github.com/CleverRaven/Cataclysm-DDA/pull/58351))
 * Routine Tileset updates on 12 June 2022 ([#58387](https://github.com/CleverRaven/Cataclysm-DDA/pull/58387))
 * Extended toolset missing cut 2 ([#58396](https://github.com/CleverRaven/Cataclysm-DDA/pull/58396))
 * Remove const from declarations for clang-tidy ([#58415](https://github.com/CleverRaven/Cataclysm-DDA/pull/58415))
 * Padded military flight helmet ([#58393](https://github.com/CleverRaven/Cataclysm-DDA/pull/58393))
 * Remove WATER_PROOF and HOOD flags from dress uniform ([#58403](https://github.com/CleverRaven/Cataclysm-DDA/pull/58403))
-* Make Water Purifier furniture Easily Deconstructable ([#58357](https://github.com/CleverRaven/Cataclysm-DDA/pull/58357))
 * Add copper melting recipe ([#58379](https://github.com/CleverRaven/Cataclysm-DDA/pull/58379))
-* Added the ability to customize label separators for sidebar widgets ([#58355](https://github.com/CleverRaven/Cataclysm-DDA/pull/58355))
 * Account for batch size in companion crafting byproducts ([#58378](https://github.com/CleverRaven/Cataclysm-DDA/pull/58378))
 * Fix AFS nested chunk errors ([#58381](https://github.com/CleverRaven/Cataclysm-DDA/pull/58381))
 * Fixes melee attack_vector to properly use the weapon ([#58373](https://github.com/CleverRaven/Cataclysm-DDA/pull/58373))
