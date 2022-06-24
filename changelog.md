@@ -42,6 +42,11 @@
 #### Cataclysm-DDA experimental build 2022-06-23-0349 ([1cabfb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-23-0349))
 
 * hide collapsed and sealed items in organize menu ([#58612](https://github.com/CleverRaven/Cataclysm-DDA/pull/58612))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-22-1940 ([bcd8b3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-1940))
+
 * Add wild plant seeds ([#58557](https://github.com/CleverRaven/Cataclysm-DDA/pull/58557))
 * Fix blocking with weapon when wearing armor that blocks. ([#58579](https://github.com/CleverRaven/Cataclysm-DDA/pull/58579))
 * Sort armor UI item information pane cleanup ([#58463](https://github.com/CleverRaven/Cataclysm-DDA/pull/58463))
@@ -69,6 +74,11 @@
 #### Cataclysm-DDA experimental build 2022-06-22-1357 ([92acd0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-1357))
 
 * hotfix build error in widget.cpp  ([#58592](https://github.com/CleverRaven/Cataclysm-DDA/pull/58592))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-22-0515 ([9d30272](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-0515))
+
 * add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))
 
 ---
@@ -76,6 +86,11 @@
 #### Cataclysm-DDA experimental build 2022-06-21-2140 ([f16a8c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-2140))
 
 * Marginally better display of refusal reason in trade UI ([#58583](https://github.com/CleverRaven/Cataclysm-DDA/pull/58583))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-21-1547 ([d046929](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-1547))
+
 * fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
 
 ---
@@ -146,6 +161,11 @@
 #### Cataclysm-DDA experimental build 2022-06-19-2347 ([2a3a693](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-2347))
 
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-19-1722 ([6e7d1a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-1722))
+
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
 
 ---
@@ -176,11 +196,6 @@
 * New foliage capitalization ([#58518](https://github.com/CleverRaven/Cataclysm-DDA/pull/58518))
 * Add hyphen to AA-12 magazine names ([#58525](https://github.com/CleverRaven/Cataclysm-DDA/pull/58525))
 * Add missing dot to a spell description ([#58526](https://github.com/CleverRaven/Cataclysm-DDA/pull/58526))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-19-0046 ([1b74a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0046))
-
 * Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
 * Reset steadiness after smashing corpses ([#58507](https://github.com/CleverRaven/Cataclysm-DDA/pull/58507))
 * Fix overmap coverage test ([#58442](https://github.com/CleverRaven/Cataclysm-DDA/pull/58442))
