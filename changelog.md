@@ -211,4 +211,3 @@
 * Add copper melting recipe ([#58379](https://github.com/CleverRaven/Cataclysm-DDA/pull/58379))
 * Account for batch size in companion crafting byproducts ([#58378](https://github.com/CleverRaven/Cataclysm-DDA/pull/58378))
 * Fix AFS nested chunk errors ([#58381](https://github.com/CleverRaven/Cataclysm-DDA/pull/58381))
-* Fixes melee attack_vector to properly use the weapon ([#58373](https://github.com/CleverRaven/Cataclysm-DDA/pull/58373))
