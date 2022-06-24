@@ -5,7 +5,6 @@
 
 * Added explanation of repairs-like flag to documentation ([#58630](https://github.com/CleverRaven/Cataclysm-DDA/pull/58630))
 * Bandit cabin, bandit camp, bandit garage roof ([#58522](https://github.com/CleverRaven/Cataclysm-DDA/pull/58522))
-* Typo and Grammar Fix in Proficiencies ([#58431](https://github.com/CleverRaven/Cataclysm-DDA/pull/58431))
 * Fix radiation from radioactive items ([#58449](https://github.com/CleverRaven/Cataclysm-DDA/pull/58449))
 * Enable bugprone-signed-char-misuse ([#58527](https://github.com/CleverRaven/Cataclysm-DDA/pull/58527))
 * Fix pocket insertion nested item crash ([#58618](https://github.com/CleverRaven/Cataclysm-DDA/pull/58618))
