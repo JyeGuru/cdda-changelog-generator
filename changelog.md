@@ -1,3 +1,13 @@
+* Nerfed praying mantises ([#58568](https://github.com/CleverRaven/Cataclysm-DDA/pull/58568))
+* Add ammonia to migration json ([#58652](https://github.com/CleverRaven/Cataclysm-DDA/pull/58652))
+* Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
+* Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
+* fixes for organize menu clarity ([#58653](https://github.com/CleverRaven/Cataclysm-DDA/pull/58653))
+* Add learn spells to magic.md and also some formatting ([#58528](https://github.com/CleverRaven/Cataclysm-DDA/pull/58528))
+* Simple tailoring items craftable without metal tools ([#58565](https://github.com/CleverRaven/Cataclysm-DDA/pull/58565))
+* Remove separate toilet examine function and replace it with a generic one ([#58486](https://github.com/CleverRaven/Cataclysm-DDA/pull/58486))
+* Adds proper radio towers to radio stations ([#58468](https://github.com/CleverRaven/Cataclysm-DDA/pull/58468))
+* Put Rubik uninstall prices more in-line with install ([#58440](https://github.com/CleverRaven/Cataclysm-DDA/pull/58440))
 
 ---
 
@@ -158,12 +168,6 @@
 
 * Routine i18n updates on 18 June 2022 ([#58503](https://github.com/CleverRaven/Cataclysm-DDA/pull/58503))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-19-0225 ([03f4e32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0225))
-
-* Improvised oven has other plate options, and pocket isn't sealed ([#58394](https://github.com/CleverRaven/Cataclysm-DDA/pull/58394))
 * [DinoMod] nightstalkers ([#58477](https://github.com/CleverRaven/Cataclysm-DDA/pull/58477))
 * [Magiclysm] Vault Fixes and defenses ([#58499](https://github.com/CleverRaven/Cataclysm-DDA/pull/58499))
 * Fixes duplicate entry error for Autodoc bionic installation ([#58474](https://github.com/CleverRaven/Cataclysm-DDA/pull/58474))
@@ -179,11 +183,6 @@
 * New foliage capitalization ([#58518](https://github.com/CleverRaven/Cataclysm-DDA/pull/58518))
 * Add hyphen to AA-12 magazine names ([#58525](https://github.com/CleverRaven/Cataclysm-DDA/pull/58525))
 * Add missing dot to a spell description ([#58526](https://github.com/CleverRaven/Cataclysm-DDA/pull/58526))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-19-0046 ([1b74a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0046))
-
 * Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
 * Reset steadiness after smashing corpses ([#58507](https://github.com/CleverRaven/Cataclysm-DDA/pull/58507))
 * Fix overmap coverage test ([#58442](https://github.com/CleverRaven/Cataclysm-DDA/pull/58442))
@@ -196,18 +195,9 @@
 * Fix crash when pressing load button in main menu if there is no world ([#58465](https://github.com/CleverRaven/Cataclysm-DDA/pull/58465))
 * [DinoMod] egg cooking fix ([#58466](https://github.com/CleverRaven/Cataclysm-DDA/pull/58466))
 * Minor glass workshop tweaks ([#58450](https://github.com/CleverRaven/Cataclysm-DDA/pull/58450))
-* Increase range when failing to find nemesis position ([#58382](https://github.com/CleverRaven/Cataclysm-DDA/pull/58382))
-* fixes #58386 ([#58400](https://github.com/CleverRaven/Cataclysm-DDA/pull/58400))
 * [MOD] BlazeIndustries: Adds full size washing machine to vehicles ([#58424](https://github.com/CleverRaven/Cataclysm-DDA/pull/58424))
 * Adds vehicles to hardware store parking lots ([#58443](https://github.com/CleverRaven/Cataclysm-DDA/pull/58443))
 * Fail rates audit ([#58428](https://github.com/CleverRaven/Cataclysm-DDA/pull/58428))
 * [Magiclysm] Weapon Categories touchup ([#58418](https://github.com/CleverRaven/Cataclysm-DDA/pull/58418))
 * Fixes misspelling of satellite ([#58420](https://github.com/CleverRaven/Cataclysm-DDA/pull/58420))
-* Routine Tileset updates on 12 June 2022 ([#58387](https://github.com/CleverRaven/Cataclysm-DDA/pull/58387))
-* Extended toolset missing cut 2 ([#58396](https://github.com/CleverRaven/Cataclysm-DDA/pull/58396))
 * Remove const from declarations for clang-tidy ([#58415](https://github.com/CleverRaven/Cataclysm-DDA/pull/58415))
-* Padded military flight helmet ([#58393](https://github.com/CleverRaven/Cataclysm-DDA/pull/58393))
-* Remove WATER_PROOF and HOOD flags from dress uniform ([#58403](https://github.com/CleverRaven/Cataclysm-DDA/pull/58403))
-* Add copper melting recipe ([#58379](https://github.com/CleverRaven/Cataclysm-DDA/pull/58379))
-* Account for batch size in companion crafting byproducts ([#58378](https://github.com/CleverRaven/Cataclysm-DDA/pull/58378))
-* Fix AFS nested chunk errors ([#58381](https://github.com/CleverRaven/Cataclysm-DDA/pull/58381))
