@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-24-0811 ([131cea4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-24-0811))
+
+* Added explanation of repairs-like flag to documentation ([#58630](https://github.com/CleverRaven/Cataclysm-DDA/pull/58630))
 * Bandit cabin, bandit camp, bandit garage roof ([#58522](https://github.com/CleverRaven/Cataclysm-DDA/pull/58522))
 * Typo and Grammar Fix in Proficiencies ([#58431](https://github.com/CleverRaven/Cataclysm-DDA/pull/58431))
 * Fix radiation from radioactive items ([#58449](https://github.com/CleverRaven/Cataclysm-DDA/pull/58449))
