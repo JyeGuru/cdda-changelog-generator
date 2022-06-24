@@ -23,7 +23,6 @@ Cataclysm-DDA experimental build 2022-06-24-0811 (131cea4)
 * Simple tailoring items craftable without metal tools (#58565)
 * Remove separate toilet examine function and replace it with a generic one (#58486)
 * Adds proper radio towers to radio stations (#58468)
-* Put Rubik uninstall prices more in-line with install (#58440)
 
 Cataclysm-DDA experimental build 2022-06-23-0628 (e34eeaa)
 * Do not try to show info of "on" variants for power armor that are already on (#58595)

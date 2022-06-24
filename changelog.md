@@ -32,7 +32,6 @@
 * Simple tailoring items craftable without metal tools ([#58565](https://github.com/CleverRaven/Cataclysm-DDA/pull/58565))
 * Remove separate toilet examine function and replace it with a generic one ([#58486](https://github.com/CleverRaven/Cataclysm-DDA/pull/58486))
 * Adds proper radio towers to radio stations ([#58468](https://github.com/CleverRaven/Cataclysm-DDA/pull/58468))
-* Put Rubik uninstall prices more in-line with install ([#58440](https://github.com/CleverRaven/Cataclysm-DDA/pull/58440))
 
 ---
 
