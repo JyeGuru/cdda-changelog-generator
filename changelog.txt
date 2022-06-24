@@ -1,3 +1,8 @@
+* New Bunker Mapgen (#58665)
+* More Unload for zones (#58661)
+
+Cataclysm-DDA experimental build 2022-06-24-1649 (2bedf75)
+* hotfix build error in map.cpp (#58680)
 
 Cataclysm-DDA experimental build 2022-06-24-0811 (131cea4)
 * Added explanation of repairs-like flag to documentation (#58630)
@@ -100,8 +105,6 @@ Cataclysm-DDA experimental build 2022-06-20-0601 (e642f08)
 
 Cataclysm-DDA experimental build 2022-06-19-2347 (2a3a693)
 * Peek across misaligned z levels (#58560)
-
-Cataclysm-DDA experimental build 2022-06-19-1722 (6e7d1a9)
 * Fixes a few recipes i missed in tailoring audit (#58539)
 * added heavy vest to soldier spawn groups (#58490)
 * Make repeat_clang_tidy more concurrency-safe (#58521)

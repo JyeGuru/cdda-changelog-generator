@@ -1,3 +1,11 @@
+* New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
+* More Unload for zones ([#58661](https://github.com/CleverRaven/Cataclysm-DDA/pull/58661))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-24-1649 ([2bedf75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-24-1649))
+
+* hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
 
 ---
 
@@ -160,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-06-19-2347 ([2a3a693](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-2347))
 
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-19-1722 ([6e7d1a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-1722))
-
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
 * added heavy vest to soldier spawn groups ([#58490](https://github.com/CleverRaven/Cataclysm-DDA/pull/58490))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
