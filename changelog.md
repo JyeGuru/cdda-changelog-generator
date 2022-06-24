@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-24-1819 ([1e21b88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-24-1819))
+
 * New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
 * More Unload for zones ([#58661](https://github.com/CleverRaven/Cataclysm-DDA/pull/58661))
 
@@ -162,11 +167,6 @@
 * Update expected shot damage in ranged balance test ([#58550](https://github.com/CleverRaven/Cataclysm-DDA/pull/58550))
 * scoot down the item bodygraphs ([#58553](https://github.com/CleverRaven/Cataclysm-DDA/pull/58553))
 * Routine Tileset updates on 19 June 2022 ([#58562](https://github.com/CleverRaven/Cataclysm-DDA/pull/58562))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-19-2347 ([2a3a693](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-2347))
-
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
 * added heavy vest to soldier spawn groups ([#58490](https://github.com/CleverRaven/Cataclysm-DDA/pull/58490))
