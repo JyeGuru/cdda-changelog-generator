@@ -173,11 +173,6 @@
 
 * added heavy vest to soldier spawn groups ([#58490](https://github.com/CleverRaven/Cataclysm-DDA/pull/58490))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-19-0546 ([a657a5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-19-0546))
-
 * Routine i18n updates on 18 June 2022 ([#58503](https://github.com/CleverRaven/Cataclysm-DDA/pull/58503))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
 * [DinoMod] nightstalkers ([#58477](https://github.com/CleverRaven/Cataclysm-DDA/pull/58477))
