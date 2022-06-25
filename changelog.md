@@ -1,3 +1,4 @@
+* Restricted Gasoline Zeds to Gas Stations (w/ rare chance) ([#58649](https://github.com/CleverRaven/Cataclysm-DDA/pull/58649))
 * Updates even more locations ([#58585](https://github.com/CleverRaven/Cataclysm-DDA/pull/58585))
 * Allow placing f_null on open air ([#58574](https://github.com/CleverRaven/Cataclysm-DDA/pull/58574))
 * Extract examine_action to translate ([#58573](https://github.com/CleverRaven/Cataclysm-DDA/pull/58573))
@@ -87,7 +88,6 @@
 
 * Add wild plant seeds ([#58557](https://github.com/CleverRaven/Cataclysm-DDA/pull/58557))
 * Fix blocking with weapon when wearing armor that blocks. ([#58579](https://github.com/CleverRaven/Cataclysm-DDA/pull/58579))
-* Sort armor UI item information pane cleanup ([#58463](https://github.com/CleverRaven/Cataclysm-DDA/pull/58463))
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
 * Fix a bug in the mutations code preventing removal of mutations not matching current category ([#58530](https://github.com/CleverRaven/Cataclysm-DDA/pull/58530))
