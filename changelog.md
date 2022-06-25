@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-25-1745 ([5ea8d0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-1745))
+
+* CR Aftershock Exosuit Melee ([#58617](https://github.com/CleverRaven/Cataclysm-DDA/pull/58617))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-25-0836 ([55adc9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0836))
 
 * JSON Sidebar regression fixes ([#58678](https://github.com/CleverRaven/Cataclysm-DDA/pull/58678))
@@ -175,11 +181,6 @@
 
 * Pocket Organize Fixes ([#58564](https://github.com/CleverRaven/Cataclysm-DDA/pull/58564))
 * clang fixes for health test ([#58578](https://github.com/CleverRaven/Cataclysm-DDA/pull/58578))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-20-0913 ([57db2bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-0913))
-
 * Apply movement cost reduction from wearing rollerblades only if character is walking or running ([#58505](https://github.com/CleverRaven/Cataclysm-DDA/pull/58505))
 * [Innawood] update map settings to include Forest and foliage overhaul ([#58540](https://github.com/CleverRaven/Cataclysm-DDA/pull/58540))
 * Forest glass ([#58538](https://github.com/CleverRaven/Cataclysm-DDA/pull/58538))
@@ -190,7 +191,6 @@
 * Routine Tileset updates on 19 June 2022 ([#58562](https://github.com/CleverRaven/Cataclysm-DDA/pull/58562))
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
-* added heavy vest to soldier spawn groups ([#58490](https://github.com/CleverRaven/Cataclysm-DDA/pull/58490))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
 * Routine i18n updates on 18 June 2022 ([#58503](https://github.com/CleverRaven/Cataclysm-DDA/pull/58503))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
