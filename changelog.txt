@@ -1,3 +1,7 @@
+* Updates even more locations (#58585)
+* Allow placing f_null on open air (#58574)
+* Extract examine_action to translate (#58573)
+* mapgen: simplify and fix remove_vehicles (#58546)
 
 Cataclysm-DDA experimental build 2022-06-25-0716 (1256913)
 * Classify riot control bot arrest message as bad (#58692)
@@ -41,7 +45,6 @@ Cataclysm-DDA experimental build 2022-06-23-0628 (e34eeaa)
 
 Cataclysm-DDA experimental build 2022-06-23-0500 (bedb303)
 * Reduce wintergreen oil pkill effect (#58642)
-* Increased height of aim window by one point to fix overlapping monster speed description and steadiness display (#58460)
 * Don't offer dropping unwieldable weapons when talking with NPCs (#58622)
 * Aftershock: Remove the 3x4 formless ruin special (#58629)
 
@@ -91,10 +94,6 @@ Cataclysm-DDA experimental build 2022-06-20-2312 (765f442)
 
 Cataclysm-DDA experimental build 2022-06-20-2159 (6ac3704)
 * Widgets: flag to omit column padding (#58543)
-
-Cataclysm-DDA experimental build 2022-06-20-1927 (eeef80f)
-* Fixes textile mill museum path (#58455)
-* Aircraft carrier: use console furniture instead of terrain (#58457)
 * consolidates entries together for armor (#58494)
 * Ammonia fixes (#58545)
 
@@ -138,7 +137,6 @@ Cataclysm-DDA experimental build 2022-06-20-0708 (d84d159)
 * Reset steadiness after smashing corpses (#58507)
 * Reduce Kevlar Hulks' Night Vision Range (#58485)
 * Rural house update (#58472)
-* Fixes (#58456)
 * Fix crash in displaying NPC attack potential values (#58467)
 * Fix crash when pressing load button in main menu if there is no world (#58465)
 * [DinoMod] egg cooking fix (#58466)

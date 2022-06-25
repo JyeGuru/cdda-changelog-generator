@@ -1,3 +1,7 @@
+* Updates even more locations ([#58585](https://github.com/CleverRaven/Cataclysm-DDA/pull/58585))
+* Allow placing f_null on open air ([#58574](https://github.com/CleverRaven/Cataclysm-DDA/pull/58574))
+* Extract examine_action to translate ([#58573](https://github.com/CleverRaven/Cataclysm-DDA/pull/58573))
+* mapgen: simplify and fix remove_vehicles ([#58546](https://github.com/CleverRaven/Cataclysm-DDA/pull/58546))
 
 ---
 
@@ -68,7 +72,6 @@
 #### Cataclysm-DDA experimental build 2022-06-23-0500 ([bedb303](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-23-0500))
 
 * Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))
-* Increased height of aim window by one point to fix overlapping monster speed description and steadiness display ([#58460](https://github.com/CleverRaven/Cataclysm-DDA/pull/58460))
 * Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
 * Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
 
@@ -151,13 +154,6 @@
 #### Cataclysm-DDA experimental build 2022-06-20-2159 ([6ac3704](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-2159))
 
 * Widgets: flag to omit column padding ([#58543](https://github.com/CleverRaven/Cataclysm-DDA/pull/58543))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-20-1927 ([eeef80f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-1927))
-
-* Fixes textile mill museum path ([#58455](https://github.com/CleverRaven/Cataclysm-DDA/pull/58455))
-* Aircraft carrier: use console furniture instead of terrain ([#58457](https://github.com/CleverRaven/Cataclysm-DDA/pull/58457))
 * consolidates entries together for armor ([#58494](https://github.com/CleverRaven/Cataclysm-DDA/pull/58494))
 * Ammonia fixes ([#58545](https://github.com/CleverRaven/Cataclysm-DDA/pull/58545))
 
@@ -210,7 +206,6 @@
 * Reset steadiness after smashing corpses ([#58507](https://github.com/CleverRaven/Cataclysm-DDA/pull/58507))
 * Reduce Kevlar Hulks' Night Vision Range ([#58485](https://github.com/CleverRaven/Cataclysm-DDA/pull/58485))
 * Rural house update ([#58472](https://github.com/CleverRaven/Cataclysm-DDA/pull/58472))
-* Fixes ([#58456](https://github.com/CleverRaven/Cataclysm-DDA/pull/58456))
 * Fix crash in displaying NPC attack potential values ([#58467](https://github.com/CleverRaven/Cataclysm-DDA/pull/58467))
 * Fix crash when pressing load button in main menu if there is no world ([#58465](https://github.com/CleverRaven/Cataclysm-DDA/pull/58465))
 * [DinoMod] egg cooking fix ([#58466](https://github.com/CleverRaven/Cataclysm-DDA/pull/58466))
