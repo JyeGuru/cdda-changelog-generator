@@ -1,3 +1,11 @@
+* fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
+* make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-25-0315 ([78cbd13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0315))
+
+* Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
 
 ---
 
@@ -24,7 +32,6 @@
 
 * Added explanation of repairs-like flag to documentation ([#58630](https://github.com/CleverRaven/Cataclysm-DDA/pull/58630))
 * Bandit cabin, bandit camp, bandit garage roof ([#58522](https://github.com/CleverRaven/Cataclysm-DDA/pull/58522))
-* Fix radiation from radioactive items ([#58449](https://github.com/CleverRaven/Cataclysm-DDA/pull/58449))
 * Enable bugprone-signed-char-misuse ([#58527](https://github.com/CleverRaven/Cataclysm-DDA/pull/58527))
 * Fix pocket insertion nested item crash ([#58618](https://github.com/CleverRaven/Cataclysm-DDA/pull/58618))
 * iterator_traits<vehicle_part_iterator<T>> is missing reference ([#58647](https://github.com/CleverRaven/Cataclysm-DDA/pull/58647))
@@ -202,5 +209,3 @@
 * Fix crash in displaying NPC attack potential values ([#58467](https://github.com/CleverRaven/Cataclysm-DDA/pull/58467))
 * Fix crash when pressing load button in main menu if there is no world ([#58465](https://github.com/CleverRaven/Cataclysm-DDA/pull/58465))
 * [DinoMod] egg cooking fix ([#58466](https://github.com/CleverRaven/Cataclysm-DDA/pull/58466))
-* Minor glass workshop tweaks ([#58450](https://github.com/CleverRaven/Cataclysm-DDA/pull/58450))
-* Adds vehicles to hardware store parking lots ([#58443](https://github.com/CleverRaven/Cataclysm-DDA/pull/58443))
