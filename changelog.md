@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-25-0716 ([1256913](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0716))
+
+* Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-25-0451 ([06f4f6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0451))
 
 * fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-06-20-0708 ([d84d159](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-0708))
 
 * [Innawood] update map settings to include Forest and foliage overhaul ([#58540](https://github.com/CleverRaven/Cataclysm-DDA/pull/58540))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-20-0601 ([e642f08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-0601))
-
 * Forest glass ([#58538](https://github.com/CleverRaven/Cataclysm-DDA/pull/58538))
 * Correct logic for -Wno-unknown-warning-option ([#58523](https://github.com/CleverRaven/Cataclysm-DDA/pull/58523))
 * Stop loading on duplicate definition from same mod ([#58542](https://github.com/CleverRaven/Cataclysm-DDA/pull/58542))
@@ -210,7 +211,6 @@
 * Reduce Kevlar Hulks' Night Vision Range ([#58485](https://github.com/CleverRaven/Cataclysm-DDA/pull/58485))
 * Rural house update ([#58472](https://github.com/CleverRaven/Cataclysm-DDA/pull/58472))
 * Fixes ([#58456](https://github.com/CleverRaven/Cataclysm-DDA/pull/58456))
-* Update ko.json ([#58453](https://github.com/CleverRaven/Cataclysm-DDA/pull/58453))
 * Fix crash in displaying NPC attack potential values ([#58467](https://github.com/CleverRaven/Cataclysm-DDA/pull/58467))
 * Fix crash when pressing load button in main menu if there is no world ([#58465](https://github.com/CleverRaven/Cataclysm-DDA/pull/58465))
 * [DinoMod] egg cooking fix ([#58466](https://github.com/CleverRaven/Cataclysm-DDA/pull/58466))

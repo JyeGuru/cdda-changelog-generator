@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-25-0716 (1256913)
+* Classify riot control bot arrest message as bad (#58692)
+
 Cataclysm-DDA experimental build 2022-06-25-0451 (06f4f6f)
 * fix #58440 (#58671)
 * make searchlights passive entities (#58675)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2022-06-20-0913 (57db2bc)
 
 Cataclysm-DDA experimental build 2022-06-20-0708 (d84d159)
 * [Innawood] update map settings to include Forest and foliage overhaul (#58540)
-
-Cataclysm-DDA experimental build 2022-06-20-0601 (e642f08)
 * Forest glass (#58538)
 * Correct logic for -Wno-unknown-warning-option (#58523)
 * Stop loading on duplicate definition from same mod (#58542)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2022-06-20-0601 (e642f08)
 * Reduce Kevlar Hulks' Night Vision Range (#58485)
 * Rural house update (#58472)
 * Fixes (#58456)
-* Update ko.json (#58453)
 * Fix crash in displaying NPC attack potential values (#58467)
 * Fix crash when pressing load button in main menu if there is no world (#58465)
 * [DinoMod] egg cooking fix (#58466)
