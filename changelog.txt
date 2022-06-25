@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-25-0836 (55adc9a)
 * JSON Sidebar regression fixes (#58678)
 * Add roof to military helipad and bunker (#58694)
 * fix: reduce astyle corrections output (#58696)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2022-06-20-1759 (008354a)
 
 Cataclysm-DDA experimental build 2022-06-20-0913 (57db2bc)
 * Apply movement cost reduction from wearing rollerblades only if character is walking or running (#58505)
-
-Cataclysm-DDA experimental build 2022-06-20-0708 (d84d159)
 * [Innawood] update map settings to include Forest and foliage overhaul (#58540)
 * Forest glass (#58538)
 * Correct logic for -Wno-unknown-warning-option (#58523)
@@ -139,4 +139,3 @@ Cataclysm-DDA experimental build 2022-06-20-0708 (d84d159)
 * Add missing dot to a spell description (#58526)
 * Enable misc-redundant-expression (#58531)
 * Reset steadiness after smashing corpses (#58507)
-* Reduce Kevlar Hulks' Night Vision Range (#58485)
