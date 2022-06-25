@@ -73,7 +73,6 @@
 * fixes for organize menu clarity ([#58653](https://github.com/CleverRaven/Cataclysm-DDA/pull/58653))
 * Add learn spells to magic.md and also some formatting ([#58528](https://github.com/CleverRaven/Cataclysm-DDA/pull/58528))
 * Simple tailoring items craftable without metal tools ([#58565](https://github.com/CleverRaven/Cataclysm-DDA/pull/58565))
-* Remove separate toilet examine function and replace it with a generic one ([#58486](https://github.com/CleverRaven/Cataclysm-DDA/pull/58486))
 
 ---
 

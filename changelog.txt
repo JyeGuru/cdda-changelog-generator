@@ -49,7 +49,6 @@ Cataclysm-DDA experimental build 2022-06-24-0811 (131cea4)
 * fixes for organize menu clarity (#58653)
 * Add learn spells to magic.md and also some formatting (#58528)
 * Simple tailoring items craftable without metal tools (#58565)
-* Remove separate toilet examine function and replace it with a generic one (#58486)
 
 Cataclysm-DDA experimental build 2022-06-23-0628 (e34eeaa)
 * Do not try to show info of "on" variants for power armor that are already on (#58595)
