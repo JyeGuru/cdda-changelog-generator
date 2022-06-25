@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-25-0451 (06f4f6f)
 * fix #58440 (#58671)
 * make searchlights passive entities (#58675)
 

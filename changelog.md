@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-25-0451 ([06f4f6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0451))
+
 * fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
 * make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
 
