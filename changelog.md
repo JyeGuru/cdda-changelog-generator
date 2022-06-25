@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-25-0117 ([3d0fcf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0117))
+
+* Tweaking the MAGIC.md ([#58650](https://github.com/CleverRaven/Cataclysm-DDA/pull/58650))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-24-1819 ([1e21b88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-24-1819))
 
 * New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
@@ -189,7 +195,6 @@
 * Add missing dot to a spell description ([#58526](https://github.com/CleverRaven/Cataclysm-DDA/pull/58526))
 * Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
 * Reset steadiness after smashing corpses ([#58507](https://github.com/CleverRaven/Cataclysm-DDA/pull/58507))
-* Fix overmap coverage test ([#58442](https://github.com/CleverRaven/Cataclysm-DDA/pull/58442))
 * Reduce Kevlar Hulks' Night Vision Range ([#58485](https://github.com/CleverRaven/Cataclysm-DDA/pull/58485))
 * Rural house update ([#58472](https://github.com/CleverRaven/Cataclysm-DDA/pull/58472))
 * Fixes ([#58456](https://github.com/CleverRaven/Cataclysm-DDA/pull/58456))
