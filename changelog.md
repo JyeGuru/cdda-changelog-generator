@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-26-1020 ([f8ce437](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-1020))
+
+* Widgets: dummy render pass when switching sidebars ([#58731](https://github.com/CleverRaven/Cataclysm-DDA/pull/58731))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-26-0758 ([4f8aa14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0758))
 
 * hub 01 mapgen fixes ([#58728](https://github.com/CleverRaven/Cataclysm-DDA/pull/58728))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-06-21-0758 ([f80cdc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-0758))
 
 * fixes 'science' attack to not mutate the player ([#58589](https://github.com/CleverRaven/Cataclysm-DDA/pull/58589))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-20-2312 ([765f442](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-2312))
-
 * Orc village overhaul ([#58555](https://github.com/CleverRaven/Cataclysm-DDA/pull/58555))
 * Widgets: flag to omit column padding ([#58543](https://github.com/CleverRaven/Cataclysm-DDA/pull/58543))
 * Ammonia fixes ([#58545](https://github.com/CleverRaven/Cataclysm-DDA/pull/58545))
@@ -211,7 +212,6 @@
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
-* Add singular/plurals to sheets ([#58514](https://github.com/CleverRaven/Cataclysm-DDA/pull/58514))
 * Add plural to synthetic fabric patch ([#58515](https://github.com/CleverRaven/Cataclysm-DDA/pull/58515))
 * New foliage capitalization ([#58518](https://github.com/CleverRaven/Cataclysm-DDA/pull/58518))
 * Add hyphen to AA-12 magazine names ([#58525](https://github.com/CleverRaven/Cataclysm-DDA/pull/58525))
