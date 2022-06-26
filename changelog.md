@@ -1,3 +1,10 @@
+* Innawoods tailoring and misc fixes ([#58730](https://github.com/CleverRaven/Cataclysm-DDA/pull/58730))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-26-1423 ([d4e5c54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-1423))
+
+* Reorder JSON error function params ([#58584](https://github.com/CleverRaven/Cataclysm-DDA/pull/58584))
 
 ---
 
@@ -196,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-06-21-1446 ([cb4fd82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-1446))
 
 * Repairs_like for ballistic armor ([#58551](https://github.com/CleverRaven/Cataclysm-DDA/pull/58551))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-21-0758 ([f80cdc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-0758))
-
 * fixes 'science' attack to not mutate the player ([#58589](https://github.com/CleverRaven/Cataclysm-DDA/pull/58589))
 * Orc village overhaul ([#58555](https://github.com/CleverRaven/Cataclysm-DDA/pull/58555))
 * Widgets: flag to omit column padding ([#58543](https://github.com/CleverRaven/Cataclysm-DDA/pull/58543))
@@ -218,7 +220,6 @@
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
-* New foliage capitalization ([#58518](https://github.com/CleverRaven/Cataclysm-DDA/pull/58518))
 * Add hyphen to AA-12 magazine names ([#58525](https://github.com/CleverRaven/Cataclysm-DDA/pull/58525))
 * Add missing dot to a spell description ([#58526](https://github.com/CleverRaven/Cataclysm-DDA/pull/58526))
 * Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
