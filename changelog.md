@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-26-1141 ([066cdc6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-1141))
+
 * npctrade: show refusal in bionic install. menu too ([#58708](https://github.com/CleverRaven/Cataclysm-DDA/pull/58708))
 
 ---
