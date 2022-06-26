@@ -1,6 +1,24 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-26-0155 ([0576312](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0155))
+
+* Fix grammar error in recipe_modular_shelter_2_common.json ([#58721](https://github.com/CleverRaven/Cataclysm-DDA/pull/58721))
+* Autodrive acceleration improvement ([#58594](https://github.com/CleverRaven/Cataclysm-DDA/pull/58594))
+* Police stations: change wooden doors ([#58691](https://github.com/CleverRaven/Cataclysm-DDA/pull/58691))
+* fix bug with item temperatures in underground areas ([#58724](https://github.com/CleverRaven/Cataclysm-DDA/pull/58724))
+* changes to recipes and core armors for EXODII ([#58711](https://github.com/CleverRaven/Cataclysm-DDA/pull/58711))
+* Prevent disassembling more items than an available amount ([#58718](https://github.com/CleverRaven/Cataclysm-DDA/pull/58718))
+* Add missing ids to Edit (f)ields in the debug map editor ([#58712](https://github.com/CleverRaven/Cataclysm-DDA/pull/58712))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-26-0026 ([a64c5c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0026))
+
+* Adding the rare gun H&K USC 45 carbine ([#58636](https://github.com/CleverRaven/Cataclysm-DDA/pull/58636))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-25-1745 ([5ea8d0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-1745))
 
 * CR Aftershock Exosuit Melee ([#58617](https://github.com/CleverRaven/Cataclysm-DDA/pull/58617))
@@ -172,16 +190,9 @@
 #### Cataclysm-DDA experimental build 2022-06-20-2159 ([6ac3704](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-2159))
 
 * Widgets: flag to omit column padding ([#58543](https://github.com/CleverRaven/Cataclysm-DDA/pull/58543))
-* consolidates entries together for armor ([#58494](https://github.com/CleverRaven/Cataclysm-DDA/pull/58494))
 * Ammonia fixes ([#58545](https://github.com/CleverRaven/Cataclysm-DDA/pull/58545))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-20-1759 ([008354a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-1759))
-
 * Pocket Organize Fixes ([#58564](https://github.com/CleverRaven/Cataclysm-DDA/pull/58564))
 * clang fixes for health test ([#58578](https://github.com/CleverRaven/Cataclysm-DDA/pull/58578))
-* Apply movement cost reduction from wearing rollerblades only if character is walking or running ([#58505](https://github.com/CleverRaven/Cataclysm-DDA/pull/58505))
 * [Innawood] update map settings to include Forest and foliage overhaul ([#58540](https://github.com/CleverRaven/Cataclysm-DDA/pull/58540))
 * Forest glass ([#58538](https://github.com/CleverRaven/Cataclysm-DDA/pull/58538))
 * Correct logic for -Wno-unknown-warning-option ([#58523](https://github.com/CleverRaven/Cataclysm-DDA/pull/58523))
@@ -192,12 +203,7 @@
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
-* Routine i18n updates on 18 June 2022 ([#58503](https://github.com/CleverRaven/Cataclysm-DDA/pull/58503))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
-* [Magiclysm] Vault Fixes and defenses ([#58499](https://github.com/CleverRaven/Cataclysm-DDA/pull/58499))
-* [DinoMod] anzu fungalize fix ([#58496](https://github.com/CleverRaven/Cataclysm-DDA/pull/58496))
-* Electrolyzer → Water Electrolyzer ([#58510](https://github.com/CleverRaven/Cataclysm-DDA/pull/58510))
-* Change dash to hyphen ([#58511](https://github.com/CleverRaven/Cataclysm-DDA/pull/58511))
 * Add missing comma to pull request template ([#58512](https://github.com/CleverRaven/Cataclysm-DDA/pull/58512))
 * Add plural to cotton patch ([#58513](https://github.com/CleverRaven/Cataclysm-DDA/pull/58513))
 * Add singular/plurals to sheets ([#58514](https://github.com/CleverRaven/Cataclysm-DDA/pull/58514))
@@ -206,4 +212,3 @@
 * Add hyphen to AA-12 magazine names ([#58525](https://github.com/CleverRaven/Cataclysm-DDA/pull/58525))
 * Add missing dot to a spell description ([#58526](https://github.com/CleverRaven/Cataclysm-DDA/pull/58526))
 * Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
-* Reset steadiness after smashing corpses ([#58507](https://github.com/CleverRaven/Cataclysm-DDA/pull/58507))
