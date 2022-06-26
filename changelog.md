@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-26-0357 ([2f9a635](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0357))
+
+* Add more crafting recipes for storage items ([#58532](https://github.com/CleverRaven/Cataclysm-DDA/pull/58532))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-26-0155 ([0576312](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0155))
 
 * Fix grammar error in recipe_modular_shelter_2_common.json ([#58721](https://github.com/CleverRaven/Cataclysm-DDA/pull/58721))
@@ -204,7 +210,6 @@
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
-* Add missing comma to pull request template ([#58512](https://github.com/CleverRaven/Cataclysm-DDA/pull/58512))
 * Add plural to cotton patch ([#58513](https://github.com/CleverRaven/Cataclysm-DDA/pull/58513))
 * Add singular/plurals to sheets ([#58514](https://github.com/CleverRaven/Cataclysm-DDA/pull/58514))
 * Add plural to synthetic fabric patch ([#58515](https://github.com/CleverRaven/Cataclysm-DDA/pull/58515))

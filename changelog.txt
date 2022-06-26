@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-26-0357 (2f9a635)
+* Add more crafting recipes for storage items (#58532)
+
 Cataclysm-DDA experimental build 2022-06-26-0155 (0576312)
 * Fix grammar error in recipe_modular_shelter_2_common.json (#58721)
 * Autodrive acceleration improvement (#58594)
@@ -132,7 +135,6 @@ Cataclysm-DDA experimental build 2022-06-20-2159 (6ac3704)
 * Fixes a few recipes i missed in tailoring audit (#58539)
 * Make repeat_clang_tidy more concurrency-safe (#58521)
 * [DinoMod] oryctodromeus (#58519)
-* Add missing comma to pull request template (#58512)
 * Add plural to cotton patch (#58513)
 * Add singular/plurals to sheets (#58514)
 * Add plural to synthetic fabric patch (#58515)
