@@ -1,3 +1,11 @@
+* Remove option to set MAPSIZE via make parameter ([#58737](https://github.com/CleverRaven/Cataclysm-DDA/pull/58737))
+* Aftershock Exosuit Fixes ([#58685](https://github.com/CleverRaven/Cataclysm-DDA/pull/58685))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-26-2122 ([b93c7ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-2122))
+
+* Remove unnecessary check for emptiness of container before iterating over of it. ([#58738](https://github.com/CleverRaven/Cataclysm-DDA/pull/58738))
 
 ---
 
@@ -123,7 +131,6 @@
 #### Cataclysm-DDA experimental build 2022-06-24-0811 ([131cea4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-24-0811))
 
 * Added explanation of repairs-like flag to documentation ([#58630](https://github.com/CleverRaven/Cataclysm-DDA/pull/58630))
-* Bandit cabin, bandit camp, bandit garage roof ([#58522](https://github.com/CleverRaven/Cataclysm-DDA/pull/58522))
 * Enable bugprone-signed-char-misuse ([#58527](https://github.com/CleverRaven/Cataclysm-DDA/pull/58527))
 * Fix pocket insertion nested item crash ([#58618](https://github.com/CleverRaven/Cataclysm-DDA/pull/58618))
 * iterator_traits<vehicle_part_iterator<T>> is missing reference ([#58647](https://github.com/CleverRaven/Cataclysm-DDA/pull/58647))
@@ -197,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2022-06-21-2140 ([f16a8c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-2140))
 
 * Marginally better display of refusal reason in trade UI ([#58583](https://github.com/CleverRaven/Cataclysm-DDA/pull/58583))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-21-1547 ([d046929](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-1547))
-
 * fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
 * Repairs_like for ballistic armor ([#58551](https://github.com/CleverRaven/Cataclysm-DDA/pull/58551))
 * fixes 'science' attack to not mutate the player ([#58589](https://github.com/CleverRaven/Cataclysm-DDA/pull/58589))
@@ -212,14 +214,12 @@
 * clang fixes for health test ([#58578](https://github.com/CleverRaven/Cataclysm-DDA/pull/58578))
 * [Innawood] update map settings to include Forest and foliage overhaul ([#58540](https://github.com/CleverRaven/Cataclysm-DDA/pull/58540))
 * Forest glass ([#58538](https://github.com/CleverRaven/Cataclysm-DDA/pull/58538))
-* Correct logic for -Wno-unknown-warning-option ([#58523](https://github.com/CleverRaven/Cataclysm-DDA/pull/58523))
 * Stop loading on duplicate definition from same mod ([#58542](https://github.com/CleverRaven/Cataclysm-DDA/pull/58542))
 * Update expected shot damage in ranged balance test ([#58550](https://github.com/CleverRaven/Cataclysm-DDA/pull/58550))
 * scoot down the item bodygraphs ([#58553](https://github.com/CleverRaven/Cataclysm-DDA/pull/58553))
 * Routine Tileset updates on 19 June 2022 ([#58562](https://github.com/CleverRaven/Cataclysm-DDA/pull/58562))
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
-* Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
 * Add hyphen to AA-12 magazine names ([#58525](https://github.com/CleverRaven/Cataclysm-DDA/pull/58525))
 * Add missing dot to a spell description ([#58526](https://github.com/CleverRaven/Cataclysm-DDA/pull/58526))
 * Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
