@@ -1,3 +1,5 @@
+* added new barrels, mags and spawns for HWP ([#58726](https://github.com/CleverRaven/Cataclysm-DDA/pull/58726))
+* Bugfix to the gas zombie ([#58740](https://github.com/CleverRaven/Cataclysm-DDA/pull/58740))
 * Innawoods tailoring and misc fixes ([#58730](https://github.com/CleverRaven/Cataclysm-DDA/pull/58730))
 
 ---
@@ -158,7 +160,6 @@
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
 * Fix a bug in the mutations code preventing removal of mutations not matching current category ([#58530](https://github.com/CleverRaven/Cataclysm-DDA/pull/58530))
-* Don't display hidden mutations on the mutations screen ([#58520](https://github.com/CleverRaven/Cataclysm-DDA/pull/58520))
 * Ladybugs ([#58547](https://github.com/CleverRaven/Cataclysm-DDA/pull/58547))
 * Description fix for new military containers ([#58576](https://github.com/CleverRaven/Cataclysm-DDA/pull/58576))
 * fixes riot turrets to not shoot through obstacles ([#58569](https://github.com/CleverRaven/Cataclysm-DDA/pull/58569))
@@ -219,7 +220,6 @@
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
-* [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
 * Add hyphen to AA-12 magazine names ([#58525](https://github.com/CleverRaven/Cataclysm-DDA/pull/58525))
 * Add missing dot to a spell description ([#58526](https://github.com/CleverRaven/Cataclysm-DDA/pull/58526))
 * Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
