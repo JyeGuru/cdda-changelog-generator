@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-26-0758 ([4f8aa14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0758))
+
+* hub 01 mapgen fixes ([#58728](https://github.com/CleverRaven/Cataclysm-DDA/pull/58728))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-26-0357 ([2f9a635](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0357))
 
 * Add more crafting recipes for storage items ([#58532](https://github.com/CleverRaven/Cataclysm-DDA/pull/58532))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-06-20-2312 ([765f442](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-2312))
 
 * Orc village overhaul ([#58555](https://github.com/CleverRaven/Cataclysm-DDA/pull/58555))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-20-2159 ([6ac3704](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-20-2159))
-
 * Widgets: flag to omit column padding ([#58543](https://github.com/CleverRaven/Cataclysm-DDA/pull/58543))
 * Ammonia fixes ([#58545](https://github.com/CleverRaven/Cataclysm-DDA/pull/58545))
 * Pocket Organize Fixes ([#58564](https://github.com/CleverRaven/Cataclysm-DDA/pull/58564))
@@ -210,7 +211,6 @@
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
 * Make repeat_clang_tidy more concurrency-safe ([#58521](https://github.com/CleverRaven/Cataclysm-DDA/pull/58521))
 * [DinoMod] oryctodromeus ([#58519](https://github.com/CleverRaven/Cataclysm-DDA/pull/58519))
-* Add plural to cotton patch ([#58513](https://github.com/CleverRaven/Cataclysm-DDA/pull/58513))
 * Add singular/plurals to sheets ([#58514](https://github.com/CleverRaven/Cataclysm-DDA/pull/58514))
 * Add plural to synthetic fabric patch ([#58515](https://github.com/CleverRaven/Cataclysm-DDA/pull/58515))
 * New foliage capitalization ([#58518](https://github.com/CleverRaven/Cataclysm-DDA/pull/58518))
