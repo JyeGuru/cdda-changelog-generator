@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-26-1548 ([0dbe8ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-1548))
+
 * added new barrels, mags and spawns for HWP ([#58726](https://github.com/CleverRaven/Cataclysm-DDA/pull/58726))
 * Bugfix to the gas zombie ([#58740](https://github.com/CleverRaven/Cataclysm-DDA/pull/58740))
 * Innawoods tailoring and misc fixes ([#58730](https://github.com/CleverRaven/Cataclysm-DDA/pull/58730))
@@ -198,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-06-21-1547 ([d046929](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-1547))
 
 * fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-21-1446 ([cb4fd82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-1446))
-
 * Repairs_like for ballistic armor ([#58551](https://github.com/CleverRaven/Cataclysm-DDA/pull/58551))
 * fixes 'science' attack to not mutate the player ([#58589](https://github.com/CleverRaven/Cataclysm-DDA/pull/58589))
 * Orc village overhaul ([#58555](https://github.com/CleverRaven/Cataclysm-DDA/pull/58555))

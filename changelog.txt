@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-26-1548 (0dbe8ac)
 * added new barrels, mags and spawns for HWP (#58726)
 * Bugfix to the gas zombie (#58740)
 * Innawoods tailoring and misc fixes (#58730)
@@ -123,8 +125,6 @@ Cataclysm-DDA experimental build 2022-06-21-2140 (f16a8c2)
 
 Cataclysm-DDA experimental build 2022-06-21-1547 (d046929)
 * fixed minor grammar error in hub mercenary npc dialogue (#58591)
-
-Cataclysm-DDA experimental build 2022-06-21-1446 (cb4fd82)
 * Repairs_like for ballistic armor (#58551)
 * fixes 'science' attack to not mutate the player (#58589)
 * Orc village overhaul (#58555)
