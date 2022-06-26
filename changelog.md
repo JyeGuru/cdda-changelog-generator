@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-26-2228 ([1db5e5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-2228))
+
 * Remove option to set MAPSIZE via make parameter ([#58737](https://github.com/CleverRaven/Cataclysm-DDA/pull/58737))
 * Aftershock Exosuit Fixes ([#58685](https://github.com/CleverRaven/Cataclysm-DDA/pull/58685))
 
@@ -198,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-06-22-0515 ([9d30272](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-0515))
 
 * add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-21-2140 ([f16a8c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-21-2140))
-
 * Marginally better display of refusal reason in trade UI ([#58583](https://github.com/CleverRaven/Cataclysm-DDA/pull/58583))
 * fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
 * Repairs_like for ballistic armor ([#58551](https://github.com/CleverRaven/Cataclysm-DDA/pull/58551))
