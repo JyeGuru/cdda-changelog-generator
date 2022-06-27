@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-27-0443 ([7844483](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-0443))
+
+* Fix bionic cost of dopamine stimulator and grenade launcher cbms ([#58763](https://github.com/CleverRaven/Cataclysm-DDA/pull/58763))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-26-2228 ([1db5e5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-2228))
 
 * Remove option to set MAPSIZE via make parameter ([#58737](https://github.com/CleverRaven/Cataclysm-DDA/pull/58737))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-06-22-1839 ([9bae48c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-1839))
 
 * Fixed road connection to TCL ([#58620](https://github.com/CleverRaven/Cataclysm-DDA/pull/58620))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-22-1357 ([92acd0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-1357))
-
 * hotfix build error in widget.cpp  ([#58592](https://github.com/CleverRaven/Cataclysm-DDA/pull/58592))
 * add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))
 * Marginally better display of refusal reason in trade UI ([#58583](https://github.com/CleverRaven/Cataclysm-DDA/pull/58583))
@@ -215,6 +216,5 @@
 * Routine Tileset updates on 19 June 2022 ([#58562](https://github.com/CleverRaven/Cataclysm-DDA/pull/58562))
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
-* Add hyphen to AA-12 magazine names ([#58525](https://github.com/CleverRaven/Cataclysm-DDA/pull/58525))
 * Add missing dot to a spell description ([#58526](https://github.com/CleverRaven/Cataclysm-DDA/pull/58526))
 * Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
