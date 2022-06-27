@@ -1,3 +1,13 @@
+* Sidebar thirst now matches consume menu thirst ([#58720](https://github.com/CleverRaven/Cataclysm-DDA/pull/58720))
+* [DinoMod] Nanuqsaurus and burned rebuild ([#58702](https://github.com/CleverRaven/Cataclysm-DDA/pull/58702))
+* Routine Tileset updates on 26 June 2022 ([#58761](https://github.com/CleverRaven/Cataclysm-DDA/pull/58761))
+* added shoulder holster repairs like ([#58754](https://github.com/CleverRaven/Cataclysm-DDA/pull/58754))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-27-0622 ([cccc950](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-0622))
+
+* Removed charge requirements from plastic bag in Ice Cream recipe. ([#58762](https://github.com/CleverRaven/Cataclysm-DDA/pull/58762))
 
 ---
 
@@ -49,12 +59,6 @@
 #### Cataclysm-DDA experimental build 2022-06-26-0758 ([4f8aa14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0758))
 
 * hub 01 mapgen fixes ([#58728](https://github.com/CleverRaven/Cataclysm-DDA/pull/58728))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-26-0357 ([2f9a635](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0357))
-
-* Add more crafting recipes for storage items ([#58532](https://github.com/CleverRaven/Cataclysm-DDA/pull/58532))
 
 ---
 
@@ -142,7 +146,6 @@
 #### Cataclysm-DDA experimental build 2022-06-24-0811 ([131cea4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-24-0811))
 
 * Added explanation of repairs-like flag to documentation ([#58630](https://github.com/CleverRaven/Cataclysm-DDA/pull/58630))
-* Enable bugprone-signed-char-misuse ([#58527](https://github.com/CleverRaven/Cataclysm-DDA/pull/58527))
 * Fix pocket insertion nested item crash ([#58618](https://github.com/CleverRaven/Cataclysm-DDA/pull/58618))
 * iterator_traits<vehicle_part_iterator<T>> is missing reference ([#58647](https://github.com/CleverRaven/Cataclysm-DDA/pull/58647))
 * Aftershock Exosuit Balance Pass ([#58582](https://github.com/CleverRaven/Cataclysm-DDA/pull/58582))
@@ -151,7 +154,6 @@
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
 * fixes for organize menu clarity ([#58653](https://github.com/CleverRaven/Cataclysm-DDA/pull/58653))
-* Add learn spells to magic.md and also some formatting ([#58528](https://github.com/CleverRaven/Cataclysm-DDA/pull/58528))
 * Simple tailoring items craftable without metal tools ([#58565](https://github.com/CleverRaven/Cataclysm-DDA/pull/58565))
 
 ---
@@ -182,7 +184,6 @@
 * Fix blocking with weapon when wearing armor that blocks. ([#58579](https://github.com/CleverRaven/Cataclysm-DDA/pull/58579))
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
-* Fix a bug in the mutations code preventing removal of mutations not matching current category ([#58530](https://github.com/CleverRaven/Cataclysm-DDA/pull/58530))
 * Ladybugs ([#58547](https://github.com/CleverRaven/Cataclysm-DDA/pull/58547))
 * Description fix for new military containers ([#58576](https://github.com/CleverRaven/Cataclysm-DDA/pull/58576))
 * fixes riot turrets to not shoot through obstacles ([#58569](https://github.com/CleverRaven/Cataclysm-DDA/pull/58569))
@@ -191,11 +192,6 @@
 * [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
 * [DinoMod] autolearn simple dino armor ([#58590](https://github.com/CleverRaven/Cataclysm-DDA/pull/58590))
 * Peek over ledges ([#58611](https://github.com/CleverRaven/Cataclysm-DDA/pull/58611))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-22-1839 ([9bae48c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-1839))
-
 * Fixed road connection to TCL ([#58620](https://github.com/CleverRaven/Cataclysm-DDA/pull/58620))
 * hotfix build error in widget.cpp  ([#58592](https://github.com/CleverRaven/Cataclysm-DDA/pull/58592))
 * add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))
@@ -216,4 +212,3 @@
 * Routine Tileset updates on 19 June 2022 ([#58562](https://github.com/CleverRaven/Cataclysm-DDA/pull/58562))
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
-* Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
