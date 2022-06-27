@@ -216,5 +216,4 @@
 * Routine Tileset updates on 19 June 2022 ([#58562](https://github.com/CleverRaven/Cataclysm-DDA/pull/58562))
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
 * Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
-* Add missing dot to a spell description ([#58526](https://github.com/CleverRaven/Cataclysm-DDA/pull/58526))
 * Enable misc-redundant-expression ([#58531](https://github.com/CleverRaven/Cataclysm-DDA/pull/58531))
