@@ -1,3 +1,10 @@
+* Clang tidy cata avoid alternative tokens ([#58554](https://github.com/CleverRaven/Cataclysm-DDA/pull/58554))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-27-1746 ([b1d5318](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-1746))
+
+* Migrate c-style math functions to C++ cmath counterparts ([#58766](https://github.com/CleverRaven/Cataclysm-DDA/pull/58766))
 
 ---
 
@@ -174,11 +181,6 @@
 * Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))
 * Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
 * Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-23-0349 ([1cabfb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-23-0349))
-
 * hide collapsed and sealed items in organize menu ([#58612](https://github.com/CleverRaven/Cataclysm-DDA/pull/58612))
 * Add wild plant seeds ([#58557](https://github.com/CleverRaven/Cataclysm-DDA/pull/58557))
 * Fix blocking with weapon when wearing armor that blocks. ([#58579](https://github.com/CleverRaven/Cataclysm-DDA/pull/58579))
@@ -205,10 +207,8 @@
 * Pocket Organize Fixes ([#58564](https://github.com/CleverRaven/Cataclysm-DDA/pull/58564))
 * clang fixes for health test ([#58578](https://github.com/CleverRaven/Cataclysm-DDA/pull/58578))
 * [Innawood] update map settings to include Forest and foliage overhaul ([#58540](https://github.com/CleverRaven/Cataclysm-DDA/pull/58540))
-* Forest glass ([#58538](https://github.com/CleverRaven/Cataclysm-DDA/pull/58538))
 * Stop loading on duplicate definition from same mod ([#58542](https://github.com/CleverRaven/Cataclysm-DDA/pull/58542))
 * Update expected shot damage in ranged balance test ([#58550](https://github.com/CleverRaven/Cataclysm-DDA/pull/58550))
 * scoot down the item bodygraphs ([#58553](https://github.com/CleverRaven/Cataclysm-DDA/pull/58553))
 * Routine Tileset updates on 19 June 2022 ([#58562](https://github.com/CleverRaven/Cataclysm-DDA/pull/58562))
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
-* Fixes a few recipes i missed in tailoring audit ([#58539](https://github.com/CleverRaven/Cataclysm-DDA/pull/58539))
