@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-27-0731 ([31319f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-0731))
+
 * Sidebar thirst now matches consume menu thirst ([#58720](https://github.com/CleverRaven/Cataclysm-DDA/pull/58720))
 * [DinoMod] Nanuqsaurus and burned rebuild ([#58702](https://github.com/CleverRaven/Cataclysm-DDA/pull/58702))
 * Routine Tileset updates on 26 June 2022 ([#58761](https://github.com/CleverRaven/Cataclysm-DDA/pull/58761))
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-06-23-0349 ([1cabfb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-23-0349))
 
 * hide collapsed and sealed items in organize menu ([#58612](https://github.com/CleverRaven/Cataclysm-DDA/pull/58612))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-22-1940 ([bcd8b3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-1940))
-
 * Add wild plant seeds ([#58557](https://github.com/CleverRaven/Cataclysm-DDA/pull/58557))
 * Fix blocking with weapon when wearing armor that blocks. ([#58579](https://github.com/CleverRaven/Cataclysm-DDA/pull/58579))
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
