@@ -122,8 +122,6 @@ Cataclysm-DDA experimental build 2022-06-22-1839 (9bae48c)
 
 Cataclysm-DDA experimental build 2022-06-22-1357 (92acd0c)
 * hotfix build error in widget.cpp  (#58592)
-
-Cataclysm-DDA experimental build 2022-06-22-0515 (9d30272)
 * add metal bars to empty window frames (#58599)
 * Marginally better display of refusal reason in trade UI (#58583)
 * fixed minor grammar error in hub mercenary npc dialogue (#58591)

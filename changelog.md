@@ -197,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-06-22-1357 ([92acd0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-1357))
 
 * hotfix build error in widget.cpp  ([#58592](https://github.com/CleverRaven/Cataclysm-DDA/pull/58592))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-22-0515 ([9d30272](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-22-0515))
-
 * add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))
 * Marginally better display of refusal reason in trade UI ([#58583](https://github.com/CleverRaven/Cataclysm-DDA/pull/58583))
 * fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
