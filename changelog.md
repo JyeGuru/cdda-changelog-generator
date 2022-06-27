@@ -206,7 +206,6 @@
 * Ammonia fixes ([#58545](https://github.com/CleverRaven/Cataclysm-DDA/pull/58545))
 * Pocket Organize Fixes ([#58564](https://github.com/CleverRaven/Cataclysm-DDA/pull/58564))
 * clang fixes for health test ([#58578](https://github.com/CleverRaven/Cataclysm-DDA/pull/58578))
-* [Innawood] update map settings to include Forest and foliage overhaul ([#58540](https://github.com/CleverRaven/Cataclysm-DDA/pull/58540))
 * Stop loading on duplicate definition from same mod ([#58542](https://github.com/CleverRaven/Cataclysm-DDA/pull/58542))
 * Update expected shot damage in ranged balance test ([#58550](https://github.com/CleverRaven/Cataclysm-DDA/pull/58550))
 * scoot down the item bodygraphs ([#58553](https://github.com/CleverRaven/Cataclysm-DDA/pull/58553))
