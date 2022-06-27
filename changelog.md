@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-27-1859 ([27817a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-1859))
+
 * Clang tidy cata avoid alternative tokens ([#58554](https://github.com/CleverRaven/Cataclysm-DDA/pull/58554))
 
 ---
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-06-23-0628 ([e34eeaa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-23-0628))
 
 * Do not try to show info of "on" variants for power armor that are already on ([#58595](https://github.com/CleverRaven/Cataclysm-DDA/pull/58595))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-23-0500 ([bedb303](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-23-0500))
-
 * Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))
 * Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
 * Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
