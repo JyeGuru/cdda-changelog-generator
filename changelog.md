@@ -189,7 +189,6 @@
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
 * fixes for organize menu clarity ([#58653](https://github.com/CleverRaven/Cataclysm-DDA/pull/58653))
-* Simple tailoring items craftable without metal tools ([#58565](https://github.com/CleverRaven/Cataclysm-DDA/pull/58565))
 * Do not try to show info of "on" variants for power armor that are already on ([#58595](https://github.com/CleverRaven/Cataclysm-DDA/pull/58595))
 * Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))
 * Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
