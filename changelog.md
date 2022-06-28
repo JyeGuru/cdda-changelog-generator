@@ -1,9 +1,18 @@
+* [innawood] allow bronze picks to disassemble large rocks ([#58677](https://github.com/CleverRaven/Cataclysm-DDA/pull/58677))
+* Overhaul sights' volumes ([#58588](https://github.com/CleverRaven/Cataclysm-DDA/pull/58588))
+* Fix the compact sidebar regressions and document the string field for widgets ([#58714](https://github.com/CleverRaven/Cataclysm-DDA/pull/58714))
+* mapgen: more main map cleanup ([#58756](https://github.com/CleverRaven/Cataclysm-DDA/pull/58756))
+* Skatepark ramps ([#58723](https://github.com/CleverRaven/Cataclysm-DDA/pull/58723))
+* PS90 fix ([#58760](https://github.com/CleverRaven/Cataclysm-DDA/pull/58760))
+* Weakpoint inheritance fixes ([#58769](https://github.com/CleverRaven/Cataclysm-DDA/pull/58769))
+* Detect measurement units in the system locale on macOS ([#58779](https://github.com/CleverRaven/Cataclysm-DDA/pull/58779))
+* Fix typo in the description of fungal ganglion ([#58781](https://github.com/CleverRaven/Cataclysm-DDA/pull/58781))
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-06-27-1859 ([27817a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-1859))
+#### Cataclysm-DDA experimental build 2022-06-28-0621 ([ee191e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-0621))
 
-* Clang tidy cata avoid alternative tokens ([#58554](https://github.com/CleverRaven/Cataclysm-DDA/pull/58554))
+* Pass zone_data by ref in zone_manager::save_world_zones() ([#58778](https://github.com/CleverRaven/Cataclysm-DDA/pull/58778))
 
 ---
 
@@ -118,7 +127,6 @@
 * Updates even more locations ([#58585](https://github.com/CleverRaven/Cataclysm-DDA/pull/58585))
 * Allow placing f_null on open air ([#58574](https://github.com/CleverRaven/Cataclysm-DDA/pull/58574))
 * Extract examine_action to translate ([#58573](https://github.com/CleverRaven/Cataclysm-DDA/pull/58573))
-* mapgen: simplify and fix remove_vehicles ([#58546](https://github.com/CleverRaven/Cataclysm-DDA/pull/58546))
 
 ---
 
@@ -172,11 +180,6 @@
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
 * fixes for organize menu clarity ([#58653](https://github.com/CleverRaven/Cataclysm-DDA/pull/58653))
 * Simple tailoring items craftable without metal tools ([#58565](https://github.com/CleverRaven/Cataclysm-DDA/pull/58565))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-23-0628 ([e34eeaa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-23-0628))
-
 * Do not try to show info of "on" variants for power armor that are already on ([#58595](https://github.com/CleverRaven/Cataclysm-DDA/pull/58595))
 * Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))
 * Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
@@ -186,7 +189,6 @@
 * Fix blocking with weapon when wearing armor that blocks. ([#58579](https://github.com/CleverRaven/Cataclysm-DDA/pull/58579))
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
-* Ladybugs ([#58547](https://github.com/CleverRaven/Cataclysm-DDA/pull/58547))
 * Description fix for new military containers ([#58576](https://github.com/CleverRaven/Cataclysm-DDA/pull/58576))
 * fixes riot turrets to not shoot through obstacles ([#58569](https://github.com/CleverRaven/Cataclysm-DDA/pull/58569))
 * Mini lighter ([#58567](https://github.com/CleverRaven/Cataclysm-DDA/pull/58567))
@@ -199,15 +201,8 @@
 * add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))
 * Marginally better display of refusal reason in trade UI ([#58583](https://github.com/CleverRaven/Cataclysm-DDA/pull/58583))
 * fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
-* Repairs_like for ballistic armor ([#58551](https://github.com/CleverRaven/Cataclysm-DDA/pull/58551))
 * fixes 'science' attack to not mutate the player ([#58589](https://github.com/CleverRaven/Cataclysm-DDA/pull/58589))
-* Orc village overhaul ([#58555](https://github.com/CleverRaven/Cataclysm-DDA/pull/58555))
-* Widgets: flag to omit column padding ([#58543](https://github.com/CleverRaven/Cataclysm-DDA/pull/58543))
-* Ammonia fixes ([#58545](https://github.com/CleverRaven/Cataclysm-DDA/pull/58545))
 * Pocket Organize Fixes ([#58564](https://github.com/CleverRaven/Cataclysm-DDA/pull/58564))
 * clang fixes for health test ([#58578](https://github.com/CleverRaven/Cataclysm-DDA/pull/58578))
-* Stop loading on duplicate definition from same mod ([#58542](https://github.com/CleverRaven/Cataclysm-DDA/pull/58542))
-* Update expected shot damage in ranged balance test ([#58550](https://github.com/CleverRaven/Cataclysm-DDA/pull/58550))
-* scoot down the item bodygraphs ([#58553](https://github.com/CleverRaven/Cataclysm-DDA/pull/58553))
 * Routine Tileset updates on 19 June 2022 ([#58562](https://github.com/CleverRaven/Cataclysm-DDA/pull/58562))
 * Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
