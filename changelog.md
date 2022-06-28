@@ -1,3 +1,12 @@
+* Fix crash when disabling robots with zero electronics and mechanics practice skills ([#58783](https://github.com/CleverRaven/Cataclysm-DDA/pull/58783))
+* Detect measurement units in user locale settings on Windows ([#58784](https://github.com/CleverRaven/Cataclysm-DDA/pull/58784))
+* tests: fix avatar pos in mapgen_remove_npcs ([#58787](https://github.com/CleverRaven/Cataclysm-DDA/pull/58787))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-28-1529 ([4cea5d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-1529))
+
+* locale: detect measurement units with glibc ([#58789](https://github.com/CleverRaven/Cataclysm-DDA/pull/58789))
 
 ---
 
@@ -171,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-06-24-1649 ([2bedf75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-24-1649))
 
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-24-0811 ([131cea4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-24-0811))
-
 * Added explanation of repairs-like flag to documentation ([#58630](https://github.com/CleverRaven/Cataclysm-DDA/pull/58630))
 * Fix pocket insertion nested item crash ([#58618](https://github.com/CleverRaven/Cataclysm-DDA/pull/58618))
 * iterator_traits<vehicle_part_iterator<T>> is missing reference ([#58647](https://github.com/CleverRaven/Cataclysm-DDA/pull/58647))
@@ -197,7 +201,6 @@
 * Description fix for new military containers ([#58576](https://github.com/CleverRaven/Cataclysm-DDA/pull/58576))
 * fixes riot turrets to not shoot through obstacles ([#58569](https://github.com/CleverRaven/Cataclysm-DDA/pull/58569))
 * Mini lighter ([#58567](https://github.com/CleverRaven/Cataclysm-DDA/pull/58567))
-* Add recipes for refreshing fire drills ([#58559](https://github.com/CleverRaven/Cataclysm-DDA/pull/58559))
 * [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
 * [DinoMod] autolearn simple dino armor ([#58590](https://github.com/CleverRaven/Cataclysm-DDA/pull/58590))
 * Peek over ledges ([#58611](https://github.com/CleverRaven/Cataclysm-DDA/pull/58611))
@@ -207,7 +210,4 @@
 * Marginally better display of refusal reason in trade UI ([#58583](https://github.com/CleverRaven/Cataclysm-DDA/pull/58583))
 * fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
 * fixes 'science' attack to not mutate the player ([#58589](https://github.com/CleverRaven/Cataclysm-DDA/pull/58589))
-* Pocket Organize Fixes ([#58564](https://github.com/CleverRaven/Cataclysm-DDA/pull/58564))
 * clang fixes for health test ([#58578](https://github.com/CleverRaven/Cataclysm-DDA/pull/58578))
-* Routine Tileset updates on 19 June 2022 ([#58562](https://github.com/CleverRaven/Cataclysm-DDA/pull/58562))
-* Peek across misaligned z levels ([#58560](https://github.com/CleverRaven/Cataclysm-DDA/pull/58560))
