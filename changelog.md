@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-28-1655 ([80d1bee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-1655))
+
 * Fix crash when disabling robots with zero electronics and mechanics practice skills ([#58783](https://github.com/CleverRaven/Cataclysm-DDA/pull/58783))
 * Detect measurement units in user locale settings on Windows ([#58784](https://github.com/CleverRaven/Cataclysm-DDA/pull/58784))
 * tests: fix avatar pos in mapgen_remove_npcs ([#58787](https://github.com/CleverRaven/Cataclysm-DDA/pull/58787))
@@ -199,7 +204,6 @@
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
 * Description fix for new military containers ([#58576](https://github.com/CleverRaven/Cataclysm-DDA/pull/58576))
 * fixes riot turrets to not shoot through obstacles ([#58569](https://github.com/CleverRaven/Cataclysm-DDA/pull/58569))
-* Mini lighter ([#58567](https://github.com/CleverRaven/Cataclysm-DDA/pull/58567))
 * [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
 * [DinoMod] autolearn simple dino armor ([#58590](https://github.com/CleverRaven/Cataclysm-DDA/pull/58590))
 * Peek over ledges ([#58611](https://github.com/CleverRaven/Cataclysm-DDA/pull/58611))
