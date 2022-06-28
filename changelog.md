@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-28-1004 ([ca2e70c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-1004))
+
+* updated the faraday chainmail suit ([#58739](https://github.com/CleverRaven/Cataclysm-DDA/pull/58739))
 * [innawood] allow bronze picks to disassemble large rocks ([#58677](https://github.com/CleverRaven/Cataclysm-DDA/pull/58677))
 * Overhaul sights' volumes ([#58588](https://github.com/CleverRaven/Cataclysm-DDA/pull/58588))
 * Fix the compact sidebar regressions and document the string field for widgets ([#58714](https://github.com/CleverRaven/Cataclysm-DDA/pull/58714))
@@ -185,7 +191,6 @@
 * Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
 * Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
 * hide collapsed and sealed items in organize menu ([#58612](https://github.com/CleverRaven/Cataclysm-DDA/pull/58612))
-* Add wild plant seeds ([#58557](https://github.com/CleverRaven/Cataclysm-DDA/pull/58557))
 * Fix blocking with weapon when wearing armor that blocks. ([#58579](https://github.com/CleverRaven/Cataclysm-DDA/pull/58579))
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
