@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-06-29-1226 (cc52f60)
+* `Unload container` action allows unloading containers from nearby tiles (#58807)
+
 Cataclysm-DDA experimental build 2022-06-28-1655 (80d1bee)
 * Fix crash when disabling robots with zero electronics and mechanics practice skills (#58783)
 * Detect measurement units in user locale settings on Windows (#58784)
@@ -114,7 +117,6 @@ Cataclysm-DDA experimental build 2022-06-24-1649 (2bedf75)
 * Fix pocket insertion nested item crash (#58618)
 * iterator_traits<vehicle_part_iterator<T>> is missing reference (#58647)
 * Aftershock Exosuit Balance Pass (#58582)
-* Nerfed praying mantises (#58568)
 * Add ammonia to migration json (#58652)
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs (#58655)
 * Hardtack and Casserole Fixes (#58659)

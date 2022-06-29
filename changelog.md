@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-29-1226 ([cc52f60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-29-1226))
+
+* `Unload container` action allows unloading containers from nearby tiles ([#58807](https://github.com/CleverRaven/Cataclysm-DDA/pull/58807))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-28-1655 ([80d1bee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-1655))
 
 * Fix crash when disabling robots with zero electronics and mechanics practice skills ([#58783](https://github.com/CleverRaven/Cataclysm-DDA/pull/58783))
@@ -189,7 +195,6 @@
 * Fix pocket insertion nested item crash ([#58618](https://github.com/CleverRaven/Cataclysm-DDA/pull/58618))
 * iterator_traits<vehicle_part_iterator<T>> is missing reference ([#58647](https://github.com/CleverRaven/Cataclysm-DDA/pull/58647))
 * Aftershock Exosuit Balance Pass ([#58582](https://github.com/CleverRaven/Cataclysm-DDA/pull/58582))
-* Nerfed praying mantises ([#58568](https://github.com/CleverRaven/Cataclysm-DDA/pull/58568))
 * Add ammonia to migration json ([#58652](https://github.com/CleverRaven/Cataclysm-DDA/pull/58652))
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
