@@ -157,7 +157,6 @@
 * Nested bags and better zombie drop groups ([#58651](https://github.com/CleverRaven/Cataclysm-DDA/pull/58651))
 * Restricted Gasoline Zeds to Gas Stations (w/ rare chance) ([#58649](https://github.com/CleverRaven/Cataclysm-DDA/pull/58649))
 * Updates even more locations ([#58585](https://github.com/CleverRaven/Cataclysm-DDA/pull/58585))
-* Allow placing f_null on open air ([#58574](https://github.com/CleverRaven/Cataclysm-DDA/pull/58574))
 
 ---
 
