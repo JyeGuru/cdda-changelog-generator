@@ -95,7 +95,6 @@ Cataclysm-DDA experimental build 2022-06-25-0836 (55adc9a)
 * Restricted Gasoline Zeds to Gas Stations (w/ rare chance) (#58649)
 * Updates even more locations (#58585)
 * Allow placing f_null on open air (#58574)
-* Extract examine_action to translate (#58573)
 
 Cataclysm-DDA experimental build 2022-06-25-0716 (1256913)
 * Classify riot control bot arrest message as bad (#58692)
