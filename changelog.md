@@ -1,3 +1,4 @@
+* Add M1/M2 carbine and .30 Carbine ammunition. ([#58814](https://github.com/CleverRaven/Cataclysm-DDA/pull/58814))
 * Avoid unnecessarily constructing utf8_wrapper for obtaining display width ([#58847](https://github.com/CleverRaven/Cataclysm-DDA/pull/58847))
 
 ---
