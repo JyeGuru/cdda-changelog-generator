@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-30-2059 ([cdbd0f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-2059))
+
 * Add M1/M2 carbine and .30 Carbine ammunition. ([#58814](https://github.com/CleverRaven/Cataclysm-DDA/pull/58814))
 * Avoid unnecessarily constructing utf8_wrapper for obtaining display width ([#58847](https://github.com/CleverRaven/Cataclysm-DDA/pull/58847))
 
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-06-26-0026 ([a64c5c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0026))
 
 * Adding the rare gun H&K USC 45 carbine ([#58636](https://github.com/CleverRaven/Cataclysm-DDA/pull/58636))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-25-1745 ([5ea8d0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-1745))
-
 * CR Aftershock Exosuit Melee ([#58617](https://github.com/CleverRaven/Cataclysm-DDA/pull/58617))
 * JSON Sidebar regression fixes ([#58678](https://github.com/CleverRaven/Cataclysm-DDA/pull/58678))
 * Add roof to military helipad and bunker ([#58694](https://github.com/CleverRaven/Cataclysm-DDA/pull/58694))
