@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-06-30-1545 (cd09087)
 * Wearable cameras (#58788)
 
 Cataclysm-DDA experimental build 2022-06-30-1443 (f385f24)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2022-06-25-0836 (55adc9a)
 * add snack boxes (#58681)
 * Nested bags and better zombie drop groups (#58651)
 * Restricted Gasoline Zeds to Gas Stations (w/ rare chance) (#58649)
-
-Cataclysm-DDA experimental build 2022-06-25-0716 (1256913)
 * Classify riot control bot arrest message as bad (#58692)
 * fix #58440 (#58671)
 * make searchlights passive entities (#58675)

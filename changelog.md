@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-30-1545 ([cd09087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-1545))
+
 * Wearable cameras ([#58788](https://github.com/CleverRaven/Cataclysm-DDA/pull/58788))
 
 ---
@@ -181,11 +186,6 @@
 * add snack boxes ([#58681](https://github.com/CleverRaven/Cataclysm-DDA/pull/58681))
 * Nested bags and better zombie drop groups ([#58651](https://github.com/CleverRaven/Cataclysm-DDA/pull/58651))
 * Restricted Gasoline Zeds to Gas Stations (w/ rare chance) ([#58649](https://github.com/CleverRaven/Cataclysm-DDA/pull/58649))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-25-0716 ([1256913](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0716))
-
 * Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
 * fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
 * make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
