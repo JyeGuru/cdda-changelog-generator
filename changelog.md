@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-30-0431 ([518b0b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0431))
+
+* Make sidebar padding configurable ([#58792](https://github.com/CleverRaven/Cataclysm-DDA/pull/58792))
+* Allow scrolling of string_input_popup descriptions ([#58609](https://github.com/CleverRaven/Cataclysm-DDA/pull/58609))
+* [Innawood] Blacklist MAN_MADE monsters ([#58774](https://github.com/CleverRaven/Cataclysm-DDA/pull/58774))
+* Refactored the Spinning Wheel ([#58656](https://github.com/CleverRaven/Cataclysm-DDA/pull/58656))
+* Balisong Switchblade ([#58780](https://github.com/CleverRaven/Cataclysm-DDA/pull/58780))
+* Support fuzzy search with accented latin letters ([#58794](https://github.com/CleverRaven/Cataclysm-DDA/pull/58794))
+* Fix mutation upgrades going out of category ([#58803](https://github.com/CleverRaven/Cataclysm-DDA/pull/58803))
+* Remove unnecessary use of utf8_wrapper in uilist::show() ([#58812](https://github.com/CleverRaven/Cataclysm-DDA/pull/58812))
+* [DinoMod] Mosasaurus live birth ([#58826](https://github.com/CleverRaven/Cataclysm-DDA/pull/58826))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-30-0322 ([4d09be7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0322))
+
+* Fix doc for vitamin_rates ([#58835](https://github.com/CleverRaven/Cataclysm-DDA/pull/58835))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-29-1946 ([edc1469](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-29-1946))
 
 * Can't Wear override ([#58806](https://github.com/CleverRaven/Cataclysm-DDA/pull/58806))
@@ -31,7 +51,6 @@
 
 * updated the faraday chainmail suit ([#58739](https://github.com/CleverRaven/Cataclysm-DDA/pull/58739))
 * [innawood] allow bronze picks to disassemble large rocks ([#58677](https://github.com/CleverRaven/Cataclysm-DDA/pull/58677))
-* Overhaul sights' volumes ([#58588](https://github.com/CleverRaven/Cataclysm-DDA/pull/58588))
 * Fix the compact sidebar regressions and document the string field for widgets ([#58714](https://github.com/CleverRaven/Cataclysm-DDA/pull/58714))
 * mapgen: more main map cleanup ([#58756](https://github.com/CleverRaven/Cataclysm-DDA/pull/58756))
 * Skatepark ramps ([#58723](https://github.com/CleverRaven/Cataclysm-DDA/pull/58723))
@@ -96,12 +115,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-06-26-1423 ([d4e5c54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-1423))
-
-* Reorder JSON error function params ([#58584](https://github.com/CleverRaven/Cataclysm-DDA/pull/58584))
-
----
-
 #### Cataclysm-DDA experimental build 2022-06-26-1141 ([066cdc6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-1141))
 
 * npctrade: show refusal in bionic install. menu too ([#58708](https://github.com/CleverRaven/Cataclysm-DDA/pull/58708))
@@ -156,7 +169,6 @@
 * add snack boxes ([#58681](https://github.com/CleverRaven/Cataclysm-DDA/pull/58681))
 * Nested bags and better zombie drop groups ([#58651](https://github.com/CleverRaven/Cataclysm-DDA/pull/58651))
 * Restricted Gasoline Zeds to Gas Stations (w/ rare chance) ([#58649](https://github.com/CleverRaven/Cataclysm-DDA/pull/58649))
-* Updates even more locations ([#58585](https://github.com/CleverRaven/Cataclysm-DDA/pull/58585))
 
 ---
 
@@ -176,24 +188,13 @@
 #### Cataclysm-DDA experimental build 2022-06-25-0315 ([78cbd13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0315))
 
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-25-0117 ([3d0fcf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0117))
-
 * Tweaking the MAGIC.md ([#58650](https://github.com/CleverRaven/Cataclysm-DDA/pull/58650))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-24-1819 ([1e21b88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-24-1819))
-
 * New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
 * More Unload for zones ([#58661](https://github.com/CleverRaven/Cataclysm-DDA/pull/58661))
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
 * Added explanation of repairs-like flag to documentation ([#58630](https://github.com/CleverRaven/Cataclysm-DDA/pull/58630))
 * Fix pocket insertion nested item crash ([#58618](https://github.com/CleverRaven/Cataclysm-DDA/pull/58618))
 * iterator_traits<vehicle_part_iterator<T>> is missing reference ([#58647](https://github.com/CleverRaven/Cataclysm-DDA/pull/58647))
-* Aftershock Exosuit Balance Pass ([#58582](https://github.com/CleverRaven/Cataclysm-DDA/pull/58582))
 * Add ammonia to migration json ([#58652](https://github.com/CleverRaven/Cataclysm-DDA/pull/58652))
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
@@ -203,17 +204,11 @@
 * Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
 * Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
 * hide collapsed and sealed items in organize menu ([#58612](https://github.com/CleverRaven/Cataclysm-DDA/pull/58612))
-* Fix blocking with weapon when wearing armor that blocks. ([#58579](https://github.com/CleverRaven/Cataclysm-DDA/pull/58579))
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
-* Description fix for new military containers ([#58576](https://github.com/CleverRaven/Cataclysm-DDA/pull/58576))
 * [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
-* [DinoMod] autolearn simple dino armor ([#58590](https://github.com/CleverRaven/Cataclysm-DDA/pull/58590))
 * Peek over ledges ([#58611](https://github.com/CleverRaven/Cataclysm-DDA/pull/58611))
 * Fixed road connection to TCL ([#58620](https://github.com/CleverRaven/Cataclysm-DDA/pull/58620))
 * hotfix build error in widget.cpp  ([#58592](https://github.com/CleverRaven/Cataclysm-DDA/pull/58592))
 * add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))
-* Marginally better display of refusal reason in trade UI ([#58583](https://github.com/CleverRaven/Cataclysm-DDA/pull/58583))
 * fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
-* fixes 'science' attack to not mutate the player ([#58589](https://github.com/CleverRaven/Cataclysm-DDA/pull/58589))
-* clang fixes for health test ([#58578](https://github.com/CleverRaven/Cataclysm-DDA/pull/58578))
