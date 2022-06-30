@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-30-0619 ([873f768](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0619))
+
+* remove fabrication reqs for kevlar suits ([#58827](https://github.com/CleverRaven/Cataclysm-DDA/pull/58827))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-30-0431 ([518b0b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0431))
 
 * Make sidebar padding configurable ([#58792](https://github.com/CleverRaven/Cataclysm-DDA/pull/58792))
@@ -182,11 +188,6 @@
 
 * fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
 * make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-25-0315 ([78cbd13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0315))
-
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
 * Tweaking the MAGIC.md ([#58650](https://github.com/CleverRaven/Cataclysm-DDA/pull/58650))
 * New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
@@ -211,4 +212,3 @@
 * Fixed road connection to TCL ([#58620](https://github.com/CleverRaven/Cataclysm-DDA/pull/58620))
 * hotfix build error in widget.cpp  ([#58592](https://github.com/CleverRaven/Cataclysm-DDA/pull/58592))
 * add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))
-* fixed minor grammar error in hub mercenary npc dialogue ([#58591](https://github.com/CleverRaven/Cataclysm-DDA/pull/58591))
