@@ -4,6 +4,11 @@
 #### Cataclysm-DDA experimental build 2022-06-30-0619 ([873f768](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0619))
 
 * remove fabrication reqs for kevlar suits ([#58827](https://github.com/CleverRaven/Cataclysm-DDA/pull/58827))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-30-0431 ([518b0b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0431))
+
 * Make sidebar padding configurable ([#58792](https://github.com/CleverRaven/Cataclysm-DDA/pull/58792))
 * Allow scrolling of string_input_popup descriptions ([#58609](https://github.com/CleverRaven/Cataclysm-DDA/pull/58609))
 * [Innawood] Blacklist MAN_MADE monsters ([#58774](https://github.com/CleverRaven/Cataclysm-DDA/pull/58774))
@@ -39,6 +44,11 @@
 * Fix crash when disabling robots with zero electronics and mechanics practice skills ([#58783](https://github.com/CleverRaven/Cataclysm-DDA/pull/58783))
 * Detect measurement units in user locale settings on Windows ([#58784](https://github.com/CleverRaven/Cataclysm-DDA/pull/58784))
 * tests: fix avatar pos in mapgen_remove_npcs ([#58787](https://github.com/CleverRaven/Cataclysm-DDA/pull/58787))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-28-1529 ([4cea5d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-1529))
+
 * locale: detect measurement units with glibc ([#58789](https://github.com/CleverRaven/Cataclysm-DDA/pull/58789))
 
 ---
@@ -100,6 +110,11 @@
 #### Cataclysm-DDA experimental build 2022-06-26-2122 ([b93c7ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-2122))
 
 * Remove unnecessary check for emptiness of container before iterating over of it. ([#58738](https://github.com/CleverRaven/Cataclysm-DDA/pull/58738))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-26-1548 ([0dbe8ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-1548))
+
 * added new barrels, mags and spawns for HWP ([#58726](https://github.com/CleverRaven/Cataclysm-DDA/pull/58726))
 * Bugfix to the gas zombie ([#58740](https://github.com/CleverRaven/Cataclysm-DDA/pull/58740))
 * Innawoods tailoring and misc fixes ([#58730](https://github.com/CleverRaven/Cataclysm-DDA/pull/58730))
@@ -173,23 +188,8 @@
 
 * fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
 * make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-25-0315 ([78cbd13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0315))
-
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-25-0117 ([3d0fcf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0117))
-
 * Tweaking the MAGIC.md ([#58650](https://github.com/CleverRaven/Cataclysm-DDA/pull/58650))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-24-1819 ([1e21b88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-24-1819))
-
 * New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
 * More Unload for zones ([#58661](https://github.com/CleverRaven/Cataclysm-DDA/pull/58661))
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
