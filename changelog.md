@@ -1,3 +1,10 @@
+* Wearable cameras ([#58788](https://github.com/CleverRaven/Cataclysm-DDA/pull/58788))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-06-30-1443 ([f385f24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-1443))
+
+* Added stereo appliance ([#58786](https://github.com/CleverRaven/Cataclysm-DDA/pull/58786))
 
 ---
 
@@ -142,7 +149,6 @@
 #### Cataclysm-DDA experimental build 2022-06-26-0155 ([0576312](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0155))
 
 * Fix grammar error in recipe_modular_shelter_2_common.json ([#58721](https://github.com/CleverRaven/Cataclysm-DDA/pull/58721))
-* Autodrive acceleration improvement ([#58594](https://github.com/CleverRaven/Cataclysm-DDA/pull/58594))
 * Police stations: change wooden doors ([#58691](https://github.com/CleverRaven/Cataclysm-DDA/pull/58691))
 * fix bug with item temperatures in underground areas ([#58724](https://github.com/CleverRaven/Cataclysm-DDA/pull/58724))
 * changes to recipes and core armors for EXODII ([#58711](https://github.com/CleverRaven/Cataclysm-DDA/pull/58711))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-06-25-0716 ([1256913](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0716))
 
 * Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-25-0451 ([06f4f6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0451))
-
 * fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
 * make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
@@ -210,5 +211,4 @@
 * [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
 * Peek over ledges ([#58611](https://github.com/CleverRaven/Cataclysm-DDA/pull/58611))
 * Fixed road connection to TCL ([#58620](https://github.com/CleverRaven/Cataclysm-DDA/pull/58620))
-* hotfix build error in widget.cpp  ([#58592](https://github.com/CleverRaven/Cataclysm-DDA/pull/58592))
 * add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))

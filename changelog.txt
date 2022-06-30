@@ -1,3 +1,7 @@
+* Wearable cameras (#58788)
+
+Cataclysm-DDA experimental build 2022-06-30-1443 (f385f24)
+* Added stereo appliance (#58786)
 
 Cataclysm-DDA experimental build 2022-06-30-0619 (873f768)
 * remove fabrication reqs for kevlar suits (#58827)
@@ -82,7 +86,6 @@ Cataclysm-DDA experimental build 2022-06-26-0758 (4f8aa14)
 
 Cataclysm-DDA experimental build 2022-06-26-0155 (0576312)
 * Fix grammar error in recipe_modular_shelter_2_common.json (#58721)
-* Autodrive acceleration improvement (#58594)
 * Police stations: change wooden doors (#58691)
 * fix bug with item temperatures in underground areas (#58724)
 * changes to recipes and core armors for EXODII (#58711)
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2022-06-25-0836 (55adc9a)
 
 Cataclysm-DDA experimental build 2022-06-25-0716 (1256913)
 * Classify riot control bot arrest message as bad (#58692)
-
-Cataclysm-DDA experimental build 2022-06-25-0451 (06f4f6f)
 * fix #58440 (#58671)
 * make searchlights passive entities (#58675)
 * Routine i18n updates on 25 June 2022 (#58701)
@@ -135,5 +136,4 @@ Cataclysm-DDA experimental build 2022-06-25-0451 (06f4f6f)
 * [DinoMod] mutagen recipe updates (#58626)
 * Peek over ledges (#58611)
 * Fixed road connection to TCL (#58620)
-* hotfix build error in widget.cpp  (#58592)
 * add metal bars to empty window frames (#58599)
