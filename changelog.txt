@@ -1,3 +1,4 @@
+* Avoid unnecessarily constructing utf8_wrapper for obtaining display width (#58847)
 
 Cataclysm-DDA experimental build 2022-06-30-1958 (155cdcb)
 * Riot Helmet Covers All Of Mouth and Eyes (#58828)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-06-25-1745 (5ea8d0c)
 * [DinoMod] mutagen recipe updates (#58626)
 * Peek over ledges (#58611)
 * Fixed road connection to TCL (#58620)
-* add metal bars to empty window frames (#58599)

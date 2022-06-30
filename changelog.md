@@ -1,3 +1,4 @@
+* Avoid unnecessarily constructing utf8_wrapper for obtaining display width ([#58847](https://github.com/CleverRaven/Cataclysm-DDA/pull/58847))
 
 ---
 
@@ -211,4 +212,3 @@
 * [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
 * Peek over ledges ([#58611](https://github.com/CleverRaven/Cataclysm-DDA/pull/58611))
 * Fixed road connection to TCL ([#58620](https://github.com/CleverRaven/Cataclysm-DDA/pull/58620))
-* add metal bars to empty window frames ([#58599](https://github.com/CleverRaven/Cataclysm-DDA/pull/58599))
