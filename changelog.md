@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-06-30-1958 ([155cdcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-1958))
+
+* Riot Helmet Covers All Of Mouth and Eyes ([#58828](https://github.com/CleverRaven/Cataclysm-DDA/pull/58828))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-06-30-1545 ([cd09087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-1545))
 
 * Wearable cameras ([#58788](https://github.com/CleverRaven/Cataclysm-DDA/pull/58788))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-06-25-1745 ([5ea8d0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-1745))
 
 * CR Aftershock Exosuit Melee ([#58617](https://github.com/CleverRaven/Cataclysm-DDA/pull/58617))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-25-0836 ([55adc9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-25-0836))
-
 * JSON Sidebar regression fixes ([#58678](https://github.com/CleverRaven/Cataclysm-DDA/pull/58678))
 * Add roof to military helipad and bunker ([#58694](https://github.com/CleverRaven/Cataclysm-DDA/pull/58694))
 * fix: reduce astyle corrections output ([#58696](https://github.com/CleverRaven/Cataclysm-DDA/pull/58696))
@@ -201,7 +202,6 @@
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
 * fixes for organize menu clarity ([#58653](https://github.com/CleverRaven/Cataclysm-DDA/pull/58653))
-* Do not try to show info of "on" variants for power armor that are already on ([#58595](https://github.com/CleverRaven/Cataclysm-DDA/pull/58595))
 * Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))
 * Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
 * Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
