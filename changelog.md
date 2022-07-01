@@ -1,3 +1,10 @@
+* Put Mycus Skins on the right rendering layer ([#58853](https://github.com/CleverRaven/Cataclysm-DDA/pull/58853))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-01-0027 ([4921972](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0027))
+
+* UI, Added color themes ([#58646](https://github.com/CleverRaven/Cataclysm-DDA/pull/58646))
 
 ---
 
@@ -35,7 +42,6 @@
 #### Cataclysm-DDA experimental build 2022-06-30-0431 ([518b0b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0431))
 
 * Make sidebar padding configurable ([#58792](https://github.com/CleverRaven/Cataclysm-DDA/pull/58792))
-* Allow scrolling of string_input_popup descriptions ([#58609](https://github.com/CleverRaven/Cataclysm-DDA/pull/58609))
 * [Innawood] Blacklist MAN_MADE monsters ([#58774](https://github.com/CleverRaven/Cataclysm-DDA/pull/58774))
 * Refactored the Spinning Wheel ([#58656](https://github.com/CleverRaven/Cataclysm-DDA/pull/58656))
 * Balisong Switchblade ([#58780](https://github.com/CleverRaven/Cataclysm-DDA/pull/58780))
@@ -172,11 +178,6 @@
 * changes to recipes and core armors for EXODII ([#58711](https://github.com/CleverRaven/Cataclysm-DDA/pull/58711))
 * Prevent disassembling more items than an available amount ([#58718](https://github.com/CleverRaven/Cataclysm-DDA/pull/58718))
 * Add missing ids to Edit (f)ields in the debug map editor ([#58712](https://github.com/CleverRaven/Cataclysm-DDA/pull/58712))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-26-0026 ([a64c5c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0026))
-
 * Adding the rare gun H&K USC 45 carbine ([#58636](https://github.com/CleverRaven/Cataclysm-DDA/pull/58636))
 * CR Aftershock Exosuit Melee ([#58617](https://github.com/CleverRaven/Cataclysm-DDA/pull/58617))
 * JSON Sidebar regression fixes ([#58678](https://github.com/CleverRaven/Cataclysm-DDA/pull/58678))
@@ -211,5 +212,4 @@
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
 * [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
-* Peek over ledges ([#58611](https://github.com/CleverRaven/Cataclysm-DDA/pull/58611))
 * Fixed road connection to TCL ([#58620](https://github.com/CleverRaven/Cataclysm-DDA/pull/58620))
