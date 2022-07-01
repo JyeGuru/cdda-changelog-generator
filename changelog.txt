@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2022-06-26-2228 (1db5e5a)
 
 Cataclysm-DDA experimental build 2022-06-26-2122 (b93c7ea)
 * Remove unnecessary check for emptiness of container before iterating over of it. (#58738)
-
-Cataclysm-DDA experimental build 2022-06-26-1548 (0dbe8ac)
 * added new barrels, mags and spawns for HWP (#58726)
 * Bugfix to the gas zombie (#58740)
 * Innawoods tailoring and misc fixes (#58730)

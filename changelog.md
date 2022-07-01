@@ -170,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-06-26-2122 ([b93c7ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-2122))
 
 * Remove unnecessary check for emptiness of container before iterating over of it. ([#58738](https://github.com/CleverRaven/Cataclysm-DDA/pull/58738))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-26-1548 ([0dbe8ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-1548))
-
 * added new barrels, mags and spawns for HWP ([#58726](https://github.com/CleverRaven/Cataclysm-DDA/pull/58726))
 * Bugfix to the gas zombie ([#58740](https://github.com/CleverRaven/Cataclysm-DDA/pull/58740))
 * Innawoods tailoring and misc fixes ([#58730](https://github.com/CleverRaven/Cataclysm-DDA/pull/58730))
