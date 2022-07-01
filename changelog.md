@@ -1,3 +1,20 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-01-0402 ([0e1f72e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0402))
+
+* Add menu for swapping color themes ([#58856](https://github.com/CleverRaven/Cataclysm-DDA/pull/58856))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-01-0240 ([f20fdaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0240))
+
+* check if unload is "good" using standard call for unload zones ([#58857](https://github.com/CleverRaven/Cataclysm-DDA/pull/58857))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-01-0128 ([d6af5a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0128))
+
 * Put Mycus Skins on the right rendering layer ([#58853](https://github.com/CleverRaven/Cataclysm-DDA/pull/58853))
 
 ---
@@ -161,17 +178,7 @@
 #### Cataclysm-DDA experimental build 2022-06-26-1020 ([f8ce437](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-1020))
 
 * Widgets: dummy render pass when switching sidebars ([#58731](https://github.com/CleverRaven/Cataclysm-DDA/pull/58731))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-26-0758 ([4f8aa14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0758))
-
 * hub 01 mapgen fixes ([#58728](https://github.com/CleverRaven/Cataclysm-DDA/pull/58728))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-26-0155 ([0576312](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-0155))
-
 * Fix grammar error in recipe_modular_shelter_2_common.json ([#58721](https://github.com/CleverRaven/Cataclysm-DDA/pull/58721))
 * Police stations: change wooden doors ([#58691](https://github.com/CleverRaven/Cataclysm-DDA/pull/58691))
 * fix bug with item temperatures in underground areas ([#58724](https://github.com/CleverRaven/Cataclysm-DDA/pull/58724))
@@ -179,7 +186,6 @@
 * Prevent disassembling more items than an available amount ([#58718](https://github.com/CleverRaven/Cataclysm-DDA/pull/58718))
 * Add missing ids to Edit (f)ields in the debug map editor ([#58712](https://github.com/CleverRaven/Cataclysm-DDA/pull/58712))
 * Adding the rare gun H&K USC 45 carbine ([#58636](https://github.com/CleverRaven/Cataclysm-DDA/pull/58636))
-* CR Aftershock Exosuit Melee ([#58617](https://github.com/CleverRaven/Cataclysm-DDA/pull/58617))
 * JSON Sidebar regression fixes ([#58678](https://github.com/CleverRaven/Cataclysm-DDA/pull/58678))
 * Add roof to military helipad and bunker ([#58694](https://github.com/CleverRaven/Cataclysm-DDA/pull/58694))
 * fix: reduce astyle corrections output ([#58696](https://github.com/CleverRaven/Cataclysm-DDA/pull/58696))
@@ -208,7 +214,6 @@
 * Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))
 * Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
 * Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
-* hide collapsed and sealed items in organize menu ([#58612](https://github.com/CleverRaven/Cataclysm-DDA/pull/58612))
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
 * [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
