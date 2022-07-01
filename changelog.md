@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-01-1314 ([14471ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-1314))
+
+* Fixes pawn shop basement ([#58866](https://github.com/CleverRaven/Cataclysm-DDA/pull/58866))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-01-0633 ([679fd9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0633))
 
 * Obsolete necropolis ([#58842](https://github.com/CleverRaven/Cataclysm-DDA/pull/58842))
@@ -172,11 +178,6 @@
 * added new barrels, mags and spawns for HWP ([#58726](https://github.com/CleverRaven/Cataclysm-DDA/pull/58726))
 * Bugfix to the gas zombie ([#58740](https://github.com/CleverRaven/Cataclysm-DDA/pull/58740))
 * Innawoods tailoring and misc fixes ([#58730](https://github.com/CleverRaven/Cataclysm-DDA/pull/58730))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-26-1141 ([066cdc6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-1141))
-
 * npctrade: show refusal in bionic install. menu too ([#58708](https://github.com/CleverRaven/Cataclysm-DDA/pull/58708))
 * Widgets: dummy render pass when switching sidebars ([#58731](https://github.com/CleverRaven/Cataclysm-DDA/pull/58731))
 * hub 01 mapgen fixes ([#58728](https://github.com/CleverRaven/Cataclysm-DDA/pull/58728))
@@ -217,4 +218,3 @@
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
 * [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
-* Fixed road connection to TCL ([#58620](https://github.com/CleverRaven/Cataclysm-DDA/pull/58620))
