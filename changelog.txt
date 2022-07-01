@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-01-0633 (679fd9f)
+* Obsolete necropolis (#58842)
+
 Cataclysm-DDA experimental build 2022-07-01-0402 (0e1f72e)
 * Add menu for swapping color themes (#58856)
 
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2022-06-26-1548 (0dbe8ac)
 
 Cataclysm-DDA experimental build 2022-06-26-1141 (066cdc6)
 * npctrade: show refusal in bionic install. menu too (#58708)
-
-Cataclysm-DDA experimental build 2022-06-26-1020 (f8ce437)
 * Widgets: dummy render pass when switching sidebars (#58731)
 * hub 01 mapgen fixes (#58728)
 * Fix grammar error in recipe_modular_shelter_2_common.json (#58721)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2022-06-26-1020 (f8ce437)
 * More Unload for zones (#58661)
 * hotfix build error in map.cpp (#58680)
 * Added explanation of repairs-like flag to documentation (#58630)
-* Fix pocket insertion nested item crash (#58618)
 * iterator_traits<vehicle_part_iterator<T>> is missing reference (#58647)
 * Add ammonia to migration json (#58652)
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs (#58655)
