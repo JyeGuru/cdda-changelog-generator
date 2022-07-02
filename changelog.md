@@ -1,3 +1,5 @@
+* ci: colored diff output ([#58886](https://github.com/CleverRaven/Cataclysm-DDA/pull/58886))
+* flag bottom of mine as a challenge ([#58859](https://github.com/CleverRaven/Cataclysm-DDA/pull/58859))
 * remove day one shockers from open sewer ([#58896](https://github.com/CleverRaven/Cataclysm-DDA/pull/58896))
 * Define special_forest_thick as a forest tile ([#58894](https://github.com/CleverRaven/Cataclysm-DDA/pull/58894))
 * Survive a season to unlock Ambush and The Next Summer ([#58902](https://github.com/CleverRaven/Cataclysm-DDA/pull/58902))
@@ -205,6 +207,4 @@
 * make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
 * New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
-* More Unload for zones ([#58661](https://github.com/CleverRaven/Cataclysm-DDA/pull/58661))
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
-* Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
