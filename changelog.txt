@@ -1,4 +1,6 @@
 * ci: colored diff output (#58886)
+
+Cataclysm-DDA experimental build 2022-07-02-2115 (26b4c80)
 * flag bottom of mine as a challenge (#58859)
 * remove day one shockers from open sewer (#58896)
 * Define special_forest_thick as a forest tile (#58894)

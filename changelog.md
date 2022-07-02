@@ -1,4 +1,9 @@
 * ci: colored diff output ([#58886](https://github.com/CleverRaven/Cataclysm-DDA/pull/58886))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-02-2115 ([26b4c80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-2115))
+
 * flag bottom of mine as a challenge ([#58859](https://github.com/CleverRaven/Cataclysm-DDA/pull/58859))
 * remove day one shockers from open sewer ([#58896](https://github.com/CleverRaven/Cataclysm-DDA/pull/58896))
 * Define special_forest_thick as a forest tile ([#58894](https://github.com/CleverRaven/Cataclysm-DDA/pull/58894))
