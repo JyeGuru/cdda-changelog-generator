@@ -1,3 +1,4 @@
+* Meta Progression ([#58804](https://github.com/CleverRaven/Cataclysm-DDA/pull/58804))
 
 ---
 
@@ -164,11 +165,6 @@
 
 * Remove option to set MAPSIZE via make parameter ([#58737](https://github.com/CleverRaven/Cataclysm-DDA/pull/58737))
 * Aftershock Exosuit Fixes ([#58685](https://github.com/CleverRaven/Cataclysm-DDA/pull/58685))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-26-2122 ([b93c7ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-2122))
-
 * Remove unnecessary check for emptiness of container before iterating over of it. ([#58738](https://github.com/CleverRaven/Cataclysm-DDA/pull/58738))
 * added new barrels, mags and spawns for HWP ([#58726](https://github.com/CleverRaven/Cataclysm-DDA/pull/58726))
 * Bugfix to the gas zombie ([#58740](https://github.com/CleverRaven/Cataclysm-DDA/pull/58740))
@@ -208,7 +204,6 @@
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
 * fixes for organize menu clarity ([#58653](https://github.com/CleverRaven/Cataclysm-DDA/pull/58653))
 * Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))
-* Don't offer dropping unwieldable weapons when talking with NPCs ([#58622](https://github.com/CleverRaven/Cataclysm-DDA/pull/58622))
 * Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
 * fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
 * Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
