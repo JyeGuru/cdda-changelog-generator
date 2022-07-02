@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-02-2251 ([cd2401b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-2251))
+
 * Cyborg Weakpoint set ([#58889](https://github.com/CleverRaven/Cataclysm-DDA/pull/58889))
 * Minor missile silo overhaul ([#58845](https://github.com/CleverRaven/Cataclysm-DDA/pull/58845))
 * Label various style files with the style label ([#58906](https://github.com/CleverRaven/Cataclysm-DDA/pull/58906))
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-06-28-1529 ([4cea5d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-1529))
 
 * locale: detect measurement units with glibc ([#58789](https://github.com/CleverRaven/Cataclysm-DDA/pull/58789))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-28-1004 ([ca2e70c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-1004))
-
 * updated the faraday chainmail suit ([#58739](https://github.com/CleverRaven/Cataclysm-DDA/pull/58739))
 * [innawood] allow bronze picks to disassemble large rocks ([#58677](https://github.com/CleverRaven/Cataclysm-DDA/pull/58677))
 * Fix the compact sidebar regressions and document the string field for widgets ([#58714](https://github.com/CleverRaven/Cataclysm-DDA/pull/58714))

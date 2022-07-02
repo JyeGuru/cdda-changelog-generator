@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-02-2251 (cd2401b)
 * Cyborg Weakpoint set (#58889)
 * Minor missile silo overhaul (#58845)
 * Label various style files with the style label (#58906)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2022-06-28-1655 (80d1bee)
 
 Cataclysm-DDA experimental build 2022-06-28-1529 (4cea5d1)
 * locale: detect measurement units with glibc (#58789)
-
-Cataclysm-DDA experimental build 2022-06-28-1004 (ca2e70c)
 * updated the faraday chainmail suit (#58739)
 * [innawood] allow bronze picks to disassemble large rocks (#58677)
 * Fix the compact sidebar regressions and document the string field for widgets (#58714)
