@@ -1,3 +1,14 @@
+* Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
+* Allow recipes to copy activity level ([#58639](https://github.com/CleverRaven/Cataclysm-DDA/pull/58639))
+* clang-tidy check to replace more uses of auto ([#58637](https://github.com/CleverRaven/Cataclysm-DDA/pull/58637))
+* Enable clang-tidy modernize-loop-convert ([#58869](https://github.com/CleverRaven/Cataclysm-DDA/pull/58869))
+* Fix cooked food being cosidered raw ([#58878](https://github.com/CleverRaven/Cataclysm-DDA/pull/58878))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-02-0314 ([e04bd04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0314))
+
+* Misc test fixes ([#58883](https://github.com/CleverRaven/Cataclysm-DDA/pull/58883))
 * Meta Progression ([#58804](https://github.com/CleverRaven/Cataclysm-DDA/pull/58804))
 
 ---
@@ -158,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2022-06-27-0443 ([7844483](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-0443))
 
 * Fix bionic cost of dopamine stimulator and grenade launcher cbms ([#58763](https://github.com/CleverRaven/Cataclysm-DDA/pull/58763))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-26-2228 ([1db5e5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-26-2228))
-
 * Remove option to set MAPSIZE via make parameter ([#58737](https://github.com/CleverRaven/Cataclysm-DDA/pull/58737))
 * Aftershock Exosuit Fixes ([#58685](https://github.com/CleverRaven/Cataclysm-DDA/pull/58685))
 * Remove unnecessary check for emptiness of container before iterating over of it. ([#58738](https://github.com/CleverRaven/Cataclysm-DDA/pull/58738))
@@ -178,7 +184,6 @@
 * changes to recipes and core armors for EXODII ([#58711](https://github.com/CleverRaven/Cataclysm-DDA/pull/58711))
 * Prevent disassembling more items than an available amount ([#58718](https://github.com/CleverRaven/Cataclysm-DDA/pull/58718))
 * Add missing ids to Edit (f)ields in the debug map editor ([#58712](https://github.com/CleverRaven/Cataclysm-DDA/pull/58712))
-* Adding the rare gun H&K USC 45 carbine ([#58636](https://github.com/CleverRaven/Cataclysm-DDA/pull/58636))
 * JSON Sidebar regression fixes ([#58678](https://github.com/CleverRaven/Cataclysm-DDA/pull/58678))
 * Add roof to military helipad and bunker ([#58694](https://github.com/CleverRaven/Cataclysm-DDA/pull/58694))
 * fix: reduce astyle corrections output ([#58696](https://github.com/CleverRaven/Cataclysm-DDA/pull/58696))
@@ -197,14 +202,9 @@
 * New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
 * More Unload for zones ([#58661](https://github.com/CleverRaven/Cataclysm-DDA/pull/58661))
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
-* Added explanation of repairs-like flag to documentation ([#58630](https://github.com/CleverRaven/Cataclysm-DDA/pull/58630))
 * iterator_traits<vehicle_part_iterator<T>> is missing reference ([#58647](https://github.com/CleverRaven/Cataclysm-DDA/pull/58647))
 * Add ammonia to migration json ([#58652](https://github.com/CleverRaven/Cataclysm-DDA/pull/58652))
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
 * fixes for organize menu clarity ([#58653](https://github.com/CleverRaven/Cataclysm-DDA/pull/58653))
 * Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))
-* Aftershock: Remove the 3x4 formless ruin special ([#58629](https://github.com/CleverRaven/Cataclysm-DDA/pull/58629))
-* fix: remove unused variables ([#58623](https://github.com/CleverRaven/Cataclysm-DDA/pull/58623))
-* Updated fabric composition of army clothing to match ACU/ECWS spec ([#58628](https://github.com/CleverRaven/Cataclysm-DDA/pull/58628))
-* [DinoMod] mutagen recipe updates ([#58626](https://github.com/CleverRaven/Cataclysm-DDA/pull/58626))
