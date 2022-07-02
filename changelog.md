@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-02-0830 ([fb69d30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0830))
+
 * even more tweaking the MAGIC.md ([#58722](https://github.com/CleverRaven/Cataclysm-DDA/pull/58722))
 * Item Description Cleanup Project - Armor and Clothing ([#58668](https://github.com/CleverRaven/Cataclysm-DDA/pull/58668))
 
@@ -155,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-06-28-0621 ([ee191e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-0621))
 
 * Pass zone_data by ref in zone_manager::save_world_zones() ([#58778](https://github.com/CleverRaven/Cataclysm-DDA/pull/58778))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-27-1746 ([b1d5318](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-1746))
-
 * Migrate c-style math functions to C++ cmath counterparts ([#58766](https://github.com/CleverRaven/Cataclysm-DDA/pull/58766))
 * Sidebar thirst now matches consume menu thirst ([#58720](https://github.com/CleverRaven/Cataclysm-DDA/pull/58720))
 * [DinoMod] Nanuqsaurus and burned rebuild ([#58702](https://github.com/CleverRaven/Cataclysm-DDA/pull/58702))
