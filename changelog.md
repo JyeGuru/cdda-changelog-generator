@@ -1,3 +1,5 @@
+* Aftershock Exosuit Helmet Update ([#58841](https://github.com/CleverRaven/Cataclysm-DDA/pull/58841))
+* Aluminum scrap ([#58672](https://github.com/CleverRaven/Cataclysm-DDA/pull/58672))
 
 ---
 
@@ -35,7 +37,6 @@
 #### Cataclysm-DDA experimental build 2022-07-02-0830 ([fb69d30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0830))
 
 * even more tweaking the MAGIC.md ([#58722](https://github.com/CleverRaven/Cataclysm-DDA/pull/58722))
-* Item Description Cleanup Project - Armor and Clothing ([#58668](https://github.com/CleverRaven/Cataclysm-DDA/pull/58668))
 
 ---
 
@@ -211,7 +212,6 @@
 * JSON sidebar compact Env widget improvements ([#58687](https://github.com/CleverRaven/Cataclysm-DDA/pull/58687))
 * add snack boxes ([#58681](https://github.com/CleverRaven/Cataclysm-DDA/pull/58681))
 * Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
-* fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
 * make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
