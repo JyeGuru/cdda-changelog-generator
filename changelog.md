@@ -1,11 +1,11 @@
+* Update the table of contents in doc/JSON_INFO.md ([#58885](https://github.com/CleverRaven/Cataclysm-DDA/pull/58885))
+* Routine i18n updates on 02 July 2022 ([#58888](https://github.com/CleverRaven/Cataclysm-DDA/pull/58888))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-07-02-0440 ([fa6f25b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0440))
 
 * Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
-* Allow recipes to copy activity level ([#58639](https://github.com/CleverRaven/Cataclysm-DDA/pull/58639))
-* clang-tidy check to replace more uses of auto ([#58637](https://github.com/CleverRaven/Cataclysm-DDA/pull/58637))
 * Enable clang-tidy modernize-loop-convert ([#58869](https://github.com/CleverRaven/Cataclysm-DDA/pull/58869))
 * Fix cooked food being cosidered raw ([#58878](https://github.com/CleverRaven/Cataclysm-DDA/pull/58878))
 
