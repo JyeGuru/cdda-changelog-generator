@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-02-0440 ([fa6f25b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0440))
+
 * Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
 * Allow recipes to copy activity level ([#58639](https://github.com/CleverRaven/Cataclysm-DDA/pull/58639))
 * clang-tidy check to replace more uses of auto ([#58637](https://github.com/CleverRaven/Cataclysm-DDA/pull/58637))
@@ -163,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-06-27-0622 ([cccc950](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-0622))
 
 * Removed charge requirements from plastic bag in Ice Cream recipe. ([#58762](https://github.com/CleverRaven/Cataclysm-DDA/pull/58762))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-27-0443 ([7844483](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-0443))
-
 * Fix bionic cost of dopamine stimulator and grenade launcher cbms ([#58763](https://github.com/CleverRaven/Cataclysm-DDA/pull/58763))
 * Remove option to set MAPSIZE via make parameter ([#58737](https://github.com/CleverRaven/Cataclysm-DDA/pull/58737))
 * Aftershock Exosuit Fixes ([#58685](https://github.com/CleverRaven/Cataclysm-DDA/pull/58685))
