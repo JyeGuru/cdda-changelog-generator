@@ -1,3 +1,5 @@
+* Cyborg Weakpoint set ([#58889](https://github.com/CleverRaven/Cataclysm-DDA/pull/58889))
+* Minor missile silo overhaul ([#58845](https://github.com/CleverRaven/Cataclysm-DDA/pull/58845))
 * Label various style files with the style label ([#58906](https://github.com/CleverRaven/Cataclysm-DDA/pull/58906))
 * ci: colored diff output ([#58886](https://github.com/CleverRaven/Cataclysm-DDA/pull/58886))
 
@@ -212,5 +214,4 @@
 * fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
 * make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
-* New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
