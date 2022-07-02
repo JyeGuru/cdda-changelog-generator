@@ -1,3 +1,5 @@
+* remove day one shockers from open sewer ([#58896](https://github.com/CleverRaven/Cataclysm-DDA/pull/58896))
+* Define special_forest_thick as a forest tile ([#58894](https://github.com/CleverRaven/Cataclysm-DDA/pull/58894))
 * Survive a season to unlock Ambush and The Next Summer ([#58902](https://github.com/CleverRaven/Cataclysm-DDA/pull/58902))
 * Dinomod NPC trait group fix ([#58909](https://github.com/CleverRaven/Cataclysm-DDA/pull/58909))
 
@@ -116,7 +118,6 @@
 
 * Make sidebar padding configurable ([#58792](https://github.com/CleverRaven/Cataclysm-DDA/pull/58792))
 * [Innawood] Blacklist MAN_MADE monsters ([#58774](https://github.com/CleverRaven/Cataclysm-DDA/pull/58774))
-* Refactored the Spinning Wheel ([#58656](https://github.com/CleverRaven/Cataclysm-DDA/pull/58656))
 * Balisong Switchblade ([#58780](https://github.com/CleverRaven/Cataclysm-DDA/pull/58780))
 * Support fuzzy search with accented latin letters ([#58794](https://github.com/CleverRaven/Cataclysm-DDA/pull/58794))
 * Fix mutation upgrades going out of category ([#58803](https://github.com/CleverRaven/Cataclysm-DDA/pull/58803))
@@ -206,5 +207,4 @@
 * New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
 * More Unload for zones ([#58661](https://github.com/CleverRaven/Cataclysm-DDA/pull/58661))
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
-* Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
