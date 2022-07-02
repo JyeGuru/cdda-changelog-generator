@@ -1,3 +1,11 @@
+* Survive a season to unlock Ambush and The Next Summer ([#58902](https://github.com/CleverRaven/Cataclysm-DDA/pull/58902))
+* Dinomod NPC trait group fix ([#58909](https://github.com/CleverRaven/Cataclysm-DDA/pull/58909))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-02-1949 ([710aa0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-1949))
+
+* Remove more auto types ([#58908](https://github.com/CleverRaven/Cataclysm-DDA/pull/58908))
 
 ---
 
@@ -160,11 +168,6 @@
 * Weakpoint inheritance fixes ([#58769](https://github.com/CleverRaven/Cataclysm-DDA/pull/58769))
 * Detect measurement units in the system locale on macOS ([#58779](https://github.com/CleverRaven/Cataclysm-DDA/pull/58779))
 * Fix typo in the description of fungal ganglion ([#58781](https://github.com/CleverRaven/Cataclysm-DDA/pull/58781))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-28-0621 ([ee191e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-0621))
-
 * Pass zone_data by ref in zone_manager::save_world_zones() ([#58778](https://github.com/CleverRaven/Cataclysm-DDA/pull/58778))
 * Migrate c-style math functions to C++ cmath counterparts ([#58766](https://github.com/CleverRaven/Cataclysm-DDA/pull/58766))
 * Sidebar thirst now matches consume menu thirst ([#58720](https://github.com/CleverRaven/Cataclysm-DDA/pull/58720))
@@ -196,7 +199,6 @@
 * minimum columns for sidebars and the thicc bar ([#58688](https://github.com/CleverRaven/Cataclysm-DDA/pull/58688))
 * JSON sidebar compact Env widget improvements ([#58687](https://github.com/CleverRaven/Cataclysm-DDA/pull/58687))
 * add snack boxes ([#58681](https://github.com/CleverRaven/Cataclysm-DDA/pull/58681))
-* Nested bags and better zombie drop groups ([#58651](https://github.com/CleverRaven/Cataclysm-DDA/pull/58651))
 * Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
 * fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
 * make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
@@ -204,7 +206,5 @@
 * New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
 * More Unload for zones ([#58661](https://github.com/CleverRaven/Cataclysm-DDA/pull/58661))
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
-* Add ammonia to migration json ([#58652](https://github.com/CleverRaven/Cataclysm-DDA/pull/58652))
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
-* fixes for organize menu clarity ([#58653](https://github.com/CleverRaven/Cataclysm-DDA/pull/58653))
