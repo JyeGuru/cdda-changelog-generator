@@ -1,3 +1,5 @@
+* [DinoMod] samples ([#58861](https://github.com/CleverRaven/Cataclysm-DDA/pull/58861))
+* Aftershock Exosuit Power Up! ([#58690](https://github.com/CleverRaven/Cataclysm-DDA/pull/58690))
 
 ---
 
@@ -50,12 +52,6 @@
 #### Cataclysm-DDA experimental build 2022-07-01-0128 ([d6af5a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0128))
 
 * Put Mycus Skins on the right rendering layer ([#58853](https://github.com/CleverRaven/Cataclysm-DDA/pull/58853))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-01-0027 ([4921972](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0027))
-
-* UI, Added color themes ([#58646](https://github.com/CleverRaven/Cataclysm-DDA/pull/58646))
 
 ---
 
@@ -207,4 +203,3 @@
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
 * fixes for organize menu clarity ([#58653](https://github.com/CleverRaven/Cataclysm-DDA/pull/58653))
-* Reduce wintergreen oil pkill effect ([#58642](https://github.com/CleverRaven/Cataclysm-DDA/pull/58642))

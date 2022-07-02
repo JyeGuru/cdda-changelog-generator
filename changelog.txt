@@ -1,3 +1,5 @@
+* [DinoMod] samples (#58861)
+* Aftershock Exosuit Power Up! (#58690)
 
 Cataclysm-DDA experimental build 2022-07-02-0556 (88fd343)
 * Update the table of contents in doc/JSON_INFO.md (#58885)
@@ -26,9 +28,6 @@ Cataclysm-DDA experimental build 2022-07-01-0240 (f20fdaf)
 
 Cataclysm-DDA experimental build 2022-07-01-0128 (d6af5a1)
 * Put Mycus Skins on the right rendering layer (#58853)
-
-Cataclysm-DDA experimental build 2022-07-01-0027 (4921972)
-* UI, Added color themes (#58646)
 
 Cataclysm-DDA experimental build 2022-06-30-2059 (cdbd0f3)
 * Add M1/M2 carbine and .30 Carbine ammunition. (#58814)
@@ -135,4 +134,3 @@ Cataclysm-DDA experimental build 2022-06-27-0731 (31319f8)
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs (#58655)
 * Hardtack and Casserole Fixes (#58659)
 * fixes for organize menu clarity (#58653)
-* Reduce wintergreen oil pkill effect (#58642)
