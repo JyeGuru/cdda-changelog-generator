@@ -1,3 +1,5 @@
+* even more tweaking the MAGIC.md ([#58722](https://github.com/CleverRaven/Cataclysm-DDA/pull/58722))
+* Item Description Cleanup Project - Armor and Clothing ([#58668](https://github.com/CleverRaven/Cataclysm-DDA/pull/58668))
 
 ---
 
@@ -189,7 +191,6 @@
 * JSON sidebar compact Env widget improvements ([#58687](https://github.com/CleverRaven/Cataclysm-DDA/pull/58687))
 * add snack boxes ([#58681](https://github.com/CleverRaven/Cataclysm-DDA/pull/58681))
 * Nested bags and better zombie drop groups ([#58651](https://github.com/CleverRaven/Cataclysm-DDA/pull/58651))
-* Restricted Gasoline Zeds to Gas Stations (w/ rare chance) ([#58649](https://github.com/CleverRaven/Cataclysm-DDA/pull/58649))
 * Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
 * fix #58440 ([#58671](https://github.com/CleverRaven/Cataclysm-DDA/pull/58671))
 * make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
@@ -198,7 +199,6 @@
 * New Bunker Mapgen ([#58665](https://github.com/CleverRaven/Cataclysm-DDA/pull/58665))
 * More Unload for zones ([#58661](https://github.com/CleverRaven/Cataclysm-DDA/pull/58661))
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
-* iterator_traits<vehicle_part_iterator<T>> is missing reference ([#58647](https://github.com/CleverRaven/Cataclysm-DDA/pull/58647))
 * Add ammonia to migration json ([#58652](https://github.com/CleverRaven/Cataclysm-DDA/pull/58652))
 * Wielded guns without `PRIMITIVE_RANGED_WEAPON` flag cause more fear in npcs ([#58655](https://github.com/CleverRaven/Cataclysm-DDA/pull/58655))
 * Hardtack and Casserole Fixes ([#58659](https://github.com/CleverRaven/Cataclysm-DDA/pull/58659))
