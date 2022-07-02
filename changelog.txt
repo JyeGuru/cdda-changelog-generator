@@ -1,3 +1,4 @@
+* Label various style files with the style label (#58906)
 * ci: colored diff output (#58886)
 
 Cataclysm-DDA experimental build 2022-07-02-2115 (26b4c80)

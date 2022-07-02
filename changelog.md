@@ -1,3 +1,4 @@
+* Label various style files with the style label ([#58906](https://github.com/CleverRaven/Cataclysm-DDA/pull/58906))
 * ci: colored diff output ([#58886](https://github.com/CleverRaven/Cataclysm-DDA/pull/58886))
 
 ---
