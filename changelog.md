@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-02-0705 ([b8deb91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0705))
+
 * [DinoMod] samples ([#58861](https://github.com/CleverRaven/Cataclysm-DDA/pull/58861))
 * Aftershock Exosuit Power Up! ([#58690](https://github.com/CleverRaven/Cataclysm-DDA/pull/58690))
 
@@ -154,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2022-06-27-1746 ([b1d5318](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-1746))
 
 * Migrate c-style math functions to C++ cmath counterparts ([#58766](https://github.com/CleverRaven/Cataclysm-DDA/pull/58766))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-27-0731 ([31319f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-27-0731))
-
 * Sidebar thirst now matches consume menu thirst ([#58720](https://github.com/CleverRaven/Cataclysm-DDA/pull/58720))
 * [DinoMod] Nanuqsaurus and burned rebuild ([#58702](https://github.com/CleverRaven/Cataclysm-DDA/pull/58702))
 * Routine Tileset updates on 26 June 2022 ([#58761](https://github.com/CleverRaven/Cataclysm-DDA/pull/58761))
