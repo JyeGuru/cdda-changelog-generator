@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-03-1221 (5a9fa2a)
 * Turpentine and Camphine v2 (#58918)
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. (#58907)
 
@@ -87,8 +89,6 @@ Cataclysm-DDA experimental build 2022-06-30-1958 (155cdcb)
 
 Cataclysm-DDA experimental build 2022-06-30-1545 (cd09087)
 * Wearable cameras (#58788)
-
-Cataclysm-DDA experimental build 2022-06-30-1443 (f385f24)
 * Added stereo appliance (#58786)
 * remove fabrication reqs for kevlar suits (#58827)
 * Make sidebar padding configurable (#58792)

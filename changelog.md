@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-03-1221 ([5a9fa2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1221))
+
 * Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. ([#58907](https://github.com/CleverRaven/Cataclysm-DDA/pull/58907))
 
@@ -159,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2022-06-30-1545 ([cd09087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-1545))
 
 * Wearable cameras ([#58788](https://github.com/CleverRaven/Cataclysm-DDA/pull/58788))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-30-1443 ([f385f24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-1443))
-
 * Added stereo appliance ([#58786](https://github.com/CleverRaven/Cataclysm-DDA/pull/58786))
 * remove fabrication reqs for kevlar suits ([#58827](https://github.com/CleverRaven/Cataclysm-DDA/pull/58827))
 * Make sidebar padding configurable ([#58792](https://github.com/CleverRaven/Cataclysm-DDA/pull/58792))
