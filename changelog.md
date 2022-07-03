@@ -1,3 +1,10 @@
+* Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. ([#58907](https://github.com/CleverRaven/Cataclysm-DDA/pull/58907))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-03-1110 ([2ae6a75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1110))
+
+* Audit of pistol spawns ([#58903](https://github.com/CleverRaven/Cataclysm-DDA/pull/58903))
 
 ---
 
@@ -157,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2022-06-30-1443 ([f385f24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-1443))
 
 * Added stereo appliance ([#58786](https://github.com/CleverRaven/Cataclysm-DDA/pull/58786))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-30-0619 ([873f768](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0619))
-
 * remove fabrication reqs for kevlar suits ([#58827](https://github.com/CleverRaven/Cataclysm-DDA/pull/58827))
 * Make sidebar padding configurable ([#58792](https://github.com/CleverRaven/Cataclysm-DDA/pull/58792))
 * [Innawood] Blacklist MAN_MADE monsters ([#58774](https://github.com/CleverRaven/Cataclysm-DDA/pull/58774))
@@ -194,7 +196,6 @@
 * Removed charge requirements from plastic bag in Ice Cream recipe. ([#58762](https://github.com/CleverRaven/Cataclysm-DDA/pull/58762))
 * Fix bionic cost of dopamine stimulator and grenade launcher cbms ([#58763](https://github.com/CleverRaven/Cataclysm-DDA/pull/58763))
 * Remove option to set MAPSIZE via make parameter ([#58737](https://github.com/CleverRaven/Cataclysm-DDA/pull/58737))
-* Aftershock Exosuit Fixes ([#58685](https://github.com/CleverRaven/Cataclysm-DDA/pull/58685))
 * Remove unnecessary check for emptiness of container before iterating over of it. ([#58738](https://github.com/CleverRaven/Cataclysm-DDA/pull/58738))
 * added new barrels, mags and spawns for HWP ([#58726](https://github.com/CleverRaven/Cataclysm-DDA/pull/58726))
 * Bugfix to the gas zombie ([#58740](https://github.com/CleverRaven/Cataclysm-DDA/pull/58740))
@@ -213,6 +214,5 @@
 * Update innawood_map_settings.json ([#58695](https://github.com/CleverRaven/Cataclysm-DDA/pull/58695))
 * Removed incorrect line from combat help ([#58698](https://github.com/CleverRaven/Cataclysm-DDA/pull/58698))
 * minimum columns for sidebars and the thicc bar ([#58688](https://github.com/CleverRaven/Cataclysm-DDA/pull/58688))
-* JSON sidebar compact Env widget improvements ([#58687](https://github.com/CleverRaven/Cataclysm-DDA/pull/58687))
 * Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
