@@ -1,3 +1,5 @@
+* [DinoMod] The PR that gives CBMs to tyrannosaurus ([#58912](https://github.com/CleverRaven/Cataclysm-DDA/pull/58912))
+* Edible cooked artichokes ([#58919](https://github.com/CleverRaven/Cataclysm-DDA/pull/58919))
 * Palettize farm_2side house ([#58900](https://github.com/CleverRaven/Cataclysm-DDA/pull/58900))
 
 ---
@@ -173,7 +175,6 @@
 * tests: fix avatar pos in mapgen_remove_npcs ([#58787](https://github.com/CleverRaven/Cataclysm-DDA/pull/58787))
 * locale: detect measurement units with glibc ([#58789](https://github.com/CleverRaven/Cataclysm-DDA/pull/58789))
 * updated the faraday chainmail suit ([#58739](https://github.com/CleverRaven/Cataclysm-DDA/pull/58739))
-* [innawood] allow bronze picks to disassemble large rocks ([#58677](https://github.com/CleverRaven/Cataclysm-DDA/pull/58677))
 * Fix the compact sidebar regressions and document the string field for widgets ([#58714](https://github.com/CleverRaven/Cataclysm-DDA/pull/58714))
 * mapgen: more main map cleanup ([#58756](https://github.com/CleverRaven/Cataclysm-DDA/pull/58756))
 * Skatepark ramps ([#58723](https://github.com/CleverRaven/Cataclysm-DDA/pull/58723))
@@ -204,7 +205,6 @@
 * changes to recipes and core armors for EXODII ([#58711](https://github.com/CleverRaven/Cataclysm-DDA/pull/58711))
 * Prevent disassembling more items than an available amount ([#58718](https://github.com/CleverRaven/Cataclysm-DDA/pull/58718))
 * Add missing ids to Edit (f)ields in the debug map editor ([#58712](https://github.com/CleverRaven/Cataclysm-DDA/pull/58712))
-* JSON Sidebar regression fixes ([#58678](https://github.com/CleverRaven/Cataclysm-DDA/pull/58678))
 * Add roof to military helipad and bunker ([#58694](https://github.com/CleverRaven/Cataclysm-DDA/pull/58694))
 * fix: reduce astyle corrections output ([#58696](https://github.com/CleverRaven/Cataclysm-DDA/pull/58696))
 * Update innawood_map_settings.json ([#58695](https://github.com/CleverRaven/Cataclysm-DDA/pull/58695))
