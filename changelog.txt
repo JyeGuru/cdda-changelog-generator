@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-03-1716 (e68b884)
+* All corpse items nest if possible (#58913)
+
 Cataclysm-DDA experimental build 2022-07-03-1352 (cccb059)
 * Fix multiline widgets using W_NO_PADDING flag (#58922)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2022-07-01-0128 (d6af5a1)
 Cataclysm-DDA experimental build 2022-06-30-2059 (cdbd0f3)
 * Add M1/M2 carbine and .30 Carbine ammunition. (#58814)
 * Avoid unnecessarily constructing utf8_wrapper for obtaining display width (#58847)
-
-Cataclysm-DDA experimental build 2022-06-30-1958 (155cdcb)
 * Riot Helmet Covers All Of Mouth and Eyes (#58828)
 * Wearable cameras (#58788)
 * Added stereo appliance (#58786)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2022-06-30-1958 (155cdcb)
 * Widgets: dummy render pass when switching sidebars (#58731)
 * hub 01 mapgen fixes (#58728)
 * Fix grammar error in recipe_modular_shelter_2_common.json (#58721)
-* Police stations: change wooden doors (#58691)
 * fix bug with item temperatures in underground areas (#58724)
 * changes to recipes and core armors for EXODII (#58711)
 * Prevent disassembling more items than an available amount (#58718)

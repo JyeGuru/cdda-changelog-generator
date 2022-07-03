@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-03-1716 ([e68b884](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1716))
+
+* All corpse items nest if possible ([#58913](https://github.com/CleverRaven/Cataclysm-DDA/pull/58913))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-03-1352 ([cccb059](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1352))
 
 * Fix multiline widgets using W_NO_PADDING flag ([#58922](https://github.com/CleverRaven/Cataclysm-DDA/pull/58922))
@@ -157,11 +163,6 @@
 
 * Add M1/M2 carbine and .30 Carbine ammunition. ([#58814](https://github.com/CleverRaven/Cataclysm-DDA/pull/58814))
 * Avoid unnecessarily constructing utf8_wrapper for obtaining display width ([#58847](https://github.com/CleverRaven/Cataclysm-DDA/pull/58847))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-30-1958 ([155cdcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-1958))
-
 * Riot Helmet Covers All Of Mouth and Eyes ([#58828](https://github.com/CleverRaven/Cataclysm-DDA/pull/58828))
 * Wearable cameras ([#58788](https://github.com/CleverRaven/Cataclysm-DDA/pull/58788))
 * Added stereo appliance ([#58786](https://github.com/CleverRaven/Cataclysm-DDA/pull/58786))
@@ -205,7 +206,6 @@
 * Widgets: dummy render pass when switching sidebars ([#58731](https://github.com/CleverRaven/Cataclysm-DDA/pull/58731))
 * hub 01 mapgen fixes ([#58728](https://github.com/CleverRaven/Cataclysm-DDA/pull/58728))
 * Fix grammar error in recipe_modular_shelter_2_common.json ([#58721](https://github.com/CleverRaven/Cataclysm-DDA/pull/58721))
-* Police stations: change wooden doors ([#58691](https://github.com/CleverRaven/Cataclysm-DDA/pull/58691))
 * fix bug with item temperatures in underground areas ([#58724](https://github.com/CleverRaven/Cataclysm-DDA/pull/58724))
 * changes to recipes and core armors for EXODII ([#58711](https://github.com/CleverRaven/Cataclysm-DDA/pull/58711))
 * Prevent disassembling more items than an available amount ([#58718](https://github.com/CleverRaven/Cataclysm-DDA/pull/58718))
