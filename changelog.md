@@ -1,3 +1,4 @@
+* Main menu overhaul (Part 2): simplify world creation ([#58862](https://github.com/CleverRaven/Cataclysm-DDA/pull/58862))
 
 ---
 
@@ -215,4 +216,3 @@
 * add snack boxes ([#58681](https://github.com/CleverRaven/Cataclysm-DDA/pull/58681))
 * Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
-* hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
