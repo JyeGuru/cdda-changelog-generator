@@ -1,3 +1,13 @@
+* Update HP and armor on #56566 ([#58937](https://github.com/CleverRaven/Cataclysm-DDA/pull/58937))
+* Routine Tileset updates on 03 July 2022 ([#58952](https://github.com/CleverRaven/Cataclysm-DDA/pull/58952))
+* Display airliner basement properly and not as solid rock ([#58949](https://github.com/CleverRaven/Cataclysm-DDA/pull/58949))
+* Update intensity of instability effect ([#58950](https://github.com/CleverRaven/Cataclysm-DDA/pull/58950))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-03-2334 ([f97d601](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-2334))
+
+* Correct a width off-by-one error in world creator ([#58942](https://github.com/CleverRaven/Cataclysm-DDA/pull/58942))
 
 ---
 
@@ -156,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2022-07-01-0128 ([d6af5a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0128))
 
 * Put Mycus Skins on the right rendering layer ([#58853](https://github.com/CleverRaven/Cataclysm-DDA/pull/58853))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-30-2059 ([cdbd0f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-2059))
-
 * Add M1/M2 carbine and .30 Carbine ammunition. ([#58814](https://github.com/CleverRaven/Cataclysm-DDA/pull/58814))
 * Avoid unnecessarily constructing utf8_wrapper for obtaining display width ([#58847](https://github.com/CleverRaven/Cataclysm-DDA/pull/58847))
 * Riot Helmet Covers All Of Mouth and Eyes ([#58828](https://github.com/CleverRaven/Cataclysm-DDA/pull/58828))
@@ -210,9 +215,4 @@
 * changes to recipes and core armors for EXODII ([#58711](https://github.com/CleverRaven/Cataclysm-DDA/pull/58711))
 * Prevent disassembling more items than an available amount ([#58718](https://github.com/CleverRaven/Cataclysm-DDA/pull/58718))
 * Add missing ids to Edit (f)ields in the debug map editor ([#58712](https://github.com/CleverRaven/Cataclysm-DDA/pull/58712))
-* Add roof to military helipad and bunker ([#58694](https://github.com/CleverRaven/Cataclysm-DDA/pull/58694))
-* fix: reduce astyle corrections output ([#58696](https://github.com/CleverRaven/Cataclysm-DDA/pull/58696))
-* Update innawood_map_settings.json ([#58695](https://github.com/CleverRaven/Cataclysm-DDA/pull/58695))
-* Removed incorrect line from combat help ([#58698](https://github.com/CleverRaven/Cataclysm-DDA/pull/58698))
-* Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
