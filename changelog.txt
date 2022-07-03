@@ -1,3 +1,6 @@
+* Made Mutation Instability more visible (#58867)
+
+Cataclysm-DDA experimental build 2022-07-03-0812 (afd3d8f)
 * Main menu overhaul (Part 2): simplify world creation (#58862)
 
 Cataclysm-DDA experimental build 2022-07-03-0641 (07e9972)
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2022-06-30-0431 (518b0b2)
 * Fix mutation upgrades going out of category (#58803)
 * Remove unnecessary use of utf8_wrapper in uilist::show() (#58812)
 * [DinoMod] Mosasaurus live birth (#58826)
-
-Cataclysm-DDA experimental build 2022-06-30-0322 (4d09be7)
 * Fix doc for vitamin_rates (#58835)
 * Can't Wear override (#58806)
 * `Unload container` action allows unloading containers from nearby tiles (#58807)
@@ -138,6 +139,5 @@ Cataclysm-DDA experimental build 2022-06-30-0322 (4d09be7)
 * Removed incorrect line from combat help (#58698)
 * minimum columns for sidebars and the thicc bar (#58688)
 * JSON sidebar compact Env widget improvements (#58687)
-* add snack boxes (#58681)
 * Classify riot control bot arrest message as bad (#58692)
 * Routine i18n updates on 25 June 2022 (#58701)

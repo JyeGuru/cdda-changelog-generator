@@ -1,3 +1,9 @@
+* Made Mutation Instability more visible ([#58867](https://github.com/CleverRaven/Cataclysm-DDA/pull/58867))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-03-0812 ([afd3d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0812))
+
 * Main menu overhaul (Part 2): simplify world creation ([#58862](https://github.com/CleverRaven/Cataclysm-DDA/pull/58862))
 
 ---
@@ -164,11 +170,6 @@
 * Fix mutation upgrades going out of category ([#58803](https://github.com/CleverRaven/Cataclysm-DDA/pull/58803))
 * Remove unnecessary use of utf8_wrapper in uilist::show() ([#58812](https://github.com/CleverRaven/Cataclysm-DDA/pull/58812))
 * [DinoMod] Mosasaurus live birth ([#58826](https://github.com/CleverRaven/Cataclysm-DDA/pull/58826))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-30-0322 ([4d09be7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0322))
-
 * Fix doc for vitamin_rates ([#58835](https://github.com/CleverRaven/Cataclysm-DDA/pull/58835))
 * Can't Wear override ([#58806](https://github.com/CleverRaven/Cataclysm-DDA/pull/58806))
 * `Unload container` action allows unloading containers from nearby tiles ([#58807](https://github.com/CleverRaven/Cataclysm-DDA/pull/58807))
@@ -213,6 +214,5 @@
 * Removed incorrect line from combat help ([#58698](https://github.com/CleverRaven/Cataclysm-DDA/pull/58698))
 * minimum columns for sidebars and the thicc bar ([#58688](https://github.com/CleverRaven/Cataclysm-DDA/pull/58688))
 * JSON sidebar compact Env widget improvements ([#58687](https://github.com/CleverRaven/Cataclysm-DDA/pull/58687))
-* add snack boxes ([#58681](https://github.com/CleverRaven/Cataclysm-DDA/pull/58681))
 * Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
