@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-03-0918 ([5f050ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0918))
+
 * Made Mutation Instability more visible ([#58867](https://github.com/CleverRaven/Cataclysm-DDA/pull/58867))
 
 ---
@@ -158,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-06-30-0619 ([873f768](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0619))
 
 * remove fabrication reqs for kevlar suits ([#58827](https://github.com/CleverRaven/Cataclysm-DDA/pull/58827))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-30-0431 ([518b0b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0431))
-
 * Make sidebar padding configurable ([#58792](https://github.com/CleverRaven/Cataclysm-DDA/pull/58792))
 * [Innawood] Blacklist MAN_MADE monsters ([#58774](https://github.com/CleverRaven/Cataclysm-DDA/pull/58774))
 * Balisong Switchblade ([#58780](https://github.com/CleverRaven/Cataclysm-DDA/pull/58780))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-03-0918 (5f050ee)
 * Made Mutation Instability more visible (#58867)
 
 Cataclysm-DDA experimental build 2022-07-03-0812 (afd3d8f)
@@ -86,8 +88,6 @@ Cataclysm-DDA experimental build 2022-06-30-1443 (f385f24)
 
 Cataclysm-DDA experimental build 2022-06-30-0619 (873f768)
 * remove fabrication reqs for kevlar suits (#58827)
-
-Cataclysm-DDA experimental build 2022-06-30-0431 (518b0b2)
 * Make sidebar padding configurable (#58792)
 * [Innawood] Blacklist MAN_MADE monsters (#58774)
 * Balisong Switchblade (#58780)
