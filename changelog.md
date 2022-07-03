@@ -1,3 +1,9 @@
+* Revert changes to plate arm and leg descriptions ([#58920](https://github.com/CleverRaven/Cataclysm-DDA/pull/58920))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-03-0522 ([bb64290](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0522))
+
 * [DinoMod] The PR that gives CBMs to tyrannosaurus ([#58912](https://github.com/CleverRaven/Cataclysm-DDA/pull/58912))
 * Edible cooked artichokes ([#58919](https://github.com/CleverRaven/Cataclysm-DDA/pull/58919))
 * Palettize farm_2side house ([#58900](https://github.com/CleverRaven/Cataclysm-DDA/pull/58900))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-06-29-1946 ([edc1469](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-29-1946))
 
 * Can't Wear override ([#58806](https://github.com/CleverRaven/Cataclysm-DDA/pull/58806))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-29-1226 ([cc52f60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-29-1226))
-
 * `Unload container` action allows unloading containers from nearby tiles ([#58807](https://github.com/CleverRaven/Cataclysm-DDA/pull/58807))
 * Fix crash when disabling robots with zero electronics and mechanics practice skills ([#58783](https://github.com/CleverRaven/Cataclysm-DDA/pull/58783))
 * Detect measurement units in user locale settings on Windows ([#58784](https://github.com/CleverRaven/Cataclysm-DDA/pull/58784))

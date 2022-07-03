@@ -1,3 +1,6 @@
+* Revert changes to plate arm and leg descriptions (#58920)
+
+Cataclysm-DDA experimental build 2022-07-03-0522 (bb64290)
 * [DinoMod] The PR that gives CBMs to tyrannosaurus (#58912)
 * Edible cooked artichokes (#58919)
 * Palettize farm_2side house (#58900)
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2022-06-30-0322 (4d09be7)
 
 Cataclysm-DDA experimental build 2022-06-29-1946 (edc1469)
 * Can't Wear override (#58806)
-
-Cataclysm-DDA experimental build 2022-06-29-1226 (cc52f60)
 * `Unload container` action allows unloading containers from nearby tiles (#58807)
 * Fix crash when disabling robots with zero electronics and mechanics practice skills (#58783)
 * Detect measurement units in user locale settings on Windows (#58784)
