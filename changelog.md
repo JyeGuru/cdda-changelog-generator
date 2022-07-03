@@ -1,3 +1,4 @@
+* Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. ([#58907](https://github.com/CleverRaven/Cataclysm-DDA/pull/58907))
 
 ---
@@ -213,6 +214,5 @@
 * fix: reduce astyle corrections output ([#58696](https://github.com/CleverRaven/Cataclysm-DDA/pull/58696))
 * Update innawood_map_settings.json ([#58695](https://github.com/CleverRaven/Cataclysm-DDA/pull/58695))
 * Removed incorrect line from combat help ([#58698](https://github.com/CleverRaven/Cataclysm-DDA/pull/58698))
-* minimum columns for sidebars and the thicc bar ([#58688](https://github.com/CleverRaven/Cataclysm-DDA/pull/58688))
 * Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))

@@ -1,3 +1,4 @@
+* Turpentine and Camphine v2 (#58918)
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. (#58907)
 
 Cataclysm-DDA experimental build 2022-07-03-1110 (2ae6a75)
@@ -138,6 +139,5 @@ Cataclysm-DDA experimental build 2022-06-30-1443 (f385f24)
 * fix: reduce astyle corrections output (#58696)
 * Update innawood_map_settings.json (#58695)
 * Removed incorrect line from combat help (#58698)
-* minimum columns for sidebars and the thicc bar (#58688)
 * Classify riot control bot arrest message as bad (#58692)
 * Routine i18n updates on 25 June 2022 (#58701)
