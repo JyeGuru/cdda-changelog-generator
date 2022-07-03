@@ -1,5 +1,16 @@
+* Palettize farm_2side house ([#58900](https://github.com/CleverRaven/Cataclysm-DDA/pull/58900))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-03-0316 ([ad16167](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0316))
+
+* Add arthropod weakpoints ([#58751](https://github.com/CleverRaven/Cataclysm-DDA/pull/58751))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-03-0059 ([70e0419](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0059))
+
 * Aftershock Exosuit Helmet Update ([#58841](https://github.com/CleverRaven/Cataclysm-DDA/pull/58841))
-* Aluminum scrap ([#58672](https://github.com/CleverRaven/Cataclysm-DDA/pull/58672))
 
 ---
 
@@ -157,19 +168,9 @@
 #### Cataclysm-DDA experimental build 2022-06-29-1226 ([cc52f60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-29-1226))
 
 * `Unload container` action allows unloading containers from nearby tiles ([#58807](https://github.com/CleverRaven/Cataclysm-DDA/pull/58807))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-28-1655 ([80d1bee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-1655))
-
 * Fix crash when disabling robots with zero electronics and mechanics practice skills ([#58783](https://github.com/CleverRaven/Cataclysm-DDA/pull/58783))
 * Detect measurement units in user locale settings on Windows ([#58784](https://github.com/CleverRaven/Cataclysm-DDA/pull/58784))
 * tests: fix avatar pos in mapgen_remove_npcs ([#58787](https://github.com/CleverRaven/Cataclysm-DDA/pull/58787))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-28-1529 ([4cea5d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-28-1529))
-
 * locale: detect measurement units with glibc ([#58789](https://github.com/CleverRaven/Cataclysm-DDA/pull/58789))
 * updated the faraday chainmail suit ([#58739](https://github.com/CleverRaven/Cataclysm-DDA/pull/58739))
 * [innawood] allow bronze picks to disassemble large rocks ([#58677](https://github.com/CleverRaven/Cataclysm-DDA/pull/58677))
@@ -212,6 +213,5 @@
 * JSON sidebar compact Env widget improvements ([#58687](https://github.com/CleverRaven/Cataclysm-DDA/pull/58687))
 * add snack boxes ([#58681](https://github.com/CleverRaven/Cataclysm-DDA/pull/58681))
 * Classify riot control bot arrest message as bad ([#58692](https://github.com/CleverRaven/Cataclysm-DDA/pull/58692))
-* make searchlights passive entities ([#58675](https://github.com/CleverRaven/Cataclysm-DDA/pull/58675))
 * Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
 * hotfix build error in map.cpp ([#58680](https://github.com/CleverRaven/Cataclysm-DDA/pull/58680))
