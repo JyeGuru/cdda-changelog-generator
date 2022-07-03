@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-03-0641 ([07e9972](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0641))
+
 * Revert changes to plate arm and leg descriptions ([#58920](https://github.com/CleverRaven/Cataclysm-DDA/pull/58920))
 
 ---
@@ -164,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2022-06-30-0322 ([4d09be7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-0322))
 
 * Fix doc for vitamin_rates ([#58835](https://github.com/CleverRaven/Cataclysm-DDA/pull/58835))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-29-1946 ([edc1469](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-29-1946))
-
 * Can't Wear override ([#58806](https://github.com/CleverRaven/Cataclysm-DDA/pull/58806))
 * `Unload container` action allows unloading containers from nearby tiles ([#58807](https://github.com/CleverRaven/Cataclysm-DDA/pull/58807))
 * Fix crash when disabling robots with zero electronics and mechanics practice skills ([#58783](https://github.com/CleverRaven/Cataclysm-DDA/pull/58783))
