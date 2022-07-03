@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-03-1352 ([cccb059](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1352))
+
+* Fix multiline widgets using W_NO_PADDING flag ([#58922](https://github.com/CleverRaven/Cataclysm-DDA/pull/58922))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-03-1221 ([5a9fa2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1221))
 
 * Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
@@ -92,7 +98,6 @@
 #### Cataclysm-DDA experimental build 2022-07-02-0705 ([b8deb91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0705))
 
 * [DinoMod] samples ([#58861](https://github.com/CleverRaven/Cataclysm-DDA/pull/58861))
-* Aftershock Exosuit Power Up! ([#58690](https://github.com/CleverRaven/Cataclysm-DDA/pull/58690))
 
 ---
 
@@ -158,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-06-30-1958 ([155cdcb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-1958))
 
 * Riot Helmet Covers All Of Mouth and Eyes ([#58828](https://github.com/CleverRaven/Cataclysm-DDA/pull/58828))
-
----
-
-#### Cataclysm-DDA experimental build 2022-06-30-1545 ([cd09087](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-06-30-1545))
-
 * Wearable cameras ([#58788](https://github.com/CleverRaven/Cataclysm-DDA/pull/58788))
 * Added stereo appliance ([#58786](https://github.com/CleverRaven/Cataclysm-DDA/pull/58786))
 * remove fabrication reqs for kevlar suits ([#58827](https://github.com/CleverRaven/Cataclysm-DDA/pull/58827))
