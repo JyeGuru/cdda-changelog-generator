@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-04-1154 ([5d34e23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-1154))
+
+* Fix UBSan runtime error ([#58953](https://github.com/CleverRaven/Cataclysm-DDA/pull/58953))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-04-0452 ([5d5d5bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-0452))
 
 * Leg mutation for birds. ([#58777](https://github.com/CleverRaven/Cataclysm-DDA/pull/58777))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-07-01-0402 ([0e1f72e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0402))
 
 * Add menu for swapping color themes ([#58856](https://github.com/CleverRaven/Cataclysm-DDA/pull/58856))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-01-0240 ([f20fdaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0240))
-
 * check if unload is "good" using standard call for unload zones ([#58857](https://github.com/CleverRaven/Cataclysm-DDA/pull/58857))
 * Put Mycus Skins on the right rendering layer ([#58853](https://github.com/CleverRaven/Cataclysm-DDA/pull/58853))
 * Add M1/M2 carbine and .30 Carbine ammunition. ([#58814](https://github.com/CleverRaven/Cataclysm-DDA/pull/58814))
@@ -214,7 +215,6 @@
 * added new barrels, mags and spawns for HWP ([#58726](https://github.com/CleverRaven/Cataclysm-DDA/pull/58726))
 * Bugfix to the gas zombie ([#58740](https://github.com/CleverRaven/Cataclysm-DDA/pull/58740))
 * Innawoods tailoring and misc fixes ([#58730](https://github.com/CleverRaven/Cataclysm-DDA/pull/58730))
-* npctrade: show refusal in bionic install. menu too ([#58708](https://github.com/CleverRaven/Cataclysm-DDA/pull/58708))
 * Widgets: dummy render pass when switching sidebars ([#58731](https://github.com/CleverRaven/Cataclysm-DDA/pull/58731))
 * hub 01 mapgen fixes ([#58728](https://github.com/CleverRaven/Cataclysm-DDA/pull/58728))
 * Fix grammar error in recipe_modular_shelter_2_common.json ([#58721](https://github.com/CleverRaven/Cataclysm-DDA/pull/58721))

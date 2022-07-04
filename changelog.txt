@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-04-1154 (5d34e23)
+* Fix UBSan runtime error (#58953)
+
 Cataclysm-DDA experimental build 2022-07-04-0452 (5d5d5bd)
 * Leg mutation for birds. (#58777)
 * Revamp remove_field_fd_fatigue test (#58831)
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2022-07-01-0633 (679fd9f)
 
 Cataclysm-DDA experimental build 2022-07-01-0402 (0e1f72e)
 * Add menu for swapping color themes (#58856)
-
-Cataclysm-DDA experimental build 2022-07-01-0240 (f20fdaf)
 * check if unload is "good" using standard call for unload zones (#58857)
 * Put Mycus Skins on the right rendering layer (#58853)
 * Add M1/M2 carbine and .30 Carbine ammunition. (#58814)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2022-07-01-0240 (f20fdaf)
 * added new barrels, mags and spawns for HWP (#58726)
 * Bugfix to the gas zombie (#58740)
 * Innawoods tailoring and misc fixes (#58730)
-* npctrade: show refusal in bionic install. menu too (#58708)
 * Widgets: dummy render pass when switching sidebars (#58731)
 * hub 01 mapgen fixes (#58728)
 * Fix grammar error in recipe_modular_shelter_2_common.json (#58721)
