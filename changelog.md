@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-04-0452 ([5d5d5bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-0452))
+
+* Leg mutation for birds. ([#58777](https://github.com/CleverRaven/Cataclysm-DDA/pull/58777))
 * Revamp remove_field_fd_fatigue test ([#58831](https://github.com/CleverRaven/Cataclysm-DDA/pull/58831))
 
 ---
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-07-01-0240 ([f20fdaf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0240))
 
 * check if unload is "good" using standard call for unload zones ([#58857](https://github.com/CleverRaven/Cataclysm-DDA/pull/58857))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-01-0128 ([d6af5a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0128))
-
 * Put Mycus Skins on the right rendering layer ([#58853](https://github.com/CleverRaven/Cataclysm-DDA/pull/58853))
 * Add M1/M2 carbine and .30 Carbine ammunition. ([#58814](https://github.com/CleverRaven/Cataclysm-DDA/pull/58814))
 * Avoid unnecessarily constructing utf8_wrapper for obtaining display width ([#58847](https://github.com/CleverRaven/Cataclysm-DDA/pull/58847))
@@ -204,7 +205,6 @@
 * Pass zone_data by ref in zone_manager::save_world_zones() ([#58778](https://github.com/CleverRaven/Cataclysm-DDA/pull/58778))
 * Migrate c-style math functions to C++ cmath counterparts ([#58766](https://github.com/CleverRaven/Cataclysm-DDA/pull/58766))
 * Sidebar thirst now matches consume menu thirst ([#58720](https://github.com/CleverRaven/Cataclysm-DDA/pull/58720))
-* [DinoMod] Nanuqsaurus and burned rebuild ([#58702](https://github.com/CleverRaven/Cataclysm-DDA/pull/58702))
 * Routine Tileset updates on 26 June 2022 ([#58761](https://github.com/CleverRaven/Cataclysm-DDA/pull/58761))
 * added shoulder holster repairs like ([#58754](https://github.com/CleverRaven/Cataclysm-DDA/pull/58754))
 * Removed charge requirements from plastic bag in Ice Cream recipe. ([#58762](https://github.com/CleverRaven/Cataclysm-DDA/pull/58762))
