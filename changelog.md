@@ -1,3 +1,9 @@
+* Revamp remove_field_fd_fatigue test ([#58831](https://github.com/CleverRaven/Cataclysm-DDA/pull/58831))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-04-0037 ([437c1db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-0037))
+
 * Remove `HAMMER` use action from items ([#58935](https://github.com/CleverRaven/Cataclysm-DDA/pull/58935))
 * Update HP and armor on #56566 ([#58937](https://github.com/CleverRaven/Cataclysm-DDA/pull/58937))
 * Routine Tileset updates on 03 July 2022 ([#58952](https://github.com/CleverRaven/Cataclysm-DDA/pull/58952))
@@ -216,4 +222,3 @@
 * changes to recipes and core armors for EXODII ([#58711](https://github.com/CleverRaven/Cataclysm-DDA/pull/58711))
 * Prevent disassembling more items than an available amount ([#58718](https://github.com/CleverRaven/Cataclysm-DDA/pull/58718))
 * Add missing ids to Edit (f)ields in the debug map editor ([#58712](https://github.com/CleverRaven/Cataclysm-DDA/pull/58712))
-* Routine i18n updates on 25 June 2022 ([#58701](https://github.com/CleverRaven/Cataclysm-DDA/pull/58701))
