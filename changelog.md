@@ -1,3 +1,15 @@
+* mapgen: don't clean up main when shifting ([#58964](https://github.com/CleverRaven/Cataclysm-DDA/pull/58964))
+* Improve item filter help of zone manager and surrounding items menu ([#58773](https://github.com/CleverRaven/Cataclysm-DDA/pull/58773))
+* [DinoMod] allosaurus truck and hulk evolutions ([#58932](https://github.com/CleverRaven/Cataclysm-DDA/pull/58932))
+* cata_tiles: More robust variant looks-like ([#58976](https://github.com/CleverRaven/Cataclysm-DDA/pull/58976))
+* Fix typo in diary.cpp ([#58975](https://github.com/CleverRaven/Cataclysm-DDA/pull/58975))
+* Show hobby traits for every hobby, not just first ([#58978](https://github.com/CleverRaven/Cataclysm-DDA/pull/58978))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-04-2138 ([71aeb77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-2138))
+
+* Don't manually load 'id' member for traits ([#58977](https://github.com/CleverRaven/Cataclysm-DDA/pull/58977))
 
 ---
 
@@ -130,12 +142,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-07-02-0830 ([fb69d30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0830))
-
-* even more tweaking the MAGIC.md ([#58722](https://github.com/CleverRaven/Cataclysm-DDA/pull/58722))
-
----
-
 #### Cataclysm-DDA experimental build 2022-07-02-0705 ([b8deb91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0705))
 
 * [DinoMod] samples ([#58861](https://github.com/CleverRaven/Cataclysm-DDA/pull/58861))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-07-01-1314 ([14471ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-1314))
 
 * Fixes pawn shop basement ([#58866](https://github.com/CleverRaven/Cataclysm-DDA/pull/58866))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-01-0633 ([679fd9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-0633))
-
 * Obsolete necropolis ([#58842](https://github.com/CleverRaven/Cataclysm-DDA/pull/58842))
 * Add menu for swapping color themes ([#58856](https://github.com/CleverRaven/Cataclysm-DDA/pull/58856))
 * check if unload is "good" using standard call for unload zones ([#58857](https://github.com/CleverRaven/Cataclysm-DDA/pull/58857))
@@ -197,7 +198,6 @@
 * tests: fix avatar pos in mapgen_remove_npcs ([#58787](https://github.com/CleverRaven/Cataclysm-DDA/pull/58787))
 * locale: detect measurement units with glibc ([#58789](https://github.com/CleverRaven/Cataclysm-DDA/pull/58789))
 * updated the faraday chainmail suit ([#58739](https://github.com/CleverRaven/Cataclysm-DDA/pull/58739))
-* Fix the compact sidebar regressions and document the string field for widgets ([#58714](https://github.com/CleverRaven/Cataclysm-DDA/pull/58714))
 * mapgen: more main map cleanup ([#58756](https://github.com/CleverRaven/Cataclysm-DDA/pull/58756))
 * Skatepark ramps ([#58723](https://github.com/CleverRaven/Cataclysm-DDA/pull/58723))
 * PS90 fix ([#58760](https://github.com/CleverRaven/Cataclysm-DDA/pull/58760))
@@ -206,7 +206,6 @@
 * Fix typo in the description of fungal ganglion ([#58781](https://github.com/CleverRaven/Cataclysm-DDA/pull/58781))
 * Pass zone_data by ref in zone_manager::save_world_zones() ([#58778](https://github.com/CleverRaven/Cataclysm-DDA/pull/58778))
 * Migrate c-style math functions to C++ cmath counterparts ([#58766](https://github.com/CleverRaven/Cataclysm-DDA/pull/58766))
-* Sidebar thirst now matches consume menu thirst ([#58720](https://github.com/CleverRaven/Cataclysm-DDA/pull/58720))
 * Routine Tileset updates on 26 June 2022 ([#58761](https://github.com/CleverRaven/Cataclysm-DDA/pull/58761))
 * added shoulder holster repairs like ([#58754](https://github.com/CleverRaven/Cataclysm-DDA/pull/58754))
 * Removed charge requirements from plastic bag in Ice Cream recipe. ([#58762](https://github.com/CleverRaven/Cataclysm-DDA/pull/58762))
@@ -218,7 +217,4 @@
 * Innawoods tailoring and misc fixes ([#58730](https://github.com/CleverRaven/Cataclysm-DDA/pull/58730))
 * Widgets: dummy render pass when switching sidebars ([#58731](https://github.com/CleverRaven/Cataclysm-DDA/pull/58731))
 * hub 01 mapgen fixes ([#58728](https://github.com/CleverRaven/Cataclysm-DDA/pull/58728))
-* Fix grammar error in recipe_modular_shelter_2_common.json ([#58721](https://github.com/CleverRaven/Cataclysm-DDA/pull/58721))
 * fix bug with item temperatures in underground areas ([#58724](https://github.com/CleverRaven/Cataclysm-DDA/pull/58724))
-* Prevent disassembling more items than an available amount ([#58718](https://github.com/CleverRaven/Cataclysm-DDA/pull/58718))
-* Add missing ids to Edit (f)ields in the debug map editor ([#58712](https://github.com/CleverRaven/Cataclysm-DDA/pull/58712))
