@@ -1,4 +1,9 @@
 * Object creator loads mods ([#58854](https://github.com/CleverRaven/Cataclysm-DDA/pull/58854))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-04-2251 ([4a66e60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-2251))
+
 * Use correct cmake variable for prefix.h.in ([#58911](https://github.com/CleverRaven/Cataclysm-DDA/pull/58911))
 * Untemplate JSON (de)serialization functions ([#58929](https://github.com/CleverRaven/Cataclysm-DDA/pull/58929))
 * feat: auto astyle-json corrections as reviews ([#58916](https://github.com/CleverRaven/Cataclysm-DDA/pull/58916))
@@ -177,11 +182,6 @@
 
 * Misc test fixes ([#58883](https://github.com/CleverRaven/Cataclysm-DDA/pull/58883))
 * Meta Progression ([#58804](https://github.com/CleverRaven/Cataclysm-DDA/pull/58804))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-01-1314 ([14471ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-01-1314))
-
 * Fixes pawn shop basement ([#58866](https://github.com/CleverRaven/Cataclysm-DDA/pull/58866))
 * Obsolete necropolis ([#58842](https://github.com/CleverRaven/Cataclysm-DDA/pull/58842))
 * Add menu for swapping color themes ([#58856](https://github.com/CleverRaven/Cataclysm-DDA/pull/58856))
