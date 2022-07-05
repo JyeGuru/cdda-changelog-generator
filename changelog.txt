@@ -1,3 +1,4 @@
+* Portal storm dungeon fix (#58987)
 * Food updates (#58981)
 
 Cataclysm-DDA experimental build 2022-07-05-0612 (746ea74)
@@ -72,9 +73,6 @@ Cataclysm-DDA experimental build 2022-07-03-0522 (bb64290)
 * [DinoMod] The PR that gives CBMs to tyrannosaurus (#58912)
 * Edible cooked artichokes (#58919)
 * Palettize farm_2side house (#58900)
-
-Cataclysm-DDA experimental build 2022-07-03-0316 (ad16167)
-* Add arthropod weakpoints (#58751)
 
 Cataclysm-DDA experimental build 2022-07-03-0059 (70e0419)
 * Aftershock Exosuit Helmet Update (#58841)

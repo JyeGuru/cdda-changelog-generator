@@ -1,3 +1,4 @@
+* Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
 * Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
 
 ---
@@ -123,12 +124,6 @@
 * [DinoMod] The PR that gives CBMs to tyrannosaurus ([#58912](https://github.com/CleverRaven/Cataclysm-DDA/pull/58912))
 * Edible cooked artichokes ([#58919](https://github.com/CleverRaven/Cataclysm-DDA/pull/58919))
 * Palettize farm_2side house ([#58900](https://github.com/CleverRaven/Cataclysm-DDA/pull/58900))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-0316 ([ad16167](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0316))
-
-* Add arthropod weakpoints ([#58751](https://github.com/CleverRaven/Cataclysm-DDA/pull/58751))
 
 ---
 
