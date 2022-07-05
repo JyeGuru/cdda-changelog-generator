@@ -1,3 +1,4 @@
+* Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
 
 ---
 
@@ -225,7 +226,6 @@
 * Detect measurement units in user locale settings on Windows ([#58784](https://github.com/CleverRaven/Cataclysm-DDA/pull/58784))
 * tests: fix avatar pos in mapgen_remove_npcs ([#58787](https://github.com/CleverRaven/Cataclysm-DDA/pull/58787))
 * locale: detect measurement units with glibc ([#58789](https://github.com/CleverRaven/Cataclysm-DDA/pull/58789))
-* mapgen: more main map cleanup ([#58756](https://github.com/CleverRaven/Cataclysm-DDA/pull/58756))
 * PS90 fix ([#58760](https://github.com/CleverRaven/Cataclysm-DDA/pull/58760))
 * Weakpoint inheritance fixes ([#58769](https://github.com/CleverRaven/Cataclysm-DDA/pull/58769))
 * Detect measurement units in the system locale on macOS ([#58779](https://github.com/CleverRaven/Cataclysm-DDA/pull/58779))

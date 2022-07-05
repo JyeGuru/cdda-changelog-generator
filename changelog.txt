@@ -1,3 +1,4 @@
+* Fix typo in nights/indoors attribution (#58997)
 
 Cataclysm-DDA experimental build 2022-07-05-1850 (0e73ae5)
 * [DinoMod] building with dino dung (#58970)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2022-07-02-0314 (e04bd04)
 * Detect measurement units in user locale settings on Windows (#58784)
 * tests: fix avatar pos in mapgen_remove_npcs (#58787)
 * locale: detect measurement units with glibc (#58789)
-* mapgen: more main map cleanup (#58756)
 * PS90 fix (#58760)
 * Weakpoint inheritance fixes (#58769)
 * Detect measurement units in the system locale on macOS (#58779)
