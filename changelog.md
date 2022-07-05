@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-05-1850 ([0e73ae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-1850))
+
+* [DinoMod] building with dino dung ([#58970](https://github.com/CleverRaven/Cataclysm-DDA/pull/58970))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-05-0722 ([db8eb88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-0722))
 
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
@@ -227,6 +233,5 @@
 * Pass zone_data by ref in zone_manager::save_world_zones() ([#58778](https://github.com/CleverRaven/Cataclysm-DDA/pull/58778))
 * Migrate c-style math functions to C++ cmath counterparts ([#58766](https://github.com/CleverRaven/Cataclysm-DDA/pull/58766))
 * Routine Tileset updates on 26 June 2022 ([#58761](https://github.com/CleverRaven/Cataclysm-DDA/pull/58761))
-* added shoulder holster repairs like ([#58754](https://github.com/CleverRaven/Cataclysm-DDA/pull/58754))
 * Removed charge requirements from plastic bag in Ice Cream recipe. ([#58762](https://github.com/CleverRaven/Cataclysm-DDA/pull/58762))
 * Fix bionic cost of dopamine stimulator and grenade launcher cbms ([#58763](https://github.com/CleverRaven/Cataclysm-DDA/pull/58763))
