@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-05-2000 ([0d16cfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-2000))
+
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
 
 ---
@@ -194,11 +199,6 @@
 * Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
 * Enable clang-tidy modernize-loop-convert ([#58869](https://github.com/CleverRaven/Cataclysm-DDA/pull/58869))
 * Fix cooked food being cosidered raw ([#58878](https://github.com/CleverRaven/Cataclysm-DDA/pull/58878))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-02-0314 ([e04bd04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0314))
-
 * Misc test fixes ([#58883](https://github.com/CleverRaven/Cataclysm-DDA/pull/58883))
 * Meta Progression ([#58804](https://github.com/CleverRaven/Cataclysm-DDA/pull/58804))
 * Fixes pawn shop basement ([#58866](https://github.com/CleverRaven/Cataclysm-DDA/pull/58866))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-05-2000 (0d16cfd)
 * Fix typo in nights/indoors attribution (#58997)
 
 Cataclysm-DDA experimental build 2022-07-05-1850 (0e73ae5)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2022-07-02-0440 (fa6f25b)
 * Quick portal storm dungeon fix. (#58890)
 * Enable clang-tidy modernize-loop-convert (#58869)
 * Fix cooked food being cosidered raw (#58878)
-
-Cataclysm-DDA experimental build 2022-07-02-0314 (e04bd04)
 * Misc test fixes (#58883)
 * Meta Progression (#58804)
 * Fixes pawn shop basement (#58866)
