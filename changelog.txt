@@ -1,3 +1,7 @@
+* Food updates (#58981)
+
+Cataclysm-DDA experimental build 2022-07-05-0612 (746ea74)
+* Remove stimulant psychosis from SPIDER (#58971)
 
 Cataclysm-DDA experimental build 2022-07-05-0306 (ea8d194)
 * Sidebar for languages with long words (#58897)
@@ -9,7 +13,6 @@ Cataclysm-DDA experimental build 2022-07-04-2251 (4a66e60)
 * feat: auto astyle-json corrections as reviews (#58916)
 * Enable clang-tidy bugprone-redundant-branch-condition (#58898)
 * Enable clang-tidy check readability-qualified-auto check (#58901)
-* Health bound test (#58748)
 * Fix compose.py for Iso tilesets (#58941)
 * Don't reveal monster name on its bite and throw attacks if you don't see it (#58939)
 * No Hope maintenance (#58947)

@@ -1,3 +1,10 @@
+* Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-05-0612 ([746ea74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-0612))
+
+* Remove stimulant psychosis from SPIDER ([#58971](https://github.com/CleverRaven/Cataclysm-DDA/pull/58971))
 
 ---
 
@@ -15,7 +22,6 @@
 * feat: auto astyle-json corrections as reviews ([#58916](https://github.com/CleverRaven/Cataclysm-DDA/pull/58916))
 * Enable clang-tidy bugprone-redundant-branch-condition ([#58898](https://github.com/CleverRaven/Cataclysm-DDA/pull/58898))
 * Enable clang-tidy check readability-qualified-auto check ([#58901](https://github.com/CleverRaven/Cataclysm-DDA/pull/58901))
-* Health bound test ([#58748](https://github.com/CleverRaven/Cataclysm-DDA/pull/58748))
 * Fix compose.py for Iso tilesets ([#58941](https://github.com/CleverRaven/Cataclysm-DDA/pull/58941))
 * Don't reveal monster name on its bite and throw attacks if you don't see it ([#58939](https://github.com/CleverRaven/Cataclysm-DDA/pull/58939))
 * No Hope maintenance ([#58947](https://github.com/CleverRaven/Cataclysm-DDA/pull/58947))
