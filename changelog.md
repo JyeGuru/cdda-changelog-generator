@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-05-0306 ([ea8d194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-0306))
+
+* Sidebar for languages with long words ([#58897](https://github.com/CleverRaven/Cataclysm-DDA/pull/58897))
 * Object creator loads mods ([#58854](https://github.com/CleverRaven/Cataclysm-DDA/pull/58854))
 
 ---
@@ -218,4 +224,3 @@
 * added shoulder holster repairs like ([#58754](https://github.com/CleverRaven/Cataclysm-DDA/pull/58754))
 * Removed charge requirements from plastic bag in Ice Cream recipe. ([#58762](https://github.com/CleverRaven/Cataclysm-DDA/pull/58762))
 * Fix bionic cost of dopamine stimulator and grenade launcher cbms ([#58763](https://github.com/CleverRaven/Cataclysm-DDA/pull/58763))
-* Bugfix to the gas zombie ([#58740](https://github.com/CleverRaven/Cataclysm-DDA/pull/58740))

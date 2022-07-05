@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-07-05-0306 (ea8d194)
+* Sidebar for languages with long words (#58897)
 * Object creator loads mods (#58854)
 
 Cataclysm-DDA experimental build 2022-07-04-2251 (4a66e60)
@@ -143,4 +146,3 @@ Cataclysm-DDA experimental build 2022-07-02-0314 (e04bd04)
 * added shoulder holster repairs like (#58754)
 * Removed charge requirements from plastic bag in Ice Cream recipe. (#58762)
 * Fix bionic cost of dopamine stimulator and grenade launcher cbms (#58763)
-* Bugfix to the gas zombie (#58740)
