@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-05-2300 ([81f140e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-2300))
+
+* [DinoMod] saurornitholestes ([#58989](https://github.com/CleverRaven/Cataclysm-DDA/pull/58989))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-05-2000 ([0d16cfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-2000))
 
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
@@ -191,11 +197,6 @@
 
 * Update the table of contents in doc/JSON_INFO.md ([#58885](https://github.com/CleverRaven/Cataclysm-DDA/pull/58885))
 * Routine i18n updates on 02 July 2022 ([#58888](https://github.com/CleverRaven/Cataclysm-DDA/pull/58888))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-02-0440 ([fa6f25b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0440))
-
 * Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
 * Enable clang-tidy modernize-loop-convert ([#58869](https://github.com/CleverRaven/Cataclysm-DDA/pull/58869))
 * Fix cooked food being cosidered raw ([#58878](https://github.com/CleverRaven/Cataclysm-DDA/pull/58878))
@@ -226,7 +227,6 @@
 * Detect measurement units in user locale settings on Windows ([#58784](https://github.com/CleverRaven/Cataclysm-DDA/pull/58784))
 * tests: fix avatar pos in mapgen_remove_npcs ([#58787](https://github.com/CleverRaven/Cataclysm-DDA/pull/58787))
 * locale: detect measurement units with glibc ([#58789](https://github.com/CleverRaven/Cataclysm-DDA/pull/58789))
-* PS90 fix ([#58760](https://github.com/CleverRaven/Cataclysm-DDA/pull/58760))
 * Weakpoint inheritance fixes ([#58769](https://github.com/CleverRaven/Cataclysm-DDA/pull/58769))
 * Detect measurement units in the system locale on macOS ([#58779](https://github.com/CleverRaven/Cataclysm-DDA/pull/58779))
 * Fix typo in the description of fungal ganglion ([#58781](https://github.com/CleverRaven/Cataclysm-DDA/pull/58781))
