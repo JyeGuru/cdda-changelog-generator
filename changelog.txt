@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-06-0647 (1348046)
+* Remove NeoDays support from "sees_player_retro" mod (#58998)
+
 Cataclysm-DDA experimental build 2022-07-06-0512 (2c7c1bb)
 * Sundial widget (#58983)
 
@@ -112,8 +115,6 @@ Cataclysm-DDA experimental build 2022-07-02-2115 (26b4c80)
 
 Cataclysm-DDA experimental build 2022-07-02-1949 (710aa0c)
 * Remove more auto types (#58908)
-
-Cataclysm-DDA experimental build 2022-07-02-1651 (4951f07)
 * [DinoMod] acid dinos (#58882)
 * [DinoMod] samples (#58861)
 * Update the table of contents in doc/JSON_INFO.md (#58885)
@@ -152,4 +153,3 @@ Cataclysm-DDA experimental build 2022-07-02-1651 (4951f07)
 * Detect measurement units in the system locale on macOS (#58779)
 * Fix typo in the description of fungal ganglion (#58781)
 * Pass zone_data by ref in zone_manager::save_world_zones() (#58778)
-* Migrate c-style math functions to C++ cmath counterparts (#58766)

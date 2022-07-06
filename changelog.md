@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-06-0647 ([1348046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0647))
+
+* Remove NeoDays support from "sees_player_retro" mod ([#58998](https://github.com/CleverRaven/Cataclysm-DDA/pull/58998))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-06-0512 ([2c7c1bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0512))
 
 * Sundial widget ([#58983](https://github.com/CleverRaven/Cataclysm-DDA/pull/58983))
@@ -196,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2022-07-02-1949 ([710aa0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-1949))
 
 * Remove more auto types ([#58908](https://github.com/CleverRaven/Cataclysm-DDA/pull/58908))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-02-1651 ([4951f07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-1651))
-
 * [DinoMod] acid dinos ([#58882](https://github.com/CleverRaven/Cataclysm-DDA/pull/58882))
 * [DinoMod] samples ([#58861](https://github.com/CleverRaven/Cataclysm-DDA/pull/58861))
 * Update the table of contents in doc/JSON_INFO.md ([#58885](https://github.com/CleverRaven/Cataclysm-DDA/pull/58885))
@@ -239,4 +240,3 @@
 * Detect measurement units in the system locale on macOS ([#58779](https://github.com/CleverRaven/Cataclysm-DDA/pull/58779))
 * Fix typo in the description of fungal ganglion ([#58781](https://github.com/CleverRaven/Cataclysm-DDA/pull/58781))
 * Pass zone_data by ref in zone_manager::save_world_zones() ([#58778](https://github.com/CleverRaven/Cataclysm-DDA/pull/58778))
-* Migrate c-style math functions to C++ cmath counterparts ([#58766](https://github.com/CleverRaven/Cataclysm-DDA/pull/58766))
