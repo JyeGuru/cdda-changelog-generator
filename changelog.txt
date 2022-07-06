@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-06-0512 (2c7c1bb)
+* Sundial widget (#58983)
+
 Cataclysm-DDA experimental build 2022-07-06-0345 (709099b)
 * Update plastic sheet mission (#59004)
 
@@ -150,4 +153,3 @@ Cataclysm-DDA experimental build 2022-07-02-1651 (4951f07)
 * Fix typo in the description of fungal ganglion (#58781)
 * Pass zone_data by ref in zone_manager::save_world_zones() (#58778)
 * Migrate c-style math functions to C++ cmath counterparts (#58766)
-* Fix bionic cost of dopamine stimulator and grenade launcher cbms (#58763)

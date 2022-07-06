@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-06-0512 ([2c7c1bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0512))
+
+* Sundial widget ([#58983](https://github.com/CleverRaven/Cataclysm-DDA/pull/58983))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-06-0345 ([709099b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0345))
 
 * Update plastic sheet mission ([#59004](https://github.com/CleverRaven/Cataclysm-DDA/pull/59004))
@@ -234,4 +240,3 @@
 * Fix typo in the description of fungal ganglion ([#58781](https://github.com/CleverRaven/Cataclysm-DDA/pull/58781))
 * Pass zone_data by ref in zone_manager::save_world_zones() ([#58778](https://github.com/CleverRaven/Cataclysm-DDA/pull/58778))
 * Migrate c-style math functions to C++ cmath counterparts ([#58766](https://github.com/CleverRaven/Cataclysm-DDA/pull/58766))
-* Fix bionic cost of dopamine stimulator and grenade launcher cbms ([#58763](https://github.com/CleverRaven/Cataclysm-DDA/pull/58763))
