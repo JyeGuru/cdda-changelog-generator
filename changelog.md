@@ -60,11 +60,6 @@
 
 * Sidebar for languages with long words ([#58897](https://github.com/CleverRaven/Cataclysm-DDA/pull/58897))
 * Object creator loads mods ([#58854](https://github.com/CleverRaven/Cataclysm-DDA/pull/58854))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-04-2251 ([4a66e60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-2251))
-
 * Use correct cmake variable for prefix.h.in ([#58911](https://github.com/CleverRaven/Cataclysm-DDA/pull/58911))
 * Untemplate JSON (de)serialization functions ([#58929](https://github.com/CleverRaven/Cataclysm-DDA/pull/58929))
 * feat: auto astyle-json corrections as reviews ([#58916](https://github.com/CleverRaven/Cataclysm-DDA/pull/58916))
@@ -132,11 +127,6 @@
 #### Cataclysm-DDA experimental build 2022-07-03-1352 ([cccb059](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1352))
 
 * Fix multiline widgets using W_NO_PADDING flag ([#58922](https://github.com/CleverRaven/Cataclysm-DDA/pull/58922))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-1221 ([5a9fa2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1221))
-
 * Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. ([#58907](https://github.com/CleverRaven/Cataclysm-DDA/pull/58907))
 
@@ -177,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2022-07-03-0059 ([70e0419](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0059))
 
 * Aftershock Exosuit Helmet Update ([#58841](https://github.com/CleverRaven/Cataclysm-DDA/pull/58841))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-02-2251 ([cd2401b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-2251))
-
 * Cyborg Weakpoint set ([#58889](https://github.com/CleverRaven/Cataclysm-DDA/pull/58889))
 * Minor missile silo overhaul ([#58845](https://github.com/CleverRaven/Cataclysm-DDA/pull/58845))
 * Label various style files with the style label ([#58906](https://github.com/CleverRaven/Cataclysm-DDA/pull/58906))
@@ -202,7 +187,17 @@
 #### Cataclysm-DDA experimental build 2022-07-02-1949 ([710aa0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-1949))
 
 * Remove more auto types ([#58908](https://github.com/CleverRaven/Cataclysm-DDA/pull/58908))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-02-1651 ([4951f07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-1651))
+
 * [DinoMod] acid dinos ([#58882](https://github.com/CleverRaven/Cataclysm-DDA/pull/58882))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-02-0705 ([b8deb91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0705))
+
 * [DinoMod] samples ([#58861](https://github.com/CleverRaven/Cataclysm-DDA/pull/58861))
 * Update the table of contents in doc/JSON_INFO.md ([#58885](https://github.com/CleverRaven/Cataclysm-DDA/pull/58885))
 * Routine i18n updates on 02 July 2022 ([#58888](https://github.com/CleverRaven/Cataclysm-DDA/pull/58888))

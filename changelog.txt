@@ -30,8 +30,6 @@ Cataclysm-DDA experimental build 2022-07-05-0612 (746ea74)
 Cataclysm-DDA experimental build 2022-07-05-0306 (ea8d194)
 * Sidebar for languages with long words (#58897)
 * Object creator loads mods (#58854)
-
-Cataclysm-DDA experimental build 2022-07-04-2251 (4a66e60)
 * Use correct cmake variable for prefix.h.in (#58911)
 * Untemplate JSON (de)serialization functions (#58929)
 * feat: auto astyle-json corrections as reviews (#58916)
@@ -75,8 +73,6 @@ Cataclysm-DDA experimental build 2022-07-03-1716 (e68b884)
 
 Cataclysm-DDA experimental build 2022-07-03-1352 (cccb059)
 * Fix multiline widgets using W_NO_PADDING flag (#58922)
-
-Cataclysm-DDA experimental build 2022-07-03-1221 (5a9fa2a)
 * Turpentine and Camphine v2 (#58918)
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. (#58907)
 
@@ -99,8 +95,6 @@ Cataclysm-DDA experimental build 2022-07-03-0522 (bb64290)
 
 Cataclysm-DDA experimental build 2022-07-03-0059 (70e0419)
 * Aftershock Exosuit Helmet Update (#58841)
-
-Cataclysm-DDA experimental build 2022-07-02-2251 (cd2401b)
 * Cyborg Weakpoint set (#58889)
 * Minor missile silo overhaul (#58845)
 * Label various style files with the style label (#58906)
@@ -115,7 +109,11 @@ Cataclysm-DDA experimental build 2022-07-02-2115 (26b4c80)
 
 Cataclysm-DDA experimental build 2022-07-02-1949 (710aa0c)
 * Remove more auto types (#58908)
+
+Cataclysm-DDA experimental build 2022-07-02-1651 (4951f07)
 * [DinoMod] acid dinos (#58882)
+
+Cataclysm-DDA experimental build 2022-07-02-0705 (b8deb91)
 * [DinoMod] samples (#58861)
 * Update the table of contents in doc/JSON_INFO.md (#58885)
 * Routine i18n updates on 02 July 2022 (#58888)
