@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-06-0345 ([709099b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0345))
+
+* Update plastic sheet mission ([#59004](https://github.com/CleverRaven/Cataclysm-DDA/pull/59004))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-06-0218 ([1680bc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0218))
+
+* differentiate dishwasher variants ([#59007](https://github.com/CleverRaven/Cataclysm-DDA/pull/59007))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-05-2300 ([81f140e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-2300))
 
 * [DinoMod] saurornitholestes ([#58989](https://github.com/CleverRaven/Cataclysm-DDA/pull/58989))
@@ -184,17 +196,7 @@
 #### Cataclysm-DDA experimental build 2022-07-02-1651 ([4951f07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-1651))
 
 * [DinoMod] acid dinos ([#58882](https://github.com/CleverRaven/Cataclysm-DDA/pull/58882))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-02-0705 ([b8deb91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0705))
-
 * [DinoMod] samples ([#58861](https://github.com/CleverRaven/Cataclysm-DDA/pull/58861))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-02-0556 ([88fd343](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-0556))
-
 * Update the table of contents in doc/JSON_INFO.md ([#58885](https://github.com/CleverRaven/Cataclysm-DDA/pull/58885))
 * Routine i18n updates on 02 July 2022 ([#58888](https://github.com/CleverRaven/Cataclysm-DDA/pull/58888))
 * Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
@@ -232,6 +234,4 @@
 * Fix typo in the description of fungal ganglion ([#58781](https://github.com/CleverRaven/Cataclysm-DDA/pull/58781))
 * Pass zone_data by ref in zone_manager::save_world_zones() ([#58778](https://github.com/CleverRaven/Cataclysm-DDA/pull/58778))
 * Migrate c-style math functions to C++ cmath counterparts ([#58766](https://github.com/CleverRaven/Cataclysm-DDA/pull/58766))
-* Routine Tileset updates on 26 June 2022 ([#58761](https://github.com/CleverRaven/Cataclysm-DDA/pull/58761))
-* Removed charge requirements from plastic bag in Ice Cream recipe. ([#58762](https://github.com/CleverRaven/Cataclysm-DDA/pull/58762))
 * Fix bionic cost of dopamine stimulator and grenade launcher cbms ([#58763](https://github.com/CleverRaven/Cataclysm-DDA/pull/58763))
