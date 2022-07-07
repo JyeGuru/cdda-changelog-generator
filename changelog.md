@@ -1,3 +1,4 @@
+* Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
 * [Megafauna] Various monstergroup + miscellaneous changes ([#58830](https://github.com/CleverRaven/Cataclysm-DDA/pull/58830))
 * vehicle: fix and simplify handle_potential_theft ([#58816](https://github.com/CleverRaven/Cataclysm-DDA/pull/58816))
 * add ma style buff display widget ([#58825](https://github.com/CleverRaven/Cataclysm-DDA/pull/58825))
@@ -200,11 +201,6 @@
 * Minor missile silo overhaul ([#58845](https://github.com/CleverRaven/Cataclysm-DDA/pull/58845))
 * Label various style files with the style label ([#58906](https://github.com/CleverRaven/Cataclysm-DDA/pull/58906))
 * ci: colored diff output ([#58886](https://github.com/CleverRaven/Cataclysm-DDA/pull/58886))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-02-2115 ([26b4c80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-2115))
-
 * flag bottom of mine as a challenge ([#58859](https://github.com/CleverRaven/Cataclysm-DDA/pull/58859))
 * remove day one shockers from open sewer ([#58896](https://github.com/CleverRaven/Cataclysm-DDA/pull/58896))
 * Define special_forest_thick as a forest tile ([#58894](https://github.com/CleverRaven/Cataclysm-DDA/pull/58894))
@@ -224,7 +220,6 @@
 * Add menu for swapping color themes ([#58856](https://github.com/CleverRaven/Cataclysm-DDA/pull/58856))
 * check if unload is "good" using standard call for unload zones ([#58857](https://github.com/CleverRaven/Cataclysm-DDA/pull/58857))
 * Put Mycus Skins on the right rendering layer ([#58853](https://github.com/CleverRaven/Cataclysm-DDA/pull/58853))
-* Add M1/M2 carbine and .30 Carbine ammunition. ([#58814](https://github.com/CleverRaven/Cataclysm-DDA/pull/58814))
 * Avoid unnecessarily constructing utf8_wrapper for obtaining display width ([#58847](https://github.com/CleverRaven/Cataclysm-DDA/pull/58847))
 * Riot Helmet Covers All Of Mouth and Eyes ([#58828](https://github.com/CleverRaven/Cataclysm-DDA/pull/58828))
 * remove fabrication reqs for kevlar suits ([#58827](https://github.com/CleverRaven/Cataclysm-DDA/pull/58827))
