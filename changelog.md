@@ -192,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-07-03-0059 ([70e0419](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0059))
 
 * Aftershock Exosuit Helmet Update ([#58841](https://github.com/CleverRaven/Cataclysm-DDA/pull/58841))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-02-2251 ([cd2401b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-02-2251))
-
 * Cyborg Weakpoint set ([#58889](https://github.com/CleverRaven/Cataclysm-DDA/pull/58889))
 * Minor missile silo overhaul ([#58845](https://github.com/CleverRaven/Cataclysm-DDA/pull/58845))
 * Label various style files with the style label ([#58906](https://github.com/CleverRaven/Cataclysm-DDA/pull/58906))

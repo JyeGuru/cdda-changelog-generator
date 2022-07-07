@@ -117,8 +117,6 @@ Cataclysm-DDA experimental build 2022-07-03-0522 (bb64290)
 
 Cataclysm-DDA experimental build 2022-07-03-0059 (70e0419)
 * Aftershock Exosuit Helmet Update (#58841)
-
-Cataclysm-DDA experimental build 2022-07-02-2251 (cd2401b)
 * Cyborg Weakpoint set (#58889)
 * Minor missile silo overhaul (#58845)
 * Label various style files with the style label (#58906)
