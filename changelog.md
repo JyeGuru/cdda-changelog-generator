@@ -1,6 +1,11 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-07-0606 ([3d81d31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-07-0606))
+
+* Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
 * [Megafauna] Various monstergroup + miscellaneous changes ([#58830](https://github.com/CleverRaven/Cataclysm-DDA/pull/58830))
-* vehicle: fix and simplify handle_potential_theft ([#58816](https://github.com/CleverRaven/Cataclysm-DDA/pull/58816))
 * add ma style buff display widget ([#58825](https://github.com/CleverRaven/Cataclysm-DDA/pull/58825))
 * iexamine: rework elevator ([#58840](https://github.com/CleverRaven/Cataclysm-DDA/pull/58840))
 * Modding with wielded mod no longer crashes ([#58915](https://github.com/CleverRaven/Cataclysm-DDA/pull/58915))
