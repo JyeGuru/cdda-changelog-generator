@@ -1,9 +1,11 @@
 
+Cataclysm-DDA experimental build 2022-07-07-2116 (e8168a6)
+* Xedra Evolved Cyborg Professions (#58881)
+
 Cataclysm-DDA experimental build 2022-07-07-0606 (3d81d31)
 * Make salt spawn in more houses (#59017)
 * Clarify what different consumption keybinds do (#59009)
 * [Megafauna] Various monstergroup + miscellaneous changes (#58830)
-* add ma style buff display widget (#58825)
 * iexamine: rework elevator (#58840)
 * Modding with wielded mod no longer crashes (#58915)
 * Boiled potatoes (#58930)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2022-07-03-0812 (afd3d8f)
 
 Cataclysm-DDA experimental build 2022-07-03-0641 (07e9972)
 * Revert changes to plate arm and leg descriptions (#58920)
-
-Cataclysm-DDA experimental build 2022-07-03-0522 (bb64290)
 * [DinoMod] The PR that gives CBMs to tyrannosaurus (#58912)
 * Edible cooked artichokes (#58919)
 * Palettize farm_2side house (#58900)

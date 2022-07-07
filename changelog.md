@@ -1,12 +1,17 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-07-2116 ([e8168a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-07-2116))
+
+* Xedra Evolved Cyborg Professions ([#58881](https://github.com/CleverRaven/Cataclysm-DDA/pull/58881))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-07-0606 ([3d81d31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-07-0606))
 
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
 * [Megafauna] Various monstergroup + miscellaneous changes ([#58830](https://github.com/CleverRaven/Cataclysm-DDA/pull/58830))
-* add ma style buff display widget ([#58825](https://github.com/CleverRaven/Cataclysm-DDA/pull/58825))
 * iexamine: rework elevator ([#58840](https://github.com/CleverRaven/Cataclysm-DDA/pull/58840))
 * Modding with wielded mod no longer crashes ([#58915](https://github.com/CleverRaven/Cataclysm-DDA/pull/58915))
 * Boiled potatoes ([#58930](https://github.com/CleverRaven/Cataclysm-DDA/pull/58930))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-07-03-0641 ([07e9972](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0641))
 
 * Revert changes to plate arm and leg descriptions ([#58920](https://github.com/CleverRaven/Cataclysm-DDA/pull/58920))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-0522 ([bb64290](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0522))
-
 * [DinoMod] The PR that gives CBMs to tyrannosaurus ([#58912](https://github.com/CleverRaven/Cataclysm-DDA/pull/58912))
 * Edible cooked artichokes ([#58919](https://github.com/CleverRaven/Cataclysm-DDA/pull/58919))
 * Palettize farm_2side house ([#58900](https://github.com/CleverRaven/Cataclysm-DDA/pull/58900))
