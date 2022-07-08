@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-08-0934 ([414c57e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-08-0934))
+
+* Remove salt water from broth ([#59013](https://github.com/CleverRaven/Cataclysm-DDA/pull/59013))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-08-0430 ([350a2ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-08-0430))
 
 * Enable clang-tidy check modernize-use-override ([#59039](https://github.com/CleverRaven/Cataclysm-DDA/pull/59039))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-07-03-1110 ([2ae6a75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1110))
 
 * Audit of pistol spawns ([#58903](https://github.com/CleverRaven/Cataclysm-DDA/pull/58903))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-0918 ([5f050ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0918))
-
 * Made Mutation Instability more visible ([#58867](https://github.com/CleverRaven/Cataclysm-DDA/pull/58867))
 * Main menu overhaul (Part 2): simplify world creation ([#58862](https://github.com/CleverRaven/Cataclysm-DDA/pull/58862))
 * Revert changes to plate arm and leg descriptions ([#58920](https://github.com/CleverRaven/Cataclysm-DDA/pull/58920))
@@ -216,7 +217,6 @@
 * Fix cooked food being cosidered raw ([#58878](https://github.com/CleverRaven/Cataclysm-DDA/pull/58878))
 * Misc test fixes ([#58883](https://github.com/CleverRaven/Cataclysm-DDA/pull/58883))
 * Fixes pawn shop basement ([#58866](https://github.com/CleverRaven/Cataclysm-DDA/pull/58866))
-* Obsolete necropolis ([#58842](https://github.com/CleverRaven/Cataclysm-DDA/pull/58842))
 * Add menu for swapping color themes ([#58856](https://github.com/CleverRaven/Cataclysm-DDA/pull/58856))
 * check if unload is "good" using standard call for unload zones ([#58857](https://github.com/CleverRaven/Cataclysm-DDA/pull/58857))
 * Put Mycus Skins on the right rendering layer ([#58853](https://github.com/CleverRaven/Cataclysm-DDA/pull/58853))
