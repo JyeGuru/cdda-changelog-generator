@@ -1,3 +1,17 @@
+* Enable clang-tidy check modernize-use-override ([#59039](https://github.com/CleverRaven/Cataclysm-DDA/pull/59039))
+* Align fatigue level comparisons for UI and effects ([#59055](https://github.com/CleverRaven/Cataclysm-DDA/pull/59055))
+* Enable category toggle in pickup selectors ([#58917](https://github.com/CleverRaven/Cataclysm-DDA/pull/58917))
+* Update newspapers.json ([#59031](https://github.com/CleverRaven/Cataclysm-DDA/pull/59031))
+* [DinoMod] aquilops ([#59027](https://github.com/CleverRaven/Cataclysm-DDA/pull/59027))
+* Clarify what "disabled" keybindings are ([#59034](https://github.com/CleverRaven/Cataclysm-DDA/pull/59034))
+* Fixed not being able to climb up fences and downspouts ([#59036](https://github.com/CleverRaven/Cataclysm-DDA/pull/59036))
+* Enable clang-tidy static analyzer checks ([#59040](https://github.com/CleverRaven/Cataclysm-DDA/pull/59040))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-08-0320 ([20a9a1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-08-0320))
+
+* Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
 
 ---
 
@@ -11,8 +25,6 @@
 
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
-* [Megafauna] Various monstergroup + miscellaneous changes ([#58830](https://github.com/CleverRaven/Cataclysm-DDA/pull/58830))
-* iexamine: rework elevator ([#58840](https://github.com/CleverRaven/Cataclysm-DDA/pull/58840))
 * Modding with wielded mod no longer crashes ([#58915](https://github.com/CleverRaven/Cataclysm-DDA/pull/58915))
 * Boiled potatoes ([#58930](https://github.com/CleverRaven/Cataclysm-DDA/pull/58930))
 * Recalculate starting position and handle mouse when filtering in uilist ([#58965](https://github.com/CleverRaven/Cataclysm-DDA/pull/58965))
@@ -128,7 +140,6 @@
 #### Cataclysm-DDA experimental build 2022-07-04-1154 ([5d34e23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-1154))
 
 * Fix UBSan runtime error ([#58953](https://github.com/CleverRaven/Cataclysm-DDA/pull/58953))
-* Revamp remove_field_fd_fatigue test ([#58831](https://github.com/CleverRaven/Cataclysm-DDA/pull/58831))
 
 ---
 
@@ -182,16 +193,10 @@
 #### Cataclysm-DDA experimental build 2022-07-03-0812 ([afd3d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0812))
 
 * Main menu overhaul (Part 2): simplify world creation ([#58862](https://github.com/CleverRaven/Cataclysm-DDA/pull/58862))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-0641 ([07e9972](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0641))
-
 * Revert changes to plate arm and leg descriptions ([#58920](https://github.com/CleverRaven/Cataclysm-DDA/pull/58920))
 * [DinoMod] The PR that gives CBMs to tyrannosaurus ([#58912](https://github.com/CleverRaven/Cataclysm-DDA/pull/58912))
 * Edible cooked artichokes ([#58919](https://github.com/CleverRaven/Cataclysm-DDA/pull/58919))
 * Palettize farm_2side house ([#58900](https://github.com/CleverRaven/Cataclysm-DDA/pull/58900))
-* Aftershock Exosuit Helmet Update ([#58841](https://github.com/CleverRaven/Cataclysm-DDA/pull/58841))
 * Cyborg Weakpoint set ([#58889](https://github.com/CleverRaven/Cataclysm-DDA/pull/58889))
 * Minor missile silo overhaul ([#58845](https://github.com/CleverRaven/Cataclysm-DDA/pull/58845))
 * Label various style files with the style label ([#58906](https://github.com/CleverRaven/Cataclysm-DDA/pull/58906))
@@ -216,7 +221,3 @@
 * check if unload is "good" using standard call for unload zones ([#58857](https://github.com/CleverRaven/Cataclysm-DDA/pull/58857))
 * Put Mycus Skins on the right rendering layer ([#58853](https://github.com/CleverRaven/Cataclysm-DDA/pull/58853))
 * Avoid unnecessarily constructing utf8_wrapper for obtaining display width ([#58847](https://github.com/CleverRaven/Cataclysm-DDA/pull/58847))
-* Riot Helmet Covers All Of Mouth and Eyes ([#58828](https://github.com/CleverRaven/Cataclysm-DDA/pull/58828))
-* remove fabrication reqs for kevlar suits ([#58827](https://github.com/CleverRaven/Cataclysm-DDA/pull/58827))
-* [DinoMod] Mosasaurus live birth ([#58826](https://github.com/CleverRaven/Cataclysm-DDA/pull/58826))
-* Fix doc for vitamin_rates ([#58835](https://github.com/CleverRaven/Cataclysm-DDA/pull/58835))
