@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-08-0430 (350a2ea)
 * Enable clang-tidy check modernize-use-override (#59039)
 * Align fatigue level comparisons for UI and effects (#59055)
 * Enable category toggle in pickup selectors (#58917)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2022-07-03-1110 (2ae6a75)
 
 Cataclysm-DDA experimental build 2022-07-03-0918 (5f050ee)
 * Made Mutation Instability more visible (#58867)
-
-Cataclysm-DDA experimental build 2022-07-03-0812 (afd3d8f)
 * Main menu overhaul (Part 2): simplify world creation (#58862)
 * Revert changes to plate arm and leg descriptions (#58920)
 * [DinoMod] The PR that gives CBMs to tyrannosaurus (#58912)

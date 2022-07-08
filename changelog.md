@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-08-0430 ([350a2ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-08-0430))
+
 * Enable clang-tidy check modernize-use-override ([#59039](https://github.com/CleverRaven/Cataclysm-DDA/pull/59039))
 * Align fatigue level comparisons for UI and effects ([#59055](https://github.com/CleverRaven/Cataclysm-DDA/pull/59055))
 * Enable category toggle in pickup selectors ([#58917](https://github.com/CleverRaven/Cataclysm-DDA/pull/58917))
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-07-03-0918 ([5f050ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0918))
 
 * Made Mutation Instability more visible ([#58867](https://github.com/CleverRaven/Cataclysm-DDA/pull/58867))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-0812 ([afd3d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-0812))
-
 * Main menu overhaul (Part 2): simplify world creation ([#58862](https://github.com/CleverRaven/Cataclysm-DDA/pull/58862))
 * Revert changes to plate arm and leg descriptions ([#58920](https://github.com/CleverRaven/Cataclysm-DDA/pull/58920))
 * [DinoMod] The PR that gives CBMs to tyrannosaurus ([#58912](https://github.com/CleverRaven/Cataclysm-DDA/pull/58912))
