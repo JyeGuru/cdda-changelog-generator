@@ -187,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-07-03-1716 ([e68b884](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1716))
 
 * All corpse items nest if possible ([#58913](https://github.com/CleverRaven/Cataclysm-DDA/pull/58913))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-1352 ([cccb059](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1352))
-
 * Fix multiline widgets using W_NO_PADDING flag ([#58922](https://github.com/CleverRaven/Cataclysm-DDA/pull/58922))
 * Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. ([#58907](https://github.com/CleverRaven/Cataclysm-DDA/pull/58907))
