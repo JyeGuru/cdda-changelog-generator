@@ -1,3 +1,7 @@
+* Fix various mapgen out of bounds placements ([#59072](https://github.com/CleverRaven/Cataclysm-DDA/pull/59072))
+* Fire lookout tower revamp ([#59025](https://github.com/CleverRaven/Cataclysm-DDA/pull/59025))
+* Farm update ([#59011](https://github.com/CleverRaven/Cataclysm-DDA/pull/59011))
+* [innawood] make leather journals able to track calories ([#59006](https://github.com/CleverRaven/Cataclysm-DDA/pull/59006))
 
 ---
 
@@ -114,7 +118,6 @@
 #### Cataclysm-DDA experimental build 2022-07-05-0306 ([ea8d194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-0306))
 
 * Sidebar for languages with long words ([#58897](https://github.com/CleverRaven/Cataclysm-DDA/pull/58897))
-* Object creator loads mods ([#58854](https://github.com/CleverRaven/Cataclysm-DDA/pull/58854))
 
 ---
 
@@ -186,11 +189,6 @@
 
 * Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. ([#58907](https://github.com/CleverRaven/Cataclysm-DDA/pull/58907))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-1110 ([2ae6a75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1110))
-
 * Audit of pistol spawns ([#58903](https://github.com/CleverRaven/Cataclysm-DDA/pull/58903))
 * Made Mutation Instability more visible ([#58867](https://github.com/CleverRaven/Cataclysm-DDA/pull/58867))
 * Main menu overhaul (Part 2): simplify world creation ([#58862](https://github.com/CleverRaven/Cataclysm-DDA/pull/58862))
@@ -199,7 +197,6 @@
 * Edible cooked artichokes ([#58919](https://github.com/CleverRaven/Cataclysm-DDA/pull/58919))
 * Palettize farm_2side house ([#58900](https://github.com/CleverRaven/Cataclysm-DDA/pull/58900))
 * Cyborg Weakpoint set ([#58889](https://github.com/CleverRaven/Cataclysm-DDA/pull/58889))
-* Minor missile silo overhaul ([#58845](https://github.com/CleverRaven/Cataclysm-DDA/pull/58845))
 * Label various style files with the style label ([#58906](https://github.com/CleverRaven/Cataclysm-DDA/pull/58906))
 * ci: colored diff output ([#58886](https://github.com/CleverRaven/Cataclysm-DDA/pull/58886))
 * flag bottom of mine as a challenge ([#58859](https://github.com/CleverRaven/Cataclysm-DDA/pull/58859))
@@ -219,5 +216,3 @@
 * Fixes pawn shop basement ([#58866](https://github.com/CleverRaven/Cataclysm-DDA/pull/58866))
 * Add menu for swapping color themes ([#58856](https://github.com/CleverRaven/Cataclysm-DDA/pull/58856))
 * check if unload is "good" using standard call for unload zones ([#58857](https://github.com/CleverRaven/Cataclysm-DDA/pull/58857))
-* Put Mycus Skins on the right rendering layer ([#58853](https://github.com/CleverRaven/Cataclysm-DDA/pull/58853))
-* Avoid unnecessarily constructing utf8_wrapper for obtaining display width ([#58847](https://github.com/CleverRaven/Cataclysm-DDA/pull/58847))
