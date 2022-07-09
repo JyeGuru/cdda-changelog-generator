@@ -1,3 +1,4 @@
+* Lower difficulty of cream recipes to 3 ([#59052](https://github.com/CleverRaven/Cataclysm-DDA/pull/59052))
 * Fix gcc 12.1 compile errors ([#59083](https://github.com/CleverRaven/Cataclysm-DDA/pull/59083))
 * Translate mutation variants ([#59082](https://github.com/CleverRaven/Cataclysm-DDA/pull/59082))
 * Fix mutant butchery producing normal products ([#59073](https://github.com/CleverRaven/Cataclysm-DDA/pull/59073))
@@ -208,7 +209,6 @@
 * Dinomod NPC trait group fix ([#58909](https://github.com/CleverRaven/Cataclysm-DDA/pull/58909))
 * Remove more auto types ([#58908](https://github.com/CleverRaven/Cataclysm-DDA/pull/58908))
 * [DinoMod] acid dinos ([#58882](https://github.com/CleverRaven/Cataclysm-DDA/pull/58882))
-* [DinoMod] samples ([#58861](https://github.com/CleverRaven/Cataclysm-DDA/pull/58861))
 * Update the table of contents in doc/JSON_INFO.md ([#58885](https://github.com/CleverRaven/Cataclysm-DDA/pull/58885))
 * Routine i18n updates on 02 July 2022 ([#58888](https://github.com/CleverRaven/Cataclysm-DDA/pull/58888))
 * Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
