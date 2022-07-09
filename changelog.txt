@@ -1,3 +1,4 @@
+* Only check health of comestibles from 'dda' (#59094)
 
 Cataclysm-DDA experimental build 2022-07-09-0558 (8b7e574)
 * Routine i18n updates on 09 July 2022 (#59096)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2022-07-03-1352 (cccb059)
 * Enable clang-tidy modernize-loop-convert (#58869)
 * Fix cooked food being cosidered raw (#58878)
 * Misc test fixes (#58883)
-* Fixes pawn shop basement (#58866)

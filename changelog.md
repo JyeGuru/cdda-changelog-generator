@@ -1,3 +1,4 @@
+* Only check health of comestibles from 'dda' ([#59094](https://github.com/CleverRaven/Cataclysm-DDA/pull/59094))
 
 ---
 
@@ -215,4 +216,3 @@
 * Enable clang-tidy modernize-loop-convert ([#58869](https://github.com/CleverRaven/Cataclysm-DDA/pull/58869))
 * Fix cooked food being cosidered raw ([#58878](https://github.com/CleverRaven/Cataclysm-DDA/pull/58878))
 * Misc test fixes ([#58883](https://github.com/CleverRaven/Cataclysm-DDA/pull/58883))
-* Fixes pawn shop basement ([#58866](https://github.com/CleverRaven/Cataclysm-DDA/pull/58866))
