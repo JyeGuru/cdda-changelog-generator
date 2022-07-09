@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-09-1715 ([1d30382](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-09-1715))
+
 * Replaced holster with western holster as a reward from Old Guard rep ([#59101](https://github.com/CleverRaven/Cataclysm-DDA/pull/59101))
 * Remove unnecessary check in aiming code ([#59103](https://github.com/CleverRaven/Cataclysm-DDA/pull/59103))
 * Fix clang-tidy plugin compile errors with LLVM 14 ([#59108](https://github.com/CleverRaven/Cataclysm-DDA/pull/59108))
@@ -183,11 +188,6 @@
 * Routine Tileset updates on 03 July 2022 ([#58952](https://github.com/CleverRaven/Cataclysm-DDA/pull/58952))
 * Display airliner basement properly and not as solid rock ([#58949](https://github.com/CleverRaven/Cataclysm-DDA/pull/58949))
 * Update intensity of instability effect ([#58950](https://github.com/CleverRaven/Cataclysm-DDA/pull/58950))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-2334 ([f97d601](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-2334))
-
 * Correct a width off-by-one error in world creator ([#58942](https://github.com/CleverRaven/Cataclysm-DDA/pull/58942))
 * All corpse items nest if possible ([#58913](https://github.com/CleverRaven/Cataclysm-DDA/pull/58913))
 * Fix multiline widgets using W_NO_PADDING flag ([#58922](https://github.com/CleverRaven/Cataclysm-DDA/pull/58922))
