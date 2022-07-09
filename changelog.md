@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-09-2307 ([cf23f01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-09-2307))
+
+* Prevent .38 Super from spawning as on-hand ammo for normal .38 guns. ([#59090](https://github.com/CleverRaven/Cataclysm-DDA/pull/59090))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-09-1715 ([1d30382](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-09-1715))
 
 * Replaced holster with western holster as a reward from Old Guard rep ([#59101](https://github.com/CleverRaven/Cataclysm-DDA/pull/59101))
@@ -52,12 +58,6 @@
 #### Cataclysm-DDA experimental build 2022-07-08-0320 ([20a9a1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-08-0320))
 
 * Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-07-2116 ([e8168a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-07-2116))
-
-* Xedra Evolved Cyborg Professions ([#58881](https://github.com/CleverRaven/Cataclysm-DDA/pull/58881))
 
 ---
 
@@ -178,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-07-04-1154 ([5d34e23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-1154))
 
 * Fix UBSan runtime error ([#58953](https://github.com/CleverRaven/Cataclysm-DDA/pull/58953))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-04-0037 ([437c1db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-0037))
-
 * Remove `HAMMER` use action from items ([#58935](https://github.com/CleverRaven/Cataclysm-DDA/pull/58935))
 * Update HP and armor on #56566 ([#58937](https://github.com/CleverRaven/Cataclysm-DDA/pull/58937))
 * Routine Tileset updates on 03 July 2022 ([#58952](https://github.com/CleverRaven/Cataclysm-DDA/pull/58952))
