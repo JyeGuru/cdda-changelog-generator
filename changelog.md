@@ -1,3 +1,12 @@
+* Replaced holster with western holster as a reward from Old Guard rep ([#59101](https://github.com/CleverRaven/Cataclysm-DDA/pull/59101))
+* Remove unnecessary check in aiming code ([#59103](https://github.com/CleverRaven/Cataclysm-DDA/pull/59103))
+* Fix clang-tidy plugin compile errors with LLVM 14 ([#59108](https://github.com/CleverRaven/Cataclysm-DDA/pull/59108))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-09-1618 ([4718292](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-09-1618))
+
+* Fix crashes caused by #58666 ([#59107](https://github.com/CleverRaven/Cataclysm-DDA/pull/59107))
 * Only check health of comestibles from 'dda' ([#59094](https://github.com/CleverRaven/Cataclysm-DDA/pull/59094))
 
 ---
@@ -67,7 +76,6 @@
 * Add some more looks_like to terrain and furniture ([#59018](https://github.com/CleverRaven/Cataclysm-DDA/pull/59018))
 * [DinoMod] lizard DNA ([#59012](https://github.com/CleverRaven/Cataclysm-DDA/pull/59012))
 * Nested Cop Zombie Item Spawns ([#58914](https://github.com/CleverRaven/Cataclysm-DDA/pull/58914))
-* Aftershock: Jet packs ([#58873](https://github.com/CleverRaven/Cataclysm-DDA/pull/58873))
 
 ---
 
@@ -181,17 +189,11 @@
 #### Cataclysm-DDA experimental build 2022-07-03-2334 ([f97d601](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-2334))
 
 * Correct a width off-by-one error in world creator ([#58942](https://github.com/CleverRaven/Cataclysm-DDA/pull/58942))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-1716 ([e68b884](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1716))
-
 * All corpse items nest if possible ([#58913](https://github.com/CleverRaven/Cataclysm-DDA/pull/58913))
 * Fix multiline widgets using W_NO_PADDING flag ([#58922](https://github.com/CleverRaven/Cataclysm-DDA/pull/58922))
 * Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. ([#58907](https://github.com/CleverRaven/Cataclysm-DDA/pull/58907))
 * Audit of pistol spawns ([#58903](https://github.com/CleverRaven/Cataclysm-DDA/pull/58903))
-* Made Mutation Instability more visible ([#58867](https://github.com/CleverRaven/Cataclysm-DDA/pull/58867))
 * Revert changes to plate arm and leg descriptions ([#58920](https://github.com/CleverRaven/Cataclysm-DDA/pull/58920))
 * [DinoMod] The PR that gives CBMs to tyrannosaurus ([#58912](https://github.com/CleverRaven/Cataclysm-DDA/pull/58912))
 * Edible cooked artichokes ([#58919](https://github.com/CleverRaven/Cataclysm-DDA/pull/58919))
@@ -208,6 +210,4 @@
 * Update the table of contents in doc/JSON_INFO.md ([#58885](https://github.com/CleverRaven/Cataclysm-DDA/pull/58885))
 * Routine i18n updates on 02 July 2022 ([#58888](https://github.com/CleverRaven/Cataclysm-DDA/pull/58888))
 * Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
-* Enable clang-tidy modernize-loop-convert ([#58869](https://github.com/CleverRaven/Cataclysm-DDA/pull/58869))
-* Fix cooked food being cosidered raw ([#58878](https://github.com/CleverRaven/Cataclysm-DDA/pull/58878))
 * Misc test fixes ([#58883](https://github.com/CleverRaven/Cataclysm-DDA/pull/58883))
