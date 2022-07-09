@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-09-0558 ([8b7e574](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-09-0558))
+
 * Routine i18n updates on 09 July 2022 ([#59096](https://github.com/CleverRaven/Cataclysm-DDA/pull/59096))
 * Lower difficulty of cream recipes to 3 ([#59052](https://github.com/CleverRaven/Cataclysm-DDA/pull/59052))
 * Fix gcc 12.1 compile errors ([#59083](https://github.com/CleverRaven/Cataclysm-DDA/pull/59083))
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-07-03-1352 ([cccb059](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1352))
 
 * Fix multiline widgets using W_NO_PADDING flag ([#58922](https://github.com/CleverRaven/Cataclysm-DDA/pull/58922))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-03-1221 ([5a9fa2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-03-1221))
-
 * Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. ([#58907](https://github.com/CleverRaven/Cataclysm-DDA/pull/58907))
 * Audit of pistol spawns ([#58903](https://github.com/CleverRaven/Cataclysm-DDA/pull/58903))

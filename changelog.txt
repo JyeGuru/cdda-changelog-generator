@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-09-0558 (8b7e574)
 * Routine i18n updates on 09 July 2022 (#59096)
 * Lower difficulty of cream recipes to 3 (#59052)
 * Fix gcc 12.1 compile errors (#59083)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2022-07-03-1716 (e68b884)
 
 Cataclysm-DDA experimental build 2022-07-03-1352 (cccb059)
 * Fix multiline widgets using W_NO_PADDING flag (#58922)
-
-Cataclysm-DDA experimental build 2022-07-03-1221 (5a9fa2a)
 * Turpentine and Camphine v2 (#58918)
 * Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. (#58907)
 * Audit of pistol spawns (#58903)
