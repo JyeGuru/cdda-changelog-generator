@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-10-0511 ([de006e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-10-0511))
+
+* Tt→It ([#59120](https://github.com/CleverRaven/Cataclysm-DDA/pull/59120))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-09-2307 ([cf23f01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-09-2307))
 
 * Prevent .38 Super from spawning as on-hand ammo for normal .38 guns. ([#59090](https://github.com/CleverRaven/Cataclysm-DDA/pull/59090))
@@ -201,7 +207,6 @@
 * Survive a season to unlock Ambush and The Next Summer ([#58902](https://github.com/CleverRaven/Cataclysm-DDA/pull/58902))
 * Dinomod NPC trait group fix ([#58909](https://github.com/CleverRaven/Cataclysm-DDA/pull/58909))
 * Remove more auto types ([#58908](https://github.com/CleverRaven/Cataclysm-DDA/pull/58908))
-* [DinoMod] acid dinos ([#58882](https://github.com/CleverRaven/Cataclysm-DDA/pull/58882))
 * Update the table of contents in doc/JSON_INFO.md ([#58885](https://github.com/CleverRaven/Cataclysm-DDA/pull/58885))
 * Routine i18n updates on 02 July 2022 ([#58888](https://github.com/CleverRaven/Cataclysm-DDA/pull/58888))
 * Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
