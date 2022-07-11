@@ -37,6 +37,8 @@ Cataclysm-DDA experimental build 2022-07-11-0423 (b77e724)
 
 Cataclysm-DDA experimental build 2022-07-11-0202 (1159e88)
 * Fix USC carbine minimum recoil to cycle (#59091)
+
+Cataclysm-DDA experimental build 2022-07-11-0059 (9c3ee36)
 * Butt hooks are impossible to attach to guns with sawn-off stocks (#59100)
 
 Cataclysm-DDA experimental build 2022-07-10-0511 (de006e8)
@@ -67,6 +69,8 @@ Cataclysm-DDA experimental build 2022-07-09-0558 (8b7e574)
 
 Cataclysm-DDA experimental build 2022-07-08-0934 (414c57e)
 * Remove salt water from broth (#59013)
+
+Cataclysm-DDA experimental build 2022-07-08-0430 (350a2ea)
 * Enable clang-tidy check modernize-use-override (#59039)
 * Align fatigue level comparisons for UI and effects (#59055)
 * Update newspapers.json (#59031)
@@ -107,6 +111,8 @@ Cataclysm-DDA experimental build 2022-07-06-0345 (709099b)
 
 Cataclysm-DDA experimental build 2022-07-06-0218 (1680bc7)
 * differentiate dishwasher variants (#59007)
+
+Cataclysm-DDA experimental build 2022-07-05-2300 (81f140e)
 * [DinoMod] saurornitholestes (#58989)
 
 Cataclysm-DDA experimental build 2022-07-05-2000 (0d16cfd)
@@ -114,12 +120,8 @@ Cataclysm-DDA experimental build 2022-07-05-2000 (0d16cfd)
 
 Cataclysm-DDA experimental build 2022-07-05-1850 (0e73ae5)
 * [DinoMod] building with dino dung (#58970)
-
-Cataclysm-DDA experimental build 2022-07-05-0722 (db8eb88)
 * Portal storm dungeon fix (#58987)
 * Food updates (#58981)
-
-Cataclysm-DDA experimental build 2022-07-05-0612 (746ea74)
 * Remove stimulant psychosis from SPIDER (#58971)
 * Untemplate JSON (de)serialization functions (#58929)
 * Fix compose.py for Iso tilesets (#58941)
