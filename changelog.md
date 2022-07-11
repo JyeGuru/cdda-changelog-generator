@@ -1,3 +1,11 @@
+* VZ. 58 7.62x39mm rifles ([#58933](https://github.com/CleverRaven/Cataclysm-DDA/pull/58933))
+* NPC follow-up quests ([#59165](https://github.com/CleverRaven/Cataclysm-DDA/pull/59165))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-11-2201 ([4f67f99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-2201))
+
+* new debug info for messed up columns widths ([#59159](https://github.com/CleverRaven/Cataclysm-DDA/pull/59159))
 
 ---
 
@@ -103,7 +111,6 @@
 
 * Enable clang-tidy check modernize-use-override ([#59039](https://github.com/CleverRaven/Cataclysm-DDA/pull/59039))
 * Align fatigue level comparisons for UI and effects ([#59055](https://github.com/CleverRaven/Cataclysm-DDA/pull/59055))
-* Enable category toggle in pickup selectors ([#58917](https://github.com/CleverRaven/Cataclysm-DDA/pull/58917))
 * Update newspapers.json ([#59031](https://github.com/CleverRaven/Cataclysm-DDA/pull/59031))
 * [DinoMod] aquilops ([#59027](https://github.com/CleverRaven/Cataclysm-DDA/pull/59027))
 * Clarify what "disabled" keybindings are ([#59034](https://github.com/CleverRaven/Cataclysm-DDA/pull/59034))
@@ -122,7 +129,6 @@
 
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
-* Modding with wielded mod no longer crashes ([#58915](https://github.com/CleverRaven/Cataclysm-DDA/pull/58915))
 * Boiled potatoes ([#58930](https://github.com/CleverRaven/Cataclysm-DDA/pull/58930))
 * Recalculate starting position and handle mouse when filtering in uilist ([#58965](https://github.com/CleverRaven/Cataclysm-DDA/pull/58965))
 * volume changes and encumber mordernize for police belt ([#58973](https://github.com/CleverRaven/Cataclysm-DDA/pull/58973))
@@ -179,16 +185,10 @@
 #### Cataclysm-DDA experimental build 2022-07-05-1850 ([0e73ae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-1850))
 
 * [DinoMod] building with dino dung ([#58970](https://github.com/CleverRaven/Cataclysm-DDA/pull/58970))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-05-0722 ([db8eb88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-0722))
-
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
 * Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
 * Remove stimulant psychosis from SPIDER ([#58971](https://github.com/CleverRaven/Cataclysm-DDA/pull/58971))
 * Untemplate JSON (de)serialization functions ([#58929](https://github.com/CleverRaven/Cataclysm-DDA/pull/58929))
-* feat: auto astyle-json corrections as reviews ([#58916](https://github.com/CleverRaven/Cataclysm-DDA/pull/58916))
 * Fix compose.py for Iso tilesets ([#58941](https://github.com/CleverRaven/Cataclysm-DDA/pull/58941))
 * Don't reveal monster name on its bite and throw attacks if you don't see it ([#58939](https://github.com/CleverRaven/Cataclysm-DDA/pull/58939))
 * No Hope maintenance ([#58947](https://github.com/CleverRaven/Cataclysm-DDA/pull/58947))
