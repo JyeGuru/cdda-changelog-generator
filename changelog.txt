@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-11-1305 (20872a7)
 * fix integrated armor burning up (#59097)
 
 Cataclysm-DDA experimental build 2022-07-11-1202 (a54abb5)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2022-07-05-1850 (0e73ae5)
 Cataclysm-DDA experimental build 2022-07-05-0722 (db8eb88)
 * Portal storm dungeon fix (#58987)
 * Food updates (#58981)
-
-Cataclysm-DDA experimental build 2022-07-05-0612 (746ea74)
 * Remove stimulant psychosis from SPIDER (#58971)
 * Untemplate JSON (de)serialization functions (#58929)
 * feat: auto astyle-json corrections as reviews (#58916)
