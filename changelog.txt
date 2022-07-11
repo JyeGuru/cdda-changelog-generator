@@ -1,3 +1,4 @@
+* Reduce flakiness of monster throwing sanity test (#59156)
 
 Cataclysm-DDA experimental build 2022-07-11-0202 (1159e88)
 * Fix USC carbine minimum recoil to cycle (#59091)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2022-07-04-2138 (71aeb77)
 * Survive a season to unlock Ambush and The Next Summer (#58902)
 * Dinomod NPC trait group fix (#58909)
 * Remove more auto types (#58908)
-* Routine i18n updates on 02 July 2022 (#58888)
 * Quick portal storm dungeon fix. (#58890)
