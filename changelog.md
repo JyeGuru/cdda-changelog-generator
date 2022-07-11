@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-11-0524 ([ca79ddd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-0524))
+
+* Fixed rarity of American-180 165 round magazines ([#59155](https://github.com/CleverRaven/Cataclysm-DDA/pull/59155))
 * Recharge Relic Cloudy ([#59135](https://github.com/CleverRaven/Cataclysm-DDA/pull/59135))
 * Stop duplicating mapgen functions ([#59111](https://github.com/CleverRaven/Cataclysm-DDA/pull/59111))
 * Smartphones can track calories even when active ([#59117](https://github.com/CleverRaven/Cataclysm-DDA/pull/59117))
@@ -198,5 +204,4 @@
 * Fix multiline widgets using W_NO_PADDING flag ([#58922](https://github.com/CleverRaven/Cataclysm-DDA/pull/58922))
 * Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
 * Revert changes to plate arm and leg descriptions ([#58920](https://github.com/CleverRaven/Cataclysm-DDA/pull/58920))
-* [DinoMod] The PR that gives CBMs to tyrannosaurus ([#58912](https://github.com/CleverRaven/Cataclysm-DDA/pull/58912))
 * Edible cooked artichokes ([#58919](https://github.com/CleverRaven/Cataclysm-DDA/pull/58919))

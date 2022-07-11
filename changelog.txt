@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-07-11-0524 (ca79ddd)
+* Fixed rarity of American-180 165 round magazines (#59155)
 * Recharge Relic Cloudy (#59135)
 * Stop duplicating mapgen functions (#59111)
 * Smartphones can track calories even when active (#59117)
@@ -135,5 +138,4 @@ Cataclysm-DDA experimental build 2022-07-05-0612 (746ea74)
 * Fix multiline widgets using W_NO_PADDING flag (#58922)
 * Turpentine and Camphine v2 (#58918)
 * Revert changes to plate arm and leg descriptions (#58920)
-* [DinoMod] The PR that gives CBMs to tyrannosaurus (#58912)
 * Edible cooked artichokes (#58919)
