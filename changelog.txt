@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-11-2304 (41b1786)
 * Park update (#59145)
 * Add Weakpoint Proficiencies to More Zombies (#59113)
 * Improve clang-tidy check cata-static-declarations (#59175)
@@ -117,8 +119,6 @@ Cataclysm-DDA experimental build 2022-07-05-2300 (81f140e)
 
 Cataclysm-DDA experimental build 2022-07-05-2000 (0d16cfd)
 * Fix typo in nights/indoors attribution (#58997)
-
-Cataclysm-DDA experimental build 2022-07-05-1850 (0e73ae5)
 * [DinoMod] building with dino dung (#58970)
 * Portal storm dungeon fix (#58987)
 * Food updates (#58981)

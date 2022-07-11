@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-11-2304 ([41b1786](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-2304))
+
 * Park update ([#59145](https://github.com/CleverRaven/Cataclysm-DDA/pull/59145))
 * Add Weakpoint Proficiencies to More Zombies ([#59113](https://github.com/CleverRaven/Cataclysm-DDA/pull/59113))
 * Improve clang-tidy check cata-static-declarations ([#59175](https://github.com/CleverRaven/Cataclysm-DDA/pull/59175))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-07-05-2000 ([0d16cfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-2000))
 
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-05-1850 ([0e73ae5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-1850))
-
 * [DinoMod] building with dino dung ([#58970](https://github.com/CleverRaven/Cataclysm-DDA/pull/58970))
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
 * Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
