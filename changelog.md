@@ -1,3 +1,23 @@
+* Recharge Relic Cloudy ([#59135](https://github.com/CleverRaven/Cataclysm-DDA/pull/59135))
+* Stop duplicating mapgen functions ([#59111](https://github.com/CleverRaven/Cataclysm-DDA/pull/59111))
+* Smartphones can track calories even when active ([#59117](https://github.com/CleverRaven/Cataclysm-DDA/pull/59117))
+* Add w_requirement_h to height clamp check ([#59119](https://github.com/CleverRaven/Cataclysm-DDA/pull/59119))
+* Fix more issues caused by #58666 ([#59127](https://github.com/CleverRaven/Cataclysm-DDA/pull/59127))
+* Fix for --world not properly loading some global data ([#59132](https://github.com/CleverRaven/Cataclysm-DDA/pull/59132))
+* Fix compile error on Android due to change in Character::get_wielded_item() ([#59133](https://github.com/CleverRaven/Cataclysm-DDA/pull/59133))
+* [DinoMod] dryosaurus ([#59137](https://github.com/CleverRaven/Cataclysm-DDA/pull/59137))
+* Update credits translations ([#59134](https://github.com/CleverRaven/Cataclysm-DDA/pull/59134))
+* Fix and detect mapgen placing vehicles out of bounds ([#59141](https://github.com/CleverRaven/Cataclysm-DDA/pull/59141))
+* Install signal handler for SIGBUS ([#59148](https://github.com/CleverRaven/Cataclysm-DDA/pull/59148))
+* Routine Tileset updates on 10 July 2022 ([#59151](https://github.com/CleverRaven/Cataclysm-DDA/pull/59151))
+* Use monster groups for pet store spawns and wilderness cat spawns ([#59154](https://github.com/CleverRaven/Cataclysm-DDA/pull/59154))
+* Collapsible mop can be used in auto-mop ([#59099](https://github.com/CleverRaven/Cataclysm-DDA/pull/59099))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-11-0423 ([b77e724](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-0423))
+
+* Pull translated MOTD from Tranisfex ([#59109](https://github.com/CleverRaven/Cataclysm-DDA/pull/59109))
 * Reduce flakiness of monster throwing sanity test ([#59156](https://github.com/CleverRaven/Cataclysm-DDA/pull/59156))
 
 ---
@@ -155,22 +175,8 @@
 #### Cataclysm-DDA experimental build 2022-07-05-0612 ([746ea74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-0612))
 
 * Remove stimulant psychosis from SPIDER ([#58971](https://github.com/CleverRaven/Cataclysm-DDA/pull/58971))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-05-0306 ([ea8d194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-0306))
-
-* Sidebar for languages with long words ([#58897](https://github.com/CleverRaven/Cataclysm-DDA/pull/58897))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-04-2251 ([4a66e60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-2251))
-
-* Use correct cmake variable for prefix.h.in ([#58911](https://github.com/CleverRaven/Cataclysm-DDA/pull/58911))
 * Untemplate JSON (de)serialization functions ([#58929](https://github.com/CleverRaven/Cataclysm-DDA/pull/58929))
 * feat: auto astyle-json corrections as reviews ([#58916](https://github.com/CleverRaven/Cataclysm-DDA/pull/58916))
-* Enable clang-tidy bugprone-redundant-branch-condition ([#58898](https://github.com/CleverRaven/Cataclysm-DDA/pull/58898))
-* Enable clang-tidy check readability-qualified-auto check ([#58901](https://github.com/CleverRaven/Cataclysm-DDA/pull/58901))
 * Fix compose.py for Iso tilesets ([#58941](https://github.com/CleverRaven/Cataclysm-DDA/pull/58941))
 * Don't reveal monster name on its bite and throw attacks if you don't see it ([#58939](https://github.com/CleverRaven/Cataclysm-DDA/pull/58939))
 * No Hope maintenance ([#58947](https://github.com/CleverRaven/Cataclysm-DDA/pull/58947))
@@ -179,11 +185,6 @@
 * cata_tiles: More robust variant looks-like ([#58976](https://github.com/CleverRaven/Cataclysm-DDA/pull/58976))
 * Fix typo in diary.cpp ([#58975](https://github.com/CleverRaven/Cataclysm-DDA/pull/58975))
 * Show hobby traits for every hobby, not just first ([#58978](https://github.com/CleverRaven/Cataclysm-DDA/pull/58978))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-04-2138 ([71aeb77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-2138))
-
 * Don't manually load 'id' member for traits ([#58977](https://github.com/CleverRaven/Cataclysm-DDA/pull/58977))
 * Sawed off stocks ([#58936](https://github.com/CleverRaven/Cataclysm-DDA/pull/58936))
 * Fix UBSan runtime error ([#58953](https://github.com/CleverRaven/Cataclysm-DDA/pull/58953))
@@ -196,17 +197,6 @@
 * All corpse items nest if possible ([#58913](https://github.com/CleverRaven/Cataclysm-DDA/pull/58913))
 * Fix multiline widgets using W_NO_PADDING flag ([#58922](https://github.com/CleverRaven/Cataclysm-DDA/pull/58922))
 * Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
-* Plastic Padding material, buffed touring suit, completely reworked motorcycle armor. ([#58907](https://github.com/CleverRaven/Cataclysm-DDA/pull/58907))
-* Audit of pistol spawns ([#58903](https://github.com/CleverRaven/Cataclysm-DDA/pull/58903))
 * Revert changes to plate arm and leg descriptions ([#58920](https://github.com/CleverRaven/Cataclysm-DDA/pull/58920))
 * [DinoMod] The PR that gives CBMs to tyrannosaurus ([#58912](https://github.com/CleverRaven/Cataclysm-DDA/pull/58912))
 * Edible cooked artichokes ([#58919](https://github.com/CleverRaven/Cataclysm-DDA/pull/58919))
-* Palettize farm_2side house ([#58900](https://github.com/CleverRaven/Cataclysm-DDA/pull/58900))
-* Cyborg Weakpoint set ([#58889](https://github.com/CleverRaven/Cataclysm-DDA/pull/58889))
-* Label various style files with the style label ([#58906](https://github.com/CleverRaven/Cataclysm-DDA/pull/58906))
-* remove day one shockers from open sewer ([#58896](https://github.com/CleverRaven/Cataclysm-DDA/pull/58896))
-* Define special_forest_thick as a forest tile ([#58894](https://github.com/CleverRaven/Cataclysm-DDA/pull/58894))
-* Survive a season to unlock Ambush and The Next Summer ([#58902](https://github.com/CleverRaven/Cataclysm-DDA/pull/58902))
-* Dinomod NPC trait group fix ([#58909](https://github.com/CleverRaven/Cataclysm-DDA/pull/58909))
-* Remove more auto types ([#58908](https://github.com/CleverRaven/Cataclysm-DDA/pull/58908))
-* Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
