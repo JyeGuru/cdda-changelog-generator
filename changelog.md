@@ -1,3 +1,7 @@
+* Park update ([#59145](https://github.com/CleverRaven/Cataclysm-DDA/pull/59145))
+* Add Weakpoint Proficiencies to More Zombies ([#59113](https://github.com/CleverRaven/Cataclysm-DDA/pull/59113))
+* Improve clang-tidy check cata-static-declarations ([#59175](https://github.com/CleverRaven/Cataclysm-DDA/pull/59175))
+* Fix NPC infinite loops ([#59178](https://github.com/CleverRaven/Cataclysm-DDA/pull/59178))
 * VZ. 58 7.62x39mm rifles ([#58933](https://github.com/CleverRaven/Cataclysm-DDA/pull/58933))
 * NPC follow-up quests ([#59165](https://github.com/CleverRaven/Cataclysm-DDA/pull/59165))
 
@@ -206,7 +210,3 @@
 * Display airliner basement properly and not as solid rock ([#58949](https://github.com/CleverRaven/Cataclysm-DDA/pull/58949))
 * Update intensity of instability effect ([#58950](https://github.com/CleverRaven/Cataclysm-DDA/pull/58950))
 * Correct a width off-by-one error in world creator ([#58942](https://github.com/CleverRaven/Cataclysm-DDA/pull/58942))
-* Fix multiline widgets using W_NO_PADDING flag ([#58922](https://github.com/CleverRaven/Cataclysm-DDA/pull/58922))
-* Turpentine and Camphine v2 ([#58918](https://github.com/CleverRaven/Cataclysm-DDA/pull/58918))
-* Revert changes to plate arm and leg descriptions ([#58920](https://github.com/CleverRaven/Cataclysm-DDA/pull/58920))
-* Edible cooked artichokes ([#58919](https://github.com/CleverRaven/Cataclysm-DDA/pull/58919))
