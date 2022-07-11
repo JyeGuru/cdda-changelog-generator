@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-11-1202 (a54abb5)
+* Fix compile error in MinGW cross compile (#59171)
+
 Cataclysm-DDA experimental build 2022-07-11-0524 (ca79ddd)
 * Fixed rarity of American-180 165 round magazines (#59155)
 * Recharge Relic Cloudy (#59135)
@@ -134,7 +137,6 @@ Cataclysm-DDA experimental build 2022-07-05-0612 (746ea74)
 * Display airliner basement properly and not as solid rock (#58949)
 * Update intensity of instability effect (#58950)
 * Correct a width off-by-one error in world creator (#58942)
-* All corpse items nest if possible (#58913)
 * Fix multiline widgets using W_NO_PADDING flag (#58922)
 * Turpentine and Camphine v2 (#58918)
 * Revert changes to plate arm and leg descriptions (#58920)
