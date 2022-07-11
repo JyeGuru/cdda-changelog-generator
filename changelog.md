@@ -1,3 +1,4 @@
+* fix integrated armor burning up ([#59097](https://github.com/CleverRaven/Cataclysm-DDA/pull/59097))
 
 ---
 
@@ -131,7 +132,6 @@
 * Move large functions out of headers ([#59016](https://github.com/CleverRaven/Cataclysm-DDA/pull/59016))
 * Add some more looks_like to terrain and furniture ([#59018](https://github.com/CleverRaven/Cataclysm-DDA/pull/59018))
 * [DinoMod] lizard DNA ([#59012](https://github.com/CleverRaven/Cataclysm-DDA/pull/59012))
-* Nested Cop Zombie Item Spawns ([#58914](https://github.com/CleverRaven/Cataclysm-DDA/pull/58914))
 
 ---
 

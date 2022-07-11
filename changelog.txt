@@ -1,3 +1,4 @@
+* fix integrated armor burning up (#59097)
 
 Cataclysm-DDA experimental build 2022-07-11-1202 (a54abb5)
 * Fix compile error in MinGW cross compile (#59171)
@@ -89,7 +90,6 @@ Cataclysm-DDA experimental build 2022-07-07-0606 (3d81d31)
 * Move large functions out of headers (#59016)
 * Add some more looks_like to terrain and furniture (#59018)
 * [DinoMod] lizard DNA (#59012)
-* Nested Cop Zombie Item Spawns (#58914)
 
 Cataclysm-DDA experimental build 2022-07-06-0647 (1348046)
 * Remove NeoDays support from "sees_player_retro" mod (#58998)
