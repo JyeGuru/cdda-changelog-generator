@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-11-0202 ([1159e88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-0202))
+
+* Fix USC carbine minimum recoil to cycle ([#59091](https://github.com/CleverRaven/Cataclysm-DDA/pull/59091))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-11-0059 ([9c3ee36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-0059))
+
+* Butt hooks are impossible to attach to guns with sawn-off stocks ([#59100](https://github.com/CleverRaven/Cataclysm-DDA/pull/59100))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-10-0511 ([de006e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-10-0511))
 
 * Tt→It ([#59120](https://github.com/CleverRaven/Cataclysm-DDA/pull/59120))
@@ -172,17 +184,7 @@
 #### Cataclysm-DDA experimental build 2022-07-04-2138 ([71aeb77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-2138))
 
 * Don't manually load 'id' member for traits ([#58977](https://github.com/CleverRaven/Cataclysm-DDA/pull/58977))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-04-1508 ([43bf305](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-1508))
-
 * Sawed off stocks ([#58936](https://github.com/CleverRaven/Cataclysm-DDA/pull/58936))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-04-1154 ([5d34e23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-04-1154))
-
 * Fix UBSan runtime error ([#58953](https://github.com/CleverRaven/Cataclysm-DDA/pull/58953))
 * Remove `HAMMER` use action from items ([#58935](https://github.com/CleverRaven/Cataclysm-DDA/pull/58935))
 * Update HP and armor on #56566 ([#58937](https://github.com/CleverRaven/Cataclysm-DDA/pull/58937))
@@ -201,12 +203,10 @@
 * Palettize farm_2side house ([#58900](https://github.com/CleverRaven/Cataclysm-DDA/pull/58900))
 * Cyborg Weakpoint set ([#58889](https://github.com/CleverRaven/Cataclysm-DDA/pull/58889))
 * Label various style files with the style label ([#58906](https://github.com/CleverRaven/Cataclysm-DDA/pull/58906))
-* ci: colored diff output ([#58886](https://github.com/CleverRaven/Cataclysm-DDA/pull/58886))
 * remove day one shockers from open sewer ([#58896](https://github.com/CleverRaven/Cataclysm-DDA/pull/58896))
 * Define special_forest_thick as a forest tile ([#58894](https://github.com/CleverRaven/Cataclysm-DDA/pull/58894))
 * Survive a season to unlock Ambush and The Next Summer ([#58902](https://github.com/CleverRaven/Cataclysm-DDA/pull/58902))
 * Dinomod NPC trait group fix ([#58909](https://github.com/CleverRaven/Cataclysm-DDA/pull/58909))
 * Remove more auto types ([#58908](https://github.com/CleverRaven/Cataclysm-DDA/pull/58908))
-* Update the table of contents in doc/JSON_INFO.md ([#58885](https://github.com/CleverRaven/Cataclysm-DDA/pull/58885))
 * Routine i18n updates on 02 July 2022 ([#58888](https://github.com/CleverRaven/Cataclysm-DDA/pull/58888))
 * Quick portal storm dungeon fix. ([#58890](https://github.com/CleverRaven/Cataclysm-DDA/pull/58890))
