@@ -1,3 +1,10 @@
+* Addition to PR#57608 ([#59205](https://github.com/CleverRaven/Cataclysm-DDA/pull/59205))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-12-2014 ([e89d22a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-12-2014))
+
+* Minor tweaks to the new world options sliders ([#59212](https://github.com/CleverRaven/Cataclysm-DDA/pull/59212))
 
 ---
 
@@ -13,7 +20,6 @@
 * Add Weakpoint Proficiencies to More Zombies ([#59113](https://github.com/CleverRaven/Cataclysm-DDA/pull/59113))
 * Improve clang-tidy check cata-static-declarations ([#59175](https://github.com/CleverRaven/Cataclysm-DDA/pull/59175))
 * Fix NPC infinite loops ([#59178](https://github.com/CleverRaven/Cataclysm-DDA/pull/59178))
-* VZ. 58 7.62x39mm rifles ([#58933](https://github.com/CleverRaven/Cataclysm-DDA/pull/58933))
 * NPC follow-up quests ([#59165](https://github.com/CleverRaven/Cataclysm-DDA/pull/59165))
 
 ---
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-07-06-0218 ([1680bc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0218))
 
 * differentiate dishwasher variants ([#59007](https://github.com/CleverRaven/Cataclysm-DDA/pull/59007))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-05-2300 ([81f140e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-2300))
-
 * [DinoMod] saurornitholestes ([#58989](https://github.com/CleverRaven/Cataclysm-DDA/pull/58989))
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
 * [DinoMod] building with dino dung ([#58970](https://github.com/CleverRaven/Cataclysm-DDA/pull/58970))
@@ -202,7 +203,6 @@
 * Don't manually load 'id' member for traits ([#58977](https://github.com/CleverRaven/Cataclysm-DDA/pull/58977))
 * Sawed off stocks ([#58936](https://github.com/CleverRaven/Cataclysm-DDA/pull/58936))
 * Fix UBSan runtime error ([#58953](https://github.com/CleverRaven/Cataclysm-DDA/pull/58953))
-* Remove `HAMMER` use action from items ([#58935](https://github.com/CleverRaven/Cataclysm-DDA/pull/58935))
 * Update HP and armor on #56566 ([#58937](https://github.com/CleverRaven/Cataclysm-DDA/pull/58937))
 * Routine Tileset updates on 03 July 2022 ([#58952](https://github.com/CleverRaven/Cataclysm-DDA/pull/58952))
 * Display airliner basement properly and not as solid rock ([#58949](https://github.com/CleverRaven/Cataclysm-DDA/pull/58949))

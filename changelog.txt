@@ -1,3 +1,7 @@
+* Addition to PR#57608 (#59205)
+
+Cataclysm-DDA experimental build 2022-07-12-2014 (e89d22a)
+* Minor tweaks to the new world options sliders (#59212)
 
 Cataclysm-DDA experimental build 2022-07-12-0706 (ec37cf1)
 * Change material of pike to steel (#59147)
@@ -7,7 +11,6 @@ Cataclysm-DDA experimental build 2022-07-11-2304 (41b1786)
 * Add Weakpoint Proficiencies to More Zombies (#59113)
 * Improve clang-tidy check cata-static-declarations (#59175)
 * Fix NPC infinite loops (#59178)
-* VZ. 58 7.62x39mm rifles (#58933)
 * NPC follow-up quests (#59165)
 
 Cataclysm-DDA experimental build 2022-07-11-2201 (4f67f99)
@@ -115,8 +118,6 @@ Cataclysm-DDA experimental build 2022-07-06-0345 (709099b)
 
 Cataclysm-DDA experimental build 2022-07-06-0218 (1680bc7)
 * differentiate dishwasher variants (#59007)
-
-Cataclysm-DDA experimental build 2022-07-05-2300 (81f140e)
 * [DinoMod] saurornitholestes (#58989)
 * Fix typo in nights/indoors attribution (#58997)
 * [DinoMod] building with dino dung (#58970)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2022-07-05-2300 (81f140e)
 * Don't manually load 'id' member for traits (#58977)
 * Sawed off stocks (#58936)
 * Fix UBSan runtime error (#58953)
-* Remove `HAMMER` use action from items (#58935)
 * Update HP and armor on #56566 (#58937)
 * Routine Tileset updates on 03 July 2022 (#58952)
 * Display airliner basement properly and not as solid rock (#58949)
