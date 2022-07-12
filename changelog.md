@@ -196,7 +196,6 @@
 * Don't reveal monster name on its bite and throw attacks if you don't see it ([#58939](https://github.com/CleverRaven/Cataclysm-DDA/pull/58939))
 * No Hope maintenance ([#58947](https://github.com/CleverRaven/Cataclysm-DDA/pull/58947))
 * mapgen: don't clean up main when shifting ([#58964](https://github.com/CleverRaven/Cataclysm-DDA/pull/58964))
-* [DinoMod] allosaurus truck and hulk evolutions ([#58932](https://github.com/CleverRaven/Cataclysm-DDA/pull/58932))
 * cata_tiles: More robust variant looks-like ([#58976](https://github.com/CleverRaven/Cataclysm-DDA/pull/58976))
 * Fix typo in diary.cpp ([#58975](https://github.com/CleverRaven/Cataclysm-DDA/pull/58975))
 * Show hobby traits for every hobby, not just first ([#58978](https://github.com/CleverRaven/Cataclysm-DDA/pull/58978))
