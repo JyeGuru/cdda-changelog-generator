@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-12-0706 (ec37cf1)
+* Change material of pike to steel (#59147)
+
 Cataclysm-DDA experimental build 2022-07-11-2304 (41b1786)
 * Park update (#59145)
 * Add Weakpoint Proficiencies to More Zombies (#59113)
@@ -87,7 +90,6 @@ Cataclysm-DDA experimental build 2022-07-08-0320 (20a9a1a)
 Cataclysm-DDA experimental build 2022-07-07-0606 (3d81d31)
 * Make salt spawn in more houses (#59017)
 * Clarify what different consumption keybinds do (#59009)
-* Boiled potatoes (#58930)
 * Recalculate starting position and handle mouse when filtering in uilist (#58965)
 * volume changes and encumber mordernize for police belt (#58973)
 * magiclysm: fix everburning torch flags (#58980)
@@ -116,8 +118,6 @@ Cataclysm-DDA experimental build 2022-07-06-0218 (1680bc7)
 
 Cataclysm-DDA experimental build 2022-07-05-2300 (81f140e)
 * [DinoMod] saurornitholestes (#58989)
-
-Cataclysm-DDA experimental build 2022-07-05-2000 (0d16cfd)
 * Fix typo in nights/indoors attribution (#58997)
 * [DinoMod] building with dino dung (#58970)
 * Portal storm dungeon fix (#58987)

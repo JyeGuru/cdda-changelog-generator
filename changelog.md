@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-12-0706 ([ec37cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-12-0706))
+
+* Change material of pike to steel ([#59147](https://github.com/CleverRaven/Cataclysm-DDA/pull/59147))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-11-2304 ([41b1786](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-2304))
 
 * Park update ([#59145](https://github.com/CleverRaven/Cataclysm-DDA/pull/59145))
@@ -138,7 +144,6 @@
 
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
-* Boiled potatoes ([#58930](https://github.com/CleverRaven/Cataclysm-DDA/pull/58930))
 * Recalculate starting position and handle mouse when filtering in uilist ([#58965](https://github.com/CleverRaven/Cataclysm-DDA/pull/58965))
 * volume changes and encumber mordernize for police belt ([#58973](https://github.com/CleverRaven/Cataclysm-DDA/pull/58973))
 * magiclysm: fix everburning torch flags ([#58980](https://github.com/CleverRaven/Cataclysm-DDA/pull/58980))
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-07-05-2300 ([81f140e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-2300))
 
 * [DinoMod] saurornitholestes ([#58989](https://github.com/CleverRaven/Cataclysm-DDA/pull/58989))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-05-2000 ([0d16cfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-05-2000))
-
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
 * [DinoMod] building with dino dung ([#58970](https://github.com/CleverRaven/Cataclysm-DDA/pull/58970))
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
