@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-13-0109 ([10a4412](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-0109))
+
+* Port point types for construction-related stuff ([#59187](https://github.com/CleverRaven/Cataclysm-DDA/pull/59187))
+* Atomic coffee makers now look like coffee makers ([#59214](https://github.com/CleverRaven/Cataclysm-DDA/pull/59214))
+* Lunar Recharge ([#59140](https://github.com/CleverRaven/Cataclysm-DDA/pull/59140))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-13-0000 ([b3106cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-0000))
+
+* Sounds: fix persistent weather effects ([#59188](https://github.com/CleverRaven/Cataclysm-DDA/pull/59188))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-12-2138 ([1d66199](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-12-2138))
 
 * Worldgen: add shortcuts for buttons ([#59211](https://github.com/CleverRaven/Cataclysm-DDA/pull/59211))
@@ -175,17 +189,7 @@
 #### Cataclysm-DDA experimental build 2022-07-06-0647 ([1348046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0647))
 
 * Remove NeoDays support from "sees_player_retro" mod ([#58998](https://github.com/CleverRaven/Cataclysm-DDA/pull/58998))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-06-0512 ([2c7c1bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0512))
-
 * Sundial widget ([#58983](https://github.com/CleverRaven/Cataclysm-DDA/pull/58983))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-06-0345 ([709099b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0345))
-
 * Update plastic sheet mission ([#59004](https://github.com/CleverRaven/Cataclysm-DDA/pull/59004))
 * differentiate dishwasher variants ([#59007](https://github.com/CleverRaven/Cataclysm-DDA/pull/59007))
 * [DinoMod] saurornitholestes ([#58989](https://github.com/CleverRaven/Cataclysm-DDA/pull/58989))
@@ -194,8 +198,6 @@
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
 * Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
 * Remove stimulant psychosis from SPIDER ([#58971](https://github.com/CleverRaven/Cataclysm-DDA/pull/58971))
-* Fix compose.py for Iso tilesets ([#58941](https://github.com/CleverRaven/Cataclysm-DDA/pull/58941))
-* Don't reveal monster name on its bite and throw attacks if you don't see it ([#58939](https://github.com/CleverRaven/Cataclysm-DDA/pull/58939))
 * No Hope maintenance ([#58947](https://github.com/CleverRaven/Cataclysm-DDA/pull/58947))
 * mapgen: don't clean up main when shifting ([#58964](https://github.com/CleverRaven/Cataclysm-DDA/pull/58964))
 * cata_tiles: More robust variant looks-like ([#58976](https://github.com/CleverRaven/Cataclysm-DDA/pull/58976))
@@ -203,8 +205,6 @@
 * Show hobby traits for every hobby, not just first ([#58978](https://github.com/CleverRaven/Cataclysm-DDA/pull/58978))
 * Don't manually load 'id' member for traits ([#58977](https://github.com/CleverRaven/Cataclysm-DDA/pull/58977))
 * Fix UBSan runtime error ([#58953](https://github.com/CleverRaven/Cataclysm-DDA/pull/58953))
-* Update HP and armor on #56566 ([#58937](https://github.com/CleverRaven/Cataclysm-DDA/pull/58937))
 * Routine Tileset updates on 03 July 2022 ([#58952](https://github.com/CleverRaven/Cataclysm-DDA/pull/58952))
 * Display airliner basement properly and not as solid rock ([#58949](https://github.com/CleverRaven/Cataclysm-DDA/pull/58949))
 * Update intensity of instability effect ([#58950](https://github.com/CleverRaven/Cataclysm-DDA/pull/58950))
-* Correct a width off-by-one error in world creator ([#58942](https://github.com/CleverRaven/Cataclysm-DDA/pull/58942))
