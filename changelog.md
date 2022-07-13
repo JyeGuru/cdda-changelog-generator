@@ -206,5 +206,4 @@
 * Don't manually load 'id' member for traits ([#58977](https://github.com/CleverRaven/Cataclysm-DDA/pull/58977))
 * Fix UBSan runtime error ([#58953](https://github.com/CleverRaven/Cataclysm-DDA/pull/58953))
 * Routine Tileset updates on 03 July 2022 ([#58952](https://github.com/CleverRaven/Cataclysm-DDA/pull/58952))
-* Display airliner basement properly and not as solid rock ([#58949](https://github.com/CleverRaven/Cataclysm-DDA/pull/58949))
 * Update intensity of instability effect ([#58950](https://github.com/CleverRaven/Cataclysm-DDA/pull/58950))
