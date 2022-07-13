@@ -1,3 +1,7 @@
+
+Cataclysm-DDA experimental build 2022-07-13-2327 (86001ea)
+* Manifest Spider and Goblin EOCs  (#59217)
+* Fix NPCs hitting allies with reach attacks (#59071)
 * [Innawoods] Dry battery reuse (#59224)
 * Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep (#59225)
 
@@ -135,7 +139,6 @@ Cataclysm-DDA experimental build 2022-07-07-0606 (3d81d31)
 * Portal storm dungeon fix (#58987)
 * Food updates (#58981)
 * Remove stimulant psychosis from SPIDER (#58971)
-* mapgen: don't clean up main when shifting (#58964)
 * cata_tiles: More robust variant looks-like (#58976)
 * Fix typo in diary.cpp (#58975)
 * Show hobby traits for every hobby, not just first (#58978)

@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-13-2327 ([86001ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-2327))
+
+* Manifest Spider and Goblin EOCs  ([#59217](https://github.com/CleverRaven/Cataclysm-DDA/pull/59217))
+* Fix NPCs hitting allies with reach attacks ([#59071](https://github.com/CleverRaven/Cataclysm-DDA/pull/59071))
 * [Innawoods] Dry battery reuse ([#59224](https://github.com/CleverRaven/Cataclysm-DDA/pull/59224))
 * Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep ([#59225](https://github.com/CleverRaven/Cataclysm-DDA/pull/59225))
 
@@ -207,7 +214,6 @@
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
 * Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
 * Remove stimulant psychosis from SPIDER ([#58971](https://github.com/CleverRaven/Cataclysm-DDA/pull/58971))
-* mapgen: don't clean up main when shifting ([#58964](https://github.com/CleverRaven/Cataclysm-DDA/pull/58964))
 * cata_tiles: More robust variant looks-like ([#58976](https://github.com/CleverRaven/Cataclysm-DDA/pull/58976))
 * Fix typo in diary.cpp ([#58975](https://github.com/CleverRaven/Cataclysm-DDA/pull/58975))
 * Show hobby traits for every hobby, not just first ([#58978](https://github.com/CleverRaven/Cataclysm-DDA/pull/58978))
