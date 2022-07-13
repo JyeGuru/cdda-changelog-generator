@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-13-0609 ([704a963](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-0609))
+
+* Add mon_dog_death_drops to the acid zombie dog ([#59204](https://github.com/CleverRaven/Cataclysm-DDA/pull/59204))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-13-0109 ([10a4412](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-0109))
 
 * Port point types for construction-related stuff ([#59187](https://github.com/CleverRaven/Cataclysm-DDA/pull/59187))
@@ -183,11 +189,6 @@
 * Move large functions out of headers ([#59016](https://github.com/CleverRaven/Cataclysm-DDA/pull/59016))
 * Add some more looks_like to terrain and furniture ([#59018](https://github.com/CleverRaven/Cataclysm-DDA/pull/59018))
 * [DinoMod] lizard DNA ([#59012](https://github.com/CleverRaven/Cataclysm-DDA/pull/59012))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-06-0647 ([1348046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-06-0647))
-
 * Remove NeoDays support from "sees_player_retro" mod ([#58998](https://github.com/CleverRaven/Cataclysm-DDA/pull/58998))
 * Sundial widget ([#58983](https://github.com/CleverRaven/Cataclysm-DDA/pull/58983))
 * Update plastic sheet mission ([#59004](https://github.com/CleverRaven/Cataclysm-DDA/pull/59004))
@@ -198,7 +199,6 @@
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
 * Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
 * Remove stimulant psychosis from SPIDER ([#58971](https://github.com/CleverRaven/Cataclysm-DDA/pull/58971))
-* No Hope maintenance ([#58947](https://github.com/CleverRaven/Cataclysm-DDA/pull/58947))
 * mapgen: don't clean up main when shifting ([#58964](https://github.com/CleverRaven/Cataclysm-DDA/pull/58964))
 * cata_tiles: More robust variant looks-like ([#58976](https://github.com/CleverRaven/Cataclysm-DDA/pull/58976))
 * Fix typo in diary.cpp ([#58975](https://github.com/CleverRaven/Cataclysm-DDA/pull/58975))
