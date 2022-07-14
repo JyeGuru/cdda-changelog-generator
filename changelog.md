@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-14-0642 ([4484667](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-0642))
+
+* Xedra smoking meat bugfix ([#59218](https://github.com/CleverRaven/Cataclysm-DDA/pull/59218))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-14-0206 ([9be17db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-0206))
 
 * Fix even more issues caused by #58666 ([#59241](https://github.com/CleverRaven/Cataclysm-DDA/pull/59241))
@@ -218,7 +224,6 @@
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
 * Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
-* Remove stimulant psychosis from SPIDER ([#58971](https://github.com/CleverRaven/Cataclysm-DDA/pull/58971))
 * cata_tiles: More robust variant looks-like ([#58976](https://github.com/CleverRaven/Cataclysm-DDA/pull/58976))
 * Fix typo in diary.cpp ([#58975](https://github.com/CleverRaven/Cataclysm-DDA/pull/58975))
 * Show hobby traits for every hobby, not just first ([#58978](https://github.com/CleverRaven/Cataclysm-DDA/pull/58978))
