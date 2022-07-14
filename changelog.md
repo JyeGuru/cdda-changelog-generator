@@ -196,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-07-08-0320 ([20a9a1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-08-0320))
 
 * Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-07-0606 ([3d81d31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-07-0606))
-
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
 * volume changes and encumber mordernize for police belt ([#58973](https://github.com/CleverRaven/Cataclysm-DDA/pull/58973))
