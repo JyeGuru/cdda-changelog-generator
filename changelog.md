@@ -1,3 +1,12 @@
+* Portal storm dungeon fixes ([#59251](https://github.com/CleverRaven/Cataclysm-DDA/pull/59251))
+* [innawood] naked innawoods ([#59240](https://github.com/CleverRaven/Cataclysm-DDA/pull/59240))
+* [Innawoods] battery toolmod fix ([#59257](https://github.com/CleverRaven/Cataclysm-DDA/pull/59257))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-14-1457 ([354eb98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-1457))
+
+* New sidebar preset "structured", modable bodygraph ([#59182](https://github.com/CleverRaven/Cataclysm-DDA/pull/59182))
 
 ---
 
@@ -196,15 +205,9 @@
 * Clarify what "disabled" keybindings are ([#59034](https://github.com/CleverRaven/Cataclysm-DDA/pull/59034))
 * Fixed not being able to climb up fences and downspouts ([#59036](https://github.com/CleverRaven/Cataclysm-DDA/pull/59036))
 * Enable clang-tidy static analyzer checks ([#59040](https://github.com/CleverRaven/Cataclysm-DDA/pull/59040))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-08-0320 ([20a9a1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-08-0320))
-
 * Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
-* volume changes and encumber mordernize for police belt ([#58973](https://github.com/CleverRaven/Cataclysm-DDA/pull/58973))
 * magiclysm: fix everburning torch flags ([#58980](https://github.com/CleverRaven/Cataclysm-DDA/pull/58980))
 * Enable clang-tidy check misc-misplaced-const ([#58982](https://github.com/CleverRaven/Cataclysm-DDA/pull/58982))
 * Fix collapse/expand reflow ([#58984](https://github.com/CleverRaven/Cataclysm-DDA/pull/58984))
@@ -224,7 +227,4 @@
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
 * Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
-* cata_tiles: More robust variant looks-like ([#58976](https://github.com/CleverRaven/Cataclysm-DDA/pull/58976))
-* Fix typo in diary.cpp ([#58975](https://github.com/CleverRaven/Cataclysm-DDA/pull/58975))
 * Show hobby traits for every hobby, not just first ([#58978](https://github.com/CleverRaven/Cataclysm-DDA/pull/58978))
-* Don't manually load 'id' member for traits ([#58977](https://github.com/CleverRaven/Cataclysm-DDA/pull/58977))
