@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-14-1732 ([49b8098](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-1732))
+
+* Fix map coordinate conversion functions ([#59252](https://github.com/CleverRaven/Cataclysm-DDA/pull/59252))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-14-1600 ([1fb305e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-1600))
 
 * Portal storm dungeon fixes ([#59251](https://github.com/CleverRaven/Cataclysm-DDA/pull/59251))
@@ -192,11 +198,6 @@
 * Fire lookout tower revamp ([#59025](https://github.com/CleverRaven/Cataclysm-DDA/pull/59025))
 * Farm update ([#59011](https://github.com/CleverRaven/Cataclysm-DDA/pull/59011))
 * [innawood] make leather journals able to track calories ([#59006](https://github.com/CleverRaven/Cataclysm-DDA/pull/59006))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-08-0934 ([414c57e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-08-0934))
-
 * Remove salt water from broth ([#59013](https://github.com/CleverRaven/Cataclysm-DDA/pull/59013))
 * Enable clang-tidy check modernize-use-override ([#59039](https://github.com/CleverRaven/Cataclysm-DDA/pull/59039))
 * Align fatigue level comparisons for UI and effects ([#59055](https://github.com/CleverRaven/Cataclysm-DDA/pull/59055))
@@ -227,4 +228,3 @@
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
 * Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
-* Show hobby traits for every hobby, not just first ([#58978](https://github.com/CleverRaven/Cataclysm-DDA/pull/58978))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-14-1732 (49b8098)
+* Fix map coordinate conversion functions (#59252)
+
 Cataclysm-DDA experimental build 2022-07-14-1600 (1fb305e)
 * Portal storm dungeon fixes (#59251)
 * [innawood] naked innawoods (#59240)
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2022-07-09-0558 (8b7e574)
 * Fire lookout tower revamp (#59025)
 * Farm update (#59011)
 * [innawood] make leather journals able to track calories (#59006)
-
-Cataclysm-DDA experimental build 2022-07-08-0934 (414c57e)
 * Remove salt water from broth (#59013)
 * Enable clang-tidy check modernize-use-override (#59039)
 * Align fatigue level comparisons for UI and effects (#59055)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2022-07-08-0934 (414c57e)
 * Fix typo in nights/indoors attribution (#58997)
 * Portal storm dungeon fix (#58987)
 * Food updates (#58981)
-* Show hobby traits for every hobby, not just first (#58978)
