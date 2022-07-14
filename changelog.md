@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-14-1600 ([1fb305e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-1600))
+
 * Portal storm dungeon fixes ([#59251](https://github.com/CleverRaven/Cataclysm-DDA/pull/59251))
 * [innawood] naked innawoods ([#59240](https://github.com/CleverRaven/Cataclysm-DDA/pull/59240))
 * [Innawoods] battery toolmod fix ([#59257](https://github.com/CleverRaven/Cataclysm-DDA/pull/59257))
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2022-07-08-0934 ([414c57e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-08-0934))
 
 * Remove salt water from broth ([#59013](https://github.com/CleverRaven/Cataclysm-DDA/pull/59013))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-08-0430 ([350a2ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-08-0430))
-
 * Enable clang-tidy check modernize-use-override ([#59039](https://github.com/CleverRaven/Cataclysm-DDA/pull/59039))
 * Align fatigue level comparisons for UI and effects ([#59055](https://github.com/CleverRaven/Cataclysm-DDA/pull/59055))
 * Update newspapers.json ([#59031](https://github.com/CleverRaven/Cataclysm-DDA/pull/59031))
