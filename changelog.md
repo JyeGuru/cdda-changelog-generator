@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-14-0206 ([9be17db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-0206))
+
+* Fix even more issues caused by #58666 ([#59241](https://github.com/CleverRaven/Cataclysm-DDA/pull/59241))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-14-0057 ([1309b23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-0057))
+
+* Revert cat changes to wilderness.json ([#59246](https://github.com/CleverRaven/Cataclysm-DDA/pull/59246))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-13-2327 ([86001ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-2327))
 
 * Manifest Spider and Goblin EOCs  ([#59217](https://github.com/CleverRaven/Cataclysm-DDA/pull/59217))
@@ -191,7 +203,6 @@
 
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
-* Recalculate starting position and handle mouse when filtering in uilist ([#58965](https://github.com/CleverRaven/Cataclysm-DDA/pull/58965))
 * volume changes and encumber mordernize for police belt ([#58973](https://github.com/CleverRaven/Cataclysm-DDA/pull/58973))
 * magiclysm: fix everburning torch flags ([#58980](https://github.com/CleverRaven/Cataclysm-DDA/pull/58980))
 * Enable clang-tidy check misc-misplaced-const ([#58982](https://github.com/CleverRaven/Cataclysm-DDA/pull/58982))
@@ -210,7 +221,6 @@
 * differentiate dishwasher variants ([#59007](https://github.com/CleverRaven/Cataclysm-DDA/pull/59007))
 * [DinoMod] saurornitholestes ([#58989](https://github.com/CleverRaven/Cataclysm-DDA/pull/58989))
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
-* [DinoMod] building with dino dung ([#58970](https://github.com/CleverRaven/Cataclysm-DDA/pull/58970))
 * Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
 * Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
 * Remove stimulant psychosis from SPIDER ([#58971](https://github.com/CleverRaven/Cataclysm-DDA/pull/58971))
