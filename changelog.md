@@ -1,3 +1,10 @@
+* Don't auto-note generated map extra if player hasn't already seen the OMT map extra was placed on ([#59177](https://github.com/CleverRaven/Cataclysm-DDA/pull/59177))
+* Move the Scenario tab of character creation to a scrolling_text_view ([#59209](https://github.com/CleverRaven/Cataclysm-DDA/pull/59209))
+* Changing M26-MASS weight and length to RL values ([#59223](https://github.com/CleverRaven/Cataclysm-DDA/pull/59223))
+* fix faction camp search radius not respecting circular distance setting ([#59235](https://github.com/CleverRaven/Cataclysm-DDA/pull/59235))
+* Another fix for an issue caused by #58666 ([#59256](https://github.com/CleverRaven/Cataclysm-DDA/pull/59256))
+* Automatically synchronize MOTD and Credits translations from Transifex ([#59260](https://github.com/CleverRaven/Cataclysm-DDA/pull/59260))
+* Bump default SDK version for Android builds to 30 ([#59268](https://github.com/CleverRaven/Cataclysm-DDA/pull/59268))
 * [DinoMod x Innawood] Dissect fixes ([#59238](https://github.com/CleverRaven/Cataclysm-DDA/pull/59238))
 
 ---
@@ -191,11 +198,6 @@
 
 * Fix crashes caused by #58666 ([#59107](https://github.com/CleverRaven/Cataclysm-DDA/pull/59107))
 * Only check health of comestibles from 'dda' ([#59094](https://github.com/CleverRaven/Cataclysm-DDA/pull/59094))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-09-0558 ([8b7e574](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-09-0558))
-
 * Routine i18n updates on 09 July 2022 ([#59096](https://github.com/CleverRaven/Cataclysm-DDA/pull/59096))
 * Lower difficulty of cream recipes to 3 ([#59052](https://github.com/CleverRaven/Cataclysm-DDA/pull/59052))
 * Fix gcc 12.1 compile errors ([#59083](https://github.com/CleverRaven/Cataclysm-DDA/pull/59083))
@@ -216,10 +218,6 @@
 * Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
-* Enable clang-tidy check misc-misplaced-const ([#58982](https://github.com/CleverRaven/Cataclysm-DDA/pull/58982))
-* Fix collapse/expand reflow ([#58984](https://github.com/CleverRaven/Cataclysm-DDA/pull/58984))
-* Updated recipe for Duct Tape for innawoods ([#58986](https://github.com/CleverRaven/Cataclysm-DDA/pull/58986))
-* Add extra nightmares ([#58985](https://github.com/CleverRaven/Cataclysm-DDA/pull/58985))
 * Allow full manual control of the alignment of sidebar widgets. ([#58990](https://github.com/CleverRaven/Cataclysm-DDA/pull/58990))
 * More portal storm dungeons bug fixes ([#58992](https://github.com/CleverRaven/Cataclysm-DDA/pull/58992))
 * reduce chance for a nickname in name generation ([#59008](https://github.com/CleverRaven/Cataclysm-DDA/pull/59008))
@@ -227,10 +225,7 @@
 * Add some more looks_like to terrain and furniture ([#59018](https://github.com/CleverRaven/Cataclysm-DDA/pull/59018))
 * [DinoMod] lizard DNA ([#59012](https://github.com/CleverRaven/Cataclysm-DDA/pull/59012))
 * Remove NeoDays support from "sees_player_retro" mod ([#58998](https://github.com/CleverRaven/Cataclysm-DDA/pull/58998))
-* Sundial widget ([#58983](https://github.com/CleverRaven/Cataclysm-DDA/pull/58983))
 * Update plastic sheet mission ([#59004](https://github.com/CleverRaven/Cataclysm-DDA/pull/59004))
 * differentiate dishwasher variants ([#59007](https://github.com/CleverRaven/Cataclysm-DDA/pull/59007))
 * [DinoMod] saurornitholestes ([#58989](https://github.com/CleverRaven/Cataclysm-DDA/pull/58989))
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
-* Portal storm dungeon fix ([#58987](https://github.com/CleverRaven/Cataclysm-DDA/pull/58987))
-* Food updates ([#58981](https://github.com/CleverRaven/Cataclysm-DDA/pull/58981))
