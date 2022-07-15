@@ -225,7 +225,6 @@
 * Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
-* More portal storm dungeons bug fixes ([#58992](https://github.com/CleverRaven/Cataclysm-DDA/pull/58992))
 * reduce chance for a nickname in name generation ([#59008](https://github.com/CleverRaven/Cataclysm-DDA/pull/59008))
 * Move large functions out of headers ([#59016](https://github.com/CleverRaven/Cataclysm-DDA/pull/59016))
 * Add some more looks_like to terrain and furniture ([#59018](https://github.com/CleverRaven/Cataclysm-DDA/pull/59018))
