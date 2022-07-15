@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-15-1818 ([8157ece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-15-1818))
+
+* Space bar ([#59033](https://github.com/CleverRaven/Cataclysm-DDA/pull/59033))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-15-0619 ([93a5ad9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-15-0619))
 
 * Welding gear doesn't blind you ([#59237](https://github.com/CleverRaven/Cataclysm-DDA/pull/59237))
@@ -197,11 +203,6 @@
 * Replaced holster with western holster as a reward from Old Guard rep ([#59101](https://github.com/CleverRaven/Cataclysm-DDA/pull/59101))
 * Remove unnecessary check in aiming code ([#59103](https://github.com/CleverRaven/Cataclysm-DDA/pull/59103))
 * Fix clang-tidy plugin compile errors with LLVM 14 ([#59108](https://github.com/CleverRaven/Cataclysm-DDA/pull/59108))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-09-1618 ([4718292](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-09-1618))
-
 * Fix crashes caused by #58666 ([#59107](https://github.com/CleverRaven/Cataclysm-DDA/pull/59107))
 * Only check health of comestibles from 'dda' ([#59094](https://github.com/CleverRaven/Cataclysm-DDA/pull/59094))
 * Routine i18n updates on 09 July 2022 ([#59096](https://github.com/CleverRaven/Cataclysm-DDA/pull/59096))
@@ -224,7 +225,6 @@
 * Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
-* Allow full manual control of the alignment of sidebar widgets. ([#58990](https://github.com/CleverRaven/Cataclysm-DDA/pull/58990))
 * More portal storm dungeons bug fixes ([#58992](https://github.com/CleverRaven/Cataclysm-DDA/pull/58992))
 * reduce chance for a nickname in name generation ([#59008](https://github.com/CleverRaven/Cataclysm-DDA/pull/59008))
 * Move large functions out of headers ([#59016](https://github.com/CleverRaven/Cataclysm-DDA/pull/59016))
