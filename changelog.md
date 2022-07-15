@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-15-0619 ([93a5ad9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-15-0619))
+
+* Welding gear doesn't blind you ([#59237](https://github.com/CleverRaven/Cataclysm-DDA/pull/59237))
 * Don't auto-note generated map extra if player hasn't already seen the OMT map extra was placed on ([#59177](https://github.com/CleverRaven/Cataclysm-DDA/pull/59177))
 * Move the Scenario tab of character creation to a scrolling_text_view ([#59209](https://github.com/CleverRaven/Cataclysm-DDA/pull/59209))
 * Changing M26-MASS weight and length to RL values ([#59223](https://github.com/CleverRaven/Cataclysm-DDA/pull/59223))
@@ -227,5 +233,4 @@
 * Remove NeoDays support from "sees_player_retro" mod ([#58998](https://github.com/CleverRaven/Cataclysm-DDA/pull/58998))
 * Update plastic sheet mission ([#59004](https://github.com/CleverRaven/Cataclysm-DDA/pull/59004))
 * differentiate dishwasher variants ([#59007](https://github.com/CleverRaven/Cataclysm-DDA/pull/59007))
-* [DinoMod] saurornitholestes ([#58989](https://github.com/CleverRaven/Cataclysm-DDA/pull/58989))
 * Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
