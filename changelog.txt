@@ -1,3 +1,4 @@
+* [DinoMod x Innawood] Dissect fixes (#59238)
 
 Cataclysm-DDA experimental build 2022-07-15-0339 (69ab461)
 * [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant (#59272)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2022-07-09-0558 (8b7e574)
 * Remove unnecessary spacer from compact sidebar (#59043)
 * Make salt spawn in more houses (#59017)
 * Clarify what different consumption keybinds do (#59009)
-* magiclysm: fix everburning torch flags (#58980)
 * Enable clang-tidy check misc-misplaced-const (#58982)
 * Fix collapse/expand reflow (#58984)
 * Updated recipe for Duct Tape for innawoods (#58986)

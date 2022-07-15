@@ -1,3 +1,4 @@
+* [DinoMod x Innawood] Dissect fixes ([#59238](https://github.com/CleverRaven/Cataclysm-DDA/pull/59238))
 
 ---
 
@@ -215,7 +216,6 @@
 * Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
 * Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
 * Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
-* magiclysm: fix everburning torch flags ([#58980](https://github.com/CleverRaven/Cataclysm-DDA/pull/58980))
 * Enable clang-tidy check misc-misplaced-const ([#58982](https://github.com/CleverRaven/Cataclysm-DDA/pull/58982))
 * Fix collapse/expand reflow ([#58984](https://github.com/CleverRaven/Cataclysm-DDA/pull/58984))
 * Updated recipe for Duct Tape for innawoods ([#58986](https://github.com/CleverRaven/Cataclysm-DDA/pull/58986))
