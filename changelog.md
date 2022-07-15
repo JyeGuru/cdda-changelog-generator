@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-15-0339 ([69ab461](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-15-0339))
+
+* [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant ([#59272](https://github.com/CleverRaven/Cataclysm-DDA/pull/59272))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-14-1732 ([49b8098](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-1732))
 
 * Fix map coordinate conversion functions ([#59252](https://github.com/CleverRaven/Cataclysm-DDA/pull/59252))
