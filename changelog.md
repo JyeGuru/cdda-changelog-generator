@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-16-0526 ([9bb4cea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-0526))
+
+* Routine i18n updates on 16 July 2022 ([#59304](https://github.com/CleverRaven/Cataclysm-DDA/pull/59304))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-15-1818 ([8157ece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-15-1818))
 
 * Space bar ([#59033](https://github.com/CleverRaven/Cataclysm-DDA/pull/59033))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2022-07-09-2307 ([cf23f01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-09-2307))
 
 * Prevent .38 Super from spawning as on-hand ammo for normal .38 guns. ([#59090](https://github.com/CleverRaven/Cataclysm-DDA/pull/59090))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-09-1715 ([1d30382](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-09-1715))
-
 * Replaced holster with western holster as a reward from Old Guard rep ([#59101](https://github.com/CleverRaven/Cataclysm-DDA/pull/59101))
 * Remove unnecessary check in aiming code ([#59103](https://github.com/CleverRaven/Cataclysm-DDA/pull/59103))
 * Fix clang-tidy plugin compile errors with LLVM 14 ([#59108](https://github.com/CleverRaven/Cataclysm-DDA/pull/59108))
@@ -232,4 +233,3 @@
 * Remove NeoDays support from "sees_player_retro" mod ([#58998](https://github.com/CleverRaven/Cataclysm-DDA/pull/58998))
 * Update plastic sheet mission ([#59004](https://github.com/CleverRaven/Cataclysm-DDA/pull/59004))
 * differentiate dishwasher variants ([#59007](https://github.com/CleverRaven/Cataclysm-DDA/pull/59007))
-* Fix typo in nights/indoors attribution ([#58997](https://github.com/CleverRaven/Cataclysm-DDA/pull/58997))
