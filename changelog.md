@@ -1,3 +1,6 @@
+* Fix portal storm dungeon monsters placement ([#59295](https://github.com/CleverRaven/Cataclysm-DDA/pull/59295))
+* [innawood] random NPC missions ([#59263](https://github.com/CleverRaven/Cataclysm-DDA/pull/59263))
+* [Megafauna] Various tweaks and additions ([#59193](https://github.com/CleverRaven/Cataclysm-DDA/pull/59193))
 
 ---
 
@@ -26,7 +29,6 @@
 * [DinoMod] mutations and feelings and reptiles ([#59290](https://github.com/CleverRaven/Cataclysm-DDA/pull/59290))
 * Fix divide by zero in #59282 ([#59303](https://github.com/CleverRaven/Cataclysm-DDA/pull/59303))
 * Add a multi-dimensional array and use in overmap ([#59312](https://github.com/CleverRaven/Cataclysm-DDA/pull/59312))
-* Enable clang-tidy check modernize-avoid-bind ([#59065](https://github.com/CleverRaven/Cataclysm-DDA/pull/59065))
 * Make message clearer when connecting appliance to itself ([#59311](https://github.com/CleverRaven/Cataclysm-DDA/pull/59311))
 
 ---
@@ -110,7 +112,6 @@
 #### Cataclysm-DDA experimental build 2022-07-13-2327 ([86001ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-2327))
 
 * Manifest Spider and Goblin EOCs  ([#59217](https://github.com/CleverRaven/Cataclysm-DDA/pull/59217))
-* Fix NPCs hitting allies with reach attacks ([#59071](https://github.com/CleverRaven/Cataclysm-DDA/pull/59071))
 * [Innawoods] Dry battery reuse ([#59224](https://github.com/CleverRaven/Cataclysm-DDA/pull/59224))
 * Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep ([#59225](https://github.com/CleverRaven/Cataclysm-DDA/pull/59225))
 
@@ -226,4 +227,3 @@
 * Fix gcc 12.1 compile errors ([#59083](https://github.com/CleverRaven/Cataclysm-DDA/pull/59083))
 * Translate mutation variants ([#59082](https://github.com/CleverRaven/Cataclysm-DDA/pull/59082))
 * Fix mutant butchery producing normal products ([#59073](https://github.com/CleverRaven/Cataclysm-DDA/pull/59073))
-* Fix various mapgen out of bounds placements ([#59072](https://github.com/CleverRaven/Cataclysm-DDA/pull/59072))
