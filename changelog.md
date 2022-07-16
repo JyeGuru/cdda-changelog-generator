@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-16-2237 ([f0b7411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-2237))
+
+* Appease clang-tidy: move cata::mdarray to heap ([#59335](https://github.com/CleverRaven/Cataclysm-DDA/pull/59335))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-16-2034 ([5139ec0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-2034))
 
 * Fix portal storm dungeon monsters placement ([#59295](https://github.com/CleverRaven/Cataclysm-DDA/pull/59295))
@@ -192,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2022-07-11-1202 ([a54abb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-1202))
 
 * Fix compile error in MinGW cross compile ([#59171](https://github.com/CleverRaven/Cataclysm-DDA/pull/59171))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-11-0524 ([ca79ddd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-0524))
-
 * Fixed rarity of American-180 165 round magazines ([#59155](https://github.com/CleverRaven/Cataclysm-DDA/pull/59155))
 * Recharge Relic Cloudy ([#59135](https://github.com/CleverRaven/Cataclysm-DDA/pull/59135))
 * Stop duplicating mapgen functions ([#59111](https://github.com/CleverRaven/Cataclysm-DDA/pull/59111))
@@ -226,4 +227,3 @@
 * Routine i18n updates on 09 July 2022 ([#59096](https://github.com/CleverRaven/Cataclysm-DDA/pull/59096))
 * Fix gcc 12.1 compile errors ([#59083](https://github.com/CleverRaven/Cataclysm-DDA/pull/59083))
 * Translate mutation variants ([#59082](https://github.com/CleverRaven/Cataclysm-DDA/pull/59082))
-* Fix mutant butchery producing normal products ([#59073](https://github.com/CleverRaven/Cataclysm-DDA/pull/59073))
