@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-16-1926 (554df77)
 * Fix fuel consumption UI inaccuracies (#59297)
 * Riotbot attack: Check if wielded weapon is null before using (#59298)
 
@@ -130,8 +132,6 @@ Cataclysm-DDA experimental build 2022-07-11-0524 (ca79ddd)
 Cataclysm-DDA experimental build 2022-07-11-0423 (b77e724)
 * Pull translated MOTD from Tranisfex (#59109)
 * Reduce flakiness of monster throwing sanity test (#59156)
-
-Cataclysm-DDA experimental build 2022-07-11-0202 (1159e88)
 * Fix USC carbine minimum recoil to cycle (#59091)
 * Butt hooks are impossible to attach to guns with sawn-off stocks (#59100)
 * Tt→It (#59120)
