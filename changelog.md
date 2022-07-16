@@ -1,10 +1,19 @@
+* Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
+* Fix bronze/steel horse armor secondary skill ([#59293](https://github.com/CleverRaven/Cataclysm-DDA/pull/59293))
+* do get_local_windpower with ints ([#59078](https://github.com/CleverRaven/Cataclysm-DDA/pull/59078))
+* Sand and leather ([#59121](https://github.com/CleverRaven/Cataclysm-DDA/pull/59121))
+* allow extraction of sand_underground and sand_mound ([#59095](https://github.com/CleverRaven/Cataclysm-DDA/pull/59095))
+* Replace time as int with time_duration ([#59079](https://github.com/CleverRaven/Cataclysm-DDA/pull/59079))
+* Randomize world name in `string_input_popup` ([#59190](https://github.com/CleverRaven/Cataclysm-DDA/pull/59190))
+* [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
+* Minor office tower tweaks ([#59278](https://github.com/CleverRaven/Cataclysm-DDA/pull/59278))
+* Adds Overmap Special: Nursing Home ([#59180](https://github.com/CleverRaven/Cataclysm-DDA/pull/59180))
 * Ensure comestible type is assigned for all comests ([#59305](https://github.com/CleverRaven/Cataclysm-DDA/pull/59305))
 * Make item density test fail on new items ([#59086](https://github.com/CleverRaven/Cataclysm-DDA/pull/59086))
 * [Aftershock] Consolidate two rare itemgroups ([#59301](https://github.com/CleverRaven/Cataclysm-DDA/pull/59301))
 * [DinoMod] mutations and feelings and reptiles ([#59290](https://github.com/CleverRaven/Cataclysm-DDA/pull/59290))
 * Fix divide by zero in #59282 ([#59303](https://github.com/CleverRaven/Cataclysm-DDA/pull/59303))
 * Add a multi-dimensional array and use in overmap ([#59312](https://github.com/CleverRaven/Cataclysm-DDA/pull/59312))
-* Support libbacktrace on Linux ([#59020](https://github.com/CleverRaven/Cataclysm-DDA/pull/59020))
 * Enable clang-tidy check modernize-avoid-bind ([#59065](https://github.com/CleverRaven/Cataclysm-DDA/pull/59065))
 * Make message clearer when connecting appliance to itself ([#59311](https://github.com/CleverRaven/Cataclysm-DDA/pull/59311))
 
@@ -25,12 +34,6 @@
 #### Cataclysm-DDA experimental build 2022-07-16-0526 ([9bb4cea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-0526))
 
 * Routine i18n updates on 16 July 2022 ([#59304](https://github.com/CleverRaven/Cataclysm-DDA/pull/59304))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-15-1818 ([8157ece](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-15-1818))
-
-* Space bar ([#59033](https://github.com/CleverRaven/Cataclysm-DDA/pull/59033))
 
 ---
 
@@ -223,13 +226,5 @@
 * Translate mutation variants ([#59082](https://github.com/CleverRaven/Cataclysm-DDA/pull/59082))
 * Fix mutant butchery producing normal products ([#59073](https://github.com/CleverRaven/Cataclysm-DDA/pull/59073))
 * Fix various mapgen out of bounds placements ([#59072](https://github.com/CleverRaven/Cataclysm-DDA/pull/59072))
-* Fire lookout tower revamp ([#59025](https://github.com/CleverRaven/Cataclysm-DDA/pull/59025))
-* Enable clang-tidy check modernize-use-override ([#59039](https://github.com/CleverRaven/Cataclysm-DDA/pull/59039))
 * Align fatigue level comparisons for UI and effects ([#59055](https://github.com/CleverRaven/Cataclysm-DDA/pull/59055))
-* Update newspapers.json ([#59031](https://github.com/CleverRaven/Cataclysm-DDA/pull/59031))
-* [DinoMod] aquilops ([#59027](https://github.com/CleverRaven/Cataclysm-DDA/pull/59027))
-* Clarify what "disabled" keybindings are ([#59034](https://github.com/CleverRaven/Cataclysm-DDA/pull/59034))
-* Fixed not being able to climb up fences and downspouts ([#59036](https://github.com/CleverRaven/Cataclysm-DDA/pull/59036))
-* Enable clang-tidy static analyzer checks ([#59040](https://github.com/CleverRaven/Cataclysm-DDA/pull/59040))
 * Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
-* Add some more looks_like to terrain and furniture ([#59018](https://github.com/CleverRaven/Cataclysm-DDA/pull/59018))
