@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-16-0737 (d6a1777)
+* Fixed Isherwoods' special terrain not falling back to normal overmap variants (#59302)
+
 Cataclysm-DDA experimental build 2022-07-16-0526 (9bb4cea)
 * Routine i18n updates on 16 July 2022 (#59304)
 
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2022-07-11-0059 (9c3ee36)
 
 Cataclysm-DDA experimental build 2022-07-10-0511 (de006e8)
 * Tt→It (#59120)
-
-Cataclysm-DDA experimental build 2022-07-09-2307 (cf23f01)
 * Prevent .38 Super from spawning as on-hand ammo for normal .38 guns. (#59090)
 * Replaced holster with western holster as a reward from Old Guard rep (#59101)
 * Remove unnecessary check in aiming code (#59103)
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2022-07-09-2307 (cf23f01)
 * Move large functions out of headers (#59016)
 * Add some more looks_like to terrain and furniture (#59018)
 * [DinoMod] lizard DNA (#59012)
-* Remove NeoDays support from "sees_player_retro" mod (#58998)
 * Update plastic sheet mission (#59004)
 * differentiate dishwasher variants (#59007)
