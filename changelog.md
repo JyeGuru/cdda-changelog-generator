@@ -1,3 +1,18 @@
+* Ensure comestible type is assigned for all comests ([#59305](https://github.com/CleverRaven/Cataclysm-DDA/pull/59305))
+* Make item density test fail on new items ([#59086](https://github.com/CleverRaven/Cataclysm-DDA/pull/59086))
+* [Aftershock] Consolidate two rare itemgroups ([#59301](https://github.com/CleverRaven/Cataclysm-DDA/pull/59301))
+* [DinoMod] mutations and feelings and reptiles ([#59290](https://github.com/CleverRaven/Cataclysm-DDA/pull/59290))
+* Fix divide by zero in #59282 ([#59303](https://github.com/CleverRaven/Cataclysm-DDA/pull/59303))
+* Add a multi-dimensional array and use in overmap ([#59312](https://github.com/CleverRaven/Cataclysm-DDA/pull/59312))
+* Support libbacktrace on Linux ([#59020](https://github.com/CleverRaven/Cataclysm-DDA/pull/59020))
+* Enable clang-tidy check modernize-avoid-bind ([#59065](https://github.com/CleverRaven/Cataclysm-DDA/pull/59065))
+* Make message clearer when connecting appliance to itself ([#59311](https://github.com/CleverRaven/Cataclysm-DDA/pull/59311))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-16-1601 ([ed676c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-1601))
+
+* Stop copying regional settings for every overmap ([#59313](https://github.com/CleverRaven/Cataclysm-DDA/pull/59313))
 
 ---
 
@@ -195,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2022-07-11-0059 ([9c3ee36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-0059))
 
 * Butt hooks are impossible to attach to guns with sawn-off stocks ([#59100](https://github.com/CleverRaven/Cataclysm-DDA/pull/59100))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-10-0511 ([de006e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-10-0511))
-
 * Tt→It ([#59120](https://github.com/CleverRaven/Cataclysm-DDA/pull/59120))
 * Prevent .38 Super from spawning as on-hand ammo for normal .38 guns. ([#59090](https://github.com/CleverRaven/Cataclysm-DDA/pull/59090))
 * Replaced holster with western holster as a reward from Old Guard rep ([#59101](https://github.com/CleverRaven/Cataclysm-DDA/pull/59101))
@@ -214,9 +224,6 @@
 * Fix mutant butchery producing normal products ([#59073](https://github.com/CleverRaven/Cataclysm-DDA/pull/59073))
 * Fix various mapgen out of bounds placements ([#59072](https://github.com/CleverRaven/Cataclysm-DDA/pull/59072))
 * Fire lookout tower revamp ([#59025](https://github.com/CleverRaven/Cataclysm-DDA/pull/59025))
-* Farm update ([#59011](https://github.com/CleverRaven/Cataclysm-DDA/pull/59011))
-* [innawood] make leather journals able to track calories ([#59006](https://github.com/CleverRaven/Cataclysm-DDA/pull/59006))
-* Remove salt water from broth ([#59013](https://github.com/CleverRaven/Cataclysm-DDA/pull/59013))
 * Enable clang-tidy check modernize-use-override ([#59039](https://github.com/CleverRaven/Cataclysm-DDA/pull/59039))
 * Align fatigue level comparisons for UI and effects ([#59055](https://github.com/CleverRaven/Cataclysm-DDA/pull/59055))
 * Update newspapers.json ([#59031](https://github.com/CleverRaven/Cataclysm-DDA/pull/59031))
@@ -225,11 +232,4 @@
 * Fixed not being able to climb up fences and downspouts ([#59036](https://github.com/CleverRaven/Cataclysm-DDA/pull/59036))
 * Enable clang-tidy static analyzer checks ([#59040](https://github.com/CleverRaven/Cataclysm-DDA/pull/59040))
 * Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
-* Make salt spawn in more houses ([#59017](https://github.com/CleverRaven/Cataclysm-DDA/pull/59017))
-* Clarify what different consumption keybinds do ([#59009](https://github.com/CleverRaven/Cataclysm-DDA/pull/59009))
-* reduce chance for a nickname in name generation ([#59008](https://github.com/CleverRaven/Cataclysm-DDA/pull/59008))
-* Move large functions out of headers ([#59016](https://github.com/CleverRaven/Cataclysm-DDA/pull/59016))
 * Add some more looks_like to terrain and furniture ([#59018](https://github.com/CleverRaven/Cataclysm-DDA/pull/59018))
-* [DinoMod] lizard DNA ([#59012](https://github.com/CleverRaven/Cataclysm-DDA/pull/59012))
-* Update plastic sheet mission ([#59004](https://github.com/CleverRaven/Cataclysm-DDA/pull/59004))
-* differentiate dishwasher variants ([#59007](https://github.com/CleverRaven/Cataclysm-DDA/pull/59007))
