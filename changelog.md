@@ -1,3 +1,5 @@
+* Fix fuel consumption UI inaccuracies ([#59297](https://github.com/CleverRaven/Cataclysm-DDA/pull/59297))
+* Riotbot attack: Check if wielded weapon is null before using ([#59298](https://github.com/CleverRaven/Cataclysm-DDA/pull/59298))
 
 ---
 
@@ -221,10 +223,8 @@
 * Fix crashes caused by #58666 ([#59107](https://github.com/CleverRaven/Cataclysm-DDA/pull/59107))
 * Only check health of comestibles from 'dda' ([#59094](https://github.com/CleverRaven/Cataclysm-DDA/pull/59094))
 * Routine i18n updates on 09 July 2022 ([#59096](https://github.com/CleverRaven/Cataclysm-DDA/pull/59096))
-* Lower difficulty of cream recipes to 3 ([#59052](https://github.com/CleverRaven/Cataclysm-DDA/pull/59052))
 * Fix gcc 12.1 compile errors ([#59083](https://github.com/CleverRaven/Cataclysm-DDA/pull/59083))
 * Translate mutation variants ([#59082](https://github.com/CleverRaven/Cataclysm-DDA/pull/59082))
 * Fix mutant butchery producing normal products ([#59073](https://github.com/CleverRaven/Cataclysm-DDA/pull/59073))
 * Fix various mapgen out of bounds placements ([#59072](https://github.com/CleverRaven/Cataclysm-DDA/pull/59072))
 * Align fatigue level comparisons for UI and effects ([#59055](https://github.com/CleverRaven/Cataclysm-DDA/pull/59055))
-* Remove unnecessary spacer from compact sidebar ([#59043](https://github.com/CleverRaven/Cataclysm-DDA/pull/59043))
