@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-16-1756 ([09ce0f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-1756))
+
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
 * Fix bronze/steel horse armor secondary skill ([#59293](https://github.com/CleverRaven/Cataclysm-DDA/pull/59293))
 * do get_local_windpower with ints ([#59078](https://github.com/CleverRaven/Cataclysm-DDA/pull/59078))
@@ -207,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2022-07-11-0202 ([1159e88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-0202))
 
 * Fix USC carbine minimum recoil to cycle ([#59091](https://github.com/CleverRaven/Cataclysm-DDA/pull/59091))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-11-0059 ([9c3ee36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-0059))
-
 * Butt hooks are impossible to attach to guns with sawn-off stocks ([#59100](https://github.com/CleverRaven/Cataclysm-DDA/pull/59100))
 * Tt→It ([#59120](https://github.com/CleverRaven/Cataclysm-DDA/pull/59120))
 * Prevent .38 Super from spawning as on-hand ammo for normal .38 guns. ([#59090](https://github.com/CleverRaven/Cataclysm-DDA/pull/59090))
