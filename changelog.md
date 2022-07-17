@@ -1,3 +1,4 @@
+* fix: guns spawning with double shoulder straps ([#59346](https://github.com/CleverRaven/Cataclysm-DDA/pull/59346))
 
 ---
 
@@ -28,7 +29,6 @@
 * Fix bronze/steel horse armor secondary skill ([#59293](https://github.com/CleverRaven/Cataclysm-DDA/pull/59293))
 * Sand and leather ([#59121](https://github.com/CleverRaven/Cataclysm-DDA/pull/59121))
 * allow extraction of sand_underground and sand_mound ([#59095](https://github.com/CleverRaven/Cataclysm-DDA/pull/59095))
-* Replace time as int with time_duration ([#59079](https://github.com/CleverRaven/Cataclysm-DDA/pull/59079))
 * Randomize world name in `string_input_popup` ([#59190](https://github.com/CleverRaven/Cataclysm-DDA/pull/59190))
 * [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
 * Minor office tower tweaks ([#59278](https://github.com/CleverRaven/Cataclysm-DDA/pull/59278))
