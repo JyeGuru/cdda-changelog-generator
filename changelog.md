@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-17-1206 ([d06b4a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-17-1206))
+
+* Change the bodygraph colors and thresholds ([#59349](https://github.com/CleverRaven/Cataclysm-DDA/pull/59349))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-17-0614 ([6214556](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-17-0614))
 
 * [Innawoods] More Professions ([#59277](https://github.com/CleverRaven/Cataclysm-DDA/pull/59277))
@@ -197,11 +203,6 @@
 * Improve clang-tidy check cata-static-declarations ([#59175](https://github.com/CleverRaven/Cataclysm-DDA/pull/59175))
 * Fix NPC infinite loops ([#59178](https://github.com/CleverRaven/Cataclysm-DDA/pull/59178))
 * NPC follow-up quests ([#59165](https://github.com/CleverRaven/Cataclysm-DDA/pull/59165))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-11-2201 ([4f67f99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-2201))
-
 * new debug info for messed up columns widths ([#59159](https://github.com/CleverRaven/Cataclysm-DDA/pull/59159))
 * Fix compile error in MinGW cross compile ([#59171](https://github.com/CleverRaven/Cataclysm-DDA/pull/59171))
 * Fixed rarity of American-180 165 round magazines ([#59155](https://github.com/CleverRaven/Cataclysm-DDA/pull/59155))
@@ -221,7 +222,6 @@
 * Pull translated MOTD from Tranisfex ([#59109](https://github.com/CleverRaven/Cataclysm-DDA/pull/59109))
 * Reduce flakiness of monster throwing sanity test ([#59156](https://github.com/CleverRaven/Cataclysm-DDA/pull/59156))
 * Tt→It ([#59120](https://github.com/CleverRaven/Cataclysm-DDA/pull/59120))
-* Replaced holster with western holster as a reward from Old Guard rep ([#59101](https://github.com/CleverRaven/Cataclysm-DDA/pull/59101))
 * Remove unnecessary check in aiming code ([#59103](https://github.com/CleverRaven/Cataclysm-DDA/pull/59103))
 * Fix clang-tidy plugin compile errors with LLVM 14 ([#59108](https://github.com/CleverRaven/Cataclysm-DDA/pull/59108))
 * Fix crashes caused by #58666 ([#59107](https://github.com/CleverRaven/Cataclysm-DDA/pull/59107))
