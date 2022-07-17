@@ -220,7 +220,6 @@
 * Use monster groups for pet store spawns and wilderness cat spawns ([#59154](https://github.com/CleverRaven/Cataclysm-DDA/pull/59154))
 * Pull translated MOTD from Tranisfex ([#59109](https://github.com/CleverRaven/Cataclysm-DDA/pull/59109))
 * Reduce flakiness of monster throwing sanity test ([#59156](https://github.com/CleverRaven/Cataclysm-DDA/pull/59156))
-* Butt hooks are impossible to attach to guns with sawn-off stocks ([#59100](https://github.com/CleverRaven/Cataclysm-DDA/pull/59100))
 * Tt→It ([#59120](https://github.com/CleverRaven/Cataclysm-DDA/pull/59120))
 * Replaced holster with western holster as a reward from Old Guard rep ([#59101](https://github.com/CleverRaven/Cataclysm-DDA/pull/59101))
 * Remove unnecessary check in aiming code ([#59103](https://github.com/CleverRaven/Cataclysm-DDA/pull/59103))
