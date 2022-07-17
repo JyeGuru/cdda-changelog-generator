@@ -26,7 +26,6 @@
 
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
 * Fix bronze/steel horse armor secondary skill ([#59293](https://github.com/CleverRaven/Cataclysm-DDA/pull/59293))
-* do get_local_windpower with ints ([#59078](https://github.com/CleverRaven/Cataclysm-DDA/pull/59078))
 * Sand and leather ([#59121](https://github.com/CleverRaven/Cataclysm-DDA/pull/59121))
 * allow extraction of sand_underground and sand_mound ([#59095](https://github.com/CleverRaven/Cataclysm-DDA/pull/59095))
 * Replace time as int with time_duration ([#59079](https://github.com/CleverRaven/Cataclysm-DDA/pull/59079))
