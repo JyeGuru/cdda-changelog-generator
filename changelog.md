@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-18-0605 ([85de01c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-0605))
+
+* Routine Tileset updates on 17 July 2022 ([#59377](https://github.com/CleverRaven/Cataclysm-DDA/pull/59377))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-17-1206 ([d06b4a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-17-1206))
 
 * Change the bodygraph colors and thresholds ([#59349](https://github.com/CleverRaven/Cataclysm-DDA/pull/59349))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2022-07-12-0706 ([ec37cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-12-0706))
 
 * Change material of pike to steel ([#59147](https://github.com/CleverRaven/Cataclysm-DDA/pull/59147))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-11-2304 ([41b1786](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-11-2304))
-
 * Park update ([#59145](https://github.com/CleverRaven/Cataclysm-DDA/pull/59145))
 * Add Weakpoint Proficiencies to More Zombies ([#59113](https://github.com/CleverRaven/Cataclysm-DDA/pull/59113))
 * Improve clang-tidy check cata-static-declarations ([#59175](https://github.com/CleverRaven/Cataclysm-DDA/pull/59175))
@@ -223,4 +224,3 @@
 * Reduce flakiness of monster throwing sanity test ([#59156](https://github.com/CleverRaven/Cataclysm-DDA/pull/59156))
 * Tt→It ([#59120](https://github.com/CleverRaven/Cataclysm-DDA/pull/59120))
 * Fix clang-tidy plugin compile errors with LLVM 14 ([#59108](https://github.com/CleverRaven/Cataclysm-DDA/pull/59108))
-* Fix crashes caused by #58666 ([#59107](https://github.com/CleverRaven/Cataclysm-DDA/pull/59107))

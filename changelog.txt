@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-18-0605 (85de01c)
+* Routine Tileset updates on 17 July 2022 (#59377)
+
 Cataclysm-DDA experimental build 2022-07-17-1206 (d06b4a2)
 * Change the bodygraph colors and thresholds (#59349)
 
@@ -115,8 +118,6 @@ Cataclysm-DDA experimental build 2022-07-12-2014 (e89d22a)
 
 Cataclysm-DDA experimental build 2022-07-12-0706 (ec37cf1)
 * Change material of pike to steel (#59147)
-
-Cataclysm-DDA experimental build 2022-07-11-2304 (41b1786)
 * Park update (#59145)
 * Add Weakpoint Proficiencies to More Zombies (#59113)
 * Improve clang-tidy check cata-static-declarations (#59175)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2022-07-11-2304 (41b1786)
 * Reduce flakiness of monster throwing sanity test (#59156)
 * Tt→It (#59120)
 * Fix clang-tidy plugin compile errors with LLVM 14 (#59108)
-* Fix crashes caused by #58666 (#59107)
