@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-18-1930 ([42a7fde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-1930))
+
+* More bodygraph widgets: encumbrance, temperature and limb status ([#59375](https://github.com/CleverRaven/Cataclysm-DDA/pull/59375))
+* Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
 * Support value_constraint equals_any ([#59356](https://github.com/CleverRaven/Cataclysm-DDA/pull/59356))
 
 ---
@@ -202,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2022-07-13-0000 ([b3106cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-0000))
 
 * Sounds: fix persistent weather effects ([#59188](https://github.com/CleverRaven/Cataclysm-DDA/pull/59188))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-12-2138 ([1d66199](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-12-2138))
-
 * Worldgen: add shortcuts for buttons ([#59211](https://github.com/CleverRaven/Cataclysm-DDA/pull/59211))
 * Addition to PR#57608 ([#59205](https://github.com/CleverRaven/Cataclysm-DDA/pull/59205))
 * Minor tweaks to the new world options sliders ([#59212](https://github.com/CleverRaven/Cataclysm-DDA/pull/59212))
@@ -218,8 +220,6 @@
 * new debug info for messed up columns widths ([#59159](https://github.com/CleverRaven/Cataclysm-DDA/pull/59159))
 * Fix compile error in MinGW cross compile ([#59171](https://github.com/CleverRaven/Cataclysm-DDA/pull/59171))
 * Fixed rarity of American-180 165 round magazines ([#59155](https://github.com/CleverRaven/Cataclysm-DDA/pull/59155))
-* Recharge Relic Cloudy ([#59135](https://github.com/CleverRaven/Cataclysm-DDA/pull/59135))
-* [DinoMod] dryosaurus ([#59137](https://github.com/CleverRaven/Cataclysm-DDA/pull/59137))
 * Fix and detect mapgen placing vehicles out of bounds ([#59141](https://github.com/CleverRaven/Cataclysm-DDA/pull/59141))
 * Install signal handler for SIGBUS ([#59148](https://github.com/CleverRaven/Cataclysm-DDA/pull/59148))
 * Routine Tileset updates on 10 July 2022 ([#59151](https://github.com/CleverRaven/Cataclysm-DDA/pull/59151))
