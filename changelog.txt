@@ -1,3 +1,4 @@
+* Support value_constraint equals_any (#59356)
 
 Cataclysm-DDA experimental build 2022-07-18-1759 (8f9c477)
 * Displace pet into previous player position when moving through stairs if no other positions are available (#59351)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2022-07-12-2138 (1d66199)
 * Fixed rarity of American-180 165 round magazines (#59155)
 * Recharge Relic Cloudy (#59135)
 * [DinoMod] dryosaurus (#59137)
-* Update credits translations (#59134)
 * Fix and detect mapgen placing vehicles out of bounds (#59141)
 * Install signal handler for SIGBUS (#59148)
 * Routine Tileset updates on 10 July 2022 (#59151)

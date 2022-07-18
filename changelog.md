@@ -1,3 +1,4 @@
+* Support value_constraint equals_any ([#59356](https://github.com/CleverRaven/Cataclysm-DDA/pull/59356))
 
 ---
 
@@ -219,7 +220,6 @@
 * Fixed rarity of American-180 165 round magazines ([#59155](https://github.com/CleverRaven/Cataclysm-DDA/pull/59155))
 * Recharge Relic Cloudy ([#59135](https://github.com/CleverRaven/Cataclysm-DDA/pull/59135))
 * [DinoMod] dryosaurus ([#59137](https://github.com/CleverRaven/Cataclysm-DDA/pull/59137))
-* Update credits translations ([#59134](https://github.com/CleverRaven/Cataclysm-DDA/pull/59134))
 * Fix and detect mapgen placing vehicles out of bounds ([#59141](https://github.com/CleverRaven/Cataclysm-DDA/pull/59141))
 * Install signal handler for SIGBUS ([#59148](https://github.com/CleverRaven/Cataclysm-DDA/pull/59148))
 * Routine Tileset updates on 10 July 2022 ([#59151](https://github.com/CleverRaven/Cataclysm-DDA/pull/59151))
