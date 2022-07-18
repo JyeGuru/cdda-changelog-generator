@@ -1,3 +1,20 @@
+* Displace pet into previous player position when moving through stairs if no other positions are available ([#59351](https://github.com/CleverRaven/Cataclysm-DDA/pull/59351))
+* Document fields ([#59358](https://github.com/CleverRaven/Cataclysm-DDA/pull/59358))
+* Allow fetching overmap specials for events ([#59363](https://github.com/CleverRaven/Cataclysm-DDA/pull/59363))
+* Magiclysm new sidebars ([#59374](https://github.com/CleverRaven/Cataclysm-DDA/pull/59374))
+* only hide collapsed on multi items menu ([#59370](https://github.com/CleverRaven/Cataclysm-DDA/pull/59370))
+* rebalance burner spawns ([#59354](https://github.com/CleverRaven/Cataclysm-DDA/pull/59354))
+* Refillable butane lighter and butane spawn buff ([#59310](https://github.com/CleverRaven/Cataclysm-DDA/pull/59310))
+* Adds Trains vehicle group ([#59383](https://github.com/CleverRaven/Cataclysm-DDA/pull/59383))
+* Added missing self-aware widgets ([#59371](https://github.com/CleverRaven/Cataclysm-DDA/pull/59371))
+* Fix smartphone flashlight issues ([#59376](https://github.com/CleverRaven/Cataclysm-DDA/pull/59376))
+* Make twigs and leaves look_like sticks and withered plants respectively ([#59380](https://github.com/CleverRaven/Cataclysm-DDA/pull/59380))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-18-1643 ([d318fba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-1643))
+
+* Fix bodyparts in shock absorber cbm (aftershock) ([#59381](https://github.com/CleverRaven/Cataclysm-DDA/pull/59381))
 
 ---
 
@@ -59,7 +76,6 @@
 
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
 * Fix bronze/steel horse armor secondary skill ([#59293](https://github.com/CleverRaven/Cataclysm-DDA/pull/59293))
-* Sand and leather ([#59121](https://github.com/CleverRaven/Cataclysm-DDA/pull/59121))
 * Randomize world name in `string_input_popup` ([#59190](https://github.com/CleverRaven/Cataclysm-DDA/pull/59190))
 * [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
 * Minor office tower tweaks ([#59278](https://github.com/CleverRaven/Cataclysm-DDA/pull/59278))
@@ -193,14 +209,8 @@
 #### Cataclysm-DDA experimental build 2022-07-12-2014 ([e89d22a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-12-2014))
 
 * Minor tweaks to the new world options sliders ([#59212](https://github.com/CleverRaven/Cataclysm-DDA/pull/59212))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-12-0706 ([ec37cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-12-0706))
-
 * Change material of pike to steel ([#59147](https://github.com/CleverRaven/Cataclysm-DDA/pull/59147))
 * Park update ([#59145](https://github.com/CleverRaven/Cataclysm-DDA/pull/59145))
-* Add Weakpoint Proficiencies to More Zombies ([#59113](https://github.com/CleverRaven/Cataclysm-DDA/pull/59113))
 * Improve clang-tidy check cata-static-declarations ([#59175](https://github.com/CleverRaven/Cataclysm-DDA/pull/59175))
 * Fix NPC infinite loops ([#59178](https://github.com/CleverRaven/Cataclysm-DDA/pull/59178))
 * NPC follow-up quests ([#59165](https://github.com/CleverRaven/Cataclysm-DDA/pull/59165))
@@ -208,19 +218,10 @@
 * Fix compile error in MinGW cross compile ([#59171](https://github.com/CleverRaven/Cataclysm-DDA/pull/59171))
 * Fixed rarity of American-180 165 round magazines ([#59155](https://github.com/CleverRaven/Cataclysm-DDA/pull/59155))
 * Recharge Relic Cloudy ([#59135](https://github.com/CleverRaven/Cataclysm-DDA/pull/59135))
-* Stop duplicating mapgen functions ([#59111](https://github.com/CleverRaven/Cataclysm-DDA/pull/59111))
-* Smartphones can track calories even when active ([#59117](https://github.com/CleverRaven/Cataclysm-DDA/pull/59117))
-* Add w_requirement_h to height clamp check ([#59119](https://github.com/CleverRaven/Cataclysm-DDA/pull/59119))
-* Fix more issues caused by #58666 ([#59127](https://github.com/CleverRaven/Cataclysm-DDA/pull/59127))
-* Fix for --world not properly loading some global data ([#59132](https://github.com/CleverRaven/Cataclysm-DDA/pull/59132))
-* Fix compile error on Android due to change in Character::get_wielded_item() ([#59133](https://github.com/CleverRaven/Cataclysm-DDA/pull/59133))
 * [DinoMod] dryosaurus ([#59137](https://github.com/CleverRaven/Cataclysm-DDA/pull/59137))
 * Update credits translations ([#59134](https://github.com/CleverRaven/Cataclysm-DDA/pull/59134))
 * Fix and detect mapgen placing vehicles out of bounds ([#59141](https://github.com/CleverRaven/Cataclysm-DDA/pull/59141))
 * Install signal handler for SIGBUS ([#59148](https://github.com/CleverRaven/Cataclysm-DDA/pull/59148))
 * Routine Tileset updates on 10 July 2022 ([#59151](https://github.com/CleverRaven/Cataclysm-DDA/pull/59151))
 * Use monster groups for pet store spawns and wilderness cat spawns ([#59154](https://github.com/CleverRaven/Cataclysm-DDA/pull/59154))
-* Pull translated MOTD from Tranisfex ([#59109](https://github.com/CleverRaven/Cataclysm-DDA/pull/59109))
 * Reduce flakiness of monster throwing sanity test ([#59156](https://github.com/CleverRaven/Cataclysm-DDA/pull/59156))
-* Tt→It ([#59120](https://github.com/CleverRaven/Cataclysm-DDA/pull/59120))
-* Fix clang-tidy plugin compile errors with LLVM 14 ([#59108](https://github.com/CleverRaven/Cataclysm-DDA/pull/59108))
