@@ -1,3 +1,4 @@
+* Fix EOC test (#59399)
 
 Cataclysm-DDA experimental build 2022-07-18-1930 (42a7fde)
 * More bodygraph widgets: encumbrance, temperature and limb status (#59375)
@@ -124,9 +125,6 @@ Cataclysm-DDA experimental build 2022-07-13-0609 (704a963)
 Cataclysm-DDA experimental build 2022-07-13-0109 (10a4412)
 * Port point types for construction-related stuff (#59187)
 * Atomic coffee makers now look like coffee makers (#59214)
-* Lunar Recharge (#59140)
-
-Cataclysm-DDA experimental build 2022-07-13-0000 (b3106cf)
 * Sounds: fix persistent weather effects (#59188)
 * Worldgen: add shortcuts for buttons (#59211)
 * Addition to PR#57608 (#59205)

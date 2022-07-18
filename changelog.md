@@ -1,3 +1,4 @@
+* Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
 
 ---
 
@@ -202,12 +203,6 @@
 
 * Port point types for construction-related stuff ([#59187](https://github.com/CleverRaven/Cataclysm-DDA/pull/59187))
 * Atomic coffee makers now look like coffee makers ([#59214](https://github.com/CleverRaven/Cataclysm-DDA/pull/59214))
-* Lunar Recharge ([#59140](https://github.com/CleverRaven/Cataclysm-DDA/pull/59140))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-13-0000 ([b3106cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-0000))
-
 * Sounds: fix persistent weather effects ([#59188](https://github.com/CleverRaven/Cataclysm-DDA/pull/59188))
 * Worldgen: add shortcuts for buttons ([#59211](https://github.com/CleverRaven/Cataclysm-DDA/pull/59211))
 * Addition to PR#57608 ([#59205](https://github.com/CleverRaven/Cataclysm-DDA/pull/59205))
