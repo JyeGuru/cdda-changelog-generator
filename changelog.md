@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-18-1759 ([8f9c477](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-1759))
+
 * Displace pet into previous player position when moving through stairs if no other positions are available ([#59351](https://github.com/CleverRaven/Cataclysm-DDA/pull/59351))
 * Document fields ([#59358](https://github.com/CleverRaven/Cataclysm-DDA/pull/59358))
 * Allow fetching overmap specials for events ([#59363](https://github.com/CleverRaven/Cataclysm-DDA/pull/59363))
@@ -203,11 +208,6 @@
 
 * Worldgen: add shortcuts for buttons ([#59211](https://github.com/CleverRaven/Cataclysm-DDA/pull/59211))
 * Addition to PR#57608 ([#59205](https://github.com/CleverRaven/Cataclysm-DDA/pull/59205))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-12-2014 ([e89d22a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-12-2014))
-
 * Minor tweaks to the new world options sliders ([#59212](https://github.com/CleverRaven/Cataclysm-DDA/pull/59212))
 * Change material of pike to steel ([#59147](https://github.com/CleverRaven/Cataclysm-DDA/pull/59147))
 * Park update ([#59145](https://github.com/CleverRaven/Cataclysm-DDA/pull/59145))
