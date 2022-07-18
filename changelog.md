@@ -196,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-07-13-0609 ([704a963](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-0609))
 
 * Add mon_dog_death_drops to the acid zombie dog ([#59204](https://github.com/CleverRaven/Cataclysm-DDA/pull/59204))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-13-0109 ([10a4412](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-0109))
-
 * Port point types for construction-related stuff ([#59187](https://github.com/CleverRaven/Cataclysm-DDA/pull/59187))
 * Atomic coffee makers now look like coffee makers ([#59214](https://github.com/CleverRaven/Cataclysm-DDA/pull/59214))
 * Sounds: fix persistent weather effects ([#59188](https://github.com/CleverRaven/Cataclysm-DDA/pull/59188))
