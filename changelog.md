@@ -213,5 +213,4 @@
 * NPC follow-up quests ([#59165](https://github.com/CleverRaven/Cataclysm-DDA/pull/59165))
 * new debug info for messed up columns widths ([#59159](https://github.com/CleverRaven/Cataclysm-DDA/pull/59159))
 * Fix compile error in MinGW cross compile ([#59171](https://github.com/CleverRaven/Cataclysm-DDA/pull/59171))
-* Fixed rarity of American-180 165 round magazines ([#59155](https://github.com/CleverRaven/Cataclysm-DDA/pull/59155))
 * Reduce flakiness of monster throwing sanity test ([#59156](https://github.com/CleverRaven/Cataclysm-DDA/pull/59156))
