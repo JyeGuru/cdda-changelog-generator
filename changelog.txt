@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-19-2056 (b9db130)
 * Adjust Weight/Volume of Ballistic Armor Plates (#59284)
 * Routine No Hope maintenance (#59419)
 * [DinoMod] thescelosaurus (#59405)

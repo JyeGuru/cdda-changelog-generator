@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-19-2056 ([b9db130](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-2056))
+
 * Adjust Weight/Volume of Ballistic Armor Plates ([#59284](https://github.com/CleverRaven/Cataclysm-DDA/pull/59284))
 * Routine No Hope maintenance ([#59419](https://github.com/CleverRaven/Cataclysm-DDA/pull/59419))
 * [DinoMod] thescelosaurus ([#59405](https://github.com/CleverRaven/Cataclysm-DDA/pull/59405))
