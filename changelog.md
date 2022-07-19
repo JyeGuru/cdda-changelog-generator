@@ -1,3 +1,18 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-19-0322 ([6ebdac2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0322))
+
+* Fix long text in item action menu ([#59327](https://github.com/CleverRaven/Cataclysm-DDA/pull/59327))
+* Persist vehicle tracking status when folding ([#59355](https://github.com/CleverRaven/Cataclysm-DDA/pull/59355))
+* Fixed the behavior of the zombie burner (and WONDER spells in general) ([#59359](https://github.com/CleverRaven/Cataclysm-DDA/pull/59359))
+* Nerf sell value of some common items ([#59389](https://github.com/CleverRaven/Cataclysm-DDA/pull/59389))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-19-0233 ([e26f0ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0233))
+
+* Enable clang-tidy bugprone-infinite-loop ([#59396](https://github.com/CleverRaven/Cataclysm-DDA/pull/59396))
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
 
 ---
@@ -184,17 +199,7 @@
 * Manifest Spider and Goblin EOCs  ([#59217](https://github.com/CleverRaven/Cataclysm-DDA/pull/59217))
 * [Innawoods] Dry battery reuse ([#59224](https://github.com/CleverRaven/Cataclysm-DDA/pull/59224))
 * Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep ([#59225](https://github.com/CleverRaven/Cataclysm-DDA/pull/59225))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-13-2215 ([ddd0399](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-2215))
-
 * Fix deferred loading of widgets ([#59229](https://github.com/CleverRaven/Cataclysm-DDA/pull/59229))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-13-0609 ([704a963](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-0609))
-
 * Add mon_dog_death_drops to the acid zombie dog ([#59204](https://github.com/CleverRaven/Cataclysm-DDA/pull/59204))
 * Port point types for construction-related stuff ([#59187](https://github.com/CleverRaven/Cataclysm-DDA/pull/59187))
 * Atomic coffee makers now look like coffee makers ([#59214](https://github.com/CleverRaven/Cataclysm-DDA/pull/59214))
@@ -202,16 +207,11 @@
 * Worldgen: add shortcuts for buttons ([#59211](https://github.com/CleverRaven/Cataclysm-DDA/pull/59211))
 * Addition to PR#57608 ([#59205](https://github.com/CleverRaven/Cataclysm-DDA/pull/59205))
 * Minor tweaks to the new world options sliders ([#59212](https://github.com/CleverRaven/Cataclysm-DDA/pull/59212))
-* Change material of pike to steel ([#59147](https://github.com/CleverRaven/Cataclysm-DDA/pull/59147))
-* Park update ([#59145](https://github.com/CleverRaven/Cataclysm-DDA/pull/59145))
 * Improve clang-tidy check cata-static-declarations ([#59175](https://github.com/CleverRaven/Cataclysm-DDA/pull/59175))
 * Fix NPC infinite loops ([#59178](https://github.com/CleverRaven/Cataclysm-DDA/pull/59178))
 * NPC follow-up quests ([#59165](https://github.com/CleverRaven/Cataclysm-DDA/pull/59165))
 * new debug info for messed up columns widths ([#59159](https://github.com/CleverRaven/Cataclysm-DDA/pull/59159))
 * Fix compile error in MinGW cross compile ([#59171](https://github.com/CleverRaven/Cataclysm-DDA/pull/59171))
 * Fixed rarity of American-180 165 round magazines ([#59155](https://github.com/CleverRaven/Cataclysm-DDA/pull/59155))
-* Fix and detect mapgen placing vehicles out of bounds ([#59141](https://github.com/CleverRaven/Cataclysm-DDA/pull/59141))
-* Install signal handler for SIGBUS ([#59148](https://github.com/CleverRaven/Cataclysm-DDA/pull/59148))
-* Routine Tileset updates on 10 July 2022 ([#59151](https://github.com/CleverRaven/Cataclysm-DDA/pull/59151))
 * Use monster groups for pet store spawns and wilderness cat spawns ([#59154](https://github.com/CleverRaven/Cataclysm-DDA/pull/59154))
 * Reduce flakiness of monster throwing sanity test ([#59156](https://github.com/CleverRaven/Cataclysm-DDA/pull/59156))
