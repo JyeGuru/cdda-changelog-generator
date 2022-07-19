@@ -1,3 +1,12 @@
+* Adjust Weight/Volume of Ballistic Armor Plates ([#59284](https://github.com/CleverRaven/Cataclysm-DDA/pull/59284))
+* Routine No Hope maintenance ([#59419](https://github.com/CleverRaven/Cataclysm-DDA/pull/59419))
+* [DinoMod] thescelosaurus ([#59405](https://github.com/CleverRaven/Cataclysm-DDA/pull/59405))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-19-1942 ([fac3512](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-1942))
+
+* Add description for individual patrol officer kit (IPOK) ([#59418](https://github.com/CleverRaven/Cataclysm-DDA/pull/59418))
 
 ---
 
@@ -134,7 +143,6 @@
 * Randomize world name in `string_input_popup` ([#59190](https://github.com/CleverRaven/Cataclysm-DDA/pull/59190))
 * [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
 * Minor office tower tweaks ([#59278](https://github.com/CleverRaven/Cataclysm-DDA/pull/59278))
-* Adds Overmap Special: Nursing Home ([#59180](https://github.com/CleverRaven/Cataclysm-DDA/pull/59180))
 * Ensure comestible type is assigned for all comests ([#59305](https://github.com/CleverRaven/Cataclysm-DDA/pull/59305))
 * [Aftershock] Consolidate two rare itemgroups ([#59301](https://github.com/CleverRaven/Cataclysm-DDA/pull/59301))
 * [DinoMod] mutations and feelings and reptiles ([#59290](https://github.com/CleverRaven/Cataclysm-DDA/pull/59290))
@@ -192,17 +200,6 @@
 * Portal storm dungeon fixes ([#59251](https://github.com/CleverRaven/Cataclysm-DDA/pull/59251))
 * [innawood] naked innawoods ([#59240](https://github.com/CleverRaven/Cataclysm-DDA/pull/59240))
 * [Innawoods] battery toolmod fix ([#59257](https://github.com/CleverRaven/Cataclysm-DDA/pull/59257))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-14-1457 ([354eb98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-1457))
-
-* New sidebar preset "structured", modable bodygraph ([#59182](https://github.com/CleverRaven/Cataclysm-DDA/pull/59182))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-14-0642 ([4484667](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-0642))
-
 * Xedra smoking meat bugfix ([#59218](https://github.com/CleverRaven/Cataclysm-DDA/pull/59218))
 * Fix even more issues caused by #58666 ([#59241](https://github.com/CleverRaven/Cataclysm-DDA/pull/59241))
 * Revert cat changes to wilderness.json ([#59246](https://github.com/CleverRaven/Cataclysm-DDA/pull/59246))
@@ -217,4 +214,3 @@
 * Worldgen: add shortcuts for buttons ([#59211](https://github.com/CleverRaven/Cataclysm-DDA/pull/59211))
 * Addition to PR#57608 ([#59205](https://github.com/CleverRaven/Cataclysm-DDA/pull/59205))
 * Minor tweaks to the new world options sliders ([#59212](https://github.com/CleverRaven/Cataclysm-DDA/pull/59212))
-* Fix NPC infinite loops ([#59178](https://github.com/CleverRaven/Cataclysm-DDA/pull/59178))
