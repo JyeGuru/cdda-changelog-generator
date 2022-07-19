@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-19-1811 ([2f227d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-1811))
+
 * Mongroup: subgroup spawning fixes ([#59281](https://github.com/CleverRaven/Cataclysm-DDA/pull/59281))
 * Fancy gunmods and adding them to item groups ([#59404](https://github.com/CleverRaven/Cataclysm-DDA/pull/59404))
 
