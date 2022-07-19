@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-19-0620 (4d143ca)
+* Fix up medicinal teas (#59400)
+
 Cataclysm-DDA experimental build 2022-07-19-0322 (6ebdac2)
 * Fix long text in item action menu (#59327)
 * Persist vehicle tracking status when folding (#59355)
@@ -119,8 +122,6 @@ Cataclysm-DDA experimental build 2022-07-14-0206 (9be17db)
 
 Cataclysm-DDA experimental build 2022-07-14-0057 (1309b23)
 * Revert cat changes to wilderness.json (#59246)
-
-Cataclysm-DDA experimental build 2022-07-13-2327 (86001ea)
 * Manifest Spider and Goblin EOCs  (#59217)
 * [Innawoods] Dry battery reuse (#59224)
 * Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep (#59225)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2022-07-13-2327 (86001ea)
 * new debug info for messed up columns widths (#59159)
 * Fix compile error in MinGW cross compile (#59171)
 * Fixed rarity of American-180 165 round magazines (#59155)
-* Use monster groups for pet store spawns and wilderness cat spawns (#59154)
 * Reduce flakiness of monster throwing sanity test (#59156)

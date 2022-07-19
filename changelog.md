@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-19-0620 ([4d143ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0620))
+
+* Fix up medicinal teas ([#59400](https://github.com/CleverRaven/Cataclysm-DDA/pull/59400))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-19-0322 ([6ebdac2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0322))
 
 * Fix long text in item action menu ([#59327](https://github.com/CleverRaven/Cataclysm-DDA/pull/59327))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-07-14-0057 ([1309b23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-0057))
 
 * Revert cat changes to wilderness.json ([#59246](https://github.com/CleverRaven/Cataclysm-DDA/pull/59246))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-13-2327 ([86001ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-13-2327))
-
 * Manifest Spider and Goblin EOCs  ([#59217](https://github.com/CleverRaven/Cataclysm-DDA/pull/59217))
 * [Innawoods] Dry battery reuse ([#59224](https://github.com/CleverRaven/Cataclysm-DDA/pull/59224))
 * Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep ([#59225](https://github.com/CleverRaven/Cataclysm-DDA/pull/59225))
@@ -213,5 +214,4 @@
 * new debug info for messed up columns widths ([#59159](https://github.com/CleverRaven/Cataclysm-DDA/pull/59159))
 * Fix compile error in MinGW cross compile ([#59171](https://github.com/CleverRaven/Cataclysm-DDA/pull/59171))
 * Fixed rarity of American-180 165 round magazines ([#59155](https://github.com/CleverRaven/Cataclysm-DDA/pull/59155))
-* Use monster groups for pet store spawns and wilderness cat spawns ([#59154](https://github.com/CleverRaven/Cataclysm-DDA/pull/59154))
 * Reduce flakiness of monster throwing sanity test ([#59156](https://github.com/CleverRaven/Cataclysm-DDA/pull/59156))
