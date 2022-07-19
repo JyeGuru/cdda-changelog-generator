@@ -1,3 +1,10 @@
+* Mongroup: subgroup spawning fixes ([#59281](https://github.com/CleverRaven/Cataclysm-DDA/pull/59281))
+* Fancy gunmods and adding them to item groups ([#59404](https://github.com/CleverRaven/Cataclysm-DDA/pull/59404))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-19-1710 ([e72469d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-1710))
+
 * [Innawoods] Sledgehammer crafting. ([#59409](https://github.com/CleverRaven/Cataclysm-DDA/pull/59409))
 * Health message typo fix ([#59412](https://github.com/CleverRaven/Cataclysm-DDA/pull/59412))
 
@@ -153,7 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-07-15-0619 ([93a5ad9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-15-0619))
 
 * Welding gear doesn't blind you ([#59237](https://github.com/CleverRaven/Cataclysm-DDA/pull/59237))
-* Don't auto-note generated map extra if player hasn't already seen the OMT map extra was placed on ([#59177](https://github.com/CleverRaven/Cataclysm-DDA/pull/59177))
 * Move the Scenario tab of character creation to a scrolling_text_view ([#59209](https://github.com/CleverRaven/Cataclysm-DDA/pull/59209))
 * Changing M26-MASS weight and length to RL values ([#59223](https://github.com/CleverRaven/Cataclysm-DDA/pull/59223))
 * fix faction camp search radius not respecting circular distance setting ([#59235](https://github.com/CleverRaven/Cataclysm-DDA/pull/59235))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2022-07-14-0642 ([4484667](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-0642))
 
 * Xedra smoking meat bugfix ([#59218](https://github.com/CleverRaven/Cataclysm-DDA/pull/59218))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-14-0206 ([9be17db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-0206))
-
 * Fix even more issues caused by #58666 ([#59241](https://github.com/CleverRaven/Cataclysm-DDA/pull/59241))
 * Revert cat changes to wilderness.json ([#59246](https://github.com/CleverRaven/Cataclysm-DDA/pull/59246))
 * Manifest Spider and Goblin EOCs  ([#59217](https://github.com/CleverRaven/Cataclysm-DDA/pull/59217))
@@ -211,6 +212,4 @@
 * Worldgen: add shortcuts for buttons ([#59211](https://github.com/CleverRaven/Cataclysm-DDA/pull/59211))
 * Addition to PR#57608 ([#59205](https://github.com/CleverRaven/Cataclysm-DDA/pull/59205))
 * Minor tweaks to the new world options sliders ([#59212](https://github.com/CleverRaven/Cataclysm-DDA/pull/59212))
-* Improve clang-tidy check cata-static-declarations ([#59175](https://github.com/CleverRaven/Cataclysm-DDA/pull/59175))
 * Fix NPC infinite loops ([#59178](https://github.com/CleverRaven/Cataclysm-DDA/pull/59178))
-* Fix compile error in MinGW cross compile ([#59171](https://github.com/CleverRaven/Cataclysm-DDA/pull/59171))

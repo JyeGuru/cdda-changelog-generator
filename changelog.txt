@@ -1,3 +1,7 @@
+* Mongroup: subgroup spawning fixes (#59281)
+* Fancy gunmods and adding them to item groups (#59404)
+
+Cataclysm-DDA experimental build 2022-07-19-1710 (e72469d)
 * [Innawoods] Sledgehammer crafting. (#59409)
 * Health message typo fix (#59412)
 
@@ -96,7 +100,6 @@ Cataclysm-DDA experimental build 2022-07-16-0526 (9bb4cea)
 
 Cataclysm-DDA experimental build 2022-07-15-0619 (93a5ad9)
 * Welding gear doesn't blind you (#59237)
-* Don't auto-note generated map extra if player hasn't already seen the OMT map extra was placed on (#59177)
 * Move the Scenario tab of character creation to a scrolling_text_view (#59209)
 * Changing M26-MASS weight and length to RL values (#59223)
 * fix faction camp search radius not respecting circular distance setting (#59235)
@@ -121,8 +124,6 @@ Cataclysm-DDA experimental build 2022-07-14-1457 (354eb98)
 
 Cataclysm-DDA experimental build 2022-07-14-0642 (4484667)
 * Xedra smoking meat bugfix (#59218)
-
-Cataclysm-DDA experimental build 2022-07-14-0206 (9be17db)
 * Fix even more issues caused by #58666 (#59241)
 * Revert cat changes to wilderness.json (#59246)
 * Manifest Spider and Goblin EOCs  (#59217)
@@ -136,6 +137,4 @@ Cataclysm-DDA experimental build 2022-07-14-0206 (9be17db)
 * Worldgen: add shortcuts for buttons (#59211)
 * Addition to PR#57608 (#59205)
 * Minor tweaks to the new world options sliders (#59212)
-* Improve clang-tidy check cata-static-declarations (#59175)
 * Fix NPC infinite loops (#59178)
-* Fix compile error in MinGW cross compile (#59171)
