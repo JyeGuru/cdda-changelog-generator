@@ -1,6 +1,25 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-20-0511 ([ae2ff5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-0511))
+
+* Misc typo fixes ([#59431](https://github.com/CleverRaven/Cataclysm-DDA/pull/59431))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-20-0322 ([8f770f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-0322))
+
+* Fix UBSan int overflow ([#59416](https://github.com/CleverRaven/Cataclysm-DDA/pull/59416))
+* Immobile Monsters Can't Wander ([#59421](https://github.com/CleverRaven/Cataclysm-DDA/pull/59421))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-20-0221 ([df15035](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-0221))
+
+* Multi Unit Houses ([#59348](https://github.com/CleverRaven/Cataclysm-DDA/pull/59348))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-19-2056 ([b9db130](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-2056))
 
 * Adjust Weight/Volume of Ballistic Armor Plates ([#59284](https://github.com/CleverRaven/Cataclysm-DDA/pull/59284))
@@ -130,7 +149,6 @@
 
 * Fix portal storm dungeon monsters placement ([#59295](https://github.com/CleverRaven/Cataclysm-DDA/pull/59295))
 * [innawood] random NPC missions ([#59263](https://github.com/CleverRaven/Cataclysm-DDA/pull/59263))
-* [Megafauna] Various tweaks and additions ([#59193](https://github.com/CleverRaven/Cataclysm-DDA/pull/59193))
 
 ---
 
@@ -145,7 +163,6 @@
 
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
 * Fix bronze/steel horse armor secondary skill ([#59293](https://github.com/CleverRaven/Cataclysm-DDA/pull/59293))
-* Randomize world name in `string_input_popup` ([#59190](https://github.com/CleverRaven/Cataclysm-DDA/pull/59190))
 * [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
 * Minor office tower tweaks ([#59278](https://github.com/CleverRaven/Cataclysm-DDA/pull/59278))
 * Ensure comestible type is assigned for all comests ([#59305](https://github.com/CleverRaven/Cataclysm-DDA/pull/59305))
@@ -185,23 +202,8 @@
 * Automatically synchronize MOTD and Credits translations from Transifex ([#59260](https://github.com/CleverRaven/Cataclysm-DDA/pull/59260))
 * Bump default SDK version for Android builds to 30 ([#59268](https://github.com/CleverRaven/Cataclysm-DDA/pull/59268))
 * [DinoMod x Innawood] Dissect fixes ([#59238](https://github.com/CleverRaven/Cataclysm-DDA/pull/59238))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-15-0339 ([69ab461](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-15-0339))
-
 * [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant ([#59272](https://github.com/CleverRaven/Cataclysm-DDA/pull/59272))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-14-1732 ([49b8098](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-1732))
-
 * Fix map coordinate conversion functions ([#59252](https://github.com/CleverRaven/Cataclysm-DDA/pull/59252))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-14-1600 ([1fb305e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-14-1600))
-
 * Portal storm dungeon fixes ([#59251](https://github.com/CleverRaven/Cataclysm-DDA/pull/59251))
 * [innawood] naked innawoods ([#59240](https://github.com/CleverRaven/Cataclysm-DDA/pull/59240))
 * [Innawoods] battery toolmod fix ([#59257](https://github.com/CleverRaven/Cataclysm-DDA/pull/59257))
@@ -213,9 +215,7 @@
 * Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep ([#59225](https://github.com/CleverRaven/Cataclysm-DDA/pull/59225))
 * Fix deferred loading of widgets ([#59229](https://github.com/CleverRaven/Cataclysm-DDA/pull/59229))
 * Add mon_dog_death_drops to the acid zombie dog ([#59204](https://github.com/CleverRaven/Cataclysm-DDA/pull/59204))
-* Port point types for construction-related stuff ([#59187](https://github.com/CleverRaven/Cataclysm-DDA/pull/59187))
 * Atomic coffee makers now look like coffee makers ([#59214](https://github.com/CleverRaven/Cataclysm-DDA/pull/59214))
-* Sounds: fix persistent weather effects ([#59188](https://github.com/CleverRaven/Cataclysm-DDA/pull/59188))
 * Worldgen: add shortcuts for buttons ([#59211](https://github.com/CleverRaven/Cataclysm-DDA/pull/59211))
 * Addition to PR#57608 ([#59205](https://github.com/CleverRaven/Cataclysm-DDA/pull/59205))
 * Minor tweaks to the new world options sliders ([#59212](https://github.com/CleverRaven/Cataclysm-DDA/pull/59212))
