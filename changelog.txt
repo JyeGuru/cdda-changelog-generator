@@ -1,3 +1,4 @@
+* [XE] Couple of Xedra Evolved adjustments and fixes (#59435)
 * Enable clang-tidy check performance-trivially-destructible (#59443)
 
 Cataclysm-DDA experimental build 2022-07-20-1755 (7400fe1)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2022-07-15-0619 (93a5ad9)
 * Fix deferred loading of widgets (#59229)
 * Atomic coffee makers now look like coffee makers (#59214)
 * Worldgen: add shortcuts for buttons (#59211)
-* Addition to PR#57608 (#59205)
 * Minor tweaks to the new world options sliders (#59212)
