@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-20-1912 ([57b062c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-1912))
+
 * [XE] Couple of Xedra Evolved adjustments and fixes ([#59435](https://github.com/CleverRaven/Cataclysm-DDA/pull/59435))
 * Enable clang-tidy check performance-trivially-destructible ([#59443](https://github.com/CleverRaven/Cataclysm-DDA/pull/59443))
 
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2022-07-16-0526 ([9bb4cea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-0526))
 
 * Routine i18n updates on 16 July 2022 ([#59304](https://github.com/CleverRaven/Cataclysm-DDA/pull/59304))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-15-0619 ([93a5ad9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-15-0619))
-
 * Welding gear doesn't blind you ([#59237](https://github.com/CleverRaven/Cataclysm-DDA/pull/59237))
 * Move the Scenario tab of character creation to a scrolling_text_view ([#59209](https://github.com/CleverRaven/Cataclysm-DDA/pull/59209))
 * Changing M26-MASS weight and length to RL values ([#59223](https://github.com/CleverRaven/Cataclysm-DDA/pull/59223))
