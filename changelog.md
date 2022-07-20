@@ -1,3 +1,10 @@
+* Enable clang-tidy check performance-trivially-destructible ([#59443](https://github.com/CleverRaven/Cataclysm-DDA/pull/59443))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-20-1755 ([7400fe1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-1755))
+
+* Cows will (eventually) defend themselves ([#59453](https://github.com/CleverRaven/Cataclysm-DDA/pull/59453))
 
 ---
 
@@ -214,7 +221,6 @@
 * [Innawoods] Dry battery reuse ([#59224](https://github.com/CleverRaven/Cataclysm-DDA/pull/59224))
 * Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep ([#59225](https://github.com/CleverRaven/Cataclysm-DDA/pull/59225))
 * Fix deferred loading of widgets ([#59229](https://github.com/CleverRaven/Cataclysm-DDA/pull/59229))
-* Add mon_dog_death_drops to the acid zombie dog ([#59204](https://github.com/CleverRaven/Cataclysm-DDA/pull/59204))
 * Atomic coffee makers now look like coffee makers ([#59214](https://github.com/CleverRaven/Cataclysm-DDA/pull/59214))
 * Worldgen: add shortcuts for buttons ([#59211](https://github.com/CleverRaven/Cataclysm-DDA/pull/59211))
 * Addition to PR#57608 ([#59205](https://github.com/CleverRaven/Cataclysm-DDA/pull/59205))
