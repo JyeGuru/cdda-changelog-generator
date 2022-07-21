@@ -230,4 +230,3 @@
 * Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep ([#59225](https://github.com/CleverRaven/Cataclysm-DDA/pull/59225))
 * Fix deferred loading of widgets ([#59229](https://github.com/CleverRaven/Cataclysm-DDA/pull/59229))
 * Atomic coffee makers now look like coffee makers ([#59214](https://github.com/CleverRaven/Cataclysm-DDA/pull/59214))
-* Minor tweaks to the new world options sliders ([#59212](https://github.com/CleverRaven/Cataclysm-DDA/pull/59212))
