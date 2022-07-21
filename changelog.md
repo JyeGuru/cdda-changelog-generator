@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-21-0520 ([2b29aca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0520))
+
+* typo fix ([#59459](https://github.com/CleverRaven/Cataclysm-DDA/pull/59459))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-21-0115 ([75e3982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0115))
 
 * change terrain trap sets to terrain ([#59426](https://github.com/CleverRaven/Cataclysm-DDA/pull/59426))
@@ -202,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-07-16-1601 ([ed676c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-1601))
 
 * Stop copying regional settings for every overmap ([#59313](https://github.com/CleverRaven/Cataclysm-DDA/pull/59313))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-16-0737 ([d6a1777](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-0737))
-
 * Fixed Isherwoods' special terrain not falling back to normal overmap variants ([#59302](https://github.com/CleverRaven/Cataclysm-DDA/pull/59302))
 * Routine i18n updates on 16 July 2022 ([#59304](https://github.com/CleverRaven/Cataclysm-DDA/pull/59304))
 * Welding gear doesn't blind you ([#59237](https://github.com/CleverRaven/Cataclysm-DDA/pull/59237))
@@ -229,5 +230,4 @@
 * Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep ([#59225](https://github.com/CleverRaven/Cataclysm-DDA/pull/59225))
 * Fix deferred loading of widgets ([#59229](https://github.com/CleverRaven/Cataclysm-DDA/pull/59229))
 * Atomic coffee makers now look like coffee makers ([#59214](https://github.com/CleverRaven/Cataclysm-DDA/pull/59214))
-* Worldgen: add shortcuts for buttons ([#59211](https://github.com/CleverRaven/Cataclysm-DDA/pull/59211))
 * Minor tweaks to the new world options sliders ([#59212](https://github.com/CleverRaven/Cataclysm-DDA/pull/59212))
