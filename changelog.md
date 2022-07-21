@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-21-0115 ([75e3982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0115))
+
 * change terrain trap sets to terrain ([#59426](https://github.com/CleverRaven/Cataclysm-DDA/pull/59426))
 
 ---
@@ -203,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-07-16-0737 ([d6a1777](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-0737))
 
 * Fixed Isherwoods' special terrain not falling back to normal overmap variants ([#59302](https://github.com/CleverRaven/Cataclysm-DDA/pull/59302))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-16-0526 ([9bb4cea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-0526))
-
 * Routine i18n updates on 16 July 2022 ([#59304](https://github.com/CleverRaven/Cataclysm-DDA/pull/59304))
 * Welding gear doesn't blind you ([#59237](https://github.com/CleverRaven/Cataclysm-DDA/pull/59237))
 * Changing M26-MASS weight and length to RL values ([#59223](https://github.com/CleverRaven/Cataclysm-DDA/pull/59223))

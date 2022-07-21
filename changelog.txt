@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-21-0115 (75e3982)
 * change terrain trap sets to terrain (#59426)
 
 Cataclysm-DDA experimental build 2022-07-21-0011 (7420f08)
@@ -122,8 +124,6 @@ Cataclysm-DDA experimental build 2022-07-16-1601 (ed676c7)
 
 Cataclysm-DDA experimental build 2022-07-16-0737 (d6a1777)
 * Fixed Isherwoods' special terrain not falling back to normal overmap variants (#59302)
-
-Cataclysm-DDA experimental build 2022-07-16-0526 (9bb4cea)
 * Routine i18n updates on 16 July 2022 (#59304)
 * Welding gear doesn't blind you (#59237)
 * Changing M26-MASS weight and length to RL values (#59223)
