@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-21-0520 ([2b29aca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0520))
+
 * typo fix ([#59459](https://github.com/CleverRaven/Cataclysm-DDA/pull/59459))
 
 ---

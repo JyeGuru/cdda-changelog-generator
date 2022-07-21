@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-21-0520 (2b29aca)
 * typo fix (#59459)
 
 Cataclysm-DDA experimental build 2022-07-21-0115 (75e3982)
