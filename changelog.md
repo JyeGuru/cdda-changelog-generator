@@ -1,3 +1,10 @@
+* change terrain trap sets to terrain ([#59426](https://github.com/CleverRaven/Cataclysm-DDA/pull/59426))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-21-0011 ([7420f08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0011))
+
+* Small Update to Nursing Home ([#59463](https://github.com/CleverRaven/Cataclysm-DDA/pull/59463))
 
 ---
 
@@ -203,7 +210,6 @@
 
 * Routine i18n updates on 16 July 2022 ([#59304](https://github.com/CleverRaven/Cataclysm-DDA/pull/59304))
 * Welding gear doesn't blind you ([#59237](https://github.com/CleverRaven/Cataclysm-DDA/pull/59237))
-* Move the Scenario tab of character creation to a scrolling_text_view ([#59209](https://github.com/CleverRaven/Cataclysm-DDA/pull/59209))
 * Changing M26-MASS weight and length to RL values ([#59223](https://github.com/CleverRaven/Cataclysm-DDA/pull/59223))
 * fix faction camp search radius not respecting circular distance setting ([#59235](https://github.com/CleverRaven/Cataclysm-DDA/pull/59235))
 * Another fix for an issue caused by #58666 ([#59256](https://github.com/CleverRaven/Cataclysm-DDA/pull/59256))
