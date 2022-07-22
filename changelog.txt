@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-22-1654 (6a0d865)
 * Aftershock Exosuit Power Up 2! MORE POWER (#59483)
 
 Cataclysm-DDA experimental build 2022-07-22-0807 (072a7a3)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2022-07-17-0502 (9d7f007)
 
 Cataclysm-DDA experimental build 2022-07-16-2237 (f0b7411)
 * Appease clang-tidy: move cata::mdarray to heap (#59335)
-
-Cataclysm-DDA experimental build 2022-07-16-2034 (5139ec0)
 * Fix portal storm dungeon monsters placement (#59295)
 * [innawood] random NPC missions (#59263)
 * Fix fuel consumption UI inaccuracies (#59297)

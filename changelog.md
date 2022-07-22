@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-22-1654 ([6a0d865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-1654))
+
 * Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
 
 ---
@@ -198,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-07-16-2237 ([f0b7411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-2237))
 
 * Appease clang-tidy: move cata::mdarray to heap ([#59335](https://github.com/CleverRaven/Cataclysm-DDA/pull/59335))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-16-2034 ([5139ec0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-2034))
-
 * Fix portal storm dungeon monsters placement ([#59295](https://github.com/CleverRaven/Cataclysm-DDA/pull/59295))
 * [innawood] random NPC missions ([#59263](https://github.com/CleverRaven/Cataclysm-DDA/pull/59263))
 * Fix fuel consumption UI inaccuracies ([#59297](https://github.com/CleverRaven/Cataclysm-DDA/pull/59297))
