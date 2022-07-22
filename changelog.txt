@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-22-1943 (d291072)
+* Restore showing the monologue[from scenario desc] after starting game (#59490)
+
 Cataclysm-DDA experimental build 2022-07-22-1654 (6a0d865)
 * Aftershock Exosuit Power Up 2! MORE POWER (#59483)
 
@@ -119,8 +122,6 @@ Cataclysm-DDA experimental build 2022-07-17-0614 (6214556)
 
 Cataclysm-DDA experimental build 2022-07-17-0502 (9d7f007)
 * fix: guns spawning with double shoulder straps (#59346)
-
-Cataclysm-DDA experimental build 2022-07-16-2237 (f0b7411)
 * Appease clang-tidy: move cata::mdarray to heap (#59335)
 * Fix portal storm dungeon monsters placement (#59295)
 * [innawood] random NPC missions (#59263)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2022-07-16-2237 (f0b7411)
 * Automatically synchronize MOTD and Credits translations from Transifex (#59260)
 * Bump default SDK version for Android builds to 30 (#59268)
 * [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant (#59272)
-* Fix map coordinate conversion functions (#59252)
 * [Innawoods] battery toolmod fix (#59257)

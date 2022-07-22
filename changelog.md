@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-22-1943 ([d291072](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-1943))
+
+* Restore showing the monologue[from scenario desc] after starting game ([#59490](https://github.com/CleverRaven/Cataclysm-DDA/pull/59490))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-22-1654 ([6a0d865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-1654))
 
 * Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
@@ -197,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-07-17-0502 ([9d7f007](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-17-0502))
 
 * fix: guns spawning with double shoulder straps ([#59346](https://github.com/CleverRaven/Cataclysm-DDA/pull/59346))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-16-2237 ([f0b7411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-2237))
-
 * Appease clang-tidy: move cata::mdarray to heap ([#59335](https://github.com/CleverRaven/Cataclysm-DDA/pull/59335))
 * Fix portal storm dungeon monsters placement ([#59295](https://github.com/CleverRaven/Cataclysm-DDA/pull/59295))
 * [innawood] random NPC missions ([#59263](https://github.com/CleverRaven/Cataclysm-DDA/pull/59263))
@@ -224,5 +225,4 @@
 * Automatically synchronize MOTD and Credits translations from Transifex ([#59260](https://github.com/CleverRaven/Cataclysm-DDA/pull/59260))
 * Bump default SDK version for Android builds to 30 ([#59268](https://github.com/CleverRaven/Cataclysm-DDA/pull/59268))
 * [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant ([#59272](https://github.com/CleverRaven/Cataclysm-DDA/pull/59272))
-* Fix map coordinate conversion functions ([#59252](https://github.com/CleverRaven/Cataclysm-DDA/pull/59252))
 * [Innawoods] battery toolmod fix ([#59257](https://github.com/CleverRaven/Cataclysm-DDA/pull/59257))
