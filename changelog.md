@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-22-0807 ([072a7a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-0807))
+
+* Obsolete canola item ([#59437](https://github.com/CleverRaven/Cataclysm-DDA/pull/59437))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-22-0211 ([7fe8d5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-0211))
 
 * Only allow military base and aircraft carrier specials to be placed once per game world ([#59328](https://github.com/CleverRaven/Cataclysm-DDA/pull/59328))
@@ -198,11 +204,6 @@
 
 * Fix portal storm dungeon monsters placement ([#59295](https://github.com/CleverRaven/Cataclysm-DDA/pull/59295))
 * [innawood] random NPC missions ([#59263](https://github.com/CleverRaven/Cataclysm-DDA/pull/59263))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-16-1926 ([554df77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-1926))
-
 * Fix fuel consumption UI inaccuracies ([#59297](https://github.com/CleverRaven/Cataclysm-DDA/pull/59297))
 * Riotbot attack: Check if wielded weapon is null before using ([#59298](https://github.com/CleverRaven/Cataclysm-DDA/pull/59298))
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
@@ -225,4 +226,3 @@
 * Fix map coordinate conversion functions ([#59252](https://github.com/CleverRaven/Cataclysm-DDA/pull/59252))
 * Portal storm dungeon fixes ([#59251](https://github.com/CleverRaven/Cataclysm-DDA/pull/59251))
 * [Innawoods] battery toolmod fix ([#59257](https://github.com/CleverRaven/Cataclysm-DDA/pull/59257))
-* Revert cat changes to wilderness.json ([#59246](https://github.com/CleverRaven/Cataclysm-DDA/pull/59246))

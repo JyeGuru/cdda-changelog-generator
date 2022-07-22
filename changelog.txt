@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-22-0807 (072a7a3)
+* Obsolete canola item (#59437)
+
 Cataclysm-DDA experimental build 2022-07-22-0211 (7fe8d5b)
 * Only allow military base and aircraft carrier specials to be placed once per game world (#59328)
 * Fix hit chance estimates in aiming UI (#59408)
@@ -120,8 +123,6 @@ Cataclysm-DDA experimental build 2022-07-16-2237 (f0b7411)
 Cataclysm-DDA experimental build 2022-07-16-2034 (5139ec0)
 * Fix portal storm dungeon monsters placement (#59295)
 * [innawood] random NPC missions (#59263)
-
-Cataclysm-DDA experimental build 2022-07-16-1926 (554df77)
 * Fix fuel consumption UI inaccuracies (#59297)
 * Riotbot attack: Check if wielded weapon is null before using (#59298)
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes (#59307)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2022-07-16-1926 (554df77)
 * Fix map coordinate conversion functions (#59252)
 * Portal storm dungeon fixes (#59251)
 * [Innawoods] battery toolmod fix (#59257)
-* Revert cat changes to wilderness.json (#59246)
