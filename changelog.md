@@ -225,5 +225,4 @@
 * Fix map coordinate conversion functions ([#59252](https://github.com/CleverRaven/Cataclysm-DDA/pull/59252))
 * Portal storm dungeon fixes ([#59251](https://github.com/CleverRaven/Cataclysm-DDA/pull/59251))
 * [Innawoods] battery toolmod fix ([#59257](https://github.com/CleverRaven/Cataclysm-DDA/pull/59257))
-* Fix even more issues caused by #58666 ([#59241](https://github.com/CleverRaven/Cataclysm-DDA/pull/59241))
 * Revert cat changes to wilderness.json ([#59246](https://github.com/CleverRaven/Cataclysm-DDA/pull/59246))
