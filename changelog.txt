@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-22-0211 (7fe8d5b)
 * Only allow military base and aircraft carrier specials to be placed once per game world (#59328)
 * Fix hit chance estimates in aiming UI (#59408)
 * Fix unfolded vehicles not driveable before stepping off/on (#59429)
@@ -122,8 +124,6 @@ Cataclysm-DDA experimental build 2022-07-16-2034 (5139ec0)
 Cataclysm-DDA experimental build 2022-07-16-1926 (554df77)
 * Fix fuel consumption UI inaccuracies (#59297)
 * Riotbot attack: Check if wielded weapon is null before using (#59298)
-
-Cataclysm-DDA experimental build 2022-07-16-1756 (09ce0f8)
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes (#59307)
 * Fix bronze/steel horse armor secondary skill (#59293)
 * [Innawood] Make platinum crafting easier to understand (#59309)

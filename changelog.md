@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-22-0211 ([7fe8d5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-0211))
+
 * Only allow military base and aircraft carrier specials to be placed once per game world ([#59328](https://github.com/CleverRaven/Cataclysm-DDA/pull/59328))
 * Fix hit chance estimates in aiming UI ([#59408](https://github.com/CleverRaven/Cataclysm-DDA/pull/59408))
 * Fix unfolded vehicles not driveable before stepping off/on ([#59429](https://github.com/CleverRaven/Cataclysm-DDA/pull/59429))
@@ -200,11 +205,6 @@
 
 * Fix fuel consumption UI inaccuracies ([#59297](https://github.com/CleverRaven/Cataclysm-DDA/pull/59297))
 * Riotbot attack: Check if wielded weapon is null before using ([#59298](https://github.com/CleverRaven/Cataclysm-DDA/pull/59298))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-16-1756 ([09ce0f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-1756))
-
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
 * Fix bronze/steel horse armor secondary skill ([#59293](https://github.com/CleverRaven/Cataclysm-DDA/pull/59293))
 * [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
