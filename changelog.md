@@ -1,3 +1,16 @@
+* Only allow military base and aircraft carrier specials to be placed once per game world ([#59328](https://github.com/CleverRaven/Cataclysm-DDA/pull/59328))
+* Fix hit chance estimates in aiming UI ([#59408](https://github.com/CleverRaven/Cataclysm-DDA/pull/59408))
+* Fix unfolded vehicles not driveable before stepping off/on ([#59429](https://github.com/CleverRaven/Cataclysm-DDA/pull/59429))
+* Only the last killed amigara drops an artifact ([#59438](https://github.com/CleverRaven/Cataclysm-DDA/pull/59438))
+* Conditionally swap out widgets (conditions for layout widgets) ([#59442](https://github.com/CleverRaven/Cataclysm-DDA/pull/59442))
+* Remove the ([#59456](https://github.com/CleverRaven/Cataclysm-DDA/pull/59456))
+* Enable clang-tidy check readability-redundant-access-specifiers ([#59460](https://github.com/CleverRaven/Cataclysm-DDA/pull/59460))
+* Sidebar and widget help/info text ([#59462](https://github.com/CleverRaven/Cataclysm-DDA/pull/59462))
+* Support ret_val<void> and replace ret_val<bool> ([#59468](https://github.com/CleverRaven/Cataclysm-DDA/pull/59468))
+* Harmonise leg purse and arm pouch crafting requirements ([#59469](https://github.com/CleverRaven/Cataclysm-DDA/pull/59469))
+* New event for dialogue variables changing - Designed to allow for new achievements. ([#59423](https://github.com/CleverRaven/Cataclysm-DDA/pull/59423))
+* [innawood] less naked NPCs ([#59391](https://github.com/CleverRaven/Cataclysm-DDA/pull/59391))
+* Fix Disorder not creating ammo ([#59474](https://github.com/CleverRaven/Cataclysm-DDA/pull/59474))
 
 ---
 
@@ -202,31 +215,15 @@
 * Fix divide by zero in #59282 ([#59303](https://github.com/CleverRaven/Cataclysm-DDA/pull/59303))
 * Add a multi-dimensional array and use in overmap ([#59312](https://github.com/CleverRaven/Cataclysm-DDA/pull/59312))
 * Make message clearer when connecting appliance to itself ([#59311](https://github.com/CleverRaven/Cataclysm-DDA/pull/59311))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-16-1601 ([ed676c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-1601))
-
 * Stop copying regional settings for every overmap ([#59313](https://github.com/CleverRaven/Cataclysm-DDA/pull/59313))
 * Fixed Isherwoods' special terrain not falling back to normal overmap variants ([#59302](https://github.com/CleverRaven/Cataclysm-DDA/pull/59302))
 * Routine i18n updates on 16 July 2022 ([#59304](https://github.com/CleverRaven/Cataclysm-DDA/pull/59304))
-* Welding gear doesn't blind you ([#59237](https://github.com/CleverRaven/Cataclysm-DDA/pull/59237))
-* Changing M26-MASS weight and length to RL values ([#59223](https://github.com/CleverRaven/Cataclysm-DDA/pull/59223))
-* fix faction camp search radius not respecting circular distance setting ([#59235](https://github.com/CleverRaven/Cataclysm-DDA/pull/59235))
 * Another fix for an issue caused by #58666 ([#59256](https://github.com/CleverRaven/Cataclysm-DDA/pull/59256))
 * Automatically synchronize MOTD and Credits translations from Transifex ([#59260](https://github.com/CleverRaven/Cataclysm-DDA/pull/59260))
 * Bump default SDK version for Android builds to 30 ([#59268](https://github.com/CleverRaven/Cataclysm-DDA/pull/59268))
-* [DinoMod x Innawood] Dissect fixes ([#59238](https://github.com/CleverRaven/Cataclysm-DDA/pull/59238))
 * [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant ([#59272](https://github.com/CleverRaven/Cataclysm-DDA/pull/59272))
 * Fix map coordinate conversion functions ([#59252](https://github.com/CleverRaven/Cataclysm-DDA/pull/59252))
 * Portal storm dungeon fixes ([#59251](https://github.com/CleverRaven/Cataclysm-DDA/pull/59251))
-* [innawood] naked innawoods ([#59240](https://github.com/CleverRaven/Cataclysm-DDA/pull/59240))
 * [Innawoods] battery toolmod fix ([#59257](https://github.com/CleverRaven/Cataclysm-DDA/pull/59257))
-* Xedra smoking meat bugfix ([#59218](https://github.com/CleverRaven/Cataclysm-DDA/pull/59218))
 * Fix even more issues caused by #58666 ([#59241](https://github.com/CleverRaven/Cataclysm-DDA/pull/59241))
 * Revert cat changes to wilderness.json ([#59246](https://github.com/CleverRaven/Cataclysm-DDA/pull/59246))
-* Manifest Spider and Goblin EOCs  ([#59217](https://github.com/CleverRaven/Cataclysm-DDA/pull/59217))
-* [Innawoods] Dry battery reuse ([#59224](https://github.com/CleverRaven/Cataclysm-DDA/pull/59224))
-* Cooking fiddleheads now uses prof_forage_cooking and prof_food_prep ([#59225](https://github.com/CleverRaven/Cataclysm-DDA/pull/59225))
-* Fix deferred loading of widgets ([#59229](https://github.com/CleverRaven/Cataclysm-DDA/pull/59229))
-* Atomic coffee makers now look like coffee makers ([#59214](https://github.com/CleverRaven/Cataclysm-DDA/pull/59214))
