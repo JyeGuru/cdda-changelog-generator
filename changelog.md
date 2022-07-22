@@ -1,3 +1,4 @@
+* Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
 
 ---
 
@@ -224,5 +225,4 @@
 * Bump default SDK version for Android builds to 30 ([#59268](https://github.com/CleverRaven/Cataclysm-DDA/pull/59268))
 * [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant ([#59272](https://github.com/CleverRaven/Cataclysm-DDA/pull/59272))
 * Fix map coordinate conversion functions ([#59252](https://github.com/CleverRaven/Cataclysm-DDA/pull/59252))
-* Portal storm dungeon fixes ([#59251](https://github.com/CleverRaven/Cataclysm-DDA/pull/59251))
 * [Innawoods] battery toolmod fix ([#59257](https://github.com/CleverRaven/Cataclysm-DDA/pull/59257))

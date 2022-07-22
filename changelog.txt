@@ -1,3 +1,4 @@
+* Aftershock Exosuit Power Up 2! MORE POWER (#59483)
 
 Cataclysm-DDA experimental build 2022-07-22-0807 (072a7a3)
 * Obsolete canola item (#59437)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2022-07-16-2034 (5139ec0)
 * Bump default SDK version for Android builds to 30 (#59268)
 * [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant (#59272)
 * Fix map coordinate conversion functions (#59252)
-* Portal storm dungeon fixes (#59251)
 * [Innawoods] battery toolmod fix (#59257)
