@@ -1,4 +1,12 @@
+* Reduce mongroup object size ([#59528](https://github.com/CleverRaven/Cataclysm-DDA/pull/59528))
+* fix: missing spaces ([#59532](https://github.com/CleverRaven/Cataclysm-DDA/pull/59532))
+* [innawood] NPCs spawn with bows ([#59517](https://github.com/CleverRaven/Cataclysm-DDA/pull/59517))
 * aim game ranged training ([#59520](https://github.com/CleverRaven/Cataclysm-DDA/pull/59520))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-23-2134 ([aab097b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-2134))
+
 * `map_cursor::visit_items` checks furniture for pseudo items ([#59536](https://github.com/CleverRaven/Cataclysm-DDA/pull/59536))
 * try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
 
@@ -107,12 +115,6 @@
 #### Cataclysm-DDA experimental build 2022-07-20-0221 ([df15035](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-0221))
 
 * Multi Unit Houses ([#59348](https://github.com/CleverRaven/Cataclysm-DDA/pull/59348))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-19-2056 ([b9db130](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-2056))
-
-* Adjust Weight/Volume of Ballistic Armor Plates ([#59284](https://github.com/CleverRaven/Cataclysm-DDA/pull/59284))
 * Routine No Hope maintenance ([#59419](https://github.com/CleverRaven/Cataclysm-DDA/pull/59419))
 * [DinoMod] thescelosaurus ([#59405](https://github.com/CleverRaven/Cataclysm-DDA/pull/59405))
 
@@ -121,12 +123,6 @@
 #### Cataclysm-DDA experimental build 2022-07-19-1942 ([fac3512](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-1942))
 
 * Add description for individual patrol officer kit (IPOK) ([#59418](https://github.com/CleverRaven/Cataclysm-DDA/pull/59418))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-19-1811 ([2f227d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-1811))
-
-* Mongroup: subgroup spawning fixes ([#59281](https://github.com/CleverRaven/Cataclysm-DDA/pull/59281))
 * Fancy gunmods and adding them to item groups ([#59404](https://github.com/CleverRaven/Cataclysm-DDA/pull/59404))
 
 ---
@@ -163,11 +159,6 @@
 
 * Enable clang-tidy bugprone-infinite-loop ([#59396](https://github.com/CleverRaven/Cataclysm-DDA/pull/59396))
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-18-1930 ([42a7fde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-1930))
-
 * More bodygraph widgets: encumbrance, temperature and limb status ([#59375](https://github.com/CleverRaven/Cataclysm-DDA/pull/59375))
 * Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
 * Support value_constraint equals_any ([#59356](https://github.com/CleverRaven/Cataclysm-DDA/pull/59356))
