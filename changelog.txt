@@ -1,3 +1,4 @@
+* Dost thou even lift: Add makeshift rope and chain lifts (#59485)
 * Reduce mongroup object size (#59528)
 * fix: missing spaces (#59532)
 * [innawood] NPCs spawn with bows (#59517)

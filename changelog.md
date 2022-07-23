@@ -1,3 +1,4 @@
+* Dost thou even lift: Add makeshift rope and chain lifts ([#59485](https://github.com/CleverRaven/Cataclysm-DDA/pull/59485))
 * Reduce mongroup object size ([#59528](https://github.com/CleverRaven/Cataclysm-DDA/pull/59528))
 * fix: missing spaces ([#59532](https://github.com/CleverRaven/Cataclysm-DDA/pull/59532))
 * [innawood] NPCs spawn with bows ([#59517](https://github.com/CleverRaven/Cataclysm-DDA/pull/59517))
