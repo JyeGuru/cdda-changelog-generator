@@ -1,3 +1,5 @@
+* [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
+* Use $(DefaultPlatformToolset) in vcxproj ([#59340](https://github.com/CleverRaven/Cataclysm-DDA/pull/59340))
 
 ---
 
@@ -197,11 +199,6 @@
 * Sidebar widgets rel. weight carried / overburdened ([#59330](https://github.com/CleverRaven/Cataclysm-DDA/pull/59330))
 * [DinoMod] stegoceras and egg and dung rebalance ([#59343](https://github.com/CleverRaven/Cataclysm-DDA/pull/59343))
 * Add FIREWOOD to twigs and leaves ([#59345](https://github.com/CleverRaven/Cataclysm-DDA/pull/59345))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-17-0502 ([9d7f007](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-17-0502))
-
 * fix: guns spawning with double shoulder straps ([#59346](https://github.com/CleverRaven/Cataclysm-DDA/pull/59346))
 * Appease clang-tidy: move cata::mdarray to heap ([#59335](https://github.com/CleverRaven/Cataclysm-DDA/pull/59335))
 * Fix portal storm dungeon monsters placement ([#59295](https://github.com/CleverRaven/Cataclysm-DDA/pull/59295))
@@ -221,8 +218,6 @@
 * Stop copying regional settings for every overmap ([#59313](https://github.com/CleverRaven/Cataclysm-DDA/pull/59313))
 * Fixed Isherwoods' special terrain not falling back to normal overmap variants ([#59302](https://github.com/CleverRaven/Cataclysm-DDA/pull/59302))
 * Routine i18n updates on 16 July 2022 ([#59304](https://github.com/CleverRaven/Cataclysm-DDA/pull/59304))
-* Another fix for an issue caused by #58666 ([#59256](https://github.com/CleverRaven/Cataclysm-DDA/pull/59256))
 * Automatically synchronize MOTD and Credits translations from Transifex ([#59260](https://github.com/CleverRaven/Cataclysm-DDA/pull/59260))
 * Bump default SDK version for Android builds to 30 ([#59268](https://github.com/CleverRaven/Cataclysm-DDA/pull/59268))
 * [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant ([#59272](https://github.com/CleverRaven/Cataclysm-DDA/pull/59272))
-* [Innawoods] battery toolmod fix ([#59257](https://github.com/CleverRaven/Cataclysm-DDA/pull/59257))
