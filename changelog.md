@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-23-2004 ([8c56f13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-2004))
+
 * Use aiming FOV for IR visibility cone ([#59477](https://github.com/CleverRaven/Cataclysm-DDA/pull/59477))
 * Pocket settings usability tweaks ([#59514](https://github.com/CleverRaven/Cataclysm-DDA/pull/59514))
 
@@ -163,11 +168,6 @@
 * More bodygraph widgets: encumbrance, temperature and limb status ([#59375](https://github.com/CleverRaven/Cataclysm-DDA/pull/59375))
 * Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
 * Support value_constraint equals_any ([#59356](https://github.com/CleverRaven/Cataclysm-DDA/pull/59356))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-18-1759 ([8f9c477](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-1759))
-
 * Displace pet into previous player position when moving through stairs if no other positions are available ([#59351](https://github.com/CleverRaven/Cataclysm-DDA/pull/59351))
 * Document fields ([#59358](https://github.com/CleverRaven/Cataclysm-DDA/pull/59358))
 * Allow fetching overmap specials for events ([#59363](https://github.com/CleverRaven/Cataclysm-DDA/pull/59363))
