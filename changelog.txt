@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2022-07-18-1759 (8f9c477)
 
 Cataclysm-DDA experimental build 2022-07-18-1643 (d318fba)
 * Fix bodyparts in shock absorber cbm (aftershock) (#59381)
-
-Cataclysm-DDA experimental build 2022-07-18-0605 (85de01c)
 * Routine Tileset updates on 17 July 2022 (#59377)
 * Change the bodygraph colors and thresholds (#59349)
 * [Innawoods] More Professions (#59277)
