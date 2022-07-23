@@ -17,6 +17,11 @@
 
 * Use aiming FOV for IR visibility cone ([#59477](https://github.com/CleverRaven/Cataclysm-DDA/pull/59477))
 * Pocket settings usability tweaks ([#59514](https://github.com/CleverRaven/Cataclysm-DDA/pull/59514))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-23-0522 ([b86bfea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-0522))
+
 * Routine i18n updates on 23 July 2022 ([#59519](https://github.com/CleverRaven/Cataclysm-DDA/pull/59519))
 
 ---
@@ -31,6 +36,11 @@
 #### Cataclysm-DDA experimental build 2022-07-22-1943 ([d291072](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-1943))
 
 * Restore showing the monologue[from scenario desc] after starting game ([#59490](https://github.com/CleverRaven/Cataclysm-DDA/pull/59490))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-22-1654 ([6a0d865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-1654))
+
 * Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
 
 ---
@@ -38,6 +48,11 @@
 #### Cataclysm-DDA experimental build 2022-07-22-0807 ([072a7a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-0807))
 
 * Obsolete canola item ([#59437](https://github.com/CleverRaven/Cataclysm-DDA/pull/59437))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-22-0211 ([7fe8d5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-0211))
+
 * Only allow military base and aircraft carrier specials to be placed once per game world ([#59328](https://github.com/CleverRaven/Cataclysm-DDA/pull/59328))
 * Fix hit chance estimates in aiming UI ([#59408](https://github.com/CleverRaven/Cataclysm-DDA/pull/59408))
 * Fix unfolded vehicles not driveable before stepping off/on ([#59429](https://github.com/CleverRaven/Cataclysm-DDA/pull/59429))
@@ -57,6 +72,11 @@
 #### Cataclysm-DDA experimental build 2022-07-21-0520 ([2b29aca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0520))
 
 * typo fix ([#59459](https://github.com/CleverRaven/Cataclysm-DDA/pull/59459))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-21-0115 ([75e3982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0115))
+
 * change terrain trap sets to terrain ([#59426](https://github.com/CleverRaven/Cataclysm-DDA/pull/59426))
 
 ---
@@ -118,6 +138,11 @@
 #### Cataclysm-DDA experimental build 2022-07-19-1338 ([5301287](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-1338))
 
 * Fix Android builds ([#59415](https://github.com/CleverRaven/Cataclysm-DDA/pull/59415))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-19-0620 ([4d143ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0620))
+
 * Fix up medicinal teas ([#59400](https://github.com/CleverRaven/Cataclysm-DDA/pull/59400))
 
 ---
@@ -135,19 +160,9 @@
 
 * Enable clang-tidy bugprone-infinite-loop ([#59396](https://github.com/CleverRaven/Cataclysm-DDA/pull/59396))
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-18-1930 ([42a7fde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-1930))
-
 * More bodygraph widgets: encumbrance, temperature and limb status ([#59375](https://github.com/CleverRaven/Cataclysm-DDA/pull/59375))
 * Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
 * Support value_constraint equals_any ([#59356](https://github.com/CleverRaven/Cataclysm-DDA/pull/59356))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-18-1759 ([8f9c477](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-1759))
-
 * Displace pet into previous player position when moving through stairs if no other positions are available ([#59351](https://github.com/CleverRaven/Cataclysm-DDA/pull/59351))
 * Document fields ([#59358](https://github.com/CleverRaven/Cataclysm-DDA/pull/59358))
 * Allow fetching overmap specials for events ([#59363](https://github.com/CleverRaven/Cataclysm-DDA/pull/59363))
@@ -160,17 +175,7 @@
 * Fix smartphone flashlight issues ([#59376](https://github.com/CleverRaven/Cataclysm-DDA/pull/59376))
 * Make twigs and leaves look_like sticks and withered plants respectively ([#59380](https://github.com/CleverRaven/Cataclysm-DDA/pull/59380))
 * Fix bodyparts in shock absorber cbm (aftershock) ([#59381](https://github.com/CleverRaven/Cataclysm-DDA/pull/59381))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-18-0605 ([85de01c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-0605))
-
 * Routine Tileset updates on 17 July 2022 ([#59377](https://github.com/CleverRaven/Cataclysm-DDA/pull/59377))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-17-1206 ([d06b4a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-17-1206))
-
 * Change the bodygraph colors and thresholds ([#59349](https://github.com/CleverRaven/Cataclysm-DDA/pull/59349))
 * Add FBI Paranormal Investigator profession to Xedra Evolved ([#59316](https://github.com/CleverRaven/Cataclysm-DDA/pull/59316))
 * Allow using nearby items to start or quench fires when examining fireplaces ([#59317](https://github.com/CleverRaven/Cataclysm-DDA/pull/59317))
@@ -181,17 +186,7 @@
 * Sidebar widgets rel. weight carried / overburdened ([#59330](https://github.com/CleverRaven/Cataclysm-DDA/pull/59330))
 * [DinoMod] stegoceras and egg and dung rebalance ([#59343](https://github.com/CleverRaven/Cataclysm-DDA/pull/59343))
 * Add FIREWOOD to twigs and leaves ([#59345](https://github.com/CleverRaven/Cataclysm-DDA/pull/59345))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-17-0502 ([9d7f007](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-17-0502))
-
 * fix: guns spawning with double shoulder straps ([#59346](https://github.com/CleverRaven/Cataclysm-DDA/pull/59346))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-16-2237 ([f0b7411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-16-2237))
-
 * Appease clang-tidy: move cata::mdarray to heap ([#59335](https://github.com/CleverRaven/Cataclysm-DDA/pull/59335))
 * Fix portal storm dungeon monsters placement ([#59295](https://github.com/CleverRaven/Cataclysm-DDA/pull/59295))
 * Fix fuel consumption UI inaccuracies ([#59297](https://github.com/CleverRaven/Cataclysm-DDA/pull/59297))
