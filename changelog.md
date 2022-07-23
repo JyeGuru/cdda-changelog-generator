@@ -177,11 +177,6 @@
 * Added missing self-aware widgets ([#59371](https://github.com/CleverRaven/Cataclysm-DDA/pull/59371))
 * Fix smartphone flashlight issues ([#59376](https://github.com/CleverRaven/Cataclysm-DDA/pull/59376))
 * Make twigs and leaves look_like sticks and withered plants respectively ([#59380](https://github.com/CleverRaven/Cataclysm-DDA/pull/59380))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-18-1643 ([d318fba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-1643))
-
 * Fix bodyparts in shock absorber cbm (aftershock) ([#59381](https://github.com/CleverRaven/Cataclysm-DDA/pull/59381))
 * Routine Tileset updates on 17 July 2022 ([#59377](https://github.com/CleverRaven/Cataclysm-DDA/pull/59377))
 * Change the bodygraph colors and thresholds ([#59349](https://github.com/CleverRaven/Cataclysm-DDA/pull/59349))

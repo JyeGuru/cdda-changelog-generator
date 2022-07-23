@@ -105,8 +105,6 @@ Cataclysm-DDA experimental build 2022-07-18-1759 (8f9c477)
 * Added missing self-aware widgets (#59371)
 * Fix smartphone flashlight issues (#59376)
 * Make twigs and leaves look_like sticks and withered plants respectively (#59380)
-
-Cataclysm-DDA experimental build 2022-07-18-1643 (d318fba)
 * Fix bodyparts in shock absorber cbm (aftershock) (#59381)
 * Routine Tileset updates on 17 July 2022 (#59377)
 * Change the bodygraph colors and thresholds (#59349)
