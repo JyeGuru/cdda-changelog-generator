@@ -1,3 +1,4 @@
+* Use aiming FOV for IR visibility cone (#59477)
 * Pocket settings usability tweaks (#59514)
 
 Cataclysm-DDA experimental build 2022-07-23-0522 (b86bfea)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2022-07-18-1759 (8f9c477)
 * Stop copying regional settings for every overmap (#59313)
 * Fixed Isherwoods' special terrain not falling back to normal overmap variants (#59302)
 * Routine i18n updates on 16 July 2022 (#59304)
-* [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant (#59272)
