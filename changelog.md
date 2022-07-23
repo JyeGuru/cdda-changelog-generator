@@ -1,3 +1,4 @@
+* try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
 
 ---
 

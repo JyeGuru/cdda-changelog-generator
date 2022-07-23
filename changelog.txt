@@ -1,3 +1,4 @@
+* try and fix errors (#59537)
 
 Cataclysm-DDA experimental build 2022-07-23-2004 (8c56f13)
 * Use aiming FOV for IR visibility cone (#59477)
