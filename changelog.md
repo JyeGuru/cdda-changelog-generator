@@ -1,3 +1,5 @@
+* aim game ranged training ([#59520](https://github.com/CleverRaven/Cataclysm-DDA/pull/59520))
+* `map_cursor::visit_items` checks furniture for pseudo items ([#59536](https://github.com/CleverRaven/Cataclysm-DDA/pull/59536))
 * try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
 
 ---
@@ -183,7 +185,6 @@
 * Fix bodyparts in shock absorber cbm (aftershock) ([#59381](https://github.com/CleverRaven/Cataclysm-DDA/pull/59381))
 * Routine Tileset updates on 17 July 2022 ([#59377](https://github.com/CleverRaven/Cataclysm-DDA/pull/59377))
 * Change the bodygraph colors and thresholds ([#59349](https://github.com/CleverRaven/Cataclysm-DDA/pull/59349))
-* [Innawoods] More Professions ([#59277](https://github.com/CleverRaven/Cataclysm-DDA/pull/59277))
 * Add FBI Paranormal Investigator profession to Xedra Evolved ([#59316](https://github.com/CleverRaven/Cataclysm-DDA/pull/59316))
 * Allow using nearby items to start or quench fires when examining fireplaces ([#59317](https://github.com/CleverRaven/Cataclysm-DDA/pull/59317))
 * Fix monsters not despawning for portal storms ([#59318](https://github.com/CleverRaven/Cataclysm-DDA/pull/59318))
@@ -201,7 +202,6 @@
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
 * Fix bronze/steel horse armor secondary skill ([#59293](https://github.com/CleverRaven/Cataclysm-DDA/pull/59293))
 * [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
-* Minor office tower tweaks ([#59278](https://github.com/CleverRaven/Cataclysm-DDA/pull/59278))
 * Ensure comestible type is assigned for all comests ([#59305](https://github.com/CleverRaven/Cataclysm-DDA/pull/59305))
 * [Aftershock] Consolidate two rare itemgroups ([#59301](https://github.com/CleverRaven/Cataclysm-DDA/pull/59301))
 * [DinoMod] mutations and feelings and reptiles ([#59290](https://github.com/CleverRaven/Cataclysm-DDA/pull/59290))
