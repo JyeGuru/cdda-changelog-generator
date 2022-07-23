@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-23-0409 ([7dc27c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-0409))
+
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
 * Use $(DefaultPlatformToolset) in vcxproj ([#59340](https://github.com/CleverRaven/Cataclysm-DDA/pull/59340))
 
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2022-07-17-1206 ([d06b4a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-17-1206))
 
 * Change the bodygraph colors and thresholds ([#59349](https://github.com/CleverRaven/Cataclysm-DDA/pull/59349))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-17-0614 ([6214556](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-17-0614))
-
 * [Innawoods] More Professions ([#59277](https://github.com/CleverRaven/Cataclysm-DDA/pull/59277))
 * Add FBI Paranormal Investigator profession to Xedra Evolved ([#59316](https://github.com/CleverRaven/Cataclysm-DDA/pull/59316))
 * Allow using nearby items to start or quench fires when examining fireplaces ([#59317](https://github.com/CleverRaven/Cataclysm-DDA/pull/59317))
@@ -218,6 +218,5 @@
 * Stop copying regional settings for every overmap ([#59313](https://github.com/CleverRaven/Cataclysm-DDA/pull/59313))
 * Fixed Isherwoods' special terrain not falling back to normal overmap variants ([#59302](https://github.com/CleverRaven/Cataclysm-DDA/pull/59302))
 * Routine i18n updates on 16 July 2022 ([#59304](https://github.com/CleverRaven/Cataclysm-DDA/pull/59304))
-* Automatically synchronize MOTD and Credits translations from Transifex ([#59260](https://github.com/CleverRaven/Cataclysm-DDA/pull/59260))
 * Bump default SDK version for Android builds to 30 ([#59268](https://github.com/CleverRaven/Cataclysm-DDA/pull/59268))
 * [CrazyCataclysm] Fix mod's weight widget to overwrite the vanilla widget, add no_label variant ([#59272](https://github.com/CleverRaven/Cataclysm-DDA/pull/59272))
