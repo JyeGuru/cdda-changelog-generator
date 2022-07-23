@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-23-0522 ([b86bfea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-0522))
+
+* Routine i18n updates on 23 July 2022 ([#59519](https://github.com/CleverRaven/Cataclysm-DDA/pull/59519))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-23-0409 ([7dc27c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-0409))
 
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2022-07-18-0605 ([85de01c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-18-0605))
 
 * Routine Tileset updates on 17 July 2022 ([#59377](https://github.com/CleverRaven/Cataclysm-DDA/pull/59377))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-17-1206 ([d06b4a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-17-1206))
-
 * Change the bodygraph colors and thresholds ([#59349](https://github.com/CleverRaven/Cataclysm-DDA/pull/59349))
 * [Innawoods] More Professions ([#59277](https://github.com/CleverRaven/Cataclysm-DDA/pull/59277))
 * Add FBI Paranormal Investigator profession to Xedra Evolved ([#59316](https://github.com/CleverRaven/Cataclysm-DDA/pull/59316))
@@ -202,7 +203,6 @@
 * fix: guns spawning with double shoulder straps ([#59346](https://github.com/CleverRaven/Cataclysm-DDA/pull/59346))
 * Appease clang-tidy: move cata::mdarray to heap ([#59335](https://github.com/CleverRaven/Cataclysm-DDA/pull/59335))
 * Fix portal storm dungeon monsters placement ([#59295](https://github.com/CleverRaven/Cataclysm-DDA/pull/59295))
-* [innawood] random NPC missions ([#59263](https://github.com/CleverRaven/Cataclysm-DDA/pull/59263))
 * Fix fuel consumption UI inaccuracies ([#59297](https://github.com/CleverRaven/Cataclysm-DDA/pull/59297))
 * Riotbot attack: Check if wielded weapon is null before using ([#59298](https://github.com/CleverRaven/Cataclysm-DDA/pull/59298))
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))

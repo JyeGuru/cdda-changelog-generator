@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-23-0522 (b86bfea)
+* Routine i18n updates on 23 July 2022 (#59519)
+
 Cataclysm-DDA experimental build 2022-07-23-0409 (7dc27c0)
 * [ Xedra Evolved ] Typo (#59518)
 * Use $(DefaultPlatformToolset) in vcxproj (#59340)
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2022-07-18-1643 (d318fba)
 
 Cataclysm-DDA experimental build 2022-07-18-0605 (85de01c)
 * Routine Tileset updates on 17 July 2022 (#59377)
-
-Cataclysm-DDA experimental build 2022-07-17-1206 (d06b4a2)
 * Change the bodygraph colors and thresholds (#59349)
 * [Innawoods] More Professions (#59277)
 * Add FBI Paranormal Investigator profession to Xedra Evolved (#59316)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2022-07-17-1206 (d06b4a2)
 * fix: guns spawning with double shoulder straps (#59346)
 * Appease clang-tidy: move cata::mdarray to heap (#59335)
 * Fix portal storm dungeon monsters placement (#59295)
-* [innawood] random NPC missions (#59263)
 * Fix fuel consumption UI inaccuracies (#59297)
 * Riotbot attack: Check if wielded weapon is null before using (#59298)
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes (#59307)
