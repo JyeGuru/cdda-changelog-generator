@@ -185,7 +185,6 @@
 * Magiclysm new sidebars ([#59374](https://github.com/CleverRaven/Cataclysm-DDA/pull/59374))
 * only hide collapsed on multi items menu ([#59370](https://github.com/CleverRaven/Cataclysm-DDA/pull/59370))
 * rebalance burner spawns ([#59354](https://github.com/CleverRaven/Cataclysm-DDA/pull/59354))
-* Refillable butane lighter and butane spawn buff ([#59310](https://github.com/CleverRaven/Cataclysm-DDA/pull/59310))
 * Adds Trains vehicle group ([#59383](https://github.com/CleverRaven/Cataclysm-DDA/pull/59383))
 * Added missing self-aware widgets ([#59371](https://github.com/CleverRaven/Cataclysm-DDA/pull/59371))
 * Fix smartphone flashlight issues ([#59376](https://github.com/CleverRaven/Cataclysm-DDA/pull/59376))
