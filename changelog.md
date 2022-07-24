@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-24-2018 ([4abdbc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-2018))
+
+* damaged armor scaling appropriately ([#59529](https://github.com/CleverRaven/Cataclysm-DDA/pull/59529))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-24-1210 ([c2b61d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-1210))
 
 * Fix the casing ejection behavior of The Disorder sledgehammer  ([#59323](https://github.com/CleverRaven/Cataclysm-DDA/pull/59323))
@@ -162,11 +168,6 @@
 
 * [Innawoods] Sledgehammer crafting. ([#59409](https://github.com/CleverRaven/Cataclysm-DDA/pull/59409))
 * Health message typo fix ([#59412](https://github.com/CleverRaven/Cataclysm-DDA/pull/59412))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-19-1338 ([5301287](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-1338))
-
 * Fix Android builds ([#59415](https://github.com/CleverRaven/Cataclysm-DDA/pull/59415))
 * Fix up medicinal teas ([#59400](https://github.com/CleverRaven/Cataclysm-DDA/pull/59400))
 * Fix long text in item action menu ([#59327](https://github.com/CleverRaven/Cataclysm-DDA/pull/59327))
@@ -203,7 +204,6 @@
 * Add FIREWOOD to twigs and leaves ([#59345](https://github.com/CleverRaven/Cataclysm-DDA/pull/59345))
 * fix: guns spawning with double shoulder straps ([#59346](https://github.com/CleverRaven/Cataclysm-DDA/pull/59346))
 * Appease clang-tidy: move cata::mdarray to heap ([#59335](https://github.com/CleverRaven/Cataclysm-DDA/pull/59335))
-* [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
 * Add a multi-dimensional array and use in overmap ([#59312](https://github.com/CleverRaven/Cataclysm-DDA/pull/59312))
 * Make message clearer when connecting appliance to itself ([#59311](https://github.com/CleverRaven/Cataclysm-DDA/pull/59311))
 * Stop copying regional settings for every overmap ([#59313](https://github.com/CleverRaven/Cataclysm-DDA/pull/59313))

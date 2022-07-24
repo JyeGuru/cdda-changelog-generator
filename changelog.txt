@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-24-2018 (4abdbc8)
+* damaged armor scaling appropriately (#59529)
+
 Cataclysm-DDA experimental build 2022-07-24-1210 (c2b61d6)
 * Fix the casing ejection behavior of The Disorder sledgehammer  (#59323)
 
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2022-07-19-1942 (fac3512)
 Cataclysm-DDA experimental build 2022-07-19-1710 (e72469d)
 * [Innawoods] Sledgehammer crafting. (#59409)
 * Health message typo fix (#59412)
-
-Cataclysm-DDA experimental build 2022-07-19-1338 (5301287)
 * Fix Android builds (#59415)
 * Fix up medicinal teas (#59400)
 * Fix long text in item action menu (#59327)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2022-07-19-1338 (5301287)
 * Add FIREWOOD to twigs and leaves (#59345)
 * fix: guns spawning with double shoulder straps (#59346)
 * Appease clang-tidy: move cata::mdarray to heap (#59335)
-* [Innawood] Make platinum crafting easier to understand (#59309)
 * Add a multi-dimensional array and use in overmap (#59312)
 * Make message clearer when connecting appliance to itself (#59311)
 * Stop copying regional settings for every overmap (#59313)
