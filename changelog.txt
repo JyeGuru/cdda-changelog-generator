@@ -83,8 +83,6 @@ Cataclysm-DDA experimental build 2022-07-20-0511 (ae2ff5c)
 Cataclysm-DDA experimental build 2022-07-20-0322 (8f770f0)
 * Fix UBSan int overflow (#59416)
 * Immobile Monsters Can't Wander (#59421)
-
-Cataclysm-DDA experimental build 2022-07-20-0221 (df15035)
 * Multi Unit Houses (#59348)
 * Routine No Hope maintenance (#59419)
 * [DinoMod] thescelosaurus (#59405)
@@ -102,6 +100,8 @@ Cataclysm-DDA experimental build 2022-07-19-1338 (5301287)
 
 Cataclysm-DDA experimental build 2022-07-19-0620 (4d143ca)
 * Fix up medicinal teas (#59400)
+
+Cataclysm-DDA experimental build 2022-07-19-0322 (6ebdac2)
 * Fix long text in item action menu (#59327)
 * Persist vehicle tracking status when folding (#59355)
 * Fixed the behavior of the zombie burner (and WONDER spells in general) (#59359)
