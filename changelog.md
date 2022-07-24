@@ -209,7 +209,6 @@
 * Appease clang-tidy: move cata::mdarray to heap ([#59335](https://github.com/CleverRaven/Cataclysm-DDA/pull/59335))
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
 * [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
-* Ensure comestible type is assigned for all comests ([#59305](https://github.com/CleverRaven/Cataclysm-DDA/pull/59305))
 * Add a multi-dimensional array and use in overmap ([#59312](https://github.com/CleverRaven/Cataclysm-DDA/pull/59312))
 * Make message clearer when connecting appliance to itself ([#59311](https://github.com/CleverRaven/Cataclysm-DDA/pull/59311))
 * Stop copying regional settings for every overmap ([#59313](https://github.com/CleverRaven/Cataclysm-DDA/pull/59313))
