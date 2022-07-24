@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-24-1210 ([c2b61d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-1210))
+
+* Fix the casing ejection behavior of The Disorder sledgehammer  ([#59323](https://github.com/CleverRaven/Cataclysm-DDA/pull/59323))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-24-0740 ([1ec7b52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-0740))
 
 * Correctly color price when comparing items. ([#59527](https://github.com/CleverRaven/Cataclysm-DDA/pull/59527))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2022-07-19-0620 ([4d143ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0620))
 
 * Fix up medicinal teas ([#59400](https://github.com/CleverRaven/Cataclysm-DDA/pull/59400))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-19-0322 ([6ebdac2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0322))
-
 * Fix long text in item action menu ([#59327](https://github.com/CleverRaven/Cataclysm-DDA/pull/59327))
 * Persist vehicle tracking status when folding ([#59355](https://github.com/CleverRaven/Cataclysm-DDA/pull/59355))
 * Fixed the behavior of the zombie burner (and WONDER spells in general) ([#59359](https://github.com/CleverRaven/Cataclysm-DDA/pull/59359))
@@ -207,7 +208,6 @@
 * Add FIREWOOD to twigs and leaves ([#59345](https://github.com/CleverRaven/Cataclysm-DDA/pull/59345))
 * fix: guns spawning with double shoulder straps ([#59346](https://github.com/CleverRaven/Cataclysm-DDA/pull/59346))
 * Appease clang-tidy: move cata::mdarray to heap ([#59335](https://github.com/CleverRaven/Cataclysm-DDA/pull/59335))
-* Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
 * [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
 * Add a multi-dimensional array and use in overmap ([#59312](https://github.com/CleverRaven/Cataclysm-DDA/pull/59312))
 * Make message clearer when connecting appliance to itself ([#59311](https://github.com/CleverRaven/Cataclysm-DDA/pull/59311))
