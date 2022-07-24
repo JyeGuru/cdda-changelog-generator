@@ -140,6 +140,11 @@
 
 * Fix UBSan int overflow ([#59416](https://github.com/CleverRaven/Cataclysm-DDA/pull/59416))
 * Immobile Monsters Can't Wander ([#59421](https://github.com/CleverRaven/Cataclysm-DDA/pull/59421))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-20-0221 ([df15035](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-0221))
+
 * Multi Unit Houses ([#59348](https://github.com/CleverRaven/Cataclysm-DDA/pull/59348))
 * Routine No Hope maintenance ([#59419](https://github.com/CleverRaven/Cataclysm-DDA/pull/59419))
 * [DinoMod] thescelosaurus ([#59405](https://github.com/CleverRaven/Cataclysm-DDA/pull/59405))
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2022-07-19-0620 ([4d143ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0620))
 
 * Fix up medicinal teas ([#59400](https://github.com/CleverRaven/Cataclysm-DDA/pull/59400))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-19-0322 ([6ebdac2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0322))
-
 * Fix long text in item action menu ([#59327](https://github.com/CleverRaven/Cataclysm-DDA/pull/59327))
 * Persist vehicle tracking status when folding ([#59355](https://github.com/CleverRaven/Cataclysm-DDA/pull/59355))
 * Fixed the behavior of the zombie burner (and WONDER spells in general) ([#59359](https://github.com/CleverRaven/Cataclysm-DDA/pull/59359))
