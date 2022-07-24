@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-24-0740 (1ec7b52)
+* Correctly color price when comparing items. (#59527)
+
 Cataclysm-DDA experimental build 2022-07-24-0016 (b7142b2)
 * Add hotkeys for world interaction (#59542)
 * add city building: salon (#59535)
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2022-07-19-0322 (6ebdac2)
 * Persist vehicle tracking status when folding (#59355)
 * Fixed the behavior of the zombie burner (and WONDER spells in general) (#59359)
 * Nerf sell value of some common items (#59389)
-
-Cataclysm-DDA experimental build 2022-07-19-0233 (e26f0ab)
 * Enable clang-tidy bugprone-infinite-loop (#59396)
 * Fix EOC test (#59399)
 * More bodygraph widgets: encumbrance, temperature and limb status (#59375)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2022-07-19-0233 (e26f0ab)
 * Add a multi-dimensional array and use in overmap (#59312)
 * Make message clearer when connecting appliance to itself (#59311)
 * Stop copying regional settings for every overmap (#59313)
-* Routine i18n updates on 16 July 2022 (#59304)

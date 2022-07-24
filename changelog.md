@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-24-0740 ([1ec7b52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-0740))
+
+* Correctly color price when comparing items. ([#59527](https://github.com/CleverRaven/Cataclysm-DDA/pull/59527))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-24-0016 ([b7142b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-0016))
 
 * Add hotkeys for world interaction ([#59542](https://github.com/CleverRaven/Cataclysm-DDA/pull/59542))
@@ -171,11 +177,6 @@
 * Persist vehicle tracking status when folding ([#59355](https://github.com/CleverRaven/Cataclysm-DDA/pull/59355))
 * Fixed the behavior of the zombie burner (and WONDER spells in general) ([#59359](https://github.com/CleverRaven/Cataclysm-DDA/pull/59359))
 * Nerf sell value of some common items ([#59389](https://github.com/CleverRaven/Cataclysm-DDA/pull/59389))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-19-0233 ([e26f0ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0233))
-
 * Enable clang-tidy bugprone-infinite-loop ([#59396](https://github.com/CleverRaven/Cataclysm-DDA/pull/59396))
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
 * More bodygraph widgets: encumbrance, temperature and limb status ([#59375](https://github.com/CleverRaven/Cataclysm-DDA/pull/59375))
@@ -212,4 +213,3 @@
 * Add a multi-dimensional array and use in overmap ([#59312](https://github.com/CleverRaven/Cataclysm-DDA/pull/59312))
 * Make message clearer when connecting appliance to itself ([#59311](https://github.com/CleverRaven/Cataclysm-DDA/pull/59311))
 * Stop copying regional settings for every overmap ([#59313](https://github.com/CleverRaven/Cataclysm-DDA/pull/59313))
-* Routine i18n updates on 16 July 2022 ([#59304](https://github.com/CleverRaven/Cataclysm-DDA/pull/59304))
