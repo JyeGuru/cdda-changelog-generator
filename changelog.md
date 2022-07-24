@@ -168,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-07-19-1338 ([5301287](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-1338))
 
 * Fix Android builds ([#59415](https://github.com/CleverRaven/Cataclysm-DDA/pull/59415))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-19-0620 ([4d143ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-0620))
-
 * Fix up medicinal teas ([#59400](https://github.com/CleverRaven/Cataclysm-DDA/pull/59400))
 * Fix long text in item action menu ([#59327](https://github.com/CleverRaven/Cataclysm-DDA/pull/59327))
 * Persist vehicle tracking status when folding ([#59355](https://github.com/CleverRaven/Cataclysm-DDA/pull/59355))
