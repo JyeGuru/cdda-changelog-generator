@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-24-0016 ([b7142b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-0016))
+
+* Add hotkeys for world interaction ([#59542](https://github.com/CleverRaven/Cataclysm-DDA/pull/59542))
 * add city building: salon ([#59535](https://github.com/CleverRaven/Cataclysm-DDA/pull/59535))
 * no burners at outpost ([#59538](https://github.com/CleverRaven/Cataclysm-DDA/pull/59538))
 * Prune nonfunctional monster flags ([#59503](https://github.com/CleverRaven/Cataclysm-DDA/pull/59503))
@@ -203,7 +209,6 @@
 * Full length mirrors can now provide hand-mirror functionality in crafting recipes ([#59307](https://github.com/CleverRaven/Cataclysm-DDA/pull/59307))
 * [Innawood] Make platinum crafting easier to understand ([#59309](https://github.com/CleverRaven/Cataclysm-DDA/pull/59309))
 * Ensure comestible type is assigned for all comests ([#59305](https://github.com/CleverRaven/Cataclysm-DDA/pull/59305))
-* Fix divide by zero in #59282 ([#59303](https://github.com/CleverRaven/Cataclysm-DDA/pull/59303))
 * Add a multi-dimensional array and use in overmap ([#59312](https://github.com/CleverRaven/Cataclysm-DDA/pull/59312))
 * Make message clearer when connecting appliance to itself ([#59311](https://github.com/CleverRaven/Cataclysm-DDA/pull/59311))
 * Stop copying regional settings for every overmap ([#59313](https://github.com/CleverRaven/Cataclysm-DDA/pull/59313))
