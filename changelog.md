@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-25-0625 ([32ee0b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-25-0625))
+
 * Fix closing vehicle doors cardinally ([#59470](https://github.com/CleverRaven/Cataclysm-DDA/pull/59470))
 * Fix riot control bot handcuffs attack not working ([#59465](https://github.com/CleverRaven/Cataclysm-DDA/pull/59465))
 * Fix a bug where trim_by_length would end up one character too long ([#59476](https://github.com/CleverRaven/Cataclysm-DDA/pull/59476))
