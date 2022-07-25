@@ -179,7 +179,6 @@
 * Health message typo fix ([#59412](https://github.com/CleverRaven/Cataclysm-DDA/pull/59412))
 * Fix Android builds ([#59415](https://github.com/CleverRaven/Cataclysm-DDA/pull/59415))
 * Fix up medicinal teas ([#59400](https://github.com/CleverRaven/Cataclysm-DDA/pull/59400))
-* Fix long text in item action menu ([#59327](https://github.com/CleverRaven/Cataclysm-DDA/pull/59327))
 * Persist vehicle tracking status when folding ([#59355](https://github.com/CleverRaven/Cataclysm-DDA/pull/59355))
 * Fixed the behavior of the zombie burner (and WONDER spells in general) ([#59359](https://github.com/CleverRaven/Cataclysm-DDA/pull/59359))
 * Nerf sell value of some common items ([#59389](https://github.com/CleverRaven/Cataclysm-DDA/pull/59389))
