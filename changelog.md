@@ -1,3 +1,8 @@
+* Fix closing vehicle doors cardinally ([#59470](https://github.com/CleverRaven/Cataclysm-DDA/pull/59470))
+* Fix riot control bot handcuffs attack not working ([#59465](https://github.com/CleverRaven/Cataclysm-DDA/pull/59465))
+* Fix a bug where trim_by_length would end up one character too long ([#59476](https://github.com/CleverRaven/Cataclysm-DDA/pull/59476))
+* list changes in automatic tileset updates ([#59576](https://github.com/CleverRaven/Cataclysm-DDA/pull/59576))
+* Enable performance-no-automatic-move ([#59553](https://github.com/CleverRaven/Cataclysm-DDA/pull/59553))
 * Fix condensed milk description ([#59562](https://github.com/CleverRaven/Cataclysm-DDA/pull/59562))
 * Fix invalid body part id error ([#59570](https://github.com/CleverRaven/Cataclysm-DDA/pull/59570))
 * Show key binding in sidebar hint ([#59574](https://github.com/CleverRaven/Cataclysm-DDA/pull/59574))
@@ -14,12 +19,6 @@
 #### Cataclysm-DDA experimental build 2022-07-24-2018 ([4abdbc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-2018))
 
 * damaged armor scaling appropriately ([#59529](https://github.com/CleverRaven/Cataclysm-DDA/pull/59529))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-24-1210 ([c2b61d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-1210))
-
-* Fix the casing ejection behavior of The Disorder sledgehammer  ([#59323](https://github.com/CleverRaven/Cataclysm-DDA/pull/59323))
 
 ---
 
@@ -197,10 +196,6 @@
 * Fix bodyparts in shock absorber cbm (aftershock) ([#59381](https://github.com/CleverRaven/Cataclysm-DDA/pull/59381))
 * Routine Tileset updates on 17 July 2022 ([#59377](https://github.com/CleverRaven/Cataclysm-DDA/pull/59377))
 * Change the bodygraph colors and thresholds ([#59349](https://github.com/CleverRaven/Cataclysm-DDA/pull/59349))
-* Allow using nearby items to start or quench fires when examining fireplaces ([#59317](https://github.com/CleverRaven/Cataclysm-DDA/pull/59317))
-* Fix monsters not despawning for portal storms ([#59318](https://github.com/CleverRaven/Cataclysm-DDA/pull/59318))
-* Self aware sidebar health widgets ([#59319](https://github.com/CleverRaven/Cataclysm-DDA/pull/59319))
-* Add test to prune item density known bad list ([#59324](https://github.com/CleverRaven/Cataclysm-DDA/pull/59324))
 * Optional widget color scale `breaks` ([#59336](https://github.com/CleverRaven/Cataclysm-DDA/pull/59336))
 * Sidebar widgets rel. weight carried / overburdened ([#59330](https://github.com/CleverRaven/Cataclysm-DDA/pull/59330))
 * [DinoMod] stegoceras and egg and dung rebalance ([#59343](https://github.com/CleverRaven/Cataclysm-DDA/pull/59343))
