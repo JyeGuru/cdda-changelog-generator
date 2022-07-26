@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-26-2249 ([2fbf47c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-2249))
+
+* Prevent door motors closing doors on top of npcs/monsters ([#59609](https://github.com/CleverRaven/Cataclysm-DDA/pull/59609))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-26-0606 ([8105c2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-0606))
 
 * Move vehicle part migrations to json ([#59591](https://github.com/CleverRaven/Cataclysm-DDA/pull/59591))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-07-20-0511 ([ae2ff5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-0511))
 
 * Misc typo fixes ([#59431](https://github.com/CleverRaven/Cataclysm-DDA/pull/59431))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-20-0322 ([8f770f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-0322))
-
 * Fix UBSan int overflow ([#59416](https://github.com/CleverRaven/Cataclysm-DDA/pull/59416))
 * Immobile Monsters Can't Wander ([#59421](https://github.com/CleverRaven/Cataclysm-DDA/pull/59421))
 * Routine No Hope maintenance ([#59419](https://github.com/CleverRaven/Cataclysm-DDA/pull/59419))
@@ -188,7 +189,6 @@
 * Health message typo fix ([#59412](https://github.com/CleverRaven/Cataclysm-DDA/pull/59412))
 * Fix Android builds ([#59415](https://github.com/CleverRaven/Cataclysm-DDA/pull/59415))
 * Fix up medicinal teas ([#59400](https://github.com/CleverRaven/Cataclysm-DDA/pull/59400))
-* Persist vehicle tracking status when folding ([#59355](https://github.com/CleverRaven/Cataclysm-DDA/pull/59355))
 * Fixed the behavior of the zombie burner (and WONDER spells in general) ([#59359](https://github.com/CleverRaven/Cataclysm-DDA/pull/59359))
 * Nerf sell value of some common items ([#59389](https://github.com/CleverRaven/Cataclysm-DDA/pull/59389))
 * Enable clang-tidy bugprone-infinite-loop ([#59396](https://github.com/CleverRaven/Cataclysm-DDA/pull/59396))

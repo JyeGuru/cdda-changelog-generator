@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-26-2249 (2fbf47c)
+* Prevent door motors closing doors on top of npcs/monsters (#59609)
+
 Cataclysm-DDA experimental build 2022-07-26-0606 (8105c2c)
 * Move vehicle part migrations to json (#59591)
 * Improve skill achievement requirement descriptions (#59575)
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2022-07-20-1755 (7400fe1)
 
 Cataclysm-DDA experimental build 2022-07-20-0511 (ae2ff5c)
 * Misc typo fixes (#59431)
-
-Cataclysm-DDA experimental build 2022-07-20-0322 (8f770f0)
 * Fix UBSan int overflow (#59416)
 * Immobile Monsters Can't Wander (#59421)
 * Routine No Hope maintenance (#59419)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2022-07-20-0322 (8f770f0)
 * Health message typo fix (#59412)
 * Fix Android builds (#59415)
 * Fix up medicinal teas (#59400)
-* Persist vehicle tracking status when folding (#59355)
 * Fixed the behavior of the zombie burner (and WONDER spells in general) (#59359)
 * Nerf sell value of some common items (#59389)
 * Enable clang-tidy bugprone-infinite-loop (#59396)
