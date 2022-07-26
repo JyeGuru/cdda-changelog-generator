@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-26-0606 ([8105c2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-0606))
+
 * Move vehicle part migrations to json ([#59591](https://github.com/CleverRaven/Cataclysm-DDA/pull/59591))
 * Improve skill achievement requirement descriptions ([#59575](https://github.com/CleverRaven/Cataclysm-DDA/pull/59575))
 * Bugfix: Do not re-add deleted auto notes ([#59583](https://github.com/CleverRaven/Cataclysm-DDA/pull/59583))
