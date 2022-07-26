@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-26-0047 (de4bd30)
+* Magiclysm Fix Copper Circlet recipe Copper requirements (#59523)
+
 Cataclysm-DDA experimental build 2022-07-25-0625 (32ee0b1)
 * Fix closing vehicle doors cardinally (#59470)
 * Fix riot control bot handcuffs attack not working (#59465)
@@ -59,9 +62,6 @@ Cataclysm-DDA experimental build 2022-07-22-1654 (6a0d865)
 
 Cataclysm-DDA experimental build 2022-07-22-0807 (072a7a3)
 * Obsolete canola item (#59437)
-
-Cataclysm-DDA experimental build 2022-07-22-0211 (7fe8d5b)
-* Only allow military base and aircraft carrier specials to be placed once per game world (#59328)
 * Fix hit chance estimates in aiming UI (#59408)
 * Fix unfolded vehicles not driveable before stepping off/on (#59429)
 * Only the last killed amigara drops an artifact (#59438)
@@ -102,8 +102,6 @@ Cataclysm-DDA experimental build 2022-07-20-0221 (df15035)
 * Multi Unit Houses (#59348)
 * Routine No Hope maintenance (#59419)
 * [DinoMod] thescelosaurus (#59405)
-
-Cataclysm-DDA experimental build 2022-07-19-1942 (fac3512)
 * Add description for individual patrol officer kit (IPOK) (#59418)
 * Fancy gunmods and adding them to item groups (#59404)
 * [Innawoods] Sledgehammer crafting. (#59409)

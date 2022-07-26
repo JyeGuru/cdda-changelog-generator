@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-26-0047 ([de4bd30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-0047))
+
+* Magiclysm Fix Copper Circlet recipe Copper requirements ([#59523](https://github.com/CleverRaven/Cataclysm-DDA/pull/59523))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-25-0625 ([32ee0b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-25-0625))
 
 * Fix closing vehicle doors cardinally ([#59470](https://github.com/CleverRaven/Cataclysm-DDA/pull/59470))
@@ -98,12 +104,6 @@
 #### Cataclysm-DDA experimental build 2022-07-22-0807 ([072a7a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-0807))
 
 * Obsolete canola item ([#59437](https://github.com/CleverRaven/Cataclysm-DDA/pull/59437))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-22-0211 ([7fe8d5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-0211))
-
-* Only allow military base and aircraft carrier specials to be placed once per game world ([#59328](https://github.com/CleverRaven/Cataclysm-DDA/pull/59328))
 * Fix hit chance estimates in aiming UI ([#59408](https://github.com/CleverRaven/Cataclysm-DDA/pull/59408))
 * Fix unfolded vehicles not driveable before stepping off/on ([#59429](https://github.com/CleverRaven/Cataclysm-DDA/pull/59429))
 * Only the last killed amigara drops an artifact ([#59438](https://github.com/CleverRaven/Cataclysm-DDA/pull/59438))
@@ -168,11 +168,6 @@
 * Multi Unit Houses ([#59348](https://github.com/CleverRaven/Cataclysm-DDA/pull/59348))
 * Routine No Hope maintenance ([#59419](https://github.com/CleverRaven/Cataclysm-DDA/pull/59419))
 * [DinoMod] thescelosaurus ([#59405](https://github.com/CleverRaven/Cataclysm-DDA/pull/59405))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-19-1942 ([fac3512](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-19-1942))
-
 * Add description for individual patrol officer kit (IPOK) ([#59418](https://github.com/CleverRaven/Cataclysm-DDA/pull/59418))
 * Fancy gunmods and adding them to item groups ([#59404](https://github.com/CleverRaven/Cataclysm-DDA/pull/59404))
 * [Innawoods] Sledgehammer crafting. ([#59409](https://github.com/CleverRaven/Cataclysm-DDA/pull/59409))
