@@ -1,3 +1,18 @@
+* Improve skill achievement requirement descriptions ([#59575](https://github.com/CleverRaven/Cataclysm-DDA/pull/59575))
+* Bugfix: Do not re-add deleted auto notes ([#59583](https://github.com/CleverRaven/Cataclysm-DDA/pull/59583))
+* Wrap text in widget/sidebar help ([#59592](https://github.com/CleverRaven/Cataclysm-DDA/pull/59592))
+* few quick tailoring material fixes ([#59594](https://github.com/CleverRaven/Cataclysm-DDA/pull/59594))
+* Remove HELMET_COMPAT ([#59604](https://github.com/CleverRaven/Cataclysm-DDA/pull/59604))
+* Expand snippets on signs and graffiti ([#59602](https://github.com/CleverRaven/Cataclysm-DDA/pull/59602))
+* Correct basecamp scanning + made basecamp fakes available as scanned ([#59605](https://github.com/CleverRaven/Cataclysm-DDA/pull/59605))
+* Reduce memory consumption of overmap_terrain_coverage test by clearing mapbuffer ([#59488](https://github.com/CleverRaven/Cataclysm-DDA/pull/59488))
+* Inherit Flags Unit Test ([#59617](https://github.com/CleverRaven/Cataclysm-DDA/pull/59617))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-26-0454 ([6447b56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-0454))
+
+* Bugfix: Multiline widgets take one row too much ([#59571](https://github.com/CleverRaven/Cataclysm-DDA/pull/59571))
 
 ---
 
@@ -85,7 +100,6 @@
 #### Cataclysm-DDA experimental build 2022-07-23-0409 ([7dc27c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-0409))
 
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
-* Use $(DefaultPlatformToolset) in vcxproj ([#59340](https://github.com/CleverRaven/Cataclysm-DDA/pull/59340))
 
 ---
 
@@ -160,12 +174,6 @@
 
 * Fix UBSan int overflow ([#59416](https://github.com/CleverRaven/Cataclysm-DDA/pull/59416))
 * Immobile Monsters Can't Wander ([#59421](https://github.com/CleverRaven/Cataclysm-DDA/pull/59421))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-20-0221 ([df15035](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-0221))
-
-* Multi Unit Houses ([#59348](https://github.com/CleverRaven/Cataclysm-DDA/pull/59348))
 * Routine No Hope maintenance ([#59419](https://github.com/CleverRaven/Cataclysm-DDA/pull/59419))
 * [DinoMod] thescelosaurus ([#59405](https://github.com/CleverRaven/Cataclysm-DDA/pull/59405))
 * Add description for individual patrol officer kit (IPOK) ([#59418](https://github.com/CleverRaven/Cataclysm-DDA/pull/59418))
@@ -182,7 +190,6 @@
 * More bodygraph widgets: encumbrance, temperature and limb status ([#59375](https://github.com/CleverRaven/Cataclysm-DDA/pull/59375))
 * Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
 * Support value_constraint equals_any ([#59356](https://github.com/CleverRaven/Cataclysm-DDA/pull/59356))
-* Displace pet into previous player position when moving through stairs if no other positions are available ([#59351](https://github.com/CleverRaven/Cataclysm-DDA/pull/59351))
 * Document fields ([#59358](https://github.com/CleverRaven/Cataclysm-DDA/pull/59358))
 * Allow fetching overmap specials for events ([#59363](https://github.com/CleverRaven/Cataclysm-DDA/pull/59363))
 * Magiclysm new sidebars ([#59374](https://github.com/CleverRaven/Cataclysm-DDA/pull/59374))
@@ -194,10 +201,3 @@
 * Make twigs and leaves look_like sticks and withered plants respectively ([#59380](https://github.com/CleverRaven/Cataclysm-DDA/pull/59380))
 * Fix bodyparts in shock absorber cbm (aftershock) ([#59381](https://github.com/CleverRaven/Cataclysm-DDA/pull/59381))
 * Routine Tileset updates on 17 July 2022 ([#59377](https://github.com/CleverRaven/Cataclysm-DDA/pull/59377))
-* Change the bodygraph colors and thresholds ([#59349](https://github.com/CleverRaven/Cataclysm-DDA/pull/59349))
-* Optional widget color scale `breaks` ([#59336](https://github.com/CleverRaven/Cataclysm-DDA/pull/59336))
-* Sidebar widgets rel. weight carried / overburdened ([#59330](https://github.com/CleverRaven/Cataclysm-DDA/pull/59330))
-* [DinoMod] stegoceras and egg and dung rebalance ([#59343](https://github.com/CleverRaven/Cataclysm-DDA/pull/59343))
-* Add FIREWOOD to twigs and leaves ([#59345](https://github.com/CleverRaven/Cataclysm-DDA/pull/59345))
-* fix: guns spawning with double shoulder straps ([#59346](https://github.com/CleverRaven/Cataclysm-DDA/pull/59346))
-* Appease clang-tidy: move cata::mdarray to heap ([#59335](https://github.com/CleverRaven/Cataclysm-DDA/pull/59335))
