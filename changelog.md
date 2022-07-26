@@ -1,3 +1,4 @@
+* Move vehicle part migrations to json ([#59591](https://github.com/CleverRaven/Cataclysm-DDA/pull/59591))
 * Improve skill achievement requirement descriptions ([#59575](https://github.com/CleverRaven/Cataclysm-DDA/pull/59575))
 * Bugfix: Do not re-add deleted auto notes ([#59583](https://github.com/CleverRaven/Cataclysm-DDA/pull/59583))
 * Wrap text in widget/sidebar help ([#59592](https://github.com/CleverRaven/Cataclysm-DDA/pull/59592))
@@ -194,7 +195,6 @@
 * Allow fetching overmap specials for events ([#59363](https://github.com/CleverRaven/Cataclysm-DDA/pull/59363))
 * Magiclysm new sidebars ([#59374](https://github.com/CleverRaven/Cataclysm-DDA/pull/59374))
 * only hide collapsed on multi items menu ([#59370](https://github.com/CleverRaven/Cataclysm-DDA/pull/59370))
-* rebalance burner spawns ([#59354](https://github.com/CleverRaven/Cataclysm-DDA/pull/59354))
 * Adds Trains vehicle group ([#59383](https://github.com/CleverRaven/Cataclysm-DDA/pull/59383))
 * Added missing self-aware widgets ([#59371](https://github.com/CleverRaven/Cataclysm-DDA/pull/59371))
 * Fix smartphone flashlight issues ([#59376](https://github.com/CleverRaven/Cataclysm-DDA/pull/59376))
