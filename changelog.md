@@ -1,3 +1,4 @@
+* try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))
 
 ---
 
@@ -195,7 +196,6 @@
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
 * More bodygraph widgets: encumbrance, temperature and limb status ([#59375](https://github.com/CleverRaven/Cataclysm-DDA/pull/59375))
 * Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
-* Support value_constraint equals_any ([#59356](https://github.com/CleverRaven/Cataclysm-DDA/pull/59356))
 * Document fields ([#59358](https://github.com/CleverRaven/Cataclysm-DDA/pull/59358))
 * Allow fetching overmap specials for events ([#59363](https://github.com/CleverRaven/Cataclysm-DDA/pull/59363))
 * Magiclysm new sidebars ([#59374](https://github.com/CleverRaven/Cataclysm-DDA/pull/59374))
