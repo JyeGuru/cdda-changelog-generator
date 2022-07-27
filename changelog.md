@@ -1,3 +1,15 @@
+* Fix mapbuffer crash ([#59648](https://github.com/CleverRaven/Cataclysm-DDA/pull/59648))
+* Snippetize hardcoded addiction messages ([#59436](https://github.com/CleverRaven/Cataclysm-DDA/pull/59436))
+* Bodygraph patterns: real ASCII art in bodygraph widgets + padding fix ([#59454](https://github.com/CleverRaven/Cataclysm-DDA/pull/59454))
+* Fix MSYS2 compile issue ([#59502](https://github.com/CleverRaven/Cataclysm-DDA/pull/59502))
+* Audit To-Hit for Bludgeons ([#59577](https://github.com/CleverRaven/Cataclysm-DDA/pull/59577))
+* [Mods] Overdosing targeted mutagen shouldn't damage you post-thresh ([#59610](https://github.com/CleverRaven/Cataclysm-DDA/pull/59610))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-27-2021 ([037ed1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-2021))
+
+* Add zipper bags to junk drawers ([#59672](https://github.com/CleverRaven/Cataclysm-DDA/pull/59672))
 
 ---
 
@@ -173,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-07-21-0011 ([7420f08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0011))
 
 * Small Update to Nursing Home ([#59463](https://github.com/CleverRaven/Cataclysm-DDA/pull/59463))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-20-1912 ([57b062c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-1912))
-
 * [XE] Couple of Xedra Evolved adjustments and fixes ([#59435](https://github.com/CleverRaven/Cataclysm-DDA/pull/59435))
 * Enable clang-tidy check performance-trivially-destructible ([#59443](https://github.com/CleverRaven/Cataclysm-DDA/pull/59443))
 * Cows will (eventually) defend themselves ([#59453](https://github.com/CleverRaven/Cataclysm-DDA/pull/59453))
@@ -195,14 +202,7 @@
 * Nerf sell value of some common items ([#59389](https://github.com/CleverRaven/Cataclysm-DDA/pull/59389))
 * Enable clang-tidy bugprone-infinite-loop ([#59396](https://github.com/CleverRaven/Cataclysm-DDA/pull/59396))
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
-* More bodygraph widgets: encumbrance, temperature and limb status ([#59375](https://github.com/CleverRaven/Cataclysm-DDA/pull/59375))
 * Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
-* Allow fetching overmap specials for events ([#59363](https://github.com/CleverRaven/Cataclysm-DDA/pull/59363))
-* Magiclysm new sidebars ([#59374](https://github.com/CleverRaven/Cataclysm-DDA/pull/59374))
-* only hide collapsed on multi items menu ([#59370](https://github.com/CleverRaven/Cataclysm-DDA/pull/59370))
 * Adds Trains vehicle group ([#59383](https://github.com/CleverRaven/Cataclysm-DDA/pull/59383))
-* Added missing self-aware widgets ([#59371](https://github.com/CleverRaven/Cataclysm-DDA/pull/59371))
-* Fix smartphone flashlight issues ([#59376](https://github.com/CleverRaven/Cataclysm-DDA/pull/59376))
 * Make twigs and leaves look_like sticks and withered plants respectively ([#59380](https://github.com/CleverRaven/Cataclysm-DDA/pull/59380))
 * Fix bodyparts in shock absorber cbm (aftershock) ([#59381](https://github.com/CleverRaven/Cataclysm-DDA/pull/59381))
-* Routine Tileset updates on 17 July 2022 ([#59377](https://github.com/CleverRaven/Cataclysm-DDA/pull/59377))
