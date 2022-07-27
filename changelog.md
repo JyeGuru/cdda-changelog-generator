@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-27-0529 ([14c36f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-0529))
+
+* Update the table of contents in doc/JSON_INFO.md ([#59628](https://github.com/CleverRaven/Cataclysm-DDA/pull/59628))
 * try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))
 
 ---
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-07-20-1755 ([7400fe1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-1755))
 
 * Cows will (eventually) defend themselves ([#59453](https://github.com/CleverRaven/Cataclysm-DDA/pull/59453))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-20-0511 ([ae2ff5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-20-0511))
-
 * Misc typo fixes ([#59431](https://github.com/CleverRaven/Cataclysm-DDA/pull/59431))
 * Fix UBSan int overflow ([#59416](https://github.com/CleverRaven/Cataclysm-DDA/pull/59416))
 * Immobile Monsters Can't Wander ([#59421](https://github.com/CleverRaven/Cataclysm-DDA/pull/59421))
@@ -196,7 +197,6 @@
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
 * More bodygraph widgets: encumbrance, temperature and limb status ([#59375](https://github.com/CleverRaven/Cataclysm-DDA/pull/59375))
 * Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
-* Document fields ([#59358](https://github.com/CleverRaven/Cataclysm-DDA/pull/59358))
 * Allow fetching overmap specials for events ([#59363](https://github.com/CleverRaven/Cataclysm-DDA/pull/59363))
 * Magiclysm new sidebars ([#59374](https://github.com/CleverRaven/Cataclysm-DDA/pull/59374))
 * only hide collapsed on multi items menu ([#59370](https://github.com/CleverRaven/Cataclysm-DDA/pull/59370))
