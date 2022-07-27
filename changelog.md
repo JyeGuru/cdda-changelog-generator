@@ -1,3 +1,9 @@
+* update to try and fix checks ([#59687](https://github.com/CleverRaven/Cataclysm-DDA/pull/59687))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-27-2238 ([56c2dd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-2238))
+
 * Continue evolution of Survivor Armor take 3. ([#59434](https://github.com/CleverRaven/Cataclysm-DDA/pull/59434))
 
 ---
@@ -179,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-07-21-0520 ([2b29aca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0520))
 
 * typo fix ([#59459](https://github.com/CleverRaven/Cataclysm-DDA/pull/59459))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-21-0115 ([75e3982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0115))
-
 * change terrain trap sets to terrain ([#59426](https://github.com/CleverRaven/Cataclysm-DDA/pull/59426))
 * Small Update to Nursing Home ([#59463](https://github.com/CleverRaven/Cataclysm-DDA/pull/59463))
 * [XE] Couple of Xedra Evolved adjustments and fixes ([#59435](https://github.com/CleverRaven/Cataclysm-DDA/pull/59435))
@@ -205,4 +206,3 @@
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
 * Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
 * Adds Trains vehicle group ([#59383](https://github.com/CleverRaven/Cataclysm-DDA/pull/59383))
-* Fix bodyparts in shock absorber cbm (aftershock) ([#59381](https://github.com/CleverRaven/Cataclysm-DDA/pull/59381))

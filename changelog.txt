@@ -1,3 +1,6 @@
+* update to try and fix checks (#59687)
+
+Cataclysm-DDA experimental build 2022-07-27-2238 (56c2dd2)
 * Continue evolution of Survivor Armor take 3. (#59434)
 
 Cataclysm-DDA experimental build 2022-07-27-2124 (0fb6032)
@@ -113,8 +116,6 @@ Cataclysm-DDA experimental build 2022-07-22-0807 (072a7a3)
 
 Cataclysm-DDA experimental build 2022-07-21-0520 (2b29aca)
 * typo fix (#59459)
-
-Cataclysm-DDA experimental build 2022-07-21-0115 (75e3982)
 * change terrain trap sets to terrain (#59426)
 * Small Update to Nursing Home (#59463)
 * [XE] Couple of Xedra Evolved adjustments and fixes (#59435)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-07-21-0115 (75e3982)
 * Fix EOC test (#59399)
 * Bugfix Butter churn can't be used when folded up (#59388)
 * Adds Trains vehicle group (#59383)
-* Fix bodyparts in shock absorber cbm (aftershock) (#59381)
