@@ -1,3 +1,4 @@
+* Continue evolution of Survivor Armor take 3. ([#59434](https://github.com/CleverRaven/Cataclysm-DDA/pull/59434))
 
 ---
 
@@ -204,5 +205,4 @@
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
 * Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
 * Adds Trains vehicle group ([#59383](https://github.com/CleverRaven/Cataclysm-DDA/pull/59383))
-* Make twigs and leaves look_like sticks and withered plants respectively ([#59380](https://github.com/CleverRaven/Cataclysm-DDA/pull/59380))
 * Fix bodyparts in shock absorber cbm (aftershock) ([#59381](https://github.com/CleverRaven/Cataclysm-DDA/pull/59381))
