@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-27-2124 ([0fb6032](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-2124))
+
 * Fix mapbuffer crash ([#59648](https://github.com/CleverRaven/Cataclysm-DDA/pull/59648))
 * Snippetize hardcoded addiction messages ([#59436](https://github.com/CleverRaven/Cataclysm-DDA/pull/59436))
 * Bodygraph patterns: real ASCII art in bodygraph widgets + padding fix ([#59454](https://github.com/CleverRaven/Cataclysm-DDA/pull/59454))
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-07-21-0115 ([75e3982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0115))
 
 * change terrain trap sets to terrain ([#59426](https://github.com/CleverRaven/Cataclysm-DDA/pull/59426))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-21-0011 ([7420f08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0011))
-
 * Small Update to Nursing Home ([#59463](https://github.com/CleverRaven/Cataclysm-DDA/pull/59463))
 * [XE] Couple of Xedra Evolved adjustments and fixes ([#59435](https://github.com/CleverRaven/Cataclysm-DDA/pull/59435))
 * Enable clang-tidy check performance-trivially-destructible ([#59443](https://github.com/CleverRaven/Cataclysm-DDA/pull/59443))

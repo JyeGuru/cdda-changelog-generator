@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-07-27-2124 (0fb6032)
 * Fix mapbuffer crash (#59648)
 * Snippetize hardcoded addiction messages (#59436)
 * Bodygraph patterns: real ASCII art in bodygraph widgets + padding fix (#59454)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2022-07-21-0520 (2b29aca)
 
 Cataclysm-DDA experimental build 2022-07-21-0115 (75e3982)
 * change terrain trap sets to terrain (#59426)
-
-Cataclysm-DDA experimental build 2022-07-21-0011 (7420f08)
 * Small Update to Nursing Home (#59463)
 * [XE] Couple of Xedra Evolved adjustments and fixes (#59435)
 * Enable clang-tidy check performance-trivially-destructible (#59443)
