@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-28-1953 ([3be0092](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-28-1953))
+
 * Apply fixed price malus to filthy clothing ([#59496](https://github.com/CleverRaven/Cataclysm-DDA/pull/59496))
 * Mexican cookbook ([#59509](https://github.com/CleverRaven/Cataclysm-DDA/pull/59509))
 * Use more damaged lockpicks whenever picking a lock ([#59644](https://github.com/CleverRaven/Cataclysm-DDA/pull/59644))
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-07-22-1654 ([6a0d865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-1654))
 
 * Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-22-0807 ([072a7a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-0807))
-
 * Obsolete canola item ([#59437](https://github.com/CleverRaven/Cataclysm-DDA/pull/59437))
 * Fix unfolded vehicles not driveable before stepping off/on ([#59429](https://github.com/CleverRaven/Cataclysm-DDA/pull/59429))
 * Only the last killed amigara drops an artifact ([#59438](https://github.com/CleverRaven/Cataclysm-DDA/pull/59438))
