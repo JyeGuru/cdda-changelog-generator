@@ -1,3 +1,4 @@
+* Portal storm dungeon improvements ([#59481](https://github.com/CleverRaven/Cataclysm-DDA/pull/59481))
 * [Innawood] Remove bow sling from archery item group ([#59649](https://github.com/CleverRaven/Cataclysm-DDA/pull/59649))
 
 ---
@@ -184,7 +185,6 @@
 * Support ret_val<void> and replace ret_val<bool> ([#59468](https://github.com/CleverRaven/Cataclysm-DDA/pull/59468))
 * Harmonise leg purse and arm pouch crafting requirements ([#59469](https://github.com/CleverRaven/Cataclysm-DDA/pull/59469))
 * New event for dialogue variables changing - Designed to allow for new achievements. ([#59423](https://github.com/CleverRaven/Cataclysm-DDA/pull/59423))
-* [innawood] less naked NPCs ([#59391](https://github.com/CleverRaven/Cataclysm-DDA/pull/59391))
 * Fix Disorder not creating ammo ([#59474](https://github.com/CleverRaven/Cataclysm-DDA/pull/59474))
 * typo fix ([#59459](https://github.com/CleverRaven/Cataclysm-DDA/pull/59459))
 * change terrain trap sets to terrain ([#59426](https://github.com/CleverRaven/Cataclysm-DDA/pull/59426))

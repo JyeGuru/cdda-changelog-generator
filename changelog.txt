@@ -1,3 +1,4 @@
+* Portal storm dungeon improvements (#59481)
 * [Innawood] Remove bow sling from archery item group (#59649)
 
 Cataclysm-DDA experimental build 2022-07-28-0518 (05ebec5)
@@ -115,7 +116,6 @@ Cataclysm-DDA experimental build 2022-07-22-0807 (072a7a3)
 * Support ret_val<void> and replace ret_val<bool> (#59468)
 * Harmonise leg purse and arm pouch crafting requirements (#59469)
 * New event for dialogue variables changing - Designed to allow for new achievements. (#59423)
-* [innawood] less naked NPCs (#59391)
 * Fix Disorder not creating ammo (#59474)
 * typo fix (#59459)
 * change terrain trap sets to terrain (#59426)
