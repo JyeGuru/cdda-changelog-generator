@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-28-0518 ([05ebec5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-28-0518))
+
+* Fix swapped training dialogue with John Bailey ([#59689](https://github.com/CleverRaven/Cataclysm-DDA/pull/59689))
 * update to try and fix checks ([#59687](https://github.com/CleverRaven/Cataclysm-DDA/pull/59687))
 
 ---
@@ -179,11 +185,6 @@
 * New event for dialogue variables changing - Designed to allow for new achievements. ([#59423](https://github.com/CleverRaven/Cataclysm-DDA/pull/59423))
 * [innawood] less naked NPCs ([#59391](https://github.com/CleverRaven/Cataclysm-DDA/pull/59391))
 * Fix Disorder not creating ammo ([#59474](https://github.com/CleverRaven/Cataclysm-DDA/pull/59474))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-21-0520 ([2b29aca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-21-0520))
-
 * typo fix ([#59459](https://github.com/CleverRaven/Cataclysm-DDA/pull/59459))
 * change terrain trap sets to terrain ([#59426](https://github.com/CleverRaven/Cataclysm-DDA/pull/59426))
 * Small Update to Nursing Home ([#59463](https://github.com/CleverRaven/Cataclysm-DDA/pull/59463))
@@ -204,4 +205,3 @@
 * Nerf sell value of some common items ([#59389](https://github.com/CleverRaven/Cataclysm-DDA/pull/59389))
 * Enable clang-tidy bugprone-infinite-loop ([#59396](https://github.com/CleverRaven/Cataclysm-DDA/pull/59396))
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
-* Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
