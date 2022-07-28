@@ -205,4 +205,3 @@
 * Enable clang-tidy bugprone-infinite-loop ([#59396](https://github.com/CleverRaven/Cataclysm-DDA/pull/59396))
 * Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
 * Bugfix Butter churn can't be used when folded up ([#59388](https://github.com/CleverRaven/Cataclysm-DDA/pull/59388))
-* Adds Trains vehicle group ([#59383](https://github.com/CleverRaven/Cataclysm-DDA/pull/59383))
