@@ -1,3 +1,4 @@
+* [Innawood] Remove bow sling from archery item group (#59649)
 
 Cataclysm-DDA experimental build 2022-07-28-0518 (05ebec5)
 * Fix swapped training dialogue with John Bailey (#59689)
@@ -133,6 +134,5 @@ Cataclysm-DDA experimental build 2022-07-22-0807 (072a7a3)
 * Health message typo fix (#59412)
 * Fix Android builds (#59415)
 * Fix up medicinal teas (#59400)
-* Nerf sell value of some common items (#59389)
 * Enable clang-tidy bugprone-infinite-loop (#59396)
 * Fix EOC test (#59399)
