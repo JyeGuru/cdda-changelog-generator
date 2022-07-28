@@ -1,3 +1,15 @@
+* Apply fixed price malus to filthy clothing ([#59496](https://github.com/CleverRaven/Cataclysm-DDA/pull/59496))
+* Mexican cookbook ([#59509](https://github.com/CleverRaven/Cataclysm-DDA/pull/59509))
+* Use more damaged lockpicks whenever picking a lock ([#59644](https://github.com/CleverRaven/Cataclysm-DDA/pull/59644))
+* Json fixes to a number of inconsistencies between disassembly yields and crafting mats ([#59654](https://github.com/CleverRaven/Cataclysm-DDA/pull/59654))
+* Disable folding appliances ([#59665](https://github.com/CleverRaven/Cataclysm-DDA/pull/59665))
+* Jsonize crater map extra ([#59717](https://github.com/CleverRaven/Cataclysm-DDA/pull/59717))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-28-1821 ([6c5cc24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-28-1821))
+
+* Fake cameras so vision is not impacted ([#59714](https://github.com/CleverRaven/Cataclysm-DDA/pull/59714))
 
 ---
 
@@ -180,7 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-07-22-0807 ([072a7a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-0807))
 
 * Obsolete canola item ([#59437](https://github.com/CleverRaven/Cataclysm-DDA/pull/59437))
-* Fix hit chance estimates in aiming UI ([#59408](https://github.com/CleverRaven/Cataclysm-DDA/pull/59408))
 * Fix unfolded vehicles not driveable before stepping off/on ([#59429](https://github.com/CleverRaven/Cataclysm-DDA/pull/59429))
 * Only the last killed amigara drops an artifact ([#59438](https://github.com/CleverRaven/Cataclysm-DDA/pull/59438))
 * Conditionally swap out widgets (conditions for layout widgets) ([#59442](https://github.com/CleverRaven/Cataclysm-DDA/pull/59442))
@@ -201,12 +212,7 @@
 * Fix UBSan int overflow ([#59416](https://github.com/CleverRaven/Cataclysm-DDA/pull/59416))
 * Immobile Monsters Can't Wander ([#59421](https://github.com/CleverRaven/Cataclysm-DDA/pull/59421))
 * Routine No Hope maintenance ([#59419](https://github.com/CleverRaven/Cataclysm-DDA/pull/59419))
-* [DinoMod] thescelosaurus ([#59405](https://github.com/CleverRaven/Cataclysm-DDA/pull/59405))
 * Add description for individual patrol officer kit (IPOK) ([#59418](https://github.com/CleverRaven/Cataclysm-DDA/pull/59418))
-* Fancy gunmods and adding them to item groups ([#59404](https://github.com/CleverRaven/Cataclysm-DDA/pull/59404))
 * [Innawoods] Sledgehammer crafting. ([#59409](https://github.com/CleverRaven/Cataclysm-DDA/pull/59409))
 * Health message typo fix ([#59412](https://github.com/CleverRaven/Cataclysm-DDA/pull/59412))
 * Fix Android builds ([#59415](https://github.com/CleverRaven/Cataclysm-DDA/pull/59415))
-* Fix up medicinal teas ([#59400](https://github.com/CleverRaven/Cataclysm-DDA/pull/59400))
-* Enable clang-tidy bugprone-infinite-loop ([#59396](https://github.com/CleverRaven/Cataclysm-DDA/pull/59396))
-* Fix EOC test ([#59399](https://github.com/CleverRaven/Cataclysm-DDA/pull/59399))
