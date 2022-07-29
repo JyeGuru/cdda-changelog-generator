@@ -61,6 +61,11 @@
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats ([#59654](https://github.com/CleverRaven/Cataclysm-DDA/pull/59654))
 * Disable folding appliances ([#59665](https://github.com/CleverRaven/Cataclysm-DDA/pull/59665))
 * Jsonize crater map extra ([#59717](https://github.com/CleverRaven/Cataclysm-DDA/pull/59717))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-28-1821 ([6c5cc24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-28-1821))
+
 * Fake cameras so vision is not impacted ([#59714](https://github.com/CleverRaven/Cataclysm-DDA/pull/59714))
 
 ---
