@@ -211,6 +211,11 @@
 
 * Use aiming FOV for IR visibility cone ([#59477](https://github.com/CleverRaven/Cataclysm-DDA/pull/59477))
 * Pocket settings usability tweaks ([#59514](https://github.com/CleverRaven/Cataclysm-DDA/pull/59514))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-23-0522 ([b86bfea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-0522))
+
 * Routine i18n updates on 23 July 2022 ([#59519](https://github.com/CleverRaven/Cataclysm-DDA/pull/59519))
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
 * Restore showing the monologue[from scenario desc] after starting game ([#59490](https://github.com/CleverRaven/Cataclysm-DDA/pull/59490))
