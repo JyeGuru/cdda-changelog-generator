@@ -40,8 +40,6 @@ Cataclysm-DDA experimental build 2022-07-28-1953 (3be0092)
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats (#59654)
 * Disable folding appliances (#59665)
 * Jsonize crater map extra (#59717)
-
-Cataclysm-DDA experimental build 2022-07-28-1821 (6c5cc24)
 * Fake cameras so vision is not impacted (#59714)
 
 Cataclysm-DDA experimental build 2022-07-28-0621 (3a934ca)
