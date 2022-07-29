@@ -1,6 +1,34 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-29-0343 ([39e00b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0343))
+
+* Improve scrolling of profession and background tabs in character creation ([#59653](https://github.com/CleverRaven/Cataclysm-DDA/pull/59653))
+* fix:Parser(profession.py) missed out gendered description ([#59622](https://github.com/CleverRaven/Cataclysm-DDA/pull/59622))
+* Extend and tweak sidebar "structured" ([#59589](https://github.com/CleverRaven/Cataclysm-DDA/pull/59589))
+* Mod-blacklisted holsters, repair tools, and compatible magazines won't be shown in item description ([#59555](https://github.com/CleverRaven/Cataclysm-DDA/pull/59555))
+* Improve radio scanning experience, make it more likely there will be radios in range ([#59550](https://github.com/CleverRaven/Cataclysm-DDA/pull/59550))
+* Fix crash firing vehicle flamethrower when not using controls ([#59544](https://github.com/CleverRaven/Cataclysm-DDA/pull/59544))
+* Fix ammo color coding acting strange with speedloaders ([#59541](https://github.com/CleverRaven/Cataclysm-DDA/pull/59541))
+* Spacebar tweaks ([#59524](https://github.com/CleverRaven/Cataclysm-DDA/pull/59524))
+* Bionic power balance and percentage widgets (and widget variables) ([#59498](https://github.com/CleverRaven/Cataclysm-DDA/pull/59498))
+* Fix GCC LTO build uninitialized value false positive. ([#59645](https://github.com/CleverRaven/Cataclysm-DDA/pull/59645))
+* added mods, molle and always unload as unload zone options ([#59612](https://github.com/CleverRaven/Cataclysm-DDA/pull/59612))
+* Refix UI hit chance ([#59512](https://github.com/CleverRaven/Cataclysm-DDA/pull/59512))
+* New color theme - vintage ([#59719](https://github.com/CleverRaven/Cataclysm-DDA/pull/59719))
+* Replace deprecated travis-ci badge by GH actions badge ([#59703](https://github.com/CleverRaven/Cataclysm-DDA/pull/59703))
+* Make Aftershock Phones Waterproof ([#59695](https://github.com/CleverRaven/Cataclysm-DDA/pull/59695))
+* Translate furniture prying action messages ([#59693](https://github.com/CleverRaven/Cataclysm-DDA/pull/59693))
+* Multiple Tile Sets Based On Zoom Level ([#59666](https://github.com/CleverRaven/Cataclysm-DDA/pull/59666))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-29-0223 ([536808e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0223))
+
+* Always draw MF_ALWAYS_VISIBLE monsters in Tiles ([#59623](https://github.com/CleverRaven/Cataclysm-DDA/pull/59623))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-28-1953 ([3be0092](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-28-1953))
 
 * Apply fixed price malus to filthy clothing ([#59496](https://github.com/CleverRaven/Cataclysm-DDA/pull/59496))
@@ -32,16 +60,9 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-07-27-2238 ([56c2dd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-2238))
-
-* Continue evolution of Survivor Armor take 3. ([#59434](https://github.com/CleverRaven/Cataclysm-DDA/pull/59434))
-
----
-
 #### Cataclysm-DDA experimental build 2022-07-27-2124 ([0fb6032](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-2124))
 
 * Fix mapbuffer crash ([#59648](https://github.com/CleverRaven/Cataclysm-DDA/pull/59648))
-* Snippetize hardcoded addiction messages ([#59436](https://github.com/CleverRaven/Cataclysm-DDA/pull/59436))
 * Bodygraph patterns: real ASCII art in bodygraph widgets + padding fix ([#59454](https://github.com/CleverRaven/Cataclysm-DDA/pull/59454))
 * Fix MSYS2 compile issue ([#59502](https://github.com/CleverRaven/Cataclysm-DDA/pull/59502))
 * Audit To-Hit for Bludgeons ([#59577](https://github.com/CleverRaven/Cataclysm-DDA/pull/59577))
@@ -179,39 +200,13 @@
 #### Cataclysm-DDA experimental build 2022-07-23-0409 ([7dc27c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-0409))
 
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-22-1943 ([d291072](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-1943))
-
 * Restore showing the monologue[from scenario desc] after starting game ([#59490](https://github.com/CleverRaven/Cataclysm-DDA/pull/59490))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-22-1654 ([6a0d865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-22-1654))
-
 * Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
-* Obsolete canola item ([#59437](https://github.com/CleverRaven/Cataclysm-DDA/pull/59437))
-* Fix unfolded vehicles not driveable before stepping off/on ([#59429](https://github.com/CleverRaven/Cataclysm-DDA/pull/59429))
-* Only the last killed amigara drops an artifact ([#59438](https://github.com/CleverRaven/Cataclysm-DDA/pull/59438))
-* Conditionally swap out widgets (conditions for layout widgets) ([#59442](https://github.com/CleverRaven/Cataclysm-DDA/pull/59442))
 * Remove the ([#59456](https://github.com/CleverRaven/Cataclysm-DDA/pull/59456))
 * Enable clang-tidy check readability-redundant-access-specifiers ([#59460](https://github.com/CleverRaven/Cataclysm-DDA/pull/59460))
 * Sidebar and widget help/info text ([#59462](https://github.com/CleverRaven/Cataclysm-DDA/pull/59462))
 * Support ret_val<void> and replace ret_val<bool> ([#59468](https://github.com/CleverRaven/Cataclysm-DDA/pull/59468))
 * Harmonise leg purse and arm pouch crafting requirements ([#59469](https://github.com/CleverRaven/Cataclysm-DDA/pull/59469))
-* New event for dialogue variables changing - Designed to allow for new achievements. ([#59423](https://github.com/CleverRaven/Cataclysm-DDA/pull/59423))
 * Fix Disorder not creating ammo ([#59474](https://github.com/CleverRaven/Cataclysm-DDA/pull/59474))
 * typo fix ([#59459](https://github.com/CleverRaven/Cataclysm-DDA/pull/59459))
-* change terrain trap sets to terrain ([#59426](https://github.com/CleverRaven/Cataclysm-DDA/pull/59426))
 * Small Update to Nursing Home ([#59463](https://github.com/CleverRaven/Cataclysm-DDA/pull/59463))
-* [XE] Couple of Xedra Evolved adjustments and fixes ([#59435](https://github.com/CleverRaven/Cataclysm-DDA/pull/59435))
-* Enable clang-tidy check performance-trivially-destructible ([#59443](https://github.com/CleverRaven/Cataclysm-DDA/pull/59443))
-* Cows will (eventually) defend themselves ([#59453](https://github.com/CleverRaven/Cataclysm-DDA/pull/59453))
-* Misc typo fixes ([#59431](https://github.com/CleverRaven/Cataclysm-DDA/pull/59431))
-* Fix UBSan int overflow ([#59416](https://github.com/CleverRaven/Cataclysm-DDA/pull/59416))
-* Immobile Monsters Can't Wander ([#59421](https://github.com/CleverRaven/Cataclysm-DDA/pull/59421))
-* Routine No Hope maintenance ([#59419](https://github.com/CleverRaven/Cataclysm-DDA/pull/59419))
-* Add description for individual patrol officer kit (IPOK) ([#59418](https://github.com/CleverRaven/Cataclysm-DDA/pull/59418))
-* Health message typo fix ([#59412](https://github.com/CleverRaven/Cataclysm-DDA/pull/59412))
-* Fix Android builds ([#59415](https://github.com/CleverRaven/Cataclysm-DDA/pull/59415))
