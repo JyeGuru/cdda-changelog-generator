@@ -1,3 +1,9 @@
+* Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-29-1610 ([7691b76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1610))
+
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
 
 ---
@@ -200,16 +206,10 @@
 
 * Use aiming FOV for IR visibility cone ([#59477](https://github.com/CleverRaven/Cataclysm-DDA/pull/59477))
 * Pocket settings usability tweaks ([#59514](https://github.com/CleverRaven/Cataclysm-DDA/pull/59514))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-23-0522 ([b86bfea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-0522))
-
 * Routine i18n updates on 23 July 2022 ([#59519](https://github.com/CleverRaven/Cataclysm-DDA/pull/59519))
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
 * Restore showing the monologue[from scenario desc] after starting game ([#59490](https://github.com/CleverRaven/Cataclysm-DDA/pull/59490))
 * Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
-* Enable clang-tidy check readability-redundant-access-specifiers ([#59460](https://github.com/CleverRaven/Cataclysm-DDA/pull/59460))
 * Sidebar and widget help/info text ([#59462](https://github.com/CleverRaven/Cataclysm-DDA/pull/59462))
 * Support ret_val<void> and replace ret_val<bool> ([#59468](https://github.com/CleverRaven/Cataclysm-DDA/pull/59468))
 * Harmonise leg purse and arm pouch crafting requirements ([#59469](https://github.com/CleverRaven/Cataclysm-DDA/pull/59469))
