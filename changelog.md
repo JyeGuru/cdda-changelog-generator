@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-29-1458 ([065cfb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1458))
+
+* Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-29-0705 ([a838451](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0705))
 
 * Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
@@ -199,15 +205,9 @@
 #### Cataclysm-DDA experimental build 2022-07-23-0522 ([b86bfea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-0522))
 
 * Routine i18n updates on 23 July 2022 ([#59519](https://github.com/CleverRaven/Cataclysm-DDA/pull/59519))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-23-0409 ([7dc27c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-0409))
-
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
 * Restore showing the monologue[from scenario desc] after starting game ([#59490](https://github.com/CleverRaven/Cataclysm-DDA/pull/59490))
 * Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
-* Remove the ([#59456](https://github.com/CleverRaven/Cataclysm-DDA/pull/59456))
 * Enable clang-tidy check readability-redundant-access-specifiers ([#59460](https://github.com/CleverRaven/Cataclysm-DDA/pull/59460))
 * Sidebar and widget help/info text ([#59462](https://github.com/CleverRaven/Cataclysm-DDA/pull/59462))
 * Support ret_val<void> and replace ret_val<bool> ([#59468](https://github.com/CleverRaven/Cataclysm-DDA/pull/59468))
