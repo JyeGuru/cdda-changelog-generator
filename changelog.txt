@@ -1,3 +1,4 @@
+* fix for bio, cold and lightning damaging clothes (#59736)
 
 Cataclysm-DDA experimental build 2022-07-29-1458 (065cfb2)
 * Fix excessive monster spawns (#59724)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2022-07-23-0522 (b86bfea)
 * Support ret_val<void> and replace ret_val<bool> (#59468)
 * Harmonise leg purse and arm pouch crafting requirements (#59469)
 * Fix Disorder not creating ammo (#59474)
-* typo fix (#59459)
 * Small Update to Nursing Home (#59463)
