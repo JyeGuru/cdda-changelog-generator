@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-29-1734 ([96807af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1734))
+
 * Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))
 
 ---
