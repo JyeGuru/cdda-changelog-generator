@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-29-0705 (a838451)
+* Yet another debug cardio fix (#59721)
+
 Cataclysm-DDA experimental build 2022-07-29-0343 (39e00b7)
 * Improve scrolling of profession and background tabs in character creation (#59653)
 * fix:Parser(profession.py) missed out gendered description (#59622)
@@ -42,7 +45,6 @@ Cataclysm-DDA experimental build 2022-07-28-0518 (05ebec5)
 
 Cataclysm-DDA experimental build 2022-07-27-2124 (0fb6032)
 * Fix mapbuffer crash (#59648)
-* Bodygraph patterns: real ASCII art in bodygraph widgets + padding fix (#59454)
 * Fix MSYS2 compile issue (#59502)
 * Audit To-Hit for Bludgeons (#59577)
 * [Mods] Overdosing targeted mutagen shouldn't damage you post-thresh (#59610)

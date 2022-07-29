@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-29-0705 ([a838451](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0705))
+
+* Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-29-0343 ([39e00b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0343))
 
 * Improve scrolling of profession and background tabs in character creation ([#59653](https://github.com/CleverRaven/Cataclysm-DDA/pull/59653))
@@ -63,7 +69,6 @@
 #### Cataclysm-DDA experimental build 2022-07-27-2124 ([0fb6032](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-2124))
 
 * Fix mapbuffer crash ([#59648](https://github.com/CleverRaven/Cataclysm-DDA/pull/59648))
-* Bodygraph patterns: real ASCII art in bodygraph widgets + padding fix ([#59454](https://github.com/CleverRaven/Cataclysm-DDA/pull/59454))
 * Fix MSYS2 compile issue ([#59502](https://github.com/CleverRaven/Cataclysm-DDA/pull/59502))
 * Audit To-Hit for Bludgeons ([#59577](https://github.com/CleverRaven/Cataclysm-DDA/pull/59577))
 * [Mods] Overdosing targeted mutagen shouldn't damage you post-thresh ([#59610](https://github.com/CleverRaven/Cataclysm-DDA/pull/59610))
