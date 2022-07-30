@@ -1,3 +1,11 @@
+* Fix stat check inconsistency ([#59746](https://github.com/CleverRaven/Cataclysm-DDA/pull/59746))
+* soaking dandelion ([#59738](https://github.com/CleverRaven/Cataclysm-DDA/pull/59738))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-30-1843 ([f739133](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-1843))
+
+* Routine i18n updates on 30 July 2022 ([#59750](https://github.com/CleverRaven/Cataclysm-DDA/pull/59750))
 * Tidy monster guns json ([#59630](https://github.com/CleverRaven/Cataclysm-DDA/pull/59630))
 * Rebalance base_colors-dark.json ([#59700](https://github.com/CleverRaven/Cataclysm-DDA/pull/59700))
 * Remove 'f'illing batteries in vehicle interact ui ([#59726](https://github.com/CleverRaven/Cataclysm-DDA/pull/59726))
@@ -85,12 +93,6 @@
 #### Cataclysm-DDA experimental build 2022-07-28-1821 ([6c5cc24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-28-1821))
 
 * Fake cameras so vision is not impacted ([#59714](https://github.com/CleverRaven/Cataclysm-DDA/pull/59714))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-28-0621 ([3a934ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-28-0621))
-
-* Portal storm dungeon improvements ([#59481](https://github.com/CleverRaven/Cataclysm-DDA/pull/59481))
 * [Innawood] Remove bow sling from archery item group ([#59649](https://github.com/CleverRaven/Cataclysm-DDA/pull/59649))
 
 ---
@@ -184,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2022-07-24-0740 ([1ec7b52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-0740))
 
 * Correctly color price when comparing items. ([#59527](https://github.com/CleverRaven/Cataclysm-DDA/pull/59527))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-24-0016 ([b7142b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-0016))
-
 * Add hotkeys for world interaction ([#59542](https://github.com/CleverRaven/Cataclysm-DDA/pull/59542))
 * add city building: salon ([#59535](https://github.com/CleverRaven/Cataclysm-DDA/pull/59535))
 * no burners at outpost ([#59538](https://github.com/CleverRaven/Cataclysm-DDA/pull/59538))
@@ -204,9 +201,7 @@
 * aim game ranged training ([#59520](https://github.com/CleverRaven/Cataclysm-DDA/pull/59520))
 * `map_cursor::visit_items` checks furniture for pseudo items ([#59536](https://github.com/CleverRaven/Cataclysm-DDA/pull/59536))
 * try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
-* Use aiming FOV for IR visibility cone ([#59477](https://github.com/CleverRaven/Cataclysm-DDA/pull/59477))
 * Pocket settings usability tweaks ([#59514](https://github.com/CleverRaven/Cataclysm-DDA/pull/59514))
 * Routine i18n updates on 23 July 2022 ([#59519](https://github.com/CleverRaven/Cataclysm-DDA/pull/59519))
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
 * Restore showing the monologue[from scenario desc] after starting game ([#59490](https://github.com/CleverRaven/Cataclysm-DDA/pull/59490))
-* Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
