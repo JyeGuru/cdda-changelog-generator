@@ -1,3 +1,6 @@
+* Fixed mouse move not working ([#59757](https://github.com/CleverRaven/Cataclysm-DDA/pull/59757))
+* Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
+* Removed mention of deprecated flags from docs ([#59762](https://github.com/CleverRaven/Cataclysm-DDA/pull/59762))
 
 ---
 
@@ -160,7 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-07-25-0625 ([32ee0b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-25-0625))
 
 * Fix closing vehicle doors cardinally ([#59470](https://github.com/CleverRaven/Cataclysm-DDA/pull/59470))
-* Fix riot control bot handcuffs attack not working ([#59465](https://github.com/CleverRaven/Cataclysm-DDA/pull/59465))
 * Fix a bug where trim_by_length would end up one character too long ([#59476](https://github.com/CleverRaven/Cataclysm-DDA/pull/59476))
 * list changes in automatic tileset updates ([#59576](https://github.com/CleverRaven/Cataclysm-DDA/pull/59576))
 * Enable performance-no-automatic-move ([#59553](https://github.com/CleverRaven/Cataclysm-DDA/pull/59553))
@@ -212,6 +214,4 @@
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
 * Restore showing the monologue[from scenario desc] after starting game ([#59490](https://github.com/CleverRaven/Cataclysm-DDA/pull/59490))
 * Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
-* Support ret_val<void> and replace ret_val<bool> ([#59468](https://github.com/CleverRaven/Cataclysm-DDA/pull/59468))
-* Harmonise leg purse and arm pouch crafting requirements ([#59469](https://github.com/CleverRaven/Cataclysm-DDA/pull/59469))
 * Fix Disorder not creating ammo ([#59474](https://github.com/CleverRaven/Cataclysm-DDA/pull/59474))
