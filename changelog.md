@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-30-1031 ([3b41d64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-1031))
+
+* Fix Uncanny Dodge description ([#59733](https://github.com/CleverRaven/Cataclysm-DDA/pull/59733))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-30-0545 ([03c64e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-0545))
 
 * Bugfix: Fix widget and label alignment ([#59676](https://github.com/CleverRaven/Cataclysm-DDA/pull/59676))
@@ -203,11 +209,6 @@
 * fix: missing spaces ([#59532](https://github.com/CleverRaven/Cataclysm-DDA/pull/59532))
 * [innawood] NPCs spawn with bows ([#59517](https://github.com/CleverRaven/Cataclysm-DDA/pull/59517))
 * aim game ranged training ([#59520](https://github.com/CleverRaven/Cataclysm-DDA/pull/59520))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-23-2134 ([aab097b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-2134))
-
 * `map_cursor::visit_items` checks furniture for pseudo items ([#59536](https://github.com/CleverRaven/Cataclysm-DDA/pull/59536))
 * try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
 * Use aiming FOV for IR visibility cone ([#59477](https://github.com/CleverRaven/Cataclysm-DDA/pull/59477))
@@ -219,4 +220,3 @@
 * Support ret_val<void> and replace ret_val<bool> ([#59468](https://github.com/CleverRaven/Cataclysm-DDA/pull/59468))
 * Harmonise leg purse and arm pouch crafting requirements ([#59469](https://github.com/CleverRaven/Cataclysm-DDA/pull/59469))
 * Fix Disorder not creating ammo ([#59474](https://github.com/CleverRaven/Cataclysm-DDA/pull/59474))
-* Small Update to Nursing Home ([#59463](https://github.com/CleverRaven/Cataclysm-DDA/pull/59463))
