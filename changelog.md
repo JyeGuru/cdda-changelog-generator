@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-30-1958 ([b4156a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-1958))
+
 * Fix stat check inconsistency ([#59746](https://github.com/CleverRaven/Cataclysm-DDA/pull/59746))
 * soaking dandelion ([#59738](https://github.com/CleverRaven/Cataclysm-DDA/pull/59738))
 
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-07-24-2018 ([4abdbc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-2018))
 
 * damaged armor scaling appropriately ([#59529](https://github.com/CleverRaven/Cataclysm-DDA/pull/59529))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-24-0740 ([1ec7b52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-0740))
-
 * Correctly color price when comparing items. ([#59527](https://github.com/CleverRaven/Cataclysm-DDA/pull/59527))
 * Add hotkeys for world interaction ([#59542](https://github.com/CleverRaven/Cataclysm-DDA/pull/59542))
 * add city building: salon ([#59535](https://github.com/CleverRaven/Cataclysm-DDA/pull/59535))
