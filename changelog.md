@@ -199,11 +199,6 @@
 * Enable bugprone-misplaced-widening-cast ([#59534](https://github.com/CleverRaven/Cataclysm-DDA/pull/59534))
 * Enable clang-tidy check performance-unnecessary-value-param ([#59533](https://github.com/CleverRaven/Cataclysm-DDA/pull/59533))
 * Fix: Monologue message no longer appears after loading a saved game. ([#59525](https://github.com/CleverRaven/Cataclysm-DDA/pull/59525))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-23-2255 ([2b95739](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-23-2255))
-
 * Dost thou even lift: Add makeshift rope and chain lifts ([#59485](https://github.com/CleverRaven/Cataclysm-DDA/pull/59485))
 * Reduce mongroup object size ([#59528](https://github.com/CleverRaven/Cataclysm-DDA/pull/59528))
 * fix: missing spaces ([#59532](https://github.com/CleverRaven/Cataclysm-DDA/pull/59532))

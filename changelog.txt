@@ -124,8 +124,6 @@ Cataclysm-DDA experimental build 2022-07-24-0016 (b7142b2)
 * Enable bugprone-misplaced-widening-cast (#59534)
 * Enable clang-tidy check performance-unnecessary-value-param (#59533)
 * Fix: Monologue message no longer appears after loading a saved game. (#59525)
-
-Cataclysm-DDA experimental build 2022-07-23-2255 (2b95739)
 * Dost thou even lift: Add makeshift rope and chain lifts (#59485)
 * Reduce mongroup object size (#59528)
 * fix: missing spaces (#59532)
