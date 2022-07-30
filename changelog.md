@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-30-0545 ([03c64e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-0545))
+
+* Bugfix: Fix widget and label alignment ([#59676](https://github.com/CleverRaven/Cataclysm-DDA/pull/59676))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-29-1734 ([96807af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1734))
 
 * Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))

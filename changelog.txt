@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-07-30-0545 (03c64e9)
+* Bugfix: Fix widget and label alignment (#59676)
+
 Cataclysm-DDA experimental build 2022-07-29-1734 (96807af)
 * Remove obsolete nato_assault_rifle (#59729)
 
