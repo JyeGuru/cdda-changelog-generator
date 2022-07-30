@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-30-2302 ([049f21a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-2302))
+
+* AFS Translocation CBM spell loses concentration bugfix ([#59770](https://github.com/CleverRaven/Cataclysm-DDA/pull/59770))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-30-1958 ([b4156a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-1958))
 
 * Fix stat check inconsistency ([#59746](https://github.com/CleverRaven/Cataclysm-DDA/pull/59746))
@@ -194,7 +200,6 @@
 * Enable bugprone-misplaced-widening-cast ([#59534](https://github.com/CleverRaven/Cataclysm-DDA/pull/59534))
 * Enable clang-tidy check performance-unnecessary-value-param ([#59533](https://github.com/CleverRaven/Cataclysm-DDA/pull/59533))
 * Fix: Monologue message no longer appears after loading a saved game. ([#59525](https://github.com/CleverRaven/Cataclysm-DDA/pull/59525))
-* Dost thou even lift: Add makeshift rope and chain lifts ([#59485](https://github.com/CleverRaven/Cataclysm-DDA/pull/59485))
 * Reduce mongroup object size ([#59528](https://github.com/CleverRaven/Cataclysm-DDA/pull/59528))
 * fix: missing spaces ([#59532](https://github.com/CleverRaven/Cataclysm-DDA/pull/59532))
 * [innawood] NPCs spawn with bows ([#59517](https://github.com/CleverRaven/Cataclysm-DDA/pull/59517))
