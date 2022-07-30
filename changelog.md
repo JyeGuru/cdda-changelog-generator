@@ -1,3 +1,6 @@
+* Tidy monster guns json ([#59630](https://github.com/CleverRaven/Cataclysm-DDA/pull/59630))
+* Rebalance base_colors-dark.json ([#59700](https://github.com/CleverRaven/Cataclysm-DDA/pull/59700))
+* Remove 'f'illing batteries in vehicle interact ui ([#59726](https://github.com/CleverRaven/Cataclysm-DDA/pull/59726))
 * Fixed mouse move not working ([#59757](https://github.com/CleverRaven/Cataclysm-DDA/pull/59757))
 * Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
 * Removed mention of deprecated flags from docs ([#59762](https://github.com/CleverRaven/Cataclysm-DDA/pull/59762))
@@ -157,13 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-07-26-0047 ([de4bd30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-0047))
 
 * Magiclysm Fix Copper Circlet recipe Copper requirements ([#59523](https://github.com/CleverRaven/Cataclysm-DDA/pull/59523))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-25-0625 ([32ee0b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-25-0625))
-
-* Fix closing vehicle doors cardinally ([#59470](https://github.com/CleverRaven/Cataclysm-DDA/pull/59470))
-* Fix a bug where trim_by_length would end up one character too long ([#59476](https://github.com/CleverRaven/Cataclysm-DDA/pull/59476))
 * list changes in automatic tileset updates ([#59576](https://github.com/CleverRaven/Cataclysm-DDA/pull/59576))
 * Enable performance-no-automatic-move ([#59553](https://github.com/CleverRaven/Cataclysm-DDA/pull/59553))
 * Fix condensed milk description ([#59562](https://github.com/CleverRaven/Cataclysm-DDA/pull/59562))
@@ -214,4 +210,3 @@
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
 * Restore showing the monologue[from scenario desc] after starting game ([#59490](https://github.com/CleverRaven/Cataclysm-DDA/pull/59490))
 * Aftershock Exosuit Power Up 2! MORE POWER ([#59483](https://github.com/CleverRaven/Cataclysm-DDA/pull/59483))
-* Fix Disorder not creating ammo ([#59474](https://github.com/CleverRaven/Cataclysm-DDA/pull/59474))
