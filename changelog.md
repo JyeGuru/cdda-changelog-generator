@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-31-1927 ([d94233a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-1927))
+
 * Innawoods updating 2 ([#59772](https://github.com/CleverRaven/Cataclysm-DDA/pull/59772))
 * Translate radio onomatopoeia ([#59773](https://github.com/CleverRaven/Cataclysm-DDA/pull/59773))
 * Basic Innawoods appliances ([#59784](https://github.com/CleverRaven/Cataclysm-DDA/pull/59784))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-07-26-0454 ([6447b56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-0454))
 
 * Bugfix: Multiline widgets take one row too much ([#59571](https://github.com/CleverRaven/Cataclysm-DDA/pull/59571))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-26-0047 ([de4bd30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-0047))
-
 * Magiclysm Fix Copper Circlet recipe Copper requirements ([#59523](https://github.com/CleverRaven/Cataclysm-DDA/pull/59523))
 * list changes in automatic tileset updates ([#59576](https://github.com/CleverRaven/Cataclysm-DDA/pull/59576))
 * Enable performance-no-automatic-move ([#59553](https://github.com/CleverRaven/Cataclysm-DDA/pull/59553))
