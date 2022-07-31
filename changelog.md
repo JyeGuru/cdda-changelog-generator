@@ -1,3 +1,12 @@
+* Innawoods updating 2 ([#59772](https://github.com/CleverRaven/Cataclysm-DDA/pull/59772))
+* Translate radio onomatopoeia ([#59773](https://github.com/CleverRaven/Cataclysm-DDA/pull/59773))
+* Basic Innawoods appliances ([#59784](https://github.com/CleverRaven/Cataclysm-DDA/pull/59784))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-31-1810 ([c3e8489](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-1810))
+
+* Cataphract armor is armor ([#59785](https://github.com/CleverRaven/Cataclysm-DDA/pull/59785))
 
 ---
 
@@ -84,7 +93,6 @@
 * Fix crash firing vehicle flamethrower when not using controls ([#59544](https://github.com/CleverRaven/Cataclysm-DDA/pull/59544))
 * Fix ammo color coding acting strange with speedloaders ([#59541](https://github.com/CleverRaven/Cataclysm-DDA/pull/59541))
 * Spacebar tweaks ([#59524](https://github.com/CleverRaven/Cataclysm-DDA/pull/59524))
-* Bionic power balance and percentage widgets (and widget variables) ([#59498](https://github.com/CleverRaven/Cataclysm-DDA/pull/59498))
 * Fix GCC LTO build uninitialized value false positive. ([#59645](https://github.com/CleverRaven/Cataclysm-DDA/pull/59645))
 * added mods, molle and always unload as unload zone options ([#59612](https://github.com/CleverRaven/Cataclysm-DDA/pull/59612))
 * Refix UI hit chance ([#59512](https://github.com/CleverRaven/Cataclysm-DDA/pull/59512))
@@ -99,12 +107,6 @@
 #### Cataclysm-DDA experimental build 2022-07-29-0223 ([536808e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0223))
 
 * Always draw MF_ALWAYS_VISIBLE monsters in Tiles ([#59623](https://github.com/CleverRaven/Cataclysm-DDA/pull/59623))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-28-1953 ([3be0092](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-28-1953))
-
-* Apply fixed price malus to filthy clothing ([#59496](https://github.com/CleverRaven/Cataclysm-DDA/pull/59496))
 * Mexican cookbook ([#59509](https://github.com/CleverRaven/Cataclysm-DDA/pull/59509))
 * Use more damaged lockpicks whenever picking a lock ([#59644](https://github.com/CleverRaven/Cataclysm-DDA/pull/59644))
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats ([#59654](https://github.com/CleverRaven/Cataclysm-DDA/pull/59654))
@@ -210,4 +212,3 @@
 * Pocket settings usability tweaks ([#59514](https://github.com/CleverRaven/Cataclysm-DDA/pull/59514))
 * Routine i18n updates on 23 July 2022 ([#59519](https://github.com/CleverRaven/Cataclysm-DDA/pull/59519))
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
-* Restore showing the monologue[from scenario desc] after starting game ([#59490](https://github.com/CleverRaven/Cataclysm-DDA/pull/59490))
