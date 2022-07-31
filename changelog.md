@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-31-0646 ([57fe6ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-0646))
+
+* More sensible message when trying to activate your bare hands ([#59761](https://github.com/CleverRaven/Cataclysm-DDA/pull/59761))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-31-0201 ([330becb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-0201))
 
 * [DinoMod] nanosaurus ([#59742](https://github.com/CleverRaven/Cataclysm-DDA/pull/59742))
@@ -165,7 +171,6 @@
 * Remove HELMET_COMPAT ([#59604](https://github.com/CleverRaven/Cataclysm-DDA/pull/59604))
 * Expand snippets on signs and graffiti ([#59602](https://github.com/CleverRaven/Cataclysm-DDA/pull/59602))
 * Correct basecamp scanning + made basecamp fakes available as scanned ([#59605](https://github.com/CleverRaven/Cataclysm-DDA/pull/59605))
-* Reduce memory consumption of overmap_terrain_coverage test by clearing mapbuffer ([#59488](https://github.com/CleverRaven/Cataclysm-DDA/pull/59488))
 * Inherit Flags Unit Test ([#59617](https://github.com/CleverRaven/Cataclysm-DDA/pull/59617))
 
 ---
@@ -185,11 +190,6 @@
 * Fix invalid body part id error ([#59570](https://github.com/CleverRaven/Cataclysm-DDA/pull/59570))
 * Show key binding in sidebar hint ([#59574](https://github.com/CleverRaven/Cataclysm-DDA/pull/59574))
 * Trying to fix Two Definitions error ([#59578](https://github.com/CleverRaven/Cataclysm-DDA/pull/59578))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-25-0512 ([bd0ea02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-25-0512))
-
 * Routine Tileset updates on 24 July 2022 ([#59573](https://github.com/CleverRaven/Cataclysm-DDA/pull/59573))
 * damaged armor scaling appropriately ([#59529](https://github.com/CleverRaven/Cataclysm-DDA/pull/59529))
 * Correctly color price when comparing items. ([#59527](https://github.com/CleverRaven/Cataclysm-DDA/pull/59527))
