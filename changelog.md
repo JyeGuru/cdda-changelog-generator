@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-07-31-0201 ([330becb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-0201))
+
+* [DinoMod] nanosaurus ([#59742](https://github.com/CleverRaven/Cataclysm-DDA/pull/59742))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-07-30-2302 ([049f21a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-2302))
 
 * AFS Translocation CBM spell loses concentration bugfix ([#59770](https://github.com/CleverRaven/Cataclysm-DDA/pull/59770))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-07-25-0512 ([bd0ea02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-25-0512))
 
 * Routine Tileset updates on 24 July 2022 ([#59573](https://github.com/CleverRaven/Cataclysm-DDA/pull/59573))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-24-2018 ([4abdbc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-24-2018))
-
 * damaged armor scaling appropriately ([#59529](https://github.com/CleverRaven/Cataclysm-DDA/pull/59529))
 * Correctly color price when comparing items. ([#59527](https://github.com/CleverRaven/Cataclysm-DDA/pull/59527))
 * Add hotkeys for world interaction ([#59542](https://github.com/CleverRaven/Cataclysm-DDA/pull/59542))
