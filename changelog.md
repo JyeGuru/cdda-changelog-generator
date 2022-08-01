@@ -1,3 +1,13 @@
+* Force appliances vpart location to "structure" ([#59777](https://github.com/CleverRaven/Cataclysm-DDA/pull/59777))
+* Display appliances in iteminfo separately ([#59779](https://github.com/CleverRaven/Cataclysm-DDA/pull/59779))
+* Enable clang-tidy check readability-make-member-function-const ([#59790](https://github.com/CleverRaven/Cataclysm-DDA/pull/59790))
+* Fix curses build with MSVC ([#59794](https://github.com/CleverRaven/Cataclysm-DDA/pull/59794))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-01-0243 ([c18a924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0243))
+
+* Don't call field_at() separately for begin, end ([#59799](https://github.com/CleverRaven/Cataclysm-DDA/pull/59799))
 
 ---
 
@@ -100,7 +110,6 @@
 * Spacebar tweaks ([#59524](https://github.com/CleverRaven/Cataclysm-DDA/pull/59524))
 * Fix GCC LTO build uninitialized value false positive. ([#59645](https://github.com/CleverRaven/Cataclysm-DDA/pull/59645))
 * added mods, molle and always unload as unload zone options ([#59612](https://github.com/CleverRaven/Cataclysm-DDA/pull/59612))
-* Refix UI hit chance ([#59512](https://github.com/CleverRaven/Cataclysm-DDA/pull/59512))
 * New color theme - vintage ([#59719](https://github.com/CleverRaven/Cataclysm-DDA/pull/59719))
 * Replace deprecated travis-ci badge by GH actions badge ([#59703](https://github.com/CleverRaven/Cataclysm-DDA/pull/59703))
 * Make Aftershock Phones Waterproof ([#59695](https://github.com/CleverRaven/Cataclysm-DDA/pull/59695))
@@ -112,7 +121,6 @@
 #### Cataclysm-DDA experimental build 2022-07-29-0223 ([536808e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0223))
 
 * Always draw MF_ALWAYS_VISIBLE monsters in Tiles ([#59623](https://github.com/CleverRaven/Cataclysm-DDA/pull/59623))
-* Mexican cookbook ([#59509](https://github.com/CleverRaven/Cataclysm-DDA/pull/59509))
 * Use more damaged lockpicks whenever picking a lock ([#59644](https://github.com/CleverRaven/Cataclysm-DDA/pull/59644))
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats ([#59654](https://github.com/CleverRaven/Cataclysm-DDA/pull/59654))
 * Disable folding appliances ([#59665](https://github.com/CleverRaven/Cataclysm-DDA/pull/59665))
@@ -137,7 +145,6 @@
 #### Cataclysm-DDA experimental build 2022-07-27-2124 ([0fb6032](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-2124))
 
 * Fix mapbuffer crash ([#59648](https://github.com/CleverRaven/Cataclysm-DDA/pull/59648))
-* Fix MSYS2 compile issue ([#59502](https://github.com/CleverRaven/Cataclysm-DDA/pull/59502))
 * Audit To-Hit for Bludgeons ([#59577](https://github.com/CleverRaven/Cataclysm-DDA/pull/59577))
 * [Mods] Overdosing targeted mutagen shouldn't damage you post-thresh ([#59610](https://github.com/CleverRaven/Cataclysm-DDA/pull/59610))
 
@@ -179,11 +186,6 @@
 * Expand snippets on signs and graffiti ([#59602](https://github.com/CleverRaven/Cataclysm-DDA/pull/59602))
 * Correct basecamp scanning + made basecamp fakes available as scanned ([#59605](https://github.com/CleverRaven/Cataclysm-DDA/pull/59605))
 * Inherit Flags Unit Test ([#59617](https://github.com/CleverRaven/Cataclysm-DDA/pull/59617))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-26-0454 ([6447b56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-0454))
-
 * Bugfix: Multiline widgets take one row too much ([#59571](https://github.com/CleverRaven/Cataclysm-DDA/pull/59571))
 * Magiclysm Fix Copper Circlet recipe Copper requirements ([#59523](https://github.com/CleverRaven/Cataclysm-DDA/pull/59523))
 * list changes in automatic tileset updates ([#59576](https://github.com/CleverRaven/Cataclysm-DDA/pull/59576))
@@ -198,8 +200,6 @@
 * Add hotkeys for world interaction ([#59542](https://github.com/CleverRaven/Cataclysm-DDA/pull/59542))
 * add city building: salon ([#59535](https://github.com/CleverRaven/Cataclysm-DDA/pull/59535))
 * no burners at outpost ([#59538](https://github.com/CleverRaven/Cataclysm-DDA/pull/59538))
-* Prune nonfunctional monster flags ([#59503](https://github.com/CleverRaven/Cataclysm-DDA/pull/59503))
-* Better error reporting for overmaps w/o rotation ([#59507](https://github.com/CleverRaven/Cataclysm-DDA/pull/59507))
 * Enable bugprone-misplaced-widening-cast ([#59534](https://github.com/CleverRaven/Cataclysm-DDA/pull/59534))
 * Enable clang-tidy check performance-unnecessary-value-param ([#59533](https://github.com/CleverRaven/Cataclysm-DDA/pull/59533))
 * Fix: Monologue message no longer appears after loading a saved game. ([#59525](https://github.com/CleverRaven/Cataclysm-DDA/pull/59525))
