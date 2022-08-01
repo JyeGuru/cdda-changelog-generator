@@ -1,3 +1,10 @@
+* Make bodypart warmth available in conditions ([#59801](https://github.com/CleverRaven/Cataclysm-DDA/pull/59801))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-01-0506 ([99705f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0506))
+
+* dedicated unload loot button ([#59596](https://github.com/CleverRaven/Cataclysm-DDA/pull/59596))
 
 ---
 
@@ -171,11 +178,6 @@
 
 * Update the table of contents in doc/JSON_INFO.md ([#59628](https://github.com/CleverRaven/Cataclysm-DDA/pull/59628))
 * try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-26-2249 ([2fbf47c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-2249))
-
 * Prevent door motors closing doors on top of npcs/monsters ([#59609](https://github.com/CleverRaven/Cataclysm-DDA/pull/59609))
 * Move vehicle part migrations to json ([#59591](https://github.com/CleverRaven/Cataclysm-DDA/pull/59591))
 * Improve skill achievement requirement descriptions ([#59575](https://github.com/CleverRaven/Cataclysm-DDA/pull/59575))
@@ -209,6 +211,5 @@
 * aim game ranged training ([#59520](https://github.com/CleverRaven/Cataclysm-DDA/pull/59520))
 * `map_cursor::visit_items` checks furniture for pseudo items ([#59536](https://github.com/CleverRaven/Cataclysm-DDA/pull/59536))
 * try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
-* Pocket settings usability tweaks ([#59514](https://github.com/CleverRaven/Cataclysm-DDA/pull/59514))
 * Routine i18n updates on 23 July 2022 ([#59519](https://github.com/CleverRaven/Cataclysm-DDA/pull/59519))
 * [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))

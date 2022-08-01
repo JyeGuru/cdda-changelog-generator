@@ -1,3 +1,7 @@
+* Make bodypart warmth available in conditions (#59801)
+
+Cataclysm-DDA experimental build 2022-08-01-0506 (99705f8)
+* dedicated unload loot button (#59596)
 
 Cataclysm-DDA experimental build 2022-08-01-0345 (6140950)
 * Force appliances vpart location to "structure" (#59777)
@@ -102,8 +106,6 @@ Cataclysm-DDA experimental build 2022-07-27-1411 (776aa63)
 Cataclysm-DDA experimental build 2022-07-27-0529 (14c36f5)
 * Update the table of contents in doc/JSON_INFO.md (#59628)
 * try and fix more merge problems (#59650)
-
-Cataclysm-DDA experimental build 2022-07-26-2249 (2fbf47c)
 * Prevent door motors closing doors on top of npcs/monsters (#59609)
 * Move vehicle part migrations to json (#59591)
 * Improve skill achievement requirement descriptions (#59575)
@@ -137,6 +139,5 @@ Cataclysm-DDA experimental build 2022-07-26-2249 (2fbf47c)
 * aim game ranged training (#59520)
 * `map_cursor::visit_items` checks furniture for pseudo items (#59536)
 * try and fix errors (#59537)
-* Pocket settings usability tweaks (#59514)
 * Routine i18n updates on 23 July 2022 (#59519)
 * [ Xedra Evolved ] Typo (#59518)
