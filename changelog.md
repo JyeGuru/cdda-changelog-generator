@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-01-2245 ([45421ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-2245))
+
+* Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-01-2123 ([87d7944](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-2123))
 
 * Correct typo in disc item description ([#59747](https://github.com/CleverRaven/Cataclysm-DDA/pull/59747))
@@ -175,11 +181,6 @@
 
 * Fix swapped training dialogue with John Bailey ([#59689](https://github.com/CleverRaven/Cataclysm-DDA/pull/59689))
 * update to try and fix checks ([#59687](https://github.com/CleverRaven/Cataclysm-DDA/pull/59687))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-27-2124 ([0fb6032](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-2124))
-
 * Fix mapbuffer crash ([#59648](https://github.com/CleverRaven/Cataclysm-DDA/pull/59648))
 * Audit To-Hit for Bludgeons ([#59577](https://github.com/CleverRaven/Cataclysm-DDA/pull/59577))
 * [Mods] Overdosing targeted mutagen shouldn't damage you post-thresh ([#59610](https://github.com/CleverRaven/Cataclysm-DDA/pull/59610))
@@ -210,6 +211,5 @@
 * no burners at outpost ([#59538](https://github.com/CleverRaven/Cataclysm-DDA/pull/59538))
 * Enable bugprone-misplaced-widening-cast ([#59534](https://github.com/CleverRaven/Cataclysm-DDA/pull/59534))
 * Enable clang-tidy check performance-unnecessary-value-param ([#59533](https://github.com/CleverRaven/Cataclysm-DDA/pull/59533))
-* fix: missing spaces ([#59532](https://github.com/CleverRaven/Cataclysm-DDA/pull/59532))
 * `map_cursor::visit_items` checks furniture for pseudo items ([#59536](https://github.com/CleverRaven/Cataclysm-DDA/pull/59536))
 * try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
