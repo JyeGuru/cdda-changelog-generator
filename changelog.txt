@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-01-0345 (6140950)
 * Force appliances vpart location to "structure" (#59777)
 * Display appliances in iteminfo separately (#59779)
 * Enable clang-tidy check readability-make-member-function-const (#59790)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2022-07-27-0529 (14c36f5)
 
 Cataclysm-DDA experimental build 2022-07-26-2249 (2fbf47c)
 * Prevent door motors closing doors on top of npcs/monsters (#59609)
-
-Cataclysm-DDA experimental build 2022-07-26-0606 (8105c2c)
 * Move vehicle part migrations to json (#59591)
 * Improve skill achievement requirement descriptions (#59575)
 * Bugfix: Do not re-add deleted auto notes (#59583)

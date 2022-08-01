@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-01-0345 ([6140950](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0345))
+
 * Force appliances vpart location to "structure" ([#59777](https://github.com/CleverRaven/Cataclysm-DDA/pull/59777))
 * Display appliances in iteminfo separately ([#59779](https://github.com/CleverRaven/Cataclysm-DDA/pull/59779))
 * Enable clang-tidy check readability-make-member-function-const ([#59790](https://github.com/CleverRaven/Cataclysm-DDA/pull/59790))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-07-26-2249 ([2fbf47c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-2249))
 
 * Prevent door motors closing doors on top of npcs/monsters ([#59609](https://github.com/CleverRaven/Cataclysm-DDA/pull/59609))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-26-0606 ([8105c2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-26-0606))
-
 * Move vehicle part migrations to json ([#59591](https://github.com/CleverRaven/Cataclysm-DDA/pull/59591))
 * Improve skill achievement requirement descriptions ([#59575](https://github.com/CleverRaven/Cataclysm-DDA/pull/59575))
 * Bugfix: Do not re-add deleted auto notes ([#59583](https://github.com/CleverRaven/Cataclysm-DDA/pull/59583))
