@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-01-2123 ([87d7944](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-2123))
+
 * Correct typo in disc item description ([#59747](https://github.com/CleverRaven/Cataclysm-DDA/pull/59747))
 * Mongroup size improvements ([#59754](https://github.com/CleverRaven/Cataclysm-DDA/pull/59754))
 * Update README.md ([#59755](https://github.com/CleverRaven/Cataclysm-DDA/pull/59755))
@@ -178,11 +183,6 @@
 * Fix mapbuffer crash ([#59648](https://github.com/CleverRaven/Cataclysm-DDA/pull/59648))
 * Audit To-Hit for Bludgeons ([#59577](https://github.com/CleverRaven/Cataclysm-DDA/pull/59577))
 * [Mods] Overdosing targeted mutagen shouldn't damage you post-thresh ([#59610](https://github.com/CleverRaven/Cataclysm-DDA/pull/59610))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-27-2021 ([037ed1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-2021))
-
 * Add zipper bags to junk drawers ([#59672](https://github.com/CleverRaven/Cataclysm-DDA/pull/59672))
 * Show installable parts in item info ([#59661](https://github.com/CleverRaven/Cataclysm-DDA/pull/59661))
 * Update the table of contents in doc/JSON_INFO.md ([#59628](https://github.com/CleverRaven/Cataclysm-DDA/pull/59628))

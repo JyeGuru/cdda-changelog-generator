@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-01-2123 (87d7944)
 * Correct typo in disc item description (#59747)
 * Mongroup size improvements (#59754)
 * Update README.md (#59755)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2022-07-27-2124 (0fb6032)
 * Fix mapbuffer crash (#59648)
 * Audit To-Hit for Bludgeons (#59577)
 * [Mods] Overdosing targeted mutagen shouldn't damage you post-thresh (#59610)
-
-Cataclysm-DDA experimental build 2022-07-27-2021 (037ed1f)
 * Add zipper bags to junk drawers (#59672)
 * Show installable parts in item info (#59661)
 * Update the table of contents in doc/JSON_INFO.md (#59628)
