@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-01-0625 ([6b19368](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0625))
+
+* Routine tileset updates on 31 July 2022 ([#59803](https://github.com/CleverRaven/Cataclysm-DDA/pull/59803))
 * Make bodypart warmth available in conditions ([#59801](https://github.com/CleverRaven/Cataclysm-DDA/pull/59801))
 
 ---
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-07-27-1411 ([776aa63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-1411))
 
 * Show installable parts in item info ([#59661](https://github.com/CleverRaven/Cataclysm-DDA/pull/59661))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-27-0529 ([14c36f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-0529))
-
 * Update the table of contents in doc/JSON_INFO.md ([#59628](https://github.com/CleverRaven/Cataclysm-DDA/pull/59628))
 * try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))
 * Prevent door motors closing doors on top of npcs/monsters ([#59609](https://github.com/CleverRaven/Cataclysm-DDA/pull/59609))
@@ -207,7 +208,6 @@
 * Fix: Monologue message no longer appears after loading a saved game. ([#59525](https://github.com/CleverRaven/Cataclysm-DDA/pull/59525))
 * Reduce mongroup object size ([#59528](https://github.com/CleverRaven/Cataclysm-DDA/pull/59528))
 * fix: missing spaces ([#59532](https://github.com/CleverRaven/Cataclysm-DDA/pull/59532))
-* [innawood] NPCs spawn with bows ([#59517](https://github.com/CleverRaven/Cataclysm-DDA/pull/59517))
 * aim game ranged training ([#59520](https://github.com/CleverRaven/Cataclysm-DDA/pull/59520))
 * `map_cursor::visit_items` checks furniture for pseudo items ([#59536](https://github.com/CleverRaven/Cataclysm-DDA/pull/59536))
 * try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
