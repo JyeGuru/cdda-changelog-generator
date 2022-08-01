@@ -1,3 +1,17 @@
+* Correct typo in disc item description ([#59747](https://github.com/CleverRaven/Cataclysm-DDA/pull/59747))
+* Mongroup size improvements ([#59754](https://github.com/CleverRaven/Cataclysm-DDA/pull/59754))
+* Update README.md ([#59755](https://github.com/CleverRaven/Cataclysm-DDA/pull/59755))
+* Converting spike into a chunk of steel takes almost no time ([#59763](https://github.com/CleverRaven/Cataclysm-DDA/pull/59763))
+* Convert level cache arrays to mdarray ([#59764](https://github.com/CleverRaven/Cataclysm-DDA/pull/59764))
+* Added possibility to remove several new types of wooden walls ([#59756](https://github.com/CleverRaven/Cataclysm-DDA/pull/59756))
+* [DinoMod] fix dino loot ([#59812](https://github.com/CleverRaven/Cataclysm-DDA/pull/59812))
+* [DinoMod] faster egg cooking ([#59813](https://github.com/CleverRaven/Cataclysm-DDA/pull/59813))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-01-1958 ([033cadd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-1958))
+
+* fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
 
 ---
 
@@ -125,7 +139,6 @@
 * Improve radio scanning experience, make it more likely there will be radios in range ([#59550](https://github.com/CleverRaven/Cataclysm-DDA/pull/59550))
 * Fix crash firing vehicle flamethrower when not using controls ([#59544](https://github.com/CleverRaven/Cataclysm-DDA/pull/59544))
 * Fix ammo color coding acting strange with speedloaders ([#59541](https://github.com/CleverRaven/Cataclysm-DDA/pull/59541))
-* Spacebar tweaks ([#59524](https://github.com/CleverRaven/Cataclysm-DDA/pull/59524))
 * Fix GCC LTO build uninitialized value false positive. ([#59645](https://github.com/CleverRaven/Cataclysm-DDA/pull/59645))
 * added mods, molle and always unload as unload zone options ([#59612](https://github.com/CleverRaven/Cataclysm-DDA/pull/59612))
 * New color theme - vintage ([#59719](https://github.com/CleverRaven/Cataclysm-DDA/pull/59719))
@@ -171,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-07-27-2021 ([037ed1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-2021))
 
 * Add zipper bags to junk drawers ([#59672](https://github.com/CleverRaven/Cataclysm-DDA/pull/59672))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-27-1411 ([776aa63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-27-1411))
-
 * Show installable parts in item info ([#59661](https://github.com/CleverRaven/Cataclysm-DDA/pull/59661))
 * Update the table of contents in doc/JSON_INFO.md ([#59628](https://github.com/CleverRaven/Cataclysm-DDA/pull/59628))
 * try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))
@@ -190,7 +198,6 @@
 * Correct basecamp scanning + made basecamp fakes available as scanned ([#59605](https://github.com/CleverRaven/Cataclysm-DDA/pull/59605))
 * Inherit Flags Unit Test ([#59617](https://github.com/CleverRaven/Cataclysm-DDA/pull/59617))
 * Bugfix: Multiline widgets take one row too much ([#59571](https://github.com/CleverRaven/Cataclysm-DDA/pull/59571))
-* Magiclysm Fix Copper Circlet recipe Copper requirements ([#59523](https://github.com/CleverRaven/Cataclysm-DDA/pull/59523))
 * list changes in automatic tileset updates ([#59576](https://github.com/CleverRaven/Cataclysm-DDA/pull/59576))
 * Enable performance-no-automatic-move ([#59553](https://github.com/CleverRaven/Cataclysm-DDA/pull/59553))
 * Fix condensed milk description ([#59562](https://github.com/CleverRaven/Cataclysm-DDA/pull/59562))
@@ -198,18 +205,11 @@
 * Show key binding in sidebar hint ([#59574](https://github.com/CleverRaven/Cataclysm-DDA/pull/59574))
 * Trying to fix Two Definitions error ([#59578](https://github.com/CleverRaven/Cataclysm-DDA/pull/59578))
 * Routine Tileset updates on 24 July 2022 ([#59573](https://github.com/CleverRaven/Cataclysm-DDA/pull/59573))
-* damaged armor scaling appropriately ([#59529](https://github.com/CleverRaven/Cataclysm-DDA/pull/59529))
-* Correctly color price when comparing items. ([#59527](https://github.com/CleverRaven/Cataclysm-DDA/pull/59527))
 * Add hotkeys for world interaction ([#59542](https://github.com/CleverRaven/Cataclysm-DDA/pull/59542))
 * add city building: salon ([#59535](https://github.com/CleverRaven/Cataclysm-DDA/pull/59535))
 * no burners at outpost ([#59538](https://github.com/CleverRaven/Cataclysm-DDA/pull/59538))
 * Enable bugprone-misplaced-widening-cast ([#59534](https://github.com/CleverRaven/Cataclysm-DDA/pull/59534))
 * Enable clang-tidy check performance-unnecessary-value-param ([#59533](https://github.com/CleverRaven/Cataclysm-DDA/pull/59533))
-* Fix: Monologue message no longer appears after loading a saved game. ([#59525](https://github.com/CleverRaven/Cataclysm-DDA/pull/59525))
-* Reduce mongroup object size ([#59528](https://github.com/CleverRaven/Cataclysm-DDA/pull/59528))
 * fix: missing spaces ([#59532](https://github.com/CleverRaven/Cataclysm-DDA/pull/59532))
-* aim game ranged training ([#59520](https://github.com/CleverRaven/Cataclysm-DDA/pull/59520))
 * `map_cursor::visit_items` checks furniture for pseudo items ([#59536](https://github.com/CleverRaven/Cataclysm-DDA/pull/59536))
 * try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
-* Routine i18n updates on 23 July 2022 ([#59519](https://github.com/CleverRaven/Cataclysm-DDA/pull/59519))
-* [ Xedra Evolved ] Typo ([#59518](https://github.com/CleverRaven/Cataclysm-DDA/pull/59518))
