@@ -27,6 +27,8 @@ Cataclysm-DDA experimental build 2022-08-01-2123 (87d7944)
 * Added possibility to remove several new types of wooden walls (#59756)
 * [DinoMod] fix dino loot (#59812)
 * [DinoMod] faster egg cooking (#59813)
+
+Cataclysm-DDA experimental build 2022-08-01-1958 (033cadd)
 * fix a clang issue (#59814)
 
 Cataclysm-DDA experimental build 2022-08-01-0625 (6b19368)
@@ -49,6 +51,8 @@ Cataclysm-DDA experimental build 2022-07-31-1927 (d94233a)
 * Innawoods updating 2 (#59772)
 * Translate radio onomatopoeia (#59773)
 * Basic Innawoods appliances (#59784)
+
+Cataclysm-DDA experimental build 2022-07-31-1810 (c3e8489)
 * Cataphract armor is armor (#59785)
 
 Cataclysm-DDA experimental build 2022-07-31-0646 (57fe6ea)
@@ -56,7 +60,11 @@ Cataclysm-DDA experimental build 2022-07-31-0646 (57fe6ea)
 
 Cataclysm-DDA experimental build 2022-07-31-0201 (330becb)
 * [DinoMod] nanosaurus (#59742)
+
+Cataclysm-DDA experimental build 2022-07-30-2302 (049f21a)
 * AFS Translocation CBM spell loses concentration bugfix (#59770)
+
+Cataclysm-DDA experimental build 2022-07-30-1958 (b4156a0)
 * Fix stat check inconsistency (#59746)
 * soaking dandelion (#59738)
 
