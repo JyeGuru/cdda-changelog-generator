@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-02-1902 ([feedfd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-1902))
+
 * Re-adopted PR: Persist installed CBMs across revives ([#59817](https://github.com/CleverRaven/Cataclysm-DDA/pull/59817))
 
 ---
@@ -43,11 +48,6 @@
 * Added possibility to remove several new types of wooden walls ([#59756](https://github.com/CleverRaven/Cataclysm-DDA/pull/59756))
 * [DinoMod] fix dino loot ([#59812](https://github.com/CleverRaven/Cataclysm-DDA/pull/59812))
 * [DinoMod] faster egg cooking ([#59813](https://github.com/CleverRaven/Cataclysm-DDA/pull/59813))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-01-1958 ([033cadd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-1958))
-
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
 
 ---
@@ -136,11 +136,6 @@
 
 * Bugfix: Fix widget and label alignment ([#59676](https://github.com/CleverRaven/Cataclysm-DDA/pull/59676))
 * Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-29-1610 ([7691b76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1610))
-
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
 
 ---
@@ -154,11 +149,6 @@
 #### Cataclysm-DDA experimental build 2022-07-29-0705 ([a838451](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0705))
 
 * Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-29-0343 ([39e00b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0343))
-
 * Improve scrolling of profession and background tabs in character creation ([#59653](https://github.com/CleverRaven/Cataclysm-DDA/pull/59653))
 * fix:Parser(profession.py) missed out gendered description ([#59622](https://github.com/CleverRaven/Cataclysm-DDA/pull/59622))
 * Extend and tweak sidebar "structured" ([#59589](https://github.com/CleverRaven/Cataclysm-DDA/pull/59589))
@@ -172,11 +162,6 @@
 * Make Aftershock Phones Waterproof ([#59695](https://github.com/CleverRaven/Cataclysm-DDA/pull/59695))
 * Translate furniture prying action messages ([#59693](https://github.com/CleverRaven/Cataclysm-DDA/pull/59693))
 * Multiple Tile Sets Based On Zoom Level ([#59666](https://github.com/CleverRaven/Cataclysm-DDA/pull/59666))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-29-0223 ([536808e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0223))
-
 * Always draw MF_ALWAYS_VISIBLE monsters in Tiles ([#59623](https://github.com/CleverRaven/Cataclysm-DDA/pull/59623))
 * Use more damaged lockpicks whenever picking a lock ([#59644](https://github.com/CleverRaven/Cataclysm-DDA/pull/59644))
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats ([#59654](https://github.com/CleverRaven/Cataclysm-DDA/pull/59654))

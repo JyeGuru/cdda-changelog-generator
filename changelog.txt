@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-02-1902 (feedfd2)
 * Re-adopted PR: Persist installed CBMs across revives (#59817)
 
 Cataclysm-DDA experimental build 2022-08-02-1712 (47d49b1)
@@ -25,8 +27,6 @@ Cataclysm-DDA experimental build 2022-08-01-2123 (87d7944)
 * Added possibility to remove several new types of wooden walls (#59756)
 * [DinoMod] fix dino loot (#59812)
 * [DinoMod] faster egg cooking (#59813)
-
-Cataclysm-DDA experimental build 2022-08-01-1958 (033cadd)
 * fix a clang issue (#59814)
 
 Cataclysm-DDA experimental build 2022-08-01-0625 (6b19368)
@@ -79,8 +79,6 @@ Cataclysm-DDA experimental build 2022-07-30-1031 (3b41d64)
 Cataclysm-DDA experimental build 2022-07-30-0545 (03c64e9)
 * Bugfix: Fix widget and label alignment (#59676)
 * Remove obsolete nato_assault_rifle (#59729)
-
-Cataclysm-DDA experimental build 2022-07-29-1610 (7691b76)
 * fix for bio, cold and lightning damaging clothes (#59736)
 
 Cataclysm-DDA experimental build 2022-07-29-1458 (065cfb2)
@@ -88,8 +86,6 @@ Cataclysm-DDA experimental build 2022-07-29-1458 (065cfb2)
 
 Cataclysm-DDA experimental build 2022-07-29-0705 (a838451)
 * Yet another debug cardio fix (#59721)
-
-Cataclysm-DDA experimental build 2022-07-29-0343 (39e00b7)
 * Improve scrolling of profession and background tabs in character creation (#59653)
 * fix:Parser(profession.py) missed out gendered description (#59622)
 * Extend and tweak sidebar "structured" (#59589)
@@ -103,8 +99,6 @@ Cataclysm-DDA experimental build 2022-07-29-0343 (39e00b7)
 * Make Aftershock Phones Waterproof (#59695)
 * Translate furniture prying action messages (#59693)
 * Multiple Tile Sets Based On Zoom Level (#59666)
-
-Cataclysm-DDA experimental build 2022-07-29-0223 (536808e)
 * Always draw MF_ALWAYS_VISIBLE monsters in Tiles (#59623)
 * Use more damaged lockpicks whenever picking a lock (#59644)
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats (#59654)
