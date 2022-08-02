@@ -1,3 +1,7 @@
+* Re-adopted PR: Persist installed CBMs across revives (#59817)
+
+Cataclysm-DDA experimental build 2022-08-02-1712 (47d49b1)
+* Updating instability thresholds to match changes in PR #58832 (#59818)
 
 Cataclysm-DDA experimental build 2022-08-02-1510 (ebdbd8e)
 * Add compatible guns to magazine iteminfo (#59728)
@@ -104,8 +108,6 @@ Cataclysm-DDA experimental build 2022-07-29-0343 (39e00b7)
 * Make Aftershock Phones Waterproof (#59695)
 * Translate furniture prying action messages (#59693)
 * Multiple Tile Sets Based On Zoom Level (#59666)
-
-Cataclysm-DDA experimental build 2022-07-29-0223 (536808e)
 * Always draw MF_ALWAYS_VISIBLE monsters in Tiles (#59623)
 * Use more damaged lockpicks whenever picking a lock (#59644)
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats (#59654)
@@ -141,5 +143,3 @@ Cataclysm-DDA experimental build 2022-07-29-0223 (536808e)
 * Trying to fix Two Definitions error (#59578)
 * Routine Tileset updates on 24 July 2022 (#59573)
 * Add hotkeys for world interaction (#59542)
-* no burners at outpost (#59538)
-* try and fix errors (#59537)

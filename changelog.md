@@ -1,3 +1,10 @@
+* Re-adopted PR: Persist installed CBMs across revives ([#59817](https://github.com/CleverRaven/Cataclysm-DDA/pull/59817))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-02-1712 ([47d49b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-1712))
+
+* Updating instability thresholds to match changes in PR #58832 ([#59818](https://github.com/CleverRaven/Cataclysm-DDA/pull/59818))
 
 ---
 
@@ -176,11 +183,6 @@
 * Make Aftershock Phones Waterproof ([#59695](https://github.com/CleverRaven/Cataclysm-DDA/pull/59695))
 * Translate furniture prying action messages ([#59693](https://github.com/CleverRaven/Cataclysm-DDA/pull/59693))
 * Multiple Tile Sets Based On Zoom Level ([#59666](https://github.com/CleverRaven/Cataclysm-DDA/pull/59666))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-29-0223 ([536808e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0223))
-
 * Always draw MF_ALWAYS_VISIBLE monsters in Tiles ([#59623](https://github.com/CleverRaven/Cataclysm-DDA/pull/59623))
 * Use more damaged lockpicks whenever picking a lock ([#59644](https://github.com/CleverRaven/Cataclysm-DDA/pull/59644))
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats ([#59654](https://github.com/CleverRaven/Cataclysm-DDA/pull/59654))
@@ -216,5 +218,3 @@
 * Trying to fix Two Definitions error ([#59578](https://github.com/CleverRaven/Cataclysm-DDA/pull/59578))
 * Routine Tileset updates on 24 July 2022 ([#59573](https://github.com/CleverRaven/Cataclysm-DDA/pull/59573))
 * Add hotkeys for world interaction ([#59542](https://github.com/CleverRaven/Cataclysm-DDA/pull/59542))
-* no burners at outpost ([#59538](https://github.com/CleverRaven/Cataclysm-DDA/pull/59538))
-* try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
