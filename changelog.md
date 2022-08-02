@@ -48,6 +48,11 @@
 * Added possibility to remove several new types of wooden walls ([#59756](https://github.com/CleverRaven/Cataclysm-DDA/pull/59756))
 * [DinoMod] fix dino loot ([#59812](https://github.com/CleverRaven/Cataclysm-DDA/pull/59812))
 * [DinoMod] faster egg cooking ([#59813](https://github.com/CleverRaven/Cataclysm-DDA/pull/59813))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-01-1958 ([033cadd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-1958))
+
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
 
 ---
@@ -97,6 +102,11 @@
 #### Cataclysm-DDA experimental build 2022-07-31-0646 ([57fe6ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-0646))
 
 * More sensible message when trying to activate your bare hands ([#59761](https://github.com/CleverRaven/Cataclysm-DDA/pull/59761))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-31-0201 ([330becb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-0201))
+
 * [DinoMod] nanosaurus ([#59742](https://github.com/CleverRaven/Cataclysm-DDA/pull/59742))
 
 ---
@@ -135,7 +145,17 @@
 #### Cataclysm-DDA experimental build 2022-07-30-0545 ([03c64e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-0545))
 
 * Bugfix: Fix widget and label alignment ([#59676](https://github.com/CleverRaven/Cataclysm-DDA/pull/59676))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-29-1734 ([96807af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1734))
+
 * Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-29-1610 ([7691b76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1610))
+
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
 
 ---
