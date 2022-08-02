@@ -1,3 +1,4 @@
+* Add compatible guns to magazine iteminfo (#59728)
 * Remove Obsolete Cotton Patch Recipe (#59788)
 
 Cataclysm-DDA experimental build 2022-08-02-1408 (bb466f7)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2022-07-29-0223 (536808e)
 * Routine Tileset updates on 24 July 2022 (#59573)
 * Add hotkeys for world interaction (#59542)
 * no burners at outpost (#59538)
-* `map_cursor::visit_items` checks furniture for pseudo items (#59536)
 * try and fix errors (#59537)
