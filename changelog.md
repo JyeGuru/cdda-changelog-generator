@@ -97,11 +97,6 @@
 #### Cataclysm-DDA experimental build 2022-07-31-0646 ([57fe6ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-0646))
 
 * More sensible message when trying to activate your bare hands ([#59761](https://github.com/CleverRaven/Cataclysm-DDA/pull/59761))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-31-0201 ([330becb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-0201))
-
 * [DinoMod] nanosaurus ([#59742](https://github.com/CleverRaven/Cataclysm-DDA/pull/59742))
 
 ---
@@ -140,11 +135,6 @@
 #### Cataclysm-DDA experimental build 2022-07-30-0545 ([03c64e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-0545))
 
 * Bugfix: Fix widget and label alignment ([#59676](https://github.com/CleverRaven/Cataclysm-DDA/pull/59676))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-29-1734 ([96807af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1734))
-
 * Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))
 
 ---
@@ -175,7 +165,6 @@
 * Mod-blacklisted holsters, repair tools, and compatible magazines won't be shown in item description ([#59555](https://github.com/CleverRaven/Cataclysm-DDA/pull/59555))
 * Improve radio scanning experience, make it more likely there will be radios in range ([#59550](https://github.com/CleverRaven/Cataclysm-DDA/pull/59550))
 * Fix crash firing vehicle flamethrower when not using controls ([#59544](https://github.com/CleverRaven/Cataclysm-DDA/pull/59544))
-* Fix ammo color coding acting strange with speedloaders ([#59541](https://github.com/CleverRaven/Cataclysm-DDA/pull/59541))
 * Fix GCC LTO build uninitialized value false positive. ([#59645](https://github.com/CleverRaven/Cataclysm-DDA/pull/59645))
 * added mods, molle and always unload as unload zone options ([#59612](https://github.com/CleverRaven/Cataclysm-DDA/pull/59612))
 * New color theme - vintage ([#59719](https://github.com/CleverRaven/Cataclysm-DDA/pull/59719))
@@ -183,6 +172,11 @@
 * Make Aftershock Phones Waterproof ([#59695](https://github.com/CleverRaven/Cataclysm-DDA/pull/59695))
 * Translate furniture prying action messages ([#59693](https://github.com/CleverRaven/Cataclysm-DDA/pull/59693))
 * Multiple Tile Sets Based On Zoom Level ([#59666](https://github.com/CleverRaven/Cataclysm-DDA/pull/59666))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-29-0223 ([536808e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0223))
+
 * Always draw MF_ALWAYS_VISIBLE monsters in Tiles ([#59623](https://github.com/CleverRaven/Cataclysm-DDA/pull/59623))
 * Use more damaged lockpicks whenever picking a lock ([#59644](https://github.com/CleverRaven/Cataclysm-DDA/pull/59644))
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats ([#59654](https://github.com/CleverRaven/Cataclysm-DDA/pull/59654))
