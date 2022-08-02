@@ -174,11 +174,6 @@
 
 * Fake cameras so vision is not impacted ([#59714](https://github.com/CleverRaven/Cataclysm-DDA/pull/59714))
 * [Innawood] Remove bow sling from archery item group ([#59649](https://github.com/CleverRaven/Cataclysm-DDA/pull/59649))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-28-0518 ([05ebec5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-28-0518))
-
 * Fix swapped training dialogue with John Bailey ([#59689](https://github.com/CleverRaven/Cataclysm-DDA/pull/59689))
 * update to try and fix checks ([#59687](https://github.com/CleverRaven/Cataclysm-DDA/pull/59687))
 * Fix mapbuffer crash ([#59648](https://github.com/CleverRaven/Cataclysm-DDA/pull/59648))

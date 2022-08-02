@@ -105,8 +105,6 @@ Cataclysm-DDA experimental build 2022-07-29-0223 (536808e)
 Cataclysm-DDA experimental build 2022-07-28-1821 (6c5cc24)
 * Fake cameras so vision is not impacted (#59714)
 * [Innawood] Remove bow sling from archery item group (#59649)
-
-Cataclysm-DDA experimental build 2022-07-28-0518 (05ebec5)
 * Fix swapped training dialogue with John Bailey (#59689)
 * update to try and fix checks (#59687)
 * Fix mapbuffer crash (#59648)
