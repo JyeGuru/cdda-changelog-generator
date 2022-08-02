@@ -1,3 +1,10 @@
+* Remove Obsolete Cotton Patch Recipe ([#59788](https://github.com/CleverRaven/Cataclysm-DDA/pull/59788))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-02-1408 ([bb466f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-1408))
+
+* Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
 
 ---
 
@@ -173,11 +180,6 @@
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats ([#59654](https://github.com/CleverRaven/Cataclysm-DDA/pull/59654))
 * Disable folding appliances ([#59665](https://github.com/CleverRaven/Cataclysm-DDA/pull/59665))
 * Jsonize crater map extra ([#59717](https://github.com/CleverRaven/Cataclysm-DDA/pull/59717))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-28-1821 ([6c5cc24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-28-1821))
-
 * Fake cameras so vision is not impacted ([#59714](https://github.com/CleverRaven/Cataclysm-DDA/pull/59714))
 * [Innawood] Remove bow sling from archery item group ([#59649](https://github.com/CleverRaven/Cataclysm-DDA/pull/59649))
 * Fix swapped training dialogue with John Bailey ([#59689](https://github.com/CleverRaven/Cataclysm-DDA/pull/59689))
@@ -208,8 +210,6 @@
 * Trying to fix Two Definitions error ([#59578](https://github.com/CleverRaven/Cataclysm-DDA/pull/59578))
 * Routine Tileset updates on 24 July 2022 ([#59573](https://github.com/CleverRaven/Cataclysm-DDA/pull/59573))
 * Add hotkeys for world interaction ([#59542](https://github.com/CleverRaven/Cataclysm-DDA/pull/59542))
-* add city building: salon ([#59535](https://github.com/CleverRaven/Cataclysm-DDA/pull/59535))
 * no burners at outpost ([#59538](https://github.com/CleverRaven/Cataclysm-DDA/pull/59538))
-* Enable bugprone-misplaced-widening-cast ([#59534](https://github.com/CleverRaven/Cataclysm-DDA/pull/59534))
 * `map_cursor::visit_items` checks furniture for pseudo items ([#59536](https://github.com/CleverRaven/Cataclysm-DDA/pull/59536))
 * try and fix errors ([#59537](https://github.com/CleverRaven/Cataclysm-DDA/pull/59537))
