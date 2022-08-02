@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-02-1510 ([ebdbd8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-1510))
+
 * Add compatible guns to magazine iteminfo ([#59728](https://github.com/CleverRaven/Cataclysm-DDA/pull/59728))
 * Remove Obsolete Cotton Patch Recipe ([#59788](https://github.com/CleverRaven/Cataclysm-DDA/pull/59788))
 

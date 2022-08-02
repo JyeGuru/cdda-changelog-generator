@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-02-1510 (ebdbd8e)
 * Add compatible guns to magazine iteminfo (#59728)
 * Remove Obsolete Cotton Patch Recipe (#59788)
 
