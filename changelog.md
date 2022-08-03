@@ -133,11 +133,6 @@
 #### Cataclysm-DDA experimental build 2022-07-31-0646 ([57fe6ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-0646))
 
 * More sensible message when trying to activate your bare hands ([#59761](https://github.com/CleverRaven/Cataclysm-DDA/pull/59761))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-31-0201 ([330becb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-0201))
-
 * [DinoMod] nanosaurus ([#59742](https://github.com/CleverRaven/Cataclysm-DDA/pull/59742))
 
 ---
