@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-03-2137 (e97e553)
 * Refactor forage result messaging and poison/hallucinogen chance (#59854)
 * Allow to overwrite color for text widgets (#59861)
 
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2022-07-30-1843 (f739133)
 * Fixed mouse move not working (#59757)
 * Don't print any of guilt messages if player wasn't the killer (#59760)
 * Removed mention of deprecated flags from docs (#59762)
-
-Cataclysm-DDA experimental build 2022-07-30-1031 (3b41d64)
 * Fix Uncanny Dodge description (#59733)
 * Bugfix: Fix widget and label alignment (#59676)
 * Remove obsolete nato_assault_rifle (#59729)
