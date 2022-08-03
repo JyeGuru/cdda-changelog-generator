@@ -53,6 +53,8 @@ Cataclysm-DDA experimental build 2022-08-01-0625 (6b19368)
 
 Cataclysm-DDA experimental build 2022-08-01-0506 (99705f8)
 * dedicated unload loot button (#59596)
+
+Cataclysm-DDA experimental build 2022-08-01-0345 (6140950)
 * Force appliances vpart location to "structure" (#59777)
 * Display appliances in iteminfo separately (#59779)
 * Enable clang-tidy check readability-make-member-function-const (#59790)
@@ -105,11 +107,7 @@ Cataclysm-DDA experimental build 2022-07-29-1610 (7691b76)
 
 Cataclysm-DDA experimental build 2022-07-29-1458 (065cfb2)
 * Fix excessive monster spawns (#59724)
-
-Cataclysm-DDA experimental build 2022-07-29-0705 (a838451)
 * Yet another debug cardio fix (#59721)
-
-Cataclysm-DDA experimental build 2022-07-29-0343 (39e00b7)
 * Improve scrolling of profession and background tabs in character creation (#59653)
 * fix:Parser(profession.py) missed out gendered description (#59622)
 * Extend and tweak sidebar "structured" (#59589)

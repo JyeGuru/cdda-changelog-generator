@@ -86,6 +86,11 @@
 #### Cataclysm-DDA experimental build 2022-08-01-0506 ([99705f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0506))
 
 * dedicated unload loot button ([#59596](https://github.com/CleverRaven/Cataclysm-DDA/pull/59596))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-01-0345 ([6140950](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0345))
+
 * Force appliances vpart location to "structure" ([#59777](https://github.com/CleverRaven/Cataclysm-DDA/pull/59777))
 * Display appliances in iteminfo separately ([#59779](https://github.com/CleverRaven/Cataclysm-DDA/pull/59779))
 * Enable clang-tidy check readability-make-member-function-const ([#59790](https://github.com/CleverRaven/Cataclysm-DDA/pull/59790))
@@ -177,17 +182,7 @@
 #### Cataclysm-DDA experimental build 2022-07-29-1458 ([065cfb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1458))
 
 * Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-29-0705 ([a838451](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0705))
-
 * Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-29-0343 ([39e00b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0343))
-
 * Improve scrolling of profession and background tabs in character creation ([#59653](https://github.com/CleverRaven/Cataclysm-DDA/pull/59653))
 * fix:Parser(profession.py) missed out gendered description ([#59622](https://github.com/CleverRaven/Cataclysm-DDA/pull/59622))
 * Extend and tweak sidebar "structured" ([#59589](https://github.com/CleverRaven/Cataclysm-DDA/pull/59589))
