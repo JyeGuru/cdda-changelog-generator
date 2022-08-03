@@ -176,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-07-29-1610 ([7691b76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1610))
 
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-29-1458 ([065cfb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1458))
-
 * Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
 * Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
 * Improve scrolling of profession and background tabs in character creation ([#59653](https://github.com/CleverRaven/Cataclysm-DDA/pull/59653))
