@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-03-0526 ([e29f56a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-0526))
+
+* [Innawoods] Electrolysis kit can use clay car batteries standard ([#59826](https://github.com/CleverRaven/Cataclysm-DDA/pull/59826))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-02-1902 ([feedfd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-1902))
 
 * Re-adopted PR: Persist installed CBMs across revives ([#59817](https://github.com/CleverRaven/Cataclysm-DDA/pull/59817))
@@ -163,18 +169,12 @@
 #### Cataclysm-DDA experimental build 2022-07-29-1458 ([065cfb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1458))
 
 * Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-29-0705 ([a838451](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0705))
-
 * Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
 * Improve scrolling of profession and background tabs in character creation ([#59653](https://github.com/CleverRaven/Cataclysm-DDA/pull/59653))
 * fix:Parser(profession.py) missed out gendered description ([#59622](https://github.com/CleverRaven/Cataclysm-DDA/pull/59622))
 * Extend and tweak sidebar "structured" ([#59589](https://github.com/CleverRaven/Cataclysm-DDA/pull/59589))
 * Mod-blacklisted holsters, repair tools, and compatible magazines won't be shown in item description ([#59555](https://github.com/CleverRaven/Cataclysm-DDA/pull/59555))
 * Improve radio scanning experience, make it more likely there will be radios in range ([#59550](https://github.com/CleverRaven/Cataclysm-DDA/pull/59550))
-* Fix crash firing vehicle flamethrower when not using controls ([#59544](https://github.com/CleverRaven/Cataclysm-DDA/pull/59544))
 * Fix GCC LTO build uninitialized value false positive. ([#59645](https://github.com/CleverRaven/Cataclysm-DDA/pull/59645))
 * added mods, molle and always unload as unload zone options ([#59612](https://github.com/CleverRaven/Cataclysm-DDA/pull/59612))
 * New color theme - vintage ([#59719](https://github.com/CleverRaven/Cataclysm-DDA/pull/59719))

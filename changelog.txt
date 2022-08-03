@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-03-0526 (e29f56a)
+* [Innawoods] Electrolysis kit can use clay car batteries standard (#59826)
+
 Cataclysm-DDA experimental build 2022-08-02-1902 (feedfd2)
 * Re-adopted PR: Persist installed CBMs across revives (#59817)
 
@@ -91,15 +94,12 @@ Cataclysm-DDA experimental build 2022-07-29-1610 (7691b76)
 
 Cataclysm-DDA experimental build 2022-07-29-1458 (065cfb2)
 * Fix excessive monster spawns (#59724)
-
-Cataclysm-DDA experimental build 2022-07-29-0705 (a838451)
 * Yet another debug cardio fix (#59721)
 * Improve scrolling of profession and background tabs in character creation (#59653)
 * fix:Parser(profession.py) missed out gendered description (#59622)
 * Extend and tweak sidebar "structured" (#59589)
 * Mod-blacklisted holsters, repair tools, and compatible magazines won't be shown in item description (#59555)
 * Improve radio scanning experience, make it more likely there will be radios in range (#59550)
-* Fix crash firing vehicle flamethrower when not using controls (#59544)
 * Fix GCC LTO build uninitialized value false positive. (#59645)
 * added mods, molle and always unload as unload zone options (#59612)
 * New color theme - vintage (#59719)
