@@ -1,3 +1,16 @@
+* Use units::energy for ups ([#59584](https://github.com/CleverRaven/Cataclysm-DDA/pull/59584))
+* npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
+* Fix inconsistent window description ([#59737](https://github.com/CleverRaven/Cataclysm-DDA/pull/59737))
+* Add a basic Kickboxing martial arts ([#59732](https://github.com/CleverRaven/Cataclysm-DDA/pull/59732))
+* Connections for mutable specials ([#59822](https://github.com/CleverRaven/Cataclysm-DDA/pull/59822))
+* fixed PC zone wood chopping yield ([#59752](https://github.com/CleverRaven/Cataclysm-DDA/pull/59752))
+* Forbade illegal dual zone tile processing ([#59811](https://github.com/CleverRaven/Cataclysm-DDA/pull/59811))
+* Disassembling crafted still now require 30 seconds instead of 200 minutes ([#59775](https://github.com/CleverRaven/Cataclysm-DDA/pull/59775))
+* shark suit -> sharksuit (and updates uncanny dodge desc as an item, which I forgot) ([#59758](https://github.com/CleverRaven/Cataclysm-DDA/pull/59758))
+* Replace plastic with rubber for bow dampening kit ([#59793](https://github.com/CleverRaven/Cataclysm-DDA/pull/59793))
+* Ecu 'n' kevlar ([#59776](https://github.com/CleverRaven/Cataclysm-DDA/pull/59776))
+* Remove rare itemgroup extension from Aftershock ([#59840](https://github.com/CleverRaven/Cataclysm-DDA/pull/59840))
+* iexamine: shift map on elevator use ([#59842](https://github.com/CleverRaven/Cataclysm-DDA/pull/59842))
 
 ---
 
@@ -73,11 +86,6 @@
 #### Cataclysm-DDA experimental build 2022-08-01-0506 ([99705f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0506))
 
 * dedicated unload loot button ([#59596](https://github.com/CleverRaven/Cataclysm-DDA/pull/59596))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-01-0345 ([6140950](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0345))
-
 * Force appliances vpart location to "structure" ([#59777](https://github.com/CleverRaven/Cataclysm-DDA/pull/59777))
 * Display appliances in iteminfo separately ([#59779](https://github.com/CleverRaven/Cataclysm-DDA/pull/59779))
 * Enable clang-tidy check readability-make-member-function-const ([#59790](https://github.com/CleverRaven/Cataclysm-DDA/pull/59790))
@@ -169,12 +177,20 @@
 #### Cataclysm-DDA experimental build 2022-07-29-1458 ([065cfb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1458))
 
 * Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-29-0705 ([a838451](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0705))
+
 * Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-07-29-0343 ([39e00b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-0343))
+
 * Improve scrolling of profession and background tabs in character creation ([#59653](https://github.com/CleverRaven/Cataclysm-DDA/pull/59653))
 * fix:Parser(profession.py) missed out gendered description ([#59622](https://github.com/CleverRaven/Cataclysm-DDA/pull/59622))
 * Extend and tweak sidebar "structured" ([#59589](https://github.com/CleverRaven/Cataclysm-DDA/pull/59589))
-* Mod-blacklisted holsters, repair tools, and compatible magazines won't be shown in item description ([#59555](https://github.com/CleverRaven/Cataclysm-DDA/pull/59555))
-* Improve radio scanning experience, make it more likely there will be radios in range ([#59550](https://github.com/CleverRaven/Cataclysm-DDA/pull/59550))
 * Fix GCC LTO build uninitialized value false positive. ([#59645](https://github.com/CleverRaven/Cataclysm-DDA/pull/59645))
 * added mods, molle and always unload as unload zone options ([#59612](https://github.com/CleverRaven/Cataclysm-DDA/pull/59612))
 * New color theme - vintage ([#59719](https://github.com/CleverRaven/Cataclysm-DDA/pull/59719))
@@ -192,7 +208,6 @@
 * Fix swapped training dialogue with John Bailey ([#59689](https://github.com/CleverRaven/Cataclysm-DDA/pull/59689))
 * update to try and fix checks ([#59687](https://github.com/CleverRaven/Cataclysm-DDA/pull/59687))
 * Fix mapbuffer crash ([#59648](https://github.com/CleverRaven/Cataclysm-DDA/pull/59648))
-* Audit To-Hit for Bludgeons ([#59577](https://github.com/CleverRaven/Cataclysm-DDA/pull/59577))
 * [Mods] Overdosing targeted mutagen shouldn't damage you post-thresh ([#59610](https://github.com/CleverRaven/Cataclysm-DDA/pull/59610))
 * Add zipper bags to junk drawers ([#59672](https://github.com/CleverRaven/Cataclysm-DDA/pull/59672))
 * Show installable parts in item info ([#59661](https://github.com/CleverRaven/Cataclysm-DDA/pull/59661))
@@ -200,19 +215,9 @@
 * try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))
 * Prevent door motors closing doors on top of npcs/monsters ([#59609](https://github.com/CleverRaven/Cataclysm-DDA/pull/59609))
 * Move vehicle part migrations to json ([#59591](https://github.com/CleverRaven/Cataclysm-DDA/pull/59591))
-* Improve skill achievement requirement descriptions ([#59575](https://github.com/CleverRaven/Cataclysm-DDA/pull/59575))
-* Bugfix: Do not re-add deleted auto notes ([#59583](https://github.com/CleverRaven/Cataclysm-DDA/pull/59583))
 * Wrap text in widget/sidebar help ([#59592](https://github.com/CleverRaven/Cataclysm-DDA/pull/59592))
 * few quick tailoring material fixes ([#59594](https://github.com/CleverRaven/Cataclysm-DDA/pull/59594))
 * Remove HELMET_COMPAT ([#59604](https://github.com/CleverRaven/Cataclysm-DDA/pull/59604))
 * Expand snippets on signs and graffiti ([#59602](https://github.com/CleverRaven/Cataclysm-DDA/pull/59602))
 * Correct basecamp scanning + made basecamp fakes available as scanned ([#59605](https://github.com/CleverRaven/Cataclysm-DDA/pull/59605))
 * Inherit Flags Unit Test ([#59617](https://github.com/CleverRaven/Cataclysm-DDA/pull/59617))
-* Bugfix: Multiline widgets take one row too much ([#59571](https://github.com/CleverRaven/Cataclysm-DDA/pull/59571))
-* list changes in automatic tileset updates ([#59576](https://github.com/CleverRaven/Cataclysm-DDA/pull/59576))
-* Enable performance-no-automatic-move ([#59553](https://github.com/CleverRaven/Cataclysm-DDA/pull/59553))
-* Fix condensed milk description ([#59562](https://github.com/CleverRaven/Cataclysm-DDA/pull/59562))
-* Fix invalid body part id error ([#59570](https://github.com/CleverRaven/Cataclysm-DDA/pull/59570))
-* Show key binding in sidebar hint ([#59574](https://github.com/CleverRaven/Cataclysm-DDA/pull/59574))
-* Trying to fix Two Definitions error ([#59578](https://github.com/CleverRaven/Cataclysm-DDA/pull/59578))
-* Routine Tileset updates on 24 July 2022 ([#59573](https://github.com/CleverRaven/Cataclysm-DDA/pull/59573))
