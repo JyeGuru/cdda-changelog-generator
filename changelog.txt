@@ -1,3 +1,8 @@
+* Refactor forage result messaging and poison/hallucinogen chance (#59854)
+* Allow to overwrite color for text widgets (#59861)
+
+Cataclysm-DDA experimental build 2022-08-03-2035 (f7c1423)
+* Fix out-of-range widget colors (#59860)
 
 Cataclysm-DDA experimental build 2022-08-03-1733 (36eecef)
 * actions in the UI (#59802)
@@ -56,9 +61,6 @@ Cataclysm-DDA experimental build 2022-08-01-1958 (033cadd)
 Cataclysm-DDA experimental build 2022-08-01-0625 (6b19368)
 * Routine tileset updates on 31 July 2022 (#59803)
 * Make bodypart warmth available in conditions (#59801)
-
-Cataclysm-DDA experimental build 2022-08-01-0506 (99705f8)
-* dedicated unload loot button (#59596)
 
 Cataclysm-DDA experimental build 2022-08-01-0345 (6140950)
 * Force appliances vpart location to "structure" (#59777)
@@ -131,8 +133,6 @@ Cataclysm-DDA experimental build 2022-07-30-1031 (3b41d64)
 * Update the table of contents in doc/JSON_INFO.md (#59628)
 * try and fix more merge problems (#59650)
 * Prevent door motors closing doors on top of npcs/monsters (#59609)
-* Wrap text in widget/sidebar help (#59592)
-* few quick tailoring material fixes (#59594)
 * Remove HELMET_COMPAT (#59604)
 * Expand snippets on signs and graffiti (#59602)
 * Correct basecamp scanning + made basecamp fakes available as scanned (#59605)

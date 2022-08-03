@@ -1,3 +1,11 @@
+* Refactor forage result messaging and poison/hallucinogen chance ([#59854](https://github.com/CleverRaven/Cataclysm-DDA/pull/59854))
+* Allow to overwrite color for text widgets ([#59861](https://github.com/CleverRaven/Cataclysm-DDA/pull/59861))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-03-2035 ([f7c1423](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-2035))
+
+* Fix out-of-range widget colors ([#59860](https://github.com/CleverRaven/Cataclysm-DDA/pull/59860))
 
 ---
 
@@ -92,12 +100,6 @@
 
 * Routine tileset updates on 31 July 2022 ([#59803](https://github.com/CleverRaven/Cataclysm-DDA/pull/59803))
 * Make bodypart warmth available in conditions ([#59801](https://github.com/CleverRaven/Cataclysm-DDA/pull/59801))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-01-0506 ([99705f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0506))
-
-* dedicated unload loot button ([#59596](https://github.com/CleverRaven/Cataclysm-DDA/pull/59596))
 
 ---
 
@@ -200,8 +202,6 @@
 * Update the table of contents in doc/JSON_INFO.md ([#59628](https://github.com/CleverRaven/Cataclysm-DDA/pull/59628))
 * try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))
 * Prevent door motors closing doors on top of npcs/monsters ([#59609](https://github.com/CleverRaven/Cataclysm-DDA/pull/59609))
-* Wrap text in widget/sidebar help ([#59592](https://github.com/CleverRaven/Cataclysm-DDA/pull/59592))
-* few quick tailoring material fixes ([#59594](https://github.com/CleverRaven/Cataclysm-DDA/pull/59594))
 * Remove HELMET_COMPAT ([#59604](https://github.com/CleverRaven/Cataclysm-DDA/pull/59604))
 * Expand snippets on signs and graffiti ([#59602](https://github.com/CleverRaven/Cataclysm-DDA/pull/59602))
 * Correct basecamp scanning + made basecamp fakes available as scanned ([#59605](https://github.com/CleverRaven/Cataclysm-DDA/pull/59605))
