@@ -1,4 +1,5 @@
-* Use units::energy for ups ([#59584](https://github.com/CleverRaven/Cataclysm-DDA/pull/59584))
+* Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
+* Adds cremation and urns ([#59671](https://github.com/CleverRaven/Cataclysm-DDA/pull/59671))
 * npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
 * Fix inconsistent window description ([#59737](https://github.com/CleverRaven/Cataclysm-DDA/pull/59737))
 * Add a basic Kickboxing martial arts ([#59732](https://github.com/CleverRaven/Cataclysm-DDA/pull/59732))
@@ -170,17 +171,11 @@
 #### Cataclysm-DDA experimental build 2022-07-29-1734 ([96807af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1734))
 
 * Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-29-1610 ([7691b76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-29-1610))
-
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
 * Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
 * Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
 * Improve scrolling of profession and background tabs in character creation ([#59653](https://github.com/CleverRaven/Cataclysm-DDA/pull/59653))
 * fix:Parser(profession.py) missed out gendered description ([#59622](https://github.com/CleverRaven/Cataclysm-DDA/pull/59622))
-* Extend and tweak sidebar "structured" ([#59589](https://github.com/CleverRaven/Cataclysm-DDA/pull/59589))
 * Fix GCC LTO build uninitialized value false positive. ([#59645](https://github.com/CleverRaven/Cataclysm-DDA/pull/59645))
 * added mods, molle and always unload as unload zone options ([#59612](https://github.com/CleverRaven/Cataclysm-DDA/pull/59612))
 * New color theme - vintage ([#59719](https://github.com/CleverRaven/Cataclysm-DDA/pull/59719))
