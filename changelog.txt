@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-03-1733 (36eecef)
+* actions in the UI (#59802)
+
 Cataclysm-DDA experimental build 2022-08-03-1314 (1b4e2c9)
 * Aftershock Exosuit Module Tiers (#59845)
 * Adds cremation and urns (#59671)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2022-07-30-1843 (f739133)
 
 Cataclysm-DDA experimental build 2022-07-30-1031 (3b41d64)
 * Fix Uncanny Dodge description (#59733)
-
-Cataclysm-DDA experimental build 2022-07-30-0545 (03c64e9)
 * Bugfix: Fix widget and label alignment (#59676)
 * Remove obsolete nato_assault_rifle (#59729)
 * fix for bio, cold and lightning damaging clothes (#59736)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2022-07-30-0545 (03c64e9)
 * Update the table of contents in doc/JSON_INFO.md (#59628)
 * try and fix more merge problems (#59650)
 * Prevent door motors closing doors on top of npcs/monsters (#59609)
-* Move vehicle part migrations to json (#59591)
 * Wrap text in widget/sidebar help (#59592)
 * few quick tailoring material fixes (#59594)
 * Remove HELMET_COMPAT (#59604)

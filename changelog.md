@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-03-1733 ([36eecef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-1733))
+
+* actions in the UI ([#59802](https://github.com/CleverRaven/Cataclysm-DDA/pull/59802))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-03-1314 ([1b4e2c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-1314))
 
 * Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-07-30-1031 ([3b41d64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-1031))
 
 * Fix Uncanny Dodge description ([#59733](https://github.com/CleverRaven/Cataclysm-DDA/pull/59733))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-30-0545 ([03c64e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-0545))
-
 * Bugfix: Fix widget and label alignment ([#59676](https://github.com/CleverRaven/Cataclysm-DDA/pull/59676))
 * Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
@@ -199,7 +200,6 @@
 * Update the table of contents in doc/JSON_INFO.md ([#59628](https://github.com/CleverRaven/Cataclysm-DDA/pull/59628))
 * try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))
 * Prevent door motors closing doors on top of npcs/monsters ([#59609](https://github.com/CleverRaven/Cataclysm-DDA/pull/59609))
-* Move vehicle part migrations to json ([#59591](https://github.com/CleverRaven/Cataclysm-DDA/pull/59591))
 * Wrap text in widget/sidebar help ([#59592](https://github.com/CleverRaven/Cataclysm-DDA/pull/59592))
 * few quick tailoring material fixes ([#59594](https://github.com/CleverRaven/Cataclysm-DDA/pull/59594))
 * Remove HELMET_COMPAT ([#59604](https://github.com/CleverRaven/Cataclysm-DDA/pull/59604))
