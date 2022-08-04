@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-04-1138 ([e9808ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-1138))
+
 * Aluminum revolution ([#59720](https://github.com/CleverRaven/Cataclysm-DDA/pull/59720))
 
 ---
