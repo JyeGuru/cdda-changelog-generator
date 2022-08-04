@@ -1,6 +1,19 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-04-0252 ([12fb412](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-0252))
+
+* Update Liquid Ammonia Spawns ([#59872](https://github.com/CleverRaven/Cataclysm-DDA/pull/59872))
+* Bump spawns for nuts and bolts ([#59871](https://github.com/CleverRaven/Cataclysm-DDA/pull/59871))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-04-0109 ([cfbad93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-0109))
+
+* Audit To-Hit for Polearms ([#59606](https://github.com/CleverRaven/Cataclysm-DDA/pull/59606))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-03-2137 ([e97e553](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-2137))
 
 * Refactor forage result messaging and poison/hallucinogen chance ([#59854](https://github.com/CleverRaven/Cataclysm-DDA/pull/59854))
@@ -159,11 +172,6 @@
 
 * Fix stat check inconsistency ([#59746](https://github.com/CleverRaven/Cataclysm-DDA/pull/59746))
 * soaking dandelion ([#59738](https://github.com/CleverRaven/Cataclysm-DDA/pull/59738))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-30-1843 ([f739133](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-1843))
-
 * Routine i18n updates on 30 July 2022 ([#59750](https://github.com/CleverRaven/Cataclysm-DDA/pull/59750))
 * Tidy monster guns json ([#59630](https://github.com/CleverRaven/Cataclysm-DDA/pull/59630))
 * Rebalance base_colors-dark.json ([#59700](https://github.com/CleverRaven/Cataclysm-DDA/pull/59700))
@@ -202,7 +210,5 @@
 * Update the table of contents in doc/JSON_INFO.md ([#59628](https://github.com/CleverRaven/Cataclysm-DDA/pull/59628))
 * try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))
 * Prevent door motors closing doors on top of npcs/monsters ([#59609](https://github.com/CleverRaven/Cataclysm-DDA/pull/59609))
-* Remove HELMET_COMPAT ([#59604](https://github.com/CleverRaven/Cataclysm-DDA/pull/59604))
-* Expand snippets on signs and graffiti ([#59602](https://github.com/CleverRaven/Cataclysm-DDA/pull/59602))
 * Correct basecamp scanning + made basecamp fakes available as scanned ([#59605](https://github.com/CleverRaven/Cataclysm-DDA/pull/59605))
 * Inherit Flags Unit Test ([#59617](https://github.com/CleverRaven/Cataclysm-DDA/pull/59617))
