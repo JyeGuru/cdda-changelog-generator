@@ -1,3 +1,4 @@
+* Aluminum revolution ([#59720](https://github.com/CleverRaven/Cataclysm-DDA/pull/59720))
 
 ---
 
@@ -11,12 +12,6 @@
 
 * Update Liquid Ammonia Spawns ([#59872](https://github.com/CleverRaven/Cataclysm-DDA/pull/59872))
 * Bump spawns for nuts and bolts ([#59871](https://github.com/CleverRaven/Cataclysm-DDA/pull/59871))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-04-0109 ([cfbad93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-0109))
-
-* Audit To-Hit for Polearms ([#59606](https://github.com/CleverRaven/Cataclysm-DDA/pull/59606))
 
 ---
 
@@ -165,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-07-31-0201 ([330becb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-0201))
 
 * [DinoMod] nanosaurus ([#59742](https://github.com/CleverRaven/Cataclysm-DDA/pull/59742))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-30-2302 ([049f21a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-30-2302))
-
 * AFS Translocation CBM spell loses concentration bugfix ([#59770](https://github.com/CleverRaven/Cataclysm-DDA/pull/59770))
 * Fix stat check inconsistency ([#59746](https://github.com/CleverRaven/Cataclysm-DDA/pull/59746))
 * soaking dandelion ([#59738](https://github.com/CleverRaven/Cataclysm-DDA/pull/59738))

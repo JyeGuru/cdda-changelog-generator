@@ -1,3 +1,4 @@
+* Aluminum revolution (#59720)
 
 Cataclysm-DDA experimental build 2022-08-04-0720 (e947842)
 * Survivor machete quench tempering (#59859)
@@ -5,9 +6,6 @@ Cataclysm-DDA experimental build 2022-08-04-0720 (e947842)
 Cataclysm-DDA experimental build 2022-08-04-0252 (12fb412)
 * Update Liquid Ammonia Spawns (#59872)
 * Bump spawns for nuts and bolts (#59871)
-
-Cataclysm-DDA experimental build 2022-08-04-0109 (cfbad93)
-* Audit To-Hit for Polearms (#59606)
 
 Cataclysm-DDA experimental build 2022-08-03-2137 (e97e553)
 * Refactor forage result messaging and poison/hallucinogen chance (#59854)
@@ -96,8 +94,6 @@ Cataclysm-DDA experimental build 2022-07-31-0646 (57fe6ea)
 
 Cataclysm-DDA experimental build 2022-07-31-0201 (330becb)
 * [DinoMod] nanosaurus (#59742)
-
-Cataclysm-DDA experimental build 2022-07-30-2302 (049f21a)
 * AFS Translocation CBM spell loses concentration bugfix (#59770)
 * Fix stat check inconsistency (#59746)
 * soaking dandelion (#59738)
