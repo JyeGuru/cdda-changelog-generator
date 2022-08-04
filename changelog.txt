@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-04-0720 (e947842)
+* Survivor machete quench tempering (#59859)
+
 Cataclysm-DDA experimental build 2022-08-04-0252 (12fb412)
 * Update Liquid Ammonia Spawns (#59872)
 * Bump spawns for nuts and bolts (#59871)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2022-07-31-0201 (330becb)
 
 Cataclysm-DDA experimental build 2022-07-30-2302 (049f21a)
 * AFS Translocation CBM spell loses concentration bugfix (#59770)
-
-Cataclysm-DDA experimental build 2022-07-30-1958 (b4156a0)
 * Fix stat check inconsistency (#59746)
 * soaking dandelion (#59738)
 * Routine i18n updates on 30 July 2022 (#59750)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2022-07-30-1958 (b4156a0)
 * Update the table of contents in doc/JSON_INFO.md (#59628)
 * try and fix more merge problems (#59650)
 * Prevent door motors closing doors on top of npcs/monsters (#59609)
-* Correct basecamp scanning + made basecamp fakes available as scanned (#59605)
 * Inherit Flags Unit Test (#59617)
