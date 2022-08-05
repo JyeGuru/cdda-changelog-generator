@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-05-0622 (2096ccc)
 * seafood restaurant (#59844)
 * Cycle movement mode reverse action (#59846)
 * Clearer Health and Vitamin Fixes (#59722)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2022-08-01-0345 (6140950)
 
 Cataclysm-DDA experimental build 2022-08-01-0243 (c18a924)
 * Don't call field_at() separately for begin, end (#59799)
-
-Cataclysm-DDA experimental build 2022-07-31-1927 (d94233a)
 * Innawoods updating 2 (#59772)
 * Translate radio onomatopoeia (#59773)
 * Basic Innawoods appliances (#59784)

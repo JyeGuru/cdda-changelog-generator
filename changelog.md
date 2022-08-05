@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-05-0622 ([2096ccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-0622))
+
 * seafood restaurant ([#59844](https://github.com/CleverRaven/Cataclysm-DDA/pull/59844))
 * Cycle movement mode reverse action ([#59846](https://github.com/CleverRaven/Cataclysm-DDA/pull/59846))
 * Clearer Health and Vitamin Fixes ([#59722](https://github.com/CleverRaven/Cataclysm-DDA/pull/59722))
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-08-01-0243 ([c18a924](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0243))
 
 * Don't call field_at() separately for begin, end ([#59799](https://github.com/CleverRaven/Cataclysm-DDA/pull/59799))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-31-1927 ([d94233a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-1927))
-
 * Innawoods updating 2 ([#59772](https://github.com/CleverRaven/Cataclysm-DDA/pull/59772))
 * Translate radio onomatopoeia ([#59773](https://github.com/CleverRaven/Cataclysm-DDA/pull/59773))
 * Basic Innawoods appliances ([#59784](https://github.com/CleverRaven/Cataclysm-DDA/pull/59784))
