@@ -1,3 +1,15 @@
+* faction: fix price rule for count_by_charges() items ([#59878](https://github.com/CleverRaven/Cataclysm-DDA/pull/59878))
+* Powdered cheese and hard cheese tweaks ([#59899](https://github.com/CleverRaven/Cataclysm-DDA/pull/59899))
+* Fix permanent engine noise when fuel/epower runs out ([#59885](https://github.com/CleverRaven/Cataclysm-DDA/pull/59885))
+* Avoid UB and error when specifying activity level ([#59887](https://github.com/CleverRaven/Cataclysm-DDA/pull/59887))
+* Display charges in vending machines ([#59888](https://github.com/CleverRaven/Cataclysm-DDA/pull/59888))
+* lab_mutagen_ingredients_fridge should be extended, not overwritten in dinomod ([#59889](https://github.com/CleverRaven/Cataclysm-DDA/pull/59889))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-05-0521 ([8086d12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-0521))
+
+* Add proficiency requirements to nomad harness ([#59916](https://github.com/CleverRaven/Cataclysm-DDA/pull/59916))
 
 ---
 
@@ -159,11 +171,6 @@
 * Innawoods updating 2 ([#59772](https://github.com/CleverRaven/Cataclysm-DDA/pull/59772))
 * Translate radio onomatopoeia ([#59773](https://github.com/CleverRaven/Cataclysm-DDA/pull/59773))
 * Basic Innawoods appliances ([#59784](https://github.com/CleverRaven/Cataclysm-DDA/pull/59784))
-
----
-
-#### Cataclysm-DDA experimental build 2022-07-31-1810 ([c3e8489](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-07-31-1810))
-
 * Cataphract armor is armor ([#59785](https://github.com/CleverRaven/Cataclysm-DDA/pull/59785))
 * More sensible message when trying to activate your bare hands ([#59761](https://github.com/CleverRaven/Cataclysm-DDA/pull/59761))
 * [DinoMod] nanosaurus ([#59742](https://github.com/CleverRaven/Cataclysm-DDA/pull/59742))
@@ -171,7 +178,6 @@
 * Fix stat check inconsistency ([#59746](https://github.com/CleverRaven/Cataclysm-DDA/pull/59746))
 * soaking dandelion ([#59738](https://github.com/CleverRaven/Cataclysm-DDA/pull/59738))
 * Routine i18n updates on 30 July 2022 ([#59750](https://github.com/CleverRaven/Cataclysm-DDA/pull/59750))
-* Tidy monster guns json ([#59630](https://github.com/CleverRaven/Cataclysm-DDA/pull/59630))
 * Rebalance base_colors-dark.json ([#59700](https://github.com/CleverRaven/Cataclysm-DDA/pull/59700))
 * Remove 'f'illing batteries in vehicle interact ui ([#59726](https://github.com/CleverRaven/Cataclysm-DDA/pull/59726))
 * Fixed mouse move not working ([#59757](https://github.com/CleverRaven/Cataclysm-DDA/pull/59757))
@@ -184,16 +190,12 @@
 * Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
 * Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
 * Improve scrolling of profession and background tabs in character creation ([#59653](https://github.com/CleverRaven/Cataclysm-DDA/pull/59653))
-* fix:Parser(profession.py) missed out gendered description ([#59622](https://github.com/CleverRaven/Cataclysm-DDA/pull/59622))
 * Fix GCC LTO build uninitialized value false positive. ([#59645](https://github.com/CleverRaven/Cataclysm-DDA/pull/59645))
-* added mods, molle and always unload as unload zone options ([#59612](https://github.com/CleverRaven/Cataclysm-DDA/pull/59612))
 * New color theme - vintage ([#59719](https://github.com/CleverRaven/Cataclysm-DDA/pull/59719))
 * Replace deprecated travis-ci badge by GH actions badge ([#59703](https://github.com/CleverRaven/Cataclysm-DDA/pull/59703))
 * Make Aftershock Phones Waterproof ([#59695](https://github.com/CleverRaven/Cataclysm-DDA/pull/59695))
 * Translate furniture prying action messages ([#59693](https://github.com/CleverRaven/Cataclysm-DDA/pull/59693))
 * Multiple Tile Sets Based On Zoom Level ([#59666](https://github.com/CleverRaven/Cataclysm-DDA/pull/59666))
-* Always draw MF_ALWAYS_VISIBLE monsters in Tiles ([#59623](https://github.com/CleverRaven/Cataclysm-DDA/pull/59623))
-* Use more damaged lockpicks whenever picking a lock ([#59644](https://github.com/CleverRaven/Cataclysm-DDA/pull/59644))
 * Json fixes to a number of inconsistencies between disassembly yields and crafting mats ([#59654](https://github.com/CleverRaven/Cataclysm-DDA/pull/59654))
 * Disable folding appliances ([#59665](https://github.com/CleverRaven/Cataclysm-DDA/pull/59665))
 * Jsonize crater map extra ([#59717](https://github.com/CleverRaven/Cataclysm-DDA/pull/59717))
@@ -204,6 +206,4 @@
 * Fix mapbuffer crash ([#59648](https://github.com/CleverRaven/Cataclysm-DDA/pull/59648))
 * Add zipper bags to junk drawers ([#59672](https://github.com/CleverRaven/Cataclysm-DDA/pull/59672))
 * Show installable parts in item info ([#59661](https://github.com/CleverRaven/Cataclysm-DDA/pull/59661))
-* Update the table of contents in doc/JSON_INFO.md ([#59628](https://github.com/CleverRaven/Cataclysm-DDA/pull/59628))
 * try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))
-* Inherit Flags Unit Test ([#59617](https://github.com/CleverRaven/Cataclysm-DDA/pull/59617))
