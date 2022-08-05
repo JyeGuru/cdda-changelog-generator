@@ -39,6 +39,8 @@ Cataclysm-DDA experimental build 2022-08-03-2035 (f7c1423)
 
 Cataclysm-DDA experimental build 2022-08-03-1733 (36eecef)
 * actions in the UI (#59802)
+
+Cataclysm-DDA experimental build 2022-08-03-1314 (1b4e2c9)
 * Aftershock Exosuit Module Tiers (#59845)
 * Adds cremation and urns (#59671)
 * npc: add support for personal price rules (#59832)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2022-08-01-1958 (033cadd)
 Cataclysm-DDA experimental build 2022-08-01-0625 (6b19368)
 * Routine tileset updates on 31 July 2022 (#59803)
 * Make bodypart warmth available in conditions (#59801)
-
-Cataclysm-DDA experimental build 2022-08-01-0345 (6140950)
 * Force appliances vpart location to "structure" (#59777)
 * Display appliances in iteminfo separately (#59779)
 * Enable clang-tidy check readability-make-member-function-const (#59790)
