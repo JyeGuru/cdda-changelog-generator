@@ -1,3 +1,4 @@
+* Fixing up the metal arm/leg guards and adding more sheet metal armor. ([#59875](https://github.com/CleverRaven/Cataclysm-DDA/pull/59875))
 
 ---
 
@@ -150,11 +151,6 @@
 #### Cataclysm-DDA experimental build 2022-08-01-1958 ([033cadd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-1958))
 
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-01-0625 ([6b19368](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0625))
-
 * Routine tileset updates on 31 July 2022 ([#59803](https://github.com/CleverRaven/Cataclysm-DDA/pull/59803))
 * Make bodypart warmth available in conditions ([#59801](https://github.com/CleverRaven/Cataclysm-DDA/pull/59801))
 * Force appliances vpart location to "structure" ([#59777](https://github.com/CleverRaven/Cataclysm-DDA/pull/59777))
@@ -197,4 +193,3 @@
 * update to try and fix checks ([#59687](https://github.com/CleverRaven/Cataclysm-DDA/pull/59687))
 * Add zipper bags to junk drawers ([#59672](https://github.com/CleverRaven/Cataclysm-DDA/pull/59672))
 * Show installable parts in item info ([#59661](https://github.com/CleverRaven/Cataclysm-DDA/pull/59661))
-* try and fix more merge problems ([#59650](https://github.com/CleverRaven/Cataclysm-DDA/pull/59650))

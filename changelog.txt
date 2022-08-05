@@ -1,3 +1,4 @@
+* Fixing up the metal arm/leg guards and adding more sheet metal armor. (#59875)
 
 Cataclysm-DDA experimental build 2022-08-05-0622 (2096ccc)
 * seafood restaurant (#59844)
@@ -90,8 +91,6 @@ Cataclysm-DDA experimental build 2022-08-01-2123 (87d7944)
 
 Cataclysm-DDA experimental build 2022-08-01-1958 (033cadd)
 * fix a clang issue (#59814)
-
-Cataclysm-DDA experimental build 2022-08-01-0625 (6b19368)
 * Routine tileset updates on 31 July 2022 (#59803)
 * Make bodypart warmth available in conditions (#59801)
 * Force appliances vpart location to "structure" (#59777)
@@ -134,4 +133,3 @@ Cataclysm-DDA experimental build 2022-08-01-0625 (6b19368)
 * update to try and fix checks (#59687)
 * Add zipper bags to junk drawers (#59672)
 * Show installable parts in item info (#59661)
-* try and fix more merge problems (#59650)
