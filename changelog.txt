@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-05-0022 (c32d23c)
+* Fix Aftershock atomic smartphone flags (#59898)
+
 Cataclysm-DDA experimental build 2022-08-04-1310 (8f8b8d9)
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century (#59874)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2022-07-31-1927 (d94233a)
 
 Cataclysm-DDA experimental build 2022-07-31-1810 (c3e8489)
 * Cataphract armor is armor (#59785)
-
-Cataclysm-DDA experimental build 2022-07-31-0646 (57fe6ea)
 * More sensible message when trying to activate your bare hands (#59761)
 * [DinoMod] nanosaurus (#59742)
 * AFS Translocation CBM spell loses concentration bugfix (#59770)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2022-07-31-0646 (57fe6ea)
 * Fix swapped training dialogue with John Bailey (#59689)
 * update to try and fix checks (#59687)
 * Fix mapbuffer crash (#59648)
-* [Mods] Overdosing targeted mutagen shouldn't damage you post-thresh (#59610)
 * Add zipper bags to junk drawers (#59672)
 * Show installable parts in item info (#59661)
 * Update the table of contents in doc/JSON_INFO.md (#59628)
