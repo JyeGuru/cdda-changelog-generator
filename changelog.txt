@@ -100,8 +100,6 @@ Cataclysm-DDA experimental build 2022-08-01-0345 (6140950)
 * Display appliances in iteminfo separately (#59779)
 * Enable clang-tidy check readability-make-member-function-const (#59790)
 * Fix curses build with MSVC (#59794)
-
-Cataclysm-DDA experimental build 2022-08-01-0243 (c18a924)
 * Don't call field_at() separately for begin, end (#59799)
 * Innawoods updating 2 (#59772)
 * Translate radio onomatopoeia (#59773)
