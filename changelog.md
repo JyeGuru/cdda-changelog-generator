@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-05-1816 ([0c6d302](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-1816))
+
 * Fixing up the metal arm/leg guards and adding more sheet metal armor. ([#59875](https://github.com/CleverRaven/Cataclysm-DDA/pull/59875))
 
 ---
@@ -145,11 +150,6 @@
 * Added possibility to remove several new types of wooden walls ([#59756](https://github.com/CleverRaven/Cataclysm-DDA/pull/59756))
 * [DinoMod] fix dino loot ([#59812](https://github.com/CleverRaven/Cataclysm-DDA/pull/59812))
 * [DinoMod] faster egg cooking ([#59813](https://github.com/CleverRaven/Cataclysm-DDA/pull/59813))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-01-1958 ([033cadd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-1958))
-
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
 * Routine tileset updates on 31 July 2022 ([#59803](https://github.com/CleverRaven/Cataclysm-DDA/pull/59803))
 * Make bodypart warmth available in conditions ([#59801](https://github.com/CleverRaven/Cataclysm-DDA/pull/59801))

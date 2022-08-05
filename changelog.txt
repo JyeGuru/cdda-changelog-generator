@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-05-1816 (0c6d302)
 * Fixing up the metal arm/leg guards and adding more sheet metal armor. (#59875)
 
 Cataclysm-DDA experimental build 2022-08-05-0622 (2096ccc)
@@ -88,8 +90,6 @@ Cataclysm-DDA experimental build 2022-08-01-2123 (87d7944)
 * Added possibility to remove several new types of wooden walls (#59756)
 * [DinoMod] fix dino loot (#59812)
 * [DinoMod] faster egg cooking (#59813)
-
-Cataclysm-DDA experimental build 2022-08-01-1958 (033cadd)
 * fix a clang issue (#59814)
 * Routine tileset updates on 31 July 2022 (#59803)
 * Make bodypart warmth available in conditions (#59801)
