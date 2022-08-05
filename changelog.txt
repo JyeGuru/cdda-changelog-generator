@@ -94,8 +94,6 @@ Cataclysm-DDA experimental build 2022-08-01-1958 (033cadd)
 Cataclysm-DDA experimental build 2022-08-01-0625 (6b19368)
 * Routine tileset updates on 31 July 2022 (#59803)
 * Make bodypart warmth available in conditions (#59801)
-
-Cataclysm-DDA experimental build 2022-08-01-0345 (6140950)
 * Force appliances vpart location to "structure" (#59777)
 * Display appliances in iteminfo separately (#59779)
 * Enable clang-tidy check readability-make-member-function-const (#59790)

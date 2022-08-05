@@ -157,11 +157,6 @@
 
 * Routine tileset updates on 31 July 2022 ([#59803](https://github.com/CleverRaven/Cataclysm-DDA/pull/59803))
 * Make bodypart warmth available in conditions ([#59801](https://github.com/CleverRaven/Cataclysm-DDA/pull/59801))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-01-0345 ([6140950](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-01-0345))
-
 * Force appliances vpart location to "structure" ([#59777](https://github.com/CleverRaven/Cataclysm-DDA/pull/59777))
 * Display appliances in iteminfo separately ([#59779](https://github.com/CleverRaven/Cataclysm-DDA/pull/59779))
 * Enable clang-tidy check readability-make-member-function-const ([#59790](https://github.com/CleverRaven/Cataclysm-DDA/pull/59790))
