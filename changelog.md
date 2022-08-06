@@ -1,3 +1,5 @@
+* Update to skeletal politeness ([#59920](https://github.com/CleverRaven/Cataclysm-DDA/pull/59920))
+* Convert 2d arrays ([#59865](https://github.com/CleverRaven/Cataclysm-DDA/pull/59865))
 
 ---
 
@@ -180,11 +182,9 @@
 * Make Aftershock Phones Waterproof ([#59695](https://github.com/CleverRaven/Cataclysm-DDA/pull/59695))
 * Translate furniture prying action messages ([#59693](https://github.com/CleverRaven/Cataclysm-DDA/pull/59693))
 * Multiple Tile Sets Based On Zoom Level ([#59666](https://github.com/CleverRaven/Cataclysm-DDA/pull/59666))
-* Json fixes to a number of inconsistencies between disassembly yields and crafting mats ([#59654](https://github.com/CleverRaven/Cataclysm-DDA/pull/59654))
 * Disable folding appliances ([#59665](https://github.com/CleverRaven/Cataclysm-DDA/pull/59665))
 * Jsonize crater map extra ([#59717](https://github.com/CleverRaven/Cataclysm-DDA/pull/59717))
 * Fake cameras so vision is not impacted ([#59714](https://github.com/CleverRaven/Cataclysm-DDA/pull/59714))
 * Fix swapped training dialogue with John Bailey ([#59689](https://github.com/CleverRaven/Cataclysm-DDA/pull/59689))
 * update to try and fix checks ([#59687](https://github.com/CleverRaven/Cataclysm-DDA/pull/59687))
 * Add zipper bags to junk drawers ([#59672](https://github.com/CleverRaven/Cataclysm-DDA/pull/59672))
-* Show installable parts in item info ([#59661](https://github.com/CleverRaven/Cataclysm-DDA/pull/59661))
