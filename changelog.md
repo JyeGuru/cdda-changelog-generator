@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-06-1246 ([e46c679](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1246))
+
 * fix wrong category for combat/survivor machete ([#59925](https://github.com/CleverRaven/Cataclysm-DDA/pull/59925))
 
 ---
@@ -145,11 +150,6 @@
 #### Cataclysm-DDA experimental build 2022-08-02-1408 ([bb466f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-1408))
 
 * Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-02-0728 ([fe457b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-0728))
-
 * Fix some misnamed items ([#59792](https://github.com/CleverRaven/Cataclysm-DDA/pull/59792))
 * Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
 * Correct typo in disc item description ([#59747](https://github.com/CleverRaven/Cataclysm-DDA/pull/59747))

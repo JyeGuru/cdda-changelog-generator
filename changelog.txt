@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-06-1246 (e46c679)
 * fix wrong category for combat/survivor machete (#59925)
 
 Cataclysm-DDA experimental build 2022-08-06-1135 (364f482)
@@ -85,8 +87,6 @@ Cataclysm-DDA experimental build 2022-08-02-1510 (ebdbd8e)
 
 Cataclysm-DDA experimental build 2022-08-02-1408 (bb466f7)
 * Bugfix: No more cropped minimap (#59824)
-
-Cataclysm-DDA experimental build 2022-08-02-0728 (fe457b7)
 * Fix some misnamed items (#59792)
 * Bugfix: Wrong column width with reused widget in last column (#59816)
 * Correct typo in disc item description (#59747)
