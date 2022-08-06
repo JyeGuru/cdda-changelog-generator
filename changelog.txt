@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-06-1731 (96ef2a6)
 * Tweak place widget in sidebar "labels" (#59868)
 * Add Myself and A-Chancey to comment-commands.yml (#59938)
 * Fixes night raider incorrectly increasing sound generated at night (#59945)
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2022-08-02-1902 (feedfd2)
 
 Cataclysm-DDA experimental build 2022-08-02-1712 (47d49b1)
 * Updating instability thresholds to match changes in PR #58832 (#59818)
-
-Cataclysm-DDA experimental build 2022-08-02-1510 (ebdbd8e)
 * Add compatible guns to magazine iteminfo (#59728)
 * Remove Obsolete Cotton Patch Recipe (#59788)
 * Bugfix: No more cropped minimap (#59824)
