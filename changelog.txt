@@ -1,3 +1,4 @@
+* Aluminum drums no more (#59947)
 
 Cataclysm-DDA experimental build 2022-08-06-1731 (96ef2a6)
 * Tweak place widget in sidebar "labels" (#59868)
@@ -135,4 +136,3 @@ Cataclysm-DDA experimental build 2022-08-02-1712 (47d49b1)
 * Remove obsolete nato_assault_rifle (#59729)
 * fix for bio, cold and lightning damaging clothes (#59736)
 * Fix excessive monster spawns (#59724)
-* Yet another debug cardio fix (#59721)
