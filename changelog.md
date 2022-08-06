@@ -1,3 +1,4 @@
+* Routine i18n updates on 06 August 2022 ([#59937](https://github.com/CleverRaven/Cataclysm-DDA/pull/59937))
 
 ---
 
@@ -174,7 +175,6 @@
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
 * Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
 * Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
-* Improve scrolling of profession and background tabs in character creation ([#59653](https://github.com/CleverRaven/Cataclysm-DDA/pull/59653))
 * New color theme - vintage ([#59719](https://github.com/CleverRaven/Cataclysm-DDA/pull/59719))
 * Replace deprecated travis-ci badge by GH actions badge ([#59703](https://github.com/CleverRaven/Cataclysm-DDA/pull/59703))
 * Make Aftershock Phones Waterproof ([#59695](https://github.com/CleverRaven/Cataclysm-DDA/pull/59695))

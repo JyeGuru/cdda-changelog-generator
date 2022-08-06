@@ -1,3 +1,4 @@
+* Routine i18n updates on 06 August 2022 (#59937)
 
 Cataclysm-DDA experimental build 2022-08-05-1816 (0c6d302)
 * Fixing up the metal arm/leg guards and adding more sheet metal armor. (#59875)
@@ -117,7 +118,6 @@ Cataclysm-DDA experimental build 2022-08-01-2245 (45421ea)
 * fix for bio, cold and lightning damaging clothes (#59736)
 * Fix excessive monster spawns (#59724)
 * Yet another debug cardio fix (#59721)
-* Improve scrolling of profession and background tabs in character creation (#59653)
 * New color theme - vintage (#59719)
 * Replace deprecated travis-ci badge by GH actions badge (#59703)
 * Make Aftershock Phones Waterproof (#59695)
