@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-06-2052 (bb34fdb)
 * minor refactor when computing armor portion data from item (#59970)
 * Prevent int overflow in daily vitamin tracker (#59952)
 
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2022-08-03-1314 (1b4e2c9)
 * Ecu 'n' kevlar (#59776)
 * Remove rare itemgroup extension from Aftershock (#59840)
 * iexamine: shift map on elevator use (#59842)
-
-Cataclysm-DDA experimental build 2022-08-03-0526 (e29f56a)
 * [Innawoods] Electrolysis kit can use clay car batteries standard (#59826)
 * Re-adopted PR: Persist installed CBMs across revives (#59817)
 * Updating instability thresholds to match changes in PR #58832 (#59818)

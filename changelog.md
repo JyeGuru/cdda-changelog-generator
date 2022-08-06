@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-06-2052 ([bb34fdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-2052))
+
 * minor refactor when computing armor portion data from item ([#59970](https://github.com/CleverRaven/Cataclysm-DDA/pull/59970))
 * Prevent int overflow in daily vitamin tracker ([#59952](https://github.com/CleverRaven/Cataclysm-DDA/pull/59952))
 
@@ -152,11 +157,6 @@
 * Ecu 'n' kevlar ([#59776](https://github.com/CleverRaven/Cataclysm-DDA/pull/59776))
 * Remove rare itemgroup extension from Aftershock ([#59840](https://github.com/CleverRaven/Cataclysm-DDA/pull/59840))
 * iexamine: shift map on elevator use ([#59842](https://github.com/CleverRaven/Cataclysm-DDA/pull/59842))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-03-0526 ([e29f56a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-0526))
-
 * [Innawoods] Electrolysis kit can use clay car batteries standard ([#59826](https://github.com/CleverRaven/Cataclysm-DDA/pull/59826))
 * Re-adopted PR: Persist installed CBMs across revives ([#59817](https://github.com/CleverRaven/Cataclysm-DDA/pull/59817))
 * Updating instability thresholds to match changes in PR #58832 ([#59818](https://github.com/CleverRaven/Cataclysm-DDA/pull/59818))
