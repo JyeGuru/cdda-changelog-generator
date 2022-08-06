@@ -1,3 +1,7 @@
+* fix wrong category for combat/survivor machete (#59925)
+
+Cataclysm-DDA experimental build 2022-08-06-1135 (364f482)
+* fixes #59941 - add holster use_action to nomad_rig (#59943)
 
 Cataclysm-DDA experimental build 2022-08-06-0843 (d4cb0fc)
 * Update to skeletal politeness (#59920)
@@ -126,8 +130,6 @@ Cataclysm-DDA experimental build 2022-08-02-0728 (fe457b7)
 * Replace deprecated travis-ci badge by GH actions badge (#59703)
 * Make Aftershock Phones Waterproof (#59695)
 * Translate furniture prying action messages (#59693)
-* Multiple Tile Sets Based On Zoom Level (#59666)
-* Disable folding appliances (#59665)
 * Jsonize crater map extra (#59717)
 * Fake cameras so vision is not impacted (#59714)
 * Fix swapped training dialogue with John Bailey (#59689)

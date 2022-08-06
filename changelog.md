@@ -1,3 +1,10 @@
+* fix wrong category for combat/survivor machete ([#59925](https://github.com/CleverRaven/Cataclysm-DDA/pull/59925))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-06-1135 ([364f482](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1135))
+
+* fixes #59941 - add holster use_action to nomad_rig ([#59943](https://github.com/CleverRaven/Cataclysm-DDA/pull/59943))
 
 ---
 
@@ -186,8 +193,6 @@
 * Replace deprecated travis-ci badge by GH actions badge ([#59703](https://github.com/CleverRaven/Cataclysm-DDA/pull/59703))
 * Make Aftershock Phones Waterproof ([#59695](https://github.com/CleverRaven/Cataclysm-DDA/pull/59695))
 * Translate furniture prying action messages ([#59693](https://github.com/CleverRaven/Cataclysm-DDA/pull/59693))
-* Multiple Tile Sets Based On Zoom Level ([#59666](https://github.com/CleverRaven/Cataclysm-DDA/pull/59666))
-* Disable folding appliances ([#59665](https://github.com/CleverRaven/Cataclysm-DDA/pull/59665))
 * Jsonize crater map extra ([#59717](https://github.com/CleverRaven/Cataclysm-DDA/pull/59717))
 * Fake cameras so vision is not impacted ([#59714](https://github.com/CleverRaven/Cataclysm-DDA/pull/59714))
 * Fix swapped training dialogue with John Bailey ([#59689](https://github.com/CleverRaven/Cataclysm-DDA/pull/59689))
