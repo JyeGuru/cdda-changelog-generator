@@ -1,3 +1,10 @@
+* Update airliner.json ([#59958](https://github.com/CleverRaven/Cataclysm-DDA/pull/59958))
+* Allow attaching binoculars to vehicle seat ([#59765](https://github.com/CleverRaven/Cataclysm-DDA/pull/59765))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-06-1838 ([8eb4f22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1838))
+
 * Aluminum drums no more ([#59947](https://github.com/CleverRaven/Cataclysm-DDA/pull/59947))
 
 ---
@@ -63,7 +70,6 @@
 
 * seafood restaurant ([#59844](https://github.com/CleverRaven/Cataclysm-DDA/pull/59844))
 * Cycle movement mode reverse action ([#59846](https://github.com/CleverRaven/Cataclysm-DDA/pull/59846))
-* Clearer Health and Vitamin Fixes ([#59722](https://github.com/CleverRaven/Cataclysm-DDA/pull/59722))
 * repairs-with for items ([#59855](https://github.com/CleverRaven/Cataclysm-DDA/pull/59855))
 * faction: fix price rule for count_by_charges() items ([#59878](https://github.com/CleverRaven/Cataclysm-DDA/pull/59878))
 * Powdered cheese and hard cheese tweaks ([#59899](https://github.com/CleverRaven/Cataclysm-DDA/pull/59899))
@@ -151,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2022-08-02-1902 ([feedfd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-1902))
 
 * Re-adopted PR: Persist installed CBMs across revives ([#59817](https://github.com/CleverRaven/Cataclysm-DDA/pull/59817))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-02-1712 ([47d49b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-1712))
-
 * Updating instability thresholds to match changes in PR #58832 ([#59818](https://github.com/CleverRaven/Cataclysm-DDA/pull/59818))
 * Add compatible guns to magazine iteminfo ([#59728](https://github.com/CleverRaven/Cataclysm-DDA/pull/59728))
 * Remove Obsolete Cotton Patch Recipe ([#59788](https://github.com/CleverRaven/Cataclysm-DDA/pull/59788))
@@ -195,4 +196,3 @@
 * Fix Uncanny Dodge description ([#59733](https://github.com/CleverRaven/Cataclysm-DDA/pull/59733))
 * Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
-* Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
