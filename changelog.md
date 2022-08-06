@@ -1,3 +1,8 @@
+* Tweak place widget in sidebar "labels" ([#59868](https://github.com/CleverRaven/Cataclysm-DDA/pull/59868))
+* Add Myself and A-Chancey to comment-commands.yml ([#59938](https://github.com/CleverRaven/Cataclysm-DDA/pull/59938))
+* Fixes night raider incorrectly increasing sound generated at night ([#59945](https://github.com/CleverRaven/Cataclysm-DDA/pull/59945))
+* Show diagnostic message on core data loading error ([#59966](https://github.com/CleverRaven/Cataclysm-DDA/pull/59966))
+* Translate computer names in mapgen JSON ([#59963](https://github.com/CleverRaven/Cataclysm-DDA/pull/59963))
 * Monster trigger fixes ([#59766](https://github.com/CleverRaven/Cataclysm-DDA/pull/59766))
 * Minor Typo Fix: Portal Storm Explanation Intercom Dialogue ([#59897](https://github.com/CleverRaven/Cataclysm-DDA/pull/59897))
 * Fix meat and vegetable intolerance debuff messages ([#59914](https://github.com/CleverRaven/Cataclysm-DDA/pull/59914))
@@ -78,12 +83,6 @@
 #### Cataclysm-DDA experimental build 2022-08-04-1310 ([8f8b8d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-1310))
 
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century ([#59874](https://github.com/CleverRaven/Cataclysm-DDA/pull/59874))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-04-1138 ([e9808ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-1138))
-
-* Aluminum revolution ([#59720](https://github.com/CleverRaven/Cataclysm-DDA/pull/59720))
 
 ---
 
@@ -197,6 +196,3 @@
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
 * Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
 * Yet another debug cardio fix ([#59721](https://github.com/CleverRaven/Cataclysm-DDA/pull/59721))
-* New color theme - vintage ([#59719](https://github.com/CleverRaven/Cataclysm-DDA/pull/59719))
-* Jsonize crater map extra ([#59717](https://github.com/CleverRaven/Cataclysm-DDA/pull/59717))
-* Fake cameras so vision is not impacted ([#59714](https://github.com/CleverRaven/Cataclysm-DDA/pull/59714))
