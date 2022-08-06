@@ -80,8 +80,6 @@ Cataclysm-DDA experimental build 2022-08-02-0728 (fe457b7)
 
 Cataclysm-DDA experimental build 2022-08-01-2245 (45421ea)
 * Bugfix: Wrong column width with reused widget in last column (#59816)
-
-Cataclysm-DDA experimental build 2022-08-01-2123 (87d7944)
 * Correct typo in disc item description (#59747)
 * Mongroup size improvements (#59754)
 * Update README.md (#59755)
