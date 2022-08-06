@@ -1,3 +1,4 @@
+* minor refactor when computing armor portion data from item ([#59970](https://github.com/CleverRaven/Cataclysm-DDA/pull/59970))
 * Prevent int overflow in daily vitamin tracker ([#59952](https://github.com/CleverRaven/Cataclysm-DDA/pull/59952))
 
 ---
@@ -159,7 +160,6 @@
 * [Innawoods] Electrolysis kit can use clay car batteries standard ([#59826](https://github.com/CleverRaven/Cataclysm-DDA/pull/59826))
 * Re-adopted PR: Persist installed CBMs across revives ([#59817](https://github.com/CleverRaven/Cataclysm-DDA/pull/59817))
 * Updating instability thresholds to match changes in PR #58832 ([#59818](https://github.com/CleverRaven/Cataclysm-DDA/pull/59818))
-* Add compatible guns to magazine iteminfo ([#59728](https://github.com/CleverRaven/Cataclysm-DDA/pull/59728))
 * Remove Obsolete Cotton Patch Recipe ([#59788](https://github.com/CleverRaven/Cataclysm-DDA/pull/59788))
 * Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
 * Fix some misnamed items ([#59792](https://github.com/CleverRaven/Cataclysm-DDA/pull/59792))
