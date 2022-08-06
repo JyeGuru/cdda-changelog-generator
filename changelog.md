@@ -1,3 +1,12 @@
+* Fix sheet metal elbow guards's looks_like ([#59953](https://github.com/CleverRaven/Cataclysm-DDA/pull/59953))
+* [Innawood] Add proficiencies to teas that were missing it ([#59955](https://github.com/CleverRaven/Cataclysm-DDA/pull/59955))
+* Don't print monster disappearing message if player doesn't see it ([#59962](https://github.com/CleverRaven/Cataclysm-DDA/pull/59962))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-06-1614 ([f85703b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1614))
+
+* Fix potential out-of-bounds read in widget::layout() ([#59959](https://github.com/CleverRaven/Cataclysm-DDA/pull/59959))
 
 ---
 
@@ -106,7 +115,6 @@
 #### Cataclysm-DDA experimental build 2022-08-03-1314 ([1b4e2c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-1314))
 
 * Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
-* Adds cremation and urns ([#59671](https://github.com/CleverRaven/Cataclysm-DDA/pull/59671))
 * npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
 * Fix inconsistent window description ([#59737](https://github.com/CleverRaven/Cataclysm-DDA/pull/59737))
 * Add a basic Kickboxing martial arts ([#59732](https://github.com/CleverRaven/Cataclysm-DDA/pull/59732))
@@ -144,11 +152,6 @@
 
 * Add compatible guns to magazine iteminfo ([#59728](https://github.com/CleverRaven/Cataclysm-DDA/pull/59728))
 * Remove Obsolete Cotton Patch Recipe ([#59788](https://github.com/CleverRaven/Cataclysm-DDA/pull/59788))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-02-1408 ([bb466f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-1408))
-
 * Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
 * Fix some misnamed items ([#59792](https://github.com/CleverRaven/Cataclysm-DDA/pull/59792))
 * Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
@@ -184,7 +187,6 @@
 * Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
 * Removed mention of deprecated flags from docs ([#59762](https://github.com/CleverRaven/Cataclysm-DDA/pull/59762))
 * Fix Uncanny Dodge description ([#59733](https://github.com/CleverRaven/Cataclysm-DDA/pull/59733))
-* Bugfix: Fix widget and label alignment ([#59676](https://github.com/CleverRaven/Cataclysm-DDA/pull/59676))
 * Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
 * Fix excessive monster spawns ([#59724](https://github.com/CleverRaven/Cataclysm-DDA/pull/59724))
@@ -196,5 +198,3 @@
 * Jsonize crater map extra ([#59717](https://github.com/CleverRaven/Cataclysm-DDA/pull/59717))
 * Fake cameras so vision is not impacted ([#59714](https://github.com/CleverRaven/Cataclysm-DDA/pull/59714))
 * Fix swapped training dialogue with John Bailey ([#59689](https://github.com/CleverRaven/Cataclysm-DDA/pull/59689))
-* update to try and fix checks ([#59687](https://github.com/CleverRaven/Cataclysm-DDA/pull/59687))
-* Add zipper bags to junk drawers ([#59672](https://github.com/CleverRaven/Cataclysm-DDA/pull/59672))
