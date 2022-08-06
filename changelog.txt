@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-06-0843 (d4cb0fc)
 * Update to skeletal politeness (#59920)
 * Convert 2d arrays (#59865)
 

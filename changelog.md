@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-06-0843 ([d4cb0fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-0843))
+
 * Update to skeletal politeness ([#59920](https://github.com/CleverRaven/Cataclysm-DDA/pull/59920))
 * Convert 2d arrays ([#59865](https://github.com/CleverRaven/Cataclysm-DDA/pull/59865))
 
