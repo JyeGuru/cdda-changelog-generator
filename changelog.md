@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-06-1951 ([163298d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1951))
+
 * Update airliner.json ([#59958](https://github.com/CleverRaven/Cataclysm-DDA/pull/59958))
 * Allow attaching binoculars to vehicle seat ([#59765](https://github.com/CleverRaven/Cataclysm-DDA/pull/59765))
 
@@ -151,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2022-08-03-0526 ([e29f56a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-0526))
 
 * [Innawoods] Electrolysis kit can use clay car batteries standard ([#59826](https://github.com/CleverRaven/Cataclysm-DDA/pull/59826))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-02-1902 ([feedfd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-02-1902))
-
 * Re-adopted PR: Persist installed CBMs across revives ([#59817](https://github.com/CleverRaven/Cataclysm-DDA/pull/59817))
 * Updating instability thresholds to match changes in PR #58832 ([#59818](https://github.com/CleverRaven/Cataclysm-DDA/pull/59818))
 * Add compatible guns to magazine iteminfo ([#59728](https://github.com/CleverRaven/Cataclysm-DDA/pull/59728))

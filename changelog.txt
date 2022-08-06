@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-06-1951 (163298d)
 * Update airliner.json (#59958)
 * Allow attaching binoculars to vehicle seat (#59765)
 
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2022-08-03-1314 (1b4e2c9)
 
 Cataclysm-DDA experimental build 2022-08-03-0526 (e29f56a)
 * [Innawoods] Electrolysis kit can use clay car batteries standard (#59826)
-
-Cataclysm-DDA experimental build 2022-08-02-1902 (feedfd2)
 * Re-adopted PR: Persist installed CBMs across revives (#59817)
 * Updating instability thresholds to match changes in PR #58832 (#59818)
 * Add compatible guns to magazine iteminfo (#59728)
