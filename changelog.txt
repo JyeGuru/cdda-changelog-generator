@@ -1,3 +1,4 @@
+* Prevent int overflow in daily vitamin tracker (#59952)
 
 Cataclysm-DDA experimental build 2022-08-06-1951 (163298d)
 * Update airliner.json (#59958)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2022-08-03-0526 (e29f56a)
 * Fix stat check inconsistency (#59746)
 * soaking dandelion (#59738)
 * Routine i18n updates on 30 July 2022 (#59750)
-* Remove 'f'illing batteries in vehicle interact ui (#59726)
 * Fixed mouse move not working (#59757)
 * Don't print any of guilt messages if player wasn't the killer (#59760)
 * Removed mention of deprecated flags from docs (#59762)

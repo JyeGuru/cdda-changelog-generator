@@ -1,3 +1,4 @@
+* Prevent int overflow in daily vitamin tracker ([#59952](https://github.com/CleverRaven/Cataclysm-DDA/pull/59952))
 
 ---
 
@@ -189,7 +190,6 @@
 * Fix stat check inconsistency ([#59746](https://github.com/CleverRaven/Cataclysm-DDA/pull/59746))
 * soaking dandelion ([#59738](https://github.com/CleverRaven/Cataclysm-DDA/pull/59738))
 * Routine i18n updates on 30 July 2022 ([#59750](https://github.com/CleverRaven/Cataclysm-DDA/pull/59750))
-* Remove 'f'illing batteries in vehicle interact ui ([#59726](https://github.com/CleverRaven/Cataclysm-DDA/pull/59726))
 * Fixed mouse move not working ([#59757](https://github.com/CleverRaven/Cataclysm-DDA/pull/59757))
 * Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
 * Removed mention of deprecated flags from docs ([#59762](https://github.com/CleverRaven/Cataclysm-DDA/pull/59762))
