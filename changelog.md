@@ -1,4 +1,10 @@
+* Fix XS/XL crafts for sheet metal arm/leg guards ([#60003](https://github.com/CleverRaven/Cataclysm-DDA/pull/60003))
 * Polish CONTRIBUTING.md ([#59997](https://github.com/CleverRaven/Cataclysm-DDA/pull/59997))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-07-1647 ([b590083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1647))
+
 * Expand cata-use-mdarray check to member declarations ([#59995](https://github.com/CleverRaven/Cataclysm-DDA/pull/59995))
 * Fix GCC 12 compile error ([#60002](https://github.com/CleverRaven/Cataclysm-DDA/pull/60002))
 * [Xedra Evolved] Xedra Snippets ([#59987](https://github.com/CleverRaven/Cataclysm-DDA/pull/59987))
@@ -179,7 +185,6 @@
 * Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
 * Fix some misnamed items ([#59792](https://github.com/CleverRaven/Cataclysm-DDA/pull/59792))
 * Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
-* Update README.md ([#59755](https://github.com/CleverRaven/Cataclysm-DDA/pull/59755))
 * Converting spike into a chunk of steel takes almost no time ([#59763](https://github.com/CleverRaven/Cataclysm-DDA/pull/59763))
 * Convert level cache arrays to mdarray ([#59764](https://github.com/CleverRaven/Cataclysm-DDA/pull/59764))
 * Added possibility to remove several new types of wooden walls ([#59756](https://github.com/CleverRaven/Cataclysm-DDA/pull/59756))
