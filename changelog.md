@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-07-1542 ([df06cbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1542))
+
 * Add id display for add mutation debug ([#59992](https://github.com/CleverRaven/Cataclysm-DDA/pull/59992))
 * Move pine resin to the chemical category ([#59996](https://github.com/CleverRaven/Cataclysm-DDA/pull/59996))
 
@@ -149,11 +154,6 @@
 
 * Update Liquid Ammonia Spawns ([#59872](https://github.com/CleverRaven/Cataclysm-DDA/pull/59872))
 * Bump spawns for nuts and bolts ([#59871](https://github.com/CleverRaven/Cataclysm-DDA/pull/59871))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-03-2137 ([e97e553](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-2137))
-
 * Refactor forage result messaging and poison/hallucinogen chance ([#59854](https://github.com/CleverRaven/Cataclysm-DDA/pull/59854))
 * Allow to overwrite color for text widgets ([#59861](https://github.com/CleverRaven/Cataclysm-DDA/pull/59861))
 * Fix out-of-range widget colors ([#59860](https://github.com/CleverRaven/Cataclysm-DDA/pull/59860))
