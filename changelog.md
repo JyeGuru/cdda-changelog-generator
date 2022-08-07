@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-07-0833 ([8067861](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-0833))
+
+* Wallet repair fix ([#59954](https://github.com/CleverRaven/Cataclysm-DDA/pull/59954))
 * Merchants are more willing to owe the player money ([#59778](https://github.com/CleverRaven/Cataclysm-DDA/pull/59778))
 * Make Necrotic Gaze spell have NO_PROJECTILE flag ([#59985](https://github.com/CleverRaven/Cataclysm-DDA/pull/59985))
 
@@ -147,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2022-08-03-1733 ([36eecef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-1733))
 
 * actions in the UI ([#59802](https://github.com/CleverRaven/Cataclysm-DDA/pull/59802))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-03-1314 ([1b4e2c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-1314))
-
 * Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
 * npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
 * Fix inconsistent window description ([#59737](https://github.com/CleverRaven/Cataclysm-DDA/pull/59737))
@@ -200,4 +201,3 @@
 * Fixed mouse move not working ([#59757](https://github.com/CleverRaven/Cataclysm-DDA/pull/59757))
 * Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
 * Removed mention of deprecated flags from docs ([#59762](https://github.com/CleverRaven/Cataclysm-DDA/pull/59762))
-* fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
