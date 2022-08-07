@@ -1,3 +1,4 @@
+* Add various pride flags ([#59932](https://github.com/CleverRaven/Cataclysm-DDA/pull/59932))
 
 ---
 
@@ -174,7 +175,6 @@
 * Connections for mutable specials ([#59822](https://github.com/CleverRaven/Cataclysm-DDA/pull/59822))
 * Forbade illegal dual zone tile processing ([#59811](https://github.com/CleverRaven/Cataclysm-DDA/pull/59811))
 * Disassembling crafted still now require 30 seconds instead of 200 minutes ([#59775](https://github.com/CleverRaven/Cataclysm-DDA/pull/59775))
-* shark suit -> sharksuit (and updates uncanny dodge desc as an item, which I forgot) ([#59758](https://github.com/CleverRaven/Cataclysm-DDA/pull/59758))
 * Replace plastic with rubber for bow dampening kit ([#59793](https://github.com/CleverRaven/Cataclysm-DDA/pull/59793))
 * Ecu 'n' kevlar ([#59776](https://github.com/CleverRaven/Cataclysm-DDA/pull/59776))
 * Remove rare itemgroup extension from Aftershock ([#59840](https://github.com/CleverRaven/Cataclysm-DDA/pull/59840))
@@ -204,6 +204,5 @@
 * Cataphract armor is armor ([#59785](https://github.com/CleverRaven/Cataclysm-DDA/pull/59785))
 * More sensible message when trying to activate your bare hands ([#59761](https://github.com/CleverRaven/Cataclysm-DDA/pull/59761))
 * AFS Translocation CBM spell loses concentration bugfix ([#59770](https://github.com/CleverRaven/Cataclysm-DDA/pull/59770))
-* Fixed mouse move not working ([#59757](https://github.com/CleverRaven/Cataclysm-DDA/pull/59757))
 * Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
 * Removed mention of deprecated flags from docs ([#59762](https://github.com/CleverRaven/Cataclysm-DDA/pull/59762))
