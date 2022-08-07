@@ -1,3 +1,10 @@
+* Make Necrotic Gaze spell have NO_PROJECTILE flag ([#59985](https://github.com/CleverRaven/Cataclysm-DDA/pull/59985))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-07-0538 ([92bb05d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-0538))
+
+* Document emitters ([#59986](https://github.com/CleverRaven/Cataclysm-DDA/pull/59986))
 
 ---
 
@@ -147,7 +154,6 @@
 * Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
 * npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
 * Fix inconsistent window description ([#59737](https://github.com/CleverRaven/Cataclysm-DDA/pull/59737))
-* Add a basic Kickboxing martial arts ([#59732](https://github.com/CleverRaven/Cataclysm-DDA/pull/59732))
 * Connections for mutable specials ([#59822](https://github.com/CleverRaven/Cataclysm-DDA/pull/59822))
 * fixed PC zone wood chopping yield ([#59752](https://github.com/CleverRaven/Cataclysm-DDA/pull/59752))
 * Forbade illegal dual zone tile processing ([#59811](https://github.com/CleverRaven/Cataclysm-DDA/pull/59811))
@@ -194,5 +200,4 @@
 * Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
 * Removed mention of deprecated flags from docs ([#59762](https://github.com/CleverRaven/Cataclysm-DDA/pull/59762))
 * Fix Uncanny Dodge description ([#59733](https://github.com/CleverRaven/Cataclysm-DDA/pull/59733))
-* Remove obsolete nato_assault_rifle ([#59729](https://github.com/CleverRaven/Cataclysm-DDA/pull/59729))
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
