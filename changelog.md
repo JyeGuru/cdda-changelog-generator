@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-07-1801 ([dd8d170](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1801))
+
 * Add bounds checking in explosion processing ([#60004](https://github.com/CleverRaven/Cataclysm-DDA/pull/60004))
 * Fix XS/XL crafts for sheet metal arm/leg guards ([#60003](https://github.com/CleverRaven/Cataclysm-DDA/pull/60003))
 * Polish CONTRIBUTING.md ([#59997](https://github.com/CleverRaven/Cataclysm-DDA/pull/59997))
@@ -158,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-08-04-0720 ([e947842](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-0720))
 
 * Survivor machete quench tempering ([#59859](https://github.com/CleverRaven/Cataclysm-DDA/pull/59859))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-04-0252 ([12fb412](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-0252))
-
 * Update Liquid Ammonia Spawns ([#59872](https://github.com/CleverRaven/Cataclysm-DDA/pull/59872))
 * Bump spawns for nuts and bolts ([#59871](https://github.com/CleverRaven/Cataclysm-DDA/pull/59871))
 * Refactor forage result messaging and poison/hallucinogen chance ([#59854](https://github.com/CleverRaven/Cataclysm-DDA/pull/59854))
