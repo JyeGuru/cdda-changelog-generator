@@ -1,3 +1,5 @@
+* Don't run screen scraping tests on curses builds ([#59973](https://github.com/CleverRaven/Cataclysm-DDA/pull/59973))
+* Add a default size to cata::mdarray ([#59983](https://github.com/CleverRaven/Cataclysm-DDA/pull/59983))
 
 ---
 
@@ -155,7 +157,6 @@
 * actions in the UI ([#59802](https://github.com/CleverRaven/Cataclysm-DDA/pull/59802))
 * Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
 * npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
-* Fix inconsistent window description ([#59737](https://github.com/CleverRaven/Cataclysm-DDA/pull/59737))
 * Connections for mutable specials ([#59822](https://github.com/CleverRaven/Cataclysm-DDA/pull/59822))
 * fixed PC zone wood chopping yield ([#59752](https://github.com/CleverRaven/Cataclysm-DDA/pull/59752))
 * Forbade illegal dual zone tile processing ([#59811](https://github.com/CleverRaven/Cataclysm-DDA/pull/59811))
@@ -196,7 +197,6 @@
 * [DinoMod] nanosaurus ([#59742](https://github.com/CleverRaven/Cataclysm-DDA/pull/59742))
 * AFS Translocation CBM spell loses concentration bugfix ([#59770](https://github.com/CleverRaven/Cataclysm-DDA/pull/59770))
 * Fix stat check inconsistency ([#59746](https://github.com/CleverRaven/Cataclysm-DDA/pull/59746))
-* soaking dandelion ([#59738](https://github.com/CleverRaven/Cataclysm-DDA/pull/59738))
 * Routine i18n updates on 30 July 2022 ([#59750](https://github.com/CleverRaven/Cataclysm-DDA/pull/59750))
 * Fixed mouse move not working ([#59757](https://github.com/CleverRaven/Cataclysm-DDA/pull/59757))
 * Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
