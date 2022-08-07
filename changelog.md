@@ -1,4 +1,9 @@
 * Don't run screen scraping tests on curses builds ([#59973](https://github.com/CleverRaven/Cataclysm-DDA/pull/59973))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-07-1000 ([ad03438](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1000))
+
 * Add a default size to cata::mdarray ([#59983](https://github.com/CleverRaven/Cataclysm-DDA/pull/59983))
 
 ---
@@ -149,11 +154,6 @@
 #### Cataclysm-DDA experimental build 2022-08-03-2035 ([f7c1423](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-2035))
 
 * Fix out-of-range widget colors ([#59860](https://github.com/CleverRaven/Cataclysm-DDA/pull/59860))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-03-1733 ([36eecef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-1733))
-
 * actions in the UI ([#59802](https://github.com/CleverRaven/Cataclysm-DDA/pull/59802))
 * Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
 * npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
