@@ -1,3 +1,11 @@
+* Add id display for add mutation debug ([#59992](https://github.com/CleverRaven/Cataclysm-DDA/pull/59992))
+* Move pine resin to the chemical category ([#59996](https://github.com/CleverRaven/Cataclysm-DDA/pull/59996))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-07-1439 ([0a3bbdd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1439))
+
+* Allow wheat-free breads to be used in frying/breading ([#59994](https://github.com/CleverRaven/Cataclysm-DDA/pull/59994))
 * Don't run screen scraping tests on curses builds ([#59973](https://github.com/CleverRaven/Cataclysm-DDA/pull/59973))
 
 ---
@@ -148,11 +156,6 @@
 
 * Refactor forage result messaging and poison/hallucinogen chance ([#59854](https://github.com/CleverRaven/Cataclysm-DDA/pull/59854))
 * Allow to overwrite color for text widgets ([#59861](https://github.com/CleverRaven/Cataclysm-DDA/pull/59861))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-03-2035 ([f7c1423](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-03-2035))
-
 * Fix out-of-range widget colors ([#59860](https://github.com/CleverRaven/Cataclysm-DDA/pull/59860))
 * actions in the UI ([#59802](https://github.com/CleverRaven/Cataclysm-DDA/pull/59802))
 * Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
@@ -173,7 +176,6 @@
 * Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
 * Fix some misnamed items ([#59792](https://github.com/CleverRaven/Cataclysm-DDA/pull/59792))
 * Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
-* Correct typo in disc item description ([#59747](https://github.com/CleverRaven/Cataclysm-DDA/pull/59747))
 * Mongroup size improvements ([#59754](https://github.com/CleverRaven/Cataclysm-DDA/pull/59754))
 * Update README.md ([#59755](https://github.com/CleverRaven/Cataclysm-DDA/pull/59755))
 * Converting spike into a chunk of steel takes almost no time ([#59763](https://github.com/CleverRaven/Cataclysm-DDA/pull/59763))
@@ -194,9 +196,7 @@
 * Basic Innawoods appliances ([#59784](https://github.com/CleverRaven/Cataclysm-DDA/pull/59784))
 * Cataphract armor is armor ([#59785](https://github.com/CleverRaven/Cataclysm-DDA/pull/59785))
 * More sensible message when trying to activate your bare hands ([#59761](https://github.com/CleverRaven/Cataclysm-DDA/pull/59761))
-* [DinoMod] nanosaurus ([#59742](https://github.com/CleverRaven/Cataclysm-DDA/pull/59742))
 * AFS Translocation CBM spell loses concentration bugfix ([#59770](https://github.com/CleverRaven/Cataclysm-DDA/pull/59770))
-* Fix stat check inconsistency ([#59746](https://github.com/CleverRaven/Cataclysm-DDA/pull/59746))
 * Routine i18n updates on 30 July 2022 ([#59750](https://github.com/CleverRaven/Cataclysm-DDA/pull/59750))
 * Fixed mouse move not working ([#59757](https://github.com/CleverRaven/Cataclysm-DDA/pull/59757))
 * Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
