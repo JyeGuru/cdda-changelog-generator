@@ -1,3 +1,4 @@
+* Merchants are more willing to owe the player money (#59778)
 * Make Necrotic Gaze spell have NO_PROJECTILE flag (#59985)
 
 Cataclysm-DDA experimental build 2022-08-07-0538 (92bb05d)
@@ -136,5 +137,4 @@ Cataclysm-DDA experimental build 2022-08-03-1314 (1b4e2c9)
 * Fixed mouse move not working (#59757)
 * Don't print any of guilt messages if player wasn't the killer (#59760)
 * Removed mention of deprecated flags from docs (#59762)
-* Fix Uncanny Dodge description (#59733)
 * fix for bio, cold and lightning damaging clothes (#59736)

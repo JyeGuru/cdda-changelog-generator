@@ -1,3 +1,4 @@
+* Merchants are more willing to owe the player money ([#59778](https://github.com/CleverRaven/Cataclysm-DDA/pull/59778))
 * Make Necrotic Gaze spell have NO_PROJECTILE flag ([#59985](https://github.com/CleverRaven/Cataclysm-DDA/pull/59985))
 
 ---
@@ -199,5 +200,4 @@
 * Fixed mouse move not working ([#59757](https://github.com/CleverRaven/Cataclysm-DDA/pull/59757))
 * Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
 * Removed mention of deprecated flags from docs ([#59762](https://github.com/CleverRaven/Cataclysm-DDA/pull/59762))
-* Fix Uncanny Dodge description ([#59733](https://github.com/CleverRaven/Cataclysm-DDA/pull/59733))
 * fix for bio, cold and lightning damaging clothes ([#59736](https://github.com/CleverRaven/Cataclysm-DDA/pull/59736))
