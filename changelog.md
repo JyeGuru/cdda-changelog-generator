@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-07-1901 ([dc9ff8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1901))
+
 * Add various pride flags ([#59932](https://github.com/CleverRaven/Cataclysm-DDA/pull/59932))
 
 ---
@@ -158,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-08-04-1310 ([8f8b8d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-1310))
 
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century ([#59874](https://github.com/CleverRaven/Cataclysm-DDA/pull/59874))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-04-0720 ([e947842](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-0720))
-
 * Survivor machete quench tempering ([#59859](https://github.com/CleverRaven/Cataclysm-DDA/pull/59859))
 * Update Liquid Ammonia Spawns ([#59872](https://github.com/CleverRaven/Cataclysm-DDA/pull/59872))
 * Bump spawns for nuts and bolts ([#59871](https://github.com/CleverRaven/Cataclysm-DDA/pull/59871))
