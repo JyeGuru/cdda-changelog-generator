@@ -1,3 +1,4 @@
+* [Xedra Evolved] Xedra Snippets (#59987)
 
 Cataclysm-DDA experimental build 2022-08-07-1542 (df06cbf)
 * Add id display for add mutation debug (#59992)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2022-08-04-0252 (12fb412)
 * Cataphract armor is armor (#59785)
 * More sensible message when trying to activate your bare hands (#59761)
 * AFS Translocation CBM spell loses concentration bugfix (#59770)
-* Routine i18n updates on 30 July 2022 (#59750)
 * Fixed mouse move not working (#59757)
 * Don't print any of guilt messages if player wasn't the killer (#59760)
 * Removed mention of deprecated flags from docs (#59762)
