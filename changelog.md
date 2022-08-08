@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-08-0446 ([7844197](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0446))
+
 * Routine tileset updates on 07 August 2022 ([#60010](https://github.com/CleverRaven/Cataclysm-DDA/pull/60010))
 * Update TALK_FORGE_ARDELIA.json ([#59988](https://github.com/CleverRaven/Cataclysm-DDA/pull/59988))
 * Fix fictional martial arts being learnable without mods ([#59998](https://github.com/CleverRaven/Cataclysm-DDA/pull/59998))
