@@ -1,3 +1,4 @@
+* Healthy bounds: ensure comest actually has mutagen vitamin ([#60028](https://github.com/CleverRaven/Cataclysm-DDA/pull/60028))
 * Update reason for inability to remove Telescopic Eyes CBM ([#60020](https://github.com/CleverRaven/Cataclysm-DDA/pull/60020))
 * Update comment-commands.yml ([#60023](https://github.com/CleverRaven/Cataclysm-DDA/pull/60023))
 
@@ -193,7 +194,6 @@
 * Connections for mutable specials ([#59822](https://github.com/CleverRaven/Cataclysm-DDA/pull/59822))
 * Forbade illegal dual zone tile processing ([#59811](https://github.com/CleverRaven/Cataclysm-DDA/pull/59811))
 * Replace plastic with rubber for bow dampening kit ([#59793](https://github.com/CleverRaven/Cataclysm-DDA/pull/59793))
-* Ecu 'n' kevlar ([#59776](https://github.com/CleverRaven/Cataclysm-DDA/pull/59776))
 * Remove rare itemgroup extension from Aftershock ([#59840](https://github.com/CleverRaven/Cataclysm-DDA/pull/59840))
 * iexamine: shift map on elevator use ([#59842](https://github.com/CleverRaven/Cataclysm-DDA/pull/59842))
 * [Innawoods] Electrolysis kit can use clay car batteries standard ([#59826](https://github.com/CleverRaven/Cataclysm-DDA/pull/59826))
