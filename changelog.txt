@@ -34,8 +34,6 @@ Cataclysm-DDA experimental build 2022-08-07-1542 (df06cbf)
 Cataclysm-DDA experimental build 2022-08-07-1439 (0a3bbdd)
 * Allow wheat-free breads to be used in frying/breading (#59994)
 * Don't run screen scraping tests on curses builds (#59973)
-
-Cataclysm-DDA experimental build 2022-08-07-1000 (ad03438)
 * Add a default size to cata::mdarray (#59983)
 
 Cataclysm-DDA experimental build 2022-08-07-0833 (8067861)
@@ -80,8 +78,6 @@ Cataclysm-DDA experimental build 2022-08-06-1246 (e46c679)
 
 Cataclysm-DDA experimental build 2022-08-06-1135 (364f482)
 * fixes #59941 - add holster use_action to nomad_rig (#59943)
-
-Cataclysm-DDA experimental build 2022-08-06-0843 (d4cb0fc)
 * Update to skeletal politeness (#59920)
 * Convert 2d arrays (#59865)
 
@@ -104,7 +100,11 @@ Cataclysm-DDA experimental build 2022-08-05-0622 (2096ccc)
 
 Cataclysm-DDA experimental build 2022-08-05-0521 (8086d12)
 * Add proficiency requirements to nomad harness (#59916)
+
+Cataclysm-DDA experimental build 2022-08-05-0022 (c32d23c)
 * Fix Aftershock atomic smartphone flags (#59898)
+
+Cataclysm-DDA experimental build 2022-08-04-1310 (8f8b8d9)
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century (#59874)
 * Survivor machete quench tempering (#59859)
 * Update Liquid Ammonia Spawns (#59872)
