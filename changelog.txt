@@ -1,3 +1,8 @@
+* Fix building with clang-cl under visual studio. (#60030)
+* Fix crash in mdefense::return_fire (#60032)
+
+Cataclysm-DDA experimental build 2022-08-08-2158 (7232c81)
+* Reduce library fires (#60034)
 
 Cataclysm-DDA experimental build 2022-08-08-1915 (e36ba85)
 * Wield option when picking up spillable unsealed container (#59984)
@@ -51,7 +56,6 @@ Cataclysm-DDA experimental build 2022-08-07-1000 (ad03438)
 
 Cataclysm-DDA experimental build 2022-08-07-0833 (8067861)
 * Wallet repair fix (#59954)
-* Merchants are more willing to owe the player money (#59778)
 * Make Necrotic Gaze spell have NO_PROJECTILE flag (#59985)
 
 Cataclysm-DDA experimental build 2022-08-07-0538 (92bb05d)
@@ -139,9 +143,7 @@ Cataclysm-DDA experimental build 2022-08-05-1816 (0c6d302)
 * fix a clang issue (#59814)
 * Routine tileset updates on 31 July 2022 (#59803)
 * Make bodypart warmth available in conditions (#59801)
-* Display appliances in iteminfo separately (#59779)
 * Enable clang-tidy check readability-make-member-function-const (#59790)
 * Fix curses build with MSVC (#59794)
 * Don't call field_at() separately for begin, end (#59799)
-* Basic Innawoods appliances (#59784)
 * Cataphract armor is armor (#59785)

@@ -1,3 +1,11 @@
+* Fix building with clang-cl under visual studio. ([#60030](https://github.com/CleverRaven/Cataclysm-DDA/pull/60030))
+* Fix crash in mdefense::return_fire ([#60032](https://github.com/CleverRaven/Cataclysm-DDA/pull/60032))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-08-2158 ([7232c81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-2158))
+
+* Reduce library fires ([#60034](https://github.com/CleverRaven/Cataclysm-DDA/pull/60034))
 
 ---
 
@@ -93,7 +101,6 @@
 #### Cataclysm-DDA experimental build 2022-08-07-0833 ([8067861](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-0833))
 
 * Wallet repair fix ([#59954](https://github.com/CleverRaven/Cataclysm-DDA/pull/59954))
-* Merchants are more willing to owe the player money ([#59778](https://github.com/CleverRaven/Cataclysm-DDA/pull/59778))
 * Make Necrotic Gaze spell have NO_PROJECTILE flag ([#59985](https://github.com/CleverRaven/Cataclysm-DDA/pull/59985))
 
 ---
@@ -214,9 +221,7 @@
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
 * Routine tileset updates on 31 July 2022 ([#59803](https://github.com/CleverRaven/Cataclysm-DDA/pull/59803))
 * Make bodypart warmth available in conditions ([#59801](https://github.com/CleverRaven/Cataclysm-DDA/pull/59801))
-* Display appliances in iteminfo separately ([#59779](https://github.com/CleverRaven/Cataclysm-DDA/pull/59779))
 * Enable clang-tidy check readability-make-member-function-const ([#59790](https://github.com/CleverRaven/Cataclysm-DDA/pull/59790))
 * Fix curses build with MSVC ([#59794](https://github.com/CleverRaven/Cataclysm-DDA/pull/59794))
 * Don't call field_at() separately for begin, end ([#59799](https://github.com/CleverRaven/Cataclysm-DDA/pull/59799))
-* Basic Innawoods appliances ([#59784](https://github.com/CleverRaven/Cataclysm-DDA/pull/59784))
 * Cataphract armor is armor ([#59785](https://github.com/CleverRaven/Cataclysm-DDA/pull/59785))
