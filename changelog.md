@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-08-0746 ([44d9a6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0746))
+
 * Update constructor of mm_submap ([#60018](https://github.com/CleverRaven/Cataclysm-DDA/pull/60018))
 
 ---
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-08-05-0521 ([8086d12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-0521))
 
 * Add proficiency requirements to nomad harness ([#59916](https://github.com/CleverRaven/Cataclysm-DDA/pull/59916))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-05-0022 ([c32d23c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-0022))
-
 * Fix Aftershock atomic smartphone flags ([#59898](https://github.com/CleverRaven/Cataclysm-DDA/pull/59898))
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century ([#59874](https://github.com/CleverRaven/Cataclysm-DDA/pull/59874))
 * Survivor machete quench tempering ([#59859](https://github.com/CleverRaven/Cataclysm-DDA/pull/59859))
