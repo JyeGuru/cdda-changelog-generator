@@ -1,3 +1,13 @@
+* Routine tileset updates on 07 August 2022 ([#60010](https://github.com/CleverRaven/Cataclysm-DDA/pull/60010))
+* Update TALK_FORGE_ARDELIA.json ([#59988](https://github.com/CleverRaven/Cataclysm-DDA/pull/59988))
+* Fix fictional martial arts being learnable without mods ([#59998](https://github.com/CleverRaven/Cataclysm-DDA/pull/59998))
+* Fix microlab shifting hallway ctd ([#60014](https://github.com/CleverRaven/Cataclysm-DDA/pull/60014))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-08-0319 ([2c1363d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0319))
+
+* Add "Longest_Side" to Tongs and Bolt Cutters ([#60013](https://github.com/CleverRaven/Cataclysm-DDA/pull/60013))
 
 ---
 
@@ -186,8 +196,6 @@
 * Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
 * Fix some misnamed items ([#59792](https://github.com/CleverRaven/Cataclysm-DDA/pull/59792))
 * Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
-* Converting spike into a chunk of steel takes almost no time ([#59763](https://github.com/CleverRaven/Cataclysm-DDA/pull/59763))
-* Convert level cache arrays to mdarray ([#59764](https://github.com/CleverRaven/Cataclysm-DDA/pull/59764))
 * [DinoMod] fix dino loot ([#59812](https://github.com/CleverRaven/Cataclysm-DDA/pull/59812))
 * [DinoMod] faster egg cooking ([#59813](https://github.com/CleverRaven/Cataclysm-DDA/pull/59813))
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
@@ -202,7 +210,4 @@
 * Translate radio onomatopoeia ([#59773](https://github.com/CleverRaven/Cataclysm-DDA/pull/59773))
 * Basic Innawoods appliances ([#59784](https://github.com/CleverRaven/Cataclysm-DDA/pull/59784))
 * Cataphract armor is armor ([#59785](https://github.com/CleverRaven/Cataclysm-DDA/pull/59785))
-* More sensible message when trying to activate your bare hands ([#59761](https://github.com/CleverRaven/Cataclysm-DDA/pull/59761))
 * AFS Translocation CBM spell loses concentration bugfix ([#59770](https://github.com/CleverRaven/Cataclysm-DDA/pull/59770))
-* Don't print any of guilt messages if player wasn't the killer ([#59760](https://github.com/CleverRaven/Cataclysm-DDA/pull/59760))
-* Removed mention of deprecated flags from docs ([#59762](https://github.com/CleverRaven/Cataclysm-DDA/pull/59762))
