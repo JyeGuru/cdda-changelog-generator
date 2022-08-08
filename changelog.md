@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-08-2315 ([4cfdd0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-2315))
+
 * Fix building with clang-cl under visual studio. ([#60030](https://github.com/CleverRaven/Cataclysm-DDA/pull/60030))
 * Fix crash in mdefense::return_fire ([#60032](https://github.com/CleverRaven/Cataclysm-DDA/pull/60032))
 
