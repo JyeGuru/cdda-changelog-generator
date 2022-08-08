@@ -1,3 +1,6 @@
+* Wield option when picking up spillable unsealed container (#59984)
+
+Cataclysm-DDA experimental build 2022-08-08-1813 (84bc552)
 * Healthy bounds: ensure comest actually has mutagen vitamin (#60028)
 * Update reason for inability to remove Telescopic Eyes CBM (#60020)
 * Update comment-commands.yml (#60023)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2022-08-06-0742 (03ea672)
 
 Cataclysm-DDA experimental build 2022-08-05-1816 (0c6d302)
 * Fixing up the metal arm/leg guards and adding more sheet metal armor. (#59875)
-
-Cataclysm-DDA experimental build 2022-08-05-0622 (2096ccc)
 * seafood restaurant (#59844)
 * Cycle movement mode reverse action (#59846)
 * repairs-with for items (#59855)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2022-08-05-0622 (2096ccc)
 * fix a clang issue (#59814)
 * Routine tileset updates on 31 July 2022 (#59803)
 * Make bodypart warmth available in conditions (#59801)
-* Force appliances vpart location to "structure" (#59777)
 * Display appliances in iteminfo separately (#59779)
 * Enable clang-tidy check readability-make-member-function-const (#59790)
 * Fix curses build with MSVC (#59794)

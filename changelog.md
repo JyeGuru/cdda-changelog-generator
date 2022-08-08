@@ -1,3 +1,9 @@
+* Wield option when picking up spillable unsealed container ([#59984](https://github.com/CleverRaven/Cataclysm-DDA/pull/59984))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-08-1813 ([84bc552](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-1813))
+
 * Healthy bounds: ensure comest actually has mutagen vitamin ([#60028](https://github.com/CleverRaven/Cataclysm-DDA/pull/60028))
 * Update reason for inability to remove Telescopic Eyes CBM ([#60020](https://github.com/CleverRaven/Cataclysm-DDA/pull/60020))
 * Update comment-commands.yml ([#60023](https://github.com/CleverRaven/Cataclysm-DDA/pull/60023))
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2022-08-05-1816 ([0c6d302](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-1816))
 
 * Fixing up the metal arm/leg guards and adding more sheet metal armor. ([#59875](https://github.com/CleverRaven/Cataclysm-DDA/pull/59875))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-05-0622 ([2096ccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-0622))
-
 * seafood restaurant ([#59844](https://github.com/CleverRaven/Cataclysm-DDA/pull/59844))
 * Cycle movement mode reverse action ([#59846](https://github.com/CleverRaven/Cataclysm-DDA/pull/59846))
 * repairs-with for items ([#59855](https://github.com/CleverRaven/Cataclysm-DDA/pull/59855))
@@ -208,7 +209,6 @@
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
 * Routine tileset updates on 31 July 2022 ([#59803](https://github.com/CleverRaven/Cataclysm-DDA/pull/59803))
 * Make bodypart warmth available in conditions ([#59801](https://github.com/CleverRaven/Cataclysm-DDA/pull/59801))
-* Force appliances vpart location to "structure" ([#59777](https://github.com/CleverRaven/Cataclysm-DDA/pull/59777))
 * Display appliances in iteminfo separately ([#59779](https://github.com/CleverRaven/Cataclysm-DDA/pull/59779))
 * Enable clang-tidy check readability-make-member-function-const ([#59790](https://github.com/CleverRaven/Cataclysm-DDA/pull/59790))
 * Fix curses build with MSVC ([#59794](https://github.com/CleverRaven/Cataclysm-DDA/pull/59794))
