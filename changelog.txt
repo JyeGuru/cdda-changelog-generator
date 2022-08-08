@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-08-0645 (0e6f911)
+* Brutes -> Tough zombies in bastion forts (#59993)
+
 Cataclysm-DDA experimental build 2022-08-08-0446 (7844197)
 * Routine tileset updates on 07 August 2022 (#60010)
 * Update TALK_FORGE_ARDELIA.json (#59988)
@@ -46,7 +49,6 @@ Cataclysm-DDA experimental build 2022-08-06-2052 (bb34fdb)
 
 Cataclysm-DDA experimental build 2022-08-06-1951 (163298d)
 * Update airliner.json (#59958)
-* Allow attaching binoculars to vehicle seat (#59765)
 
 Cataclysm-DDA experimental build 2022-08-06-1838 (8eb4f22)
 * Aluminum drums no more (#59947)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2022-08-05-0521 (8086d12)
 
 Cataclysm-DDA experimental build 2022-08-05-0022 (c32d23c)
 * Fix Aftershock atomic smartphone flags (#59898)
-
-Cataclysm-DDA experimental build 2022-08-04-1310 (8f8b8d9)
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century (#59874)
 * Survivor machete quench tempering (#59859)
 * Update Liquid Ammonia Spawns (#59872)

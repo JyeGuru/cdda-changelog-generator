@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-08-0645 ([0e6f911](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0645))
+
+* Brutes -> Tough zombies in bastion forts ([#59993](https://github.com/CleverRaven/Cataclysm-DDA/pull/59993))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-08-0446 ([7844197](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0446))
 
 * Routine tileset updates on 07 August 2022 ([#60010](https://github.com/CleverRaven/Cataclysm-DDA/pull/60010))
@@ -82,7 +88,6 @@
 #### Cataclysm-DDA experimental build 2022-08-06-1951 ([163298d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1951))
 
 * Update airliner.json ([#59958](https://github.com/CleverRaven/Cataclysm-DDA/pull/59958))
-* Allow attaching binoculars to vehicle seat ([#59765](https://github.com/CleverRaven/Cataclysm-DDA/pull/59765))
 
 ---
 
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-08-05-0022 ([c32d23c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-0022))
 
 * Fix Aftershock atomic smartphone flags ([#59898](https://github.com/CleverRaven/Cataclysm-DDA/pull/59898))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-04-1310 ([8f8b8d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-1310))
-
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century ([#59874](https://github.com/CleverRaven/Cataclysm-DDA/pull/59874))
 * Survivor machete quench tempering ([#59859](https://github.com/CleverRaven/Cataclysm-DDA/pull/59859))
 * Update Liquid Ammonia Spawns ([#59872](https://github.com/CleverRaven/Cataclysm-DDA/pull/59872))
