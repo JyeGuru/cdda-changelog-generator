@@ -1,3 +1,4 @@
+* Update constructor of mm_submap (#60018)
 
 Cataclysm-DDA experimental build 2022-08-08-0645 (0e6f911)
 * Brutes -> Tough zombies in bastion forts (#59993)
@@ -59,7 +60,6 @@ Cataclysm-DDA experimental build 2022-08-06-1731 (96ef2a6)
 * Fixes night raider incorrectly increasing sound generated at night (#59945)
 * Show diagnostic message on core data loading error (#59966)
 * Translate computer names in mapgen JSON (#59963)
-* Monster trigger fixes (#59766)
 * Minor Typo Fix: Portal Storm Explanation Intercom Dialogue (#59897)
 * Fix meat and vegetable intolerance debuff messages (#59914)
 * Linoleum tile removal fix (#59929)
