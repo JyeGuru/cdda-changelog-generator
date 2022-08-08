@@ -3,7 +3,7 @@
 
 #### Cataclysm-DDA experimental build 2022-08-08-0746 ([44d9a6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0746))
 
-* Update constructor of mm_submap ([#60018](https://github.com/CleverRaven/Cataclysm-DDA/pull/60018))
+* Update constructor of mm_region ([#60018](https://github.com/CleverRaven/Cataclysm-DDA/pull/60018))
 
 ---
 
@@ -61,6 +61,11 @@
 
 * Allow wheat-free breads to be used in frying/breading ([#59994](https://github.com/CleverRaven/Cataclysm-DDA/pull/59994))
 * Don't run screen scraping tests on curses builds ([#59973](https://github.com/CleverRaven/Cataclysm-DDA/pull/59973))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-07-1000 ([ad03438](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1000))
+
 * Add a default size to cata::mdarray ([#59983](https://github.com/CleverRaven/Cataclysm-DDA/pull/59983))
 
 ---
@@ -132,6 +137,11 @@
 #### Cataclysm-DDA experimental build 2022-08-06-1135 ([364f482](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1135))
 
 * fixes #59941 - add holster use_action to nomad_rig ([#59943](https://github.com/CleverRaven/Cataclysm-DDA/pull/59943))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-06-0843 ([d4cb0fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-0843))
+
 * Update to skeletal politeness ([#59920](https://github.com/CleverRaven/Cataclysm-DDA/pull/59920))
 * Convert 2d arrays ([#59865](https://github.com/CleverRaven/Cataclysm-DDA/pull/59865))
 
@@ -166,17 +176,7 @@
 #### Cataclysm-DDA experimental build 2022-08-05-0521 ([8086d12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-0521))
 
 * Add proficiency requirements to nomad harness ([#59916](https://github.com/CleverRaven/Cataclysm-DDA/pull/59916))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-05-0022 ([c32d23c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-0022))
-
 * Fix Aftershock atomic smartphone flags ([#59898](https://github.com/CleverRaven/Cataclysm-DDA/pull/59898))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-04-1310 ([8f8b8d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-04-1310))
-
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century ([#59874](https://github.com/CleverRaven/Cataclysm-DDA/pull/59874))
 * Survivor machete quench tempering ([#59859](https://github.com/CleverRaven/Cataclysm-DDA/pull/59859))
 * Update Liquid Ammonia Spawns ([#59872](https://github.com/CleverRaven/Cataclysm-DDA/pull/59872))
