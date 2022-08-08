@@ -32,8 +32,6 @@ Cataclysm-DDA experimental build 2022-08-08-0319 (2c1363d)
 
 Cataclysm-DDA experimental build 2022-08-07-1901 (dc9ff8f)
 * Add various pride flags (#59932)
-
-Cataclysm-DDA experimental build 2022-08-07-1801 (dd8d170)
 * Add bounds checking in explosion processing (#60004)
 * Fix XS/XL crafts for sheet metal arm/leg guards (#60003)
 * Polish CONTRIBUTING.md (#59997)
