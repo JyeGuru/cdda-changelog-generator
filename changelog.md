@@ -1,3 +1,11 @@
+* Update reason for inability to remove Telescopic Eyes CBM ([#60020](https://github.com/CleverRaven/Cataclysm-DDA/pull/60020))
+* Update comment-commands.yml ([#60023](https://github.com/CleverRaven/Cataclysm-DDA/pull/60023))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-08-1703 ([2328115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-1703))
+
+* [Xedra Evolved] Fix fetch corpse disappearance message ([#60029](https://github.com/CleverRaven/Cataclysm-DDA/pull/60029))
 
 ---
 
@@ -170,11 +178,6 @@
 * Avoid UB and error when specifying activity level ([#59887](https://github.com/CleverRaven/Cataclysm-DDA/pull/59887))
 * Display charges in vending machines ([#59888](https://github.com/CleverRaven/Cataclysm-DDA/pull/59888))
 * lab_mutagen_ingredients_fridge should be extended, not overwritten in dinomod ([#59889](https://github.com/CleverRaven/Cataclysm-DDA/pull/59889))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-05-0521 ([8086d12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-0521))
-
 * Add proficiency requirements to nomad harness ([#59916](https://github.com/CleverRaven/Cataclysm-DDA/pull/59916))
 * Fix Aftershock atomic smartphone flags ([#59898](https://github.com/CleverRaven/Cataclysm-DDA/pull/59898))
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century ([#59874](https://github.com/CleverRaven/Cataclysm-DDA/pull/59874))
@@ -189,7 +192,6 @@
 * npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
 * Connections for mutable specials ([#59822](https://github.com/CleverRaven/Cataclysm-DDA/pull/59822))
 * Forbade illegal dual zone tile processing ([#59811](https://github.com/CleverRaven/Cataclysm-DDA/pull/59811))
-* Disassembling crafted still now require 30 seconds instead of 200 minutes ([#59775](https://github.com/CleverRaven/Cataclysm-DDA/pull/59775))
 * Replace plastic with rubber for bow dampening kit ([#59793](https://github.com/CleverRaven/Cataclysm-DDA/pull/59793))
 * Ecu 'n' kevlar ([#59776](https://github.com/CleverRaven/Cataclysm-DDA/pull/59776))
 * Remove rare itemgroup extension from Aftershock ([#59840](https://github.com/CleverRaven/Cataclysm-DDA/pull/59840))
@@ -211,7 +213,5 @@
 * Enable clang-tidy check readability-make-member-function-const ([#59790](https://github.com/CleverRaven/Cataclysm-DDA/pull/59790))
 * Fix curses build with MSVC ([#59794](https://github.com/CleverRaven/Cataclysm-DDA/pull/59794))
 * Don't call field_at() separately for begin, end ([#59799](https://github.com/CleverRaven/Cataclysm-DDA/pull/59799))
-* Innawoods updating 2 ([#59772](https://github.com/CleverRaven/Cataclysm-DDA/pull/59772))
-* Translate radio onomatopoeia ([#59773](https://github.com/CleverRaven/Cataclysm-DDA/pull/59773))
 * Basic Innawoods appliances ([#59784](https://github.com/CleverRaven/Cataclysm-DDA/pull/59784))
 * Cataphract armor is armor ([#59785](https://github.com/CleverRaven/Cataclysm-DDA/pull/59785))
