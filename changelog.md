@@ -215,4 +215,3 @@
 * Translate radio onomatopoeia ([#59773](https://github.com/CleverRaven/Cataclysm-DDA/pull/59773))
 * Basic Innawoods appliances ([#59784](https://github.com/CleverRaven/Cataclysm-DDA/pull/59784))
 * Cataphract armor is armor ([#59785](https://github.com/CleverRaven/Cataclysm-DDA/pull/59785))
-* AFS Translocation CBM spell loses concentration bugfix ([#59770](https://github.com/CleverRaven/Cataclysm-DDA/pull/59770))
