@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-09-0240 (416457f)
+* Convert enchantment to mutation (#60031)
+
 Cataclysm-DDA experimental build 2022-08-08-2315 (4cfdd0b)
 * Fix building with clang-cl under visual studio. (#60030)
 * Fix crash in mdefense::return_fire (#60032)
@@ -148,4 +151,3 @@ Cataclysm-DDA experimental build 2022-08-05-1816 (0c6d302)
 * Enable clang-tidy check readability-make-member-function-const (#59790)
 * Fix curses build with MSVC (#59794)
 * Don't call field_at() separately for begin, end (#59799)
-* Cataphract armor is armor (#59785)

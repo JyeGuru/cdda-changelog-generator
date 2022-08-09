@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-09-0240 ([416457f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-0240))
+
+* Convert enchantment to mutation ([#60031](https://github.com/CleverRaven/Cataclysm-DDA/pull/60031))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-08-2315 ([4cfdd0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-2315))
 
 * Fix building with clang-cl under visual studio. ([#60030](https://github.com/CleverRaven/Cataclysm-DDA/pull/60030))
@@ -229,4 +235,3 @@
 * Enable clang-tidy check readability-make-member-function-const ([#59790](https://github.com/CleverRaven/Cataclysm-DDA/pull/59790))
 * Fix curses build with MSVC ([#59794](https://github.com/CleverRaven/Cataclysm-DDA/pull/59794))
 * Don't call field_at() separately for begin, end ([#59799](https://github.com/CleverRaven/Cataclysm-DDA/pull/59799))
-* Cataphract armor is armor ([#59785](https://github.com/CleverRaven/Cataclysm-DDA/pull/59785))
