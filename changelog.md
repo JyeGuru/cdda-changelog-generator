@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-09-1301 ([cb55b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-1301))
+
+* Kraken/octopodes now make slithering sounds, not walking sounds ([#60041](https://github.com/CleverRaven/Cataclysm-DDA/pull/60041))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-09-0240 ([416457f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-0240))
 
 * Convert enchantment to mutation ([#60031](https://github.com/CleverRaven/Cataclysm-DDA/pull/60031))
@@ -218,7 +224,6 @@
 * [Innawoods] Electrolysis kit can use clay car batteries standard ([#59826](https://github.com/CleverRaven/Cataclysm-DDA/pull/59826))
 * Re-adopted PR: Persist installed CBMs across revives ([#59817](https://github.com/CleverRaven/Cataclysm-DDA/pull/59817))
 * Updating instability thresholds to match changes in PR #58832 ([#59818](https://github.com/CleverRaven/Cataclysm-DDA/pull/59818))
-* Remove Obsolete Cotton Patch Recipe ([#59788](https://github.com/CleverRaven/Cataclysm-DDA/pull/59788))
 * Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
 * Fix some misnamed items ([#59792](https://github.com/CleverRaven/Cataclysm-DDA/pull/59792))
 * Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
