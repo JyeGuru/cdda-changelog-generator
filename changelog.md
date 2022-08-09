@@ -187,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-08-06-1135 ([364f482](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1135))
 
 * fixes #59941 - add holster use_action to nomad_rig ([#59943](https://github.com/CleverRaven/Cataclysm-DDA/pull/59943))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-06-0843 ([d4cb0fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-0843))
-
 * Update to skeletal politeness ([#59920](https://github.com/CleverRaven/Cataclysm-DDA/pull/59920))
 * Convert 2d arrays ([#59865](https://github.com/CleverRaven/Cataclysm-DDA/pull/59865))
 * Routine i18n updates on 06 August 2022 ([#59937](https://github.com/CleverRaven/Cataclysm-DDA/pull/59937))
