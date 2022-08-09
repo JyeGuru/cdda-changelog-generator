@@ -107,8 +107,6 @@ Cataclysm-DDA experimental build 2022-08-06-0843 (d4cb0fc)
 
 Cataclysm-DDA experimental build 2022-08-06-0742 (03ea672)
 * Routine i18n updates on 06 August 2022 (#59937)
-
-Cataclysm-DDA experimental build 2022-08-05-1816 (0c6d302)
 * Fixing up the metal arm/leg guards and adding more sheet metal armor. (#59875)
 * seafood restaurant (#59844)
 * Cycle movement mode reverse action (#59846)

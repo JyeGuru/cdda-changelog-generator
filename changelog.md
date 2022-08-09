@@ -188,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-08-06-0742 ([03ea672](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-0742))
 
 * Routine i18n updates on 06 August 2022 ([#59937](https://github.com/CleverRaven/Cataclysm-DDA/pull/59937))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-05-1816 ([0c6d302](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-05-1816))
-
 * Fixing up the metal arm/leg guards and adding more sheet metal armor. ([#59875](https://github.com/CleverRaven/Cataclysm-DDA/pull/59875))
 * seafood restaurant ([#59844](https://github.com/CleverRaven/Cataclysm-DDA/pull/59844))
 * Cycle movement mode reverse action ([#59846](https://github.com/CleverRaven/Cataclysm-DDA/pull/59846))
