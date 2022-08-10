@@ -221,7 +221,6 @@
 * Re-adopted PR: Persist installed CBMs across revives ([#59817](https://github.com/CleverRaven/Cataclysm-DDA/pull/59817))
 * Updating instability thresholds to match changes in PR #58832 ([#59818](https://github.com/CleverRaven/Cataclysm-DDA/pull/59818))
 * Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
-* Fix some misnamed items ([#59792](https://github.com/CleverRaven/Cataclysm-DDA/pull/59792))
 * Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
 * [DinoMod] fix dino loot ([#59812](https://github.com/CleverRaven/Cataclysm-DDA/pull/59812))
 * [DinoMod] faster egg cooking ([#59813](https://github.com/CleverRaven/Cataclysm-DDA/pull/59813))
