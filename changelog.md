@@ -1,3 +1,4 @@
+* Crafting menu mouse support ([#59856](https://github.com/CleverRaven/Cataclysm-DDA/pull/59856))
 * Only fill items as much as parent containers allow ([#60043](https://github.com/CleverRaven/Cataclysm-DDA/pull/60043))
 * Remove bones from octopodes/kraken ([#60042](https://github.com/CleverRaven/Cataclysm-DDA/pull/60042))
 
@@ -208,7 +209,6 @@
 * Refactor forage result messaging and poison/hallucinogen chance ([#59854](https://github.com/CleverRaven/Cataclysm-DDA/pull/59854))
 * Allow to overwrite color for text widgets ([#59861](https://github.com/CleverRaven/Cataclysm-DDA/pull/59861))
 * Fix out-of-range widget colors ([#59860](https://github.com/CleverRaven/Cataclysm-DDA/pull/59860))
-* actions in the UI ([#59802](https://github.com/CleverRaven/Cataclysm-DDA/pull/59802))
 * Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
 * npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
 * Connections for mutable specials ([#59822](https://github.com/CleverRaven/Cataclysm-DDA/pull/59822))
