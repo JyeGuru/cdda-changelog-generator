@@ -1,3 +1,11 @@
+* Only fill items as much as parent containers allow ([#60043](https://github.com/CleverRaven/Cataclysm-DDA/pull/60043))
+* Remove bones from octopodes/kraken ([#60042](https://github.com/CleverRaven/Cataclysm-DDA/pull/60042))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-10-1930 ([915ffbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-10-1930))
+
+* 🍞 Add 'any_bread' requirement group. Allow meatballs to use 'any_bread' 🧆 ([#60044](https://github.com/CleverRaven/Cataclysm-DDA/pull/60044))
 
 ---
 
@@ -175,11 +183,6 @@
 * Fix sheet metal elbow guards's looks_like ([#59953](https://github.com/CleverRaven/Cataclysm-DDA/pull/59953))
 * [Innawood] Add proficiencies to teas that were missing it ([#59955](https://github.com/CleverRaven/Cataclysm-DDA/pull/59955))
 * Don't print monster disappearing message if player doesn't see it ([#59962](https://github.com/CleverRaven/Cataclysm-DDA/pull/59962))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-06-1614 ([f85703b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1614))
-
 * Fix potential out-of-bounds read in widget::layout() ([#59959](https://github.com/CleverRaven/Cataclysm-DDA/pull/59959))
 * fix wrong category for combat/survivor machete ([#59925](https://github.com/CleverRaven/Cataclysm-DDA/pull/59925))
 * fixes #59941 - add holster use_action to nomad_rig ([#59943](https://github.com/CleverRaven/Cataclysm-DDA/pull/59943))
@@ -221,6 +224,3 @@
 * [DinoMod] faster egg cooking ([#59813](https://github.com/CleverRaven/Cataclysm-DDA/pull/59813))
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
 * Routine tileset updates on 31 July 2022 ([#59803](https://github.com/CleverRaven/Cataclysm-DDA/pull/59803))
-* Make bodypart warmth available in conditions ([#59801](https://github.com/CleverRaven/Cataclysm-DDA/pull/59801))
-* Fix curses build with MSVC ([#59794](https://github.com/CleverRaven/Cataclysm-DDA/pull/59794))
-* Don't call field_at() separately for begin, end ([#59799](https://github.com/CleverRaven/Cataclysm-DDA/pull/59799))
