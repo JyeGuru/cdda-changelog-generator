@@ -90,8 +90,6 @@ Cataclysm-DDA experimental build 2022-08-06-1951 (163298d)
 
 Cataclysm-DDA experimental build 2022-08-06-1838 (8eb4f22)
 * Aluminum drums no more (#59947)
-
-Cataclysm-DDA experimental build 2022-08-06-1731 (96ef2a6)
 * Tweak place widget in sidebar "labels" (#59868)
 * Add Myself and A-Chancey to comment-commands.yml (#59938)
 * Fixes night raider incorrectly increasing sound generated at night (#59945)

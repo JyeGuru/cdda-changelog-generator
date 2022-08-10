@@ -165,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-08-06-1838 ([8eb4f22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1838))
 
 * Aluminum drums no more ([#59947](https://github.com/CleverRaven/Cataclysm-DDA/pull/59947))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-06-1731 ([96ef2a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1731))
-
 * Tweak place widget in sidebar "labels" ([#59868](https://github.com/CleverRaven/Cataclysm-DDA/pull/59868))
 * Add Myself and A-Chancey to comment-commands.yml ([#59938](https://github.com/CleverRaven/Cataclysm-DDA/pull/59938))
 * Fixes night raider incorrectly increasing sound generated at night ([#59945](https://github.com/CleverRaven/Cataclysm-DDA/pull/59945))
