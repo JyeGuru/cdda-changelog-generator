@@ -16,6 +16,11 @@
 #### Cataclysm-DDA experimental build 2022-08-09-1301 ([cb55b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-1301))
 
 * Kraken/octopodes now make slithering sounds, not walking sounds ([#60041](https://github.com/CleverRaven/Cataclysm-DDA/pull/60041))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-09-0240 ([416457f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-0240))
+
 * Convert enchantment to mutation ([#60031](https://github.com/CleverRaven/Cataclysm-DDA/pull/60031))
 
 ---
