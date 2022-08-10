@@ -103,8 +103,6 @@ Cataclysm-DDA experimental build 2022-08-06-1731 (96ef2a6)
 
 Cataclysm-DDA experimental build 2022-08-06-1614 (f85703b)
 * Fix potential out-of-bounds read in widget::layout() (#59959)
-
-Cataclysm-DDA experimental build 2022-08-06-1246 (e46c679)
 * fix wrong category for combat/survivor machete (#59925)
 * fixes #59941 - add holster use_action to nomad_rig (#59943)
 * Update to skeletal politeness (#59920)
