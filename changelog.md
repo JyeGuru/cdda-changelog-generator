@@ -207,7 +207,6 @@
 * Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
 * npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
 * Connections for mutable specials ([#59822](https://github.com/CleverRaven/Cataclysm-DDA/pull/59822))
-* Forbade illegal dual zone tile processing ([#59811](https://github.com/CleverRaven/Cataclysm-DDA/pull/59811))
 * Remove rare itemgroup extension from Aftershock ([#59840](https://github.com/CleverRaven/Cataclysm-DDA/pull/59840))
 * iexamine: shift map on elevator use ([#59842](https://github.com/CleverRaven/Cataclysm-DDA/pull/59842))
 * [Innawoods] Electrolysis kit can use clay car batteries standard ([#59826](https://github.com/CleverRaven/Cataclysm-DDA/pull/59826))
@@ -218,4 +217,3 @@
 * [DinoMod] fix dino loot ([#59812](https://github.com/CleverRaven/Cataclysm-DDA/pull/59812))
 * [DinoMod] faster egg cooking ([#59813](https://github.com/CleverRaven/Cataclysm-DDA/pull/59813))
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
-* Routine tileset updates on 31 July 2022 ([#59803](https://github.com/CleverRaven/Cataclysm-DDA/pull/59803))
