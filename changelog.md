@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-11-0602 ([16d7e69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-11-0602))
+
+* ramming w/ sharp bits inflicts bleeding ([#60069](https://github.com/CleverRaven/Cataclysm-DDA/pull/60069))
 * Crafting menu mouse support ([#59856](https://github.com/CleverRaven/Cataclysm-DDA/pull/59856))
 * Only fill items as much as parent containers allow ([#60043](https://github.com/CleverRaven/Cataclysm-DDA/pull/60043))
 * Remove bones from octopodes/kraken ([#60042](https://github.com/CleverRaven/Cataclysm-DDA/pull/60042))
@@ -159,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-08-06-1951 ([163298d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1951))
 
 * Update airliner.json ([#59958](https://github.com/CleverRaven/Cataclysm-DDA/pull/59958))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-06-1838 ([8eb4f22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1838))
-
 * Aluminum drums no more ([#59947](https://github.com/CleverRaven/Cataclysm-DDA/pull/59947))
 * Tweak place widget in sidebar "labels" ([#59868](https://github.com/CleverRaven/Cataclysm-DDA/pull/59868))
 * Add Myself and A-Chancey to comment-commands.yml ([#59938](https://github.com/CleverRaven/Cataclysm-DDA/pull/59938))
@@ -214,6 +215,5 @@
 * Updating instability thresholds to match changes in PR #58832 ([#59818](https://github.com/CleverRaven/Cataclysm-DDA/pull/59818))
 * Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
 * Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
-* [DinoMod] fix dino loot ([#59812](https://github.com/CleverRaven/Cataclysm-DDA/pull/59812))
 * [DinoMod] faster egg cooking ([#59813](https://github.com/CleverRaven/Cataclysm-DDA/pull/59813))
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
