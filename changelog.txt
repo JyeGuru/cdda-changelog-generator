@@ -37,6 +37,8 @@ Cataclysm-DDA experimental build 2022-08-08-1813 (84bc552)
 
 Cataclysm-DDA experimental build 2022-08-08-1703 (2328115)
 * [Xedra Evolved] Fix fetch corpse disappearance message (#60029)
+
+Cataclysm-DDA experimental build 2022-08-08-0746 (44d9a6e)
 * Update constructor of mm_region (#60018)
 
 Cataclysm-DDA experimental build 2022-08-08-0645 (0e6f911)
@@ -85,11 +87,7 @@ Cataclysm-DDA experimental build 2022-08-07-0538 (92bb05d)
 Cataclysm-DDA experimental build 2022-08-06-2052 (bb34fdb)
 * minor refactor when computing armor portion data from item (#59970)
 * Prevent int overflow in daily vitamin tracker (#59952)
-
-Cataclysm-DDA experimental build 2022-08-06-1951 (163298d)
 * Update airliner.json (#59958)
-
-Cataclysm-DDA experimental build 2022-08-06-1838 (8eb4f22)
 * Aluminum drums no more (#59947)
 * Tweak place widget in sidebar "labels" (#59868)
 * Add Myself and A-Chancey to comment-commands.yml (#59938)

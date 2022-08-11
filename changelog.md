@@ -70,6 +70,11 @@
 #### Cataclysm-DDA experimental build 2022-08-08-1703 ([2328115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-1703))
 
 * [Xedra Evolved] Fix fetch corpse disappearance message ([#60029](https://github.com/CleverRaven/Cataclysm-DDA/pull/60029))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-08-0746 ([44d9a6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0746))
+
 * Update constructor of mm_region ([#60018](https://github.com/CleverRaven/Cataclysm-DDA/pull/60018))
 
 ---
@@ -154,17 +159,7 @@
 
 * minor refactor when computing armor portion data from item ([#59970](https://github.com/CleverRaven/Cataclysm-DDA/pull/59970))
 * Prevent int overflow in daily vitamin tracker ([#59952](https://github.com/CleverRaven/Cataclysm-DDA/pull/59952))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-06-1951 ([163298d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1951))
-
 * Update airliner.json ([#59958](https://github.com/CleverRaven/Cataclysm-DDA/pull/59958))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-06-1838 ([8eb4f22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-1838))
-
 * Aluminum drums no more ([#59947](https://github.com/CleverRaven/Cataclysm-DDA/pull/59947))
 * Tweak place widget in sidebar "labels" ([#59868](https://github.com/CleverRaven/Cataclysm-DDA/pull/59868))
 * Add Myself and A-Chancey to comment-commands.yml ([#59938](https://github.com/CleverRaven/Cataclysm-DDA/pull/59938))
