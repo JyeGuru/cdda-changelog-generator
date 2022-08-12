@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-12-0602 (750edd4)
+* Update military composite armor (#60063)
+
 Cataclysm-DDA experimental build 2022-08-11-0602 (16d7e69)
 * ramming w/ sharp bits inflicts bleeding (#60069)
 * Crafting menu mouse support (#59856)
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2022-08-07-0833 (8067861)
 
 Cataclysm-DDA experimental build 2022-08-07-0538 (92bb05d)
 * Document emitters (#59986)
-
-Cataclysm-DDA experimental build 2022-08-06-2052 (bb34fdb)
 * minor refactor when computing armor portion data from item (#59970)
 * Prevent int overflow in daily vitamin tracker (#59952)
 * Update airliner.json (#59958)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2022-08-06-2052 (bb34fdb)
 * Updating instability thresholds to match changes in PR #58832 (#59818)
 * Bugfix: No more cropped minimap (#59824)
 * Bugfix: Wrong column width with reused widget in last column (#59816)
-* [DinoMod] faster egg cooking (#59813)
 * fix a clang issue (#59814)

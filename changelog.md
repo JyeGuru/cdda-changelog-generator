@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-12-0602 ([750edd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-12-0602))
+
+* Update military composite armor ([#60063](https://github.com/CleverRaven/Cataclysm-DDA/pull/60063))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-11-0602 ([16d7e69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-11-0602))
 
 * ramming w/ sharp bits inflicts bleeding ([#60069](https://github.com/CleverRaven/Cataclysm-DDA/pull/60069))
@@ -152,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2022-08-07-0538 ([92bb05d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-0538))
 
 * Document emitters ([#59986](https://github.com/CleverRaven/Cataclysm-DDA/pull/59986))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-06-2052 ([bb34fdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-06-2052))
-
 * minor refactor when computing armor portion data from item ([#59970](https://github.com/CleverRaven/Cataclysm-DDA/pull/59970))
 * Prevent int overflow in daily vitamin tracker ([#59952](https://github.com/CleverRaven/Cataclysm-DDA/pull/59952))
 * Update airliner.json ([#59958](https://github.com/CleverRaven/Cataclysm-DDA/pull/59958))
@@ -210,5 +211,4 @@
 * Updating instability thresholds to match changes in PR #58832 ([#59818](https://github.com/CleverRaven/Cataclysm-DDA/pull/59818))
 * Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
 * Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
-* [DinoMod] faster egg cooking ([#59813](https://github.com/CleverRaven/Cataclysm-DDA/pull/59813))
 * fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
