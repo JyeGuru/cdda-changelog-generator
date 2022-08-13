@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-13-1133 ([e90cba8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-1133))
+
+* Acid Anthills ([#60095](https://github.com/CleverRaven/Cataclysm-DDA/pull/60095))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-13-0616 ([13fbcc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-0616))
 
 * Routine i18n updates on 13 August 2022 ([#60114](https://github.com/CleverRaven/Cataclysm-DDA/pull/60114))
@@ -171,11 +177,6 @@
 
 * Allow wheat-free breads to be used in frying/breading ([#59994](https://github.com/CleverRaven/Cataclysm-DDA/pull/59994))
 * Don't run screen scraping tests on curses builds ([#59973](https://github.com/CleverRaven/Cataclysm-DDA/pull/59973))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-07-1000 ([ad03438](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1000))
-
 * Add a default size to cata::mdarray ([#59983](https://github.com/CleverRaven/Cataclysm-DDA/pull/59983))
 * Wallet repair fix ([#59954](https://github.com/CleverRaven/Cataclysm-DDA/pull/59954))
 * Make Necrotic Gaze spell have NO_PROJECTILE flag ([#59985](https://github.com/CleverRaven/Cataclysm-DDA/pull/59985))
@@ -213,4 +214,3 @@
 * Fix Aftershock atomic smartphone flags ([#59898](https://github.com/CleverRaven/Cataclysm-DDA/pull/59898))
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century ([#59874](https://github.com/CleverRaven/Cataclysm-DDA/pull/59874))
 * Update Liquid Ammonia Spawns ([#59872](https://github.com/CleverRaven/Cataclysm-DDA/pull/59872))
-* Bump spawns for nuts and bolts ([#59871](https://github.com/CleverRaven/Cataclysm-DDA/pull/59871))
