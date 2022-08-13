@@ -1,3 +1,14 @@
+* Nested crafting categories ([#59924](https://github.com/CleverRaven/Cataclysm-DDA/pull/59924))
+* Add Overmap Special: Retirement Community ([#60070](https://github.com/CleverRaven/Cataclysm-DDA/pull/60070))
+* Make silver watch uncraft equal to the other clockwork watches ([#60035](https://github.com/CleverRaven/Cataclysm-DDA/pull/60035))
+* make exodii blueprint groups guaranteed ([#60011](https://github.com/CleverRaven/Cataclysm-DDA/pull/60011))
+* Fix json extractor not extracting "concatenate" in dynamic_line ([#60116](https://github.com/CleverRaven/Cataclysm-DDA/pull/60116))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-13-1957 ([65b7114](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-1957))
+
+* On death all hacks will drop only their broken versions and nothing else ([#60123](https://github.com/CleverRaven/Cataclysm-DDA/pull/60123))
 
 ---
 
@@ -15,7 +26,6 @@
 * Fix some Innawood missions ([#60077](https://github.com/CleverRaven/Cataclysm-DDA/pull/60077))
 * Hallucination monsters don't make sound when moving ([#59957](https://github.com/CleverRaven/Cataclysm-DDA/pull/59957))
 * Spacebar tweaks 2 ([#59950](https://github.com/CleverRaven/Cataclysm-DDA/pull/59950))
-* Fix magiclysm +1/+2 tools losing qualities ([#59882](https://github.com/CleverRaven/Cataclysm-DDA/pull/59882))
 * Enchanted Tailoring Kit can repair nylon ([#60022](https://github.com/CleverRaven/Cataclysm-DDA/pull/60022))
 * "Waterbottle" typo fix ([#60112](https://github.com/CleverRaven/Cataclysm-DDA/pull/60112))
 * Clear explosions at the end of vehicle turret test ([#60026](https://github.com/CleverRaven/Cataclysm-DDA/pull/60026))
@@ -163,11 +173,6 @@
 * Expand cata-use-mdarray check to member declarations ([#59995](https://github.com/CleverRaven/Cataclysm-DDA/pull/59995))
 * Fix GCC 12 compile error ([#60002](https://github.com/CleverRaven/Cataclysm-DDA/pull/60002))
 * [Xedra Evolved] Xedra Snippets ([#59987](https://github.com/CleverRaven/Cataclysm-DDA/pull/59987))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-07-1542 ([df06cbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1542))
-
 * Add id display for add mutation debug ([#59992](https://github.com/CleverRaven/Cataclysm-DDA/pull/59992))
 * Move pine resin to the chemical category ([#59996](https://github.com/CleverRaven/Cataclysm-DDA/pull/59996))
 * Allow wheat-free breads to be used in frying/breading ([#59994](https://github.com/CleverRaven/Cataclysm-DDA/pull/59994))
@@ -198,8 +203,6 @@
 * fixes #59941 - add holster use_action to nomad_rig ([#59943](https://github.com/CleverRaven/Cataclysm-DDA/pull/59943))
 * Update to skeletal politeness ([#59920](https://github.com/CleverRaven/Cataclysm-DDA/pull/59920))
 * Routine i18n updates on 06 August 2022 ([#59937](https://github.com/CleverRaven/Cataclysm-DDA/pull/59937))
-* Fixing up the metal arm/leg guards and adding more sheet metal armor. ([#59875](https://github.com/CleverRaven/Cataclysm-DDA/pull/59875))
-* faction: fix price rule for count_by_charges() items ([#59878](https://github.com/CleverRaven/Cataclysm-DDA/pull/59878))
 * Powdered cheese and hard cheese tweaks ([#59899](https://github.com/CleverRaven/Cataclysm-DDA/pull/59899))
 * Fix permanent engine noise when fuel/epower runs out ([#59885](https://github.com/CleverRaven/Cataclysm-DDA/pull/59885))
 * Avoid UB and error when specifying activity level ([#59887](https://github.com/CleverRaven/Cataclysm-DDA/pull/59887))
@@ -207,5 +210,3 @@
 * lab_mutagen_ingredients_fridge should be extended, not overwritten in dinomod ([#59889](https://github.com/CleverRaven/Cataclysm-DDA/pull/59889))
 * Add proficiency requirements to nomad harness ([#59916](https://github.com/CleverRaven/Cataclysm-DDA/pull/59916))
 * Fix Aftershock atomic smartphone flags ([#59898](https://github.com/CleverRaven/Cataclysm-DDA/pull/59898))
-*  C96 Broomhandle Description, 1896 isnt "early" 19th century ([#59874](https://github.com/CleverRaven/Cataclysm-DDA/pull/59874))
-* Update Liquid Ammonia Spawns ([#59872](https://github.com/CleverRaven/Cataclysm-DDA/pull/59872))
