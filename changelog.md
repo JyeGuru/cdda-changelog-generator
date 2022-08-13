@@ -1,3 +1,30 @@
+* Regionalize NPC locations ([#60111](https://github.com/CleverRaven/Cataclysm-DDA/pull/60111))
+* Regionalize salon ([#60109](https://github.com/CleverRaven/Cataclysm-DDA/pull/60109))
+* Fix some Innawood missions ([#60077](https://github.com/CleverRaven/Cataclysm-DDA/pull/60077))
+* Hallucination monsters don't make sound when moving ([#59957](https://github.com/CleverRaven/Cataclysm-DDA/pull/59957))
+* Spacebar tweaks 2 ([#59950](https://github.com/CleverRaven/Cataclysm-DDA/pull/59950))
+* Fix magiclysm +1/+2 tools losing qualities ([#59882](https://github.com/CleverRaven/Cataclysm-DDA/pull/59882))
+* Enchanted Tailoring Kit can repair nylon ([#60022](https://github.com/CleverRaven/Cataclysm-DDA/pull/60022))
+* "Waterbottle" typo fix ([#60112](https://github.com/CleverRaven/Cataclysm-DDA/pull/60112))
+* Clear explosions at the end of vehicle turret test ([#60026](https://github.com/CleverRaven/Cataclysm-DDA/pull/60026))
+* Have You Seen This Person? ([#60045](https://github.com/CleverRaven/Cataclysm-DDA/pull/60045))
+* Prevent moving an item when it's already in the only spot it fits in ([#60057](https://github.com/CleverRaven/Cataclysm-DDA/pull/60057))
+* :potato: Ground nut cooking :sweet_potato:  ([#60067](https://github.com/CleverRaven/Cataclysm-DDA/pull/60067))
+* Improve the density test of known bad items ([#60075](https://github.com/CleverRaven/Cataclysm-DDA/pull/60075))
+* UI hint for dissecting proficiencies training ([#60076](https://github.com/CleverRaven/Cataclysm-DDA/pull/60076))
+* Minor Typo Fix to Staggered Desc ([#60078](https://github.com/CleverRaven/Cataclysm-DDA/pull/60078))
+* Bring back amigara whispers ([#60082](https://github.com/CleverRaven/Cataclysm-DDA/pull/60082))
+*  fix:NPC repairing vehicle crashes the game ([#60087](https://github.com/CleverRaven/Cataclysm-DDA/pull/60087))
+* Remove Z-level requirement from 'Swimming merit badge' ([#60091](https://github.com/CleverRaven/Cataclysm-DDA/pull/60091))
+* Survivor Note Minor Typo Fix ([#60098](https://github.com/CleverRaven/Cataclysm-DDA/pull/60098))
+* [DinoMod] angry dinos don't always hate the player ([#60101](https://github.com/CleverRaven/Cataclysm-DDA/pull/60101))
+* Fix unarmed weapons not working due to incorrect attack vector ([#60103](https://github.com/CleverRaven/Cataclysm-DDA/pull/60103))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-13-0007 ([2cf75f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-0007))
+
+* Small subway station update ([#60107](https://github.com/CleverRaven/Cataclysm-DDA/pull/60107))
 
 ---
 
@@ -10,7 +37,6 @@
 #### Cataclysm-DDA experimental build 2022-08-11-0602 ([16d7e69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-11-0602))
 
 * ramming w/ sharp bits inflicts bleeding ([#60069](https://github.com/CleverRaven/Cataclysm-DDA/pull/60069))
-* Crafting menu mouse support ([#59856](https://github.com/CleverRaven/Cataclysm-DDA/pull/59856))
 * Only fill items as much as parent containers allow ([#60043](https://github.com/CleverRaven/Cataclysm-DDA/pull/60043))
 * Remove bones from octopodes/kraken ([#60042](https://github.com/CleverRaven/Cataclysm-DDA/pull/60042))
 
@@ -152,11 +178,6 @@
 
 * Wallet repair fix ([#59954](https://github.com/CleverRaven/Cataclysm-DDA/pull/59954))
 * Make Necrotic Gaze spell have NO_PROJECTILE flag ([#59985](https://github.com/CleverRaven/Cataclysm-DDA/pull/59985))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-07-0538 ([92bb05d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-0538))
-
 * Document emitters ([#59986](https://github.com/CleverRaven/Cataclysm-DDA/pull/59986))
 * minor refactor when computing armor portion data from item ([#59970](https://github.com/CleverRaven/Cataclysm-DDA/pull/59970))
 * Prevent int overflow in daily vitamin tracker ([#59952](https://github.com/CleverRaven/Cataclysm-DDA/pull/59952))
@@ -180,12 +201,8 @@
 * fix wrong category for combat/survivor machete ([#59925](https://github.com/CleverRaven/Cataclysm-DDA/pull/59925))
 * fixes #59941 - add holster use_action to nomad_rig ([#59943](https://github.com/CleverRaven/Cataclysm-DDA/pull/59943))
 * Update to skeletal politeness ([#59920](https://github.com/CleverRaven/Cataclysm-DDA/pull/59920))
-* Convert 2d arrays ([#59865](https://github.com/CleverRaven/Cataclysm-DDA/pull/59865))
 * Routine i18n updates on 06 August 2022 ([#59937](https://github.com/CleverRaven/Cataclysm-DDA/pull/59937))
 * Fixing up the metal arm/leg guards and adding more sheet metal armor. ([#59875](https://github.com/CleverRaven/Cataclysm-DDA/pull/59875))
-* seafood restaurant ([#59844](https://github.com/CleverRaven/Cataclysm-DDA/pull/59844))
-* Cycle movement mode reverse action ([#59846](https://github.com/CleverRaven/Cataclysm-DDA/pull/59846))
-* repairs-with for items ([#59855](https://github.com/CleverRaven/Cataclysm-DDA/pull/59855))
 * faction: fix price rule for count_by_charges() items ([#59878](https://github.com/CleverRaven/Cataclysm-DDA/pull/59878))
 * Powdered cheese and hard cheese tweaks ([#59899](https://github.com/CleverRaven/Cataclysm-DDA/pull/59899))
 * Fix permanent engine noise when fuel/epower runs out ([#59885](https://github.com/CleverRaven/Cataclysm-DDA/pull/59885))
@@ -195,20 +212,5 @@
 * Add proficiency requirements to nomad harness ([#59916](https://github.com/CleverRaven/Cataclysm-DDA/pull/59916))
 * Fix Aftershock atomic smartphone flags ([#59898](https://github.com/CleverRaven/Cataclysm-DDA/pull/59898))
 *  C96 Broomhandle Description, 1896 isnt "early" 19th century ([#59874](https://github.com/CleverRaven/Cataclysm-DDA/pull/59874))
-* Survivor machete quench tempering ([#59859](https://github.com/CleverRaven/Cataclysm-DDA/pull/59859))
 * Update Liquid Ammonia Spawns ([#59872](https://github.com/CleverRaven/Cataclysm-DDA/pull/59872))
 * Bump spawns for nuts and bolts ([#59871](https://github.com/CleverRaven/Cataclysm-DDA/pull/59871))
-* Refactor forage result messaging and poison/hallucinogen chance ([#59854](https://github.com/CleverRaven/Cataclysm-DDA/pull/59854))
-* Allow to overwrite color for text widgets ([#59861](https://github.com/CleverRaven/Cataclysm-DDA/pull/59861))
-* Fix out-of-range widget colors ([#59860](https://github.com/CleverRaven/Cataclysm-DDA/pull/59860))
-* Aftershock Exosuit Module Tiers ([#59845](https://github.com/CleverRaven/Cataclysm-DDA/pull/59845))
-* npc: add support for personal price rules ([#59832](https://github.com/CleverRaven/Cataclysm-DDA/pull/59832))
-* Connections for mutable specials ([#59822](https://github.com/CleverRaven/Cataclysm-DDA/pull/59822))
-* Remove rare itemgroup extension from Aftershock ([#59840](https://github.com/CleverRaven/Cataclysm-DDA/pull/59840))
-* iexamine: shift map on elevator use ([#59842](https://github.com/CleverRaven/Cataclysm-DDA/pull/59842))
-* [Innawoods] Electrolysis kit can use clay car batteries standard ([#59826](https://github.com/CleverRaven/Cataclysm-DDA/pull/59826))
-* Re-adopted PR: Persist installed CBMs across revives ([#59817](https://github.com/CleverRaven/Cataclysm-DDA/pull/59817))
-* Updating instability thresholds to match changes in PR #58832 ([#59818](https://github.com/CleverRaven/Cataclysm-DDA/pull/59818))
-* Bugfix: No more cropped minimap ([#59824](https://github.com/CleverRaven/Cataclysm-DDA/pull/59824))
-* Bugfix: Wrong column width with reused widget in last column ([#59816](https://github.com/CleverRaven/Cataclysm-DDA/pull/59816))
-* fix a clang issue ([#59814](https://github.com/CleverRaven/Cataclysm-DDA/pull/59814))
