@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-13-2058 ([6791af5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-2058))
+
 * Abandoned shopping plaza roof ([#60080](https://github.com/CleverRaven/Cataclysm-DDA/pull/60080))
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
 * Nested crafting categories ([#59924](https://github.com/CleverRaven/Cataclysm-DDA/pull/59924))
@@ -167,11 +172,6 @@
 * Add bounds checking in explosion processing ([#60004](https://github.com/CleverRaven/Cataclysm-DDA/pull/60004))
 * Fix XS/XL crafts for sheet metal arm/leg guards ([#60003](https://github.com/CleverRaven/Cataclysm-DDA/pull/60003))
 * Polish CONTRIBUTING.md ([#59997](https://github.com/CleverRaven/Cataclysm-DDA/pull/59997))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-07-1647 ([b590083](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1647))
-
 * Expand cata-use-mdarray check to member declarations ([#59995](https://github.com/CleverRaven/Cataclysm-DDA/pull/59995))
 * Fix GCC 12 compile error ([#60002](https://github.com/CleverRaven/Cataclysm-DDA/pull/60002))
 * [Xedra Evolved] Xedra Snippets ([#59987](https://github.com/CleverRaven/Cataclysm-DDA/pull/59987))
