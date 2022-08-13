@@ -1,3 +1,4 @@
+* Fix gunshow nested error ([#60131](https://github.com/CleverRaven/Cataclysm-DDA/pull/60131))
 
 ---
 
@@ -201,7 +202,6 @@
 * Update to skeletal politeness ([#59920](https://github.com/CleverRaven/Cataclysm-DDA/pull/59920))
 * Routine i18n updates on 06 August 2022 ([#59937](https://github.com/CleverRaven/Cataclysm-DDA/pull/59937))
 * Powdered cheese and hard cheese tweaks ([#59899](https://github.com/CleverRaven/Cataclysm-DDA/pull/59899))
-* Display charges in vending machines ([#59888](https://github.com/CleverRaven/Cataclysm-DDA/pull/59888))
 * lab_mutagen_ingredients_fridge should be extended, not overwritten in dinomod ([#59889](https://github.com/CleverRaven/Cataclysm-DDA/pull/59889))
 * Add proficiency requirements to nomad harness ([#59916](https://github.com/CleverRaven/Cataclysm-DDA/pull/59916))
 * Fix Aftershock atomic smartphone flags ([#59898](https://github.com/CleverRaven/Cataclysm-DDA/pull/59898))
