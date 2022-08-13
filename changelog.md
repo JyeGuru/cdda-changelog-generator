@@ -170,11 +170,6 @@
 
 * Add id display for add mutation debug ([#59992](https://github.com/CleverRaven/Cataclysm-DDA/pull/59992))
 * Move pine resin to the chemical category ([#59996](https://github.com/CleverRaven/Cataclysm-DDA/pull/59996))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-07-1439 ([0a3bbdd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-07-1439))
-
 * Allow wheat-free breads to be used in frying/breading ([#59994](https://github.com/CleverRaven/Cataclysm-DDA/pull/59994))
 * Don't run screen scraping tests on curses builds ([#59973](https://github.com/CleverRaven/Cataclysm-DDA/pull/59973))
 * Add a default size to cata::mdarray ([#59983](https://github.com/CleverRaven/Cataclysm-DDA/pull/59983))

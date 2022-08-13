@@ -101,8 +101,6 @@ Cataclysm-DDA experimental build 2022-08-07-1647 (b590083)
 Cataclysm-DDA experimental build 2022-08-07-1542 (df06cbf)
 * Add id display for add mutation debug (#59992)
 * Move pine resin to the chemical category (#59996)
-
-Cataclysm-DDA experimental build 2022-08-07-1439 (0a3bbdd)
 * Allow wheat-free breads to be used in frying/breading (#59994)
 * Don't run screen scraping tests on curses builds (#59973)
 * Add a default size to cata::mdarray (#59983)
