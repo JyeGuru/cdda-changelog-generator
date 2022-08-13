@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-08-13-0616 (13fbcc2)
+* Routine i18n updates on 13 August 2022 (#60114)
 * Regionalize NPC locations (#60111)
 * Regionalize salon (#60109)
 * Fix some Innawood missions (#60077)
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2022-08-07-1439 (0a3bbdd)
 
 Cataclysm-DDA experimental build 2022-08-07-1000 (ad03438)
 * Add a default size to cata::mdarray (#59983)
-
-Cataclysm-DDA experimental build 2022-08-07-0833 (8067861)
 * Wallet repair fix (#59954)
 * Make Necrotic Gaze spell have NO_PROJECTILE flag (#59985)
 * Document emitters (#59986)
@@ -111,7 +112,6 @@ Cataclysm-DDA experimental build 2022-08-07-0833 (8067861)
 * Prevent int overflow in daily vitamin tracker (#59952)
 * Update airliner.json (#59958)
 * Aluminum drums no more (#59947)
-* Tweak place widget in sidebar "labels" (#59868)
 * Add Myself and A-Chancey to comment-commands.yml (#59938)
 * Fixes night raider incorrectly increasing sound generated at night (#59945)
 * Show diagnostic message on core data loading error (#59966)
