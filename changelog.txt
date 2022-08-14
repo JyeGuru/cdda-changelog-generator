@@ -1,3 +1,4 @@
+* fix: don't mark 0.G related issues as stale (#60148)
 
 Cataclysm-DDA experimental build 2022-08-14-0513 (0df7d8f)
 * One more fix for qt_machete recipe (#60059)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2022-08-08-0446 (7844197)
 * Fixes night raider incorrectly increasing sound generated at night (#59945)
 * Show diagnostic message on core data loading error (#59966)
 * Translate computer names in mapgen JSON (#59963)
-* Minor Typo Fix: Portal Storm Explanation Intercom Dialogue (#59897)
 * Fix meat and vegetable intolerance debuff messages (#59914)
 * Linoleum tile removal fix (#59929)
 * Change fiber mats from needing sewing_standard to sewing_simple (#59933)

@@ -1,3 +1,4 @@
+* fix: don't mark 0.G related issues as stale ([#60148](https://github.com/CleverRaven/Cataclysm-DDA/pull/60148))
 
 ---
 
@@ -188,7 +189,6 @@
 * Fixes night raider incorrectly increasing sound generated at night ([#59945](https://github.com/CleverRaven/Cataclysm-DDA/pull/59945))
 * Show diagnostic message on core data loading error ([#59966](https://github.com/CleverRaven/Cataclysm-DDA/pull/59966))
 * Translate computer names in mapgen JSON ([#59963](https://github.com/CleverRaven/Cataclysm-DDA/pull/59963))
-* Minor Typo Fix: Portal Storm Explanation Intercom Dialogue ([#59897](https://github.com/CleverRaven/Cataclysm-DDA/pull/59897))
 * Fix meat and vegetable intolerance debuff messages ([#59914](https://github.com/CleverRaven/Cataclysm-DDA/pull/59914))
 * Linoleum tile removal fix ([#59929](https://github.com/CleverRaven/Cataclysm-DDA/pull/59929))
 * Change fiber mats from needing sewing_standard to sewing_simple ([#59933](https://github.com/CleverRaven/Cataclysm-DDA/pull/59933))
