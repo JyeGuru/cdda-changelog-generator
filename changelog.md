@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-14-1749 ([e519404](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-14-1749))
+
 * Capitalize the doge 🐕 ([#60149](https://github.com/CleverRaven/Cataclysm-DDA/pull/60149))
 * Mongroup: allow upgrading to entries with multiple spawns ([#60000](https://github.com/CleverRaven/Cataclysm-DDA/pull/60000))
 * Add Flags from the New England States ([#60147](https://github.com/CleverRaven/Cataclysm-DDA/pull/60147))
@@ -160,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-08-08-0746 ([44d9a6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0746))
 
 * Update constructor of mm_region ([#60018](https://github.com/CleverRaven/Cataclysm-DDA/pull/60018))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-08-0645 ([0e6f911](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0645))
-
 * Brutes -> Tough zombies in bastion forts ([#59993](https://github.com/CleverRaven/Cataclysm-DDA/pull/59993))
 * Routine tileset updates on 07 August 2022 ([#60010](https://github.com/CleverRaven/Cataclysm-DDA/pull/60010))
 * Update TALK_FORGE_ARDELIA.json ([#59988](https://github.com/CleverRaven/Cataclysm-DDA/pull/59988))

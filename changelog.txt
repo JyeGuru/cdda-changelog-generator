@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-14-1749 (e519404)
 * Capitalize the doge 🐕 (#60149)
 * Mongroup: allow upgrading to entries with multiple spawns (#60000)
 * Add Flags from the New England States (#60147)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2022-08-08-1703 (2328115)
 
 Cataclysm-DDA experimental build 2022-08-08-0746 (44d9a6e)
 * Update constructor of mm_region (#60018)
-
-Cataclysm-DDA experimental build 2022-08-08-0645 (0e6f911)
 * Brutes -> Tough zombies in bastion forts (#59993)
 * Routine tileset updates on 07 August 2022 (#60010)
 * Update TALK_FORGE_ARDELIA.json (#59988)
