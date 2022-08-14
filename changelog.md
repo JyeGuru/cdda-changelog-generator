@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-14-0513 ([0df7d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-14-0513))
+
+* One more fix for qt_machete recipe ([#60059](https://github.com/CleverRaven/Cataclysm-DDA/pull/60059))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-13-2356 ([bd5813a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-2356))
 
 * Fix gunshow nested error ([#60131](https://github.com/CleverRaven/Cataclysm-DDA/pull/60131))
@@ -158,11 +164,6 @@
 * Update TALK_FORGE_ARDELIA.json ([#59988](https://github.com/CleverRaven/Cataclysm-DDA/pull/59988))
 * Fix fictional martial arts being learnable without mods ([#59998](https://github.com/CleverRaven/Cataclysm-DDA/pull/59998))
 * Fix microlab shifting hallway ctd ([#60014](https://github.com/CleverRaven/Cataclysm-DDA/pull/60014))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-08-0319 ([2c1363d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0319))
-
 * Add "Longest_Side" to Tongs and Bolt Cutters ([#60013](https://github.com/CleverRaven/Cataclysm-DDA/pull/60013))
 * Add various pride flags ([#59932](https://github.com/CleverRaven/Cataclysm-DDA/pull/59932))
 * Add bounds checking in explosion processing ([#60004](https://github.com/CleverRaven/Cataclysm-DDA/pull/60004))
@@ -202,6 +203,5 @@
 * Update to skeletal politeness ([#59920](https://github.com/CleverRaven/Cataclysm-DDA/pull/59920))
 * Routine i18n updates on 06 August 2022 ([#59937](https://github.com/CleverRaven/Cataclysm-DDA/pull/59937))
 * Powdered cheese and hard cheese tweaks ([#59899](https://github.com/CleverRaven/Cataclysm-DDA/pull/59899))
-* lab_mutagen_ingredients_fridge should be extended, not overwritten in dinomod ([#59889](https://github.com/CleverRaven/Cataclysm-DDA/pull/59889))
 * Add proficiency requirements to nomad harness ([#59916](https://github.com/CleverRaven/Cataclysm-DDA/pull/59916))
 * Fix Aftershock atomic smartphone flags ([#59898](https://github.com/CleverRaven/Cataclysm-DDA/pull/59898))
