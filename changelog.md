@@ -1,3 +1,10 @@
+* Nested Recipes - Cuirasses ([#60160](https://github.com/CleverRaven/Cataclysm-DDA/pull/60160))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-15-1407 ([ad60e77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-1407))
+
+* Nested Recipes - Gas Masks, Rebreathers and More ([#60168](https://github.com/CleverRaven/Cataclysm-DDA/pull/60168))
 
 ---
 
@@ -158,11 +165,6 @@
 * Healthy bounds: ensure comest actually has mutagen vitamin ([#60028](https://github.com/CleverRaven/Cataclysm-DDA/pull/60028))
 * Update reason for inability to remove Telescopic Eyes CBM ([#60020](https://github.com/CleverRaven/Cataclysm-DDA/pull/60020))
 * Update comment-commands.yml ([#60023](https://github.com/CleverRaven/Cataclysm-DDA/pull/60023))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-08-1703 ([2328115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-1703))
-
 * [Xedra Evolved] Fix fetch corpse disappearance message ([#60029](https://github.com/CleverRaven/Cataclysm-DDA/pull/60029))
 * Update constructor of mm_region ([#60018](https://github.com/CleverRaven/Cataclysm-DDA/pull/60018))
 * Brutes -> Tough zombies in bastion forts ([#59993](https://github.com/CleverRaven/Cataclysm-DDA/pull/59993))
@@ -194,7 +196,6 @@
 * Fixes night raider incorrectly increasing sound generated at night ([#59945](https://github.com/CleverRaven/Cataclysm-DDA/pull/59945))
 * Show diagnostic message on core data loading error ([#59966](https://github.com/CleverRaven/Cataclysm-DDA/pull/59966))
 * Translate computer names in mapgen JSON ([#59963](https://github.com/CleverRaven/Cataclysm-DDA/pull/59963))
-* Linoleum tile removal fix ([#59929](https://github.com/CleverRaven/Cataclysm-DDA/pull/59929))
 * Change fiber mats from needing sewing_standard to sewing_simple ([#59933](https://github.com/CleverRaven/Cataclysm-DDA/pull/59933))
 * Made window, door, and down stair roofs support adjacent roof constru… ([#59946](https://github.com/CleverRaven/Cataclysm-DDA/pull/59946))
 * Increase dmg size limit in macOS build again ([#59948](https://github.com/CleverRaven/Cataclysm-DDA/pull/59948))
@@ -202,6 +203,5 @@
 * [Innawood] Add proficiencies to teas that were missing it ([#59955](https://github.com/CleverRaven/Cataclysm-DDA/pull/59955))
 * Don't print monster disappearing message if player doesn't see it ([#59962](https://github.com/CleverRaven/Cataclysm-DDA/pull/59962))
 * Fix potential out-of-bounds read in widget::layout() ([#59959](https://github.com/CleverRaven/Cataclysm-DDA/pull/59959))
-* fix wrong category for combat/survivor machete ([#59925](https://github.com/CleverRaven/Cataclysm-DDA/pull/59925))
 * fixes #59941 - add holster use_action to nomad_rig ([#59943](https://github.com/CleverRaven/Cataclysm-DDA/pull/59943))
 * Routine i18n updates on 06 August 2022 ([#59937](https://github.com/CleverRaven/Cataclysm-DDA/pull/59937))
