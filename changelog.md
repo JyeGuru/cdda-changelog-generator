@@ -157,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2022-08-08-1915 ([e36ba85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-1915))
 
 * Wield option when picking up spillable unsealed container ([#59984](https://github.com/CleverRaven/Cataclysm-DDA/pull/59984))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-08-1813 ([84bc552](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-1813))
-
 * Healthy bounds: ensure comest actually has mutagen vitamin ([#60028](https://github.com/CleverRaven/Cataclysm-DDA/pull/60028))
 * Update reason for inability to remove Telescopic Eyes CBM ([#60020](https://github.com/CleverRaven/Cataclysm-DDA/pull/60020))
 * Update comment-commands.yml ([#60023](https://github.com/CleverRaven/Cataclysm-DDA/pull/60023))
