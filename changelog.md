@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-15-0545 ([a156501](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-0545))
+
+* Routine tileset updates on 14 August 2022 ([#60162](https://github.com/CleverRaven/Cataclysm-DDA/pull/60162))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-14-1749 ([e519404](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-14-1749))
 
 * Capitalize the doge 🐕 ([#60149](https://github.com/CleverRaven/Cataclysm-DDA/pull/60149))
@@ -33,7 +39,6 @@
 
 * Abandoned shopping plaza roof ([#60080](https://github.com/CleverRaven/Cataclysm-DDA/pull/60080))
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
-* Nested crafting categories ([#59924](https://github.com/CleverRaven/Cataclysm-DDA/pull/59924))
 * Add Overmap Special: Retirement Community ([#60070](https://github.com/CleverRaven/Cataclysm-DDA/pull/60070))
 * Make silver watch uncraft equal to the other clockwork watches ([#60035](https://github.com/CleverRaven/Cataclysm-DDA/pull/60035))
 * make exodii blueprint groups guaranteed ([#60011](https://github.com/CleverRaven/Cataclysm-DDA/pull/60011))
@@ -159,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2022-08-08-1703 ([2328115](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-1703))
 
 * [Xedra Evolved] Fix fetch corpse disappearance message ([#60029](https://github.com/CleverRaven/Cataclysm-DDA/pull/60029))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-08-0746 ([44d9a6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-0746))
-
 * Update constructor of mm_region ([#60018](https://github.com/CleverRaven/Cataclysm-DDA/pull/60018))
 * Brutes -> Tough zombies in bastion forts ([#59993](https://github.com/CleverRaven/Cataclysm-DDA/pull/59993))
 * Routine tileset updates on 07 August 2022 ([#60010](https://github.com/CleverRaven/Cataclysm-DDA/pull/60010))
