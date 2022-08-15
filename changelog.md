@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-15-2304 ([c29379d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-2304))
+
 * README: Add contributors' image ([#60074](https://github.com/CleverRaven/Cataclysm-DDA/pull/60074))
 * Expand Curses mouse support ([#60102](https://github.com/CleverRaven/Cataclysm-DDA/pull/60102))
 * COMPILING.md: Add reference to `-j$(nproc)`, and some minor edits ([#60134](https://github.com/CleverRaven/Cataclysm-DDA/pull/60134))
@@ -163,11 +168,6 @@
 
 * Fix building with clang-cl under visual studio. ([#60030](https://github.com/CleverRaven/Cataclysm-DDA/pull/60030))
 * Fix crash in mdefense::return_fire ([#60032](https://github.com/CleverRaven/Cataclysm-DDA/pull/60032))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-08-2158 ([7232c81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-2158))
-
 * Reduce library fires ([#60034](https://github.com/CleverRaven/Cataclysm-DDA/pull/60034))
 * Wield option when picking up spillable unsealed container ([#59984](https://github.com/CleverRaven/Cataclysm-DDA/pull/59984))
 * Healthy bounds: ensure comest actually has mutagen vitamin ([#60028](https://github.com/CleverRaven/Cataclysm-DDA/pull/60028))
