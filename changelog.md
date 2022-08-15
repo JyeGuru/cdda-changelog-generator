@@ -1,3 +1,14 @@
+* [DinoMod] dinos hot and cold ([#60124](https://github.com/CleverRaven/Cataclysm-DDA/pull/60124))
+* Reducing the Wil Wheaton factor of the rng-test ([#60154](https://github.com/CleverRaven/Cataclysm-DDA/pull/60154))
+* Allow tin snips to cut chain fences ([#60156](https://github.com/CleverRaven/Cataclysm-DDA/pull/60156))
+* Nesting big bag tests and fixes for disapearing items ([#60151](https://github.com/CleverRaven/Cataclysm-DDA/pull/60151))
+* Fix Nesting Gas Mask/Rebreather ([#60178](https://github.com/CleverRaven/Cataclysm-DDA/pull/60178))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-15-2153 ([846a57c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-2153))
+
+* Fix erroneous weakpoint effect id ([#60179](https://github.com/CleverRaven/Cataclysm-DDA/pull/60179))
 * Nested Recipes - Cuirasses ([#60160](https://github.com/CleverRaven/Cataclysm-DDA/pull/60160))
 
 ---
@@ -151,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2022-08-08-2158 ([7232c81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-2158))
 
 * Reduce library fires ([#60034](https://github.com/CleverRaven/Cataclysm-DDA/pull/60034))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-08-1915 ([e36ba85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-1915))
-
 * Wield option when picking up spillable unsealed container ([#59984](https://github.com/CleverRaven/Cataclysm-DDA/pull/59984))
 * Healthy bounds: ensure comest actually has mutagen vitamin ([#60028](https://github.com/CleverRaven/Cataclysm-DDA/pull/60028))
 * Update reason for inability to remove Telescopic Eyes CBM ([#60020](https://github.com/CleverRaven/Cataclysm-DDA/pull/60020))
@@ -168,7 +174,6 @@
 * Fix fictional martial arts being learnable without mods ([#59998](https://github.com/CleverRaven/Cataclysm-DDA/pull/59998))
 * Fix microlab shifting hallway ctd ([#60014](https://github.com/CleverRaven/Cataclysm-DDA/pull/60014))
 * Add "Longest_Side" to Tongs and Bolt Cutters ([#60013](https://github.com/CleverRaven/Cataclysm-DDA/pull/60013))
-* Add various pride flags ([#59932](https://github.com/CleverRaven/Cataclysm-DDA/pull/59932))
 * Add bounds checking in explosion processing ([#60004](https://github.com/CleverRaven/Cataclysm-DDA/pull/60004))
 * Fix XS/XL crafts for sheet metal arm/leg guards ([#60003](https://github.com/CleverRaven/Cataclysm-DDA/pull/60003))
 * Polish CONTRIBUTING.md ([#59997](https://github.com/CleverRaven/Cataclysm-DDA/pull/59997))
@@ -187,16 +192,11 @@
 * Prevent int overflow in daily vitamin tracker ([#59952](https://github.com/CleverRaven/Cataclysm-DDA/pull/59952))
 * Update airliner.json ([#59958](https://github.com/CleverRaven/Cataclysm-DDA/pull/59958))
 * Aluminum drums no more ([#59947](https://github.com/CleverRaven/Cataclysm-DDA/pull/59947))
-* Add Myself and A-Chancey to comment-commands.yml ([#59938](https://github.com/CleverRaven/Cataclysm-DDA/pull/59938))
-* Fixes night raider incorrectly increasing sound generated at night ([#59945](https://github.com/CleverRaven/Cataclysm-DDA/pull/59945))
 * Show diagnostic message on core data loading error ([#59966](https://github.com/CleverRaven/Cataclysm-DDA/pull/59966))
 * Translate computer names in mapgen JSON ([#59963](https://github.com/CleverRaven/Cataclysm-DDA/pull/59963))
-* Change fiber mats from needing sewing_standard to sewing_simple ([#59933](https://github.com/CleverRaven/Cataclysm-DDA/pull/59933))
 * Made window, door, and down stair roofs support adjacent roof constru… ([#59946](https://github.com/CleverRaven/Cataclysm-DDA/pull/59946))
 * Increase dmg size limit in macOS build again ([#59948](https://github.com/CleverRaven/Cataclysm-DDA/pull/59948))
 * Fix sheet metal elbow guards's looks_like ([#59953](https://github.com/CleverRaven/Cataclysm-DDA/pull/59953))
 * [Innawood] Add proficiencies to teas that were missing it ([#59955](https://github.com/CleverRaven/Cataclysm-DDA/pull/59955))
 * Don't print monster disappearing message if player doesn't see it ([#59962](https://github.com/CleverRaven/Cataclysm-DDA/pull/59962))
 * Fix potential out-of-bounds read in widget::layout() ([#59959](https://github.com/CleverRaven/Cataclysm-DDA/pull/59959))
-* fixes #59941 - add holster use_action to nomad_rig ([#59943](https://github.com/CleverRaven/Cataclysm-DDA/pull/59943))
-* Routine i18n updates on 06 August 2022 ([#59937](https://github.com/CleverRaven/Cataclysm-DDA/pull/59937))
