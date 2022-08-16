@@ -1,6 +1,23 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-16-0313 ([cee383c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-16-0313))
+
+* [Infrastructure] Update of TILESET.md ([#60158](https://github.com/CleverRaven/Cataclysm-DDA/pull/60158))
+* Nested Recipes-(x)Bows ([#60186](https://github.com/CleverRaven/Cataclysm-DDA/pull/60186))
+* [DinoMod] compsognathus, eoraptor, amargasaurus bio-operators ([#60155](https://github.com/CleverRaven/Cataclysm-DDA/pull/60155))
+* Add Faux Fur Masks to Nesting ([#60189](https://github.com/CleverRaven/Cataclysm-DDA/pull/60189))
+* Portal dungeon work, add enchantments to effects ([#60161](https://github.com/CleverRaven/Cataclysm-DDA/pull/60161))
+* Mutant Moose ([#60166](https://github.com/CleverRaven/Cataclysm-DDA/pull/60166))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-16-0200 ([372e2a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-16-0200))
+
+* Oven door needs pane of glass rather than sheet ([#60192](https://github.com/CleverRaven/Cataclysm-DDA/pull/60192))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-15-2304 ([c29379d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-2304))
 
 * README: Add contributors' image ([#60074](https://github.com/CleverRaven/Cataclysm-DDA/pull/60074))
@@ -140,12 +157,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-08-10-1334 ([39fa185](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-10-1334))
-
-* NPCs produce footstep noise ([#59965](https://github.com/CleverRaven/Cataclysm-DDA/pull/59965))
-
----
-
 #### Cataclysm-DDA experimental build 2022-08-09-2107 ([013e053](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-2107))
 
 * Fix subcategories for sheet metal armor recipes ([#60016](https://github.com/CleverRaven/Cataclysm-DDA/pull/60016))
@@ -155,17 +166,7 @@
 #### Cataclysm-DDA experimental build 2022-08-09-1301 ([cb55b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-1301))
 
 * Kraken/octopodes now make slithering sounds, not walking sounds ([#60041](https://github.com/CleverRaven/Cataclysm-DDA/pull/60041))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-09-0240 ([416457f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-0240))
-
 * Convert enchantment to mutation ([#60031](https://github.com/CleverRaven/Cataclysm-DDA/pull/60031))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-08-2315 ([4cfdd0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-2315))
-
 * Fix building with clang-cl under visual studio. ([#60030](https://github.com/CleverRaven/Cataclysm-DDA/pull/60030))
 * Fix crash in mdefense::return_fire ([#60032](https://github.com/CleverRaven/Cataclysm-DDA/pull/60032))
 * Reduce library fires ([#60034](https://github.com/CleverRaven/Cataclysm-DDA/pull/60034))
@@ -194,9 +195,3 @@
 * Add a default size to cata::mdarray ([#59983](https://github.com/CleverRaven/Cataclysm-DDA/pull/59983))
 * Make Necrotic Gaze spell have NO_PROJECTILE flag ([#59985](https://github.com/CleverRaven/Cataclysm-DDA/pull/59985))
 * Document emitters ([#59986](https://github.com/CleverRaven/Cataclysm-DDA/pull/59986))
-* minor refactor when computing armor portion data from item ([#59970](https://github.com/CleverRaven/Cataclysm-DDA/pull/59970))
-* Update airliner.json ([#59958](https://github.com/CleverRaven/Cataclysm-DDA/pull/59958))
-* Show diagnostic message on core data loading error ([#59966](https://github.com/CleverRaven/Cataclysm-DDA/pull/59966))
-* Translate computer names in mapgen JSON ([#59963](https://github.com/CleverRaven/Cataclysm-DDA/pull/59963))
-* Don't print monster disappearing message if player doesn't see it ([#59962](https://github.com/CleverRaven/Cataclysm-DDA/pull/59962))
-* Fix potential out-of-bounds read in widget::layout() ([#59959](https://github.com/CleverRaven/Cataclysm-DDA/pull/59959))
