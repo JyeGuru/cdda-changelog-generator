@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-16-0617 (07d8e66)
+* Update Magiclysm's enchanted rings armor layers and add a "SKINTIGHT" flag to vanilla rings. (#60088)
+
 Cataclysm-DDA experimental build 2022-08-16-0313 (cee383c)
 * [Infrastructure] Update of TILESET.md (#60158)
 * Nested Recipes-(x)Bows (#60186)
@@ -131,7 +134,6 @@ Cataclysm-DDA experimental build 2022-08-09-1301 (cb55b2a)
 * Add id display for add mutation debug (#59992)
 * Move pine resin to the chemical category (#59996)
 * Allow wheat-free breads to be used in frying/breading (#59994)
-* Don't run screen scraping tests on curses builds (#59973)
 * Add a default size to cata::mdarray (#59983)
 * Make Necrotic Gaze spell have NO_PROJECTILE flag (#59985)
 * Document emitters (#59986)
