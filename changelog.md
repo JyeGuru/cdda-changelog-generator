@@ -197,6 +197,5 @@
 * Add id display for add mutation debug ([#59992](https://github.com/CleverRaven/Cataclysm-DDA/pull/59992))
 * Move pine resin to the chemical category ([#59996](https://github.com/CleverRaven/Cataclysm-DDA/pull/59996))
 * Allow wheat-free breads to be used in frying/breading ([#59994](https://github.com/CleverRaven/Cataclysm-DDA/pull/59994))
-* Add a default size to cata::mdarray ([#59983](https://github.com/CleverRaven/Cataclysm-DDA/pull/59983))
 * Make Necrotic Gaze spell have NO_PROJECTILE flag ([#59985](https://github.com/CleverRaven/Cataclysm-DDA/pull/59985))
 * Document emitters ([#59986](https://github.com/CleverRaven/Cataclysm-DDA/pull/59986))
