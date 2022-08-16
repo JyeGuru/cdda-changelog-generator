@@ -41,12 +41,8 @@ Cataclysm-DDA experimental build 2022-08-14-1749 (e519404)
 * Mongroup: allow upgrading to entries with multiple spawns (#60000)
 * Add Flags from the New England States (#60147)
 * Fix item density test (#60137)
-
-Cataclysm-DDA experimental build 2022-08-14-1630 (27aa5d2)
 * colorscheme: add articblush (#60136)
 * fix: don't mark 0.G related issues as stale (#60148)
-
-Cataclysm-DDA experimental build 2022-08-14-0513 (0df7d8f)
 * One more fix for qt_machete recipe (#60059)
 
 Cataclysm-DDA experimental build 2022-08-13-2356 (bd5813a)
@@ -106,7 +102,11 @@ Cataclysm-DDA experimental build 2022-08-09-2107 (013e053)
 
 Cataclysm-DDA experimental build 2022-08-09-1301 (cb55b2a)
 * Kraken/octopodes now make slithering sounds, not walking sounds (#60041)
+
+Cataclysm-DDA experimental build 2022-08-09-0240 (416457f)
 * Convert enchantment to mutation (#60031)
+
+Cataclysm-DDA experimental build 2022-08-08-2315 (4cfdd0b)
 * Fix building with clang-cl under visual studio. (#60030)
 * Fix crash in mdefense::return_fire (#60032)
 * Reduce library fires (#60034)

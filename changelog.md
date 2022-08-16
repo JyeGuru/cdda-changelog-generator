@@ -62,18 +62,8 @@
 * Mongroup: allow upgrading to entries with multiple spawns ([#60000](https://github.com/CleverRaven/Cataclysm-DDA/pull/60000))
 * Add Flags from the New England States ([#60147](https://github.com/CleverRaven/Cataclysm-DDA/pull/60147))
 * Fix item density test ([#60137](https://github.com/CleverRaven/Cataclysm-DDA/pull/60137))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-14-1630 ([27aa5d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-14-1630))
-
 * colorscheme: add articblush ([#60136](https://github.com/CleverRaven/Cataclysm-DDA/pull/60136))
 * fix: don't mark 0.G related issues as stale ([#60148](https://github.com/CleverRaven/Cataclysm-DDA/pull/60148))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-14-0513 ([0df7d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-14-0513))
-
 * One more fix for qt_machete recipe ([#60059](https://github.com/CleverRaven/Cataclysm-DDA/pull/60059))
 
 ---
@@ -166,7 +156,17 @@
 #### Cataclysm-DDA experimental build 2022-08-09-1301 ([cb55b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-1301))
 
 * Kraken/octopodes now make slithering sounds, not walking sounds ([#60041](https://github.com/CleverRaven/Cataclysm-DDA/pull/60041))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-09-0240 ([416457f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-0240))
+
 * Convert enchantment to mutation ([#60031](https://github.com/CleverRaven/Cataclysm-DDA/pull/60031))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-08-2315 ([4cfdd0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-08-2315))
+
 * Fix building with clang-cl under visual studio. ([#60030](https://github.com/CleverRaven/Cataclysm-DDA/pull/60030))
 * Fix crash in mdefense::return_fire ([#60032](https://github.com/CleverRaven/Cataclysm-DDA/pull/60032))
 * Reduce library fires ([#60034](https://github.com/CleverRaven/Cataclysm-DDA/pull/60034))
