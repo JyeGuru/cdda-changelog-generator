@@ -120,8 +120,6 @@ Cataclysm-DDA experimental build 2022-08-13-0616 (13fbcc2)
 
 Cataclysm-DDA experimental build 2022-08-13-0007 (2cf75f7)
 * Small subway station update (#60107)
-
-Cataclysm-DDA experimental build 2022-08-12-0602 (750edd4)
 * Update military composite armor (#60063)
 * ramming w/ sharp bits inflicts bleeding (#60069)
 * Only fill items as much as parent containers allow (#60043)
