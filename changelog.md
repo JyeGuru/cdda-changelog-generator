@@ -1,6 +1,30 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-17-0232 ([378ab82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0232))
+
+* Makefile: separate build and install steps of ./lang ([#60130](https://github.com/CleverRaven/Cataclysm-DDA/pull/60130))
+* Add attack vectors to martialarts_fictional.json(Five Deadly Venoms + Bionic Combatives) ([#60138](https://github.com/CleverRaven/Cataclysm-DDA/pull/60138))
+* Nested Recipes - Teas & Cocktails/Mixed Drinks ([#60165](https://github.com/CleverRaven/Cataclysm-DDA/pull/60165))
+* New color theme: default-sleek ([#60194](https://github.com/CleverRaven/Cataclysm-DDA/pull/60194))
+* Nested Recipes - All Batteries ([#60199](https://github.com/CleverRaven/Cataclysm-DDA/pull/60199))
+* Red squirrel looks_like grey squirrel ([#60201](https://github.com/CleverRaven/Cataclysm-DDA/pull/60201))
+* COMPILING.md: Add OpenBSD with clang ([#60203](https://github.com/CleverRaven/Cataclysm-DDA/pull/60203))
+* Adds the missing "HUMAN" flag to some zombies. ([#60206](https://github.com/CleverRaven/Cataclysm-DDA/pull/60206))
+* Honey mustard ingredient in Vegetable Salad ([#60211](https://github.com/CleverRaven/Cataclysm-DDA/pull/60211))
+* correct materials for thighhigh boots ([#60213](https://github.com/CleverRaven/Cataclysm-DDA/pull/60213))
+* Added the emergency blanket as a component for the makeshift sling recipe ([#60226](https://github.com/CleverRaven/Cataclysm-DDA/pull/60226))
+* Cookbook adjective gender fix ([#60225](https://github.com/CleverRaven/Cataclysm-DDA/pull/60225))
+* Nested Recipes - Bleeding Control, Splints, Antiseptics ([#60195](https://github.com/CleverRaven/Cataclysm-DDA/pull/60195))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-17-0113 ([b3c2d3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0113))
+
+* Regionalize occupied homeless camp ([#60120](https://github.com/CleverRaven/Cataclysm-DDA/pull/60120))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-16-0617 ([07d8e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-16-0617))
 
 * Update Magiclysm's enchanted rings armor layers and add a "SKINTIGHT" flag to vanilla rings. ([#60088](https://github.com/CleverRaven/Cataclysm-DDA/pull/60088))
@@ -65,7 +89,6 @@
 #### Cataclysm-DDA experimental build 2022-08-14-1749 ([e519404](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-14-1749))
 
 * Capitalize the doge 🐕 ([#60149](https://github.com/CleverRaven/Cataclysm-DDA/pull/60149))
-* Mongroup: allow upgrading to entries with multiple spawns ([#60000](https://github.com/CleverRaven/Cataclysm-DDA/pull/60000))
 * Add Flags from the New England States ([#60147](https://github.com/CleverRaven/Cataclysm-DDA/pull/60147))
 * Fix item density test ([#60137](https://github.com/CleverRaven/Cataclysm-DDA/pull/60137))
 
@@ -160,42 +183,19 @@
 #### Cataclysm-DDA experimental build 2022-08-10-1930 ([915ffbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-10-1930))
 
 * 🍞 Add 'any_bread' requirement group. Allow meatballs to use 'any_bread' 🧆 ([#60044](https://github.com/CleverRaven/Cataclysm-DDA/pull/60044))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-09-2107 ([013e053](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-2107))
-
 * Fix subcategories for sheet metal armor recipes ([#60016](https://github.com/CleverRaven/Cataclysm-DDA/pull/60016))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-09-1301 ([cb55b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-09-1301))
-
 * Kraken/octopodes now make slithering sounds, not walking sounds ([#60041](https://github.com/CleverRaven/Cataclysm-DDA/pull/60041))
 * Convert enchantment to mutation ([#60031](https://github.com/CleverRaven/Cataclysm-DDA/pull/60031))
 * Fix building with clang-cl under visual studio. ([#60030](https://github.com/CleverRaven/Cataclysm-DDA/pull/60030))
 * Fix crash in mdefense::return_fire ([#60032](https://github.com/CleverRaven/Cataclysm-DDA/pull/60032))
 * Reduce library fires ([#60034](https://github.com/CleverRaven/Cataclysm-DDA/pull/60034))
-* Wield option when picking up spillable unsealed container ([#59984](https://github.com/CleverRaven/Cataclysm-DDA/pull/59984))
 * Healthy bounds: ensure comest actually has mutagen vitamin ([#60028](https://github.com/CleverRaven/Cataclysm-DDA/pull/60028))
 * Update reason for inability to remove Telescopic Eyes CBM ([#60020](https://github.com/CleverRaven/Cataclysm-DDA/pull/60020))
 * Update comment-commands.yml ([#60023](https://github.com/CleverRaven/Cataclysm-DDA/pull/60023))
 * [Xedra Evolved] Fix fetch corpse disappearance message ([#60029](https://github.com/CleverRaven/Cataclysm-DDA/pull/60029))
 * Update constructor of mm_region ([#60018](https://github.com/CleverRaven/Cataclysm-DDA/pull/60018))
-* Brutes -> Tough zombies in bastion forts ([#59993](https://github.com/CleverRaven/Cataclysm-DDA/pull/59993))
 * Routine tileset updates on 07 August 2022 ([#60010](https://github.com/CleverRaven/Cataclysm-DDA/pull/60010))
-* Update TALK_FORGE_ARDELIA.json ([#59988](https://github.com/CleverRaven/Cataclysm-DDA/pull/59988))
-* Fix fictional martial arts being learnable without mods ([#59998](https://github.com/CleverRaven/Cataclysm-DDA/pull/59998))
 * Fix microlab shifting hallway ctd ([#60014](https://github.com/CleverRaven/Cataclysm-DDA/pull/60014))
 * Add "Longest_Side" to Tongs and Bolt Cutters ([#60013](https://github.com/CleverRaven/Cataclysm-DDA/pull/60013))
 * Add bounds checking in explosion processing ([#60004](https://github.com/CleverRaven/Cataclysm-DDA/pull/60004))
 * Fix XS/XL crafts for sheet metal arm/leg guards ([#60003](https://github.com/CleverRaven/Cataclysm-DDA/pull/60003))
-* Polish CONTRIBUTING.md ([#59997](https://github.com/CleverRaven/Cataclysm-DDA/pull/59997))
-* Expand cata-use-mdarray check to member declarations ([#59995](https://github.com/CleverRaven/Cataclysm-DDA/pull/59995))
-* Fix GCC 12 compile error ([#60002](https://github.com/CleverRaven/Cataclysm-DDA/pull/60002))
-* [Xedra Evolved] Xedra Snippets ([#59987](https://github.com/CleverRaven/Cataclysm-DDA/pull/59987))
-* Add id display for add mutation debug ([#59992](https://github.com/CleverRaven/Cataclysm-DDA/pull/59992))
-* Move pine resin to the chemical category ([#59996](https://github.com/CleverRaven/Cataclysm-DDA/pull/59996))
-* Allow wheat-free breads to be used in frying/breading ([#59994](https://github.com/CleverRaven/Cataclysm-DDA/pull/59994))
-* Make Necrotic Gaze spell have NO_PROJECTILE flag ([#59985](https://github.com/CleverRaven/Cataclysm-DDA/pull/59985))
-* Document emitters ([#59986](https://github.com/CleverRaven/Cataclysm-DDA/pull/59986))
