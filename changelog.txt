@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-17-1838 (4e93c1c)
+* colorscheme: add iceberg light and dark (#60247)
+
 Cataclysm-DDA experimental build 2022-08-17-1336 (915ef22)
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots (#60235)
 
@@ -136,4 +139,3 @@ Cataclysm-DDA experimental build 2022-08-12-0602 (750edd4)
 * [Xedra Evolved] Fix fetch corpse disappearance message (#60029)
 * Update constructor of mm_region (#60018)
 * Fix microlab shifting hallway ctd (#60014)
-* Add "Longest_Side" to Tongs and Bolt Cutters (#60013)
