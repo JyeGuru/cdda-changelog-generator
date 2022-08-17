@@ -123,8 +123,6 @@ Cataclysm-DDA experimental build 2022-08-11-0602 (16d7e69)
 * ramming w/ sharp bits inflicts bleeding (#60069)
 * Only fill items as much as parent containers allow (#60043)
 * Remove bones from octopodes/kraken (#60042)
-
-Cataclysm-DDA experimental build 2022-08-10-1930 (915ffbe)
 * 🍞 Add 'any_bread' requirement group. Allow meatballs to use 'any_bread' 🧆 (#60044)
 * Fix subcategories for sheet metal armor recipes (#60016)
 * Kraken/octopodes now make slithering sounds, not walking sounds (#60041)
