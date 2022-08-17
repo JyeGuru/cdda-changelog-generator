@@ -137,7 +137,6 @@
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
 * Add Overmap Special: Retirement Community ([#60070](https://github.com/CleverRaven/Cataclysm-DDA/pull/60070))
 * Make silver watch uncraft equal to the other clockwork watches ([#60035](https://github.com/CleverRaven/Cataclysm-DDA/pull/60035))
-* make exodii blueprint groups guaranteed ([#60011](https://github.com/CleverRaven/Cataclysm-DDA/pull/60011))
 * Fix json extractor not extracting "concatenate" in dynamic_line ([#60116](https://github.com/CleverRaven/Cataclysm-DDA/pull/60116))
 
 ---

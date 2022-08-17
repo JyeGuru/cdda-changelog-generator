@@ -86,7 +86,6 @@ Cataclysm-DDA experimental build 2022-08-13-2058 (6791af5)
 * fix crash after accepting mission twice (#60115)
 * Add Overmap Special: Retirement Community (#60070)
 * Make silver watch uncraft equal to the other clockwork watches (#60035)
-* make exodii blueprint groups guaranteed (#60011)
 * Fix json extractor not extracting "concatenate" in dynamic_line (#60116)
 
 Cataclysm-DDA experimental build 2022-08-13-1957 (65b7114)
