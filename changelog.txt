@@ -1,3 +1,4 @@
+* Nested Recipes - Survivor Hoods, Gloves, Pants, Boots (#60235)
 
 Cataclysm-DDA experimental build 2022-08-17-0532 (61f3a8b)
 * add crowbars to batons group (#60216)
@@ -135,6 +136,5 @@ Cataclysm-DDA experimental build 2022-08-11-0602 (16d7e69)
 * Update comment-commands.yml (#60023)
 * [Xedra Evolved] Fix fetch corpse disappearance message (#60029)
 * Update constructor of mm_region (#60018)
-* Routine tileset updates on 07 August 2022 (#60010)
 * Fix microlab shifting hallway ctd (#60014)
 * Add "Longest_Side" to Tongs and Bolt Cutters (#60013)

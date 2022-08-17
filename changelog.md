@@ -1,3 +1,4 @@
+* Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
 
 ---
 
@@ -201,6 +202,5 @@
 * Update comment-commands.yml ([#60023](https://github.com/CleverRaven/Cataclysm-DDA/pull/60023))
 * [Xedra Evolved] Fix fetch corpse disappearance message ([#60029](https://github.com/CleverRaven/Cataclysm-DDA/pull/60029))
 * Update constructor of mm_region ([#60018](https://github.com/CleverRaven/Cataclysm-DDA/pull/60018))
-* Routine tileset updates on 07 August 2022 ([#60010](https://github.com/CleverRaven/Cataclysm-DDA/pull/60010))
 * Fix microlab shifting hallway ctd ([#60014](https://github.com/CleverRaven/Cataclysm-DDA/pull/60014))
 * Add "Longest_Side" to Tongs and Bolt Cutters ([#60013](https://github.com/CleverRaven/Cataclysm-DDA/pull/60013))
