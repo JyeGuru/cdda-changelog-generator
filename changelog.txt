@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-17-0532 (61f3a8b)
+* add crowbars to batons group (#60216)
+
 Cataclysm-DDA experimental build 2022-08-17-0337 (f9377d8)
 * improve environmental protection of second skin (#60214)
 
@@ -137,4 +140,3 @@ Cataclysm-DDA experimental build 2022-08-10-1930 (915ffbe)
 * Routine tileset updates on 07 August 2022 (#60010)
 * Fix microlab shifting hallway ctd (#60014)
 * Add "Longest_Side" to Tongs and Bolt Cutters (#60013)
-* Add bounds checking in explosion processing (#60004)

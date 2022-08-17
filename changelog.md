@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-17-0532 ([61f3a8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0532))
+
+* add crowbars to batons group ([#60216](https://github.com/CleverRaven/Cataclysm-DDA/pull/60216))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-17-0337 ([f9377d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0337))
 
 * improve environmental protection of second skin ([#60214](https://github.com/CleverRaven/Cataclysm-DDA/pull/60214))
@@ -203,4 +209,3 @@
 * Routine tileset updates on 07 August 2022 ([#60010](https://github.com/CleverRaven/Cataclysm-DDA/pull/60010))
 * Fix microlab shifting hallway ctd ([#60014](https://github.com/CleverRaven/Cataclysm-DDA/pull/60014))
 * Add "Longest_Side" to Tongs and Bolt Cutters ([#60013](https://github.com/CleverRaven/Cataclysm-DDA/pull/60013))
-* Add bounds checking in explosion processing ([#60004](https://github.com/CleverRaven/Cataclysm-DDA/pull/60004))
