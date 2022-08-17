@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-17-0337 ([f9377d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0337))
+
+* improve environmental protection of second skin ([#60214](https://github.com/CleverRaven/Cataclysm-DDA/pull/60214))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-17-0232 ([378ab82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0232))
 
 * Makefile: separate build and install steps of ./lang ([#60130](https://github.com/CleverRaven/Cataclysm-DDA/pull/60130))
@@ -198,4 +204,3 @@
 * Fix microlab shifting hallway ctd ([#60014](https://github.com/CleverRaven/Cataclysm-DDA/pull/60014))
 * Add "Longest_Side" to Tongs and Bolt Cutters ([#60013](https://github.com/CleverRaven/Cataclysm-DDA/pull/60013))
 * Add bounds checking in explosion processing ([#60004](https://github.com/CleverRaven/Cataclysm-DDA/pull/60004))
-* Fix XS/XL crafts for sheet metal arm/leg guards ([#60003](https://github.com/CleverRaven/Cataclysm-DDA/pull/60003))
