@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-17-1336 ([915ef22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-1336))
+
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
 
 ---
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-08-12-0602 ([750edd4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-12-0602))
 
 * Update military composite armor ([#60063](https://github.com/CleverRaven/Cataclysm-DDA/pull/60063))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-11-0602 ([16d7e69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-11-0602))
-
 * ramming w/ sharp bits inflicts bleeding ([#60069](https://github.com/CleverRaven/Cataclysm-DDA/pull/60069))
 * Only fill items as much as parent containers allow ([#60043](https://github.com/CleverRaven/Cataclysm-DDA/pull/60043))
 * Remove bones from octopodes/kraken ([#60042](https://github.com/CleverRaven/Cataclysm-DDA/pull/60042))
