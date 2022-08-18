@@ -1,3 +1,4 @@
+* Miscellaneous recipe fixups (Roasted Garlic, Window with Curtains) (#60249)
 
 Cataclysm-DDA experimental build 2022-08-18-0213 (657d582)
 * Update headlamp's armor coverage (#60230)
@@ -136,5 +137,4 @@ Cataclysm-DDA experimental build 2022-08-13-0616 (13fbcc2)
 * Remove bones from octopodes/kraken (#60042)
 * 🍞 Add 'any_bread' requirement group. Allow meatballs to use 'any_bread' 🧆 (#60044)
 * Kraken/octopodes now make slithering sounds, not walking sounds (#60041)
-* Fix crash in mdefense::return_fire (#60032)
 * Reduce library fires (#60034)
