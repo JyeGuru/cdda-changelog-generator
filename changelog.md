@@ -1,3 +1,13 @@
+* [CR] Use lifting assists for crafting ([#60224](https://github.com/CleverRaven/Cataclysm-DDA/pull/60224))
+* Traps only cause tetanus if they did cut damage ([#60236](https://github.com/CleverRaven/Cataclysm-DDA/pull/60236))
+* translations.cpp: fix error when LOCALIZE=0 on BSDs ([#60240](https://github.com/CleverRaven/Cataclysm-DDA/pull/60240))
+* Fix typo for scientific name of tetanus: species name should be lower case ([#60250](https://github.com/CleverRaven/Cataclysm-DDA/pull/60250))
+* adds several missing t-shirts to recipe_deconstruction.json ([#60256](https://github.com/CleverRaven/Cataclysm-DDA/pull/60256))
+* unload fixes ([#60255](https://github.com/CleverRaven/Cataclysm-DDA/pull/60255))
+* less redundancy in burger flipper background ([#60260](https://github.com/CleverRaven/Cataclysm-DDA/pull/60260))
+* Flagify COLDBLOOD mutations ([#60052](https://github.com/CleverRaven/Cataclysm-DDA/pull/60052))
+* Small unfinished evac shelter update ([#60128](https://github.com/CleverRaven/Cataclysm-DDA/pull/60128))
+* add mouse support to mission menu (M) ([#60084](https://github.com/CleverRaven/Cataclysm-DDA/pull/60084))
 
 ---
 
@@ -165,9 +175,7 @@
 * Regionalize NPC locations ([#60111](https://github.com/CleverRaven/Cataclysm-DDA/pull/60111))
 * Regionalize salon ([#60109](https://github.com/CleverRaven/Cataclysm-DDA/pull/60109))
 * Fix some Innawood missions ([#60077](https://github.com/CleverRaven/Cataclysm-DDA/pull/60077))
-* Enchanted Tailoring Kit can repair nylon ([#60022](https://github.com/CleverRaven/Cataclysm-DDA/pull/60022))
 * "Waterbottle" typo fix ([#60112](https://github.com/CleverRaven/Cataclysm-DDA/pull/60112))
-* Clear explosions at the end of vehicle turret test ([#60026](https://github.com/CleverRaven/Cataclysm-DDA/pull/60026))
 * Have You Seen This Person? ([#60045](https://github.com/CleverRaven/Cataclysm-DDA/pull/60045))
 * Prevent moving an item when it's already in the only spot it fits in ([#60057](https://github.com/CleverRaven/Cataclysm-DDA/pull/60057))
 * :potato: Ground nut cooking :sweet_potato:  ([#60067](https://github.com/CleverRaven/Cataclysm-DDA/pull/60067))
@@ -180,26 +188,14 @@
 * Survivor Note Minor Typo Fix ([#60098](https://github.com/CleverRaven/Cataclysm-DDA/pull/60098))
 * [DinoMod] angry dinos don't always hate the player ([#60101](https://github.com/CleverRaven/Cataclysm-DDA/pull/60101))
 * Fix unarmed weapons not working due to incorrect attack vector ([#60103](https://github.com/CleverRaven/Cataclysm-DDA/pull/60103))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-13-0007 ([2cf75f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-0007))
-
 * Small subway station update ([#60107](https://github.com/CleverRaven/Cataclysm-DDA/pull/60107))
 * Update military composite armor ([#60063](https://github.com/CleverRaven/Cataclysm-DDA/pull/60063))
 * ramming w/ sharp bits inflicts bleeding ([#60069](https://github.com/CleverRaven/Cataclysm-DDA/pull/60069))
 * Only fill items as much as parent containers allow ([#60043](https://github.com/CleverRaven/Cataclysm-DDA/pull/60043))
 * Remove bones from octopodes/kraken ([#60042](https://github.com/CleverRaven/Cataclysm-DDA/pull/60042))
 * 🍞 Add 'any_bread' requirement group. Allow meatballs to use 'any_bread' 🧆 ([#60044](https://github.com/CleverRaven/Cataclysm-DDA/pull/60044))
-* Fix subcategories for sheet metal armor recipes ([#60016](https://github.com/CleverRaven/Cataclysm-DDA/pull/60016))
 * Kraken/octopodes now make slithering sounds, not walking sounds ([#60041](https://github.com/CleverRaven/Cataclysm-DDA/pull/60041))
 * Convert enchantment to mutation ([#60031](https://github.com/CleverRaven/Cataclysm-DDA/pull/60031))
 * Fix building with clang-cl under visual studio. ([#60030](https://github.com/CleverRaven/Cataclysm-DDA/pull/60030))
 * Fix crash in mdefense::return_fire ([#60032](https://github.com/CleverRaven/Cataclysm-DDA/pull/60032))
 * Reduce library fires ([#60034](https://github.com/CleverRaven/Cataclysm-DDA/pull/60034))
-* Healthy bounds: ensure comest actually has mutagen vitamin ([#60028](https://github.com/CleverRaven/Cataclysm-DDA/pull/60028))
-* Update reason for inability to remove Telescopic Eyes CBM ([#60020](https://github.com/CleverRaven/Cataclysm-DDA/pull/60020))
-* Update comment-commands.yml ([#60023](https://github.com/CleverRaven/Cataclysm-DDA/pull/60023))
-* [Xedra Evolved] Fix fetch corpse disappearance message ([#60029](https://github.com/CleverRaven/Cataclysm-DDA/pull/60029))
-* Update constructor of mm_region ([#60018](https://github.com/CleverRaven/Cataclysm-DDA/pull/60018))
-* Fix microlab shifting hallway ctd ([#60014](https://github.com/CleverRaven/Cataclysm-DDA/pull/60014))
