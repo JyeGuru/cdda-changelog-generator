@@ -1,3 +1,10 @@
+* Add roll remainder dialog function ([#60263](https://github.com/CleverRaven/Cataclysm-DDA/pull/60263))
+* A dragons dream ... and achievement ([#60265](https://github.com/CleverRaven/Cataclysm-DDA/pull/60265))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-18-0523 ([09f19e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-18-0523))
+
 * Miscellaneous recipe fixups (Roasted Garlic, Window with Curtains) ([#60249](https://github.com/CleverRaven/Cataclysm-DDA/pull/60249))
 
 ---
@@ -160,7 +167,6 @@
 * Abandoned shopping plaza roof ([#60080](https://github.com/CleverRaven/Cataclysm-DDA/pull/60080))
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
 * Add Overmap Special: Retirement Community ([#60070](https://github.com/CleverRaven/Cataclysm-DDA/pull/60070))
-* Make silver watch uncraft equal to the other clockwork watches ([#60035](https://github.com/CleverRaven/Cataclysm-DDA/pull/60035))
 * Fix json extractor not extracting "concatenate" in dynamic_line ([#60116](https://github.com/CleverRaven/Cataclysm-DDA/pull/60116))
 
 ---
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-08-13-1133 ([e90cba8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-1133))
 
 * Acid Anthills ([#60095](https://github.com/CleverRaven/Cataclysm-DDA/pull/60095))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-13-0616 ([13fbcc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-0616))
-
 * Routine i18n updates on 13 August 2022 ([#60114](https://github.com/CleverRaven/Cataclysm-DDA/pull/60114))
 * Regionalize NPC locations ([#60111](https://github.com/CleverRaven/Cataclysm-DDA/pull/60111))
 * Regionalize salon ([#60109](https://github.com/CleverRaven/Cataclysm-DDA/pull/60109))
@@ -203,4 +204,3 @@
 * Remove bones from octopodes/kraken ([#60042](https://github.com/CleverRaven/Cataclysm-DDA/pull/60042))
 * 🍞 Add 'any_bread' requirement group. Allow meatballs to use 'any_bread' 🧆 ([#60044](https://github.com/CleverRaven/Cataclysm-DDA/pull/60044))
 * Kraken/octopodes now make slithering sounds, not walking sounds ([#60041](https://github.com/CleverRaven/Cataclysm-DDA/pull/60041))
-* Reduce library fires ([#60034](https://github.com/CleverRaven/Cataclysm-DDA/pull/60034))
