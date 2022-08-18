@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-18-0213 ([657d582](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-18-0213))
+
+* Update headlamp's armor coverage ([#60230](https://github.com/CleverRaven/Cataclysm-DDA/pull/60230))
+* Adding in zombie bullfrog ([#60254](https://github.com/CleverRaven/Cataclysm-DDA/pull/60254))
 * [CR] Use lifting assists for crafting ([#60224](https://github.com/CleverRaven/Cataclysm-DDA/pull/60224))
 * Traps only cause tetanus if they did cut damage ([#60236](https://github.com/CleverRaven/Cataclysm-DDA/pull/60236))
 * translations.cpp: fix error when LOCALIZE=0 on BSDs ([#60240](https://github.com/CleverRaven/Cataclysm-DDA/pull/60240))
@@ -195,7 +202,5 @@
 * Remove bones from octopodes/kraken ([#60042](https://github.com/CleverRaven/Cataclysm-DDA/pull/60042))
 * 🍞 Add 'any_bread' requirement group. Allow meatballs to use 'any_bread' 🧆 ([#60044](https://github.com/CleverRaven/Cataclysm-DDA/pull/60044))
 * Kraken/octopodes now make slithering sounds, not walking sounds ([#60041](https://github.com/CleverRaven/Cataclysm-DDA/pull/60041))
-* Convert enchantment to mutation ([#60031](https://github.com/CleverRaven/Cataclysm-DDA/pull/60031))
-* Fix building with clang-cl under visual studio. ([#60030](https://github.com/CleverRaven/Cataclysm-DDA/pull/60030))
 * Fix crash in mdefense::return_fire ([#60032](https://github.com/CleverRaven/Cataclysm-DDA/pull/60032))
 * Reduce library fires ([#60034](https://github.com/CleverRaven/Cataclysm-DDA/pull/60034))
