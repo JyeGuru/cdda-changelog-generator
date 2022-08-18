@@ -165,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-08-13-2356 ([bd5813a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-2356))
 
 * Fix gunshow nested error ([#60131](https://github.com/CleverRaven/Cataclysm-DDA/pull/60131))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-13-2058 ([6791af5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-2058))
-
 * Abandoned shopping plaza roof ([#60080](https://github.com/CleverRaven/Cataclysm-DDA/pull/60080))
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
 * Add Overmap Special: Retirement Community ([#60070](https://github.com/CleverRaven/Cataclysm-DDA/pull/60070))

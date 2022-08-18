@@ -105,8 +105,6 @@ Cataclysm-DDA experimental build 2022-08-14-0513 (0df7d8f)
 
 Cataclysm-DDA experimental build 2022-08-13-2356 (bd5813a)
 * Fix gunshow nested error (#60131)
-
-Cataclysm-DDA experimental build 2022-08-13-2058 (6791af5)
 * Abandoned shopping plaza roof (#60080)
 * fix crash after accepting mission twice (#60115)
 * Add Overmap Special: Retirement Community (#60070)
