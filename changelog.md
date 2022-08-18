@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-18-2112 ([725e825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-18-2112))
+
+* Added "Padded" to both sets of AR glasses ([#60281](https://github.com/CleverRaven/Cataclysm-DDA/pull/60281))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-18-0629 ([d652102](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-18-0629))
 
 * [Magiclysm] Add more variety to looks_like of magical herbs ([#60238](https://github.com/CleverRaven/Cataclysm-DDA/pull/60238))
@@ -159,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-08-14-0513 ([0df7d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-14-0513))
 
 * One more fix for qt_machete recipe ([#60059](https://github.com/CleverRaven/Cataclysm-DDA/pull/60059))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-13-2356 ([bd5813a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-2356))
-
 * Fix gunshow nested error ([#60131](https://github.com/CleverRaven/Cataclysm-DDA/pull/60131))
 * Abandoned shopping plaza roof ([#60080](https://github.com/CleverRaven/Cataclysm-DDA/pull/60080))
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
@@ -192,5 +193,4 @@
 * Update military composite armor ([#60063](https://github.com/CleverRaven/Cataclysm-DDA/pull/60063))
 * ramming w/ sharp bits inflicts bleeding ([#60069](https://github.com/CleverRaven/Cataclysm-DDA/pull/60069))
 * Only fill items as much as parent containers allow ([#60043](https://github.com/CleverRaven/Cataclysm-DDA/pull/60043))
-* Remove bones from octopodes/kraken ([#60042](https://github.com/CleverRaven/Cataclysm-DDA/pull/60042))
 * 🍞 Add 'any_bread' requirement group. Allow meatballs to use 'any_bread' 🧆 ([#60044](https://github.com/CleverRaven/Cataclysm-DDA/pull/60044))
