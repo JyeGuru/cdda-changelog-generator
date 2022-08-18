@@ -174,11 +174,6 @@
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
 * Add Overmap Special: Retirement Community ([#60070](https://github.com/CleverRaven/Cataclysm-DDA/pull/60070))
 * Fix json extractor not extracting "concatenate" in dynamic_line ([#60116](https://github.com/CleverRaven/Cataclysm-DDA/pull/60116))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-13-1957 ([65b7114](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-1957))
-
 * On death all hacks will drop only their broken versions and nothing else ([#60123](https://github.com/CleverRaven/Cataclysm-DDA/pull/60123))
 * Acid Anthills ([#60095](https://github.com/CleverRaven/Cataclysm-DDA/pull/60095))
 * Routine i18n updates on 13 August 2022 ([#60114](https://github.com/CleverRaven/Cataclysm-DDA/pull/60114))
