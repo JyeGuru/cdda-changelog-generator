@@ -1,3 +1,11 @@
+* Nested Recipes - Chain Armor ([#60268](https://github.com/CleverRaven/Cataclysm-DDA/pull/60268))
+* Nerf Isherwood dandelion quest rewards ([#60273](https://github.com/CleverRaven/Cataclysm-DDA/pull/60273))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-19-1649 ([7451a94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-1649))
+
+* Animal ports from TropiCata to Mainline + egg density fixes for insects and birds ([#60234](https://github.com/CleverRaven/Cataclysm-DDA/pull/60234))
 
 ---
 
@@ -50,7 +58,6 @@
 * adds several missing t-shirts to recipe_deconstruction.json ([#60256](https://github.com/CleverRaven/Cataclysm-DDA/pull/60256))
 * unload fixes ([#60255](https://github.com/CleverRaven/Cataclysm-DDA/pull/60255))
 * less redundancy in burger flipper background ([#60260](https://github.com/CleverRaven/Cataclysm-DDA/pull/60260))
-* Flagify COLDBLOOD mutations ([#60052](https://github.com/CleverRaven/Cataclysm-DDA/pull/60052))
 * Small unfinished evac shelter update ([#60128](https://github.com/CleverRaven/Cataclysm-DDA/pull/60128))
 * add mouse support to mission menu (M) ([#60084](https://github.com/CleverRaven/Cataclysm-DDA/pull/60084))
 
@@ -156,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-08-15-1407 ([ad60e77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-1407))
 
 * Nested Recipes - Gas Masks, Rebreathers and More ([#60168](https://github.com/CleverRaven/Cataclysm-DDA/pull/60168))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-15-0545 ([a156501](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-0545))
-
 * Routine tileset updates on 14 August 2022 ([#60162](https://github.com/CleverRaven/Cataclysm-DDA/pull/60162))
 * Capitalize the doge 🐕 ([#60149](https://github.com/CleverRaven/Cataclysm-DDA/pull/60149))
 * Add Flags from the New England States ([#60147](https://github.com/CleverRaven/Cataclysm-DDA/pull/60147))
@@ -180,7 +182,6 @@
 * Regionalize salon ([#60109](https://github.com/CleverRaven/Cataclysm-DDA/pull/60109))
 * Fix some Innawood missions ([#60077](https://github.com/CleverRaven/Cataclysm-DDA/pull/60077))
 * "Waterbottle" typo fix ([#60112](https://github.com/CleverRaven/Cataclysm-DDA/pull/60112))
-* Prevent moving an item when it's already in the only spot it fits in ([#60057](https://github.com/CleverRaven/Cataclysm-DDA/pull/60057))
 * :potato: Ground nut cooking :sweet_potato:  ([#60067](https://github.com/CleverRaven/Cataclysm-DDA/pull/60067))
 * Improve the density test of known bad items ([#60075](https://github.com/CleverRaven/Cataclysm-DDA/pull/60075))
 * UI hint for dissecting proficiencies training ([#60076](https://github.com/CleverRaven/Cataclysm-DDA/pull/60076))
