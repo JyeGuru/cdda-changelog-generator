@@ -1,3 +1,16 @@
+* [Interface] New Widget for Structured Sidebar ([#60244](https://github.com/CleverRaven/Cataclysm-DDA/pull/60244))
+* [DinoMod] slower zombie dino upgrades ([#60311](https://github.com/CleverRaven/Cataclysm-DDA/pull/60311))
+* [Xedra Evolved] Adds itemgroups for spell items ([#60296](https://github.com/CleverRaven/Cataclysm-DDA/pull/60296))
+* [Xedra Evolved] Bugfixes missing eoc traits. ([#60295](https://github.com/CleverRaven/Cataclysm-DDA/pull/60295))
+* Fix typos ([#60269](https://github.com/CleverRaven/Cataclysm-DDA/pull/60269))
+* Wooden pulley fixes ([#60285](https://github.com/CleverRaven/Cataclysm-DDA/pull/60285))
+* Bill/Brush Axe looks_like fix ([#60299](https://github.com/CleverRaven/Cataclysm-DDA/pull/60299))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-19-2214 ([3f917ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-2214))
+
+* Update martialarts.json ([#60305](https://github.com/CleverRaven/Cataclysm-DDA/pull/60305))
 
 ---
 
@@ -149,12 +162,6 @@
 #### Cataclysm-DDA experimental build 2022-08-16-0200 ([372e2a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-16-0200))
 
 * Oven door needs pane of glass rather than sheet ([#60192](https://github.com/CleverRaven/Cataclysm-DDA/pull/60192))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-15-2304 ([c29379d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-2304))
-
-* README: Add contributors' image ([#60074](https://github.com/CleverRaven/Cataclysm-DDA/pull/60074))
 * Expand Curses mouse support ([#60102](https://github.com/CleverRaven/Cataclysm-DDA/pull/60102))
 * COMPILING.md: Add reference to `-j$(nproc)`, and some minor edits ([#60134](https://github.com/CleverRaven/Cataclysm-DDA/pull/60134))
 * Fix vac_pump post apocalypse value. ([#60173](https://github.com/CleverRaven/Cataclysm-DDA/pull/60173))
@@ -180,19 +187,13 @@
 * Fix gunshow nested error ([#60131](https://github.com/CleverRaven/Cataclysm-DDA/pull/60131))
 * Abandoned shopping plaza roof ([#60080](https://github.com/CleverRaven/Cataclysm-DDA/pull/60080))
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
-* Add Overmap Special: Retirement Community ([#60070](https://github.com/CleverRaven/Cataclysm-DDA/pull/60070))
 * Fix json extractor not extracting "concatenate" in dynamic_line ([#60116](https://github.com/CleverRaven/Cataclysm-DDA/pull/60116))
 * On death all hacks will drop only their broken versions and nothing else ([#60123](https://github.com/CleverRaven/Cataclysm-DDA/pull/60123))
 * Acid Anthills ([#60095](https://github.com/CleverRaven/Cataclysm-DDA/pull/60095))
 * Routine i18n updates on 13 August 2022 ([#60114](https://github.com/CleverRaven/Cataclysm-DDA/pull/60114))
 * Regionalize NPC locations ([#60111](https://github.com/CleverRaven/Cataclysm-DDA/pull/60111))
 * Regionalize salon ([#60109](https://github.com/CleverRaven/Cataclysm-DDA/pull/60109))
-* Fix some Innawood missions ([#60077](https://github.com/CleverRaven/Cataclysm-DDA/pull/60077))
 * "Waterbottle" typo fix ([#60112](https://github.com/CleverRaven/Cataclysm-DDA/pull/60112))
-* :potato: Ground nut cooking :sweet_potato:  ([#60067](https://github.com/CleverRaven/Cataclysm-DDA/pull/60067))
-* Improve the density test of known bad items ([#60075](https://github.com/CleverRaven/Cataclysm-DDA/pull/60075))
-* UI hint for dissecting proficiencies training ([#60076](https://github.com/CleverRaven/Cataclysm-DDA/pull/60076))
-* Minor Typo Fix to Staggered Desc ([#60078](https://github.com/CleverRaven/Cataclysm-DDA/pull/60078))
 * Bring back amigara whispers ([#60082](https://github.com/CleverRaven/Cataclysm-DDA/pull/60082))
 *  fix:NPC repairing vehicle crashes the game ([#60087](https://github.com/CleverRaven/Cataclysm-DDA/pull/60087))
 * Remove Z-level requirement from 'Swimming merit badge' ([#60091](https://github.com/CleverRaven/Cataclysm-DDA/pull/60091))
@@ -200,4 +201,3 @@
 * [DinoMod] angry dinos don't always hate the player ([#60101](https://github.com/CleverRaven/Cataclysm-DDA/pull/60101))
 * Fix unarmed weapons not working due to incorrect attack vector ([#60103](https://github.com/CleverRaven/Cataclysm-DDA/pull/60103))
 * Small subway station update ([#60107](https://github.com/CleverRaven/Cataclysm-DDA/pull/60107))
-* ramming w/ sharp bits inflicts bleeding ([#60069](https://github.com/CleverRaven/Cataclysm-DDA/pull/60069))
