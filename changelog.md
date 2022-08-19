@@ -1,3 +1,11 @@
+* Fix: "person" monster dissipates silently ([#60270](https://github.com/CleverRaven/Cataclysm-DDA/pull/60270))
+* Fix crash when the creature that kills the player no longer exists ([#60272](https://github.com/CleverRaven/Cataclysm-DDA/pull/60272))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-19-1931 ([0ba9a3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-1931))
+
+* Nested Recipes - Ropes, Bundles, Shelled Nuts ([#60297](https://github.com/CleverRaven/Cataclysm-DDA/pull/60297))
 
 ---
 
@@ -169,7 +177,6 @@
 * Fix item density test ([#60137](https://github.com/CleverRaven/Cataclysm-DDA/pull/60137))
 * colorscheme: add articblush ([#60136](https://github.com/CleverRaven/Cataclysm-DDA/pull/60136))
 * fix: don't mark 0.G related issues as stale ([#60148](https://github.com/CleverRaven/Cataclysm-DDA/pull/60148))
-* One more fix for qt_machete recipe ([#60059](https://github.com/CleverRaven/Cataclysm-DDA/pull/60059))
 * Fix gunshow nested error ([#60131](https://github.com/CleverRaven/Cataclysm-DDA/pull/60131))
 * Abandoned shopping plaza roof ([#60080](https://github.com/CleverRaven/Cataclysm-DDA/pull/60080))
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
@@ -193,5 +200,4 @@
 * [DinoMod] angry dinos don't always hate the player ([#60101](https://github.com/CleverRaven/Cataclysm-DDA/pull/60101))
 * Fix unarmed weapons not working due to incorrect attack vector ([#60103](https://github.com/CleverRaven/Cataclysm-DDA/pull/60103))
 * Small subway station update ([#60107](https://github.com/CleverRaven/Cataclysm-DDA/pull/60107))
-* Update military composite armor ([#60063](https://github.com/CleverRaven/Cataclysm-DDA/pull/60063))
 * ramming w/ sharp bits inflicts bleeding ([#60069](https://github.com/CleverRaven/Cataclysm-DDA/pull/60069))
