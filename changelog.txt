@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-19-1547 (dd59e08)
+* Modular Defense Anchor is SOFT (#60279)
+
 Cataclysm-DDA experimental build 2022-08-19-0631 (d060cb9)
 * 🌲 Use pine resin for waterproofing 🌲 (#60291)
 
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2022-08-15-1407 (ad60e77)
 
 Cataclysm-DDA experimental build 2022-08-15-0545 (a156501)
 * Routine tileset updates on 14 August 2022 (#60162)
-
-Cataclysm-DDA experimental build 2022-08-14-1749 (e519404)
 * Capitalize the doge 🐕 (#60149)
 * Add Flags from the New England States (#60147)
 * Fix item density test (#60137)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2022-08-14-1749 (e519404)
 * Regionalize salon (#60109)
 * Fix some Innawood missions (#60077)
 * "Waterbottle" typo fix (#60112)
-* Have You Seen This Person? (#60045)
 * Prevent moving an item when it's already in the only spot it fits in (#60057)
 * :potato: Ground nut cooking :sweet_potato:  (#60067)
 * Improve the density test of known bad items (#60075)

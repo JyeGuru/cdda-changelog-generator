@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-19-1547 ([dd59e08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-1547))
+
+* Modular Defense Anchor is SOFT ([#60279](https://github.com/CleverRaven/Cataclysm-DDA/pull/60279))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-19-0631 ([d060cb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-0631))
 
 * 🌲 Use pine resin for waterproofing 🌲 ([#60291](https://github.com/CleverRaven/Cataclysm-DDA/pull/60291))
@@ -156,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2022-08-15-0545 ([a156501](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-0545))
 
 * Routine tileset updates on 14 August 2022 ([#60162](https://github.com/CleverRaven/Cataclysm-DDA/pull/60162))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-14-1749 ([e519404](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-14-1749))
-
 * Capitalize the doge 🐕 ([#60149](https://github.com/CleverRaven/Cataclysm-DDA/pull/60149))
 * Add Flags from the New England States ([#60147](https://github.com/CleverRaven/Cataclysm-DDA/pull/60147))
 * Fix item density test ([#60137](https://github.com/CleverRaven/Cataclysm-DDA/pull/60137))
@@ -179,7 +180,6 @@
 * Regionalize salon ([#60109](https://github.com/CleverRaven/Cataclysm-DDA/pull/60109))
 * Fix some Innawood missions ([#60077](https://github.com/CleverRaven/Cataclysm-DDA/pull/60077))
 * "Waterbottle" typo fix ([#60112](https://github.com/CleverRaven/Cataclysm-DDA/pull/60112))
-* Have You Seen This Person? ([#60045](https://github.com/CleverRaven/Cataclysm-DDA/pull/60045))
 * Prevent moving an item when it's already in the only spot it fits in ([#60057](https://github.com/CleverRaven/Cataclysm-DDA/pull/60057))
 * :potato: Ground nut cooking :sweet_potato:  ([#60067](https://github.com/CleverRaven/Cataclysm-DDA/pull/60067))
 * Improve the density test of known bad items ([#60075](https://github.com/CleverRaven/Cataclysm-DDA/pull/60075))
