@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-19-2032 ([326fae6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-2032))
+
 * Fix: "person" monster dissipates silently ([#60270](https://github.com/CleverRaven/Cataclysm-DDA/pull/60270))
 * Fix crash when the creature that kills the player no longer exists ([#60272](https://github.com/CleverRaven/Cataclysm-DDA/pull/60272))
 
@@ -163,11 +168,6 @@
 * Allow tin snips to cut chain fences ([#60156](https://github.com/CleverRaven/Cataclysm-DDA/pull/60156))
 * Nesting big bag tests and fixes for disapearing items ([#60151](https://github.com/CleverRaven/Cataclysm-DDA/pull/60151))
 * Fix Nesting Gas Mask/Rebreather ([#60178](https://github.com/CleverRaven/Cataclysm-DDA/pull/60178))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-15-2153 ([846a57c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-2153))
-
 * Fix erroneous weakpoint effect id ([#60179](https://github.com/CleverRaven/Cataclysm-DDA/pull/60179))
 * Nested Recipes - Cuirasses ([#60160](https://github.com/CleverRaven/Cataclysm-DDA/pull/60160))
 * Nested Recipes - Gas Masks, Rebreathers and More ([#60168](https://github.com/CleverRaven/Cataclysm-DDA/pull/60168))
