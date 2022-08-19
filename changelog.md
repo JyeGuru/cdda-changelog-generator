@@ -156,11 +156,6 @@
 * Add Faux Fur Masks to Nesting ([#60189](https://github.com/CleverRaven/Cataclysm-DDA/pull/60189))
 * Portal dungeon work, add enchantments to effects ([#60161](https://github.com/CleverRaven/Cataclysm-DDA/pull/60161))
 * Mutant Moose ([#60166](https://github.com/CleverRaven/Cataclysm-DDA/pull/60166))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-16-0200 ([372e2a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-16-0200))
-
 * Oven door needs pane of glass rather than sheet ([#60192](https://github.com/CleverRaven/Cataclysm-DDA/pull/60192))
 * Expand Curses mouse support ([#60102](https://github.com/CleverRaven/Cataclysm-DDA/pull/60102))
 * COMPILING.md: Add reference to `-j$(nproc)`, and some minor edits ([#60134](https://github.com/CleverRaven/Cataclysm-DDA/pull/60134))
