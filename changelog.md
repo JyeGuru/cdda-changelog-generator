@@ -30,6 +30,11 @@
 #### Cataclysm-DDA experimental build 2022-08-18-0523 ([09f19e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-18-0523))
 
 * Miscellaneous recipe fixups (Roasted Garlic, Window with Curtains) ([#60249](https://github.com/CleverRaven/Cataclysm-DDA/pull/60249))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-18-0213 ([657d582](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-18-0213))
+
 * Update headlamp's armor coverage ([#60230](https://github.com/CleverRaven/Cataclysm-DDA/pull/60230))
 * Adding in zombie bullfrog ([#60254](https://github.com/CleverRaven/Cataclysm-DDA/pull/60254))
 * [CR] Use lifting assists for crafting ([#60224](https://github.com/CleverRaven/Cataclysm-DDA/pull/60224))
@@ -113,6 +118,11 @@
 #### Cataclysm-DDA experimental build 2022-08-16-0200 ([372e2a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-16-0200))
 
 * Oven door needs pane of glass rather than sheet ([#60192](https://github.com/CleverRaven/Cataclysm-DDA/pull/60192))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-15-2304 ([c29379d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-2304))
+
 * README: Add contributors' image ([#60074](https://github.com/CleverRaven/Cataclysm-DDA/pull/60074))
 * Expand Curses mouse support ([#60102](https://github.com/CleverRaven/Cataclysm-DDA/pull/60102))
 * COMPILING.md: Add reference to `-j$(nproc)`, and some minor edits ([#60134](https://github.com/CleverRaven/Cataclysm-DDA/pull/60134))
@@ -134,6 +144,11 @@
 
 * Fix erroneous weakpoint effect id ([#60179](https://github.com/CleverRaven/Cataclysm-DDA/pull/60179))
 * Nested Recipes - Cuirasses ([#60160](https://github.com/CleverRaven/Cataclysm-DDA/pull/60160))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-15-1407 ([ad60e77](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-15-1407))
+
 * Nested Recipes - Gas Masks, Rebreathers and More ([#60168](https://github.com/CleverRaven/Cataclysm-DDA/pull/60168))
 
 ---
@@ -149,24 +164,9 @@
 * Capitalize the doge 🐕 ([#60149](https://github.com/CleverRaven/Cataclysm-DDA/pull/60149))
 * Add Flags from the New England States ([#60147](https://github.com/CleverRaven/Cataclysm-DDA/pull/60147))
 * Fix item density test ([#60137](https://github.com/CleverRaven/Cataclysm-DDA/pull/60137))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-14-1630 ([27aa5d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-14-1630))
-
 * colorscheme: add articblush ([#60136](https://github.com/CleverRaven/Cataclysm-DDA/pull/60136))
 * fix: don't mark 0.G related issues as stale ([#60148](https://github.com/CleverRaven/Cataclysm-DDA/pull/60148))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-14-0513 ([0df7d8f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-14-0513))
-
 * One more fix for qt_machete recipe ([#60059](https://github.com/CleverRaven/Cataclysm-DDA/pull/60059))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-13-2356 ([bd5813a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-13-2356))
-
 * Fix gunshow nested error ([#60131](https://github.com/CleverRaven/Cataclysm-DDA/pull/60131))
 * Abandoned shopping plaza roof ([#60080](https://github.com/CleverRaven/Cataclysm-DDA/pull/60080))
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))

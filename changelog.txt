@@ -15,6 +15,8 @@ Cataclysm-DDA experimental build 2022-08-18-0629 (d652102)
 
 Cataclysm-DDA experimental build 2022-08-18-0523 (09f19e9)
 * Miscellaneous recipe fixups (Roasted Garlic, Window with Curtains) (#60249)
+
+Cataclysm-DDA experimental build 2022-08-18-0213 (657d582)
 * Update headlamp's armor coverage (#60230)
 * Adding in zombie bullfrog (#60254)
 * [CR] Use lifting assists for crafting (#60224)
@@ -71,6 +73,8 @@ Cataclysm-DDA experimental build 2022-08-16-0313 (cee383c)
 
 Cataclysm-DDA experimental build 2022-08-16-0200 (372e2a1)
 * Oven door needs pane of glass rather than sheet (#60192)
+
+Cataclysm-DDA experimental build 2022-08-15-2304 (c29379d)
 * README: Add contributors' image (#60074)
 * Expand Curses mouse support (#60102)
 * COMPILING.md: Add reference to `-j$(nproc)`, and some minor edits (#60134)
@@ -89,6 +93,8 @@ Cataclysm-DDA experimental build 2022-08-16-0200 (372e2a1)
 Cataclysm-DDA experimental build 2022-08-15-2153 (846a57c)
 * Fix erroneous weakpoint effect id (#60179)
 * Nested Recipes - Cuirasses (#60160)
+
+Cataclysm-DDA experimental build 2022-08-15-1407 (ad60e77)
 * Nested Recipes - Gas Masks, Rebreathers and More (#60168)
 
 Cataclysm-DDA experimental build 2022-08-15-0545 (a156501)
@@ -98,15 +104,9 @@ Cataclysm-DDA experimental build 2022-08-14-1749 (e519404)
 * Capitalize the doge 🐕 (#60149)
 * Add Flags from the New England States (#60147)
 * Fix item density test (#60137)
-
-Cataclysm-DDA experimental build 2022-08-14-1630 (27aa5d2)
 * colorscheme: add articblush (#60136)
 * fix: don't mark 0.G related issues as stale (#60148)
-
-Cataclysm-DDA experimental build 2022-08-14-0513 (0df7d8f)
 * One more fix for qt_machete recipe (#60059)
-
-Cataclysm-DDA experimental build 2022-08-13-2356 (bd5813a)
 * Fix gunshow nested error (#60131)
 * Abandoned shopping plaza roof (#60080)
 * fix crash after accepting mission twice (#60115)
