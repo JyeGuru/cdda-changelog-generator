@@ -1,3 +1,4 @@
+* 🌲 Use pine resin for waterproofing 🌲 ([#60291](https://github.com/CleverRaven/Cataclysm-DDA/pull/60291))
 
 ---
 
@@ -193,4 +194,3 @@
 * Small subway station update ([#60107](https://github.com/CleverRaven/Cataclysm-DDA/pull/60107))
 * Update military composite armor ([#60063](https://github.com/CleverRaven/Cataclysm-DDA/pull/60063))
 * ramming w/ sharp bits inflicts bleeding ([#60069](https://github.com/CleverRaven/Cataclysm-DDA/pull/60069))
-* 🍞 Add 'any_bread' requirement group. Allow meatballs to use 'any_bread' 🧆 ([#60044](https://github.com/CleverRaven/Cataclysm-DDA/pull/60044))
