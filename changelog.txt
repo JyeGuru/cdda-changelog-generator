@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-19-1818 (0bd8c02)
 * Nested Recipes - Chain Armor (#60268)
 * Nerf Isherwood dandelion quest rewards (#60273)
 
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2022-08-15-2304 (c29379d)
 Cataclysm-DDA experimental build 2022-08-15-2153 (846a57c)
 * Fix erroneous weakpoint effect id (#60179)
 * Nested Recipes - Cuirasses (#60160)
-
-Cataclysm-DDA experimental build 2022-08-15-1407 (ad60e77)
 * Nested Recipes - Gas Masks, Rebreathers and More (#60168)
 * Routine tileset updates on 14 August 2022 (#60162)
 * Capitalize the doge 🐕 (#60149)
