@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-20-1154 ([5235d18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-1154))
+
 * remove chance of removing mutations from other trees ([#60218](https://github.com/CleverRaven/Cataclysm-DDA/pull/60218))
 
 ---
@@ -127,11 +132,6 @@
 #### Cataclysm-DDA experimental build 2022-08-17-0337 ([f9377d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0337))
 
 * improve environmental protection of second skin ([#60214](https://github.com/CleverRaven/Cataclysm-DDA/pull/60214))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-17-0232 ([378ab82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0232))
-
 * Makefile: separate build and install steps of ./lang ([#60130](https://github.com/CleverRaven/Cataclysm-DDA/pull/60130))
 * Add attack vectors to martialarts_fictional.json(Five Deadly Venoms + Bionic Combatives) ([#60138](https://github.com/CleverRaven/Cataclysm-DDA/pull/60138))
 * Nested Recipes - Teas & Cocktails/Mixed Drinks ([#60165](https://github.com/CleverRaven/Cataclysm-DDA/pull/60165))
