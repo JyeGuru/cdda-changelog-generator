@@ -1,3 +1,10 @@
+* remove chance of removing mutations from other trees ([#60218](https://github.com/CleverRaven/Cataclysm-DDA/pull/60218))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-20-1041 ([f7ccaa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-1041))
+
+* CVD for steel grades ([#60321](https://github.com/CleverRaven/Cataclysm-DDA/pull/60321))
 
 ---
 
@@ -96,7 +103,6 @@
 * unload fixes ([#60255](https://github.com/CleverRaven/Cataclysm-DDA/pull/60255))
 * less redundancy in burger flipper background ([#60260](https://github.com/CleverRaven/Cataclysm-DDA/pull/60260))
 * Small unfinished evac shelter update ([#60128](https://github.com/CleverRaven/Cataclysm-DDA/pull/60128))
-* add mouse support to mission menu (M) ([#60084](https://github.com/CleverRaven/Cataclysm-DDA/pull/60084))
 
 ---
 
@@ -139,11 +145,6 @@
 * Added the emergency blanket as a component for the makeshift sling recipe ([#60226](https://github.com/CleverRaven/Cataclysm-DDA/pull/60226))
 * Cookbook adjective gender fix ([#60225](https://github.com/CleverRaven/Cataclysm-DDA/pull/60225))
 * Nested Recipes - Bleeding Control, Splints, Antiseptics ([#60195](https://github.com/CleverRaven/Cataclysm-DDA/pull/60195))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-17-0113 ([b3c2d3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0113))
-
 * Regionalize occupied homeless camp ([#60120](https://github.com/CleverRaven/Cataclysm-DDA/pull/60120))
 * Update Magiclysm's enchanted rings armor layers and add a "SKINTIGHT" flag to vanilla rings. ([#60088](https://github.com/CleverRaven/Cataclysm-DDA/pull/60088))
 * [Infrastructure] Update of TILESET.md ([#60158](https://github.com/CleverRaven/Cataclysm-DDA/pull/60158))
@@ -184,7 +185,6 @@
 * Regionalize NPC locations ([#60111](https://github.com/CleverRaven/Cataclysm-DDA/pull/60111))
 * Regionalize salon ([#60109](https://github.com/CleverRaven/Cataclysm-DDA/pull/60109))
 * "Waterbottle" typo fix ([#60112](https://github.com/CleverRaven/Cataclysm-DDA/pull/60112))
-* Bring back amigara whispers ([#60082](https://github.com/CleverRaven/Cataclysm-DDA/pull/60082))
 *  fix:NPC repairing vehicle crashes the game ([#60087](https://github.com/CleverRaven/Cataclysm-DDA/pull/60087))
 * Remove Z-level requirement from 'Swimming merit badge' ([#60091](https://github.com/CleverRaven/Cataclysm-DDA/pull/60091))
 * Survivor Note Minor Typo Fix ([#60098](https://github.com/CleverRaven/Cataclysm-DDA/pull/60098))
