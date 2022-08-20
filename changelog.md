@@ -1,3 +1,4 @@
+* Fix HEAL ([#60289](https://github.com/CleverRaven/Cataclysm-DDA/pull/60289))
 
 ---
 
@@ -185,7 +186,6 @@
 * Regionalize NPC locations ([#60111](https://github.com/CleverRaven/Cataclysm-DDA/pull/60111))
 * Regionalize salon ([#60109](https://github.com/CleverRaven/Cataclysm-DDA/pull/60109))
 * "Waterbottle" typo fix ([#60112](https://github.com/CleverRaven/Cataclysm-DDA/pull/60112))
-*  fix:NPC repairing vehicle crashes the game ([#60087](https://github.com/CleverRaven/Cataclysm-DDA/pull/60087))
 * Remove Z-level requirement from 'Swimming merit badge' ([#60091](https://github.com/CleverRaven/Cataclysm-DDA/pull/60091))
 * Survivor Note Minor Typo Fix ([#60098](https://github.com/CleverRaven/Cataclysm-DDA/pull/60098))
 * [DinoMod] angry dinos don't always hate the player ([#60101](https://github.com/CleverRaven/Cataclysm-DDA/pull/60101))

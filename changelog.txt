@@ -1,3 +1,4 @@
+* Fix HEAL (#60289)
 
 Cataclysm-DDA experimental build 2022-08-20-1154 (5235d18)
 * remove chance of removing mutations from other trees (#60218)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2022-08-17-0337 (f9377d8)
 * Regionalize NPC locations (#60111)
 * Regionalize salon (#60109)
 * "Waterbottle" typo fix (#60112)
-*  fix:NPC repairing vehicle crashes the game (#60087)
 * Remove Z-level requirement from 'Swimming merit badge' (#60091)
 * Survivor Note Minor Typo Fix (#60098)
 * [DinoMod] angry dinos don't always hate the player (#60101)
