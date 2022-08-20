@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-20-0247 ([bb2f906](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-0247))
+
+* [Magiclysm] fixing some wizard tower stuff ([#60314](https://github.com/CleverRaven/Cataclysm-DDA/pull/60314))
 * [Interface] New Widget for Structured Sidebar ([#60244](https://github.com/CleverRaven/Cataclysm-DDA/pull/60244))
 * [DinoMod] slower zombie dino upgrades ([#60311](https://github.com/CleverRaven/Cataclysm-DDA/pull/60311))
 * [Xedra Evolved] Adds itemgroups for spell items ([#60296](https://github.com/CleverRaven/Cataclysm-DDA/pull/60296))
@@ -145,11 +151,6 @@
 #### Cataclysm-DDA experimental build 2022-08-16-0617 ([07d8e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-16-0617))
 
 * Update Magiclysm's enchanted rings armor layers and add a "SKINTIGHT" flag to vanilla rings. ([#60088](https://github.com/CleverRaven/Cataclysm-DDA/pull/60088))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-16-0313 ([cee383c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-16-0313))
-
 * [Infrastructure] Update of TILESET.md ([#60158](https://github.com/CleverRaven/Cataclysm-DDA/pull/60158))
 * Nested Recipes-(x)Bows ([#60186](https://github.com/CleverRaven/Cataclysm-DDA/pull/60186))
 * [DinoMod] compsognathus, eoraptor, amargasaurus bio-operators ([#60155](https://github.com/CleverRaven/Cataclysm-DDA/pull/60155))
@@ -180,7 +181,6 @@
 * colorscheme: add articblush ([#60136](https://github.com/CleverRaven/Cataclysm-DDA/pull/60136))
 * fix: don't mark 0.G related issues as stale ([#60148](https://github.com/CleverRaven/Cataclysm-DDA/pull/60148))
 * Fix gunshow nested error ([#60131](https://github.com/CleverRaven/Cataclysm-DDA/pull/60131))
-* Abandoned shopping plaza roof ([#60080](https://github.com/CleverRaven/Cataclysm-DDA/pull/60080))
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
 * Fix json extractor not extracting "concatenate" in dynamic_line ([#60116](https://github.com/CleverRaven/Cataclysm-DDA/pull/60116))
 * On death all hacks will drop only their broken versions and nothing else ([#60123](https://github.com/CleverRaven/Cataclysm-DDA/pull/60123))
