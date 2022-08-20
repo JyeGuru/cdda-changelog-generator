@@ -145,11 +145,6 @@
 #### Cataclysm-DDA experimental build 2022-08-17-0113 ([b3c2d3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0113))
 
 * Regionalize occupied homeless camp ([#60120](https://github.com/CleverRaven/Cataclysm-DDA/pull/60120))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-16-0617 ([07d8e66](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-16-0617))
-
 * Update Magiclysm's enchanted rings armor layers and add a "SKINTIGHT" flag to vanilla rings. ([#60088](https://github.com/CleverRaven/Cataclysm-DDA/pull/60088))
 * [Infrastructure] Update of TILESET.md ([#60158](https://github.com/CleverRaven/Cataclysm-DDA/pull/60158))
 * Nested Recipes-(x)Bows ([#60186](https://github.com/CleverRaven/Cataclysm-DDA/pull/60186))
