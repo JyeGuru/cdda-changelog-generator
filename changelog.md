@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-20-1255 ([630e438](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-1255))
+
 * Fix HEAL ([#60289](https://github.com/CleverRaven/Cataclysm-DDA/pull/60289))
 
 ---
@@ -127,11 +132,6 @@
 #### Cataclysm-DDA experimental build 2022-08-17-0532 ([61f3a8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0532))
 
 * add crowbars to batons group ([#60216](https://github.com/CleverRaven/Cataclysm-DDA/pull/60216))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-17-0337 ([f9377d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0337))
-
 * improve environmental protection of second skin ([#60214](https://github.com/CleverRaven/Cataclysm-DDA/pull/60214))
 * Makefile: separate build and install steps of ./lang ([#60130](https://github.com/CleverRaven/Cataclysm-DDA/pull/60130))
 * Add attack vectors to martialarts_fictional.json(Five Deadly Venoms + Bionic Combatives) ([#60138](https://github.com/CleverRaven/Cataclysm-DDA/pull/60138))
