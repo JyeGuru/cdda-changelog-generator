@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-21-0653 ([8372ed1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-0653))
+
 * Routine i18n updates on 20 August 2022 ([#60320](https://github.com/CleverRaven/Cataclysm-DDA/pull/60320))
 * Nested Categories Only Show If Populated ([#60302](https://github.com/CleverRaven/Cataclysm-DDA/pull/60302))
 * Lumberjack tool group expansion ([#60337](https://github.com/CleverRaven/Cataclysm-DDA/pull/60337))
