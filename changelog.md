@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-21-0814 ([8fdb861](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-0814))
+
 * neoprene doesn't breathe ([#60338](https://github.com/CleverRaven/Cataclysm-DDA/pull/60338))
 
 ---
