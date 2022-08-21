@@ -1,3 +1,4 @@
+* neoprene doesn't breathe (#60338)
 
 Cataclysm-DDA experimental build 2022-08-21-0653 (8372ed1)
 * Routine i18n updates on 20 August 2022 (#60320)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-08-17-1336 (915ef22)
 * fix crash after accepting mission twice (#60115)
 * Fix json extractor not extracting "concatenate" in dynamic_line (#60116)
 * On death all hacks will drop only their broken versions and nothing else (#60123)
-* Routine i18n updates on 13 August 2022 (#60114)

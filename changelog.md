@@ -1,3 +1,4 @@
+* neoprene doesn't breathe ([#60338](https://github.com/CleverRaven/Cataclysm-DDA/pull/60338))
 
 ---
 
@@ -196,4 +197,3 @@
 * fix crash after accepting mission twice ([#60115](https://github.com/CleverRaven/Cataclysm-DDA/pull/60115))
 * Fix json extractor not extracting "concatenate" in dynamic_line ([#60116](https://github.com/CleverRaven/Cataclysm-DDA/pull/60116))
 * On death all hacks will drop only their broken versions and nothing else ([#60123](https://github.com/CleverRaven/Cataclysm-DDA/pull/60123))
-* Routine i18n updates on 13 August 2022 ([#60114](https://github.com/CleverRaven/Cataclysm-DDA/pull/60114))
