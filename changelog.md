@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-21-0551 ([876907a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-0551))
+
+* ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ ([#60344](https://github.com/CleverRaven/Cataclysm-DDA/pull/60344))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-20-1255 ([630e438](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-1255))
 
 * Fix HEAL ([#60289](https://github.com/CleverRaven/Cataclysm-DDA/pull/60289))
@@ -126,11 +132,6 @@
 #### Cataclysm-DDA experimental build 2022-08-17-1336 ([915ef22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-1336))
 
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-17-0532 ([61f3a8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-0532))
-
 * add crowbars to batons group ([#60216](https://github.com/CleverRaven/Cataclysm-DDA/pull/60216))
 * improve environmental protection of second skin ([#60214](https://github.com/CleverRaven/Cataclysm-DDA/pull/60214))
 * Makefile: separate build and install steps of ./lang ([#60130](https://github.com/CleverRaven/Cataclysm-DDA/pull/60130))
@@ -147,7 +148,6 @@
 * Cookbook adjective gender fix ([#60225](https://github.com/CleverRaven/Cataclysm-DDA/pull/60225))
 * Nested Recipes - Bleeding Control, Splints, Antiseptics ([#60195](https://github.com/CleverRaven/Cataclysm-DDA/pull/60195))
 * Regionalize occupied homeless camp ([#60120](https://github.com/CleverRaven/Cataclysm-DDA/pull/60120))
-* Update Magiclysm's enchanted rings armor layers and add a "SKINTIGHT" flag to vanilla rings. ([#60088](https://github.com/CleverRaven/Cataclysm-DDA/pull/60088))
 * [Infrastructure] Update of TILESET.md ([#60158](https://github.com/CleverRaven/Cataclysm-DDA/pull/60158))
 * Nested Recipes-(x)Bows ([#60186](https://github.com/CleverRaven/Cataclysm-DDA/pull/60186))
 * [DinoMod] compsognathus, eoraptor, amargasaurus bio-operators ([#60155](https://github.com/CleverRaven/Cataclysm-DDA/pull/60155))
