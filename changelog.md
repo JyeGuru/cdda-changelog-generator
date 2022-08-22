@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-22-0540 ([f0d7703](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-22-0540))
+
+* Routine tileset updates on 21 August 2022 ([#60361](https://github.com/CleverRaven/Cataclysm-DDA/pull/60361))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-21-1332 ([a2991c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-1332))
 
 * Add Cut 1 Quality to Bionic Razor CBM ([#60345](https://github.com/CleverRaven/Cataclysm-DDA/pull/60345))
@@ -154,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-08-17-1838 ([4e93c1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-1838))
 
 * colorscheme: add iceberg light and dark ([#60247](https://github.com/CleverRaven/Cataclysm-DDA/pull/60247))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-17-1336 ([915ef22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-17-1336))
-
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
 * add crowbars to batons group ([#60216](https://github.com/CleverRaven/Cataclysm-DDA/pull/60216))
 * improve environmental protection of second skin ([#60214](https://github.com/CleverRaven/Cataclysm-DDA/pull/60214))
@@ -205,5 +206,4 @@
 * colorscheme: add articblush ([#60136](https://github.com/CleverRaven/Cataclysm-DDA/pull/60136))
 * fix: don't mark 0.G related issues as stale ([#60148](https://github.com/CleverRaven/Cataclysm-DDA/pull/60148))
 * Fix gunshow nested error ([#60131](https://github.com/CleverRaven/Cataclysm-DDA/pull/60131))
-* Fix json extractor not extracting "concatenate" in dynamic_line ([#60116](https://github.com/CleverRaven/Cataclysm-DDA/pull/60116))
 * On death all hacks will drop only their broken versions and nothing else ([#60123](https://github.com/CleverRaven/Cataclysm-DDA/pull/60123))
