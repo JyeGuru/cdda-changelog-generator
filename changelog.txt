@@ -91,8 +91,6 @@ Cataclysm-DDA experimental build 2022-08-18-0213 (657d582)
 * unload fixes (#60255)
 * less redundancy in burger flipper background (#60260)
 * Small unfinished evac shelter update (#60128)
-
-Cataclysm-DDA experimental build 2022-08-17-1838 (4e93c1c)
 * colorscheme: add iceberg light and dark (#60247)
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots (#60235)
 * add crowbars to batons group (#60216)
