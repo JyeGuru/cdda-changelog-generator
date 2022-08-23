@@ -1,3 +1,4 @@
+* Character creation tab display and navigation cleanup ([#60264](https://github.com/CleverRaven/Cataclysm-DDA/pull/60264))
 * Minimap background color based on theme ([#60292](https://github.com/CleverRaven/Cataclysm-DDA/pull/60292))
 * Corrected byproduct count on faction camp batch crafting ([#60301](https://github.com/CleverRaven/Cataclysm-DDA/pull/60301))
 
@@ -200,7 +201,6 @@
 * Fix vac_pump post apocalypse value. ([#60173](https://github.com/CleverRaven/Cataclysm-DDA/pull/60173))
 * Nested Recipes - Sling-Ready Explosives, Gunmod Mounts, and Modified Gunmods(+gunmod name change) ([#60167](https://github.com/CleverRaven/Cataclysm-DDA/pull/60167))
 * Allow 1-tile spell AoE ([#60172](https://github.com/CleverRaven/Cataclysm-DDA/pull/60172))
-* Reducing the Wil Wheaton factor of the rng-test ([#60154](https://github.com/CleverRaven/Cataclysm-DDA/pull/60154))
 * Allow tin snips to cut chain fences ([#60156](https://github.com/CleverRaven/Cataclysm-DDA/pull/60156))
 * Fix Nesting Gas Mask/Rebreather ([#60178](https://github.com/CleverRaven/Cataclysm-DDA/pull/60178))
 * Fix erroneous weakpoint effect id ([#60179](https://github.com/CleverRaven/Cataclysm-DDA/pull/60179))
