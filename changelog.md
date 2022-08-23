@@ -1,3 +1,5 @@
+* Minimap background color based on theme ([#60292](https://github.com/CleverRaven/Cataclysm-DDA/pull/60292))
+* Corrected byproduct count on faction camp batch crafting ([#60301](https://github.com/CleverRaven/Cataclysm-DDA/pull/60301))
 
 ---
 
@@ -200,10 +202,8 @@
 * Allow 1-tile spell AoE ([#60172](https://github.com/CleverRaven/Cataclysm-DDA/pull/60172))
 * Reducing the Wil Wheaton factor of the rng-test ([#60154](https://github.com/CleverRaven/Cataclysm-DDA/pull/60154))
 * Allow tin snips to cut chain fences ([#60156](https://github.com/CleverRaven/Cataclysm-DDA/pull/60156))
-* Nesting big bag tests and fixes for disapearing items ([#60151](https://github.com/CleverRaven/Cataclysm-DDA/pull/60151))
 * Fix Nesting Gas Mask/Rebreather ([#60178](https://github.com/CleverRaven/Cataclysm-DDA/pull/60178))
 * Fix erroneous weakpoint effect id ([#60179](https://github.com/CleverRaven/Cataclysm-DDA/pull/60179))
 * Nested Recipes - Cuirasses ([#60160](https://github.com/CleverRaven/Cataclysm-DDA/pull/60160))
 * Nested Recipes - Gas Masks, Rebreathers and More ([#60168](https://github.com/CleverRaven/Cataclysm-DDA/pull/60168))
 * Routine tileset updates on 14 August 2022 ([#60162](https://github.com/CleverRaven/Cataclysm-DDA/pull/60162))
-* Capitalize the doge 🐕 ([#60149](https://github.com/CleverRaven/Cataclysm-DDA/pull/60149))
