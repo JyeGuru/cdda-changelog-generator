@@ -98,8 +98,6 @@ Cataclysm-DDA experimental build 2022-08-18-0629 (d652102)
 
 Cataclysm-DDA experimental build 2022-08-18-0523 (09f19e9)
 * Miscellaneous recipe fixups (Roasted Garlic, Window with Curtains) (#60249)
-
-Cataclysm-DDA experimental build 2022-08-18-0213 (657d582)
 * Update headlamp's armor coverage (#60230)
 * Adding in zombie bullfrog (#60254)
 * [CR] Use lifting assists for crafting (#60224)
