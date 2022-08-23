@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-23-1210 ([e050379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1210))
+
+* Group and sort bionics in @ screen ([#60228](https://github.com/CleverRaven/Cataclysm-DDA/pull/60228))
 * Character creation tab display and navigation cleanup ([#60264](https://github.com/CleverRaven/Cataclysm-DDA/pull/60264))
 * Minimap background color based on theme ([#60292](https://github.com/CleverRaven/Cataclysm-DDA/pull/60292))
 * Corrected byproduct count on faction camp batch crafting ([#60301](https://github.com/CleverRaven/Cataclysm-DDA/pull/60301))
@@ -161,11 +167,6 @@
 * [Magiclysm] Add more variety to looks_like of magical herbs ([#60238](https://github.com/CleverRaven/Cataclysm-DDA/pull/60238))
 * Add roll remainder dialog function ([#60263](https://github.com/CleverRaven/Cataclysm-DDA/pull/60263))
 * A dragons dream ... and achievement ([#60265](https://github.com/CleverRaven/Cataclysm-DDA/pull/60265))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-18-0523 ([09f19e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-18-0523))
-
 * Miscellaneous recipe fixups (Roasted Garlic, Window with Curtains) ([#60249](https://github.com/CleverRaven/Cataclysm-DDA/pull/60249))
 * Update headlamp's armor coverage ([#60230](https://github.com/CleverRaven/Cataclysm-DDA/pull/60230))
 * Adding in zombie bullfrog ([#60254](https://github.com/CleverRaven/Cataclysm-DDA/pull/60254))
@@ -193,7 +194,6 @@
 * Nested Recipes - Bleeding Control, Splints, Antiseptics ([#60195](https://github.com/CleverRaven/Cataclysm-DDA/pull/60195))
 * [Infrastructure] Update of TILESET.md ([#60158](https://github.com/CleverRaven/Cataclysm-DDA/pull/60158))
 * Nested Recipes-(x)Bows ([#60186](https://github.com/CleverRaven/Cataclysm-DDA/pull/60186))
-* [DinoMod] compsognathus, eoraptor, amargasaurus bio-operators ([#60155](https://github.com/CleverRaven/Cataclysm-DDA/pull/60155))
 * Add Faux Fur Masks to Nesting ([#60189](https://github.com/CleverRaven/Cataclysm-DDA/pull/60189))
 * Portal dungeon work, add enchantments to effects ([#60161](https://github.com/CleverRaven/Cataclysm-DDA/pull/60161))
 * Mutant Moose ([#60166](https://github.com/CleverRaven/Cataclysm-DDA/pull/60166))
