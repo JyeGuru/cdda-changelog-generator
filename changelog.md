@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-23-1553 ([aa730d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1553))
+
+* Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-23-1210 ([e050379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1210))
 
 * Group and sort bionics in @ screen ([#60228](https://github.com/CleverRaven/Cataclysm-DDA/pull/60228))
@@ -159,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-08-18-2112 ([725e825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-18-2112))
 
 * Added "Padded" to both sets of AR glasses ([#60281](https://github.com/CleverRaven/Cataclysm-DDA/pull/60281))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-18-0629 ([d652102](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-18-0629))
-
 * [Magiclysm] Add more variety to looks_like of magical herbs ([#60238](https://github.com/CleverRaven/Cataclysm-DDA/pull/60238))
 * Add roll remainder dialog function ([#60263](https://github.com/CleverRaven/Cataclysm-DDA/pull/60263))
 * A dragons dream ... and achievement ([#60265](https://github.com/CleverRaven/Cataclysm-DDA/pull/60265))
@@ -201,7 +202,6 @@
 * Fix vac_pump post apocalypse value. ([#60173](https://github.com/CleverRaven/Cataclysm-DDA/pull/60173))
 * Nested Recipes - Sling-Ready Explosives, Gunmod Mounts, and Modified Gunmods(+gunmod name change) ([#60167](https://github.com/CleverRaven/Cataclysm-DDA/pull/60167))
 * Allow 1-tile spell AoE ([#60172](https://github.com/CleverRaven/Cataclysm-DDA/pull/60172))
-* Allow tin snips to cut chain fences ([#60156](https://github.com/CleverRaven/Cataclysm-DDA/pull/60156))
 * Fix Nesting Gas Mask/Rebreather ([#60178](https://github.com/CleverRaven/Cataclysm-DDA/pull/60178))
 * Fix erroneous weakpoint effect id ([#60179](https://github.com/CleverRaven/Cataclysm-DDA/pull/60179))
 * Nested Recipes - Cuirasses ([#60160](https://github.com/CleverRaven/Cataclysm-DDA/pull/60160))
