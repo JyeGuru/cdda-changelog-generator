@@ -1,3 +1,4 @@
+* Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
 
 ---
 
@@ -193,7 +194,6 @@
 * Added the emergency blanket as a component for the makeshift sling recipe ([#60226](https://github.com/CleverRaven/Cataclysm-DDA/pull/60226))
 * Cookbook adjective gender fix ([#60225](https://github.com/CleverRaven/Cataclysm-DDA/pull/60225))
 * Nested Recipes - Bleeding Control, Splints, Antiseptics ([#60195](https://github.com/CleverRaven/Cataclysm-DDA/pull/60195))
-* [Infrastructure] Update of TILESET.md ([#60158](https://github.com/CleverRaven/Cataclysm-DDA/pull/60158))
 * Nested Recipes-(x)Bows ([#60186](https://github.com/CleverRaven/Cataclysm-DDA/pull/60186))
 * Add Faux Fur Masks to Nesting ([#60189](https://github.com/CleverRaven/Cataclysm-DDA/pull/60189))
 * Portal dungeon work, add enchantments to effects ([#60161](https://github.com/CleverRaven/Cataclysm-DDA/pull/60161))
