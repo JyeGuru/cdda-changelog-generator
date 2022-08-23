@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-23-0600 ([f987858](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-0600))
+
+* Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
 * Add bio_power_storage to electronics store, as per MISSION_GET_POWER_CBM ([#60207](https://github.com/CleverRaven/Cataclysm-DDA/pull/60207))
 * Added activation cost for Joint Servo bionic ([#60331](https://github.com/CleverRaven/Cataclysm-DDA/pull/60331))
 * Use int64_t for vehicle::fuel_left ([#60342](https://github.com/CleverRaven/Cataclysm-DDA/pull/60342))
@@ -206,4 +212,3 @@
 * Nested Recipes - Gas Masks, Rebreathers and More ([#60168](https://github.com/CleverRaven/Cataclysm-DDA/pull/60168))
 * Routine tileset updates on 14 August 2022 ([#60162](https://github.com/CleverRaven/Cataclysm-DDA/pull/60162))
 * Capitalize the doge 🐕 ([#60149](https://github.com/CleverRaven/Cataclysm-DDA/pull/60149))
-* fix: don't mark 0.G related issues as stale ([#60148](https://github.com/CleverRaven/Cataclysm-DDA/pull/60148))
