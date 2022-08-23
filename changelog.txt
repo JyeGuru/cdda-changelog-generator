@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-23-1723 (3a88f91)
 * Fix horns overlay ordering (#60396)
 
 Cataclysm-DDA experimental build 2022-08-23-1553 (aa730d8)
