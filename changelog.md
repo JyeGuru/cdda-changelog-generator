@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-24-0306 ([933e743](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-0306))
+
+* Nested Recipes - Gambesons and More ([#60323](https://github.com/CleverRaven/Cataclysm-DDA/pull/60323))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-23-1723 ([3a88f91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1723))
 
 * Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
@@ -209,6 +215,5 @@
 * Allow 1-tile spell AoE ([#60172](https://github.com/CleverRaven/Cataclysm-DDA/pull/60172))
 * Fix Nesting Gas Mask/Rebreather ([#60178](https://github.com/CleverRaven/Cataclysm-DDA/pull/60178))
 * Fix erroneous weakpoint effect id ([#60179](https://github.com/CleverRaven/Cataclysm-DDA/pull/60179))
-* Nested Recipes - Cuirasses ([#60160](https://github.com/CleverRaven/Cataclysm-DDA/pull/60160))
 * Nested Recipes - Gas Masks, Rebreathers and More ([#60168](https://github.com/CleverRaven/Cataclysm-DDA/pull/60168))
 * Routine tileset updates on 14 August 2022 ([#60162](https://github.com/CleverRaven/Cataclysm-DDA/pull/60162))
