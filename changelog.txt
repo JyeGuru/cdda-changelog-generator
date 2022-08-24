@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2022-08-19-0631 (d060cb9)
 
 Cataclysm-DDA experimental build 2022-08-19-0429 (acd0a24)
 * remove cata::optional wrapper from item::dropped_from (#60280)
-
-Cataclysm-DDA experimental build 2022-08-18-2112 (725e825)
 * Added "Padded" to both sets of AR glasses (#60281)
 * [Magiclysm] Add more variety to looks_like of magical herbs (#60238)
 * Add roll remainder dialog function (#60263)
