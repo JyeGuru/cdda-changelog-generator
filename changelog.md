@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-24-2203 ([e479912](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-2203))
+
 * Fish breeding ([#60397](https://github.com/CleverRaven/Cataclysm-DDA/pull/60397))
 * [DinoMod] portals ([#60408](https://github.com/CleverRaven/Cataclysm-DDA/pull/60408))
 * Adds families and weakpoints to some zombies in zed_misc.json ([#60306](https://github.com/CleverRaven/Cataclysm-DDA/pull/60306))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-08-19-1547 ([dd59e08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-1547))
 
 * Modular Defense Anchor is SOFT ([#60279](https://github.com/CleverRaven/Cataclysm-DDA/pull/60279))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-19-0631 ([d060cb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-0631))
-
 * 🌲 Use pine resin for waterproofing 🌲 ([#60291](https://github.com/CleverRaven/Cataclysm-DDA/pull/60291))
 * remove cata::optional wrapper from item::dropped_from ([#60280](https://github.com/CleverRaven/Cataclysm-DDA/pull/60280))
 * Added "Padded" to both sets of AR glasses ([#60281](https://github.com/CleverRaven/Cataclysm-DDA/pull/60281))
