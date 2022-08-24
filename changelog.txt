@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-24-0458 (a7edc39)
+* [Magiclysm] Small Alchemist tweaking (#60326)
+
 Cataclysm-DDA experimental build 2022-08-24-0306 (933e743)
 * Nested Recipes - Gambesons and More (#60323)
 
@@ -135,7 +138,6 @@ Cataclysm-DDA experimental build 2022-08-18-2112 (725e825)
 * Nested Recipes - Bleeding Control, Splints, Antiseptics (#60195)
 * Nested Recipes-(x)Bows (#60186)
 * Add Faux Fur Masks to Nesting (#60189)
-* Portal dungeon work, add enchantments to effects (#60161)
 * Mutant Moose (#60166)
 * Oven door needs pane of glass rather than sheet (#60192)
 * Fix vac_pump post apocalypse value. (#60173)

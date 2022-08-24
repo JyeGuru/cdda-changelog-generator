@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-24-0458 ([a7edc39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-0458))
+
+* [Magiclysm] Small Alchemist tweaking ([#60326](https://github.com/CleverRaven/Cataclysm-DDA/pull/60326))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-24-0306 ([933e743](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-0306))
 
 * Nested Recipes - Gambesons and More ([#60323](https://github.com/CleverRaven/Cataclysm-DDA/pull/60323))
@@ -207,7 +213,6 @@
 * Nested Recipes - Bleeding Control, Splints, Antiseptics ([#60195](https://github.com/CleverRaven/Cataclysm-DDA/pull/60195))
 * Nested Recipes-(x)Bows ([#60186](https://github.com/CleverRaven/Cataclysm-DDA/pull/60186))
 * Add Faux Fur Masks to Nesting ([#60189](https://github.com/CleverRaven/Cataclysm-DDA/pull/60189))
-* Portal dungeon work, add enchantments to effects ([#60161](https://github.com/CleverRaven/Cataclysm-DDA/pull/60161))
 * Mutant Moose ([#60166](https://github.com/CleverRaven/Cataclysm-DDA/pull/60166))
 * Oven door needs pane of glass rather than sheet ([#60192](https://github.com/CleverRaven/Cataclysm-DDA/pull/60192))
 * Fix vac_pump post apocalypse value. ([#60173](https://github.com/CleverRaven/Cataclysm-DDA/pull/60173))
