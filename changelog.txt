@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-24-0810 (b8539e5)
+* Human skulls can be broken down into bones. (#60402)
+
 Cataclysm-DDA experimental build 2022-08-24-0458 (a7edc39)
 * [Magiclysm] Small Alchemist tweaking (#60326)
 
@@ -146,4 +149,3 @@ Cataclysm-DDA experimental build 2022-08-18-2112 (725e825)
 * Fix Nesting Gas Mask/Rebreather (#60178)
 * Fix erroneous weakpoint effect id (#60179)
 * Nested Recipes - Gas Masks, Rebreathers and More (#60168)
-* Routine tileset updates on 14 August 2022 (#60162)

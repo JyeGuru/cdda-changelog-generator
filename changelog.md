@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-24-0810 ([b8539e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-0810))
+
+* Human skulls can be broken down into bones. ([#60402](https://github.com/CleverRaven/Cataclysm-DDA/pull/60402))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-24-0458 ([a7edc39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-0458))
 
 * [Magiclysm] Small Alchemist tweaking ([#60326](https://github.com/CleverRaven/Cataclysm-DDA/pull/60326))
@@ -221,4 +227,3 @@
 * Fix Nesting Gas Mask/Rebreather ([#60178](https://github.com/CleverRaven/Cataclysm-DDA/pull/60178))
 * Fix erroneous weakpoint effect id ([#60179](https://github.com/CleverRaven/Cataclysm-DDA/pull/60179))
 * Nested Recipes - Gas Masks, Rebreathers and More ([#60168](https://github.com/CleverRaven/Cataclysm-DDA/pull/60168))
-* Routine tileset updates on 14 August 2022 ([#60162](https://github.com/CleverRaven/Cataclysm-DDA/pull/60162))
