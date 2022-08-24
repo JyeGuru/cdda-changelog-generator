@@ -1,3 +1,13 @@
+* Two new skeletal variants and a new evolution group ([#60322](https://github.com/CleverRaven/Cataclysm-DDA/pull/60322))
+* Sheet metal sabatons, gauntlets, and helmets. ([#60393](https://github.com/CleverRaven/Cataclysm-DDA/pull/60393))
+* Mission origin fix ([#60407](https://github.com/CleverRaven/Cataclysm-DDA/pull/60407))
+* [Vehicles] Luxury RV now has motorized curtains ([#60418](https://github.com/CleverRaven/Cataclysm-DDA/pull/60418))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-24-2048 ([bccf194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-2048))
+
+* fix: don't ship a broken symlink in exp releases ([#60419](https://github.com/CleverRaven/Cataclysm-DDA/pull/60419))
 
 ---
 
@@ -177,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-08-19-0631 ([d060cb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-0631))
 
 * 🌲 Use pine resin for waterproofing 🌲 ([#60291](https://github.com/CleverRaven/Cataclysm-DDA/pull/60291))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-19-0429 ([acd0a24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-0429))
-
 * remove cata::optional wrapper from item::dropped_from ([#60280](https://github.com/CleverRaven/Cataclysm-DDA/pull/60280))
 * Added "Padded" to both sets of AR glasses ([#60281](https://github.com/CleverRaven/Cataclysm-DDA/pull/60281))
 * [Magiclysm] Add more variety to looks_like of magical herbs ([#60238](https://github.com/CleverRaven/Cataclysm-DDA/pull/60238))
@@ -201,7 +206,6 @@
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
 * add crowbars to batons group ([#60216](https://github.com/CleverRaven/Cataclysm-DDA/pull/60216))
 * improve environmental protection of second skin ([#60214](https://github.com/CleverRaven/Cataclysm-DDA/pull/60214))
-* Nested Recipes - Teas & Cocktails/Mixed Drinks ([#60165](https://github.com/CleverRaven/Cataclysm-DDA/pull/60165))
 * New color theme: default-sleek ([#60194](https://github.com/CleverRaven/Cataclysm-DDA/pull/60194))
 * Nested Recipes - All Batteries ([#60199](https://github.com/CleverRaven/Cataclysm-DDA/pull/60199))
 * Red squirrel looks_like grey squirrel ([#60201](https://github.com/CleverRaven/Cataclysm-DDA/pull/60201))
@@ -214,11 +218,7 @@
 * Nested Recipes - Bleeding Control, Splints, Antiseptics ([#60195](https://github.com/CleverRaven/Cataclysm-DDA/pull/60195))
 * Nested Recipes-(x)Bows ([#60186](https://github.com/CleverRaven/Cataclysm-DDA/pull/60186))
 * Add Faux Fur Masks to Nesting ([#60189](https://github.com/CleverRaven/Cataclysm-DDA/pull/60189))
-* Mutant Moose ([#60166](https://github.com/CleverRaven/Cataclysm-DDA/pull/60166))
 * Oven door needs pane of glass rather than sheet ([#60192](https://github.com/CleverRaven/Cataclysm-DDA/pull/60192))
 * Fix vac_pump post apocalypse value. ([#60173](https://github.com/CleverRaven/Cataclysm-DDA/pull/60173))
-* Nested Recipes - Sling-Ready Explosives, Gunmod Mounts, and Modified Gunmods(+gunmod name change) ([#60167](https://github.com/CleverRaven/Cataclysm-DDA/pull/60167))
-* Allow 1-tile spell AoE ([#60172](https://github.com/CleverRaven/Cataclysm-DDA/pull/60172))
 * Fix Nesting Gas Mask/Rebreather ([#60178](https://github.com/CleverRaven/Cataclysm-DDA/pull/60178))
 * Fix erroneous weakpoint effect id ([#60179](https://github.com/CleverRaven/Cataclysm-DDA/pull/60179))
-* Nested Recipes - Gas Masks, Rebreathers and More ([#60168](https://github.com/CleverRaven/Cataclysm-DDA/pull/60168))
