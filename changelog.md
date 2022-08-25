@@ -1,3 +1,10 @@
+* Spread Microwaves ([#60410](https://github.com/CleverRaven/Cataclysm-DDA/pull/60410))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-25-1016 ([c7daf9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-1016))
+
+* lightmap: moncam hotfix ([#60243](https://github.com/CleverRaven/Cataclysm-DDA/pull/60243))
 
 ---
 
@@ -183,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-08-19-1931 ([0ba9a3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-1931))
 
 * Nested Recipes - Ropes, Bundles, Shelled Nuts ([#60297](https://github.com/CleverRaven/Cataclysm-DDA/pull/60297))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-19-1818 ([0bd8c02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-1818))
-
 * Nested Recipes - Chain Armor ([#60268](https://github.com/CleverRaven/Cataclysm-DDA/pull/60268))
 * Nerf Isherwood dandelion quest rewards ([#60273](https://github.com/CleverRaven/Cataclysm-DDA/pull/60273))
 * Animal ports from TropiCata to Mainline + egg density fixes for insects and birds ([#60234](https://github.com/CleverRaven/Cataclysm-DDA/pull/60234))
@@ -212,7 +214,6 @@
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
 * add crowbars to batons group ([#60216](https://github.com/CleverRaven/Cataclysm-DDA/pull/60216))
 * improve environmental protection of second skin ([#60214](https://github.com/CleverRaven/Cataclysm-DDA/pull/60214))
-* New color theme: default-sleek ([#60194](https://github.com/CleverRaven/Cataclysm-DDA/pull/60194))
 * Nested Recipes - All Batteries ([#60199](https://github.com/CleverRaven/Cataclysm-DDA/pull/60199))
 * Red squirrel looks_like grey squirrel ([#60201](https://github.com/CleverRaven/Cataclysm-DDA/pull/60201))
 * COMPILING.md: Add OpenBSD with clang ([#60203](https://github.com/CleverRaven/Cataclysm-DDA/pull/60203))
@@ -221,4 +222,3 @@
 * correct materials for thighhigh boots ([#60213](https://github.com/CleverRaven/Cataclysm-DDA/pull/60213))
 * Added the emergency blanket as a component for the makeshift sling recipe ([#60226](https://github.com/CleverRaven/Cataclysm-DDA/pull/60226))
 * Cookbook adjective gender fix ([#60225](https://github.com/CleverRaven/Cataclysm-DDA/pull/60225))
-* Nested Recipes - Bleeding Control, Splints, Antiseptics ([#60195](https://github.com/CleverRaven/Cataclysm-DDA/pull/60195))
