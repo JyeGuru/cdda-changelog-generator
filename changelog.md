@@ -1,3 +1,6 @@
+* Automatic gun qualities ([#60415](https://github.com/CleverRaven/Cataclysm-DDA/pull/60415))
+* [Magiclysm] Dragon lair loot fix ([#60421](https://github.com/CleverRaven/Cataclysm-DDA/pull/60421))
+* Un hard code minimap black ([#60412](https://github.com/CleverRaven/Cataclysm-DDA/pull/60412))
 * fix: set repairs_with for steel ballistic plates ([#60428](https://github.com/CleverRaven/Cataclysm-DDA/pull/60428))
 * Added missing periods to base camp hub 2 courtyard wall descriptions ([#60432](https://github.com/CleverRaven/Cataclysm-DDA/pull/60432))
 * Spread Microwaves ([#60410](https://github.com/CleverRaven/Cataclysm-DDA/pull/60410))
@@ -83,7 +86,6 @@
 #### Cataclysm-DDA experimental build 2022-08-23-0600 ([f987858](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-0600))
 
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
-* Add bio_power_storage to electronics store, as per MISSION_GET_POWER_CBM ([#60207](https://github.com/CleverRaven/Cataclysm-DDA/pull/60207))
 * Added activation cost for Joint Servo bionic ([#60331](https://github.com/CleverRaven/Cataclysm-DDA/pull/60331))
 * Use int64_t for vehicle::fuel_left ([#60342](https://github.com/CleverRaven/Cataclysm-DDA/pull/60342))
 * rename mission "Steal a dead man's last words" -> "Return to sender" ([#60358](https://github.com/CleverRaven/Cataclysm-DDA/pull/60358))
@@ -216,8 +218,6 @@
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
 * add crowbars to batons group ([#60216](https://github.com/CleverRaven/Cataclysm-DDA/pull/60216))
 * improve environmental protection of second skin ([#60214](https://github.com/CleverRaven/Cataclysm-DDA/pull/60214))
-* COMPILING.md: Add OpenBSD with clang ([#60203](https://github.com/CleverRaven/Cataclysm-DDA/pull/60203))
-* Adds the missing "HUMAN" flag to some zombies. ([#60206](https://github.com/CleverRaven/Cataclysm-DDA/pull/60206))
 * Honey mustard ingredient in Vegetable Salad ([#60211](https://github.com/CleverRaven/Cataclysm-DDA/pull/60211))
 * correct materials for thighhigh boots ([#60213](https://github.com/CleverRaven/Cataclysm-DDA/pull/60213))
 * Added the emergency blanket as a component for the makeshift sling recipe ([#60226](https://github.com/CleverRaven/Cataclysm-DDA/pull/60226))
