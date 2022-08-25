@@ -1,3 +1,4 @@
+* Fix death_focused_beam death effect. ([#60403](https://github.com/CleverRaven/Cataclysm-DDA/pull/60403))
 
 ---
 

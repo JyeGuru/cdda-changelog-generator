@@ -1,3 +1,4 @@
+* Fix death_focused_beam death effect. (#60403)
 
 Cataclysm-DDA experimental build 2022-08-25-1143 (ef55c7b)
 * Automatic gun qualities (#60415)
