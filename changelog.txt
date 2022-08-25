@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-25-0650 (60820c9)
+* Livestock Scales (#60425)
+
 Cataclysm-DDA experimental build 2022-08-25-0113 (9d29e93)
 * Fix examine actions and crafting qualities for several vehicle parts and appliances (#60232)
 
@@ -112,8 +115,6 @@ Cataclysm-DDA experimental build 2022-08-19-1931 (0ba9a3a)
 Cataclysm-DDA experimental build 2022-08-19-1818 (0bd8c02)
 * Nested Recipes - Chain Armor (#60268)
 * Nerf Isherwood dandelion quest rewards (#60273)
-
-Cataclysm-DDA experimental build 2022-08-19-1649 (7451a94)
 * Animal ports from TropiCata to Mainline + egg density fixes for insects and birds (#60234)
 * Modular Defense Anchor is SOFT (#60279)
 * 🌲 Use pine resin for waterproofing 🌲 (#60291)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2022-08-19-1649 (7451a94)
 * Added the emergency blanket as a component for the makeshift sling recipe (#60226)
 * Cookbook adjective gender fix (#60225)
 * Nested Recipes - Bleeding Control, Splints, Antiseptics (#60195)
-* Oven door needs pane of glass rather than sheet (#60192)

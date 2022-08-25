@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-25-0650 ([60820c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-0650))
+
+* Livestock Scales ([#60425](https://github.com/CleverRaven/Cataclysm-DDA/pull/60425))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-25-0113 ([9d29e93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-0113))
 
 * Fix examine actions and crafting qualities for several vehicle parts and appliances ([#60232](https://github.com/CleverRaven/Cataclysm-DDA/pull/60232))
@@ -184,11 +190,6 @@
 
 * Nested Recipes - Chain Armor ([#60268](https://github.com/CleverRaven/Cataclysm-DDA/pull/60268))
 * Nerf Isherwood dandelion quest rewards ([#60273](https://github.com/CleverRaven/Cataclysm-DDA/pull/60273))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-19-1649 ([7451a94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-1649))
-
 * Animal ports from TropiCata to Mainline + egg density fixes for insects and birds ([#60234](https://github.com/CleverRaven/Cataclysm-DDA/pull/60234))
 * Modular Defense Anchor is SOFT ([#60279](https://github.com/CleverRaven/Cataclysm-DDA/pull/60279))
 * 🌲 Use pine resin for waterproofing 🌲 ([#60291](https://github.com/CleverRaven/Cataclysm-DDA/pull/60291))
@@ -221,4 +222,3 @@
 * Added the emergency blanket as a component for the makeshift sling recipe ([#60226](https://github.com/CleverRaven/Cataclysm-DDA/pull/60226))
 * Cookbook adjective gender fix ([#60225](https://github.com/CleverRaven/Cataclysm-DDA/pull/60225))
 * Nested Recipes - Bleeding Control, Splints, Antiseptics ([#60195](https://github.com/CleverRaven/Cataclysm-DDA/pull/60195))
-* Oven door needs pane of glass rather than sheet ([#60192](https://github.com/CleverRaven/Cataclysm-DDA/pull/60192))
