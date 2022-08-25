@@ -1,3 +1,5 @@
+* fix: set repairs_with for steel ballistic plates ([#60428](https://github.com/CleverRaven/Cataclysm-DDA/pull/60428))
+* Added missing periods to base camp hub 2 courtyard wall descriptions ([#60432](https://github.com/CleverRaven/Cataclysm-DDA/pull/60432))
 * Spread Microwaves ([#60410](https://github.com/CleverRaven/Cataclysm-DDA/pull/60410))
 
 ---
@@ -214,8 +216,6 @@
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
 * add crowbars to batons group ([#60216](https://github.com/CleverRaven/Cataclysm-DDA/pull/60216))
 * improve environmental protection of second skin ([#60214](https://github.com/CleverRaven/Cataclysm-DDA/pull/60214))
-* Nested Recipes - All Batteries ([#60199](https://github.com/CleverRaven/Cataclysm-DDA/pull/60199))
-* Red squirrel looks_like grey squirrel ([#60201](https://github.com/CleverRaven/Cataclysm-DDA/pull/60201))
 * COMPILING.md: Add OpenBSD with clang ([#60203](https://github.com/CleverRaven/Cataclysm-DDA/pull/60203))
 * Adds the missing "HUMAN" flag to some zombies. ([#60206](https://github.com/CleverRaven/Cataclysm-DDA/pull/60206))
 * Honey mustard ingredient in Vegetable Salad ([#60211](https://github.com/CleverRaven/Cataclysm-DDA/pull/60211))
