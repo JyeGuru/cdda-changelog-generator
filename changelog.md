@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-25-0113 ([9d29e93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-0113))
+
+* Fix examine actions and crafting qualities for several vehicle parts and appliances ([#60232](https://github.com/CleverRaven/Cataclysm-DDA/pull/60232))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-24-2203 ([e479912](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-2203))
 
 * Fish breeding ([#60397](https://github.com/CleverRaven/Cataclysm-DDA/pull/60397))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-08-19-1649 ([7451a94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-1649))
 
 * Animal ports from TropiCata to Mainline + egg density fixes for insects and birds ([#60234](https://github.com/CleverRaven/Cataclysm-DDA/pull/60234))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-19-1547 ([dd59e08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-1547))
-
 * Modular Defense Anchor is SOFT ([#60279](https://github.com/CleverRaven/Cataclysm-DDA/pull/60279))
 * 🌲 Use pine resin for waterproofing 🌲 ([#60291](https://github.com/CleverRaven/Cataclysm-DDA/pull/60291))
 * remove cata::optional wrapper from item::dropped_from ([#60280](https://github.com/CleverRaven/Cataclysm-DDA/pull/60280))
@@ -220,5 +221,4 @@
 * Added the emergency blanket as a component for the makeshift sling recipe ([#60226](https://github.com/CleverRaven/Cataclysm-DDA/pull/60226))
 * Cookbook adjective gender fix ([#60225](https://github.com/CleverRaven/Cataclysm-DDA/pull/60225))
 * Nested Recipes - Bleeding Control, Splints, Antiseptics ([#60195](https://github.com/CleverRaven/Cataclysm-DDA/pull/60195))
-* Add Faux Fur Masks to Nesting ([#60189](https://github.com/CleverRaven/Cataclysm-DDA/pull/60189))
 * Oven door needs pane of glass rather than sheet ([#60192](https://github.com/CleverRaven/Cataclysm-DDA/pull/60192))
