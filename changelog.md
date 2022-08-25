@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-25-1245 ([d2a84e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-1245))
+
 * Fix death_focused_beam death effect. ([#60403](https://github.com/CleverRaven/Cataclysm-DDA/pull/60403))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-08-19-2214 ([3f917ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-2214))
 
 * Update martialarts.json ([#60305](https://github.com/CleverRaven/Cataclysm-DDA/pull/60305))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-19-2032 ([326fae6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-2032))
-
 * Fix: "person" monster dissipates silently ([#60270](https://github.com/CleverRaven/Cataclysm-DDA/pull/60270))
 * Fix crash when the creature that kills the player no longer exists ([#60272](https://github.com/CleverRaven/Cataclysm-DDA/pull/60272))
 * Nested Recipes - Ropes, Bundles, Shelled Nuts ([#60297](https://github.com/CleverRaven/Cataclysm-DDA/pull/60297))
