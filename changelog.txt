@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-25-1143 (ef55c7b)
 * Automatic gun qualities (#60415)
 * [Magiclysm] Dragon lair loot fix (#60421)
 * Un hard code minimap black (#60412)
@@ -116,8 +118,6 @@ Cataclysm-DDA experimental build 2022-08-19-2214 (3f917ff)
 Cataclysm-DDA experimental build 2022-08-19-2032 (326fae6)
 * Fix: "person" monster dissipates silently (#60270)
 * Fix crash when the creature that kills the player no longer exists (#60272)
-
-Cataclysm-DDA experimental build 2022-08-19-1931 (0ba9a3a)
 * Nested Recipes - Ropes, Bundles, Shelled Nuts (#60297)
 * Nested Recipes - Chain Armor (#60268)
 * Nerf Isherwood dandelion quest rewards (#60273)

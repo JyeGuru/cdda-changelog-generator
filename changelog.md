@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-25-1143 ([ef55c7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-1143))
+
 * Automatic gun qualities ([#60415](https://github.com/CleverRaven/Cataclysm-DDA/pull/60415))
 * [Magiclysm] Dragon lair loot fix ([#60421](https://github.com/CleverRaven/Cataclysm-DDA/pull/60421))
 * Un hard code minimap black ([#60412](https://github.com/CleverRaven/Cataclysm-DDA/pull/60412))
@@ -188,11 +193,6 @@
 
 * Fix: "person" monster dissipates silently ([#60270](https://github.com/CleverRaven/Cataclysm-DDA/pull/60270))
 * Fix crash when the creature that kills the player no longer exists ([#60272](https://github.com/CleverRaven/Cataclysm-DDA/pull/60272))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-19-1931 ([0ba9a3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-1931))
-
 * Nested Recipes - Ropes, Bundles, Shelled Nuts ([#60297](https://github.com/CleverRaven/Cataclysm-DDA/pull/60297))
 * Nested Recipes - Chain Armor ([#60268](https://github.com/CleverRaven/Cataclysm-DDA/pull/60268))
 * Nerf Isherwood dandelion quest rewards ([#60273](https://github.com/CleverRaven/Cataclysm-DDA/pull/60273))
