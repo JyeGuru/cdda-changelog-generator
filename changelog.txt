@@ -114,8 +114,6 @@ Cataclysm-DDA experimental build 2022-08-20-0247 (bb2f906)
 * Fix typos (#60269)
 * Wooden pulley fixes (#60285)
 * Bill/Brush Axe looks_like fix (#60299)
-
-Cataclysm-DDA experimental build 2022-08-19-2214 (3f917ff)
 * Update martialarts.json (#60305)
 * Fix: "person" monster dissipates silently (#60270)
 * Fix crash when the creature that kills the player no longer exists (#60272)

@@ -186,11 +186,6 @@
 * Fix typos ([#60269](https://github.com/CleverRaven/Cataclysm-DDA/pull/60269))
 * Wooden pulley fixes ([#60285](https://github.com/CleverRaven/Cataclysm-DDA/pull/60285))
 * Bill/Brush Axe looks_like fix ([#60299](https://github.com/CleverRaven/Cataclysm-DDA/pull/60299))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-19-2214 ([3f917ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-19-2214))
-
 * Update martialarts.json ([#60305](https://github.com/CleverRaven/Cataclysm-DDA/pull/60305))
 * Fix: "person" monster dissipates silently ([#60270](https://github.com/CleverRaven/Cataclysm-DDA/pull/60270))
 * Fix crash when the creature that kills the player no longer exists ([#60272](https://github.com/CleverRaven/Cataclysm-DDA/pull/60272))
