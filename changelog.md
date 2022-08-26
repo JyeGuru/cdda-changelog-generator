@@ -1,3 +1,12 @@
+* Fix kevlar nape protector and counterweight pouch not spawning. ([#60286](https://github.com/CleverRaven/Cataclysm-DDA/pull/60286))
+* Mongroup: multi-spawn upgrades respect restrictions ([#60324](https://github.com/CleverRaven/Cataclysm-DDA/pull/60324))
+* Fix debug weather change not handling portal storms ([#60343](https://github.com/CleverRaven/Cataclysm-DDA/pull/60343))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-26-1326 ([72c487c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1326))
+
+* Gastropod Cooking Recipes ([#60431](https://github.com/CleverRaven/Cataclysm-DDA/pull/60431))
 
 ---
 
@@ -170,20 +179,9 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-08-20-1154 ([5235d18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-1154))
-
-* remove chance of removing mutations from other trees ([#60218](https://github.com/CleverRaven/Cataclysm-DDA/pull/60218))
-
----
-
 #### Cataclysm-DDA experimental build 2022-08-20-1041 ([f7ccaa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-1041))
 
 * CVD for steel grades ([#60321](https://github.com/CleverRaven/Cataclysm-DDA/pull/60321))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-20-0247 ([bb2f906](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-0247))
-
 * [Magiclysm] fixing some wizard tower stuff ([#60314](https://github.com/CleverRaven/Cataclysm-DDA/pull/60314))
 * [Interface] New Widget for Structured Sidebar ([#60244](https://github.com/CleverRaven/Cataclysm-DDA/pull/60244))
 * [DinoMod] slower zombie dino upgrades ([#60311](https://github.com/CleverRaven/Cataclysm-DDA/pull/60311))
@@ -209,7 +207,6 @@
 * Miscellaneous recipe fixups (Roasted Garlic, Window with Curtains) ([#60249](https://github.com/CleverRaven/Cataclysm-DDA/pull/60249))
 * Update headlamp's armor coverage ([#60230](https://github.com/CleverRaven/Cataclysm-DDA/pull/60230))
 * Adding in zombie bullfrog ([#60254](https://github.com/CleverRaven/Cataclysm-DDA/pull/60254))
-* [CR] Use lifting assists for crafting ([#60224](https://github.com/CleverRaven/Cataclysm-DDA/pull/60224))
 * Traps only cause tetanus if they did cut damage ([#60236](https://github.com/CleverRaven/Cataclysm-DDA/pull/60236))
 * translations.cpp: fix error when LOCALIZE=0 on BSDs ([#60240](https://github.com/CleverRaven/Cataclysm-DDA/pull/60240))
 * Fix typo for scientific name of tetanus: species name should be lower case ([#60250](https://github.com/CleverRaven/Cataclysm-DDA/pull/60250))
@@ -218,5 +215,3 @@
 * less redundancy in burger flipper background ([#60260](https://github.com/CleverRaven/Cataclysm-DDA/pull/60260))
 * colorscheme: add iceberg light and dark ([#60247](https://github.com/CleverRaven/Cataclysm-DDA/pull/60247))
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
-* Added the emergency blanket as a component for the makeshift sling recipe ([#60226](https://github.com/CleverRaven/Cataclysm-DDA/pull/60226))
-* Cookbook adjective gender fix ([#60225](https://github.com/CleverRaven/Cataclysm-DDA/pull/60225))
