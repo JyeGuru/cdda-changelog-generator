@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-26-1447 ([fcf5ae1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1447))
+
 * Fix kevlar nape protector and counterweight pouch not spawning. ([#60286](https://github.com/CleverRaven/Cataclysm-DDA/pull/60286))
 * Mongroup: multi-spawn upgrades respect restrictions ([#60324](https://github.com/CleverRaven/Cataclysm-DDA/pull/60324))
 * Fix debug weather change not handling portal storms ([#60343](https://github.com/CleverRaven/Cataclysm-DDA/pull/60343))
