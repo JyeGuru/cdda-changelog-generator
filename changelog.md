@@ -1,3 +1,12 @@
+* lower price of ASRG ([#60424](https://github.com/CleverRaven/Cataclysm-DDA/pull/60424))
+* fix messenger bag recipe ([#60441](https://github.com/CleverRaven/Cataclysm-DDA/pull/60441))
+* Nested Recipes - Steel Equipment Renest, Belts, Sewing Tools ([#60430](https://github.com/CleverRaven/Cataclysm-DDA/pull/60430))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-26-1701 ([c375f1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1701))
+
+* Fix aura armor morale penalties ([#60411](https://github.com/CleverRaven/Cataclysm-DDA/pull/60411))
 
 ---
 
@@ -50,12 +59,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-08-25-0113 ([9d29e93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-0113))
-
-* Fix examine actions and crafting qualities for several vehicle parts and appliances ([#60232](https://github.com/CleverRaven/Cataclysm-DDA/pull/60232))
-
----
-
 #### Cataclysm-DDA experimental build 2022-08-24-2203 ([e479912](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-2203))
 
 * Fish breeding ([#60397](https://github.com/CleverRaven/Cataclysm-DDA/pull/60397))
@@ -102,12 +105,6 @@
 #### Cataclysm-DDA experimental build 2022-08-23-1553 ([aa730d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1553))
 
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-23-1210 ([e050379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1210))
-
-* Group and sort bionics in @ screen ([#60228](https://github.com/CleverRaven/Cataclysm-DDA/pull/60228))
 * Character creation tab display and navigation cleanup ([#60264](https://github.com/CleverRaven/Cataclysm-DDA/pull/60264))
 * Minimap background color based on theme ([#60292](https://github.com/CleverRaven/Cataclysm-DDA/pull/60292))
 * Corrected byproduct count on faction camp batch crafting ([#60301](https://github.com/CleverRaven/Cataclysm-DDA/pull/60301))
@@ -181,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-08-20-1255 ([630e438](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-1255))
 
 * Fix HEAL ([#60289](https://github.com/CleverRaven/Cataclysm-DDA/pull/60289))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-20-1041 ([f7ccaa3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-1041))
-
 * CVD for steel grades ([#60321](https://github.com/CleverRaven/Cataclysm-DDA/pull/60321))
 * [Magiclysm] fixing some wizard tower stuff ([#60314](https://github.com/CleverRaven/Cataclysm-DDA/pull/60314))
 * [Interface] New Widget for Structured Sidebar ([#60244](https://github.com/CleverRaven/Cataclysm-DDA/pull/60244))
@@ -201,7 +193,6 @@
 * Nested Recipes - Ropes, Bundles, Shelled Nuts ([#60297](https://github.com/CleverRaven/Cataclysm-DDA/pull/60297))
 * Nested Recipes - Chain Armor ([#60268](https://github.com/CleverRaven/Cataclysm-DDA/pull/60268))
 * Nerf Isherwood dandelion quest rewards ([#60273](https://github.com/CleverRaven/Cataclysm-DDA/pull/60273))
-* Animal ports from TropiCata to Mainline + egg density fixes for insects and birds ([#60234](https://github.com/CleverRaven/Cataclysm-DDA/pull/60234))
 * Modular Defense Anchor is SOFT ([#60279](https://github.com/CleverRaven/Cataclysm-DDA/pull/60279))
 * 🌲 Use pine resin for waterproofing 🌲 ([#60291](https://github.com/CleverRaven/Cataclysm-DDA/pull/60291))
 * remove cata::optional wrapper from item::dropped_from ([#60280](https://github.com/CleverRaven/Cataclysm-DDA/pull/60280))
@@ -210,7 +201,6 @@
 * Add roll remainder dialog function ([#60263](https://github.com/CleverRaven/Cataclysm-DDA/pull/60263))
 * A dragons dream ... and achievement ([#60265](https://github.com/CleverRaven/Cataclysm-DDA/pull/60265))
 * Miscellaneous recipe fixups (Roasted Garlic, Window with Curtains) ([#60249](https://github.com/CleverRaven/Cataclysm-DDA/pull/60249))
-* Update headlamp's armor coverage ([#60230](https://github.com/CleverRaven/Cataclysm-DDA/pull/60230))
 * Adding in zombie bullfrog ([#60254](https://github.com/CleverRaven/Cataclysm-DDA/pull/60254))
 * Traps only cause tetanus if they did cut damage ([#60236](https://github.com/CleverRaven/Cataclysm-DDA/pull/60236))
 * translations.cpp: fix error when LOCALIZE=0 on BSDs ([#60240](https://github.com/CleverRaven/Cataclysm-DDA/pull/60240))
