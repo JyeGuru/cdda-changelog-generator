@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-26-0507 ([1045fea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-0507))
+
+* Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-25-1245 ([d2a84e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-1245))
 
 * Fix death_focused_beam death effect. ([#60403](https://github.com/CleverRaven/Cataclysm-DDA/pull/60403))
@@ -212,6 +218,5 @@
 * less redundancy in burger flipper background ([#60260](https://github.com/CleverRaven/Cataclysm-DDA/pull/60260))
 * colorscheme: add iceberg light and dark ([#60247](https://github.com/CleverRaven/Cataclysm-DDA/pull/60247))
 * Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
-* add crowbars to batons group ([#60216](https://github.com/CleverRaven/Cataclysm-DDA/pull/60216))
 * Added the emergency blanket as a component for the makeshift sling recipe ([#60226](https://github.com/CleverRaven/Cataclysm-DDA/pull/60226))
 * Cookbook adjective gender fix ([#60225](https://github.com/CleverRaven/Cataclysm-DDA/pull/60225))
