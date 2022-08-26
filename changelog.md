@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-26-1806 ([d0f4854](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1806))
+
 * lower price of ASRG ([#60424](https://github.com/CleverRaven/Cataclysm-DDA/pull/60424))
 * fix messenger bag recipe ([#60441](https://github.com/CleverRaven/Cataclysm-DDA/pull/60441))
 * Nested Recipes - Steel Equipment Renest, Belts, Sewing Tools ([#60430](https://github.com/CleverRaven/Cataclysm-DDA/pull/60430))
