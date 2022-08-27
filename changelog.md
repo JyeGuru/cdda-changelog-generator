@@ -1,3 +1,15 @@
+* Thermometer shows water temperature ([#60312](https://github.com/CleverRaven/Cataclysm-DDA/pull/60312))
+* Don't serialize vehicles in un/racking activities ([#60462](https://github.com/CleverRaven/Cataclysm-DDA/pull/60462))
+* Update hypotetical passive solar panel bionic to use irradiance ([#60445](https://github.com/CleverRaven/Cataclysm-DDA/pull/60445))
+* Prevent vehicles with only PROTRUSION left ([#60458](https://github.com/CleverRaven/Cataclysm-DDA/pull/60458))
+* Prevent unmounting carried and carrying parts ([#60460](https://github.com/CleverRaven/Cataclysm-DDA/pull/60460))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-27-0331 ([730362c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-0331))
+
+* Give the oven appliance its oven quality back ([#60464](https://github.com/CleverRaven/Cataclysm-DDA/pull/60464))
+* Update comment-commands.yml ([#60465](https://github.com/CleverRaven/Cataclysm-DDA/pull/60465))
 
 ---
 
@@ -49,12 +61,6 @@
 * fix: set repairs_with for steel ballistic plates ([#60428](https://github.com/CleverRaven/Cataclysm-DDA/pull/60428))
 * Added missing periods to base camp hub 2 courtyard wall descriptions ([#60432](https://github.com/CleverRaven/Cataclysm-DDA/pull/60432))
 * Spread Microwaves ([#60410](https://github.com/CleverRaven/Cataclysm-DDA/pull/60410))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-25-1016 ([c7daf9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-1016))
-
-* lightmap: moncam hotfix ([#60243](https://github.com/CleverRaven/Cataclysm-DDA/pull/60243))
 
 ---
 
@@ -177,15 +183,9 @@
 #### Cataclysm-DDA experimental build 2022-08-21-0551 ([876907a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-0551))
 
 * ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ ([#60344](https://github.com/CleverRaven/Cataclysm-DDA/pull/60344))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-20-1255 ([630e438](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-20-1255))
-
 * Fix HEAL ([#60289](https://github.com/CleverRaven/Cataclysm-DDA/pull/60289))
 * CVD for steel grades ([#60321](https://github.com/CleverRaven/Cataclysm-DDA/pull/60321))
 * [Magiclysm] fixing some wizard tower stuff ([#60314](https://github.com/CleverRaven/Cataclysm-DDA/pull/60314))
-* [Interface] New Widget for Structured Sidebar ([#60244](https://github.com/CleverRaven/Cataclysm-DDA/pull/60244))
 * [DinoMod] slower zombie dino upgrades ([#60311](https://github.com/CleverRaven/Cataclysm-DDA/pull/60311))
 * [Xedra Evolved] Adds itemgroups for spell items ([#60296](https://github.com/CleverRaven/Cataclysm-DDA/pull/60296))
 * [Xedra Evolved] Bugfixes missing eoc traits. ([#60295](https://github.com/CleverRaven/Cataclysm-DDA/pull/60295))
@@ -202,16 +202,11 @@
 * 🌲 Use pine resin for waterproofing 🌲 ([#60291](https://github.com/CleverRaven/Cataclysm-DDA/pull/60291))
 * remove cata::optional wrapper from item::dropped_from ([#60280](https://github.com/CleverRaven/Cataclysm-DDA/pull/60280))
 * Added "Padded" to both sets of AR glasses ([#60281](https://github.com/CleverRaven/Cataclysm-DDA/pull/60281))
-* [Magiclysm] Add more variety to looks_like of magical herbs ([#60238](https://github.com/CleverRaven/Cataclysm-DDA/pull/60238))
 * Add roll remainder dialog function ([#60263](https://github.com/CleverRaven/Cataclysm-DDA/pull/60263))
 * A dragons dream ... and achievement ([#60265](https://github.com/CleverRaven/Cataclysm-DDA/pull/60265))
 * Miscellaneous recipe fixups (Roasted Garlic, Window with Curtains) ([#60249](https://github.com/CleverRaven/Cataclysm-DDA/pull/60249))
 * Adding in zombie bullfrog ([#60254](https://github.com/CleverRaven/Cataclysm-DDA/pull/60254))
-* Traps only cause tetanus if they did cut damage ([#60236](https://github.com/CleverRaven/Cataclysm-DDA/pull/60236))
-* translations.cpp: fix error when LOCALIZE=0 on BSDs ([#60240](https://github.com/CleverRaven/Cataclysm-DDA/pull/60240))
 * Fix typo for scientific name of tetanus: species name should be lower case ([#60250](https://github.com/CleverRaven/Cataclysm-DDA/pull/60250))
 * adds several missing t-shirts to recipe_deconstruction.json ([#60256](https://github.com/CleverRaven/Cataclysm-DDA/pull/60256))
 * unload fixes ([#60255](https://github.com/CleverRaven/Cataclysm-DDA/pull/60255))
 * less redundancy in burger flipper background ([#60260](https://github.com/CleverRaven/Cataclysm-DDA/pull/60260))
-* colorscheme: add iceberg light and dark ([#60247](https://github.com/CleverRaven/Cataclysm-DDA/pull/60247))
-* Nested Recipes - Survivor Hoods, Gloves, Pants, Boots ([#60235](https://github.com/CleverRaven/Cataclysm-DDA/pull/60235))
