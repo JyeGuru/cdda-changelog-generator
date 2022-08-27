@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-27-1835 ([3d2829c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-1835))
+
 * give fire axe's pocket a description ([#60476](https://github.com/CleverRaven/Cataclysm-DDA/pull/60476))
 * Factual error in a sidebar's description ([#60478](https://github.com/CleverRaven/Cataclysm-DDA/pull/60478))
 * Added manhole cover item as a byproduct of prying manhole cover terrain ([#60481](https://github.com/CleverRaven/Cataclysm-DDA/pull/60481))
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2022-08-23-0450 ([6d5fb0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-0450))
 
 * Fix .300 AAC Blackout conversion kit ([#60382](https://github.com/CleverRaven/Cataclysm-DDA/pull/60382))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-22-0540 ([f0d7703](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-22-0540))
-
 * Routine tileset updates on 21 August 2022 ([#60361](https://github.com/CleverRaven/Cataclysm-DDA/pull/60361))
 * Add Cut 1 Quality to Bionic Razor CBM ([#60345](https://github.com/CleverRaven/Cataclysm-DDA/pull/60345))
 * neoprene doesn't breathe ([#60338](https://github.com/CleverRaven/Cataclysm-DDA/pull/60338))
