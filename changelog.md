@@ -1,3 +1,10 @@
+* steel and kevlar ablative plates are sturdy ([#60466](https://github.com/CleverRaven/Cataclysm-DDA/pull/60466))
+* Routine i18n updates on 27 August 2022 ([#60475](https://github.com/CleverRaven/Cataclysm-DDA/pull/60475))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-27-0552 ([bff870b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-0552))
+
 * Performance Improvement item::can_contain  ([#60414](https://github.com/CleverRaven/Cataclysm-DDA/pull/60414))
 * Thermometer shows water temperature ([#60312](https://github.com/CleverRaven/Cataclysm-DDA/pull/60312))
 * Don't serialize vehicles in un/racking activities ([#60462](https://github.com/CleverRaven/Cataclysm-DDA/pull/60462))
@@ -162,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2022-08-21-0814 ([8fdb861](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-0814))
 
 * neoprene doesn't breathe ([#60338](https://github.com/CleverRaven/Cataclysm-DDA/pull/60338))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-21-0653 ([8372ed1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-0653))
-
 * Routine i18n updates on 20 August 2022 ([#60320](https://github.com/CleverRaven/Cataclysm-DDA/pull/60320))
 * Nested Categories Only Show If Populated ([#60302](https://github.com/CleverRaven/Cataclysm-DDA/pull/60302))
 * Lumberjack tool group expansion ([#60337](https://github.com/CleverRaven/Cataclysm-DDA/pull/60337))
@@ -200,8 +202,6 @@
 * Added "Padded" to both sets of AR glasses ([#60281](https://github.com/CleverRaven/Cataclysm-DDA/pull/60281))
 * Add roll remainder dialog function ([#60263](https://github.com/CleverRaven/Cataclysm-DDA/pull/60263))
 * A dragons dream ... and achievement ([#60265](https://github.com/CleverRaven/Cataclysm-DDA/pull/60265))
-* Adding in zombie bullfrog ([#60254](https://github.com/CleverRaven/Cataclysm-DDA/pull/60254))
-* Fix typo for scientific name of tetanus: species name should be lower case ([#60250](https://github.com/CleverRaven/Cataclysm-DDA/pull/60250))
 * adds several missing t-shirts to recipe_deconstruction.json ([#60256](https://github.com/CleverRaven/Cataclysm-DDA/pull/60256))
 * unload fixes ([#60255](https://github.com/CleverRaven/Cataclysm-DDA/pull/60255))
 * less redundancy in burger flipper background ([#60260](https://github.com/CleverRaven/Cataclysm-DDA/pull/60260))
