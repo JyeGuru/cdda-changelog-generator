@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-27-0708 ([aa80ff7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-0708))
+
 * steel and kevlar ablative plates are sturdy ([#60466](https://github.com/CleverRaven/Cataclysm-DDA/pull/60466))
 * Routine i18n updates on 27 August 2022 ([#60475](https://github.com/CleverRaven/Cataclysm-DDA/pull/60475))
 
@@ -163,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-08-21-1332 ([a2991c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-1332))
 
 * Add Cut 1 Quality to Bionic Razor CBM ([#60345](https://github.com/CleverRaven/Cataclysm-DDA/pull/60345))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-21-0814 ([8fdb861](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-0814))
-
 * neoprene doesn't breathe ([#60338](https://github.com/CleverRaven/Cataclysm-DDA/pull/60338))
 * Routine i18n updates on 20 August 2022 ([#60320](https://github.com/CleverRaven/Cataclysm-DDA/pull/60320))
 * Nested Categories Only Show If Populated ([#60302](https://github.com/CleverRaven/Cataclysm-DDA/pull/60302))
