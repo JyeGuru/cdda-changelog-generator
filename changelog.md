@@ -1,3 +1,10 @@
+* Remove stepladder from player possession after deploying it ([#60489](https://github.com/CleverRaven/Cataclysm-DDA/pull/60489))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-27-1710 ([1631976](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-1710))
+
+* [Xedra Evolved] Fix eater spells deal damage to player ([#60490](https://github.com/CleverRaven/Cataclysm-DDA/pull/60490))
 
 ---
 
@@ -162,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2022-08-22-0540 ([f0d7703](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-22-0540))
 
 * Routine tileset updates on 21 August 2022 ([#60361](https://github.com/CleverRaven/Cataclysm-DDA/pull/60361))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-21-1332 ([a2991c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-1332))
-
 * Add Cut 1 Quality to Bionic Razor CBM ([#60345](https://github.com/CleverRaven/Cataclysm-DDA/pull/60345))
 * neoprene doesn't breathe ([#60338](https://github.com/CleverRaven/Cataclysm-DDA/pull/60338))
 * Routine i18n updates on 20 August 2022 ([#60320](https://github.com/CleverRaven/Cataclysm-DDA/pull/60320))
@@ -202,6 +204,4 @@
 * Added "Padded" to both sets of AR glasses ([#60281](https://github.com/CleverRaven/Cataclysm-DDA/pull/60281))
 * Add roll remainder dialog function ([#60263](https://github.com/CleverRaven/Cataclysm-DDA/pull/60263))
 * A dragons dream ... and achievement ([#60265](https://github.com/CleverRaven/Cataclysm-DDA/pull/60265))
-* adds several missing t-shirts to recipe_deconstruction.json ([#60256](https://github.com/CleverRaven/Cataclysm-DDA/pull/60256))
-* unload fixes ([#60255](https://github.com/CleverRaven/Cataclysm-DDA/pull/60255))
 * less redundancy in burger flipper background ([#60260](https://github.com/CleverRaven/Cataclysm-DDA/pull/60260))
