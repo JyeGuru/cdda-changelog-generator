@@ -1,3 +1,6 @@
+* give fire axe's pocket a description ([#60476](https://github.com/CleverRaven/Cataclysm-DDA/pull/60476))
+* Factual error in a sidebar's description ([#60478](https://github.com/CleverRaven/Cataclysm-DDA/pull/60478))
+* Added manhole cover item as a byproduct of prying manhole cover terrain ([#60481](https://github.com/CleverRaven/Cataclysm-DDA/pull/60481))
 * Remove stepladder from player possession after deploying it ([#60489](https://github.com/CleverRaven/Cataclysm-DDA/pull/60489))
 
 ---
@@ -202,6 +205,4 @@
 * 🌲 Use pine resin for waterproofing 🌲 ([#60291](https://github.com/CleverRaven/Cataclysm-DDA/pull/60291))
 * remove cata::optional wrapper from item::dropped_from ([#60280](https://github.com/CleverRaven/Cataclysm-DDA/pull/60280))
 * Added "Padded" to both sets of AR glasses ([#60281](https://github.com/CleverRaven/Cataclysm-DDA/pull/60281))
-* Add roll remainder dialog function ([#60263](https://github.com/CleverRaven/Cataclysm-DDA/pull/60263))
 * A dragons dream ... and achievement ([#60265](https://github.com/CleverRaven/Cataclysm-DDA/pull/60265))
-* less redundancy in burger flipper background ([#60260](https://github.com/CleverRaven/Cataclysm-DDA/pull/60260))
