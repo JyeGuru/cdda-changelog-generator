@@ -177,11 +177,6 @@
 * Made attachable ear muffs adjustable ([#60333](https://github.com/CleverRaven/Cataclysm-DDA/pull/60333))
 * Make fridges have same space as fridge appliance ([#60335](https://github.com/CleverRaven/Cataclysm-DDA/pull/60335))
 * [DinoMod] downy dinos ([#60341](https://github.com/CleverRaven/Cataclysm-DDA/pull/60341))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-21-0551 ([876907a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-21-0551))
-
 * ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ ([#60344](https://github.com/CleverRaven/Cataclysm-DDA/pull/60344))
 * Fix HEAL ([#60289](https://github.com/CleverRaven/Cataclysm-DDA/pull/60289))
 * CVD for steel grades ([#60321](https://github.com/CleverRaven/Cataclysm-DDA/pull/60321))

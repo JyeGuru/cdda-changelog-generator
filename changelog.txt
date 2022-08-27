@@ -111,8 +111,6 @@ Cataclysm-DDA experimental build 2022-08-21-0653 (8372ed1)
 * Made attachable ear muffs adjustable (#60333)
 * Make fridges have same space as fridge appliance (#60335)
 * [DinoMod] downy dinos (#60341)
-
-Cataclysm-DDA experimental build 2022-08-21-0551 (876907a)
 * ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ (#60344)
 * Fix HEAL (#60289)
 * CVD for steel grades (#60321)
