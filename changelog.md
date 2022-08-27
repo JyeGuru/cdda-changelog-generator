@@ -1,3 +1,4 @@
+* Performance Improvement item::can_contain  ([#60414](https://github.com/CleverRaven/Cataclysm-DDA/pull/60414))
 * Thermometer shows water temperature ([#60312](https://github.com/CleverRaven/Cataclysm-DDA/pull/60312))
 * Don't serialize vehicles in un/racking activities ([#60462](https://github.com/CleverRaven/Cataclysm-DDA/pull/60462))
 * Update hypotetical passive solar panel bionic to use irradiance ([#60445](https://github.com/CleverRaven/Cataclysm-DDA/pull/60445))
@@ -199,7 +200,6 @@
 * Added "Padded" to both sets of AR glasses ([#60281](https://github.com/CleverRaven/Cataclysm-DDA/pull/60281))
 * Add roll remainder dialog function ([#60263](https://github.com/CleverRaven/Cataclysm-DDA/pull/60263))
 * A dragons dream ... and achievement ([#60265](https://github.com/CleverRaven/Cataclysm-DDA/pull/60265))
-* Miscellaneous recipe fixups (Roasted Garlic, Window with Curtains) ([#60249](https://github.com/CleverRaven/Cataclysm-DDA/pull/60249))
 * Adding in zombie bullfrog ([#60254](https://github.com/CleverRaven/Cataclysm-DDA/pull/60254))
 * Fix typo for scientific name of tetanus: species name should be lower case ([#60250](https://github.com/CleverRaven/Cataclysm-DDA/pull/60250))
 * adds several missing t-shirts to recipe_deconstruction.json ([#60256](https://github.com/CleverRaven/Cataclysm-DDA/pull/60256))
