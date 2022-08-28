@@ -1,6 +1,39 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-28-0352 ([17bd68e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0352))
+
+* Floodlight/Lamp barter value tweaking ([#60506](https://github.com/CleverRaven/Cataclysm-DDA/pull/60506))
+* Fix conversion between commercial fertilizer and ammonium nitrate ([#60438](https://github.com/CleverRaven/Cataclysm-DDA/pull/60438))
+* Fix mi-go guardians moving away from its tower ([#60474](https://github.com/CleverRaven/Cataclysm-DDA/pull/60474))
+* Allow wearing power and integrated armor ([#60503](https://github.com/CleverRaven/Cataclysm-DDA/pull/60503))
+* Fix racking silently failing ([#60507](https://github.com/CleverRaven/Cataclysm-DDA/pull/60507))
+* Add PROTRUSION and OBSTACLE flags to military composite rams ([#60355](https://github.com/CleverRaven/Cataclysm-DDA/pull/60355))
+* Update pre-apoc price of oatmeal ([#60511](https://github.com/CleverRaven/Cataclysm-DDA/pull/60511))
+* Fixing plushie shark weight and length ([#60513](https://github.com/CleverRaven/Cataclysm-DDA/pull/60513))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-28-0224 ([68dddee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0224))
+
+* Content "Zastava AK in .223 and .308" ([#60386](https://github.com/CleverRaven/Cataclysm-DDA/pull/60386))
+* Fix molotov blowing up in hand ([#60502](https://github.com/CleverRaven/Cataclysm-DDA/pull/60502))
+* fix: suppress dirty state in releases ([#60509](https://github.com/CleverRaven/Cataclysm-DDA/pull/60509))
+* typo fix in the Kickboxing's description ("Taekwando" -> "Taekwondo") ([#60436](https://github.com/CleverRaven/Cataclysm-DDA/pull/60436))
+* Grasshopper nymphs ([#60390](https://github.com/CleverRaven/Cataclysm-DDA/pull/60390))
+* Mantis nymphs ([#60485](https://github.com/CleverRaven/Cataclysm-DDA/pull/60485))
+* Add looks_like to Freezer, Glass Fridge, Combo Oven ([#60500](https://github.com/CleverRaven/Cataclysm-DDA/pull/60500))
+* Water strider nymphs ([#60493](https://github.com/CleverRaven/Cataclysm-DDA/pull/60493))
+* Demihuman Weakpoints ([#60499](https://github.com/CleverRaven/Cataclysm-DDA/pull/60499))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-28-0101 ([a6b6222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0101))
+
+* shark plushie addition ([#60492](https://github.com/CleverRaven/Cataclysm-DDA/pull/60492))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-27-1835 ([3d2829c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-1835))
 
 * give fire axe's pocket a description ([#60476](https://github.com/CleverRaven/Cataclysm-DDA/pull/60476))
@@ -52,12 +85,6 @@
 #### Cataclysm-DDA experimental build 2022-08-26-1701 ([c375f1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1701))
 
 * Fix aura armor morale penalties ([#60411](https://github.com/CleverRaven/Cataclysm-DDA/pull/60411))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-26-1447 ([fcf5ae1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1447))
-
-* Fix kevlar nape protector and counterweight pouch not spawning. ([#60286](https://github.com/CleverRaven/Cataclysm-DDA/pull/60286))
 * Mongroup: multi-spawn upgrades respect restrictions ([#60324](https://github.com/CleverRaven/Cataclysm-DDA/pull/60324))
 * Fix debug weather change not handling portal storms ([#60343](https://github.com/CleverRaven/Cataclysm-DDA/pull/60343))
 
@@ -144,14 +171,7 @@
 #### Cataclysm-DDA experimental build 2022-08-23-1553 ([aa730d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1553))
 
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
-* Character creation tab display and navigation cleanup ([#60264](https://github.com/CleverRaven/Cataclysm-DDA/pull/60264))
-* Minimap background color based on theme ([#60292](https://github.com/CleverRaven/Cataclysm-DDA/pull/60292))
 * Corrected byproduct count on faction camp batch crafting ([#60301](https://github.com/CleverRaven/Cataclysm-DDA/pull/60301))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-23-0600 ([f987858](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-0600))
-
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
 * Added activation cost for Joint Servo bionic ([#60331](https://github.com/CleverRaven/Cataclysm-DDA/pull/60331))
 * Use int64_t for vehicle::fuel_left ([#60342](https://github.com/CleverRaven/Cataclysm-DDA/pull/60342))
@@ -165,11 +185,6 @@
 * Don't disarm hallucination NPCs ([#60372](https://github.com/CleverRaven/Cataclysm-DDA/pull/60372))
 * Don't unwield nonunwieldable weapons when drawing weapons from holsters ([#60373](https://github.com/CleverRaven/Cataclysm-DDA/pull/60373))
 * Fix #55797 divide by zero ([#60380](https://github.com/CleverRaven/Cataclysm-DDA/pull/60380))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-23-0450 ([6d5fb0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-0450))
-
 * Fix .300 AAC Blackout conversion kit ([#60382](https://github.com/CleverRaven/Cataclysm-DDA/pull/60382))
 * Routine tileset updates on 21 August 2022 ([#60361](https://github.com/CleverRaven/Cataclysm-DDA/pull/60361))
 * Add Cut 1 Quality to Bionic Razor CBM ([#60345](https://github.com/CleverRaven/Cataclysm-DDA/pull/60345))
@@ -186,23 +201,7 @@
 * Make fridges have same space as fridge appliance ([#60335](https://github.com/CleverRaven/Cataclysm-DDA/pull/60335))
 * [DinoMod] downy dinos ([#60341](https://github.com/CleverRaven/Cataclysm-DDA/pull/60341))
 * ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ ([#60344](https://github.com/CleverRaven/Cataclysm-DDA/pull/60344))
-* Fix HEAL ([#60289](https://github.com/CleverRaven/Cataclysm-DDA/pull/60289))
 * CVD for steel grades ([#60321](https://github.com/CleverRaven/Cataclysm-DDA/pull/60321))
 * [Magiclysm] fixing some wizard tower stuff ([#60314](https://github.com/CleverRaven/Cataclysm-DDA/pull/60314))
 * [DinoMod] slower zombie dino upgrades ([#60311](https://github.com/CleverRaven/Cataclysm-DDA/pull/60311))
-* [Xedra Evolved] Adds itemgroups for spell items ([#60296](https://github.com/CleverRaven/Cataclysm-DDA/pull/60296))
-* [Xedra Evolved] Bugfixes missing eoc traits. ([#60295](https://github.com/CleverRaven/Cataclysm-DDA/pull/60295))
-* Fix typos ([#60269](https://github.com/CleverRaven/Cataclysm-DDA/pull/60269))
-* Wooden pulley fixes ([#60285](https://github.com/CleverRaven/Cataclysm-DDA/pull/60285))
-* Bill/Brush Axe looks_like fix ([#60299](https://github.com/CleverRaven/Cataclysm-DDA/pull/60299))
 * Update martialarts.json ([#60305](https://github.com/CleverRaven/Cataclysm-DDA/pull/60305))
-* Fix: "person" monster dissipates silently ([#60270](https://github.com/CleverRaven/Cataclysm-DDA/pull/60270))
-* Fix crash when the creature that kills the player no longer exists ([#60272](https://github.com/CleverRaven/Cataclysm-DDA/pull/60272))
-* Nested Recipes - Ropes, Bundles, Shelled Nuts ([#60297](https://github.com/CleverRaven/Cataclysm-DDA/pull/60297))
-* Nested Recipes - Chain Armor ([#60268](https://github.com/CleverRaven/Cataclysm-DDA/pull/60268))
-* Nerf Isherwood dandelion quest rewards ([#60273](https://github.com/CleverRaven/Cataclysm-DDA/pull/60273))
-* Modular Defense Anchor is SOFT ([#60279](https://github.com/CleverRaven/Cataclysm-DDA/pull/60279))
-* 🌲 Use pine resin for waterproofing 🌲 ([#60291](https://github.com/CleverRaven/Cataclysm-DDA/pull/60291))
-* remove cata::optional wrapper from item::dropped_from ([#60280](https://github.com/CleverRaven/Cataclysm-DDA/pull/60280))
-* Added "Padded" to both sets of AR glasses ([#60281](https://github.com/CleverRaven/Cataclysm-DDA/pull/60281))
-* A dragons dream ... and achievement ([#60265](https://github.com/CleverRaven/Cataclysm-DDA/pull/60265))
