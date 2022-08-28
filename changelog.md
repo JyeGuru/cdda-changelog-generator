@@ -1,3 +1,5 @@
+* More realistic booby trap ([#60488](https://github.com/CleverRaven/Cataclysm-DDA/pull/60488))
+* Refactor BFS in vehicle::is_connected and ignore carried_flag parts ([#60472](https://github.com/CleverRaven/Cataclysm-DDA/pull/60472))
 
 ---
 
@@ -171,7 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-08-23-1553 ([aa730d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1553))
 
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
-* Corrected byproduct count on faction camp batch crafting ([#60301](https://github.com/CleverRaven/Cataclysm-DDA/pull/60301))
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
 * Added activation cost for Joint Servo bionic ([#60331](https://github.com/CleverRaven/Cataclysm-DDA/pull/60331))
 * Use int64_t for vehicle::fuel_left ([#60342](https://github.com/CleverRaven/Cataclysm-DDA/pull/60342))
@@ -190,7 +191,6 @@
 * Add Cut 1 Quality to Bionic Razor CBM ([#60345](https://github.com/CleverRaven/Cataclysm-DDA/pull/60345))
 * neoprene doesn't breathe ([#60338](https://github.com/CleverRaven/Cataclysm-DDA/pull/60338))
 * Routine i18n updates on 20 August 2022 ([#60320](https://github.com/CleverRaven/Cataclysm-DDA/pull/60320))
-* Nested Categories Only Show If Populated ([#60302](https://github.com/CleverRaven/Cataclysm-DDA/pull/60302))
 * Lumberjack tool group expansion ([#60337](https://github.com/CleverRaven/Cataclysm-DDA/pull/60337))
 * [DinoMod] move dino food ([#60319](https://github.com/CleverRaven/Cataclysm-DDA/pull/60319))
 * Fix brawler trait breaking turrets menu ([#60328](https://github.com/CleverRaven/Cataclysm-DDA/pull/60328))
