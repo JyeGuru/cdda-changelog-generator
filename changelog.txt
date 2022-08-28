@@ -27,6 +27,8 @@ Cataclysm-DDA experimental build 2022-08-28-0224 (68dddee)
 * Add looks_like to Freezer, Glass Fridge, Combo Oven (#60500)
 * Water strider nymphs (#60493)
 * Demihuman Weakpoints (#60499)
+
+Cataclysm-DDA experimental build 2022-08-28-0101 (a6b6222)
 * shark plushie addition (#60492)
 
 Cataclysm-DDA experimental build 2022-08-27-1835 (3d2829c)
