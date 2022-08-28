@@ -39,11 +39,6 @@
 * Add looks_like to Freezer, Glass Fridge, Combo Oven ([#60500](https://github.com/CleverRaven/Cataclysm-DDA/pull/60500))
 * Water strider nymphs ([#60493](https://github.com/CleverRaven/Cataclysm-DDA/pull/60493))
 * Demihuman Weakpoints ([#60499](https://github.com/CleverRaven/Cataclysm-DDA/pull/60499))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-28-0101 ([a6b6222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0101))
-
 * shark plushie addition ([#60492](https://github.com/CleverRaven/Cataclysm-DDA/pull/60492))
 
 ---
