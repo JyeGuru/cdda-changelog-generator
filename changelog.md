@@ -1,3 +1,4 @@
+* comestibles: improve veggy salad enjoyability ([#60486](https://github.com/CleverRaven/Cataclysm-DDA/pull/60486))
 * More realistic booby trap ([#60488](https://github.com/CleverRaven/Cataclysm-DDA/pull/60488))
 * Refactor BFS in vehicle::is_connected and ignore carried_flag parts ([#60472](https://github.com/CleverRaven/Cataclysm-DDA/pull/60472))
 
@@ -204,4 +205,3 @@
 * CVD for steel grades ([#60321](https://github.com/CleverRaven/Cataclysm-DDA/pull/60321))
 * [Magiclysm] fixing some wizard tower stuff ([#60314](https://github.com/CleverRaven/Cataclysm-DDA/pull/60314))
 * [DinoMod] slower zombie dino upgrades ([#60311](https://github.com/CleverRaven/Cataclysm-DDA/pull/60311))
-* Update martialarts.json ([#60305](https://github.com/CleverRaven/Cataclysm-DDA/pull/60305))
