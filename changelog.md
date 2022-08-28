@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-28-0848 ([70905b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0848))
+
+* Gas Sac's shouldn't be 'Spare Parts', and should rot, try two. ([#60448](https://github.com/CleverRaven/Cataclysm-DDA/pull/60448))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-28-0725 ([28a5100](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0725))
 
 * comestibles: improve veggy salad enjoyability ([#60486](https://github.com/CleverRaven/Cataclysm-DDA/pull/60486))
@@ -137,7 +143,6 @@
 
 * Fish breeding ([#60397](https://github.com/CleverRaven/Cataclysm-DDA/pull/60397))
 * [DinoMod] portals ([#60408](https://github.com/CleverRaven/Cataclysm-DDA/pull/60408))
-* Adds families and weakpoints to some zombies in zed_misc.json ([#60306](https://github.com/CleverRaven/Cataclysm-DDA/pull/60306))
 * add base colorscheme gruvbox ([#60353](https://github.com/CleverRaven/Cataclysm-DDA/pull/60353))
 * Two new skeletal variants and a new evolution group ([#60322](https://github.com/CleverRaven/Cataclysm-DDA/pull/60322))
 * Sheet metal sabatons, gauntlets, and helmets. ([#60393](https://github.com/CleverRaven/Cataclysm-DDA/pull/60393))
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-08-23-1723 ([3a88f91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1723))
 
 * Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-23-1553 ([aa730d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1553))
-
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
 * Added activation cost for Joint Servo bionic ([#60331](https://github.com/CleverRaven/Cataclysm-DDA/pull/60331))
