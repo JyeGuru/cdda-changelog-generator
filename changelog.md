@@ -172,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-08-24-0306 ([933e743](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-0306))
 
 * Nested Recipes - Gambesons and More ([#60323](https://github.com/CleverRaven/Cataclysm-DDA/pull/60323))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-23-1723 ([3a88f91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-23-1723))
-
 * Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
