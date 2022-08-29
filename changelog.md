@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-29-2213 ([b5e0cb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-29-2213))
+
 * Welding kit appliance ([#60449](https://github.com/CleverRaven/Cataclysm-DDA/pull/60449))
 * Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
 
@@ -177,11 +182,6 @@
 * Sheet metal sabatons, gauntlets, and helmets. ([#60393](https://github.com/CleverRaven/Cataclysm-DDA/pull/60393))
 * Mission origin fix ([#60407](https://github.com/CleverRaven/Cataclysm-DDA/pull/60407))
 * [Vehicles] Luxury RV now has motorized curtains ([#60418](https://github.com/CleverRaven/Cataclysm-DDA/pull/60418))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-24-2048 ([bccf194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-2048))
-
 * fix: don't ship a broken symlink in exp releases ([#60419](https://github.com/CleverRaven/Cataclysm-DDA/pull/60419))
 * Human skulls can be broken down into bones. ([#60402](https://github.com/CleverRaven/Cataclysm-DDA/pull/60402))
 * Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
