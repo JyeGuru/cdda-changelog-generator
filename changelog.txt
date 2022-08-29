@@ -1,3 +1,4 @@
+* power_draw in energy (#60484)
 
 Cataclysm-DDA experimental build 2022-08-29-0612 (0cf3d9f)
 * Updated sandals to allow Toe Talons (#60515)
@@ -132,6 +133,5 @@ Cataclysm-DDA experimental build 2022-08-24-2048 (bccf194)
 * Add Cut 1 Quality to Bionic Razor CBM (#60345)
 * neoprene doesn't breathe (#60338)
 * Lumberjack tool group expansion (#60337)
-* Make fridges have same space as fridge appliance (#60335)
 * [DinoMod] downy dinos (#60341)
 * ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ (#60344)

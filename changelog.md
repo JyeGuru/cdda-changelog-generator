@@ -1,3 +1,4 @@
+* power_draw in energy ([#60484](https://github.com/CleverRaven/Cataclysm-DDA/pull/60484))
 
 ---
 
@@ -195,6 +196,5 @@
 * Add Cut 1 Quality to Bionic Razor CBM ([#60345](https://github.com/CleverRaven/Cataclysm-DDA/pull/60345))
 * neoprene doesn't breathe ([#60338](https://github.com/CleverRaven/Cataclysm-DDA/pull/60338))
 * Lumberjack tool group expansion ([#60337](https://github.com/CleverRaven/Cataclysm-DDA/pull/60337))
-* Make fridges have same space as fridge appliance ([#60335](https://github.com/CleverRaven/Cataclysm-DDA/pull/60335))
 * [DinoMod] downy dinos ([#60341](https://github.com/CleverRaven/Cataclysm-DDA/pull/60341))
 * ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ ([#60344](https://github.com/CleverRaven/Cataclysm-DDA/pull/60344))
