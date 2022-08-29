@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-29-2031 ([4b15e37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-29-2031))
+
 * power_draw in energy ([#60484](https://github.com/CleverRaven/Cataclysm-DDA/pull/60484))
 
 ---

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-29-2031 (4b15e37)
 * power_draw in energy (#60484)
 
 Cataclysm-DDA experimental build 2022-08-29-0612 (0cf3d9f)
