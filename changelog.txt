@@ -1,3 +1,5 @@
+* Welding kit appliance (#60449)
+* Removed 'about' part from fire lasting description (#60549)
 
 Cataclysm-DDA experimental build 2022-08-29-2031 (4b15e37)
 * power_draw in energy (#60484)
@@ -133,7 +135,5 @@ Cataclysm-DDA experimental build 2022-08-24-2048 (bccf194)
 * Fix .300 AAC Blackout conversion kit (#60382)
 * Routine tileset updates on 21 August 2022 (#60361)
 * Add Cut 1 Quality to Bionic Razor CBM (#60345)
-* neoprene doesn't breathe (#60338)
-* Lumberjack tool group expansion (#60337)
 * [DinoMod] downy dinos (#60341)
 * ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ (#60344)
