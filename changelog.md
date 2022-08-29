@@ -1,6 +1,30 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-29-0612 ([0cf3d9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-29-0612))
+
+* Updated sandals to allow Toe Talons ([#60515](https://github.com/CleverRaven/Cataclysm-DDA/pull/60515))
+* Fixes for abandoning camps ([#60521](https://github.com/CleverRaven/Cataclysm-DDA/pull/60521))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-29-0311 ([87a598f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-29-0311))
+
+* fix cables ([#60516](https://github.com/CleverRaven/Cataclysm-DDA/pull/60516))
+* Fixed wrong unconditional exit after first iteration when getting water from puddles and toilet ([#60517](https://github.com/CleverRaven/Cataclysm-DDA/pull/60517))
+* Sheltered Militia starts with full Garand clip ([#60524](https://github.com/CleverRaven/Cataclysm-DDA/pull/60524))
+* Use the correct vehicle positions to avoid failing lookups ([#60527](https://github.com/CleverRaven/Cataclysm-DDA/pull/60527))
+* fix: PR template comments triggers bugfix label ([#60529](https://github.com/CleverRaven/Cataclysm-DDA/pull/60529))
+* Activity interruption on very high or very low temperature ([#60530](https://github.com/CleverRaven/Cataclysm-DDA/pull/60530))
+* Fix ported tropicata mobs ([#60537](https://github.com/CleverRaven/Cataclysm-DDA/pull/60537))
+* Fixing Plushie once more ([#60538](https://github.com/CleverRaven/Cataclysm-DDA/pull/60538))
+* Routine tileset updates on 28 August 2022 ([#60543](https://github.com/CleverRaven/Cataclysm-DDA/pull/60543))
+* Fix duplication of folding vehicles and tent in iuse  ([#60545](https://github.com/CleverRaven/Cataclysm-DDA/pull/60545))
+* Crayfish cleanup & breeding ([#60522](https://github.com/CleverRaven/Cataclysm-DDA/pull/60522))
+* [DinoMod] Sarahsaurus, Haplocanthosaurus, Hesperosaurus, Gryposaurus ([#60473](https://github.com/CleverRaven/Cataclysm-DDA/pull/60473))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-28-0848 ([70905b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0848))
 
 * Gas Sac's shouldn't be 'Spare Parts', and should rot, try two. ([#60448](https://github.com/CleverRaven/Cataclysm-DDA/pull/60448))
@@ -73,7 +97,6 @@
 #### Cataclysm-DDA experimental build 2022-08-27-0552 ([bff870b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-0552))
 
 * Performance Improvement item::can_contain  ([#60414](https://github.com/CleverRaven/Cataclysm-DDA/pull/60414))
-* Thermometer shows water temperature ([#60312](https://github.com/CleverRaven/Cataclysm-DDA/pull/60312))
 * Don't serialize vehicles in un/racking activities ([#60462](https://github.com/CleverRaven/Cataclysm-DDA/pull/60462))
 * Update hypotetical passive solar panel bionic to use irradiance ([#60445](https://github.com/CleverRaven/Cataclysm-DDA/pull/60445))
 * Prevent vehicles with only PROTRUSION left ([#60458](https://github.com/CleverRaven/Cataclysm-DDA/pull/60458))
@@ -99,7 +122,6 @@
 #### Cataclysm-DDA experimental build 2022-08-26-1701 ([c375f1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1701))
 
 * Fix aura armor morale penalties ([#60411](https://github.com/CleverRaven/Cataclysm-DDA/pull/60411))
-* Mongroup: multi-spawn upgrades respect restrictions ([#60324](https://github.com/CleverRaven/Cataclysm-DDA/pull/60324))
 * Fix debug weather change not handling portal storms ([#60343](https://github.com/CleverRaven/Cataclysm-DDA/pull/60343))
 
 ---
@@ -144,7 +166,6 @@
 * Fish breeding ([#60397](https://github.com/CleverRaven/Cataclysm-DDA/pull/60397))
 * [DinoMod] portals ([#60408](https://github.com/CleverRaven/Cataclysm-DDA/pull/60408))
 * add base colorscheme gruvbox ([#60353](https://github.com/CleverRaven/Cataclysm-DDA/pull/60353))
-* Two new skeletal variants and a new evolution group ([#60322](https://github.com/CleverRaven/Cataclysm-DDA/pull/60322))
 * Sheet metal sabatons, gauntlets, and helmets. ([#60393](https://github.com/CleverRaven/Cataclysm-DDA/pull/60393))
 * Mission origin fix ([#60407](https://github.com/CleverRaven/Cataclysm-DDA/pull/60407))
 * [Vehicles] Luxury RV now has motorized curtains ([#60418](https://github.com/CleverRaven/Cataclysm-DDA/pull/60418))
@@ -154,28 +175,10 @@
 #### Cataclysm-DDA experimental build 2022-08-24-2048 ([bccf194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-2048))
 
 * fix: don't ship a broken symlink in exp releases ([#60419](https://github.com/CleverRaven/Cataclysm-DDA/pull/60419))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-24-0810 ([b8539e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-0810))
-
 * Human skulls can be broken down into bones. ([#60402](https://github.com/CleverRaven/Cataclysm-DDA/pull/60402))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-24-0458 ([a7edc39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-0458))
-
-* [Magiclysm] Small Alchemist tweaking ([#60326](https://github.com/CleverRaven/Cataclysm-DDA/pull/60326))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-24-0306 ([933e743](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-0306))
-
-* Nested Recipes - Gambesons and More ([#60323](https://github.com/CleverRaven/Cataclysm-DDA/pull/60323))
 * Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
-* Added activation cost for Joint Servo bionic ([#60331](https://github.com/CleverRaven/Cataclysm-DDA/pull/60331))
 * Use int64_t for vehicle::fuel_left ([#60342](https://github.com/CleverRaven/Cataclysm-DDA/pull/60342))
 * rename mission "Steal a dead man's last words" -> "Return to sender" ([#60358](https://github.com/CleverRaven/Cataclysm-DDA/pull/60358))
 * [DinoMod] mi-go scout tower dino variant ([#60346](https://github.com/CleverRaven/Cataclysm-DDA/pull/60346))
@@ -191,17 +194,8 @@
 * Routine tileset updates on 21 August 2022 ([#60361](https://github.com/CleverRaven/Cataclysm-DDA/pull/60361))
 * Add Cut 1 Quality to Bionic Razor CBM ([#60345](https://github.com/CleverRaven/Cataclysm-DDA/pull/60345))
 * neoprene doesn't breathe ([#60338](https://github.com/CleverRaven/Cataclysm-DDA/pull/60338))
-* Routine i18n updates on 20 August 2022 ([#60320](https://github.com/CleverRaven/Cataclysm-DDA/pull/60320))
 * Lumberjack tool group expansion ([#60337](https://github.com/CleverRaven/Cataclysm-DDA/pull/60337))
-* [DinoMod] move dino food ([#60319](https://github.com/CleverRaven/Cataclysm-DDA/pull/60319))
-* Fix brawler trait breaking turrets menu ([#60328](https://github.com/CleverRaven/Cataclysm-DDA/pull/60328))
-* debug_backpack is too heavy ([#60329](https://github.com/CleverRaven/Cataclysm-DDA/pull/60329))
-* Deploy aluminum stepladder furniture when activating aluminum stepladder item ([#60330](https://github.com/CleverRaven/Cataclysm-DDA/pull/60330))
-* Capital Doge 2 ([#60332](https://github.com/CleverRaven/Cataclysm-DDA/pull/60332))
 * Made attachable ear muffs adjustable ([#60333](https://github.com/CleverRaven/Cataclysm-DDA/pull/60333))
 * Make fridges have same space as fridge appliance ([#60335](https://github.com/CleverRaven/Cataclysm-DDA/pull/60335))
 * [DinoMod] downy dinos ([#60341](https://github.com/CleverRaven/Cataclysm-DDA/pull/60341))
 * ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ ([#60344](https://github.com/CleverRaven/Cataclysm-DDA/pull/60344))
-* CVD for steel grades ([#60321](https://github.com/CleverRaven/Cataclysm-DDA/pull/60321))
-* [Magiclysm] fixing some wizard tower stuff ([#60314](https://github.com/CleverRaven/Cataclysm-DDA/pull/60314))
-* [DinoMod] slower zombie dino upgrades ([#60311](https://github.com/CleverRaven/Cataclysm-DDA/pull/60311))
