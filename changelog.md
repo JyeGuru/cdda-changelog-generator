@@ -181,11 +181,6 @@
 * fix: set repairs_with for steel ballistic plates ([#60428](https://github.com/CleverRaven/Cataclysm-DDA/pull/60428))
 * Added missing periods to base camp hub 2 courtyard wall descriptions ([#60432](https://github.com/CleverRaven/Cataclysm-DDA/pull/60432))
 * Spread Microwaves ([#60410](https://github.com/CleverRaven/Cataclysm-DDA/pull/60410))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-25-0650 ([60820c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-0650))
-
 * Livestock Scales ([#60425](https://github.com/CleverRaven/Cataclysm-DDA/pull/60425))
 * Fish breeding ([#60397](https://github.com/CleverRaven/Cataclysm-DDA/pull/60397))
 * [DinoMod] portals ([#60408](https://github.com/CleverRaven/Cataclysm-DDA/pull/60408))
