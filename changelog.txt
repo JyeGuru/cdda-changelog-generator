@@ -78,6 +78,8 @@ Cataclysm-DDA experimental build 2022-08-27-1835 (3d2829c)
 * Factual error in a sidebar's description (#60478)
 * Added manhole cover item as a byproduct of prying manhole cover terrain (#60481)
 * Remove stepladder from player possession after deploying it (#60489)
+
+Cataclysm-DDA experimental build 2022-08-27-1710 (1631976)
 * [Xedra Evolved] Fix eater spells deal damage to player (#60490)
 
 Cataclysm-DDA experimental build 2022-08-27-0708 (aa80ff7)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2022-08-26-0507 (1045fea)
 
 Cataclysm-DDA experimental build 2022-08-25-1245 (d2a84e3)
 * Fix death_focused_beam death effect. (#60403)
-
-Cataclysm-DDA experimental build 2022-08-25-1143 (ef55c7b)
 * Automatic gun qualities (#60415)
 * [Magiclysm] Dragon lair loot fix (#60421)
 * Un hard code minimap black (#60412)
