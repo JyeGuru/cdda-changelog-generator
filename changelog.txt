@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-30-1852 (9bd27c3)
+* Allow crossbows to be used in practice recipes (#60560)
+
 Cataclysm-DDA experimental build 2022-08-30-1725 (f8dea2a)
 * fix cables (#60596)
 * Forbid sawing non-existent pistol stocks (#60497)
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2022-08-26-0507 (1045fea)
 
 Cataclysm-DDA experimental build 2022-08-25-1245 (d2a84e3)
 * Fix death_focused_beam death effect. (#60403)
-
-Cataclysm-DDA experimental build 2022-08-25-1143 (ef55c7b)
 * Automatic gun qualities (#60415)
 * [Magiclysm] Dragon lair loot fix (#60421)
 * Un hard code minimap black (#60412)
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2022-08-25-1143 (ef55c7b)
 * Livestock Scales (#60425)
 * Fish breeding (#60397)
 * [DinoMod] portals (#60408)
-* add base colorscheme gruvbox (#60353)
 * Sheet metal sabatons, gauntlets, and helmets. (#60393)
 * Mission origin fix (#60407)
 * [Vehicles] Luxury RV now has motorized curtains (#60418)

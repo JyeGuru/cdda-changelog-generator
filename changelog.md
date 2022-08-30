@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-30-1852 ([9bd27c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1852))
+
+* Allow crossbows to be used in practice recipes ([#60560](https://github.com/CleverRaven/Cataclysm-DDA/pull/60560))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-30-1725 ([f8dea2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1725))
 
 * fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-08-25-1245 ([d2a84e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-1245))
 
 * Fix death_focused_beam death effect. ([#60403](https://github.com/CleverRaven/Cataclysm-DDA/pull/60403))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-25-1143 ([ef55c7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-1143))
-
 * Automatic gun qualities ([#60415](https://github.com/CleverRaven/Cataclysm-DDA/pull/60415))
 * [Magiclysm] Dragon lair loot fix ([#60421](https://github.com/CleverRaven/Cataclysm-DDA/pull/60421))
 * Un hard code minimap black ([#60412](https://github.com/CleverRaven/Cataclysm-DDA/pull/60412))
@@ -190,7 +191,6 @@
 * Livestock Scales ([#60425](https://github.com/CleverRaven/Cataclysm-DDA/pull/60425))
 * Fish breeding ([#60397](https://github.com/CleverRaven/Cataclysm-DDA/pull/60397))
 * [DinoMod] portals ([#60408](https://github.com/CleverRaven/Cataclysm-DDA/pull/60408))
-* add base colorscheme gruvbox ([#60353](https://github.com/CleverRaven/Cataclysm-DDA/pull/60353))
 * Sheet metal sabatons, gauntlets, and helmets. ([#60393](https://github.com/CleverRaven/Cataclysm-DDA/pull/60393))
 * Mission origin fix ([#60407](https://github.com/CleverRaven/Cataclysm-DDA/pull/60407))
 * [Vehicles] Luxury RV now has motorized curtains ([#60418](https://github.com/CleverRaven/Cataclysm-DDA/pull/60418))
