@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-30-0519 ([e45b649](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-0519))
+
+* fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-29-2213 ([b5e0cb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-29-2213))
 
 * Welding kit appliance ([#60449](https://github.com/CleverRaven/Cataclysm-DDA/pull/60449))
@@ -171,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-08-25-0650 ([60820c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-0650))
 
 * Livestock Scales ([#60425](https://github.com/CleverRaven/Cataclysm-DDA/pull/60425))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-24-2203 ([e479912](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-24-2203))
-
 * Fish breeding ([#60397](https://github.com/CleverRaven/Cataclysm-DDA/pull/60397))
 * [DinoMod] portals ([#60408](https://github.com/CleverRaven/Cataclysm-DDA/pull/60408))
 * add base colorscheme gruvbox ([#60353](https://github.com/CleverRaven/Cataclysm-DDA/pull/60353))
@@ -201,5 +202,4 @@
 * Fix .300 AAC Blackout conversion kit ([#60382](https://github.com/CleverRaven/Cataclysm-DDA/pull/60382))
 * Routine tileset updates on 21 August 2022 ([#60361](https://github.com/CleverRaven/Cataclysm-DDA/pull/60361))
 * Add Cut 1 Quality to Bionic Razor CBM ([#60345](https://github.com/CleverRaven/Cataclysm-DDA/pull/60345))
-* [DinoMod] downy dinos ([#60341](https://github.com/CleverRaven/Cataclysm-DDA/pull/60341))
 * ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ ([#60344](https://github.com/CleverRaven/Cataclysm-DDA/pull/60344))
