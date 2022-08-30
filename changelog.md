@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-30-1725 ([f8dea2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1725))
+
+* fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
 * Forbid sawing non-existent pistol stocks ([#60497](https://github.com/CleverRaven/Cataclysm-DDA/pull/60497))
 * Ammo effects documentation update ([#60534](https://github.com/CleverRaven/Cataclysm-DDA/pull/60534))
 * Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
@@ -194,7 +200,6 @@
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
 * rename mission "Steal a dead man's last words" -> "Return to sender" ([#60358](https://github.com/CleverRaven/Cataclysm-DDA/pull/60358))
-* Fix quadrupeds still getting annoyed at you ([#60352](https://github.com/CleverRaven/Cataclysm-DDA/pull/60352))
 * [Magiclysm] Dragon Horns ([#60357](https://github.com/CleverRaven/Cataclysm-DDA/pull/60357))
 * Polish martial arts windows ([#60360](https://github.com/CleverRaven/Cataclysm-DDA/pull/60360))
 * tweak: tileset changelog annotations ([#60365](https://github.com/CleverRaven/Cataclysm-DDA/pull/60365))
