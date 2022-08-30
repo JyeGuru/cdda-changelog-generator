@@ -1,3 +1,4 @@
+* Forbid sawing non-existent pistol stocks ([#60497](https://github.com/CleverRaven/Cataclysm-DDA/pull/60497))
 * Ammo effects documentation update ([#60534](https://github.com/CleverRaven/Cataclysm-DDA/pull/60534))
 * Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
 * Cane toad no more ([#60554](https://github.com/CleverRaven/Cataclysm-DDA/pull/60554))
@@ -198,7 +199,6 @@
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
 * rename mission "Steal a dead man's last words" -> "Return to sender" ([#60358](https://github.com/CleverRaven/Cataclysm-DDA/pull/60358))
-* colorscheme: add kanagawa ([#60350](https://github.com/CleverRaven/Cataclysm-DDA/pull/60350))
 * Fix quadrupeds still getting annoyed at you ([#60352](https://github.com/CleverRaven/Cataclysm-DDA/pull/60352))
 * [Magiclysm] Dragon Horns ([#60357](https://github.com/CleverRaven/Cataclysm-DDA/pull/60357))
 * Polish martial arts windows ([#60360](https://github.com/CleverRaven/Cataclysm-DDA/pull/60360))
