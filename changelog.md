@@ -1,3 +1,13 @@
+* Ammo effects documentation update ([#60534](https://github.com/CleverRaven/Cataclysm-DDA/pull/60534))
+* Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
+* Cane toad no more ([#60554](https://github.com/CleverRaven/Cataclysm-DDA/pull/60554))
+* Some more npc quips and fixes ([#60553](https://github.com/CleverRaven/Cataclysm-DDA/pull/60553))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-30-1010 ([07ac712](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1010))
+
+* Sound: fix ambient weather switching ([#60547](https://github.com/CleverRaven/Cataclysm-DDA/pull/60547))
 
 ---
 
@@ -141,7 +151,6 @@
 #### Cataclysm-DDA experimental build 2022-08-26-1701 ([c375f1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1701))
 
 * Fix aura armor morale penalties ([#60411](https://github.com/CleverRaven/Cataclysm-DDA/pull/60411))
-* Fix debug weather change not handling portal storms ([#60343](https://github.com/CleverRaven/Cataclysm-DDA/pull/60343))
 
 ---
 
@@ -188,9 +197,7 @@
 * Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
-* Use int64_t for vehicle::fuel_left ([#60342](https://github.com/CleverRaven/Cataclysm-DDA/pull/60342))
 * rename mission "Steal a dead man's last words" -> "Return to sender" ([#60358](https://github.com/CleverRaven/Cataclysm-DDA/pull/60358))
-* [DinoMod] mi-go scout tower dino variant ([#60346](https://github.com/CleverRaven/Cataclysm-DDA/pull/60346))
 * colorscheme: add kanagawa ([#60350](https://github.com/CleverRaven/Cataclysm-DDA/pull/60350))
 * Fix quadrupeds still getting annoyed at you ([#60352](https://github.com/CleverRaven/Cataclysm-DDA/pull/60352))
 * [Magiclysm] Dragon Horns ([#60357](https://github.com/CleverRaven/Cataclysm-DDA/pull/60357))
@@ -201,5 +208,3 @@
 * Fix #55797 divide by zero ([#60380](https://github.com/CleverRaven/Cataclysm-DDA/pull/60380))
 * Fix .300 AAC Blackout conversion kit ([#60382](https://github.com/CleverRaven/Cataclysm-DDA/pull/60382))
 * Routine tileset updates on 21 August 2022 ([#60361](https://github.com/CleverRaven/Cataclysm-DDA/pull/60361))
-* Add Cut 1 Quality to Bionic Razor CBM ([#60345](https://github.com/CleverRaven/Cataclysm-DDA/pull/60345))
-* ⚕️ Use bandages as tools, not components, in first aid practice ⚕️ ([#60344](https://github.com/CleverRaven/Cataclysm-DDA/pull/60344))
