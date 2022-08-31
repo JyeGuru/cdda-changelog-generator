@@ -1,3 +1,9 @@
+* costumes: add shork suit ([#60518](https://github.com/CleverRaven/Cataclysm-DDA/pull/60518))
+* Sample changes for a few monsters ([#60531](https://github.com/CleverRaven/Cataclysm-DDA/pull/60531))
+* Adds several wire crafting recipes using wire draw machine ([#60535](https://github.com/CleverRaven/Cataclysm-DDA/pull/60535))
+* Adding freezer spawns ([#60555](https://github.com/CleverRaven/Cataclysm-DDA/pull/60555))
+* fix fabric bundle weight and volume ([#60567](https://github.com/CleverRaven/Cataclysm-DDA/pull/60567))
+* [DinoMod] three ceratopsians ([#60575](https://github.com/CleverRaven/Cataclysm-DDA/pull/60575))
 
 ---
 
@@ -111,12 +117,6 @@
 * Fix racking silently failing ([#60507](https://github.com/CleverRaven/Cataclysm-DDA/pull/60507))
 * Update pre-apoc price of oatmeal ([#60511](https://github.com/CleverRaven/Cataclysm-DDA/pull/60511))
 * Fixing plushie shark weight and length ([#60513](https://github.com/CleverRaven/Cataclysm-DDA/pull/60513))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-28-0224 ([68dddee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0224))
-
-* Content "Zastava AK in .223 and .308" ([#60386](https://github.com/CleverRaven/Cataclysm-DDA/pull/60386))
 * Fix molotov blowing up in hand ([#60502](https://github.com/CleverRaven/Cataclysm-DDA/pull/60502))
 * fix: suppress dirty state in releases ([#60509](https://github.com/CleverRaven/Cataclysm-DDA/pull/60509))
 * typo fix in the Kickboxing's description ("Taekwando" -> "Taekwondo") ([#60436](https://github.com/CleverRaven/Cataclysm-DDA/pull/60436))
@@ -184,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-08-26-1701 ([c375f1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1701))
 
 * Fix aura armor morale penalties ([#60411](https://github.com/CleverRaven/Cataclysm-DDA/pull/60411))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-26-1326 ([72c487c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1326))
-
 * Gastropod Cooking Recipes ([#60431](https://github.com/CleverRaven/Cataclysm-DDA/pull/60431))
 * Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
 * Fix death_focused_beam death effect. ([#60403](https://github.com/CleverRaven/Cataclysm-DDA/pull/60403))
@@ -208,8 +203,3 @@
 * Human skulls can be broken down into bones. ([#60402](https://github.com/CleverRaven/Cataclysm-DDA/pull/60402))
 * Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
-* Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
-* Don't disarm hallucination NPCs ([#60372](https://github.com/CleverRaven/Cataclysm-DDA/pull/60372))
-* Don't unwield nonunwieldable weapons when drawing weapons from holsters ([#60373](https://github.com/CleverRaven/Cataclysm-DDA/pull/60373))
-* Fix #55797 divide by zero ([#60380](https://github.com/CleverRaven/Cataclysm-DDA/pull/60380))
-* Fix .300 AAC Blackout conversion kit ([#60382](https://github.com/CleverRaven/Cataclysm-DDA/pull/60382))
