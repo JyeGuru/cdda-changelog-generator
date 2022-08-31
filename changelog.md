@@ -1,3 +1,13 @@
+* Remove underline typo in `recipe_modular_workshop_rammed_earth.json` ([#60591](https://github.com/CleverRaven/Cataclysm-DDA/pull/60591))
+* Fixed off-by-one mapgen offset in mine shaft ([#60593](https://github.com/CleverRaven/Cataclysm-DDA/pull/60593))
+* After unloading battery from an active RC car, convert it to inactive version ([#60598](https://github.com/CleverRaven/Cataclysm-DDA/pull/60598))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-31-0031 ([11c8e5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-0031))
+
+* Remove the the ([#60600](https://github.com/CleverRaven/Cataclysm-DDA/pull/60600))
+* Allow `compose.py` to follow symlinks in tilesets ([#60606](https://github.com/CleverRaven/Cataclysm-DDA/pull/60606))
 
 ---
 
@@ -88,7 +98,6 @@
 * Fix mi-go guardians moving away from its tower ([#60474](https://github.com/CleverRaven/Cataclysm-DDA/pull/60474))
 * Allow wearing power and integrated armor ([#60503](https://github.com/CleverRaven/Cataclysm-DDA/pull/60503))
 * Fix racking silently failing ([#60507](https://github.com/CleverRaven/Cataclysm-DDA/pull/60507))
-* Add PROTRUSION and OBSTACLE flags to military composite rams ([#60355](https://github.com/CleverRaven/Cataclysm-DDA/pull/60355))
 * Update pre-apoc price of oatmeal ([#60511](https://github.com/CleverRaven/Cataclysm-DDA/pull/60511))
 * Fixing plushie shark weight and length ([#60513](https://github.com/CleverRaven/Cataclysm-DDA/pull/60513))
 
@@ -176,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-08-26-0507 ([1045fea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-0507))
 
 * Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-25-1245 ([d2a84e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-25-1245))
-
 * Fix death_focused_beam death effect. ([#60403](https://github.com/CleverRaven/Cataclysm-DDA/pull/60403))
 * Automatic gun qualities ([#60415](https://github.com/CleverRaven/Cataclysm-DDA/pull/60415))
 * [Magiclysm] Dragon lair loot fix ([#60421](https://github.com/CleverRaven/Cataclysm-DDA/pull/60421))
@@ -199,12 +203,8 @@
 * Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
-* rename mission "Steal a dead man's last words" -> "Return to sender" ([#60358](https://github.com/CleverRaven/Cataclysm-DDA/pull/60358))
-* [Magiclysm] Dragon Horns ([#60357](https://github.com/CleverRaven/Cataclysm-DDA/pull/60357))
-* Polish martial arts windows ([#60360](https://github.com/CleverRaven/Cataclysm-DDA/pull/60360))
 * tweak: tileset changelog annotations ([#60365](https://github.com/CleverRaven/Cataclysm-DDA/pull/60365))
 * Don't disarm hallucination NPCs ([#60372](https://github.com/CleverRaven/Cataclysm-DDA/pull/60372))
 * Don't unwield nonunwieldable weapons when drawing weapons from holsters ([#60373](https://github.com/CleverRaven/Cataclysm-DDA/pull/60373))
 * Fix #55797 divide by zero ([#60380](https://github.com/CleverRaven/Cataclysm-DDA/pull/60380))
 * Fix .300 AAC Blackout conversion kit ([#60382](https://github.com/CleverRaven/Cataclysm-DDA/pull/60382))
-* Routine tileset updates on 21 August 2022 ([#60361](https://github.com/CleverRaven/Cataclysm-DDA/pull/60361))
