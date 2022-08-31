@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-31-0145 ([e4119e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-0145))
+
 * Remove underline typo in `recipe_modular_workshop_rammed_earth.json` ([#60591](https://github.com/CleverRaven/Cataclysm-DDA/pull/60591))
 * Fixed off-by-one mapgen offset in mine shaft ([#60593](https://github.com/CleverRaven/Cataclysm-DDA/pull/60593))
 * After unloading battery from an active RC car, convert it to inactive version ([#60598](https://github.com/CleverRaven/Cataclysm-DDA/pull/60598))
