@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-31-2326 ([d2ddb37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-2326))
+
+* CrazyCataclysm: Rocket Cans and POWERTHIRST ([#60571](https://github.com/CleverRaven/Cataclysm-DDA/pull/60571))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-31-1402 ([e6abe25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-1402))
 
 * [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
@@ -175,11 +181,6 @@
 
 * Give the oven appliance its oven quality back ([#60464](https://github.com/CleverRaven/Cataclysm-DDA/pull/60464))
 * Update comment-commands.yml ([#60465](https://github.com/CleverRaven/Cataclysm-DDA/pull/60465))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-26-1806 ([d0f4854](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1806))
-
 * lower price of ASRG ([#60424](https://github.com/CleverRaven/Cataclysm-DDA/pull/60424))
 * fix messenger bag recipe ([#60441](https://github.com/CleverRaven/Cataclysm-DDA/pull/60441))
 * Nested Recipes - Steel Equipment Renest, Belts, Sewing Tools ([#60430](https://github.com/CleverRaven/Cataclysm-DDA/pull/60430))
@@ -202,4 +203,3 @@
 * fix: don't ship a broken symlink in exp releases ([#60419](https://github.com/CleverRaven/Cataclysm-DDA/pull/60419))
 * Human skulls can be broken down into bones. ([#60402](https://github.com/CleverRaven/Cataclysm-DDA/pull/60402))
 * Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
-* Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))

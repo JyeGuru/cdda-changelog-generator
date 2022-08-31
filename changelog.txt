@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-08-31-2326 (d2ddb37)
+* CrazyCataclysm: Rocket Cans and POWERTHIRST (#60571)
+
 Cataclysm-DDA experimental build 2022-08-31-1402 (e6abe25)
 * [CR] Adds wearable and edible candy bracelets (#60583)
 * costumes: add shork suit (#60518)
@@ -112,8 +115,6 @@ Cataclysm-DDA experimental build 2022-08-27-0552 (bff870b)
 Cataclysm-DDA experimental build 2022-08-27-0331 (730362c)
 * Give the oven appliance its oven quality back (#60464)
 * Update comment-commands.yml (#60465)
-
-Cataclysm-DDA experimental build 2022-08-26-1806 (d0f4854)
 * lower price of ASRG (#60424)
 * fix messenger bag recipe (#60441)
 * Nested Recipes - Steel Equipment Renest, Belts, Sewing Tools (#60430)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-08-26-1806 (d0f4854)
 * fix: don't ship a broken symlink in exp releases (#60419)
 * Human skulls can be broken down into bones. (#60402)
 * Fix horns overlay ordering (#60396)
-* Locusts now have correct flesh (#60392)
