@@ -1,3 +1,4 @@
+* [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
 * costumes: add shork suit ([#60518](https://github.com/CleverRaven/Cataclysm-DDA/pull/60518))
 * Sample changes for a few monsters ([#60531](https://github.com/CleverRaven/Cataclysm-DDA/pull/60531))
 * Adds several wire crafting recipes using wire draw machine ([#60535](https://github.com/CleverRaven/Cataclysm-DDA/pull/60535))
@@ -120,7 +121,6 @@
 * Fix molotov blowing up in hand ([#60502](https://github.com/CleverRaven/Cataclysm-DDA/pull/60502))
 * fix: suppress dirty state in releases ([#60509](https://github.com/CleverRaven/Cataclysm-DDA/pull/60509))
 * typo fix in the Kickboxing's description ("Taekwando" -> "Taekwondo") ([#60436](https://github.com/CleverRaven/Cataclysm-DDA/pull/60436))
-* Grasshopper nymphs ([#60390](https://github.com/CleverRaven/Cataclysm-DDA/pull/60390))
 * Mantis nymphs ([#60485](https://github.com/CleverRaven/Cataclysm-DDA/pull/60485))
 * Add looks_like to Freezer, Glass Fridge, Combo Oven ([#60500](https://github.com/CleverRaven/Cataclysm-DDA/pull/60500))
 * Water strider nymphs ([#60493](https://github.com/CleverRaven/Cataclysm-DDA/pull/60493))
