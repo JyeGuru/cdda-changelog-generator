@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-08-31-0701 ([be8d4ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-0701))
+
+* Prevent critical NPCs dying to back bay zombies ([#60595](https://github.com/CleverRaven/Cataclysm-DDA/pull/60595))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-31-0145 ([e4119e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-0145))
 
 * Remove underline typo in `recipe_modular_workshop_rammed_earth.json` ([#60591](https://github.com/CleverRaven/Cataclysm-DDA/pull/60591))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-08-26-1326 ([72c487c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1326))
 
 * Gastropod Cooking Recipes ([#60431](https://github.com/CleverRaven/Cataclysm-DDA/pull/60431))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-26-0507 ([1045fea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-0507))
-
 * Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
 * Fix death_focused_beam death effect. ([#60403](https://github.com/CleverRaven/Cataclysm-DDA/pull/60403))
 * Automatic gun qualities ([#60415](https://github.com/CleverRaven/Cataclysm-DDA/pull/60415))
@@ -208,7 +209,6 @@
 * Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
 * Locusts now have correct flesh ([#60392](https://github.com/CleverRaven/Cataclysm-DDA/pull/60392))
 * Back out of nested categories in crafting ([#60378](https://github.com/CleverRaven/Cataclysm-DDA/pull/60378))
-* tweak: tileset changelog annotations ([#60365](https://github.com/CleverRaven/Cataclysm-DDA/pull/60365))
 * Don't disarm hallucination NPCs ([#60372](https://github.com/CleverRaven/Cataclysm-DDA/pull/60372))
 * Don't unwield nonunwieldable weapons when drawing weapons from holsters ([#60373](https://github.com/CleverRaven/Cataclysm-DDA/pull/60373))
 * Fix #55797 divide by zero ([#60380](https://github.com/CleverRaven/Cataclysm-DDA/pull/60380))
