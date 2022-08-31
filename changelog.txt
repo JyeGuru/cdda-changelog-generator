@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-08-31-1402 (e6abe25)
 * [CR] Adds wearable and edible candy bracelets (#60583)
 * costumes: add shork suit (#60518)
 * Sample changes for a few monsters (#60531)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2022-08-26-1806 (d0f4854)
 * lower price of ASRG (#60424)
 * fix messenger bag recipe (#60441)
 * Nested Recipes - Steel Equipment Renest, Belts, Sewing Tools (#60430)
-
-Cataclysm-DDA experimental build 2022-08-26-1701 (c375f1d)
 * Fix aura armor morale penalties (#60411)
 * Gastropod Cooking Recipes (#60431)
 * Fix an error with recent livestock scale (#60450)

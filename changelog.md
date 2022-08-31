@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-31-1402 ([e6abe25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-1402))
+
 * [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
 * costumes: add shork suit ([#60518](https://github.com/CleverRaven/Cataclysm-DDA/pull/60518))
 * Sample changes for a few monsters ([#60531](https://github.com/CleverRaven/Cataclysm-DDA/pull/60531))
@@ -178,11 +183,6 @@
 * lower price of ASRG ([#60424](https://github.com/CleverRaven/Cataclysm-DDA/pull/60424))
 * fix messenger bag recipe ([#60441](https://github.com/CleverRaven/Cataclysm-DDA/pull/60441))
 * Nested Recipes - Steel Equipment Renest, Belts, Sewing Tools ([#60430](https://github.com/CleverRaven/Cataclysm-DDA/pull/60430))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-26-1701 ([c375f1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-26-1701))
-
 * Fix aura armor morale penalties ([#60411](https://github.com/CleverRaven/Cataclysm-DDA/pull/60411))
 * Gastropod Cooking Recipes ([#60431](https://github.com/CleverRaven/Cataclysm-DDA/pull/60431))
 * Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
