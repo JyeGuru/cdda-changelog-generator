@@ -1,3 +1,4 @@
+* Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 
 ---
 
@@ -180,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-08-28-0101 ([a6b6222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0101))
 
 * shark plushie addition ([#60492](https://github.com/CleverRaven/Cataclysm-DDA/pull/60492))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-27-1835 ([3d2829c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-1835))
-
 * give fire axe's pocket a description ([#60476](https://github.com/CleverRaven/Cataclysm-DDA/pull/60476))
 * Factual error in a sidebar's description ([#60478](https://github.com/CleverRaven/Cataclysm-DDA/pull/60478))
 * Added manhole cover item as a byproduct of prying manhole cover terrain ([#60481](https://github.com/CleverRaven/Cataclysm-DDA/pull/60481))
@@ -202,5 +198,4 @@
 * Nested Recipes - Steel Equipment Renest, Belts, Sewing Tools ([#60430](https://github.com/CleverRaven/Cataclysm-DDA/pull/60430))
 * Gastropod Cooking Recipes ([#60431](https://github.com/CleverRaven/Cataclysm-DDA/pull/60431))
 * Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
-* fix: set repairs_with for steel ballistic plates ([#60428](https://github.com/CleverRaven/Cataclysm-DDA/pull/60428))
 * Added missing periods to base camp hub 2 courtyard wall descriptions ([#60432](https://github.com/CleverRaven/Cataclysm-DDA/pull/60432))
