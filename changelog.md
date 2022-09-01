@@ -189,11 +189,6 @@
 * Factual error in a sidebar's description ([#60478](https://github.com/CleverRaven/Cataclysm-DDA/pull/60478))
 * Added manhole cover item as a byproduct of prying manhole cover terrain ([#60481](https://github.com/CleverRaven/Cataclysm-DDA/pull/60481))
 * Remove stepladder from player possession after deploying it ([#60489](https://github.com/CleverRaven/Cataclysm-DDA/pull/60489))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-27-1710 ([1631976](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-1710))
-
 * [Xedra Evolved] Fix eater spells deal damage to player ([#60490](https://github.com/CleverRaven/Cataclysm-DDA/pull/60490))
 * steel and kevlar ablative plates are sturdy ([#60466](https://github.com/CleverRaven/Cataclysm-DDA/pull/60466))
 * Routine i18n updates on 27 August 2022 ([#60475](https://github.com/CleverRaven/Cataclysm-DDA/pull/60475))
