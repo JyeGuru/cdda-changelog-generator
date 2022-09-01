@@ -1,3 +1,4 @@
+* Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 
 ---
@@ -195,7 +196,6 @@
 * Give the oven appliance its oven quality back ([#60464](https://github.com/CleverRaven/Cataclysm-DDA/pull/60464))
 * Update comment-commands.yml ([#60465](https://github.com/CleverRaven/Cataclysm-DDA/pull/60465))
 * fix messenger bag recipe ([#60441](https://github.com/CleverRaven/Cataclysm-DDA/pull/60441))
-* Nested Recipes - Steel Equipment Renest, Belts, Sewing Tools ([#60430](https://github.com/CleverRaven/Cataclysm-DDA/pull/60430))
 * Gastropod Cooking Recipes ([#60431](https://github.com/CleverRaven/Cataclysm-DDA/pull/60431))
 * Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
 * Added missing periods to base camp hub 2 courtyard wall descriptions ([#60432](https://github.com/CleverRaven/Cataclysm-DDA/pull/60432))

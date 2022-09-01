@@ -1,3 +1,4 @@
+* Appliance: drop cables when taking down appliance (#60621)
 * Aluminum Revolution 3: The Oxide Returns (#60635)
 
 Cataclysm-DDA experimental build 2022-09-01-0646 (5510799)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2022-08-28-0101 (a6b6222)
 * Give the oven appliance its oven quality back (#60464)
 * Update comment-commands.yml (#60465)
 * fix messenger bag recipe (#60441)
-* Nested Recipes - Steel Equipment Renest, Belts, Sewing Tools (#60430)
 * Gastropod Cooking Recipes (#60431)
 * Fix an error with recent livestock scale (#60450)
 * Added missing periods to base camp hub 2 courtyard wall descriptions (#60432)
