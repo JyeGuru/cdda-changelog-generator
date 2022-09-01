@@ -1,6 +1,38 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-01-0523 ([0c6b34c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-0523))
+
+* Remove gamma globulin shot ([#60602](https://github.com/CleverRaven/Cataclysm-DDA/pull/60602))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-01-0358 ([ef92ebd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-0358))
+
+* Allow wearing non-covering items with power armor ([#60533](https://github.com/CleverRaven/Cataclysm-DDA/pull/60533))
+* Add casts and widen a variable to make MSVC happy ([#60568](https://github.com/CleverRaven/Cataclysm-DDA/pull/60568))
+* Modular Bsaecamp Workshop recipe update ([#60582](https://github.com/CleverRaven/Cataclysm-DDA/pull/60582))
+* Nested Recipes-Misc. ammo & components ([#60617](https://github.com/CleverRaven/Cataclysm-DDA/pull/60617))
+* [DinoMod] dino carriers ([#60630](https://github.com/CleverRaven/Cataclysm-DDA/pull/60630))
+* Update documentation for recipes ([#60628](https://github.com/CleverRaven/Cataclysm-DDA/pull/60628))
+* [Magiclysm] allow adept weapons as recipe tools ([#60633](https://github.com/CleverRaven/Cataclysm-DDA/pull/60633))
+* Retractable "3D" sprites for walls etc. ([#60471](https://github.com/CleverRaven/Cataclysm-DDA/pull/60471))
+* Lab-quality filter paper and gasket changes ([#60616](https://github.com/CleverRaven/Cataclysm-DDA/pull/60616))
+* Add post-apocalypse prices to cannabis extraction items ([#60615](https://github.com/CleverRaven/Cataclysm-DDA/pull/60615))
+* Cannabis extract typo fixes ([#60614](https://github.com/CleverRaven/Cataclysm-DDA/pull/60614))
+* Xedra Evolved Bugfix for #60563 ([#60580](https://github.com/CleverRaven/Cataclysm-DDA/pull/60580))
+* Add some new nightmares ([#60590](https://github.com/CleverRaven/Cataclysm-DDA/pull/60590))
+* Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
+* Fix quickloading ([#60587](https://github.com/CleverRaven/Cataclysm-DDA/pull/60587))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-01-0251 ([2aaf897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-0251))
+
+* Vertical graph/bar sidebar widgets ([#60604](https://github.com/CleverRaven/Cataclysm-DDA/pull/60604))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-08-31-2326 ([d2ddb37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-2326))
 
 * CrazyCataclysm: Rocket Cans and POWERTHIRST ([#60571](https://github.com/CleverRaven/Cataclysm-DDA/pull/60571))
@@ -164,42 +196,16 @@
 
 * steel and kevlar ablative plates are sturdy ([#60466](https://github.com/CleverRaven/Cataclysm-DDA/pull/60466))
 * Routine i18n updates on 27 August 2022 ([#60475](https://github.com/CleverRaven/Cataclysm-DDA/pull/60475))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-27-0552 ([bff870b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-0552))
-
-* Performance Improvement item::can_contain  ([#60414](https://github.com/CleverRaven/Cataclysm-DDA/pull/60414))
 * Don't serialize vehicles in un/racking activities ([#60462](https://github.com/CleverRaven/Cataclysm-DDA/pull/60462))
 * Update hypotetical passive solar panel bionic to use irradiance ([#60445](https://github.com/CleverRaven/Cataclysm-DDA/pull/60445))
 * Prevent vehicles with only PROTRUSION left ([#60458](https://github.com/CleverRaven/Cataclysm-DDA/pull/60458))
 * Prevent unmounting carried and carrying parts ([#60460](https://github.com/CleverRaven/Cataclysm-DDA/pull/60460))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-27-0331 ([730362c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-27-0331))
-
 * Give the oven appliance its oven quality back ([#60464](https://github.com/CleverRaven/Cataclysm-DDA/pull/60464))
 * Update comment-commands.yml ([#60465](https://github.com/CleverRaven/Cataclysm-DDA/pull/60465))
-* lower price of ASRG ([#60424](https://github.com/CleverRaven/Cataclysm-DDA/pull/60424))
 * fix messenger bag recipe ([#60441](https://github.com/CleverRaven/Cataclysm-DDA/pull/60441))
 * Nested Recipes - Steel Equipment Renest, Belts, Sewing Tools ([#60430](https://github.com/CleverRaven/Cataclysm-DDA/pull/60430))
-* Fix aura armor morale penalties ([#60411](https://github.com/CleverRaven/Cataclysm-DDA/pull/60411))
 * Gastropod Cooking Recipes ([#60431](https://github.com/CleverRaven/Cataclysm-DDA/pull/60431))
 * Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
-* Fix death_focused_beam death effect. ([#60403](https://github.com/CleverRaven/Cataclysm-DDA/pull/60403))
-* Automatic gun qualities ([#60415](https://github.com/CleverRaven/Cataclysm-DDA/pull/60415))
-* [Magiclysm] Dragon lair loot fix ([#60421](https://github.com/CleverRaven/Cataclysm-DDA/pull/60421))
-* Un hard code minimap black ([#60412](https://github.com/CleverRaven/Cataclysm-DDA/pull/60412))
 * fix: set repairs_with for steel ballistic plates ([#60428](https://github.com/CleverRaven/Cataclysm-DDA/pull/60428))
 * Added missing periods to base camp hub 2 courtyard wall descriptions ([#60432](https://github.com/CleverRaven/Cataclysm-DDA/pull/60432))
-* Spread Microwaves ([#60410](https://github.com/CleverRaven/Cataclysm-DDA/pull/60410))
 * Livestock Scales ([#60425](https://github.com/CleverRaven/Cataclysm-DDA/pull/60425))
-* Fish breeding ([#60397](https://github.com/CleverRaven/Cataclysm-DDA/pull/60397))
-* [DinoMod] portals ([#60408](https://github.com/CleverRaven/Cataclysm-DDA/pull/60408))
-* Sheet metal sabatons, gauntlets, and helmets. ([#60393](https://github.com/CleverRaven/Cataclysm-DDA/pull/60393))
-* Mission origin fix ([#60407](https://github.com/CleverRaven/Cataclysm-DDA/pull/60407))
-* [Vehicles] Luxury RV now has motorized curtains ([#60418](https://github.com/CleverRaven/Cataclysm-DDA/pull/60418))
-* fix: don't ship a broken symlink in exp releases ([#60419](https://github.com/CleverRaven/Cataclysm-DDA/pull/60419))
-* Human skulls can be broken down into bones. ([#60402](https://github.com/CleverRaven/Cataclysm-DDA/pull/60402))
-* Fix horns overlay ordering ([#60396](https://github.com/CleverRaven/Cataclysm-DDA/pull/60396))
