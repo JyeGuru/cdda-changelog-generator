@@ -1,3 +1,9 @@
+* Add a new profession called Military Veteran ([#60561](https://github.com/CleverRaven/Cataclysm-DDA/pull/60561))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-01-1155 ([7e5f5bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-1155))
+
 * Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 
@@ -176,11 +182,6 @@
 * Add looks_like to Freezer, Glass Fridge, Combo Oven ([#60500](https://github.com/CleverRaven/Cataclysm-DDA/pull/60500))
 * Water strider nymphs ([#60493](https://github.com/CleverRaven/Cataclysm-DDA/pull/60493))
 * Demihuman Weakpoints ([#60499](https://github.com/CleverRaven/Cataclysm-DDA/pull/60499))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-28-0101 ([a6b6222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0101))
-
 * shark plushie addition ([#60492](https://github.com/CleverRaven/Cataclysm-DDA/pull/60492))
 * give fire axe's pocket a description ([#60476](https://github.com/CleverRaven/Cataclysm-DDA/pull/60476))
 * Factual error in a sidebar's description ([#60478](https://github.com/CleverRaven/Cataclysm-DDA/pull/60478))
@@ -196,6 +197,5 @@
 * Give the oven appliance its oven quality back ([#60464](https://github.com/CleverRaven/Cataclysm-DDA/pull/60464))
 * Update comment-commands.yml ([#60465](https://github.com/CleverRaven/Cataclysm-DDA/pull/60465))
 * fix messenger bag recipe ([#60441](https://github.com/CleverRaven/Cataclysm-DDA/pull/60441))
-* Gastropod Cooking Recipes ([#60431](https://github.com/CleverRaven/Cataclysm-DDA/pull/60431))
 * Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
 * Added missing periods to base camp hub 2 courtyard wall descriptions ([#60432](https://github.com/CleverRaven/Cataclysm-DDA/pull/60432))
