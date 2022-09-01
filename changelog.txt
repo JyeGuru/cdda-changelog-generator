@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-01-1736 (cb944bf)
 * Remove rad_badge from known bad density (#60651)
 
 Cataclysm-DDA experimental build 2022-09-01-1632 (0df3d2c)
