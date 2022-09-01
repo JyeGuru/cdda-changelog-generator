@@ -1,3 +1,10 @@
+* Remove rad_badge from known bad density ([#60651](https://github.com/CleverRaven/Cataclysm-DDA/pull/60651))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-01-1632 ([0df3d2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-1632))
+
+* Appliance: keep cable connected when dragging appliances around (within max cable length) ([#60586](https://github.com/CleverRaven/Cataclysm-DDA/pull/60586))
 
 ---
 
@@ -168,11 +175,6 @@
 * comestibles: improve veggy salad enjoyability ([#60486](https://github.com/CleverRaven/Cataclysm-DDA/pull/60486))
 * More realistic booby trap ([#60488](https://github.com/CleverRaven/Cataclysm-DDA/pull/60488))
 * Refactor BFS in vehicle::is_connected and ignore carried_flag parts ([#60472](https://github.com/CleverRaven/Cataclysm-DDA/pull/60472))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-28-0352 ([17bd68e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0352))
-
 * Floodlight/Lamp barter value tweaking ([#60506](https://github.com/CleverRaven/Cataclysm-DDA/pull/60506))
 * Fix conversion between commercial fertilizer and ammonium nitrate ([#60438](https://github.com/CleverRaven/Cataclysm-DDA/pull/60438))
 * Fix mi-go guardians moving away from its tower ([#60474](https://github.com/CleverRaven/Cataclysm-DDA/pull/60474))
@@ -182,7 +184,6 @@
 * Fixing plushie shark weight and length ([#60513](https://github.com/CleverRaven/Cataclysm-DDA/pull/60513))
 * Fix molotov blowing up in hand ([#60502](https://github.com/CleverRaven/Cataclysm-DDA/pull/60502))
 * fix: suppress dirty state in releases ([#60509](https://github.com/CleverRaven/Cataclysm-DDA/pull/60509))
-* typo fix in the Kickboxing's description ("Taekwando" -> "Taekwondo") ([#60436](https://github.com/CleverRaven/Cataclysm-DDA/pull/60436))
 * Mantis nymphs ([#60485](https://github.com/CleverRaven/Cataclysm-DDA/pull/60485))
 * Add looks_like to Freezer, Glass Fridge, Combo Oven ([#60500](https://github.com/CleverRaven/Cataclysm-DDA/pull/60500))
 * Water strider nymphs ([#60493](https://github.com/CleverRaven/Cataclysm-DDA/pull/60493))
@@ -203,4 +204,3 @@
 * Update comment-commands.yml ([#60465](https://github.com/CleverRaven/Cataclysm-DDA/pull/60465))
 * fix messenger bag recipe ([#60441](https://github.com/CleverRaven/Cataclysm-DDA/pull/60441))
 * Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
-* Added missing periods to base camp hub 2 courtyard wall descriptions ([#60432](https://github.com/CleverRaven/Cataclysm-DDA/pull/60432))
