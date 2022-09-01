@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-01-1309 ([9eb45a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-1309))
+
 * Add a new profession called Military Veteran ([#60561](https://github.com/CleverRaven/Cataclysm-DDA/pull/60561))
 
 ---

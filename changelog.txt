@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-01-1309 (9eb45a9)
 * Add a new profession called Military Veteran (#60561)
 
 Cataclysm-DDA experimental build 2022-09-01-1155 (7e5f5bf)
