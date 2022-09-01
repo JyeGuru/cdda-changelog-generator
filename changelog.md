@@ -172,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-08-28-0848 ([70905b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0848))
 
 * Gas Sac's shouldn't be 'Spare Parts', and should rot, try two. ([#60448](https://github.com/CleverRaven/Cataclysm-DDA/pull/60448))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-28-0725 ([28a5100](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0725))
-
 * comestibles: improve veggy salad enjoyability ([#60486](https://github.com/CleverRaven/Cataclysm-DDA/pull/60486))
 * More realistic booby trap ([#60488](https://github.com/CleverRaven/Cataclysm-DDA/pull/60488))
 * Refactor BFS in vehicle::is_connected and ignore carried_flag parts ([#60472](https://github.com/CleverRaven/Cataclysm-DDA/pull/60472))
