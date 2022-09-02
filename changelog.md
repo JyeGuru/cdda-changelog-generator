@@ -141,6 +141,12 @@
 #### Cataclysm-DDA experimental build 2022-08-30-0519 ([e45b649](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-0519))
 
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-29-2213 ([b5e0cb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-29-2213))
+
+* Welding kit appliance ([#60449](https://github.com/CleverRaven/Cataclysm-DDA/pull/60449))
 * Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
 
 ---

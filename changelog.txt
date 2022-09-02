@@ -84,6 +84,9 @@ Cataclysm-DDA experimental build 2022-08-30-1010 (07ac712)
 
 Cataclysm-DDA experimental build 2022-08-30-0519 (e45b649)
 * fix: some furniture generates too many nails (#60579)
+
+Cataclysm-DDA experimental build 2022-08-29-2213 (b5e0cb5)
+* Welding kit appliance (#60449)
 * Removed 'about' part from fire lasting description (#60549)
 
 Cataclysm-DDA experimental build 2022-08-29-2031 (4b15e37)
