@@ -1,3 +1,12 @@
+* Crustacean sample changes ([#60627](https://github.com/CleverRaven/Cataclysm-DDA/pull/60627))
+* Nested Recipes - Tires and More ([#60611](https://github.com/CleverRaven/Cataclysm-DDA/pull/60611))
+* Fix faction epilogues displaying incorrectly ([#60673](https://github.com/CleverRaven/Cataclysm-DDA/pull/60673))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-02-1756 ([18945cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-1756))
+
+* Content "Integrating the zastava aks into the spawn pool" ([#60532](https://github.com/CleverRaven/Cataclysm-DDA/pull/60532))
 
 ---
 
@@ -155,11 +164,6 @@
 
 * Updated sandals to allow Toe Talons ([#60515](https://github.com/CleverRaven/Cataclysm-DDA/pull/60515))
 * Fixes for abandoning camps ([#60521](https://github.com/CleverRaven/Cataclysm-DDA/pull/60521))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-29-0311 ([87a598f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-29-0311))
-
 * fix cables ([#60516](https://github.com/CleverRaven/Cataclysm-DDA/pull/60516))
 * Fixed wrong unconditional exit after first iteration when getting water from puddles and toilet ([#60517](https://github.com/CleverRaven/Cataclysm-DDA/pull/60517))
 * Sheltered Militia starts with full Garand clip ([#60524](https://github.com/CleverRaven/Cataclysm-DDA/pull/60524))
@@ -195,9 +199,5 @@
 * [Xedra Evolved] Fix eater spells deal damage to player ([#60490](https://github.com/CleverRaven/Cataclysm-DDA/pull/60490))
 * steel and kevlar ablative plates are sturdy ([#60466](https://github.com/CleverRaven/Cataclysm-DDA/pull/60466))
 * Routine i18n updates on 27 August 2022 ([#60475](https://github.com/CleverRaven/Cataclysm-DDA/pull/60475))
-* Don't serialize vehicles in un/racking activities ([#60462](https://github.com/CleverRaven/Cataclysm-DDA/pull/60462))
-* Prevent vehicles with only PROTRUSION left ([#60458](https://github.com/CleverRaven/Cataclysm-DDA/pull/60458))
-* Prevent unmounting carried and carrying parts ([#60460](https://github.com/CleverRaven/Cataclysm-DDA/pull/60460))
 * Give the oven appliance its oven quality back ([#60464](https://github.com/CleverRaven/Cataclysm-DDA/pull/60464))
 * Update comment-commands.yml ([#60465](https://github.com/CleverRaven/Cataclysm-DDA/pull/60465))
-* Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
