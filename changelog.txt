@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-02-0537 (75bf50e)
+* Added golf ball to dodge practice (#60642)
+
 Cataclysm-DDA experimental build 2022-09-01-1736 (cb944bf)
 * Remove rad_badge from known bad density (#60651)
 
@@ -103,8 +106,6 @@ Cataclysm-DDA experimental build 2022-08-29-0311 (87a598f)
 * Fix duplication of folding vehicles and tent in iuse  (#60545)
 * Crayfish cleanup & breeding (#60522)
 * [DinoMod] Sarahsaurus, Haplocanthosaurus, Hesperosaurus, Gryposaurus (#60473)
-
-Cataclysm-DDA experimental build 2022-08-28-0848 (70905b5)
 * Gas Sac's shouldn't be 'Spare Parts', and should rot, try two. (#60448)
 * comestibles: improve veggy salad enjoyability (#60486)
 * More realistic booby trap (#60488)
@@ -135,5 +136,4 @@ Cataclysm-DDA experimental build 2022-08-28-0848 (70905b5)
 * Prevent unmounting carried and carrying parts (#60460)
 * Give the oven appliance its oven quality back (#60464)
 * Update comment-commands.yml (#60465)
-* fix messenger bag recipe (#60441)
 * Fix an error with recent livestock scale (#60450)

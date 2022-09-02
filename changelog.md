@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-02-0537 ([75bf50e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-0537))
+
+* Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-01-1736 ([cb944bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-1736))
 
 * Remove rad_badge from known bad density ([#60651](https://github.com/CleverRaven/Cataclysm-DDA/pull/60651))
@@ -166,11 +172,6 @@
 * Fix duplication of folding vehicles and tent in iuse  ([#60545](https://github.com/CleverRaven/Cataclysm-DDA/pull/60545))
 * Crayfish cleanup & breeding ([#60522](https://github.com/CleverRaven/Cataclysm-DDA/pull/60522))
 * [DinoMod] Sarahsaurus, Haplocanthosaurus, Hesperosaurus, Gryposaurus ([#60473](https://github.com/CleverRaven/Cataclysm-DDA/pull/60473))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-28-0848 ([70905b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-28-0848))
-
 * Gas Sac's shouldn't be 'Spare Parts', and should rot, try two. ([#60448](https://github.com/CleverRaven/Cataclysm-DDA/pull/60448))
 * comestibles: improve veggy salad enjoyability ([#60486](https://github.com/CleverRaven/Cataclysm-DDA/pull/60486))
 * More realistic booby trap ([#60488](https://github.com/CleverRaven/Cataclysm-DDA/pull/60488))
@@ -201,5 +202,4 @@
 * Prevent unmounting carried and carrying parts ([#60460](https://github.com/CleverRaven/Cataclysm-DDA/pull/60460))
 * Give the oven appliance its oven quality back ([#60464](https://github.com/CleverRaven/Cataclysm-DDA/pull/60464))
 * Update comment-commands.yml ([#60465](https://github.com/CleverRaven/Cataclysm-DDA/pull/60465))
-* fix messenger bag recipe ([#60441](https://github.com/CleverRaven/Cataclysm-DDA/pull/60441))
 * Fix an error with recent livestock scale ([#60450](https://github.com/CleverRaven/Cataclysm-DDA/pull/60450))
