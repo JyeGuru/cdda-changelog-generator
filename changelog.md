@@ -197,7 +197,6 @@
 * steel and kevlar ablative plates are sturdy ([#60466](https://github.com/CleverRaven/Cataclysm-DDA/pull/60466))
 * Routine i18n updates on 27 August 2022 ([#60475](https://github.com/CleverRaven/Cataclysm-DDA/pull/60475))
 * Don't serialize vehicles in un/racking activities ([#60462](https://github.com/CleverRaven/Cataclysm-DDA/pull/60462))
-* Update hypotetical passive solar panel bionic to use irradiance ([#60445](https://github.com/CleverRaven/Cataclysm-DDA/pull/60445))
 * Prevent vehicles with only PROTRUSION left ([#60458](https://github.com/CleverRaven/Cataclysm-DDA/pull/60458))
 * Prevent unmounting carried and carrying parts ([#60460](https://github.com/CleverRaven/Cataclysm-DDA/pull/60460))
 * Give the oven appliance its oven quality back ([#60464](https://github.com/CleverRaven/Cataclysm-DDA/pull/60464))
