@@ -176,7 +176,6 @@
 * More realistic booby trap ([#60488](https://github.com/CleverRaven/Cataclysm-DDA/pull/60488))
 * Refactor BFS in vehicle::is_connected and ignore carried_flag parts ([#60472](https://github.com/CleverRaven/Cataclysm-DDA/pull/60472))
 * Floodlight/Lamp barter value tweaking ([#60506](https://github.com/CleverRaven/Cataclysm-DDA/pull/60506))
-* Fix conversion between commercial fertilizer and ammonium nitrate ([#60438](https://github.com/CleverRaven/Cataclysm-DDA/pull/60438))
 * Fix mi-go guardians moving away from its tower ([#60474](https://github.com/CleverRaven/Cataclysm-DDA/pull/60474))
 * Allow wearing power and integrated armor ([#60503](https://github.com/CleverRaven/Cataclysm-DDA/pull/60503))
 * Fix racking silently failing ([#60507](https://github.com/CleverRaven/Cataclysm-DDA/pull/60507))
