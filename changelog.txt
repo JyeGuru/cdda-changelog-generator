@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-02-2035 (c968cf1)
+* add a door to the internet cafe's bathroom (#60688)
+
 Cataclysm-DDA experimental build 2022-09-02-1857 (e15cdd0)
 * Crustacean sample changes (#60627)
 * Nested Recipes - Tires and More (#60611)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2022-08-30-0519 (e45b649)
 
 Cataclysm-DDA experimental build 2022-08-29-2031 (4b15e37)
 * power_draw in energy (#60484)
-
-Cataclysm-DDA experimental build 2022-08-29-0612 (0cf3d9f)
 * Updated sandals to allow Toe Talons (#60515)
 * Fixes for abandoning camps (#60521)
 * fix cables (#60516)
@@ -135,5 +136,4 @@ Cataclysm-DDA experimental build 2022-08-29-0612 (0cf3d9f)
 * [Xedra Evolved] Fix eater spells deal damage to player (#60490)
 * steel and kevlar ablative plates are sturdy (#60466)
 * Routine i18n updates on 27 August 2022 (#60475)
-* Give the oven appliance its oven quality back (#60464)
 * Update comment-commands.yml (#60465)

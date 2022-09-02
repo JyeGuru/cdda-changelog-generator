@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-02-2035 ([c968cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-2035))
+
+* add a door to the internet cafe's bathroom ([#60688](https://github.com/CleverRaven/Cataclysm-DDA/pull/60688))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-02-1857 ([e15cdd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-1857))
 
 * Crustacean sample changes ([#60627](https://github.com/CleverRaven/Cataclysm-DDA/pull/60627))
@@ -162,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-08-29-2031 ([4b15e37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-29-2031))
 
 * power_draw in energy ([#60484](https://github.com/CleverRaven/Cataclysm-DDA/pull/60484))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-29-0612 ([0cf3d9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-29-0612))
-
 * Updated sandals to allow Toe Talons ([#60515](https://github.com/CleverRaven/Cataclysm-DDA/pull/60515))
 * Fixes for abandoning camps ([#60521](https://github.com/CleverRaven/Cataclysm-DDA/pull/60521))
 * fix cables ([#60516](https://github.com/CleverRaven/Cataclysm-DDA/pull/60516))
@@ -204,5 +205,4 @@
 * [Xedra Evolved] Fix eater spells deal damage to player ([#60490](https://github.com/CleverRaven/Cataclysm-DDA/pull/60490))
 * steel and kevlar ablative plates are sturdy ([#60466](https://github.com/CleverRaven/Cataclysm-DDA/pull/60466))
 * Routine i18n updates on 27 August 2022 ([#60475](https://github.com/CleverRaven/Cataclysm-DDA/pull/60475))
-* Give the oven appliance its oven quality back ([#60464](https://github.com/CleverRaven/Cataclysm-DDA/pull/60464))
 * Update comment-commands.yml ([#60465](https://github.com/CleverRaven/Cataclysm-DDA/pull/60465))
