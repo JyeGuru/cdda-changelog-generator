@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-02-1027 ([02a1199](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-1027))
+
+* B&T APC9 PRO K bug fixes  ([#60668](https://github.com/CleverRaven/Cataclysm-DDA/pull/60668))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-02-0537 ([75bf50e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-0537))
 
 * Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
@@ -172,7 +178,6 @@
 * Fix duplication of folding vehicles and tent in iuse  ([#60545](https://github.com/CleverRaven/Cataclysm-DDA/pull/60545))
 * Crayfish cleanup & breeding ([#60522](https://github.com/CleverRaven/Cataclysm-DDA/pull/60522))
 * [DinoMod] Sarahsaurus, Haplocanthosaurus, Hesperosaurus, Gryposaurus ([#60473](https://github.com/CleverRaven/Cataclysm-DDA/pull/60473))
-* Gas Sac's shouldn't be 'Spare Parts', and should rot, try two. ([#60448](https://github.com/CleverRaven/Cataclysm-DDA/pull/60448))
 * comestibles: improve veggy salad enjoyability ([#60486](https://github.com/CleverRaven/Cataclysm-DDA/pull/60486))
 * More realistic booby trap ([#60488](https://github.com/CleverRaven/Cataclysm-DDA/pull/60488))
 * Refactor BFS in vehicle::is_connected and ignore carried_flag parts ([#60472](https://github.com/CleverRaven/Cataclysm-DDA/pull/60472))
