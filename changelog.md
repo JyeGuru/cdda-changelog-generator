@@ -1,3 +1,11 @@
+* Helicopter bugfixes ([#60705](https://github.com/CleverRaven/Cataclysm-DDA/pull/60705))
+* Item Description Cleanup Project - Containers, Corpses, and Generic ([#60697](https://github.com/CleverRaven/Cataclysm-DDA/pull/60697))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-03-0448 ([ad5bb2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-0448))
+
+* TropiCata 0.8: amphibian updates ([#60641](https://github.com/CleverRaven/Cataclysm-DDA/pull/60641))
 * Fix setting sub-tile retracted offset in multi-tiles ([#60648](https://github.com/CleverRaven/Cataclysm-DDA/pull/60648))
 * Disable installing parts on racked vehicles ([#60657](https://github.com/CleverRaven/Cataclysm-DDA/pull/60657))
 * zones: consider only_item when checking custom zones ([#60656](https://github.com/CleverRaven/Cataclysm-DDA/pull/60656))
@@ -172,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-08-30-1010 ([07ac712](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1010))
 
 * Sound: fix ambient weather switching ([#60547](https://github.com/CleverRaven/Cataclysm-DDA/pull/60547))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-30-0519 ([e45b649](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-0519))
-
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
 * Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
 * Updated sandals to allow Toe Talons ([#60515](https://github.com/CleverRaven/Cataclysm-DDA/pull/60515))
@@ -202,6 +205,3 @@
 * Add looks_like to Freezer, Glass Fridge, Combo Oven ([#60500](https://github.com/CleverRaven/Cataclysm-DDA/pull/60500))
 * Water strider nymphs ([#60493](https://github.com/CleverRaven/Cataclysm-DDA/pull/60493))
 * Demihuman Weakpoints ([#60499](https://github.com/CleverRaven/Cataclysm-DDA/pull/60499))
-* shark plushie addition ([#60492](https://github.com/CleverRaven/Cataclysm-DDA/pull/60492))
-* Remove stepladder from player possession after deploying it ([#60489](https://github.com/CleverRaven/Cataclysm-DDA/pull/60489))
-* [Xedra Evolved] Fix eater spells deal damage to player ([#60490](https://github.com/CleverRaven/Cataclysm-DDA/pull/60490))
