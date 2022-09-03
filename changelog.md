@@ -203,4 +203,3 @@
 * Fix molotov blowing up in hand ([#60502](https://github.com/CleverRaven/Cataclysm-DDA/pull/60502))
 * fix: suppress dirty state in releases ([#60509](https://github.com/CleverRaven/Cataclysm-DDA/pull/60509))
 * Add looks_like to Freezer, Glass Fridge, Combo Oven ([#60500](https://github.com/CleverRaven/Cataclysm-DDA/pull/60500))
-* Demihuman Weakpoints ([#60499](https://github.com/CleverRaven/Cataclysm-DDA/pull/60499))
