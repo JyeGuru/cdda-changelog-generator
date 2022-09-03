@@ -1,3 +1,11 @@
+* Rename survivor telescope, make them less common in favor of binoculars. ([#60729](https://github.com/CleverRaven/Cataclysm-DDA/pull/60729))
+* Nerf medical gloves ([#60727](https://github.com/CleverRaven/Cataclysm-DDA/pull/60727))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-03-2253 ([5f9f784](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-2253))
+
+* Leaping legs mutation will now delete the spell when lost (now it really works) ([#60719](https://github.com/CleverRaven/Cataclysm-DDA/pull/60719))
 
 ---
 
@@ -169,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-08-31-0701 ([be8d4ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-0701))
 
 * Prevent critical NPCs dying to back bay zombies ([#60595](https://github.com/CleverRaven/Cataclysm-DDA/pull/60595))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-31-0145 ([e4119e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-0145))
-
 * Remove underline typo in `recipe_modular_workshop_rammed_earth.json` ([#60591](https://github.com/CleverRaven/Cataclysm-DDA/pull/60591))
 * Fixed off-by-one mapgen offset in mine shaft ([#60593](https://github.com/CleverRaven/Cataclysm-DDA/pull/60593))
 * After unloading battery from an active RC car, convert it to inactive version ([#60598](https://github.com/CleverRaven/Cataclysm-DDA/pull/60598))
@@ -188,10 +191,7 @@
 * Sound: fix ambient weather switching ([#60547](https://github.com/CleverRaven/Cataclysm-DDA/pull/60547))
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
 * Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
-* Updated sandals to allow Toe Talons ([#60515](https://github.com/CleverRaven/Cataclysm-DDA/pull/60515))
 * Fixes for abandoning camps ([#60521](https://github.com/CleverRaven/Cataclysm-DDA/pull/60521))
-* fix cables ([#60516](https://github.com/CleverRaven/Cataclysm-DDA/pull/60516))
-* Fixed wrong unconditional exit after first iteration when getting water from puddles and toilet ([#60517](https://github.com/CleverRaven/Cataclysm-DDA/pull/60517))
 * Sheltered Militia starts with full Garand clip ([#60524](https://github.com/CleverRaven/Cataclysm-DDA/pull/60524))
 * Use the correct vehicle positions to avoid failing lookups ([#60527](https://github.com/CleverRaven/Cataclysm-DDA/pull/60527))
 * fix: PR template comments triggers bugfix label ([#60529](https://github.com/CleverRaven/Cataclysm-DDA/pull/60529))
