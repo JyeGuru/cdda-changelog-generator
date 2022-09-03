@@ -162,11 +162,6 @@
 
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
 * Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-29-2031 ([4b15e37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-29-2031))
-
 * power_draw in energy ([#60484](https://github.com/CleverRaven/Cataclysm-DDA/pull/60484))
 * Updated sandals to allow Toe Talons ([#60515](https://github.com/CleverRaven/Cataclysm-DDA/pull/60515))
 * Fixes for abandoning camps ([#60521](https://github.com/CleverRaven/Cataclysm-DDA/pull/60521))
