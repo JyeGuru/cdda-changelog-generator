@@ -109,8 +109,6 @@ Cataclysm-DDA experimental build 2022-08-31-0031 (11c8e5d)
 
 Cataclysm-DDA experimental build 2022-08-30-1852 (9bd27c3)
 * Allow crossbows to be used in practice recipes (#60560)
-
-Cataclysm-DDA experimental build 2022-08-30-1725 (f8dea2a)
 * fix cables (#60596)
 * Ammo effects documentation update (#60534)
 * Fix: Make graph color in health and bandaging menu consistent with sidebar (#60572)

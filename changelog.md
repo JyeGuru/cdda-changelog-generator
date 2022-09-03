@@ -178,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-08-30-1852 ([9bd27c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1852))
 
 * Allow crossbows to be used in practice recipes ([#60560](https://github.com/CleverRaven/Cataclysm-DDA/pull/60560))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-30-1725 ([f8dea2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1725))
-
 * fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
 * Ammo effects documentation update ([#60534](https://github.com/CleverRaven/Cataclysm-DDA/pull/60534))
 * Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
