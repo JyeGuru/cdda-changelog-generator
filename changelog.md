@@ -1,3 +1,4 @@
+* Routine i18n updates on 03 September 2022 ([#60713](https://github.com/CleverRaven/Cataclysm-DDA/pull/60713))
 * Helicopter bugfixes ([#60705](https://github.com/CleverRaven/Cataclysm-DDA/pull/60705))
 * Item Description Cleanup Project - Containers, Corpses, and Generic ([#60697](https://github.com/CleverRaven/Cataclysm-DDA/pull/60697))
 
@@ -203,5 +204,4 @@
 * Fix molotov blowing up in hand ([#60502](https://github.com/CleverRaven/Cataclysm-DDA/pull/60502))
 * fix: suppress dirty state in releases ([#60509](https://github.com/CleverRaven/Cataclysm-DDA/pull/60509))
 * Add looks_like to Freezer, Glass Fridge, Combo Oven ([#60500](https://github.com/CleverRaven/Cataclysm-DDA/pull/60500))
-* Water strider nymphs ([#60493](https://github.com/CleverRaven/Cataclysm-DDA/pull/60493))
 * Demihuman Weakpoints ([#60499](https://github.com/CleverRaven/Cataclysm-DDA/pull/60499))

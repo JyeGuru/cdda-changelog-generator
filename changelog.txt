@@ -1,3 +1,4 @@
+* Routine i18n updates on 03 September 2022 (#60713)
 * Helicopter bugfixes (#60705)
 * Item Description Cleanup Project - Containers, Corpses, and Generic (#60697)
 
@@ -134,5 +135,4 @@ Cataclysm-DDA experimental build 2022-08-30-1010 (07ac712)
 * Fix molotov blowing up in hand (#60502)
 * fix: suppress dirty state in releases (#60509)
 * Add looks_like to Freezer, Glass Fridge, Combo Oven (#60500)
-* Water strider nymphs (#60493)
 * Demihuman Weakpoints (#60499)
