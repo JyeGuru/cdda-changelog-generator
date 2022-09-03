@@ -200,4 +200,3 @@
 * [Xedra Evolved] Fix eater spells deal damage to player ([#60490](https://github.com/CleverRaven/Cataclysm-DDA/pull/60490))
 * steel and kevlar ablative plates are sturdy ([#60466](https://github.com/CleverRaven/Cataclysm-DDA/pull/60466))
 * Routine i18n updates on 27 August 2022 ([#60475](https://github.com/CleverRaven/Cataclysm-DDA/pull/60475))
-* Update comment-commands.yml ([#60465](https://github.com/CleverRaven/Cataclysm-DDA/pull/60465))
