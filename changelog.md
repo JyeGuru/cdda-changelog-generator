@@ -1,3 +1,10 @@
+* Turning off spell explosions where they not intended ([#60601](https://github.com/CleverRaven/Cataclysm-DDA/pull/60601))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-03-1542 ([535b232](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-1542))
+
+* Add missing <array> header in translation_plural_evaluator.h ([#60715](https://github.com/CleverRaven/Cataclysm-DDA/pull/60715))
 * M2 carbine fixes ([#60694](https://github.com/CleverRaven/Cataclysm-DDA/pull/60694))
 * Uzi fixes ([#60696](https://github.com/CleverRaven/Cataclysm-DDA/pull/60696))
 * Luty 9mm SMG fixes ([#60699](https://github.com/CleverRaven/Cataclysm-DDA/pull/60699))
@@ -172,11 +179,6 @@
 
 * Remove the the ([#60600](https://github.com/CleverRaven/Cataclysm-DDA/pull/60600))
 * Allow `compose.py` to follow symlinks in tilesets ([#60606](https://github.com/CleverRaven/Cataclysm-DDA/pull/60606))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-30-1852 ([9bd27c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1852))
-
 * Allow crossbows to be used in practice recipes ([#60560](https://github.com/CleverRaven/Cataclysm-DDA/pull/60560))
 * fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
 * Ammo effects documentation update ([#60534](https://github.com/CleverRaven/Cataclysm-DDA/pull/60534))
@@ -199,7 +201,5 @@
 * Routine tileset updates on 28 August 2022 ([#60543](https://github.com/CleverRaven/Cataclysm-DDA/pull/60543))
 * Fix duplication of folding vehicles and tent in iuse  ([#60545](https://github.com/CleverRaven/Cataclysm-DDA/pull/60545))
 * Crayfish cleanup & breeding ([#60522](https://github.com/CleverRaven/Cataclysm-DDA/pull/60522))
-* Fix racking silently failing ([#60507](https://github.com/CleverRaven/Cataclysm-DDA/pull/60507))
 * Update pre-apoc price of oatmeal ([#60511](https://github.com/CleverRaven/Cataclysm-DDA/pull/60511))
 * Fixing plushie shark weight and length ([#60513](https://github.com/CleverRaven/Cataclysm-DDA/pull/60513))
-* fix: suppress dirty state in releases ([#60509](https://github.com/CleverRaven/Cataclysm-DDA/pull/60509))
