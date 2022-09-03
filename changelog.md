@@ -201,4 +201,3 @@
 * Routine tileset updates on 28 August 2022 ([#60543](https://github.com/CleverRaven/Cataclysm-DDA/pull/60543))
 * Fix duplication of folding vehicles and tent in iuse  ([#60545](https://github.com/CleverRaven/Cataclysm-DDA/pull/60545))
 * Crayfish cleanup & breeding ([#60522](https://github.com/CleverRaven/Cataclysm-DDA/pull/60522))
-* Fixing plushie shark weight and length ([#60513](https://github.com/CleverRaven/Cataclysm-DDA/pull/60513))
