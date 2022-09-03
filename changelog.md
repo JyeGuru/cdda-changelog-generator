@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-03-1643 ([e853744](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-1643))
+
 * Turning off spell explosions where they not intended ([#60601](https://github.com/CleverRaven/Cataclysm-DDA/pull/60601))
 
 ---
@@ -172,11 +177,6 @@
 * Remove underline typo in `recipe_modular_workshop_rammed_earth.json` ([#60591](https://github.com/CleverRaven/Cataclysm-DDA/pull/60591))
 * Fixed off-by-one mapgen offset in mine shaft ([#60593](https://github.com/CleverRaven/Cataclysm-DDA/pull/60593))
 * After unloading battery from an active RC car, convert it to inactive version ([#60598](https://github.com/CleverRaven/Cataclysm-DDA/pull/60598))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-31-0031 ([11c8e5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-0031))
-
 * Remove the the ([#60600](https://github.com/CleverRaven/Cataclysm-DDA/pull/60600))
 * Allow `compose.py` to follow symlinks in tilesets ([#60606](https://github.com/CleverRaven/Cataclysm-DDA/pull/60606))
 * Allow crossbows to be used in practice recipes ([#60560](https://github.com/CleverRaven/Cataclysm-DDA/pull/60560))
