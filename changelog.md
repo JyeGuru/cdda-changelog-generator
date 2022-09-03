@@ -175,7 +175,6 @@
 #### Cataclysm-DDA experimental build 2022-08-30-1725 ([f8dea2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1725))
 
 * fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
-* Forbid sawing non-existent pistol stocks ([#60497](https://github.com/CleverRaven/Cataclysm-DDA/pull/60497))
 * Ammo effects documentation update ([#60534](https://github.com/CleverRaven/Cataclysm-DDA/pull/60534))
 * Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
 * Cane toad no more ([#60554](https://github.com/CleverRaven/Cataclysm-DDA/pull/60554))

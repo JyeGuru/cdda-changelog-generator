@@ -106,7 +106,6 @@ Cataclysm-DDA experimental build 2022-08-30-1852 (9bd27c3)
 
 Cataclysm-DDA experimental build 2022-08-30-1725 (f8dea2a)
 * fix cables (#60596)
-* Forbid sawing non-existent pistol stocks (#60497)
 * Ammo effects documentation update (#60534)
 * Fix: Make graph color in health and bandaging menu consistent with sidebar (#60572)
 * Cane toad no more (#60554)
