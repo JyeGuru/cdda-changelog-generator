@@ -165,11 +165,6 @@
 * Remove underline typo in `recipe_modular_workshop_rammed_earth.json` ([#60591](https://github.com/CleverRaven/Cataclysm-DDA/pull/60591))
 * Fixed off-by-one mapgen offset in mine shaft ([#60593](https://github.com/CleverRaven/Cataclysm-DDA/pull/60593))
 * After unloading battery from an active RC car, convert it to inactive version ([#60598](https://github.com/CleverRaven/Cataclysm-DDA/pull/60598))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-31-0031 ([11c8e5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-0031))
-
 * Remove the the ([#60600](https://github.com/CleverRaven/Cataclysm-DDA/pull/60600))
 * Allow `compose.py` to follow symlinks in tilesets ([#60606](https://github.com/CleverRaven/Cataclysm-DDA/pull/60606))
 
@@ -178,6 +173,11 @@
 #### Cataclysm-DDA experimental build 2022-08-30-1852 ([9bd27c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1852))
 
 * Allow crossbows to be used in practice recipes ([#60560](https://github.com/CleverRaven/Cataclysm-DDA/pull/60560))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-08-30-1725 ([f8dea2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-30-1725))
+
 * fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
 * Ammo effects documentation update ([#60534](https://github.com/CleverRaven/Cataclysm-DDA/pull/60534))
 * Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
