@@ -1,3 +1,11 @@
+* Uzi fixes ([#60696](https://github.com/CleverRaven/Cataclysm-DDA/pull/60696))
+* Luty 9mm SMG fixes ([#60699](https://github.com/CleverRaven/Cataclysm-DDA/pull/60699))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-03-1025 ([2d59379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-1025))
+
+* Fix: use absolute map coords when connecting vehicle parts ([#60714](https://github.com/CleverRaven/Cataclysm-DDA/pull/60714))
 
 ---
 
@@ -196,10 +204,7 @@
 * Fix duplication of folding vehicles and tent in iuse  ([#60545](https://github.com/CleverRaven/Cataclysm-DDA/pull/60545))
 * Crayfish cleanup & breeding ([#60522](https://github.com/CleverRaven/Cataclysm-DDA/pull/60522))
 * Floodlight/Lamp barter value tweaking ([#60506](https://github.com/CleverRaven/Cataclysm-DDA/pull/60506))
-* Allow wearing power and integrated armor ([#60503](https://github.com/CleverRaven/Cataclysm-DDA/pull/60503))
 * Fix racking silently failing ([#60507](https://github.com/CleverRaven/Cataclysm-DDA/pull/60507))
 * Update pre-apoc price of oatmeal ([#60511](https://github.com/CleverRaven/Cataclysm-DDA/pull/60511))
 * Fixing plushie shark weight and length ([#60513](https://github.com/CleverRaven/Cataclysm-DDA/pull/60513))
-* Fix molotov blowing up in hand ([#60502](https://github.com/CleverRaven/Cataclysm-DDA/pull/60502))
 * fix: suppress dirty state in releases ([#60509](https://github.com/CleverRaven/Cataclysm-DDA/pull/60509))
-* Add looks_like to Freezer, Glass Fridge, Combo Oven ([#60500](https://github.com/CleverRaven/Cataclysm-DDA/pull/60500))
