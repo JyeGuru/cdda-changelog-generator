@@ -206,7 +206,6 @@
 * Sound: fix ambient weather switching ([#60547](https://github.com/CleverRaven/Cataclysm-DDA/pull/60547))
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
 * Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
-* Activity interruption on very high or very low temperature ([#60530](https://github.com/CleverRaven/Cataclysm-DDA/pull/60530))
 * Fix ported tropicata mobs ([#60537](https://github.com/CleverRaven/Cataclysm-DDA/pull/60537))
 * Fixing Plushie once more ([#60538](https://github.com/CleverRaven/Cataclysm-DDA/pull/60538))
 * Routine tileset updates on 28 August 2022 ([#60543](https://github.com/CleverRaven/Cataclysm-DDA/pull/60543))
