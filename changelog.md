@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-04-0424 ([f42367d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0424))
+
+* Add Old Veteran profession ([#60692](https://github.com/CleverRaven/Cataclysm-DDA/pull/60692))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-04-0312 ([81ec7fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0312))
+
+* fix: make offset sight rail spawn ([#60738](https://github.com/CleverRaven/Cataclysm-DDA/pull/60738))
+* Fixes copper not spawning for bullet crafting ([#60679](https://github.com/CleverRaven/Cataclysm-DDA/pull/60679))
+* Use some nonthrowing int parsing in condition.cpp ([#60731](https://github.com/CleverRaven/Cataclysm-DDA/pull/60731))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-04-0208 ([fce16d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0208))
+
+* UI Upgrades for Nests ([#60683](https://github.com/CleverRaven/Cataclysm-DDA/pull/60683))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-04-0003 ([8e88187](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0003))
 
 * Rename survivor telescope, make them less common in favor of binoculars. ([#60729](https://github.com/CleverRaven/Cataclysm-DDA/pull/60729))
@@ -164,13 +184,7 @@
 #### Cataclysm-DDA experimental build 2022-08-31-2326 ([d2ddb37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-2326))
 
 * CrazyCataclysm: Rocket Cans and POWERTHIRST ([#60571](https://github.com/CleverRaven/Cataclysm-DDA/pull/60571))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-31-1402 ([e6abe25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-1402))
-
 * [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
-* costumes: add shork suit ([#60518](https://github.com/CleverRaven/Cataclysm-DDA/pull/60518))
 * Sample changes for a few monsters ([#60531](https://github.com/CleverRaven/Cataclysm-DDA/pull/60531))
 * Adds several wire crafting recipes using wire draw machine ([#60535](https://github.com/CleverRaven/Cataclysm-DDA/pull/60535))
 * Adding freezer spawns ([#60555](https://github.com/CleverRaven/Cataclysm-DDA/pull/60555))
@@ -191,13 +205,9 @@
 * Sound: fix ambient weather switching ([#60547](https://github.com/CleverRaven/Cataclysm-DDA/pull/60547))
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
 * Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
-* Fixes for abandoning camps ([#60521](https://github.com/CleverRaven/Cataclysm-DDA/pull/60521))
-* Sheltered Militia starts with full Garand clip ([#60524](https://github.com/CleverRaven/Cataclysm-DDA/pull/60524))
-* Use the correct vehicle positions to avoid failing lookups ([#60527](https://github.com/CleverRaven/Cataclysm-DDA/pull/60527))
 * fix: PR template comments triggers bugfix label ([#60529](https://github.com/CleverRaven/Cataclysm-DDA/pull/60529))
 * Activity interruption on very high or very low temperature ([#60530](https://github.com/CleverRaven/Cataclysm-DDA/pull/60530))
 * Fix ported tropicata mobs ([#60537](https://github.com/CleverRaven/Cataclysm-DDA/pull/60537))
 * Fixing Plushie once more ([#60538](https://github.com/CleverRaven/Cataclysm-DDA/pull/60538))
 * Routine tileset updates on 28 August 2022 ([#60543](https://github.com/CleverRaven/Cataclysm-DDA/pull/60543))
 * Fix duplication of folding vehicles and tent in iuse  ([#60545](https://github.com/CleverRaven/Cataclysm-DDA/pull/60545))
-* Crayfish cleanup & breeding ([#60522](https://github.com/CleverRaven/Cataclysm-DDA/pull/60522))
