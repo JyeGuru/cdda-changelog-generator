@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-04-0601 ([4f45027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0601))
+
+* Make wooden wheels attachable without a wrench ([#60675](https://github.com/CleverRaven/Cataclysm-DDA/pull/60675))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-04-0424 ([f42367d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0424))
 
 * Add Old Veteran profession ([#60692](https://github.com/CleverRaven/Cataclysm-DDA/pull/60692))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-09-01-0251 ([2aaf897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-0251))
 
 * Vertical graph/bar sidebar widgets ([#60604](https://github.com/CleverRaven/Cataclysm-DDA/pull/60604))
-
----
-
-#### Cataclysm-DDA experimental build 2022-08-31-2326 ([d2ddb37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-08-31-2326))
-
 * CrazyCataclysm: Rocket Cans and POWERTHIRST ([#60571](https://github.com/CleverRaven/Cataclysm-DDA/pull/60571))
 * [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
 * Sample changes for a few monsters ([#60531](https://github.com/CleverRaven/Cataclysm-DDA/pull/60531))
@@ -205,7 +206,6 @@
 * Sound: fix ambient weather switching ([#60547](https://github.com/CleverRaven/Cataclysm-DDA/pull/60547))
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
 * Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
-* fix: PR template comments triggers bugfix label ([#60529](https://github.com/CleverRaven/Cataclysm-DDA/pull/60529))
 * Activity interruption on very high or very low temperature ([#60530](https://github.com/CleverRaven/Cataclysm-DDA/pull/60530))
 * Fix ported tropicata mobs ([#60537](https://github.com/CleverRaven/Cataclysm-DDA/pull/60537))
 * Fixing Plushie once more ([#60538](https://github.com/CleverRaven/Cataclysm-DDA/pull/60538))
