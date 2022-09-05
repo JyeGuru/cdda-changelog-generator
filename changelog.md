@@ -1,3 +1,16 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-05-1718 ([324793f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1718))
+
+* [Magiclysm] Move earth exist, but do not spawn naturally ([#60746](https://github.com/CleverRaven/Cataclysm-DDA/pull/60746))
+* Better version.h generator script for MSVC builds ([#60754](https://github.com/CleverRaven/Cataclysm-DDA/pull/60754))
+* Item snails mutate into Big Snails ([#60745](https://github.com/CleverRaven/Cataclysm-DDA/pull/60745))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-05-1611 ([c0d87ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1611))
+
 * Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
 
 ---
@@ -159,17 +172,7 @@
 #### Cataclysm-DDA experimental build 2022-09-02-0537 ([75bf50e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-0537))
 
 * Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-01-1736 ([cb944bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-1736))
-
 * Remove rad_badge from known bad density ([#60651](https://github.com/CleverRaven/Cataclysm-DDA/pull/60651))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-01-1632 ([0df3d2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-1632))
-
 * Appliance: keep cable connected when dragging appliances around (within max cable length) ([#60586](https://github.com/CleverRaven/Cataclysm-DDA/pull/60586))
 * Add a new profession called Military Veteran ([#60561](https://github.com/CleverRaven/Cataclysm-DDA/pull/60561))
 * Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
@@ -192,7 +195,6 @@
 * Vertical graph/bar sidebar widgets ([#60604](https://github.com/CleverRaven/Cataclysm-DDA/pull/60604))
 * CrazyCataclysm: Rocket Cans and POWERTHIRST ([#60571](https://github.com/CleverRaven/Cataclysm-DDA/pull/60571))
 * [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
-* Adding freezer spawns ([#60555](https://github.com/CleverRaven/Cataclysm-DDA/pull/60555))
 * fix fabric bundle weight and volume ([#60567](https://github.com/CleverRaven/Cataclysm-DDA/pull/60567))
 * [DinoMod] three ceratopsians ([#60575](https://github.com/CleverRaven/Cataclysm-DDA/pull/60575))
 * Prevent critical NPCs dying to back bay zombies ([#60595](https://github.com/CleverRaven/Cataclysm-DDA/pull/60595))
@@ -201,8 +203,6 @@
 * After unloading battery from an active RC car, convert it to inactive version ([#60598](https://github.com/CleverRaven/Cataclysm-DDA/pull/60598))
 * Remove the the ([#60600](https://github.com/CleverRaven/Cataclysm-DDA/pull/60600))
 * Allow `compose.py` to follow symlinks in tilesets ([#60606](https://github.com/CleverRaven/Cataclysm-DDA/pull/60606))
-* Allow crossbows to be used in practice recipes ([#60560](https://github.com/CleverRaven/Cataclysm-DDA/pull/60560))
 * fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
 * Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
-* Cane toad no more ([#60554](https://github.com/CleverRaven/Cataclysm-DDA/pull/60554))
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
