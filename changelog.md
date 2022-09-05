@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-05-1143 ([8873158](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1143))
+
 * [CR] Create Wall wiring ([#60671](https://github.com/CleverRaven/Cataclysm-DDA/pull/60671))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
 * More sizes of canning recipes, for all tin can types ([#60632](https://github.com/CleverRaven/Cataclysm-DDA/pull/60632))
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-09-01-1309 ([9eb45a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-1309))
 
 * Add a new profession called Military Veteran ([#60561](https://github.com/CleverRaven/Cataclysm-DDA/pull/60561))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-01-1155 ([7e5f5bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-1155))
-
 * Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 * Appliance: option to unplug power connections ([#60618](https://github.com/CleverRaven/Cataclysm-DDA/pull/60618))
