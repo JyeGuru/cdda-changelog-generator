@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-05-0532 ([c3e0504](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-0532))
+
+* Fix veh/appliance construction (remove lastconsumed hack) ([#60762](https://github.com/CleverRaven/Cataclysm-DDA/pull/60762))
+* Suppress spurious error from make when astyle isn't installed ([#60744](https://github.com/CleverRaven/Cataclysm-DDA/pull/60744))
+* A few roe changes ([#60747](https://github.com/CleverRaven/Cataclysm-DDA/pull/60747))
+* Drophammer fix ([#60751](https://github.com/CleverRaven/Cataclysm-DDA/pull/60751))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-05-0415 ([6b38a8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-0415))
+
+* Fix whistle ([#60759](https://github.com/CleverRaven/Cataclysm-DDA/pull/60759))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-05-0313 ([1978168](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-0313))
 
 * Nested Recipes - Chitin Armor and more. ([#60708](https://github.com/CleverRaven/Cataclysm-DDA/pull/60708))
@@ -148,19 +163,8 @@
 
 * Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-01-0646 ([5510799](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-0646))
-
 * Appliance: option to unplug power connections ([#60618](https://github.com/CleverRaven/Cataclysm-DDA/pull/60618))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-01-0523 ([0c6b34c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-0523))
-
 * Remove gamma globulin shot ([#60602](https://github.com/CleverRaven/Cataclysm-DDA/pull/60602))
-* Allow wearing non-covering items with power armor ([#60533](https://github.com/CleverRaven/Cataclysm-DDA/pull/60533))
 * Add casts and widen a variable to make MSVC happy ([#60568](https://github.com/CleverRaven/Cataclysm-DDA/pull/60568))
 * Modular Bsaecamp Workshop recipe update ([#60582](https://github.com/CleverRaven/Cataclysm-DDA/pull/60582))
 * Nested Recipes-Misc. ammo & components ([#60617](https://github.com/CleverRaven/Cataclysm-DDA/pull/60617))
@@ -177,7 +181,6 @@
 * Vertical graph/bar sidebar widgets ([#60604](https://github.com/CleverRaven/Cataclysm-DDA/pull/60604))
 * CrazyCataclysm: Rocket Cans and POWERTHIRST ([#60571](https://github.com/CleverRaven/Cataclysm-DDA/pull/60571))
 * [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
-* Adds several wire crafting recipes using wire draw machine ([#60535](https://github.com/CleverRaven/Cataclysm-DDA/pull/60535))
 * Adding freezer spawns ([#60555](https://github.com/CleverRaven/Cataclysm-DDA/pull/60555))
 * fix fabric bundle weight and volume ([#60567](https://github.com/CleverRaven/Cataclysm-DDA/pull/60567))
 * [DinoMod] three ceratopsians ([#60575](https://github.com/CleverRaven/Cataclysm-DDA/pull/60575))
@@ -189,14 +192,11 @@
 * Allow `compose.py` to follow symlinks in tilesets ([#60606](https://github.com/CleverRaven/Cataclysm-DDA/pull/60606))
 * Allow crossbows to be used in practice recipes ([#60560](https://github.com/CleverRaven/Cataclysm-DDA/pull/60560))
 * fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
-* Ammo effects documentation update ([#60534](https://github.com/CleverRaven/Cataclysm-DDA/pull/60534))
 * Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
 * Cane toad no more ([#60554](https://github.com/CleverRaven/Cataclysm-DDA/pull/60554))
 * Some more npc quips and fixes ([#60553](https://github.com/CleverRaven/Cataclysm-DDA/pull/60553))
 * Sound: fix ambient weather switching ([#60547](https://github.com/CleverRaven/Cataclysm-DDA/pull/60547))
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
 * Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
-* Fix ported tropicata mobs ([#60537](https://github.com/CleverRaven/Cataclysm-DDA/pull/60537))
-* Fixing Plushie once more ([#60538](https://github.com/CleverRaven/Cataclysm-DDA/pull/60538))
 * Routine tileset updates on 28 August 2022 ([#60543](https://github.com/CleverRaven/Cataclysm-DDA/pull/60543))
 * Fix duplication of folding vehicles and tent in iuse  ([#60545](https://github.com/CleverRaven/Cataclysm-DDA/pull/60545))
