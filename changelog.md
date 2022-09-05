@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-05-2002 ([b50c979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-2002))
+
 * virtually remove encumbrance from dustmask ([#60584](https://github.com/CleverRaven/Cataclysm-DDA/pull/60584))
 * Support loading legacy save from #43067 ([#60639](https://github.com/CleverRaven/Cataclysm-DDA/pull/60639))
 * Don't place liquid fields on non-water tiles ([#60659](https://github.com/CleverRaven/Cataclysm-DDA/pull/60659))
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-09-02-1027 ([02a1199](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-1027))
 
 * B&T APC9 PRO K bug fixes  ([#60668](https://github.com/CleverRaven/Cataclysm-DDA/pull/60668))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-02-0537 ([75bf50e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-0537))
-
 * Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
 * Remove rad_badge from known bad density ([#60651](https://github.com/CleverRaven/Cataclysm-DDA/pull/60651))
 * Appliance: keep cable connected when dragging appliances around (within max cable length) ([#60586](https://github.com/CleverRaven/Cataclysm-DDA/pull/60586))

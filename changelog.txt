@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-05-2002 (b50c979)
 * virtually remove encumbrance from dustmask (#60584)
 * Support loading legacy save from #43067 (#60639)
 * Don't place liquid fields on non-water tiles (#60659)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2022-09-02-1857 (e15cdd0)
 
 Cataclysm-DDA experimental build 2022-09-02-1027 (02a1199)
 * B&T APC9 PRO K bug fixes  (#60668)
-
-Cataclysm-DDA experimental build 2022-09-02-0537 (75bf50e)
 * Added golf ball to dodge practice (#60642)
 * Remove rad_badge from known bad density (#60651)
 * Appliance: keep cable connected when dragging appliances around (within max cable length) (#60586)
