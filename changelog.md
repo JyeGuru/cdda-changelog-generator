@@ -1,3 +1,6 @@
+* [CR] Create Wall wiring ([#60671](https://github.com/CleverRaven/Cataclysm-DDA/pull/60671))
+* [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
+* More sizes of canning recipes, for all tin can types ([#60632](https://github.com/CleverRaven/Cataclysm-DDA/pull/60632))
 
 ---
 
@@ -201,7 +204,5 @@
 * Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
 * Cane toad no more ([#60554](https://github.com/CleverRaven/Cataclysm-DDA/pull/60554))
 * Some more npc quips and fixes ([#60553](https://github.com/CleverRaven/Cataclysm-DDA/pull/60553))
-* Sound: fix ambient weather switching ([#60547](https://github.com/CleverRaven/Cataclysm-DDA/pull/60547))
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
 * Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
-* Fix duplication of folding vehicles and tent in iuse  ([#60545](https://github.com/CleverRaven/Cataclysm-DDA/pull/60545))
