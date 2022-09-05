@@ -1,3 +1,4 @@
+* Sheet metal armor, round 3: Revengeance of the Case Hardening ([#60734](https://github.com/CleverRaven/Cataclysm-DDA/pull/60734))
 * removed useless BELT_CLIP flag from war hammer ([#60760](https://github.com/CleverRaven/Cataclysm-DDA/pull/60760))
 
 ---
@@ -201,7 +202,6 @@
 * Vertical graph/bar sidebar widgets ([#60604](https://github.com/CleverRaven/Cataclysm-DDA/pull/60604))
 * CrazyCataclysm: Rocket Cans and POWERTHIRST ([#60571](https://github.com/CleverRaven/Cataclysm-DDA/pull/60571))
 * [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
-* fix fabric bundle weight and volume ([#60567](https://github.com/CleverRaven/Cataclysm-DDA/pull/60567))
 * [DinoMod] three ceratopsians ([#60575](https://github.com/CleverRaven/Cataclysm-DDA/pull/60575))
 * Prevent critical NPCs dying to back bay zombies ([#60595](https://github.com/CleverRaven/Cataclysm-DDA/pull/60595))
 * Remove underline typo in `recipe_modular_workshop_rammed_earth.json` ([#60591](https://github.com/CleverRaven/Cataclysm-DDA/pull/60591))
