@@ -1,3 +1,10 @@
+* Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-05-1510 ([3bfee5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1510))
+
+* Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
 
 ---
 
@@ -164,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2022-09-01-1632 ([0df3d2c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-1632))
 
 * Appliance: keep cable connected when dragging appliances around (within max cable length) ([#60586](https://github.com/CleverRaven/Cataclysm-DDA/pull/60586))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-01-1309 ([9eb45a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-1309))
-
 * Add a new profession called Military Veteran ([#60561](https://github.com/CleverRaven/Cataclysm-DDA/pull/60561))
 * Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
@@ -203,6 +205,4 @@
 * fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
 * Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
 * Cane toad no more ([#60554](https://github.com/CleverRaven/Cataclysm-DDA/pull/60554))
-* Some more npc quips and fixes ([#60553](https://github.com/CleverRaven/Cataclysm-DDA/pull/60553))
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
-* Removed 'about' part from fire lasting description ([#60549](https://github.com/CleverRaven/Cataclysm-DDA/pull/60549))
