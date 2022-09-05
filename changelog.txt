@@ -1,3 +1,7 @@
+* removed useless BELT_CLIP flag from war hammer (#60760)
+
+Cataclysm-DDA experimental build 2022-09-05-1850 (b83eee8)
+* [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions (#60772)
 
 Cataclysm-DDA experimental build 2022-09-05-1718 (324793f)
 * [Magiclysm] Move earth exist, but do not spawn naturally (#60746)
@@ -102,7 +106,6 @@ Cataclysm-DDA experimental build 2022-09-02-0537 (75bf50e)
 * Added golf ball to dodge practice (#60642)
 * Remove rad_badge from known bad density (#60651)
 * Appliance: keep cable connected when dragging appliances around (within max cable length) (#60586)
-* Add a new profession called Military Veteran (#60561)
 * Appliance: drop cables when taking down appliance (#60621)
 * Aluminum Revolution 3: The Oxide Returns (#60635)
 * Appliance: option to unplug power connections (#60618)

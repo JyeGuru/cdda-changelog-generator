@@ -1,3 +1,10 @@
+* removed useless BELT_CLIP flag from war hammer ([#60760](https://github.com/CleverRaven/Cataclysm-DDA/pull/60760))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-05-1850 ([b83eee8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1850))
+
+* [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions ([#60772](https://github.com/CleverRaven/Cataclysm-DDA/pull/60772))
 
 ---
 
@@ -174,7 +181,6 @@
 * Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
 * Remove rad_badge from known bad density ([#60651](https://github.com/CleverRaven/Cataclysm-DDA/pull/60651))
 * Appliance: keep cable connected when dragging appliances around (within max cable length) ([#60586](https://github.com/CleverRaven/Cataclysm-DDA/pull/60586))
-* Add a new profession called Military Veteran ([#60561](https://github.com/CleverRaven/Cataclysm-DDA/pull/60561))
 * Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 * Appliance: option to unplug power connections ([#60618](https://github.com/CleverRaven/Cataclysm-DDA/pull/60618))
