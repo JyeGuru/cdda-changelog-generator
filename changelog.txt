@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-05-0903 (e9cfae9)
+* Routine tileset updates on 04 September 2022 (#60768)
+
 Cataclysm-DDA experimental build 2022-09-05-0532 (c3e0504)
 * Fix veh/appliance construction (remove lastconsumed hack) (#60762)
 * Suppress spurious error from make when astyle isn't installed (#60744)
@@ -129,5 +132,4 @@ Cataclysm-DDA experimental build 2022-09-01-1155 (7e5f5bf)
 * Sound: fix ambient weather switching (#60547)
 * fix: some furniture generates too many nails (#60579)
 * Removed 'about' part from fire lasting description (#60549)
-* Routine tileset updates on 28 August 2022 (#60543)
 * Fix duplication of folding vehicles and tent in iuse  (#60545)
