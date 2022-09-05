@@ -1,3 +1,6 @@
+* virtually remove encumbrance from dustmask ([#60584](https://github.com/CleverRaven/Cataclysm-DDA/pull/60584))
+* Support loading legacy save from #43067 ([#60639](https://github.com/CleverRaven/Cataclysm-DDA/pull/60639))
+* Don't place liquid fields on non-water tiles ([#60659](https://github.com/CleverRaven/Cataclysm-DDA/pull/60659))
 * Sheet metal armor, round 3: Revengeance of the Case Hardening ([#60734](https://github.com/CleverRaven/Cataclysm-DDA/pull/60734))
 * removed useless BELT_CLIP flag from war hammer ([#60760](https://github.com/CleverRaven/Cataclysm-DDA/pull/60760))
 
@@ -186,7 +189,6 @@
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 * Appliance: option to unplug power connections ([#60618](https://github.com/CleverRaven/Cataclysm-DDA/pull/60618))
 * Remove gamma globulin shot ([#60602](https://github.com/CleverRaven/Cataclysm-DDA/pull/60602))
-* Add casts and widen a variable to make MSVC happy ([#60568](https://github.com/CleverRaven/Cataclysm-DDA/pull/60568))
 * Modular Bsaecamp Workshop recipe update ([#60582](https://github.com/CleverRaven/Cataclysm-DDA/pull/60582))
 * Nested Recipes-Misc. ammo & components ([#60617](https://github.com/CleverRaven/Cataclysm-DDA/pull/60617))
 * [DinoMod] dino carriers ([#60630](https://github.com/CleverRaven/Cataclysm-DDA/pull/60630))
@@ -200,7 +202,6 @@
 * Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
 * Fix quickloading ([#60587](https://github.com/CleverRaven/Cataclysm-DDA/pull/60587))
 * Vertical graph/bar sidebar widgets ([#60604](https://github.com/CleverRaven/Cataclysm-DDA/pull/60604))
-* CrazyCataclysm: Rocket Cans and POWERTHIRST ([#60571](https://github.com/CleverRaven/Cataclysm-DDA/pull/60571))
 * [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
 * [DinoMod] three ceratopsians ([#60575](https://github.com/CleverRaven/Cataclysm-DDA/pull/60575))
 * Prevent critical NPCs dying to back bay zombies ([#60595](https://github.com/CleverRaven/Cataclysm-DDA/pull/60595))
@@ -210,5 +211,4 @@
 * Remove the the ([#60600](https://github.com/CleverRaven/Cataclysm-DDA/pull/60600))
 * Allow `compose.py` to follow symlinks in tilesets ([#60606](https://github.com/CleverRaven/Cataclysm-DDA/pull/60606))
 * fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
-* Fix: Make graph color in health and bandaging menu consistent with sidebar ([#60572](https://github.com/CleverRaven/Cataclysm-DDA/pull/60572))
 * fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
