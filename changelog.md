@@ -1,3 +1,4 @@
+* In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
 
 ---
 
@@ -176,11 +177,6 @@
 * Crustacean sample changes ([#60627](https://github.com/CleverRaven/Cataclysm-DDA/pull/60627))
 * Nested Recipes - Tires and More ([#60611](https://github.com/CleverRaven/Cataclysm-DDA/pull/60611))
 * Fix faction epilogues displaying incorrectly ([#60673](https://github.com/CleverRaven/Cataclysm-DDA/pull/60673))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-02-1027 ([02a1199](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-1027))
-
 * B&T APC9 PRO K bug fixes  ([#60668](https://github.com/CleverRaven/Cataclysm-DDA/pull/60668))
 * Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
 * Remove rad_badge from known bad density ([#60651](https://github.com/CleverRaven/Cataclysm-DDA/pull/60651))
