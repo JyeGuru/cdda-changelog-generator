@@ -1,4 +1,8 @@
 
+Cataclysm-DDA experimental build 2022-09-05-0313 (1978168)
+* Nested Recipes - Chitin Armor and more. (#60708)
+* Improvement to "person" monster hallucinations (#60739)
+
 Cataclysm-DDA experimental build 2022-09-04-0601 (4f45027)
 * Make wooden wheels attachable without a wrench (#60675)
 
@@ -63,9 +67,6 @@ Cataclysm-DDA experimental build 2022-09-02-1857 (e15cdd0)
 * Nested Recipes - Tires and More (#60611)
 * Fix faction epilogues displaying incorrectly (#60673)
 
-Cataclysm-DDA experimental build 2022-09-02-1756 (18945cc)
-* Content "Integrating the zastava aks into the spawn pool" (#60532)
-
 Cataclysm-DDA experimental build 2022-09-02-1027 (02a1199)
 * B&T APC9 PRO K bug fixes  (#60668)
 
@@ -90,8 +91,6 @@ Cataclysm-DDA experimental build 2022-09-01-0646 (5510799)
 
 Cataclysm-DDA experimental build 2022-09-01-0523 (0c6b34c)
 * Remove gamma globulin shot (#60602)
-
-Cataclysm-DDA experimental build 2022-09-01-0358 (ef92ebd)
 * Allow wearing non-covering items with power armor (#60533)
 * Add casts and widen a variable to make MSVC happy (#60568)
 * Modular Bsaecamp Workshop recipe update (#60582)
@@ -106,12 +105,9 @@ Cataclysm-DDA experimental build 2022-09-01-0358 (ef92ebd)
 * Add some new nightmares (#60590)
 * Some new addiction snippets (#60640)
 * Fix quickloading (#60587)
-
-Cataclysm-DDA experimental build 2022-09-01-0251 (2aaf897)
 * Vertical graph/bar sidebar widgets (#60604)
 * CrazyCataclysm: Rocket Cans and POWERTHIRST (#60571)
 * [CR] Adds wearable and edible candy bracelets (#60583)
-* Sample changes for a few monsters (#60531)
 * Adds several wire crafting recipes using wire draw machine (#60535)
 * Adding freezer spawns (#60555)
 * fix fabric bundle weight and volume (#60567)

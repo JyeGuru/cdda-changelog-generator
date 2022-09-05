@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-05-0313 ([1978168](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-0313))
+
+* Nested Recipes - Chitin Armor and more. ([#60708](https://github.com/CleverRaven/Cataclysm-DDA/pull/60708))
+* Improvement to "person" monster hallucinations ([#60739](https://github.com/CleverRaven/Cataclysm-DDA/pull/60739))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-04-0601 ([4f45027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0601))
 
 * Make wooden wheels attachable without a wrench ([#60675](https://github.com/CleverRaven/Cataclysm-DDA/pull/60675))
@@ -107,12 +114,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-09-02-1756 ([18945cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-1756))
-
-* Content "Integrating the zastava aks into the spawn pool" ([#60532](https://github.com/CleverRaven/Cataclysm-DDA/pull/60532))
-
----
-
 #### Cataclysm-DDA experimental build 2022-09-02-1027 ([02a1199](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-1027))
 
 * B&T APC9 PRO K bug fixes  ([#60668](https://github.com/CleverRaven/Cataclysm-DDA/pull/60668))
@@ -159,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-09-01-0523 ([0c6b34c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-0523))
 
 * Remove gamma globulin shot ([#60602](https://github.com/CleverRaven/Cataclysm-DDA/pull/60602))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-01-0358 ([ef92ebd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-0358))
-
 * Allow wearing non-covering items with power armor ([#60533](https://github.com/CleverRaven/Cataclysm-DDA/pull/60533))
 * Add casts and widen a variable to make MSVC happy ([#60568](https://github.com/CleverRaven/Cataclysm-DDA/pull/60568))
 * Modular Bsaecamp Workshop recipe update ([#60582](https://github.com/CleverRaven/Cataclysm-DDA/pull/60582))
@@ -178,15 +174,9 @@
 * Add some new nightmares ([#60590](https://github.com/CleverRaven/Cataclysm-DDA/pull/60590))
 * Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
 * Fix quickloading ([#60587](https://github.com/CleverRaven/Cataclysm-DDA/pull/60587))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-01-0251 ([2aaf897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-01-0251))
-
 * Vertical graph/bar sidebar widgets ([#60604](https://github.com/CleverRaven/Cataclysm-DDA/pull/60604))
 * CrazyCataclysm: Rocket Cans and POWERTHIRST ([#60571](https://github.com/CleverRaven/Cataclysm-DDA/pull/60571))
 * [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
-* Sample changes for a few monsters ([#60531](https://github.com/CleverRaven/Cataclysm-DDA/pull/60531))
 * Adds several wire crafting recipes using wire draw machine ([#60535](https://github.com/CleverRaven/Cataclysm-DDA/pull/60535))
 * Adding freezer spawns ([#60555](https://github.com/CleverRaven/Cataclysm-DDA/pull/60555))
 * fix fabric bundle weight and volume ([#60567](https://github.com/CleverRaven/Cataclysm-DDA/pull/60567))
