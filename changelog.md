@@ -204,7 +204,6 @@
 * Fix quickloading ([#60587](https://github.com/CleverRaven/Cataclysm-DDA/pull/60587))
 * Vertical graph/bar sidebar widgets ([#60604](https://github.com/CleverRaven/Cataclysm-DDA/pull/60604))
 * [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
-* [DinoMod] three ceratopsians ([#60575](https://github.com/CleverRaven/Cataclysm-DDA/pull/60575))
 * Prevent critical NPCs dying to back bay zombies ([#60595](https://github.com/CleverRaven/Cataclysm-DDA/pull/60595))
 * Remove underline typo in `recipe_modular_workshop_rammed_earth.json` ([#60591](https://github.com/CleverRaven/Cataclysm-DDA/pull/60591))
 * Fixed off-by-one mapgen offset in mine shaft ([#60593](https://github.com/CleverRaven/Cataclysm-DDA/pull/60593))
