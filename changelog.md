@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-06-1356 ([49242cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1356))
+
+* [Xedra Evolved] Make death rays obtainable, fix wrong spell component IDs for ray gun & death ray ([#60787](https://github.com/CleverRaven/Cataclysm-DDA/pull/60787))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-06-1232 ([38b17b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1232))
 
 * Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
@@ -160,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2022-09-03-1025 ([2d59379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-1025))
 
 * Fix: use absolute map coords when connecting vehicle parts ([#60714](https://github.com/CleverRaven/Cataclysm-DDA/pull/60714))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-03-0545 ([92ef6ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-0545))
-
 * Routine i18n updates on 03 September 2022 ([#60713](https://github.com/CleverRaven/Cataclysm-DDA/pull/60713))
 * Helicopter bugfixes ([#60705](https://github.com/CleverRaven/Cataclysm-DDA/pull/60705))
 * Item Description Cleanup Project - Containers, Corpses, and Generic ([#60697](https://github.com/CleverRaven/Cataclysm-DDA/pull/60697))
@@ -189,7 +190,6 @@
 * B&T APC9 PRO K bug fixes  ([#60668](https://github.com/CleverRaven/Cataclysm-DDA/pull/60668))
 * Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
 * Remove rad_badge from known bad density ([#60651](https://github.com/CleverRaven/Cataclysm-DDA/pull/60651))
-* Appliance: keep cable connected when dragging appliances around (within max cable length) ([#60586](https://github.com/CleverRaven/Cataclysm-DDA/pull/60586))
 * Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 * Appliance: option to unplug power connections ([#60618](https://github.com/CleverRaven/Cataclysm-DDA/pull/60618))
