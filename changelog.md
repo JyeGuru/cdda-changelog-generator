@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-06-1232 ([38b17b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1232))
+
 * Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
 
 ---
@@ -163,11 +168,6 @@
 * Routine i18n updates on 03 September 2022 ([#60713](https://github.com/CleverRaven/Cataclysm-DDA/pull/60713))
 * Helicopter bugfixes ([#60705](https://github.com/CleverRaven/Cataclysm-DDA/pull/60705))
 * Item Description Cleanup Project - Containers, Corpses, and Generic ([#60697](https://github.com/CleverRaven/Cataclysm-DDA/pull/60697))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-03-0448 ([ad5bb2d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-0448))
-
 * TropiCata 0.8: amphibian updates ([#60641](https://github.com/CleverRaven/Cataclysm-DDA/pull/60641))
 * Fix setting sub-tile retracted offset in multi-tiles ([#60648](https://github.com/CleverRaven/Cataclysm-DDA/pull/60648))
 * Disable installing parts on racked vehicles ([#60657](https://github.com/CleverRaven/Cataclysm-DDA/pull/60657))
