@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-06-0006 (19532fe)
 * In Tab Nesting (#60761)
 
 Cataclysm-DDA experimental build 2022-09-05-2002 (b50c979)
