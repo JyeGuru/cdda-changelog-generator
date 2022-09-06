@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-06-0954 ([ad35424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0954))
+
+* increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-06-0724 ([e2e7914](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0724))
 
 * Tec 9 rebalance ([#60709](https://github.com/CleverRaven/Cataclysm-DDA/pull/60709))
@@ -192,7 +198,6 @@
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 * Appliance: option to unplug power connections ([#60618](https://github.com/CleverRaven/Cataclysm-DDA/pull/60618))
 * Remove gamma globulin shot ([#60602](https://github.com/CleverRaven/Cataclysm-DDA/pull/60602))
-* Modular Bsaecamp Workshop recipe update ([#60582](https://github.com/CleverRaven/Cataclysm-DDA/pull/60582))
 * Nested Recipes-Misc. ammo & components ([#60617](https://github.com/CleverRaven/Cataclysm-DDA/pull/60617))
 * [DinoMod] dino carriers ([#60630](https://github.com/CleverRaven/Cataclysm-DDA/pull/60630))
 * Update documentation for recipes ([#60628](https://github.com/CleverRaven/Cataclysm-DDA/pull/60628))

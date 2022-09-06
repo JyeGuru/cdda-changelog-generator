@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-06-0954 (ad35424)
+* increase volume of jackhammers (#60793)
+
 Cataclysm-DDA experimental build 2022-09-06-0724 (e2e7914)
 * Tec 9 rebalance (#60709)
 
@@ -117,7 +120,6 @@ Cataclysm-DDA experimental build 2022-09-03-0348 (3922a3b)
 * Aluminum Revolution 3: The Oxide Returns (#60635)
 * Appliance: option to unplug power connections (#60618)
 * Remove gamma globulin shot (#60602)
-* Modular Bsaecamp Workshop recipe update (#60582)
 * Nested Recipes-Misc. ammo & components (#60617)
 * [DinoMod] dino carriers (#60630)
 * Update documentation for recipes (#60628)
