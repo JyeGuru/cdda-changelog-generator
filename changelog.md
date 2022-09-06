@@ -1,3 +1,10 @@
+* Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-06-1121 ([2b52aa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1121))
+
+* Add urban explorer profession ([#60764](https://github.com/CleverRaven/Cataclysm-DDA/pull/60764))
 
 ---
 
@@ -22,12 +29,6 @@
 #### Cataclysm-DDA experimental build 2022-09-06-0006 ([19532fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0006))
 
 * In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-05-2002 ([b50c979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-2002))
-
-* virtually remove encumbrance from dustmask ([#60584](https://github.com/CleverRaven/Cataclysm-DDA/pull/60584))
 * Support loading legacy save from #43067 ([#60639](https://github.com/CleverRaven/Cataclysm-DDA/pull/60639))
 * Don't place liquid fields on non-water tiles ([#60659](https://github.com/CleverRaven/Cataclysm-DDA/pull/60659))
 * Sheet metal armor, round 3: Revengeance of the Case Hardening ([#60734](https://github.com/CleverRaven/Cataclysm-DDA/pull/60734))
@@ -180,11 +181,6 @@
 * change name of engine_electric_train to match other engines ([#60689](https://github.com/CleverRaven/Cataclysm-DDA/pull/60689))
 * Added metal roofs to card readers ([#60690](https://github.com/CleverRaven/Cataclysm-DDA/pull/60690))
 * Fix artifact on minimap ([#60702](https://github.com/CleverRaven/Cataclysm-DDA/pull/60702))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-03-0348 ([3922a3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-0348))
-
 * improve grammar in broken prototype robot description ([#60706](https://github.com/CleverRaven/Cataclysm-DDA/pull/60706))
 * add a door to the internet cafe's bathroom ([#60688](https://github.com/CleverRaven/Cataclysm-DDA/pull/60688))
 * Crustacean sample changes ([#60627](https://github.com/CleverRaven/Cataclysm-DDA/pull/60627))
@@ -209,7 +205,6 @@
 * Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
 * Fix quickloading ([#60587](https://github.com/CleverRaven/Cataclysm-DDA/pull/60587))
 * Vertical graph/bar sidebar widgets ([#60604](https://github.com/CleverRaven/Cataclysm-DDA/pull/60604))
-* [CR] Adds wearable and edible candy bracelets ([#60583](https://github.com/CleverRaven/Cataclysm-DDA/pull/60583))
 * Prevent critical NPCs dying to back bay zombies ([#60595](https://github.com/CleverRaven/Cataclysm-DDA/pull/60595))
 * Remove underline typo in `recipe_modular_workshop_rammed_earth.json` ([#60591](https://github.com/CleverRaven/Cataclysm-DDA/pull/60591))
 * Fixed off-by-one mapgen offset in mine shaft ([#60593](https://github.com/CleverRaven/Cataclysm-DDA/pull/60593))
