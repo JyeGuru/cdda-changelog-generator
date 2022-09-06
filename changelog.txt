@@ -1,4 +1,10 @@
 
+Cataclysm-DDA experimental build 2022-09-06-0724 (e2e7914)
+* Tec 9 rebalance (#60709)
+
+Cataclysm-DDA experimental build 2022-09-06-0620 (bdbab9f)
+* Post Apoc Caviar (#60756)
+
 Cataclysm-DDA experimental build 2022-09-06-0006 (19532fe)
 * In Tab Nesting (#60761)
 
@@ -99,11 +105,7 @@ Cataclysm-DDA experimental build 2022-09-03-0448 (ad5bb2d)
 
 Cataclysm-DDA experimental build 2022-09-03-0348 (3922a3b)
 * improve grammar in broken prototype robot description (#60706)
-
-Cataclysm-DDA experimental build 2022-09-02-2035 (c968cf1)
 * add a door to the internet cafe's bathroom (#60688)
-
-Cataclysm-DDA experimental build 2022-09-02-1857 (e15cdd0)
 * Crustacean sample changes (#60627)
 * Nested Recipes - Tires and More (#60611)
 * Fix faction epilogues displaying incorrectly (#60673)
@@ -123,7 +125,6 @@ Cataclysm-DDA experimental build 2022-09-02-1857 (e15cdd0)
 * Lab-quality filter paper and gasket changes (#60616)
 * Add post-apocalypse prices to cannabis extraction items (#60615)
 * Cannabis extract typo fixes (#60614)
-* Xedra Evolved Bugfix for #60563 (#60580)
 * Add some new nightmares (#60590)
 * Some new addiction snippets (#60640)
 * Fix quickloading (#60587)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-09-02-1857 (e15cdd0)
 * Remove the the (#60600)
 * Allow `compose.py` to follow symlinks in tilesets (#60606)
 * fix cables (#60596)
-* fix: some furniture generates too many nails (#60579)

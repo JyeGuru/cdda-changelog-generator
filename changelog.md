@@ -1,6 +1,18 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-06-0724 ([e2e7914](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0724))
+
+* Tec 9 rebalance ([#60709](https://github.com/CleverRaven/Cataclysm-DDA/pull/60709))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-06-0620 ([bdbab9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0620))
+
+* Post Apoc Caviar ([#60756](https://github.com/CleverRaven/Cataclysm-DDA/pull/60756))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-06-0006 ([19532fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0006))
 
 * In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
@@ -168,17 +180,7 @@
 #### Cataclysm-DDA experimental build 2022-09-03-0348 ([3922a3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-0348))
 
 * improve grammar in broken prototype robot description ([#60706](https://github.com/CleverRaven/Cataclysm-DDA/pull/60706))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-02-2035 ([c968cf1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-2035))
-
 * add a door to the internet cafe's bathroom ([#60688](https://github.com/CleverRaven/Cataclysm-DDA/pull/60688))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-02-1857 ([e15cdd0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-02-1857))
-
 * Crustacean sample changes ([#60627](https://github.com/CleverRaven/Cataclysm-DDA/pull/60627))
 * Nested Recipes - Tires and More ([#60611](https://github.com/CleverRaven/Cataclysm-DDA/pull/60611))
 * Fix faction epilogues displaying incorrectly ([#60673](https://github.com/CleverRaven/Cataclysm-DDA/pull/60673))
@@ -198,7 +200,6 @@
 * Lab-quality filter paper and gasket changes ([#60616](https://github.com/CleverRaven/Cataclysm-DDA/pull/60616))
 * Add post-apocalypse prices to cannabis extraction items ([#60615](https://github.com/CleverRaven/Cataclysm-DDA/pull/60615))
 * Cannabis extract typo fixes ([#60614](https://github.com/CleverRaven/Cataclysm-DDA/pull/60614))
-* Xedra Evolved Bugfix for #60563 ([#60580](https://github.com/CleverRaven/Cataclysm-DDA/pull/60580))
 * Add some new nightmares ([#60590](https://github.com/CleverRaven/Cataclysm-DDA/pull/60590))
 * Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
 * Fix quickloading ([#60587](https://github.com/CleverRaven/Cataclysm-DDA/pull/60587))
@@ -211,4 +212,3 @@
 * Remove the the ([#60600](https://github.com/CleverRaven/Cataclysm-DDA/pull/60600))
 * Allow `compose.py` to follow symlinks in tilesets ([#60606](https://github.com/CleverRaven/Cataclysm-DDA/pull/60606))
 * fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
-* fix: some furniture generates too many nails ([#60579](https://github.com/CleverRaven/Cataclysm-DDA/pull/60579))
