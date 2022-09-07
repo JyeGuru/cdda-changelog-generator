@@ -63,6 +63,11 @@
 #### Cataclysm-DDA experimental build 2022-09-06-0724 ([e2e7914](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0724))
 
 * Tec 9 rebalance ([#60709](https://github.com/CleverRaven/Cataclysm-DDA/pull/60709))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-06-0620 ([bdbab9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0620))
+
 * Post Apoc Caviar ([#60756](https://github.com/CleverRaven/Cataclysm-DDA/pull/60756))
 
 ---
@@ -94,6 +99,11 @@
 #### Cataclysm-DDA experimental build 2022-09-05-1611 ([c0d87ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1611))
 
 * Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-05-1510 ([3bfee5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1510))
+
 * Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
 
 ---
@@ -164,11 +174,6 @@
 
 * Rename survivor telescope, make them less common in favor of binoculars. ([#60729](https://github.com/CleverRaven/Cataclysm-DDA/pull/60729))
 * Nerf medical gloves ([#60727](https://github.com/CleverRaven/Cataclysm-DDA/pull/60727))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-03-2253 ([5f9f784](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-2253))
-
 * Leaping legs mutation will now delete the spell when lost (now it really works) ([#60719](https://github.com/CleverRaven/Cataclysm-DDA/pull/60719))
 * Add missing <array> header in translation_plural_evaluator.h ([#60715](https://github.com/CleverRaven/Cataclysm-DDA/pull/60715))
 * M2 carbine fixes ([#60694](https://github.com/CleverRaven/Cataclysm-DDA/pull/60694))
