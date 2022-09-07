@@ -1,6 +1,32 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-07-0704 ([8c78e92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-0704))
+
+* [Magiclysm] Small used_bookstore roof fix ([#60786](https://github.com/CleverRaven/Cataclysm-DDA/pull/60786))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-07-0545 ([279555e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-0545))
+
+* Set a minimum weight for a worn item to cause chafing ([#60796](https://github.com/CleverRaven/Cataclysm-DDA/pull/60796))
+* Disable cut/remove grass under vehicles ([#60767](https://github.com/CleverRaven/Cataclysm-DDA/pull/60767))
+* Fix weapon name in faction screen ([#60791](https://github.com/CleverRaven/Cataclysm-DDA/pull/60791))
+* [XEDRA Evolved] Investigation -> deduction ([#60795](https://github.com/CleverRaven/Cataclysm-DDA/pull/60795))
+* allow small leg purse to be worn with a tail ([#60812](https://github.com/CleverRaven/Cataclysm-DDA/pull/60812))
+* ft. one dark color theme ([#60815](https://github.com/CleverRaven/Cataclysm-DDA/pull/60815))
+* Salt water should be mixible and not auto-drinkable. ([#60782](https://github.com/CleverRaven/Cataclysm-DDA/pull/60782))
+* Change materials for nails, nuts and bolts ([#60805](https://github.com/CleverRaven/Cataclysm-DDA/pull/60805))
+* Tropicata: Roe and Gar ([#60743](https://github.com/CleverRaven/Cataclysm-DDA/pull/60743))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-07-0424 ([c27332b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-0424))
+
+* Allow roundtripping damage in folded vehicle items ([#60710](https://github.com/CleverRaven/Cataclysm-DDA/pull/60710))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-06-1356 ([49242cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1356))
 
 * [Xedra Evolved] Make death rays obtainable, fix wrong spell component IDs for ray gun & death ray ([#60787](https://github.com/CleverRaven/Cataclysm-DDA/pull/60787))
@@ -145,26 +171,10 @@
 #### Cataclysm-DDA experimental build 2022-09-03-2253 ([5f9f784](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-2253))
 
 * Leaping legs mutation will now delete the spell when lost (now it really works) ([#60719](https://github.com/CleverRaven/Cataclysm-DDA/pull/60719))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-03-1643 ([e853744](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-1643))
-
-* Turning off spell explosions where they not intended ([#60601](https://github.com/CleverRaven/Cataclysm-DDA/pull/60601))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-03-1542 ([535b232](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-1542))
-
 * Add missing <array> header in translation_plural_evaluator.h ([#60715](https://github.com/CleverRaven/Cataclysm-DDA/pull/60715))
 * M2 carbine fixes ([#60694](https://github.com/CleverRaven/Cataclysm-DDA/pull/60694))
 * Uzi fixes ([#60696](https://github.com/CleverRaven/Cataclysm-DDA/pull/60696))
 * Luty 9mm SMG fixes ([#60699](https://github.com/CleverRaven/Cataclysm-DDA/pull/60699))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-03-1025 ([2d59379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-1025))
-
 * Fix: use absolute map coords when connecting vehicle parts ([#60714](https://github.com/CleverRaven/Cataclysm-DDA/pull/60714))
 * Routine i18n updates on 03 September 2022 ([#60713](https://github.com/CleverRaven/Cataclysm-DDA/pull/60713))
 * Helicopter bugfixes ([#60705](https://github.com/CleverRaven/Cataclysm-DDA/pull/60705))
@@ -193,7 +203,6 @@
 * Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 * Appliance: option to unplug power connections ([#60618](https://github.com/CleverRaven/Cataclysm-DDA/pull/60618))
-* Remove gamma globulin shot ([#60602](https://github.com/CleverRaven/Cataclysm-DDA/pull/60602))
 * Nested Recipes-Misc. ammo & components ([#60617](https://github.com/CleverRaven/Cataclysm-DDA/pull/60617))
 * [DinoMod] dino carriers ([#60630](https://github.com/CleverRaven/Cataclysm-DDA/pull/60630))
 * Update documentation for recipes ([#60628](https://github.com/CleverRaven/Cataclysm-DDA/pull/60628))
@@ -201,14 +210,4 @@
 * Lab-quality filter paper and gasket changes ([#60616](https://github.com/CleverRaven/Cataclysm-DDA/pull/60616))
 * Add post-apocalypse prices to cannabis extraction items ([#60615](https://github.com/CleverRaven/Cataclysm-DDA/pull/60615))
 * Cannabis extract typo fixes ([#60614](https://github.com/CleverRaven/Cataclysm-DDA/pull/60614))
-* Add some new nightmares ([#60590](https://github.com/CleverRaven/Cataclysm-DDA/pull/60590))
 * Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
-* Fix quickloading ([#60587](https://github.com/CleverRaven/Cataclysm-DDA/pull/60587))
-* Vertical graph/bar sidebar widgets ([#60604](https://github.com/CleverRaven/Cataclysm-DDA/pull/60604))
-* Prevent critical NPCs dying to back bay zombies ([#60595](https://github.com/CleverRaven/Cataclysm-DDA/pull/60595))
-* Remove underline typo in `recipe_modular_workshop_rammed_earth.json` ([#60591](https://github.com/CleverRaven/Cataclysm-DDA/pull/60591))
-* Fixed off-by-one mapgen offset in mine shaft ([#60593](https://github.com/CleverRaven/Cataclysm-DDA/pull/60593))
-* After unloading battery from an active RC car, convert it to inactive version ([#60598](https://github.com/CleverRaven/Cataclysm-DDA/pull/60598))
-* Remove the the ([#60600](https://github.com/CleverRaven/Cataclysm-DDA/pull/60600))
-* Allow `compose.py` to follow symlinks in tilesets ([#60606](https://github.com/CleverRaven/Cataclysm-DDA/pull/60606))
-* fix cables ([#60596](https://github.com/CleverRaven/Cataclysm-DDA/pull/60596))
