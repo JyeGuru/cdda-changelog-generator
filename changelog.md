@@ -1,3 +1,7 @@
+* Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
+* Pack rat monster, the missing ratkin link ([#60638](https://github.com/CleverRaven/Cataclysm-DDA/pull/60638))
+* Antenna changes ([#60658](https://github.com/CleverRaven/Cataclysm-DDA/pull/60658))
+* Fixes for from_sheet and neoprene craft ([#60691](https://github.com/CleverRaven/Cataclysm-DDA/pull/60691))
 
 ---
 
@@ -195,7 +199,6 @@
 * improve grammar in broken prototype robot description ([#60706](https://github.com/CleverRaven/Cataclysm-DDA/pull/60706))
 * add a door to the internet cafe's bathroom ([#60688](https://github.com/CleverRaven/Cataclysm-DDA/pull/60688))
 * Crustacean sample changes ([#60627](https://github.com/CleverRaven/Cataclysm-DDA/pull/60627))
-* Nested Recipes - Tires and More ([#60611](https://github.com/CleverRaven/Cataclysm-DDA/pull/60611))
 * Fix faction epilogues displaying incorrectly ([#60673](https://github.com/CleverRaven/Cataclysm-DDA/pull/60673))
 * B&T APC9 PRO K bug fixes  ([#60668](https://github.com/CleverRaven/Cataclysm-DDA/pull/60668))
 * Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
@@ -208,6 +211,4 @@
 * Update documentation for recipes ([#60628](https://github.com/CleverRaven/Cataclysm-DDA/pull/60628))
 * [Magiclysm] allow adept weapons as recipe tools ([#60633](https://github.com/CleverRaven/Cataclysm-DDA/pull/60633))
 * Lab-quality filter paper and gasket changes ([#60616](https://github.com/CleverRaven/Cataclysm-DDA/pull/60616))
-* Add post-apocalypse prices to cannabis extraction items ([#60615](https://github.com/CleverRaven/Cataclysm-DDA/pull/60615))
-* Cannabis extract typo fixes ([#60614](https://github.com/CleverRaven/Cataclysm-DDA/pull/60614))
 * Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
