@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-07-1150 ([5664fa2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-1150))
+
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
 * Pack rat monster, the missing ratkin link ([#60638](https://github.com/CleverRaven/Cataclysm-DDA/pull/60638))
 * Antenna changes ([#60658](https://github.com/CleverRaven/Cataclysm-DDA/pull/60658))
@@ -169,11 +174,6 @@
 
 * Rename survivor telescope, make them less common in favor of binoculars. ([#60729](https://github.com/CleverRaven/Cataclysm-DDA/pull/60729))
 * Nerf medical gloves ([#60727](https://github.com/CleverRaven/Cataclysm-DDA/pull/60727))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-03-2253 ([5f9f784](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-03-2253))
-
 * Leaping legs mutation will now delete the spell when lost (now it really works) ([#60719](https://github.com/CleverRaven/Cataclysm-DDA/pull/60719))
 * Add missing <array> header in translation_plural_evaluator.h ([#60715](https://github.com/CleverRaven/Cataclysm-DDA/pull/60715))
 * M2 carbine fixes ([#60694](https://github.com/CleverRaven/Cataclysm-DDA/pull/60694))
