@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-07-1805 ([b5cebce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-1805))
+
+* Aquariums & Glass Cutting ([#60655](https://github.com/CleverRaven/Cataclysm-DDA/pull/60655))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-07-1150 ([5664fa2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-1150))
 
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-09-04-0208 ([fce16d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0208))
 
 * UI Upgrades for Nests ([#60683](https://github.com/CleverRaven/Cataclysm-DDA/pull/60683))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-04-0003 ([8e88187](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0003))
-
 * Rename survivor telescope, make them less common in favor of binoculars. ([#60729](https://github.com/CleverRaven/Cataclysm-DDA/pull/60729))
 * Nerf medical gloves ([#60727](https://github.com/CleverRaven/Cataclysm-DDA/pull/60727))
 * Leaping legs mutation will now delete the spell when lost (now it really works) ([#60719](https://github.com/CleverRaven/Cataclysm-DDA/pull/60719))
@@ -210,5 +211,4 @@
 * [DinoMod] dino carriers ([#60630](https://github.com/CleverRaven/Cataclysm-DDA/pull/60630))
 * Update documentation for recipes ([#60628](https://github.com/CleverRaven/Cataclysm-DDA/pull/60628))
 * [Magiclysm] allow adept weapons as recipe tools ([#60633](https://github.com/CleverRaven/Cataclysm-DDA/pull/60633))
-* Lab-quality filter paper and gasket changes ([#60616](https://github.com/CleverRaven/Cataclysm-DDA/pull/60616))
 * Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
