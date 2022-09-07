@@ -36,8 +36,6 @@ Cataclysm-DDA experimental build 2022-09-06-0954 (ad35424)
 
 Cataclysm-DDA experimental build 2022-09-06-0724 (e2e7914)
 * Tec 9 rebalance (#60709)
-
-Cataclysm-DDA experimental build 2022-09-06-0620 (bdbab9f)
 * Post Apoc Caviar (#60756)
 
 Cataclysm-DDA experimental build 2022-09-06-0006 (19532fe)
@@ -57,8 +55,6 @@ Cataclysm-DDA experimental build 2022-09-05-1718 (324793f)
 
 Cataclysm-DDA experimental build 2022-09-05-1611 (c0d87ca)
 * Remove redundant check (#60785)
-
-Cataclysm-DDA experimental build 2022-09-05-1510 (3bfee5a)
 * Bullfrog shrinking (#60779)
 
 Cataclysm-DDA experimental build 2022-09-05-1143 (8873158)
@@ -99,6 +95,8 @@ Cataclysm-DDA experimental build 2022-09-04-0208 (fce16d3)
 Cataclysm-DDA experimental build 2022-09-04-0003 (8e88187)
 * Rename survivor telescope, make them less common in favor of binoculars. (#60729)
 * Nerf medical gloves (#60727)
+
+Cataclysm-DDA experimental build 2022-09-03-2253 (5f9f784)
 * Leaping legs mutation will now delete the spell when lost (now it really works) (#60719)
 * Add missing <array> header in translation_plural_evaluator.h (#60715)
 * M2 carbine fixes (#60694)
