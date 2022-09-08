@@ -1,3 +1,4 @@
+* Buffed environmental protection of Air Filtration System ([#60821](https://github.com/CleverRaven/Cataclysm-DDA/pull/60821))
 * Ingot separation ([#60839](https://github.com/CleverRaven/Cataclysm-DDA/pull/60839))
 * CR Steel crafting guide ([#60770](https://github.com/CleverRaven/Cataclysm-DDA/pull/60770))
 * clean up stray debug message in stdout ([#60797](https://github.com/CleverRaven/Cataclysm-DDA/pull/60797))
@@ -164,11 +165,6 @@
 
 * Nested Recipes - Chitin Armor and more. ([#60708](https://github.com/CleverRaven/Cataclysm-DDA/pull/60708))
 * Improvement to "person" monster hallucinations ([#60739](https://github.com/CleverRaven/Cataclysm-DDA/pull/60739))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-04-0601 ([4f45027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0601))
-
 * Make wooden wheels attachable without a wrench ([#60675](https://github.com/CleverRaven/Cataclysm-DDA/pull/60675))
 * Add Old Veteran profession ([#60692](https://github.com/CleverRaven/Cataclysm-DDA/pull/60692))
 * fix: make offset sight rail spawn ([#60738](https://github.com/CleverRaven/Cataclysm-DDA/pull/60738))
@@ -205,5 +201,4 @@
 * B&T APC9 PRO K bug fixes  ([#60668](https://github.com/CleverRaven/Cataclysm-DDA/pull/60668))
 * Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
 * Remove rad_badge from known bad density ([#60651](https://github.com/CleverRaven/Cataclysm-DDA/pull/60651))
-* Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 * Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
