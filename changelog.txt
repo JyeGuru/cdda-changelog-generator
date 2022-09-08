@@ -98,8 +98,6 @@ Cataclysm-DDA experimental build 2022-09-05-0313 (1978168)
 
 Cataclysm-DDA experimental build 2022-09-04-0601 (4f45027)
 * Make wooden wheels attachable without a wrench (#60675)
-
-Cataclysm-DDA experimental build 2022-09-04-0424 (f42367d)
 * Add Old Veteran profession (#60692)
 * fix: make offset sight rail spawn (#60738)
 * Fixes copper not spawning for bullet crafting (#60679)

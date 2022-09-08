@@ -170,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-09-04-0601 ([4f45027](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0601))
 
 * Make wooden wheels attachable without a wrench ([#60675](https://github.com/CleverRaven/Cataclysm-DDA/pull/60675))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-04-0424 ([f42367d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0424))
-
 * Add Old Veteran profession ([#60692](https://github.com/CleverRaven/Cataclysm-DDA/pull/60692))
 * fix: make offset sight rail spawn ([#60738](https://github.com/CleverRaven/Cataclysm-DDA/pull/60738))
 * Fixes copper not spawning for bullet crafting ([#60679](https://github.com/CleverRaven/Cataclysm-DDA/pull/60679))
