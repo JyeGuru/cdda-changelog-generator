@@ -1,3 +1,15 @@
+* Ingot separation ([#60839](https://github.com/CleverRaven/Cataclysm-DDA/pull/60839))
+* CR Steel crafting guide ([#60770](https://github.com/CleverRaven/Cataclysm-DDA/pull/60770))
+* clean up stray debug message in stdout ([#60797](https://github.com/CleverRaven/Cataclysm-DDA/pull/60797))
+* Unmark empty strings for translation ([#60827](https://github.com/CleverRaven/Cataclysm-DDA/pull/60827))
+* Fix harmless errors on evac shelter computer ([#60831](https://github.com/CleverRaven/Cataclysm-DDA/pull/60831))
+* Fix bad tag error in bio lab files ([#60833](https://github.com/CleverRaven/Cataclysm-DDA/pull/60833))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-08-0745 ([d0a8325](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-08-0745))
+
+* Aftershock Exosuit flag inheritance fixes ([#60836](https://github.com/CleverRaven/Cataclysm-DDA/pull/60836))
 
 ---
 
@@ -124,7 +136,6 @@
 
 * [CR] Create Wall wiring ([#60671](https://github.com/CleverRaven/Cataclysm-DDA/pull/60671))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
-* More sizes of canning recipes, for all tin can types ([#60632](https://github.com/CleverRaven/Cataclysm-DDA/pull/60632))
 
 ---
 
@@ -165,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-09-04-0424 ([f42367d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0424))
 
 * Add Old Veteran profession ([#60692](https://github.com/CleverRaven/Cataclysm-DDA/pull/60692))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-04-0312 ([81ec7fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0312))
-
 * fix: make offset sight rail spawn ([#60738](https://github.com/CleverRaven/Cataclysm-DDA/pull/60738))
 * Fixes copper not spawning for bullet crafting ([#60679](https://github.com/CleverRaven/Cataclysm-DDA/pull/60679))
 * Use some nonthrowing int parsing in condition.cpp ([#60731](https://github.com/CleverRaven/Cataclysm-DDA/pull/60731))
@@ -200,15 +206,9 @@
 * Fix artifact on minimap ([#60702](https://github.com/CleverRaven/Cataclysm-DDA/pull/60702))
 * improve grammar in broken prototype robot description ([#60706](https://github.com/CleverRaven/Cataclysm-DDA/pull/60706))
 * add a door to the internet cafe's bathroom ([#60688](https://github.com/CleverRaven/Cataclysm-DDA/pull/60688))
-* Crustacean sample changes ([#60627](https://github.com/CleverRaven/Cataclysm-DDA/pull/60627))
 * Fix faction epilogues displaying incorrectly ([#60673](https://github.com/CleverRaven/Cataclysm-DDA/pull/60673))
 * B&T APC9 PRO K bug fixes  ([#60668](https://github.com/CleverRaven/Cataclysm-DDA/pull/60668))
 * Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
 * Remove rad_badge from known bad density ([#60651](https://github.com/CleverRaven/Cataclysm-DDA/pull/60651))
-* Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
-* Appliance: option to unplug power connections ([#60618](https://github.com/CleverRaven/Cataclysm-DDA/pull/60618))
-* [DinoMod] dino carriers ([#60630](https://github.com/CleverRaven/Cataclysm-DDA/pull/60630))
-* Update documentation for recipes ([#60628](https://github.com/CleverRaven/Cataclysm-DDA/pull/60628))
-* [Magiclysm] allow adept weapons as recipe tools ([#60633](https://github.com/CleverRaven/Cataclysm-DDA/pull/60633))
 * Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
