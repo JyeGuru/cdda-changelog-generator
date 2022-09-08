@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-08-1300 ([b1fb6f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-08-1300))
+
 * Buffed environmental protection of Air Filtration System ([#60821](https://github.com/CleverRaven/Cataclysm-DDA/pull/60821))
 * Ingot separation ([#60839](https://github.com/CleverRaven/Cataclysm-DDA/pull/60839))
 * CR Steel crafting guide ([#60770](https://github.com/CleverRaven/Cataclysm-DDA/pull/60770))
