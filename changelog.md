@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-08-0511 ([8da9f0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-08-0511))
+
+* Add passenger cars to subway stations ([#60825](https://github.com/CleverRaven/Cataclysm-DDA/pull/60825))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-07-1805 ([b5cebce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-1805))
 
 * Aquariums & Glass Cutting ([#60655](https://github.com/CleverRaven/Cataclysm-DDA/pull/60655))
@@ -167,11 +173,6 @@
 * fix: make offset sight rail spawn ([#60738](https://github.com/CleverRaven/Cataclysm-DDA/pull/60738))
 * Fixes copper not spawning for bullet crafting ([#60679](https://github.com/CleverRaven/Cataclysm-DDA/pull/60679))
 * Use some nonthrowing int parsing in condition.cpp ([#60731](https://github.com/CleverRaven/Cataclysm-DDA/pull/60731))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-04-0208 ([fce16d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-04-0208))
-
 * UI Upgrades for Nests ([#60683](https://github.com/CleverRaven/Cataclysm-DDA/pull/60683))
 * Rename survivor telescope, make them less common in favor of binoculars. ([#60729](https://github.com/CleverRaven/Cataclysm-DDA/pull/60729))
 * Nerf medical gloves ([#60727](https://github.com/CleverRaven/Cataclysm-DDA/pull/60727))
@@ -207,7 +208,6 @@
 * Appliance: drop cables when taking down appliance ([#60621](https://github.com/CleverRaven/Cataclysm-DDA/pull/60621))
 * Aluminum Revolution 3: The Oxide Returns ([#60635](https://github.com/CleverRaven/Cataclysm-DDA/pull/60635))
 * Appliance: option to unplug power connections ([#60618](https://github.com/CleverRaven/Cataclysm-DDA/pull/60618))
-* Nested Recipes-Misc. ammo & components ([#60617](https://github.com/CleverRaven/Cataclysm-DDA/pull/60617))
 * [DinoMod] dino carriers ([#60630](https://github.com/CleverRaven/Cataclysm-DDA/pull/60630))
 * Update documentation for recipes ([#60628](https://github.com/CleverRaven/Cataclysm-DDA/pull/60628))
 * [Magiclysm] allow adept weapons as recipe tools ([#60633](https://github.com/CleverRaven/Cataclysm-DDA/pull/60633))
