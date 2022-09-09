@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-09-0824 (5715fc4)
+* Balance "Fix to 5.56 crafting recipe" (#60809)
+
 Cataclysm-DDA experimental build 2022-09-09-0535 (d07b746)
 * Mi-Go Resin dialogue fix (#60853)
 
@@ -62,7 +65,6 @@ Cataclysm-DDA experimental build 2022-09-06-0620 (bdbab9f)
 
 Cataclysm-DDA experimental build 2022-09-06-0006 (19532fe)
 * In Tab Nesting (#60761)
-* Support loading legacy save from #43067 (#60639)
 * Don't place liquid fields on non-water tiles (#60659)
 * Sheet metal armor, round 3: Revengeance of the Case Hardening (#60734)
 * removed useless BELT_CLIP flag from war hammer (#60760)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2022-09-05-0532 (c3e0504)
 * Suppress spurious error from make when astyle isn't installed (#60744)
 * A few roe changes (#60747)
 * Drophammer fix (#60751)
-
-Cataclysm-DDA experimental build 2022-09-05-0415 (6b38a8b)
 * Fix whistle (#60759)
 * Nested Recipes - Chitin Armor and more. (#60708)
 * Improvement to "person" monster hallucinations (#60739)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-09-0824 ([5715fc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-0824))
+
+* Balance "Fix to 5.56 crafting recipe" ([#60809](https://github.com/CleverRaven/Cataclysm-DDA/pull/60809))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-09-0535 ([d07b746](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-0535))
 
 * Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
@@ -110,7 +116,6 @@
 #### Cataclysm-DDA experimental build 2022-09-06-0006 ([19532fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0006))
 
 * In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
-* Support loading legacy save from #43067 ([#60639](https://github.com/CleverRaven/Cataclysm-DDA/pull/60639))
 * Don't place liquid fields on non-water tiles ([#60659](https://github.com/CleverRaven/Cataclysm-DDA/pull/60659))
 * Sheet metal armor, round 3: Revengeance of the Case Hardening ([#60734](https://github.com/CleverRaven/Cataclysm-DDA/pull/60734))
 * removed useless BELT_CLIP flag from war hammer ([#60760](https://github.com/CleverRaven/Cataclysm-DDA/pull/60760))
@@ -162,11 +167,6 @@
 * Suppress spurious error from make when astyle isn't installed ([#60744](https://github.com/CleverRaven/Cataclysm-DDA/pull/60744))
 * A few roe changes ([#60747](https://github.com/CleverRaven/Cataclysm-DDA/pull/60747))
 * Drophammer fix ([#60751](https://github.com/CleverRaven/Cataclysm-DDA/pull/60751))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-05-0415 ([6b38a8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-0415))
-
 * Fix whistle ([#60759](https://github.com/CleverRaven/Cataclysm-DDA/pull/60759))
 * Nested Recipes - Chitin Armor and more. ([#60708](https://github.com/CleverRaven/Cataclysm-DDA/pull/60708))
 * Improvement to "person" monster hallucinations ([#60739](https://github.com/CleverRaven/Cataclysm-DDA/pull/60739))
