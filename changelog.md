@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-09-1917 ([29bcf8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-1917))
+
 * Add context for rock ([#60883](https://github.com/CleverRaven/Cataclysm-DDA/pull/60883))
 * [DinoMod] monster mass ([#60860](https://github.com/CleverRaven/Cataclysm-DDA/pull/60860))
 
@@ -157,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2022-09-05-1510 ([3bfee5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1510))
 
 * Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-05-1143 ([8873158](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1143))
-
 * [CR] Create Wall wiring ([#60671](https://github.com/CleverRaven/Cataclysm-DDA/pull/60671))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
 * Routine tileset updates on 04 September 2022 ([#60768](https://github.com/CleverRaven/Cataclysm-DDA/pull/60768))
