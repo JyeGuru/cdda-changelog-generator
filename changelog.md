@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-09-1109 ([5986364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-1109))
+
 * Allow ethanol for alumentum recipe ([#60857](https://github.com/CleverRaven/Cataclysm-DDA/pull/60857))
 * Added batch time savings to several cooking recipes that needed it. ([#60859](https://github.com/CleverRaven/Cataclysm-DDA/pull/60859))
 * Fix collapse triggering debugmsg ([#60874](https://github.com/CleverRaven/Cataclysm-DDA/pull/60874))
@@ -163,11 +168,6 @@
 
 * [CR] Create Wall wiring ([#60671](https://github.com/CleverRaven/Cataclysm-DDA/pull/60671))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-05-0903 ([e9cfae9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-0903))
-
 * Routine tileset updates on 04 September 2022 ([#60768](https://github.com/CleverRaven/Cataclysm-DDA/pull/60768))
 * Fix veh/appliance construction (remove lastconsumed hack) ([#60762](https://github.com/CleverRaven/Cataclysm-DDA/pull/60762))
 * Suppress spurious error from make when astyle isn't installed ([#60744](https://github.com/CleverRaven/Cataclysm-DDA/pull/60744))
