@@ -1,3 +1,5 @@
+* Add context for rock (#60883)
+* [DinoMod] monster mass (#60860)
 
 Cataclysm-DDA experimental build 2022-09-09-1109 (5986364)
 * Allow ethanol for alumentum recipe (#60857)
@@ -29,9 +31,6 @@ Cataclysm-DDA experimental build 2022-09-08-0745 (d0a8325)
 
 Cataclysm-DDA experimental build 2022-09-08-0511 (8da9f0e)
 * Add passenger cars to subway stations (#60825)
-
-Cataclysm-DDA experimental build 2022-09-07-1805 (b5cebce)
-* Aquariums & Glass Cutting (#60655)
 
 Cataclysm-DDA experimental build 2022-09-07-1150 (5664fa2)
 * Minor vehicle fixes (#60817)

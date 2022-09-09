@@ -1,3 +1,5 @@
+* Add context for rock ([#60883](https://github.com/CleverRaven/Cataclysm-DDA/pull/60883))
+* [DinoMod] monster mass ([#60860](https://github.com/CleverRaven/Cataclysm-DDA/pull/60860))
 
 ---
 
@@ -50,12 +52,6 @@
 #### Cataclysm-DDA experimental build 2022-09-08-0511 ([8da9f0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-08-0511))
 
 * Add passenger cars to subway stations ([#60825](https://github.com/CleverRaven/Cataclysm-DDA/pull/60825))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-07-1805 ([b5cebce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-1805))
-
-* Aquariums & Glass Cutting ([#60655](https://github.com/CleverRaven/Cataclysm-DDA/pull/60655))
 
 ---
 
