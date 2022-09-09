@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-09-0535 ([d07b746](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-0535))
+
+* Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-08-1300 ([b1fb6f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-08-1300))
 
 * Buffed environmental protection of Air Filtration System ([#60821](https://github.com/CleverRaven/Cataclysm-DDA/pull/60821))
@@ -34,7 +40,6 @@
 #### Cataclysm-DDA experimental build 2022-09-07-1150 ([5664fa2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-1150))
 
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
-* Pack rat monster, the missing ratkin link ([#60638](https://github.com/CleverRaven/Cataclysm-DDA/pull/60638))
 * Antenna changes ([#60658](https://github.com/CleverRaven/Cataclysm-DDA/pull/60658))
 * Fixes for from_sheet and neoprene craft ([#60691](https://github.com/CleverRaven/Cataclysm-DDA/pull/60691))
 
@@ -163,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-09-05-0415 ([6b38a8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-0415))
 
 * Fix whistle ([#60759](https://github.com/CleverRaven/Cataclysm-DDA/pull/60759))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-05-0313 ([1978168](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-0313))
-
 * Nested Recipes - Chitin Armor and more. ([#60708](https://github.com/CleverRaven/Cataclysm-DDA/pull/60708))
 * Improvement to "person" monster hallucinations ([#60739](https://github.com/CleverRaven/Cataclysm-DDA/pull/60739))
 * Make wooden wheels attachable without a wrench ([#60675](https://github.com/CleverRaven/Cataclysm-DDA/pull/60675))
