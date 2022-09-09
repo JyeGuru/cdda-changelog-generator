@@ -156,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2022-09-05-1611 ([c0d87ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1611))
 
 * Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-05-1510 ([3bfee5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1510))
-
 * Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
 * [CR] Create Wall wiring ([#60671](https://github.com/CleverRaven/Cataclysm-DDA/pull/60671))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
