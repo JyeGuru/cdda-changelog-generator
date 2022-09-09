@@ -1,3 +1,14 @@
+* Allow ethanol for alumentum recipe ([#60857](https://github.com/CleverRaven/Cataclysm-DDA/pull/60857))
+* Added batch time savings to several cooking recipes that needed it. ([#60859](https://github.com/CleverRaven/Cataclysm-DDA/pull/60859))
+* Fix collapse triggering debugmsg ([#60874](https://github.com/CleverRaven/Cataclysm-DDA/pull/60874))
+* Fix bionic fuels giving 1/1000 energy ([#60876](https://github.com/CleverRaven/Cataclysm-DDA/pull/60876))
+* Case Hardened material repairs ([#60871](https://github.com/CleverRaven/Cataclysm-DDA/pull/60871))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-09-1008 ([9bd53de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-1008))
+
+* Increase wood density ([#60856](https://github.com/CleverRaven/Cataclysm-DDA/pull/60856))
 
 ---
 
@@ -158,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2022-09-05-0903 ([e9cfae9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-0903))
 
 * Routine tileset updates on 04 September 2022 ([#60768](https://github.com/CleverRaven/Cataclysm-DDA/pull/60768))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-05-0532 ([c3e0504](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-0532))
-
 * Fix veh/appliance construction (remove lastconsumed hack) ([#60762](https://github.com/CleverRaven/Cataclysm-DDA/pull/60762))
 * Suppress spurious error from make when astyle isn't installed ([#60744](https://github.com/CleverRaven/Cataclysm-DDA/pull/60744))
 * A few roe changes ([#60747](https://github.com/CleverRaven/Cataclysm-DDA/pull/60747))
@@ -187,8 +193,6 @@
 * Routine i18n updates on 03 September 2022 ([#60713](https://github.com/CleverRaven/Cataclysm-DDA/pull/60713))
 * Helicopter bugfixes ([#60705](https://github.com/CleverRaven/Cataclysm-DDA/pull/60705))
 * Item Description Cleanup Project - Containers, Corpses, and Generic ([#60697](https://github.com/CleverRaven/Cataclysm-DDA/pull/60697))
-* TropiCata 0.8: amphibian updates ([#60641](https://github.com/CleverRaven/Cataclysm-DDA/pull/60641))
-* Fix setting sub-tile retracted offset in multi-tiles ([#60648](https://github.com/CleverRaven/Cataclysm-DDA/pull/60648))
 * Disable installing parts on racked vehicles ([#60657](https://github.com/CleverRaven/Cataclysm-DDA/pull/60657))
 * zones: consider only_item when checking custom zones ([#60656](https://github.com/CleverRaven/Cataclysm-DDA/pull/60656))
 * Update get_melee_hit_base to account for unarmed attacks having melee… ([#60670](https://github.com/CleverRaven/Cataclysm-DDA/pull/60670))
@@ -204,6 +208,3 @@
 * add a door to the internet cafe's bathroom ([#60688](https://github.com/CleverRaven/Cataclysm-DDA/pull/60688))
 * Fix faction epilogues displaying incorrectly ([#60673](https://github.com/CleverRaven/Cataclysm-DDA/pull/60673))
 * B&T APC9 PRO K bug fixes  ([#60668](https://github.com/CleverRaven/Cataclysm-DDA/pull/60668))
-* Added golf ball to dodge practice ([#60642](https://github.com/CleverRaven/Cataclysm-DDA/pull/60642))
-* Remove rad_badge from known bad density ([#60651](https://github.com/CleverRaven/Cataclysm-DDA/pull/60651))
-* Some new addiction snippets ([#60640](https://github.com/CleverRaven/Cataclysm-DDA/pull/60640))
