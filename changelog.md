@@ -1,3 +1,10 @@
+* Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-09-2339 ([cd9dfbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-2339))
+
+* Fix crash on opening batch crafting screen ([#60819](https://github.com/CleverRaven/Cataclysm-DDA/pull/60819))
 
 ---
 
@@ -150,11 +157,6 @@
 * [Magiclysm] Move earth exist, but do not spawn naturally ([#60746](https://github.com/CleverRaven/Cataclysm-DDA/pull/60746))
 * Better version.h generator script for MSVC builds ([#60754](https://github.com/CleverRaven/Cataclysm-DDA/pull/60754))
 * Item snails mutate into Big Snails ([#60745](https://github.com/CleverRaven/Cataclysm-DDA/pull/60745))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-05-1611 ([c0d87ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1611))
-
 * Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
 * Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
 * [CR] Create Wall wiring ([#60671](https://github.com/CleverRaven/Cataclysm-DDA/pull/60671))
@@ -184,8 +186,6 @@
 * Routine i18n updates on 03 September 2022 ([#60713](https://github.com/CleverRaven/Cataclysm-DDA/pull/60713))
 * Helicopter bugfixes ([#60705](https://github.com/CleverRaven/Cataclysm-DDA/pull/60705))
 * Item Description Cleanup Project - Containers, Corpses, and Generic ([#60697](https://github.com/CleverRaven/Cataclysm-DDA/pull/60697))
-* Disable installing parts on racked vehicles ([#60657](https://github.com/CleverRaven/Cataclysm-DDA/pull/60657))
-* zones: consider only_item when checking custom zones ([#60656](https://github.com/CleverRaven/Cataclysm-DDA/pull/60656))
 * Update get_melee_hit_base to account for unarmed attacks having melee… ([#60670](https://github.com/CleverRaven/Cataclysm-DDA/pull/60670))
 * Update blade trap to use the small electric motor instead of the norm… ([#60669](https://github.com/CleverRaven/Cataclysm-DDA/pull/60669))
 * map: don't assume moncams are on the caching map ([#60674](https://github.com/CleverRaven/Cataclysm-DDA/pull/60674))
