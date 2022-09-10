@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-10-0530 ([8f44037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-10-0530))
+
+* Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-10-0043 ([8c2607e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-10-0043))
 
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
@@ -144,14 +150,8 @@
 #### Cataclysm-DDA experimental build 2022-09-06-0006 ([19532fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0006))
 
 * In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
-* Don't place liquid fields on non-water tiles ([#60659](https://github.com/CleverRaven/Cataclysm-DDA/pull/60659))
 * Sheet metal armor, round 3: Revengeance of the Case Hardening ([#60734](https://github.com/CleverRaven/Cataclysm-DDA/pull/60734))
 * removed useless BELT_CLIP flag from war hammer ([#60760](https://github.com/CleverRaven/Cataclysm-DDA/pull/60760))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-05-1850 ([b83eee8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1850))
-
 * [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions ([#60772](https://github.com/CleverRaven/Cataclysm-DDA/pull/60772))
 * [Magiclysm] Move earth exist, but do not spawn naturally ([#60746](https://github.com/CleverRaven/Cataclysm-DDA/pull/60746))
 * Better version.h generator script for MSVC builds ([#60754](https://github.com/CleverRaven/Cataclysm-DDA/pull/60754))
