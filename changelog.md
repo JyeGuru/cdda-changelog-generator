@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-10-0043 ([8c2607e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-10-0043))
+
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
 
 ---
@@ -70,7 +75,6 @@
 #### Cataclysm-DDA experimental build 2022-09-07-1150 ([5664fa2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-1150))
 
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
-* Antenna changes ([#60658](https://github.com/CleverRaven/Cataclysm-DDA/pull/60658))
 * Fixes for from_sheet and neoprene craft ([#60691](https://github.com/CleverRaven/Cataclysm-DDA/pull/60691))
 
 ---
@@ -149,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2022-09-05-1850 ([b83eee8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1850))
 
 * [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions ([#60772](https://github.com/CleverRaven/Cataclysm-DDA/pull/60772))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-05-1718 ([324793f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-05-1718))
-
 * [Magiclysm] Move earth exist, but do not spawn naturally ([#60746](https://github.com/CleverRaven/Cataclysm-DDA/pull/60746))
 * Better version.h generator script for MSVC builds ([#60754](https://github.com/CleverRaven/Cataclysm-DDA/pull/60754))
 * Item snails mutate into Big Snails ([#60745](https://github.com/CleverRaven/Cataclysm-DDA/pull/60745))
