@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-11-0817 ([b9c5366](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-11-0817))
+
 * [DinoMod] basement mapgen fixes ([#60906](https://github.com/CleverRaven/Cataclysm-DDA/pull/60906))
 * [Backrooms] Map extra fix and additions ([#60895](https://github.com/CleverRaven/Cataclysm-DDA/pull/60895))
 
@@ -159,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2022-09-06-0620 ([bdbab9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0620))
 
 * Post Apoc Caviar ([#60756](https://github.com/CleverRaven/Cataclysm-DDA/pull/60756))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-06-0006 ([19532fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0006))
-
 * In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
 * Sheet metal armor, round 3: Revengeance of the Case Hardening ([#60734](https://github.com/CleverRaven/Cataclysm-DDA/pull/60734))
 * removed useless BELT_CLIP flag from war hammer ([#60760](https://github.com/CleverRaven/Cataclysm-DDA/pull/60760))
