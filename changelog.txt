@@ -1,3 +1,4 @@
+* Enable 'Cataclysm Windows build' on drafts (#60917)
 
 Cataclysm-DDA experimental build 2022-09-11-0817 (b9c5366)
 * [DinoMod] basement mapgen fixes (#60906)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-09-06-0620 (bdbab9f)
 * Fix artifact on minimap (#60702)
 * improve grammar in broken prototype robot description (#60706)
 * add a door to the internet cafe's bathroom (#60688)
-* Fix faction epilogues displaying incorrectly (#60673)

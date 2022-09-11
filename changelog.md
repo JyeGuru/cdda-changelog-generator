@@ -1,3 +1,4 @@
+* Enable 'Cataclysm Windows build' on drafts ([#60917](https://github.com/CleverRaven/Cataclysm-DDA/pull/60917))
 
 ---
 
@@ -208,4 +209,3 @@
 * Fix artifact on minimap ([#60702](https://github.com/CleverRaven/Cataclysm-DDA/pull/60702))
 * improve grammar in broken prototype robot description ([#60706](https://github.com/CleverRaven/Cataclysm-DDA/pull/60706))
 * add a door to the internet cafe's bathroom ([#60688](https://github.com/CleverRaven/Cataclysm-DDA/pull/60688))
-* Fix faction epilogues displaying incorrectly ([#60673](https://github.com/CleverRaven/Cataclysm-DDA/pull/60673))
