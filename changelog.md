@@ -1,3 +1,12 @@
+* [DinoMod] basement mapgen fixes ([#60906](https://github.com/CleverRaven/Cataclysm-DDA/pull/60906))
+* [Backrooms] Map extra fix and additions ([#60895](https://github.com/CleverRaven/Cataclysm-DDA/pull/60895))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-11-0713 ([abf8d29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-11-0713))
+
+* [FEATURE] add cow armors ([#60806](https://github.com/CleverRaven/Cataclysm-DDA/pull/60806))
+* Stop running appveyor builds because they're redundant with GHA builds. ([#60901](https://github.com/CleverRaven/Cataclysm-DDA/pull/60901))
 
 ---
 
@@ -164,7 +173,6 @@
 * Item snails mutate into Big Snails ([#60745](https://github.com/CleverRaven/Cataclysm-DDA/pull/60745))
 * Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
 * Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
-* [CR] Create Wall wiring ([#60671](https://github.com/CleverRaven/Cataclysm-DDA/pull/60671))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
 * Routine tileset updates on 04 September 2022 ([#60768](https://github.com/CleverRaven/Cataclysm-DDA/pull/60768))
 * Fix veh/appliance construction (remove lastconsumed hack) ([#60762](https://github.com/CleverRaven/Cataclysm-DDA/pull/60762))
@@ -191,8 +199,6 @@
 * Routine i18n updates on 03 September 2022 ([#60713](https://github.com/CleverRaven/Cataclysm-DDA/pull/60713))
 * Helicopter bugfixes ([#60705](https://github.com/CleverRaven/Cataclysm-DDA/pull/60705))
 * Item Description Cleanup Project - Containers, Corpses, and Generic ([#60697](https://github.com/CleverRaven/Cataclysm-DDA/pull/60697))
-* Update get_melee_hit_base to account for unarmed attacks having melee… ([#60670](https://github.com/CleverRaven/Cataclysm-DDA/pull/60670))
-* Update blade trap to use the small electric motor instead of the norm… ([#60669](https://github.com/CleverRaven/Cataclysm-DDA/pull/60669))
 * map: don't assume moncams are on the caching map ([#60674](https://github.com/CleverRaven/Cataclysm-DDA/pull/60674))
 * colorschemes: add gruvbox light ([#60676](https://github.com/CleverRaven/Cataclysm-DDA/pull/60676))
 * Friendly debug-spawned monsters and dermatik larvae get full monster examine menu ([#60678](https://github.com/CleverRaven/Cataclysm-DDA/pull/60678))
