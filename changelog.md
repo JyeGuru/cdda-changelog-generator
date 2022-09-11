@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-11-0519 ([74deb15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-11-0519))
+
+* Correct encumbrance for ballistic vests ([#60890](https://github.com/CleverRaven/Cataclysm-DDA/pull/60890))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-10-0530 ([8f44037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-10-0530))
 
 * Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
@@ -197,4 +203,3 @@
 * improve grammar in broken prototype robot description ([#60706](https://github.com/CleverRaven/Cataclysm-DDA/pull/60706))
 * add a door to the internet cafe's bathroom ([#60688](https://github.com/CleverRaven/Cataclysm-DDA/pull/60688))
 * Fix faction epilogues displaying incorrectly ([#60673](https://github.com/CleverRaven/Cataclysm-DDA/pull/60673))
-* B&T APC9 PRO K bug fixes  ([#60668](https://github.com/CleverRaven/Cataclysm-DDA/pull/60668))

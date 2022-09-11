@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-11-0519 (74deb15)
+* Correct encumbrance for ballistic vests (#60890)
+
 Cataclysm-DDA experimental build 2022-09-10-0530 (8f44037)
 * Routine i18n updates on 10 September 2022 (#60891)
 
@@ -131,4 +134,3 @@ Cataclysm-DDA experimental build 2022-09-06-0006 (19532fe)
 * improve grammar in broken prototype robot description (#60706)
 * add a door to the internet cafe's bathroom (#60688)
 * Fix faction epilogues displaying incorrectly (#60673)
-* B&T APC9 PRO K bug fixes  (#60668)
