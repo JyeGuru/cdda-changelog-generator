@@ -1,3 +1,12 @@
+* docs: front and center screenshot of the game ([#60927](https://github.com/CleverRaven/Cataclysm-DDA/pull/60927))
+* Jsonize electroreceptors ([#60929](https://github.com/CleverRaven/Cataclysm-DDA/pull/60929))
+* Cloth padded shirt ([#60930](https://github.com/CleverRaven/Cataclysm-DDA/pull/60930))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-12-1736 ([32a7873](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1736))
+
+* Allow both mouse movement and click-and-drag without local keybinds ([#60946](https://github.com/CleverRaven/Cataclysm-DDA/pull/60946))
 
 ---
 
@@ -159,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-09-06-1121 ([2b52aa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1121))
 
 * Add urban explorer profession ([#60764](https://github.com/CleverRaven/Cataclysm-DDA/pull/60764))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-06-0954 ([ad35424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0954))
-
 * increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
 * Tec 9 rebalance ([#60709](https://github.com/CleverRaven/Cataclysm-DDA/pull/60709))
 * Post Apoc Caviar ([#60756](https://github.com/CleverRaven/Cataclysm-DDA/pull/60756))
@@ -187,7 +191,6 @@
 * Improvement to "person" monster hallucinations ([#60739](https://github.com/CleverRaven/Cataclysm-DDA/pull/60739))
 * Add Old Veteran profession ([#60692](https://github.com/CleverRaven/Cataclysm-DDA/pull/60692))
 * fix: make offset sight rail spawn ([#60738](https://github.com/CleverRaven/Cataclysm-DDA/pull/60738))
-* Fixes copper not spawning for bullet crafting ([#60679](https://github.com/CleverRaven/Cataclysm-DDA/pull/60679))
 * Use some nonthrowing int parsing in condition.cpp ([#60731](https://github.com/CleverRaven/Cataclysm-DDA/pull/60731))
 * UI Upgrades for Nests ([#60683](https://github.com/CleverRaven/Cataclysm-DDA/pull/60683))
 * Rename survivor telescope, make them less common in favor of binoculars. ([#60729](https://github.com/CleverRaven/Cataclysm-DDA/pull/60729))
@@ -201,8 +204,6 @@
 * Routine i18n updates on 03 September 2022 ([#60713](https://github.com/CleverRaven/Cataclysm-DDA/pull/60713))
 * Helicopter bugfixes ([#60705](https://github.com/CleverRaven/Cataclysm-DDA/pull/60705))
 * Item Description Cleanup Project - Containers, Corpses, and Generic ([#60697](https://github.com/CleverRaven/Cataclysm-DDA/pull/60697))
-* Friendly debug-spawned monsters and dermatik larvae get full monster examine menu ([#60678](https://github.com/CleverRaven/Cataclysm-DDA/pull/60678))
-* Fixes instrument materials ([#60682](https://github.com/CleverRaven/Cataclysm-DDA/pull/60682))
 * change name of engine_electric_train to match other engines ([#60689](https://github.com/CleverRaven/Cataclysm-DDA/pull/60689))
 * Added metal roofs to card readers ([#60690](https://github.com/CleverRaven/Cataclysm-DDA/pull/60690))
 * Fix artifact on minimap ([#60702](https://github.com/CleverRaven/Cataclysm-DDA/pull/60702))
