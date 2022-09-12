@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-12-1841 ([dc36ebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1841))
+
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Keybindings window tweak ([#60774](https://github.com/CleverRaven/Cataclysm-DDA/pull/60774))
 * Make magiclysm auras compatible with power armor ([#60783](https://github.com/CleverRaven/Cataclysm-DDA/pull/60783))
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-09-06-1232 ([38b17b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1232))
 
 * Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-06-1121 ([2b52aa6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1121))
-
 * Add urban explorer profession ([#60764](https://github.com/CleverRaven/Cataclysm-DDA/pull/60764))
 * increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
 * Tec 9 rebalance ([#60709](https://github.com/CleverRaven/Cataclysm-DDA/pull/60709))
