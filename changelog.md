@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-12-1959 ([d9f3bb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1959))
+
 * add very important body pillow variants ([#60932](https://github.com/CleverRaven/Cataclysm-DDA/pull/60932))
 * Sheet Metal Armor Part 4: The Finale of the increasingly-inaccurately named trilogy ([#60926](https://github.com/CleverRaven/Cataclysm-DDA/pull/60926))
 * Serialize bike racks to json instead of strings ([#60905](https://github.com/CleverRaven/Cataclysm-DDA/pull/60905))
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-09-06-1356 ([49242cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1356))
 
 * [Xedra Evolved] Make death rays obtainable, fix wrong spell component IDs for ray gun & death ray ([#60787](https://github.com/CleverRaven/Cataclysm-DDA/pull/60787))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-06-1232 ([38b17b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1232))
-
 * Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
 * Add urban explorer profession ([#60764](https://github.com/CleverRaven/Cataclysm-DDA/pull/60764))
 * increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
