@@ -1,3 +1,4 @@
+* Serialize bike racks to json instead of strings ([#60905](https://github.com/CleverRaven/Cataclysm-DDA/pull/60905))
 
 ---
 
