@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-12-1111 ([4840ee2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1111))
+
+* Limbify/flagify field immunity ([#60852](https://github.com/CleverRaven/Cataclysm-DDA/pull/60852))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-12-0527 ([2924a24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-0527))
 
 * Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))
@@ -159,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-09-06-0954 ([ad35424](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0954))
 
 * increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-06-0724 ([e2e7914](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-0724))
-
 * Tec 9 rebalance ([#60709](https://github.com/CleverRaven/Cataclysm-DDA/pull/60709))
 * Post Apoc Caviar ([#60756](https://github.com/CleverRaven/Cataclysm-DDA/pull/60756))
 * In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
@@ -200,7 +201,6 @@
 * Routine i18n updates on 03 September 2022 ([#60713](https://github.com/CleverRaven/Cataclysm-DDA/pull/60713))
 * Helicopter bugfixes ([#60705](https://github.com/CleverRaven/Cataclysm-DDA/pull/60705))
 * Item Description Cleanup Project - Containers, Corpses, and Generic ([#60697](https://github.com/CleverRaven/Cataclysm-DDA/pull/60697))
-* colorschemes: add gruvbox light ([#60676](https://github.com/CleverRaven/Cataclysm-DDA/pull/60676))
 * Friendly debug-spawned monsters and dermatik larvae get full monster examine menu ([#60678](https://github.com/CleverRaven/Cataclysm-DDA/pull/60678))
 * Fixes instrument materials ([#60682](https://github.com/CleverRaven/Cataclysm-DDA/pull/60682))
 * change name of engine_electric_train to match other engines ([#60689](https://github.com/CleverRaven/Cataclysm-DDA/pull/60689))
