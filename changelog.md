@@ -1,3 +1,5 @@
+* add very important body pillow variants ([#60932](https://github.com/CleverRaven/Cataclysm-DDA/pull/60932))
+* Sheet Metal Armor Part 4: The Finale of the increasingly-inaccurately named trilogy ([#60926](https://github.com/CleverRaven/Cataclysm-DDA/pull/60926))
 * Serialize bike racks to json instead of strings ([#60905](https://github.com/CleverRaven/Cataclysm-DDA/pull/60905))
 
 ---
@@ -183,7 +185,6 @@
 * Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
 * Add urban explorer profession ([#60764](https://github.com/CleverRaven/Cataclysm-DDA/pull/60764))
 * increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
-* Tec 9 rebalance ([#60709](https://github.com/CleverRaven/Cataclysm-DDA/pull/60709))
 * Post Apoc Caviar ([#60756](https://github.com/CleverRaven/Cataclysm-DDA/pull/60756))
 * In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
 * Sheet metal armor, round 3: Revengeance of the Case Hardening ([#60734](https://github.com/CleverRaven/Cataclysm-DDA/pull/60734))
@@ -201,7 +202,6 @@
 * A few roe changes ([#60747](https://github.com/CleverRaven/Cataclysm-DDA/pull/60747))
 * Drophammer fix ([#60751](https://github.com/CleverRaven/Cataclysm-DDA/pull/60751))
 * Fix whistle ([#60759](https://github.com/CleverRaven/Cataclysm-DDA/pull/60759))
-* Nested Recipes - Chitin Armor and more. ([#60708](https://github.com/CleverRaven/Cataclysm-DDA/pull/60708))
 * Improvement to "person" monster hallucinations ([#60739](https://github.com/CleverRaven/Cataclysm-DDA/pull/60739))
 * fix: make offset sight rail spawn ([#60738](https://github.com/CleverRaven/Cataclysm-DDA/pull/60738))
 * Use some nonthrowing int parsing in condition.cpp ([#60731](https://github.com/CleverRaven/Cataclysm-DDA/pull/60731))
