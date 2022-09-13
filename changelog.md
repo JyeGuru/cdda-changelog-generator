@@ -1,3 +1,7 @@
+* Beginner-level armor made of combined clothing ([#60837](https://github.com/CleverRaven/Cataclysm-DDA/pull/60837))
+* make atomic coffee slightly more reasonable ([#60765](https://github.com/CleverRaven/Cataclysm-DDA/pull/60765))
+* tweak: shorten confirmation command ([#60954](https://github.com/CleverRaven/Cataclysm-DDA/pull/60954))
+* Adding myself to confirm bug list ([#60950](https://github.com/CleverRaven/Cataclysm-DDA/pull/60950))
 
 ---
 
@@ -170,17 +174,6 @@
 * Salt water should be mixible and not auto-drinkable. ([#60782](https://github.com/CleverRaven/Cataclysm-DDA/pull/60782))
 * Change materials for nails, nuts and bolts ([#60805](https://github.com/CleverRaven/Cataclysm-DDA/pull/60805))
 * Tropicata: Roe and Gar ([#60743](https://github.com/CleverRaven/Cataclysm-DDA/pull/60743))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-07-0424 ([c27332b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-0424))
-
-* Allow roundtripping damage in folded vehicle items ([#60710](https://github.com/CleverRaven/Cataclysm-DDA/pull/60710))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-06-1356 ([49242cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-06-1356))
-
 * [Xedra Evolved] Make death rays obtainable, fix wrong spell component IDs for ray gun & death ray ([#60787](https://github.com/CleverRaven/Cataclysm-DDA/pull/60787))
 * Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
 * Add urban explorer profession ([#60764](https://github.com/CleverRaven/Cataclysm-DDA/pull/60764))
@@ -208,6 +201,3 @@
 * Rename survivor telescope, make them less common in favor of binoculars. ([#60729](https://github.com/CleverRaven/Cataclysm-DDA/pull/60729))
 * Nerf medical gloves ([#60727](https://github.com/CleverRaven/Cataclysm-DDA/pull/60727))
 * Leaping legs mutation will now delete the spell when lost (now it really works) ([#60719](https://github.com/CleverRaven/Cataclysm-DDA/pull/60719))
-* Add missing <array> header in translation_plural_evaluator.h ([#60715](https://github.com/CleverRaven/Cataclysm-DDA/pull/60715))
-* Fix: use absolute map coords when connecting vehicle parts ([#60714](https://github.com/CleverRaven/Cataclysm-DDA/pull/60714))
-* Routine i18n updates on 03 September 2022 ([#60713](https://github.com/CleverRaven/Cataclysm-DDA/pull/60713))
