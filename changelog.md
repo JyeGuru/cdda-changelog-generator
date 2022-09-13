@@ -1,3 +1,11 @@
+* [Backrooms] Mapgen Fix 2 ([#60958](https://github.com/CleverRaven/Cataclysm-DDA/pull/60958))
+* Rebuild active_item cache for vehicles after refresh ([#60952](https://github.com/CleverRaven/Cataclysm-DDA/pull/60952))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-13-0554 ([564b786](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-13-0554))
+
+* Misc Updates in honor of Grandparents Day ([#60955](https://github.com/CleverRaven/Cataclysm-DDA/pull/60955))
 * Beginner-level armor made of combined clothing ([#60837](https://github.com/CleverRaven/Cataclysm-DDA/pull/60837))
 * make atomic coffee slightly more reasonable ([#60765](https://github.com/CleverRaven/Cataclysm-DDA/pull/60765))
 * tweak: shorten confirmation command ([#60954](https://github.com/CleverRaven/Cataclysm-DDA/pull/60954))
@@ -200,4 +208,3 @@
 * Use some nonthrowing int parsing in condition.cpp ([#60731](https://github.com/CleverRaven/Cataclysm-DDA/pull/60731))
 * Rename survivor telescope, make them less common in favor of binoculars. ([#60729](https://github.com/CleverRaven/Cataclysm-DDA/pull/60729))
 * Nerf medical gloves ([#60727](https://github.com/CleverRaven/Cataclysm-DDA/pull/60727))
-* Leaping legs mutation will now delete the spell when lost (now it really works) ([#60719](https://github.com/CleverRaven/Cataclysm-DDA/pull/60719))
