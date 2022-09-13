@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-13-0704 ([9c88952](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-13-0704))
+
 * [Backrooms] Mapgen Fix 2 ([#60958](https://github.com/CleverRaven/Cataclysm-DDA/pull/60958))
 * Rebuild active_item cache for vehicles after refresh ([#60952](https://github.com/CleverRaven/Cataclysm-DDA/pull/60952))
 
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-09-07-0704 ([8c78e92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-0704))
 
 * [Magiclysm] Small used_bookstore roof fix ([#60786](https://github.com/CleverRaven/Cataclysm-DDA/pull/60786))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-07-0545 ([279555e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-0545))
-
 * Set a minimum weight for a worn item to cause chafing ([#60796](https://github.com/CleverRaven/Cataclysm-DDA/pull/60796))
 * Disable cut/remove grass under vehicles ([#60767](https://github.com/CleverRaven/Cataclysm-DDA/pull/60767))
 * Fix weapon name in faction screen ([#60791](https://github.com/CleverRaven/Cataclysm-DDA/pull/60791))
