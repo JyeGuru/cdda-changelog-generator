@@ -1,3 +1,14 @@
+* Set random cosmetic traits when beginning creation of custom character ([#60959](https://github.com/CleverRaven/Cataclysm-DDA/pull/60959))
+* Fix radio activation mod not being consumed ([#60962](https://github.com/CleverRaven/Cataclysm-DDA/pull/60962))
+* Spill overflow/MIGRATION pockets from vehicle parts ([#60963](https://github.com/CleverRaven/Cataclysm-DDA/pull/60963))
+* Fix case hardened sheet metal gauntlet and sabaton materials. ([#60964](https://github.com/CleverRaven/Cataclysm-DDA/pull/60964))
+* Remove redundant medical threshold from Resilient and Solidly Built ([#60965](https://github.com/CleverRaven/Cataclysm-DDA/pull/60965))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-14-0119 ([8ef2dff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-14-0119))
+
+* Don't drop integrated armors on death ([#60968](https://github.com/CleverRaven/Cataclysm-DDA/pull/60968))
 
 ---
 
@@ -167,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-09-07-1150 ([5664fa2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-1150))
 
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-07-0704 ([8c78e92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-0704))
-
 * [Magiclysm] Small used_bookstore roof fix ([#60786](https://github.com/CleverRaven/Cataclysm-DDA/pull/60786))
 * Set a minimum weight for a worn item to cause chafing ([#60796](https://github.com/CleverRaven/Cataclysm-DDA/pull/60796))
 * Disable cut/remove grass under vehicles ([#60767](https://github.com/CleverRaven/Cataclysm-DDA/pull/60767))
@@ -188,7 +194,6 @@
 * increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
 * Post Apoc Caviar ([#60756](https://github.com/CleverRaven/Cataclysm-DDA/pull/60756))
 * In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
-* Sheet metal armor, round 3: Revengeance of the Case Hardening ([#60734](https://github.com/CleverRaven/Cataclysm-DDA/pull/60734))
 * removed useless BELT_CLIP flag from war hammer ([#60760](https://github.com/CleverRaven/Cataclysm-DDA/pull/60760))
 * [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions ([#60772](https://github.com/CleverRaven/Cataclysm-DDA/pull/60772))
 * [Magiclysm] Move earth exist, but do not spawn naturally ([#60746](https://github.com/CleverRaven/Cataclysm-DDA/pull/60746))
@@ -205,6 +210,3 @@
 * Fix whistle ([#60759](https://github.com/CleverRaven/Cataclysm-DDA/pull/60759))
 * Improvement to "person" monster hallucinations ([#60739](https://github.com/CleverRaven/Cataclysm-DDA/pull/60739))
 * fix: make offset sight rail spawn ([#60738](https://github.com/CleverRaven/Cataclysm-DDA/pull/60738))
-* Use some nonthrowing int parsing in condition.cpp ([#60731](https://github.com/CleverRaven/Cataclysm-DDA/pull/60731))
-* Rename survivor telescope, make them less common in favor of binoculars. ([#60729](https://github.com/CleverRaven/Cataclysm-DDA/pull/60729))
-* Nerf medical gloves ([#60727](https://github.com/CleverRaven/Cataclysm-DDA/pull/60727))
