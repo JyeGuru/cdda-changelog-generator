@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-09-14-0616 (5dee013)
+* Make the syringe a weapon (#60975)
 * Set random cosmetic traits when beginning creation of custom character (#60959)
 * Fix radio activation mod not being consumed (#60962)
 * Spill overflow/MIGRATION pockets from vehicle parts (#60963)
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2022-09-08-0745 (d0a8325)
 
 Cataclysm-DDA experimental build 2022-09-08-0511 (8da9f0e)
 * Add passenger cars to subway stations (#60825)
-
-Cataclysm-DDA experimental build 2022-09-07-1150 (5664fa2)
 * Minor vehicle fixes (#60817)
 * [Magiclysm] Small used_bookstore roof fix (#60786)
 * Set a minimum weight for a worn item to cause chafing (#60796)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2022-09-07-1150 (5664fa2)
 * Drophammer fix (#60751)
 * Fix whistle (#60759)
 * Improvement to "person" monster hallucinations (#60739)
-* fix: make offset sight rail spawn (#60738)

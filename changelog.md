@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-14-0616 ([5dee013](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-14-0616))
+
+* Make the syringe a weapon ([#60975](https://github.com/CleverRaven/Cataclysm-DDA/pull/60975))
 * Set random cosmetic traits when beginning creation of custom character ([#60959](https://github.com/CleverRaven/Cataclysm-DDA/pull/60959))
 * Fix radio activation mod not being consumed ([#60962](https://github.com/CleverRaven/Cataclysm-DDA/pull/60962))
 * Spill overflow/MIGRATION pockets from vehicle parts ([#60963](https://github.com/CleverRaven/Cataclysm-DDA/pull/60963))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-09-08-0511 ([8da9f0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-08-0511))
 
 * Add passenger cars to subway stations ([#60825](https://github.com/CleverRaven/Cataclysm-DDA/pull/60825))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-07-1150 ([5664fa2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-07-1150))
-
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
 * [Magiclysm] Small used_bookstore roof fix ([#60786](https://github.com/CleverRaven/Cataclysm-DDA/pull/60786))
 * Set a minimum weight for a worn item to cause chafing ([#60796](https://github.com/CleverRaven/Cataclysm-DDA/pull/60796))
@@ -209,4 +210,3 @@
 * Drophammer fix ([#60751](https://github.com/CleverRaven/Cataclysm-DDA/pull/60751))
 * Fix whistle ([#60759](https://github.com/CleverRaven/Cataclysm-DDA/pull/60759))
 * Improvement to "person" monster hallucinations ([#60739](https://github.com/CleverRaven/Cataclysm-DDA/pull/60739))
-* fix: make offset sight rail spawn ([#60738](https://github.com/CleverRaven/Cataclysm-DDA/pull/60738))
