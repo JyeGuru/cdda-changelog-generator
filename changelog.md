@@ -1,3 +1,6 @@
+* Flatten vehicle menus, make appliances menu top level ([#60868](https://github.com/CleverRaven/Cataclysm-DDA/pull/60868))
+* Update TALK_valhallist_mechanic.json ([#60980](https://github.com/CleverRaven/Cataclysm-DDA/pull/60980))
+* More mission origin fixes ([#60981](https://github.com/CleverRaven/Cataclysm-DDA/pull/60981))
 * Replace thermoplastic resin with plastic ([#60985](https://github.com/CleverRaven/Cataclysm-DDA/pull/60985))
 
 ---
@@ -203,15 +206,12 @@
 * In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
 * removed useless BELT_CLIP flag from war hammer ([#60760](https://github.com/CleverRaven/Cataclysm-DDA/pull/60760))
 * [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions ([#60772](https://github.com/CleverRaven/Cataclysm-DDA/pull/60772))
-* [Magiclysm] Move earth exist, but do not spawn naturally ([#60746](https://github.com/CleverRaven/Cataclysm-DDA/pull/60746))
 * Better version.h generator script for MSVC builds ([#60754](https://github.com/CleverRaven/Cataclysm-DDA/pull/60754))
-* Item snails mutate into Big Snails ([#60745](https://github.com/CleverRaven/Cataclysm-DDA/pull/60745))
 * Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
 * Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
 * Routine tileset updates on 04 September 2022 ([#60768](https://github.com/CleverRaven/Cataclysm-DDA/pull/60768))
 * Fix veh/appliance construction (remove lastconsumed hack) ([#60762](https://github.com/CleverRaven/Cataclysm-DDA/pull/60762))
-* Suppress spurious error from make when astyle isn't installed ([#60744](https://github.com/CleverRaven/Cataclysm-DDA/pull/60744))
 * A few roe changes ([#60747](https://github.com/CleverRaven/Cataclysm-DDA/pull/60747))
 * Drophammer fix ([#60751](https://github.com/CleverRaven/Cataclysm-DDA/pull/60751))
 * Fix whistle ([#60759](https://github.com/CleverRaven/Cataclysm-DDA/pull/60759))
