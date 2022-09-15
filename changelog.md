@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-15-1017 ([8d60ecb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1017))
+
 * Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-09-09-0824 ([5715fc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-0824))
 
 * Balance "Fix to 5.56 crafting recipe" ([#60809](https://github.com/CleverRaven/Cataclysm-DDA/pull/60809))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-09-0535 ([d07b746](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-0535))
-
 * Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
 * Buffed environmental protection of Air Filtration System ([#60821](https://github.com/CleverRaven/Cataclysm-DDA/pull/60821))
 * Ingot separation ([#60839](https://github.com/CleverRaven/Cataclysm-DDA/pull/60839))

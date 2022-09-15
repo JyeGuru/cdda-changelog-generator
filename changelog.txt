@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-15-1017 (8d60ecb)
 * Remove extra materials from weapons (#61014)
 
 Cataclysm-DDA experimental build 2022-09-15-0455 (4c355cf)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2022-09-09-1008 (9bd53de)
 
 Cataclysm-DDA experimental build 2022-09-09-0824 (5715fc4)
 * Balance "Fix to 5.56 crafting recipe" (#60809)
-
-Cataclysm-DDA experimental build 2022-09-09-0535 (d07b746)
 * Mi-Go Resin dialogue fix (#60853)
 * Buffed environmental protection of Air Filtration System (#60821)
 * Ingot separation (#60839)
