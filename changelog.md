@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-15-0113 ([1e53c81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-0113))
+
+* Allow sharpened pipes to be used with Fencing ([#61008](https://github.com/CleverRaven/Cataclysm-DDA/pull/61008))
 * Flatten vehicle menus, make appliances menu top level ([#60868](https://github.com/CleverRaven/Cataclysm-DDA/pull/60868))
 * Update TALK_valhallist_mechanic.json ([#60980](https://github.com/CleverRaven/Cataclysm-DDA/pull/60980))
 * More mission origin fixes ([#60981](https://github.com/CleverRaven/Cataclysm-DDA/pull/60981))
@@ -176,17 +182,7 @@
 * Unmark empty strings for translation ([#60827](https://github.com/CleverRaven/Cataclysm-DDA/pull/60827))
 * Fix harmless errors on evac shelter computer ([#60831](https://github.com/CleverRaven/Cataclysm-DDA/pull/60831))
 * Fix bad tag error in bio lab files ([#60833](https://github.com/CleverRaven/Cataclysm-DDA/pull/60833))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-08-0745 ([d0a8325](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-08-0745))
-
 * Aftershock Exosuit flag inheritance fixes ([#60836](https://github.com/CleverRaven/Cataclysm-DDA/pull/60836))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-08-0511 ([8da9f0e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-08-0511))
-
 * Add passenger cars to subway stations ([#60825](https://github.com/CleverRaven/Cataclysm-DDA/pull/60825))
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
 * [Magiclysm] Small used_bookstore roof fix ([#60786](https://github.com/CleverRaven/Cataclysm-DDA/pull/60786))
@@ -212,6 +208,5 @@
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
 * Routine tileset updates on 04 September 2022 ([#60768](https://github.com/CleverRaven/Cataclysm-DDA/pull/60768))
 * Fix veh/appliance construction (remove lastconsumed hack) ([#60762](https://github.com/CleverRaven/Cataclysm-DDA/pull/60762))
-* A few roe changes ([#60747](https://github.com/CleverRaven/Cataclysm-DDA/pull/60747))
 * Drophammer fix ([#60751](https://github.com/CleverRaven/Cataclysm-DDA/pull/60751))
 * Fix whistle ([#60759](https://github.com/CleverRaven/Cataclysm-DDA/pull/60759))
