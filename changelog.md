@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-15-1118 ([ca61b82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1118))
+
+* Add an I4 diesel engine ([#60999](https://github.com/CleverRaven/Cataclysm-DDA/pull/60999))
+* [Magiclysm] Enchanted bracelets' flags tweaks ([#60808](https://github.com/CleverRaven/Cataclysm-DDA/pull/60808))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-15-1017 ([8d60ecb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1017))
 
 * Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
@@ -176,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2022-09-09-1008 ([9bd53de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-1008))
 
 * Increase wood density ([#60856](https://github.com/CleverRaven/Cataclysm-DDA/pull/60856))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-09-0824 ([5715fc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-0824))
-
 * Balance "Fix to 5.56 crafting recipe" ([#60809](https://github.com/CleverRaven/Cataclysm-DDA/pull/60809))
 * Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
 * Buffed environmental protection of Air Filtration System ([#60821](https://github.com/CleverRaven/Cataclysm-DDA/pull/60821))
@@ -206,12 +208,9 @@
 * Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
 * Add urban explorer profession ([#60764](https://github.com/CleverRaven/Cataclysm-DDA/pull/60764))
 * increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
-* In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
-* removed useless BELT_CLIP flag from war hammer ([#60760](https://github.com/CleverRaven/Cataclysm-DDA/pull/60760))
 * [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions ([#60772](https://github.com/CleverRaven/Cataclysm-DDA/pull/60772))
 * Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
 * Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
 * Routine tileset updates on 04 September 2022 ([#60768](https://github.com/CleverRaven/Cataclysm-DDA/pull/60768))
 * Fix veh/appliance construction (remove lastconsumed hack) ([#60762](https://github.com/CleverRaven/Cataclysm-DDA/pull/60762))
-* Fix whistle ([#60759](https://github.com/CleverRaven/Cataclysm-DDA/pull/60759))
