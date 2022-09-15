@@ -1,3 +1,4 @@
+* Remove extra materials from weapons (#61014)
 
 Cataclysm-DDA experimental build 2022-09-15-0455 (4c355cf)
 * Expanded descriptions for rail mounted mandible guard (#60984)
@@ -110,8 +111,6 @@ Cataclysm-DDA experimental build 2022-09-09-0824 (5715fc4)
 
 Cataclysm-DDA experimental build 2022-09-09-0535 (d07b746)
 * Mi-Go Resin dialogue fix (#60853)
-
-Cataclysm-DDA experimental build 2022-09-08-1300 (b1fb6f2)
 * Buffed environmental protection of Air Filtration System (#60821)
 * Ingot separation (#60839)
 * CR Steel crafting guide (#60770)
@@ -135,7 +134,6 @@ Cataclysm-DDA experimental build 2022-09-08-1300 (b1fb6f2)
 * Fix Fridge Appliance Requiring a Wrench to Take Down (#60789)
 * Add urban explorer profession (#60764)
 * increase volume of jackhammers (#60793)
-* Post Apoc Caviar (#60756)
 * In Tab Nesting (#60761)
 * removed useless BELT_CLIP flag from war hammer (#60760)
 * [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions (#60772)
