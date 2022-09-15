@@ -1,3 +1,10 @@
+* Swap Distraction Manager and Ignore buttons ([#61024](https://github.com/CleverRaven/Cataclysm-DDA/pull/61024))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-15-1928 ([6a176f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1928))
+
+* Add origin documentation to mission_json.md ([#60982](https://github.com/CleverRaven/Cataclysm-DDA/pull/60982))
 
 ---
 
@@ -76,7 +83,6 @@
 
 * Misc Updates in honor of Grandparents Day ([#60955](https://github.com/CleverRaven/Cataclysm-DDA/pull/60955))
 * Beginner-level armor made of combined clothing ([#60837](https://github.com/CleverRaven/Cataclysm-DDA/pull/60837))
-* make atomic coffee slightly more reasonable ([#60765](https://github.com/CleverRaven/Cataclysm-DDA/pull/60765))
 * tweak: shorten confirmation command ([#60954](https://github.com/CleverRaven/Cataclysm-DDA/pull/60954))
 * Adding myself to confirm bug list ([#60950](https://github.com/CleverRaven/Cataclysm-DDA/pull/60950))
 
@@ -173,11 +179,6 @@
 
 * Add context for rock ([#60883](https://github.com/CleverRaven/Cataclysm-DDA/pull/60883))
 * [DinoMod] monster mass ([#60860](https://github.com/CleverRaven/Cataclysm-DDA/pull/60860))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-09-1109 ([5986364](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-1109))
-
 * Allow ethanol for alumentum recipe ([#60857](https://github.com/CleverRaven/Cataclysm-DDA/pull/60857))
 * Added batch time savings to several cooking recipes that needed it. ([#60859](https://github.com/CleverRaven/Cataclysm-DDA/pull/60859))
 * Fix collapse triggering debugmsg ([#60874](https://github.com/CleverRaven/Cataclysm-DDA/pull/60874))
@@ -207,7 +208,6 @@
 * Change materials for nails, nuts and bolts ([#60805](https://github.com/CleverRaven/Cataclysm-DDA/pull/60805))
 * [Xedra Evolved] Make death rays obtainable, fix wrong spell component IDs for ray gun & death ray ([#60787](https://github.com/CleverRaven/Cataclysm-DDA/pull/60787))
 * Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
-* Add urban explorer profession ([#60764](https://github.com/CleverRaven/Cataclysm-DDA/pull/60764))
 * increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
 * [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions ([#60772](https://github.com/CleverRaven/Cataclysm-DDA/pull/60772))
 * Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
