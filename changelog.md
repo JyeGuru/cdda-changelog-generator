@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-15-1229 ([fc2b611](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1229))
+
+* Diesel engine fixes ([#61019](https://github.com/CleverRaven/Cataclysm-DDA/pull/61019))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-15-1118 ([ca61b82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1118))
 
 * Add an I4 diesel engine ([#60999](https://github.com/CleverRaven/Cataclysm-DDA/pull/60999))
@@ -177,11 +183,6 @@
 * Fix collapse triggering debugmsg ([#60874](https://github.com/CleverRaven/Cataclysm-DDA/pull/60874))
 * Fix bionic fuels giving 1/1000 energy ([#60876](https://github.com/CleverRaven/Cataclysm-DDA/pull/60876))
 * Case Hardened material repairs ([#60871](https://github.com/CleverRaven/Cataclysm-DDA/pull/60871))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-09-1008 ([9bd53de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-1008))
-
 * Increase wood density ([#60856](https://github.com/CleverRaven/Cataclysm-DDA/pull/60856))
 * Balance "Fix to 5.56 crafting recipe" ([#60809](https://github.com/CleverRaven/Cataclysm-DDA/pull/60809))
 * Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
@@ -213,4 +214,3 @@
 * Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
 * Routine tileset updates on 04 September 2022 ([#60768](https://github.com/CleverRaven/Cataclysm-DDA/pull/60768))
-* Fix veh/appliance construction (remove lastconsumed hack) ([#60762](https://github.com/CleverRaven/Cataclysm-DDA/pull/60762))

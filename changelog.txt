@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-15-1229 (fc2b611)
+* Diesel engine fixes (#61019)
+
 Cataclysm-DDA experimental build 2022-09-15-1118 (ca61b82)
 * Add an I4 diesel engine (#60999)
 * [Magiclysm] Enchanted bracelets' flags tweaks (#60808)
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2022-09-09-1109 (5986364)
 * Fix collapse triggering debugmsg (#60874)
 * Fix bionic fuels giving 1/1000 energy (#60876)
 * Case Hardened material repairs (#60871)
-
-Cataclysm-DDA experimental build 2022-09-09-1008 (9bd53de)
 * Increase wood density (#60856)
 * Balance "Fix to 5.56 crafting recipe" (#60809)
 * Mi-Go Resin dialogue fix (#60853)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2022-09-09-1008 (9bd53de)
 * Bullfrog shrinking (#60779)
 * [Magiclysm] Delete wrong +5 per for sun mage (#60775)
 * Routine tileset updates on 04 September 2022 (#60768)
-* Fix veh/appliance construction (remove lastconsumed hack) (#60762)
