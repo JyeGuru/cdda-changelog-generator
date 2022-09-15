@@ -1,3 +1,5 @@
+* Fix the "Find Lab Tunnels" mission ([#61000](https://github.com/CleverRaven/Cataclysm-DDA/pull/61000))
+* Warped trees ([#60936](https://github.com/CleverRaven/Cataclysm-DDA/pull/60936))
 * Swap Distraction Manager and Ignore buttons ([#61024](https://github.com/CleverRaven/Cataclysm-DDA/pull/61024))
 
 ---
@@ -199,7 +201,6 @@
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
 * [Magiclysm] Small used_bookstore roof fix ([#60786](https://github.com/CleverRaven/Cataclysm-DDA/pull/60786))
 * Set a minimum weight for a worn item to cause chafing ([#60796](https://github.com/CleverRaven/Cataclysm-DDA/pull/60796))
-* Disable cut/remove grass under vehicles ([#60767](https://github.com/CleverRaven/Cataclysm-DDA/pull/60767))
 * Fix weapon name in faction screen ([#60791](https://github.com/CleverRaven/Cataclysm-DDA/pull/60791))
 * [XEDRA Evolved] Investigation -> deduction ([#60795](https://github.com/CleverRaven/Cataclysm-DDA/pull/60795))
 * allow small leg purse to be worn with a tail ([#60812](https://github.com/CleverRaven/Cataclysm-DDA/pull/60812))
@@ -213,4 +214,3 @@
 * Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
 * Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
-* Routine tileset updates on 04 September 2022 ([#60768](https://github.com/CleverRaven/Cataclysm-DDA/pull/60768))
