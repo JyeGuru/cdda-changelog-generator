@@ -1,3 +1,10 @@
+* Expanded descriptions for rail mounted mandible guard ([#60984](https://github.com/CleverRaven/Cataclysm-DDA/pull/60984))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-15-0328 ([d8c671b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-0328))
+
+* Force electronics controls to appear in appliance menu ([#61012](https://github.com/CleverRaven/Cataclysm-DDA/pull/61012))
 
 ---
 
@@ -202,11 +209,9 @@
 * In Tab Nesting ([#60761](https://github.com/CleverRaven/Cataclysm-DDA/pull/60761))
 * removed useless BELT_CLIP flag from war hammer ([#60760](https://github.com/CleverRaven/Cataclysm-DDA/pull/60760))
 * [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions ([#60772](https://github.com/CleverRaven/Cataclysm-DDA/pull/60772))
-* Better version.h generator script for MSVC builds ([#60754](https://github.com/CleverRaven/Cataclysm-DDA/pull/60754))
 * Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
 * Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
 * [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
 * Routine tileset updates on 04 September 2022 ([#60768](https://github.com/CleverRaven/Cataclysm-DDA/pull/60768))
 * Fix veh/appliance construction (remove lastconsumed hack) ([#60762](https://github.com/CleverRaven/Cataclysm-DDA/pull/60762))
-* Drophammer fix ([#60751](https://github.com/CleverRaven/Cataclysm-DDA/pull/60751))
 * Fix whistle ([#60759](https://github.com/CleverRaven/Cataclysm-DDA/pull/60759))
