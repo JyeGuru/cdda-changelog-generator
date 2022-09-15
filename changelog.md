@@ -1,3 +1,4 @@
+* Fix gun/item repairs amount to match player's display breakpoints ([#60956](https://github.com/CleverRaven/Cataclysm-DDA/pull/60956))
 * Fix the "Find Lab Tunnels" mission ([#61000](https://github.com/CleverRaven/Cataclysm-DDA/pull/61000))
 * Warped trees ([#60936](https://github.com/CleverRaven/Cataclysm-DDA/pull/60936))
 * Swap Distraction Manager and Ignore buttons ([#61024](https://github.com/CleverRaven/Cataclysm-DDA/pull/61024))
@@ -191,7 +192,6 @@
 * Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
 * Buffed environmental protection of Air Filtration System ([#60821](https://github.com/CleverRaven/Cataclysm-DDA/pull/60821))
 * Ingot separation ([#60839](https://github.com/CleverRaven/Cataclysm-DDA/pull/60839))
-* CR Steel crafting guide ([#60770](https://github.com/CleverRaven/Cataclysm-DDA/pull/60770))
 * clean up stray debug message in stdout ([#60797](https://github.com/CleverRaven/Cataclysm-DDA/pull/60797))
 * Unmark empty strings for translation ([#60827](https://github.com/CleverRaven/Cataclysm-DDA/pull/60827))
 * Fix harmless errors on evac shelter computer ([#60831](https://github.com/CleverRaven/Cataclysm-DDA/pull/60831))
