@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-16-0838 ([19c4eb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0838))
+
+* [Magiclysm] Soul pressure can be turned off now ([#60894](https://github.com/CleverRaven/Cataclysm-DDA/pull/60894))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-16-0555 ([678afdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0555))
 
 * Update the table of contents in doc/JSON_INFO.md ([#61033](https://github.com/CleverRaven/Cataclysm-DDA/pull/61033))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2022-09-10-0530 ([8f44037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-10-0530))
 
 * Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-10-0043 ([8c2607e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-10-0043))
-
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
 * Fix crash on opening batch crafting screen ([#60819](https://github.com/CleverRaven/Cataclysm-DDA/pull/60819))
 * Add context for rock ([#60883](https://github.com/CleverRaven/Cataclysm-DDA/pull/60883))
@@ -221,6 +222,5 @@
 * allow small leg purse to be worn with a tail ([#60812](https://github.com/CleverRaven/Cataclysm-DDA/pull/60812))
 * ft. one dark color theme ([#60815](https://github.com/CleverRaven/Cataclysm-DDA/pull/60815))
 * Change materials for nails, nuts and bolts ([#60805](https://github.com/CleverRaven/Cataclysm-DDA/pull/60805))
-* [Xedra Evolved] Make death rays obtainable, fix wrong spell component IDs for ray gun & death ray ([#60787](https://github.com/CleverRaven/Cataclysm-DDA/pull/60787))
 * Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
 * increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
