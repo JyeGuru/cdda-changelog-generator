@@ -1,6 +1,29 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-16-0555 ([678afdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0555))
+
+* Update the table of contents in doc/JSON_INFO.md ([#61033](https://github.com/CleverRaven/Cataclysm-DDA/pull/61033))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-16-0447 ([2157bc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0447))
+
+* Emphasize pocket priority and choose pockets in order when filling count_by_charges items ([#60961](https://github.com/CleverRaven/Cataclysm-DDA/pull/60961))
+* fix: nerf ambulance drug spawns ([#60974](https://github.com/CleverRaven/Cataclysm-DDA/pull/60974))
+* [Magiclysm] Add OVERSIZE to flesh pouch ([#60931](https://github.com/CleverRaven/Cataclysm-DDA/pull/60931))
+* Add MEDIEVAL_SWORDS category for magiclysm swords ([#60996](https://github.com/CleverRaven/Cataclysm-DDA/pull/60996))
+* [DinoMod] dino skulls ([#61006](https://github.com/CleverRaven/Cataclysm-DDA/pull/61006))
+* Random insect cleanup ([#61023](https://github.com/CleverRaven/Cataclysm-DDA/pull/61023))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-16-0337 ([b1e5ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0337))
+
+* More misc vehicle menu fixes ([#61025](https://github.com/CleverRaven/Cataclysm-DDA/pull/61025))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-15-2042 ([a446e04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-2042))
 
 * Fix gun/item repairs amount to match player's display breakpoints ([#60956](https://github.com/CleverRaven/Cataclysm-DDA/pull/60956))
@@ -107,8 +130,6 @@
 #### Cataclysm-DDA experimental build 2022-09-12-1841 ([dc36ebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1841))
 
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
-* Keybindings window tweak ([#60774](https://github.com/CleverRaven/Cataclysm-DDA/pull/60774))
-* Make magiclysm auras compatible with power armor ([#60783](https://github.com/CleverRaven/Cataclysm-DDA/pull/60783))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
 * Fix helicopter total rotor area calculation ([#60850](https://github.com/CleverRaven/Cataclysm-DDA/pull/60850))
 * Item Description Cleanup Project - Guns ([#60872](https://github.com/CleverRaven/Cataclysm-DDA/pull/60872))
@@ -174,17 +195,7 @@
 #### Cataclysm-DDA experimental build 2022-09-10-0043 ([8c2607e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-10-0043))
 
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-09-2339 ([cd9dfbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-2339))
-
 * Fix crash on opening batch crafting screen ([#60819](https://github.com/CleverRaven/Cataclysm-DDA/pull/60819))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-09-1917 ([29bcf8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-09-1917))
-
 * Add context for rock ([#60883](https://github.com/CleverRaven/Cataclysm-DDA/pull/60883))
 * [DinoMod] monster mass ([#60860](https://github.com/CleverRaven/Cataclysm-DDA/pull/60860))
 * Allow ethanol for alumentum recipe ([#60857](https://github.com/CleverRaven/Cataclysm-DDA/pull/60857))
@@ -204,18 +215,12 @@
 * Aftershock Exosuit flag inheritance fixes ([#60836](https://github.com/CleverRaven/Cataclysm-DDA/pull/60836))
 * Add passenger cars to subway stations ([#60825](https://github.com/CleverRaven/Cataclysm-DDA/pull/60825))
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
-* [Magiclysm] Small used_bookstore roof fix ([#60786](https://github.com/CleverRaven/Cataclysm-DDA/pull/60786))
 * Set a minimum weight for a worn item to cause chafing ([#60796](https://github.com/CleverRaven/Cataclysm-DDA/pull/60796))
 * Fix weapon name in faction screen ([#60791](https://github.com/CleverRaven/Cataclysm-DDA/pull/60791))
 * [XEDRA Evolved] Investigation -> deduction ([#60795](https://github.com/CleverRaven/Cataclysm-DDA/pull/60795))
 * allow small leg purse to be worn with a tail ([#60812](https://github.com/CleverRaven/Cataclysm-DDA/pull/60812))
 * ft. one dark color theme ([#60815](https://github.com/CleverRaven/Cataclysm-DDA/pull/60815))
-* Salt water should be mixible and not auto-drinkable. ([#60782](https://github.com/CleverRaven/Cataclysm-DDA/pull/60782))
 * Change materials for nails, nuts and bolts ([#60805](https://github.com/CleverRaven/Cataclysm-DDA/pull/60805))
 * [Xedra Evolved] Make death rays obtainable, fix wrong spell component IDs for ray gun & death ray ([#60787](https://github.com/CleverRaven/Cataclysm-DDA/pull/60787))
 * Fix Fridge Appliance Requiring a Wrench to Take Down ([#60789](https://github.com/CleverRaven/Cataclysm-DDA/pull/60789))
 * increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
-* [Xedra Evolved ]Typos + give artifacts non-placeholder descriptions ([#60772](https://github.com/CleverRaven/Cataclysm-DDA/pull/60772))
-* Remove redundant check ([#60785](https://github.com/CleverRaven/Cataclysm-DDA/pull/60785))
-* Bullfrog shrinking ([#60779](https://github.com/CleverRaven/Cataclysm-DDA/pull/60779))
-* [Magiclysm] Delete wrong +5 per for sun mage ([#60775](https://github.com/CleverRaven/Cataclysm-DDA/pull/60775))
