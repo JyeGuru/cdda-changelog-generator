@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-16-0958 (fd463d4)
 * [Magiclysm] Druid healing spells (#60897)
 
 Cataclysm-DDA experimental build 2022-09-16-0838 (19c4eb4)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2022-09-11-0713 (abf8d29)
 
 Cataclysm-DDA experimental build 2022-09-11-0519 (74deb15)
 * Correct encumbrance for ballistic vests (#60890)
-
-Cataclysm-DDA experimental build 2022-09-10-0530 (8f44037)
 * Routine i18n updates on 10 September 2022 (#60891)
 * Properly obsolete filter paper recipe (#60886)
 * Fix crash on opening batch crafting screen (#60819)

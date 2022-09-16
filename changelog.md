@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-16-0958 ([fd463d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0958))
+
 * [Magiclysm] Druid healing spells ([#60897](https://github.com/CleverRaven/Cataclysm-DDA/pull/60897))
 
 ---
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2022-09-11-0519 ([74deb15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-11-0519))
 
 * Correct encumbrance for ballistic vests ([#60890](https://github.com/CleverRaven/Cataclysm-DDA/pull/60890))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-10-0530 ([8f44037](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-10-0530))
-
 * Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
 * Fix crash on opening batch crafting screen ([#60819](https://github.com/CleverRaven/Cataclysm-DDA/pull/60819))
