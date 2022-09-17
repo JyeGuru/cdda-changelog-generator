@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-17-0626 (cdcb071)
+* Routine i18n updates on 17 September 2022 (#61062)
+
 Cataclysm-DDA experimental build 2022-09-17-0440 (e8b202d)
 * Introduce "draped over legs" sublocation for robes and dusters (#60862)
 * Mark toxic waste map extras as man made (#61053)
@@ -116,8 +119,6 @@ Cataclysm-DDA experimental build 2022-09-12-1111 (4840ee2)
 Cataclysm-DDA experimental build 2022-09-12-0527 (2924a24)
 * Routine tileset updates on 11 September 2022 (#60933)
 * Enable 'Cataclysm Windows build' on drafts (#60917)
-
-Cataclysm-DDA experimental build 2022-09-11-0817 (b9c5366)
 * [DinoMod] basement mapgen fixes (#60906)
 * [Backrooms] Map extra fix and additions (#60895)
 * [FEATURE] add cow armors (#60806)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2022-09-11-0817 (b9c5366)
 * Minor vehicle fixes (#60817)
 * allow small leg purse to be worn with a tail (#60812)
 * ft. one dark color theme (#60815)
-* Change materials for nails, nuts and bolts (#60805)

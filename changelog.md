@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-17-0626 ([cdcb071](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-0626))
+
+* Routine i18n updates on 17 September 2022 ([#61062](https://github.com/CleverRaven/Cataclysm-DDA/pull/61062))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-17-0440 ([e8b202d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-0440))
 
 * Introduce "draped over legs" sublocation for robes and dusters ([#60862](https://github.com/CleverRaven/Cataclysm-DDA/pull/60862))
@@ -191,11 +197,6 @@
 
 * Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))
 * Enable 'Cataclysm Windows build' on drafts ([#60917](https://github.com/CleverRaven/Cataclysm-DDA/pull/60917))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-11-0817 ([b9c5366](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-11-0817))
-
 * [DinoMod] basement mapgen fixes ([#60906](https://github.com/CleverRaven/Cataclysm-DDA/pull/60906))
 * [Backrooms] Map extra fix and additions ([#60895](https://github.com/CleverRaven/Cataclysm-DDA/pull/60895))
 * [FEATURE] add cow armors ([#60806](https://github.com/CleverRaven/Cataclysm-DDA/pull/60806))
@@ -224,4 +225,3 @@
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
 * allow small leg purse to be worn with a tail ([#60812](https://github.com/CleverRaven/Cataclysm-DDA/pull/60812))
 * ft. one dark color theme ([#60815](https://github.com/CleverRaven/Cataclysm-DDA/pull/60815))
-* Change materials for nails, nuts and bolts ([#60805](https://github.com/CleverRaven/Cataclysm-DDA/pull/60805))
