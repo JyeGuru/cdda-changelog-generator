@@ -1,3 +1,16 @@
+* Tamable Wildlife: Tamable Bugs ([#61020](https://github.com/CleverRaven/Cataclysm-DDA/pull/61020))
+* Update toiletries.json ([#61068](https://github.com/CleverRaven/Cataclysm-DDA/pull/61068))
+* Enable to cancel rename the faction base name  ([#61040](https://github.com/CleverRaven/Cataclysm-DDA/pull/61040))
+* Replace veh->is_open with vehicle_part::open (android) ([#61042](https://github.com/CleverRaven/Cataclysm-DDA/pull/61042))
+* Innawood antenna recipe fix ([#61043](https://github.com/CleverRaven/Cataclysm-DDA/pull/61043))
+* Store reload_option::moves earlier ([#61046](https://github.com/CleverRaven/Cataclysm-DDA/pull/61046))
+* Set 1mL minimum volume for crafts ([#61056](https://github.com/CleverRaven/Cataclysm-DDA/pull/61056))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-17-2114 ([192a32a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-2114))
+
+* Fix Windows crossbuild ([#61080](https://github.com/CleverRaven/Cataclysm-DDA/pull/61080))
 
 ---
 
@@ -82,7 +95,6 @@
 #### Cataclysm-DDA experimental build 2022-09-15-1118 ([ca61b82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1118))
 
 * Add an I4 diesel engine ([#60999](https://github.com/CleverRaven/Cataclysm-DDA/pull/60999))
-* [Magiclysm] Enchanted bracelets' flags tweaks ([#60808](https://github.com/CleverRaven/Cataclysm-DDA/pull/60808))
 
 ---
 
@@ -184,22 +196,15 @@
 #### Cataclysm-DDA experimental build 2022-09-12-1736 ([32a7873](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1736))
 
 * Allow both mouse movement and click-and-drag without local keybinds ([#60946](https://github.com/CleverRaven/Cataclysm-DDA/pull/60946))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-12-1111 ([4840ee2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1111))
-
 * Limbify/flagify field immunity ([#60852](https://github.com/CleverRaven/Cataclysm-DDA/pull/60852))
 * Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))
 * Enable 'Cataclysm Windows build' on drafts ([#60917](https://github.com/CleverRaven/Cataclysm-DDA/pull/60917))
 * [DinoMod] basement mapgen fixes ([#60906](https://github.com/CleverRaven/Cataclysm-DDA/pull/60906))
 * [Backrooms] Map extra fix and additions ([#60895](https://github.com/CleverRaven/Cataclysm-DDA/pull/60895))
-* [FEATURE] add cow armors ([#60806](https://github.com/CleverRaven/Cataclysm-DDA/pull/60806))
 * Stop running appveyor builds because they're redundant with GHA builds. ([#60901](https://github.com/CleverRaven/Cataclysm-DDA/pull/60901))
 * Correct encumbrance for ballistic vests ([#60890](https://github.com/CleverRaven/Cataclysm-DDA/pull/60890))
 * Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
-* Fix crash on opening batch crafting screen ([#60819](https://github.com/CleverRaven/Cataclysm-DDA/pull/60819))
 * Add context for rock ([#60883](https://github.com/CleverRaven/Cataclysm-DDA/pull/60883))
 * [DinoMod] monster mass ([#60860](https://github.com/CleverRaven/Cataclysm-DDA/pull/60860))
 * Allow ethanol for alumentum recipe ([#60857](https://github.com/CleverRaven/Cataclysm-DDA/pull/60857))
@@ -208,15 +213,10 @@
 * Fix bionic fuels giving 1/1000 energy ([#60876](https://github.com/CleverRaven/Cataclysm-DDA/pull/60876))
 * Case Hardened material repairs ([#60871](https://github.com/CleverRaven/Cataclysm-DDA/pull/60871))
 * Increase wood density ([#60856](https://github.com/CleverRaven/Cataclysm-DDA/pull/60856))
-* Balance "Fix to 5.56 crafting recipe" ([#60809](https://github.com/CleverRaven/Cataclysm-DDA/pull/60809))
 * Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
-* Buffed environmental protection of Air Filtration System ([#60821](https://github.com/CleverRaven/Cataclysm-DDA/pull/60821))
 * Ingot separation ([#60839](https://github.com/CleverRaven/Cataclysm-DDA/pull/60839))
 * Unmark empty strings for translation ([#60827](https://github.com/CleverRaven/Cataclysm-DDA/pull/60827))
 * Fix harmless errors on evac shelter computer ([#60831](https://github.com/CleverRaven/Cataclysm-DDA/pull/60831))
 * Fix bad tag error in bio lab files ([#60833](https://github.com/CleverRaven/Cataclysm-DDA/pull/60833))
 * Aftershock Exosuit flag inheritance fixes ([#60836](https://github.com/CleverRaven/Cataclysm-DDA/pull/60836))
 * Add passenger cars to subway stations ([#60825](https://github.com/CleverRaven/Cataclysm-DDA/pull/60825))
-* Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
-* allow small leg purse to be worn with a tail ([#60812](https://github.com/CleverRaven/Cataclysm-DDA/pull/60812))
-* ft. one dark color theme ([#60815](https://github.com/CleverRaven/Cataclysm-DDA/pull/60815))
