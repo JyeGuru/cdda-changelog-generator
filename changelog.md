@@ -190,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-09-12-1111 ([4840ee2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1111))
 
 * Limbify/flagify field immunity ([#60852](https://github.com/CleverRaven/Cataclysm-DDA/pull/60852))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-12-0527 ([2924a24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-0527))
-
 * Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))
 * Enable 'Cataclysm Windows build' on drafts ([#60917](https://github.com/CleverRaven/Cataclysm-DDA/pull/60917))
 * [DinoMod] basement mapgen fixes ([#60906](https://github.com/CleverRaven/Cataclysm-DDA/pull/60906))
