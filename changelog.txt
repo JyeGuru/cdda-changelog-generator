@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-17-0440 (e8b202d)
 * Introduce "draped over legs" sublocation for robes and dusters (#60862)
 * Mark toxic waste map extras as man made (#61053)
 * [Backrooms] Portal storm fix (#61038)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2022-09-12-0527 (2924a24)
 Cataclysm-DDA experimental build 2022-09-11-0817 (b9c5366)
 * [DinoMod] basement mapgen fixes (#60906)
 * [Backrooms] Map extra fix and additions (#60895)
-
-Cataclysm-DDA experimental build 2022-09-11-0713 (abf8d29)
 * [FEATURE] add cow armors (#60806)
 * Stop running appveyor builds because they're redundant with GHA builds. (#60901)
 * Correct encumbrance for ballistic vests (#60890)

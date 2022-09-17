@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-17-0440 ([e8b202d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-0440))
+
 * Introduce "draped over legs" sublocation for robes and dusters ([#60862](https://github.com/CleverRaven/Cataclysm-DDA/pull/60862))
 * Mark toxic waste map extras as man made ([#61053](https://github.com/CleverRaven/Cataclysm-DDA/pull/61053))
 * [Backrooms] Portal storm fix ([#61038](https://github.com/CleverRaven/Cataclysm-DDA/pull/61038))
@@ -193,11 +198,6 @@
 
 * [DinoMod] basement mapgen fixes ([#60906](https://github.com/CleverRaven/Cataclysm-DDA/pull/60906))
 * [Backrooms] Map extra fix and additions ([#60895](https://github.com/CleverRaven/Cataclysm-DDA/pull/60895))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-11-0713 ([abf8d29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-11-0713))
-
 * [FEATURE] add cow armors ([#60806](https://github.com/CleverRaven/Cataclysm-DDA/pull/60806))
 * Stop running appveyor builds because they're redundant with GHA builds. ([#60901](https://github.com/CleverRaven/Cataclysm-DDA/pull/60901))
 * Correct encumbrance for ballistic vests ([#60890](https://github.com/CleverRaven/Cataclysm-DDA/pull/60890))
