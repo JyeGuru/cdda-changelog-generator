@@ -1,3 +1,14 @@
+* Introduce "draped over legs" sublocation for robes and dusters ([#60862](https://github.com/CleverRaven/Cataclysm-DDA/pull/60862))
+* Mark toxic waste map extras as man made ([#61053](https://github.com/CleverRaven/Cataclysm-DDA/pull/61053))
+* [Backrooms] Portal storm fix ([#61038](https://github.com/CleverRaven/Cataclysm-DDA/pull/61038))
+* Obsolete lit_aisle ([#61028](https://github.com/CleverRaven/Cataclysm-DDA/pull/61028))
+* Update explosives.json ([#61026](https://github.com/CleverRaven/Cataclysm-DDA/pull/61026))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-17-0336 ([21c2f1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-0336))
+
+* Boots.json motorbike boots category change ([#61016](https://github.com/CleverRaven/Cataclysm-DDA/pull/61016))
 
 ---
 
@@ -189,11 +200,6 @@
 
 * [FEATURE] add cow armors ([#60806](https://github.com/CleverRaven/Cataclysm-DDA/pull/60806))
 * Stop running appveyor builds because they're redundant with GHA builds. ([#60901](https://github.com/CleverRaven/Cataclysm-DDA/pull/60901))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-11-0519 ([74deb15](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-11-0519))
-
 * Correct encumbrance for ballistic vests ([#60890](https://github.com/CleverRaven/Cataclysm-DDA/pull/60890))
 * Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
@@ -210,17 +216,12 @@
 * Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
 * Buffed environmental protection of Air Filtration System ([#60821](https://github.com/CleverRaven/Cataclysm-DDA/pull/60821))
 * Ingot separation ([#60839](https://github.com/CleverRaven/Cataclysm-DDA/pull/60839))
-* clean up stray debug message in stdout ([#60797](https://github.com/CleverRaven/Cataclysm-DDA/pull/60797))
 * Unmark empty strings for translation ([#60827](https://github.com/CleverRaven/Cataclysm-DDA/pull/60827))
 * Fix harmless errors on evac shelter computer ([#60831](https://github.com/CleverRaven/Cataclysm-DDA/pull/60831))
 * Fix bad tag error in bio lab files ([#60833](https://github.com/CleverRaven/Cataclysm-DDA/pull/60833))
 * Aftershock Exosuit flag inheritance fixes ([#60836](https://github.com/CleverRaven/Cataclysm-DDA/pull/60836))
 * Add passenger cars to subway stations ([#60825](https://github.com/CleverRaven/Cataclysm-DDA/pull/60825))
 * Minor vehicle fixes ([#60817](https://github.com/CleverRaven/Cataclysm-DDA/pull/60817))
-* Set a minimum weight for a worn item to cause chafing ([#60796](https://github.com/CleverRaven/Cataclysm-DDA/pull/60796))
-* Fix weapon name in faction screen ([#60791](https://github.com/CleverRaven/Cataclysm-DDA/pull/60791))
-* [XEDRA Evolved] Investigation -> deduction ([#60795](https://github.com/CleverRaven/Cataclysm-DDA/pull/60795))
 * allow small leg purse to be worn with a tail ([#60812](https://github.com/CleverRaven/Cataclysm-DDA/pull/60812))
 * ft. one dark color theme ([#60815](https://github.com/CleverRaven/Cataclysm-DDA/pull/60815))
 * Change materials for nails, nuts and bolts ([#60805](https://github.com/CleverRaven/Cataclysm-DDA/pull/60805))
-* increase volume of jackhammers ([#60793](https://github.com/CleverRaven/Cataclysm-DDA/pull/60793))
