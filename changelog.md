@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-17-2230 ([a3c6a29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-2230))
+
 * Tamable Wildlife: Tamable Bugs ([#61020](https://github.com/CleverRaven/Cataclysm-DDA/pull/61020))
 * Update toiletries.json ([#61068](https://github.com/CleverRaven/Cataclysm-DDA/pull/61068))
 * Enable to cancel rename the faction base name  ([#61040](https://github.com/CleverRaven/Cataclysm-DDA/pull/61040))
@@ -190,11 +195,6 @@
 * docs: front and center screenshot of the game ([#60927](https://github.com/CleverRaven/Cataclysm-DDA/pull/60927))
 * Jsonize electroreceptors ([#60929](https://github.com/CleverRaven/Cataclysm-DDA/pull/60929))
 * Cloth padded shirt ([#60930](https://github.com/CleverRaven/Cataclysm-DDA/pull/60930))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-12-1736 ([32a7873](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1736))
-
 * Allow both mouse movement and click-and-drag without local keybinds ([#60946](https://github.com/CleverRaven/Cataclysm-DDA/pull/60946))
 * Limbify/flagify field immunity ([#60852](https://github.com/CleverRaven/Cataclysm-DDA/pull/60852))
 * Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-17-2230 (a3c6a29)
 * Tamable Wildlife: Tamable Bugs (#61020)
 * Update toiletries.json (#61068)
 * Enable to cancel rename the faction base name  (#61040)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2022-09-12-1841 (dc36ebc)
 * docs: front and center screenshot of the game (#60927)
 * Jsonize electroreceptors (#60929)
 * Cloth padded shirt (#60930)
-
-Cataclysm-DDA experimental build 2022-09-12-1736 (32a7873)
 * Allow both mouse movement and click-and-drag without local keybinds (#60946)
 * Limbify/flagify field immunity (#60852)
 * Routine tileset updates on 11 September 2022 (#60933)
