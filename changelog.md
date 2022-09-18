@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-18-0831 ([99a3907](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-0831))
+
 * 'loffice_tower_16' shouldn't be displayed as open air on mapview ([#61084](https://github.com/CleverRaven/Cataclysm-DDA/pull/61084))
 * flu shot chang ([#61021](https://github.com/CleverRaven/Cataclysm-DDA/pull/61021))
 * Pixelscale per spritesheet ([#61061](https://github.com/CleverRaven/Cataclysm-DDA/pull/61061))
@@ -176,11 +181,6 @@
 * Beginner-level armor made of combined clothing ([#60837](https://github.com/CleverRaven/Cataclysm-DDA/pull/60837))
 * tweak: shorten confirmation command ([#60954](https://github.com/CleverRaven/Cataclysm-DDA/pull/60954))
 * Adding myself to confirm bug list ([#60950](https://github.com/CleverRaven/Cataclysm-DDA/pull/60950))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-12-1959 ([d9f3bb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1959))
-
 * add very important body pillow variants ([#60932](https://github.com/CleverRaven/Cataclysm-DDA/pull/60932))
 * Sheet Metal Armor Part 4: The Finale of the increasingly-inaccurately named trilogy ([#60926](https://github.com/CleverRaven/Cataclysm-DDA/pull/60926))
 * Serialize bike racks to json instead of strings ([#60905](https://github.com/CleverRaven/Cataclysm-DDA/pull/60905))
