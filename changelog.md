@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-18-0726 ([29cdbc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-0726))
+
+* Add looks like to mutagens and primers ([#61059](https://github.com/CleverRaven/Cataclysm-DDA/pull/61059))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-17-2230 ([a3c6a29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-2230))
 
 * Tamable Wildlife: Tamable Bugs ([#61020](https://github.com/CleverRaven/Cataclysm-DDA/pull/61020))
@@ -175,11 +181,6 @@
 * add very important body pillow variants ([#60932](https://github.com/CleverRaven/Cataclysm-DDA/pull/60932))
 * Sheet Metal Armor Part 4: The Finale of the increasingly-inaccurately named trilogy ([#60926](https://github.com/CleverRaven/Cataclysm-DDA/pull/60926))
 * Serialize bike racks to json instead of strings ([#60905](https://github.com/CleverRaven/Cataclysm-DDA/pull/60905))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-12-1841 ([dc36ebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-12-1841))
-
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
 * Fix helicopter total rotor area calculation ([#60850](https://github.com/CleverRaven/Cataclysm-DDA/pull/60850))
@@ -219,4 +220,3 @@
 * Fix harmless errors on evac shelter computer ([#60831](https://github.com/CleverRaven/Cataclysm-DDA/pull/60831))
 * Fix bad tag error in bio lab files ([#60833](https://github.com/CleverRaven/Cataclysm-DDA/pull/60833))
 * Aftershock Exosuit flag inheritance fixes ([#60836](https://github.com/CleverRaven/Cataclysm-DDA/pull/60836))
-* Add passenger cars to subway stations ([#60825](https://github.com/CleverRaven/Cataclysm-DDA/pull/60825))
