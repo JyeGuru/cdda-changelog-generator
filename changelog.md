@@ -1,3 +1,5 @@
+* [Innawood] Make foot cranks craftable again ([#61096](https://github.com/CleverRaven/Cataclysm-DDA/pull/61096))
+* Don't take pseudo items when mugging ([#61098](https://github.com/CleverRaven/Cataclysm-DDA/pull/61098))
 * Apply radiation health mod ONCE per day ([#61106](https://github.com/CleverRaven/Cataclysm-DDA/pull/61106))
 
 ---
@@ -222,5 +224,3 @@
 * Fix collapse triggering debugmsg ([#60874](https://github.com/CleverRaven/Cataclysm-DDA/pull/60874))
 * Fix bionic fuels giving 1/1000 energy ([#60876](https://github.com/CleverRaven/Cataclysm-DDA/pull/60876))
 * Case Hardened material repairs ([#60871](https://github.com/CleverRaven/Cataclysm-DDA/pull/60871))
-* Increase wood density ([#60856](https://github.com/CleverRaven/Cataclysm-DDA/pull/60856))
-* Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
