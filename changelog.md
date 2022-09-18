@@ -224,4 +224,3 @@
 * Case Hardened material repairs ([#60871](https://github.com/CleverRaven/Cataclysm-DDA/pull/60871))
 * Increase wood density ([#60856](https://github.com/CleverRaven/Cataclysm-DDA/pull/60856))
 * Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
-* Ingot separation ([#60839](https://github.com/CleverRaven/Cataclysm-DDA/pull/60839))
