@@ -1,3 +1,4 @@
+* 'loffice_tower_16' shouldn't be displayed as open air on mapview ([#61084](https://github.com/CleverRaven/Cataclysm-DDA/pull/61084))
 * flu shot chang ([#61021](https://github.com/CleverRaven/Cataclysm-DDA/pull/61021))
 * Pixelscale per spritesheet ([#61061](https://github.com/CleverRaven/Cataclysm-DDA/pull/61061))
 
@@ -218,5 +219,4 @@
 * Increase wood density ([#60856](https://github.com/CleverRaven/Cataclysm-DDA/pull/60856))
 * Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
 * Ingot separation ([#60839](https://github.com/CleverRaven/Cataclysm-DDA/pull/60839))
-* Fix bad tag error in bio lab files ([#60833](https://github.com/CleverRaven/Cataclysm-DDA/pull/60833))
 * Aftershock Exosuit flag inheritance fixes ([#60836](https://github.com/CleverRaven/Cataclysm-DDA/pull/60836))

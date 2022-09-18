@@ -1,3 +1,4 @@
+* 'loffice_tower_16' shouldn't be displayed as open air on mapview (#61084)
 * flu shot chang (#61021)
 * Pixelscale per spritesheet (#61061)
 
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2022-09-12-1959 (d9f3bb7)
 * Increase wood density (#60856)
 * Mi-Go Resin dialogue fix (#60853)
 * Ingot separation (#60839)
-* Fix bad tag error in bio lab files (#60833)
 * Aftershock Exosuit flag inheritance fixes (#60836)
