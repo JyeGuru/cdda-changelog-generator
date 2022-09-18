@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-18-1424 ([df589a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-1424))
+
 * Fix typo in USE_XDG_DIR block for set_standard_filenames ([#61091](https://github.com/CleverRaven/Cataclysm-DDA/pull/61091))
 
 ---
@@ -179,11 +184,6 @@
 
 * [Backrooms] Mapgen Fix 2 ([#60958](https://github.com/CleverRaven/Cataclysm-DDA/pull/60958))
 * Rebuild active_item cache for vehicles after refresh ([#60952](https://github.com/CleverRaven/Cataclysm-DDA/pull/60952))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-13-0554 ([564b786](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-13-0554))
-
 * Misc Updates in honor of Grandparents Day ([#60955](https://github.com/CleverRaven/Cataclysm-DDA/pull/60955))
 * tweak: shorten confirmation command ([#60954](https://github.com/CleverRaven/Cataclysm-DDA/pull/60954))
 * Adding myself to confirm bug list ([#60950](https://github.com/CleverRaven/Cataclysm-DDA/pull/60950))

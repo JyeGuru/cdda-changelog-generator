@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-18-1424 (df589a5)
 * Fix typo in USE_XDG_DIR block for set_standard_filenames (#61091)
 
 Cataclysm-DDA experimental build 2022-09-18-1323 (ef8ee1a)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2022-09-14-0119 (8ef2dff)
 Cataclysm-DDA experimental build 2022-09-13-0704 (9c88952)
 * [Backrooms] Mapgen Fix 2 (#60958)
 * Rebuild active_item cache for vehicles after refresh (#60952)
-
-Cataclysm-DDA experimental build 2022-09-13-0554 (564b786)
 * Misc Updates in honor of Grandparents Day (#60955)
 * tweak: shorten confirmation command (#60954)
 * Adding myself to confirm bug list (#60950)
