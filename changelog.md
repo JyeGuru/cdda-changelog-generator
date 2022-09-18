@@ -1,3 +1,10 @@
+* Fix typo in USE_XDG_DIR block for set_standard_filenames ([#61091](https://github.com/CleverRaven/Cataclysm-DDA/pull/61091))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-18-1323 ([ef8ee1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-1323))
+
+* Fix inverted optional value check loading graphical mods. ([#61089](https://github.com/CleverRaven/Cataclysm-DDA/pull/61089))
 
 ---
 
@@ -178,7 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-09-13-0554 ([564b786](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-13-0554))
 
 * Misc Updates in honor of Grandparents Day ([#60955](https://github.com/CleverRaven/Cataclysm-DDA/pull/60955))
-* Beginner-level armor made of combined clothing ([#60837](https://github.com/CleverRaven/Cataclysm-DDA/pull/60837))
 * tweak: shorten confirmation command ([#60954](https://github.com/CleverRaven/Cataclysm-DDA/pull/60954))
 * Adding myself to confirm bug list ([#60950](https://github.com/CleverRaven/Cataclysm-DDA/pull/60950))
 * add very important body pillow variants ([#60932](https://github.com/CleverRaven/Cataclysm-DDA/pull/60932))
@@ -219,4 +225,3 @@
 * Increase wood density ([#60856](https://github.com/CleverRaven/Cataclysm-DDA/pull/60856))
 * Mi-Go Resin dialogue fix ([#60853](https://github.com/CleverRaven/Cataclysm-DDA/pull/60853))
 * Ingot separation ([#60839](https://github.com/CleverRaven/Cataclysm-DDA/pull/60839))
-* Aftershock Exosuit flag inheritance fixes ([#60836](https://github.com/CleverRaven/Cataclysm-DDA/pull/60836))
