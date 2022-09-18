@@ -1,3 +1,10 @@
+* Apply radiation health mod ONCE per day ([#61106](https://github.com/CleverRaven/Cataclysm-DDA/pull/61106))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-18-2344 ([6b3eb71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-2344))
+
+* Hide "mana frame" part from install UI ([#61112](https://github.com/CleverRaven/Cataclysm-DDA/pull/61112))
 
 ---
 
@@ -177,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-09-14-0119 ([8ef2dff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-14-0119))
 
 * Don't drop integrated armors on death ([#60968](https://github.com/CleverRaven/Cataclysm-DDA/pull/60968))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-13-0704 ([9c88952](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-13-0704))
-
 * [Backrooms] Mapgen Fix 2 ([#60958](https://github.com/CleverRaven/Cataclysm-DDA/pull/60958))
 * Rebuild active_item cache for vehicles after refresh ([#60952](https://github.com/CleverRaven/Cataclysm-DDA/pull/60952))
 * Misc Updates in honor of Grandparents Day ([#60955](https://github.com/CleverRaven/Cataclysm-DDA/pull/60955))
@@ -192,7 +194,6 @@
 * Serialize bike racks to json instead of strings ([#60905](https://github.com/CleverRaven/Cataclysm-DDA/pull/60905))
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
-* Fix helicopter total rotor area calculation ([#60850](https://github.com/CleverRaven/Cataclysm-DDA/pull/60850))
 * Item Description Cleanup Project - Guns ([#60872](https://github.com/CleverRaven/Cataclysm-DDA/pull/60872))
 * Allow pressure on bleeding wounds with integrated chitin ([#60880](https://github.com/CleverRaven/Cataclysm-DDA/pull/60880))
 * Auto-retract "3D" sprites for walls etc. ([#60881](https://github.com/CleverRaven/Cataclysm-DDA/pull/60881))
@@ -206,7 +207,6 @@
 * Jsonize electroreceptors ([#60929](https://github.com/CleverRaven/Cataclysm-DDA/pull/60929))
 * Cloth padded shirt ([#60930](https://github.com/CleverRaven/Cataclysm-DDA/pull/60930))
 * Allow both mouse movement and click-and-drag without local keybinds ([#60946](https://github.com/CleverRaven/Cataclysm-DDA/pull/60946))
-* Limbify/flagify field immunity ([#60852](https://github.com/CleverRaven/Cataclysm-DDA/pull/60852))
 * Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))
 * Enable 'Cataclysm Windows build' on drafts ([#60917](https://github.com/CleverRaven/Cataclysm-DDA/pull/60917))
 * [DinoMod] basement mapgen fixes ([#60906](https://github.com/CleverRaven/Cataclysm-DDA/pull/60906))
