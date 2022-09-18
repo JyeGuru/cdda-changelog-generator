@@ -1,3 +1,5 @@
+* flu shot chang (#61021)
+* Pixelscale per spritesheet (#61061)
 
 Cataclysm-DDA experimental build 2022-09-18-0726 (29cdbc1)
 * Add looks like to mutagens and primers (#61059)
@@ -141,7 +143,5 @@ Cataclysm-DDA experimental build 2022-09-12-1959 (d9f3bb7)
 * Increase wood density (#60856)
 * Mi-Go Resin dialogue fix (#60853)
 * Ingot separation (#60839)
-* Unmark empty strings for translation (#60827)
-* Fix harmless errors on evac shelter computer (#60831)
 * Fix bad tag error in bio lab files (#60833)
 * Aftershock Exosuit flag inheritance fixes (#60836)
