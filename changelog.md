@@ -194,7 +194,6 @@
 * Serialize bike racks to json instead of strings ([#60905](https://github.com/CleverRaven/Cataclysm-DDA/pull/60905))
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
-* Item Description Cleanup Project - Guns ([#60872](https://github.com/CleverRaven/Cataclysm-DDA/pull/60872))
 * Allow pressure on bleeding wounds with integrated chitin ([#60880](https://github.com/CleverRaven/Cataclysm-DDA/pull/60880))
 * Auto-retract "3D" sprites for walls etc. ([#60881](https://github.com/CleverRaven/Cataclysm-DDA/pull/60881))
 * Add source Creature to explosions ([#60910](https://github.com/CleverRaven/Cataclysm-DDA/pull/60910))
