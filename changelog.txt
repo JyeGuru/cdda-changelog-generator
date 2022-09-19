@@ -1,3 +1,4 @@
+* Link flatbuffers in json formatter and fix undeclared class (#61118)
 
 Cataclysm-DDA experimental build 2022-09-19-0943 (7788b47)
 * Routine tileset updates on 18 September 2022 (#61113)
@@ -103,8 +104,6 @@ Cataclysm-DDA experimental build 2022-09-15-0113 (1e53c81)
 
 Cataclysm-DDA experimental build 2022-09-14-2243 (1edc0a5)
 * Use height_3d also for background sprite, not only for foreground (#60994)
-
-Cataclysm-DDA experimental build 2022-09-14-0616 (5dee013)
 * Make the syringe a weapon (#60975)
 * Set random cosmetic traits when beginning creation of custom character (#60959)
 * Fix radio activation mod not being consumed (#60962)
@@ -143,4 +142,3 @@ Cataclysm-DDA experimental build 2022-09-14-0616 (5dee013)
 * Routine i18n updates on 10 September 2022 (#60891)
 * Properly obsolete filter paper recipe (#60886)
 * Add context for rock (#60883)
-* Fix bionic fuels giving 1/1000 energy (#60876)

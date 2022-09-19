@@ -1,3 +1,4 @@
+* Link flatbuffers in json formatter and fix undeclared class ([#61118](https://github.com/CleverRaven/Cataclysm-DDA/pull/61118))
 
 ---
 
@@ -178,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-09-14-2243 ([1edc0a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-14-2243))
 
 * Use height_3d also for background sprite, not only for foreground ([#60994](https://github.com/CleverRaven/Cataclysm-DDA/pull/60994))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-14-0616 ([5dee013](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-14-0616))
-
 * Make the syringe a weapon ([#60975](https://github.com/CleverRaven/Cataclysm-DDA/pull/60975))
 * Set random cosmetic traits when beginning creation of custom character ([#60959](https://github.com/CleverRaven/Cataclysm-DDA/pull/60959))
 * Fix radio activation mod not being consumed ([#60962](https://github.com/CleverRaven/Cataclysm-DDA/pull/60962))
@@ -221,4 +217,3 @@
 * Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
 * Add context for rock ([#60883](https://github.com/CleverRaven/Cataclysm-DDA/pull/60883))
-* Fix bionic fuels giving 1/1000 energy ([#60876](https://github.com/CleverRaven/Cataclysm-DDA/pull/60876))
