@@ -1,3 +1,10 @@
+* Update astyle docs to exclude src/third-party ([#61115](https://github.com/CleverRaven/Cataclysm-DDA/pull/61115))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-19-1752 ([be7855b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-1752))
+
+* [Xedra Evolved] Small bugfix ([#61120](https://github.com/CleverRaven/Cataclysm-DDA/pull/61120))
 
 ---
 
@@ -196,8 +203,6 @@
 * Serialize bike racks to json instead of strings ([#60905](https://github.com/CleverRaven/Cataclysm-DDA/pull/60905))
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
-* Allow pressure on bleeding wounds with integrated chitin ([#60880](https://github.com/CleverRaven/Cataclysm-DDA/pull/60880))
-* Auto-retract "3D" sprites for walls etc. ([#60881](https://github.com/CleverRaven/Cataclysm-DDA/pull/60881))
 * Add source Creature to explosions ([#60910](https://github.com/CleverRaven/Cataclysm-DDA/pull/60910))
 * Call rebuild_vehicle_level_caches in grabbed_veh_move ([#60911](https://github.com/CleverRaven/Cataclysm-DDA/pull/60911))
 * [DinoMod] three ardent ankylosaurs ([#60914](https://github.com/CleverRaven/Cataclysm-DDA/pull/60914))
