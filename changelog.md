@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-19-0943 ([7788b47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-0943))
+
+* Routine tileset updates on 18 September 2022 ([#61113](https://github.com/CleverRaven/Cataclysm-DDA/pull/61113))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-19-0107 ([e5b3ca9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-0107))
 
 * Force locale independent parsing for flatbuffer parser. ([#61102](https://github.com/CleverRaven/Cataclysm-DDA/pull/61102))
@@ -215,5 +221,4 @@
 * Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
 * Add context for rock ([#60883](https://github.com/CleverRaven/Cataclysm-DDA/pull/60883))
-* Fix collapse triggering debugmsg ([#60874](https://github.com/CleverRaven/Cataclysm-DDA/pull/60874))
 * Fix bionic fuels giving 1/1000 energy ([#60876](https://github.com/CleverRaven/Cataclysm-DDA/pull/60876))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-19-0943 (7788b47)
+* Routine tileset updates on 18 September 2022 (#61113)
+
 Cataclysm-DDA experimental build 2022-09-19-0107 (e5b3ca9)
 * Force locale independent parsing for flatbuffer parser. (#61102)
 * Scrollbar dragging batch two (#60953)
@@ -140,5 +143,4 @@ Cataclysm-DDA experimental build 2022-09-14-0616 (5dee013)
 * Routine i18n updates on 10 September 2022 (#60891)
 * Properly obsolete filter paper recipe (#60886)
 * Add context for rock (#60883)
-* Fix collapse triggering debugmsg (#60874)
 * Fix bionic fuels giving 1/1000 energy (#60876)
