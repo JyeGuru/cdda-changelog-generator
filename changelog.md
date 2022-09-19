@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-19-1226 ([a410b05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-1226))
+
 * Link flatbuffers in json formatter and fix undeclared class ([#61118](https://github.com/CleverRaven/Cataclysm-DDA/pull/61118))
 
 ---
@@ -173,11 +178,6 @@
 * Update TALK_valhallist_mechanic.json ([#60980](https://github.com/CleverRaven/Cataclysm-DDA/pull/60980))
 * More mission origin fixes ([#60981](https://github.com/CleverRaven/Cataclysm-DDA/pull/60981))
 * Replace thermoplastic resin with plastic ([#60985](https://github.com/CleverRaven/Cataclysm-DDA/pull/60985))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-14-2243 ([1edc0a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-14-2243))
-
 * Use height_3d also for background sprite, not only for foreground ([#60994](https://github.com/CleverRaven/Cataclysm-DDA/pull/60994))
 * Make the syringe a weapon ([#60975](https://github.com/CleverRaven/Cataclysm-DDA/pull/60975))
 * Set random cosmetic traits when beginning creation of custom character ([#60959](https://github.com/CleverRaven/Cataclysm-DDA/pull/60959))

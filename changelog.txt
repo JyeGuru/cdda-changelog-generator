@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-19-1226 (a410b05)
 * Link flatbuffers in json formatter and fix undeclared class (#61118)
 
 Cataclysm-DDA experimental build 2022-09-19-0943 (7788b47)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2022-09-15-0113 (1e53c81)
 * Update TALK_valhallist_mechanic.json (#60980)
 * More mission origin fixes (#60981)
 * Replace thermoplastic resin with plastic (#60985)
-
-Cataclysm-DDA experimental build 2022-09-14-2243 (1edc0a5)
 * Use height_3d also for background sprite, not only for foreground (#60994)
 * Make the syringe a weapon (#60975)
 * Set random cosmetic traits when beginning creation of custom character (#60959)
