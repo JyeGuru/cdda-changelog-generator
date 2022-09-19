@@ -1,3 +1,13 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-19-0107 ([e5b3ca9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-0107))
+
+* Force locale independent parsing for flatbuffer parser. ([#61102](https://github.com/CleverRaven/Cataclysm-DDA/pull/61102))
+* Scrollbar dragging batch two ([#60953](https://github.com/CleverRaven/Cataclysm-DDA/pull/60953))
+* Small enchantment tweaking ([#60943](https://github.com/CleverRaven/Cataclysm-DDA/pull/60943))
+* Added bundled javelin recipe. ([#61027](https://github.com/CleverRaven/Cataclysm-DDA/pull/61027))
+* Forklifts! ([#61047](https://github.com/CleverRaven/Cataclysm-DDA/pull/61047))
 * [Innawood] Make foot cranks craftable again ([#61096](https://github.com/CleverRaven/Cataclysm-DDA/pull/61096))
 * Don't take pseudo items when mugging ([#61098](https://github.com/CleverRaven/Cataclysm-DDA/pull/61098))
 * Apply radiation health mod ONCE per day ([#61106](https://github.com/CleverRaven/Cataclysm-DDA/pull/61106))
@@ -57,12 +67,6 @@
 #### Cataclysm-DDA experimental build 2022-09-17-0626 ([cdcb071](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-0626))
 
 * Routine i18n updates on 17 September 2022 ([#61062](https://github.com/CleverRaven/Cataclysm-DDA/pull/61062))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-17-0440 ([e8b202d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-0440))
-
-* Introduce "draped over legs" sublocation for robes and dusters ([#60862](https://github.com/CleverRaven/Cataclysm-DDA/pull/60862))
 * Mark toxic waste map extras as man made ([#61053](https://github.com/CleverRaven/Cataclysm-DDA/pull/61053))
 * [Backrooms] Portal storm fix ([#61038](https://github.com/CleverRaven/Cataclysm-DDA/pull/61038))
 * Obsolete lit_aisle ([#61028](https://github.com/CleverRaven/Cataclysm-DDA/pull/61028))
@@ -159,7 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-09-15-0113 ([1e53c81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-0113))
 
 * Allow sharpened pipes to be used with Fencing ([#61008](https://github.com/CleverRaven/Cataclysm-DDA/pull/61008))
-* Flatten vehicle menus, make appliances menu top level ([#60868](https://github.com/CleverRaven/Cataclysm-DDA/pull/60868))
 * Update TALK_valhallist_mechanic.json ([#60980](https://github.com/CleverRaven/Cataclysm-DDA/pull/60980))
 * More mission origin fixes ([#60981](https://github.com/CleverRaven/Cataclysm-DDA/pull/60981))
 * Replace thermoplastic resin with plastic ([#60985](https://github.com/CleverRaven/Cataclysm-DDA/pull/60985))
@@ -180,11 +183,6 @@
 * Spill overflow/MIGRATION pockets from vehicle parts ([#60963](https://github.com/CleverRaven/Cataclysm-DDA/pull/60963))
 * Fix case hardened sheet metal gauntlet and sabaton materials. ([#60964](https://github.com/CleverRaven/Cataclysm-DDA/pull/60964))
 * Remove redundant medical threshold from Resilient and Solidly Built ([#60965](https://github.com/CleverRaven/Cataclysm-DDA/pull/60965))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-14-0119 ([8ef2dff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-14-0119))
-
 * Don't drop integrated armors on death ([#60968](https://github.com/CleverRaven/Cataclysm-DDA/pull/60968))
 * [Backrooms] Mapgen Fix 2 ([#60958](https://github.com/CleverRaven/Cataclysm-DDA/pull/60958))
 * Rebuild active_item cache for vehicles after refresh ([#60952](https://github.com/CleverRaven/Cataclysm-DDA/pull/60952))
@@ -218,9 +216,5 @@
 * Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
 * Add context for rock ([#60883](https://github.com/CleverRaven/Cataclysm-DDA/pull/60883))
-* [DinoMod] monster mass ([#60860](https://github.com/CleverRaven/Cataclysm-DDA/pull/60860))
-* Allow ethanol for alumentum recipe ([#60857](https://github.com/CleverRaven/Cataclysm-DDA/pull/60857))
-* Added batch time savings to several cooking recipes that needed it. ([#60859](https://github.com/CleverRaven/Cataclysm-DDA/pull/60859))
 * Fix collapse triggering debugmsg ([#60874](https://github.com/CleverRaven/Cataclysm-DDA/pull/60874))
 * Fix bionic fuels giving 1/1000 energy ([#60876](https://github.com/CleverRaven/Cataclysm-DDA/pull/60876))
-* Case Hardened material repairs ([#60871](https://github.com/CleverRaven/Cataclysm-DDA/pull/60871))
