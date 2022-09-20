@@ -1,3 +1,4 @@
+* Fix mingw locale independent build for real. (#61124)
 
 Cataclysm-DDA experimental build 2022-09-19-1910 (a9b1db4)
 * Update astyle docs to exclude src/third-party (#61115)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2022-09-15-0328 (d8c671b)
 * Correct encumbrance for ballistic vests (#60890)
 * Routine i18n updates on 10 September 2022 (#60891)
 * Properly obsolete filter paper recipe (#60886)
-* Add context for rock (#60883)

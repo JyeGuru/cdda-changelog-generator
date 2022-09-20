@@ -1,3 +1,4 @@
+* Fix mingw locale independent build for real. ([#61124](https://github.com/CleverRaven/Cataclysm-DDA/pull/61124))
 
 ---
 
@@ -221,4 +222,3 @@
 * Correct encumbrance for ballistic vests ([#60890](https://github.com/CleverRaven/Cataclysm-DDA/pull/60890))
 * Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
 * Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
-* Add context for rock ([#60883](https://github.com/CleverRaven/Cataclysm-DDA/pull/60883))
