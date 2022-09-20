@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-09-20-1409 (68af1b9)
 * Celcius to Celsius (#61137)
 * Improve Debug spawning item (#61127)
 * Fix taking photos on unused cameras. (#61135)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-20-1409 ([68af1b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-20-1409))
+
 * Celcius to Celsius ([#61137](https://github.com/CleverRaven/Cataclysm-DDA/pull/61137))
 * Improve Debug spawning item ([#61127](https://github.com/CleverRaven/Cataclysm-DDA/pull/61127))
 * Fix taking photos on unused cameras. ([#61135](https://github.com/CleverRaven/Cataclysm-DDA/pull/61135))
