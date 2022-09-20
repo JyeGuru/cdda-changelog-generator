@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-09-20-0515 (72591f7)
+* Update tool_armor.json (#61094)
 * Fix mingw locale independent build for real. (#61124)
 
 Cataclysm-DDA experimental build 2022-09-19-1910 (a9b1db4)
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2022-09-15-1017 (8d60ecb)
 
 Cataclysm-DDA experimental build 2022-09-15-0455 (4c355cf)
 * Expanded descriptions for rail mounted mandible guard (#60984)
-
-Cataclysm-DDA experimental build 2022-09-15-0328 (d8c671b)
 * Force electronics controls to appear in appliance menu (#61012)
 * Allow sharpened pipes to be used with Fencing (#61008)
 * Update TALK_valhallist_mechanic.json (#60980)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2022-09-15-0328 (d8c671b)
 * Stop running appveyor builds because they're redundant with GHA builds. (#60901)
 * Correct encumbrance for ballistic vests (#60890)
 * Routine i18n updates on 10 September 2022 (#60891)
-* Properly obsolete filter paper recipe (#60886)

@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-20-0515 ([72591f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-20-0515))
+
+* Update tool_armor.json ([#61094](https://github.com/CleverRaven/Cataclysm-DDA/pull/61094))
 * Fix mingw locale independent build for real. ([#61124](https://github.com/CleverRaven/Cataclysm-DDA/pull/61124))
 
 ---
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-09-15-0455 ([4c355cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-0455))
 
 * Expanded descriptions for rail mounted mandible guard ([#60984](https://github.com/CleverRaven/Cataclysm-DDA/pull/60984))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-15-0328 ([d8c671b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-0328))
-
 * Force electronics controls to appear in appliance menu ([#61012](https://github.com/CleverRaven/Cataclysm-DDA/pull/61012))
 * Allow sharpened pipes to be used with Fencing ([#61008](https://github.com/CleverRaven/Cataclysm-DDA/pull/61008))
 * Update TALK_valhallist_mechanic.json ([#60980](https://github.com/CleverRaven/Cataclysm-DDA/pull/60980))
@@ -221,4 +222,3 @@
 * Stop running appveyor builds because they're redundant with GHA builds. ([#60901](https://github.com/CleverRaven/Cataclysm-DDA/pull/60901))
 * Correct encumbrance for ballistic vests ([#60890](https://github.com/CleverRaven/Cataclysm-DDA/pull/60890))
 * Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
-* Properly obsolete filter paper recipe ([#60886](https://github.com/CleverRaven/Cataclysm-DDA/pull/60886))
