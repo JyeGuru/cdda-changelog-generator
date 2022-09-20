@@ -1,3 +1,15 @@
+* Celcius to Celsius ([#61137](https://github.com/CleverRaven/Cataclysm-DDA/pull/61137))
+* Improve Debug spawning item ([#61127](https://github.com/CleverRaven/Cataclysm-DDA/pull/61127))
+* Fix taking photos on unused cameras. ([#61135](https://github.com/CleverRaven/Cataclysm-DDA/pull/61135))
+* Suppress 'ignored exclude errors' from astyle entirely ([#61136](https://github.com/CleverRaven/Cataclysm-DDA/pull/61136))
+* [Infrastructure] Ignore tileset scratch files in compose.py ([#61148](https://github.com/CleverRaven/Cataclysm-DDA/pull/61148))
+* [Bugfix] Fix disappeared OM roads due to zero pixelscale ([#61133](https://github.com/CleverRaven/Cataclysm-DDA/pull/61133))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-20-1258 ([78168a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-20-1258))
+
+* Fix saving global autopickup rules ([#61125](https://github.com/CleverRaven/Cataclysm-DDA/pull/61125))
 
 ---
 
@@ -111,18 +123,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-09-16-0958 ([fd463d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0958))
-
-* [Magiclysm] Druid healing spells ([#60897](https://github.com/CleverRaven/Cataclysm-DDA/pull/60897))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-16-0838 ([19c4eb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0838))
-
-* [Magiclysm] Soul pressure can be turned off now ([#60894](https://github.com/CleverRaven/Cataclysm-DDA/pull/60894))
-
----
-
 #### Cataclysm-DDA experimental build 2022-09-16-0555 ([678afdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0555))
 
 * Update the table of contents in doc/JSON_INFO.md ([#61033](https://github.com/CleverRaven/Cataclysm-DDA/pull/61033))
@@ -176,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-09-15-1017 ([8d60ecb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1017))
 
 * Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-15-0455 ([4c355cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-0455))
-
 * Expanded descriptions for rail mounted mandible guard ([#60984](https://github.com/CleverRaven/Cataclysm-DDA/pull/60984))
 * Force electronics controls to appear in appliance menu ([#61012](https://github.com/CleverRaven/Cataclysm-DDA/pull/61012))
 * Allow sharpened pipes to be used with Fencing ([#61008](https://github.com/CleverRaven/Cataclysm-DDA/pull/61008))
@@ -202,7 +197,6 @@
 * Adding myself to confirm bug list ([#60950](https://github.com/CleverRaven/Cataclysm-DDA/pull/60950))
 * add very important body pillow variants ([#60932](https://github.com/CleverRaven/Cataclysm-DDA/pull/60932))
 * Sheet Metal Armor Part 4: The Finale of the increasingly-inaccurately named trilogy ([#60926](https://github.com/CleverRaven/Cataclysm-DDA/pull/60926))
-* Serialize bike racks to json instead of strings ([#60905](https://github.com/CleverRaven/Cataclysm-DDA/pull/60905))
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
 * Add source Creature to explosions ([#60910](https://github.com/CleverRaven/Cataclysm-DDA/pull/60910))
@@ -218,7 +212,3 @@
 * Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))
 * Enable 'Cataclysm Windows build' on drafts ([#60917](https://github.com/CleverRaven/Cataclysm-DDA/pull/60917))
 * [DinoMod] basement mapgen fixes ([#60906](https://github.com/CleverRaven/Cataclysm-DDA/pull/60906))
-* [Backrooms] Map extra fix and additions ([#60895](https://github.com/CleverRaven/Cataclysm-DDA/pull/60895))
-* Stop running appveyor builds because they're redundant with GHA builds. ([#60901](https://github.com/CleverRaven/Cataclysm-DDA/pull/60901))
-* Correct encumbrance for ballistic vests ([#60890](https://github.com/CleverRaven/Cataclysm-DDA/pull/60890))
-* Routine i18n updates on 10 September 2022 ([#60891](https://github.com/CleverRaven/Cataclysm-DDA/pull/60891))
