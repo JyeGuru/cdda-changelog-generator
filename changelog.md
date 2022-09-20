@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-20-1713 ([25fd53c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-20-1713))
+
+* Correct repair costs in vehicle UI ([#61109](https://github.com/CleverRaven/Cataclysm-DDA/pull/61109))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-20-1409 ([68af1b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-20-1409))
 
 * Celcius to Celsius ([#61137](https://github.com/CleverRaven/Cataclysm-DDA/pull/61137))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-09-15-1118 ([ca61b82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1118))
 
 * Add an I4 diesel engine ([#60999](https://github.com/CleverRaven/Cataclysm-DDA/pull/60999))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-15-1017 ([8d60ecb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1017))
-
 * Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
 * Expanded descriptions for rail mounted mandible guard ([#60984](https://github.com/CleverRaven/Cataclysm-DDA/pull/60984))
 * Force electronics controls to appear in appliance menu ([#61012](https://github.com/CleverRaven/Cataclysm-DDA/pull/61012))
@@ -216,4 +217,3 @@
 * Allow both mouse movement and click-and-drag without local keybinds ([#60946](https://github.com/CleverRaven/Cataclysm-DDA/pull/60946))
 * Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))
 * Enable 'Cataclysm Windows build' on drafts ([#60917](https://github.com/CleverRaven/Cataclysm-DDA/pull/60917))
-* [DinoMod] basement mapgen fixes ([#60906](https://github.com/CleverRaven/Cataclysm-DDA/pull/60906))
