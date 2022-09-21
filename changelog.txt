@@ -107,8 +107,6 @@ Cataclysm-DDA experimental build 2022-09-15-2042 (a446e04)
 
 Cataclysm-DDA experimental build 2022-09-15-1928 (6a176f0)
 * Add origin documentation to mission_json.md (#60982)
-
-Cataclysm-DDA experimental build 2022-09-15-1229 (fc2b611)
 * Diesel engine fixes (#61019)
 * Add an I4 diesel engine (#60999)
 * Remove extra materials from weapons (#61014)

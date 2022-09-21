@@ -179,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-09-15-1928 ([6a176f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1928))
 
 * Add origin documentation to mission_json.md ([#60982](https://github.com/CleverRaven/Cataclysm-DDA/pull/60982))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-15-1229 ([fc2b611](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1229))
-
 * Diesel engine fixes ([#61019](https://github.com/CleverRaven/Cataclysm-DDA/pull/61019))
 * Add an I4 diesel engine ([#60999](https://github.com/CleverRaven/Cataclysm-DDA/pull/60999))
 * Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
