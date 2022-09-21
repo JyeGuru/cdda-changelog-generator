@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-21-0544 ([8980350](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-0544))
+
+* Fix Enhanced Memory Banks description ([#61157](https://github.com/CleverRaven/Cataclysm-DDA/pull/61157))
 * Fix typos for Valhallist mapgen updates. ([#61110](https://github.com/CleverRaven/Cataclysm-DDA/pull/61110))
 * Carpet misc fix ([#61130](https://github.com/CleverRaven/Cataclysm-DDA/pull/61130))
 * Fix gunmods falling out of hub 01 HWP ([#61160](https://github.com/CleverRaven/Cataclysm-DDA/pull/61160))
@@ -173,11 +179,6 @@
 * Fix the "Find Lab Tunnels" mission ([#61000](https://github.com/CleverRaven/Cataclysm-DDA/pull/61000))
 * Warped trees ([#60936](https://github.com/CleverRaven/Cataclysm-DDA/pull/60936))
 * Swap Distraction Manager and Ignore buttons ([#61024](https://github.com/CleverRaven/Cataclysm-DDA/pull/61024))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-15-1928 ([6a176f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1928))
-
 * Add origin documentation to mission_json.md ([#60982](https://github.com/CleverRaven/Cataclysm-DDA/pull/60982))
 * Diesel engine fixes ([#61019](https://github.com/CleverRaven/Cataclysm-DDA/pull/61019))
 * Add an I4 diesel engine ([#60999](https://github.com/CleverRaven/Cataclysm-DDA/pull/60999))
@@ -205,7 +206,6 @@
 * Sheet Metal Armor Part 4: The Finale of the increasingly-inaccurately named trilogy ([#60926](https://github.com/CleverRaven/Cataclysm-DDA/pull/60926))
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
-* [Infrastructure] Easy tileset update for the terminal-averse ([#60923](https://github.com/CleverRaven/Cataclysm-DDA/pull/60923))
 * Fixing/expanding portal items ([#60925](https://github.com/CleverRaven/Cataclysm-DDA/pull/60925))
 * docs: front and center screenshot of the game ([#60927](https://github.com/CleverRaven/Cataclysm-DDA/pull/60927))
 * Jsonize electroreceptors ([#60929](https://github.com/CleverRaven/Cataclysm-DDA/pull/60929))
