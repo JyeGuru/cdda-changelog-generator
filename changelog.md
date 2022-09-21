@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-21-1254 ([4ee9085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-1254))
+
 * Rewrite bionic fuel system ([#61049](https://github.com/CleverRaven/Cataclysm-DDA/pull/61049))
 * Edit coat rack components to include long stick ([#61075](https://github.com/CleverRaven/Cataclysm-DDA/pull/61075))
 
@@ -172,11 +177,6 @@
 * Add MEDIEVAL_SWORDS category for magiclysm swords ([#60996](https://github.com/CleverRaven/Cataclysm-DDA/pull/60996))
 * [DinoMod] dino skulls ([#61006](https://github.com/CleverRaven/Cataclysm-DDA/pull/61006))
 * Random insect cleanup ([#61023](https://github.com/CleverRaven/Cataclysm-DDA/pull/61023))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-16-0337 ([b1e5ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0337))
-
 * More misc vehicle menu fixes ([#61025](https://github.com/CleverRaven/Cataclysm-DDA/pull/61025))
 * Fix gun/item repairs amount to match player's display breakpoints ([#60956](https://github.com/CleverRaven/Cataclysm-DDA/pull/60956))
 * Fix the "Find Lab Tunnels" mission ([#61000](https://github.com/CleverRaven/Cataclysm-DDA/pull/61000))
