@@ -1,3 +1,11 @@
+* Rewrite bionic fuel system ([#61049](https://github.com/CleverRaven/Cataclysm-DDA/pull/61049))
+* Edit coat rack components to include long stick ([#61075](https://github.com/CleverRaven/Cataclysm-DDA/pull/61075))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-21-1123 ([f848351](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-1123))
+
+* Fix advanced inventory manager crash on small terminals ([#61166](https://github.com/CleverRaven/Cataclysm-DDA/pull/61166))
 
 ---
 
@@ -170,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-09-16-0337 ([b1e5ac1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0337))
 
 * More misc vehicle menu fixes ([#61025](https://github.com/CleverRaven/Cataclysm-DDA/pull/61025))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-15-2042 ([a446e04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-2042))
-
 * Fix gun/item repairs amount to match player's display breakpoints ([#60956](https://github.com/CleverRaven/Cataclysm-DDA/pull/60956))
 * Fix the "Find Lab Tunnels" mission ([#61000](https://github.com/CleverRaven/Cataclysm-DDA/pull/61000))
 * Warped trees ([#60936](https://github.com/CleverRaven/Cataclysm-DDA/pull/60936))
@@ -203,11 +206,8 @@
 * tweak: shorten confirmation command ([#60954](https://github.com/CleverRaven/Cataclysm-DDA/pull/60954))
 * Adding myself to confirm bug list ([#60950](https://github.com/CleverRaven/Cataclysm-DDA/pull/60950))
 * add very important body pillow variants ([#60932](https://github.com/CleverRaven/Cataclysm-DDA/pull/60932))
-* Sheet Metal Armor Part 4: The Finale of the increasingly-inaccurately named trilogy ([#60926](https://github.com/CleverRaven/Cataclysm-DDA/pull/60926))
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
-* Fixing/expanding portal items ([#60925](https://github.com/CleverRaven/Cataclysm-DDA/pull/60925))
-* docs: front and center screenshot of the game ([#60927](https://github.com/CleverRaven/Cataclysm-DDA/pull/60927))
 * Jsonize electroreceptors ([#60929](https://github.com/CleverRaven/Cataclysm-DDA/pull/60929))
 * Cloth padded shirt ([#60930](https://github.com/CleverRaven/Cataclysm-DDA/pull/60930))
 * Allow both mouse movement and click-and-drag without local keybinds ([#60946](https://github.com/CleverRaven/Cataclysm-DDA/pull/60946))
