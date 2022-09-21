@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-21-1531 ([3d6730a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-1531))
+
+* [Magiclysm] Reduce Magus staves volume ([#61159](https://github.com/CleverRaven/Cataclysm-DDA/pull/61159))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-21-1254 ([4ee9085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-1254))
 
 * Rewrite bionic fuel system ([#61049](https://github.com/CleverRaven/Cataclysm-DDA/pull/61049))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-09-16-0555 ([678afdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0555))
 
 * Update the table of contents in doc/JSON_INFO.md ([#61033](https://github.com/CleverRaven/Cataclysm-DDA/pull/61033))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-16-0447 ([2157bc4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0447))
-
 * Emphasize pocket priority and choose pockets in order when filling count_by_charges items ([#60961](https://github.com/CleverRaven/Cataclysm-DDA/pull/60961))
 * fix: nerf ambulance drug spawns ([#60974](https://github.com/CleverRaven/Cataclysm-DDA/pull/60974))
 * [Magiclysm] Add OVERSIZE to flesh pouch ([#60931](https://github.com/CleverRaven/Cataclysm-DDA/pull/60931))
@@ -208,7 +209,6 @@
 * add very important body pillow variants ([#60932](https://github.com/CleverRaven/Cataclysm-DDA/pull/60932))
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
-* Jsonize electroreceptors ([#60929](https://github.com/CleverRaven/Cataclysm-DDA/pull/60929))
 * Cloth padded shirt ([#60930](https://github.com/CleverRaven/Cataclysm-DDA/pull/60930))
 * Allow both mouse movement and click-and-drag without local keybinds ([#60946](https://github.com/CleverRaven/Cataclysm-DDA/pull/60946))
 * Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))
