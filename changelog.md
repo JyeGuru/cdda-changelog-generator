@@ -1,3 +1,13 @@
+* Fix typos for Valhallist mapgen updates. ([#61110](https://github.com/CleverRaven/Cataclysm-DDA/pull/61110))
+* Carpet misc fix ([#61130](https://github.com/CleverRaven/Cataclysm-DDA/pull/61130))
+* Fix gunmods falling out of hub 01 HWP ([#61160](https://github.com/CleverRaven/Cataclysm-DDA/pull/61160))
+* Fix localized world and npc names ([#61167](https://github.com/CleverRaven/Cataclysm-DDA/pull/61167))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-21-0319 ([66b8a27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-0319))
+
+* Antennae/Horns/Antlers check for SOFT gear instead of hardcoded materials ([#61168](https://github.com/CleverRaven/Cataclysm-DDA/pull/61168))
 
 ---
 
@@ -175,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-09-15-1229 ([fc2b611](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1229))
 
 * Diesel engine fixes ([#61019](https://github.com/CleverRaven/Cataclysm-DDA/pull/61019))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-15-1118 ([ca61b82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-15-1118))
-
 * Add an I4 diesel engine ([#60999](https://github.com/CleverRaven/Cataclysm-DDA/pull/60999))
 * Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
 * Expanded descriptions for rail mounted mandible guard ([#60984](https://github.com/CleverRaven/Cataclysm-DDA/pull/60984))
@@ -205,10 +210,6 @@
 * Sheet Metal Armor Part 4: The Finale of the increasingly-inaccurately named trilogy ([#60926](https://github.com/CleverRaven/Cataclysm-DDA/pull/60926))
 * Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
-* Add source Creature to explosions ([#60910](https://github.com/CleverRaven/Cataclysm-DDA/pull/60910))
-* Call rebuild_vehicle_level_caches in grabbed_veh_move ([#60911](https://github.com/CleverRaven/Cataclysm-DDA/pull/60911))
-* [DinoMod] three ardent ankylosaurs ([#60914](https://github.com/CleverRaven/Cataclysm-DDA/pull/60914))
-* Ma style and mana ([#60922](https://github.com/CleverRaven/Cataclysm-DDA/pull/60922))
 * [Infrastructure] Easy tileset update for the terminal-averse ([#60923](https://github.com/CleverRaven/Cataclysm-DDA/pull/60923))
 * Fixing/expanding portal items ([#60925](https://github.com/CleverRaven/Cataclysm-DDA/pull/60925))
 * docs: front and center screenshot of the game ([#60927](https://github.com/CleverRaven/Cataclysm-DDA/pull/60927))
@@ -216,4 +217,3 @@
 * Cloth padded shirt ([#60930](https://github.com/CleverRaven/Cataclysm-DDA/pull/60930))
 * Allow both mouse movement and click-and-drag without local keybinds ([#60946](https://github.com/CleverRaven/Cataclysm-DDA/pull/60946))
 * Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))
-* Enable 'Cataclysm Windows build' on drafts ([#60917](https://github.com/CleverRaven/Cataclysm-DDA/pull/60917))
