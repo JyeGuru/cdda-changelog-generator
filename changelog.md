@@ -1,3 +1,11 @@
+* Allow newly added eggs to be cooked ([#61037](https://github.com/CleverRaven/Cataclysm-DDA/pull/61037))
+* fire drill 'recharge' possible in darkness ([#61177](https://github.com/CleverRaven/Cataclysm-DDA/pull/61177))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-22-1002 ([1c29431](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-1002))
+
+* Fix tactical grenade pouch not displaying grenade restriction ([#61186](https://github.com/CleverRaven/Cataclysm-DDA/pull/61186))
 
 ---
 
@@ -182,11 +190,6 @@
 * [Backrooms] Portal storm fix ([#61038](https://github.com/CleverRaven/Cataclysm-DDA/pull/61038))
 * Obsolete lit_aisle ([#61028](https://github.com/CleverRaven/Cataclysm-DDA/pull/61028))
 * Update explosives.json ([#61026](https://github.com/CleverRaven/Cataclysm-DDA/pull/61026))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-17-0336 ([21c2f1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-0336))
-
 * Boots.json motorbike boots category change ([#61016](https://github.com/CleverRaven/Cataclysm-DDA/pull/61016))
 * Update the table of contents in doc/JSON_INFO.md ([#61033](https://github.com/CleverRaven/Cataclysm-DDA/pull/61033))
 * Emphasize pocket priority and choose pockets in order when filling count_by_charges items ([#60961](https://github.com/CleverRaven/Cataclysm-DDA/pull/60961))
@@ -220,6 +223,3 @@
 * Rebuild active_item cache for vehicles after refresh ([#60952](https://github.com/CleverRaven/Cataclysm-DDA/pull/60952))
 * Misc Updates in honor of Grandparents Day ([#60955](https://github.com/CleverRaven/Cataclysm-DDA/pull/60955))
 * tweak: shorten confirmation command ([#60954](https://github.com/CleverRaven/Cataclysm-DDA/pull/60954))
-* Adding myself to confirm bug list ([#60950](https://github.com/CleverRaven/Cataclysm-DDA/pull/60950))
-* Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
-* Allow both mouse movement and click-and-drag without local keybinds ([#60946](https://github.com/CleverRaven/Cataclysm-DDA/pull/60946))
