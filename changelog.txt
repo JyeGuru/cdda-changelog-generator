@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-09-22-2024 (91fa8e1)
+* Orient traffic light relative to pavement (#61199)
 * Allow newly added eggs to be cooked (#61037)
 * fire drill 'recharge' possible in darkness (#61177)
 
@@ -70,7 +73,6 @@ Cataclysm-DDA experimental build 2022-09-19-0943 (7788b47)
 
 Cataclysm-DDA experimental build 2022-09-19-0107 (e5b3ca9)
 * Force locale independent parsing for flatbuffer parser. (#61102)
-* Scrollbar dragging batch two (#60953)
 * Added bundled javelin recipe. (#61027)
 * Forklifts! (#61047)
 * [Innawood] Make foot cranks craftable again (#61096)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2022-09-17-2230 (a3c6a29)
 
 Cataclysm-DDA experimental build 2022-09-17-2114 (192a32a)
 * Fix Windows crossbuild (#61080)
-
-Cataclysm-DDA experimental build 2022-09-17-0626 (cdcb071)
 * Routine i18n updates on 17 September 2022 (#61062)
 * Mark toxic waste map extras as man made (#61053)
 * [Backrooms] Portal storm fix (#61038)
@@ -142,6 +142,5 @@ Cataclysm-DDA experimental build 2022-09-17-0626 (cdcb071)
 * Remove redundant medical threshold from Resilient and Solidly Built (#60965)
 * Don't drop integrated armors on death (#60968)
 * [Backrooms] Mapgen Fix 2 (#60958)
-* Rebuild active_item cache for vehicles after refresh (#60952)
 * Misc Updates in honor of Grandparents Day (#60955)
 * tweak: shorten confirmation command (#60954)

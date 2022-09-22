@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-22-2024 ([91fa8e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-2024))
+
+* Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
 * Allow newly added eggs to be cooked ([#61037](https://github.com/CleverRaven/Cataclysm-DDA/pull/61037))
 * fire drill 'recharge' possible in darkness ([#61177](https://github.com/CleverRaven/Cataclysm-DDA/pull/61177))
 
@@ -124,7 +130,6 @@
 #### Cataclysm-DDA experimental build 2022-09-19-0107 ([e5b3ca9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-0107))
 
 * Force locale independent parsing for flatbuffer parser. ([#61102](https://github.com/CleverRaven/Cataclysm-DDA/pull/61102))
-* Scrollbar dragging batch two ([#60953](https://github.com/CleverRaven/Cataclysm-DDA/pull/60953))
 * Added bundled javelin recipe. ([#61027](https://github.com/CleverRaven/Cataclysm-DDA/pull/61027))
 * Forklifts! ([#61047](https://github.com/CleverRaven/Cataclysm-DDA/pull/61047))
 * [Innawood] Make foot cranks craftable again ([#61096](https://github.com/CleverRaven/Cataclysm-DDA/pull/61096))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-09-17-2114 ([192a32a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-2114))
 
 * Fix Windows crossbuild ([#61080](https://github.com/CleverRaven/Cataclysm-DDA/pull/61080))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-17-0626 ([cdcb071](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-0626))
-
 * Routine i18n updates on 17 September 2022 ([#61062](https://github.com/CleverRaven/Cataclysm-DDA/pull/61062))
 * Mark toxic waste map extras as man made ([#61053](https://github.com/CleverRaven/Cataclysm-DDA/pull/61053))
 * [Backrooms] Portal storm fix ([#61038](https://github.com/CleverRaven/Cataclysm-DDA/pull/61038))
@@ -220,6 +220,5 @@
 * Remove redundant medical threshold from Resilient and Solidly Built ([#60965](https://github.com/CleverRaven/Cataclysm-DDA/pull/60965))
 * Don't drop integrated armors on death ([#60968](https://github.com/CleverRaven/Cataclysm-DDA/pull/60968))
 * [Backrooms] Mapgen Fix 2 ([#60958](https://github.com/CleverRaven/Cataclysm-DDA/pull/60958))
-* Rebuild active_item cache for vehicles after refresh ([#60952](https://github.com/CleverRaven/Cataclysm-DDA/pull/60952))
 * Misc Updates in honor of Grandparents Day ([#60955](https://github.com/CleverRaven/Cataclysm-DDA/pull/60955))
 * tweak: shorten confirmation command ([#60954](https://github.com/CleverRaven/Cataclysm-DDA/pull/60954))
