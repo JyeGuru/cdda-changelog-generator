@@ -1,6 +1,29 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-22-0512 ([3327a22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-0512))
+
+* Add expected dissect proficiencies to more monsters ([#61158](https://github.com/CleverRaven/Cataclysm-DDA/pull/61158))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-22-0130 ([8c5a5eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-0130))
+
+* Add debug menu option to force ambient temperature ([#61138](https://github.com/CleverRaven/Cataclysm-DDA/pull/61138))
+* [DinoMod] anchisaurus and barosaurus ([#61152](https://github.com/CleverRaven/Cataclysm-DDA/pull/61152))
+* remove the `house_duplex5` guest room bathtub ([#61181](https://github.com/CleverRaven/Cataclysm-DDA/pull/61181))
+* makeshift blindfold looks like fix ([#61182](https://github.com/CleverRaven/Cataclysm-DDA/pull/61182))
+* fries can spoil ([#61183](https://github.com/CleverRaven/Cataclysm-DDA/pull/61183))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-22-0032 ([1a6085e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-0032))
+
+* Stop liquid transfer from leaky tank before debugmsg ([#61184](https://github.com/CleverRaven/Cataclysm-DDA/pull/61184))
+* Fix monster_attack.py missed elements ([#61185](https://github.com/CleverRaven/Cataclysm-DDA/pull/61185))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-21-1531 ([3d6730a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-1531))
 
 * [Magiclysm] Reduce Magus staves volume ([#61159](https://github.com/CleverRaven/Cataclysm-DDA/pull/61159))
@@ -94,7 +117,6 @@
 
 * Force locale independent parsing for flatbuffer parser. ([#61102](https://github.com/CleverRaven/Cataclysm-DDA/pull/61102))
 * Scrollbar dragging batch two ([#60953](https://github.com/CleverRaven/Cataclysm-DDA/pull/60953))
-* Small enchantment tweaking ([#60943](https://github.com/CleverRaven/Cataclysm-DDA/pull/60943))
 * Added bundled javelin recipe. ([#61027](https://github.com/CleverRaven/Cataclysm-DDA/pull/61027))
 * Forklifts! ([#61047](https://github.com/CleverRaven/Cataclysm-DDA/pull/61047))
 * [Innawood] Make foot cranks craftable again ([#61096](https://github.com/CleverRaven/Cataclysm-DDA/pull/61096))
@@ -166,22 +188,15 @@
 #### Cataclysm-DDA experimental build 2022-09-17-0336 ([21c2f1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-0336))
 
 * Boots.json motorbike boots category change ([#61016](https://github.com/CleverRaven/Cataclysm-DDA/pull/61016))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-16-0555 ([678afdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-16-0555))
-
 * Update the table of contents in doc/JSON_INFO.md ([#61033](https://github.com/CleverRaven/Cataclysm-DDA/pull/61033))
 * Emphasize pocket priority and choose pockets in order when filling count_by_charges items ([#60961](https://github.com/CleverRaven/Cataclysm-DDA/pull/60961))
 * fix: nerf ambulance drug spawns ([#60974](https://github.com/CleverRaven/Cataclysm-DDA/pull/60974))
-* [Magiclysm] Add OVERSIZE to flesh pouch ([#60931](https://github.com/CleverRaven/Cataclysm-DDA/pull/60931))
 * Add MEDIEVAL_SWORDS category for magiclysm swords ([#60996](https://github.com/CleverRaven/Cataclysm-DDA/pull/60996))
 * [DinoMod] dino skulls ([#61006](https://github.com/CleverRaven/Cataclysm-DDA/pull/61006))
 * Random insect cleanup ([#61023](https://github.com/CleverRaven/Cataclysm-DDA/pull/61023))
 * More misc vehicle menu fixes ([#61025](https://github.com/CleverRaven/Cataclysm-DDA/pull/61025))
 * Fix gun/item repairs amount to match player's display breakpoints ([#60956](https://github.com/CleverRaven/Cataclysm-DDA/pull/60956))
 * Fix the "Find Lab Tunnels" mission ([#61000](https://github.com/CleverRaven/Cataclysm-DDA/pull/61000))
-* Warped trees ([#60936](https://github.com/CleverRaven/Cataclysm-DDA/pull/60936))
 * Swap Distraction Manager and Ignore buttons ([#61024](https://github.com/CleverRaven/Cataclysm-DDA/pull/61024))
 * Add origin documentation to mission_json.md ([#60982](https://github.com/CleverRaven/Cataclysm-DDA/pull/60982))
 * Diesel engine fixes ([#61019](https://github.com/CleverRaven/Cataclysm-DDA/pull/61019))
@@ -206,9 +221,5 @@
 * Misc Updates in honor of Grandparents Day ([#60955](https://github.com/CleverRaven/Cataclysm-DDA/pull/60955))
 * tweak: shorten confirmation command ([#60954](https://github.com/CleverRaven/Cataclysm-DDA/pull/60954))
 * Adding myself to confirm bug list ([#60950](https://github.com/CleverRaven/Cataclysm-DDA/pull/60950))
-* add very important body pillow variants ([#60932](https://github.com/CleverRaven/Cataclysm-DDA/pull/60932))
-* Add proper looks_like to electric forge appliance ([#60944](https://github.com/CleverRaven/Cataclysm-DDA/pull/60944))
 * Fix tile display of the FOODCO kitchen buddy appliance ([#60947](https://github.com/CleverRaven/Cataclysm-DDA/pull/60947))
-* Cloth padded shirt ([#60930](https://github.com/CleverRaven/Cataclysm-DDA/pull/60930))
 * Allow both mouse movement and click-and-drag without local keybinds ([#60946](https://github.com/CleverRaven/Cataclysm-DDA/pull/60946))
-* Routine tileset updates on 11 September 2022 ([#60933](https://github.com/CleverRaven/Cataclysm-DDA/pull/60933))
