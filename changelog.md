@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-24-0526 ([65b77c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-24-0526))
+
+* Routine i18n updates on 24 September 2022 ([#61217](https://github.com/CleverRaven/Cataclysm-DDA/pull/61217))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-23-0555 ([5a82316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-23-0555))
 
 * Throwing practice is now difficulty zero ([#61198](https://github.com/CleverRaven/Cataclysm-DDA/pull/61198))
@@ -185,11 +191,6 @@
 * Innawood antenna recipe fix ([#61043](https://github.com/CleverRaven/Cataclysm-DDA/pull/61043))
 * Store reload_option::moves earlier ([#61046](https://github.com/CleverRaven/Cataclysm-DDA/pull/61046))
 * Set 1mL minimum volume for crafts ([#61056](https://github.com/CleverRaven/Cataclysm-DDA/pull/61056))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-17-2114 ([192a32a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-2114))
-
 * Fix Windows crossbuild ([#61080](https://github.com/CleverRaven/Cataclysm-DDA/pull/61080))
 * Routine i18n updates on 17 September 2022 ([#61062](https://github.com/CleverRaven/Cataclysm-DDA/pull/61062))
 * Mark toxic waste map extras as man made ([#61053](https://github.com/CleverRaven/Cataclysm-DDA/pull/61053))
@@ -226,4 +227,3 @@
 * Remove redundant medical threshold from Resilient and Solidly Built ([#60965](https://github.com/CleverRaven/Cataclysm-DDA/pull/60965))
 * Don't drop integrated armors on death ([#60968](https://github.com/CleverRaven/Cataclysm-DDA/pull/60968))
 * [Backrooms] Mapgen Fix 2 ([#60958](https://github.com/CleverRaven/Cataclysm-DDA/pull/60958))
-* Misc Updates in honor of Grandparents Day ([#60955](https://github.com/CleverRaven/Cataclysm-DDA/pull/60955))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-24-0526 (65b77c9)
+* Routine i18n updates on 24 September 2022 (#61217)
+
 Cataclysm-DDA experimental build 2022-09-23-0555 (5a82316)
 * Throwing practice is now difficulty zero (#61198)
 
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2022-09-17-2230 (a3c6a29)
 * Innawood antenna recipe fix (#61043)
 * Store reload_option::moves earlier (#61046)
 * Set 1mL minimum volume for crafts (#61056)
-
-Cataclysm-DDA experimental build 2022-09-17-2114 (192a32a)
 * Fix Windows crossbuild (#61080)
 * Routine i18n updates on 17 September 2022 (#61062)
 * Mark toxic waste map extras as man made (#61053)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2022-09-17-2114 (192a32a)
 * Remove redundant medical threshold from Resilient and Solidly Built (#60965)
 * Don't drop integrated armors on death (#60968)
 * [Backrooms] Mapgen Fix 2 (#60958)
-* Misc Updates in honor of Grandparents Day (#60955)
