@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-25-0649 ([90fc2e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-25-0649))
+
+* Personal layer items do not conflict ([#61170](https://github.com/CleverRaven/Cataclysm-DDA/pull/61170))
 * Added cottonwood tree boll to cottonwood tree and a recipe. ([#61100](https://github.com/CleverRaven/Cataclysm-DDA/pull/61100))
 * Make reload_activity_actor take item::reload_option ([#61122](https://github.com/CleverRaven/Cataclysm-DDA/pull/61122))
 * Fix the has_active_bionic loop so that it only returns for the requested bionic ([#61242](https://github.com/CleverRaven/Cataclysm-DDA/pull/61242))
@@ -182,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-09-18-1323 ([ef8ee1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-1323))
 
 * Fix inverted optional value check loading graphical mods. ([#61089](https://github.com/CleverRaven/Cataclysm-DDA/pull/61089))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-18-0831 ([99a3907](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-0831))
-
 * 'loffice_tower_16' shouldn't be displayed as open air on mapview ([#61084](https://github.com/CleverRaven/Cataclysm-DDA/pull/61084))
 * flu shot chang ([#61021](https://github.com/CleverRaven/Cataclysm-DDA/pull/61021))
 * Pixelscale per spritesheet ([#61061](https://github.com/CleverRaven/Cataclysm-DDA/pull/61061))
@@ -217,4 +218,3 @@
 * Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
 * Force electronics controls to appear in appliance menu ([#61012](https://github.com/CleverRaven/Cataclysm-DDA/pull/61012))
 * Allow sharpened pipes to be used with Fencing ([#61008](https://github.com/CleverRaven/Cataclysm-DDA/pull/61008))
-* Use height_3d also for background sprite, not only for foreground ([#60994](https://github.com/CleverRaven/Cataclysm-DDA/pull/60994))
