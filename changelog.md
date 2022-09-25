@@ -207,7 +207,6 @@
 * Update explosives.json ([#61026](https://github.com/CleverRaven/Cataclysm-DDA/pull/61026))
 * Boots.json motorbike boots category change ([#61016](https://github.com/CleverRaven/Cataclysm-DDA/pull/61016))
 * Update the table of contents in doc/JSON_INFO.md ([#61033](https://github.com/CleverRaven/Cataclysm-DDA/pull/61033))
-* Add MEDIEVAL_SWORDS category for magiclysm swords ([#60996](https://github.com/CleverRaven/Cataclysm-DDA/pull/60996))
 * [DinoMod] dino skulls ([#61006](https://github.com/CleverRaven/Cataclysm-DDA/pull/61006))
 * Random insect cleanup ([#61023](https://github.com/CleverRaven/Cataclysm-DDA/pull/61023))
 * More misc vehicle menu fixes ([#61025](https://github.com/CleverRaven/Cataclysm-DDA/pull/61025))
