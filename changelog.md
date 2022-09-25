@@ -1,3 +1,20 @@
+* Added cottonwood tree boll to cottonwood tree and a recipe. ([#61100](https://github.com/CleverRaven/Cataclysm-DDA/pull/61100))
+* Make reload_activity_actor take item::reload_option ([#61122](https://github.com/CleverRaven/Cataclysm-DDA/pull/61122))
+* Fix the has_active_bionic loop so that it only returns for the requested bionic ([#61242](https://github.com/CleverRaven/Cataclysm-DDA/pull/61242))
+* Threshold breaching should start when strength 3 dreams start ... ([#61238](https://github.com/CleverRaven/Cataclysm-DDA/pull/61238))
+* Handle fake parts in bike racks ([#61234](https://github.com/CleverRaven/Cataclysm-DDA/pull/61234))
+* Fix tempered rapier recipe ([#61232](https://github.com/CleverRaven/Cataclysm-DDA/pull/61232))
+* [Innawood] Adds some more recipes, mainly for Magiclysm compatibility  ([#61221](https://github.com/CleverRaven/Cataclysm-DDA/pull/61221))
+* Mobile home park ([#61216](https://github.com/CleverRaven/Cataclysm-DDA/pull/61216))
+* Zombie animals don't fear fire ([#61210](https://github.com/CleverRaven/Cataclysm-DDA/pull/61210))
+* [Innawood] bulletin board ([#61206](https://github.com/CleverRaven/Cataclysm-DDA/pull/61206))
+* [DinoMod] tenontosaurus and zombie dryosaurus ([#61205](https://github.com/CleverRaven/Cataclysm-DDA/pull/61205))
+* npctrade: fix sells_belongings and nested refusal ([#61193](https://github.com/CleverRaven/Cataclysm-DDA/pull/61193))
+* bird weakpoints ([#61187](https://github.com/CleverRaven/Cataclysm-DDA/pull/61187))
+* Vehicle water faucet fixes ([#61164](https://github.com/CleverRaven/Cataclysm-DDA/pull/61164))
+* Magiclysm Purified and Impure Meat Inheritance Error ([#61145](https://github.com/CleverRaven/Cataclysm-DDA/pull/61145))
+* [Magiclysm] Attunement messages ([#61067](https://github.com/CleverRaven/Cataclysm-DDA/pull/61067))
+* Expand mending for repairing gun damage ([#61011](https://github.com/CleverRaven/Cataclysm-DDA/pull/61011))
 
 ---
 
@@ -173,17 +190,7 @@
 * 'loffice_tower_16' shouldn't be displayed as open air on mapview ([#61084](https://github.com/CleverRaven/Cataclysm-DDA/pull/61084))
 * flu shot chang ([#61021](https://github.com/CleverRaven/Cataclysm-DDA/pull/61021))
 * Pixelscale per spritesheet ([#61061](https://github.com/CleverRaven/Cataclysm-DDA/pull/61061))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-18-0726 ([29cdbc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-0726))
-
 * Add looks like to mutagens and primers ([#61059](https://github.com/CleverRaven/Cataclysm-DDA/pull/61059))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-17-2230 ([a3c6a29](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-17-2230))
-
 * Tamable Wildlife: Tamable Bugs ([#61020](https://github.com/CleverRaven/Cataclysm-DDA/pull/61020))
 * Update toiletries.json ([#61068](https://github.com/CleverRaven/Cataclysm-DDA/pull/61068))
 * Enable to cancel rename the faction base name  ([#61040](https://github.com/CleverRaven/Cataclysm-DDA/pull/61040))
@@ -199,31 +206,15 @@
 * Update explosives.json ([#61026](https://github.com/CleverRaven/Cataclysm-DDA/pull/61026))
 * Boots.json motorbike boots category change ([#61016](https://github.com/CleverRaven/Cataclysm-DDA/pull/61016))
 * Update the table of contents in doc/JSON_INFO.md ([#61033](https://github.com/CleverRaven/Cataclysm-DDA/pull/61033))
-* Emphasize pocket priority and choose pockets in order when filling count_by_charges items ([#60961](https://github.com/CleverRaven/Cataclysm-DDA/pull/60961))
-* fix: nerf ambulance drug spawns ([#60974](https://github.com/CleverRaven/Cataclysm-DDA/pull/60974))
 * Add MEDIEVAL_SWORDS category for magiclysm swords ([#60996](https://github.com/CleverRaven/Cataclysm-DDA/pull/60996))
 * [DinoMod] dino skulls ([#61006](https://github.com/CleverRaven/Cataclysm-DDA/pull/61006))
 * Random insect cleanup ([#61023](https://github.com/CleverRaven/Cataclysm-DDA/pull/61023))
 * More misc vehicle menu fixes ([#61025](https://github.com/CleverRaven/Cataclysm-DDA/pull/61025))
-* Fix gun/item repairs amount to match player's display breakpoints ([#60956](https://github.com/CleverRaven/Cataclysm-DDA/pull/60956))
 * Fix the "Find Lab Tunnels" mission ([#61000](https://github.com/CleverRaven/Cataclysm-DDA/pull/61000))
 * Swap Distraction Manager and Ignore buttons ([#61024](https://github.com/CleverRaven/Cataclysm-DDA/pull/61024))
-* Add origin documentation to mission_json.md ([#60982](https://github.com/CleverRaven/Cataclysm-DDA/pull/60982))
 * Diesel engine fixes ([#61019](https://github.com/CleverRaven/Cataclysm-DDA/pull/61019))
 * Add an I4 diesel engine ([#60999](https://github.com/CleverRaven/Cataclysm-DDA/pull/60999))
 * Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
-* Expanded descriptions for rail mounted mandible guard ([#60984](https://github.com/CleverRaven/Cataclysm-DDA/pull/60984))
 * Force electronics controls to appear in appliance menu ([#61012](https://github.com/CleverRaven/Cataclysm-DDA/pull/61012))
 * Allow sharpened pipes to be used with Fencing ([#61008](https://github.com/CleverRaven/Cataclysm-DDA/pull/61008))
-* Update TALK_valhallist_mechanic.json ([#60980](https://github.com/CleverRaven/Cataclysm-DDA/pull/60980))
-* More mission origin fixes ([#60981](https://github.com/CleverRaven/Cataclysm-DDA/pull/60981))
-* Replace thermoplastic resin with plastic ([#60985](https://github.com/CleverRaven/Cataclysm-DDA/pull/60985))
 * Use height_3d also for background sprite, not only for foreground ([#60994](https://github.com/CleverRaven/Cataclysm-DDA/pull/60994))
-* Make the syringe a weapon ([#60975](https://github.com/CleverRaven/Cataclysm-DDA/pull/60975))
-* Set random cosmetic traits when beginning creation of custom character ([#60959](https://github.com/CleverRaven/Cataclysm-DDA/pull/60959))
-* Fix radio activation mod not being consumed ([#60962](https://github.com/CleverRaven/Cataclysm-DDA/pull/60962))
-* Spill overflow/MIGRATION pockets from vehicle parts ([#60963](https://github.com/CleverRaven/Cataclysm-DDA/pull/60963))
-* Fix case hardened sheet metal gauntlet and sabaton materials. ([#60964](https://github.com/CleverRaven/Cataclysm-DDA/pull/60964))
-* Remove redundant medical threshold from Resilient and Solidly Built ([#60965](https://github.com/CleverRaven/Cataclysm-DDA/pull/60965))
-* Don't drop integrated armors on death ([#60968](https://github.com/CleverRaven/Cataclysm-DDA/pull/60968))
-* [Backrooms] Mapgen Fix 2 ([#60958](https://github.com/CleverRaven/Cataclysm-DDA/pull/60958))
