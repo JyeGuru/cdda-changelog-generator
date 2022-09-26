@@ -216,4 +216,3 @@
 * Swap Distraction Manager and Ignore buttons ([#61024](https://github.com/CleverRaven/Cataclysm-DDA/pull/61024))
 * Diesel engine fixes ([#61019](https://github.com/CleverRaven/Cataclysm-DDA/pull/61019))
 * Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
-* Force electronics controls to appear in appliance menu ([#61012](https://github.com/CleverRaven/Cataclysm-DDA/pull/61012))
