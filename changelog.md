@@ -1,6 +1,20 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-26-0109 ([8ea9346](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-26-0109))
+
+* Fix type conversion warning ([#61247](https://github.com/CleverRaven/Cataclysm-DDA/pull/61247))
+* Add minimum recoil improvement limit ([#61252](https://github.com/CleverRaven/Cataclysm-DDA/pull/61252))
+* Prevent self-connect for ovens etc. ([#61263](https://github.com/CleverRaven/Cataclysm-DDA/pull/61263))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-25-2358 ([99c5e0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-25-2358))
+
+* Fix M72 LAW unpacking transform ([#61261](https://github.com/CleverRaven/Cataclysm-DDA/pull/61261))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-25-0649 ([90fc2e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-25-0649))
 
 * Personal layer items do not conflict ([#61170](https://github.com/CleverRaven/Cataclysm-DDA/pull/61170))
@@ -176,17 +190,7 @@
 #### Cataclysm-DDA experimental build 2022-09-18-2344 ([6b3eb71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-2344))
 
 * Hide "mana frame" part from install UI ([#61112](https://github.com/CleverRaven/Cataclysm-DDA/pull/61112))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-18-1424 ([df589a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-1424))
-
 * Fix typo in USE_XDG_DIR block for set_standard_filenames ([#61091](https://github.com/CleverRaven/Cataclysm-DDA/pull/61091))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-18-1323 ([ef8ee1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-1323))
-
 * Fix inverted optional value check loading graphical mods. ([#61089](https://github.com/CleverRaven/Cataclysm-DDA/pull/61089))
 * 'loffice_tower_16' shouldn't be displayed as open air on mapview ([#61084](https://github.com/CleverRaven/Cataclysm-DDA/pull/61084))
 * flu shot chang ([#61021](https://github.com/CleverRaven/Cataclysm-DDA/pull/61021))
@@ -207,13 +211,9 @@
 * Update explosives.json ([#61026](https://github.com/CleverRaven/Cataclysm-DDA/pull/61026))
 * Boots.json motorbike boots category change ([#61016](https://github.com/CleverRaven/Cataclysm-DDA/pull/61016))
 * Update the table of contents in doc/JSON_INFO.md ([#61033](https://github.com/CleverRaven/Cataclysm-DDA/pull/61033))
-* [DinoMod] dino skulls ([#61006](https://github.com/CleverRaven/Cataclysm-DDA/pull/61006))
 * Random insect cleanup ([#61023](https://github.com/CleverRaven/Cataclysm-DDA/pull/61023))
 * More misc vehicle menu fixes ([#61025](https://github.com/CleverRaven/Cataclysm-DDA/pull/61025))
-* Fix the "Find Lab Tunnels" mission ([#61000](https://github.com/CleverRaven/Cataclysm-DDA/pull/61000))
 * Swap Distraction Manager and Ignore buttons ([#61024](https://github.com/CleverRaven/Cataclysm-DDA/pull/61024))
 * Diesel engine fixes ([#61019](https://github.com/CleverRaven/Cataclysm-DDA/pull/61019))
-* Add an I4 diesel engine ([#60999](https://github.com/CleverRaven/Cataclysm-DDA/pull/60999))
 * Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
 * Force electronics controls to appear in appliance menu ([#61012](https://github.com/CleverRaven/Cataclysm-DDA/pull/61012))
-* Allow sharpened pipes to be used with Fencing ([#61008](https://github.com/CleverRaven/Cataclysm-DDA/pull/61008))
