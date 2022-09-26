@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-26-0846 ([b87b910](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-26-0846))
+
+* Routine tileset updates on 25 September 2022 ([#61267](https://github.com/CleverRaven/Cataclysm-DDA/pull/61267))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-26-0109 ([8ea9346](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-26-0109))
 
 * Fix type conversion warning ([#61247](https://github.com/CleverRaven/Cataclysm-DDA/pull/61247))
@@ -34,7 +40,6 @@
 * Vehicle water faucet fixes ([#61164](https://github.com/CleverRaven/Cataclysm-DDA/pull/61164))
 * Magiclysm Purified and Impure Meat Inheritance Error ([#61145](https://github.com/CleverRaven/Cataclysm-DDA/pull/61145))
 * [Magiclysm] Attunement messages ([#61067](https://github.com/CleverRaven/Cataclysm-DDA/pull/61067))
-* Expand mending for repairing gun damage ([#61011](https://github.com/CleverRaven/Cataclysm-DDA/pull/61011))
 
 ---
 
@@ -184,11 +189,6 @@
 * [Innawood] Make foot cranks craftable again ([#61096](https://github.com/CleverRaven/Cataclysm-DDA/pull/61096))
 * Don't take pseudo items when mugging ([#61098](https://github.com/CleverRaven/Cataclysm-DDA/pull/61098))
 * Apply radiation health mod ONCE per day ([#61106](https://github.com/CleverRaven/Cataclysm-DDA/pull/61106))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-18-2344 ([6b3eb71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-18-2344))
-
 * Hide "mana frame" part from install UI ([#61112](https://github.com/CleverRaven/Cataclysm-DDA/pull/61112))
 * Fix typo in USE_XDG_DIR block for set_standard_filenames ([#61091](https://github.com/CleverRaven/Cataclysm-DDA/pull/61091))
 * Fix inverted optional value check loading graphical mods. ([#61089](https://github.com/CleverRaven/Cataclysm-DDA/pull/61089))
