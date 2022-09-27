@@ -1,3 +1,7 @@
+* Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
+* Uncraft scrap armor ([#61227](https://github.com/CleverRaven/Cataclysm-DDA/pull/61227))
+* Bugfix for Mafia Boss profession ([#61231](https://github.com/CleverRaven/Cataclysm-DDA/pull/61231))
+* Bugfix for lost submissive profession ([#61236](https://github.com/CleverRaven/Cataclysm-DDA/pull/61236))
 * Jian and wakizashi proficiency requirements change ([#61288](https://github.com/CleverRaven/Cataclysm-DDA/pull/61288))
 * fix: don't mark "Good First Issue"s as stale ([#61271](https://github.com/CleverRaven/Cataclysm-DDA/pull/61271))
 * Fix NPCs getting stuck trying to path in through a closed window. ([#61272](https://github.com/CleverRaven/Cataclysm-DDA/pull/61272))
@@ -75,7 +79,6 @@
 #### Cataclysm-DDA experimental build 2022-09-22-2024 ([91fa8e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-2024))
 
 * Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
-* Allow newly added eggs to be cooked ([#61037](https://github.com/CleverRaven/Cataclysm-DDA/pull/61037))
 * fire drill 'recharge' possible in darkness ([#61177](https://github.com/CleverRaven/Cataclysm-DDA/pull/61177))
 
 ---
@@ -202,12 +205,9 @@
 * Pixelscale per spritesheet ([#61061](https://github.com/CleverRaven/Cataclysm-DDA/pull/61061))
 * Add looks like to mutagens and primers ([#61059](https://github.com/CleverRaven/Cataclysm-DDA/pull/61059))
 * Update toiletries.json ([#61068](https://github.com/CleverRaven/Cataclysm-DDA/pull/61068))
-* Enable to cancel rename the faction base name  ([#61040](https://github.com/CleverRaven/Cataclysm-DDA/pull/61040))
-* Replace veh->is_open with vehicle_part::open (android) ([#61042](https://github.com/CleverRaven/Cataclysm-DDA/pull/61042))
 * Innawood antenna recipe fix ([#61043](https://github.com/CleverRaven/Cataclysm-DDA/pull/61043))
 * Store reload_option::moves earlier ([#61046](https://github.com/CleverRaven/Cataclysm-DDA/pull/61046))
 * Set 1mL minimum volume for crafts ([#61056](https://github.com/CleverRaven/Cataclysm-DDA/pull/61056))
 * Fix Windows crossbuild ([#61080](https://github.com/CleverRaven/Cataclysm-DDA/pull/61080))
 * Routine i18n updates on 17 September 2022 ([#61062](https://github.com/CleverRaven/Cataclysm-DDA/pull/61062))
 * Mark toxic waste map extras as man made ([#61053](https://github.com/CleverRaven/Cataclysm-DDA/pull/61053))
-* [Backrooms] Portal storm fix ([#61038](https://github.com/CleverRaven/Cataclysm-DDA/pull/61038))
