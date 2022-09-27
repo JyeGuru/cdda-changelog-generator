@@ -201,7 +201,6 @@
 * Link flatbuffers in json formatter and fix undeclared class ([#61118](https://github.com/CleverRaven/Cataclysm-DDA/pull/61118))
 * Routine tileset updates on 18 September 2022 ([#61113](https://github.com/CleverRaven/Cataclysm-DDA/pull/61113))
 * Force locale independent parsing for flatbuffer parser. ([#61102](https://github.com/CleverRaven/Cataclysm-DDA/pull/61102))
-* Forklifts! ([#61047](https://github.com/CleverRaven/Cataclysm-DDA/pull/61047))
 * [Innawood] Make foot cranks craftable again ([#61096](https://github.com/CleverRaven/Cataclysm-DDA/pull/61096))
 * Don't take pseudo items when mugging ([#61098](https://github.com/CleverRaven/Cataclysm-DDA/pull/61098))
 * Apply radiation health mod ONCE per day ([#61106](https://github.com/CleverRaven/Cataclysm-DDA/pull/61106))
