@@ -1,3 +1,20 @@
+* Jian and wakizashi proficiency requirements change ([#61288](https://github.com/CleverRaven/Cataclysm-DDA/pull/61288))
+* fix: don't mark "Good First Issue"s as stale ([#61271](https://github.com/CleverRaven/Cataclysm-DDA/pull/61271))
+* Fix NPCs getting stuck trying to path in through a closed window. ([#61272](https://github.com/CleverRaven/Cataclysm-DDA/pull/61272))
+* Remove ObjectCreator from main cdda solution ([#61274](https://github.com/CleverRaven/Cataclysm-DDA/pull/61274))
+* Fix butane cans being inappropriately empty ([#61276](https://github.com/CleverRaven/Cataclysm-DDA/pull/61276))
+* Rebalance cottonwood tree boll use with stationary scutcher ([#61279](https://github.com/CleverRaven/Cataclysm-DDA/pull/61279))
+* Increase uncraft test margin to reduce test failures ([#61280](https://github.com/CleverRaven/Cataclysm-DDA/pull/61280))
+* Fix Android build error ([#61281](https://github.com/CleverRaven/Cataclysm-DDA/pull/61281))
+* Fix popup for modifying string options ([#61284](https://github.com/CleverRaven/Cataclysm-DDA/pull/61284))
+* Player can drop their weapons once again when NPCs are requesting it ([#61286](https://github.com/CleverRaven/Cataclysm-DDA/pull/61286))
+* Trees Aren't Telephone Poles ([#61290](https://github.com/CleverRaven/Cataclysm-DDA/pull/61290))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-27-0412 ([d01d6be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-27-0412))
+
+* Clarify world option city sizes ([#61262](https://github.com/CleverRaven/Cataclysm-DDA/pull/61262))
 
 ---
 
@@ -172,19 +189,8 @@
 #### Cataclysm-DDA experimental build 2022-09-19-1226 ([a410b05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-1226))
 
 * Link flatbuffers in json formatter and fix undeclared class ([#61118](https://github.com/CleverRaven/Cataclysm-DDA/pull/61118))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-19-0943 ([7788b47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-0943))
-
 * Routine tileset updates on 18 September 2022 ([#61113](https://github.com/CleverRaven/Cataclysm-DDA/pull/61113))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-19-0107 ([e5b3ca9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-0107))
-
 * Force locale independent parsing for flatbuffer parser. ([#61102](https://github.com/CleverRaven/Cataclysm-DDA/pull/61102))
-* Added bundled javelin recipe. ([#61027](https://github.com/CleverRaven/Cataclysm-DDA/pull/61027))
 * Forklifts! ([#61047](https://github.com/CleverRaven/Cataclysm-DDA/pull/61047))
 * [Innawood] Make foot cranks craftable again ([#61096](https://github.com/CleverRaven/Cataclysm-DDA/pull/61096))
 * Don't take pseudo items when mugging ([#61098](https://github.com/CleverRaven/Cataclysm-DDA/pull/61098))
@@ -193,10 +199,8 @@
 * Fix typo in USE_XDG_DIR block for set_standard_filenames ([#61091](https://github.com/CleverRaven/Cataclysm-DDA/pull/61091))
 * Fix inverted optional value check loading graphical mods. ([#61089](https://github.com/CleverRaven/Cataclysm-DDA/pull/61089))
 * 'loffice_tower_16' shouldn't be displayed as open air on mapview ([#61084](https://github.com/CleverRaven/Cataclysm-DDA/pull/61084))
-* flu shot chang ([#61021](https://github.com/CleverRaven/Cataclysm-DDA/pull/61021))
 * Pixelscale per spritesheet ([#61061](https://github.com/CleverRaven/Cataclysm-DDA/pull/61061))
 * Add looks like to mutagens and primers ([#61059](https://github.com/CleverRaven/Cataclysm-DDA/pull/61059))
-* Tamable Wildlife: Tamable Bugs ([#61020](https://github.com/CleverRaven/Cataclysm-DDA/pull/61020))
 * Update toiletries.json ([#61068](https://github.com/CleverRaven/Cataclysm-DDA/pull/61068))
 * Enable to cancel rename the faction base name  ([#61040](https://github.com/CleverRaven/Cataclysm-DDA/pull/61040))
 * Replace veh->is_open with vehicle_part::open (android) ([#61042](https://github.com/CleverRaven/Cataclysm-DDA/pull/61042))
@@ -207,12 +211,3 @@
 * Routine i18n updates on 17 September 2022 ([#61062](https://github.com/CleverRaven/Cataclysm-DDA/pull/61062))
 * Mark toxic waste map extras as man made ([#61053](https://github.com/CleverRaven/Cataclysm-DDA/pull/61053))
 * [Backrooms] Portal storm fix ([#61038](https://github.com/CleverRaven/Cataclysm-DDA/pull/61038))
-* Obsolete lit_aisle ([#61028](https://github.com/CleverRaven/Cataclysm-DDA/pull/61028))
-* Update explosives.json ([#61026](https://github.com/CleverRaven/Cataclysm-DDA/pull/61026))
-* Boots.json motorbike boots category change ([#61016](https://github.com/CleverRaven/Cataclysm-DDA/pull/61016))
-* Update the table of contents in doc/JSON_INFO.md ([#61033](https://github.com/CleverRaven/Cataclysm-DDA/pull/61033))
-* Random insect cleanup ([#61023](https://github.com/CleverRaven/Cataclysm-DDA/pull/61023))
-* More misc vehicle menu fixes ([#61025](https://github.com/CleverRaven/Cataclysm-DDA/pull/61025))
-* Swap Distraction Manager and Ignore buttons ([#61024](https://github.com/CleverRaven/Cataclysm-DDA/pull/61024))
-* Diesel engine fixes ([#61019](https://github.com/CleverRaven/Cataclysm-DDA/pull/61019))
-* Remove extra materials from weapons ([#61014](https://github.com/CleverRaven/Cataclysm-DDA/pull/61014))
