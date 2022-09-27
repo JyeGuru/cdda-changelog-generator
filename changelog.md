@@ -1,3 +1,10 @@
+* Harmonize connects_to and rotates_to - better end pieces ([#61224](https://github.com/CleverRaven/Cataclysm-DDA/pull/61224))
+* Fix variable enchantments on items ([#61258](https://github.com/CleverRaven/Cataclysm-DDA/pull/61258))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-27-0648 ([6c68085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-27-0648))
+
 * Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
 * Uncraft scrap armor ([#61227](https://github.com/CleverRaven/Cataclysm-DDA/pull/61227))
 * Bugfix for Mafia Boss profession ([#61231](https://github.com/CleverRaven/Cataclysm-DDA/pull/61231))
@@ -205,8 +212,6 @@
 * Pixelscale per spritesheet ([#61061](https://github.com/CleverRaven/Cataclysm-DDA/pull/61061))
 * Add looks like to mutagens and primers ([#61059](https://github.com/CleverRaven/Cataclysm-DDA/pull/61059))
 * Update toiletries.json ([#61068](https://github.com/CleverRaven/Cataclysm-DDA/pull/61068))
-* Innawood antenna recipe fix ([#61043](https://github.com/CleverRaven/Cataclysm-DDA/pull/61043))
-* Store reload_option::moves earlier ([#61046](https://github.com/CleverRaven/Cataclysm-DDA/pull/61046))
 * Set 1mL minimum volume for crafts ([#61056](https://github.com/CleverRaven/Cataclysm-DDA/pull/61056))
 * Fix Windows crossbuild ([#61080](https://github.com/CleverRaven/Cataclysm-DDA/pull/61080))
 * Routine i18n updates on 17 September 2022 ([#61062](https://github.com/CleverRaven/Cataclysm-DDA/pull/61062))
