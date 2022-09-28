@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-28-0604 (bf9ca7c)
+* Make hotwiring train mechanics (#61310)
+
 Cataclysm-DDA experimental build 2022-09-27-0751 (5542e8a)
 * Harmonize connects_to and rotates_to - better end pieces (#61224)
 * Fix variable enchantments on items (#61258)
@@ -82,9 +85,6 @@ Cataclysm-DDA experimental build 2022-09-22-0032 (1a6085e)
 
 Cataclysm-DDA experimental build 2022-09-21-1531 (3d6730a)
 * [Magiclysm] Reduce Magus staves volume (#61159)
-
-Cataclysm-DDA experimental build 2022-09-21-1254 (4ee9085)
-* Rewrite bionic fuel system (#61049)
 * Edit coat rack components to include long stick (#61075)
 
 Cataclysm-DDA experimental build 2022-09-21-1123 (f848351)
@@ -120,8 +120,6 @@ Cataclysm-DDA experimental build 2022-09-20-0515 (72591f7)
 
 Cataclysm-DDA experimental build 2022-09-19-1910 (a9b1db4)
 * Update astyle docs to exclude src/third-party (#61115)
-
-Cataclysm-DDA experimental build 2022-09-19-1752 (be7855b)
 * [Xedra Evolved] Small bugfix (#61120)
 * Link flatbuffers in json formatter and fix undeclared class (#61118)
 * Routine tileset updates on 18 September 2022 (#61113)

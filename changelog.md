@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-28-0604 ([bf9ca7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-28-0604))
+
+* Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-27-0751 ([5542e8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-27-0751))
 
 * Harmonize connects_to and rotates_to - better end pieces ([#61224](https://github.com/CleverRaven/Cataclysm-DDA/pull/61224))
@@ -127,12 +133,6 @@
 #### Cataclysm-DDA experimental build 2022-09-21-1531 ([3d6730a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-1531))
 
 * [Magiclysm] Reduce Magus staves volume ([#61159](https://github.com/CleverRaven/Cataclysm-DDA/pull/61159))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-21-1254 ([4ee9085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-1254))
-
-* Rewrite bionic fuel system ([#61049](https://github.com/CleverRaven/Cataclysm-DDA/pull/61049))
 * Edit coat rack components to include long stick ([#61075](https://github.com/CleverRaven/Cataclysm-DDA/pull/61075))
 
 ---
@@ -192,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2022-09-19-1910 ([a9b1db4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-1910))
 
 * Update astyle docs to exclude src/third-party ([#61115](https://github.com/CleverRaven/Cataclysm-DDA/pull/61115))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-19-1752 ([be7855b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-1752))
-
 * [Xedra Evolved] Small bugfix ([#61120](https://github.com/CleverRaven/Cataclysm-DDA/pull/61120))
 * Link flatbuffers in json formatter and fix undeclared class ([#61118](https://github.com/CleverRaven/Cataclysm-DDA/pull/61118))
 * Routine tileset updates on 18 September 2022 ([#61113](https://github.com/CleverRaven/Cataclysm-DDA/pull/61113))
