@@ -1,3 +1,16 @@
+* Fix issue with dialog tags in EOC ([#61314](https://github.com/CleverRaven/Cataclysm-DDA/pull/61314))
+* npc: fix sell_belongings default and behaviour ([#61322](https://github.com/CleverRaven/Cataclysm-DDA/pull/61322))
+* Make more furniture and terrain ready for auto-rotation ([#61313](https://github.com/CleverRaven/Cataclysm-DDA/pull/61313))
+* Couple of spelling errors ([#61299](https://github.com/CleverRaven/Cataclysm-DDA/pull/61299))
+* Aftershock: Space Emergency Items and Groups ([#61298](https://github.com/CleverRaven/Cataclysm-DDA/pull/61298))
+* Added uncraft recipes for leather_harness_dog and rubber_harness_dog.… ([#61270](https://github.com/CleverRaven/Cataclysm-DDA/pull/61270))
+* Draw vehicle parts in two stages: first below roof, then roof ([#61204](https://github.com/CleverRaven/Cataclysm-DDA/pull/61204))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-28-1454 ([0ecfcf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-28-1454))
+
+* Add new portal storm dungeon reward: resurection, new type of EOC ([#61253](https://github.com/CleverRaven/Cataclysm-DDA/pull/61253))
 
 ---
 
@@ -78,7 +91,6 @@
 * bird weakpoints ([#61187](https://github.com/CleverRaven/Cataclysm-DDA/pull/61187))
 * Vehicle water faucet fixes ([#61164](https://github.com/CleverRaven/Cataclysm-DDA/pull/61164))
 * Magiclysm Purified and Impure Meat Inheritance Error ([#61145](https://github.com/CleverRaven/Cataclysm-DDA/pull/61145))
-* [Magiclysm] Attunement messages ([#61067](https://github.com/CleverRaven/Cataclysm-DDA/pull/61067))
 
 ---
 
@@ -186,11 +198,6 @@
 
 * Update tool_armor.json ([#61094](https://github.com/CleverRaven/Cataclysm-DDA/pull/61094))
 * Fix mingw locale independent build for real. ([#61124](https://github.com/CleverRaven/Cataclysm-DDA/pull/61124))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-19-1910 ([a9b1db4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-19-1910))
-
 * Update astyle docs to exclude src/third-party ([#61115](https://github.com/CleverRaven/Cataclysm-DDA/pull/61115))
 * [Xedra Evolved] Small bugfix ([#61120](https://github.com/CleverRaven/Cataclysm-DDA/pull/61120))
 * Link flatbuffers in json formatter and fix undeclared class ([#61118](https://github.com/CleverRaven/Cataclysm-DDA/pull/61118))
@@ -203,10 +210,4 @@
 * Fix typo in USE_XDG_DIR block for set_standard_filenames ([#61091](https://github.com/CleverRaven/Cataclysm-DDA/pull/61091))
 * Fix inverted optional value check loading graphical mods. ([#61089](https://github.com/CleverRaven/Cataclysm-DDA/pull/61089))
 * 'loffice_tower_16' shouldn't be displayed as open air on mapview ([#61084](https://github.com/CleverRaven/Cataclysm-DDA/pull/61084))
-* Pixelscale per spritesheet ([#61061](https://github.com/CleverRaven/Cataclysm-DDA/pull/61061))
-* Add looks like to mutagens and primers ([#61059](https://github.com/CleverRaven/Cataclysm-DDA/pull/61059))
-* Update toiletries.json ([#61068](https://github.com/CleverRaven/Cataclysm-DDA/pull/61068))
-* Set 1mL minimum volume for crafts ([#61056](https://github.com/CleverRaven/Cataclysm-DDA/pull/61056))
 * Fix Windows crossbuild ([#61080](https://github.com/CleverRaven/Cataclysm-DDA/pull/61080))
-* Routine i18n updates on 17 September 2022 ([#61062](https://github.com/CleverRaven/Cataclysm-DDA/pull/61062))
-* Mark toxic waste map extras as man made ([#61053](https://github.com/CleverRaven/Cataclysm-DDA/pull/61053))
