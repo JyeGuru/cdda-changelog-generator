@@ -122,8 +122,6 @@ Cataclysm-DDA experimental build 2022-09-20-1409 (68af1b9)
 
 Cataclysm-DDA experimental build 2022-09-20-1258 (78168a8)
 * Fix saving global autopickup rules (#61125)
-
-Cataclysm-DDA experimental build 2022-09-20-0515 (72591f7)
 * Update tool_armor.json (#61094)
 * Fix mingw locale independent build for real. (#61124)
 * Update astyle docs to exclude src/third-party (#61115)

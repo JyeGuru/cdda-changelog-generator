@@ -191,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-09-20-1258 ([78168a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-20-1258))
 
 * Fix saving global autopickup rules ([#61125](https://github.com/CleverRaven/Cataclysm-DDA/pull/61125))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-20-0515 ([72591f7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-20-0515))
-
 * Update tool_armor.json ([#61094](https://github.com/CleverRaven/Cataclysm-DDA/pull/61094))
 * Fix mingw locale independent build for real. ([#61124](https://github.com/CleverRaven/Cataclysm-DDA/pull/61124))
 * Update astyle docs to exclude src/third-party ([#61115](https://github.com/CleverRaven/Cataclysm-DDA/pull/61115))
