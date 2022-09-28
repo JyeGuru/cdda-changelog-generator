@@ -1,3 +1,4 @@
+* Fix dazzling blinding you when already blind(folded) (#61099)
 * Fix issue with dialog tags in EOC (#61314)
 * npc: fix sell_belongings default and behaviour (#61322)
 * Make more furniture and terrain ready for auto-rotation (#61313)
@@ -94,7 +95,6 @@ Cataclysm-DDA experimental build 2022-09-22-0032 (1a6085e)
 
 Cataclysm-DDA experimental build 2022-09-21-1531 (3d6730a)
 * [Magiclysm] Reduce Magus staves volume (#61159)
-* Edit coat rack components to include long stick (#61075)
 
 Cataclysm-DDA experimental build 2022-09-21-1123 (f848351)
 * Fix advanced inventory manager crash on small terminals (#61166)

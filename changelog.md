@@ -1,3 +1,4 @@
+* Fix dazzling blinding you when already blind(folded) ([#61099](https://github.com/CleverRaven/Cataclysm-DDA/pull/61099))
 * Fix issue with dialog tags in EOC ([#61314](https://github.com/CleverRaven/Cataclysm-DDA/pull/61314))
 * npc: fix sell_belongings default and behaviour ([#61322](https://github.com/CleverRaven/Cataclysm-DDA/pull/61322))
 * Make more furniture and terrain ready for auto-rotation ([#61313](https://github.com/CleverRaven/Cataclysm-DDA/pull/61313))
@@ -145,7 +146,6 @@
 #### Cataclysm-DDA experimental build 2022-09-21-1531 ([3d6730a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-1531))
 
 * [Magiclysm] Reduce Magus staves volume ([#61159](https://github.com/CleverRaven/Cataclysm-DDA/pull/61159))
-* Edit coat rack components to include long stick ([#61075](https://github.com/CleverRaven/Cataclysm-DDA/pull/61075))
 
 ---
 
