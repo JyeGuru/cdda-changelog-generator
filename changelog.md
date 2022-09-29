@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-29-1629 ([5ecdd98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-1629))
+
+* Make alpha a bit smarter and nimbler ([#61278](https://github.com/CleverRaven/Cataclysm-DDA/pull/61278))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-29-1402 ([1e89b69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-1402))
 
 * Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-09-21-1123 ([f848351](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-1123))
 
 * Fix advanced inventory manager crash on small terminals ([#61166](https://github.com/CleverRaven/Cataclysm-DDA/pull/61166))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-21-0544 ([8980350](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-0544))
-
 * Fix Enhanced Memory Banks description ([#61157](https://github.com/CleverRaven/Cataclysm-DDA/pull/61157))
 * Fix typos for Valhallist mapgen updates. ([#61110](https://github.com/CleverRaven/Cataclysm-DDA/pull/61110))
 * Carpet misc fix ([#61130](https://github.com/CleverRaven/Cataclysm-DDA/pull/61130))
@@ -209,6 +210,5 @@
 * [Xedra Evolved] Small bugfix ([#61120](https://github.com/CleverRaven/Cataclysm-DDA/pull/61120))
 * Link flatbuffers in json formatter and fix undeclared class ([#61118](https://github.com/CleverRaven/Cataclysm-DDA/pull/61118))
 * Routine tileset updates on 18 September 2022 ([#61113](https://github.com/CleverRaven/Cataclysm-DDA/pull/61113))
-* Force locale independent parsing for flatbuffer parser. ([#61102](https://github.com/CleverRaven/Cataclysm-DDA/pull/61102))
 * Apply radiation health mod ONCE per day ([#61106](https://github.com/CleverRaven/Cataclysm-DDA/pull/61106))
 * Hide "mana frame" part from install UI ([#61112](https://github.com/CleverRaven/Cataclysm-DDA/pull/61112))
