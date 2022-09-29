@@ -1,3 +1,15 @@
+* Divorce splitting vehicles and adding wreckage tag ([#61304](https://github.com/CleverRaven/Cataclysm-DDA/pull/61304))
+* Fix AIM move will duplicate multiple liquid ([#61327](https://github.com/CleverRaven/Cataclysm-DDA/pull/61327))
+* Make monster pathing slightly less dumb ([#61330](https://github.com/CleverRaven/Cataclysm-DDA/pull/61330))
+* [Bugfix] Useful auto-rotation fallback for simple rotation ([#61332](https://github.com/CleverRaven/Cataclysm-DDA/pull/61332))
+* Changed floor_bedding_warmth to balance the progression between seat,… ([#61337](https://github.com/CleverRaven/Cataclysm-DDA/pull/61337))
+* powered earplugs no longer use 66x as much energy ([#61339](https://github.com/CleverRaven/Cataclysm-DDA/pull/61339))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-29-0453 ([5497d6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-0453))
+
+* Portal Traveler profession description fix ([#61333](https://github.com/CleverRaven/Cataclysm-DDA/pull/61333))
 * Fix dazzling blinding you when already blind(folded) ([#61099](https://github.com/CleverRaven/Cataclysm-DDA/pull/61099))
 * Fix issue with dialog tags in EOC ([#61314](https://github.com/CleverRaven/Cataclysm-DDA/pull/61314))
 * npc: fix sell_belongings default and behaviour ([#61322](https://github.com/CleverRaven/Cataclysm-DDA/pull/61322))
@@ -185,24 +197,12 @@
 * Suppress 'ignored exclude errors' from astyle entirely ([#61136](https://github.com/CleverRaven/Cataclysm-DDA/pull/61136))
 * [Infrastructure] Ignore tileset scratch files in compose.py ([#61148](https://github.com/CleverRaven/Cataclysm-DDA/pull/61148))
 * [Bugfix] Fix disappeared OM roads due to zero pixelscale ([#61133](https://github.com/CleverRaven/Cataclysm-DDA/pull/61133))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-20-1258 ([78168a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-20-1258))
-
 * Fix saving global autopickup rules ([#61125](https://github.com/CleverRaven/Cataclysm-DDA/pull/61125))
-* Update tool_armor.json ([#61094](https://github.com/CleverRaven/Cataclysm-DDA/pull/61094))
 * Fix mingw locale independent build for real. ([#61124](https://github.com/CleverRaven/Cataclysm-DDA/pull/61124))
 * Update astyle docs to exclude src/third-party ([#61115](https://github.com/CleverRaven/Cataclysm-DDA/pull/61115))
 * [Xedra Evolved] Small bugfix ([#61120](https://github.com/CleverRaven/Cataclysm-DDA/pull/61120))
 * Link flatbuffers in json formatter and fix undeclared class ([#61118](https://github.com/CleverRaven/Cataclysm-DDA/pull/61118))
 * Routine tileset updates on 18 September 2022 ([#61113](https://github.com/CleverRaven/Cataclysm-DDA/pull/61113))
 * Force locale independent parsing for flatbuffer parser. ([#61102](https://github.com/CleverRaven/Cataclysm-DDA/pull/61102))
-* [Innawood] Make foot cranks craftable again ([#61096](https://github.com/CleverRaven/Cataclysm-DDA/pull/61096))
-* Don't take pseudo items when mugging ([#61098](https://github.com/CleverRaven/Cataclysm-DDA/pull/61098))
 * Apply radiation health mod ONCE per day ([#61106](https://github.com/CleverRaven/Cataclysm-DDA/pull/61106))
 * Hide "mana frame" part from install UI ([#61112](https://github.com/CleverRaven/Cataclysm-DDA/pull/61112))
-* Fix typo in USE_XDG_DIR block for set_standard_filenames ([#61091](https://github.com/CleverRaven/Cataclysm-DDA/pull/61091))
-* Fix inverted optional value check loading graphical mods. ([#61089](https://github.com/CleverRaven/Cataclysm-DDA/pull/61089))
-* 'loffice_tower_16' shouldn't be displayed as open air on mapview ([#61084](https://github.com/CleverRaven/Cataclysm-DDA/pull/61084))
-* Fix Windows crossbuild ([#61080](https://github.com/CleverRaven/Cataclysm-DDA/pull/61080))
