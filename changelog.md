@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-29-1402 ([1e89b69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-1402))
+
+* Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-29-0954 ([7464d7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-0954))
 
 * Reasonable launchers practice (beginner) ([#61165](https://github.com/CleverRaven/Cataclysm-DDA/pull/61165))
