@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-29-0954 ([7464d7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-0954))
+
 * Reasonable launchers practice (beginner) ([#61165](https://github.com/CleverRaven/Cataclysm-DDA/pull/61165))
 
 ---
@@ -184,11 +189,6 @@
 * Carpet misc fix ([#61130](https://github.com/CleverRaven/Cataclysm-DDA/pull/61130))
 * Fix gunmods falling out of hub 01 HWP ([#61160](https://github.com/CleverRaven/Cataclysm-DDA/pull/61160))
 * Fix localized world and npc names ([#61167](https://github.com/CleverRaven/Cataclysm-DDA/pull/61167))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-21-0319 ([66b8a27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-0319))
-
 * Antennae/Horns/Antlers check for SOFT gear instead of hardcoded materials ([#61168](https://github.com/CleverRaven/Cataclysm-DDA/pull/61168))
 * Correct repair costs in vehicle UI ([#61109](https://github.com/CleverRaven/Cataclysm-DDA/pull/61109))
 * Celcius to Celsius ([#61137](https://github.com/CleverRaven/Cataclysm-DDA/pull/61137))
