@@ -1,3 +1,10 @@
+* Reasonable launchers practice (beginner) ([#61165](https://github.com/CleverRaven/Cataclysm-DDA/pull/61165))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-09-29-0849 ([44a9be9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-0849))
+
+* 2StoryModern03 ([#61174](https://github.com/CleverRaven/Cataclysm-DDA/pull/61174))
 
 ---
 
@@ -15,7 +22,6 @@
 #### Cataclysm-DDA experimental build 2022-09-29-0453 ([5497d6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-0453))
 
 * Portal Traveler profession description fix ([#61333](https://github.com/CleverRaven/Cataclysm-DDA/pull/61333))
-* Fix dazzling blinding you when already blind(folded) ([#61099](https://github.com/CleverRaven/Cataclysm-DDA/pull/61099))
 * Fix issue with dialog tags in EOC ([#61314](https://github.com/CleverRaven/Cataclysm-DDA/pull/61314))
 * npc: fix sell_belongings default and behaviour ([#61322](https://github.com/CleverRaven/Cataclysm-DDA/pull/61322))
 * Make more furniture and terrain ready for auto-rotation ([#61313](https://github.com/CleverRaven/Cataclysm-DDA/pull/61313))
@@ -94,7 +100,6 @@
 #### Cataclysm-DDA experimental build 2022-09-25-0649 ([90fc2e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-25-0649))
 
 * Personal layer items do not conflict ([#61170](https://github.com/CleverRaven/Cataclysm-DDA/pull/61170))
-* Added cottonwood tree boll to cottonwood tree and a recipe. ([#61100](https://github.com/CleverRaven/Cataclysm-DDA/pull/61100))
 * Make reload_activity_actor take item::reload_option ([#61122](https://github.com/CleverRaven/Cataclysm-DDA/pull/61122))
 * Fix the has_active_bionic loop so that it only returns for the requested bionic ([#61242](https://github.com/CleverRaven/Cataclysm-DDA/pull/61242))
 * Threshold breaching should start when strength 3 dreams start ... ([#61238](https://github.com/CleverRaven/Cataclysm-DDA/pull/61238))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-09-21-0319 ([66b8a27](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-0319))
 
 * Antennae/Horns/Antlers check for SOFT gear instead of hardcoded materials ([#61168](https://github.com/CleverRaven/Cataclysm-DDA/pull/61168))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-20-1713 ([25fd53c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-20-1713))
-
 * Correct repair costs in vehicle UI ([#61109](https://github.com/CleverRaven/Cataclysm-DDA/pull/61109))
 * Celcius to Celsius ([#61137](https://github.com/CleverRaven/Cataclysm-DDA/pull/61137))
 * Improve Debug spawning item ([#61127](https://github.com/CleverRaven/Cataclysm-DDA/pull/61127))
