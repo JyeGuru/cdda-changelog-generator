@@ -182,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2022-09-22-0512 ([3327a22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-0512))
 
 * Add expected dissect proficiencies to more monsters ([#61158](https://github.com/CleverRaven/Cataclysm-DDA/pull/61158))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-22-0130 ([8c5a5eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-0130))
-
 * Add debug menu option to force ambient temperature ([#61138](https://github.com/CleverRaven/Cataclysm-DDA/pull/61138))
 * [DinoMod] anchisaurus and barosaurus ([#61152](https://github.com/CleverRaven/Cataclysm-DDA/pull/61152))
 * remove the `house_duplex5` guest room bathtub ([#61181](https://github.com/CleverRaven/Cataclysm-DDA/pull/61181))
