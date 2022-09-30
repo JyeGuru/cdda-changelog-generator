@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-09-30-0533 ([06962c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-30-0533))
+
+* Update JSON_FLAGS.md ([#61233](https://github.com/CleverRaven/Cataclysm-DDA/pull/61233))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-30-0256 ([e574cad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-30-0256))
 
 * Fix Ancilla bar mercenary talk topic ([#61343](https://github.com/CleverRaven/Cataclysm-DDA/pull/61343))
@@ -193,11 +199,6 @@
 
 * Stop liquid transfer from leaky tank before debugmsg ([#61184](https://github.com/CleverRaven/Cataclysm-DDA/pull/61184))
 * Fix monster_attack.py missed elements ([#61185](https://github.com/CleverRaven/Cataclysm-DDA/pull/61185))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-21-1531 ([3d6730a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-21-1531))
-
 * [Magiclysm] Reduce Magus staves volume ([#61159](https://github.com/CleverRaven/Cataclysm-DDA/pull/61159))
 * Fix advanced inventory manager crash on small terminals ([#61166](https://github.com/CleverRaven/Cataclysm-DDA/pull/61166))
 * Fix Enhanced Memory Banks description ([#61157](https://github.com/CleverRaven/Cataclysm-DDA/pull/61157))
@@ -216,4 +217,3 @@
 * Update astyle docs to exclude src/third-party ([#61115](https://github.com/CleverRaven/Cataclysm-DDA/pull/61115))
 * [Xedra Evolved] Small bugfix ([#61120](https://github.com/CleverRaven/Cataclysm-DDA/pull/61120))
 * Link flatbuffers in json formatter and fix undeclared class ([#61118](https://github.com/CleverRaven/Cataclysm-DDA/pull/61118))
-* Routine tileset updates on 18 September 2022 ([#61113](https://github.com/CleverRaven/Cataclysm-DDA/pull/61113))

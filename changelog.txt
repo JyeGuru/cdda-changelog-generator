@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-09-30-0533 (06962c4)
+* Update JSON_FLAGS.md (#61233)
+
 Cataclysm-DDA experimental build 2022-09-30-0256 (e574cad)
 * Fix Ancilla bar mercenary talk topic (#61343)
 * Change internal fuel storages to tool_armor (#61349)
@@ -121,8 +124,6 @@ Cataclysm-DDA experimental build 2022-09-22-0130 (8c5a5eb)
 Cataclysm-DDA experimental build 2022-09-22-0032 (1a6085e)
 * Stop liquid transfer from leaky tank before debugmsg (#61184)
 * Fix monster_attack.py missed elements (#61185)
-
-Cataclysm-DDA experimental build 2022-09-21-1531 (3d6730a)
 * [Magiclysm] Reduce Magus staves volume (#61159)
 * Fix advanced inventory manager crash on small terminals (#61166)
 * Fix Enhanced Memory Banks description (#61157)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2022-09-21-1531 (3d6730a)
 * Update astyle docs to exclude src/third-party (#61115)
 * [Xedra Evolved] Small bugfix (#61120)
 * Link flatbuffers in json formatter and fix undeclared class (#61118)
-* Routine tileset updates on 18 September 2022 (#61113)
