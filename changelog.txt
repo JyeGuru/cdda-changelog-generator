@@ -120,8 +120,6 @@ Cataclysm-DDA experimental build 2022-09-22-0130 (8c5a5eb)
 * remove the `house_duplex5` guest room bathtub (#61181)
 * makeshift blindfold looks like fix (#61182)
 * fries can spoil (#61183)
-
-Cataclysm-DDA experimental build 2022-09-22-0032 (1a6085e)
 * Stop liquid transfer from leaky tank before debugmsg (#61184)
 * Fix monster_attack.py missed elements (#61185)
 * [Magiclysm] Reduce Magus staves volume (#61159)

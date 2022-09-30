@@ -192,11 +192,6 @@
 * remove the `house_duplex5` guest room bathtub ([#61181](https://github.com/CleverRaven/Cataclysm-DDA/pull/61181))
 * makeshift blindfold looks like fix ([#61182](https://github.com/CleverRaven/Cataclysm-DDA/pull/61182))
 * fries can spoil ([#61183](https://github.com/CleverRaven/Cataclysm-DDA/pull/61183))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-22-0032 ([1a6085e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-0032))
-
 * Stop liquid transfer from leaky tank before debugmsg ([#61184](https://github.com/CleverRaven/Cataclysm-DDA/pull/61184))
 * Fix monster_attack.py missed elements ([#61185](https://github.com/CleverRaven/Cataclysm-DDA/pull/61185))
 * [Magiclysm] Reduce Magus staves volume ([#61159](https://github.com/CleverRaven/Cataclysm-DDA/pull/61159))
