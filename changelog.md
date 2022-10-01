@@ -1,6 +1,26 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-01-0458 ([5e89406](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-0458))
+
+* Reduce gun weight after sawing off its stock ([#61246](https://github.com/CleverRaven/Cataclysm-DDA/pull/61246))
+* [DinoMod] four ceratopsians and horns mutations ([#61264](https://github.com/CleverRaven/Cataclysm-DDA/pull/61264))
+* Adds City Location: Strip Mall ([#61317](https://github.com/CleverRaven/Cataclysm-DDA/pull/61317))
+* Xl punching armor ([#61319](https://github.com/CleverRaven/Cataclysm-DDA/pull/61319))
+* House Palette Update  - Bedside Table ([#61362](https://github.com/CleverRaven/Cataclysm-DDA/pull/61362))
+* Allow traveling to shelves ([#61367](https://github.com/CleverRaven/Cataclysm-DDA/pull/61367))
+* allow SPEAR attack through barred/grated windows ([#61329](https://github.com/CleverRaven/Cataclysm-DDA/pull/61329))
+* add missing flags to rm13 ([#61366](https://github.com/CleverRaven/Cataclysm-DDA/pull/61366))
+* [DinoMod] boiled egg hatching fix ([#61368](https://github.com/CleverRaven/Cataclysm-DDA/pull/61368))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-01-0349 ([f7528c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-0349))
+
+* Removed long strings from piano disassembly and replaced the wires. ([#61371](https://github.com/CleverRaven/Cataclysm-DDA/pull/61371))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-09-30-0533 ([06962c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-30-0533))
 
 * Update JSON_FLAGS.md ([#61233](https://github.com/CleverRaven/Cataclysm-DDA/pull/61233))
@@ -137,7 +157,6 @@
 #### Cataclysm-DDA experimental build 2022-09-25-0649 ([90fc2e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-25-0649))
 
 * Personal layer items do not conflict ([#61170](https://github.com/CleverRaven/Cataclysm-DDA/pull/61170))
-* Make reload_activity_actor take item::reload_option ([#61122](https://github.com/CleverRaven/Cataclysm-DDA/pull/61122))
 * Fix the has_active_bionic loop so that it only returns for the requested bionic ([#61242](https://github.com/CleverRaven/Cataclysm-DDA/pull/61242))
 * Threshold breaching should start when strength 3 dreams start ... ([#61238](https://github.com/CleverRaven/Cataclysm-DDA/pull/61238))
 * Handle fake parts in bike racks ([#61234](https://github.com/CleverRaven/Cataclysm-DDA/pull/61234))
@@ -170,17 +189,7 @@
 
 * Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
 * fire drill 'recharge' possible in darkness ([#61177](https://github.com/CleverRaven/Cataclysm-DDA/pull/61177))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-22-1002 ([1c29431](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-1002))
-
 * Fix tactical grenade pouch not displaying grenade restriction ([#61186](https://github.com/CleverRaven/Cataclysm-DDA/pull/61186))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-22-0512 ([3327a22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-0512))
-
 * Add expected dissect proficiencies to more monsters ([#61158](https://github.com/CleverRaven/Cataclysm-DDA/pull/61158))
 * Add debug menu option to force ambient temperature ([#61138](https://github.com/CleverRaven/Cataclysm-DDA/pull/61138))
 * [DinoMod] anchisaurus and barosaurus ([#61152](https://github.com/CleverRaven/Cataclysm-DDA/pull/61152))
@@ -192,18 +201,10 @@
 * [Magiclysm] Reduce Magus staves volume ([#61159](https://github.com/CleverRaven/Cataclysm-DDA/pull/61159))
 * Fix advanced inventory manager crash on small terminals ([#61166](https://github.com/CleverRaven/Cataclysm-DDA/pull/61166))
 * Fix Enhanced Memory Banks description ([#61157](https://github.com/CleverRaven/Cataclysm-DDA/pull/61157))
-* Carpet misc fix ([#61130](https://github.com/CleverRaven/Cataclysm-DDA/pull/61130))
 * Fix gunmods falling out of hub 01 HWP ([#61160](https://github.com/CleverRaven/Cataclysm-DDA/pull/61160))
 * Fix localized world and npc names ([#61167](https://github.com/CleverRaven/Cataclysm-DDA/pull/61167))
 * Antennae/Horns/Antlers check for SOFT gear instead of hardcoded materials ([#61168](https://github.com/CleverRaven/Cataclysm-DDA/pull/61168))
 * Celcius to Celsius ([#61137](https://github.com/CleverRaven/Cataclysm-DDA/pull/61137))
-* Improve Debug spawning item ([#61127](https://github.com/CleverRaven/Cataclysm-DDA/pull/61127))
 * Fix taking photos on unused cameras. ([#61135](https://github.com/CleverRaven/Cataclysm-DDA/pull/61135))
 * Suppress 'ignored exclude errors' from astyle entirely ([#61136](https://github.com/CleverRaven/Cataclysm-DDA/pull/61136))
 * [Infrastructure] Ignore tileset scratch files in compose.py ([#61148](https://github.com/CleverRaven/Cataclysm-DDA/pull/61148))
-* [Bugfix] Fix disappeared OM roads due to zero pixelscale ([#61133](https://github.com/CleverRaven/Cataclysm-DDA/pull/61133))
-* Fix saving global autopickup rules ([#61125](https://github.com/CleverRaven/Cataclysm-DDA/pull/61125))
-* Fix mingw locale independent build for real. ([#61124](https://github.com/CleverRaven/Cataclysm-DDA/pull/61124))
-* Update astyle docs to exclude src/third-party ([#61115](https://github.com/CleverRaven/Cataclysm-DDA/pull/61115))
-* [Xedra Evolved] Small bugfix ([#61120](https://github.com/CleverRaven/Cataclysm-DDA/pull/61120))
-* Link flatbuffers in json formatter and fix undeclared class ([#61118](https://github.com/CleverRaven/Cataclysm-DDA/pull/61118))
