@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-01-0633 (cd02b91)
 * tweaks to basic kevlar vest (#61328)
 
 Cataclysm-DDA experimental build 2022-10-01-0458 (5e89406)

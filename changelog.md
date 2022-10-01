@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-01-0633 ([cd02b91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-0633))
+
 * tweaks to basic kevlar vest ([#61328](https://github.com/CleverRaven/Cataclysm-DDA/pull/61328))
 
 ---
