@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-01-1949 ([edb21b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-1949))
+
+* Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-01-0633 ([cd02b91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-0633))
 
 * tweaks to basic kevlar vest ([#61328](https://github.com/CleverRaven/Cataclysm-DDA/pull/61328))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2022-09-23-0555 ([5a82316](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-23-0555))
 
 * Throwing practice is now difficulty zero ([#61198](https://github.com/CleverRaven/Cataclysm-DDA/pull/61198))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-22-2024 ([91fa8e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-22-2024))
-
 * Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
 * fire drill 'recharge' possible in darkness ([#61177](https://github.com/CleverRaven/Cataclysm-DDA/pull/61177))
 * Fix tactical grenade pouch not displaying grenade restriction ([#61186](https://github.com/CleverRaven/Cataclysm-DDA/pull/61186))
@@ -211,5 +212,4 @@
 * Fix localized world and npc names ([#61167](https://github.com/CleverRaven/Cataclysm-DDA/pull/61167))
 * Antennae/Horns/Antlers check for SOFT gear instead of hardcoded materials ([#61168](https://github.com/CleverRaven/Cataclysm-DDA/pull/61168))
 * Celcius to Celsius ([#61137](https://github.com/CleverRaven/Cataclysm-DDA/pull/61137))
-* Suppress 'ignored exclude errors' from astyle entirely ([#61136](https://github.com/CleverRaven/Cataclysm-DDA/pull/61136))
 * [Infrastructure] Ignore tileset scratch files in compose.py ([#61148](https://github.com/CleverRaven/Cataclysm-DDA/pull/61148))

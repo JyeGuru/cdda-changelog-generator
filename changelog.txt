@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-01-1949 (edb21b9)
+* Fix mapgen error in mod loading test (#61395)
+
 Cataclysm-DDA experimental build 2022-10-01-0633 (cd02b91)
 * tweaks to basic kevlar vest (#61328)
 
@@ -119,8 +122,6 @@ Cataclysm-DDA experimental build 2022-09-24-0526 (65b77c9)
 
 Cataclysm-DDA experimental build 2022-09-23-0555 (5a82316)
 * Throwing practice is now difficulty zero (#61198)
-
-Cataclysm-DDA experimental build 2022-09-22-2024 (91fa8e1)
 * Orient traffic light relative to pavement (#61199)
 * fire drill 'recharge' possible in darkness (#61177)
 * Fix tactical grenade pouch not displaying grenade restriction (#61186)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2022-09-22-2024 (91fa8e1)
 * Fix localized world and npc names (#61167)
 * Antennae/Horns/Antlers check for SOFT gear instead of hardcoded materials (#61168)
 * Celcius to Celsius (#61137)
-* Suppress 'ignored exclude errors' from astyle entirely (#61136)
 * [Infrastructure] Ignore tileset scratch files in compose.py (#61148)
