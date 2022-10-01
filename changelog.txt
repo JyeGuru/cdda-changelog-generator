@@ -1,3 +1,4 @@
+* tweaks to basic kevlar vest (#61328)
 
 Cataclysm-DDA experimental build 2022-10-01-0458 (5e89406)
 * Reduce gun weight after sawing off its stock (#61246)
@@ -136,6 +137,5 @@ Cataclysm-DDA experimental build 2022-09-22-2024 (91fa8e1)
 * Fix localized world and npc names (#61167)
 * Antennae/Horns/Antlers check for SOFT gear instead of hardcoded materials (#61168)
 * Celcius to Celsius (#61137)
-* Fix taking photos on unused cameras. (#61135)
 * Suppress 'ignored exclude errors' from astyle entirely (#61136)
 * [Infrastructure] Ignore tileset scratch files in compose.py (#61148)

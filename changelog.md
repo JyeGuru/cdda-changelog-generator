@@ -1,3 +1,4 @@
+* tweaks to basic kevlar vest ([#61328](https://github.com/CleverRaven/Cataclysm-DDA/pull/61328))
 
 ---
 
@@ -205,6 +206,5 @@
 * Fix localized world and npc names ([#61167](https://github.com/CleverRaven/Cataclysm-DDA/pull/61167))
 * Antennae/Horns/Antlers check for SOFT gear instead of hardcoded materials ([#61168](https://github.com/CleverRaven/Cataclysm-DDA/pull/61168))
 * Celcius to Celsius ([#61137](https://github.com/CleverRaven/Cataclysm-DDA/pull/61137))
-* Fix taking photos on unused cameras. ([#61135](https://github.com/CleverRaven/Cataclysm-DDA/pull/61135))
 * Suppress 'ignored exclude errors' from astyle entirely ([#61136](https://github.com/CleverRaven/Cataclysm-DDA/pull/61136))
 * [Infrastructure] Ignore tileset scratch files in compose.py ([#61148](https://github.com/CleverRaven/Cataclysm-DDA/pull/61148))
