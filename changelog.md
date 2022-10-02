@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-02-0929 ([a6b94d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-02-0929))
+
 * Both recipes of oars are now located in one place in crafting menu ([#61390](https://github.com/CleverRaven/Cataclysm-DDA/pull/61390))
 
 ---
@@ -189,11 +194,6 @@
 * bird weakpoints ([#61187](https://github.com/CleverRaven/Cataclysm-DDA/pull/61187))
 * Vehicle water faucet fixes ([#61164](https://github.com/CleverRaven/Cataclysm-DDA/pull/61164))
 * Magiclysm Purified and Impure Meat Inheritance Error ([#61145](https://github.com/CleverRaven/Cataclysm-DDA/pull/61145))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-24-0526 ([65b77c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-24-0526))
-
 * Routine i18n updates on 24 September 2022 ([#61217](https://github.com/CleverRaven/Cataclysm-DDA/pull/61217))
 * Throwing practice is now difficulty zero ([#61198](https://github.com/CleverRaven/Cataclysm-DDA/pull/61198))
 * Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
