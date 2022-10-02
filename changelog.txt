@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-02-0820 (cd637a9)
+* [Bugfix] Rendering vehicle memory and height_3d (#61396)
+
 Cataclysm-DDA experimental build 2022-10-01-1949 (edb21b9)
 * Fix mapgen error in mod loading test (#61395)
 
@@ -119,8 +122,6 @@ Cataclysm-DDA experimental build 2022-09-25-0649 (90fc2e4)
 
 Cataclysm-DDA experimental build 2022-09-24-0526 (65b77c9)
 * Routine i18n updates on 24 September 2022 (#61217)
-
-Cataclysm-DDA experimental build 2022-09-23-0555 (5a82316)
 * Throwing practice is now difficulty zero (#61198)
 * Orient traffic light relative to pavement (#61199)
 * fire drill 'recharge' possible in darkness (#61177)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2022-09-23-0555 (5a82316)
 * Fix gunmods falling out of hub 01 HWP (#61160)
 * Fix localized world and npc names (#61167)
 * Antennae/Horns/Antlers check for SOFT gear instead of hardcoded materials (#61168)
-* Celcius to Celsius (#61137)
 * [Infrastructure] Ignore tileset scratch files in compose.py (#61148)
