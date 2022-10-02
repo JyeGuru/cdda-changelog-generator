@@ -193,7 +193,6 @@
 * npctrade: fix sells_belongings and nested refusal ([#61193](https://github.com/CleverRaven/Cataclysm-DDA/pull/61193))
 * bird weakpoints ([#61187](https://github.com/CleverRaven/Cataclysm-DDA/pull/61187))
 * Vehicle water faucet fixes ([#61164](https://github.com/CleverRaven/Cataclysm-DDA/pull/61164))
-* Magiclysm Purified and Impure Meat Inheritance Error ([#61145](https://github.com/CleverRaven/Cataclysm-DDA/pull/61145))
 * Routine i18n updates on 24 September 2022 ([#61217](https://github.com/CleverRaven/Cataclysm-DDA/pull/61217))
 * Throwing practice is now difficulty zero ([#61198](https://github.com/CleverRaven/Cataclysm-DDA/pull/61198))
 * Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
