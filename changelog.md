@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-02-1703 ([01d15e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-02-1703))
+
 * Add docs instructions for syncing git tags. ([#61398](https://github.com/CleverRaven/Cataclysm-DDA/pull/61398))
 * Routine i18n updates on 01 October 2022 ([#61376](https://github.com/CleverRaven/Cataclysm-DDA/pull/61376))
 * Add more bounds checks for pathfinding ([#61388](https://github.com/CleverRaven/Cataclysm-DDA/pull/61388))
