@@ -1,3 +1,16 @@
+* Add docs instructions for syncing git tags. ([#61398](https://github.com/CleverRaven/Cataclysm-DDA/pull/61398))
+* Routine i18n updates on 01 October 2022 ([#61376](https://github.com/CleverRaven/Cataclysm-DDA/pull/61376))
+* Add more bounds checks for pathfinding ([#61388](https://github.com/CleverRaven/Cataclysm-DDA/pull/61388))
+* Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
+* Artifact "resonance" penalties from carrying too many ([#61341](https://github.com/CleverRaven/Cataclysm-DDA/pull/61341))
+* Caterpillar cleanup & Cocoons ([#61180](https://github.com/CleverRaven/Cataclysm-DDA/pull/61180))
+* Lets player construct earth ramp (low and high). ([#61302](https://github.com/CleverRaven/Cataclysm-DDA/pull/61302))
+* rebalance deathrattle serpent ([#61323](https://github.com/CleverRaven/Cataclysm-DDA/pull/61323))
+* buff the stone spear ([#61355](https://github.com/CleverRaven/Cataclysm-DDA/pull/61355))
+* [DinoMod] bear armor ([#61374](https://github.com/CleverRaven/Cataclysm-DDA/pull/61374))
+* Reworked bathrooms of `multi_unit_housing` ([#61391](https://github.com/CleverRaven/Cataclysm-DDA/pull/61391))
+* Make mycus immune to Spore-Dusted #56653 ([#61403](https://github.com/CleverRaven/Cataclysm-DDA/pull/61403))
+* make hollow cane a rigid pocket ([#61382](https://github.com/CleverRaven/Cataclysm-DDA/pull/61382))
 
 ---
 
@@ -74,18 +87,6 @@
 #### Cataclysm-DDA experimental build 2022-09-29-1402 ([1e89b69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-1402))
 
 * Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-29-0954 ([7464d7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-0954))
-
-* Reasonable launchers practice (beginner) ([#61165](https://github.com/CleverRaven/Cataclysm-DDA/pull/61165))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-29-0849 ([44a9be9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-0849))
-
-* 2StoryModern03 ([#61174](https://github.com/CleverRaven/Cataclysm-DDA/pull/61174))
 
 ---
 
@@ -175,12 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-09-25-2358 ([99c5e0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-25-2358))
 
 * Fix M72 LAW unpacking transform ([#61261](https://github.com/CleverRaven/Cataclysm-DDA/pull/61261))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-25-0649 ([90fc2e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-25-0649))
-
-* Personal layer items do not conflict ([#61170](https://github.com/CleverRaven/Cataclysm-DDA/pull/61170))
 * Fix the has_active_bionic loop so that it only returns for the requested bionic ([#61242](https://github.com/CleverRaven/Cataclysm-DDA/pull/61242))
 * Threshold breaching should start when strength 3 dreams start ... ([#61238](https://github.com/CleverRaven/Cataclysm-DDA/pull/61238))
 * Handle fake parts in bike racks ([#61234](https://github.com/CleverRaven/Cataclysm-DDA/pull/61234))
@@ -192,23 +187,13 @@
 * [DinoMod] tenontosaurus and zombie dryosaurus ([#61205](https://github.com/CleverRaven/Cataclysm-DDA/pull/61205))
 * npctrade: fix sells_belongings and nested refusal ([#61193](https://github.com/CleverRaven/Cataclysm-DDA/pull/61193))
 * bird weakpoints ([#61187](https://github.com/CleverRaven/Cataclysm-DDA/pull/61187))
-* Vehicle water faucet fixes ([#61164](https://github.com/CleverRaven/Cataclysm-DDA/pull/61164))
 * Routine i18n updates on 24 September 2022 ([#61217](https://github.com/CleverRaven/Cataclysm-DDA/pull/61217))
 * Throwing practice is now difficulty zero ([#61198](https://github.com/CleverRaven/Cataclysm-DDA/pull/61198))
 * Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
 * fire drill 'recharge' possible in darkness ([#61177](https://github.com/CleverRaven/Cataclysm-DDA/pull/61177))
 * Fix tactical grenade pouch not displaying grenade restriction ([#61186](https://github.com/CleverRaven/Cataclysm-DDA/pull/61186))
-* Add expected dissect proficiencies to more monsters ([#61158](https://github.com/CleverRaven/Cataclysm-DDA/pull/61158))
-* [DinoMod] anchisaurus and barosaurus ([#61152](https://github.com/CleverRaven/Cataclysm-DDA/pull/61152))
 * remove the `house_duplex5` guest room bathtub ([#61181](https://github.com/CleverRaven/Cataclysm-DDA/pull/61181))
 * makeshift blindfold looks like fix ([#61182](https://github.com/CleverRaven/Cataclysm-DDA/pull/61182))
 * fries can spoil ([#61183](https://github.com/CleverRaven/Cataclysm-DDA/pull/61183))
 * Stop liquid transfer from leaky tank before debugmsg ([#61184](https://github.com/CleverRaven/Cataclysm-DDA/pull/61184))
 * Fix monster_attack.py missed elements ([#61185](https://github.com/CleverRaven/Cataclysm-DDA/pull/61185))
-* [Magiclysm] Reduce Magus staves volume ([#61159](https://github.com/CleverRaven/Cataclysm-DDA/pull/61159))
-* Fix advanced inventory manager crash on small terminals ([#61166](https://github.com/CleverRaven/Cataclysm-DDA/pull/61166))
-* Fix Enhanced Memory Banks description ([#61157](https://github.com/CleverRaven/Cataclysm-DDA/pull/61157))
-* Fix gunmods falling out of hub 01 HWP ([#61160](https://github.com/CleverRaven/Cataclysm-DDA/pull/61160))
-* Fix localized world and npc names ([#61167](https://github.com/CleverRaven/Cataclysm-DDA/pull/61167))
-* Antennae/Horns/Antlers check for SOFT gear instead of hardcoded materials ([#61168](https://github.com/CleverRaven/Cataclysm-DDA/pull/61168))
-* [Infrastructure] Ignore tileset scratch files in compose.py ([#61148](https://github.com/CleverRaven/Cataclysm-DDA/pull/61148))
