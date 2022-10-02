@@ -1,3 +1,4 @@
+* Both recipes of oars are now located in one place in crafting menu ([#61390](https://github.com/CleverRaven/Cataclysm-DDA/pull/61390))
 
 ---
 
@@ -199,7 +200,6 @@
 * fire drill 'recharge' possible in darkness ([#61177](https://github.com/CleverRaven/Cataclysm-DDA/pull/61177))
 * Fix tactical grenade pouch not displaying grenade restriction ([#61186](https://github.com/CleverRaven/Cataclysm-DDA/pull/61186))
 * Add expected dissect proficiencies to more monsters ([#61158](https://github.com/CleverRaven/Cataclysm-DDA/pull/61158))
-* Add debug menu option to force ambient temperature ([#61138](https://github.com/CleverRaven/Cataclysm-DDA/pull/61138))
 * [DinoMod] anchisaurus and barosaurus ([#61152](https://github.com/CleverRaven/Cataclysm-DDA/pull/61152))
 * remove the `house_duplex5` guest room bathtub ([#61181](https://github.com/CleverRaven/Cataclysm-DDA/pull/61181))
 * makeshift blindfold looks like fix ([#61182](https://github.com/CleverRaven/Cataclysm-DDA/pull/61182))

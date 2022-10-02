@@ -1,3 +1,4 @@
+* Both recipes of oars are now located in one place in crafting menu (#61390)
 
 Cataclysm-DDA experimental build 2022-10-02-0820 (cd637a9)
 * [Bugfix] Rendering vehicle memory and height_3d (#61396)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2022-09-24-0526 (65b77c9)
 * fire drill 'recharge' possible in darkness (#61177)
 * Fix tactical grenade pouch not displaying grenade restriction (#61186)
 * Add expected dissect proficiencies to more monsters (#61158)
-* Add debug menu option to force ambient temperature (#61138)
 * [DinoMod] anchisaurus and barosaurus (#61152)
 * remove the `house_duplex5` guest room bathtub (#61181)
 * makeshift blindfold looks like fix (#61182)
