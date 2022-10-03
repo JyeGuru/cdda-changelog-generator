@@ -114,8 +114,6 @@ Cataclysm-DDA experimental build 2022-09-26-0109 (8ea9346)
 * Fix type conversion warning (#61247)
 * Add minimum recoil improvement limit (#61252)
 * Prevent self-connect for ovens etc. (#61263)
-
-Cataclysm-DDA experimental build 2022-09-25-2358 (99c5e0a)
 * Fix M72 LAW unpacking transform (#61261)
 * Fix the has_active_bionic loop so that it only returns for the requested bionic (#61242)
 * Threshold breaching should start when strength 3 dreams start ... (#61238)
