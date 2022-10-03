@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-03-2120 ([e39079b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-03-2120))
+
+* Fix savegame loading when savegame arrays can have more than uint16_t… ([#61416](https://github.com/CleverRaven/Cataclysm-DDA/pull/61416))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-03-1950 ([ee4d899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-03-1950))
 
 * Fix some things missed with kevlar vest ([#61401](https://github.com/CleverRaven/Cataclysm-DDA/pull/61401))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-09-27-0412 ([d01d6be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-27-0412))
 
 * Clarify world option city sizes ([#61262](https://github.com/CleverRaven/Cataclysm-DDA/pull/61262))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-26-0846 ([b87b910](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-26-0846))
-
 * Routine tileset updates on 25 September 2022 ([#61267](https://github.com/CleverRaven/Cataclysm-DDA/pull/61267))
 * Fix type conversion warning ([#61247](https://github.com/CleverRaven/Cataclysm-DDA/pull/61247))
 * Add minimum recoil improvement limit ([#61252](https://github.com/CleverRaven/Cataclysm-DDA/pull/61252))
@@ -197,7 +198,6 @@
 * Throwing practice is now difficulty zero ([#61198](https://github.com/CleverRaven/Cataclysm-DDA/pull/61198))
 * Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
 * Fix tactical grenade pouch not displaying grenade restriction ([#61186](https://github.com/CleverRaven/Cataclysm-DDA/pull/61186))
-* makeshift blindfold looks like fix ([#61182](https://github.com/CleverRaven/Cataclysm-DDA/pull/61182))
 * fries can spoil ([#61183](https://github.com/CleverRaven/Cataclysm-DDA/pull/61183))
 * Stop liquid transfer from leaky tank before debugmsg ([#61184](https://github.com/CleverRaven/Cataclysm-DDA/pull/61184))
 * Fix monster_attack.py missed elements ([#61185](https://github.com/CleverRaven/Cataclysm-DDA/pull/61185))
