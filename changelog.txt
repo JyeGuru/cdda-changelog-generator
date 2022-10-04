@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-04-0509 (c0f00ab)
+* Hallucination monsters don't leave biosignatures (#61437)
+
 Cataclysm-DDA experimental build 2022-10-04-0240 (b97d3ea)
 * Fixes displaying recipes you can't craft and that are hidden (#61436)
 
@@ -133,5 +136,4 @@ Cataclysm-DDA experimental build 2022-09-27-0648 (6c68085)
 * Throwing practice is now difficulty zero (#61198)
 * Orient traffic light relative to pavement (#61199)
 * Fix tactical grenade pouch not displaying grenade restriction (#61186)
-* Stop liquid transfer from leaky tank before debugmsg (#61184)
 * Fix monster_attack.py missed elements (#61185)
