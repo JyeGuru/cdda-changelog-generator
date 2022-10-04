@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-04-0656 ([1cdaee9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-04-0656))
+
+* [DinoMod] hungry hadrosaurs ([#61389](https://github.com/CleverRaven/Cataclysm-DDA/pull/61389))
+* Offer to deactivate extended bionics when NPC is requesting it ([#61412](https://github.com/CleverRaven/Cataclysm-DDA/pull/61412))
 * Spawned friendlies receive full pet menu ([#61417](https://github.com/CleverRaven/Cataclysm-DDA/pull/61417))
 * Hide "With %s." in item info if %s is empty ([#61422](https://github.com/CleverRaven/Cataclysm-DDA/pull/61422))
 * Remove pseudo hotplates on parts with chemistry set ([#61424](https://github.com/CleverRaven/Cataclysm-DDA/pull/61424))
@@ -167,11 +174,6 @@
 
 * Harmonize connects_to and rotates_to - better end pieces ([#61224](https://github.com/CleverRaven/Cataclysm-DDA/pull/61224))
 * Fix variable enchantments on items ([#61258](https://github.com/CleverRaven/Cataclysm-DDA/pull/61258))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-27-0648 ([6c68085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-27-0648))
-
 * Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
 * Uncraft scrap armor ([#61227](https://github.com/CleverRaven/Cataclysm-DDA/pull/61227))
 * Bugfix for Mafia Boss profession ([#61231](https://github.com/CleverRaven/Cataclysm-DDA/pull/61231))
@@ -202,7 +204,6 @@
 * Zombie animals don't fear fire ([#61210](https://github.com/CleverRaven/Cataclysm-DDA/pull/61210))
 * [Innawood] bulletin board ([#61206](https://github.com/CleverRaven/Cataclysm-DDA/pull/61206))
 * [DinoMod] tenontosaurus and zombie dryosaurus ([#61205](https://github.com/CleverRaven/Cataclysm-DDA/pull/61205))
-* npctrade: fix sells_belongings and nested refusal ([#61193](https://github.com/CleverRaven/Cataclysm-DDA/pull/61193))
 * Routine i18n updates on 24 September 2022 ([#61217](https://github.com/CleverRaven/Cataclysm-DDA/pull/61217))
 * Throwing practice is now difficulty zero ([#61198](https://github.com/CleverRaven/Cataclysm-DDA/pull/61198))
 * Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
