@@ -1,3 +1,6 @@
+* Spawned friendlies receive full pet menu ([#61417](https://github.com/CleverRaven/Cataclysm-DDA/pull/61417))
+* Hide "With %s." in item info if %s is empty ([#61422](https://github.com/CleverRaven/Cataclysm-DDA/pull/61422))
+* Remove pseudo hotplates on parts with chemistry set ([#61424](https://github.com/CleverRaven/Cataclysm-DDA/pull/61424))
 
 ---
 
@@ -200,9 +203,6 @@
 * [Innawood] bulletin board ([#61206](https://github.com/CleverRaven/Cataclysm-DDA/pull/61206))
 * [DinoMod] tenontosaurus and zombie dryosaurus ([#61205](https://github.com/CleverRaven/Cataclysm-DDA/pull/61205))
 * npctrade: fix sells_belongings and nested refusal ([#61193](https://github.com/CleverRaven/Cataclysm-DDA/pull/61193))
-* bird weakpoints ([#61187](https://github.com/CleverRaven/Cataclysm-DDA/pull/61187))
 * Routine i18n updates on 24 September 2022 ([#61217](https://github.com/CleverRaven/Cataclysm-DDA/pull/61217))
 * Throwing practice is now difficulty zero ([#61198](https://github.com/CleverRaven/Cataclysm-DDA/pull/61198))
 * Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
-* Fix tactical grenade pouch not displaying grenade restriction ([#61186](https://github.com/CleverRaven/Cataclysm-DDA/pull/61186))
-* Fix monster_attack.py missed elements ([#61185](https://github.com/CleverRaven/Cataclysm-DDA/pull/61185))
