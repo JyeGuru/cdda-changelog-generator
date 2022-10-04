@@ -1,3 +1,4 @@
+* Fix ObjectCreator build on Windows (#61474)
 
 Cataclysm-DDA experimental build 2022-10-04-0656 (1cdaee9)
 * [DinoMod] hungry hadrosaurs (#61389)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-09-27-0751 (5542e8a)
 * [Innawood] bulletin board (#61206)
 * [DinoMod] tenontosaurus and zombie dryosaurus (#61205)
 * Routine i18n updates on 24 September 2022 (#61217)
-* Orient traffic light relative to pavement (#61199)

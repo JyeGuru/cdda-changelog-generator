@@ -1,3 +1,4 @@
+* Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
 
 ---
 
@@ -205,4 +206,3 @@
 * [Innawood] bulletin board ([#61206](https://github.com/CleverRaven/Cataclysm-DDA/pull/61206))
 * [DinoMod] tenontosaurus and zombie dryosaurus ([#61205](https://github.com/CleverRaven/Cataclysm-DDA/pull/61205))
 * Routine i18n updates on 24 September 2022 ([#61217](https://github.com/CleverRaven/Cataclysm-DDA/pull/61217))
-* Orient traffic light relative to pavement ([#61199](https://github.com/CleverRaven/Cataclysm-DDA/pull/61199))
