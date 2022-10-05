@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-05-0505 ([81e1caf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-05-0505))
+
+* nerf finding kitten to level of music enjoyment ([#61429](https://github.com/CleverRaven/Cataclysm-DDA/pull/61429))
 * Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
 
 ---
@@ -155,7 +161,6 @@
 * Couple of spelling errors ([#61299](https://github.com/CleverRaven/Cataclysm-DDA/pull/61299))
 * Aftershock: Space Emergency Items and Groups ([#61298](https://github.com/CleverRaven/Cataclysm-DDA/pull/61298))
 * Added uncraft recipes for leather_harness_dog and rubber_harness_dog.… ([#61270](https://github.com/CleverRaven/Cataclysm-DDA/pull/61270))
-* Draw vehicle parts in two stages: first below roof, then roof ([#61204](https://github.com/CleverRaven/Cataclysm-DDA/pull/61204))
 
 ---
 
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-09-28-0604 ([bf9ca7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-28-0604))
 
 * Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-27-0751 ([5542e8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-27-0751))
-
 * Harmonize connects_to and rotates_to - better end pieces ([#61224](https://github.com/CleverRaven/Cataclysm-DDA/pull/61224))
 * Fix variable enchantments on items ([#61258](https://github.com/CleverRaven/Cataclysm-DDA/pull/61258))
 * Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
