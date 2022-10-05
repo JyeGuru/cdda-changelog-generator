@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-05-1937 ([3f63c44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-05-1937))
+
 * Spears, spears, and more spears! A spear overhaul. ([#61482](https://github.com/CleverRaven/Cataclysm-DDA/pull/61482))
 * Garlic Powder ([#61397](https://github.com/CleverRaven/Cataclysm-DDA/pull/61397))
 * No sawing off (the most demanding) recoil operated guns' barrels ([#61476](https://github.com/CleverRaven/Cataclysm-DDA/pull/61476))
@@ -162,11 +167,6 @@
 * [Bugfix] Useful auto-rotation fallback for simple rotation ([#61332](https://github.com/CleverRaven/Cataclysm-DDA/pull/61332))
 * Changed floor_bedding_warmth to balance the progression between seat,… ([#61337](https://github.com/CleverRaven/Cataclysm-DDA/pull/61337))
 * powered earplugs no longer use 66x as much energy ([#61339](https://github.com/CleverRaven/Cataclysm-DDA/pull/61339))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-29-0453 ([5497d6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-0453))
-
 * Portal Traveler profession description fix ([#61333](https://github.com/CleverRaven/Cataclysm-DDA/pull/61333))
 * Fix issue with dialog tags in EOC ([#61314](https://github.com/CleverRaven/Cataclysm-DDA/pull/61314))
 * npc: fix sell_belongings default and behaviour ([#61322](https://github.com/CleverRaven/Cataclysm-DDA/pull/61322))
@@ -195,4 +195,3 @@
 * Add minimum recoil improvement limit ([#61252](https://github.com/CleverRaven/Cataclysm-DDA/pull/61252))
 * Prevent self-connect for ovens etc. ([#61263](https://github.com/CleverRaven/Cataclysm-DDA/pull/61263))
 * Fix M72 LAW unpacking transform ([#61261](https://github.com/CleverRaven/Cataclysm-DDA/pull/61261))
-* Fix the has_active_bionic loop so that it only returns for the requested bionic ([#61242](https://github.com/CleverRaven/Cataclysm-DDA/pull/61242))
