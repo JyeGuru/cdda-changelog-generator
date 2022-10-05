@@ -1,9 +1,20 @@
+* Spears, spears, and more spears! A spear overhaul. ([#61482](https://github.com/CleverRaven/Cataclysm-DDA/pull/61482))
+* Garlic Powder ([#61397](https://github.com/CleverRaven/Cataclysm-DDA/pull/61397))
+* No sawing off (the most demanding) recoil operated guns' barrels ([#61476](https://github.com/CleverRaven/Cataclysm-DDA/pull/61476))
+* Survivor armor drop fix ([#61483](https://github.com/CleverRaven/Cataclysm-DDA/pull/61483))
+* More Options for Waiting Duration ([#61459](https://github.com/CleverRaven/Cataclysm-DDA/pull/61459))
+* Paintable wood wall ([#61409](https://github.com/CleverRaven/Cataclysm-DDA/pull/61409))
+* Fix enchantment issues ([#61418](https://github.com/CleverRaven/Cataclysm-DDA/pull/61418))
+* Remove anachronistic building materials from modern buildings ([#61430](https://github.com/CleverRaven/Cataclysm-DDA/pull/61430))
+* Fix honey combnot being consumed ([#61461](https://github.com/CleverRaven/Cataclysm-DDA/pull/61461))
+* [DinoMod] mutation achievements ([#61466](https://github.com/CleverRaven/Cataclysm-DDA/pull/61466))
+* Felt patch fix ([#61472](https://github.com/CleverRaven/Cataclysm-DDA/pull/61472))
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-10-05-1038 ([32404b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-05-1038))
+#### Cataclysm-DDA experimental build 2022-10-05-1812 ([bc63b07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-05-1812))
 
-* wolf skulls ([#61237](https://github.com/CleverRaven/Cataclysm-DDA/pull/61237))
+* Better graffitis: wall vs. floor & variants ([#61427](https://github.com/CleverRaven/Cataclysm-DDA/pull/61427))
 * Aftershock: Smartguns ([#61361](https://github.com/CleverRaven/Cataclysm-DDA/pull/61361))
 * No case hardening for non-CH'd sheet metal arm guards ([#61393](https://github.com/CleverRaven/Cataclysm-DDA/pull/61393))
 
@@ -117,12 +128,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-09-30-0533 ([06962c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-30-0533))
-
-* Update JSON_FLAGS.md ([#61233](https://github.com/CleverRaven/Cataclysm-DDA/pull/61233))
-
----
-
 #### Cataclysm-DDA experimental build 2022-09-30-0256 ([e574cad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-30-0256))
 
 * Fix Ancilla bar mercenary talk topic ([#61343](https://github.com/CleverRaven/Cataclysm-DDA/pull/61343))
@@ -171,12 +176,8 @@
 * Added uncraft recipes for leather_harness_dog and rubber_harness_dog.… ([#61270](https://github.com/CleverRaven/Cataclysm-DDA/pull/61270))
 * Add new portal storm dungeon reward: resurection, new type of EOC ([#61253](https://github.com/CleverRaven/Cataclysm-DDA/pull/61253))
 * Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
-* Harmonize connects_to and rotates_to - better end pieces ([#61224](https://github.com/CleverRaven/Cataclysm-DDA/pull/61224))
 * Fix variable enchantments on items ([#61258](https://github.com/CleverRaven/Cataclysm-DDA/pull/61258))
 * Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
-* Uncraft scrap armor ([#61227](https://github.com/CleverRaven/Cataclysm-DDA/pull/61227))
-* Bugfix for Mafia Boss profession ([#61231](https://github.com/CleverRaven/Cataclysm-DDA/pull/61231))
-* Bugfix for lost submissive profession ([#61236](https://github.com/CleverRaven/Cataclysm-DDA/pull/61236))
 * Jian and wakizashi proficiency requirements change ([#61288](https://github.com/CleverRaven/Cataclysm-DDA/pull/61288))
 * fix: don't mark "Good First Issue"s as stale ([#61271](https://github.com/CleverRaven/Cataclysm-DDA/pull/61271))
 * Fix NPCs getting stuck trying to path in through a closed window. ([#61272](https://github.com/CleverRaven/Cataclysm-DDA/pull/61272))
@@ -195,9 +196,3 @@
 * Prevent self-connect for ovens etc. ([#61263](https://github.com/CleverRaven/Cataclysm-DDA/pull/61263))
 * Fix M72 LAW unpacking transform ([#61261](https://github.com/CleverRaven/Cataclysm-DDA/pull/61261))
 * Fix the has_active_bionic loop so that it only returns for the requested bionic ([#61242](https://github.com/CleverRaven/Cataclysm-DDA/pull/61242))
-* Threshold breaching should start when strength 3 dreams start ... ([#61238](https://github.com/CleverRaven/Cataclysm-DDA/pull/61238))
-* Handle fake parts in bike racks ([#61234](https://github.com/CleverRaven/Cataclysm-DDA/pull/61234))
-* Fix tempered rapier recipe ([#61232](https://github.com/CleverRaven/Cataclysm-DDA/pull/61232))
-* [Innawood] Adds some more recipes, mainly for Magiclysm compatibility  ([#61221](https://github.com/CleverRaven/Cataclysm-DDA/pull/61221))
-* Mobile home park ([#61216](https://github.com/CleverRaven/Cataclysm-DDA/pull/61216))
-* Routine i18n updates on 24 September 2022 ([#61217](https://github.com/CleverRaven/Cataclysm-DDA/pull/61217))
