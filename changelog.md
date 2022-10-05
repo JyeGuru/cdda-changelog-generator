@@ -1,3 +1,6 @@
+* wolf skulls ([#61237](https://github.com/CleverRaven/Cataclysm-DDA/pull/61237))
+* Aftershock: Smartguns ([#61361](https://github.com/CleverRaven/Cataclysm-DDA/pull/61361))
+* No case hardening for non-CH'd sheet metal arm guards ([#61393](https://github.com/CleverRaven/Cataclysm-DDA/pull/61393))
 
 ---
 
@@ -167,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-09-28-1454 ([0ecfcf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-28-1454))
 
 * Add new portal storm dungeon reward: resurection, new type of EOC ([#61253](https://github.com/CleverRaven/Cataclysm-DDA/pull/61253))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-28-0604 ([bf9ca7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-28-0604))
-
 * Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
 * Harmonize connects_to and rotates_to - better end pieces ([#61224](https://github.com/CleverRaven/Cataclysm-DDA/pull/61224))
 * Fix variable enchantments on items ([#61258](https://github.com/CleverRaven/Cataclysm-DDA/pull/61258))
@@ -202,7 +200,4 @@
 * Fix tempered rapier recipe ([#61232](https://github.com/CleverRaven/Cataclysm-DDA/pull/61232))
 * [Innawood] Adds some more recipes, mainly for Magiclysm compatibility  ([#61221](https://github.com/CleverRaven/Cataclysm-DDA/pull/61221))
 * Mobile home park ([#61216](https://github.com/CleverRaven/Cataclysm-DDA/pull/61216))
-* Zombie animals don't fear fire ([#61210](https://github.com/CleverRaven/Cataclysm-DDA/pull/61210))
-* [Innawood] bulletin board ([#61206](https://github.com/CleverRaven/Cataclysm-DDA/pull/61206))
-* [DinoMod] tenontosaurus and zombie dryosaurus ([#61205](https://github.com/CleverRaven/Cataclysm-DDA/pull/61205))
 * Routine i18n updates on 24 September 2022 ([#61217](https://github.com/CleverRaven/Cataclysm-DDA/pull/61217))
