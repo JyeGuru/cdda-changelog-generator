@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-05-1038 ([32404b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-05-1038))
+
 * wolf skulls ([#61237](https://github.com/CleverRaven/Cataclysm-DDA/pull/61237))
 * Aftershock: Smartguns ([#61361](https://github.com/CleverRaven/Cataclysm-DDA/pull/61361))
 * No case hardening for non-CH'd sheet metal arm guards ([#61393](https://github.com/CleverRaven/Cataclysm-DDA/pull/61393))
@@ -164,11 +169,6 @@
 * Couple of spelling errors ([#61299](https://github.com/CleverRaven/Cataclysm-DDA/pull/61299))
 * Aftershock: Space Emergency Items and Groups ([#61298](https://github.com/CleverRaven/Cataclysm-DDA/pull/61298))
 * Added uncraft recipes for leather_harness_dog and rubber_harness_dog.… ([#61270](https://github.com/CleverRaven/Cataclysm-DDA/pull/61270))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-28-1454 ([0ecfcf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-28-1454))
-
 * Add new portal storm dungeon reward: resurection, new type of EOC ([#61253](https://github.com/CleverRaven/Cataclysm-DDA/pull/61253))
 * Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
 * Harmonize connects_to and rotates_to - better end pieces ([#61224](https://github.com/CleverRaven/Cataclysm-DDA/pull/61224))
