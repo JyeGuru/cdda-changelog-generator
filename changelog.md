@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-06-0749 ([138556e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-06-0749))
+
+* Durable load bearing vests ([#61485](https://github.com/CleverRaven/Cataclysm-DDA/pull/61485))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-05-1937 ([3f63c44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-05-1937))
 
 * Spears, spears, and more spears! A spear overhaul. ([#61482](https://github.com/CleverRaven/Cataclysm-DDA/pull/61482))
@@ -110,12 +116,6 @@
 #### Cataclysm-DDA experimental build 2022-10-01-0633 ([cd02b91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-0633))
 
 * tweaks to basic kevlar vest ([#61328](https://github.com/CleverRaven/Cataclysm-DDA/pull/61328))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-01-0458 ([5e89406](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-0458))
-
-* Reduce gun weight after sawing off its stock ([#61246](https://github.com/CleverRaven/Cataclysm-DDA/pull/61246))
 * [DinoMod] four ceratopsians and horns mutations ([#61264](https://github.com/CleverRaven/Cataclysm-DDA/pull/61264))
 * Adds City Location: Strip Mall ([#61317](https://github.com/CleverRaven/Cataclysm-DDA/pull/61317))
 * Xl punching armor ([#61319](https://github.com/CleverRaven/Cataclysm-DDA/pull/61319))
@@ -156,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2022-09-29-1402 ([1e89b69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-1402))
 
 * Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-29-0625 ([8618e52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-0625))
-
 * Divorce splitting vehicles and adding wreckage tag ([#61304](https://github.com/CleverRaven/Cataclysm-DDA/pull/61304))
 * Fix AIM move will duplicate multiple liquid ([#61327](https://github.com/CleverRaven/Cataclysm-DDA/pull/61327))
 * Make monster pathing slightly less dumb ([#61330](https://github.com/CleverRaven/Cataclysm-DDA/pull/61330))

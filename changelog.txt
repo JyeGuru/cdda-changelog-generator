@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-06-0749 (138556e)
+* Durable load bearing vests (#61485)
+
 Cataclysm-DDA experimental build 2022-10-05-1937 (3f63c44)
 * Spears, spears, and more spears! A spear overhaul. (#61482)
 * Garlic Powder (#61397)
@@ -68,9 +71,6 @@ Cataclysm-DDA experimental build 2022-10-01-1949 (edb21b9)
 
 Cataclysm-DDA experimental build 2022-10-01-0633 (cd02b91)
 * tweaks to basic kevlar vest (#61328)
-
-Cataclysm-DDA experimental build 2022-10-01-0458 (5e89406)
-* Reduce gun weight after sawing off its stock (#61246)
 * [DinoMod] four ceratopsians and horns mutations (#61264)
 * Adds City Location: Strip Mall (#61317)
 * Xl punching armor (#61319)
@@ -96,8 +96,6 @@ Cataclysm-DDA experimental build 2022-09-29-1629 (5ecdd98)
 
 Cataclysm-DDA experimental build 2022-09-29-1402 (1e89b69)
 * Metabolicm powered bionic consumes calories (#61350)
-
-Cataclysm-DDA experimental build 2022-09-29-0625 (8618e52)
 * Divorce splitting vehicles and adding wreckage tag (#61304)
 * Fix AIM move will duplicate multiple liquid (#61327)
 * Make monster pathing slightly less dumb (#61330)
