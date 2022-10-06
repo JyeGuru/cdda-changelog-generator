@@ -186,7 +186,6 @@
 * Trees Aren't Telephone Poles ([#61290](https://github.com/CleverRaven/Cataclysm-DDA/pull/61290))
 * Clarify world option city sizes ([#61262](https://github.com/CleverRaven/Cataclysm-DDA/pull/61262))
 * Routine tileset updates on 25 September 2022 ([#61267](https://github.com/CleverRaven/Cataclysm-DDA/pull/61267))
-* Fix type conversion warning ([#61247](https://github.com/CleverRaven/Cataclysm-DDA/pull/61247))
 * Add minimum recoil improvement limit ([#61252](https://github.com/CleverRaven/Cataclysm-DDA/pull/61252))
 * Prevent self-connect for ovens etc. ([#61263](https://github.com/CleverRaven/Cataclysm-DDA/pull/61263))
 * Fix M72 LAW unpacking transform ([#61261](https://github.com/CleverRaven/Cataclysm-DDA/pull/61261))
