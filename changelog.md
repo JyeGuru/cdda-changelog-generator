@@ -1,3 +1,6 @@
+* Squelch turret test warnings ([#61511](https://github.com/CleverRaven/Cataclysm-DDA/pull/61511))
+* Add Bojutsu to the Melee Training hobby description ([#61513](https://github.com/CleverRaven/Cataclysm-DDA/pull/61513))
+* [ Xedra Evolved ] Fix summoned dreamdross not being permanent ([#61515](https://github.com/CleverRaven/Cataclysm-DDA/pull/61515))
 
 ---
 
@@ -138,7 +141,6 @@
 #### Cataclysm-DDA experimental build 2022-10-01-0633 ([cd02b91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-0633))
 
 * tweaks to basic kevlar vest ([#61328](https://github.com/CleverRaven/Cataclysm-DDA/pull/61328))
-* [DinoMod] four ceratopsians and horns mutations ([#61264](https://github.com/CleverRaven/Cataclysm-DDA/pull/61264))
 * Adds City Location: Strip Mall ([#61317](https://github.com/CleverRaven/Cataclysm-DDA/pull/61317))
 * Xl punching armor ([#61319](https://github.com/CleverRaven/Cataclysm-DDA/pull/61319))
 * House Palette Update  - Bedside Table ([#61362](https://github.com/CleverRaven/Cataclysm-DDA/pull/61362))
@@ -166,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2022-09-30-0155 ([7e44752](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-30-0155))
 
 * [Bugfix] Re-introduce sprite flipping ([#61352](https://github.com/CleverRaven/Cataclysm-DDA/pull/61352))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-29-1629 ([5ecdd98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-1629))
-
 * Make alpha a bit smarter and nimbler ([#61278](https://github.com/CleverRaven/Cataclysm-DDA/pull/61278))
 * Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
 * Divorce splitting vehicles and adding wreckage tag ([#61304](https://github.com/CleverRaven/Cataclysm-DDA/pull/61304))
@@ -185,7 +182,6 @@
 * Make more furniture and terrain ready for auto-rotation ([#61313](https://github.com/CleverRaven/Cataclysm-DDA/pull/61313))
 * Couple of spelling errors ([#61299](https://github.com/CleverRaven/Cataclysm-DDA/pull/61299))
 * Aftershock: Space Emergency Items and Groups ([#61298](https://github.com/CleverRaven/Cataclysm-DDA/pull/61298))
-* Added uncraft recipes for leather_harness_dog and rubber_harness_dog.… ([#61270](https://github.com/CleverRaven/Cataclysm-DDA/pull/61270))
 * Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
 * Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
 * Jian and wakizashi proficiency requirements change ([#61288](https://github.com/CleverRaven/Cataclysm-DDA/pull/61288))
@@ -199,4 +195,3 @@
 * Fix popup for modifying string options ([#61284](https://github.com/CleverRaven/Cataclysm-DDA/pull/61284))
 * Player can drop their weapons once again when NPCs are requesting it ([#61286](https://github.com/CleverRaven/Cataclysm-DDA/pull/61286))
 * Trees Aren't Telephone Poles ([#61290](https://github.com/CleverRaven/Cataclysm-DDA/pull/61290))
-* Routine tileset updates on 25 September 2022 ([#61267](https://github.com/CleverRaven/Cataclysm-DDA/pull/61267))
