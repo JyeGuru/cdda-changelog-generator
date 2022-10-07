@@ -1,6 +1,28 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-07-0517 ([abf6828](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-07-0517))
+
+* Add price for graded variants of cavalry sabre ([#61498](https://github.com/CleverRaven/Cataclysm-DDA/pull/61498))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-07-0250 ([2e49e16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-07-0250))
+
+* Translate weakpoint names and effects ([#61507](https://github.com/CleverRaven/Cataclysm-DDA/pull/61507))
+* try and fix errors ([#61514](https://github.com/CleverRaven/Cataclysm-DDA/pull/61514))
+* MilComp repairs ([#61473](https://github.com/CleverRaven/Cataclysm-DDA/pull/61473))
+* Teargas grenades now spawn ([#61484](https://github.com/CleverRaven/Cataclysm-DDA/pull/61484))
+* Bojutsu Spawning ([#61493](https://github.com/CleverRaven/Cataclysm-DDA/pull/61493))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-07-0120 ([b630d39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-07-0120))
+
+* Minor bugfixes ([#61508](https://github.com/CleverRaven/Cataclysm-DDA/pull/61508))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-06-0749 ([138556e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-06-0749))
 
 * Durable load bearing vests ([#61485](https://github.com/CleverRaven/Cataclysm-DDA/pull/61485))
@@ -150,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-09-29-1629 ([5ecdd98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-1629))
 
 * Make alpha a bit smarter and nimbler ([#61278](https://github.com/CleverRaven/Cataclysm-DDA/pull/61278))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-29-1402 ([1e89b69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-29-1402))
-
 * Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
 * Divorce splitting vehicles and adding wreckage tag ([#61304](https://github.com/CleverRaven/Cataclysm-DDA/pull/61304))
 * Fix AIM move will duplicate multiple liquid ([#61327](https://github.com/CleverRaven/Cataclysm-DDA/pull/61327))
@@ -169,9 +186,7 @@
 * Couple of spelling errors ([#61299](https://github.com/CleverRaven/Cataclysm-DDA/pull/61299))
 * Aftershock: Space Emergency Items and Groups ([#61298](https://github.com/CleverRaven/Cataclysm-DDA/pull/61298))
 * Added uncraft recipes for leather_harness_dog and rubber_harness_dog.… ([#61270](https://github.com/CleverRaven/Cataclysm-DDA/pull/61270))
-* Add new portal storm dungeon reward: resurection, new type of EOC ([#61253](https://github.com/CleverRaven/Cataclysm-DDA/pull/61253))
 * Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
-* Fix variable enchantments on items ([#61258](https://github.com/CleverRaven/Cataclysm-DDA/pull/61258))
 * Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
 * Jian and wakizashi proficiency requirements change ([#61288](https://github.com/CleverRaven/Cataclysm-DDA/pull/61288))
 * fix: don't mark "Good First Issue"s as stale ([#61271](https://github.com/CleverRaven/Cataclysm-DDA/pull/61271))
@@ -184,8 +199,4 @@
 * Fix popup for modifying string options ([#61284](https://github.com/CleverRaven/Cataclysm-DDA/pull/61284))
 * Player can drop their weapons once again when NPCs are requesting it ([#61286](https://github.com/CleverRaven/Cataclysm-DDA/pull/61286))
 * Trees Aren't Telephone Poles ([#61290](https://github.com/CleverRaven/Cataclysm-DDA/pull/61290))
-* Clarify world option city sizes ([#61262](https://github.com/CleverRaven/Cataclysm-DDA/pull/61262))
 * Routine tileset updates on 25 September 2022 ([#61267](https://github.com/CleverRaven/Cataclysm-DDA/pull/61267))
-* Add minimum recoil improvement limit ([#61252](https://github.com/CleverRaven/Cataclysm-DDA/pull/61252))
-* Prevent self-connect for ovens etc. ([#61263](https://github.com/CleverRaven/Cataclysm-DDA/pull/61263))
-* Fix M72 LAW unpacking transform ([#61261](https://github.com/CleverRaven/Cataclysm-DDA/pull/61261))
