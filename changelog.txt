@@ -102,8 +102,6 @@ Cataclysm-DDA experimental build 2022-09-30-0256 (e574cad)
 * Fix Ancilla bar mercenary talk topic (#61343)
 * Change internal fuel storages to tool_armor (#61349)
 * Fix Chickens can hatch from fried and scrambled eggs (#61351)
-
-Cataclysm-DDA experimental build 2022-09-30-0155 (7e44752)
 * [Bugfix] Re-introduce sprite flipping (#61352)
 * Make alpha a bit smarter and nimbler (#61278)
 * Metabolicm powered bionic consumes calories (#61350)
