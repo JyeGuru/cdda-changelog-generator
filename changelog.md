@@ -180,7 +180,6 @@
 * Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
 * Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
 * Jian and wakizashi proficiency requirements change ([#61288](https://github.com/CleverRaven/Cataclysm-DDA/pull/61288))
-* fix: don't mark "Good First Issue"s as stale ([#61271](https://github.com/CleverRaven/Cataclysm-DDA/pull/61271))
 * Fix NPCs getting stuck trying to path in through a closed window. ([#61272](https://github.com/CleverRaven/Cataclysm-DDA/pull/61272))
 * Remove ObjectCreator from main cdda solution ([#61274](https://github.com/CleverRaven/Cataclysm-DDA/pull/61274))
 * Fix butane cans being inappropriately empty ([#61276](https://github.com/CleverRaven/Cataclysm-DDA/pull/61276))
