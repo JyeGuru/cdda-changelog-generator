@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-08-0525 ([64e17c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-08-0525))
+
+* swords looks_like fix ([#61517](https://github.com/CleverRaven/Cataclysm-DDA/pull/61517))
 * Squelch turret test warnings ([#61511](https://github.com/CleverRaven/Cataclysm-DDA/pull/61511))
 * Add Bojutsu to the Melee Training hobby description ([#61513](https://github.com/CleverRaven/Cataclysm-DDA/pull/61513))
 * [ Xedra Evolved ] Fix summoned dreamdross not being permanent ([#61515](https://github.com/CleverRaven/Cataclysm-DDA/pull/61515))
@@ -154,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-10-01-0349 ([f7528c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-0349))
 
 * Removed long strings from piano disassembly and replaced the wires. ([#61371](https://github.com/CleverRaven/Cataclysm-DDA/pull/61371))
-
----
-
-#### Cataclysm-DDA experimental build 2022-09-30-0256 ([e574cad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-09-30-0256))
-
 * Fix Ancilla bar mercenary talk topic ([#61343](https://github.com/CleverRaven/Cataclysm-DDA/pull/61343))
 * Change internal fuel storages to tool_armor ([#61349](https://github.com/CleverRaven/Cataclysm-DDA/pull/61349))
 * Fix Chickens can hatch from fried and scrambled eggs ([#61351](https://github.com/CleverRaven/Cataclysm-DDA/pull/61351))
@@ -180,7 +181,6 @@
 * Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
 * Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
 * Jian and wakizashi proficiency requirements change ([#61288](https://github.com/CleverRaven/Cataclysm-DDA/pull/61288))
-* Fix NPCs getting stuck trying to path in through a closed window. ([#61272](https://github.com/CleverRaven/Cataclysm-DDA/pull/61272))
 * Remove ObjectCreator from main cdda solution ([#61274](https://github.com/CleverRaven/Cataclysm-DDA/pull/61274))
 * Fix butane cans being inappropriately empty ([#61276](https://github.com/CleverRaven/Cataclysm-DDA/pull/61276))
 * Rebalance cottonwood tree boll use with stationary scutcher ([#61279](https://github.com/CleverRaven/Cataclysm-DDA/pull/61279))
