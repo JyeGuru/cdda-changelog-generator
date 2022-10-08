@@ -181,7 +181,6 @@
 * Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
 * Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
 * Jian and wakizashi proficiency requirements change ([#61288](https://github.com/CleverRaven/Cataclysm-DDA/pull/61288))
-* Remove ObjectCreator from main cdda solution ([#61274](https://github.com/CleverRaven/Cataclysm-DDA/pull/61274))
 * Fix butane cans being inappropriately empty ([#61276](https://github.com/CleverRaven/Cataclysm-DDA/pull/61276))
 * Rebalance cottonwood tree boll use with stationary scutcher ([#61279](https://github.com/CleverRaven/Cataclysm-DDA/pull/61279))
 * Increase uncraft test margin to reduce test failures ([#61280](https://github.com/CleverRaven/Cataclysm-DDA/pull/61280))
