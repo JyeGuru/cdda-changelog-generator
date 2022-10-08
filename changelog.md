@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-08-1917 ([3796a74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-08-1917))
+
 * Remove obsolete doc for CLIMATE_CONTROL flag ([#61522](https://github.com/CleverRaven/Cataclysm-DDA/pull/61522))
 * fix CI errors from param in mythos mod ([#61529](https://github.com/CleverRaven/Cataclysm-DDA/pull/61529))
 * Add concrete floor under beverly shear in light industry ([#61532](https://github.com/CleverRaven/Cataclysm-DDA/pull/61532))
