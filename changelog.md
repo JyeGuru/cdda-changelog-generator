@@ -1,3 +1,14 @@
+* Remove obsolete doc for CLIMATE_CONTROL flag ([#61522](https://github.com/CleverRaven/Cataclysm-DDA/pull/61522))
+* fix CI errors from param in mythos mod ([#61529](https://github.com/CleverRaven/Cataclysm-DDA/pull/61529))
+* Add concrete floor under beverly shear in light industry ([#61532](https://github.com/CleverRaven/Cataclysm-DDA/pull/61532))
+* Routine i18n updates on 08 October 2022 ([#61533](https://github.com/CleverRaven/Cataclysm-DDA/pull/61533))
+* Add 2StoryModern04 ([#61537](https://github.com/CleverRaven/Cataclysm-DDA/pull/61537))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-08-1807 ([99564b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-08-1807))
+
+* Makes headscarves skintight and autolearned ([#61542](https://github.com/CleverRaven/Cataclysm-DDA/pull/61542))
 
 ---
 
@@ -164,7 +175,6 @@
 * Change internal fuel storages to tool_armor ([#61349](https://github.com/CleverRaven/Cataclysm-DDA/pull/61349))
 * Fix Chickens can hatch from fried and scrambled eggs ([#61351](https://github.com/CleverRaven/Cataclysm-DDA/pull/61351))
 * [Bugfix] Re-introduce sprite flipping ([#61352](https://github.com/CleverRaven/Cataclysm-DDA/pull/61352))
-* Make alpha a bit smarter and nimbler ([#61278](https://github.com/CleverRaven/Cataclysm-DDA/pull/61278))
 * Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
 * Divorce splitting vehicles and adding wreckage tag ([#61304](https://github.com/CleverRaven/Cataclysm-DDA/pull/61304))
 * Fix AIM move will duplicate multiple liquid ([#61327](https://github.com/CleverRaven/Cataclysm-DDA/pull/61327))
@@ -181,10 +191,5 @@
 * Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
 * Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
 * Jian and wakizashi proficiency requirements change ([#61288](https://github.com/CleverRaven/Cataclysm-DDA/pull/61288))
-* Fix butane cans being inappropriately empty ([#61276](https://github.com/CleverRaven/Cataclysm-DDA/pull/61276))
-* Rebalance cottonwood tree boll use with stationary scutcher ([#61279](https://github.com/CleverRaven/Cataclysm-DDA/pull/61279))
-* Increase uncraft test margin to reduce test failures ([#61280](https://github.com/CleverRaven/Cataclysm-DDA/pull/61280))
-* Fix Android build error ([#61281](https://github.com/CleverRaven/Cataclysm-DDA/pull/61281))
-* Fix popup for modifying string options ([#61284](https://github.com/CleverRaven/Cataclysm-DDA/pull/61284))
 * Player can drop their weapons once again when NPCs are requesting it ([#61286](https://github.com/CleverRaven/Cataclysm-DDA/pull/61286))
 * Trees Aren't Telephone Poles ([#61290](https://github.com/CleverRaven/Cataclysm-DDA/pull/61290))
