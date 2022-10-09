@@ -1,3 +1,19 @@
+* Fix repair menu shows slow ([#61438](https://github.com/CleverRaven/Cataclysm-DDA/pull/61438))
+* [DinoMod] amazing ankylosaurs ([#61475](https://github.com/CleverRaven/Cataclysm-DDA/pull/61475))
+* Document graffiti selection ([#61496](https://github.com/CleverRaven/Cataclysm-DDA/pull/61496))
+* [Innawood] bandages, crutches, and splints from fibercloth ([#61547](https://github.com/CleverRaven/Cataclysm-DDA/pull/61547))
+* Widen test margins ([#61509](https://github.com/CleverRaven/Cataclysm-DDA/pull/61509))
+* Bites can't target eyes and mouth by default ([#61544](https://github.com/CleverRaven/Cataclysm-DDA/pull/61544))
+* More breads as cooking components ([#61541](https://github.com/CleverRaven/Cataclysm-DDA/pull/61541))
+* Smashing wooden stairs leading down will now create holes ([#61548](https://github.com/CleverRaven/Cataclysm-DDA/pull/61548))
+* Fix negative climbing difficulty ([#61553](https://github.com/CleverRaven/Cataclysm-DDA/pull/61553))
+* fix: missing double space in weapon sound message ([#61554](https://github.com/CleverRaven/Cataclysm-DDA/pull/61554))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-09-0022 ([91310b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-09-0022))
+
+* Initialize datadir_path_value earlier in path_info ([#61555](https://github.com/CleverRaven/Cataclysm-DDA/pull/61555))
 
 ---
 
@@ -132,7 +148,6 @@
 * Add more bounds checks for pathfinding ([#61388](https://github.com/CleverRaven/Cataclysm-DDA/pull/61388))
 * Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
 * Artifact "resonance" penalties from carrying too many ([#61341](https://github.com/CleverRaven/Cataclysm-DDA/pull/61341))
-* Lets player construct earth ramp (low and high). ([#61302](https://github.com/CleverRaven/Cataclysm-DDA/pull/61302))
 * rebalance deathrattle serpent ([#61323](https://github.com/CleverRaven/Cataclysm-DDA/pull/61323))
 * buff the stone spear ([#61355](https://github.com/CleverRaven/Cataclysm-DDA/pull/61355))
 * [DinoMod] bear armor ([#61374](https://github.com/CleverRaven/Cataclysm-DDA/pull/61374))
@@ -170,18 +185,12 @@
 * allow SPEAR attack through barred/grated windows ([#61329](https://github.com/CleverRaven/Cataclysm-DDA/pull/61329))
 * add missing flags to rm13 ([#61366](https://github.com/CleverRaven/Cataclysm-DDA/pull/61366))
 * [DinoMod] boiled egg hatching fix ([#61368](https://github.com/CleverRaven/Cataclysm-DDA/pull/61368))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-01-0349 ([f7528c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-0349))
-
 * Removed long strings from piano disassembly and replaced the wires. ([#61371](https://github.com/CleverRaven/Cataclysm-DDA/pull/61371))
 * Fix Ancilla bar mercenary talk topic ([#61343](https://github.com/CleverRaven/Cataclysm-DDA/pull/61343))
 * Change internal fuel storages to tool_armor ([#61349](https://github.com/CleverRaven/Cataclysm-DDA/pull/61349))
 * Fix Chickens can hatch from fried and scrambled eggs ([#61351](https://github.com/CleverRaven/Cataclysm-DDA/pull/61351))
 * [Bugfix] Re-introduce sprite flipping ([#61352](https://github.com/CleverRaven/Cataclysm-DDA/pull/61352))
 * Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
-* Divorce splitting vehicles and adding wreckage tag ([#61304](https://github.com/CleverRaven/Cataclysm-DDA/pull/61304))
 * Fix AIM move will duplicate multiple liquid ([#61327](https://github.com/CleverRaven/Cataclysm-DDA/pull/61327))
 * Make monster pathing slightly less dumb ([#61330](https://github.com/CleverRaven/Cataclysm-DDA/pull/61330))
 * [Bugfix] Useful auto-rotation fallback for simple rotation ([#61332](https://github.com/CleverRaven/Cataclysm-DDA/pull/61332))
@@ -191,10 +200,3 @@
 * Fix issue with dialog tags in EOC ([#61314](https://github.com/CleverRaven/Cataclysm-DDA/pull/61314))
 * npc: fix sell_belongings default and behaviour ([#61322](https://github.com/CleverRaven/Cataclysm-DDA/pull/61322))
 * Make more furniture and terrain ready for auto-rotation ([#61313](https://github.com/CleverRaven/Cataclysm-DDA/pull/61313))
-* Couple of spelling errors ([#61299](https://github.com/CleverRaven/Cataclysm-DDA/pull/61299))
-* Aftershock: Space Emergency Items and Groups ([#61298](https://github.com/CleverRaven/Cataclysm-DDA/pull/61298))
-* Make hotwiring train mechanics ([#61310](https://github.com/CleverRaven/Cataclysm-DDA/pull/61310))
-* Fix trap placement messages with terrain type ([#61291](https://github.com/CleverRaven/Cataclysm-DDA/pull/61291))
-* Jian and wakizashi proficiency requirements change ([#61288](https://github.com/CleverRaven/Cataclysm-DDA/pull/61288))
-* Player can drop their weapons once again when NPCs are requesting it ([#61286](https://github.com/CleverRaven/Cataclysm-DDA/pull/61286))
-* Trees Aren't Telephone Poles ([#61290](https://github.com/CleverRaven/Cataclysm-DDA/pull/61290))
