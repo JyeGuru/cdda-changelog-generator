@@ -112,8 +112,6 @@ Cataclysm-DDA experimental build 2022-10-02-0820 (cd637a9)
 
 Cataclysm-DDA experimental build 2022-10-01-1949 (edb21b9)
 * Fix mapgen error in mod loading test (#61395)
-
-Cataclysm-DDA experimental build 2022-10-01-0633 (cd02b91)
 * tweaks to basic kevlar vest (#61328)
 * Adds City Location: Strip Mall (#61317)
 * Xl punching armor (#61319)

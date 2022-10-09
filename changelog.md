@@ -178,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-10-01-1949 ([edb21b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-1949))
 
 * Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-01-0633 ([cd02b91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-0633))
-
 * tweaks to basic kevlar vest ([#61328](https://github.com/CleverRaven/Cataclysm-DDA/pull/61328))
 * Adds City Location: Strip Mall ([#61317](https://github.com/CleverRaven/Cataclysm-DDA/pull/61317))
 * Xl punching armor ([#61319](https://github.com/CleverRaven/Cataclysm-DDA/pull/61319))
