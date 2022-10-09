@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-09-0551 ([349262c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-09-0551))
+
+* Make 'crash axe' stats the same as the 'hatchet' ([#61560](https://github.com/CleverRaven/Cataclysm-DDA/pull/61560))
 * Fix repair menu shows slow ([#61438](https://github.com/CleverRaven/Cataclysm-DDA/pull/61438))
 * [DinoMod] amazing ankylosaurs ([#61475](https://github.com/CleverRaven/Cataclysm-DDA/pull/61475))
 * Document graffiti selection ([#61496](https://github.com/CleverRaven/Cataclysm-DDA/pull/61496))
@@ -199,4 +205,3 @@
 * Portal Traveler profession description fix ([#61333](https://github.com/CleverRaven/Cataclysm-DDA/pull/61333))
 * Fix issue with dialog tags in EOC ([#61314](https://github.com/CleverRaven/Cataclysm-DDA/pull/61314))
 * npc: fix sell_belongings default and behaviour ([#61322](https://github.com/CleverRaven/Cataclysm-DDA/pull/61322))
-* Make more furniture and terrain ready for auto-rotation ([#61313](https://github.com/CleverRaven/Cataclysm-DDA/pull/61313))
