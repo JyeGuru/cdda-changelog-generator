@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-10-0636 ([737dc71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-10-0636))
+
 * Update the table of contents in doc/JSON_INFO.md ([#61586](https://github.com/CleverRaven/Cataclysm-DDA/pull/61586))
 * Update suits_protection.json ([#61557](https://github.com/CleverRaven/Cataclysm-DDA/pull/61557))
 
@@ -174,11 +179,6 @@
 * Reworked bathrooms of `multi_unit_housing` ([#61391](https://github.com/CleverRaven/Cataclysm-DDA/pull/61391))
 * Make mycus immune to Spore-Dusted #56653 ([#61403](https://github.com/CleverRaven/Cataclysm-DDA/pull/61403))
 * make hollow cane a rigid pocket ([#61382](https://github.com/CleverRaven/Cataclysm-DDA/pull/61382))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-02-0929 ([a6b94d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-02-0929))
-
 * Both recipes of oars are now located in one place in crafting menu ([#61390](https://github.com/CleverRaven/Cataclysm-DDA/pull/61390))
 * [Bugfix] Rendering vehicle memory and height_3d ([#61396](https://github.com/CleverRaven/Cataclysm-DDA/pull/61396))
 * Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))

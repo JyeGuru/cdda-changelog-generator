@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-10-0636 (737dc71)
 * Update the table of contents in doc/JSON_INFO.md (#61586)
 * Update suits_protection.json (#61557)
 
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2022-10-02-1703 (01d15e7)
 * Reworked bathrooms of `multi_unit_housing` (#61391)
 * Make mycus immune to Spore-Dusted #56653 (#61403)
 * make hollow cane a rigid pocket (#61382)
-
-Cataclysm-DDA experimental build 2022-10-02-0929 (a6b94d8)
 * Both recipes of oars are now located in one place in crafting menu (#61390)
 * [Bugfix] Rendering vehicle memory and height_3d (#61396)
 * Fix mapgen error in mod loading test (#61395)
