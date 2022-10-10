@@ -1,3 +1,8 @@
+* Added obsoleted terrains and recipes to corresponding lists (#61570)
+* Routine tileset updates on 09 October 2022 (#61580)
+
+Cataclysm-DDA experimental build 2022-10-10-0334 (03732f2)
+* Multiple connection groups and asymmetric connect (#61336)
 
 Cataclysm-DDA experimental build 2022-10-09-0551 (349262c)
 * Make 'crash axe' stats the same as the 'hatchet' (#61560)
@@ -109,12 +114,8 @@ Cataclysm-DDA experimental build 2022-10-02-0929 (a6b94d8)
 
 Cataclysm-DDA experimental build 2022-10-02-0820 (cd637a9)
 * [Bugfix] Rendering vehicle memory and height_3d (#61396)
-
-Cataclysm-DDA experimental build 2022-10-01-1949 (edb21b9)
 * Fix mapgen error in mod loading test (#61395)
 * tweaks to basic kevlar vest (#61328)
-* Adds City Location: Strip Mall (#61317)
-* Xl punching armor (#61319)
 * House Palette Update  - Bedside Table (#61362)
 * Allow traveling to shelves (#61367)
 * allow SPEAR attack through barred/grated windows (#61329)
@@ -132,5 +133,4 @@ Cataclysm-DDA experimental build 2022-10-01-1949 (edb21b9)
 * Changed floor_bedding_warmth to balance the progression between seat,… (#61337)
 * powered earplugs no longer use 66x as much energy (#61339)
 * Portal Traveler profession description fix (#61333)
-* Fix issue with dialog tags in EOC (#61314)
 * npc: fix sell_belongings default and behaviour (#61322)

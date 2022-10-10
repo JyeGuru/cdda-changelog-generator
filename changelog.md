@@ -1,3 +1,11 @@
+* Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
+* Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-10-0334 ([03732f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-10-0334))
+
+* Multiple connection groups and asymmetric connect ([#61336](https://github.com/CleverRaven/Cataclysm-DDA/pull/61336))
 
 ---
 
@@ -172,15 +180,8 @@
 #### Cataclysm-DDA experimental build 2022-10-02-0820 ([cd637a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-02-0820))
 
 * [Bugfix] Rendering vehicle memory and height_3d ([#61396](https://github.com/CleverRaven/Cataclysm-DDA/pull/61396))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-01-1949 ([edb21b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-01-1949))
-
 * Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))
 * tweaks to basic kevlar vest ([#61328](https://github.com/CleverRaven/Cataclysm-DDA/pull/61328))
-* Adds City Location: Strip Mall ([#61317](https://github.com/CleverRaven/Cataclysm-DDA/pull/61317))
-* Xl punching armor ([#61319](https://github.com/CleverRaven/Cataclysm-DDA/pull/61319))
 * House Palette Update  - Bedside Table ([#61362](https://github.com/CleverRaven/Cataclysm-DDA/pull/61362))
 * Allow traveling to shelves ([#61367](https://github.com/CleverRaven/Cataclysm-DDA/pull/61367))
 * allow SPEAR attack through barred/grated windows ([#61329](https://github.com/CleverRaven/Cataclysm-DDA/pull/61329))
@@ -198,5 +199,4 @@
 * Changed floor_bedding_warmth to balance the progression between seat,… ([#61337](https://github.com/CleverRaven/Cataclysm-DDA/pull/61337))
 * powered earplugs no longer use 66x as much energy ([#61339](https://github.com/CleverRaven/Cataclysm-DDA/pull/61339))
 * Portal Traveler profession description fix ([#61333](https://github.com/CleverRaven/Cataclysm-DDA/pull/61333))
-* Fix issue with dialog tags in EOC ([#61314](https://github.com/CleverRaven/Cataclysm-DDA/pull/61314))
 * npc: fix sell_belongings default and behaviour ([#61322](https://github.com/CleverRaven/Cataclysm-DDA/pull/61322))
