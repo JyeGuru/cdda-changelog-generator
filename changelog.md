@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-10-0951 ([1f5acd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-10-0951))
+
+* Add more intermediary bladed weapons to smooth out sword progression. ([#61563](https://github.com/CleverRaven/Cataclysm-DDA/pull/61563))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-10-0636 ([737dc71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-10-0636))
 
 * Update the table of contents in doc/JSON_INFO.md ([#61586](https://github.com/CleverRaven/Cataclysm-DDA/pull/61586))
@@ -182,7 +188,6 @@
 * Both recipes of oars are now located in one place in crafting menu ([#61390](https://github.com/CleverRaven/Cataclysm-DDA/pull/61390))
 * [Bugfix] Rendering vehicle memory and height_3d ([#61396](https://github.com/CleverRaven/Cataclysm-DDA/pull/61396))
 * Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))
-* tweaks to basic kevlar vest ([#61328](https://github.com/CleverRaven/Cataclysm-DDA/pull/61328))
 * House Palette Update  - Bedside Table ([#61362](https://github.com/CleverRaven/Cataclysm-DDA/pull/61362))
 * Allow traveling to shelves ([#61367](https://github.com/CleverRaven/Cataclysm-DDA/pull/61367))
 * allow SPEAR attack through barred/grated windows ([#61329](https://github.com/CleverRaven/Cataclysm-DDA/pull/61329))

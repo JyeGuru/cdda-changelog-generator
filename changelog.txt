@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-10-0951 (1f5acd1)
+* Add more intermediary bladed weapons to smooth out sword progression. (#61563)
+
 Cataclysm-DDA experimental build 2022-10-10-0636 (737dc71)
 * Update the table of contents in doc/JSON_INFO.md (#61586)
 * Update suits_protection.json (#61557)
@@ -116,7 +119,6 @@ Cataclysm-DDA experimental build 2022-10-02-1703 (01d15e7)
 * Both recipes of oars are now located in one place in crafting menu (#61390)
 * [Bugfix] Rendering vehicle memory and height_3d (#61396)
 * Fix mapgen error in mod loading test (#61395)
-* tweaks to basic kevlar vest (#61328)
 * House Palette Update  - Bedside Table (#61362)
 * Allow traveling to shelves (#61367)
 * allow SPEAR attack through barred/grated windows (#61329)
