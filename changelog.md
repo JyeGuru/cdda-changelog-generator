@@ -1,3 +1,10 @@
+* Update the table of contents in doc/JSON_INFO.md ([#61586](https://github.com/CleverRaven/Cataclysm-DDA/pull/61586))
+* Update suits_protection.json ([#61557](https://github.com/CleverRaven/Cataclysm-DDA/pull/61557))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-10-0507 ([5684666](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-10-0507))
+
 * Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
 * Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
 
@@ -162,7 +169,6 @@
 * Add more bounds checks for pathfinding ([#61388](https://github.com/CleverRaven/Cataclysm-DDA/pull/61388))
 * Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
 * Artifact "resonance" penalties from carrying too many ([#61341](https://github.com/CleverRaven/Cataclysm-DDA/pull/61341))
-* rebalance deathrattle serpent ([#61323](https://github.com/CleverRaven/Cataclysm-DDA/pull/61323))
 * buff the stone spear ([#61355](https://github.com/CleverRaven/Cataclysm-DDA/pull/61355))
 * [DinoMod] bear armor ([#61374](https://github.com/CleverRaven/Cataclysm-DDA/pull/61374))
 * Reworked bathrooms of `multi_unit_housing` ([#61391](https://github.com/CleverRaven/Cataclysm-DDA/pull/61391))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-10-02-0929 ([a6b94d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-02-0929))
 
 * Both recipes of oars are now located in one place in crafting menu ([#61390](https://github.com/CleverRaven/Cataclysm-DDA/pull/61390))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-02-0820 ([cd637a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-02-0820))
-
 * [Bugfix] Rendering vehicle memory and height_3d ([#61396](https://github.com/CleverRaven/Cataclysm-DDA/pull/61396))
 * Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))
 * tweaks to basic kevlar vest ([#61328](https://github.com/CleverRaven/Cataclysm-DDA/pull/61328))
@@ -193,10 +194,8 @@
 * Fix Chickens can hatch from fried and scrambled eggs ([#61351](https://github.com/CleverRaven/Cataclysm-DDA/pull/61351))
 * [Bugfix] Re-introduce sprite flipping ([#61352](https://github.com/CleverRaven/Cataclysm-DDA/pull/61352))
 * Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
-* Fix AIM move will duplicate multiple liquid ([#61327](https://github.com/CleverRaven/Cataclysm-DDA/pull/61327))
 * Make monster pathing slightly less dumb ([#61330](https://github.com/CleverRaven/Cataclysm-DDA/pull/61330))
 * [Bugfix] Useful auto-rotation fallback for simple rotation ([#61332](https://github.com/CleverRaven/Cataclysm-DDA/pull/61332))
 * Changed floor_bedding_warmth to balance the progression between seat,… ([#61337](https://github.com/CleverRaven/Cataclysm-DDA/pull/61337))
 * powered earplugs no longer use 66x as much energy ([#61339](https://github.com/CleverRaven/Cataclysm-DDA/pull/61339))
 * Portal Traveler profession description fix ([#61333](https://github.com/CleverRaven/Cataclysm-DDA/pull/61333))
-* npc: fix sell_belongings default and behaviour ([#61322](https://github.com/CleverRaven/Cataclysm-DDA/pull/61322))
