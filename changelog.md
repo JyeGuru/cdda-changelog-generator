@@ -170,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-10-04-0509 ([c0f00ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-04-0509))
 
 * Hallucination monsters don't leave biosignatures ([#61437](https://github.com/CleverRaven/Cataclysm-DDA/pull/61437))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-04-0240 ([b97d3ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-04-0240))
-
 * Fixes displaying recipes you can't craft and that are hidden ([#61436](https://github.com/CleverRaven/Cataclysm-DDA/pull/61436))
 * Fix savegame loading when savegame arrays can have more than uint16_t… ([#61416](https://github.com/CleverRaven/Cataclysm-DDA/pull/61416))
 * Fix some things missed with kevlar vest ([#61401](https://github.com/CleverRaven/Cataclysm-DDA/pull/61401))
