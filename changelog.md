@@ -160,11 +160,6 @@
 
 * nerf finding kitten to level of music enjoyment ([#61429](https://github.com/CleverRaven/Cataclysm-DDA/pull/61429))
 * Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-04-0656 ([1cdaee9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-04-0656))
-
 * [DinoMod] hungry hadrosaurs ([#61389](https://github.com/CleverRaven/Cataclysm-DDA/pull/61389))
 * Offer to deactivate extended bionics when NPC is requesting it ([#61412](https://github.com/CleverRaven/Cataclysm-DDA/pull/61412))
 * Spawned friendlies receive full pet menu ([#61417](https://github.com/CleverRaven/Cataclysm-DDA/pull/61417))
