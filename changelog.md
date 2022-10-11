@@ -1,3 +1,22 @@
+* [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-11-0249 ([37d5acb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0249))
+
+* Kick the user out of the repair activity if the item they are repairi… ([#61558](https://github.com/CleverRaven/Cataclysm-DDA/pull/61558))
+* stop bricking peoples saves with the bandit quest ([#61606](https://github.com/CleverRaven/Cataclysm-DDA/pull/61606))
+* Fix Followers lose tracks of the book they are reading after game load ([#61581](https://github.com/CleverRaven/Cataclysm-DDA/pull/61581))
+* Allow filtering by ammotype in gun stats tool ([#61599](https://github.com/CleverRaven/Cataclysm-DDA/pull/61599))
+* Increased width of Active World Mods menu ([#61588](https://github.com/CleverRaven/Cataclysm-DDA/pull/61588))
+* Cinema polishing ([#61582](https://github.com/CleverRaven/Cataclysm-DDA/pull/61582))
+* add bungalow 01 and 02 ([#61579](https://github.com/CleverRaven/Cataclysm-DDA/pull/61579))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-11-0111 ([4936a20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0111))
+
+* remove roadside steam engine spawns ([#61602](https://github.com/CleverRaven/Cataclysm-DDA/pull/61602))
 
 ---
 
@@ -18,12 +37,6 @@
 
 * Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
 * Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-10-0334 ([03732f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-10-0334))
-
-* Multiple connection groups and asymmetric connect ([#61336](https://github.com/CleverRaven/Cataclysm-DDA/pull/61336))
 
 ---
 
@@ -164,17 +177,11 @@
 #### Cataclysm-DDA experimental build 2022-10-03-1950 ([ee4d899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-03-1950))
 
 * Fix some things missed with kevlar vest ([#61401](https://github.com/CleverRaven/Cataclysm-DDA/pull/61401))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-03-0522 ([5f01fac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-03-0522))
-
 * Routine tileset updates on 02 October 2022 ([#61426](https://github.com/CleverRaven/Cataclysm-DDA/pull/61426))
 * Add docs instructions for syncing git tags. ([#61398](https://github.com/CleverRaven/Cataclysm-DDA/pull/61398))
 * Routine i18n updates on 01 October 2022 ([#61376](https://github.com/CleverRaven/Cataclysm-DDA/pull/61376))
 * Add more bounds checks for pathfinding ([#61388](https://github.com/CleverRaven/Cataclysm-DDA/pull/61388))
 * Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
-* Artifact "resonance" penalties from carrying too many ([#61341](https://github.com/CleverRaven/Cataclysm-DDA/pull/61341))
 * buff the stone spear ([#61355](https://github.com/CleverRaven/Cataclysm-DDA/pull/61355))
 * [DinoMod] bear armor ([#61374](https://github.com/CleverRaven/Cataclysm-DDA/pull/61374))
 * Reworked bathrooms of `multi_unit_housing` ([#61391](https://github.com/CleverRaven/Cataclysm-DDA/pull/61391))
@@ -185,17 +192,10 @@
 * Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))
 * House Palette Update  - Bedside Table ([#61362](https://github.com/CleverRaven/Cataclysm-DDA/pull/61362))
 * Allow traveling to shelves ([#61367](https://github.com/CleverRaven/Cataclysm-DDA/pull/61367))
-* allow SPEAR attack through barred/grated windows ([#61329](https://github.com/CleverRaven/Cataclysm-DDA/pull/61329))
 * add missing flags to rm13 ([#61366](https://github.com/CleverRaven/Cataclysm-DDA/pull/61366))
 * [DinoMod] boiled egg hatching fix ([#61368](https://github.com/CleverRaven/Cataclysm-DDA/pull/61368))
 * Removed long strings from piano disassembly and replaced the wires. ([#61371](https://github.com/CleverRaven/Cataclysm-DDA/pull/61371))
-* Fix Ancilla bar mercenary talk topic ([#61343](https://github.com/CleverRaven/Cataclysm-DDA/pull/61343))
 * Change internal fuel storages to tool_armor ([#61349](https://github.com/CleverRaven/Cataclysm-DDA/pull/61349))
 * Fix Chickens can hatch from fried and scrambled eggs ([#61351](https://github.com/CleverRaven/Cataclysm-DDA/pull/61351))
 * [Bugfix] Re-introduce sprite flipping ([#61352](https://github.com/CleverRaven/Cataclysm-DDA/pull/61352))
 * Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
-* Make monster pathing slightly less dumb ([#61330](https://github.com/CleverRaven/Cataclysm-DDA/pull/61330))
-* [Bugfix] Useful auto-rotation fallback for simple rotation ([#61332](https://github.com/CleverRaven/Cataclysm-DDA/pull/61332))
-* Changed floor_bedding_warmth to balance the progression between seat,… ([#61337](https://github.com/CleverRaven/Cataclysm-DDA/pull/61337))
-* powered earplugs no longer use 66x as much energy ([#61339](https://github.com/CleverRaven/Cataclysm-DDA/pull/61339))
-* Portal Traveler profession description fix ([#61333](https://github.com/CleverRaven/Cataclysm-DDA/pull/61333))
