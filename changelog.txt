@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-11-1516 (61572ad)
+* Flagpoles and hoisting flags (#61551)
+
 Cataclysm-DDA experimental build 2022-10-11-0522 (6d253a4)
 * Remove electronic flag from simple electronics (#61584)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2022-10-04-0656 (1cdaee9)
 * Spawned friendlies receive full pet menu (#61417)
 * Hide "With %s." in item info if %s is empty (#61422)
 * Remove pseudo hotplates on parts with chemistry set (#61424)
-
-Cataclysm-DDA experimental build 2022-10-04-0509 (c0f00ab)
 * Hallucination monsters don't leave biosignatures (#61437)
 * Fixes displaying recipes you can't craft and that are hidden (#61436)
 * Fix savegame loading when savegame arrays can have more than uint16_t… (#61416)
@@ -130,4 +131,3 @@ Cataclysm-DDA experimental build 2022-10-04-0509 (c0f00ab)
 * Removed long strings from piano disassembly and replaced the wires. (#61371)
 * Fix Chickens can hatch from fried and scrambled eggs (#61351)
 * [Bugfix] Re-introduce sprite flipping (#61352)
-* Metabolicm powered bionic consumes calories (#61350)
