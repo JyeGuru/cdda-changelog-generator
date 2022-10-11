@@ -1,3 +1,14 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-11-0522 ([6d253a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0522))
+
+* Remove electronic flag from simple electronics ([#61584](https://github.com/CleverRaven/Cataclysm-DDA/pull/61584))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-11-0421 ([87d0378](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0421))
+
 * [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))
 
 ---
@@ -165,17 +176,7 @@
 #### Cataclysm-DDA experimental build 2022-10-04-0240 ([b97d3ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-04-0240))
 
 * Fixes displaying recipes you can't craft and that are hidden ([#61436](https://github.com/CleverRaven/Cataclysm-DDA/pull/61436))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-03-2120 ([e39079b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-03-2120))
-
 * Fix savegame loading when savegame arrays can have more than uint16_t… ([#61416](https://github.com/CleverRaven/Cataclysm-DDA/pull/61416))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-03-1950 ([ee4d899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-03-1950))
-
 * Fix some things missed with kevlar vest ([#61401](https://github.com/CleverRaven/Cataclysm-DDA/pull/61401))
 * Routine tileset updates on 02 October 2022 ([#61426](https://github.com/CleverRaven/Cataclysm-DDA/pull/61426))
 * Add docs instructions for syncing git tags. ([#61398](https://github.com/CleverRaven/Cataclysm-DDA/pull/61398))
@@ -195,7 +196,6 @@
 * add missing flags to rm13 ([#61366](https://github.com/CleverRaven/Cataclysm-DDA/pull/61366))
 * [DinoMod] boiled egg hatching fix ([#61368](https://github.com/CleverRaven/Cataclysm-DDA/pull/61368))
 * Removed long strings from piano disassembly and replaced the wires. ([#61371](https://github.com/CleverRaven/Cataclysm-DDA/pull/61371))
-* Change internal fuel storages to tool_armor ([#61349](https://github.com/CleverRaven/Cataclysm-DDA/pull/61349))
 * Fix Chickens can hatch from fried and scrambled eggs ([#61351](https://github.com/CleverRaven/Cataclysm-DDA/pull/61351))
 * [Bugfix] Re-introduce sprite flipping ([#61352](https://github.com/CleverRaven/Cataclysm-DDA/pull/61352))
 * Metabolicm powered bionic consumes calories ([#61350](https://github.com/CleverRaven/Cataclysm-DDA/pull/61350))
