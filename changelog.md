@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-12-1638 ([cd5924e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-12-1638))
+
+* Bypass move_effect check if force true when moving vertically ([#61641](https://github.com/CleverRaven/Cataclysm-DDA/pull/61641))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-12-0519 ([26e35a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-12-0519))
 
 * Heavy punching bag construction ([#61603](https://github.com/CleverRaven/Cataclysm-DDA/pull/61603))
@@ -188,4 +194,3 @@
 * add missing flags to rm13 ([#61366](https://github.com/CleverRaven/Cataclysm-DDA/pull/61366))
 * [DinoMod] boiled egg hatching fix ([#61368](https://github.com/CleverRaven/Cataclysm-DDA/pull/61368))
 * Removed long strings from piano disassembly and replaced the wires. ([#61371](https://github.com/CleverRaven/Cataclysm-DDA/pull/61371))
-* [Bugfix] Re-introduce sprite flipping ([#61352](https://github.com/CleverRaven/Cataclysm-DDA/pull/61352))
