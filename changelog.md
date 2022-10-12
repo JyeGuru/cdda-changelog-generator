@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-12-0519 ([26e35a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-12-0519))
+
+* Heavy punching bag construction ([#61603](https://github.com/CleverRaven/Cataclysm-DDA/pull/61603))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-11-1516 ([61572ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-1516))
 
 * Flagpoles and hoisting flags ([#61551](https://github.com/CleverRaven/Cataclysm-DDA/pull/61551))
@@ -153,11 +159,6 @@
 * Better graffitis: wall vs. floor & variants ([#61427](https://github.com/CleverRaven/Cataclysm-DDA/pull/61427))
 * Aftershock: Smartguns ([#61361](https://github.com/CleverRaven/Cataclysm-DDA/pull/61361))
 * No case hardening for non-CH'd sheet metal arm guards ([#61393](https://github.com/CleverRaven/Cataclysm-DDA/pull/61393))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-05-0505 ([81e1caf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-05-0505))
-
 * nerf finding kitten to level of music enjoyment ([#61429](https://github.com/CleverRaven/Cataclysm-DDA/pull/61429))
 * Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
 * [DinoMod] hungry hadrosaurs ([#61389](https://github.com/CleverRaven/Cataclysm-DDA/pull/61389))
@@ -187,5 +188,4 @@
 * add missing flags to rm13 ([#61366](https://github.com/CleverRaven/Cataclysm-DDA/pull/61366))
 * [DinoMod] boiled egg hatching fix ([#61368](https://github.com/CleverRaven/Cataclysm-DDA/pull/61368))
 * Removed long strings from piano disassembly and replaced the wires. ([#61371](https://github.com/CleverRaven/Cataclysm-DDA/pull/61371))
-* Fix Chickens can hatch from fried and scrambled eggs ([#61351](https://github.com/CleverRaven/Cataclysm-DDA/pull/61351))
 * [Bugfix] Re-introduce sprite flipping ([#61352](https://github.com/CleverRaven/Cataclysm-DDA/pull/61352))
