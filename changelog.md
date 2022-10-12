@@ -181,7 +181,6 @@
 * Routine i18n updates on 01 October 2022 ([#61376](https://github.com/CleverRaven/Cataclysm-DDA/pull/61376))
 * Add more bounds checks for pathfinding ([#61388](https://github.com/CleverRaven/Cataclysm-DDA/pull/61388))
 * Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
-* buff the stone spear ([#61355](https://github.com/CleverRaven/Cataclysm-DDA/pull/61355))
 * [DinoMod] bear armor ([#61374](https://github.com/CleverRaven/Cataclysm-DDA/pull/61374))
 * Reworked bathrooms of `multi_unit_housing` ([#61391](https://github.com/CleverRaven/Cataclysm-DDA/pull/61391))
 * Make mycus immune to Spore-Dusted #56653 ([#61403](https://github.com/CleverRaven/Cataclysm-DDA/pull/61403))
