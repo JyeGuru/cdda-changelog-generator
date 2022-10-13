@@ -162,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2022-10-06-0749 ([138556e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-06-0749))
 
 * Durable load bearing vests ([#61485](https://github.com/CleverRaven/Cataclysm-DDA/pull/61485))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-05-1937 ([3f63c44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-05-1937))
-
 * Spears, spears, and more spears! A spear overhaul. ([#61482](https://github.com/CleverRaven/Cataclysm-DDA/pull/61482))
 * Garlic Powder ([#61397](https://github.com/CleverRaven/Cataclysm-DDA/pull/61397))
 * No sawing off (the most demanding) recoil operated guns' barrels ([#61476](https://github.com/CleverRaven/Cataclysm-DDA/pull/61476))
