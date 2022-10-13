@@ -150,11 +150,6 @@
 * MilComp repairs ([#61473](https://github.com/CleverRaven/Cataclysm-DDA/pull/61473))
 * Teargas grenades now spawn ([#61484](https://github.com/CleverRaven/Cataclysm-DDA/pull/61484))
 * Bojutsu Spawning ([#61493](https://github.com/CleverRaven/Cataclysm-DDA/pull/61493))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-07-0120 ([b630d39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-07-0120))
-
 * Minor bugfixes ([#61508](https://github.com/CleverRaven/Cataclysm-DDA/pull/61508))
 * Durable load bearing vests ([#61485](https://github.com/CleverRaven/Cataclysm-DDA/pull/61485))
 * Spears, spears, and more spears! A spear overhaul. ([#61482](https://github.com/CleverRaven/Cataclysm-DDA/pull/61482))
