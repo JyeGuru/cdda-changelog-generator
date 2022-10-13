@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-13-0542 ([16c6b00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-13-0542))
+
+* JSONize connect groups ([#61611](https://github.com/CleverRaven/Cataclysm-DDA/pull/61611))
 * Fix bad ter error temple_stairs and temple_finale ([#61612](https://github.com/CleverRaven/Cataclysm-DDA/pull/61612))
 * Trim uilist entry text based on space available rather than entry length ([#61626](https://github.com/CleverRaven/Cataclysm-DDA/pull/61626))
 * Correctly use TARGET_OS_IPHONE macro ([#61638](https://github.com/CleverRaven/Cataclysm-DDA/pull/61638))
@@ -172,11 +178,6 @@
 * Fix honey combnot being consumed ([#61461](https://github.com/CleverRaven/Cataclysm-DDA/pull/61461))
 * [DinoMod] mutation achievements ([#61466](https://github.com/CleverRaven/Cataclysm-DDA/pull/61466))
 * Felt patch fix ([#61472](https://github.com/CleverRaven/Cataclysm-DDA/pull/61472))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-05-1812 ([bc63b07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-05-1812))
-
 * Better graffitis: wall vs. floor & variants ([#61427](https://github.com/CleverRaven/Cataclysm-DDA/pull/61427))
 * No case hardening for non-CH'd sheet metal arm guards ([#61393](https://github.com/CleverRaven/Cataclysm-DDA/pull/61393))
 * nerf finding kitten to level of music enjoyment ([#61429](https://github.com/CleverRaven/Cataclysm-DDA/pull/61429))
