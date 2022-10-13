@@ -96,8 +96,6 @@ Cataclysm-DDA experimental build 2022-10-07-0250 (2e49e16)
 
 Cataclysm-DDA experimental build 2022-10-07-0120 (b630d39)
 * Minor bugfixes (#61508)
-
-Cataclysm-DDA experimental build 2022-10-06-0749 (138556e)
 * Durable load bearing vests (#61485)
 * Spears, spears, and more spears! A spear overhaul. (#61482)
 * Garlic Powder (#61397)
