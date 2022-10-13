@@ -1,3 +1,18 @@
+* Fix bad ter error temple_stairs and temple_finale ([#61612](https://github.com/CleverRaven/Cataclysm-DDA/pull/61612))
+* Trim uilist entry text based on space available rather than entry length ([#61626](https://github.com/CleverRaven/Cataclysm-DDA/pull/61626))
+* Correctly use TARGET_OS_IPHONE macro ([#61638](https://github.com/CleverRaven/Cataclysm-DDA/pull/61638))
+* Add one name to remember ([#61646](https://github.com/CleverRaven/Cataclysm-DDA/pull/61646))
+* reduce barter value of fuels ([#61637](https://github.com/CleverRaven/Cataclysm-DDA/pull/61637))
+* fix heels armor ([#61635](https://github.com/CleverRaven/Cataclysm-DDA/pull/61635))
+* Arrow rests on primitive bows ([#61629](https://github.com/CleverRaven/Cataclysm-DDA/pull/61629))
+* Item Description Cleanup Project - Melee ([#61587](https://github.com/CleverRaven/Cataclysm-DDA/pull/61587))
+* [Magiclysm] Fixes Resilient Mutation Being Unobtainable By Black Dragon Mutants ([#61647](https://github.com/CleverRaven/Cataclysm-DDA/pull/61647))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-13-0410 ([1de2543](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-13-0410))
+
+* [DinoMod] hadrosaurs eat mushrooms ([#61649](https://github.com/CleverRaven/Cataclysm-DDA/pull/61649))
 
 ---
 
@@ -163,7 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-10-05-1812 ([bc63b07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-05-1812))
 
 * Better graffitis: wall vs. floor & variants ([#61427](https://github.com/CleverRaven/Cataclysm-DDA/pull/61427))
-* Aftershock: Smartguns ([#61361](https://github.com/CleverRaven/Cataclysm-DDA/pull/61361))
 * No case hardening for non-CH'd sheet metal arm guards ([#61393](https://github.com/CleverRaven/Cataclysm-DDA/pull/61393))
 * nerf finding kitten to level of music enjoyment ([#61429](https://github.com/CleverRaven/Cataclysm-DDA/pull/61429))
 * Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
@@ -178,18 +192,11 @@
 * Fix some things missed with kevlar vest ([#61401](https://github.com/CleverRaven/Cataclysm-DDA/pull/61401))
 * Routine tileset updates on 02 October 2022 ([#61426](https://github.com/CleverRaven/Cataclysm-DDA/pull/61426))
 * Add docs instructions for syncing git tags. ([#61398](https://github.com/CleverRaven/Cataclysm-DDA/pull/61398))
-* Routine i18n updates on 01 October 2022 ([#61376](https://github.com/CleverRaven/Cataclysm-DDA/pull/61376))
 * Add more bounds checks for pathfinding ([#61388](https://github.com/CleverRaven/Cataclysm-DDA/pull/61388))
 * Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
-* [DinoMod] bear armor ([#61374](https://github.com/CleverRaven/Cataclysm-DDA/pull/61374))
 * Reworked bathrooms of `multi_unit_housing` ([#61391](https://github.com/CleverRaven/Cataclysm-DDA/pull/61391))
 * Make mycus immune to Spore-Dusted #56653 ([#61403](https://github.com/CleverRaven/Cataclysm-DDA/pull/61403))
 * make hollow cane a rigid pocket ([#61382](https://github.com/CleverRaven/Cataclysm-DDA/pull/61382))
 * Both recipes of oars are now located in one place in crafting menu ([#61390](https://github.com/CleverRaven/Cataclysm-DDA/pull/61390))
 * [Bugfix] Rendering vehicle memory and height_3d ([#61396](https://github.com/CleverRaven/Cataclysm-DDA/pull/61396))
 * Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))
-* House Palette Update  - Bedside Table ([#61362](https://github.com/CleverRaven/Cataclysm-DDA/pull/61362))
-* Allow traveling to shelves ([#61367](https://github.com/CleverRaven/Cataclysm-DDA/pull/61367))
-* add missing flags to rm13 ([#61366](https://github.com/CleverRaven/Cataclysm-DDA/pull/61366))
-* [DinoMod] boiled egg hatching fix ([#61368](https://github.com/CleverRaven/Cataclysm-DDA/pull/61368))
-* Removed long strings from piano disassembly and replaced the wires. ([#61371](https://github.com/CleverRaven/Cataclysm-DDA/pull/61371))
