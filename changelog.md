@@ -1,3 +1,6 @@
+* Audit of fill_water_with_dirt construction group for consistency ([#61536](https://github.com/CleverRaven/Cataclysm-DDA/pull/61536))
+* Add Hub-01 modular headgear ([#61574](https://github.com/CleverRaven/Cataclysm-DDA/pull/61574))
+* Handle `mon_null` in monster upgrade groups ([#61672](https://github.com/CleverRaven/Cataclysm-DDA/pull/61672))
 
 ---
 
@@ -192,7 +195,5 @@
 * Hallucination monsters don't leave biosignatures ([#61437](https://github.com/CleverRaven/Cataclysm-DDA/pull/61437))
 * Fixes displaying recipes you can't craft and that are hidden ([#61436](https://github.com/CleverRaven/Cataclysm-DDA/pull/61436))
 * Fix savegame loading when savegame arrays can have more than uint16_t… ([#61416](https://github.com/CleverRaven/Cataclysm-DDA/pull/61416))
-* Fix some things missed with kevlar vest ([#61401](https://github.com/CleverRaven/Cataclysm-DDA/pull/61401))
 * Routine tileset updates on 02 October 2022 ([#61426](https://github.com/CleverRaven/Cataclysm-DDA/pull/61426))
 * Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
-* Make mycus immune to Spore-Dusted #56653 ([#61403](https://github.com/CleverRaven/Cataclysm-DDA/pull/61403))
