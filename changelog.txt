@@ -1,3 +1,6 @@
+* Minor update to Strip Mall (#61671)
+
+Cataclysm-DDA experimental build 2022-10-14-0425 (8ce0a4e)
 * Lynx Fur armor rebalance (#61652)
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions (#61669)
 
@@ -88,8 +91,6 @@ Cataclysm-DDA experimental build 2022-10-08-0525 (64e17c6)
 * Squelch turret test warnings (#61511)
 * Add Bojutsu to the Melee Training hobby description (#61513)
 * [ Xedra Evolved ] Fix summoned dreamdross not being permanent (#61515)
-
-Cataclysm-DDA experimental build 2022-10-07-0517 (abf6828)
 * Add price for graded variants of cavalry sabre (#61498)
 * Translate weakpoint names and effects (#61507)
 * try and fix errors (#61514)
@@ -126,6 +127,5 @@ Cataclysm-DDA experimental build 2022-10-07-0517 (abf6828)
 * Correct turret looks_like default (#61415)
 * Reworked bathrooms of `multi_unit_housing` (#61391)
 * Make mycus immune to Spore-Dusted #56653 (#61403)
-* Both recipes of oars are now located in one place in crafting menu (#61390)
 * [Bugfix] Rendering vehicle memory and height_3d (#61396)
 * Fix mapgen error in mod loading test (#61395)

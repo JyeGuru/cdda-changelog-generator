@@ -1,3 +1,9 @@
+* Minor update to Strip Mall ([#61671](https://github.com/CleverRaven/Cataclysm-DDA/pull/61671))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-14-0425 ([8ce0a4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0425))
+
 * Lynx Fur armor rebalance ([#61652](https://github.com/CleverRaven/Cataclysm-DDA/pull/61652))
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
 
@@ -142,11 +148,6 @@
 * Squelch turret test warnings ([#61511](https://github.com/CleverRaven/Cataclysm-DDA/pull/61511))
 * Add Bojutsu to the Melee Training hobby description ([#61513](https://github.com/CleverRaven/Cataclysm-DDA/pull/61513))
 * [ Xedra Evolved ] Fix summoned dreamdross not being permanent ([#61515](https://github.com/CleverRaven/Cataclysm-DDA/pull/61515))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-07-0517 ([abf6828](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-07-0517))
-
 * Add price for graded variants of cavalry sabre ([#61498](https://github.com/CleverRaven/Cataclysm-DDA/pull/61498))
 * Translate weakpoint names and effects ([#61507](https://github.com/CleverRaven/Cataclysm-DDA/pull/61507))
 * try and fix errors ([#61514](https://github.com/CleverRaven/Cataclysm-DDA/pull/61514))
@@ -183,6 +184,5 @@
 * Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
 * Reworked bathrooms of `multi_unit_housing` ([#61391](https://github.com/CleverRaven/Cataclysm-DDA/pull/61391))
 * Make mycus immune to Spore-Dusted #56653 ([#61403](https://github.com/CleverRaven/Cataclysm-DDA/pull/61403))
-* Both recipes of oars are now located in one place in crafting menu ([#61390](https://github.com/CleverRaven/Cataclysm-DDA/pull/61390))
 * [Bugfix] Rendering vehicle memory and height_3d ([#61396](https://github.com/CleverRaven/Cataclysm-DDA/pull/61396))
 * Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))
