@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-14-0836 ([5bdabc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0836))
+
 * Implement scrolling for world menu ([#61578](https://github.com/CleverRaven/Cataclysm-DDA/pull/61578))
 
 ---
@@ -155,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-10-08-1807 ([99564b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-08-1807))
 
 * Makes headscarves skintight and autolearned ([#61542](https://github.com/CleverRaven/Cataclysm-DDA/pull/61542))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-08-0525 ([64e17c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-08-0525))
-
 * swords looks_like fix ([#61517](https://github.com/CleverRaven/Cataclysm-DDA/pull/61517))
 * Squelch turret test warnings ([#61511](https://github.com/CleverRaven/Cataclysm-DDA/pull/61511))
 * Add Bojutsu to the Melee Training hobby description ([#61513](https://github.com/CleverRaven/Cataclysm-DDA/pull/61513))

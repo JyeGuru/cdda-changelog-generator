@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-14-0836 (5bdabc3)
 * Implement scrolling for world menu (#61578)
 
 Cataclysm-DDA experimental build 2022-10-14-0715 (1cc4c69)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2022-10-08-1917 (3796a74)
 
 Cataclysm-DDA experimental build 2022-10-08-1807 (99564b6)
 * Makes headscarves skintight and autolearned (#61542)
-
-Cataclysm-DDA experimental build 2022-10-08-0525 (64e17c6)
 * swords looks_like fix (#61517)
 * Squelch turret test warnings (#61511)
 * Add Bojutsu to the Melee Training hobby description (#61513)
