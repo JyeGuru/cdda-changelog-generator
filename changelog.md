@@ -1,3 +1,11 @@
+* Lynx Fur armor rebalance ([#61652](https://github.com/CleverRaven/Cataclysm-DDA/pull/61652))
+* Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-14-0315 ([2f063a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0315))
+
+* [DinoMod] dino skull helmets ([#61666](https://github.com/CleverRaven/Cataclysm-DDA/pull/61666))
 
 ---
 
@@ -140,11 +148,6 @@
 #### Cataclysm-DDA experimental build 2022-10-07-0517 ([abf6828](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-07-0517))
 
 * Add price for graded variants of cavalry sabre ([#61498](https://github.com/CleverRaven/Cataclysm-DDA/pull/61498))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-07-0250 ([2e49e16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-07-0250))
-
 * Translate weakpoint names and effects ([#61507](https://github.com/CleverRaven/Cataclysm-DDA/pull/61507))
 * try and fix errors ([#61514](https://github.com/CleverRaven/Cataclysm-DDA/pull/61514))
 * MilComp repairs ([#61473](https://github.com/CleverRaven/Cataclysm-DDA/pull/61473))
@@ -167,7 +170,6 @@
 * No case hardening for non-CH'd sheet metal arm guards ([#61393](https://github.com/CleverRaven/Cataclysm-DDA/pull/61393))
 * nerf finding kitten to level of music enjoyment ([#61429](https://github.com/CleverRaven/Cataclysm-DDA/pull/61429))
 * Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
-* [DinoMod] hungry hadrosaurs ([#61389](https://github.com/CleverRaven/Cataclysm-DDA/pull/61389))
 * Offer to deactivate extended bionics when NPC is requesting it ([#61412](https://github.com/CleverRaven/Cataclysm-DDA/pull/61412))
 * Spawned friendlies receive full pet menu ([#61417](https://github.com/CleverRaven/Cataclysm-DDA/pull/61417))
 * Hide "With %s." in item info if %s is empty ([#61422](https://github.com/CleverRaven/Cataclysm-DDA/pull/61422))
@@ -178,11 +180,9 @@
 * Fix some things missed with kevlar vest ([#61401](https://github.com/CleverRaven/Cataclysm-DDA/pull/61401))
 * Routine tileset updates on 02 October 2022 ([#61426](https://github.com/CleverRaven/Cataclysm-DDA/pull/61426))
 * Add docs instructions for syncing git tags. ([#61398](https://github.com/CleverRaven/Cataclysm-DDA/pull/61398))
-* Add more bounds checks for pathfinding ([#61388](https://github.com/CleverRaven/Cataclysm-DDA/pull/61388))
 * Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
 * Reworked bathrooms of `multi_unit_housing` ([#61391](https://github.com/CleverRaven/Cataclysm-DDA/pull/61391))
 * Make mycus immune to Spore-Dusted #56653 ([#61403](https://github.com/CleverRaven/Cataclysm-DDA/pull/61403))
-* make hollow cane a rigid pocket ([#61382](https://github.com/CleverRaven/Cataclysm-DDA/pull/61382))
 * Both recipes of oars are now located in one place in crafting menu ([#61390](https://github.com/CleverRaven/Cataclysm-DDA/pull/61390))
 * [Bugfix] Rendering vehicle memory and height_3d ([#61396](https://github.com/CleverRaven/Cataclysm-DDA/pull/61396))
 * Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))
