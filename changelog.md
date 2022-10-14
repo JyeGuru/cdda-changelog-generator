@@ -1,3 +1,18 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-14-0715 ([1cc4c69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0715))
+
+* Radiation correctly causes mutations again ([#61667](https://github.com/CleverRaven/Cataclysm-DDA/pull/61667))
+* port: fix grave inscription prompt size ([#61673](https://github.com/CleverRaven/Cataclysm-DDA/pull/61673))
+* [My Sweet Cataclysm] Scenario typo fix ([#61678](https://github.com/CleverRaven/Cataclysm-DDA/pull/61678))
+* Smallest dogs don't zombify ([#61668](https://github.com/CleverRaven/Cataclysm-DDA/pull/61668))
+* Update the owner faction of count_by_charges items picked up ([#61656](https://github.com/CleverRaven/Cataclysm-DDA/pull/61656))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-14-0544 ([feaf1b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0544))
+
 * Minor update to Strip Mall ([#61671](https://github.com/CleverRaven/Cataclysm-DDA/pull/61671))
 
 ---
@@ -157,7 +172,6 @@
 * Minor bugfixes ([#61508](https://github.com/CleverRaven/Cataclysm-DDA/pull/61508))
 * Durable load bearing vests ([#61485](https://github.com/CleverRaven/Cataclysm-DDA/pull/61485))
 * Spears, spears, and more spears! A spear overhaul. ([#61482](https://github.com/CleverRaven/Cataclysm-DDA/pull/61482))
-* Garlic Powder ([#61397](https://github.com/CleverRaven/Cataclysm-DDA/pull/61397))
 * No sawing off (the most demanding) recoil operated guns' barrels ([#61476](https://github.com/CleverRaven/Cataclysm-DDA/pull/61476))
 * Survivor armor drop fix ([#61483](https://github.com/CleverRaven/Cataclysm-DDA/pull/61483))
 * More Options for Waiting Duration ([#61459](https://github.com/CleverRaven/Cataclysm-DDA/pull/61459))
@@ -168,7 +182,6 @@
 * [DinoMod] mutation achievements ([#61466](https://github.com/CleverRaven/Cataclysm-DDA/pull/61466))
 * Felt patch fix ([#61472](https://github.com/CleverRaven/Cataclysm-DDA/pull/61472))
 * Better graffitis: wall vs. floor & variants ([#61427](https://github.com/CleverRaven/Cataclysm-DDA/pull/61427))
-* No case hardening for non-CH'd sheet metal arm guards ([#61393](https://github.com/CleverRaven/Cataclysm-DDA/pull/61393))
 * nerf finding kitten to level of music enjoyment ([#61429](https://github.com/CleverRaven/Cataclysm-DDA/pull/61429))
 * Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
 * Offer to deactivate extended bionics when NPC is requesting it ([#61412](https://github.com/CleverRaven/Cataclysm-DDA/pull/61412))
@@ -182,7 +195,4 @@
 * Routine tileset updates on 02 October 2022 ([#61426](https://github.com/CleverRaven/Cataclysm-DDA/pull/61426))
 * Add docs instructions for syncing git tags. ([#61398](https://github.com/CleverRaven/Cataclysm-DDA/pull/61398))
 * Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
-* Reworked bathrooms of `multi_unit_housing` ([#61391](https://github.com/CleverRaven/Cataclysm-DDA/pull/61391))
 * Make mycus immune to Spore-Dusted #56653 ([#61403](https://github.com/CleverRaven/Cataclysm-DDA/pull/61403))
-* [Bugfix] Rendering vehicle memory and height_3d ([#61396](https://github.com/CleverRaven/Cataclysm-DDA/pull/61396))
-* Fix mapgen error in mod loading test ([#61395](https://github.com/CleverRaven/Cataclysm-DDA/pull/61395))
