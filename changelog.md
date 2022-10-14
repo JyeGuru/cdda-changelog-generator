@@ -1,3 +1,10 @@
+* professions: add video blogger ([#61499](https://github.com/CleverRaven/Cataclysm-DDA/pull/61499))
+* reinforced garbage bag ([#61506](https://github.com/CleverRaven/Cataclysm-DDA/pull/61506))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-14-0942 ([fa069f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0942))
+
 * Audit of fill_water_with_dirt construction group for consistency ([#61536](https://github.com/CleverRaven/Cataclysm-DDA/pull/61536))
 * Add Hub-01 modular headgear ([#61574](https://github.com/CleverRaven/Cataclysm-DDA/pull/61574))
 * Handle `mon_null` in monster upgrade groups ([#61672](https://github.com/CleverRaven/Cataclysm-DDA/pull/61672))
@@ -157,11 +164,6 @@
 * Add concrete floor under beverly shear in light industry ([#61532](https://github.com/CleverRaven/Cataclysm-DDA/pull/61532))
 * Routine i18n updates on 08 October 2022 ([#61533](https://github.com/CleverRaven/Cataclysm-DDA/pull/61533))
 * Add 2StoryModern04 ([#61537](https://github.com/CleverRaven/Cataclysm-DDA/pull/61537))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-08-1807 ([99564b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-08-1807))
-
 * Makes headscarves skintight and autolearned ([#61542](https://github.com/CleverRaven/Cataclysm-DDA/pull/61542))
 * swords looks_like fix ([#61517](https://github.com/CleverRaven/Cataclysm-DDA/pull/61517))
 * Squelch turret test warnings ([#61511](https://github.com/CleverRaven/Cataclysm-DDA/pull/61511))
@@ -179,7 +181,6 @@
 * No sawing off (the most demanding) recoil operated guns' barrels ([#61476](https://github.com/CleverRaven/Cataclysm-DDA/pull/61476))
 * Survivor armor drop fix ([#61483](https://github.com/CleverRaven/Cataclysm-DDA/pull/61483))
 * More Options for Waiting Duration ([#61459](https://github.com/CleverRaven/Cataclysm-DDA/pull/61459))
-* Paintable wood wall ([#61409](https://github.com/CleverRaven/Cataclysm-DDA/pull/61409))
 * Fix enchantment issues ([#61418](https://github.com/CleverRaven/Cataclysm-DDA/pull/61418))
 * Remove anachronistic building materials from modern buildings ([#61430](https://github.com/CleverRaven/Cataclysm-DDA/pull/61430))
 * Fix honey combnot being consumed ([#61461](https://github.com/CleverRaven/Cataclysm-DDA/pull/61461))
@@ -188,7 +189,6 @@
 * Better graffitis: wall vs. floor & variants ([#61427](https://github.com/CleverRaven/Cataclysm-DDA/pull/61427))
 * nerf finding kitten to level of music enjoyment ([#61429](https://github.com/CleverRaven/Cataclysm-DDA/pull/61429))
 * Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
-* Offer to deactivate extended bionics when NPC is requesting it ([#61412](https://github.com/CleverRaven/Cataclysm-DDA/pull/61412))
 * Spawned friendlies receive full pet menu ([#61417](https://github.com/CleverRaven/Cataclysm-DDA/pull/61417))
 * Hide "With %s." in item info if %s is empty ([#61422](https://github.com/CleverRaven/Cataclysm-DDA/pull/61422))
 * Remove pseudo hotplates on parts with chemistry set ([#61424](https://github.com/CleverRaven/Cataclysm-DDA/pull/61424))
