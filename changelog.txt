@@ -1,3 +1,4 @@
+* Implement scrolling for world menu (#61578)
 
 Cataclysm-DDA experimental build 2022-10-14-0715 (1cc4c69)
 * Radiation correctly causes mutations again (#61667)
@@ -130,6 +131,5 @@ Cataclysm-DDA experimental build 2022-10-08-0525 (64e17c6)
 * Fix savegame loading when savegame arrays can have more than uint16_t… (#61416)
 * Fix some things missed with kevlar vest (#61401)
 * Routine tileset updates on 02 October 2022 (#61426)
-* Add docs instructions for syncing git tags. (#61398)
 * Correct turret looks_like default (#61415)
 * Make mycus immune to Spore-Dusted #56653 (#61403)
