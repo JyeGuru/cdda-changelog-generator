@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-15-0243 ([b780a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-0243))
+
+* Fix Relic recharge to all moons ([#61674](https://github.com/CleverRaven/Cataclysm-DDA/pull/61674))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-14-1116 ([4bf0543](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-1116))
 
 * professions: add video blogger ([#61499](https://github.com/CleverRaven/Cataclysm-DDA/pull/61499))
@@ -153,11 +159,6 @@
 * Smashing wooden stairs leading down will now create holes ([#61548](https://github.com/CleverRaven/Cataclysm-DDA/pull/61548))
 * Fix negative climbing difficulty ([#61553](https://github.com/CleverRaven/Cataclysm-DDA/pull/61553))
 * fix: missing double space in weapon sound message ([#61554](https://github.com/CleverRaven/Cataclysm-DDA/pull/61554))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-09-0022 ([91310b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-09-0022))
-
 * Initialize datadir_path_value earlier in path_info ([#61555](https://github.com/CleverRaven/Cataclysm-DDA/pull/61555))
 * Remove obsolete doc for CLIMATE_CONTROL flag ([#61522](https://github.com/CleverRaven/Cataclysm-DDA/pull/61522))
 * fix CI errors from param in mythos mod ([#61529](https://github.com/CleverRaven/Cataclysm-DDA/pull/61529))
@@ -196,4 +197,3 @@
 * Fixes displaying recipes you can't craft and that are hidden ([#61436](https://github.com/CleverRaven/Cataclysm-DDA/pull/61436))
 * Fix savegame loading when savegame arrays can have more than uint16_t… ([#61416](https://github.com/CleverRaven/Cataclysm-DDA/pull/61416))
 * Routine tileset updates on 02 October 2022 ([#61426](https://github.com/CleverRaven/Cataclysm-DDA/pull/61426))
-* Correct turret looks_like default ([#61415](https://github.com/CleverRaven/Cataclysm-DDA/pull/61415))
