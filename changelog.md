@@ -1,3 +1,11 @@
+* Caltrops can infect character with tetanus when stepping on them ([#61571](https://github.com/CleverRaven/Cataclysm-DDA/pull/61571))
+* [DinoMod] scolo spellcheck ([#61711](https://github.com/CleverRaven/Cataclysm-DDA/pull/61711))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-15-1736 ([0615f31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-1736))
+
+* Move infection immunity to a flag ([#61709](https://github.com/CleverRaven/Cataclysm-DDA/pull/61709))
 
 ---
 
@@ -197,8 +205,5 @@
 * Better graffitis: wall vs. floor & variants ([#61427](https://github.com/CleverRaven/Cataclysm-DDA/pull/61427))
 * nerf finding kitten to level of music enjoyment ([#61429](https://github.com/CleverRaven/Cataclysm-DDA/pull/61429))
 * Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
-* Hide "With %s." in item info if %s is empty ([#61422](https://github.com/CleverRaven/Cataclysm-DDA/pull/61422))
-* Remove pseudo hotplates on parts with chemistry set ([#61424](https://github.com/CleverRaven/Cataclysm-DDA/pull/61424))
 * Hallucination monsters don't leave biosignatures ([#61437](https://github.com/CleverRaven/Cataclysm-DDA/pull/61437))
 * Fixes displaying recipes you can't craft and that are hidden ([#61436](https://github.com/CleverRaven/Cataclysm-DDA/pull/61436))
-* Routine tileset updates on 02 October 2022 ([#61426](https://github.com/CleverRaven/Cataclysm-DDA/pull/61426))
