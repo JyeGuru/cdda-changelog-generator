@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-15-1842 ([c60d121](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-1842))
+
+* [Innawood] Update tailor's kit recipe ([#61687](https://github.com/CleverRaven/Cataclysm-DDA/pull/61687))
 * Adds 3 mutant dog types + their puppies ([#61704](https://github.com/CleverRaven/Cataclysm-DDA/pull/61704))
 * Add gas oven without microwave, fix gas oven bugs ([#61717](https://github.com/CleverRaven/Cataclysm-DDA/pull/61717))
 * Restore endless hunger monster as obsolete ([#61470](https://github.com/CleverRaven/Cataclysm-DDA/pull/61470))
@@ -204,7 +210,6 @@
 * Spears, spears, and more spears! A spear overhaul. ([#61482](https://github.com/CleverRaven/Cataclysm-DDA/pull/61482))
 * No sawing off (the most demanding) recoil operated guns' barrels ([#61476](https://github.com/CleverRaven/Cataclysm-DDA/pull/61476))
 * Survivor armor drop fix ([#61483](https://github.com/CleverRaven/Cataclysm-DDA/pull/61483))
-* Fix honey combnot being consumed ([#61461](https://github.com/CleverRaven/Cataclysm-DDA/pull/61461))
 * [DinoMod] mutation achievements ([#61466](https://github.com/CleverRaven/Cataclysm-DDA/pull/61466))
 * Felt patch fix ([#61472](https://github.com/CleverRaven/Cataclysm-DDA/pull/61472))
 * Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
