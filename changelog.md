@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-15-0819 ([74abea8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-0819))
+
+* Routine i18n updates on 15 October 2022 ([#61703](https://github.com/CleverRaven/Cataclysm-DDA/pull/61703))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-15-0413 ([7712ad0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-0413))
 
 * NPCs inquires about failed missions ([#61692](https://github.com/CleverRaven/Cataclysm-DDA/pull/61692))
@@ -150,11 +156,6 @@
 
 * Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
 * Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-09-0551 ([349262c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-09-0551))
-
 * Make 'crash axe' stats the same as the 'hatchet' ([#61560](https://github.com/CleverRaven/Cataclysm-DDA/pull/61560))
 * Fix repair menu shows slow ([#61438](https://github.com/CleverRaven/Cataclysm-DDA/pull/61438))
 * [DinoMod] amazing ankylosaurs ([#61475](https://github.com/CleverRaven/Cataclysm-DDA/pull/61475))
@@ -189,7 +190,6 @@
 * No sawing off (the most demanding) recoil operated guns' barrels ([#61476](https://github.com/CleverRaven/Cataclysm-DDA/pull/61476))
 * Survivor armor drop fix ([#61483](https://github.com/CleverRaven/Cataclysm-DDA/pull/61483))
 * More Options for Waiting Duration ([#61459](https://github.com/CleverRaven/Cataclysm-DDA/pull/61459))
-* Fix enchantment issues ([#61418](https://github.com/CleverRaven/Cataclysm-DDA/pull/61418))
 * Remove anachronistic building materials from modern buildings ([#61430](https://github.com/CleverRaven/Cataclysm-DDA/pull/61430))
 * Fix honey combnot being consumed ([#61461](https://github.com/CleverRaven/Cataclysm-DDA/pull/61461))
 * [DinoMod] mutation achievements ([#61466](https://github.com/CleverRaven/Cataclysm-DDA/pull/61466))
