@@ -1,3 +1,4 @@
+* Taping up more windows ([#61621](https://github.com/CleverRaven/Cataclysm-DDA/pull/61621))
 * Fill Sewage with Dirt Construction ([#61534](https://github.com/CleverRaven/Cataclysm-DDA/pull/61534))
 * [Megafauna] Add mammoth tusk/bone/glyptodont shelters ([#61592](https://github.com/CleverRaven/Cataclysm-DDA/pull/61592))
 * Mutation gear restrictions can target sub-bodyparts, and check for rigidity only there ([#61521](https://github.com/CleverRaven/Cataclysm-DDA/pull/61521))
