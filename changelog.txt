@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-16-0645 (27c1f39)
+* New wooden arrow rest (#61631)
+
 Cataclysm-DDA experimental build 2022-10-15-2303 (d0fa99b)
 * Check infection immune flag instead of trait (#61719)
 
@@ -6,7 +9,6 @@ Cataclysm-DDA experimental build 2022-10-15-1842 (c60d121)
 * [Innawood] Update tailor's kit recipe (#61687)
 * Adds 3 mutant dog types + their puppies (#61704)
 * Add gas oven without microwave, fix gas oven bugs (#61717)
-* Restore endless hunger monster as obsolete (#61470)
 * Armors now correctly display which tools are necessary for repair (#61535)
 * Taping up more windows (#61621)
 * Fill Sewage with Dirt Construction (#61534)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2022-10-11-0111 (4936a20)
 
 Cataclysm-DDA experimental build 2022-10-10-0951 (1f5acd1)
 * Add more intermediary bladed weapons to smooth out sword progression. (#61563)
-
-Cataclysm-DDA experimental build 2022-10-10-0636 (737dc71)
 * Update the table of contents in doc/JSON_INFO.md (#61586)
 * Update suits_protection.json (#61557)
 * Added obsoleted terrains and recipes to corresponding lists (#61570)

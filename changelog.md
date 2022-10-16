@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-16-0645 ([27c1f39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-16-0645))
+
+* New wooden arrow rest ([#61631](https://github.com/CleverRaven/Cataclysm-DDA/pull/61631))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-15-2303 ([d0fa99b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-2303))
 
 * Check infection immune flag instead of trait ([#61719](https://github.com/CleverRaven/Cataclysm-DDA/pull/61719))
@@ -12,7 +18,6 @@
 * [Innawood] Update tailor's kit recipe ([#61687](https://github.com/CleverRaven/Cataclysm-DDA/pull/61687))
 * Adds 3 mutant dog types + their puppies ([#61704](https://github.com/CleverRaven/Cataclysm-DDA/pull/61704))
 * Add gas oven without microwave, fix gas oven bugs ([#61717](https://github.com/CleverRaven/Cataclysm-DDA/pull/61717))
-* Restore endless hunger monster as obsolete ([#61470](https://github.com/CleverRaven/Cataclysm-DDA/pull/61470))
 * Armors now correctly display which tools are necessary for repair ([#61535](https://github.com/CleverRaven/Cataclysm-DDA/pull/61535))
 * Taping up more windows ([#61621](https://github.com/CleverRaven/Cataclysm-DDA/pull/61621))
 * Fill Sewage with Dirt Construction ([#61534](https://github.com/CleverRaven/Cataclysm-DDA/pull/61534))
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2022-10-10-0951 ([1f5acd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-10-0951))
 
 * Add more intermediary bladed weapons to smooth out sword progression. ([#61563](https://github.com/CleverRaven/Cataclysm-DDA/pull/61563))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-10-0636 ([737dc71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-10-0636))
-
 * Update the table of contents in doc/JSON_INFO.md ([#61586](https://github.com/CleverRaven/Cataclysm-DDA/pull/61586))
 * Update suits_protection.json ([#61557](https://github.com/CleverRaven/Cataclysm-DDA/pull/61557))
 * Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
