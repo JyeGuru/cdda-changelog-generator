@@ -1,3 +1,10 @@
+* [Xedra Evolved] fix Forge Dreamdross ([#61743](https://github.com/CleverRaven/Cataclysm-DDA/pull/61743))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-17-1604 ([0d2f918](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-1604))
+
+* add bungalow 03 and 04 ([#61705](https://github.com/CleverRaven/Cataclysm-DDA/pull/61705))
 
 ---
 
@@ -167,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2022-10-11-0522 ([6d253a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0522))
 
 * Remove electronic flag from simple electronics ([#61584](https://github.com/CleverRaven/Cataclysm-DDA/pull/61584))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-11-0421 ([87d0378](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0421))
-
 * [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))
 * Kick the user out of the repair activity if the item they are repairi… ([#61558](https://github.com/CleverRaven/Cataclysm-DDA/pull/61558))
 * stop bricking peoples saves with the bandit quest ([#61606](https://github.com/CleverRaven/Cataclysm-DDA/pull/61606))
@@ -187,7 +189,6 @@
 * Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
 * Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
 * Make 'crash axe' stats the same as the 'hatchet' ([#61560](https://github.com/CleverRaven/Cataclysm-DDA/pull/61560))
-* Document graffiti selection ([#61496](https://github.com/CleverRaven/Cataclysm-DDA/pull/61496))
 * [Innawood] bandages, crutches, and splints from fibercloth ([#61547](https://github.com/CleverRaven/Cataclysm-DDA/pull/61547))
 * Widen test margins ([#61509](https://github.com/CleverRaven/Cataclysm-DDA/pull/61509))
 * Bites can't target eyes and mouth by default ([#61544](https://github.com/CleverRaven/Cataclysm-DDA/pull/61544))
@@ -209,5 +210,4 @@
 * Add price for graded variants of cavalry sabre ([#61498](https://github.com/CleverRaven/Cataclysm-DDA/pull/61498))
 * Translate weakpoint names and effects ([#61507](https://github.com/CleverRaven/Cataclysm-DDA/pull/61507))
 * try and fix errors ([#61514](https://github.com/CleverRaven/Cataclysm-DDA/pull/61514))
-* Bojutsu Spawning ([#61493](https://github.com/CleverRaven/Cataclysm-DDA/pull/61493))
 * Minor bugfixes ([#61508](https://github.com/CleverRaven/Cataclysm-DDA/pull/61508))
