@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-17-1717 (6aeded9)
 * [Xedra Evolved] fix Forge Dreamdross (#61743)
 
 Cataclysm-DDA experimental build 2022-10-17-1604 (0d2f918)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2022-10-12-0519 (26e35a7)
 
 Cataclysm-DDA experimental build 2022-10-11-1516 (61572ad)
 * Flagpoles and hoisting flags (#61551)
-
-Cataclysm-DDA experimental build 2022-10-11-0522 (6d253a4)
 * Remove electronic flag from simple electronics (#61584)
 * [DinoMod] fighting sauropod juveniles (#61607)
 * Kick the user out of the repair activity if the item they are repairi… (#61558)

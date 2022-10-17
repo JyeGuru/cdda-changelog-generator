@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-17-1717 ([6aeded9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-1717))
+
 * [Xedra Evolved] fix Forge Dreamdross ([#61743](https://github.com/CleverRaven/Cataclysm-DDA/pull/61743))
 
 ---
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-10-11-1516 ([61572ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-1516))
 
 * Flagpoles and hoisting flags ([#61551](https://github.com/CleverRaven/Cataclysm-DDA/pull/61551))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-11-0522 ([6d253a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0522))
-
 * Remove electronic flag from simple electronics ([#61584](https://github.com/CleverRaven/Cataclysm-DDA/pull/61584))
 * [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))
 * Kick the user out of the repair activity if the item they are repairi… ([#61558](https://github.com/CleverRaven/Cataclysm-DDA/pull/61558))
