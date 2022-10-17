@@ -1,3 +1,13 @@
+* Adjust Obrez ([#61627](https://github.com/CleverRaven/Cataclysm-DDA/pull/61627))
+* Add some more tabletop fluff ([#61616](https://github.com/CleverRaven/Cataclysm-DDA/pull/61616))
+* Fishy Cleanup ([#61614](https://github.com/CleverRaven/Cataclysm-DDA/pull/61614))
+* New Zombie type: Tearjerker ([#61523](https://github.com/CleverRaven/Cataclysm-DDA/pull/61523))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-17-0057 ([11ccccd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-0057))
+
+* Fix clang-tidy warning in game.cpp ([#61739](https://github.com/CleverRaven/Cataclysm-DDA/pull/61739))
 
 ---
 
@@ -169,18 +179,12 @@
 #### Cataclysm-DDA experimental build 2022-10-11-0111 ([4936a20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0111))
 
 * remove roadside steam engine spawns ([#61602](https://github.com/CleverRaven/Cataclysm-DDA/pull/61602))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-10-0951 ([1f5acd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-10-0951))
-
 * Add more intermediary bladed weapons to smooth out sword progression. ([#61563](https://github.com/CleverRaven/Cataclysm-DDA/pull/61563))
 * Update the table of contents in doc/JSON_INFO.md ([#61586](https://github.com/CleverRaven/Cataclysm-DDA/pull/61586))
 * Update suits_protection.json ([#61557](https://github.com/CleverRaven/Cataclysm-DDA/pull/61557))
 * Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
 * Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
 * Make 'crash axe' stats the same as the 'hatchet' ([#61560](https://github.com/CleverRaven/Cataclysm-DDA/pull/61560))
-* [DinoMod] amazing ankylosaurs ([#61475](https://github.com/CleverRaven/Cataclysm-DDA/pull/61475))
 * Document graffiti selection ([#61496](https://github.com/CleverRaven/Cataclysm-DDA/pull/61496))
 * [Innawood] bandages, crutches, and splints from fibercloth ([#61547](https://github.com/CleverRaven/Cataclysm-DDA/pull/61547))
 * Widen test margins ([#61509](https://github.com/CleverRaven/Cataclysm-DDA/pull/61509))
@@ -203,13 +207,8 @@
 * Add price for graded variants of cavalry sabre ([#61498](https://github.com/CleverRaven/Cataclysm-DDA/pull/61498))
 * Translate weakpoint names and effects ([#61507](https://github.com/CleverRaven/Cataclysm-DDA/pull/61507))
 * try and fix errors ([#61514](https://github.com/CleverRaven/Cataclysm-DDA/pull/61514))
-* MilComp repairs ([#61473](https://github.com/CleverRaven/Cataclysm-DDA/pull/61473))
 * Teargas grenades now spawn ([#61484](https://github.com/CleverRaven/Cataclysm-DDA/pull/61484))
 * Bojutsu Spawning ([#61493](https://github.com/CleverRaven/Cataclysm-DDA/pull/61493))
 * Minor bugfixes ([#61508](https://github.com/CleverRaven/Cataclysm-DDA/pull/61508))
 * Durable load bearing vests ([#61485](https://github.com/CleverRaven/Cataclysm-DDA/pull/61485))
-* Spears, spears, and more spears! A spear overhaul. ([#61482](https://github.com/CleverRaven/Cataclysm-DDA/pull/61482))
-* No sawing off (the most demanding) recoil operated guns' barrels ([#61476](https://github.com/CleverRaven/Cataclysm-DDA/pull/61476))
 * Survivor armor drop fix ([#61483](https://github.com/CleverRaven/Cataclysm-DDA/pull/61483))
-* Felt patch fix ([#61472](https://github.com/CleverRaven/Cataclysm-DDA/pull/61472))
-* Fix ObjectCreator build on Windows ([#61474](https://github.com/CleverRaven/Cataclysm-DDA/pull/61474))
