@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-17-0512 ([94be3f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-0512))
+
+* Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
 * Adjust Obrez ([#61627](https://github.com/CleverRaven/Cataclysm-DDA/pull/61627))
 * Add some more tabletop fluff ([#61616](https://github.com/CleverRaven/Cataclysm-DDA/pull/61616))
 * Fishy Cleanup ([#61614](https://github.com/CleverRaven/Cataclysm-DDA/pull/61614))
@@ -173,11 +179,6 @@
 * Increased width of Active World Mods menu ([#61588](https://github.com/CleverRaven/Cataclysm-DDA/pull/61588))
 * Cinema polishing ([#61582](https://github.com/CleverRaven/Cataclysm-DDA/pull/61582))
 * add bungalow 01 and 02 ([#61579](https://github.com/CleverRaven/Cataclysm-DDA/pull/61579))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-11-0111 ([4936a20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0111))
-
 * remove roadside steam engine spawns ([#61602](https://github.com/CleverRaven/Cataclysm-DDA/pull/61602))
 * Add more intermediary bladed weapons to smooth out sword progression. ([#61563](https://github.com/CleverRaven/Cataclysm-DDA/pull/61563))
 * Update the table of contents in doc/JSON_INFO.md ([#61586](https://github.com/CleverRaven/Cataclysm-DDA/pull/61586))
@@ -211,4 +212,3 @@
 * Bojutsu Spawning ([#61493](https://github.com/CleverRaven/Cataclysm-DDA/pull/61493))
 * Minor bugfixes ([#61508](https://github.com/CleverRaven/Cataclysm-DDA/pull/61508))
 * Durable load bearing vests ([#61485](https://github.com/CleverRaven/Cataclysm-DDA/pull/61485))
-* Survivor armor drop fix ([#61483](https://github.com/CleverRaven/Cataclysm-DDA/pull/61483))
