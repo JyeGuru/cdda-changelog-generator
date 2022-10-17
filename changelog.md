@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-17-0652 ([0b1898c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-0652))
+
+* Add flaking rock -> sharp rock recipe ([#61730](https://github.com/CleverRaven/Cataclysm-DDA/pull/61730))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-17-0512 ([94be3f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-0512))
 
 * Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-10-11-0421 ([87d0378](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0421))
 
 * [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-11-0249 ([37d5acb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-0249))
-
 * Kick the user out of the repair activity if the item they are repairi… ([#61558](https://github.com/CleverRaven/Cataclysm-DDA/pull/61558))
 * stop bricking peoples saves with the bandit quest ([#61606](https://github.com/CleverRaven/Cataclysm-DDA/pull/61606))
 * Fix Followers lose tracks of the book they are reading after game load ([#61581](https://github.com/CleverRaven/Cataclysm-DDA/pull/61581))
@@ -208,7 +209,6 @@
 * Add price for graded variants of cavalry sabre ([#61498](https://github.com/CleverRaven/Cataclysm-DDA/pull/61498))
 * Translate weakpoint names and effects ([#61507](https://github.com/CleverRaven/Cataclysm-DDA/pull/61507))
 * try and fix errors ([#61514](https://github.com/CleverRaven/Cataclysm-DDA/pull/61514))
-* Teargas grenades now spawn ([#61484](https://github.com/CleverRaven/Cataclysm-DDA/pull/61484))
 * Bojutsu Spawning ([#61493](https://github.com/CleverRaven/Cataclysm-DDA/pull/61493))
 * Minor bugfixes ([#61508](https://github.com/CleverRaven/Cataclysm-DDA/pull/61508))
 * Durable load bearing vests ([#61485](https://github.com/CleverRaven/Cataclysm-DDA/pull/61485))

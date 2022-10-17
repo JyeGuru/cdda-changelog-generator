@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-17-0652 (0b1898c)
+* Add flaking rock -> sharp rock recipe (#61730)
+
 Cataclysm-DDA experimental build 2022-10-17-0512 (94be3f3)
 * Hash updates to latest for vcpkg (#61751)
 * Adjust Obrez (#61627)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2022-10-11-0522 (6d253a4)
 
 Cataclysm-DDA experimental build 2022-10-11-0421 (87d0378)
 * [DinoMod] fighting sauropod juveniles (#61607)
-
-Cataclysm-DDA experimental build 2022-10-11-0249 (37d5acb)
 * Kick the user out of the repair activity if the item they are repairi… (#61558)
 * stop bricking peoples saves with the bandit quest (#61606)
 * Fix Followers lose tracks of the book they are reading after game load (#61581)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2022-10-11-0249 (37d5acb)
 * Add price for graded variants of cavalry sabre (#61498)
 * Translate weakpoint names and effects (#61507)
 * try and fix errors (#61514)
-* Teargas grenades now spawn (#61484)
 * Bojutsu Spawning (#61493)
 * Minor bugfixes (#61508)
 * Durable load bearing vests (#61485)
