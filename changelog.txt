@@ -1,3 +1,7 @@
+* Apply 'Force unarmed' martial art when smashing terrain/furniture (#61765)
+* Follow-up mutation tweaks (#61684)
+* Update MUTATIONS.md (#61729)
+* Indicate uselessness of radio beacon (#61735)
 * Add myself to /confirm permissions list (#61755)
 
 Cataclysm-DDA experimental build 2022-10-17-2150 (0d87154)
@@ -52,7 +56,6 @@ Cataclysm-DDA experimental build 2022-10-15-0413 (7712ad0)
 
 Cataclysm-DDA experimental build 2022-10-15-0243 (b780a8e)
 * Fix Relic recharge to all moons (#61674)
-* reinforced garbage bag (#61506)
 
 Cataclysm-DDA experimental build 2022-10-14-0942 (fa069f8)
 * Audit of fill_water_with_dirt construction group for consistency (#61536)
@@ -136,6 +139,4 @@ Cataclysm-DDA experimental build 2022-10-11-1516 (61572ad)
 * Squelch turret test warnings (#61511)
 * Add Bojutsu to the Melee Training hobby description (#61513)
 * [ Xedra Evolved ] Fix summoned dreamdross not being permanent (#61515)
-* Translate weakpoint names and effects (#61507)
 * try and fix errors (#61514)
-* Minor bugfixes (#61508)
