@@ -1,3 +1,10 @@
+* Add myself to /confirm permissions list ([#61755](https://github.com/CleverRaven/Cataclysm-DDA/pull/61755))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-17-2150 ([0d87154](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-2150))
+
+* Subparts can track separate lists of sublocations that exist bellow them ([#61576](https://github.com/CleverRaven/Cataclysm-DDA/pull/61576))
 
 ---
 
@@ -84,12 +91,6 @@
 #### Cataclysm-DDA experimental build 2022-10-15-0243 ([b780a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-0243))
 
 * Fix Relic recharge to all moons ([#61674](https://github.com/CleverRaven/Cataclysm-DDA/pull/61674))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-14-1116 ([4bf0543](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-1116))
-
-* professions: add video blogger ([#61499](https://github.com/CleverRaven/Cataclysm-DDA/pull/61499))
 * reinforced garbage bag ([#61506](https://github.com/CleverRaven/Cataclysm-DDA/pull/61506))
 
 ---
@@ -207,7 +208,6 @@
 * Squelch turret test warnings ([#61511](https://github.com/CleverRaven/Cataclysm-DDA/pull/61511))
 * Add Bojutsu to the Melee Training hobby description ([#61513](https://github.com/CleverRaven/Cataclysm-DDA/pull/61513))
 * [ Xedra Evolved ] Fix summoned dreamdross not being permanent ([#61515](https://github.com/CleverRaven/Cataclysm-DDA/pull/61515))
-* Add price for graded variants of cavalry sabre ([#61498](https://github.com/CleverRaven/Cataclysm-DDA/pull/61498))
 * Translate weakpoint names and effects ([#61507](https://github.com/CleverRaven/Cataclysm-DDA/pull/61507))
 * try and fix errors ([#61514](https://github.com/CleverRaven/Cataclysm-DDA/pull/61514))
 * Minor bugfixes ([#61508](https://github.com/CleverRaven/Cataclysm-DDA/pull/61508))
