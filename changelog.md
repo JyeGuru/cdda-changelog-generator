@@ -1,3 +1,5 @@
+* Routine No Hope maintenance ([#61710](https://github.com/CleverRaven/Cataclysm-DDA/pull/61710))
+* Changing "phone book" description to clarify (even more) that it does not reveal map information ([#61734](https://github.com/CleverRaven/Cataclysm-DDA/pull/61734))
 * Add Big Sur-style macOS icons ([#61738](https://github.com/CleverRaven/Cataclysm-DDA/pull/61738))
 * Camera, SD-store iuse: dont act in item processing ([#61748](https://github.com/CleverRaven/Cataclysm-DDA/pull/61748))
 * Apply 'Force unarmed' martial art when smashing terrain/furniture ([#61765](https://github.com/CleverRaven/Cataclysm-DDA/pull/61765))
@@ -209,6 +211,5 @@
 * Add 2StoryModern04 ([#61537](https://github.com/CleverRaven/Cataclysm-DDA/pull/61537))
 * Makes headscarves skintight and autolearned ([#61542](https://github.com/CleverRaven/Cataclysm-DDA/pull/61542))
 * swords looks_like fix ([#61517](https://github.com/CleverRaven/Cataclysm-DDA/pull/61517))
-* Add Bojutsu to the Melee Training hobby description ([#61513](https://github.com/CleverRaven/Cataclysm-DDA/pull/61513))
 * [ Xedra Evolved ] Fix summoned dreamdross not being permanent ([#61515](https://github.com/CleverRaven/Cataclysm-DDA/pull/61515))
 * try and fix errors ([#61514](https://github.com/CleverRaven/Cataclysm-DDA/pull/61514))
