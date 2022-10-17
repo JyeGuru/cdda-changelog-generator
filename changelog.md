@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-17-2316 ([a453301](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-2316))
+
 * Routine No Hope maintenance ([#61710](https://github.com/CleverRaven/Cataclysm-DDA/pull/61710))
 * Changing "phone book" description to clarify (even more) that it does not reveal map information ([#61734](https://github.com/CleverRaven/Cataclysm-DDA/pull/61734))
 * Add Big Sur-style macOS icons ([#61738](https://github.com/CleverRaven/Cataclysm-DDA/pull/61738))
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2022-10-12-0519 ([26e35a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-12-0519))
 
 * Heavy punching bag construction ([#61603](https://github.com/CleverRaven/Cataclysm-DDA/pull/61603))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-11-1516 ([61572ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-11-1516))
-
 * Flagpoles and hoisting flags ([#61551](https://github.com/CleverRaven/Cataclysm-DDA/pull/61551))
 * Remove electronic flag from simple electronics ([#61584](https://github.com/CleverRaven/Cataclysm-DDA/pull/61584))
 * [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))

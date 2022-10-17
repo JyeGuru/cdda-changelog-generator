@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-17-2316 (a453301)
 * Routine No Hope maintenance (#61710)
 * Changing "phone book" description to clarify (even more) that it does not reveal map information (#61734)
 * Add Big Sur-style macOS icons (#61738)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2022-10-12-1638 (cd5924e)
 
 Cataclysm-DDA experimental build 2022-10-12-0519 (26e35a7)
 * Heavy punching bag construction (#61603)
-
-Cataclysm-DDA experimental build 2022-10-11-1516 (61572ad)
 * Flagpoles and hoisting flags (#61551)
 * Remove electronic flag from simple electronics (#61584)
 * [DinoMod] fighting sauropod juveniles (#61607)
