@@ -211,4 +211,3 @@
 * try and fix errors ([#61514](https://github.com/CleverRaven/Cataclysm-DDA/pull/61514))
 * Bojutsu Spawning ([#61493](https://github.com/CleverRaven/Cataclysm-DDA/pull/61493))
 * Minor bugfixes ([#61508](https://github.com/CleverRaven/Cataclysm-DDA/pull/61508))
-* Durable load bearing vests ([#61485](https://github.com/CleverRaven/Cataclysm-DDA/pull/61485))
