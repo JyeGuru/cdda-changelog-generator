@@ -180,11 +180,6 @@
 * Arrow rests on primitive bows ([#61629](https://github.com/CleverRaven/Cataclysm-DDA/pull/61629))
 * Item Description Cleanup Project - Melee ([#61587](https://github.com/CleverRaven/Cataclysm-DDA/pull/61587))
 * [Magiclysm] Fixes Resilient Mutation Being Unobtainable By Black Dragon Mutants ([#61647](https://github.com/CleverRaven/Cataclysm-DDA/pull/61647))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-13-0410 ([1de2543](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-13-0410))
-
 * [DinoMod] hadrosaurs eat mushrooms ([#61649](https://github.com/CleverRaven/Cataclysm-DDA/pull/61649))
 * Bypass move_effect check if force true when moving vertically ([#61641](https://github.com/CleverRaven/Cataclysm-DDA/pull/61641))
 * Heavy punching bag construction ([#61603](https://github.com/CleverRaven/Cataclysm-DDA/pull/61603))

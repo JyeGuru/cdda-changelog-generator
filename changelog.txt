@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2022-10-13-0542 (16c6b00)
 * Arrow rests on primitive bows (#61629)
 * Item Description Cleanup Project - Melee (#61587)
 * [Magiclysm] Fixes Resilient Mutation Being Unobtainable By Black Dragon Mutants (#61647)
-
-Cataclysm-DDA experimental build 2022-10-13-0410 (1de2543)
 * [DinoMod] hadrosaurs eat mushrooms (#61649)
 * Bypass move_effect check if force true when moving vertically (#61641)
 * Heavy punching bag construction (#61603)
