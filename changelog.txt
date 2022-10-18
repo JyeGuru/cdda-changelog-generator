@@ -1,3 +1,6 @@
+* Show background proficiencies' descriptions when creating character (#61732)
+
+Cataclysm-DDA experimental build 2022-10-18-0451 (282862b)
 * Prevent searchlights from searching areas they cannot see (#61725)
 * Tamable Frogs in Tamable_Wildlife mod (#61744)
 * make hot springs more rare (#61772)
@@ -33,7 +36,6 @@ Cataclysm-DDA experimental build 2022-10-17-0512 (94be3f3)
 * Adjust Obrez (#61627)
 * Add some more tabletop fluff (#61616)
 * Fishy Cleanup (#61614)
-* New Zombie type: Tearjerker (#61523)
 
 Cataclysm-DDA experimental build 2022-10-17-0057 (11ccccd)
 * Fix clang-tidy warning in game.cpp (#61739)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2022-10-13-0410 (1de2543)
 
 Cataclysm-DDA experimental build 2022-10-12-1638 (cd5924e)
 * Bypass move_effect check if force true when moving vertically (#61641)
-
-Cataclysm-DDA experimental build 2022-10-12-0519 (26e35a7)
 * Heavy punching bag construction (#61603)
 * Flagpoles and hoisting flags (#61551)
 * Remove electronic flag from simple electronics (#61584)

@@ -1,3 +1,9 @@
+* Show background proficiencies' descriptions when creating character ([#61732](https://github.com/CleverRaven/Cataclysm-DDA/pull/61732))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-18-0451 ([282862b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-18-0451))
+
 * Prevent searchlights from searching areas they cannot see ([#61725](https://github.com/CleverRaven/Cataclysm-DDA/pull/61725))
 * Tamable Frogs in Tamable_Wildlife mod ([#61744](https://github.com/CleverRaven/Cataclysm-DDA/pull/61744))
 * make hot springs more rare ([#61772](https://github.com/CleverRaven/Cataclysm-DDA/pull/61772))
@@ -54,7 +60,6 @@
 * Adjust Obrez ([#61627](https://github.com/CleverRaven/Cataclysm-DDA/pull/61627))
 * Add some more tabletop fluff ([#61616](https://github.com/CleverRaven/Cataclysm-DDA/pull/61616))
 * Fishy Cleanup ([#61614](https://github.com/CleverRaven/Cataclysm-DDA/pull/61614))
-* New Zombie type: Tearjerker ([#61523](https://github.com/CleverRaven/Cataclysm-DDA/pull/61523))
 
 ---
 
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-10-12-1638 ([cd5924e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-12-1638))
 
 * Bypass move_effect check if force true when moving vertically ([#61641](https://github.com/CleverRaven/Cataclysm-DDA/pull/61641))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-12-0519 ([26e35a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-12-0519))
-
 * Heavy punching bag construction ([#61603](https://github.com/CleverRaven/Cataclysm-DDA/pull/61603))
 * Flagpoles and hoisting flags ([#61551](https://github.com/CleverRaven/Cataclysm-DDA/pull/61551))
 * Remove electronic flag from simple electronics ([#61584](https://github.com/CleverRaven/Cataclysm-DDA/pull/61584))
