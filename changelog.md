@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-18-0617 ([4e3979f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-18-0617))
+
 * Show background proficiencies' descriptions when creating character ([#61732](https://github.com/CleverRaven/Cataclysm-DDA/pull/61732))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2022-10-13-0410 ([1de2543](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-13-0410))
 
 * [DinoMod] hadrosaurs eat mushrooms ([#61649](https://github.com/CleverRaven/Cataclysm-DDA/pull/61649))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-12-1638 ([cd5924e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-12-1638))
-
 * Bypass move_effect check if force true when moving vertically ([#61641](https://github.com/CleverRaven/Cataclysm-DDA/pull/61641))
 * Heavy punching bag construction ([#61603](https://github.com/CleverRaven/Cataclysm-DDA/pull/61603))
 * Flagpoles and hoisting flags ([#61551](https://github.com/CleverRaven/Cataclysm-DDA/pull/61551))

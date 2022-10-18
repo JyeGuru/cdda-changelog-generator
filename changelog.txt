@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-18-0617 (4e3979f)
 * Show background proficiencies' descriptions when creating character (#61732)
 
 Cataclysm-DDA experimental build 2022-10-18-0451 (282862b)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2022-10-13-0542 (16c6b00)
 
 Cataclysm-DDA experimental build 2022-10-13-0410 (1de2543)
 * [DinoMod] hadrosaurs eat mushrooms (#61649)
-
-Cataclysm-DDA experimental build 2022-10-12-1638 (cd5924e)
 * Bypass move_effect check if force true when moving vertically (#61641)
 * Heavy punching bag construction (#61603)
 * Flagpoles and hoisting flags (#61551)
