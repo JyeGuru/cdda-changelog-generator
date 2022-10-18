@@ -165,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2022-10-14-0315 ([2f063a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0315))
 
 * [DinoMod] dino skull helmets ([#61666](https://github.com/CleverRaven/Cataclysm-DDA/pull/61666))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-13-0542 ([16c6b00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-13-0542))
-
 * JSONize connect groups ([#61611](https://github.com/CleverRaven/Cataclysm-DDA/pull/61611))
 * Fix bad ter error temple_stairs and temple_finale ([#61612](https://github.com/CleverRaven/Cataclysm-DDA/pull/61612))
 * Trim uilist entry text based on space available rather than entry length ([#61626](https://github.com/CleverRaven/Cataclysm-DDA/pull/61626))
