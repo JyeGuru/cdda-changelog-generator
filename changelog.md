@@ -1,3 +1,12 @@
+* Prevent searchlights from searching areas they cannot see ([#61725](https://github.com/CleverRaven/Cataclysm-DDA/pull/61725))
+* Tamable Frogs in Tamable_Wildlife mod ([#61744](https://github.com/CleverRaven/Cataclysm-DDA/pull/61744))
+* make hot springs more rare ([#61772](https://github.com/CleverRaven/Cataclysm-DDA/pull/61772))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-18-0339 ([68908ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-18-0339))
+
+* Fix elevators in hazardous waste sarcophagi ([#61774](https://github.com/CleverRaven/Cataclysm-DDA/pull/61774))
 
 ---
 
@@ -76,7 +85,6 @@
 * Taping up more windows ([#61621](https://github.com/CleverRaven/Cataclysm-DDA/pull/61621))
 * Fill Sewage with Dirt Construction ([#61534](https://github.com/CleverRaven/Cataclysm-DDA/pull/61534))
 * [Megafauna] Add mammoth tusk/bone/glyptodont shelters ([#61592](https://github.com/CleverRaven/Cataclysm-DDA/pull/61592))
-* Mutation gear restrictions can target sub-bodyparts, and check for rigidity only there ([#61521](https://github.com/CleverRaven/Cataclysm-DDA/pull/61521))
 * Caltrops can infect character with tetanus when stepping on them ([#61571](https://github.com/CleverRaven/Cataclysm-DDA/pull/61571))
 * [DinoMod] scolo spellcheck ([#61711](https://github.com/CleverRaven/Cataclysm-DDA/pull/61711))
 
@@ -204,12 +212,8 @@
 * Fix negative climbing difficulty ([#61553](https://github.com/CleverRaven/Cataclysm-DDA/pull/61553))
 * fix: missing double space in weapon sound message ([#61554](https://github.com/CleverRaven/Cataclysm-DDA/pull/61554))
 * Initialize datadir_path_value earlier in path_info ([#61555](https://github.com/CleverRaven/Cataclysm-DDA/pull/61555))
-* Remove obsolete doc for CLIMATE_CONTROL flag ([#61522](https://github.com/CleverRaven/Cataclysm-DDA/pull/61522))
 * fix CI errors from param in mythos mod ([#61529](https://github.com/CleverRaven/Cataclysm-DDA/pull/61529))
 * Add concrete floor under beverly shear in light industry ([#61532](https://github.com/CleverRaven/Cataclysm-DDA/pull/61532))
 * Routine i18n updates on 08 October 2022 ([#61533](https://github.com/CleverRaven/Cataclysm-DDA/pull/61533))
 * Add 2StoryModern04 ([#61537](https://github.com/CleverRaven/Cataclysm-DDA/pull/61537))
 * Makes headscarves skintight and autolearned ([#61542](https://github.com/CleverRaven/Cataclysm-DDA/pull/61542))
-* swords looks_like fix ([#61517](https://github.com/CleverRaven/Cataclysm-DDA/pull/61517))
-* [ Xedra Evolved ] Fix summoned dreamdross not being permanent ([#61515](https://github.com/CleverRaven/Cataclysm-DDA/pull/61515))
-* try and fix errors ([#61514](https://github.com/CleverRaven/Cataclysm-DDA/pull/61514))
