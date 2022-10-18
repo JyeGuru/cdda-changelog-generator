@@ -202,7 +202,6 @@
 * Fix negative climbing difficulty ([#61553](https://github.com/CleverRaven/Cataclysm-DDA/pull/61553))
 * fix: missing double space in weapon sound message ([#61554](https://github.com/CleverRaven/Cataclysm-DDA/pull/61554))
 * Initialize datadir_path_value earlier in path_info ([#61555](https://github.com/CleverRaven/Cataclysm-DDA/pull/61555))
-* fix CI errors from param in mythos mod ([#61529](https://github.com/CleverRaven/Cataclysm-DDA/pull/61529))
 * Add concrete floor under beverly shear in light industry ([#61532](https://github.com/CleverRaven/Cataclysm-DDA/pull/61532))
 * Routine i18n updates on 08 October 2022 ([#61533](https://github.com/CleverRaven/Cataclysm-DDA/pull/61533))
 * Add 2StoryModern04 ([#61537](https://github.com/CleverRaven/Cataclysm-DDA/pull/61537))
