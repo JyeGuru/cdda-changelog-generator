@@ -1,3 +1,14 @@
+* NO_UNLOAD containers cannot be unloaded, even if liquid ([#61759](https://github.com/CleverRaven/Cataclysm-DDA/pull/61759))
+* Fix the scrap aluminum recipe error ([#61813](https://github.com/CleverRaven/Cataclysm-DDA/pull/61813))
+* Chainmail fix ([#61569](https://github.com/CleverRaven/Cataclysm-DDA/pull/61569))
+* Mutant mammals give mutant marrow ([#61784](https://github.com/CleverRaven/Cataclysm-DDA/pull/61784))
+* More gun variants, part one ([#61598](https://github.com/CleverRaven/Cataclysm-DDA/pull/61598))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-19-2134 ([bb9050c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-2134))
+
+* Aftershock: Remove permanent disabling from EMPs ([#61799](https://github.com/CleverRaven/Cataclysm-DDA/pull/61799))
 
 ---
 
@@ -170,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-10-14-0544 ([feaf1b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0544))
 
 * Minor update to Strip Mall ([#61671](https://github.com/CleverRaven/Cataclysm-DDA/pull/61671))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-14-0425 ([8ce0a4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0425))
-
 * Lynx Fur armor rebalance ([#61652](https://github.com/CleverRaven/Cataclysm-DDA/pull/61652))
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
 * [DinoMod] dino skull helmets ([#61666](https://github.com/CleverRaven/Cataclysm-DDA/pull/61666))
@@ -191,7 +197,6 @@
 * [DinoMod] hadrosaurs eat mushrooms ([#61649](https://github.com/CleverRaven/Cataclysm-DDA/pull/61649))
 * Bypass move_effect check if force true when moving vertically ([#61641](https://github.com/CleverRaven/Cataclysm-DDA/pull/61641))
 * Heavy punching bag construction ([#61603](https://github.com/CleverRaven/Cataclysm-DDA/pull/61603))
-* Flagpoles and hoisting flags ([#61551](https://github.com/CleverRaven/Cataclysm-DDA/pull/61551))
 * Remove electronic flag from simple electronics ([#61584](https://github.com/CleverRaven/Cataclysm-DDA/pull/61584))
 * [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))
 * Kick the user out of the repair activity if the item they are repairi… ([#61558](https://github.com/CleverRaven/Cataclysm-DDA/pull/61558))
@@ -208,9 +213,5 @@
 * Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
 * Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
 * Make 'crash axe' stats the same as the 'hatchet' ([#61560](https://github.com/CleverRaven/Cataclysm-DDA/pull/61560))
-* [Innawood] bandages, crutches, and splints from fibercloth ([#61547](https://github.com/CleverRaven/Cataclysm-DDA/pull/61547))
-* Bites can't target eyes and mouth by default ([#61544](https://github.com/CleverRaven/Cataclysm-DDA/pull/61544))
-* Smashing wooden stairs leading down will now create holes ([#61548](https://github.com/CleverRaven/Cataclysm-DDA/pull/61548))
-* Fix negative climbing difficulty ([#61553](https://github.com/CleverRaven/Cataclysm-DDA/pull/61553))
 * fix: missing double space in weapon sound message ([#61554](https://github.com/CleverRaven/Cataclysm-DDA/pull/61554))
 * Initialize datadir_path_value earlier in path_info ([#61555](https://github.com/CleverRaven/Cataclysm-DDA/pull/61555))
