@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-19-2238 (842769c)
 * NO_UNLOAD containers cannot be unloaded, even if liquid (#61759)
 * Fix the scrap aluminum recipe error (#61813)
 * Chainmail fix (#61569)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2022-10-14-0715 (1cc4c69)
 * [My Sweet Cataclysm] Scenario typo fix (#61678)
 * Smallest dogs don't zombify (#61668)
 * Update the owner faction of count_by_charges items picked up (#61656)
-
-Cataclysm-DDA experimental build 2022-10-14-0544 (feaf1b8)
 * Minor update to Strip Mall (#61671)
 * Lynx Fur armor rebalance (#61652)
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions (#61669)

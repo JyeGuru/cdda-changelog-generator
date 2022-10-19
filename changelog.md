@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-19-2238 ([842769c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-2238))
+
 * NO_UNLOAD containers cannot be unloaded, even if liquid ([#61759](https://github.com/CleverRaven/Cataclysm-DDA/pull/61759))
 * Fix the scrap aluminum recipe error ([#61813](https://github.com/CleverRaven/Cataclysm-DDA/pull/61813))
 * Chainmail fix ([#61569](https://github.com/CleverRaven/Cataclysm-DDA/pull/61569))
@@ -175,11 +180,6 @@
 * [My Sweet Cataclysm] Scenario typo fix ([#61678](https://github.com/CleverRaven/Cataclysm-DDA/pull/61678))
 * Smallest dogs don't zombify ([#61668](https://github.com/CleverRaven/Cataclysm-DDA/pull/61668))
 * Update the owner faction of count_by_charges items picked up ([#61656](https://github.com/CleverRaven/Cataclysm-DDA/pull/61656))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-14-0544 ([feaf1b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0544))
-
 * Minor update to Strip Mall ([#61671](https://github.com/CleverRaven/Cataclysm-DDA/pull/61671))
 * Lynx Fur armor rebalance ([#61652](https://github.com/CleverRaven/Cataclysm-DDA/pull/61652))
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
