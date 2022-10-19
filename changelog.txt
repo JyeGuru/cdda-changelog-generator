@@ -1,3 +1,7 @@
+* Aftershock: Monofilament Whip CBM (#61676)
+
+Cataclysm-DDA experimental build 2022-10-19-1605 (9e0e3e2)
+* Get Portal Monster aggro to desired state (#61699)
 
 Cataclysm-DDA experimental build 2022-10-19-0515 (c837fff)
 * Shivering lower fatigue recovery but only wakes you up if very cold (#61708)
@@ -59,7 +63,6 @@ Cataclysm-DDA experimental build 2022-10-15-1842 (c60d121)
 * [Innawood] Update tailor's kit recipe (#61687)
 * Adds 3 mutant dog types + their puppies (#61704)
 * Add gas oven without microwave, fix gas oven bugs (#61717)
-* Armors now correctly display which tools are necessary for repair (#61535)
 * Taping up more windows (#61621)
 * [Megafauna] Add mammoth tusk/bone/glyptodont shelters (#61592)
 * Caltrops can infect character with tetanus when stepping on them (#61571)
@@ -77,9 +80,6 @@ Cataclysm-DDA experimental build 2022-10-15-0413 (7712ad0)
 
 Cataclysm-DDA experimental build 2022-10-15-0243 (b780a8e)
 * Fix Relic recharge to all moons (#61674)
-
-Cataclysm-DDA experimental build 2022-10-14-0942 (fa069f8)
-* Audit of fill_water_with_dirt construction group for consistency (#61536)
 * Add Hub-01 modular headgear (#61574)
 * Handle `mon_null` in monster upgrade groups (#61672)
 

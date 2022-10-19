@@ -1,3 +1,10 @@
+* Aftershock: Monofilament Whip CBM ([#61676](https://github.com/CleverRaven/Cataclysm-DDA/pull/61676))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-19-1605 ([9e0e3e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-1605))
+
+* Get Portal Monster aggro to desired state ([#61699](https://github.com/CleverRaven/Cataclysm-DDA/pull/61699))
 
 ---
 
@@ -104,7 +111,6 @@
 * [Innawood] Update tailor's kit recipe ([#61687](https://github.com/CleverRaven/Cataclysm-DDA/pull/61687))
 * Adds 3 mutant dog types + their puppies ([#61704](https://github.com/CleverRaven/Cataclysm-DDA/pull/61704))
 * Add gas oven without microwave, fix gas oven bugs ([#61717](https://github.com/CleverRaven/Cataclysm-DDA/pull/61717))
-* Armors now correctly display which tools are necessary for repair ([#61535](https://github.com/CleverRaven/Cataclysm-DDA/pull/61535))
 * Taping up more windows ([#61621](https://github.com/CleverRaven/Cataclysm-DDA/pull/61621))
 * [Megafauna] Add mammoth tusk/bone/glyptodont shelters ([#61592](https://github.com/CleverRaven/Cataclysm-DDA/pull/61592))
 * Caltrops can infect character with tetanus when stepping on them ([#61571](https://github.com/CleverRaven/Cataclysm-DDA/pull/61571))
@@ -134,12 +140,6 @@
 #### Cataclysm-DDA experimental build 2022-10-15-0243 ([b780a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-0243))
 
 * Fix Relic recharge to all moons ([#61674](https://github.com/CleverRaven/Cataclysm-DDA/pull/61674))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-14-0942 ([fa069f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0942))
-
-* Audit of fill_water_with_dirt construction group for consistency ([#61536](https://github.com/CleverRaven/Cataclysm-DDA/pull/61536))
 * Add Hub-01 modular headgear ([#61574](https://github.com/CleverRaven/Cataclysm-DDA/pull/61574))
 * Handle `mon_null` in monster upgrade groups ([#61672](https://github.com/CleverRaven/Cataclysm-DDA/pull/61672))
 
