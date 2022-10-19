@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-19-0051 ([d5c2ae7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-0051))
+
+* iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
+* add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-18-0617 ([4e3979f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-18-0617))
 
 * Show background proficiencies' descriptions when creating character ([#61732](https://github.com/CleverRaven/Cataclysm-DDA/pull/61732))
@@ -202,7 +209,6 @@
 * Fix negative climbing difficulty ([#61553](https://github.com/CleverRaven/Cataclysm-DDA/pull/61553))
 * fix: missing double space in weapon sound message ([#61554](https://github.com/CleverRaven/Cataclysm-DDA/pull/61554))
 * Initialize datadir_path_value earlier in path_info ([#61555](https://github.com/CleverRaven/Cataclysm-DDA/pull/61555))
-* Add concrete floor under beverly shear in light industry ([#61532](https://github.com/CleverRaven/Cataclysm-DDA/pull/61532))
 * Routine i18n updates on 08 October 2022 ([#61533](https://github.com/CleverRaven/Cataclysm-DDA/pull/61533))
 * Add 2StoryModern04 ([#61537](https://github.com/CleverRaven/Cataclysm-DDA/pull/61537))
 * Makes headscarves skintight and autolearned ([#61542](https://github.com/CleverRaven/Cataclysm-DDA/pull/61542))
