@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-19-0515 ([c837fff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-0515))
+
+* Shivering lower fatigue recovery but only wakes you up if very cold ([#61708](https://github.com/CleverRaven/Cataclysm-DDA/pull/61708))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-19-0051 ([d5c2ae7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-0051))
 
 * iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
@@ -100,7 +106,6 @@
 * Add gas oven without microwave, fix gas oven bugs ([#61717](https://github.com/CleverRaven/Cataclysm-DDA/pull/61717))
 * Armors now correctly display which tools are necessary for repair ([#61535](https://github.com/CleverRaven/Cataclysm-DDA/pull/61535))
 * Taping up more windows ([#61621](https://github.com/CleverRaven/Cataclysm-DDA/pull/61621))
-* Fill Sewage with Dirt Construction ([#61534](https://github.com/CleverRaven/Cataclysm-DDA/pull/61534))
 * [Megafauna] Add mammoth tusk/bone/glyptodont shelters ([#61592](https://github.com/CleverRaven/Cataclysm-DDA/pull/61592))
 * Caltrops can infect character with tetanus when stepping on them ([#61571](https://github.com/CleverRaven/Cataclysm-DDA/pull/61571))
 * [DinoMod] scolo spellcheck ([#61711](https://github.com/CleverRaven/Cataclysm-DDA/pull/61711))
