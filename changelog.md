@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-19-1711 ([fdc3085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-1711))
+
+* MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
 * Aftershock: Monofilament Whip CBM ([#61676](https://github.com/CleverRaven/Cataclysm-DDA/pull/61676))
 
 ---
@@ -171,11 +177,6 @@
 
 * Lynx Fur armor rebalance ([#61652](https://github.com/CleverRaven/Cataclysm-DDA/pull/61652))
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-14-0315 ([2f063a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0315))
-
 * [DinoMod] dino skull helmets ([#61666](https://github.com/CleverRaven/Cataclysm-DDA/pull/61666))
 * JSONize connect groups ([#61611](https://github.com/CleverRaven/Cataclysm-DDA/pull/61611))
 * Fix bad ter error temple_stairs and temple_finale ([#61612](https://github.com/CleverRaven/Cataclysm-DDA/pull/61612))
@@ -209,10 +210,8 @@
 * Make 'crash axe' stats the same as the 'hatchet' ([#61560](https://github.com/CleverRaven/Cataclysm-DDA/pull/61560))
 * [Innawood] bandages, crutches, and splints from fibercloth ([#61547](https://github.com/CleverRaven/Cataclysm-DDA/pull/61547))
 * Bites can't target eyes and mouth by default ([#61544](https://github.com/CleverRaven/Cataclysm-DDA/pull/61544))
-* More breads as cooking components ([#61541](https://github.com/CleverRaven/Cataclysm-DDA/pull/61541))
 * Smashing wooden stairs leading down will now create holes ([#61548](https://github.com/CleverRaven/Cataclysm-DDA/pull/61548))
 * Fix negative climbing difficulty ([#61553](https://github.com/CleverRaven/Cataclysm-DDA/pull/61553))
 * fix: missing double space in weapon sound message ([#61554](https://github.com/CleverRaven/Cataclysm-DDA/pull/61554))
 * Initialize datadir_path_value earlier in path_info ([#61555](https://github.com/CleverRaven/Cataclysm-DDA/pull/61555))
-* Add 2StoryModern04 ([#61537](https://github.com/CleverRaven/Cataclysm-DDA/pull/61537))
 * Makes headscarves skintight and autolearned ([#61542](https://github.com/CleverRaven/Cataclysm-DDA/pull/61542))
