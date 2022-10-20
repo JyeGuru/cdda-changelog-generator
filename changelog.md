@@ -1,3 +1,5 @@
+* mask fixes ([#61814](https://github.com/CleverRaven/Cataclysm-DDA/pull/61814))
+* Makes the NRE recorder EMP-proof and replaceable ([#61811](https://github.com/CleverRaven/Cataclysm-DDA/pull/61811))
 
 ---
 
@@ -202,7 +204,6 @@
 * Heavy punching bag construction ([#61603](https://github.com/CleverRaven/Cataclysm-DDA/pull/61603))
 * Remove electronic flag from simple electronics ([#61584](https://github.com/CleverRaven/Cataclysm-DDA/pull/61584))
 * [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))
-* Kick the user out of the repair activity if the item they are repairi… ([#61558](https://github.com/CleverRaven/Cataclysm-DDA/pull/61558))
 * stop bricking peoples saves with the bandit quest ([#61606](https://github.com/CleverRaven/Cataclysm-DDA/pull/61606))
 * Fix Followers lose tracks of the book they are reading after game load ([#61581](https://github.com/CleverRaven/Cataclysm-DDA/pull/61581))
 * Allow filtering by ammotype in gun stats tool ([#61599](https://github.com/CleverRaven/Cataclysm-DDA/pull/61599))
@@ -214,4 +215,3 @@
 * Update the table of contents in doc/JSON_INFO.md ([#61586](https://github.com/CleverRaven/Cataclysm-DDA/pull/61586))
 * Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
 * Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
-* Make 'crash axe' stats the same as the 'hatchet' ([#61560](https://github.com/CleverRaven/Cataclysm-DDA/pull/61560))
