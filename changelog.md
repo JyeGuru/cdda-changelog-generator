@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-20-0439 ([9ca297c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-20-0439))
+
+* emp doesn't drain batteries ([#61810](https://github.com/CleverRaven/Cataclysm-DDA/pull/61810))
+* Add myself to the bug confirm list ([#61818](https://github.com/CleverRaven/Cataclysm-DDA/pull/61818))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-19-2238 ([842769c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-2238))
 
 * NO_UNLOAD containers cannot be unloaded, even if liquid ([#61759](https://github.com/CleverRaven/Cataclysm-DDA/pull/61759))
@@ -164,11 +171,6 @@
 * Fix Relic recharge to all moons ([#61674](https://github.com/CleverRaven/Cataclysm-DDA/pull/61674))
 * Add Hub-01 modular headgear ([#61574](https://github.com/CleverRaven/Cataclysm-DDA/pull/61574))
 * Handle `mon_null` in monster upgrade groups ([#61672](https://github.com/CleverRaven/Cataclysm-DDA/pull/61672))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-14-0836 ([5bdabc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-14-0836))
-
 * Implement scrolling for world menu ([#61578](https://github.com/CleverRaven/Cataclysm-DDA/pull/61578))
 * Radiation correctly causes mutations again ([#61667](https://github.com/CleverRaven/Cataclysm-DDA/pull/61667))
 * port: fix grave inscription prompt size ([#61673](https://github.com/CleverRaven/Cataclysm-DDA/pull/61673))
@@ -208,5 +210,3 @@
 * Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
 * Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
 * Make 'crash axe' stats the same as the 'hatchet' ([#61560](https://github.com/CleverRaven/Cataclysm-DDA/pull/61560))
-* fix: missing double space in weapon sound message ([#61554](https://github.com/CleverRaven/Cataclysm-DDA/pull/61554))
-* Initialize datadir_path_value earlier in path_info ([#61555](https://github.com/CleverRaven/Cataclysm-DDA/pull/61555))
