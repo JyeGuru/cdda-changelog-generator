@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-20-1500 ([1b0bd36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-20-1500))
+
 * mask fixes ([#61814](https://github.com/CleverRaven/Cataclysm-DDA/pull/61814))
 * Makes the NRE recorder EMP-proof and replaceable ([#61811](https://github.com/CleverRaven/Cataclysm-DDA/pull/61811))
 

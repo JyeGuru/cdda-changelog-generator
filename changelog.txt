@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-20-1500 (1b0bd36)
 * mask fixes (#61814)
 * Makes the NRE recorder EMP-proof and replaceable (#61811)
 
