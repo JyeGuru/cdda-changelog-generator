@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-20-1349 (8ebc277)
+* fix ads cost (#61822)
+
 Cataclysm-DDA experimental build 2022-10-20-0439 (9ca297c)
 * emp doesn't drain batteries (#61810)
 * Add myself to the bug confirm list (#61818)
@@ -134,7 +137,6 @@ Cataclysm-DDA experimental build 2022-10-15-0243 (b780a8e)
 * remove roadside steam engine spawns (#61602)
 * Add more intermediary bladed weapons to smooth out sword progression. (#61563)
 * Update the table of contents in doc/JSON_INFO.md (#61586)
-* Update suits_protection.json (#61557)
 * Added obsoleted terrains and recipes to corresponding lists (#61570)
 * Routine tileset updates on 09 October 2022 (#61580)
 * Make 'crash axe' stats the same as the 'hatchet' (#61560)

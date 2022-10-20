@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-20-1349 ([8ebc277](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-20-1349))
+
+* fix ads cost ([#61822](https://github.com/CleverRaven/Cataclysm-DDA/pull/61822))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-20-0439 ([9ca297c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-20-0439))
 
 * emp doesn't drain batteries ([#61810](https://github.com/CleverRaven/Cataclysm-DDA/pull/61810))
@@ -206,7 +212,6 @@
 * remove roadside steam engine spawns ([#61602](https://github.com/CleverRaven/Cataclysm-DDA/pull/61602))
 * Add more intermediary bladed weapons to smooth out sword progression. ([#61563](https://github.com/CleverRaven/Cataclysm-DDA/pull/61563))
 * Update the table of contents in doc/JSON_INFO.md ([#61586](https://github.com/CleverRaven/Cataclysm-DDA/pull/61586))
-* Update suits_protection.json ([#61557](https://github.com/CleverRaven/Cataclysm-DDA/pull/61557))
 * Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
 * Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
 * Make 'crash axe' stats the same as the 'hatchet' ([#61560](https://github.com/CleverRaven/Cataclysm-DDA/pull/61560))
