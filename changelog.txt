@@ -75,6 +75,8 @@ Cataclysm-DDA experimental build 2022-10-16-0645 (27c1f39)
 
 Cataclysm-DDA experimental build 2022-10-15-2303 (d0fa99b)
 * Check infection immune flag instead of trait (#61719)
+
+Cataclysm-DDA experimental build 2022-10-15-1842 (c60d121)
 * [Innawood] Update tailor's kit recipe (#61687)
 * Adds 3 mutant dog types + their puppies (#61704)
 * Add gas oven without microwave, fix gas oven bugs (#61717)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2022-10-15-0243 (b780a8e)
 * Fix Relic recharge to all moons (#61674)
 * Add Hub-01 modular headgear (#61574)
 * Handle `mon_null` in monster upgrade groups (#61672)
-
-Cataclysm-DDA experimental build 2022-10-14-0836 (5bdabc3)
 * Implement scrolling for world menu (#61578)
 * Radiation correctly causes mutations again (#61667)
 * port: fix grave inscription prompt size (#61673)
