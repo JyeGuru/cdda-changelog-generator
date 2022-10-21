@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-21-0712 ([26a4725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-21-0712))
+
+* Adjust wall position in Ancilla Bar ([#61831](https://github.com/CleverRaven/Cataclysm-DDA/pull/61831))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-21-0215 ([444b6dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-21-0215))
 
 * Add bungalow 05 and 06 ([#61820](https://github.com/CleverRaven/Cataclysm-DDA/pull/61820))
@@ -170,16 +176,10 @@
 #### Cataclysm-DDA experimental build 2022-10-15-1736 ([0615f31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-1736))
 
 * Move infection immunity to a flag ([#61709](https://github.com/CleverRaven/Cataclysm-DDA/pull/61709))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-15-0819 ([74abea8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-0819))
-
 * Routine i18n updates on 15 October 2022 ([#61703](https://github.com/CleverRaven/Cataclysm-DDA/pull/61703))
 * NPCs inquires about failed missions ([#61692](https://github.com/CleverRaven/Cataclysm-DDA/pull/61692))
 * Make item subtypes available recursively ([#61695](https://github.com/CleverRaven/Cataclysm-DDA/pull/61695))
 * Fix Relic recharge to all moons ([#61674](https://github.com/CleverRaven/Cataclysm-DDA/pull/61674))
-* Add Hub-01 modular headgear ([#61574](https://github.com/CleverRaven/Cataclysm-DDA/pull/61574))
 * Handle `mon_null` in monster upgrade groups ([#61672](https://github.com/CleverRaven/Cataclysm-DDA/pull/61672))
 * Implement scrolling for world menu ([#61578](https://github.com/CleverRaven/Cataclysm-DDA/pull/61578))
 * Radiation correctly causes mutations again ([#61667](https://github.com/CleverRaven/Cataclysm-DDA/pull/61667))

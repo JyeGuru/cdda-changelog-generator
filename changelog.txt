@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-21-0712 (26a4725)
+* Adjust wall position in Ancilla Bar (#61831)
+
 Cataclysm-DDA experimental build 2022-10-21-0215 (444b6dd)
 * Add bungalow 05 and 06 (#61820)
 * Improve JSON linting on windows/VS (#61825)
@@ -98,13 +101,10 @@ Cataclysm-DDA experimental build 2022-10-15-1842 (c60d121)
 
 Cataclysm-DDA experimental build 2022-10-15-1736 (0615f31)
 * Move infection immunity to a flag (#61709)
-
-Cataclysm-DDA experimental build 2022-10-15-0819 (74abea8)
 * Routine i18n updates on 15 October 2022 (#61703)
 * NPCs inquires about failed missions (#61692)
 * Make item subtypes available recursively (#61695)
 * Fix Relic recharge to all moons (#61674)
-* Add Hub-01 modular headgear (#61574)
 * Handle `mon_null` in monster upgrade groups (#61672)
 * Implement scrolling for world menu (#61578)
 * Radiation correctly causes mutations again (#61667)
