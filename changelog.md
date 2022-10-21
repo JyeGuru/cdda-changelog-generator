@@ -1,6 +1,15 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-21-0215 ([444b6dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-21-0215))
+
+* Add bungalow 05 and 06 ([#61820](https://github.com/CleverRaven/Cataclysm-DDA/pull/61820))
+* Improve JSON linting on windows/VS ([#61825](https://github.com/CleverRaven/Cataclysm-DDA/pull/61825))
+* Fix flimsy and glass jaw descriptions ([#61804](https://github.com/CleverRaven/Cataclysm-DDA/pull/61804))
+* Fixing curing roe recipe ([#61816](https://github.com/CleverRaven/Cataclysm-DDA/pull/61816))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-20-1500 ([1b0bd36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-20-1500))
 
 * mask fixes ([#61814](https://github.com/CleverRaven/Cataclysm-DDA/pull/61814))
@@ -25,7 +34,6 @@
 
 * NO_UNLOAD containers cannot be unloaded, even if liquid ([#61759](https://github.com/CleverRaven/Cataclysm-DDA/pull/61759))
 * Fix the scrap aluminum recipe error ([#61813](https://github.com/CleverRaven/Cataclysm-DDA/pull/61813))
-* Chainmail fix ([#61569](https://github.com/CleverRaven/Cataclysm-DDA/pull/61569))
 * Mutant mammals give mutant marrow ([#61784](https://github.com/CleverRaven/Cataclysm-DDA/pull/61784))
 * More gun variants, part one ([#61598](https://github.com/CleverRaven/Cataclysm-DDA/pull/61598))
 
@@ -155,7 +163,6 @@
 * Add gas oven without microwave, fix gas oven bugs ([#61717](https://github.com/CleverRaven/Cataclysm-DDA/pull/61717))
 * Taping up more windows ([#61621](https://github.com/CleverRaven/Cataclysm-DDA/pull/61621))
 * [Megafauna] Add mammoth tusk/bone/glyptodont shelters ([#61592](https://github.com/CleverRaven/Cataclysm-DDA/pull/61592))
-* Caltrops can infect character with tetanus when stepping on them ([#61571](https://github.com/CleverRaven/Cataclysm-DDA/pull/61571))
 * [DinoMod] scolo spellcheck ([#61711](https://github.com/CleverRaven/Cataclysm-DDA/pull/61711))
 
 ---
@@ -169,18 +176,8 @@
 #### Cataclysm-DDA experimental build 2022-10-15-0819 ([74abea8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-0819))
 
 * Routine i18n updates on 15 October 2022 ([#61703](https://github.com/CleverRaven/Cataclysm-DDA/pull/61703))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-15-0413 ([7712ad0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-0413))
-
 * NPCs inquires about failed missions ([#61692](https://github.com/CleverRaven/Cataclysm-DDA/pull/61692))
 * Make item subtypes available recursively ([#61695](https://github.com/CleverRaven/Cataclysm-DDA/pull/61695))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-15-0243 ([b780a8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-0243))
-
 * Fix Relic recharge to all moons ([#61674](https://github.com/CleverRaven/Cataclysm-DDA/pull/61674))
 * Add Hub-01 modular headgear ([#61574](https://github.com/CleverRaven/Cataclysm-DDA/pull/61574))
 * Handle `mon_null` in monster upgrade groups ([#61672](https://github.com/CleverRaven/Cataclysm-DDA/pull/61672))
@@ -217,5 +214,4 @@
 * add bungalow 01 and 02 ([#61579](https://github.com/CleverRaven/Cataclysm-DDA/pull/61579))
 * remove roadside steam engine spawns ([#61602](https://github.com/CleverRaven/Cataclysm-DDA/pull/61602))
 * Update the table of contents in doc/JSON_INFO.md ([#61586](https://github.com/CleverRaven/Cataclysm-DDA/pull/61586))
-* Added obsoleted terrains and recipes to corresponding lists ([#61570](https://github.com/CleverRaven/Cataclysm-DDA/pull/61570))
 * Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
