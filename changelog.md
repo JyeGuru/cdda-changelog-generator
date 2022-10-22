@@ -1,3 +1,15 @@
+* Mycus mutation category now works again, among other things ([#61775](https://github.com/CleverRaven/Cataclysm-DDA/pull/61775))
+* Give Sadie more survival options. ([#61795](https://github.com/CleverRaven/Cataclysm-DDA/pull/61795))
+* Towel that got wet from swimming will now dry ([#61838](https://github.com/CleverRaven/Cataclysm-DDA/pull/61838))
+* Placed aftershock robots are pets ([#61830](https://github.com/CleverRaven/Cataclysm-DDA/pull/61830))
+* Fix the Aftershock Translocator ([#61829](https://github.com/CleverRaven/Cataclysm-DDA/pull/61829))
+* Corrected path to look for msgfmt.exe in lang/CMakeLists.txt ([#61858](https://github.com/CleverRaven/Cataclysm-DDA/pull/61858))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-22-1122 ([3772144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-1122))
+
+* Fix a CtD ([#61853](https://github.com/CleverRaven/Cataclysm-DDA/pull/61853))
 
 ---
 
@@ -159,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2022-10-15-2303 ([d0fa99b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-2303))
 
 * Check infection immune flag instead of trait ([#61719](https://github.com/CleverRaven/Cataclysm-DDA/pull/61719))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-15-1842 ([c60d121](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-1842))
-
 * [Innawood] Update tailor's kit recipe ([#61687](https://github.com/CleverRaven/Cataclysm-DDA/pull/61687))
 * Adds 3 mutant dog types + their puppies ([#61704](https://github.com/CleverRaven/Cataclysm-DDA/pull/61704))
 * Add gas oven without microwave, fix gas oven bugs ([#61717](https://github.com/CleverRaven/Cataclysm-DDA/pull/61717))
@@ -176,7 +183,6 @@
 * Make item subtypes available recursively ([#61695](https://github.com/CleverRaven/Cataclysm-DDA/pull/61695))
 * Fix Relic recharge to all moons ([#61674](https://github.com/CleverRaven/Cataclysm-DDA/pull/61674))
 * Handle `mon_null` in monster upgrade groups ([#61672](https://github.com/CleverRaven/Cataclysm-DDA/pull/61672))
-* Implement scrolling for world menu ([#61578](https://github.com/CleverRaven/Cataclysm-DDA/pull/61578))
 * Radiation correctly causes mutations again ([#61667](https://github.com/CleverRaven/Cataclysm-DDA/pull/61667))
 * port: fix grave inscription prompt size ([#61673](https://github.com/CleverRaven/Cataclysm-DDA/pull/61673))
 * [My Sweet Cataclysm] Scenario typo fix ([#61678](https://github.com/CleverRaven/Cataclysm-DDA/pull/61678))
@@ -199,14 +205,8 @@
 * [DinoMod] hadrosaurs eat mushrooms ([#61649](https://github.com/CleverRaven/Cataclysm-DDA/pull/61649))
 * Bypass move_effect check if force true when moving vertically ([#61641](https://github.com/CleverRaven/Cataclysm-DDA/pull/61641))
 * Heavy punching bag construction ([#61603](https://github.com/CleverRaven/Cataclysm-DDA/pull/61603))
-* Remove electronic flag from simple electronics ([#61584](https://github.com/CleverRaven/Cataclysm-DDA/pull/61584))
 * [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))
 * stop bricking peoples saves with the bandit quest ([#61606](https://github.com/CleverRaven/Cataclysm-DDA/pull/61606))
-* Fix Followers lose tracks of the book they are reading after game load ([#61581](https://github.com/CleverRaven/Cataclysm-DDA/pull/61581))
 * Allow filtering by ammotype in gun stats tool ([#61599](https://github.com/CleverRaven/Cataclysm-DDA/pull/61599))
 * Increased width of Active World Mods menu ([#61588](https://github.com/CleverRaven/Cataclysm-DDA/pull/61588))
-* Cinema polishing ([#61582](https://github.com/CleverRaven/Cataclysm-DDA/pull/61582))
-* add bungalow 01 and 02 ([#61579](https://github.com/CleverRaven/Cataclysm-DDA/pull/61579))
 * remove roadside steam engine spawns ([#61602](https://github.com/CleverRaven/Cataclysm-DDA/pull/61602))
-* Update the table of contents in doc/JSON_INFO.md ([#61586](https://github.com/CleverRaven/Cataclysm-DDA/pull/61586))
-* Routine tileset updates on 09 October 2022 ([#61580](https://github.com/CleverRaven/Cataclysm-DDA/pull/61580))
