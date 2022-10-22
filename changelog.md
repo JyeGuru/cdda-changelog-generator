@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-22-1229 ([e3b27f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-1229))
+
 * Mycus mutation category now works again, among other things ([#61775](https://github.com/CleverRaven/Cataclysm-DDA/pull/61775))
 * Give Sadie more survival options. ([#61795](https://github.com/CleverRaven/Cataclysm-DDA/pull/61795))
 * Towel that got wet from swimming will now dry ([#61838](https://github.com/CleverRaven/Cataclysm-DDA/pull/61838))
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-10-16-0645 ([27c1f39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-16-0645))
 
 * New wooden arrow rest ([#61631](https://github.com/CleverRaven/Cataclysm-DDA/pull/61631))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-15-2303 ([d0fa99b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-2303))
-
 * Check infection immune flag instead of trait ([#61719](https://github.com/CleverRaven/Cataclysm-DDA/pull/61719))
 * [Innawood] Update tailor's kit recipe ([#61687](https://github.com/CleverRaven/Cataclysm-DDA/pull/61687))
 * Adds 3 mutant dog types + their puppies ([#61704](https://github.com/CleverRaven/Cataclysm-DDA/pull/61704))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-22-1229 (e3b27f0)
 * Mycus mutation category now works again, among other things (#61775)
 * Give Sadie more survival options. (#61795)
 * Towel that got wet from swimming will now dry (#61838)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2022-10-17-0057 (11ccccd)
 
 Cataclysm-DDA experimental build 2022-10-16-0645 (27c1f39)
 * New wooden arrow rest (#61631)
-
-Cataclysm-DDA experimental build 2022-10-15-2303 (d0fa99b)
 * Check infection immune flag instead of trait (#61719)
 * [Innawood] Update tailor's kit recipe (#61687)
 * Adds 3 mutant dog types + their puppies (#61704)
