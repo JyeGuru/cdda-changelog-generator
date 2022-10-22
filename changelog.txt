@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-22-0526 (3c1b99e)
+* Fix charge usage for short string from electric spinwheel (#61824)
+
 Cataclysm-DDA experimental build 2022-10-21-0712 (26a4725)
 * Adjust wall position in Ancilla Bar (#61831)
 
@@ -64,9 +67,6 @@ Cataclysm-DDA experimental build 2022-10-17-2316 (a453301)
 * Indicate uselessness of radio beacon (#61735)
 * Add myself to /confirm permissions list (#61755)
 
-Cataclysm-DDA experimental build 2022-10-17-2150 (0d87154)
-* Subparts can track separate lists of sublocations that exist bellow them (#61576)
-
 Cataclysm-DDA experimental build 2022-10-17-1717 (6aeded9)
 * [Xedra Evolved] fix Forge Dreamdross (#61743)
 
@@ -98,8 +98,6 @@ Cataclysm-DDA experimental build 2022-10-15-1842 (c60d121)
 * Taping up more windows (#61621)
 * [Megafauna] Add mammoth tusk/bone/glyptodont shelters (#61592)
 * [DinoMod] scolo spellcheck (#61711)
-
-Cataclysm-DDA experimental build 2022-10-15-1736 (0615f31)
 * Move infection immunity to a flag (#61709)
 * Routine i18n updates on 15 October 2022 (#61703)
 * NPCs inquires about failed missions (#61692)

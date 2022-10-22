@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-22-0526 ([3c1b99e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-0526))
+
+* Fix charge usage for short string from electric spinwheel ([#61824](https://github.com/CleverRaven/Cataclysm-DDA/pull/61824))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-21-0712 ([26a4725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-21-0712))
 
 * Adjust wall position in Ancilla Bar ([#61831](https://github.com/CleverRaven/Cataclysm-DDA/pull/61831))
@@ -111,12 +117,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-10-17-2150 ([0d87154](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-2150))
-
-* Subparts can track separate lists of sublocations that exist bellow them ([#61576](https://github.com/CleverRaven/Cataclysm-DDA/pull/61576))
-
----
-
 #### Cataclysm-DDA experimental build 2022-10-17-1717 ([6aeded9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-1717))
 
 * [Xedra Evolved] fix Forge Dreamdross ([#61743](https://github.com/CleverRaven/Cataclysm-DDA/pull/61743))
@@ -170,11 +170,6 @@
 * Taping up more windows ([#61621](https://github.com/CleverRaven/Cataclysm-DDA/pull/61621))
 * [Megafauna] Add mammoth tusk/bone/glyptodont shelters ([#61592](https://github.com/CleverRaven/Cataclysm-DDA/pull/61592))
 * [DinoMod] scolo spellcheck ([#61711](https://github.com/CleverRaven/Cataclysm-DDA/pull/61711))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-15-1736 ([0615f31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-15-1736))
-
 * Move infection immunity to a flag ([#61709](https://github.com/CleverRaven/Cataclysm-DDA/pull/61709))
 * Routine i18n updates on 15 October 2022 ([#61703](https://github.com/CleverRaven/Cataclysm-DDA/pull/61703))
 * NPCs inquires about failed missions ([#61692](https://github.com/CleverRaven/Cataclysm-DDA/pull/61692))
