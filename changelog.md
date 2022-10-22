@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-22-1425 ([e532171](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-1425))
+
+* Updated definitions of some of St. John's farm OMTs ([#61723](https://github.com/CleverRaven/Cataclysm-DDA/pull/61723))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-22-1229 ([e3b27f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-1229))
 
 * Mycus mutation category now works again, among other things ([#61775](https://github.com/CleverRaven/Cataclysm-DDA/pull/61775))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-10-17-0057 ([11ccccd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-0057))
 
 * Fix clang-tidy warning in game.cpp ([#61739](https://github.com/CleverRaven/Cataclysm-DDA/pull/61739))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-16-0645 ([27c1f39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-16-0645))
-
 * New wooden arrow rest ([#61631](https://github.com/CleverRaven/Cataclysm-DDA/pull/61631))
 * Check infection immune flag instead of trait ([#61719](https://github.com/CleverRaven/Cataclysm-DDA/pull/61719))
 * [Innawood] Update tailor's kit recipe ([#61687](https://github.com/CleverRaven/Cataclysm-DDA/pull/61687))
@@ -200,7 +201,6 @@
 * reduce barter value of fuels ([#61637](https://github.com/CleverRaven/Cataclysm-DDA/pull/61637))
 * fix heels armor ([#61635](https://github.com/CleverRaven/Cataclysm-DDA/pull/61635))
 * Arrow rests on primitive bows ([#61629](https://github.com/CleverRaven/Cataclysm-DDA/pull/61629))
-* Item Description Cleanup Project - Melee ([#61587](https://github.com/CleverRaven/Cataclysm-DDA/pull/61587))
 * [Magiclysm] Fixes Resilient Mutation Being Unobtainable By Black Dragon Mutants ([#61647](https://github.com/CleverRaven/Cataclysm-DDA/pull/61647))
 * [DinoMod] hadrosaurs eat mushrooms ([#61649](https://github.com/CleverRaven/Cataclysm-DDA/pull/61649))
 * Bypass move_effect check if force true when moving vertically ([#61641](https://github.com/CleverRaven/Cataclysm-DDA/pull/61641))
