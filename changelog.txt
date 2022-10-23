@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-23-1029 (cc65209)
+* add bungalow 07 and 08 (#61876)
+
 Cataclysm-DDA experimental build 2022-10-23-0453 (0ce0fc5)
 * Fix MA mod / loading gzipped json with json_loader (#61601)
 
@@ -105,7 +108,6 @@ Cataclysm-DDA experimental build 2022-10-17-0512 (94be3f3)
 * Adds 3 mutant dog types + their puppies (#61704)
 * Add gas oven without microwave, fix gas oven bugs (#61717)
 * Taping up more windows (#61621)
-* [Megafauna] Add mammoth tusk/bone/glyptodont shelters (#61592)
 * [DinoMod] scolo spellcheck (#61711)
 * Move infection immunity to a flag (#61709)
 * Routine i18n updates on 15 October 2022 (#61703)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-23-1029 ([cc65209](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-23-1029))
+
+* add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-23-0453 ([0ce0fc5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-23-0453))
 
 * Fix MA mod / loading gzipped json with json_loader ([#61601](https://github.com/CleverRaven/Cataclysm-DDA/pull/61601))
@@ -177,7 +183,6 @@
 * Adds 3 mutant dog types + their puppies ([#61704](https://github.com/CleverRaven/Cataclysm-DDA/pull/61704))
 * Add gas oven without microwave, fix gas oven bugs ([#61717](https://github.com/CleverRaven/Cataclysm-DDA/pull/61717))
 * Taping up more windows ([#61621](https://github.com/CleverRaven/Cataclysm-DDA/pull/61621))
-* [Megafauna] Add mammoth tusk/bone/glyptodont shelters ([#61592](https://github.com/CleverRaven/Cataclysm-DDA/pull/61592))
 * [DinoMod] scolo spellcheck ([#61711](https://github.com/CleverRaven/Cataclysm-DDA/pull/61711))
 * Move infection immunity to a flag ([#61709](https://github.com/CleverRaven/Cataclysm-DDA/pull/61709))
 * Routine i18n updates on 15 October 2022 ([#61703](https://github.com/CleverRaven/Cataclysm-DDA/pull/61703))
