@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-23-0453 ([0ce0fc5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-23-0453))
+
+* Fix MA mod / loading gzipped json with json_loader ([#61601](https://github.com/CleverRaven/Cataclysm-DDA/pull/61601))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-22-1425 ([e532171](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-1425))
 
 * Updated definitions of some of St. John's farm OMTs ([#61723](https://github.com/CleverRaven/Cataclysm-DDA/pull/61723))
@@ -164,11 +170,6 @@
 * Adjust Obrez ([#61627](https://github.com/CleverRaven/Cataclysm-DDA/pull/61627))
 * Add some more tabletop fluff ([#61616](https://github.com/CleverRaven/Cataclysm-DDA/pull/61616))
 * Fishy Cleanup ([#61614](https://github.com/CleverRaven/Cataclysm-DDA/pull/61614))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-17-0057 ([11ccccd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-0057))
-
 * Fix clang-tidy warning in game.cpp ([#61739](https://github.com/CleverRaven/Cataclysm-DDA/pull/61739))
 * New wooden arrow rest ([#61631](https://github.com/CleverRaven/Cataclysm-DDA/pull/61631))
 * Check infection immune flag instead of trait ([#61719](https://github.com/CleverRaven/Cataclysm-DDA/pull/61719))
@@ -208,5 +209,4 @@
 * [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))
 * stop bricking peoples saves with the bandit quest ([#61606](https://github.com/CleverRaven/Cataclysm-DDA/pull/61606))
 * Allow filtering by ammotype in gun stats tool ([#61599](https://github.com/CleverRaven/Cataclysm-DDA/pull/61599))
-* Increased width of Active World Mods menu ([#61588](https://github.com/CleverRaven/Cataclysm-DDA/pull/61588))
 * remove roadside steam engine spawns ([#61602](https://github.com/CleverRaven/Cataclysm-DDA/pull/61602))

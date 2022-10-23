@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-23-0453 (0ce0fc5)
+* Fix MA mod / loading gzipped json with json_loader (#61601)
+
 Cataclysm-DDA experimental build 2022-10-22-1425 (e532171)
 * Updated definitions of some of St. John's farm OMTs (#61723)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2022-10-17-0512 (94be3f3)
 * Adjust Obrez (#61627)
 * Add some more tabletop fluff (#61616)
 * Fishy Cleanup (#61614)
-
-Cataclysm-DDA experimental build 2022-10-17-0057 (11ccccd)
 * Fix clang-tidy warning in game.cpp (#61739)
 * New wooden arrow rest (#61631)
 * Check infection immune flag instead of trait (#61719)
@@ -136,5 +137,4 @@ Cataclysm-DDA experimental build 2022-10-17-0057 (11ccccd)
 * [DinoMod] fighting sauropod juveniles (#61607)
 * stop bricking peoples saves with the bandit quest (#61606)
 * Allow filtering by ammotype in gun stats tool (#61599)
-* Increased width of Active World Mods menu (#61588)
 * remove roadside steam engine spawns (#61602)
