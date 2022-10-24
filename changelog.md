@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-24-0633 ([71bdf7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-24-0633))
+
+* Routine tileset updates on 23 October 2022 ([#61890](https://github.com/CleverRaven/Cataclysm-DDA/pull/61890))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-23-1029 ([cc65209](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-23-1029))
 
 * add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
@@ -82,7 +88,6 @@
 * NO_UNLOAD containers cannot be unloaded, even if liquid ([#61759](https://github.com/CleverRaven/Cataclysm-DDA/pull/61759))
 * Fix the scrap aluminum recipe error ([#61813](https://github.com/CleverRaven/Cataclysm-DDA/pull/61813))
 * Mutant mammals give mutant marrow ([#61784](https://github.com/CleverRaven/Cataclysm-DDA/pull/61784))
-* More gun variants, part one ([#61598](https://github.com/CleverRaven/Cataclysm-DDA/pull/61598))
 
 ---
 
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-10-17-0652 ([0b1898c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-0652))
 
 * Add flaking rock -> sharp rock recipe ([#61730](https://github.com/CleverRaven/Cataclysm-DDA/pull/61730))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-17-0512 ([94be3f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-0512))
-
 * Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
 * Adjust Obrez ([#61627](https://github.com/CleverRaven/Cataclysm-DDA/pull/61627))
 * Add some more tabletop fluff ([#61616](https://github.com/CleverRaven/Cataclysm-DDA/pull/61616))

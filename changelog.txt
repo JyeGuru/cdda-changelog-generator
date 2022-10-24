@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-24-0633 (71bdf7b)
+* Routine tileset updates on 23 October 2022 (#61890)
+
 Cataclysm-DDA experimental build 2022-10-23-1029 (cc65209)
 * add bungalow 07 and 08 (#61876)
 
@@ -46,7 +49,6 @@ Cataclysm-DDA experimental build 2022-10-19-2238 (842769c)
 * NO_UNLOAD containers cannot be unloaded, even if liquid (#61759)
 * Fix the scrap aluminum recipe error (#61813)
 * Mutant mammals give mutant marrow (#61784)
-* More gun variants, part one (#61598)
 
 Cataclysm-DDA experimental build 2022-10-19-2134 (bb9050c)
 * Aftershock: Remove permanent disabling from EMPs (#61799)
@@ -95,8 +97,6 @@ Cataclysm-DDA experimental build 2022-10-17-1604 (0d2f918)
 
 Cataclysm-DDA experimental build 2022-10-17-0652 (0b1898c)
 * Add flaking rock -> sharp rock recipe (#61730)
-
-Cataclysm-DDA experimental build 2022-10-17-0512 (94be3f3)
 * Hash updates to latest for vcpkg (#61751)
 * Adjust Obrez (#61627)
 * Add some more tabletop fluff (#61616)
