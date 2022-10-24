@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-24-1928 ([c75285b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-24-1928))
+
 * Hub 01 intercom dialogue refinement, October edition ([#61793](https://github.com/CleverRaven/Cataclysm-DDA/pull/61793))
 * [innawood] no game watches ([#61819](https://github.com/CleverRaven/Cataclysm-DDA/pull/61819))
 * zones: restore custom zone filtering for containers ([#61835](https://github.com/CleverRaven/Cataclysm-DDA/pull/61835))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-10-17-1717 ([6aeded9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-1717))
 
 * [Xedra Evolved] fix Forge Dreamdross ([#61743](https://github.com/CleverRaven/Cataclysm-DDA/pull/61743))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-17-1604 ([0d2f918](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-1604))
-
 * add bungalow 03 and 04 ([#61705](https://github.com/CleverRaven/Cataclysm-DDA/pull/61705))
 * Add flaking rock -> sharp rock recipe ([#61730](https://github.com/CleverRaven/Cataclysm-DDA/pull/61730))
 * Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
