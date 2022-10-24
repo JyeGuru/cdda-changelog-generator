@@ -1,3 +1,12 @@
+* accepts merch straps and bundles ([#61869](https://github.com/CleverRaven/Cataclysm-DDA/pull/61869))
+* Changed JSON to reflect empty air ([#61875](https://github.com/CleverRaven/Cataclysm-DDA/pull/61875))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-24-1810 ([120f000](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-24-1810))
+
+* Fix overmap file loading from MA mod on Android ([#61879](https://github.com/CleverRaven/Cataclysm-DDA/pull/61879))
+* Fix missing translating elements in 2 parsers ([#61882](https://github.com/CleverRaven/Cataclysm-DDA/pull/61882))
 
 ---
 
@@ -10,12 +19,6 @@
 #### Cataclysm-DDA experimental build 2022-10-23-1029 ([cc65209](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-23-1029))
 
 * add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-23-0453 ([0ce0fc5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-23-0453))
-
-* Fix MA mod / loading gzipped json with json_loader ([#61601](https://github.com/CleverRaven/Cataclysm-DDA/pull/61601))
 
 ---
 
@@ -166,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2022-10-17-1604 ([0d2f918](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-1604))
 
 * add bungalow 03 and 04 ([#61705](https://github.com/CleverRaven/Cataclysm-DDA/pull/61705))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-17-0652 ([0b1898c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-0652))
-
 * Add flaking rock -> sharp rock recipe ([#61730](https://github.com/CleverRaven/Cataclysm-DDA/pull/61730))
 * Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
 * Adjust Obrez ([#61627](https://github.com/CleverRaven/Cataclysm-DDA/pull/61627))
@@ -210,8 +208,5 @@
 * [Magiclysm] Fixes Resilient Mutation Being Unobtainable By Black Dragon Mutants ([#61647](https://github.com/CleverRaven/Cataclysm-DDA/pull/61647))
 * [DinoMod] hadrosaurs eat mushrooms ([#61649](https://github.com/CleverRaven/Cataclysm-DDA/pull/61649))
 * Bypass move_effect check if force true when moving vertically ([#61641](https://github.com/CleverRaven/Cataclysm-DDA/pull/61641))
-* Heavy punching bag construction ([#61603](https://github.com/CleverRaven/Cataclysm-DDA/pull/61603))
 * [DinoMod] fighting sauropod juveniles ([#61607](https://github.com/CleverRaven/Cataclysm-DDA/pull/61607))
 * stop bricking peoples saves with the bandit quest ([#61606](https://github.com/CleverRaven/Cataclysm-DDA/pull/61606))
-* Allow filtering by ammotype in gun stats tool ([#61599](https://github.com/CleverRaven/Cataclysm-DDA/pull/61599))
-* remove roadside steam engine spawns ([#61602](https://github.com/CleverRaven/Cataclysm-DDA/pull/61602))

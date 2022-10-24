@@ -1,12 +1,15 @@
+* accepts merch straps and bundles (#61869)
+* Changed JSON to reflect empty air (#61875)
+
+Cataclysm-DDA experimental build 2022-10-24-1810 (120f000)
+* Fix overmap file loading from MA mod on Android (#61879)
+* Fix missing translating elements in 2 parsers (#61882)
 
 Cataclysm-DDA experimental build 2022-10-24-0633 (71bdf7b)
 * Routine tileset updates on 23 October 2022 (#61890)
 
 Cataclysm-DDA experimental build 2022-10-23-1029 (cc65209)
 * add bungalow 07 and 08 (#61876)
-
-Cataclysm-DDA experimental build 2022-10-23-0453 (0ce0fc5)
-* Fix MA mod / loading gzipped json with json_loader (#61601)
 
 Cataclysm-DDA experimental build 2022-10-22-1425 (e532171)
 * Updated definitions of some of St. John's farm OMTs (#61723)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2022-10-17-1717 (6aeded9)
 
 Cataclysm-DDA experimental build 2022-10-17-1604 (0d2f918)
 * add bungalow 03 and 04 (#61705)
-
-Cataclysm-DDA experimental build 2022-10-17-0652 (0b1898c)
 * Add flaking rock -> sharp rock recipe (#61730)
 * Hash updates to latest for vcpkg (#61751)
 * Adjust Obrez (#61627)
@@ -135,8 +136,5 @@ Cataclysm-DDA experimental build 2022-10-17-0652 (0b1898c)
 * [Magiclysm] Fixes Resilient Mutation Being Unobtainable By Black Dragon Mutants (#61647)
 * [DinoMod] hadrosaurs eat mushrooms (#61649)
 * Bypass move_effect check if force true when moving vertically (#61641)
-* Heavy punching bag construction (#61603)
 * [DinoMod] fighting sauropod juveniles (#61607)
 * stop bricking peoples saves with the bandit quest (#61606)
-* Allow filtering by ammotype in gun stats tool (#61599)
-* remove roadside steam engine spawns (#61602)
