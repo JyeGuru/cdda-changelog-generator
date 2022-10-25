@@ -1,3 +1,10 @@
+* Fixes name of XL medium plate armor ([#61899](https://github.com/CleverRaven/Cataclysm-DDA/pull/61899))
+* auto labeler maintenance ([#61904](https://github.com/CleverRaven/Cataclysm-DDA/pull/61904))
+* Fix #61901 activating a lit Molotov causes it to explode ([#61912](https://github.com/CleverRaven/Cataclysm-DDA/pull/61912))
+* Hallucination electric monsters don't cause electric effects no more ([#61914](https://github.com/CleverRaven/Cataclysm-DDA/pull/61914))
+* Fix popup when moving from [A] using AIM ([#61927](https://github.com/CleverRaven/Cataclysm-DDA/pull/61927))
+* Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly ([#61930](https://github.com/CleverRaven/Cataclysm-DDA/pull/61930))
+* Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
 
 ---
 
@@ -155,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2022-10-18-0617 ([4e3979f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-18-0617))
 
 * Show background proficiencies' descriptions when creating character ([#61732](https://github.com/CleverRaven/Cataclysm-DDA/pull/61732))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-18-0451 ([282862b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-18-0451))
-
 * Prevent searchlights from searching areas they cannot see ([#61725](https://github.com/CleverRaven/Cataclysm-DDA/pull/61725))
 * Tamable Frogs in Tamable_Wildlife mod ([#61744](https://github.com/CleverRaven/Cataclysm-DDA/pull/61744))
 * make hot springs more rare ([#61772](https://github.com/CleverRaven/Cataclysm-DDA/pull/61772))
@@ -178,7 +180,6 @@
 * Add flaking rock -> sharp rock recipe ([#61730](https://github.com/CleverRaven/Cataclysm-DDA/pull/61730))
 * Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
 * Fix clang-tidy warning in game.cpp ([#61739](https://github.com/CleverRaven/Cataclysm-DDA/pull/61739))
-* New wooden arrow rest ([#61631](https://github.com/CleverRaven/Cataclysm-DDA/pull/61631))
 * Check infection immune flag instead of trait ([#61719](https://github.com/CleverRaven/Cataclysm-DDA/pull/61719))
 * [Innawood] Update tailor's kit recipe ([#61687](https://github.com/CleverRaven/Cataclysm-DDA/pull/61687))
 * Adds 3 mutant dog types + their puppies ([#61704](https://github.com/CleverRaven/Cataclysm-DDA/pull/61704))
@@ -199,10 +200,5 @@
 * Lynx Fur armor rebalance ([#61652](https://github.com/CleverRaven/Cataclysm-DDA/pull/61652))
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
 * [DinoMod] dino skull helmets ([#61666](https://github.com/CleverRaven/Cataclysm-DDA/pull/61666))
-* Correctly use TARGET_OS_IPHONE macro ([#61638](https://github.com/CleverRaven/Cataclysm-DDA/pull/61638))
-* Add one name to remember ([#61646](https://github.com/CleverRaven/Cataclysm-DDA/pull/61646))
-* reduce barter value of fuels ([#61637](https://github.com/CleverRaven/Cataclysm-DDA/pull/61637))
-* fix heels armor ([#61635](https://github.com/CleverRaven/Cataclysm-DDA/pull/61635))
 * [Magiclysm] Fixes Resilient Mutation Being Unobtainable By Black Dragon Mutants ([#61647](https://github.com/CleverRaven/Cataclysm-DDA/pull/61647))
 * [DinoMod] hadrosaurs eat mushrooms ([#61649](https://github.com/CleverRaven/Cataclysm-DDA/pull/61649))
-* Bypass move_effect check if force true when moving vertically ([#61641](https://github.com/CleverRaven/Cataclysm-DDA/pull/61641))
