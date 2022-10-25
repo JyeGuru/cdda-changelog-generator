@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-25-0332 (9a212d9)
+* removed pedestrian crossing tile in hub 01 entrance (#61905)
+
 Cataclysm-DDA experimental build 2022-10-24-1928 (c75285b)
 * Hub 01 intercom dialogue refinement, October edition (#61793)
 * [innawood] no game watches (#61819)
@@ -102,13 +105,10 @@ Cataclysm-DDA experimental build 2022-10-17-2316 (a453301)
 * Update MUTATIONS.md (#61729)
 * Indicate uselessness of radio beacon (#61735)
 * Add myself to /confirm permissions list (#61755)
-
-Cataclysm-DDA experimental build 2022-10-17-1717 (6aeded9)
 * [Xedra Evolved] fix Forge Dreamdross (#61743)
 * add bungalow 03 and 04 (#61705)
 * Add flaking rock -> sharp rock recipe (#61730)
 * Hash updates to latest for vcpkg (#61751)
-* Adjust Obrez (#61627)
 * Fix clang-tidy warning in game.cpp (#61739)
 * New wooden arrow rest (#61631)
 * Check infection immune flag instead of trait (#61719)
