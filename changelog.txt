@@ -94,8 +94,6 @@ Cataclysm-DDA experimental build 2022-10-18-0451 (282862b)
 * Prevent searchlights from searching areas they cannot see (#61725)
 * Tamable Frogs in Tamable_Wildlife mod (#61744)
 * make hot springs more rare (#61772)
-
-Cataclysm-DDA experimental build 2022-10-18-0339 (68908ca)
 * Fix elevators in hazardous waste sarcophagi (#61774)
 * Routine No Hope maintenance (#61710)
 * Changing "phone book" description to clarify (even more) that it does not reveal map information (#61734)

@@ -163,11 +163,6 @@
 * Prevent searchlights from searching areas they cannot see ([#61725](https://github.com/CleverRaven/Cataclysm-DDA/pull/61725))
 * Tamable Frogs in Tamable_Wildlife mod ([#61744](https://github.com/CleverRaven/Cataclysm-DDA/pull/61744))
 * make hot springs more rare ([#61772](https://github.com/CleverRaven/Cataclysm-DDA/pull/61772))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-18-0339 ([68908ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-18-0339))
-
 * Fix elevators in hazardous waste sarcophagi ([#61774](https://github.com/CleverRaven/Cataclysm-DDA/pull/61774))
 * Routine No Hope maintenance ([#61710](https://github.com/CleverRaven/Cataclysm-DDA/pull/61710))
 * Changing "phone book" description to clarify (even more) that it does not reveal map information ([#61734](https://github.com/CleverRaven/Cataclysm-DDA/pull/61734))
