@@ -169,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2022-10-18-0339 ([68908ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-18-0339))
 
 * Fix elevators in hazardous waste sarcophagi ([#61774](https://github.com/CleverRaven/Cataclysm-DDA/pull/61774))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-17-2316 ([a453301](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-17-2316))
-
 * Routine No Hope maintenance ([#61710](https://github.com/CleverRaven/Cataclysm-DDA/pull/61710))
 * Changing "phone book" description to clarify (even more) that it does not reveal map information ([#61734](https://github.com/CleverRaven/Cataclysm-DDA/pull/61734))
 * Add Big Sur-style macOS icons ([#61738](https://github.com/CleverRaven/Cataclysm-DDA/pull/61738))
