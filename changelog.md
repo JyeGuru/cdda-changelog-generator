@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-25-0724 ([a6edcec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-25-0724))
+
+* Improve handling of gasses ([#61839](https://github.com/CleverRaven/Cataclysm-DDA/pull/61839))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-25-0332 ([9a212d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-25-0332))
 
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
@@ -207,7 +213,6 @@
 * Add one name to remember ([#61646](https://github.com/CleverRaven/Cataclysm-DDA/pull/61646))
 * reduce barter value of fuels ([#61637](https://github.com/CleverRaven/Cataclysm-DDA/pull/61637))
 * fix heels armor ([#61635](https://github.com/CleverRaven/Cataclysm-DDA/pull/61635))
-* Arrow rests on primitive bows ([#61629](https://github.com/CleverRaven/Cataclysm-DDA/pull/61629))
 * [Magiclysm] Fixes Resilient Mutation Being Unobtainable By Black Dragon Mutants ([#61647](https://github.com/CleverRaven/Cataclysm-DDA/pull/61647))
 * [DinoMod] hadrosaurs eat mushrooms ([#61649](https://github.com/CleverRaven/Cataclysm-DDA/pull/61649))
 * Bypass move_effect check if force true when moving vertically ([#61641](https://github.com/CleverRaven/Cataclysm-DDA/pull/61641))
