@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-26-0507 ([ad6cafc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0507))
+
+* Expand merchant storage space ([#61877](https://github.com/CleverRaven/Cataclysm-DDA/pull/61877))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-26-0057 ([c21b171](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0057))
 
 * Caviar sandwich + bread material! ([#61817](https://github.com/CleverRaven/Cataclysm-DDA/pull/61817))
@@ -198,6 +204,5 @@
 * Smallest dogs don't zombify ([#61668](https://github.com/CleverRaven/Cataclysm-DDA/pull/61668))
 * Update the owner faction of count_by_charges items picked up ([#61656](https://github.com/CleverRaven/Cataclysm-DDA/pull/61656))
 * Minor update to Strip Mall ([#61671](https://github.com/CleverRaven/Cataclysm-DDA/pull/61671))
-* Lynx Fur armor rebalance ([#61652](https://github.com/CleverRaven/Cataclysm-DDA/pull/61652))
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
 * [DinoMod] dino skull helmets ([#61666](https://github.com/CleverRaven/Cataclysm-DDA/pull/61666))

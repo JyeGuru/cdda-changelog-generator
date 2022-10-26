@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-26-0507 (ad6cafc)
+* Expand merchant storage space (#61877)
+
 Cataclysm-DDA experimental build 2022-10-26-0057 (c21b171)
 * Caviar sandwich + bread material! (#61817)
 * Fixes name of XL medium plate armor (#61899)
@@ -132,6 +135,5 @@ Cataclysm-DDA experimental build 2022-10-19-0051 (d5c2ae7)
 * Smallest dogs don't zombify (#61668)
 * Update the owner faction of count_by_charges items picked up (#61656)
 * Minor update to Strip Mall (#61671)
-* Lynx Fur armor rebalance (#61652)
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions (#61669)
 * [DinoMod] dino skull helmets (#61666)
