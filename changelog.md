@@ -1,3 +1,10 @@
+* document monster difficulty scaling ([#61906](https://github.com/CleverRaven/Cataclysm-DDA/pull/61906))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-26-0920 ([ac78222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0920))
+
+* Fill deconstruct results with liquid ([#61934](https://github.com/CleverRaven/Cataclysm-DDA/pull/61934))
 
 ---
 
@@ -198,9 +205,7 @@
 * Make item subtypes available recursively ([#61695](https://github.com/CleverRaven/Cataclysm-DDA/pull/61695))
 * Fix Relic recharge to all moons ([#61674](https://github.com/CleverRaven/Cataclysm-DDA/pull/61674))
 * Handle `mon_null` in monster upgrade groups ([#61672](https://github.com/CleverRaven/Cataclysm-DDA/pull/61672))
-* Radiation correctly causes mutations again ([#61667](https://github.com/CleverRaven/Cataclysm-DDA/pull/61667))
 * port: fix grave inscription prompt size ([#61673](https://github.com/CleverRaven/Cataclysm-DDA/pull/61673))
 * [My Sweet Cataclysm] Scenario typo fix ([#61678](https://github.com/CleverRaven/Cataclysm-DDA/pull/61678))
-* Smallest dogs don't zombify ([#61668](https://github.com/CleverRaven/Cataclysm-DDA/pull/61668))
 * Minor update to Strip Mall ([#61671](https://github.com/CleverRaven/Cataclysm-DDA/pull/61671))
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
