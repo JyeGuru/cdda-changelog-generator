@@ -1,3 +1,5 @@
+* Update values of Football Helmet ([#61752](https://github.com/CleverRaven/Cataclysm-DDA/pull/61752))
+* Terrain can be smashed into open air ([#61761](https://github.com/CleverRaven/Cataclysm-DDA/pull/61761))
 * document monster difficulty scaling ([#61906](https://github.com/CleverRaven/Cataclysm-DDA/pull/61906))
 
 ---
@@ -207,5 +209,3 @@
 * Handle `mon_null` in monster upgrade groups ([#61672](https://github.com/CleverRaven/Cataclysm-DDA/pull/61672))
 * port: fix grave inscription prompt size ([#61673](https://github.com/CleverRaven/Cataclysm-DDA/pull/61673))
 * [My Sweet Cataclysm] Scenario typo fix ([#61678](https://github.com/CleverRaven/Cataclysm-DDA/pull/61678))
-* Minor update to Strip Mall ([#61671](https://github.com/CleverRaven/Cataclysm-DDA/pull/61671))
-* Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
