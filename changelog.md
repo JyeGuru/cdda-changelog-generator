@@ -1,3 +1,12 @@
+* Some more disassembly recipes & Size cleanup ([#61868](https://github.com/CleverRaven/Cataclysm-DDA/pull/61868))
+* [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
+* Remove unused gasfilter_l and recipe ([#61718](https://github.com/CleverRaven/Cataclysm-DDA/pull/61718))
+* Rework and limbify staunching bleeds ([#61726](https://github.com/CleverRaven/Cataclysm-DDA/pull/61726))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-26-1035 ([147efdd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-1035))
+
 * Update values of Football Helmet ([#61752](https://github.com/CleverRaven/Cataclysm-DDA/pull/61752))
 * Terrain can be smashed into open air ([#61761](https://github.com/CleverRaven/Cataclysm-DDA/pull/61761))
 * document monster difficulty scaling ([#61906](https://github.com/CleverRaven/Cataclysm-DDA/pull/61906))
@@ -157,7 +166,6 @@
 #### Cataclysm-DDA experimental build 2022-10-19-1711 ([fdc3085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-1711))
 
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
-* Aftershock: Monofilament Whip CBM ([#61676](https://github.com/CleverRaven/Cataclysm-DDA/pull/61676))
 
 ---
 
@@ -170,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-10-19-0515 ([c837fff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-0515))
 
 * Shivering lower fatigue recovery but only wakes you up if very cold ([#61708](https://github.com/CleverRaven/Cataclysm-DDA/pull/61708))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-19-0051 ([d5c2ae7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-0051))
-
 * iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
 * add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))
 * Show background proficiencies' descriptions when creating character ([#61732](https://github.com/CleverRaven/Cataclysm-DDA/pull/61732))
@@ -205,7 +208,4 @@
 * Routine i18n updates on 15 October 2022 ([#61703](https://github.com/CleverRaven/Cataclysm-DDA/pull/61703))
 * NPCs inquires about failed missions ([#61692](https://github.com/CleverRaven/Cataclysm-DDA/pull/61692))
 * Make item subtypes available recursively ([#61695](https://github.com/CleverRaven/Cataclysm-DDA/pull/61695))
-* Fix Relic recharge to all moons ([#61674](https://github.com/CleverRaven/Cataclysm-DDA/pull/61674))
-* Handle `mon_null` in monster upgrade groups ([#61672](https://github.com/CleverRaven/Cataclysm-DDA/pull/61672))
-* port: fix grave inscription prompt size ([#61673](https://github.com/CleverRaven/Cataclysm-DDA/pull/61673))
 * [My Sweet Cataclysm] Scenario typo fix ([#61678](https://github.com/CleverRaven/Cataclysm-DDA/pull/61678))
