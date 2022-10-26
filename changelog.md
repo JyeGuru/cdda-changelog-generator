@@ -1,3 +1,4 @@
+* Don't discharge fake vehicle batteries ([#61823](https://github.com/CleverRaven/Cataclysm-DDA/pull/61823))
 * Some more disassembly recipes & Size cleanup ([#61868](https://github.com/CleverRaven/Cataclysm-DDA/pull/61868))
 * [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
 * Remove unused gasfilter_l and recipe ([#61718](https://github.com/CleverRaven/Cataclysm-DDA/pull/61718))
@@ -208,4 +209,3 @@
 * Routine i18n updates on 15 October 2022 ([#61703](https://github.com/CleverRaven/Cataclysm-DDA/pull/61703))
 * NPCs inquires about failed missions ([#61692](https://github.com/CleverRaven/Cataclysm-DDA/pull/61692))
 * Make item subtypes available recursively ([#61695](https://github.com/CleverRaven/Cataclysm-DDA/pull/61695))
-* [My Sweet Cataclysm] Scenario typo fix ([#61678](https://github.com/CleverRaven/Cataclysm-DDA/pull/61678))
