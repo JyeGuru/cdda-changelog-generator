@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-26-0057 ([c21b171](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0057))
+
+* Caviar sandwich + bread material! ([#61817](https://github.com/CleverRaven/Cataclysm-DDA/pull/61817))
 * Fixes name of XL medium plate armor ([#61899](https://github.com/CleverRaven/Cataclysm-DDA/pull/61899))
 * auto labeler maintenance ([#61904](https://github.com/CleverRaven/Cataclysm-DDA/pull/61904))
 * Fix #61901 activating a lit Molotov causes it to explode ([#61912](https://github.com/CleverRaven/Cataclysm-DDA/pull/61912))
@@ -156,11 +162,6 @@
 
 * iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
 * add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-18-0617 ([4e3979f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-18-0617))
-
 * Show background proficiencies' descriptions when creating character ([#61732](https://github.com/CleverRaven/Cataclysm-DDA/pull/61732))
 * Prevent searchlights from searching areas they cannot see ([#61725](https://github.com/CleverRaven/Cataclysm-DDA/pull/61725))
 * Tamable Frogs in Tamable_Wildlife mod ([#61744](https://github.com/CleverRaven/Cataclysm-DDA/pull/61744))
@@ -200,5 +201,3 @@
 * Lynx Fur armor rebalance ([#61652](https://github.com/CleverRaven/Cataclysm-DDA/pull/61652))
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
 * [DinoMod] dino skull helmets ([#61666](https://github.com/CleverRaven/Cataclysm-DDA/pull/61666))
-* [Magiclysm] Fixes Resilient Mutation Being Unobtainable By Black Dragon Mutants ([#61647](https://github.com/CleverRaven/Cataclysm-DDA/pull/61647))
-* [DinoMod] hadrosaurs eat mushrooms ([#61649](https://github.com/CleverRaven/Cataclysm-DDA/pull/61649))
