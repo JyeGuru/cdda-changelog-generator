@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-26-1158 ([a338bfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-1158))
+
 * Don't discharge fake vehicle batteries ([#61823](https://github.com/CleverRaven/Cataclysm-DDA/pull/61823))
 * Some more disassembly recipes & Size cleanup ([#61868](https://github.com/CleverRaven/Cataclysm-DDA/pull/61868))
 * [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
@@ -167,17 +172,13 @@
 #### Cataclysm-DDA experimental build 2022-10-19-1711 ([fdc3085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-1711))
 
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
+* Aftershock: Monofilament Whip CBM ([#61676](https://github.com/CleverRaven/Cataclysm-DDA/pull/61676))
 
 ---
 
 #### Cataclysm-DDA experimental build 2022-10-19-1605 ([9e0e3e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-1605))
 
 * Get Portal Monster aggro to desired state ([#61699](https://github.com/CleverRaven/Cataclysm-DDA/pull/61699))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-19-0515 ([c837fff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-0515))
-
 * Shivering lower fatigue recovery but only wakes you up if very cold ([#61708](https://github.com/CleverRaven/Cataclysm-DDA/pull/61708))
 * iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
 * add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))
@@ -209,3 +210,4 @@
 * Routine i18n updates on 15 October 2022 ([#61703](https://github.com/CleverRaven/Cataclysm-DDA/pull/61703))
 * NPCs inquires about failed missions ([#61692](https://github.com/CleverRaven/Cataclysm-DDA/pull/61692))
 * Make item subtypes available recursively ([#61695](https://github.com/CleverRaven/Cataclysm-DDA/pull/61695))
+* [My Sweet Cataclysm] Scenario typo fix ([#61678](https://github.com/CleverRaven/Cataclysm-DDA/pull/61678))
