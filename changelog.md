@@ -202,7 +202,5 @@
 * port: fix grave inscription prompt size ([#61673](https://github.com/CleverRaven/Cataclysm-DDA/pull/61673))
 * [My Sweet Cataclysm] Scenario typo fix ([#61678](https://github.com/CleverRaven/Cataclysm-DDA/pull/61678))
 * Smallest dogs don't zombify ([#61668](https://github.com/CleverRaven/Cataclysm-DDA/pull/61668))
-* Update the owner faction of count_by_charges items picked up ([#61656](https://github.com/CleverRaven/Cataclysm-DDA/pull/61656))
 * Minor update to Strip Mall ([#61671](https://github.com/CleverRaven/Cataclysm-DDA/pull/61671))
 * Fixed regenerating zombie mutating into a crawler + rewrote medical zombie descriptions ([#61669](https://github.com/CleverRaven/Cataclysm-DDA/pull/61669))
-* [DinoMod] dino skull helmets ([#61666](https://github.com/CleverRaven/Cataclysm-DDA/pull/61666))
