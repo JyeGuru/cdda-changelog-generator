@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-27-0619 ([41acb30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-27-0619))
+
+* Fix Reciprocating Saw ([#61865](https://github.com/CleverRaven/Cataclysm-DDA/pull/61865))
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
 
@@ -162,11 +168,6 @@
 * NO_UNLOAD containers cannot be unloaded, even if liquid ([#61759](https://github.com/CleverRaven/Cataclysm-DDA/pull/61759))
 * Fix the scrap aluminum recipe error ([#61813](https://github.com/CleverRaven/Cataclysm-DDA/pull/61813))
 * Mutant mammals give mutant marrow ([#61784](https://github.com/CleverRaven/Cataclysm-DDA/pull/61784))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-19-2134 ([bb9050c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-2134))
-
 * Aftershock: Remove permanent disabling from EMPs ([#61799](https://github.com/CleverRaven/Cataclysm-DDA/pull/61799))
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
 * Get Portal Monster aggro to desired state ([#61699](https://github.com/CleverRaven/Cataclysm-DDA/pull/61699))
@@ -183,7 +184,6 @@
 * Add Big Sur-style macOS icons ([#61738](https://github.com/CleverRaven/Cataclysm-DDA/pull/61738))
 * Camera, SD-store iuse: dont act in item processing ([#61748](https://github.com/CleverRaven/Cataclysm-DDA/pull/61748))
 * Apply 'Force unarmed' martial art when smashing terrain/furniture ([#61765](https://github.com/CleverRaven/Cataclysm-DDA/pull/61765))
-* Follow-up mutation tweaks ([#61684](https://github.com/CleverRaven/Cataclysm-DDA/pull/61684))
 * Update MUTATIONS.md ([#61729](https://github.com/CleverRaven/Cataclysm-DDA/pull/61729))
 * Indicate uselessness of radio beacon ([#61735](https://github.com/CleverRaven/Cataclysm-DDA/pull/61735))
 * Add myself to /confirm permissions list ([#61755](https://github.com/CleverRaven/Cataclysm-DDA/pull/61755))
