@@ -1,3 +1,8 @@
+* Apocalypse themed zombie horse mutations. (#61847)
+* Try to fix NPC getting infinite loop during loot sorting (#61929)
+* Add hair styles from Crow's Hair Mod (#61940)
+* Sane Pop-up Pirate size (#61941)
+* feat: change labeler action for more smarter regex (#61946)
 * fix `t_hole` not acting like what holes should (#61972)
 * Routine No Hope maintenance [28.10.2022] (#61973)
 
@@ -23,7 +28,6 @@ Cataclysm-DDA experimental build 2022-10-26-1158 (a338bfd)
 * Don't discharge fake vehicle batteries (#61823)
 * Some more disassembly recipes & Size cleanup (#61868)
 * [Magiclysm] Dirty patches (#61903)
-* Remove unused gasfilter_l and recipe (#61718)
 * Rework and limbify staunching bleeds (#61726)
 
 Cataclysm-DDA experimental build 2022-10-26-1035 (147efdd)
@@ -75,9 +79,6 @@ Cataclysm-DDA experimental build 2022-10-24-0633 (71bdf7b)
 
 Cataclysm-DDA experimental build 2022-10-23-1029 (cc65209)
 * add bungalow 07 and 08 (#61876)
-
-Cataclysm-DDA experimental build 2022-10-22-1425 (e532171)
-* Updated definitions of some of St. John's farm OMTs (#61723)
 
 Cataclysm-DDA experimental build 2022-10-22-1229 (e3b27f0)
 * Mycus mutation category now works again, among other things (#61775)
@@ -131,6 +132,3 @@ Cataclysm-DDA experimental build 2022-10-20-1500 (1b0bd36)
 * Add flaking rock -> sharp rock recipe (#61730)
 * Hash updates to latest for vcpkg (#61751)
 * Fix clang-tidy warning in game.cpp (#61739)
-* Check infection immune flag instead of trait (#61719)
-* Add gas oven without microwave, fix gas oven bugs (#61717)
-* [DinoMod] scolo spellcheck (#61711)

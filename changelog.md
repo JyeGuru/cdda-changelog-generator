@@ -1,3 +1,8 @@
+* Apocalypse themed zombie horse mutations. ([#61847](https://github.com/CleverRaven/Cataclysm-DDA/pull/61847))
+* Try to fix NPC getting infinite loop during loot sorting ([#61929](https://github.com/CleverRaven/Cataclysm-DDA/pull/61929))
+* Add hair styles from Crow's Hair Mod ([#61940](https://github.com/CleverRaven/Cataclysm-DDA/pull/61940))
+* Sane Pop-up Pirate size ([#61941](https://github.com/CleverRaven/Cataclysm-DDA/pull/61941))
+* feat: change labeler action for more smarter regex ([#61946](https://github.com/CleverRaven/Cataclysm-DDA/pull/61946))
 * fix `t_hole` not acting like what holes should ([#61972](https://github.com/CleverRaven/Cataclysm-DDA/pull/61972))
 * Routine No Hope maintenance [28.10.2022] ([#61973](https://github.com/CleverRaven/Cataclysm-DDA/pull/61973))
 
@@ -41,7 +46,6 @@
 * Don't discharge fake vehicle batteries ([#61823](https://github.com/CleverRaven/Cataclysm-DDA/pull/61823))
 * Some more disassembly recipes & Size cleanup ([#61868](https://github.com/CleverRaven/Cataclysm-DDA/pull/61868))
 * [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
-* Remove unused gasfilter_l and recipe ([#61718](https://github.com/CleverRaven/Cataclysm-DDA/pull/61718))
 * Rework and limbify staunching bleeds ([#61726](https://github.com/CleverRaven/Cataclysm-DDA/pull/61726))
 
 ---
@@ -126,12 +130,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-10-22-1425 ([e532171](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-1425))
-
-* Updated definitions of some of St. John's farm OMTs ([#61723](https://github.com/CleverRaven/Cataclysm-DDA/pull/61723))
-
----
-
 #### Cataclysm-DDA experimental build 2022-10-22-1229 ([e3b27f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-1229))
 
 * Mycus mutation category now works again, among other things ([#61775](https://github.com/CleverRaven/Cataclysm-DDA/pull/61775))
@@ -200,6 +198,3 @@
 * Add flaking rock -> sharp rock recipe ([#61730](https://github.com/CleverRaven/Cataclysm-DDA/pull/61730))
 * Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
 * Fix clang-tidy warning in game.cpp ([#61739](https://github.com/CleverRaven/Cataclysm-DDA/pull/61739))
-* Check infection immune flag instead of trait ([#61719](https://github.com/CleverRaven/Cataclysm-DDA/pull/61719))
-* Add gas oven without microwave, fix gas oven bugs ([#61717](https://github.com/CleverRaven/Cataclysm-DDA/pull/61717))
-* [DinoMod] scolo spellcheck ([#61711](https://github.com/CleverRaven/Cataclysm-DDA/pull/61711))
