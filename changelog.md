@@ -1,3 +1,11 @@
+* Spawn Point Zones for scenarios and Aftershock bugfixing ([#61909](https://github.com/CleverRaven/Cataclysm-DDA/pull/61909))
+* Fix tablet and laptop storage ([#61943](https://github.com/CleverRaven/Cataclysm-DDA/pull/61943))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-28-0841 ([08d4253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-0841))
+
+* add pliers_locking and cbm multitool to wallwiring ([#61955](https://github.com/CleverRaven/Cataclysm-DDA/pull/61955))
 
 ---
 
@@ -188,13 +196,10 @@
 * Indicate uselessness of radio beacon ([#61735](https://github.com/CleverRaven/Cataclysm-DDA/pull/61735))
 * Add myself to /confirm permissions list ([#61755](https://github.com/CleverRaven/Cataclysm-DDA/pull/61755))
 * [Xedra Evolved] fix Forge Dreamdross ([#61743](https://github.com/CleverRaven/Cataclysm-DDA/pull/61743))
-* add bungalow 03 and 04 ([#61705](https://github.com/CleverRaven/Cataclysm-DDA/pull/61705))
 * Add flaking rock -> sharp rock recipe ([#61730](https://github.com/CleverRaven/Cataclysm-DDA/pull/61730))
 * Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
 * Fix clang-tidy warning in game.cpp ([#61739](https://github.com/CleverRaven/Cataclysm-DDA/pull/61739))
 * Check infection immune flag instead of trait ([#61719](https://github.com/CleverRaven/Cataclysm-DDA/pull/61719))
-* Adds 3 mutant dog types + their puppies ([#61704](https://github.com/CleverRaven/Cataclysm-DDA/pull/61704))
 * Add gas oven without microwave, fix gas oven bugs ([#61717](https://github.com/CleverRaven/Cataclysm-DDA/pull/61717))
 * [DinoMod] scolo spellcheck ([#61711](https://github.com/CleverRaven/Cataclysm-DDA/pull/61711))
 * Move infection immunity to a flag ([#61709](https://github.com/CleverRaven/Cataclysm-DDA/pull/61709))
-* Routine i18n updates on 15 October 2022 ([#61703](https://github.com/CleverRaven/Cataclysm-DDA/pull/61703))
