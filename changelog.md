@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-28-1801 ([0dc563e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-1801))
+
 * Apocalypse themed zombie horse mutations. ([#61847](https://github.com/CleverRaven/Cataclysm-DDA/pull/61847))
 * Try to fix NPC getting infinite loop during loot sorting ([#61929](https://github.com/CleverRaven/Cataclysm-DDA/pull/61929))
 * Add hair styles from Crow's Hair Mod ([#61940](https://github.com/CleverRaven/Cataclysm-DDA/pull/61940))
@@ -165,11 +170,6 @@
 * Improve JSON linting on windows/VS ([#61825](https://github.com/CleverRaven/Cataclysm-DDA/pull/61825))
 * Fix flimsy and glass jaw descriptions ([#61804](https://github.com/CleverRaven/Cataclysm-DDA/pull/61804))
 * Fixing curing roe recipe ([#61816](https://github.com/CleverRaven/Cataclysm-DDA/pull/61816))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-20-1500 ([1b0bd36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-20-1500))
-
 * mask fixes ([#61814](https://github.com/CleverRaven/Cataclysm-DDA/pull/61814))
 * Makes the NRE recorder EMP-proof and replaceable ([#61811](https://github.com/CleverRaven/Cataclysm-DDA/pull/61811))
 * fix ads cost ([#61822](https://github.com/CleverRaven/Cataclysm-DDA/pull/61822))
