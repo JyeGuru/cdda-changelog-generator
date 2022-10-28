@@ -1,3 +1,11 @@
+* fix `t_hole` not acting like what holes should ([#61972](https://github.com/CleverRaven/Cataclysm-DDA/pull/61972))
+* Routine No Hope maintenance [28.10.2022] ([#61973](https://github.com/CleverRaven/Cataclysm-DDA/pull/61973))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-28-1659 ([8437fa9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-1659))
+
+* Allow replacing broken parts ([#61976](https://github.com/CleverRaven/Cataclysm-DDA/pull/61976))
 
 ---
 
@@ -166,11 +174,6 @@
 
 * mask fixes ([#61814](https://github.com/CleverRaven/Cataclysm-DDA/pull/61814))
 * Makes the NRE recorder EMP-proof and replaceable ([#61811](https://github.com/CleverRaven/Cataclysm-DDA/pull/61811))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-20-1349 ([8ebc277](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-20-1349))
-
 * fix ads cost ([#61822](https://github.com/CleverRaven/Cataclysm-DDA/pull/61822))
 * emp doesn't drain batteries ([#61810](https://github.com/CleverRaven/Cataclysm-DDA/pull/61810))
 * Add myself to the bug confirm list ([#61818](https://github.com/CleverRaven/Cataclysm-DDA/pull/61818))
@@ -179,7 +182,6 @@
 * Mutant mammals give mutant marrow ([#61784](https://github.com/CleverRaven/Cataclysm-DDA/pull/61784))
 * Aftershock: Remove permanent disabling from EMPs ([#61799](https://github.com/CleverRaven/Cataclysm-DDA/pull/61799))
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
-* Shivering lower fatigue recovery but only wakes you up if very cold ([#61708](https://github.com/CleverRaven/Cataclysm-DDA/pull/61708))
 * iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
 * add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))
 * Show background proficiencies' descriptions when creating character ([#61732](https://github.com/CleverRaven/Cataclysm-DDA/pull/61732))
@@ -187,7 +189,6 @@
 * Tamable Frogs in Tamable_Wildlife mod ([#61744](https://github.com/CleverRaven/Cataclysm-DDA/pull/61744))
 * make hot springs more rare ([#61772](https://github.com/CleverRaven/Cataclysm-DDA/pull/61772))
 * Fix elevators in hazardous waste sarcophagi ([#61774](https://github.com/CleverRaven/Cataclysm-DDA/pull/61774))
-* Routine No Hope maintenance ([#61710](https://github.com/CleverRaven/Cataclysm-DDA/pull/61710))
 * Changing "phone book" description to clarify (even more) that it does not reveal map information ([#61734](https://github.com/CleverRaven/Cataclysm-DDA/pull/61734))
 * Add Big Sur-style macOS icons ([#61738](https://github.com/CleverRaven/Cataclysm-DDA/pull/61738))
 * Camera, SD-store iuse: dont act in item processing ([#61748](https://github.com/CleverRaven/Cataclysm-DDA/pull/61748))
@@ -202,4 +203,3 @@
 * Check infection immune flag instead of trait ([#61719](https://github.com/CleverRaven/Cataclysm-DDA/pull/61719))
 * Add gas oven without microwave, fix gas oven bugs ([#61717](https://github.com/CleverRaven/Cataclysm-DDA/pull/61717))
 * [DinoMod] scolo spellcheck ([#61711](https://github.com/CleverRaven/Cataclysm-DDA/pull/61711))
-* Move infection immunity to a flag ([#61709](https://github.com/CleverRaven/Cataclysm-DDA/pull/61709))
