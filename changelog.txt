@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-28-0639 (a22f97a)
+* Remove HURT fear trigger from nether species (#61949)
+
 Cataclysm-DDA experimental build 2022-10-27-0619 (41acb30)
 * Fix Reciprocating Saw (#61865)
 * Prefer itype_id translations for gun_type_type names (#61942)
@@ -97,14 +100,11 @@ Cataclysm-DDA experimental build 2022-10-20-1349 (8ebc277)
 Cataclysm-DDA experimental build 2022-10-20-0439 (9ca297c)
 * emp doesn't drain batteries (#61810)
 * Add myself to the bug confirm list (#61818)
-
-Cataclysm-DDA experimental build 2022-10-19-2238 (842769c)
 * NO_UNLOAD containers cannot be unloaded, even if liquid (#61759)
 * Fix the scrap aluminum recipe error (#61813)
 * Mutant mammals give mutant marrow (#61784)
 * Aftershock: Remove permanent disabling from EMPs (#61799)
 * MSC: Made Of Sugar forbids healing traits (#61803)
-* Get Portal Monster aggro to desired state (#61699)
 * Shivering lower fatigue recovery but only wakes you up if very cold (#61708)
 * iexamine: don't allow elevator use from outside (#61777)
 * add myself to bug confirm list (#61778)

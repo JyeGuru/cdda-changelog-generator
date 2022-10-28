@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-28-0639 ([a22f97a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-0639))
+
+* Remove HURT fear trigger from nether species ([#61949](https://github.com/CleverRaven/Cataclysm-DDA/pull/61949))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-27-0619 ([41acb30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-27-0619))
 
 * Fix Reciprocating Saw ([#61865](https://github.com/CleverRaven/Cataclysm-DDA/pull/61865))
@@ -160,17 +166,11 @@
 
 * emp doesn't drain batteries ([#61810](https://github.com/CleverRaven/Cataclysm-DDA/pull/61810))
 * Add myself to the bug confirm list ([#61818](https://github.com/CleverRaven/Cataclysm-DDA/pull/61818))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-19-2238 ([842769c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-19-2238))
-
 * NO_UNLOAD containers cannot be unloaded, even if liquid ([#61759](https://github.com/CleverRaven/Cataclysm-DDA/pull/61759))
 * Fix the scrap aluminum recipe error ([#61813](https://github.com/CleverRaven/Cataclysm-DDA/pull/61813))
 * Mutant mammals give mutant marrow ([#61784](https://github.com/CleverRaven/Cataclysm-DDA/pull/61784))
 * Aftershock: Remove permanent disabling from EMPs ([#61799](https://github.com/CleverRaven/Cataclysm-DDA/pull/61799))
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
-* Get Portal Monster aggro to desired state ([#61699](https://github.com/CleverRaven/Cataclysm-DDA/pull/61699))
 * Shivering lower fatigue recovery but only wakes you up if very cold ([#61708](https://github.com/CleverRaven/Cataclysm-DDA/pull/61708))
 * iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
 * add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))
