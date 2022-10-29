@@ -1,3 +1,10 @@
+* [Magiclysm] Various fixes ([#61815](https://github.com/CleverRaven/Cataclysm-DDA/pull/61815))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-28-2355 ([2b8bd99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-2355))
+
+* Magiclysm: Rigid aura and personal items get padded ([#61969](https://github.com/CleverRaven/Cataclysm-DDA/pull/61969))
 
 ---
 
@@ -51,7 +58,6 @@
 * Don't discharge fake vehicle batteries ([#61823](https://github.com/CleverRaven/Cataclysm-DDA/pull/61823))
 * Some more disassembly recipes & Size cleanup ([#61868](https://github.com/CleverRaven/Cataclysm-DDA/pull/61868))
 * [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
-* Rework and limbify staunching bleeds ([#61726](https://github.com/CleverRaven/Cataclysm-DDA/pull/61726))
 
 ---
 
@@ -190,7 +196,6 @@
 * Add Big Sur-style macOS icons ([#61738](https://github.com/CleverRaven/Cataclysm-DDA/pull/61738))
 * Camera, SD-store iuse: dont act in item processing ([#61748](https://github.com/CleverRaven/Cataclysm-DDA/pull/61748))
 * Apply 'Force unarmed' martial art when smashing terrain/furniture ([#61765](https://github.com/CleverRaven/Cataclysm-DDA/pull/61765))
-* Update MUTATIONS.md ([#61729](https://github.com/CleverRaven/Cataclysm-DDA/pull/61729))
 * Indicate uselessness of radio beacon ([#61735](https://github.com/CleverRaven/Cataclysm-DDA/pull/61735))
 * Add myself to /confirm permissions list ([#61755](https://github.com/CleverRaven/Cataclysm-DDA/pull/61755))
 * [Xedra Evolved] fix Forge Dreamdross ([#61743](https://github.com/CleverRaven/Cataclysm-DDA/pull/61743))

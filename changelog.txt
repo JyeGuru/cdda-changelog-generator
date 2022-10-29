@@ -1,3 +1,7 @@
+* [Magiclysm] Various fixes (#61815)
+
+Cataclysm-DDA experimental build 2022-10-28-2355 (2b8bd99)
+* Magiclysm: Rigid aura and personal items get padded (#61969)
 
 Cataclysm-DDA experimental build 2022-10-28-1801 (0dc563e)
 * Apocalypse themed zombie horse mutations. (#61847)
@@ -30,7 +34,6 @@ Cataclysm-DDA experimental build 2022-10-26-1158 (a338bfd)
 * Don't discharge fake vehicle batteries (#61823)
 * Some more disassembly recipes & Size cleanup (#61868)
 * [Magiclysm] Dirty patches (#61903)
-* Rework and limbify staunching bleeds (#61726)
 
 Cataclysm-DDA experimental build 2022-10-26-1035 (147efdd)
 * Update values of Football Helmet (#61752)
@@ -124,7 +127,6 @@ Cataclysm-DDA experimental build 2022-10-21-0215 (444b6dd)
 * Add Big Sur-style macOS icons (#61738)
 * Camera, SD-store iuse: dont act in item processing (#61748)
 * Apply 'Force unarmed' martial art when smashing terrain/furniture (#61765)
-* Update MUTATIONS.md (#61729)
 * Indicate uselessness of radio beacon (#61735)
 * Add myself to /confirm permissions list (#61755)
 * [Xedra Evolved] fix Forge Dreamdross (#61743)
