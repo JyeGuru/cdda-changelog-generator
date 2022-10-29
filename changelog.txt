@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-10-29-0056 (deff4fc)
+* Ignore liquids in tiles with LIQUIDCONT flag when picking up (#61958)
 * [Magiclysm] Various fixes (#61815)
 
 Cataclysm-DDA experimental build 2022-10-28-2355 (2b8bd99)
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2022-10-22-0526 (3c1b99e)
 
 Cataclysm-DDA experimental build 2022-10-21-0712 (26a4725)
 * Adjust wall position in Ancilla Bar (#61831)
-
-Cataclysm-DDA experimental build 2022-10-21-0215 (444b6dd)
 * Add bungalow 05 and 06 (#61820)
 * Improve JSON linting on windows/VS (#61825)
 * Fix flimsy and glass jaw descriptions (#61804)
@@ -130,6 +131,5 @@ Cataclysm-DDA experimental build 2022-10-21-0215 (444b6dd)
 * Indicate uselessness of radio beacon (#61735)
 * Add myself to /confirm permissions list (#61755)
 * [Xedra Evolved] fix Forge Dreamdross (#61743)
-* Add flaking rock -> sharp rock recipe (#61730)
 * Hash updates to latest for vcpkg (#61751)
 * Fix clang-tidy warning in game.cpp (#61739)

@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-29-0056 ([deff4fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-0056))
+
+* Ignore liquids in tiles with LIQUIDCONT flag when picking up ([#61958](https://github.com/CleverRaven/Cataclysm-DDA/pull/61958))
 * [Magiclysm] Various fixes ([#61815](https://github.com/CleverRaven/Cataclysm-DDA/pull/61815))
 
 ---
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-10-21-0712 ([26a4725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-21-0712))
 
 * Adjust wall position in Ancilla Bar ([#61831](https://github.com/CleverRaven/Cataclysm-DDA/pull/61831))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-21-0215 ([444b6dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-21-0215))
-
 * Add bungalow 05 and 06 ([#61820](https://github.com/CleverRaven/Cataclysm-DDA/pull/61820))
 * Improve JSON linting on windows/VS ([#61825](https://github.com/CleverRaven/Cataclysm-DDA/pull/61825))
 * Fix flimsy and glass jaw descriptions ([#61804](https://github.com/CleverRaven/Cataclysm-DDA/pull/61804))
@@ -199,6 +200,5 @@
 * Indicate uselessness of radio beacon ([#61735](https://github.com/CleverRaven/Cataclysm-DDA/pull/61735))
 * Add myself to /confirm permissions list ([#61755](https://github.com/CleverRaven/Cataclysm-DDA/pull/61755))
 * [Xedra Evolved] fix Forge Dreamdross ([#61743](https://github.com/CleverRaven/Cataclysm-DDA/pull/61743))
-* Add flaking rock -> sharp rock recipe ([#61730](https://github.com/CleverRaven/Cataclysm-DDA/pull/61730))
 * Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
 * Fix clang-tidy warning in game.cpp ([#61739](https://github.com/CleverRaven/Cataclysm-DDA/pull/61739))
