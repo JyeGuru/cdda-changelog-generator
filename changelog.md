@@ -1,3 +1,13 @@
+* Proper stats for container inventory menu ([#61974](https://github.com/CleverRaven/Cataclysm-DDA/pull/61974))
+* [Backrooms] Monster group nesting fix; slightly more emptiness ([#61975](https://github.com/CleverRaven/Cataclysm-DDA/pull/61975))
+* Fix holstering items that don't fit in parent container of the holster ([#61983](https://github.com/CleverRaven/Cataclysm-DDA/pull/61983))
+* Active lightstrip won't die on their second turn no more ([#61994](https://github.com/CleverRaven/Cataclysm-DDA/pull/61994))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-29-1734 ([2872fa4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-1734))
+
+* [Xedra Evolved] Misc ([#61995](https://github.com/CleverRaven/Cataclysm-DDA/pull/61995))
 
 ---
 
@@ -167,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2022-10-22-1122 ([3772144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-1122))
 
 * Fix a CtD ([#61853](https://github.com/CleverRaven/Cataclysm-DDA/pull/61853))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-22-0526 ([3c1b99e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-0526))
-
 * Fix charge usage for short string from electric spinwheel ([#61824](https://github.com/CleverRaven/Cataclysm-DDA/pull/61824))
 * Adjust wall position in Ancilla Bar ([#61831](https://github.com/CleverRaven/Cataclysm-DDA/pull/61831))
 * Add bungalow 05 and 06 ([#61820](https://github.com/CleverRaven/Cataclysm-DDA/pull/61820))
@@ -190,14 +195,9 @@
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
 * iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
 * add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))
-* Tamable Frogs in Tamable_Wildlife mod ([#61744](https://github.com/CleverRaven/Cataclysm-DDA/pull/61744))
 * make hot springs more rare ([#61772](https://github.com/CleverRaven/Cataclysm-DDA/pull/61772))
 * Fix elevators in hazardous waste sarcophagi ([#61774](https://github.com/CleverRaven/Cataclysm-DDA/pull/61774))
-* Add Big Sur-style macOS icons ([#61738](https://github.com/CleverRaven/Cataclysm-DDA/pull/61738))
 * Camera, SD-store iuse: dont act in item processing ([#61748](https://github.com/CleverRaven/Cataclysm-DDA/pull/61748))
 * Apply 'Force unarmed' martial art when smashing terrain/furniture ([#61765](https://github.com/CleverRaven/Cataclysm-DDA/pull/61765))
-* Indicate uselessness of radio beacon ([#61735](https://github.com/CleverRaven/Cataclysm-DDA/pull/61735))
 * Add myself to /confirm permissions list ([#61755](https://github.com/CleverRaven/Cataclysm-DDA/pull/61755))
-* [Xedra Evolved] fix Forge Dreamdross ([#61743](https://github.com/CleverRaven/Cataclysm-DDA/pull/61743))
 * Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
-* Fix clang-tidy warning in game.cpp ([#61739](https://github.com/CleverRaven/Cataclysm-DDA/pull/61739))
