@@ -193,7 +193,6 @@
 * Tamable Frogs in Tamable_Wildlife mod ([#61744](https://github.com/CleverRaven/Cataclysm-DDA/pull/61744))
 * make hot springs more rare ([#61772](https://github.com/CleverRaven/Cataclysm-DDA/pull/61772))
 * Fix elevators in hazardous waste sarcophagi ([#61774](https://github.com/CleverRaven/Cataclysm-DDA/pull/61774))
-* Changing "phone book" description to clarify (even more) that it does not reveal map information ([#61734](https://github.com/CleverRaven/Cataclysm-DDA/pull/61734))
 * Add Big Sur-style macOS icons ([#61738](https://github.com/CleverRaven/Cataclysm-DDA/pull/61738))
 * Camera, SD-store iuse: dont act in item processing ([#61748](https://github.com/CleverRaven/Cataclysm-DDA/pull/61748))
 * Apply 'Force unarmed' martial art when smashing terrain/furniture ([#61765](https://github.com/CleverRaven/Cataclysm-DDA/pull/61765))
