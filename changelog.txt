@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-29-0658 (7082ac9)
 * Routine i18n updates on 29 October 2022 (#61990)
 
 Cataclysm-DDA experimental build 2022-10-29-0056 (deff4fc)
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2022-10-22-1122 (3772144)
 
 Cataclysm-DDA experimental build 2022-10-22-0526 (3c1b99e)
 * Fix charge usage for short string from electric spinwheel (#61824)
-
-Cataclysm-DDA experimental build 2022-10-21-0712 (26a4725)
 * Adjust wall position in Ancilla Bar (#61831)
 * Add bungalow 05 and 06 (#61820)
 * Improve JSON linting on windows/VS (#61825)

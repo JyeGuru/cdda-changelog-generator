@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-29-0658 ([7082ac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-0658))
+
 * Routine i18n updates on 29 October 2022 ([#61990](https://github.com/CleverRaven/Cataclysm-DDA/pull/61990))
 
 ---
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-10-22-0526 ([3c1b99e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-0526))
 
 * Fix charge usage for short string from electric spinwheel ([#61824](https://github.com/CleverRaven/Cataclysm-DDA/pull/61824))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-21-0712 ([26a4725](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-21-0712))
-
 * Adjust wall position in Ancilla Bar ([#61831](https://github.com/CleverRaven/Cataclysm-DDA/pull/61831))
 * Add bungalow 05 and 06 ([#61820](https://github.com/CleverRaven/Cataclysm-DDA/pull/61820))
 * Improve JSON linting on windows/VS ([#61825](https://github.com/CleverRaven/Cataclysm-DDA/pull/61825))
