@@ -1,3 +1,4 @@
+* Routine i18n updates on 29 October 2022 ([#61990](https://github.com/CleverRaven/Cataclysm-DDA/pull/61990))
 
 ---
 
@@ -189,7 +190,6 @@
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
 * iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
 * add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))
-* Show background proficiencies' descriptions when creating character ([#61732](https://github.com/CleverRaven/Cataclysm-DDA/pull/61732))
 * Tamable Frogs in Tamable_Wildlife mod ([#61744](https://github.com/CleverRaven/Cataclysm-DDA/pull/61744))
 * make hot springs more rare ([#61772](https://github.com/CleverRaven/Cataclysm-DDA/pull/61772))
 * Fix elevators in hazardous waste sarcophagi ([#61774](https://github.com/CleverRaven/Cataclysm-DDA/pull/61774))
