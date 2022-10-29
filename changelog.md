@@ -1,3 +1,9 @@
+* revert labeler to a working state ([#61989](https://github.com/CleverRaven/Cataclysm-DDA/pull/61989))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-29-1907 ([743cc44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-1907))
+
 * Magiclysm: fixes use action on drinkable mutagen ([#61956](https://github.com/CleverRaven/Cataclysm-DDA/pull/61956))
 * Fix some warnings on LGTM ([#61960](https://github.com/CleverRaven/Cataclysm-DDA/pull/61960))
 * Aftershock and Dinomod Mutagen fixes ([#61963](https://github.com/CleverRaven/Cataclysm-DDA/pull/61963))
@@ -83,12 +89,6 @@
 * Don't discharge fake vehicle batteries ([#61823](https://github.com/CleverRaven/Cataclysm-DDA/pull/61823))
 * Some more disassembly recipes & Size cleanup ([#61868](https://github.com/CleverRaven/Cataclysm-DDA/pull/61868))
 * [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-26-1035 ([147efdd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-1035))
-
-* Update values of Football Helmet ([#61752](https://github.com/CleverRaven/Cataclysm-DDA/pull/61752))
 * Terrain can be smashed into open air ([#61761](https://github.com/CleverRaven/Cataclysm-DDA/pull/61761))
 * document monster difficulty scaling ([#61906](https://github.com/CleverRaven/Cataclysm-DDA/pull/61906))
 
@@ -174,11 +174,6 @@
 * Placed aftershock robots are pets ([#61830](https://github.com/CleverRaven/Cataclysm-DDA/pull/61830))
 * Fix the Aftershock Translocator ([#61829](https://github.com/CleverRaven/Cataclysm-DDA/pull/61829))
 * Corrected path to look for msgfmt.exe in lang/CMakeLists.txt ([#61858](https://github.com/CleverRaven/Cataclysm-DDA/pull/61858))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-22-1122 ([3772144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-1122))
-
 * Fix a CtD ([#61853](https://github.com/CleverRaven/Cataclysm-DDA/pull/61853))
 * Fix charge usage for short string from electric spinwheel ([#61824](https://github.com/CleverRaven/Cataclysm-DDA/pull/61824))
 * Adjust wall position in Ancilla Bar ([#61831](https://github.com/CleverRaven/Cataclysm-DDA/pull/61831))
@@ -202,4 +197,3 @@
 * Fix elevators in hazardous waste sarcophagi ([#61774](https://github.com/CleverRaven/Cataclysm-DDA/pull/61774))
 * Apply 'Force unarmed' martial art when smashing terrain/furniture ([#61765](https://github.com/CleverRaven/Cataclysm-DDA/pull/61765))
 * Add myself to /confirm permissions list ([#61755](https://github.com/CleverRaven/Cataclysm-DDA/pull/61755))
-* Hash updates to latest for vcpkg ([#61751](https://github.com/CleverRaven/Cataclysm-DDA/pull/61751))
