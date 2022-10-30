@@ -1,3 +1,10 @@
+* Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-30-2148 ([fa03493](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-2148))
+
+* Added hiking pants ([#61945](https://github.com/CleverRaven/Cataclysm-DDA/pull/61945))
 
 ---
 
@@ -167,11 +174,6 @@
 * Respect `Force unarmed` martial art style when calculating stamina cost ([#61863](https://github.com/CleverRaven/Cataclysm-DDA/pull/61863))
 * accepts merch straps and bundles ([#61869](https://github.com/CleverRaven/Cataclysm-DDA/pull/61869))
 * Changed JSON to reflect empty air ([#61875](https://github.com/CleverRaven/Cataclysm-DDA/pull/61875))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-24-1810 ([120f000](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-24-1810))
-
 * Fix overmap file loading from MA mod on Android ([#61879](https://github.com/CleverRaven/Cataclysm-DDA/pull/61879))
 * Fix missing translating elements in 2 parsers ([#61882](https://github.com/CleverRaven/Cataclysm-DDA/pull/61882))
 * Routine tileset updates on 23 October 2022 ([#61890](https://github.com/CleverRaven/Cataclysm-DDA/pull/61890))
@@ -200,4 +202,3 @@
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
 * iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
 * add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))
-* Fix elevators in hazardous waste sarcophagi ([#61774](https://github.com/CleverRaven/Cataclysm-DDA/pull/61774))

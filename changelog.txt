@@ -1,3 +1,7 @@
+* Tempered jian and wakizashi use medium steel (#62012)
+
+Cataclysm-DDA experimental build 2022-10-30-2148 (fa03493)
+* Added hiking pants (#61945)
 
 Cataclysm-DDA experimental build 2022-10-30-1837 (d95dc07)
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario (#61993)
@@ -101,8 +105,6 @@ Cataclysm-DDA experimental build 2022-10-24-1928 (c75285b)
 * Respect `Force unarmed` martial art style when calculating stamina cost (#61863)
 * accepts merch straps and bundles (#61869)
 * Changed JSON to reflect empty air (#61875)
-
-Cataclysm-DDA experimental build 2022-10-24-1810 (120f000)
 * Fix overmap file loading from MA mod on Android (#61879)
 * Fix missing translating elements in 2 parsers (#61882)
 * Routine tileset updates on 23 October 2022 (#61890)
@@ -131,4 +133,3 @@ Cataclysm-DDA experimental build 2022-10-24-1810 (120f000)
 * MSC: Made Of Sugar forbids healing traits (#61803)
 * iexamine: don't allow elevator use from outside (#61777)
 * add myself to bug confirm list (#61778)
-* Fix elevators in hazardous waste sarcophagi (#61774)
