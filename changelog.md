@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-30-2346 ([63c5555](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-2346))
+
+* Magiclysm minor weight and volume  fixes ([#61917](https://github.com/CleverRaven/Cataclysm-DDA/pull/61917))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-30-2245 ([71f1763](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-2245))
 
 * Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))
@@ -157,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-10-25-0724 ([a6edcec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-25-0724))
 
 * Improve handling of gasses ([#61839](https://github.com/CleverRaven/Cataclysm-DDA/pull/61839))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-25-0332 ([9a212d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-25-0332))
-
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
 * Hub 01 intercom dialogue refinement, October edition ([#61793](https://github.com/CleverRaven/Cataclysm-DDA/pull/61793))
 * [innawood] no game watches ([#61819](https://github.com/CleverRaven/Cataclysm-DDA/pull/61819))
@@ -178,7 +179,6 @@
 * Fix missing translating elements in 2 parsers ([#61882](https://github.com/CleverRaven/Cataclysm-DDA/pull/61882))
 * Routine tileset updates on 23 October 2022 ([#61890](https://github.com/CleverRaven/Cataclysm-DDA/pull/61890))
 * add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
-* Mycus mutation category now works again, among other things ([#61775](https://github.com/CleverRaven/Cataclysm-DDA/pull/61775))
 * Give Sadie more survival options. ([#61795](https://github.com/CleverRaven/Cataclysm-DDA/pull/61795))
 * Towel that got wet from swimming will now dry ([#61838](https://github.com/CleverRaven/Cataclysm-DDA/pull/61838))
 * Placed aftershock robots are pets ([#61830](https://github.com/CleverRaven/Cataclysm-DDA/pull/61830))
