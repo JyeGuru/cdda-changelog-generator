@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-30-1837 (d95dc07)
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario (#61993)
 
 Cataclysm-DDA experimental build 2022-10-30-1652 (3bf0181)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2022-10-24-1810 (120f000)
 
 Cataclysm-DDA experimental build 2022-10-24-0633 (71bdf7b)
 * Routine tileset updates on 23 October 2022 (#61890)
-
-Cataclysm-DDA experimental build 2022-10-23-1029 (cc65209)
 * add bungalow 07 and 08 (#61876)
 * Mycus mutation category now works again, among other things (#61775)
 * Give Sadie more survival options. (#61795)
