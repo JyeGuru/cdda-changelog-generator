@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-30-0525 ([944a61d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-0525))
+
+* Fix cotton sheet bundles giving patches ([#61978](https://github.com/CleverRaven/Cataclysm-DDA/pull/61978))
 * revert labeler to a working state ([#61989](https://github.com/CleverRaven/Cataclysm-DDA/pull/61989))
 
 ---
@@ -163,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2022-10-23-1029 ([cc65209](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-23-1029))
 
 * add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-22-1229 ([e3b27f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-22-1229))
-
 * Mycus mutation category now works again, among other things ([#61775](https://github.com/CleverRaven/Cataclysm-DDA/pull/61775))
 * Give Sadie more survival options. ([#61795](https://github.com/CleverRaven/Cataclysm-DDA/pull/61795))
 * Towel that got wet from swimming will now dry ([#61838](https://github.com/CleverRaven/Cataclysm-DDA/pull/61838))
@@ -186,7 +187,6 @@
 * fix ads cost ([#61822](https://github.com/CleverRaven/Cataclysm-DDA/pull/61822))
 * emp doesn't drain batteries ([#61810](https://github.com/CleverRaven/Cataclysm-DDA/pull/61810))
 * Add myself to the bug confirm list ([#61818](https://github.com/CleverRaven/Cataclysm-DDA/pull/61818))
-* NO_UNLOAD containers cannot be unloaded, even if liquid ([#61759](https://github.com/CleverRaven/Cataclysm-DDA/pull/61759))
 * Fix the scrap aluminum recipe error ([#61813](https://github.com/CleverRaven/Cataclysm-DDA/pull/61813))
 * Mutant mammals give mutant marrow ([#61784](https://github.com/CleverRaven/Cataclysm-DDA/pull/61784))
 * Aftershock: Remove permanent disabling from EMPs ([#61799](https://github.com/CleverRaven/Cataclysm-DDA/pull/61799))
