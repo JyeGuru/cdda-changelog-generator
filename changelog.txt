@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-10-30-2245 (71f1763)
 * Tempered jian and wakizashi use medium steel (#62012)
 
 Cataclysm-DDA experimental build 2022-10-30-2148 (fa03493)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2022-10-25-0724 (a6edcec)
 
 Cataclysm-DDA experimental build 2022-10-25-0332 (9a212d9)
 * removed pedestrian crossing tile in hub 01 entrance (#61905)
-
-Cataclysm-DDA experimental build 2022-10-24-1928 (c75285b)
 * Hub 01 intercom dialogue refinement, October edition (#61793)
 * [innawood] no game watches (#61819)
 * zones: restore custom zone filtering for containers (#61835)

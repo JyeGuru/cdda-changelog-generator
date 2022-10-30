@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-30-2245 ([71f1763](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-2245))
+
 * Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))
 
 ---
@@ -158,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-10-25-0332 ([9a212d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-25-0332))
 
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-24-1928 ([c75285b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-24-1928))
-
 * Hub 01 intercom dialogue refinement, October edition ([#61793](https://github.com/CleverRaven/Cataclysm-DDA/pull/61793))
 * [innawood] no game watches ([#61819](https://github.com/CleverRaven/Cataclysm-DDA/pull/61819))
 * zones: restore custom zone filtering for containers ([#61835](https://github.com/CleverRaven/Cataclysm-DDA/pull/61835))
