@@ -174,11 +174,6 @@
 
 * Fix overmap file loading from MA mod on Android ([#61879](https://github.com/CleverRaven/Cataclysm-DDA/pull/61879))
 * Fix missing translating elements in 2 parsers ([#61882](https://github.com/CleverRaven/Cataclysm-DDA/pull/61882))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-24-0633 ([71bdf7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-24-0633))
-
 * Routine tileset updates on 23 October 2022 ([#61890](https://github.com/CleverRaven/Cataclysm-DDA/pull/61890))
 * add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
 * Mycus mutation category now works again, among other things ([#61775](https://github.com/CleverRaven/Cataclysm-DDA/pull/61775))
