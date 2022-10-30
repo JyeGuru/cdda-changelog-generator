@@ -1,3 +1,4 @@
+* [Magiclysm] Mixed stuff ([#61951](https://github.com/CleverRaven/Cataclysm-DDA/pull/61951))
 
 ---
 
@@ -200,5 +201,4 @@
 * Mutant mammals give mutant marrow ([#61784](https://github.com/CleverRaven/Cataclysm-DDA/pull/61784))
 * Aftershock: Remove permanent disabling from EMPs ([#61799](https://github.com/CleverRaven/Cataclysm-DDA/pull/61799))
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
-* iexamine: don't allow elevator use from outside ([#61777](https://github.com/CleverRaven/Cataclysm-DDA/pull/61777))
 * add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))

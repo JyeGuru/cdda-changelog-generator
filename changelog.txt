@@ -1,3 +1,4 @@
+* [Magiclysm] Mixed stuff (#61951)
 
 Cataclysm-DDA experimental build 2022-10-30-2346 (63c5555)
 * Magiclysm minor weight and volume  fixes (#61917)
@@ -131,5 +132,4 @@ Cataclysm-DDA experimental build 2022-10-25-0724 (a6edcec)
 * Mutant mammals give mutant marrow (#61784)
 * Aftershock: Remove permanent disabling from EMPs (#61799)
 * MSC: Made Of Sugar forbids healing traits (#61803)
-* iexamine: don't allow elevator use from outside (#61777)
 * add myself to bug confirm list (#61778)
