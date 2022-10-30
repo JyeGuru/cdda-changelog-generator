@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-30-0948 ([aa2a276](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-0948))
+
+* Standardize hairstyle names ([#62010](https://github.com/CleverRaven/Cataclysm-DDA/pull/62010))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-30-0525 ([944a61d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-0525))
 
 * Fix cotton sheet bundles giving patches ([#61978](https://github.com/CleverRaven/Cataclysm-DDA/pull/61978))
@@ -95,7 +101,6 @@
 * Don't discharge fake vehicle batteries ([#61823](https://github.com/CleverRaven/Cataclysm-DDA/pull/61823))
 * Some more disassembly recipes & Size cleanup ([#61868](https://github.com/CleverRaven/Cataclysm-DDA/pull/61868))
 * [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
-* Terrain can be smashed into open air ([#61761](https://github.com/CleverRaven/Cataclysm-DDA/pull/61761))
 * document monster difficulty scaling ([#61906](https://github.com/CleverRaven/Cataclysm-DDA/pull/61906))
 
 ---

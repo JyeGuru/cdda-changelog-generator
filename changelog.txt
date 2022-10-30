@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-30-0948 (aa2a276)
+* Standardize hairstyle names (#62010)
+
 Cataclysm-DDA experimental build 2022-10-30-0525 (944a61d)
 * Fix cotton sheet bundles giving patches (#61978)
 * revert labeler to a working state (#61989)
@@ -56,7 +59,6 @@ Cataclysm-DDA experimental build 2022-10-26-1158 (a338bfd)
 * Don't discharge fake vehicle batteries (#61823)
 * Some more disassembly recipes & Size cleanup (#61868)
 * [Magiclysm] Dirty patches (#61903)
-* Terrain can be smashed into open air (#61761)
 * document monster difficulty scaling (#61906)
 
 Cataclysm-DDA experimental build 2022-10-26-0920 (ac78222)
