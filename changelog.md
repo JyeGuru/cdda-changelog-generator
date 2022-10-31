@@ -1,3 +1,10 @@
+* add new magiclysm snippet ([#62023](https://github.com/CleverRaven/Cataclysm-DDA/pull/62023))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-31-2246 ([b260361](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-2246))
+
+* creature: check ALL_SEEING before potential los ([#62031](https://github.com/CleverRaven/Cataclysm-DDA/pull/62031))
 
 ---
 
@@ -177,7 +184,6 @@
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
 * Improve handling of gasses ([#61839](https://github.com/CleverRaven/Cataclysm-DDA/pull/61839))
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
-* Hub 01 intercom dialogue refinement, October edition ([#61793](https://github.com/CleverRaven/Cataclysm-DDA/pull/61793))
 * [innawood] no game watches ([#61819](https://github.com/CleverRaven/Cataclysm-DDA/pull/61819))
 * zones: restore custom zone filtering for containers ([#61835](https://github.com/CleverRaven/Cataclysm-DDA/pull/61835))
 * Fix horn moss transform into nothing ([#61851](https://github.com/CleverRaven/Cataclysm-DDA/pull/61851))
@@ -210,6 +216,5 @@
 * emp doesn't drain batteries ([#61810](https://github.com/CleverRaven/Cataclysm-DDA/pull/61810))
 * Add myself to the bug confirm list ([#61818](https://github.com/CleverRaven/Cataclysm-DDA/pull/61818))
 * Fix the scrap aluminum recipe error ([#61813](https://github.com/CleverRaven/Cataclysm-DDA/pull/61813))
-* Mutant mammals give mutant marrow ([#61784](https://github.com/CleverRaven/Cataclysm-DDA/pull/61784))
 * Aftershock: Remove permanent disabling from EMPs ([#61799](https://github.com/CleverRaven/Cataclysm-DDA/pull/61799))
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
