@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-31-1927 ([a32d046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-1927))
+
+* [Magiclysm] I am the storm that is approaching ([#61982](https://github.com/CleverRaven/Cataclysm-DDA/pull/61982))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-31-0547 ([2c9a96c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-0547))
 
 * Routine tileset updates on 30 October 2022 ([#62026](https://github.com/CleverRaven/Cataclysm-DDA/pull/62026))
