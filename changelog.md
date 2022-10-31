@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-10-31-0547 ([2c9a96c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-0547))
+
+* Routine tileset updates on 30 October 2022 ([#62026](https://github.com/CleverRaven/Cataclysm-DDA/pull/62026))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-10-31-0039 ([8e7b4a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-0039))
 
 * [Magiclysm] Mixed stuff ([#61951](https://github.com/CleverRaven/Cataclysm-DDA/pull/61951))
@@ -201,4 +207,3 @@
 * Mutant mammals give mutant marrow ([#61784](https://github.com/CleverRaven/Cataclysm-DDA/pull/61784))
 * Aftershock: Remove permanent disabling from EMPs ([#61799](https://github.com/CleverRaven/Cataclysm-DDA/pull/61799))
 * MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
-* add myself to bug confirm list ([#61778](https://github.com/CleverRaven/Cataclysm-DDA/pull/61778))

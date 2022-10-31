@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-10-31-0547 (2c9a96c)
+* Routine tileset updates on 30 October 2022 (#62026)
+
 Cataclysm-DDA experimental build 2022-10-31-0039 (8e7b4a9)
 * [Magiclysm] Mixed stuff (#61951)
 
@@ -132,4 +135,3 @@ Cataclysm-DDA experimental build 2022-10-26-0057 (c21b171)
 * Mutant mammals give mutant marrow (#61784)
 * Aftershock: Remove permanent disabling from EMPs (#61799)
 * MSC: Made Of Sugar forbids healing traits (#61803)
-* add myself to bug confirm list (#61778)
