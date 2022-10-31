@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-31-0039 ([8e7b4a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-0039))
+
 * [Magiclysm] Mixed stuff ([#61951](https://github.com/CleverRaven/Cataclysm-DDA/pull/61951))
 
 ---
@@ -158,11 +163,6 @@
 * Fix popup when moving from [A] using AIM ([#61927](https://github.com/CleverRaven/Cataclysm-DDA/pull/61927))
 * Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly ([#61930](https://github.com/CleverRaven/Cataclysm-DDA/pull/61930))
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-25-0724 ([a6edcec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-25-0724))
-
 * Improve handling of gasses ([#61839](https://github.com/CleverRaven/Cataclysm-DDA/pull/61839))
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
 * Hub 01 intercom dialogue refinement, October edition ([#61793](https://github.com/CleverRaven/Cataclysm-DDA/pull/61793))
