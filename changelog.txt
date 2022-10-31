@@ -1,3 +1,4 @@
+* ci: labeler already capable of sub-string searches (#62022)
 * add new magiclysm snippet (#62023)
 
 Cataclysm-DDA experimental build 2022-10-31-2246 (b260361)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2022-10-26-0057 (c21b171)
 * Fix missing translating elements in 2 parsers (#61882)
 * Routine tileset updates on 23 October 2022 (#61890)
 * add bungalow 07 and 08 (#61876)
-* Give Sadie more survival options. (#61795)
 * Towel that got wet from swimming will now dry (#61838)
 * Placed aftershock robots are pets (#61830)
 * Fix the Aftershock Translocator (#61829)

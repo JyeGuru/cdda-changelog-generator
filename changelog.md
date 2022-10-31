@@ -1,3 +1,4 @@
+* ci: labeler already capable of sub-string searches ([#62022](https://github.com/CleverRaven/Cataclysm-DDA/pull/62022))
 * add new magiclysm snippet ([#62023](https://github.com/CleverRaven/Cataclysm-DDA/pull/62023))
 
 ---
@@ -198,7 +199,6 @@
 * Fix missing translating elements in 2 parsers ([#61882](https://github.com/CleverRaven/Cataclysm-DDA/pull/61882))
 * Routine tileset updates on 23 October 2022 ([#61890](https://github.com/CleverRaven/Cataclysm-DDA/pull/61890))
 * add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
-* Give Sadie more survival options. ([#61795](https://github.com/CleverRaven/Cataclysm-DDA/pull/61795))
 * Towel that got wet from swimming will now dry ([#61838](https://github.com/CleverRaven/Cataclysm-DDA/pull/61838))
 * Placed aftershock robots are pets ([#61830](https://github.com/CleverRaven/Cataclysm-DDA/pull/61830))
 * Fix the Aftershock Translocator ([#61829](https://github.com/CleverRaven/Cataclysm-DDA/pull/61829))
