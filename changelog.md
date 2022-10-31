@@ -1,3 +1,7 @@
+* make KitchenMaster use pseudo_water_purifier instead of water_purifier ([#62005](https://github.com/CleverRaven/Cataclysm-DDA/pull/62005))
+* Farm supply store improvements ([#62003](https://github.com/CleverRaven/Cataclysm-DDA/pull/62003))
+* Shady Hills location updates ([#62007](https://github.com/CleverRaven/Cataclysm-DDA/pull/62007))
+* npctrade: merchant tweaks and documentation ([#62009](https://github.com/CleverRaven/Cataclysm-DDA/pull/62009))
 * ci: labeler already capable of sub-string searches ([#62022](https://github.com/CleverRaven/Cataclysm-DDA/pull/62022))
 * add new magiclysm snippet ([#62023](https://github.com/CleverRaven/Cataclysm-DDA/pull/62023))
 
@@ -216,5 +220,3 @@
 * emp doesn't drain batteries ([#61810](https://github.com/CleverRaven/Cataclysm-DDA/pull/61810))
 * Add myself to the bug confirm list ([#61818](https://github.com/CleverRaven/Cataclysm-DDA/pull/61818))
 * Fix the scrap aluminum recipe error ([#61813](https://github.com/CleverRaven/Cataclysm-DDA/pull/61813))
-* Aftershock: Remove permanent disabling from EMPs ([#61799](https://github.com/CleverRaven/Cataclysm-DDA/pull/61799))
-* MSC: Made Of Sugar forbids healing traits ([#61803](https://github.com/CleverRaven/Cataclysm-DDA/pull/61803))
