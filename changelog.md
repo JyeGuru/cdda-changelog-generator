@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-01-0509 ([300ec6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-01-0509))
+
+* Added hiking pants to nomad jumpsuit recipe ([#62027](https://github.com/CleverRaven/Cataclysm-DDA/pull/62027))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-01-0004 ([ed92400](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-01-0004))
 
 * [CR] Xedra Evolved Note improvements ([#61936](https://github.com/CleverRaven/Cataclysm-DDA/pull/61936))
@@ -111,7 +117,6 @@
 #### Cataclysm-DDA experimental build 2022-10-29-0056 ([deff4fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-0056))
 
 * Ignore liquids in tiles with LIQUIDCONT flag when picking up ([#61958](https://github.com/CleverRaven/Cataclysm-DDA/pull/61958))
-* [Magiclysm] Various fixes ([#61815](https://github.com/CleverRaven/Cataclysm-DDA/pull/61815))
 
 ---
 
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2022-10-26-0920 ([ac78222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0920))
 
 * Fill deconstruct results with liquid ([#61934](https://github.com/CleverRaven/Cataclysm-DDA/pull/61934))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-26-0507 ([ad6cafc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0507))
-
 * Expand merchant storage space ([#61877](https://github.com/CleverRaven/Cataclysm-DDA/pull/61877))
 * Caviar sandwich + bread material! ([#61817](https://github.com/CleverRaven/Cataclysm-DDA/pull/61817))
 * Fixes name of XL medium plate armor ([#61899](https://github.com/CleverRaven/Cataclysm-DDA/pull/61899))
@@ -218,6 +218,5 @@
 * Add bungalow 05 and 06 ([#61820](https://github.com/CleverRaven/Cataclysm-DDA/pull/61820))
 * Improve JSON linting on windows/VS ([#61825](https://github.com/CleverRaven/Cataclysm-DDA/pull/61825))
 * Fixing curing roe recipe ([#61816](https://github.com/CleverRaven/Cataclysm-DDA/pull/61816))
-* mask fixes ([#61814](https://github.com/CleverRaven/Cataclysm-DDA/pull/61814))
 * fix ads cost ([#61822](https://github.com/CleverRaven/Cataclysm-DDA/pull/61822))
 * Add myself to the bug confirm list ([#61818](https://github.com/CleverRaven/Cataclysm-DDA/pull/61818))

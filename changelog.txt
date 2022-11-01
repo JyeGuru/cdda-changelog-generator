@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-01-0509 (300ec6d)
+* Added hiking pants to nomad jumpsuit recipe (#62027)
+
 Cataclysm-DDA experimental build 2022-11-01-0004 (ed92400)
 * [CR] Xedra Evolved Note improvements (#61936)
 * Aquatic land-based specials no longer float (#61981)
@@ -63,7 +66,6 @@ Cataclysm-DDA experimental build 2022-10-29-0658 (7082ac9)
 
 Cataclysm-DDA experimental build 2022-10-29-0056 (deff4fc)
 * Ignore liquids in tiles with LIQUIDCONT flag when picking up (#61958)
-* [Magiclysm] Various fixes (#61815)
 
 Cataclysm-DDA experimental build 2022-10-28-2355 (2b8bd99)
 * Magiclysm: Rigid aura and personal items get padded (#61969)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2022-10-26-1158 (a338bfd)
 
 Cataclysm-DDA experimental build 2022-10-26-0920 (ac78222)
 * Fill deconstruct results with liquid (#61934)
-
-Cataclysm-DDA experimental build 2022-10-26-0507 (ad6cafc)
 * Expand merchant storage space (#61877)
 * Caviar sandwich + bread material! (#61817)
 * Fixes name of XL medium plate armor (#61899)
@@ -140,6 +140,5 @@ Cataclysm-DDA experimental build 2022-10-26-0507 (ad6cafc)
 * Add bungalow 05 and 06 (#61820)
 * Improve JSON linting on windows/VS (#61825)
 * Fixing curing roe recipe (#61816)
-* mask fixes (#61814)
 * fix ads cost (#61822)
 * Add myself to the bug confirm list (#61818)
