@@ -217,6 +217,5 @@
 * Adjust wall position in Ancilla Bar ([#61831](https://github.com/CleverRaven/Cataclysm-DDA/pull/61831))
 * Add bungalow 05 and 06 ([#61820](https://github.com/CleverRaven/Cataclysm-DDA/pull/61820))
 * Improve JSON linting on windows/VS ([#61825](https://github.com/CleverRaven/Cataclysm-DDA/pull/61825))
-* Fixing curing roe recipe ([#61816](https://github.com/CleverRaven/Cataclysm-DDA/pull/61816))
 * fix ads cost ([#61822](https://github.com/CleverRaven/Cataclysm-DDA/pull/61822))
 * Add myself to the bug confirm list ([#61818](https://github.com/CleverRaven/Cataclysm-DDA/pull/61818))
