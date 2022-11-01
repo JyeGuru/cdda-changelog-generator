@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-01-0004 ([ed92400](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-01-0004))
+
 * [CR] Xedra Evolved Note improvements ([#61936](https://github.com/CleverRaven/Cataclysm-DDA/pull/61936))
 * Aquatic land-based specials no longer float ([#61981](https://github.com/CleverRaven/Cataclysm-DDA/pull/61981))
 * remove unused variables (nfc) ([#61997](https://github.com/CleverRaven/Cataclysm-DDA/pull/61997))
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-10-26-0507 ([ad6cafc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0507))
 
 * Expand merchant storage space ([#61877](https://github.com/CleverRaven/Cataclysm-DDA/pull/61877))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-26-0057 ([c21b171](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0057))
-
 * Caviar sandwich + bread material! ([#61817](https://github.com/CleverRaven/Cataclysm-DDA/pull/61817))
 * Fixes name of XL medium plate armor ([#61899](https://github.com/CleverRaven/Cataclysm-DDA/pull/61899))
 * auto labeler maintenance ([#61904](https://github.com/CleverRaven/Cataclysm-DDA/pull/61904))

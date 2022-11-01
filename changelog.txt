@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-11-01-0004 (ed92400)
 * [CR] Xedra Evolved Note improvements (#61936)
 * Aquatic land-based specials no longer float (#61981)
 * remove unused variables (nfc) (#61997)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2022-10-26-0920 (ac78222)
 
 Cataclysm-DDA experimental build 2022-10-26-0507 (ad6cafc)
 * Expand merchant storage space (#61877)
-
-Cataclysm-DDA experimental build 2022-10-26-0057 (c21b171)
 * Caviar sandwich + bread material! (#61817)
 * Fixes name of XL medium plate armor (#61899)
 * auto labeler maintenance (#61904)
