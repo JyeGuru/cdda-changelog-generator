@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-02-0658 ([cca0c2b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-02-0658))
+
+* [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-01-0509 ([300ec6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-01-0509))
 
 * Added hiking pants to nomad jumpsuit recipe ([#62027](https://github.com/CleverRaven/Cataclysm-DDA/pull/62027))
@@ -99,7 +105,17 @@
 * [Backrooms] Monster group nesting fix; slightly more emptiness ([#61975](https://github.com/CleverRaven/Cataclysm-DDA/pull/61975))
 * Fix holstering items that don't fit in parent container of the holster ([#61983](https://github.com/CleverRaven/Cataclysm-DDA/pull/61983))
 * Active lightstrip won't die on their second turn no more ([#61994](https://github.com/CleverRaven/Cataclysm-DDA/pull/61994))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-29-1734 ([2872fa4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-1734))
+
 * [Xedra Evolved] Misc ([#61995](https://github.com/CleverRaven/Cataclysm-DDA/pull/61995))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-29-0658 ([7082ac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-0658))
+
 * Routine i18n updates on 29 October 2022 ([#61990](https://github.com/CleverRaven/Cataclysm-DDA/pull/61990))
 
 ---
@@ -150,6 +166,11 @@
 #### Cataclysm-DDA experimental build 2022-10-28-0639 ([a22f97a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-0639))
 
 * Remove HURT fear trigger from nether species ([#61949](https://github.com/CleverRaven/Cataclysm-DDA/pull/61949))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-27-0619 ([41acb30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-27-0619))
+
 * Fix Reciprocating Saw ([#61865](https://github.com/CleverRaven/Cataclysm-DDA/pull/61865))
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
@@ -162,24 +183,8 @@
 * Some more disassembly recipes & Size cleanup ([#61868](https://github.com/CleverRaven/Cataclysm-DDA/pull/61868))
 * [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
 * document monster difficulty scaling ([#61906](https://github.com/CleverRaven/Cataclysm-DDA/pull/61906))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-26-0920 ([ac78222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0920))
-
 * Fill deconstruct results with liquid ([#61934](https://github.com/CleverRaven/Cataclysm-DDA/pull/61934))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-26-0507 ([ad6cafc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0507))
-
 * Expand merchant storage space ([#61877](https://github.com/CleverRaven/Cataclysm-DDA/pull/61877))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-26-0057 ([c21b171](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-0057))
-
-* Caviar sandwich + bread material! ([#61817](https://github.com/CleverRaven/Cataclysm-DDA/pull/61817))
 * Fixes name of XL medium plate armor ([#61899](https://github.com/CleverRaven/Cataclysm-DDA/pull/61899))
 * auto labeler maintenance ([#61904](https://github.com/CleverRaven/Cataclysm-DDA/pull/61904))
 * Fix #61901 activating a lit Molotov causes it to explode ([#61912](https://github.com/CleverRaven/Cataclysm-DDA/pull/61912))
