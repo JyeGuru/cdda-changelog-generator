@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-03-0511 (acf64b7)
+* Tutorial bugfixes and tweaks (#62045)
+
 Cataclysm-DDA experimental build 2022-11-02-0658 (cca0c2b)
 * [Magiclysm] few attunements fixes (#62035)
 
@@ -140,4 +143,3 @@ Cataclysm-DDA experimental build 2022-10-26-1158 (a338bfd)
 * Add bungalow 05 and 06 (#61820)
 * Improve JSON linting on windows/VS (#61825)
 * fix ads cost (#61822)
-* Add myself to the bug confirm list (#61818)

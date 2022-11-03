@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-03-0511 ([acf64b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-03-0511))
+
+* Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-02-0658 ([cca0c2b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-02-0658))
 
 * [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
@@ -218,4 +224,3 @@
 * Add bungalow 05 and 06 ([#61820](https://github.com/CleverRaven/Cataclysm-DDA/pull/61820))
 * Improve JSON linting on windows/VS ([#61825](https://github.com/CleverRaven/Cataclysm-DDA/pull/61825))
 * fix ads cost ([#61822](https://github.com/CleverRaven/Cataclysm-DDA/pull/61822))
-* Add myself to the bug confirm list ([#61818](https://github.com/CleverRaven/Cataclysm-DDA/pull/61818))
