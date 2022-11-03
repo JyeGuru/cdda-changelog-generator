@@ -1,3 +1,10 @@
+* Display Appliance battery power flow for the whole connected grid ([#62036](https://github.com/CleverRaven/Cataclysm-DDA/pull/62036))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-03-1025 ([c90de9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-03-1025))
+
+* Fix hairstyles from #61940 not showing up in the haircut menu ([#62038](https://github.com/CleverRaven/Cataclysm-DDA/pull/62038))
 
 ---
 
@@ -180,11 +187,6 @@
 * Fix Reciprocating Saw ([#61865](https://github.com/CleverRaven/Cataclysm-DDA/pull/61865))
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-26-1158 ([a338bfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-26-1158))
-
 * Don't discharge fake vehicle batteries ([#61823](https://github.com/CleverRaven/Cataclysm-DDA/pull/61823))
 * Some more disassembly recipes & Size cleanup ([#61868](https://github.com/CleverRaven/Cataclysm-DDA/pull/61868))
 * [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
@@ -220,6 +222,4 @@
 * Fix a CtD ([#61853](https://github.com/CleverRaven/Cataclysm-DDA/pull/61853))
 * Fix charge usage for short string from electric spinwheel ([#61824](https://github.com/CleverRaven/Cataclysm-DDA/pull/61824))
 * Adjust wall position in Ancilla Bar ([#61831](https://github.com/CleverRaven/Cataclysm-DDA/pull/61831))
-* Add bungalow 05 and 06 ([#61820](https://github.com/CleverRaven/Cataclysm-DDA/pull/61820))
 * Improve JSON linting on windows/VS ([#61825](https://github.com/CleverRaven/Cataclysm-DDA/pull/61825))
-* fix ads cost ([#61822](https://github.com/CleverRaven/Cataclysm-DDA/pull/61822))
