@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-03-1133 ([579e201](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-03-1133))
+
 * Display Appliance battery power flow for the whole connected grid ([#62036](https://github.com/CleverRaven/Cataclysm-DDA/pull/62036))
 
 ---
