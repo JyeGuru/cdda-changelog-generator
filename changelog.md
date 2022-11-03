@@ -200,7 +200,6 @@
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
 * Improve handling of gasses ([#61839](https://github.com/CleverRaven/Cataclysm-DDA/pull/61839))
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
-* [innawood] no game watches ([#61819](https://github.com/CleverRaven/Cataclysm-DDA/pull/61819))
 * zones: restore custom zone filtering for containers ([#61835](https://github.com/CleverRaven/Cataclysm-DDA/pull/61835))
 * Fix horn moss transform into nothing ([#61851](https://github.com/CleverRaven/Cataclysm-DDA/pull/61851))
 * Don't ask if player wants hacking if you can't hack ([#61849](https://github.com/CleverRaven/Cataclysm-DDA/pull/61849))
