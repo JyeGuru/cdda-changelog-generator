@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-04-0831 ([a2e6920](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-04-0831))
+
+* Even more item cleanup & disassembly ([#62047](https://github.com/CleverRaven/Cataclysm-DDA/pull/62047))
 * ci: more labeler rules ([#62049](https://github.com/CleverRaven/Cataclysm-DDA/pull/62049))
 
 ---
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2022-10-28-0841 ([08d4253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-0841))
 
 * add pliers_locking and cbm multitool to wallwiring ([#61955](https://github.com/CleverRaven/Cataclysm-DDA/pull/61955))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-28-0639 ([a22f97a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-0639))
-
 * Remove HURT fear trigger from nether species ([#61949](https://github.com/CleverRaven/Cataclysm-DDA/pull/61949))
 * Fix Reciprocating Saw ([#61865](https://github.com/CleverRaven/Cataclysm-DDA/pull/61865))
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
@@ -229,6 +230,5 @@
 * Fix missing translating elements in 2 parsers ([#61882](https://github.com/CleverRaven/Cataclysm-DDA/pull/61882))
 * Routine tileset updates on 23 October 2022 ([#61890](https://github.com/CleverRaven/Cataclysm-DDA/pull/61890))
 * add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
-* Towel that got wet from swimming will now dry ([#61838](https://github.com/CleverRaven/Cataclysm-DDA/pull/61838))
 * Corrected path to look for msgfmt.exe in lang/CMakeLists.txt ([#61858](https://github.com/CleverRaven/Cataclysm-DDA/pull/61858))
 * Fix a CtD ([#61853](https://github.com/CleverRaven/Cataclysm-DDA/pull/61853))
