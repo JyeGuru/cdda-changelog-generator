@@ -1,3 +1,6 @@
+* ci: more labeler rules ([#62049](https://github.com/CleverRaven/Cataclysm-DDA/pull/62049))
+* [Xedra Evolved] Typos bad, give vampire CBMs non-placeholder descriptions ([#62050](https://github.com/CleverRaven/Cataclysm-DDA/pull/62050))
+* Add 1 tile radius to store ebook to device ([#62055](https://github.com/CleverRaven/Cataclysm-DDA/pull/62055))
 * Fix mutations for Xedra Evolved ([#62051](https://github.com/CleverRaven/Cataclysm-DDA/pull/62051))
 * Jerrycan recipe alterations ([#62064](https://github.com/CleverRaven/Cataclysm-DDA/pull/62064))
 
@@ -214,7 +217,6 @@
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
 * Improve handling of gasses ([#61839](https://github.com/CleverRaven/Cataclysm-DDA/pull/61839))
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
-* zones: restore custom zone filtering for containers ([#61835](https://github.com/CleverRaven/Cataclysm-DDA/pull/61835))
 * Fix horn moss transform into nothing ([#61851](https://github.com/CleverRaven/Cataclysm-DDA/pull/61851))
 * Don't ask if player wants hacking if you can't hack ([#61849](https://github.com/CleverRaven/Cataclysm-DDA/pull/61849))
 * Routine i18n updates on 22 October 2022 ([#61855](https://github.com/CleverRaven/Cataclysm-DDA/pull/61855))
@@ -228,7 +230,5 @@
 * Routine tileset updates on 23 October 2022 ([#61890](https://github.com/CleverRaven/Cataclysm-DDA/pull/61890))
 * add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
 * Towel that got wet from swimming will now dry ([#61838](https://github.com/CleverRaven/Cataclysm-DDA/pull/61838))
-* Placed aftershock robots are pets ([#61830](https://github.com/CleverRaven/Cataclysm-DDA/pull/61830))
 * Corrected path to look for msgfmt.exe in lang/CMakeLists.txt ([#61858](https://github.com/CleverRaven/Cataclysm-DDA/pull/61858))
 * Fix a CtD ([#61853](https://github.com/CleverRaven/Cataclysm-DDA/pull/61853))
-* Adjust wall position in Ancilla Bar ([#61831](https://github.com/CleverRaven/Cataclysm-DDA/pull/61831))
