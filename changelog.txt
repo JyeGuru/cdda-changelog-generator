@@ -1,3 +1,8 @@
+* Fix mutations for Xedra Evolved (#62051)
+* Jerrycan recipe alterations (#62064)
+
+Cataclysm-DDA experimental build 2022-11-04-0352 (f36255c)
+* Chemistry PPE (#62067)
 
 Cataclysm-DDA experimental build 2022-11-03-1133 (579e201)
 * Display Appliance battery power flow for the whole connected grid (#62036)
@@ -137,9 +142,6 @@ Cataclysm-DDA experimental build 2022-10-27-0619 (41acb30)
 * add bungalow 07 and 08 (#61876)
 * Towel that got wet from swimming will now dry (#61838)
 * Placed aftershock robots are pets (#61830)
-* Fix the Aftershock Translocator (#61829)
 * Corrected path to look for msgfmt.exe in lang/CMakeLists.txt (#61858)
 * Fix a CtD (#61853)
-* Fix charge usage for short string from electric spinwheel (#61824)
 * Adjust wall position in Ancilla Bar (#61831)
-* Improve JSON linting on windows/VS (#61825)
