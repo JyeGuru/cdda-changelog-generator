@@ -1,4 +1,9 @@
 * ci: more labeler rules ([#62049](https://github.com/CleverRaven/Cataclysm-DDA/pull/62049))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-04-0521 ([7823e38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-04-0521))
+
 * [Xedra Evolved] Typos bad, give vampire CBMs non-placeholder descriptions ([#62050](https://github.com/CleverRaven/Cataclysm-DDA/pull/62050))
 * Add 1 tile radius to store ebook to device ([#62055](https://github.com/CleverRaven/Cataclysm-DDA/pull/62055))
 * Fix mutations for Xedra Evolved ([#62051](https://github.com/CleverRaven/Cataclysm-DDA/pull/62051))
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2022-10-28-0639 ([a22f97a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-0639))
 
 * Remove HURT fear trigger from nether species ([#61949](https://github.com/CleverRaven/Cataclysm-DDA/pull/61949))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-27-0619 ([41acb30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-27-0619))
-
 * Fix Reciprocating Saw ([#61865](https://github.com/CleverRaven/Cataclysm-DDA/pull/61865))
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
