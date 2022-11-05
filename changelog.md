@@ -11,11 +11,6 @@
 
 * Even more item cleanup & disassembly ([#62047](https://github.com/CleverRaven/Cataclysm-DDA/pull/62047))
 * ci: more labeler rules ([#62049](https://github.com/CleverRaven/Cataclysm-DDA/pull/62049))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-04-0521 ([7823e38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-04-0521))
-
 * [Xedra Evolved] Typos bad, give vampire CBMs non-placeholder descriptions ([#62050](https://github.com/CleverRaven/Cataclysm-DDA/pull/62050))
 * Add 1 tile radius to store ebook to device ([#62055](https://github.com/CleverRaven/Cataclysm-DDA/pull/62055))
 * Fix mutations for Xedra Evolved ([#62051](https://github.com/CleverRaven/Cataclysm-DDA/pull/62051))
@@ -38,11 +33,6 @@
 #### Cataclysm-DDA experimental build 2022-11-03-1025 ([c90de9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-03-1025))
 
 * Fix hairstyles from #61940 not showing up in the haircut menu ([#62038](https://github.com/CleverRaven/Cataclysm-DDA/pull/62038))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-03-0511 ([acf64b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-03-0511))
-
 * Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
 
 ---
@@ -181,11 +171,6 @@
 * feat: change labeler action for more smarter regex ([#61946](https://github.com/CleverRaven/Cataclysm-DDA/pull/61946))
 * fix `t_hole` not acting like what holes should ([#61972](https://github.com/CleverRaven/Cataclysm-DDA/pull/61972))
 * Routine No Hope maintenance [28.10.2022] ([#61973](https://github.com/CleverRaven/Cataclysm-DDA/pull/61973))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-28-1659 ([8437fa9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-1659))
-
 * Allow replacing broken parts ([#61976](https://github.com/CleverRaven/Cataclysm-DDA/pull/61976))
 
 ---
@@ -194,8 +179,23 @@
 
 * Spawn Point Zones for scenarios and Aftershock bugfixing ([#61909](https://github.com/CleverRaven/Cataclysm-DDA/pull/61909))
 * Fix tablet and laptop storage ([#61943](https://github.com/CleverRaven/Cataclysm-DDA/pull/61943))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-28-0841 ([08d4253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-0841))
+
 * add pliers_locking and cbm multitool to wallwiring ([#61955](https://github.com/CleverRaven/Cataclysm-DDA/pull/61955))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-28-0639 ([a22f97a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-0639))
+
 * Remove HURT fear trigger from nether species ([#61949](https://github.com/CleverRaven/Cataclysm-DDA/pull/61949))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-10-27-0619 ([41acb30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-27-0619))
+
 * Fix Reciprocating Saw ([#61865](https://github.com/CleverRaven/Cataclysm-DDA/pull/61865))
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
