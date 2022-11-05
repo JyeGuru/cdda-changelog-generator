@@ -97,9 +97,6 @@ Cataclysm-DDA experimental build 2022-10-29-0056 (deff4fc)
 
 Cataclysm-DDA experimental build 2022-10-28-2355 (2b8bd99)
 * Magiclysm: Rigid aura and personal items get padded (#61969)
-
-Cataclysm-DDA experimental build 2022-10-28-1801 (0dc563e)
-* Apocalypse themed zombie horse mutations. (#61847)
 * Try to fix NPC getting infinite loop during loot sorting (#61929)
 * Add hair styles from Crow's Hair Mod (#61940)
 * Sane Pop-up Pirate size (#61941)
