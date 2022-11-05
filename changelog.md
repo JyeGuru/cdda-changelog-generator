@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-05-0558 ([bd17c48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-05-0558))
+
+* Routine i18n updates on 05 November 2022 ([#62086](https://github.com/CleverRaven/Cataclysm-DDA/pull/62086))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-04-0831 ([a2e6920](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-04-0831))
 
 * Even more item cleanup & disassembly ([#62047](https://github.com/CleverRaven/Cataclysm-DDA/pull/62047))
@@ -194,11 +200,6 @@
 
 * Spawn Point Zones for scenarios and Aftershock bugfixing ([#61909](https://github.com/CleverRaven/Cataclysm-DDA/pull/61909))
 * Fix tablet and laptop storage ([#61943](https://github.com/CleverRaven/Cataclysm-DDA/pull/61943))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-28-0841 ([08d4253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-0841))
-
 * add pliers_locking and cbm multitool to wallwiring ([#61955](https://github.com/CleverRaven/Cataclysm-DDA/pull/61955))
 * Remove HURT fear trigger from nether species ([#61949](https://github.com/CleverRaven/Cataclysm-DDA/pull/61949))
 * Fix Reciprocating Saw ([#61865](https://github.com/CleverRaven/Cataclysm-DDA/pull/61865))
@@ -216,7 +217,6 @@
 * Fix popup when moving from [A] using AIM ([#61927](https://github.com/CleverRaven/Cataclysm-DDA/pull/61927))
 * Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly ([#61930](https://github.com/CleverRaven/Cataclysm-DDA/pull/61930))
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
-* Improve handling of gasses ([#61839](https://github.com/CleverRaven/Cataclysm-DDA/pull/61839))
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
 * Fix horn moss transform into nothing ([#61851](https://github.com/CleverRaven/Cataclysm-DDA/pull/61851))
 * Don't ask if player wants hacking if you can't hack ([#61849](https://github.com/CleverRaven/Cataclysm-DDA/pull/61849))
