@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-06-0557 ([b804be3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-06-0557))
+
+* Candy bracelets no longer made of flesh ([#62106](https://github.com/CleverRaven/Cataclysm-DDA/pull/62106))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-05-0558 ([bd17c48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-05-0558))
 
 * Routine i18n updates on 05 November 2022 ([#62086](https://github.com/CleverRaven/Cataclysm-DDA/pull/62086))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2022-10-28-1659 ([8437fa9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-1659))
 
 * Allow replacing broken parts ([#61976](https://github.com/CleverRaven/Cataclysm-DDA/pull/61976))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-28-0948 ([cefa6b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-0948))
-
 * Spawn Point Zones for scenarios and Aftershock bugfixing ([#61909](https://github.com/CleverRaven/Cataclysm-DDA/pull/61909))
 * Fix tablet and laptop storage ([#61943](https://github.com/CleverRaven/Cataclysm-DDA/pull/61943))
 * add pliers_locking and cbm multitool to wallwiring ([#61955](https://github.com/CleverRaven/Cataclysm-DDA/pull/61955))
@@ -213,7 +214,6 @@
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
 * Fix horn moss transform into nothing ([#61851](https://github.com/CleverRaven/Cataclysm-DDA/pull/61851))
-* Don't ask if player wants hacking if you can't hack ([#61849](https://github.com/CleverRaven/Cataclysm-DDA/pull/61849))
 * Routine i18n updates on 22 October 2022 ([#61855](https://github.com/CleverRaven/Cataclysm-DDA/pull/61855))
 * [MSC] Sweet Candy Flesh ([#61859](https://github.com/CleverRaven/Cataclysm-DDA/pull/61859))
 * [MSC] Fix chocolate cows and update factions ([#61860](https://github.com/CleverRaven/Cataclysm-DDA/pull/61860))
