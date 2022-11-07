@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-07-1543 ([4852b20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-07-1543))
+
+* Fixed NPC's dropping integrated weapons on death ([#62118](https://github.com/CleverRaven/Cataclysm-DDA/pull/62118))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-07-0612 ([1efdf44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-07-0612))
 
 * Routine tileset updates on 06 November 2022 ([#62117](https://github.com/CleverRaven/Cataclysm-DDA/pull/62117))
@@ -225,4 +231,3 @@
 * Routine tileset updates on 23 October 2022 ([#61890](https://github.com/CleverRaven/Cataclysm-DDA/pull/61890))
 * add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
 * Corrected path to look for msgfmt.exe in lang/CMakeLists.txt ([#61858](https://github.com/CleverRaven/Cataclysm-DDA/pull/61858))
-* Fix a CtD ([#61853](https://github.com/CleverRaven/Cataclysm-DDA/pull/61853))

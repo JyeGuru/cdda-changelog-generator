@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-07-1543 (4852b20)
+* Fixed NPC's dropping integrated weapons on death (#62118)
+
 Cataclysm-DDA experimental build 2022-11-07-0612 (1efdf44)
 * Routine tileset updates on 06 November 2022 (#62117)
 
@@ -141,4 +144,3 @@ Cataclysm-DDA experimental build 2022-10-28-2355 (2b8bd99)
 * Routine tileset updates on 23 October 2022 (#61890)
 * add bungalow 07 and 08 (#61876)
 * Corrected path to look for msgfmt.exe in lang/CMakeLists.txt (#61858)
-* Fix a CtD (#61853)
