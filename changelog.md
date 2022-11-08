@@ -1,3 +1,18 @@
+* sometimes my knees are as stiff as a metal pole ([#62071](https://github.com/CleverRaven/Cataclysm-DDA/pull/62071))
+* Allowed resuming unfinished deconstruction of consoles ([#62076](https://github.com/CleverRaven/Cataclysm-DDA/pull/62076))
+* Craftable gravelbag ([#62090](https://github.com/CleverRaven/Cataclysm-DDA/pull/62090))
+* [Xedra Evolved] some small fixes ([#62107](https://github.com/CleverRaven/Cataclysm-DDA/pull/62107))
+* Exclude ammo-restricted pockets from free space calculation ([#62110](https://github.com/CleverRaven/Cataclysm-DDA/pull/62110))
+* [DinoMod] nerf juvenile predator damage ([#62114](https://github.com/CleverRaven/Cataclysm-DDA/pull/62114))
+* npctrade: remove dead code ([#62119](https://github.com/CleverRaven/Cataclysm-DDA/pull/62119))
+* Unifies window names ([#62121](https://github.com/CleverRaven/Cataclysm-DDA/pull/62121))
+* port: better activation message for pet food action ([#62128](https://github.com/CleverRaven/Cataclysm-DDA/pull/62128))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-08-0905 ([e233dab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-0905))
+
+* acetylene recipe batch savings + byproduct ([#62130](https://github.com/CleverRaven/Cataclysm-DDA/pull/62130))
 
 ---
 
@@ -187,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2022-10-29-0658 ([7082ac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-0658))
 
 * Routine i18n updates on 29 October 2022 ([#61990](https://github.com/CleverRaven/Cataclysm-DDA/pull/61990))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-29-0056 ([deff4fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-0056))
-
 * Ignore liquids in tiles with LIQUIDCONT flag when picking up ([#61958](https://github.com/CleverRaven/Cataclysm-DDA/pull/61958))
 * Magiclysm: Rigid aura and personal items get padded ([#61969](https://github.com/CleverRaven/Cataclysm-DDA/pull/61969))
 * Try to fix NPC getting infinite loop during loot sorting ([#61929](https://github.com/CleverRaven/Cataclysm-DDA/pull/61929))
@@ -205,14 +215,11 @@
 * Fix tablet and laptop storage ([#61943](https://github.com/CleverRaven/Cataclysm-DDA/pull/61943))
 * add pliers_locking and cbm multitool to wallwiring ([#61955](https://github.com/CleverRaven/Cataclysm-DDA/pull/61955))
 * Remove HURT fear trigger from nether species ([#61949](https://github.com/CleverRaven/Cataclysm-DDA/pull/61949))
-* Fix Reciprocating Saw ([#61865](https://github.com/CleverRaven/Cataclysm-DDA/pull/61865))
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
-* Some more disassembly recipes & Size cleanup ([#61868](https://github.com/CleverRaven/Cataclysm-DDA/pull/61868))
 * [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
 * document monster difficulty scaling ([#61906](https://github.com/CleverRaven/Cataclysm-DDA/pull/61906))
 * Fill deconstruct results with liquid ([#61934](https://github.com/CleverRaven/Cataclysm-DDA/pull/61934))
-* Expand merchant storage space ([#61877](https://github.com/CleverRaven/Cataclysm-DDA/pull/61877))
 * Fixes name of XL medium plate armor ([#61899](https://github.com/CleverRaven/Cataclysm-DDA/pull/61899))
 * auto labeler maintenance ([#61904](https://github.com/CleverRaven/Cataclysm-DDA/pull/61904))
 * Fix #61901 activating a lit Molotov causes it to explode ([#61912](https://github.com/CleverRaven/Cataclysm-DDA/pull/61912))
@@ -221,13 +228,6 @@
 * Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly ([#61930](https://github.com/CleverRaven/Cataclysm-DDA/pull/61930))
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
-* [MSC] Sweet Candy Flesh ([#61859](https://github.com/CleverRaven/Cataclysm-DDA/pull/61859))
-* [MSC] Fix chocolate cows and update factions ([#61860](https://github.com/CleverRaven/Cataclysm-DDA/pull/61860))
-* Respect `Force unarmed` martial art style when calculating stamina cost ([#61863](https://github.com/CleverRaven/Cataclysm-DDA/pull/61863))
-* accepts merch straps and bundles ([#61869](https://github.com/CleverRaven/Cataclysm-DDA/pull/61869))
-* Changed JSON to reflect empty air ([#61875](https://github.com/CleverRaven/Cataclysm-DDA/pull/61875))
 * Fix overmap file loading from MA mod on Android ([#61879](https://github.com/CleverRaven/Cataclysm-DDA/pull/61879))
 * Fix missing translating elements in 2 parsers ([#61882](https://github.com/CleverRaven/Cataclysm-DDA/pull/61882))
 * Routine tileset updates on 23 October 2022 ([#61890](https://github.com/CleverRaven/Cataclysm-DDA/pull/61890))
-* add bungalow 07 and 08 ([#61876](https://github.com/CleverRaven/Cataclysm-DDA/pull/61876))
-* Corrected path to look for msgfmt.exe in lang/CMakeLists.txt ([#61858](https://github.com/CleverRaven/Cataclysm-DDA/pull/61858))
