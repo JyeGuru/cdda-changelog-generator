@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-08-0625 ([b1b55c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-0625))
+
+* port: remove references to obsolete rock_pot ([#62131](https://github.com/CleverRaven/Cataclysm-DDA/pull/62131))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-07-1543 ([4852b20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-07-1543))
 
 * Fixed NPC's dropping integrated weapons on death ([#62118](https://github.com/CleverRaven/Cataclysm-DDA/pull/62118))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2022-10-29-0056 ([deff4fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-0056))
 
 * Ignore liquids in tiles with LIQUIDCONT flag when picking up ([#61958](https://github.com/CleverRaven/Cataclysm-DDA/pull/61958))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-28-2355 ([2b8bd99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-28-2355))
-
 * Magiclysm: Rigid aura and personal items get padded ([#61969](https://github.com/CleverRaven/Cataclysm-DDA/pull/61969))
 * Try to fix NPC getting infinite loop during loot sorting ([#61929](https://github.com/CleverRaven/Cataclysm-DDA/pull/61929))
 * Add hair styles from Crow's Hair Mod ([#61940](https://github.com/CleverRaven/Cataclysm-DDA/pull/61940))
@@ -220,7 +221,6 @@
 * Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly ([#61930](https://github.com/CleverRaven/Cataclysm-DDA/pull/61930))
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
 * removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
-* Routine i18n updates on 22 October 2022 ([#61855](https://github.com/CleverRaven/Cataclysm-DDA/pull/61855))
 * [MSC] Sweet Candy Flesh ([#61859](https://github.com/CleverRaven/Cataclysm-DDA/pull/61859))
 * [MSC] Fix chocolate cows and update factions ([#61860](https://github.com/CleverRaven/Cataclysm-DDA/pull/61860))
 * Respect `Force unarmed` martial art style when calculating stamina cost ([#61863](https://github.com/CleverRaven/Cataclysm-DDA/pull/61863))
