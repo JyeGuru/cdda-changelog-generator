@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-08-1754 ([e9204ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-1754))
+
 * [Magiclysm] Tweak some magiclysm stuff ([#62079](https://github.com/CleverRaven/Cataclysm-DDA/pull/62079))
 * Un-reverse the preset character list ([#62136](https://github.com/CleverRaven/Cataclysm-DDA/pull/62136))
 * ci: automatic code style reviews take 2 ([#62060](https://github.com/CleverRaven/Cataclysm-DDA/pull/62060))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-10-30-0948 ([aa2a276](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-0948))
 
 * Standardize hairstyle names ([#62010](https://github.com/CleverRaven/Cataclysm-DDA/pull/62010))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-30-0525 ([944a61d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-0525))
-
 * Fix cotton sheet bundles giving patches ([#61978](https://github.com/CleverRaven/Cataclysm-DDA/pull/61978))
 * revert labeler to a working state ([#61989](https://github.com/CleverRaven/Cataclysm-DDA/pull/61989))
 * Magiclysm: fixes use action on drinkable mutagen ([#61956](https://github.com/CleverRaven/Cataclysm-DDA/pull/61956))

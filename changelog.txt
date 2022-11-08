@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-11-08-1754 (e9204ec)
 * [Magiclysm] Tweak some magiclysm stuff (#62079)
 * Un-reverse the preset character list (#62136)
 * ci: automatic code style reviews take 2 (#62060)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2022-10-30-1652 (3bf0181)
 
 Cataclysm-DDA experimental build 2022-10-30-0948 (aa2a276)
 * Standardize hairstyle names (#62010)
-
-Cataclysm-DDA experimental build 2022-10-30-0525 (944a61d)
 * Fix cotton sheet bundles giving patches (#61978)
 * revert labeler to a working state (#61989)
 * Magiclysm: fixes use action on drinkable mutagen (#61956)
