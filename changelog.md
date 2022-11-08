@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-08-2045 ([512da25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-2045))
+
+* Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-08-1754 ([e9204ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-1754))
 
 * [Magiclysm] Tweak some magiclysm stuff ([#62079](https://github.com/CleverRaven/Cataclysm-DDA/pull/62079))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-10-30-1652 ([3bf0181](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-1652))
 
 * Updated activity suit description to be more clear ([#61959](https://github.com/CleverRaven/Cataclysm-DDA/pull/61959))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-30-0948 ([aa2a276](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-0948))
-
 * Standardize hairstyle names ([#62010](https://github.com/CleverRaven/Cataclysm-DDA/pull/62010))
 * Fix cotton sheet bundles giving patches ([#61978](https://github.com/CleverRaven/Cataclysm-DDA/pull/61978))
 * revert labeler to a working state ([#61989](https://github.com/CleverRaven/Cataclysm-DDA/pull/61989))
@@ -216,7 +217,6 @@
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
 * Fill deconstruct results with liquid ([#61934](https://github.com/CleverRaven/Cataclysm-DDA/pull/61934))
-* Fix #61901 activating a lit Molotov causes it to explode ([#61912](https://github.com/CleverRaven/Cataclysm-DDA/pull/61912))
 * Hallucination electric monsters don't cause electric effects no more ([#61914](https://github.com/CleverRaven/Cataclysm-DDA/pull/61914))
 * Fix popup when moving from [A] using AIM ([#61927](https://github.com/CleverRaven/Cataclysm-DDA/pull/61927))
 * Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly ([#61930](https://github.com/CleverRaven/Cataclysm-DDA/pull/61930))
