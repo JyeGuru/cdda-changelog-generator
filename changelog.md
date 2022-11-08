@@ -1,3 +1,15 @@
+* ci: automatic code style reviews take 2 ([#62060](https://github.com/CleverRaven/Cataclysm-DDA/pull/62060))
+* Fix MSVC template warning ([#62081](https://github.com/CleverRaven/Cataclysm-DDA/pull/62081))
+* ci: a couple more labeler rules ([#62100](https://github.com/CleverRaven/Cataclysm-DDA/pull/62100))
+* Improve FlexbufferJson parser error messaging. ([#62101](https://github.com/CleverRaven/Cataclysm-DDA/pull/62101))
+* BUGFIX: operator sniper starts with 2 bipods ([#62122](https://github.com/CleverRaven/Cataclysm-DDA/pull/62122))
+* Add astyle-diff target in Makefile to format modified files only ([#62111](https://github.com/CleverRaven/Cataclysm-DDA/pull/62111))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-08-1638 ([4caa3ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-1638))
+
+* Add MOLD Makefile flag to use mold linker ([#62109](https://github.com/CleverRaven/Cataclysm-DDA/pull/62109))
 * sometimes my knees are as stiff as a metal pole ([#62071](https://github.com/CleverRaven/Cataclysm-DDA/pull/62071))
 * Allowed resuming unfinished deconstruction of consoles ([#62076](https://github.com/CleverRaven/Cataclysm-DDA/pull/62076))
 * Craftable gravelbag ([#62090](https://github.com/CleverRaven/Cataclysm-DDA/pull/62090))
@@ -178,11 +190,6 @@
 
 * Fix cotton sheet bundles giving patches ([#61978](https://github.com/CleverRaven/Cataclysm-DDA/pull/61978))
 * revert labeler to a working state ([#61989](https://github.com/CleverRaven/Cataclysm-DDA/pull/61989))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-29-1907 ([743cc44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-1907))
-
 * Magiclysm: fixes use action on drinkable mutagen ([#61956](https://github.com/CleverRaven/Cataclysm-DDA/pull/61956))
 * Fix some warnings on LGTM ([#61960](https://github.com/CleverRaven/Cataclysm-DDA/pull/61960))
 * Aftershock and Dinomod Mutagen fixes ([#61963](https://github.com/CleverRaven/Cataclysm-DDA/pull/61963))
@@ -207,17 +214,10 @@
 * Remove HURT fear trigger from nether species ([#61949](https://github.com/CleverRaven/Cataclysm-DDA/pull/61949))
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
-* [Magiclysm] Dirty patches ([#61903](https://github.com/CleverRaven/Cataclysm-DDA/pull/61903))
 * document monster difficulty scaling ([#61906](https://github.com/CleverRaven/Cataclysm-DDA/pull/61906))
 * Fill deconstruct results with liquid ([#61934](https://github.com/CleverRaven/Cataclysm-DDA/pull/61934))
-* Fixes name of XL medium plate armor ([#61899](https://github.com/CleverRaven/Cataclysm-DDA/pull/61899))
-* auto labeler maintenance ([#61904](https://github.com/CleverRaven/Cataclysm-DDA/pull/61904))
 * Fix #61901 activating a lit Molotov causes it to explode ([#61912](https://github.com/CleverRaven/Cataclysm-DDA/pull/61912))
 * Hallucination electric monsters don't cause electric effects no more ([#61914](https://github.com/CleverRaven/Cataclysm-DDA/pull/61914))
 * Fix popup when moving from [A] using AIM ([#61927](https://github.com/CleverRaven/Cataclysm-DDA/pull/61927))
 * Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly ([#61930](https://github.com/CleverRaven/Cataclysm-DDA/pull/61930))
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
-* removed pedestrian crossing tile in hub 01 entrance ([#61905](https://github.com/CleverRaven/Cataclysm-DDA/pull/61905))
-* Fix overmap file loading from MA mod on Android ([#61879](https://github.com/CleverRaven/Cataclysm-DDA/pull/61879))
-* Fix missing translating elements in 2 parsers ([#61882](https://github.com/CleverRaven/Cataclysm-DDA/pull/61882))
-* Routine tileset updates on 23 October 2022 ([#61890](https://github.com/CleverRaven/Cataclysm-DDA/pull/61890))
