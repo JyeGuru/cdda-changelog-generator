@@ -112,8 +112,6 @@ Cataclysm-DDA experimental build 2022-10-29-1907 (743cc44)
 
 Cataclysm-DDA experimental build 2022-10-29-1734 (2872fa4)
 * [Xedra Evolved] Misc (#61995)
-
-Cataclysm-DDA experimental build 2022-10-29-0658 (7082ac9)
 * Routine i18n updates on 29 October 2022 (#61990)
 * Ignore liquids in tiles with LIQUIDCONT flag when picking up (#61958)
 * Magiclysm: Rigid aura and personal items get padded (#61969)

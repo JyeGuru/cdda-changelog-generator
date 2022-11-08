@@ -196,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2022-10-29-1734 ([2872fa4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-1734))
 
 * [Xedra Evolved] Misc ([#61995](https://github.com/CleverRaven/Cataclysm-DDA/pull/61995))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-29-0658 ([7082ac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-0658))
-
 * Routine i18n updates on 29 October 2022 ([#61990](https://github.com/CleverRaven/Cataclysm-DDA/pull/61990))
 * Ignore liquids in tiles with LIQUIDCONT flag when picking up ([#61958](https://github.com/CleverRaven/Cataclysm-DDA/pull/61958))
 * Magiclysm: Rigid aura and personal items get padded ([#61969](https://github.com/CleverRaven/Cataclysm-DDA/pull/61969))
