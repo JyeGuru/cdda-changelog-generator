@@ -190,11 +190,6 @@
 * [Backrooms] Monster group nesting fix; slightly more emptiness ([#61975](https://github.com/CleverRaven/Cataclysm-DDA/pull/61975))
 * Fix holstering items that don't fit in parent container of the holster ([#61983](https://github.com/CleverRaven/Cataclysm-DDA/pull/61983))
 * Active lightstrip won't die on their second turn no more ([#61994](https://github.com/CleverRaven/Cataclysm-DDA/pull/61994))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-29-1734 ([2872fa4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-29-1734))
-
 * [Xedra Evolved] Misc ([#61995](https://github.com/CleverRaven/Cataclysm-DDA/pull/61995))
 * Routine i18n updates on 29 October 2022 ([#61990](https://github.com/CleverRaven/Cataclysm-DDA/pull/61990))
 * Ignore liquids in tiles with LIQUIDCONT flag when picking up ([#61958](https://github.com/CleverRaven/Cataclysm-DDA/pull/61958))
