@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-09-0615 ([66f52ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-09-0615))
+
+* Fix farm supply store under-carpet flooring from wood to concrete ([#62143](https://github.com/CleverRaven/Cataclysm-DDA/pull/62143))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-08-2045 ([512da25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-2045))
 
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-10-30-1837 ([d95dc07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-1837))
 
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario ([#61993](https://github.com/CleverRaven/Cataclysm-DDA/pull/61993))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-30-1652 ([3bf0181](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-1652))
-
 * Updated activity suit description to be more clear ([#61959](https://github.com/CleverRaven/Cataclysm-DDA/pull/61959))
 * Standardize hairstyle names ([#62010](https://github.com/CleverRaven/Cataclysm-DDA/pull/62010))
 * Fix cotton sheet bundles giving patches ([#61978](https://github.com/CleverRaven/Cataclysm-DDA/pull/61978))

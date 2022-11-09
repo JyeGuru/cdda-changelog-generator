@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-09-0615 (66f52ce)
+* Fix farm supply store under-carpet flooring from wood to concrete (#62143)
+
 Cataclysm-DDA experimental build 2022-11-08-2045 (512da25)
 * Removed questionable town names (#62144)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2022-10-30-2148 (fa03493)
 
 Cataclysm-DDA experimental build 2022-10-30-1837 (d95dc07)
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario (#61993)
-
-Cataclysm-DDA experimental build 2022-10-30-1652 (3bf0181)
 * Updated activity suit description to be more clear (#61959)
 * Standardize hairstyle names (#62010)
 * Fix cotton sheet bundles giving patches (#61978)
