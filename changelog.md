@@ -1,3 +1,10 @@
+* acetylene recipe no longer makes 250x more slaked lime than it should ([#62142](https://github.com/CleverRaven/Cataclysm-DDA/pull/62142))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-10-1126 ([f63f534](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-10-1126))
+
+* npc: allied NPCs aren't shopkeepers ([#62146](https://github.com/CleverRaven/Cataclysm-DDA/pull/62146))
 
 ---
 
@@ -175,12 +182,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-10-30-2346 ([63c5555](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-2346))
-
-* Magiclysm minor weight and volume  fixes ([#61917](https://github.com/CleverRaven/Cataclysm-DDA/pull/61917))
-
----
-
 #### Cataclysm-DDA experimental build 2022-10-30-2245 ([71f1763](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-2245))
 
 * Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))
@@ -219,6 +220,5 @@
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
 * Fill deconstruct results with liquid ([#61934](https://github.com/CleverRaven/Cataclysm-DDA/pull/61934))
-* Fix popup when moving from [A] using AIM ([#61927](https://github.com/CleverRaven/Cataclysm-DDA/pull/61927))
 * Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly ([#61930](https://github.com/CleverRaven/Cataclysm-DDA/pull/61930))
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))

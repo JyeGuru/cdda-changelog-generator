@@ -1,3 +1,7 @@
+* acetylene recipe no longer makes 250x more slaked lime than it should (#62142)
+
+Cataclysm-DDA experimental build 2022-11-10-1126 (f63f534)
+* npc: allied NPCs aren't shopkeepers (#62146)
 
 Cataclysm-DDA experimental build 2022-11-10-0609 (46c3454)
 * spawn mon_copbot instead of mon_secubot in banks (#62039)
@@ -101,9 +105,6 @@ Cataclysm-DDA experimental build 2022-10-31-0547 (2c9a96c)
 Cataclysm-DDA experimental build 2022-10-31-0039 (8e7b4a9)
 * [Magiclysm] Mixed stuff (#61951)
 
-Cataclysm-DDA experimental build 2022-10-30-2346 (63c5555)
-* Magiclysm minor weight and volume  fixes (#61917)
-
 Cataclysm-DDA experimental build 2022-10-30-2245 (71f1763)
 * Tempered jian and wakizashi use medium steel (#62012)
 
@@ -138,6 +139,5 @@ Cataclysm-DDA experimental build 2022-10-30-2148 (fa03493)
 * Prefer itype_id translations for gun_type_type names (#61942)
 * Fix audio regression in msvc builds (#61944)
 * Fill deconstruct results with liquid (#61934)
-* Fix popup when moving from [A] using AIM (#61927)
 * Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly (#61930)
 * Fix "asked_to_train" to last 6 hours instead of 1 (#61932)
