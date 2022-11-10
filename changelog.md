@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-10-0609 ([46c3454](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-10-0609))
+
+* spawn mon_copbot instead of mon_secubot in banks ([#62039](https://github.com/CleverRaven/Cataclysm-DDA/pull/62039))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-09-0615 ([66f52ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-09-0615))
 
 * Fix farm supply store under-carpet flooring from wood to concrete ([#62143](https://github.com/CleverRaven/Cataclysm-DDA/pull/62143))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2022-10-30-2148 ([fa03493](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-2148))
 
 * Added hiking pants ([#61945](https://github.com/CleverRaven/Cataclysm-DDA/pull/61945))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-30-1837 ([d95dc07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-1837))
-
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario ([#61993](https://github.com/CleverRaven/Cataclysm-DDA/pull/61993))
 * Updated activity suit description to be more clear ([#61959](https://github.com/CleverRaven/Cataclysm-DDA/pull/61959))
 * Standardize hairstyle names ([#62010](https://github.com/CleverRaven/Cataclysm-DDA/pull/62010))
@@ -218,7 +219,6 @@
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
 * Fill deconstruct results with liquid ([#61934](https://github.com/CleverRaven/Cataclysm-DDA/pull/61934))
-* Hallucination electric monsters don't cause electric effects no more ([#61914](https://github.com/CleverRaven/Cataclysm-DDA/pull/61914))
 * Fix popup when moving from [A] using AIM ([#61927](https://github.com/CleverRaven/Cataclysm-DDA/pull/61927))
 * Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly ([#61930](https://github.com/CleverRaven/Cataclysm-DDA/pull/61930))
 * Fix "asked_to_train" to last 6 hours instead of 1 ([#61932](https://github.com/CleverRaven/Cataclysm-DDA/pull/61932))
