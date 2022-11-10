@@ -107,8 +107,6 @@ Cataclysm-DDA experimental build 2022-10-31-0039 (8e7b4a9)
 
 Cataclysm-DDA experimental build 2022-10-30-2245 (71f1763)
 * Tempered jian and wakizashi use medium steel (#62012)
-
-Cataclysm-DDA experimental build 2022-10-30-2148 (fa03493)
 * Added hiking pants (#61945)
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario (#61993)
 * Updated activity suit description to be more clear (#61959)
