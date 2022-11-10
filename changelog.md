@@ -179,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-10-31-0039 ([8e7b4a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-0039))
 
 * [Magiclysm] Mixed stuff ([#61951](https://github.com/CleverRaven/Cataclysm-DDA/pull/61951))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-30-2245 ([71f1763](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-30-2245))
-
 * Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))
 * Added hiking pants ([#61945](https://github.com/CleverRaven/Cataclysm-DDA/pull/61945))
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario ([#61993](https://github.com/CleverRaven/Cataclysm-DDA/pull/61993))
