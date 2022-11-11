@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-11-1028 ([fae2b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-11-1028))
+
 * Urban Samurai won't lose their katana when completing their mission ([#62160](https://github.com/CleverRaven/Cataclysm-DDA/pull/62160))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2022-10-31-1927 ([a32d046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-1927))
 
 * [Magiclysm] I am the storm that is approaching ([#61982](https://github.com/CleverRaven/Cataclysm-DDA/pull/61982))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-31-0547 ([2c9a96c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-0547))
-
 * Routine tileset updates on 30 October 2022 ([#62026](https://github.com/CleverRaven/Cataclysm-DDA/pull/62026))
 * [Magiclysm] Mixed stuff ([#61951](https://github.com/CleverRaven/Cataclysm-DDA/pull/61951))
 * Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))

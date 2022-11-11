@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-11-11-1028 (fae2b2a)
 * Urban Samurai won't lose their katana when completing their mission (#62160)
 
 Cataclysm-DDA experimental build 2022-11-11-0915 (3a80262)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2022-10-31-2246 (b260361)
 
 Cataclysm-DDA experimental build 2022-10-31-1927 (a32d046)
 * [Magiclysm] I am the storm that is approaching (#61982)
-
-Cataclysm-DDA experimental build 2022-10-31-0547 (2c9a96c)
 * Routine tileset updates on 30 October 2022 (#62026)
 * [Magiclysm] Mixed stuff (#61951)
 * Tempered jian and wakizashi use medium steel (#62012)
