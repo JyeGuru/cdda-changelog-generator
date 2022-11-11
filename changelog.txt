@@ -1,3 +1,7 @@
+* Urban Samurai won't lose their katana when completing their mission (#62160)
+
+Cataclysm-DDA experimental build 2022-11-11-0915 (3a80262)
+* Documentation on `loudness` (#62150)
 
 Cataclysm-DDA experimental build 2022-11-11-0726 (5b9a85a)
 * Updated survivor duster and trenchcoat (#62162)
@@ -104,8 +108,6 @@ Cataclysm-DDA experimental build 2022-10-31-1927 (a32d046)
 
 Cataclysm-DDA experimental build 2022-10-31-0547 (2c9a96c)
 * Routine tileset updates on 30 October 2022 (#62026)
-
-Cataclysm-DDA experimental build 2022-10-31-0039 (8e7b4a9)
 * [Magiclysm] Mixed stuff (#61951)
 * Tempered jian and wakizashi use medium steel (#62012)
 * Added hiking pants (#61945)
@@ -137,5 +139,3 @@ Cataclysm-DDA experimental build 2022-10-31-0039 (8e7b4a9)
 * Prefer itype_id translations for gun_type_type names (#61942)
 * Fix audio regression in msvc builds (#61944)
 * Fill deconstruct results with liquid (#61934)
-* Fixes an oversight with the liquid versions of typed mutagens still not giving their vitamins correctly (#61930)
-* Fix "asked_to_train" to last 6 hours instead of 1 (#61932)
