@@ -197,6 +197,7 @@
 * Routine i18n updates on 29 October 2022 ([#61990](https://github.com/CleverRaven/Cataclysm-DDA/pull/61990))
 * Ignore liquids in tiles with LIQUIDCONT flag when picking up ([#61958](https://github.com/CleverRaven/Cataclysm-DDA/pull/61958))
 * Magiclysm: Rigid aura and personal items get padded ([#61969](https://github.com/CleverRaven/Cataclysm-DDA/pull/61969))
+* Try to fix NPC getting infinite loop during loot sorting ([#61929](https://github.com/CleverRaven/Cataclysm-DDA/pull/61929))
 * Add hair styles from Crow's Hair Mod ([#61940](https://github.com/CleverRaven/Cataclysm-DDA/pull/61940))
 * Sane Pop-up Pirate size ([#61941](https://github.com/CleverRaven/Cataclysm-DDA/pull/61941))
 * feat: change labeler action for more smarter regex ([#61946](https://github.com/CleverRaven/Cataclysm-DDA/pull/61946))
