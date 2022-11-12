@@ -1,3 +1,10 @@
+* Advertising brochures in mailboxes ([#62149](https://github.com/CleverRaven/Cataclysm-DDA/pull/62149))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-12-1033 ([794e411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1033))
+
+* Tusked moose skull renaming ([#62173](https://github.com/CleverRaven/Cataclysm-DDA/pull/62173))
 
 ---
 
@@ -179,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2022-10-31-2246 ([b260361](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-2246))
 
 * creature: check ALL_SEEING before potential los ([#62031](https://github.com/CleverRaven/Cataclysm-DDA/pull/62031))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-31-1927 ([a32d046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-1927))
-
 * [Magiclysm] I am the storm that is approaching ([#61982](https://github.com/CleverRaven/Cataclysm-DDA/pull/61982))
 * Routine tileset updates on 30 October 2022 ([#62026](https://github.com/CleverRaven/Cataclysm-DDA/pull/62026))
 * [Magiclysm] Mixed stuff ([#61951](https://github.com/CleverRaven/Cataclysm-DDA/pull/61951))
@@ -216,4 +218,3 @@
 * Remove HURT fear trigger from nether species ([#61949](https://github.com/CleverRaven/Cataclysm-DDA/pull/61949))
 * Prefer itype_id translations for gun_type_type names ([#61942](https://github.com/CleverRaven/Cataclysm-DDA/pull/61942))
 * Fix audio regression in msvc builds ([#61944](https://github.com/CleverRaven/Cataclysm-DDA/pull/61944))
-* Fill deconstruct results with liquid ([#61934](https://github.com/CleverRaven/Cataclysm-DDA/pull/61934))

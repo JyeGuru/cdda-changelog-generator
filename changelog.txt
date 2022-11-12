@@ -1,3 +1,7 @@
+* Advertising brochures in mailboxes (#62149)
+
+Cataclysm-DDA experimental build 2022-11-12-1033 (794e411)
+* Tusked moose skull renaming (#62173)
 
 Cataclysm-DDA experimental build 2022-11-11-1028 (fae2b2a)
 * Urban Samurai won't lose their katana when completing their mission (#62160)
@@ -104,8 +108,6 @@ Cataclysm-DDA experimental build 2022-11-01-0004 (ed92400)
 
 Cataclysm-DDA experimental build 2022-10-31-2246 (b260361)
 * creature: check ALL_SEEING before potential los (#62031)
-
-Cataclysm-DDA experimental build 2022-10-31-1927 (a32d046)
 * [Magiclysm] I am the storm that is approaching (#61982)
 * Routine tileset updates on 30 October 2022 (#62026)
 * [Magiclysm] Mixed stuff (#61951)
@@ -138,4 +140,3 @@ Cataclysm-DDA experimental build 2022-10-31-1927 (a32d046)
 * Remove HURT fear trigger from nether species (#61949)
 * Prefer itype_id translations for gun_type_type names (#61942)
 * Fix audio regression in msvc builds (#61944)
-* Fill deconstruct results with liquid (#61934)
