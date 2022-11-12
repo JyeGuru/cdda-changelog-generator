@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-12-1149 ([76eefb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1149))
+
 * Advertising brochures in mailboxes ([#62149](https://github.com/CleverRaven/Cataclysm-DDA/pull/62149))
 
 ---
@@ -180,11 +185,6 @@
 * npctrade: merchant tweaks and documentation ([#62009](https://github.com/CleverRaven/Cataclysm-DDA/pull/62009))
 * ci: labeler already capable of sub-string searches ([#62022](https://github.com/CleverRaven/Cataclysm-DDA/pull/62022))
 * add new magiclysm snippet ([#62023](https://github.com/CleverRaven/Cataclysm-DDA/pull/62023))
-
----
-
-#### Cataclysm-DDA experimental build 2022-10-31-2246 ([b260361](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-10-31-2246))
-
 * creature: check ALL_SEEING before potential los ([#62031](https://github.com/CleverRaven/Cataclysm-DDA/pull/62031))
 * [Magiclysm] I am the storm that is approaching ([#61982](https://github.com/CleverRaven/Cataclysm-DDA/pull/61982))
 * Routine tileset updates on 30 October 2022 ([#62026](https://github.com/CleverRaven/Cataclysm-DDA/pull/62026))
