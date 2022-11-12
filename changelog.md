@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-12-1938 ([45e6e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1938))
+
+* baton fix ([#62175](https://github.com/CleverRaven/Cataclysm-DDA/pull/62175))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-12-1149 ([76eefb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1149))
 
 * Advertising brochures in mailboxes ([#62149](https://github.com/CleverRaven/Cataclysm-DDA/pull/62149))
@@ -169,12 +175,6 @@
 #### Cataclysm-DDA experimental build 2022-11-01-0509 ([300ec6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-01-0509))
 
 * Added hiking pants to nomad jumpsuit recipe ([#62027](https://github.com/CleverRaven/Cataclysm-DDA/pull/62027))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-01-0004 ([ed92400](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-01-0004))
-
-* [CR] Xedra Evolved Note improvements ([#61936](https://github.com/CleverRaven/Cataclysm-DDA/pull/61936))
 * Aquatic land-based specials no longer float ([#61981](https://github.com/CleverRaven/Cataclysm-DDA/pull/61981))
 * remove unused variables (nfc) ([#61997](https://github.com/CleverRaven/Cataclysm-DDA/pull/61997))
 * Player can no longer make zombie Jell-O ([#61998](https://github.com/CleverRaven/Cataclysm-DDA/pull/61998))

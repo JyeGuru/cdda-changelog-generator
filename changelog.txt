@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-12-1938 (45e6e56)
+* baton fix (#62175)
+
 Cataclysm-DDA experimental build 2022-11-12-1149 (76eefb9)
 * Advertising brochures in mailboxes (#62149)
 
@@ -94,9 +97,6 @@ Cataclysm-DDA experimental build 2022-11-02-0658 (cca0c2b)
 
 Cataclysm-DDA experimental build 2022-11-01-0509 (300ec6d)
 * Added hiking pants to nomad jumpsuit recipe (#62027)
-
-Cataclysm-DDA experimental build 2022-11-01-0004 (ed92400)
-* [CR] Xedra Evolved Note improvements (#61936)
 * Aquatic land-based specials no longer float (#61981)
 * remove unused variables (nfc) (#61997)
 * Player can no longer make zombie Jell-O (#61998)
