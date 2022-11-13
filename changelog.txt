@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-13-0744 (7fbae08)
+* Removed Gills mutation from the list of available mutations for Lab Patient and Experiment scenarios (#62188)
+
 Cataclysm-DDA experimental build 2022-11-12-1938 (45e6e56)
 * baton fix (#62175)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2022-11-03-0511 (acf64b7)
 
 Cataclysm-DDA experimental build 2022-11-02-0658 (cca0c2b)
 * [Magiclysm] few attunements fixes (#62035)
-
-Cataclysm-DDA experimental build 2022-11-01-0509 (300ec6d)
 * Added hiking pants to nomad jumpsuit recipe (#62027)
 * Aquatic land-based specials no longer float (#61981)
 * remove unused variables (nfc) (#61997)

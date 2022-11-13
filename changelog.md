@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-13-0744 ([7fbae08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-13-0744))
+
+* Removed Gills mutation from the list of available mutations for Lab Patient and Experiment scenarios ([#62188](https://github.com/CleverRaven/Cataclysm-DDA/pull/62188))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-12-1938 ([45e6e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1938))
 
 * baton fix ([#62175](https://github.com/CleverRaven/Cataclysm-DDA/pull/62175))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2022-11-02-0658 ([cca0c2b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-02-0658))
 
 * [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-01-0509 ([300ec6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-01-0509))
-
 * Added hiking pants to nomad jumpsuit recipe ([#62027](https://github.com/CleverRaven/Cataclysm-DDA/pull/62027))
 * Aquatic land-based specials no longer float ([#61981](https://github.com/CleverRaven/Cataclysm-DDA/pull/61981))
 * remove unused variables (nfc) ([#61997](https://github.com/CleverRaven/Cataclysm-DDA/pull/61997))
