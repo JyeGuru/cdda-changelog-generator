@@ -1,3 +1,4 @@
+* port: add info for MOUNTED_GUN flag ([#62163](https://github.com/CleverRaven/Cataclysm-DDA/pull/62163))
 
 ---
 
@@ -177,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-11-04-0352 ([f36255c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-04-0352))
 
 * Chemistry PPE ([#62067](https://github.com/CleverRaven/Cataclysm-DDA/pull/62067))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-03-1133 ([579e201](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-03-1133))
-
 * Display Appliance battery power flow for the whole connected grid ([#62036](https://github.com/CleverRaven/Cataclysm-DDA/pull/62036))
 * Fix hairstyles from #61940 not showing up in the haircut menu ([#62038](https://github.com/CleverRaven/Cataclysm-DDA/pull/62038))
 * Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
@@ -203,7 +199,6 @@
 * Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario ([#61993](https://github.com/CleverRaven/Cataclysm-DDA/pull/61993))
 * Standardize hairstyle names ([#62010](https://github.com/CleverRaven/Cataclysm-DDA/pull/62010))
-* Fix cotton sheet bundles giving patches ([#61978](https://github.com/CleverRaven/Cataclysm-DDA/pull/61978))
 * revert labeler to a working state ([#61989](https://github.com/CleverRaven/Cataclysm-DDA/pull/61989))
 * Fix holstering items that don't fit in parent container of the holster ([#61983](https://github.com/CleverRaven/Cataclysm-DDA/pull/61983))
 * Active lightstrip won't die on their second turn no more ([#61994](https://github.com/CleverRaven/Cataclysm-DDA/pull/61994))
