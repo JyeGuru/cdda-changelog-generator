@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-14-0620 ([fbfd667](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-14-0620))
+
+* Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
 * Jsonize test data for vehicle drag and effective dps tests ([#62024](https://github.com/CleverRaven/Cataclysm-DDA/pull/62024))
 * Farm Mutable ([#62037](https://github.com/CleverRaven/Cataclysm-DDA/pull/62037))
 * Fix Nonrigid nested container can't store picked up items ([#62073](https://github.com/CleverRaven/Cataclysm-DDA/pull/62073))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2022-11-03-1133 ([579e201](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-03-1133))
 
 * Display Appliance battery power flow for the whole connected grid ([#62036](https://github.com/CleverRaven/Cataclysm-DDA/pull/62036))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-03-1025 ([c90de9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-03-1025))
-
 * Fix hairstyles from #61940 not showing up in the haircut menu ([#62038](https://github.com/CleverRaven/Cataclysm-DDA/pull/62038))
 * Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
 * [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
@@ -208,4 +209,3 @@
 * Active lightstrip won't die on their second turn no more ([#61994](https://github.com/CleverRaven/Cataclysm-DDA/pull/61994))
 * [Xedra Evolved] Misc ([#61995](https://github.com/CleverRaven/Cataclysm-DDA/pull/61995))
 * Routine i18n updates on 29 October 2022 ([#61990](https://github.com/CleverRaven/Cataclysm-DDA/pull/61990))
-* Allow replacing broken parts ([#61976](https://github.com/CleverRaven/Cataclysm-DDA/pull/61976))
