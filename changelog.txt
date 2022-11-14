@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-11-14-1727 (65e5b97)
 * port: add info for MOUNTED_GUN flag (#62163)
 
 Cataclysm-DDA experimental build 2022-11-14-0620 (fbfd667)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2022-11-04-0521 (7823e38)
 * Add 1 tile radius to store ebook to device (#62055)
 * Fix mutations for Xedra Evolved (#62051)
 * Jerrycan recipe alterations (#62064)
-
-Cataclysm-DDA experimental build 2022-11-04-0352 (f36255c)
 * Chemistry PPE (#62067)
 * Display Appliance battery power flow for the whole connected grid (#62036)
 * Fix hairstyles from #61940 not showing up in the haircut menu (#62038)

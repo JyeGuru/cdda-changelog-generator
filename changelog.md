@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-14-1727 ([65e5b97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-14-1727))
+
 * port: add info for MOUNTED_GUN flag ([#62163](https://github.com/CleverRaven/Cataclysm-DDA/pull/62163))
 
 ---
@@ -172,11 +177,6 @@
 * Add 1 tile radius to store ebook to device ([#62055](https://github.com/CleverRaven/Cataclysm-DDA/pull/62055))
 * Fix mutations for Xedra Evolved ([#62051](https://github.com/CleverRaven/Cataclysm-DDA/pull/62051))
 * Jerrycan recipe alterations ([#62064](https://github.com/CleverRaven/Cataclysm-DDA/pull/62064))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-04-0352 ([f36255c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-04-0352))
-
 * Chemistry PPE ([#62067](https://github.com/CleverRaven/Cataclysm-DDA/pull/62067))
 * Display Appliance battery power flow for the whole connected grid ([#62036](https://github.com/CleverRaven/Cataclysm-DDA/pull/62036))
 * Fix hairstyles from #61940 not showing up in the haircut menu ([#62038](https://github.com/CleverRaven/Cataclysm-DDA/pull/62038))
