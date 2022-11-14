@@ -111,8 +111,6 @@ Cataclysm-DDA experimental build 2022-11-03-1133 (579e201)
 
 Cataclysm-DDA experimental build 2022-11-03-1025 (c90de9c)
 * Fix hairstyles from #61940 not showing up in the haircut menu (#62038)
-
-Cataclysm-DDA experimental build 2022-11-03-0511 (acf64b7)
 * Tutorial bugfixes and tweaks (#62045)
 * [Magiclysm] few attunements fixes (#62035)
 * Added hiking pants to nomad jumpsuit recipe (#62027)
