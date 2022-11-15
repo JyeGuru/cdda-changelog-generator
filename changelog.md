@@ -194,7 +194,6 @@
 * ci: labeler already capable of sub-string searches ([#62022](https://github.com/CleverRaven/Cataclysm-DDA/pull/62022))
 * add new magiclysm snippet ([#62023](https://github.com/CleverRaven/Cataclysm-DDA/pull/62023))
 * creature: check ALL_SEEING before potential los ([#62031](https://github.com/CleverRaven/Cataclysm-DDA/pull/62031))
-* [Magiclysm] I am the storm that is approaching ([#61982](https://github.com/CleverRaven/Cataclysm-DDA/pull/61982))
 * Routine tileset updates on 30 October 2022 ([#62026](https://github.com/CleverRaven/Cataclysm-DDA/pull/62026))
 * Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario ([#61993](https://github.com/CleverRaven/Cataclysm-DDA/pull/61993))
