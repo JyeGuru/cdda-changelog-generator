@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-15-0608 ([90c0612](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-15-0608))
+
+* Cold Tolerance and Heat Tolerance traits ([#62145](https://github.com/CleverRaven/Cataclysm-DDA/pull/62145))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-14-1727 ([65e5b97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-14-1727))
 
 * port: add info for MOUNTED_GUN flag ([#62163](https://github.com/CleverRaven/Cataclysm-DDA/pull/62163))
@@ -168,11 +174,6 @@
 
 * Even more item cleanup & disassembly ([#62047](https://github.com/CleverRaven/Cataclysm-DDA/pull/62047))
 * ci: more labeler rules ([#62049](https://github.com/CleverRaven/Cataclysm-DDA/pull/62049))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-04-0521 ([7823e38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-04-0521))
-
 * [Xedra Evolved] Typos bad, give vampire CBMs non-placeholder descriptions ([#62050](https://github.com/CleverRaven/Cataclysm-DDA/pull/62050))
 * Add 1 tile radius to store ebook to device ([#62055](https://github.com/CleverRaven/Cataclysm-DDA/pull/62055))
 * Fix mutations for Xedra Evolved ([#62051](https://github.com/CleverRaven/Cataclysm-DDA/pull/62051))
@@ -183,7 +184,6 @@
 * Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
 * [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
 * Added hiking pants to nomad jumpsuit recipe ([#62027](https://github.com/CleverRaven/Cataclysm-DDA/pull/62027))
-* Aquatic land-based specials no longer float ([#61981](https://github.com/CleverRaven/Cataclysm-DDA/pull/61981))
 * remove unused variables (nfc) ([#61997](https://github.com/CleverRaven/Cataclysm-DDA/pull/61997))
 * Player can no longer make zombie Jell-O ([#61998](https://github.com/CleverRaven/Cataclysm-DDA/pull/61998))
 * Simple vehicle/appliance extended descriptions in look around menu ([#62002](https://github.com/CleverRaven/Cataclysm-DDA/pull/62002))
