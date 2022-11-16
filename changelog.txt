@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-16-0609 (d1f765d)
+* updated leather armors (#62196)
+
 Cataclysm-DDA experimental build 2022-11-15-0608 (90c0612)
 * Cold Tolerance and Heat Tolerance traits (#62145)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2022-11-06-0557 (b804be3)
 
 Cataclysm-DDA experimental build 2022-11-05-0558 (bd17c48)
 * Routine i18n updates on 05 November 2022 (#62086)
-
-Cataclysm-DDA experimental build 2022-11-04-0831 (a2e6920)
 * Even more item cleanup & disassembly (#62047)
 * ci: more labeler rules (#62049)
 * [Xedra Evolved] Typos bad, give vampire CBMs non-placeholder descriptions (#62050)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2022-11-04-0831 (a2e6920)
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario (#61993)
 * Standardize hairstyle names (#62010)
 * revert labeler to a working state (#61989)
-* Fix holstering items that don't fit in parent container of the holster (#61983)
 * Active lightstrip won't die on their second turn no more (#61994)
 * [Xedra Evolved] Misc (#61995)
 * Routine i18n updates on 29 October 2022 (#61990)
