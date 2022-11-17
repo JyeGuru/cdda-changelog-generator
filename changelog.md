@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-17-0622 ([25a0ca0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-17-0622))
+
+* Fixes "Bloodless monsters can still get bled by butchery, leave blood splatter on ranged hits" ([#62189](https://github.com/CleverRaven/Cataclysm-DDA/pull/62189))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-16-0609 ([d1f765d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-16-0609))
 
 * updated leather armors ([#62196](https://github.com/CleverRaven/Cataclysm-DDA/pull/62196))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-11-06-0557 ([b804be3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-06-0557))
 
 * Candy bracelets no longer made of flesh ([#62106](https://github.com/CleverRaven/Cataclysm-DDA/pull/62106))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-05-0558 ([bd17c48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-05-0558))
-
 * Routine i18n updates on 05 November 2022 ([#62086](https://github.com/CleverRaven/Cataclysm-DDA/pull/62086))
 * Even more item cleanup & disassembly ([#62047](https://github.com/CleverRaven/Cataclysm-DDA/pull/62047))
 * ci: more labeler rules ([#62049](https://github.com/CleverRaven/Cataclysm-DDA/pull/62049))
@@ -199,7 +200,6 @@
 * Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario ([#61993](https://github.com/CleverRaven/Cataclysm-DDA/pull/61993))
 * Standardize hairstyle names ([#62010](https://github.com/CleverRaven/Cataclysm-DDA/pull/62010))
-* revert labeler to a working state ([#61989](https://github.com/CleverRaven/Cataclysm-DDA/pull/61989))
 * Active lightstrip won't die on their second turn no more ([#61994](https://github.com/CleverRaven/Cataclysm-DDA/pull/61994))
 * [Xedra Evolved] Misc ([#61995](https://github.com/CleverRaven/Cataclysm-DDA/pull/61995))
 * Routine i18n updates on 29 October 2022 ([#61990](https://github.com/CleverRaven/Cataclysm-DDA/pull/61990))

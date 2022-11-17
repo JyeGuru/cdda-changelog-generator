@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-17-0622 (25a0ca0)
+* Fixes "Bloodless monsters can still get bled by butchery, leave blood splatter on ranged hits" (#62189)
+
 Cataclysm-DDA experimental build 2022-11-16-0609 (d1f765d)
 * updated leather armors (#62196)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2022-11-07-0612 (1efdf44)
 
 Cataclysm-DDA experimental build 2022-11-06-0557 (b804be3)
 * Candy bracelets no longer made of flesh (#62106)
-
-Cataclysm-DDA experimental build 2022-11-05-0558 (bd17c48)
 * Routine i18n updates on 05 November 2022 (#62086)
 * Even more item cleanup & disassembly (#62047)
 * ci: more labeler rules (#62049)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2022-11-05-0558 (bd17c48)
 * Tempered jian and wakizashi use medium steel (#62012)
 * [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario (#61993)
 * Standardize hairstyle names (#62010)
-* revert labeler to a working state (#61989)
 * Active lightstrip won't die on their second turn no more (#61994)
 * [Xedra Evolved] Misc (#61995)
 * Routine i18n updates on 29 October 2022 (#61990)
