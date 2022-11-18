@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-18-0740 ([c7d375c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-18-0740))
+
+* Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-17-0622 ([25a0ca0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-17-0622))
 
 * Fixes "Bloodless monsters can still get bled by butchery, leave blood splatter on ranged hits" ([#62189](https://github.com/CleverRaven/Cataclysm-DDA/pull/62189))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-11-07-0612 ([1efdf44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-07-0612))
 
 * Routine tileset updates on 06 November 2022 ([#62117](https://github.com/CleverRaven/Cataclysm-DDA/pull/62117))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-06-0557 ([b804be3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-06-0557))
-
 * Candy bracelets no longer made of flesh ([#62106](https://github.com/CleverRaven/Cataclysm-DDA/pull/62106))
 * Routine i18n updates on 05 November 2022 ([#62086](https://github.com/CleverRaven/Cataclysm-DDA/pull/62086))
 * Even more item cleanup & disassembly ([#62047](https://github.com/CleverRaven/Cataclysm-DDA/pull/62047))
@@ -198,7 +199,6 @@
 * creature: check ALL_SEEING before potential los ([#62031](https://github.com/CleverRaven/Cataclysm-DDA/pull/62031))
 * Routine tileset updates on 30 October 2022 ([#62026](https://github.com/CleverRaven/Cataclysm-DDA/pull/62026))
 * Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))
-* [Magiclysm] Fixed player spawning location for Wizard's Apprentice scenario ([#61993](https://github.com/CleverRaven/Cataclysm-DDA/pull/61993))
 * Standardize hairstyle names ([#62010](https://github.com/CleverRaven/Cataclysm-DDA/pull/62010))
 * Active lightstrip won't die on their second turn no more ([#61994](https://github.com/CleverRaven/Cataclysm-DDA/pull/61994))
 * [Xedra Evolved] Misc ([#61995](https://github.com/CleverRaven/Cataclysm-DDA/pull/61995))
