@@ -1,8 +1,3 @@
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-18-0740 ([c7d375c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-18-0740))
-
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
 
 ---
@@ -54,11 +49,6 @@
 * Mod : Aftershock: Changed the length of the Makeshift Rail Rifle to be more realistic ([#62212](https://github.com/CleverRaven/Cataclysm-DDA/pull/62212))
 * Fix goblin forgemaster getting angry at weak players ([#62213](https://github.com/CleverRaven/Cataclysm-DDA/pull/62213))
 * The non-graphical Windows version stopped compiling ([#62214](https://github.com/CleverRaven/Cataclysm-DDA/pull/62214))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-13-0744 ([7fbae08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-13-0744))
-
 * Removed Gills mutation from the list of available mutations for Lab Patient and Experiment scenarios ([#62188](https://github.com/CleverRaven/Cataclysm-DDA/pull/62188))
 
 ---
@@ -66,11 +56,6 @@
 #### Cataclysm-DDA experimental build 2022-11-12-1938 ([45e6e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1938))
 
 * baton fix ([#62175](https://github.com/CleverRaven/Cataclysm-DDA/pull/62175))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-12-1149 ([76eefb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1149))
-
 * Advertising brochures in mailboxes ([#62149](https://github.com/CleverRaven/Cataclysm-DDA/pull/62149))
 
 ---
@@ -78,11 +63,6 @@
 #### Cataclysm-DDA experimental build 2022-11-12-1033 ([794e411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1033))
 
 * Tusked moose skull renaming ([#62173](https://github.com/CleverRaven/Cataclysm-DDA/pull/62173))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-11-1028 ([fae2b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-11-1028))
-
 * Urban Samurai won't lose their katana when completing their mission ([#62160](https://github.com/CleverRaven/Cataclysm-DDA/pull/62160))
 
 ---
@@ -121,11 +101,6 @@
 #### Cataclysm-DDA experimental build 2022-11-08-2045 ([512da25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-2045))
 
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-08-1754 ([e9204ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-1754))
-
 * [Magiclysm] Tweak some magiclysm stuff ([#62079](https://github.com/CleverRaven/Cataclysm-DDA/pull/62079))
 * Un-reverse the preset character list ([#62136](https://github.com/CleverRaven/Cataclysm-DDA/pull/62136))
 * ci: automatic code style reviews take 2 ([#62060](https://github.com/CleverRaven/Cataclysm-DDA/pull/62060))
@@ -149,11 +124,6 @@
 * npctrade: remove dead code ([#62119](https://github.com/CleverRaven/Cataclysm-DDA/pull/62119))
 * Unifies window names ([#62121](https://github.com/CleverRaven/Cataclysm-DDA/pull/62121))
 * port: better activation message for pet food action ([#62128](https://github.com/CleverRaven/Cataclysm-DDA/pull/62128))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-08-0905 ([e233dab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-0905))
-
 * acetylene recipe batch savings + byproduct ([#62130](https://github.com/CleverRaven/Cataclysm-DDA/pull/62130))
 
 ---
@@ -173,16 +143,51 @@
 #### Cataclysm-DDA experimental build 2022-11-07-0612 ([1efdf44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-07-0612))
 
 * Routine tileset updates on 06 November 2022 ([#62117](https://github.com/CleverRaven/Cataclysm-DDA/pull/62117))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-06-0557 ([b804be3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-06-0557))
+
 * Candy bracelets no longer made of flesh ([#62106](https://github.com/CleverRaven/Cataclysm-DDA/pull/62106))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-05-0558 ([bd17c48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-05-0558))
+
 * Routine i18n updates on 05 November 2022 ([#62086](https://github.com/CleverRaven/Cataclysm-DDA/pull/62086))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-04-0831 ([a2e6920](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-04-0831))
+
 * Even more item cleanup & disassembly ([#62047](https://github.com/CleverRaven/Cataclysm-DDA/pull/62047))
 * ci: more labeler rules ([#62049](https://github.com/CleverRaven/Cataclysm-DDA/pull/62049))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-04-0521 ([7823e38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-04-0521))
+
 * [Xedra Evolved] Typos bad, give vampire CBMs non-placeholder descriptions ([#62050](https://github.com/CleverRaven/Cataclysm-DDA/pull/62050))
 * Add 1 tile radius to store ebook to device ([#62055](https://github.com/CleverRaven/Cataclysm-DDA/pull/62055))
 * Fix mutations for Xedra Evolved ([#62051](https://github.com/CleverRaven/Cataclysm-DDA/pull/62051))
 * Jerrycan recipe alterations ([#62064](https://github.com/CleverRaven/Cataclysm-DDA/pull/62064))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-04-0352 ([f36255c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-04-0352))
+
 * Chemistry PPE ([#62067](https://github.com/CleverRaven/Cataclysm-DDA/pull/62067))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-03-1133 ([579e201](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-03-1133))
+
 * Display Appliance battery power flow for the whole connected grid ([#62036](https://github.com/CleverRaven/Cataclysm-DDA/pull/62036))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-03-1025 ([c90de9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-03-1025))
+
 * Fix hairstyles from #61940 not showing up in the haircut menu ([#62038](https://github.com/CleverRaven/Cataclysm-DDA/pull/62038))
 * Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
 * [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
