@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-19-0852 (3d89e40)
+* No more "right from the factory" loot in the museum (#62268)
+
 Cataclysm-DDA experimental build 2022-11-19-0507 (095975f)
 * Fix Aftershock CI issue (#62280)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2022-11-08-0905 (e233dab)
 
 Cataclysm-DDA experimental build 2022-11-08-0625 (b1b55c7)
 * port: remove references to obsolete rock_pot (#62131)
-
-Cataclysm-DDA experimental build 2022-11-07-1543 (4852b20)
 * Fixed NPC's dropping integrated weapons on death (#62118)
 * Routine tileset updates on 06 November 2022 (#62117)
 * Candy bracelets no longer made of flesh (#62106)
@@ -132,4 +133,3 @@ Cataclysm-DDA experimental build 2022-11-07-1543 (4852b20)
 * Routine tileset updates on 30 October 2022 (#62026)
 * Tempered jian and wakizashi use medium steel (#62012)
 * Standardize hairstyle names (#62010)
-* [Xedra Evolved] Misc (#61995)
