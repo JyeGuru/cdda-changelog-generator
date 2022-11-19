@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-19-0507 (095975f)
+* Fix Aftershock CI issue (#62280)
+
 Cataclysm-DDA experimental build 2022-11-18-0740 (c7d375c)
 * Bismuth as a possible ingredient in solder. (#62254)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2022-11-08-0625 (b1b55c7)
 
 Cataclysm-DDA experimental build 2022-11-07-1543 (4852b20)
 * Fixed NPC's dropping integrated weapons on death (#62118)
-
-Cataclysm-DDA experimental build 2022-11-07-0612 (1efdf44)
 * Routine tileset updates on 06 November 2022 (#62117)
 * Candy bracelets no longer made of flesh (#62106)
 * Routine i18n updates on 05 November 2022 (#62086)
@@ -131,5 +132,4 @@ Cataclysm-DDA experimental build 2022-11-07-0612 (1efdf44)
 * Routine tileset updates on 30 October 2022 (#62026)
 * Tempered jian and wakizashi use medium steel (#62012)
 * Standardize hairstyle names (#62010)
-* Active lightstrip won't die on their second turn no more (#61994)
 * [Xedra Evolved] Misc (#61995)

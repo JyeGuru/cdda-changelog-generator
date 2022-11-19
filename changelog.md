@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-19-0507 ([095975f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-19-0507))
+
+* Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-18-0740 ([c7d375c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-18-0740))
 
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-11-07-1543 ([4852b20](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-07-1543))
 
 * Fixed NPC's dropping integrated weapons on death ([#62118](https://github.com/CleverRaven/Cataclysm-DDA/pull/62118))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-07-0612 ([1efdf44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-07-0612))
-
 * Routine tileset updates on 06 November 2022 ([#62117](https://github.com/CleverRaven/Cataclysm-DDA/pull/62117))
 * Candy bracelets no longer made of flesh ([#62106](https://github.com/CleverRaven/Cataclysm-DDA/pull/62106))
 * Routine i18n updates on 05 November 2022 ([#62086](https://github.com/CleverRaven/Cataclysm-DDA/pull/62086))
@@ -200,5 +201,4 @@
 * Routine tileset updates on 30 October 2022 ([#62026](https://github.com/CleverRaven/Cataclysm-DDA/pull/62026))
 * Tempered jian and wakizashi use medium steel ([#62012](https://github.com/CleverRaven/Cataclysm-DDA/pull/62012))
 * Standardize hairstyle names ([#62010](https://github.com/CleverRaven/Cataclysm-DDA/pull/62010))
-* Active lightstrip won't die on their second turn no more ([#61994](https://github.com/CleverRaven/Cataclysm-DDA/pull/61994))
 * [Xedra Evolved] Misc ([#61995](https://github.com/CleverRaven/Cataclysm-DDA/pull/61995))
