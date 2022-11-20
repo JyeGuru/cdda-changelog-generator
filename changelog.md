@@ -1,3 +1,7 @@
+* Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
+* Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
+* Fix rm13 enchantment not working ([#62200](https://github.com/CleverRaven/Cataclysm-DDA/pull/62200))
+* Mutation distractions no longer appear when NPCs mutate ([#62204](https://github.com/CleverRaven/Cataclysm-DDA/pull/62204))
 * Fix minor vehicle issues ([#62219](https://github.com/CleverRaven/Cataclysm-DDA/pull/62219))
 * Make stimulation effect string easier to translate ([#62222](https://github.com/CleverRaven/Cataclysm-DDA/pull/62222))
 * inv_ui: fix category toggle of disabled entries ([#62226](https://github.com/CleverRaven/Cataclysm-DDA/pull/62226))
@@ -70,7 +74,6 @@
 #### Cataclysm-DDA experimental build 2022-11-14-0620 ([fbfd667](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-14-0620))
 
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
-* Jsonize test data for vehicle drag and effective dps tests ([#62024](https://github.com/CleverRaven/Cataclysm-DDA/pull/62024))
 * Farm Mutable ([#62037](https://github.com/CleverRaven/Cataclysm-DDA/pull/62037))
 * Fix Nonrigid nested container can't store picked up items ([#62073](https://github.com/CleverRaven/Cataclysm-DDA/pull/62073))
 * Fix vehicle zones not invalidating on move ([#62108](https://github.com/CleverRaven/Cataclysm-DDA/pull/62108))
@@ -203,6 +206,4 @@
 * Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
 * [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
 * Added hiking pants to nomad jumpsuit recipe ([#62027](https://github.com/CleverRaven/Cataclysm-DDA/pull/62027))
-* add new magiclysm snippet ([#62023](https://github.com/CleverRaven/Cataclysm-DDA/pull/62023))
 * creature: check ALL_SEEING before potential los ([#62031](https://github.com/CleverRaven/Cataclysm-DDA/pull/62031))
-* Routine tileset updates on 30 October 2022 ([#62026](https://github.com/CleverRaven/Cataclysm-DDA/pull/62026))
