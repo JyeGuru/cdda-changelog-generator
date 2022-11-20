@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-20-0607 (52c0a54)
+* Gas stations tweak (#62281)
+
 Cataclysm-DDA experimental build 2022-11-19-0852 (3d89e40)
 * No more "right from the factory" loot in the museum (#62268)
 
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2022-11-08-1638 (4caa3ba)
 
 Cataclysm-DDA experimental build 2022-11-08-0905 (e233dab)
 * acetylene recipe batch savings + byproduct (#62130)
-
-Cataclysm-DDA experimental build 2022-11-08-0625 (b1b55c7)
 * port: remove references to obsolete rock_pot (#62131)
 * Fixed NPC's dropping integrated weapons on death (#62118)
 * Routine tileset updates on 06 November 2022 (#62117)

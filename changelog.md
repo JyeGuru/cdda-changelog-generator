@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-20-0607 ([52c0a54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-20-0607))
+
+* Gas stations tweak ([#62281](https://github.com/CleverRaven/Cataclysm-DDA/pull/62281))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-19-0852 ([3d89e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-19-0852))
 
 * No more "right from the factory" loot in the museum ([#62268](https://github.com/CleverRaven/Cataclysm-DDA/pull/62268))
@@ -167,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2022-11-08-0905 ([e233dab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-0905))
 
 * acetylene recipe batch savings + byproduct ([#62130](https://github.com/CleverRaven/Cataclysm-DDA/pull/62130))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-08-0625 ([b1b55c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-0625))
-
 * port: remove references to obsolete rock_pot ([#62131](https://github.com/CleverRaven/Cataclysm-DDA/pull/62131))
 * Fixed NPC's dropping integrated weapons on death ([#62118](https://github.com/CleverRaven/Cataclysm-DDA/pull/62118))
 * Routine tileset updates on 06 November 2022 ([#62117](https://github.com/CleverRaven/Cataclysm-DDA/pull/62117))
