@@ -1,3 +1,4 @@
+* info for ALWAYS_TWOHAND and FIRE_TWOHAND flags ([#62272](https://github.com/CleverRaven/Cataclysm-DDA/pull/62272))
 * Pens now can be loaded with all types of pen ink ([#62293](https://github.com/CleverRaven/Cataclysm-DDA/pull/62293))
 * NRE recorder requires at least 1 charge of battery to beep ([#62303](https://github.com/CleverRaven/Cataclysm-DDA/pull/62303))
 
@@ -193,7 +194,6 @@
 * Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
 * [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
 * Added hiking pants to nomad jumpsuit recipe ([#62027](https://github.com/CleverRaven/Cataclysm-DDA/pull/62027))
-* Simple vehicle/appliance extended descriptions in look around menu ([#62002](https://github.com/CleverRaven/Cataclysm-DDA/pull/62002))
 * make KitchenMaster use pseudo_water_purifier instead of water_purifier ([#62005](https://github.com/CleverRaven/Cataclysm-DDA/pull/62005))
 * Farm supply store improvements ([#62003](https://github.com/CleverRaven/Cataclysm-DDA/pull/62003))
 * Shady Hills location updates ([#62007](https://github.com/CleverRaven/Cataclysm-DDA/pull/62007))
