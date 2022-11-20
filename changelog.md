@@ -1,3 +1,11 @@
+* Pens now can be loaded with all types of pen ink ([#62293](https://github.com/CleverRaven/Cataclysm-DDA/pull/62293))
+* NRE recorder requires at least 1 charge of battery to beep ([#62303](https://github.com/CleverRaven/Cataclysm-DDA/pull/62303))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-20-1540 ([d81e487](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-20-1540))
+
+* Fermenting vat description now mentions its volume ([#62305](https://github.com/CleverRaven/Cataclysm-DDA/pull/62305))
 
 ---
 
@@ -167,11 +175,6 @@
 * npctrade: remove dead code ([#62119](https://github.com/CleverRaven/Cataclysm-DDA/pull/62119))
 * Unifies window names ([#62121](https://github.com/CleverRaven/Cataclysm-DDA/pull/62121))
 * port: better activation message for pet food action ([#62128](https://github.com/CleverRaven/Cataclysm-DDA/pull/62128))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-08-0905 ([e233dab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-0905))
-
 * acetylene recipe batch savings + byproduct ([#62130](https://github.com/CleverRaven/Cataclysm-DDA/pull/62130))
 * port: remove references to obsolete rock_pot ([#62131](https://github.com/CleverRaven/Cataclysm-DDA/pull/62131))
 * Fixed NPC's dropping integrated weapons on death ([#62118](https://github.com/CleverRaven/Cataclysm-DDA/pull/62118))
@@ -190,8 +193,6 @@
 * Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
 * [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
 * Added hiking pants to nomad jumpsuit recipe ([#62027](https://github.com/CleverRaven/Cataclysm-DDA/pull/62027))
-* remove unused variables (nfc) ([#61997](https://github.com/CleverRaven/Cataclysm-DDA/pull/61997))
-* Player can no longer make zombie Jell-O ([#61998](https://github.com/CleverRaven/Cataclysm-DDA/pull/61998))
 * Simple vehicle/appliance extended descriptions in look around menu ([#62002](https://github.com/CleverRaven/Cataclysm-DDA/pull/62002))
 * make KitchenMaster use pseudo_water_purifier instead of water_purifier ([#62005](https://github.com/CleverRaven/Cataclysm-DDA/pull/62005))
 * Farm supply store improvements ([#62003](https://github.com/CleverRaven/Cataclysm-DDA/pull/62003))
