@@ -80,6 +80,8 @@ Cataclysm-DDA experimental build 2022-11-12-1033 (794e411)
 
 Cataclysm-DDA experimental build 2022-11-11-1028 (fae2b2a)
 * Urban Samurai won't lose their katana when completing their mission (#62160)
+
+Cataclysm-DDA experimental build 2022-11-11-0915 (3a80262)
 * Documentation on `loudness` (#62150)
 
 Cataclysm-DDA experimental build 2022-11-11-0726 (5b9a85a)
