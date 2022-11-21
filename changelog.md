@@ -1,3 +1,11 @@
+* Portal storm monsters now despawn correctly after a save/load ([#62313](https://github.com/CleverRaven/Cataclysm-DDA/pull/62313))
+* inv_ui: fix wield/wear dereference ([#62317](https://github.com/CleverRaven/Cataclysm-DDA/pull/62317))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-21-1354 ([b4d56d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-21-1354))
+
+* Invalidate crafting inventory after butchering ([#62319](https://github.com/CleverRaven/Cataclysm-DDA/pull/62319))
 
 ---
 
@@ -184,11 +192,6 @@
 * Improve FlexbufferJson parser error messaging. ([#62101](https://github.com/CleverRaven/Cataclysm-DDA/pull/62101))
 * BUGFIX: operator sniper starts with 2 bipods ([#62122](https://github.com/CleverRaven/Cataclysm-DDA/pull/62122))
 * Add astyle-diff target in Makefile to format modified files only ([#62111](https://github.com/CleverRaven/Cataclysm-DDA/pull/62111))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-08-1638 ([4caa3ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-08-1638))
-
 * Add MOLD Makefile flag to use mold linker ([#62109](https://github.com/CleverRaven/Cataclysm-DDA/pull/62109))
 * sometimes my knees are as stiff as a metal pole ([#62071](https://github.com/CleverRaven/Cataclysm-DDA/pull/62071))
 * Allowed resuming unfinished deconstruction of consoles ([#62076](https://github.com/CleverRaven/Cataclysm-DDA/pull/62076))
@@ -212,8 +215,5 @@
 * Fix mutations for Xedra Evolved ([#62051](https://github.com/CleverRaven/Cataclysm-DDA/pull/62051))
 * Jerrycan recipe alterations ([#62064](https://github.com/CleverRaven/Cataclysm-DDA/pull/62064))
 * Chemistry PPE ([#62067](https://github.com/CleverRaven/Cataclysm-DDA/pull/62067))
-* Display Appliance battery power flow for the whole connected grid ([#62036](https://github.com/CleverRaven/Cataclysm-DDA/pull/62036))
 * Fix hairstyles from #61940 not showing up in the haircut menu ([#62038](https://github.com/CleverRaven/Cataclysm-DDA/pull/62038))
 * Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
-* [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
-* creature: check ALL_SEEING before potential los ([#62031](https://github.com/CleverRaven/Cataclysm-DDA/pull/62031))
