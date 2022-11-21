@@ -1,3 +1,7 @@
+* Implement input history for overmap search ([#62296](https://github.com/CleverRaven/Cataclysm-DDA/pull/62296))
+* Fixes typo present in Hair: white, buzz cut ([#62266](https://github.com/CleverRaven/Cataclysm-DDA/pull/62266))
+* fix cold/heat tolerance being backwards ([#62273](https://github.com/CleverRaven/Cataclysm-DDA/pull/62273))
+* Routine i18n updates on 19 November 2022 ([#62291](https://github.com/CleverRaven/Cataclysm-DDA/pull/62291))
 * Portal storm monsters now despawn correctly after a save/load ([#62313](https://github.com/CleverRaven/Cataclysm-DDA/pull/62313))
 * inv_ui: fix wield/wear dereference ([#62317](https://github.com/CleverRaven/Cataclysm-DDA/pull/62317))
 
@@ -93,7 +97,6 @@
 #### Cataclysm-DDA experimental build 2022-11-14-0620 ([fbfd667](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-14-0620))
 
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
-* Farm Mutable ([#62037](https://github.com/CleverRaven/Cataclysm-DDA/pull/62037))
 * Fix Nonrigid nested container can't store picked up items ([#62073](https://github.com/CleverRaven/Cataclysm-DDA/pull/62073))
 * Fix vehicle zones not invalidating on move ([#62108](https://github.com/CleverRaven/Cataclysm-DDA/pull/62108))
 * [DinoMod] teeth grab and tear ([#62127](https://github.com/CleverRaven/Cataclysm-DDA/pull/62127))
@@ -164,12 +167,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-11-10-0609 ([46c3454](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-10-0609))
-
-* spawn mon_copbot instead of mon_secubot in banks ([#62039](https://github.com/CleverRaven/Cataclysm-DDA/pull/62039))
-
----
-
 #### Cataclysm-DDA experimental build 2022-11-09-0615 ([66f52ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-09-0615))
 
 * Fix farm supply store under-carpet flooring from wood to concrete ([#62143](https://github.com/CleverRaven/Cataclysm-DDA/pull/62143))
@@ -215,5 +212,3 @@
 * Fix mutations for Xedra Evolved ([#62051](https://github.com/CleverRaven/Cataclysm-DDA/pull/62051))
 * Jerrycan recipe alterations ([#62064](https://github.com/CleverRaven/Cataclysm-DDA/pull/62064))
 * Chemistry PPE ([#62067](https://github.com/CleverRaven/Cataclysm-DDA/pull/62067))
-* Fix hairstyles from #61940 not showing up in the haircut menu ([#62038](https://github.com/CleverRaven/Cataclysm-DDA/pull/62038))
-* Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))

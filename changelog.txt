@@ -1,3 +1,7 @@
+* Implement input history for overmap search (#62296)
+* Fixes typo present in Hair: white, buzz cut (#62266)
+* fix cold/heat tolerance being backwards (#62273)
+* Routine i18n updates on 19 November 2022 (#62291)
 * Portal storm monsters now despawn correctly after a save/load (#62313)
 * inv_ui: fix wield/wear dereference (#62317)
 
@@ -54,7 +58,6 @@ Cataclysm-DDA experimental build 2022-11-14-1727 (65e5b97)
 
 Cataclysm-DDA experimental build 2022-11-14-0620 (fbfd667)
 * Routine tileset updates on 13 November 2022 (#62215)
-* Farm Mutable (#62037)
 * Fix Nonrigid nested container can't store picked up items (#62073)
 * Fix vehicle zones not invalidating on move (#62108)
 * [DinoMod] teeth grab and tear (#62127)
@@ -99,9 +102,6 @@ Cataclysm-DDA experimental build 2022-11-11-0726 (5b9a85a)
 Cataclysm-DDA experimental build 2022-11-10-1126 (f63f534)
 * npc: allied NPCs aren't shopkeepers (#62146)
 
-Cataclysm-DDA experimental build 2022-11-10-0609 (46c3454)
-* spawn mon_copbot instead of mon_secubot in banks (#62039)
-
 Cataclysm-DDA experimental build 2022-11-09-0615 (66f52ce)
 * Fix farm supply store under-carpet flooring from wood to concrete (#62143)
 
@@ -140,5 +140,3 @@ Cataclysm-DDA experimental build 2022-11-08-1754 (e9204ec)
 * Fix mutations for Xedra Evolved (#62051)
 * Jerrycan recipe alterations (#62064)
 * Chemistry PPE (#62067)
-* Fix hairstyles from #61940 not showing up in the haircut menu (#62038)
-* Tutorial bugfixes and tweaks (#62045)
