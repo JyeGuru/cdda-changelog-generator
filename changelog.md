@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-21-1123 ([8d241c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-21-1123))
+
+* Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-20-1651 ([f6e4f2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-20-1651))
 
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
@@ -210,5 +216,4 @@
 * Fix hairstyles from #61940 not showing up in the haircut menu ([#62038](https://github.com/CleverRaven/Cataclysm-DDA/pull/62038))
 * Tutorial bugfixes and tweaks ([#62045](https://github.com/CleverRaven/Cataclysm-DDA/pull/62045))
 * [Magiclysm] few attunements fixes ([#62035](https://github.com/CleverRaven/Cataclysm-DDA/pull/62035))
-* Added hiking pants to nomad jumpsuit recipe ([#62027](https://github.com/CleverRaven/Cataclysm-DDA/pull/62027))
 * creature: check ALL_SEEING before potential los ([#62031](https://github.com/CleverRaven/Cataclysm-DDA/pull/62031))

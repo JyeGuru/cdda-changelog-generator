@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-21-1123 (8d241c1)
+* Routine tileset updates on 20 November 2022 (#62315)
+
 Cataclysm-DDA experimental build 2022-11-20-1651 (f6e4f2f)
 * Arrow rests now occupy their own "arrow rest" mod location (#62302)
 * Bugfix CARDIO trait to GOODCARDIO (#62290)
@@ -138,5 +141,4 @@ Cataclysm-DDA experimental build 2022-11-08-1638 (4caa3ba)
 * Fix hairstyles from #61940 not showing up in the haircut menu (#62038)
 * Tutorial bugfixes and tweaks (#62045)
 * [Magiclysm] few attunements fixes (#62035)
-* Added hiking pants to nomad jumpsuit recipe (#62027)
 * creature: check ALL_SEEING before potential los (#62031)
