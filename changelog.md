@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-23-0654 ([5a838b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-23-0654))
+
 * JSONify two BIO special attacks ([#62159](https://github.com/CleverRaven/Cataclysm-DDA/pull/62159))
 * increased junk platemail encumbrance ([#62269](https://github.com/CleverRaven/Cataclysm-DDA/pull/62269))
 * Drive-in movie theater ([#62270](https://github.com/CleverRaven/Cataclysm-DDA/pull/62270))
