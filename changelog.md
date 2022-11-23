@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-23-0546 ([0cebe10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-23-0546))
+
+* canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-22-0721 ([57ec78c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-22-0721))
 
 * add weight to crystallized_mana ([#62262](https://github.com/CleverRaven/Cataclysm-DDA/pull/62262))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-11-10-1126 ([f63f534](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-10-1126))
 
 * npc: allied NPCs aren't shopkeepers ([#62146](https://github.com/CleverRaven/Cataclysm-DDA/pull/62146))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-09-0615 ([66f52ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-09-0615))
-
 * Fix farm supply store under-carpet flooring from wood to concrete ([#62143](https://github.com/CleverRaven/Cataclysm-DDA/pull/62143))
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
 * [Magiclysm] Tweak some magiclysm stuff ([#62079](https://github.com/CleverRaven/Cataclysm-DDA/pull/62079))
@@ -206,7 +207,6 @@
 * Routine tileset updates on 06 November 2022 ([#62117](https://github.com/CleverRaven/Cataclysm-DDA/pull/62117))
 * Candy bracelets no longer made of flesh ([#62106](https://github.com/CleverRaven/Cataclysm-DDA/pull/62106))
 * Routine i18n updates on 05 November 2022 ([#62086](https://github.com/CleverRaven/Cataclysm-DDA/pull/62086))
-* ci: more labeler rules ([#62049](https://github.com/CleverRaven/Cataclysm-DDA/pull/62049))
 * [Xedra Evolved] Typos bad, give vampire CBMs non-placeholder descriptions ([#62050](https://github.com/CleverRaven/Cataclysm-DDA/pull/62050))
 * Add 1 tile radius to store ebook to device ([#62055](https://github.com/CleverRaven/Cataclysm-DDA/pull/62055))
 * Fix mutations for Xedra Evolved ([#62051](https://github.com/CleverRaven/Cataclysm-DDA/pull/62051))
