@@ -1,3 +1,7 @@
+* Enable butchering of very heavy corpses ([#62326](https://github.com/CleverRaven/Cataclysm-DDA/pull/62326))
+* Fix the waxed floors only dropping wax ([#62337](https://github.com/CleverRaven/Cataclysm-DDA/pull/62337))
+* fix: remove extra s ([#62330](https://github.com/CleverRaven/Cataclysm-DDA/pull/62330))
+* Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
 
 ---
 
@@ -185,7 +189,6 @@
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
 * [Magiclysm] Tweak some magiclysm stuff ([#62079](https://github.com/CleverRaven/Cataclysm-DDA/pull/62079))
 * Un-reverse the preset character list ([#62136](https://github.com/CleverRaven/Cataclysm-DDA/pull/62136))
-* ci: automatic code style reviews take 2 ([#62060](https://github.com/CleverRaven/Cataclysm-DDA/pull/62060))
 * Fix MSVC template warning ([#62081](https://github.com/CleverRaven/Cataclysm-DDA/pull/62081))
 * ci: a couple more labeler rules ([#62100](https://github.com/CleverRaven/Cataclysm-DDA/pull/62100))
 * Improve FlexbufferJson parser error messaging. ([#62101](https://github.com/CleverRaven/Cataclysm-DDA/pull/62101))
@@ -207,8 +210,5 @@
 * Routine tileset updates on 06 November 2022 ([#62117](https://github.com/CleverRaven/Cataclysm-DDA/pull/62117))
 * Candy bracelets no longer made of flesh ([#62106](https://github.com/CleverRaven/Cataclysm-DDA/pull/62106))
 * Routine i18n updates on 05 November 2022 ([#62086](https://github.com/CleverRaven/Cataclysm-DDA/pull/62086))
-* [Xedra Evolved] Typos bad, give vampire CBMs non-placeholder descriptions ([#62050](https://github.com/CleverRaven/Cataclysm-DDA/pull/62050))
-* Add 1 tile radius to store ebook to device ([#62055](https://github.com/CleverRaven/Cataclysm-DDA/pull/62055))
-* Fix mutations for Xedra Evolved ([#62051](https://github.com/CleverRaven/Cataclysm-DDA/pull/62051))
 * Jerrycan recipe alterations ([#62064](https://github.com/CleverRaven/Cataclysm-DDA/pull/62064))
 * Chemistry PPE ([#62067](https://github.com/CleverRaven/Cataclysm-DDA/pull/62067))
