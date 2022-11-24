@@ -1,3 +1,13 @@
+* Allow unloading furniture with no available inventory space ([#62345](https://github.com/CleverRaven/Cataclysm-DDA/pull/62345))
+* Fix quadrupeds still getting annoyed at you Part 2: Mattack Boogaloo ([#62346](https://github.com/CleverRaven/Cataclysm-DDA/pull/62346))
+* Repair Clang Build Analyzer job ([#62347](https://github.com/CleverRaven/Cataclysm-DDA/pull/62347))
+* add washboard to antique spawns ([#62350](https://github.com/CleverRaven/Cataclysm-DDA/pull/62350))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-24-0113 ([9d377d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-0113))
+
+* Changes brawler fail message to use 'this' to promote readability ([#62351](https://github.com/CleverRaven/Cataclysm-DDA/pull/62351))
 
 ---
 
@@ -189,22 +199,14 @@
 
 * Updated survivor duster and trenchcoat ([#62162](https://github.com/CleverRaven/Cataclysm-DDA/pull/62162))
 * acetylene recipe no longer makes 250x more slaked lime than it should ([#62142](https://github.com/CleverRaven/Cataclysm-DDA/pull/62142))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-10-1126 ([f63f534](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-10-1126))
-
 * npc: allied NPCs aren't shopkeepers ([#62146](https://github.com/CleverRaven/Cataclysm-DDA/pull/62146))
 * Fix farm supply store under-carpet flooring from wood to concrete ([#62143](https://github.com/CleverRaven/Cataclysm-DDA/pull/62143))
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
 * Un-reverse the preset character list ([#62136](https://github.com/CleverRaven/Cataclysm-DDA/pull/62136))
-* Fix MSVC template warning ([#62081](https://github.com/CleverRaven/Cataclysm-DDA/pull/62081))
-* ci: a couple more labeler rules ([#62100](https://github.com/CleverRaven/Cataclysm-DDA/pull/62100))
 * Improve FlexbufferJson parser error messaging. ([#62101](https://github.com/CleverRaven/Cataclysm-DDA/pull/62101))
 * BUGFIX: operator sniper starts with 2 bipods ([#62122](https://github.com/CleverRaven/Cataclysm-DDA/pull/62122))
 * Add astyle-diff target in Makefile to format modified files only ([#62111](https://github.com/CleverRaven/Cataclysm-DDA/pull/62111))
 * Add MOLD Makefile flag to use mold linker ([#62109](https://github.com/CleverRaven/Cataclysm-DDA/pull/62109))
-* Craftable gravelbag ([#62090](https://github.com/CleverRaven/Cataclysm-DDA/pull/62090))
 * [Xedra Evolved] some small fixes ([#62107](https://github.com/CleverRaven/Cataclysm-DDA/pull/62107))
 * Exclude ammo-restricted pockets from free space calculation ([#62110](https://github.com/CleverRaven/Cataclysm-DDA/pull/62110))
 * [DinoMod] nerf juvenile predator damage ([#62114](https://github.com/CleverRaven/Cataclysm-DDA/pull/62114))
@@ -216,4 +218,3 @@
 * Fixed NPC's dropping integrated weapons on death ([#62118](https://github.com/CleverRaven/Cataclysm-DDA/pull/62118))
 * Routine tileset updates on 06 November 2022 ([#62117](https://github.com/CleverRaven/Cataclysm-DDA/pull/62117))
 * Candy bracelets no longer made of flesh ([#62106](https://github.com/CleverRaven/Cataclysm-DDA/pull/62106))
-* Routine i18n updates on 05 November 2022 ([#62086](https://github.com/CleverRaven/Cataclysm-DDA/pull/62086))
