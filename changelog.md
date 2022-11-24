@@ -188,11 +188,6 @@
 * Mod : Aftershock: Changed the length of the Makeshift Rail Rifle to be more realistic ([#62212](https://github.com/CleverRaven/Cataclysm-DDA/pull/62212))
 * Fix goblin forgemaster getting angry at weak players ([#62213](https://github.com/CleverRaven/Cataclysm-DDA/pull/62213))
 * The non-graphical Windows version stopped compiling ([#62214](https://github.com/CleverRaven/Cataclysm-DDA/pull/62214))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-13-0744 ([7fbae08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-13-0744))
-
 * Removed Gills mutation from the list of available mutations for Lab Patient and Experiment scenarios ([#62188](https://github.com/CleverRaven/Cataclysm-DDA/pull/62188))
 * baton fix ([#62175](https://github.com/CleverRaven/Cataclysm-DDA/pull/62175))
 * Advertising brochures in mailboxes ([#62149](https://github.com/CleverRaven/Cataclysm-DDA/pull/62149))
