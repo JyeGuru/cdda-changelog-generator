@@ -122,8 +122,6 @@ Cataclysm-DDA experimental build 2022-11-13-0744 (7fbae08)
 
 Cataclysm-DDA experimental build 2022-11-12-1938 (45e6e56)
 * baton fix (#62175)
-
-Cataclysm-DDA experimental build 2022-11-12-1149 (76eefb9)
 * Advertising brochures in mailboxes (#62149)
 * Tusked moose skull renaming (#62173)
 * Urban Samurai won't lose their katana when completing their mission (#62160)
