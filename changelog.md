@@ -1,3 +1,10 @@
+* Organize NPC Chat Files ([#62120](https://github.com/CleverRaven/Cataclysm-DDA/pull/62120))
+* Add more miscellaneous NPCs ([#62134](https://github.com/CleverRaven/Cataclysm-DDA/pull/62134))
+* Add chance for cannabis extraction supplies in houses with grows ([#62164](https://github.com/CleverRaven/Cataclysm-DDA/pull/62164))
+* let the "like new" apache on the aircraft carrier take off. ([#62152](https://github.com/CleverRaven/Cataclysm-DDA/pull/62152))
+* Updates sporting armor ([#62156](https://github.com/CleverRaven/Cataclysm-DDA/pull/62156))
+* Pet AI small changes to reduce weird behavior ([#62194](https://github.com/CleverRaven/Cataclysm-DDA/pull/62194))
+* fixed the golf club not having any melee techniques ([#62300](https://github.com/CleverRaven/Cataclysm-DDA/pull/62300))
 
 ---
 
@@ -156,7 +163,6 @@
 #### Cataclysm-DDA experimental build 2022-11-14-0620 ([fbfd667](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-14-0620))
 
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
-* Fix vehicle zones not invalidating on move ([#62108](https://github.com/CleverRaven/Cataclysm-DDA/pull/62108))
 * [DinoMod] teeth grab and tear ([#62127](https://github.com/CleverRaven/Cataclysm-DDA/pull/62127))
 * Xedra Evolved Night snippets ([#62158](https://github.com/CleverRaven/Cataclysm-DDA/pull/62158))
 * fix: incorrect workflow checkout ref ([#62165](https://github.com/CleverRaven/Cataclysm-DDA/pull/62165))
@@ -197,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-11-12-1033 ([794e411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1033))
 
 * Tusked moose skull renaming ([#62173](https://github.com/CleverRaven/Cataclysm-DDA/pull/62173))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-11-1028 ([fae2b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-11-1028))
-
 * Urban Samurai won't lose their katana when completing their mission ([#62160](https://github.com/CleverRaven/Cataclysm-DDA/pull/62160))
 * Documentation on `loudness` ([#62150](https://github.com/CleverRaven/Cataclysm-DDA/pull/62150))
 * Updated survivor duster and trenchcoat ([#62162](https://github.com/CleverRaven/Cataclysm-DDA/pull/62162))
@@ -211,15 +212,9 @@
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
 * Un-reverse the preset character list ([#62136](https://github.com/CleverRaven/Cataclysm-DDA/pull/62136))
 * BUGFIX: operator sniper starts with 2 bipods ([#62122](https://github.com/CleverRaven/Cataclysm-DDA/pull/62122))
-* Add astyle-diff target in Makefile to format modified files only ([#62111](https://github.com/CleverRaven/Cataclysm-DDA/pull/62111))
-* Add MOLD Makefile flag to use mold linker ([#62109](https://github.com/CleverRaven/Cataclysm-DDA/pull/62109))
-* [Xedra Evolved] some small fixes ([#62107](https://github.com/CleverRaven/Cataclysm-DDA/pull/62107))
-* Exclude ammo-restricted pockets from free space calculation ([#62110](https://github.com/CleverRaven/Cataclysm-DDA/pull/62110))
-* [DinoMod] nerf juvenile predator damage ([#62114](https://github.com/CleverRaven/Cataclysm-DDA/pull/62114))
 * npctrade: remove dead code ([#62119](https://github.com/CleverRaven/Cataclysm-DDA/pull/62119))
 * Unifies window names ([#62121](https://github.com/CleverRaven/Cataclysm-DDA/pull/62121))
 * port: better activation message for pet food action ([#62128](https://github.com/CleverRaven/Cataclysm-DDA/pull/62128))
 * acetylene recipe batch savings + byproduct ([#62130](https://github.com/CleverRaven/Cataclysm-DDA/pull/62130))
 * port: remove references to obsolete rock_pot ([#62131](https://github.com/CleverRaven/Cataclysm-DDA/pull/62131))
 * Fixed NPC's dropping integrated weapons on death ([#62118](https://github.com/CleverRaven/Cataclysm-DDA/pull/62118))
-* Routine tileset updates on 06 November 2022 ([#62117](https://github.com/CleverRaven/Cataclysm-DDA/pull/62117))
