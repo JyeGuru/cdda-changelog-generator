@@ -1,3 +1,4 @@
+* Allow creatures to spawn on mutable farm fields ([#62366](https://github.com/CleverRaven/Cataclysm-DDA/pull/62366))
 * Skip rigid integrated armor when checking rigid conflicts ([#62357](https://github.com/CleverRaven/Cataclysm-DDA/pull/62357))
 * Mutation instability bandaid for 0.G ([#62367](https://github.com/CleverRaven/Cataclysm-DDA/pull/62367))
 * Cottage cheese ([#62274](https://github.com/CleverRaven/Cataclysm-DDA/pull/62274))
@@ -204,7 +205,6 @@
 * Fix farm supply store under-carpet flooring from wood to concrete ([#62143](https://github.com/CleverRaven/Cataclysm-DDA/pull/62143))
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
 * Un-reverse the preset character list ([#62136](https://github.com/CleverRaven/Cataclysm-DDA/pull/62136))
-* BUGFIX: operator sniper starts with 2 bipods ([#62122](https://github.com/CleverRaven/Cataclysm-DDA/pull/62122))
 * port: better activation message for pet food action ([#62128](https://github.com/CleverRaven/Cataclysm-DDA/pull/62128))
 * acetylene recipe batch savings + byproduct ([#62130](https://github.com/CleverRaven/Cataclysm-DDA/pull/62130))
 * port: remove references to obsolete rock_pot ([#62131](https://github.com/CleverRaven/Cataclysm-DDA/pull/62131))
