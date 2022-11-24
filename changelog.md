@@ -203,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-11-11-0915 ([3a80262](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-11-0915))
 
 * Documentation on `loudness` ([#62150](https://github.com/CleverRaven/Cataclysm-DDA/pull/62150))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-11-0726 ([5b9a85a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-11-0726))
-
 * Updated survivor duster and trenchcoat ([#62162](https://github.com/CleverRaven/Cataclysm-DDA/pull/62162))
 * acetylene recipe no longer makes 250x more slaked lime than it should ([#62142](https://github.com/CleverRaven/Cataclysm-DDA/pull/62142))
 * npc: allied NPCs aren't shopkeepers ([#62146](https://github.com/CleverRaven/Cataclysm-DDA/pull/62146))

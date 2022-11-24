@@ -125,8 +125,6 @@ Cataclysm-DDA experimental build 2022-11-11-1028 (fae2b2a)
 
 Cataclysm-DDA experimental build 2022-11-11-0915 (3a80262)
 * Documentation on `loudness` (#62150)
-
-Cataclysm-DDA experimental build 2022-11-11-0726 (5b9a85a)
 * Updated survivor duster and trenchcoat (#62162)
 * acetylene recipe no longer makes 250x more slaked lime than it should (#62142)
 * npc: allied NPCs aren't shopkeepers (#62146)
