@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-11-24-2127 (18761d7)
+* Fix Disconsolate Merc crash (#62362)
 * Organize NPC Chat Files (#62120)
 * Add more miscellaneous NPCs (#62134)
 * Add chance for cannabis extraction supplies in houses with grows (#62164)
@@ -119,8 +122,6 @@ Cataclysm-DDA experimental build 2022-11-14-0620 (fbfd667)
 
 Cataclysm-DDA experimental build 2022-11-13-0744 (7fbae08)
 * Removed Gills mutation from the list of available mutations for Lab Patient and Experiment scenarios (#62188)
-
-Cataclysm-DDA experimental build 2022-11-12-1938 (45e6e56)
 * baton fix (#62175)
 * Advertising brochures in mailboxes (#62149)
 * Tusked moose skull renaming (#62173)
@@ -138,4 +139,3 @@ Cataclysm-DDA experimental build 2022-11-12-1938 (45e6e56)
 * port: better activation message for pet food action (#62128)
 * acetylene recipe batch savings + byproduct (#62130)
 * port: remove references to obsolete rock_pot (#62131)
-* Fixed NPC's dropping integrated weapons on death (#62118)

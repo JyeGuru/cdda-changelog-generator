@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-24-2127 ([18761d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-2127))
+
+* Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
 * Organize NPC Chat Files ([#62120](https://github.com/CleverRaven/Cataclysm-DDA/pull/62120))
 * Add more miscellaneous NPCs ([#62134](https://github.com/CleverRaven/Cataclysm-DDA/pull/62134))
 * Add chance for cannabis extraction supplies in houses with grows ([#62164](https://github.com/CleverRaven/Cataclysm-DDA/pull/62164))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2022-11-13-0744 ([7fbae08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-13-0744))
 
 * Removed Gills mutation from the list of available mutations for Lab Patient and Experiment scenarios ([#62188](https://github.com/CleverRaven/Cataclysm-DDA/pull/62188))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-12-1938 ([45e6e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1938))
-
 * baton fix ([#62175](https://github.com/CleverRaven/Cataclysm-DDA/pull/62175))
 * Advertising brochures in mailboxes ([#62149](https://github.com/CleverRaven/Cataclysm-DDA/pull/62149))
 * Tusked moose skull renaming ([#62173](https://github.com/CleverRaven/Cataclysm-DDA/pull/62173))
@@ -207,4 +208,3 @@
 * port: better activation message for pet food action ([#62128](https://github.com/CleverRaven/Cataclysm-DDA/pull/62128))
 * acetylene recipe batch savings + byproduct ([#62130](https://github.com/CleverRaven/Cataclysm-DDA/pull/62130))
 * port: remove references to obsolete rock_pot ([#62131](https://github.com/CleverRaven/Cataclysm-DDA/pull/62131))
-* Fixed NPC's dropping integrated weapons on death ([#62118](https://github.com/CleverRaven/Cataclysm-DDA/pull/62118))
