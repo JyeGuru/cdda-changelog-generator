@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-24-0749 ([63bf9d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-0749))
+
+* Update wooden beam recipes ([#62261](https://github.com/CleverRaven/Cataclysm-DDA/pull/62261))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-24-0216 ([8201abd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-0216))
 
 * Allow unloading furniture with no available inventory space ([#62345](https://github.com/CleverRaven/Cataclysm-DDA/pull/62345))
@@ -208,7 +214,6 @@
 * Fix farm supply store under-carpet flooring from wood to concrete ([#62143](https://github.com/CleverRaven/Cataclysm-DDA/pull/62143))
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
 * Un-reverse the preset character list ([#62136](https://github.com/CleverRaven/Cataclysm-DDA/pull/62136))
-* Improve FlexbufferJson parser error messaging. ([#62101](https://github.com/CleverRaven/Cataclysm-DDA/pull/62101))
 * BUGFIX: operator sniper starts with 2 bipods ([#62122](https://github.com/CleverRaven/Cataclysm-DDA/pull/62122))
 * Add astyle-diff target in Makefile to format modified files only ([#62111](https://github.com/CleverRaven/Cataclysm-DDA/pull/62111))
 * Add MOLD Makefile flag to use mold linker ([#62109](https://github.com/CleverRaven/Cataclysm-DDA/pull/62109))
