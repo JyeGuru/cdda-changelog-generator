@@ -1,3 +1,4 @@
+* Add units::power (watts) ([#62155](https://github.com/CleverRaven/Cataclysm-DDA/pull/62155))
 
 ---
 
@@ -222,4 +223,3 @@
 * port: remove references to obsolete rock_pot ([#62131](https://github.com/CleverRaven/Cataclysm-DDA/pull/62131))
 * Fixed NPC's dropping integrated weapons on death ([#62118](https://github.com/CleverRaven/Cataclysm-DDA/pull/62118))
 * Routine tileset updates on 06 November 2022 ([#62117](https://github.com/CleverRaven/Cataclysm-DDA/pull/62117))
-* Candy bracelets no longer made of flesh ([#62106](https://github.com/CleverRaven/Cataclysm-DDA/pull/62106))

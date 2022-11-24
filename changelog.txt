@@ -1,3 +1,4 @@
+* Add units::power (watts) (#62155)
 
 Cataclysm-DDA experimental build 2022-11-24-0749 (63bf9d6)
 * Update wooden beam recipes (#62261)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2022-11-11-0915 (3a80262)
 * port: remove references to obsolete rock_pot (#62131)
 * Fixed NPC's dropping integrated weapons on death (#62118)
 * Routine tileset updates on 06 November 2022 (#62117)
-* Candy bracelets no longer made of flesh (#62106)
