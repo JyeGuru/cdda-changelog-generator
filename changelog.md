@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-24-0216 ([8201abd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-0216))
+
 * Allow unloading furniture with no available inventory space ([#62345](https://github.com/CleverRaven/Cataclysm-DDA/pull/62345))
 * Fix quadrupeds still getting annoyed at you Part 2: Mattack Boogaloo ([#62346](https://github.com/CleverRaven/Cataclysm-DDA/pull/62346))
 * Repair Clang Build Analyzer job ([#62347](https://github.com/CleverRaven/Cataclysm-DDA/pull/62347))
