@@ -197,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-11-12-1149 ([76eefb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1149))
 
 * Advertising brochures in mailboxes ([#62149](https://github.com/CleverRaven/Cataclysm-DDA/pull/62149))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-12-1033 ([794e411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1033))
-
 * Tusked moose skull renaming ([#62173](https://github.com/CleverRaven/Cataclysm-DDA/pull/62173))
 * Urban Samurai won't lose their katana when completing their mission ([#62160](https://github.com/CleverRaven/Cataclysm-DDA/pull/62160))
 * Documentation on `loudness` ([#62150](https://github.com/CleverRaven/Cataclysm-DDA/pull/62150))
