@@ -32,6 +32,8 @@ Cataclysm-DDA experimental build 2022-11-23-0654 (5a838b3)
 * Fix the waxed floors only dropping wax (#62337)
 * fix: remove extra s (#62330)
 * Move Debug_mana from Magiclysm to Mainline (#62336)
+
+Cataclysm-DDA experimental build 2022-11-23-0546 (0cebe10)
 * canvas repairs with canvas_patch (#62340)
 
 Cataclysm-DDA experimental build 2022-11-22-0721 (57ec78c)
@@ -89,6 +91,8 @@ Cataclysm-DDA experimental build 2022-11-17-0622 (25a0ca0)
 
 Cataclysm-DDA experimental build 2022-11-16-0609 (d1f765d)
 * updated leather armors (#62196)
+
+Cataclysm-DDA experimental build 2022-11-15-0608 (90c0612)
 * Cold Tolerance and Heat Tolerance traits (#62145)
 
 Cataclysm-DDA experimental build 2022-11-14-1727 (65e5b97)
@@ -118,14 +122,8 @@ Cataclysm-DDA experimental build 2022-11-13-0744 (7fbae08)
 
 Cataclysm-DDA experimental build 2022-11-12-1938 (45e6e56)
 * baton fix (#62175)
-
-Cataclysm-DDA experimental build 2022-11-12-1149 (76eefb9)
 * Advertising brochures in mailboxes (#62149)
-
-Cataclysm-DDA experimental build 2022-11-12-1033 (794e411)
 * Tusked moose skull renaming (#62173)
-
-Cataclysm-DDA experimental build 2022-11-11-1028 (fae2b2a)
 * Urban Samurai won't lose their katana when completing their mission (#62160)
 * Documentation on `loudness` (#62150)
 * Updated survivor duster and trenchcoat (#62162)

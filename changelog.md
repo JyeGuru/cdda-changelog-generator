@@ -47,6 +47,11 @@
 * Fix the waxed floors only dropping wax ([#62337](https://github.com/CleverRaven/Cataclysm-DDA/pull/62337))
 * fix: remove extra s ([#62330](https://github.com/CleverRaven/Cataclysm-DDA/pull/62330))
 * Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-23-0546 ([0cebe10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-23-0546))
+
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
 
 ---
@@ -140,6 +145,11 @@
 #### Cataclysm-DDA experimental build 2022-11-16-0609 ([d1f765d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-16-0609))
 
 * updated leather armors ([#62196](https://github.com/CleverRaven/Cataclysm-DDA/pull/62196))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-15-0608 ([90c0612](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-15-0608))
+
 * Cold Tolerance and Heat Tolerance traits ([#62145](https://github.com/CleverRaven/Cataclysm-DDA/pull/62145))
 
 ---
@@ -181,23 +191,8 @@
 #### Cataclysm-DDA experimental build 2022-11-12-1938 ([45e6e56](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1938))
 
 * baton fix ([#62175](https://github.com/CleverRaven/Cataclysm-DDA/pull/62175))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-12-1149 ([76eefb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1149))
-
 * Advertising brochures in mailboxes ([#62149](https://github.com/CleverRaven/Cataclysm-DDA/pull/62149))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-12-1033 ([794e411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-12-1033))
-
 * Tusked moose skull renaming ([#62173](https://github.com/CleverRaven/Cataclysm-DDA/pull/62173))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-11-1028 ([fae2b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-11-1028))
-
 * Urban Samurai won't lose their katana when completing their mission ([#62160](https://github.com/CleverRaven/Cataclysm-DDA/pull/62160))
 * Documentation on `loudness` ([#62150](https://github.com/CleverRaven/Cataclysm-DDA/pull/62150))
 * Updated survivor duster and trenchcoat ([#62162](https://github.com/CleverRaven/Cataclysm-DDA/pull/62162))
