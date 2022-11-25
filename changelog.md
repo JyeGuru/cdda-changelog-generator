@@ -206,4 +206,3 @@
 * Fix farm supply store under-carpet flooring from wood to concrete ([#62143](https://github.com/CleverRaven/Cataclysm-DDA/pull/62143))
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
 * Un-reverse the preset character list ([#62136](https://github.com/CleverRaven/Cataclysm-DDA/pull/62136))
-* port: remove references to obsolete rock_pot ([#62131](https://github.com/CleverRaven/Cataclysm-DDA/pull/62131))
