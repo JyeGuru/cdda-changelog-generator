@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-25-0609 ([0236ecd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-25-0609))
+
+* Mark overmap location if player drops favorited item ([#62299](https://github.com/CleverRaven/Cataclysm-DDA/pull/62299))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-25-0023 ([9eba9da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-25-0023))
 
 * replace BIOLUM0_active with conditional enchantment ([#62358](https://github.com/CleverRaven/Cataclysm-DDA/pull/62358))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-11-14-1727 ([65e5b97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-14-1727))
 
 * port: add info for MOUNTED_GUN flag ([#62163](https://github.com/CleverRaven/Cataclysm-DDA/pull/62163))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-14-0620 ([fbfd667](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-14-0620))
-
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
 * Xedra Evolved Night snippets ([#62158](https://github.com/CleverRaven/Cataclysm-DDA/pull/62158))
 * fix: incorrect workflow checkout ref ([#62165](https://github.com/CleverRaven/Cataclysm-DDA/pull/62165))
@@ -205,5 +206,4 @@
 * Fix farm supply store under-carpet flooring from wood to concrete ([#62143](https://github.com/CleverRaven/Cataclysm-DDA/pull/62143))
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
 * Un-reverse the preset character list ([#62136](https://github.com/CleverRaven/Cataclysm-DDA/pull/62136))
-* acetylene recipe batch savings + byproduct ([#62130](https://github.com/CleverRaven/Cataclysm-DDA/pull/62130))
 * port: remove references to obsolete rock_pot ([#62131](https://github.com/CleverRaven/Cataclysm-DDA/pull/62131))
