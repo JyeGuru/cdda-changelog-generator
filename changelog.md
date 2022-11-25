@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-25-2224 ([0db4580](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-25-2224))
+
 * Chitin recipes adjustment/standardization  ([#62249](https://github.com/CleverRaven/Cataclysm-DDA/pull/62249))
 * Add giftshop to urban city block and 3 new items ([#62348](https://github.com/CleverRaven/Cataclysm-DDA/pull/62348))
 
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2022-11-15-0608 ([90c0612](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-15-0608))
 
 * Cold Tolerance and Heat Tolerance traits ([#62145](https://github.com/CleverRaven/Cataclysm-DDA/pull/62145))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-14-1727 ([65e5b97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-14-1727))
-
 * port: add info for MOUNTED_GUN flag ([#62163](https://github.com/CleverRaven/Cataclysm-DDA/pull/62163))
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
 * Xedra Evolved Night snippets ([#62158](https://github.com/CleverRaven/Cataclysm-DDA/pull/62158))
