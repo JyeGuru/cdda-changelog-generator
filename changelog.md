@@ -1,3 +1,5 @@
+* Chitin recipes adjustment/standardization  ([#62249](https://github.com/CleverRaven/Cataclysm-DDA/pull/62249))
+* Add giftshop to urban city block and 3 new items ([#62348](https://github.com/CleverRaven/Cataclysm-DDA/pull/62348))
 
 ---
 
@@ -20,7 +22,6 @@
 #### Cataclysm-DDA experimental build 2022-11-24-2127 ([18761d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-2127))
 
 * Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
-* Add more miscellaneous NPCs ([#62134](https://github.com/CleverRaven/Cataclysm-DDA/pull/62134))
 * Add chance for cannabis extraction supplies in houses with grows ([#62164](https://github.com/CleverRaven/Cataclysm-DDA/pull/62164))
 * let the "like new" apache on the aircraft carrier take off. ([#62152](https://github.com/CleverRaven/Cataclysm-DDA/pull/62152))
 * Updates sporting armor ([#62156](https://github.com/CleverRaven/Cataclysm-DDA/pull/62156))
@@ -205,4 +206,3 @@
 * npc: allied NPCs aren't shopkeepers ([#62146](https://github.com/CleverRaven/Cataclysm-DDA/pull/62146))
 * Fix farm supply store under-carpet flooring from wood to concrete ([#62143](https://github.com/CleverRaven/Cataclysm-DDA/pull/62143))
 * Removed questionable town names ([#62144](https://github.com/CleverRaven/Cataclysm-DDA/pull/62144))
-* Un-reverse the preset character list ([#62136](https://github.com/CleverRaven/Cataclysm-DDA/pull/62136))

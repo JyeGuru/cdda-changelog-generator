@@ -1,3 +1,5 @@
+* Chitin recipes adjustment/standardization  (#62249)
+* Add giftshop to urban city block and 3 new items (#62348)
 
 Cataclysm-DDA experimental build 2022-11-25-0609 (0236ecd)
 * Mark overmap location if player drops favorited item (#62299)
@@ -11,7 +13,6 @@ Cataclysm-DDA experimental build 2022-11-25-0023 (9eba9da)
 
 Cataclysm-DDA experimental build 2022-11-24-2127 (18761d7)
 * Fix Disconsolate Merc crash (#62362)
-* Add more miscellaneous NPCs (#62134)
 * Add chance for cannabis extraction supplies in houses with grows (#62164)
 * let the "like new" apache on the aircraft carrier take off. (#62152)
 * Updates sporting armor (#62156)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-11-14-1727 (65e5b97)
 * npc: allied NPCs aren't shopkeepers (#62146)
 * Fix farm supply store under-carpet flooring from wood to concrete (#62143)
 * Removed questionable town names (#62144)
-* Un-reverse the preset character list (#62136)
