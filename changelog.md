@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-26-0612 ([10a3f17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-0612))
+
+* Routine i18n updates on 26 November 2022 ([#62394](https://github.com/CleverRaven/Cataclysm-DDA/pull/62394))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-26-0104 ([45f41b9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-0104))
 
 * Tiny terminal punctuation fix for trampling ([#62371](https://github.com/CleverRaven/Cataclysm-DDA/pull/62371))
@@ -44,7 +50,6 @@
 
 * Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
 * Add chance for cannabis extraction supplies in houses with grows ([#62164](https://github.com/CleverRaven/Cataclysm-DDA/pull/62164))
-* let the "like new" apache on the aircraft carrier take off. ([#62152](https://github.com/CleverRaven/Cataclysm-DDA/pull/62152))
 * Updates sporting armor ([#62156](https://github.com/CleverRaven/Cataclysm-DDA/pull/62156))
 * Pet AI small changes to reduce weird behavior ([#62194](https://github.com/CleverRaven/Cataclysm-DDA/pull/62194))
 * fixed the golf club not having any melee techniques ([#62300](https://github.com/CleverRaven/Cataclysm-DDA/pull/62300))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2022-11-18-0740 ([c7d375c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-18-0740))
 
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-17-0622 ([25a0ca0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-17-0622))
-
 * Fixes "Bloodless monsters can still get bled by butchery, leave blood splatter on ranged hits" ([#62189](https://github.com/CleverRaven/Cataclysm-DDA/pull/62189))
 * updated leather armors ([#62196](https://github.com/CleverRaven/Cataclysm-DDA/pull/62196))
 * port: add info for MOUNTED_GUN flag ([#62163](https://github.com/CleverRaven/Cataclysm-DDA/pull/62163))
