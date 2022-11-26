@@ -1,3 +1,11 @@
+* mapgen: skip player auto features when updating map ([#62356](https://github.com/CleverRaven/Cataclysm-DDA/pull/62356))
+* mapgen: remove npc from moninfo cache too ([#62376](https://github.com/CleverRaven/Cataclysm-DDA/pull/62376))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-26-1819 ([cfe02e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-1819))
+
+* Pin mac_alias to 2.2.0 to fix dmgbuild ([#62402](https://github.com/CleverRaven/Cataclysm-DDA/pull/62402))
 
 ---
 
@@ -50,15 +58,8 @@
 
 * Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
 * Add chance for cannabis extraction supplies in houses with grows ([#62164](https://github.com/CleverRaven/Cataclysm-DDA/pull/62164))
-* Updates sporting armor ([#62156](https://github.com/CleverRaven/Cataclysm-DDA/pull/62156))
 * Pet AI small changes to reduce weird behavior ([#62194](https://github.com/CleverRaven/Cataclysm-DDA/pull/62194))
 * fixed the golf club not having any melee techniques ([#62300](https://github.com/CleverRaven/Cataclysm-DDA/pull/62300))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-24-1529 ([43dbd7a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-1529))
-
-* Add units::power (watts) ([#62155](https://github.com/CleverRaven/Cataclysm-DDA/pull/62155))
 
 ---
 
@@ -175,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-11-19-0507 ([095975f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-19-0507))
 
 * Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-18-0740 ([c7d375c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-18-0740))
-
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
 * Fixes "Bloodless monsters can still get bled by butchery, leave blood splatter on ranged hits" ([#62189](https://github.com/CleverRaven/Cataclysm-DDA/pull/62189))
 * updated leather armors ([#62196](https://github.com/CleverRaven/Cataclysm-DDA/pull/62196))

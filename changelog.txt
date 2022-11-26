@@ -1,3 +1,8 @@
+* mapgen: skip player auto features when updating map (#62356)
+* mapgen: remove npc from moninfo cache too (#62376)
+
+Cataclysm-DDA experimental build 2022-11-26-1819 (cfe02e0)
+* Pin mac_alias to 2.2.0 to fix dmgbuild (#62402)
 
 Cataclysm-DDA experimental build 2022-11-26-0612 (10a3f17)
 * Routine i18n updates on 26 November 2022 (#62394)
@@ -29,12 +34,8 @@ Cataclysm-DDA experimental build 2022-11-25-0023 (9eba9da)
 Cataclysm-DDA experimental build 2022-11-24-2127 (18761d7)
 * Fix Disconsolate Merc crash (#62362)
 * Add chance for cannabis extraction supplies in houses with grows (#62164)
-* Updates sporting armor (#62156)
 * Pet AI small changes to reduce weird behavior (#62194)
 * fixed the golf club not having any melee techniques (#62300)
-
-Cataclysm-DDA experimental build 2022-11-24-1529 (43dbd7a)
-* Add units::power (watts) (#62155)
 
 Cataclysm-DDA experimental build 2022-11-24-0749 (63bf9d6)
 * Update wooden beam recipes (#62261)
@@ -109,8 +110,6 @@ Cataclysm-DDA experimental build 2022-11-19-0852 (3d89e40)
 
 Cataclysm-DDA experimental build 2022-11-19-0507 (095975f)
 * Fix Aftershock CI issue (#62280)
-
-Cataclysm-DDA experimental build 2022-11-18-0740 (c7d375c)
 * Bismuth as a possible ingredient in solder. (#62254)
 * Fixes "Bloodless monsters can still get bled by butchery, leave blood splatter on ranged hits" (#62189)
 * updated leather armors (#62196)
