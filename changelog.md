@@ -204,5 +204,4 @@
 * baton fix ([#62175](https://github.com/CleverRaven/Cataclysm-DDA/pull/62175))
 * Tusked moose skull renaming ([#62173](https://github.com/CleverRaven/Cataclysm-DDA/pull/62173))
 * Urban Samurai won't lose their katana when completing their mission ([#62160](https://github.com/CleverRaven/Cataclysm-DDA/pull/62160))
-* Documentation on `loudness` ([#62150](https://github.com/CleverRaven/Cataclysm-DDA/pull/62150))
 * Updated survivor duster and trenchcoat ([#62162](https://github.com/CleverRaven/Cataclysm-DDA/pull/62162))
