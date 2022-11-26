@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-26-1949 ([153648e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-1949))
+
 * mapgen: skip player auto features when updating map ([#62356](https://github.com/CleverRaven/Cataclysm-DDA/pull/62356))
 * mapgen: remove npc from moninfo cache too ([#62376](https://github.com/CleverRaven/Cataclysm-DDA/pull/62376))
 
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2022-11-19-0852 ([3d89e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-19-0852))
 
 * No more "right from the factory" loot in the museum ([#62268](https://github.com/CleverRaven/Cataclysm-DDA/pull/62268))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-19-0507 ([095975f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-19-0507))
-
 * Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
 * Fixes "Bloodless monsters can still get bled by butchery, leave blood splatter on ranged hits" ([#62189](https://github.com/CleverRaven/Cataclysm-DDA/pull/62189))
