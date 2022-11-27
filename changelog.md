@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-27-1427 ([82ee3c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-27-1427))
+
+* chore: typo hunting ft. codespell ([#62418](https://github.com/CleverRaven/Cataclysm-DDA/pull/62418))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-27-0118 ([b50f199](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-27-0118))
 
 * Remove q_staff_plus_one from known_bad_density.json ([#62413](https://github.com/CleverRaven/Cataclysm-DDA/pull/62413))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-11-20-1540 ([d81e487](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-20-1540))
 
 * Fermenting vat description now mentions its volume ([#62305](https://github.com/CleverRaven/Cataclysm-DDA/pull/62305))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-20-0607 ([52c0a54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-20-0607))
-
 * Gas stations tweak ([#62281](https://github.com/CleverRaven/Cataclysm-DDA/pull/62281))
 * No more "right from the factory" loot in the museum ([#62268](https://github.com/CleverRaven/Cataclysm-DDA/pull/62268))
 * Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
@@ -194,4 +195,3 @@
 * Removed Gills mutation from the list of available mutations for Lab Patient and Experiment scenarios ([#62188](https://github.com/CleverRaven/Cataclysm-DDA/pull/62188))
 * baton fix ([#62175](https://github.com/CleverRaven/Cataclysm-DDA/pull/62175))
 * Tusked moose skull renaming ([#62173](https://github.com/CleverRaven/Cataclysm-DDA/pull/62173))
-* Updated survivor duster and trenchcoat ([#62162](https://github.com/CleverRaven/Cataclysm-DDA/pull/62162))

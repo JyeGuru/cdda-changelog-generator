@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-27-1427 (82ee3c2)
+* chore: typo hunting ft. codespell (#62418)
+
 Cataclysm-DDA experimental build 2022-11-27-0118 (b50f199)
 * Remove q_staff_plus_one from known_bad_density.json (#62413)
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions (#62405)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2022-11-20-1651 (f6e4f2f)
 
 Cataclysm-DDA experimental build 2022-11-20-1540 (d81e487)
 * Fermenting vat description now mentions its volume (#62305)
-
-Cataclysm-DDA experimental build 2022-11-20-0607 (52c0a54)
 * Gas stations tweak (#62281)
 * No more "right from the factory" loot in the museum (#62268)
 * Fix Aftershock CI issue (#62280)
@@ -131,4 +132,3 @@ Cataclysm-DDA experimental build 2022-11-20-0607 (52c0a54)
 * Removed Gills mutation from the list of available mutations for Lab Patient and Experiment scenarios (#62188)
 * baton fix (#62175)
 * Tusked moose skull renaming (#62173)
-* Updated survivor duster and trenchcoat (#62162)
