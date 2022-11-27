@@ -75,7 +75,6 @@
 #### Cataclysm-DDA experimental build 2022-11-24-2127 ([18761d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-2127))
 
 * Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
-* Add chance for cannabis extraction supplies in houses with grows ([#62164](https://github.com/CleverRaven/Cataclysm-DDA/pull/62164))
 * Pet AI small changes to reduce weird behavior ([#62194](https://github.com/CleverRaven/Cataclysm-DDA/pull/62194))
 * fixed the golf club not having any melee techniques ([#62300](https://github.com/CleverRaven/Cataclysm-DDA/pull/62300))
 
