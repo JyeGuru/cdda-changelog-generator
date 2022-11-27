@@ -176,7 +176,6 @@
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
 * Fixes "Bloodless monsters can still get bled by butchery, leave blood splatter on ranged hits" ([#62189](https://github.com/CleverRaven/Cataclysm-DDA/pull/62189))
 * updated leather armors ([#62196](https://github.com/CleverRaven/Cataclysm-DDA/pull/62196))
-* port: add info for MOUNTED_GUN flag ([#62163](https://github.com/CleverRaven/Cataclysm-DDA/pull/62163))
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
 * fix: incorrect workflow checkout ref ([#62165](https://github.com/CleverRaven/Cataclysm-DDA/pull/62165))
 * fix: run missions test workflow only on json changes ([#62166](https://github.com/CleverRaven/Cataclysm-DDA/pull/62166))
