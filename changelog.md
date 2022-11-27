@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-27-0118 ([b50f199](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-27-0118))
+
+* Remove q_staff_plus_one from known_bad_density.json ([#62413](https://github.com/CleverRaven/Cataclysm-DDA/pull/62413))
+* Fix Clang 12 on Ubuntu build failures on GitHub Actions ([#62405](https://github.com/CleverRaven/Cataclysm-DDA/pull/62405))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-26-1949 ([153648e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-1949))
 
 * mapgen: skip player auto features when updating map ([#62356](https://github.com/CleverRaven/Cataclysm-DDA/pull/62356))
@@ -86,12 +93,6 @@
 #### Cataclysm-DDA experimental build 2022-11-24-0113 ([9d377d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-0113))
 
 * Changes brawler fail message to use 'this' to promote readability ([#62351](https://github.com/CleverRaven/Cataclysm-DDA/pull/62351))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-23-0654 ([5a838b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-23-0654))
-
-* JSONify two BIO special attacks ([#62159](https://github.com/CleverRaven/Cataclysm-DDA/pull/62159))
 * increased junk platemail encumbrance ([#62269](https://github.com/CleverRaven/Cataclysm-DDA/pull/62269))
 * Drive-in movie theater ([#62270](https://github.com/CleverRaven/Cataclysm-DDA/pull/62270))
 * Setting price_postapoc for .223 magazines ([#62329](https://github.com/CleverRaven/Cataclysm-DDA/pull/62329))
@@ -169,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2022-11-20-0607 ([52c0a54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-20-0607))
 
 * Gas stations tweak ([#62281](https://github.com/CleverRaven/Cataclysm-DDA/pull/62281))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-19-0852 ([3d89e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-19-0852))
-
 * No more "right from the factory" loot in the museum ([#62268](https://github.com/CleverRaven/Cataclysm-DDA/pull/62268))
 * Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
@@ -181,7 +177,6 @@
 * updated leather armors ([#62196](https://github.com/CleverRaven/Cataclysm-DDA/pull/62196))
 * port: add info for MOUNTED_GUN flag ([#62163](https://github.com/CleverRaven/Cataclysm-DDA/pull/62163))
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
-* Xedra Evolved Night snippets ([#62158](https://github.com/CleverRaven/Cataclysm-DDA/pull/62158))
 * fix: incorrect workflow checkout ref ([#62165](https://github.com/CleverRaven/Cataclysm-DDA/pull/62165))
 * fix: run missions test workflow only on json changes ([#62166](https://github.com/CleverRaven/Cataclysm-DDA/pull/62166))
 * Fix missing output from cataclysm-tiles.exe --help ([#62178](https://github.com/CleverRaven/Cataclysm-DDA/pull/62178))
@@ -199,5 +194,4 @@
 * Removed Gills mutation from the list of available mutations for Lab Patient and Experiment scenarios ([#62188](https://github.com/CleverRaven/Cataclysm-DDA/pull/62188))
 * baton fix ([#62175](https://github.com/CleverRaven/Cataclysm-DDA/pull/62175))
 * Tusked moose skull renaming ([#62173](https://github.com/CleverRaven/Cataclysm-DDA/pull/62173))
-* Urban Samurai won't lose their katana when completing their mission ([#62160](https://github.com/CleverRaven/Cataclysm-DDA/pull/62160))
 * Updated survivor duster and trenchcoat ([#62162](https://github.com/CleverRaven/Cataclysm-DDA/pull/62162))
