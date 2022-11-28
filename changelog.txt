@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-11-28-0706 (4034a38)
 * inv_ui: fix accumulated minor issues (#62423)
 * Receiving items from talker characters if avatar has no free space to store them no longer crashes the game (#62426)
 * Auto-deactivate Joint Servo bionic if there's no power to run it (#62404)
@@ -98,8 +100,6 @@ Cataclysm-DDA experimental build 2022-11-21-1524 (b3b97e0)
 
 Cataclysm-DDA experimental build 2022-11-21-1354 (b4d56d3)
 * Invalidate crafting inventory after butchering (#62319)
-
-Cataclysm-DDA experimental build 2022-11-21-1123 (8d241c1)
 * Routine tileset updates on 20 November 2022 (#62315)
 * Arrow rests now occupy their own "arrow rest" mod location (#62302)
 * Bugfix CARDIO trait to GOODCARDIO (#62290)

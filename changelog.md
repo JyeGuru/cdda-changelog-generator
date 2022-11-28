@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-28-0706 ([4034a38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-28-0706))
+
 * inv_ui: fix accumulated minor issues ([#62423](https://github.com/CleverRaven/Cataclysm-DDA/pull/62423))
 * Receiving items from talker characters if avatar has no free space to store them no longer crashes the game ([#62426](https://github.com/CleverRaven/Cataclysm-DDA/pull/62426))
 * Auto-deactivate Joint Servo bionic if there's no power to run it ([#62404](https://github.com/CleverRaven/Cataclysm-DDA/pull/62404))
@@ -155,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-11-21-1354 ([b4d56d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-21-1354))
 
 * Invalidate crafting inventory after butchering ([#62319](https://github.com/CleverRaven/Cataclysm-DDA/pull/62319))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-21-1123 ([8d241c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-21-1123))
-
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
