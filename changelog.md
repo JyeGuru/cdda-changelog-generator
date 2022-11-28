@@ -155,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2022-11-21-1123 ([8d241c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-21-1123))
 
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-20-1651 ([f6e4f2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-20-1651))
-
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
 * Fix rm13 enchantment not working ([#62200](https://github.com/CleverRaven/Cataclysm-DDA/pull/62200))
