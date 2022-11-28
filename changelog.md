@@ -1,3 +1,11 @@
+* Added `ERASE_ALL_BEFORE_PLACING_TERRAIN` flag to `toxic_waste_fence_radioactive` nested mapgen ([#62427](https://github.com/CleverRaven/Cataclysm-DDA/pull/62427))
+* fix a couple typos ([#62434](https://github.com/CleverRaven/Cataclysm-DDA/pull/62434))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-28-0449 ([2010fec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-28-0449))
+
+* Routine tileset updates on 27 November 2022 ([#62440](https://github.com/CleverRaven/Cataclysm-DDA/pull/62440))
 
 ---
 
@@ -163,11 +171,6 @@
 * info for ALWAYS_TWOHAND and FIRE_TWOHAND flags ([#62272](https://github.com/CleverRaven/Cataclysm-DDA/pull/62272))
 * Pens now can be loaded with all types of pen ink ([#62293](https://github.com/CleverRaven/Cataclysm-DDA/pull/62293))
 * NRE recorder requires at least 1 charge of battery to beep ([#62303](https://github.com/CleverRaven/Cataclysm-DDA/pull/62303))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-20-1540 ([d81e487](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-20-1540))
-
 * Fermenting vat description now mentions its volume ([#62305](https://github.com/CleverRaven/Cataclysm-DDA/pull/62305))
 * Gas stations tweak ([#62281](https://github.com/CleverRaven/Cataclysm-DDA/pull/62281))
 * No more "right from the factory" loot in the museum ([#62268](https://github.com/CleverRaven/Cataclysm-DDA/pull/62268))
@@ -176,8 +179,6 @@
 * Fixes "Bloodless monsters can still get bled by butchery, leave blood splatter on ranged hits" ([#62189](https://github.com/CleverRaven/Cataclysm-DDA/pull/62189))
 * updated leather armors ([#62196](https://github.com/CleverRaven/Cataclysm-DDA/pull/62196))
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
-* fix: incorrect workflow checkout ref ([#62165](https://github.com/CleverRaven/Cataclysm-DDA/pull/62165))
-* fix: run missions test workflow only on json changes ([#62166](https://github.com/CleverRaven/Cataclysm-DDA/pull/62166))
 * Fix missing output from cataclysm-tiles.exe --help ([#62178](https://github.com/CleverRaven/Cataclysm-DDA/pull/62178))
 * Routine i18n updates on 12 November 2022 ([#62182](https://github.com/CleverRaven/Cataclysm-DDA/pull/62182))
 * Atomic Butter: A brief adjustment for Aftershock ([#62183](https://github.com/CleverRaven/Cataclysm-DDA/pull/62183))
