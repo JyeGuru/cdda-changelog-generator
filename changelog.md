@@ -1,3 +1,10 @@
+* inv_ui: fix accumulated minor issues ([#62423](https://github.com/CleverRaven/Cataclysm-DDA/pull/62423))
+* Receiving items from talker characters if avatar has no free space to store them no longer crashes the game ([#62426](https://github.com/CleverRaven/Cataclysm-DDA/pull/62426))
+* Auto-deactivate Joint Servo bionic if there's no power to run it ([#62404](https://github.com/CleverRaven/Cataclysm-DDA/pull/62404))
+* convert add_spawn to place_spawns in mx_shia and mx_jabberwock ([#62409](https://github.com/CleverRaven/Cataclysm-DDA/pull/62409))
+* [BN Port] Fix automatic sprite rotation for non-linear overmap tiles ([#62443](https://github.com/CleverRaven/Cataclysm-DDA/pull/62443))
+* Rename Dino Dave Cardboard Box Mission ([#62424](https://github.com/CleverRaven/Cataclysm-DDA/pull/62424))
+* convert add_spawn to place_spawns in mx_city_trap ([#62421](https://github.com/CleverRaven/Cataclysm-DDA/pull/62421))
 * TropiCata: Reptile Menagerie ([#62406](https://github.com/CleverRaven/Cataclysm-DDA/pull/62406))
 * convert add_spawn to place_spawns in mx_helicopter ([#62374](https://github.com/CleverRaven/Cataclysm-DDA/pull/62374))
 * convert add_spawn to place_spawns in mx_house_wasp ([#62373](https://github.com/CleverRaven/Cataclysm-DDA/pull/62373))
@@ -88,7 +95,6 @@
 #### Cataclysm-DDA experimental build 2022-11-24-2127 ([18761d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-2127))
 
 * Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
-* Pet AI small changes to reduce weird behavior ([#62194](https://github.com/CleverRaven/Cataclysm-DDA/pull/62194))
 * fixed the golf club not having any melee techniques ([#62300](https://github.com/CleverRaven/Cataclysm-DDA/pull/62300))
 
 ---
@@ -157,7 +163,6 @@
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
-* Fix rm13 enchantment not working ([#62200](https://github.com/CleverRaven/Cataclysm-DDA/pull/62200))
 * Mutation distractions no longer appear when NPCs mutate ([#62204](https://github.com/CleverRaven/Cataclysm-DDA/pull/62204))
 * Fix minor vehicle issues ([#62219](https://github.com/CleverRaven/Cataclysm-DDA/pull/62219))
 * Make stimulation effect string easier to translate ([#62222](https://github.com/CleverRaven/Cataclysm-DDA/pull/62222))
@@ -176,11 +181,7 @@
 * No more "right from the factory" loot in the museum ([#62268](https://github.com/CleverRaven/Cataclysm-DDA/pull/62268))
 * Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
-* Fixes "Bloodless monsters can still get bled by butchery, leave blood splatter on ranged hits" ([#62189](https://github.com/CleverRaven/Cataclysm-DDA/pull/62189))
-* updated leather armors ([#62196](https://github.com/CleverRaven/Cataclysm-DDA/pull/62196))
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
-* Fix bodypart_color_text.json clause priority ([#62191](https://github.com/CleverRaven/Cataclysm-DDA/pull/62191))
-* Drawing blood will now yield blood type defined in monster's harvest list ([#62193](https://github.com/CleverRaven/Cataclysm-DDA/pull/62193))
 * Made flying monsters immune to several ground-based field types ([#62202](https://github.com/CleverRaven/Cataclysm-DDA/pull/62202))
 * Waiting options now work correctly again ([#62205](https://github.com/CleverRaven/Cataclysm-DDA/pull/62205))
 * Kord's spawn is more predictable ([#62206](https://github.com/CleverRaven/Cataclysm-DDA/pull/62206))
@@ -188,4 +189,3 @@
 * Mod : Aftershock: Changed the length of the Makeshift Rail Rifle to be more realistic ([#62212](https://github.com/CleverRaven/Cataclysm-DDA/pull/62212))
 * Fix goblin forgemaster getting angry at weak players ([#62213](https://github.com/CleverRaven/Cataclysm-DDA/pull/62213))
 * The non-graphical Windows version stopped compiling ([#62214](https://github.com/CleverRaven/Cataclysm-DDA/pull/62214))
-* Removed Gills mutation from the list of available mutations for Lab Patient and Experiment scenarios ([#62188](https://github.com/CleverRaven/Cataclysm-DDA/pull/62188))
