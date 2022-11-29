@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-29-2315 ([8f1cbbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-2315))
+
+* Fix: connect extension cables between vehicles and appliances ([#62475](https://github.com/CleverRaven/Cataclysm-DDA/pull/62475))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-29-2152 ([c299253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-2152))
 
 * fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
@@ -186,7 +192,5 @@
 * Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
-* iexamine/elevator: fix for uilist retval autoassign ([#62211](https://github.com/CleverRaven/Cataclysm-DDA/pull/62211))
-* Mod : Aftershock: Changed the length of the Makeshift Rail Rifle to be more realistic ([#62212](https://github.com/CleverRaven/Cataclysm-DDA/pull/62212))
 * Fix goblin forgemaster getting angry at weak players ([#62213](https://github.com/CleverRaven/Cataclysm-DDA/pull/62213))
 * The non-graphical Windows version stopped compiling ([#62214](https://github.com/CleverRaven/Cataclysm-DDA/pull/62214))
