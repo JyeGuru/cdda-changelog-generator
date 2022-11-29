@@ -1,3 +1,4 @@
+* Add IGNORE_SOUND, NO_BASH and RETURN_TO_START_POS traits for NPC's ([#62439](https://github.com/CleverRaven/Cataclysm-DDA/pull/62439))
 
 ---
 
@@ -183,7 +184,6 @@
 * Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
-* Waiting options now work correctly again ([#62205](https://github.com/CleverRaven/Cataclysm-DDA/pull/62205))
 * Kord's spawn is more predictable ([#62206](https://github.com/CleverRaven/Cataclysm-DDA/pull/62206))
 * iexamine/elevator: fix for uilist retval autoassign ([#62211](https://github.com/CleverRaven/Cataclysm-DDA/pull/62211))
 * Mod : Aftershock: Changed the length of the Makeshift Rail Rifle to be more realistic ([#62212](https://github.com/CleverRaven/Cataclysm-DDA/pull/62212))
