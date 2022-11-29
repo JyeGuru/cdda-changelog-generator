@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-29-1450 ([c804856](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-1450))
+
+* Allow the ability to smash a skylight ([#62414](https://github.com/CleverRaven/Cataclysm-DDA/pull/62414))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-28-0706 ([4034a38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-28-0706))
 
 * inv_ui: fix accumulated minor issues ([#62423](https://github.com/CleverRaven/Cataclysm-DDA/pull/62423))
@@ -154,11 +160,6 @@
 * Routine i18n updates on 19 November 2022 ([#62291](https://github.com/CleverRaven/Cataclysm-DDA/pull/62291))
 * Portal storm monsters now despawn correctly after a save/load ([#62313](https://github.com/CleverRaven/Cataclysm-DDA/pull/62313))
 * inv_ui: fix wield/wear dereference ([#62317](https://github.com/CleverRaven/Cataclysm-DDA/pull/62317))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-21-1354 ([b4d56d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-21-1354))
-
 * Invalidate crafting inventory after butchering ([#62319](https://github.com/CleverRaven/Cataclysm-DDA/pull/62319))
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
@@ -182,7 +183,6 @@
 * Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
-* Made flying monsters immune to several ground-based field types ([#62202](https://github.com/CleverRaven/Cataclysm-DDA/pull/62202))
 * Waiting options now work correctly again ([#62205](https://github.com/CleverRaven/Cataclysm-DDA/pull/62205))
 * Kord's spawn is more predictable ([#62206](https://github.com/CleverRaven/Cataclysm-DDA/pull/62206))
 * iexamine/elevator: fix for uilist retval autoassign ([#62211](https://github.com/CleverRaven/Cataclysm-DDA/pull/62211))
