@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-11-29-2034 (cfb1bca)
 * Add IGNORE_SOUND, NO_BASH and RETURN_TO_START_POS traits for NPC's (#62439)
 
 Cataclysm-DDA experimental build 2022-11-29-1910 (210208a)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2022-11-24-0113 (9d377d8)
 
 Cataclysm-DDA experimental build 2022-11-23-0546 (0cebe10)
 * canvas repairs with canvas_patch (#62340)
-
-Cataclysm-DDA experimental build 2022-11-22-0721 (57ec78c)
 * add weight to crystallized_mana (#62262)
 * Implement input history for overmap search (#62296)
 * Fixes typo present in Hair: white, buzz cut (#62266)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-29-2034 ([cfb1bca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-2034))
+
 * Add IGNORE_SOUND, NO_BASH and RETURN_TO_START_POS traits for NPC's ([#62439](https://github.com/CleverRaven/Cataclysm-DDA/pull/62439))
 
 ---
@@ -150,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2022-11-23-0546 ([0cebe10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-23-0546))
 
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-22-0721 ([57ec78c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-22-0721))
-
 * add weight to crystallized_mana ([#62262](https://github.com/CleverRaven/Cataclysm-DDA/pull/62262))
 * Implement input history for overmap search ([#62296](https://github.com/CleverRaven/Cataclysm-DDA/pull/62296))
 * Fixes typo present in Hair: white, buzz cut ([#62266](https://github.com/CleverRaven/Cataclysm-DDA/pull/62266))
