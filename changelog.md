@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-29-1910 ([210208a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-1910))
+
+* AIM: keep ui_adaptor running during move activities ([#62400](https://github.com/CleverRaven/Cataclysm-DDA/pull/62400))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-29-1450 ([c804856](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-1450))
 
 * Allow the ability to smash a skylight ([#62414](https://github.com/CleverRaven/Cataclysm-DDA/pull/62414))
@@ -149,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2022-11-22-0721 ([57ec78c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-22-0721))
 
 * add weight to crystallized_mana ([#62262](https://github.com/CleverRaven/Cataclysm-DDA/pull/62262))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-21-1524 ([b3b97e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-21-1524))
-
 * Implement input history for overmap search ([#62296](https://github.com/CleverRaven/Cataclysm-DDA/pull/62296))
 * Fixes typo present in Hair: white, buzz cut ([#62266](https://github.com/CleverRaven/Cataclysm-DDA/pull/62266))
 * fix cold/heat tolerance being backwards ([#62273](https://github.com/CleverRaven/Cataclysm-DDA/pull/62273))
@@ -164,7 +165,6 @@
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
-* Mutation distractions no longer appear when NPCs mutate ([#62204](https://github.com/CleverRaven/Cataclysm-DDA/pull/62204))
 * Fix minor vehicle issues ([#62219](https://github.com/CleverRaven/Cataclysm-DDA/pull/62219))
 * Make stimulation effect string easier to translate ([#62222](https://github.com/CleverRaven/Cataclysm-DDA/pull/62222))
 * inv_ui: fix category toggle of disabled entries ([#62226](https://github.com/CleverRaven/Cataclysm-DDA/pull/62226))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-29-1910 (210208a)
+* AIM: keep ui_adaptor running during move activities (#62400)
+
 Cataclysm-DDA experimental build 2022-11-29-1450 (c804856)
 * Allow the ability to smash a skylight (#62414)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2022-11-23-0546 (0cebe10)
 
 Cataclysm-DDA experimental build 2022-11-22-0721 (57ec78c)
 * add weight to crystallized_mana (#62262)
-
-Cataclysm-DDA experimental build 2022-11-21-1524 (b3b97e0)
 * Implement input history for overmap search (#62296)
 * Fixes typo present in Hair: white, buzz cut (#62266)
 * fix cold/heat tolerance being backwards (#62273)
@@ -104,7 +105,6 @@ Cataclysm-DDA experimental build 2022-11-21-1524 (b3b97e0)
 * Routine tileset updates on 20 November 2022 (#62315)
 * Arrow rests now occupy their own "arrow rest" mod location (#62302)
 * Bugfix CARDIO trait to GOODCARDIO (#62290)
-* Mutation distractions no longer appear when NPCs mutate (#62204)
 * Fix minor vehicle issues (#62219)
 * Make stimulation effect string easier to translate (#62222)
 * inv_ui: fix category toggle of disabled entries (#62226)
