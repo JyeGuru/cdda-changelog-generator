@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-29-2152 ([c299253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-2152))
+
 * fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
 * Skylight misc fixes ([#62464](https://github.com/CleverRaven/Cataclysm-DDA/pull/62464))
 
@@ -151,11 +156,6 @@
 * Fix the waxed floors only dropping wax ([#62337](https://github.com/CleverRaven/Cataclysm-DDA/pull/62337))
 * fix: remove extra s ([#62330](https://github.com/CleverRaven/Cataclysm-DDA/pull/62330))
 * Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-23-0546 ([0cebe10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-23-0546))
-
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
 * add weight to crystallized_mana ([#62262](https://github.com/CleverRaven/Cataclysm-DDA/pull/62262))
 * Implement input history for overmap search ([#62296](https://github.com/CleverRaven/Cataclysm-DDA/pull/62296))
