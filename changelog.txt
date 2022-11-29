@@ -1,3 +1,4 @@
+* Skylight misc fixes (#62464)
 
 Cataclysm-DDA experimental build 2022-11-29-2034 (cfb1bca)
 * Add IGNORE_SOUND, NO_BASH and RETURN_TO_START_POS traits for NPC's (#62439)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2022-11-23-0546 (0cebe10)
 * Fix Aftershock CI issue (#62280)
 * Bismuth as a possible ingredient in solder. (#62254)
 * Routine tileset updates on 13 November 2022 (#62215)
-* Kord's spawn is more predictable (#62206)
 * iexamine/elevator: fix for uilist retval autoassign (#62211)
 * Mod : Aftershock: Changed the length of the Makeshift Rail Rifle to be more realistic (#62212)
 * Fix goblin forgemaster getting angry at weak players (#62213)
