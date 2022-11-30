@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-11-30-0615 ([ca1a081](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-0615))
+
+* [innawood] hulk drop fixes ([#62455](https://github.com/CleverRaven/Cataclysm-DDA/pull/62455))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-11-30-0408 ([e010508](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-0408))
 
 * Fix the Valhallists shop ([#62449](https://github.com/CleverRaven/Cataclysm-DDA/pull/62449))
@@ -144,11 +150,6 @@
 #### Cataclysm-DDA experimental build 2022-11-24-0749 ([63bf9d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-0749))
 
 * Update wooden beam recipes ([#62261](https://github.com/CleverRaven/Cataclysm-DDA/pull/62261))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-24-0216 ([8201abd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-0216))
-
 * Allow unloading furniture with no available inventory space ([#62345](https://github.com/CleverRaven/Cataclysm-DDA/pull/62345))
 * Fix quadrupeds still getting annoyed at you Part 2: Mattack Boogaloo ([#62346](https://github.com/CleverRaven/Cataclysm-DDA/pull/62346))
 * Repair Clang Build Analyzer job ([#62347](https://github.com/CleverRaven/Cataclysm-DDA/pull/62347))
@@ -193,4 +194,3 @@
 * Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
 * Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
 * Routine tileset updates on 13 November 2022 ([#62215](https://github.com/CleverRaven/Cataclysm-DDA/pull/62215))
-* The non-graphical Windows version stopped compiling ([#62214](https://github.com/CleverRaven/Cataclysm-DDA/pull/62214))
