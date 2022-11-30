@@ -1,3 +1,12 @@
+* AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
+* Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
+* Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-30-1913 ([93645a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-1913))
+
+* Item Description Cleanup Project: Vehicle Parts ([#62333](https://github.com/CleverRaven/Cataclysm-DDA/pull/62333))
 
 ---
 
@@ -178,8 +187,6 @@
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
-* Make stimulation effect string easier to translate ([#62222](https://github.com/CleverRaven/Cataclysm-DDA/pull/62222))
-* inv_ui: fix category toggle of disabled entries ([#62226](https://github.com/CleverRaven/Cataclysm-DDA/pull/62226))
 * Post a warning if a pull request is created from the master branch ([#62237](https://github.com/CleverRaven/Cataclysm-DDA/pull/62237))
 * Add UI feedback if appliance has no battery on grid ([#62242](https://github.com/CleverRaven/Cataclysm-DDA/pull/62242))
 * Avoid dangerous tiles when travling with [V]iew items, look around or LMB click ([#62255](https://github.com/CleverRaven/Cataclysm-DDA/pull/62255))
