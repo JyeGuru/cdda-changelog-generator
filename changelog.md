@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-30-2019 ([0b1daba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-2019))
+
 * fixes for removing integrated armor on mutation ([#62463](https://github.com/CleverRaven/Cataclysm-DDA/pull/62463))
 * Rubber cement recipe fixes ([#62466](https://github.com/CleverRaven/Cataclysm-DDA/pull/62466))
 * AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
