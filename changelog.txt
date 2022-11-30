@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-11-30-0408 (e010508)
+* Fix the Valhallists shop (#62449)
+
 Cataclysm-DDA experimental build 2022-11-29-2315 (8f1cbbf)
 * Fix: connect extension cables between vehicles and appliances (#62475)
 
@@ -87,8 +90,6 @@ Cataclysm-DDA experimental build 2022-11-24-0216 (8201abd)
 * Fix quadrupeds still getting annoyed at you Part 2: Mattack Boogaloo (#62346)
 * Repair Clang Build Analyzer job (#62347)
 * add washboard to antique spawns (#62350)
-
-Cataclysm-DDA experimental build 2022-11-24-0113 (9d377d8)
 * Changes brawler fail message to use 'this' to promote readability (#62351)
 * increased junk platemail encumbrance (#62269)
 * Drive-in movie theater (#62270)
@@ -129,5 +130,4 @@ Cataclysm-DDA experimental build 2022-11-24-0113 (9d377d8)
 * Fix Aftershock CI issue (#62280)
 * Bismuth as a possible ingredient in solder. (#62254)
 * Routine tileset updates on 13 November 2022 (#62215)
-* Fix goblin forgemaster getting angry at weak players (#62213)
 * The non-graphical Windows version stopped compiling (#62214)
