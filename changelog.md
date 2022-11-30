@@ -1,3 +1,4 @@
+* Rubber cement recipe fixes ([#62466](https://github.com/CleverRaven/Cataclysm-DDA/pull/62466))
 * AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
 * Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
 * Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
@@ -187,7 +188,6 @@
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
-* Post a warning if a pull request is created from the master branch ([#62237](https://github.com/CleverRaven/Cataclysm-DDA/pull/62237))
 * Add UI feedback if appliance has no battery on grid ([#62242](https://github.com/CleverRaven/Cataclysm-DDA/pull/62242))
 * Avoid dangerous tiles when travling with [V]iew items, look around or LMB click ([#62255](https://github.com/CleverRaven/Cataclysm-DDA/pull/62255))
 * Disable inherit for CANT_WEAR flag ([#62257](https://github.com/CleverRaven/Cataclysm-DDA/pull/62257))
