@@ -1,3 +1,4 @@
+* Add arm64ec support to msvc solution ([#62482](https://github.com/CleverRaven/Cataclysm-DDA/pull/62482))
 
 ---
 
@@ -137,12 +138,6 @@
 #### Cataclysm-DDA experimental build 2022-11-26-0003 ([b08fca9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-0003))
 
 * Metal lamellar armor, part 1, the sheetening ([#62276](https://github.com/CleverRaven/Cataclysm-DDA/pull/62276))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-25-2224 ([0db4580](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-25-2224))
-
-* Chitin recipes adjustment/standardization  ([#62249](https://github.com/CleverRaven/Cataclysm-DDA/pull/62249))
 * Add giftshop to urban city block and 3 new items ([#62348](https://github.com/CleverRaven/Cataclysm-DDA/pull/62348))
 
 ---
