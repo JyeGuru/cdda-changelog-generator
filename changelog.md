@@ -178,7 +178,6 @@
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
-* Make stimulation effect string easier to translate ([#62222](https://github.com/CleverRaven/Cataclysm-DDA/pull/62222))
 * inv_ui: fix category toggle of disabled entries ([#62226](https://github.com/CleverRaven/Cataclysm-DDA/pull/62226))
 * Post a warning if a pull request is created from the master branch ([#62237](https://github.com/CleverRaven/Cataclysm-DDA/pull/62237))
 * Add UI feedback if appliance has no battery on grid ([#62242](https://github.com/CleverRaven/Cataclysm-DDA/pull/62242))
