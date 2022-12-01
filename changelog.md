@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-01-2057 ([6957090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-2057))
+
+* Fix FEMA camp has more ammo than any military location ([#62513](https://github.com/CleverRaven/Cataclysm-DDA/pull/62513))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-01-1209 ([98195f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-1209))
 
 * [Magiclysm] fix blood as fuel stuff ([#62327](https://github.com/CleverRaven/Cataclysm-DDA/pull/62327))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2022-11-25-0609 ([0236ecd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-25-0609))
 
 * Mark overmap location if player drops favorited item ([#62299](https://github.com/CleverRaven/Cataclysm-DDA/pull/62299))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-25-0023 ([9eba9da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-25-0023))
-
 * replace BIOLUM0_active with conditional enchantment ([#62358](https://github.com/CleverRaven/Cataclysm-DDA/pull/62358))
 * Allow creatures to spawn on mutable farm fields ([#62366](https://github.com/CleverRaven/Cataclysm-DDA/pull/62366))
 * Skip rigid integrated armor when checking rigid conflicts ([#62357](https://github.com/CleverRaven/Cataclysm-DDA/pull/62357))
@@ -197,7 +198,6 @@
 * fix: remove extra s ([#62330](https://github.com/CleverRaven/Cataclysm-DDA/pull/62330))
 * Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
-* add weight to crystallized_mana ([#62262](https://github.com/CleverRaven/Cataclysm-DDA/pull/62262))
 * Implement input history for overmap search ([#62296](https://github.com/CleverRaven/Cataclysm-DDA/pull/62296))
 * Fixes typo present in Hair: white, buzz cut ([#62266](https://github.com/CleverRaven/Cataclysm-DDA/pull/62266))
 * fix cold/heat tolerance being backwards ([#62273](https://github.com/CleverRaven/Cataclysm-DDA/pull/62273))
