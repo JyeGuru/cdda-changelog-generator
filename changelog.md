@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-01-0634 ([27c569e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-0634))
+
+* fix: some improved spells lack relevant names ([#62481](https://github.com/CleverRaven/Cataclysm-DDA/pull/62481))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-01-0029 ([e1d3675](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-0029))
 
 * Fix Demonforge bug ([#62480](https://github.com/CleverRaven/Cataclysm-DDA/pull/62480))
@@ -195,7 +201,6 @@
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
-* Avoid dangerous tiles when travling with [V]iew items, look around or LMB click ([#62255](https://github.com/CleverRaven/Cataclysm-DDA/pull/62255))
 * Disable inherit for CANT_WEAR flag ([#62257](https://github.com/CleverRaven/Cataclysm-DDA/pull/62257))
 * Don't invalidate cache when calling zone_data::set_position from vehicle code ([#62259](https://github.com/CleverRaven/Cataclysm-DDA/pull/62259))
 * Change definite article 'the' to pronoun 'your' ([#62263](https://github.com/CleverRaven/Cataclysm-DDA/pull/62263))
