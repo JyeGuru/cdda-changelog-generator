@@ -1,3 +1,4 @@
+* [Magiclysm] fix blood as fuel stuff ([#62327](https://github.com/CleverRaven/Cataclysm-DDA/pull/62327))
 * Fix inconsistent recipes, All Kevlar jumpsuits need kevlar sheets, none need layered kevlar ([#62368](https://github.com/CleverRaven/Cataclysm-DDA/pull/62368))
 
 ---
@@ -176,7 +177,6 @@
 * Cottage cheese ([#62274](https://github.com/CleverRaven/Cataclysm-DDA/pull/62274))
 * Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
 * fixed the golf club not having any melee techniques ([#62300](https://github.com/CleverRaven/Cataclysm-DDA/pull/62300))
-* Update wooden beam recipes ([#62261](https://github.com/CleverRaven/Cataclysm-DDA/pull/62261))
 * Allow unloading furniture with no available inventory space ([#62345](https://github.com/CleverRaven/Cataclysm-DDA/pull/62345))
 * Fix quadrupeds still getting annoyed at you Part 2: Mattack Boogaloo ([#62346](https://github.com/CleverRaven/Cataclysm-DDA/pull/62346))
 * Repair Clang Build Analyzer job ([#62347](https://github.com/CleverRaven/Cataclysm-DDA/pull/62347))
