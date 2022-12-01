@@ -1,3 +1,4 @@
+* Fix inconsistent recipes, All Kevlar jumpsuits need kevlar sheets, none need layered kevlar ([#62368](https://github.com/CleverRaven/Cataclysm-DDA/pull/62368))
 
 ---
 
@@ -202,7 +203,6 @@
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
-* Don't invalidate cache when calling zone_data::set_position from vehicle code ([#62259](https://github.com/CleverRaven/Cataclysm-DDA/pull/62259))
 * Change definite article 'the' to pronoun 'your' ([#62263](https://github.com/CleverRaven/Cataclysm-DDA/pull/62263))
 * info for ALWAYS_TWOHAND and FIRE_TWOHAND flags ([#62272](https://github.com/CleverRaven/Cataclysm-DDA/pull/62272))
 * Pens now can be loaded with all types of pen ink ([#62293](https://github.com/CleverRaven/Cataclysm-DDA/pull/62293))

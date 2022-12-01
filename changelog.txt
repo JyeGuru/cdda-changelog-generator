@@ -1,3 +1,4 @@
+* Fix inconsistent recipes, All Kevlar jumpsuits need kevlar sheets, none need layered kevlar (#62368)
 
 Cataclysm-DDA experimental build 2022-12-01-1105 (57c865e)
 * Some string polishing (#62499)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2022-11-25-0023 (9eba9da)
 * Routine tileset updates on 20 November 2022 (#62315)
 * Arrow rests now occupy their own "arrow rest" mod location (#62302)
 * Bugfix CARDIO trait to GOODCARDIO (#62290)
-* Don't invalidate cache when calling zone_data::set_position from vehicle code (#62259)
 * Change definite article 'the' to pronoun 'your' (#62263)
 * info for ALWAYS_TWOHAND and FIRE_TWOHAND flags (#62272)
 * Pens now can be loaded with all types of pen ink (#62293)
