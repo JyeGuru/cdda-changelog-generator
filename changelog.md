@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-01-1105 ([57c865e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-1105))
+
+* Some string polishing ([#62499](https://github.com/CleverRaven/Cataclysm-DDA/pull/62499))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-01-0634 ([27c569e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-0634))
 
 * fix: some improved spells lack relevant names ([#62481](https://github.com/CleverRaven/Cataclysm-DDA/pull/62481))
@@ -167,11 +173,6 @@
 * Skip rigid integrated armor when checking rigid conflicts ([#62357](https://github.com/CleverRaven/Cataclysm-DDA/pull/62357))
 * Mutation instability bandaid for 0.G ([#62367](https://github.com/CleverRaven/Cataclysm-DDA/pull/62367))
 * Cottage cheese ([#62274](https://github.com/CleverRaven/Cataclysm-DDA/pull/62274))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-24-2127 ([18761d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-24-2127))
-
 * Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
 * fixed the golf club not having any melee techniques ([#62300](https://github.com/CleverRaven/Cataclysm-DDA/pull/62300))
 * Update wooden beam recipes ([#62261](https://github.com/CleverRaven/Cataclysm-DDA/pull/62261))
@@ -201,7 +202,6 @@
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
-* Disable inherit for CANT_WEAR flag ([#62257](https://github.com/CleverRaven/Cataclysm-DDA/pull/62257))
 * Don't invalidate cache when calling zone_data::set_position from vehicle code ([#62259](https://github.com/CleverRaven/Cataclysm-DDA/pull/62259))
 * Change definite article 'the' to pronoun 'your' ([#62263](https://github.com/CleverRaven/Cataclysm-DDA/pull/62263))
 * info for ALWAYS_TWOHAND and FIRE_TWOHAND flags ([#62272](https://github.com/CleverRaven/Cataclysm-DDA/pull/62272))
