@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-12-01-0029 (e1d3675)
+* Fix Demonforge bug (#62480)
 * Add arm64ec support to msvc solution (#62482)
 
 Cataclysm-DDA experimental build 2022-11-30-2019 (0b1daba)
@@ -134,4 +137,3 @@ Cataclysm-DDA experimental build 2022-11-24-2127 (18761d7)
 * Gas stations tweak (#62281)
 * No more "right from the factory" loot in the museum (#62268)
 * Fix Aftershock CI issue (#62280)
-* Bismuth as a possible ingredient in solder. (#62254)

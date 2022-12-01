@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-01-0029 ([e1d3675](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-0029))
+
+* Fix Demonforge bug ([#62480](https://github.com/CleverRaven/Cataclysm-DDA/pull/62480))
 * Add arm64ec support to msvc solution ([#62482](https://github.com/CleverRaven/Cataclysm-DDA/pull/62482))
 
 ---
@@ -200,4 +206,3 @@
 * Gas stations tweak ([#62281](https://github.com/CleverRaven/Cataclysm-DDA/pull/62281))
 * No more "right from the factory" loot in the museum ([#62268](https://github.com/CleverRaven/Cataclysm-DDA/pull/62268))
 * Fix Aftershock CI issue ([#62280](https://github.com/CleverRaven/Cataclysm-DDA/pull/62280))
-* Bismuth as a possible ingredient in solder. ([#62254](https://github.com/CleverRaven/Cataclysm-DDA/pull/62254))
