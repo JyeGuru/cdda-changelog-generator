@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-01-1209 ([98195f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-1209))
+
 * [Magiclysm] fix blood as fuel stuff ([#62327](https://github.com/CleverRaven/Cataclysm-DDA/pull/62327))
 * Fix inconsistent recipes, All Kevlar jumpsuits need kevlar sheets, none need layered kevlar ([#62368](https://github.com/CleverRaven/Cataclysm-DDA/pull/62368))
 
