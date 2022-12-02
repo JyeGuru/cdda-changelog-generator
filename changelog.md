@@ -83,6 +83,11 @@
 #### Cataclysm-DDA experimental build 2022-11-30-0408 ([e010508](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-0408))
 
 * Fix the Valhallists shop ([#62449](https://github.com/CleverRaven/Cataclysm-DDA/pull/62449))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-29-2315 ([8f1cbbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-2315))
+
 * Fix: connect extension cables between vehicles and appliances ([#62475](https://github.com/CleverRaven/Cataclysm-DDA/pull/62475))
 
 ---
@@ -134,6 +139,11 @@
 #### Cataclysm-DDA experimental build 2022-11-28-0449 ([2010fec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-28-0449))
 
 * Routine tileset updates on 27 November 2022 ([#62440](https://github.com/CleverRaven/Cataclysm-DDA/pull/62440))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-27-1427 ([82ee3c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-27-1427))
+
 * chore: typo hunting ft. codespell ([#62418](https://github.com/CleverRaven/Cataclysm-DDA/pull/62418))
 
 ---
@@ -178,11 +188,6 @@
 
 * Metal lamellar armor, part 1, the sheetening ([#62276](https://github.com/CleverRaven/Cataclysm-DDA/pull/62276))
 * Add giftshop to urban city block and 3 new items ([#62348](https://github.com/CleverRaven/Cataclysm-DDA/pull/62348))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-25-0609 ([0236ecd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-25-0609))
-
 * Mark overmap location if player drops favorited item ([#62299](https://github.com/CleverRaven/Cataclysm-DDA/pull/62299))
 * replace BIOLUM0_active with conditional enchantment ([#62358](https://github.com/CleverRaven/Cataclysm-DDA/pull/62358))
 * Allow creatures to spawn on mutable farm fields ([#62366](https://github.com/CleverRaven/Cataclysm-DDA/pull/62366))
