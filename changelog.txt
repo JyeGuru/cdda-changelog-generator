@@ -1,8 +1,6 @@
 
 Cataclysm-DDA experimental build 2022-12-02-0627 (380d899)
 * Bugfix: Removes Nutrient override from Cottage cheese (#62509)
-
-Cataclysm-DDA experimental build 2022-12-02-0444 (acb5cb7)
 * Fix ferals in hazardous waste sarcophagus (#62515)
 
 Cataclysm-DDA experimental build 2022-12-01-2057 (6957090)
@@ -90,8 +88,6 @@ Cataclysm-DDA experimental build 2022-11-26-1949 (153648e)
 
 Cataclysm-DDA experimental build 2022-11-26-1819 (cfe02e0)
 * Pin mac_alias to 2.2.0 to fix dmgbuild (#62402)
-
-Cataclysm-DDA experimental build 2022-11-26-0612 (10a3f17)
 * Routine i18n updates on 26 November 2022 (#62394)
 
 Cataclysm-DDA experimental build 2022-11-26-0104 (45f41b9)
@@ -104,6 +100,8 @@ Cataclysm-DDA experimental build 2022-11-26-0104 (45f41b9)
 Cataclysm-DDA experimental build 2022-11-26-0003 (b08fca9)
 * Metal lamellar armor, part 1, the sheetening (#62276)
 * Add giftshop to urban city block and 3 new items (#62348)
+
+Cataclysm-DDA experimental build 2022-11-25-0609 (0236ecd)
 * Mark overmap location if player drops favorited item (#62299)
 * replace BIOLUM0_active with conditional enchantment (#62358)
 * Allow creatures to spawn on mutable farm fields (#62366)
