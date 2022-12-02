@@ -44,8 +44,6 @@ Cataclysm-DDA experimental build 2022-11-30-0615 (ca1a081)
 
 Cataclysm-DDA experimental build 2022-11-30-0408 (e010508)
 * Fix the Valhallists shop (#62449)
-
-Cataclysm-DDA experimental build 2022-11-29-2315 (8f1cbbf)
 * Fix: connect extension cables between vehicles and appliances (#62475)
 
 Cataclysm-DDA experimental build 2022-11-29-2152 (c299253)
@@ -79,8 +77,6 @@ Cataclysm-DDA experimental build 2022-11-28-0706 (4034a38)
 
 Cataclysm-DDA experimental build 2022-11-28-0449 (2010fec)
 * Routine tileset updates on 27 November 2022 (#62440)
-
-Cataclysm-DDA experimental build 2022-11-27-1427 (82ee3c2)
 * chore: typo hunting ft. codespell (#62418)
 
 Cataclysm-DDA experimental build 2022-11-27-0118 (b50f199)
@@ -107,6 +103,8 @@ Cataclysm-DDA experimental build 2022-11-26-0104 (45f41b9)
 Cataclysm-DDA experimental build 2022-11-26-0003 (b08fca9)
 * Metal lamellar armor, part 1, the sheetening (#62276)
 * Add giftshop to urban city block and 3 new items (#62348)
+
+Cataclysm-DDA experimental build 2022-11-25-0609 (0236ecd)
 * Mark overmap location if player drops favorited item (#62299)
 * replace BIOLUM0_active with conditional enchantment (#62358)
 * Allow creatures to spawn on mutable farm fields (#62366)
