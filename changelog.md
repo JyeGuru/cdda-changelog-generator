@@ -198,6 +198,7 @@
 * fix: remove extra s ([#62330](https://github.com/CleverRaven/Cataclysm-DDA/pull/62330))
 * Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
+* add weight to crystallized_mana ([#62262](https://github.com/CleverRaven/Cataclysm-DDA/pull/62262))
 * Implement input history for overmap search ([#62296](https://github.com/CleverRaven/Cataclysm-DDA/pull/62296))
 * Fixes typo present in Hair: white, buzz cut ([#62266](https://github.com/CleverRaven/Cataclysm-DDA/pull/62266))
 * fix cold/heat tolerance being backwards ([#62273](https://github.com/CleverRaven/Cataclysm-DDA/pull/62273))
