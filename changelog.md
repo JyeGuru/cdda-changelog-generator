@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-02-1620 ([ab877e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-02-1620))
+
+* distribution: don't allow poisson mean <= 0 ([#62528](https://github.com/CleverRaven/Cataclysm-DDA/pull/62528))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-02-0627 ([380d899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-02-0627))
 
 * Bugfix: Removes Nutrient override from Cottage cheese ([#62509](https://github.com/CleverRaven/Cataclysm-DDA/pull/62509))
@@ -206,7 +212,6 @@
 * Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
 * Implement input history for overmap search ([#62296](https://github.com/CleverRaven/Cataclysm-DDA/pull/62296))
-* Fixes typo present in Hair: white, buzz cut ([#62266](https://github.com/CleverRaven/Cataclysm-DDA/pull/62266))
 * fix cold/heat tolerance being backwards ([#62273](https://github.com/CleverRaven/Cataclysm-DDA/pull/62273))
 * Routine i18n updates on 19 November 2022 ([#62291](https://github.com/CleverRaven/Cataclysm-DDA/pull/62291))
 * Portal storm monsters now despawn correctly after a save/load ([#62313](https://github.com/CleverRaven/Cataclysm-DDA/pull/62313))

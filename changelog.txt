@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-12-02-1620 (ab877e4)
+* distribution: don't allow poisson mean <= 0 (#62528)
+
 Cataclysm-DDA experimental build 2022-12-02-0627 (380d899)
 * Bugfix: Removes Nutrient override from Cottage cheese (#62509)
 
@@ -128,7 +131,6 @@ Cataclysm-DDA experimental build 2022-11-26-0003 (b08fca9)
 * Move Debug_mana from Magiclysm to Mainline (#62336)
 * canvas repairs with canvas_patch (#62340)
 * Implement input history for overmap search (#62296)
-* Fixes typo present in Hair: white, buzz cut (#62266)
 * fix cold/heat tolerance being backwards (#62273)
 * Routine i18n updates on 19 November 2022 (#62291)
 * Portal storm monsters now despawn correctly after a save/load (#62313)
