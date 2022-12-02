@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-02-0627 ([380d899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-02-0627))
+
+* Bugfix: Removes Nutrient override from Cottage cheese ([#62509](https://github.com/CleverRaven/Cataclysm-DDA/pull/62509))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-02-0444 ([acb5cb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-02-0444))
 
 * Fix ferals in hazardous waste sarcophagus ([#62515](https://github.com/CleverRaven/Cataclysm-DDA/pull/62515))
@@ -176,11 +182,6 @@
 
 * Metal lamellar armor, part 1, the sheetening ([#62276](https://github.com/CleverRaven/Cataclysm-DDA/pull/62276))
 * Add giftshop to urban city block and 3 new items ([#62348](https://github.com/CleverRaven/Cataclysm-DDA/pull/62348))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-25-0609 ([0236ecd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-25-0609))
-
 * Mark overmap location if player drops favorited item ([#62299](https://github.com/CleverRaven/Cataclysm-DDA/pull/62299))
 * replace BIOLUM0_active with conditional enchantment ([#62358](https://github.com/CleverRaven/Cataclysm-DDA/pull/62358))
 * Allow creatures to spawn on mutable farm fields ([#62366](https://github.com/CleverRaven/Cataclysm-DDA/pull/62366))
@@ -214,7 +215,6 @@
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * Bugfix CARDIO trait to GOODCARDIO ([#62290](https://github.com/CleverRaven/Cataclysm-DDA/pull/62290))
-* Change definite article 'the' to pronoun 'your' ([#62263](https://github.com/CleverRaven/Cataclysm-DDA/pull/62263))
 * info for ALWAYS_TWOHAND and FIRE_TWOHAND flags ([#62272](https://github.com/CleverRaven/Cataclysm-DDA/pull/62272))
 * Pens now can be loaded with all types of pen ink ([#62293](https://github.com/CleverRaven/Cataclysm-DDA/pull/62293))
 * NRE recorder requires at least 1 charge of battery to beep ([#62303](https://github.com/CleverRaven/Cataclysm-DDA/pull/62303))
