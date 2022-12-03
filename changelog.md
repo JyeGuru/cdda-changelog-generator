@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-03-0815 ([ec0f3a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-03-0815))
+
+* Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-02-1620 ([ab877e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-02-1620))
 
 * distribution: don't allow poisson mean <= 0 ([#62528](https://github.com/CleverRaven/Cataclysm-DDA/pull/62528))
@@ -201,7 +207,6 @@
 * Repair Clang Build Analyzer job ([#62347](https://github.com/CleverRaven/Cataclysm-DDA/pull/62347))
 * add washboard to antique spawns ([#62350](https://github.com/CleverRaven/Cataclysm-DDA/pull/62350))
 * Changes brawler fail message to use 'this' to promote readability ([#62351](https://github.com/CleverRaven/Cataclysm-DDA/pull/62351))
-* increased junk platemail encumbrance ([#62269](https://github.com/CleverRaven/Cataclysm-DDA/pull/62269))
 * Drive-in movie theater ([#62270](https://github.com/CleverRaven/Cataclysm-DDA/pull/62270))
 * Setting price_postapoc for .223 magazines ([#62329](https://github.com/CleverRaven/Cataclysm-DDA/pull/62329))
 * Fix USE_LANG not found when using --check-mods dda in SDL build ([#62309](https://github.com/CleverRaven/Cataclysm-DDA/pull/62309))
