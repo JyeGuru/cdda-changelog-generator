@@ -10,11 +10,6 @@
 #### Cataclysm-DDA experimental build 2022-12-03-0815 ([ec0f3a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-03-0815))
 
 * Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-02-1620 ([ab877e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-02-1620))
-
 * distribution: don't allow poisson mean <= 0 ([#62528](https://github.com/CleverRaven/Cataclysm-DDA/pull/62528))
 
 ---
@@ -193,6 +188,11 @@
 * Bugfix/vacuum seal recipes ([#62390](https://github.com/CleverRaven/Cataclysm-DDA/pull/62390))
 * Fix nuclear plant stairs ([#62389](https://github.com/CleverRaven/Cataclysm-DDA/pull/62389))
 * Fixes for temperature regulation ([#62392](https://github.com/CleverRaven/Cataclysm-DDA/pull/62392))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-11-26-0003 ([b08fca9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-0003))
+
 * Metal lamellar armor, part 1, the sheetening ([#62276](https://github.com/CleverRaven/Cataclysm-DDA/pull/62276))
 * Add giftshop to urban city block and 3 new items ([#62348](https://github.com/CleverRaven/Cataclysm-DDA/pull/62348))
 * Mark overmap location if player drops favorited item ([#62299](https://github.com/CleverRaven/Cataclysm-DDA/pull/62299))
