@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-03-1651 ([b8eb345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-03-1651))
+
+* Don't persist flatbuffers for save files. ([#62536](https://github.com/CleverRaven/Cataclysm-DDA/pull/62536))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-03-0815 ([ec0f3a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-03-0815))
 
 * Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))
@@ -187,11 +193,6 @@
 * Bugfix/vacuum seal recipes ([#62390](https://github.com/CleverRaven/Cataclysm-DDA/pull/62390))
 * Fix nuclear plant stairs ([#62389](https://github.com/CleverRaven/Cataclysm-DDA/pull/62389))
 * Fixes for temperature regulation ([#62392](https://github.com/CleverRaven/Cataclysm-DDA/pull/62392))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-26-0003 ([b08fca9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-0003))
-
 * Metal lamellar armor, part 1, the sheetening ([#62276](https://github.com/CleverRaven/Cataclysm-DDA/pull/62276))
 * Add giftshop to urban city block and 3 new items ([#62348](https://github.com/CleverRaven/Cataclysm-DDA/pull/62348))
 * Mark overmap location if player drops favorited item ([#62299](https://github.com/CleverRaven/Cataclysm-DDA/pull/62299))
@@ -207,7 +208,6 @@
 * Repair Clang Build Analyzer job ([#62347](https://github.com/CleverRaven/Cataclysm-DDA/pull/62347))
 * add washboard to antique spawns ([#62350](https://github.com/CleverRaven/Cataclysm-DDA/pull/62350))
 * Changes brawler fail message to use 'this' to promote readability ([#62351](https://github.com/CleverRaven/Cataclysm-DDA/pull/62351))
-* Drive-in movie theater ([#62270](https://github.com/CleverRaven/Cataclysm-DDA/pull/62270))
 * Setting price_postapoc for .223 magazines ([#62329](https://github.com/CleverRaven/Cataclysm-DDA/pull/62329))
 * Fix USE_LANG not found when using --check-mods dda in SDL build ([#62309](https://github.com/CleverRaven/Cataclysm-DDA/pull/62309))
 * Pre-cache the flatbuffer parser C locale in main ([#62325](https://github.com/CleverRaven/Cataclysm-DDA/pull/62325))

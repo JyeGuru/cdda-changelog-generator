@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-12-03-1651 (b8eb345)
+* Don't persist flatbuffers for save files. (#62536)
+
 Cataclysm-DDA experimental build 2022-12-03-0815 (ec0f3a4)
 * Routine i18n updates on 03 December 2022 (#62540)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2022-11-26-0104 (45f41b9)
 * Bugfix/vacuum seal recipes (#62390)
 * Fix nuclear plant stairs (#62389)
 * Fixes for temperature regulation (#62392)
-
-Cataclysm-DDA experimental build 2022-11-26-0003 (b08fca9)
 * Metal lamellar armor, part 1, the sheetening (#62276)
 * Add giftshop to urban city block and 3 new items (#62348)
 * Mark overmap location if player drops favorited item (#62299)
@@ -123,7 +124,6 @@ Cataclysm-DDA experimental build 2022-11-26-0003 (b08fca9)
 * Repair Clang Build Analyzer job (#62347)
 * add washboard to antique spawns (#62350)
 * Changes brawler fail message to use 'this' to promote readability (#62351)
-* Drive-in movie theater (#62270)
 * Setting price_postapoc for .223 magazines (#62329)
 * Fix USE_LANG not found when using --check-mods dda in SDL build (#62309)
 * Pre-cache the flatbuffer parser C locale in main (#62325)
