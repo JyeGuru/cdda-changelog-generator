@@ -1,3 +1,4 @@
+* increase rate limit and focus on old issues (#62570)
 * run stale checker hourly (#62563)
 
 Cataclysm-DDA experimental build 2022-12-04-0825 (1894579)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2022-11-26-1949 (153648e)
 * Skip rigid integrated armor when checking rigid conflicts (#62357)
 * Mutation instability bandaid for 0.G (#62367)
 * Fix Disconsolate Merc crash (#62362)
-* fixed the golf club not having any melee techniques (#62300)
 * Allow unloading furniture with no available inventory space (#62345)
 * Fix quadrupeds still getting annoyed at you Part 2: Mattack Boogaloo (#62346)
 * Repair Clang Build Analyzer job (#62347)

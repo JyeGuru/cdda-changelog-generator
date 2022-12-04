@@ -1,3 +1,4 @@
+* increase rate limit and focus on old issues ([#62570](https://github.com/CleverRaven/Cataclysm-DDA/pull/62570))
 * run stale checker hourly ([#62563](https://github.com/CleverRaven/Cataclysm-DDA/pull/62563))
 
 ---
@@ -211,7 +212,6 @@
 * Skip rigid integrated armor when checking rigid conflicts ([#62357](https://github.com/CleverRaven/Cataclysm-DDA/pull/62357))
 * Mutation instability bandaid for 0.G ([#62367](https://github.com/CleverRaven/Cataclysm-DDA/pull/62367))
 * Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
-* fixed the golf club not having any melee techniques ([#62300](https://github.com/CleverRaven/Cataclysm-DDA/pull/62300))
 * Allow unloading furniture with no available inventory space ([#62345](https://github.com/CleverRaven/Cataclysm-DDA/pull/62345))
 * Fix quadrupeds still getting annoyed at you Part 2: Mattack Boogaloo ([#62346](https://github.com/CleverRaven/Cataclysm-DDA/pull/62346))
 * Repair Clang Build Analyzer job ([#62347](https://github.com/CleverRaven/Cataclysm-DDA/pull/62347))
