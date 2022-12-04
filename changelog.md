@@ -1,3 +1,4 @@
+* run stale checker hourly ([#62563](https://github.com/CleverRaven/Cataclysm-DDA/pull/62563))
 
 ---
 
@@ -205,7 +206,6 @@
 * Fix nuclear plant stairs ([#62389](https://github.com/CleverRaven/Cataclysm-DDA/pull/62389))
 * Fixes for temperature regulation ([#62392](https://github.com/CleverRaven/Cataclysm-DDA/pull/62392))
 * Add giftshop to urban city block and 3 new items ([#62348](https://github.com/CleverRaven/Cataclysm-DDA/pull/62348))
-* Mark overmap location if player drops favorited item ([#62299](https://github.com/CleverRaven/Cataclysm-DDA/pull/62299))
 * replace BIOLUM0_active with conditional enchantment ([#62358](https://github.com/CleverRaven/Cataclysm-DDA/pull/62358))
 * Allow creatures to spawn on mutable farm fields ([#62366](https://github.com/CleverRaven/Cataclysm-DDA/pull/62366))
 * Skip rigid integrated armor when checking rigid conflicts ([#62357](https://github.com/CleverRaven/Cataclysm-DDA/pull/62357))
