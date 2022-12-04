@@ -1,3 +1,9 @@
+* Add a supported flavor of a stale bot ([#62550](https://github.com/CleverRaven/Cataclysm-DDA/pull/62550))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-04-0016 ([6d45ade](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-04-0016))
+
 * Remove the cupboard nightstand in bungalow02_1 ([#62494](https://github.com/CleverRaven/Cataclysm-DDA/pull/62494))
 * Pin matrix clang++-12 build to ubuntu-22.04 because the fake sysroot … ([#62549](https://github.com/CleverRaven/Cataclysm-DDA/pull/62549))
 * Misc typo fixes ([#62529](https://github.com/CleverRaven/Cataclysm-DDA/pull/62529))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2022-11-26-1819 ([cfe02e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-1819))
 
 * Pin mac_alias to 2.2.0 to fix dmgbuild ([#62402](https://github.com/CleverRaven/Cataclysm-DDA/pull/62402))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-26-0612 ([10a3f17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-0612))
-
 * Routine i18n updates on 26 November 2022 ([#62394](https://github.com/CleverRaven/Cataclysm-DDA/pull/62394))
 * Tiny terminal punctuation fix for trampling ([#62371](https://github.com/CleverRaven/Cataclysm-DDA/pull/62371))
 * [Generic Guns] obsolete longrifle_flintlock recipe ([#62383](https://github.com/CleverRaven/Cataclysm-DDA/pull/62383))
@@ -222,7 +223,6 @@
 * Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
 * Implement input history for overmap search ([#62296](https://github.com/CleverRaven/Cataclysm-DDA/pull/62296))
-* Routine i18n updates on 19 November 2022 ([#62291](https://github.com/CleverRaven/Cataclysm-DDA/pull/62291))
 * Portal storm monsters now despawn correctly after a save/load ([#62313](https://github.com/CleverRaven/Cataclysm-DDA/pull/62313))
 * inv_ui: fix wield/wear dereference ([#62317](https://github.com/CleverRaven/Cataclysm-DDA/pull/62317))
 * Invalidate crafting inventory after butchering ([#62319](https://github.com/CleverRaven/Cataclysm-DDA/pull/62319))
