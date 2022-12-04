@@ -1,3 +1,4 @@
+* Update stale.yml ([#62554](https://github.com/CleverRaven/Cataclysm-DDA/pull/62554))
 * Add a supported flavor of a stale bot ([#62550](https://github.com/CleverRaven/Cataclysm-DDA/pull/62550))
 
 ---
@@ -228,6 +229,5 @@
 * Invalidate crafting inventory after butchering ([#62319](https://github.com/CleverRaven/Cataclysm-DDA/pull/62319))
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
 * Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
-* Pens now can be loaded with all types of pen ink ([#62293](https://github.com/CleverRaven/Cataclysm-DDA/pull/62293))
 * NRE recorder requires at least 1 charge of battery to beep ([#62303](https://github.com/CleverRaven/Cataclysm-DDA/pull/62303))
 * Fermenting vat description now mentions its volume ([#62305](https://github.com/CleverRaven/Cataclysm-DDA/pull/62305))

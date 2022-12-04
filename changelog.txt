@@ -1,3 +1,4 @@
+* Update stale.yml (#62554)
 * Add a supported flavor of a stale bot (#62550)
 
 Cataclysm-DDA experimental build 2022-12-04-0016 (6d45ade)
@@ -144,6 +145,5 @@ Cataclysm-DDA experimental build 2022-11-26-1819 (cfe02e0)
 * Invalidate crafting inventory after butchering (#62319)
 * Routine tileset updates on 20 November 2022 (#62315)
 * Arrow rests now occupy their own "arrow rest" mod location (#62302)
-* Pens now can be loaded with all types of pen ink (#62293)
 * NRE recorder requires at least 1 charge of battery to beep (#62303)
 * Fermenting vat description now mentions its volume (#62305)
