@@ -1,3 +1,13 @@
+* Cap portal storm dungeon fatigue gain ([#62431](https://github.com/CleverRaven/Cataclysm-DDA/pull/62431))
+* Let Dumpster Contain Fire ([#62579](https://github.com/CleverRaven/Cataclysm-DDA/pull/62579))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-05-1804 ([480e35b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1804))
+
+* Remove old C++ functions for the "Find Lab Tunnels" mission ([#62582](https://github.com/CleverRaven/Cataclysm-DDA/pull/62582))
+* stale action: ignore ancient issues ([#62586](https://github.com/CleverRaven/Cataclysm-DDA/pull/62586))
+* remove stale stale checker ([#62584](https://github.com/CleverRaven/Cataclysm-DDA/pull/62584))
 
 ---
 
@@ -85,12 +95,6 @@
 #### Cataclysm-DDA experimental build 2022-12-01-2057 ([6957090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-2057))
 
 * Fix FEMA camp has more ammo than any military location ([#62513](https://github.com/CleverRaven/Cataclysm-DDA/pull/62513))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-01-1209 ([98195f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-1209))
-
-* [Magiclysm] fix blood as fuel stuff ([#62327](https://github.com/CleverRaven/Cataclysm-DDA/pull/62327))
 * Fix inconsistent recipes, All Kevlar jumpsuits need kevlar sheets, none need layered kevlar ([#62368](https://github.com/CleverRaven/Cataclysm-DDA/pull/62368))
 
 ---
@@ -196,11 +200,6 @@
 * Farm mutable: map extras and field looks_like ([#62425](https://github.com/CleverRaven/Cataclysm-DDA/pull/62425))
 * Added `ERASE_ALL_BEFORE_PLACING_TERRAIN` flag to `toxic_waste_fence_radioactive` nested mapgen ([#62427](https://github.com/CleverRaven/Cataclysm-DDA/pull/62427))
 * fix a couple typos ([#62434](https://github.com/CleverRaven/Cataclysm-DDA/pull/62434))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-28-0449 ([2010fec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-28-0449))
-
 * Routine tileset updates on 27 November 2022 ([#62440](https://github.com/CleverRaven/Cataclysm-DDA/pull/62440))
 * chore: typo hunting ft. codespell ([#62418](https://github.com/CleverRaven/Cataclysm-DDA/pull/62418))
 * Remove q_staff_plus_one from known_bad_density.json ([#62413](https://github.com/CleverRaven/Cataclysm-DDA/pull/62413))
@@ -225,10 +224,6 @@
 * Repair Clang Build Analyzer job ([#62347](https://github.com/CleverRaven/Cataclysm-DDA/pull/62347))
 * add washboard to antique spawns ([#62350](https://github.com/CleverRaven/Cataclysm-DDA/pull/62350))
 * Changes brawler fail message to use 'this' to promote readability ([#62351](https://github.com/CleverRaven/Cataclysm-DDA/pull/62351))
-* Setting price_postapoc for .223 magazines ([#62329](https://github.com/CleverRaven/Cataclysm-DDA/pull/62329))
-* Pre-cache the flatbuffer parser C locale in main ([#62325](https://github.com/CleverRaven/Cataclysm-DDA/pull/62325))
-* Enable butchering of very heavy corpses ([#62326](https://github.com/CleverRaven/Cataclysm-DDA/pull/62326))
 * Fix the waxed floors only dropping wax ([#62337](https://github.com/CleverRaven/Cataclysm-DDA/pull/62337))
-* fix: remove extra s ([#62330](https://github.com/CleverRaven/Cataclysm-DDA/pull/62330))
 * Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
