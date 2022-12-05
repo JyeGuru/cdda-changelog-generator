@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-05-0646 ([bea66a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-0646))
+
+* Routine tileset updates on 04 December 2022 ([#62571](https://github.com/CleverRaven/Cataclysm-DDA/pull/62571))
 * actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
 * increase rate limit and focus on old issues ([#62570](https://github.com/CleverRaven/Cataclysm-DDA/pull/62570))
 * run stale checker hourly ([#62563](https://github.com/CleverRaven/Cataclysm-DDA/pull/62563))
@@ -193,11 +199,6 @@
 
 * Remove q_staff_plus_one from known_bad_density.json ([#62413](https://github.com/CleverRaven/Cataclysm-DDA/pull/62413))
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions ([#62405](https://github.com/CleverRaven/Cataclysm-DDA/pull/62405))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-26-1949 ([153648e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-26-1949))
-
 * mapgen: skip player auto features when updating map ([#62356](https://github.com/CleverRaven/Cataclysm-DDA/pull/62356))
 * mapgen: remove npc from moninfo cache too ([#62376](https://github.com/CleverRaven/Cataclysm-DDA/pull/62376))
 * Pin mac_alias to 2.2.0 to fix dmgbuild ([#62402](https://github.com/CleverRaven/Cataclysm-DDA/pull/62402))
@@ -230,5 +231,4 @@
 * inv_ui: fix wield/wear dereference ([#62317](https://github.com/CleverRaven/Cataclysm-DDA/pull/62317))
 * Invalidate crafting inventory after butchering ([#62319](https://github.com/CleverRaven/Cataclysm-DDA/pull/62319))
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
-* NRE recorder requires at least 1 charge of battery to beep ([#62303](https://github.com/CleverRaven/Cataclysm-DDA/pull/62303))
 * Fermenting vat description now mentions its volume ([#62305](https://github.com/CleverRaven/Cataclysm-DDA/pull/62305))
