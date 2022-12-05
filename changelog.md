@@ -1,3 +1,4 @@
+* actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
 * increase rate limit and focus on old issues ([#62570](https://github.com/CleverRaven/Cataclysm-DDA/pull/62570))
 * run stale checker hourly ([#62563](https://github.com/CleverRaven/Cataclysm-DDA/pull/62563))
 
@@ -229,6 +230,5 @@
 * inv_ui: fix wield/wear dereference ([#62317](https://github.com/CleverRaven/Cataclysm-DDA/pull/62317))
 * Invalidate crafting inventory after butchering ([#62319](https://github.com/CleverRaven/Cataclysm-DDA/pull/62319))
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
-* Arrow rests now occupy their own "arrow rest" mod location ([#62302](https://github.com/CleverRaven/Cataclysm-DDA/pull/62302))
 * NRE recorder requires at least 1 charge of battery to beep ([#62303](https://github.com/CleverRaven/Cataclysm-DDA/pull/62303))
 * Fermenting vat description now mentions its volume ([#62305](https://github.com/CleverRaven/Cataclysm-DDA/pull/62305))

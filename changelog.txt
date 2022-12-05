@@ -1,3 +1,4 @@
+* actually process older issues first (#62576)
 * increase rate limit and focus on old issues (#62570)
 * run stale checker hourly (#62563)
 
@@ -145,6 +146,5 @@ Cataclysm-DDA experimental build 2022-11-26-1949 (153648e)
 * inv_ui: fix wield/wear dereference (#62317)
 * Invalidate crafting inventory after butchering (#62319)
 * Routine tileset updates on 20 November 2022 (#62315)
-* Arrow rests now occupy their own "arrow rest" mod location (#62302)
 * NRE recorder requires at least 1 charge of battery to beep (#62303)
 * Fermenting vat description now mentions its volume (#62305)
