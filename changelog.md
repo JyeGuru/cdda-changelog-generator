@@ -1,3 +1,7 @@
+* Added some missing chainmail recipes ([#62422](https://github.com/CleverRaven/Cataclysm-DDA/pull/62422))
+* Scrap traders will no longer sell items from their vending machines. ([#62451](https://github.com/CleverRaven/Cataclysm-DDA/pull/62451))
+* Moved ammo, ammo types, and recipes of metal rails to Aftershock ([#62460](https://github.com/CleverRaven/Cataclysm-DDA/pull/62460))
+* JSON-ify the "Find Lost Dog" mission ([#62468](https://github.com/CleverRaven/Cataclysm-DDA/pull/62468))
 
 ---
 
@@ -221,14 +225,10 @@
 * add washboard to antique spawns ([#62350](https://github.com/CleverRaven/Cataclysm-DDA/pull/62350))
 * Changes brawler fail message to use 'this' to promote readability ([#62351](https://github.com/CleverRaven/Cataclysm-DDA/pull/62351))
 * Setting price_postapoc for .223 magazines ([#62329](https://github.com/CleverRaven/Cataclysm-DDA/pull/62329))
-* Fix USE_LANG not found when using --check-mods dda in SDL build ([#62309](https://github.com/CleverRaven/Cataclysm-DDA/pull/62309))
 * Pre-cache the flatbuffer parser C locale in main ([#62325](https://github.com/CleverRaven/Cataclysm-DDA/pull/62325))
 * Enable butchering of very heavy corpses ([#62326](https://github.com/CleverRaven/Cataclysm-DDA/pull/62326))
 * Fix the waxed floors only dropping wax ([#62337](https://github.com/CleverRaven/Cataclysm-DDA/pull/62337))
 * fix: remove extra s ([#62330](https://github.com/CleverRaven/Cataclysm-DDA/pull/62330))
 * Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
-* Portal storm monsters now despawn correctly after a save/load ([#62313](https://github.com/CleverRaven/Cataclysm-DDA/pull/62313))
-* inv_ui: fix wield/wear dereference ([#62317](https://github.com/CleverRaven/Cataclysm-DDA/pull/62317))
 * Invalidate crafting inventory after butchering ([#62319](https://github.com/CleverRaven/Cataclysm-DDA/pull/62319))
-* Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
