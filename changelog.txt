@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-12-05-1239 (6d064b0)
 * Multicooker tweaks (#62510)
 * Added some missing chainmail recipes (#62422)
 * Scrap traders will no longer sell items from their vending machines. (#62451)
@@ -116,8 +118,6 @@ Cataclysm-DDA experimental build 2022-11-28-0706 (4034a38)
 
 Cataclysm-DDA experimental build 2022-11-28-0449 (2010fec)
 * Routine tileset updates on 27 November 2022 (#62440)
-
-Cataclysm-DDA experimental build 2022-11-27-1427 (82ee3c2)
 * chore: typo hunting ft. codespell (#62418)
 * Remove q_staff_plus_one from known_bad_density.json (#62413)
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions (#62405)

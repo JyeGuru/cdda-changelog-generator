@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-05-1239 ([6d064b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1239))
+
 * Multicooker tweaks ([#62510](https://github.com/CleverRaven/Cataclysm-DDA/pull/62510))
 * Added some missing chainmail recipes ([#62422](https://github.com/CleverRaven/Cataclysm-DDA/pull/62422))
 * Scrap traders will no longer sell items from their vending machines. ([#62451](https://github.com/CleverRaven/Cataclysm-DDA/pull/62451))
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2022-11-28-0449 ([2010fec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-28-0449))
 
 * Routine tileset updates on 27 November 2022 ([#62440](https://github.com/CleverRaven/Cataclysm-DDA/pull/62440))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-27-1427 ([82ee3c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-27-1427))
-
 * chore: typo hunting ft. codespell ([#62418](https://github.com/CleverRaven/Cataclysm-DDA/pull/62418))
 * Remove q_staff_plus_one from known_bad_density.json ([#62413](https://github.com/CleverRaven/Cataclysm-DDA/pull/62413))
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions ([#62405](https://github.com/CleverRaven/Cataclysm-DDA/pull/62405))
