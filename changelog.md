@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-05-1921 ([bc4a745](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1921))
+
 * Cap portal storm dungeon fatigue gain ([#62431](https://github.com/CleverRaven/Cataclysm-DDA/pull/62431))
 * Let Dumpster Contain Fire ([#62579](https://github.com/CleverRaven/Cataclysm-DDA/pull/62579))
 
