@@ -1,3 +1,4 @@
+* Multicooker tweaks ([#62510](https://github.com/CleverRaven/Cataclysm-DDA/pull/62510))
 * Added some missing chainmail recipes ([#62422](https://github.com/CleverRaven/Cataclysm-DDA/pull/62422))
 * Scrap traders will no longer sell items from their vending machines. ([#62451](https://github.com/CleverRaven/Cataclysm-DDA/pull/62451))
 * Moved ammo, ammo types, and recipes of metal rails to Aftershock ([#62460](https://github.com/CleverRaven/Cataclysm-DDA/pull/62460))
@@ -231,4 +232,3 @@
 * fix: remove extra s ([#62330](https://github.com/CleverRaven/Cataclysm-DDA/pull/62330))
 * Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
-* Invalidate crafting inventory after butchering ([#62319](https://github.com/CleverRaven/Cataclysm-DDA/pull/62319))
