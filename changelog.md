@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-05-1139 ([6390d43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1139))
+
+* Add missing welding kit to list of welding requirements ([#62517](https://github.com/CleverRaven/Cataclysm-DDA/pull/62517))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-05-0646 ([bea66a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-0646))
 
 * Routine tileset updates on 04 December 2022 ([#62571](https://github.com/CleverRaven/Cataclysm-DDA/pull/62571))
@@ -192,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2022-11-27-1427 ([82ee3c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-27-1427))
 
 * chore: typo hunting ft. codespell ([#62418](https://github.com/CleverRaven/Cataclysm-DDA/pull/62418))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-27-0118 ([b50f199](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-27-0118))
-
 * Remove q_staff_plus_one from known_bad_density.json ([#62413](https://github.com/CleverRaven/Cataclysm-DDA/pull/62413))
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions ([#62405](https://github.com/CleverRaven/Cataclysm-DDA/pull/62405))
 * mapgen: skip player auto features when updating map ([#62356](https://github.com/CleverRaven/Cataclysm-DDA/pull/62356))
@@ -231,4 +232,3 @@
 * inv_ui: fix wield/wear dereference ([#62317](https://github.com/CleverRaven/Cataclysm-DDA/pull/62317))
 * Invalidate crafting inventory after butchering ([#62319](https://github.com/CleverRaven/Cataclysm-DDA/pull/62319))
 * Routine tileset updates on 20 November 2022 ([#62315](https://github.com/CleverRaven/Cataclysm-DDA/pull/62315))
-* Fermenting vat description now mentions its volume ([#62305](https://github.com/CleverRaven/Cataclysm-DDA/pull/62305))

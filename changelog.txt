@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-12-05-1139 (6390d43)
+* Add missing welding kit to list of welding requirements (#62517)
+
 Cataclysm-DDA experimental build 2022-12-05-0646 (bea66a7)
 * Routine tileset updates on 04 December 2022 (#62571)
 * actually process older issues first (#62576)
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2022-11-28-0449 (2010fec)
 
 Cataclysm-DDA experimental build 2022-11-27-1427 (82ee3c2)
 * chore: typo hunting ft. codespell (#62418)
-
-Cataclysm-DDA experimental build 2022-11-27-0118 (b50f199)
 * Remove q_staff_plus_one from known_bad_density.json (#62413)
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions (#62405)
 * mapgen: skip player auto features when updating map (#62356)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2022-11-27-0118 (b50f199)
 * inv_ui: fix wield/wear dereference (#62317)
 * Invalidate crafting inventory after butchering (#62319)
 * Routine tileset updates on 20 November 2022 (#62315)
-* Fermenting vat description now mentions its volume (#62305)
