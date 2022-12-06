@@ -1,3 +1,4 @@
+* AIM: close UI if activity finished before turn's end ([#62560](https://github.com/CleverRaven/Cataclysm-DDA/pull/62560))
 * Define launcher lengths ([#62585](https://github.com/CleverRaven/Cataclysm-DDA/pull/62585))
 
 ---
@@ -219,7 +220,6 @@
 * Bugfix/vacuum seal recipes ([#62390](https://github.com/CleverRaven/Cataclysm-DDA/pull/62390))
 * Fix nuclear plant stairs ([#62389](https://github.com/CleverRaven/Cataclysm-DDA/pull/62389))
 * Fixes for temperature regulation ([#62392](https://github.com/CleverRaven/Cataclysm-DDA/pull/62392))
-* Add giftshop to urban city block and 3 new items ([#62348](https://github.com/CleverRaven/Cataclysm-DDA/pull/62348))
 * replace BIOLUM0_active with conditional enchantment ([#62358](https://github.com/CleverRaven/Cataclysm-DDA/pull/62358))
 * Allow creatures to spawn on mutable farm fields ([#62366](https://github.com/CleverRaven/Cataclysm-DDA/pull/62366))
 * Skip rigid integrated armor when checking rigid conflicts ([#62357](https://github.com/CleverRaven/Cataclysm-DDA/pull/62357))
