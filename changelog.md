@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-06-2016 ([41cc871](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-06-2016))
+
+* Bugfix - dissection drop rate ([#62433](https://github.com/CleverRaven/Cataclysm-DDA/pull/62433))
 * inv_ui: add a save state for activate/read/steal menus ([#62448](https://github.com/CleverRaven/Cataclysm-DDA/pull/62448))
 * Preserve ammo linkage on zone unload ([#62543](https://github.com/CleverRaven/Cataclysm-DDA/pull/62543))
 * trade_ui: use keychar mode for master ctxt ([#62526](https://github.com/CleverRaven/Cataclysm-DDA/pull/62526))
@@ -189,11 +195,6 @@
 
 * fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
 * Skylight misc fixes ([#62464](https://github.com/CleverRaven/Cataclysm-DDA/pull/62464))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-29-2034 ([cfb1bca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-2034))
-
 * Add IGNORE_SOUND, NO_BASH and RETURN_TO_START_POS traits for NPC's ([#62439](https://github.com/CleverRaven/Cataclysm-DDA/pull/62439))
 * AIM: keep ui_adaptor running during move activities ([#62400](https://github.com/CleverRaven/Cataclysm-DDA/pull/62400))
 * Allow the ability to smash a skylight ([#62414](https://github.com/CleverRaven/Cataclysm-DDA/pull/62414))
@@ -223,7 +224,6 @@
 * Bugfix/vacuum seal recipes ([#62390](https://github.com/CleverRaven/Cataclysm-DDA/pull/62390))
 * Fix nuclear plant stairs ([#62389](https://github.com/CleverRaven/Cataclysm-DDA/pull/62389))
 * Fixes for temperature regulation ([#62392](https://github.com/CleverRaven/Cataclysm-DDA/pull/62392))
-* replace BIOLUM0_active with conditional enchantment ([#62358](https://github.com/CleverRaven/Cataclysm-DDA/pull/62358))
 * Allow creatures to spawn on mutable farm fields ([#62366](https://github.com/CleverRaven/Cataclysm-DDA/pull/62366))
 * Mutation instability bandaid for 0.G ([#62367](https://github.com/CleverRaven/Cataclysm-DDA/pull/62367))
 * Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
