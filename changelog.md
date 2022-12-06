@@ -1,3 +1,4 @@
+* Flag ACTIVE_GENERATOR and "active generator" furniture to replace most ASRGs ([#62459](https://github.com/CleverRaven/Cataclysm-DDA/pull/62459))
 
 ---
 
@@ -226,4 +227,3 @@
 * Fixes for temperature regulation ([#62392](https://github.com/CleverRaven/Cataclysm-DDA/pull/62392))
 * Allow creatures to spawn on mutable farm fields ([#62366](https://github.com/CleverRaven/Cataclysm-DDA/pull/62366))
 * Mutation instability bandaid for 0.G ([#62367](https://github.com/CleverRaven/Cataclysm-DDA/pull/62367))
-* Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))

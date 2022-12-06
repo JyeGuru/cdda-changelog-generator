@@ -1,3 +1,4 @@
+* Flag ACTIVE_GENERATOR and "active generator" furniture to replace most ASRGs (#62459)
 
 Cataclysm-DDA experimental build 2022-12-06-2016 (41cc871)
 * Bugfix - dissection drop rate (#62433)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2022-11-29-2152 (c299253)
 * Fixes for temperature regulation (#62392)
 * Allow creatures to spawn on mutable farm fields (#62366)
 * Mutation instability bandaid for 0.G (#62367)
-* Fix Disconsolate Merc crash (#62362)
