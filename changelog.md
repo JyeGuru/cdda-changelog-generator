@@ -1,3 +1,4 @@
+* bumping operations limit for stale bot to 250 ([#62592](https://github.com/CleverRaven/Cataclysm-DDA/pull/62592))
 
 ---
 
@@ -130,12 +131,6 @@
 * AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
 * Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
 * Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-30-1913 ([93645a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-1913))
-
-* Item Description Cleanup Project: Vehicle Parts ([#62333](https://github.com/CleverRaven/Cataclysm-DDA/pull/62333))
 
 ---
 
