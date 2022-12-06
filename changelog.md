@@ -1,3 +1,5 @@
+* Remove x86 specific macro definitions in MSVC build in CMake ([#62602](https://github.com/CleverRaven/Cataclysm-DDA/pull/62602))
+* Add VERSION.txt to .gitignore ([#62600](https://github.com/CleverRaven/Cataclysm-DDA/pull/62600))
 
 ---
 
@@ -221,9 +223,7 @@
 * Skip rigid integrated armor when checking rigid conflicts ([#62357](https://github.com/CleverRaven/Cataclysm-DDA/pull/62357))
 * Mutation instability bandaid for 0.G ([#62367](https://github.com/CleverRaven/Cataclysm-DDA/pull/62367))
 * Fix Disconsolate Merc crash ([#62362](https://github.com/CleverRaven/Cataclysm-DDA/pull/62362))
-* Allow unloading furniture with no available inventory space ([#62345](https://github.com/CleverRaven/Cataclysm-DDA/pull/62345))
 * Fix quadrupeds still getting annoyed at you Part 2: Mattack Boogaloo ([#62346](https://github.com/CleverRaven/Cataclysm-DDA/pull/62346))
 * Repair Clang Build Analyzer job ([#62347](https://github.com/CleverRaven/Cataclysm-DDA/pull/62347))
 * add washboard to antique spawns ([#62350](https://github.com/CleverRaven/Cataclysm-DDA/pull/62350))
 * Changes brawler fail message to use 'this' to promote readability ([#62351](https://github.com/CleverRaven/Cataclysm-DDA/pull/62351))
-* canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
