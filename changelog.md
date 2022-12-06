@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-06-1200 ([4fa1157](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-06-1200))
+
+* tindalos_teleport hint ([#62588](https://github.com/CleverRaven/Cataclysm-DDA/pull/62588))
 * bumping operations limit for stale bot to 250 ([#62592](https://github.com/CleverRaven/Cataclysm-DDA/pull/62592))
 
 ---
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-11-29-1450 ([c804856](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-1450))
 
 * Allow the ability to smash a skylight ([#62414](https://github.com/CleverRaven/Cataclysm-DDA/pull/62414))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-28-0706 ([4034a38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-28-0706))
-
 * inv_ui: fix accumulated minor issues ([#62423](https://github.com/CleverRaven/Cataclysm-DDA/pull/62423))
 * Receiving items from talker characters if avatar has no free space to store them no longer crashes the game ([#62426](https://github.com/CleverRaven/Cataclysm-DDA/pull/62426))
 * Auto-deactivate Joint Servo bionic if there's no power to run it ([#62404](https://github.com/CleverRaven/Cataclysm-DDA/pull/62404))
@@ -225,5 +226,4 @@
 * add washboard to antique spawns ([#62350](https://github.com/CleverRaven/Cataclysm-DDA/pull/62350))
 * Changes brawler fail message to use 'this' to promote readability ([#62351](https://github.com/CleverRaven/Cataclysm-DDA/pull/62351))
 * Fix the waxed floors only dropping wax ([#62337](https://github.com/CleverRaven/Cataclysm-DDA/pull/62337))
-* Move Debug_mana from Magiclysm to Mainline ([#62336](https://github.com/CleverRaven/Cataclysm-DDA/pull/62336))
 * canvas repairs with canvas_patch ([#62340](https://github.com/CleverRaven/Cataclysm-DDA/pull/62340))
