@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-06-2130 ([c58154a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-06-2130))
+
 * Flag ACTIVE_GENERATOR and "active generator" furniture to replace most ASRGs ([#62459](https://github.com/CleverRaven/Cataclysm-DDA/pull/62459))
 
 ---
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2022-11-29-2315 ([8f1cbbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-2315))
 
 * Fix: connect extension cables between vehicles and appliances ([#62475](https://github.com/CleverRaven/Cataclysm-DDA/pull/62475))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-29-2152 ([c299253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-2152))
-
 * fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
 * Skylight misc fixes ([#62464](https://github.com/CleverRaven/Cataclysm-DDA/pull/62464))
 * Add IGNORE_SOUND, NO_BASH and RETURN_TO_START_POS traits for NPC's ([#62439](https://github.com/CleverRaven/Cataclysm-DDA/pull/62439))
