@@ -1,3 +1,4 @@
+* Update the bunker shop (#62534)
 * stale: reverse direction hourly (#62612)
 
 Cataclysm-DDA experimental build 2022-12-06-2130 (c58154a)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2022-11-29-2315 (8f1cbbf)
 * Bugfix/vacuum seal recipes (#62390)
 * Fix nuclear plant stairs (#62389)
 * Fixes for temperature regulation (#62392)
-* Mutation instability bandaid for 0.G (#62367)
