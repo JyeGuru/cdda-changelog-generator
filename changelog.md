@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-07-0631 ([8fabe5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-07-0631))
+
 * Update the bunker shop ([#62534](https://github.com/CleverRaven/Cataclysm-DDA/pull/62534))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
 
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2022-11-30-0408 ([e010508](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-0408))
 
 * Fix the Valhallists shop ([#62449](https://github.com/CleverRaven/Cataclysm-DDA/pull/62449))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-29-2315 ([8f1cbbf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-29-2315))
-
 * Fix: connect extension cables between vehicles and appliances ([#62475](https://github.com/CleverRaven/Cataclysm-DDA/pull/62475))
 * fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
 * Skylight misc fixes ([#62464](https://github.com/CleverRaven/Cataclysm-DDA/pull/62464))
