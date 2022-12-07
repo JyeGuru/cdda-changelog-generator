@@ -1,3 +1,4 @@
+* stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
 
 ---
 
@@ -225,5 +226,4 @@
 * Bugfix/vacuum seal recipes ([#62390](https://github.com/CleverRaven/Cataclysm-DDA/pull/62390))
 * Fix nuclear plant stairs ([#62389](https://github.com/CleverRaven/Cataclysm-DDA/pull/62389))
 * Fixes for temperature regulation ([#62392](https://github.com/CleverRaven/Cataclysm-DDA/pull/62392))
-* Allow creatures to spawn on mutable farm fields ([#62366](https://github.com/CleverRaven/Cataclysm-DDA/pull/62366))
 * Mutation instability bandaid for 0.G ([#62367](https://github.com/CleverRaven/Cataclysm-DDA/pull/62367))
