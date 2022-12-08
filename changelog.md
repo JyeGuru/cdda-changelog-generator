@@ -1,3 +1,12 @@
+* Fill farm silos with silage ([#62610](https://github.com/CleverRaven/Cataclysm-DDA/pull/62610))
+* Update spell checker dictionary ([#62599](https://github.com/CleverRaven/Cataclysm-DDA/pull/62599))
+* fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-08-0413 ([b0c9b48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-0413))
+
+* Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
 
 ---
 
@@ -146,7 +155,6 @@
 #### Cataclysm-DDA experimental build 2022-12-01-2057 ([6957090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-2057))
 
 * Fix FEMA camp has more ammo than any military location ([#62513](https://github.com/CleverRaven/Cataclysm-DDA/pull/62513))
-* Fix inconsistent recipes, All Kevlar jumpsuits need kevlar sheets, none need layered kevlar ([#62368](https://github.com/CleverRaven/Cataclysm-DDA/pull/62368))
 
 ---
 
@@ -189,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-11-30-0615 ([ca1a081](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-0615))
 
 * [innawood] hulk drop fixes ([#62455](https://github.com/CleverRaven/Cataclysm-DDA/pull/62455))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-30-0408 ([e010508](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-0408))
-
 * Fix the Valhallists shop ([#62449](https://github.com/CleverRaven/Cataclysm-DDA/pull/62449))
 * Fix: connect extension cables between vehicles and appliances ([#62475](https://github.com/CleverRaven/Cataclysm-DDA/pull/62475))
 * fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
@@ -210,7 +213,6 @@
 * convert add_spawn to place_spawns in mx_city_trap ([#62421](https://github.com/CleverRaven/Cataclysm-DDA/pull/62421))
 * TropiCata: Reptile Menagerie ([#62406](https://github.com/CleverRaven/Cataclysm-DDA/pull/62406))
 * convert add_spawn to place_spawns in mx_helicopter ([#62374](https://github.com/CleverRaven/Cataclysm-DDA/pull/62374))
-* convert add_spawn to place_spawns in mx_house_wasp ([#62373](https://github.com/CleverRaven/Cataclysm-DDA/pull/62373))
 * Move avatar::daily_calories implementation from header to avatar.cpp ([#62428](https://github.com/CleverRaven/Cataclysm-DDA/pull/62428))
 * Farm mutable: map extras and field looks_like ([#62425](https://github.com/CleverRaven/Cataclysm-DDA/pull/62425))
 * Added `ERASE_ALL_BEFORE_PLACING_TERRAIN` flag to `toxic_waste_fence_radioactive` nested mapgen ([#62427](https://github.com/CleverRaven/Cataclysm-DDA/pull/62427))
@@ -222,7 +224,6 @@
 * mapgen: remove npc from moninfo cache too ([#62376](https://github.com/CleverRaven/Cataclysm-DDA/pull/62376))
 * Pin mac_alias to 2.2.0 to fix dmgbuild ([#62402](https://github.com/CleverRaven/Cataclysm-DDA/pull/62402))
 * Routine i18n updates on 26 November 2022 ([#62394](https://github.com/CleverRaven/Cataclysm-DDA/pull/62394))
-* Tiny terminal punctuation fix for trampling ([#62371](https://github.com/CleverRaven/Cataclysm-DDA/pull/62371))
 * [Generic Guns] obsolete longrifle_flintlock recipe ([#62383](https://github.com/CleverRaven/Cataclysm-DDA/pull/62383))
 * Bugfix/vacuum seal recipes ([#62390](https://github.com/CleverRaven/Cataclysm-DDA/pull/62390))
 * Fix nuclear plant stairs ([#62389](https://github.com/CleverRaven/Cataclysm-DDA/pull/62389))
