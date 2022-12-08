@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-08-2207 ([04ce720](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-2207))
+
+* Riot armor nerf ([#62395](https://github.com/CleverRaven/Cataclysm-DDA/pull/62395))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-08-1147 ([6e4b17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-1147))
 
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
@@ -191,11 +197,6 @@
 
 * Fix Demonforge bug ([#62480](https://github.com/CleverRaven/Cataclysm-DDA/pull/62480))
 * Add arm64ec support to msvc solution ([#62482](https://github.com/CleverRaven/Cataclysm-DDA/pull/62482))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-30-2019 ([0b1daba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-2019))
-
 * fixes for removing integrated armor on mutation ([#62463](https://github.com/CleverRaven/Cataclysm-DDA/pull/62463))
 * Rubber cement recipe fixes ([#62466](https://github.com/CleverRaven/Cataclysm-DDA/pull/62466))
 * AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
@@ -229,7 +230,6 @@
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions ([#62405](https://github.com/CleverRaven/Cataclysm-DDA/pull/62405))
 * Pin mac_alias to 2.2.0 to fix dmgbuild ([#62402](https://github.com/CleverRaven/Cataclysm-DDA/pull/62402))
 * Routine i18n updates on 26 November 2022 ([#62394](https://github.com/CleverRaven/Cataclysm-DDA/pull/62394))
-* [Generic Guns] obsolete longrifle_flintlock recipe ([#62383](https://github.com/CleverRaven/Cataclysm-DDA/pull/62383))
 * Bugfix/vacuum seal recipes ([#62390](https://github.com/CleverRaven/Cataclysm-DDA/pull/62390))
 * Fix nuclear plant stairs ([#62389](https://github.com/CleverRaven/Cataclysm-DDA/pull/62389))
 * Fixes for temperature regulation ([#62392](https://github.com/CleverRaven/Cataclysm-DDA/pull/62392))
