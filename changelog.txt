@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-12-08-0529 (69f0819)
 * Fill farm silos with silage (#62610)
 * Update spell checker dictionary (#62599)
 * fix: nerf goblin encampment charcoal reserves (#62621)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2022-11-30-2019 (0b1daba)
 Cataclysm-DDA experimental build 2022-11-30-0744 (9efd93f)
 * Farm mutable tweaks (#62393)
 * Update mapgen_functions - remove add_spawn (#62417)
-
-Cataclysm-DDA experimental build 2022-11-30-0615 (ca1a081)
 * [innawood] hulk drop fixes (#62455)
 * Fix the Valhallists shop (#62449)
 * Fix: connect extension cables between vehicles and appliances (#62475)

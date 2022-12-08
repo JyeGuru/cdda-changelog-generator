@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-08-0529 ([69f0819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-0529))
+
 * Fill farm silos with silage ([#62610](https://github.com/CleverRaven/Cataclysm-DDA/pull/62610))
 * Update spell checker dictionary ([#62599](https://github.com/CleverRaven/Cataclysm-DDA/pull/62599))
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
@@ -191,11 +196,6 @@
 
 * Farm mutable tweaks ([#62393](https://github.com/CleverRaven/Cataclysm-DDA/pull/62393))
 * Update mapgen_functions - remove add_spawn ([#62417](https://github.com/CleverRaven/Cataclysm-DDA/pull/62417))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-30-0615 ([ca1a081](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-0615))
-
 * [innawood] hulk drop fixes ([#62455](https://github.com/CleverRaven/Cataclysm-DDA/pull/62455))
 * Fix the Valhallists shop ([#62449](https://github.com/CleverRaven/Cataclysm-DDA/pull/62449))
 * Fix: connect extension cables between vehicles and appliances ([#62475](https://github.com/CleverRaven/Cataclysm-DDA/pull/62475))
