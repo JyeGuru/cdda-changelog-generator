@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-08-1147 ([6e4b17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-1147))
+
+* Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-08-0630 ([8e428ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-0630))
 
 * spawn primed 22 casings in gunsmith stores ([#62562](https://github.com/CleverRaven/Cataclysm-DDA/pull/62562))
@@ -221,7 +227,6 @@
 * chore: typo hunting ft. codespell ([#62418](https://github.com/CleverRaven/Cataclysm-DDA/pull/62418))
 * Remove q_staff_plus_one from known_bad_density.json ([#62413](https://github.com/CleverRaven/Cataclysm-DDA/pull/62413))
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions ([#62405](https://github.com/CleverRaven/Cataclysm-DDA/pull/62405))
-* mapgen: remove npc from moninfo cache too ([#62376](https://github.com/CleverRaven/Cataclysm-DDA/pull/62376))
 * Pin mac_alias to 2.2.0 to fix dmgbuild ([#62402](https://github.com/CleverRaven/Cataclysm-DDA/pull/62402))
 * Routine i18n updates on 26 November 2022 ([#62394](https://github.com/CleverRaven/Cataclysm-DDA/pull/62394))
 * [Generic Guns] obsolete longrifle_flintlock recipe ([#62383](https://github.com/CleverRaven/Cataclysm-DDA/pull/62383))
