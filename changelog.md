@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-08-0630 ([8e428ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-0630))
+
 * spawn primed 22 casings in gunsmith stores ([#62562](https://github.com/CleverRaven/Cataclysm-DDA/pull/62562))
 
 ---
@@ -190,11 +195,6 @@
 * AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
 * Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
 * Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
-
----
-
-#### Cataclysm-DDA experimental build 2022-11-30-0744 ([9efd93f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-11-30-0744))
-
 * Farm mutable tweaks ([#62393](https://github.com/CleverRaven/Cataclysm-DDA/pull/62393))
 * Update mapgen_functions - remove add_spawn ([#62417](https://github.com/CleverRaven/Cataclysm-DDA/pull/62417))
 * [innawood] hulk drop fixes ([#62455](https://github.com/CleverRaven/Cataclysm-DDA/pull/62455))
