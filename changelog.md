@@ -1,3 +1,4 @@
+* spawn primed 22 casings in gunsmith stores ([#62562](https://github.com/CleverRaven/Cataclysm-DDA/pull/62562))
 
 ---
 
@@ -212,7 +213,6 @@
 * Rename Dino Dave Cardboard Box Mission ([#62424](https://github.com/CleverRaven/Cataclysm-DDA/pull/62424))
 * convert add_spawn to place_spawns in mx_city_trap ([#62421](https://github.com/CleverRaven/Cataclysm-DDA/pull/62421))
 * TropiCata: Reptile Menagerie ([#62406](https://github.com/CleverRaven/Cataclysm-DDA/pull/62406))
-* convert add_spawn to place_spawns in mx_helicopter ([#62374](https://github.com/CleverRaven/Cataclysm-DDA/pull/62374))
 * Move avatar::daily_calories implementation from header to avatar.cpp ([#62428](https://github.com/CleverRaven/Cataclysm-DDA/pull/62428))
 * Farm mutable: map extras and field looks_like ([#62425](https://github.com/CleverRaven/Cataclysm-DDA/pull/62425))
 * Added `ERASE_ALL_BEFORE_PLACING_TERRAIN` flag to `toxic_waste_fence_radioactive` nested mapgen ([#62427](https://github.com/CleverRaven/Cataclysm-DDA/pull/62427))
