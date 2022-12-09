@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-09-0417 ([5fd0f93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-09-0417))
+
 * Prevent monsters from upgrading into blacklisted forms ([#62626](https://github.com/CleverRaven/Cataclysm-DDA/pull/62626))
 * Monsters will now drop their special items (such as saddle, bags, armor etc) on death ([#62615](https://github.com/CleverRaven/Cataclysm-DDA/pull/62615))
 * Reverse engineer trap docs ([#62627](https://github.com/CleverRaven/Cataclysm-DDA/pull/62627))
