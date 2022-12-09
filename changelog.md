@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-09-0649 ([50d81a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-09-0649))
+
+* Tidy up vehicle part "size" field ([#62525](https://github.com/CleverRaven/Cataclysm-DDA/pull/62525))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-09-0417 ([5fd0f93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-09-0417))
 
 * Prevent monsters from upgrading into blacklisted forms ([#62626](https://github.com/CleverRaven/Cataclysm-DDA/pull/62626))
@@ -196,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2022-12-01-1105 ([57c865e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-1105))
 
 * Some string polishing ([#62499](https://github.com/CleverRaven/Cataclysm-DDA/pull/62499))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-01-0634 ([27c569e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-0634))
-
 * fix: some improved spells lack relevant names ([#62481](https://github.com/CleverRaven/Cataclysm-DDA/pull/62481))
 * Fix Demonforge bug ([#62480](https://github.com/CleverRaven/Cataclysm-DDA/pull/62480))
 * Add arm64ec support to msvc solution ([#62482](https://github.com/CleverRaven/Cataclysm-DDA/pull/62482))
@@ -233,4 +234,3 @@
 * chore: typo hunting ft. codespell ([#62418](https://github.com/CleverRaven/Cataclysm-DDA/pull/62418))
 * Remove q_staff_plus_one from known_bad_density.json ([#62413](https://github.com/CleverRaven/Cataclysm-DDA/pull/62413))
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions ([#62405](https://github.com/CleverRaven/Cataclysm-DDA/pull/62405))
-* Pin mac_alias to 2.2.0 to fix dmgbuild ([#62402](https://github.com/CleverRaven/Cataclysm-DDA/pull/62402))

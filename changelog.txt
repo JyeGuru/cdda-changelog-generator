@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-12-09-0649 (50d81a1)
+* Tidy up vehicle part "size" field (#62525)
+
 Cataclysm-DDA experimental build 2022-12-09-0417 (5fd0f93)
 * Prevent monsters from upgrading into blacklisted forms (#62626)
 * Monsters will now drop their special items (such as saddle, bags, armor etc) on death (#62615)
@@ -115,8 +118,6 @@ Cataclysm-DDA experimental build 2022-12-01-2057 (6957090)
 
 Cataclysm-DDA experimental build 2022-12-01-1105 (57c865e)
 * Some string polishing (#62499)
-
-Cataclysm-DDA experimental build 2022-12-01-0634 (27c569e)
 * fix: some improved spells lack relevant names (#62481)
 * Fix Demonforge bug (#62480)
 * Add arm64ec support to msvc solution (#62482)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2022-12-01-0634 (27c569e)
 * chore: typo hunting ft. codespell (#62418)
 * Remove q_staff_plus_one from known_bad_density.json (#62413)
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions (#62405)
-* Pin mac_alias to 2.2.0 to fix dmgbuild (#62402)
