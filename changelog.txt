@@ -1,3 +1,4 @@
+* Addressing new flake warnings (#62628)
 
 Cataclysm-DDA experimental build 2022-12-08-2207 (04ce720)
 * Riot armor nerf (#62395)

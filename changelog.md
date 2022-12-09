@@ -1,3 +1,4 @@
+* Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
 
 ---
 
