@@ -220,7 +220,6 @@
 * Allow the ability to smash a skylight ([#62414](https://github.com/CleverRaven/Cataclysm-DDA/pull/62414))
 * inv_ui: fix accumulated minor issues ([#62423](https://github.com/CleverRaven/Cataclysm-DDA/pull/62423))
 * Receiving items from talker characters if avatar has no free space to store them no longer crashes the game ([#62426](https://github.com/CleverRaven/Cataclysm-DDA/pull/62426))
-* Auto-deactivate Joint Servo bionic if there's no power to run it ([#62404](https://github.com/CleverRaven/Cataclysm-DDA/pull/62404))
 * convert add_spawn to place_spawns in mx_shia and mx_jabberwock ([#62409](https://github.com/CleverRaven/Cataclysm-DDA/pull/62409))
 * [BN Port] Fix automatic sprite rotation for non-linear overmap tiles ([#62443](https://github.com/CleverRaven/Cataclysm-DDA/pull/62443))
 * Rename Dino Dave Cardboard Box Mission ([#62424](https://github.com/CleverRaven/Cataclysm-DDA/pull/62424))
