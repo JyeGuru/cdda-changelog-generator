@@ -1,10 +1,16 @@
-* Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
+* Prevent monsters from upgrading into blacklisted forms ([#62626](https://github.com/CleverRaven/Cataclysm-DDA/pull/62626))
+* Monsters will now drop their special items (such as saddle, bags, armor etc) on death ([#62615](https://github.com/CleverRaven/Cataclysm-DDA/pull/62615))
+* Reverse engineer trap docs ([#62627](https://github.com/CleverRaven/Cataclysm-DDA/pull/62627))
+* fix: run code style reviewer on file changes ([#62629](https://github.com/CleverRaven/Cataclysm-DDA/pull/62629))
+* Nuclear Monster group and a specific comment ([#62633](https://github.com/CleverRaven/Cataclysm-DDA/pull/62633))
+* Added android:exported="true" to Android manifest ([#62631](https://github.com/CleverRaven/Cataclysm-DDA/pull/62631))
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-12-08-2207 ([04ce720](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-2207))
+#### Cataclysm-DDA experimental build 2022-12-09-0309 ([b1a88cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-09-0309))
 
-* Riot armor nerf ([#62395](https://github.com/CleverRaven/Cataclysm-DDA/pull/62395))
+* Fix crash caused by NW faction camp expansion ([#62624](https://github.com/CleverRaven/Cataclysm-DDA/pull/62624))
+* Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
 
 ---
 
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-12-01-0634 ([27c569e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-0634))
 
 * fix: some improved spells lack relevant names ([#62481](https://github.com/CleverRaven/Cataclysm-DDA/pull/62481))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-01-0029 ([e1d3675](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-0029))
-
 * Fix Demonforge bug ([#62480](https://github.com/CleverRaven/Cataclysm-DDA/pull/62480))
 * Add arm64ec support to msvc solution ([#62482](https://github.com/CleverRaven/Cataclysm-DDA/pull/62482))
 * fixes for removing integrated armor on mutation ([#62463](https://github.com/CleverRaven/Cataclysm-DDA/pull/62463))
@@ -203,7 +204,6 @@
 * AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
 * Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
 * Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
-* Farm mutable tweaks ([#62393](https://github.com/CleverRaven/Cataclysm-DDA/pull/62393))
 * Update mapgen_functions - remove add_spawn ([#62417](https://github.com/CleverRaven/Cataclysm-DDA/pull/62417))
 * [innawood] hulk drop fixes ([#62455](https://github.com/CleverRaven/Cataclysm-DDA/pull/62455))
 * Fix the Valhallists shop ([#62449](https://github.com/CleverRaven/Cataclysm-DDA/pull/62449))
@@ -211,7 +211,6 @@
 * fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
 * Skylight misc fixes ([#62464](https://github.com/CleverRaven/Cataclysm-DDA/pull/62464))
 * Add IGNORE_SOUND, NO_BASH and RETURN_TO_START_POS traits for NPC's ([#62439](https://github.com/CleverRaven/Cataclysm-DDA/pull/62439))
-* AIM: keep ui_adaptor running during move activities ([#62400](https://github.com/CleverRaven/Cataclysm-DDA/pull/62400))
 * Allow the ability to smash a skylight ([#62414](https://github.com/CleverRaven/Cataclysm-DDA/pull/62414))
 * inv_ui: fix accumulated minor issues ([#62423](https://github.com/CleverRaven/Cataclysm-DDA/pull/62423))
 * Receiving items from talker characters if avatar has no free space to store them no longer crashes the game ([#62426](https://github.com/CleverRaven/Cataclysm-DDA/pull/62426))
@@ -230,7 +229,3 @@
 * Remove q_staff_plus_one from known_bad_density.json ([#62413](https://github.com/CleverRaven/Cataclysm-DDA/pull/62413))
 * Fix Clang 12 on Ubuntu build failures on GitHub Actions ([#62405](https://github.com/CleverRaven/Cataclysm-DDA/pull/62405))
 * Pin mac_alias to 2.2.0 to fix dmgbuild ([#62402](https://github.com/CleverRaven/Cataclysm-DDA/pull/62402))
-* Routine i18n updates on 26 November 2022 ([#62394](https://github.com/CleverRaven/Cataclysm-DDA/pull/62394))
-* Bugfix/vacuum seal recipes ([#62390](https://github.com/CleverRaven/Cataclysm-DDA/pull/62390))
-* Fix nuclear plant stairs ([#62389](https://github.com/CleverRaven/Cataclysm-DDA/pull/62389))
-* Fixes for temperature regulation ([#62392](https://github.com/CleverRaven/Cataclysm-DDA/pull/62392))
