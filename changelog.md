@@ -1,3 +1,15 @@
+* Update the table of contents in doc/JSON_INFO.md ([#62643](https://github.com/CleverRaven/Cataclysm-DDA/pull/62643))
+* make lumbermill employees not spawn as random npcs ([#62645](https://github.com/CleverRaven/Cataclysm-DDA/pull/62645))
+* Don't trigger any effect when setting and unsetting cosmetic traits ([#62649](https://github.com/CleverRaven/Cataclysm-DDA/pull/62649))
+* [DinoMod] horns mutation fix ([#62650](https://github.com/CleverRaven/Cataclysm-DDA/pull/62650))
+* Added canvas material to Magiclysm-specific sewing kit and tailor's kit ([#62651](https://github.com/CleverRaven/Cataclysm-DDA/pull/62651))
+* fix: edge case ci error exit ([#62660](https://github.com/CleverRaven/Cataclysm-DDA/pull/62660))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-10-0818 ([8d1d4a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-10-0818))
+
+* Routine i18n updates on 10 December 2022 ([#62661](https://github.com/CleverRaven/Cataclysm-DDA/pull/62661))
 
 ---
 
@@ -196,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-12-01-2057 ([6957090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-2057))
 
 * Fix FEMA camp has more ammo than any military location ([#62513](https://github.com/CleverRaven/Cataclysm-DDA/pull/62513))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-01-1105 ([57c865e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-01-1105))
-
 * Some string polishing ([#62499](https://github.com/CleverRaven/Cataclysm-DDA/pull/62499))
 * fix: some improved spells lack relevant names ([#62481](https://github.com/CleverRaven/Cataclysm-DDA/pull/62481))
 * Fix Demonforge bug ([#62480](https://github.com/CleverRaven/Cataclysm-DDA/pull/62480))
@@ -210,25 +217,20 @@
 * AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
 * Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
 * Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
-* Update mapgen_functions - remove add_spawn ([#62417](https://github.com/CleverRaven/Cataclysm-DDA/pull/62417))
 * [innawood] hulk drop fixes ([#62455](https://github.com/CleverRaven/Cataclysm-DDA/pull/62455))
 * Fix the Valhallists shop ([#62449](https://github.com/CleverRaven/Cataclysm-DDA/pull/62449))
 * Fix: connect extension cables between vehicles and appliances ([#62475](https://github.com/CleverRaven/Cataclysm-DDA/pull/62475))
 * fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
 * Skylight misc fixes ([#62464](https://github.com/CleverRaven/Cataclysm-DDA/pull/62464))
 * Add IGNORE_SOUND, NO_BASH and RETURN_TO_START_POS traits for NPC's ([#62439](https://github.com/CleverRaven/Cataclysm-DDA/pull/62439))
-* Allow the ability to smash a skylight ([#62414](https://github.com/CleverRaven/Cataclysm-DDA/pull/62414))
 * inv_ui: fix accumulated minor issues ([#62423](https://github.com/CleverRaven/Cataclysm-DDA/pull/62423))
 * Receiving items from talker characters if avatar has no free space to store them no longer crashes the game ([#62426](https://github.com/CleverRaven/Cataclysm-DDA/pull/62426))
-* convert add_spawn to place_spawns in mx_shia and mx_jabberwock ([#62409](https://github.com/CleverRaven/Cataclysm-DDA/pull/62409))
 * [BN Port] Fix automatic sprite rotation for non-linear overmap tiles ([#62443](https://github.com/CleverRaven/Cataclysm-DDA/pull/62443))
 * Rename Dino Dave Cardboard Box Mission ([#62424](https://github.com/CleverRaven/Cataclysm-DDA/pull/62424))
 * convert add_spawn to place_spawns in mx_city_trap ([#62421](https://github.com/CleverRaven/Cataclysm-DDA/pull/62421))
-* TropiCata: Reptile Menagerie ([#62406](https://github.com/CleverRaven/Cataclysm-DDA/pull/62406))
 * Move avatar::daily_calories implementation from header to avatar.cpp ([#62428](https://github.com/CleverRaven/Cataclysm-DDA/pull/62428))
 * Farm mutable: map extras and field looks_like ([#62425](https://github.com/CleverRaven/Cataclysm-DDA/pull/62425))
 * Added `ERASE_ALL_BEFORE_PLACING_TERRAIN` flag to `toxic_waste_fence_radioactive` nested mapgen ([#62427](https://github.com/CleverRaven/Cataclysm-DDA/pull/62427))
 * fix a couple typos ([#62434](https://github.com/CleverRaven/Cataclysm-DDA/pull/62434))
 * Routine tileset updates on 27 November 2022 ([#62440](https://github.com/CleverRaven/Cataclysm-DDA/pull/62440))
 * chore: typo hunting ft. codespell ([#62418](https://github.com/CleverRaven/Cataclysm-DDA/pull/62418))
-* Remove q_staff_plus_one from known_bad_density.json ([#62413](https://github.com/CleverRaven/Cataclysm-DDA/pull/62413))
