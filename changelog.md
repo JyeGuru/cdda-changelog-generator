@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-10-0923 ([f9cc1b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-10-0923))
+
 * Update the table of contents in doc/JSON_INFO.md ([#62643](https://github.com/CleverRaven/Cataclysm-DDA/pull/62643))
 * make lumbermill employees not spawn as random npcs ([#62645](https://github.com/CleverRaven/Cataclysm-DDA/pull/62645))
 * Don't trigger any effect when setting and unsetting cosmetic traits ([#62649](https://github.com/CleverRaven/Cataclysm-DDA/pull/62649))

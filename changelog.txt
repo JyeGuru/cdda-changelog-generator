@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-12-10-0923 (f9cc1b1)
 * Update the table of contents in doc/JSON_INFO.md (#62643)
 * make lumbermill employees not spawn as random npcs (#62645)
 * Don't trigger any effect when setting and unsetting cosmetic traits (#62649)
