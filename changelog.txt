@@ -120,8 +120,6 @@ Cataclysm-DDA experimental build 2022-12-02-1620 (ab877e4)
 
 Cataclysm-DDA experimental build 2022-12-02-0627 (380d899)
 * Bugfix: Removes Nutrient override from Cottage cheese (#62509)
-
-Cataclysm-DDA experimental build 2022-12-02-0444 (acb5cb7)
 * Fix ferals in hazardous waste sarcophagus (#62515)
 * Fix FEMA camp has more ammo than any military location (#62513)
 * Some string polishing (#62499)
