@@ -138,7 +138,6 @@
 #### Cataclysm-DDA experimental build 2022-12-05-1239 ([6d064b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1239))
 
 * Multicooker tweaks ([#62510](https://github.com/CleverRaven/Cataclysm-DDA/pull/62510))
-* Added some missing chainmail recipes ([#62422](https://github.com/CleverRaven/Cataclysm-DDA/pull/62422))
 * Scrap traders will no longer sell items from their vending machines. ([#62451](https://github.com/CleverRaven/Cataclysm-DDA/pull/62451))
 * Moved ammo, ammo types, and recipes of metal rails to Aftershock ([#62460](https://github.com/CleverRaven/Cataclysm-DDA/pull/62460))
 * JSON-ify the "Find Lost Dog" mission ([#62468](https://github.com/CleverRaven/Cataclysm-DDA/pull/62468))
