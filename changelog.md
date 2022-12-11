@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-11-0636 ([ef8d33d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-11-0636))
+
+* Change spelling error ([#62671](https://github.com/CleverRaven/Cataclysm-DDA/pull/62671))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-10-0923 ([f9cc1b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-10-0923))
 
 * Update the table of contents in doc/JSON_INFO.md ([#62643](https://github.com/CleverRaven/Cataclysm-DDA/pull/62643))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2022-12-02-1620 ([ab877e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-02-1620))
 
 * distribution: don't allow poisson mean <= 0 ([#62528](https://github.com/CleverRaven/Cataclysm-DDA/pull/62528))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-02-0627 ([380d899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-02-0627))
-
 * Bugfix: Removes Nutrient override from Cottage cheese ([#62509](https://github.com/CleverRaven/Cataclysm-DDA/pull/62509))
 * Fix ferals in hazardous waste sarcophagus ([#62515](https://github.com/CleverRaven/Cataclysm-DDA/pull/62515))
 * Fix FEMA camp has more ammo than any military location ([#62513](https://github.com/CleverRaven/Cataclysm-DDA/pull/62513))
@@ -228,4 +229,3 @@
 * Added `ERASE_ALL_BEFORE_PLACING_TERRAIN` flag to `toxic_waste_fence_radioactive` nested mapgen ([#62427](https://github.com/CleverRaven/Cataclysm-DDA/pull/62427))
 * fix a couple typos ([#62434](https://github.com/CleverRaven/Cataclysm-DDA/pull/62434))
 * Routine tileset updates on 27 November 2022 ([#62440](https://github.com/CleverRaven/Cataclysm-DDA/pull/62440))
-* chore: typo hunting ft. codespell ([#62418](https://github.com/CleverRaven/Cataclysm-DDA/pull/62418))

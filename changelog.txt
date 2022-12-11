@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-12-11-0636 (ef8d33d)
+* Change spelling error (#62671)
+
 Cataclysm-DDA experimental build 2022-12-10-0923 (f9cc1b1)
 * Update the table of contents in doc/JSON_INFO.md (#62643)
 * make lumbermill employees not spawn as random npcs (#62645)
@@ -117,8 +120,6 @@ Cataclysm-DDA experimental build 2022-12-03-0815 (ec0f3a4)
 
 Cataclysm-DDA experimental build 2022-12-02-1620 (ab877e4)
 * distribution: don't allow poisson mean <= 0 (#62528)
-
-Cataclysm-DDA experimental build 2022-12-02-0627 (380d899)
 * Bugfix: Removes Nutrient override from Cottage cheese (#62509)
 * Fix ferals in hazardous waste sarcophagus (#62515)
 * Fix FEMA camp has more ammo than any military location (#62513)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2022-12-02-0627 (380d899)
 * Added `ERASE_ALL_BEFORE_PLACING_TERRAIN` flag to `toxic_waste_fence_radioactive` nested mapgen (#62427)
 * fix a couple typos (#62434)
 * Routine tileset updates on 27 November 2022 (#62440)
-* chore: typo hunting ft. codespell (#62418)
