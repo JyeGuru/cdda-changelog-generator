@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-11-1737 ([f643cd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-11-1737))
+
 * Obsolete Dark Skies Above ([#62504](https://github.com/CleverRaven/Cataclysm-DDA/pull/62504))
 * fix ordering for filament_canvas ([#62532](https://github.com/CleverRaven/Cataclysm-DDA/pull/62532))
 * Logging Camp managers will now take quest items ([#62556](https://github.com/CleverRaven/Cataclysm-DDA/pull/62556))
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2022-12-03-2311 ([3f64079](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-03-2311))
 
 * Correct some mis-use of positional arguments ([#62542](https://github.com/CleverRaven/Cataclysm-DDA/pull/62542))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-03-1651 ([b8eb345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-03-1651))
-
 * Don't persist flatbuffers for save files. ([#62536](https://github.com/CleverRaven/Cataclysm-DDA/pull/62536))
 * Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))
 * distribution: don't allow poisson mean <= 0 ([#62528](https://github.com/CleverRaven/Cataclysm-DDA/pull/62528))
