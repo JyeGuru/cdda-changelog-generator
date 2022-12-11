@@ -223,7 +223,6 @@
 * Receiving items from talker characters if avatar has no free space to store them no longer crashes the game ([#62426](https://github.com/CleverRaven/Cataclysm-DDA/pull/62426))
 * [BN Port] Fix automatic sprite rotation for non-linear overmap tiles ([#62443](https://github.com/CleverRaven/Cataclysm-DDA/pull/62443))
 * Rename Dino Dave Cardboard Box Mission ([#62424](https://github.com/CleverRaven/Cataclysm-DDA/pull/62424))
-* convert add_spawn to place_spawns in mx_city_trap ([#62421](https://github.com/CleverRaven/Cataclysm-DDA/pull/62421))
 * Move avatar::daily_calories implementation from header to avatar.cpp ([#62428](https://github.com/CleverRaven/Cataclysm-DDA/pull/62428))
 * Farm mutable: map extras and field looks_like ([#62425](https://github.com/CleverRaven/Cataclysm-DDA/pull/62425))
 * Added `ERASE_ALL_BEFORE_PLACING_TERRAIN` flag to `toxic_waste_fence_radioactive` nested mapgen ([#62427](https://github.com/CleverRaven/Cataclysm-DDA/pull/62427))
