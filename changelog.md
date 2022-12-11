@@ -1,3 +1,4 @@
+* make the one metal door in hunting lodge pickable ([#62666](https://github.com/CleverRaven/Cataclysm-DDA/pull/62666))
 * Fridges no longer spawn loose, container-less eggs ([#62669](https://github.com/CleverRaven/Cataclysm-DDA/pull/62669))
 * more typo fixes ([#62675](https://github.com/CleverRaven/Cataclysm-DDA/pull/62675))
 * Allow Tacoma ranch doctor to trade without running out of space ([#62677](https://github.com/CleverRaven/Cataclysm-DDA/pull/62677))
@@ -215,5 +216,4 @@
 * Skylight misc fixes ([#62464](https://github.com/CleverRaven/Cataclysm-DDA/pull/62464))
 * Add IGNORE_SOUND, NO_BASH and RETURN_TO_START_POS traits for NPC's ([#62439](https://github.com/CleverRaven/Cataclysm-DDA/pull/62439))
 * [BN Port] Fix automatic sprite rotation for non-linear overmap tiles ([#62443](https://github.com/CleverRaven/Cataclysm-DDA/pull/62443))
-* fix a couple typos ([#62434](https://github.com/CleverRaven/Cataclysm-DDA/pull/62434))
 * Routine tileset updates on 27 November 2022 ([#62440](https://github.com/CleverRaven/Cataclysm-DDA/pull/62440))
