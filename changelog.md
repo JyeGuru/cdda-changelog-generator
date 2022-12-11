@@ -1,3 +1,13 @@
+* Obsolete Dark Skies Above ([#62504](https://github.com/CleverRaven/Cataclysm-DDA/pull/62504))
+* fix ordering for filament_canvas ([#62532](https://github.com/CleverRaven/Cataclysm-DDA/pull/62532))
+* Logging Camp managers will now take quest items ([#62556](https://github.com/CleverRaven/Cataclysm-DDA/pull/62556))
+* Migrate the "Recover Priests Diary" mission to JSON ([#62581](https://github.com/CleverRaven/Cataclysm-DDA/pull/62581))
+* stomach_size_multiplier for dragon size mutations ([#62613](https://github.com/CleverRaven/Cataclysm-DDA/pull/62613))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-11-1623 ([5fc73dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-11-1623))
+
 * make the one metal door in hunting lodge pickable ([#62666](https://github.com/CleverRaven/Cataclysm-DDA/pull/62666))
 * Fridges no longer spawn loose, container-less eggs ([#62669](https://github.com/CleverRaven/Cataclysm-DDA/pull/62669))
 * more typo fixes ([#62675](https://github.com/CleverRaven/Cataclysm-DDA/pull/62675))
@@ -98,7 +108,6 @@
 #### Cataclysm-DDA experimental build 2022-12-06-2130 ([c58154a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-06-2130))
 
 * Flag ACTIVE_GENERATOR and "active generator" furniture to replace most ASRGs ([#62459](https://github.com/CleverRaven/Cataclysm-DDA/pull/62459))
-* inv_ui: add a save state for activate/read/steal menus ([#62448](https://github.com/CleverRaven/Cataclysm-DDA/pull/62448))
 * Preserve ammo linkage on zone unload ([#62543](https://github.com/CleverRaven/Cataclysm-DDA/pull/62543))
 * trade_ui: use keychar mode for master ctxt ([#62526](https://github.com/CleverRaven/Cataclysm-DDA/pull/62526))
 * [Magiclysm] Harden Vault Protectors ([#62519](https://github.com/CleverRaven/Cataclysm-DDA/pull/62519))
@@ -190,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2022-12-03-1651 ([b8eb345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-03-1651))
 
 * Don't persist flatbuffers for save files. ([#62536](https://github.com/CleverRaven/Cataclysm-DDA/pull/62536))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-03-0815 ([ec0f3a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-03-0815))
-
 * Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))
 * distribution: don't allow poisson mean <= 0 ([#62528](https://github.com/CleverRaven/Cataclysm-DDA/pull/62528))
 * Bugfix: Removes Nutrient override from Cottage cheese ([#62509](https://github.com/CleverRaven/Cataclysm-DDA/pull/62509))
@@ -210,10 +214,6 @@
 * Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
 * Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
 * [innawood] hulk drop fixes ([#62455](https://github.com/CleverRaven/Cataclysm-DDA/pull/62455))
-* Fix the Valhallists shop ([#62449](https://github.com/CleverRaven/Cataclysm-DDA/pull/62449))
 * Fix: connect extension cables between vehicles and appliances ([#62475](https://github.com/CleverRaven/Cataclysm-DDA/pull/62475))
 * fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
 * Skylight misc fixes ([#62464](https://github.com/CleverRaven/Cataclysm-DDA/pull/62464))
-* Add IGNORE_SOUND, NO_BASH and RETURN_TO_START_POS traits for NPC's ([#62439](https://github.com/CleverRaven/Cataclysm-DDA/pull/62439))
-* [BN Port] Fix automatic sprite rotation for non-linear overmap tiles ([#62443](https://github.com/CleverRaven/Cataclysm-DDA/pull/62443))
-* Routine tileset updates on 27 November 2022 ([#62440](https://github.com/CleverRaven/Cataclysm-DDA/pull/62440))
