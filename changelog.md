@@ -1,3 +1,4 @@
+* fix: magiclysm's thunder pillar spells ([#62676](https://github.com/CleverRaven/Cataclysm-DDA/pull/62676))
 
 ---
 
@@ -213,7 +214,6 @@
 * AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
 * Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
 * Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
-* [innawood] hulk drop fixes ([#62455](https://github.com/CleverRaven/Cataclysm-DDA/pull/62455))
 * Fix: connect extension cables between vehicles and appliances ([#62475](https://github.com/CleverRaven/Cataclysm-DDA/pull/62475))
 * fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
 * Skylight misc fixes ([#62464](https://github.com/CleverRaven/Cataclysm-DDA/pull/62464))
