@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-12-12-1013 (054c0f9)
+* Routine tileset updates on 11 December 2022 (#62704)
+
 Cataclysm-DDA experimental build 2022-12-11-1737 (f643cd5)
 * Obsolete Dark Skies Above (#62504)
 * fix ordering for filament_canvas (#62532)
@@ -94,7 +97,6 @@ Cataclysm-DDA experimental build 2022-12-05-1804 (480e35b)
 
 Cataclysm-DDA experimental build 2022-12-05-1239 (6d064b0)
 * Multicooker tweaks (#62510)
-* Scrap traders will no longer sell items from their vending machines. (#62451)
 * Moved ammo, ammo types, and recipes of metal rails to Aftershock (#62460)
 * JSON-ify the "Find Lost Dog" mission (#62468)
 
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2022-12-04-0016 (6d45ade)
 * Vahallist member no longer spawn as random npcs (#62533)
 * Fix item ownership in the Norse Evangelicals fortress (#62535)
 * fix: remove bulk nails from some locations (#62538)
-
-Cataclysm-DDA experimental build 2022-12-03-2311 (3f64079)
 * Correct some mis-use of positional arguments (#62542)
 * Don't persist flatbuffers for save files. (#62536)
 * Routine i18n updates on 03 December 2022 (#62540)

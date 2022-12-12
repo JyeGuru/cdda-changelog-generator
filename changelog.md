@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-12-1013 ([054c0f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1013))
+
+* Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-11-1737 ([f643cd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-11-1737))
 
 * Obsolete Dark Skies Above ([#62504](https://github.com/CleverRaven/Cataclysm-DDA/pull/62504))
@@ -154,7 +160,6 @@
 #### Cataclysm-DDA experimental build 2022-12-05-1239 ([6d064b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1239))
 
 * Multicooker tweaks ([#62510](https://github.com/CleverRaven/Cataclysm-DDA/pull/62510))
-* Scrap traders will no longer sell items from their vending machines. ([#62451](https://github.com/CleverRaven/Cataclysm-DDA/pull/62451))
 * Moved ammo, ammo types, and recipes of metal rails to Aftershock ([#62460](https://github.com/CleverRaven/Cataclysm-DDA/pull/62460))
 * JSON-ify the "Find Lost Dog" mission ([#62468](https://github.com/CleverRaven/Cataclysm-DDA/pull/62468))
 
@@ -192,11 +197,6 @@
 * Vahallist member no longer spawn as random npcs ([#62533](https://github.com/CleverRaven/Cataclysm-DDA/pull/62533))
 * Fix item ownership in the Norse Evangelicals fortress ([#62535](https://github.com/CleverRaven/Cataclysm-DDA/pull/62535))
 * fix: remove bulk nails from some locations ([#62538](https://github.com/CleverRaven/Cataclysm-DDA/pull/62538))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-03-2311 ([3f64079](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-03-2311))
-
 * Correct some mis-use of positional arguments ([#62542](https://github.com/CleverRaven/Cataclysm-DDA/pull/62542))
 * Don't persist flatbuffers for save files. ([#62536](https://github.com/CleverRaven/Cataclysm-DDA/pull/62536))
 * Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))
