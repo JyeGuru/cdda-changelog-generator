@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-12-1144 ([b758c62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1144))
+
 * fix: magiclysm's thunder pillar spells ([#62676](https://github.com/CleverRaven/Cataclysm-DDA/pull/62676))
 
 ---
@@ -187,11 +192,6 @@
 * enable new stale checker ([#62555](https://github.com/CleverRaven/Cataclysm-DDA/pull/62555))
 * Update stale.yml ([#62554](https://github.com/CleverRaven/Cataclysm-DDA/pull/62554))
 * Add a supported flavor of a stale bot ([#62550](https://github.com/CleverRaven/Cataclysm-DDA/pull/62550))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-04-0016 ([6d45ade](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-04-0016))
-
 * Remove the cupboard nightstand in bungalow02_1 ([#62494](https://github.com/CleverRaven/Cataclysm-DDA/pull/62494))
 * Pin matrix clang++-12 build to ubuntu-22.04 because the fake sysroot … ([#62549](https://github.com/CleverRaven/Cataclysm-DDA/pull/62549))
 * Misc typo fixes ([#62529](https://github.com/CleverRaven/Cataclysm-DDA/pull/62529))
