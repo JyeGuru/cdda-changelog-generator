@@ -1,3 +1,11 @@
+* fixes #62655 Adjusted powdered eggs requirement from 10 to 2 in leverpostej food recipe, to be consistent with other egg types and recipes ([#62702](https://github.com/CleverRaven/Cataclysm-DDA/pull/62702))
+* construction: split partial constructions from traps ([#62672](https://github.com/CleverRaven/Cataclysm-DDA/pull/62672))
+* Adjust Robots scent tracking ([#62698](https://github.com/CleverRaven/Cataclysm-DDA/pull/62698))
+* Remove ability of feral humans to track humans by scent ([#62697](https://github.com/CleverRaven/Cataclysm-DDA/pull/62697))
+* Enchantment fixes ([#62700](https://github.com/CleverRaven/Cataclysm-DDA/pull/62700))
+* Whitelists for Aftershock Exoplanet Map Specials ([#62709](https://github.com/CleverRaven/Cataclysm-DDA/pull/62709))
+* Fix random craft_available_via_vehicle_rig test failure ([#62712](https://github.com/CleverRaven/Cataclysm-DDA/pull/62712))
+* Patch the Limeware Platter exploit ([#62715](https://github.com/CleverRaven/Cataclysm-DDA/pull/62715))
 * Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
 
 ---
@@ -167,7 +175,6 @@
 #### Cataclysm-DDA experimental build 2022-12-05-1239 ([6d064b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1239))
 
 * Multicooker tweaks ([#62510](https://github.com/CleverRaven/Cataclysm-DDA/pull/62510))
-* JSON-ify the "Find Lost Dog" mission ([#62468](https://github.com/CleverRaven/Cataclysm-DDA/pull/62468))
 
 ---
 
@@ -201,14 +208,7 @@
 * Fix ferals in hazardous waste sarcophagus ([#62515](https://github.com/CleverRaven/Cataclysm-DDA/pull/62515))
 * Fix FEMA camp has more ammo than any military location ([#62513](https://github.com/CleverRaven/Cataclysm-DDA/pull/62513))
 * Some string polishing ([#62499](https://github.com/CleverRaven/Cataclysm-DDA/pull/62499))
-* fix: some improved spells lack relevant names ([#62481](https://github.com/CleverRaven/Cataclysm-DDA/pull/62481))
-* Fix Demonforge bug ([#62480](https://github.com/CleverRaven/Cataclysm-DDA/pull/62480))
 * Add arm64ec support to msvc solution ([#62482](https://github.com/CleverRaven/Cataclysm-DDA/pull/62482))
-* fixes for removing integrated armor on mutation ([#62463](https://github.com/CleverRaven/Cataclysm-DDA/pull/62463))
-* Rubber cement recipe fixes ([#62466](https://github.com/CleverRaven/Cataclysm-DDA/pull/62466))
 * AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
 * Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
 * Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
-* Fix: connect extension cables between vehicles and appliances ([#62475](https://github.com/CleverRaven/Cataclysm-DDA/pull/62475))
-* fixes for NPC death to portal storms ([#62465](https://github.com/CleverRaven/Cataclysm-DDA/pull/62465))
-* Skylight misc fixes ([#62464](https://github.com/CleverRaven/Cataclysm-DDA/pull/62464))
