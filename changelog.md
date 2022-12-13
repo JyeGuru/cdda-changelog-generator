@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-13-0748 ([e40157c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-13-0748))
+
 * fixes #62655 Adjusted powdered eggs requirement from 10 to 2 in leverpostej food recipe, to be consistent with other egg types and recipes ([#62702](https://github.com/CleverRaven/Cataclysm-DDA/pull/62702))
 * construction: split partial constructions from traps ([#62672](https://github.com/CleverRaven/Cataclysm-DDA/pull/62672))
 * Adjust Robots scent tracking ([#62698](https://github.com/CleverRaven/Cataclysm-DDA/pull/62698))
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2022-12-05-1139 ([6390d43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1139))
 
 * Add missing welding kit to list of welding requirements ([#62517](https://github.com/CleverRaven/Cataclysm-DDA/pull/62517))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-05-0646 ([bea66a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-0646))
-
 * Routine tileset updates on 04 December 2022 ([#62571](https://github.com/CleverRaven/Cataclysm-DDA/pull/62571))
 * actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
 * increase rate limit and focus on old issues ([#62570](https://github.com/CleverRaven/Cataclysm-DDA/pull/62570))
