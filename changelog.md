@@ -208,7 +208,6 @@
 * Fix ferals in hazardous waste sarcophagus ([#62515](https://github.com/CleverRaven/Cataclysm-DDA/pull/62515))
 * Fix FEMA camp has more ammo than any military location ([#62513](https://github.com/CleverRaven/Cataclysm-DDA/pull/62513))
 * Some string polishing ([#62499](https://github.com/CleverRaven/Cataclysm-DDA/pull/62499))
-* Add arm64ec support to msvc solution ([#62482](https://github.com/CleverRaven/Cataclysm-DDA/pull/62482))
 * AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
 * Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
 * Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
