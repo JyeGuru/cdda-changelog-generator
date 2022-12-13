@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-13-0609 ([c397de2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-13-0609))
+
+* Migrate the "Kill Horde Master" mission to JSON ([#62559](https://github.com/CleverRaven/Cataclysm-DDA/pull/62559))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-12-1144 ([b758c62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1144))
 
 * fix: magiclysm's thunder pillar spells ([#62676](https://github.com/CleverRaven/Cataclysm-DDA/pull/62676))
@@ -119,12 +125,6 @@
 
 * Update the bunker shop ([#62534](https://github.com/CleverRaven/Cataclysm-DDA/pull/62534))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-06-2130 ([c58154a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-06-2130))
-
-* Flag ACTIVE_GENERATOR and "active generator" furniture to replace most ASRGs ([#62459](https://github.com/CleverRaven/Cataclysm-DDA/pull/62459))
 * Preserve ammo linkage on zone unload ([#62543](https://github.com/CleverRaven/Cataclysm-DDA/pull/62543))
 * trade_ui: use keychar mode for master ctxt ([#62526](https://github.com/CleverRaven/Cataclysm-DDA/pull/62526))
 * [Magiclysm] Harden Vault Protectors ([#62519](https://github.com/CleverRaven/Cataclysm-DDA/pull/62519))
@@ -183,11 +183,6 @@
 * actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
 * increase rate limit and focus on old issues ([#62570](https://github.com/CleverRaven/Cataclysm-DDA/pull/62570))
 * run stale checker hourly ([#62563](https://github.com/CleverRaven/Cataclysm-DDA/pull/62563))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-04-0825 ([1894579](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-04-0825))
-
 * Typo/phrasing fixes in NPC faction camp explanation. ([#62520](https://github.com/CleverRaven/Cataclysm-DDA/pull/62520))
 * enable new stale checker ([#62555](https://github.com/CleverRaven/Cataclysm-DDA/pull/62555))
 * Update stale.yml ([#62554](https://github.com/CleverRaven/Cataclysm-DDA/pull/62554))
