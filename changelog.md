@@ -1,3 +1,11 @@
+* Washing machine, dishwasher, and autoclave appliances now can hold items ([#62716](https://github.com/CleverRaven/Cataclysm-DDA/pull/62716))
+* activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-14-0039 ([97f9c9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-14-0039))
+
+* Update json info.md - firestarter use_action ([#62726](https://github.com/CleverRaven/Cataclysm-DDA/pull/62726))
 
 ---
 
@@ -180,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2022-12-05-1239 ([6d064b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1239))
 
 * Multicooker tweaks ([#62510](https://github.com/CleverRaven/Cataclysm-DDA/pull/62510))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-05-1139 ([6390d43](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1139))
-
 * Add missing welding kit to list of welding requirements ([#62517](https://github.com/CleverRaven/Cataclysm-DDA/pull/62517))
 * Routine tileset updates on 04 December 2022 ([#62571](https://github.com/CleverRaven/Cataclysm-DDA/pull/62571))
 * actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
@@ -194,7 +197,6 @@
 * enable new stale checker ([#62555](https://github.com/CleverRaven/Cataclysm-DDA/pull/62555))
 * Update stale.yml ([#62554](https://github.com/CleverRaven/Cataclysm-DDA/pull/62554))
 * Add a supported flavor of a stale bot ([#62550](https://github.com/CleverRaven/Cataclysm-DDA/pull/62550))
-* Remove the cupboard nightstand in bungalow02_1 ([#62494](https://github.com/CleverRaven/Cataclysm-DDA/pull/62494))
 * Pin matrix clang++-12 build to ubuntu-22.04 because the fake sysroot … ([#62549](https://github.com/CleverRaven/Cataclysm-DDA/pull/62549))
 * Misc typo fixes ([#62529](https://github.com/CleverRaven/Cataclysm-DDA/pull/62529))
 * Vahallist member no longer spawn as random npcs ([#62533](https://github.com/CleverRaven/Cataclysm-DDA/pull/62533))
@@ -208,6 +210,4 @@
 * Fix ferals in hazardous waste sarcophagus ([#62515](https://github.com/CleverRaven/Cataclysm-DDA/pull/62515))
 * Fix FEMA camp has more ammo than any military location ([#62513](https://github.com/CleverRaven/Cataclysm-DDA/pull/62513))
 * Some string polishing ([#62499](https://github.com/CleverRaven/Cataclysm-DDA/pull/62499))
-* AIM: hotfix for #62400 ([#62489](https://github.com/CleverRaven/Cataclysm-DDA/pull/62489))
-* Add NO_BASH and RETURN_TO_START_POS for more NPCs ([#62493](https://github.com/CleverRaven/Cataclysm-DDA/pull/62493))
 * Revert "Add the feral burner" ([#62497](https://github.com/CleverRaven/Cataclysm-DDA/pull/62497))
