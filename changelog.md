@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-14-0156 ([8106bff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-14-0156))
+
 * Washing machine, dishwasher, and autoclave appliances now can hold items ([#62716](https://github.com/CleverRaven/Cataclysm-DDA/pull/62716))
 * activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
 
@@ -182,11 +187,6 @@
 * Remove old C++ functions for the "Find Lab Tunnels" mission ([#62582](https://github.com/CleverRaven/Cataclysm-DDA/pull/62582))
 * stale action: ignore ancient issues ([#62586](https://github.com/CleverRaven/Cataclysm-DDA/pull/62586))
 * remove stale stale checker ([#62584](https://github.com/CleverRaven/Cataclysm-DDA/pull/62584))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-05-1239 ([6d064b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-05-1239))
-
 * Multicooker tweaks ([#62510](https://github.com/CleverRaven/Cataclysm-DDA/pull/62510))
 * Add missing welding kit to list of welding requirements ([#62517](https://github.com/CleverRaven/Cataclysm-DDA/pull/62517))
 * Routine tileset updates on 04 December 2022 ([#62571](https://github.com/CleverRaven/Cataclysm-DDA/pull/62571))
