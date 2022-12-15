@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-15-0650 ([4c6e8b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-15-0650))
+
+* Ember carrier pocket consistancy ([#62730](https://github.com/CleverRaven/Cataclysm-DDA/pull/62730))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-14-1445 ([a72dc5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-14-1445))
 
 * Increase price of enchanted sledge hammers ([#62714](https://github.com/CleverRaven/Cataclysm-DDA/pull/62714))
@@ -49,12 +55,6 @@
 #### Cataclysm-DDA experimental build 2022-12-12-1013 ([054c0f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1013))
 
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-11-1737 ([f643cd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-11-1737))
-
-* Obsolete Dark Skies Above ([#62504](https://github.com/CleverRaven/Cataclysm-DDA/pull/62504))
 * fix ordering for filament_canvas ([#62532](https://github.com/CleverRaven/Cataclysm-DDA/pull/62532))
 * Logging Camp managers will now take quest items ([#62556](https://github.com/CleverRaven/Cataclysm-DDA/pull/62556))
 * Migrate the "Recover Priests Diary" mission to JSON ([#62581](https://github.com/CleverRaven/Cataclysm-DDA/pull/62581))
