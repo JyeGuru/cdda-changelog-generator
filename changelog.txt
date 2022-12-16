@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2022-12-06-1902 (c58c1d1)
 * Make scrap trader and cabin chemist not spawn as random npcs (#62597)
 * Remove x86 specific macro definitions in MSVC build in CMake (#62602)
 * Add VERSION.txt to .gitignore (#62600)
-
-Cataclysm-DDA experimental build 2022-12-06-1452 (7fedebb)
 * Nerf integrated fur armor to reasonable levels (#62580)
 * tindalos_teleport hint (#62588)
 * bumping operations limit for stale bot to 250 (#62592)

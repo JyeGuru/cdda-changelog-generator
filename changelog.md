@@ -177,11 +177,6 @@
 * Make scrap trader and cabin chemist not spawn as random npcs ([#62597](https://github.com/CleverRaven/Cataclysm-DDA/pull/62597))
 * Remove x86 specific macro definitions in MSVC build in CMake ([#62602](https://github.com/CleverRaven/Cataclysm-DDA/pull/62602))
 * Add VERSION.txt to .gitignore ([#62600](https://github.com/CleverRaven/Cataclysm-DDA/pull/62600))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-06-1452 ([7fedebb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-06-1452))
-
 * Nerf integrated fur armor to reasonable levels ([#62580](https://github.com/CleverRaven/Cataclysm-DDA/pull/62580))
 * tindalos_teleport hint ([#62588](https://github.com/CleverRaven/Cataclysm-DDA/pull/62588))
 * bumping operations limit for stale bot to 250 ([#62592](https://github.com/CleverRaven/Cataclysm-DDA/pull/62592))
