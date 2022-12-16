@@ -204,4 +204,3 @@
 * Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))
 * distribution: don't allow poisson mean <= 0 ([#62528](https://github.com/CleverRaven/Cataclysm-DDA/pull/62528))
 * Fix ferals in hazardous waste sarcophagus ([#62515](https://github.com/CleverRaven/Cataclysm-DDA/pull/62515))
-* Fix FEMA camp has more ammo than any military location ([#62513](https://github.com/CleverRaven/Cataclysm-DDA/pull/62513))
