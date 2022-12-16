@@ -1,3 +1,4 @@
+* [Xedra Evolved] artifact hotfix ([#62735](https://github.com/CleverRaven/Cataclysm-DDA/pull/62735))
 
 ---
 
@@ -184,7 +185,6 @@
 * Remove old C++ functions for the "Find Lab Tunnels" mission ([#62582](https://github.com/CleverRaven/Cataclysm-DDA/pull/62582))
 * stale action: ignore ancient issues ([#62586](https://github.com/CleverRaven/Cataclysm-DDA/pull/62586))
 * remove stale stale checker ([#62584](https://github.com/CleverRaven/Cataclysm-DDA/pull/62584))
-* Multicooker tweaks ([#62510](https://github.com/CleverRaven/Cataclysm-DDA/pull/62510))
 * Add missing welding kit to list of welding requirements ([#62517](https://github.com/CleverRaven/Cataclysm-DDA/pull/62517))
 * Routine tileset updates on 04 December 2022 ([#62571](https://github.com/CleverRaven/Cataclysm-DDA/pull/62571))
 * actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
