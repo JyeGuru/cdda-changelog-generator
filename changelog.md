@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-16-0709 ([03ac450](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-16-0709))
+
+* Fix #62748 ([#62750](https://github.com/CleverRaven/Cataclysm-DDA/pull/62750))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-15-0650 ([4c6e8b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-15-0650))
 
 * Ember carrier pocket consistancy ([#62730](https://github.com/CleverRaven/Cataclysm-DDA/pull/62730))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2022-12-06-1452 ([7fedebb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-06-1452))
 
 * Nerf integrated fur armor to reasonable levels ([#62580](https://github.com/CleverRaven/Cataclysm-DDA/pull/62580))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-06-1200 ([4fa1157](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-06-1200))
-
 * tindalos_teleport hint ([#62588](https://github.com/CleverRaven/Cataclysm-DDA/pull/62588))
 * bumping operations limit for stale bot to 250 ([#62592](https://github.com/CleverRaven/Cataclysm-DDA/pull/62592))
 * Let Dumpster Contain Fire ([#62579](https://github.com/CleverRaven/Cataclysm-DDA/pull/62579))
@@ -207,6 +208,5 @@
 * Don't persist flatbuffers for save files. ([#62536](https://github.com/CleverRaven/Cataclysm-DDA/pull/62536))
 * Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))
 * distribution: don't allow poisson mean <= 0 ([#62528](https://github.com/CleverRaven/Cataclysm-DDA/pull/62528))
-* Bugfix: Removes Nutrient override from Cottage cheese ([#62509](https://github.com/CleverRaven/Cataclysm-DDA/pull/62509))
 * Fix ferals in hazardous waste sarcophagus ([#62515](https://github.com/CleverRaven/Cataclysm-DDA/pull/62515))
 * Fix FEMA camp has more ammo than any military location ([#62513](https://github.com/CleverRaven/Cataclysm-DDA/pull/62513))
