@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-12-16-1130 (6fa16de)
 * [Xedra Evolved] artifact hotfix (#62735)
 
 Cataclysm-DDA experimental build 2022-12-16-0709 (03ac450)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2022-12-07-0631 (8fabe5e)
 * [Magiclysm] Harden Vault Protectors (#62519)
 * AIM: close UI if activity finished before turn's end (#62560)
 * Define launcher lengths (#62585)
-
-Cataclysm-DDA experimental build 2022-12-06-1902 (c58c1d1)
 * Make scrap trader and cabin chemist not spawn as random npcs (#62597)
 * Remove x86 specific macro definitions in MSVC build in CMake (#62602)
 * Add VERSION.txt to .gitignore (#62600)

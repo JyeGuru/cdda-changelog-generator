@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-16-1130 ([6fa16de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-16-1130))
+
 * [Xedra Evolved] artifact hotfix ([#62735](https://github.com/CleverRaven/Cataclysm-DDA/pull/62735))
 
 ---
@@ -170,11 +175,6 @@
 * [Magiclysm] Harden Vault Protectors ([#62519](https://github.com/CleverRaven/Cataclysm-DDA/pull/62519))
 * AIM: close UI if activity finished before turn's end ([#62560](https://github.com/CleverRaven/Cataclysm-DDA/pull/62560))
 * Define launcher lengths ([#62585](https://github.com/CleverRaven/Cataclysm-DDA/pull/62585))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-06-1902 ([c58c1d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-06-1902))
-
 * Make scrap trader and cabin chemist not spawn as random npcs ([#62597](https://github.com/CleverRaven/Cataclysm-DDA/pull/62597))
 * Remove x86 specific macro definitions in MSVC build in CMake ([#62602](https://github.com/CleverRaven/Cataclysm-DDA/pull/62602))
 * Add VERSION.txt to .gitignore ([#62600](https://github.com/CleverRaven/Cataclysm-DDA/pull/62600))
