@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2022-12-17-0740 (df83f9a)
+* PERSONAL for light fur (#62731)
 * Link to tileset repo in issue template chooser (#62724)
 * fix: code suggestions for c++ code (#62736)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2022-12-08-0529 (69f0819)
 
 Cataclysm-DDA experimental build 2022-12-08-0413 (b0c9b48)
 * Added doors to toilets (#62614)
-
-Cataclysm-DDA experimental build 2022-12-07-0631 (8fabe5e)
 * Update the bunker shop (#62534)
 * stale: reverse direction hourly (#62612)
 * Preserve ammo linkage on zone unload (#62543)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2022-12-07-0631 (8fabe5e)
 * Correct some mis-use of positional arguments (#62542)
 * Don't persist flatbuffers for save files. (#62536)
 * Routine i18n updates on 03 December 2022 (#62540)
-* distribution: don't allow poisson mean <= 0 (#62528)
