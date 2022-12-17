@@ -1,3 +1,19 @@
+* Link to tileset repo in issue template chooser ([#62724](https://github.com/CleverRaven/Cataclysm-DDA/pull/62724))
+* fix: code suggestions for c++ code ([#62736](https://github.com/CleverRaven/Cataclysm-DDA/pull/62736))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-17-0114 ([a85fe65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-17-0114))
+
+* AIM: prevent infinite loop on move_all deserialization ([#62744](https://github.com/CleverRaven/Cataclysm-DDA/pull/62744))
+* No more Mi-Go in nether portals ([#62742](https://github.com/CleverRaven/Cataclysm-DDA/pull/62742))
+* Remove the welding kit recipe ([#62743](https://github.com/CleverRaven/Cataclysm-DDA/pull/62743))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-17-0013 ([35de9eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-17-0013))
+
+* [Magiclysm] Remove the VARSIZE flag from summoned item ([#62751](https://github.com/CleverRaven/Cataclysm-DDA/pull/62751))
 
 ---
 
@@ -116,12 +132,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-12-09-0649 ([50d81a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-09-0649))
-
-* Tidy up vehicle part "size" field ([#62525](https://github.com/CleverRaven/Cataclysm-DDA/pull/62525))
-
----
-
 #### Cataclysm-DDA experimental build 2022-12-09-0417 ([5fd0f93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-09-0417))
 
 * Prevent monsters from upgrading into blacklisted forms ([#62626](https://github.com/CleverRaven/Cataclysm-DDA/pull/62626))
@@ -171,8 +181,6 @@
 * Update the bunker shop ([#62534](https://github.com/CleverRaven/Cataclysm-DDA/pull/62534))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
 * Preserve ammo linkage on zone unload ([#62543](https://github.com/CleverRaven/Cataclysm-DDA/pull/62543))
-* trade_ui: use keychar mode for master ctxt ([#62526](https://github.com/CleverRaven/Cataclysm-DDA/pull/62526))
-* [Magiclysm] Harden Vault Protectors ([#62519](https://github.com/CleverRaven/Cataclysm-DDA/pull/62519))
 * AIM: close UI if activity finished before turn's end ([#62560](https://github.com/CleverRaven/Cataclysm-DDA/pull/62560))
 * Define launcher lengths ([#62585](https://github.com/CleverRaven/Cataclysm-DDA/pull/62585))
 * Make scrap trader and cabin chemist not spawn as random npcs ([#62597](https://github.com/CleverRaven/Cataclysm-DDA/pull/62597))
@@ -185,12 +193,10 @@
 * Remove old C++ functions for the "Find Lab Tunnels" mission ([#62582](https://github.com/CleverRaven/Cataclysm-DDA/pull/62582))
 * stale action: ignore ancient issues ([#62586](https://github.com/CleverRaven/Cataclysm-DDA/pull/62586))
 * remove stale stale checker ([#62584](https://github.com/CleverRaven/Cataclysm-DDA/pull/62584))
-* Add missing welding kit to list of welding requirements ([#62517](https://github.com/CleverRaven/Cataclysm-DDA/pull/62517))
 * Routine tileset updates on 04 December 2022 ([#62571](https://github.com/CleverRaven/Cataclysm-DDA/pull/62571))
 * actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
 * increase rate limit and focus on old issues ([#62570](https://github.com/CleverRaven/Cataclysm-DDA/pull/62570))
 * run stale checker hourly ([#62563](https://github.com/CleverRaven/Cataclysm-DDA/pull/62563))
-* Typo/phrasing fixes in NPC faction camp explanation. ([#62520](https://github.com/CleverRaven/Cataclysm-DDA/pull/62520))
 * enable new stale checker ([#62555](https://github.com/CleverRaven/Cataclysm-DDA/pull/62555))
 * Update stale.yml ([#62554](https://github.com/CleverRaven/Cataclysm-DDA/pull/62554))
 * Add a supported flavor of a stale bot ([#62550](https://github.com/CleverRaven/Cataclysm-DDA/pull/62550))
@@ -203,4 +209,3 @@
 * Don't persist flatbuffers for save files. ([#62536](https://github.com/CleverRaven/Cataclysm-DDA/pull/62536))
 * Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))
 * distribution: don't allow poisson mean <= 0 ([#62528](https://github.com/CleverRaven/Cataclysm-DDA/pull/62528))
-* Fix ferals in hazardous waste sarcophagus ([#62515](https://github.com/CleverRaven/Cataclysm-DDA/pull/62515))
