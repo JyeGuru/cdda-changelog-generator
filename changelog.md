@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-18-0616 ([59756b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-18-0616))
+
+* Adding disassembling for sling vests ([#62711](https://github.com/CleverRaven/Cataclysm-DDA/pull/62711))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-17-0740 ([df83f9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-17-0740))
 
 * PERSONAL for light fur ([#62731](https://github.com/CleverRaven/Cataclysm-DDA/pull/62731))
@@ -173,11 +179,6 @@
 * Fill farm silos with silage ([#62610](https://github.com/CleverRaven/Cataclysm-DDA/pull/62610))
 * Update spell checker dictionary ([#62599](https://github.com/CleverRaven/Cataclysm-DDA/pull/62599))
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-08-0413 ([b0c9b48](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-0413))
-
 * Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
 * Update the bunker shop ([#62534](https://github.com/CleverRaven/Cataclysm-DDA/pull/62534))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
@@ -202,7 +203,6 @@
 * Update stale.yml ([#62554](https://github.com/CleverRaven/Cataclysm-DDA/pull/62554))
 * Add a supported flavor of a stale bot ([#62550](https://github.com/CleverRaven/Cataclysm-DDA/pull/62550))
 * Pin matrix clang++-12 build to ubuntu-22.04 because the fake sysroot … ([#62549](https://github.com/CleverRaven/Cataclysm-DDA/pull/62549))
-* Misc typo fixes ([#62529](https://github.com/CleverRaven/Cataclysm-DDA/pull/62529))
 * Vahallist member no longer spawn as random npcs ([#62533](https://github.com/CleverRaven/Cataclysm-DDA/pull/62533))
 * Fix item ownership in the Norse Evangelicals fortress ([#62535](https://github.com/CleverRaven/Cataclysm-DDA/pull/62535))
 * fix: remove bulk nails from some locations ([#62538](https://github.com/CleverRaven/Cataclysm-DDA/pull/62538))
