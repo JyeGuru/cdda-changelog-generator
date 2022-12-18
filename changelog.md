@@ -95,7 +95,6 @@
 #### Cataclysm-DDA experimental build 2022-12-12-1013 ([054c0f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1013))
 
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
-* fix ordering for filament_canvas ([#62532](https://github.com/CleverRaven/Cataclysm-DDA/pull/62532))
 * Logging Camp managers will now take quest items ([#62556](https://github.com/CleverRaven/Cataclysm-DDA/pull/62556))
 * Migrate the "Recover Priests Diary" mission to JSON ([#62581](https://github.com/CleverRaven/Cataclysm-DDA/pull/62581))
 * stomach_size_multiplier for dragon size mutations ([#62613](https://github.com/CleverRaven/Cataclysm-DDA/pull/62613))
