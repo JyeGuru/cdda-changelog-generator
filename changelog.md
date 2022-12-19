@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-19-0608 ([b7312f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-19-0608))
+
+* Routine tileset updates on 18 December 2022 ([#62774](https://github.com/CleverRaven/Cataclysm-DDA/pull/62774))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-18-0616 ([59756b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-18-0616))
 
 * Adding disassembling for sling vests ([#62711](https://github.com/CleverRaven/Cataclysm-DDA/pull/62711))
@@ -170,16 +176,10 @@
 #### Cataclysm-DDA experimental build 2022-12-08-0630 ([8e428ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-0630))
 
 * spawn primed 22 casings in gunsmith stores ([#62562](https://github.com/CleverRaven/Cataclysm-DDA/pull/62562))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-08-0529 ([69f0819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-0529))
-
 * Fill farm silos with silage ([#62610](https://github.com/CleverRaven/Cataclysm-DDA/pull/62610))
 * Update spell checker dictionary ([#62599](https://github.com/CleverRaven/Cataclysm-DDA/pull/62599))
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
 * Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
-* Update the bunker shop ([#62534](https://github.com/CleverRaven/Cataclysm-DDA/pull/62534))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
 * Preserve ammo linkage on zone unload ([#62543](https://github.com/CleverRaven/Cataclysm-DDA/pull/62543))
 * AIM: close UI if activity finished before turn's end ([#62560](https://github.com/CleverRaven/Cataclysm-DDA/pull/62560))
