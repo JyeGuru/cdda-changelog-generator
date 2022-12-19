@@ -202,7 +202,6 @@
 * Update stale.yml ([#62554](https://github.com/CleverRaven/Cataclysm-DDA/pull/62554))
 * Add a supported flavor of a stale bot ([#62550](https://github.com/CleverRaven/Cataclysm-DDA/pull/62550))
 * Pin matrix clang++-12 build to ubuntu-22.04 because the fake sysroot … ([#62549](https://github.com/CleverRaven/Cataclysm-DDA/pull/62549))
-* Vahallist member no longer spawn as random npcs ([#62533](https://github.com/CleverRaven/Cataclysm-DDA/pull/62533))
 * Fix item ownership in the Norse Evangelicals fortress ([#62535](https://github.com/CleverRaven/Cataclysm-DDA/pull/62535))
 * fix: remove bulk nails from some locations ([#62538](https://github.com/CleverRaven/Cataclysm-DDA/pull/62538))
 * Correct some mis-use of positional arguments ([#62542](https://github.com/CleverRaven/Cataclysm-DDA/pull/62542))
