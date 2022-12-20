@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-20-0455 ([085319a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-0455))
+
 * rigid plastic sheet fix length ([#62790](https://github.com/CleverRaven/Cataclysm-DDA/pull/62790))
 * Fix crash on loading autosave made during insert action ([#62763](https://github.com/CleverRaven/Cataclysm-DDA/pull/62763))
 * Routine i18n updates on 17 December 2022 ([#62759](https://github.com/CleverRaven/Cataclysm-DDA/pull/62759))
@@ -177,11 +182,6 @@
 
 * Fix crash caused by NW faction camp expansion ([#62624](https://github.com/CleverRaven/Cataclysm-DDA/pull/62624))
 * Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-08-1147 ([6e4b17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-1147))
-
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
 * spawn primed 22 casings in gunsmith stores ([#62562](https://github.com/CleverRaven/Cataclysm-DDA/pull/62562))
 * Fill farm silos with silage ([#62610](https://github.com/CleverRaven/Cataclysm-DDA/pull/62610))
