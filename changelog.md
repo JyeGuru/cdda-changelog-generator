@@ -1,3 +1,12 @@
+* Aquariums no longer have clean water ([#62768](https://github.com/CleverRaven/Cataclysm-DDA/pull/62768))
+* zones: hide LOOT_ITEM_GROUP ([#62770](https://github.com/CleverRaven/Cataclysm-DDA/pull/62770))
+* Update MUTATIONS.md ([#62772](https://github.com/CleverRaven/Cataclysm-DDA/pull/62772))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-20-0330 ([8d38b73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-0330))
+
+* npctalk: fix propagation of topic parameters ([#62783](https://github.com/CleverRaven/Cataclysm-DDA/pull/62783))
 
 ---
 
@@ -170,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2022-12-08-1147 ([6e4b17f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-1147))
 
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-08-0630 ([8e428ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-08-0630))
-
 * spawn primed 22 casings in gunsmith stores ([#62562](https://github.com/CleverRaven/Cataclysm-DDA/pull/62562))
 * Fill farm silos with silage ([#62610](https://github.com/CleverRaven/Cataclysm-DDA/pull/62610))
 * Update spell checker dictionary ([#62599](https://github.com/CleverRaven/Cataclysm-DDA/pull/62599))
@@ -202,8 +206,5 @@
 * Update stale.yml ([#62554](https://github.com/CleverRaven/Cataclysm-DDA/pull/62554))
 * Add a supported flavor of a stale bot ([#62550](https://github.com/CleverRaven/Cataclysm-DDA/pull/62550))
 * Pin matrix clang++-12 build to ubuntu-22.04 because the fake sysroot … ([#62549](https://github.com/CleverRaven/Cataclysm-DDA/pull/62549))
-* Fix item ownership in the Norse Evangelicals fortress ([#62535](https://github.com/CleverRaven/Cataclysm-DDA/pull/62535))
-* fix: remove bulk nails from some locations ([#62538](https://github.com/CleverRaven/Cataclysm-DDA/pull/62538))
 * Correct some mis-use of positional arguments ([#62542](https://github.com/CleverRaven/Cataclysm-DDA/pull/62542))
-* Don't persist flatbuffers for save files. ([#62536](https://github.com/CleverRaven/Cataclysm-DDA/pull/62536))
 * Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))

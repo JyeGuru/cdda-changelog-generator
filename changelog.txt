@@ -1,3 +1,9 @@
+* Aquariums no longer have clean water (#62768)
+* zones: hide LOOT_ITEM_GROUP (#62770)
+* Update MUTATIONS.md (#62772)
+
+Cataclysm-DDA experimental build 2022-12-20-0330 (8d38b73)
+* npctalk: fix propagation of topic parameters (#62783)
 
 Cataclysm-DDA experimental build 2022-12-19-0608 (b7312f8)
 * Routine tileset updates on 18 December 2022 (#62774)
@@ -101,8 +107,6 @@ Cataclysm-DDA experimental build 2022-12-09-0309 (b1a88cc)
 
 Cataclysm-DDA experimental build 2022-12-08-1147 (6e4b17f)
 * Bump default SDK version for Android builds to 31 (#62625)
-
-Cataclysm-DDA experimental build 2022-12-08-0630 (8e428ca)
 * spawn primed 22 casings in gunsmith stores (#62562)
 * Fill farm silos with silage (#62610)
 * Update spell checker dictionary (#62599)
@@ -130,8 +134,5 @@ Cataclysm-DDA experimental build 2022-12-08-0630 (8e428ca)
 * Update stale.yml (#62554)
 * Add a supported flavor of a stale bot (#62550)
 * Pin matrix clang++-12 build to ubuntu-22.04 because the fake sysroot … (#62549)
-* Fix item ownership in the Norse Evangelicals fortress (#62535)
-* fix: remove bulk nails from some locations (#62538)
 * Correct some mis-use of positional arguments (#62542)
-* Don't persist flatbuffers for save files. (#62536)
 * Routine i18n updates on 03 December 2022 (#62540)
