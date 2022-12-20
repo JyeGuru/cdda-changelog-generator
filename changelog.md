@@ -1,3 +1,5 @@
+* Added knife qualities to knife spear ([#62756](https://github.com/CleverRaven/Cataclysm-DDA/pull/62756))
+* Adds flagpoles to a couple of locations ([#62787](https://github.com/CleverRaven/Cataclysm-DDA/pull/62787))
 * Make high move-cost bamboos look like shrubs ([#62796](https://github.com/CleverRaven/Cataclysm-DDA/pull/62796))
 
 ---
@@ -111,12 +113,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2022-12-13-0609 ([c397de2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-13-0609))
-
-* Migrate the "Kill Horde Master" mission to JSON ([#62559](https://github.com/CleverRaven/Cataclysm-DDA/pull/62559))
-
----
-
 #### Cataclysm-DDA experimental build 2022-12-12-1144 ([b758c62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1144))
 
 * fix: magiclysm's thunder pillar spells ([#62676](https://github.com/CleverRaven/Cataclysm-DDA/pull/62676))
@@ -126,7 +122,6 @@
 #### Cataclysm-DDA experimental build 2022-12-12-1013 ([054c0f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1013))
 
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
-* Logging Camp managers will now take quest items ([#62556](https://github.com/CleverRaven/Cataclysm-DDA/pull/62556))
 * Migrate the "Recover Priests Diary" mission to JSON ([#62581](https://github.com/CleverRaven/Cataclysm-DDA/pull/62581))
 * stomach_size_multiplier for dragon size mutations ([#62613](https://github.com/CleverRaven/Cataclysm-DDA/pull/62613))
 
