@@ -1,3 +1,4 @@
+* Aftershock: Blue collar clothing (Space edition) ([#62682](https://github.com/CleverRaven/Cataclysm-DDA/pull/62682))
 * Aquariums no longer have clean water ([#62768](https://github.com/CleverRaven/Cataclysm-DDA/pull/62768))
 * zones: hide LOOT_ITEM_GROUP ([#62770](https://github.com/CleverRaven/Cataclysm-DDA/pull/62770))
 * Update MUTATIONS.md ([#62772](https://github.com/CleverRaven/Cataclysm-DDA/pull/62772))
@@ -207,4 +208,3 @@
 * Add a supported flavor of a stale bot ([#62550](https://github.com/CleverRaven/Cataclysm-DDA/pull/62550))
 * Pin matrix clang++-12 build to ubuntu-22.04 because the fake sysroot … ([#62549](https://github.com/CleverRaven/Cataclysm-DDA/pull/62549))
 * Correct some mis-use of positional arguments ([#62542](https://github.com/CleverRaven/Cataclysm-DDA/pull/62542))
-* Routine i18n updates on 03 December 2022 ([#62540](https://github.com/CleverRaven/Cataclysm-DDA/pull/62540))
