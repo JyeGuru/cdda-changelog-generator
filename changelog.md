@@ -212,4 +212,3 @@
 * increase rate limit and focus on old issues ([#62570](https://github.com/CleverRaven/Cataclysm-DDA/pull/62570))
 * run stale checker hourly ([#62563](https://github.com/CleverRaven/Cataclysm-DDA/pull/62563))
 * enable new stale checker ([#62555](https://github.com/CleverRaven/Cataclysm-DDA/pull/62555))
-* Update stale.yml ([#62554](https://github.com/CleverRaven/Cataclysm-DDA/pull/62554))
