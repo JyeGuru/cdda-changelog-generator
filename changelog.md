@@ -1,3 +1,4 @@
+* Make high move-cost bamboos look like shrubs ([#62796](https://github.com/CleverRaven/Cataclysm-DDA/pull/62796))
 
 ---
 
@@ -206,4 +207,3 @@
 * actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
 * increase rate limit and focus on old issues ([#62570](https://github.com/CleverRaven/Cataclysm-DDA/pull/62570))
 * run stale checker hourly ([#62563](https://github.com/CleverRaven/Cataclysm-DDA/pull/62563))
-* enable new stale checker ([#62555](https://github.com/CleverRaven/Cataclysm-DDA/pull/62555))

@@ -1,3 +1,4 @@
+* Make high move-cost bamboos look like shrubs (#62796)
 
 Cataclysm-DDA experimental build 2022-12-20-1107 (3d34c60)
 * Cleanup mil_surplus (#62773)
@@ -134,4 +135,3 @@ Cataclysm-DDA experimental build 2022-12-09-0417 (5fd0f93)
 * actually process older issues first (#62576)
 * increase rate limit and focus on old issues (#62570)
 * run stale checker hourly (#62563)
-* enable new stale checker (#62555)
