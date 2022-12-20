@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-20-1843 ([4179a45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-1843))
+
 * Added knife qualities to knife spear ([#62756](https://github.com/CleverRaven/Cataclysm-DDA/pull/62756))
 * Adds flagpoles to a couple of locations ([#62787](https://github.com/CleverRaven/Cataclysm-DDA/pull/62787))
 * Make high move-cost bamboos look like shrubs ([#62796](https://github.com/CleverRaven/Cataclysm-DDA/pull/62796))
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2022-12-10-0818 ([8d1d4a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-10-0818))
 
 * Routine i18n updates on 10 December 2022 ([#62661](https://github.com/CleverRaven/Cataclysm-DDA/pull/62661))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-09-0417 ([5fd0f93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-09-0417))
-
 * Prevent monsters from upgrading into blacklisted forms ([#62626](https://github.com/CleverRaven/Cataclysm-DDA/pull/62626))
 * Monsters will now drop their special items (such as saddle, bags, armor etc) on death ([#62615](https://github.com/CleverRaven/Cataclysm-DDA/pull/62615))
 * Reverse engineer trap docs ([#62627](https://github.com/CleverRaven/Cataclysm-DDA/pull/62627))
