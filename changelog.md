@@ -181,11 +181,6 @@
 * fix: run code style reviewer on file changes ([#62629](https://github.com/CleverRaven/Cataclysm-DDA/pull/62629))
 * Nuclear Monster group and a specific comment ([#62633](https://github.com/CleverRaven/Cataclysm-DDA/pull/62633))
 * Added android:exported="true" to Android manifest ([#62631](https://github.com/CleverRaven/Cataclysm-DDA/pull/62631))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-09-0309 ([b1a88cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-09-0309))
-
 * Fix crash caused by NW faction camp expansion ([#62624](https://github.com/CleverRaven/Cataclysm-DDA/pull/62624))
 * Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))

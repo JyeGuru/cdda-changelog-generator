@@ -109,8 +109,6 @@ Cataclysm-DDA experimental build 2022-12-09-0417 (5fd0f93)
 * fix: run code style reviewer on file changes (#62629)
 * Nuclear Monster group and a specific comment (#62633)
 * Added android:exported="true" to Android manifest (#62631)
-
-Cataclysm-DDA experimental build 2022-12-09-0309 (b1a88cc)
 * Fix crash caused by NW faction camp expansion (#62624)
 * Addressing new flake warnings (#62628)
 * Bump default SDK version for Android builds to 31 (#62625)
