@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-21-1548 ([ab60b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-21-1548))
+
+* chore: a quick COMPILING.md update ([#62785](https://github.com/CleverRaven/Cataclysm-DDA/pull/62785))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-20-1843 ([4179a45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-1843))
 
 * Added knife qualities to knife spear ([#62756](https://github.com/CleverRaven/Cataclysm-DDA/pull/62756))
@@ -186,7 +192,6 @@
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
 * Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
-* AIM: close UI if activity finished before turn's end ([#62560](https://github.com/CleverRaven/Cataclysm-DDA/pull/62560))
 * Define launcher lengths ([#62585](https://github.com/CleverRaven/Cataclysm-DDA/pull/62585))
 * Make scrap trader and cabin chemist not spawn as random npcs ([#62597](https://github.com/CleverRaven/Cataclysm-DDA/pull/62597))
 * Remove x86 specific macro definitions in MSVC build in CMake ([#62602](https://github.com/CleverRaven/Cataclysm-DDA/pull/62602))
