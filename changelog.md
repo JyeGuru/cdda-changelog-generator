@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-22-1914 ([af71b05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-1914))
+
+* shorter bio-operator attack effect durations ([#62829](https://github.com/CleverRaven/Cataclysm-DDA/pull/62829))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-22-0620 ([af92bd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-0620))
 
 * Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
@@ -206,4 +212,3 @@
 * remove stale stale checker ([#62584](https://github.com/CleverRaven/Cataclysm-DDA/pull/62584))
 * Routine tileset updates on 04 December 2022 ([#62571](https://github.com/CleverRaven/Cataclysm-DDA/pull/62571))
 * actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
-* increase rate limit and focus on old issues ([#62570](https://github.com/CleverRaven/Cataclysm-DDA/pull/62570))
