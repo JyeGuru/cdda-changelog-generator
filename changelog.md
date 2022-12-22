@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-22-0620 ([af92bd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-0620))
+
+* Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-22-0155 ([8bf4ccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-0155))
 
 * Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2022-12-11-0636 ([ef8d33d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-11-0636))
 
 * Change spelling error ([#62671](https://github.com/CleverRaven/Cataclysm-DDA/pull/62671))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-10-0923 ([f9cc1b1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-10-0923))
-
 * Update the table of contents in doc/JSON_INFO.md ([#62643](https://github.com/CleverRaven/Cataclysm-DDA/pull/62643))
 * make lumbermill employees not spawn as random npcs ([#62645](https://github.com/CleverRaven/Cataclysm-DDA/pull/62645))
 * Don't trigger any effect when setting and unsetting cosmetic traits ([#62649](https://github.com/CleverRaven/Cataclysm-DDA/pull/62649))
@@ -206,4 +207,3 @@
 * Routine tileset updates on 04 December 2022 ([#62571](https://github.com/CleverRaven/Cataclysm-DDA/pull/62571))
 * actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
 * increase rate limit and focus on old issues ([#62570](https://github.com/CleverRaven/Cataclysm-DDA/pull/62570))
-* run stale checker hourly ([#62563](https://github.com/CleverRaven/Cataclysm-DDA/pull/62563))

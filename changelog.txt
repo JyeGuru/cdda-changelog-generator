@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-12-22-0620 (af92bd2)
+* Stool recipe conservation of mass (#62821)
+
 Cataclysm-DDA experimental build 2022-12-22-0155 (8bf4ccc)
 * Aftershock Modinfo Update (#62803)
 
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2022-12-11-1509 (27d447b)
 
 Cataclysm-DDA experimental build 2022-12-11-0636 (ef8d33d)
 * Change spelling error (#62671)
-
-Cataclysm-DDA experimental build 2022-12-10-0923 (f9cc1b1)
 * Update the table of contents in doc/JSON_INFO.md (#62643)
 * make lumbermill employees not spawn as random npcs (#62645)
 * Don't trigger any effect when setting and unsetting cosmetic traits (#62649)
@@ -134,4 +135,3 @@ Cataclysm-DDA experimental build 2022-12-10-0923 (f9cc1b1)
 * Routine tileset updates on 04 December 2022 (#62571)
 * actually process older issues first (#62576)
 * increase rate limit and focus on old issues (#62570)
-* run stale checker hourly (#62563)
