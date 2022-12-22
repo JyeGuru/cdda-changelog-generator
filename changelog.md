@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-22-0155 ([8bf4ccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-0155))
+
+* Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-21-1548 ([ab60b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-21-1548))
 
 * chore: a quick COMPILING.md update ([#62785](https://github.com/CleverRaven/Cataclysm-DDA/pull/62785))
@@ -171,11 +177,6 @@
 * [DinoMod] horns mutation fix ([#62650](https://github.com/CleverRaven/Cataclysm-DDA/pull/62650))
 * Added canvas material to Magiclysm-specific sewing kit and tailor's kit ([#62651](https://github.com/CleverRaven/Cataclysm-DDA/pull/62651))
 * fix: edge case ci error exit ([#62660](https://github.com/CleverRaven/Cataclysm-DDA/pull/62660))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-10-0818 ([8d1d4a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-10-0818))
-
 * Routine i18n updates on 10 December 2022 ([#62661](https://github.com/CleverRaven/Cataclysm-DDA/pull/62661))
 * Prevent monsters from upgrading into blacklisted forms ([#62626](https://github.com/CleverRaven/Cataclysm-DDA/pull/62626))
 * Monsters will now drop their special items (such as saddle, bags, armor etc) on death ([#62615](https://github.com/CleverRaven/Cataclysm-DDA/pull/62615))
@@ -186,7 +187,6 @@
 * Fix crash caused by NW faction camp expansion ([#62624](https://github.com/CleverRaven/Cataclysm-DDA/pull/62624))
 * Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
-* spawn primed 22 casings in gunsmith stores ([#62562](https://github.com/CleverRaven/Cataclysm-DDA/pull/62562))
 * Fill farm silos with silage ([#62610](https://github.com/CleverRaven/Cataclysm-DDA/pull/62610))
 * Update spell checker dictionary ([#62599](https://github.com/CleverRaven/Cataclysm-DDA/pull/62599))
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
