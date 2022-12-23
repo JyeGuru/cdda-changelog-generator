@@ -216,4 +216,3 @@
 * Remove old C++ functions for the "Find Lab Tunnels" mission ([#62582](https://github.com/CleverRaven/Cataclysm-DDA/pull/62582))
 * stale action: ignore ancient issues ([#62586](https://github.com/CleverRaven/Cataclysm-DDA/pull/62586))
 * remove stale stale checker ([#62584](https://github.com/CleverRaven/Cataclysm-DDA/pull/62584))
-* actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
