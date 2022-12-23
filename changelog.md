@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-23-0604 ([d78b271](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-23-0604))
+
+* [innawood] more mil NPC fixes ([#62799](https://github.com/CleverRaven/Cataclysm-DDA/pull/62799))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-22-1914 ([af71b05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-1914))
 
 * shorter bio-operator attack effect durations ([#62829](https://github.com/CleverRaven/Cataclysm-DDA/pull/62829))
@@ -210,5 +216,4 @@
 * Remove old C++ functions for the "Find Lab Tunnels" mission ([#62582](https://github.com/CleverRaven/Cataclysm-DDA/pull/62582))
 * stale action: ignore ancient issues ([#62586](https://github.com/CleverRaven/Cataclysm-DDA/pull/62586))
 * remove stale stale checker ([#62584](https://github.com/CleverRaven/Cataclysm-DDA/pull/62584))
-* Routine tileset updates on 04 December 2022 ([#62571](https://github.com/CleverRaven/Cataclysm-DDA/pull/62571))
 * actually process older issues first ([#62576](https://github.com/CleverRaven/Cataclysm-DDA/pull/62576))
