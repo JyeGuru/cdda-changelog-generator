@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-24-1852 ([053ba98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-1852))
+
+* Made appliance freezer display as furniture freezer rather than a symbol ([#62807](https://github.com/CleverRaven/Cataclysm-DDA/pull/62807))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-24-1738 ([899bd83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-1738))
 
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2022-12-12-1144 ([b758c62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1144))
 
 * fix: magiclysm's thunder pillar spells ([#62676](https://github.com/CleverRaven/Cataclysm-DDA/pull/62676))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-12-1013 ([054c0f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1013))
-
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
 * stomach_size_multiplier for dragon size mutations ([#62613](https://github.com/CleverRaven/Cataclysm-DDA/pull/62613))
 * make the one metal door in hunting lodge pickable ([#62666](https://github.com/CleverRaven/Cataclysm-DDA/pull/62666))
@@ -220,4 +221,3 @@
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
 * Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
-* Remove x86 specific macro definitions in MSVC build in CMake ([#62602](https://github.com/CleverRaven/Cataclysm-DDA/pull/62602))
