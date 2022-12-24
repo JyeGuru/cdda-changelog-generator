@@ -1,3 +1,11 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-24-0435 ([d5389ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-0435))
+
+* Fix issue with loading artifacts ([#62832](https://github.com/CleverRaven/Cataclysm-DDA/pull/62832))
+* Fix choosing a background sfx using almost 20% of cpu time waiting. ([#62683](https://github.com/CleverRaven/Cataclysm-DDA/pull/62683))
+* Napkins and Cardboard are no longer comestible ([#62800](https://github.com/CleverRaven/Cataclysm-DDA/pull/62800))
 * Update flatpak manifest ([#62801](https://github.com/CleverRaven/Cataclysm-DDA/pull/62801))
 * Don't zap players inside vehicles ([#62840](https://github.com/CleverRaven/Cataclysm-DDA/pull/62840))
 * Disallow racking appliances ([#62813](https://github.com/CleverRaven/Cataclysm-DDA/pull/62813))
@@ -182,11 +190,6 @@
 * use parallel processes in ci specific astyle calls ([#62680](https://github.com/CleverRaven/Cataclysm-DDA/pull/62680))
 * Typo in Markdown for scents_tracked and scents_ignored ([#62679](https://github.com/CleverRaven/Cataclysm-DDA/pull/62679))
 * Removed adding bear trap on monster death to its inventory ([#62693](https://github.com/CleverRaven/Cataclysm-DDA/pull/62693))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-11-1509 ([27d447b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-11-1509))
-
 * Drill press is now able to drill ([#62695](https://github.com/CleverRaven/Cataclysm-DDA/pull/62695))
 * Migrate from set-output to GITHUB_OUTPUT in General Build Matrix GHA job ([#62686](https://github.com/CleverRaven/Cataclysm-DDA/pull/62686))
 * Change spelling error ([#62671](https://github.com/CleverRaven/Cataclysm-DDA/pull/62671))
@@ -211,8 +214,5 @@
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
 * Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
-* Make scrap trader and cabin chemist not spawn as random npcs ([#62597](https://github.com/CleverRaven/Cataclysm-DDA/pull/62597))
 * Remove x86 specific macro definitions in MSVC build in CMake ([#62602](https://github.com/CleverRaven/Cataclysm-DDA/pull/62602))
 * Add VERSION.txt to .gitignore ([#62600](https://github.com/CleverRaven/Cataclysm-DDA/pull/62600))
-* tindalos_teleport hint ([#62588](https://github.com/CleverRaven/Cataclysm-DDA/pull/62588))
-* bumping operations limit for stale bot to 250 ([#62592](https://github.com/CleverRaven/Cataclysm-DDA/pull/62592))
