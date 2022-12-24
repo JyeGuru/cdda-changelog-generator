@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-24-0611 ([622e847](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-0611))
+
+* Update microlabs cbm item groups ([#62836](https://github.com/CleverRaven/Cataclysm-DDA/pull/62836))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-24-0435 ([d5389ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-0435))
 
 * Fix issue with loading artifacts ([#62832](https://github.com/CleverRaven/Cataclysm-DDA/pull/62832))
@@ -178,11 +184,6 @@
 
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
 * stomach_size_multiplier for dragon size mutations ([#62613](https://github.com/CleverRaven/Cataclysm-DDA/pull/62613))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-11-1623 ([5fc73dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-11-1623))
-
 * make the one metal door in hunting lodge pickable ([#62666](https://github.com/CleverRaven/Cataclysm-DDA/pull/62666))
 * Fridges no longer spawn loose, container-less eggs ([#62669](https://github.com/CleverRaven/Cataclysm-DDA/pull/62669))
 * more typo fixes ([#62675](https://github.com/CleverRaven/Cataclysm-DDA/pull/62675))
@@ -210,7 +211,6 @@
 * Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
 * Fill farm silos with silage ([#62610](https://github.com/CleverRaven/Cataclysm-DDA/pull/62610))
-* Update spell checker dictionary ([#62599](https://github.com/CleverRaven/Cataclysm-DDA/pull/62599))
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
 * Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
