@@ -1,3 +1,6 @@
+* Update flatpak manifest ([#62801](https://github.com/CleverRaven/Cataclysm-DDA/pull/62801))
+* Don't zap players inside vehicles ([#62840](https://github.com/CleverRaven/Cataclysm-DDA/pull/62840))
+* Disallow racking appliances ([#62813](https://github.com/CleverRaven/Cataclysm-DDA/pull/62813))
 * tweak style reviewer's cancel duplicates method ([#62824](https://github.com/CleverRaven/Cataclysm-DDA/pull/62824))
 * Routine i18n updates on 24 December 2022 ([#62850](https://github.com/CleverRaven/Cataclysm-DDA/pull/62850))
 
@@ -208,11 +211,8 @@
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
 * Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
-* Define launcher lengths ([#62585](https://github.com/CleverRaven/Cataclysm-DDA/pull/62585))
 * Make scrap trader and cabin chemist not spawn as random npcs ([#62597](https://github.com/CleverRaven/Cataclysm-DDA/pull/62597))
 * Remove x86 specific macro definitions in MSVC build in CMake ([#62602](https://github.com/CleverRaven/Cataclysm-DDA/pull/62602))
 * Add VERSION.txt to .gitignore ([#62600](https://github.com/CleverRaven/Cataclysm-DDA/pull/62600))
 * tindalos_teleport hint ([#62588](https://github.com/CleverRaven/Cataclysm-DDA/pull/62588))
 * bumping operations limit for stale bot to 250 ([#62592](https://github.com/CleverRaven/Cataclysm-DDA/pull/62592))
-* stale action: ignore ancient issues ([#62586](https://github.com/CleverRaven/Cataclysm-DDA/pull/62586))
-* remove stale stale checker ([#62584](https://github.com/CleverRaven/Cataclysm-DDA/pull/62584))
