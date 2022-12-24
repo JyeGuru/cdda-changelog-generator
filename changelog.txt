@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-12-24-1738 (899bd83)
+* glock 22 should spawn with usable ammo (#62853)
+
 Cataclysm-DDA experimental build 2022-12-24-0611 (622e847)
 * Update microlabs cbm item groups (#62836)
 
@@ -137,4 +140,3 @@ Cataclysm-DDA experimental build 2022-12-12-1013 (054c0f9)
 * Added doors to toilets (#62614)
 * stale: reverse direction hourly (#62612)
 * Remove x86 specific macro definitions in MSVC build in CMake (#62602)
-* Add VERSION.txt to .gitignore (#62600)
