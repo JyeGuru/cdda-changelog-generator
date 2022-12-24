@@ -1,3 +1,12 @@
+* tweak style reviewer's cancel duplicates method ([#62824](https://github.com/CleverRaven/Cataclysm-DDA/pull/62824))
+* Routine i18n updates on 24 December 2022 ([#62850](https://github.com/CleverRaven/Cataclysm-DDA/pull/62850))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-24-0329 ([27ae97d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-0329))
+
+* Don't allow parts with carried_flag act as structure parts ([#62851](https://github.com/CleverRaven/Cataclysm-DDA/pull/62851))
+* fix: item overflow test ([#62842](https://github.com/CleverRaven/Cataclysm-DDA/pull/62842))
 
 ---
 
@@ -157,7 +166,6 @@
 #### Cataclysm-DDA experimental build 2022-12-12-1013 ([054c0f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1013))
 
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
-* Migrate the "Recover Priests Diary" mission to JSON ([#62581](https://github.com/CleverRaven/Cataclysm-DDA/pull/62581))
 * stomach_size_multiplier for dragon size mutations ([#62613](https://github.com/CleverRaven/Cataclysm-DDA/pull/62613))
 
 ---
@@ -178,11 +186,6 @@
 
 * Drill press is now able to drill ([#62695](https://github.com/CleverRaven/Cataclysm-DDA/pull/62695))
 * Migrate from set-output to GITHUB_OUTPUT in General Build Matrix GHA job ([#62686](https://github.com/CleverRaven/Cataclysm-DDA/pull/62686))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-11-0636 ([ef8d33d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-11-0636))
-
 * Change spelling error ([#62671](https://github.com/CleverRaven/Cataclysm-DDA/pull/62671))
 * Update the table of contents in doc/JSON_INFO.md ([#62643](https://github.com/CleverRaven/Cataclysm-DDA/pull/62643))
 * make lumbermill employees not spawn as random npcs ([#62645](https://github.com/CleverRaven/Cataclysm-DDA/pull/62645))
@@ -209,10 +212,7 @@
 * Make scrap trader and cabin chemist not spawn as random npcs ([#62597](https://github.com/CleverRaven/Cataclysm-DDA/pull/62597))
 * Remove x86 specific macro definitions in MSVC build in CMake ([#62602](https://github.com/CleverRaven/Cataclysm-DDA/pull/62602))
 * Add VERSION.txt to .gitignore ([#62600](https://github.com/CleverRaven/Cataclysm-DDA/pull/62600))
-* Nerf integrated fur armor to reasonable levels ([#62580](https://github.com/CleverRaven/Cataclysm-DDA/pull/62580))
 * tindalos_teleport hint ([#62588](https://github.com/CleverRaven/Cataclysm-DDA/pull/62588))
 * bumping operations limit for stale bot to 250 ([#62592](https://github.com/CleverRaven/Cataclysm-DDA/pull/62592))
-* Let Dumpster Contain Fire ([#62579](https://github.com/CleverRaven/Cataclysm-DDA/pull/62579))
-* Remove old C++ functions for the "Find Lab Tunnels" mission ([#62582](https://github.com/CleverRaven/Cataclysm-DDA/pull/62582))
 * stale action: ignore ancient issues ([#62586](https://github.com/CleverRaven/Cataclysm-DDA/pull/62586))
 * remove stale stale checker ([#62584](https://github.com/CleverRaven/Cataclysm-DDA/pull/62584))
