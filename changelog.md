@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-25-0619 ([99451f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-25-0619))
+
+* Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-24-1852 ([053ba98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-1852))
 
 * Made appliance freezer display as furniture freezer rather than a symbol ([#62807](https://github.com/CleverRaven/Cataclysm-DDA/pull/62807))
@@ -183,11 +189,6 @@
 * Fix random craft_available_via_vehicle_rig test failure ([#62712](https://github.com/CleverRaven/Cataclysm-DDA/pull/62712))
 * Patch the Limeware Platter exploit ([#62715](https://github.com/CleverRaven/Cataclysm-DDA/pull/62715))
 * Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-12-1144 ([b758c62](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-12-1144))
-
 * fix: magiclysm's thunder pillar spells ([#62676](https://github.com/CleverRaven/Cataclysm-DDA/pull/62676))
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
 * stomach_size_multiplier for dragon size mutations ([#62613](https://github.com/CleverRaven/Cataclysm-DDA/pull/62613))
@@ -217,7 +218,6 @@
 * Fix crash caused by NW faction camp expansion ([#62624](https://github.com/CleverRaven/Cataclysm-DDA/pull/62624))
 * Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
-* Fill farm silos with silage ([#62610](https://github.com/CleverRaven/Cataclysm-DDA/pull/62610))
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
 * Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
 * stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
