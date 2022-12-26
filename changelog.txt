@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-12-26-1621 (0808fe7)
+* aftershock/maps: fix elevator in municipal reactor (#62879)
+
 Cataclysm-DDA experimental build 2022-12-26-0842 (e11b6ed)
 * Lower recipe spear shaft recipe difficulty and change quality requirements. (#62778)
 
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2022-12-14-0156 (8106bff)
 
 Cataclysm-DDA experimental build 2022-12-14-0039 (97f9c9d)
 * Update json info.md - firestarter use_action (#62726)
-
-Cataclysm-DDA experimental build 2022-12-13-0748 (e40157c)
 * fixes #62655 Adjusted powdered eggs requirement from 10 to 2 in leverpostej food recipe, to be consistent with other egg types and recipes (#62702)
 * construction: split partial constructions from traps (#62672)
 * Adjust Robots scent tracking (#62698)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2022-12-13-0748 (e40157c)
 * Addressing new flake warnings (#62628)
 * Bump default SDK version for Android builds to 31 (#62625)
 * fix: nerf goblin encampment charcoal reserves (#62621)
-* Added doors to toilets (#62614)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-26-1621 ([0808fe7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-26-1621))
+
+* aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-26-0842 ([e11b6ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-26-0842))
 
 * Lower recipe spear shaft recipe difficulty and change quality requirements. ([#62778](https://github.com/CleverRaven/Cataclysm-DDA/pull/62778))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-12-14-0039 ([97f9c9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-14-0039))
 
 * Update json info.md - firestarter use_action ([#62726](https://github.com/CleverRaven/Cataclysm-DDA/pull/62726))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-13-0748 ([e40157c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-13-0748))
-
 * fixes #62655 Adjusted powdered eggs requirement from 10 to 2 in leverpostej food recipe, to be consistent with other egg types and recipes ([#62702](https://github.com/CleverRaven/Cataclysm-DDA/pull/62702))
 * construction: split partial constructions from traps ([#62672](https://github.com/CleverRaven/Cataclysm-DDA/pull/62672))
 * Adjust Robots scent tracking ([#62698](https://github.com/CleverRaven/Cataclysm-DDA/pull/62698))
@@ -224,4 +225,3 @@
 * Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
-* Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
