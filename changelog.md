@@ -197,7 +197,6 @@
 * Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
 * fix: magiclysm's thunder pillar spells ([#62676](https://github.com/CleverRaven/Cataclysm-DDA/pull/62676))
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
-* stomach_size_multiplier for dragon size mutations ([#62613](https://github.com/CleverRaven/Cataclysm-DDA/pull/62613))
 * make the one metal door in hunting lodge pickable ([#62666](https://github.com/CleverRaven/Cataclysm-DDA/pull/62666))
 * Fridges no longer spawn loose, container-less eggs ([#62669](https://github.com/CleverRaven/Cataclysm-DDA/pull/62669))
 * more typo fixes ([#62675](https://github.com/CleverRaven/Cataclysm-DDA/pull/62675))
