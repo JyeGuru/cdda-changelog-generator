@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-26-0842 ([e11b6ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-26-0842))
+
+* Lower recipe spear shaft recipe difficulty and change quality requirements. ([#62778](https://github.com/CleverRaven/Cataclysm-DDA/pull/62778))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-25-0619 ([99451f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-25-0619))
 
 * Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
@@ -220,4 +226,3 @@
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
 * fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
 * Added doors to toilets ([#62614](https://github.com/CleverRaven/Cataclysm-DDA/pull/62614))
-* stale: reverse direction hourly ([#62612](https://github.com/CleverRaven/Cataclysm-DDA/pull/62612))
