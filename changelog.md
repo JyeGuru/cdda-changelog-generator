@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-27-0658 ([e171fb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-27-0658))
+
+* Adjusted hiking bag sheaths ([#62886](https://github.com/CleverRaven/Cataclysm-DDA/pull/62886))
 * fix: don't mark string freeze issues as stale ([#62887](https://github.com/CleverRaven/Cataclysm-DDA/pull/62887))
 
 ---
@@ -182,11 +188,6 @@
 
 * Washing machine, dishwasher, and autoclave appliances now can hold items ([#62716](https://github.com/CleverRaven/Cataclysm-DDA/pull/62716))
 * activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-14-0039 ([97f9c9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-14-0039))
-
 * Update json info.md - firestarter use_action ([#62726](https://github.com/CleverRaven/Cataclysm-DDA/pull/62726))
 * fixes #62655 Adjusted powdered eggs requirement from 10 to 2 in leverpostej food recipe, to be consistent with other egg types and recipes ([#62702](https://github.com/CleverRaven/Cataclysm-DDA/pull/62702))
 * construction: split partial constructions from traps ([#62672](https://github.com/CleverRaven/Cataclysm-DDA/pull/62672))
@@ -224,4 +225,3 @@
 * Fix crash caused by NW faction camp expansion ([#62624](https://github.com/CleverRaven/Cataclysm-DDA/pull/62624))
 * Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
-* fix: nerf goblin encampment charcoal reserves ([#62621](https://github.com/CleverRaven/Cataclysm-DDA/pull/62621))
