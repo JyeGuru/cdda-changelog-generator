@@ -11,6 +11,11 @@
 
 * Adjusted hiking bag sheaths ([#62886](https://github.com/CleverRaven/Cataclysm-DDA/pull/62886))
 * fix: don't mark string freeze issues as stale ([#62887](https://github.com/CleverRaven/Cataclysm-DDA/pull/62887))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-26-1621 ([0808fe7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-26-1621))
+
 * aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
 
 ---
@@ -86,6 +91,11 @@
 #### Cataclysm-DDA experimental build 2022-12-22-0155 ([8bf4ccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-0155))
 
 * Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-21-1548 ([ab60b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-21-1548))
+
 * chore: a quick COMPILING.md update ([#62785](https://github.com/CleverRaven/Cataclysm-DDA/pull/62785))
 
 ---
@@ -179,17 +189,7 @@
 * Increase price of enchanted sledge hammers ([#62714](https://github.com/CleverRaven/Cataclysm-DDA/pull/62714))
 * Washing machine, dishwasher, and autoclave appliances now can hold items ([#62716](https://github.com/CleverRaven/Cataclysm-DDA/pull/62716))
 * activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-14-0039 ([97f9c9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-14-0039))
-
 * Update json info.md - firestarter use_action ([#62726](https://github.com/CleverRaven/Cataclysm-DDA/pull/62726))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-13-0748 ([e40157c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-13-0748))
-
 * fixes #62655 Adjusted powdered eggs requirement from 10 to 2 in leverpostej food recipe, to be consistent with other egg types and recipes ([#62702](https://github.com/CleverRaven/Cataclysm-DDA/pull/62702))
 * construction: split partial constructions from traps ([#62672](https://github.com/CleverRaven/Cataclysm-DDA/pull/62672))
 * Adjust Robots scent tracking ([#62698](https://github.com/CleverRaven/Cataclysm-DDA/pull/62698))
