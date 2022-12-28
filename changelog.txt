@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2022-12-28-0619 (7f881d8)
+* Routine tileset updates on 25 December 2022 (#62876)
+
 Cataclysm-DDA experimental build 2022-12-27-0658 (e171fb3)
 * Adjusted hiking bag sheaths (#62886)
 * fix: don't mark string freeze issues as stale (#62887)
@@ -100,8 +103,6 @@ Cataclysm-DDA experimental build 2022-12-15-0650 (4c6e8b0)
 
 Cataclysm-DDA experimental build 2022-12-14-1445 (a72dc5d)
 * Increase price of enchanted sledge hammers (#62714)
-
-Cataclysm-DDA experimental build 2022-12-14-0156 (8106bff)
 * Washing machine, dishwasher, and autoclave appliances now can hold items (#62716)
 * activity/move_loot: handle MAG_DESTROY after all contents (#62723)
 * Update json info.md - firestarter use_action (#62726)
@@ -138,6 +139,5 @@ Cataclysm-DDA experimental build 2022-12-14-0156 (8106bff)
 * fix: run code style reviewer on file changes (#62629)
 * Nuclear Monster group and a specific comment (#62633)
 * Added android:exported="true" to Android manifest (#62631)
-* Fix crash caused by NW faction camp expansion (#62624)
 * Addressing new flake warnings (#62628)
 * Bump default SDK version for Android builds to 31 (#62625)

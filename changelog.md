@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-28-0619 ([7f881d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-28-0619))
+
+* Routine tileset updates on 25 December 2022 ([#62876](https://github.com/CleverRaven/Cataclysm-DDA/pull/62876))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-27-0658 ([e171fb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-27-0658))
 
 * Adjusted hiking bag sheaths ([#62886](https://github.com/CleverRaven/Cataclysm-DDA/pull/62886))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-12-14-1445 ([a72dc5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-14-1445))
 
 * Increase price of enchanted sledge hammers ([#62714](https://github.com/CleverRaven/Cataclysm-DDA/pull/62714))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-14-0156 ([8106bff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-14-0156))
-
 * Washing machine, dishwasher, and autoclave appliances now can hold items ([#62716](https://github.com/CleverRaven/Cataclysm-DDA/pull/62716))
 * activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
 * Update json info.md - firestarter use_action ([#62726](https://github.com/CleverRaven/Cataclysm-DDA/pull/62726))
@@ -222,6 +223,5 @@
 * fix: run code style reviewer on file changes ([#62629](https://github.com/CleverRaven/Cataclysm-DDA/pull/62629))
 * Nuclear Monster group and a specific comment ([#62633](https://github.com/CleverRaven/Cataclysm-DDA/pull/62633))
 * Added android:exported="true" to Android manifest ([#62631](https://github.com/CleverRaven/Cataclysm-DDA/pull/62631))
-* Fix crash caused by NW faction camp expansion ([#62624](https://github.com/CleverRaven/Cataclysm-DDA/pull/62624))
 * Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
 * Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
