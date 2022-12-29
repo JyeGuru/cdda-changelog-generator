@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-29-0635 ([6df9e6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-29-0635))
+
+* chore: remove lgtm from README ([#62893](https://github.com/CleverRaven/Cataclysm-DDA/pull/62893))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-28-0619 ([7f881d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-28-0619))
 
 * Routine tileset updates on 25 December 2022 ([#62876](https://github.com/CleverRaven/Cataclysm-DDA/pull/62876))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-12-15-0650 ([4c6e8b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-15-0650))
 
 * Ember carrier pocket consistancy ([#62730](https://github.com/CleverRaven/Cataclysm-DDA/pull/62730))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-14-1445 ([a72dc5d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-14-1445))
-
 * Increase price of enchanted sledge hammers ([#62714](https://github.com/CleverRaven/Cataclysm-DDA/pull/62714))
 * Washing machine, dishwasher, and autoclave appliances now can hold items ([#62716](https://github.com/CleverRaven/Cataclysm-DDA/pull/62716))
 * activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
@@ -224,4 +225,3 @@
 * Nuclear Monster group and a specific comment ([#62633](https://github.com/CleverRaven/Cataclysm-DDA/pull/62633))
 * Added android:exported="true" to Android manifest ([#62631](https://github.com/CleverRaven/Cataclysm-DDA/pull/62631))
 * Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
-* Bump default SDK version for Android builds to 31 ([#62625](https://github.com/CleverRaven/Cataclysm-DDA/pull/62625))
