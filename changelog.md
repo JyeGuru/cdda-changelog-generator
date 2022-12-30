@@ -223,4 +223,3 @@
 * fix: run code style reviewer on file changes ([#62629](https://github.com/CleverRaven/Cataclysm-DDA/pull/62629))
 * Nuclear Monster group and a specific comment ([#62633](https://github.com/CleverRaven/Cataclysm-DDA/pull/62633))
 * Added android:exported="true" to Android manifest ([#62631](https://github.com/CleverRaven/Cataclysm-DDA/pull/62631))
-* Addressing new flake warnings ([#62628](https://github.com/CleverRaven/Cataclysm-DDA/pull/62628))
