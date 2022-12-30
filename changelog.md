@@ -219,7 +219,6 @@
 * Added canvas material to Magiclysm-specific sewing kit and tailor's kit ([#62651](https://github.com/CleverRaven/Cataclysm-DDA/pull/62651))
 * fix: edge case ci error exit ([#62660](https://github.com/CleverRaven/Cataclysm-DDA/pull/62660))
 * Routine i18n updates on 10 December 2022 ([#62661](https://github.com/CleverRaven/Cataclysm-DDA/pull/62661))
-* Prevent monsters from upgrading into blacklisted forms ([#62626](https://github.com/CleverRaven/Cataclysm-DDA/pull/62626))
 * Reverse engineer trap docs ([#62627](https://github.com/CleverRaven/Cataclysm-DDA/pull/62627))
 * fix: run code style reviewer on file changes ([#62629](https://github.com/CleverRaven/Cataclysm-DDA/pull/62629))
 * Nuclear Monster group and a specific comment ([#62633](https://github.com/CleverRaven/Cataclysm-DDA/pull/62633))
