@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2022-12-30-0627 (b02264e)
 * Turn engines on by default only for non-owned vehicles (#62867)
 
 Cataclysm-DDA experimental build 2022-12-29-0635 (6df9e6e)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2022-12-16-1130 (6fa16de)
 
 Cataclysm-DDA experimental build 2022-12-16-0709 (03ac450)
 * Fix #62748 (#62750)
-
-Cataclysm-DDA experimental build 2022-12-15-0650 (4c6e8b0)
 * Ember carrier pocket consistancy (#62730)
 * Increase price of enchanted sledge hammers (#62714)
 * Washing machine, dishwasher, and autoclave appliances now can hold items (#62716)

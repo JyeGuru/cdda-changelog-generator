@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-30-0627 ([b02264e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-30-0627))
+
 * Turn engines on by default only for non-owned vehicles ([#62867](https://github.com/CleverRaven/Cataclysm-DDA/pull/62867))
 
 ---
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-12-16-0709 ([03ac450](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-16-0709))
 
 * Fix #62748 ([#62750](https://github.com/CleverRaven/Cataclysm-DDA/pull/62750))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-15-0650 ([4c6e8b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-15-0650))
-
 * Ember carrier pocket consistancy ([#62730](https://github.com/CleverRaven/Cataclysm-DDA/pull/62730))
 * Increase price of enchanted sledge hammers ([#62714](https://github.com/CleverRaven/Cataclysm-DDA/pull/62714))
 * Washing machine, dishwasher, and autoclave appliances now can hold items ([#62716](https://github.com/CleverRaven/Cataclysm-DDA/pull/62716))
