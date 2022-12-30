@@ -1,3 +1,4 @@
+* Turn engines on by default only for non-owned vehicles (#62867)
 
 Cataclysm-DDA experimental build 2022-12-29-0635 (6df9e6e)
 * chore: remove lgtm from README (#62893)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2022-12-15-0650 (4c6e8b0)
 * Added canvas material to Magiclysm-specific sewing kit and tailor's kit (#62651)
 * fix: edge case ci error exit (#62660)
 * Routine i18n updates on 10 December 2022 (#62661)
-* Reverse engineer trap docs (#62627)
 * fix: run code style reviewer on file changes (#62629)
 * Nuclear Monster group and a specific comment (#62633)
 * Added android:exported="true" to Android manifest (#62631)
