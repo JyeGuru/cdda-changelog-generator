@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2022-12-31-0654 ([0eea824](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-31-0654))
+
+* map:  update active items cache when removing contents ([#62916](https://github.com/CleverRaven/Cataclysm-DDA/pull/62916))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-30-0627 ([b02264e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-30-0627))
 
 * Turn engines on by default only for non-owned vehicles ([#62867](https://github.com/CleverRaven/Cataclysm-DDA/pull/62867))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2022-12-16-1130 ([6fa16de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-16-1130))
 
 * [Xedra Evolved] artifact hotfix ([#62735](https://github.com/CleverRaven/Cataclysm-DDA/pull/62735))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-16-0709 ([03ac450](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-16-0709))
-
 * Fix #62748 ([#62750](https://github.com/CleverRaven/Cataclysm-DDA/pull/62750))
 * Ember carrier pocket consistancy ([#62730](https://github.com/CleverRaven/Cataclysm-DDA/pull/62730))
 * Increase price of enchanted sledge hammers ([#62714](https://github.com/CleverRaven/Cataclysm-DDA/pull/62714))
@@ -220,6 +221,5 @@
 * Added canvas material to Magiclysm-specific sewing kit and tailor's kit ([#62651](https://github.com/CleverRaven/Cataclysm-DDA/pull/62651))
 * fix: edge case ci error exit ([#62660](https://github.com/CleverRaven/Cataclysm-DDA/pull/62660))
 * Routine i18n updates on 10 December 2022 ([#62661](https://github.com/CleverRaven/Cataclysm-DDA/pull/62661))
-* fix: run code style reviewer on file changes ([#62629](https://github.com/CleverRaven/Cataclysm-DDA/pull/62629))
 * Nuclear Monster group and a specific comment ([#62633](https://github.com/CleverRaven/Cataclysm-DDA/pull/62633))
 * Added android:exported="true" to Android manifest ([#62631](https://github.com/CleverRaven/Cataclysm-DDA/pull/62631))
