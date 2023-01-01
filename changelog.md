@@ -1,3 +1,4 @@
+* Misc mapgen fixes ([#62874](https://github.com/CleverRaven/Cataclysm-DDA/pull/62874))
 * Update stale exclusion labels ([#62888](https://github.com/CleverRaven/Cataclysm-DDA/pull/62888))
 * [Magiclysm] balance tweaks ([#62900](https://github.com/CleverRaven/Cataclysm-DDA/pull/62900))
 * drop leg pouches fix ([#62913](https://github.com/CleverRaven/Cataclysm-DDA/pull/62913))
@@ -229,5 +230,4 @@
 * Drill press is now able to drill ([#62695](https://github.com/CleverRaven/Cataclysm-DDA/pull/62695))
 * Migrate from set-output to GITHUB_OUTPUT in General Build Matrix GHA job ([#62686](https://github.com/CleverRaven/Cataclysm-DDA/pull/62686))
 * Change spelling error ([#62671](https://github.com/CleverRaven/Cataclysm-DDA/pull/62671))
-* fix: edge case ci error exit ([#62660](https://github.com/CleverRaven/Cataclysm-DDA/pull/62660))
 * Routine i18n updates on 10 December 2022 ([#62661](https://github.com/CleverRaven/Cataclysm-DDA/pull/62661))
