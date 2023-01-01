@@ -1,3 +1,11 @@
+* [Mapgen] Some Exodii base fixes ([#62931](https://github.com/CleverRaven/Cataclysm-DDA/pull/62931))
+* Routine i18n updates on 31 December 2022 ([#62942](https://github.com/CleverRaven/Cataclysm-DDA/pull/62942))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-01-0813 ([ba42c0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-01-0813))
+
+* Why no PALS comment on the MDS ([#62934](https://github.com/CleverRaven/Cataclysm-DDA/pull/62934))
 
 ---
 
@@ -187,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2022-12-17-0013 ([35de9eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-17-0013))
 
 * [Magiclysm] Remove the VARSIZE flag from summoned item ([#62751](https://github.com/CleverRaven/Cataclysm-DDA/pull/62751))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-16-1130 ([6fa16de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-16-1130))
-
 * [Xedra Evolved] artifact hotfix ([#62735](https://github.com/CleverRaven/Cataclysm-DDA/pull/62735))
 * Fix #62748 ([#62750](https://github.com/CleverRaven/Cataclysm-DDA/pull/62750))
 * Ember carrier pocket consistancy ([#62730](https://github.com/CleverRaven/Cataclysm-DDA/pull/62730))
@@ -220,11 +223,8 @@
 * Drill press is now able to drill ([#62695](https://github.com/CleverRaven/Cataclysm-DDA/pull/62695))
 * Migrate from set-output to GITHUB_OUTPUT in General Build Matrix GHA job ([#62686](https://github.com/CleverRaven/Cataclysm-DDA/pull/62686))
 * Change spelling error ([#62671](https://github.com/CleverRaven/Cataclysm-DDA/pull/62671))
-* Update the table of contents in doc/JSON_INFO.md ([#62643](https://github.com/CleverRaven/Cataclysm-DDA/pull/62643))
-* make lumbermill employees not spawn as random npcs ([#62645](https://github.com/CleverRaven/Cataclysm-DDA/pull/62645))
 * Don't trigger any effect when setting and unsetting cosmetic traits ([#62649](https://github.com/CleverRaven/Cataclysm-DDA/pull/62649))
 * [DinoMod] horns mutation fix ([#62650](https://github.com/CleverRaven/Cataclysm-DDA/pull/62650))
 * Added canvas material to Magiclysm-specific sewing kit and tailor's kit ([#62651](https://github.com/CleverRaven/Cataclysm-DDA/pull/62651))
 * fix: edge case ci error exit ([#62660](https://github.com/CleverRaven/Cataclysm-DDA/pull/62660))
 * Routine i18n updates on 10 December 2022 ([#62661](https://github.com/CleverRaven/Cataclysm-DDA/pull/62661))
-* Nuclear Monster group and a specific comment ([#62633](https://github.com/CleverRaven/Cataclysm-DDA/pull/62633))
