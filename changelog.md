@@ -1,3 +1,4 @@
+* Pluralization test uses test items instead of regular ones ([#62917](https://github.com/CleverRaven/Cataclysm-DDA/pull/62917))
 * [Mapgen] Some Exodii base fixes ([#62931](https://github.com/CleverRaven/Cataclysm-DDA/pull/62931))
 * Routine i18n updates on 31 December 2022 ([#62942](https://github.com/CleverRaven/Cataclysm-DDA/pull/62942))
 
