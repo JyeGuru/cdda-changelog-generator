@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-01-0940 ([bdef0e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-01-0940))
+
 * Remove spawn of zombie with a flamethrower. ([#62833](https://github.com/CleverRaven/Cataclysm-DDA/pull/62833))
 * Add messages for more cases of pocket overflow ([#62856](https://github.com/CleverRaven/Cataclysm-DDA/pull/62856))
 * Evac Shelter pencils now spawn with charges. ([#62859](https://github.com/CleverRaven/Cataclysm-DDA/pull/62859))
@@ -201,11 +206,6 @@
 * AIM: prevent infinite loop on move_all deserialization ([#62744](https://github.com/CleverRaven/Cataclysm-DDA/pull/62744))
 * No more Mi-Go in nether portals ([#62742](https://github.com/CleverRaven/Cataclysm-DDA/pull/62742))
 * Remove the welding kit recipe ([#62743](https://github.com/CleverRaven/Cataclysm-DDA/pull/62743))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-17-0013 ([35de9eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-17-0013))
-
 * [Magiclysm] Remove the VARSIZE flag from summoned item ([#62751](https://github.com/CleverRaven/Cataclysm-DDA/pull/62751))
 * [Xedra Evolved] artifact hotfix ([#62735](https://github.com/CleverRaven/Cataclysm-DDA/pull/62735))
 * Fix #62748 ([#62750](https://github.com/CleverRaven/Cataclysm-DDA/pull/62750))
