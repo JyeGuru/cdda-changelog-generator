@@ -1,3 +1,4 @@
+* Remove spawn of zombie with a flamethrower. ([#62833](https://github.com/CleverRaven/Cataclysm-DDA/pull/62833))
 * Add messages for more cases of pocket overflow ([#62856](https://github.com/CleverRaven/Cataclysm-DDA/pull/62856))
 * Evac Shelter pencils now spawn with charges. ([#62859](https://github.com/CleverRaven/Cataclysm-DDA/pull/62859))
 * fix: Remove extra anvil from workshop recipe ([#62921](https://github.com/CleverRaven/Cataclysm-DDA/pull/62921))
@@ -214,7 +215,6 @@
 * activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
 * Update json info.md - firestarter use_action ([#62726](https://github.com/CleverRaven/Cataclysm-DDA/pull/62726))
 * fixes #62655 Adjusted powdered eggs requirement from 10 to 2 in leverpostej food recipe, to be consistent with other egg types and recipes ([#62702](https://github.com/CleverRaven/Cataclysm-DDA/pull/62702))
-* construction: split partial constructions from traps ([#62672](https://github.com/CleverRaven/Cataclysm-DDA/pull/62672))
 * Adjust Robots scent tracking ([#62698](https://github.com/CleverRaven/Cataclysm-DDA/pull/62698))
 * Remove ability of feral humans to track humans by scent ([#62697](https://github.com/CleverRaven/Cataclysm-DDA/pull/62697))
 * Enchantment fixes ([#62700](https://github.com/CleverRaven/Cataclysm-DDA/pull/62700))
