@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-01-0139 ([777263b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-01-0139))
+
+* Factor character stance into Creature::ranged_target_size ([#62940](https://github.com/CleverRaven/Cataclysm-DDA/pull/62940))
+
+---
+
 #### Cataclysm-DDA experimental build 2022-12-31-0654 ([0eea824](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-31-0654))
 
 * map:  update active items cache when removing contents ([#62916](https://github.com/CleverRaven/Cataclysm-DDA/pull/62916))
@@ -222,4 +228,3 @@
 * fix: edge case ci error exit ([#62660](https://github.com/CleverRaven/Cataclysm-DDA/pull/62660))
 * Routine i18n updates on 10 December 2022 ([#62661](https://github.com/CleverRaven/Cataclysm-DDA/pull/62661))
 * Nuclear Monster group and a specific comment ([#62633](https://github.com/CleverRaven/Cataclysm-DDA/pull/62633))
-* Added android:exported="true" to Android manifest ([#62631](https://github.com/CleverRaven/Cataclysm-DDA/pull/62631))
