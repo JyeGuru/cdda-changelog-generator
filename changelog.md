@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-02-0647 ([9530b87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-02-0647))
+
+* Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-01-0940 ([bdef0e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-01-0940))
 
 * Remove spawn of zombie with a flamethrower. ([#62833](https://github.com/CleverRaven/Cataclysm-DDA/pull/62833))
@@ -198,11 +204,6 @@
 * PERSONAL for light fur ([#62731](https://github.com/CleverRaven/Cataclysm-DDA/pull/62731))
 * Link to tileset repo in issue template chooser ([#62724](https://github.com/CleverRaven/Cataclysm-DDA/pull/62724))
 * fix: code suggestions for c++ code ([#62736](https://github.com/CleverRaven/Cataclysm-DDA/pull/62736))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-17-0114 ([a85fe65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-17-0114))
-
 * AIM: prevent infinite loop on move_all deserialization ([#62744](https://github.com/CleverRaven/Cataclysm-DDA/pull/62744))
 * No more Mi-Go in nether portals ([#62742](https://github.com/CleverRaven/Cataclysm-DDA/pull/62742))
 * Remove the welding kit recipe ([#62743](https://github.com/CleverRaven/Cataclysm-DDA/pull/62743))
@@ -224,7 +225,6 @@
 * Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
 * fix: magiclysm's thunder pillar spells ([#62676](https://github.com/CleverRaven/Cataclysm-DDA/pull/62676))
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
-* more typo fixes ([#62675](https://github.com/CleverRaven/Cataclysm-DDA/pull/62675))
 * Allow Tacoma ranch doctor to trade without running out of space ([#62677](https://github.com/CleverRaven/Cataclysm-DDA/pull/62677))
 * use parallel processes in ci specific astyle calls ([#62680](https://github.com/CleverRaven/Cataclysm-DDA/pull/62680))
 * Typo in Markdown for scents_tracked and scents_ignored ([#62679](https://github.com/CleverRaven/Cataclysm-DDA/pull/62679))
