@@ -48,6 +48,8 @@ Cataclysm-DDA experimental build 2022-12-26-0842 (e11b6ed)
 
 Cataclysm-DDA experimental build 2022-12-25-0619 (99451f2)
 * Readjusts gun and ammo spawns in hunting stores. (#62857)
+
+Cataclysm-DDA experimental build 2022-12-24-1852 (053ba98)
 * Made appliance freezer display as furniture freezer rather than a symbol (#62807)
 
 Cataclysm-DDA experimental build 2022-12-24-1738 (899bd83)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2022-12-17-0740 (df83f9a)
 * PERSONAL for light fur (#62731)
 * Link to tileset repo in issue template chooser (#62724)
 * fix: code suggestions for c++ code (#62736)
-
-Cataclysm-DDA experimental build 2022-12-17-0114 (a85fe65)
 * AIM: prevent infinite loop on move_all deserialization (#62744)
 * No more Mi-Go in nether portals (#62742)
 * Remove the welding kit recipe (#62743)

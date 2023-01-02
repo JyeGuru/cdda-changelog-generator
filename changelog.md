@@ -84,6 +84,11 @@
 #### Cataclysm-DDA experimental build 2022-12-25-0619 ([99451f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-25-0619))
 
 * Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-24-1852 ([053ba98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-1852))
+
 * Made appliance freezer display as furniture freezer rather than a symbol ([#62807](https://github.com/CleverRaven/Cataclysm-DDA/pull/62807))
 
 ---
@@ -199,11 +204,6 @@
 * PERSONAL for light fur ([#62731](https://github.com/CleverRaven/Cataclysm-DDA/pull/62731))
 * Link to tileset repo in issue template chooser ([#62724](https://github.com/CleverRaven/Cataclysm-DDA/pull/62724))
 * fix: code suggestions for c++ code ([#62736](https://github.com/CleverRaven/Cataclysm-DDA/pull/62736))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-17-0114 ([a85fe65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-17-0114))
-
 * AIM: prevent infinite loop on move_all deserialization ([#62744](https://github.com/CleverRaven/Cataclysm-DDA/pull/62744))
 * No more Mi-Go in nether portals ([#62742](https://github.com/CleverRaven/Cataclysm-DDA/pull/62742))
 * Remove the welding kit recipe ([#62743](https://github.com/CleverRaven/Cataclysm-DDA/pull/62743))
