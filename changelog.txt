@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-01-03-1959 (f79f057)
 * Tweak/add fishing tool craft/uncraft recipes (#62944)
 
 Cataclysm-DDA experimental build 2023-01-03-0430 (5772feb)
@@ -114,8 +116,6 @@ Cataclysm-DDA experimental build 2022-12-20-0455 (085319a)
 
 Cataclysm-DDA experimental build 2022-12-20-0330 (8d38b73)
 * npctalk: fix propagation of topic parameters (#62783)
-
-Cataclysm-DDA experimental build 2022-12-19-0608 (b7312f8)
 * Routine tileset updates on 18 December 2022 (#62774)
 * Adding disassembling for sling vests (#62711)
 * PERSONAL for light fur (#62731)

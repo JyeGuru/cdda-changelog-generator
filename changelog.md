@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-03-1959 ([f79f057](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-03-1959))
+
 * Tweak/add fishing tool craft/uncraft recipes ([#62944](https://github.com/CleverRaven/Cataclysm-DDA/pull/62944))
 
 ---
@@ -198,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-12-20-0330 ([8d38b73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-0330))
 
 * npctalk: fix propagation of topic parameters ([#62783](https://github.com/CleverRaven/Cataclysm-DDA/pull/62783))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-19-0608 ([b7312f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-19-0608))
-
 * Routine tileset updates on 18 December 2022 ([#62774](https://github.com/CleverRaven/Cataclysm-DDA/pull/62774))
 * Adding disassembling for sling vests ([#62711](https://github.com/CleverRaven/Cataclysm-DDA/pull/62711))
 * PERSONAL for light fur ([#62731](https://github.com/CleverRaven/Cataclysm-DDA/pull/62731))
