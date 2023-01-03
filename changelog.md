@@ -1,3 +1,11 @@
+* Fix crash in item_location serialization ([#62960](https://github.com/CleverRaven/Cataclysm-DDA/pull/62960))
+* [Xedra Evolved] Fix the mod has lack of own mana bar ([#62949](https://github.com/CleverRaven/Cataclysm-DDA/pull/62949))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-03-0259 ([2aa1b79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-03-0259))
+
+* Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
 
 ---
 
@@ -196,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2022-12-18-0616 ([59756b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-18-0616))
 
 * Adding disassembling for sling vests ([#62711](https://github.com/CleverRaven/Cataclysm-DDA/pull/62711))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-17-0740 ([df83f9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-17-0740))
-
 * PERSONAL for light fur ([#62731](https://github.com/CleverRaven/Cataclysm-DDA/pull/62731))
 * Link to tileset repo in issue template chooser ([#62724](https://github.com/CleverRaven/Cataclysm-DDA/pull/62724))
 * fix: code suggestions for c++ code ([#62736](https://github.com/CleverRaven/Cataclysm-DDA/pull/62736))
@@ -223,11 +226,8 @@
 * Fix random craft_available_via_vehicle_rig test failure ([#62712](https://github.com/CleverRaven/Cataclysm-DDA/pull/62712))
 * Patch the Limeware Platter exploit ([#62715](https://github.com/CleverRaven/Cataclysm-DDA/pull/62715))
 * Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
-* fix: magiclysm's thunder pillar spells ([#62676](https://github.com/CleverRaven/Cataclysm-DDA/pull/62676))
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
-* Allow Tacoma ranch doctor to trade without running out of space ([#62677](https://github.com/CleverRaven/Cataclysm-DDA/pull/62677))
 * use parallel processes in ci specific astyle calls ([#62680](https://github.com/CleverRaven/Cataclysm-DDA/pull/62680))
-* Typo in Markdown for scents_tracked and scents_ignored ([#62679](https://github.com/CleverRaven/Cataclysm-DDA/pull/62679))
 * Removed adding bear trap on monster death to its inventory ([#62693](https://github.com/CleverRaven/Cataclysm-DDA/pull/62693))
 * Drill press is now able to drill ([#62695](https://github.com/CleverRaven/Cataclysm-DDA/pull/62695))
 * Migrate from set-output to GITHUB_OUTPUT in General Build Matrix GHA job ([#62686](https://github.com/CleverRaven/Cataclysm-DDA/pull/62686))
