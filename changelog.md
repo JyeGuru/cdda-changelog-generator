@@ -1,3 +1,4 @@
+* Fix Devour scroll to teach Devour ([#62938](https://github.com/CleverRaven/Cataclysm-DDA/pull/62938))
 * Fix crash in item_location serialization ([#62960](https://github.com/CleverRaven/Cataclysm-DDA/pull/62960))
 * [Xedra Evolved] Fix the mod has lack of own mana bar ([#62949](https://github.com/CleverRaven/Cataclysm-DDA/pull/62949))
 
@@ -227,7 +228,6 @@
 * Patch the Limeware Platter exploit ([#62715](https://github.com/CleverRaven/Cataclysm-DDA/pull/62715))
 * Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
-* use parallel processes in ci specific astyle calls ([#62680](https://github.com/CleverRaven/Cataclysm-DDA/pull/62680))
 * Removed adding bear trap on monster death to its inventory ([#62693](https://github.com/CleverRaven/Cataclysm-DDA/pull/62693))
 * Drill press is now able to drill ([#62695](https://github.com/CleverRaven/Cataclysm-DDA/pull/62695))
 * Migrate from set-output to GITHUB_OUTPUT in General Build Matrix GHA job ([#62686](https://github.com/CleverRaven/Cataclysm-DDA/pull/62686))
