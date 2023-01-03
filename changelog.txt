@@ -1,3 +1,4 @@
+* Tweak/add fishing tool craft/uncraft recipes (#62944)
 
 Cataclysm-DDA experimental build 2023-01-03-0430 (5772feb)
 * Fix Devour scroll to teach Devour (#62938)
@@ -107,7 +108,6 @@ Cataclysm-DDA experimental build 2022-12-20-0455 (085319a)
 * rigid plastic sheet fix length (#62790)
 * Fix crash on loading autosave made during insert action (#62763)
 * Routine i18n updates on 17 December 2022 (#62759)
-* Aftershock: Blue collar clothing (Space edition) (#62682)
 * Aquariums no longer have clean water (#62768)
 * zones: hide LOOT_ITEM_GROUP (#62770)
 * Update MUTATIONS.md (#62772)

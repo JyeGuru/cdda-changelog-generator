@@ -1,3 +1,4 @@
+* Tweak/add fishing tool craft/uncraft recipes ([#62944](https://github.com/CleverRaven/Cataclysm-DDA/pull/62944))
 
 ---
 
@@ -188,7 +189,6 @@
 * rigid plastic sheet fix length ([#62790](https://github.com/CleverRaven/Cataclysm-DDA/pull/62790))
 * Fix crash on loading autosave made during insert action ([#62763](https://github.com/CleverRaven/Cataclysm-DDA/pull/62763))
 * Routine i18n updates on 17 December 2022 ([#62759](https://github.com/CleverRaven/Cataclysm-DDA/pull/62759))
-* Aftershock: Blue collar clothing (Space edition) ([#62682](https://github.com/CleverRaven/Cataclysm-DDA/pull/62682))
 * Aquariums no longer have clean water ([#62768](https://github.com/CleverRaven/Cataclysm-DDA/pull/62768))
 * zones: hide LOOT_ITEM_GROUP ([#62770](https://github.com/CleverRaven/Cataclysm-DDA/pull/62770))
 * Update MUTATIONS.md ([#62772](https://github.com/CleverRaven/Cataclysm-DDA/pull/62772))
