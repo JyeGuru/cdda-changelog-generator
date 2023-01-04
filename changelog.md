@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-04-0604 ([a00a2ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-04-0604))
+
+* Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` ([#62988](https://github.com/CleverRaven/Cataclysm-DDA/pull/62988))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-04-0021 ([dd987e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-04-0021))
 
 * [Magiclysm] Endless Teapot ([#62980](https://github.com/CleverRaven/Cataclysm-DDA/pull/62980))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2022-12-20-1107 ([3d34c60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-1107))
 
 * Cleanup mil_surplus ([#62773](https://github.com/CleverRaven/Cataclysm-DDA/pull/62773))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-20-0455 ([085319a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-0455))
-
 * rigid plastic sheet fix length ([#62790](https://github.com/CleverRaven/Cataclysm-DDA/pull/62790))
 * Fix crash on loading autosave made during insert action ([#62763](https://github.com/CleverRaven/Cataclysm-DDA/pull/62763))
 * Routine i18n updates on 17 December 2022 ([#62759](https://github.com/CleverRaven/Cataclysm-DDA/pull/62759))
@@ -230,4 +231,3 @@
 * Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
 * Removed adding bear trap on monster death to its inventory ([#62693](https://github.com/CleverRaven/Cataclysm-DDA/pull/62693))
 * Drill press is now able to drill ([#62695](https://github.com/CleverRaven/Cataclysm-DDA/pull/62695))
-* Migrate from set-output to GITHUB_OUTPUT in General Build Matrix GHA job ([#62686](https://github.com/CleverRaven/Cataclysm-DDA/pull/62686))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-01-04-0604 (a00a2ec)
+* Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` (#62988)
+
 Cataclysm-DDA experimental build 2023-01-04-0021 (dd987e7)
 * [Magiclysm] Endless Teapot (#62980)
 
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2022-12-20-1843 (4179a45)
 
 Cataclysm-DDA experimental build 2022-12-20-1107 (3d34c60)
 * Cleanup mil_surplus (#62773)
-
-Cataclysm-DDA experimental build 2022-12-20-0455 (085319a)
 * rigid plastic sheet fix length (#62790)
 * Fix crash on loading autosave made during insert action (#62763)
 * Routine i18n updates on 17 December 2022 (#62759)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2022-12-20-0455 (085319a)
 * Routine tileset updates on 11 December 2022 (#62704)
 * Removed adding bear trap on monster death to its inventory (#62693)
 * Drill press is now able to drill (#62695)
-* Migrate from set-output to GITHUB_OUTPUT in General Build Matrix GHA job (#62686)
