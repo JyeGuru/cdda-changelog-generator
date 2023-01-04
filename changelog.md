@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-04-0021 ([dd987e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-04-0021))
+
+* [Magiclysm] Endless Teapot ([#62980](https://github.com/CleverRaven/Cataclysm-DDA/pull/62980))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-03-1959 ([f79f057](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-03-1959))
 
 * Tweak/add fishing tool craft/uncraft recipes ([#62944](https://github.com/CleverRaven/Cataclysm-DDA/pull/62944))
@@ -128,7 +134,6 @@
 #### Cataclysm-DDA experimental build 2022-12-24-0435 ([d5389ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-0435))
 
 * Fix issue with loading artifacts ([#62832](https://github.com/CleverRaven/Cataclysm-DDA/pull/62832))
-* Fix choosing a background sfx using almost 20% of cpu time waiting. ([#62683](https://github.com/CleverRaven/Cataclysm-DDA/pull/62683))
 * Napkins and Cardboard are no longer comestible ([#62800](https://github.com/CleverRaven/Cataclysm-DDA/pull/62800))
 * Update flatpak manifest ([#62801](https://github.com/CleverRaven/Cataclysm-DDA/pull/62801))
 * Don't zap players inside vehicles ([#62840](https://github.com/CleverRaven/Cataclysm-DDA/pull/62840))
@@ -197,11 +202,6 @@
 * Aquariums no longer have clean water ([#62768](https://github.com/CleverRaven/Cataclysm-DDA/pull/62768))
 * zones: hide LOOT_ITEM_GROUP ([#62770](https://github.com/CleverRaven/Cataclysm-DDA/pull/62770))
 * Update MUTATIONS.md ([#62772](https://github.com/CleverRaven/Cataclysm-DDA/pull/62772))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-20-0330 ([8d38b73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-0330))
-
 * npctalk: fix propagation of topic parameters ([#62783](https://github.com/CleverRaven/Cataclysm-DDA/pull/62783))
 * Routine tileset updates on 18 December 2022 ([#62774](https://github.com/CleverRaven/Cataclysm-DDA/pull/62774))
 * Adding disassembling for sling vests ([#62711](https://github.com/CleverRaven/Cataclysm-DDA/pull/62711))
