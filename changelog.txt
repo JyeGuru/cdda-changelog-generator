@@ -1,3 +1,4 @@
+* tests/map: fix setup for inactive_container_with_active_contents (#62979)
 
 Cataclysm-DDA experimental build 2023-01-04-0604 (a00a2ec)
 * Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` (#62988)

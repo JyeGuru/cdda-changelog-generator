@@ -1,3 +1,4 @@
+* tests/map: fix setup for inactive_container_with_active_contents ([#62979](https://github.com/CleverRaven/Cataclysm-DDA/pull/62979))
 
 ---
 
