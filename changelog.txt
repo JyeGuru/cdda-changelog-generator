@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-01-06-0458 (f05dcdb)
 * [Innawood] Remove adze from tools_common_small item group (#63001)
 * Disable NPCs triggering spell learned achievements (#62984)
 * Fix typos in error message (#62982)
