@@ -14,7 +14,17 @@
 
 * Prevent crash on no scenario ([#63010](https://github.com/CleverRaven/Cataclysm-DDA/pull/63010))
 * tests/map: fix setup for inactive_container_with_active_contents ([#62979](https://github.com/CleverRaven/Cataclysm-DDA/pull/62979))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-04-0604 ([a00a2ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-04-0604))
+
 * Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` ([#62988](https://github.com/CleverRaven/Cataclysm-DDA/pull/62988))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-04-0021 ([dd987e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-04-0021))
+
 * [Magiclysm] Endless Teapot ([#62980](https://github.com/CleverRaven/Cataclysm-DDA/pull/62980))
 
 ---
@@ -134,6 +144,11 @@
 #### Cataclysm-DDA experimental build 2022-12-24-1738 ([899bd83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-1738))
 
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
+
+---
+
+#### Cataclysm-DDA experimental build 2022-12-24-0611 ([622e847](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-0611))
+
 * Update microlabs cbm item groups ([#62836](https://github.com/CleverRaven/Cataclysm-DDA/pull/62836))
 
 ---
@@ -192,17 +207,7 @@
 * Added knife qualities to knife spear ([#62756](https://github.com/CleverRaven/Cataclysm-DDA/pull/62756))
 * Adds flagpoles to a couple of locations ([#62787](https://github.com/CleverRaven/Cataclysm-DDA/pull/62787))
 * Make high move-cost bamboos look like shrubs ([#62796](https://github.com/CleverRaven/Cataclysm-DDA/pull/62796))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-20-1107 ([3d34c60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-1107))
-
 * Cleanup mil_surplus ([#62773](https://github.com/CleverRaven/Cataclysm-DDA/pull/62773))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-20-0455 ([085319a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-0455))
-
 * rigid plastic sheet fix length ([#62790](https://github.com/CleverRaven/Cataclysm-DDA/pull/62790))
 * Fix crash on loading autosave made during insert action ([#62763](https://github.com/CleverRaven/Cataclysm-DDA/pull/62763))
 * Routine i18n updates on 17 December 2022 ([#62759](https://github.com/CleverRaven/Cataclysm-DDA/pull/62759))
