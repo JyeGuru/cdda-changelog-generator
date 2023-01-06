@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-06-0933 ([28d1538](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-06-0933))
+
+* added lengths for EXODII Mags and the MDS ([#62972](https://github.com/CleverRaven/Cataclysm-DDA/pull/62972))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-06-0458 ([f05dcdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-06-0458))
 
 * [Innawood] Remove adze from tools_common_small item group ([#63001](https://github.com/CleverRaven/Cataclysm-DDA/pull/63001))
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2022-12-21-1548 ([ab60b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-21-1548))
 
 * chore: a quick COMPILING.md update ([#62785](https://github.com/CleverRaven/Cataclysm-DDA/pull/62785))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-20-1843 ([4179a45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-20-1843))
-
 * Added knife qualities to knife spear ([#62756](https://github.com/CleverRaven/Cataclysm-DDA/pull/62756))
 * Adds flagpoles to a couple of locations ([#62787](https://github.com/CleverRaven/Cataclysm-DDA/pull/62787))
 * Make high move-cost bamboos look like shrubs ([#62796](https://github.com/CleverRaven/Cataclysm-DDA/pull/62796))
@@ -235,4 +236,3 @@
 * Fix random craft_available_via_vehicle_rig test failure ([#62712](https://github.com/CleverRaven/Cataclysm-DDA/pull/62712))
 * Patch the Limeware Platter exploit ([#62715](https://github.com/CleverRaven/Cataclysm-DDA/pull/62715))
 * Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
-* Routine tileset updates on 11 December 2022 ([#62704](https://github.com/CleverRaven/Cataclysm-DDA/pull/62704))
