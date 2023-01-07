@@ -1,3 +1,11 @@
+* Added several costumes to Cosplay mission ([#62846](https://github.com/CleverRaven/Cataclysm-DDA/pull/62846))
+* fix: drops of profession flavored zombies ([#62877](https://github.com/CleverRaven/Cataclysm-DDA/pull/62877))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-07-0236 ([f4c3a95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-07-0236))
+
+* fix: Recipe makes: X wasn't displayed in crafting GUI for non-charge items ([#62831](https://github.com/CleverRaven/Cataclysm-DDA/pull/62831))
 
 ---
 
@@ -199,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2022-12-22-0155 ([8bf4ccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-0155))
 
 * Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-21-1548 ([ab60b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-21-1548))
-
 * chore: a quick COMPILING.md update ([#62785](https://github.com/CleverRaven/Cataclysm-DDA/pull/62785))
 * Added knife qualities to knife spear ([#62756](https://github.com/CleverRaven/Cataclysm-DDA/pull/62756))
 * Adds flagpoles to a couple of locations ([#62787](https://github.com/CleverRaven/Cataclysm-DDA/pull/62787))
@@ -217,7 +220,6 @@
 * Update MUTATIONS.md ([#62772](https://github.com/CleverRaven/Cataclysm-DDA/pull/62772))
 * npctalk: fix propagation of topic parameters ([#62783](https://github.com/CleverRaven/Cataclysm-DDA/pull/62783))
 * Routine tileset updates on 18 December 2022 ([#62774](https://github.com/CleverRaven/Cataclysm-DDA/pull/62774))
-* Adding disassembling for sling vests ([#62711](https://github.com/CleverRaven/Cataclysm-DDA/pull/62711))
 * PERSONAL for light fur ([#62731](https://github.com/CleverRaven/Cataclysm-DDA/pull/62731))
 * Link to tileset repo in issue template chooser ([#62724](https://github.com/CleverRaven/Cataclysm-DDA/pull/62724))
 * fix: code suggestions for c++ code ([#62736](https://github.com/CleverRaven/Cataclysm-DDA/pull/62736))
@@ -232,7 +234,6 @@
 * Washing machine, dishwasher, and autoclave appliances now can hold items ([#62716](https://github.com/CleverRaven/Cataclysm-DDA/pull/62716))
 * activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
 * Update json info.md - firestarter use_action ([#62726](https://github.com/CleverRaven/Cataclysm-DDA/pull/62726))
-* Whitelists for Aftershock Exoplanet Map Specials ([#62709](https://github.com/CleverRaven/Cataclysm-DDA/pull/62709))
 * Fix random craft_available_via_vehicle_rig test failure ([#62712](https://github.com/CleverRaven/Cataclysm-DDA/pull/62712))
 * Patch the Limeware Platter exploit ([#62715](https://github.com/CleverRaven/Cataclysm-DDA/pull/62715))
 * Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
