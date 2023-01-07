@@ -1,3 +1,5 @@
+* Fix #62103 Laser pistol holster crash ([#63014](https://github.com/CleverRaven/Cataclysm-DDA/pull/63014))
+* Fix erroneous result volume display in crafting gui ([#63015](https://github.com/CleverRaven/Cataclysm-DDA/pull/63015))
 * Added several costumes to Cosplay mission ([#62846](https://github.com/CleverRaven/Cataclysm-DDA/pull/62846))
 * fix: drops of profession flavored zombies ([#62877](https://github.com/CleverRaven/Cataclysm-DDA/pull/62877))
 
@@ -230,10 +232,8 @@
 * [Xedra Evolved] artifact hotfix ([#62735](https://github.com/CleverRaven/Cataclysm-DDA/pull/62735))
 * Fix #62748 ([#62750](https://github.com/CleverRaven/Cataclysm-DDA/pull/62750))
 * Ember carrier pocket consistancy ([#62730](https://github.com/CleverRaven/Cataclysm-DDA/pull/62730))
-* Increase price of enchanted sledge hammers ([#62714](https://github.com/CleverRaven/Cataclysm-DDA/pull/62714))
 * Washing machine, dishwasher, and autoclave appliances now can hold items ([#62716](https://github.com/CleverRaven/Cataclysm-DDA/pull/62716))
 * activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
 * Update json info.md - firestarter use_action ([#62726](https://github.com/CleverRaven/Cataclysm-DDA/pull/62726))
-* Fix random craft_available_via_vehicle_rig test failure ([#62712](https://github.com/CleverRaven/Cataclysm-DDA/pull/62712))
 * Patch the Limeware Platter exploit ([#62715](https://github.com/CleverRaven/Cataclysm-DDA/pull/62715))
 * Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
