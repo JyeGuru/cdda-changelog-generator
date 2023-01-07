@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-07-0353 ([29ca978](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-07-0353))
+
 * Fix #62103 Laser pistol holster crash ([#63014](https://github.com/CleverRaven/Cataclysm-DDA/pull/63014))
 * Fix erroneous result volume display in crafting gui ([#63015](https://github.com/CleverRaven/Cataclysm-DDA/pull/63015))
 * Added several costumes to Cosplay mission ([#62846](https://github.com/CleverRaven/Cataclysm-DDA/pull/62846))
@@ -203,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-12-22-0620 ([af92bd2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-0620))
 
 * Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-22-0155 ([8bf4ccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-0155))
-
 * Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
 * chore: a quick COMPILING.md update ([#62785](https://github.com/CleverRaven/Cataclysm-DDA/pull/62785))
 * Added knife qualities to knife spear ([#62756](https://github.com/CleverRaven/Cataclysm-DDA/pull/62756))
