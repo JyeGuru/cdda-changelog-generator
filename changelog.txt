@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-01-07-0613 (c4b3769)
+* Routine i18n updates on 07 January 2023 (#63021)
+
 Cataclysm-DDA experimental build 2023-01-07-0353 (29ca978)
 * Fix #62103 Laser pistol holster crash (#63014)
 * Fix erroneous result volume display in crafting gui (#63015)
@@ -115,8 +118,6 @@ Cataclysm-DDA experimental build 2022-12-23-0604 (d78b271)
 
 Cataclysm-DDA experimental build 2022-12-22-1914 (af71b05)
 * shorter bio-operator attack effect durations (#62829)
-
-Cataclysm-DDA experimental build 2022-12-22-0620 (af92bd2)
 * Stool recipe conservation of mass (#62821)
 * Aftershock Modinfo Update (#62803)
 * chore: a quick COMPILING.md update (#62785)
@@ -145,5 +146,4 @@ Cataclysm-DDA experimental build 2022-12-22-0620 (af92bd2)
 * Washing machine, dishwasher, and autoclave appliances now can hold items (#62716)
 * activity/move_loot: handle MAG_DESTROY after all contents (#62723)
 * Update json info.md - firestarter use_action (#62726)
-* Patch the Limeware Platter exploit (#62715)
 * Fix remaining ammo for items with both container and magazine (well ) pockets (#62719)
