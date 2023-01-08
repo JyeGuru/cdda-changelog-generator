@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-08-0614 ([2e49340](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-08-0614))
+
+* AT4 Fixes ([#63013](https://github.com/CleverRaven/Cataclysm-DDA/pull/63013))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-07-0613 ([c4b3769](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-07-0613))
 
 * Routine i18n updates on 07 January 2023 ([#63021](https://github.com/CleverRaven/Cataclysm-DDA/pull/63021))
@@ -202,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-12-23-0604 ([d78b271](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-23-0604))
 
 * [innawood] more mil NPC fixes ([#62799](https://github.com/CleverRaven/Cataclysm-DDA/pull/62799))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-22-1914 ([af71b05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-22-1914))
-
 * shorter bio-operator attack effect durations ([#62829](https://github.com/CleverRaven/Cataclysm-DDA/pull/62829))
 * Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
 * Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
@@ -233,7 +234,6 @@
 * [Xedra Evolved] artifact hotfix ([#62735](https://github.com/CleverRaven/Cataclysm-DDA/pull/62735))
 * Fix #62748 ([#62750](https://github.com/CleverRaven/Cataclysm-DDA/pull/62750))
 * Ember carrier pocket consistancy ([#62730](https://github.com/CleverRaven/Cataclysm-DDA/pull/62730))
-* Washing machine, dishwasher, and autoclave appliances now can hold items ([#62716](https://github.com/CleverRaven/Cataclysm-DDA/pull/62716))
 * activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
 * Update json info.md - firestarter use_action ([#62726](https://github.com/CleverRaven/Cataclysm-DDA/pull/62726))
 * Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
