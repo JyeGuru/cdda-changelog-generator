@@ -1,3 +1,4 @@
+* Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
 * Added Foot attack vector to Kumai Sharinraku ([#62878](https://github.com/CleverRaven/Cataclysm-DDA/pull/62878))
 * Cleanup prison_1.json ([#62845](https://github.com/CleverRaven/Cataclysm-DDA/pull/62845))
 * fix: reduce isherwoods weapon options ([#62905](https://github.com/CleverRaven/Cataclysm-DDA/pull/62905))
@@ -223,7 +224,6 @@
 * Cleanup mil_surplus ([#62773](https://github.com/CleverRaven/Cataclysm-DDA/pull/62773))
 * rigid plastic sheet fix length ([#62790](https://github.com/CleverRaven/Cataclysm-DDA/pull/62790))
 * Fix crash on loading autosave made during insert action ([#62763](https://github.com/CleverRaven/Cataclysm-DDA/pull/62763))
-* Routine i18n updates on 17 December 2022 ([#62759](https://github.com/CleverRaven/Cataclysm-DDA/pull/62759))
 * Aquariums no longer have clean water ([#62768](https://github.com/CleverRaven/Cataclysm-DDA/pull/62768))
 * zones: hide LOOT_ITEM_GROUP ([#62770](https://github.com/CleverRaven/Cataclysm-DDA/pull/62770))
 * Update MUTATIONS.md ([#62772](https://github.com/CleverRaven/Cataclysm-DDA/pull/62772))
