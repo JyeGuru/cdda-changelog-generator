@@ -1,3 +1,4 @@
+* Added Foot attack vector to Kumai Sharinraku ([#62878](https://github.com/CleverRaven/Cataclysm-DDA/pull/62878))
 * Cleanup prison_1.json ([#62845](https://github.com/CleverRaven/Cataclysm-DDA/pull/62845))
 * fix: reduce isherwoods weapon options ([#62905](https://github.com/CleverRaven/Cataclysm-DDA/pull/62905))
 * Birb nests and egg foraging tweaks ([#62922](https://github.com/CleverRaven/Cataclysm-DDA/pull/62922))
@@ -202,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-12-24-1738 ([899bd83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-1738))
 
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-24-0611 ([622e847](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-0611))
-
 * Update microlabs cbm item groups ([#62836](https://github.com/CleverRaven/Cataclysm-DDA/pull/62836))
 * Fix issue with loading artifacts ([#62832](https://github.com/CleverRaven/Cataclysm-DDA/pull/62832))
 * Napkins and Cardboard are no longer comestible ([#62800](https://github.com/CleverRaven/Cataclysm-DDA/pull/62800))
@@ -222,7 +218,6 @@
 * Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
 * Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
 * chore: a quick COMPILING.md update ([#62785](https://github.com/CleverRaven/Cataclysm-DDA/pull/62785))
-* Added knife qualities to knife spear ([#62756](https://github.com/CleverRaven/Cataclysm-DDA/pull/62756))
 * Adds flagpoles to a couple of locations ([#62787](https://github.com/CleverRaven/Cataclysm-DDA/pull/62787))
 * Make high move-cost bamboos look like shrubs ([#62796](https://github.com/CleverRaven/Cataclysm-DDA/pull/62796))
 * Cleanup mil_surplus ([#62773](https://github.com/CleverRaven/Cataclysm-DDA/pull/62773))
