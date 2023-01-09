@@ -1,3 +1,12 @@
+* Cleanup prison_1.json ([#62845](https://github.com/CleverRaven/Cataclysm-DDA/pull/62845))
+* fix: reduce isherwoods weapon options ([#62905](https://github.com/CleverRaven/Cataclysm-DDA/pull/62905))
+* Birb nests and egg foraging tweaks ([#62922](https://github.com/CleverRaven/Cataclysm-DDA/pull/62922))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-09-0614 ([c1e1976](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-09-0614))
+
+* Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
 
 ---
 
@@ -199,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2022-12-24-0611 ([622e847](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-0611))
 
 * Update microlabs cbm item groups ([#62836](https://github.com/CleverRaven/Cataclysm-DDA/pull/62836))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-24-0435 ([d5389ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-0435))
-
 * Fix issue with loading artifacts ([#62832](https://github.com/CleverRaven/Cataclysm-DDA/pull/62832))
 * Napkins and Cardboard are no longer comestible ([#62800](https://github.com/CleverRaven/Cataclysm-DDA/pull/62800))
 * Update flatpak manifest ([#62801](https://github.com/CleverRaven/Cataclysm-DDA/pull/62801))
@@ -230,7 +234,3 @@
 * Update MUTATIONS.md ([#62772](https://github.com/CleverRaven/Cataclysm-DDA/pull/62772))
 * npctalk: fix propagation of topic parameters ([#62783](https://github.com/CleverRaven/Cataclysm-DDA/pull/62783))
 * Routine tileset updates on 18 December 2022 ([#62774](https://github.com/CleverRaven/Cataclysm-DDA/pull/62774))
-* AIM: prevent infinite loop on move_all deserialization ([#62744](https://github.com/CleverRaven/Cataclysm-DDA/pull/62744))
-* Remove the welding kit recipe ([#62743](https://github.com/CleverRaven/Cataclysm-DDA/pull/62743))
-* [Magiclysm] Remove the VARSIZE flag from summoned item ([#62751](https://github.com/CleverRaven/Cataclysm-DDA/pull/62751))
-* Fix #62748 ([#62750](https://github.com/CleverRaven/Cataclysm-DDA/pull/62750))
