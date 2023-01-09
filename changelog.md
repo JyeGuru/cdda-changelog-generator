@@ -1,3 +1,12 @@
+* Add spinner for overmap pathfinding ([#62985](https://github.com/CleverRaven/Cataclysm-DDA/pull/62985))
+* Fix main menu crash ([#63009](https://github.com/CleverRaven/Cataclysm-DDA/pull/63009))
+* Swap out the colors for the `|.` and `\.` damage states ([#63020](https://github.com/CleverRaven/Cataclysm-DDA/pull/63020))
+* json/decon: fix boot disassembly recipes ([#63024](https://github.com/CleverRaven/Cataclysm-DDA/pull/63024))
+* Consolidate functions for character's best item with given quality ([#63029](https://github.com/CleverRaven/Cataclysm-DDA/pull/63029))
+* Make lanyard not uncomfortable ([#63035](https://github.com/CleverRaven/Cataclysm-DDA/pull/63035))
+* Remove padding from structured/compact safe+mood sidebar widget ([#63036](https://github.com/CleverRaven/Cataclysm-DDA/pull/63036))
+* skeletal bite and grab fixes ([#63017](https://github.com/CleverRaven/Cataclysm-DDA/pull/63017))
+* Fix duplicate `tailoring_nylon_patchwork` recipe / Nerf synth fabric crafting ([#63031](https://github.com/CleverRaven/Cataclysm-DDA/pull/63031))
 
 ---
 
@@ -202,11 +211,6 @@
 
 * Don't allow parts with carried_flag act as structure parts ([#62851](https://github.com/CleverRaven/Cataclysm-DDA/pull/62851))
 * fix: item overflow test ([#62842](https://github.com/CleverRaven/Cataclysm-DDA/pull/62842))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-23-0604 ([d78b271](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-23-0604))
-
 * [innawood] more mil NPC fixes ([#62799](https://github.com/CleverRaven/Cataclysm-DDA/pull/62799))
 * shorter bio-operator attack effect durations ([#62829](https://github.com/CleverRaven/Cataclysm-DDA/pull/62829))
 * Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
@@ -224,16 +228,9 @@
 * Update MUTATIONS.md ([#62772](https://github.com/CleverRaven/Cataclysm-DDA/pull/62772))
 * npctalk: fix propagation of topic parameters ([#62783](https://github.com/CleverRaven/Cataclysm-DDA/pull/62783))
 * Routine tileset updates on 18 December 2022 ([#62774](https://github.com/CleverRaven/Cataclysm-DDA/pull/62774))
-* PERSONAL for light fur ([#62731](https://github.com/CleverRaven/Cataclysm-DDA/pull/62731))
-* Link to tileset repo in issue template chooser ([#62724](https://github.com/CleverRaven/Cataclysm-DDA/pull/62724))
 * fix: code suggestions for c++ code ([#62736](https://github.com/CleverRaven/Cataclysm-DDA/pull/62736))
 * AIM: prevent infinite loop on move_all deserialization ([#62744](https://github.com/CleverRaven/Cataclysm-DDA/pull/62744))
 * No more Mi-Go in nether portals ([#62742](https://github.com/CleverRaven/Cataclysm-DDA/pull/62742))
 * Remove the welding kit recipe ([#62743](https://github.com/CleverRaven/Cataclysm-DDA/pull/62743))
 * [Magiclysm] Remove the VARSIZE flag from summoned item ([#62751](https://github.com/CleverRaven/Cataclysm-DDA/pull/62751))
-* [Xedra Evolved] artifact hotfix ([#62735](https://github.com/CleverRaven/Cataclysm-DDA/pull/62735))
 * Fix #62748 ([#62750](https://github.com/CleverRaven/Cataclysm-DDA/pull/62750))
-* Ember carrier pocket consistancy ([#62730](https://github.com/CleverRaven/Cataclysm-DDA/pull/62730))
-* activity/move_loot: handle MAG_DESTROY after all contents ([#62723](https://github.com/CleverRaven/Cataclysm-DDA/pull/62723))
-* Update json info.md - firestarter use_action ([#62726](https://github.com/CleverRaven/Cataclysm-DDA/pull/62726))
-* Fix remaining ammo for items with both container and magazine (well ) pockets ([#62719](https://github.com/CleverRaven/Cataclysm-DDA/pull/62719))
