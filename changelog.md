@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-09-0348 ([0d36b18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-09-0348))
+
 * rebreather mask padding  ([#63008](https://github.com/CleverRaven/Cataclysm-DDA/pull/63008))
 * Change how projectile trajectories are calculated. ([#63007](https://github.com/CleverRaven/Cataclysm-DDA/pull/63007))
 * Add spinner for overmap pathfinding ([#62985](https://github.com/CleverRaven/Cataclysm-DDA/pull/62985))
@@ -206,11 +211,6 @@
 * Disallow racking appliances ([#62813](https://github.com/CleverRaven/Cataclysm-DDA/pull/62813))
 * tweak style reviewer's cancel duplicates method ([#62824](https://github.com/CleverRaven/Cataclysm-DDA/pull/62824))
 * Routine i18n updates on 24 December 2022 ([#62850](https://github.com/CleverRaven/Cataclysm-DDA/pull/62850))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-24-0329 ([27ae97d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-0329))
-
 * Don't allow parts with carried_flag act as structure parts ([#62851](https://github.com/CleverRaven/Cataclysm-DDA/pull/62851))
 * fix: item overflow test ([#62842](https://github.com/CleverRaven/Cataclysm-DDA/pull/62842))
 * [innawood] more mil NPC fixes ([#62799](https://github.com/CleverRaven/Cataclysm-DDA/pull/62799))
