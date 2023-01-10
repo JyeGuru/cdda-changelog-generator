@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-10-0621 ([3e8193a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-10-0621))
+
+* Beefs .357 SIG’s armour penetration. ([#62994](https://github.com/CleverRaven/Cataclysm-DDA/pull/62994))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-09-0857 ([fbdb628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-09-0857))
 
 * Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
@@ -197,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2022-12-25-0619 ([99451f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-25-0619))
 
 * Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-24-1852 ([053ba98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-24-1852))
-
 * Made appliance freezer display as furniture freezer rather than a symbol ([#62807](https://github.com/CleverRaven/Cataclysm-DDA/pull/62807))
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
 * Update microlabs cbm item groups ([#62836](https://github.com/CleverRaven/Cataclysm-DDA/pull/62836))
@@ -223,7 +224,6 @@
 * Make high move-cost bamboos look like shrubs ([#62796](https://github.com/CleverRaven/Cataclysm-DDA/pull/62796))
 * Cleanup mil_surplus ([#62773](https://github.com/CleverRaven/Cataclysm-DDA/pull/62773))
 * rigid plastic sheet fix length ([#62790](https://github.com/CleverRaven/Cataclysm-DDA/pull/62790))
-* Fix crash on loading autosave made during insert action ([#62763](https://github.com/CleverRaven/Cataclysm-DDA/pull/62763))
 * Aquariums no longer have clean water ([#62768](https://github.com/CleverRaven/Cataclysm-DDA/pull/62768))
 * zones: hide LOOT_ITEM_GROUP ([#62770](https://github.com/CleverRaven/Cataclysm-DDA/pull/62770))
 * Update MUTATIONS.md ([#62772](https://github.com/CleverRaven/Cataclysm-DDA/pull/62772))
