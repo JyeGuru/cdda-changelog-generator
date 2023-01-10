@@ -1,3 +1,4 @@
+* ursine faces (#62975)
 
 Cataclysm-DDA experimental build 2023-01-10-0621 (3e8193a)
 * Beefs .357 SIG’s armour penetration. (#62994)
@@ -116,8 +117,6 @@ Cataclysm-DDA experimental build 2022-12-26-1621 (0808fe7)
 
 Cataclysm-DDA experimental build 2022-12-26-0842 (e11b6ed)
 * Lower recipe spear shaft recipe difficulty and change quality requirements. (#62778)
-
-Cataclysm-DDA experimental build 2022-12-25-0619 (99451f2)
 * Readjusts gun and ammo spawns in hunting stores. (#62857)
 * Made appliance freezer display as furniture freezer rather than a symbol (#62807)
 * glock 22 should spawn with usable ammo (#62853)
@@ -140,7 +139,6 @@ Cataclysm-DDA experimental build 2022-12-25-0619 (99451f2)
 * Make high move-cost bamboos look like shrubs (#62796)
 * Cleanup mil_surplus (#62773)
 * rigid plastic sheet fix length (#62790)
-* zones: hide LOOT_ITEM_GROUP (#62770)
 * Update MUTATIONS.md (#62772)
 * npctalk: fix propagation of topic parameters (#62783)
 * Routine tileset updates on 18 December 2022 (#62774)
