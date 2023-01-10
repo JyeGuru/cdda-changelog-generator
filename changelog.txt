@@ -115,8 +115,6 @@ Cataclysm-DDA experimental build 2022-12-27-0658 (e171fb3)
 
 Cataclysm-DDA experimental build 2022-12-26-1621 (0808fe7)
 * aftershock/maps: fix elevator in municipal reactor (#62879)
-
-Cataclysm-DDA experimental build 2022-12-26-0842 (e11b6ed)
 * Lower recipe spear shaft recipe difficulty and change quality requirements. (#62778)
 * Readjusts gun and ammo spawns in hunting stores. (#62857)
 * Made appliance freezer display as furniture freezer rather than a symbol (#62807)

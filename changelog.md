@@ -193,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2022-12-26-1621 ([0808fe7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-26-1621))
 
 * aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-26-0842 ([e11b6ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-26-0842))
-
 * Lower recipe spear shaft recipe difficulty and change quality requirements. ([#62778](https://github.com/CleverRaven/Cataclysm-DDA/pull/62778))
 * Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
 * Made appliance freezer display as furniture freezer rather than a symbol ([#62807](https://github.com/CleverRaven/Cataclysm-DDA/pull/62807))
