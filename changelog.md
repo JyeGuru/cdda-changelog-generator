@@ -1,3 +1,4 @@
+* construction: fix construction loops ([#63070](https://github.com/CleverRaven/Cataclysm-DDA/pull/63070))
 
 ---
 
@@ -186,15 +187,9 @@
 #### Cataclysm-DDA experimental build 2022-12-28-0619 ([7f881d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-28-0619))
 
 * Routine tileset updates on 25 December 2022 ([#62876](https://github.com/CleverRaven/Cataclysm-DDA/pull/62876))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-27-0658 ([e171fb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-27-0658))
-
 * Adjusted hiking bag sheaths ([#62886](https://github.com/CleverRaven/Cataclysm-DDA/pull/62886))
 * fix: don't mark string freeze issues as stale ([#62887](https://github.com/CleverRaven/Cataclysm-DDA/pull/62887))
 * aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
-* Lower recipe spear shaft recipe difficulty and change quality requirements. ([#62778](https://github.com/CleverRaven/Cataclysm-DDA/pull/62778))
 * Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
 * Made appliance freezer display as furniture freezer rather than a symbol ([#62807](https://github.com/CleverRaven/Cataclysm-DDA/pull/62807))
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
