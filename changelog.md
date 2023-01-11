@@ -1,3 +1,6 @@
+* Fix some metal material thermochemical properties ([#62927](https://github.com/CleverRaven/Cataclysm-DDA/pull/62927))
+* Migrate remaining farms to the farm mutable, misc map updates ([#62955](https://github.com/CleverRaven/Cataclysm-DDA/pull/62955))
+* Aftershock Post Thresh Mood Faces ([#63046](https://github.com/CleverRaven/Cataclysm-DDA/pull/63046))
 * construction: fix construction loops ([#63070](https://github.com/CleverRaven/Cataclysm-DDA/pull/63070))
 
 ---
@@ -207,8 +210,5 @@
 * shorter bio-operator attack effect durations ([#62829](https://github.com/CleverRaven/Cataclysm-DDA/pull/62829))
 * Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
 * Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
-* chore: a quick COMPILING.md update ([#62785](https://github.com/CleverRaven/Cataclysm-DDA/pull/62785))
-* Adds flagpoles to a couple of locations ([#62787](https://github.com/CleverRaven/Cataclysm-DDA/pull/62787))
 * Make high move-cost bamboos look like shrubs ([#62796](https://github.com/CleverRaven/Cataclysm-DDA/pull/62796))
 * rigid plastic sheet fix length ([#62790](https://github.com/CleverRaven/Cataclysm-DDA/pull/62790))
-* npctalk: fix propagation of topic parameters ([#62783](https://github.com/CleverRaven/Cataclysm-DDA/pull/62783))
