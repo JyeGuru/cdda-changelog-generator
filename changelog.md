@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-11-0634 ([bb53c11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-11-0634))
+
+* Fixes for map revert ([#63043](https://github.com/CleverRaven/Cataclysm-DDA/pull/63043))
 * Remove five pin bow sight crafting recipe ([#63058](https://github.com/CleverRaven/Cataclysm-DDA/pull/63058))
 * ursine faces ([#62975](https://github.com/CleverRaven/Cataclysm-DDA/pull/62975))
 
@@ -187,11 +193,6 @@
 
 * Adjusted hiking bag sheaths ([#62886](https://github.com/CleverRaven/Cataclysm-DDA/pull/62886))
 * fix: don't mark string freeze issues as stale ([#62887](https://github.com/CleverRaven/Cataclysm-DDA/pull/62887))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-26-1621 ([0808fe7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-26-1621))
-
 * aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
 * Lower recipe spear shaft recipe difficulty and change quality requirements. ([#62778](https://github.com/CleverRaven/Cataclysm-DDA/pull/62778))
 * Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
@@ -216,4 +217,3 @@
 * Make high move-cost bamboos look like shrubs ([#62796](https://github.com/CleverRaven/Cataclysm-DDA/pull/62796))
 * rigid plastic sheet fix length ([#62790](https://github.com/CleverRaven/Cataclysm-DDA/pull/62790))
 * npctalk: fix propagation of topic parameters ([#62783](https://github.com/CleverRaven/Cataclysm-DDA/pull/62783))
-* Routine tileset updates on 18 December 2022 ([#62774](https://github.com/CleverRaven/Cataclysm-DDA/pull/62774))
