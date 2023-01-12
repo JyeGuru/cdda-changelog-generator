@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-12-0530 ([bec36d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-12-0530))
+
+* Add obsoletion entries ([#63079](https://github.com/CleverRaven/Cataclysm-DDA/pull/63079))
 * Fix some metal material thermochemical properties ([#62927](https://github.com/CleverRaven/Cataclysm-DDA/pull/62927))
 * Migrate remaining farms to the farm mutable, misc map updates ([#62955](https://github.com/CleverRaven/Cataclysm-DDA/pull/62955))
 * Aftershock Post Thresh Mood Faces ([#63046](https://github.com/CleverRaven/Cataclysm-DDA/pull/63046))
@@ -178,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2022-12-30-0627 ([b02264e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-30-0627))
 
 * Turn engines on by default only for non-owned vehicles ([#62867](https://github.com/CleverRaven/Cataclysm-DDA/pull/62867))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-29-0635 ([6df9e6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-29-0635))
-
 * chore: remove lgtm from README ([#62893](https://github.com/CleverRaven/Cataclysm-DDA/pull/62893))
 * Routine tileset updates on 25 December 2022 ([#62876](https://github.com/CleverRaven/Cataclysm-DDA/pull/62876))
 * Adjusted hiking bag sheaths ([#62886](https://github.com/CleverRaven/Cataclysm-DDA/pull/62886))
@@ -206,4 +207,3 @@
 * Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
 * Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
 * Make high move-cost bamboos look like shrubs ([#62796](https://github.com/CleverRaven/Cataclysm-DDA/pull/62796))
-* rigid plastic sheet fix length ([#62790](https://github.com/CleverRaven/Cataclysm-DDA/pull/62790))

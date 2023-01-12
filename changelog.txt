@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2023-01-12-0530 (bec36d4)
+* Add obsoletion entries (#63079)
 * Fix some metal material thermochemical properties (#62927)
 * Migrate remaining farms to the farm mutable, misc map updates (#62955)
 * Aftershock Post Thresh Mood Faces (#63046)
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2022-12-31-0654 (0eea824)
 
 Cataclysm-DDA experimental build 2022-12-30-0627 (b02264e)
 * Turn engines on by default only for non-owned vehicles (#62867)
-
-Cataclysm-DDA experimental build 2022-12-29-0635 (6df9e6e)
 * chore: remove lgtm from README (#62893)
 * Routine tileset updates on 25 December 2022 (#62876)
 * Adjusted hiking bag sheaths (#62886)
@@ -134,4 +135,3 @@ Cataclysm-DDA experimental build 2022-12-29-0635 (6df9e6e)
 * Stool recipe conservation of mass (#62821)
 * Aftershock Modinfo Update (#62803)
 * Make high move-cost bamboos look like shrubs (#62796)
-* rigid plastic sheet fix length (#62790)
