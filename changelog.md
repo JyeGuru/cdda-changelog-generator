@@ -1,3 +1,4 @@
+* Adjust deconstruction recipes for patchwork cotton sheets ([#62862](https://github.com/CleverRaven/Cataclysm-DDA/pull/62862))
 * Make `Character::best_item_with_quality` examine items non-recursively ([#63048](https://github.com/CleverRaven/Cataclysm-DDA/pull/63048))
 * Remove portal storm monsters ability to open doors ([#63053](https://github.com/CleverRaven/Cataclysm-DDA/pull/63053))
 
@@ -204,7 +205,6 @@
 * Routine i18n updates on 24 December 2022 ([#62850](https://github.com/CleverRaven/Cataclysm-DDA/pull/62850))
 * Don't allow parts with carried_flag act as structure parts ([#62851](https://github.com/CleverRaven/Cataclysm-DDA/pull/62851))
 * fix: item overflow test ([#62842](https://github.com/CleverRaven/Cataclysm-DDA/pull/62842))
-* [innawood] more mil NPC fixes ([#62799](https://github.com/CleverRaven/Cataclysm-DDA/pull/62799))
 * shorter bio-operator attack effect durations ([#62829](https://github.com/CleverRaven/Cataclysm-DDA/pull/62829))
 * Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
 * Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
