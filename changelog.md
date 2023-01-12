@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-12-0640 ([05524df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-12-0640))
+
 * Adjust deconstruction recipes for patchwork cotton sheets ([#62862](https://github.com/CleverRaven/Cataclysm-DDA/pull/62862))
 * Make `Character::best_item_with_quality` examine items non-recursively ([#63048](https://github.com/CleverRaven/Cataclysm-DDA/pull/63048))
 * Remove portal storm monsters ability to open doors ([#63053](https://github.com/CleverRaven/Cataclysm-DDA/pull/63053))
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2022-12-31-0654 ([0eea824](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-31-0654))
 
 * map:  update active items cache when removing contents ([#62916](https://github.com/CleverRaven/Cataclysm-DDA/pull/62916))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-30-0627 ([b02264e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-30-0627))
-
 * Turn engines on by default only for non-owned vehicles ([#62867](https://github.com/CleverRaven/Cataclysm-DDA/pull/62867))
 * chore: remove lgtm from README ([#62893](https://github.com/CleverRaven/Cataclysm-DDA/pull/62893))
 * Routine tileset updates on 25 December 2022 ([#62876](https://github.com/CleverRaven/Cataclysm-DDA/pull/62876))
