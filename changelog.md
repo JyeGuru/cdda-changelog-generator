@@ -1,3 +1,11 @@
+* Fix the lumbermill trader ([#63084](https://github.com/CleverRaven/Cataclysm-DDA/pull/63084))
+* Fix a price discrepancy with the lumbermill trader ([#63085](https://github.com/CleverRaven/Cataclysm-DDA/pull/63085))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-13-1239 ([3d8cfa8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-1239))
+
+* fixes dark sight's duration increment ([#63044](https://github.com/CleverRaven/Cataclysm-DDA/pull/63044))
 
 ---
 
@@ -180,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2023-01-01-0139 ([777263b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-01-0139))
 
 * Factor character stance into Creature::ranged_target_size ([#62940](https://github.com/CleverRaven/Cataclysm-DDA/pull/62940))
-
----
-
-#### Cataclysm-DDA experimental build 2022-12-31-0654 ([0eea824](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2022-12-31-0654))
-
 * map:  update active items cache when removing contents ([#62916](https://github.com/CleverRaven/Cataclysm-DDA/pull/62916))
 * Turn engines on by default only for non-owned vehicles ([#62867](https://github.com/CleverRaven/Cataclysm-DDA/pull/62867))
 * chore: remove lgtm from README ([#62893](https://github.com/CleverRaven/Cataclysm-DDA/pull/62893))
@@ -197,8 +200,6 @@
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
 * Update microlabs cbm item groups ([#62836](https://github.com/CleverRaven/Cataclysm-DDA/pull/62836))
 * Fix issue with loading artifacts ([#62832](https://github.com/CleverRaven/Cataclysm-DDA/pull/62832))
-* Napkins and Cardboard are no longer comestible ([#62800](https://github.com/CleverRaven/Cataclysm-DDA/pull/62800))
-* Update flatpak manifest ([#62801](https://github.com/CleverRaven/Cataclysm-DDA/pull/62801))
 * Don't zap players inside vehicles ([#62840](https://github.com/CleverRaven/Cataclysm-DDA/pull/62840))
 * Disallow racking appliances ([#62813](https://github.com/CleverRaven/Cataclysm-DDA/pull/62813))
 * tweak style reviewer's cancel duplicates method ([#62824](https://github.com/CleverRaven/Cataclysm-DDA/pull/62824))
@@ -207,4 +208,3 @@
 * fix: item overflow test ([#62842](https://github.com/CleverRaven/Cataclysm-DDA/pull/62842))
 * shorter bio-operator attack effect durations ([#62829](https://github.com/CleverRaven/Cataclysm-DDA/pull/62829))
 * Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
-* Aftershock Modinfo Update ([#62803](https://github.com/CleverRaven/Cataclysm-DDA/pull/62803))
