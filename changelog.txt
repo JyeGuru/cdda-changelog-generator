@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-01-13-1340 (1542f97)
 * Fix the lumbermill trader (#63084)
 * Fix a price discrepancy with the lumbermill trader (#63085)
 
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2023-01-01-0940 (bdef0e7)
 
 Cataclysm-DDA experimental build 2023-01-01-0813 (ba42c0a)
 * Why no PALS comment on the MDS (#62934)
-
-Cataclysm-DDA experimental build 2023-01-01-0139 (777263b)
 * Factor character stance into Creature::ranged_target_size (#62940)
 * map:  update active items cache when removing contents (#62916)
 * Turn engines on by default only for non-owned vehicles (#62867)
