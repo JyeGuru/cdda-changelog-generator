@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-13-2311 ([b0aacac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-2311))
+
+* Enlarge body status window ([#63071](https://github.com/CleverRaven/Cataclysm-DDA/pull/63071))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-13-1441 ([10bcab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-1441))
 
 * Fix typo of `looks_like` json property ([#63098](https://github.com/CleverRaven/Cataclysm-DDA/pull/63098))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2023-01-02-0647 ([9530b87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-02-0647))
 
 * Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-01-0940 ([bdef0e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-01-0940))
-
 * Remove spawn of zombie with a flamethrower. ([#62833](https://github.com/CleverRaven/Cataclysm-DDA/pull/62833))
 * Add messages for more cases of pocket overflow ([#62856](https://github.com/CleverRaven/Cataclysm-DDA/pull/62856))
 * Evac Shelter pencils now spawn with charges. ([#62859](https://github.com/CleverRaven/Cataclysm-DDA/pull/62859))
@@ -201,7 +202,6 @@
 * Update microlabs cbm item groups ([#62836](https://github.com/CleverRaven/Cataclysm-DDA/pull/62836))
 * Fix issue with loading artifacts ([#62832](https://github.com/CleverRaven/Cataclysm-DDA/pull/62832))
 * Don't zap players inside vehicles ([#62840](https://github.com/CleverRaven/Cataclysm-DDA/pull/62840))
-* Disallow racking appliances ([#62813](https://github.com/CleverRaven/Cataclysm-DDA/pull/62813))
 * tweak style reviewer's cancel duplicates method ([#62824](https://github.com/CleverRaven/Cataclysm-DDA/pull/62824))
 * Routine i18n updates on 24 December 2022 ([#62850](https://github.com/CleverRaven/Cataclysm-DDA/pull/62850))
 * Don't allow parts with carried_flag act as structure parts ([#62851](https://github.com/CleverRaven/Cataclysm-DDA/pull/62851))
