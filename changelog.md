@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-13-1441 ([10bcab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-1441))
+
+* Fix typo of `looks_like` json property ([#63098](https://github.com/CleverRaven/Cataclysm-DDA/pull/63098))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-13-1340 ([1542f97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-1340))
 
 * Fix the lumbermill trader ([#63084](https://github.com/CleverRaven/Cataclysm-DDA/pull/63084))
@@ -181,11 +187,6 @@
 * Pluralization test uses test items instead of regular ones ([#62917](https://github.com/CleverRaven/Cataclysm-DDA/pull/62917))
 * [Mapgen] Some Exodii base fixes ([#62931](https://github.com/CleverRaven/Cataclysm-DDA/pull/62931))
 * Routine i18n updates on 31 December 2022 ([#62942](https://github.com/CleverRaven/Cataclysm-DDA/pull/62942))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-01-0813 ([ba42c0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-01-0813))
-
 * Why no PALS comment on the MDS ([#62934](https://github.com/CleverRaven/Cataclysm-DDA/pull/62934))
 * Factor character stance into Creature::ranged_target_size ([#62940](https://github.com/CleverRaven/Cataclysm-DDA/pull/62940))
 * map:  update active items cache when removing contents ([#62916](https://github.com/CleverRaven/Cataclysm-DDA/pull/62916))
@@ -196,7 +197,6 @@
 * fix: don't mark string freeze issues as stale ([#62887](https://github.com/CleverRaven/Cataclysm-DDA/pull/62887))
 * aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
 * Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
-* Made appliance freezer display as furniture freezer rather than a symbol ([#62807](https://github.com/CleverRaven/Cataclysm-DDA/pull/62807))
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
 * Update microlabs cbm item groups ([#62836](https://github.com/CleverRaven/Cataclysm-DDA/pull/62836))
 * Fix issue with loading artifacts ([#62832](https://github.com/CleverRaven/Cataclysm-DDA/pull/62832))
