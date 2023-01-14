@@ -1,6 +1,23 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-14-0140 ([7c3a129](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-14-0140))
+
+* Fix the check error originating from `TALK_lumbermill_fabricate.json` ([#63102](https://github.com/CleverRaven/Cataclysm-DDA/pull/63102))
+* Jsonize test data for vehicle efficiency test ([#63088](https://github.com/CleverRaven/Cataclysm-DDA/pull/63088))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-14-0026 ([d2e3eda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-14-0026))
+
+* Clarify the small body graph ([#63037](https://github.com/CleverRaven/Cataclysm-DDA/pull/63037))
+* fix prereq issues for INFIMMUNE and PARAIMMUNE ([#63081](https://github.com/CleverRaven/Cataclysm-DDA/pull/63081))
+* Lowered amount of cable spawned on `mission_meteorologist_5` ([#63093](https://github.com/CleverRaven/Cataclysm-DDA/pull/63093))
+* Fix link typo in MISSIONS_JSON.md and link to correct subsection ([#63096](https://github.com/CleverRaven/Cataclysm-DDA/pull/63096))
+* Allow the scrap trader to sit in their chair. ([#63099](https://github.com/CleverRaven/Cataclysm-DDA/pull/63099))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-13-2311 ([b0aacac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-2311))
 
 * Enlarge body status window ([#63071](https://github.com/CleverRaven/Cataclysm-DDA/pull/63071))
@@ -111,12 +128,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-01-07-0236 ([f4c3a95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-07-0236))
-
-* fix: Recipe makes: X wasn't displayed in crafting GUI for non-charge items ([#62831](https://github.com/CleverRaven/Cataclysm-DDA/pull/62831))
-
----
-
 #### Cataclysm-DDA experimental build 2023-01-06-0933 ([28d1538](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-06-0933))
 
 * added lengths for EXODII Mags and the MDS ([#62972](https://github.com/CleverRaven/Cataclysm-DDA/pull/62972))
@@ -162,19 +173,8 @@
 * Fix Devour scroll to teach Devour ([#62938](https://github.com/CleverRaven/Cataclysm-DDA/pull/62938))
 * Fix crash in item_location serialization ([#62960](https://github.com/CleverRaven/Cataclysm-DDA/pull/62960))
 * [Xedra Evolved] Fix the mod has lack of own mana bar ([#62949](https://github.com/CleverRaven/Cataclysm-DDA/pull/62949))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-03-0259 ([2aa1b79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-03-0259))
-
 * Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-02-0647 ([9530b87](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-02-0647))
-
 * Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
-* Remove spawn of zombie with a flamethrower. ([#62833](https://github.com/CleverRaven/Cataclysm-DDA/pull/62833))
 * Add messages for more cases of pocket overflow ([#62856](https://github.com/CleverRaven/Cataclysm-DDA/pull/62856))
 * Evac Shelter pencils now spawn with charges. ([#62859](https://github.com/CleverRaven/Cataclysm-DDA/pull/62859))
 * fix: Remove extra anvil from workshop recipe ([#62921](https://github.com/CleverRaven/Cataclysm-DDA/pull/62921))
@@ -199,12 +199,7 @@
 * aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
 * Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
-* Update microlabs cbm item groups ([#62836](https://github.com/CleverRaven/Cataclysm-DDA/pull/62836))
-* Fix issue with loading artifacts ([#62832](https://github.com/CleverRaven/Cataclysm-DDA/pull/62832))
 * Don't zap players inside vehicles ([#62840](https://github.com/CleverRaven/Cataclysm-DDA/pull/62840))
-* tweak style reviewer's cancel duplicates method ([#62824](https://github.com/CleverRaven/Cataclysm-DDA/pull/62824))
 * Routine i18n updates on 24 December 2022 ([#62850](https://github.com/CleverRaven/Cataclysm-DDA/pull/62850))
 * Don't allow parts with carried_flag act as structure parts ([#62851](https://github.com/CleverRaven/Cataclysm-DDA/pull/62851))
 * fix: item overflow test ([#62842](https://github.com/CleverRaven/Cataclysm-DDA/pull/62842))
-* shorter bio-operator attack effect durations ([#62829](https://github.com/CleverRaven/Cataclysm-DDA/pull/62829))
-* Stool recipe conservation of mass ([#62821](https://github.com/CleverRaven/Cataclysm-DDA/pull/62821))
