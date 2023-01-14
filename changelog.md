@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-14-1322 ([e5b0559](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-14-1322))
+
+* Routine i18n updates on 14 January 2023 ([#63105](https://github.com/CleverRaven/Cataclysm-DDA/pull/63105))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-14-0140 ([7c3a129](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-14-0140))
 
 * Fix the check error originating from `TALK_lumbermill_fabricate.json` ([#63102](https://github.com/CleverRaven/Cataclysm-DDA/pull/63102))
@@ -165,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2023-01-03-1959 ([f79f057](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-03-1959))
 
 * Tweak/add fishing tool craft/uncraft recipes ([#62944](https://github.com/CleverRaven/Cataclysm-DDA/pull/62944))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-03-0430 ([5772feb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-03-0430))
-
 * Fix Devour scroll to teach Devour ([#62938](https://github.com/CleverRaven/Cataclysm-DDA/pull/62938))
 * Fix crash in item_location serialization ([#62960](https://github.com/CleverRaven/Cataclysm-DDA/pull/62960))
 * [Xedra Evolved] Fix the mod has lack of own mana bar ([#62949](https://github.com/CleverRaven/Cataclysm-DDA/pull/62949))
