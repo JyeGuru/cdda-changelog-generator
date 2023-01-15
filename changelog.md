@@ -1,3 +1,4 @@
+* fix: missing corner in one FEMA entrance ([#63114](https://github.com/CleverRaven/Cataclysm-DDA/pull/63114))
 
 ---
 
