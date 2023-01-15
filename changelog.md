@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-15-0659 ([583923e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-15-0659))
+
 * fix: missing corner in one FEMA entrance ([#63114](https://github.com/CleverRaven/Cataclysm-DDA/pull/63114))
 
 ---
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2023-01-04-0021 ([dd987e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-04-0021))
 
 * [Magiclysm] Endless Teapot ([#62980](https://github.com/CleverRaven/Cataclysm-DDA/pull/62980))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-03-1959 ([f79f057](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-03-1959))
-
 * Tweak/add fishing tool craft/uncraft recipes ([#62944](https://github.com/CleverRaven/Cataclysm-DDA/pull/62944))
 * Fix Devour scroll to teach Devour ([#62938](https://github.com/CleverRaven/Cataclysm-DDA/pull/62938))
 * Fix crash in item_location serialization ([#62960](https://github.com/CleverRaven/Cataclysm-DDA/pull/62960))
