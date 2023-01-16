@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-16-0659 ([11e187f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-16-0659))
+
+* Routine tileset updates on 15 January 2023 ([#63127](https://github.com/CleverRaven/Cataclysm-DDA/pull/63127))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-15-0659 ([583923e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-15-0659))
 
 * fix: missing corner in one FEMA entrance ([#63114](https://github.com/CleverRaven/Cataclysm-DDA/pull/63114))
@@ -159,11 +165,6 @@
 
 * Prevent crash on no scenario ([#63010](https://github.com/CleverRaven/Cataclysm-DDA/pull/63010))
 * tests/map: fix setup for inactive_container_with_active_contents ([#62979](https://github.com/CleverRaven/Cataclysm-DDA/pull/62979))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-04-0604 ([a00a2ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-04-0604))
-
 * Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` ([#62988](https://github.com/CleverRaven/Cataclysm-DDA/pull/62988))
 * [Magiclysm] Endless Teapot ([#62980](https://github.com/CleverRaven/Cataclysm-DDA/pull/62980))
 * Tweak/add fishing tool craft/uncraft recipes ([#62944](https://github.com/CleverRaven/Cataclysm-DDA/pull/62944))
@@ -196,7 +197,6 @@
 * aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
 * Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
-* Don't zap players inside vehicles ([#62840](https://github.com/CleverRaven/Cataclysm-DDA/pull/62840))
 * Routine i18n updates on 24 December 2022 ([#62850](https://github.com/CleverRaven/Cataclysm-DDA/pull/62850))
 * Don't allow parts with carried_flag act as structure parts ([#62851](https://github.com/CleverRaven/Cataclysm-DDA/pull/62851))
 * fix: item overflow test ([#62842](https://github.com/CleverRaven/Cataclysm-DDA/pull/62842))
