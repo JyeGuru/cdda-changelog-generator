@@ -165,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2023-01-04-0604 ([a00a2ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-04-0604))
 
 * Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` ([#62988](https://github.com/CleverRaven/Cataclysm-DDA/pull/62988))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-04-0021 ([dd987e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-04-0021))
-
 * [Magiclysm] Endless Teapot ([#62980](https://github.com/CleverRaven/Cataclysm-DDA/pull/62980))
 * Tweak/add fishing tool craft/uncraft recipes ([#62944](https://github.com/CleverRaven/Cataclysm-DDA/pull/62944))
 * Fix Devour scroll to teach Devour ([#62938](https://github.com/CleverRaven/Cataclysm-DDA/pull/62938))
