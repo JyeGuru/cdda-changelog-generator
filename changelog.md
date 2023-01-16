@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-16-1242 ([d6d5349](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-16-1242))
+
+* [Innawood] alternators! ([#63108](https://github.com/CleverRaven/Cataclysm-DDA/pull/63108))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-16-0659 ([11e187f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-16-0659))
 
 * Routine tileset updates on 15 January 2023 ([#63127](https://github.com/CleverRaven/Cataclysm-DDA/pull/63127))
@@ -97,7 +103,6 @@
 
 * Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
 * Added Foot attack vector to Kumai Sharinraku ([#62878](https://github.com/CleverRaven/Cataclysm-DDA/pull/62878))
-* Cleanup prison_1.json ([#62845](https://github.com/CleverRaven/Cataclysm-DDA/pull/62845))
 * fix: reduce isherwoods weapon options ([#62905](https://github.com/CleverRaven/Cataclysm-DDA/pull/62905))
 * Birb nests and egg foraging tweaks ([#62922](https://github.com/CleverRaven/Cataclysm-DDA/pull/62922))
 
@@ -158,11 +163,6 @@
 * Disable NPCs triggering spell learned achievements ([#62984](https://github.com/CleverRaven/Cataclysm-DDA/pull/62984))
 * Fix typos in error message ([#62982](https://github.com/CleverRaven/Cataclysm-DDA/pull/62982))
 * Fix mission_start off by 1 ([#62993](https://github.com/CleverRaven/Cataclysm-DDA/pull/62993))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-06-0353 ([3820b19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-06-0353))
-
 * Prevent crash on no scenario ([#63010](https://github.com/CleverRaven/Cataclysm-DDA/pull/63010))
 * tests/map: fix setup for inactive_container_with_active_contents ([#62979](https://github.com/CleverRaven/Cataclysm-DDA/pull/62979))
 * Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` ([#62988](https://github.com/CleverRaven/Cataclysm-DDA/pull/62988))
