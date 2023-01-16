@@ -103,6 +103,7 @@
 
 * Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
 * Added Foot attack vector to Kumai Sharinraku ([#62878](https://github.com/CleverRaven/Cataclysm-DDA/pull/62878))
+* Cleanup prison_1.json ([#62845](https://github.com/CleverRaven/Cataclysm-DDA/pull/62845))
 * fix: reduce isherwoods weapon options ([#62905](https://github.com/CleverRaven/Cataclysm-DDA/pull/62905))
 * Birb nests and egg foraging tweaks ([#62922](https://github.com/CleverRaven/Cataclysm-DDA/pull/62922))
 

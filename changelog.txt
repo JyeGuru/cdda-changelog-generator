@@ -58,6 +58,7 @@ Cataclysm-DDA experimental build 2023-01-10-0621 (3e8193a)
 Cataclysm-DDA experimental build 2023-01-09-0857 (fbdb628)
 * Fix overly-restrictive logic in check for ability to crush frozen liquids (#63019)
 * Added Foot attack vector to Kumai Sharinraku (#62878)
+* Cleanup prison_1.json (#62845)
 * fix: reduce isherwoods weapon options (#62905)
 * Birb nests and egg foraging tweaks (#62922)
 
