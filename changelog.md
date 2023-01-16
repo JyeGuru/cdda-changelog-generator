@@ -199,4 +199,3 @@
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
 * Routine i18n updates on 24 December 2022 ([#62850](https://github.com/CleverRaven/Cataclysm-DDA/pull/62850))
 * Don't allow parts with carried_flag act as structure parts ([#62851](https://github.com/CleverRaven/Cataclysm-DDA/pull/62851))
-* fix: item overflow test ([#62842](https://github.com/CleverRaven/Cataclysm-DDA/pull/62842))
