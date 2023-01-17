@@ -204,4 +204,3 @@
 * Adjusted hiking bag sheaths ([#62886](https://github.com/CleverRaven/Cataclysm-DDA/pull/62886))
 * fix: don't mark string freeze issues as stale ([#62887](https://github.com/CleverRaven/Cataclysm-DDA/pull/62887))
 * aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
-* Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
