@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-01-17-1252 (950acde)
 * Fix reinforced_glass_sheet recipe weight and volume inconsistency (#63060)
 * Fix consume EOC double fire (#63112)
 * Resolve clang-tidy warning in diary_ui.cpp (#63115)
