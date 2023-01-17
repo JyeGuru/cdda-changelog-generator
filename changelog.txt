@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-01-17-0612 (5832288)
+* Remove workbench construction vs crafting exploit (#63128)
+
 Cataclysm-DDA experimental build 2023-01-16-1242 (d6d5349)
 * [Innawood] alternators! (#63108)
 
@@ -58,7 +61,6 @@ Cataclysm-DDA experimental build 2023-01-10-0621 (3e8193a)
 Cataclysm-DDA experimental build 2023-01-09-0857 (fbdb628)
 * Fix overly-restrictive logic in check for ability to crush frozen liquids (#63019)
 * Added Foot attack vector to Kumai Sharinraku (#62878)
-* Cleanup prison_1.json (#62845)
 * fix: reduce isherwoods weapon options (#62905)
 * Birb nests and egg foraging tweaks (#62922)
 
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2023-01-07-0353 (29ca978)
 
 Cataclysm-DDA experimental build 2023-01-06-0933 (28d1538)
 * added lengths for EXODII Mags and the MDS (#62972)
-
-Cataclysm-DDA experimental build 2023-01-06-0458 (f05dcdb)
 * [Innawood] Remove adze from tools_common_small item group (#63001)
 * Disable NPCs triggering spell learned achievements (#62984)
 * Fix typos in error message (#62982)

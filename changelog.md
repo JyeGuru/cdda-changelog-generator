@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-17-0612 ([5832288](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-0612))
+
+* Remove workbench construction vs crafting exploit ([#63128](https://github.com/CleverRaven/Cataclysm-DDA/pull/63128))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-16-1242 ([d6d5349](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-16-1242))
 
 * [Innawood] alternators! ([#63108](https://github.com/CleverRaven/Cataclysm-DDA/pull/63108))
@@ -103,7 +109,6 @@
 
 * Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
 * Added Foot attack vector to Kumai Sharinraku ([#62878](https://github.com/CleverRaven/Cataclysm-DDA/pull/62878))
-* Cleanup prison_1.json ([#62845](https://github.com/CleverRaven/Cataclysm-DDA/pull/62845))
 * fix: reduce isherwoods weapon options ([#62905](https://github.com/CleverRaven/Cataclysm-DDA/pull/62905))
 * Birb nests and egg foraging tweaks ([#62922](https://github.com/CleverRaven/Cataclysm-DDA/pull/62922))
 
@@ -155,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2023-01-06-0933 ([28d1538](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-06-0933))
 
 * added lengths for EXODII Mags and the MDS ([#62972](https://github.com/CleverRaven/Cataclysm-DDA/pull/62972))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-06-0458 ([f05dcdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-06-0458))
-
 * [Innawood] Remove adze from tools_common_small item group ([#63001](https://github.com/CleverRaven/Cataclysm-DDA/pull/63001))
 * Disable NPCs triggering spell learned achievements ([#62984](https://github.com/CleverRaven/Cataclysm-DDA/pull/62984))
 * Fix typos in error message ([#62982](https://github.com/CleverRaven/Cataclysm-DDA/pull/62982))
