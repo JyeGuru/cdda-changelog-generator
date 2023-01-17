@@ -1,3 +1,5 @@
+* Fix consume EOC double fire (#63112)
+* Resolve clang-tidy warning in diary_ui.cpp (#63115)
 * Sonia can now talk about her recent past (#63140)
 
 Cataclysm-DDA experimental build 2023-01-17-1132 (5fb4468)
@@ -132,5 +134,3 @@ Cataclysm-DDA experimental build 2023-01-07-0353 (29ca978)
 * fix: don't mark string freeze issues as stale (#62887)
 * aftershock/maps: fix elevator in municipal reactor (#62879)
 * Readjusts gun and ammo spawns in hunting stores. (#62857)
-* glock 22 should spawn with usable ammo (#62853)
-* Don't allow parts with carried_flag act as structure parts (#62851)
