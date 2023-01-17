@@ -1,3 +1,10 @@
+* Sonia can now talk about her recent past ([#63140](https://github.com/CleverRaven/Cataclysm-DDA/pull/63140))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-17-1132 ([5fb4468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-1132))
+
+* De-duplicate zinc powder recipe ([#63143](https://github.com/CleverRaven/Cataclysm-DDA/pull/63143))
 
 ---
 
@@ -152,13 +159,7 @@
 
 * Fix #62103 Laser pistol holster crash ([#63014](https://github.com/CleverRaven/Cataclysm-DDA/pull/63014))
 * Fix erroneous result volume display in crafting gui ([#63015](https://github.com/CleverRaven/Cataclysm-DDA/pull/63015))
-* Added several costumes to Cosplay mission ([#62846](https://github.com/CleverRaven/Cataclysm-DDA/pull/62846))
 * fix: drops of profession flavored zombies ([#62877](https://github.com/CleverRaven/Cataclysm-DDA/pull/62877))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-06-0933 ([28d1538](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-06-0933))
-
 * added lengths for EXODII Mags and the MDS ([#62972](https://github.com/CleverRaven/Cataclysm-DDA/pull/62972))
 * [Innawood] Remove adze from tools_common_small item group ([#63001](https://github.com/CleverRaven/Cataclysm-DDA/pull/63001))
 * Disable NPCs triggering spell learned achievements ([#62984](https://github.com/CleverRaven/Cataclysm-DDA/pull/62984))
@@ -198,5 +199,4 @@
 * aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
 * Readjusts gun and ammo spawns in hunting stores. ([#62857](https://github.com/CleverRaven/Cataclysm-DDA/pull/62857))
 * glock 22 should spawn with usable ammo ([#62853](https://github.com/CleverRaven/Cataclysm-DDA/pull/62853))
-* Routine i18n updates on 24 December 2022 ([#62850](https://github.com/CleverRaven/Cataclysm-DDA/pull/62850))
 * Don't allow parts with carried_flag act as structure parts ([#62851](https://github.com/CleverRaven/Cataclysm-DDA/pull/62851))
