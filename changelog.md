@@ -1,3 +1,4 @@
+* Fix reinforced_glass_sheet recipe weight and volume inconsistency ([#63060](https://github.com/CleverRaven/Cataclysm-DDA/pull/63060))
 * Fix consume EOC double fire ([#63112](https://github.com/CleverRaven/Cataclysm-DDA/pull/63112))
 * Resolve clang-tidy warning in diary_ui.cpp ([#63115](https://github.com/CleverRaven/Cataclysm-DDA/pull/63115))
 * Sonia can now talk about her recent past ([#63140](https://github.com/CleverRaven/Cataclysm-DDA/pull/63140))
@@ -177,7 +178,6 @@
 * [Xedra Evolved] Fix the mod has lack of own mana bar ([#62949](https://github.com/CleverRaven/Cataclysm-DDA/pull/62949))
 * Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
 * Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
-* Add messages for more cases of pocket overflow ([#62856](https://github.com/CleverRaven/Cataclysm-DDA/pull/62856))
 * Evac Shelter pencils now spawn with charges. ([#62859](https://github.com/CleverRaven/Cataclysm-DDA/pull/62859))
 * fix: Remove extra anvil from workshop recipe ([#62921](https://github.com/CleverRaven/Cataclysm-DDA/pull/62921))
 * Lowered durability of extra light quarterpanel ([#62870](https://github.com/CleverRaven/Cataclysm-DDA/pull/62870))
