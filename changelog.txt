@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-01-18-0608 (677f2be)
+* Add/update dumpster disassembly and bash products (#63144)
+
 Cataclysm-DDA experimental build 2023-01-17-1252 (950acde)
 * Fix reinforced_glass_sheet recipe weight and volume inconsistency (#63060)
 * Fix consume EOC double fire (#63112)
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2023-01-08-0614 (2e49340)
 
 Cataclysm-DDA experimental build 2023-01-07-0613 (c4b3769)
 * Routine i18n updates on 07 January 2023 (#63021)
-
-Cataclysm-DDA experimental build 2023-01-07-0353 (29ca978)
 * Fix #62103 Laser pistol holster crash (#63014)
 * Fix erroneous result volume display in crafting gui (#63015)
 * fix: drops of profession flavored zombies (#62877)
@@ -114,7 +115,6 @@ Cataclysm-DDA experimental build 2023-01-07-0353 (29ca978)
 * [Xedra Evolved] Fix the mod has lack of own mana bar (#62949)
 * Mitigate overflow in construction progress (#62970)
 * Routine tileset updates on 01 January 2023 (#62962)
-* Evac Shelter pencils now spawn with charges. (#62859)
 * fix: Remove extra anvil from workshop recipe (#62921)
 * Lowered durability of extra light quarterpanel (#62870)
 * Misc mapgen fixes (#62874)

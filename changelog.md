@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-18-0608 ([677f2be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-18-0608))
+
+* Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-17-1252 ([950acde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-1252))
 
 * Fix reinforced_glass_sheet recipe weight and volume inconsistency ([#63060](https://github.com/CleverRaven/Cataclysm-DDA/pull/63060))
@@ -160,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2023-01-07-0613 ([c4b3769](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-07-0613))
 
 * Routine i18n updates on 07 January 2023 ([#63021](https://github.com/CleverRaven/Cataclysm-DDA/pull/63021))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-07-0353 ([29ca978](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-07-0353))
-
 * Fix #62103 Laser pistol holster crash ([#63014](https://github.com/CleverRaven/Cataclysm-DDA/pull/63014))
 * Fix erroneous result volume display in crafting gui ([#63015](https://github.com/CleverRaven/Cataclysm-DDA/pull/63015))
 * fix: drops of profession flavored zombies ([#62877](https://github.com/CleverRaven/Cataclysm-DDA/pull/62877))
@@ -183,7 +184,6 @@
 * [Xedra Evolved] Fix the mod has lack of own mana bar ([#62949](https://github.com/CleverRaven/Cataclysm-DDA/pull/62949))
 * Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
 * Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
-* Evac Shelter pencils now spawn with charges. ([#62859](https://github.com/CleverRaven/Cataclysm-DDA/pull/62859))
 * fix: Remove extra anvil from workshop recipe ([#62921](https://github.com/CleverRaven/Cataclysm-DDA/pull/62921))
 * Lowered durability of extra light quarterpanel ([#62870](https://github.com/CleverRaven/Cataclysm-DDA/pull/62870))
 * Misc mapgen fixes ([#62874](https://github.com/CleverRaven/Cataclysm-DDA/pull/62874))
