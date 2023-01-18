@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-18-1633 ([db714a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-18-1633))
+
+* Shell mutation ordering ([#63166](https://github.com/CleverRaven/Cataclysm-DDA/pull/63166))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-18-0608 ([677f2be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-18-0608))
 
 * Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
@@ -91,12 +97,6 @@
 #### Cataclysm-DDA experimental build 2023-01-13-1239 ([3d8cfa8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-1239))
 
 * fixes dark sight's duration increment ([#63044](https://github.com/CleverRaven/Cataclysm-DDA/pull/63044))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-12-0640 ([05524df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-12-0640))
-
-* Adjust deconstruction recipes for patchwork cotton sheets ([#62862](https://github.com/CleverRaven/Cataclysm-DDA/pull/62862))
 * Make `Character::best_item_with_quality` examine items non-recursively ([#63048](https://github.com/CleverRaven/Cataclysm-DDA/pull/63048))
 * Remove portal storm monsters ability to open doors ([#63053](https://github.com/CleverRaven/Cataclysm-DDA/pull/63053))
 
@@ -160,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2023-01-08-0614 ([2e49340](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-08-0614))
 
 * AT4 Fixes ([#63013](https://github.com/CleverRaven/Cataclysm-DDA/pull/63013))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-07-0613 ([c4b3769](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-07-0613))
-
 * Routine i18n updates on 07 January 2023 ([#63021](https://github.com/CleverRaven/Cataclysm-DDA/pull/63021))
 * Fix #62103 Laser pistol holster crash ([#63014](https://github.com/CleverRaven/Cataclysm-DDA/pull/63014))
 * Fix erroneous result volume display in crafting gui ([#63015](https://github.com/CleverRaven/Cataclysm-DDA/pull/63015))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-01-18-1633 (db714a1)
+* Shell mutation ordering (#63166)
+
 Cataclysm-DDA experimental build 2023-01-18-0608 (677f2be)
 * Add/update dumpster disassembly and bash products (#63144)
 
@@ -49,9 +52,6 @@ Cataclysm-DDA experimental build 2023-01-13-1340 (1542f97)
 
 Cataclysm-DDA experimental build 2023-01-13-1239 (3d8cfa8)
 * fixes dark sight's duration increment (#63044)
-
-Cataclysm-DDA experimental build 2023-01-12-0640 (05524df)
-* Adjust deconstruction recipes for patchwork cotton sheets (#62862)
 * Make `Character::best_item_with_quality` examine items non-recursively (#63048)
 * Remove portal storm monsters ability to open doors (#63053)
 
@@ -94,8 +94,6 @@ Cataclysm-DDA experimental build 2023-01-09-0348 (0d36b18)
 
 Cataclysm-DDA experimental build 2023-01-08-0614 (2e49340)
 * AT4 Fixes (#63013)
-
-Cataclysm-DDA experimental build 2023-01-07-0613 (c4b3769)
 * Routine i18n updates on 07 January 2023 (#63021)
 * Fix #62103 Laser pistol holster crash (#63014)
 * Fix erroneous result volume display in crafting gui (#63015)
