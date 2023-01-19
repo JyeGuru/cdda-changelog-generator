@@ -1,3 +1,4 @@
+* Adjust `f_metal_trashcan` construct, bash & disassembly ([#63168](https://github.com/CleverRaven/Cataclysm-DDA/pull/63168))
 
 ---
 
@@ -193,7 +194,6 @@
 * Why no PALS comment on the MDS ([#62934](https://github.com/CleverRaven/Cataclysm-DDA/pull/62934))
 * Factor character stance into Creature::ranged_target_size ([#62940](https://github.com/CleverRaven/Cataclysm-DDA/pull/62940))
 * map:  update active items cache when removing contents ([#62916](https://github.com/CleverRaven/Cataclysm-DDA/pull/62916))
-* Turn engines on by default only for non-owned vehicles ([#62867](https://github.com/CleverRaven/Cataclysm-DDA/pull/62867))
 * chore: remove lgtm from README ([#62893](https://github.com/CleverRaven/Cataclysm-DDA/pull/62893))
 * Routine tileset updates on 25 December 2022 ([#62876](https://github.com/CleverRaven/Cataclysm-DDA/pull/62876))
 * Adjusted hiking bag sheaths ([#62886](https://github.com/CleverRaven/Cataclysm-DDA/pull/62886))

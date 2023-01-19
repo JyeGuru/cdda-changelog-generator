@@ -1,3 +1,4 @@
+* Adjust `f_metal_trashcan` construct, bash & disassembly (#63168)
 
 Cataclysm-DDA experimental build 2023-01-18-1633 (db714a1)
 * Shell mutation ordering (#63166)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2023-01-08-0614 (2e49340)
 * Why no PALS comment on the MDS (#62934)
 * Factor character stance into Creature::ranged_target_size (#62940)
 * map:  update active items cache when removing contents (#62916)
-* Turn engines on by default only for non-owned vehicles (#62867)
 * chore: remove lgtm from README (#62893)
 * Routine tileset updates on 25 December 2022 (#62876)
 * Adjusted hiking bag sheaths (#62886)
