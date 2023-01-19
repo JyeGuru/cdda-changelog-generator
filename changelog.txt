@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-01-19-0645 (c033542)
 * Adjust `f_metal_trashcan` construct, bash & disassembly (#63168)
 
 Cataclysm-DDA experimental build 2023-01-18-1633 (db714a1)
@@ -92,8 +94,6 @@ Cataclysm-DDA experimental build 2023-01-09-0348 (0d36b18)
 * Remove padding from structured/compact safe+mood sidebar widget (#63036)
 * skeletal bite and grab fixes (#63017)
 * Fix duplicate `tailoring_nylon_patchwork` recipe / Nerf synth fabric crafting (#63031)
-
-Cataclysm-DDA experimental build 2023-01-08-0614 (2e49340)
 * AT4 Fixes (#63013)
 * Routine i18n updates on 07 January 2023 (#63021)
 * Fix #62103 Laser pistol holster crash (#63014)

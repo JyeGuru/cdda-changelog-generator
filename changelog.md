@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-19-0645 ([c033542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-19-0645))
+
 * Adjust `f_metal_trashcan` construct, bash & disassembly ([#63168](https://github.com/CleverRaven/Cataclysm-DDA/pull/63168))
 
 ---
@@ -155,11 +160,6 @@
 * Remove padding from structured/compact safe+mood sidebar widget ([#63036](https://github.com/CleverRaven/Cataclysm-DDA/pull/63036))
 * skeletal bite and grab fixes ([#63017](https://github.com/CleverRaven/Cataclysm-DDA/pull/63017))
 * Fix duplicate `tailoring_nylon_patchwork` recipe / Nerf synth fabric crafting ([#63031](https://github.com/CleverRaven/Cataclysm-DDA/pull/63031))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-08-0614 ([2e49340](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-08-0614))
-
 * AT4 Fixes ([#63013](https://github.com/CleverRaven/Cataclysm-DDA/pull/63013))
 * Routine i18n updates on 07 January 2023 ([#63021](https://github.com/CleverRaven/Cataclysm-DDA/pull/63021))
 * Fix #62103 Laser pistol holster crash ([#63014](https://github.com/CleverRaven/Cataclysm-DDA/pull/63014))
