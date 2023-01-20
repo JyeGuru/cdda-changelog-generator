@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-20-1349 ([02df847](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-20-1349))
+
+* Set Saddlebag's primary skill to tailoring (from none) ([#63170](https://github.com/CleverRaven/Cataclysm-DDA/pull/63170))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-19-0645 ([c033542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-19-0645))
 
 * Adjust `f_metal_trashcan` construct, bash & disassembly ([#63168](https://github.com/CleverRaven/Cataclysm-DDA/pull/63168))
@@ -181,7 +187,6 @@
 * Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
 * Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
 * fix: Remove extra anvil from workshop recipe ([#62921](https://github.com/CleverRaven/Cataclysm-DDA/pull/62921))
-* Lowered durability of extra light quarterpanel ([#62870](https://github.com/CleverRaven/Cataclysm-DDA/pull/62870))
 * Misc mapgen fixes ([#62874](https://github.com/CleverRaven/Cataclysm-DDA/pull/62874))
 * Update stale exclusion labels ([#62888](https://github.com/CleverRaven/Cataclysm-DDA/pull/62888))
 * [Magiclysm] balance tweaks ([#62900](https://github.com/CleverRaven/Cataclysm-DDA/pull/62900))
