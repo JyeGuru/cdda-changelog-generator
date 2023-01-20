@@ -187,7 +187,6 @@
 * Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
 * Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
 * fix: Remove extra anvil from workshop recipe ([#62921](https://github.com/CleverRaven/Cataclysm-DDA/pull/62921))
-* Misc mapgen fixes ([#62874](https://github.com/CleverRaven/Cataclysm-DDA/pull/62874))
 * Update stale exclusion labels ([#62888](https://github.com/CleverRaven/Cataclysm-DDA/pull/62888))
 * [Magiclysm] balance tweaks ([#62900](https://github.com/CleverRaven/Cataclysm-DDA/pull/62900))
 * drop leg pouches fix ([#62913](https://github.com/CleverRaven/Cataclysm-DDA/pull/62913))
