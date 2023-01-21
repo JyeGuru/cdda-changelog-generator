@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-21-2015 ([2ed6865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-21-2015))
+
 * Fix MSVC CI build failures ([#63214](https://github.com/CleverRaven/Cataclysm-DDA/pull/63214))
 * Add `FISH_TRAP` tool quality so that NPCs can use either kind of fish trap ([#63224](https://github.com/CleverRaven/Cataclysm-DDA/pull/63224))
 * Don't accidentally remove actual ram when the car is shoved ([#63217](https://github.com/CleverRaven/Cataclysm-DDA/pull/63217))
