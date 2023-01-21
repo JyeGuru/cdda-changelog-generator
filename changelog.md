@@ -1,3 +1,11 @@
+* Add `FISH_TRAP` tool quality so that NPCs can use either kind of fish trap ([#63224](https://github.com/CleverRaven/Cataclysm-DDA/pull/63224))
+* Don't accidentally remove actual ram when the car is shoved ([#63217](https://github.com/CleverRaven/Cataclysm-DDA/pull/63217))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-21-1857 ([207b3a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-21-1857))
+
+* [Innawood] Autolearn crafting different grades of steel ([#63218](https://github.com/CleverRaven/Cataclysm-DDA/pull/63218))
 
 ---
 
@@ -28,10 +36,20 @@
 #### Cataclysm-DDA experimental build 2023-01-18-0608 ([677f2be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-18-0608))
 
 * Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-17-1252 ([950acde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-1252))
+
 * Fix reinforced_glass_sheet recipe weight and volume inconsistency ([#63060](https://github.com/CleverRaven/Cataclysm-DDA/pull/63060))
 * Fix consume EOC double fire ([#63112](https://github.com/CleverRaven/Cataclysm-DDA/pull/63112))
 * Resolve clang-tidy warning in diary_ui.cpp ([#63115](https://github.com/CleverRaven/Cataclysm-DDA/pull/63115))
 * Sonia can now talk about her recent past ([#63140](https://github.com/CleverRaven/Cataclysm-DDA/pull/63140))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-17-1132 ([5fb4468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-1132))
+
 * De-duplicate zinc powder recipe ([#63143](https://github.com/CleverRaven/Cataclysm-DDA/pull/63143))
 
 ---
@@ -137,20 +155,9 @@
 #### Cataclysm-DDA experimental build 2023-01-09-0857 ([fbdb628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-09-0857))
 
 * Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
-* Added Foot attack vector to Kumai Sharinraku ([#62878](https://github.com/CleverRaven/Cataclysm-DDA/pull/62878))
 * fix: reduce isherwoods weapon options ([#62905](https://github.com/CleverRaven/Cataclysm-DDA/pull/62905))
 * Birb nests and egg foraging tweaks ([#62922](https://github.com/CleverRaven/Cataclysm-DDA/pull/62922))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-09-0614 ([c1e1976](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-09-0614))
-
 * Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-09-0348 ([0d36b18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-09-0348))
-
 * rebreather mask padding  ([#63008](https://github.com/CleverRaven/Cataclysm-DDA/pull/63008))
 * Change how projectile trajectories are calculated. ([#63007](https://github.com/CleverRaven/Cataclysm-DDA/pull/63007))
 * Add spinner for overmap pathfinding ([#62985](https://github.com/CleverRaven/Cataclysm-DDA/pull/62985))
@@ -166,7 +173,6 @@
 * Routine i18n updates on 07 January 2023 ([#63021](https://github.com/CleverRaven/Cataclysm-DDA/pull/63021))
 * Fix #62103 Laser pistol holster crash ([#63014](https://github.com/CleverRaven/Cataclysm-DDA/pull/63014))
 * Fix erroneous result volume display in crafting gui ([#63015](https://github.com/CleverRaven/Cataclysm-DDA/pull/63015))
-* fix: drops of profession flavored zombies ([#62877](https://github.com/CleverRaven/Cataclysm-DDA/pull/62877))
 * added lengths for EXODII Mags and the MDS ([#62972](https://github.com/CleverRaven/Cataclysm-DDA/pull/62972))
 * [Innawood] Remove adze from tools_common_small item group ([#63001](https://github.com/CleverRaven/Cataclysm-DDA/pull/63001))
 * Disable NPCs triggering spell learned achievements ([#62984](https://github.com/CleverRaven/Cataclysm-DDA/pull/62984))
@@ -197,4 +203,3 @@
 * chore: remove lgtm from README ([#62893](https://github.com/CleverRaven/Cataclysm-DDA/pull/62893))
 * Adjusted hiking bag sheaths ([#62886](https://github.com/CleverRaven/Cataclysm-DDA/pull/62886))
 * fix: don't mark string freeze issues as stale ([#62887](https://github.com/CleverRaven/Cataclysm-DDA/pull/62887))
-* aftershock/maps: fix elevator in municipal reactor ([#62879](https://github.com/CleverRaven/Cataclysm-DDA/pull/62879))
