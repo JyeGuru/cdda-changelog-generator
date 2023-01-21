@@ -207,5 +207,4 @@
 * Factor character stance into Creature::ranged_target_size ([#62940](https://github.com/CleverRaven/Cataclysm-DDA/pull/62940))
 * map:  update active items cache when removing contents ([#62916](https://github.com/CleverRaven/Cataclysm-DDA/pull/62916))
 * chore: remove lgtm from README ([#62893](https://github.com/CleverRaven/Cataclysm-DDA/pull/62893))
-* Adjusted hiking bag sheaths ([#62886](https://github.com/CleverRaven/Cataclysm-DDA/pull/62886))
 * fix: don't mark string freeze issues as stale ([#62887](https://github.com/CleverRaven/Cataclysm-DDA/pull/62887))
