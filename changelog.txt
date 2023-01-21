@@ -13,14 +13,10 @@ Cataclysm-DDA experimental build 2023-01-18-1633 (db714a1)
 
 Cataclysm-DDA experimental build 2023-01-18-0608 (677f2be)
 * Add/update dumpster disassembly and bash products (#63144)
-
-Cataclysm-DDA experimental build 2023-01-17-1252 (950acde)
 * Fix reinforced_glass_sheet recipe weight and volume inconsistency (#63060)
 * Fix consume EOC double fire (#63112)
 * Resolve clang-tidy warning in diary_ui.cpp (#63115)
 * Sonia can now talk about her recent past (#63140)
-
-Cataclysm-DDA experimental build 2023-01-17-1132 (5fb4468)
 * De-duplicate zinc powder recipe (#63143)
 
 Cataclysm-DDA experimental build 2023-01-17-0612 (5832288)
@@ -87,6 +83,8 @@ Cataclysm-DDA experimental build 2023-01-09-0857 (fbdb628)
 
 Cataclysm-DDA experimental build 2023-01-09-0614 (c1e1976)
 * Routine tileset updates on 08 January 2023 (#63042)
+
+Cataclysm-DDA experimental build 2023-01-09-0348 (0d36b18)
 * rebreather mask padding  (#63008)
 * Change how projectile trajectories are calculated. (#63007)
 * Add spinner for overmap pathfinding (#62985)

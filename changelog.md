@@ -28,20 +28,10 @@
 #### Cataclysm-DDA experimental build 2023-01-18-0608 ([677f2be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-18-0608))
 
 * Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-17-1252 ([950acde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-1252))
-
 * Fix reinforced_glass_sheet recipe weight and volume inconsistency ([#63060](https://github.com/CleverRaven/Cataclysm-DDA/pull/63060))
 * Fix consume EOC double fire ([#63112](https://github.com/CleverRaven/Cataclysm-DDA/pull/63112))
 * Resolve clang-tidy warning in diary_ui.cpp ([#63115](https://github.com/CleverRaven/Cataclysm-DDA/pull/63115))
 * Sonia can now talk about her recent past ([#63140](https://github.com/CleverRaven/Cataclysm-DDA/pull/63140))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-17-1132 ([5fb4468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-1132))
-
 * De-duplicate zinc powder recipe ([#63143](https://github.com/CleverRaven/Cataclysm-DDA/pull/63143))
 
 ---
@@ -156,6 +146,11 @@
 #### Cataclysm-DDA experimental build 2023-01-09-0614 ([c1e1976](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-09-0614))
 
 * Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-09-0348 ([0d36b18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-09-0348))
+
 * rebreather mask padding  ([#63008](https://github.com/CleverRaven/Cataclysm-DDA/pull/63008))
 * Change how projectile trajectories are calculated. ([#63007](https://github.com/CleverRaven/Cataclysm-DDA/pull/63007))
 * Add spinner for overmap pathfinding ([#62985](https://github.com/CleverRaven/Cataclysm-DDA/pull/62985))
