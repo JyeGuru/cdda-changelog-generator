@@ -1,3 +1,5 @@
+* [ASCIITileset] Change Unknow terrain to use the unseen sprite ([#63222](https://github.com/CleverRaven/Cataclysm-DDA/pull/63222))
+* Better EOC variable messages ([#63228](https://github.com/CleverRaven/Cataclysm-DDA/pull/63228))
 
 ---
 
@@ -196,7 +198,6 @@
 * Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
 * Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
 * fix: Remove extra anvil from workshop recipe ([#62921](https://github.com/CleverRaven/Cataclysm-DDA/pull/62921))
-* Update stale exclusion labels ([#62888](https://github.com/CleverRaven/Cataclysm-DDA/pull/62888))
 * [Magiclysm] balance tweaks ([#62900](https://github.com/CleverRaven/Cataclysm-DDA/pull/62900))
 * drop leg pouches fix ([#62913](https://github.com/CleverRaven/Cataclysm-DDA/pull/62913))
 * Rotate farm tiles ([#62901](https://github.com/CleverRaven/Cataclysm-DDA/pull/62901))
@@ -207,4 +208,3 @@
 * Why no PALS comment on the MDS ([#62934](https://github.com/CleverRaven/Cataclysm-DDA/pull/62934))
 * Factor character stance into Creature::ranged_target_size ([#62940](https://github.com/CleverRaven/Cataclysm-DDA/pull/62940))
 * map:  update active items cache when removing contents ([#62916](https://github.com/CleverRaven/Cataclysm-DDA/pull/62916))
-* chore: remove lgtm from README ([#62893](https://github.com/CleverRaven/Cataclysm-DDA/pull/62893))
