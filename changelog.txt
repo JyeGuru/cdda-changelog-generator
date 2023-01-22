@@ -1,3 +1,5 @@
+* Correct chemical byproduct charges by using byproduct_group (#63137)
+* Remove an erroneous dialogue response in the faction camp tutorial (#63146)
 * NPCs documentation cleanup (#63153)
 
 Cataclysm-DDA experimental build 2023-01-22-0846 (c2a599a)
@@ -132,7 +134,5 @@ Cataclysm-DDA experimental build 2023-01-11-0634 (bb53c11)
 * [Xedra Evolved] Fix the mod has lack of own mana bar (#62949)
 * Mitigate overflow in construction progress (#62970)
 * Routine tileset updates on 01 January 2023 (#62962)
-* [Mapgen] Some Exodii base fixes (#62931)
 * Routine i18n updates on 31 December 2022 (#62942)
-* Why no PALS comment on the MDS (#62934)
 * Factor character stance into Creature::ranged_target_size (#62940)

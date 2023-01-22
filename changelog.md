@@ -1,3 +1,5 @@
+* Correct chemical byproduct charges by using byproduct_group ([#63137](https://github.com/CleverRaven/Cataclysm-DDA/pull/63137))
+* Remove an erroneous dialogue response in the faction camp tutorial ([#63146](https://github.com/CleverRaven/Cataclysm-DDA/pull/63146))
 * NPCs documentation cleanup ([#63153](https://github.com/CleverRaven/Cataclysm-DDA/pull/63153))
 
 ---
@@ -204,7 +206,5 @@
 * [Xedra Evolved] Fix the mod has lack of own mana bar ([#62949](https://github.com/CleverRaven/Cataclysm-DDA/pull/62949))
 * Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
 * Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
-* [Mapgen] Some Exodii base fixes ([#62931](https://github.com/CleverRaven/Cataclysm-DDA/pull/62931))
 * Routine i18n updates on 31 December 2022 ([#62942](https://github.com/CleverRaven/Cataclysm-DDA/pull/62942))
-* Why no PALS comment on the MDS ([#62934](https://github.com/CleverRaven/Cataclysm-DDA/pull/62934))
 * Factor character stance into Creature::ranged_target_size ([#62940](https://github.com/CleverRaven/Cataclysm-DDA/pull/62940))
