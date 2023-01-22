@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2023-01-22-1718 (b96b791)
+* RELEASE_DIFF.md code annotation (#63239)
 * fix typo in generate_overlay_ids.py (#63240)
 
 Cataclysm-DDA experimental build 2023-01-22-1006 (27d6b46)
@@ -139,4 +142,3 @@ Cataclysm-DDA experimental build 2023-01-11-0634 (bb53c11)
 * [Xedra Evolved] Fix the mod has lack of own mana bar (#62949)
 * Mitigate overflow in construction progress (#62970)
 * Routine tileset updates on 01 January 2023 (#62962)
-* Routine i18n updates on 31 December 2022 (#62942)
