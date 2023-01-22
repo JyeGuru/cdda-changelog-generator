@@ -1,3 +1,4 @@
+* fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 
 ---
 
@@ -214,4 +215,3 @@
 * Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
 * Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
 * Routine i18n updates on 31 December 2022 ([#62942](https://github.com/CleverRaven/Cataclysm-DDA/pull/62942))
-* Factor character stance into Creature::ranged_target_size ([#62940](https://github.com/CleverRaven/Cataclysm-DDA/pull/62940))
