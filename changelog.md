@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-22-1006 ([27d6b46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-22-1006))
+
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
 * Portal storm mission fixes ([#63111](https://github.com/CleverRaven/Cataclysm-DDA/pull/63111))
 * Remove an erroneous followup to Helena's final mission ([#63113](https://github.com/CleverRaven/Cataclysm-DDA/pull/63113))
