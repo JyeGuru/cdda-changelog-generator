@@ -1,3 +1,4 @@
+* Migrate from set-output to GITHUB_OUTPUT ([#63169](https://github.com/CleverRaven/Cataclysm-DDA/pull/63169))
 * Prevent loot-generation errors during ranged_balance_test ([#63174](https://github.com/CleverRaven/Cataclysm-DDA/pull/63174))
 * Remove Ultica_iso from overmap tilesets ([#63177](https://github.com/CleverRaven/Cataclysm-DDA/pull/63177))
 * Use fake curtains to block vision ([#63181](https://github.com/CleverRaven/Cataclysm-DDA/pull/63181))
@@ -203,7 +204,6 @@
 * [Xedra Evolved] Fix the mod has lack of own mana bar ([#62949](https://github.com/CleverRaven/Cataclysm-DDA/pull/62949))
 * Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
 * Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
-* fix: Remove extra anvil from workshop recipe ([#62921](https://github.com/CleverRaven/Cataclysm-DDA/pull/62921))
 * [Mapgen] Some Exodii base fixes ([#62931](https://github.com/CleverRaven/Cataclysm-DDA/pull/62931))
 * Routine i18n updates on 31 December 2022 ([#62942](https://github.com/CleverRaven/Cataclysm-DDA/pull/62942))
 * Why no PALS comment on the MDS ([#62934](https://github.com/CleverRaven/Cataclysm-DDA/pull/62934))
