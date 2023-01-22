@@ -1,3 +1,4 @@
+* Add bodygraph with wetness data ([#63158](https://github.com/CleverRaven/Cataclysm-DDA/pull/63158))
 * Migrate from set-output to GITHUB_OUTPUT ([#63169](https://github.com/CleverRaven/Cataclysm-DDA/pull/63169))
 * Prevent loot-generation errors during ranged_balance_test ([#63174](https://github.com/CleverRaven/Cataclysm-DDA/pull/63174))
 * Remove Ultica_iso from overmap tilesets ([#63177](https://github.com/CleverRaven/Cataclysm-DDA/pull/63177))
@@ -172,7 +173,6 @@
 
 * Beefs .357 SIG’s armour penetration. ([#62994](https://github.com/CleverRaven/Cataclysm-DDA/pull/62994))
 * Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
-* Birb nests and egg foraging tweaks ([#62922](https://github.com/CleverRaven/Cataclysm-DDA/pull/62922))
 * Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
 * rebreather mask padding  ([#63008](https://github.com/CleverRaven/Cataclysm-DDA/pull/63008))
 * Change how projectile trajectories are calculated. ([#63007](https://github.com/CleverRaven/Cataclysm-DDA/pull/63007))
