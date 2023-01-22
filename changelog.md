@@ -1,3 +1,9 @@
+* NPCs documentation cleanup ([#63153](https://github.com/CleverRaven/Cataclysm-DDA/pull/63153))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-22-0846 ([c2a599a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-22-0846))
+
 * Add bodygraph with wetness data ([#63158](https://github.com/CleverRaven/Cataclysm-DDA/pull/63158))
 * Migrate from set-output to GITHUB_OUTPUT ([#63169](https://github.com/CleverRaven/Cataclysm-DDA/pull/63169))
 * Prevent loot-generation errors during ranged_balance_test ([#63174](https://github.com/CleverRaven/Cataclysm-DDA/pull/63174))
@@ -154,7 +160,6 @@
 #### Cataclysm-DDA experimental build 2023-01-12-0530 ([bec36d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-12-0530))
 
 * Add obsoletion entries ([#63079](https://github.com/CleverRaven/Cataclysm-DDA/pull/63079))
-* Fix some metal material thermochemical properties ([#62927](https://github.com/CleverRaven/Cataclysm-DDA/pull/62927))
 * Migrate remaining farms to the farm mutable, misc map updates ([#62955](https://github.com/CleverRaven/Cataclysm-DDA/pull/62955))
 * Aftershock Post Thresh Mood Faces ([#63046](https://github.com/CleverRaven/Cataclysm-DDA/pull/63046))
 * construction: fix construction loops ([#63070](https://github.com/CleverRaven/Cataclysm-DDA/pull/63070))
@@ -166,11 +171,6 @@
 * Fixes for map revert ([#63043](https://github.com/CleverRaven/Cataclysm-DDA/pull/63043))
 * Remove five pin bow sight crafting recipe ([#63058](https://github.com/CleverRaven/Cataclysm-DDA/pull/63058))
 * ursine faces ([#62975](https://github.com/CleverRaven/Cataclysm-DDA/pull/62975))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-10-0621 ([3e8193a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-10-0621))
-
 * Beefs .357 SIG’s armour penetration. ([#62994](https://github.com/CleverRaven/Cataclysm-DDA/pull/62994))
 * Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
 * Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
