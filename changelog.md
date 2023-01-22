@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-22-0710 ([ac2131a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-22-0710))
+
+* use open glass door looks-like for open red & green glass door ([#63193](https://github.com/CleverRaven/Cataclysm-DDA/pull/63193))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-21-2015 ([2ed6865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-21-2015))
 
 * Fix MSVC CI build failures ([#63214](https://github.com/CleverRaven/Cataclysm-DDA/pull/63214))
@@ -155,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2023-01-10-0621 ([3e8193a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-10-0621))
 
 * Beefs .357 SIG’s armour penetration. ([#62994](https://github.com/CleverRaven/Cataclysm-DDA/pull/62994))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-09-0857 ([fbdb628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-09-0857))
-
 * Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
 * fix: reduce isherwoods weapon options ([#62905](https://github.com/CleverRaven/Cataclysm-DDA/pull/62905))
 * Birb nests and egg foraging tweaks ([#62922](https://github.com/CleverRaven/Cataclysm-DDA/pull/62922))
@@ -207,4 +208,3 @@
 * Factor character stance into Creature::ranged_target_size ([#62940](https://github.com/CleverRaven/Cataclysm-DDA/pull/62940))
 * map:  update active items cache when removing contents ([#62916](https://github.com/CleverRaven/Cataclysm-DDA/pull/62916))
 * chore: remove lgtm from README ([#62893](https://github.com/CleverRaven/Cataclysm-DDA/pull/62893))
-* fix: don't mark string freeze issues as stale ([#62887](https://github.com/CleverRaven/Cataclysm-DDA/pull/62887))
