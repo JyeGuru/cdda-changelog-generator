@@ -1,3 +1,6 @@
+* Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))
+* Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
+* Fix CANNIBAL trait check in Smokes dialog ([#63241](https://github.com/CleverRaven/Cataclysm-DDA/pull/63241))
 
 ---
 
@@ -221,6 +224,3 @@
 * tests/map: fix setup for inactive_container_with_active_contents ([#62979](https://github.com/CleverRaven/Cataclysm-DDA/pull/62979))
 * Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` ([#62988](https://github.com/CleverRaven/Cataclysm-DDA/pull/62988))
 * [Magiclysm] Endless Teapot ([#62980](https://github.com/CleverRaven/Cataclysm-DDA/pull/62980))
-* Fix crash in item_location serialization ([#62960](https://github.com/CleverRaven/Cataclysm-DDA/pull/62960))
-* Mitigate overflow in construction progress ([#62970](https://github.com/CleverRaven/Cataclysm-DDA/pull/62970))
-* Routine tileset updates on 01 January 2023 ([#62962](https://github.com/CleverRaven/Cataclysm-DDA/pull/62962))
