@@ -1,3 +1,4 @@
+* Fix display of body status info ([#63160](https://github.com/CleverRaven/Cataclysm-DDA/pull/63160))
 * Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))
 * Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
 * Fix CANNIBAL trait check in Smokes dialog ([#63241](https://github.com/CleverRaven/Cataclysm-DDA/pull/63241))
@@ -215,7 +216,6 @@
 * Routine i18n updates on 07 January 2023 ([#63021](https://github.com/CleverRaven/Cataclysm-DDA/pull/63021))
 * Fix #62103 Laser pistol holster crash ([#63014](https://github.com/CleverRaven/Cataclysm-DDA/pull/63014))
 * Fix erroneous result volume display in crafting gui ([#63015](https://github.com/CleverRaven/Cataclysm-DDA/pull/63015))
-* added lengths for EXODII Mags and the MDS ([#62972](https://github.com/CleverRaven/Cataclysm-DDA/pull/62972))
 * [Innawood] Remove adze from tools_common_small item group ([#63001](https://github.com/CleverRaven/Cataclysm-DDA/pull/63001))
 * Disable NPCs triggering spell learned achievements ([#62984](https://github.com/CleverRaven/Cataclysm-DDA/pull/62984))
 * Fix typos in error message ([#62982](https://github.com/CleverRaven/Cataclysm-DDA/pull/62982))
