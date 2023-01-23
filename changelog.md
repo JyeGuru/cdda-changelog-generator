@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-23-1009 ([f5f577f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1009))
+
+* Fix display of byproduct charges in crafting gui ([#63252](https://github.com/CleverRaven/Cataclysm-DDA/pull/63252))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-23-0616 ([18389fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-0616))
 
 * Mole Crickets and Molerats can give tetanus ([#63187](https://github.com/CleverRaven/Cataclysm-DDA/pull/63187))
@@ -183,7 +189,6 @@
 #### Cataclysm-DDA experimental build 2023-01-12-0530 ([bec36d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-12-0530))
 
 * Add obsoletion entries ([#63079](https://github.com/CleverRaven/Cataclysm-DDA/pull/63079))
-* Migrate remaining farms to the farm mutable, misc map updates ([#62955](https://github.com/CleverRaven/Cataclysm-DDA/pull/62955))
 * Aftershock Post Thresh Mood Faces ([#63046](https://github.com/CleverRaven/Cataclysm-DDA/pull/63046))
 * construction: fix construction loops ([#63070](https://github.com/CleverRaven/Cataclysm-DDA/pull/63070))
 * Fixes for map revert ([#63043](https://github.com/CleverRaven/Cataclysm-DDA/pull/63043))
