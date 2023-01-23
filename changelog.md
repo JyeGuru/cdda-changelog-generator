@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-23-1430 ([c2d334f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1430))
+
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
 
 ---
