@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-23-1637 ([7921045](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1637))
+
+* Half Worm volume and mass changes ([#63189](https://github.com/CleverRaven/Cataclysm-DDA/pull/63189))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-23-1430 ([c2d334f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1430))
 
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
@@ -196,11 +202,6 @@
 
 * Fix the lumbermill trader ([#63084](https://github.com/CleverRaven/Cataclysm-DDA/pull/63084))
 * Fix a price discrepancy with the lumbermill trader ([#63085](https://github.com/CleverRaven/Cataclysm-DDA/pull/63085))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-13-1239 ([3d8cfa8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-1239))
-
 * fixes dark sight's duration increment ([#63044](https://github.com/CleverRaven/Cataclysm-DDA/pull/63044))
 * Make `Character::best_item_with_quality` examine items non-recursively ([#63048](https://github.com/CleverRaven/Cataclysm-DDA/pull/63048))
 * Remove portal storm monsters ability to open doors ([#63053](https://github.com/CleverRaven/Cataclysm-DDA/pull/63053))
@@ -233,4 +234,3 @@
 * Fix mission_start off by 1 ([#62993](https://github.com/CleverRaven/Cataclysm-DDA/pull/62993))
 * Prevent crash on no scenario ([#63010](https://github.com/CleverRaven/Cataclysm-DDA/pull/63010))
 * Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` ([#62988](https://github.com/CleverRaven/Cataclysm-DDA/pull/62988))
-* [Magiclysm] Endless Teapot ([#62980](https://github.com/CleverRaven/Cataclysm-DDA/pull/62980))
