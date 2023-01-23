@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-23-1121 ([beda1c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1121))
+
 * Fix display of body status info ([#63160](https://github.com/CleverRaven/Cataclysm-DDA/pull/63160))
 * Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))
 * Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
