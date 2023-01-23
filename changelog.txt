@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-01-23-0616 (18389fc)
+* Mole Crickets and Molerats can give tetanus (#63187)
+
 Cataclysm-DDA experimental build 2023-01-22-1718 (b96b791)
 * RELEASE_DIFF.md code annotation (#63239)
 * fix typo in generate_overlay_ids.py (#63240)
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2023-01-12-0530 (bec36d4)
 * Migrate remaining farms to the farm mutable, misc map updates (#62955)
 * Aftershock Post Thresh Mood Faces (#63046)
 * construction: fix construction loops (#63070)
-
-Cataclysm-DDA experimental build 2023-01-11-0634 (bb53c11)
 * Fixes for map revert (#63043)
 * Remove five pin bow sight crafting recipe (#63058)
 * ursine faces (#62975)
