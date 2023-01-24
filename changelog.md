@@ -231,7 +231,6 @@
 * Fix erroneous result volume display in crafting gui ([#63015](https://github.com/CleverRaven/Cataclysm-DDA/pull/63015))
 * [Innawood] Remove adze from tools_common_small item group ([#63001](https://github.com/CleverRaven/Cataclysm-DDA/pull/63001))
 * Disable NPCs triggering spell learned achievements ([#62984](https://github.com/CleverRaven/Cataclysm-DDA/pull/62984))
-* Fix typos in error message ([#62982](https://github.com/CleverRaven/Cataclysm-DDA/pull/62982))
 * Fix mission_start off by 1 ([#62993](https://github.com/CleverRaven/Cataclysm-DDA/pull/62993))
 * Prevent crash on no scenario ([#63010](https://github.com/CleverRaven/Cataclysm-DDA/pull/63010))
 * Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` ([#62988](https://github.com/CleverRaven/Cataclysm-DDA/pull/62988))
