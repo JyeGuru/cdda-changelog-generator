@@ -22,11 +22,6 @@
 #### Cataclysm-DDA experimental build 2023-01-23-1430 ([c2d334f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1430))
 
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-23-1324 ([3d83921](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1324))
-
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
 
 ---
@@ -43,11 +38,6 @@
 #### Cataclysm-DDA experimental build 2023-01-23-1009 ([f5f577f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1009))
 
 * Fix display of byproduct charges in crafting gui ([#63252](https://github.com/CleverRaven/Cataclysm-DDA/pull/63252))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-23-0616 ([18389fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-0616))
-
 * Mole Crickets and Molerats can give tetanus ([#63187](https://github.com/CleverRaven/Cataclysm-DDA/pull/63187))
 
 ---
@@ -201,7 +191,17 @@
 #### Cataclysm-DDA experimental build 2023-01-13-2311 ([b0aacac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-2311))
 
 * Enlarge body status window ([#63071](https://github.com/CleverRaven/Cataclysm-DDA/pull/63071))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-13-1441 ([10bcab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-1441))
+
 * Fix typo of `looks_like` json property ([#63098](https://github.com/CleverRaven/Cataclysm-DDA/pull/63098))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-13-1340 ([1542f97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-1340))
+
 * Fix the lumbermill trader ([#63084](https://github.com/CleverRaven/Cataclysm-DDA/pull/63084))
 * Fix a price discrepancy with the lumbermill trader ([#63085](https://github.com/CleverRaven/Cataclysm-DDA/pull/63085))
 * fixes dark sight's duration increment ([#63044](https://github.com/CleverRaven/Cataclysm-DDA/pull/63044))

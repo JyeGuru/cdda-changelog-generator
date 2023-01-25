@@ -10,8 +10,6 @@ Cataclysm-DDA experimental build 2023-01-23-1637 (7921045)
 
 Cataclysm-DDA experimental build 2023-01-23-1430 (c2d334f)
 * Speedydex bonus fix (#63175)
-
-Cataclysm-DDA experimental build 2023-01-23-1324 (3d83921)
 * Fix bodystatus window wetness display (#63255)
 
 Cataclysm-DDA experimental build 2023-01-23-1121 (beda1c4)
@@ -22,8 +20,6 @@ Cataclysm-DDA experimental build 2023-01-23-1121 (beda1c4)
 
 Cataclysm-DDA experimental build 2023-01-23-1009 (f5f577f)
 * Fix display of byproduct charges in crafting gui (#63252)
-
-Cataclysm-DDA experimental build 2023-01-23-0616 (18389fc)
 * Mole Crickets and Molerats can give tetanus (#63187)
 
 Cataclysm-DDA experimental build 2023-01-22-1718 (b96b791)
@@ -114,7 +110,11 @@ Cataclysm-DDA experimental build 2023-01-14-0026 (d2e3eda)
 
 Cataclysm-DDA experimental build 2023-01-13-2311 (b0aacac)
 * Enlarge body status window (#63071)
+
+Cataclysm-DDA experimental build 2023-01-13-1441 (10bcab1)
 * Fix typo of `looks_like` json property (#63098)
+
+Cataclysm-DDA experimental build 2023-01-13-1340 (1542f97)
 * Fix the lumbermill trader (#63084)
 * Fix a price discrepancy with the lumbermill trader (#63085)
 * fixes dark sight's duration increment (#63044)
