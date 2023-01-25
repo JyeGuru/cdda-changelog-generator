@@ -148,11 +148,6 @@
 #### Cataclysm-DDA experimental build 2023-01-17-1132 ([5fb4468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-1132))
 
 * De-duplicate zinc powder recipe ([#63143](https://github.com/CleverRaven/Cataclysm-DDA/pull/63143))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-17-0612 ([5832288](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-0612))
-
 * Remove workbench construction vs crafting exploit ([#63128](https://github.com/CleverRaven/Cataclysm-DDA/pull/63128))
 
 ---
@@ -201,6 +196,11 @@
 #### Cataclysm-DDA experimental build 2023-01-13-2311 ([b0aacac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-2311))
 
 * Enlarge body status window ([#63071](https://github.com/CleverRaven/Cataclysm-DDA/pull/63071))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-13-1441 ([10bcab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-1441))
+
 * Fix typo of `looks_like` json property ([#63098](https://github.com/CleverRaven/Cataclysm-DDA/pull/63098))
 * Fix the lumbermill trader ([#63084](https://github.com/CleverRaven/Cataclysm-DDA/pull/63084))
 * Fix a price discrepancy with the lumbermill trader ([#63085](https://github.com/CleverRaven/Cataclysm-DDA/pull/63085))
