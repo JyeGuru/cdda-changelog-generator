@@ -1,3 +1,5 @@
+* Fix issue with setting hp of sub parts ([#63259](https://github.com/CleverRaven/Cataclysm-DDA/pull/63259))
+* Cleanup apartment tower ([#63260](https://github.com/CleverRaven/Cataclysm-DDA/pull/63260))
 
 ---
 
@@ -223,13 +225,11 @@
 * construction: fix construction loops ([#63070](https://github.com/CleverRaven/Cataclysm-DDA/pull/63070))
 * Fixes for map revert ([#63043](https://github.com/CleverRaven/Cataclysm-DDA/pull/63043))
 * Remove five pin bow sight crafting recipe ([#63058](https://github.com/CleverRaven/Cataclysm-DDA/pull/63058))
-* Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
 * Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
 * Swap out the colors for the `|.` and `\.` damage states ([#63020](https://github.com/CleverRaven/Cataclysm-DDA/pull/63020))
 * json/decon: fix boot disassembly recipes ([#63024](https://github.com/CleverRaven/Cataclysm-DDA/pull/63024))
 * Consolidate functions for character's best item with given quality ([#63029](https://github.com/CleverRaven/Cataclysm-DDA/pull/63029))
 * Make lanyard not uncomfortable ([#63035](https://github.com/CleverRaven/Cataclysm-DDA/pull/63035))
 * Remove padding from structured/compact safe+mood sidebar widget ([#63036](https://github.com/CleverRaven/Cataclysm-DDA/pull/63036))
-* skeletal bite and grab fixes ([#63017](https://github.com/CleverRaven/Cataclysm-DDA/pull/63017))
 * Fix duplicate `tailoring_nylon_patchwork` recipe / Nerf synth fabric crafting ([#63031](https://github.com/CleverRaven/Cataclysm-DDA/pull/63031))
 * Routine i18n updates on 07 January 2023 ([#63021](https://github.com/CleverRaven/Cataclysm-DDA/pull/63021))
