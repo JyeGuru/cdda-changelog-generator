@@ -1,3 +1,14 @@
+* Standardize punctuation in greeting snippets ([#63262](https://github.com/CleverRaven/Cataclysm-DDA/pull/63262))
+* Improvised tire armor improvements ([#63121](https://github.com/CleverRaven/Cataclysm-DDA/pull/63121))
+* Fixes to portal resurrection and incorporeal ([#63280](https://github.com/CleverRaven/Cataclysm-DDA/pull/63280))
+* Fix documentation typo ([#63279](https://github.com/CleverRaven/Cataclysm-DDA/pull/63279))
+* add large_tent_equivalent component group ([#63223](https://github.com/CleverRaven/Cataclysm-DDA/pull/63223))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-26-1624 ([0213a71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-26-1624))
+
+* Finish PR #62472 ([#63289](https://github.com/CleverRaven/Cataclysm-DDA/pull/63289))
 
 ---
 
@@ -191,11 +202,6 @@
 
 * Fix the check error originating from `TALK_lumbermill_fabricate.json` ([#63102](https://github.com/CleverRaven/Cataclysm-DDA/pull/63102))
 * Jsonize test data for vehicle efficiency test ([#63088](https://github.com/CleverRaven/Cataclysm-DDA/pull/63088))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-14-0026 ([d2e3eda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-14-0026))
-
 * Clarify the small body graph ([#63037](https://github.com/CleverRaven/Cataclysm-DDA/pull/63037))
 * fix prereq issues for INFIMMUNE and PARAIMMUNE ([#63081](https://github.com/CleverRaven/Cataclysm-DDA/pull/63081))
 * Lowered amount of cable spawned on `mission_meteorologist_5` ([#63093](https://github.com/CleverRaven/Cataclysm-DDA/pull/63093))
@@ -213,12 +219,8 @@
 * construction: fix construction loops ([#63070](https://github.com/CleverRaven/Cataclysm-DDA/pull/63070))
 * Fixes for map revert ([#63043](https://github.com/CleverRaven/Cataclysm-DDA/pull/63043))
 * Remove five pin bow sight crafting recipe ([#63058](https://github.com/CleverRaven/Cataclysm-DDA/pull/63058))
-* Beefs .357 SIG’s armour penetration. ([#62994](https://github.com/CleverRaven/Cataclysm-DDA/pull/62994))
 * Fix overly-restrictive logic in check for ability to crush frozen liquids ([#63019](https://github.com/CleverRaven/Cataclysm-DDA/pull/63019))
 * Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
-* rebreather mask padding  ([#63008](https://github.com/CleverRaven/Cataclysm-DDA/pull/63008))
-* Change how projectile trajectories are calculated. ([#63007](https://github.com/CleverRaven/Cataclysm-DDA/pull/63007))
-* Fix main menu crash ([#63009](https://github.com/CleverRaven/Cataclysm-DDA/pull/63009))
 * Swap out the colors for the `|.` and `\.` damage states ([#63020](https://github.com/CleverRaven/Cataclysm-DDA/pull/63020))
 * json/decon: fix boot disassembly recipes ([#63024](https://github.com/CleverRaven/Cataclysm-DDA/pull/63024))
 * Consolidate functions for character's best item with given quality ([#63029](https://github.com/CleverRaven/Cataclysm-DDA/pull/63029))
@@ -230,6 +232,4 @@
 * Routine i18n updates on 07 January 2023 ([#63021](https://github.com/CleverRaven/Cataclysm-DDA/pull/63021))
 * Fix #62103 Laser pistol holster crash ([#63014](https://github.com/CleverRaven/Cataclysm-DDA/pull/63014))
 * Fix erroneous result volume display in crafting gui ([#63015](https://github.com/CleverRaven/Cataclysm-DDA/pull/63015))
-* [Innawood] Remove adze from tools_common_small item group ([#63001](https://github.com/CleverRaven/Cataclysm-DDA/pull/63001))
-* Fix mission_start off by 1 ([#62993](https://github.com/CleverRaven/Cataclysm-DDA/pull/62993))
 * Prevent crash on no scenario ([#63010](https://github.com/CleverRaven/Cataclysm-DDA/pull/63010))
