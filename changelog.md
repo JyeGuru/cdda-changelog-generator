@@ -217,7 +217,6 @@
 * Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
 * rebreather mask padding  ([#63008](https://github.com/CleverRaven/Cataclysm-DDA/pull/63008))
 * Change how projectile trajectories are calculated. ([#63007](https://github.com/CleverRaven/Cataclysm-DDA/pull/63007))
-* Add spinner for overmap pathfinding ([#62985](https://github.com/CleverRaven/Cataclysm-DDA/pull/62985))
 * Fix main menu crash ([#63009](https://github.com/CleverRaven/Cataclysm-DDA/pull/63009))
 * Swap out the colors for the `|.` and `\.` damage states ([#63020](https://github.com/CleverRaven/Cataclysm-DDA/pull/63020))
 * json/decon: fix boot disassembly recipes ([#63024](https://github.com/CleverRaven/Cataclysm-DDA/pull/63024))
