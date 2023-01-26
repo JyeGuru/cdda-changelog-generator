@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-26-1828 ([7a3d7ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-26-1828))
+
 * Fix issue with setting hp of sub parts ([#63259](https://github.com/CleverRaven/Cataclysm-DDA/pull/63259))
 * Cleanup apartment tower ([#63260](https://github.com/CleverRaven/Cataclysm-DDA/pull/63260))
 
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2023-01-15-0659 ([583923e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-15-0659))
 
 * fix: missing corner in one FEMA entrance ([#63114](https://github.com/CleverRaven/Cataclysm-DDA/pull/63114))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-14-1322 ([e5b0559](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-14-1322))
-
 * Routine i18n updates on 14 January 2023 ([#63105](https://github.com/CleverRaven/Cataclysm-DDA/pull/63105))
 * Fix the check error originating from `TALK_lumbermill_fabricate.json` ([#63102](https://github.com/CleverRaven/Cataclysm-DDA/pull/63102))
 * Jsonize test data for vehicle efficiency test ([#63088](https://github.com/CleverRaven/Cataclysm-DDA/pull/63088))
