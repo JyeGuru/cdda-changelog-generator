@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-26-1726 ([23fbe93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-26-1726))
+
+* don't become itchy while sleeping if shutdown ([#63273](https://github.com/CleverRaven/Cataclysm-DDA/pull/63273))
+* fix: remove tazer hack death message ([#63275](https://github.com/CleverRaven/Cataclysm-DDA/pull/63275))
 * Fixed error in code. Incorect loop by iterator. ([#63284](https://github.com/CleverRaven/Cataclysm-DDA/pull/63284))
 * Keep the God's Chosen from bashing and have them return to their places ([#63295](https://github.com/CleverRaven/Cataclysm-DDA/pull/63295))
 * Standardize punctuation in greeting snippets ([#63262](https://github.com/CleverRaven/Cataclysm-DDA/pull/63262))
@@ -197,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2023-01-14-1322 ([e5b0559](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-14-1322))
 
 * Routine i18n updates on 14 January 2023 ([#63105](https://github.com/CleverRaven/Cataclysm-DDA/pull/63105))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-14-0140 ([7c3a129](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-14-0140))
-
 * Fix the check error originating from `TALK_lumbermill_fabricate.json` ([#63102](https://github.com/CleverRaven/Cataclysm-DDA/pull/63102))
 * Jsonize test data for vehicle efficiency test ([#63088](https://github.com/CleverRaven/Cataclysm-DDA/pull/63088))
 * Clarify the small body graph ([#63037](https://github.com/CleverRaven/Cataclysm-DDA/pull/63037))
@@ -231,5 +233,3 @@
 * skeletal bite and grab fixes ([#63017](https://github.com/CleverRaven/Cataclysm-DDA/pull/63017))
 * Fix duplicate `tailoring_nylon_patchwork` recipe / Nerf synth fabric crafting ([#63031](https://github.com/CleverRaven/Cataclysm-DDA/pull/63031))
 * Routine i18n updates on 07 January 2023 ([#63021](https://github.com/CleverRaven/Cataclysm-DDA/pull/63021))
-* Fix #62103 Laser pistol holster crash ([#63014](https://github.com/CleverRaven/Cataclysm-DDA/pull/63014))
-* Fix erroneous result volume display in crafting gui ([#63015](https://github.com/CleverRaven/Cataclysm-DDA/pull/63015))
