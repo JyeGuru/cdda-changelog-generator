@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-26-0615 ([9bede42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-26-0615))
+
+* Add `i4_diesel` disassembly ([#63267](https://github.com/CleverRaven/Cataclysm-DDA/pull/63267))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-25-0616 ([9864b45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-25-0616))
 
 * [MSC] Remove extra candy from the MRE item group ([#63246](https://github.com/CleverRaven/Cataclysm-DDA/pull/63246))
@@ -195,11 +201,6 @@
 * Lowered amount of cable spawned on `mission_meteorologist_5` ([#63093](https://github.com/CleverRaven/Cataclysm-DDA/pull/63093))
 * Fix link typo in MISSIONS_JSON.md and link to correct subsection ([#63096](https://github.com/CleverRaven/Cataclysm-DDA/pull/63096))
 * Allow the scrap trader to sit in their chair. ([#63099](https://github.com/CleverRaven/Cataclysm-DDA/pull/63099))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-13-2311 ([b0aacac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-13-2311))
-
 * Enlarge body status window ([#63071](https://github.com/CleverRaven/Cataclysm-DDA/pull/63071))
 * Fix typo of `looks_like` json property ([#63098](https://github.com/CleverRaven/Cataclysm-DDA/pull/63098))
 * Fix the lumbermill trader ([#63084](https://github.com/CleverRaven/Cataclysm-DDA/pull/63084))
@@ -232,4 +233,3 @@
 * [Innawood] Remove adze from tools_common_small item group ([#63001](https://github.com/CleverRaven/Cataclysm-DDA/pull/63001))
 * Fix mission_start off by 1 ([#62993](https://github.com/CleverRaven/Cataclysm-DDA/pull/62993))
 * Prevent crash on no scenario ([#63010](https://github.com/CleverRaven/Cataclysm-DDA/pull/63010))
-* Change vehicle workbench `OBSTACLE` tag to `MOUNTABLE` ([#62988](https://github.com/CleverRaven/Cataclysm-DDA/pull/62988))
