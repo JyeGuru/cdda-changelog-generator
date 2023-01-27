@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-27-1544 ([7434cb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-1544))
+
+* Fix Throwing Knives in Xedra Evolved ([#63304](https://github.com/CleverRaven/Cataclysm-DDA/pull/63304))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-27-0622 ([16f2625](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-0622))
 
 * Alternate ironshod staff recipe, no forging required ([#63298](https://github.com/CleverRaven/Cataclysm-DDA/pull/63298))
@@ -206,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2023-01-17-0612 ([5832288](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-0612))
 
 * Remove workbench construction vs crafting exploit ([#63128](https://github.com/CleverRaven/Cataclysm-DDA/pull/63128))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-16-1242 ([d6d5349](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-16-1242))
-
 * [Innawood] alternators! ([#63108](https://github.com/CleverRaven/Cataclysm-DDA/pull/63108))
 * Routine tileset updates on 15 January 2023 ([#63127](https://github.com/CleverRaven/Cataclysm-DDA/pull/63127))
 * fix: missing corner in one FEMA entrance ([#63114](https://github.com/CleverRaven/Cataclysm-DDA/pull/63114))
@@ -237,4 +238,3 @@
 * Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
 * Make lanyard not uncomfortable ([#63035](https://github.com/CleverRaven/Cataclysm-DDA/pull/63035))
 * Remove padding from structured/compact safe+mood sidebar widget ([#63036](https://github.com/CleverRaven/Cataclysm-DDA/pull/63036))
-* Fix duplicate `tailoring_nylon_patchwork` recipe / Nerf synth fabric crafting ([#63031](https://github.com/CleverRaven/Cataclysm-DDA/pull/63031))
