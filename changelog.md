@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-27-0622 ([16f2625](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-0622))
+
+* Alternate ironshod staff recipe, no forging required ([#63298](https://github.com/CleverRaven/Cataclysm-DDA/pull/63298))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-27-0358 ([52fc15d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-0358))
 
 * Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
@@ -206,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2023-01-16-1242 ([d6d5349](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-16-1242))
 
 * [Innawood] alternators! ([#63108](https://github.com/CleverRaven/Cataclysm-DDA/pull/63108))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-16-0659 ([11e187f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-16-0659))
-
 * Routine tileset updates on 15 January 2023 ([#63127](https://github.com/CleverRaven/Cataclysm-DDA/pull/63127))
 * fix: missing corner in one FEMA entrance ([#63114](https://github.com/CleverRaven/Cataclysm-DDA/pull/63114))
 * Routine i18n updates on 14 January 2023 ([#63105](https://github.com/CleverRaven/Cataclysm-DDA/pull/63105))
@@ -234,7 +235,6 @@
 * Fixes for map revert ([#63043](https://github.com/CleverRaven/Cataclysm-DDA/pull/63043))
 * Remove five pin bow sight crafting recipe ([#63058](https://github.com/CleverRaven/Cataclysm-DDA/pull/63058))
 * Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
-* Consolidate functions for character's best item with given quality ([#63029](https://github.com/CleverRaven/Cataclysm-DDA/pull/63029))
 * Make lanyard not uncomfortable ([#63035](https://github.com/CleverRaven/Cataclysm-DDA/pull/63035))
 * Remove padding from structured/compact safe+mood sidebar widget ([#63036](https://github.com/CleverRaven/Cataclysm-DDA/pull/63036))
 * Fix duplicate `tailoring_nylon_patchwork` recipe / Nerf synth fabric crafting ([#63031](https://github.com/CleverRaven/Cataclysm-DDA/pull/63031))
