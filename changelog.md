@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-27-0358 ([52fc15d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-0358))
+
 * Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
 * Remove DURABLE_MELEE from pipe and pipe weapons. ([#63297](https://github.com/CleverRaven/Cataclysm-DDA/pull/63297))
 
