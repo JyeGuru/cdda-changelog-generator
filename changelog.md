@@ -1,3 +1,11 @@
+* Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
+* Remove DURABLE_MELEE from pipe and pipe weapons. ([#63297](https://github.com/CleverRaven/Cataclysm-DDA/pull/63297))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-27-0207 ([448f87b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-0207))
+
+* Highlight HURT effect messages with m_bad ([#63301](https://github.com/CleverRaven/Cataclysm-DDA/pull/63301))
 
 ---
 
@@ -199,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2023-01-16-0659 ([11e187f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-16-0659))
 
 * Routine tileset updates on 15 January 2023 ([#63127](https://github.com/CleverRaven/Cataclysm-DDA/pull/63127))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-15-0659 ([583923e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-15-0659))
-
 * fix: missing corner in one FEMA entrance ([#63114](https://github.com/CleverRaven/Cataclysm-DDA/pull/63114))
 * Routine i18n updates on 14 January 2023 ([#63105](https://github.com/CleverRaven/Cataclysm-DDA/pull/63105))
 * Fix the check error originating from `TALK_lumbermill_fabricate.json` ([#63102](https://github.com/CleverRaven/Cataclysm-DDA/pull/63102))
@@ -226,10 +229,7 @@
 * Fixes for map revert ([#63043](https://github.com/CleverRaven/Cataclysm-DDA/pull/63043))
 * Remove five pin bow sight crafting recipe ([#63058](https://github.com/CleverRaven/Cataclysm-DDA/pull/63058))
 * Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
-* Swap out the colors for the `|.` and `\.` damage states ([#63020](https://github.com/CleverRaven/Cataclysm-DDA/pull/63020))
-* json/decon: fix boot disassembly recipes ([#63024](https://github.com/CleverRaven/Cataclysm-DDA/pull/63024))
 * Consolidate functions for character's best item with given quality ([#63029](https://github.com/CleverRaven/Cataclysm-DDA/pull/63029))
 * Make lanyard not uncomfortable ([#63035](https://github.com/CleverRaven/Cataclysm-DDA/pull/63035))
 * Remove padding from structured/compact safe+mood sidebar widget ([#63036](https://github.com/CleverRaven/Cataclysm-DDA/pull/63036))
 * Fix duplicate `tailoring_nylon_patchwork` recipe / Nerf synth fabric crafting ([#63031](https://github.com/CleverRaven/Cataclysm-DDA/pull/63031))
-* Routine i18n updates on 07 January 2023 ([#63021](https://github.com/CleverRaven/Cataclysm-DDA/pull/63021))
