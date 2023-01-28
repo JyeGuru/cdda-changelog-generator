@@ -1,3 +1,16 @@
+* Flammable arrows bugfixes ([#63277](https://github.com/CleverRaven/Cataclysm-DDA/pull/63277))
+* Blocking fix ([#63278](https://github.com/CleverRaven/Cataclysm-DDA/pull/63278))
+* [CR]Monsters add weight to vehicle when on boardable parts ([#63305](https://github.com/CleverRaven/Cataclysm-DDA/pull/63305))
+* Do not change pocket priority when query is canceled ([#63306](https://github.com/CleverRaven/Cataclysm-DDA/pull/63306))
+* Bokken nerf and recipe adjustment. ([#63307](https://github.com/CleverRaven/Cataclysm-DDA/pull/63307))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-28-0055 ([1cdf128](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-28-0055))
+
+* Fix disappearing "tags" label in debug mapedit item editing ([#63313](https://github.com/CleverRaven/Cataclysm-DDA/pull/63313))
+* Update Transifex CLI version in push translation template GHA workflow ([#63309](https://github.com/CleverRaven/Cataclysm-DDA/pull/63309))
+* Save time on pull translations GitHub Actions workflow ([#63308](https://github.com/CleverRaven/Cataclysm-DDA/pull/63308))
 
 ---
 
@@ -206,11 +219,6 @@
 #### Cataclysm-DDA experimental build 2023-01-17-1132 ([5fb4468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-1132))
 
 * De-duplicate zinc powder recipe ([#63143](https://github.com/CleverRaven/Cataclysm-DDA/pull/63143))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-17-0612 ([5832288](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-0612))
-
 * Remove workbench construction vs crafting exploit ([#63128](https://github.com/CleverRaven/Cataclysm-DDA/pull/63128))
 * [Innawood] alternators! ([#63108](https://github.com/CleverRaven/Cataclysm-DDA/pull/63108))
 * Routine tileset updates on 15 January 2023 ([#63127](https://github.com/CleverRaven/Cataclysm-DDA/pull/63127))
@@ -218,7 +226,6 @@
 * Routine i18n updates on 14 January 2023 ([#63105](https://github.com/CleverRaven/Cataclysm-DDA/pull/63105))
 * Fix the check error originating from `TALK_lumbermill_fabricate.json` ([#63102](https://github.com/CleverRaven/Cataclysm-DDA/pull/63102))
 * Jsonize test data for vehicle efficiency test ([#63088](https://github.com/CleverRaven/Cataclysm-DDA/pull/63088))
-* Clarify the small body graph ([#63037](https://github.com/CleverRaven/Cataclysm-DDA/pull/63037))
 * fix prereq issues for INFIMMUNE and PARAIMMUNE ([#63081](https://github.com/CleverRaven/Cataclysm-DDA/pull/63081))
 * Lowered amount of cable spawned on `mission_meteorologist_5` ([#63093](https://github.com/CleverRaven/Cataclysm-DDA/pull/63093))
 * Fix link typo in MISSIONS_JSON.md and link to correct subsection ([#63096](https://github.com/CleverRaven/Cataclysm-DDA/pull/63096))
@@ -227,14 +234,8 @@
 * Fix typo of `looks_like` json property ([#63098](https://github.com/CleverRaven/Cataclysm-DDA/pull/63098))
 * Fix the lumbermill trader ([#63084](https://github.com/CleverRaven/Cataclysm-DDA/pull/63084))
 * Fix a price discrepancy with the lumbermill trader ([#63085](https://github.com/CleverRaven/Cataclysm-DDA/pull/63085))
-* fixes dark sight's duration increment ([#63044](https://github.com/CleverRaven/Cataclysm-DDA/pull/63044))
 * Make `Character::best_item_with_quality` examine items non-recursively ([#63048](https://github.com/CleverRaven/Cataclysm-DDA/pull/63048))
 * Remove portal storm monsters ability to open doors ([#63053](https://github.com/CleverRaven/Cataclysm-DDA/pull/63053))
 * Add obsoletion entries ([#63079](https://github.com/CleverRaven/Cataclysm-DDA/pull/63079))
-* Aftershock Post Thresh Mood Faces ([#63046](https://github.com/CleverRaven/Cataclysm-DDA/pull/63046))
 * construction: fix construction loops ([#63070](https://github.com/CleverRaven/Cataclysm-DDA/pull/63070))
-* Fixes for map revert ([#63043](https://github.com/CleverRaven/Cataclysm-DDA/pull/63043))
 * Remove five pin bow sight crafting recipe ([#63058](https://github.com/CleverRaven/Cataclysm-DDA/pull/63058))
-* Routine tileset updates on 08 January 2023 ([#63042](https://github.com/CleverRaven/Cataclysm-DDA/pull/63042))
-* Make lanyard not uncomfortable ([#63035](https://github.com/CleverRaven/Cataclysm-DDA/pull/63035))
-* Remove padding from structured/compact safe+mood sidebar widget ([#63036](https://github.com/CleverRaven/Cataclysm-DDA/pull/63036))
