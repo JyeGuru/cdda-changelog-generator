@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-28-0613 ([f097346](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-28-0613))
+
+* Routine i18n updates on 28 January 2023 ([#63317](https://github.com/CleverRaven/Cataclysm-DDA/pull/63317))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-28-0200 ([4b6270c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-28-0200))
 
 * Flammable arrows bugfixes ([#63277](https://github.com/CleverRaven/Cataclysm-DDA/pull/63277))
@@ -209,11 +215,6 @@
 #### Cataclysm-DDA experimental build 2023-01-18-0608 ([677f2be](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-18-0608))
 
 * Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-17-1252 ([950acde](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-17-1252))
-
 * Fix reinforced_glass_sheet recipe weight and volume inconsistency ([#63060](https://github.com/CleverRaven/Cataclysm-DDA/pull/63060))
 * Fix consume EOC double fire ([#63112](https://github.com/CleverRaven/Cataclysm-DDA/pull/63112))
 * Resolve clang-tidy warning in diary_ui.cpp ([#63115](https://github.com/CleverRaven/Cataclysm-DDA/pull/63115))
@@ -234,7 +235,6 @@
 * Fix typo of `looks_like` json property ([#63098](https://github.com/CleverRaven/Cataclysm-DDA/pull/63098))
 * Fix the lumbermill trader ([#63084](https://github.com/CleverRaven/Cataclysm-DDA/pull/63084))
 * Fix a price discrepancy with the lumbermill trader ([#63085](https://github.com/CleverRaven/Cataclysm-DDA/pull/63085))
-* Make `Character::best_item_with_quality` examine items non-recursively ([#63048](https://github.com/CleverRaven/Cataclysm-DDA/pull/63048))
 * Remove portal storm monsters ability to open doors ([#63053](https://github.com/CleverRaven/Cataclysm-DDA/pull/63053))
 * Add obsoletion entries ([#63079](https://github.com/CleverRaven/Cataclysm-DDA/pull/63079))
 * construction: fix construction loops ([#63070](https://github.com/CleverRaven/Cataclysm-DDA/pull/63070))
