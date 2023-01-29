@@ -1,3 +1,7 @@
+* fix: minor mapgen error (#63315)
+* Remove "vacuum pump" req from recipe for makeshift vacuum mold (#63272)
+
+Cataclysm-DDA experimental build 2023-01-29-0324 (37bd8a2)
 * Add repair kits to soldering requirement lists (#63312)
 
 Cataclysm-DDA experimental build 2023-01-28-0613 (f097346)
@@ -123,10 +127,7 @@ Cataclysm-DDA experimental build 2023-01-19-0645 (c033542)
 
 Cataclysm-DDA experimental build 2023-01-18-1633 (db714a1)
 * Shell mutation ordering (#63166)
-
-Cataclysm-DDA experimental build 2023-01-18-0608 (677f2be)
 * Add/update dumpster disassembly and bash products (#63144)
-* Fix reinforced_glass_sheet recipe weight and volume inconsistency (#63060)
 * Fix consume EOC double fire (#63112)
 * Resolve clang-tidy warning in diary_ui.cpp (#63115)
 * Sonia can now talk about her recent past (#63140)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2023-01-18-0608 (677f2be)
 * Fix a price discrepancy with the lumbermill trader (#63085)
 * Add obsoletion entries (#63079)
 * construction: fix construction loops (#63070)
-* Remove five pin bow sight crafting recipe (#63058)
