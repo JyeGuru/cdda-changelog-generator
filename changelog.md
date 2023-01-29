@@ -1,3 +1,4 @@
+* Fix "SPEEDLOADER" Flag ([#63287](https://github.com/CleverRaven/Cataclysm-DDA/pull/63287))
 * add UNBREAKABLE documentation to JSON_FLAGS.md ([#63325](https://github.com/CleverRaven/Cataclysm-DDA/pull/63325))
 * Fix vehicle::air_drag_coeff() ([#63147](https://github.com/CleverRaven/Cataclysm-DDA/pull/63147))
 * Update terrain-manufactured.json ([#63331](https://github.com/CleverRaven/Cataclysm-DDA/pull/63331))
@@ -239,4 +240,3 @@
 * Fix link typo in MISSIONS_JSON.md and link to correct subsection ([#63096](https://github.com/CleverRaven/Cataclysm-DDA/pull/63096))
 * Allow the scrap trader to sit in their chair. ([#63099](https://github.com/CleverRaven/Cataclysm-DDA/pull/63099))
 * Fix typo of `looks_like` json property ([#63098](https://github.com/CleverRaven/Cataclysm-DDA/pull/63098))
-* Fix a price discrepancy with the lumbermill trader ([#63085](https://github.com/CleverRaven/Cataclysm-DDA/pull/63085))
