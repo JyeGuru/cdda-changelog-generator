@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-29-0428 ([b483a88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-0428))
+
 * fix: minor mapgen error ([#63315](https://github.com/CleverRaven/Cataclysm-DDA/pull/63315))
 * Remove "vacuum pump" req from recipe for makeshift vacuum mold ([#63272](https://github.com/CleverRaven/Cataclysm-DDA/pull/63272))
 
@@ -211,11 +216,6 @@
 #### Cataclysm-DDA experimental build 2023-01-19-0645 ([c033542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-19-0645))
 
 * Adjust `f_metal_trashcan` construct, bash & disassembly ([#63168](https://github.com/CleverRaven/Cataclysm-DDA/pull/63168))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-18-1633 ([db714a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-18-1633))
-
 * Shell mutation ordering ([#63166](https://github.com/CleverRaven/Cataclysm-DDA/pull/63166))
 * Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
 * Fix consume EOC double fire ([#63112](https://github.com/CleverRaven/Cataclysm-DDA/pull/63112))

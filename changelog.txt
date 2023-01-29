@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-01-29-0428 (b483a88)
 * fix: minor mapgen error (#63315)
 * Remove "vacuum pump" req from recipe for makeshift vacuum mold (#63272)
 
@@ -124,8 +126,6 @@ Cataclysm-DDA experimental build 2023-01-20-1349 (02df847)
 
 Cataclysm-DDA experimental build 2023-01-19-0645 (c033542)
 * Adjust `f_metal_trashcan` construct, bash & disassembly (#63168)
-
-Cataclysm-DDA experimental build 2023-01-18-1633 (db714a1)
 * Shell mutation ordering (#63166)
 * Add/update dumpster disassembly and bash products (#63144)
 * Fix consume EOC double fire (#63112)
