@@ -1,3 +1,10 @@
+* Fix character swap mission duplication ([#63125](https://github.com/CleverRaven/Cataclysm-DDA/pull/63125))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-29-1619 ([0a5c4b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-1619))
+
+* Fix broken sublimbs after resurrection ([#63326](https://github.com/CleverRaven/Cataclysm-DDA/pull/63326))
 
 ---
 
@@ -210,11 +217,6 @@
 #### Cataclysm-DDA experimental build 2023-01-21-0615 ([020de8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-21-0615))
 
 * Routine i18n updates on 21 January 2023 ([#63213](https://github.com/CleverRaven/Cataclysm-DDA/pull/63213))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-20-1349 ([02df847](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-20-1349))
-
 * Set Saddlebag's primary skill to tailoring (from none) ([#63170](https://github.com/CleverRaven/Cataclysm-DDA/pull/63170))
 * Adjust `f_metal_trashcan` construct, bash & disassembly ([#63168](https://github.com/CleverRaven/Cataclysm-DDA/pull/63168))
 * Shell mutation ordering ([#63166](https://github.com/CleverRaven/Cataclysm-DDA/pull/63166))
@@ -234,9 +236,7 @@
 * Lowered amount of cable spawned on `mission_meteorologist_5` ([#63093](https://github.com/CleverRaven/Cataclysm-DDA/pull/63093))
 * Fix link typo in MISSIONS_JSON.md and link to correct subsection ([#63096](https://github.com/CleverRaven/Cataclysm-DDA/pull/63096))
 * Allow the scrap trader to sit in their chair. ([#63099](https://github.com/CleverRaven/Cataclysm-DDA/pull/63099))
-* Enlarge body status window ([#63071](https://github.com/CleverRaven/Cataclysm-DDA/pull/63071))
 * Fix typo of `looks_like` json property ([#63098](https://github.com/CleverRaven/Cataclysm-DDA/pull/63098))
 * Fix the lumbermill trader ([#63084](https://github.com/CleverRaven/Cataclysm-DDA/pull/63084))
 * Fix a price discrepancy with the lumbermill trader ([#63085](https://github.com/CleverRaven/Cataclysm-DDA/pull/63085))
 * Add obsoletion entries ([#63079](https://github.com/CleverRaven/Cataclysm-DDA/pull/63079))
-* construction: fix construction loops ([#63070](https://github.com/CleverRaven/Cataclysm-DDA/pull/63070))
