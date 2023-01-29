@@ -1,3 +1,4 @@
+* Add repair kits to soldering requirement lists (#63312)
 
 Cataclysm-DDA experimental build 2023-01-28-0613 (f097346)
 * Routine i18n updates on 28 January 2023 (#63317)
@@ -145,7 +146,6 @@ Cataclysm-DDA experimental build 2023-01-18-0608 (677f2be)
 * Fix typo of `looks_like` json property (#63098)
 * Fix the lumbermill trader (#63084)
 * Fix a price discrepancy with the lumbermill trader (#63085)
-* Remove portal storm monsters ability to open doors (#63053)
 * Add obsoletion entries (#63079)
 * construction: fix construction loops (#63070)
 * Remove five pin bow sight crafting recipe (#63058)

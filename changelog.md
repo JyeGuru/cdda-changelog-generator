@@ -1,3 +1,4 @@
+* Add repair kits to soldering requirement lists ([#63312](https://github.com/CleverRaven/Cataclysm-DDA/pull/63312))
 
 ---
 
@@ -235,7 +236,6 @@
 * Fix typo of `looks_like` json property ([#63098](https://github.com/CleverRaven/Cataclysm-DDA/pull/63098))
 * Fix the lumbermill trader ([#63084](https://github.com/CleverRaven/Cataclysm-DDA/pull/63084))
 * Fix a price discrepancy with the lumbermill trader ([#63085](https://github.com/CleverRaven/Cataclysm-DDA/pull/63085))
-* Remove portal storm monsters ability to open doors ([#63053](https://github.com/CleverRaven/Cataclysm-DDA/pull/63053))
 * Add obsoletion entries ([#63079](https://github.com/CleverRaven/Cataclysm-DDA/pull/63079))
 * construction: fix construction loops ([#63070](https://github.com/CleverRaven/Cataclysm-DDA/pull/63070))
 * Remove five pin bow sight crafting recipe ([#63058](https://github.com/CleverRaven/Cataclysm-DDA/pull/63058))
