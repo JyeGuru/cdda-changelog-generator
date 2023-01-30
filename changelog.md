@@ -1,3 +1,4 @@
+* fix xl/xs armor recipe inconsistencies ([#63261](https://github.com/CleverRaven/Cataclysm-DDA/pull/63261))
 * Cutting logs with power tools ([#63178](https://github.com/CleverRaven/Cataclysm-DDA/pull/63178))
 * Add confirmation before abandoning camp ([#63351](https://github.com/CleverRaven/Cataclysm-DDA/pull/63351))
 * inv_ui: fix minor annoyances ([#63340](https://github.com/CleverRaven/Cataclysm-DDA/pull/63340))
@@ -234,7 +235,6 @@
 * Adjust `f_metal_trashcan` construct, bash & disassembly ([#63168](https://github.com/CleverRaven/Cataclysm-DDA/pull/63168))
 * Shell mutation ordering ([#63166](https://github.com/CleverRaven/Cataclysm-DDA/pull/63166))
 * Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
-* Resolve clang-tidy warning in diary_ui.cpp ([#63115](https://github.com/CleverRaven/Cataclysm-DDA/pull/63115))
 * Sonia can now talk about her recent past ([#63140](https://github.com/CleverRaven/Cataclysm-DDA/pull/63140))
 * De-duplicate zinc powder recipe ([#63143](https://github.com/CleverRaven/Cataclysm-DDA/pull/63143))
 * Remove workbench construction vs crafting exploit ([#63128](https://github.com/CleverRaven/Cataclysm-DDA/pull/63128))
