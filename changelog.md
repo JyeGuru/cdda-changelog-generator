@@ -1,3 +1,12 @@
+* Routine tileset updates on 29 January 2023 ([#63342](https://github.com/CleverRaven/Cataclysm-DDA/pull/63342))
+* Remove athletics training for waiting in water ([#63199](https://github.com/CleverRaven/Cataclysm-DDA/pull/63199))
+* `JSON_FLAGS.md` cleanup ([#63339](https://github.com/CleverRaven/Cataclysm-DDA/pull/63339))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-30-1327 ([200e84d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-1327))
+
+* Passing time for stationary generators and other immobile vehicles ([#63206](https://github.com/CleverRaven/Cataclysm-DDA/pull/63206))
 
 ---
 
@@ -197,13 +206,7 @@
 
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-22-1006 ([27d6b46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-22-1006))
-
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
-* Portal storm mission fixes ([#63111](https://github.com/CleverRaven/Cataclysm-DDA/pull/63111))
 * Remove an erroneous followup to Helena's final mission ([#63113](https://github.com/CleverRaven/Cataclysm-DDA/pull/63113))
 * Correct chemical byproduct charges by using byproduct_group ([#63137](https://github.com/CleverRaven/Cataclysm-DDA/pull/63137))
 * Remove an erroneous dialogue response in the faction camp tutorial ([#63146](https://github.com/CleverRaven/Cataclysm-DDA/pull/63146))
@@ -234,8 +237,5 @@
 * Sonia can now talk about her recent past ([#63140](https://github.com/CleverRaven/Cataclysm-DDA/pull/63140))
 * De-duplicate zinc powder recipe ([#63143](https://github.com/CleverRaven/Cataclysm-DDA/pull/63143))
 * Remove workbench construction vs crafting exploit ([#63128](https://github.com/CleverRaven/Cataclysm-DDA/pull/63128))
-* [Innawood] alternators! ([#63108](https://github.com/CleverRaven/Cataclysm-DDA/pull/63108))
 * Routine tileset updates on 15 January 2023 ([#63127](https://github.com/CleverRaven/Cataclysm-DDA/pull/63127))
 * fix: missing corner in one FEMA entrance ([#63114](https://github.com/CleverRaven/Cataclysm-DDA/pull/63114))
-* Routine i18n updates on 14 January 2023 ([#63105](https://github.com/CleverRaven/Cataclysm-DDA/pull/63105))
-* Fix the check error originating from `TALK_lumbermill_fabricate.json` ([#63102](https://github.com/CleverRaven/Cataclysm-DDA/pull/63102))
