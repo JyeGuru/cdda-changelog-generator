@@ -48,12 +48,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-01-29-1735 ([14e6ccb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-1735))
-
-* Fix character swap mission duplication ([#63125](https://github.com/CleverRaven/Cataclysm-DDA/pull/63125))
-
----
-
 #### Cataclysm-DDA experimental build 2023-01-29-1619 ([0a5c4b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-1619))
 
 * Fix broken sublimbs after resurrection ([#63326](https://github.com/CleverRaven/Cataclysm-DDA/pull/63326))

@@ -28,9 +28,6 @@ Cataclysm-DDA experimental build 2023-01-29-1852 (690e38e)
 * Fix vehicle::air_drag_coeff() (#63147)
 * Update terrain-manufactured.json (#63331)
 
-Cataclysm-DDA experimental build 2023-01-29-1735 (14e6ccb)
-* Fix character swap mission duplication (#63125)
-
 Cataclysm-DDA experimental build 2023-01-29-1619 (0a5c4b5)
 * Fix broken sublimbs after resurrection (#63326)
 
