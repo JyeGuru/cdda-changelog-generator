@@ -142,7 +142,6 @@
 * Fixed error in code. Incorect loop by iterator. ([#63284](https://github.com/CleverRaven/Cataclysm-DDA/pull/63284))
 * Keep the God's Chosen from bashing and have them return to their places ([#63295](https://github.com/CleverRaven/Cataclysm-DDA/pull/63295))
 * Standardize punctuation in greeting snippets ([#63262](https://github.com/CleverRaven/Cataclysm-DDA/pull/63262))
-* Improvised tire armor improvements ([#63121](https://github.com/CleverRaven/Cataclysm-DDA/pull/63121))
 * Fixes to portal resurrection and incorporeal ([#63280](https://github.com/CleverRaven/Cataclysm-DDA/pull/63280))
 * Fix documentation typo ([#63279](https://github.com/CleverRaven/Cataclysm-DDA/pull/63279))
 * add large_tent_equivalent component group ([#63223](https://github.com/CleverRaven/Cataclysm-DDA/pull/63223))
