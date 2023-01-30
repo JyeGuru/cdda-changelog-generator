@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-30-0520 ([ea63fd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0520))
+
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
 * Fix: Include spell name in default msg for relic spells ([#63321](https://github.com/CleverRaven/Cataclysm-DDA/pull/63321))
 
@@ -213,11 +218,6 @@
 * Remove redundant "is vehicle in water" check ([#63207](https://github.com/CleverRaven/Cataclysm-DDA/pull/63207))
 * [ASCIITileset] Change Unknow terrain to use the unseen sprite ([#63222](https://github.com/CleverRaven/Cataclysm-DDA/pull/63222))
 * Better EOC variable messages ([#63228](https://github.com/CleverRaven/Cataclysm-DDA/pull/63228))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-22-0710 ([ac2131a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-22-0710))
-
 * use open glass door looks-like for open red & green glass door ([#63193](https://github.com/CleverRaven/Cataclysm-DDA/pull/63193))
 * Fix MSVC CI build failures ([#63214](https://github.com/CleverRaven/Cataclysm-DDA/pull/63214))
 * Add `FISH_TRAP` tool quality so that NPCs can use either kind of fish trap ([#63224](https://github.com/CleverRaven/Cataclysm-DDA/pull/63224))
