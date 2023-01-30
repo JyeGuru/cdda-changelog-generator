@@ -1,3 +1,4 @@
+* fixes encumbrance_covered muts being covered by integrated armor (#63182)
 * fix xl/xs armor recipe inconsistencies (#63261)
 * Cutting logs with power tools (#63178)
 * Add confirmation before abandoning camp (#63351)
