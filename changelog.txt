@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-01-30-1437 (daf8acf)
 * fixes encumbrance_covered muts being covered by integrated armor (#63182)
 * fix xl/xs armor recipe inconsistencies (#63261)
 * Cutting logs with power tools (#63178)
@@ -117,8 +119,6 @@ Cataclysm-DDA experimental build 2023-01-23-1009 (f5f577f)
 
 Cataclysm-DDA experimental build 2023-01-23-0616 (18389fc)
 * Mole Crickets and Molerats can give tetanus (#63187)
-
-Cataclysm-DDA experimental build 2023-01-22-1718 (b96b791)
 * RELEASE_DIFF.md code annotation (#63239)
 * fix typo in generate_overlay_ids.py (#63240)
 * Fix map revert crash (#63226)

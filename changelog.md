@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-30-1437 ([daf8acf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-1437))
+
 * fixes encumbrance_covered muts being covered by integrated armor ([#63182](https://github.com/CleverRaven/Cataclysm-DDA/pull/63182))
 * fix xl/xs armor recipe inconsistencies ([#63261](https://github.com/CleverRaven/Cataclysm-DDA/pull/63261))
 * Cutting logs with power tools ([#63178](https://github.com/CleverRaven/Cataclysm-DDA/pull/63178))
@@ -204,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2023-01-23-0616 ([18389fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-0616))
 
 * Mole Crickets and Molerats can give tetanus ([#63187](https://github.com/CleverRaven/Cataclysm-DDA/pull/63187))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-22-1718 ([b96b791](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-22-1718))
-
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
