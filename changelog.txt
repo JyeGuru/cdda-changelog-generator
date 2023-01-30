@@ -1,3 +1,8 @@
+* Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs (#63334)
+* Fix: Include spell name in default msg for relic spells (#63321)
+
+Cataclysm-DDA experimental build 2023-01-30-0412 (03cf3dc)
+* Improve Xedra Evolved Itemgroup and Spell Class Bugfixes (#63338)
 
 Cataclysm-DDA experimental build 2023-01-29-1852 (690e38e)
 * Fix "SPEEDLOADER" Flag (#63287)
@@ -124,8 +129,6 @@ Cataclysm-DDA experimental build 2023-01-22-0846 (c2a599a)
 
 Cataclysm-DDA experimental build 2023-01-22-0710 (ac2131a)
 * use open glass door looks-like for open red & green glass door (#63193)
-
-Cataclysm-DDA experimental build 2023-01-21-2015 (2ed6865)
 * Fix MSVC CI build failures (#63214)
 * Add `FISH_TRAP` tool quality so that NPCs can use either kind of fish trap (#63224)
 * Don't accidentally remove actual ram when the car is shoved (#63217)
@@ -145,7 +148,4 @@ Cataclysm-DDA experimental build 2023-01-21-2015 (2ed6865)
 * fix: missing corner in one FEMA entrance (#63114)
 * Routine i18n updates on 14 January 2023 (#63105)
 * Fix the check error originating from `TALK_lumbermill_fabricate.json` (#63102)
-* Lowered amount of cable spawned on `mission_meteorologist_5` (#63093)
-* Fix link typo in MISSIONS_JSON.md and link to correct subsection (#63096)
 * Allow the scrap trader to sit in their chair. (#63099)
-* Fix typo of `looks_like` json property (#63098)
