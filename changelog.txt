@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-01-30-0627 (a14b798)
+* Add information about migration and obsoletion into JSON_INFO.md (#63302)
+
 Cataclysm-DDA experimental build 2023-01-30-0520 (ea63fd9)
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs (#63334)
 * Fix: Include spell name in default msg for relic spells (#63321)
@@ -115,8 +118,6 @@ Cataclysm-DDA experimental build 2023-01-22-1006 (27d6b46)
 * Correct chemical byproduct charges by using byproduct_group (#63137)
 * Remove an erroneous dialogue response in the faction camp tutorial (#63146)
 * NPCs documentation cleanup (#63153)
-
-Cataclysm-DDA experimental build 2023-01-22-0846 (c2a599a)
 * Add bodygraph with wetness data (#63158)
 * Migrate from set-output to GITHUB_OUTPUT (#63169)
 * Prevent loot-generation errors during ranged_balance_test (#63174)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2023-01-22-0846 (c2a599a)
 * fix: missing corner in one FEMA entrance (#63114)
 * Routine i18n updates on 14 January 2023 (#63105)
 * Fix the check error originating from `TALK_lumbermill_fabricate.json` (#63102)
-* Allow the scrap trader to sit in their chair. (#63099)

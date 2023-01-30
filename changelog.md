@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-01-30-0627 ([a14b798](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0627))
+
+* Add information about migration and obsoletion into JSON_INFO.md ([#63302](https://github.com/CleverRaven/Cataclysm-DDA/pull/63302))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-30-0520 ([ea63fd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0520))
 
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
@@ -202,11 +208,6 @@
 * Correct chemical byproduct charges by using byproduct_group ([#63137](https://github.com/CleverRaven/Cataclysm-DDA/pull/63137))
 * Remove an erroneous dialogue response in the faction camp tutorial ([#63146](https://github.com/CleverRaven/Cataclysm-DDA/pull/63146))
 * NPCs documentation cleanup ([#63153](https://github.com/CleverRaven/Cataclysm-DDA/pull/63153))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-22-0846 ([c2a599a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-22-0846))
-
 * Add bodygraph with wetness data ([#63158](https://github.com/CleverRaven/Cataclysm-DDA/pull/63158))
 * Migrate from set-output to GITHUB_OUTPUT ([#63169](https://github.com/CleverRaven/Cataclysm-DDA/pull/63169))
 * Prevent loot-generation errors during ranged_balance_test ([#63174](https://github.com/CleverRaven/Cataclysm-DDA/pull/63174))
@@ -238,4 +239,3 @@
 * fix: missing corner in one FEMA entrance ([#63114](https://github.com/CleverRaven/Cataclysm-DDA/pull/63114))
 * Routine i18n updates on 14 January 2023 ([#63105](https://github.com/CleverRaven/Cataclysm-DDA/pull/63105))
 * Fix the check error originating from `TALK_lumbermill_fabricate.json` ([#63102](https://github.com/CleverRaven/Cataclysm-DDA/pull/63102))
-* Allow the scrap trader to sit in their chair. ([#63099](https://github.com/CleverRaven/Cataclysm-DDA/pull/63099))
