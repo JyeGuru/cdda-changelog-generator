@@ -105,11 +105,6 @@
 * [CR]Monsters add weight to vehicle when on boardable parts ([#63305](https://github.com/CleverRaven/Cataclysm-DDA/pull/63305))
 * Do not change pocket priority when query is canceled ([#63306](https://github.com/CleverRaven/Cataclysm-DDA/pull/63306))
 * Bokken nerf and recipe adjustment. ([#63307](https://github.com/CleverRaven/Cataclysm-DDA/pull/63307))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-28-0055 ([1cdf128](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-28-0055))
-
 * Fix disappearing "tags" label in debug mapedit item editing ([#63313](https://github.com/CleverRaven/Cataclysm-DDA/pull/63313))
 * Update Transifex CLI version in push translation template GHA workflow ([#63309](https://github.com/CleverRaven/Cataclysm-DDA/pull/63309))
 * Save time on pull translations GitHub Actions workflow ([#63308](https://github.com/CleverRaven/Cataclysm-DDA/pull/63308))
@@ -194,6 +189,11 @@
 #### Cataclysm-DDA experimental build 2023-01-23-1430 ([c2d334f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1430))
 
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-23-1324 ([3d83921](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1324))
+
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
 * Fix display of body status info ([#63160](https://github.com/CleverRaven/Cataclysm-DDA/pull/63160))
 * Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))
