@@ -17,11 +17,6 @@
 #### Cataclysm-DDA experimental build 2023-01-31-0114 ([69dc0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0114))
 
 * Grabs only suffocate for enemies that shove as a group ([#63352](https://github.com/CleverRaven/Cataclysm-DDA/pull/63352))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-30-1437 ([daf8acf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-1437))
-
 * fixes encumbrance_covered muts being covered by integrated armor ([#63182](https://github.com/CleverRaven/Cataclysm-DDA/pull/63182))
 * fix xl/xs armor recipe inconsistencies ([#63261](https://github.com/CleverRaven/Cataclysm-DDA/pull/63261))
 * Cutting logs with power tools ([#63178](https://github.com/CleverRaven/Cataclysm-DDA/pull/63178))
@@ -30,17 +25,7 @@
 * Routine tileset updates on 29 January 2023 ([#63342](https://github.com/CleverRaven/Cataclysm-DDA/pull/63342))
 * Remove athletics training for waiting in water ([#63199](https://github.com/CleverRaven/Cataclysm-DDA/pull/63199))
 * `JSON_FLAGS.md` cleanup ([#63339](https://github.com/CleverRaven/Cataclysm-DDA/pull/63339))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-30-1327 ([200e84d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-1327))
-
 * Passing time for stationary generators and other immobile vehicles ([#63206](https://github.com/CleverRaven/Cataclysm-DDA/pull/63206))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-30-0627 ([a14b798](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0627))
-
 * Add information about migration and obsoletion into JSON_INFO.md ([#63302](https://github.com/CleverRaven/Cataclysm-DDA/pull/63302))
 
 ---
@@ -194,11 +179,26 @@
 #### Cataclysm-DDA experimental build 2023-01-23-1430 ([c2d334f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1430))
 
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-23-1324 ([3d83921](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1324))
+
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-23-1121 ([beda1c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1121))
+
 * Fix display of body status info ([#63160](https://github.com/CleverRaven/Cataclysm-DDA/pull/63160))
 * Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))
 * Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
 * Fix CANNIBAL trait check in Smokes dialog ([#63241](https://github.com/CleverRaven/Cataclysm-DDA/pull/63241))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-23-1009 ([f5f577f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1009))
+
 * Fix display of byproduct charges in crafting gui ([#63252](https://github.com/CleverRaven/Cataclysm-DDA/pull/63252))
 * Mole Crickets and Molerats can give tetanus ([#63187](https://github.com/CleverRaven/Cataclysm-DDA/pull/63187))
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
