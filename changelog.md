@@ -1,3 +1,11 @@
+* Fix #63204: Make proficiency account for SKILL_TRAINING_SPEED ([#63256](https://github.com/CleverRaven/Cataclysm-DDA/pull/63256))
+* Unarmed hits correctly gain unarmed experience ([#63324](https://github.com/CleverRaven/Cataclysm-DDA/pull/63324))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-31-0114 ([69dc0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0114))
+
+* Grabs only suffocate for enemies that shove as a group ([#63352](https://github.com/CleverRaven/Cataclysm-DDA/pull/63352))
 
 ---
 
@@ -196,16 +204,10 @@
 #### Cataclysm-DDA experimental build 2023-01-23-1009 ([f5f577f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1009))
 
 * Fix display of byproduct charges in crafting gui ([#63252](https://github.com/CleverRaven/Cataclysm-DDA/pull/63252))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-23-0616 ([18389fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-0616))
-
 * Mole Crickets and Molerats can give tetanus ([#63187](https://github.com/CleverRaven/Cataclysm-DDA/pull/63187))
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
-* Correct chemical byproduct charges by using byproduct_group ([#63137](https://github.com/CleverRaven/Cataclysm-DDA/pull/63137))
 * Remove an erroneous dialogue response in the faction camp tutorial ([#63146](https://github.com/CleverRaven/Cataclysm-DDA/pull/63146))
 * NPCs documentation cleanup ([#63153](https://github.com/CleverRaven/Cataclysm-DDA/pull/63153))
 * Add bodygraph with wetness data ([#63158](https://github.com/CleverRaven/Cataclysm-DDA/pull/63158))
@@ -231,5 +233,3 @@
 * Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
 * Sonia can now talk about her recent past ([#63140](https://github.com/CleverRaven/Cataclysm-DDA/pull/63140))
 * De-duplicate zinc powder recipe ([#63143](https://github.com/CleverRaven/Cataclysm-DDA/pull/63143))
-* Remove workbench construction vs crafting exploit ([#63128](https://github.com/CleverRaven/Cataclysm-DDA/pull/63128))
-* Routine tileset updates on 15 January 2023 ([#63127](https://github.com/CleverRaven/Cataclysm-DDA/pull/63127))
