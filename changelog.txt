@@ -1,3 +1,4 @@
+* The great oversizing (#63258)
 
 Cataclysm-DDA experimental build 2023-01-31-0223 (a71554a)
 * Fix #63204: Make proficiency account for SKILL_TRAINING_SPEED (#63256)
@@ -110,8 +111,6 @@ Cataclysm-DDA experimental build 2023-01-23-1430 (c2d334f)
 
 Cataclysm-DDA experimental build 2023-01-23-1324 (3d83921)
 * Fix bodystatus window wetness display (#63255)
-
-Cataclysm-DDA experimental build 2023-01-23-1121 (beda1c4)
 * Fix display of body status info (#63160)
 * Jsonifying of ladder use actions (#63227)
 * Hide vehicle stats on sidebar unless relevant (#63230)
@@ -144,5 +143,4 @@ Cataclysm-DDA experimental build 2023-01-23-1121 (beda1c4)
 * Adjust `f_metal_trashcan` construct, bash & disassembly (#63168)
 * Shell mutation ordering (#63166)
 * Add/update dumpster disassembly and bash products (#63144)
-* Sonia can now talk about her recent past (#63140)
 * De-duplicate zinc powder recipe (#63143)

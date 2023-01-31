@@ -1,3 +1,4 @@
+* The great oversizing ([#63258](https://github.com/CleverRaven/Cataclysm-DDA/pull/63258))
 
 ---
 
@@ -194,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2023-01-23-1324 ([3d83921](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1324))
 
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-23-1121 ([beda1c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1121))
-
 * Fix display of body status info ([#63160](https://github.com/CleverRaven/Cataclysm-DDA/pull/63160))
 * Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))
 * Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
@@ -231,5 +227,4 @@
 * Adjust `f_metal_trashcan` construct, bash & disassembly ([#63168](https://github.com/CleverRaven/Cataclysm-DDA/pull/63168))
 * Shell mutation ordering ([#63166](https://github.com/CleverRaven/Cataclysm-DDA/pull/63166))
 * Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
-* Sonia can now talk about her recent past ([#63140](https://github.com/CleverRaven/Cataclysm-DDA/pull/63140))
 * De-duplicate zinc powder recipe ([#63143](https://github.com/CleverRaven/Cataclysm-DDA/pull/63143))
