@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-31-0703 ([03f25dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0703))
+
 * The great oversizing ([#63258](https://github.com/CleverRaven/Cataclysm-DDA/pull/63258))
 
 ---
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2023-01-23-1430 ([c2d334f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1430))
 
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-23-1324 ([3d83921](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1324))
-
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
 * Fix display of body status info ([#63160](https://github.com/CleverRaven/Cataclysm-DDA/pull/63160))
 * Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))

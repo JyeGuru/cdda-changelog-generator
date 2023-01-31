@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-01-31-0703 (03f25dc)
 * The great oversizing (#63258)
 
 Cataclysm-DDA experimental build 2023-01-31-0223 (a71554a)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2023-01-23-1637 (7921045)
 
 Cataclysm-DDA experimental build 2023-01-23-1430 (c2d334f)
 * Speedydex bonus fix (#63175)
-
-Cataclysm-DDA experimental build 2023-01-23-1324 (3d83921)
 * Fix bodystatus window wetness display (#63255)
 * Fix display of body status info (#63160)
 * Jsonifying of ladder use actions (#63227)
