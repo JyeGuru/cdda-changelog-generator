@@ -89,6 +89,11 @@
 #### Cataclysm-DDA experimental build 2023-01-29-0324 ([37bd8a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-0324))
 
 * Add repair kits to soldering requirement lists ([#63312](https://github.com/CleverRaven/Cataclysm-DDA/pull/63312))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-28-0613 ([f097346](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-28-0613))
+
 * Routine i18n updates on 28 January 2023 ([#63317](https://github.com/CleverRaven/Cataclysm-DDA/pull/63317))
 
 ---
@@ -159,6 +164,11 @@
 #### Cataclysm-DDA experimental build 2023-01-26-1624 ([0213a71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-26-1624))
 
 * Finish PR #62472 ([#63289](https://github.com/CleverRaven/Cataclysm-DDA/pull/63289))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-26-0615 ([9bede42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-26-0615))
+
 * Add `i4_diesel` disassembly ([#63267](https://github.com/CleverRaven/Cataclysm-DDA/pull/63267))
 
 ---
@@ -185,20 +195,10 @@
 
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-23-1121 ([beda1c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1121))
-
 * Fix display of body status info ([#63160](https://github.com/CleverRaven/Cataclysm-DDA/pull/63160))
 * Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))
 * Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
 * Fix CANNIBAL trait check in Smokes dialog ([#63241](https://github.com/CleverRaven/Cataclysm-DDA/pull/63241))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-23-1009 ([f5f577f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1009))
-
 * Fix display of byproduct charges in crafting gui ([#63252](https://github.com/CleverRaven/Cataclysm-DDA/pull/63252))
 * Mole Crickets and Molerats can give tetanus ([#63187](https://github.com/CleverRaven/Cataclysm-DDA/pull/63187))
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
