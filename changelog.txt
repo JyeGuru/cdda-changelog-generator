@@ -50,8 +50,6 @@ Cataclysm-DDA experimental build 2023-01-29-0428 (b483a88)
 
 Cataclysm-DDA experimental build 2023-01-29-0324 (37bd8a2)
 * Add repair kits to soldering requirement lists (#63312)
-
-Cataclysm-DDA experimental build 2023-01-28-0613 (f097346)
 * Routine i18n updates on 28 January 2023 (#63317)
 
 Cataclysm-DDA experimental build 2023-01-28-0200 (4b6270c)
@@ -95,8 +93,6 @@ Cataclysm-DDA experimental build 2023-01-26-1726 (23fbe93)
 
 Cataclysm-DDA experimental build 2023-01-26-1624 (0213a71)
 * Finish PR #62472 (#63289)
-
-Cataclysm-DDA experimental build 2023-01-26-0615 (9bede42)
 * Add `i4_diesel` disassembly (#63267)
 
 Cataclysm-DDA experimental build 2023-01-25-0616 (9864b45)
@@ -111,10 +107,14 @@ Cataclysm-DDA experimental build 2023-01-23-1637 (7921045)
 Cataclysm-DDA experimental build 2023-01-23-1430 (c2d334f)
 * Speedydex bonus fix (#63175)
 * Fix bodystatus window wetness display (#63255)
+
+Cataclysm-DDA experimental build 2023-01-23-1121 (beda1c4)
 * Fix display of body status info (#63160)
 * Jsonifying of ladder use actions (#63227)
 * Hide vehicle stats on sidebar unless relevant (#63230)
 * Fix CANNIBAL trait check in Smokes dialog (#63241)
+
+Cataclysm-DDA experimental build 2023-01-23-1009 (f5f577f)
 * Fix display of byproduct charges in crafting gui (#63252)
 * Mole Crickets and Molerats can give tetanus (#63187)
 * RELEASE_DIFF.md code annotation (#63239)
