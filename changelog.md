@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-01-1011 ([b549a17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-1011))
+
+* Remove bashing stat from (chemical) powders, pastes and liquids ([#63377](https://github.com/CleverRaven/Cataclysm-DDA/pull/63377))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-01-31-0703 ([03f25dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0703))
 
 * The great oversizing ([#63258](https://github.com/CleverRaven/Cataclysm-DDA/pull/63258))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2023-01-23-1637 ([7921045](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1637))
 
 * Half Worm volume and mass changes ([#63189](https://github.com/CleverRaven/Cataclysm-DDA/pull/63189))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-23-1430 ([c2d334f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1430))
-
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
 * Fix display of body status info ([#63160](https://github.com/CleverRaven/Cataclysm-DDA/pull/63160))
@@ -227,4 +228,3 @@
 * Adjust `f_metal_trashcan` construct, bash & disassembly ([#63168](https://github.com/CleverRaven/Cataclysm-DDA/pull/63168))
 * Shell mutation ordering ([#63166](https://github.com/CleverRaven/Cataclysm-DDA/pull/63166))
 * Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
-* De-duplicate zinc powder recipe ([#63143](https://github.com/CleverRaven/Cataclysm-DDA/pull/63143))

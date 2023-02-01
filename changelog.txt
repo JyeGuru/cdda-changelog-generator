@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-01-1011 (b549a17)
+* Remove bashing stat from (chemical) powders, pastes and liquids (#63377)
+
 Cataclysm-DDA experimental build 2023-01-31-0703 (03f25dc)
 * The great oversizing (#63258)
 
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2023-01-24-0609 (bfe455e)
 
 Cataclysm-DDA experimental build 2023-01-23-1637 (7921045)
 * Half Worm volume and mass changes (#63189)
-
-Cataclysm-DDA experimental build 2023-01-23-1430 (c2d334f)
 * Speedydex bonus fix (#63175)
 * Fix bodystatus window wetness display (#63255)
 * Fix display of body status info (#63160)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2023-01-23-1430 (c2d334f)
 * Adjust `f_metal_trashcan` construct, bash & disassembly (#63168)
 * Shell mutation ordering (#63166)
 * Add/update dumpster disassembly and bash products (#63144)
-* De-duplicate zinc powder recipe (#63143)
