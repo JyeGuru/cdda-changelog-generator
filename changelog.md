@@ -1,3 +1,12 @@
+* Fix coverage for armor without sublocation data ([#63382](https://github.com/CleverRaven/Cataclysm-DDA/pull/63382))
+* Fix batch crafting calories displayed wrong ([#63387](https://github.com/CleverRaven/Cataclysm-DDA/pull/63387))
+* Add cheesemaking proficiencies to hard cheese ([#63383](https://github.com/CleverRaven/Cataclysm-DDA/pull/63383))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-01-2015 ([33cb478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-2015))
+
+* Update thermochemical properties of zinc material ([#63373](https://github.com/CleverRaven/Cataclysm-DDA/pull/63373))
 
 ---
 
@@ -74,7 +83,6 @@
 
 * Fix "SPEEDLOADER" Flag ([#63287](https://github.com/CleverRaven/Cataclysm-DDA/pull/63287))
 * add UNBREAKABLE documentation to JSON_FLAGS.md ([#63325](https://github.com/CleverRaven/Cataclysm-DDA/pull/63325))
-* Fix vehicle::air_drag_coeff() ([#63147](https://github.com/CleverRaven/Cataclysm-DDA/pull/63147))
 * Update terrain-manufactured.json ([#63331](https://github.com/CleverRaven/Cataclysm-DDA/pull/63331))
 
 ---
@@ -182,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2023-01-26-0615 ([9bede42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-26-0615))
 
 * Add `i4_diesel` disassembly ([#63267](https://github.com/CleverRaven/Cataclysm-DDA/pull/63267))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-25-0616 ([9864b45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-25-0616))
-
 * [MSC] Remove extra candy from the MRE item group ([#63246](https://github.com/CleverRaven/Cataclysm-DDA/pull/63246))
 * Routine tileset updates on 22 January 2023 ([#63250](https://github.com/CleverRaven/Cataclysm-DDA/pull/63250))
 * Half Worm volume and mass changes ([#63189](https://github.com/CleverRaven/Cataclysm-DDA/pull/63189))
@@ -201,8 +204,6 @@
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
-* Remove an erroneous dialogue response in the faction camp tutorial ([#63146](https://github.com/CleverRaven/Cataclysm-DDA/pull/63146))
-* NPCs documentation cleanup ([#63153](https://github.com/CleverRaven/Cataclysm-DDA/pull/63153))
 * Add bodygraph with wetness data ([#63158](https://github.com/CleverRaven/Cataclysm-DDA/pull/63158))
 * Migrate from set-output to GITHUB_OUTPUT ([#63169](https://github.com/CleverRaven/Cataclysm-DDA/pull/63169))
 * Prevent loot-generation errors during ranged_balance_test ([#63174](https://github.com/CleverRaven/Cataclysm-DDA/pull/63174))
