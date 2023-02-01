@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-01-1723 ([0c07076](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-1723))
+
 * 0.G changelog  ([#63198](https://github.com/CleverRaven/Cataclysm-DDA/pull/63198))
 
 ---
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2023-01-25-0616 ([9864b45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-25-0616))
 
 * [MSC] Remove extra candy from the MRE item group ([#63246](https://github.com/CleverRaven/Cataclysm-DDA/pull/63246))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-24-0609 ([bfe455e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-24-0609))
-
 * Routine tileset updates on 22 January 2023 ([#63250](https://github.com/CleverRaven/Cataclysm-DDA/pull/63250))
 * Half Worm volume and mass changes ([#63189](https://github.com/CleverRaven/Cataclysm-DDA/pull/63189))
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))

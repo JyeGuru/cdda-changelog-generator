@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-02-01-1723 (0c07076)
 * 0.G changelog  (#63198)
 
 Cataclysm-DDA experimental build 2023-02-01-1011 (b549a17)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2023-01-26-0615 (9bede42)
 
 Cataclysm-DDA experimental build 2023-01-25-0616 (9864b45)
 * [MSC] Remove extra candy from the MRE item group (#63246)
-
-Cataclysm-DDA experimental build 2023-01-24-0609 (bfe455e)
 * Routine tileset updates on 22 January 2023 (#63250)
 * Half Worm volume and mass changes (#63189)
 * Speedydex bonus fix (#63175)
