@@ -188,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2023-01-24-0609 ([bfe455e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-24-0609))
 
 * Routine tileset updates on 22 January 2023 ([#63250](https://github.com/CleverRaven/Cataclysm-DDA/pull/63250))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-23-1637 ([7921045](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-23-1637))
-
 * Half Worm volume and mass changes ([#63189](https://github.com/CleverRaven/Cataclysm-DDA/pull/63189))
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))

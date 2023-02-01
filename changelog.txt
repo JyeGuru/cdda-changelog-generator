@@ -107,8 +107,6 @@ Cataclysm-DDA experimental build 2023-01-25-0616 (9864b45)
 
 Cataclysm-DDA experimental build 2023-01-24-0609 (bfe455e)
 * Routine tileset updates on 22 January 2023 (#63250)
-
-Cataclysm-DDA experimental build 2023-01-23-1637 (7921045)
 * Half Worm volume and mass changes (#63189)
 * Speedydex bonus fix (#63175)
 * Fix bodystatus window wetness display (#63255)
