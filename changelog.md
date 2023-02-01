@@ -1,3 +1,4 @@
+* 0.G changelog  ([#63198](https://github.com/CleverRaven/Cataclysm-DDA/pull/63198))
 
 ---
 
@@ -222,4 +223,3 @@
 * Set Saddlebag's primary skill to tailoring (from none) ([#63170](https://github.com/CleverRaven/Cataclysm-DDA/pull/63170))
 * Adjust `f_metal_trashcan` construct, bash & disassembly ([#63168](https://github.com/CleverRaven/Cataclysm-DDA/pull/63168))
 * Shell mutation ordering ([#63166](https://github.com/CleverRaven/Cataclysm-DDA/pull/63166))
-* Add/update dumpster disassembly and bash products ([#63144](https://github.com/CleverRaven/Cataclysm-DDA/pull/63144))
