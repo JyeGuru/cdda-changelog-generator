@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-02-0717 ([a5ec978](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-02-0717))
+
+* Fix some missing conflicts for Expanded Digestive ([#63371](https://github.com/CleverRaven/Cataclysm-DDA/pull/63371))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-01-2138 ([96621c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-2138))
 
 * profs change gender redraw. ([#63367](https://github.com/CleverRaven/Cataclysm-DDA/pull/63367))
@@ -184,11 +190,6 @@
 * Fixes to portal resurrection and incorporeal ([#63280](https://github.com/CleverRaven/Cataclysm-DDA/pull/63280))
 * Fix documentation typo ([#63279](https://github.com/CleverRaven/Cataclysm-DDA/pull/63279))
 * add large_tent_equivalent component group ([#63223](https://github.com/CleverRaven/Cataclysm-DDA/pull/63223))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-26-1624 ([0213a71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-26-1624))
-
 * Finish PR #62472 ([#63289](https://github.com/CleverRaven/Cataclysm-DDA/pull/63289))
 * Add `i4_diesel` disassembly ([#63267](https://github.com/CleverRaven/Cataclysm-DDA/pull/63267))
 * [MSC] Remove extra candy from the MRE item group ([#63246](https://github.com/CleverRaven/Cataclysm-DDA/pull/63246))
@@ -196,7 +197,6 @@
 * Half Worm volume and mass changes ([#63189](https://github.com/CleverRaven/Cataclysm-DDA/pull/63189))
 * Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
-* Fix display of body status info ([#63160](https://github.com/CleverRaven/Cataclysm-DDA/pull/63160))
 * Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))
 * Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
 * Fix CANNIBAL trait check in Smokes dialog ([#63241](https://github.com/CleverRaven/Cataclysm-DDA/pull/63241))
