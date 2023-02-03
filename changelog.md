@@ -176,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2023-01-27-0622 ([16f2625](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-0622))
 
 * Alternate ironshod staff recipe, no forging required ([#63298](https://github.com/CleverRaven/Cataclysm-DDA/pull/63298))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-27-0358 ([52fc15d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-0358))
-
 * Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
 * Remove DURABLE_MELEE from pipe and pipe weapons. ([#63297](https://github.com/CleverRaven/Cataclysm-DDA/pull/63297))
 * Highlight HURT effect messages with m_bad ([#63301](https://github.com/CleverRaven/Cataclysm-DDA/pull/63301))
