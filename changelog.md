@@ -1,3 +1,4 @@
+* visitable: properly support the IS_UPS flag ([#63399](https://github.com/CleverRaven/Cataclysm-DDA/pull/63399))
 * Fix: activating a pill container consumes the whole pill stack ([#63400](https://github.com/CleverRaven/Cataclysm-DDA/pull/63400))
 
 ---
@@ -224,4 +225,3 @@
 * [Innawood] Autolearn crafting different grades of steel ([#63218](https://github.com/CleverRaven/Cataclysm-DDA/pull/63218))
 * Routine i18n updates on 21 January 2023 ([#63213](https://github.com/CleverRaven/Cataclysm-DDA/pull/63213))
 * Set Saddlebag's primary skill to tailoring (from none) ([#63170](https://github.com/CleverRaven/Cataclysm-DDA/pull/63170))
-* Adjust `f_metal_trashcan` construct, bash & disassembly ([#63168](https://github.com/CleverRaven/Cataclysm-DDA/pull/63168))
