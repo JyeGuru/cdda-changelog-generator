@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-03-0647 ([a68dbeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-03-0647))
+
+* Earthshaper pickaxe can mine now ([#63401](https://github.com/CleverRaven/Cataclysm-DDA/pull/63401))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-02-0717 ([a5ec978](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-02-0717))
 
 * Fix some missing conflicts for Expanded Digestive ([#63371](https://github.com/CleverRaven/Cataclysm-DDA/pull/63371))
@@ -177,11 +183,6 @@
 
 * Fix issue with setting hp of sub parts ([#63259](https://github.com/CleverRaven/Cataclysm-DDA/pull/63259))
 * Cleanup apartment tower ([#63260](https://github.com/CleverRaven/Cataclysm-DDA/pull/63260))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-26-1726 ([23fbe93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-26-1726))
-
 * don't become itchy while sleeping if shutdown ([#63273](https://github.com/CleverRaven/Cataclysm-DDA/pull/63273))
 * fix: remove tazer hack death message ([#63275](https://github.com/CleverRaven/Cataclysm-DDA/pull/63275))
 * Fixed error in code. Incorect loop by iterator. ([#63284](https://github.com/CleverRaven/Cataclysm-DDA/pull/63284))
