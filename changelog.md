@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-03-1420 ([9c76056](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-03-1420))
+
+* Require correct petfood when attempting to tame hallucinated animal ([#63407](https://github.com/CleverRaven/Cataclysm-DDA/pull/63407))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-03-0820 ([a0d3567](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-03-0820))
 
 * visitable: properly support the IS_UPS flag ([#63399](https://github.com/CleverRaven/Cataclysm-DDA/pull/63399))
@@ -177,11 +183,6 @@
 
 * Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
 * Remove DURABLE_MELEE from pipe and pipe weapons. ([#63297](https://github.com/CleverRaven/Cataclysm-DDA/pull/63297))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-27-0207 ([448f87b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-0207))
-
 * Highlight HURT effect messages with m_bad ([#63301](https://github.com/CleverRaven/Cataclysm-DDA/pull/63301))
 * Fix issue with setting hp of sub parts ([#63259](https://github.com/CleverRaven/Cataclysm-DDA/pull/63259))
 * Cleanup apartment tower ([#63260](https://github.com/CleverRaven/Cataclysm-DDA/pull/63260))
@@ -208,7 +209,6 @@
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
-* Migrate from set-output to GITHUB_OUTPUT ([#63169](https://github.com/CleverRaven/Cataclysm-DDA/pull/63169))
 * Prevent loot-generation errors during ranged_balance_test ([#63174](https://github.com/CleverRaven/Cataclysm-DDA/pull/63174))
 * Remove Ultica_iso from overmap tilesets ([#63177](https://github.com/CleverRaven/Cataclysm-DDA/pull/63177))
 * Use fake curtains to block vision ([#63181](https://github.com/CleverRaven/Cataclysm-DDA/pull/63181))
