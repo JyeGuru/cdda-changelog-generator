@@ -1,3 +1,9 @@
+* Remove and replace zeriatrics, feral grannies, and Big Pappy. ([#63423](https://github.com/CleverRaven/Cataclysm-DDA/pull/63423))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-04-2043 ([1c6c450](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-04-2043))
+
 * remove gunpowder from .22 CB disassembly ([#63411](https://github.com/CleverRaven/Cataclysm-DDA/pull/63411))
 * fix skull strapped to head coverage ([#63420](https://github.com/CleverRaven/Cataclysm-DDA/pull/63420))
 * Mutant Moose Fixes ([#63406](https://github.com/CleverRaven/Cataclysm-DDA/pull/63406))
@@ -170,11 +176,6 @@
 * [CR]Monsters add weight to vehicle when on boardable parts ([#63305](https://github.com/CleverRaven/Cataclysm-DDA/pull/63305))
 * Do not change pocket priority when query is canceled ([#63306](https://github.com/CleverRaven/Cataclysm-DDA/pull/63306))
 * Bokken nerf and recipe adjustment. ([#63307](https://github.com/CleverRaven/Cataclysm-DDA/pull/63307))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-28-0055 ([1cdf128](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-28-0055))
-
 * Fix disappearing "tags" label in debug mapedit item editing ([#63313](https://github.com/CleverRaven/Cataclysm-DDA/pull/63313))
 * Update Transifex CLI version in push translation template GHA workflow ([#63309](https://github.com/CleverRaven/Cataclysm-DDA/pull/63309))
 * Save time on pull translations GitHub Actions workflow ([#63308](https://github.com/CleverRaven/Cataclysm-DDA/pull/63308))
@@ -207,7 +208,6 @@
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
-* Use fake curtains to block vision ([#63181](https://github.com/CleverRaven/Cataclysm-DDA/pull/63181))
 * Fix downspout deconstruct outcome ([#63196](https://github.com/CleverRaven/Cataclysm-DDA/pull/63196))
 * Fix newcharacter screen hobby skills calculation ([#63205](https://github.com/CleverRaven/Cataclysm-DDA/pull/63205))
 * Fix CMake compilation and localization ([#63208](https://github.com/CleverRaven/Cataclysm-DDA/pull/63208))
