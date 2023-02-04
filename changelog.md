@@ -1,3 +1,12 @@
+* remove gunpowder from .22 CB disassembly ([#63411](https://github.com/CleverRaven/Cataclysm-DDA/pull/63411))
+* fix skull strapped to head coverage ([#63420](https://github.com/CleverRaven/Cataclysm-DDA/pull/63420))
+* Mutant Moose Fixes ([#63406](https://github.com/CleverRaven/Cataclysm-DDA/pull/63406))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-04-1933 ([900fb99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-04-1933))
+
+* Eating menu properly displays whether an item is sealed ([#63408](https://github.com/CleverRaven/Cataclysm-DDA/pull/63408))
 
 ---
 
@@ -82,7 +91,6 @@
 
 * fixes encumbrance_covered muts being covered by integrated armor ([#63182](https://github.com/CleverRaven/Cataclysm-DDA/pull/63182))
 * fix xl/xs armor recipe inconsistencies ([#63261](https://github.com/CleverRaven/Cataclysm-DDA/pull/63261))
-* Cutting logs with power tools ([#63178](https://github.com/CleverRaven/Cataclysm-DDA/pull/63178))
 * Add confirmation before abandoning camp ([#63351](https://github.com/CleverRaven/Cataclysm-DDA/pull/63351))
 * inv_ui: fix minor annoyances ([#63340](https://github.com/CleverRaven/Cataclysm-DDA/pull/63340))
 * Routine tileset updates on 29 January 2023 ([#63342](https://github.com/CleverRaven/Cataclysm-DDA/pull/63342))
@@ -170,11 +178,6 @@
 * Fix disappearing "tags" label in debug mapedit item editing ([#63313](https://github.com/CleverRaven/Cataclysm-DDA/pull/63313))
 * Update Transifex CLI version in push translation template GHA workflow ([#63309](https://github.com/CleverRaven/Cataclysm-DDA/pull/63309))
 * Save time on pull translations GitHub Actions workflow ([#63308](https://github.com/CleverRaven/Cataclysm-DDA/pull/63308))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-27-1544 ([7434cb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-1544))
-
 * Fix Throwing Knives in Xedra Evolved ([#63304](https://github.com/CleverRaven/Cataclysm-DDA/pull/63304))
 * Alternate ironshod staff recipe, no forging required ([#63298](https://github.com/CleverRaven/Cataclysm-DDA/pull/63298))
 * Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
@@ -195,7 +198,6 @@
 * [MSC] Remove extra candy from the MRE item group ([#63246](https://github.com/CleverRaven/Cataclysm-DDA/pull/63246))
 * Routine tileset updates on 22 January 2023 ([#63250](https://github.com/CleverRaven/Cataclysm-DDA/pull/63250))
 * Half Worm volume and mass changes ([#63189](https://github.com/CleverRaven/Cataclysm-DDA/pull/63189))
-* Speedydex bonus fix ([#63175](https://github.com/CleverRaven/Cataclysm-DDA/pull/63175))
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
 * Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))
 * Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
@@ -205,8 +207,6 @@
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
-* Prevent loot-generation errors during ranged_balance_test ([#63174](https://github.com/CleverRaven/Cataclysm-DDA/pull/63174))
-* Remove Ultica_iso from overmap tilesets ([#63177](https://github.com/CleverRaven/Cataclysm-DDA/pull/63177))
 * Use fake curtains to block vision ([#63181](https://github.com/CleverRaven/Cataclysm-DDA/pull/63181))
 * Fix downspout deconstruct outcome ([#63196](https://github.com/CleverRaven/Cataclysm-DDA/pull/63196))
 * Fix newcharacter screen hobby skills calculation ([#63205](https://github.com/CleverRaven/Cataclysm-DDA/pull/63205))
