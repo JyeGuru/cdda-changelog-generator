@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-04-1229 ([4921edd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-04-1229))
+
+* Routine i18n updates on 04 February 2023 ([#63417](https://github.com/CleverRaven/Cataclysm-DDA/pull/63417))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-03-1420 ([9c76056](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-03-1420))
 
 * Require correct petfood when attempting to tame hallucinated animal ([#63407](https://github.com/CleverRaven/Cataclysm-DDA/pull/63407))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2023-01-27-1544 ([7434cb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-1544))
 
 * Fix Throwing Knives in Xedra Evolved ([#63304](https://github.com/CleverRaven/Cataclysm-DDA/pull/63304))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-27-0622 ([16f2625](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-27-0622))
-
 * Alternate ironshod staff recipe, no forging required ([#63298](https://github.com/CleverRaven/Cataclysm-DDA/pull/63298))
 * Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
 * Remove DURABLE_MELEE from pipe and pipe weapons. ([#63297](https://github.com/CleverRaven/Cataclysm-DDA/pull/63297))
