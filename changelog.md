@@ -1,3 +1,5 @@
+* Update credits for 0.G ([#63393](https://github.com/CleverRaven/Cataclysm-DDA/pull/63393))
+* Codename for 0.G release ([#63391](https://github.com/CleverRaven/Cataclysm-DDA/pull/63391))
 * test/health: keep test npc awake ([#63422](https://github.com/CleverRaven/Cataclysm-DDA/pull/63422))
 * Remove and replace zeriatrics, feral grannies, and Big Pappy. ([#63423](https://github.com/CleverRaven/Cataclysm-DDA/pull/63423))
 
@@ -193,7 +195,6 @@
 * Add `i4_diesel` disassembly ([#63267](https://github.com/CleverRaven/Cataclysm-DDA/pull/63267))
 * [MSC] Remove extra candy from the MRE item group ([#63246](https://github.com/CleverRaven/Cataclysm-DDA/pull/63246))
 * Routine tileset updates on 22 January 2023 ([#63250](https://github.com/CleverRaven/Cataclysm-DDA/pull/63250))
-* Half Worm volume and mass changes ([#63189](https://github.com/CleverRaven/Cataclysm-DDA/pull/63189))
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
 * Jsonifying of ladder use actions ([#63227](https://github.com/CleverRaven/Cataclysm-DDA/pull/63227))
 * Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
@@ -208,7 +209,6 @@
 * Remove redundant "is vehicle in water" check ([#63207](https://github.com/CleverRaven/Cataclysm-DDA/pull/63207))
 * [ASCIITileset] Change Unknow terrain to use the unseen sprite ([#63222](https://github.com/CleverRaven/Cataclysm-DDA/pull/63222))
 * Better EOC variable messages ([#63228](https://github.com/CleverRaven/Cataclysm-DDA/pull/63228))
-* use open glass door looks-like for open red & green glass door ([#63193](https://github.com/CleverRaven/Cataclysm-DDA/pull/63193))
 * Fix MSVC CI build failures ([#63214](https://github.com/CleverRaven/Cataclysm-DDA/pull/63214))
 * Add `FISH_TRAP` tool quality so that NPCs can use either kind of fish trap ([#63224](https://github.com/CleverRaven/Cataclysm-DDA/pull/63224))
 * Don't accidentally remove actual ram when the car is shoved ([#63217](https://github.com/CleverRaven/Cataclysm-DDA/pull/63217))
