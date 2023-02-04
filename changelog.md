@@ -90,12 +90,6 @@
 #### Cataclysm-DDA experimental build 2023-01-31-0114 ([69dc0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0114))
 
 * Grabs only suffocate for enemies that shove as a group ([#63352](https://github.com/CleverRaven/Cataclysm-DDA/pull/63352))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-30-1437 ([daf8acf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-1437))
-
-* fixes encumbrance_covered muts being covered by integrated armor ([#63182](https://github.com/CleverRaven/Cataclysm-DDA/pull/63182))
 * fix xl/xs armor recipe inconsistencies ([#63261](https://github.com/CleverRaven/Cataclysm-DDA/pull/63261))
 * Add confirmation before abandoning camp ([#63351](https://github.com/CleverRaven/Cataclysm-DDA/pull/63351))
 * inv_ui: fix minor annoyances ([#63340](https://github.com/CleverRaven/Cataclysm-DDA/pull/63340))
