@@ -1,3 +1,4 @@
+* test/health: keep test npc awake (#63422)
 * Remove and replace zeriatrics, feral grannies, and Big Pappy. (#63423)
 
 Cataclysm-DDA experimental build 2023-02-04-2043 (1c6c450)
@@ -123,7 +124,6 @@ Cataclysm-DDA experimental build 2023-01-28-0200 (4b6270c)
 * Hide vehicle stats on sidebar unless relevant (#63230)
 * Fix CANNIBAL trait check in Smokes dialog (#63241)
 * Fix display of byproduct charges in crafting gui (#63252)
-* Mole Crickets and Molerats can give tetanus (#63187)
 * RELEASE_DIFF.md code annotation (#63239)
 * fix typo in generate_overlay_ids.py (#63240)
 * Fix map revert crash (#63226)

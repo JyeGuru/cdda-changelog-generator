@@ -1,3 +1,4 @@
+* test/health: keep test npc awake ([#63422](https://github.com/CleverRaven/Cataclysm-DDA/pull/63422))
 * Remove and replace zeriatrics, feral grannies, and Big Pappy. ([#63423](https://github.com/CleverRaven/Cataclysm-DDA/pull/63423))
 
 ---
@@ -198,7 +199,6 @@
 * Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
 * Fix CANNIBAL trait check in Smokes dialog ([#63241](https://github.com/CleverRaven/Cataclysm-DDA/pull/63241))
 * Fix display of byproduct charges in crafting gui ([#63252](https://github.com/CleverRaven/Cataclysm-DDA/pull/63252))
-* Mole Crickets and Molerats can give tetanus ([#63187](https://github.com/CleverRaven/Cataclysm-DDA/pull/63187))
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
