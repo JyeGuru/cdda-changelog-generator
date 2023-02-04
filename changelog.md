@@ -219,4 +219,3 @@
 * Don't accidentally remove actual ram when the car is shoved ([#63217](https://github.com/CleverRaven/Cataclysm-DDA/pull/63217))
 * [Innawood] Autolearn crafting different grades of steel ([#63218](https://github.com/CleverRaven/Cataclysm-DDA/pull/63218))
 * Routine i18n updates on 21 January 2023 ([#63213](https://github.com/CleverRaven/Cataclysm-DDA/pull/63213))
-* Set Saddlebag's primary skill to tailoring (from none) ([#63170](https://github.com/CleverRaven/Cataclysm-DDA/pull/63170))
