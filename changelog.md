@@ -196,7 +196,6 @@
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
 * Fix CMake compilation and localization ([#63208](https://github.com/CleverRaven/Cataclysm-DDA/pull/63208))
-* Remove redundant "is vehicle in water" check ([#63207](https://github.com/CleverRaven/Cataclysm-DDA/pull/63207))
 * [ASCIITileset] Change Unknow terrain to use the unseen sprite ([#63222](https://github.com/CleverRaven/Cataclysm-DDA/pull/63222))
 * Better EOC variable messages ([#63228](https://github.com/CleverRaven/Cataclysm-DDA/pull/63228))
 * Fix MSVC CI build failures ([#63214](https://github.com/CleverRaven/Cataclysm-DDA/pull/63214))
