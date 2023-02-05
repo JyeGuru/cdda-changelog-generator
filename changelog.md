@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-05-0608 ([8286625](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0608))
+
+* Bow sling volume increase ([#63374](https://github.com/CleverRaven/Cataclysm-DDA/pull/63374))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-05-0343 ([83ed3f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0343))
 
 * Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
@@ -155,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2023-01-29-1619 ([0a5c4b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-1619))
 
 * Fix broken sublimbs after resurrection ([#63326](https://github.com/CleverRaven/Cataclysm-DDA/pull/63326))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-29-0640 ([a7cc07a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-0640))
-
 * Add dog tags as a possible drop for dogs ([#63328](https://github.com/CleverRaven/Cataclysm-DDA/pull/63328))
 * fix: minor mapgen error ([#63315](https://github.com/CleverRaven/Cataclysm-DDA/pull/63315))
 * Remove "vacuum pump" req from recipe for makeshift vacuum mold ([#63272](https://github.com/CleverRaven/Cataclysm-DDA/pull/63272))
@@ -200,7 +201,6 @@
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
-* Fix newcharacter screen hobby skills calculation ([#63205](https://github.com/CleverRaven/Cataclysm-DDA/pull/63205))
 * Fix CMake compilation and localization ([#63208](https://github.com/CleverRaven/Cataclysm-DDA/pull/63208))
 * Remove redundant "is vehicle in water" check ([#63207](https://github.com/CleverRaven/Cataclysm-DDA/pull/63207))
 * [ASCIITileset] Change Unknow terrain to use the unseen sprite ([#63222](https://github.com/CleverRaven/Cataclysm-DDA/pull/63222))

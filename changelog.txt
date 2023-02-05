@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-05-0608 (8286625)
+* Bow sling volume increase (#63374)
+
 Cataclysm-DDA experimental build 2023-02-05-0343 (83ed3f6)
 * Searchlights: don't drop items used for settings (#63429)
 * github: make save files mandatory for new bug reports (#63366)
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2023-01-29-1852 (690e38e)
 
 Cataclysm-DDA experimental build 2023-01-29-1619 (0a5c4b5)
 * Fix broken sublimbs after resurrection (#63326)
-
-Cataclysm-DDA experimental build 2023-01-29-0640 (a7cc07a)
 * Add dog tags as a possible drop for dogs (#63328)
 * fix: minor mapgen error (#63315)
 * Remove "vacuum pump" req from recipe for makeshift vacuum mold (#63272)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2023-01-29-0640 (a7cc07a)
 * RELEASE_DIFF.md code annotation (#63239)
 * fix typo in generate_overlay_ids.py (#63240)
 * Fix map revert crash (#63226)
-* Fix newcharacter screen hobby skills calculation (#63205)
 * Fix CMake compilation and localization (#63208)
 * Remove redundant "is vehicle in water" check (#63207)
 * [ASCIITileset] Change Unknow terrain to use the unseen sprite (#63222)
