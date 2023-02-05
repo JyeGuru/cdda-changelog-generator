@@ -1,4 +1,6 @@
 * github: make save files mandatory for new bug reports (#63366)
+
+Cataclysm-DDA experimental build 2023-02-05-0136 (d26a0f4)
 * Bandaid pricing (#63425)
 
 Cataclysm-DDA experimental build 2023-02-05-0028 (6c02d3d)
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2023-01-29-0640 (a7cc07a)
 Cataclysm-DDA experimental build 2023-01-29-0428 (b483a88)
 * fix: minor mapgen error (#63315)
 * Remove "vacuum pump" req from recipe for makeshift vacuum mold (#63272)
-
-Cataclysm-DDA experimental build 2023-01-29-0324 (37bd8a2)
 * Add repair kits to soldering requirement lists (#63312)
 * Routine i18n updates on 28 January 2023 (#63317)
 * Flammable arrows bugfixes (#63277)

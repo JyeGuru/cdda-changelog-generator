@@ -1,4 +1,9 @@
 * github: make save files mandatory for new bug reports ([#63366](https://github.com/CleverRaven/Cataclysm-DDA/pull/63366))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-05-0136 ([d26a0f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0136))
+
 * Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
 
 ---
@@ -158,11 +163,6 @@
 
 * fix: minor mapgen error ([#63315](https://github.com/CleverRaven/Cataclysm-DDA/pull/63315))
 * Remove "vacuum pump" req from recipe for makeshift vacuum mold ([#63272](https://github.com/CleverRaven/Cataclysm-DDA/pull/63272))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-29-0324 ([37bd8a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-0324))
-
 * Add repair kits to soldering requirement lists ([#63312](https://github.com/CleverRaven/Cataclysm-DDA/pull/63312))
 * Routine i18n updates on 28 January 2023 ([#63317](https://github.com/CleverRaven/Cataclysm-DDA/pull/63317))
 * Flammable arrows bugfixes ([#63277](https://github.com/CleverRaven/Cataclysm-DDA/pull/63277))
