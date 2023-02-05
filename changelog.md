@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-05-0343 ([83ed3f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0343))
+
+* Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
 * github: make save files mandatory for new bug reports ([#63366](https://github.com/CleverRaven/Cataclysm-DDA/pull/63366))
 
 ---
@@ -109,7 +115,6 @@
 * Add confirmation before abandoning camp ([#63351](https://github.com/CleverRaven/Cataclysm-DDA/pull/63351))
 * inv_ui: fix minor annoyances ([#63340](https://github.com/CleverRaven/Cataclysm-DDA/pull/63340))
 * Routine tileset updates on 29 January 2023 ([#63342](https://github.com/CleverRaven/Cataclysm-DDA/pull/63342))
-* Remove athletics training for waiting in water ([#63199](https://github.com/CleverRaven/Cataclysm-DDA/pull/63199))
 * `JSON_FLAGS.md` cleanup ([#63339](https://github.com/CleverRaven/Cataclysm-DDA/pull/63339))
 
 ---
@@ -156,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2023-01-29-0640 ([a7cc07a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-0640))
 
 * Add dog tags as a possible drop for dogs ([#63328](https://github.com/CleverRaven/Cataclysm-DDA/pull/63328))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-29-0428 ([b483a88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-0428))
-
 * fix: minor mapgen error ([#63315](https://github.com/CleverRaven/Cataclysm-DDA/pull/63315))
 * Remove "vacuum pump" req from recipe for makeshift vacuum mold ([#63272](https://github.com/CleverRaven/Cataclysm-DDA/pull/63272))
 * Add repair kits to soldering requirement lists ([#63312](https://github.com/CleverRaven/Cataclysm-DDA/pull/63312))
