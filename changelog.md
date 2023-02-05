@@ -125,12 +125,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-01-30-1327 ([200e84d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-1327))
-
-* Passing time for stationary generators and other immobile vehicles ([#63206](https://github.com/CleverRaven/Cataclysm-DDA/pull/63206))
-
----
-
 #### Cataclysm-DDA experimental build 2023-01-30-0627 ([a14b798](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0627))
 
 * Add information about migration and obsoletion into JSON_INFO.md ([#63302](https://github.com/CleverRaven/Cataclysm-DDA/pull/63302))

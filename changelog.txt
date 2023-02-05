@@ -69,9 +69,6 @@ Cataclysm-DDA experimental build 2023-01-31-0114 (69dc0dd)
 * Routine tileset updates on 29 January 2023 (#63342)
 * `JSON_FLAGS.md` cleanup (#63339)
 
-Cataclysm-DDA experimental build 2023-01-30-1327 (200e84d)
-* Passing time for stationary generators and other immobile vehicles (#63206)
-
 Cataclysm-DDA experimental build 2023-01-30-0627 (a14b798)
 * Add information about migration and obsoletion into JSON_INFO.md (#63302)
 
