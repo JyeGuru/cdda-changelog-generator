@@ -1,3 +1,11 @@
+* github: make save files mandatory for new bug reports ([#63366](https://github.com/CleverRaven/Cataclysm-DDA/pull/63366))
+* Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-05-0028 ([6c02d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0028))
+
+* Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
 
 ---
 
@@ -67,12 +75,6 @@
 #### Cataclysm-DDA experimental build 2023-02-01-2015 ([33cb478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-2015))
 
 * Update thermochemical properties of zinc material ([#63373](https://github.com/CleverRaven/Cataclysm-DDA/pull/63373))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-01-1723 ([0c07076](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-1723))
-
-* 0.G changelog  ([#63198](https://github.com/CleverRaven/Cataclysm-DDA/pull/63198))
 
 ---
 
@@ -162,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2023-01-29-0324 ([37bd8a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-0324))
 
 * Add repair kits to soldering requirement lists ([#63312](https://github.com/CleverRaven/Cataclysm-DDA/pull/63312))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-28-0613 ([f097346](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-28-0613))
-
 * Routine i18n updates on 28 January 2023 ([#63317](https://github.com/CleverRaven/Cataclysm-DDA/pull/63317))
 * Flammable arrows bugfixes ([#63277](https://github.com/CleverRaven/Cataclysm-DDA/pull/63277))
 * Blocking fix ([#63278](https://github.com/CleverRaven/Cataclysm-DDA/pull/63278))
@@ -203,7 +200,6 @@
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
-* Fix downspout deconstruct outcome ([#63196](https://github.com/CleverRaven/Cataclysm-DDA/pull/63196))
 * Fix newcharacter screen hobby skills calculation ([#63205](https://github.com/CleverRaven/Cataclysm-DDA/pull/63205))
 * Fix CMake compilation and localization ([#63208](https://github.com/CleverRaven/Cataclysm-DDA/pull/63208))
 * Remove redundant "is vehicle in water" check ([#63207](https://github.com/CleverRaven/Cataclysm-DDA/pull/63207))

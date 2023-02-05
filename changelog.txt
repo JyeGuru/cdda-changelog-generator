@@ -1,3 +1,8 @@
+* github: make save files mandatory for new bug reports (#63366)
+* Bandaid pricing (#63425)
+
+Cataclysm-DDA experimental build 2023-02-05-0028 (6c02d3d)
+* Fix some false warnings for compiles with UB/Asan (#63426)
 
 Cataclysm-DDA experimental build 2023-02-04-2215 (e24ee5e)
 * Update credits for 0.G (#63393)
@@ -37,9 +42,6 @@ Cataclysm-DDA experimental build 2023-02-01-2138 (96621c5)
 
 Cataclysm-DDA experimental build 2023-02-01-2015 (33cb478)
 * Update thermochemical properties of zinc material (#63373)
-
-Cataclysm-DDA experimental build 2023-02-01-1723 (0c07076)
-* 0.G changelog  (#63198)
 
 Cataclysm-DDA experimental build 2023-02-01-1011 (b549a17)
 * Remove bashing stat from (chemical) powders, pastes and liquids (#63377)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2023-01-29-0428 (b483a88)
 
 Cataclysm-DDA experimental build 2023-01-29-0324 (37bd8a2)
 * Add repair kits to soldering requirement lists (#63312)
-
-Cataclysm-DDA experimental build 2023-01-28-0613 (f097346)
 * Routine i18n updates on 28 January 2023 (#63317)
 * Flammable arrows bugfixes (#63277)
 * Blocking fix (#63278)
@@ -128,7 +128,6 @@ Cataclysm-DDA experimental build 2023-01-28-0613 (f097346)
 * RELEASE_DIFF.md code annotation (#63239)
 * fix typo in generate_overlay_ids.py (#63240)
 * Fix map revert crash (#63226)
-* Fix downspout deconstruct outcome (#63196)
 * Fix newcharacter screen hobby skills calculation (#63205)
 * Fix CMake compilation and localization (#63208)
 * Remove redundant "is vehicle in water" check (#63207)
