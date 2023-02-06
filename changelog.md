@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-06-0628 ([908472c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0628))
+
+* Migrate more items and recipes ([#63432](https://github.com/CleverRaven/Cataclysm-DDA/pull/63432))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-06-0346 ([30de05c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0346))
 
 * Routine tileset updates on 05 February 2023 ([#63447](https://github.com/CleverRaven/Cataclysm-DDA/pull/63447))
@@ -157,11 +163,6 @@
 
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
 * Fix: Include spell name in default msg for relic spells ([#63321](https://github.com/CleverRaven/Cataclysm-DDA/pull/63321))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-30-0412 ([03cf3dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0412))
-
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes ([#63338](https://github.com/CleverRaven/Cataclysm-DDA/pull/63338))
 * Fix "SPEEDLOADER" Flag ([#63287](https://github.com/CleverRaven/Cataclysm-DDA/pull/63287))
 * add UNBREAKABLE documentation to JSON_FLAGS.md ([#63325](https://github.com/CleverRaven/Cataclysm-DDA/pull/63325))
@@ -207,4 +208,3 @@
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
 * Better EOC variable messages ([#63228](https://github.com/CleverRaven/Cataclysm-DDA/pull/63228))
-* Add `FISH_TRAP` tool quality so that NPCs can use either kind of fish trap ([#63224](https://github.com/CleverRaven/Cataclysm-DDA/pull/63224))
