@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-02-06-0346 (30de05c)
 * Routine tileset updates on 05 February 2023 (#63447)
 * fix: don't spawn spiral mine victims outside (#63433)
 * Fixes fungal conversion for organic furniture (#63439)
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2023-01-30-0520 (ea63fd9)
 
 Cataclysm-DDA experimental build 2023-01-30-0412 (03cf3dc)
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes (#63338)
-
-Cataclysm-DDA experimental build 2023-01-29-1852 (690e38e)
 * Fix "SPEEDLOADER" Flag (#63287)
 * add UNBREAKABLE documentation to JSON_FLAGS.md (#63325)
 * Update terrain-manufactured.json (#63331)
