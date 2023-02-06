@@ -1,3 +1,4 @@
+* Routine tileset updates on 05 February 2023 ([#63447](https://github.com/CleverRaven/Cataclysm-DDA/pull/63447))
 * fix: don't spawn spiral mine victims outside ([#63433](https://github.com/CleverRaven/Cataclysm-DDA/pull/63433))
 * Fixes fungal conversion for organic furniture ([#63439](https://github.com/CleverRaven/Cataclysm-DDA/pull/63439))
 * Fixes terrain issue in house_library ([#63440](https://github.com/CleverRaven/Cataclysm-DDA/pull/63440))
@@ -193,7 +194,6 @@
 * Standardize punctuation in greeting snippets ([#63262](https://github.com/CleverRaven/Cataclysm-DDA/pull/63262))
 * Fixes to portal resurrection and incorporeal ([#63280](https://github.com/CleverRaven/Cataclysm-DDA/pull/63280))
 * Fix documentation typo ([#63279](https://github.com/CleverRaven/Cataclysm-DDA/pull/63279))
-* add large_tent_equivalent component group ([#63223](https://github.com/CleverRaven/Cataclysm-DDA/pull/63223))
 * Finish PR #62472 ([#63289](https://github.com/CleverRaven/Cataclysm-DDA/pull/63289))
 * Add `i4_diesel` disassembly ([#63267](https://github.com/CleverRaven/Cataclysm-DDA/pull/63267))
 * [MSC] Remove extra candy from the MRE item group ([#63246](https://github.com/CleverRaven/Cataclysm-DDA/pull/63246))
