@@ -1,3 +1,13 @@
+* fix: don't spawn spiral mine victims outside ([#63433](https://github.com/CleverRaven/Cataclysm-DDA/pull/63433))
+* Fixes fungal conversion for organic furniture ([#63439](https://github.com/CleverRaven/Cataclysm-DDA/pull/63439))
+* Fixes terrain issue in house_library ([#63440](https://github.com/CleverRaven/Cataclysm-DDA/pull/63440))
+* tgz_archiver: fixup for reading null bytes ([#63445](https://github.com/CleverRaven/Cataclysm-DDA/pull/63445))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-06-0214 ([862ae80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0214))
+
+* Include addictions from hobbies in newchar display ([#63446](https://github.com/CleverRaven/Cataclysm-DDA/pull/63446))
 
 ---
 
@@ -196,10 +206,5 @@
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
 * Fix map revert crash ([#63226](https://github.com/CleverRaven/Cataclysm-DDA/pull/63226))
-* [ASCIITileset] Change Unknow terrain to use the unseen sprite ([#63222](https://github.com/CleverRaven/Cataclysm-DDA/pull/63222))
 * Better EOC variable messages ([#63228](https://github.com/CleverRaven/Cataclysm-DDA/pull/63228))
-* Fix MSVC CI build failures ([#63214](https://github.com/CleverRaven/Cataclysm-DDA/pull/63214))
 * Add `FISH_TRAP` tool quality so that NPCs can use either kind of fish trap ([#63224](https://github.com/CleverRaven/Cataclysm-DDA/pull/63224))
-* Don't accidentally remove actual ram when the car is shoved ([#63217](https://github.com/CleverRaven/Cataclysm-DDA/pull/63217))
-* [Innawood] Autolearn crafting different grades of steel ([#63218](https://github.com/CleverRaven/Cataclysm-DDA/pull/63218))
-* Routine i18n updates on 21 January 2023 ([#63213](https://github.com/CleverRaven/Cataclysm-DDA/pull/63213))
