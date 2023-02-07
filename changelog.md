@@ -203,4 +203,3 @@
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
 * Fix CANNIBAL trait check in Smokes dialog ([#63241](https://github.com/CleverRaven/Cataclysm-DDA/pull/63241))
 * Fix display of byproduct charges in crafting gui ([#63252](https://github.com/CleverRaven/Cataclysm-DDA/pull/63252))
-* fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
