@@ -10,11 +10,6 @@
 #### Cataclysm-DDA experimental build 2023-02-06-0628 ([908472c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0628))
 
 * Migrate more items and recipes ([#63432](https://github.com/CleverRaven/Cataclysm-DDA/pull/63432))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-06-0346 ([30de05c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0346))
-
 * Routine tileset updates on 05 February 2023 ([#63447](https://github.com/CleverRaven/Cataclysm-DDA/pull/63447))
 * fix: don't spawn spiral mine victims outside ([#63433](https://github.com/CleverRaven/Cataclysm-DDA/pull/63433))
 * Fixes fungal conversion for organic furniture ([#63439](https://github.com/CleverRaven/Cataclysm-DDA/pull/63439))
@@ -138,18 +133,8 @@
 #### Cataclysm-DDA experimental build 2023-01-31-0703 ([03f25dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0703))
 
 * The great oversizing ([#63258](https://github.com/CleverRaven/Cataclysm-DDA/pull/63258))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-31-0223 ([a71554a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0223))
-
 * Fix #63204: Make proficiency account for SKILL_TRAINING_SPEED ([#63256](https://github.com/CleverRaven/Cataclysm-DDA/pull/63256))
 * Unarmed hits correctly gain unarmed experience ([#63324](https://github.com/CleverRaven/Cataclysm-DDA/pull/63324))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-31-0114 ([69dc0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0114))
-
 * Grabs only suffocate for enemies that shove as a group ([#63352](https://github.com/CleverRaven/Cataclysm-DDA/pull/63352))
 * fix xl/xs armor recipe inconsistencies ([#63261](https://github.com/CleverRaven/Cataclysm-DDA/pull/63261))
 * Add confirmation before abandoning camp ([#63351](https://github.com/CleverRaven/Cataclysm-DDA/pull/63351))
@@ -162,9 +147,24 @@
 #### Cataclysm-DDA experimental build 2023-01-30-0627 ([a14b798](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0627))
 
 * Add information about migration and obsoletion into JSON_INFO.md ([#63302](https://github.com/CleverRaven/Cataclysm-DDA/pull/63302))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-30-0520 ([ea63fd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0520))
+
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
 * Fix: Include spell name in default msg for relic spells ([#63321](https://github.com/CleverRaven/Cataclysm-DDA/pull/63321))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-30-0412 ([03cf3dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0412))
+
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes ([#63338](https://github.com/CleverRaven/Cataclysm-DDA/pull/63338))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-29-1852 ([690e38e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-29-1852))
+
 * Fix "SPEEDLOADER" Flag ([#63287](https://github.com/CleverRaven/Cataclysm-DDA/pull/63287))
 * add UNBREAKABLE documentation to JSON_FLAGS.md ([#63325](https://github.com/CleverRaven/Cataclysm-DDA/pull/63325))
 * Update terrain-manufactured.json ([#63331](https://github.com/CleverRaven/Cataclysm-DDA/pull/63331))
@@ -203,5 +203,4 @@
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
 * Fix CANNIBAL trait check in Smokes dialog ([#63241](https://github.com/CleverRaven/Cataclysm-DDA/pull/63241))
 * Fix display of byproduct charges in crafting gui ([#63252](https://github.com/CleverRaven/Cataclysm-DDA/pull/63252))
-* RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
