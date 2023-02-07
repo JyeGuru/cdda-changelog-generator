@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-07-0628 ([c8bebe2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-07-0628))
+
+* Fix formatting in doc/EFFECTS_JSON.md ([#63458](https://github.com/CleverRaven/Cataclysm-DDA/pull/63458))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-06-0628 ([908472c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0628))
 
 * Migrate more items and recipes ([#63432](https://github.com/CleverRaven/Cataclysm-DDA/pull/63432))
@@ -156,11 +162,6 @@
 #### Cataclysm-DDA experimental build 2023-01-30-0627 ([a14b798](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0627))
 
 * Add information about migration and obsoletion into JSON_INFO.md ([#63302](https://github.com/CleverRaven/Cataclysm-DDA/pull/63302))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-30-0520 ([ea63fd9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-30-0520))
-
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
 * Fix: Include spell name in default msg for relic spells ([#63321](https://github.com/CleverRaven/Cataclysm-DDA/pull/63321))
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes ([#63338](https://github.com/CleverRaven/Cataclysm-DDA/pull/63338))
@@ -200,9 +201,7 @@
 * [MSC] Remove extra candy from the MRE item group ([#63246](https://github.com/CleverRaven/Cataclysm-DDA/pull/63246))
 * Routine tileset updates on 22 January 2023 ([#63250](https://github.com/CleverRaven/Cataclysm-DDA/pull/63250))
 * Fix bodystatus window wetness display ([#63255](https://github.com/CleverRaven/Cataclysm-DDA/pull/63255))
-* Hide vehicle stats on sidebar unless relevant ([#63230](https://github.com/CleverRaven/Cataclysm-DDA/pull/63230))
 * Fix CANNIBAL trait check in Smokes dialog ([#63241](https://github.com/CleverRaven/Cataclysm-DDA/pull/63241))
 * Fix display of byproduct charges in crafting gui ([#63252](https://github.com/CleverRaven/Cataclysm-DDA/pull/63252))
 * RELEASE_DIFF.md code annotation ([#63239](https://github.com/CleverRaven/Cataclysm-DDA/pull/63239))
 * fix typo in generate_overlay_ids.py ([#63240](https://github.com/CleverRaven/Cataclysm-DDA/pull/63240))
-* Better EOC variable messages ([#63228](https://github.com/CleverRaven/Cataclysm-DDA/pull/63228))
