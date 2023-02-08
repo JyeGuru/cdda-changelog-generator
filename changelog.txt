@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-08-0648 (387e0fe)
+* Moves hunting lodges to more secluded areas (#63459)
+
 Cataclysm-DDA experimental build 2023-02-08-0433 (dfe5c1f)
 * Correct typo in baby of mutant tusk (#63486)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2023-02-01-2015 (33cb478)
 Cataclysm-DDA experimental build 2023-02-01-1011 (b549a17)
 * Remove bashing stat from (chemical) powders, pastes and liquids (#63377)
 * Unarmed hits correctly gain unarmed experience (#63324)
-
-Cataclysm-DDA experimental build 2023-01-31-0114 (69dc0dd)
 * Grabs only suffocate for enemies that shove as a group (#63352)
 * fix xl/xs armor recipe inconsistencies (#63261)
 * Add confirmation before abandoning camp (#63351)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2023-01-31-0114 (69dc0dd)
 * Make vanity mutations player-visible to allow overlay hiding (#63303)
 * Remove DURABLE_MELEE from pipe and pipe weapons. (#63297)
 * Highlight HURT effect messages with m_bad (#63301)
-* Fix issue with setting hp of sub parts (#63259)
 * Cleanup apartment tower (#63260)
 * don't become itchy while sleeping if shutdown (#63273)
 * fix: remove tazer hack death message (#63275)

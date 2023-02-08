@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-08-0648 ([387e0fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0648))
+
+* Moves hunting lodges to more secluded areas ([#63459](https://github.com/CleverRaven/Cataclysm-DDA/pull/63459))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-08-0433 ([dfe5c1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0433))
 
 * Correct typo in baby of mutant tusk ([#63486](https://github.com/CleverRaven/Cataclysm-DDA/pull/63486))
@@ -155,11 +161,6 @@
 
 * Remove bashing stat from (chemical) powders, pastes and liquids ([#63377](https://github.com/CleverRaven/Cataclysm-DDA/pull/63377))
 * Unarmed hits correctly gain unarmed experience ([#63324](https://github.com/CleverRaven/Cataclysm-DDA/pull/63324))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-31-0114 ([69dc0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0114))
-
 * Grabs only suffocate for enemies that shove as a group ([#63352](https://github.com/CleverRaven/Cataclysm-DDA/pull/63352))
 * fix xl/xs armor recipe inconsistencies ([#63261](https://github.com/CleverRaven/Cataclysm-DDA/pull/63261))
 * Add confirmation before abandoning camp ([#63351](https://github.com/CleverRaven/Cataclysm-DDA/pull/63351))
@@ -192,7 +193,6 @@
 * Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
 * Remove DURABLE_MELEE from pipe and pipe weapons. ([#63297](https://github.com/CleverRaven/Cataclysm-DDA/pull/63297))
 * Highlight HURT effect messages with m_bad ([#63301](https://github.com/CleverRaven/Cataclysm-DDA/pull/63301))
-* Fix issue with setting hp of sub parts ([#63259](https://github.com/CleverRaven/Cataclysm-DDA/pull/63259))
 * Cleanup apartment tower ([#63260](https://github.com/CleverRaven/Cataclysm-DDA/pull/63260))
 * don't become itchy while sleeping if shutdown ([#63273](https://github.com/CleverRaven/Cataclysm-DDA/pull/63273))
 * fix: remove tazer hack death message ([#63275](https://github.com/CleverRaven/Cataclysm-DDA/pull/63275))
