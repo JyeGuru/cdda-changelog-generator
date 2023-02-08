@@ -20,11 +20,6 @@
 * Vehicle workbench no longer allows you to see through the roof ([#63469](https://github.com/CleverRaven/Cataclysm-DDA/pull/63469))
 * Lotus no longer collides with vehicles ([#63468](https://github.com/CleverRaven/Cataclysm-DDA/pull/63468))
 * Meat scrap price fixes ([#63467](https://github.com/CleverRaven/Cataclysm-DDA/pull/63467))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-08-0141 ([ecaeef0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0141))
-
 * debug: generating min archive is not a cheat ([#63471](https://github.com/CleverRaven/Cataclysm-DDA/pull/63471))
 
 ---
@@ -79,11 +74,6 @@
 #### Cataclysm-DDA experimental build 2023-02-05-0136 ([d26a0f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0136))
 
 * Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-05-0028 ([6c02d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0028))
-
 * Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
 
 ---
@@ -148,11 +138,6 @@
 * Fix coverage for armor without sublocation data ([#63382](https://github.com/CleverRaven/Cataclysm-DDA/pull/63382))
 * Fix batch crafting calories displayed wrong ([#63387](https://github.com/CleverRaven/Cataclysm-DDA/pull/63387))
 * Add cheesemaking proficiencies to hard cheese ([#63383](https://github.com/CleverRaven/Cataclysm-DDA/pull/63383))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-01-2015 ([33cb478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-2015))
-
 * Update thermochemical properties of zinc material ([#63373](https://github.com/CleverRaven/Cataclysm-DDA/pull/63373))
 
 ---
@@ -161,6 +146,11 @@
 
 * Remove bashing stat from (chemical) powders, pastes and liquids ([#63377](https://github.com/CleverRaven/Cataclysm-DDA/pull/63377))
 * Unarmed hits correctly gain unarmed experience ([#63324](https://github.com/CleverRaven/Cataclysm-DDA/pull/63324))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-01-31-0114 ([69dc0dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0114))
+
 * Grabs only suffocate for enemies that shove as a group ([#63352](https://github.com/CleverRaven/Cataclysm-DDA/pull/63352))
 * fix xl/xs armor recipe inconsistencies ([#63261](https://github.com/CleverRaven/Cataclysm-DDA/pull/63261))
 * Add confirmation before abandoning camp ([#63351](https://github.com/CleverRaven/Cataclysm-DDA/pull/63351))

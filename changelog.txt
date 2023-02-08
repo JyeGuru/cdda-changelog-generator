@@ -11,8 +11,6 @@ Cataclysm-DDA experimental build 2023-02-08-0300 (247d4d2)
 * Vehicle workbench no longer allows you to see through the roof (#63469)
 * Lotus no longer collides with vehicles (#63468)
 * Meat scrap price fixes (#63467)
-
-Cataclysm-DDA experimental build 2023-02-08-0141 (ecaeef0)
 * debug: generating min archive is not a cheat (#63471)
 
 Cataclysm-DDA experimental build 2023-02-07-0628 (c8bebe2)
@@ -43,8 +41,6 @@ Cataclysm-DDA experimental build 2023-02-05-0343 (83ed3f6)
 
 Cataclysm-DDA experimental build 2023-02-05-0136 (d26a0f4)
 * Bandaid pricing (#63425)
-
-Cataclysm-DDA experimental build 2023-02-05-0028 (6c02d3d)
 * Fix some false warnings for compiles with UB/Asan (#63426)
 
 Cataclysm-DDA experimental build 2023-02-04-2215 (e24ee5e)
@@ -82,13 +78,13 @@ Cataclysm-DDA experimental build 2023-02-01-2138 (96621c5)
 * Fix coverage for armor without sublocation data (#63382)
 * Fix batch crafting calories displayed wrong (#63387)
 * Add cheesemaking proficiencies to hard cheese (#63383)
-
-Cataclysm-DDA experimental build 2023-02-01-2015 (33cb478)
 * Update thermochemical properties of zinc material (#63373)
 
 Cataclysm-DDA experimental build 2023-02-01-1011 (b549a17)
 * Remove bashing stat from (chemical) powders, pastes and liquids (#63377)
 * Unarmed hits correctly gain unarmed experience (#63324)
+
+Cataclysm-DDA experimental build 2023-01-31-0114 (69dc0dd)
 * Grabs only suffocate for enemies that shove as a group (#63352)
 * fix xl/xs armor recipe inconsistencies (#63261)
 * Add confirmation before abandoning camp (#63351)
