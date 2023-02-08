@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-08-0433 ([dfe5c1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0433))
+
+* Correct typo in baby of mutant tusk ([#63486](https://github.com/CleverRaven/Cataclysm-DDA/pull/63486))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-08-0300 ([247d4d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0300))
 
 * Make the broker to accept dehydrated meat ([#63450](https://github.com/CleverRaven/Cataclysm-DDA/pull/63450))
@@ -148,12 +154,6 @@
 #### Cataclysm-DDA experimental build 2023-02-01-1011 ([b549a17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-1011))
 
 * Remove bashing stat from (chemical) powders, pastes and liquids ([#63377](https://github.com/CleverRaven/Cataclysm-DDA/pull/63377))
-
----
-
-#### Cataclysm-DDA experimental build 2023-01-31-0703 ([03f25dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-01-31-0703))
-
-* The great oversizing ([#63258](https://github.com/CleverRaven/Cataclysm-DDA/pull/63258))
 * Unarmed hits correctly gain unarmed experience ([#63324](https://github.com/CleverRaven/Cataclysm-DDA/pull/63324))
 
 ---

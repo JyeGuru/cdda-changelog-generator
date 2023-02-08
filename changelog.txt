@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-08-0433 (dfe5c1f)
+* Correct typo in baby of mutant tusk (#63486)
+
 Cataclysm-DDA experimental build 2023-02-08-0300 (247d4d2)
 * Make the broker to accept dehydrated meat (#63450)
 * activity: respect source vehicle when unloading (#63456)
@@ -82,9 +85,6 @@ Cataclysm-DDA experimental build 2023-02-01-2015 (33cb478)
 
 Cataclysm-DDA experimental build 2023-02-01-1011 (b549a17)
 * Remove bashing stat from (chemical) powders, pastes and liquids (#63377)
-
-Cataclysm-DDA experimental build 2023-01-31-0703 (03f25dc)
-* The great oversizing (#63258)
 * Unarmed hits correctly gain unarmed experience (#63324)
 
 Cataclysm-DDA experimental build 2023-01-31-0114 (69dc0dd)
