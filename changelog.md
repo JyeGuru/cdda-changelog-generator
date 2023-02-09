@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-09-0618 ([2ee4928](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-09-0618))
+
+* Adds a roof to fruit orchards ([#63478](https://github.com/CleverRaven/Cataclysm-DDA/pull/63478))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-09-0129 ([b74aedc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-09-0129))
 
 * Chocolate Bars Updated ([#63461](https://github.com/CleverRaven/Cataclysm-DDA/pull/63461))
@@ -212,4 +218,3 @@
 * Fixes to portal resurrection and incorporeal ([#63280](https://github.com/CleverRaven/Cataclysm-DDA/pull/63280))
 * Fix documentation typo ([#63279](https://github.com/CleverRaven/Cataclysm-DDA/pull/63279))
 * Finish PR #62472 ([#63289](https://github.com/CleverRaven/Cataclysm-DDA/pull/63289))
-* Add `i4_diesel` disassembly ([#63267](https://github.com/CleverRaven/Cataclysm-DDA/pull/63267))

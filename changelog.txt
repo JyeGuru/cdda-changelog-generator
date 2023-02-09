@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-09-0618 (2ee4928)
+* Adds a roof to fruit orchards (#63478)
+
 Cataclysm-DDA experimental build 2023-02-09-0129 (b74aedc)
 * Chocolate Bars Updated (#63461)
 * Heat pack fixes (#63472)
@@ -134,4 +137,3 @@ Cataclysm-DDA experimental build 2023-02-01-1011 (b549a17)
 * Fixes to portal resurrection and incorporeal (#63280)
 * Fix documentation typo (#63279)
 * Finish PR #62472 (#63289)
-* Add `i4_diesel` disassembly (#63267)
