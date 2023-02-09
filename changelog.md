@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-09-0129 ([b74aedc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-09-0129))
+
 * Chocolate Bars Updated ([#63461](https://github.com/CleverRaven/Cataclysm-DDA/pull/63461))
 * Heat pack fixes ([#63472](https://github.com/CleverRaven/Cataclysm-DDA/pull/63472))
 
