@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-10-1114 ([6d51640](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-10-1114))
+
+* [DinoMod] armor material fixes ([#63509](https://github.com/CleverRaven/Cataclysm-DDA/pull/63509))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-10-0629 ([43d2040](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-10-0629))
 
 * Horses no longer shrink when they zombify ([#63512](https://github.com/CleverRaven/Cataclysm-DDA/pull/63512))
@@ -196,7 +202,6 @@
 * Fix broken sublimbs after resurrection ([#63326](https://github.com/CleverRaven/Cataclysm-DDA/pull/63326))
 * Add dog tags as a possible drop for dogs ([#63328](https://github.com/CleverRaven/Cataclysm-DDA/pull/63328))
 * fix: minor mapgen error ([#63315](https://github.com/CleverRaven/Cataclysm-DDA/pull/63315))
-* Remove "vacuum pump" req from recipe for makeshift vacuum mold ([#63272](https://github.com/CleverRaven/Cataclysm-DDA/pull/63272))
 * Add repair kits to soldering requirement lists ([#63312](https://github.com/CleverRaven/Cataclysm-DDA/pull/63312))
 * Routine i18n updates on 28 January 2023 ([#63317](https://github.com/CleverRaven/Cataclysm-DDA/pull/63317))
 * Flammable arrows bugfixes ([#63277](https://github.com/CleverRaven/Cataclysm-DDA/pull/63277))
