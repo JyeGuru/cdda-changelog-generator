@@ -139,6 +139,11 @@
 * remove gunpowder from .22 CB disassembly ([#63411](https://github.com/CleverRaven/Cataclysm-DDA/pull/63411))
 * fix skull strapped to head coverage ([#63420](https://github.com/CleverRaven/Cataclysm-DDA/pull/63420))
 * Mutant Moose Fixes ([#63406](https://github.com/CleverRaven/Cataclysm-DDA/pull/63406))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-04-1933 ([900fb99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-04-1933))
+
 * Eating menu properly displays whether an item is sealed ([#63408](https://github.com/CleverRaven/Cataclysm-DDA/pull/63408))
 
 ---
@@ -171,6 +176,11 @@
 #### Cataclysm-DDA experimental build 2023-02-02-0717 ([a5ec978](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-02-0717))
 
 * Fix some missing conflicts for Expanded Digestive ([#63371](https://github.com/CleverRaven/Cataclysm-DDA/pull/63371))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-01-2138 ([96621c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-2138))
+
 * profs change gender redraw. ([#63367](https://github.com/CleverRaven/Cataclysm-DDA/pull/63367))
 * Fix coverage for armor without sublocation data ([#63382](https://github.com/CleverRaven/Cataclysm-DDA/pull/63382))
 * Fix batch crafting calories displayed wrong ([#63387](https://github.com/CleverRaven/Cataclysm-DDA/pull/63387))

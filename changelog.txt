@@ -76,6 +76,8 @@ Cataclysm-DDA experimental build 2023-02-04-2043 (1c6c450)
 * remove gunpowder from .22 CB disassembly (#63411)
 * fix skull strapped to head coverage (#63420)
 * Mutant Moose Fixes (#63406)
+
+Cataclysm-DDA experimental build 2023-02-04-1933 (900fb99)
 * Eating menu properly displays whether an item is sealed (#63408)
 
 Cataclysm-DDA experimental build 2023-02-04-1229 (4921edd)
@@ -93,6 +95,8 @@ Cataclysm-DDA experimental build 2023-02-03-0647 (a68dbeb)
 
 Cataclysm-DDA experimental build 2023-02-02-0717 (a5ec978)
 * Fix some missing conflicts for Expanded Digestive (#63371)
+
+Cataclysm-DDA experimental build 2023-02-01-2138 (96621c5)
 * profs change gender redraw. (#63367)
 * Fix coverage for armor without sublocation data (#63382)
 * Fix batch crafting calories displayed wrong (#63387)
