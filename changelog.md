@@ -1,3 +1,4 @@
+* Prevent autodrive from dropping vehicles in holes ([#63487](https://github.com/CleverRaven/Cataclysm-DDA/pull/63487))
 
 ---
 
@@ -217,7 +218,6 @@
 * Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
 * Remove DURABLE_MELEE from pipe and pipe weapons. ([#63297](https://github.com/CleverRaven/Cataclysm-DDA/pull/63297))
 * Highlight HURT effect messages with m_bad ([#63301](https://github.com/CleverRaven/Cataclysm-DDA/pull/63301))
-* don't become itchy while sleeping if shutdown ([#63273](https://github.com/CleverRaven/Cataclysm-DDA/pull/63273))
 * fix: remove tazer hack death message ([#63275](https://github.com/CleverRaven/Cataclysm-DDA/pull/63275))
 * Fixed error in code. Incorect loop by iterator. ([#63284](https://github.com/CleverRaven/Cataclysm-DDA/pull/63284))
 * Keep the God's Chosen from bashing and have them return to their places ([#63295](https://github.com/CleverRaven/Cataclysm-DDA/pull/63295))
