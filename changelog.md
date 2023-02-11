@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-11-0613 ([7216560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-11-0613))
+
+* Fix excessive tool requirement in `sheriffshirt` uncraft ([#63533](https://github.com/CleverRaven/Cataclysm-DDA/pull/63533))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-10-1222 ([95521e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-10-1222))
 
 * Prevent autodrive from dropping vehicles in holes ([#63487](https://github.com/CleverRaven/Cataclysm-DDA/pull/63487))
@@ -185,11 +191,6 @@
 * Fix coverage for armor without sublocation data ([#63382](https://github.com/CleverRaven/Cataclysm-DDA/pull/63382))
 * Fix batch crafting calories displayed wrong ([#63387](https://github.com/CleverRaven/Cataclysm-DDA/pull/63387))
 * Add cheesemaking proficiencies to hard cheese ([#63383](https://github.com/CleverRaven/Cataclysm-DDA/pull/63383))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-01-2015 ([33cb478](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-2015))
-
 * Update thermochemical properties of zinc material ([#63373](https://github.com/CleverRaven/Cataclysm-DDA/pull/63373))
 * Remove bashing stat from (chemical) powders, pastes and liquids ([#63377](https://github.com/CleverRaven/Cataclysm-DDA/pull/63377))
 * Unarmed hits correctly gain unarmed experience ([#63324](https://github.com/CleverRaven/Cataclysm-DDA/pull/63324))
@@ -223,7 +224,6 @@
 * Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
 * Remove DURABLE_MELEE from pipe and pipe weapons. ([#63297](https://github.com/CleverRaven/Cataclysm-DDA/pull/63297))
 * Highlight HURT effect messages with m_bad ([#63301](https://github.com/CleverRaven/Cataclysm-DDA/pull/63301))
-* fix: remove tazer hack death message ([#63275](https://github.com/CleverRaven/Cataclysm-DDA/pull/63275))
 * Fixed error in code. Incorect loop by iterator. ([#63284](https://github.com/CleverRaven/Cataclysm-DDA/pull/63284))
 * Keep the God's Chosen from bashing and have them return to their places ([#63295](https://github.com/CleverRaven/Cataclysm-DDA/pull/63295))
 * Fixes to portal resurrection and incorporeal ([#63280](https://github.com/CleverRaven/Cataclysm-DDA/pull/63280))
