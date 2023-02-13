@@ -1,3 +1,11 @@
+* eye color layering ([#63497](https://github.com/CleverRaven/Cataclysm-DDA/pull/63497))
+* npctrade: fix price of magazine contents ([#63491](https://github.com/CleverRaven/Cataclysm-DDA/pull/63491))
+* Adds roads to roadless mansions ([#63492](https://github.com/CleverRaven/Cataclysm-DDA/pull/63492))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-13-0207 ([aca7329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0207))
+
 * Determine how much you can squish a soft container by its contents ([#63510](https://github.com/CleverRaven/Cataclysm-DDA/pull/63510))
 * Plant Marrow batch cooking ([#63517](https://github.com/CleverRaven/Cataclysm-DDA/pull/63517))
 * Grey out lower tier CBMs ([#63519](https://github.com/CleverRaven/Cataclysm-DDA/pull/63519))
@@ -199,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2023-02-03-0647 ([a68dbeb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-03-0647))
 
 * Earthshaper pickaxe can mine now ([#63401](https://github.com/CleverRaven/Cataclysm-DDA/pull/63401))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-02-0717 ([a5ec978](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-02-0717))
-
 * Fix some missing conflicts for Expanded Digestive ([#63371](https://github.com/CleverRaven/Cataclysm-DDA/pull/63371))
 * profs change gender redraw. ([#63367](https://github.com/CleverRaven/Cataclysm-DDA/pull/63367))
 * Fix coverage for armor without sublocation data ([#63382](https://github.com/CleverRaven/Cataclysm-DDA/pull/63382))
@@ -225,7 +228,4 @@
 * Fix broken sublimbs after resurrection ([#63326](https://github.com/CleverRaven/Cataclysm-DDA/pull/63326))
 * Add dog tags as a possible drop for dogs ([#63328](https://github.com/CleverRaven/Cataclysm-DDA/pull/63328))
 * fix: minor mapgen error ([#63315](https://github.com/CleverRaven/Cataclysm-DDA/pull/63315))
-* Add repair kits to soldering requirement lists ([#63312](https://github.com/CleverRaven/Cataclysm-DDA/pull/63312))
 * Routine i18n updates on 28 January 2023 ([#63317](https://github.com/CleverRaven/Cataclysm-DDA/pull/63317))
-* Fix disappearing "tags" label in debug mapedit item editing ([#63313](https://github.com/CleverRaven/Cataclysm-DDA/pull/63313))
-* Update Transifex CLI version in push translation template GHA workflow ([#63309](https://github.com/CleverRaven/Cataclysm-DDA/pull/63309))
