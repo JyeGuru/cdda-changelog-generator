@@ -228,4 +228,3 @@
 * Update terrain-manufactured.json ([#63331](https://github.com/CleverRaven/Cataclysm-DDA/pull/63331))
 * Fix broken sublimbs after resurrection ([#63326](https://github.com/CleverRaven/Cataclysm-DDA/pull/63326))
 * Add dog tags as a possible drop for dogs ([#63328](https://github.com/CleverRaven/Cataclysm-DDA/pull/63328))
-* Routine i18n updates on 28 January 2023 ([#63317](https://github.com/CleverRaven/Cataclysm-DDA/pull/63317))
