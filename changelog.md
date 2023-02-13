@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-13-1223 ([c7738a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-1223))
+
+* correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-13-0501 ([89f39eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0501))
 
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2023-02-04-1229 ([4921edd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-04-1229))
 
 * Routine i18n updates on 04 February 2023 ([#63417](https://github.com/CleverRaven/Cataclysm-DDA/pull/63417))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-03-1420 ([9c76056](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-03-1420))
-
 * Require correct petfood when attempting to tame hallucinated animal ([#63407](https://github.com/CleverRaven/Cataclysm-DDA/pull/63407))
 * visitable: properly support the IS_UPS flag ([#63399](https://github.com/CleverRaven/Cataclysm-DDA/pull/63399))
 * Fix: activating a pill container consumes the whole pill stack ([#63400](https://github.com/CleverRaven/Cataclysm-DDA/pull/63400))
@@ -222,7 +223,6 @@
 * Routine tileset updates on 29 January 2023 ([#63342](https://github.com/CleverRaven/Cataclysm-DDA/pull/63342))
 * `JSON_FLAGS.md` cleanup ([#63339](https://github.com/CleverRaven/Cataclysm-DDA/pull/63339))
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
-* Fix: Include spell name in default msg for relic spells ([#63321](https://github.com/CleverRaven/Cataclysm-DDA/pull/63321))
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes ([#63338](https://github.com/CleverRaven/Cataclysm-DDA/pull/63338))
 * add UNBREAKABLE documentation to JSON_FLAGS.md ([#63325](https://github.com/CleverRaven/Cataclysm-DDA/pull/63325))
 * Update terrain-manufactured.json ([#63331](https://github.com/CleverRaven/Cataclysm-DDA/pull/63331))
