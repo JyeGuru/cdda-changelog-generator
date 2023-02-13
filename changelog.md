@@ -1,3 +1,26 @@
+* Determine how much you can squish a soft container by its contents ([#63510](https://github.com/CleverRaven/Cataclysm-DDA/pull/63510))
+* Plant Marrow batch cooking ([#63517](https://github.com/CleverRaven/Cataclysm-DDA/pull/63517))
+* Grey out lower tier CBMs ([#63519](https://github.com/CleverRaven/Cataclysm-DDA/pull/63519))
+* Smokers now have harvest results ([#63521](https://github.com/CleverRaven/Cataclysm-DDA/pull/63521))
+* Allow spawning items via itemgroup for EOCs ([#63522](https://github.com/CleverRaven/Cataclysm-DDA/pull/63522))
+* Routine i18n updates on 11 February 2023 ([#63524](https://github.com/CleverRaven/Cataclysm-DDA/pull/63524))
+* Fix misplaced appliances in electronics store 2nd floor apartment ([#63525](https://github.com/CleverRaven/Cataclysm-DDA/pull/63525))
+* Allow usage of spells and recipes with roll remainder ([#63530](https://github.com/CleverRaven/Cataclysm-DDA/pull/63530))
+* Allow room for starting NPC when picking player starting position ([#63542](https://github.com/CleverRaven/Cataclysm-DDA/pull/63542))
+* Nicer river special placements ([#63543](https://github.com/CleverRaven/Cataclysm-DDA/pull/63543))
+* Clear up the descriptions for ``DIGS`` and ``CAN_DIG`` flags in the docs ([#63545](https://github.com/CleverRaven/Cataclysm-DDA/pull/63545))
+* Recipe fix for some mild steel weapons ([#63547](https://github.com/CleverRaven/Cataclysm-DDA/pull/63547))
+* Determine the target for  vehicle's turret automatic aiming according to the monster's attitude ([#63552](https://github.com/CleverRaven/Cataclysm-DDA/pull/63552))
+* Fix issues with combining liquids ([#63550](https://github.com/CleverRaven/Cataclysm-DDA/pull/63550))
+* Add contested roll function to EOCs ([#63553](https://github.com/CleverRaven/Cataclysm-DDA/pull/63553))
+* [Xedra Evolved] Random fixes from the voices in my head ([#63556](https://github.com/CleverRaven/Cataclysm-DDA/pull/63556))
+* [Megafauna] Make Great Auks name visible / blue ([#63557](https://github.com/CleverRaven/Cataclysm-DDA/pull/63557))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-13-0105 ([a908f95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0105))
+
+* Remove feral granny from salon ([#63561](https://github.com/CleverRaven/Cataclysm-DDA/pull/63561))
 
 ---
 
@@ -182,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2023-02-02-0717 ([a5ec978](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-02-0717))
 
 * Fix some missing conflicts for Expanded Digestive ([#63371](https://github.com/CleverRaven/Cataclysm-DDA/pull/63371))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-01-2138 ([96621c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-01-2138))
-
 * profs change gender redraw. ([#63367](https://github.com/CleverRaven/Cataclysm-DDA/pull/63367))
 * Fix coverage for armor without sublocation data ([#63382](https://github.com/CleverRaven/Cataclysm-DDA/pull/63382))
 * Fix batch crafting calories displayed wrong ([#63387](https://github.com/CleverRaven/Cataclysm-DDA/pull/63387))
@@ -199,11 +217,9 @@
 * inv_ui: fix minor annoyances ([#63340](https://github.com/CleverRaven/Cataclysm-DDA/pull/63340))
 * Routine tileset updates on 29 January 2023 ([#63342](https://github.com/CleverRaven/Cataclysm-DDA/pull/63342))
 * `JSON_FLAGS.md` cleanup ([#63339](https://github.com/CleverRaven/Cataclysm-DDA/pull/63339))
-* Add information about migration and obsoletion into JSON_INFO.md ([#63302](https://github.com/CleverRaven/Cataclysm-DDA/pull/63302))
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
 * Fix: Include spell name in default msg for relic spells ([#63321](https://github.com/CleverRaven/Cataclysm-DDA/pull/63321))
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes ([#63338](https://github.com/CleverRaven/Cataclysm-DDA/pull/63338))
-* Fix "SPEEDLOADER" Flag ([#63287](https://github.com/CleverRaven/Cataclysm-DDA/pull/63287))
 * add UNBREAKABLE documentation to JSON_FLAGS.md ([#63325](https://github.com/CleverRaven/Cataclysm-DDA/pull/63325))
 * Update terrain-manufactured.json ([#63331](https://github.com/CleverRaven/Cataclysm-DDA/pull/63331))
 * Fix broken sublimbs after resurrection ([#63326](https://github.com/CleverRaven/Cataclysm-DDA/pull/63326))
@@ -211,21 +227,5 @@
 * fix: minor mapgen error ([#63315](https://github.com/CleverRaven/Cataclysm-DDA/pull/63315))
 * Add repair kits to soldering requirement lists ([#63312](https://github.com/CleverRaven/Cataclysm-DDA/pull/63312))
 * Routine i18n updates on 28 January 2023 ([#63317](https://github.com/CleverRaven/Cataclysm-DDA/pull/63317))
-* Flammable arrows bugfixes ([#63277](https://github.com/CleverRaven/Cataclysm-DDA/pull/63277))
-* Blocking fix ([#63278](https://github.com/CleverRaven/Cataclysm-DDA/pull/63278))
-* [CR]Monsters add weight to vehicle when on boardable parts ([#63305](https://github.com/CleverRaven/Cataclysm-DDA/pull/63305))
-* Do not change pocket priority when query is canceled ([#63306](https://github.com/CleverRaven/Cataclysm-DDA/pull/63306))
-* Bokken nerf and recipe adjustment. ([#63307](https://github.com/CleverRaven/Cataclysm-DDA/pull/63307))
 * Fix disappearing "tags" label in debug mapedit item editing ([#63313](https://github.com/CleverRaven/Cataclysm-DDA/pull/63313))
 * Update Transifex CLI version in push translation template GHA workflow ([#63309](https://github.com/CleverRaven/Cataclysm-DDA/pull/63309))
-* Save time on pull translations GitHub Actions workflow ([#63308](https://github.com/CleverRaven/Cataclysm-DDA/pull/63308))
-* Fix Throwing Knives in Xedra Evolved ([#63304](https://github.com/CleverRaven/Cataclysm-DDA/pull/63304))
-* Alternate ironshod staff recipe, no forging required ([#63298](https://github.com/CleverRaven/Cataclysm-DDA/pull/63298))
-* Make vanity mutations player-visible to allow overlay hiding ([#63303](https://github.com/CleverRaven/Cataclysm-DDA/pull/63303))
-* Remove DURABLE_MELEE from pipe and pipe weapons. ([#63297](https://github.com/CleverRaven/Cataclysm-DDA/pull/63297))
-* Highlight HURT effect messages with m_bad ([#63301](https://github.com/CleverRaven/Cataclysm-DDA/pull/63301))
-* Fixed error in code. Incorect loop by iterator. ([#63284](https://github.com/CleverRaven/Cataclysm-DDA/pull/63284))
-* Keep the God's Chosen from bashing and have them return to their places ([#63295](https://github.com/CleverRaven/Cataclysm-DDA/pull/63295))
-* Fixes to portal resurrection and incorporeal ([#63280](https://github.com/CleverRaven/Cataclysm-DDA/pull/63280))
-* Fix documentation typo ([#63279](https://github.com/CleverRaven/Cataclysm-DDA/pull/63279))
-* Finish PR #62472 ([#63289](https://github.com/CleverRaven/Cataclysm-DDA/pull/63289))
