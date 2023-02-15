@@ -231,5 +231,4 @@
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes ([#63338](https://github.com/CleverRaven/Cataclysm-DDA/pull/63338))
 * Update terrain-manufactured.json ([#63331](https://github.com/CleverRaven/Cataclysm-DDA/pull/63331))
-* Fix broken sublimbs after resurrection ([#63326](https://github.com/CleverRaven/Cataclysm-DDA/pull/63326))
 * Add dog tags as a possible drop for dogs ([#63328](https://github.com/CleverRaven/Cataclysm-DDA/pull/63328))
