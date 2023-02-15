@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-15-0620 ([d24dd45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-15-0620))
+
+* Keep updating sidebar with AIM active ([#63575](https://github.com/CleverRaven/Cataclysm-DDA/pull/63575))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-14-0634 ([170527d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-14-0634))
 
 * Make the Refugee center guard not spawn as random npcs ([#63581](https://github.com/CleverRaven/Cataclysm-DDA/pull/63581))
@@ -205,11 +211,6 @@
 * remove gunpowder from .22 CB disassembly ([#63411](https://github.com/CleverRaven/Cataclysm-DDA/pull/63411))
 * fix skull strapped to head coverage ([#63420](https://github.com/CleverRaven/Cataclysm-DDA/pull/63420))
 * Mutant Moose Fixes ([#63406](https://github.com/CleverRaven/Cataclysm-DDA/pull/63406))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-04-1933 ([900fb99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-04-1933))
-
 * Eating menu properly displays whether an item is sealed ([#63408](https://github.com/CleverRaven/Cataclysm-DDA/pull/63408))
 * Routine i18n updates on 04 February 2023 ([#63417](https://github.com/CleverRaven/Cataclysm-DDA/pull/63417))
 * Require correct petfood when attempting to tame hallucinated animal ([#63407](https://github.com/CleverRaven/Cataclysm-DDA/pull/63407))
@@ -231,4 +232,3 @@
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes ([#63338](https://github.com/CleverRaven/Cataclysm-DDA/pull/63338))
 * Update terrain-manufactured.json ([#63331](https://github.com/CleverRaven/Cataclysm-DDA/pull/63331))
-* Add dog tags as a possible drop for dogs ([#63328](https://github.com/CleverRaven/Cataclysm-DDA/pull/63328))
