@@ -10,6 +10,8 @@ Cataclysm-DDA experimental build 2023-02-13-1223 (c7738a5)
 
 Cataclysm-DDA experimental build 2023-02-13-0501 (89f39eb)
 * Routine tileset updates on 12 February 2023 (#63567)
+
+Cataclysm-DDA experimental build 2023-02-13-0347 (dab795f)
 * eye color layering (#63497)
 * npctrade: fix price of magazine contents (#63491)
 * Adds roads to roadless mansions (#63492)
@@ -63,6 +65,8 @@ Cataclysm-DDA experimental build 2023-02-08-0648 (387e0fe)
 
 Cataclysm-DDA experimental build 2023-02-08-0433 (dfe5c1f)
 * Correct typo in baby of mutant tusk (#63486)
+
+Cataclysm-DDA experimental build 2023-02-08-0300 (247d4d2)
 * Make the broker to accept dehydrated meat (#63450)
 * activity: respect source vehicle when unloading (#63456)
 * Vehicle workbench no longer allows you to see through the roof (#63469)
@@ -117,8 +121,6 @@ Cataclysm-DDA experimental build 2023-02-04-2043 (1c6c450)
 
 Cataclysm-DDA experimental build 2023-02-04-1933 (900fb99)
 * Eating menu properly displays whether an item is sealed (#63408)
-
-Cataclysm-DDA experimental build 2023-02-04-1229 (4921edd)
 * Routine i18n updates on 04 February 2023 (#63417)
 * Require correct petfood when attempting to tame hallucinated animal (#63407)
 * visitable: properly support the IS_UPS flag (#63399)
