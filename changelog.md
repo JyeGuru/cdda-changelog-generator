@@ -232,4 +232,5 @@
 * inv_ui: fix minor annoyances ([#63340](https://github.com/CleverRaven/Cataclysm-DDA/pull/63340))
 * Routine tileset updates on 29 January 2023 ([#63342](https://github.com/CleverRaven/Cataclysm-DDA/pull/63342))
 * `JSON_FLAGS.md` cleanup ([#63339](https://github.com/CleverRaven/Cataclysm-DDA/pull/63339))
+* Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes ([#63338](https://github.com/CleverRaven/Cataclysm-DDA/pull/63338))
