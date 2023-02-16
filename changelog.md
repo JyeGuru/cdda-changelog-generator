@@ -1,3 +1,11 @@
+* Fix broken enchantments ([#63562](https://github.com/CleverRaven/Cataclysm-DDA/pull/63562))
+* Replace firearm doc references to quarter degrees with MoA ([#63576](https://github.com/CleverRaven/Cataclysm-DDA/pull/63576))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-16-0119 ([c571723](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-16-0119))
+
+* item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
 
 ---
 
@@ -203,11 +211,6 @@
 * Codename for 0.G release ([#63391](https://github.com/CleverRaven/Cataclysm-DDA/pull/63391))
 * test/health: keep test npc awake ([#63422](https://github.com/CleverRaven/Cataclysm-DDA/pull/63422))
 * Remove and replace zeriatrics, feral grannies, and Big Pappy. ([#63423](https://github.com/CleverRaven/Cataclysm-DDA/pull/63423))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-04-2043 ([1c6c450](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-04-2043))
-
 * remove gunpowder from .22 CB disassembly ([#63411](https://github.com/CleverRaven/Cataclysm-DDA/pull/63411))
 * fix skull strapped to head coverage ([#63420](https://github.com/CleverRaven/Cataclysm-DDA/pull/63420))
 * Mutant Moose Fixes ([#63406](https://github.com/CleverRaven/Cataclysm-DDA/pull/63406))
@@ -231,4 +234,3 @@
 * `JSON_FLAGS.md` cleanup ([#63339](https://github.com/CleverRaven/Cataclysm-DDA/pull/63339))
 * Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes ([#63338](https://github.com/CleverRaven/Cataclysm-DDA/pull/63338))
-* Update terrain-manufactured.json ([#63331](https://github.com/CleverRaven/Cataclysm-DDA/pull/63331))
