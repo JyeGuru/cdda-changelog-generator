@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-16-0248 ([41167cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-16-0248))
+
 * Fix broken enchantments ([#63562](https://github.com/CleverRaven/Cataclysm-DDA/pull/63562))
 * Replace firearm doc references to quarter degrees with MoA ([#63576](https://github.com/CleverRaven/Cataclysm-DDA/pull/63576))
 
@@ -202,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2023-02-05-0028 ([6c02d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0028))
 
 * Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-04-2215 ([e24ee5e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-04-2215))
-
 * Update credits for 0.G ([#63393](https://github.com/CleverRaven/Cataclysm-DDA/pull/63393))
 * Codename for 0.G release ([#63391](https://github.com/CleverRaven/Cataclysm-DDA/pull/63391))
 * test/health: keep test npc awake ([#63422](https://github.com/CleverRaven/Cataclysm-DDA/pull/63422))
@@ -232,5 +232,4 @@
 * inv_ui: fix minor annoyances ([#63340](https://github.com/CleverRaven/Cataclysm-DDA/pull/63340))
 * Routine tileset updates on 29 January 2023 ([#63342](https://github.com/CleverRaven/Cataclysm-DDA/pull/63342))
 * `JSON_FLAGS.md` cleanup ([#63339](https://github.com/CleverRaven/Cataclysm-DDA/pull/63339))
-* Fix: Make `AUTO_PICKUP_SAFEMODE` also consider ignored mobs ([#63334](https://github.com/CleverRaven/Cataclysm-DDA/pull/63334))
 * Improve Xedra Evolved Itemgroup and Spell Class Bugfixes ([#63338](https://github.com/CleverRaven/Cataclysm-DDA/pull/63338))
