@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-17-0625 (17a7444)
+* make phelloderm better (#63607)
+
 Cataclysm-DDA experimental build 2023-02-16-0640 (f0927ac)
 * Obsoletes NPC campgrounds (#63582)
 
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2023-02-05-0608 (8286625)
 Cataclysm-DDA experimental build 2023-02-05-0343 (83ed3f6)
 * Searchlights: don't drop items used for settings (#63429)
 * github: make save files mandatory for new bug reports (#63366)
-
-Cataclysm-DDA experimental build 2023-02-05-0136 (d26a0f4)
 * Bandaid pricing (#63425)
 * Fix some false warnings for compiles with UB/Asan (#63426)
 * Update credits for 0.G (#63393)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2023-02-05-0136 (d26a0f4)
 * Add confirmation before abandoning camp (#63351)
 * inv_ui: fix minor annoyances (#63340)
 * Routine tileset updates on 29 January 2023 (#63342)
-* `JSON_FLAGS.md` cleanup (#63339)
