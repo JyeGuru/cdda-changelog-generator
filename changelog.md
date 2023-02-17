@@ -17,11 +17,6 @@
 
 * Fix broken enchantments ([#63562](https://github.com/CleverRaven/Cataclysm-DDA/pull/63562))
 * Replace firearm doc references to quarter degrees with MoA ([#63576](https://github.com/CleverRaven/Cataclysm-DDA/pull/63576))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-16-0119 ([c571723](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-16-0119))
-
 * item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
 
 ---
@@ -41,11 +36,6 @@
 #### Cataclysm-DDA experimental build 2023-02-13-2221 ([88fbd38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-2221))
 
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-13-1223 ([c7738a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-1223))
-
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 
 ---
@@ -188,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2023-02-06-0214 ([862ae80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0214))
 
 * Include addictions from hobbies in newchar display ([#63446](https://github.com/CleverRaven/Cataclysm-DDA/pull/63446))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-05-2306 ([2f594de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-2306))
-
 * Show radiation level using radiation badge instead of character's rads ([#63395](https://github.com/CleverRaven/Cataclysm-DDA/pull/63395))
 
 ---
@@ -207,12 +192,27 @@
 
 * Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
 * github: make save files mandatory for new bug reports ([#63366](https://github.com/CleverRaven/Cataclysm-DDA/pull/63366))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-05-0136 ([d26a0f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0136))
+
 * Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-05-0028 ([6c02d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0028))
+
 * Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
 * Update credits for 0.G ([#63393](https://github.com/CleverRaven/Cataclysm-DDA/pull/63393))
 * Codename for 0.G release ([#63391](https://github.com/CleverRaven/Cataclysm-DDA/pull/63391))
 * test/health: keep test npc awake ([#63422](https://github.com/CleverRaven/Cataclysm-DDA/pull/63422))
 * Remove and replace zeriatrics, feral grannies, and Big Pappy. ([#63423](https://github.com/CleverRaven/Cataclysm-DDA/pull/63423))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-04-2043 ([1c6c450](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-04-2043))
+
 * remove gunpowder from .22 CB disassembly ([#63411](https://github.com/CleverRaven/Cataclysm-DDA/pull/63411))
 * fix skull strapped to head coverage ([#63420](https://github.com/CleverRaven/Cataclysm-DDA/pull/63420))
 * Mutant Moose Fixes ([#63406](https://github.com/CleverRaven/Cataclysm-DDA/pull/63406))

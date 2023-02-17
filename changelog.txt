@@ -8,8 +8,6 @@ Cataclysm-DDA experimental build 2023-02-16-0640 (f0927ac)
 Cataclysm-DDA experimental build 2023-02-16-0248 (41167cb)
 * Fix broken enchantments (#63562)
 * Replace firearm doc references to quarter degrees with MoA (#63576)
-
-Cataclysm-DDA experimental build 2023-02-16-0119 (c571723)
 * item: cache inherited flags (#63594)
 
 Cataclysm-DDA experimental build 2023-02-15-0620 (d24dd45)
@@ -20,8 +18,6 @@ Cataclysm-DDA experimental build 2023-02-14-0634 (170527d)
 
 Cataclysm-DDA experimental build 2023-02-13-2221 (88fbd38)
 * Avoid updating weather every turn (#63566)
-
-Cataclysm-DDA experimental build 2023-02-13-1223 (c7738a5)
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines (#63568)
 
 Cataclysm-DDA experimental build 2023-02-13-0501 (89f39eb)
@@ -107,8 +103,6 @@ Cataclysm-DDA experimental build 2023-02-06-0346 (30de05c)
 
 Cataclysm-DDA experimental build 2023-02-06-0214 (862ae80)
 * Include addictions from hobbies in newchar display (#63446)
-
-Cataclysm-DDA experimental build 2023-02-05-2306 (2f594de)
 * Show radiation level using radiation badge instead of character's rads (#63395)
 
 Cataclysm-DDA experimental build 2023-02-05-0608 (8286625)
@@ -117,12 +111,18 @@ Cataclysm-DDA experimental build 2023-02-05-0608 (8286625)
 Cataclysm-DDA experimental build 2023-02-05-0343 (83ed3f6)
 * Searchlights: don't drop items used for settings (#63429)
 * github: make save files mandatory for new bug reports (#63366)
+
+Cataclysm-DDA experimental build 2023-02-05-0136 (d26a0f4)
 * Bandaid pricing (#63425)
+
+Cataclysm-DDA experimental build 2023-02-05-0028 (6c02d3d)
 * Fix some false warnings for compiles with UB/Asan (#63426)
 * Update credits for 0.G (#63393)
 * Codename for 0.G release (#63391)
 * test/health: keep test npc awake (#63422)
 * Remove and replace zeriatrics, feral grannies, and Big Pappy. (#63423)
+
+Cataclysm-DDA experimental build 2023-02-04-2043 (1c6c450)
 * remove gunpowder from .22 CB disassembly (#63411)
 * fix skull strapped to head coverage (#63420)
 * Mutant Moose Fixes (#63406)
