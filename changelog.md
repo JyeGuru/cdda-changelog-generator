@@ -1,3 +1,9 @@
+* Buff and bugfix chimera integrated armors ([#63600](https://github.com/CleverRaven/Cataclysm-DDA/pull/63600))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-18-1757 ([cb0c155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1757))
+
 * make power armor "UNBREAKABLE_MELEE" ([#63635](https://github.com/CleverRaven/Cataclysm-DDA/pull/63635))
 * Improve obstacle sounds sequencing ([#63618](https://github.com/CleverRaven/Cataclysm-DDA/pull/63618))
 * Add ``rebar_rail`` to the obsoletion files ([#63622](https://github.com/CleverRaven/Cataclysm-DDA/pull/63622))
@@ -213,11 +219,6 @@
 * Fixes fungal conversion for organic furniture ([#63439](https://github.com/CleverRaven/Cataclysm-DDA/pull/63439))
 * Fixes terrain issue in house_library ([#63440](https://github.com/CleverRaven/Cataclysm-DDA/pull/63440))
 * tgz_archiver: fixup for reading null bytes ([#63445](https://github.com/CleverRaven/Cataclysm-DDA/pull/63445))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-06-0214 ([862ae80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0214))
-
 * Include addictions from hobbies in newchar display ([#63446](https://github.com/CleverRaven/Cataclysm-DDA/pull/63446))
 * Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
 * Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
