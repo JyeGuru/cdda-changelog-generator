@@ -1,3 +1,4 @@
+* item: expand contents name if they're all of the same type (#63579)
 
 Cataclysm-DDA experimental build 2023-02-18-1629 (c0b4222)
 * fix wrong requirement for kevlar wetsuit (#63634)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2023-02-06-0214 (862ae80)
 * visitable: properly support the IS_UPS flag (#63399)
 * Fix: activating a pill container consumes the whole pill stack (#63400)
 * Earthshaper pickaxe can mine now (#63401)
-* Fix batch crafting calories displayed wrong (#63387)

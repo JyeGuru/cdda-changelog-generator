@@ -1,3 +1,4 @@
+* item: expand contents name if they're all of the same type ([#63579](https://github.com/CleverRaven/Cataclysm-DDA/pull/63579))
 
 ---
 
@@ -232,4 +233,3 @@
 * visitable: properly support the IS_UPS flag ([#63399](https://github.com/CleverRaven/Cataclysm-DDA/pull/63399))
 * Fix: activating a pill container consumes the whole pill stack ([#63400](https://github.com/CleverRaven/Cataclysm-DDA/pull/63400))
 * Earthshaper pickaxe can mine now ([#63401](https://github.com/CleverRaven/Cataclysm-DDA/pull/63401))
-* Fix batch crafting calories displayed wrong ([#63387](https://github.com/CleverRaven/Cataclysm-DDA/pull/63387))
