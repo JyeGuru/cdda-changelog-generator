@@ -1,3 +1,5 @@
+* Improve obstacle sounds sequencing ([#63618](https://github.com/CleverRaven/Cataclysm-DDA/pull/63618))
+* Add ``rebar_rail`` to the obsoletion files ([#63622](https://github.com/CleverRaven/Cataclysm-DDA/pull/63622))
 * item: expand contents name if they're all of the same type ([#63579](https://github.com/CleverRaven/Cataclysm-DDA/pull/63579))
 
 ---
@@ -220,8 +222,6 @@
 * Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
 * Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
 * Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
-* Update credits for 0.G ([#63393](https://github.com/CleverRaven/Cataclysm-DDA/pull/63393))
-* Codename for 0.G release ([#63391](https://github.com/CleverRaven/Cataclysm-DDA/pull/63391))
 * test/health: keep test npc awake ([#63422](https://github.com/CleverRaven/Cataclysm-DDA/pull/63422))
 * Remove and replace zeriatrics, feral grannies, and Big Pappy. ([#63423](https://github.com/CleverRaven/Cataclysm-DDA/pull/63423))
 * remove gunpowder from .22 CB disassembly ([#63411](https://github.com/CleverRaven/Cataclysm-DDA/pull/63411))
