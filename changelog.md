@@ -1,3 +1,11 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-18-1629 ([c0b4222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1629))
+
+* fix wrong requirement for kevlar wetsuit ([#63634](https://github.com/CleverRaven/Cataclysm-DDA/pull/63634))
+* Don't display unrepairable entries in repair ui ([#63587](https://github.com/CleverRaven/Cataclysm-DDA/pull/63587))
+* fix: opt for simpler tileset updates changelog ([#63571](https://github.com/CleverRaven/Cataclysm-DDA/pull/63571))
 * item: limit stacks_with recursion to useful depth ([#63589](https://github.com/CleverRaven/Cataclysm-DDA/pull/63589))
 * Unifies gutter terrains ([#63597](https://github.com/CleverRaven/Cataclysm-DDA/pull/63597))
 * Misc nested mapgen clearing fixes ([#63606](https://github.com/CleverRaven/Cataclysm-DDA/pull/63606))
@@ -207,11 +215,6 @@
 #### Cataclysm-DDA experimental build 2023-02-06-0214 ([862ae80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0214))
 
 * Include addictions from hobbies in newchar display ([#63446](https://github.com/CleverRaven/Cataclysm-DDA/pull/63446))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-05-2306 ([2f594de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-2306))
-
 * Show radiation level using radiation badge instead of character's rads ([#63395](https://github.com/CleverRaven/Cataclysm-DDA/pull/63395))
 * Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
 * Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
@@ -229,7 +232,4 @@
 * visitable: properly support the IS_UPS flag ([#63399](https://github.com/CleverRaven/Cataclysm-DDA/pull/63399))
 * Fix: activating a pill container consumes the whole pill stack ([#63400](https://github.com/CleverRaven/Cataclysm-DDA/pull/63400))
 * Earthshaper pickaxe can mine now ([#63401](https://github.com/CleverRaven/Cataclysm-DDA/pull/63401))
-* Fix coverage for armor without sublocation data ([#63382](https://github.com/CleverRaven/Cataclysm-DDA/pull/63382))
 * Fix batch crafting calories displayed wrong ([#63387](https://github.com/CleverRaven/Cataclysm-DDA/pull/63387))
-* Add cheesemaking proficiencies to hard cheese ([#63383](https://github.com/CleverRaven/Cataclysm-DDA/pull/63383))
-* Remove bashing stat from (chemical) powders, pastes and liquids ([#63377](https://github.com/CleverRaven/Cataclysm-DDA/pull/63377))
