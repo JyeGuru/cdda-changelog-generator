@@ -1,3 +1,4 @@
+* Unifies gutter terrains ([#63597](https://github.com/CleverRaven/Cataclysm-DDA/pull/63597))
 * Misc nested mapgen clearing fixes ([#63606](https://github.com/CleverRaven/Cataclysm-DDA/pull/63606))
 * item: colorize container contents ([#63617](https://github.com/CleverRaven/Cataclysm-DDA/pull/63617))
 * lang/parser: fix for examine_action EOC referenced by id ([#63619](https://github.com/CleverRaven/Cataclysm-DDA/pull/63619))
@@ -231,5 +232,4 @@
 * Fix coverage for armor without sublocation data ([#63382](https://github.com/CleverRaven/Cataclysm-DDA/pull/63382))
 * Fix batch crafting calories displayed wrong ([#63387](https://github.com/CleverRaven/Cataclysm-DDA/pull/63387))
 * Add cheesemaking proficiencies to hard cheese ([#63383](https://github.com/CleverRaven/Cataclysm-DDA/pull/63383))
-* Update thermochemical properties of zinc material ([#63373](https://github.com/CleverRaven/Cataclysm-DDA/pull/63373))
 * Remove bashing stat from (chemical) powders, pastes and liquids ([#63377](https://github.com/CleverRaven/Cataclysm-DDA/pull/63377))
