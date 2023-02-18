@@ -1,3 +1,5 @@
+* item: colorize container contents ([#63617](https://github.com/CleverRaven/Cataclysm-DDA/pull/63617))
+* lang/parser: fix for examine_action EOC referenced by id ([#63619](https://github.com/CleverRaven/Cataclysm-DDA/pull/63619))
 * [Magiclysm] Fix floral healing not heal ([#63638](https://github.com/CleverRaven/Cataclysm-DDA/pull/63638))
 * Update debug_mutations.json ([#63646](https://github.com/CleverRaven/Cataclysm-DDA/pull/63646))
 
@@ -210,7 +212,6 @@
 * Show radiation level using radiation badge instead of character's rads ([#63395](https://github.com/CleverRaven/Cataclysm-DDA/pull/63395))
 * Bow sling volume increase ([#63374](https://github.com/CleverRaven/Cataclysm-DDA/pull/63374))
 * Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
-* github: make save files mandatory for new bug reports ([#63366](https://github.com/CleverRaven/Cataclysm-DDA/pull/63366))
 * Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
 * Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
 * Update credits for 0.G ([#63393](https://github.com/CleverRaven/Cataclysm-DDA/pull/63393))
@@ -227,7 +228,6 @@
 * Fix: activating a pill container consumes the whole pill stack ([#63400](https://github.com/CleverRaven/Cataclysm-DDA/pull/63400))
 * Earthshaper pickaxe can mine now ([#63401](https://github.com/CleverRaven/Cataclysm-DDA/pull/63401))
 * Fix some missing conflicts for Expanded Digestive ([#63371](https://github.com/CleverRaven/Cataclysm-DDA/pull/63371))
-* profs change gender redraw. ([#63367](https://github.com/CleverRaven/Cataclysm-DDA/pull/63367))
 * Fix coverage for armor without sublocation data ([#63382](https://github.com/CleverRaven/Cataclysm-DDA/pull/63382))
 * Fix batch crafting calories displayed wrong ([#63387](https://github.com/CleverRaven/Cataclysm-DDA/pull/63387))
 * Add cheesemaking proficiencies to hard cheese ([#63383](https://github.com/CleverRaven/Cataclysm-DDA/pull/63383))
