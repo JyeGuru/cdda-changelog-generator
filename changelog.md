@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-18-1512 ([d00628e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1512))
+
+* player can now use clean water in tempered steel crafts ([#63551](https://github.com/CleverRaven/Cataclysm-DDA/pull/63551))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-18-0631 ([dd75578](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-0631))
 
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
@@ -200,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2023-02-05-2306 ([2f594de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-2306))
 
 * Show radiation level using radiation badge instead of character's rads ([#63395](https://github.com/CleverRaven/Cataclysm-DDA/pull/63395))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-05-0608 ([8286625](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-0608))
-
 * Bow sling volume increase ([#63374](https://github.com/CleverRaven/Cataclysm-DDA/pull/63374))
 * Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
 * github: make save files mandatory for new bug reports ([#63366](https://github.com/CleverRaven/Cataclysm-DDA/pull/63366))
@@ -231,4 +232,3 @@
 * Update thermochemical properties of zinc material ([#63373](https://github.com/CleverRaven/Cataclysm-DDA/pull/63373))
 * Remove bashing stat from (chemical) powders, pastes and liquids ([#63377](https://github.com/CleverRaven/Cataclysm-DDA/pull/63377))
 * Grabs only suffocate for enemies that shove as a group ([#63352](https://github.com/CleverRaven/Cataclysm-DDA/pull/63352))
-* Add confirmation before abandoning camp ([#63351](https://github.com/CleverRaven/Cataclysm-DDA/pull/63351))

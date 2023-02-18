@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-18-1512 (d00628e)
+* player can now use clean water in tempered steel crafts (#63551)
+
 Cataclysm-DDA experimental build 2023-02-18-0631 (dd75578)
 * Routine i18n updates on 18 February 2023 (#63643)
 
@@ -113,8 +116,6 @@ Cataclysm-DDA experimental build 2023-02-06-0214 (862ae80)
 
 Cataclysm-DDA experimental build 2023-02-05-2306 (2f594de)
 * Show radiation level using radiation badge instead of character's rads (#63395)
-
-Cataclysm-DDA experimental build 2023-02-05-0608 (8286625)
 * Bow sling volume increase (#63374)
 * Searchlights: don't drop items used for settings (#63429)
 * github: make save files mandatory for new bug reports (#63366)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2023-02-05-0608 (8286625)
 * Update thermochemical properties of zinc material (#63373)
 * Remove bashing stat from (chemical) powders, pastes and liquids (#63377)
 * Grabs only suffocate for enemies that shove as a group (#63352)
-* Add confirmation before abandoning camp (#63351)
