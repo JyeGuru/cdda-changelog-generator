@@ -1,3 +1,4 @@
+* Misc nested mapgen clearing fixes ([#63606](https://github.com/CleverRaven/Cataclysm-DDA/pull/63606))
 * item: colorize container contents ([#63617](https://github.com/CleverRaven/Cataclysm-DDA/pull/63617))
 * lang/parser: fix for examine_action EOC referenced by id ([#63619](https://github.com/CleverRaven/Cataclysm-DDA/pull/63619))
 * [Magiclysm] Fix floral healing not heal ([#63638](https://github.com/CleverRaven/Cataclysm-DDA/pull/63638))
@@ -227,7 +228,6 @@
 * visitable: properly support the IS_UPS flag ([#63399](https://github.com/CleverRaven/Cataclysm-DDA/pull/63399))
 * Fix: activating a pill container consumes the whole pill stack ([#63400](https://github.com/CleverRaven/Cataclysm-DDA/pull/63400))
 * Earthshaper pickaxe can mine now ([#63401](https://github.com/CleverRaven/Cataclysm-DDA/pull/63401))
-* Fix some missing conflicts for Expanded Digestive ([#63371](https://github.com/CleverRaven/Cataclysm-DDA/pull/63371))
 * Fix coverage for armor without sublocation data ([#63382](https://github.com/CleverRaven/Cataclysm-DDA/pull/63382))
 * Fix batch crafting calories displayed wrong ([#63387](https://github.com/CleverRaven/Cataclysm-DDA/pull/63387))
 * Add cheesemaking proficiencies to hard cheese ([#63383](https://github.com/CleverRaven/Cataclysm-DDA/pull/63383))
