@@ -1,3 +1,4 @@
+* Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
 
 ---
 
@@ -232,5 +233,4 @@
 * Eating menu properly displays whether an item is sealed ([#63408](https://github.com/CleverRaven/Cataclysm-DDA/pull/63408))
 * Routine i18n updates on 04 February 2023 ([#63417](https://github.com/CleverRaven/Cataclysm-DDA/pull/63417))
 * Require correct petfood when attempting to tame hallucinated animal ([#63407](https://github.com/CleverRaven/Cataclysm-DDA/pull/63407))
-* Fix: activating a pill container consumes the whole pill stack ([#63400](https://github.com/CleverRaven/Cataclysm-DDA/pull/63400))
 * Earthshaper pickaxe can mine now ([#63401](https://github.com/CleverRaven/Cataclysm-DDA/pull/63401))

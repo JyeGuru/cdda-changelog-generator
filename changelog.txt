@@ -1,3 +1,4 @@
+* Fix relic enchant load error (#63655)
 
 Cataclysm-DDA experimental build 2023-02-18-1942 (d2a681e)
 * Inventory UI performance pass (#63580)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2023-02-06-0628 (908472c)
 * Eating menu properly displays whether an item is sealed (#63408)
 * Routine i18n updates on 04 February 2023 (#63417)
 * Require correct petfood when attempting to tame hallucinated animal (#63407)
-* Fix: activating a pill container consumes the whole pill stack (#63400)
 * Earthshaper pickaxe can mine now (#63401)
