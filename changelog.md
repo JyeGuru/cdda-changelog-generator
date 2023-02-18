@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-18-1942 ([d2a681e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1942))
+
 * Inventory UI performance pass ([#63580](https://github.com/CleverRaven/Cataclysm-DDA/pull/63580))
 * Buff and bugfix chimera integrated armors ([#63600](https://github.com/CleverRaven/Cataclysm-DDA/pull/63600))
 
@@ -210,11 +215,6 @@
 #### Cataclysm-DDA experimental build 2023-02-06-0628 ([908472c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0628))
 
 * Migrate more items and recipes ([#63432](https://github.com/CleverRaven/Cataclysm-DDA/pull/63432))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-06-0346 ([30de05c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0346))
-
 * Routine tileset updates on 05 February 2023 ([#63447](https://github.com/CleverRaven/Cataclysm-DDA/pull/63447))
 * fix: don't spawn spiral mine victims outside ([#63433](https://github.com/CleverRaven/Cataclysm-DDA/pull/63433))
 * Fixes fungal conversion for organic furniture ([#63439](https://github.com/CleverRaven/Cataclysm-DDA/pull/63439))
