@@ -1,3 +1,4 @@
+* make power armor "UNBREAKABLE_MELEE" ([#63635](https://github.com/CleverRaven/Cataclysm-DDA/pull/63635))
 * Improve obstacle sounds sequencing ([#63618](https://github.com/CleverRaven/Cataclysm-DDA/pull/63618))
 * Add ``rebar_rail`` to the obsoletion files ([#63622](https://github.com/CleverRaven/Cataclysm-DDA/pull/63622))
 * item: expand contents name if they're all of the same type ([#63579](https://github.com/CleverRaven/Cataclysm-DDA/pull/63579))
@@ -218,7 +219,6 @@
 #### Cataclysm-DDA experimental build 2023-02-06-0214 ([862ae80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0214))
 
 * Include addictions from hobbies in newchar display ([#63446](https://github.com/CleverRaven/Cataclysm-DDA/pull/63446))
-* Show radiation level using radiation badge instead of character's rads ([#63395](https://github.com/CleverRaven/Cataclysm-DDA/pull/63395))
 * Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
 * Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
 * Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
