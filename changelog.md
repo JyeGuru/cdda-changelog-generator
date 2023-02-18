@@ -1,3 +1,5 @@
+* [Magiclysm] Fix floral healing not heal ([#63638](https://github.com/CleverRaven/Cataclysm-DDA/pull/63638))
+* Update debug_mutations.json ([#63646](https://github.com/CleverRaven/Cataclysm-DDA/pull/63646))
 
 ---
 
@@ -231,4 +233,3 @@
 * Add cheesemaking proficiencies to hard cheese ([#63383](https://github.com/CleverRaven/Cataclysm-DDA/pull/63383))
 * Update thermochemical properties of zinc material ([#63373](https://github.com/CleverRaven/Cataclysm-DDA/pull/63373))
 * Remove bashing stat from (chemical) powders, pastes and liquids ([#63377](https://github.com/CleverRaven/Cataclysm-DDA/pull/63377))
-* Grabs only suffocate for enemies that shove as a group ([#63352](https://github.com/CleverRaven/Cataclysm-DDA/pull/63352))
