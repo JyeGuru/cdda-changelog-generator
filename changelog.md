@@ -1,3 +1,4 @@
+* item: limit stacks_with recursion to useful depth ([#63589](https://github.com/CleverRaven/Cataclysm-DDA/pull/63589))
 * Unifies gutter terrains ([#63597](https://github.com/CleverRaven/Cataclysm-DDA/pull/63597))
 * Misc nested mapgen clearing fixes ([#63606](https://github.com/CleverRaven/Cataclysm-DDA/pull/63606))
 * item: colorize container contents ([#63617](https://github.com/CleverRaven/Cataclysm-DDA/pull/63617))
@@ -212,7 +213,6 @@
 #### Cataclysm-DDA experimental build 2023-02-05-2306 ([2f594de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-05-2306))
 
 * Show radiation level using radiation badge instead of character's rads ([#63395](https://github.com/CleverRaven/Cataclysm-DDA/pull/63395))
-* Bow sling volume increase ([#63374](https://github.com/CleverRaven/Cataclysm-DDA/pull/63374))
 * Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
 * Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
 * Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
