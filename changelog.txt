@@ -1,3 +1,4 @@
+* Inventory UI performance pass (#63580)
 * Buff and bugfix chimera integrated armors (#63600)
 
 Cataclysm-DDA experimental build 2023-02-18-1757 (cb0c155)
@@ -141,6 +142,5 @@ Cataclysm-DDA experimental build 2023-02-06-0346 (30de05c)
 * Eating menu properly displays whether an item is sealed (#63408)
 * Routine i18n updates on 04 February 2023 (#63417)
 * Require correct petfood when attempting to tame hallucinated animal (#63407)
-* visitable: properly support the IS_UPS flag (#63399)
 * Fix: activating a pill container consumes the whole pill stack (#63400)
 * Earthshaper pickaxe can mine now (#63401)
