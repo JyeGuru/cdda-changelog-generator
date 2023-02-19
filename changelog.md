@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-19-0652 ([05b28a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-19-0652))
+
+* Fixes fitness gym pool spawns ([#63657](https://github.com/CleverRaven/Cataclysm-DDA/pull/63657))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-18-2126 ([bc6eb21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-2126))
 
 * Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
@@ -209,11 +215,6 @@
 #### Cataclysm-DDA experimental build 2023-02-08-0141 ([ecaeef0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0141))
 
 * debug: generating min archive is not a cheat ([#63471](https://github.com/CleverRaven/Cataclysm-DDA/pull/63471))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-07-0628 ([c8bebe2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-07-0628))
-
 * Fix formatting in doc/EFFECTS_JSON.md ([#63458](https://github.com/CleverRaven/Cataclysm-DDA/pull/63458))
 * Migrate more items and recipes ([#63432](https://github.com/CleverRaven/Cataclysm-DDA/pull/63432))
 * Routine tileset updates on 05 February 2023 ([#63447](https://github.com/CleverRaven/Cataclysm-DDA/pull/63447))
@@ -233,4 +234,3 @@
 * Eating menu properly displays whether an item is sealed ([#63408](https://github.com/CleverRaven/Cataclysm-DDA/pull/63408))
 * Routine i18n updates on 04 February 2023 ([#63417](https://github.com/CleverRaven/Cataclysm-DDA/pull/63417))
 * Require correct petfood when attempting to tame hallucinated animal ([#63407](https://github.com/CleverRaven/Cataclysm-DDA/pull/63407))
-* Earthshaper pickaxe can mine now ([#63401](https://github.com/CleverRaven/Cataclysm-DDA/pull/63401))
