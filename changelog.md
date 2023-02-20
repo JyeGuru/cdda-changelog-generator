@@ -1,3 +1,4 @@
+* No more cigarette flashlights ([#63516](https://github.com/CleverRaven/Cataclysm-DDA/pull/63516))
 * Update flags for assorted floral furniture ([#63676](https://github.com/CleverRaven/Cataclysm-DDA/pull/63676))
 * [Xedra Evolved] Random fixes for the voices in my head vol. 02 ([#63661](https://github.com/CleverRaven/Cataclysm-DDA/pull/63661))
 * Ferrous spawn revamp ([#63662](https://github.com/CleverRaven/Cataclysm-DDA/pull/63662))
@@ -233,4 +234,3 @@
 * Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
 * Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
 * Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
-* Remove and replace zeriatrics, feral grannies, and Big Pappy. ([#63423](https://github.com/CleverRaven/Cataclysm-DDA/pull/63423))
