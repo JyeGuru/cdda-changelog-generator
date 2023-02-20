@@ -1,3 +1,12 @@
+* Ferrous spawn revamp ([#63662](https://github.com/CleverRaven/Cataclysm-DDA/pull/63662))
+* red ryder bb length-and-weight ([#63667](https://github.com/CleverRaven/Cataclysm-DDA/pull/63667))
+* Bring elf-a hurt_tick in line with others ([#63679](https://github.com/CleverRaven/Cataclysm-DDA/pull/63679))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-20-2036 ([723fcd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-20-2036))
+
+* [Magiclysm] +1 and +2 pickaxe can mine now ([#63689](https://github.com/CleverRaven/Cataclysm-DDA/pull/63689))
 
 ---
 
@@ -205,11 +214,6 @@
 #### Cataclysm-DDA experimental build 2023-02-08-0433 ([dfe5c1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0433))
 
 * Correct typo in baby of mutant tusk ([#63486](https://github.com/CleverRaven/Cataclysm-DDA/pull/63486))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-08-0300 ([247d4d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0300))
-
 * Make the broker to accept dehydrated meat ([#63450](https://github.com/CleverRaven/Cataclysm-DDA/pull/63450))
 * activity: respect source vehicle when unloading ([#63456](https://github.com/CleverRaven/Cataclysm-DDA/pull/63456))
 * Vehicle workbench no longer allows you to see through the roof ([#63469](https://github.com/CleverRaven/Cataclysm-DDA/pull/63469))
@@ -229,7 +233,4 @@
 * Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
 * test/health: keep test npc awake ([#63422](https://github.com/CleverRaven/Cataclysm-DDA/pull/63422))
 * Remove and replace zeriatrics, feral grannies, and Big Pappy. ([#63423](https://github.com/CleverRaven/Cataclysm-DDA/pull/63423))
-* remove gunpowder from .22 CB disassembly ([#63411](https://github.com/CleverRaven/Cataclysm-DDA/pull/63411))
 * fix skull strapped to head coverage ([#63420](https://github.com/CleverRaven/Cataclysm-DDA/pull/63420))
-* Eating menu properly displays whether an item is sealed ([#63408](https://github.com/CleverRaven/Cataclysm-DDA/pull/63408))
-* Routine i18n updates on 04 February 2023 ([#63417](https://github.com/CleverRaven/Cataclysm-DDA/pull/63417))
