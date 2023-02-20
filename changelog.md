@@ -1,3 +1,4 @@
+* fix mutate_towards not accounting CANCELS bionics ([#63599](https://github.com/CleverRaven/Cataclysm-DDA/pull/63599))
 * Cqb fix ([#63449](https://github.com/CleverRaven/Cataclysm-DDA/pull/63449))
 * Sane person's lifespan ([#63653](https://github.com/CleverRaven/Cataclysm-DDA/pull/63653))
 * snails are in food category now ([#63669](https://github.com/CleverRaven/Cataclysm-DDA/pull/63669))
@@ -227,7 +228,6 @@
 * Meat scrap price fixes ([#63467](https://github.com/CleverRaven/Cataclysm-DDA/pull/63467))
 * debug: generating min archive is not a cheat ([#63471](https://github.com/CleverRaven/Cataclysm-DDA/pull/63471))
 * Fix formatting in doc/EFFECTS_JSON.md ([#63458](https://github.com/CleverRaven/Cataclysm-DDA/pull/63458))
-* Migrate more items and recipes ([#63432](https://github.com/CleverRaven/Cataclysm-DDA/pull/63432))
 * Routine tileset updates on 05 February 2023 ([#63447](https://github.com/CleverRaven/Cataclysm-DDA/pull/63447))
 * fix: don't spawn spiral mine victims outside ([#63433](https://github.com/CleverRaven/Cataclysm-DDA/pull/63433))
 * Fixes fungal conversion for organic furniture ([#63439](https://github.com/CleverRaven/Cataclysm-DDA/pull/63439))
