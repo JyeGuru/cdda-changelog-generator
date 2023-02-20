@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-20-2317 ([a3a639e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-20-2317))
+
 * Fix ghc directory iterator treating all files subsequent to a symlink as symlink ([#63612](https://github.com/CleverRaven/Cataclysm-DDA/pull/63612))
 * Better fix for loading relics with removed enchantments ([#63678](https://github.com/CleverRaven/Cataclysm-DDA/pull/63678))
 * Fix npc needs pathfinding taking unreasonable amount of time ([#63673](https://github.com/CleverRaven/Cataclysm-DDA/pull/63673))
@@ -218,11 +223,6 @@
 #### Cataclysm-DDA experimental build 2023-02-08-0648 ([387e0fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0648))
 
 * Moves hunting lodges to more secluded areas ([#63459](https://github.com/CleverRaven/Cataclysm-DDA/pull/63459))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-08-0433 ([dfe5c1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0433))
-
 * Correct typo in baby of mutant tusk ([#63486](https://github.com/CleverRaven/Cataclysm-DDA/pull/63486))
 * Make the broker to accept dehydrated meat ([#63450](https://github.com/CleverRaven/Cataclysm-DDA/pull/63450))
 * activity: respect source vehicle when unloading ([#63456](https://github.com/CleverRaven/Cataclysm-DDA/pull/63456))
