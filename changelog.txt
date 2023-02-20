@@ -102,8 +102,12 @@ Cataclysm-DDA experimental build 2023-02-10-0629 (43d2040)
 
 Cataclysm-DDA experimental build 2023-02-09-0618 (2ee4928)
 * Adds a roof to fruit orchards (#63478)
+
+Cataclysm-DDA experimental build 2023-02-09-0129 (b74aedc)
 * Chocolate Bars Updated (#63461)
 * Heat pack fixes (#63472)
+
+Cataclysm-DDA experimental build 2023-02-08-2359 (59eeb52)
 * Fix holes in libraries (#63484)
 
 Cataclysm-DDA experimental build 2023-02-08-0648 (387e0fe)
@@ -121,11 +125,7 @@ Cataclysm-DDA experimental build 2023-02-08-0300 (247d4d2)
 
 Cataclysm-DDA experimental build 2023-02-08-0141 (ecaeef0)
 * debug: generating min archive is not a cheat (#63471)
-
-Cataclysm-DDA experimental build 2023-02-07-0628 (c8bebe2)
 * Fix formatting in doc/EFFECTS_JSON.md (#63458)
-
-Cataclysm-DDA experimental build 2023-02-06-0628 (908472c)
 * Migrate more items and recipes (#63432)
 * Routine tileset updates on 05 February 2023 (#63447)
 * fix: don't spawn spiral mine victims outside (#63433)

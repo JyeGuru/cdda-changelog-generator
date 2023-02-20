@@ -174,8 +174,18 @@
 #### Cataclysm-DDA experimental build 2023-02-09-0618 ([2ee4928](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-09-0618))
 
 * Adds a roof to fruit orchards ([#63478](https://github.com/CleverRaven/Cataclysm-DDA/pull/63478))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-09-0129 ([b74aedc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-09-0129))
+
 * Chocolate Bars Updated ([#63461](https://github.com/CleverRaven/Cataclysm-DDA/pull/63461))
 * Heat pack fixes ([#63472](https://github.com/CleverRaven/Cataclysm-DDA/pull/63472))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-08-2359 ([59eeb52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-2359))
+
 * Fix holes in libraries ([#63484](https://github.com/CleverRaven/Cataclysm-DDA/pull/63484))
 
 ---
@@ -205,17 +215,7 @@
 #### Cataclysm-DDA experimental build 2023-02-08-0141 ([ecaeef0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0141))
 
 * debug: generating min archive is not a cheat ([#63471](https://github.com/CleverRaven/Cataclysm-DDA/pull/63471))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-07-0628 ([c8bebe2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-07-0628))
-
 * Fix formatting in doc/EFFECTS_JSON.md ([#63458](https://github.com/CleverRaven/Cataclysm-DDA/pull/63458))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-06-0628 ([908472c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-06-0628))
-
 * Migrate more items and recipes ([#63432](https://github.com/CleverRaven/Cataclysm-DDA/pull/63432))
 * Routine tileset updates on 05 February 2023 ([#63447](https://github.com/CleverRaven/Cataclysm-DDA/pull/63447))
 * fix: don't spawn spiral mine victims outside ([#63433](https://github.com/CleverRaven/Cataclysm-DDA/pull/63433))
