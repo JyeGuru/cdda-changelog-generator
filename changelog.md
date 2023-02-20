@@ -1,3 +1,4 @@
+* Fix ghc directory iterator treating all files subsequent to a symlink as symlink ([#63612](https://github.com/CleverRaven/Cataclysm-DDA/pull/63612))
 * Better fix for loading relics with removed enchantments ([#63678](https://github.com/CleverRaven/Cataclysm-DDA/pull/63678))
 * Fix npc needs pathfinding taking unreasonable amount of time ([#63673](https://github.com/CleverRaven/Cataclysm-DDA/pull/63673))
 * fix mutate_towards not accounting CANCELS bionics ([#63599](https://github.com/CleverRaven/Cataclysm-DDA/pull/63599))
