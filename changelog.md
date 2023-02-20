@@ -1,3 +1,6 @@
+* Cqb fix ([#63449](https://github.com/CleverRaven/Cataclysm-DDA/pull/63449))
+* Sane person's lifespan ([#63653](https://github.com/CleverRaven/Cataclysm-DDA/pull/63653))
+* snails are in food category now ([#63669](https://github.com/CleverRaven/Cataclysm-DDA/pull/63669))
 * No more cigarette flashlights ([#63516](https://github.com/CleverRaven/Cataclysm-DDA/pull/63516))
 * Update flags for assorted floral furniture ([#63676](https://github.com/CleverRaven/Cataclysm-DDA/pull/63676))
 * [Xedra Evolved] Random fixes for the voices in my head vol. 02 ([#63661](https://github.com/CleverRaven/Cataclysm-DDA/pull/63661))
@@ -231,6 +234,3 @@
 * Fixes terrain issue in house_library ([#63440](https://github.com/CleverRaven/Cataclysm-DDA/pull/63440))
 * tgz_archiver: fixup for reading null bytes ([#63445](https://github.com/CleverRaven/Cataclysm-DDA/pull/63445))
 * Include addictions from hobbies in newchar display ([#63446](https://github.com/CleverRaven/Cataclysm-DDA/pull/63446))
-* Searchlights: don't drop items used for settings ([#63429](https://github.com/CleverRaven/Cataclysm-DDA/pull/63429))
-* Bandaid pricing ([#63425](https://github.com/CleverRaven/Cataclysm-DDA/pull/63425))
-* Fix some false warnings for compiles with UB/Asan ([#63426](https://github.com/CleverRaven/Cataclysm-DDA/pull/63426))
