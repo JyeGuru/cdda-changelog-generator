@@ -1,3 +1,4 @@
+* Fix npc needs pathfinding taking unreasonable amount of time ([#63673](https://github.com/CleverRaven/Cataclysm-DDA/pull/63673))
 * fix mutate_towards not accounting CANCELS bionics ([#63599](https://github.com/CleverRaven/Cataclysm-DDA/pull/63599))
 * Cqb fix ([#63449](https://github.com/CleverRaven/Cataclysm-DDA/pull/63449))
 * Sane person's lifespan ([#63653](https://github.com/CleverRaven/Cataclysm-DDA/pull/63653))
@@ -229,7 +230,6 @@
 * debug: generating min archive is not a cheat ([#63471](https://github.com/CleverRaven/Cataclysm-DDA/pull/63471))
 * Fix formatting in doc/EFFECTS_JSON.md ([#63458](https://github.com/CleverRaven/Cataclysm-DDA/pull/63458))
 * Routine tileset updates on 05 February 2023 ([#63447](https://github.com/CleverRaven/Cataclysm-DDA/pull/63447))
-* fix: don't spawn spiral mine victims outside ([#63433](https://github.com/CleverRaven/Cataclysm-DDA/pull/63433))
 * Fixes fungal conversion for organic furniture ([#63439](https://github.com/CleverRaven/Cataclysm-DDA/pull/63439))
 * Fixes terrain issue in house_library ([#63440](https://github.com/CleverRaven/Cataclysm-DDA/pull/63440))
 * tgz_archiver: fixup for reading null bytes ([#63445](https://github.com/CleverRaven/Cataclysm-DDA/pull/63445))
