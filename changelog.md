@@ -1,3 +1,5 @@
+* [Aftershock] Pain Suppression cbm will no longer kill you ([#63592](https://github.com/CleverRaven/Cataclysm-DDA/pull/63592))
+* Move Crazy Cata monsters to Crazy Cata files ([#63621](https://github.com/CleverRaven/Cataclysm-DDA/pull/63621))
 
 ---
 
@@ -16,7 +18,6 @@
 * Better fix for loading relics with removed enchantments ([#63678](https://github.com/CleverRaven/Cataclysm-DDA/pull/63678))
 * Fix npc needs pathfinding taking unreasonable amount of time ([#63673](https://github.com/CleverRaven/Cataclysm-DDA/pull/63673))
 * fix mutate_towards not accounting CANCELS bionics ([#63599](https://github.com/CleverRaven/Cataclysm-DDA/pull/63599))
-* Cqb fix ([#63449](https://github.com/CleverRaven/Cataclysm-DDA/pull/63449))
 * Sane person's lifespan ([#63653](https://github.com/CleverRaven/Cataclysm-DDA/pull/63653))
 * snails are in food category now ([#63669](https://github.com/CleverRaven/Cataclysm-DDA/pull/63669))
 * No more cigarette flashlights ([#63516](https://github.com/CleverRaven/Cataclysm-DDA/pull/63516))
@@ -223,7 +224,6 @@
 * Fix holes in libraries ([#63484](https://github.com/CleverRaven/Cataclysm-DDA/pull/63484))
 * Moves hunting lodges to more secluded areas ([#63459](https://github.com/CleverRaven/Cataclysm-DDA/pull/63459))
 * Correct typo in baby of mutant tusk ([#63486](https://github.com/CleverRaven/Cataclysm-DDA/pull/63486))
-* Make the broker to accept dehydrated meat ([#63450](https://github.com/CleverRaven/Cataclysm-DDA/pull/63450))
 * activity: respect source vehicle when unloading ([#63456](https://github.com/CleverRaven/Cataclysm-DDA/pull/63456))
 * Vehicle workbench no longer allows you to see through the roof ([#63469](https://github.com/CleverRaven/Cataclysm-DDA/pull/63469))
 * Lotus no longer collides with vehicles ([#63468](https://github.com/CleverRaven/Cataclysm-DDA/pull/63468))
