@@ -1,3 +1,4 @@
+* Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
 * Made it possible to scan spellbooks into ereader ([#63508](https://github.com/CleverRaven/Cataclysm-DDA/pull/63508))
 * remove weather reader CBM from science_and_tech.json ([#63642](https://github.com/CleverRaven/Cataclysm-DDA/pull/63642))
 * Steel bottle category change and disassembly recipe ([#63697](https://github.com/CleverRaven/Cataclysm-DDA/pull/63697))
@@ -230,4 +231,3 @@
 * debug: generating min archive is not a cheat ([#63471](https://github.com/CleverRaven/Cataclysm-DDA/pull/63471))
 * Fix formatting in doc/EFFECTS_JSON.md ([#63458](https://github.com/CleverRaven/Cataclysm-DDA/pull/63458))
 * Routine tileset updates on 05 February 2023 ([#63447](https://github.com/CleverRaven/Cataclysm-DDA/pull/63447))
-* Include addictions from hobbies in newchar display ([#63446](https://github.com/CleverRaven/Cataclysm-DDA/pull/63446))
