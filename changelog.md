@@ -122,11 +122,6 @@
 
 * Fix broken enchantments ([#63562](https://github.com/CleverRaven/Cataclysm-DDA/pull/63562))
 * Replace firearm doc references to quarter degrees with MoA ([#63576](https://github.com/CleverRaven/Cataclysm-DDA/pull/63576))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-16-0119 ([c571723](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-16-0119))
-
 * item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
 
 ---
@@ -146,11 +141,6 @@
 #### Cataclysm-DDA experimental build 2023-02-13-2221 ([88fbd38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-2221))
 
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-13-1223 ([c7738a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-1223))
-
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 
 ---
@@ -218,7 +208,17 @@
 #### Cataclysm-DDA experimental build 2023-02-10-0629 ([43d2040](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-10-0629))
 
 * Horses no longer shrink when they zombify ([#63512](https://github.com/CleverRaven/Cataclysm-DDA/pull/63512))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-09-0618 ([2ee4928](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-09-0618))
+
 * Adds a roof to fruit orchards ([#63478](https://github.com/CleverRaven/Cataclysm-DDA/pull/63478))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-09-0129 ([b74aedc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-09-0129))
+
 * Chocolate Bars Updated ([#63461](https://github.com/CleverRaven/Cataclysm-DDA/pull/63461))
 * Heat pack fixes ([#63472](https://github.com/CleverRaven/Cataclysm-DDA/pull/63472))
 * Fix holes in libraries ([#63484](https://github.com/CleverRaven/Cataclysm-DDA/pull/63484))
