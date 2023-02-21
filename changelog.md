@@ -220,11 +220,6 @@
 #### Cataclysm-DDA experimental build 2023-02-08-2359 ([59eeb52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-2359))
 
 * Fix holes in libraries ([#63484](https://github.com/CleverRaven/Cataclysm-DDA/pull/63484))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-08-0648 ([387e0fe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-08-0648))
-
 * Moves hunting lodges to more secluded areas ([#63459](https://github.com/CleverRaven/Cataclysm-DDA/pull/63459))
 * Correct typo in baby of mutant tusk ([#63486](https://github.com/CleverRaven/Cataclysm-DDA/pull/63486))
 * Make the broker to accept dehydrated meat ([#63450](https://github.com/CleverRaven/Cataclysm-DDA/pull/63450))
