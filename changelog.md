@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-22-0044 ([a809d8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0044))
+
+* Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-21-1547 ([1ac9d06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-1547))
 
 * [Aftershock] Pain Suppression cbm will no longer kill you ([#63592](https://github.com/CleverRaven/Cataclysm-DDA/pull/63592))
@@ -212,11 +218,6 @@
 #### Cataclysm-DDA experimental build 2023-02-10-1114 ([6d51640](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-10-1114))
 
 * [DinoMod] armor material fixes ([#63509](https://github.com/CleverRaven/Cataclysm-DDA/pull/63509))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-10-0629 ([43d2040](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-10-0629))
-
 * Horses no longer shrink when they zombify ([#63512](https://github.com/CleverRaven/Cataclysm-DDA/pull/63512))
 * Adds a roof to fruit orchards ([#63478](https://github.com/CleverRaven/Cataclysm-DDA/pull/63478))
 * Chocolate Bars Updated ([#63461](https://github.com/CleverRaven/Cataclysm-DDA/pull/63461))
@@ -224,7 +225,6 @@
 * Fix holes in libraries ([#63484](https://github.com/CleverRaven/Cataclysm-DDA/pull/63484))
 * Moves hunting lodges to more secluded areas ([#63459](https://github.com/CleverRaven/Cataclysm-DDA/pull/63459))
 * Correct typo in baby of mutant tusk ([#63486](https://github.com/CleverRaven/Cataclysm-DDA/pull/63486))
-* activity: respect source vehicle when unloading ([#63456](https://github.com/CleverRaven/Cataclysm-DDA/pull/63456))
 * Vehicle workbench no longer allows you to see through the roof ([#63469](https://github.com/CleverRaven/Cataclysm-DDA/pull/63469))
 * Lotus no longer collides with vehicles ([#63468](https://github.com/CleverRaven/Cataclysm-DDA/pull/63468))
 * Meat scrap price fixes ([#63467](https://github.com/CleverRaven/Cataclysm-DDA/pull/63467))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-22-0044 (a809d8b)
+* Document automatic json linting when using Visual Studio (#63716)
+
 Cataclysm-DDA experimental build 2023-02-21-1547 (1ac9d06)
 * [Aftershock] Pain Suppression cbm will no longer kill you (#63592)
 
@@ -128,8 +131,6 @@ Cataclysm-DDA experimental build 2023-02-10-1222 (95521e0)
 
 Cataclysm-DDA experimental build 2023-02-10-1114 (6d51640)
 * [DinoMod] armor material fixes (#63509)
-
-Cataclysm-DDA experimental build 2023-02-10-0629 (43d2040)
 * Horses no longer shrink when they zombify (#63512)
 * Adds a roof to fruit orchards (#63478)
 * Chocolate Bars Updated (#63461)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2023-02-10-0629 (43d2040)
 * Fix holes in libraries (#63484)
 * Moves hunting lodges to more secluded areas (#63459)
 * Correct typo in baby of mutant tusk (#63486)
-* activity: respect source vehicle when unloading (#63456)
 * Vehicle workbench no longer allows you to see through the roof (#63469)
 * Lotus no longer collides with vehicles (#63468)
 * Meat scrap price fixes (#63467)
