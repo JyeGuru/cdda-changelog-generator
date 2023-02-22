@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-22-0409 ([a8493c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0409))
+
+* Obsoletes old-style trailer parks ([#63696](https://github.com/CleverRaven/Cataclysm-DDA/pull/63696))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-22-0044 ([a809d8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0044))
 
 * Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))
@@ -212,11 +218,6 @@
 #### Cataclysm-DDA experimental build 2023-02-10-1222 ([95521e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-10-1222))
 
 * Prevent autodrive from dropping vehicles in holes ([#63487](https://github.com/CleverRaven/Cataclysm-DDA/pull/63487))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-10-1114 ([6d51640](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-10-1114))
-
 * [DinoMod] armor material fixes ([#63509](https://github.com/CleverRaven/Cataclysm-DDA/pull/63509))
 * Horses no longer shrink when they zombify ([#63512](https://github.com/CleverRaven/Cataclysm-DDA/pull/63512))
 * Adds a roof to fruit orchards ([#63478](https://github.com/CleverRaven/Cataclysm-DDA/pull/63478))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-22-0409 (a8493c6)
+* Obsoletes old-style trailer parks (#63696)
+
 Cataclysm-DDA experimental build 2023-02-22-0044 (a809d8b)
 * Document automatic json linting when using Visual Studio (#63716)
 
@@ -128,8 +131,6 @@ Cataclysm-DDA experimental build 2023-02-11-0613 (7216560)
 
 Cataclysm-DDA experimental build 2023-02-10-1222 (95521e0)
 * Prevent autodrive from dropping vehicles in holes (#63487)
-
-Cataclysm-DDA experimental build 2023-02-10-1114 (6d51640)
 * [DinoMod] armor material fixes (#63509)
 * Horses no longer shrink when they zombify (#63512)
 * Adds a roof to fruit orchards (#63478)
