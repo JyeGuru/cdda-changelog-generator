@@ -1,3 +1,7 @@
+* Add my Patreon to the donations page (#63703)
+
+Cataclysm-DDA experimental build 2023-02-22-1849 (95b8cca)
+* debug/tgz: trim overmapbuffer in minimized archive (#63717)
 
 Cataclysm-DDA experimental build 2023-02-22-0727 (f1bc060)
 * item: colorize medicine and healing tools (#63711)
@@ -128,8 +132,6 @@ Cataclysm-DDA experimental build 2023-02-13-0207 (aca7329)
 
 Cataclysm-DDA experimental build 2023-02-13-0105 (a908f95)
 * Remove feral granny from salon (#63561)
-
-Cataclysm-DDA experimental build 2023-02-11-0613 (7216560)
 * Fix excessive tool requirement in `sheriffshirt` uncraft (#63533)
 * Prevent autodrive from dropping vehicles in holes (#63487)
 * [DinoMod] armor material fixes (#63509)
@@ -138,7 +140,6 @@ Cataclysm-DDA experimental build 2023-02-11-0613 (7216560)
 * Chocolate Bars Updated (#63461)
 * Heat pack fixes (#63472)
 * Fix holes in libraries (#63484)
-* Moves hunting lodges to more secluded areas (#63459)
 * Correct typo in baby of mutant tusk (#63486)
 * Vehicle workbench no longer allows you to see through the roof (#63469)
 * Lotus no longer collides with vehicles (#63468)
