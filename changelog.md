@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-22-0727 ([f1bc060](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0727))
+
+* item: colorize medicine and healing tools ([#63711](https://github.com/CleverRaven/Cataclysm-DDA/pull/63711))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-22-0409 ([a8493c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0409))
 
 * Obsoletes old-style trailer parks ([#63696](https://github.com/CleverRaven/Cataclysm-DDA/pull/63696))
@@ -212,11 +218,6 @@
 #### Cataclysm-DDA experimental build 2023-02-11-0613 ([7216560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-11-0613))
 
 * Fix excessive tool requirement in `sheriffshirt` uncraft ([#63533](https://github.com/CleverRaven/Cataclysm-DDA/pull/63533))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-10-1222 ([95521e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-10-1222))
-
 * Prevent autodrive from dropping vehicles in holes ([#63487](https://github.com/CleverRaven/Cataclysm-DDA/pull/63487))
 * [DinoMod] armor material fixes ([#63509](https://github.com/CleverRaven/Cataclysm-DDA/pull/63509))
 * Horses no longer shrink when they zombify ([#63512](https://github.com/CleverRaven/Cataclysm-DDA/pull/63512))
@@ -230,4 +231,3 @@
 * Lotus no longer collides with vehicles ([#63468](https://github.com/CleverRaven/Cataclysm-DDA/pull/63468))
 * Meat scrap price fixes ([#63467](https://github.com/CleverRaven/Cataclysm-DDA/pull/63467))
 * debug: generating min archive is not a cheat ([#63471](https://github.com/CleverRaven/Cataclysm-DDA/pull/63471))
-* Fix formatting in doc/EFFECTS_JSON.md ([#63458](https://github.com/CleverRaven/Cataclysm-DDA/pull/63458))

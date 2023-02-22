@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-22-0727 (f1bc060)
+* item: colorize medicine and healing tools (#63711)
+
 Cataclysm-DDA experimental build 2023-02-22-0409 (a8493c6)
 * Obsoletes old-style trailer parks (#63696)
 
@@ -128,8 +131,6 @@ Cataclysm-DDA experimental build 2023-02-13-0105 (a908f95)
 
 Cataclysm-DDA experimental build 2023-02-11-0613 (7216560)
 * Fix excessive tool requirement in `sheriffshirt` uncraft (#63533)
-
-Cataclysm-DDA experimental build 2023-02-10-1222 (95521e0)
 * Prevent autodrive from dropping vehicles in holes (#63487)
 * [DinoMod] armor material fixes (#63509)
 * Horses no longer shrink when they zombify (#63512)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2023-02-10-1222 (95521e0)
 * Lotus no longer collides with vehicles (#63468)
 * Meat scrap price fixes (#63467)
 * debug: generating min archive is not a cheat (#63471)
-* Fix formatting in doc/EFFECTS_JSON.md (#63458)
