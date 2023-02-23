@@ -35,6 +35,11 @@
 #### Cataclysm-DDA experimental build 2023-02-21-1547 ([1ac9d06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-1547))
 
 * [Aftershock] Pain Suppression cbm will no longer kill you ([#63592](https://github.com/CleverRaven/Cataclysm-DDA/pull/63592))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-21-1248 ([f435360](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-1248))
+
 * Move Crazy Cata monsters to Crazy Cata files ([#63621](https://github.com/CleverRaven/Cataclysm-DDA/pull/63621))
 
 ---
@@ -178,6 +183,11 @@
 #### Cataclysm-DDA experimental build 2023-02-13-1223 ([c7738a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-1223))
 
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-13-0501 ([89f39eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0501))
+
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
 
 ---
@@ -209,17 +219,7 @@
 * Add contested roll function to EOCs ([#63553](https://github.com/CleverRaven/Cataclysm-DDA/pull/63553))
 * [Xedra Evolved] Random fixes from the voices in my head ([#63556](https://github.com/CleverRaven/Cataclysm-DDA/pull/63556))
 * [Megafauna] Make Great Auks name visible / blue ([#63557](https://github.com/CleverRaven/Cataclysm-DDA/pull/63557))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-13-0105 ([a908f95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0105))
-
 * Remove feral granny from salon ([#63561](https://github.com/CleverRaven/Cataclysm-DDA/pull/63561))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-11-0613 ([7216560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-11-0613))
-
 * Fix excessive tool requirement in `sheriffshirt` uncraft ([#63533](https://github.com/CleverRaven/Cataclysm-DDA/pull/63533))
 * Prevent autodrive from dropping vehicles in holes ([#63487](https://github.com/CleverRaven/Cataclysm-DDA/pull/63487))
 * [DinoMod] armor material fixes ([#63509](https://github.com/CleverRaven/Cataclysm-DDA/pull/63509))
