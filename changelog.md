@@ -226,4 +226,3 @@
 * Heat pack fixes ([#63472](https://github.com/CleverRaven/Cataclysm-DDA/pull/63472))
 * Fix holes in libraries ([#63484](https://github.com/CleverRaven/Cataclysm-DDA/pull/63484))
 * Correct typo in baby of mutant tusk ([#63486](https://github.com/CleverRaven/Cataclysm-DDA/pull/63486))
-* debug: generating min archive is not a cheat ([#63471](https://github.com/CleverRaven/Cataclysm-DDA/pull/63471))
