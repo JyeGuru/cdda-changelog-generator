@@ -197,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2023-02-13-0501 ([89f39eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0501))
 
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-13-0347 ([dab795f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0347))
-
 * eye color layering ([#63497](https://github.com/CleverRaven/Cataclysm-DDA/pull/63497))
 * npctrade: fix price of magazine contents ([#63491](https://github.com/CleverRaven/Cataclysm-DDA/pull/63491))
 * Adds roads to roadless mansions ([#63492](https://github.com/CleverRaven/Cataclysm-DDA/pull/63492))
