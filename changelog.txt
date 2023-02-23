@@ -17,8 +17,6 @@ Cataclysm-DDA experimental build 2023-02-22-0044 (a809d8b)
 
 Cataclysm-DDA experimental build 2023-02-21-1547 (1ac9d06)
 * [Aftershock] Pain Suppression cbm will no longer kill you (#63592)
-
-Cataclysm-DDA experimental build 2023-02-21-1248 (f435360)
 * Move Crazy Cata monsters to Crazy Cata files (#63621)
 
 Cataclysm-DDA experimental build 2023-02-21-0705 (79a4e9f)
@@ -105,8 +103,6 @@ Cataclysm-DDA experimental build 2023-02-13-2221 (88fbd38)
 
 Cataclysm-DDA experimental build 2023-02-13-1223 (c7738a5)
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines (#63568)
-
-Cataclysm-DDA experimental build 2023-02-13-0501 (89f39eb)
 * Routine tileset updates on 12 February 2023 (#63567)
 
 Cataclysm-DDA experimental build 2023-02-13-0347 (dab795f)
@@ -132,7 +128,11 @@ Cataclysm-DDA experimental build 2023-02-13-0207 (aca7329)
 * Add contested roll function to EOCs (#63553)
 * [Xedra Evolved] Random fixes from the voices in my head (#63556)
 * [Megafauna] Make Great Auks name visible / blue (#63557)
+
+Cataclysm-DDA experimental build 2023-02-13-0105 (a908f95)
 * Remove feral granny from salon (#63561)
+
+Cataclysm-DDA experimental build 2023-02-11-0613 (7216560)
 * Fix excessive tool requirement in `sheriffshirt` uncraft (#63533)
 * Prevent autodrive from dropping vehicles in holes (#63487)
 * [DinoMod] armor material fixes (#63509)
