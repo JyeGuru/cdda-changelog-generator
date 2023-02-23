@@ -16,8 +16,6 @@ Cataclysm-DDA experimental build 2023-02-22-0727 (f1bc060)
 
 Cataclysm-DDA experimental build 2023-02-22-0409 (a8493c6)
 * Obsoletes old-style trailer parks (#63696)
-
-Cataclysm-DDA experimental build 2023-02-22-0044 (a809d8b)
 * Document automatic json linting when using Visual Studio (#63716)
 
 Cataclysm-DDA experimental build 2023-02-21-1547 (1ac9d06)
@@ -118,6 +116,8 @@ Cataclysm-DDA experimental build 2023-02-13-0347 (dab795f)
 * eye color layering (#63497)
 * npctrade: fix price of magazine contents (#63491)
 * Adds roads to roadless mansions (#63492)
+
+Cataclysm-DDA experimental build 2023-02-13-0207 (aca7329)
 * Determine how much you can squish a soft container by its contents (#63510)
 * Plant Marrow batch cooking (#63517)
 * Grey out lower tier CBMs (#63519)
