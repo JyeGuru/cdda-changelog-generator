@@ -1,3 +1,7 @@
+* Fix "detect translation file changes" workflow (#63731)
+
+Cataclysm-DDA experimental build 2023-02-23-1116 (43e7ce3)
+* Consistency earthshaper weapon change (#63739)
 
 Cataclysm-DDA experimental build 2023-02-23-0626 (c69ea7c)
 * Fix renfield weapon drops (#63726)
@@ -113,8 +117,6 @@ Cataclysm-DDA experimental build 2023-02-13-0347 (dab795f)
 * eye color layering (#63497)
 * npctrade: fix price of magazine contents (#63491)
 * Adds roads to roadless mansions (#63492)
-
-Cataclysm-DDA experimental build 2023-02-13-0207 (aca7329)
 * Determine how much you can squish a soft container by its contents (#63510)
 * Plant Marrow batch cooking (#63517)
 * Grey out lower tier CBMs (#63519)
@@ -142,6 +144,4 @@ Cataclysm-DDA experimental build 2023-02-13-0207 (aca7329)
 * Fix holes in libraries (#63484)
 * Correct typo in baby of mutant tusk (#63486)
 * Vehicle workbench no longer allows you to see through the roof (#63469)
-* Lotus no longer collides with vehicles (#63468)
-* Meat scrap price fixes (#63467)
 * debug: generating min archive is not a cheat (#63471)

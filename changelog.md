@@ -1,3 +1,10 @@
+* Fix "detect translation file changes" workflow ([#63731](https://github.com/CleverRaven/Cataclysm-DDA/pull/63731))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-23-1116 ([43e7ce3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-23-1116))
+
+* Consistency earthshaper weapon change ([#63739](https://github.com/CleverRaven/Cataclysm-DDA/pull/63739))
 
 ---
 
@@ -197,11 +204,6 @@
 * eye color layering ([#63497](https://github.com/CleverRaven/Cataclysm-DDA/pull/63497))
 * npctrade: fix price of magazine contents ([#63491](https://github.com/CleverRaven/Cataclysm-DDA/pull/63491))
 * Adds roads to roadless mansions ([#63492](https://github.com/CleverRaven/Cataclysm-DDA/pull/63492))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-13-0207 ([aca7329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0207))
-
 * Determine how much you can squish a soft container by its contents ([#63510](https://github.com/CleverRaven/Cataclysm-DDA/pull/63510))
 * Plant Marrow batch cooking ([#63517](https://github.com/CleverRaven/Cataclysm-DDA/pull/63517))
 * Grey out lower tier CBMs ([#63519](https://github.com/CleverRaven/Cataclysm-DDA/pull/63519))
@@ -229,6 +231,4 @@
 * Fix holes in libraries ([#63484](https://github.com/CleverRaven/Cataclysm-DDA/pull/63484))
 * Correct typo in baby of mutant tusk ([#63486](https://github.com/CleverRaven/Cataclysm-DDA/pull/63486))
 * Vehicle workbench no longer allows you to see through the roof ([#63469](https://github.com/CleverRaven/Cataclysm-DDA/pull/63469))
-* Lotus no longer collides with vehicles ([#63468](https://github.com/CleverRaven/Cataclysm-DDA/pull/63468))
-* Meat scrap price fixes ([#63467](https://github.com/CleverRaven/Cataclysm-DDA/pull/63467))
 * debug: generating min archive is not a cheat ([#63471](https://github.com/CleverRaven/Cataclysm-DDA/pull/63471))
