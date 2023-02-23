@@ -31,6 +31,11 @@
 #### Cataclysm-DDA experimental build 2023-02-22-0409 ([a8493c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0409))
 
 * Obsoletes old-style trailer parks ([#63696](https://github.com/CleverRaven/Cataclysm-DDA/pull/63696))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-22-0044 ([a809d8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0044))
+
 * Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))
 
 ---
@@ -200,11 +205,6 @@
 * eye color layering ([#63497](https://github.com/CleverRaven/Cataclysm-DDA/pull/63497))
 * npctrade: fix price of magazine contents ([#63491](https://github.com/CleverRaven/Cataclysm-DDA/pull/63491))
 * Adds roads to roadless mansions ([#63492](https://github.com/CleverRaven/Cataclysm-DDA/pull/63492))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-13-0207 ([aca7329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0207))
-
 * Determine how much you can squish a soft container by its contents ([#63510](https://github.com/CleverRaven/Cataclysm-DDA/pull/63510))
 * Plant Marrow batch cooking ([#63517](https://github.com/CleverRaven/Cataclysm-DDA/pull/63517))
 * Grey out lower tier CBMs ([#63519](https://github.com/CleverRaven/Cataclysm-DDA/pull/63519))
