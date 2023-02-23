@@ -1,3 +1,4 @@
+* Add Magiclysm forage items to forage tables. (#63693)
 * Fix "detect translation file changes" workflow (#63731)
 
 Cataclysm-DDA experimental build 2023-02-23-1116 (43e7ce3)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2023-02-13-0347 (dab795f)
 * Heat pack fixes (#63472)
 * Fix holes in libraries (#63484)
 * Correct typo in baby of mutant tusk (#63486)
-* Vehicle workbench no longer allows you to see through the roof (#63469)
 * debug: generating min archive is not a cheat (#63471)
