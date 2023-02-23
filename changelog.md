@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-23-0626 ([c69ea7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-23-0626))
+
+* Fix renfield weapon drops ([#63726](https://github.com/CleverRaven/Cataclysm-DDA/pull/63726))
 * Add my Patreon to the donations page ([#63703](https://github.com/CleverRaven/Cataclysm-DDA/pull/63703))
 
 ---
@@ -213,18 +219,12 @@
 * Add contested roll function to EOCs ([#63553](https://github.com/CleverRaven/Cataclysm-DDA/pull/63553))
 * [Xedra Evolved] Random fixes from the voices in my head ([#63556](https://github.com/CleverRaven/Cataclysm-DDA/pull/63556))
 * [Megafauna] Make Great Auks name visible / blue ([#63557](https://github.com/CleverRaven/Cataclysm-DDA/pull/63557))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-13-0105 ([a908f95](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0105))
-
 * Remove feral granny from salon ([#63561](https://github.com/CleverRaven/Cataclysm-DDA/pull/63561))
 * Fix excessive tool requirement in `sheriffshirt` uncraft ([#63533](https://github.com/CleverRaven/Cataclysm-DDA/pull/63533))
 * Prevent autodrive from dropping vehicles in holes ([#63487](https://github.com/CleverRaven/Cataclysm-DDA/pull/63487))
 * [DinoMod] armor material fixes ([#63509](https://github.com/CleverRaven/Cataclysm-DDA/pull/63509))
 * Horses no longer shrink when they zombify ([#63512](https://github.com/CleverRaven/Cataclysm-DDA/pull/63512))
 * Adds a roof to fruit orchards ([#63478](https://github.com/CleverRaven/Cataclysm-DDA/pull/63478))
-* Chocolate Bars Updated ([#63461](https://github.com/CleverRaven/Cataclysm-DDA/pull/63461))
 * Heat pack fixes ([#63472](https://github.com/CleverRaven/Cataclysm-DDA/pull/63472))
 * Fix holes in libraries ([#63484](https://github.com/CleverRaven/Cataclysm-DDA/pull/63484))
 * Correct typo in baby of mutant tusk ([#63486](https://github.com/CleverRaven/Cataclysm-DDA/pull/63486))

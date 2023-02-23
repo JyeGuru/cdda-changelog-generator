@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2023-02-23-0626 (c69ea7c)
+* Fix renfield weapon drops (#63726)
 * Add my Patreon to the donations page (#63703)
 
 Cataclysm-DDA experimental build 2023-02-22-1849 (95b8cca)
@@ -129,15 +132,12 @@ Cataclysm-DDA experimental build 2023-02-13-0207 (aca7329)
 * Add contested roll function to EOCs (#63553)
 * [Xedra Evolved] Random fixes from the voices in my head (#63556)
 * [Megafauna] Make Great Auks name visible / blue (#63557)
-
-Cataclysm-DDA experimental build 2023-02-13-0105 (a908f95)
 * Remove feral granny from salon (#63561)
 * Fix excessive tool requirement in `sheriffshirt` uncraft (#63533)
 * Prevent autodrive from dropping vehicles in holes (#63487)
 * [DinoMod] armor material fixes (#63509)
 * Horses no longer shrink when they zombify (#63512)
 * Adds a roof to fruit orchards (#63478)
-* Chocolate Bars Updated (#63461)
 * Heat pack fixes (#63472)
 * Fix holes in libraries (#63484)
 * Correct typo in baby of mutant tusk (#63486)
