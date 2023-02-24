@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-24-0609 ([5164ff5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-24-0609))
+
+* Fix vehicle::discharge_battery charging ([#63732](https://github.com/CleverRaven/Cataclysm-DDA/pull/63732))
 * Add Magiclysm forage items to forage tables. ([#63693](https://github.com/CleverRaven/Cataclysm-DDA/pull/63693))
 * Fix "detect translation file changes" workflow ([#63731](https://github.com/CleverRaven/Cataclysm-DDA/pull/63731))
 
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2023-02-13-1223 ([c7738a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-1223))
 
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-13-0501 ([89f39eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0501))
-
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
 * eye color layering ([#63497](https://github.com/CleverRaven/Cataclysm-DDA/pull/63497))
 * npctrade: fix price of magazine contents ([#63491](https://github.com/CleverRaven/Cataclysm-DDA/pull/63491))
