@@ -148,11 +148,6 @@
 #### Cataclysm-DDA experimental build 2023-02-18-0631 ([dd75578](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-0631))
 
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-17-0625 ([17a7444](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-17-0625))
-
 * make phelloderm better ([#63607](https://github.com/CleverRaven/Cataclysm-DDA/pull/63607))
 
 ---
@@ -191,7 +186,17 @@
 #### Cataclysm-DDA experimental build 2023-02-13-2221 ([88fbd38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-2221))
 
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-13-1223 ([c7738a5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-1223))
+
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-13-0501 ([89f39eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-13-0501))
+
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
 * eye color layering ([#63497](https://github.com/CleverRaven/Cataclysm-DDA/pull/63497))
 * npctrade: fix price of magazine contents ([#63491](https://github.com/CleverRaven/Cataclysm-DDA/pull/63491))
