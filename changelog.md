@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-25-2323 ([f34244b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-2323))
+
 * fix getting sick having the exponent first wrongly ([#63707](https://github.com/CleverRaven/Cataclysm-DDA/pull/63707))
 
 ---
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2023-02-18-0631 ([dd75578](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-0631))
 
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-17-0625 ([17a7444](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-17-0625))
-
 * make phelloderm better ([#63607](https://github.com/CleverRaven/Cataclysm-DDA/pull/63607))
 * Obsoletes NPC campgrounds ([#63582](https://github.com/CleverRaven/Cataclysm-DDA/pull/63582))
 * Fix broken enchantments ([#63562](https://github.com/CleverRaven/Cataclysm-DDA/pull/63562))
