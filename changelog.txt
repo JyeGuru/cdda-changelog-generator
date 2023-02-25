@@ -107,8 +107,6 @@ Cataclysm-DDA experimental build 2023-02-16-0248 (41167cb)
 
 Cataclysm-DDA experimental build 2023-02-16-0119 (c571723)
 * item: cache inherited flags (#63594)
-
-Cataclysm-DDA experimental build 2023-02-15-0620 (d24dd45)
 * Keep updating sidebar with AIM active (#63575)
 * Make the Refugee center guard not spawn as random npcs (#63581)
 * Avoid updating weather every turn (#63566)

@@ -185,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2023-02-16-0119 ([c571723](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-16-0119))
 
 * item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-15-0620 ([d24dd45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-15-0620))
-
 * Keep updating sidebar with AIM active ([#63575](https://github.com/CleverRaven/Cataclysm-DDA/pull/63575))
 * Make the Refugee center guard not spawn as random npcs ([#63581](https://github.com/CleverRaven/Cataclysm-DDA/pull/63581))
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
