@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-25-1926 ([86a9ee0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-1926))
+
+* Support Mac arm64 ([#63702](https://github.com/CleverRaven/Cataclysm-DDA/pull/63702))
 * [Magiclysm] some unarmed fixes ([#63688](https://github.com/CleverRaven/Cataclysm-DDA/pull/63688))
 
 ---
@@ -74,7 +80,6 @@
 #### Cataclysm-DDA experimental build 2023-02-21-0705 ([79a4e9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-0705))
 
 * Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
-* Made it possible to scan spellbooks into ereader ([#63508](https://github.com/CleverRaven/Cataclysm-DDA/pull/63508))
 * remove weather reader CBM from science_and_tech.json ([#63642](https://github.com/CleverRaven/Cataclysm-DDA/pull/63642))
 * Steel bottle category change and disassembly recipe ([#63697](https://github.com/CleverRaven/Cataclysm-DDA/pull/63697))
 
@@ -180,11 +185,6 @@
 
 * Fix broken enchantments ([#63562](https://github.com/CleverRaven/Cataclysm-DDA/pull/63562))
 * Replace firearm doc references to quarter degrees with MoA ([#63576](https://github.com/CleverRaven/Cataclysm-DDA/pull/63576))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-16-0119 ([c571723](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-16-0119))
-
 * item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
 * Keep updating sidebar with AIM active ([#63575](https://github.com/CleverRaven/Cataclysm-DDA/pull/63575))
 * Make the Refugee center guard not spawn as random npcs ([#63581](https://github.com/CleverRaven/Cataclysm-DDA/pull/63581))

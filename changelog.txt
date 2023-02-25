@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2023-02-25-1926 (86a9ee0)
+* Support Mac arm64 (#63702)
 * [Magiclysm] some unarmed fixes (#63688)
 
 Cataclysm-DDA experimental build 2023-02-25-1656 (9f4e453)
@@ -38,7 +41,6 @@ Cataclysm-DDA experimental build 2023-02-21-1248 (f435360)
 
 Cataclysm-DDA experimental build 2023-02-21-0705 (79a4e9f)
 * Fitness improved spawn (#63685)
-* Made it possible to scan spellbooks into ereader (#63508)
 * remove weather reader CBM from science_and_tech.json (#63642)
 * Steel bottle category change and disassembly recipe (#63697)
 
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2023-02-16-0640 (f0927ac)
 Cataclysm-DDA experimental build 2023-02-16-0248 (41167cb)
 * Fix broken enchantments (#63562)
 * Replace firearm doc references to quarter degrees with MoA (#63576)
-
-Cataclysm-DDA experimental build 2023-02-16-0119 (c571723)
 * item: cache inherited flags (#63594)
 * Keep updating sidebar with AIM active (#63575)
 * Make the Refugee center guard not spawn as random npcs (#63581)
