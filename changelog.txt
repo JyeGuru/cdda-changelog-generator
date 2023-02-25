@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-25-0613 (7597f1b)
+* make chimera not fight over its tail (#63774)
+
 Cataclysm-DDA experimental build 2023-02-24-0609 (5164ff5)
 * Fix vehicle::discharge_battery charging (#63732)
 * Add Magiclysm forage items to forage tables. (#63693)
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2023-02-15-0620 (d24dd45)
 
 Cataclysm-DDA experimental build 2023-02-14-0634 (170527d)
 * Make the Refugee center guard not spawn as random npcs (#63581)
-
-Cataclysm-DDA experimental build 2023-02-13-2221 (88fbd38)
 * Avoid updating weather every turn (#63566)
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines (#63568)
 * Routine tileset updates on 12 February 2023 (#63567)
@@ -137,6 +138,5 @@ Cataclysm-DDA experimental build 2023-02-13-2221 (88fbd38)
 * Prevent autodrive from dropping vehicles in holes (#63487)
 * [DinoMod] armor material fixes (#63509)
 * Horses no longer shrink when they zombify (#63512)
-* Adds a roof to fruit orchards (#63478)
 * Fix holes in libraries (#63484)
 * Correct typo in baby of mutant tusk (#63486)
