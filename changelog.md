@@ -1,3 +1,9 @@
+* fix getting sick having the exponent first wrongly ([#63707](https://github.com/CleverRaven/Cataclysm-DDA/pull/63707))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-25-2159 ([dbe6ddc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-2159))
+
 * Fix IFF edge case for unseen player ([#63790](https://github.com/CleverRaven/Cataclysm-DDA/pull/63790))
 * Add ingested calories to the calorie diary only when the player is doing the eating ([#63785](https://github.com/CleverRaven/Cataclysm-DDA/pull/63785))
 
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2023-02-17-0625 ([17a7444](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-17-0625))
 
 * make phelloderm better ([#63607](https://github.com/CleverRaven/Cataclysm-DDA/pull/63607))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-16-0640 ([f0927ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-16-0640))
-
 * Obsoletes NPC campgrounds ([#63582](https://github.com/CleverRaven/Cataclysm-DDA/pull/63582))
 * Fix broken enchantments ([#63562](https://github.com/CleverRaven/Cataclysm-DDA/pull/63562))
 * Replace firearm doc references to quarter degrees with MoA ([#63576](https://github.com/CleverRaven/Cataclysm-DDA/pull/63576))
