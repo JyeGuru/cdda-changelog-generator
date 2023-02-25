@@ -1,3 +1,10 @@
+* Add ingested calories to the calorie diary only when the player is doing the eating ([#63785](https://github.com/CleverRaven/Cataclysm-DDA/pull/63785))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-25-2058 ([839d34e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-2058))
+
+* debug/tgz: fix min archive for player on different zlevel ([#63783](https://github.com/CleverRaven/Cataclysm-DDA/pull/63783))
 * Attempts to fix marina spawns ([#63771](https://github.com/CleverRaven/Cataclysm-DDA/pull/63771))
 * Fix my sloppy errors regarding Chimera integrated armors ([#63770](https://github.com/CleverRaven/Cataclysm-DDA/pull/63770))
 * Fix flying insects not benefiting from their intended effect resistance ([#63769](https://github.com/CleverRaven/Cataclysm-DDA/pull/63769))
@@ -186,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2023-02-16-0640 ([f0927ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-16-0640))
 
 * Obsoletes NPC campgrounds ([#63582](https://github.com/CleverRaven/Cataclysm-DDA/pull/63582))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-16-0248 ([41167cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-16-0248))
-
 * Fix broken enchantments ([#63562](https://github.com/CleverRaven/Cataclysm-DDA/pull/63562))
 * Replace firearm doc references to quarter degrees with MoA ([#63576](https://github.com/CleverRaven/Cataclysm-DDA/pull/63576))
 * item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
@@ -199,8 +201,6 @@
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
-* Fix misplaced appliances in electronics store 2nd floor apartment ([#63525](https://github.com/CleverRaven/Cataclysm-DDA/pull/63525))
-* Allow usage of spells and recipes with roll remainder ([#63530](https://github.com/CleverRaven/Cataclysm-DDA/pull/63530))
 * Allow room for starting NPC when picking player starting position ([#63542](https://github.com/CleverRaven/Cataclysm-DDA/pull/63542))
 * Nicer river special placements ([#63543](https://github.com/CleverRaven/Cataclysm-DDA/pull/63543))
 * Clear up the descriptions for ``DIGS`` and ``CAN_DIG`` flags in the docs ([#63545](https://github.com/CleverRaven/Cataclysm-DDA/pull/63545))
