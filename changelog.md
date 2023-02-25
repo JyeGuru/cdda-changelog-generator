@@ -1,3 +1,4 @@
+* Fix flying insects not benefiting from their intended effect resistance ([#63769](https://github.com/CleverRaven/Cataclysm-DDA/pull/63769))
 * Fix vigilant amalgamations' scream frequency ([#63768](https://github.com/CleverRaven/Cataclysm-DDA/pull/63768))
 * Only allow quickload from debug menu ([#63767](https://github.com/CleverRaven/Cataclysm-DDA/pull/63767))
 * Correctly handle liquid's birthday when stored into standing tanks ([#63760](https://github.com/CleverRaven/Cataclysm-DDA/pull/63760))
@@ -196,7 +197,6 @@
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
-* Smokers now have harvest results ([#63521](https://github.com/CleverRaven/Cataclysm-DDA/pull/63521))
 * Allow spawning items via itemgroup for EOCs ([#63522](https://github.com/CleverRaven/Cataclysm-DDA/pull/63522))
 * Routine i18n updates on 11 February 2023 ([#63524](https://github.com/CleverRaven/Cataclysm-DDA/pull/63524))
 * Fix misplaced appliances in electronics store 2nd floor apartment ([#63525](https://github.com/CleverRaven/Cataclysm-DDA/pull/63525))
