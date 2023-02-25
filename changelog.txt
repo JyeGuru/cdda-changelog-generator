@@ -1,3 +1,4 @@
+* Fix IFF edge case for unseen player (#63790)
 * Add ingested calories to the calorie diary only when the player is doing the eating (#63785)
 
 Cataclysm-DDA experimental build 2023-02-25-2058 (839d34e)
@@ -133,4 +134,3 @@ Cataclysm-DDA experimental build 2023-02-16-0640 (f0927ac)
 * [Xedra Evolved] Random fixes from the voices in my head (#63556)
 * [Megafauna] Make Great Auks name visible / blue (#63557)
 * Remove feral granny from salon (#63561)
-* Fix excessive tool requirement in `sheriffshirt` uncraft (#63533)
