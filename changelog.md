@@ -1,3 +1,4 @@
+* [Magiclysm] some unarmed fixes ([#63688](https://github.com/CleverRaven/Cataclysm-DDA/pull/63688))
 
 ---
 
@@ -190,7 +191,6 @@
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
-* eye color layering ([#63497](https://github.com/CleverRaven/Cataclysm-DDA/pull/63497))
 * Determine how much you can squish a soft container by its contents ([#63510](https://github.com/CleverRaven/Cataclysm-DDA/pull/63510))
 * Plant Marrow batch cooking ([#63517](https://github.com/CleverRaven/Cataclysm-DDA/pull/63517))
 * Grey out lower tier CBMs ([#63519](https://github.com/CleverRaven/Cataclysm-DDA/pull/63519))
