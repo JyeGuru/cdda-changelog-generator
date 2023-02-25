@@ -1,3 +1,4 @@
+* Lower damage for BB gun (#63763)
 
 Cataclysm-DDA experimental build 2023-02-25-0613 (7597f1b)
 * make chimera not fight over its tail (#63774)
@@ -135,6 +136,5 @@ Cataclysm-DDA experimental build 2023-02-14-0634 (170527d)
 * [Megafauna] Make Great Auks name visible / blue (#63557)
 * Remove feral granny from salon (#63561)
 * Fix excessive tool requirement in `sheriffshirt` uncraft (#63533)
-* Prevent autodrive from dropping vehicles in holes (#63487)
 * [DinoMod] armor material fixes (#63509)
 * Horses no longer shrink when they zombify (#63512)

@@ -1,3 +1,4 @@
+* Lower damage for BB gun ([#63763](https://github.com/CleverRaven/Cataclysm-DDA/pull/63763))
 
 ---
 
@@ -216,6 +217,5 @@
 * [Megafauna] Make Great Auks name visible / blue ([#63557](https://github.com/CleverRaven/Cataclysm-DDA/pull/63557))
 * Remove feral granny from salon ([#63561](https://github.com/CleverRaven/Cataclysm-DDA/pull/63561))
 * Fix excessive tool requirement in `sheriffshirt` uncraft ([#63533](https://github.com/CleverRaven/Cataclysm-DDA/pull/63533))
-* Prevent autodrive from dropping vehicles in holes ([#63487](https://github.com/CleverRaven/Cataclysm-DDA/pull/63487))
 * [DinoMod] armor material fixes ([#63509](https://github.com/CleverRaven/Cataclysm-DDA/pull/63509))
 * Horses no longer shrink when they zombify ([#63512](https://github.com/CleverRaven/Cataclysm-DDA/pull/63512))
