@@ -10,11 +10,6 @@
 #### Cataclysm-DDA experimental build 2023-02-25-0613 ([7597f1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-0613))
 
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-24-0609 ([5164ff5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-24-0609))
-
 * Fix vehicle::discharge_battery charging ([#63732](https://github.com/CleverRaven/Cataclysm-DDA/pull/63732))
 * Add Magiclysm forage items to forage tables. ([#63693](https://github.com/CleverRaven/Cataclysm-DDA/pull/63693))
 * Fix "detect translation file changes" workflow ([#63731](https://github.com/CleverRaven/Cataclysm-DDA/pull/63731))
@@ -67,11 +62,6 @@
 #### Cataclysm-DDA experimental build 2023-02-21-1248 ([f435360](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-1248))
 
 * Move Crazy Cata monsters to Crazy Cata files ([#63621](https://github.com/CleverRaven/Cataclysm-DDA/pull/63621))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-21-0705 ([79a4e9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-0705))
-
 * Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
 * Made it possible to scan spellbooks into ereader ([#63508](https://github.com/CleverRaven/Cataclysm-DDA/pull/63508))
 * remove weather reader CBM from science_and_tech.json ([#63642](https://github.com/CleverRaven/Cataclysm-DDA/pull/63642))
@@ -185,7 +175,17 @@
 #### Cataclysm-DDA experimental build 2023-02-16-0119 ([c571723](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-16-0119))
 
 * item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-15-0620 ([d24dd45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-15-0620))
+
 * Keep updating sidebar with AIM active ([#63575](https://github.com/CleverRaven/Cataclysm-DDA/pull/63575))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-14-0634 ([170527d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-14-0634))
+
 * Make the Refugee center guard not spawn as random npcs ([#63581](https://github.com/CleverRaven/Cataclysm-DDA/pull/63581))
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
