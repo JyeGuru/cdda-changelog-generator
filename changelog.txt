@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-02-26-2104 (5549c65)
 * iuse/constr: allow digging adjacent shallow pits (#63812)
 * inv_ui: defer calculating denial (#63811)
 * item: fix items leaking out of pockets (#63808)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2023-02-18-2126 (bc6eb21)
 Cataclysm-DDA experimental build 2023-02-18-1942 (d2a681e)
 * Inventory UI performance pass (#63580)
 * Buff and bugfix chimera integrated armors (#63600)
-
-Cataclysm-DDA experimental build 2023-02-18-1757 (cb0c155)
 * make power armor "UNBREAKABLE_MELEE" (#63635)
 * Improve obstacle sounds sequencing (#63618)
 * Add ``rebar_rail`` to the obsoletion files (#63622)

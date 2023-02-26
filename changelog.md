@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-26-2104 ([5549c65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-2104))
+
 * iuse/constr: allow digging adjacent shallow pits ([#63812](https://github.com/CleverRaven/Cataclysm-DDA/pull/63812))
 * inv_ui: defer calculating denial ([#63811](https://github.com/CleverRaven/Cataclysm-DDA/pull/63811))
 * item: fix items leaking out of pockets ([#63808](https://github.com/CleverRaven/Cataclysm-DDA/pull/63808))
@@ -182,11 +187,6 @@
 
 * Inventory UI performance pass ([#63580](https://github.com/CleverRaven/Cataclysm-DDA/pull/63580))
 * Buff and bugfix chimera integrated armors ([#63600](https://github.com/CleverRaven/Cataclysm-DDA/pull/63600))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-18-1757 ([cb0c155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1757))
-
 * make power armor "UNBREAKABLE_MELEE" ([#63635](https://github.com/CleverRaven/Cataclysm-DDA/pull/63635))
 * Improve obstacle sounds sequencing ([#63618](https://github.com/CleverRaven/Cataclysm-DDA/pull/63618))
 * Add ``rebar_rail`` to the obsoletion files ([#63622](https://github.com/CleverRaven/Cataclysm-DDA/pull/63622))
