@@ -1,3 +1,5 @@
+* iuse/constr: allow digging adjacent shallow pits ([#63812](https://github.com/CleverRaven/Cataclysm-DDA/pull/63812))
+* inv_ui: defer calculating denial ([#63811](https://github.com/CleverRaven/Cataclysm-DDA/pull/63811))
 * item: fix items leaking out of pockets ([#63808](https://github.com/CleverRaven/Cataclysm-DDA/pull/63808))
 * inv_ui: ensure NO_TAKEOFF can't be traded or holstered ([#63806](https://github.com/CleverRaven/Cataclysm-DDA/pull/63806))
 * map: downgrade deprecated overlap debug message ([#63802](https://github.com/CleverRaven/Cataclysm-DDA/pull/63802))
@@ -210,5 +212,3 @@
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
-* [Megafauna] Make Great Auks name visible / blue ([#63557](https://github.com/CleverRaven/Cataclysm-DDA/pull/63557))
-* Remove feral granny from salon ([#63561](https://github.com/CleverRaven/Cataclysm-DDA/pull/63561))
