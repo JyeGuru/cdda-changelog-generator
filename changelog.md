@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-26-0103 ([dc8a598](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-0103))
+
+* Revert "Support Mac arm64" ([#63797](https://github.com/CleverRaven/Cataclysm-DDA/pull/63797))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-25-2323 ([f34244b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-2323))
 
 * fix getting sick having the exponent first wrongly ([#63707](https://github.com/CleverRaven/Cataclysm-DDA/pull/63707))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2023-02-18-1512 ([d00628e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1512))
 
 * player can now use clean water in tempered steel crafts ([#63551](https://github.com/CleverRaven/Cataclysm-DDA/pull/63551))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-18-0631 ([dd75578](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-0631))
-
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
 * make phelloderm better ([#63607](https://github.com/CleverRaven/Cataclysm-DDA/pull/63607))
 * Obsoletes NPC campgrounds ([#63582](https://github.com/CleverRaven/Cataclysm-DDA/pull/63582))
@@ -203,7 +204,6 @@
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
-* Allow room for starting NPC when picking player starting position ([#63542](https://github.com/CleverRaven/Cataclysm-DDA/pull/63542))
 * Nicer river special placements ([#63543](https://github.com/CleverRaven/Cataclysm-DDA/pull/63543))
 * Clear up the descriptions for ``DIGS`` and ``CAN_DIG`` flags in the docs ([#63545](https://github.com/CleverRaven/Cataclysm-DDA/pull/63545))
 * Recipe fix for some mild steel weapons ([#63547](https://github.com/CleverRaven/Cataclysm-DDA/pull/63547))
