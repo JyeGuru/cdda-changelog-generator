@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-26-0616 ([e6e4825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-0616))
+
+* Mana softening ([#63795](https://github.com/CleverRaven/Cataclysm-DDA/pull/63795))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-26-0103 ([dc8a598](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-0103))
 
 * Revert "Support Mac arm64" ([#63797](https://github.com/CleverRaven/Cataclysm-DDA/pull/63797))
@@ -187,11 +193,6 @@
 * lang/parser: fix for examine_action EOC referenced by id ([#63619](https://github.com/CleverRaven/Cataclysm-DDA/pull/63619))
 * [Magiclysm] Fix floral healing not heal ([#63638](https://github.com/CleverRaven/Cataclysm-DDA/pull/63638))
 * Update debug_mutations.json ([#63646](https://github.com/CleverRaven/Cataclysm-DDA/pull/63646))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-18-1512 ([d00628e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1512))
-
 * player can now use clean water in tempered steel crafts ([#63551](https://github.com/CleverRaven/Cataclysm-DDA/pull/63551))
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
 * make phelloderm better ([#63607](https://github.com/CleverRaven/Cataclysm-DDA/pull/63607))
@@ -204,7 +205,6 @@
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
-* Nicer river special placements ([#63543](https://github.com/CleverRaven/Cataclysm-DDA/pull/63543))
 * Clear up the descriptions for ``DIGS`` and ``CAN_DIG`` flags in the docs ([#63545](https://github.com/CleverRaven/Cataclysm-DDA/pull/63545))
 * Recipe fix for some mild steel weapons ([#63547](https://github.com/CleverRaven/Cataclysm-DDA/pull/63547))
 * Determine the target for  vehicle's turret automatic aiming according to the monster's attitude ([#63552](https://github.com/CleverRaven/Cataclysm-DDA/pull/63552))
