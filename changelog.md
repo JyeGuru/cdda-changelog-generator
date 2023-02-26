@@ -1,3 +1,10 @@
+* mon/nursebot: don't try to remove included bionics ([#63799](https://github.com/CleverRaven/Cataclysm-DDA/pull/63799))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-26-1920 ([a921704](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-1920))
+
+* Fix NPCs unable to trade items away if they have no pockets ([#63789](https://github.com/CleverRaven/Cataclysm-DDA/pull/63789))
 
 ---
 
@@ -178,11 +185,6 @@
 * Improve obstacle sounds sequencing ([#63618](https://github.com/CleverRaven/Cataclysm-DDA/pull/63618))
 * Add ``rebar_rail`` to the obsoletion files ([#63622](https://github.com/CleverRaven/Cataclysm-DDA/pull/63622))
 * item: expand contents name if they're all of the same type ([#63579](https://github.com/CleverRaven/Cataclysm-DDA/pull/63579))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-18-1629 ([c0b4222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1629))
-
 * fix wrong requirement for kevlar wetsuit ([#63634](https://github.com/CleverRaven/Cataclysm-DDA/pull/63634))
 * Don't display unrepairable entries in repair ui ([#63587](https://github.com/CleverRaven/Cataclysm-DDA/pull/63587))
 * fix: opt for simpler tileset updates changelog ([#63571](https://github.com/CleverRaven/Cataclysm-DDA/pull/63571))
@@ -205,9 +207,7 @@
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
-* Recipe fix for some mild steel weapons ([#63547](https://github.com/CleverRaven/Cataclysm-DDA/pull/63547))
 * Determine the target for  vehicle's turret automatic aiming according to the monster's attitude ([#63552](https://github.com/CleverRaven/Cataclysm-DDA/pull/63552))
-* Fix issues with combining liquids ([#63550](https://github.com/CleverRaven/Cataclysm-DDA/pull/63550))
 * Add contested roll function to EOCs ([#63553](https://github.com/CleverRaven/Cataclysm-DDA/pull/63553))
 * [Xedra Evolved] Random fixes from the voices in my head ([#63556](https://github.com/CleverRaven/Cataclysm-DDA/pull/63556))
 * [Megafauna] Make Great Auks name visible / blue ([#63557](https://github.com/CleverRaven/Cataclysm-DDA/pull/63557))
