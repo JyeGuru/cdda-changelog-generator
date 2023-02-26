@@ -10,11 +10,6 @@
 * map: downgrade deprecated overlap debug message ([#63802](https://github.com/CleverRaven/Cataclysm-DDA/pull/63802))
 * creature: use per-creature effect schedule ([#63800](https://github.com/CleverRaven/Cataclysm-DDA/pull/63800))
 * mon/nursebot: don't try to remove included bionics ([#63799](https://github.com/CleverRaven/Cataclysm-DDA/pull/63799))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-26-1920 ([a921704](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-1920))
-
 * Fix NPCs unable to trade items away if they have no pockets ([#63789](https://github.com/CleverRaven/Cataclysm-DDA/pull/63789))
 
 ---
@@ -126,11 +121,6 @@
 #### Cataclysm-DDA experimental build 2023-02-21-1547 ([1ac9d06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-1547))
 
 * [Aftershock] Pain Suppression cbm will no longer kill you ([#63592](https://github.com/CleverRaven/Cataclysm-DDA/pull/63592))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-21-1248 ([f435360](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-1248))
-
 * Move Crazy Cata monsters to Crazy Cata files ([#63621](https://github.com/CleverRaven/Cataclysm-DDA/pull/63621))
 
 ---
@@ -187,10 +177,20 @@
 
 * Inventory UI performance pass ([#63580](https://github.com/CleverRaven/Cataclysm-DDA/pull/63580))
 * Buff and bugfix chimera integrated armors ([#63600](https://github.com/CleverRaven/Cataclysm-DDA/pull/63600))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-18-1757 ([cb0c155](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1757))
+
 * make power armor "UNBREAKABLE_MELEE" ([#63635](https://github.com/CleverRaven/Cataclysm-DDA/pull/63635))
 * Improve obstacle sounds sequencing ([#63618](https://github.com/CleverRaven/Cataclysm-DDA/pull/63618))
 * Add ``rebar_rail`` to the obsoletion files ([#63622](https://github.com/CleverRaven/Cataclysm-DDA/pull/63622))
 * item: expand contents name if they're all of the same type ([#63579](https://github.com/CleverRaven/Cataclysm-DDA/pull/63579))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-18-1629 ([c0b4222](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1629))
+
 * fix wrong requirement for kevlar wetsuit ([#63634](https://github.com/CleverRaven/Cataclysm-DDA/pull/63634))
 * Don't display unrepairable entries in repair ui ([#63587](https://github.com/CleverRaven/Cataclysm-DDA/pull/63587))
 * fix: opt for simpler tileset updates changelog ([#63571](https://github.com/CleverRaven/Cataclysm-DDA/pull/63571))
