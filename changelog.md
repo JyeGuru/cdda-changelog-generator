@@ -205,7 +205,6 @@
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
-* Clear up the descriptions for ``DIGS`` and ``CAN_DIG`` flags in the docs ([#63545](https://github.com/CleverRaven/Cataclysm-DDA/pull/63545))
 * Recipe fix for some mild steel weapons ([#63547](https://github.com/CleverRaven/Cataclysm-DDA/pull/63547))
 * Determine the target for  vehicle's turret automatic aiming according to the monster's attitude ([#63552](https://github.com/CleverRaven/Cataclysm-DDA/pull/63552))
 * Fix issues with combining liquids ([#63550](https://github.com/CleverRaven/Cataclysm-DDA/pull/63550))
