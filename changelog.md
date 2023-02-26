@@ -1,3 +1,6 @@
+* inv_ui: ensure NO_TAKEOFF can't be traded or holstered ([#63806](https://github.com/CleverRaven/Cataclysm-DDA/pull/63806))
+* map: downgrade deprecated overlap debug message ([#63802](https://github.com/CleverRaven/Cataclysm-DDA/pull/63802))
+* creature: use per-creature effect schedule ([#63800](https://github.com/CleverRaven/Cataclysm-DDA/pull/63800))
 * mon/nursebot: don't try to remove included bionics ([#63799](https://github.com/CleverRaven/Cataclysm-DDA/pull/63799))
 
 ---
@@ -195,7 +198,6 @@
 * lang/parser: fix for examine_action EOC referenced by id ([#63619](https://github.com/CleverRaven/Cataclysm-DDA/pull/63619))
 * [Magiclysm] Fix floral healing not heal ([#63638](https://github.com/CleverRaven/Cataclysm-DDA/pull/63638))
 * Update debug_mutations.json ([#63646](https://github.com/CleverRaven/Cataclysm-DDA/pull/63646))
-* player can now use clean water in tempered steel crafts ([#63551](https://github.com/CleverRaven/Cataclysm-DDA/pull/63551))
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
 * make phelloderm better ([#63607](https://github.com/CleverRaven/Cataclysm-DDA/pull/63607))
 * Obsoletes NPC campgrounds ([#63582](https://github.com/CleverRaven/Cataclysm-DDA/pull/63582))
@@ -207,8 +209,6 @@
 * Avoid updating weather every turn ([#63566](https://github.com/CleverRaven/Cataclysm-DDA/pull/63566))
 * correct STR_UP threshold requirements for Stego, Horns, and Tyrant mutation lines ([#63568](https://github.com/CleverRaven/Cataclysm-DDA/pull/63568))
 * Routine tileset updates on 12 February 2023 ([#63567](https://github.com/CleverRaven/Cataclysm-DDA/pull/63567))
-* Determine the target for  vehicle's turret automatic aiming according to the monster's attitude ([#63552](https://github.com/CleverRaven/Cataclysm-DDA/pull/63552))
-* Add contested roll function to EOCs ([#63553](https://github.com/CleverRaven/Cataclysm-DDA/pull/63553))
 * [Xedra Evolved] Random fixes from the voices in my head ([#63556](https://github.com/CleverRaven/Cataclysm-DDA/pull/63556))
 * [Megafauna] Make Great Auks name visible / blue ([#63557](https://github.com/CleverRaven/Cataclysm-DDA/pull/63557))
 * Remove feral granny from salon ([#63561](https://github.com/CleverRaven/Cataclysm-DDA/pull/63561))
