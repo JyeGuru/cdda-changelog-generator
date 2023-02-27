@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-27-1314 ([b40c099](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-1314))
+
+* inv_ui: double check entry denial cache ([#63828](https://github.com/CleverRaven/Cataclysm-DDA/pull/63828))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-27-0627 ([c8bb90f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-0627))
 
 * Make MOLLE belts not conduct electricity ([#63755](https://github.com/CleverRaven/Cataclysm-DDA/pull/63755))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2023-02-20-2036 ([723fcd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-20-2036))
 
 * [Magiclysm] +1 and +2 pickaxe can mine now ([#63689](https://github.com/CleverRaven/Cataclysm-DDA/pull/63689))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-20-0616 ([47cf98c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-20-0616))
-
 * Routine tileset updates on 19 February 2023 ([#63682](https://github.com/CleverRaven/Cataclysm-DDA/pull/63682))
 * Fixes fitness gym pool spawns ([#63657](https://github.com/CleverRaven/Cataclysm-DDA/pull/63657))
 * Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
@@ -196,7 +197,6 @@
 * item: expand contents name if they're all of the same type ([#63579](https://github.com/CleverRaven/Cataclysm-DDA/pull/63579))
 * fix wrong requirement for kevlar wetsuit ([#63634](https://github.com/CleverRaven/Cataclysm-DDA/pull/63634))
 * Don't display unrepairable entries in repair ui ([#63587](https://github.com/CleverRaven/Cataclysm-DDA/pull/63587))
-* fix: opt for simpler tileset updates changelog ([#63571](https://github.com/CleverRaven/Cataclysm-DDA/pull/63571))
 * item: limit stacks_with recursion to useful depth ([#63589](https://github.com/CleverRaven/Cataclysm-DDA/pull/63589))
 * Unifies gutter terrains ([#63597](https://github.com/CleverRaven/Cataclysm-DDA/pull/63597))
 * Misc nested mapgen clearing fixes ([#63606](https://github.com/CleverRaven/Cataclysm-DDA/pull/63606))
