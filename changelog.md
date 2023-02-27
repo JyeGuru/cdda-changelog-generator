@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-27-0043 ([c5f80d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-0043))
+
+* Routine tileset updates on 26 February 2023 ([#63818](https://github.com/CleverRaven/Cataclysm-DDA/pull/63818))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-26-2104 ([5549c65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-2104))
 
 * iuse/constr: allow digging adjacent shallow pits ([#63812](https://github.com/CleverRaven/Cataclysm-DDA/pull/63812))
@@ -180,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2023-02-18-2126 ([bc6eb21](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-2126))
 
 * Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-18-1942 ([d2a681e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-18-1942))
-
 * Inventory UI performance pass ([#63580](https://github.com/CleverRaven/Cataclysm-DDA/pull/63580))
 * Buff and bugfix chimera integrated armors ([#63600](https://github.com/CleverRaven/Cataclysm-DDA/pull/63600))
 * make power armor "UNBREAKABLE_MELEE" ([#63635](https://github.com/CleverRaven/Cataclysm-DDA/pull/63635))
@@ -204,7 +205,6 @@
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
 * make phelloderm better ([#63607](https://github.com/CleverRaven/Cataclysm-DDA/pull/63607))
 * Obsoletes NPC campgrounds ([#63582](https://github.com/CleverRaven/Cataclysm-DDA/pull/63582))
-* Fix broken enchantments ([#63562](https://github.com/CleverRaven/Cataclysm-DDA/pull/63562))
 * Replace firearm doc references to quarter degrees with MoA ([#63576](https://github.com/CleverRaven/Cataclysm-DDA/pull/63576))
 * item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
 * Keep updating sidebar with AIM active ([#63575](https://github.com/CleverRaven/Cataclysm-DDA/pull/63575))
