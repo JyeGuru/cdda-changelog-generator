@@ -180,11 +180,6 @@
 * Ferrous spawn revamp ([#63662](https://github.com/CleverRaven/Cataclysm-DDA/pull/63662))
 * red ryder bb length-and-weight ([#63667](https://github.com/CleverRaven/Cataclysm-DDA/pull/63667))
 * Bring elf-a hurt_tick in line with others ([#63679](https://github.com/CleverRaven/Cataclysm-DDA/pull/63679))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-20-2036 ([723fcd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-20-2036))
-
 * [Magiclysm] +1 and +2 pickaxe can mine now ([#63689](https://github.com/CleverRaven/Cataclysm-DDA/pull/63689))
 * Routine tileset updates on 19 February 2023 ([#63682](https://github.com/CleverRaven/Cataclysm-DDA/pull/63682))
 * Fixes fitness gym pool spawns ([#63657](https://github.com/CleverRaven/Cataclysm-DDA/pull/63657))
