@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-27-2328 ([67857e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-2328))
+
+* fix incorrect/missing mutation conflicts in bionics.json ([#63826](https://github.com/CleverRaven/Cataclysm-DDA/pull/63826))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-27-1314 ([b40c099](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-1314))
 
 * inv_ui: double check entry denial cache ([#63828](https://github.com/CleverRaven/Cataclysm-DDA/pull/63828))
@@ -164,11 +170,6 @@
 * Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
 * remove weather reader CBM from science_and_tech.json ([#63642](https://github.com/CleverRaven/Cataclysm-DDA/pull/63642))
 * Steel bottle category change and disassembly recipe ([#63697](https://github.com/CleverRaven/Cataclysm-DDA/pull/63697))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-20-2317 ([a3a639e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-20-2317))
-
 * Fix ghc directory iterator treating all files subsequent to a symlink as symlink ([#63612](https://github.com/CleverRaven/Cataclysm-DDA/pull/63612))
 * Better fix for loading relics with removed enchantments ([#63678](https://github.com/CleverRaven/Cataclysm-DDA/pull/63678))
 * Fix npc needs pathfinding taking unreasonable amount of time ([#63673](https://github.com/CleverRaven/Cataclysm-DDA/pull/63673))

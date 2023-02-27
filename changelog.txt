@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-27-2328 (67857e9)
+* fix incorrect/missing mutation conflicts in bionics.json (#63826)
+
 Cataclysm-DDA experimental build 2023-02-27-1314 (b40c099)
 * inv_ui: double check entry denial cache (#63828)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2023-02-21-0705 (79a4e9f)
 * Fitness improved spawn (#63685)
 * remove weather reader CBM from science_and_tech.json (#63642)
 * Steel bottle category change and disassembly recipe (#63697)
-
-Cataclysm-DDA experimental build 2023-02-20-2317 (a3a639e)
 * Fix ghc directory iterator treating all files subsequent to a symlink as symlink (#63612)
 * Better fix for loading relics with removed enchantments (#63678)
 * Fix npc needs pathfinding taking unreasonable amount of time (#63673)
