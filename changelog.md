@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-02-28-0607 ([9fe0c1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-0607))
+
+* Semi permanent fast scroll ([#63814](https://github.com/CleverRaven/Cataclysm-DDA/pull/63814))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-02-28-0347 ([c51e526](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-0347))
 
 * Revert "Revert "Support Mac arm64"" ([#63832](https://github.com/CleverRaven/Cataclysm-DDA/pull/63832))
@@ -168,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2023-02-21-1248 ([f435360](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-1248))
 
 * Move Crazy Cata monsters to Crazy Cata files ([#63621](https://github.com/CleverRaven/Cataclysm-DDA/pull/63621))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-21-0705 ([79a4e9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-0705))
-
 * Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
 * remove weather reader CBM from science_and_tech.json ([#63642](https://github.com/CleverRaven/Cataclysm-DDA/pull/63642))
 * Steel bottle category change and disassembly recipe ([#63697](https://github.com/CleverRaven/Cataclysm-DDA/pull/63697))
@@ -211,5 +212,4 @@
 * Obsoletes NPC campgrounds ([#63582](https://github.com/CleverRaven/Cataclysm-DDA/pull/63582))
 * Replace firearm doc references to quarter degrees with MoA ([#63576](https://github.com/CleverRaven/Cataclysm-DDA/pull/63576))
 * item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
-* Keep updating sidebar with AIM active ([#63575](https://github.com/CleverRaven/Cataclysm-DDA/pull/63575))
 * Make the Refugee center guard not spawn as random npcs ([#63581](https://github.com/CleverRaven/Cataclysm-DDA/pull/63581))
