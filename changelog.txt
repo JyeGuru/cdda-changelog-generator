@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-02-28-0347 (c51e526)
+* Revert "Revert "Support Mac arm64"" (#63832)
+
 Cataclysm-DDA experimental build 2023-02-27-2328 (67857e9)
 * fix incorrect/missing mutation conflicts in bionics.json (#63826)
 
