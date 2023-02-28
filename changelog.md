@@ -194,7 +194,6 @@
 * Routine tileset updates on 19 February 2023 ([#63682](https://github.com/CleverRaven/Cataclysm-DDA/pull/63682))
 * Fixes fitness gym pool spawns ([#63657](https://github.com/CleverRaven/Cataclysm-DDA/pull/63657))
 * Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
-* Inventory UI performance pass ([#63580](https://github.com/CleverRaven/Cataclysm-DDA/pull/63580))
 * Buff and bugfix chimera integrated armors ([#63600](https://github.com/CleverRaven/Cataclysm-DDA/pull/63600))
 * make power armor "UNBREAKABLE_MELEE" ([#63635](https://github.com/CleverRaven/Cataclysm-DDA/pull/63635))
 * Improve obstacle sounds sequencing ([#63618](https://github.com/CleverRaven/Cataclysm-DDA/pull/63618))
