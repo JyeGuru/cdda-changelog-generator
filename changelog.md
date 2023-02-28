@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-28-0738 ([f40f852](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-0738))
+
 * Remove erroneous traits from recruitable Godco NPCs ([#63831](https://github.com/CleverRaven/Cataclysm-DDA/pull/63831))
 * attempt to fix path reference in arm build ([#63833](https://github.com/CleverRaven/Cataclysm-DDA/pull/63833))
 
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2023-02-21-1547 ([1ac9d06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-1547))
 
 * [Aftershock] Pain Suppression cbm will no longer kill you ([#63592](https://github.com/CleverRaven/Cataclysm-DDA/pull/63592))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-21-1248 ([f435360](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-21-1248))
-
 * Move Crazy Cata monsters to Crazy Cata files ([#63621](https://github.com/CleverRaven/Cataclysm-DDA/pull/63621))
 * Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
 * remove weather reader CBM from science_and_tech.json ([#63642](https://github.com/CleverRaven/Cataclysm-DDA/pull/63642))
