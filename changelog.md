@@ -200,7 +200,6 @@
 * Improve obstacle sounds sequencing ([#63618](https://github.com/CleverRaven/Cataclysm-DDA/pull/63618))
 * Add ``rebar_rail`` to the obsoletion files ([#63622](https://github.com/CleverRaven/Cataclysm-DDA/pull/63622))
 * fix wrong requirement for kevlar wetsuit ([#63634](https://github.com/CleverRaven/Cataclysm-DDA/pull/63634))
-* Don't display unrepairable entries in repair ui ([#63587](https://github.com/CleverRaven/Cataclysm-DDA/pull/63587))
 * item: limit stacks_with recursion to useful depth ([#63589](https://github.com/CleverRaven/Cataclysm-DDA/pull/63589))
 * Unifies gutter terrains ([#63597](https://github.com/CleverRaven/Cataclysm-DDA/pull/63597))
 * Misc nested mapgen clearing fixes ([#63606](https://github.com/CleverRaven/Cataclysm-DDA/pull/63606))
