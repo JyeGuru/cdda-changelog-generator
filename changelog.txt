@@ -1,3 +1,4 @@
+* Remove erroneous traits from recruitable Godco NPCs (#63831)
 * attempt to fix path reference in arm build (#63833)
 
 Cataclysm-DDA experimental build 2023-02-28-0607 (9fe0c1b)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2023-02-21-1248 (f435360)
 * make power armor "UNBREAKABLE_MELEE" (#63635)
 * Improve obstacle sounds sequencing (#63618)
 * Add ``rebar_rail`` to the obsoletion files (#63622)
-* item: expand contents name if they're all of the same type (#63579)
 * fix wrong requirement for kevlar wetsuit (#63634)
 * Don't display unrepairable entries in repair ui (#63587)
 * item: limit stacks_with recursion to useful depth (#63589)
