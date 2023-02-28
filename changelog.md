@@ -1,3 +1,4 @@
+* attempt to fix path reference in arm build ([#63833](https://github.com/CleverRaven/Cataclysm-DDA/pull/63833))
 
 ---
 
@@ -210,6 +211,5 @@
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
 * make phelloderm better ([#63607](https://github.com/CleverRaven/Cataclysm-DDA/pull/63607))
 * Obsoletes NPC campgrounds ([#63582](https://github.com/CleverRaven/Cataclysm-DDA/pull/63582))
-* Replace firearm doc references to quarter degrees with MoA ([#63576](https://github.com/CleverRaven/Cataclysm-DDA/pull/63576))
 * item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
 * Make the Refugee center guard not spawn as random npcs ([#63581](https://github.com/CleverRaven/Cataclysm-DDA/pull/63581))

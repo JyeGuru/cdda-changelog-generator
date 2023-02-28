@@ -1,3 +1,4 @@
+* attempt to fix path reference in arm build (#63833)
 
 Cataclysm-DDA experimental build 2023-02-28-0607 (9fe0c1b)
 * Semi permanent fast scroll (#63814)
@@ -132,6 +133,5 @@ Cataclysm-DDA experimental build 2023-02-21-1248 (f435360)
 * Routine i18n updates on 18 February 2023 (#63643)
 * make phelloderm better (#63607)
 * Obsoletes NPC campgrounds (#63582)
-* Replace firearm doc references to quarter degrees with MoA (#63576)
 * item: cache inherited flags (#63594)
 * Make the Refugee center guard not spawn as random npcs (#63581)
