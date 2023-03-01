@@ -1,3 +1,4 @@
+* Implement searching Chinese using pinyin ([#63664](https://github.com/CleverRaven/Cataclysm-DDA/pull/63664))
 * Revamps the swollen wretch. ([#63630](https://github.com/CleverRaven/Cataclysm-DDA/pull/63630))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * Adds Earthshaper spell to reveal world map ([#63680](https://github.com/CleverRaven/Cataclysm-DDA/pull/63680))
@@ -183,7 +184,6 @@
 * item: colorize medicine and healing tools ([#63711](https://github.com/CleverRaven/Cataclysm-DDA/pull/63711))
 * Obsoletes old-style trailer parks ([#63696](https://github.com/CleverRaven/Cataclysm-DDA/pull/63696))
 * Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))
-* Move Crazy Cata monsters to Crazy Cata files ([#63621](https://github.com/CleverRaven/Cataclysm-DDA/pull/63621))
 * Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
 * remove weather reader CBM from science_and_tech.json ([#63642](https://github.com/CleverRaven/Cataclysm-DDA/pull/63642))
 * Steel bottle category change and disassembly recipe ([#63697](https://github.com/CleverRaven/Cataclysm-DDA/pull/63697))
