@@ -1,3 +1,5 @@
+* Add real dark gray from the 256 color palette ([#63751](https://github.com/CleverRaven/Cataclysm-DDA/pull/63751))
+* Display IME candidate list and composition text correctly on Windows ([#63672](https://github.com/CleverRaven/Cataclysm-DDA/pull/63672))
 * Implement searching Chinese using pinyin ([#63664](https://github.com/CleverRaven/Cataclysm-DDA/pull/63664))
 * Revamps the swollen wretch. ([#63630](https://github.com/CleverRaven/Cataclysm-DDA/pull/63630))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
@@ -201,7 +203,6 @@
 * Fixes fitness gym pool spawns ([#63657](https://github.com/CleverRaven/Cataclysm-DDA/pull/63657))
 * Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
 * make power armor "UNBREAKABLE_MELEE" ([#63635](https://github.com/CleverRaven/Cataclysm-DDA/pull/63635))
-* Add ``rebar_rail`` to the obsoletion files ([#63622](https://github.com/CleverRaven/Cataclysm-DDA/pull/63622))
 * fix wrong requirement for kevlar wetsuit ([#63634](https://github.com/CleverRaven/Cataclysm-DDA/pull/63634))
 * [Magiclysm] Fix floral healing not heal ([#63638](https://github.com/CleverRaven/Cataclysm-DDA/pull/63638))
 * Update debug_mutations.json ([#63646](https://github.com/CleverRaven/Cataclysm-DDA/pull/63646))
