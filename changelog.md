@@ -1,3 +1,6 @@
+* Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
+* fix: github astyle code style suggestions ([#63820](https://github.com/CleverRaven/Cataclysm-DDA/pull/63820))
+* Spell menu: add scrollbar to spell info ([#63705](https://github.com/CleverRaven/Cataclysm-DDA/pull/63705))
 
 ---
 
@@ -180,7 +183,6 @@
 * Fix ghc directory iterator treating all files subsequent to a symlink as symlink ([#63612](https://github.com/CleverRaven/Cataclysm-DDA/pull/63612))
 * Better fix for loading relics with removed enchantments ([#63678](https://github.com/CleverRaven/Cataclysm-DDA/pull/63678))
 * Fix npc needs pathfinding taking unreasonable amount of time ([#63673](https://github.com/CleverRaven/Cataclysm-DDA/pull/63673))
-* fix mutate_towards not accounting CANCELS bionics ([#63599](https://github.com/CleverRaven/Cataclysm-DDA/pull/63599))
 * Sane person's lifespan ([#63653](https://github.com/CleverRaven/Cataclysm-DDA/pull/63653))
 * snails are in food category now ([#63669](https://github.com/CleverRaven/Cataclysm-DDA/pull/63669))
 * Update flags for assorted floral furniture ([#63676](https://github.com/CleverRaven/Cataclysm-DDA/pull/63676))
@@ -192,12 +194,10 @@
 * Routine tileset updates on 19 February 2023 ([#63682](https://github.com/CleverRaven/Cataclysm-DDA/pull/63682))
 * Fixes fitness gym pool spawns ([#63657](https://github.com/CleverRaven/Cataclysm-DDA/pull/63657))
 * Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
-* Buff and bugfix chimera integrated armors ([#63600](https://github.com/CleverRaven/Cataclysm-DDA/pull/63600))
 * make power armor "UNBREAKABLE_MELEE" ([#63635](https://github.com/CleverRaven/Cataclysm-DDA/pull/63635))
 * Improve obstacle sounds sequencing ([#63618](https://github.com/CleverRaven/Cataclysm-DDA/pull/63618))
 * Add ``rebar_rail`` to the obsoletion files ([#63622](https://github.com/CleverRaven/Cataclysm-DDA/pull/63622))
 * fix wrong requirement for kevlar wetsuit ([#63634](https://github.com/CleverRaven/Cataclysm-DDA/pull/63634))
-* Unifies gutter terrains ([#63597](https://github.com/CleverRaven/Cataclysm-DDA/pull/63597))
 * Misc nested mapgen clearing fixes ([#63606](https://github.com/CleverRaven/Cataclysm-DDA/pull/63606))
 * item: colorize container contents ([#63617](https://github.com/CleverRaven/Cataclysm-DDA/pull/63617))
 * lang/parser: fix for examine_action EOC referenced by id ([#63619](https://github.com/CleverRaven/Cataclysm-DDA/pull/63619))
