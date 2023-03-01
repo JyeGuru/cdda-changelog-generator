@@ -7,7 +7,7 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-03-01-0054 ([d6ec466](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-01-0054))
+#### Gaiman ([d6ec466](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.G))
 
 * ReReRevert MacOS Arm build ([#63848](https://github.com/CleverRaven/Cataclysm-DDA/pull/63848))
 
