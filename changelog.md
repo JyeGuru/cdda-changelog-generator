@@ -1,7 +1,7 @@
+* Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
 * Add real dark gray from the 256 color palette ([#63751](https://github.com/CleverRaven/Cataclysm-DDA/pull/63751))
 * Display IME candidate list and composition text correctly on Windows ([#63672](https://github.com/CleverRaven/Cataclysm-DDA/pull/63672))
 * Implement searching Chinese using pinyin ([#63664](https://github.com/CleverRaven/Cataclysm-DDA/pull/63664))
-* Revamps the swollen wretch. ([#63630](https://github.com/CleverRaven/Cataclysm-DDA/pull/63630))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * Adds Earthshaper spell to reveal world map ([#63680](https://github.com/CleverRaven/Cataclysm-DDA/pull/63680))
 * Reword existing trap message ([#63681](https://github.com/CleverRaven/Cataclysm-DDA/pull/63681))
@@ -175,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2023-02-23-1116 ([43e7ce3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-23-1116))
 
 * Consistency earthshaper weapon change ([#63739](https://github.com/CleverRaven/Cataclysm-DDA/pull/63739))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-23-0626 ([c69ea7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-23-0626))
-
 * Fix renfield weapon drops ([#63726](https://github.com/CleverRaven/Cataclysm-DDA/pull/63726))
 * Add my Patreon to the donations page ([#63703](https://github.com/CleverRaven/Cataclysm-DDA/pull/63703))
 * debug/tgz: trim overmapbuffer in minimized archive ([#63717](https://github.com/CleverRaven/Cataclysm-DDA/pull/63717))

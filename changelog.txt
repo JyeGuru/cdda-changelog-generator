@@ -1,7 +1,7 @@
+* Update documentation about neutral mutations (#63793)
 * Add real dark gray from the 256 color palette (#63751)
 * Display IME candidate list and composition text correctly on Windows (#63672)
 * Implement searching Chinese using pinyin (#63664)
-* Revamps the swollen wretch. (#63630)
 * Validate bionic_data::mutation_conflicts consistency (#63845)
 * Adds Earthshaper spell to reveal world map (#63680)
 * Reword existing trap message (#63681)
@@ -103,8 +103,6 @@ Cataclysm-DDA experimental build 2023-02-24-0609 (5164ff5)
 
 Cataclysm-DDA experimental build 2023-02-23-1116 (43e7ce3)
 * Consistency earthshaper weapon change (#63739)
-
-Cataclysm-DDA experimental build 2023-02-23-0626 (c69ea7c)
 * Fix renfield weapon drops (#63726)
 * Add my Patreon to the donations page (#63703)
 * debug/tgz: trim overmapbuffer in minimized archive (#63717)
