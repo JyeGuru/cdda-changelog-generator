@@ -4,6 +4,8 @@ Cataclysm-DDA experimental build 2023-03-01-0054 (d6ec466)
 
 Cataclysm-DDA experimental build 2023-02-28-2146 (f1f721e)
 * Fix astyle config URL in docs (#63835)
+
+Cataclysm-DDA experimental build 2023-02-28-1445 (7793b9e)
 * attempt to fix OSX builds (#63838)
 
 Cataclysm-DDA experimental build 2023-02-28-0738 (f40f852)
@@ -12,6 +14,8 @@ Cataclysm-DDA experimental build 2023-02-28-0738 (f40f852)
 
 Cataclysm-DDA experimental build 2023-02-28-0607 (9fe0c1b)
 * Semi permanent fast scroll (#63814)
+
+Cataclysm-DDA experimental build 2023-02-28-0347 (c51e526)
 * Revert "Revert "Support Mac arm64"" (#63832)
 
 Cataclysm-DDA experimental build 2023-02-27-2328 (67857e9)
@@ -93,11 +97,7 @@ Cataclysm-DDA experimental build 2023-02-22-1849 (95b8cca)
 
 Cataclysm-DDA experimental build 2023-02-22-0727 (f1bc060)
 * item: colorize medicine and healing tools (#63711)
-
-Cataclysm-DDA experimental build 2023-02-22-0409 (a8493c6)
 * Obsoletes old-style trailer parks (#63696)
-
-Cataclysm-DDA experimental build 2023-02-22-0044 (a809d8b)
 * Document automatic json linting when using Visual Studio (#63716)
 * Move Crazy Cata monsters to Crazy Cata files (#63621)
 * Fitness improved spawn (#63685)

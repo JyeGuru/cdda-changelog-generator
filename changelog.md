@@ -10,6 +10,11 @@
 #### Cataclysm-DDA experimental build 2023-02-28-2146 ([f1f721e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-2146))
 
 * Fix astyle config URL in docs ([#63835](https://github.com/CleverRaven/Cataclysm-DDA/pull/63835))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-28-1445 ([7793b9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-1445))
+
 * attempt to fix OSX builds ([#63838](https://github.com/CleverRaven/Cataclysm-DDA/pull/63838))
 
 ---
@@ -24,6 +29,11 @@
 #### Cataclysm-DDA experimental build 2023-02-28-0607 ([9fe0c1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-0607))
 
 * Semi permanent fast scroll ([#63814](https://github.com/CleverRaven/Cataclysm-DDA/pull/63814))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-28-0347 ([c51e526](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-0347))
+
 * Revert "Revert "Support Mac arm64"" ([#63832](https://github.com/CleverRaven/Cataclysm-DDA/pull/63832))
 
 ---
@@ -165,17 +175,7 @@
 #### Cataclysm-DDA experimental build 2023-02-22-0727 ([f1bc060](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0727))
 
 * item: colorize medicine and healing tools ([#63711](https://github.com/CleverRaven/Cataclysm-DDA/pull/63711))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-22-0409 ([a8493c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0409))
-
 * Obsoletes old-style trailer parks ([#63696](https://github.com/CleverRaven/Cataclysm-DDA/pull/63696))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-22-0044 ([a809d8b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0044))
-
 * Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))
 * Move Crazy Cata monsters to Crazy Cata files ([#63621](https://github.com/CleverRaven/Cataclysm-DDA/pull/63621))
 * Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
