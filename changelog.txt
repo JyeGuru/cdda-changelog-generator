@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-03-01-0613 (786a04d)
+* submap: lazily allocate uniform submaps (#63762)
+
 Cataclysm-DDA experimental build 2023-03-01-0054 (d6ec466)
 * ReReRevert MacOS Arm build (#63848)
 
@@ -94,8 +97,6 @@ Cataclysm-DDA experimental build 2023-02-23-0626 (c69ea7c)
 
 Cataclysm-DDA experimental build 2023-02-22-1849 (95b8cca)
 * debug/tgz: trim overmapbuffer in minimized archive (#63717)
-
-Cataclysm-DDA experimental build 2023-02-22-0727 (f1bc060)
 * item: colorize medicine and healing tools (#63711)
 * Obsoletes old-style trailer parks (#63696)
 * Document automatic json linting when using Visual Studio (#63716)
@@ -131,4 +132,3 @@ Cataclysm-DDA experimental build 2023-02-22-0727 (f1bc060)
 * Update debug_mutations.json (#63646)
 * Routine i18n updates on 18 February 2023 (#63643)
 * make phelloderm better (#63607)
-* item: cache inherited flags (#63594)

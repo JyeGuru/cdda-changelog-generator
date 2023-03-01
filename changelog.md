@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-01-0613 ([786a04d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-01-0613))
+
+* submap: lazily allocate uniform submaps ([#63762](https://github.com/CleverRaven/Cataclysm-DDA/pull/63762))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-01-0054 ([d6ec466](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-01-0054))
 
 * ReReRevert MacOS Arm build ([#63848](https://github.com/CleverRaven/Cataclysm-DDA/pull/63848))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2023-02-22-1849 ([95b8cca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-1849))
 
 * debug/tgz: trim overmapbuffer in minimized archive ([#63717](https://github.com/CleverRaven/Cataclysm-DDA/pull/63717))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-22-0727 ([f1bc060](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-0727))
-
 * item: colorize medicine and healing tools ([#63711](https://github.com/CleverRaven/Cataclysm-DDA/pull/63711))
 * Obsoletes old-style trailer parks ([#63696](https://github.com/CleverRaven/Cataclysm-DDA/pull/63696))
 * Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))
@@ -209,4 +210,3 @@
 * Update debug_mutations.json ([#63646](https://github.com/CleverRaven/Cataclysm-DDA/pull/63646))
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
 * make phelloderm better ([#63607](https://github.com/CleverRaven/Cataclysm-DDA/pull/63607))
-* item: cache inherited flags ([#63594](https://github.com/CleverRaven/Cataclysm-DDA/pull/63594))
