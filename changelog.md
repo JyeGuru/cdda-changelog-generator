@@ -169,11 +169,6 @@
 
 * Fix renfield weapon drops ([#63726](https://github.com/CleverRaven/Cataclysm-DDA/pull/63726))
 * Add my Patreon to the donations page ([#63703](https://github.com/CleverRaven/Cataclysm-DDA/pull/63703))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-22-1849 ([95b8cca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-22-1849))
-
 * debug/tgz: trim overmapbuffer in minimized archive ([#63717](https://github.com/CleverRaven/Cataclysm-DDA/pull/63717))
 * item: colorize medicine and healing tools ([#63711](https://github.com/CleverRaven/Cataclysm-DDA/pull/63711))
 * Obsoletes old-style trailer parks ([#63696](https://github.com/CleverRaven/Cataclysm-DDA/pull/63696))
