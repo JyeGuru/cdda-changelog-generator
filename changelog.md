@@ -169,11 +169,6 @@
 * Exodii quadruped fixes ([#63730](https://github.com/CleverRaven/Cataclysm-DDA/pull/63730))
 * Say ID of item that does not exist for migrations ([#63721](https://github.com/CleverRaven/Cataclysm-DDA/pull/63721))
 * Rework basement spawns ([#63713](https://github.com/CleverRaven/Cataclysm-DDA/pull/63713))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-25-1926 ([86a9ee0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-1926))
-
 * Support Mac arm64 ([#63702](https://github.com/CleverRaven/Cataclysm-DDA/pull/63702))
 * [Magiclysm] some unarmed fixes ([#63688](https://github.com/CleverRaven/Cataclysm-DDA/pull/63688))
 * Lower damage for BB gun ([#63763](https://github.com/CleverRaven/Cataclysm-DDA/pull/63763))
