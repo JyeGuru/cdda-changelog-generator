@@ -1,3 +1,4 @@
+* item: fix category for contents without charges ([#63710](https://github.com/CleverRaven/Cataclysm-DDA/pull/63710))
 * Add a makeshift welding blanket ([#63706](https://github.com/CleverRaven/Cataclysm-DDA/pull/63706))
 * Bionic fitness band ([#63735](https://github.com/CleverRaven/Cataclysm-DDA/pull/63735))
 * Return to start pos corrections ([#63647](https://github.com/CleverRaven/Cataclysm-DDA/pull/63647))
@@ -203,4 +204,3 @@
 * Routine tileset updates on 19 February 2023 ([#63682](https://github.com/CleverRaven/Cataclysm-DDA/pull/63682))
 * Fixes fitness gym pool spawns ([#63657](https://github.com/CleverRaven/Cataclysm-DDA/pull/63657))
 * Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
-* Update debug_mutations.json ([#63646](https://github.com/CleverRaven/Cataclysm-DDA/pull/63646))
