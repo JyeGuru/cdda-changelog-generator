@@ -1,7 +1,6 @@
 * item: fix category for contents without charges ([#63710](https://github.com/CleverRaven/Cataclysm-DDA/pull/63710))
 * Add a makeshift welding blanket ([#63706](https://github.com/CleverRaven/Cataclysm-DDA/pull/63706))
 * Bionic fitness band ([#63735](https://github.com/CleverRaven/Cataclysm-DDA/pull/63735))
-* Return to start pos corrections ([#63647](https://github.com/CleverRaven/Cataclysm-DDA/pull/63647))
 * Fix compilations errors (int > dbl) ([#63856](https://github.com/CleverRaven/Cataclysm-DDA/pull/63856))
 
 ---

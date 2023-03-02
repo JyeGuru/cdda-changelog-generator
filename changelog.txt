@@ -1,7 +1,6 @@
 * item: fix category for contents without charges (#63710)
 * Add a makeshift welding blanket (#63706)
 * Bionic fitness band (#63735)
-* Return to start pos corrections (#63647)
 * Fix compilations errors (int > dbl) (#63856)
 
 Cataclysm-DDA experimental build 2023-03-02-0619 (8c9029f)
