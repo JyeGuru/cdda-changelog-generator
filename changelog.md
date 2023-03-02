@@ -1,3 +1,5 @@
+* Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
+* Tune down trapdoor spider spawns ([#63853](https://github.com/CleverRaven/Cataclysm-DDA/pull/63853))
 * item: fix category for contents without charges ([#63710](https://github.com/CleverRaven/Cataclysm-DDA/pull/63710))
 * Add a makeshift welding blanket ([#63706](https://github.com/CleverRaven/Cataclysm-DDA/pull/63706))
 * Bionic fitness band ([#63735](https://github.com/CleverRaven/Cataclysm-DDA/pull/63735))
@@ -187,7 +189,6 @@
 * Steel bottle category change and disassembly recipe ([#63697](https://github.com/CleverRaven/Cataclysm-DDA/pull/63697))
 * Better fix for loading relics with removed enchantments ([#63678](https://github.com/CleverRaven/Cataclysm-DDA/pull/63678))
 * Fix npc needs pathfinding taking unreasonable amount of time ([#63673](https://github.com/CleverRaven/Cataclysm-DDA/pull/63673))
-* Sane person's lifespan ([#63653](https://github.com/CleverRaven/Cataclysm-DDA/pull/63653))
 * snails are in food category now ([#63669](https://github.com/CleverRaven/Cataclysm-DDA/pull/63669))
 * Update flags for assorted floral furniture ([#63676](https://github.com/CleverRaven/Cataclysm-DDA/pull/63676))
 * [Xedra Evolved] Random fixes for the voices in my head vol. 02 ([#63661](https://github.com/CleverRaven/Cataclysm-DDA/pull/63661))
@@ -197,4 +198,3 @@
 * [Magiclysm] +1 and +2 pickaxe can mine now ([#63689](https://github.com/CleverRaven/Cataclysm-DDA/pull/63689))
 * Routine tileset updates on 19 February 2023 ([#63682](https://github.com/CleverRaven/Cataclysm-DDA/pull/63682))
 * Fixes fitness gym pool spawns ([#63657](https://github.com/CleverRaven/Cataclysm-DDA/pull/63657))
-* Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
