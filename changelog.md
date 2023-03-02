@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-02-0327 ([c6acba5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-02-0327))
+
+* fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-01-2354 ([135b6aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-01-2354))
 
 * Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
@@ -198,7 +204,6 @@
 * Fixes fitness gym pool spawns ([#63657](https://github.com/CleverRaven/Cataclysm-DDA/pull/63657))
 * Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
 * make power armor "UNBREAKABLE_MELEE" ([#63635](https://github.com/CleverRaven/Cataclysm-DDA/pull/63635))
-* fix wrong requirement for kevlar wetsuit ([#63634](https://github.com/CleverRaven/Cataclysm-DDA/pull/63634))
 * [Magiclysm] Fix floral healing not heal ([#63638](https://github.com/CleverRaven/Cataclysm-DDA/pull/63638))
 * Update debug_mutations.json ([#63646](https://github.com/CleverRaven/Cataclysm-DDA/pull/63646))
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
