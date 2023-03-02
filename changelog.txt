@@ -104,8 +104,6 @@ Cataclysm-DDA experimental build 2023-02-25-1926 (86a9ee0)
 
 Cataclysm-DDA experimental build 2023-02-25-1656 (9f4e453)
 * Lower damage for BB gun (#63763)
-
-Cataclysm-DDA experimental build 2023-02-25-0613 (7597f1b)
 * make chimera not fight over its tail (#63774)
 * Fix vehicle::discharge_battery charging (#63732)
 * Add Magiclysm forage items to forage tables. (#63693)
