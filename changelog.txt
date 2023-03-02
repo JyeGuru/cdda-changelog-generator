@@ -1,3 +1,4 @@
+* Fix compilations errors (int > dbl) (#63856)
 
 Cataclysm-DDA experimental build 2023-03-02-0619 (8c9029f)
 * [Magiclysm] fast fixes (#63852)

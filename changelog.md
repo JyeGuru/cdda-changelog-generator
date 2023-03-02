@@ -1,3 +1,4 @@
+* Fix compilations errors (int > dbl) ([#63856](https://github.com/CleverRaven/Cataclysm-DDA/pull/63856))
 
 ---
 
