@@ -102,8 +102,6 @@ Cataclysm-DDA experimental build 2023-02-25-2058 (839d34e)
 Cataclysm-DDA experimental build 2023-02-25-1926 (86a9ee0)
 * Support Mac arm64 (#63702)
 * [Magiclysm] some unarmed fixes (#63688)
-
-Cataclysm-DDA experimental build 2023-02-25-1656 (9f4e453)
 * Lower damage for BB gun (#63763)
 * make chimera not fight over its tail (#63774)
 * Fix vehicle::discharge_battery charging (#63732)

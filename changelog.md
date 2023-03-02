@@ -174,11 +174,6 @@
 
 * Support Mac arm64 ([#63702](https://github.com/CleverRaven/Cataclysm-DDA/pull/63702))
 * [Magiclysm] some unarmed fixes ([#63688](https://github.com/CleverRaven/Cataclysm-DDA/pull/63688))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-25-1656 ([9f4e453](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-1656))
-
 * Lower damage for BB gun ([#63763](https://github.com/CleverRaven/Cataclysm-DDA/pull/63763))
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
 * Fix vehicle::discharge_battery charging ([#63732](https://github.com/CleverRaven/Cataclysm-DDA/pull/63732))
