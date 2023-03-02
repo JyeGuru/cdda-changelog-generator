@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-02-0428 ([4ad561b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-02-0428))
+
+* bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-02-0327 ([c6acba5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-02-0327))
 
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2023-02-25-0613 ([7597f1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-0613))
 
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-24-0609 ([5164ff5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-24-0609))
-
 * Fix vehicle::discharge_battery charging ([#63732](https://github.com/CleverRaven/Cataclysm-DDA/pull/63732))
 * Add Magiclysm forage items to forage tables. ([#63693](https://github.com/CleverRaven/Cataclysm-DDA/pull/63693))
 * Fix "detect translation file changes" workflow ([#63731](https://github.com/CleverRaven/Cataclysm-DDA/pull/63731))
@@ -203,7 +204,6 @@
 * Routine tileset updates on 19 February 2023 ([#63682](https://github.com/CleverRaven/Cataclysm-DDA/pull/63682))
 * Fixes fitness gym pool spawns ([#63657](https://github.com/CleverRaven/Cataclysm-DDA/pull/63657))
 * Fix relic enchant load error ([#63655](https://github.com/CleverRaven/Cataclysm-DDA/pull/63655))
-* make power armor "UNBREAKABLE_MELEE" ([#63635](https://github.com/CleverRaven/Cataclysm-DDA/pull/63635))
 * [Magiclysm] Fix floral healing not heal ([#63638](https://github.com/CleverRaven/Cataclysm-DDA/pull/63638))
 * Update debug_mutations.json ([#63646](https://github.com/CleverRaven/Cataclysm-DDA/pull/63646))
 * Routine i18n updates on 18 February 2023 ([#63643](https://github.com/CleverRaven/Cataclysm-DDA/pull/63643))
