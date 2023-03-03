@@ -1,3 +1,4 @@
+* Change shark_suit[_faraday] Materials ([#63692](https://github.com/CleverRaven/Cataclysm-DDA/pull/63692))
 * Automatically cap melee skill gain from monsters ([#63773](https://github.com/CleverRaven/Cataclysm-DDA/pull/63773))
 * make most anatomy mutations neutral ([#63776](https://github.com/CleverRaven/Cataclysm-DDA/pull/63776))
 * Adds a snout for the raptor mutation, and changes the tail’s description. ([#63788](https://github.com/CleverRaven/Cataclysm-DDA/pull/63788))
@@ -190,7 +191,6 @@
 * Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))
 * Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
 * Steel bottle category change and disassembly recipe ([#63697](https://github.com/CleverRaven/Cataclysm-DDA/pull/63697))
-* Better fix for loading relics with removed enchantments ([#63678](https://github.com/CleverRaven/Cataclysm-DDA/pull/63678))
 * Bring elf-a hurt_tick in line with others ([#63679](https://github.com/CleverRaven/Cataclysm-DDA/pull/63679))
 * [Magiclysm] +1 and +2 pickaxe can mine now ([#63689](https://github.com/CleverRaven/Cataclysm-DDA/pull/63689))
 * Routine tileset updates on 19 February 2023 ([#63682](https://github.com/CleverRaven/Cataclysm-DDA/pull/63682))
