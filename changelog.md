@@ -1,3 +1,4 @@
+* Painted walls addition and tweaks ([#63876](https://github.com/CleverRaven/Cataclysm-DDA/pull/63876))
 * Makes Nictating Membrane conflict with the Protective Lenses CBM ([#63881](https://github.com/CleverRaven/Cataclysm-DDA/pull/63881))
 * Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
 * Clear portal storm sound ([#63893](https://github.com/CleverRaven/Cataclysm-DDA/pull/63893))
@@ -191,6 +192,5 @@
 * item: colorize medicine and healing tools ([#63711](https://github.com/CleverRaven/Cataclysm-DDA/pull/63711))
 * Obsoletes old-style trailer parks ([#63696](https://github.com/CleverRaven/Cataclysm-DDA/pull/63696))
 * Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))
-* Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
 * Steel bottle category change and disassembly recipe ([#63697](https://github.com/CleverRaven/Cataclysm-DDA/pull/63697))
 * [Magiclysm] +1 and +2 pickaxe can mine now ([#63689](https://github.com/CleverRaven/Cataclysm-DDA/pull/63689))
