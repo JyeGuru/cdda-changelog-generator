@@ -1,3 +1,4 @@
+* Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
 * Fixes mobile home park road connections ([#63778](https://github.com/CleverRaven/Cataclysm-DDA/pull/63778))
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
 * Tune down trapdoor spider spawns ([#63853](https://github.com/CleverRaven/Cataclysm-DDA/pull/63853))
@@ -35,7 +36,6 @@
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * Adds Earthshaper spell to reveal world map ([#63680](https://github.com/CleverRaven/Cataclysm-DDA/pull/63680))
 * Reword existing trap message ([#63681](https://github.com/CleverRaven/Cataclysm-DDA/pull/63681))
-* Add limb strength hint to veh interact ([#63660](https://github.com/CleverRaven/Cataclysm-DDA/pull/63660))
 * Limbify escaping effects. Again. ([#63666](https://github.com/CleverRaven/Cataclysm-DDA/pull/63666))
 * Allow running EOCs as result of a recipe ([#63691](https://github.com/CleverRaven/Cataclysm-DDA/pull/63691))
 * Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
