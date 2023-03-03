@@ -1,3 +1,4 @@
+* Adjust "keg" furniture UI ([#63877](https://github.com/CleverRaven/Cataclysm-DDA/pull/63877))
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
 
 ---
@@ -192,7 +193,6 @@
 * Fix npc needs pathfinding taking unreasonable amount of time ([#63673](https://github.com/CleverRaven/Cataclysm-DDA/pull/63673))
 * snails are in food category now ([#63669](https://github.com/CleverRaven/Cataclysm-DDA/pull/63669))
 * Update flags for assorted floral furniture ([#63676](https://github.com/CleverRaven/Cataclysm-DDA/pull/63676))
-* [Xedra Evolved] Random fixes for the voices in my head vol. 02 ([#63661](https://github.com/CleverRaven/Cataclysm-DDA/pull/63661))
 * Ferrous spawn revamp ([#63662](https://github.com/CleverRaven/Cataclysm-DDA/pull/63662))
 * red ryder bb length-and-weight ([#63667](https://github.com/CleverRaven/Cataclysm-DDA/pull/63667))
 * Bring elf-a hurt_tick in line with others ([#63679](https://github.com/CleverRaven/Cataclysm-DDA/pull/63679))
