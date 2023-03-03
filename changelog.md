@@ -1,3 +1,4 @@
+* Make adhesive bandages recipe craft multiples. ([#63824](https://github.com/CleverRaven/Cataclysm-DDA/pull/63824))
 * Painted walls addition and tweaks ([#63876](https://github.com/CleverRaven/Cataclysm-DDA/pull/63876))
 * Makes Nictating Membrane conflict with the Protective Lenses CBM ([#63881](https://github.com/CleverRaven/Cataclysm-DDA/pull/63881))
 * Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
