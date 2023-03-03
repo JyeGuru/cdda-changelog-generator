@@ -1,4 +1,9 @@
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-03-0646 ([8c0f960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-03-0646))
+
 * Fixes mobile home park road connections ([#63778](https://github.com/CleverRaven/Cataclysm-DDA/pull/63778))
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
 * Tune down trapdoor spider spawns ([#63853](https://github.com/CleverRaven/Cataclysm-DDA/pull/63853))
@@ -157,11 +162,6 @@
 
 * Fix IFF edge case for unseen player ([#63790](https://github.com/CleverRaven/Cataclysm-DDA/pull/63790))
 * Add ingested calories to the calorie diary only when the player is doing the eating ([#63785](https://github.com/CleverRaven/Cataclysm-DDA/pull/63785))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-25-2058 ([839d34e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-2058))
-
 * debug/tgz: fix min archive for player on different zlevel ([#63783](https://github.com/CleverRaven/Cataclysm-DDA/pull/63783))
 * Attempts to fix marina spawns ([#63771](https://github.com/CleverRaven/Cataclysm-DDA/pull/63771))
 * Fix my sloppy errors regarding Chimera integrated armors ([#63770](https://github.com/CleverRaven/Cataclysm-DDA/pull/63770))
