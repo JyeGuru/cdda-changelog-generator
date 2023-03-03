@@ -1,3 +1,4 @@
+* Clear portal storm sound ([#63893](https://github.com/CleverRaven/Cataclysm-DDA/pull/63893))
 * Add "dense bones" mutation ([#63775](https://github.com/CleverRaven/Cataclysm-DDA/pull/63775))
 * Change shark_suit[_faraday] Materials ([#63692](https://github.com/CleverRaven/Cataclysm-DDA/pull/63692))
 * Automatically cap melee skill gain from monsters ([#63773](https://github.com/CleverRaven/Cataclysm-DDA/pull/63773))
@@ -54,7 +55,6 @@
 * Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
 * Add real dark gray from the 256 color palette ([#63751](https://github.com/CleverRaven/Cataclysm-DDA/pull/63751))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
-* Adds Earthshaper spell to reveal world map ([#63680](https://github.com/CleverRaven/Cataclysm-DDA/pull/63680))
 * Reword existing trap message ([#63681](https://github.com/CleverRaven/Cataclysm-DDA/pull/63681))
 * Allow running EOCs as result of a recipe ([#63691](https://github.com/CleverRaven/Cataclysm-DDA/pull/63691))
 * Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
