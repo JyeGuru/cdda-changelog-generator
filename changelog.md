@@ -1,3 +1,5 @@
+* Makes Nictating Membrane conflict with the Protective Lenses CBM ([#63881](https://github.com/CleverRaven/Cataclysm-DDA/pull/63881))
+* Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
 * Clear portal storm sound ([#63893](https://github.com/CleverRaven/Cataclysm-DDA/pull/63893))
 * Add "dense bones" mutation ([#63775](https://github.com/CleverRaven/Cataclysm-DDA/pull/63775))
 * Change shark_suit[_faraday] Materials ([#63692](https://github.com/CleverRaven/Cataclysm-DDA/pull/63692))
@@ -55,7 +57,6 @@
 * Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
 * Add real dark gray from the 256 color palette ([#63751](https://github.com/CleverRaven/Cataclysm-DDA/pull/63751))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
-* Reword existing trap message ([#63681](https://github.com/CleverRaven/Cataclysm-DDA/pull/63681))
 * Allow running EOCs as result of a recipe ([#63691](https://github.com/CleverRaven/Cataclysm-DDA/pull/63691))
 * Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
 * fix: github astyle code style suggestions ([#63820](https://github.com/CleverRaven/Cataclysm-DDA/pull/63820))
@@ -193,4 +194,3 @@
 * Fitness improved spawn ([#63685](https://github.com/CleverRaven/Cataclysm-DDA/pull/63685))
 * Steel bottle category change and disassembly recipe ([#63697](https://github.com/CleverRaven/Cataclysm-DDA/pull/63697))
 * [Magiclysm] +1 and +2 pickaxe can mine now ([#63689](https://github.com/CleverRaven/Cataclysm-DDA/pull/63689))
-* Routine tileset updates on 19 February 2023 ([#63682](https://github.com/CleverRaven/Cataclysm-DDA/pull/63682))
