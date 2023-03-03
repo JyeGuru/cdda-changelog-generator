@@ -1,3 +1,4 @@
+* Cutters not shears ([#63863](https://github.com/CleverRaven/Cataclysm-DDA/pull/63863))
 
 ---
 
@@ -193,7 +194,6 @@
 * Fix npc needs pathfinding taking unreasonable amount of time ([#63673](https://github.com/CleverRaven/Cataclysm-DDA/pull/63673))
 * snails are in food category now ([#63669](https://github.com/CleverRaven/Cataclysm-DDA/pull/63669))
 * Update flags for assorted floral furniture ([#63676](https://github.com/CleverRaven/Cataclysm-DDA/pull/63676))
-* Ferrous spawn revamp ([#63662](https://github.com/CleverRaven/Cataclysm-DDA/pull/63662))
 * red ryder bb length-and-weight ([#63667](https://github.com/CleverRaven/Cataclysm-DDA/pull/63667))
 * Bring elf-a hurt_tick in line with others ([#63679](https://github.com/CleverRaven/Cataclysm-DDA/pull/63679))
 * [Magiclysm] +1 and +2 pickaxe can mine now ([#63689](https://github.com/CleverRaven/Cataclysm-DDA/pull/63689))

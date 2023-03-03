@@ -1,3 +1,4 @@
+* Cutters not shears (#63863)
 
 Cataclysm-DDA experimental build 2023-03-03-1238 (1eb525f)
 * Adjust "keg" furniture UI (#63877)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2023-02-25-2323 (f34244b)
 * Fix npc needs pathfinding taking unreasonable amount of time (#63673)
 * snails are in food category now (#63669)
 * Update flags for assorted floral furniture (#63676)
-* Ferrous spawn revamp (#63662)
 * red ryder bb length-and-weight (#63667)
 * Bring elf-a hurt_tick in line with others (#63679)
 * [Magiclysm] +1 and +2 pickaxe can mine now (#63689)
