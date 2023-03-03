@@ -1,3 +1,9 @@
+* Adds a snout for the raptor mutation, and changes the tail’s description. ([#63788](https://github.com/CleverRaven/Cataclysm-DDA/pull/63788))
+* char/healing: fix/rework healing rates to be more logical ([#63836](https://github.com/CleverRaven/Cataclysm-DDA/pull/63836))
+* item_location: add a make_active() helper ([#63873](https://github.com/CleverRaven/Cataclysm-DDA/pull/63873))
+* Fix MSVC template warnings ([#63883](https://github.com/CleverRaven/Cataclysm-DDA/pull/63883))
+* Polish some of the NPC introductory text ([#63879](https://github.com/CleverRaven/Cataclysm-DDA/pull/63879))
+* Mutant Cats & Dogs: A Tale of Nether & Confusion ([#63878](https://github.com/CleverRaven/Cataclysm-DDA/pull/63878))
 * Cutters not shears ([#63863](https://github.com/CleverRaven/Cataclysm-DDA/pull/63863))
 
 ---
@@ -43,12 +49,9 @@
 
 * Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
 * Add real dark gray from the 256 color palette ([#63751](https://github.com/CleverRaven/Cataclysm-DDA/pull/63751))
-* Display IME candidate list and composition text correctly on Windows ([#63672](https://github.com/CleverRaven/Cataclysm-DDA/pull/63672))
-* Implement searching Chinese using pinyin ([#63664](https://github.com/CleverRaven/Cataclysm-DDA/pull/63664))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * Adds Earthshaper spell to reveal world map ([#63680](https://github.com/CleverRaven/Cataclysm-DDA/pull/63680))
 * Reword existing trap message ([#63681](https://github.com/CleverRaven/Cataclysm-DDA/pull/63681))
-* Limbify escaping effects. Again. ([#63666](https://github.com/CleverRaven/Cataclysm-DDA/pull/63666))
 * Allow running EOCs as result of a recipe ([#63691](https://github.com/CleverRaven/Cataclysm-DDA/pull/63691))
 * Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
 * fix: github astyle code style suggestions ([#63820](https://github.com/CleverRaven/Cataclysm-DDA/pull/63820))
@@ -156,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2023-02-26-0103 ([dc8a598](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-0103))
 
 * Revert "Support Mac arm64" ([#63797](https://github.com/CleverRaven/Cataclysm-DDA/pull/63797))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-25-2323 ([f34244b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-25-2323))
-
 * fix getting sick having the exponent first wrongly ([#63707](https://github.com/CleverRaven/Cataclysm-DDA/pull/63707))
 * Fix IFF edge case for unseen player ([#63790](https://github.com/CleverRaven/Cataclysm-DDA/pull/63790))
 * Add ingested calories to the calorie diary only when the player is doing the eating ([#63785](https://github.com/CleverRaven/Cataclysm-DDA/pull/63785))
@@ -192,9 +190,7 @@
 * Steel bottle category change and disassembly recipe ([#63697](https://github.com/CleverRaven/Cataclysm-DDA/pull/63697))
 * Better fix for loading relics with removed enchantments ([#63678](https://github.com/CleverRaven/Cataclysm-DDA/pull/63678))
 * Fix npc needs pathfinding taking unreasonable amount of time ([#63673](https://github.com/CleverRaven/Cataclysm-DDA/pull/63673))
-* snails are in food category now ([#63669](https://github.com/CleverRaven/Cataclysm-DDA/pull/63669))
 * Update flags for assorted floral furniture ([#63676](https://github.com/CleverRaven/Cataclysm-DDA/pull/63676))
-* red ryder bb length-and-weight ([#63667](https://github.com/CleverRaven/Cataclysm-DDA/pull/63667))
 * Bring elf-a hurt_tick in line with others ([#63679](https://github.com/CleverRaven/Cataclysm-DDA/pull/63679))
 * [Magiclysm] +1 and +2 pickaxe can mine now ([#63689](https://github.com/CleverRaven/Cataclysm-DDA/pull/63689))
 * Routine tileset updates on 19 February 2023 ([#63682](https://github.com/CleverRaven/Cataclysm-DDA/pull/63682))
