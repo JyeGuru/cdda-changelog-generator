@@ -159,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2023-02-26-0616 ([e6e4825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-0616))
 
 * Mana softening ([#63795](https://github.com/CleverRaven/Cataclysm-DDA/pull/63795))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-26-0103 ([dc8a598](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-0103))
-
 * Revert "Support Mac arm64" ([#63797](https://github.com/CleverRaven/Cataclysm-DDA/pull/63797))
 * fix getting sick having the exponent first wrongly ([#63707](https://github.com/CleverRaven/Cataclysm-DDA/pull/63707))
 * Fix IFF edge case for unseen player ([#63790](https://github.com/CleverRaven/Cataclysm-DDA/pull/63790))
