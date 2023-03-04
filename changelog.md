@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-04-0821 ([2f3951e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-04-0821))
+
 * Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
 
 ---
@@ -154,11 +159,6 @@
 * map: downgrade deprecated overlap debug message ([#63802](https://github.com/CleverRaven/Cataclysm-DDA/pull/63802))
 * creature: use per-creature effect schedule ([#63800](https://github.com/CleverRaven/Cataclysm-DDA/pull/63800))
 * mon/nursebot: don't try to remove included bionics ([#63799](https://github.com/CleverRaven/Cataclysm-DDA/pull/63799))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-26-1920 ([a921704](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-1920))
-
 * Fix NPCs unable to trade items away if they have no pockets ([#63789](https://github.com/CleverRaven/Cataclysm-DDA/pull/63789))
 * Mana softening ([#63795](https://github.com/CleverRaven/Cataclysm-DDA/pull/63795))
 * Revert "Support Mac arm64" ([#63797](https://github.com/CleverRaven/Cataclysm-DDA/pull/63797))
