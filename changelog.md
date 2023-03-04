@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-04-0252 ([4ea6fb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-04-0252))
+
 * Make adhesive bandages recipe craft multiples. ([#63824](https://github.com/CleverRaven/Cataclysm-DDA/pull/63824))
 * Painted walls addition and tweaks ([#63876](https://github.com/CleverRaven/Cataclysm-DDA/pull/63876))
 * Makes Nictating Membrane conflict with the Protective Lenses CBM ([#63881](https://github.com/CleverRaven/Cataclysm-DDA/pull/63881))
@@ -154,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2023-02-26-1920 ([a921704](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-1920))
 
 * Fix NPCs unable to trade items away if they have no pockets ([#63789](https://github.com/CleverRaven/Cataclysm-DDA/pull/63789))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-26-0616 ([e6e4825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-0616))
-
 * Mana softening ([#63795](https://github.com/CleverRaven/Cataclysm-DDA/pull/63795))
 * Revert "Support Mac arm64" ([#63797](https://github.com/CleverRaven/Cataclysm-DDA/pull/63797))
 * fix getting sick having the exponent first wrongly ([#63707](https://github.com/CleverRaven/Cataclysm-DDA/pull/63707))
