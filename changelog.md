@@ -25,6 +25,11 @@
 * Polish some of the NPC introductory text ([#63879](https://github.com/CleverRaven/Cataclysm-DDA/pull/63879))
 * Mutant Cats & Dogs: A Tale of Nether & Confusion ([#63878](https://github.com/CleverRaven/Cataclysm-DDA/pull/63878))
 * Cutters not shears ([#63863](https://github.com/CleverRaven/Cataclysm-DDA/pull/63863))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-03-1238 ([1eb525f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-03-1238))
+
 * Adjust "keg" furniture UI ([#63877](https://github.com/CleverRaven/Cataclysm-DDA/pull/63877))
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
 
@@ -118,6 +123,11 @@
 #### Cataclysm-DDA experimental build 2023-02-27-2328 ([67857e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-2328))
 
 * fix incorrect/missing mutation conflicts in bionics.json ([#63826](https://github.com/CleverRaven/Cataclysm-DDA/pull/63826))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-02-27-1314 ([b40c099](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-1314))
+
 * inv_ui: double check entry denial cache ([#63828](https://github.com/CleverRaven/Cataclysm-DDA/pull/63828))
 
 ---
@@ -137,11 +147,6 @@
 #### Cataclysm-DDA experimental build 2023-02-27-0043 ([c5f80d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-0043))
 
 * Routine tileset updates on 26 February 2023 ([#63818](https://github.com/CleverRaven/Cataclysm-DDA/pull/63818))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-26-2104 ([5549c65](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-2104))
-
 * iuse/constr: allow digging adjacent shallow pits ([#63812](https://github.com/CleverRaven/Cataclysm-DDA/pull/63812))
 * inv_ui: defer calculating denial ([#63811](https://github.com/CleverRaven/Cataclysm-DDA/pull/63811))
 * item: fix items leaking out of pockets ([#63808](https://github.com/CleverRaven/Cataclysm-DDA/pull/63808))
@@ -149,23 +154,8 @@
 * map: downgrade deprecated overlap debug message ([#63802](https://github.com/CleverRaven/Cataclysm-DDA/pull/63802))
 * creature: use per-creature effect schedule ([#63800](https://github.com/CleverRaven/Cataclysm-DDA/pull/63800))
 * mon/nursebot: don't try to remove included bionics ([#63799](https://github.com/CleverRaven/Cataclysm-DDA/pull/63799))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-26-1920 ([a921704](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-1920))
-
 * Fix NPCs unable to trade items away if they have no pockets ([#63789](https://github.com/CleverRaven/Cataclysm-DDA/pull/63789))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-26-0616 ([e6e4825](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-0616))
-
 * Mana softening ([#63795](https://github.com/CleverRaven/Cataclysm-DDA/pull/63795))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-26-0103 ([dc8a598](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-26-0103))
-
 * Revert "Support Mac arm64" ([#63797](https://github.com/CleverRaven/Cataclysm-DDA/pull/63797))
 * fix getting sick having the exponent first wrongly ([#63707](https://github.com/CleverRaven/Cataclysm-DDA/pull/63707))
 * Fix IFF edge case for unseen player ([#63790](https://github.com/CleverRaven/Cataclysm-DDA/pull/63790))
