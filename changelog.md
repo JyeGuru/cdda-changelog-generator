@@ -1,3 +1,7 @@
+* Trapdoor spider den mapgen clearing flags ([#63911](https://github.com/CleverRaven/Cataclysm-DDA/pull/63911))
+* Fix a typo ([#63912](https://github.com/CleverRaven/Cataclysm-DDA/pull/63912))
+* Fix copy from for recipes with result_eocs ([#63916](https://github.com/CleverRaven/Cataclysm-DDA/pull/63916))
+* Allow EOCs to alter faction respect, like ([#63919](https://github.com/CleverRaven/Cataclysm-DDA/pull/63919))
 * Remove redundant "not a corpse" check ([#63934](https://github.com/CleverRaven/Cataclysm-DDA/pull/63934))
 * NPCs documentation cleanup ([#63924](https://github.com/CleverRaven/Cataclysm-DDA/pull/63924))
 * Point `JSON_FLAGS.md` to `MAPGEN.md` for mapgen flags ([#63929](https://github.com/CleverRaven/Cataclysm-DDA/pull/63929))
@@ -53,8 +57,6 @@
 * Fixes mobile home park road connections ([#63778](https://github.com/CleverRaven/Cataclysm-DDA/pull/63778))
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
 * Tune down trapdoor spider spawns ([#63853](https://github.com/CleverRaven/Cataclysm-DDA/pull/63853))
-* item: fix category for contents without charges ([#63710](https://github.com/CleverRaven/Cataclysm-DDA/pull/63710))
-* Add a makeshift welding blanket ([#63706](https://github.com/CleverRaven/Cataclysm-DDA/pull/63706))
 * Bionic fitness band ([#63735](https://github.com/CleverRaven/Cataclysm-DDA/pull/63735))
 * Fix compilations errors (int > dbl) ([#63856](https://github.com/CleverRaven/Cataclysm-DDA/pull/63856))
 
@@ -85,7 +87,6 @@
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
 * fix: github astyle code style suggestions ([#63820](https://github.com/CleverRaven/Cataclysm-DDA/pull/63820))
-* Spell menu: add scrollbar to spell info ([#63705](https://github.com/CleverRaven/Cataclysm-DDA/pull/63705))
 
 ---
 
@@ -164,7 +165,6 @@
 * Fix NPCs unable to trade items away if they have no pockets ([#63789](https://github.com/CleverRaven/Cataclysm-DDA/pull/63789))
 * Mana softening ([#63795](https://github.com/CleverRaven/Cataclysm-DDA/pull/63795))
 * Revert "Support Mac arm64" ([#63797](https://github.com/CleverRaven/Cataclysm-DDA/pull/63797))
-* fix getting sick having the exponent first wrongly ([#63707](https://github.com/CleverRaven/Cataclysm-DDA/pull/63707))
 * Fix IFF edge case for unseen player ([#63790](https://github.com/CleverRaven/Cataclysm-DDA/pull/63790))
 * Add ingested calories to the calorie diary only when the player is doing the eating ([#63785](https://github.com/CleverRaven/Cataclysm-DDA/pull/63785))
 * debug/tgz: fix min archive for player on different zlevel ([#63783](https://github.com/CleverRaven/Cataclysm-DDA/pull/63783))
