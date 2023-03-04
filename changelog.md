@@ -1,3 +1,4 @@
+* Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
 
 ---
 
@@ -175,7 +176,6 @@
 * Say ID of item that does not exist for migrations ([#63721](https://github.com/CleverRaven/Cataclysm-DDA/pull/63721))
 * Rework basement spawns ([#63713](https://github.com/CleverRaven/Cataclysm-DDA/pull/63713))
 * Support Mac arm64 ([#63702](https://github.com/CleverRaven/Cataclysm-DDA/pull/63702))
-* [Magiclysm] some unarmed fixes ([#63688](https://github.com/CleverRaven/Cataclysm-DDA/pull/63688))
 * Lower damage for BB gun ([#63763](https://github.com/CleverRaven/Cataclysm-DDA/pull/63763))
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
 * Fix vehicle::discharge_battery charging ([#63732](https://github.com/CleverRaven/Cataclysm-DDA/pull/63732))

@@ -1,3 +1,4 @@
+* Routine i18n updates on 04 March 2023 (#63920)
 
 Cataclysm-DDA experimental build 2023-03-04-0252 (4ea6fb5)
 * Make adhesive bandages recipe craft multiples. (#63824)
@@ -112,7 +113,6 @@ Cataclysm-DDA experimental build 2023-02-26-1920 (a921704)
 * Say ID of item that does not exist for migrations (#63721)
 * Rework basement spawns (#63713)
 * Support Mac arm64 (#63702)
-* [Magiclysm] some unarmed fixes (#63688)
 * Lower damage for BB gun (#63763)
 * make chimera not fight over its tail (#63774)
 * Fix vehicle::discharge_battery charging (#63732)
