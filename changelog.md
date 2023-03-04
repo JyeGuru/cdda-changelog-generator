@@ -1,3 +1,4 @@
+* Remove redundant "not a corpse" check ([#63934](https://github.com/CleverRaven/Cataclysm-DDA/pull/63934))
 * NPCs documentation cleanup ([#63924](https://github.com/CleverRaven/Cataclysm-DDA/pull/63924))
 * Point `JSON_FLAGS.md` to `MAPGEN.md` for mapgen flags ([#63929](https://github.com/CleverRaven/Cataclysm-DDA/pull/63929))
 * fix double tux in json ([#63941](https://github.com/CleverRaven/Cataclysm-DDA/pull/63941))
@@ -5,6 +6,11 @@
 * [DinoMod] wilderness spawn rework ([#63861](https://github.com/CleverRaven/Cataclysm-DDA/pull/63861))
 * [DinoMod] acid blood ([#63869](https://github.com/CleverRaven/Cataclysm-DDA/pull/63869))
 * Butchering Rack Recipe Tweak ([#63890](https://github.com/CleverRaven/Cataclysm-DDA/pull/63890))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-04-2101 ([eed25b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-04-2101))
+
 * Stop meteorologist from dying ([#63898](https://github.com/CleverRaven/Cataclysm-DDA/pull/63898))
 
 ---
@@ -147,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2023-02-27-0253 ([da40be2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-0253))
 
 * Remove portal resurrection ([#63822](https://github.com/CleverRaven/Cataclysm-DDA/pull/63822))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-27-0043 ([c5f80d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-0043))
-
 * Routine tileset updates on 26 February 2023 ([#63818](https://github.com/CleverRaven/Cataclysm-DDA/pull/63818))
 * iuse/constr: allow digging adjacent shallow pits ([#63812](https://github.com/CleverRaven/Cataclysm-DDA/pull/63812))
 * inv_ui: defer calculating denial ([#63811](https://github.com/CleverRaven/Cataclysm-DDA/pull/63811))
@@ -182,7 +183,6 @@
 * Fix "detect translation file changes" workflow ([#63731](https://github.com/CleverRaven/Cataclysm-DDA/pull/63731))
 * Consistency earthshaper weapon change ([#63739](https://github.com/CleverRaven/Cataclysm-DDA/pull/63739))
 * Fix renfield weapon drops ([#63726](https://github.com/CleverRaven/Cataclysm-DDA/pull/63726))
-* Add my Patreon to the donations page ([#63703](https://github.com/CleverRaven/Cataclysm-DDA/pull/63703))
 * debug/tgz: trim overmapbuffer in minimized archive ([#63717](https://github.com/CleverRaven/Cataclysm-DDA/pull/63717))
 * item: colorize medicine and healing tools ([#63711](https://github.com/CleverRaven/Cataclysm-DDA/pull/63711))
 * Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))
