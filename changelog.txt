@@ -19,8 +19,6 @@ Cataclysm-DDA experimental build 2023-03-04-0252 (4ea6fb5)
 * Polish some of the NPC introductory text (#63879)
 * Mutant Cats & Dogs: A Tale of Nether & Confusion (#63878)
 * Cutters not shears (#63863)
-
-Cataclysm-DDA experimental build 2023-03-03-1238 (1eb525f)
 * Adjust "keg" furniture UI (#63877)
 * Default overmap tiles (#63887)
 
@@ -75,8 +73,6 @@ Cataclysm-DDA experimental build 2023-02-28-0347 (c51e526)
 
 Cataclysm-DDA experimental build 2023-02-27-2328 (67857e9)
 * fix incorrect/missing mutation conflicts in bionics.json (#63826)
-
-Cataclysm-DDA experimental build 2023-02-27-1314 (b40c099)
 * inv_ui: double check entry denial cache (#63828)
 
 Cataclysm-DDA experimental build 2023-02-27-0627 (c8bb90f)
@@ -87,6 +83,8 @@ Cataclysm-DDA experimental build 2023-02-27-0253 (da40be2)
 
 Cataclysm-DDA experimental build 2023-02-27-0043 (c5f80d4)
 * Routine tileset updates on 26 February 2023 (#63818)
+
+Cataclysm-DDA experimental build 2023-02-26-2104 (5549c65)
 * iuse/constr: allow digging adjacent shallow pits (#63812)
 * inv_ui: defer calculating denial (#63811)
 * item: fix items leaking out of pockets (#63808)
@@ -94,8 +92,14 @@ Cataclysm-DDA experimental build 2023-02-27-0043 (c5f80d4)
 * map: downgrade deprecated overlap debug message (#63802)
 * creature: use per-creature effect schedule (#63800)
 * mon/nursebot: don't try to remove included bionics (#63799)
+
+Cataclysm-DDA experimental build 2023-02-26-1920 (a921704)
 * Fix NPCs unable to trade items away if they have no pockets (#63789)
+
+Cataclysm-DDA experimental build 2023-02-26-0616 (e6e4825)
 * Mana softening (#63795)
+
+Cataclysm-DDA experimental build 2023-02-26-0103 (dc8a598)
 * Revert "Support Mac arm64" (#63797)
 * fix getting sick having the exponent first wrongly (#63707)
 * Fix IFF edge case for unseen player (#63790)
