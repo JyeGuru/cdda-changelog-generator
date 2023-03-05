@@ -1,3 +1,4 @@
+* Makes earthshaper cestus nonconductive ([#63960](https://github.com/CleverRaven/Cataclysm-DDA/pull/63960))
 * Makes Avian Eyes have the prerequirement of Insanely Perceptive ([#63905](https://github.com/CleverRaven/Cataclysm-DDA/pull/63905))
 * Trapdoor spider den mapgen clearing flags ([#63911](https://github.com/CleverRaven/Cataclysm-DDA/pull/63911))
 * Fix a typo ([#63912](https://github.com/CleverRaven/Cataclysm-DDA/pull/63912))
@@ -167,7 +168,6 @@
 * Correctly handle liquid's birthday when stored into standing tanks ([#63760](https://github.com/CleverRaven/Cataclysm-DDA/pull/63760))
 * Exodii quadruped fixes ([#63730](https://github.com/CleverRaven/Cataclysm-DDA/pull/63730))
 * Say ID of item that does not exist for migrations ([#63721](https://github.com/CleverRaven/Cataclysm-DDA/pull/63721))
-* Rework basement spawns ([#63713](https://github.com/CleverRaven/Cataclysm-DDA/pull/63713))
 * Lower damage for BB gun ([#63763](https://github.com/CleverRaven/Cataclysm-DDA/pull/63763))
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
 * Fix vehicle::discharge_battery charging ([#63732](https://github.com/CleverRaven/Cataclysm-DDA/pull/63732))
