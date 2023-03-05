@@ -1,3 +1,9 @@
+* Prune 0.G migrations ([#63915](https://github.com/CleverRaven/Cataclysm-DDA/pull/63915))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-05-1800 ([0cdab8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-05-1800))
+
 * More ant-related things ([#63854](https://github.com/CleverRaven/Cataclysm-DDA/pull/63854))
 * Aftershock: Reduce deadliness and frequency of ruin robots ([#63938](https://github.com/CleverRaven/Cataclysm-DDA/pull/63938))
 * [Xedra Evolved] Grammar touchups ([#63961](https://github.com/CleverRaven/Cataclysm-DDA/pull/63961))
@@ -151,11 +157,6 @@
 #### Cataclysm-DDA experimental build 2023-02-28-0347 ([c51e526](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-0347))
 
 * Revert "Revert "Support Mac arm64"" ([#63832](https://github.com/CleverRaven/Cataclysm-DDA/pull/63832))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-27-2328 ([67857e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-2328))
-
 * fix incorrect/missing mutation conflicts in bionics.json ([#63826](https://github.com/CleverRaven/Cataclysm-DDA/pull/63826))
 * inv_ui: double check entry denial cache ([#63828](https://github.com/CleverRaven/Cataclysm-DDA/pull/63828))
 * Make MOLLE belts not conduct electricity ([#63755](https://github.com/CleverRaven/Cataclysm-DDA/pull/63755))
