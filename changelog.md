@@ -1,3 +1,4 @@
+* Makes Avian Eyes have the prerequirement of Insanely Perceptive ([#63905](https://github.com/CleverRaven/Cataclysm-DDA/pull/63905))
 * Trapdoor spider den mapgen clearing flags ([#63911](https://github.com/CleverRaven/Cataclysm-DDA/pull/63911))
 * Fix a typo ([#63912](https://github.com/CleverRaven/Cataclysm-DDA/pull/63912))
 * Fix copy from for recipes with result_eocs ([#63916](https://github.com/CleverRaven/Cataclysm-DDA/pull/63916))
@@ -174,5 +175,4 @@
 * Consistency earthshaper weapon change ([#63739](https://github.com/CleverRaven/Cataclysm-DDA/pull/63739))
 * Fix renfield weapon drops ([#63726](https://github.com/CleverRaven/Cataclysm-DDA/pull/63726))
 * debug/tgz: trim overmapbuffer in minimized archive ([#63717](https://github.com/CleverRaven/Cataclysm-DDA/pull/63717))
-* item: colorize medicine and healing tools ([#63711](https://github.com/CleverRaven/Cataclysm-DDA/pull/63711))
 * Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))
