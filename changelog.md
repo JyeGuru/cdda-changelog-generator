@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-05-1526 ([5bb813e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-05-1526))
+
 * Makes earthshaper cestus nonconductive ([#63960](https://github.com/CleverRaven/Cataclysm-DDA/pull/63960))
 * Makes Avian Eyes have the prerequirement of Insanely Perceptive ([#63905](https://github.com/CleverRaven/Cataclysm-DDA/pull/63905))
 * Trapdoor spider den mapgen clearing flags ([#63911](https://github.com/CleverRaven/Cataclysm-DDA/pull/63911))
@@ -138,11 +143,6 @@
 #### Cataclysm-DDA experimental build 2023-02-27-2328 ([67857e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-2328))
 
 * fix incorrect/missing mutation conflicts in bionics.json ([#63826](https://github.com/CleverRaven/Cataclysm-DDA/pull/63826))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-27-1314 ([b40c099](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-1314))
-
 * inv_ui: double check entry denial cache ([#63828](https://github.com/CleverRaven/Cataclysm-DDA/pull/63828))
 * Make MOLLE belts not conduct electricity ([#63755](https://github.com/CleverRaven/Cataclysm-DDA/pull/63755))
 * Remove portal resurrection ([#63822](https://github.com/CleverRaven/Cataclysm-DDA/pull/63822))
