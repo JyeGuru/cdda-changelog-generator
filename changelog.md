@@ -142,11 +142,6 @@
 #### Cataclysm-DDA experimental build 2023-02-27-1314 ([b40c099](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-1314))
 
 * inv_ui: double check entry denial cache ([#63828](https://github.com/CleverRaven/Cataclysm-DDA/pull/63828))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-27-0627 ([c8bb90f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-0627))
-
 * Make MOLLE belts not conduct electricity ([#63755](https://github.com/CleverRaven/Cataclysm-DDA/pull/63755))
 * Remove portal resurrection ([#63822](https://github.com/CleverRaven/Cataclysm-DDA/pull/63822))
 * Routine tileset updates on 26 February 2023 ([#63818](https://github.com/CleverRaven/Cataclysm-DDA/pull/63818))
