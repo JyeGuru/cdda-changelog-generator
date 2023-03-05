@@ -1,3 +1,4 @@
+* Add power function to EOC, remove bitwise operations ([#63892](https://github.com/CleverRaven/Cataclysm-DDA/pull/63892))
 
 ---
 
@@ -179,5 +180,4 @@
 * Correctly handle liquid's birthday when stored into standing tanks ([#63760](https://github.com/CleverRaven/Cataclysm-DDA/pull/63760))
 * Lower damage for BB gun ([#63763](https://github.com/CleverRaven/Cataclysm-DDA/pull/63763))
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
-* Fix vehicle::discharge_battery charging ([#63732](https://github.com/CleverRaven/Cataclysm-DDA/pull/63732))
 * Consistency earthshaper weapon change ([#63739](https://github.com/CleverRaven/Cataclysm-DDA/pull/63739))
