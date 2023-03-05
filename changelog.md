@@ -1,3 +1,4 @@
+* Aftershock: Reduce deadliness and frequency of ruin robots ([#63938](https://github.com/CleverRaven/Cataclysm-DDA/pull/63938))
 * [Xedra Evolved] Grammar touchups ([#63961](https://github.com/CleverRaven/Cataclysm-DDA/pull/63961))
 * Add power function to EOC, remove bitwise operations ([#63892](https://github.com/CleverRaven/Cataclysm-DDA/pull/63892))
 
@@ -77,7 +78,6 @@
 * Fixes mobile home park road connections ([#63778](https://github.com/CleverRaven/Cataclysm-DDA/pull/63778))
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
 * Tune down trapdoor spider spawns ([#63853](https://github.com/CleverRaven/Cataclysm-DDA/pull/63853))
-* Bionic fitness band ([#63735](https://github.com/CleverRaven/Cataclysm-DDA/pull/63735))
 * Fix compilations errors (int > dbl) ([#63856](https://github.com/CleverRaven/Cataclysm-DDA/pull/63856))
 
 ---
