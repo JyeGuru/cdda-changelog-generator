@@ -91,8 +91,6 @@ Cataclysm-DDA experimental build 2023-02-27-1314 (b40c099)
 
 Cataclysm-DDA experimental build 2023-02-27-0627 (c8bb90f)
 * Make MOLLE belts not conduct electricity (#63755)
-
-Cataclysm-DDA experimental build 2023-02-27-0253 (da40be2)
 * Remove portal resurrection (#63822)
 * Routine tileset updates on 26 February 2023 (#63818)
 * iuse/constr: allow digging adjacent shallow pits (#63812)

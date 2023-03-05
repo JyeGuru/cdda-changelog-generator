@@ -148,11 +148,6 @@
 #### Cataclysm-DDA experimental build 2023-02-27-0627 ([c8bb90f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-0627))
 
 * Make MOLLE belts not conduct electricity ([#63755](https://github.com/CleverRaven/Cataclysm-DDA/pull/63755))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-27-0253 ([da40be2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-27-0253))
-
 * Remove portal resurrection ([#63822](https://github.com/CleverRaven/Cataclysm-DDA/pull/63822))
 * Routine tileset updates on 26 February 2023 ([#63818](https://github.com/CleverRaven/Cataclysm-DDA/pull/63818))
 * iuse/constr: allow digging adjacent shallow pits ([#63812](https://github.com/CleverRaven/Cataclysm-DDA/pull/63812))
