@@ -1,3 +1,4 @@
+* Fix typo in JSON_INFO.md ([#63921](https://github.com/CleverRaven/Cataclysm-DDA/pull/63921))
 * add bungalow 13 and 14 ([#63923](https://github.com/CleverRaven/Cataclysm-DDA/pull/63923))
 * Add rudimentary bionics migrations ([#63917](https://github.com/CleverRaven/Cataclysm-DDA/pull/63917))
 * Fix litcig burn out gated behind one-in-10 random chance ([#63946](https://github.com/CleverRaven/Cataclysm-DDA/pull/63946))
@@ -174,5 +175,4 @@
 * Lower damage for BB gun ([#63763](https://github.com/CleverRaven/Cataclysm-DDA/pull/63763))
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
 * Fix vehicle::discharge_battery charging ([#63732](https://github.com/CleverRaven/Cataclysm-DDA/pull/63732))
-* Fix "detect translation file changes" workflow ([#63731](https://github.com/CleverRaven/Cataclysm-DDA/pull/63731))
 * Consistency earthshaper weapon change ([#63739](https://github.com/CleverRaven/Cataclysm-DDA/pull/63739))
