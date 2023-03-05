@@ -1,3 +1,4 @@
+* More ant-related things ([#63854](https://github.com/CleverRaven/Cataclysm-DDA/pull/63854))
 * Aftershock: Reduce deadliness and frequency of ruin robots ([#63938](https://github.com/CleverRaven/Cataclysm-DDA/pull/63938))
 * [Xedra Evolved] Grammar touchups ([#63961](https://github.com/CleverRaven/Cataclysm-DDA/pull/63961))
 * Add power function to EOC, remove bitwise operations ([#63892](https://github.com/CleverRaven/Cataclysm-DDA/pull/63892))
