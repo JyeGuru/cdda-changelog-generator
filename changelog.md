@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-05-1652 ([2543886](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-05-1652))
+
 * Fix typo in JSON_INFO.md ([#63921](https://github.com/CleverRaven/Cataclysm-DDA/pull/63921))
 * add bungalow 13 and 14 ([#63923](https://github.com/CleverRaven/Cataclysm-DDA/pull/63923))
 * Add rudimentary bionics migrations ([#63917](https://github.com/CleverRaven/Cataclysm-DDA/pull/63917))
