@@ -1,3 +1,4 @@
+* Prevent infinite focus from mi-go biotech ([#63951](https://github.com/CleverRaven/Cataclysm-DDA/pull/63951))
 
 ---
 
@@ -175,4 +176,3 @@
 * Consistency earthshaper weapon change ([#63739](https://github.com/CleverRaven/Cataclysm-DDA/pull/63739))
 * Fix renfield weapon drops ([#63726](https://github.com/CleverRaven/Cataclysm-DDA/pull/63726))
 * debug/tgz: trim overmapbuffer in minimized archive ([#63717](https://github.com/CleverRaven/Cataclysm-DDA/pull/63717))
-* Document automatic json linting when using Visual Studio ([#63716](https://github.com/CleverRaven/Cataclysm-DDA/pull/63716))

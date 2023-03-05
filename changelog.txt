@@ -1,3 +1,4 @@
+* Prevent infinite focus from mi-go biotech (#63951)
 
 Cataclysm-DDA experimental build 2023-03-05-1526 (5bb813e)
 * Makes earthshaper cestus nonconductive (#63960)
@@ -121,4 +122,3 @@ Cataclysm-DDA experimental build 2023-02-27-2328 (67857e9)
 * Consistency earthshaper weapon change (#63739)
 * Fix renfield weapon drops (#63726)
 * debug/tgz: trim overmapbuffer in minimized archive (#63717)
-* Document automatic json linting when using Visual Studio (#63716)
