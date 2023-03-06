@@ -100,8 +100,6 @@ Cataclysm-DDA experimental build 2023-03-02-0327 (c6acba5)
 * Validate bionic_data::mutation_conflicts consistency (#63845)
 * Allow use of faction trust for any faction in eocs (#63815)
 * fix: github astyle code style suggestions (#63820)
-
-Gaiman (d6ec466)
 * ReReRevert MacOS Arm build (#63848)
 * Fix astyle config URL in docs (#63835)
 * attempt to fix OSX builds (#63838)

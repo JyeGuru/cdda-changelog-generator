@@ -151,11 +151,6 @@
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
 * fix: github astyle code style suggestions ([#63820](https://github.com/CleverRaven/Cataclysm-DDA/pull/63820))
-
----
-
-#### Gaiman ([d6ec466](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.G))
-
 * ReReRevert MacOS Arm build ([#63848](https://github.com/CleverRaven/Cataclysm-DDA/pull/63848))
 * Fix astyle config URL in docs ([#63835](https://github.com/CleverRaven/Cataclysm-DDA/pull/63835))
 * attempt to fix OSX builds ([#63838](https://github.com/CleverRaven/Cataclysm-DDA/pull/63838))
