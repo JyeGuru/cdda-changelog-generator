@@ -151,11 +151,6 @@
 #### Cataclysm-DDA experimental build 2023-02-28-1445 ([7793b9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-1445))
 
 * attempt to fix OSX builds ([#63838](https://github.com/CleverRaven/Cataclysm-DDA/pull/63838))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-28-0738 ([f40f852](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-0738))
-
 * Remove erroneous traits from recruitable Godco NPCs ([#63831](https://github.com/CleverRaven/Cataclysm-DDA/pull/63831))
 * attempt to fix path reference in arm build ([#63833](https://github.com/CleverRaven/Cataclysm-DDA/pull/63833))
 * Semi permanent fast scroll ([#63814](https://github.com/CleverRaven/Cataclysm-DDA/pull/63814))

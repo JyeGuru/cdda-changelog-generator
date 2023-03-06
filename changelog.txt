@@ -97,8 +97,6 @@ Cataclysm-DDA experimental build 2023-02-28-2146 (f1f721e)
 
 Cataclysm-DDA experimental build 2023-02-28-1445 (7793b9e)
 * attempt to fix OSX builds (#63838)
-
-Cataclysm-DDA experimental build 2023-02-28-0738 (f40f852)
 * Remove erroneous traits from recruitable Godco NPCs (#63831)
 * attempt to fix path reference in arm build (#63833)
 * Semi permanent fast scroll (#63814)
