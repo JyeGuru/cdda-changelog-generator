@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-06-0713 ([463060d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-06-0713))
+
 * Allow the morningstar to be clipped to an appropriate belt ([#63927](https://github.com/CleverRaven/Cataclysm-DDA/pull/63927))
 * Routine tileset updates on 05 March 2023 ([#63979](https://github.com/CleverRaven/Cataclysm-DDA/pull/63979))
 
@@ -142,11 +147,6 @@
 #### Gaiman ([d6ec466](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/0.G))
 
 * ReReRevert MacOS Arm build ([#63848](https://github.com/CleverRaven/Cataclysm-DDA/pull/63848))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-28-2146 ([f1f721e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-2146))
-
 * Fix astyle config URL in docs ([#63835](https://github.com/CleverRaven/Cataclysm-DDA/pull/63835))
 * attempt to fix OSX builds ([#63838](https://github.com/CleverRaven/Cataclysm-DDA/pull/63838))
 * Remove erroneous traits from recruitable Godco NPCs ([#63831](https://github.com/CleverRaven/Cataclysm-DDA/pull/63831))
