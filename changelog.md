@@ -1,3 +1,11 @@
+* Misc Item Changes Again ([#63909](https://github.com/CleverRaven/Cataclysm-DDA/pull/63909))
+* Screech voice addition ([#63969](https://github.com/CleverRaven/Cataclysm-DDA/pull/63969))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-06-0055 ([d9e21d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-06-0055))
+
+* Remove erroneous `SHALLOW_WATER` flag from `t_swater_dp` ([#63976](https://github.com/CleverRaven/Cataclysm-DDA/pull/63976))
 
 ---
 
@@ -116,7 +124,6 @@
 #### Cataclysm-DDA experimental build 2023-03-01-2354 ([135b6aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-01-2354))
 
 * Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
-* Add real dark gray from the 256 color palette ([#63751](https://github.com/CleverRaven/Cataclysm-DDA/pull/63751))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
 * fix: github astyle code style suggestions ([#63820](https://github.com/CleverRaven/Cataclysm-DDA/pull/63820))
@@ -151,16 +158,10 @@
 
 * Remove erroneous traits from recruitable Godco NPCs ([#63831](https://github.com/CleverRaven/Cataclysm-DDA/pull/63831))
 * attempt to fix path reference in arm build ([#63833](https://github.com/CleverRaven/Cataclysm-DDA/pull/63833))
-
----
-
-#### Cataclysm-DDA experimental build 2023-02-28-0607 ([9fe0c1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-02-28-0607))
-
 * Semi permanent fast scroll ([#63814](https://github.com/CleverRaven/Cataclysm-DDA/pull/63814))
 * Revert "Revert "Support Mac arm64"" ([#63832](https://github.com/CleverRaven/Cataclysm-DDA/pull/63832))
 * fix incorrect/missing mutation conflicts in bionics.json ([#63826](https://github.com/CleverRaven/Cataclysm-DDA/pull/63826))
 * inv_ui: double check entry denial cache ([#63828](https://github.com/CleverRaven/Cataclysm-DDA/pull/63828))
-* Make MOLLE belts not conduct electricity ([#63755](https://github.com/CleverRaven/Cataclysm-DDA/pull/63755))
 * Remove portal resurrection ([#63822](https://github.com/CleverRaven/Cataclysm-DDA/pull/63822))
 * Routine tileset updates on 26 February 2023 ([#63818](https://github.com/CleverRaven/Cataclysm-DDA/pull/63818))
 * iuse/constr: allow digging adjacent shallow pits ([#63812](https://github.com/CleverRaven/Cataclysm-DDA/pull/63812))
