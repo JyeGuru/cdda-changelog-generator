@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-06-1432 ([799c507](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-06-1432))
+
 * Delete Magiclysm Graphical Overmap ([#63988](https://github.com/CleverRaven/Cataclysm-DDA/pull/63988))
 * Delete CRT ([#63987](https://github.com/CleverRaven/Cataclysm-DDA/pull/63987))
 * Update the table of contents in doc/JSON_INFO.md ([#63993](https://github.com/CleverRaven/Cataclysm-DDA/pull/63993))
