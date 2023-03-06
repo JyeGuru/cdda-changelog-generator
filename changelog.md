@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-06-1610 ([e3a0293](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-06-1610))
+
 * remove hypervitaminosis reference from iron vitamin ([#63868](https://github.com/CleverRaven/Cataclysm-DDA/pull/63868))
 
 ---
@@ -141,11 +146,6 @@
 #### Cataclysm-DDA experimental build 2023-03-02-0327 ([c6acba5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-02-0327))
 
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-01-2354 ([135b6aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-01-2354))
-
 * Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
