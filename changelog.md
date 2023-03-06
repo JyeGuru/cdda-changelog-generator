@@ -1,3 +1,6 @@
+* Delete Magiclysm Graphical Overmap ([#63988](https://github.com/CleverRaven/Cataclysm-DDA/pull/63988))
+* Delete CRT ([#63987](https://github.com/CleverRaven/Cataclysm-DDA/pull/63987))
+* Update the table of contents in doc/JSON_INFO.md ([#63993](https://github.com/CleverRaven/Cataclysm-DDA/pull/63993))
 
 ---
 
@@ -172,7 +175,4 @@
 * debug/tgz: fix min archive for player on different zlevel ([#63783](https://github.com/CleverRaven/Cataclysm-DDA/pull/63783))
 * Attempts to fix marina spawns ([#63771](https://github.com/CleverRaven/Cataclysm-DDA/pull/63771))
 * Fix my sloppy errors regarding Chimera integrated armors ([#63770](https://github.com/CleverRaven/Cataclysm-DDA/pull/63770))
-* Fix flying insects not benefiting from their intended effect resistance ([#63769](https://github.com/CleverRaven/Cataclysm-DDA/pull/63769))
-* Fix vigilant amalgamations' scream frequency ([#63768](https://github.com/CleverRaven/Cataclysm-DDA/pull/63768))
-* Only allow quickload from debug menu ([#63767](https://github.com/CleverRaven/Cataclysm-DDA/pull/63767))
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
