@@ -1,3 +1,4 @@
+* Remove 0.F artifact migration (#63975)
 
 Cataclysm-DDA experimental build 2023-03-06-1610 (e3a0293)
 * remove hypervitaminosis reference from iron vitamin (#63868)
@@ -125,5 +126,4 @@ Gaiman (d6ec466)
 * Fix IFF edge case for unseen player (#63790)
 * Add ingested calories to the calorie diary only when the player is doing the eating (#63785)
 * debug/tgz: fix min archive for player on different zlevel (#63783)
-* Attempts to fix marina spawns (#63771)
 * make chimera not fight over its tail (#63774)

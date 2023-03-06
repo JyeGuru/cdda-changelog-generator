@@ -1,3 +1,4 @@
+* Remove 0.F artifact migration ([#63975](https://github.com/CleverRaven/Cataclysm-DDA/pull/63975))
 
 ---
 
@@ -179,5 +180,4 @@
 * Fix IFF edge case for unseen player ([#63790](https://github.com/CleverRaven/Cataclysm-DDA/pull/63790))
 * Add ingested calories to the calorie diary only when the player is doing the eating ([#63785](https://github.com/CleverRaven/Cataclysm-DDA/pull/63785))
 * debug/tgz: fix min archive for player on different zlevel ([#63783](https://github.com/CleverRaven/Cataclysm-DDA/pull/63783))
-* Attempts to fix marina spawns ([#63771](https://github.com/CleverRaven/Cataclysm-DDA/pull/63771))
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
