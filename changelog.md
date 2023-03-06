@@ -1,3 +1,5 @@
+* Delete Dark Skies Above ([#63981](https://github.com/CleverRaven/Cataclysm-DDA/pull/63981))
+* flip overmap tiles to default true ([#63983](https://github.com/CleverRaven/Cataclysm-DDA/pull/63983))
 * Misc Item Changes Again ([#63909](https://github.com/CleverRaven/Cataclysm-DDA/pull/63909))
 * Screech voice addition ([#63969](https://github.com/CleverRaven/Cataclysm-DDA/pull/63969))
 
@@ -177,6 +179,5 @@
 * Fix flying insects not benefiting from their intended effect resistance ([#63769](https://github.com/CleverRaven/Cataclysm-DDA/pull/63769))
 * Fix vigilant amalgamations' scream frequency ([#63768](https://github.com/CleverRaven/Cataclysm-DDA/pull/63768))
 * Only allow quickload from debug menu ([#63767](https://github.com/CleverRaven/Cataclysm-DDA/pull/63767))
-* Correctly handle liquid's birthday when stored into standing tanks ([#63760](https://github.com/CleverRaven/Cataclysm-DDA/pull/63760))
 * Lower damage for BB gun ([#63763](https://github.com/CleverRaven/Cataclysm-DDA/pull/63763))
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
