@@ -1,3 +1,6 @@
+* Routine tileset updates on 05 March 2023 (#63979)
+
+Cataclysm-DDA experimental build 2023-03-06-0514 (adb4bf9)
 * Delete Dark Skies Above (#63981)
 * flip overmap tiles to default true (#63983)
 * Misc Item Changes Again (#63909)
@@ -88,16 +91,11 @@ Cataclysm-DDA experimental build 2023-03-01-2354 (135b6aa)
 * Allow use of faction trust for any faction in eocs (#63815)
 * fix: github astyle code style suggestions (#63820)
 
-Cataclysm-DDA experimental build 2023-03-01-0613 (786a04d)
-* submap: lazily allocate uniform submaps (#63762)
-
 Gaiman (d6ec466)
 * ReReRevert MacOS Arm build (#63848)
 
 Cataclysm-DDA experimental build 2023-02-28-2146 (f1f721e)
 * Fix astyle config URL in docs (#63835)
-
-Cataclysm-DDA experimental build 2023-02-28-1445 (7793b9e)
 * attempt to fix OSX builds (#63838)
 * Remove erroneous traits from recruitable Godco NPCs (#63831)
 * attempt to fix path reference in arm build (#63833)
