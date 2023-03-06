@@ -93,8 +93,6 @@ Cataclysm-DDA experimental build 2023-03-02-0619 (8c9029f)
 
 Cataclysm-DDA experimental build 2023-03-02-0428 (4ad561b)
 * bump hardcode version in release.yml (#63865)
-
-Cataclysm-DDA experimental build 2023-03-02-0327 (c6acba5)
 * fix release version numbers (#63862)
 * Update documentation about neutral mutations (#63793)
 * Validate bionic_data::mutation_conflicts consistency (#63845)

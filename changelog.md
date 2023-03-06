@@ -141,11 +141,6 @@
 #### Cataclysm-DDA experimental build 2023-03-02-0428 ([4ad561b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-02-0428))
 
 * bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-02-0327 ([c6acba5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-02-0327))
-
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
 * Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
