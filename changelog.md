@@ -1,3 +1,4 @@
+* remove hypervitaminosis reference from iron vitamin ([#63868](https://github.com/CleverRaven/Cataclysm-DDA/pull/63868))
 
 ---
 
@@ -179,5 +180,4 @@
 * Add ingested calories to the calorie diary only when the player is doing the eating ([#63785](https://github.com/CleverRaven/Cataclysm-DDA/pull/63785))
 * debug/tgz: fix min archive for player on different zlevel ([#63783](https://github.com/CleverRaven/Cataclysm-DDA/pull/63783))
 * Attempts to fix marina spawns ([#63771](https://github.com/CleverRaven/Cataclysm-DDA/pull/63771))
-* Fix my sloppy errors regarding Chimera integrated armors ([#63770](https://github.com/CleverRaven/Cataclysm-DDA/pull/63770))
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
