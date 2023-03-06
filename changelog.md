@@ -35,6 +35,11 @@
 #### Cataclysm-DDA experimental build 2023-03-06-0055 ([d9e21d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-06-0055))
 
 * Remove erroneous `SHALLOW_WATER` flag from `t_swater_dp` ([#63976](https://github.com/CleverRaven/Cataclysm-DDA/pull/63976))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-05-2028 ([8382eec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-05-2028))
+
 * Paint requirement fixes for practice and some construction recipes ([#63972](https://github.com/CleverRaven/Cataclysm-DDA/pull/63972))
 * Prune 0.G migrations ([#63915](https://github.com/CleverRaven/Cataclysm-DDA/pull/63915))
 
@@ -82,6 +87,11 @@
 #### Cataclysm-DDA experimental build 2023-03-04-2101 ([eed25b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-04-2101))
 
 * Stop meteorologist from dying ([#63898](https://github.com/CleverRaven/Cataclysm-DDA/pull/63898))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-04-0821 ([2f3951e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-04-0821))
+
 * Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
 
 ---
@@ -137,11 +147,6 @@
 #### Cataclysm-DDA experimental build 2023-03-02-0327 ([c6acba5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-02-0327))
 
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-01-2354 ([135b6aa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-01-2354))
-
 * Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
