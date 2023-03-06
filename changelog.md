@@ -1,3 +1,4 @@
+* Allow the morningstar to be clipped to an appropriate belt ([#63927](https://github.com/CleverRaven/Cataclysm-DDA/pull/63927))
 * Routine tileset updates on 05 March 2023 ([#63979](https://github.com/CleverRaven/Cataclysm-DDA/pull/63979))
 
 ---
@@ -174,5 +175,4 @@
 * Fix flying insects not benefiting from their intended effect resistance ([#63769](https://github.com/CleverRaven/Cataclysm-DDA/pull/63769))
 * Fix vigilant amalgamations' scream frequency ([#63768](https://github.com/CleverRaven/Cataclysm-DDA/pull/63768))
 * Only allow quickload from debug menu ([#63767](https://github.com/CleverRaven/Cataclysm-DDA/pull/63767))
-* Lower damage for BB gun ([#63763](https://github.com/CleverRaven/Cataclysm-DDA/pull/63763))
 * make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
