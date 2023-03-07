@@ -181,4 +181,3 @@
 * inv_ui: defer calculating denial ([#63811](https://github.com/CleverRaven/Cataclysm-DDA/pull/63811))
 * item: fix items leaking out of pockets ([#63808](https://github.com/CleverRaven/Cataclysm-DDA/pull/63808))
 * inv_ui: ensure NO_TAKEOFF can't be traded or holstered ([#63806](https://github.com/CleverRaven/Cataclysm-DDA/pull/63806))
-* map: downgrade deprecated overlap debug message ([#63802](https://github.com/CleverRaven/Cataclysm-DDA/pull/63802))
