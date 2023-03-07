@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-07-0711 ([2b00a42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-07-0711))
+
 * pass source argument to explosion ([#64016](https://github.com/CleverRaven/Cataclysm-DDA/pull/64016))
 * Add missing flags to Predator Zombie evolution line ([#63953](https://github.com/CleverRaven/Cataclysm-DDA/pull/63953))
 * Revisit compiler support decisions ([#63970](https://github.com/CleverRaven/Cataclysm-DDA/pull/63970))
