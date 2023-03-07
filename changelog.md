@@ -1,3 +1,4 @@
+* Website: remove Bountysource and Chezzo item browser links, move hhg up ([#64020](https://github.com/CleverRaven/Cataclysm-DDA/pull/64020))
 
 ---
 
@@ -132,12 +133,6 @@
 
 * Adjust "keg" furniture UI ([#63877](https://github.com/CleverRaven/Cataclysm-DDA/pull/63877))
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-03-0646 ([8c0f960](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-03-0646))
-
-* Fixes mobile home park road connections ([#63778](https://github.com/CleverRaven/Cataclysm-DDA/pull/63778))
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
 * Tune down trapdoor spider spawns ([#63853](https://github.com/CleverRaven/Cataclysm-DDA/pull/63853))
 * Fix compilations errors (int > dbl) ([#63856](https://github.com/CleverRaven/Cataclysm-DDA/pull/63856))
