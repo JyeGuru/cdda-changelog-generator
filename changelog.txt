@@ -90,8 +90,6 @@ Cataclysm-DDA experimental build 2023-03-03-0646 (8c0f960)
 
 Cataclysm-DDA experimental build 2023-03-02-0619 (8c9029f)
 * [Magiclysm] fast fixes (#63852)
-
-Cataclysm-DDA experimental build 2023-03-02-0428 (4ad561b)
 * bump hardcode version in release.yml (#63865)
 * fix release version numbers (#63862)
 * Update documentation about neutral mutations (#63793)

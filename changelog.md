@@ -135,11 +135,6 @@
 #### Cataclysm-DDA experimental build 2023-03-02-0619 ([8c9029f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-02-0619))
 
 * [Magiclysm] fast fixes ([#63852](https://github.com/CleverRaven/Cataclysm-DDA/pull/63852))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-02-0428 ([4ad561b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-02-0428))
-
 * bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
 * Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
