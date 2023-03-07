@@ -1,3 +1,4 @@
+* pass source argument to explosion ([#64016](https://github.com/CleverRaven/Cataclysm-DDA/pull/64016))
 * Add missing flags to Predator Zombie evolution line ([#63953](https://github.com/CleverRaven/Cataclysm-DDA/pull/63953))
 * Revisit compiler support decisions ([#63970](https://github.com/CleverRaven/Cataclysm-DDA/pull/63970))
 * Skill book proofread ([#63984](https://github.com/CleverRaven/Cataclysm-DDA/pull/63984))
@@ -112,7 +113,6 @@
 * Makes Nictating Membrane conflict with the Protective Lenses CBM ([#63881](https://github.com/CleverRaven/Cataclysm-DDA/pull/63881))
 * Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
 * Clear portal storm sound ([#63893](https://github.com/CleverRaven/Cataclysm-DDA/pull/63893))
-* make most anatomy mutations neutral ([#63776](https://github.com/CleverRaven/Cataclysm-DDA/pull/63776))
 * Adds a snout for the raptor mutation, and changes the tail’s description. ([#63788](https://github.com/CleverRaven/Cataclysm-DDA/pull/63788))
 * char/healing: fix/rework healing rates to be more logical ([#63836](https://github.com/CleverRaven/Cataclysm-DDA/pull/63836))
 * item_location: add a make_active() helper ([#63873](https://github.com/CleverRaven/Cataclysm-DDA/pull/63873))
