@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-07-1930 ([ec9a452](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-07-1930))
+
 * Fix broken code snippet in `EFFECTS_JSON.md` ([#64035](https://github.com/CleverRaven/Cataclysm-DDA/pull/64035))
 * Add space in cashcard displayname ([#64026](https://github.com/CleverRaven/Cataclysm-DDA/pull/64026))
 * item: set zombie var for corpses with source_monster ([#63996](https://github.com/CleverRaven/Cataclysm-DDA/pull/63996))
@@ -150,11 +155,6 @@
 * Polish some of the NPC introductory text ([#63879](https://github.com/CleverRaven/Cataclysm-DDA/pull/63879))
 * Mutant Cats & Dogs: A Tale of Nether & Confusion ([#63878](https://github.com/CleverRaven/Cataclysm-DDA/pull/63878))
 * Cutters not shears ([#63863](https://github.com/CleverRaven/Cataclysm-DDA/pull/63863))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-03-1238 ([1eb525f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-03-1238))
-
 * Adjust "keg" furniture UI ([#63877](https://github.com/CleverRaven/Cataclysm-DDA/pull/63877))
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
