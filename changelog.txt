@@ -1,3 +1,4 @@
+* bump vcpkg version (#64017)
 * Website: remove Bountysource and Chezzo item browser links, move hhg up (#64020)
 
 Cataclysm-DDA experimental build 2023-03-07-0711 (2b00a42)
@@ -121,4 +122,3 @@ Cataclysm-DDA experimental build 2023-03-03-1238 (1eb525f)
 * Revert "Support Mac arm64" (#63797)
 * Fix IFF edge case for unseen player (#63790)
 * Add ingested calories to the calorie diary only when the player is doing the eating (#63785)
-* debug/tgz: fix min archive for player on different zlevel (#63783)
