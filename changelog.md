@@ -1,3 +1,10 @@
+* Fix unlimited glare ([#64022](https://github.com/CleverRaven/Cataclysm-DDA/pull/64022))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-07-1554 ([9f7a0c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-07-1554))
+
+* Remove hack's phantom melee ([#64027](https://github.com/CleverRaven/Cataclysm-DDA/pull/64027))
 
 ---
 
@@ -125,7 +132,6 @@
 * Makes Nictating Membrane conflict with the Protective Lenses CBM ([#63881](https://github.com/CleverRaven/Cataclysm-DDA/pull/63881))
 * Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
 * Clear portal storm sound ([#63893](https://github.com/CleverRaven/Cataclysm-DDA/pull/63893))
-* Adds a snout for the raptor mutation, and changes the tail’s description. ([#63788](https://github.com/CleverRaven/Cataclysm-DDA/pull/63788))
 * char/healing: fix/rework healing rates to be more logical ([#63836](https://github.com/CleverRaven/Cataclysm-DDA/pull/63836))
 * item_location: add a make_active() helper ([#63873](https://github.com/CleverRaven/Cataclysm-DDA/pull/63873))
 * Fix MSVC template warnings ([#63883](https://github.com/CleverRaven/Cataclysm-DDA/pull/63883))
@@ -171,4 +177,3 @@
 * Mana softening ([#63795](https://github.com/CleverRaven/Cataclysm-DDA/pull/63795))
 * Revert "Support Mac arm64" ([#63797](https://github.com/CleverRaven/Cataclysm-DDA/pull/63797))
 * Fix IFF edge case for unseen player ([#63790](https://github.com/CleverRaven/Cataclysm-DDA/pull/63790))
-* Add ingested calories to the calorie diary only when the player is doing the eating ([#63785](https://github.com/CleverRaven/Cataclysm-DDA/pull/63785))
