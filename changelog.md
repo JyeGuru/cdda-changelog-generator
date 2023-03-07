@@ -1,3 +1,12 @@
+* Add missing flags to Predator Zombie evolution line ([#63953](https://github.com/CleverRaven/Cataclysm-DDA/pull/63953))
+* Revisit compiler support decisions ([#63970](https://github.com/CleverRaven/Cataclysm-DDA/pull/63970))
+* Skill book proofread ([#63984](https://github.com/CleverRaven/Cataclysm-DDA/pull/63984))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-07-0606 ([307055a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-07-0606))
+
+* Welding rod basecamp recipe ([#63990](https://github.com/CleverRaven/Cataclysm-DDA/pull/63990))
 * Remove 0.F artifact migration ([#63975](https://github.com/CleverRaven/Cataclysm-DDA/pull/63975))
 
 ---
@@ -103,8 +112,6 @@
 * Makes Nictating Membrane conflict with the Protective Lenses CBM ([#63881](https://github.com/CleverRaven/Cataclysm-DDA/pull/63881))
 * Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
 * Clear portal storm sound ([#63893](https://github.com/CleverRaven/Cataclysm-DDA/pull/63893))
-* Add "dense bones" mutation ([#63775](https://github.com/CleverRaven/Cataclysm-DDA/pull/63775))
-* Automatically cap melee skill gain from monsters ([#63773](https://github.com/CleverRaven/Cataclysm-DDA/pull/63773))
 * make most anatomy mutations neutral ([#63776](https://github.com/CleverRaven/Cataclysm-DDA/pull/63776))
 * Adds a snout for the raptor mutation, and changes the tail’s description. ([#63788](https://github.com/CleverRaven/Cataclysm-DDA/pull/63788))
 * char/healing: fix/rework healing rates to be more logical ([#63836](https://github.com/CleverRaven/Cataclysm-DDA/pull/63836))
@@ -129,11 +136,6 @@
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
 * Tune down trapdoor spider spawns ([#63853](https://github.com/CleverRaven/Cataclysm-DDA/pull/63853))
 * Fix compilations errors (int > dbl) ([#63856](https://github.com/CleverRaven/Cataclysm-DDA/pull/63856))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-02-0619 ([8c9029f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-02-0619))
-
 * [Magiclysm] fast fixes ([#63852](https://github.com/CleverRaven/Cataclysm-DDA/pull/63852))
 * bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
@@ -165,4 +167,3 @@
 * Fix IFF edge case for unseen player ([#63790](https://github.com/CleverRaven/Cataclysm-DDA/pull/63790))
 * Add ingested calories to the calorie diary only when the player is doing the eating ([#63785](https://github.com/CleverRaven/Cataclysm-DDA/pull/63785))
 * debug/tgz: fix min archive for player on different zlevel ([#63783](https://github.com/CleverRaven/Cataclysm-DDA/pull/63783))
-* make chimera not fight over its tail ([#63774](https://github.com/CleverRaven/Cataclysm-DDA/pull/63774))
