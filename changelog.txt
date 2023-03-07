@@ -89,8 +89,6 @@ Cataclysm-DDA experimental build 2023-03-04-2101 (eed25b0)
 
 Cataclysm-DDA experimental build 2023-03-04-0821 (2f3951e)
 * Routine i18n updates on 04 March 2023 (#63920)
-
-Cataclysm-DDA experimental build 2023-03-04-0252 (4ea6fb5)
 * Make adhesive bandages recipe craft multiples. (#63824)
 * Painted walls addition and tweaks (#63876)
 * Makes Nictating Membrane conflict with the Protective Lenses CBM (#63881)
@@ -102,6 +100,8 @@ Cataclysm-DDA experimental build 2023-03-04-0252 (4ea6fb5)
 * Polish some of the NPC introductory text (#63879)
 * Mutant Cats & Dogs: A Tale of Nether & Confusion (#63878)
 * Cutters not shears (#63863)
+
+Cataclysm-DDA experimental build 2023-03-03-1238 (1eb525f)
 * Adjust "keg" furniture UI (#63877)
 * Default overmap tiles (#63887)
 * Remove unused helmet function (#63874)
