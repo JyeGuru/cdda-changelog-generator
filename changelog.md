@@ -1,3 +1,10 @@
+* Fix broken code snippet in `EFFECTS_JSON.md` ([#64035](https://github.com/CleverRaven/Cataclysm-DDA/pull/64035))
+* Add space in cashcard displayname ([#64026](https://github.com/CleverRaven/Cataclysm-DDA/pull/64026))
+* item: set zombie var for corpses with source_monster ([#63996](https://github.com/CleverRaven/Cataclysm-DDA/pull/63996))
+* mapgen/remove_veh: remove from main map unconditionally ([#64002](https://github.com/CleverRaven/Cataclysm-DDA/pull/64002))
+* remove unused variable ([#64003](https://github.com/CleverRaven/Cataclysm-DDA/pull/64003))
+* tests/active_items: don't prune stale actives during test ([#64018](https://github.com/CleverRaven/Cataclysm-DDA/pull/64018))
+* Fixes for the all entry on armor organize menu ([#64006](https://github.com/CleverRaven/Cataclysm-DDA/pull/64006))
 
 ---
 
@@ -156,7 +163,6 @@
 * [Magiclysm] fast fixes ([#63852](https://github.com/CleverRaven/Cataclysm-DDA/pull/63852))
 * bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
-* Update documentation about neutral mutations ([#63793](https://github.com/CleverRaven/Cataclysm-DDA/pull/63793))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
 * fix: github astyle code style suggestions ([#63820](https://github.com/CleverRaven/Cataclysm-DDA/pull/63820))
@@ -176,9 +182,3 @@
 * item: fix items leaking out of pockets ([#63808](https://github.com/CleverRaven/Cataclysm-DDA/pull/63808))
 * inv_ui: ensure NO_TAKEOFF can't be traded or holstered ([#63806](https://github.com/CleverRaven/Cataclysm-DDA/pull/63806))
 * map: downgrade deprecated overlap debug message ([#63802](https://github.com/CleverRaven/Cataclysm-DDA/pull/63802))
-* creature: use per-creature effect schedule ([#63800](https://github.com/CleverRaven/Cataclysm-DDA/pull/63800))
-* mon/nursebot: don't try to remove included bionics ([#63799](https://github.com/CleverRaven/Cataclysm-DDA/pull/63799))
-* Fix NPCs unable to trade items away if they have no pockets ([#63789](https://github.com/CleverRaven/Cataclysm-DDA/pull/63789))
-* Mana softening ([#63795](https://github.com/CleverRaven/Cataclysm-DDA/pull/63795))
-* Revert "Support Mac arm64" ([#63797](https://github.com/CleverRaven/Cataclysm-DDA/pull/63797))
-* Fix IFF edge case for unseen player ([#63790](https://github.com/CleverRaven/Cataclysm-DDA/pull/63790))
