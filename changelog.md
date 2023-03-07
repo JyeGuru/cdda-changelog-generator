@@ -140,6 +140,11 @@
 #### Cataclysm-DDA experimental build 2023-03-04-0821 ([2f3951e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-04-0821))
 
 * Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-04-0252 ([4ea6fb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-04-0252))
+
 * Make adhesive bandages recipe craft multiples. ([#63824](https://github.com/CleverRaven/Cataclysm-DDA/pull/63824))
 * Painted walls addition and tweaks ([#63876](https://github.com/CleverRaven/Cataclysm-DDA/pull/63876))
 * Makes Nictating Membrane conflict with the Protective Lenses CBM ([#63881](https://github.com/CleverRaven/Cataclysm-DDA/pull/63881))
@@ -151,11 +156,6 @@
 * Polish some of the NPC introductory text ([#63879](https://github.com/CleverRaven/Cataclysm-DDA/pull/63879))
 * Mutant Cats & Dogs: A Tale of Nether & Confusion ([#63878](https://github.com/CleverRaven/Cataclysm-DDA/pull/63878))
 * Cutters not shears ([#63863](https://github.com/CleverRaven/Cataclysm-DDA/pull/63863))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-03-1238 ([1eb525f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-03-1238))
-
 * Adjust "keg" furniture UI ([#63877](https://github.com/CleverRaven/Cataclysm-DDA/pull/63877))
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
