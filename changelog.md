@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-07-1751 ([9a5cfab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-07-1751))
+
 * Fix unlimited glare ([#64022](https://github.com/CleverRaven/Cataclysm-DDA/pull/64022))
 
 ---

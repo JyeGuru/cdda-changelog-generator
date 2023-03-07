@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-03-07-1751 (9a5cfab)
 * Fix unlimited glare (#64022)
 
 Cataclysm-DDA experimental build 2023-03-07-1554 (9f7a0c8)
