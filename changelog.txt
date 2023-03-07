@@ -1,3 +1,4 @@
+* prevent stored cal integer overflow (#63849)
 
 Cataclysm-DDA experimental build 2023-03-07-1930 (ec9a452)
 * Fix broken code snippet in `EFFECTS_JSON.md` (#64035)

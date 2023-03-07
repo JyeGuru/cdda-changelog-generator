@@ -1,3 +1,4 @@
+* prevent stored cal integer overflow ([#63849](https://github.com/CleverRaven/Cataclysm-DDA/pull/63849))
 
 ---
 
