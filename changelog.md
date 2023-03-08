@@ -146,11 +146,6 @@
 * [DinoMod] wilderness spawn rework ([#63861](https://github.com/CleverRaven/Cataclysm-DDA/pull/63861))
 * [DinoMod] acid blood ([#63869](https://github.com/CleverRaven/Cataclysm-DDA/pull/63869))
 * Butchering Rack Recipe Tweak ([#63890](https://github.com/CleverRaven/Cataclysm-DDA/pull/63890))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-04-2101 ([eed25b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-04-2101))
-
 * Stop meteorologist from dying ([#63898](https://github.com/CleverRaven/Cataclysm-DDA/pull/63898))
 * Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
 * Make adhesive bandages recipe craft multiples. ([#63824](https://github.com/CleverRaven/Cataclysm-DDA/pull/63824))

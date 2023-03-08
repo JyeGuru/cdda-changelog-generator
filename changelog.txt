@@ -92,8 +92,6 @@ Cataclysm-DDA experimental build 2023-03-05-1526 (5bb813e)
 * [DinoMod] wilderness spawn rework (#63861)
 * [DinoMod] acid blood (#63869)
 * Butchering Rack Recipe Tweak (#63890)
-
-Cataclysm-DDA experimental build 2023-03-04-2101 (eed25b0)
 * Stop meteorologist from dying (#63898)
 * Routine i18n updates on 04 March 2023 (#63920)
 * Make adhesive bandages recipe craft multiples. (#63824)
