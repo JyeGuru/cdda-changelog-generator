@@ -1,3 +1,4 @@
+* `veh_interact` structure packing refactoring (#64045)
 
 Cataclysm-DDA experimental build 2023-03-08-1726 (2c69d7b)
 * [Xedra Evolved] Make vampire cathedrals spawn in cities (#64049)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2023-03-05-1526 (5bb813e)
 * bump hardcode version in release.yml (#63865)
 * fix release version numbers (#63862)
 * Validate bionic_data::mutation_conflicts consistency (#63845)
-* Allow use of faction trust for any faction in eocs (#63815)
 * fix: github astyle code style suggestions (#63820)
 * ReReRevert MacOS Arm build (#63848)
 * Fix astyle config URL in docs (#63835)

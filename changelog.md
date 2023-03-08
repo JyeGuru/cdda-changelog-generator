@@ -1,3 +1,4 @@
+* `veh_interact` structure packing refactoring ([#64045](https://github.com/CleverRaven/Cataclysm-DDA/pull/64045))
 
 ---
 
@@ -180,7 +181,6 @@
 * bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
-* Allow use of faction trust for any faction in eocs ([#63815](https://github.com/CleverRaven/Cataclysm-DDA/pull/63815))
 * fix: github astyle code style suggestions ([#63820](https://github.com/CleverRaven/Cataclysm-DDA/pull/63820))
 * ReReRevert MacOS Arm build ([#63848](https://github.com/CleverRaven/Cataclysm-DDA/pull/63848))
 * Fix astyle config URL in docs ([#63835](https://github.com/CleverRaven/Cataclysm-DDA/pull/63835))
