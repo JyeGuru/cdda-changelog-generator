@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-08-0257 ([650f9ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-0257))
+
+* Remove the old Evac Center Merchant. ([#64032](https://github.com/CleverRaven/Cataclysm-DDA/pull/64032))
 * prevent stored cal integer overflow ([#63849](https://github.com/CleverRaven/Cataclysm-DDA/pull/63849))
 
 ---
@@ -181,4 +187,3 @@
 * iuse/constr: allow digging adjacent shallow pits ([#63812](https://github.com/CleverRaven/Cataclysm-DDA/pull/63812))
 * inv_ui: defer calculating denial ([#63811](https://github.com/CleverRaven/Cataclysm-DDA/pull/63811))
 * item: fix items leaking out of pockets ([#63808](https://github.com/CleverRaven/Cataclysm-DDA/pull/63808))
-* inv_ui: ensure NO_TAKEOFF can't be traded or holstered ([#63806](https://github.com/CleverRaven/Cataclysm-DDA/pull/63806))
