@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-08-0754 ([9777f4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-0754))
+
+* Add some reputation-related events ([#63958](https://github.com/CleverRaven/Cataclysm-DDA/pull/63958))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-08-0447 ([524ad22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-0447))
 
 * Disassembly recipe fixes ([#64005](https://github.com/CleverRaven/Cataclysm-DDA/pull/64005))
@@ -146,11 +152,6 @@
 #### Cataclysm-DDA experimental build 2023-03-04-2101 ([eed25b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-04-2101))
 
 * Stop meteorologist from dying ([#63898](https://github.com/CleverRaven/Cataclysm-DDA/pull/63898))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-04-0821 ([2f3951e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-04-0821))
-
 * Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
 * Make adhesive bandages recipe craft multiples. ([#63824](https://github.com/CleverRaven/Cataclysm-DDA/pull/63824))
 * Painted walls addition and tweaks ([#63876](https://github.com/CleverRaven/Cataclysm-DDA/pull/63876))
@@ -186,4 +187,3 @@
 * Remove portal resurrection ([#63822](https://github.com/CleverRaven/Cataclysm-DDA/pull/63822))
 * Routine tileset updates on 26 February 2023 ([#63818](https://github.com/CleverRaven/Cataclysm-DDA/pull/63818))
 * iuse/constr: allow digging adjacent shallow pits ([#63812](https://github.com/CleverRaven/Cataclysm-DDA/pull/63812))
-* inv_ui: defer calculating denial ([#63811](https://github.com/CleverRaven/Cataclysm-DDA/pull/63811))
