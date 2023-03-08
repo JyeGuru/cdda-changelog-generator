@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-08-1726 ([2c69d7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-1726))
+
+* [Xedra Evolved] Make vampire cathedrals spawn in cities ([#64049](https://github.com/CleverRaven/Cataclysm-DDA/pull/64049))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-08-1513 ([2f71c08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-1513))
 
 * Freezer recipe and disassemble ([#63895](https://github.com/CleverRaven/Cataclysm-DDA/pull/63895))
@@ -181,7 +187,6 @@
 * attempt to fix OSX builds ([#63838](https://github.com/CleverRaven/Cataclysm-DDA/pull/63838))
 * Remove erroneous traits from recruitable Godco NPCs ([#63831](https://github.com/CleverRaven/Cataclysm-DDA/pull/63831))
 * attempt to fix path reference in arm build ([#63833](https://github.com/CleverRaven/Cataclysm-DDA/pull/63833))
-* Semi permanent fast scroll ([#63814](https://github.com/CleverRaven/Cataclysm-DDA/pull/63814))
 * Revert "Revert "Support Mac arm64"" ([#63832](https://github.com/CleverRaven/Cataclysm-DDA/pull/63832))
 * fix incorrect/missing mutation conflicts in bionics.json ([#63826](https://github.com/CleverRaven/Cataclysm-DDA/pull/63826))
 * inv_ui: double check entry denial cache ([#63828](https://github.com/CleverRaven/Cataclysm-DDA/pull/63828))
