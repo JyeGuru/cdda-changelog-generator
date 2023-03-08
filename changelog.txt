@@ -1,3 +1,4 @@
+* Disassembly recipe fixes (#64005)
 
 Cataclysm-DDA experimental build 2023-03-08-0257 (650f9ae)
 * Remove the old Evac Center Merchant. (#64032)
@@ -129,4 +130,3 @@ Cataclysm-DDA experimental build 2023-03-04-0252 (4ea6fb5)
 * Routine tileset updates on 26 February 2023 (#63818)
 * iuse/constr: allow digging adjacent shallow pits (#63812)
 * inv_ui: defer calculating denial (#63811)
-* item: fix items leaking out of pockets (#63808)
