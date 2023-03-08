@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-08-1513 ([2f71c08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-1513))
+
+* Freezer recipe and disassemble ([#63895](https://github.com/CleverRaven/Cataclysm-DDA/pull/63895))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-08-0754 ([9777f4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-0754))
 
 * Add some reputation-related events ([#63958](https://github.com/CleverRaven/Cataclysm-DDA/pull/63958))
@@ -181,4 +187,3 @@
 * inv_ui: double check entry denial cache ([#63828](https://github.com/CleverRaven/Cataclysm-DDA/pull/63828))
 * Remove portal resurrection ([#63822](https://github.com/CleverRaven/Cataclysm-DDA/pull/63822))
 * Routine tileset updates on 26 February 2023 ([#63818](https://github.com/CleverRaven/Cataclysm-DDA/pull/63818))
-* iuse/constr: allow digging adjacent shallow pits ([#63812](https://github.com/CleverRaven/Cataclysm-DDA/pull/63812))
