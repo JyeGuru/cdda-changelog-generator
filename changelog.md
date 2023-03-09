@@ -145,11 +145,6 @@
 
 * Paint requirement fixes for practice and some construction recipes ([#63972](https://github.com/CleverRaven/Cataclysm-DDA/pull/63972))
 * Prune 0.G migrations ([#63915](https://github.com/CleverRaven/Cataclysm-DDA/pull/63915))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-05-1800 ([0cdab8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-05-1800))
-
 * More ant-related things ([#63854](https://github.com/CleverRaven/Cataclysm-DDA/pull/63854))
 * Aftershock: Reduce deadliness and frequency of ruin robots ([#63938](https://github.com/CleverRaven/Cataclysm-DDA/pull/63938))
 * [Xedra Evolved] Grammar touchups ([#63961](https://github.com/CleverRaven/Cataclysm-DDA/pull/63961))

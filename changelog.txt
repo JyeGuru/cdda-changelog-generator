@@ -88,8 +88,6 @@ Cataclysm-DDA experimental build 2023-03-06-0055 (d9e21d8)
 Cataclysm-DDA experimental build 2023-03-05-2028 (8382eec)
 * Paint requirement fixes for practice and some construction recipes (#63972)
 * Prune 0.G migrations (#63915)
-
-Cataclysm-DDA experimental build 2023-03-05-1800 (0cdab8e)
 * More ant-related things (#63854)
 * Aftershock: Reduce deadliness and frequency of ruin robots (#63938)
 * [Xedra Evolved] Grammar touchups (#63961)
