@@ -1,3 +1,4 @@
+* Delete innawoods variant of trapdoor spider den ([#63998](https://github.com/CleverRaven/Cataclysm-DDA/pull/63998))
 * More Mexican foods (real) ([#63847](https://github.com/CleverRaven/Cataclysm-DDA/pull/63847))
 * fixes the wretch's spawning abilities. ([#63904](https://github.com/CleverRaven/Cataclysm-DDA/pull/63904))
 * Handle obsolete recipes on items ([#64012](https://github.com/CleverRaven/Cataclysm-DDA/pull/64012))
