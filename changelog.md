@@ -1,3 +1,5 @@
+* Added meat disassembly to scraps ([#64044](https://github.com/CleverRaven/Cataclysm-DDA/pull/64044))
+* Adding plastic chunks to freezers and fridges ([#64072](https://github.com/CleverRaven/Cataclysm-DDA/pull/64072))
 * Rewrite crafting skill checks to use normal roll ([#63886](https://github.com/CleverRaven/Cataclysm-DDA/pull/63886))
 
 ---
@@ -66,7 +68,6 @@
 #### Cataclysm-DDA experimental build 2023-03-08-0257 ([650f9ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-0257))
 
 * Remove the old Evac Center Merchant. ([#64032](https://github.com/CleverRaven/Cataclysm-DDA/pull/64032))
-* prevent stored cal integer overflow ([#63849](https://github.com/CleverRaven/Cataclysm-DDA/pull/63849))
 
 ---
 
@@ -190,4 +191,3 @@
 * [Magiclysm] fast fixes ([#63852](https://github.com/CleverRaven/Cataclysm-DDA/pull/63852))
 * bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
-* ReReRevert MacOS Arm build ([#63848](https://github.com/CleverRaven/Cataclysm-DDA/pull/63848))
