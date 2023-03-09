@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-09-1523 ([ca4e699](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-09-1523))
+
 * Added meat disassembly to scraps ([#64044](https://github.com/CleverRaven/Cataclysm-DDA/pull/64044))
 * Adding plastic chunks to freezers and fridges ([#64072](https://github.com/CleverRaven/Cataclysm-DDA/pull/64072))
 * Rewrite crafting skill checks to use normal roll ([#63886](https://github.com/CleverRaven/Cataclysm-DDA/pull/63886))
