@@ -1,3 +1,4 @@
+* EOC triggers for OMT entry and exit ([#64074](https://github.com/CleverRaven/Cataclysm-DDA/pull/64074))
 
 ---
 
@@ -193,6 +194,5 @@
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
 * Tune down trapdoor spider spawns ([#63853](https://github.com/CleverRaven/Cataclysm-DDA/pull/63853))
 * Fix compilations errors (int > dbl) ([#63856](https://github.com/CleverRaven/Cataclysm-DDA/pull/63856))
-* [Magiclysm] fast fixes ([#63852](https://github.com/CleverRaven/Cataclysm-DDA/pull/63852))
 * bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
