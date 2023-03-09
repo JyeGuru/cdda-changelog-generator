@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-09-1754 ([a52f23d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-09-1754))
+
 * EOC triggers for OMT entry and exit ([#64074](https://github.com/CleverRaven/Cataclysm-DDA/pull/64074))
 
 ---
@@ -142,11 +147,6 @@
 
 * Allow the morningstar to be clipped to an appropriate belt ([#63927](https://github.com/CleverRaven/Cataclysm-DDA/pull/63927))
 * Routine tileset updates on 05 March 2023 ([#63979](https://github.com/CleverRaven/Cataclysm-DDA/pull/63979))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-06-0514 ([adb4bf9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-06-0514))
-
 * Delete Dark Skies Above ([#63981](https://github.com/CleverRaven/Cataclysm-DDA/pull/63981))
 * flip overmap tiles to default true ([#63983](https://github.com/CleverRaven/Cataclysm-DDA/pull/63983))
 * Misc Item Changes Again ([#63909](https://github.com/CleverRaven/Cataclysm-DDA/pull/63909))
