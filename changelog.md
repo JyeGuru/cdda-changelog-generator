@@ -1,3 +1,4 @@
+* Handle obsolete recipes on items ([#64012](https://github.com/CleverRaven/Cataclysm-DDA/pull/64012))
 * Replace "fake" activity levels with realistic ones ([#64007](https://github.com/CleverRaven/Cataclysm-DDA/pull/64007))
 * item_location: obtain container if target is liquid ([#64021](https://github.com/CleverRaven/Cataclysm-DDA/pull/64021))
 * Fix asrgs turning into lamps ([#64034](https://github.com/CleverRaven/Cataclysm-DDA/pull/64034))
@@ -193,5 +194,4 @@
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * ReReRevert MacOS Arm build ([#63848](https://github.com/CleverRaven/Cataclysm-DDA/pull/63848))
-* Fix astyle config URL in docs ([#63835](https://github.com/CleverRaven/Cataclysm-DDA/pull/63835))
 * attempt to fix OSX builds ([#63838](https://github.com/CleverRaven/Cataclysm-DDA/pull/63838))
