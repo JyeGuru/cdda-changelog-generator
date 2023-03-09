@@ -1,3 +1,5 @@
+* More Mexican foods (real) ([#63847](https://github.com/CleverRaven/Cataclysm-DDA/pull/63847))
+* fixes the wretch's spawning abilities. ([#63904](https://github.com/CleverRaven/Cataclysm-DDA/pull/63904))
 * Handle obsolete recipes on items ([#64012](https://github.com/CleverRaven/Cataclysm-DDA/pull/64012))
 * Replace "fake" activity levels with realistic ones ([#64007](https://github.com/CleverRaven/Cataclysm-DDA/pull/64007))
 * item_location: obtain container if target is liquid ([#64021](https://github.com/CleverRaven/Cataclysm-DDA/pull/64021))
@@ -178,7 +180,6 @@
 * Makes Nictating Membrane conflict with the Protective Lenses CBM ([#63881](https://github.com/CleverRaven/Cataclysm-DDA/pull/63881))
 * Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
 * Clear portal storm sound ([#63893](https://github.com/CleverRaven/Cataclysm-DDA/pull/63893))
-* char/healing: fix/rework healing rates to be more logical ([#63836](https://github.com/CleverRaven/Cataclysm-DDA/pull/63836))
 * item_location: add a make_active() helper ([#63873](https://github.com/CleverRaven/Cataclysm-DDA/pull/63873))
 * Fix MSVC template warnings ([#63883](https://github.com/CleverRaven/Cataclysm-DDA/pull/63883))
 * Polish some of the NPC introductory text ([#63879](https://github.com/CleverRaven/Cataclysm-DDA/pull/63879))
@@ -194,4 +195,3 @@
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
 * Validate bionic_data::mutation_conflicts consistency ([#63845](https://github.com/CleverRaven/Cataclysm-DDA/pull/63845))
 * ReReRevert MacOS Arm build ([#63848](https://github.com/CleverRaven/Cataclysm-DDA/pull/63848))
-* attempt to fix OSX builds ([#63838](https://github.com/CleverRaven/Cataclysm-DDA/pull/63838))
