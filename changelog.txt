@@ -83,8 +83,6 @@ Cataclysm-DDA experimental build 2023-03-06-1432 (799c507)
 * Delete Magiclysm Graphical Overmap (#63988)
 * Delete CRT (#63987)
 * Update the table of contents in doc/JSON_INFO.md (#63993)
-
-Cataclysm-DDA experimental build 2023-03-06-0713 (463060d)
 * Allow the morningstar to be clipped to an appropriate belt (#63927)
 * Routine tileset updates on 05 March 2023 (#63979)
 * Delete Dark Skies Above (#63981)
