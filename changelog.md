@@ -1,3 +1,11 @@
+* Disassembly doesn't return items with UNRECOVERABLE flag ([#64102](https://github.com/CleverRaven/Cataclysm-DDA/pull/64102))
+* catchall for nonarmor on sort armor screen ([#64100](https://github.com/CleverRaven/Cataclysm-DDA/pull/64100))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-10-1633 ([0c1731a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-10-1633))
+
+* Fix SDL audio glitching with steaming hot patches from Qrox ([#64046](https://github.com/CleverRaven/Cataclysm-DDA/pull/64046))
 
 ---
 
@@ -146,7 +154,6 @@
 
 * Welding rod basecamp recipe ([#63990](https://github.com/CleverRaven/Cataclysm-DDA/pull/63990))
 * Remove 0.F artifact migration ([#63975](https://github.com/CleverRaven/Cataclysm-DDA/pull/63975))
-* remove hypervitaminosis reference from iron vitamin ([#63868](https://github.com/CleverRaven/Cataclysm-DDA/pull/63868))
 * Delete Magiclysm Graphical Overmap ([#63988](https://github.com/CleverRaven/Cataclysm-DDA/pull/63988))
 * Delete CRT ([#63987](https://github.com/CleverRaven/Cataclysm-DDA/pull/63987))
 * Update the table of contents in doc/JSON_INFO.md ([#63993](https://github.com/CleverRaven/Cataclysm-DDA/pull/63993))
@@ -179,7 +186,6 @@
 * Point `JSON_FLAGS.md` to `MAPGEN.md` for mapgen flags ([#63929](https://github.com/CleverRaven/Cataclysm-DDA/pull/63929))
 * fix double tux in json ([#63941](https://github.com/CleverRaven/Cataclysm-DDA/pull/63941))
 * Denim as a material and jeans buffs. ([#63913](https://github.com/CleverRaven/Cataclysm-DDA/pull/63913))
-* [DinoMod] acid blood ([#63869](https://github.com/CleverRaven/Cataclysm-DDA/pull/63869))
 * Butchering Rack Recipe Tweak ([#63890](https://github.com/CleverRaven/Cataclysm-DDA/pull/63890))
 * Stop meteorologist from dying ([#63898](https://github.com/CleverRaven/Cataclysm-DDA/pull/63898))
 * Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
@@ -191,8 +197,6 @@
 * Fix MSVC template warnings ([#63883](https://github.com/CleverRaven/Cataclysm-DDA/pull/63883))
 * Polish some of the NPC introductory text ([#63879](https://github.com/CleverRaven/Cataclysm-DDA/pull/63879))
 * Mutant Cats & Dogs: A Tale of Nether & Confusion ([#63878](https://github.com/CleverRaven/Cataclysm-DDA/pull/63878))
-* Cutters not shears ([#63863](https://github.com/CleverRaven/Cataclysm-DDA/pull/63863))
 * Adjust "keg" furniture UI ([#63877](https://github.com/CleverRaven/Cataclysm-DDA/pull/63877))
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
-* bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
