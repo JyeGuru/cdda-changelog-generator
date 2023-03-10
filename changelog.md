@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-10-1119 ([77852f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-10-1119))
+
 * Update storage rings to not cause encumberance ([#64090](https://github.com/CleverRaven/Cataclysm-DDA/pull/64090))
 
 ---
@@ -141,11 +146,6 @@
 
 * Welding rod basecamp recipe ([#63990](https://github.com/CleverRaven/Cataclysm-DDA/pull/63990))
 * Remove 0.F artifact migration ([#63975](https://github.com/CleverRaven/Cataclysm-DDA/pull/63975))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-06-1610 ([e3a0293](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-06-1610))
-
 * remove hypervitaminosis reference from iron vitamin ([#63868](https://github.com/CleverRaven/Cataclysm-DDA/pull/63868))
 * Delete Magiclysm Graphical Overmap ([#63988](https://github.com/CleverRaven/Cataclysm-DDA/pull/63988))
 * Delete CRT ([#63987](https://github.com/CleverRaven/Cataclysm-DDA/pull/63987))
