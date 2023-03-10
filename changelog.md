@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-10-0428 ([fac3c33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-10-0428))
+
 * Prompt player on where he wants to climb down to when pressed 'move down' button ([#63900](https://github.com/CleverRaven/Cataclysm-DDA/pull/63900))
 * Proficiencies: Fail multiplier -> skill penalty ([#64079](https://github.com/CleverRaven/Cataclysm-DDA/pull/64079))
 * Fixes trying to use null armor data on sort screen ([#64078](https://github.com/CleverRaven/Cataclysm-DDA/pull/64078))
@@ -141,11 +146,6 @@
 #### Cataclysm-DDA experimental build 2023-03-06-1610 ([e3a0293](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-06-1610))
 
 * remove hypervitaminosis reference from iron vitamin ([#63868](https://github.com/CleverRaven/Cataclysm-DDA/pull/63868))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-06-1432 ([799c507](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-06-1432))
-
 * Delete Magiclysm Graphical Overmap ([#63988](https://github.com/CleverRaven/Cataclysm-DDA/pull/63988))
 * Delete CRT ([#63987](https://github.com/CleverRaven/Cataclysm-DDA/pull/63987))
 * Update the table of contents in doc/JSON_INFO.md ([#63993](https://github.com/CleverRaven/Cataclysm-DDA/pull/63993))

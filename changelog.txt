@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-03-10-0428 (fac3c33)
 * Prompt player on where he wants to climb down to when pressed 'move down' button (#63900)
 * Proficiencies: Fail multiplier -> skill penalty (#64079)
 * Fixes trying to use null armor data on sort screen (#64078)
@@ -84,8 +86,6 @@ Cataclysm-DDA experimental build 2023-03-07-0606 (307055a)
 
 Cataclysm-DDA experimental build 2023-03-06-1610 (e3a0293)
 * remove hypervitaminosis reference from iron vitamin (#63868)
-
-Cataclysm-DDA experimental build 2023-03-06-1432 (799c507)
 * Delete Magiclysm Graphical Overmap (#63988)
 * Delete CRT (#63987)
 * Update the table of contents in doc/JSON_INFO.md (#63993)
