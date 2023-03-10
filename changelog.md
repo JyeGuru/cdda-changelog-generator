@@ -1,3 +1,4 @@
+* Prompt player on where he wants to climb down to when pressed 'move down' button ([#63900](https://github.com/CleverRaven/Cataclysm-DDA/pull/63900))
 * Proficiencies: Fail multiplier -> skill penalty ([#64079](https://github.com/CleverRaven/Cataclysm-DDA/pull/64079))
 * Fixes trying to use null armor data on sort screen ([#64078](https://github.com/CleverRaven/Cataclysm-DDA/pull/64078))
 
@@ -177,7 +178,6 @@
 * Point `JSON_FLAGS.md` to `MAPGEN.md` for mapgen flags ([#63929](https://github.com/CleverRaven/Cataclysm-DDA/pull/63929))
 * fix double tux in json ([#63941](https://github.com/CleverRaven/Cataclysm-DDA/pull/63941))
 * Denim as a material and jeans buffs. ([#63913](https://github.com/CleverRaven/Cataclysm-DDA/pull/63913))
-* [DinoMod] wilderness spawn rework ([#63861](https://github.com/CleverRaven/Cataclysm-DDA/pull/63861))
 * [DinoMod] acid blood ([#63869](https://github.com/CleverRaven/Cataclysm-DDA/pull/63869))
 * Butchering Rack Recipe Tweak ([#63890](https://github.com/CleverRaven/Cataclysm-DDA/pull/63890))
 * Stop meteorologist from dying ([#63898](https://github.com/CleverRaven/Cataclysm-DDA/pull/63898))
