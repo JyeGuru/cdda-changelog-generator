@@ -1,3 +1,4 @@
+* Update storage rings to not cause encumberance ([#64090](https://github.com/CleverRaven/Cataclysm-DDA/pull/64090))
 
 ---
 
@@ -195,4 +196,3 @@
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
 * bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
-* fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))

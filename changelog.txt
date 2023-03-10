@@ -1,3 +1,4 @@
+* Update storage rings to not cause encumberance (#64090)
 
 Cataclysm-DDA experimental build 2023-03-10-0428 (fac3c33)
 * Prompt player on where he wants to climb down to when pressed 'move down' button (#63900)
@@ -135,4 +136,3 @@ Cataclysm-DDA experimental build 2023-03-06-1610 (e3a0293)
 * Default overmap tiles (#63887)
 * Remove unused helmet function (#63874)
 * bump hardcode version in release.yml (#63865)
-* fix release version numbers (#63862)
