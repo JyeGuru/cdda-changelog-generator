@@ -1,3 +1,4 @@
+* Remove Moose Taming from basegame (#64095)
 * Disassembly doesn't return items with UNRECOVERABLE flag (#64102)
 * catchall for nonarmor on sort armor screen (#64100)
 
