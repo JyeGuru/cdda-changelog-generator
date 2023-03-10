@@ -1,3 +1,5 @@
+* Proficiencies: Fail multiplier -> skill penalty ([#64079](https://github.com/CleverRaven/Cataclysm-DDA/pull/64079))
+* Fixes trying to use null armor data on sort screen ([#64078](https://github.com/CleverRaven/Cataclysm-DDA/pull/64078))
 
 ---
 
@@ -155,7 +157,6 @@
 * Remove erroneous `SHALLOW_WATER` flag from `t_swater_dp` ([#63976](https://github.com/CleverRaven/Cataclysm-DDA/pull/63976))
 * Paint requirement fixes for practice and some construction recipes ([#63972](https://github.com/CleverRaven/Cataclysm-DDA/pull/63972))
 * Prune 0.G migrations ([#63915](https://github.com/CleverRaven/Cataclysm-DDA/pull/63915))
-* More ant-related things ([#63854](https://github.com/CleverRaven/Cataclysm-DDA/pull/63854))
 * Aftershock: Reduce deadliness and frequency of ruin robots ([#63938](https://github.com/CleverRaven/Cataclysm-DDA/pull/63938))
 * [Xedra Evolved] Grammar touchups ([#63961](https://github.com/CleverRaven/Cataclysm-DDA/pull/63961))
 * Add power function to EOC, remove bitwise operations ([#63892](https://github.com/CleverRaven/Cataclysm-DDA/pull/63892))
@@ -193,6 +194,5 @@
 * Adjust "keg" furniture UI ([#63877](https://github.com/CleverRaven/Cataclysm-DDA/pull/63877))
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
 * Remove unused helmet function ([#63874](https://github.com/CleverRaven/Cataclysm-DDA/pull/63874))
-* Fix compilations errors (int > dbl) ([#63856](https://github.com/CleverRaven/Cataclysm-DDA/pull/63856))
 * bump hardcode version in release.yml ([#63865](https://github.com/CleverRaven/Cataclysm-DDA/pull/63865))
 * fix release version numbers ([#63862](https://github.com/CleverRaven/Cataclysm-DDA/pull/63862))
