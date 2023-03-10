@@ -205,5 +205,4 @@
 * Fix MSVC template warnings ([#63883](https://github.com/CleverRaven/Cataclysm-DDA/pull/63883))
 * Polish some of the NPC introductory text ([#63879](https://github.com/CleverRaven/Cataclysm-DDA/pull/63879))
 * Mutant Cats & Dogs: A Tale of Nether & Confusion ([#63878](https://github.com/CleverRaven/Cataclysm-DDA/pull/63878))
-* Adjust "keg" furniture UI ([#63877](https://github.com/CleverRaven/Cataclysm-DDA/pull/63877))
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
