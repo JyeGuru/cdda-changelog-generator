@@ -1,3 +1,5 @@
+* [Xedra Evolved] I stole the inventor's sparks for dreamer class (#63954)
+* [DinoMod] tawa (#64099)
 
 Cataclysm-DDA experimental build 2023-03-11-1339 (b9372eb)
 * Add Bungalows 17 and 18 (#64091)
@@ -135,6 +137,4 @@ Cataclysm-DDA experimental build 2023-03-07-1751 (9a5cfab)
 * Point `JSON_FLAGS.md` to `MAPGEN.md` for mapgen flags (#63929)
 * fix double tux in json (#63941)
 * Denim as a material and jeans buffs. (#63913)
-* Stop meteorologist from dying (#63898)
 * Routine i18n updates on 04 March 2023 (#63920)
-* Add bungalow 11 and 12 (#63896)

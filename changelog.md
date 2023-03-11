@@ -1,3 +1,5 @@
+* [Xedra Evolved] I stole the inventor's sparks for dreamer class ([#63954](https://github.com/CleverRaven/Cataclysm-DDA/pull/63954))
+* [DinoMod] tawa ([#64099](https://github.com/CleverRaven/Cataclysm-DDA/pull/64099))
 
 ---
 
@@ -198,6 +200,4 @@
 * Point `JSON_FLAGS.md` to `MAPGEN.md` for mapgen flags ([#63929](https://github.com/CleverRaven/Cataclysm-DDA/pull/63929))
 * fix double tux in json ([#63941](https://github.com/CleverRaven/Cataclysm-DDA/pull/63941))
 * Denim as a material and jeans buffs. ([#63913](https://github.com/CleverRaven/Cataclysm-DDA/pull/63913))
-* Stop meteorologist from dying ([#63898](https://github.com/CleverRaven/Cataclysm-DDA/pull/63898))
 * Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
-* Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
