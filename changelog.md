@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-11-1339 ([b9372eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-1339))
+
 * Add Bungalows 17 and 18 ([#64091](https://github.com/CleverRaven/Cataclysm-DDA/pull/64091))
 * Auto pickup+favorites bug fix#64038 ([#64130](https://github.com/CleverRaven/Cataclysm-DDA/pull/64130))
 * Minor adjustments to the Physics lab setpiece. ([#64136](https://github.com/CleverRaven/Cataclysm-DDA/pull/64136))
@@ -153,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2023-03-07-1751 ([9a5cfab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-07-1751))
 
 * Fix unlimited glare ([#64022](https://github.com/CleverRaven/Cataclysm-DDA/pull/64022))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-07-1554 ([9f7a0c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-07-1554))
-
 * Remove hack's phantom melee ([#64027](https://github.com/CleverRaven/Cataclysm-DDA/pull/64027))
 * bump vcpkg version ([#64017](https://github.com/CleverRaven/Cataclysm-DDA/pull/64017))
 * Website: remove Bountysource and Chezzo item browser links, move hhg up ([#64020](https://github.com/CleverRaven/Cataclysm-DDA/pull/64020))
