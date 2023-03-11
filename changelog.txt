@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2023-03-07-1751 (9a5cfab)
 
 Cataclysm-DDA experimental build 2023-03-07-1554 (9f7a0c8)
 * Remove hack's phantom melee (#64027)
-
-Cataclysm-DDA experimental build 2023-03-07-1051 (a15868c)
 * bump vcpkg version (#64017)
 * Website: remove Bountysource and Chezzo item browser links, move hhg up (#64020)
 * pass source argument to explosion (#64016)
