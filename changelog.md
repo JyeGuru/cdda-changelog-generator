@@ -1,3 +1,5 @@
+* Urban hospital: replace z=-1 stone layer with a layer of soil ([#64153](https://github.com/CleverRaven/Cataclysm-DDA/pull/64153))
+* Surface lab: fix auto-generated roof ([#64155](https://github.com/CleverRaven/Cataclysm-DDA/pull/64155))
 * greatly reduce the severity of nyctophobia, also removing hallucinations from it ([#64141](https://github.com/CleverRaven/Cataclysm-DDA/pull/64141))
 * Stopped clearing pocket settings from exiting menu ([#64159](https://github.com/CleverRaven/Cataclysm-DDA/pull/64159))
 
@@ -186,8 +188,6 @@
 * Change metal tanks crafting category ([#63964](https://github.com/CleverRaven/Cataclysm-DDA/pull/63964))
 * Prevent infinite focus from mi-go biotech ([#63951](https://github.com/CleverRaven/Cataclysm-DDA/pull/63951))
 * Makes earthshaper cestus nonconductive ([#63960](https://github.com/CleverRaven/Cataclysm-DDA/pull/63960))
-* Trapdoor spider den mapgen clearing flags ([#63911](https://github.com/CleverRaven/Cataclysm-DDA/pull/63911))
-* Fix a typo ([#63912](https://github.com/CleverRaven/Cataclysm-DDA/pull/63912))
 * Fix copy from for recipes with result_eocs ([#63916](https://github.com/CleverRaven/Cataclysm-DDA/pull/63916))
 * Allow EOCs to alter faction respect, like ([#63919](https://github.com/CleverRaven/Cataclysm-DDA/pull/63919))
 * Remove redundant "not a corpse" check ([#63934](https://github.com/CleverRaven/Cataclysm-DDA/pull/63934))
