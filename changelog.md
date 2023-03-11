@@ -1,3 +1,4 @@
+* Add Bungalows 17 and 18 ([#64091](https://github.com/CleverRaven/Cataclysm-DDA/pull/64091))
 * Auto pickup+favorites bug fix#64038 ([#64130](https://github.com/CleverRaven/Cataclysm-DDA/pull/64130))
 * Minor adjustments to the Physics lab setpiece. ([#64136](https://github.com/CleverRaven/Cataclysm-DDA/pull/64136))
 * Fixed inability to move down when standing on stairs next to a ledge or when flying a helicopter ([#64140](https://github.com/CleverRaven/Cataclysm-DDA/pull/64140))
@@ -116,12 +117,6 @@
 #### Cataclysm-DDA experimental build 2023-03-08-1726 ([2c69d7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-1726))
 
 * [Xedra Evolved] Make vampire cathedrals spawn in cities ([#64049](https://github.com/CleverRaven/Cataclysm-DDA/pull/64049))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-08-1513 ([2f71c08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-1513))
-
-* Freezer recipe and disassemble ([#63895](https://github.com/CleverRaven/Cataclysm-DDA/pull/63895))
 
 ---
 
