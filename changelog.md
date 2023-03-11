@@ -1,3 +1,10 @@
+* Bungalow 17 and 18 fix ([#64148](https://github.com/CleverRaven/Cataclysm-DDA/pull/64148))
+* Aftershock laser cannons ([#64123](https://github.com/CleverRaven/Cataclysm-DDA/pull/64123))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-11-1503 ([c244d36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-1503))
+
 * [Xedra Evolved] I stole the inventor's sparks for dreamer class ([#63954](https://github.com/CleverRaven/Cataclysm-DDA/pull/63954))
 * [DinoMod] tawa ([#64099](https://github.com/CleverRaven/Cataclysm-DDA/pull/64099))
 
@@ -54,12 +61,6 @@
 #### Cataclysm-DDA experimental build 2023-03-10-1119 ([77852f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-10-1119))
 
 * Update storage rings to not cause encumberance ([#64090](https://github.com/CleverRaven/Cataclysm-DDA/pull/64090))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-10-0428 ([fac3c33](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-10-0428))
-
-* Prompt player on where he wants to climb down to when pressed 'move down' button ([#63900](https://github.com/CleverRaven/Cataclysm-DDA/pull/63900))
 * Proficiencies: Fail multiplier -> skill penalty ([#64079](https://github.com/CleverRaven/Cataclysm-DDA/pull/64079))
 * Fixes trying to use null armor data on sort screen ([#64078](https://github.com/CleverRaven/Cataclysm-DDA/pull/64078))
 
@@ -93,7 +94,6 @@
 #### Cataclysm-DDA experimental build 2023-03-09-0659 ([6a4d7b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-09-0659))
 
 * Delete innawoods variant of trapdoor spider den ([#63998](https://github.com/CleverRaven/Cataclysm-DDA/pull/63998))
-* fixes the wretch's spawning abilities. ([#63904](https://github.com/CleverRaven/Cataclysm-DDA/pull/63904))
 * Handle obsolete recipes on items ([#64012](https://github.com/CleverRaven/Cataclysm-DDA/pull/64012))
 * Replace "fake" activity levels with realistic ones ([#64007](https://github.com/CleverRaven/Cataclysm-DDA/pull/64007))
 * item_location: obtain container if target is liquid ([#64021](https://github.com/CleverRaven/Cataclysm-DDA/pull/64021))
@@ -154,11 +154,6 @@
 * remove unused variable ([#64003](https://github.com/CleverRaven/Cataclysm-DDA/pull/64003))
 * tests/active_items: don't prune stale actives during test ([#64018](https://github.com/CleverRaven/Cataclysm-DDA/pull/64018))
 * Fixes for the all entry on armor organize menu ([#64006](https://github.com/CleverRaven/Cataclysm-DDA/pull/64006))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-07-1751 ([9a5cfab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-07-1751))
-
 * Fix unlimited glare ([#64022](https://github.com/CleverRaven/Cataclysm-DDA/pull/64022))
 * Remove hack's phantom melee ([#64027](https://github.com/CleverRaven/Cataclysm-DDA/pull/64027))
 * bump vcpkg version ([#64017](https://github.com/CleverRaven/Cataclysm-DDA/pull/64017))
