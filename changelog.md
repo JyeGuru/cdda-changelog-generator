@@ -1,3 +1,8 @@
+* Remove the ``fake_arc_furnace`` tool from forging and blacksmithing requirements ([#64111](https://github.com/CleverRaven/Cataclysm-DDA/pull/64111))
+* Re-add moose taming to tamable wildlife mod ([#64127](https://github.com/CleverRaven/Cataclysm-DDA/pull/64127))
+* Fix links in README.md ([#64124](https://github.com/CleverRaven/Cataclysm-DDA/pull/64124))
+* Drop Windows 32 bit builds, msvc and cross build both. ([#64128](https://github.com/CleverRaven/Cataclysm-DDA/pull/64128))
+* vcpkg cache should not be shared between 32 and 64 bit workflows ([#64125](https://github.com/CleverRaven/Cataclysm-DDA/pull/64125))
 
 ---
 
@@ -54,7 +59,6 @@
 
 * Added meat disassembly to scraps ([#64044](https://github.com/CleverRaven/Cataclysm-DDA/pull/64044))
 * Adding plastic chunks to freezers and fridges ([#64072](https://github.com/CleverRaven/Cataclysm-DDA/pull/64072))
-* Rewrite crafting skill checks to use normal roll ([#63886](https://github.com/CleverRaven/Cataclysm-DDA/pull/63886))
 
 ---
 
@@ -204,10 +208,6 @@
 * Butchering Rack Recipe Tweak ([#63890](https://github.com/CleverRaven/Cataclysm-DDA/pull/63890))
 * Stop meteorologist from dying ([#63898](https://github.com/CleverRaven/Cataclysm-DDA/pull/63898))
 * Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
-* Makes Nictating Membrane conflict with the Protective Lenses CBM ([#63881](https://github.com/CleverRaven/Cataclysm-DDA/pull/63881))
 * Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
 * Clear portal storm sound ([#63893](https://github.com/CleverRaven/Cataclysm-DDA/pull/63893))
-* Fix MSVC template warnings ([#63883](https://github.com/CleverRaven/Cataclysm-DDA/pull/63883))
-* Polish some of the NPC introductory text ([#63879](https://github.com/CleverRaven/Cataclysm-DDA/pull/63879))
-* Mutant Cats & Dogs: A Tale of Nether & Confusion ([#63878](https://github.com/CleverRaven/Cataclysm-DDA/pull/63878))
 * Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
