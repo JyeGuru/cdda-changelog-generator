@@ -1,3 +1,5 @@
+* greatly reduce the severity of nyctophobia, also removing hallucinations from it ([#64141](https://github.com/CleverRaven/Cataclysm-DDA/pull/64141))
+* Stopped clearing pocket settings from exiting menu ([#64159](https://github.com/CleverRaven/Cataclysm-DDA/pull/64159))
 
 ---
 
@@ -171,7 +173,6 @@
 * Routine tileset updates on 05 March 2023 ([#63979](https://github.com/CleverRaven/Cataclysm-DDA/pull/63979))
 * Delete Dark Skies Above ([#63981](https://github.com/CleverRaven/Cataclysm-DDA/pull/63981))
 * flip overmap tiles to default true ([#63983](https://github.com/CleverRaven/Cataclysm-DDA/pull/63983))
-* Misc Item Changes Again ([#63909](https://github.com/CleverRaven/Cataclysm-DDA/pull/63909))
 * Screech voice addition ([#63969](https://github.com/CleverRaven/Cataclysm-DDA/pull/63969))
 * Remove erroneous `SHALLOW_WATER` flag from `t_swater_dp` ([#63976](https://github.com/CleverRaven/Cataclysm-DDA/pull/63976))
 * Paint requirement fixes for practice and some construction recipes ([#63972](https://github.com/CleverRaven/Cataclysm-DDA/pull/63972))
@@ -185,7 +186,6 @@
 * Change metal tanks crafting category ([#63964](https://github.com/CleverRaven/Cataclysm-DDA/pull/63964))
 * Prevent infinite focus from mi-go biotech ([#63951](https://github.com/CleverRaven/Cataclysm-DDA/pull/63951))
 * Makes earthshaper cestus nonconductive ([#63960](https://github.com/CleverRaven/Cataclysm-DDA/pull/63960))
-* Makes Avian Eyes have the prerequirement of Insanely Perceptive ([#63905](https://github.com/CleverRaven/Cataclysm-DDA/pull/63905))
 * Trapdoor spider den mapgen clearing flags ([#63911](https://github.com/CleverRaven/Cataclysm-DDA/pull/63911))
 * Fix a typo ([#63912](https://github.com/CleverRaven/Cataclysm-DDA/pull/63912))
 * Fix copy from for recipes with result_eocs ([#63916](https://github.com/CleverRaven/Cataclysm-DDA/pull/63916))
