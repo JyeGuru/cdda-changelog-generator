@@ -1,3 +1,6 @@
+* Auto pickup+favorites bug fix#64038 ([#64130](https://github.com/CleverRaven/Cataclysm-DDA/pull/64130))
+* Minor adjustments to the Physics lab setpiece. ([#64136](https://github.com/CleverRaven/Cataclysm-DDA/pull/64136))
+* Fixed inability to move down when standing on stairs next to a ledge or when flying a helicopter ([#64140](https://github.com/CleverRaven/Cataclysm-DDA/pull/64140))
 
 ---
 
@@ -183,7 +186,6 @@
 * Prune 0.G migrations ([#63915](https://github.com/CleverRaven/Cataclysm-DDA/pull/63915))
 * Aftershock: Reduce deadliness and frequency of ruin robots ([#63938](https://github.com/CleverRaven/Cataclysm-DDA/pull/63938))
 * [Xedra Evolved] Grammar touchups ([#63961](https://github.com/CleverRaven/Cataclysm-DDA/pull/63961))
-* Add power function to EOC, remove bitwise operations ([#63892](https://github.com/CleverRaven/Cataclysm-DDA/pull/63892))
 * Fix typo in JSON_INFO.md ([#63921](https://github.com/CleverRaven/Cataclysm-DDA/pull/63921))
 * add bungalow 13 and 14 ([#63923](https://github.com/CleverRaven/Cataclysm-DDA/pull/63923))
 * Add rudimentary bionics migrations ([#63917](https://github.com/CleverRaven/Cataclysm-DDA/pull/63917))
@@ -201,8 +203,6 @@
 * Point `JSON_FLAGS.md` to `MAPGEN.md` for mapgen flags ([#63929](https://github.com/CleverRaven/Cataclysm-DDA/pull/63929))
 * fix double tux in json ([#63941](https://github.com/CleverRaven/Cataclysm-DDA/pull/63941))
 * Denim as a material and jeans buffs. ([#63913](https://github.com/CleverRaven/Cataclysm-DDA/pull/63913))
-* Butchering Rack Recipe Tweak ([#63890](https://github.com/CleverRaven/Cataclysm-DDA/pull/63890))
 * Stop meteorologist from dying ([#63898](https://github.com/CleverRaven/Cataclysm-DDA/pull/63898))
 * Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
 * Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
-* Clear portal storm sound ([#63893](https://github.com/CleverRaven/Cataclysm-DDA/pull/63893))
