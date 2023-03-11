@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-03-11-0607 (bc14c40)
+* Routine i18n updates on 11 March 2023 (#64132)
+
 Cataclysm-DDA experimental build 2023-03-11-0210 (59c0d6e)
 * Remove the ``fake_arc_furnace`` tool from forging and blacksmithing requirements (#64111)
 * Re-add moose taming to tamable wildlife mod (#64127)
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2023-03-07-1554 (9f7a0c8)
 Cataclysm-DDA experimental build 2023-03-07-1051 (a15868c)
 * bump vcpkg version (#64017)
 * Website: remove Bountysource and Chezzo item browser links, move hhg up (#64020)
-
-Cataclysm-DDA experimental build 2023-03-07-0711 (2b00a42)
 * pass source argument to explosion (#64016)
 * Add missing flags to Predator Zombie evolution line (#63953)
 * Revisit compiler support decisions (#63970)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2023-03-07-0711 (2b00a42)
 * Routine i18n updates on 04 March 2023 (#63920)
 * Add bungalow 11 and 12 (#63896)
 * Clear portal storm sound (#63893)
-* Default overmap tiles (#63887)

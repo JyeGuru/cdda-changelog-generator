@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-11-0607 ([bc14c40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-0607))
+
+* Routine i18n updates on 11 March 2023 ([#64132](https://github.com/CleverRaven/Cataclysm-DDA/pull/64132))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-11-0210 ([59c0d6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-0210))
 
 * Remove the ``fake_arc_furnace`` tool from forging and blacksmithing requirements ([#64111](https://github.com/CleverRaven/Cataclysm-DDA/pull/64111))
@@ -162,11 +168,6 @@
 
 * bump vcpkg version ([#64017](https://github.com/CleverRaven/Cataclysm-DDA/pull/64017))
 * Website: remove Bountysource and Chezzo item browser links, move hhg up ([#64020](https://github.com/CleverRaven/Cataclysm-DDA/pull/64020))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-07-0711 ([2b00a42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-07-0711))
-
 * pass source argument to explosion ([#64016](https://github.com/CleverRaven/Cataclysm-DDA/pull/64016))
 * Add missing flags to Predator Zombie evolution line ([#63953](https://github.com/CleverRaven/Cataclysm-DDA/pull/63953))
 * Revisit compiler support decisions ([#63970](https://github.com/CleverRaven/Cataclysm-DDA/pull/63970))
@@ -210,4 +211,3 @@
 * Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
 * Add bungalow 11 and 12 ([#63896](https://github.com/CleverRaven/Cataclysm-DDA/pull/63896))
 * Clear portal storm sound ([#63893](https://github.com/CleverRaven/Cataclysm-DDA/pull/63893))
-* Default overmap tiles ([#63887](https://github.com/CleverRaven/Cataclysm-DDA/pull/63887))
