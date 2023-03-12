@@ -1,3 +1,4 @@
+* Fixed autoforage doesn't work on furniture with `harvest_furn_nectar` examine function ([#64181](https://github.com/CleverRaven/Cataclysm-DDA/pull/64181))
 * Rework (and nerf) melee combat practice recipes. ([#64197](https://github.com/CleverRaven/Cataclysm-DDA/pull/64197))
 * Correct description of 'Hooves' mutation ([#64186](https://github.com/CleverRaven/Cataclysm-DDA/pull/64186))
 * Updates offices with office-related furniture ([#64169](https://github.com/CleverRaven/Cataclysm-DDA/pull/64169))
@@ -191,6 +192,5 @@
 * Routine tileset updates on 05 March 2023 ([#63979](https://github.com/CleverRaven/Cataclysm-DDA/pull/63979))
 * Delete Dark Skies Above ([#63981](https://github.com/CleverRaven/Cataclysm-DDA/pull/63981))
 * flip overmap tiles to default true ([#63983](https://github.com/CleverRaven/Cataclysm-DDA/pull/63983))
-* Screech voice addition ([#63969](https://github.com/CleverRaven/Cataclysm-DDA/pull/63969))
 * Remove erroneous `SHALLOW_WATER` flag from `t_swater_dp` ([#63976](https://github.com/CleverRaven/Cataclysm-DDA/pull/63976))
 * Paint requirement fixes for practice and some construction recipes ([#63972](https://github.com/CleverRaven/Cataclysm-DDA/pull/63972))
