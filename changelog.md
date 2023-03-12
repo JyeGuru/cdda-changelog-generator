@@ -1,3 +1,4 @@
+* Wrestling background ([#64187](https://github.com/CleverRaven/Cataclysm-DDA/pull/64187))
 * Improve modded weather ([#64120](https://github.com/CleverRaven/Cataclysm-DDA/pull/64120))
 * Don't use `cruise_thrust()` on towed vehicles ([#64188](https://github.com/CleverRaven/Cataclysm-DDA/pull/64188))
 * Spawn `liq_bandage_spray`, not `liq_bandage` ([#64192](https://github.com/CleverRaven/Cataclysm-DDA/pull/64192))
@@ -193,4 +194,3 @@
 * Routine tileset updates on 05 March 2023 ([#63979](https://github.com/CleverRaven/Cataclysm-DDA/pull/63979))
 * Delete Dark Skies Above ([#63981](https://github.com/CleverRaven/Cataclysm-DDA/pull/63981))
 * flip overmap tiles to default true ([#63983](https://github.com/CleverRaven/Cataclysm-DDA/pull/63983))
-* Remove erroneous `SHALLOW_WATER` flag from `t_swater_dp` ([#63976](https://github.com/CleverRaven/Cataclysm-DDA/pull/63976))
