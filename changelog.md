@@ -200,4 +200,3 @@
 * Change metal tanks crafting category ([#63964](https://github.com/CleverRaven/Cataclysm-DDA/pull/63964))
 * Prevent infinite focus from mi-go biotech ([#63951](https://github.com/CleverRaven/Cataclysm-DDA/pull/63951))
 * Makes earthshaper cestus nonconductive ([#63960](https://github.com/CleverRaven/Cataclysm-DDA/pull/63960))
-* fix double tux in json ([#63941](https://github.com/CleverRaven/Cataclysm-DDA/pull/63941))
