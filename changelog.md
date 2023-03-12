@@ -1,3 +1,4 @@
+* Update `cac2powder` recipe due to coal stat changes ([#64200](https://github.com/CleverRaven/Cataclysm-DDA/pull/64200))
 * Wrestling background ([#64187](https://github.com/CleverRaven/Cataclysm-DDA/pull/64187))
 * Improve modded weather ([#64120](https://github.com/CleverRaven/Cataclysm-DDA/pull/64120))
 * Don't use `cruise_thrust()` on towed vehicles ([#64188](https://github.com/CleverRaven/Cataclysm-DDA/pull/64188))
@@ -130,12 +131,6 @@
 
 * Added meat disassembly to scraps ([#64044](https://github.com/CleverRaven/Cataclysm-DDA/pull/64044))
 * Adding plastic chunks to freezers and fridges ([#64072](https://github.com/CleverRaven/Cataclysm-DDA/pull/64072))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-09-1332 ([81a5ba4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-09-1332))
-
-* Add Bungalows 15 and 16 ([#63977](https://github.com/CleverRaven/Cataclysm-DDA/pull/63977))
 
 ---
 

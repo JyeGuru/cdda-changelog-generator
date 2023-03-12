@@ -1,3 +1,4 @@
+* Update `cac2powder` recipe due to coal stat changes (#64200)
 * Wrestling background (#64187)
 * Improve modded weather (#64120)
 * Don't use `cruise_thrust()` on towed vehicles (#64188)
@@ -85,9 +86,6 @@ Cataclysm-DDA experimental build 2023-03-09-1754 (a52f23d)
 Cataclysm-DDA experimental build 2023-03-09-1523 (ca4e699)
 * Added meat disassembly to scraps (#64044)
 * Adding plastic chunks to freezers and fridges (#64072)
-
-Cataclysm-DDA experimental build 2023-03-09-1332 (81a5ba4)
-* Add Bungalows 15 and 16 (#63977)
 
 Cataclysm-DDA experimental build 2023-03-09-0659 (6a4d7b4)
 * Delete innawoods variant of trapdoor spider den (#63998)
