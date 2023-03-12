@@ -148,11 +148,6 @@
 #### Cataclysm-DDA experimental build 2023-03-08-1726 ([2c69d7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-1726))
 
 * [Xedra Evolved] Make vampire cathedrals spawn in cities ([#64049](https://github.com/CleverRaven/Cataclysm-DDA/pull/64049))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-08-0754 ([9777f4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-0754))
-
 * Add some reputation-related events ([#63958](https://github.com/CleverRaven/Cataclysm-DDA/pull/63958))
 * Disassembly recipe fixes ([#64005](https://github.com/CleverRaven/Cataclysm-DDA/pull/64005))
 * Remove the old Evac Center Merchant. ([#64032](https://github.com/CleverRaven/Cataclysm-DDA/pull/64032))
