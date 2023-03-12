@@ -196,7 +196,6 @@
 * Remove erroneous `SHALLOW_WATER` flag from `t_swater_dp` ([#63976](https://github.com/CleverRaven/Cataclysm-DDA/pull/63976))
 * Paint requirement fixes for practice and some construction recipes ([#63972](https://github.com/CleverRaven/Cataclysm-DDA/pull/63972))
 * [Xedra Evolved] Grammar touchups ([#63961](https://github.com/CleverRaven/Cataclysm-DDA/pull/63961))
-* Fix litcig burn out gated behind one-in-10 random chance ([#63946](https://github.com/CleverRaven/Cataclysm-DDA/pull/63946))
 * Change metal tanks crafting category ([#63964](https://github.com/CleverRaven/Cataclysm-DDA/pull/63964))
 * Prevent infinite focus from mi-go biotech ([#63951](https://github.com/CleverRaven/Cataclysm-DDA/pull/63951))
 * Makes earthshaper cestus nonconductive ([#63960](https://github.com/CleverRaven/Cataclysm-DDA/pull/63960))
