@@ -1,3 +1,4 @@
+* Martial Arts Descriptions Proofreading ([#64163](https://github.com/CleverRaven/Cataclysm-DDA/pull/64163))
 * Fixed autoforage doesn't work on furniture with `harvest_furn_nectar` examine function ([#64181](https://github.com/CleverRaven/Cataclysm-DDA/pull/64181))
 * Rework (and nerf) melee combat practice recipes. ([#64197](https://github.com/CleverRaven/Cataclysm-DDA/pull/64197))
 * Correct description of 'Hooves' mutation ([#64186](https://github.com/CleverRaven/Cataclysm-DDA/pull/64186))
@@ -182,7 +183,6 @@
 * bump vcpkg version ([#64017](https://github.com/CleverRaven/Cataclysm-DDA/pull/64017))
 * Website: remove Bountysource and Chezzo item browser links, move hhg up ([#64020](https://github.com/CleverRaven/Cataclysm-DDA/pull/64020))
 * pass source argument to explosion ([#64016](https://github.com/CleverRaven/Cataclysm-DDA/pull/64016))
-* Revisit compiler support decisions ([#63970](https://github.com/CleverRaven/Cataclysm-DDA/pull/63970))
 * Skill book proofread ([#63984](https://github.com/CleverRaven/Cataclysm-DDA/pull/63984))
 * Welding rod basecamp recipe ([#63990](https://github.com/CleverRaven/Cataclysm-DDA/pull/63990))
 * Remove 0.F artifact migration ([#63975](https://github.com/CleverRaven/Cataclysm-DDA/pull/63975))
