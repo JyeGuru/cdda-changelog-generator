@@ -1,3 +1,4 @@
+* Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
 * bump ubuntu image and minimum compiler versions ([#64011](https://github.com/CleverRaven/Cataclysm-DDA/pull/64011))
 
@@ -190,7 +191,6 @@
 * Change metal tanks crafting category ([#63964](https://github.com/CleverRaven/Cataclysm-DDA/pull/63964))
 * Prevent infinite focus from mi-go biotech ([#63951](https://github.com/CleverRaven/Cataclysm-DDA/pull/63951))
 * Makes earthshaper cestus nonconductive ([#63960](https://github.com/CleverRaven/Cataclysm-DDA/pull/63960))
-* Allow EOCs to alter faction respect, like ([#63919](https://github.com/CleverRaven/Cataclysm-DDA/pull/63919))
 * Remove redundant "not a corpse" check ([#63934](https://github.com/CleverRaven/Cataclysm-DDA/pull/63934))
 * NPCs documentation cleanup ([#63924](https://github.com/CleverRaven/Cataclysm-DDA/pull/63924))
 * Point `JSON_FLAGS.md` to `MAPGEN.md` for mapgen flags ([#63929](https://github.com/CleverRaven/Cataclysm-DDA/pull/63929))
