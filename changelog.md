@@ -1,3 +1,5 @@
+* Rework (and nerf) melee combat practice recipes. ([#64197](https://github.com/CleverRaven/Cataclysm-DDA/pull/64197))
+* Correct description of 'Hooves' mutation ([#64186](https://github.com/CleverRaven/Cataclysm-DDA/pull/64186))
 * Updates offices with office-related furniture ([#64169](https://github.com/CleverRaven/Cataclysm-DDA/pull/64169))
 * add bungalows 19 and 20 ([#64177](https://github.com/CleverRaven/Cataclysm-DDA/pull/64177))
 * Enchantments by ID are added to relics in finalize ([#64176](https://github.com/CleverRaven/Cataclysm-DDA/pull/64176))
@@ -192,5 +194,3 @@
 * Screech voice addition ([#63969](https://github.com/CleverRaven/Cataclysm-DDA/pull/63969))
 * Remove erroneous `SHALLOW_WATER` flag from `t_swater_dp` ([#63976](https://github.com/CleverRaven/Cataclysm-DDA/pull/63976))
 * Paint requirement fixes for practice and some construction recipes ([#63972](https://github.com/CleverRaven/Cataclysm-DDA/pull/63972))
-* [Xedra Evolved] Grammar touchups ([#63961](https://github.com/CleverRaven/Cataclysm-DDA/pull/63961))
-* Change metal tanks crafting category ([#63964](https://github.com/CleverRaven/Cataclysm-DDA/pull/63964))
