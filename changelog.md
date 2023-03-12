@@ -1,3 +1,4 @@
+* Allow mutations to remove starting traits, unhardcode more mutation functionality ([#63974](https://github.com/CleverRaven/Cataclysm-DDA/pull/63974))
 * Add a faction camp starting scenario ([#64086](https://github.com/CleverRaven/Cataclysm-DDA/pull/64086))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
@@ -181,7 +182,6 @@
 * Paint requirement fixes for practice and some construction recipes ([#63972](https://github.com/CleverRaven/Cataclysm-DDA/pull/63972))
 * Aftershock: Reduce deadliness and frequency of ruin robots ([#63938](https://github.com/CleverRaven/Cataclysm-DDA/pull/63938))
 * [Xedra Evolved] Grammar touchups ([#63961](https://github.com/CleverRaven/Cataclysm-DDA/pull/63961))
-* Fix typo in JSON_INFO.md ([#63921](https://github.com/CleverRaven/Cataclysm-DDA/pull/63921))
 * add bungalow 13 and 14 ([#63923](https://github.com/CleverRaven/Cataclysm-DDA/pull/63923))
 * Fix litcig burn out gated behind one-in-10 random chance ([#63946](https://github.com/CleverRaven/Cataclysm-DDA/pull/63946))
 * Change metal tanks crafting category ([#63964](https://github.com/CleverRaven/Cataclysm-DDA/pull/63964))
