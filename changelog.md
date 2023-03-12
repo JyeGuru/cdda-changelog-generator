@@ -1,3 +1,5 @@
+* Don't use `cruise_thrust()` on towed vehicles ([#64188](https://github.com/CleverRaven/Cataclysm-DDA/pull/64188))
+* Spawn `liq_bandage_spray`, not `liq_bandage` ([#64192](https://github.com/CleverRaven/Cataclysm-DDA/pull/64192))
 * Martial Arts Descriptions Proofreading ([#64163](https://github.com/CleverRaven/Cataclysm-DDA/pull/64163))
 * Fixed autoforage doesn't work on furniture with `harvest_furn_nectar` examine function ([#64181](https://github.com/CleverRaven/Cataclysm-DDA/pull/64181))
 * Rework (and nerf) melee combat practice recipes. ([#64197](https://github.com/CleverRaven/Cataclysm-DDA/pull/64197))
@@ -23,7 +25,6 @@
 * [Xedra Evolved] More XE spawns ([#64105](https://github.com/CleverRaven/Cataclysm-DDA/pull/64105))
 * Clean Up Occupied Homeless Camps ([#64103](https://github.com/CleverRaven/Cataclysm-DDA/pull/64103))
 * Add Environmental protection to "turtleneck (rolled)" and "turtleneck shirt (rolled)" ([#64081](https://github.com/CleverRaven/Cataclysm-DDA/pull/64081))
-* Allow mutations to remove starting traits, unhardcode more mutation functionality ([#63974](https://github.com/CleverRaven/Cataclysm-DDA/pull/63974))
 * Add a faction camp starting scenario ([#64086](https://github.com/CleverRaven/Cataclysm-DDA/pull/64086))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
@@ -193,4 +194,3 @@
 * Delete Dark Skies Above ([#63981](https://github.com/CleverRaven/Cataclysm-DDA/pull/63981))
 * flip overmap tiles to default true ([#63983](https://github.com/CleverRaven/Cataclysm-DDA/pull/63983))
 * Remove erroneous `SHALLOW_WATER` flag from `t_swater_dp` ([#63976](https://github.com/CleverRaven/Cataclysm-DDA/pull/63976))
-* Paint requirement fixes for practice and some construction recipes ([#63972](https://github.com/CleverRaven/Cataclysm-DDA/pull/63972))
