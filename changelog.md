@@ -1,3 +1,4 @@
+* Improve modded weather ([#64120](https://github.com/CleverRaven/Cataclysm-DDA/pull/64120))
 * Don't use `cruise_thrust()` on towed vehicles ([#64188](https://github.com/CleverRaven/Cataclysm-DDA/pull/64188))
 * Spawn `liq_bandage_spray`, not `liq_bandage` ([#64192](https://github.com/CleverRaven/Cataclysm-DDA/pull/64192))
 * Martial Arts Descriptions Proofreading ([#64163](https://github.com/CleverRaven/Cataclysm-DDA/pull/64163))
@@ -186,7 +187,6 @@
 * pass source argument to explosion ([#64016](https://github.com/CleverRaven/Cataclysm-DDA/pull/64016))
 * Skill book proofread ([#63984](https://github.com/CleverRaven/Cataclysm-DDA/pull/63984))
 * Welding rod basecamp recipe ([#63990](https://github.com/CleverRaven/Cataclysm-DDA/pull/63990))
-* Remove 0.F artifact migration ([#63975](https://github.com/CleverRaven/Cataclysm-DDA/pull/63975))
 * Delete Magiclysm Graphical Overmap ([#63988](https://github.com/CleverRaven/Cataclysm-DDA/pull/63988))
 * Delete CRT ([#63987](https://github.com/CleverRaven/Cataclysm-DDA/pull/63987))
 * Update the table of contents in doc/JSON_INFO.md ([#63993](https://github.com/CleverRaven/Cataclysm-DDA/pull/63993))
