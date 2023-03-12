@@ -1,5 +1,10 @@
 * Dissecting mutant mammals yields samples ([#64143](https://github.com/CleverRaven/Cataclysm-DDA/pull/64143))
 * Cleanup after island prison cleanup ([#64115](https://github.com/CleverRaven/Cataclysm-DDA/pull/64115))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-12-0848 ([41a9acd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-12-0848))
+
 * make rm13 armor a bit less strong ([#64110](https://github.com/CleverRaven/Cataclysm-DDA/pull/64110))
 * [Xedra Evolved] More XE spawns ([#64105](https://github.com/CleverRaven/Cataclysm-DDA/pull/64105))
 * Clean Up Occupied Homeless Camps ([#64103](https://github.com/CleverRaven/Cataclysm-DDA/pull/64103))
