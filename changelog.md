@@ -1,3 +1,5 @@
+* Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
+* bump ubuntu image and minimum compiler versions ([#64011](https://github.com/CleverRaven/Cataclysm-DDA/pull/64011))
 
 ---
 
@@ -151,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2023-03-08-0754 ([9777f4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-0754))
 
 * Add some reputation-related events ([#63958](https://github.com/CleverRaven/Cataclysm-DDA/pull/63958))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-08-0447 ([524ad22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-0447))
-
 * Disassembly recipe fixes ([#64005](https://github.com/CleverRaven/Cataclysm-DDA/pull/64005))
 * Remove the old Evac Center Merchant. ([#64032](https://github.com/CleverRaven/Cataclysm-DDA/pull/64032))
 * Fix broken code snippet in `EFFECTS_JSON.md` ([#64035](https://github.com/CleverRaven/Cataclysm-DDA/pull/64035))
@@ -189,12 +186,10 @@
 * [Xedra Evolved] Grammar touchups ([#63961](https://github.com/CleverRaven/Cataclysm-DDA/pull/63961))
 * Fix typo in JSON_INFO.md ([#63921](https://github.com/CleverRaven/Cataclysm-DDA/pull/63921))
 * add bungalow 13 and 14 ([#63923](https://github.com/CleverRaven/Cataclysm-DDA/pull/63923))
-* Add rudimentary bionics migrations ([#63917](https://github.com/CleverRaven/Cataclysm-DDA/pull/63917))
 * Fix litcig burn out gated behind one-in-10 random chance ([#63946](https://github.com/CleverRaven/Cataclysm-DDA/pull/63946))
 * Change metal tanks crafting category ([#63964](https://github.com/CleverRaven/Cataclysm-DDA/pull/63964))
 * Prevent infinite focus from mi-go biotech ([#63951](https://github.com/CleverRaven/Cataclysm-DDA/pull/63951))
 * Makes earthshaper cestus nonconductive ([#63960](https://github.com/CleverRaven/Cataclysm-DDA/pull/63960))
-* Fix copy from for recipes with result_eocs ([#63916](https://github.com/CleverRaven/Cataclysm-DDA/pull/63916))
 * Allow EOCs to alter faction respect, like ([#63919](https://github.com/CleverRaven/Cataclysm-DDA/pull/63919))
 * Remove redundant "not a corpse" check ([#63934](https://github.com/CleverRaven/Cataclysm-DDA/pull/63934))
 * NPCs documentation cleanup ([#63924](https://github.com/CleverRaven/Cataclysm-DDA/pull/63924))
