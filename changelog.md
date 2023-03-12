@@ -1,3 +1,4 @@
+* Add a faction camp starting scenario ([#64086](https://github.com/CleverRaven/Cataclysm-DDA/pull/64086))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
 * bump ubuntu image and minimum compiler versions ([#64011](https://github.com/CleverRaven/Cataclysm-DDA/pull/64011))
@@ -190,4 +191,3 @@
 * NPCs documentation cleanup ([#63924](https://github.com/CleverRaven/Cataclysm-DDA/pull/63924))
 * Point `JSON_FLAGS.md` to `MAPGEN.md` for mapgen flags ([#63929](https://github.com/CleverRaven/Cataclysm-DDA/pull/63929))
 * fix double tux in json ([#63941](https://github.com/CleverRaven/Cataclysm-DDA/pull/63941))
-* Routine i18n updates on 04 March 2023 ([#63920](https://github.com/CleverRaven/Cataclysm-DDA/pull/63920))
