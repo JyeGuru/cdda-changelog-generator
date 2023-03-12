@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-03-12-2234 (5923865)
 * Fix bug with hats providing coverage uniformly across the entire head (#64087)
 * Update `cac2powder` recipe due to coal stat changes (#64200)
 * Wrestling background (#64187)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2023-03-09-0225 (2b14ee6)
 
 Cataclysm-DDA experimental build 2023-03-08-1903 (b1675c4)
 * `veh_interact` structure packing refactoring (#64045)
-
-Cataclysm-DDA experimental build 2023-03-08-1726 (2c69d7b)
 * [Xedra Evolved] Make vampire cathedrals spawn in cities (#64049)
 * Disassembly recipe fixes (#64005)
 * Remove the old Evac Center Merchant. (#64032)
