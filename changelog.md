@@ -1,3 +1,9 @@
+* Add pockets/collar/hood items to body status for relevant parts ([#64165](https://github.com/CleverRaven/Cataclysm-DDA/pull/64165))
+* No double unarmed (beginner) ([#64215](https://github.com/CleverRaven/Cataclysm-DDA/pull/64215))
+* Fix far-sighted butlers spawning without reading glasses ([#64168](https://github.com/CleverRaven/Cataclysm-DDA/pull/64168))
+* Routine tileset updates on 13 March 2023 ([#64212](https://github.com/CleverRaven/Cataclysm-DDA/pull/64212))
+* Reinforced security camera power fix ([#64216](https://github.com/CleverRaven/Cataclysm-DDA/pull/64216))
+* item_location: add a parent_pocket() helper ([#64178](https://github.com/CleverRaven/Cataclysm-DDA/pull/64178))
 * Soldier drop tweaks ([#64161](https://github.com/CleverRaven/Cataclysm-DDA/pull/64161))
 
 ---
@@ -178,9 +184,4 @@
 * bump vcpkg version ([#64017](https://github.com/CleverRaven/Cataclysm-DDA/pull/64017))
 * Website: remove Bountysource and Chezzo item browser links, move hhg up ([#64020](https://github.com/CleverRaven/Cataclysm-DDA/pull/64020))
 * pass source argument to explosion ([#64016](https://github.com/CleverRaven/Cataclysm-DDA/pull/64016))
-* Skill book proofread ([#63984](https://github.com/CleverRaven/Cataclysm-DDA/pull/63984))
-* Welding rod basecamp recipe ([#63990](https://github.com/CleverRaven/Cataclysm-DDA/pull/63990))
-* Delete Magiclysm Graphical Overmap ([#63988](https://github.com/CleverRaven/Cataclysm-DDA/pull/63988))
-* Delete CRT ([#63987](https://github.com/CleverRaven/Cataclysm-DDA/pull/63987))
 * Update the table of contents in doc/JSON_INFO.md ([#63993](https://github.com/CleverRaven/Cataclysm-DDA/pull/63993))
-* flip overmap tiles to default true ([#63983](https://github.com/CleverRaven/Cataclysm-DDA/pull/63983))
