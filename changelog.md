@@ -161,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2023-03-09-0225 ([2b14ee6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-09-0225))
 
 * Riot armor PALS fix ([#64062](https://github.com/CleverRaven/Cataclysm-DDA/pull/64062))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-08-1903 ([b1675c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-08-1903))
-
 * `veh_interact` structure packing refactoring ([#64045](https://github.com/CleverRaven/Cataclysm-DDA/pull/64045))
 * [Xedra Evolved] Make vampire cathedrals spawn in cities ([#64049](https://github.com/CleverRaven/Cataclysm-DDA/pull/64049))
 * Disassembly recipe fixes ([#64005](https://github.com/CleverRaven/Cataclysm-DDA/pull/64005))
