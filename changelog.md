@@ -1,3 +1,5 @@
+* Field Overlay Fixes ([#64231](https://github.com/CleverRaven/Cataclysm-DDA/pull/64231))
+* Fix category spawn probability ([#64223](https://github.com/CleverRaven/Cataclysm-DDA/pull/64223))
 * item: fix nested software name ([#64218](https://github.com/CleverRaven/Cataclysm-DDA/pull/64218))
 
 ---
@@ -179,12 +181,10 @@
 * Riot armor PALS fix ([#64062](https://github.com/CleverRaven/Cataclysm-DDA/pull/64062))
 * `veh_interact` structure packing refactoring ([#64045](https://github.com/CleverRaven/Cataclysm-DDA/pull/64045))
 * [Xedra Evolved] Make vampire cathedrals spawn in cities ([#64049](https://github.com/CleverRaven/Cataclysm-DDA/pull/64049))
-* Disassembly recipe fixes ([#64005](https://github.com/CleverRaven/Cataclysm-DDA/pull/64005))
 * Remove the old Evac Center Merchant. ([#64032](https://github.com/CleverRaven/Cataclysm-DDA/pull/64032))
 * Fix broken code snippet in `EFFECTS_JSON.md` ([#64035](https://github.com/CleverRaven/Cataclysm-DDA/pull/64035))
 * Add space in cashcard displayname ([#64026](https://github.com/CleverRaven/Cataclysm-DDA/pull/64026))
 * tests/active_items: don't prune stale actives during test ([#64018](https://github.com/CleverRaven/Cataclysm-DDA/pull/64018))
-* Fixes for the all entry on armor organize menu ([#64006](https://github.com/CleverRaven/Cataclysm-DDA/pull/64006))
 * Fix unlimited glare ([#64022](https://github.com/CleverRaven/Cataclysm-DDA/pull/64022))
 * Remove hack's phantom melee ([#64027](https://github.com/CleverRaven/Cataclysm-DDA/pull/64027))
 * bump vcpkg version ([#64017](https://github.com/CleverRaven/Cataclysm-DDA/pull/64017))
