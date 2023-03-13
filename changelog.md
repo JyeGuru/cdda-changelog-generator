@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-13-1427 ([a98d542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-13-1427))
+
+* EOC Achievements ([#64064](https://github.com/CleverRaven/Cataclysm-DDA/pull/64064))
 * Add DEBUG_CNF mutation to the character in the test_craft_via_rig test to stop it from failing due to bad seed/RNG ([#64191](https://github.com/CleverRaven/Cataclysm-DDA/pull/64191))
 
 ---
@@ -175,7 +181,6 @@
 * Remove the old Evac Center Merchant. ([#64032](https://github.com/CleverRaven/Cataclysm-DDA/pull/64032))
 * Fix broken code snippet in `EFFECTS_JSON.md` ([#64035](https://github.com/CleverRaven/Cataclysm-DDA/pull/64035))
 * Add space in cashcard displayname ([#64026](https://github.com/CleverRaven/Cataclysm-DDA/pull/64026))
-* item: set zombie var for corpses with source_monster ([#63996](https://github.com/CleverRaven/Cataclysm-DDA/pull/63996))
 * mapgen/remove_veh: remove from main map unconditionally ([#64002](https://github.com/CleverRaven/Cataclysm-DDA/pull/64002))
 * remove unused variable ([#64003](https://github.com/CleverRaven/Cataclysm-DDA/pull/64003))
 * tests/active_items: don't prune stale actives during test ([#64018](https://github.com/CleverRaven/Cataclysm-DDA/pull/64018))
