@@ -1,4 +1,9 @@
 * Add DEBUG_CNF mutation to the character in the test_craft_via_rig test to stop it from failing due to bad seed/RNG ([#64191](https://github.com/CleverRaven/Cataclysm-DDA/pull/64191))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-13-0517 ([c50f83d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-13-0517))
+
 * Add pockets/collar/hood items to body status for relevant parts ([#64165](https://github.com/CleverRaven/Cataclysm-DDA/pull/64165))
 * No double unarmed (beginner) ([#64215](https://github.com/CleverRaven/Cataclysm-DDA/pull/64215))
 * Fix far-sighted butlers spawning without reading glasses ([#64168](https://github.com/CleverRaven/Cataclysm-DDA/pull/64168))
@@ -163,11 +168,6 @@
 * auto label another format for issue resolution ([#64073](https://github.com/CleverRaven/Cataclysm-DDA/pull/64073))
 * Update labeler to catch another file for EOC label ([#64047](https://github.com/CleverRaven/Cataclysm-DDA/pull/64047))
 * Document the function of `chat_topics` in MONSTER.md ([#64053](https://github.com/CleverRaven/Cataclysm-DDA/pull/64053))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-09-0225 ([2b14ee6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-09-0225))
-
 * Riot armor PALS fix ([#64062](https://github.com/CleverRaven/Cataclysm-DDA/pull/64062))
 * `veh_interact` structure packing refactoring ([#64045](https://github.com/CleverRaven/Cataclysm-DDA/pull/64045))
 * [Xedra Evolved] Make vampire cathedrals spawn in cities ([#64049](https://github.com/CleverRaven/Cataclysm-DDA/pull/64049))
