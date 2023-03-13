@@ -1,3 +1,4 @@
+* Soldier drop tweaks ([#64161](https://github.com/CleverRaven/Cataclysm-DDA/pull/64161))
 
 ---
 
@@ -182,5 +183,4 @@
 * Delete Magiclysm Graphical Overmap ([#63988](https://github.com/CleverRaven/Cataclysm-DDA/pull/63988))
 * Delete CRT ([#63987](https://github.com/CleverRaven/Cataclysm-DDA/pull/63987))
 * Update the table of contents in doc/JSON_INFO.md ([#63993](https://github.com/CleverRaven/Cataclysm-DDA/pull/63993))
-* Delete Dark Skies Above ([#63981](https://github.com/CleverRaven/Cataclysm-DDA/pull/63981))
 * flip overmap tiles to default true ([#63983](https://github.com/CleverRaven/Cataclysm-DDA/pull/63983))

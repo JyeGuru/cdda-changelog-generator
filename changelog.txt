@@ -1,3 +1,4 @@
+* Soldier drop tweaks (#64161)
 
 Cataclysm-DDA experimental build 2023-03-12-2234 (5923865)
 * Fix bug with hats providing coverage uniformly across the entire head (#64087)
@@ -128,5 +129,4 @@ Cataclysm-DDA experimental build 2023-03-09-0225 (2b14ee6)
 * Delete Magiclysm Graphical Overmap (#63988)
 * Delete CRT (#63987)
 * Update the table of contents in doc/JSON_INFO.md (#63993)
-* Delete Dark Skies Above (#63981)
 * flip overmap tiles to default true (#63983)
