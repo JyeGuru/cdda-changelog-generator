@@ -1,3 +1,4 @@
+* Add DEBUG_CNF mutation to the character in the test_craft_via_rig test to stop it from failing due to bad seed/RNG ([#64191](https://github.com/CleverRaven/Cataclysm-DDA/pull/64191))
 * Add pockets/collar/hood items to body status for relevant parts ([#64165](https://github.com/CleverRaven/Cataclysm-DDA/pull/64165))
 * No double unarmed (beginner) ([#64215](https://github.com/CleverRaven/Cataclysm-DDA/pull/64215))
 * Fix far-sighted butlers spawning without reading glasses ([#64168](https://github.com/CleverRaven/Cataclysm-DDA/pull/64168))
@@ -184,4 +185,3 @@
 * bump vcpkg version ([#64017](https://github.com/CleverRaven/Cataclysm-DDA/pull/64017))
 * Website: remove Bountysource and Chezzo item browser links, move hhg up ([#64020](https://github.com/CleverRaven/Cataclysm-DDA/pull/64020))
 * pass source argument to explosion ([#64016](https://github.com/CleverRaven/Cataclysm-DDA/pull/64016))
-* Update the table of contents in doc/JSON_INFO.md ([#63993](https://github.com/CleverRaven/Cataclysm-DDA/pull/63993))
