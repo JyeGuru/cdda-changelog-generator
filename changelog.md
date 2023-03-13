@@ -1,3 +1,6 @@
+* item: fix nested software name ([#64218](https://github.com/CleverRaven/Cataclysm-DDA/pull/64218))
+* Fix issue with loading worn or wielded enchanted items ([#64206](https://github.com/CleverRaven/Cataclysm-DDA/pull/64206))
+* remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
 
 ---
 
@@ -156,12 +159,6 @@
 
 * Added meat disassembly to scraps ([#64044](https://github.com/CleverRaven/Cataclysm-DDA/pull/64044))
 * Adding plastic chunks to freezers and fridges ([#64072](https://github.com/CleverRaven/Cataclysm-DDA/pull/64072))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-09-0659 ([6a4d7b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-09-0659))
-
-* Delete innawoods variant of trapdoor spider den ([#63998](https://github.com/CleverRaven/Cataclysm-DDA/pull/63998))
 * Handle obsolete recipes on items ([#64012](https://github.com/CleverRaven/Cataclysm-DDA/pull/64012))
 * Replace "fake" activity levels with realistic ones ([#64007](https://github.com/CleverRaven/Cataclysm-DDA/pull/64007))
 * item_location: obtain container if target is liquid ([#64021](https://github.com/CleverRaven/Cataclysm-DDA/pull/64021))
@@ -181,8 +178,6 @@
 * Remove the old Evac Center Merchant. ([#64032](https://github.com/CleverRaven/Cataclysm-DDA/pull/64032))
 * Fix broken code snippet in `EFFECTS_JSON.md` ([#64035](https://github.com/CleverRaven/Cataclysm-DDA/pull/64035))
 * Add space in cashcard displayname ([#64026](https://github.com/CleverRaven/Cataclysm-DDA/pull/64026))
-* mapgen/remove_veh: remove from main map unconditionally ([#64002](https://github.com/CleverRaven/Cataclysm-DDA/pull/64002))
-* remove unused variable ([#64003](https://github.com/CleverRaven/Cataclysm-DDA/pull/64003))
 * tests/active_items: don't prune stale actives during test ([#64018](https://github.com/CleverRaven/Cataclysm-DDA/pull/64018))
 * Fixes for the all entry on armor organize menu ([#64006](https://github.com/CleverRaven/Cataclysm-DDA/pull/64006))
 * Fix unlimited glare ([#64022](https://github.com/CleverRaven/Cataclysm-DDA/pull/64022))
