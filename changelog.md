@@ -1,4 +1,9 @@
 * item: fix nested software name ([#64218](https://github.com/CleverRaven/Cataclysm-DDA/pull/64218))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-13-2347 ([ce1744a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-13-2347))
+
 * Fix issue with loading worn or wielded enchanted items ([#64206](https://github.com/CleverRaven/Cataclysm-DDA/pull/64206))
 * remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
 

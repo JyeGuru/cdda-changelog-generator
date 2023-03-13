@@ -1,4 +1,6 @@
 * item: fix nested software name (#64218)
+
+Cataclysm-DDA experimental build 2023-03-13-2347 (ce1744a)
 * Fix issue with loading worn or wielded enchanted items (#64206)
 * remove vestegial symlink (#64244)
 
