@@ -1,3 +1,4 @@
+* Update known bad density (#64258)
 
 Cataclysm-DDA experimental build 2023-03-14-0639 (cb64435)
 * [Magiclysm] Make the Crusader attunement's Sword of Judgement sheathable (#64199)
@@ -132,5 +133,4 @@ Cataclysm-DDA experimental build 2023-03-10-0157 (ff5501c)
 * [Xedra Evolved] Make vampire cathedrals spawn in cities (#64049)
 * Remove the old Evac Center Merchant. (#64032)
 * Fix broken code snippet in `EFFECTS_JSON.md` (#64035)
-* Add space in cashcard displayname (#64026)
 * Remove hack's phantom melee (#64027)

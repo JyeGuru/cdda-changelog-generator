@@ -1,3 +1,4 @@
+* Update known bad density ([#64258](https://github.com/CleverRaven/Cataclysm-DDA/pull/64258))
 
 ---
 
@@ -192,5 +193,4 @@
 * [Xedra Evolved] Make vampire cathedrals spawn in cities ([#64049](https://github.com/CleverRaven/Cataclysm-DDA/pull/64049))
 * Remove the old Evac Center Merchant. ([#64032](https://github.com/CleverRaven/Cataclysm-DDA/pull/64032))
 * Fix broken code snippet in `EFFECTS_JSON.md` ([#64035](https://github.com/CleverRaven/Cataclysm-DDA/pull/64035))
-* Add space in cashcard displayname ([#64026](https://github.com/CleverRaven/Cataclysm-DDA/pull/64026))
 * Remove hack's phantom melee ([#64027](https://github.com/CleverRaven/Cataclysm-DDA/pull/64027))
