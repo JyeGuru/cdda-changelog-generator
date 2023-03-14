@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-03-14-0639 (cb64435)
+* [Magiclysm] Make the Crusader attunement's Sword of Judgement sheathable (#64199)
+
 Cataclysm-DDA experimental build 2023-03-14-0331 (3a1e046)
 * Less severe nyctophobia backport from #64141 (#64167)
 * Vehicle engine functions cleanup (#64179)
@@ -112,8 +115,6 @@ Cataclysm-DDA experimental build 2023-03-10-1119 (77852f8)
 
 Cataclysm-DDA experimental build 2023-03-10-0157 (ff5501c)
 * Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. (#64084)
-
-Cataclysm-DDA experimental build 2023-03-09-1754 (a52f23d)
 * EOC triggers for OMT entry and exit (#64074)
 * Added meat disassembly to scraps (#64044)
 * Adding plastic chunks to freezers and fridges (#64072)
@@ -132,5 +133,4 @@ Cataclysm-DDA experimental build 2023-03-09-1754 (a52f23d)
 * Remove the old Evac Center Merchant. (#64032)
 * Fix broken code snippet in `EFFECTS_JSON.md` (#64035)
 * Add space in cashcard displayname (#64026)
-* Fix unlimited glare (#64022)
 * Remove hack's phantom melee (#64027)
