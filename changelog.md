@@ -1,3 +1,6 @@
+* Megastore cleanup ([#64196](https://github.com/CleverRaven/Cataclysm-DDA/pull/64196))
+* Maybe Hopefully Fix for the double ``D`` menu ([#64239](https://github.com/CleverRaven/Cataclysm-DDA/pull/64239))
+* harmonica held by the neck, not head ([#64238](https://github.com/CleverRaven/Cataclysm-DDA/pull/64238))
 * Field Overlay Fixes ([#64231](https://github.com/CleverRaven/Cataclysm-DDA/pull/64231))
 * Fix category spawn probability ([#64223](https://github.com/CleverRaven/Cataclysm-DDA/pull/64223))
 * item: fix nested software name ([#64218](https://github.com/CleverRaven/Cataclysm-DDA/pull/64218))
@@ -66,7 +69,6 @@
 * Add a faction camp starting scenario ([#64086](https://github.com/CleverRaven/Cataclysm-DDA/pull/64086))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
-* bump ubuntu image and minimum compiler versions ([#64011](https://github.com/CleverRaven/Cataclysm-DDA/pull/64011))
 
 ---
 
@@ -166,8 +168,6 @@
 
 * Added meat disassembly to scraps ([#64044](https://github.com/CleverRaven/Cataclysm-DDA/pull/64044))
 * Adding plastic chunks to freezers and fridges ([#64072](https://github.com/CleverRaven/Cataclysm-DDA/pull/64072))
-* Handle obsolete recipes on items ([#64012](https://github.com/CleverRaven/Cataclysm-DDA/pull/64012))
-* Replace "fake" activity levels with realistic ones ([#64007](https://github.com/CleverRaven/Cataclysm-DDA/pull/64007))
 * item_location: obtain container if target is liquid ([#64021](https://github.com/CleverRaven/Cataclysm-DDA/pull/64021))
 * Fix asrgs turning into lamps ([#64034](https://github.com/CleverRaven/Cataclysm-DDA/pull/64034))
 * Snow Shovel Tweaks ([#64055](https://github.com/CleverRaven/Cataclysm-DDA/pull/64055))
