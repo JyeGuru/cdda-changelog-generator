@@ -1,3 +1,7 @@
+* Fix typo in minimum gcc version (#64257)
+
+Cataclysm-DDA experimental build 2023-03-14-1917 (a8a04b6)
+* Set Linux release builds to Ubuntu 20.04 (#64264)
 * Update known bad density (#64258)
 
 Cataclysm-DDA experimental build 2023-03-14-0639 (cb64435)
@@ -113,8 +117,6 @@ Cataclysm-DDA experimental build 2023-03-10-1119 (77852f8)
 * Update storage rings to not cause encumberance (#64090)
 * Proficiencies: Fail multiplier -> skill penalty (#64079)
 * Fixes trying to use null armor data on sort screen (#64078)
-
-Cataclysm-DDA experimental build 2023-03-10-0157 (ff5501c)
 * Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. (#64084)
 * EOC triggers for OMT entry and exit (#64074)
 * Added meat disassembly to scraps (#64044)
@@ -131,6 +133,4 @@ Cataclysm-DDA experimental build 2023-03-10-0157 (ff5501c)
 * Riot armor PALS fix (#64062)
 * `veh_interact` structure packing refactoring (#64045)
 * [Xedra Evolved] Make vampire cathedrals spawn in cities (#64049)
-* Remove the old Evac Center Merchant. (#64032)
 * Fix broken code snippet in `EFFECTS_JSON.md` (#64035)
-* Remove hack's phantom melee (#64027)
