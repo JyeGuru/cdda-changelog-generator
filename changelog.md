@@ -1,3 +1,4 @@
+* Less severe nyctophobia backport from #64141 ([#64167](https://github.com/CleverRaven/Cataclysm-DDA/pull/64167))
 * Vehicle engine functions cleanup ([#64179](https://github.com/CleverRaven/Cataclysm-DDA/pull/64179))
 * electric-jackhammer-power-tweaks ([#64182](https://github.com/CleverRaven/Cataclysm-DDA/pull/64182))
 * Cull pets ([#64240](https://github.com/CleverRaven/Cataclysm-DDA/pull/64240))
@@ -194,4 +195,3 @@
 * Add space in cashcard displayname ([#64026](https://github.com/CleverRaven/Cataclysm-DDA/pull/64026))
 * Fix unlimited glare ([#64022](https://github.com/CleverRaven/Cataclysm-DDA/pull/64022))
 * Remove hack's phantom melee ([#64027](https://github.com/CleverRaven/Cataclysm-DDA/pull/64027))
-* Website: remove Bountysource and Chezzo item browser links, move hhg up ([#64020](https://github.com/CleverRaven/Cataclysm-DDA/pull/64020))
