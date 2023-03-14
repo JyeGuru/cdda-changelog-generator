@@ -1,3 +1,11 @@
+* Vehicle engine functions cleanup ([#64179](https://github.com/CleverRaven/Cataclysm-DDA/pull/64179))
+* electric-jackhammer-power-tweaks ([#64182](https://github.com/CleverRaven/Cataclysm-DDA/pull/64182))
+* Cull pets ([#64240](https://github.com/CleverRaven/Cataclysm-DDA/pull/64240))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-14-0125 ([80175a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-14-0125))
+
 * Megastore cleanup ([#64196](https://github.com/CleverRaven/Cataclysm-DDA/pull/64196))
 * Maybe Hopefully Fix for the double ``D`` menu ([#64239](https://github.com/CleverRaven/Cataclysm-DDA/pull/64239))
 * harmonica held by the neck, not head ([#64238](https://github.com/CleverRaven/Cataclysm-DDA/pull/64238))
@@ -184,9 +192,6 @@
 * Remove the old Evac Center Merchant. ([#64032](https://github.com/CleverRaven/Cataclysm-DDA/pull/64032))
 * Fix broken code snippet in `EFFECTS_JSON.md` ([#64035](https://github.com/CleverRaven/Cataclysm-DDA/pull/64035))
 * Add space in cashcard displayname ([#64026](https://github.com/CleverRaven/Cataclysm-DDA/pull/64026))
-* tests/active_items: don't prune stale actives during test ([#64018](https://github.com/CleverRaven/Cataclysm-DDA/pull/64018))
 * Fix unlimited glare ([#64022](https://github.com/CleverRaven/Cataclysm-DDA/pull/64022))
 * Remove hack's phantom melee ([#64027](https://github.com/CleverRaven/Cataclysm-DDA/pull/64027))
-* bump vcpkg version ([#64017](https://github.com/CleverRaven/Cataclysm-DDA/pull/64017))
 * Website: remove Bountysource and Chezzo item browser links, move hhg up ([#64020](https://github.com/CleverRaven/Cataclysm-DDA/pull/64020))
-* pass source argument to explosion ([#64016](https://github.com/CleverRaven/Cataclysm-DDA/pull/64016))
