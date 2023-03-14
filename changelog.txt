@@ -2,7 +2,7 @@
 Cataclysm-DDA experimental build 2023-03-14-0639 (cb64435)
 * [Magiclysm] Make the Crusader attunement's Sword of Judgement sheathable (#64199)
 
-Cataclysm-DDA experimental build 2023-03-14-0331 (3a1e046)
+0.G point release preview (do not update to if on experimental) (3a1e046)
 * Less severe nyctophobia backport from #64141 (#64167)
 * Vehicle engine functions cleanup (#64179)
 * electric-jackhammer-power-tweaks (#64182)

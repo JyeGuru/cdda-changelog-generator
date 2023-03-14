@@ -7,7 +7,7 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-03-14-0331 ([3a1e046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-14-0331))
+#### 0.G point release preview (do not update to if on experimental) ([3a1e046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-14-0331))
 
 * Less severe nyctophobia backport from #64141 ([#64167](https://github.com/CleverRaven/Cataclysm-DDA/pull/64167))
 * Vehicle engine functions cleanup ([#64179](https://github.com/CleverRaven/Cataclysm-DDA/pull/64179))
