@@ -1,3 +1,4 @@
+* Fix pillow cases spawning empty ([#64272](https://github.com/CleverRaven/Cataclysm-DDA/pull/64272))
 * Items show what enchantments they give ([#64119](https://github.com/CleverRaven/Cataclysm-DDA/pull/64119))
 * only grab one target at a time ([#64250](https://github.com/CleverRaven/Cataclysm-DDA/pull/64250))
 * Update Occupied Lumbermills ([#64248](https://github.com/CleverRaven/Cataclysm-DDA/pull/64248))
@@ -198,4 +199,3 @@
 * Fixes trying to use null armor data on sort screen ([#64078](https://github.com/CleverRaven/Cataclysm-DDA/pull/64078))
 * Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. ([#64084](https://github.com/CleverRaven/Cataclysm-DDA/pull/64084))
 * EOC triggers for OMT entry and exit ([#64074](https://github.com/CleverRaven/Cataclysm-DDA/pull/64074))
-* auto label another format for issue resolution ([#64073](https://github.com/CleverRaven/Cataclysm-DDA/pull/64073))
