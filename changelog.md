@@ -1,3 +1,7 @@
+* Items show what enchantments they give ([#64119](https://github.com/CleverRaven/Cataclysm-DDA/pull/64119))
+* only grab one target at a time ([#64250](https://github.com/CleverRaven/Cataclysm-DDA/pull/64250))
+* Update Occupied Lumbermills ([#64248](https://github.com/CleverRaven/Cataclysm-DDA/pull/64248))
+* Fix microwave missing ammo type ([#64256](https://github.com/CleverRaven/Cataclysm-DDA/pull/64256))
 * Updates more offices with office-related furniture ([#64243](https://github.com/CleverRaven/Cataclysm-DDA/pull/64243))
 
 ---
@@ -87,12 +91,6 @@
 
 * Fix issue with loading worn or wielded enchanted items ([#64206](https://github.com/CleverRaven/Cataclysm-DDA/pull/64206))
 * remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-13-1427 ([a98d542](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-13-1427))
-
-* EOC Achievements ([#64064](https://github.com/CleverRaven/Cataclysm-DDA/pull/64064))
 * Add DEBUG_CNF mutation to the character in the test_craft_via_rig test to stop it from failing due to bad seed/RNG ([#64191](https://github.com/CleverRaven/Cataclysm-DDA/pull/64191))
 
 ---
@@ -200,7 +198,4 @@
 * Fixes trying to use null armor data on sort screen ([#64078](https://github.com/CleverRaven/Cataclysm-DDA/pull/64078))
 * Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. ([#64084](https://github.com/CleverRaven/Cataclysm-DDA/pull/64084))
 * EOC triggers for OMT entry and exit ([#64074](https://github.com/CleverRaven/Cataclysm-DDA/pull/64074))
-* Adding plastic chunks to freezers and fridges ([#64072](https://github.com/CleverRaven/Cataclysm-DDA/pull/64072))
-* Fix monsters bleeding on all hits ([#64068](https://github.com/CleverRaven/Cataclysm-DDA/pull/64068))
-* Add ability to suppress message for spawning items ([#64070](https://github.com/CleverRaven/Cataclysm-DDA/pull/64070))
 * auto label another format for issue resolution ([#64073](https://github.com/CleverRaven/Cataclysm-DDA/pull/64073))
