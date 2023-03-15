@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-15-0305 ([2531621](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0305))
+
 * Fixing some book stuff ([#64208](https://github.com/CleverRaven/Cataclysm-DDA/pull/64208))
 * Disallow working on vehicle wheels in water ([#64233](https://github.com/CleverRaven/Cataclysm-DDA/pull/64233))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
@@ -180,11 +185,6 @@
 * Remove Moose Taming from basegame ([#64095](https://github.com/CleverRaven/Cataclysm-DDA/pull/64095))
 * Disassembly doesn't return items with UNRECOVERABLE flag ([#64102](https://github.com/CleverRaven/Cataclysm-DDA/pull/64102))
 * catchall for nonarmor on sort armor screen ([#64100](https://github.com/CleverRaven/Cataclysm-DDA/pull/64100))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-10-1119 ([77852f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-10-1119))
-
 * Update storage rings to not cause encumberance ([#64090](https://github.com/CleverRaven/Cataclysm-DDA/pull/64090))
 * Proficiencies: Fail multiplier -> skill penalty ([#64079](https://github.com/CleverRaven/Cataclysm-DDA/pull/64079))
 * Fixes trying to use null armor data on sort screen ([#64078](https://github.com/CleverRaven/Cataclysm-DDA/pull/64078))
