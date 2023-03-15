@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-15-0858 ([8286f4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0858))
+
+* Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-15-0305 ([2531621](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0305))
 
 * Fixing some book stuff ([#64208](https://github.com/CleverRaven/Cataclysm-DDA/pull/64208))
@@ -197,5 +203,4 @@
 * Fix monsters bleeding on all hits ([#64068](https://github.com/CleverRaven/Cataclysm-DDA/pull/64068))
 * Add ability to suppress message for spawning items ([#64070](https://github.com/CleverRaven/Cataclysm-DDA/pull/64070))
 * auto label another format for issue resolution ([#64073](https://github.com/CleverRaven/Cataclysm-DDA/pull/64073))
-* Document the function of `chat_topics` in MONSTER.md ([#64053](https://github.com/CleverRaven/Cataclysm-DDA/pull/64053))
 * Riot armor PALS fix ([#64062](https://github.com/CleverRaven/Cataclysm-DDA/pull/64062))

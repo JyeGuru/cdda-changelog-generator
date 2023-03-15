@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-03-15-0858 (8286f4d)
+* Small survivor's bunker update (#64261)
+
 Cataclysm-DDA experimental build 2023-03-15-0305 (2531621)
 * Fixing some book stuff (#64208)
 * Disallow working on vehicle wheels in water (#64233)
@@ -134,5 +137,4 @@ Cataclysm-DDA experimental build 2023-03-10-1820 (5efc471)
 * Fix monsters bleeding on all hits (#64068)
 * Add ability to suppress message for spawning items (#64070)
 * auto label another format for issue resolution (#64073)
-* Document the function of `chat_topics` in MONSTER.md (#64053)
 * Riot armor PALS fix (#64062)
