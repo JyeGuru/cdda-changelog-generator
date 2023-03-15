@@ -1,4 +1,9 @@
 * Aftershock - extend cooking requirements instead of replacing ([#64282](https://github.com/CleverRaven/Cataclysm-DDA/pull/64282))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-15-2342 ([fb3892f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-2342))
+
 * Fix pillow cases spawning empty ([#64272](https://github.com/CleverRaven/Cataclysm-DDA/pull/64272))
 * Items show what enchantments they give ([#64119](https://github.com/CleverRaven/Cataclysm-DDA/pull/64119))
 * only grab one target at a time ([#64250](https://github.com/CleverRaven/Cataclysm-DDA/pull/64250))
@@ -178,11 +183,6 @@
 * Auto pickup+favorites bug fix#64038 ([#64130](https://github.com/CleverRaven/Cataclysm-DDA/pull/64130))
 * Minor adjustments to the Physics lab setpiece. ([#64136](https://github.com/CleverRaven/Cataclysm-DDA/pull/64136))
 * Fixed inability to move down when standing on stairs next to a ledge or when flying a helicopter ([#64140](https://github.com/CleverRaven/Cataclysm-DDA/pull/64140))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-11-0607 ([bc14c40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-0607))
-
 * Routine i18n updates on 11 March 2023 ([#64132](https://github.com/CleverRaven/Cataclysm-DDA/pull/64132))
 * Remove the ``fake_arc_furnace`` tool from forging and blacksmithing requirements ([#64111](https://github.com/CleverRaven/Cataclysm-DDA/pull/64111))
 * Re-add moose taming to tamable wildlife mod ([#64127](https://github.com/CleverRaven/Cataclysm-DDA/pull/64127))

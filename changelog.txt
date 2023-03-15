@@ -1,4 +1,6 @@
 * Aftershock - extend cooking requirements instead of replacing (#64282)
+
+Cataclysm-DDA experimental build 2023-03-15-2342 (fb3892f)
 * Fix pillow cases spawning empty (#64272)
 * Items show what enchantments they give (#64119)
 * only grab one target at a time (#64250)
@@ -118,8 +120,6 @@ Cataclysm-DDA experimental build 2023-03-11-1339 (b9372eb)
 * Auto pickup+favorites bug fix#64038 (#64130)
 * Minor adjustments to the Physics lab setpiece. (#64136)
 * Fixed inability to move down when standing on stairs next to a ledge or when flying a helicopter (#64140)
-
-Cataclysm-DDA experimental build 2023-03-11-0607 (bc14c40)
 * Routine i18n updates on 11 March 2023 (#64132)
 * Remove the ``fake_arc_furnace`` tool from forging and blacksmithing requirements (#64111)
 * Re-add moose taming to tamable wildlife mod (#64127)
