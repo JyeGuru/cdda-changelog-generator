@@ -1,3 +1,16 @@
+* Fixing some book stuff ([#64208](https://github.com/CleverRaven/Cataclysm-DDA/pull/64208))
+* Disallow working on vehicle wheels in water ([#64233](https://github.com/CleverRaven/Cataclysm-DDA/pull/64233))
+* Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
+* [XEDRA Evolved] small bugfix ([#64260](https://github.com/CleverRaven/Cataclysm-DDA/pull/64260))
+* Quick language fixes ([#64255](https://github.com/CleverRaven/Cataclysm-DDA/pull/64255))
+* Fix error with str/int/dex displaying weirdly during char creation ([#64270](https://github.com/CleverRaven/Cataclysm-DDA/pull/64270))
+* Fixed truncation in monster list ui ([#64249](https://github.com/CleverRaven/Cataclysm-DDA/pull/64249))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-15-0125 ([de1b4af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0125))
+
+* Obsolete plastic mold ([#64251](https://github.com/CleverRaven/Cataclysm-DDA/pull/64251))
 
 ---
 
@@ -164,16 +177,9 @@
 #### Cataclysm-DDA experimental build 2023-03-10-1820 ([5efc471](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-10-1820))
 
 * [Mods] Replace "fake" activity levels with appropriate ones ([#64080](https://github.com/CleverRaven/Cataclysm-DDA/pull/64080))
-* obsolete & move the lobotomizer to No Hope. ([#64052](https://github.com/CleverRaven/Cataclysm-DDA/pull/64052))
 * Remove Moose Taming from basegame ([#64095](https://github.com/CleverRaven/Cataclysm-DDA/pull/64095))
 * Disassembly doesn't return items with UNRECOVERABLE flag ([#64102](https://github.com/CleverRaven/Cataclysm-DDA/pull/64102))
 * catchall for nonarmor on sort armor screen ([#64100](https://github.com/CleverRaven/Cataclysm-DDA/pull/64100))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-10-1633 ([0c1731a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-10-1633))
-
-* Fix SDL audio glitching with steaming hot patches from Qrox ([#64046](https://github.com/CleverRaven/Cataclysm-DDA/pull/64046))
 
 ---
 
@@ -184,18 +190,12 @@
 * Fixes trying to use null armor data on sort screen ([#64078](https://github.com/CleverRaven/Cataclysm-DDA/pull/64078))
 * Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. ([#64084](https://github.com/CleverRaven/Cataclysm-DDA/pull/64084))
 * EOC triggers for OMT entry and exit ([#64074](https://github.com/CleverRaven/Cataclysm-DDA/pull/64074))
-* Added meat disassembly to scraps ([#64044](https://github.com/CleverRaven/Cataclysm-DDA/pull/64044))
 * Adding plastic chunks to freezers and fridges ([#64072](https://github.com/CleverRaven/Cataclysm-DDA/pull/64072))
-* Fix asrgs turning into lamps ([#64034](https://github.com/CleverRaven/Cataclysm-DDA/pull/64034))
 * Snow Shovel Tweaks ([#64055](https://github.com/CleverRaven/Cataclysm-DDA/pull/64055))
 * Labeler: file `src/veh_**` under vehicles ([#64057](https://github.com/CleverRaven/Cataclysm-DDA/pull/64057))
 * Optimization and redundant code removal in `vehicle.cpp` ([#64059](https://github.com/CleverRaven/Cataclysm-DDA/pull/64059))
 * Fix monsters bleeding on all hits ([#64068](https://github.com/CleverRaven/Cataclysm-DDA/pull/64068))
 * Add ability to suppress message for spawning items ([#64070](https://github.com/CleverRaven/Cataclysm-DDA/pull/64070))
 * auto label another format for issue resolution ([#64073](https://github.com/CleverRaven/Cataclysm-DDA/pull/64073))
-* Update labeler to catch another file for EOC label ([#64047](https://github.com/CleverRaven/Cataclysm-DDA/pull/64047))
 * Document the function of `chat_topics` in MONSTER.md ([#64053](https://github.com/CleverRaven/Cataclysm-DDA/pull/64053))
 * Riot armor PALS fix ([#64062](https://github.com/CleverRaven/Cataclysm-DDA/pull/64062))
-* `veh_interact` structure packing refactoring ([#64045](https://github.com/CleverRaven/Cataclysm-DDA/pull/64045))
-* [Xedra Evolved] Make vampire cathedrals spawn in cities ([#64049](https://github.com/CleverRaven/Cataclysm-DDA/pull/64049))
-* Fix broken code snippet in `EFFECTS_JSON.md` ([#64035](https://github.com/CleverRaven/Cataclysm-DDA/pull/64035))
