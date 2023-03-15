@@ -1,3 +1,10 @@
+* Updates more offices with office-related furniture ([#64243](https://github.com/CleverRaven/Cataclysm-DDA/pull/64243))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-15-2146 ([4556f10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-2146))
+
+* Set pocket management menu message according to set keybindings ([#64234](https://github.com/CleverRaven/Cataclysm-DDA/pull/64234))
 
 ---
 
@@ -177,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2023-03-11-0607 ([bc14c40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-0607))
 
 * Routine i18n updates on 11 March 2023 ([#64132](https://github.com/CleverRaven/Cataclysm-DDA/pull/64132))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-11-0210 ([59c0d6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-0210))
-
 * Remove the ``fake_arc_furnace`` tool from forging and blacksmithing requirements ([#64111](https://github.com/CleverRaven/Cataclysm-DDA/pull/64111))
 * Re-add moose taming to tamable wildlife mod ([#64127](https://github.com/CleverRaven/Cataclysm-DDA/pull/64127))
 * Fix links in README.md ([#64124](https://github.com/CleverRaven/Cataclysm-DDA/pull/64124))
@@ -199,8 +201,6 @@
 * Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. ([#64084](https://github.com/CleverRaven/Cataclysm-DDA/pull/64084))
 * EOC triggers for OMT entry and exit ([#64074](https://github.com/CleverRaven/Cataclysm-DDA/pull/64074))
 * Adding plastic chunks to freezers and fridges ([#64072](https://github.com/CleverRaven/Cataclysm-DDA/pull/64072))
-* Optimization and redundant code removal in `vehicle.cpp` ([#64059](https://github.com/CleverRaven/Cataclysm-DDA/pull/64059))
 * Fix monsters bleeding on all hits ([#64068](https://github.com/CleverRaven/Cataclysm-DDA/pull/64068))
 * Add ability to suppress message for spawning items ([#64070](https://github.com/CleverRaven/Cataclysm-DDA/pull/64070))
 * auto label another format for issue resolution ([#64073](https://github.com/CleverRaven/Cataclysm-DDA/pull/64073))
-* Riot armor PALS fix ([#64062](https://github.com/CleverRaven/Cataclysm-DDA/pull/64062))
