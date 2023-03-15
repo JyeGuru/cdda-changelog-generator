@@ -1,3 +1,4 @@
+* Documentation for food prep ([#64157](https://github.com/CleverRaven/Cataclysm-DDA/pull/64157))
 
 ---
 
@@ -197,7 +198,6 @@
 * Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. ([#64084](https://github.com/CleverRaven/Cataclysm-DDA/pull/64084))
 * EOC triggers for OMT entry and exit ([#64074](https://github.com/CleverRaven/Cataclysm-DDA/pull/64074))
 * Adding plastic chunks to freezers and fridges ([#64072](https://github.com/CleverRaven/Cataclysm-DDA/pull/64072))
-* Snow Shovel Tweaks ([#64055](https://github.com/CleverRaven/Cataclysm-DDA/pull/64055))
 * Labeler: file `src/veh_**` under vehicles ([#64057](https://github.com/CleverRaven/Cataclysm-DDA/pull/64057))
 * Optimization and redundant code removal in `vehicle.cpp` ([#64059](https://github.com/CleverRaven/Cataclysm-DDA/pull/64059))
 * Fix monsters bleeding on all hits ([#64068](https://github.com/CleverRaven/Cataclysm-DDA/pull/64068))

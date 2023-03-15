@@ -1,3 +1,4 @@
+* Documentation for food prep (#64157)
 
 Cataclysm-DDA experimental build 2023-03-15-0858 (8286f4d)
 * Small survivor's bunker update (#64261)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2023-03-10-1820 (5efc471)
 * Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. (#64084)
 * EOC triggers for OMT entry and exit (#64074)
 * Adding plastic chunks to freezers and fridges (#64072)
-* Snow Shovel Tweaks (#64055)
 * Labeler: file `src/veh_**` under vehicles (#64057)
 * Optimization and redundant code removal in `vehicle.cpp` (#64059)
 * Fix monsters bleeding on all hits (#64068)
