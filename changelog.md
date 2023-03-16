@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-16-1436 ([672bbbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-1436))
+
 * remove two wrong lines ([#64295](https://github.com/CleverRaven/Cataclysm-DDA/pull/64295))
 
 ---
@@ -184,11 +189,6 @@
 * Urban hospital: replace z=-1 stone layer with a layer of soil ([#64153](https://github.com/CleverRaven/Cataclysm-DDA/pull/64153))
 * Surface lab: fix auto-generated roof ([#64155](https://github.com/CleverRaven/Cataclysm-DDA/pull/64155))
 * greatly reduce the severity of nyctophobia, also removing hallucinations from it ([#64141](https://github.com/CleverRaven/Cataclysm-DDA/pull/64141))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-11-1958 ([e414d1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-1958))
-
 * Stopped clearing pocket settings from exiting menu ([#64159](https://github.com/CleverRaven/Cataclysm-DDA/pull/64159))
 * Bungalow 17 and 18 fix ([#64148](https://github.com/CleverRaven/Cataclysm-DDA/pull/64148))
 * Aftershock laser cannons ([#64123](https://github.com/CleverRaven/Cataclysm-DDA/pull/64123))
