@@ -208,4 +208,3 @@
 * Remove Moose Taming from basegame ([#64095](https://github.com/CleverRaven/Cataclysm-DDA/pull/64095))
 * Disassembly doesn't return items with UNRECOVERABLE flag ([#64102](https://github.com/CleverRaven/Cataclysm-DDA/pull/64102))
 * catchall for nonarmor on sort armor screen ([#64100](https://github.com/CleverRaven/Cataclysm-DDA/pull/64100))
-* Update storage rings to not cause encumberance ([#64090](https://github.com/CleverRaven/Cataclysm-DDA/pull/64090))
