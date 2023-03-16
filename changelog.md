@@ -1,3 +1,6 @@
+* Sugar house expansion ([#64268](https://github.com/CleverRaven/Cataclysm-DDA/pull/64268))
+* Add docs + quick monster extension for EOC hp plus warmth access ([#64281](https://github.com/CleverRaven/Cataclysm-DDA/pull/64281))
+* Fix app_microwave lack of microwave tool ([#64279](https://github.com/CleverRaven/Cataclysm-DDA/pull/64279))
 
 ---
 
@@ -163,7 +166,6 @@
 * make rm13 armor a bit less strong ([#64110](https://github.com/CleverRaven/Cataclysm-DDA/pull/64110))
 * [Xedra Evolved] More XE spawns ([#64105](https://github.com/CleverRaven/Cataclysm-DDA/pull/64105))
 * Clean Up Occupied Homeless Camps ([#64103](https://github.com/CleverRaven/Cataclysm-DDA/pull/64103))
-* Add Environmental protection to "turtleneck (rolled)" and "turtleneck shirt (rolled)" ([#64081](https://github.com/CleverRaven/Cataclysm-DDA/pull/64081))
 * Add a faction camp starting scenario ([#64086](https://github.com/CleverRaven/Cataclysm-DDA/pull/64086))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
@@ -203,9 +205,7 @@
 * vcpkg cache should not be shared between 32 and 64 bit workflows ([#64125](https://github.com/CleverRaven/Cataclysm-DDA/pull/64125))
 * Corrections for transition from fail multiplier to skill penalties ([#64089](https://github.com/CleverRaven/Cataclysm-DDA/pull/64089))
 * Simplify game do regular action ([#64106](https://github.com/CleverRaven/Cataclysm-DDA/pull/64106))
-* [Mods] Replace "fake" activity levels with appropriate ones ([#64080](https://github.com/CleverRaven/Cataclysm-DDA/pull/64080))
 * Remove Moose Taming from basegame ([#64095](https://github.com/CleverRaven/Cataclysm-DDA/pull/64095))
 * Disassembly doesn't return items with UNRECOVERABLE flag ([#64102](https://github.com/CleverRaven/Cataclysm-DDA/pull/64102))
 * catchall for nonarmor on sort armor screen ([#64100](https://github.com/CleverRaven/Cataclysm-DDA/pull/64100))
 * Update storage rings to not cause encumberance ([#64090](https://github.com/CleverRaven/Cataclysm-DDA/pull/64090))
-* Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. ([#64084](https://github.com/CleverRaven/Cataclysm-DDA/pull/64084))
