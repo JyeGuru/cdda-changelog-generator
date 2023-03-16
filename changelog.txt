@@ -1,3 +1,4 @@
+* Makes tinder easier to craft (#64277)
 
 Cataclysm-DDA experimental build 2023-03-16-0234 (13e8ccc)
 * Switch to C++17 (#64152)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2023-03-11-1339 (b9372eb)
 * Disassembly doesn't return items with UNRECOVERABLE flag (#64102)
 * catchall for nonarmor on sort armor screen (#64100)
 * Update storage rings to not cause encumberance (#64090)
-* Proficiencies: Fail multiplier -> skill penalty (#64079)
 * Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. (#64084)

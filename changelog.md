@@ -1,3 +1,4 @@
+* Makes tinder easier to craft ([#64277](https://github.com/CleverRaven/Cataclysm-DDA/pull/64277))
 
 ---
 
@@ -207,5 +208,4 @@
 * Disassembly doesn't return items with UNRECOVERABLE flag ([#64102](https://github.com/CleverRaven/Cataclysm-DDA/pull/64102))
 * catchall for nonarmor on sort armor screen ([#64100](https://github.com/CleverRaven/Cataclysm-DDA/pull/64100))
 * Update storage rings to not cause encumberance ([#64090](https://github.com/CleverRaven/Cataclysm-DDA/pull/64090))
-* Proficiencies: Fail multiplier -> skill penalty ([#64079](https://github.com/CleverRaven/Cataclysm-DDA/pull/64079))
 * Make both Hub 01 modular defense ponchos' holster pocket compatible with all HWP conversion kits. ([#64084](https://github.com/CleverRaven/Cataclysm-DDA/pull/64084))
