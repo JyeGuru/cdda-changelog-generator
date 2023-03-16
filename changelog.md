@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-16-1832 ([cf055d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-1832))
+
+* Build Android in C++17 mode ([#64305](https://github.com/CleverRaven/Cataclysm-DDA/pull/64305))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-16-1436 ([672bbbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-1436))
 
 * remove two wrong lines ([#64295](https://github.com/CleverRaven/Cataclysm-DDA/pull/64295))
@@ -179,11 +185,6 @@
 * Clean Up Occupied Homeless Camps ([#64103](https://github.com/CleverRaven/Cataclysm-DDA/pull/64103))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-11-2246 ([7613637](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-2246))
-
 * Clarify restriction on mult_bonuses in martialarts doc ([#64147](https://github.com/CleverRaven/Cataclysm-DDA/pull/64147))
 * Squelch debugmsg from missing recipe_ids ([#64154](https://github.com/CleverRaven/Cataclysm-DDA/pull/64154))
 * Urban hospital: replace z=-1 stone layer with a layer of soil ([#64153](https://github.com/CleverRaven/Cataclysm-DDA/pull/64153))
@@ -203,7 +204,6 @@
 * Fix links in README.md ([#64124](https://github.com/CleverRaven/Cataclysm-DDA/pull/64124))
 * Drop Windows 32 bit builds, msvc and cross build both. ([#64128](https://github.com/CleverRaven/Cataclysm-DDA/pull/64128))
 * vcpkg cache should not be shared between 32 and 64 bit workflows ([#64125](https://github.com/CleverRaven/Cataclysm-DDA/pull/64125))
-* Corrections for transition from fail multiplier to skill penalties ([#64089](https://github.com/CleverRaven/Cataclysm-DDA/pull/64089))
 * Simplify game do regular action ([#64106](https://github.com/CleverRaven/Cataclysm-DDA/pull/64106))
 * Remove Moose Taming from basegame ([#64095](https://github.com/CleverRaven/Cataclysm-DDA/pull/64095))
 * Disassembly doesn't return items with UNRECOVERABLE flag ([#64102](https://github.com/CleverRaven/Cataclysm-DDA/pull/64102))
