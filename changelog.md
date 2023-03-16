@@ -1,3 +1,10 @@
+* remove two wrong lines ([#64295](https://github.com/CleverRaven/Cataclysm-DDA/pull/64295))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-16-1336 ([a7dbd93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-1336))
+
+* add bungalows 21 and 22 ([#64214](https://github.com/CleverRaven/Cataclysm-DDA/pull/64214))
 
 ---
 
@@ -136,12 +143,6 @@
 * Reinforced security camera power fix ([#64216](https://github.com/CleverRaven/Cataclysm-DDA/pull/64216))
 * item_location: add a parent_pocket() helper ([#64178](https://github.com/CleverRaven/Cataclysm-DDA/pull/64178))
 * Soldier drop tweaks ([#64161](https://github.com/CleverRaven/Cataclysm-DDA/pull/64161))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-12-2234 ([5923865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-12-2234))
-
-* Fix bug with hats providing coverage uniformly across the entire head ([#64087](https://github.com/CleverRaven/Cataclysm-DDA/pull/64087))
 * Update `cac2powder` recipe due to coal stat changes ([#64200](https://github.com/CleverRaven/Cataclysm-DDA/pull/64200))
 * Wrestling background ([#64187](https://github.com/CleverRaven/Cataclysm-DDA/pull/64187))
 * Improve modded weather ([#64120](https://github.com/CleverRaven/Cataclysm-DDA/pull/64120))
@@ -171,7 +172,6 @@
 * make rm13 armor a bit less strong ([#64110](https://github.com/CleverRaven/Cataclysm-DDA/pull/64110))
 * [Xedra Evolved] More XE spawns ([#64105](https://github.com/CleverRaven/Cataclysm-DDA/pull/64105))
 * Clean Up Occupied Homeless Camps ([#64103](https://github.com/CleverRaven/Cataclysm-DDA/pull/64103))
-* Add a faction camp starting scenario ([#64086](https://github.com/CleverRaven/Cataclysm-DDA/pull/64086))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
 
@@ -190,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2023-03-11-1958 ([e414d1c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-1958))
 
 * Stopped clearing pocket settings from exiting menu ([#64159](https://github.com/CleverRaven/Cataclysm-DDA/pull/64159))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-11-1705 ([cead257](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-11-1705))
-
 * Bungalow 17 and 18 fix ([#64148](https://github.com/CleverRaven/Cataclysm-DDA/pull/64148))
 * Aftershock laser cannons ([#64123](https://github.com/CleverRaven/Cataclysm-DDA/pull/64123))
 * [DinoMod] tawa ([#64099](https://github.com/CleverRaven/Cataclysm-DDA/pull/64099))
