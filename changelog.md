@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-16-2249 ([5f8d860](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-2249))
+
+* added code for embedding names and descriptions into dialogue ([#64299](https://github.com/CleverRaven/Cataclysm-DDA/pull/64299))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-16-1832 ([cf055d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-1832))
 
 * Build Android in C++17 mode ([#64305](https://github.com/CleverRaven/Cataclysm-DDA/pull/64305))
@@ -194,7 +200,6 @@
 * Bungalow 17 and 18 fix ([#64148](https://github.com/CleverRaven/Cataclysm-DDA/pull/64148))
 * Aftershock laser cannons ([#64123](https://github.com/CleverRaven/Cataclysm-DDA/pull/64123))
 * [DinoMod] tawa ([#64099](https://github.com/CleverRaven/Cataclysm-DDA/pull/64099))
-* Add Bungalows 17 and 18 ([#64091](https://github.com/CleverRaven/Cataclysm-DDA/pull/64091))
 * Auto pickup+favorites bug fix#64038 ([#64130](https://github.com/CleverRaven/Cataclysm-DDA/pull/64130))
 * Minor adjustments to the Physics lab setpiece. ([#64136](https://github.com/CleverRaven/Cataclysm-DDA/pull/64136))
 * Fixed inability to move down when standing on stairs next to a ledge or when flying a helicopter ([#64140](https://github.com/CleverRaven/Cataclysm-DDA/pull/64140))
