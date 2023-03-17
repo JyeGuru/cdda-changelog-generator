@@ -1,3 +1,7 @@
+* Validate vehicle part's pseudo tools in finalize() ([#64284](https://github.com/CleverRaven/Cataclysm-DDA/pull/64284))
+* Suppress more clang-analyzer warnings ([#64292](https://github.com/CleverRaven/Cataclysm-DDA/pull/64292))
+* Remove C++17 deprecated headers in MSVC PCH ([#64307](https://github.com/CleverRaven/Cataclysm-DDA/pull/64307))
+* Remove acid rain ([#64310](https://github.com/CleverRaven/Cataclysm-DDA/pull/64310))
 
 ---
 
@@ -193,8 +197,6 @@
 #### Cataclysm-DDA experimental build 2023-03-12-0848 ([41a9acd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-12-0848))
 
 * make rm13 armor a bit less strong ([#64110](https://github.com/CleverRaven/Cataclysm-DDA/pull/64110))
-* [Xedra Evolved] More XE spawns ([#64105](https://github.com/CleverRaven/Cataclysm-DDA/pull/64105))
-* Clean Up Occupied Homeless Camps ([#64103](https://github.com/CleverRaven/Cataclysm-DDA/pull/64103))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
 * Clarify restriction on mult_bonuses in martialarts doc ([#64147](https://github.com/CleverRaven/Cataclysm-DDA/pull/64147))
@@ -215,5 +217,3 @@
 * Drop Windows 32 bit builds, msvc and cross build both. ([#64128](https://github.com/CleverRaven/Cataclysm-DDA/pull/64128))
 * vcpkg cache should not be shared between 32 and 64 bit workflows ([#64125](https://github.com/CleverRaven/Cataclysm-DDA/pull/64125))
 * Simplify game do regular action ([#64106](https://github.com/CleverRaven/Cataclysm-DDA/pull/64106))
-* Disassembly doesn't return items with UNRECOVERABLE flag ([#64102](https://github.com/CleverRaven/Cataclysm-DDA/pull/64102))
-* catchall for nonarmor on sort armor screen ([#64100](https://github.com/CleverRaven/Cataclysm-DDA/pull/64100))
