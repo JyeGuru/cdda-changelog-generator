@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-17-1359 ([8ff9411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-1359))
+
+* Cost parity for mod mutations ([#64332](https://github.com/CleverRaven/Cataclysm-DDA/pull/64332))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-17-0735 ([363272a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-0735))
 
 * Remove unused variable ([#64326](https://github.com/CleverRaven/Cataclysm-DDA/pull/64326))
@@ -222,4 +228,3 @@
 * Minor adjustments to the Physics lab setpiece. ([#64136](https://github.com/CleverRaven/Cataclysm-DDA/pull/64136))
 * Fixed inability to move down when standing on stairs next to a ledge or when flying a helicopter ([#64140](https://github.com/CleverRaven/Cataclysm-DDA/pull/64140))
 * Routine i18n updates on 11 March 2023 ([#64132](https://github.com/CleverRaven/Cataclysm-DDA/pull/64132))
-* Drop Windows 32 bit builds, msvc and cross build both. ([#64128](https://github.com/CleverRaven/Cataclysm-DDA/pull/64128))
