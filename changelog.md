@@ -1,3 +1,4 @@
+* Switch a time type to fs:: ([#64314](https://github.com/CleverRaven/Cataclysm-DDA/pull/64314))
 * Validate vehicle part's pseudo tools in finalize() ([#64284](https://github.com/CleverRaven/Cataclysm-DDA/pull/64284))
 * Suppress more clang-analyzer warnings ([#64292](https://github.com/CleverRaven/Cataclysm-DDA/pull/64292))
 * Remove C++17 deprecated headers in MSVC PCH ([#64307](https://github.com/CleverRaven/Cataclysm-DDA/pull/64307))
@@ -216,4 +217,3 @@
 * Fix links in README.md ([#64124](https://github.com/CleverRaven/Cataclysm-DDA/pull/64124))
 * Drop Windows 32 bit builds, msvc and cross build both. ([#64128](https://github.com/CleverRaven/Cataclysm-DDA/pull/64128))
 * vcpkg cache should not be shared between 32 and 64 bit workflows ([#64125](https://github.com/CleverRaven/Cataclysm-DDA/pull/64125))
-* Simplify game do regular action ([#64106](https://github.com/CleverRaven/Cataclysm-DDA/pull/64106))
