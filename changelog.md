@@ -1,7 +1,13 @@
+* Fix to pollution by stat modifications in newcharacter. ([#64296](https://github.com/CleverRaven/Cataclysm-DDA/pull/64296))
 * [Magiclysm] Fix fist weapons ([#64193](https://github.com/CleverRaven/Cataclysm-DDA/pull/64193))
 * Expand monster special attack conditions ([#64184](https://github.com/CleverRaven/Cataclysm-DDA/pull/64184))
 * parameterized field base camp version 2 ([#64183](https://github.com/CleverRaven/Cataclysm-DDA/pull/64183))
 * 'vehicle' class cleanup 2 ([#64316](https://github.com/CleverRaven/Cataclysm-DDA/pull/64316))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-17-0622 ([d0d2985](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-0622))
+
 * Renames the Devil dog and twisted leatherneck zombies. ([#64309](https://github.com/CleverRaven/Cataclysm-DDA/pull/64309))
 * Make vehicle mass aware of monster moving ([#64301](https://github.com/CleverRaven/Cataclysm-DDA/pull/64301))
 * 'vehicle' class cleanup ([#64266](https://github.com/CleverRaven/Cataclysm-DDA/pull/64266))
@@ -196,11 +202,6 @@
 * Enchantments by ID are added to relics in finalize ([#64176](https://github.com/CleverRaven/Cataclysm-DDA/pull/64176))
 * Fix nested sealed containers rot ([#64156](https://github.com/CleverRaven/Cataclysm-DDA/pull/64156))
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-12-1059 ([eb8e722](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-12-1059))
-
 * Dissecting mutant mammals yields samples ([#64143](https://github.com/CleverRaven/Cataclysm-DDA/pull/64143))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
@@ -217,4 +218,3 @@
 * Routine i18n updates on 11 March 2023 ([#64132](https://github.com/CleverRaven/Cataclysm-DDA/pull/64132))
 * Re-add moose taming to tamable wildlife mod ([#64127](https://github.com/CleverRaven/Cataclysm-DDA/pull/64127))
 * Drop Windows 32 bit builds, msvc and cross build both. ([#64128](https://github.com/CleverRaven/Cataclysm-DDA/pull/64128))
-* vcpkg cache should not be shared between 32 and 64 bit workflows ([#64125](https://github.com/CleverRaven/Cataclysm-DDA/pull/64125))
