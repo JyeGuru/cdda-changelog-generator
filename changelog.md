@@ -232,5 +232,4 @@
 * greatly reduce the severity of nyctophobia, also removing hallucinations from it ([#64141](https://github.com/CleverRaven/Cataclysm-DDA/pull/64141))
 * Stopped clearing pocket settings from exiting menu ([#64159](https://github.com/CleverRaven/Cataclysm-DDA/pull/64159))
 * Bungalow 17 and 18 fix ([#64148](https://github.com/CleverRaven/Cataclysm-DDA/pull/64148))
-* Minor adjustments to the Physics lab setpiece. ([#64136](https://github.com/CleverRaven/Cataclysm-DDA/pull/64136))
 * Fixed inability to move down when standing on stairs next to a ledge or when flying a helicopter ([#64140](https://github.com/CleverRaven/Cataclysm-DDA/pull/64140))
