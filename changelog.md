@@ -1,3 +1,5 @@
+* 'vehicle' class cleanup 2 ([#64316](https://github.com/CleverRaven/Cataclysm-DDA/pull/64316))
+* Renames the Devil dog and twisted leatherneck zombies. ([#64309](https://github.com/CleverRaven/Cataclysm-DDA/pull/64309))
 * Make vehicle mass aware of monster moving ([#64301](https://github.com/CleverRaven/Cataclysm-DDA/pull/64301))
 * 'vehicle' class cleanup ([#64266](https://github.com/CleverRaven/Cataclysm-DDA/pull/64266))
 * make Bulging Reservoir decrease your thirst, not increase ([#64306](https://github.com/CleverRaven/Cataclysm-DDA/pull/64306))
@@ -35,6 +37,11 @@
 #### Cataclysm-DDA experimental build 2023-03-16-1436 ([672bbbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-1436))
 
 * remove two wrong lines ([#64295](https://github.com/CleverRaven/Cataclysm-DDA/pull/64295))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-16-1336 ([a7dbd93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-1336))
+
 * add bungalows 21 and 22 ([#64214](https://github.com/CleverRaven/Cataclysm-DDA/pull/64214))
 
 ---
@@ -68,7 +75,6 @@
 #### Cataclysm-DDA experimental build 2023-03-15-2342 ([fb3892f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-2342))
 
 * Fix pillow cases spawning empty ([#64272](https://github.com/CleverRaven/Cataclysm-DDA/pull/64272))
-* Items show what enchantments they give ([#64119](https://github.com/CleverRaven/Cataclysm-DDA/pull/64119))
 * only grab one target at a time ([#64250](https://github.com/CleverRaven/Cataclysm-DDA/pull/64250))
 * Update Occupied Lumbermills ([#64248](https://github.com/CleverRaven/Cataclysm-DDA/pull/64248))
 * Fix microwave missing ammo type ([#64256](https://github.com/CleverRaven/Cataclysm-DDA/pull/64256))
@@ -188,8 +194,12 @@
 * Enchantments by ID are added to relics in finalize ([#64176](https://github.com/CleverRaven/Cataclysm-DDA/pull/64176))
 * Fix nested sealed containers rot ([#64156](https://github.com/CleverRaven/Cataclysm-DDA/pull/64156))
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-12-1059 ([eb8e722](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-12-1059))
+
 * Dissecting mutant mammals yields samples ([#64143](https://github.com/CleverRaven/Cataclysm-DDA/pull/64143))
-* Cleanup after island prison cleanup ([#64115](https://github.com/CleverRaven/Cataclysm-DDA/pull/64115))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
 * Clarify restriction on mult_bonuses in martialarts doc ([#64147](https://github.com/CleverRaven/Cataclysm-DDA/pull/64147))

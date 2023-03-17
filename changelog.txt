@@ -1,3 +1,5 @@
+* 'vehicle' class cleanup 2 (#64316)
+* Renames the Devil dog and twisted leatherneck zombies. (#64309)
 * Make vehicle mass aware of monster moving (#64301)
 * 'vehicle' class cleanup (#64266)
 * make Bulging Reservoir decrease your thirst, not increase (#64306)
@@ -20,6 +22,8 @@ Cataclysm-DDA experimental build 2023-03-16-1832 (cf055d3)
 
 Cataclysm-DDA experimental build 2023-03-16-1436 (672bbbe)
 * remove two wrong lines (#64295)
+
+Cataclysm-DDA experimental build 2023-03-16-1336 (a7dbd93)
 * add bungalows 21 and 22 (#64214)
 
 Cataclysm-DDA experimental build 2023-03-16-0615 (53f9146)
@@ -38,7 +42,6 @@ Cataclysm-DDA experimental build 2023-03-16-0120 (50046e8)
 
 Cataclysm-DDA experimental build 2023-03-15-2342 (fb3892f)
 * Fix pillow cases spawning empty (#64272)
-* Items show what enchantments they give (#64119)
 * only grab one target at a time (#64250)
 * Update Occupied Lumbermills (#64248)
 * Fix microwave missing ammo type (#64256)
@@ -119,8 +122,9 @@ Cataclysm-DDA experimental build 2023-03-13-0517 (c50f83d)
 * Enchantments by ID are added to relics in finalize (#64176)
 * Fix nested sealed containers rot (#64156)
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations (#64189)
+
+Cataclysm-DDA experimental build 2023-03-12-1059 (eb8e722)
 * Dissecting mutant mammals yields samples (#64143)
-* Cleanup after island prison cleanup (#64115)
 * Makefile comment re NOOPT vs RELEASE (#64173)
 * Update the table of contents in doc/JSON_INFO.md (#64151)
 * Clarify restriction on mult_bonuses in martialarts doc (#64147)
