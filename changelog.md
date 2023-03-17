@@ -1,4 +1,9 @@
 * Switch a time type to fs:: ([#64314](https://github.com/CleverRaven/Cataclysm-DDA/pull/64314))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-17-0402 ([509de9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-0402))
+
 * Validate vehicle part's pseudo tools in finalize() ([#64284](https://github.com/CleverRaven/Cataclysm-DDA/pull/64284))
 * Suppress more clang-analyzer warnings ([#64292](https://github.com/CleverRaven/Cataclysm-DDA/pull/64292))
 * Remove C++17 deprecated headers in MSVC PCH ([#64307](https://github.com/CleverRaven/Cataclysm-DDA/pull/64307))
@@ -192,11 +197,6 @@
 
 * Dissecting mutant mammals yields samples ([#64143](https://github.com/CleverRaven/Cataclysm-DDA/pull/64143))
 * Cleanup after island prison cleanup ([#64115](https://github.com/CleverRaven/Cataclysm-DDA/pull/64115))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-12-0848 ([41a9acd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-12-0848))
-
 * make rm13 armor a bit less strong ([#64110](https://github.com/CleverRaven/Cataclysm-DDA/pull/64110))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
