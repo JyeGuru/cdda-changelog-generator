@@ -1,3 +1,4 @@
+* make Bulging Reservoir decrease your thirst, not increase ([#64306](https://github.com/CleverRaven/Cataclysm-DDA/pull/64306))
 * Switch a time type to fs:: ([#64314](https://github.com/CleverRaven/Cataclysm-DDA/pull/64314))
 
 ---
@@ -197,7 +198,6 @@
 
 * Dissecting mutant mammals yields samples ([#64143](https://github.com/CleverRaven/Cataclysm-DDA/pull/64143))
 * Cleanup after island prison cleanup ([#64115](https://github.com/CleverRaven/Cataclysm-DDA/pull/64115))
-* make rm13 armor a bit less strong ([#64110](https://github.com/CleverRaven/Cataclysm-DDA/pull/64110))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
 * Clarify restriction on mult_bonuses in martialarts doc ([#64147](https://github.com/CleverRaven/Cataclysm-DDA/pull/64147))
