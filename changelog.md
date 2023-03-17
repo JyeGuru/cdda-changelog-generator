@@ -210,6 +210,5 @@
 * Drop Windows 32 bit builds, msvc and cross build both. ([#64128](https://github.com/CleverRaven/Cataclysm-DDA/pull/64128))
 * vcpkg cache should not be shared between 32 and 64 bit workflows ([#64125](https://github.com/CleverRaven/Cataclysm-DDA/pull/64125))
 * Simplify game do regular action ([#64106](https://github.com/CleverRaven/Cataclysm-DDA/pull/64106))
-* Remove Moose Taming from basegame ([#64095](https://github.com/CleverRaven/Cataclysm-DDA/pull/64095))
 * Disassembly doesn't return items with UNRECOVERABLE flag ([#64102](https://github.com/CleverRaven/Cataclysm-DDA/pull/64102))
 * catchall for nonarmor on sort armor screen ([#64100](https://github.com/CleverRaven/Cataclysm-DDA/pull/64100))
