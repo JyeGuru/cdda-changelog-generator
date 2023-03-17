@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-17-1913 ([683a27f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-1913))
+
+* Changelog update: 2023-01-02 to 2023-03-12 ([#64205](https://github.com/CleverRaven/Cataclysm-DDA/pull/64205))
 * Add two travel-related overmap keybinds for a better UX ([#64174](https://github.com/CleverRaven/Cataclysm-DDA/pull/64174))
 * Fixed pocket contents displaying each item seperately ([#64170](https://github.com/CleverRaven/Cataclysm-DDA/pull/64170))
 * Update furniture-sleep.json ([#64236](https://github.com/CleverRaven/Cataclysm-DDA/pull/64236))
@@ -223,7 +229,6 @@
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
-* Clarify restriction on mult_bonuses in martialarts doc ([#64147](https://github.com/CleverRaven/Cataclysm-DDA/pull/64147))
 * Squelch debugmsg from missing recipe_ids ([#64154](https://github.com/CleverRaven/Cataclysm-DDA/pull/64154))
 * Urban hospital: replace z=-1 stone layer with a layer of soil ([#64153](https://github.com/CleverRaven/Cataclysm-DDA/pull/64153))
 * Surface lab: fix auto-generated roof ([#64155](https://github.com/CleverRaven/Cataclysm-DDA/pull/64155))
