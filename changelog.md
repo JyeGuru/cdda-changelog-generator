@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-17-1538 ([43b3ae7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-1538))
+
 * Deduplicate code in Character::*_weakpoint_skill ([#64321](https://github.com/CleverRaven/Cataclysm-DDA/pull/64321))
 * Convert anonymous vehicle_part enum to class enum ([#64331](https://github.com/CleverRaven/Cataclysm-DDA/pull/64331))
 * [Xedra Evolved] Estocs do not fit into scabbard ([#64337](https://github.com/CleverRaven/Cataclysm-DDA/pull/64337))
