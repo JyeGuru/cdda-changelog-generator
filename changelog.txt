@@ -67,6 +67,8 @@ Cataclysm-DDA experimental build 2023-03-15-1157 (b908848)
 
 Cataclysm-DDA experimental build 2023-03-15-0858 (8286f4d)
 * Small survivor's bunker update (#64261)
+
+Cataclysm-DDA experimental build 2023-03-15-0305 (2531621)
 * Fixing some book stuff (#64208)
 * Disallow working on vehicle wheels in water (#64233)
 * Nested chunk roof fix (#64271)
@@ -77,6 +79,8 @@ Cataclysm-DDA experimental build 2023-03-15-0858 (8286f4d)
 
 Cataclysm-DDA experimental build 2023-03-15-0125 (de1b4af)
 * Obsolete plastic mold (#64251)
+
+Cataclysm-DDA experimental build 2023-03-14-2134 (0894971)
 * Fix typo in minimum gcc version (#64257)
 
 Cataclysm-DDA experimental build 2023-03-14-1917 (a8a04b6)
@@ -126,8 +130,6 @@ Cataclysm-DDA experimental build 2023-03-13-0517 (c50f83d)
 * Enchantments by ID are added to relics in finalize (#64176)
 * Fix nested sealed containers rot (#64156)
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations (#64189)
-
-Cataclysm-DDA experimental build 2023-03-12-1059 (eb8e722)
 * Dissecting mutant mammals yields samples (#64143)
 * Makefile comment re NOOPT vs RELEASE (#64173)
 * Update the table of contents in doc/JSON_INFO.md (#64151)

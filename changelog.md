@@ -118,6 +118,11 @@
 #### Cataclysm-DDA experimental build 2023-03-15-0858 ([8286f4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0858))
 
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-15-0305 ([2531621](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0305))
+
 * Fixing some book stuff ([#64208](https://github.com/CleverRaven/Cataclysm-DDA/pull/64208))
 * Disallow working on vehicle wheels in water ([#64233](https://github.com/CleverRaven/Cataclysm-DDA/pull/64233))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
@@ -131,6 +136,11 @@
 #### Cataclysm-DDA experimental build 2023-03-15-0125 ([de1b4af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0125))
 
 * Obsolete plastic mold ([#64251](https://github.com/CleverRaven/Cataclysm-DDA/pull/64251))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-14-2134 ([0894971](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-14-2134))
+
 * Fix typo in minimum gcc version ([#64257](https://github.com/CleverRaven/Cataclysm-DDA/pull/64257))
 
 ---
@@ -198,11 +208,6 @@
 * Enchantments by ID are added to relics in finalize ([#64176](https://github.com/CleverRaven/Cataclysm-DDA/pull/64176))
 * Fix nested sealed containers rot ([#64156](https://github.com/CleverRaven/Cataclysm-DDA/pull/64156))
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-12-1059 ([eb8e722](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-12-1059))
-
 * Dissecting mutant mammals yields samples ([#64143](https://github.com/CleverRaven/Cataclysm-DDA/pull/64143))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
