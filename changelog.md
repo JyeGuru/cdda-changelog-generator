@@ -1,3 +1,4 @@
+* Remove unused variable ([#64326](https://github.com/CleverRaven/Cataclysm-DDA/pull/64326))
 * Fix to pollution by stat modifications in newcharacter. ([#64296](https://github.com/CleverRaven/Cataclysm-DDA/pull/64296))
 * [Magiclysm] Fix fist weapons ([#64193](https://github.com/CleverRaven/Cataclysm-DDA/pull/64193))
 * Expand monster special attack conditions ([#64184](https://github.com/CleverRaven/Cataclysm-DDA/pull/64184))
@@ -216,5 +217,4 @@
 * Minor adjustments to the Physics lab setpiece. ([#64136](https://github.com/CleverRaven/Cataclysm-DDA/pull/64136))
 * Fixed inability to move down when standing on stairs next to a ledge or when flying a helicopter ([#64140](https://github.com/CleverRaven/Cataclysm-DDA/pull/64140))
 * Routine i18n updates on 11 March 2023 ([#64132](https://github.com/CleverRaven/Cataclysm-DDA/pull/64132))
-* Re-add moose taming to tamable wildlife mod ([#64127](https://github.com/CleverRaven/Cataclysm-DDA/pull/64127))
 * Drop Windows 32 bit builds, msvc and cross build both. ([#64128](https://github.com/CleverRaven/Cataclysm-DDA/pull/64128))
