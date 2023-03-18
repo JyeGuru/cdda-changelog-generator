@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-18-0518 ([645d863](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-18-0518))
+
+* Routine i18n updates on 18 March 2023 ([#64351](https://github.com/CleverRaven/Cataclysm-DDA/pull/64351))
 * Aftershock - Make atomic coffeepot great again! ([#64345](https://github.com/CleverRaven/Cataclysm-DDA/pull/64345))
 
 ---
@@ -106,12 +112,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-03-16-0234 ([13e8ccc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-0234))
-
-* Switch to C++17 ([#64152](https://github.com/CleverRaven/Cataclysm-DDA/pull/64152))
-
----
-
 #### Cataclysm-DDA experimental build 2023-03-16-0120 ([50046e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-0120))
 
 * Aftershock - extend cooking requirements instead of replacing ([#64282](https://github.com/CleverRaven/Cataclysm-DDA/pull/64282))
@@ -180,11 +180,6 @@
 
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))
 * Update known bad density ([#64258](https://github.com/CleverRaven/Cataclysm-DDA/pull/64258))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-14-0639 ([cb64435](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-14-0639))
-
 * [Magiclysm] Make the Crusader attunement's Sword of Judgement sheathable ([#64199](https://github.com/CleverRaven/Cataclysm-DDA/pull/64199))
 * Less severe nyctophobia backport from #64141 ([#64167](https://github.com/CleverRaven/Cataclysm-DDA/pull/64167))
 * Vehicle engine functions cleanup ([#64179](https://github.com/CleverRaven/Cataclysm-DDA/pull/64179))

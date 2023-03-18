@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2023-03-18-0518 (645d863)
+* Routine i18n updates on 18 March 2023 (#64351)
 * Aftershock - Make atomic coffeepot great again! (#64345)
 
 Cataclysm-DDA experimental build 2023-03-18-0031 (a922610)
@@ -62,9 +65,6 @@ Cataclysm-DDA experimental build 2023-03-16-0615 (53f9146)
 Cataclysm-DDA experimental build 2023-03-16-0512 (7f74976)
 * Makes tinder easier to craft (#64277)
 
-Cataclysm-DDA experimental build 2023-03-16-0234 (13e8ccc)
-* Switch to C++17 (#64152)
-
 Cataclysm-DDA experimental build 2023-03-16-0120 (50046e8)
 * Aftershock - extend cooking requirements instead of replacing (#64282)
 
@@ -105,8 +105,6 @@ Cataclysm-DDA experimental build 2023-03-14-2134 (0894971)
 Cataclysm-DDA experimental build 2023-03-14-1917 (a8a04b6)
 * Set Linux release builds to Ubuntu 20.04 (#64264)
 * Update known bad density (#64258)
-
-Cataclysm-DDA experimental build 2023-03-14-0639 (cb64435)
 * [Magiclysm] Make the Crusader attunement's Sword of Judgement sheathable (#64199)
 * Less severe nyctophobia backport from #64141 (#64167)
 * Vehicle engine functions cleanup (#64179)
