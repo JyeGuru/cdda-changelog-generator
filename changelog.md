@@ -1,3 +1,10 @@
+* Aftershock - Make atomic coffeepot great again! ([#64345](https://github.com/CleverRaven/Cataclysm-DDA/pull/64345))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-18-0031 ([a922610](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-18-0031))
+
+* Correct n_gettext() name in documentation ([#64343](https://github.com/CleverRaven/Cataclysm-DDA/pull/64343))
 
 ---
 
@@ -199,11 +206,6 @@
 * Field Overlay Fixes ([#64231](https://github.com/CleverRaven/Cataclysm-DDA/pull/64231))
 * Fix category spawn probability ([#64223](https://github.com/CleverRaven/Cataclysm-DDA/pull/64223))
 * item: fix nested software name ([#64218](https://github.com/CleverRaven/Cataclysm-DDA/pull/64218))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-13-2347 ([ce1744a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-13-2347))
-
 * Fix issue with loading worn or wielded enchanted items ([#64206](https://github.com/CleverRaven/Cataclysm-DDA/pull/64206))
 * remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
 * Add DEBUG_CNF mutation to the character in the test_craft_via_rig test to stop it from failing due to bad seed/RNG ([#64191](https://github.com/CleverRaven/Cataclysm-DDA/pull/64191))
@@ -228,9 +230,7 @@
 * Fix nested sealed containers rot ([#64156](https://github.com/CleverRaven/Cataclysm-DDA/pull/64156))
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
-* Update the table of contents in doc/JSON_INFO.md ([#64151](https://github.com/CleverRaven/Cataclysm-DDA/pull/64151))
 * Squelch debugmsg from missing recipe_ids ([#64154](https://github.com/CleverRaven/Cataclysm-DDA/pull/64154))
 * Urban hospital: replace z=-1 stone layer with a layer of soil ([#64153](https://github.com/CleverRaven/Cataclysm-DDA/pull/64153))
 * Surface lab: fix auto-generated roof ([#64155](https://github.com/CleverRaven/Cataclysm-DDA/pull/64155))
 * Stopped clearing pocket settings from exiting menu ([#64159](https://github.com/CleverRaven/Cataclysm-DDA/pull/64159))
-* Bungalow 17 and 18 fix ([#64148](https://github.com/CleverRaven/Cataclysm-DDA/pull/64148))
