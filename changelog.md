@@ -1,3 +1,4 @@
+* msvc-full-features vcpkg cache needs to be a strict superset of the release vcpkg ([#64349](https://github.com/CleverRaven/Cataclysm-DDA/pull/64349))
 
 ---
 
@@ -216,6 +217,5 @@
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
 * Squelch debugmsg from missing recipe_ids ([#64154](https://github.com/CleverRaven/Cataclysm-DDA/pull/64154))
-* Urban hospital: replace z=-1 stone layer with a layer of soil ([#64153](https://github.com/CleverRaven/Cataclysm-DDA/pull/64153))
 * Surface lab: fix auto-generated roof ([#64155](https://github.com/CleverRaven/Cataclysm-DDA/pull/64155))
 * Stopped clearing pocket settings from exiting menu ([#64159](https://github.com/CleverRaven/Cataclysm-DDA/pull/64159))

@@ -1,3 +1,4 @@
+* msvc-full-features vcpkg cache needs to be a strict superset of the release vcpkg (#64349)
 
 Cataclysm-DDA experimental build 2023-03-18-0518 (645d863)
 * Routine i18n updates on 18 March 2023 (#64351)
@@ -141,6 +142,5 @@ Cataclysm-DDA experimental build 2023-03-14-1917 (a8a04b6)
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations (#64189)
 * Makefile comment re NOOPT vs RELEASE (#64173)
 * Squelch debugmsg from missing recipe_ids (#64154)
-* Urban hospital: replace z=-1 stone layer with a layer of soil (#64153)
 * Surface lab: fix auto-generated roof (#64155)
 * Stopped clearing pocket settings from exiting menu (#64159)
