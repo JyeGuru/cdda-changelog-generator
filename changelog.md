@@ -186,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2023-03-14-0639 ([cb64435](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-14-0639))
 
 * [Magiclysm] Make the Crusader attunement's Sword of Judgement sheathable ([#64199](https://github.com/CleverRaven/Cataclysm-DDA/pull/64199))
-
----
-
-#### 0.G point release preview (do not update to if on experimental) ([3a1e046](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-14-0331))
-
 * Less severe nyctophobia backport from #64141 ([#64167](https://github.com/CleverRaven/Cataclysm-DDA/pull/64167))
 * Vehicle engine functions cleanup ([#64179](https://github.com/CleverRaven/Cataclysm-DDA/pull/64179))
 * electric-jackhammer-power-tweaks ([#64182](https://github.com/CleverRaven/Cataclysm-DDA/pull/64182))
