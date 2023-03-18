@@ -1,3 +1,4 @@
+* ☕☢️ Fix atomic coffeepot being unable to use batteries ☢️☕ ([#64336](https://github.com/CleverRaven/Cataclysm-DDA/pull/64336))
 * msvc-full-features vcpkg cache needs to be a strict superset of the release vcpkg ([#64349](https://github.com/CleverRaven/Cataclysm-DDA/pull/64349))
 
 ---
@@ -216,6 +217,5 @@
 * Fix nested sealed containers rot ([#64156](https://github.com/CleverRaven/Cataclysm-DDA/pull/64156))
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
-* Squelch debugmsg from missing recipe_ids ([#64154](https://github.com/CleverRaven/Cataclysm-DDA/pull/64154))
 * Surface lab: fix auto-generated roof ([#64155](https://github.com/CleverRaven/Cataclysm-DDA/pull/64155))
 * Stopped clearing pocket settings from exiting menu ([#64159](https://github.com/CleverRaven/Cataclysm-DDA/pull/64159))
