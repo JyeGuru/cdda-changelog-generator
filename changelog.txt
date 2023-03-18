@@ -114,8 +114,6 @@ Cataclysm-DDA experimental build 2023-03-14-0639 (cb64435)
 * Vehicle engine functions cleanup (#64179)
 * electric-jackhammer-power-tweaks (#64182)
 * Cull pets (#64240)
-
-Cataclysm-DDA experimental build 2023-03-14-0125 (80175a7)
 * Megastore cleanup (#64196)
 * Maybe Hopefully Fix for the double ``D`` menu (#64239)
 * harmonica held by the neck, not head (#64238)

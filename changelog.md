@@ -195,11 +195,6 @@
 * Vehicle engine functions cleanup ([#64179](https://github.com/CleverRaven/Cataclysm-DDA/pull/64179))
 * electric-jackhammer-power-tweaks ([#64182](https://github.com/CleverRaven/Cataclysm-DDA/pull/64182))
 * Cull pets ([#64240](https://github.com/CleverRaven/Cataclysm-DDA/pull/64240))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-14-0125 ([80175a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-14-0125))
-
 * Megastore cleanup ([#64196](https://github.com/CleverRaven/Cataclysm-DDA/pull/64196))
 * Maybe Hopefully Fix for the double ``D`` menu ([#64239](https://github.com/CleverRaven/Cataclysm-DDA/pull/64239))
 * harmonica held by the neck, not head ([#64238](https://github.com/CleverRaven/Cataclysm-DDA/pull/64238))
