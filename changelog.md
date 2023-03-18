@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-18-0659 ([d8075bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-18-0659))
+
 * ☕☢️ Fix atomic coffeepot being unable to use batteries ☢️☕ ([#64336](https://github.com/CleverRaven/Cataclysm-DDA/pull/64336))
 * msvc-full-features vcpkg cache needs to be a strict superset of the release vcpkg ([#64349](https://github.com/CleverRaven/Cataclysm-DDA/pull/64349))
 
