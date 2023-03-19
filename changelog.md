@@ -1,3 +1,4 @@
+* Update NPCs.md to match #55320 ([#64379](https://github.com/CleverRaven/Cataclysm-DDA/pull/64379))
 
 ---
 
@@ -209,7 +210,6 @@
 * Fixed autoforage doesn't work on furniture with `harvest_furn_nectar` examine function ([#64181](https://github.com/CleverRaven/Cataclysm-DDA/pull/64181))
 * Rework (and nerf) melee combat practice recipes. ([#64197](https://github.com/CleverRaven/Cataclysm-DDA/pull/64197))
 * Correct description of 'Hooves' mutation ([#64186](https://github.com/CleverRaven/Cataclysm-DDA/pull/64186))
-* Updates offices with office-related furniture ([#64169](https://github.com/CleverRaven/Cataclysm-DDA/pull/64169))
 * add bungalows 19 and 20 ([#64177](https://github.com/CleverRaven/Cataclysm-DDA/pull/64177))
 * Enchantments by ID are added to relics in finalize ([#64176](https://github.com/CleverRaven/Cataclysm-DDA/pull/64176))
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))

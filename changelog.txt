@@ -1,3 +1,4 @@
+* Update NPCs.md to match #55320 (#64379)
 
 Cataclysm-DDA experimental build 2023-03-19-0702 (8720584)
 * Fixing follower NPCs having static NPC traits (#64312)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2023-03-15-0858 (8286f4d)
 * Fixed autoforage doesn't work on furniture with `harvest_furn_nectar` examine function (#64181)
 * Rework (and nerf) melee combat practice recipes. (#64197)
 * Correct description of 'Hooves' mutation (#64186)
-* Updates offices with office-related furniture (#64169)
 * add bungalows 19 and 20 (#64177)
 * Enchantments by ID are added to relics in finalize (#64176)
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations (#64189)
