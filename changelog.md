@@ -1,3 +1,4 @@
+* Make skill help spell learn time instead of hurt ([#64323](https://github.com/CleverRaven/Cataclysm-DDA/pull/64323))
 * Update NPCs.md to match #55320 ([#64379](https://github.com/CleverRaven/Cataclysm-DDA/pull/64379))
 
 ---
@@ -50,7 +51,6 @@
 
 * Changelog update: 2023-01-02 to 2023-03-12 ([#64205](https://github.com/CleverRaven/Cataclysm-DDA/pull/64205))
 * Add two travel-related overmap keybinds for a better UX ([#64174](https://github.com/CleverRaven/Cataclysm-DDA/pull/64174))
-* Fixed pocket contents displaying each item seperately ([#64170](https://github.com/CleverRaven/Cataclysm-DDA/pull/64170))
 * Update furniture-sleep.json ([#64236](https://github.com/CleverRaven/Cataclysm-DDA/pull/64236))
 * Add Dense Bones and Dromeosaur Muzzle to extra mut scen mod ([#64252](https://github.com/CleverRaven/Cataclysm-DDA/pull/64252))
 
