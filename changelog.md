@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-19-1951 ([72e5ffe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-19-1951))
+
+* Use underlying type for vehicle_part::flags enum ([#64387](https://github.com/CleverRaven/Cataclysm-DDA/pull/64387))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-19-0819 ([227f527](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-19-0819))
 
 * C4 teleports into pocket when activated outside the pocket #64308 ([#64347](https://github.com/CleverRaven/Cataclysm-DDA/pull/64347))
@@ -56,7 +62,6 @@
 #### Cataclysm-DDA experimental build 2023-03-17-1913 ([683a27f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-1913))
 
 * Changelog update: 2023-01-02 to 2023-03-12 ([#64205](https://github.com/CleverRaven/Cataclysm-DDA/pull/64205))
-* Add two travel-related overmap keybinds for a better UX ([#64174](https://github.com/CleverRaven/Cataclysm-DDA/pull/64174))
 * Update furniture-sleep.json ([#64236](https://github.com/CleverRaven/Cataclysm-DDA/pull/64236))
 * Add Dense Bones and Dromeosaur Muzzle to extra mut scen mod ([#64252](https://github.com/CleverRaven/Cataclysm-DDA/pull/64252))
 

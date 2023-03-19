@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-03-19-1951 (72e5ffe)
+* Use underlying type for vehicle_part::flags enum (#64387)
+
 Cataclysm-DDA experimental build 2023-03-19-0819 (227f527)
 * C4 teleports into pocket when activated outside the pocket #64308 (#64347)
 * Make skill help spell learn time instead of hurt (#64323)
@@ -32,7 +35,6 @@ Cataclysm-DDA experimental build 2023-03-18-0031 (a922610)
 
 Cataclysm-DDA experimental build 2023-03-17-1913 (683a27f)
 * Changelog update: 2023-01-02 to 2023-03-12 (#64205)
-* Add two travel-related overmap keybinds for a better UX (#64174)
 * Update furniture-sleep.json (#64236)
 * Add Dense Bones and Dromeosaur Muzzle to extra mut scen mod (#64252)
 
