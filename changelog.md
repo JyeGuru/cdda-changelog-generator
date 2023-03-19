@@ -1,3 +1,4 @@
+* C4 teleports into pocket when activated outside the pocket #64308 ([#64347](https://github.com/CleverRaven/Cataclysm-DDA/pull/64347))
 * Make skill help spell learn time instead of hurt ([#64323](https://github.com/CleverRaven/Cataclysm-DDA/pull/64323))
 * Update NPCs.md to match #55320 ([#64379](https://github.com/CleverRaven/Cataclysm-DDA/pull/64379))
 
