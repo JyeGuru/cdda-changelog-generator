@@ -1,3 +1,11 @@
+* Fix Renfield abomination description ([#64352](https://github.com/CleverRaven/Cataclysm-DDA/pull/64352))
+* Make folding vehicles test less flaky ([#64374](https://github.com/CleverRaven/Cataclysm-DDA/pull/64374))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-19-0601 ([3b9d021](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-19-0601))
+
+* Fix energy cost comment discrepancies from #62180 ([#64190](https://github.com/CleverRaven/Cataclysm-DDA/pull/64190))
 
 ---
 
@@ -153,12 +161,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-03-15-1157 ([b908848](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-1157))
-
-* Documentation for food prep ([#64157](https://github.com/CleverRaven/Cataclysm-DDA/pull/64157))
-
----
-
 #### Cataclysm-DDA experimental build 2023-03-15-0858 ([8286f4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0858))
 
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
@@ -174,11 +176,6 @@
 * Quick language fixes ([#64255](https://github.com/CleverRaven/Cataclysm-DDA/pull/64255))
 * Fix error with str/int/dex displaying weirdly during char creation ([#64270](https://github.com/CleverRaven/Cataclysm-DDA/pull/64270))
 * Fixed truncation in monster list ui ([#64249](https://github.com/CleverRaven/Cataclysm-DDA/pull/64249))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-15-0125 ([de1b4af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0125))
-
 * Obsolete plastic mold ([#64251](https://github.com/CleverRaven/Cataclysm-DDA/pull/64251))
 * Fix typo in minimum gcc version ([#64257](https://github.com/CleverRaven/Cataclysm-DDA/pull/64257))
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))
@@ -215,7 +212,5 @@
 * Updates offices with office-related furniture ([#64169](https://github.com/CleverRaven/Cataclysm-DDA/pull/64169))
 * add bungalows 19 and 20 ([#64177](https://github.com/CleverRaven/Cataclysm-DDA/pull/64177))
 * Enchantments by ID are added to relics in finalize ([#64176](https://github.com/CleverRaven/Cataclysm-DDA/pull/64176))
-* Fix nested sealed containers rot ([#64156](https://github.com/CleverRaven/Cataclysm-DDA/pull/64156))
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))
 * Makefile comment re NOOPT vs RELEASE ([#64173](https://github.com/CleverRaven/Cataclysm-DDA/pull/64173))
-* Stopped clearing pocket settings from exiting menu ([#64159](https://github.com/CleverRaven/Cataclysm-DDA/pull/64159))
