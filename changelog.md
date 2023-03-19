@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-19-0702 ([8720584](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-19-0702))
+
 * Fixing follower NPCs having static NPC traits ([#64312](https://github.com/CleverRaven/Cataclysm-DDA/pull/64312))
 * boiled makeshift bandage cost ([#64341](https://github.com/CleverRaven/Cataclysm-DDA/pull/64341))
 * Expanded Digestive System cancels Meat Intolerance ([#64356](https://github.com/CleverRaven/Cataclysm-DDA/pull/64356))
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2023-03-15-0858 ([8286f4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0858))
 
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-15-0305 ([2531621](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0305))
-
 * Fixing some book stuff ([#64208](https://github.com/CleverRaven/Cataclysm-DDA/pull/64208))
 * Disallow working on vehicle wheels in water ([#64233](https://github.com/CleverRaven/Cataclysm-DDA/pull/64233))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
