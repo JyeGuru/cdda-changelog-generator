@@ -105,8 +105,6 @@ Cataclysm-DDA experimental build 2023-03-15-0305 (2531621)
 
 Cataclysm-DDA experimental build 2023-03-15-0125 (de1b4af)
 * Obsolete plastic mold (#64251)
-
-Cataclysm-DDA experimental build 2023-03-14-2134 (0894971)
 * Fix typo in minimum gcc version (#64257)
 * Set Linux release builds to Ubuntu 20.04 (#64264)
 * Update known bad density (#64258)

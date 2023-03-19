@@ -180,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2023-03-15-0125 ([de1b4af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-0125))
 
 * Obsolete plastic mold ([#64251](https://github.com/CleverRaven/Cataclysm-DDA/pull/64251))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-14-2134 ([0894971](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-14-2134))
-
 * Fix typo in minimum gcc version ([#64257](https://github.com/CleverRaven/Cataclysm-DDA/pull/64257))
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))
 * Update known bad density ([#64258](https://github.com/CleverRaven/Cataclysm-DDA/pull/64258))
