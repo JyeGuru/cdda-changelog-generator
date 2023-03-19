@@ -174,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2023-03-15-2146 ([4556f10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-2146))
 
 * Set pocket management menu message according to set keybindings ([#64234](https://github.com/CleverRaven/Cataclysm-DDA/pull/64234))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-15-1811 ([56945de](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-1811))
-
 * More comparators for `event_transformation` `value_constraints` ([#64253](https://github.com/CleverRaven/Cataclysm-DDA/pull/64253))
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
 * Fixing some book stuff ([#64208](https://github.com/CleverRaven/Cataclysm-DDA/pull/64208))

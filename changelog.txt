@@ -102,8 +102,6 @@ Cataclysm-DDA experimental build 2023-03-15-2342 (fb3892f)
 
 Cataclysm-DDA experimental build 2023-03-15-2146 (4556f10)
 * Set pocket management menu message according to set keybindings (#64234)
-
-Cataclysm-DDA experimental build 2023-03-15-1811 (56945de)
 * More comparators for `event_transformation` `value_constraints` (#64253)
 * Small survivor's bunker update (#64261)
 * Fixing some book stuff (#64208)
