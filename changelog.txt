@@ -1,4 +1,6 @@
 * Pre-nerfed technician is in the No Hope mod (#64410)
+
+Cataclysm-DDA experimental build 2023-03-20-2057 (8f2af67)
 * set subtype of pencil_case_with_contents (#64402)
 * Make generic guns validator output sane error on bad json (#64412)
 
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2023-03-16-1436 (672bbbe)
 
 Cataclysm-DDA experimental build 2023-03-16-1336 (a7dbd93)
 * add bungalows 21 and 22 (#64214)
-
-Cataclysm-DDA experimental build 2023-03-16-0615 (53f9146)
 * Sugar house expansion (#64268)
 * Add docs + quick monster extension for EOC hp plus warmth access (#64281)
 * Fix app_microwave lack of microwave tool (#64279)

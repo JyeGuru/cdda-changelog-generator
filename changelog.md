@@ -1,4 +1,9 @@
 * Pre-nerfed technician is in the No Hope mod ([#64410](https://github.com/CleverRaven/Cataclysm-DDA/pull/64410))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-20-2057 ([8f2af67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-20-2057))
+
 * set subtype of pencil_case_with_contents ([#64402](https://github.com/CleverRaven/Cataclysm-DDA/pull/64402))
 * Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
 
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2023-03-16-1336 ([a7dbd93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-1336))
 
 * add bungalows 21 and 22 ([#64214](https://github.com/CleverRaven/Cataclysm-DDA/pull/64214))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-16-0615 ([53f9146](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-0615))
-
 * Sugar house expansion ([#64268](https://github.com/CleverRaven/Cataclysm-DDA/pull/64268))
 * Add docs + quick monster extension for EOC hp plus warmth access ([#64281](https://github.com/CleverRaven/Cataclysm-DDA/pull/64281))
 * Fix app_microwave lack of microwave tool ([#64279](https://github.com/CleverRaven/Cataclysm-DDA/pull/64279))
