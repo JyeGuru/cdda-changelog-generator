@@ -1,3 +1,4 @@
+* set subtype of pencil_case_with_contents (#64402)
 * Make generic guns validator output sane error on bad json (#64412)
 
 Cataclysm-DDA experimental build 2023-03-20-1923 (8834731)
@@ -140,5 +141,4 @@ Cataclysm-DDA experimental build 2023-03-16-0615 (53f9146)
 * Routine tileset updates on 13 March 2023 (#64212)
 * Reinforced security camera power fix (#64216)
 * Update `cac2powder` recipe due to coal stat changes (#64200)
-* Spawn `liq_bandage_spray`, not `liq_bandage` (#64192)
 * Rework (and nerf) melee combat practice recipes. (#64197)

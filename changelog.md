@@ -1,3 +1,4 @@
+* set subtype of pencil_case_with_contents ([#64402](https://github.com/CleverRaven/Cataclysm-DDA/pull/64402))
 * Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
 
 ---
@@ -212,5 +213,4 @@
 * Routine tileset updates on 13 March 2023 ([#64212](https://github.com/CleverRaven/Cataclysm-DDA/pull/64212))
 * Reinforced security camera power fix ([#64216](https://github.com/CleverRaven/Cataclysm-DDA/pull/64216))
 * Update `cac2powder` recipe due to coal stat changes ([#64200](https://github.com/CleverRaven/Cataclysm-DDA/pull/64200))
-* Spawn `liq_bandage_spray`, not `liq_bandage` ([#64192](https://github.com/CleverRaven/Cataclysm-DDA/pull/64192))
 * Rework (and nerf) melee combat practice recipes. ([#64197](https://github.com/CleverRaven/Cataclysm-DDA/pull/64197))
