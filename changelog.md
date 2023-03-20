@@ -1,3 +1,10 @@
+* Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-20-1923 ([8834731](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-20-1923))
+
+* Prevent android small screen craft crash ([#64415](https://github.com/CleverRaven/Cataclysm-DDA/pull/64415))
 
 ---
 
@@ -56,12 +63,6 @@
 * Set OSX_MIN on CI to match release workflow ([#64364](https://github.com/CleverRaven/Cataclysm-DDA/pull/64364))
 * Fix Renfield abomination description ([#64352](https://github.com/CleverRaven/Cataclysm-DDA/pull/64352))
 * Make folding vehicles test less flaky ([#64374](https://github.com/CleverRaven/Cataclysm-DDA/pull/64374))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-19-0601 ([3b9d021](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-19-0601))
-
-* Fix energy cost comment discrepancies from #62180 ([#64190](https://github.com/CleverRaven/Cataclysm-DDA/pull/64190))
 
 ---
 
@@ -176,11 +177,6 @@
 * Sugar house expansion ([#64268](https://github.com/CleverRaven/Cataclysm-DDA/pull/64268))
 * Add docs + quick monster extension for EOC hp plus warmth access ([#64281](https://github.com/CleverRaven/Cataclysm-DDA/pull/64281))
 * Fix app_microwave lack of microwave tool ([#64279](https://github.com/CleverRaven/Cataclysm-DDA/pull/64279))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-16-0512 ([7f74976](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-0512))
-
 * Makes tinder easier to craft ([#64277](https://github.com/CleverRaven/Cataclysm-DDA/pull/64277))
 * Aftershock - extend cooking requirements instead of replacing ([#64282](https://github.com/CleverRaven/Cataclysm-DDA/pull/64282))
 * Fix pillow cases spawning empty ([#64272](https://github.com/CleverRaven/Cataclysm-DDA/pull/64272))
@@ -212,7 +208,6 @@
 * item: fix nested software name ([#64218](https://github.com/CleverRaven/Cataclysm-DDA/pull/64218))
 * Fix issue with loading worn or wielded enchanted items ([#64206](https://github.com/CleverRaven/Cataclysm-DDA/pull/64206))
 * remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
-* Add DEBUG_CNF mutation to the character in the test_craft_via_rig test to stop it from failing due to bad seed/RNG ([#64191](https://github.com/CleverRaven/Cataclysm-DDA/pull/64191))
 * No double unarmed (beginner) ([#64215](https://github.com/CleverRaven/Cataclysm-DDA/pull/64215))
 * Routine tileset updates on 13 March 2023 ([#64212](https://github.com/CleverRaven/Cataclysm-DDA/pull/64212))
 * Reinforced security camera power fix ([#64216](https://github.com/CleverRaven/Cataclysm-DDA/pull/64216))
