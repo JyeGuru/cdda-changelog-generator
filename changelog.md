@@ -1,3 +1,17 @@
+* Office tower 2 cleanup & overhaul ([#64311](https://github.com/CleverRaven/Cataclysm-DDA/pull/64311))
+* Remove unused colored stat display functions ([#64313](https://github.com/CleverRaven/Cataclysm-DDA/pull/64313))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-20-0056 ([84bf789](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-20-0056))
+
+* Refactor misleading variable name `vehicle::is_floating` ([#64354](https://github.com/CleverRaven/Cataclysm-DDA/pull/64354))
+* Fix vehicle cheevos not handling reverse (negative) velocities correctly ([#64359](https://github.com/CleverRaven/Cataclysm-DDA/pull/64359))
+* Completes the parking garage ([#64363](https://github.com/CleverRaven/Cataclysm-DDA/pull/64363))
+* Add reminder of the license to PR template ([#64370](https://github.com/CleverRaven/Cataclysm-DDA/pull/64370))
+* Add Makefile option to compile in order of header popularity ([#64378](https://github.com/CleverRaven/Cataclysm-DDA/pull/64378))
+* Normalize the technician zombie ([#64383](https://github.com/CleverRaven/Cataclysm-DDA/pull/64383))
+* Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
 
 ---
 
@@ -86,8 +100,6 @@
 * Remove unused variable ([#64326](https://github.com/CleverRaven/Cataclysm-DDA/pull/64326))
 * Fix to pollution by stat modifications in newcharacter. ([#64296](https://github.com/CleverRaven/Cataclysm-DDA/pull/64296))
 * [Magiclysm] Fix fist weapons ([#64193](https://github.com/CleverRaven/Cataclysm-DDA/pull/64193))
-* Expand monster special attack conditions ([#64184](https://github.com/CleverRaven/Cataclysm-DDA/pull/64184))
-* parameterized field base camp version 2 ([#64183](https://github.com/CleverRaven/Cataclysm-DDA/pull/64183))
 * 'vehicle' class cleanup 2 ([#64316](https://github.com/CleverRaven/Cataclysm-DDA/pull/64316))
 
 ---
@@ -168,11 +180,6 @@
 * Update Occupied Lumbermills ([#64248](https://github.com/CleverRaven/Cataclysm-DDA/pull/64248))
 * Fix microwave missing ammo type ([#64256](https://github.com/CleverRaven/Cataclysm-DDA/pull/64256))
 * Updates more offices with office-related furniture ([#64243](https://github.com/CleverRaven/Cataclysm-DDA/pull/64243))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-15-2146 ([4556f10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-15-2146))
-
 * Set pocket management menu message according to set keybindings ([#64234](https://github.com/CleverRaven/Cataclysm-DDA/pull/64234))
 * More comparators for `event_transformation` `value_constraints` ([#64253](https://github.com/CleverRaven/Cataclysm-DDA/pull/64253))
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
@@ -188,8 +195,6 @@
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))
 * Update known bad density ([#64258](https://github.com/CleverRaven/Cataclysm-DDA/pull/64258))
 * [Magiclysm] Make the Crusader attunement's Sword of Judgement sheathable ([#64199](https://github.com/CleverRaven/Cataclysm-DDA/pull/64199))
-* Vehicle engine functions cleanup ([#64179](https://github.com/CleverRaven/Cataclysm-DDA/pull/64179))
-* electric-jackhammer-power-tweaks ([#64182](https://github.com/CleverRaven/Cataclysm-DDA/pull/64182))
 * Cull pets ([#64240](https://github.com/CleverRaven/Cataclysm-DDA/pull/64240))
 * Megastore cleanup ([#64196](https://github.com/CleverRaven/Cataclysm-DDA/pull/64196))
 * Maybe Hopefully Fix for the double ``D`` menu ([#64239](https://github.com/CleverRaven/Cataclysm-DDA/pull/64239))
@@ -203,14 +208,9 @@
 * No double unarmed (beginner) ([#64215](https://github.com/CleverRaven/Cataclysm-DDA/pull/64215))
 * Routine tileset updates on 13 March 2023 ([#64212](https://github.com/CleverRaven/Cataclysm-DDA/pull/64212))
 * Reinforced security camera power fix ([#64216](https://github.com/CleverRaven/Cataclysm-DDA/pull/64216))
-* item_location: add a parent_pocket() helper ([#64178](https://github.com/CleverRaven/Cataclysm-DDA/pull/64178))
 * Update `cac2powder` recipe due to coal stat changes ([#64200](https://github.com/CleverRaven/Cataclysm-DDA/pull/64200))
 * Wrestling background ([#64187](https://github.com/CleverRaven/Cataclysm-DDA/pull/64187))
 * Don't use `cruise_thrust()` on towed vehicles ([#64188](https://github.com/CleverRaven/Cataclysm-DDA/pull/64188))
 * Spawn `liq_bandage_spray`, not `liq_bandage` ([#64192](https://github.com/CleverRaven/Cataclysm-DDA/pull/64192))
-* Fixed autoforage doesn't work on furniture with `harvest_furn_nectar` examine function ([#64181](https://github.com/CleverRaven/Cataclysm-DDA/pull/64181))
 * Rework (and nerf) melee combat practice recipes. ([#64197](https://github.com/CleverRaven/Cataclysm-DDA/pull/64197))
-* Correct description of 'Hooves' mutation ([#64186](https://github.com/CleverRaven/Cataclysm-DDA/pull/64186))
-* add bungalows 19 and 20 ([#64177](https://github.com/CleverRaven/Cataclysm-DDA/pull/64177))
-* Enchantments by ID are added to relics in finalize ([#64176](https://github.com/CleverRaven/Cataclysm-DDA/pull/64176))
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))
