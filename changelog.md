@@ -1,3 +1,5 @@
+* Menstrual products ([#64372](https://github.com/CleverRaven/Cataclysm-DDA/pull/64372))
+* [Backrooms] Add onura46 as a Backrooms maintainer ([#64394](https://github.com/CleverRaven/Cataclysm-DDA/pull/64394))
 
 ---
 
@@ -209,8 +211,6 @@
 * Routine tileset updates on 13 March 2023 ([#64212](https://github.com/CleverRaven/Cataclysm-DDA/pull/64212))
 * Reinforced security camera power fix ([#64216](https://github.com/CleverRaven/Cataclysm-DDA/pull/64216))
 * Update `cac2powder` recipe due to coal stat changes ([#64200](https://github.com/CleverRaven/Cataclysm-DDA/pull/64200))
-* Wrestling background ([#64187](https://github.com/CleverRaven/Cataclysm-DDA/pull/64187))
-* Don't use `cruise_thrust()` on towed vehicles ([#64188](https://github.com/CleverRaven/Cataclysm-DDA/pull/64188))
 * Spawn `liq_bandage_spray`, not `liq_bandage` ([#64192](https://github.com/CleverRaven/Cataclysm-DDA/pull/64192))
 * Rework (and nerf) melee combat practice recipes. ([#64197](https://github.com/CleverRaven/Cataclysm-DDA/pull/64197))
 * [Magiclysm] Give "Weak" the "STR" category so it conflicts with the Black Dragon strength mutations ([#64189](https://github.com/CleverRaven/Cataclysm-DDA/pull/64189))
