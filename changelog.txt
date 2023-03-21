@@ -1,3 +1,7 @@
+* [Magiclysm] Make Crusader's Holy Shield actually work as a shield (#64393)
+
+Cataclysm-DDA experimental build 2023-03-21-1129 (da89a10)
+* [Magiclysm] Adding appropriate Black Dragon mutations (#64303)
 
 Cataclysm-DDA experimental build 2023-03-21-0556 (127ec42)
 * Removed the small lens from smartphone deconstruction because (#64429)
@@ -65,9 +69,6 @@ Cataclysm-DDA experimental build 2023-03-18-0518 (645d863)
 
 Cataclysm-DDA experimental build 2023-03-18-0031 (a922610)
 * Correct n_gettext() name in documentation (#64343)
-
-Cataclysm-DDA experimental build 2023-03-17-1913 (683a27f)
-* Changelog update: 2023-01-02 to 2023-03-12 (#64205)
 * Update furniture-sleep.json (#64236)
 * Add Dense Bones and Dromeosaur Muzzle to extra mut scen mod (#64252)
 
@@ -96,8 +97,6 @@ Cataclysm-DDA experimental build 2023-03-17-0402 (509de9a)
 * Suppress more clang-analyzer warnings (#64292)
 * Remove C++17 deprecated headers in MSVC PCH (#64307)
 * Remove acid rain (#64310)
-
-Cataclysm-DDA experimental build 2023-03-17-0156 (d754963)
 * Bump Java to 11 in Android build environment (#64318)
 * added code for embedding names and descriptions into dialogue (#64299)
 * Build Android in C++17 mode (#64305)
@@ -133,7 +132,6 @@ Cataclysm-DDA experimental build 2023-03-17-0156 (d754963)
 * Field Overlay Fixes (#64231)
 * Fix category spawn probability (#64223)
 * item: fix nested software name (#64218)
-* Fix issue with loading worn or wielded enchanted items (#64206)
 * remove vestegial symlink (#64244)
 * No double unarmed (beginner) (#64215)
 * Routine tileset updates on 13 March 2023 (#64212)
