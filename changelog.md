@@ -207,4 +207,3 @@
 * No double unarmed (beginner) ([#64215](https://github.com/CleverRaven/Cataclysm-DDA/pull/64215))
 * Routine tileset updates on 13 March 2023 ([#64212](https://github.com/CleverRaven/Cataclysm-DDA/pull/64212))
 * Reinforced security camera power fix ([#64216](https://github.com/CleverRaven/Cataclysm-DDA/pull/64216))
-* Update `cac2powder` recipe due to coal stat changes ([#64200](https://github.com/CleverRaven/Cataclysm-DDA/pull/64200))
