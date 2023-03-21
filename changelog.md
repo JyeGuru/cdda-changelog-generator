@@ -168,11 +168,6 @@
 #### Cataclysm-DDA experimental build 2023-03-16-2249 ([5f8d860](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-2249))
 
 * added code for embedding names and descriptions into dialogue ([#64299](https://github.com/CleverRaven/Cataclysm-DDA/pull/64299))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-16-1832 ([cf055d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-16-1832))
-
 * Build Android in C++17 mode ([#64305](https://github.com/CleverRaven/Cataclysm-DDA/pull/64305))
 * remove two wrong lines ([#64295](https://github.com/CleverRaven/Cataclysm-DDA/pull/64295))
 * add bungalows 21 and 22 ([#64214](https://github.com/CleverRaven/Cataclysm-DDA/pull/64214))
