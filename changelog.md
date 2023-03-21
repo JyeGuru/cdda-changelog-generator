@@ -154,11 +154,6 @@
 * 'vehicle' class cleanup ([#64266](https://github.com/CleverRaven/Cataclysm-DDA/pull/64266))
 * make Bulging Reservoir decrease your thirst, not increase ([#64306](https://github.com/CleverRaven/Cataclysm-DDA/pull/64306))
 * Switch a time type to fs:: ([#64314](https://github.com/CleverRaven/Cataclysm-DDA/pull/64314))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-17-0402 ([509de9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-0402))
-
 * Validate vehicle part's pseudo tools in finalize() ([#64284](https://github.com/CleverRaven/Cataclysm-DDA/pull/64284))
 * Suppress more clang-analyzer warnings ([#64292](https://github.com/CleverRaven/Cataclysm-DDA/pull/64292))
 * Remove C++17 deprecated headers in MSVC PCH ([#64307](https://github.com/CleverRaven/Cataclysm-DDA/pull/64307))
