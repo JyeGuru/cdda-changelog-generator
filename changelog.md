@@ -1,3 +1,10 @@
+* Obsolete valhalla cultists ([#64417](https://github.com/CleverRaven/Cataclysm-DDA/pull/64417))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-21-2334 ([66a4e1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-21-2334))
+
+* Avoid divide by zero in vehicle::print_fuel_indicator ([#64409](https://github.com/CleverRaven/Cataclysm-DDA/pull/64409))
 * Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
 * [Magiclysm] Make Crusader's Holy Shield actually work as a shield ([#64393](https://github.com/CleverRaven/Cataclysm-DDA/pull/64393))
 
@@ -145,11 +152,6 @@
 * Remove unused variable ([#64326](https://github.com/CleverRaven/Cataclysm-DDA/pull/64326))
 * Fix to pollution by stat modifications in newcharacter. ([#64296](https://github.com/CleverRaven/Cataclysm-DDA/pull/64296))
 * 'vehicle' class cleanup 2 ([#64316](https://github.com/CleverRaven/Cataclysm-DDA/pull/64316))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-17-0622 ([d0d2985](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-0622))
-
 * Renames the Devil dog and twisted leatherneck zombies. ([#64309](https://github.com/CleverRaven/Cataclysm-DDA/pull/64309))
 * Make vehicle mass aware of monster moving ([#64301](https://github.com/CleverRaven/Cataclysm-DDA/pull/64301))
 * 'vehicle' class cleanup ([#64266](https://github.com/CleverRaven/Cataclysm-DDA/pull/64266))
@@ -163,7 +165,6 @@
 * added code for embedding names and descriptions into dialogue ([#64299](https://github.com/CleverRaven/Cataclysm-DDA/pull/64299))
 * Build Android in C++17 mode ([#64305](https://github.com/CleverRaven/Cataclysm-DDA/pull/64305))
 * remove two wrong lines ([#64295](https://github.com/CleverRaven/Cataclysm-DDA/pull/64295))
-* add bungalows 21 and 22 ([#64214](https://github.com/CleverRaven/Cataclysm-DDA/pull/64214))
 * Sugar house expansion ([#64268](https://github.com/CleverRaven/Cataclysm-DDA/pull/64268))
 * Add docs + quick monster extension for EOC hp plus warmth access ([#64281](https://github.com/CleverRaven/Cataclysm-DDA/pull/64281))
 * Fix app_microwave lack of microwave tool ([#64279](https://github.com/CleverRaven/Cataclysm-DDA/pull/64279))
@@ -194,5 +195,4 @@
 * Fix category spawn probability ([#64223](https://github.com/CleverRaven/Cataclysm-DDA/pull/64223))
 * item: fix nested software name ([#64218](https://github.com/CleverRaven/Cataclysm-DDA/pull/64218))
 * remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
-* No double unarmed (beginner) ([#64215](https://github.com/CleverRaven/Cataclysm-DDA/pull/64215))
 * Reinforced security camera power fix ([#64216](https://github.com/CleverRaven/Cataclysm-DDA/pull/64216))
