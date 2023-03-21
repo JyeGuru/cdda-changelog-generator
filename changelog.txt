@@ -1,3 +1,4 @@
+* Removed the small lens from smartphone deconstruction because (#64429)
 
 Cataclysm-DDA experimental build 2023-03-21-0311 (32774b3)
 * Migrate from cata::optional<T> to std::optional<T> (#64333)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2023-03-16-2249 (5f8d860)
 * Fix typo in minimum gcc version (#64257)
 * Set Linux release builds to Ubuntu 20.04 (#64264)
 * Update known bad density (#64258)
-* [Magiclysm] Make the Crusader attunement's Sword of Judgement sheathable (#64199)
 * Cull pets (#64240)
 * Maybe Hopefully Fix for the double ``D`` menu (#64239)
 * harmonica held by the neck, not head (#64238)

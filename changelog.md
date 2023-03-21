@@ -1,3 +1,4 @@
+* Removed the small lens from smartphone deconstruction because ([#64429](https://github.com/CleverRaven/Cataclysm-DDA/pull/64429))
 
 ---
 
@@ -195,7 +196,6 @@
 * Fix typo in minimum gcc version ([#64257](https://github.com/CleverRaven/Cataclysm-DDA/pull/64257))
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))
 * Update known bad density ([#64258](https://github.com/CleverRaven/Cataclysm-DDA/pull/64258))
-* [Magiclysm] Make the Crusader attunement's Sword of Judgement sheathable ([#64199](https://github.com/CleverRaven/Cataclysm-DDA/pull/64199))
 * Cull pets ([#64240](https://github.com/CleverRaven/Cataclysm-DDA/pull/64240))
 * Maybe Hopefully Fix for the double ``D`` menu ([#64239](https://github.com/CleverRaven/Cataclysm-DDA/pull/64239))
 * harmonica held by the neck, not head ([#64238](https://github.com/CleverRaven/Cataclysm-DDA/pull/64238))
