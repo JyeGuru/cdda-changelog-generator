@@ -1,3 +1,4 @@
+* Create steam_faq.md (#64439)
 * [Magiclysm] Make Crusader's Holy Shield actually work as a shield (#64393)
 
 Cataclysm-DDA experimental build 2023-03-21-1129 (da89a10)
@@ -131,5 +132,4 @@ Cataclysm-DDA experimental build 2023-03-17-0622 (d0d2985)
 * item: fix nested software name (#64218)
 * remove vestegial symlink (#64244)
 * No double unarmed (beginner) (#64215)
-* Routine tileset updates on 13 March 2023 (#64212)
 * Reinforced security camera power fix (#64216)

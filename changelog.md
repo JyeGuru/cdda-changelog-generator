@@ -1,3 +1,4 @@
+* Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
 * [Magiclysm] Make Crusader's Holy Shield actually work as a shield ([#64393](https://github.com/CleverRaven/Cataclysm-DDA/pull/64393))
 
 ---
@@ -194,5 +195,4 @@
 * item: fix nested software name ([#64218](https://github.com/CleverRaven/Cataclysm-DDA/pull/64218))
 * remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
 * No double unarmed (beginner) ([#64215](https://github.com/CleverRaven/Cataclysm-DDA/pull/64215))
-* Routine tileset updates on 13 March 2023 ([#64212](https://github.com/CleverRaven/Cataclysm-DDA/pull/64212))
 * Reinforced security camera power fix ([#64216](https://github.com/CleverRaven/Cataclysm-DDA/pull/64216))
