@@ -181,7 +181,6 @@
 * Set pocket management menu message according to set keybindings ([#64234](https://github.com/CleverRaven/Cataclysm-DDA/pull/64234))
 * More comparators for `event_transformation` `value_constraints` ([#64253](https://github.com/CleverRaven/Cataclysm-DDA/pull/64253))
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
-* Fixing some book stuff ([#64208](https://github.com/CleverRaven/Cataclysm-DDA/pull/64208))
 * Disallow working on vehicle wheels in water ([#64233](https://github.com/CleverRaven/Cataclysm-DDA/pull/64233))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
 * [XEDRA Evolved] small bugfix ([#64260](https://github.com/CleverRaven/Cataclysm-DDA/pull/64260))
