@@ -1,3 +1,9 @@
+* Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-22-1225 ([bd97ea5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1225))
+
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
 * [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
 * Search using uncharged_quality (such as welding) ([#64322](https://github.com/CleverRaven/Cataclysm-DDA/pull/64322))
@@ -148,11 +154,6 @@
 
 * Routine i18n updates on 18 March 2023 ([#64351](https://github.com/CleverRaven/Cataclysm-DDA/pull/64351))
 * Aftershock - Make atomic coffeepot great again! ([#64345](https://github.com/CleverRaven/Cataclysm-DDA/pull/64345))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-18-0031 ([a922610](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-18-0031))
-
 * Correct n_gettext() name in documentation ([#64343](https://github.com/CleverRaven/Cataclysm-DDA/pull/64343))
 * Add Dense Bones and Dromeosaur Muzzle to extra mut scen mod ([#64252](https://github.com/CleverRaven/Cataclysm-DDA/pull/64252))
 * Deduplicate code in Character::*_weakpoint_skill ([#64321](https://github.com/CleverRaven/Cataclysm-DDA/pull/64321))
@@ -195,4 +196,3 @@
 * Fix typo in minimum gcc version ([#64257](https://github.com/CleverRaven/Cataclysm-DDA/pull/64257))
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))
 * Update known bad density ([#64258](https://github.com/CleverRaven/Cataclysm-DDA/pull/64258))
-* remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
