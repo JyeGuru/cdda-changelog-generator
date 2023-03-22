@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-22-0350 ([c1158ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-0350))
+
 * Furniture/Terrain Description Proofreading ([#64273](https://github.com/CleverRaven/Cataclysm-DDA/pull/64273))
 * Pass base github token to Changelog generator ([#64452](https://github.com/CleverRaven/Cataclysm-DDA/pull/64452))
 * Attempts to fix nether monster generation ([#64421](https://github.com/CleverRaven/Cataclysm-DDA/pull/64421))
@@ -138,11 +143,6 @@
 * Correct n_gettext() name in documentation ([#64343](https://github.com/CleverRaven/Cataclysm-DDA/pull/64343))
 * Update furniture-sleep.json ([#64236](https://github.com/CleverRaven/Cataclysm-DDA/pull/64236))
 * Add Dense Bones and Dromeosaur Muzzle to extra mut scen mod ([#64252](https://github.com/CleverRaven/Cataclysm-DDA/pull/64252))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-17-1538 ([43b3ae7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-1538))
-
 * Deduplicate code in Character::*_weakpoint_skill ([#64321](https://github.com/CleverRaven/Cataclysm-DDA/pull/64321))
 * Convert anonymous vehicle_part enum to class enum ([#64331](https://github.com/CleverRaven/Cataclysm-DDA/pull/64331))
 * [Xedra Evolved] Estocs do not fit into scabbard ([#64337](https://github.com/CleverRaven/Cataclysm-DDA/pull/64337))
