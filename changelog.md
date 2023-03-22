@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-22-0621 ([9d3d406](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-0621))
+
 * Update the table of contents in doc/JSON_INFO.md ([#64456](https://github.com/CleverRaven/Cataclysm-DDA/pull/64456))
 * Remove more 0.G migrations ([#64399](https://github.com/CleverRaven/Cataclysm-DDA/pull/64399))
 * Raise minimum supported macOS version to 10.13 ([#64434](https://github.com/CleverRaven/Cataclysm-DDA/pull/64434))
