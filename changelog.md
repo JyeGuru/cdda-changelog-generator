@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-22-1615 ([6c5f917](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1615))
+
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
 
 ---
