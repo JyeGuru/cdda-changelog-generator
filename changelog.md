@@ -1,3 +1,4 @@
+* Update the table of contents in doc/JSON_INFO.md ([#64456](https://github.com/CleverRaven/Cataclysm-DDA/pull/64456))
 * Remove more 0.G migrations ([#64399](https://github.com/CleverRaven/Cataclysm-DDA/pull/64399))
 * Raise minimum supported macOS version to 10.13 ([#64434](https://github.com/CleverRaven/Cataclysm-DDA/pull/64434))
 * Set BACKTRACE in msvc CI builds for better stack traces. ([#64420](https://github.com/CleverRaven/Cataclysm-DDA/pull/64420))
@@ -144,7 +145,6 @@
 #### Cataclysm-DDA experimental build 2023-03-18-0031 ([a922610](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-18-0031))
 
 * Correct n_gettext() name in documentation ([#64343](https://github.com/CleverRaven/Cataclysm-DDA/pull/64343))
-* Update furniture-sleep.json ([#64236](https://github.com/CleverRaven/Cataclysm-DDA/pull/64236))
 * Add Dense Bones and Dromeosaur Muzzle to extra mut scen mod ([#64252](https://github.com/CleverRaven/Cataclysm-DDA/pull/64252))
 * Deduplicate code in Character::*_weakpoint_skill ([#64321](https://github.com/CleverRaven/Cataclysm-DDA/pull/64321))
 * Convert anonymous vehicle_part enum to class enum ([#64331](https://github.com/CleverRaven/Cataclysm-DDA/pull/64331))
