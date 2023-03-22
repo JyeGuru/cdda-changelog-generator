@@ -1,3 +1,4 @@
+* Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
 
 ---
 
@@ -188,7 +189,6 @@
 * Aftershock - extend cooking requirements instead of replacing ([#64282](https://github.com/CleverRaven/Cataclysm-DDA/pull/64282))
 * Fix pillow cases spawning empty ([#64272](https://github.com/CleverRaven/Cataclysm-DDA/pull/64272))
 * only grab one target at a time ([#64250](https://github.com/CleverRaven/Cataclysm-DDA/pull/64250))
-* Update Occupied Lumbermills ([#64248](https://github.com/CleverRaven/Cataclysm-DDA/pull/64248))
 * Fix microwave missing ammo type ([#64256](https://github.com/CleverRaven/Cataclysm-DDA/pull/64256))
 * More comparators for `event_transformation` `value_constraints` ([#64253](https://github.com/CleverRaven/Cataclysm-DDA/pull/64253))
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
