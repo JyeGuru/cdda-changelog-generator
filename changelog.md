@@ -1,3 +1,5 @@
+* Pass base github token to Changelog generator ([#64452](https://github.com/CleverRaven/Cataclysm-DDA/pull/64452))
+* Attempts to fix nether monster generation ([#64421](https://github.com/CleverRaven/Cataclysm-DDA/pull/64421))
 
 ---
 
@@ -143,11 +145,6 @@
 * Deduplicate code in Character::*_weakpoint_skill ([#64321](https://github.com/CleverRaven/Cataclysm-DDA/pull/64321))
 * Convert anonymous vehicle_part enum to class enum ([#64331](https://github.com/CleverRaven/Cataclysm-DDA/pull/64331))
 * [Xedra Evolved] Estocs do not fit into scabbard ([#64337](https://github.com/CleverRaven/Cataclysm-DDA/pull/64337))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-17-1359 ([8ff9411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-17-1359))
-
 * Cost parity for mod mutations ([#64332](https://github.com/CleverRaven/Cataclysm-DDA/pull/64332))
 * Remove unused variable ([#64326](https://github.com/CleverRaven/Cataclysm-DDA/pull/64326))
 * Fix to pollution by stat modifications in newcharacter. ([#64296](https://github.com/CleverRaven/Cataclysm-DDA/pull/64296))
@@ -193,6 +190,4 @@
 * harmonica held by the neck, not head ([#64238](https://github.com/CleverRaven/Cataclysm-DDA/pull/64238))
 * Field Overlay Fixes ([#64231](https://github.com/CleverRaven/Cataclysm-DDA/pull/64231))
 * Fix category spawn probability ([#64223](https://github.com/CleverRaven/Cataclysm-DDA/pull/64223))
-* item: fix nested software name ([#64218](https://github.com/CleverRaven/Cataclysm-DDA/pull/64218))
 * remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
-* Reinforced security camera power fix ([#64216](https://github.com/CleverRaven/Cataclysm-DDA/pull/64216))
