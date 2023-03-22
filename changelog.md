@@ -6,7 +6,7 @@
 
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
 * [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
-* Search using uncharged_quality (such as welding) ([#64322](https://github.com/CleverRaven/Cataclysm-DDA/pull/64322))
+* Search using charged_quality (such as welding) ([#64322](https://github.com/CleverRaven/Cataclysm-DDA/pull/64322))
 * Add blood level widget for XE vampire characters ([#64319](https://github.com/CleverRaven/Cataclysm-DDA/pull/64319))
 
 ---

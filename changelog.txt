@@ -3,7 +3,7 @@
 Cataclysm-DDA experimental build 2023-03-22-1225 (bd97ea5)
 * Erase all before placing Exodii crash buildings (#64450)
 * [Magiclysm] Small fix (#64405)
-* Search using uncharged_quality (such as welding) (#64322)
+* Search using charged_quality (such as welding) (#64322)
 * Add blood level widget for XE vampire characters (#64319)
 
 Cataclysm-DDA experimental build 2023-03-22-0621 (9d3d406)
