@@ -1,3 +1,4 @@
+* Raise minimum supported macOS version to 10.13 (#64434)
 * Set BACKTRACE in msvc CI builds for better stack traces. (#64420)
 
 Cataclysm-DDA experimental build 2023-03-22-0350 (c1158ca)
@@ -117,7 +118,6 @@ Cataclysm-DDA experimental build 2023-03-18-0031 (a922610)
 * Set pocket management menu message according to set keybindings (#64234)
 * More comparators for `event_transformation` `value_constraints` (#64253)
 * Small survivor's bunker update (#64261)
-* Disallow working on vehicle wheels in water (#64233)
 * Nested chunk roof fix (#64271)
 * [XEDRA Evolved] small bugfix (#64260)
 * Quick language fixes (#64255)
