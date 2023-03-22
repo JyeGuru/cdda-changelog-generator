@@ -1,3 +1,4 @@
+* Remove more 0.G migrations ([#64399](https://github.com/CleverRaven/Cataclysm-DDA/pull/64399))
 * Raise minimum supported macOS version to 10.13 ([#64434](https://github.com/CleverRaven/Cataclysm-DDA/pull/64434))
 * Set BACKTRACE in msvc CI builds for better stack traces. ([#64420](https://github.com/CleverRaven/Cataclysm-DDA/pull/64420))
 
@@ -175,7 +176,6 @@
 * Update Occupied Lumbermills ([#64248](https://github.com/CleverRaven/Cataclysm-DDA/pull/64248))
 * Fix microwave missing ammo type ([#64256](https://github.com/CleverRaven/Cataclysm-DDA/pull/64256))
 * Updates more offices with office-related furniture ([#64243](https://github.com/CleverRaven/Cataclysm-DDA/pull/64243))
-* Set pocket management menu message according to set keybindings ([#64234](https://github.com/CleverRaven/Cataclysm-DDA/pull/64234))
 * More comparators for `event_transformation` `value_constraints` ([#64253](https://github.com/CleverRaven/Cataclysm-DDA/pull/64253))
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
