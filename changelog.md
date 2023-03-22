@@ -1,3 +1,4 @@
+* Add blood level widget for XE vampire characters ([#64319](https://github.com/CleverRaven/Cataclysm-DDA/pull/64319))
 
 ---
 
@@ -194,5 +195,4 @@
 * Update known bad density ([#64258](https://github.com/CleverRaven/Cataclysm-DDA/pull/64258))
 * Cull pets ([#64240](https://github.com/CleverRaven/Cataclysm-DDA/pull/64240))
 * Maybe Hopefully Fix for the double ``D`` menu ([#64239](https://github.com/CleverRaven/Cataclysm-DDA/pull/64239))
-* harmonica held by the neck, not head ([#64238](https://github.com/CleverRaven/Cataclysm-DDA/pull/64238))
 * remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
