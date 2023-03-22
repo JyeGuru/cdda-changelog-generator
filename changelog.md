@@ -1,3 +1,4 @@
+* [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
 * Search using uncharged_quality (such as welding) ([#64322](https://github.com/CleverRaven/Cataclysm-DDA/pull/64322))
 * Add blood level widget for XE vampire characters ([#64319](https://github.com/CleverRaven/Cataclysm-DDA/pull/64319))
 
@@ -194,5 +195,4 @@
 * Fix typo in minimum gcc version ([#64257](https://github.com/CleverRaven/Cataclysm-DDA/pull/64257))
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))
 * Update known bad density ([#64258](https://github.com/CleverRaven/Cataclysm-DDA/pull/64258))
-* Cull pets ([#64240](https://github.com/CleverRaven/Cataclysm-DDA/pull/64240))
 * remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))
