@@ -1,3 +1,4 @@
+* Furniture/Terrain Description Proofreading ([#64273](https://github.com/CleverRaven/Cataclysm-DDA/pull/64273))
 * Pass base github token to Changelog generator ([#64452](https://github.com/CleverRaven/Cataclysm-DDA/pull/64452))
 * Attempts to fix nether monster generation ([#64421](https://github.com/CleverRaven/Cataclysm-DDA/pull/64421))
 
@@ -189,5 +190,4 @@
 * Maybe Hopefully Fix for the double ``D`` menu ([#64239](https://github.com/CleverRaven/Cataclysm-DDA/pull/64239))
 * harmonica held by the neck, not head ([#64238](https://github.com/CleverRaven/Cataclysm-DDA/pull/64238))
 * Field Overlay Fixes ([#64231](https://github.com/CleverRaven/Cataclysm-DDA/pull/64231))
-* Fix category spawn probability ([#64223](https://github.com/CleverRaven/Cataclysm-DDA/pull/64223))
 * remove vestegial symlink ([#64244](https://github.com/CleverRaven/Cataclysm-DDA/pull/64244))

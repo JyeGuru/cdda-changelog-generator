@@ -1,3 +1,4 @@
+* Furniture/Terrain Description Proofreading (#64273)
 * Pass base github token to Changelog generator (#64452)
 * Attempts to fix nether monster generation (#64421)
 
@@ -129,5 +130,4 @@ Cataclysm-DDA experimental build 2023-03-17-1538 (43b3ae7)
 * Maybe Hopefully Fix for the double ``D`` menu (#64239)
 * harmonica held by the neck, not head (#64238)
 * Field Overlay Fixes (#64231)
-* Fix category spawn probability (#64223)
 * remove vestegial symlink (#64244)
