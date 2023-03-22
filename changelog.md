@@ -1,3 +1,4 @@
+* Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
 * [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
 * Search using uncharged_quality (such as welding) ([#64322](https://github.com/CleverRaven/Cataclysm-DDA/pull/64322))
 * Add blood level widget for XE vampire characters ([#64319](https://github.com/CleverRaven/Cataclysm-DDA/pull/64319))
@@ -183,7 +184,6 @@
 * only grab one target at a time ([#64250](https://github.com/CleverRaven/Cataclysm-DDA/pull/64250))
 * Update Occupied Lumbermills ([#64248](https://github.com/CleverRaven/Cataclysm-DDA/pull/64248))
 * Fix microwave missing ammo type ([#64256](https://github.com/CleverRaven/Cataclysm-DDA/pull/64256))
-* Updates more offices with office-related furniture ([#64243](https://github.com/CleverRaven/Cataclysm-DDA/pull/64243))
 * More comparators for `event_transformation` `value_constraints` ([#64253](https://github.com/CleverRaven/Cataclysm-DDA/pull/64253))
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
