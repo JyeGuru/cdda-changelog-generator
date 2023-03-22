@@ -1,3 +1,4 @@
+* Set BACKTRACE in msvc CI builds for better stack traces. (#64420)
 
 Cataclysm-DDA experimental build 2023-03-22-0350 (c1158ca)
 * Furniture/Terrain Description Proofreading (#64273)
@@ -129,5 +130,4 @@ Cataclysm-DDA experimental build 2023-03-18-0031 (a922610)
 * Cull pets (#64240)
 * Maybe Hopefully Fix for the double ``D`` menu (#64239)
 * harmonica held by the neck, not head (#64238)
-* Field Overlay Fixes (#64231)
 * remove vestegial symlink (#64244)
