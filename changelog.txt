@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-03-22-1820 (bfffbf2)
+* MozzarellaCheese (#64418)
+
 Cataclysm-DDA experimental build 2023-03-22-1615 (6c5f917)
 * Revert "Attempts to fix nether monster generation" (#64462)
 
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2023-03-18-0821 (a577338)
 Cataclysm-DDA experimental build 2023-03-18-0659 (d8075bc)
 * ☕☢️ Fix atomic coffeepot being unable to use batteries ☢️☕ (#64336)
 * msvc-full-features vcpkg cache needs to be a strict superset of the release vcpkg (#64349)
-
-Cataclysm-DDA experimental build 2023-03-18-0518 (645d863)
 * Routine i18n updates on 18 March 2023 (#64351)
 * Aftershock - Make atomic coffeepot great again! (#64345)
 * Correct n_gettext() name in documentation (#64343)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2023-03-18-0518 (645d863)
 * [XEDRA Evolved] small bugfix (#64260)
 * Quick language fixes (#64255)
 * Fix error with str/int/dex displaying weirdly during char creation (#64270)
-* Fixed truncation in monster list ui (#64249)
 * Obsolete plastic mold (#64251)
 * Fix typo in minimum gcc version (#64257)
 * Set Linux release builds to Ubuntu 20.04 (#64264)

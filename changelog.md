@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-22-1820 ([bfffbf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1820))
+
+* MozzarellaCheese ([#64418](https://github.com/CleverRaven/Cataclysm-DDA/pull/64418))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-22-1615 ([6c5f917](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1615))
 
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
@@ -158,11 +164,6 @@
 
 * ☕☢️ Fix atomic coffeepot being unable to use batteries ☢️☕ ([#64336](https://github.com/CleverRaven/Cataclysm-DDA/pull/64336))
 * msvc-full-features vcpkg cache needs to be a strict superset of the release vcpkg ([#64349](https://github.com/CleverRaven/Cataclysm-DDA/pull/64349))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-18-0518 ([645d863](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-18-0518))
-
 * Routine i18n updates on 18 March 2023 ([#64351](https://github.com/CleverRaven/Cataclysm-DDA/pull/64351))
 * Aftershock - Make atomic coffeepot great again! ([#64345](https://github.com/CleverRaven/Cataclysm-DDA/pull/64345))
 * Correct n_gettext() name in documentation ([#64343](https://github.com/CleverRaven/Cataclysm-DDA/pull/64343))
@@ -201,7 +202,6 @@
 * [XEDRA Evolved] small bugfix ([#64260](https://github.com/CleverRaven/Cataclysm-DDA/pull/64260))
 * Quick language fixes ([#64255](https://github.com/CleverRaven/Cataclysm-DDA/pull/64255))
 * Fix error with str/int/dex displaying weirdly during char creation ([#64270](https://github.com/CleverRaven/Cataclysm-DDA/pull/64270))
-* Fixed truncation in monster list ui ([#64249](https://github.com/CleverRaven/Cataclysm-DDA/pull/64249))
 * Obsolete plastic mold ([#64251](https://github.com/CleverRaven/Cataclysm-DDA/pull/64251))
 * Fix typo in minimum gcc version ([#64257](https://github.com/CleverRaven/Cataclysm-DDA/pull/64257))
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))
