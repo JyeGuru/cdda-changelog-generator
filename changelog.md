@@ -1,3 +1,4 @@
+* EOC on event ([#64426](https://github.com/CleverRaven/Cataclysm-DDA/pull/64426))
 * inv_ui: move cell cache to entry and delete redundant calls ([#64425](https://github.com/CleverRaven/Cataclysm-DDA/pull/64425))
 * Fix changelog script not preserving leading spaces ([#64459](https://github.com/CleverRaven/Cataclysm-DDA/pull/64459))
 
@@ -200,7 +201,6 @@
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
 * [XEDRA Evolved] small bugfix ([#64260](https://github.com/CleverRaven/Cataclysm-DDA/pull/64260))
-* Quick language fixes ([#64255](https://github.com/CleverRaven/Cataclysm-DDA/pull/64255))
 * Fix error with str/int/dex displaying weirdly during char creation ([#64270](https://github.com/CleverRaven/Cataclysm-DDA/pull/64270))
 * Fix typo in minimum gcc version ([#64257](https://github.com/CleverRaven/Cataclysm-DDA/pull/64257))
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))

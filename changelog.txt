@@ -1,3 +1,4 @@
+* EOC on event (#64426)
 * inv_ui: move cell cache to entry and delete redundant calls (#64425)
 * Fix changelog script not preserving leading spaces (#64459)
 
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2023-03-18-0821 (a577338)
 * Small survivor's bunker update (#64261)
 * Nested chunk roof fix (#64271)
 * [XEDRA Evolved] small bugfix (#64260)
-* Quick language fixes (#64255)
 * Fix error with str/int/dex displaying weirdly during char creation (#64270)
 * Fix typo in minimum gcc version (#64257)
 * Set Linux release builds to Ubuntu 20.04 (#64264)
