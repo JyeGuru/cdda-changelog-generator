@@ -1,3 +1,11 @@
+* Add a Melchior node in the Physics lab ([#64391](https://github.com/CleverRaven/Cataclysm-DDA/pull/64391))
+* Turn person's ability to open doors back ([#64464](https://github.com/CleverRaven/Cataclysm-DDA/pull/64464))
+* Misc fixes ([#64453](https://github.com/CleverRaven/Cataclysm-DDA/pull/64453))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-23-0514 ([dc9b494](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-23-0514))
+
 * Attach battery toolmod instead of duplicating item definitions ([#64441](https://github.com/CleverRaven/Cataclysm-DDA/pull/64441))
 * EOC on event ([#64426](https://github.com/CleverRaven/Cataclysm-DDA/pull/64426))
 
@@ -200,8 +208,5 @@
 * Fix pillow cases spawning empty ([#64272](https://github.com/CleverRaven/Cataclysm-DDA/pull/64272))
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
-* [XEDRA Evolved] small bugfix ([#64260](https://github.com/CleverRaven/Cataclysm-DDA/pull/64260))
 * Fix error with str/int/dex displaying weirdly during char creation ([#64270](https://github.com/CleverRaven/Cataclysm-DDA/pull/64270))
-* Fix typo in minimum gcc version ([#64257](https://github.com/CleverRaven/Cataclysm-DDA/pull/64257))
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))
-* Update known bad density ([#64258](https://github.com/CleverRaven/Cataclysm-DDA/pull/64258))

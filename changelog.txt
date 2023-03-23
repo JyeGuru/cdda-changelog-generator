@@ -1,3 +1,8 @@
+* Add a Melchior node in the Physics lab (#64391)
+* Turn person's ability to open doors back (#64464)
+* Misc fixes (#64453)
+
+Cataclysm-DDA experimental build 2023-03-23-0514 (dc9b494)
 * Attach battery toolmod instead of duplicating item definitions (#64441)
 * EOC on event (#64426)
 
@@ -131,8 +136,5 @@ Cataclysm-DDA experimental build 2023-03-19-0702 (8720584)
 * Fix pillow cases spawning empty (#64272)
 * Small survivor's bunker update (#64261)
 * Nested chunk roof fix (#64271)
-* [XEDRA Evolved] small bugfix (#64260)
 * Fix error with str/int/dex displaying weirdly during char creation (#64270)
-* Fix typo in minimum gcc version (#64257)
 * Set Linux release builds to Ubuntu 20.04 (#64264)
-* Update known bad density (#64258)
