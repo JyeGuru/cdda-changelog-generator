@@ -1,3 +1,4 @@
+* Throwable fire extinguishers can now be placed in grenade-only pockets ([#64465](https://github.com/CleverRaven/Cataclysm-DDA/pull/64465))
 * Add a Melchior node in the Physics lab ([#64391](https://github.com/CleverRaven/Cataclysm-DDA/pull/64391))
 * Turn person's ability to open doors back ([#64464](https://github.com/CleverRaven/Cataclysm-DDA/pull/64464))
 * Misc fixes ([#64453](https://github.com/CleverRaven/Cataclysm-DDA/pull/64453))
@@ -206,7 +207,6 @@
 * Makes tinder easier to craft ([#64277](https://github.com/CleverRaven/Cataclysm-DDA/pull/64277))
 * Aftershock - extend cooking requirements instead of replacing ([#64282](https://github.com/CleverRaven/Cataclysm-DDA/pull/64282))
 * Fix pillow cases spawning empty ([#64272](https://github.com/CleverRaven/Cataclysm-DDA/pull/64272))
-* Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
 * Fix error with str/int/dex displaying weirdly during char creation ([#64270](https://github.com/CleverRaven/Cataclysm-DDA/pull/64270))
 * Set Linux release builds to Ubuntu 20.04 ([#64264](https://github.com/CleverRaven/Cataclysm-DDA/pull/64264))
