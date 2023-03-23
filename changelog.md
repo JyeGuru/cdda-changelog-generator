@@ -168,11 +168,6 @@
 * C4 teleports into pocket when activated outside the pocket #64308 ([#64347](https://github.com/CleverRaven/Cataclysm-DDA/pull/64347))
 * Make skill help spell learn time instead of hurt ([#64323](https://github.com/CleverRaven/Cataclysm-DDA/pull/64323))
 * Update NPCs.md to match #55320 ([#64379](https://github.com/CleverRaven/Cataclysm-DDA/pull/64379))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-19-0702 ([8720584](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-19-0702))
-
 * Fixing follower NPCs having static NPC traits ([#64312](https://github.com/CleverRaven/Cataclysm-DDA/pull/64312))
 * boiled makeshift bandage cost ([#64341](https://github.com/CleverRaven/Cataclysm-DDA/pull/64341))
 * Expanded Digestive System cancels Meat Intolerance ([#64356](https://github.com/CleverRaven/Cataclysm-DDA/pull/64356))
