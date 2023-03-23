@@ -1,4 +1,10 @@
+* Attach battery toolmod instead of duplicating item definitions ([#64441](https://github.com/CleverRaven/Cataclysm-DDA/pull/64441))
 * EOC on event ([#64426](https://github.com/CleverRaven/Cataclysm-DDA/pull/64426))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-23-0225 ([71d3982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-23-0225))
+
 * inv_ui: move cell cache to entry and delete redundant calls ([#64425](https://github.com/CleverRaven/Cataclysm-DDA/pull/64425))
 * Fix changelog script not preserving leading spaces ([#64459](https://github.com/CleverRaven/Cataclysm-DDA/pull/64459))
 
@@ -160,11 +166,6 @@
 * Set OSX_MIN on CI to match release workflow ([#64364](https://github.com/CleverRaven/Cataclysm-DDA/pull/64364))
 * Fix Renfield abomination description ([#64352](https://github.com/CleverRaven/Cataclysm-DDA/pull/64352))
 * Make folding vehicles test less flaky ([#64374](https://github.com/CleverRaven/Cataclysm-DDA/pull/64374))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-18-0821 ([a577338](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-18-0821))
-
 * Refactor travel-related overmap keybinds code ([#64353](https://github.com/CleverRaven/Cataclysm-DDA/pull/64353))
 * ☕☢️ Fix atomic coffeepot being unable to use batteries ☢️☕ ([#64336](https://github.com/CleverRaven/Cataclysm-DDA/pull/64336))
 * msvc-full-features vcpkg cache needs to be a strict superset of the release vcpkg ([#64349](https://github.com/CleverRaven/Cataclysm-DDA/pull/64349))
@@ -197,7 +198,6 @@
 * Makes tinder easier to craft ([#64277](https://github.com/CleverRaven/Cataclysm-DDA/pull/64277))
 * Aftershock - extend cooking requirements instead of replacing ([#64282](https://github.com/CleverRaven/Cataclysm-DDA/pull/64282))
 * Fix pillow cases spawning empty ([#64272](https://github.com/CleverRaven/Cataclysm-DDA/pull/64272))
-* Fix microwave missing ammo type ([#64256](https://github.com/CleverRaven/Cataclysm-DDA/pull/64256))
 * Small survivor's bunker update ([#64261](https://github.com/CleverRaven/Cataclysm-DDA/pull/64261))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
 * [XEDRA Evolved] small bugfix ([#64260](https://github.com/CleverRaven/Cataclysm-DDA/pull/64260))
