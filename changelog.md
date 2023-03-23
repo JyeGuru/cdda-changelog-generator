@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-23-0839 ([4ad1388](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-23-0839))
+
 * Throwable fire extinguishers can now be placed in grenade-only pockets ([#64465](https://github.com/CleverRaven/Cataclysm-DDA/pull/64465))
 * Add a Melchior node in the Physics lab ([#64391](https://github.com/CleverRaven/Cataclysm-DDA/pull/64391))
 * Turn person's ability to open doors back ([#64464](https://github.com/CleverRaven/Cataclysm-DDA/pull/64464))
