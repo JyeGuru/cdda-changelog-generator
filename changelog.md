@@ -209,4 +209,3 @@
 * Aftershock - extend cooking requirements instead of replacing ([#64282](https://github.com/CleverRaven/Cataclysm-DDA/pull/64282))
 * Fix pillow cases spawning empty ([#64272](https://github.com/CleverRaven/Cataclysm-DDA/pull/64272))
 * Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
-* Fix error with str/int/dex displaying weirdly during char creation ([#64270](https://github.com/CleverRaven/Cataclysm-DDA/pull/64270))
