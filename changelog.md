@@ -97,11 +97,6 @@
 #### Cataclysm-DDA experimental build 2023-03-22-1615 ([6c5f917](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1615))
 
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-22-1401 ([d489bbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1401))
-
 * Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
 
 ---
@@ -162,6 +157,11 @@
 
 * set subtype of pencil_case_with_contents ([#64402](https://github.com/CleverRaven/Cataclysm-DDA/pull/64402))
 * Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-20-1923 ([8834731](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-20-1923))
+
 * Prevent android small screen craft crash ([#64415](https://github.com/CleverRaven/Cataclysm-DDA/pull/64415))
 * Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
 * Menstrual products ([#64372](https://github.com/CleverRaven/Cataclysm-DDA/pull/64372))
