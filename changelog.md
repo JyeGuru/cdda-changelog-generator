@@ -1,3 +1,4 @@
+* Type fixes for MSVC, use steady_clock for intervals ([#64477](https://github.com/CleverRaven/Cataclysm-DDA/pull/64477))
 * Remove UNCRAFT_LIQUIDS_CONTAINED flag ([#64489](https://github.com/CleverRaven/Cataclysm-DDA/pull/64489))
 * Make 'afs_atomic_smartphone' disassembly not produce any 'lens_small' components and update meteorologist quest dialog ([#64481](https://github.com/CleverRaven/Cataclysm-DDA/pull/64481))
 * Add high end hunting backpack ([#64479](https://github.com/CleverRaven/Cataclysm-DDA/pull/64479))
@@ -205,4 +206,3 @@
 * Remove C++17 deprecated headers in MSVC PCH ([#64307](https://github.com/CleverRaven/Cataclysm-DDA/pull/64307))
 * Remove acid rain ([#64310](https://github.com/CleverRaven/Cataclysm-DDA/pull/64310))
 * Bump Java to 11 in Android build environment ([#64318](https://github.com/CleverRaven/Cataclysm-DDA/pull/64318))
-* Build Android in C++17 mode ([#64305](https://github.com/CleverRaven/Cataclysm-DDA/pull/64305))
