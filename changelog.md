@@ -1,3 +1,13 @@
+* Allow spells to use dialog variables. ([#64416](https://github.com/CleverRaven/Cataclysm-DDA/pull/64416))
+* active_items: mark death drops as active items ([#64411](https://github.com/CleverRaven/Cataclysm-DDA/pull/64411))
+* Campground cleanup ([#64395](https://github.com/CleverRaven/Cataclysm-DDA/pull/64395))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-24-0154 ([66a079d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-24-0154))
+
+* Refactor and document vehicle::[avail_]part_with_feature overloads ([#64392](https://github.com/CleverRaven/Cataclysm-DDA/pull/64392))
+* Make instability test more reliable ([#64361](https://github.com/CleverRaven/Cataclysm-DDA/pull/64361))
 
 ---
 
@@ -71,12 +81,6 @@
 * Remove more 0.G migrations ([#64399](https://github.com/CleverRaven/Cataclysm-DDA/pull/64399))
 * Raise minimum supported macOS version to 10.13 ([#64434](https://github.com/CleverRaven/Cataclysm-DDA/pull/64434))
 * Set BACKTRACE in msvc CI builds for better stack traces. ([#64420](https://github.com/CleverRaven/Cataclysm-DDA/pull/64420))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-22-0350 ([c1158ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-0350))
-
-* Furniture/Terrain Description Proofreading ([#64273](https://github.com/CleverRaven/Cataclysm-DDA/pull/64273))
 * Pass base github token to Changelog generator ([#64452](https://github.com/CleverRaven/Cataclysm-DDA/pull/64452))
 * Attempts to fix nether monster generation ([#64421](https://github.com/CleverRaven/Cataclysm-DDA/pull/64421))
 
@@ -162,11 +166,6 @@
 * Add Makefile option to compile in order of header popularity ([#64378](https://github.com/CleverRaven/Cataclysm-DDA/pull/64378))
 * Normalize the technician zombie ([#64383](https://github.com/CleverRaven/Cataclysm-DDA/pull/64383))
 * Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-19-1951 ([72e5ffe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-19-1951))
-
 * Use underlying type for vehicle_part::flags enum ([#64387](https://github.com/CleverRaven/Cataclysm-DDA/pull/64387))
 * C4 teleports into pocket when activated outside the pocket #64308 ([#64347](https://github.com/CleverRaven/Cataclysm-DDA/pull/64347))
 * Make skill help spell learn time instead of hurt ([#64323](https://github.com/CleverRaven/Cataclysm-DDA/pull/64323))
@@ -204,8 +203,4 @@
 * Build Android in C++17 mode ([#64305](https://github.com/CleverRaven/Cataclysm-DDA/pull/64305))
 * remove two wrong lines ([#64295](https://github.com/CleverRaven/Cataclysm-DDA/pull/64295))
 * Add docs + quick monster extension for EOC hp plus warmth access ([#64281](https://github.com/CleverRaven/Cataclysm-DDA/pull/64281))
-* Fix app_microwave lack of microwave tool ([#64279](https://github.com/CleverRaven/Cataclysm-DDA/pull/64279))
-* Makes tinder easier to craft ([#64277](https://github.com/CleverRaven/Cataclysm-DDA/pull/64277))
 * Aftershock - extend cooking requirements instead of replacing ([#64282](https://github.com/CleverRaven/Cataclysm-DDA/pull/64282))
-* Fix pillow cases spawning empty ([#64272](https://github.com/CleverRaven/Cataclysm-DDA/pull/64272))
-* Nested chunk roof fix ([#64271](https://github.com/CleverRaven/Cataclysm-DDA/pull/64271))
