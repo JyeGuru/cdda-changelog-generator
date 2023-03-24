@@ -1,3 +1,4 @@
+* Differentiate welding tool names (#64485)
 
 Cataclysm-DDA experimental build 2023-03-24-0348 (5b8087d)
 * Remove achievements/scores/killcount top-level keybinding and move it into the diary menu (bound by default to ')') (#64470)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2023-03-20-0056 (84bf789)
 * Make vehicle mass aware of monster moving (#64301)
 * make Bulging Reservoir decrease your thirst, not increase (#64306)
 * Switch a time type to fs:: (#64314)
-* Suppress more clang-analyzer warnings (#64292)
 * Remove C++17 deprecated headers in MSVC PCH (#64307)
 * Remove acid rain (#64310)
 * Bump Java to 11 in Android build environment (#64318)

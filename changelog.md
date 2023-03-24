@@ -1,3 +1,4 @@
+* Differentiate welding tool names ([#64485](https://github.com/CleverRaven/Cataclysm-DDA/pull/64485))
 
 ---
 
@@ -204,7 +205,6 @@
 * Make vehicle mass aware of monster moving ([#64301](https://github.com/CleverRaven/Cataclysm-DDA/pull/64301))
 * make Bulging Reservoir decrease your thirst, not increase ([#64306](https://github.com/CleverRaven/Cataclysm-DDA/pull/64306))
 * Switch a time type to fs:: ([#64314](https://github.com/CleverRaven/Cataclysm-DDA/pull/64314))
-* Suppress more clang-analyzer warnings ([#64292](https://github.com/CleverRaven/Cataclysm-DDA/pull/64292))
 * Remove C++17 deprecated headers in MSVC PCH ([#64307](https://github.com/CleverRaven/Cataclysm-DDA/pull/64307))
 * Remove acid rain ([#64310](https://github.com/CleverRaven/Cataclysm-DDA/pull/64310))
 * Bump Java to 11 in Android build environment ([#64318](https://github.com/CleverRaven/Cataclysm-DDA/pull/64318))
