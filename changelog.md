@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-24-0348 ([5b8087d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-24-0348))
+
 * Remove achievements/scores/killcount top-level keybinding and move it into the diary menu (bound by default to ')') ([#64470](https://github.com/CleverRaven/Cataclysm-DDA/pull/64470))
 * fix more butane spawns and fix new PRs' foodcosts being wrong out of the gate ([#64443](https://github.com/CleverRaven/Cataclysm-DDA/pull/64443))
 * cpp17 refactoring: remove make_pair ([#64401](https://github.com/CleverRaven/Cataclysm-DDA/pull/64401))
