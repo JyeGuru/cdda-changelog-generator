@@ -1,3 +1,11 @@
+* Minor bus station cleanup ([#64501](https://github.com/CleverRaven/Cataclysm-DDA/pull/64501))
+* [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned ([#64503](https://github.com/CleverRaven/Cataclysm-DDA/pull/64503))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-24-1105 ([206b28e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-24-1105))
+
+* Fix underground emitter drain ([#64506](https://github.com/CleverRaven/Cataclysm-DDA/pull/64506))
 
 ---
 
@@ -161,11 +169,6 @@
 #### Cataclysm-DDA experimental build 2023-03-20-1425 ([1eca109](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-20-1425))
 
 * Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-20-0422 ([b738ae2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-20-0422))
-
 * Menstrual products ([#64372](https://github.com/CleverRaven/Cataclysm-DDA/pull/64372))
 * [Backrooms] Add onura46 as a Backrooms maintainer ([#64394](https://github.com/CleverRaven/Cataclysm-DDA/pull/64394))
 * Office tower 2 cleanup & overhaul ([#64311](https://github.com/CleverRaven/Cataclysm-DDA/pull/64311))
@@ -200,9 +203,6 @@
 * Cost parity for mod mutations ([#64332](https://github.com/CleverRaven/Cataclysm-DDA/pull/64332))
 * Remove unused variable ([#64326](https://github.com/CleverRaven/Cataclysm-DDA/pull/64326))
 * 'vehicle' class cleanup 2 ([#64316](https://github.com/CleverRaven/Cataclysm-DDA/pull/64316))
-* Renames the Devil dog and twisted leatherneck zombies. ([#64309](https://github.com/CleverRaven/Cataclysm-DDA/pull/64309))
-* make Bulging Reservoir decrease your thirst, not increase ([#64306](https://github.com/CleverRaven/Cataclysm-DDA/pull/64306))
 * Switch a time type to fs:: ([#64314](https://github.com/CleverRaven/Cataclysm-DDA/pull/64314))
-* Remove C++17 deprecated headers in MSVC PCH ([#64307](https://github.com/CleverRaven/Cataclysm-DDA/pull/64307))
 * Remove acid rain ([#64310](https://github.com/CleverRaven/Cataclysm-DDA/pull/64310))
 * Bump Java to 11 in Android build environment ([#64318](https://github.com/CleverRaven/Cataclysm-DDA/pull/64318))

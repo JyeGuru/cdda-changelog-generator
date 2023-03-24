@@ -1,3 +1,8 @@
+* Minor bus station cleanup (#64501)
+* [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned (#64503)
+
+Cataclysm-DDA experimental build 2023-03-24-1105 (206b28e)
+* Fix underground emitter drain (#64506)
 
 Cataclysm-DDA experimental build 2023-03-24-0755 (37d6251)
 * Type fixes for MSVC, use steady_clock for intervals (#64477)
@@ -95,8 +100,6 @@ Cataclysm-DDA experimental build 2023-03-20-1923 (8834731)
 
 Cataclysm-DDA experimental build 2023-03-20-1425 (1eca109)
 * Routine tileset updates on 19 March 2023 (#64400)
-
-Cataclysm-DDA experimental build 2023-03-20-0422 (b738ae2)
 * Menstrual products (#64372)
 * [Backrooms] Add onura46 as a Backrooms maintainer (#64394)
 * Office tower 2 cleanup & overhaul (#64311)
@@ -131,9 +134,6 @@ Cataclysm-DDA experimental build 2023-03-20-0422 (b738ae2)
 * Cost parity for mod mutations (#64332)
 * Remove unused variable (#64326)
 * 'vehicle' class cleanup 2 (#64316)
-* Renames the Devil dog and twisted leatherneck zombies. (#64309)
-* make Bulging Reservoir decrease your thirst, not increase (#64306)
 * Switch a time type to fs:: (#64314)
-* Remove C++17 deprecated headers in MSVC PCH (#64307)
 * Remove acid rain (#64310)
 * Bump Java to 11 in Android build environment (#64318)
