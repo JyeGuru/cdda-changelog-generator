@@ -96,8 +96,6 @@ Cataclysm-DDA experimental build 2023-03-20-2217 (9d1bb28)
 Cataclysm-DDA experimental build 2023-03-20-2057 (8f2af67)
 * set subtype of pencil_case_with_contents (#64402)
 * Make generic guns validator output sane error on bad json (#64412)
-
-Cataclysm-DDA experimental build 2023-03-20-1923 (8834731)
 * Prevent android small screen craft crash (#64415)
 * Routine tileset updates on 19 March 2023 (#64400)
 * Menstrual products (#64372)
