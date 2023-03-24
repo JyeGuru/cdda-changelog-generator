@@ -1,3 +1,13 @@
+* Remove UNCRAFT_LIQUIDS_CONTAINED flag ([#64489](https://github.com/CleverRaven/Cataclysm-DDA/pull/64489))
+* Make 'afs_atomic_smartphone' disassembly not produce any 'lens_small' components and update meteorologist quest dialog ([#64481](https://github.com/CleverRaven/Cataclysm-DDA/pull/64481))
+* Add high end hunting backpack ([#64479](https://github.com/CleverRaven/Cataclysm-DDA/pull/64479))
+* JSONized damage verbs for transforming items ([#64476](https://github.com/CleverRaven/Cataclysm-DDA/pull/64476))
+* Fix friction drag from insufficient wheels potentially causing direction change in vehicles ([#64473](https://github.com/CleverRaven/Cataclysm-DDA/pull/64473))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-24-0551 ([62d958d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-24-0551))
+
 * Differentiate welding tool names ([#64485](https://github.com/CleverRaven/Cataclysm-DDA/pull/64485))
 
 ---
@@ -111,12 +121,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-03-21-1129 ([da89a10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-21-1129))
-
-* [Magiclysm] Adding appropriate Black Dragon mutations ([#64303](https://github.com/CleverRaven/Cataclysm-DDA/pull/64303))
-
----
-
 #### Cataclysm-DDA experimental build 2023-03-21-0556 ([127ec42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-21-0556))
 
 * Removed the small lens from smartphone deconstruction because ([#64429](https://github.com/CleverRaven/Cataclysm-DDA/pull/64429))
@@ -165,11 +169,6 @@
 
 * Office tower 2 cleanup & overhaul ([#64311](https://github.com/CleverRaven/Cataclysm-DDA/pull/64311))
 * Remove unused colored stat display functions ([#64313](https://github.com/CleverRaven/Cataclysm-DDA/pull/64313))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-20-0056 ([84bf789](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-20-0056))
-
 * Refactor misleading variable name `vehicle::is_floating` ([#64354](https://github.com/CleverRaven/Cataclysm-DDA/pull/64354))
 * Fix vehicle cheevos not handling reverse (negative) velocities correctly ([#64359](https://github.com/CleverRaven/Cataclysm-DDA/pull/64359))
 * Completes the parking garage ([#64363](https://github.com/CleverRaven/Cataclysm-DDA/pull/64363))
@@ -199,15 +198,11 @@
 * [Xedra Evolved] Estocs do not fit into scabbard ([#64337](https://github.com/CleverRaven/Cataclysm-DDA/pull/64337))
 * Cost parity for mod mutations ([#64332](https://github.com/CleverRaven/Cataclysm-DDA/pull/64332))
 * Remove unused variable ([#64326](https://github.com/CleverRaven/Cataclysm-DDA/pull/64326))
-* Fix to pollution by stat modifications in newcharacter. ([#64296](https://github.com/CleverRaven/Cataclysm-DDA/pull/64296))
 * 'vehicle' class cleanup 2 ([#64316](https://github.com/CleverRaven/Cataclysm-DDA/pull/64316))
 * Renames the Devil dog and twisted leatherneck zombies. ([#64309](https://github.com/CleverRaven/Cataclysm-DDA/pull/64309))
-* Make vehicle mass aware of monster moving ([#64301](https://github.com/CleverRaven/Cataclysm-DDA/pull/64301))
 * make Bulging Reservoir decrease your thirst, not increase ([#64306](https://github.com/CleverRaven/Cataclysm-DDA/pull/64306))
 * Switch a time type to fs:: ([#64314](https://github.com/CleverRaven/Cataclysm-DDA/pull/64314))
 * Remove C++17 deprecated headers in MSVC PCH ([#64307](https://github.com/CleverRaven/Cataclysm-DDA/pull/64307))
 * Remove acid rain ([#64310](https://github.com/CleverRaven/Cataclysm-DDA/pull/64310))
 * Bump Java to 11 in Android build environment ([#64318](https://github.com/CleverRaven/Cataclysm-DDA/pull/64318))
-* added code for embedding names and descriptions into dialogue ([#64299](https://github.com/CleverRaven/Cataclysm-DDA/pull/64299))
 * Build Android in C++17 mode ([#64305](https://github.com/CleverRaven/Cataclysm-DDA/pull/64305))
-* remove two wrong lines ([#64295](https://github.com/CleverRaven/Cataclysm-DDA/pull/64295))
