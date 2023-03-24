@@ -166,7 +166,6 @@
 * Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
 * Menstrual products ([#64372](https://github.com/CleverRaven/Cataclysm-DDA/pull/64372))
 * [Backrooms] Add onura46 as a Backrooms maintainer ([#64394](https://github.com/CleverRaven/Cataclysm-DDA/pull/64394))
-* Office tower 2 cleanup & overhaul ([#64311](https://github.com/CleverRaven/Cataclysm-DDA/pull/64311))
 * Remove unused colored stat display functions ([#64313](https://github.com/CleverRaven/Cataclysm-DDA/pull/64313))
 * Refactor misleading variable name `vehicle::is_floating` ([#64354](https://github.com/CleverRaven/Cataclysm-DDA/pull/64354))
 * Fix vehicle cheevos not handling reverse (negative) velocities correctly ([#64359](https://github.com/CleverRaven/Cataclysm-DDA/pull/64359))
