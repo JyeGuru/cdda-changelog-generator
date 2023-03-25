@@ -112,8 +112,6 @@ Cataclysm-DDA experimental build 2023-03-22-1401 (d489bbc)
 Cataclysm-DDA experimental build 2023-03-22-1225 (bd97ea5)
 * Erase all before placing Exodii crash buildings (#64450)
 * [Magiclysm] Small fix (#64405)
-
-Cataclysm-DDA experimental build 2023-03-22-0621 (9d3d406)
 * Update the table of contents in doc/JSON_INFO.md (#64456)
 * Remove more 0.G migrations (#64399)
 * Raise minimum supported macOS version to 10.13 (#64434)
