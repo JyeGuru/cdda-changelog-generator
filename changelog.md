@@ -1,3 +1,5 @@
+* Fix print conversion error, fix more type warnings ([#64536](https://github.com/CleverRaven/Cataclysm-DDA/pull/64536))
+* Rebalance Bordered scenario ([#64531](https://github.com/CleverRaven/Cataclysm-DDA/pull/64531))
 * Make ccache functioning again on GitHub Actions ([#64553](https://github.com/CleverRaven/Cataclysm-DDA/pull/64553))
 * Skip tests in MSVC build triggered on master branch ([#64556](https://github.com/CleverRaven/Cataclysm-DDA/pull/64556))
 * Static declarations in headers ([#64430](https://github.com/CleverRaven/Cataclysm-DDA/pull/64430))
@@ -203,5 +205,3 @@
 * Refactor travel-related overmap keybinds code ([#64353](https://github.com/CleverRaven/Cataclysm-DDA/pull/64353))
 * msvc-full-features vcpkg cache needs to be a strict superset of the release vcpkg ([#64349](https://github.com/CleverRaven/Cataclysm-DDA/pull/64349))
 * Routine i18n updates on 18 March 2023 ([#64351](https://github.com/CleverRaven/Cataclysm-DDA/pull/64351))
-* Aftershock - Make atomic coffeepot great again! ([#64345](https://github.com/CleverRaven/Cataclysm-DDA/pull/64345))
-* Correct n_gettext() name in documentation ([#64343](https://github.com/CleverRaven/Cataclysm-DDA/pull/64343))
