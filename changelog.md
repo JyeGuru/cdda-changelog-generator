@@ -1,3 +1,4 @@
+* Fix character received items' charges error ([#64488](https://github.com/CleverRaven/Cataclysm-DDA/pull/64488))
 * Soldier mantle fix ([#64547](https://github.com/CleverRaven/Cataclysm-DDA/pull/64547))
 * Gracefully handle errors in pull request test labeler ([#64558](https://github.com/CleverRaven/Cataclysm-DDA/pull/64558))
 
@@ -204,7 +205,6 @@
 * Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
 * Menstrual products ([#64372](https://github.com/CleverRaven/Cataclysm-DDA/pull/64372))
 * [Backrooms] Add onura46 as a Backrooms maintainer ([#64394](https://github.com/CleverRaven/Cataclysm-DDA/pull/64394))
-* Fix vehicle cheevos not handling reverse (negative) velocities correctly ([#64359](https://github.com/CleverRaven/Cataclysm-DDA/pull/64359))
 * Completes the parking garage ([#64363](https://github.com/CleverRaven/Cataclysm-DDA/pull/64363))
 * Add reminder of the license to PR template ([#64370](https://github.com/CleverRaven/Cataclysm-DDA/pull/64370))
 * Add Makefile option to compile in order of header popularity ([#64378](https://github.com/CleverRaven/Cataclysm-DDA/pull/64378))
