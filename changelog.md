@@ -1,3 +1,4 @@
+* Make ASRG not give x1000 intended power ([#64544](https://github.com/CleverRaven/Cataclysm-DDA/pull/64544))
 
 ---
 
