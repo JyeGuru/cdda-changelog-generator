@@ -1,3 +1,4 @@
+* Add self to comment-commands.yml (#64554)
 * Make ASRG not give x1000 intended power (#64544)
 
 Cataclysm-DDA experimental build 2023-03-25-1649 (324f6d5)
@@ -135,7 +136,5 @@ Cataclysm-DDA experimental build 2023-03-22-0621 (9d3d406)
 * Expanded Digestive System cancels Meat Intolerance (#64356)
 * [Xedra Evolved] Random fixes and stuff (#64371)
 * Set OSX_MIN on CI to match release workflow (#64364)
-* Fix Renfield abomination description (#64352)
 * Make folding vehicles test less flaky (#64374)
 * Refactor travel-related overmap keybinds code (#64353)
-* Routine i18n updates on 18 March 2023 (#64351)

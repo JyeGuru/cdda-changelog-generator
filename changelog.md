@@ -1,3 +1,4 @@
+* Add self to comment-commands.yml ([#64554](https://github.com/CleverRaven/Cataclysm-DDA/pull/64554))
 * Make ASRG not give x1000 intended power ([#64544](https://github.com/CleverRaven/Cataclysm-DDA/pull/64544))
 
 ---
@@ -207,7 +208,5 @@
 * Expanded Digestive System cancels Meat Intolerance ([#64356](https://github.com/CleverRaven/Cataclysm-DDA/pull/64356))
 * [Xedra Evolved] Random fixes and stuff ([#64371](https://github.com/CleverRaven/Cataclysm-DDA/pull/64371))
 * Set OSX_MIN on CI to match release workflow ([#64364](https://github.com/CleverRaven/Cataclysm-DDA/pull/64364))
-* Fix Renfield abomination description ([#64352](https://github.com/CleverRaven/Cataclysm-DDA/pull/64352))
 * Make folding vehicles test less flaky ([#64374](https://github.com/CleverRaven/Cataclysm-DDA/pull/64374))
 * Refactor travel-related overmap keybinds code ([#64353](https://github.com/CleverRaven/Cataclysm-DDA/pull/64353))
-* Routine i18n updates on 18 March 2023 ([#64351](https://github.com/CleverRaven/Cataclysm-DDA/pull/64351))
