@@ -1,3 +1,4 @@
+* Fix crash with preventing death ([#64534](https://github.com/CleverRaven/Cataclysm-DDA/pull/64534))
 * Add self to comment-commands.yml ([#64554](https://github.com/CleverRaven/Cataclysm-DDA/pull/64554))
 * Make ASRG not give x1000 intended power ([#64544](https://github.com/CleverRaven/Cataclysm-DDA/pull/64544))
 
@@ -209,4 +210,3 @@
 * [Xedra Evolved] Random fixes and stuff ([#64371](https://github.com/CleverRaven/Cataclysm-DDA/pull/64371))
 * Set OSX_MIN on CI to match release workflow ([#64364](https://github.com/CleverRaven/Cataclysm-DDA/pull/64364))
 * Make folding vehicles test less flaky ([#64374](https://github.com/CleverRaven/Cataclysm-DDA/pull/64374))
-* Refactor travel-related overmap keybinds code ([#64353](https://github.com/CleverRaven/Cataclysm-DDA/pull/64353))

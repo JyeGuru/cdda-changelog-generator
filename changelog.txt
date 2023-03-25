@@ -1,3 +1,4 @@
+* Fix crash with preventing death (#64534)
 * Add self to comment-commands.yml (#64554)
 * Make ASRG not give x1000 intended power (#64544)
 
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2023-03-22-0621 (9d3d406)
 * [Xedra Evolved] Random fixes and stuff (#64371)
 * Set OSX_MIN on CI to match release workflow (#64364)
 * Make folding vehicles test less flaky (#64374)
-* Refactor travel-related overmap keybinds code (#64353)
