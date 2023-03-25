@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-25-1649 ([324f6d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1649))
+
+* Collect compilers makers and versions supported by this project in a tidy table. ([#64561](https://github.com/CleverRaven/Cataclysm-DDA/pull/64561))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-25-1310 ([6edce49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1310))
 
 * mercenary coat coverage fix ([#64535](https://github.com/CleverRaven/Cataclysm-DDA/pull/64535))
@@ -176,11 +182,6 @@
 * Set BACKTRACE in msvc CI builds for better stack traces. ([#64420](https://github.com/CleverRaven/Cataclysm-DDA/pull/64420))
 * Pass base github token to Changelog generator ([#64452](https://github.com/CleverRaven/Cataclysm-DDA/pull/64452))
 * Attempts to fix nether monster generation ([#64421](https://github.com/CleverRaven/Cataclysm-DDA/pull/64421))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-22-0041 ([d68b877](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-0041))
-
 * Obsolete valhalla cultists ([#64417](https://github.com/CleverRaven/Cataclysm-DDA/pull/64417))
 * Avoid divide by zero in vehicle::print_fuel_indicator ([#64409](https://github.com/CleverRaven/Cataclysm-DDA/pull/64409))
 * Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
@@ -208,5 +209,4 @@
 * Fix Renfield abomination description ([#64352](https://github.com/CleverRaven/Cataclysm-DDA/pull/64352))
 * Make folding vehicles test less flaky ([#64374](https://github.com/CleverRaven/Cataclysm-DDA/pull/64374))
 * Refactor travel-related overmap keybinds code ([#64353](https://github.com/CleverRaven/Cataclysm-DDA/pull/64353))
-* msvc-full-features vcpkg cache needs to be a strict superset of the release vcpkg ([#64349](https://github.com/CleverRaven/Cataclysm-DDA/pull/64349))
 * Routine i18n updates on 18 March 2023 ([#64351](https://github.com/CleverRaven/Cataclysm-DDA/pull/64351))
