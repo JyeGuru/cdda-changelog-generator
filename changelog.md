@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-25-0722 ([6601202](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0722))
+
 * Added other mead types to weak mixed alcohol ([#64500](https://github.com/CleverRaven/Cataclysm-DDA/pull/64500))
 
 ---
@@ -168,11 +173,6 @@
 * Avoid divide by zero in vehicle::print_fuel_indicator ([#64409](https://github.com/CleverRaven/Cataclysm-DDA/pull/64409))
 * Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
 * [Magiclysm] Make Crusader's Holy Shield actually work as a shield ([#64393](https://github.com/CleverRaven/Cataclysm-DDA/pull/64393))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-21-0556 ([127ec42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-21-0556))
-
 * Removed the small lens from smartphone deconstruction because ([#64429](https://github.com/CleverRaven/Cataclysm-DDA/pull/64429))
 * Migrate from cata::optional<T> to std::optional<T> ([#64333](https://github.com/CleverRaven/Cataclysm-DDA/pull/64333))
 * Pre-nerfed technician is in the No Hope mod ([#64410](https://github.com/CleverRaven/Cataclysm-DDA/pull/64410))
