@@ -1,3 +1,14 @@
+* Cut more 0.G obsoletions ([#64496](https://github.com/CleverRaven/Cataclysm-DDA/pull/64496))
+* Refactor and deduplicate UI input code ([#64463](https://github.com/CleverRaven/Cataclysm-DDA/pull/64463))
+* Remove default '}' keybind for accessing sidebar options, add a menu item to the main menu for this and remove the associated 'Hint' sidebar widget ([#64455](https://github.com/CleverRaven/Cataclysm-DDA/pull/64455))
+* No cutting up integrated armors ([#64449](https://github.com/CleverRaven/Cataclysm-DDA/pull/64449))
+* 64366 ([#64442](https://github.com/CleverRaven/Cataclysm-DDA/pull/64442))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-25-0112 ([67d9253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0112))
+
+* Remove cata::void_t; migrate to std::void_t ([#64431](https://github.com/CleverRaven/Cataclysm-DDA/pull/64431))
 
 ---
 
@@ -111,7 +122,6 @@
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
 * [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
 * Search using charged_quality (such as welding) ([#64322](https://github.com/CleverRaven/Cataclysm-DDA/pull/64322))
-* Add blood level widget for XE vampire characters ([#64319](https://github.com/CleverRaven/Cataclysm-DDA/pull/64319))
 
 ---
 
@@ -155,18 +165,12 @@
 #### Cataclysm-DDA experimental build 2023-03-20-2217 ([9d1bb28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-20-2217))
 
 * Pre-nerfed technician is in the No Hope mod ([#64410](https://github.com/CleverRaven/Cataclysm-DDA/pull/64410))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-20-2057 ([8f2af67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-20-2057))
-
 * set subtype of pencil_case_with_contents ([#64402](https://github.com/CleverRaven/Cataclysm-DDA/pull/64402))
 * Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
 * Prevent android small screen craft crash ([#64415](https://github.com/CleverRaven/Cataclysm-DDA/pull/64415))
 * Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
 * Menstrual products ([#64372](https://github.com/CleverRaven/Cataclysm-DDA/pull/64372))
 * [Backrooms] Add onura46 as a Backrooms maintainer ([#64394](https://github.com/CleverRaven/Cataclysm-DDA/pull/64394))
-* Remove unused colored stat display functions ([#64313](https://github.com/CleverRaven/Cataclysm-DDA/pull/64313))
 * Refactor misleading variable name `vehicle::is_floating` ([#64354](https://github.com/CleverRaven/Cataclysm-DDA/pull/64354))
 * Fix vehicle cheevos not handling reverse (negative) velocities correctly ([#64359](https://github.com/CleverRaven/Cataclysm-DDA/pull/64359))
 * Completes the parking garage ([#64363](https://github.com/CleverRaven/Cataclysm-DDA/pull/64363))
@@ -195,6 +199,3 @@
 * [Xedra Evolved] Estocs do not fit into scabbard ([#64337](https://github.com/CleverRaven/Cataclysm-DDA/pull/64337))
 * Cost parity for mod mutations ([#64332](https://github.com/CleverRaven/Cataclysm-DDA/pull/64332))
 * Remove unused variable ([#64326](https://github.com/CleverRaven/Cataclysm-DDA/pull/64326))
-* 'vehicle' class cleanup 2 ([#64316](https://github.com/CleverRaven/Cataclysm-DDA/pull/64316))
-* Switch a time type to fs:: ([#64314](https://github.com/CleverRaven/Cataclysm-DDA/pull/64314))
-* Bump Java to 11 in Android build environment ([#64318](https://github.com/CleverRaven/Cataclysm-DDA/pull/64318))
