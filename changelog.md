@@ -1,3 +1,5 @@
+* Soldier mantle fix ([#64547](https://github.com/CleverRaven/Cataclysm-DDA/pull/64547))
+* Gracefully handle errors in pull request test labeler ([#64558](https://github.com/CleverRaven/Cataclysm-DDA/pull/64558))
 
 ---
 
@@ -202,7 +204,6 @@
 * Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
 * Menstrual products ([#64372](https://github.com/CleverRaven/Cataclysm-DDA/pull/64372))
 * [Backrooms] Add onura46 as a Backrooms maintainer ([#64394](https://github.com/CleverRaven/Cataclysm-DDA/pull/64394))
-* Refactor misleading variable name `vehicle::is_floating` ([#64354](https://github.com/CleverRaven/Cataclysm-DDA/pull/64354))
 * Fix vehicle cheevos not handling reverse (negative) velocities correctly ([#64359](https://github.com/CleverRaven/Cataclysm-DDA/pull/64359))
 * Completes the parking garage ([#64363](https://github.com/CleverRaven/Cataclysm-DDA/pull/64363))
 * Add reminder of the license to PR template ([#64370](https://github.com/CleverRaven/Cataclysm-DDA/pull/64370))
@@ -211,7 +212,6 @@
 * Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
 * Use underlying type for vehicle_part::flags enum ([#64387](https://github.com/CleverRaven/Cataclysm-DDA/pull/64387))
 * Update NPCs.md to match #55320 ([#64379](https://github.com/CleverRaven/Cataclysm-DDA/pull/64379))
-* Expanded Digestive System cancels Meat Intolerance ([#64356](https://github.com/CleverRaven/Cataclysm-DDA/pull/64356))
 * [Xedra Evolved] Random fixes and stuff ([#64371](https://github.com/CleverRaven/Cataclysm-DDA/pull/64371))
 * Set OSX_MIN on CI to match release workflow ([#64364](https://github.com/CleverRaven/Cataclysm-DDA/pull/64364))
 * Make folding vehicles test less flaky ([#64374](https://github.com/CleverRaven/Cataclysm-DDA/pull/64374))
