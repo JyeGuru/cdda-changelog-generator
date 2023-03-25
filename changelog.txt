@@ -1,3 +1,4 @@
+* mercenary coat coverage fix (#64535)
 
 Cataclysm-DDA experimental build 2023-03-25-1120 (6a27fb0)
 * Fix print conversion error, fix more type warnings (#64536)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2023-03-21-2334 (66a4e1f)
 * Normalize the technician zombie (#64383)
 * Move necropolis to No Hope mod, remove from base game (#64396)
 * Use underlying type for vehicle_part::flags enum (#64387)
-* C4 teleports into pocket when activated outside the pocket #64308 (#64347)
 * Update NPCs.md to match #55320 (#64379)
 * Expanded Digestive System cancels Meat Intolerance (#64356)
 * [Xedra Evolved] Random fixes and stuff (#64371)

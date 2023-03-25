@@ -1,3 +1,4 @@
+* mercenary coat coverage fix ([#64535](https://github.com/CleverRaven/Cataclysm-DDA/pull/64535))
 
 ---
 
@@ -200,7 +201,6 @@
 * Normalize the technician zombie ([#64383](https://github.com/CleverRaven/Cataclysm-DDA/pull/64383))
 * Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
 * Use underlying type for vehicle_part::flags enum ([#64387](https://github.com/CleverRaven/Cataclysm-DDA/pull/64387))
-* C4 teleports into pocket when activated outside the pocket #64308 ([#64347](https://github.com/CleverRaven/Cataclysm-DDA/pull/64347))
 * Update NPCs.md to match #55320 ([#64379](https://github.com/CleverRaven/Cataclysm-DDA/pull/64379))
 * Expanded Digestive System cancels Meat Intolerance ([#64356](https://github.com/CleverRaven/Cataclysm-DDA/pull/64356))
 * [Xedra Evolved] Random fixes and stuff ([#64371](https://github.com/CleverRaven/Cataclysm-DDA/pull/64371))
