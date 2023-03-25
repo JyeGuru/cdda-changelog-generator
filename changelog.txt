@@ -1,3 +1,4 @@
+* Added other mead types to weak mixed alcohol (#64500)
 
 Cataclysm-DDA experimental build 2023-03-25-0547 (46caa38)
 * Routine i18n updates on 25 March 2023 (#64541)
@@ -135,4 +136,3 @@ Cataclysm-DDA experimental build 2023-03-21-0556 (127ec42)
 * Aftershock - Make atomic coffeepot great again! (#64345)
 * Correct n_gettext() name in documentation (#64343)
 * [Xedra Evolved] Estocs do not fit into scabbard (#64337)
-* Cost parity for mod mutations (#64332)

@@ -1,3 +1,4 @@
+* Added other mead types to weak mixed alcohol ([#64500](https://github.com/CleverRaven/Cataclysm-DDA/pull/64500))
 
 ---
 
@@ -204,4 +205,3 @@
 * Aftershock - Make atomic coffeepot great again! ([#64345](https://github.com/CleverRaven/Cataclysm-DDA/pull/64345))
 * Correct n_gettext() name in documentation ([#64343](https://github.com/CleverRaven/Cataclysm-DDA/pull/64343))
 * [Xedra Evolved] Estocs do not fit into scabbard ([#64337](https://github.com/CleverRaven/Cataclysm-DDA/pull/64337))
-* Cost parity for mod mutations ([#64332](https://github.com/CleverRaven/Cataclysm-DDA/pull/64332))
