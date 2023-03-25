@@ -1,3 +1,4 @@
+* Routine i18n updates on 25 March 2023 ([#64541](https://github.com/CleverRaven/Cataclysm-DDA/pull/64541))
 
 ---
 
@@ -197,6 +198,5 @@
 * Routine i18n updates on 18 March 2023 ([#64351](https://github.com/CleverRaven/Cataclysm-DDA/pull/64351))
 * Aftershock - Make atomic coffeepot great again! ([#64345](https://github.com/CleverRaven/Cataclysm-DDA/pull/64345))
 * Correct n_gettext() name in documentation ([#64343](https://github.com/CleverRaven/Cataclysm-DDA/pull/64343))
-* Convert anonymous vehicle_part enum to class enum ([#64331](https://github.com/CleverRaven/Cataclysm-DDA/pull/64331))
 * [Xedra Evolved] Estocs do not fit into scabbard ([#64337](https://github.com/CleverRaven/Cataclysm-DDA/pull/64337))
 * Cost parity for mod mutations ([#64332](https://github.com/CleverRaven/Cataclysm-DDA/pull/64332))
