@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-25-0403 ([9200431](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0403))
+
 * Add morale menu keybinding to the player info menu and remove the default config for the morale menu keybinding at the root level ([#64458](https://github.com/CleverRaven/Cataclysm-DDA/pull/64458))
 * Fix typo in terrain-windows.json ([#64519](https://github.com/CleverRaven/Cataclysm-DDA/pull/64519))
 * 🌰 Allow blanched/cooked/roasted acorns in soups and stews 🍲 ([#64513](https://github.com/CleverRaven/Cataclysm-DDA/pull/64513))
@@ -162,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2023-03-21-0556 ([127ec42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-21-0556))
 
 * Removed the small lens from smartphone deconstruction because ([#64429](https://github.com/CleverRaven/Cataclysm-DDA/pull/64429))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-21-0311 ([32774b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-21-0311))
-
 * Migrate from cata::optional<T> to std::optional<T> ([#64333](https://github.com/CleverRaven/Cataclysm-DDA/pull/64333))
 * Pre-nerfed technician is in the No Hope mod ([#64410](https://github.com/CleverRaven/Cataclysm-DDA/pull/64410))
 * set subtype of pencil_case_with_contents ([#64402](https://github.com/CleverRaven/Cataclysm-DDA/pull/64402))
