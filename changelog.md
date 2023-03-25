@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-25-1310 ([6edce49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1310))
+
 * mercenary coat coverage fix ([#64535](https://github.com/CleverRaven/Cataclysm-DDA/pull/64535))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2023-03-22-0041 ([d68b877](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-0041))
 
 * Obsolete valhalla cultists ([#64417](https://github.com/CleverRaven/Cataclysm-DDA/pull/64417))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-21-2334 ([66a4e1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-21-2334))
-
 * Avoid divide by zero in vehicle::print_fuel_indicator ([#64409](https://github.com/CleverRaven/Cataclysm-DDA/pull/64409))
 * Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
 * [Magiclysm] Make Crusader's Holy Shield actually work as a shield ([#64393](https://github.com/CleverRaven/Cataclysm-DDA/pull/64393))
