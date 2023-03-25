@@ -1,3 +1,4 @@
+* Allow custom message from roll_remainder ([#64524](https://github.com/CleverRaven/Cataclysm-DDA/pull/64524))
 * Fix clang-tidy failures related to xargs ([#64563](https://github.com/CleverRaven/Cataclysm-DDA/pull/64563))
 
 ---
