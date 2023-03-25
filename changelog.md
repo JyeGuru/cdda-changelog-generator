@@ -1,3 +1,5 @@
+* Static declarations in headers ([#64430](https://github.com/CleverRaven/Cataclysm-DDA/pull/64430))
+* inv_ui: update selection col on increase/decrease ([#64527](https://github.com/CleverRaven/Cataclysm-DDA/pull/64527))
 
 ---
 
@@ -174,7 +176,6 @@
 * Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
 * [Magiclysm] Make Crusader's Holy Shield actually work as a shield ([#64393](https://github.com/CleverRaven/Cataclysm-DDA/pull/64393))
 * Removed the small lens from smartphone deconstruction because ([#64429](https://github.com/CleverRaven/Cataclysm-DDA/pull/64429))
-* Migrate from cata::optional<T> to std::optional<T> ([#64333](https://github.com/CleverRaven/Cataclysm-DDA/pull/64333))
 * Pre-nerfed technician is in the No Hope mod ([#64410](https://github.com/CleverRaven/Cataclysm-DDA/pull/64410))
 * set subtype of pencil_case_with_contents ([#64402](https://github.com/CleverRaven/Cataclysm-DDA/pull/64402))
 * Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
@@ -199,7 +200,6 @@
 * Fix Renfield abomination description ([#64352](https://github.com/CleverRaven/Cataclysm-DDA/pull/64352))
 * Make folding vehicles test less flaky ([#64374](https://github.com/CleverRaven/Cataclysm-DDA/pull/64374))
 * Refactor travel-related overmap keybinds code ([#64353](https://github.com/CleverRaven/Cataclysm-DDA/pull/64353))
-* ☕☢️ Fix atomic coffeepot being unable to use batteries ☢️☕ ([#64336](https://github.com/CleverRaven/Cataclysm-DDA/pull/64336))
 * msvc-full-features vcpkg cache needs to be a strict superset of the release vcpkg ([#64349](https://github.com/CleverRaven/Cataclysm-DDA/pull/64349))
 * Routine i18n updates on 18 March 2023 ([#64351](https://github.com/CleverRaven/Cataclysm-DDA/pull/64351))
 * Aftershock - Make atomic coffeepot great again! ([#64345](https://github.com/CleverRaven/Cataclysm-DDA/pull/64345))
