@@ -1,4 +1,6 @@
 * Fix clang-tidy failures related to xargs (#64563)
+
+Cataclysm-DDA experimental build 2023-03-25-2008 (71c3b18)
 * Fix character received items' charges error (#64488)
 * Soldier mantle fix (#64547)
 * Gracefully handle errors in pull request test labeler (#64558)
