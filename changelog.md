@@ -1,3 +1,8 @@
+* Add morale menu keybinding to the player info menu and remove the default config for the morale menu keybinding at the root level ([#64458](https://github.com/CleverRaven/Cataclysm-DDA/pull/64458))
+* Fix typo in terrain-windows.json ([#64519](https://github.com/CleverRaven/Cataclysm-DDA/pull/64519))
+* 🌰 Allow blanched/cooked/roasted acorns in soups and stews 🍲 ([#64513](https://github.com/CleverRaven/Cataclysm-DDA/pull/64513))
+* Fix innawood canning recipes ([#64509](https://github.com/CleverRaven/Cataclysm-DDA/pull/64509))
+* Adds ladders, stairs, solar units to roof palette & roof palettizing ([#64502](https://github.com/CleverRaven/Cataclysm-DDA/pull/64502))
 
 ---
 
@@ -126,7 +131,6 @@
 
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
 * [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
-* Search using charged_quality (such as welding) ([#64322](https://github.com/CleverRaven/Cataclysm-DDA/pull/64322))
 
 ---
 
@@ -180,7 +184,6 @@
 * Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
 * Use underlying type for vehicle_part::flags enum ([#64387](https://github.com/CleverRaven/Cataclysm-DDA/pull/64387))
 * C4 teleports into pocket when activated outside the pocket #64308 ([#64347](https://github.com/CleverRaven/Cataclysm-DDA/pull/64347))
-* Make skill help spell learn time instead of hurt ([#64323](https://github.com/CleverRaven/Cataclysm-DDA/pull/64323))
 * Update NPCs.md to match #55320 ([#64379](https://github.com/CleverRaven/Cataclysm-DDA/pull/64379))
 * boiled makeshift bandage cost ([#64341](https://github.com/CleverRaven/Cataclysm-DDA/pull/64341))
 * Expanded Digestive System cancels Meat Intolerance ([#64356](https://github.com/CleverRaven/Cataclysm-DDA/pull/64356))
@@ -194,8 +197,6 @@
 * Routine i18n updates on 18 March 2023 ([#64351](https://github.com/CleverRaven/Cataclysm-DDA/pull/64351))
 * Aftershock - Make atomic coffeepot great again! ([#64345](https://github.com/CleverRaven/Cataclysm-DDA/pull/64345))
 * Correct n_gettext() name in documentation ([#64343](https://github.com/CleverRaven/Cataclysm-DDA/pull/64343))
-* Deduplicate code in Character::*_weakpoint_skill ([#64321](https://github.com/CleverRaven/Cataclysm-DDA/pull/64321))
 * Convert anonymous vehicle_part enum to class enum ([#64331](https://github.com/CleverRaven/Cataclysm-DDA/pull/64331))
 * [Xedra Evolved] Estocs do not fit into scabbard ([#64337](https://github.com/CleverRaven/Cataclysm-DDA/pull/64337))
 * Cost parity for mod mutations ([#64332](https://github.com/CleverRaven/Cataclysm-DDA/pull/64332))
-* Remove unused variable ([#64326](https://github.com/CleverRaven/Cataclysm-DDA/pull/64326))
