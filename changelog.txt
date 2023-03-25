@@ -39,6 +39,8 @@ Cataclysm-DDA experimental build 2023-03-24-1252 (199ac9b)
 
 Cataclysm-DDA experimental build 2023-03-24-1105 (206b28e)
 * Fix underground emitter drain (#64506)
+
+Cataclysm-DDA experimental build 2023-03-24-0755 (37d6251)
 * Type fixes for MSVC, use steady_clock for intervals (#64477)
 * Remove UNCRAFT_LIQUIDS_CONTAINED flag (#64489)
 * Make 'afs_atomic_smartphone' disassembly not produce any 'lens_small' components and update meteorologist quest dialog (#64481)
@@ -84,6 +86,8 @@ Cataclysm-DDA experimental build 2023-03-23-0225 (71d3982)
 
 Cataclysm-DDA experimental build 2023-03-22-2144 (d2ccb85)
 * Revert "Revive part 2 of the netherium monster corpse project" (#64472)
+
+Cataclysm-DDA experimental build 2023-03-22-1820 (bfffbf2)
 * MozzarellaCheese (#64418)
 
 Cataclysm-DDA experimental build 2023-03-22-1615 (6c5f917)
@@ -91,6 +95,8 @@ Cataclysm-DDA experimental build 2023-03-22-1615 (6c5f917)
 
 Cataclysm-DDA experimental build 2023-03-22-1401 (d489bbc)
 * Update bionics.json (#64460)
+
+Cataclysm-DDA experimental build 2023-03-22-1225 (bd97ea5)
 * Erase all before placing Exodii crash buildings (#64450)
 * [Magiclysm] Small fix (#64405)
 
@@ -104,13 +110,9 @@ Cataclysm-DDA experimental build 2023-03-22-0621 (9d3d406)
 
 Cataclysm-DDA experimental build 2023-03-22-0041 (d68b877)
 * Obsolete valhalla cultists (#64417)
-
-Cataclysm-DDA experimental build 2023-03-21-2334 (66a4e1f)
 * Avoid divide by zero in vehicle::print_fuel_indicator (#64409)
 * Create steam_faq.md (#64439)
 * [Magiclysm] Make Crusader's Holy Shield actually work as a shield (#64393)
-
-Cataclysm-DDA experimental build 2023-03-21-0556 (127ec42)
 * Removed the small lens from smartphone deconstruction because (#64429)
 * Pre-nerfed technician is in the No Hope mod (#64410)
 * set subtype of pencil_case_with_contents (#64402)

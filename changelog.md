@@ -66,6 +66,11 @@
 #### Cataclysm-DDA experimental build 2023-03-24-1105 ([206b28e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-24-1105))
 
 * Fix underground emitter drain ([#64506](https://github.com/CleverRaven/Cataclysm-DDA/pull/64506))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-24-0755 ([37d6251](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-24-0755))
+
 * Type fixes for MSVC, use steady_clock for intervals ([#64477](https://github.com/CleverRaven/Cataclysm-DDA/pull/64477))
 * Remove UNCRAFT_LIQUIDS_CONTAINED flag ([#64489](https://github.com/CleverRaven/Cataclysm-DDA/pull/64489))
 * Make 'afs_atomic_smartphone' disassembly not produce any 'lens_small' components and update meteorologist quest dialog ([#64481](https://github.com/CleverRaven/Cataclysm-DDA/pull/64481))
@@ -135,6 +140,11 @@
 #### Cataclysm-DDA experimental build 2023-03-22-2144 ([d2ccb85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-2144))
 
 * Revert "Revive part 2 of the netherium monster corpse project" ([#64472](https://github.com/CleverRaven/Cataclysm-DDA/pull/64472))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-22-1820 ([bfffbf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1820))
+
 * MozzarellaCheese ([#64418](https://github.com/CleverRaven/Cataclysm-DDA/pull/64418))
 
 ---
@@ -148,6 +158,11 @@
 #### Cataclysm-DDA experimental build 2023-03-22-1401 ([d489bbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1401))
 
 * Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-22-1225 ([bd97ea5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1225))
+
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
 * [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
 
@@ -167,19 +182,9 @@
 #### Cataclysm-DDA experimental build 2023-03-22-0041 ([d68b877](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-0041))
 
 * Obsolete valhalla cultists ([#64417](https://github.com/CleverRaven/Cataclysm-DDA/pull/64417))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-21-2334 ([66a4e1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-21-2334))
-
 * Avoid divide by zero in vehicle::print_fuel_indicator ([#64409](https://github.com/CleverRaven/Cataclysm-DDA/pull/64409))
 * Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
 * [Magiclysm] Make Crusader's Holy Shield actually work as a shield ([#64393](https://github.com/CleverRaven/Cataclysm-DDA/pull/64393))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-21-0556 ([127ec42](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-21-0556))
-
 * Removed the small lens from smartphone deconstruction because ([#64429](https://github.com/CleverRaven/Cataclysm-DDA/pull/64429))
 * Pre-nerfed technician is in the No Hope mod ([#64410](https://github.com/CleverRaven/Cataclysm-DDA/pull/64410))
 * set subtype of pencil_case_with_contents ([#64402](https://github.com/CleverRaven/Cataclysm-DDA/pull/64402))
