@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-25-1120 ([6a27fb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1120))
+
 * Fix print conversion error, fix more type warnings ([#64536](https://github.com/CleverRaven/Cataclysm-DDA/pull/64536))
 * Rebalance Bordered scenario ([#64531](https://github.com/CleverRaven/Cataclysm-DDA/pull/64531))
 * Make ccache functioning again on GitHub Actions ([#64553](https://github.com/CleverRaven/Cataclysm-DDA/pull/64553))
