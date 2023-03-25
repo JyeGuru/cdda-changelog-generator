@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-25-0249 ([f9dd628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0249))
+
 * Cut more 0.G obsoletions ([#64496](https://github.com/CleverRaven/Cataclysm-DDA/pull/64496))
 * Refactor and deduplicate UI input code ([#64463](https://github.com/CleverRaven/Cataclysm-DDA/pull/64463))
 * Remove default '}' keybind for accessing sidebar options, add a menu item to the main menu for this and remove the associated 'Hint' sidebar widget ([#64455](https://github.com/CleverRaven/Cataclysm-DDA/pull/64455))
@@ -159,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2023-03-21-0311 ([32774b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-21-0311))
 
 * Migrate from cata::optional<T> to std::optional<T> ([#64333](https://github.com/CleverRaven/Cataclysm-DDA/pull/64333))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-20-2217 ([9d1bb28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-20-2217))
-
 * Pre-nerfed technician is in the No Hope mod ([#64410](https://github.com/CleverRaven/Cataclysm-DDA/pull/64410))
 * set subtype of pencil_case_with_contents ([#64402](https://github.com/CleverRaven/Cataclysm-DDA/pull/64402))
 * Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
