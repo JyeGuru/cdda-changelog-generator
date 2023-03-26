@@ -214,5 +214,4 @@
 * Use underlying type for vehicle_part::flags enum ([#64387](https://github.com/CleverRaven/Cataclysm-DDA/pull/64387))
 * Update NPCs.md to match #55320 ([#64379](https://github.com/CleverRaven/Cataclysm-DDA/pull/64379))
 * [Xedra Evolved] Random fixes and stuff ([#64371](https://github.com/CleverRaven/Cataclysm-DDA/pull/64371))
-* Set OSX_MIN on CI to match release workflow ([#64364](https://github.com/CleverRaven/Cataclysm-DDA/pull/64364))
 * Make folding vehicles test less flaky ([#64374](https://github.com/CleverRaven/Cataclysm-DDA/pull/64374))
