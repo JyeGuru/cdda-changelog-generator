@@ -152,12 +152,6 @@
 * Allow spells to use dialog variables. ([#64416](https://github.com/CleverRaven/Cataclysm-DDA/pull/64416))
 * active_items: mark death drops as active items ([#64411](https://github.com/CleverRaven/Cataclysm-DDA/pull/64411))
 * Campground cleanup ([#64395](https://github.com/CleverRaven/Cataclysm-DDA/pull/64395))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-24-0154 ([66a079d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-24-0154))
-
-* Refactor and document vehicle::[avail_]part_with_feature overloads ([#64392](https://github.com/CleverRaven/Cataclysm-DDA/pull/64392))
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
 
