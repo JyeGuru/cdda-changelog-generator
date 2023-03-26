@@ -1,3 +1,7 @@
+* Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))
+* Fix crash on portal storm ([#64573](https://github.com/CleverRaven/Cataclysm-DDA/pull/64573))
+* bomb teleport wtf ([#64520](https://github.com/CleverRaven/Cataclysm-DDA/pull/64520))
+* Fixes stair auto-roof ([#64569](https://github.com/CleverRaven/Cataclysm-DDA/pull/64569))
 * Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))
 
 ---
@@ -206,12 +210,9 @@
 * Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
 * Prevent android small screen craft crash ([#64415](https://github.com/CleverRaven/Cataclysm-DDA/pull/64415))
 * Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
-* Menstrual products ([#64372](https://github.com/CleverRaven/Cataclysm-DDA/pull/64372))
 * [Backrooms] Add onura46 as a Backrooms maintainer ([#64394](https://github.com/CleverRaven/Cataclysm-DDA/pull/64394))
 * Add Makefile option to compile in order of header popularity ([#64378](https://github.com/CleverRaven/Cataclysm-DDA/pull/64378))
 * Normalize the technician zombie ([#64383](https://github.com/CleverRaven/Cataclysm-DDA/pull/64383))
 * Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
 * Use underlying type for vehicle_part::flags enum ([#64387](https://github.com/CleverRaven/Cataclysm-DDA/pull/64387))
 * Update NPCs.md to match #55320 ([#64379](https://github.com/CleverRaven/Cataclysm-DDA/pull/64379))
-* [Xedra Evolved] Random fixes and stuff ([#64371](https://github.com/CleverRaven/Cataclysm-DDA/pull/64371))
-* Make folding vehicles test less flaky ([#64374](https://github.com/CleverRaven/Cataclysm-DDA/pull/64374))
