@@ -1,3 +1,4 @@
+* Re-adds warehouse roof ([#64576](https://github.com/CleverRaven/Cataclysm-DDA/pull/64576))
 * Less dogs in house_dogs ([#64571](https://github.com/CleverRaven/Cataclysm-DDA/pull/64571))
 * Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))
 * Fix crash on portal storm ([#64573](https://github.com/CleverRaven/Cataclysm-DDA/pull/64573))
@@ -215,4 +216,3 @@
 * Normalize the technician zombie ([#64383](https://github.com/CleverRaven/Cataclysm-DDA/pull/64383))
 * Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
 * Use underlying type for vehicle_part::flags enum ([#64387](https://github.com/CleverRaven/Cataclysm-DDA/pull/64387))
-* Update NPCs.md to match #55320 ([#64379](https://github.com/CleverRaven/Cataclysm-DDA/pull/64379))
