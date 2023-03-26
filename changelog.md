@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-26-1624 ([0bba914](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-26-1624))
+
 * Improve dish: succotash and add a deluxe version ([#64539](https://github.com/CleverRaven/Cataclysm-DDA/pull/64539))
 * Make android build working again ([#64585](https://github.com/CleverRaven/Cataclysm-DDA/pull/64585))
 * Allow displaying unavailable dialogue options ([#64584](https://github.com/CleverRaven/Cataclysm-DDA/pull/64584))
@@ -176,11 +181,6 @@
 
 * inv_ui: move cell cache to entry and delete redundant calls ([#64425](https://github.com/CleverRaven/Cataclysm-DDA/pull/64425))
 * Fix changelog script not preserving leading spaces ([#64459](https://github.com/CleverRaven/Cataclysm-DDA/pull/64459))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-22-2144 ([d2ccb85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-2144))
-
 * Revert "Revive part 2 of the netherium monster corpse project" ([#64472](https://github.com/CleverRaven/Cataclysm-DDA/pull/64472))
 * MozzarellaCheese ([#64418](https://github.com/CleverRaven/Cataclysm-DDA/pull/64418))
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
