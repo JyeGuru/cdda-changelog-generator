@@ -1,4 +1,9 @@
 * Re-adds warehouse roof ([#64576](https://github.com/CleverRaven/Cataclysm-DDA/pull/64576))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-26-0619 ([d6d06eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-26-0619))
+
 * Less dogs in house_dogs ([#64571](https://github.com/CleverRaven/Cataclysm-DDA/pull/64571))
 * Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))
 * Fix crash on portal storm ([#64573](https://github.com/CleverRaven/Cataclysm-DDA/pull/64573))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2023-03-22-1615 ([6c5f917](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1615))
 
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-22-1401 ([d489bbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1401))
-
 * Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
 * [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
