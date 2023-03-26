@@ -1,3 +1,4 @@
+* Less dogs in house_dogs ([#64571](https://github.com/CleverRaven/Cataclysm-DDA/pull/64571))
 * Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))
 * Fix crash on portal storm ([#64573](https://github.com/CleverRaven/Cataclysm-DDA/pull/64573))
 * bomb teleport wtf ([#64520](https://github.com/CleverRaven/Cataclysm-DDA/pull/64520))
@@ -211,7 +212,6 @@
 * Prevent android small screen craft crash ([#64415](https://github.com/CleverRaven/Cataclysm-DDA/pull/64415))
 * Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
 * [Backrooms] Add onura46 as a Backrooms maintainer ([#64394](https://github.com/CleverRaven/Cataclysm-DDA/pull/64394))
-* Add Makefile option to compile in order of header popularity ([#64378](https://github.com/CleverRaven/Cataclysm-DDA/pull/64378))
 * Normalize the technician zombie ([#64383](https://github.com/CleverRaven/Cataclysm-DDA/pull/64383))
 * Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
 * Use underlying type for vehicle_part::flags enum ([#64387](https://github.com/CleverRaven/Cataclysm-DDA/pull/64387))
