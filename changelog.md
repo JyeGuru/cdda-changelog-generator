@@ -1,3 +1,12 @@
+* Improve dish: succotash and add a deluxe version ([#64539](https://github.com/CleverRaven/Cataclysm-DDA/pull/64539))
+* Make android build working again ([#64585](https://github.com/CleverRaven/Cataclysm-DDA/pull/64585))
+* Allow displaying unavailable dialogue options ([#64584](https://github.com/CleverRaven/Cataclysm-DDA/pull/64584))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-26-1407 ([578fd91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-26-1407))
+
+* Correctly silence clang-tidy ([#64579](https://github.com/CleverRaven/Cataclysm-DDA/pull/64579))
 
 ---
 
@@ -149,12 +158,6 @@
 #### Cataclysm-DDA experimental build 2023-03-24-0154 ([66a079d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-24-0154))
 
 * Refactor and document vehicle::[avail_]part_with_feature overloads ([#64392](https://github.com/CleverRaven/Cataclysm-DDA/pull/64392))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-23-2229 ([1efa02f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-23-2229))
-
-* Add a high contrast color theme ([#64385](https://github.com/CleverRaven/Cataclysm-DDA/pull/64385))
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
 
@@ -186,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2023-03-22-2144 ([d2ccb85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-2144))
 
 * Revert "Revive part 2 of the netherium monster corpse project" ([#64472](https://github.com/CleverRaven/Cataclysm-DDA/pull/64472))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-22-1820 ([bfffbf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1820))
-
 * MozzarellaCheese ([#64418](https://github.com/CleverRaven/Cataclysm-DDA/pull/64418))
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
 * Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
@@ -213,6 +211,4 @@
 * Prevent android small screen craft crash ([#64415](https://github.com/CleverRaven/Cataclysm-DDA/pull/64415))
 * Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
 * [Backrooms] Add onura46 as a Backrooms maintainer ([#64394](https://github.com/CleverRaven/Cataclysm-DDA/pull/64394))
-* Normalize the technician zombie ([#64383](https://github.com/CleverRaven/Cataclysm-DDA/pull/64383))
 * Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
-* Use underlying type for vehicle_part::flags enum ([#64387](https://github.com/CleverRaven/Cataclysm-DDA/pull/64387))
