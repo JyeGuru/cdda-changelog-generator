@@ -1,4 +1,9 @@
 * Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-26-0317 ([3c6d791](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-26-0317))
+
 * More variants for multi-unit housing ([#64538](https://github.com/CleverRaven/Cataclysm-DDA/pull/64538))
 * Allow custom message from roll_remainder ([#64524](https://github.com/CleverRaven/Cataclysm-DDA/pull/64524))
 * Fix clang-tidy failures related to xargs ([#64563](https://github.com/CleverRaven/Cataclysm-DDA/pull/64563))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2023-03-22-1401 ([d489bbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1401))
 
 * Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-22-1225 ([bd97ea5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-22-1225))
-
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
 * [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
 * Update the table of contents in doc/JSON_INFO.md ([#64456](https://github.com/CleverRaven/Cataclysm-DDA/pull/64456))
