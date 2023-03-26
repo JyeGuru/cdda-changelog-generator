@@ -1,3 +1,4 @@
+* Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))
 * More variants for multi-unit housing ([#64538](https://github.com/CleverRaven/Cataclysm-DDA/pull/64538))
 * Allow custom message from roll_remainder ([#64524](https://github.com/CleverRaven/Cataclysm-DDA/pull/64524))
 * Fix clang-tidy failures related to xargs ([#64563](https://github.com/CleverRaven/Cataclysm-DDA/pull/64563))
@@ -207,7 +208,6 @@
 * Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
 * Menstrual products ([#64372](https://github.com/CleverRaven/Cataclysm-DDA/pull/64372))
 * [Backrooms] Add onura46 as a Backrooms maintainer ([#64394](https://github.com/CleverRaven/Cataclysm-DDA/pull/64394))
-* Add reminder of the license to PR template ([#64370](https://github.com/CleverRaven/Cataclysm-DDA/pull/64370))
 * Add Makefile option to compile in order of header popularity ([#64378](https://github.com/CleverRaven/Cataclysm-DDA/pull/64378))
 * Normalize the technician zombie ([#64383](https://github.com/CleverRaven/Cataclysm-DDA/pull/64383))
 * Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
