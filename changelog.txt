@@ -8,6 +8,8 @@ Cataclysm-DDA experimental build 2023-03-27-0448 (909fb81)
 * Update Tamable_Wildlife Birds (#64602)
 * Change toad_in_hole recipe to use toast (#64580)
 * Add false eoc to Vampvirus checks in Xedra Evolved (#64562)
+
+Cataclysm-DDA experimental build 2023-03-27-0330 (2f1640d)
 * Use SDL2 frameworks to build CDDA on macOS (#64542)
 
 Cataclysm-DDA experimental build 2023-03-26-1624 (0bba914)
@@ -108,13 +110,9 @@ Cataclysm-DDA experimental build 2023-03-24-0348 (5b8087d)
 * active_items: mark death drops as active items (#64411)
 * Fix motorcycle ramming into enemies and failing tests (#64483)
 * inv_ui: fix width of merged map column (#64491)
-
-Cataclysm-DDA experimental build 2023-03-23-0839 (4ad1388)
 * Throwable fire extinguishers can now be placed in grenade-only pockets (#64465)
 * Turn person's ability to open doors back (#64464)
 * Misc fixes (#64453)
-
-Cataclysm-DDA experimental build 2023-03-23-0514 (dc9b494)
 * Attach battery toolmod instead of duplicating item definitions (#64441)
 * EOC on event (#64426)
 * inv_ui: move cell cache to entry and delete redundant calls (#64425)
