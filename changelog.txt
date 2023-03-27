@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-03-27-0330 (2f1640d)
+* Use SDL2 frameworks to build CDDA on macOS (#64542)
+
 Cataclysm-DDA experimental build 2023-03-26-1624 (0bba914)
 * Improve dish: succotash and add a deluxe version (#64539)
 * Make android build working again (#64585)
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2023-03-23-0839 (4ad1388)
 Cataclysm-DDA experimental build 2023-03-23-0514 (dc9b494)
 * Attach battery toolmod instead of duplicating item definitions (#64441)
 * EOC on event (#64426)
-
-Cataclysm-DDA experimental build 2023-03-23-0225 (71d3982)
 * inv_ui: move cell cache to entry and delete redundant calls (#64425)
 * Fix changelog script not preserving leading spaces (#64459)
 * Revert "Revive part 2 of the netherium monster corpse project" (#64472)
@@ -133,5 +134,4 @@ Cataclysm-DDA experimental build 2023-03-23-0225 (71d3982)
 * Make generic guns validator output sane error on bad json (#64412)
 * Prevent android small screen craft crash (#64415)
 * Routine tileset updates on 19 March 2023 (#64400)
-* [Backrooms] Add onura46 as a Backrooms maintainer (#64394)
 * Move necropolis to No Hope mod, remove from base game (#64396)
