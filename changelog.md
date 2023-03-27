@@ -1,3 +1,7 @@
+* [Xedra Evolved] Summon Light now cost 600 mana, not 6 ([#64596](https://github.com/CleverRaven/Cataclysm-DDA/pull/64596))
+* Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
+* Change toad_in_hole recipe to use toast ([#64580](https://github.com/CleverRaven/Cataclysm-DDA/pull/64580))
+* Add false eoc to Vampvirus checks in Xedra Evolved ([#64562](https://github.com/CleverRaven/Cataclysm-DDA/pull/64562))
 
 ---
 
@@ -162,7 +166,6 @@
 * Tidy item examine display ([#64419](https://github.com/CleverRaven/Cataclysm-DDA/pull/64419))
 * Allow spells to use dialog variables. ([#64416](https://github.com/CleverRaven/Cataclysm-DDA/pull/64416))
 * active_items: mark death drops as active items ([#64411](https://github.com/CleverRaven/Cataclysm-DDA/pull/64411))
-* Campground cleanup ([#64395](https://github.com/CleverRaven/Cataclysm-DDA/pull/64395))
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
 
@@ -189,7 +192,6 @@
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
 * [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
 * Update the table of contents in doc/JSON_INFO.md ([#64456](https://github.com/CleverRaven/Cataclysm-DDA/pull/64456))
-* Remove more 0.G migrations ([#64399](https://github.com/CleverRaven/Cataclysm-DDA/pull/64399))
 * Raise minimum supported macOS version to 10.13 ([#64434](https://github.com/CleverRaven/Cataclysm-DDA/pull/64434))
 * Set BACKTRACE in msvc CI builds for better stack traces. ([#64420](https://github.com/CleverRaven/Cataclysm-DDA/pull/64420))
 * Pass base github token to Changelog generator ([#64452](https://github.com/CleverRaven/Cataclysm-DDA/pull/64452))
@@ -202,5 +204,3 @@
 * set subtype of pencil_case_with_contents ([#64402](https://github.com/CleverRaven/Cataclysm-DDA/pull/64402))
 * Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
 * Prevent android small screen craft crash ([#64415](https://github.com/CleverRaven/Cataclysm-DDA/pull/64415))
-* Routine tileset updates on 19 March 2023 ([#64400](https://github.com/CleverRaven/Cataclysm-DDA/pull/64400))
-* Move necropolis to No Hope mod, remove from base game ([#64396](https://github.com/CleverRaven/Cataclysm-DDA/pull/64396))
