@@ -1,3 +1,4 @@
+* Routine tileset updates on 26 March 2023 (#64608)
 
 Cataclysm-DDA experimental build 2023-03-27-0448 (909fb81)
 * Fix diary text navigation wrapping (#64560)
@@ -132,6 +133,5 @@ Cataclysm-DDA experimental build 2023-03-23-0839 (4ad1388)
 * Create steam_faq.md (#64439)
 * Removed the small lens from smartphone deconstruction because (#64429)
 * Pre-nerfed technician is in the No Hope mod (#64410)
-* set subtype of pencil_case_with_contents (#64402)
 * Make generic guns validator output sane error on bad json (#64412)
 * Prevent android small screen craft crash (#64415)

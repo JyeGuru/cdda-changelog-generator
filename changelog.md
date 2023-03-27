@@ -1,3 +1,4 @@
+* Routine tileset updates on 26 March 2023 ([#64608](https://github.com/CleverRaven/Cataclysm-DDA/pull/64608))
 
 ---
 
@@ -201,6 +202,5 @@
 * Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
 * Removed the small lens from smartphone deconstruction because ([#64429](https://github.com/CleverRaven/Cataclysm-DDA/pull/64429))
 * Pre-nerfed technician is in the No Hope mod ([#64410](https://github.com/CleverRaven/Cataclysm-DDA/pull/64410))
-* set subtype of pencil_case_with_contents ([#64402](https://github.com/CleverRaven/Cataclysm-DDA/pull/64402))
 * Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
 * Prevent android small screen craft crash ([#64415](https://github.com/CleverRaven/Cataclysm-DDA/pull/64415))
