@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-27-2002 ([63ae979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-2002))
+
 * [Xedra Evolved] fix dreamsmith inability to obtain a plates recipes ([#64616](https://github.com/CleverRaven/Cataclysm-DDA/pull/64616))
 * Build Universal Binary on macOS ([#64614](https://github.com/CleverRaven/Cataclysm-DDA/pull/64614))
 * Avoid spilling items into the original item. ([#64615](https://github.com/CleverRaven/Cataclysm-DDA/pull/64615))
