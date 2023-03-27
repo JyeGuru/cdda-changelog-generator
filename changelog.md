@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-27-0448 ([909fb81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-0448))
+
 * Fix diary text navigation wrapping ([#64560](https://github.com/CleverRaven/Cataclysm-DDA/pull/64560))
 * [Xedra Evolved] Summon Light now cost 600 mana, not 6 ([#64596](https://github.com/CleverRaven/Cataclysm-DDA/pull/64596))
 * Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
@@ -176,11 +181,6 @@
 * Throwable fire extinguishers can now be placed in grenade-only pockets ([#64465](https://github.com/CleverRaven/Cataclysm-DDA/pull/64465))
 * Turn person's ability to open doors back ([#64464](https://github.com/CleverRaven/Cataclysm-DDA/pull/64464))
 * Misc fixes ([#64453](https://github.com/CleverRaven/Cataclysm-DDA/pull/64453))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-23-0514 ([dc9b494](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-23-0514))
-
 * Attach battery toolmod instead of duplicating item definitions ([#64441](https://github.com/CleverRaven/Cataclysm-DDA/pull/64441))
 * EOC on event ([#64426](https://github.com/CleverRaven/Cataclysm-DDA/pull/64426))
 * inv_ui: move cell cache to entry and delete redundant calls ([#64425](https://github.com/CleverRaven/Cataclysm-DDA/pull/64425))
