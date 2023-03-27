@@ -14,11 +14,6 @@
 * Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
 * Change toad_in_hole recipe to use toast ([#64580](https://github.com/CleverRaven/Cataclysm-DDA/pull/64580))
 * Add false eoc to Vampvirus checks in Xedra Evolved ([#64562](https://github.com/CleverRaven/Cataclysm-DDA/pull/64562))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-27-0330 ([2f1640d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-0330))
-
 * Use SDL2 frameworks to build CDDA on macOS ([#64542](https://github.com/CleverRaven/Cataclysm-DDA/pull/64542))
 
 ---
@@ -179,9 +174,19 @@
 * active_items: mark death drops as active items ([#64411](https://github.com/CleverRaven/Cataclysm-DDA/pull/64411))
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-23-0839 ([4ad1388](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-23-0839))
+
 * Throwable fire extinguishers can now be placed in grenade-only pockets ([#64465](https://github.com/CleverRaven/Cataclysm-DDA/pull/64465))
 * Turn person's ability to open doors back ([#64464](https://github.com/CleverRaven/Cataclysm-DDA/pull/64464))
 * Misc fixes ([#64453](https://github.com/CleverRaven/Cataclysm-DDA/pull/64453))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-23-0514 ([dc9b494](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-23-0514))
+
 * Attach battery toolmod instead of duplicating item definitions ([#64441](https://github.com/CleverRaven/Cataclysm-DDA/pull/64441))
 * EOC on event ([#64426](https://github.com/CleverRaven/Cataclysm-DDA/pull/64426))
 * inv_ui: move cell cache to entry and delete redundant calls ([#64425](https://github.com/CleverRaven/Cataclysm-DDA/pull/64425))
