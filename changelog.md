@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-27-1830 ([fc84a0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-1830))
+
+* Unhardcode oter_id migrations ([#64564](https://github.com/CleverRaven/Cataclysm-DDA/pull/64564))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-27-0543 ([78fd8cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-0543))
 
 * Routine tileset updates on 26 March 2023 ([#64608](https://github.com/CleverRaven/Cataclysm-DDA/pull/64608))
@@ -191,7 +197,6 @@
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
 * Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
-* [Magiclysm] Small fix ([#64405](https://github.com/CleverRaven/Cataclysm-DDA/pull/64405))
 * Update the table of contents in doc/JSON_INFO.md ([#64456](https://github.com/CleverRaven/Cataclysm-DDA/pull/64456))
 * Raise minimum supported macOS version to 10.13 ([#64434](https://github.com/CleverRaven/Cataclysm-DDA/pull/64434))
 * Set BACKTRACE in msvc CI builds for better stack traces. ([#64420](https://github.com/CleverRaven/Cataclysm-DDA/pull/64420))
