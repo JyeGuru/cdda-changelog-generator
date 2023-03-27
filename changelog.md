@@ -1,3 +1,4 @@
+* Fix diary text navigation wrapping ([#64560](https://github.com/CleverRaven/Cataclysm-DDA/pull/64560))
 * [Xedra Evolved] Summon Light now cost 600 mana, not 6 ([#64596](https://github.com/CleverRaven/Cataclysm-DDA/pull/64596))
 * Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
 * Change toad_in_hole recipe to use toast ([#64580](https://github.com/CleverRaven/Cataclysm-DDA/pull/64580))
@@ -161,7 +162,6 @@
 
 * Remove achievements/scores/killcount top-level keybinding and move it into the diary menu (bound by default to ')') ([#64470](https://github.com/CleverRaven/Cataclysm-DDA/pull/64470))
 * fix more butane spawns and fix new PRs' foodcosts being wrong out of the gate ([#64443](https://github.com/CleverRaven/Cataclysm-DDA/pull/64443))
-* cpp17 refactoring: remove make_pair ([#64401](https://github.com/CleverRaven/Cataclysm-DDA/pull/64401))
 * Fixed windows with metal grate converting into wrong window types on sawing down the grate ([#64432](https://github.com/CleverRaven/Cataclysm-DDA/pull/64432))
 * Tidy item examine display ([#64419](https://github.com/CleverRaven/Cataclysm-DDA/pull/64419))
 * Allow spells to use dialog variables. ([#64416](https://github.com/CleverRaven/Cataclysm-DDA/pull/64416))
