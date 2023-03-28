@@ -2,6 +2,11 @@
 * plank recipe: make 8 instead of 1 + 7 ([#64624](https://github.com/CleverRaven/Cataclysm-DDA/pull/64624))
 * Fix spell display bug ([#64628](https://github.com/CleverRaven/Cataclysm-DDA/pull/64628))
 * Add context to physical activity text json field so that it can be translated properly ([#64629](https://github.com/CleverRaven/Cataclysm-DDA/pull/64629))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-28-0240 ([5788e31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-28-0240))
+
 * Removed myself from codeowners and maintainers of No Hope mod ([#64618](https://github.com/CleverRaven/Cataclysm-DDA/pull/64618))
 
 ---
@@ -17,6 +22,11 @@
 #### Cataclysm-DDA experimental build 2023-03-27-1830 ([fc84a0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-1830))
 
 * Unhardcode oter_id migrations ([#64564](https://github.com/CleverRaven/Cataclysm-DDA/pull/64564))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-27-0543 ([78fd8cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-0543))
+
 * Routine tileset updates on 26 March 2023 ([#64608](https://github.com/CleverRaven/Cataclysm-DDA/pull/64608))
 
 ---
@@ -54,12 +64,22 @@
 #### Cataclysm-DDA experimental build 2023-03-26-0909 ([4ae79c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-26-0909))
 
 * Re-adds warehouse roof ([#64576](https://github.com/CleverRaven/Cataclysm-DDA/pull/64576))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-26-0619 ([d6d06eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-26-0619))
+
 * Less dogs in house_dogs ([#64571](https://github.com/CleverRaven/Cataclysm-DDA/pull/64571))
 * Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))
 * Fix crash on portal storm ([#64573](https://github.com/CleverRaven/Cataclysm-DDA/pull/64573))
 * bomb teleport wtf ([#64520](https://github.com/CleverRaven/Cataclysm-DDA/pull/64520))
 * Fixes stair auto-roof ([#64569](https://github.com/CleverRaven/Cataclysm-DDA/pull/64569))
 * Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-26-0317 ([3c6d791](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-26-0317))
+
 * More variants for multi-unit housing ([#64538](https://github.com/CleverRaven/Cataclysm-DDA/pull/64538))
 * Allow custom message from roll_remainder ([#64524](https://github.com/CleverRaven/Cataclysm-DDA/pull/64524))
 * Fix clang-tidy failures related to xargs ([#64563](https://github.com/CleverRaven/Cataclysm-DDA/pull/64563))
@@ -181,11 +201,6 @@
 * Tidy item examine display ([#64419](https://github.com/CleverRaven/Cataclysm-DDA/pull/64419))
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-23-0839 ([4ad1388](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-23-0839))
-
 * Throwable fire extinguishers can now be placed in grenade-only pockets ([#64465](https://github.com/CleverRaven/Cataclysm-DDA/pull/64465))
 * Turn person's ability to open doors back ([#64464](https://github.com/CleverRaven/Cataclysm-DDA/pull/64464))
 * Misc fixes ([#64453](https://github.com/CleverRaven/Cataclysm-DDA/pull/64453))

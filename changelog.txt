@@ -2,6 +2,8 @@
 * plank recipe: make 8 instead of 1 + 7 (#64624)
 * Fix spell display bug (#64628)
 * Add context to physical activity text json field so that it can be translated properly (#64629)
+
+Cataclysm-DDA experimental build 2023-03-28-0240 (5788e31)
 * Removed myself from codeowners and maintainers of No Hope mod (#64618)
 
 Cataclysm-DDA experimental build 2023-03-27-2002 (63ae979)
@@ -11,6 +13,8 @@ Cataclysm-DDA experimental build 2023-03-27-2002 (63ae979)
 
 Cataclysm-DDA experimental build 2023-03-27-1830 (fc84a0a)
 * Unhardcode oter_id migrations (#64564)
+
+Cataclysm-DDA experimental build 2023-03-27-0543 (78fd8cd)
 * Routine tileset updates on 26 March 2023 (#64608)
 
 Cataclysm-DDA experimental build 2023-03-27-0448 (909fb81)
@@ -33,12 +37,16 @@ Cataclysm-DDA experimental build 2023-03-26-1407 (578fd91)
 
 Cataclysm-DDA experimental build 2023-03-26-0909 (4ae79c2)
 * Re-adds warehouse roof (#64576)
+
+Cataclysm-DDA experimental build 2023-03-26-0619 (d6d06eb)
 * Less dogs in house_dogs (#64571)
 * Revive 62664 (#64582)
 * Fix crash on portal storm (#64573)
 * bomb teleport wtf (#64520)
 * Fixes stair auto-roof (#64569)
 * Fix type error in pull request test labeler (#64578)
+
+Cataclysm-DDA experimental build 2023-03-26-0317 (3c6d791)
 * More variants for multi-unit housing (#64538)
 * Allow custom message from roll_remainder (#64524)
 * Fix clang-tidy failures related to xargs (#64563)
@@ -115,8 +123,6 @@ Cataclysm-DDA experimental build 2023-03-24-0348 (5b8087d)
 * Tidy item examine display (#64419)
 * Fix motorcycle ramming into enemies and failing tests (#64483)
 * inv_ui: fix width of merged map column (#64491)
-
-Cataclysm-DDA experimental build 2023-03-23-0839 (4ad1388)
 * Throwable fire extinguishers can now be placed in grenade-only pockets (#64465)
 * Turn person's ability to open doors back (#64464)
 * Misc fixes (#64453)
