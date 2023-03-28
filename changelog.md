@@ -1,3 +1,4 @@
+* Allow displaying recipe description for recipes without results ([#64623](https://github.com/CleverRaven/Cataclysm-DDA/pull/64623))
 * plank recipe: make 8 instead of 1 + 7 ([#64624](https://github.com/CleverRaven/Cataclysm-DDA/pull/64624))
 * Fix spell display bug ([#64628](https://github.com/CleverRaven/Cataclysm-DDA/pull/64628))
 * Add context to physical activity text json field so that it can be translated properly ([#64629](https://github.com/CleverRaven/Cataclysm-DDA/pull/64629))
@@ -208,7 +209,6 @@
 * inv_ui: move cell cache to entry and delete redundant calls ([#64425](https://github.com/CleverRaven/Cataclysm-DDA/pull/64425))
 * Fix changelog script not preserving leading spaces ([#64459](https://github.com/CleverRaven/Cataclysm-DDA/pull/64459))
 * Revert "Revive part 2 of the netherium monster corpse project" ([#64472](https://github.com/CleverRaven/Cataclysm-DDA/pull/64472))
-* MozzarellaCheese ([#64418](https://github.com/CleverRaven/Cataclysm-DDA/pull/64418))
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
 * Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
