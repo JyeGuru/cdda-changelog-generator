@@ -68,8 +68,6 @@ Cataclysm-DDA experimental build 2023-03-25-1826 (e91b137)
 
 Cataclysm-DDA experimental build 2023-03-25-1649 (324f6d5)
 * Collect compilers makers and versions supported by this project in a tidy table. (#64561)
-
-Cataclysm-DDA experimental build 2023-03-25-1310 (6edce49)
 * mercenary coat coverage fix (#64535)
 
 Cataclysm-DDA experimental build 2023-03-25-1120 (6a27fb0)
@@ -117,6 +115,8 @@ Cataclysm-DDA experimental build 2023-03-24-0755 (37d6251)
 * Add high end hunting backpack (#64479)
 * JSONized damage verbs for transforming items (#64476)
 * Fix friction drag from insufficient wheels potentially causing direction change in vehicles (#64473)
+
+Cataclysm-DDA experimental build 2023-03-24-0551 (62d958d)
 * Differentiate welding tool names (#64485)
 * Remove achievements/scores/killcount top-level keybinding and move it into the diary menu (bound by default to ')') (#64470)
 * fix more butane spawns and fix new PRs' foodcosts being wrong out of the gate (#64443)
