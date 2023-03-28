@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-03-28-0240 (5788e31)
+* Removed myself from codeowners and maintainers of No Hope mod (#64618)
+
 Cataclysm-DDA experimental build 2023-03-27-2002 (63ae979)
 * [Xedra Evolved] fix dreamsmith inability to obtain a plates recipes (#64616)
 * Build Universal Binary on macOS (#64614)
@@ -137,5 +140,4 @@ Cataclysm-DDA experimental build 2023-03-24-0348 (5b8087d)
 * Obsolete valhalla cultists (#64417)
 * Create steam_faq.md (#64439)
 * Removed the small lens from smartphone deconstruction because (#64429)
-* Make generic guns validator output sane error on bad json (#64412)
 * Prevent android small screen craft crash (#64415)

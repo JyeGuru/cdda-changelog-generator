@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-03-28-0240 ([5788e31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-28-0240))
+
+* Removed myself from codeowners and maintainers of No Hope mod ([#64618](https://github.com/CleverRaven/Cataclysm-DDA/pull/64618))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-03-27-2002 ([63ae979](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-2002))
 
 * [Xedra Evolved] fix dreamsmith inability to obtain a plates recipes ([#64616](https://github.com/CleverRaven/Cataclysm-DDA/pull/64616))
@@ -212,5 +218,4 @@
 * Obsolete valhalla cultists ([#64417](https://github.com/CleverRaven/Cataclysm-DDA/pull/64417))
 * Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
 * Removed the small lens from smartphone deconstruction because ([#64429](https://github.com/CleverRaven/Cataclysm-DDA/pull/64429))
-* Make generic guns validator output sane error on bad json ([#64412](https://github.com/CleverRaven/Cataclysm-DDA/pull/64412))
 * Prevent android small screen craft crash ([#64415](https://github.com/CleverRaven/Cataclysm-DDA/pull/64415))
