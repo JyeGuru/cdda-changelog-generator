@@ -1,3 +1,4 @@
+* Update mapgen documents (#64565)
 
 Cataclysm-DDA experimental build 2023-03-28-0401 (bdbee46)
 * Allow displaying recipe description for recipes without results (#64623)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2023-03-24-0551 (62d958d)
 * Remove achievements/scores/killcount top-level keybinding and move it into the diary menu (bound by default to ')') (#64470)
 * fix more butane spawns and fix new PRs' foodcosts being wrong out of the gate (#64443)
 * Fixed windows with metal grate converting into wrong window types on sawing down the grate (#64432)
-* Tidy item examine display (#64419)
 * Fix motorcycle ramming into enemies and failing tests (#64483)
 * inv_ui: fix width of merged map column (#64491)
 * Throwable fire extinguishers can now be placed in grenade-only pockets (#64465)

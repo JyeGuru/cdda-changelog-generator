@@ -1,3 +1,4 @@
+* Update mapgen documents ([#64565](https://github.com/CleverRaven/Cataclysm-DDA/pull/64565))
 
 ---
 
@@ -198,7 +199,6 @@
 * Remove achievements/scores/killcount top-level keybinding and move it into the diary menu (bound by default to ')') ([#64470](https://github.com/CleverRaven/Cataclysm-DDA/pull/64470))
 * fix more butane spawns and fix new PRs' foodcosts being wrong out of the gate ([#64443](https://github.com/CleverRaven/Cataclysm-DDA/pull/64443))
 * Fixed windows with metal grate converting into wrong window types on sawing down the grate ([#64432](https://github.com/CleverRaven/Cataclysm-DDA/pull/64432))
-* Tidy item examine display ([#64419](https://github.com/CleverRaven/Cataclysm-DDA/pull/64419))
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
 * Throwable fire extinguishers can now be placed in grenade-only pockets ([#64465](https://github.com/CleverRaven/Cataclysm-DDA/pull/64465))
