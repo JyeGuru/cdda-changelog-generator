@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-28-0553 ([6d311a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-28-0553))
+
 * Update mapgen documents ([#64565](https://github.com/CleverRaven/Cataclysm-DDA/pull/64565))
 
 ---
@@ -190,11 +195,6 @@
 * Add high end hunting backpack ([#64479](https://github.com/CleverRaven/Cataclysm-DDA/pull/64479))
 * JSONized damage verbs for transforming items ([#64476](https://github.com/CleverRaven/Cataclysm-DDA/pull/64476))
 * Fix friction drag from insufficient wheels potentially causing direction change in vehicles ([#64473](https://github.com/CleverRaven/Cataclysm-DDA/pull/64473))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-24-0551 ([62d958d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-24-0551))
-
 * Differentiate welding tool names ([#64485](https://github.com/CleverRaven/Cataclysm-DDA/pull/64485))
 * Remove achievements/scores/killcount top-level keybinding and move it into the diary menu (bound by default to ')') ([#64470](https://github.com/CleverRaven/Cataclysm-DDA/pull/64470))
 * fix more butane spawns and fix new PRs' foodcosts being wrong out of the gate ([#64443](https://github.com/CleverRaven/Cataclysm-DDA/pull/64443))
