@@ -1,3 +1,4 @@
+* Properly split changelog lines (#64630)
 
 Cataclysm-DDA experimental build 2023-03-29-0536 (a66bf06)
 * Allow bulk cooking of salisfy + dahlia and remove unhealthiness (#64645)
@@ -105,8 +106,6 @@ Cataclysm-DDA experimental build 2023-03-25-0249 (f9dd628)
 
 Cataclysm-DDA experimental build 2023-03-25-0112 (67d9253)
 * Remove cata::void_t; migrate to std::void_t (#64431)
-
-Cataclysm-DDA experimental build 2023-03-24-1252 (199ac9b)
 * Minor bus station cleanup (#64501)
 * [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned (#64503)
 * Fix underground emitter drain (#64506)
@@ -136,6 +135,5 @@ Cataclysm-DDA experimental build 2023-03-24-1252 (199ac9b)
 * Update the table of contents in doc/JSON_INFO.md (#64456)
 * Raise minimum supported macOS version to 10.13 (#64434)
 * Pass base github token to Changelog generator (#64452)
-* Attempts to fix nether monster generation (#64421)
 * Create steam_faq.md (#64439)
 * Removed the small lens from smartphone deconstruction because (#64429)
