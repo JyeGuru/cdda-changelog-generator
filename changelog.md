@@ -1,3 +1,10 @@
+* Prevent the gun shooting sound from being played when player using a bow with damper. ([#64670](https://github.com/CleverRaven/Cataclysm-DDA/pull/64670))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-29-2347 ([98801d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-29-2347))
+
+* Interface: color themes: add solarized ([#64676](https://github.com/CleverRaven/Cataclysm-DDA/pull/64676))
 * Add myself to comment-commands.yml file so I can confirm bugs ([#64660](https://github.com/CleverRaven/Cataclysm-DDA/pull/64660))
 * Properly split changelog lines ([#64630](https://github.com/CleverRaven/Cataclysm-DDA/pull/64630))
 
@@ -173,11 +180,6 @@
 * Remove default '}' keybind for accessing sidebar options, add a menu item to the main menu for this and remove the associated 'Hint' sidebar widget ([#64455](https://github.com/CleverRaven/Cataclysm-DDA/pull/64455))
 * No cutting up integrated armors ([#64449](https://github.com/CleverRaven/Cataclysm-DDA/pull/64449))
 * 64366 ([#64442](https://github.com/CleverRaven/Cataclysm-DDA/pull/64442))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-25-0112 ([67d9253](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0112))
-
 * Remove cata::void_t; migrate to std::void_t ([#64431](https://github.com/CleverRaven/Cataclysm-DDA/pull/64431))
 * Minor bus station cleanup ([#64501](https://github.com/CleverRaven/Cataclysm-DDA/pull/64501))
 * [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned ([#64503](https://github.com/CleverRaven/Cataclysm-DDA/pull/64503))
@@ -198,7 +200,6 @@
 * Turn person's ability to open doors back ([#64464](https://github.com/CleverRaven/Cataclysm-DDA/pull/64464))
 * Misc fixes ([#64453](https://github.com/CleverRaven/Cataclysm-DDA/pull/64453))
 * Attach battery toolmod instead of duplicating item definitions ([#64441](https://github.com/CleverRaven/Cataclysm-DDA/pull/64441))
-* EOC on event ([#64426](https://github.com/CleverRaven/Cataclysm-DDA/pull/64426))
 * Fix changelog script not preserving leading spaces ([#64459](https://github.com/CleverRaven/Cataclysm-DDA/pull/64459))
 * Revert "Revive part 2 of the netherium monster corpse project" ([#64472](https://github.com/CleverRaven/Cataclysm-DDA/pull/64472))
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
@@ -208,4 +209,3 @@
 * Raise minimum supported macOS version to 10.13 ([#64434](https://github.com/CleverRaven/Cataclysm-DDA/pull/64434))
 * Pass base github token to Changelog generator ([#64452](https://github.com/CleverRaven/Cataclysm-DDA/pull/64452))
 * Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
-* Removed the small lens from smartphone deconstruction because ([#64429](https://github.com/CleverRaven/Cataclysm-DDA/pull/64429))
