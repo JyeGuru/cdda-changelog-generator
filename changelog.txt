@@ -1,3 +1,4 @@
+* Allow bulk cooking of salisfy + dahlia and remove unhealthiness (#64645)
 
 Cataclysm-DDA experimental build 2023-03-28-0553 (6d311a7)
 * Update mapgen documents (#64565)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2023-03-24-1105 (206b28e)
 * Erase all before placing Exodii crash buildings (#64450)
 * Update the table of contents in doc/JSON_INFO.md (#64456)
 * Raise minimum supported macOS version to 10.13 (#64434)
-* Set BACKTRACE in msvc CI builds for better stack traces. (#64420)
 * Pass base github token to Changelog generator (#64452)
 * Attempts to fix nether monster generation (#64421)
 * Create steam_faq.md (#64439)

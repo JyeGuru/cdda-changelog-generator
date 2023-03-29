@@ -1,3 +1,4 @@
+* Allow bulk cooking of salisfy + dahlia and remove unhealthiness ([#64645](https://github.com/CleverRaven/Cataclysm-DDA/pull/64645))
 
 ---
 
@@ -209,7 +210,6 @@
 * Erase all before placing Exodii crash buildings ([#64450](https://github.com/CleverRaven/Cataclysm-DDA/pull/64450))
 * Update the table of contents in doc/JSON_INFO.md ([#64456](https://github.com/CleverRaven/Cataclysm-DDA/pull/64456))
 * Raise minimum supported macOS version to 10.13 ([#64434](https://github.com/CleverRaven/Cataclysm-DDA/pull/64434))
-* Set BACKTRACE in msvc CI builds for better stack traces. ([#64420](https://github.com/CleverRaven/Cataclysm-DDA/pull/64420))
 * Pass base github token to Changelog generator ([#64452](https://github.com/CleverRaven/Cataclysm-DDA/pull/64452))
 * Attempts to fix nether monster generation ([#64421](https://github.com/CleverRaven/Cataclysm-DDA/pull/64421))
 * Create steam_faq.md ([#64439](https://github.com/CleverRaven/Cataclysm-DDA/pull/64439))
