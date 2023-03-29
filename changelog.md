@@ -1,3 +1,4 @@
+* Add myself to comment-commands.yml file so I can confirm bugs ([#64660](https://github.com/CleverRaven/Cataclysm-DDA/pull/64660))
 * Properly split changelog lines ([#64630](https://github.com/CleverRaven/Cataclysm-DDA/pull/64630))
 
 ---
@@ -198,7 +199,6 @@
 * Misc fixes ([#64453](https://github.com/CleverRaven/Cataclysm-DDA/pull/64453))
 * Attach battery toolmod instead of duplicating item definitions ([#64441](https://github.com/CleverRaven/Cataclysm-DDA/pull/64441))
 * EOC on event ([#64426](https://github.com/CleverRaven/Cataclysm-DDA/pull/64426))
-* inv_ui: move cell cache to entry and delete redundant calls ([#64425](https://github.com/CleverRaven/Cataclysm-DDA/pull/64425))
 * Fix changelog script not preserving leading spaces ([#64459](https://github.com/CleverRaven/Cataclysm-DDA/pull/64459))
 * Revert "Revive part 2 of the netherium monster corpse project" ([#64472](https://github.com/CleverRaven/Cataclysm-DDA/pull/64472))
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))

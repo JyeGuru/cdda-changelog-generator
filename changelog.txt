@@ -1,3 +1,4 @@
+* Add myself to comment-commands.yml file so I can confirm bugs (#64660)
 * Properly split changelog lines (#64630)
 
 Cataclysm-DDA experimental build 2023-03-29-0536 (a66bf06)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2023-03-25-0112 (67d9253)
 * Misc fixes (#64453)
 * Attach battery toolmod instead of duplicating item definitions (#64441)
 * EOC on event (#64426)
-* inv_ui: move cell cache to entry and delete redundant calls (#64425)
 * Fix changelog script not preserving leading spaces (#64459)
 * Revert "Revive part 2 of the netherium monster corpse project" (#64472)
 * Revert "Attempts to fix nether monster generation" (#64462)
