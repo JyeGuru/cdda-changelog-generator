@@ -1,3 +1,6 @@
+* If item has two use actions, show both in Use Item menu ([#64663](https://github.com/CleverRaven/Cataclysm-DDA/pull/64663))
+* inventory_ui: improve pickup header ([#64664](https://github.com/CleverRaven/Cataclysm-DDA/pull/64664))
+* Add fast scrolling support to camp mission UI ([#64669](https://github.com/CleverRaven/Cataclysm-DDA/pull/64669))
 * Prevent the gun shooting sound from being played when player using a bow with damper. ([#64670](https://github.com/CleverRaven/Cataclysm-DDA/pull/64670))
 
 ---
@@ -146,7 +149,6 @@
 * Rebalance Bordered scenario ([#64531](https://github.com/CleverRaven/Cataclysm-DDA/pull/64531))
 * Make ccache functioning again on GitHub Actions ([#64553](https://github.com/CleverRaven/Cataclysm-DDA/pull/64553))
 * Skip tests in MSVC build triggered on master branch ([#64556](https://github.com/CleverRaven/Cataclysm-DDA/pull/64556))
-* Static declarations in headers ([#64430](https://github.com/CleverRaven/Cataclysm-DDA/pull/64430))
 * inv_ui: update selection col on increase/decrease ([#64527](https://github.com/CleverRaven/Cataclysm-DDA/pull/64527))
 
 ---
@@ -180,7 +182,6 @@
 * Remove default '}' keybind for accessing sidebar options, add a menu item to the main menu for this and remove the associated 'Hint' sidebar widget ([#64455](https://github.com/CleverRaven/Cataclysm-DDA/pull/64455))
 * No cutting up integrated armors ([#64449](https://github.com/CleverRaven/Cataclysm-DDA/pull/64449))
 * 64366 ([#64442](https://github.com/CleverRaven/Cataclysm-DDA/pull/64442))
-* Remove cata::void_t; migrate to std::void_t ([#64431](https://github.com/CleverRaven/Cataclysm-DDA/pull/64431))
 * Minor bus station cleanup ([#64501](https://github.com/CleverRaven/Cataclysm-DDA/pull/64501))
 * [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned ([#64503](https://github.com/CleverRaven/Cataclysm-DDA/pull/64503))
 * Fix underground emitter drain ([#64506](https://github.com/CleverRaven/Cataclysm-DDA/pull/64506))
@@ -193,7 +194,6 @@
 * Differentiate welding tool names ([#64485](https://github.com/CleverRaven/Cataclysm-DDA/pull/64485))
 * Remove achievements/scores/killcount top-level keybinding and move it into the diary menu (bound by default to ')') ([#64470](https://github.com/CleverRaven/Cataclysm-DDA/pull/64470))
 * fix more butane spawns and fix new PRs' foodcosts being wrong out of the gate ([#64443](https://github.com/CleverRaven/Cataclysm-DDA/pull/64443))
-* Fixed windows with metal grate converting into wrong window types on sawing down the grate ([#64432](https://github.com/CleverRaven/Cataclysm-DDA/pull/64432))
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
 * Throwable fire extinguishers can now be placed in grenade-only pockets ([#64465](https://github.com/CleverRaven/Cataclysm-DDA/pull/64465))
