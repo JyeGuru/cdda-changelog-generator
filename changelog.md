@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-29-0536 ([a66bf06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-29-0536))
+
 * Allow bulk cooking of salisfy + dahlia and remove unhealthiness ([#64645](https://github.com/CleverRaven/Cataclysm-DDA/pull/64645))
 
 ---
@@ -179,11 +184,6 @@
 
 * Minor bus station cleanup ([#64501](https://github.com/CleverRaven/Cataclysm-DDA/pull/64501))
 * [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned ([#64503](https://github.com/CleverRaven/Cataclysm-DDA/pull/64503))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-24-1105 ([206b28e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-24-1105))
-
 * Fix underground emitter drain ([#64506](https://github.com/CleverRaven/Cataclysm-DDA/pull/64506))
 * Type fixes for MSVC, use steady_clock for intervals ([#64477](https://github.com/CleverRaven/Cataclysm-DDA/pull/64477))
 * Remove UNCRAFT_LIQUIDS_CONTAINED flag ([#64489](https://github.com/CleverRaven/Cataclysm-DDA/pull/64489))
