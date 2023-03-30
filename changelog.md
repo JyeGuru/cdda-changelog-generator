@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-30-0117 ([f3e9c4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-0117))
+
 * Make all tile lights destroyable by smashing and shooting ([#64610](https://github.com/CleverRaven/Cataclysm-DDA/pull/64610))
 * Don't try to display empty effects in player info page ([#64631](https://github.com/CleverRaven/Cataclysm-DDA/pull/64631))
 * Fix compiler warning uninitialized anonymous func ([#64638](https://github.com/CleverRaven/Cataclysm-DDA/pull/64638))
@@ -179,11 +184,6 @@
 * 🌰 Allow blanched/cooked/roasted acorns in soups and stews 🍲 ([#64513](https://github.com/CleverRaven/Cataclysm-DDA/pull/64513))
 * Fix innawood canning recipes ([#64509](https://github.com/CleverRaven/Cataclysm-DDA/pull/64509))
 * Adds ladders, stairs, solar units to roof palette & roof palettizing ([#64502](https://github.com/CleverRaven/Cataclysm-DDA/pull/64502))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-25-0249 ([f9dd628](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0249))
-
 * Cut more 0.G obsoletions ([#64496](https://github.com/CleverRaven/Cataclysm-DDA/pull/64496))
 * Refactor and deduplicate UI input code ([#64463](https://github.com/CleverRaven/Cataclysm-DDA/pull/64463))
 * Remove default '}' keybind for accessing sidebar options, add a menu item to the main menu for this and remove the associated 'Hint' sidebar widget ([#64455](https://github.com/CleverRaven/Cataclysm-DDA/pull/64455))
