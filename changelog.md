@@ -1,3 +1,10 @@
+* No more Take Your Dog to Work Day ([#64574](https://github.com/CleverRaven/Cataclysm-DDA/pull/64574))
+* Character Creation Audit ([#64609](https://github.com/CleverRaven/Cataclysm-DDA/pull/64609))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-30-1654 ([801daa4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-1654))
+
 * Add unique feline mutations to extra_mut_scen mod ([#64637](https://github.com/CleverRaven/Cataclysm-DDA/pull/64637))
 
 ---
@@ -175,11 +182,6 @@
 * Make ccache functioning again on GitHub Actions ([#64553](https://github.com/CleverRaven/Cataclysm-DDA/pull/64553))
 * Skip tests in MSVC build triggered on master branch ([#64556](https://github.com/CleverRaven/Cataclysm-DDA/pull/64556))
 * inv_ui: update selection col on increase/decrease ([#64527](https://github.com/CleverRaven/Cataclysm-DDA/pull/64527))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-25-0722 ([6601202](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0722))
-
 * Added other mead types to weak mixed alcohol ([#64500](https://github.com/CleverRaven/Cataclysm-DDA/pull/64500))
 * Routine i18n updates on 25 March 2023 ([#64541](https://github.com/CleverRaven/Cataclysm-DDA/pull/64541))
 * Add morale menu keybinding to the player info menu and remove the default config for the morale menu keybinding at the root level ([#64458](https://github.com/CleverRaven/Cataclysm-DDA/pull/64458))
@@ -189,7 +191,6 @@
 * Adds ladders, stairs, solar units to roof palette & roof palettizing ([#64502](https://github.com/CleverRaven/Cataclysm-DDA/pull/64502))
 * Cut more 0.G obsoletions ([#64496](https://github.com/CleverRaven/Cataclysm-DDA/pull/64496))
 * Refactor and deduplicate UI input code ([#64463](https://github.com/CleverRaven/Cataclysm-DDA/pull/64463))
-* Remove default '}' keybind for accessing sidebar options, add a menu item to the main menu for this and remove the associated 'Hint' sidebar widget ([#64455](https://github.com/CleverRaven/Cataclysm-DDA/pull/64455))
 * Minor bus station cleanup ([#64501](https://github.com/CleverRaven/Cataclysm-DDA/pull/64501))
 * [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned ([#64503](https://github.com/CleverRaven/Cataclysm-DDA/pull/64503))
 * Fix underground emitter drain ([#64506](https://github.com/CleverRaven/Cataclysm-DDA/pull/64506))
@@ -209,4 +210,3 @@
 * Revert "Revive part 2 of the netherium monster corpse project" ([#64472](https://github.com/CleverRaven/Cataclysm-DDA/pull/64472))
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
 * Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
-* Update the table of contents in doc/JSON_INFO.md ([#64456](https://github.com/CleverRaven/Cataclysm-DDA/pull/64456))
