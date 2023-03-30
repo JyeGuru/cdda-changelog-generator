@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-30-0512 ([dd52426](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-0512))
+
 * Protective Lenses buff (again because stalebot closed my first one) ([#64548](https://github.com/CleverRaven/Cataclysm-DDA/pull/64548))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2023-03-25-0547 ([46caa38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0547))
 
 * Routine i18n updates on 25 March 2023 ([#64541](https://github.com/CleverRaven/Cataclysm-DDA/pull/64541))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-25-0403 ([9200431](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0403))
-
 * Add morale menu keybinding to the player info menu and remove the default config for the morale menu keybinding at the root level ([#64458](https://github.com/CleverRaven/Cataclysm-DDA/pull/64458))
 * Fix typo in terrain-windows.json ([#64519](https://github.com/CleverRaven/Cataclysm-DDA/pull/64519))
 * 🌰 Allow blanched/cooked/roasted acorns in soups and stews 🍲 ([#64513](https://github.com/CleverRaven/Cataclysm-DDA/pull/64513))
