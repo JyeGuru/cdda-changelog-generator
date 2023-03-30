@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-30-1842 ([87e5215](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-1842))
+
 * No more Take Your Dog to Work Day ([#64574](https://github.com/CleverRaven/Cataclysm-DDA/pull/64574))
 * Character Creation Audit ([#64609](https://github.com/CleverRaven/Cataclysm-DDA/pull/64609))
 
