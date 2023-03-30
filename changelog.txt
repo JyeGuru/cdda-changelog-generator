@@ -1,3 +1,4 @@
+* Protective Lenses buff (again because stalebot closed my first one) (#64548)
 
 Cataclysm-DDA experimental build 2023-03-30-0117 (f3e9c4e)
 * Make all tile lights destroyable by smashing and shooting (#64610)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2023-03-25-0403 (9200431)
 * Revert "Attempts to fix nether monster generation" (#64462)
 * Update bionics.json (#64460)
 * Update the table of contents in doc/JSON_INFO.md (#64456)
-* Pass base github token to Changelog generator (#64452)

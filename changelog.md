@@ -1,3 +1,4 @@
+* Protective Lenses buff (again because stalebot closed my first one) ([#64548](https://github.com/CleverRaven/Cataclysm-DDA/pull/64548))
 
 ---
 
@@ -208,4 +209,3 @@
 * Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
 * Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
 * Update the table of contents in doc/JSON_INFO.md ([#64456](https://github.com/CleverRaven/Cataclysm-DDA/pull/64456))
-* Pass base github token to Changelog generator ([#64452](https://github.com/CleverRaven/Cataclysm-DDA/pull/64452))
