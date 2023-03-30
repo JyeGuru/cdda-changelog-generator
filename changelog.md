@@ -164,23 +164,23 @@
 #### Cataclysm-DDA experimental build 2023-03-25-1310 ([6edce49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1310))
 
 * mercenary coat coverage fix ([#64535](https://github.com/CleverRaven/Cataclysm-DDA/pull/64535))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-25-1120 ([6a27fb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1120))
-
 * Fix print conversion error, fix more type warnings ([#64536](https://github.com/CleverRaven/Cataclysm-DDA/pull/64536))
 * Rebalance Bordered scenario ([#64531](https://github.com/CleverRaven/Cataclysm-DDA/pull/64531))
 * Make ccache functioning again on GitHub Actions ([#64553](https://github.com/CleverRaven/Cataclysm-DDA/pull/64553))
 * Skip tests in MSVC build triggered on master branch ([#64556](https://github.com/CleverRaven/Cataclysm-DDA/pull/64556))
 * inv_ui: update selection col on increase/decrease ([#64527](https://github.com/CleverRaven/Cataclysm-DDA/pull/64527))
+* Added other mead types to weak mixed alcohol ([#64500](https://github.com/CleverRaven/Cataclysm-DDA/pull/64500))
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-03-25-0722 ([6601202](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0722))
+#### Cataclysm-DDA experimental build 2023-03-25-0547 ([46caa38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0547))
 
-* Added other mead types to weak mixed alcohol ([#64500](https://github.com/CleverRaven/Cataclysm-DDA/pull/64500))
 * Routine i18n updates on 25 March 2023 ([#64541](https://github.com/CleverRaven/Cataclysm-DDA/pull/64541))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-25-0403 ([9200431](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-0403))
+
 * Add morale menu keybinding to the player info menu and remove the default config for the morale menu keybinding at the root level ([#64458](https://github.com/CleverRaven/Cataclysm-DDA/pull/64458))
 * Fix typo in terrain-windows.json ([#64519](https://github.com/CleverRaven/Cataclysm-DDA/pull/64519))
 * 🌰 Allow blanched/cooked/roasted acorns in soups and stews 🍲 ([#64513](https://github.com/CleverRaven/Cataclysm-DDA/pull/64513))
