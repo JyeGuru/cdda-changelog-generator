@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-03-30-1301 (dff5ec1)
+* [Xedra Evolved] Electronic home doors (#64661)
+
 Cataclysm-DDA experimental build 2023-03-30-0512 (dd52426)
 * Protective Lenses buff (again because stalebot closed my first one) (#64548)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2023-03-25-1120 (6a27fb0)
 
 Cataclysm-DDA experimental build 2023-03-25-0722 (6601202)
 * Added other mead types to weak mixed alcohol (#64500)
-
-Cataclysm-DDA experimental build 2023-03-25-0547 (46caa38)
 * Routine i18n updates on 25 March 2023 (#64541)
 * Add morale menu keybinding to the player info menu and remove the default config for the morale menu keybinding at the root level (#64458)
 * Fix typo in terrain-windows.json (#64519)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2023-03-25-0547 (46caa38)
 * inv_ui: fix width of merged map column (#64491)
 * Throwable fire extinguishers can now be placed in grenade-only pockets (#64465)
 * Turn person's ability to open doors back (#64464)
-* Misc fixes (#64453)
 * Fix changelog script not preserving leading spaces (#64459)
 * Revert "Revive part 2 of the netherium monster corpse project" (#64472)
 * Revert "Attempts to fix nether monster generation" (#64462)
