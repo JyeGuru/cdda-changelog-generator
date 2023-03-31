@@ -1,3 +1,14 @@
+* Add LSArchitecturePriority property in macOS Info.plist ([#64690](https://github.com/CleverRaven/Cataclysm-DDA/pull/64690))
+* Fixes for MSVC:  lint build step execution policy and more static_casts ([#64692](https://github.com/CleverRaven/Cataclysm-DDA/pull/64692))
+* Drug lab roof ([#64702](https://github.com/CleverRaven/Cataclysm-DDA/pull/64702))
+* Mutable mine roof ([#64704](https://github.com/CleverRaven/Cataclysm-DDA/pull/64704))
+* Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-31-0243 ([1002dd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0243))
+
+* Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
 
 ---
 
@@ -177,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2023-03-25-1310 ([6edce49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1310))
 
 * mercenary coat coverage fix ([#64535](https://github.com/CleverRaven/Cataclysm-DDA/pull/64535))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-25-1120 ([6a27fb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1120))
-
 * Fix print conversion error, fix more type warnings ([#64536](https://github.com/CleverRaven/Cataclysm-DDA/pull/64536))
 * Rebalance Bordered scenario ([#64531](https://github.com/CleverRaven/Cataclysm-DDA/pull/64531))
 * Make ccache functioning again on GitHub Actions ([#64553](https://github.com/CleverRaven/Cataclysm-DDA/pull/64553))
@@ -189,13 +195,11 @@
 * inv_ui: update selection col on increase/decrease ([#64527](https://github.com/CleverRaven/Cataclysm-DDA/pull/64527))
 * Added other mead types to weak mixed alcohol ([#64500](https://github.com/CleverRaven/Cataclysm-DDA/pull/64500))
 * Routine i18n updates on 25 March 2023 ([#64541](https://github.com/CleverRaven/Cataclysm-DDA/pull/64541))
-* Add morale menu keybinding to the player info menu and remove the default config for the morale menu keybinding at the root level ([#64458](https://github.com/CleverRaven/Cataclysm-DDA/pull/64458))
 * Fix typo in terrain-windows.json ([#64519](https://github.com/CleverRaven/Cataclysm-DDA/pull/64519))
 * 🌰 Allow blanched/cooked/roasted acorns in soups and stews 🍲 ([#64513](https://github.com/CleverRaven/Cataclysm-DDA/pull/64513))
 * Fix innawood canning recipes ([#64509](https://github.com/CleverRaven/Cataclysm-DDA/pull/64509))
 * Adds ladders, stairs, solar units to roof palette & roof palettizing ([#64502](https://github.com/CleverRaven/Cataclysm-DDA/pull/64502))
 * Cut more 0.G obsoletions ([#64496](https://github.com/CleverRaven/Cataclysm-DDA/pull/64496))
-* Refactor and deduplicate UI input code ([#64463](https://github.com/CleverRaven/Cataclysm-DDA/pull/64463))
 * Minor bus station cleanup ([#64501](https://github.com/CleverRaven/Cataclysm-DDA/pull/64501))
 * [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned ([#64503](https://github.com/CleverRaven/Cataclysm-DDA/pull/64503))
 * Fix underground emitter drain ([#64506](https://github.com/CleverRaven/Cataclysm-DDA/pull/64506))
@@ -210,8 +214,4 @@
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
 * Throwable fire extinguishers can now be placed in grenade-only pockets ([#64465](https://github.com/CleverRaven/Cataclysm-DDA/pull/64465))
-* Turn person's ability to open doors back ([#64464](https://github.com/CleverRaven/Cataclysm-DDA/pull/64464))
-* Fix changelog script not preserving leading spaces ([#64459](https://github.com/CleverRaven/Cataclysm-DDA/pull/64459))
 * Revert "Revive part 2 of the netherium monster corpse project" ([#64472](https://github.com/CleverRaven/Cataclysm-DDA/pull/64472))
-* Revert "Attempts to fix nether monster generation" ([#64462](https://github.com/CleverRaven/Cataclysm-DDA/pull/64462))
-* Update bionics.json ([#64460](https://github.com/CleverRaven/Cataclysm-DDA/pull/64460))
