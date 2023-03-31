@@ -1,3 +1,4 @@
+* create avatar_dies event ([#64685](https://github.com/CleverRaven/Cataclysm-DDA/pull/64685))
 
 ---
 
@@ -179,11 +180,6 @@
 * More variants for multi-unit housing ([#64538](https://github.com/CleverRaven/Cataclysm-DDA/pull/64538))
 * Allow custom message from roll_remainder ([#64524](https://github.com/CleverRaven/Cataclysm-DDA/pull/64524))
 * Fix clang-tidy failures related to xargs ([#64563](https://github.com/CleverRaven/Cataclysm-DDA/pull/64563))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-25-2008 ([71c3b18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-2008))
-
 * Fix character received items' charges error ([#64488](https://github.com/CleverRaven/Cataclysm-DDA/pull/64488))
 * Soldier mantle fix ([#64547](https://github.com/CleverRaven/Cataclysm-DDA/pull/64547))
 * Gracefully handle errors in pull request test labeler ([#64558](https://github.com/CleverRaven/Cataclysm-DDA/pull/64558))
@@ -207,11 +203,9 @@
 * Minor bus station cleanup ([#64501](https://github.com/CleverRaven/Cataclysm-DDA/pull/64501))
 * [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned ([#64503](https://github.com/CleverRaven/Cataclysm-DDA/pull/64503))
 * Fix underground emitter drain ([#64506](https://github.com/CleverRaven/Cataclysm-DDA/pull/64506))
-* Type fixes for MSVC, use steady_clock for intervals ([#64477](https://github.com/CleverRaven/Cataclysm-DDA/pull/64477))
 * Remove UNCRAFT_LIQUIDS_CONTAINED flag ([#64489](https://github.com/CleverRaven/Cataclysm-DDA/pull/64489))
 * Make 'afs_atomic_smartphone' disassembly not produce any 'lens_small' components and update meteorologist quest dialog ([#64481](https://github.com/CleverRaven/Cataclysm-DDA/pull/64481))
 * Add high end hunting backpack ([#64479](https://github.com/CleverRaven/Cataclysm-DDA/pull/64479))
-* JSONized damage verbs for transforming items ([#64476](https://github.com/CleverRaven/Cataclysm-DDA/pull/64476))
 * Differentiate welding tool names ([#64485](https://github.com/CleverRaven/Cataclysm-DDA/pull/64485))
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
