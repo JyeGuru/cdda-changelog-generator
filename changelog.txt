@@ -1,3 +1,4 @@
+* Gives sugar beet syrup a batch crafting time (#64689)
 
 Cataclysm-DDA experimental build 2023-03-31-0519 (1df1844)
 * Preparation for upgrading to clang-tidy 16 (#64694)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2023-03-25-1826 (e91b137)
 * Make 'afs_atomic_smartphone' disassembly not produce any 'lens_small' components and update meteorologist quest dialog (#64481)
 * Add high end hunting backpack (#64479)
 * JSONized damage verbs for transforming items (#64476)
-* Fix friction drag from insufficient wheels potentially causing direction change in vehicles (#64473)
 * Differentiate welding tool names (#64485)
 * Fix motorcycle ramming into enemies and failing tests (#64483)
 * inv_ui: fix width of merged map column (#64491)

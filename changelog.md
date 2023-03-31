@@ -1,3 +1,4 @@
+* Gives sugar beet syrup a batch crafting time ([#64689](https://github.com/CleverRaven/Cataclysm-DDA/pull/64689))
 
 ---
 
@@ -211,7 +212,6 @@
 * Make 'afs_atomic_smartphone' disassembly not produce any 'lens_small' components and update meteorologist quest dialog ([#64481](https://github.com/CleverRaven/Cataclysm-DDA/pull/64481))
 * Add high end hunting backpack ([#64479](https://github.com/CleverRaven/Cataclysm-DDA/pull/64479))
 * JSONized damage verbs for transforming items ([#64476](https://github.com/CleverRaven/Cataclysm-DDA/pull/64476))
-* Fix friction drag from insufficient wheels potentially causing direction change in vehicles ([#64473](https://github.com/CleverRaven/Cataclysm-DDA/pull/64473))
 * Differentiate welding tool names ([#64485](https://github.com/CleverRaven/Cataclysm-DDA/pull/64485))
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
