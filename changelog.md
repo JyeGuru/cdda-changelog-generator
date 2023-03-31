@@ -1,3 +1,4 @@
+* Monitor time consumption of clang-tidy checks ([#64648](https://github.com/CleverRaven/Cataclysm-DDA/pull/64648))
 * fursuit zombie no longer weighs nothing and can no longer bite ([#64650](https://github.com/CleverRaven/Cataclysm-DDA/pull/64650))
 * not to bee ([#64679](https://github.com/CleverRaven/Cataclysm-DDA/pull/64679))
 * Code clean up for #64669 ([#64683](https://github.com/CleverRaven/Cataclysm-DDA/pull/64683))
@@ -208,5 +209,4 @@
 * Minor bus station cleanup ([#64501](https://github.com/CleverRaven/Cataclysm-DDA/pull/64501))
 * [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned ([#64503](https://github.com/CleverRaven/Cataclysm-DDA/pull/64503))
 * Fix underground emitter drain ([#64506](https://github.com/CleverRaven/Cataclysm-DDA/pull/64506))
-* Remove UNCRAFT_LIQUIDS_CONTAINED flag ([#64489](https://github.com/CleverRaven/Cataclysm-DDA/pull/64489))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
