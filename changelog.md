@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-31-1804 ([a33c958](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-1804))
+
 * Fix conditions for avatar_dies event ([#64733](https://github.com/CleverRaven/Cataclysm-DDA/pull/64733))
 
 ---
