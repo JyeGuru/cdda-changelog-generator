@@ -1,3 +1,4 @@
+* Fix conditions for avatar_dies event ([#64733](https://github.com/CleverRaven/Cataclysm-DDA/pull/64733))
 
 ---
 
@@ -214,4 +215,3 @@
 * Minor bus station cleanup ([#64501](https://github.com/CleverRaven/Cataclysm-DDA/pull/64501))
 * [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned ([#64503](https://github.com/CleverRaven/Cataclysm-DDA/pull/64503))
 * Fix underground emitter drain ([#64506](https://github.com/CleverRaven/Cataclysm-DDA/pull/64506))
-* inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))

@@ -1,3 +1,4 @@
+* Fix conditions for avatar_dies event (#64733)
 
 Cataclysm-DDA experimental build 2023-03-31-1431 (efbcd28)
 * Monitor time consumption of clang-tidy checks (#64648)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2023-03-26-0317 (3c6d791)
 * Minor bus station cleanup (#64501)
 * [Magiclysm] add dust_reborn and terra_armor to Gaia's Chosen spells_learned (#64503)
 * Fix underground emitter drain (#64506)
-* inv_ui: fix width of merged map column (#64491)
