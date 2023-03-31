@@ -1,3 +1,4 @@
+* [Magiclysm] Can improve stonefist now ([#64668](https://github.com/CleverRaven/Cataclysm-DDA/pull/64668))
 * Add LSArchitecturePriority property in macOS Info.plist ([#64690](https://github.com/CleverRaven/Cataclysm-DDA/pull/64690))
 * Fixes for MSVC:  lint build step execution policy and more static_casts ([#64692](https://github.com/CleverRaven/Cataclysm-DDA/pull/64692))
 * Drug lab roof ([#64702](https://github.com/CleverRaven/Cataclysm-DDA/pull/64702))
@@ -213,5 +214,4 @@
 * Remove achievements/scores/killcount top-level keybinding and move it into the diary menu (bound by default to ')') ([#64470](https://github.com/CleverRaven/Cataclysm-DDA/pull/64470))
 * Fix motorcycle ramming into enemies and failing tests ([#64483](https://github.com/CleverRaven/Cataclysm-DDA/pull/64483))
 * inv_ui: fix width of merged map column ([#64491](https://github.com/CleverRaven/Cataclysm-DDA/pull/64491))
-* Throwable fire extinguishers can now be placed in grenade-only pockets ([#64465](https://github.com/CleverRaven/Cataclysm-DDA/pull/64465))
 * Revert "Revive part 2 of the netherium monster corpse project" ([#64472](https://github.com/CleverRaven/Cataclysm-DDA/pull/64472))
