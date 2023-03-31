@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-31-0728 ([5aac1e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0728))
+
 * Gives sugar beet syrup a batch crafting time ([#64689](https://github.com/CleverRaven/Cataclysm-DDA/pull/64689))
 
 ---
@@ -182,11 +187,6 @@
 * Fix character received items' charges error ([#64488](https://github.com/CleverRaven/Cataclysm-DDA/pull/64488))
 * Soldier mantle fix ([#64547](https://github.com/CleverRaven/Cataclysm-DDA/pull/64547))
 * Gracefully handle errors in pull request test labeler ([#64558](https://github.com/CleverRaven/Cataclysm-DDA/pull/64558))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-25-1826 ([e91b137](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1826))
-
 * Fix crash with preventing death ([#64534](https://github.com/CleverRaven/Cataclysm-DDA/pull/64534))
 * Add self to comment-commands.yml ([#64554](https://github.com/CleverRaven/Cataclysm-DDA/pull/64554))
 * Make ASRG not give x1000 intended power ([#64544](https://github.com/CleverRaven/Cataclysm-DDA/pull/64544))
