@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-31-0402 ([fc74bce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0402))
+
 * Fix "Play Now" options bringing up the world generation prompt ([#64659](https://github.com/CleverRaven/Cataclysm-DDA/pull/64659))
 * [Magiclysm] Can improve stonefist now ([#64668](https://github.com/CleverRaven/Cataclysm-DDA/pull/64668))
 * Add LSArchitecturePriority property in macOS Info.plist ([#64690](https://github.com/CleverRaven/Cataclysm-DDA/pull/64690))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2023-03-25-1649 ([324f6d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1649))
 
 * Collect compilers makers and versions supported by this project in a tidy table. ([#64561](https://github.com/CleverRaven/Cataclysm-DDA/pull/64561))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-25-1310 ([6edce49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-25-1310))
-
 * mercenary coat coverage fix ([#64535](https://github.com/CleverRaven/Cataclysm-DDA/pull/64535))
 * Fix print conversion error, fix more type warnings ([#64536](https://github.com/CleverRaven/Cataclysm-DDA/pull/64536))
 * Rebalance Bordered scenario ([#64531](https://github.com/CleverRaven/Cataclysm-DDA/pull/64531))
