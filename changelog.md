@@ -1,3 +1,4 @@
+* Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
 * [Innwood] Adds back forest trails. Also no longer requires city size to be set to 0. ([#64713](https://github.com/CleverRaven/Cataclysm-DDA/pull/64713))
 * Fix some incorrect line endings in robotfindskitten ([#64735](https://github.com/CleverRaven/Cataclysm-DDA/pull/64735))
 * Adds stairs looks like ([#64729](https://github.com/CleverRaven/Cataclysm-DDA/pull/64729))
@@ -221,4 +222,3 @@
 * Routine i18n updates on 25 March 2023 ([#64541](https://github.com/CleverRaven/Cataclysm-DDA/pull/64541))
 * Fix typo in terrain-windows.json ([#64519](https://github.com/CleverRaven/Cataclysm-DDA/pull/64519))
 * 🌰 Allow blanched/cooked/roasted acorns in soups and stews 🍲 ([#64513](https://github.com/CleverRaven/Cataclysm-DDA/pull/64513))
-* Fix innawood canning recipes ([#64509](https://github.com/CleverRaven/Cataclysm-DDA/pull/64509))
