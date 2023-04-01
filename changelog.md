@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-01-1907 ([b9651f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-1907))
+
+* Motel cleanup ([#64726](https://github.com/CleverRaven/Cataclysm-DDA/pull/64726))
 * Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))
 * Refactor city.cpp/.h out of overmap.cpp/.h ([#64742](https://github.com/CleverRaven/Cataclysm-DDA/pull/64742))
 * [Bombastic Perks] Added documentation and configuration menu ([#64744](https://github.com/CleverRaven/Cataclysm-DDA/pull/64744))
@@ -187,11 +193,6 @@
 * Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
 * Change toad_in_hole recipe to use toast ([#64580](https://github.com/CleverRaven/Cataclysm-DDA/pull/64580))
 * Add false eoc to Vampvirus checks in Xedra Evolved ([#64562](https://github.com/CleverRaven/Cataclysm-DDA/pull/64562))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-27-0330 ([2f1640d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-0330))
-
 * Use SDL2 frameworks to build CDDA on macOS ([#64542](https://github.com/CleverRaven/Cataclysm-DDA/pull/64542))
 * Improve dish: succotash and add a deluxe version ([#64539](https://github.com/CleverRaven/Cataclysm-DDA/pull/64539))
 * Make android build working again ([#64585](https://github.com/CleverRaven/Cataclysm-DDA/pull/64585))
@@ -216,5 +217,4 @@
 * Rebalance Bordered scenario ([#64531](https://github.com/CleverRaven/Cataclysm-DDA/pull/64531))
 * Make ccache functioning again on GitHub Actions ([#64553](https://github.com/CleverRaven/Cataclysm-DDA/pull/64553))
 * Skip tests in MSVC build triggered on master branch ([#64556](https://github.com/CleverRaven/Cataclysm-DDA/pull/64556))
-* inv_ui: update selection col on increase/decrease ([#64527](https://github.com/CleverRaven/Cataclysm-DDA/pull/64527))
 * Routine i18n updates on 25 March 2023 ([#64541](https://github.com/CleverRaven/Cataclysm-DDA/pull/64541))
