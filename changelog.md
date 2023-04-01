@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-01-1436 ([bb335db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-1436))
+
+* misc doc fixes ([#64727](https://github.com/CleverRaven/Cataclysm-DDA/pull/64727))
 * Unloading a container with a spillable container inside causes an infinite loop ([#64687](https://github.com/CleverRaven/Cataclysm-DDA/pull/64687))
 * Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
 * [Innwood] Adds back forest trails. Also no longer requires city size to be set to 0. ([#64713](https://github.com/CleverRaven/Cataclysm-DDA/pull/64713))
@@ -192,11 +198,6 @@
 * Improve dish: succotash and add a deluxe version ([#64539](https://github.com/CleverRaven/Cataclysm-DDA/pull/64539))
 * Make android build working again ([#64585](https://github.com/CleverRaven/Cataclysm-DDA/pull/64585))
 * Allow displaying unavailable dialogue options ([#64584](https://github.com/CleverRaven/Cataclysm-DDA/pull/64584))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-26-1407 ([578fd91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-26-1407))
-
 * Correctly silence clang-tidy ([#64579](https://github.com/CleverRaven/Cataclysm-DDA/pull/64579))
 * Re-adds warehouse roof ([#64576](https://github.com/CleverRaven/Cataclysm-DDA/pull/64576))
 * Less dogs in house_dogs ([#64571](https://github.com/CleverRaven/Cataclysm-DDA/pull/64571))
@@ -222,4 +223,3 @@
 * inv_ui: update selection col on increase/decrease ([#64527](https://github.com/CleverRaven/Cataclysm-DDA/pull/64527))
 * Routine i18n updates on 25 March 2023 ([#64541](https://github.com/CleverRaven/Cataclysm-DDA/pull/64541))
 * Fix typo in terrain-windows.json ([#64519](https://github.com/CleverRaven/Cataclysm-DDA/pull/64519))
-* 🌰 Allow blanched/cooked/roasted acorns in soups and stews 🍲 ([#64513](https://github.com/CleverRaven/Cataclysm-DDA/pull/64513))
