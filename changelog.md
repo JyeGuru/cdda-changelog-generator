@@ -1,3 +1,10 @@
+* Remove absent codeowners, fix path case ([#64769](https://github.com/CleverRaven/Cataclysm-DDA/pull/64769))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-02-1235 ([2adbbc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-1235))
+
+* [Perks Mod] Popeye the Sailor man Perk ([#64751](https://github.com/CleverRaven/Cataclysm-DDA/pull/64751))
 
 ---
 
@@ -183,11 +190,6 @@
 * [Xedra Evolved] fix dreamsmith inability to obtain a plates recipes ([#64616](https://github.com/CleverRaven/Cataclysm-DDA/pull/64616))
 * Build Universal Binary on macOS ([#64614](https://github.com/CleverRaven/Cataclysm-DDA/pull/64614))
 * Avoid spilling items into the original item. ([#64615](https://github.com/CleverRaven/Cataclysm-DDA/pull/64615))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-27-1830 ([fc84a0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-1830))
-
 * Unhardcode oter_id migrations ([#64564](https://github.com/CleverRaven/Cataclysm-DDA/pull/64564))
 * Routine tileset updates on 26 March 2023 ([#64608](https://github.com/CleverRaven/Cataclysm-DDA/pull/64608))
 * Fix diary text navigation wrapping ([#64560](https://github.com/CleverRaven/Cataclysm-DDA/pull/64560))
@@ -213,8 +215,6 @@
 * Add self to comment-commands.yml ([#64554](https://github.com/CleverRaven/Cataclysm-DDA/pull/64554))
 * Make ASRG not give x1000 intended power ([#64544](https://github.com/CleverRaven/Cataclysm-DDA/pull/64544))
 * Collect compilers makers and versions supported by this project in a tidy table. ([#64561](https://github.com/CleverRaven/Cataclysm-DDA/pull/64561))
-* mercenary coat coverage fix ([#64535](https://github.com/CleverRaven/Cataclysm-DDA/pull/64535))
-* Fix print conversion error, fix more type warnings ([#64536](https://github.com/CleverRaven/Cataclysm-DDA/pull/64536))
 * Make ccache functioning again on GitHub Actions ([#64553](https://github.com/CleverRaven/Cataclysm-DDA/pull/64553))
 * Skip tests in MSVC build triggered on master branch ([#64556](https://github.com/CleverRaven/Cataclysm-DDA/pull/64556))
 * Routine i18n updates on 25 March 2023 ([#64541](https://github.com/CleverRaven/Cataclysm-DDA/pull/64541))
