@@ -1,3 +1,15 @@
+* Deduplicate code for overmap road connections ([#64716](https://github.com/CleverRaven/Cataclysm-DDA/pull/64716))
+* Store limb_scores as map instead of vector ([#64776](https://github.com/CleverRaven/Cataclysm-DDA/pull/64776))
+* Move aiming logic outside loop and inside ifs ([#64761](https://github.com/CleverRaven/Cataclysm-DDA/pull/64761))
+* Replace count_*_flag with has_*_flag ([#64759](https://github.com/CleverRaven/Cataclysm-DDA/pull/64759))
+* Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
+* Replace `15_degrees` with `vehicles::steer_increment` ([#64575](https://github.com/CleverRaven/Cataclysm-DDA/pull/64575))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-02-1955 ([45e6e51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-1955))
+
+* Fix rounding in vehicle glyph choice ([#64570](https://github.com/CleverRaven/Cataclysm-DDA/pull/64570))
 
 ---
 
@@ -134,12 +146,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-03-30-0512 ([dd52426](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-0512))
-
-* Protective Lenses buff (again because stalebot closed my first one) ([#64548](https://github.com/CleverRaven/Cataclysm-DDA/pull/64548))
-
----
-
 #### Cataclysm-DDA experimental build 2023-03-30-0117 ([f3e9c4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-0117))
 
 * Make all tile lights destroyable by smashing and shooting ([#64610](https://github.com/CleverRaven/Cataclysm-DDA/pull/64610))
@@ -182,11 +188,6 @@
 * plank recipe: make 8 instead of 1 + 7 ([#64624](https://github.com/CleverRaven/Cataclysm-DDA/pull/64624))
 * Fix spell display bug ([#64628](https://github.com/CleverRaven/Cataclysm-DDA/pull/64628))
 * Add context to physical activity text json field so that it can be translated properly ([#64629](https://github.com/CleverRaven/Cataclysm-DDA/pull/64629))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-28-0240 ([5788e31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-28-0240))
-
 * Removed myself from codeowners and maintainers of No Hope mod ([#64618](https://github.com/CleverRaven/Cataclysm-DDA/pull/64618))
 * [Xedra Evolved] fix dreamsmith inability to obtain a plates recipes ([#64616](https://github.com/CleverRaven/Cataclysm-DDA/pull/64616))
 * Build Universal Binary on macOS ([#64614](https://github.com/CleverRaven/Cataclysm-DDA/pull/64614))
@@ -198,8 +199,6 @@
 * Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
 * Change toad_in_hole recipe to use toast ([#64580](https://github.com/CleverRaven/Cataclysm-DDA/pull/64580))
 * Add false eoc to Vampvirus checks in Xedra Evolved ([#64562](https://github.com/CleverRaven/Cataclysm-DDA/pull/64562))
-* Use SDL2 frameworks to build CDDA on macOS ([#64542](https://github.com/CleverRaven/Cataclysm-DDA/pull/64542))
-* Improve dish: succotash and add a deluxe version ([#64539](https://github.com/CleverRaven/Cataclysm-DDA/pull/64539))
 * Make android build working again ([#64585](https://github.com/CleverRaven/Cataclysm-DDA/pull/64585))
 * Allow displaying unavailable dialogue options ([#64584](https://github.com/CleverRaven/Cataclysm-DDA/pull/64584))
 * Correctly silence clang-tidy ([#64579](https://github.com/CleverRaven/Cataclysm-DDA/pull/64579))
@@ -210,11 +209,8 @@
 * Fixes stair auto-roof ([#64569](https://github.com/CleverRaven/Cataclysm-DDA/pull/64569))
 * Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))
 * Fix clang-tidy failures related to xargs ([#64563](https://github.com/CleverRaven/Cataclysm-DDA/pull/64563))
-* Soldier mantle fix ([#64547](https://github.com/CleverRaven/Cataclysm-DDA/pull/64547))
 * Gracefully handle errors in pull request test labeler ([#64558](https://github.com/CleverRaven/Cataclysm-DDA/pull/64558))
 * Add self to comment-commands.yml ([#64554](https://github.com/CleverRaven/Cataclysm-DDA/pull/64554))
-* Make ASRG not give x1000 intended power ([#64544](https://github.com/CleverRaven/Cataclysm-DDA/pull/64544))
 * Collect compilers makers and versions supported by this project in a tidy table. ([#64561](https://github.com/CleverRaven/Cataclysm-DDA/pull/64561))
 * Make ccache functioning again on GitHub Actions ([#64553](https://github.com/CleverRaven/Cataclysm-DDA/pull/64553))
 * Skip tests in MSVC build triggered on master branch ([#64556](https://github.com/CleverRaven/Cataclysm-DDA/pull/64556))
-* Routine i18n updates on 25 March 2023 ([#64541](https://github.com/CleverRaven/Cataclysm-DDA/pull/64541))
