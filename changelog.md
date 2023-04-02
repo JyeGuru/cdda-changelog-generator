@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-02-0551 ([fb313d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-0551))
+
 * Correct 7.62x54R description ([#64746](https://github.com/CleverRaven/Cataclysm-DDA/pull/64746))
 
 ---
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2023-03-27-1830 ([fc84a0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-1830))
 
 * Unhardcode oter_id migrations ([#64564](https://github.com/CleverRaven/Cataclysm-DDA/pull/64564))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-27-0543 ([78fd8cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-27-0543))
-
 * Routine tileset updates on 26 March 2023 ([#64608](https://github.com/CleverRaven/Cataclysm-DDA/pull/64608))
 * Fix diary text navigation wrapping ([#64560](https://github.com/CleverRaven/Cataclysm-DDA/pull/64560))
 * [Xedra Evolved] Summon Light now cost 600 mana, not 6 ([#64596](https://github.com/CleverRaven/Cataclysm-DDA/pull/64596))
