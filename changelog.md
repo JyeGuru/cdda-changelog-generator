@@ -1,3 +1,4 @@
+* Correct 7.62x54R description ([#64746](https://github.com/CleverRaven/Cataclysm-DDA/pull/64746))
 
 ---
 
@@ -209,7 +210,6 @@
 * Fix clang-tidy failures related to xargs ([#64563](https://github.com/CleverRaven/Cataclysm-DDA/pull/64563))
 * Soldier mantle fix ([#64547](https://github.com/CleverRaven/Cataclysm-DDA/pull/64547))
 * Gracefully handle errors in pull request test labeler ([#64558](https://github.com/CleverRaven/Cataclysm-DDA/pull/64558))
-* Fix crash with preventing death ([#64534](https://github.com/CleverRaven/Cataclysm-DDA/pull/64534))
 * Add self to comment-commands.yml ([#64554](https://github.com/CleverRaven/Cataclysm-DDA/pull/64554))
 * Make ASRG not give x1000 intended power ([#64544](https://github.com/CleverRaven/Cataclysm-DDA/pull/64544))
 * Collect compilers makers and versions supported by this project in a tidy table. ([#64561](https://github.com/CleverRaven/Cataclysm-DDA/pull/64561))

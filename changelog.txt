@@ -1,3 +1,4 @@
+* Correct 7.62x54R description (#64746)
 
 Cataclysm-DDA experimental build 2023-04-02-0321 (f3c5432)
 * Electronic locks in vanilla (#64748)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2023-03-27-0543 (78fd8cd)
 * Fix clang-tidy failures related to xargs (#64563)
 * Soldier mantle fix (#64547)
 * Gracefully handle errors in pull request test labeler (#64558)
-* Fix crash with preventing death (#64534)
 * Add self to comment-commands.yml (#64554)
 * Make ASRG not give x1000 intended power (#64544)
 * Collect compilers makers and versions supported by this project in a tidy table. (#64561)
