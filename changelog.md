@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-03-0529 ([cff8200](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-03-0529))
+
+* Routine tileset updates on 02 April 2023 ([#64798](https://github.com/CleverRaven/Cataclysm-DDA/pull/64798))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-02-2140 ([48d1f79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-2140))
 
 * Fix options.cpp ([#64768](https://github.com/CleverRaven/Cataclysm-DDA/pull/64768))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2023-03-29-0536 ([a66bf06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-29-0536))
 
 * Allow bulk cooking of salisfy + dahlia and remove unhealthiness ([#64645](https://github.com/CleverRaven/Cataclysm-DDA/pull/64645))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-28-0553 ([6d311a7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-28-0553))
-
 * Update mapgen documents ([#64565](https://github.com/CleverRaven/Cataclysm-DDA/pull/64565))
 * Allow displaying recipe description for recipes without results ([#64623](https://github.com/CleverRaven/Cataclysm-DDA/pull/64623))
 * plank recipe: make 8 instead of 1 + 7 ([#64624](https://github.com/CleverRaven/Cataclysm-DDA/pull/64624))
@@ -213,4 +214,3 @@
 * Fixes stair auto-roof ([#64569](https://github.com/CleverRaven/Cataclysm-DDA/pull/64569))
 * Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))
 * Fix clang-tidy failures related to xargs ([#64563](https://github.com/CleverRaven/Cataclysm-DDA/pull/64563))
-* Collect compilers makers and versions supported by this project in a tidy table. ([#64561](https://github.com/CleverRaven/Cataclysm-DDA/pull/64561))
