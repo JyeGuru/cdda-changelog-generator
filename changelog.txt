@@ -1,3 +1,4 @@
+* JSON sewer mapgen (#64793)
 
 Cataclysm-DDA experimental build 2023-04-04-0311 (f860525)
 * Fruit Audit - Weight, Volume, Calories and Vitamins (#64695)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2023-03-29-0536 (a66bf06)
 * Fix crash on portal storm (#64573)
 * Fixes stair auto-roof (#64569)
 * Fix type error in pull request test labeler (#64578)
-* Fix clang-tidy failures related to xargs (#64563)

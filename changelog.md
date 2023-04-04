@@ -1,3 +1,4 @@
+* JSON sewer mapgen ([#64793](https://github.com/CleverRaven/Cataclysm-DDA/pull/64793))
 
 ---
 
@@ -218,4 +219,3 @@
 * Fix crash on portal storm ([#64573](https://github.com/CleverRaven/Cataclysm-DDA/pull/64573))
 * Fixes stair auto-roof ([#64569](https://github.com/CleverRaven/Cataclysm-DDA/pull/64569))
 * Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))
-* Fix clang-tidy failures related to xargs ([#64563](https://github.com/CleverRaven/Cataclysm-DDA/pull/64563))
