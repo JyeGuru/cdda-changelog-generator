@@ -1,3 +1,4 @@
+* Revamped Free Start (#64697)
 * remove unused comestible radiation (#64766)
 * Fix auto_attacking barehanded NPC crash (#64772)
 * Standarized Makaylas (#64773)
@@ -25,9 +26,6 @@ Cataclysm-DDA experimental build 2023-04-02-2140 (48d1f79)
 * Replace count_*_flag with has_*_flag (#64759)
 * Add myself to CODEOWNERS for clang-tidy stuff (#64790)
 * Replace `15_degrees` with `vehicles::steer_increment` (#64575)
-
-Cataclysm-DDA experimental build 2023-04-02-1955 (45e6e51)
-* Fix rounding in vehicle glyph choice (#64570)
 
 Cataclysm-DDA experimental build 2023-04-02-1637 (d9b8135)
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments (#64777)

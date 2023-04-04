@@ -1,3 +1,4 @@
+* Revamped Free Start ([#64697](https://github.com/CleverRaven/Cataclysm-DDA/pull/64697))
 * remove unused comestible radiation ([#64766](https://github.com/CleverRaven/Cataclysm-DDA/pull/64766))
 * Fix auto_attacking barehanded NPC crash ([#64772](https://github.com/CleverRaven/Cataclysm-DDA/pull/64772))
 * Standarized Makaylas ([#64773](https://github.com/CleverRaven/Cataclysm-DDA/pull/64773))
@@ -37,12 +38,6 @@
 * Replace count_*_flag with has_*_flag ([#64759](https://github.com/CleverRaven/Cataclysm-DDA/pull/64759))
 * Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
 * Replace `15_degrees` with `vehicles::steer_increment` ([#64575](https://github.com/CleverRaven/Cataclysm-DDA/pull/64575))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-02-1955 ([45e6e51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-1955))
-
-* Fix rounding in vehicle glyph choice ([#64570](https://github.com/CleverRaven/Cataclysm-DDA/pull/64570))
 
 ---
 
