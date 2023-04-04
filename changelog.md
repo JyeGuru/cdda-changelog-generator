@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-04-1402 ([e084982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1402))
+
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2023-03-30-1301 ([dff5ec1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-1301))
 
 * [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-30-0117 ([f3e9c4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-0117))
-
 * Make all tile lights destroyable by smashing and shooting ([#64610](https://github.com/CleverRaven/Cataclysm-DDA/pull/64610))
 * Don't try to display empty effects in player info page ([#64631](https://github.com/CleverRaven/Cataclysm-DDA/pull/64631))
 * Fix compiler warning uninitialized anonymous func ([#64638](https://github.com/CleverRaven/Cataclysm-DDA/pull/64638))
