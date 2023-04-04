@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-04-0311 ([f860525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-0311))
+
+* Fruit Audit - Weight, Volume, Calories and Vitamins ([#64695](https://github.com/CleverRaven/Cataclysm-DDA/pull/64695))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-03-0529 ([cff8200](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-03-0529))
 
 * Routine tileset updates on 02 April 2023 ([#64798](https://github.com/CleverRaven/Cataclysm-DDA/pull/64798))
@@ -203,7 +209,6 @@
 * [Xedra Evolved] Summon Light now cost 600 mana, not 6 ([#64596](https://github.com/CleverRaven/Cataclysm-DDA/pull/64596))
 * Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
 * Change toad_in_hole recipe to use toast ([#64580](https://github.com/CleverRaven/Cataclysm-DDA/pull/64580))
-* Add false eoc to Vampvirus checks in Xedra Evolved ([#64562](https://github.com/CleverRaven/Cataclysm-DDA/pull/64562))
 * Make android build working again ([#64585](https://github.com/CleverRaven/Cataclysm-DDA/pull/64585))
 * Allow displaying unavailable dialogue options ([#64584](https://github.com/CleverRaven/Cataclysm-DDA/pull/64584))
 * Correctly silence clang-tidy ([#64579](https://github.com/CleverRaven/Cataclysm-DDA/pull/64579))
