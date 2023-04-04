@@ -1,3 +1,4 @@
+* Deduplicate failure msg for action attempted mounted or underwater (#64817)
 
 Cataclysm-DDA experimental build 2023-04-04-1236 (7c027dd)
 * Standard house variant distribution, survivor homes, doormats (#64678)
@@ -140,6 +141,4 @@ Cataclysm-DDA experimental build 2023-03-30-0117 (f3e9c4e)
 * Change toad_in_hole recipe to use toast (#64580)
 * Make android build working again (#64585)
 * Allow displaying unavailable dialogue options (#64584)
-* Correctly silence clang-tidy (#64579)
 * Revive 62664 (#64582)
-* Fix type error in pull request test labeler (#64578)
