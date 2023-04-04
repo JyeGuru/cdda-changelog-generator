@@ -1,3 +1,4 @@
+* Standarized Makaylas ([#64773](https://github.com/CleverRaven/Cataclysm-DDA/pull/64773))
 * Fix ammo's charge being reduced when calculating reload move_points ([#64634](https://github.com/CleverRaven/Cataclysm-DDA/pull/64634))
 * [innawood] Cave ramp fixes ([#64652](https://github.com/CleverRaven/Cataclysm-DDA/pull/64652))
 
