@@ -1,3 +1,5 @@
+* remove unused comestible radiation ([#64766](https://github.com/CleverRaven/Cataclysm-DDA/pull/64766))
+* Fix auto_attacking barehanded NPC crash ([#64772](https://github.com/CleverRaven/Cataclysm-DDA/pull/64772))
 * Standarized Makaylas ([#64773](https://github.com/CleverRaven/Cataclysm-DDA/pull/64773))
 * Fix ammo's charge being reduced when calculating reload move_points ([#64634](https://github.com/CleverRaven/Cataclysm-DDA/pull/64634))
 * [innawood] Cave ramp fixes ([#64652](https://github.com/CleverRaven/Cataclysm-DDA/pull/64652))
@@ -99,7 +101,6 @@
 #### Cataclysm-DDA experimental build 2023-04-01-0137 ([9065a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-0137))
 
 * Remove stale warning about an older ccache version for visual studio. ([#64736](https://github.com/CleverRaven/Cataclysm-DDA/pull/64736))
-* Small metals weight & recipes audit ([#64568](https://github.com/CleverRaven/Cataclysm-DDA/pull/64568))
 
 ---
 
@@ -218,5 +219,4 @@
 * Less dogs in house_dogs ([#64571](https://github.com/CleverRaven/Cataclysm-DDA/pull/64571))
 * Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))
 * Fix crash on portal storm ([#64573](https://github.com/CleverRaven/Cataclysm-DDA/pull/64573))
-* Fixes stair auto-roof ([#64569](https://github.com/CleverRaven/Cataclysm-DDA/pull/64569))
 * Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))
