@@ -1,3 +1,4 @@
+* New bar enconters for the Ancilla Bar ([#64745](https://github.com/CleverRaven/Cataclysm-DDA/pull/64745))
 * Revamped Free Start ([#64697](https://github.com/CleverRaven/Cataclysm-DDA/pull/64697))
 * remove unused comestible radiation ([#64766](https://github.com/CleverRaven/Cataclysm-DDA/pull/64766))
 * Fix auto_attacking barehanded NPC crash ([#64772](https://github.com/CleverRaven/Cataclysm-DDA/pull/64772))
@@ -211,7 +212,6 @@
 * Allow displaying unavailable dialogue options ([#64584](https://github.com/CleverRaven/Cataclysm-DDA/pull/64584))
 * Correctly silence clang-tidy ([#64579](https://github.com/CleverRaven/Cataclysm-DDA/pull/64579))
 * Re-adds warehouse roof ([#64576](https://github.com/CleverRaven/Cataclysm-DDA/pull/64576))
-* Less dogs in house_dogs ([#64571](https://github.com/CleverRaven/Cataclysm-DDA/pull/64571))
 * Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))
 * Fix crash on portal storm ([#64573](https://github.com/CleverRaven/Cataclysm-DDA/pull/64573))
 * Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))
