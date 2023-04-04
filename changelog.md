@@ -1,3 +1,6 @@
+* Standard house variant distribution, survivor homes, doormats ([#64678](https://github.com/CleverRaven/Cataclysm-DDA/pull/64678))
+* Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
+* Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
 * Larvae health edits ([#64696](https://github.com/CleverRaven/Cataclysm-DDA/pull/64696))
 
 ---
@@ -44,7 +47,6 @@
 * Move aiming logic outside loop and inside ifs ([#64761](https://github.com/CleverRaven/Cataclysm-DDA/pull/64761))
 * Replace count_*_flag with has_*_flag ([#64759](https://github.com/CleverRaven/Cataclysm-DDA/pull/64759))
 * Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
-* Replace `15_degrees` with `vehicles::steer_increment` ([#64575](https://github.com/CleverRaven/Cataclysm-DDA/pull/64575))
 
 ---
 
@@ -158,12 +160,6 @@
 #### Cataclysm-DDA experimental build 2023-03-31-0243 ([1002dd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0243))
 
 * Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-30-1842 ([87e5215](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-1842))
-
-* No more Take Your Dog to Work Day ([#64574](https://github.com/CleverRaven/Cataclysm-DDA/pull/64574))
 * Character Creation Audit ([#64609](https://github.com/CleverRaven/Cataclysm-DDA/pull/64609))
 
 ---
@@ -217,6 +213,5 @@
 * Make android build working again ([#64585](https://github.com/CleverRaven/Cataclysm-DDA/pull/64585))
 * Allow displaying unavailable dialogue options ([#64584](https://github.com/CleverRaven/Cataclysm-DDA/pull/64584))
 * Correctly silence clang-tidy ([#64579](https://github.com/CleverRaven/Cataclysm-DDA/pull/64579))
-* Re-adds warehouse roof ([#64576](https://github.com/CleverRaven/Cataclysm-DDA/pull/64576))
 * Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))
 * Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))
