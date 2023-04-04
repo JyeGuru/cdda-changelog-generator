@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-04-1123 ([0d9ad8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1123))
+
 * New bar enconters for the Ancilla Bar ([#64745](https://github.com/CleverRaven/Cataclysm-DDA/pull/64745))
 * Revamped Free Start ([#64697](https://github.com/CleverRaven/Cataclysm-DDA/pull/64697))
 * remove unused comestible radiation ([#64766](https://github.com/CleverRaven/Cataclysm-DDA/pull/64766))
