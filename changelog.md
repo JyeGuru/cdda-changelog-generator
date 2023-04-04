@@ -1,3 +1,4 @@
+* Larvae health edits ([#64696](https://github.com/CleverRaven/Cataclysm-DDA/pull/64696))
 
 ---
 
@@ -218,5 +219,4 @@
 * Correctly silence clang-tidy ([#64579](https://github.com/CleverRaven/Cataclysm-DDA/pull/64579))
 * Re-adds warehouse roof ([#64576](https://github.com/CleverRaven/Cataclysm-DDA/pull/64576))
 * Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))
-* Fix crash on portal storm ([#64573](https://github.com/CleverRaven/Cataclysm-DDA/pull/64573))
 * Fix type error in pull request test labeler ([#64578](https://github.com/CleverRaven/Cataclysm-DDA/pull/64578))

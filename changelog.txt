@@ -1,3 +1,4 @@
+* Larvae health edits (#64696)
 
 Cataclysm-DDA experimental build 2023-04-04-1123 (0d9ad8e)
 * New bar enconters for the Ancilla Bar (#64745)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2023-03-29-2347 (98801d4)
 * Correctly silence clang-tidy (#64579)
 * Re-adds warehouse roof (#64576)
 * Revive 62664 (#64582)
-* Fix crash on portal storm (#64573)
 * Fix type error in pull request test labeler (#64578)
