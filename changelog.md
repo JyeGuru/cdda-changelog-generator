@@ -1,3 +1,5 @@
+* Fix ammo's charge being reduced when calculating reload move_points ([#64634](https://github.com/CleverRaven/Cataclysm-DDA/pull/64634))
+* [innawood] Cave ramp fixes ([#64652](https://github.com/CleverRaven/Cataclysm-DDA/pull/64652))
 
 ---
 
@@ -196,7 +198,6 @@
 * Add myself to comment-commands.yml file so I can confirm bugs ([#64660](https://github.com/CleverRaven/Cataclysm-DDA/pull/64660))
 * Properly split changelog lines ([#64630](https://github.com/CleverRaven/Cataclysm-DDA/pull/64630))
 * Allow bulk cooking of salisfy + dahlia and remove unhealthiness ([#64645](https://github.com/CleverRaven/Cataclysm-DDA/pull/64645))
-* Update mapgen documents ([#64565](https://github.com/CleverRaven/Cataclysm-DDA/pull/64565))
 * Allow displaying recipe description for recipes without results ([#64623](https://github.com/CleverRaven/Cataclysm-DDA/pull/64623))
 * plank recipe: make 8 instead of 1 + 7 ([#64624](https://github.com/CleverRaven/Cataclysm-DDA/pull/64624))
 * Fix spell display bug ([#64628](https://github.com/CleverRaven/Cataclysm-DDA/pull/64628))
@@ -205,7 +206,6 @@
 * [Xedra Evolved] fix dreamsmith inability to obtain a plates recipes ([#64616](https://github.com/CleverRaven/Cataclysm-DDA/pull/64616))
 * Build Universal Binary on macOS ([#64614](https://github.com/CleverRaven/Cataclysm-DDA/pull/64614))
 * Avoid spilling items into the original item. ([#64615](https://github.com/CleverRaven/Cataclysm-DDA/pull/64615))
-* Unhardcode oter_id migrations ([#64564](https://github.com/CleverRaven/Cataclysm-DDA/pull/64564))
 * Routine tileset updates on 26 March 2023 ([#64608](https://github.com/CleverRaven/Cataclysm-DDA/pull/64608))
 * [Xedra Evolved] Summon Light now cost 600 mana, not 6 ([#64596](https://github.com/CleverRaven/Cataclysm-DDA/pull/64596))
 * Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
