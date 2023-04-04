@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-04-1236 ([7c027dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1236))
+
 * Standard house variant distribution, survivor homes, doormats ([#64678](https://github.com/CleverRaven/Cataclysm-DDA/pull/64678))
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
 * Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
@@ -189,11 +194,6 @@
 * inventory_ui: improve pickup header ([#64664](https://github.com/CleverRaven/Cataclysm-DDA/pull/64664))
 * Add fast scrolling support to camp mission UI ([#64669](https://github.com/CleverRaven/Cataclysm-DDA/pull/64669))
 * Prevent the gun shooting sound from being played when player using a bow with damper. ([#64670](https://github.com/CleverRaven/Cataclysm-DDA/pull/64670))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-29-2347 ([98801d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-29-2347))
-
 * Interface: color themes: add solarized ([#64676](https://github.com/CleverRaven/Cataclysm-DDA/pull/64676))
 * Add myself to comment-commands.yml file so I can confirm bugs ([#64660](https://github.com/CleverRaven/Cataclysm-DDA/pull/64660))
 * Properly split changelog lines ([#64630](https://github.com/CleverRaven/Cataclysm-DDA/pull/64630))
