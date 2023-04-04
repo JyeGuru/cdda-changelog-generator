@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-04-0530 ([0106b1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-0530))
+
 * JSON sewer mapgen ([#64793](https://github.com/CleverRaven/Cataclysm-DDA/pull/64793))
 
 ---
@@ -190,11 +195,6 @@
 * Interface: color themes: add solarized ([#64676](https://github.com/CleverRaven/Cataclysm-DDA/pull/64676))
 * Add myself to comment-commands.yml file so I can confirm bugs ([#64660](https://github.com/CleverRaven/Cataclysm-DDA/pull/64660))
 * Properly split changelog lines ([#64630](https://github.com/CleverRaven/Cataclysm-DDA/pull/64630))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-29-0536 ([a66bf06](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-29-0536))
-
 * Allow bulk cooking of salisfy + dahlia and remove unhealthiness ([#64645](https://github.com/CleverRaven/Cataclysm-DDA/pull/64645))
 * Update mapgen documents ([#64565](https://github.com/CleverRaven/Cataclysm-DDA/pull/64565))
 * Allow displaying recipe description for recipes without results ([#64623](https://github.com/CleverRaven/Cataclysm-DDA/pull/64623))
