@@ -1,3 +1,4 @@
+* Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
 
 ---
@@ -197,7 +198,6 @@
 * Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
 * Add unique feline mutations to extra_mut_scen mod ([#64637](https://github.com/CleverRaven/Cataclysm-DDA/pull/64637))
 * [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
-* Don't try to display empty effects in player info page ([#64631](https://github.com/CleverRaven/Cataclysm-DDA/pull/64631))
 * Fix compiler warning uninitialized anonymous func ([#64638](https://github.com/CleverRaven/Cataclysm-DDA/pull/64638))
 * Fix compiler warning for uninitialized limb_type ([#64635](https://github.com/CleverRaven/Cataclysm-DDA/pull/64635))
 * Implement unused CLOSE_ADV_INV option ([#64639](https://github.com/CleverRaven/Cataclysm-DDA/pull/64639))

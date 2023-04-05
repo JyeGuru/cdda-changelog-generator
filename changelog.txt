@@ -1,3 +1,4 @@
+* Remove myself from Codeowner of lang/ (#64852)
 * Cache values of statistics in value constraints (#64844)
 
 Cataclysm-DDA experimental build 2023-04-05-1107 (719f8ea)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2023-03-31-0728 (5aac1e5)
 * Remove extra quotation mark (#64703)
 * Add unique feline mutations to extra_mut_scen mod (#64637)
 * [Xedra Evolved] Electronic home doors (#64661)
-* Don't try to display empty effects in player info page (#64631)
 * Fix compiler warning uninitialized anonymous func (#64638)
 * Fix compiler warning for uninitialized limb_type (#64635)
 * Implement unused CLOSE_ADV_INV option (#64639)
