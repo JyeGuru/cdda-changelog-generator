@@ -1,3 +1,4 @@
+* Mouse hover support for inventory screens ([#64632](https://github.com/CleverRaven/Cataclysm-DDA/pull/64632))
 * remove skill rust option ([#64708](https://github.com/CleverRaven/Cataclysm-DDA/pull/64708))
 * [bombastic perks] cleaned up prereqs stuff ([#64792](https://github.com/CleverRaven/Cataclysm-DDA/pull/64792))
 * Improve too small screen resize calculations ([#64804](https://github.com/CleverRaven/Cataclysm-DDA/pull/64804))
@@ -217,7 +218,6 @@
 * Add myself to comment-commands.yml file so I can confirm bugs ([#64660](https://github.com/CleverRaven/Cataclysm-DDA/pull/64660))
 * Properly split changelog lines ([#64630](https://github.com/CleverRaven/Cataclysm-DDA/pull/64630))
 * Allow bulk cooking of salisfy + dahlia and remove unhealthiness ([#64645](https://github.com/CleverRaven/Cataclysm-DDA/pull/64645))
-* Allow displaying recipe description for recipes without results ([#64623](https://github.com/CleverRaven/Cataclysm-DDA/pull/64623))
 * plank recipe: make 8 instead of 1 + 7 ([#64624](https://github.com/CleverRaven/Cataclysm-DDA/pull/64624))
 * Fix spell display bug ([#64628](https://github.com/CleverRaven/Cataclysm-DDA/pull/64628))
 * Add context to physical activity text json field so that it can be translated properly ([#64629](https://github.com/CleverRaven/Cataclysm-DDA/pull/64629))
