@@ -1,3 +1,9 @@
+* Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-05-1107 ([719f8ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-1107))
+
 * Fix more json errors ([#64800](https://github.com/CleverRaven/Cataclysm-DDA/pull/64800))
 
 ---
@@ -198,11 +204,6 @@
 * Drug lab roof ([#64702](https://github.com/CleverRaven/Cataclysm-DDA/pull/64702))
 * Mutable mine roof ([#64704](https://github.com/CleverRaven/Cataclysm-DDA/pull/64704))
 * Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-31-0243 ([1002dd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0243))
-
 * Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
 * Add unique feline mutations to extra_mut_scen mod ([#64637](https://github.com/CleverRaven/Cataclysm-DDA/pull/64637))
 * [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
@@ -218,5 +219,4 @@
 * Prevent the gun shooting sound from being played when player using a bow with damper. ([#64670](https://github.com/CleverRaven/Cataclysm-DDA/pull/64670))
 * Interface: color themes: add solarized ([#64676](https://github.com/CleverRaven/Cataclysm-DDA/pull/64676))
 * Add myself to comment-commands.yml file so I can confirm bugs ([#64660](https://github.com/CleverRaven/Cataclysm-DDA/pull/64660))
-* Properly split changelog lines ([#64630](https://github.com/CleverRaven/Cataclysm-DDA/pull/64630))
 * Allow bulk cooking of salisfy + dahlia and remove unhealthiness ([#64645](https://github.com/CleverRaven/Cataclysm-DDA/pull/64645))
