@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-05-0321 ([32e04e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-0321))
+
+* Update COMPILING.md C++14 reference to C++17 ([#64724](https://github.com/CleverRaven/Cataclysm-DDA/pull/64724))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-04-1402 ([e084982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1402))
 
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
@@ -210,7 +216,6 @@
 * Routine tileset updates on 26 March 2023 ([#64608](https://github.com/CleverRaven/Cataclysm-DDA/pull/64608))
 * [Xedra Evolved] Summon Light now cost 600 mana, not 6 ([#64596](https://github.com/CleverRaven/Cataclysm-DDA/pull/64596))
 * Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
-* Change toad_in_hole recipe to use toast ([#64580](https://github.com/CleverRaven/Cataclysm-DDA/pull/64580))
 * Make android build working again ([#64585](https://github.com/CleverRaven/Cataclysm-DDA/pull/64585))
 * Allow displaying unavailable dialogue options ([#64584](https://github.com/CleverRaven/Cataclysm-DDA/pull/64584))
 * Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))
