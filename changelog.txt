@@ -117,8 +117,6 @@ Cataclysm-DDA experimental build 2023-03-31-1431 (efbcd28)
 
 Cataclysm-DDA experimental build 2023-03-31-0728 (5aac1e5)
 * Gives sugar beet syrup a batch crafting time (#64689)
-
-Cataclysm-DDA experimental build 2023-03-31-0519 (1df1844)
 * Preparation for upgrading to clang-tidy 16 (#64694)
 * Fix "Play Now" options bringing up the world generation prompt (#64659)
 * [Magiclysm] Can improve stonefist now (#64668)

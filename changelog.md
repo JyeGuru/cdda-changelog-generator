@@ -186,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2023-03-31-0728 ([5aac1e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0728))
 
 * Gives sugar beet syrup a batch crafting time ([#64689](https://github.com/CleverRaven/Cataclysm-DDA/pull/64689))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-31-0519 ([1df1844](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0519))
-
 * Preparation for upgrading to clang-tidy 16 ([#64694](https://github.com/CleverRaven/Cataclysm-DDA/pull/64694))
 * Fix "Play Now" options bringing up the world generation prompt ([#64659](https://github.com/CleverRaven/Cataclysm-DDA/pull/64659))
 * [Magiclysm] Can improve stonefist now ([#64668](https://github.com/CleverRaven/Cataclysm-DDA/pull/64668))
