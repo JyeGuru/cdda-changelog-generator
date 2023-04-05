@@ -1,3 +1,14 @@
+* Prevent scavenger survirvor's direction randomization overflow ([#64841](https://github.com/CleverRaven/Cataclysm-DDA/pull/64841))
+* remove mention of never used WALL_CLING_FOURTH ([#64842](https://github.com/CleverRaven/Cataclysm-DDA/pull/64842))
+* fix sewer json ([#64847](https://github.com/CleverRaven/Cataclysm-DDA/pull/64847))
+* Character::use_amount() returns consumed items' content ([#64846](https://github.com/CleverRaven/Cataclysm-DDA/pull/64846))
+* Leather community pride flag doesn't repeat itself in its description ([#64821](https://github.com/CleverRaven/Cataclysm-DDA/pull/64821))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-05-0602 ([7c07587](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-0602))
+
+* Add `looks_like` to `22_casing_new` ([#64820](https://github.com/CleverRaven/Cataclysm-DDA/pull/64820))
 * Add path filter in clang-tidy.yml ([#64845](https://github.com/CleverRaven/Cataclysm-DDA/pull/64845))
 
 ---
@@ -185,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2023-03-30-1654 ([801daa4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-1654))
 
 * Add unique feline mutations to extra_mut_scen mod ([#64637](https://github.com/CleverRaven/Cataclysm-DDA/pull/64637))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-30-1301 ([dff5ec1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-30-1301))
-
 * [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
 * Make all tile lights destroyable by smashing and shooting ([#64610](https://github.com/CleverRaven/Cataclysm-DDA/pull/64610))
 * Don't try to display empty effects in player info page ([#64631](https://github.com/CleverRaven/Cataclysm-DDA/pull/64631))
@@ -215,7 +221,3 @@
 * Build Universal Binary on macOS ([#64614](https://github.com/CleverRaven/Cataclysm-DDA/pull/64614))
 * Avoid spilling items into the original item. ([#64615](https://github.com/CleverRaven/Cataclysm-DDA/pull/64615))
 * Routine tileset updates on 26 March 2023 ([#64608](https://github.com/CleverRaven/Cataclysm-DDA/pull/64608))
-* [Xedra Evolved] Summon Light now cost 600 mana, not 6 ([#64596](https://github.com/CleverRaven/Cataclysm-DDA/pull/64596))
-* Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
-* Make android build working again ([#64585](https://github.com/CleverRaven/Cataclysm-DDA/pull/64585))
-* Allow displaying unavailable dialogue options ([#64584](https://github.com/CleverRaven/Cataclysm-DDA/pull/64584))
