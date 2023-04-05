@@ -120,8 +120,6 @@ Cataclysm-DDA experimental build 2023-03-31-0728 (5aac1e5)
 
 Cataclysm-DDA experimental build 2023-03-31-0519 (1df1844)
 * Preparation for upgrading to clang-tidy 16 (#64694)
-
-Cataclysm-DDA experimental build 2023-03-31-0402 (fc74bce)
 * Fix "Play Now" options bringing up the world generation prompt (#64659)
 * [Magiclysm] Can improve stonefist now (#64668)
 * Add LSArchitecturePriority property in macOS Info.plist (#64690)

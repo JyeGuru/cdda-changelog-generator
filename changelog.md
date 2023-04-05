@@ -192,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2023-03-31-0519 ([1df1844](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0519))
 
 * Preparation for upgrading to clang-tidy 16 ([#64694](https://github.com/CleverRaven/Cataclysm-DDA/pull/64694))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-31-0402 ([fc74bce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0402))
-
 * Fix "Play Now" options bringing up the world generation prompt ([#64659](https://github.com/CleverRaven/Cataclysm-DDA/pull/64659))
 * [Magiclysm] Can improve stonefist now ([#64668](https://github.com/CleverRaven/Cataclysm-DDA/pull/64668))
 * Add LSArchitecturePriority property in macOS Info.plist ([#64690](https://github.com/CleverRaven/Cataclysm-DDA/pull/64690))
