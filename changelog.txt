@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-04-05-0722 (c46b75a)
 * Fix blackpowder .30-06 fmj having doubled stat reduction (#64797)
 * Mouse hover support for inventory screens (#64632)
 * remove skill rust option (#64708)
@@ -126,8 +128,6 @@ Cataclysm-DDA experimental build 2023-03-31-0402 (fc74bce)
 
 Cataclysm-DDA experimental build 2023-03-31-0243 (1002dd6)
 * Remove extra quotation mark (#64703)
-
-Cataclysm-DDA experimental build 2023-03-30-1654 (801daa4)
 * Add unique feline mutations to extra_mut_scen mod (#64637)
 * [Xedra Evolved] Electronic home doors (#64661)
 * Don't try to display empty effects in player info page (#64631)
