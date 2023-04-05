@@ -1,3 +1,4 @@
+* Fix more json errors ([#64800](https://github.com/CleverRaven/Cataclysm-DDA/pull/64800))
 
 ---
 
@@ -219,4 +220,3 @@
 * Add myself to comment-commands.yml file so I can confirm bugs ([#64660](https://github.com/CleverRaven/Cataclysm-DDA/pull/64660))
 * Properly split changelog lines ([#64630](https://github.com/CleverRaven/Cataclysm-DDA/pull/64630))
 * Allow bulk cooking of salisfy + dahlia and remove unhealthiness ([#64645](https://github.com/CleverRaven/Cataclysm-DDA/pull/64645))
-* Add context to physical activity text json field so that it can be translated properly ([#64629](https://github.com/CleverRaven/Cataclysm-DDA/pull/64629))
