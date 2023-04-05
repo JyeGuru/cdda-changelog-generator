@@ -1,3 +1,8 @@
+* Improve too small screen resize calculations ([#64804](https://github.com/CleverRaven/Cataclysm-DDA/pull/64804))
+* Character sheet mouse support ([#64819](https://github.com/CleverRaven/Cataclysm-DDA/pull/64819))
+* Make NPC guards complain at player stealing items ([#64822](https://github.com/CleverRaven/Cataclysm-DDA/pull/64822))
+* Enable custom sprite for swivel chairs ([#64825](https://github.com/CleverRaven/Cataclysm-DDA/pull/64825))
+* Fix update mapgen error ([#64837](https://github.com/CleverRaven/Cataclysm-DDA/pull/64837))
 * Prevent scavenger survirvor's direction randomization overflow ([#64841](https://github.com/CleverRaven/Cataclysm-DDA/pull/64841))
 * remove mention of never used WALL_CLING_FOURTH ([#64842](https://github.com/CleverRaven/Cataclysm-DDA/pull/64842))
 * fix sewer json ([#64847](https://github.com/CleverRaven/Cataclysm-DDA/pull/64847))
@@ -189,7 +194,6 @@
 #### Cataclysm-DDA experimental build 2023-03-31-0243 ([1002dd6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0243))
 
 * Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
-* Character Creation Audit ([#64609](https://github.com/CleverRaven/Cataclysm-DDA/pull/64609))
 
 ---
 
@@ -197,7 +201,6 @@
 
 * Add unique feline mutations to extra_mut_scen mod ([#64637](https://github.com/CleverRaven/Cataclysm-DDA/pull/64637))
 * [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
-* Make all tile lights destroyable by smashing and shooting ([#64610](https://github.com/CleverRaven/Cataclysm-DDA/pull/64610))
 * Don't try to display empty effects in player info page ([#64631](https://github.com/CleverRaven/Cataclysm-DDA/pull/64631))
 * Fix compiler warning uninitialized anonymous func ([#64638](https://github.com/CleverRaven/Cataclysm-DDA/pull/64638))
 * Fix compiler warning for uninitialized limb_type ([#64635](https://github.com/CleverRaven/Cataclysm-DDA/pull/64635))
@@ -218,6 +221,3 @@
 * Add context to physical activity text json field so that it can be translated properly ([#64629](https://github.com/CleverRaven/Cataclysm-DDA/pull/64629))
 * Removed myself from codeowners and maintainers of No Hope mod ([#64618](https://github.com/CleverRaven/Cataclysm-DDA/pull/64618))
 * [Xedra Evolved] fix dreamsmith inability to obtain a plates recipes ([#64616](https://github.com/CleverRaven/Cataclysm-DDA/pull/64616))
-* Build Universal Binary on macOS ([#64614](https://github.com/CleverRaven/Cataclysm-DDA/pull/64614))
-* Avoid spilling items into the original item. ([#64615](https://github.com/CleverRaven/Cataclysm-DDA/pull/64615))
-* Routine tileset updates on 26 March 2023 ([#64608](https://github.com/CleverRaven/Cataclysm-DDA/pull/64608))
