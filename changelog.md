@@ -1,3 +1,4 @@
+* Add path filter in clang-tidy.yml ([#64845](https://github.com/CleverRaven/Cataclysm-DDA/pull/64845))
 
 ---
 
@@ -218,4 +219,3 @@
 * Update Tamable_Wildlife Birds ([#64602](https://github.com/CleverRaven/Cataclysm-DDA/pull/64602))
 * Make android build working again ([#64585](https://github.com/CleverRaven/Cataclysm-DDA/pull/64585))
 * Allow displaying unavailable dialogue options ([#64584](https://github.com/CleverRaven/Cataclysm-DDA/pull/64584))
-* Revive 62664 ([#64582](https://github.com/CleverRaven/Cataclysm-DDA/pull/64582))

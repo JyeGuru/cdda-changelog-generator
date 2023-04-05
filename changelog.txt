@@ -1,3 +1,4 @@
+* Add path filter in clang-tidy.yml (#64845)
 
 Cataclysm-DDA experimental build 2023-04-05-0321 (32e04e0)
 * Update COMPILING.md C++14 reference to C++17 (#64724)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2023-03-30-1301 (dff5ec1)
 * Update Tamable_Wildlife Birds (#64602)
 * Make android build working again (#64585)
 * Allow displaying unavailable dialogue options (#64584)
-* Revive 62664 (#64582)
