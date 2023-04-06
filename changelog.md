@@ -1,3 +1,4 @@
+* Update vcpkg configuration, again ([#64874](https://github.com/CleverRaven/Cataclysm-DDA/pull/64874))
 
 ---
 
@@ -200,7 +201,6 @@
 * Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
 * Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
 * [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
-* Fix compiler warning uninitialized anonymous func ([#64638](https://github.com/CleverRaven/Cataclysm-DDA/pull/64638))
 * Implement unused CLOSE_ADV_INV option ([#64639](https://github.com/CleverRaven/Cataclysm-DDA/pull/64639))
 * Update pull-translations.yml ([#64646](https://github.com/CleverRaven/Cataclysm-DDA/pull/64646))
 * Nerf boiled lentils morale and add more ingredients to succotash ([#64649](https://github.com/CleverRaven/Cataclysm-DDA/pull/64649))
