@@ -1,3 +1,4 @@
+* fix broken anchors on faction lore page (#64814)
 * Remove myself from Codeowner of lang/ (#64852)
 * Cache values of statistics in value constraints (#64844)
 
@@ -6,7 +7,6 @@ Cataclysm-DDA experimental build 2023-04-05-1107 (719f8ea)
 
 Cataclysm-DDA experimental build 2023-04-05-0722 (c46b75a)
 * Fix blackpowder .30-06 fmj having doubled stat reduction (#64797)
-* Mouse hover support for inventory screens (#64632)
 * remove skill rust option (#64708)
 * [bombastic perks] cleaned up prereqs stuff (#64792)
 * Improve too small screen resize calculations (#64804)

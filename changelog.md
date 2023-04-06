@@ -1,3 +1,4 @@
+* fix broken anchors on faction lore page ([#64814](https://github.com/CleverRaven/Cataclysm-DDA/pull/64814))
 * Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
 
@@ -12,7 +13,6 @@
 #### Cataclysm-DDA experimental build 2023-04-05-0722 ([c46b75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-0722))
 
 * Fix blackpowder .30-06 fmj having doubled stat reduction ([#64797](https://github.com/CleverRaven/Cataclysm-DDA/pull/64797))
-* Mouse hover support for inventory screens ([#64632](https://github.com/CleverRaven/Cataclysm-DDA/pull/64632))
 * remove skill rust option ([#64708](https://github.com/CleverRaven/Cataclysm-DDA/pull/64708))
 * [bombastic perks] cleaned up prereqs stuff ([#64792](https://github.com/CleverRaven/Cataclysm-DDA/pull/64792))
 * Improve too small screen resize calculations ([#64804](https://github.com/CleverRaven/Cataclysm-DDA/pull/64804))
