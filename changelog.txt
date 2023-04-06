@@ -6,8 +6,6 @@ Cataclysm-DDA experimental build 2023-04-06-1041 (8ed8e10)
 * fix broken anchors on faction lore page (#64814)
 * Remove myself from Codeowner of lang/ (#64852)
 * Cache values of statistics in value constraints (#64844)
-
-Cataclysm-DDA experimental build 2023-04-05-1107 (719f8ea)
 * Fix more json errors (#64800)
 
 Cataclysm-DDA experimental build 2023-04-05-0722 (c46b75a)
@@ -31,8 +29,6 @@ Cataclysm-DDA experimental build 2023-04-05-0602 (7c07587)
 
 Cataclysm-DDA experimental build 2023-04-05-0321 (32e04e0)
 * Update COMPILING.md C++14 reference to C++17 (#64724)
-
-Cataclysm-DDA experimental build 2023-04-04-1402 (e084982)
 * Deduplicate failure msg for action attempted mounted or underwater (#64817)
 
 Cataclysm-DDA experimental build 2023-04-04-1236 (7c027dd)
@@ -119,6 +115,8 @@ Cataclysm-DDA experimental build 2023-03-31-1431 (efbcd28)
 * Marks hunting lodge and campground as man-made (#64715)
 * Tutorial spilled paint fix (#64714)
 * create avatar_dies event (#64685)
+
+Cataclysm-DDA experimental build 2023-03-31-0728 (5aac1e5)
 * Gives sugar beet syrup a batch crafting time (#64689)
 * Preparation for upgrading to clang-tidy 16 (#64694)
 * Fix "Play Now" options bringing up the world generation prompt (#64659)

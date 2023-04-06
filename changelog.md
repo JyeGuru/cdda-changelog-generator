@@ -9,11 +9,6 @@
 * fix broken anchors on faction lore page ([#64814](https://github.com/CleverRaven/Cataclysm-DDA/pull/64814))
 * Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-05-1107 ([719f8ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-1107))
-
 * Fix more json errors ([#64800](https://github.com/CleverRaven/Cataclysm-DDA/pull/64800))
 
 ---
@@ -46,11 +41,6 @@
 #### Cataclysm-DDA experimental build 2023-04-05-0321 ([32e04e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-0321))
 
 * Update COMPILING.md C++14 reference to C++17 ([#64724](https://github.com/CleverRaven/Cataclysm-DDA/pull/64724))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-04-1402 ([e084982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1402))
-
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
 
 ---
@@ -188,6 +178,11 @@
 * Marks hunting lodge and campground as man-made ([#64715](https://github.com/CleverRaven/Cataclysm-DDA/pull/64715))
 * Tutorial spilled paint fix ([#64714](https://github.com/CleverRaven/Cataclysm-DDA/pull/64714))
 * create avatar_dies event ([#64685](https://github.com/CleverRaven/Cataclysm-DDA/pull/64685))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-03-31-0728 ([5aac1e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0728))
+
 * Gives sugar beet syrup a batch crafting time ([#64689](https://github.com/CleverRaven/Cataclysm-DDA/pull/64689))
 * Preparation for upgrading to clang-tidy 16 ([#64694](https://github.com/CleverRaven/Cataclysm-DDA/pull/64694))
 * Fix "Play Now" options bringing up the world generation prompt ([#64659](https://github.com/CleverRaven/Cataclysm-DDA/pull/64659))
