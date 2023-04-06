@@ -181,11 +181,6 @@
 * Marks hunting lodge and campground as man-made ([#64715](https://github.com/CleverRaven/Cataclysm-DDA/pull/64715))
 * Tutorial spilled paint fix ([#64714](https://github.com/CleverRaven/Cataclysm-DDA/pull/64714))
 * create avatar_dies event ([#64685](https://github.com/CleverRaven/Cataclysm-DDA/pull/64685))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-31-0728 ([5aac1e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-0728))
-
 * Gives sugar beet syrup a batch crafting time ([#64689](https://github.com/CleverRaven/Cataclysm-DDA/pull/64689))
 * Preparation for upgrading to clang-tidy 16 ([#64694](https://github.com/CleverRaven/Cataclysm-DDA/pull/64694))
 * Fix "Play Now" options bringing up the world generation prompt ([#64659](https://github.com/CleverRaven/Cataclysm-DDA/pull/64659))
