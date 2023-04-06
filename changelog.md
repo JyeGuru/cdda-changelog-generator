@@ -1,3 +1,4 @@
+* Fix flaky uncraft test ([#64882](https://github.com/CleverRaven/Cataclysm-DDA/pull/64882))
 
 ---
 
@@ -201,7 +202,6 @@
 * Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
 * Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
 * [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
-* Implement unused CLOSE_ADV_INV option ([#64639](https://github.com/CleverRaven/Cataclysm-DDA/pull/64639))
 * Update pull-translations.yml ([#64646](https://github.com/CleverRaven/Cataclysm-DDA/pull/64646))
 * Nerf boiled lentils morale and add more ingredients to succotash ([#64649](https://github.com/CleverRaven/Cataclysm-DDA/pull/64649))
 * If item has two use actions, show both in Use Item menu ([#64663](https://github.com/CleverRaven/Cataclysm-DDA/pull/64663))
