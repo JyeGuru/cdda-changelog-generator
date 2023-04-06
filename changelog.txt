@@ -1,3 +1,4 @@
+* Refactor monster::plan to something more readable and encapsulated (#64656)
 * fix broken anchors on faction lore page (#64814)
 * Remove myself from Codeowner of lang/ (#64852)
 * Cache values of statistics in value constraints (#64844)
@@ -42,7 +43,6 @@ Cataclysm-DDA experimental build 2023-04-04-1123 (0d9ad8e)
 * remove unused comestible radiation (#64766)
 * Fix auto_attacking barehanded NPC crash (#64772)
 * Standarized Makaylas (#64773)
-* Fix ammo's charge being reduced when calculating reload move_points (#64634)
 * [innawood] Cave ramp fixes (#64652)
 
 Cataclysm-DDA experimental build 2023-04-04-0530 (0106b1d)

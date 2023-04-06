@@ -1,3 +1,4 @@
+* Refactor monster::plan to something more readable and encapsulated ([#64656](https://github.com/CleverRaven/Cataclysm-DDA/pull/64656))
 * fix broken anchors on faction lore page ([#64814](https://github.com/CleverRaven/Cataclysm-DDA/pull/64814))
 * Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
@@ -63,7 +64,6 @@
 * remove unused comestible radiation ([#64766](https://github.com/CleverRaven/Cataclysm-DDA/pull/64766))
 * Fix auto_attacking barehanded NPC crash ([#64772](https://github.com/CleverRaven/Cataclysm-DDA/pull/64772))
 * Standarized Makaylas ([#64773](https://github.com/CleverRaven/Cataclysm-DDA/pull/64773))
-* Fix ammo's charge being reduced when calculating reload move_points ([#64634](https://github.com/CleverRaven/Cataclysm-DDA/pull/64634))
 * [innawood] Cave ramp fixes ([#64652](https://github.com/CleverRaven/Cataclysm-DDA/pull/64652))
 
 ---
