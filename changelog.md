@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-06-1455 ([d0e1db5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-06-1455))
+
 * Update vcpkg configuration, again ([#64874](https://github.com/CleverRaven/Cataclysm-DDA/pull/64874))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2023-04-01-0137 ([9065a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-0137))
 
 * Remove stale warning about an older ccache version for visual studio. ([#64736](https://github.com/CleverRaven/Cataclysm-DDA/pull/64736))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-01-0023 ([465fac4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-0023))
-
 * Additional Location Achievements ([#64712](https://github.com/CleverRaven/Cataclysm-DDA/pull/64712))
 * Fix conditions for avatar_dies event ([#64733](https://github.com/CleverRaven/Cataclysm-DDA/pull/64733))
 * Monitor time consumption of clang-tidy checks ([#64648](https://github.com/CleverRaven/Cataclysm-DDA/pull/64648))
