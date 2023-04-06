@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-06-1337 ([40ae4a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-06-1337))
+
+* Corrects military shootout casing itemgroup ([#64865](https://github.com/CleverRaven/Cataclysm-DDA/pull/64865))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-06-1212 ([ac1f197](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-06-1212))
 
 * Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2023-04-01-0023 ([465fac4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-0023))
 
 * Additional Location Achievements ([#64712](https://github.com/CleverRaven/Cataclysm-DDA/pull/64712))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-31-1804 ([a33c958](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-1804))
-
 * Fix conditions for avatar_dies event ([#64733](https://github.com/CleverRaven/Cataclysm-DDA/pull/64733))
 * Monitor time consumption of clang-tidy checks ([#64648](https://github.com/CleverRaven/Cataclysm-DDA/pull/64648))
 * fursuit zombie no longer weighs nothing and can no longer bite ([#64650](https://github.com/CleverRaven/Cataclysm-DDA/pull/64650))
@@ -198,7 +199,6 @@
 * Mutable mine roof ([#64704](https://github.com/CleverRaven/Cataclysm-DDA/pull/64704))
 * Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
 * Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
-* Add unique feline mutations to extra_mut_scen mod ([#64637](https://github.com/CleverRaven/Cataclysm-DDA/pull/64637))
 * [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
 * Fix compiler warning uninitialized anonymous func ([#64638](https://github.com/CleverRaven/Cataclysm-DDA/pull/64638))
 * Implement unused CLOSE_ADV_INV option ([#64639](https://github.com/CleverRaven/Cataclysm-DDA/pull/64639))
