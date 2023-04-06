@@ -1,3 +1,4 @@
+* Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
 * Unify gutters: glass workshop ([#64831](https://github.com/CleverRaven/Cataclysm-DDA/pull/64831))
 
 ---

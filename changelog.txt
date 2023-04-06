@@ -1,3 +1,4 @@
+* Remove NOITEM flag from gutter drops (#64871)
 * Unify gutters: glass workshop (#64831)
 
 Cataclysm-DDA experimental build 2023-04-06-1041 (8ed8e10)
