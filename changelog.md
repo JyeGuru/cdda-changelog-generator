@@ -1,3 +1,4 @@
+* Unify gutters: glass workshop ([#64831](https://github.com/CleverRaven/Cataclysm-DDA/pull/64831))
 
 ---
 
@@ -199,7 +200,6 @@
 * Add unique feline mutations to extra_mut_scen mod ([#64637](https://github.com/CleverRaven/Cataclysm-DDA/pull/64637))
 * [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
 * Fix compiler warning uninitialized anonymous func ([#64638](https://github.com/CleverRaven/Cataclysm-DDA/pull/64638))
-* Fix compiler warning for uninitialized limb_type ([#64635](https://github.com/CleverRaven/Cataclysm-DDA/pull/64635))
 * Implement unused CLOSE_ADV_INV option ([#64639](https://github.com/CleverRaven/Cataclysm-DDA/pull/64639))
 * Update pull-translations.yml ([#64646](https://github.com/CleverRaven/Cataclysm-DDA/pull/64646))
 * Nerf boiled lentils morale and add more ingredients to succotash ([#64649](https://github.com/CleverRaven/Cataclysm-DDA/pull/64649))

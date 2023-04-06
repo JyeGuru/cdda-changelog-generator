@@ -1,3 +1,4 @@
+* Unify gutters: glass workshop (#64831)
 
 Cataclysm-DDA experimental build 2023-04-06-1041 (8ed8e10)
 * Refactor monster::plan to something more readable and encapsulated (#64656)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2023-03-31-1431 (efbcd28)
 * Add unique feline mutations to extra_mut_scen mod (#64637)
 * [Xedra Evolved] Electronic home doors (#64661)
 * Fix compiler warning uninitialized anonymous func (#64638)
-* Fix compiler warning for uninitialized limb_type (#64635)
 * Implement unused CLOSE_ADV_INV option (#64639)
 * Update pull-translations.yml (#64646)
 * Nerf boiled lentils morale and add more ingredients to succotash (#64649)
