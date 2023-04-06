@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-04-06-1212 (ac1f197)
 * Remove NOITEM flag from gutter drops (#64871)
 * Unify gutters: glass workshop (#64831)
 
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2023-04-01-0023 (465fac4)
 
 Cataclysm-DDA experimental build 2023-03-31-1804 (a33c958)
 * Fix conditions for avatar_dies event (#64733)
-
-Cataclysm-DDA experimental build 2023-03-31-1431 (efbcd28)
 * Monitor time consumption of clang-tidy checks (#64648)
 * fursuit zombie no longer weighs nothing and can no longer bite (#64650)
 * not to bee (#64679)

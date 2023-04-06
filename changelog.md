@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-06-1212 ([ac1f197](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-06-1212))
+
 * Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
 * Unify gutters: glass workshop ([#64831](https://github.com/CleverRaven/Cataclysm-DDA/pull/64831))
 
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2023-03-31-1804 ([a33c958](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-1804))
 
 * Fix conditions for avatar_dies event ([#64733](https://github.com/CleverRaven/Cataclysm-DDA/pull/64733))
-
----
-
-#### Cataclysm-DDA experimental build 2023-03-31-1431 ([efbcd28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-03-31-1431))
-
 * Monitor time consumption of clang-tidy checks ([#64648](https://github.com/CleverRaven/Cataclysm-DDA/pull/64648))
 * fursuit zombie no longer weighs nothing and can no longer bite ([#64650](https://github.com/CleverRaven/Cataclysm-DDA/pull/64650))
 * not to bee ([#64679](https://github.com/CleverRaven/Cataclysm-DDA/pull/64679))
