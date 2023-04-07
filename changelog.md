@@ -1,3 +1,4 @@
+* [Bombastic Perks] Perk config menu ([#64889](https://github.com/CleverRaven/Cataclysm-DDA/pull/64889))
 * Add EOC martial arts support ([#64891](https://github.com/CleverRaven/Cataclysm-DDA/pull/64891))
 * Update docs for the VS AStyle extension ([#64896](https://github.com/CleverRaven/Cataclysm-DDA/pull/64896))
 * Fix description and doc ([#64899](https://github.com/CleverRaven/Cataclysm-DDA/pull/64899))
@@ -35,12 +36,6 @@
 #### Cataclysm-DDA experimental build 2023-04-07-0723 ([b836ae3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0723))
 
 * Remove SMG type from repeating crossbow ([#64873](https://github.com/CleverRaven/Cataclysm-DDA/pull/64873))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-07-0505 ([451f26b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0505))
-
-* Make elephant gun a double rifle to match reality ([#64674](https://github.com/CleverRaven/Cataclysm-DDA/pull/64674))
 
 ---
 

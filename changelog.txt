@@ -1,3 +1,4 @@
+* [Bombastic Perks] Perk config menu (#64889)
 * Add EOC martial arts support (#64891)
 * Update docs for the VS AStyle extension (#64896)
 * Fix description and doc (#64899)
@@ -20,9 +21,6 @@ Cataclysm-DDA experimental build 2023-04-07-1049 (2206bd7)
 
 Cataclysm-DDA experimental build 2023-04-07-0723 (b836ae3)
 * Remove SMG type from repeating crossbow (#64873)
-
-Cataclysm-DDA experimental build 2023-04-07-0505 (451f26b)
-* Make elephant gun a double rifle to match reality (#64674)
 
 Cataclysm-DDA experimental build 2023-04-07-0048 (80c3ec5)
 * Monsters will now fire at moving vehicles (#64801)
