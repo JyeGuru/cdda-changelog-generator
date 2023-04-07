@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-07-1548 ([fef3110](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1548))
+
+* Roof palettizing: home improvement superstore ([#64866](https://github.com/CleverRaven/Cataclysm-DDA/pull/64866))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-07-1207 ([b9581d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1207))
 
 * Fix divide by zero issue ([#64888](https://github.com/CleverRaven/Cataclysm-DDA/pull/64888))
@@ -155,11 +161,6 @@
 
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments ([#64777](https://github.com/CleverRaven/Cataclysm-DDA/pull/64777))
 * Remove absent codeowners, fix path case ([#64769](https://github.com/CleverRaven/Cataclysm-DDA/pull/64769))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-02-1235 ([2adbbc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-1235))
-
 * [Perks Mod] Popeye the Sailor man Perk ([#64751](https://github.com/CleverRaven/Cataclysm-DDA/pull/64751))
 * Correct 7.62x54R description ([#64746](https://github.com/CleverRaven/Cataclysm-DDA/pull/64746))
 * Electronic locks in vanilla ([#64748](https://github.com/CleverRaven/Cataclysm-DDA/pull/64748))
@@ -199,4 +200,3 @@
 * Add fast scrolling support to camp mission UI ([#64669](https://github.com/CleverRaven/Cataclysm-DDA/pull/64669))
 * Prevent the gun shooting sound from being played when player using a bow with damper. ([#64670](https://github.com/CleverRaven/Cataclysm-DDA/pull/64670))
 * Interface: color themes: add solarized ([#64676](https://github.com/CleverRaven/Cataclysm-DDA/pull/64676))
-* Add myself to comment-commands.yml file so I can confirm bugs ([#64660](https://github.com/CleverRaven/Cataclysm-DDA/pull/64660))
