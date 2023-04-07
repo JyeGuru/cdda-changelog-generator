@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-07-1049 ([2206bd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1049))
+
+* feral cops become zombie cops ([#64828](https://github.com/CleverRaven/Cataclysm-DDA/pull/64828))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-07-0723 ([b836ae3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0723))
 
 * Remove SMG type from repeating crossbow ([#64873](https://github.com/CleverRaven/Cataclysm-DDA/pull/64873))
@@ -107,7 +113,6 @@
 * remove unused comestible radiation ([#64766](https://github.com/CleverRaven/Cataclysm-DDA/pull/64766))
 * Fix auto_attacking barehanded NPC crash ([#64772](https://github.com/CleverRaven/Cataclysm-DDA/pull/64772))
 * Standarized Makaylas ([#64773](https://github.com/CleverRaven/Cataclysm-DDA/pull/64773))
-* [innawood] Cave ramp fixes ([#64652](https://github.com/CleverRaven/Cataclysm-DDA/pull/64652))
 
 ---
 
@@ -160,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2023-04-02-0551 ([fb313d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-0551))
 
 * Correct 7.62x54R description ([#64746](https://github.com/CleverRaven/Cataclysm-DDA/pull/64746))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-02-0321 ([f3c5432](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-0321))
-
 * Electronic locks in vanilla ([#64748](https://github.com/CleverRaven/Cataclysm-DDA/pull/64748))
 * Motel cleanup ([#64726](https://github.com/CleverRaven/Cataclysm-DDA/pull/64726))
 * Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))
