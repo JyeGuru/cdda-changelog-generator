@@ -1,3 +1,4 @@
+* Mouse hover hotkey regression ([#64862](https://github.com/CleverRaven/Cataclysm-DDA/pull/64862))
 * Validate main_tool to prevent some CTD ([#64877](https://github.com/CleverRaven/Cataclysm-DDA/pull/64877))
 * [Bombastic Perks] Perk config menu ([#64889](https://github.com/CleverRaven/Cataclysm-DDA/pull/64889))
 * Add EOC martial arts support ([#64891](https://github.com/CleverRaven/Cataclysm-DDA/pull/64891))
@@ -109,12 +110,6 @@
 #### Cataclysm-DDA experimental build 2023-04-04-1402 ([e084982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1402))
 
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-04-1236 ([7c027dd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1236))
-
-* Standard house variant distribution, survivor homes, doormats ([#64678](https://github.com/CleverRaven/Cataclysm-DDA/pull/64678))
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
 * Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
 * Larvae health edits ([#64696](https://github.com/CleverRaven/Cataclysm-DDA/pull/64696))
