@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-07-1955 ([b7ed839](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1955))
+
+* Fix clang-tidy errors ([#64913](https://github.com/CleverRaven/Cataclysm-DDA/pull/64913))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-07-1548 ([fef3110](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1548))
 
 * Roof palettizing: home improvement superstore ([#64866](https://github.com/CleverRaven/Cataclysm-DDA/pull/64866))
@@ -154,11 +160,6 @@
 * Move aiming logic outside loop and inside ifs ([#64761](https://github.com/CleverRaven/Cataclysm-DDA/pull/64761))
 * Replace count_*_flag with has_*_flag ([#64759](https://github.com/CleverRaven/Cataclysm-DDA/pull/64759))
 * Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-02-1637 ([d9b8135](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-1637))
-
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments ([#64777](https://github.com/CleverRaven/Cataclysm-DDA/pull/64777))
 * Remove absent codeowners, fix path case ([#64769](https://github.com/CleverRaven/Cataclysm-DDA/pull/64769))
 * [Perks Mod] Popeye the Sailor man Perk ([#64751](https://github.com/CleverRaven/Cataclysm-DDA/pull/64751))
@@ -194,7 +195,6 @@
 * Mutable mine roof ([#64704](https://github.com/CleverRaven/Cataclysm-DDA/pull/64704))
 * Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
 * Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
-* [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
 * If item has two use actions, show both in Use Item menu ([#64663](https://github.com/CleverRaven/Cataclysm-DDA/pull/64663))
 * inventory_ui: improve pickup header ([#64664](https://github.com/CleverRaven/Cataclysm-DDA/pull/64664))
 * Add fast scrolling support to camp mission UI ([#64669](https://github.com/CleverRaven/Cataclysm-DDA/pull/64669))
