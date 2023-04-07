@@ -1,3 +1,5 @@
+* Fix #64903 (#64906)
+* Prevent laptop and smartphone local files spam when flashlight is used (#64904)
 
 Cataclysm-DDA experimental build 2023-04-07-1049 (2206bd7)
 * feral cops become zombie cops (#64828)
@@ -21,9 +23,6 @@ Cataclysm-DDA experimental build 2023-04-06-1337 (40ae4a8)
 Cataclysm-DDA experimental build 2023-04-06-1212 (ac1f197)
 * Remove NOITEM flag from gutter drops (#64871)
 * Unify gutters: glass workshop (#64831)
-
-Cataclysm-DDA experimental build 2023-04-06-1041 (8ed8e10)
-* Refactor monster::plan to something more readable and encapsulated (#64656)
 * fix broken anchors on faction lore page (#64814)
 * Remove myself from Codeowner of lang/ (#64852)
 * Cache values of statistics in value constraints (#64844)
