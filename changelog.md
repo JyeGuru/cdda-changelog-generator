@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-07-0723 ([b836ae3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0723))
+
+* Remove SMG type from repeating crossbow ([#64873](https://github.com/CleverRaven/Cataclysm-DDA/pull/64873))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-07-0505 ([451f26b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0505))
 
 * Make elephant gun a double rifle to match reality ([#64674](https://github.com/CleverRaven/Cataclysm-DDA/pull/64674))
@@ -160,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2023-04-02-0321 ([f3c5432](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-0321))
 
 * Electronic locks in vanilla ([#64748](https://github.com/CleverRaven/Cataclysm-DDA/pull/64748))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-01-1907 ([b9651f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-1907))
-
 * Motel cleanup ([#64726](https://github.com/CleverRaven/Cataclysm-DDA/pull/64726))
 * Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))
 * Refactor city.cpp/.h out of overmap.cpp/.h ([#64742](https://github.com/CleverRaven/Cataclysm-DDA/pull/64742))
@@ -180,7 +181,6 @@
 * Remove stale warning about an older ccache version for visual studio. ([#64736](https://github.com/CleverRaven/Cataclysm-DDA/pull/64736))
 * Additional Location Achievements ([#64712](https://github.com/CleverRaven/Cataclysm-DDA/pull/64712))
 * Fix conditions for avatar_dies event ([#64733](https://github.com/CleverRaven/Cataclysm-DDA/pull/64733))
-* fursuit zombie no longer weighs nothing and can no longer bite ([#64650](https://github.com/CleverRaven/Cataclysm-DDA/pull/64650))
 * not to bee ([#64679](https://github.com/CleverRaven/Cataclysm-DDA/pull/64679))
 * Code clean up for #64669 ([#64683](https://github.com/CleverRaven/Cataclysm-DDA/pull/64683))
 * inv_ui: never hide entries in the selection column ([#64720](https://github.com/CleverRaven/Cataclysm-DDA/pull/64720))
