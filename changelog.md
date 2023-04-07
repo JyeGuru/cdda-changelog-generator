@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-07-1207 ([b9581d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1207))
+
 * Fix divide by zero issue ([#64888](https://github.com/CleverRaven/Cataclysm-DDA/pull/64888))
 * Fix #64903 ([#64906](https://github.com/CleverRaven/Cataclysm-DDA/pull/64906))
 * Prevent laptop and smartphone local files spam when flashlight is used ([#64904](https://github.com/CleverRaven/Cataclysm-DDA/pull/64904))
@@ -156,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2023-04-02-1235 ([2adbbc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-1235))
 
 * [Perks Mod] Popeye the Sailor man Perk ([#64751](https://github.com/CleverRaven/Cataclysm-DDA/pull/64751))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-02-0551 ([fb313d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-0551))
-
 * Correct 7.62x54R description ([#64746](https://github.com/CleverRaven/Cataclysm-DDA/pull/64746))
 * Electronic locks in vanilla ([#64748](https://github.com/CleverRaven/Cataclysm-DDA/pull/64748))
 * Motel cleanup ([#64726](https://github.com/CleverRaven/Cataclysm-DDA/pull/64726))
