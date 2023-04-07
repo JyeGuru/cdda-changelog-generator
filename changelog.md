@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-07-0505 ([451f26b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0505))
+
 * Make elephant gun a double rifle to match reality ([#64674](https://github.com/CleverRaven/Cataclysm-DDA/pull/64674))
 
 ---

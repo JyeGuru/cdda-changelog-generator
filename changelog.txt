@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-04-07-0505 (451f26b)
 * Make elephant gun a double rifle to match reality (#64674)
 
 Cataclysm-DDA experimental build 2023-04-07-0048 (80c3ec5)
