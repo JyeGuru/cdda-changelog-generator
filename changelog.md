@@ -1,3 +1,9 @@
+* Palettizing: dispensary ([#64898](https://github.com/CleverRaven/Cataclysm-DDA/pull/64898))
+* Roof palettizing: bar ([#64893](https://github.com/CleverRaven/Cataclysm-DDA/pull/64893))
+* Roof palettizing: evac shelter ([#64885](https://github.com/CleverRaven/Cataclysm-DDA/pull/64885))
+* Cleanup: St. John's Farm ([#64883](https://github.com/CleverRaven/Cataclysm-DDA/pull/64883))
+* Cleanup: large power substation ([#64879](https://github.com/CleverRaven/Cataclysm-DDA/pull/64879))
+* Cleanup: landscaping supply ([#64870](https://github.com/CleverRaven/Cataclysm-DDA/pull/64870))
 * Roof palettizing: lumbermill & lumberyard ([#64869](https://github.com/CleverRaven/Cataclysm-DDA/pull/64869))
 * Enable auto pulping acidic zombies if acid protected ([#64829](https://github.com/CleverRaven/Cataclysm-DDA/pull/64829))
 * Fix pipebomb length and volume ([#64860](https://github.com/CleverRaven/Cataclysm-DDA/pull/64860))
@@ -118,14 +124,12 @@
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
 * Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
-* Larvae health edits ([#64696](https://github.com/CleverRaven/Cataclysm-DDA/pull/64696))
 
 ---
 
 #### Cataclysm-DDA experimental build 2023-04-04-1123 ([0d9ad8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1123))
 
 * New bar enconters for the Ancilla Bar ([#64745](https://github.com/CleverRaven/Cataclysm-DDA/pull/64745))
-* Revamped Free Start ([#64697](https://github.com/CleverRaven/Cataclysm-DDA/pull/64697))
 * remove unused comestible radiation ([#64766](https://github.com/CleverRaven/Cataclysm-DDA/pull/64766))
 * Fix auto_attacking barehanded NPC crash ([#64772](https://github.com/CleverRaven/Cataclysm-DDA/pull/64772))
 * Standarized Makaylas ([#64773](https://github.com/CleverRaven/Cataclysm-DDA/pull/64773))
@@ -135,12 +139,6 @@
 #### Cataclysm-DDA experimental build 2023-04-04-0530 ([0106b1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-0530))
 
 * JSON sewer mapgen ([#64793](https://github.com/CleverRaven/Cataclysm-DDA/pull/64793))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-04-0311 ([f860525](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-0311))
-
-* Fruit Audit - Weight, Volume, Calories and Vitamins ([#64695](https://github.com/CleverRaven/Cataclysm-DDA/pull/64695))
 
 ---
 
@@ -184,8 +182,6 @@
 * inv_ui: never hide entries in the selection column ([#64720](https://github.com/CleverRaven/Cataclysm-DDA/pull/64720))
 * Marks hunting lodge and campground as man-made ([#64715](https://github.com/CleverRaven/Cataclysm-DDA/pull/64715))
 * Tutorial spilled paint fix ([#64714](https://github.com/CleverRaven/Cataclysm-DDA/pull/64714))
-* Preparation for upgrading to clang-tidy 16 ([#64694](https://github.com/CleverRaven/Cataclysm-DDA/pull/64694))
-* Fixes for MSVC:  lint build step execution policy and more static_casts ([#64692](https://github.com/CleverRaven/Cataclysm-DDA/pull/64692))
 * Drug lab roof ([#64702](https://github.com/CleverRaven/Cataclysm-DDA/pull/64702))
 * Mutable mine roof ([#64704](https://github.com/CleverRaven/Cataclysm-DDA/pull/64704))
 * Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
