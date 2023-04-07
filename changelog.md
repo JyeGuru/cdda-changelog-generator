@@ -34,6 +34,11 @@
 * fix broken anchors on faction lore page ([#64814](https://github.com/CleverRaven/Cataclysm-DDA/pull/64814))
 * Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-05-1107 ([719f8ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-1107))
+
 * Fix more json errors ([#64800](https://github.com/CleverRaven/Cataclysm-DDA/pull/64800))
 
 ---
@@ -66,6 +71,11 @@
 #### Cataclysm-DDA experimental build 2023-04-05-0321 ([32e04e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-0321))
 
 * Update COMPILING.md C++14 reference to C++17 ([#64724](https://github.com/CleverRaven/Cataclysm-DDA/pull/64724))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-04-1402 ([e084982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1402))
+
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
 
 ---
@@ -154,11 +164,6 @@
 * Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))
 * Refactor city.cpp/.h out of overmap.cpp/.h ([#64742](https://github.com/CleverRaven/Cataclysm-DDA/pull/64742))
 * [Bombastic Perks] Added documentation and configuration menu ([#64744](https://github.com/CleverRaven/Cataclysm-DDA/pull/64744))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-01-1436 ([bb335db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-1436))
-
 * misc doc fixes ([#64727](https://github.com/CleverRaven/Cataclysm-DDA/pull/64727))
 * Unloading a container with a spillable container inside causes an infinite loop ([#64687](https://github.com/CleverRaven/Cataclysm-DDA/pull/64687))
 * Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
@@ -166,11 +171,6 @@
 * Fix some incorrect line endings in robotfindskitten ([#64735](https://github.com/CleverRaven/Cataclysm-DDA/pull/64735))
 * Adds stairs looks like ([#64729](https://github.com/CleverRaven/Cataclysm-DDA/pull/64729))
 * [Xedra Evolved] another batch of random stuff ([#64701](https://github.com/CleverRaven/Cataclysm-DDA/pull/64701))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-01-0448 ([41d1f50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-0448))
-
 * Fix misaligned river cave ramp ([#64734](https://github.com/CleverRaven/Cataclysm-DDA/pull/64734))
 * Remove stale warning about an older ccache version for visual studio. ([#64736](https://github.com/CleverRaven/Cataclysm-DDA/pull/64736))
 * Additional Location Achievements ([#64712](https://github.com/CleverRaven/Cataclysm-DDA/pull/64712))
