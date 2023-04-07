@@ -19,8 +19,6 @@ Cataclysm-DDA experimental build 2023-04-06-1041 (8ed8e10)
 * fix broken anchors on faction lore page (#64814)
 * Remove myself from Codeowner of lang/ (#64852)
 * Cache values of statistics in value constraints (#64844)
-
-Cataclysm-DDA experimental build 2023-04-05-1107 (719f8ea)
 * Fix more json errors (#64800)
 
 Cataclysm-DDA experimental build 2023-04-05-0722 (c46b75a)
@@ -44,8 +42,6 @@ Cataclysm-DDA experimental build 2023-04-05-0602 (7c07587)
 
 Cataclysm-DDA experimental build 2023-04-05-0321 (32e04e0)
 * Update COMPILING.md C++14 reference to C++17 (#64724)
-
-Cataclysm-DDA experimental build 2023-04-04-1402 (e084982)
 * Deduplicate failure msg for action attempted mounted or underwater (#64817)
 
 Cataclysm-DDA experimental build 2023-04-04-1236 (7c027dd)
@@ -101,6 +97,8 @@ Cataclysm-DDA experimental build 2023-04-01-1907 (b9651f0)
 * Update labeler for perks mod (#64755)
 * Refactor city.cpp/.h out of overmap.cpp/.h (#64742)
 * [Bombastic Perks] Added documentation and configuration menu (#64744)
+
+Cataclysm-DDA experimental build 2023-04-01-1436 (bb335db)
 * misc doc fixes (#64727)
 * Unloading a container with a spillable container inside causes an infinite loop (#64687)
 * Routine i18n updates on 01 April 2023 (#64747)
@@ -108,6 +106,8 @@ Cataclysm-DDA experimental build 2023-04-01-1907 (b9651f0)
 * Fix some incorrect line endings in robotfindskitten (#64735)
 * Adds stairs looks like (#64729)
 * [Xedra Evolved] another batch of random stuff (#64701)
+
+Cataclysm-DDA experimental build 2023-04-01-0448 (41d1f50)
 * Fix misaligned river cave ramp (#64734)
 * Remove stale warning about an older ccache version for visual studio. (#64736)
 * Additional Location Achievements (#64712)
