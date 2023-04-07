@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2023-04-07-0048 (80c3ec5)
+* Monsters will now fire at moving vehicles (#64801)
 * Fix flaky uncraft test (#64882)
 
 Cataclysm-DDA experimental build 2023-04-06-1455 (d0e1db5)
@@ -109,12 +112,9 @@ Cataclysm-DDA experimental build 2023-04-01-1436 (bb335db)
 
 Cataclysm-DDA experimental build 2023-04-01-0448 (41d1f50)
 * Fix misaligned river cave ramp (#64734)
-
-Cataclysm-DDA experimental build 2023-04-01-0137 (9065a8c)
 * Remove stale warning about an older ccache version for visual studio. (#64736)
 * Additional Location Achievements (#64712)
 * Fix conditions for avatar_dies event (#64733)
-* Monitor time consumption of clang-tidy checks (#64648)
 * fursuit zombie no longer weighs nothing and can no longer bite (#64650)
 * not to bee (#64679)
 * Code clean up for #64669 (#64683)

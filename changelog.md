@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-07-0048 ([80c3ec5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0048))
+
+* Monsters will now fire at moving vehicles ([#64801](https://github.com/CleverRaven/Cataclysm-DDA/pull/64801))
 * Fix flaky uncraft test ([#64882](https://github.com/CleverRaven/Cataclysm-DDA/pull/64882))
 
 ---
@@ -175,15 +181,9 @@
 #### Cataclysm-DDA experimental build 2023-04-01-0448 ([41d1f50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-0448))
 
 * Fix misaligned river cave ramp ([#64734](https://github.com/CleverRaven/Cataclysm-DDA/pull/64734))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-01-0137 ([9065a8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-0137))
-
 * Remove stale warning about an older ccache version for visual studio. ([#64736](https://github.com/CleverRaven/Cataclysm-DDA/pull/64736))
 * Additional Location Achievements ([#64712](https://github.com/CleverRaven/Cataclysm-DDA/pull/64712))
 * Fix conditions for avatar_dies event ([#64733](https://github.com/CleverRaven/Cataclysm-DDA/pull/64733))
-* Monitor time consumption of clang-tidy checks ([#64648](https://github.com/CleverRaven/Cataclysm-DDA/pull/64648))
 * fursuit zombie no longer weighs nothing and can no longer bite ([#64650](https://github.com/CleverRaven/Cataclysm-DDA/pull/64650))
 * not to bee ([#64679](https://github.com/CleverRaven/Cataclysm-DDA/pull/64679))
 * Code clean up for #64669 ([#64683](https://github.com/CleverRaven/Cataclysm-DDA/pull/64683))
