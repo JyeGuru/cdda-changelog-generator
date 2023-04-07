@@ -1,3 +1,4 @@
+* Validate main_tool to prevent some CTD ([#64877](https://github.com/CleverRaven/Cataclysm-DDA/pull/64877))
 * [Bombastic Perks] Perk config menu ([#64889](https://github.com/CleverRaven/Cataclysm-DDA/pull/64889))
 * Add EOC martial arts support ([#64891](https://github.com/CleverRaven/Cataclysm-DDA/pull/64891))
 * Update docs for the VS AStyle extension ([#64896](https://github.com/CleverRaven/Cataclysm-DDA/pull/64896))
@@ -194,4 +195,3 @@
 * Mutable mine roof ([#64704](https://github.com/CleverRaven/Cataclysm-DDA/pull/64704))
 * Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
 * Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
-* Interface: color themes: add solarized ([#64676](https://github.com/CleverRaven/Cataclysm-DDA/pull/64676))
