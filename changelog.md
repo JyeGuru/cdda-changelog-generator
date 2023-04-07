@@ -1,4 +1,9 @@
 * Fix Name Shown in World Creation Keybinding Menu for Mod Manager ([#64863](https://github.com/CleverRaven/Cataclysm-DDA/pull/64863))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-07-2205 ([044eb05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-2205))
+
 * Fix wall cling phasing through floors ([#64887](https://github.com/CleverRaven/Cataclysm-DDA/pull/64887))
 * Palettizing: dispensary ([#64898](https://github.com/CleverRaven/Cataclysm-DDA/pull/64898))
 * Roof palettizing: bar ([#64893](https://github.com/CleverRaven/Cataclysm-DDA/pull/64893))
