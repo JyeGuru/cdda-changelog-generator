@@ -1,3 +1,4 @@
+* Make elephant gun a double rifle to match reality ([#64674](https://github.com/CleverRaven/Cataclysm-DDA/pull/64674))
 
 ---
 
@@ -192,7 +193,6 @@
 * Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
 * Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))
 * [Xedra Evolved] Electronic home doors ([#64661](https://github.com/CleverRaven/Cataclysm-DDA/pull/64661))
-* Nerf boiled lentils morale and add more ingredients to succotash ([#64649](https://github.com/CleverRaven/Cataclysm-DDA/pull/64649))
 * If item has two use actions, show both in Use Item menu ([#64663](https://github.com/CleverRaven/Cataclysm-DDA/pull/64663))
 * inventory_ui: improve pickup header ([#64664](https://github.com/CleverRaven/Cataclysm-DDA/pull/64664))
 * Add fast scrolling support to camp mission UI ([#64669](https://github.com/CleverRaven/Cataclysm-DDA/pull/64669))
