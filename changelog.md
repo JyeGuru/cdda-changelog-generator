@@ -163,11 +163,6 @@
 * Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))
 * Refactor city.cpp/.h out of overmap.cpp/.h ([#64742](https://github.com/CleverRaven/Cataclysm-DDA/pull/64742))
 * [Bombastic Perks] Added documentation and configuration menu ([#64744](https://github.com/CleverRaven/Cataclysm-DDA/pull/64744))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-01-1436 ([bb335db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-01-1436))
-
 * misc doc fixes ([#64727](https://github.com/CleverRaven/Cataclysm-DDA/pull/64727))
 * Unloading a container with a spillable container inside causes an infinite loop ([#64687](https://github.com/CleverRaven/Cataclysm-DDA/pull/64687))
 * Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
