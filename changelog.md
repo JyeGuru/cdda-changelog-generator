@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-08-1943 ([f23414f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-1943))
+
 * make phase immersion armor use an internal battery like RM13 ([#64833](https://github.com/CleverRaven/Cataclysm-DDA/pull/64833))
 
 ---
@@ -158,11 +163,6 @@
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
 * Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-04-1123 ([0d9ad8e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1123))
-
 * New bar enconters for the Ancilla Bar ([#64745](https://github.com/CleverRaven/Cataclysm-DDA/pull/64745))
 * remove unused comestible radiation ([#64766](https://github.com/CleverRaven/Cataclysm-DDA/pull/64766))
 * Fix auto_attacking barehanded NPC crash ([#64772](https://github.com/CleverRaven/Cataclysm-DDA/pull/64772))
