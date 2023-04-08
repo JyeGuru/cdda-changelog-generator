@@ -1,3 +1,9 @@
+* Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-08-0012 ([13c20d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-0012))
+
 * Fix Name Shown in World Creation Keybinding Menu for Mod Manager ([#64863](https://github.com/CleverRaven/Cataclysm-DDA/pull/64863))
 
 ---
@@ -152,11 +158,6 @@
 #### Cataclysm-DDA experimental build 2023-04-03-0529 ([cff8200](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-03-0529))
 
 * Routine tileset updates on 02 April 2023 ([#64798](https://github.com/CleverRaven/Cataclysm-DDA/pull/64798))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-02-2140 ([48d1f79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-02-2140))
-
 * Fix options.cpp ([#64768](https://github.com/CleverRaven/Cataclysm-DDA/pull/64768))
 * add force-drop option to debug menu ([#64775](https://github.com/CleverRaven/Cataclysm-DDA/pull/64775))
 * Add football to throwing practice recipe ([#64785](https://github.com/CleverRaven/Cataclysm-DDA/pull/64785))
@@ -190,4 +191,3 @@
 * Tutorial spilled paint fix ([#64714](https://github.com/CleverRaven/Cataclysm-DDA/pull/64714))
 * Mutable mine roof ([#64704](https://github.com/CleverRaven/Cataclysm-DDA/pull/64704))
 * Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
-* Remove extra quotation mark ([#64703](https://github.com/CleverRaven/Cataclysm-DDA/pull/64703))

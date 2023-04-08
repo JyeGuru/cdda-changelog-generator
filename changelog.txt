@@ -1,3 +1,6 @@
+* Use /DEBUG:FASTLINK to speed up Windows dev & pr link times (#64919)
+
+Cataclysm-DDA experimental build 2023-04-08-0012 (13c20d1)
 * Fix Name Shown in World Creation Keybinding Menu for Mod Manager (#64863)
 
 Cataclysm-DDA experimental build 2023-04-07-2205 (044eb05)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2023-04-04-0530 (0106b1d)
 
 Cataclysm-DDA experimental build 2023-04-03-0529 (cff8200)
 * Routine tileset updates on 02 April 2023 (#64798)
-
-Cataclysm-DDA experimental build 2023-04-02-2140 (48d1f79)
 * Fix options.cpp (#64768)
 * add force-drop option to debug menu (#64775)
 * Add football to throwing practice recipe (#64785)
@@ -133,4 +134,3 @@ Cataclysm-DDA experimental build 2023-04-02-2140 (48d1f79)
 * Tutorial spilled paint fix (#64714)
 * Mutable mine roof (#64704)
 * Enable -g1 in CMake release build to produce source and line number in stack trace (#64705)
-* Remove extra quotation mark (#64703)
