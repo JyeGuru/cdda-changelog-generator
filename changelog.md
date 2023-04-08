@@ -178,7 +178,6 @@
 * Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))
 * Refactor city.cpp/.h out of overmap.cpp/.h ([#64742](https://github.com/CleverRaven/Cataclysm-DDA/pull/64742))
 * [Bombastic Perks] Added documentation and configuration menu ([#64744](https://github.com/CleverRaven/Cataclysm-DDA/pull/64744))
-* misc doc fixes ([#64727](https://github.com/CleverRaven/Cataclysm-DDA/pull/64727))
 * Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
 * Fix some incorrect line endings in robotfindskitten ([#64735](https://github.com/CleverRaven/Cataclysm-DDA/pull/64735))
 * Adds stairs looks like ([#64729](https://github.com/CleverRaven/Cataclysm-DDA/pull/64729))
