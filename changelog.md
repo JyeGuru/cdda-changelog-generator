@@ -1,3 +1,4 @@
+* Add trap avoid json flag ([#64864](https://github.com/CleverRaven/Cataclysm-DDA/pull/64864))
 * Remove Flaming Eye phantom melee ([#64848](https://github.com/CleverRaven/Cataclysm-DDA/pull/64848))
 * Feral cops' parrot lines are angrier ([#64840](https://github.com/CleverRaven/Cataclysm-DDA/pull/64840))
 * Add CMake option for XDG directories ([#64816](https://github.com/CleverRaven/Cataclysm-DDA/pull/64816))
@@ -169,7 +170,6 @@
 * add force-drop option to debug menu ([#64775](https://github.com/CleverRaven/Cataclysm-DDA/pull/64775))
 * Add football to throwing practice recipe ([#64785](https://github.com/CleverRaven/Cataclysm-DDA/pull/64785))
 * maximising -> maximizing ([#64786](https://github.com/CleverRaven/Cataclysm-DDA/pull/64786))
-* Use minimum spanning tree for road connections ([#64717](https://github.com/CleverRaven/Cataclysm-DDA/pull/64717))
 * Store limb_scores as map instead of vector ([#64776](https://github.com/CleverRaven/Cataclysm-DDA/pull/64776))
 * Move aiming logic outside loop and inside ifs ([#64761](https://github.com/CleverRaven/Cataclysm-DDA/pull/64761))
 * Replace count_*_flag with has_*_flag ([#64759](https://github.com/CleverRaven/Cataclysm-DDA/pull/64759))
