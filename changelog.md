@@ -1,3 +1,10 @@
+* make phase immersion armor use an internal battery like RM13 ([#64833](https://github.com/CleverRaven/Cataclysm-DDA/pull/64833))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-08-1830 ([c94ec99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-1830))
+
+* Clothing and Armor Coverage Conversion Part 3 ([#64897](https://github.com/CleverRaven/Cataclysm-DDA/pull/64897))
 
 ---
 
@@ -180,7 +187,5 @@
 * [Bombastic Perks] Added documentation and configuration menu ([#64744](https://github.com/CleverRaven/Cataclysm-DDA/pull/64744))
 * Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
 * Fix some incorrect line endings in robotfindskitten ([#64735](https://github.com/CleverRaven/Cataclysm-DDA/pull/64735))
-* Adds stairs looks like ([#64729](https://github.com/CleverRaven/Cataclysm-DDA/pull/64729))
 * Fix misaligned river cave ramp ([#64734](https://github.com/CleverRaven/Cataclysm-DDA/pull/64734))
 * Remove stale warning about an older ccache version for visual studio. ([#64736](https://github.com/CleverRaven/Cataclysm-DDA/pull/64736))
-* Fix conditions for avatar_dies event ([#64733](https://github.com/CleverRaven/Cataclysm-DDA/pull/64733))

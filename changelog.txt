@@ -1,3 +1,7 @@
+* make phase immersion armor use an internal battery like RM13 (#64833)
+
+Cataclysm-DDA experimental build 2023-04-08-1830 (c94ec99)
+* Clothing and Armor Coverage Conversion Part 3 (#64897)
 
 Cataclysm-DDA experimental build 2023-04-08-0613 (7e48693)
 * Routine i18n updates on 08 April 2023 (#64927)
@@ -126,7 +130,5 @@ Cataclysm-DDA experimental build 2023-04-04-1123 (0d9ad8e)
 * [Bombastic Perks] Added documentation and configuration menu (#64744)
 * Routine i18n updates on 01 April 2023 (#64747)
 * Fix some incorrect line endings in robotfindskitten (#64735)
-* Adds stairs looks like (#64729)
 * Fix misaligned river cave ramp (#64734)
 * Remove stale warning about an older ccache version for visual studio. (#64736)
-* Fix conditions for avatar_dies event (#64733)
