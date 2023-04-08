@@ -1,3 +1,10 @@
+* Exeption in tutorial (debug mode only) ([#64789](https://github.com/CleverRaven/Cataclysm-DDA/pull/64789))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-08-0148 ([714aa12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-0148))
+
+* Make makeshift bandages not require tailoring ([#64774](https://github.com/CleverRaven/Cataclysm-DDA/pull/64774))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 
 ---
@@ -152,11 +159,6 @@
 #### Cataclysm-DDA experimental build 2023-04-04-0530 ([0106b1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-0530))
 
 * JSON sewer mapgen ([#64793](https://github.com/CleverRaven/Cataclysm-DDA/pull/64793))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-03-0529 ([cff8200](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-03-0529))
-
 * Routine tileset updates on 02 April 2023 ([#64798](https://github.com/CleverRaven/Cataclysm-DDA/pull/64798))
 * Fix options.cpp ([#64768](https://github.com/CleverRaven/Cataclysm-DDA/pull/64768))
 * add force-drop option to debug menu ([#64775](https://github.com/CleverRaven/Cataclysm-DDA/pull/64775))
@@ -189,5 +191,3 @@
 * inv_ui: never hide entries in the selection column ([#64720](https://github.com/CleverRaven/Cataclysm-DDA/pull/64720))
 * Marks hunting lodge and campground as man-made ([#64715](https://github.com/CleverRaven/Cataclysm-DDA/pull/64715))
 * Tutorial spilled paint fix ([#64714](https://github.com/CleverRaven/Cataclysm-DDA/pull/64714))
-* Mutable mine roof ([#64704](https://github.com/CleverRaven/Cataclysm-DDA/pull/64704))
-* Enable -g1 in CMake release build to produce source and line number in stack trace ([#64705](https://github.com/CleverRaven/Cataclysm-DDA/pull/64705))
