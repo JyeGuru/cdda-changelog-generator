@@ -1,3 +1,6 @@
+* Add ability to remove plants from planters without destroying planter ([#64811](https://github.com/CleverRaven/Cataclysm-DDA/pull/64811))
+* Update doc for limb pos flag name ([#64788](https://github.com/CleverRaven/Cataclysm-DDA/pull/64788))
+* Expose world_generator.all_worlds getter ([#64803](https://github.com/CleverRaven/Cataclysm-DDA/pull/64803))
 * Exeption in tutorial (debug mode only) ([#64789](https://github.com/CleverRaven/Cataclysm-DDA/pull/64789))
 
 ---
@@ -111,7 +114,6 @@
 #### Cataclysm-DDA experimental build 2023-04-05-0722 ([c46b75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-0722))
 
 * Fix blackpowder .30-06 fmj having doubled stat reduction ([#64797](https://github.com/CleverRaven/Cataclysm-DDA/pull/64797))
-* remove skill rust option ([#64708](https://github.com/CleverRaven/Cataclysm-DDA/pull/64708))
 * [bombastic perks] cleaned up prereqs stuff ([#64792](https://github.com/CleverRaven/Cataclysm-DDA/pull/64792))
 * Improve too small screen resize calculations ([#64804](https://github.com/CleverRaven/Cataclysm-DDA/pull/64804))
 * Character sheet mouse support ([#64819](https://github.com/CleverRaven/Cataclysm-DDA/pull/64819))
@@ -181,12 +183,10 @@
 * [Bombastic Perks] Added documentation and configuration menu ([#64744](https://github.com/CleverRaven/Cataclysm-DDA/pull/64744))
 * misc doc fixes ([#64727](https://github.com/CleverRaven/Cataclysm-DDA/pull/64727))
 * Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
-* [Innwood] Adds back forest trails. Also no longer requires city size to be set to 0. ([#64713](https://github.com/CleverRaven/Cataclysm-DDA/pull/64713))
 * Fix some incorrect line endings in robotfindskitten ([#64735](https://github.com/CleverRaven/Cataclysm-DDA/pull/64735))
 * Adds stairs looks like ([#64729](https://github.com/CleverRaven/Cataclysm-DDA/pull/64729))
 * Fix misaligned river cave ramp ([#64734](https://github.com/CleverRaven/Cataclysm-DDA/pull/64734))
 * Remove stale warning about an older ccache version for visual studio. ([#64736](https://github.com/CleverRaven/Cataclysm-DDA/pull/64736))
-* Additional Location Achievements ([#64712](https://github.com/CleverRaven/Cataclysm-DDA/pull/64712))
 * Fix conditions for avatar_dies event ([#64733](https://github.com/CleverRaven/Cataclysm-DDA/pull/64733))
 * inv_ui: never hide entries in the selection column ([#64720](https://github.com/CleverRaven/Cataclysm-DDA/pull/64720))
 * Marks hunting lodge and campground as man-made ([#64715](https://github.com/CleverRaven/Cataclysm-DDA/pull/64715))
