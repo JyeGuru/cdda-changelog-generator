@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-04-09-1237 (796a9b7)
+* [Bombastic Perks] More content, remove"no prereq" disclaimer since it works now (#64921)
+
 Cataclysm-DDA experimental build 2023-04-09-0921 (e95fede)
 * ci: bump actions/checkout to v3 (#64920)
 * Misc fixes (#64935)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2023-04-06-1212 (ac1f197)
 
 Cataclysm-DDA experimental build 2023-04-05-1107 (719f8ea)
 * Fix more json errors (#64800)
-
-Cataclysm-DDA experimental build 2023-04-05-0722 (c46b75a)
 * Fix blackpowder .30-06 fmj having doubled stat reduction (#64797)
 * [bombastic perks] cleaned up prereqs stuff (#64792)
 * Improve too small screen resize calculations (#64804)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2023-04-05-0722 (c46b75a)
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments (#64777)
 * Remove absent codeowners, fix path case (#64769)
 * [Perks Mod] Popeye the Sailor man Perk (#64751)
-* Correct 7.62x54R description (#64746)
 * Electronic locks in vanilla (#64748)
 * Update labeler for perks mod (#64755)
 * Routine i18n updates on 01 April 2023 (#64747)

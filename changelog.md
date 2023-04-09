@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-09-1237 ([796a9b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-1237))
+
+* [Bombastic Perks] More content, remove"no prereq" disclaimer since it works now ([#64921](https://github.com/CleverRaven/Cataclysm-DDA/pull/64921))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-09-0921 ([e95fede](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0921))
 
 * ci: bump actions/checkout to v3 ([#64920](https://github.com/CleverRaven/Cataclysm-DDA/pull/64920))
@@ -158,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2023-04-05-1107 ([719f8ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-1107))
 
 * Fix more json errors ([#64800](https://github.com/CleverRaven/Cataclysm-DDA/pull/64800))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-05-0722 ([c46b75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-0722))
-
 * Fix blackpowder .30-06 fmj having doubled stat reduction ([#64797](https://github.com/CleverRaven/Cataclysm-DDA/pull/64797))
 * [bombastic perks] cleaned up prereqs stuff ([#64792](https://github.com/CleverRaven/Cataclysm-DDA/pull/64792))
 * Improve too small screen resize calculations ([#64804](https://github.com/CleverRaven/Cataclysm-DDA/pull/64804))
@@ -196,7 +197,6 @@
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments ([#64777](https://github.com/CleverRaven/Cataclysm-DDA/pull/64777))
 * Remove absent codeowners, fix path case ([#64769](https://github.com/CleverRaven/Cataclysm-DDA/pull/64769))
 * [Perks Mod] Popeye the Sailor man Perk ([#64751](https://github.com/CleverRaven/Cataclysm-DDA/pull/64751))
-* Correct 7.62x54R description ([#64746](https://github.com/CleverRaven/Cataclysm-DDA/pull/64746))
 * Electronic locks in vanilla ([#64748](https://github.com/CleverRaven/Cataclysm-DDA/pull/64748))
 * Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))
 * Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
