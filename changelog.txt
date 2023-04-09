@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-04-09-0551 (e33e1cf)
+* Map update: bowling alley (#64915)
+
 Cataclysm-DDA experimental build 2023-04-09-0107 (b40079d)
 * Palettizing: craft shop 2 (#64937)
 
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2023-04-05-0722 (c46b75a)
 Cataclysm-DDA experimental build 2023-04-05-0602 (7c07587)
 * Add `looks_like` to `22_casing_new` (#64820)
 * Add path filter in clang-tidy.yml (#64845)
-
-Cataclysm-DDA experimental build 2023-04-04-1402 (e084982)
 * Deduplicate failure msg for action attempted mounted or underwater (#64817)
 * Spawn graboids after 13 days (#64812)
 * Fix equipment conflicts on Magiclysm tails (#64781)
@@ -132,5 +133,4 @@ Cataclysm-DDA experimental build 2023-04-04-1402 (e084982)
 * Refactor city.cpp/.h out of overmap.cpp/.h (#64742)
 * [Bombastic Perks] Added documentation and configuration menu (#64744)
 * Routine i18n updates on 01 April 2023 (#64747)
-* Fix some incorrect line endings in robotfindskitten (#64735)
 * Remove stale warning about an older ccache version for visual studio. (#64736)

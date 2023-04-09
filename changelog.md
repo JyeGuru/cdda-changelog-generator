@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-09-0551 ([e33e1cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0551))
+
+* Map update: bowling alley ([#64915](https://github.com/CleverRaven/Cataclysm-DDA/pull/64915))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-09-0107 ([b40079d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0107))
 
 * Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
@@ -161,11 +167,6 @@
 
 * Add `looks_like` to `22_casing_new` ([#64820](https://github.com/CleverRaven/Cataclysm-DDA/pull/64820))
 * Add path filter in clang-tidy.yml ([#64845](https://github.com/CleverRaven/Cataclysm-DDA/pull/64845))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-04-1402 ([e084982](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-04-1402))
-
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
 * Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
@@ -192,5 +193,4 @@
 * Refactor city.cpp/.h out of overmap.cpp/.h ([#64742](https://github.com/CleverRaven/Cataclysm-DDA/pull/64742))
 * [Bombastic Perks] Added documentation and configuration menu ([#64744](https://github.com/CleverRaven/Cataclysm-DDA/pull/64744))
 * Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
-* Fix some incorrect line endings in robotfindskitten ([#64735](https://github.com/CleverRaven/Cataclysm-DDA/pull/64735))
 * Remove stale warning about an older ccache version for visual studio. ([#64736](https://github.com/CleverRaven/Cataclysm-DDA/pull/64736))
