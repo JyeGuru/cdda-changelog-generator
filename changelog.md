@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-09-0107 ([b40079d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0107))
+
+* Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-08-1943 ([f23414f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-1943))
 
 * make phase immersion armor use an internal battery like RM13 ([#64833](https://github.com/CleverRaven/Cataclysm-DDA/pull/64833))
@@ -187,5 +193,4 @@
 * [Bombastic Perks] Added documentation and configuration menu ([#64744](https://github.com/CleverRaven/Cataclysm-DDA/pull/64744))
 * Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
 * Fix some incorrect line endings in robotfindskitten ([#64735](https://github.com/CleverRaven/Cataclysm-DDA/pull/64735))
-* Fix misaligned river cave ramp ([#64734](https://github.com/CleverRaven/Cataclysm-DDA/pull/64734))
 * Remove stale warning about an older ccache version for visual studio. ([#64736](https://github.com/CleverRaven/Cataclysm-DDA/pull/64736))
