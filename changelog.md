@@ -199,4 +199,3 @@
 * [Perks Mod] Popeye the Sailor man Perk ([#64751](https://github.com/CleverRaven/Cataclysm-DDA/pull/64751))
 * Electronic locks in vanilla ([#64748](https://github.com/CleverRaven/Cataclysm-DDA/pull/64748))
 * Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))
-* Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
