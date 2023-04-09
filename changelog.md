@@ -1,3 +1,12 @@
+* ci: bump actions/checkout to v3 ([#64920](https://github.com/CleverRaven/Cataclysm-DDA/pull/64920))
+* Misc fixes ([#64935](https://github.com/CleverRaven/Cataclysm-DDA/pull/64935))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-09-0816 ([3397fcd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0816))
+
+* Correctly quantize part damage on removal ([#64938](https://github.com/CleverRaven/Cataclysm-DDA/pull/64938))
+* Fix container spawn test ([#64940](https://github.com/CleverRaven/Cataclysm-DDA/pull/64940))
 * Enable JSON unvisited members check ([#64922](https://github.com/CleverRaven/Cataclysm-DDA/pull/64922))
 
 ---
@@ -171,7 +180,6 @@
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
 * Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
-* New bar enconters for the Ancilla Bar ([#64745](https://github.com/CleverRaven/Cataclysm-DDA/pull/64745))
 * remove unused comestible radiation ([#64766](https://github.com/CleverRaven/Cataclysm-DDA/pull/64766))
 * Fix auto_attacking barehanded NPC crash ([#64772](https://github.com/CleverRaven/Cataclysm-DDA/pull/64772))
 * Standarized Makaylas ([#64773](https://github.com/CleverRaven/Cataclysm-DDA/pull/64773))
@@ -191,6 +199,4 @@
 * Correct 7.62x54R description ([#64746](https://github.com/CleverRaven/Cataclysm-DDA/pull/64746))
 * Electronic locks in vanilla ([#64748](https://github.com/CleverRaven/Cataclysm-DDA/pull/64748))
 * Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))
-* Refactor city.cpp/.h out of overmap.cpp/.h ([#64742](https://github.com/CleverRaven/Cataclysm-DDA/pull/64742))
-* [Bombastic Perks] Added documentation and configuration menu ([#64744](https://github.com/CleverRaven/Cataclysm-DDA/pull/64744))
 * Routine i18n updates on 01 April 2023 ([#64747](https://github.com/CleverRaven/Cataclysm-DDA/pull/64747))
