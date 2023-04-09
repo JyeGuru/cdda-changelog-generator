@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-09-1411 ([123606c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-1411))
+
+* Fix skipped member ([#64955](https://github.com/CleverRaven/Cataclysm-DDA/pull/64955))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-09-1237 ([796a9b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-1237))
 
 * [Bombastic Perks] More content, remove"no prereq" disclaimer since it works now ([#64921](https://github.com/CleverRaven/Cataclysm-DDA/pull/64921))
@@ -197,5 +203,4 @@
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments ([#64777](https://github.com/CleverRaven/Cataclysm-DDA/pull/64777))
 * Remove absent codeowners, fix path case ([#64769](https://github.com/CleverRaven/Cataclysm-DDA/pull/64769))
 * [Perks Mod] Popeye the Sailor man Perk ([#64751](https://github.com/CleverRaven/Cataclysm-DDA/pull/64751))
-* Electronic locks in vanilla ([#64748](https://github.com/CleverRaven/Cataclysm-DDA/pull/64748))
 * Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))

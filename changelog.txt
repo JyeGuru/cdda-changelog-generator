@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-04-09-1411 (123606c)
+* Fix skipped member (#64955)
+
 Cataclysm-DDA experimental build 2023-04-09-1237 (796a9b7)
 * [Bombastic Perks] More content, remove"no prereq" disclaimer since it works now (#64921)
 
@@ -134,5 +137,4 @@ Cataclysm-DDA experimental build 2023-04-05-1107 (719f8ea)
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments (#64777)
 * Remove absent codeowners, fix path case (#64769)
 * [Perks Mod] Popeye the Sailor man Perk (#64751)
-* Electronic locks in vanilla (#64748)
 * Update labeler for perks mod (#64755)
