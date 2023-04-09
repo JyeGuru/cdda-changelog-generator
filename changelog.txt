@@ -1,3 +1,4 @@
+* Enable JSON unvisited members check (#64922)
 
 Cataclysm-DDA experimental build 2023-04-09-0551 (e33e1cf)
 * Map update: bowling alley (#64915)
@@ -133,4 +134,3 @@ Cataclysm-DDA experimental build 2023-04-05-0602 (7c07587)
 * Refactor city.cpp/.h out of overmap.cpp/.h (#64742)
 * [Bombastic Perks] Added documentation and configuration menu (#64744)
 * Routine i18n updates on 01 April 2023 (#64747)
-* Remove stale warning about an older ccache version for visual studio. (#64736)
