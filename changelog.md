@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-09-0921 ([e95fede](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0921))
+
 * ci: bump actions/checkout to v3 ([#64920](https://github.com/CleverRaven/Cataclysm-DDA/pull/64920))
 * Misc fixes ([#64935](https://github.com/CleverRaven/Cataclysm-DDA/pull/64935))
 
@@ -170,11 +175,6 @@
 * fix sewer json ([#64847](https://github.com/CleverRaven/Cataclysm-DDA/pull/64847))
 * Character::use_amount() returns consumed items' content ([#64846](https://github.com/CleverRaven/Cataclysm-DDA/pull/64846))
 * Leather community pride flag doesn't repeat itself in its description ([#64821](https://github.com/CleverRaven/Cataclysm-DDA/pull/64821))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-05-0602 ([7c07587](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-0602))
-
 * Add `looks_like` to `22_casing_new` ([#64820](https://github.com/CleverRaven/Cataclysm-DDA/pull/64820))
 * Add path filter in clang-tidy.yml ([#64845](https://github.com/CleverRaven/Cataclysm-DDA/pull/64845))
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
