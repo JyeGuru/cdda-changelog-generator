@@ -101,8 +101,6 @@ Cataclysm-DDA experimental build 2023-04-06-1212 (ac1f197)
 * fix broken anchors on faction lore page (#64814)
 * Remove myself from Codeowner of lang/ (#64852)
 * Cache values of statistics in value constraints (#64844)
-
-Cataclysm-DDA experimental build 2023-04-05-1107 (719f8ea)
 * Fix more json errors (#64800)
 * Fix blackpowder .30-06 fmj having doubled stat reduction (#64797)
 * [bombastic perks] cleaned up prereqs stuff (#64792)

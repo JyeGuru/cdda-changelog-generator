@@ -164,11 +164,6 @@
 * fix broken anchors on faction lore page ([#64814](https://github.com/CleverRaven/Cataclysm-DDA/pull/64814))
 * Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-05-1107 ([719f8ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-05-1107))
-
 * Fix more json errors ([#64800](https://github.com/CleverRaven/Cataclysm-DDA/pull/64800))
 * Fix blackpowder .30-06 fmj having doubled stat reduction ([#64797](https://github.com/CleverRaven/Cataclysm-DDA/pull/64797))
 * [bombastic perks] cleaned up prereqs stuff ([#64792](https://github.com/CleverRaven/Cataclysm-DDA/pull/64792))
