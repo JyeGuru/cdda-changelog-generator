@@ -1,3 +1,5 @@
+* Add a rocky obstacle ([#64945](https://github.com/CleverRaven/Cataclysm-DDA/pull/64945))
+* Refresh equipment spell duration on recast ([#64963](https://github.com/CleverRaven/Cataclysm-DDA/pull/64963))
 * avatar/item: update cached flags when transforming items ([#64949](https://github.com/CleverRaven/Cataclysm-DDA/pull/64949))
 * bump actions/upload-artifacts to v3 ([#64962](https://github.com/CleverRaven/Cataclysm-DDA/pull/64962))
 * resolve another ci deprecation warning ([#64959](https://github.com/CleverRaven/Cataclysm-DDA/pull/64959))
@@ -87,12 +89,6 @@
 * Update doc for limb pos flag name ([#64788](https://github.com/CleverRaven/Cataclysm-DDA/pull/64788))
 * Expose world_generator.all_worlds getter ([#64803](https://github.com/CleverRaven/Cataclysm-DDA/pull/64803))
 * Exeption in tutorial (debug mode only) ([#64789](https://github.com/CleverRaven/Cataclysm-DDA/pull/64789))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-08-0148 ([714aa12](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-0148))
-
-* Make makeshift bandages not require tailoring ([#64774](https://github.com/CleverRaven/Cataclysm-DDA/pull/64774))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 
 ---
@@ -205,7 +201,6 @@
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
 * Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
-* Standarized Makaylas ([#64773](https://github.com/CleverRaven/Cataclysm-DDA/pull/64773))
 * JSON sewer mapgen ([#64793](https://github.com/CleverRaven/Cataclysm-DDA/pull/64793))
 * Routine tileset updates on 02 April 2023 ([#64798](https://github.com/CleverRaven/Cataclysm-DDA/pull/64798))
 * add force-drop option to debug menu ([#64775](https://github.com/CleverRaven/Cataclysm-DDA/pull/64775))
