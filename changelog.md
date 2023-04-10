@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-10-1304 ([19cb6b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-1304))
+
 * add lamps to motels ([#64813](https://github.com/CleverRaven/Cataclysm-DDA/pull/64813))
 
 ---
