@@ -1,3 +1,4 @@
+* Routine tileset updates on 09 April 2023 (#64969)
 
 Cataclysm-DDA experimental build 2023-04-09-1411 (123606c)
 * Fix skipped member (#64955)
@@ -134,5 +135,4 @@ Cataclysm-DDA experimental build 2023-04-06-1212 (ac1f197)
 * Add myself to CODEOWNERS for clang-tidy stuff (#64790)
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments (#64777)
 * Remove absent codeowners, fix path case (#64769)
-* [Perks Mod] Popeye the Sailor man Perk (#64751)
 * Update labeler for perks mod (#64755)
