@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-10-1633 ([b8a29ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-1633))
+
 * Move damage indicators to json ([#64911](https://github.com/CleverRaven/Cataclysm-DDA/pull/64911))
 * Add a rocky obstacle ([#64945](https://github.com/CleverRaven/Cataclysm-DDA/pull/64945))
 * Refresh equipment spell duration on recast ([#64963](https://github.com/CleverRaven/Cataclysm-DDA/pull/64963))
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2023-04-06-1337 ([40ae4a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-06-1337))
 
 * Corrects military shootout casing itemgroup ([#64865](https://github.com/CleverRaven/Cataclysm-DDA/pull/64865))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-06-1212 ([ac1f197](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-06-1212))
-
 * Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
 * Unify gutters: glass workshop ([#64831](https://github.com/CleverRaven/Cataclysm-DDA/pull/64831))
 * fix broken anchors on faction lore page ([#64814](https://github.com/CleverRaven/Cataclysm-DDA/pull/64814))
