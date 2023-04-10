@@ -1,3 +1,5 @@
+* Updates to Survivor Mode Calcs ([#64944](https://github.com/CleverRaven/Cataclysm-DDA/pull/64944))
+* Making nomad armors working again ([#64974](https://github.com/CleverRaven/Cataclysm-DDA/pull/64974))
 
 ---
 
@@ -200,7 +202,6 @@
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
 * Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
-* remove unused comestible radiation ([#64766](https://github.com/CleverRaven/Cataclysm-DDA/pull/64766))
 * Fix auto_attacking barehanded NPC crash ([#64772](https://github.com/CleverRaven/Cataclysm-DDA/pull/64772))
 * Standarized Makaylas ([#64773](https://github.com/CleverRaven/Cataclysm-DDA/pull/64773))
 * JSON sewer mapgen ([#64793](https://github.com/CleverRaven/Cataclysm-DDA/pull/64793))
@@ -210,7 +211,6 @@
 * Add football to throwing practice recipe ([#64785](https://github.com/CleverRaven/Cataclysm-DDA/pull/64785))
 * maximising -> maximizing ([#64786](https://github.com/CleverRaven/Cataclysm-DDA/pull/64786))
 * Store limb_scores as map instead of vector ([#64776](https://github.com/CleverRaven/Cataclysm-DDA/pull/64776))
-* Move aiming logic outside loop and inside ifs ([#64761](https://github.com/CleverRaven/Cataclysm-DDA/pull/64761))
 * Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments ([#64777](https://github.com/CleverRaven/Cataclysm-DDA/pull/64777))
 * Remove absent codeowners, fix path case ([#64769](https://github.com/CleverRaven/Cataclysm-DDA/pull/64769))
