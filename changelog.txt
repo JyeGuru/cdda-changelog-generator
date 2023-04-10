@@ -1,3 +1,4 @@
+* add lamps to motels (#64813)
 
 Cataclysm-DDA experimental build 2023-04-10-1154 (dcd6270)
 * [misc] red -> tomato & chilly subsitudes curry (#64970)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2023-04-06-1212 (ac1f197)
 * maximising -> maximizing (#64786)
 * Store limb_scores as map instead of vector (#64776)
 * Move aiming logic outside loop and inside ifs (#64761)
-* Replace count_*_flag with has_*_flag (#64759)
 * Add myself to CODEOWNERS for clang-tidy stuff (#64790)
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments (#64777)
 * Remove absent codeowners, fix path case (#64769)

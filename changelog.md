@@ -1,3 +1,4 @@
+* add lamps to motels ([#64813](https://github.com/CleverRaven/Cataclysm-DDA/pull/64813))
 
 ---
 
@@ -205,7 +206,6 @@
 * maximising -> maximizing ([#64786](https://github.com/CleverRaven/Cataclysm-DDA/pull/64786))
 * Store limb_scores as map instead of vector ([#64776](https://github.com/CleverRaven/Cataclysm-DDA/pull/64776))
 * Move aiming logic outside loop and inside ifs ([#64761](https://github.com/CleverRaven/Cataclysm-DDA/pull/64761))
-* Replace count_*_flag with has_*_flag ([#64759](https://github.com/CleverRaven/Cataclysm-DDA/pull/64759))
 * Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments ([#64777](https://github.com/CleverRaven/Cataclysm-DDA/pull/64777))
 * Remove absent codeowners, fix path case ([#64769](https://github.com/CleverRaven/Cataclysm-DDA/pull/64769))
