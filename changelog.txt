@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-04-10-0839 (426b738)
 * Routine tileset updates on 09 April 2023 (#64969)
 
 Cataclysm-DDA experimental build 2023-04-09-1411 (123606c)

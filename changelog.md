@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-10-0839 ([426b738](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-0839))
+
 * Routine tileset updates on 09 April 2023 ([#64969](https://github.com/CleverRaven/Cataclysm-DDA/pull/64969))
 
 ---
