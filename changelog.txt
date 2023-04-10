@@ -1,3 +1,4 @@
+* [Magiclysm] attunements stuff (#64946)
 
 Cataclysm-DDA experimental build 2023-04-10-1633 (b8a29ea)
 * Move damage indicators to json (#64911)
@@ -137,6 +138,5 @@ Cataclysm-DDA experimental build 2023-04-06-1337 (40ae4a8)
 * Routine tileset updates on 02 April 2023 (#64798)
 * Add football to throwing practice recipe (#64785)
 * maximising -> maximizing (#64786)
-* Store limb_scores as map instead of vector (#64776)
 * Add myself to CODEOWNERS for clang-tidy stuff (#64790)
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments (#64777)

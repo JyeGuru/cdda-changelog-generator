@@ -1,3 +1,4 @@
+* [Magiclysm] attunements stuff ([#64946](https://github.com/CleverRaven/Cataclysm-DDA/pull/64946))
 
 ---
 
@@ -206,6 +207,5 @@
 * Routine tileset updates on 02 April 2023 ([#64798](https://github.com/CleverRaven/Cataclysm-DDA/pull/64798))
 * Add football to throwing practice recipe ([#64785](https://github.com/CleverRaven/Cataclysm-DDA/pull/64785))
 * maximising -> maximizing ([#64786](https://github.com/CleverRaven/Cataclysm-DDA/pull/64786))
-* Store limb_scores as map instead of vector ([#64776](https://github.com/CleverRaven/Cataclysm-DDA/pull/64776))
 * Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments ([#64777](https://github.com/CleverRaven/Cataclysm-DDA/pull/64777))
