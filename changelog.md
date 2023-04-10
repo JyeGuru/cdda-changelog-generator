@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-10-2250 ([1ab1bed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-2250))
+
 * [Magiclysm] attunements stuff ([#64946](https://github.com/CleverRaven/Cataclysm-DDA/pull/64946))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2023-04-06-1455 ([d0e1db5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-06-1455))
 
 * Update vcpkg configuration, again ([#64874](https://github.com/CleverRaven/Cataclysm-DDA/pull/64874))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-06-1337 ([40ae4a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-06-1337))
-
 * Corrects military shootout casing itemgroup ([#64865](https://github.com/CleverRaven/Cataclysm-DDA/pull/64865))
 * Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
 * Unify gutters: glass workshop ([#64831](https://github.com/CleverRaven/Cataclysm-DDA/pull/64831))

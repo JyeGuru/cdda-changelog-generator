@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-04-10-2250 (1ab1bed)
 * [Magiclysm] attunements stuff (#64946)
 
 Cataclysm-DDA experimental build 2023-04-10-1633 (b8a29ea)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2023-04-07-0048 (80c3ec5)
 
 Cataclysm-DDA experimental build 2023-04-06-1455 (d0e1db5)
 * Update vcpkg configuration, again (#64874)
-
-Cataclysm-DDA experimental build 2023-04-06-1337 (40ae4a8)
 * Corrects military shootout casing itemgroup (#64865)
 * Remove NOITEM flag from gutter drops (#64871)
 * Unify gutters: glass workshop (#64831)
