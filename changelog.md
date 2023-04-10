@@ -1,3 +1,4 @@
+* [misc] red -> tomato & chilly subsitudes curry ([#64970](https://github.com/CleverRaven/Cataclysm-DDA/pull/64970))
 
 ---
 
@@ -203,4 +204,3 @@
 * Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
 * [Bombastic Perks] Mo' Perks & Thick Skull adjustments ([#64777](https://github.com/CleverRaven/Cataclysm-DDA/pull/64777))
 * Remove absent codeowners, fix path case ([#64769](https://github.com/CleverRaven/Cataclysm-DDA/pull/64769))
-* Update labeler for perks mod ([#64755](https://github.com/CleverRaven/Cataclysm-DDA/pull/64755))
