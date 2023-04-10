@@ -1,3 +1,4 @@
+* Move damage indicators to json ([#64911](https://github.com/CleverRaven/Cataclysm-DDA/pull/64911))
 * Add a rocky obstacle ([#64945](https://github.com/CleverRaven/Cataclysm-DDA/pull/64945))
 * Refresh equipment spell duration on recast ([#64963](https://github.com/CleverRaven/Cataclysm-DDA/pull/64963))
 * avatar/item: update cached flags when transforming items ([#64949](https://github.com/CleverRaven/Cataclysm-DDA/pull/64949))
@@ -203,7 +204,6 @@
 * Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
 * JSON sewer mapgen ([#64793](https://github.com/CleverRaven/Cataclysm-DDA/pull/64793))
 * Routine tileset updates on 02 April 2023 ([#64798](https://github.com/CleverRaven/Cataclysm-DDA/pull/64798))
-* add force-drop option to debug menu ([#64775](https://github.com/CleverRaven/Cataclysm-DDA/pull/64775))
 * Add football to throwing practice recipe ([#64785](https://github.com/CleverRaven/Cataclysm-DDA/pull/64785))
 * maximising -> maximizing ([#64786](https://github.com/CleverRaven/Cataclysm-DDA/pull/64786))
 * Store limb_scores as map instead of vector ([#64776](https://github.com/CleverRaven/Cataclysm-DDA/pull/64776))
