@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-11-1808 ([c772e58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-1808))
+
+* Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
 * Item Use EOC Adjustments - Alternate snippet spam fix ([#64910](https://github.com/CleverRaven/Cataclysm-DDA/pull/64910))
 * Keybindings screen mouse support ([#64924](https://github.com/CleverRaven/Cataclysm-DDA/pull/64924))
 * Add more monster conversation options ([#64928](https://github.com/CleverRaven/Cataclysm-DDA/pull/64928))
@@ -194,7 +200,6 @@
 * Corrects military shootout casing itemgroup ([#64865](https://github.com/CleverRaven/Cataclysm-DDA/pull/64865))
 * Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
 * Unify gutters: glass workshop ([#64831](https://github.com/CleverRaven/Cataclysm-DDA/pull/64831))
-* fix broken anchors on faction lore page ([#64814](https://github.com/CleverRaven/Cataclysm-DDA/pull/64814))
 * Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
 * Character sheet mouse support ([#64819](https://github.com/CleverRaven/Cataclysm-DDA/pull/64819))
