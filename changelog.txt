@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-04-11-0519 (7b634d0)
+* Scenario additions, Achievement additions and Meta progression updates (#64818)
+
 Cataclysm-DDA experimental build 2023-04-10-2250 (1ab1bed)
 * [Magiclysm] attunements stuff (#64946)
 
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2023-04-07-0723 (b836ae3)
 Cataclysm-DDA experimental build 2023-04-07-0048 (80c3ec5)
 * Monsters will now fire at moving vehicles (#64801)
 * Fix flaky uncraft test (#64882)
-
-Cataclysm-DDA experimental build 2023-04-06-1455 (d0e1db5)
 * Update vcpkg configuration, again (#64874)
 * Corrects military shootout casing itemgroup (#64865)
 * Remove NOITEM flag from gutter drops (#64871)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2023-04-06-1455 (d0e1db5)
 * Add football to throwing practice recipe (#64785)
 * maximising -> maximizing (#64786)
 * Add myself to CODEOWNERS for clang-tidy stuff (#64790)
-* [Bombastic Perks] Mo' Perks & Thick Skull adjustments (#64777)

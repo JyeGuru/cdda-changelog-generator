@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-11-0519 ([7b634d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-0519))
+
+* Scenario additions, Achievement additions and Meta progression updates ([#64818](https://github.com/CleverRaven/Cataclysm-DDA/pull/64818))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-10-2250 ([1ab1bed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-2250))
 
 * [Magiclysm] attunements stuff ([#64946](https://github.com/CleverRaven/Cataclysm-DDA/pull/64946))
@@ -173,11 +179,6 @@
 
 * Monsters will now fire at moving vehicles ([#64801](https://github.com/CleverRaven/Cataclysm-DDA/pull/64801))
 * Fix flaky uncraft test ([#64882](https://github.com/CleverRaven/Cataclysm-DDA/pull/64882))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-06-1455 ([d0e1db5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-06-1455))
-
 * Update vcpkg configuration, again ([#64874](https://github.com/CleverRaven/Cataclysm-DDA/pull/64874))
 * Corrects military shootout casing itemgroup ([#64865](https://github.com/CleverRaven/Cataclysm-DDA/pull/64865))
 * Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
@@ -208,4 +209,3 @@
 * Add football to throwing practice recipe ([#64785](https://github.com/CleverRaven/Cataclysm-DDA/pull/64785))
 * maximising -> maximizing ([#64786](https://github.com/CleverRaven/Cataclysm-DDA/pull/64786))
 * Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
-* [Bombastic Perks] Mo' Perks & Thick Skull adjustments ([#64777](https://github.com/CleverRaven/Cataclysm-DDA/pull/64777))
