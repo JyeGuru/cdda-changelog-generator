@@ -1,3 +1,5 @@
+* Item Use EOC Adjustments - Alternate snippet spam fix ([#64910](https://github.com/CleverRaven/Cataclysm-DDA/pull/64910))
+* Keybindings screen mouse support ([#64924](https://github.com/CleverRaven/Cataclysm-DDA/pull/64924))
 * Add more monster conversation options ([#64928](https://github.com/CleverRaven/Cataclysm-DDA/pull/64928))
 * Map update: 3x3 hotels ([#64933](https://github.com/CleverRaven/Cataclysm-DDA/pull/64933))
 * Use loading_ui for loading the save ([#64952](https://github.com/CleverRaven/Cataclysm-DDA/pull/64952))
@@ -48,12 +50,6 @@
 * resolve another ci deprecation warning ([#64959](https://github.com/CleverRaven/Cataclysm-DDA/pull/64959))
 * Updates to Survivor Mode Calcs ([#64944](https://github.com/CleverRaven/Cataclysm-DDA/pull/64944))
 * Making nomad armors working again ([#64974](https://github.com/CleverRaven/Cataclysm-DDA/pull/64974))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-10-1304 ([19cb6b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-1304))
-
-* add lamps to motels ([#64813](https://github.com/CleverRaven/Cataclysm-DDA/pull/64813))
 
 ---
 
@@ -213,4 +209,3 @@
 * Add `looks_like` to `22_casing_new` ([#64820](https://github.com/CleverRaven/Cataclysm-DDA/pull/64820))
 * Add path filter in clang-tidy.yml ([#64845](https://github.com/CleverRaven/Cataclysm-DDA/pull/64845))
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
-* Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
