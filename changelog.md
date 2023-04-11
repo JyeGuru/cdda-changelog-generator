@@ -1,3 +1,6 @@
+* Add bundling for synthetic fabric ([#64993](https://github.com/CleverRaven/Cataclysm-DDA/pull/64993))
+* Prevent broken vp in-place replacement when racked ([#64995](https://github.com/CleverRaven/Cataclysm-DDA/pull/64995))
+* handle_action.cpp: tiny terminal punctuation fix ([#64998](https://github.com/CleverRaven/Cataclysm-DDA/pull/64998))
 * Bullet damage by barrel length ([#64961](https://github.com/CleverRaven/Cataclysm-DDA/pull/64961))
 * Activities can fire EOCs ([#64943](https://github.com/CleverRaven/Cataclysm-DDA/pull/64943))
 
@@ -119,7 +122,6 @@
 * Add CMake option for XDG directories ([#64816](https://github.com/CleverRaven/Cataclysm-DDA/pull/64816))
 * Add ability to remove plants from planters without destroying planter ([#64811](https://github.com/CleverRaven/Cataclysm-DDA/pull/64811))
 * Expose world_generator.all_worlds getter ([#64803](https://github.com/CleverRaven/Cataclysm-DDA/pull/64803))
-* Exeption in tutorial (debug mode only) ([#64789](https://github.com/CleverRaven/Cataclysm-DDA/pull/64789))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 
 ---
@@ -196,7 +198,6 @@
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
 * Fix more json errors ([#64800](https://github.com/CleverRaven/Cataclysm-DDA/pull/64800))
 * Fix blackpowder .30-06 fmj having doubled stat reduction ([#64797](https://github.com/CleverRaven/Cataclysm-DDA/pull/64797))
-* [bombastic perks] cleaned up prereqs stuff ([#64792](https://github.com/CleverRaven/Cataclysm-DDA/pull/64792))
 * Improve too small screen resize calculations ([#64804](https://github.com/CleverRaven/Cataclysm-DDA/pull/64804))
 * Character sheet mouse support ([#64819](https://github.com/CleverRaven/Cataclysm-DDA/pull/64819))
 * Make NPC guards complain at player stealing items ([#64822](https://github.com/CleverRaven/Cataclysm-DDA/pull/64822))
@@ -213,4 +214,3 @@
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
 * JSON sewer mapgen ([#64793](https://github.com/CleverRaven/Cataclysm-DDA/pull/64793))
 * Routine tileset updates on 02 April 2023 ([#64798](https://github.com/CleverRaven/Cataclysm-DDA/pull/64798))
-* Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
