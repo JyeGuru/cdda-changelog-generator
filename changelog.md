@@ -1,3 +1,7 @@
+* Add more monster conversation options ([#64928](https://github.com/CleverRaven/Cataclysm-DDA/pull/64928))
+* Map update: 3x3 hotels ([#64933](https://github.com/CleverRaven/Cataclysm-DDA/pull/64933))
+* Use loading_ui for loading the save ([#64952](https://github.com/CleverRaven/Cataclysm-DDA/pull/64952))
+* Allow unvisited member checking of effects ([#64957](https://github.com/CleverRaven/Cataclysm-DDA/pull/64957))
 * [fix] energy consumption of taste mod CBM ([#64982](https://github.com/CleverRaven/Cataclysm-DDA/pull/64982))
 * Wield Widget hides (Folded) and tname now includes default_mods ([#64983](https://github.com/CleverRaven/Cataclysm-DDA/pull/64983))
 * Do not set charges to -1 on items that are not count by charges when filling a pocket ([#64986](https://github.com/CleverRaven/Cataclysm-DDA/pull/64986))
@@ -124,8 +128,6 @@
 * Remove Flaming Eye phantom melee ([#64848](https://github.com/CleverRaven/Cataclysm-DDA/pull/64848))
 * Feral cops' parrot lines are angrier ([#64840](https://github.com/CleverRaven/Cataclysm-DDA/pull/64840))
 * Add CMake option for XDG directories ([#64816](https://github.com/CleverRaven/Cataclysm-DDA/pull/64816))
-* Add ability to remove plants from planters without destroying planter ([#64811](https://github.com/CleverRaven/Cataclysm-DDA/pull/64811))
-* Expose world_generator.all_worlds getter ([#64803](https://github.com/CleverRaven/Cataclysm-DDA/pull/64803))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 
 ---
@@ -191,7 +193,6 @@
 #### Cataclysm-DDA experimental build 2023-04-07-0723 ([b836ae3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0723))
 
 * Remove SMG type from repeating crossbow ([#64873](https://github.com/CleverRaven/Cataclysm-DDA/pull/64873))
-* Monsters will now fire at moving vehicles ([#64801](https://github.com/CleverRaven/Cataclysm-DDA/pull/64801))
 * Fix flaky uncraft test ([#64882](https://github.com/CleverRaven/Cataclysm-DDA/pull/64882))
 * Update vcpkg configuration, again ([#64874](https://github.com/CleverRaven/Cataclysm-DDA/pull/64874))
 * Corrects military shootout casing itemgroup ([#64865](https://github.com/CleverRaven/Cataclysm-DDA/pull/64865))
@@ -200,7 +201,6 @@
 * fix broken anchors on faction lore page ([#64814](https://github.com/CleverRaven/Cataclysm-DDA/pull/64814))
 * Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
-* Improve too small screen resize calculations ([#64804](https://github.com/CleverRaven/Cataclysm-DDA/pull/64804))
 * Character sheet mouse support ([#64819](https://github.com/CleverRaven/Cataclysm-DDA/pull/64819))
 * Make NPC guards complain at player stealing items ([#64822](https://github.com/CleverRaven/Cataclysm-DDA/pull/64822))
 * Enable custom sprite for swivel chairs ([#64825](https://github.com/CleverRaven/Cataclysm-DDA/pull/64825))
