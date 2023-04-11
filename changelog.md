@@ -1,3 +1,11 @@
+* Bullet damage by barrel length ([#64961](https://github.com/CleverRaven/Cataclysm-DDA/pull/64961))
+* Activities can fire EOCs ([#64943](https://github.com/CleverRaven/Cataclysm-DDA/pull/64943))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-11-1418 ([bdc6908](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-1418))
+
+* Fix Crash on Achievement Gain ([#64996](https://github.com/CleverRaven/Cataclysm-DDA/pull/64996))
 
 ---
 
@@ -110,7 +118,6 @@
 * Feral cops' parrot lines are angrier ([#64840](https://github.com/CleverRaven/Cataclysm-DDA/pull/64840))
 * Add CMake option for XDG directories ([#64816](https://github.com/CleverRaven/Cataclysm-DDA/pull/64816))
 * Add ability to remove plants from planters without destroying planter ([#64811](https://github.com/CleverRaven/Cataclysm-DDA/pull/64811))
-* Update doc for limb pos flag name ([#64788](https://github.com/CleverRaven/Cataclysm-DDA/pull/64788))
 * Expose world_generator.all_worlds getter ([#64803](https://github.com/CleverRaven/Cataclysm-DDA/pull/64803))
 * Exeption in tutorial (debug mode only) ([#64789](https://github.com/CleverRaven/Cataclysm-DDA/pull/64789))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
@@ -206,6 +213,4 @@
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
 * JSON sewer mapgen ([#64793](https://github.com/CleverRaven/Cataclysm-DDA/pull/64793))
 * Routine tileset updates on 02 April 2023 ([#64798](https://github.com/CleverRaven/Cataclysm-DDA/pull/64798))
-* Add football to throwing practice recipe ([#64785](https://github.com/CleverRaven/Cataclysm-DDA/pull/64785))
-* maximising -> maximizing ([#64786](https://github.com/CleverRaven/Cataclysm-DDA/pull/64786))
 * Add myself to CODEOWNERS for clang-tidy stuff ([#64790](https://github.com/CleverRaven/Cataclysm-DDA/pull/64790))
