@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-04-11-1212 (3b674c5)
+* math_parser: add more common math functions (#64984)
+
 Cataclysm-DDA experimental build 2023-04-11-0519 (7b634d0)
 * Scenario additions, Achievement additions and Meta progression updates (#64818)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2023-04-07-1049 (2206bd7)
 
 Cataclysm-DDA experimental build 2023-04-07-0723 (b836ae3)
 * Remove SMG type from repeating crossbow (#64873)
-
-Cataclysm-DDA experimental build 2023-04-07-0048 (80c3ec5)
 * Monsters will now fire at moving vehicles (#64801)
 * Fix flaky uncraft test (#64882)
 * Update vcpkg configuration, again (#64874)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2023-04-07-0048 (80c3ec5)
 * Add path filter in clang-tidy.yml (#64845)
 * Deduplicate failure msg for action attempted mounted or underwater (#64817)
 * Spawn graboids after 13 days (#64812)
-* Fix equipment conflicts on Magiclysm tails (#64781)
 * JSON sewer mapgen (#64793)
 * Routine tileset updates on 02 April 2023 (#64798)
 * Add football to throwing practice recipe (#64785)

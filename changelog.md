@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-11-1212 ([3b674c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-1212))
+
+* math_parser: add more common math functions ([#64984](https://github.com/CleverRaven/Cataclysm-DDA/pull/64984))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-11-0519 ([7b634d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-0519))
 
 * Scenario additions, Achievement additions and Meta progression updates ([#64818](https://github.com/CleverRaven/Cataclysm-DDA/pull/64818))
@@ -172,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2023-04-07-0723 ([b836ae3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0723))
 
 * Remove SMG type from repeating crossbow ([#64873](https://github.com/CleverRaven/Cataclysm-DDA/pull/64873))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-07-0048 ([80c3ec5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0048))
-
 * Monsters will now fire at moving vehicles ([#64801](https://github.com/CleverRaven/Cataclysm-DDA/pull/64801))
 * Fix flaky uncraft test ([#64882](https://github.com/CleverRaven/Cataclysm-DDA/pull/64882))
 * Update vcpkg configuration, again ([#64874](https://github.com/CleverRaven/Cataclysm-DDA/pull/64874))
@@ -203,7 +204,6 @@
 * Add path filter in clang-tidy.yml ([#64845](https://github.com/CleverRaven/Cataclysm-DDA/pull/64845))
 * Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
 * Spawn graboids after 13 days ([#64812](https://github.com/CleverRaven/Cataclysm-DDA/pull/64812))
-* Fix equipment conflicts on Magiclysm tails ([#64781](https://github.com/CleverRaven/Cataclysm-DDA/pull/64781))
 * JSON sewer mapgen ([#64793](https://github.com/CleverRaven/Cataclysm-DDA/pull/64793))
 * Routine tileset updates on 02 April 2023 ([#64798](https://github.com/CleverRaven/Cataclysm-DDA/pull/64798))
 * Add football to throwing practice recipe ([#64785](https://github.com/CleverRaven/Cataclysm-DDA/pull/64785))
