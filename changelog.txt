@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-04-12-1708 (3d15dcc)
 * port: Fix spellcasting items consuming charges when canceled (#65013)
 
 Cataclysm-DDA experimental build 2023-04-12-1139 (eb85d6b)
@@ -119,8 +121,6 @@ Cataclysm-DDA experimental build 2023-04-07-2205 (044eb05)
 
 Cataclysm-DDA experimental build 2023-04-07-1955 (b7ed839)
 * Fix clang-tidy errors (#64913)
-
-Cataclysm-DDA experimental build 2023-04-07-1548 (fef3110)
 * Roof palettizing: home improvement superstore (#64866)
 * Fix divide by zero issue (#64888)
 * Fix #64903 (#64906)

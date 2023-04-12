@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-12-1708 ([3d15dcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-1708))
+
 * port: Fix spellcasting items consuming charges when canceled ([#65013](https://github.com/CleverRaven/Cataclysm-DDA/pull/65013))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2023-04-07-1955 ([b7ed839](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1955))
 
 * Fix clang-tidy errors ([#64913](https://github.com/CleverRaven/Cataclysm-DDA/pull/64913))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-07-1548 ([fef3110](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1548))
-
 * Roof palettizing: home improvement superstore ([#64866](https://github.com/CleverRaven/Cataclysm-DDA/pull/64866))
 * Fix divide by zero issue ([#64888](https://github.com/CleverRaven/Cataclysm-DDA/pull/64888))
 * Fix #64903 ([#64906](https://github.com/CleverRaven/Cataclysm-DDA/pull/64906))
