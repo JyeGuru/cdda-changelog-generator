@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-12-0515 ([3fe23d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-0515))
+
+* Refugee caravan ([#64942](https://github.com/CleverRaven/Cataclysm-DDA/pull/64942))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-11-1808 ([c772e58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-1808))
 
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
@@ -129,7 +135,6 @@
 * Add trap avoid json flag ([#64864](https://github.com/CleverRaven/Cataclysm-DDA/pull/64864))
 * Remove Flaming Eye phantom melee ([#64848](https://github.com/CleverRaven/Cataclysm-DDA/pull/64848))
 * Feral cops' parrot lines are angrier ([#64840](https://github.com/CleverRaven/Cataclysm-DDA/pull/64840))
-* Add CMake option for XDG directories ([#64816](https://github.com/CleverRaven/Cataclysm-DDA/pull/64816))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 
 ---
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2023-04-07-1049 ([2206bd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1049))
 
 * feral cops become zombie cops ([#64828](https://github.com/CleverRaven/Cataclysm-DDA/pull/64828))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-07-0723 ([b836ae3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-0723))
-
 * Remove SMG type from repeating crossbow ([#64873](https://github.com/CleverRaven/Cataclysm-DDA/pull/64873))
 * Fix flaky uncraft test ([#64882](https://github.com/CleverRaven/Cataclysm-DDA/pull/64882))
 * Update vcpkg configuration, again ([#64874](https://github.com/CleverRaven/Cataclysm-DDA/pull/64874))

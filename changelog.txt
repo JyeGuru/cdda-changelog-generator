@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-04-12-0515 (3fe23d1)
+* Refugee caravan (#64942)
+
 Cataclysm-DDA experimental build 2023-04-11-1808 (c772e58)
 * Fix some unvisited members (#65001)
 * Item Use EOC Adjustments - Alternate snippet spam fix (#64910)
@@ -78,7 +81,6 @@ Cataclysm-DDA experimental build 2023-04-08-0613 (7e48693)
 * Add trap avoid json flag (#64864)
 * Remove Flaming Eye phantom melee (#64848)
 * Feral cops' parrot lines are angrier (#64840)
-* Add CMake option for XDG directories (#64816)
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times (#64919)
 
 Cataclysm-DDA experimental build 2023-04-08-0012 (13c20d1)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2023-04-07-1207 (b9581d9)
 
 Cataclysm-DDA experimental build 2023-04-07-1049 (2206bd7)
 * feral cops become zombie cops (#64828)
-
-Cataclysm-DDA experimental build 2023-04-07-0723 (b836ae3)
 * Remove SMG type from repeating crossbow (#64873)
 * Fix flaky uncraft test (#64882)
 * Update vcpkg configuration, again (#64874)
