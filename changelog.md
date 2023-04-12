@@ -1,3 +1,13 @@
+* Allow arrays in "variant" field of sound_effect JSON ([#65003](https://github.com/CleverRaven/Cataclysm-DDA/pull/65003))
+* Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))
+* Add percentage-translated statistic to language selection ([#64926](https://github.com/CleverRaven/Cataclysm-DDA/pull/64926))
+* math_parser/doc: add more var and shim examples ([#64973](https://github.com/CleverRaven/Cataclysm-DDA/pull/64973))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-12-1009 ([e5205a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-1009))
+
+* inventory_ui: cache entry category ([#65005](https://github.com/CleverRaven/Cataclysm-DDA/pull/65005))
 
 ---
 
@@ -37,12 +47,6 @@
 #### Cataclysm-DDA experimental build 2023-04-11-1212 ([3b674c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-1212))
 
 * math_parser: add more common math functions ([#64984](https://github.com/CleverRaven/Cataclysm-DDA/pull/64984))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-11-0519 ([7b634d0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-0519))
-
-* Scenario additions, Achievement additions and Meta progression updates ([#64818](https://github.com/CleverRaven/Cataclysm-DDA/pull/64818))
 
 ---
 
@@ -188,11 +192,6 @@
 * Fix divide by zero issue ([#64888](https://github.com/CleverRaven/Cataclysm-DDA/pull/64888))
 * Fix #64903 ([#64906](https://github.com/CleverRaven/Cataclysm-DDA/pull/64906))
 * Prevent laptop and smartphone local files spam when flashlight is used ([#64904](https://github.com/CleverRaven/Cataclysm-DDA/pull/64904))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-07-1049 ([2206bd7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1049))
-
 * feral cops become zombie cops ([#64828](https://github.com/CleverRaven/Cataclysm-DDA/pull/64828))
 * Remove SMG type from repeating crossbow ([#64873](https://github.com/CleverRaven/Cataclysm-DDA/pull/64873))
 * Fix flaky uncraft test ([#64882](https://github.com/CleverRaven/Cataclysm-DDA/pull/64882))
@@ -202,7 +201,6 @@
 * Unify gutters: glass workshop ([#64831](https://github.com/CleverRaven/Cataclysm-DDA/pull/64831))
 * Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
-* Character sheet mouse support ([#64819](https://github.com/CleverRaven/Cataclysm-DDA/pull/64819))
 * Make NPC guards complain at player stealing items ([#64822](https://github.com/CleverRaven/Cataclysm-DDA/pull/64822))
 * Enable custom sprite for swivel chairs ([#64825](https://github.com/CleverRaven/Cataclysm-DDA/pull/64825))
 * Fix update mapgen error ([#64837](https://github.com/CleverRaven/Cataclysm-DDA/pull/64837))
@@ -210,7 +208,4 @@
 * remove mention of never used WALL_CLING_FOURTH ([#64842](https://github.com/CleverRaven/Cataclysm-DDA/pull/64842))
 * fix sewer json ([#64847](https://github.com/CleverRaven/Cataclysm-DDA/pull/64847))
 * Character::use_amount() returns consumed items' content ([#64846](https://github.com/CleverRaven/Cataclysm-DDA/pull/64846))
-* Leather community pride flag doesn't repeat itself in its description ([#64821](https://github.com/CleverRaven/Cataclysm-DDA/pull/64821))
-* Add `looks_like` to `22_casing_new` ([#64820](https://github.com/CleverRaven/Cataclysm-DDA/pull/64820))
 * Add path filter in clang-tidy.yml ([#64845](https://github.com/CleverRaven/Cataclysm-DDA/pull/64845))
-* Deduplicate failure msg for action attempted mounted or underwater ([#64817](https://github.com/CleverRaven/Cataclysm-DDA/pull/64817))
