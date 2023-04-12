@@ -1,3 +1,4 @@
+* port: Fix spellcasting items consuming charges when canceled ([#65013](https://github.com/CleverRaven/Cataclysm-DDA/pull/65013))
 
 ---
 
@@ -166,7 +167,6 @@
 * Cleanup: large power substation ([#64879](https://github.com/CleverRaven/Cataclysm-DDA/pull/64879))
 * Cleanup: landscaping supply ([#64870](https://github.com/CleverRaven/Cataclysm-DDA/pull/64870))
 * Roof palettizing: lumbermill & lumberyard ([#64869](https://github.com/CleverRaven/Cataclysm-DDA/pull/64869))
-* Enable auto pulping acidic zombies if acid protected ([#64829](https://github.com/CleverRaven/Cataclysm-DDA/pull/64829))
 * Fix pipebomb length and volume ([#64860](https://github.com/CleverRaven/Cataclysm-DDA/pull/64860))
 * Fix spell copy from ([#64839](https://github.com/CleverRaven/Cataclysm-DDA/pull/64839))
 * More accurately describe task requirements ([#64850](https://github.com/CleverRaven/Cataclysm-DDA/pull/64850))

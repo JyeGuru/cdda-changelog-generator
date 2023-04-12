@@ -1,3 +1,4 @@
+* port: Fix spellcasting items consuming charges when canceled (#65013)
 
 Cataclysm-DDA experimental build 2023-04-12-1139 (eb85d6b)
 * Change fur and faux fur tailoring to require Fabric Cutting 1  (#64859)
@@ -103,7 +104,6 @@ Cataclysm-DDA experimental build 2023-04-07-2205 (044eb05)
 * Cleanup: large power substation (#64879)
 * Cleanup: landscaping supply (#64870)
 * Roof palettizing: lumbermill & lumberyard (#64869)
-* Enable auto pulping acidic zombies if acid protected (#64829)
 * Fix pipebomb length and volume (#64860)
 * Fix spell copy from (#64839)
 * More accurately describe task requirements (#64850)
