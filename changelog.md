@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-12-1139 ([eb85d6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-1139))
+
 * Change fur and faux fur tailoring to require Fabric Cutting 1  ([#64859](https://github.com/CleverRaven/Cataclysm-DDA/pull/64859))
 * [DinoMod] integrated mutation armor ([#64861](https://github.com/CleverRaven/Cataclysm-DDA/pull/64861))
 * Allow arrays in "variant" field of sound_effect JSON ([#65003](https://github.com/CleverRaven/Cataclysm-DDA/pull/65003))
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2023-04-07-1548 ([fef3110](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1548))
 
 * Roof palettizing: home improvement superstore ([#64866](https://github.com/CleverRaven/Cataclysm-DDA/pull/64866))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-07-1207 ([b9581d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-1207))
-
 * Fix divide by zero issue ([#64888](https://github.com/CleverRaven/Cataclysm-DDA/pull/64888))
 * Fix #64903 ([#64906](https://github.com/CleverRaven/Cataclysm-DDA/pull/64906))
 * Prevent laptop and smartphone local files spam when flashlight is used ([#64904](https://github.com/CleverRaven/Cataclysm-DDA/pull/64904))
