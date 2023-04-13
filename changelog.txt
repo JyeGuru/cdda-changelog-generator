@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-04-13-1551 (6e1fd18)
+* Add EOC function to adjust location variables (#64914)
+
 Cataclysm-DDA experimental build 2023-04-13-0615 (026046b)
 * Fix Slimed turning you into a dodge god (#65032)
 
@@ -96,8 +99,6 @@ Cataclysm-DDA experimental build 2023-04-08-0613 (7e48693)
 * Remove Flaming Eye phantom melee (#64848)
 * Feral cops' parrot lines are angrier (#64840)
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times (#64919)
-
-Cataclysm-DDA experimental build 2023-04-08-0012 (13c20d1)
 * Fix Name Shown in World Creation Keybinding Menu for Mod Manager (#64863)
 * Fix wall cling phasing through floors (#64887)
 * Palettizing: dispensary (#64898)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2023-04-08-0012 (13c20d1)
 * Remove NOITEM flag from gutter drops (#64871)
 * Remove myself from Codeowner of lang/ (#64852)
 * Cache values of statistics in value constraints (#64844)
-* Fix update mapgen error (#64837)
 * Prevent scavenger survirvor's direction randomization overflow (#64841)
 * remove mention of never used WALL_CLING_FOURTH (#64842)
 * fix sewer json (#64847)
