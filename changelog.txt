@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-04-13-1819 (2fcf05f)
 * Fix crash bug with empty @ Speed effect list (#65036)
 
 Cataclysm-DDA experimental build 2023-04-13-1709 (2eb9ad1)

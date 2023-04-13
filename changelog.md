@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-13-1819 ([2fcf05f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-1819))
+
 * Fix crash bug with empty @ Speed effect list ([#65036](https://github.com/CleverRaven/Cataclysm-DDA/pull/65036))
 
 ---
