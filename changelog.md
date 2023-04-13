@@ -1,3 +1,4 @@
+* Fix crash bug with empty @ Speed effect list ([#65036](https://github.com/CleverRaven/Cataclysm-DDA/pull/65036))
 
 ---
 
@@ -203,7 +204,6 @@
 * Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
 * Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
 * Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
-* Prevent scavenger survirvor's direction randomization overflow ([#64841](https://github.com/CleverRaven/Cataclysm-DDA/pull/64841))
 * remove mention of never used WALL_CLING_FOURTH ([#64842](https://github.com/CleverRaven/Cataclysm-DDA/pull/64842))
 * fix sewer json ([#64847](https://github.com/CleverRaven/Cataclysm-DDA/pull/64847))
 * Character::use_amount() returns consumed items' content ([#64846](https://github.com/CleverRaven/Cataclysm-DDA/pull/64846))

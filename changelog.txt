@@ -1,3 +1,4 @@
+* Fix crash bug with empty @ Speed effect list (#65036)
 
 Cataclysm-DDA experimental build 2023-04-13-1709 (2eb9ad1)
 * Invalid soundpack json should be loud (#65035)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2023-04-08-0613 (7e48693)
 * Remove NOITEM flag from gutter drops (#64871)
 * Remove myself from Codeowner of lang/ (#64852)
 * Cache values of statistics in value constraints (#64844)
-* Prevent scavenger survirvor's direction randomization overflow (#64841)
 * remove mention of never used WALL_CLING_FOURTH (#64842)
 * fix sewer json (#64847)
 * Character::use_amount() returns consumed items' content (#64846)
