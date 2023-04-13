@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-13-0615 ([026046b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-0615))
+
+* Fix Slimed turning you into a dodge god ([#65032](https://github.com/CleverRaven/Cataclysm-DDA/pull/65032))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-12-2256 ([a8a21a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-2256))
 
 * separate out body_part_set to another .h ([#65016](https://github.com/CleverRaven/Cataclysm-DDA/pull/65016))
@@ -139,12 +145,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-04-08-1943 ([f23414f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-1943))
-
-* make phase immersion armor use an internal battery like RM13 ([#64833](https://github.com/CleverRaven/Cataclysm-DDA/pull/64833))
-
----
-
 #### Cataclysm-DDA experimental build 2023-04-08-1830 ([c94ec99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-1830))
 
 * Clothing and Armor Coverage Conversion Part 3 ([#64897](https://github.com/CleverRaven/Cataclysm-DDA/pull/64897))
@@ -165,11 +165,6 @@
 #### Cataclysm-DDA experimental build 2023-04-08-0012 ([13c20d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-0012))
 
 * Fix Name Shown in World Creation Keybinding Menu for Mod Manager ([#64863](https://github.com/CleverRaven/Cataclysm-DDA/pull/64863))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-07-2205 ([044eb05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-07-2205))
-
 * Fix wall cling phasing through floors ([#64887](https://github.com/CleverRaven/Cataclysm-DDA/pull/64887))
 * Palettizing: dispensary ([#64898](https://github.com/CleverRaven/Cataclysm-DDA/pull/64898))
 * Roof palettizing: bar ([#64893](https://github.com/CleverRaven/Cataclysm-DDA/pull/64893))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-04-13-0615 (026046b)
+* Fix Slimed turning you into a dodge god (#65032)
+
 Cataclysm-DDA experimental build 2023-04-12-2256 (a8a21a9)
 * separate out body_part_set to another .h (#65016)
 
@@ -83,9 +86,6 @@ Cataclysm-DDA experimental build 2023-04-09-0551 (e33e1cf)
 Cataclysm-DDA experimental build 2023-04-09-0107 (b40079d)
 * Palettizing: craft shop 2 (#64937)
 
-Cataclysm-DDA experimental build 2023-04-08-1943 (f23414f)
-* make phase immersion armor use an internal battery like RM13 (#64833)
-
 Cataclysm-DDA experimental build 2023-04-08-1830 (c94ec99)
 * Clothing and Armor Coverage Conversion Part 3 (#64897)
 
@@ -99,8 +99,6 @@ Cataclysm-DDA experimental build 2023-04-08-0613 (7e48693)
 
 Cataclysm-DDA experimental build 2023-04-08-0012 (13c20d1)
 * Fix Name Shown in World Creation Keybinding Menu for Mod Manager (#64863)
-
-Cataclysm-DDA experimental build 2023-04-07-2205 (044eb05)
 * Fix wall cling phasing through floors (#64887)
 * Palettizing: dispensary (#64898)
 * Roof palettizing: bar (#64893)
