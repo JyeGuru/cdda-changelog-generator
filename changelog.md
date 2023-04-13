@@ -1,3 +1,5 @@
+* Invalid soundpack json should be loud ([#65035](https://github.com/CleverRaven/Cataclysm-DDA/pull/65035))
+* 'variant' field should be optional in sound_effect and preload ([#65034](https://github.com/CleverRaven/Cataclysm-DDA/pull/65034))
 
 ---
 
@@ -163,7 +165,6 @@
 * Renders the lighthouse truly safe and removes the lake cabin from the safe place scenario. ([#64881](https://github.com/CleverRaven/Cataclysm-DDA/pull/64881))
 * Add trap avoid json flag ([#64864](https://github.com/CleverRaven/Cataclysm-DDA/pull/64864))
 * Remove Flaming Eye phantom melee ([#64848](https://github.com/CleverRaven/Cataclysm-DDA/pull/64848))
-* Feral cops' parrot lines are angrier ([#64840](https://github.com/CleverRaven/Cataclysm-DDA/pull/64840))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 * Fix Name Shown in World Creation Keybinding Menu for Mod Manager ([#64863](https://github.com/CleverRaven/Cataclysm-DDA/pull/64863))
 * Fix wall cling phasing through floors ([#64887](https://github.com/CleverRaven/Cataclysm-DDA/pull/64887))
@@ -175,7 +176,6 @@
 * Cleanup: landscaping supply ([#64870](https://github.com/CleverRaven/Cataclysm-DDA/pull/64870))
 * Roof palettizing: lumbermill & lumberyard ([#64869](https://github.com/CleverRaven/Cataclysm-DDA/pull/64869))
 * Fix pipebomb length and volume ([#64860](https://github.com/CleverRaven/Cataclysm-DDA/pull/64860))
-* Fix spell copy from ([#64839](https://github.com/CleverRaven/Cataclysm-DDA/pull/64839))
 * More accurately describe task requirements ([#64850](https://github.com/CleverRaven/Cataclysm-DDA/pull/64850))
 * Adjust the order of 'delete world' and 'reset world' ([#64855](https://github.com/CleverRaven/Cataclysm-DDA/pull/64855))
 * Mouse hover hotkey regression ([#64862](https://github.com/CleverRaven/Cataclysm-DDA/pull/64862))
