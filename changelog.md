@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-14-1454 ([39fb637](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-1454))
+
+* Misc Comestible Fixes ([#65071](https://github.com/CleverRaven/Cataclysm-DDA/pull/65071))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-14-0629 ([40b1d9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-0629))
 
 * Fix inline EOC duplicate detection ([#65043](https://github.com/CleverRaven/Cataclysm-DDA/pull/65043))
@@ -192,7 +198,6 @@
 * Cleanup: landscaping supply ([#64870](https://github.com/CleverRaven/Cataclysm-DDA/pull/64870))
 * Roof palettizing: lumbermill & lumberyard ([#64869](https://github.com/CleverRaven/Cataclysm-DDA/pull/64869))
 * Fix pipebomb length and volume ([#64860](https://github.com/CleverRaven/Cataclysm-DDA/pull/64860))
-* More accurately describe task requirements ([#64850](https://github.com/CleverRaven/Cataclysm-DDA/pull/64850))
 * Adjust the order of 'delete world' and 'reset world' ([#64855](https://github.com/CleverRaven/Cataclysm-DDA/pull/64855))
 * Mouse hover hotkey regression ([#64862](https://github.com/CleverRaven/Cataclysm-DDA/pull/64862))
 * Validate main_tool to prevent some CTD ([#64877](https://github.com/CleverRaven/Cataclysm-DDA/pull/64877))
