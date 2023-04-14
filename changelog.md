@@ -1,3 +1,14 @@
+* Fix inline EOC duplicate detection ([#65043](https://github.com/CleverRaven/Cataclysm-DDA/pull/65043))
+* Edit desctription of person ([#65059](https://github.com/CleverRaven/Cataclysm-DDA/pull/65059))
+* eoc_math: use proper float comparison ([#65060](https://github.com/CleverRaven/Cataclysm-DDA/pull/65060))
+* Now persons really can open the doors ([#65047](https://github.com/CleverRaven/Cataclysm-DDA/pull/65047))
+* Resolve build warning/error ([#65066](https://github.com/CleverRaven/Cataclysm-DDA/pull/65066))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-14-0517 ([7ee5cd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-0517))
+
+* Add bread flour via food processor recipe ([#65022](https://github.com/CleverRaven/Cataclysm-DDA/pull/65022))
 
 ---
 
@@ -167,15 +178,9 @@
 #### Cataclysm-DDA experimental build 2023-04-08-1830 ([c94ec99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-1830))
 
 * Clothing and Armor Coverage Conversion Part 3 ([#64897](https://github.com/CleverRaven/Cataclysm-DDA/pull/64897))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-08-0613 ([7e48693](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-0613))
-
 * Routine i18n updates on 08 April 2023 ([#64927](https://github.com/CleverRaven/Cataclysm-DDA/pull/64927))
 * Renders the lighthouse truly safe and removes the lake cabin from the safe place scenario. ([#64881](https://github.com/CleverRaven/Cataclysm-DDA/pull/64881))
 * Add trap avoid json flag ([#64864](https://github.com/CleverRaven/Cataclysm-DDA/pull/64864))
-* Remove Flaming Eye phantom melee ([#64848](https://github.com/CleverRaven/Cataclysm-DDA/pull/64848))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 * Fix Name Shown in World Creation Keybinding Menu for Mod Manager ([#64863](https://github.com/CleverRaven/Cataclysm-DDA/pull/64863))
 * Fix wall cling phasing through floors ([#64887](https://github.com/CleverRaven/Cataclysm-DDA/pull/64887))
@@ -208,8 +213,3 @@
 * Corrects military shootout casing itemgroup ([#64865](https://github.com/CleverRaven/Cataclysm-DDA/pull/64865))
 * Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
 * Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
-* Cache values of statistics in value constraints ([#64844](https://github.com/CleverRaven/Cataclysm-DDA/pull/64844))
-* remove mention of never used WALL_CLING_FOURTH ([#64842](https://github.com/CleverRaven/Cataclysm-DDA/pull/64842))
-* fix sewer json ([#64847](https://github.com/CleverRaven/Cataclysm-DDA/pull/64847))
-* Character::use_amount() returns consumed items' content ([#64846](https://github.com/CleverRaven/Cataclysm-DDA/pull/64846))
-* Add path filter in clang-tidy.yml ([#64845](https://github.com/CleverRaven/Cataclysm-DDA/pull/64845))
