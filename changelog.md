@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-14-0629 ([40b1d9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-0629))
+
 * Fix inline EOC duplicate detection ([#65043](https://github.com/CleverRaven/Cataclysm-DDA/pull/65043))
 * Edit desctription of person ([#65059](https://github.com/CleverRaven/Cataclysm-DDA/pull/65059))
 * eoc_math: use proper float comparison ([#65060](https://github.com/CleverRaven/Cataclysm-DDA/pull/65060))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2023-04-09-0107 ([b40079d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0107))
 
 * Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-08-1830 ([c94ec99](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-08-1830))
-
 * Clothing and Armor Coverage Conversion Part 3 ([#64897](https://github.com/CleverRaven/Cataclysm-DDA/pull/64897))
 * Routine i18n updates on 08 April 2023 ([#64927](https://github.com/CleverRaven/Cataclysm-DDA/pull/64927))
 * Renders the lighthouse truly safe and removes the lake cabin from the safe place scenario. ([#64881](https://github.com/CleverRaven/Cataclysm-DDA/pull/64881))
