@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-04-14-1718 (3e920a0)
+* Migrate some JSON APIs to string_view (#64971)
+
 Cataclysm-DDA experimental build 2023-04-14-1454 (39fb637)
 * Misc Comestible Fixes (#65071)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2023-04-09-0816 (3397fcd)
 
 Cataclysm-DDA experimental build 2023-04-09-0551 (e33e1cf)
 * Map update: bowling alley (#64915)
-
-Cataclysm-DDA experimental build 2023-04-09-0107 (b40079d)
 * Palettizing: craft shop 2 (#64937)
 * Clothing and Armor Coverage Conversion Part 3 (#64897)
 * Routine i18n updates on 08 April 2023 (#64927)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2023-04-09-0107 (b40079d)
 * Update vcpkg configuration, again (#64874)
 * Corrects military shootout casing itemgroup (#64865)
 * Remove NOITEM flag from gutter drops (#64871)
-* Remove myself from Codeowner of lang/ (#64852)

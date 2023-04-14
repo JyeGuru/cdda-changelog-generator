@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-14-1718 ([3e920a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-1718))
+
+* Migrate some JSON APIs to string_view ([#64971](https://github.com/CleverRaven/Cataclysm-DDA/pull/64971))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-14-1454 ([39fb637](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-1454))
 
 * Misc Comestible Fixes ([#65071](https://github.com/CleverRaven/Cataclysm-DDA/pull/65071))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2023-04-09-0551 ([e33e1cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0551))
 
 * Map update: bowling alley ([#64915](https://github.com/CleverRaven/Cataclysm-DDA/pull/64915))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-09-0107 ([b40079d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0107))
-
 * Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
 * Clothing and Armor Coverage Conversion Part 3 ([#64897](https://github.com/CleverRaven/Cataclysm-DDA/pull/64897))
 * Routine i18n updates on 08 April 2023 ([#64927](https://github.com/CleverRaven/Cataclysm-DDA/pull/64927))
@@ -217,4 +218,3 @@
 * Update vcpkg configuration, again ([#64874](https://github.com/CleverRaven/Cataclysm-DDA/pull/64874))
 * Corrects military shootout casing itemgroup ([#64865](https://github.com/CleverRaven/Cataclysm-DDA/pull/64865))
 * Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
-* Remove myself from Codeowner of lang/ ([#64852](https://github.com/CleverRaven/Cataclysm-DDA/pull/64852))
