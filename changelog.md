@@ -1,3 +1,8 @@
+* alternative fix: item spawning spells with no min/max damage ([#64989](https://github.com/CleverRaven/Cataclysm-DDA/pull/64989))
+* prevent spam from linter bot reviews ([#65039](https://github.com/CleverRaven/Cataclysm-DDA/pull/65039))
+* update various outdated github actions ([#65042](https://github.com/CleverRaven/Cataclysm-DDA/pull/65042))
+* Item summoning spells now respect keep hands free option ([#65049](https://github.com/CleverRaven/Cataclysm-DDA/pull/65049))
+* Fix using unload_everything zone to remove gunmod gets copies of gunmod. ([#65051](https://github.com/CleverRaven/Cataclysm-DDA/pull/65051))
 
 ---
 
@@ -70,13 +75,6 @@
 #### Cataclysm-DDA experimental build 2023-04-12-1708 ([3d15dcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-1708))
 
 * port: Fix spellcasting items consuming charges when canceled ([#65013](https://github.com/CleverRaven/Cataclysm-DDA/pull/65013))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-12-1139 ([eb85d6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-1139))
-
-* Change fur and faux fur tailoring to require Fabric Cutting 1  ([#64859](https://github.com/CleverRaven/Cataclysm-DDA/pull/64859))
-* [DinoMod] integrated mutation armor ([#64861](https://github.com/CleverRaven/Cataclysm-DDA/pull/64861))
 * Allow arrays in "variant" field of sound_effect JSON ([#65003](https://github.com/CleverRaven/Cataclysm-DDA/pull/65003))
 * Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))
 * Add percentage-translated statistic to language selection ([#64926](https://github.com/CleverRaven/Cataclysm-DDA/pull/64926))
@@ -191,7 +189,6 @@
 * Renders the lighthouse truly safe and removes the lake cabin from the safe place scenario. ([#64881](https://github.com/CleverRaven/Cataclysm-DDA/pull/64881))
 * Add trap avoid json flag ([#64864](https://github.com/CleverRaven/Cataclysm-DDA/pull/64864))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
-* Fix Name Shown in World Creation Keybinding Menu for Mod Manager ([#64863](https://github.com/CleverRaven/Cataclysm-DDA/pull/64863))
 * Fix wall cling phasing through floors ([#64887](https://github.com/CleverRaven/Cataclysm-DDA/pull/64887))
 * Palettizing: dispensary ([#64898](https://github.com/CleverRaven/Cataclysm-DDA/pull/64898))
 * Roof palettizing: bar ([#64893](https://github.com/CleverRaven/Cataclysm-DDA/pull/64893))
@@ -200,8 +197,6 @@
 * Cleanup: large power substation ([#64879](https://github.com/CleverRaven/Cataclysm-DDA/pull/64879))
 * Cleanup: landscaping supply ([#64870](https://github.com/CleverRaven/Cataclysm-DDA/pull/64870))
 * Roof palettizing: lumbermill & lumberyard ([#64869](https://github.com/CleverRaven/Cataclysm-DDA/pull/64869))
-* Fix pipebomb length and volume ([#64860](https://github.com/CleverRaven/Cataclysm-DDA/pull/64860))
-* Mouse hover hotkey regression ([#64862](https://github.com/CleverRaven/Cataclysm-DDA/pull/64862))
 * Validate main_tool to prevent some CTD ([#64877](https://github.com/CleverRaven/Cataclysm-DDA/pull/64877))
 * [Bombastic Perks] Perk config menu ([#64889](https://github.com/CleverRaven/Cataclysm-DDA/pull/64889))
 * Add EOC martial arts support ([#64891](https://github.com/CleverRaven/Cataclysm-DDA/pull/64891))
