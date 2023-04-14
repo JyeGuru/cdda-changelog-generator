@@ -1,4 +1,8 @@
 
+Cataclysm-DDA experimental build 2023-04-14-2340 (440b313)
+* Fix message about rot when eating with saprophage  (#65068)
+* Update bug_report.yaml (#65079)
+
 Cataclysm-DDA experimental build 2023-04-14-1718 (3e920a0)
 * Migrate some JSON APIs to string_view (#64971)
 
@@ -105,8 +109,6 @@ Cataclysm-DDA experimental build 2023-04-09-0816 (3397fcd)
 * Correctly quantize part damage on removal (#64938)
 * Fix container spawn test (#64940)
 * Enable JSON unvisited members check (#64922)
-
-Cataclysm-DDA experimental build 2023-04-09-0551 (e33e1cf)
 * Map update: bowling alley (#64915)
 * Palettizing: craft shop 2 (#64937)
 * Clothing and Armor Coverage Conversion Part 3 (#64897)
@@ -124,7 +126,6 @@ Cataclysm-DDA experimental build 2023-04-09-0551 (e33e1cf)
 * Cleanup: landscaping supply (#64870)
 * Roof palettizing: lumbermill & lumberyard (#64869)
 * Fix pipebomb length and volume (#64860)
-* Adjust the order of 'delete world' and 'reset world' (#64855)
 * Mouse hover hotkey regression (#64862)
 * Validate main_tool to prevent some CTD (#64877)
 * [Bombastic Perks] Perk config menu (#64889)

@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-14-2340 ([440b313](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-2340))
+
+* Fix message about rot when eating with saprophage  ([#65068](https://github.com/CleverRaven/Cataclysm-DDA/pull/65068))
+* Update bug_report.yaml ([#65079](https://github.com/CleverRaven/Cataclysm-DDA/pull/65079))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-14-1718 ([3e920a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-1718))
 
 * Migrate some JSON APIs to string_view ([#64971](https://github.com/CleverRaven/Cataclysm-DDA/pull/64971))
@@ -177,11 +184,6 @@
 * Correctly quantize part damage on removal ([#64938](https://github.com/CleverRaven/Cataclysm-DDA/pull/64938))
 * Fix container spawn test ([#64940](https://github.com/CleverRaven/Cataclysm-DDA/pull/64940))
 * Enable JSON unvisited members check ([#64922](https://github.com/CleverRaven/Cataclysm-DDA/pull/64922))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-09-0551 ([e33e1cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0551))
-
 * Map update: bowling alley ([#64915](https://github.com/CleverRaven/Cataclysm-DDA/pull/64915))
 * Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
 * Clothing and Armor Coverage Conversion Part 3 ([#64897](https://github.com/CleverRaven/Cataclysm-DDA/pull/64897))
@@ -199,7 +201,6 @@
 * Cleanup: landscaping supply ([#64870](https://github.com/CleverRaven/Cataclysm-DDA/pull/64870))
 * Roof palettizing: lumbermill & lumberyard ([#64869](https://github.com/CleverRaven/Cataclysm-DDA/pull/64869))
 * Fix pipebomb length and volume ([#64860](https://github.com/CleverRaven/Cataclysm-DDA/pull/64860))
-* Adjust the order of 'delete world' and 'reset world' ([#64855](https://github.com/CleverRaven/Cataclysm-DDA/pull/64855))
 * Mouse hover hotkey regression ([#64862](https://github.com/CleverRaven/Cataclysm-DDA/pull/64862))
 * Validate main_tool to prevent some CTD ([#64877](https://github.com/CleverRaven/Cataclysm-DDA/pull/64877))
 * [Bombastic Perks] Perk config menu ([#64889](https://github.com/CleverRaven/Cataclysm-DDA/pull/64889))
