@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-15-0241 ([736c4b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-15-0241))
+
+* lower power trigger cost of alarm system ([#65076](https://github.com/CleverRaven/Cataclysm-DDA/pull/65076))
+* Prevent fire damaging unbreakable items ([#64979](https://github.com/CleverRaven/Cataclysm-DDA/pull/64979))
 * Fix energy drain on guns that use both UPS and internal bettery ([#65000](https://github.com/CleverRaven/Cataclysm-DDA/pull/65000))
 
 ---
@@ -182,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2023-04-09-1237 ([796a9b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-1237))
 
 * [Bombastic Perks] More content, remove"no prereq" disclaimer since it works now ([#64921](https://github.com/CleverRaven/Cataclysm-DDA/pull/64921))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-09-0921 ([e95fede](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0921))
-
 * ci: bump actions/checkout to v3 ([#64920](https://github.com/CleverRaven/Cataclysm-DDA/pull/64920))
 * Misc fixes ([#64935](https://github.com/CleverRaven/Cataclysm-DDA/pull/64935))
 * Correctly quantize part damage on removal ([#64938](https://github.com/CleverRaven/Cataclysm-DDA/pull/64938))
@@ -201,7 +203,6 @@
 * Palettizing: dispensary ([#64898](https://github.com/CleverRaven/Cataclysm-DDA/pull/64898))
 * Roof palettizing: bar ([#64893](https://github.com/CleverRaven/Cataclysm-DDA/pull/64893))
 * Roof palettizing: evac shelter ([#64885](https://github.com/CleverRaven/Cataclysm-DDA/pull/64885))
-* Cleanup: St. John's Farm ([#64883](https://github.com/CleverRaven/Cataclysm-DDA/pull/64883))
 * [Bombastic Perks] Perk config menu ([#64889](https://github.com/CleverRaven/Cataclysm-DDA/pull/64889))
 * Add EOC martial arts support ([#64891](https://github.com/CleverRaven/Cataclysm-DDA/pull/64891))
 * Update docs for the VS AStyle extension ([#64896](https://github.com/CleverRaven/Cataclysm-DDA/pull/64896))
@@ -212,4 +213,3 @@
 * Fix divide by zero issue ([#64888](https://github.com/CleverRaven/Cataclysm-DDA/pull/64888))
 * Fix #64903 ([#64906](https://github.com/CleverRaven/Cataclysm-DDA/pull/64906))
 * Prevent laptop and smartphone local files spam when flashlight is used ([#64904](https://github.com/CleverRaven/Cataclysm-DDA/pull/64904))
-* Fix flaky uncraft test ([#64882](https://github.com/CleverRaven/Cataclysm-DDA/pull/64882))
