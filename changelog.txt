@@ -1,3 +1,4 @@
+* Clothing and Armor Coverage Conversion Part 4 (#65008)
 
 Cataclysm-DDA experimental build 2023-04-15-0610 (b4113c1)
 * Routine i18n updates on 15 April 2023 (#65083)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2023-04-10-0839 (426b738)
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times (#64919)
 * Palettizing: dispensary (#64898)
 * Roof palettizing: bar (#64893)
-* [Bombastic Perks] Perk config menu (#64889)
 * Add EOC martial arts support (#64891)
 * Update docs for the VS AStyle extension (#64896)
 * Fix description and doc (#64899)

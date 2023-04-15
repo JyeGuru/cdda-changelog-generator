@@ -1,3 +1,4 @@
+* Clothing and Armor Coverage Conversion Part 4 ([#65008](https://github.com/CleverRaven/Cataclysm-DDA/pull/65008))
 
 ---
 
@@ -198,7 +199,6 @@
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 * Palettizing: dispensary ([#64898](https://github.com/CleverRaven/Cataclysm-DDA/pull/64898))
 * Roof palettizing: bar ([#64893](https://github.com/CleverRaven/Cataclysm-DDA/pull/64893))
-* [Bombastic Perks] Perk config menu ([#64889](https://github.com/CleverRaven/Cataclysm-DDA/pull/64889))
 * Add EOC martial arts support ([#64891](https://github.com/CleverRaven/Cataclysm-DDA/pull/64891))
 * Update docs for the VS AStyle extension ([#64896](https://github.com/CleverRaven/Cataclysm-DDA/pull/64896))
 * Fix description and doc ([#64899](https://github.com/CleverRaven/Cataclysm-DDA/pull/64899))
