@@ -205,6 +205,5 @@
 * Add pjf to comment-commands.yml ([#64902](https://github.com/CleverRaven/Cataclysm-DDA/pull/64902))
 * Fix density failure on druid_bandages ([#64909](https://github.com/CleverRaven/Cataclysm-DDA/pull/64909))
 * Fix clang-tidy errors ([#64913](https://github.com/CleverRaven/Cataclysm-DDA/pull/64913))
-* Fix divide by zero issue ([#64888](https://github.com/CleverRaven/Cataclysm-DDA/pull/64888))
 * Fix #64903 ([#64906](https://github.com/CleverRaven/Cataclysm-DDA/pull/64906))
 * Prevent laptop and smartphone local files spam when flashlight is used ([#64904](https://github.com/CleverRaven/Cataclysm-DDA/pull/64904))
