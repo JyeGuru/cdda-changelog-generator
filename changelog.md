@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-15-2147 ([7376b82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-15-2147))
+
 * Clothing and Armor Coverage Conversion Part 4 ([#65008](https://github.com/CleverRaven/Cataclysm-DDA/pull/65008))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2023-04-10-1154 ([dcd6270](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-1154))
 
 * [misc] red -> tomato & chilly subsitudes curry ([#64970](https://github.com/CleverRaven/Cataclysm-DDA/pull/64970))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-10-0839 ([426b738](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-0839))
-
 * Routine tileset updates on 09 April 2023 ([#64969](https://github.com/CleverRaven/Cataclysm-DDA/pull/64969))
 * Fix skipped member ([#64955](https://github.com/CleverRaven/Cataclysm-DDA/pull/64955))
 * [Bombastic Perks] More content, remove"no prereq" disclaimer since it works now ([#64921](https://github.com/CleverRaven/Cataclysm-DDA/pull/64921))
