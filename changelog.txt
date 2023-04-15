@@ -1,3 +1,4 @@
+* Fix wool arming mittens name (#65084)
 
 Cataclysm-DDA experimental build 2023-04-15-0241 (736c4b6)
 * lower power trigger cost of alarm system (#65076)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2023-04-09-1237 (796a9b7)
 * Fix wall cling phasing through floors (#64887)
 * Palettizing: dispensary (#64898)
 * Roof palettizing: bar (#64893)
-* Roof palettizing: evac shelter (#64885)
 * [Bombastic Perks] Perk config menu (#64889)
 * Add EOC martial arts support (#64891)
 * Update docs for the VS AStyle extension (#64896)

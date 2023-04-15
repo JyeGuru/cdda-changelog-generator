@@ -1,3 +1,4 @@
+* Fix wool arming mittens name ([#65084](https://github.com/CleverRaven/Cataclysm-DDA/pull/65084))
 
 ---
 
@@ -202,7 +203,6 @@
 * Fix wall cling phasing through floors ([#64887](https://github.com/CleverRaven/Cataclysm-DDA/pull/64887))
 * Palettizing: dispensary ([#64898](https://github.com/CleverRaven/Cataclysm-DDA/pull/64898))
 * Roof palettizing: bar ([#64893](https://github.com/CleverRaven/Cataclysm-DDA/pull/64893))
-* Roof palettizing: evac shelter ([#64885](https://github.com/CleverRaven/Cataclysm-DDA/pull/64885))
 * [Bombastic Perks] Perk config menu ([#64889](https://github.com/CleverRaven/Cataclysm-DDA/pull/64889))
 * Add EOC martial arts support ([#64891](https://github.com/CleverRaven/Cataclysm-DDA/pull/64891))
 * Update docs for the VS AStyle extension ([#64896](https://github.com/CleverRaven/Cataclysm-DDA/pull/64896))
