@@ -1,3 +1,14 @@
+* Fix energy drain on guns that use both UPS and internal bettery ([#65000](https://github.com/CleverRaven/Cataclysm-DDA/pull/65000))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-15-0042 ([b0146f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-15-0042))
+
+* load correct stat_hp_mods ([#65055](https://github.com/CleverRaven/Cataclysm-DDA/pull/65055))
+* Fix and enhance camp radio tower ([#65026](https://github.com/CleverRaven/Cataclysm-DDA/pull/65026))
+* Replace flat modifiers for learning traits with multiplication ([#64994](https://github.com/CleverRaven/Cataclysm-DDA/pull/64994))
+* Do not require battery for ups/bionic powered tools ([#64992](https://github.com/CleverRaven/Cataclysm-DDA/pull/64992))
+* Make safemode safe again: don't attack neutral creatures via move ([#65075](https://github.com/CleverRaven/Cataclysm-DDA/pull/65075))
 * math_parser/eoc: port u_val pain to math ([#65058](https://github.com/CleverRaven/Cataclysm-DDA/pull/65058))
 * Add ROPE 2 and SUSPENDING 2 to hoists ([#65017](https://github.com/CleverRaven/Cataclysm-DDA/pull/65017))
 * Add natural sausage casings to Ye Scots Beuk o Cuikery ([#65021](https://github.com/CleverRaven/Cataclysm-DDA/pull/65021))
@@ -178,11 +189,6 @@
 
 * ci: bump actions/checkout to v3 ([#64920](https://github.com/CleverRaven/Cataclysm-DDA/pull/64920))
 * Misc fixes ([#64935](https://github.com/CleverRaven/Cataclysm-DDA/pull/64935))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-09-0816 ([3397fcd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-0816))
-
 * Correctly quantize part damage on removal ([#64938](https://github.com/CleverRaven/Cataclysm-DDA/pull/64938))
 * Fix container spawn test ([#64940](https://github.com/CleverRaven/Cataclysm-DDA/pull/64940))
 * Enable JSON unvisited members check ([#64922](https://github.com/CleverRaven/Cataclysm-DDA/pull/64922))
@@ -190,15 +196,12 @@
 * Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
 * Clothing and Armor Coverage Conversion Part 3 ([#64897](https://github.com/CleverRaven/Cataclysm-DDA/pull/64897))
 * Routine i18n updates on 08 April 2023 ([#64927](https://github.com/CleverRaven/Cataclysm-DDA/pull/64927))
-* Renders the lighthouse truly safe and removes the lake cabin from the safe place scenario. ([#64881](https://github.com/CleverRaven/Cataclysm-DDA/pull/64881))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 * Fix wall cling phasing through floors ([#64887](https://github.com/CleverRaven/Cataclysm-DDA/pull/64887))
 * Palettizing: dispensary ([#64898](https://github.com/CleverRaven/Cataclysm-DDA/pull/64898))
 * Roof palettizing: bar ([#64893](https://github.com/CleverRaven/Cataclysm-DDA/pull/64893))
 * Roof palettizing: evac shelter ([#64885](https://github.com/CleverRaven/Cataclysm-DDA/pull/64885))
 * Cleanup: St. John's Farm ([#64883](https://github.com/CleverRaven/Cataclysm-DDA/pull/64883))
-* Cleanup: large power substation ([#64879](https://github.com/CleverRaven/Cataclysm-DDA/pull/64879))
-* Validate main_tool to prevent some CTD ([#64877](https://github.com/CleverRaven/Cataclysm-DDA/pull/64877))
 * [Bombastic Perks] Perk config menu ([#64889](https://github.com/CleverRaven/Cataclysm-DDA/pull/64889))
 * Add EOC martial arts support ([#64891](https://github.com/CleverRaven/Cataclysm-DDA/pull/64891))
 * Update docs for the VS AStyle extension ([#64896](https://github.com/CleverRaven/Cataclysm-DDA/pull/64896))
@@ -209,7 +212,4 @@
 * Fix divide by zero issue ([#64888](https://github.com/CleverRaven/Cataclysm-DDA/pull/64888))
 * Fix #64903 ([#64906](https://github.com/CleverRaven/Cataclysm-DDA/pull/64906))
 * Prevent laptop and smartphone local files spam when flashlight is used ([#64904](https://github.com/CleverRaven/Cataclysm-DDA/pull/64904))
-* Remove SMG type from repeating crossbow ([#64873](https://github.com/CleverRaven/Cataclysm-DDA/pull/64873))
 * Fix flaky uncraft test ([#64882](https://github.com/CleverRaven/Cataclysm-DDA/pull/64882))
-* Update vcpkg configuration, again ([#64874](https://github.com/CleverRaven/Cataclysm-DDA/pull/64874))
-* Remove NOITEM flag from gutter drops ([#64871](https://github.com/CleverRaven/Cataclysm-DDA/pull/64871))
