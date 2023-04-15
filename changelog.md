@@ -184,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2023-04-09-1411 ([123606c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-1411))
 
 * Fix skipped member ([#64955](https://github.com/CleverRaven/Cataclysm-DDA/pull/64955))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-09-1237 ([796a9b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-09-1237))
-
 * [Bombastic Perks] More content, remove"no prereq" disclaimer since it works now ([#64921](https://github.com/CleverRaven/Cataclysm-DDA/pull/64921))
 * ci: bump actions/checkout to v3 ([#64920](https://github.com/CleverRaven/Cataclysm-DDA/pull/64920))
 * Misc fixes ([#64935](https://github.com/CleverRaven/Cataclysm-DDA/pull/64935))
