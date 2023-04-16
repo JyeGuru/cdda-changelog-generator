@@ -1,3 +1,10 @@
+* Convention center ([#65097](https://github.com/CleverRaven/Cataclysm-DDA/pull/65097))
+* Kevlar hulk mutation line has an extra step ([#65101](https://github.com/CleverRaven/Cataclysm-DDA/pull/65101))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-16-1343 ([3b2a800](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-1343))
+
 * Sewer Additions ([#65103](https://github.com/CleverRaven/Cataclysm-DDA/pull/65103))
 * Changelog: prevent new changelog PRs from clobbering existing ones ([#65080](https://github.com/CleverRaven/Cataclysm-DDA/pull/65080))
 
@@ -153,7 +160,6 @@
 #### Cataclysm-DDA experimental build 2023-04-11-1808 ([c772e58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-1808))
 
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
-* Item Use EOC Adjustments - Alternate snippet spam fix ([#64910](https://github.com/CleverRaven/Cataclysm-DDA/pull/64910))
 * Keybindings screen mouse support ([#64924](https://github.com/CleverRaven/Cataclysm-DDA/pull/64924))
 * Add more monster conversation options ([#64928](https://github.com/CleverRaven/Cataclysm-DDA/pull/64928))
 * Map update: 3x3 hotels ([#64933](https://github.com/CleverRaven/Cataclysm-DDA/pull/64933))
@@ -186,12 +192,6 @@
 #### Cataclysm-DDA experimental build 2023-04-10-2250 ([1ab1bed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-2250))
 
 * [Magiclysm] attunements stuff ([#64946](https://github.com/CleverRaven/Cataclysm-DDA/pull/64946))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-10-1633 ([b8a29ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-1633))
-
-* Move damage indicators to json ([#64911](https://github.com/CleverRaven/Cataclysm-DDA/pull/64911))
 * Add a rocky obstacle ([#64945](https://github.com/CleverRaven/Cataclysm-DDA/pull/64945))
 * Refresh equipment spell duration on recast ([#64963](https://github.com/CleverRaven/Cataclysm-DDA/pull/64963))
 * avatar/item: update cached flags when transforming items ([#64949](https://github.com/CleverRaven/Cataclysm-DDA/pull/64949))

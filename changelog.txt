@@ -1,3 +1,7 @@
+* Convention center (#65097)
+* Kevlar hulk mutation line has an extra step (#65101)
+
+Cataclysm-DDA experimental build 2023-04-16-1343 (3b2a800)
 * Sewer Additions (#65103)
 * Changelog: prevent new changelog PRs from clobbering existing ones (#65080)
 
@@ -93,7 +97,6 @@ Cataclysm-DDA experimental build 2023-04-12-0515 (3fe23d1)
 
 Cataclysm-DDA experimental build 2023-04-11-1808 (c772e58)
 * Fix some unvisited members (#65001)
-* Item Use EOC Adjustments - Alternate snippet spam fix (#64910)
 * Keybindings screen mouse support (#64924)
 * Add more monster conversation options (#64928)
 * Map update: 3x3 hotels (#64933)
@@ -117,9 +120,6 @@ Cataclysm-DDA experimental build 2023-04-11-1212 (3b674c5)
 
 Cataclysm-DDA experimental build 2023-04-10-2250 (1ab1bed)
 * [Magiclysm] attunements stuff (#64946)
-
-Cataclysm-DDA experimental build 2023-04-10-1633 (b8a29ea)
-* Move damage indicators to json (#64911)
 * Add a rocky obstacle (#64945)
 * Refresh equipment spell duration on recast (#64963)
 * avatar/item: update cached flags when transforming items (#64949)
