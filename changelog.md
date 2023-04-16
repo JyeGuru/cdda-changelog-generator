@@ -77,11 +77,6 @@
 #### Cataclysm-DDA experimental build 2023-04-14-1454 ([39fb637](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-1454))
 
 * Misc Comestible Fixes ([#65071](https://github.com/CleverRaven/Cataclysm-DDA/pull/65071))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-14-0629 ([40b1d9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-0629))
-
 * Fix inline EOC duplicate detection ([#65043](https://github.com/CleverRaven/Cataclysm-DDA/pull/65043))
 * Edit desctription of person ([#65059](https://github.com/CleverRaven/Cataclysm-DDA/pull/65059))
 * eoc_math: use proper float comparison ([#65060](https://github.com/CleverRaven/Cataclysm-DDA/pull/65060))
@@ -93,11 +88,6 @@
 #### Cataclysm-DDA experimental build 2023-04-14-0517 ([7ee5cd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-0517))
 
 * Add bread flour via food processor recipe ([#65022](https://github.com/CleverRaven/Cataclysm-DDA/pull/65022))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-13-1819 ([2fcf05f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-1819))
-
 * Fix crash bug with empty @ Speed effect list ([#65036](https://github.com/CleverRaven/Cataclysm-DDA/pull/65036))
 
 ---
@@ -112,17 +102,7 @@
 #### Cataclysm-DDA experimental build 2023-04-13-1551 ([6e1fd18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-1551))
 
 * Add EOC function to adjust location variables ([#64914](https://github.com/CleverRaven/Cataclysm-DDA/pull/64914))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-13-0615 ([026046b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-0615))
-
 * Fix Slimed turning you into a dodge god ([#65032](https://github.com/CleverRaven/Cataclysm-DDA/pull/65032))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-12-2256 ([a8a21a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-2256))
-
 * separate out body_part_set to another .h ([#65016](https://github.com/CleverRaven/Cataclysm-DDA/pull/65016))
 
 ---
@@ -198,7 +178,17 @@
 * resolve another ci deprecation warning ([#64959](https://github.com/CleverRaven/Cataclysm-DDA/pull/64959))
 * Updates to Survivor Mode Calcs ([#64944](https://github.com/CleverRaven/Cataclysm-DDA/pull/64944))
 * Making nomad armors working again ([#64974](https://github.com/CleverRaven/Cataclysm-DDA/pull/64974))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-10-1154 ([dcd6270](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-1154))
+
 * [misc] red -> tomato & chilly subsitudes curry ([#64970](https://github.com/CleverRaven/Cataclysm-DDA/pull/64970))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-10-0839 ([426b738](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-0839))
+
 * Routine tileset updates on 09 April 2023 ([#64969](https://github.com/CleverRaven/Cataclysm-DDA/pull/64969))
 * Fix skipped member ([#64955](https://github.com/CleverRaven/Cataclysm-DDA/pull/64955))
 * [Bombastic Perks] More content, remove"no prereq" disclaimer since it works now ([#64921](https://github.com/CleverRaven/Cataclysm-DDA/pull/64921))
