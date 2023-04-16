@@ -1,3 +1,4 @@
+* Sewer Additions ([#65103](https://github.com/CleverRaven/Cataclysm-DDA/pull/65103))
 * Changelog: prevent new changelog PRs from clobbering existing ones ([#65080](https://github.com/CleverRaven/Cataclysm-DDA/pull/65080))
 
 ---
@@ -211,5 +212,4 @@
 * Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
 * Routine i18n updates on 08 April 2023 ([#64927](https://github.com/CleverRaven/Cataclysm-DDA/pull/64927))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
-* Fix density failure on druid_bandages ([#64909](https://github.com/CleverRaven/Cataclysm-DDA/pull/64909))
 * Fix clang-tidy errors ([#64913](https://github.com/CleverRaven/Cataclysm-DDA/pull/64913))
