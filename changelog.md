@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-16-0530 ([a052de8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-0530))
+
 * Fix energy guns(AFS) on NPC ([#65088](https://github.com/CleverRaven/Cataclysm-DDA/pull/65088))
 * Port cata_utility to string_view ([#65089](https://github.com/CleverRaven/Cataclysm-DDA/pull/65089))
 * add widget var for remaining moves in current turn ([#65091](https://github.com/CleverRaven/Cataclysm-DDA/pull/65091))
