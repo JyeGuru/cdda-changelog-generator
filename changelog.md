@@ -1,3 +1,13 @@
+* [bombastic perks] updated the startup trigger for bombastic perks ([#65094](https://github.com/CleverRaven/Cataclysm-DDA/pull/65094))
+* fix: linter workflow canceling loop ([#65096](https://github.com/CleverRaven/Cataclysm-DDA/pull/65096))
+* Clarify Ki strike description ([#65098](https://github.com/CleverRaven/Cataclysm-DDA/pull/65098))
+* Mention comestible rot_spawn in baby_egg docs ([#65105](https://github.com/CleverRaven/Cataclysm-DDA/pull/65105))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-16-0417 ([625cd3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-0417))
+
+* Despawn traumatized travellers. ([#65107](https://github.com/CleverRaven/Cataclysm-DDA/pull/65107))
 
 ---
 
@@ -178,11 +188,6 @@
 * resolve another ci deprecation warning ([#64959](https://github.com/CleverRaven/Cataclysm-DDA/pull/64959))
 * Updates to Survivor Mode Calcs ([#64944](https://github.com/CleverRaven/Cataclysm-DDA/pull/64944))
 * Making nomad armors working again ([#64974](https://github.com/CleverRaven/Cataclysm-DDA/pull/64974))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-10-1154 ([dcd6270](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-1154))
-
 * [misc] red -> tomato & chilly subsitudes curry ([#64970](https://github.com/CleverRaven/Cataclysm-DDA/pull/64970))
 * Routine tileset updates on 09 April 2023 ([#64969](https://github.com/CleverRaven/Cataclysm-DDA/pull/64969))
 * Fix skipped member ([#64955](https://github.com/CleverRaven/Cataclysm-DDA/pull/64955))
@@ -194,13 +199,9 @@
 * Enable JSON unvisited members check ([#64922](https://github.com/CleverRaven/Cataclysm-DDA/pull/64922))
 * Map update: bowling alley ([#64915](https://github.com/CleverRaven/Cataclysm-DDA/pull/64915))
 * Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
-* Clothing and Armor Coverage Conversion Part 3 ([#64897](https://github.com/CleverRaven/Cataclysm-DDA/pull/64897))
 * Routine i18n updates on 08 April 2023 ([#64927](https://github.com/CleverRaven/Cataclysm-DDA/pull/64927))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 * Palettizing: dispensary ([#64898](https://github.com/CleverRaven/Cataclysm-DDA/pull/64898))
-* Roof palettizing: bar ([#64893](https://github.com/CleverRaven/Cataclysm-DDA/pull/64893))
-* Add EOC martial arts support ([#64891](https://github.com/CleverRaven/Cataclysm-DDA/pull/64891))
-* Update docs for the VS AStyle extension ([#64896](https://github.com/CleverRaven/Cataclysm-DDA/pull/64896))
 * Fix description and doc ([#64899](https://github.com/CleverRaven/Cataclysm-DDA/pull/64899))
 * Add pjf to comment-commands.yml ([#64902](https://github.com/CleverRaven/Cataclysm-DDA/pull/64902))
 * Fix density failure on druid_bandages ([#64909](https://github.com/CleverRaven/Cataclysm-DDA/pull/64909))
