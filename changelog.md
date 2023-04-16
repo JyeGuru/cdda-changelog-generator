@@ -1,3 +1,6 @@
+* Obsolete non-modular rigs ([#65112](https://github.com/CleverRaven/Cataclysm-DDA/pull/65112))
+* eoc: untemplate all EOC code ([#65069](https://github.com/CleverRaven/Cataclysm-DDA/pull/65069))
+* add second brighter mode to cranial flashlight ([#65078](https://github.com/CleverRaven/Cataclysm-DDA/pull/65078))
 * Convention center ([#65097](https://github.com/CleverRaven/Cataclysm-DDA/pull/65097))
 * Kevlar hulk mutation line has an extra step ([#65101](https://github.com/CleverRaven/Cataclysm-DDA/pull/65101))
 
@@ -117,12 +120,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-04-13-1551 ([6e1fd18](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-1551))
-
-* Add EOC function to adjust location variables ([#64914](https://github.com/CleverRaven/Cataclysm-DDA/pull/64914))
-
----
-
 #### Cataclysm-DDA experimental build 2023-04-13-0615 ([026046b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-0615))
 
 * Fix Slimed turning you into a dodge god ([#65032](https://github.com/CleverRaven/Cataclysm-DDA/pull/65032))
@@ -203,8 +200,6 @@
 * Correctly quantize part damage on removal ([#64938](https://github.com/CleverRaven/Cataclysm-DDA/pull/64938))
 * Fix container spawn test ([#64940](https://github.com/CleverRaven/Cataclysm-DDA/pull/64940))
 * Enable JSON unvisited members check ([#64922](https://github.com/CleverRaven/Cataclysm-DDA/pull/64922))
-* Map update: bowling alley ([#64915](https://github.com/CleverRaven/Cataclysm-DDA/pull/64915))
 * Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
 * Routine i18n updates on 08 April 2023 ([#64927](https://github.com/CleverRaven/Cataclysm-DDA/pull/64927))
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
-* Fix clang-tidy errors ([#64913](https://github.com/CleverRaven/Cataclysm-DDA/pull/64913))
