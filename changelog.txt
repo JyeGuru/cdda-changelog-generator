@@ -50,6 +50,8 @@ Cataclysm-DDA experimental build 2023-04-14-1718 (3e920a0)
 
 Cataclysm-DDA experimental build 2023-04-14-1454 (39fb637)
 * Misc Comestible Fixes (#65071)
+
+Cataclysm-DDA experimental build 2023-04-14-0629 (40b1d9d)
 * Fix inline EOC duplicate detection (#65043)
 * Edit desctription of person (#65059)
 * eoc_math: use proper float comparison (#65060)
@@ -58,6 +60,8 @@ Cataclysm-DDA experimental build 2023-04-14-1454 (39fb637)
 
 Cataclysm-DDA experimental build 2023-04-14-0517 (7ee5cd3)
 * Add bread flour via food processor recipe (#65022)
+
+Cataclysm-DDA experimental build 2023-04-13-1819 (2fcf05f)
 * Fix crash bug with empty @ Speed effect list (#65036)
 
 Cataclysm-DDA experimental build 2023-04-13-1709 (2eb9ad1)
@@ -66,7 +70,11 @@ Cataclysm-DDA experimental build 2023-04-13-1709 (2eb9ad1)
 
 Cataclysm-DDA experimental build 2023-04-13-1551 (6e1fd18)
 * Add EOC function to adjust location variables (#64914)
+
+Cataclysm-DDA experimental build 2023-04-13-0615 (026046b)
 * Fix Slimed turning you into a dodge god (#65032)
+
+Cataclysm-DDA experimental build 2023-04-12-2256 (a8a21a9)
 * separate out body_part_set to another .h (#65016)
 
 Cataclysm-DDA experimental build 2023-04-12-1708 (3d15dcc)
@@ -118,11 +126,7 @@ Cataclysm-DDA experimental build 2023-04-10-1633 (b8a29ea)
 * resolve another ci deprecation warning (#64959)
 * Updates to Survivor Mode Calcs (#64944)
 * Making nomad armors working again (#64974)
-
-Cataclysm-DDA experimental build 2023-04-10-1154 (dcd6270)
 * [misc] red -> tomato & chilly subsitudes curry (#64970)
-
-Cataclysm-DDA experimental build 2023-04-10-0839 (426b738)
 * Routine tileset updates on 09 April 2023 (#64969)
 * Fix skipped member (#64955)
 * [Bombastic Perks] More content, remove"no prereq" disclaimer since it works now (#64921)
