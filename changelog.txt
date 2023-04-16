@@ -1,3 +1,4 @@
+* Changelog: prevent new changelog PRs from clobbering existing ones (#65080)
 
 Cataclysm-DDA experimental build 2023-04-16-0530 (a052de8)
 * Fix energy guns(AFS) on NPC (#65088)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2023-04-10-1633 (b8a29ea)
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times (#64919)
 * Fix density failure on druid_bandages (#64909)
 * Fix clang-tidy errors (#64913)
-* Fix #64903 (#64906)

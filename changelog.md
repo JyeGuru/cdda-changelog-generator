@@ -1,3 +1,4 @@
+* Changelog: prevent new changelog PRs from clobbering existing ones ([#65080](https://github.com/CleverRaven/Cataclysm-DDA/pull/65080))
 
 ---
 
@@ -212,4 +213,3 @@
 * Use /DEBUG:FASTLINK to speed up Windows dev & pr link times ([#64919](https://github.com/CleverRaven/Cataclysm-DDA/pull/64919))
 * Fix density failure on druid_bandages ([#64909](https://github.com/CleverRaven/Cataclysm-DDA/pull/64909))
 * Fix clang-tidy errors ([#64913](https://github.com/CleverRaven/Cataclysm-DDA/pull/64913))
-* Fix #64903 ([#64906](https://github.com/CleverRaven/Cataclysm-DDA/pull/64906))
