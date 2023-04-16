@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-16-1735 ([9c6bd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-1735))
+
 * Obsolete non-modular rigs ([#65112](https://github.com/CleverRaven/Cataclysm-DDA/pull/65112))
 * eoc: untemplate all EOC code ([#65069](https://github.com/CleverRaven/Cataclysm-DDA/pull/65069))
 * add second brighter mode to cranial flashlight ([#65078](https://github.com/CleverRaven/Cataclysm-DDA/pull/65078))
