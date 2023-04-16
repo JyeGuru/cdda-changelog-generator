@@ -186,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2023-04-11-1212 ([3b674c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-1212))
 
 * math_parser: add more common math functions ([#64984](https://github.com/CleverRaven/Cataclysm-DDA/pull/64984))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-10-2250 ([1ab1bed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-10-2250))
-
 * [Magiclysm] attunements stuff ([#64946](https://github.com/CleverRaven/Cataclysm-DDA/pull/64946))
 * Add a rocky obstacle ([#64945](https://github.com/CleverRaven/Cataclysm-DDA/pull/64945))
 * Refresh equipment spell duration on recast ([#64963](https://github.com/CleverRaven/Cataclysm-DDA/pull/64963))
