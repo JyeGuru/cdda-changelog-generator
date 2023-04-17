@@ -1,3 +1,14 @@
+* Fix tourniquet ([#65019](https://github.com/CleverRaven/Cataclysm-DDA/pull/65019))
+* Auras no longer burn and do not block bites ([#65086](https://github.com/CleverRaven/Cataclysm-DDA/pull/65086))
+* Fix nullptr-> crash when aborting world creation ([#65124](https://github.com/CleverRaven/Cataclysm-DDA/pull/65124))
+* Roof palettizing: homeless shelter ([#65126](https://github.com/CleverRaven/Cataclysm-DDA/pull/65126))
+* Add EOC condition for time until a scheduled EOC runs ([#65128](https://github.com/CleverRaven/Cataclysm-DDA/pull/65128))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-17-0032 ([da7a144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0032))
+
+* actual fix for real this time: item spawning spells with no min/max damage ([#65133](https://github.com/CleverRaven/Cataclysm-DDA/pull/65133))
 
 ---
 
@@ -148,7 +159,6 @@
 * port: Fix spellcasting items consuming charges when canceled ([#65013](https://github.com/CleverRaven/Cataclysm-DDA/pull/65013))
 * Allow arrays in "variant" field of sound_effect JSON ([#65003](https://github.com/CleverRaven/Cataclysm-DDA/pull/65003))
 * Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))
-* Add percentage-translated statistic to language selection ([#64926](https://github.com/CleverRaven/Cataclysm-DDA/pull/64926))
 * math_parser/doc: add more var and shim examples ([#64973](https://github.com/CleverRaven/Cataclysm-DDA/pull/64973))
 
 ---
@@ -168,8 +178,6 @@
 #### Cataclysm-DDA experimental build 2023-04-11-1808 ([c772e58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-1808))
 
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
-* Keybindings screen mouse support ([#64924](https://github.com/CleverRaven/Cataclysm-DDA/pull/64924))
-* Add more monster conversation options ([#64928](https://github.com/CleverRaven/Cataclysm-DDA/pull/64928))
 * Map update: 3x3 hotels ([#64933](https://github.com/CleverRaven/Cataclysm-DDA/pull/64933))
 * Use loading_ui for loading the save ([#64952](https://github.com/CleverRaven/Cataclysm-DDA/pull/64952))
 * Allow unvisited member checking of effects ([#64957](https://github.com/CleverRaven/Cataclysm-DDA/pull/64957))
@@ -182,11 +190,6 @@
 * handle_action.cpp: tiny terminal punctuation fix ([#64998](https://github.com/CleverRaven/Cataclysm-DDA/pull/64998))
 * Bullet damage by barrel length ([#64961](https://github.com/CleverRaven/Cataclysm-DDA/pull/64961))
 * Activities can fire EOCs ([#64943](https://github.com/CleverRaven/Cataclysm-DDA/pull/64943))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-11-1418 ([bdc6908](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-1418))
-
 * Fix Crash on Achievement Gain ([#64996](https://github.com/CleverRaven/Cataclysm-DDA/pull/64996))
 * math_parser: add more common math functions ([#64984](https://github.com/CleverRaven/Cataclysm-DDA/pull/64984))
 * [Magiclysm] attunements stuff ([#64946](https://github.com/CleverRaven/Cataclysm-DDA/pull/64946))
@@ -200,10 +203,7 @@
 * [misc] red -> tomato & chilly subsitudes curry ([#64970](https://github.com/CleverRaven/Cataclysm-DDA/pull/64970))
 * Routine tileset updates on 09 April 2023 ([#64969](https://github.com/CleverRaven/Cataclysm-DDA/pull/64969))
 * Fix skipped member ([#64955](https://github.com/CleverRaven/Cataclysm-DDA/pull/64955))
-* [Bombastic Perks] More content, remove"no prereq" disclaimer since it works now ([#64921](https://github.com/CleverRaven/Cataclysm-DDA/pull/64921))
 * Misc fixes ([#64935](https://github.com/CleverRaven/Cataclysm-DDA/pull/64935))
 * Correctly quantize part damage on removal ([#64938](https://github.com/CleverRaven/Cataclysm-DDA/pull/64938))
 * Fix container spawn test ([#64940](https://github.com/CleverRaven/Cataclysm-DDA/pull/64940))
-* Enable JSON unvisited members check ([#64922](https://github.com/CleverRaven/Cataclysm-DDA/pull/64922))
 * Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
-* Routine i18n updates on 08 April 2023 ([#64927](https://github.com/CleverRaven/Cataclysm-DDA/pull/64927))
