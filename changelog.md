@@ -1,3 +1,6 @@
+* Port generic_factory functions to string_view ([#65120](https://github.com/CleverRaven/Cataclysm-DDA/pull/65120))
+* Scenario additions ([#65116](https://github.com/CleverRaven/Cataclysm-DDA/pull/65116))
+* Make the plural form of some book the same as its singular title. ([#65139](https://github.com/CleverRaven/Cataclysm-DDA/pull/65139))
 * Deduplicate jackhammer and pickaxe use functions ([#65081](https://github.com/CleverRaven/Cataclysm-DDA/pull/65081))
 * fix ci warnings in release workflow ([#65104](https://github.com/CleverRaven/Cataclysm-DDA/pull/65104))
 
@@ -185,7 +188,6 @@
 #### Cataclysm-DDA experimental build 2023-04-12-1009 ([e5205a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-1009))
 
 * inventory_ui: cache entry category ([#65005](https://github.com/CleverRaven/Cataclysm-DDA/pull/65005))
-* Refugee caravan ([#64942](https://github.com/CleverRaven/Cataclysm-DDA/pull/64942))
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
 * Use loading_ui for loading the save ([#64952](https://github.com/CleverRaven/Cataclysm-DDA/pull/64952))
 * Allow unvisited member checking of effects ([#64957](https://github.com/CleverRaven/Cataclysm-DDA/pull/64957))
@@ -197,7 +199,6 @@
 * Prevent broken vp in-place replacement when racked ([#64995](https://github.com/CleverRaven/Cataclysm-DDA/pull/64995))
 * handle_action.cpp: tiny terminal punctuation fix ([#64998](https://github.com/CleverRaven/Cataclysm-DDA/pull/64998))
 * Bullet damage by barrel length ([#64961](https://github.com/CleverRaven/Cataclysm-DDA/pull/64961))
-* Activities can fire EOCs ([#64943](https://github.com/CleverRaven/Cataclysm-DDA/pull/64943))
 * Fix Crash on Achievement Gain ([#64996](https://github.com/CleverRaven/Cataclysm-DDA/pull/64996))
 * math_parser: add more common math functions ([#64984](https://github.com/CleverRaven/Cataclysm-DDA/pull/64984))
 * [Magiclysm] attunements stuff ([#64946](https://github.com/CleverRaven/Cataclysm-DDA/pull/64946))
@@ -206,7 +207,6 @@
 * avatar/item: update cached flags when transforming items ([#64949](https://github.com/CleverRaven/Cataclysm-DDA/pull/64949))
 * bump actions/upload-artifacts to v3 ([#64962](https://github.com/CleverRaven/Cataclysm-DDA/pull/64962))
 * resolve another ci deprecation warning ([#64959](https://github.com/CleverRaven/Cataclysm-DDA/pull/64959))
-* Updates to Survivor Mode Calcs ([#64944](https://github.com/CleverRaven/Cataclysm-DDA/pull/64944))
 * Making nomad armors working again ([#64974](https://github.com/CleverRaven/Cataclysm-DDA/pull/64974))
 * [misc] red -> tomato & chilly subsitudes curry ([#64970](https://github.com/CleverRaven/Cataclysm-DDA/pull/64970))
 * Routine tileset updates on 09 April 2023 ([#64969](https://github.com/CleverRaven/Cataclysm-DDA/pull/64969))
