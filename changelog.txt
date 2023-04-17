@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2023-04-17-0151 (496d785)
 * Fix tourniquet (#65019)
 * Auras no longer burn and do not block bites (#65086)
 * Fix nullptr-> crash when aborting world creation (#65124)
