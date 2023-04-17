@@ -1,3 +1,8 @@
+* Deduplicate jackhammer and pickaxe use functions (#65081)
+* fix ci warnings in release workflow (#65104)
+
+Cataclysm-DDA experimental build 2023-04-17-2341 (2a11a36)
+* Fix android missing header in system_locale.cpp (#65142)
 
 Cataclysm-DDA experimental build 2023-04-17-0514 (2d855d6)
 * Routine tileset updates on 16 April 2023 (#65132)
@@ -108,8 +113,6 @@ Cataclysm-DDA experimental build 2023-04-12-1708 (3d15dcc)
 
 Cataclysm-DDA experimental build 2023-04-12-1009 (e5205a3)
 * inventory_ui: cache entry category (#65005)
-
-Cataclysm-DDA experimental build 2023-04-12-0515 (3fe23d1)
 * Refugee caravan (#64942)
 * Fix some unvisited members (#65001)
 * Use loading_ui for loading the save (#64952)
@@ -136,6 +139,3 @@ Cataclysm-DDA experimental build 2023-04-12-0515 (3fe23d1)
 * [misc] red -> tomato & chilly subsitudes curry (#64970)
 * Routine tileset updates on 09 April 2023 (#64969)
 * Fix skipped member (#64955)
-* Correctly quantize part damage on removal (#64938)
-* Fix container spawn test (#64940)
-* Palettizing: craft shop 2 (#64937)
