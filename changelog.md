@@ -208,7 +208,6 @@
 * [misc] red -> tomato & chilly subsitudes curry ([#64970](https://github.com/CleverRaven/Cataclysm-DDA/pull/64970))
 * Routine tileset updates on 09 April 2023 ([#64969](https://github.com/CleverRaven/Cataclysm-DDA/pull/64969))
 * Fix skipped member ([#64955](https://github.com/CleverRaven/Cataclysm-DDA/pull/64955))
-* Misc fixes ([#64935](https://github.com/CleverRaven/Cataclysm-DDA/pull/64935))
 * Correctly quantize part damage on removal ([#64938](https://github.com/CleverRaven/Cataclysm-DDA/pull/64938))
 * Fix container spawn test ([#64940](https://github.com/CleverRaven/Cataclysm-DDA/pull/64940))
 * Palettizing: craft shop 2 ([#64937](https://github.com/CleverRaven/Cataclysm-DDA/pull/64937))
