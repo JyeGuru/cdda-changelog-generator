@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2023-04-17-0514 (2d855d6)
+* Routine tileset updates on 16 April 2023 (#65132)
+
 Cataclysm-DDA experimental build 2023-04-17-0151 (496d785)
 * Fix tourniquet (#65019)
 * Auras no longer burn and do not block bites (#65086)
@@ -108,10 +111,7 @@ Cataclysm-DDA experimental build 2023-04-12-1009 (e5205a3)
 
 Cataclysm-DDA experimental build 2023-04-12-0515 (3fe23d1)
 * Refugee caravan (#64942)
-
-Cataclysm-DDA experimental build 2023-04-11-1808 (c772e58)
 * Fix some unvisited members (#65001)
-* Map update: 3x3 hotels (#64933)
 * Use loading_ui for loading the save (#64952)
 * Allow unvisited member checking of effects (#64957)
 * [fix] energy consumption of taste mod CBM (#64982)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2023-04-17-0514 ([2d855d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0514))
+
+* Routine tileset updates on 16 April 2023 ([#65132](https://github.com/CleverRaven/Cataclysm-DDA/pull/65132))
+
+---
+
 #### Cataclysm-DDA experimental build 2023-04-17-0151 ([496d785](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0151))
 
 * Fix tourniquet ([#65019](https://github.com/CleverRaven/Cataclysm-DDA/pull/65019))
@@ -177,13 +183,7 @@
 #### Cataclysm-DDA experimental build 2023-04-12-0515 ([3fe23d1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-0515))
 
 * Refugee caravan ([#64942](https://github.com/CleverRaven/Cataclysm-DDA/pull/64942))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-11-1808 ([c772e58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-11-1808))
-
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
-* Map update: 3x3 hotels ([#64933](https://github.com/CleverRaven/Cataclysm-DDA/pull/64933))
 * Use loading_ui for loading the save ([#64952](https://github.com/CleverRaven/Cataclysm-DDA/pull/64952))
 * Allow unvisited member checking of effects ([#64957](https://github.com/CleverRaven/Cataclysm-DDA/pull/64957))
 * [fix] energy consumption of taste mod CBM ([#64982](https://github.com/CleverRaven/Cataclysm-DDA/pull/64982))
