@@ -1,3 +1,4 @@
+* Incremental skills ([#65004](https://github.com/CleverRaven/Cataclysm-DDA/pull/65004))
 * Port generic_factory functions to string_view ([#65120](https://github.com/CleverRaven/Cataclysm-DDA/pull/65120))
 * Scenario additions ([#65116](https://github.com/CleverRaven/Cataclysm-DDA/pull/65116))
 * Make the plural form of some book the same as its singular title. ([#65139](https://github.com/CleverRaven/Cataclysm-DDA/pull/65139))
@@ -196,7 +197,6 @@
 * Bullet damage by barrel length ([#64961](https://github.com/CleverRaven/Cataclysm-DDA/pull/64961))
 * Fix Crash on Achievement Gain ([#64996](https://github.com/CleverRaven/Cataclysm-DDA/pull/64996))
 * math_parser: add more common math functions ([#64984](https://github.com/CleverRaven/Cataclysm-DDA/pull/64984))
-* [Magiclysm] attunements stuff ([#64946](https://github.com/CleverRaven/Cataclysm-DDA/pull/64946))
 * Refresh equipment spell duration on recast ([#64963](https://github.com/CleverRaven/Cataclysm-DDA/pull/64963))
 * avatar/item: update cached flags when transforming items ([#64949](https://github.com/CleverRaven/Cataclysm-DDA/pull/64949))
 * bump actions/upload-artifacts to v3 ([#64962](https://github.com/CleverRaven/Cataclysm-DDA/pull/64962))
