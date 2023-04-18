@@ -23,6 +23,11 @@
 #### Cataclysm-DDA experimental build 2023-04-17-0514 ([2d855d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0514))
 
 * Routine tileset updates on 16 April 2023 ([#65132](https://github.com/CleverRaven/Cataclysm-DDA/pull/65132))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-17-0151 ([496d785](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0151))
+
 * Fix tourniquet ([#65019](https://github.com/CleverRaven/Cataclysm-DDA/pull/65019))
 * Auras no longer burn and do not block bites ([#65086](https://github.com/CleverRaven/Cataclysm-DDA/pull/65086))
 * Fix nullptr-> crash when aborting world creation ([#65124](https://github.com/CleverRaven/Cataclysm-DDA/pull/65124))
@@ -164,11 +169,6 @@
 
 * Invalid soundpack json should be loud ([#65035](https://github.com/CleverRaven/Cataclysm-DDA/pull/65035))
 * 'variant' field should be optional in sound_effect and preload ([#65034](https://github.com/CleverRaven/Cataclysm-DDA/pull/65034))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-13-0615 ([026046b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-0615))
-
 * Fix Slimed turning you into a dodge god ([#65032](https://github.com/CleverRaven/Cataclysm-DDA/pull/65032))
 * separate out body_part_set to another .h ([#65016](https://github.com/CleverRaven/Cataclysm-DDA/pull/65016))
 * port: Fix spellcasting items consuming charges when canceled ([#65013](https://github.com/CleverRaven/Cataclysm-DDA/pull/65013))
