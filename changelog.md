@@ -17,6 +17,11 @@
 #### Cataclysm-DDA experimental build 2023-04-17-2341 ([2a11a36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-2341))
 
 * Fix android missing header in system_locale.cpp ([#65142](https://github.com/CleverRaven/Cataclysm-DDA/pull/65142))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-17-0514 ([2d855d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0514))
+
 * Routine tileset updates on 16 April 2023 ([#65132](https://github.com/CleverRaven/Cataclysm-DDA/pull/65132))
 
 ---
@@ -57,6 +62,11 @@
 
 * Sewer Additions ([#65103](https://github.com/CleverRaven/Cataclysm-DDA/pull/65103))
 * Changelog: prevent new changelog PRs from clobbering existing ones ([#65080](https://github.com/CleverRaven/Cataclysm-DDA/pull/65080))
+
+---
+
+#### Cataclysm-DDA experimental build 2023-04-16-0530 ([a052de8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-0530))
+
 * Fix energy guns(AFS) on NPC ([#65088](https://github.com/CleverRaven/Cataclysm-DDA/pull/65088))
 * Port cata_utility to string_view ([#65089](https://github.com/CleverRaven/Cataclysm-DDA/pull/65089))
 * add widget var for remaining moves in current turn ([#65091](https://github.com/CleverRaven/Cataclysm-DDA/pull/65091))
@@ -159,23 +169,8 @@
 
 * Invalid soundpack json should be loud ([#65035](https://github.com/CleverRaven/Cataclysm-DDA/pull/65035))
 * 'variant' field should be optional in sound_effect and preload ([#65034](https://github.com/CleverRaven/Cataclysm-DDA/pull/65034))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-13-0615 ([026046b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-0615))
-
 * Fix Slimed turning you into a dodge god ([#65032](https://github.com/CleverRaven/Cataclysm-DDA/pull/65032))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-12-2256 ([a8a21a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-2256))
-
 * separate out body_part_set to another .h ([#65016](https://github.com/CleverRaven/Cataclysm-DDA/pull/65016))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-12-1708 ([3d15dcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-1708))
-
 * port: Fix spellcasting items consuming charges when canceled ([#65013](https://github.com/CleverRaven/Cataclysm-DDA/pull/65013))
 * Allow arrays in "variant" field of sound_effect JSON ([#65003](https://github.com/CleverRaven/Cataclysm-DDA/pull/65003))
 * Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))

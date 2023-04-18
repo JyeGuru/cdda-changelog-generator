@@ -14,6 +14,8 @@
 
 Cataclysm-DDA experimental build 2023-04-17-2341 (2a11a36)
 * Fix android missing header in system_locale.cpp (#65142)
+
+Cataclysm-DDA experimental build 2023-04-17-0514 (2d855d6)
 * Routine tileset updates on 16 April 2023 (#65132)
 
 Cataclysm-DDA experimental build 2023-04-17-0151 (496d785)
@@ -39,6 +41,8 @@ Cataclysm-DDA experimental build 2023-04-16-1735 (9c6bd5c)
 Cataclysm-DDA experimental build 2023-04-16-1343 (3b2a800)
 * Sewer Additions (#65103)
 * Changelog: prevent new changelog PRs from clobbering existing ones (#65080)
+
+Cataclysm-DDA experimental build 2023-04-16-0530 (a052de8)
 * Fix energy guns(AFS) on NPC (#65088)
 * Port cata_utility to string_view (#65089)
 * add widget var for remaining moves in current turn (#65091)
@@ -105,14 +109,8 @@ Cataclysm-DDA experimental build 2023-04-13-1819 (2fcf05f)
 Cataclysm-DDA experimental build 2023-04-13-1709 (2eb9ad1)
 * Invalid soundpack json should be loud (#65035)
 * 'variant' field should be optional in sound_effect and preload (#65034)
-
-Cataclysm-DDA experimental build 2023-04-13-0615 (026046b)
 * Fix Slimed turning you into a dodge god (#65032)
-
-Cataclysm-DDA experimental build 2023-04-12-2256 (a8a21a9)
 * separate out body_part_set to another .h (#65016)
-
-Cataclysm-DDA experimental build 2023-04-12-1708 (3d15dcc)
 * port: Fix spellcasting items consuming charges when canceled (#65013)
 * Allow arrays in "variant" field of sound_effect JSON (#65003)
 * Modernize string_formatter (#65014)
