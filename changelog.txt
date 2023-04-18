@@ -112,8 +112,6 @@ Cataclysm-DDA experimental build 2023-04-13-0615 (026046b)
 
 Cataclysm-DDA experimental build 2023-04-12-2256 (a8a21a9)
 * separate out body_part_set to another .h (#65016)
-
-Cataclysm-DDA experimental build 2023-04-12-1708 (3d15dcc)
 * port: Fix spellcasting items consuming charges when canceled (#65013)
 * Allow arrays in "variant" field of sound_effect JSON (#65003)
 * Modernize string_formatter (#65014)
