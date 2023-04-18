@@ -1,3 +1,4 @@
+* Fix body status menu info not reflecting the selected limb ([#65146](https://github.com/CleverRaven/Cataclysm-DDA/pull/65146))
 * Smooth out npc fear based on player strength ([#65151](https://github.com/CleverRaven/Cataclysm-DDA/pull/65151))
 * Add Post-Apocalyptic Professions to BNW ([#65020](https://github.com/CleverRaven/Cataclysm-DDA/pull/65020))
 * Incremental skills ([#65004](https://github.com/CleverRaven/Cataclysm-DDA/pull/65004))
