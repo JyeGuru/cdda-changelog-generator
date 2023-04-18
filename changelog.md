@@ -1,3 +1,4 @@
+* Try to debug language stats ([#65160](https://github.com/CleverRaven/Cataclysm-DDA/pull/65160))
 * Minor adjustment to the mansion escape EOC ([#65154](https://github.com/CleverRaven/Cataclysm-DDA/pull/65154))
 * Fix body status menu info not reflecting the selected limb ([#65146](https://github.com/CleverRaven/Cataclysm-DDA/pull/65146))
 * Smooth out npc fear based on player strength ([#65151](https://github.com/CleverRaven/Cataclysm-DDA/pull/65151))
@@ -172,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2023-04-13-0615 ([026046b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-0615))
 
 * Fix Slimed turning you into a dodge god ([#65032](https://github.com/CleverRaven/Cataclysm-DDA/pull/65032))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-12-2256 ([a8a21a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-12-2256))
-
 * separate out body_part_set to another .h ([#65016](https://github.com/CleverRaven/Cataclysm-DDA/pull/65016))
 * port: Fix spellcasting items consuming charges when canceled ([#65013](https://github.com/CleverRaven/Cataclysm-DDA/pull/65013))
 * Allow arrays in "variant" field of sound_effect JSON ([#65003](https://github.com/CleverRaven/Cataclysm-DDA/pull/65003))
@@ -184,7 +180,6 @@
 * math_parser/doc: add more var and shim examples ([#64973](https://github.com/CleverRaven/Cataclysm-DDA/pull/64973))
 * inventory_ui: cache entry category ([#65005](https://github.com/CleverRaven/Cataclysm-DDA/pull/65005))
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
-* Allow unvisited member checking of effects ([#64957](https://github.com/CleverRaven/Cataclysm-DDA/pull/64957))
 * [fix] energy consumption of taste mod CBM ([#64982](https://github.com/CleverRaven/Cataclysm-DDA/pull/64982))
 * Wield Widget hides (Folded) and tname now includes default_mods ([#64983](https://github.com/CleverRaven/Cataclysm-DDA/pull/64983))
 * Do not set charges to -1 on items that are not count by charges when filling a pocket ([#64986](https://github.com/CleverRaven/Cataclysm-DDA/pull/64986))
