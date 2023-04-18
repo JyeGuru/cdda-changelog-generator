@@ -1,3 +1,4 @@
+* Accessibility and Help Wanted labels make issues exempt to stale ([#65158](https://github.com/CleverRaven/Cataclysm-DDA/pull/65158))
 * Stop clairvoyance breaking Hub 01 and other fixes ([#65138](https://github.com/CleverRaven/Cataclysm-DDA/pull/65138))
 * Crazy Party professions additions ([#65152](https://github.com/CleverRaven/Cataclysm-DDA/pull/65152))
 * Try to debug language stats ([#65160](https://github.com/CleverRaven/Cataclysm-DDA/pull/65160))
