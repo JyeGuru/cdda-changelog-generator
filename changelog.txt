@@ -109,8 +109,6 @@ Cataclysm-DDA experimental build 2023-04-13-1819 (2fcf05f)
 Cataclysm-DDA experimental build 2023-04-13-1709 (2eb9ad1)
 * Invalid soundpack json should be loud (#65035)
 * 'variant' field should be optional in sound_effect and preload (#65034)
-
-Cataclysm-DDA experimental build 2023-04-13-0615 (026046b)
 * Fix Slimed turning you into a dodge god (#65032)
 * separate out body_part_set to another .h (#65016)
 * port: Fix spellcasting items consuming charges when canceled (#65013)
