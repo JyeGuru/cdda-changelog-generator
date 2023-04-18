@@ -1,3 +1,4 @@
+* Minor adjustment to the mansion escape EOC ([#65154](https://github.com/CleverRaven/Cataclysm-DDA/pull/65154))
 * Fix body status menu info not reflecting the selected limb ([#65146](https://github.com/CleverRaven/Cataclysm-DDA/pull/65146))
 * Smooth out npc fear based on player strength ([#65151](https://github.com/CleverRaven/Cataclysm-DDA/pull/65151))
 * Add Post-Apocalyptic Professions to BNW ([#65020](https://github.com/CleverRaven/Cataclysm-DDA/pull/65020))
@@ -205,4 +206,3 @@
 * Making nomad armors working again ([#64974](https://github.com/CleverRaven/Cataclysm-DDA/pull/64974))
 * [misc] red -> tomato & chilly subsitudes curry ([#64970](https://github.com/CleverRaven/Cataclysm-DDA/pull/64970))
 * Routine tileset updates on 09 April 2023 ([#64969](https://github.com/CleverRaven/Cataclysm-DDA/pull/64969))
-* Fix skipped member ([#64955](https://github.com/CleverRaven/Cataclysm-DDA/pull/64955))
