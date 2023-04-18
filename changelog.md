@@ -197,7 +197,6 @@
 * Fix Crash on Achievement Gain ([#64996](https://github.com/CleverRaven/Cataclysm-DDA/pull/64996))
 * math_parser: add more common math functions ([#64984](https://github.com/CleverRaven/Cataclysm-DDA/pull/64984))
 * [Magiclysm] attunements stuff ([#64946](https://github.com/CleverRaven/Cataclysm-DDA/pull/64946))
-* Add a rocky obstacle ([#64945](https://github.com/CleverRaven/Cataclysm-DDA/pull/64945))
 * Refresh equipment spell duration on recast ([#64963](https://github.com/CleverRaven/Cataclysm-DDA/pull/64963))
 * avatar/item: update cached flags when transforming items ([#64949](https://github.com/CleverRaven/Cataclysm-DDA/pull/64949))
 * bump actions/upload-artifacts to v3 ([#64962](https://github.com/CleverRaven/Cataclysm-DDA/pull/64962))
