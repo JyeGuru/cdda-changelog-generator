@@ -107,8 +107,6 @@ Cataclysm-DDA experimental build 2023-04-14-0517 (7ee5cd3)
 
 Cataclysm-DDA experimental build 2023-04-13-1819 (2fcf05f)
 * Fix crash bug with empty @ Speed effect list (#65036)
-
-Cataclysm-DDA experimental build 2023-04-13-1709 (2eb9ad1)
 * Invalid soundpack json should be loud (#65035)
 * 'variant' field should be optional in sound_effect and preload (#65034)
 * Fix Slimed turning you into a dodge god (#65032)
