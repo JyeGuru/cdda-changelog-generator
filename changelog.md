@@ -1,3 +1,5 @@
+* Magic scenario additions ([#65153](https://github.com/CleverRaven/Cataclysm-DDA/pull/65153))
+* Adjust vehicle part name to align degradation symbol ([#65149](https://github.com/CleverRaven/Cataclysm-DDA/pull/65149))
 * Weekly Changelog 2023-04-09 to 2023-04-16 ([#65110](https://github.com/CleverRaven/Cataclysm-DDA/pull/65110))
 * accessor for average NPC + stat reset fixes ([#65165](https://github.com/CleverRaven/Cataclysm-DDA/pull/65165))
 * New profession: Modern Archer ([#65156](https://github.com/CleverRaven/Cataclysm-DDA/pull/65156))
@@ -106,7 +108,6 @@
 #### Cataclysm-DDA experimental build 2023-04-15-0241 ([736c4b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-15-0241))
 
 * lower power trigger cost of alarm system ([#65076](https://github.com/CleverRaven/Cataclysm-DDA/pull/65076))
-* Prevent fire damaging unbreakable items ([#64979](https://github.com/CleverRaven/Cataclysm-DDA/pull/64979))
 * Fix energy drain on guns that use both UPS and internal bettery ([#65000](https://github.com/CleverRaven/Cataclysm-DDA/pull/65000))
 
 ---
@@ -150,11 +151,6 @@
 * eoc_math: use proper float comparison ([#65060](https://github.com/CleverRaven/Cataclysm-DDA/pull/65060))
 * Now persons really can open the doors ([#65047](https://github.com/CleverRaven/Cataclysm-DDA/pull/65047))
 * Resolve build warning/error ([#65066](https://github.com/CleverRaven/Cataclysm-DDA/pull/65066))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-14-0517 ([7ee5cd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-0517))
-
 * Add bread flour via food processor recipe ([#65022](https://github.com/CleverRaven/Cataclysm-DDA/pull/65022))
 * Fix crash bug with empty @ Speed effect list ([#65036](https://github.com/CleverRaven/Cataclysm-DDA/pull/65036))
 * Invalid soundpack json should be loud ([#65035](https://github.com/CleverRaven/Cataclysm-DDA/pull/65035))
@@ -166,7 +162,6 @@
 * Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))
 * inventory_ui: cache entry category ([#65005](https://github.com/CleverRaven/Cataclysm-DDA/pull/65005))
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
-* [fix] energy consumption of taste mod CBM ([#64982](https://github.com/CleverRaven/Cataclysm-DDA/pull/64982))
 * Wield Widget hides (Folded) and tname now includes default_mods ([#64983](https://github.com/CleverRaven/Cataclysm-DDA/pull/64983))
 * Do not set charges to -1 on items that are not count by charges when filling a pocket ([#64986](https://github.com/CleverRaven/Cataclysm-DDA/pull/64986))
 * Less dogs in house_detached4 ([#64987](https://github.com/CleverRaven/Cataclysm-DDA/pull/64987))
