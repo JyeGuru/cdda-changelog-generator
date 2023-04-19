@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-04-09 to 2023-04-16 (#65110)
 * accessor for average NPC + stat reset fixes (#65165)
 * New profession: Modern Archer (#65156)
 * Car-friendly urban planning (#65170)
@@ -104,8 +105,6 @@ Cataclysm-DDA experimental build 2023-04-14-0629 (40b1d9d)
 
 Cataclysm-DDA experimental build 2023-04-14-0517 (7ee5cd3)
 * Add bread flour via food processor recipe (#65022)
-
-Cataclysm-DDA experimental build 2023-04-13-1819 (2fcf05f)
 * Fix crash bug with empty @ Speed effect list (#65036)
 * Invalid soundpack json should be loud (#65035)
 * 'variant' field should be optional in sound_effect and preload (#65034)
@@ -125,4 +124,3 @@ Cataclysm-DDA experimental build 2023-04-13-1819 (2fcf05f)
 * handle_action.cpp: tiny terminal punctuation fix (#64998)
 * Fix Crash on Achievement Gain (#64996)
 * math_parser: add more common math functions (#64984)
-* Making nomad armors working again (#64974)

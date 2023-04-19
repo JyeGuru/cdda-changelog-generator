@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-04-09 to 2023-04-16 ([#65110](https://github.com/CleverRaven/Cataclysm-DDA/pull/65110))
 * accessor for average NPC + stat reset fixes ([#65165](https://github.com/CleverRaven/Cataclysm-DDA/pull/65165))
 * New profession: Modern Archer ([#65156](https://github.com/CleverRaven/Cataclysm-DDA/pull/65156))
 * Car-friendly urban planning ([#65170](https://github.com/CleverRaven/Cataclysm-DDA/pull/65170))
@@ -155,11 +156,6 @@
 #### Cataclysm-DDA experimental build 2023-04-14-0517 ([7ee5cd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-0517))
 
 * Add bread flour via food processor recipe ([#65022](https://github.com/CleverRaven/Cataclysm-DDA/pull/65022))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-13-1819 ([2fcf05f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-13-1819))
-
 * Fix crash bug with empty @ Speed effect list ([#65036](https://github.com/CleverRaven/Cataclysm-DDA/pull/65036))
 * Invalid soundpack json should be loud ([#65035](https://github.com/CleverRaven/Cataclysm-DDA/pull/65035))
 * 'variant' field should be optional in sound_effect and preload ([#65034](https://github.com/CleverRaven/Cataclysm-DDA/pull/65034))
@@ -179,4 +175,3 @@
 * handle_action.cpp: tiny terminal punctuation fix ([#64998](https://github.com/CleverRaven/Cataclysm-DDA/pull/64998))
 * Fix Crash on Achievement Gain ([#64996](https://github.com/CleverRaven/Cataclysm-DDA/pull/64996))
 * math_parser: add more common math functions ([#64984](https://github.com/CleverRaven/Cataclysm-DDA/pull/64984))
-* Making nomad armors working again ([#64974](https://github.com/CleverRaven/Cataclysm-DDA/pull/64974))
