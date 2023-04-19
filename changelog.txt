@@ -96,8 +96,6 @@ Cataclysm-DDA experimental build 2023-04-14-2340 (440b313)
 
 Cataclysm-DDA experimental build 2023-04-14-1454 (39fb637)
 * Misc Comestible Fixes (#65071)
-
-Cataclysm-DDA experimental build 2023-04-14-0629 (40b1d9d)
 * Fix inline EOC duplicate detection (#65043)
 * Edit desctription of person (#65059)
 * eoc_math: use proper float comparison (#65060)

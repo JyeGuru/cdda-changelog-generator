@@ -141,11 +141,6 @@
 #### Cataclysm-DDA experimental build 2023-04-14-1454 ([39fb637](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-1454))
 
 * Misc Comestible Fixes ([#65071](https://github.com/CleverRaven/Cataclysm-DDA/pull/65071))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-14-0629 ([40b1d9d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-0629))
-
 * Fix inline EOC duplicate detection ([#65043](https://github.com/CleverRaven/Cataclysm-DDA/pull/65043))
 * Edit desctription of person ([#65059](https://github.com/CleverRaven/Cataclysm-DDA/pull/65059))
 * eoc_math: use proper float comparison ([#65060](https://github.com/CleverRaven/Cataclysm-DDA/pull/65060))
