@@ -1,3 +1,4 @@
+* Portal Storm Coherency Pass ([#65129](https://github.com/CleverRaven/Cataclysm-DDA/pull/65129))
 * Magic scenario additions ([#65153](https://github.com/CleverRaven/Cataclysm-DDA/pull/65153))
 * Adjust vehicle part name to align degradation symbol ([#65149](https://github.com/CleverRaven/Cataclysm-DDA/pull/65149))
 * Weekly Changelog 2023-04-09 to 2023-04-16 ([#65110](https://github.com/CleverRaven/Cataclysm-DDA/pull/65110))
@@ -135,11 +136,6 @@
 
 * Fix message about rot when eating with saprophage  ([#65068](https://github.com/CleverRaven/Cataclysm-DDA/pull/65068))
 * Update bug_report.yaml ([#65079](https://github.com/CleverRaven/Cataclysm-DDA/pull/65079))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-14-1454 ([39fb637](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-1454))
-
 * Misc Comestible Fixes ([#65071](https://github.com/CleverRaven/Cataclysm-DDA/pull/65071))
 * Fix inline EOC duplicate detection ([#65043](https://github.com/CleverRaven/Cataclysm-DDA/pull/65043))
 * Edit desctription of person ([#65059](https://github.com/CleverRaven/Cataclysm-DDA/pull/65059))
@@ -157,7 +153,6 @@
 * Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))
 * inventory_ui: cache entry category ([#65005](https://github.com/CleverRaven/Cataclysm-DDA/pull/65005))
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
-* Wield Widget hides (Folded) and tname now includes default_mods ([#64983](https://github.com/CleverRaven/Cataclysm-DDA/pull/64983))
 * Do not set charges to -1 on items that are not count by charges when filling a pocket ([#64986](https://github.com/CleverRaven/Cataclysm-DDA/pull/64986))
 * Less dogs in house_detached4 ([#64987](https://github.com/CleverRaven/Cataclysm-DDA/pull/64987))
 * Add bundling for synthetic fabric ([#64993](https://github.com/CleverRaven/Cataclysm-DDA/pull/64993))
