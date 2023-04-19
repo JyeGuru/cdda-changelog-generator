@@ -1,3 +1,7 @@
+* accessor for average NPC + stat reset fixes ([#65165](https://github.com/CleverRaven/Cataclysm-DDA/pull/65165))
+* New profession: Modern Archer ([#65156](https://github.com/CleverRaven/Cataclysm-DDA/pull/65156))
+* Car-friendly urban planning ([#65170](https://github.com/CleverRaven/Cataclysm-DDA/pull/65170))
+* Fix reactor power ([#65167](https://github.com/CleverRaven/Cataclysm-DDA/pull/65167))
 * Accessibility and Help Wanted labels make issues exempt to stale ([#65158](https://github.com/CleverRaven/Cataclysm-DDA/pull/65158))
 * Stop clairvoyance breaking Hub 01 and other fixes ([#65138](https://github.com/CleverRaven/Cataclysm-DDA/pull/65138))
 * Crazy Party professions additions ([#65152](https://github.com/CleverRaven/Cataclysm-DDA/pull/65152))
@@ -132,12 +136,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-04-14-1718 ([3e920a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-1718))
-
-* Migrate some JSON APIs to string_view ([#64971](https://github.com/CleverRaven/Cataclysm-DDA/pull/64971))
-
----
-
 #### Cataclysm-DDA experimental build 2023-04-14-1454 ([39fb637](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-1454))
 
 * Misc Comestible Fixes ([#65071](https://github.com/CleverRaven/Cataclysm-DDA/pull/65071))
@@ -175,7 +173,6 @@
 * port: Fix spellcasting items consuming charges when canceled ([#65013](https://github.com/CleverRaven/Cataclysm-DDA/pull/65013))
 * Allow arrays in "variant" field of sound_effect JSON ([#65003](https://github.com/CleverRaven/Cataclysm-DDA/pull/65003))
 * Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))
-* math_parser/doc: add more var and shim examples ([#64973](https://github.com/CleverRaven/Cataclysm-DDA/pull/64973))
 * inventory_ui: cache entry category ([#65005](https://github.com/CleverRaven/Cataclysm-DDA/pull/65005))
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
 * [fix] energy consumption of taste mod CBM ([#64982](https://github.com/CleverRaven/Cataclysm-DDA/pull/64982))
@@ -188,5 +185,3 @@
 * Fix Crash on Achievement Gain ([#64996](https://github.com/CleverRaven/Cataclysm-DDA/pull/64996))
 * math_parser: add more common math functions ([#64984](https://github.com/CleverRaven/Cataclysm-DDA/pull/64984))
 * Making nomad armors working again ([#64974](https://github.com/CleverRaven/Cataclysm-DDA/pull/64974))
-* [misc] red -> tomato & chilly subsitudes curry ([#64970](https://github.com/CleverRaven/Cataclysm-DDA/pull/64970))
-* Routine tileset updates on 09 April 2023 ([#64969](https://github.com/CleverRaven/Cataclysm-DDA/pull/64969))
