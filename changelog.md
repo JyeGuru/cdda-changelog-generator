@@ -52,12 +52,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2023-04-16-2146 ([66271c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-2146))
-
-* Put Soap in Mall Sinks ([#64985](https://github.com/CleverRaven/Cataclysm-DDA/pull/64985))
-
----
-
 #### Cataclysm-DDA experimental build 2023-04-16-1735 ([9c6bd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-1735))
 
 * Obsolete non-modular rigs ([#65112](https://github.com/CleverRaven/Cataclysm-DDA/pull/65112))
