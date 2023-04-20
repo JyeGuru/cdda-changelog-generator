@@ -1,3 +1,4 @@
+* Less dogs in house_detached6 ([#65192](https://github.com/CleverRaven/Cataclysm-DDA/pull/65192))
 * Portal Storm Coherency Pass ([#65129](https://github.com/CleverRaven/Cataclysm-DDA/pull/65129))
 * Magic scenario additions ([#65153](https://github.com/CleverRaven/Cataclysm-DDA/pull/65153))
 * Adjust vehicle part name to align degradation symbol ([#65149](https://github.com/CleverRaven/Cataclysm-DDA/pull/65149))
@@ -110,11 +111,6 @@
 
 * lower power trigger cost of alarm system ([#65076](https://github.com/CleverRaven/Cataclysm-DDA/pull/65076))
 * Fix energy drain on guns that use both UPS and internal bettery ([#65000](https://github.com/CleverRaven/Cataclysm-DDA/pull/65000))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-15-0042 ([b0146f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-15-0042))
-
 * load correct stat_hp_mods ([#65055](https://github.com/CleverRaven/Cataclysm-DDA/pull/65055))
 * Fix and enhance camp radio tower ([#65026](https://github.com/CleverRaven/Cataclysm-DDA/pull/65026))
 * Replace flat modifiers for learning traits with multiplication ([#64994](https://github.com/CleverRaven/Cataclysm-DDA/pull/64994))
@@ -154,4 +150,3 @@
 * Prevent broken vp in-place replacement when racked ([#64995](https://github.com/CleverRaven/Cataclysm-DDA/pull/64995))
 * handle_action.cpp: tiny terminal punctuation fix ([#64998](https://github.com/CleverRaven/Cataclysm-DDA/pull/64998))
 * Fix Crash on Achievement Gain ([#64996](https://github.com/CleverRaven/Cataclysm-DDA/pull/64996))
-* math_parser: add more common math functions ([#64984](https://github.com/CleverRaven/Cataclysm-DDA/pull/64984))
