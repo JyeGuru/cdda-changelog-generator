@@ -129,11 +129,6 @@
 * update various outdated github actions ([#65042](https://github.com/CleverRaven/Cataclysm-DDA/pull/65042))
 * Item summoning spells now respect keep hands free option ([#65049](https://github.com/CleverRaven/Cataclysm-DDA/pull/65049))
 * Fix using unload_everything zone to remove gunmod gets copies of gunmod. ([#65051](https://github.com/CleverRaven/Cataclysm-DDA/pull/65051))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-14-2340 ([440b313](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-14-2340))
-
 * Fix message about rot when eating with saprophage  ([#65068](https://github.com/CleverRaven/Cataclysm-DDA/pull/65068))
 * Update bug_report.yaml ([#65079](https://github.com/CleverRaven/Cataclysm-DDA/pull/65079))
 * Misc Comestible Fixes ([#65071](https://github.com/CleverRaven/Cataclysm-DDA/pull/65071))
