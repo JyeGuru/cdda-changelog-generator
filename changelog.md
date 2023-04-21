@@ -1,3 +1,5 @@
+* Add `longest_side` to bullets ([#65184](https://github.com/CleverRaven/Cataclysm-DDA/pull/65184))
+* Add mutation ordering for hair variants ([#65188](https://github.com/CleverRaven/Cataclysm-DDA/pull/65188))
 * Yogurt starter culture item, spawn and use ([#65198](https://github.com/CleverRaven/Cataclysm-DDA/pull/65198))
 * Use average NPC's stats to calculate faction camp gained calories ([#65168](https://github.com/CleverRaven/Cataclysm-DDA/pull/65168))
 * a few new child notes and video snippets. ([#65085](https://github.com/CleverRaven/Cataclysm-DDA/pull/65085))
@@ -102,7 +104,6 @@
 * Routine i18n updates on 15 April 2023 ([#65083](https://github.com/CleverRaven/Cataclysm-DDA/pull/65083))
 * Fix wool arming mittens name ([#65084](https://github.com/CleverRaven/Cataclysm-DDA/pull/65084))
 * lower power trigger cost of alarm system ([#65076](https://github.com/CleverRaven/Cataclysm-DDA/pull/65076))
-* Fix energy drain on guns that use both UPS and internal bettery ([#65000](https://github.com/CleverRaven/Cataclysm-DDA/pull/65000))
 * load correct stat_hp_mods ([#65055](https://github.com/CleverRaven/Cataclysm-DDA/pull/65055))
 * Fix and enhance camp radio tower ([#65026](https://github.com/CleverRaven/Cataclysm-DDA/pull/65026))
 * Make safemode safe again: don't attack neutral creatures via move ([#65075](https://github.com/CleverRaven/Cataclysm-DDA/pull/65075))
@@ -133,4 +134,3 @@
 * Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))
 * inventory_ui: cache entry category ([#65005](https://github.com/CleverRaven/Cataclysm-DDA/pull/65005))
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
-* handle_action.cpp: tiny terminal punctuation fix ([#64998](https://github.com/CleverRaven/Cataclysm-DDA/pull/64998))
