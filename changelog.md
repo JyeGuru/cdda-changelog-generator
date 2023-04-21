@@ -1,3 +1,4 @@
+* Magic Professions ([#65214](https://github.com/CleverRaven/Cataclysm-DDA/pull/65214))
 * Make weapons recognized as weapons ([#65136](https://github.com/CleverRaven/Cataclysm-DDA/pull/65136))
 * Fix repairing amount for items ([#65181](https://github.com/CleverRaven/Cataclysm-DDA/pull/65181))
 * Add no damage message for ranged weakpoint hits ([#65183](https://github.com/CleverRaven/Cataclysm-DDA/pull/65183))
@@ -133,4 +134,3 @@
 * separate out body_part_set to another .h ([#65016](https://github.com/CleverRaven/Cataclysm-DDA/pull/65016))
 * port: Fix spellcasting items consuming charges when canceled ([#65013](https://github.com/CleverRaven/Cataclysm-DDA/pull/65013))
 * Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))
-* inventory_ui: cache entry category ([#65005](https://github.com/CleverRaven/Cataclysm-DDA/pull/65005))
