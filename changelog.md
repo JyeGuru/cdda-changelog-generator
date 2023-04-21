@@ -1,3 +1,5 @@
+* Differentiate 12.3ln/.30-06 rounds; add reloads for exodii ammo ([#65208](https://github.com/CleverRaven/Cataclysm-DDA/pull/65208))
+* No more domestic tigers ([#65209](https://github.com/CleverRaven/Cataclysm-DDA/pull/65209))
 * Less dogs in house_detached6 ([#65192](https://github.com/CleverRaven/Cataclysm-DDA/pull/65192))
 * Portal Storm Coherency Pass ([#65129](https://github.com/CleverRaven/Cataclysm-DDA/pull/65129))
 * Magic scenario additions ([#65153](https://github.com/CleverRaven/Cataclysm-DDA/pull/65153))
@@ -98,11 +100,6 @@
 
 * Routine i18n updates on 15 April 2023 ([#65083](https://github.com/CleverRaven/Cataclysm-DDA/pull/65083))
 * Fix wool arming mittens name ([#65084](https://github.com/CleverRaven/Cataclysm-DDA/pull/65084))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-15-0241 ([736c4b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-15-0241))
-
 * lower power trigger cost of alarm system ([#65076](https://github.com/CleverRaven/Cataclysm-DDA/pull/65076))
 * Fix energy drain on guns that use both UPS and internal bettery ([#65000](https://github.com/CleverRaven/Cataclysm-DDA/pull/65000))
 * load correct stat_hp_mods ([#65055](https://github.com/CleverRaven/Cataclysm-DDA/pull/65055))
@@ -138,8 +135,6 @@
 * Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))
 * inventory_ui: cache entry category ([#65005](https://github.com/CleverRaven/Cataclysm-DDA/pull/65005))
 * Fix some unvisited members ([#65001](https://github.com/CleverRaven/Cataclysm-DDA/pull/65001))
-* Do not set charges to -1 on items that are not count by charges when filling a pocket ([#64986](https://github.com/CleverRaven/Cataclysm-DDA/pull/64986))
-* Less dogs in house_detached4 ([#64987](https://github.com/CleverRaven/Cataclysm-DDA/pull/64987))
 * Add bundling for synthetic fabric ([#64993](https://github.com/CleverRaven/Cataclysm-DDA/pull/64993))
 * Prevent broken vp in-place replacement when racked ([#64995](https://github.com/CleverRaven/Cataclysm-DDA/pull/64995))
 * handle_action.cpp: tiny terminal punctuation fix ([#64998](https://github.com/CleverRaven/Cataclysm-DDA/pull/64998))
