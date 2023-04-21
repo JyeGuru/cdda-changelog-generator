@@ -1,3 +1,4 @@
+* [Interface] Fix that allow zebra looks better ([#65210](https://github.com/CleverRaven/Cataclysm-DDA/pull/65210))
 * Differentiate 12.3ln/.30-06 rounds; add reloads for exodii ammo ([#65208](https://github.com/CleverRaven/Cataclysm-DDA/pull/65208))
 * No more domestic tigers ([#65209](https://github.com/CleverRaven/Cataclysm-DDA/pull/65209))
 * Less dogs in house_detached6 ([#65192](https://github.com/CleverRaven/Cataclysm-DDA/pull/65192))
@@ -93,11 +94,6 @@
 #### Cataclysm-DDA experimental build 2023-04-15-2147 ([7376b82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-15-2147))
 
 * Clothing and Armor Coverage Conversion Part 4 ([#65008](https://github.com/CleverRaven/Cataclysm-DDA/pull/65008))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-15-0610 ([b4113c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-15-0610))
-
 * Routine i18n updates on 15 April 2023 ([#65083](https://github.com/CleverRaven/Cataclysm-DDA/pull/65083))
 * Fix wool arming mittens name ([#65084](https://github.com/CleverRaven/Cataclysm-DDA/pull/65084))
 * lower power trigger cost of alarm system ([#65076](https://github.com/CleverRaven/Cataclysm-DDA/pull/65076))
@@ -111,7 +107,6 @@
 * Add ROPE 2 and SUSPENDING 2 to hoists ([#65017](https://github.com/CleverRaven/Cataclysm-DDA/pull/65017))
 * Add natural sausage casings to Ye Scots Beuk o Cuikery ([#65021](https://github.com/CleverRaven/Cataclysm-DDA/pull/65021))
 * [GG]migrate feral guns ([#65023](https://github.com/CleverRaven/Cataclysm-DDA/pull/65023))
-* alternative fix: item spawning spells with no min/max damage ([#64989](https://github.com/CleverRaven/Cataclysm-DDA/pull/64989))
 * prevent spam from linter bot reviews ([#65039](https://github.com/CleverRaven/Cataclysm-DDA/pull/65039))
 * update various outdated github actions ([#65042](https://github.com/CleverRaven/Cataclysm-DDA/pull/65042))
 * Item summoning spells now respect keep hands free option ([#65049](https://github.com/CleverRaven/Cataclysm-DDA/pull/65049))
