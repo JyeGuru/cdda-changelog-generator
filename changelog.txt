@@ -74,7 +74,6 @@ Cataclysm-DDA experimental build 2023-04-16-0530 (a052de8)
 
 Cataclysm-DDA experimental build 2023-04-16-0417 (625cd3a)
 * Despawn traumatized travellers. (#65107)
-* Clothing and Armor Coverage Conversion Part 4 (#65008)
 * Routine i18n updates on 15 April 2023 (#65083)
 * Fix wool arming mittens name (#65084)
 * lower power trigger cost of alarm system (#65076)
