@@ -98,11 +98,6 @@
 #### Cataclysm-DDA experimental build 2023-04-16-0417 ([625cd3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-0417))
 
 * Despawn traumatized travellers. ([#65107](https://github.com/CleverRaven/Cataclysm-DDA/pull/65107))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-15-2147 ([7376b82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-15-2147))
-
 * Clothing and Armor Coverage Conversion Part 4 ([#65008](https://github.com/CleverRaven/Cataclysm-DDA/pull/65008))
 * Routine i18n updates on 15 April 2023 ([#65083](https://github.com/CleverRaven/Cataclysm-DDA/pull/65083))
 * Fix wool arming mittens name ([#65084](https://github.com/CleverRaven/Cataclysm-DDA/pull/65084))
