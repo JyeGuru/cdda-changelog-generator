@@ -1,3 +1,4 @@
+* Set Fixed ordering for skills in info menu, regardless of language chosen ([#65226](https://github.com/CleverRaven/Cataclysm-DDA/pull/65226))
 * Add new types of artifacts ([#65203](https://github.com/CleverRaven/Cataclysm-DDA/pull/65203))
 * Cowboy profession ([#65215](https://github.com/CleverRaven/Cataclysm-DDA/pull/65215))
 * Rebalanced generic zombie drops and bugout bags ([#65234](https://github.com/CleverRaven/Cataclysm-DDA/pull/65234))
@@ -91,7 +92,6 @@
 * Fix and enhance camp radio tower ([#65026](https://github.com/CleverRaven/Cataclysm-DDA/pull/65026))
 * Make safemode safe again: don't attack neutral creatures via move ([#65075](https://github.com/CleverRaven/Cataclysm-DDA/pull/65075))
 * math_parser/eoc: port u_val pain to math ([#65058](https://github.com/CleverRaven/Cataclysm-DDA/pull/65058))
-* [GG]migrate feral guns ([#65023](https://github.com/CleverRaven/Cataclysm-DDA/pull/65023))
 * prevent spam from linter bot reviews ([#65039](https://github.com/CleverRaven/Cataclysm-DDA/pull/65039))
 * update various outdated github actions ([#65042](https://github.com/CleverRaven/Cataclysm-DDA/pull/65042))
 * Item summoning spells now respect keep hands free option ([#65049](https://github.com/CleverRaven/Cataclysm-DDA/pull/65049))
