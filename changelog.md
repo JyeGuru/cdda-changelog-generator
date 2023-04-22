@@ -1,3 +1,11 @@
+* Allow vertical movement for avatar in water ([#65174](https://github.com/CleverRaven/Cataclysm-DDA/pull/65174))
+* Activate whole stack of delayed_transformable comestibles ([#65245](https://github.com/CleverRaven/Cataclysm-DDA/pull/65245))
+* item::in_container can fill up a container with non-charge items ([#65247](https://github.com/CleverRaven/Cataclysm-DDA/pull/65247))
+* Add option to hide bionics ([#65243](https://github.com/CleverRaven/Cataclysm-DDA/pull/65243))
+* fix: house32 glass door windows ([#65190](https://github.com/CleverRaven/Cataclysm-DDA/pull/65190))
+* new begin event ([#65235](https://github.com/CleverRaven/Cataclysm-DDA/pull/65235))
+* Mouse thumb button support ([#65169](https://github.com/CleverRaven/Cataclysm-DDA/pull/65169))
+* Minor vehicle fixes ([#65148](https://github.com/CleverRaven/Cataclysm-DDA/pull/65148))
 * Ignore hostile_spotted_far while aiming, jsonify activity ignored distractions ([#65175](https://github.com/CleverRaven/Cataclysm-DDA/pull/65175))
 * Set Fixed ordering for skills in info menu, regardless of language chosen ([#65226](https://github.com/CleverRaven/Cataclysm-DDA/pull/65226))
 * Add new types of artifacts ([#65203](https://github.com/CleverRaven/Cataclysm-DDA/pull/65203))
@@ -65,11 +73,6 @@
 #### Cataclysm-DDA experimental build 2023-04-17-0032 ([da7a144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0032))
 
 * actual fix for real this time: item spawning spells with no min/max damage ([#65133](https://github.com/CleverRaven/Cataclysm-DDA/pull/65133))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-16-1735 ([9c6bd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-1735))
-
 * Obsolete non-modular rigs ([#65112](https://github.com/CleverRaven/Cataclysm-DDA/pull/65112))
 * eoc: untemplate all EOC code ([#65069](https://github.com/CleverRaven/Cataclysm-DDA/pull/65069))
 * add second brighter mode to cranial flashlight ([#65078](https://github.com/CleverRaven/Cataclysm-DDA/pull/65078))
@@ -92,8 +95,6 @@
 * load correct stat_hp_mods ([#65055](https://github.com/CleverRaven/Cataclysm-DDA/pull/65055))
 * Make safemode safe again: don't attack neutral creatures via move ([#65075](https://github.com/CleverRaven/Cataclysm-DDA/pull/65075))
 * math_parser/eoc: port u_val pain to math ([#65058](https://github.com/CleverRaven/Cataclysm-DDA/pull/65058))
-* prevent spam from linter bot reviews ([#65039](https://github.com/CleverRaven/Cataclysm-DDA/pull/65039))
-* update various outdated github actions ([#65042](https://github.com/CleverRaven/Cataclysm-DDA/pull/65042))
 * Item summoning spells now respect keep hands free option ([#65049](https://github.com/CleverRaven/Cataclysm-DDA/pull/65049))
 * Fix using unload_everything zone to remove gunmod gets copies of gunmod. ([#65051](https://github.com/CleverRaven/Cataclysm-DDA/pull/65051))
 * Fix message about rot when eating with saprophage  ([#65068](https://github.com/CleverRaven/Cataclysm-DDA/pull/65068))
@@ -104,7 +105,3 @@
 * eoc_math: use proper float comparison ([#65060](https://github.com/CleverRaven/Cataclysm-DDA/pull/65060))
 * Now persons really can open the doors ([#65047](https://github.com/CleverRaven/Cataclysm-DDA/pull/65047))
 * Resolve build warning/error ([#65066](https://github.com/CleverRaven/Cataclysm-DDA/pull/65066))
-* Fix crash bug with empty @ Speed effect list ([#65036](https://github.com/CleverRaven/Cataclysm-DDA/pull/65036))
-* Invalid soundpack json should be loud ([#65035](https://github.com/CleverRaven/Cataclysm-DDA/pull/65035))
-* 'variant' field should be optional in sound_effect and preload ([#65034](https://github.com/CleverRaven/Cataclysm-DDA/pull/65034))
-* Fix Slimed turning you into a dodge god ([#65032](https://github.com/CleverRaven/Cataclysm-DDA/pull/65032))
