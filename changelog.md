@@ -75,11 +75,6 @@
 * add second brighter mode to cranial flashlight ([#65078](https://github.com/CleverRaven/Cataclysm-DDA/pull/65078))
 * Convention center ([#65097](https://github.com/CleverRaven/Cataclysm-DDA/pull/65097))
 * Kevlar hulk mutation line has an extra step ([#65101](https://github.com/CleverRaven/Cataclysm-DDA/pull/65101))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-16-1343 ([3b2a800](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-1343))
-
 * Sewer Additions ([#65103](https://github.com/CleverRaven/Cataclysm-DDA/pull/65103))
 * Changelog: prevent new changelog PRs from clobbering existing ones ([#65080](https://github.com/CleverRaven/Cataclysm-DDA/pull/65080))
 * Fix energy guns(AFS) on NPC ([#65088](https://github.com/CleverRaven/Cataclysm-DDA/pull/65088))
