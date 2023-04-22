@@ -1,3 +1,7 @@
+* Add new types of artifacts ([#65203](https://github.com/CleverRaven/Cataclysm-DDA/pull/65203))
+* Cowboy profession ([#65215](https://github.com/CleverRaven/Cataclysm-DDA/pull/65215))
+* Rebalanced generic zombie drops and bugout bags ([#65234](https://github.com/CleverRaven/Cataclysm-DDA/pull/65234))
+* Start Locations Expanded ([#65239](https://github.com/CleverRaven/Cataclysm-DDA/pull/65239))
 * Add default values for portal storm dungeon effects ([#65237](https://github.com/CleverRaven/Cataclysm-DDA/pull/65237))
 * [bombastic perks] Frankenperk ([#65199](https://github.com/CleverRaven/Cataclysm-DDA/pull/65199))
 * Lots of string view ([#65176](https://github.com/CleverRaven/Cataclysm-DDA/pull/65176))
@@ -32,7 +36,6 @@
 * Minor adjustment to the mansion escape EOC ([#65154](https://github.com/CleverRaven/Cataclysm-DDA/pull/65154))
 * Fix body status menu info not reflecting the selected limb ([#65146](https://github.com/CleverRaven/Cataclysm-DDA/pull/65146))
 * Smooth out npc fear based on player strength ([#65151](https://github.com/CleverRaven/Cataclysm-DDA/pull/65151))
-* Add Post-Apocalyptic Professions to BNW ([#65020](https://github.com/CleverRaven/Cataclysm-DDA/pull/65020))
 * Port generic_factory functions to string_view ([#65120](https://github.com/CleverRaven/Cataclysm-DDA/pull/65120))
 * Scenario additions ([#65116](https://github.com/CleverRaven/Cataclysm-DDA/pull/65116))
 * Make the plural form of some book the same as its singular title. ([#65139](https://github.com/CleverRaven/Cataclysm-DDA/pull/65139))
@@ -50,12 +53,6 @@
 #### Cataclysm-DDA experimental build 2023-04-17-0514 ([2d855d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0514))
 
 * Routine tileset updates on 16 April 2023 ([#65132](https://github.com/CleverRaven/Cataclysm-DDA/pull/65132))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-17-0151 ([496d785](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0151))
-
-* Fix tourniquet ([#65019](https://github.com/CleverRaven/Cataclysm-DDA/pull/65019))
 * Auras no longer burn and do not block bites ([#65086](https://github.com/CleverRaven/Cataclysm-DDA/pull/65086))
 * Fix nullptr-> crash when aborting world creation ([#65124](https://github.com/CleverRaven/Cataclysm-DDA/pull/65124))
 * Roof palettizing: homeless shelter ([#65126](https://github.com/CleverRaven/Cataclysm-DDA/pull/65126))
@@ -94,7 +91,6 @@
 * Fix and enhance camp radio tower ([#65026](https://github.com/CleverRaven/Cataclysm-DDA/pull/65026))
 * Make safemode safe again: don't attack neutral creatures via move ([#65075](https://github.com/CleverRaven/Cataclysm-DDA/pull/65075))
 * math_parser/eoc: port u_val pain to math ([#65058](https://github.com/CleverRaven/Cataclysm-DDA/pull/65058))
-* Add natural sausage casings to Ye Scots Beuk o Cuikery ([#65021](https://github.com/CleverRaven/Cataclysm-DDA/pull/65021))
 * [GG]migrate feral guns ([#65023](https://github.com/CleverRaven/Cataclysm-DDA/pull/65023))
 * prevent spam from linter bot reviews ([#65039](https://github.com/CleverRaven/Cataclysm-DDA/pull/65039))
 * update various outdated github actions ([#65042](https://github.com/CleverRaven/Cataclysm-DDA/pull/65042))
@@ -108,7 +104,6 @@
 * eoc_math: use proper float comparison ([#65060](https://github.com/CleverRaven/Cataclysm-DDA/pull/65060))
 * Now persons really can open the doors ([#65047](https://github.com/CleverRaven/Cataclysm-DDA/pull/65047))
 * Resolve build warning/error ([#65066](https://github.com/CleverRaven/Cataclysm-DDA/pull/65066))
-* Add bread flour via food processor recipe ([#65022](https://github.com/CleverRaven/Cataclysm-DDA/pull/65022))
 * Fix crash bug with empty @ Speed effect list ([#65036](https://github.com/CleverRaven/Cataclysm-DDA/pull/65036))
 * Invalid soundpack json should be loud ([#65035](https://github.com/CleverRaven/Cataclysm-DDA/pull/65035))
 * 'variant' field should be optional in sound_effect and preload ([#65034](https://github.com/CleverRaven/Cataclysm-DDA/pull/65034))
