@@ -1,3 +1,4 @@
+* Ignore hostile_spotted_far while aiming, jsonify activity ignored distractions ([#65175](https://github.com/CleverRaven/Cataclysm-DDA/pull/65175))
 * Set Fixed ordering for skills in info menu, regardless of language chosen ([#65226](https://github.com/CleverRaven/Cataclysm-DDA/pull/65226))
 * Add new types of artifacts ([#65203](https://github.com/CleverRaven/Cataclysm-DDA/pull/65203))
 * Cowboy profession ([#65215](https://github.com/CleverRaven/Cataclysm-DDA/pull/65215))
@@ -89,7 +90,6 @@
 * Fix wool arming mittens name ([#65084](https://github.com/CleverRaven/Cataclysm-DDA/pull/65084))
 * lower power trigger cost of alarm system ([#65076](https://github.com/CleverRaven/Cataclysm-DDA/pull/65076))
 * load correct stat_hp_mods ([#65055](https://github.com/CleverRaven/Cataclysm-DDA/pull/65055))
-* Fix and enhance camp radio tower ([#65026](https://github.com/CleverRaven/Cataclysm-DDA/pull/65026))
 * Make safemode safe again: don't attack neutral creatures via move ([#65075](https://github.com/CleverRaven/Cataclysm-DDA/pull/65075))
 * math_parser/eoc: port u_val pain to math ([#65058](https://github.com/CleverRaven/Cataclysm-DDA/pull/65058))
 * prevent spam from linter bot reviews ([#65039](https://github.com/CleverRaven/Cataclysm-DDA/pull/65039))
