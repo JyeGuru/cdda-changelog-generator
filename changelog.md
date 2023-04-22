@@ -1,3 +1,4 @@
+* Add default values for portal storm dungeon effects ([#65237](https://github.com/CleverRaven/Cataclysm-DDA/pull/65237))
 * [bombastic perks] Frankenperk ([#65199](https://github.com/CleverRaven/Cataclysm-DDA/pull/65199))
 * Lots of string view ([#65176](https://github.com/CleverRaven/Cataclysm-DDA/pull/65176))
 * Routine i18n updates on 22 April 2023 ([#65236](https://github.com/CleverRaven/Cataclysm-DDA/pull/65236))
