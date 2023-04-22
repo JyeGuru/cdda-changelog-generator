@@ -1,3 +1,4 @@
+* Routine i18n updates on 22 April 2023 ([#65236](https://github.com/CleverRaven/Cataclysm-DDA/pull/65236))
 * Magic Professions ([#65214](https://github.com/CleverRaven/Cataclysm-DDA/pull/65214))
 * Make weapons recognized as weapons ([#65136](https://github.com/CleverRaven/Cataclysm-DDA/pull/65136))
 * Fix repairing amount for items ([#65181](https://github.com/CleverRaven/Cataclysm-DDA/pull/65181))
@@ -92,11 +93,6 @@
 * fix: linter workflow canceling loop ([#65096](https://github.com/CleverRaven/Cataclysm-DDA/pull/65096))
 * Clarify Ki strike description ([#65098](https://github.com/CleverRaven/Cataclysm-DDA/pull/65098))
 * Mention comestible rot_spawn in baby_egg docs ([#65105](https://github.com/CleverRaven/Cataclysm-DDA/pull/65105))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-16-0417 ([625cd3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-16-0417))
-
 * Despawn traumatized travellers. ([#65107](https://github.com/CleverRaven/Cataclysm-DDA/pull/65107))
 * Routine i18n updates on 15 April 2023 ([#65083](https://github.com/CleverRaven/Cataclysm-DDA/pull/65083))
 * Fix wool arming mittens name ([#65084](https://github.com/CleverRaven/Cataclysm-DDA/pull/65084))
@@ -126,4 +122,3 @@
 * 'variant' field should be optional in sound_effect and preload ([#65034](https://github.com/CleverRaven/Cataclysm-DDA/pull/65034))
 * Fix Slimed turning you into a dodge god ([#65032](https://github.com/CleverRaven/Cataclysm-DDA/pull/65032))
 * separate out body_part_set to another .h ([#65016](https://github.com/CleverRaven/Cataclysm-DDA/pull/65016))
-* Modernize string_formatter ([#65014](https://github.com/CleverRaven/Cataclysm-DDA/pull/65014))
