@@ -1,3 +1,4 @@
+* [bombastic perks] Frankenperk ([#65199](https://github.com/CleverRaven/Cataclysm-DDA/pull/65199))
 * Lots of string view ([#65176](https://github.com/CleverRaven/Cataclysm-DDA/pull/65176))
 * Routine i18n updates on 22 April 2023 ([#65236](https://github.com/CleverRaven/Cataclysm-DDA/pull/65236))
 * Magic Professions ([#65214](https://github.com/CleverRaven/Cataclysm-DDA/pull/65214))
@@ -97,7 +98,6 @@
 * Fix and enhance camp radio tower ([#65026](https://github.com/CleverRaven/Cataclysm-DDA/pull/65026))
 * Make safemode safe again: don't attack neutral creatures via move ([#65075](https://github.com/CleverRaven/Cataclysm-DDA/pull/65075))
 * math_parser/eoc: port u_val pain to math ([#65058](https://github.com/CleverRaven/Cataclysm-DDA/pull/65058))
-* Add ROPE 2 and SUSPENDING 2 to hoists ([#65017](https://github.com/CleverRaven/Cataclysm-DDA/pull/65017))
 * Add natural sausage casings to Ye Scots Beuk o Cuikery ([#65021](https://github.com/CleverRaven/Cataclysm-DDA/pull/65021))
 * [GG]migrate feral guns ([#65023](https://github.com/CleverRaven/Cataclysm-DDA/pull/65023))
 * prevent spam from linter bot reviews ([#65039](https://github.com/CleverRaven/Cataclysm-DDA/pull/65039))
