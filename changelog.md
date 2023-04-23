@@ -1,3 +1,4 @@
+* Expand mattacks to use the dialog condition system ([#65229](https://github.com/CleverRaven/Cataclysm-DDA/pull/65229))
 * Fix issues with low tier artifact resonance ([#65251](https://github.com/CleverRaven/Cataclysm-DDA/pull/65251))
 * [Xedra Evolved] Fix Oneiric Hammer Segfault  ([#65113](https://github.com/CleverRaven/Cataclysm-DDA/pull/65113))
 * Allow vertical movement for avatar in water ([#65174](https://github.com/CleverRaven/Cataclysm-DDA/pull/65174))
@@ -53,11 +54,6 @@
 * Make the plural form of some book the same as its singular title. ([#65139](https://github.com/CleverRaven/Cataclysm-DDA/pull/65139))
 * Deduplicate jackhammer and pickaxe use functions ([#65081](https://github.com/CleverRaven/Cataclysm-DDA/pull/65081))
 * fix ci warnings in release workflow ([#65104](https://github.com/CleverRaven/Cataclysm-DDA/pull/65104))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-17-2341 ([2a11a36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-2341))
-
 * Fix android missing header in system_locale.cpp ([#65142](https://github.com/CleverRaven/Cataclysm-DDA/pull/65142))
 * Routine tileset updates on 16 April 2023 ([#65132](https://github.com/CleverRaven/Cataclysm-DDA/pull/65132))
 * Auras no longer burn and do not block bites ([#65086](https://github.com/CleverRaven/Cataclysm-DDA/pull/65086))
@@ -87,7 +83,6 @@
 * load correct stat_hp_mods ([#65055](https://github.com/CleverRaven/Cataclysm-DDA/pull/65055))
 * Make safemode safe again: don't attack neutral creatures via move ([#65075](https://github.com/CleverRaven/Cataclysm-DDA/pull/65075))
 * math_parser/eoc: port u_val pain to math ([#65058](https://github.com/CleverRaven/Cataclysm-DDA/pull/65058))
-* Fix using unload_everything zone to remove gunmod gets copies of gunmod. ([#65051](https://github.com/CleverRaven/Cataclysm-DDA/pull/65051))
 * Fix message about rot when eating with saprophage  ([#65068](https://github.com/CleverRaven/Cataclysm-DDA/pull/65068))
 * Update bug_report.yaml ([#65079](https://github.com/CleverRaven/Cataclysm-DDA/pull/65079))
 * Misc Comestible Fixes ([#65071](https://github.com/CleverRaven/Cataclysm-DDA/pull/65071))
