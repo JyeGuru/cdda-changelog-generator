@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix Oneiric Hammer Segfault  ([#65113](https://github.com/CleverRaven/Cataclysm-DDA/pull/65113))
 * Allow vertical movement for avatar in water ([#65174](https://github.com/CleverRaven/Cataclysm-DDA/pull/65174))
 * Activate whole stack of delayed_transformable comestibles ([#65245](https://github.com/CleverRaven/Cataclysm-DDA/pull/65245))
 * item::in_container can fill up a container with non-charge items ([#65247](https://github.com/CleverRaven/Cataclysm-DDA/pull/65247))
@@ -95,7 +96,6 @@
 * Fix message about rot when eating with saprophage  ([#65068](https://github.com/CleverRaven/Cataclysm-DDA/pull/65068))
 * Update bug_report.yaml ([#65079](https://github.com/CleverRaven/Cataclysm-DDA/pull/65079))
 * Misc Comestible Fixes ([#65071](https://github.com/CleverRaven/Cataclysm-DDA/pull/65071))
-* Fix inline EOC duplicate detection ([#65043](https://github.com/CleverRaven/Cataclysm-DDA/pull/65043))
 * Edit desctription of person ([#65059](https://github.com/CleverRaven/Cataclysm-DDA/pull/65059))
 * eoc_math: use proper float comparison ([#65060](https://github.com/CleverRaven/Cataclysm-DDA/pull/65060))
 * Now persons really can open the doors ([#65047](https://github.com/CleverRaven/Cataclysm-DDA/pull/65047))
