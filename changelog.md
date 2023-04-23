@@ -1,3 +1,4 @@
+* Fix issues with low tier artifact resonance ([#65251](https://github.com/CleverRaven/Cataclysm-DDA/pull/65251))
 * [Xedra Evolved] Fix Oneiric Hammer Segfault  ([#65113](https://github.com/CleverRaven/Cataclysm-DDA/pull/65113))
 * Allow vertical movement for avatar in water ([#65174](https://github.com/CleverRaven/Cataclysm-DDA/pull/65174))
 * Activate whole stack of delayed_transformable comestibles ([#65245](https://github.com/CleverRaven/Cataclysm-DDA/pull/65245))
@@ -58,11 +59,6 @@
 #### Cataclysm-DDA experimental build 2023-04-17-2341 ([2a11a36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-2341))
 
 * Fix android missing header in system_locale.cpp ([#65142](https://github.com/CleverRaven/Cataclysm-DDA/pull/65142))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-17-0514 ([2d855d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0514))
-
 * Routine tileset updates on 16 April 2023 ([#65132](https://github.com/CleverRaven/Cataclysm-DDA/pull/65132))
 * Auras no longer burn and do not block bites ([#65086](https://github.com/CleverRaven/Cataclysm-DDA/pull/65086))
 * Fix nullptr-> crash when aborting world creation ([#65124](https://github.com/CleverRaven/Cataclysm-DDA/pull/65124))
@@ -91,7 +87,6 @@
 * load correct stat_hp_mods ([#65055](https://github.com/CleverRaven/Cataclysm-DDA/pull/65055))
 * Make safemode safe again: don't attack neutral creatures via move ([#65075](https://github.com/CleverRaven/Cataclysm-DDA/pull/65075))
 * math_parser/eoc: port u_val pain to math ([#65058](https://github.com/CleverRaven/Cataclysm-DDA/pull/65058))
-* Item summoning spells now respect keep hands free option ([#65049](https://github.com/CleverRaven/Cataclysm-DDA/pull/65049))
 * Fix using unload_everything zone to remove gunmod gets copies of gunmod. ([#65051](https://github.com/CleverRaven/Cataclysm-DDA/pull/65051))
 * Fix message about rot when eating with saprophage  ([#65068](https://github.com/CleverRaven/Cataclysm-DDA/pull/65068))
 * Update bug_report.yaml ([#65079](https://github.com/CleverRaven/Cataclysm-DDA/pull/65079))
