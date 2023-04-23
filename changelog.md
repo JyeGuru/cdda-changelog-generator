@@ -67,11 +67,6 @@
 * Fix nullptr-> crash when aborting world creation ([#65124](https://github.com/CleverRaven/Cataclysm-DDA/pull/65124))
 * Roof palettizing: homeless shelter ([#65126](https://github.com/CleverRaven/Cataclysm-DDA/pull/65126))
 * Add EOC condition for time until a scheduled EOC runs ([#65128](https://github.com/CleverRaven/Cataclysm-DDA/pull/65128))
-
----
-
-#### Cataclysm-DDA experimental build 2023-04-17-0032 ([da7a144](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2023-04-17-0032))
-
 * actual fix for real this time: item spawning spells with no min/max damage ([#65133](https://github.com/CleverRaven/Cataclysm-DDA/pull/65133))
 * Obsolete non-modular rigs ([#65112](https://github.com/CleverRaven/Cataclysm-DDA/pull/65112))
 * eoc: untemplate all EOC code ([#65069](https://github.com/CleverRaven/Cataclysm-DDA/pull/65069))
