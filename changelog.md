@@ -98,5 +98,4 @@
 * Misc Comestible Fixes ([#65071](https://github.com/CleverRaven/Cataclysm-DDA/pull/65071))
 * Edit desctription of person ([#65059](https://github.com/CleverRaven/Cataclysm-DDA/pull/65059))
 * eoc_math: use proper float comparison ([#65060](https://github.com/CleverRaven/Cataclysm-DDA/pull/65060))
-* Now persons really can open the doors ([#65047](https://github.com/CleverRaven/Cataclysm-DDA/pull/65047))
 * Resolve build warning/error ([#65066](https://github.com/CleverRaven/Cataclysm-DDA/pull/65066))
