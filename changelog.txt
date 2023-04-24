@@ -1,3 +1,4 @@
+* Fix spelling mistakes (#65279)
 * spawn forest mammals in winter (#65193)
 * Update innawoods monster spell id to match current implementation (#65256)
 * Tidy assign activity (#65253)
@@ -87,5 +88,4 @@
 * Clarify Ki strike description (#65098)
 * Mention comestible rot_spawn in baby_egg docs (#65105)
 * Despawn traumatized travellers. (#65107)
-* Routine i18n updates on 15 April 2023 (#65083)
 * Fix wool arming mittens name (#65084)
