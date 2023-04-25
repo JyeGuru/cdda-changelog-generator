@@ -1,3 +1,4 @@
+* Resizing the HWP 12.3 60-Round Magazine (#65296)
 * Fixed display of tools required to repair an item (#65284)
 * Fix UPS powered guns with non integer kJ energy consumption (#65289)
 * Inherit relative rot when disassembling (#65291)
@@ -82,7 +83,6 @@
 * Convention center (#65097)
 * Kevlar hulk mutation line has an extra step (#65101)
 * Sewer Additions (#65103)
-* add widget var for remaining moves in current turn (#65091)
 * tiny fix for an ancient faulty msg which is displayed when the multicooker is upgraded (#65093)
 * [bombastic perks] updated the startup trigger for bombastic perks (#65094)
 * fix: linter workflow canceling loop (#65096)
