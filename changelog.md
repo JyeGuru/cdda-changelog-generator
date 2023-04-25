@@ -1,3 +1,4 @@
+* Stop zomborgs from exploding on death ([#65301](https://github.com/CleverRaven/Cataclysm-DDA/pull/65301))
 * Quadrupedal movement with paws ([#65186](https://github.com/CleverRaven/Cataclysm-DDA/pull/65186))
 * gambeson fixes ([#65254](https://github.com/CleverRaven/Cataclysm-DDA/pull/65254))
 * [Xedra Evolved] How do vampires deal with blood spoilage? ([#65288](https://github.com/CleverRaven/Cataclysm-DDA/pull/65288))
@@ -83,7 +84,6 @@
 * Add EOC condition for time until a scheduled EOC runs ([#65128](https://github.com/CleverRaven/Cataclysm-DDA/pull/65128))
 * actual fix for real this time: item spawning spells with no min/max damage ([#65133](https://github.com/CleverRaven/Cataclysm-DDA/pull/65133))
 * Obsolete non-modular rigs ([#65112](https://github.com/CleverRaven/Cataclysm-DDA/pull/65112))
-* Convention center ([#65097](https://github.com/CleverRaven/Cataclysm-DDA/pull/65097))
 * Kevlar hulk mutation line has an extra step ([#65101](https://github.com/CleverRaven/Cataclysm-DDA/pull/65101))
 * Sewer Additions ([#65103](https://github.com/CleverRaven/Cataclysm-DDA/pull/65103))
 * Clarify Ki strike description ([#65098](https://github.com/CleverRaven/Cataclysm-DDA/pull/65098))
