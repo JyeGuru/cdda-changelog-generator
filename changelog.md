@@ -1,3 +1,4 @@
+* Fixed display of tools required to repair an item ([#65284](https://github.com/CleverRaven/Cataclysm-DDA/pull/65284))
 * Fix UPS powered guns with non integer kJ energy consumption ([#65289](https://github.com/CleverRaven/Cataclysm-DDA/pull/65289))
 * Inherit relative rot when disassembling ([#65291](https://github.com/CleverRaven/Cataclysm-DDA/pull/65291))
 * fixed large wooden box description ([#65294](https://github.com/CleverRaven/Cataclysm-DDA/pull/65294))
@@ -81,7 +82,6 @@
 * Convention center ([#65097](https://github.com/CleverRaven/Cataclysm-DDA/pull/65097))
 * Kevlar hulk mutation line has an extra step ([#65101](https://github.com/CleverRaven/Cataclysm-DDA/pull/65101))
 * Sewer Additions ([#65103](https://github.com/CleverRaven/Cataclysm-DDA/pull/65103))
-* Port cata_utility to string_view ([#65089](https://github.com/CleverRaven/Cataclysm-DDA/pull/65089))
 * add widget var for remaining moves in current turn ([#65091](https://github.com/CleverRaven/Cataclysm-DDA/pull/65091))
 * tiny fix for an ancient faulty msg which is displayed when the multicooker is upgraded ([#65093](https://github.com/CleverRaven/Cataclysm-DDA/pull/65093))
 * [bombastic perks] updated the startup trigger for bombastic perks ([#65094](https://github.com/CleverRaven/Cataclysm-DDA/pull/65094))
