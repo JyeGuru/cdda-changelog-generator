@@ -1,3 +1,4 @@
+* Quadrupedal movement with paws (#65186)
 * gambeson fixes (#65254)
 * [Xedra Evolved] How do vampires deal with blood spoilage? (#65288)
 * Resizing the HWP 12.3 60-Round Magazine (#65296)
@@ -85,7 +86,6 @@
 * Convention center (#65097)
 * Kevlar hulk mutation line has an extra step (#65101)
 * Sewer Additions (#65103)
-* fix: linter workflow canceling loop (#65096)
 * Clarify Ki strike description (#65098)
 * Mention comestible rot_spawn in baby_egg docs (#65105)
 * Despawn traumatized travellers. (#65107)
