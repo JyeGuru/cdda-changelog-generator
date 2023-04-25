@@ -1,3 +1,4 @@
+* gambeson fixes ([#65254](https://github.com/CleverRaven/Cataclysm-DDA/pull/65254))
 * [Xedra Evolved] How do vampires deal with blood spoilage? ([#65288](https://github.com/CleverRaven/Cataclysm-DDA/pull/65288))
 * Resizing the HWP 12.3 60-Round Magazine ([#65296](https://github.com/CleverRaven/Cataclysm-DDA/pull/65296))
 * Fixed display of tools required to repair an item ([#65284](https://github.com/CleverRaven/Cataclysm-DDA/pull/65284))
@@ -84,7 +85,6 @@
 * Convention center ([#65097](https://github.com/CleverRaven/Cataclysm-DDA/pull/65097))
 * Kevlar hulk mutation line has an extra step ([#65101](https://github.com/CleverRaven/Cataclysm-DDA/pull/65101))
 * Sewer Additions ([#65103](https://github.com/CleverRaven/Cataclysm-DDA/pull/65103))
-* [bombastic perks] updated the startup trigger for bombastic perks ([#65094](https://github.com/CleverRaven/Cataclysm-DDA/pull/65094))
 * fix: linter workflow canceling loop ([#65096](https://github.com/CleverRaven/Cataclysm-DDA/pull/65096))
 * Clarify Ki strike description ([#65098](https://github.com/CleverRaven/Cataclysm-DDA/pull/65098))
 * Mention comestible rot_spawn in baby_egg docs ([#65105](https://github.com/CleverRaven/Cataclysm-DDA/pull/65105))
