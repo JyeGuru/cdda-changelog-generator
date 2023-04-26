@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-04-17 to 2023-04-24 (#65286)
 * fix wrong artifacts spawning in distorted labs (#65306)
 * Stop zomborgs from exploding on death (#65301)
 * Quadrupedal movement with paws (#65186)
