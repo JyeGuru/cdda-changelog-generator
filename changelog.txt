@@ -1,3 +1,4 @@
+* fix wrong artifacts spawning in distorted labs (#65306)
 * Stop zomborgs from exploding on death (#65301)
 * Quadrupedal movement with paws (#65186)
 * gambeson fixes (#65254)
@@ -86,6 +87,5 @@
 * Obsolete non-modular rigs (#65112)
 * Kevlar hulk mutation line has an extra step (#65101)
 * Sewer Additions (#65103)
-* Clarify Ki strike description (#65098)
 * Mention comestible rot_spawn in baby_egg docs (#65105)
 * Despawn traumatized travellers. (#65107)
