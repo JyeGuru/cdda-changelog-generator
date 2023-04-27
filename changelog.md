@@ -1,3 +1,4 @@
+* Do not cancel clang-tidy run when a subset finishes ([#65320](https://github.com/CleverRaven/Cataclysm-DDA/pull/65320))
 * Fix vehicles' initial fuel spawns ([#65323](https://github.com/CleverRaven/Cataclysm-DDA/pull/65323))
 * TWD farm: fix stairs ([#65322](https://github.com/CleverRaven/Cataclysm-DDA/pull/65322))
 * Carpet Armor ([#65331](https://github.com/CleverRaven/Cataclysm-DDA/pull/65331))
@@ -80,7 +81,6 @@
 * Fix body status menu info not reflecting the selected limb ([#65146](https://github.com/CleverRaven/Cataclysm-DDA/pull/65146))
 * Smooth out npc fear based on player strength ([#65151](https://github.com/CleverRaven/Cataclysm-DDA/pull/65151))
 * Port generic_factory functions to string_view ([#65120](https://github.com/CleverRaven/Cataclysm-DDA/pull/65120))
-* Scenario additions ([#65116](https://github.com/CleverRaven/Cataclysm-DDA/pull/65116))
 * Make the plural form of some book the same as its singular title. ([#65139](https://github.com/CleverRaven/Cataclysm-DDA/pull/65139))
 * Fix android missing header in system_locale.cpp ([#65142](https://github.com/CleverRaven/Cataclysm-DDA/pull/65142))
 * Routine tileset updates on 16 April 2023 ([#65132](https://github.com/CleverRaven/Cataclysm-DDA/pull/65132))
