@@ -33,7 +33,6 @@
 * Install gettext on pull translations workflow (#65271)
 * Expand mattacks to use the dialog condition system (#65229)
 * Fix issues with low tier artifact resonance (#65251)
-* [Xedra Evolved] Fix Oneiric Hammer Segfault  (#65113)
 * Allow vertical movement for avatar in water (#65174)
 * Activate whole stack of delayed_transformable comestibles (#65245)
 * item::in_container can fill up a container with non-charge items (#65247)
