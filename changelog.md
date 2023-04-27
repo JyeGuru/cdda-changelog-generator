@@ -1,3 +1,4 @@
+* Cheesemaking background ([#65343](https://github.com/CleverRaven/Cataclysm-DDA/pull/65343))
 * Updated Phase Immersion Suit ([#65324](https://github.com/CleverRaven/Cataclysm-DDA/pull/65324))
 * Do not cancel clang-tidy run when a subset finishes ([#65320](https://github.com/CleverRaven/Cataclysm-DDA/pull/65320))
 * Fix vehicles' initial fuel spawns ([#65323](https://github.com/CleverRaven/Cataclysm-DDA/pull/65323))
@@ -84,7 +85,6 @@
 * Make the plural form of some book the same as its singular title. ([#65139](https://github.com/CleverRaven/Cataclysm-DDA/pull/65139))
 * Fix android missing header in system_locale.cpp ([#65142](https://github.com/CleverRaven/Cataclysm-DDA/pull/65142))
 * Routine tileset updates on 16 April 2023 ([#65132](https://github.com/CleverRaven/Cataclysm-DDA/pull/65132))
-* Fix nullptr-> crash when aborting world creation ([#65124](https://github.com/CleverRaven/Cataclysm-DDA/pull/65124))
 * Roof palettizing: homeless shelter ([#65126](https://github.com/CleverRaven/Cataclysm-DDA/pull/65126))
 * Add EOC condition for time until a scheduled EOC runs ([#65128](https://github.com/CleverRaven/Cataclysm-DDA/pull/65128))
 * actual fix for real this time: item spawning spells with no min/max damage ([#65133](https://github.com/CleverRaven/Cataclysm-DDA/pull/65133))
