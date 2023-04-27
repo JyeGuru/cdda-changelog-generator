@@ -1,3 +1,4 @@
+* Fix vehicles' initial fuel spawns ([#65323](https://github.com/CleverRaven/Cataclysm-DDA/pull/65323))
 * TWD farm: fix stairs ([#65322](https://github.com/CleverRaven/Cataclysm-DDA/pull/65322))
 * Carpet Armor ([#65331](https://github.com/CleverRaven/Cataclysm-DDA/pull/65331))
 * Add ability to find terrain, furnitures, traps, monsters or npcs with EOC. ([#65228](https://github.com/CleverRaven/Cataclysm-DDA/pull/65228))
@@ -88,4 +89,3 @@
 * Roof palettizing: homeless shelter ([#65126](https://github.com/CleverRaven/Cataclysm-DDA/pull/65126))
 * Add EOC condition for time until a scheduled EOC runs ([#65128](https://github.com/CleverRaven/Cataclysm-DDA/pull/65128))
 * actual fix for real this time: item spawning spells with no min/max damage ([#65133](https://github.com/CleverRaven/Cataclysm-DDA/pull/65133))
-* Obsolete non-modular rigs ([#65112](https://github.com/CleverRaven/Cataclysm-DDA/pull/65112))
