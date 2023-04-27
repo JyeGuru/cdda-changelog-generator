@@ -1,3 +1,4 @@
+* remove gross food from hardtack ([#65308](https://github.com/CleverRaven/Cataclysm-DDA/pull/65308))
 * Tidy up repaired_with field ([#65189](https://github.com/CleverRaven/Cataclysm-DDA/pull/65189))
 * Weekly Changelog 2023-04-17 to 2023-04-24 ([#65286](https://github.com/CleverRaven/Cataclysm-DDA/pull/65286))
 * fix wrong artifacts spawning in distorted labs ([#65306](https://github.com/CleverRaven/Cataclysm-DDA/pull/65306))
@@ -79,7 +80,6 @@
 * Port generic_factory functions to string_view ([#65120](https://github.com/CleverRaven/Cataclysm-DDA/pull/65120))
 * Scenario additions ([#65116](https://github.com/CleverRaven/Cataclysm-DDA/pull/65116))
 * Make the plural form of some book the same as its singular title. ([#65139](https://github.com/CleverRaven/Cataclysm-DDA/pull/65139))
-* fix ci warnings in release workflow ([#65104](https://github.com/CleverRaven/Cataclysm-DDA/pull/65104))
 * Fix android missing header in system_locale.cpp ([#65142](https://github.com/CleverRaven/Cataclysm-DDA/pull/65142))
 * Routine tileset updates on 16 April 2023 ([#65132](https://github.com/CleverRaven/Cataclysm-DDA/pull/65132))
 * Fix nullptr-> crash when aborting world creation ([#65124](https://github.com/CleverRaven/Cataclysm-DDA/pull/65124))
