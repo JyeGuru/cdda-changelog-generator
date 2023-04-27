@@ -1,3 +1,4 @@
+* Document "location" for vehicle parts (#65327)
 * Cheesemaking background (#65343)
 * Updated Phase Immersion Suit (#65324)
 * Do not cancel clang-tidy run when a subset finishes (#65320)
@@ -85,6 +86,5 @@
 * Make the plural form of some book the same as its singular title. (#65139)
 * Fix android missing header in system_locale.cpp (#65142)
 * Routine tileset updates on 16 April 2023 (#65132)
-* Roof palettizing: homeless shelter (#65126)
 * Add EOC condition for time until a scheduled EOC runs (#65128)
 * actual fix for real this time: item spawning spells with no min/max damage (#65133)
