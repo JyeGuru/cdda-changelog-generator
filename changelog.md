@@ -88,4 +88,3 @@
 * Add EOC condition for time until a scheduled EOC runs ([#65128](https://github.com/CleverRaven/Cataclysm-DDA/pull/65128))
 * actual fix for real this time: item spawning spells with no min/max damage ([#65133](https://github.com/CleverRaven/Cataclysm-DDA/pull/65133))
 * Obsolete non-modular rigs ([#65112](https://github.com/CleverRaven/Cataclysm-DDA/pull/65112))
-* Despawn traumatized travellers. ([#65107](https://github.com/CleverRaven/Cataclysm-DDA/pull/65107))
