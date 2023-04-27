@@ -1,3 +1,5 @@
+* TWD farm: fix stairs ([#65322](https://github.com/CleverRaven/Cataclysm-DDA/pull/65322))
+* Carpet Armor ([#65331](https://github.com/CleverRaven/Cataclysm-DDA/pull/65331))
 * Add ability to find terrain, furnitures, traps, monsters or npcs with EOC. ([#65228](https://github.com/CleverRaven/Cataclysm-DDA/pull/65228))
 * remove gross food from hardtack ([#65308](https://github.com/CleverRaven/Cataclysm-DDA/pull/65308))
 * Tidy up repaired_with field ([#65189](https://github.com/CleverRaven/Cataclysm-DDA/pull/65189))
@@ -66,7 +68,6 @@
 * Portal Storm Coherency Pass ([#65129](https://github.com/CleverRaven/Cataclysm-DDA/pull/65129))
 * Magic scenario additions ([#65153](https://github.com/CleverRaven/Cataclysm-DDA/pull/65153))
 * Adjust vehicle part name to align degradation symbol ([#65149](https://github.com/CleverRaven/Cataclysm-DDA/pull/65149))
-* Weekly Changelog 2023-04-09 to 2023-04-16 ([#65110](https://github.com/CleverRaven/Cataclysm-DDA/pull/65110))
 * accessor for average NPC + stat reset fixes ([#65165](https://github.com/CleverRaven/Cataclysm-DDA/pull/65165))
 * New profession: Modern Archer ([#65156](https://github.com/CleverRaven/Cataclysm-DDA/pull/65156))
 * Car-friendly urban planning ([#65170](https://github.com/CleverRaven/Cataclysm-DDA/pull/65170))
