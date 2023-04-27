@@ -1,3 +1,4 @@
+* Add ability to find terrain, furnitures, traps, monsters or npcs with EOC. ([#65228](https://github.com/CleverRaven/Cataclysm-DDA/pull/65228))
 * remove gross food from hardtack ([#65308](https://github.com/CleverRaven/Cataclysm-DDA/pull/65308))
 * Tidy up repaired_with field ([#65189](https://github.com/CleverRaven/Cataclysm-DDA/pull/65189))
 * Weekly Changelog 2023-04-17 to 2023-04-24 ([#65286](https://github.com/CleverRaven/Cataclysm-DDA/pull/65286))
@@ -87,5 +88,4 @@
 * Add EOC condition for time until a scheduled EOC runs ([#65128](https://github.com/CleverRaven/Cataclysm-DDA/pull/65128))
 * actual fix for real this time: item spawning spells with no min/max damage ([#65133](https://github.com/CleverRaven/Cataclysm-DDA/pull/65133))
 * Obsolete non-modular rigs ([#65112](https://github.com/CleverRaven/Cataclysm-DDA/pull/65112))
-* Mention comestible rot_spawn in baby_egg docs ([#65105](https://github.com/CleverRaven/Cataclysm-DDA/pull/65105))
 * Despawn traumatized travellers. ([#65107](https://github.com/CleverRaven/Cataclysm-DDA/pull/65107))
