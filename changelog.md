@@ -1,3 +1,4 @@
+* Tidy up repaired_with field ([#65189](https://github.com/CleverRaven/Cataclysm-DDA/pull/65189))
 * Weekly Changelog 2023-04-17 to 2023-04-24 ([#65286](https://github.com/CleverRaven/Cataclysm-DDA/pull/65286))
 * fix wrong artifacts spawning in distorted labs ([#65306](https://github.com/CleverRaven/Cataclysm-DDA/pull/65306))
 * Stop zomborgs from exploding on death ([#65301](https://github.com/CleverRaven/Cataclysm-DDA/pull/65301))
@@ -86,6 +87,5 @@
 * Add EOC condition for time until a scheduled EOC runs ([#65128](https://github.com/CleverRaven/Cataclysm-DDA/pull/65128))
 * actual fix for real this time: item spawning spells with no min/max damage ([#65133](https://github.com/CleverRaven/Cataclysm-DDA/pull/65133))
 * Obsolete non-modular rigs ([#65112](https://github.com/CleverRaven/Cataclysm-DDA/pull/65112))
-* Sewer Additions ([#65103](https://github.com/CleverRaven/Cataclysm-DDA/pull/65103))
 * Mention comestible rot_spawn in baby_egg docs ([#65105](https://github.com/CleverRaven/Cataclysm-DDA/pull/65105))
 * Despawn traumatized travellers. ([#65107](https://github.com/CleverRaven/Cataclysm-DDA/pull/65107))
