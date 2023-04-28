@@ -1,3 +1,4 @@
+* Seperate weather tolerance from stomach related traits ([#65335](https://github.com/CleverRaven/Cataclysm-DDA/pull/65335))
 * Document "location" for vehicle parts ([#65327](https://github.com/CleverRaven/Cataclysm-DDA/pull/65327))
 * Cheesemaking background ([#65343](https://github.com/CleverRaven/Cataclysm-DDA/pull/65343))
 * Updated Phase Immersion Suit ([#65324](https://github.com/CleverRaven/Cataclysm-DDA/pull/65324))
@@ -86,5 +87,4 @@
 * Make the plural form of some book the same as its singular title. ([#65139](https://github.com/CleverRaven/Cataclysm-DDA/pull/65139))
 * Fix android missing header in system_locale.cpp ([#65142](https://github.com/CleverRaven/Cataclysm-DDA/pull/65142))
 * Routine tileset updates on 16 April 2023 ([#65132](https://github.com/CleverRaven/Cataclysm-DDA/pull/65132))
-* Add EOC condition for time until a scheduled EOC runs ([#65128](https://github.com/CleverRaven/Cataclysm-DDA/pull/65128))
 * actual fix for real this time: item spawning spells with no min/max damage ([#65133](https://github.com/CleverRaven/Cataclysm-DDA/pull/65133))
