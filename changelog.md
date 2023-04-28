@@ -1,3 +1,4 @@
+* Update the table of contents in doc/JSON_INFO.md ([#65350](https://github.com/CleverRaven/Cataclysm-DDA/pull/65350))
 * Seperate weather tolerance from stomach related traits ([#65335](https://github.com/CleverRaven/Cataclysm-DDA/pull/65335))
 * Document "location" for vehicle parts ([#65327](https://github.com/CleverRaven/Cataclysm-DDA/pull/65327))
 * Cheesemaking background ([#65343](https://github.com/CleverRaven/Cataclysm-DDA/pull/65343))
@@ -70,7 +71,6 @@
 * Differentiate 12.3ln/.30-06 rounds; add reloads for exodii ammo ([#65208](https://github.com/CleverRaven/Cataclysm-DDA/pull/65208))
 * No more domestic tigers ([#65209](https://github.com/CleverRaven/Cataclysm-DDA/pull/65209))
 * Less dogs in house_detached6 ([#65192](https://github.com/CleverRaven/Cataclysm-DDA/pull/65192))
-* Portal Storm Coherency Pass ([#65129](https://github.com/CleverRaven/Cataclysm-DDA/pull/65129))
 * Magic scenario additions ([#65153](https://github.com/CleverRaven/Cataclysm-DDA/pull/65153))
 * Adjust vehicle part name to align degradation symbol ([#65149](https://github.com/CleverRaven/Cataclysm-DDA/pull/65149))
 * accessor for average NPC + stat reset fixes ([#65165](https://github.com/CleverRaven/Cataclysm-DDA/pull/65165))
