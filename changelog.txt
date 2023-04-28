@@ -1,3 +1,4 @@
+* Hospitals now have a chance of piled up corpses in body bags on the porch (#65359)
 * Weakpoints & Proficiencies for Zombie-Adjacent Monsters (#65346)
 * Update the table of contents in doc/JSON_INFO.md (#65350)
 * Seperate weather tolerance from stomach related traits (#65335)
@@ -87,4 +88,3 @@
 * Smooth out npc fear based on player strength (#65151)
 * Make the plural form of some book the same as its singular title. (#65139)
 * Fix android missing header in system_locale.cpp (#65142)
-* actual fix for real this time: item spawning spells with no min/max damage (#65133)
