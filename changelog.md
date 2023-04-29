@@ -1,3 +1,4 @@
+* Routine i18n updates on 29 April 2023 ([#65365](https://github.com/CleverRaven/Cataclysm-DDA/pull/65365))
 * Hospitals now have a chance of piled up corpses in body bags on the porch ([#65359](https://github.com/CleverRaven/Cataclysm-DDA/pull/65359))
 * Weakpoints & Proficiencies for Zombie-Adjacent Monsters ([#65346](https://github.com/CleverRaven/Cataclysm-DDA/pull/65346))
 * Update the table of contents in doc/JSON_INFO.md ([#65350](https://github.com/CleverRaven/Cataclysm-DDA/pull/65350))
