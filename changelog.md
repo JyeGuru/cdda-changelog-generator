@@ -1,3 +1,4 @@
+* Fix clang-tidy workflow failure ([#65354](https://github.com/CleverRaven/Cataclysm-DDA/pull/65354))
 * Routine i18n updates on 29 April 2023 ([#65365](https://github.com/CleverRaven/Cataclysm-DDA/pull/65365))
 * Hospitals now have a chance of piled up corpses in body bags on the porch ([#65359](https://github.com/CleverRaven/Cataclysm-DDA/pull/65359))
 * Weakpoints & Proficiencies for Zombie-Adjacent Monsters ([#65346](https://github.com/CleverRaven/Cataclysm-DDA/pull/65346))
@@ -80,7 +81,6 @@
 * Car-friendly urban planning ([#65170](https://github.com/CleverRaven/Cataclysm-DDA/pull/65170))
 * Fix reactor power ([#65167](https://github.com/CleverRaven/Cataclysm-DDA/pull/65167))
 * Accessibility and Help Wanted labels make issues exempt to stale ([#65158](https://github.com/CleverRaven/Cataclysm-DDA/pull/65158))
-* Stop clairvoyance breaking Hub 01 and other fixes ([#65138](https://github.com/CleverRaven/Cataclysm-DDA/pull/65138))
 * Crazy Party professions additions ([#65152](https://github.com/CleverRaven/Cataclysm-DDA/pull/65152))
 * Try to debug language stats ([#65160](https://github.com/CleverRaven/Cataclysm-DDA/pull/65160))
 * Minor adjustment to the mansion escape EOC ([#65154](https://github.com/CleverRaven/Cataclysm-DDA/pull/65154))
