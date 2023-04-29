@@ -61,7 +61,6 @@
 * Lots of string view ([#65176](https://github.com/CleverRaven/Cataclysm-DDA/pull/65176))
 * Routine i18n updates on 22 April 2023 ([#65236](https://github.com/CleverRaven/Cataclysm-DDA/pull/65236))
 * Magic Professions ([#65214](https://github.com/CleverRaven/Cataclysm-DDA/pull/65214))
-* Make weapons recognized as weapons ([#65136](https://github.com/CleverRaven/Cataclysm-DDA/pull/65136))
 * Fix repairing amount for items ([#65181](https://github.com/CleverRaven/Cataclysm-DDA/pull/65181))
 * Add no damage message for ranged weakpoint hits ([#65183](https://github.com/CleverRaven/Cataclysm-DDA/pull/65183))
 * Add `longest_side` to bullets ([#65184](https://github.com/CleverRaven/Cataclysm-DDA/pull/65184))
