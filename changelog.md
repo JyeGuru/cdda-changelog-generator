@@ -1,3 +1,4 @@
+* appliance recipes update + home improvement backround ([#65374](https://github.com/CleverRaven/Cataclysm-DDA/pull/65374))
 * Remove unused static (clear clang-tidy error) ([#65383](https://github.com/CleverRaven/Cataclysm-DDA/pull/65383))
 * Obsolete "accessories" gunmod slot ([#65300](https://github.com/CleverRaven/Cataclysm-DDA/pull/65300))
 * [bombastic perks] Forcefield and Evasion enchants ([#65246](https://github.com/CleverRaven/Cataclysm-DDA/pull/65246))
@@ -88,4 +89,3 @@
 * Differentiate 12.3ln/.30-06 rounds; add reloads for exodii ammo ([#65208](https://github.com/CleverRaven/Cataclysm-DDA/pull/65208))
 * No more domestic tigers ([#65209](https://github.com/CleverRaven/Cataclysm-DDA/pull/65209))
 * Less dogs in house_detached6 ([#65192](https://github.com/CleverRaven/Cataclysm-DDA/pull/65192))
-* Car-friendly urban planning ([#65170](https://github.com/CleverRaven/Cataclysm-DDA/pull/65170))
