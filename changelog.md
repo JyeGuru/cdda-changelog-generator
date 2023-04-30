@@ -1,3 +1,4 @@
+* Obsolete "accessories" gunmod slot ([#65300](https://github.com/CleverRaven/Cataclysm-DDA/pull/65300))
 * [bombastic perks] Forcefield and Evasion enchants ([#65246](https://github.com/CleverRaven/Cataclysm-DDA/pull/65246))
 * Apartment complex: parking garage, lobby variants, roof additions ([#65249](https://github.com/CleverRaven/Cataclysm-DDA/pull/65249))
 * Vehicle interaction menu fixes ([#65293](https://github.com/CleverRaven/Cataclysm-DDA/pull/65293))
@@ -89,4 +90,3 @@
 * No more domestic tigers ([#65209](https://github.com/CleverRaven/Cataclysm-DDA/pull/65209))
 * Less dogs in house_detached6 ([#65192](https://github.com/CleverRaven/Cataclysm-DDA/pull/65192))
 * Car-friendly urban planning ([#65170](https://github.com/CleverRaven/Cataclysm-DDA/pull/65170))
-* Fix reactor power ([#65167](https://github.com/CleverRaven/Cataclysm-DDA/pull/65167))
