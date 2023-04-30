@@ -1,3 +1,4 @@
+* Make `f`iring action UX more pleasant (#65382)
 * Cleanup: regional airport (#65386)
 * Confirmation before attacking neutral mobs (#65204)
 * Addition of Profession requirements (#65329)
