@@ -1,3 +1,4 @@
+* Cleanup: regional airport ([#65386](https://github.com/CleverRaven/Cataclysm-DDA/pull/65386))
 * Confirmation before attacking neutral mobs ([#65204](https://github.com/CleverRaven/Cataclysm-DDA/pull/65204))
 * Addition of Profession requirements ([#65329](https://github.com/CleverRaven/Cataclysm-DDA/pull/65329))
 * Make some locations more rare ([#65366](https://github.com/CleverRaven/Cataclysm-DDA/pull/65366))
@@ -18,7 +19,6 @@
 * math_parser: force classic locale before parsing ([#65352](https://github.com/CleverRaven/Cataclysm-DDA/pull/65352))
 * json: document families shorthand ([#65347](https://github.com/CleverRaven/Cataclysm-DDA/pull/65347))
 * Fix some clang-tidy and MSVC errors/warnings ([#65304](https://github.com/CleverRaven/Cataclysm-DDA/pull/65304))
-* Actually run tests with `make RUNTESTS=1` ([#65177](https://github.com/CleverRaven/Cataclysm-DDA/pull/65177))
 * Fix clang-tidy workflow failure ([#65354](https://github.com/CleverRaven/Cataclysm-DDA/pull/65354))
 * Routine i18n updates on 29 April 2023 ([#65365](https://github.com/CleverRaven/Cataclysm-DDA/pull/65365))
 * Hospitals now have a chance of piled up corpses in body bags on the porch ([#65359](https://github.com/CleverRaven/Cataclysm-DDA/pull/65359))
