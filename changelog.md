@@ -1,3 +1,4 @@
+* Remove unused static (clear clang-tidy error) ([#65383](https://github.com/CleverRaven/Cataclysm-DDA/pull/65383))
 * Obsolete "accessories" gunmod slot ([#65300](https://github.com/CleverRaven/Cataclysm-DDA/pull/65300))
 * [bombastic perks] Forcefield and Evasion enchants ([#65246](https://github.com/CleverRaven/Cataclysm-DDA/pull/65246))
 * Apartment complex: parking garage, lobby variants, roof additions ([#65249](https://github.com/CleverRaven/Cataclysm-DDA/pull/65249))
@@ -65,7 +66,6 @@
 * Add option to hide bionics ([#65243](https://github.com/CleverRaven/Cataclysm-DDA/pull/65243))
 * fix: house32 glass door windows ([#65190](https://github.com/CleverRaven/Cataclysm-DDA/pull/65190))
 * new begin event ([#65235](https://github.com/CleverRaven/Cataclysm-DDA/pull/65235))
-* Mouse thumb button support ([#65169](https://github.com/CleverRaven/Cataclysm-DDA/pull/65169))
 * Ignore hostile_spotted_far while aiming, jsonify activity ignored distractions ([#65175](https://github.com/CleverRaven/Cataclysm-DDA/pull/65175))
 * Set Fixed ordering for skills in info menu, regardless of language chosen ([#65226](https://github.com/CleverRaven/Cataclysm-DDA/pull/65226))
 * Add new types of artifacts ([#65203](https://github.com/CleverRaven/Cataclysm-DDA/pull/65203))
