@@ -82,7 +82,6 @@
 * Add `longest_side` to bullets ([#65184](https://github.com/CleverRaven/Cataclysm-DDA/pull/65184))
 * Add mutation ordering for hair variants ([#65188](https://github.com/CleverRaven/Cataclysm-DDA/pull/65188))
 * Yogurt starter culture item, spawn and use ([#65198](https://github.com/CleverRaven/Cataclysm-DDA/pull/65198))
-* Use average NPC's stats to calculate faction camp gained calories ([#65168](https://github.com/CleverRaven/Cataclysm-DDA/pull/65168))
 * [Xedra Evolved] SECRET flag dreamsmith recipes ([#65213](https://github.com/CleverRaven/Cataclysm-DDA/pull/65213))
 * Level 4 Achievements ([#65220](https://github.com/CleverRaven/Cataclysm-DDA/pull/65220))
 * [Interface] Fix that allow zebra looks better ([#65210](https://github.com/CleverRaven/Cataclysm-DDA/pull/65210))
