@@ -1,3 +1,4 @@
+* Make some locations more rare ([#65366](https://github.com/CleverRaven/Cataclysm-DDA/pull/65366))
 * appliance recipes update + home improvement backround ([#65374](https://github.com/CleverRaven/Cataclysm-DDA/pull/65374))
 * Remove unused static (clear clang-tidy error) ([#65383](https://github.com/CleverRaven/Cataclysm-DDA/pull/65383))
 * Obsolete "accessories" gunmod slot ([#65300](https://github.com/CleverRaven/Cataclysm-DDA/pull/65300))
@@ -61,7 +62,6 @@
 * Install gettext on pull translations workflow ([#65271](https://github.com/CleverRaven/Cataclysm-DDA/pull/65271))
 * Expand mattacks to use the dialog condition system ([#65229](https://github.com/CleverRaven/Cataclysm-DDA/pull/65229))
 * Fix issues with low tier artifact resonance ([#65251](https://github.com/CleverRaven/Cataclysm-DDA/pull/65251))
-* Allow vertical movement for avatar in water ([#65174](https://github.com/CleverRaven/Cataclysm-DDA/pull/65174))
 * Activate whole stack of delayed_transformable comestibles ([#65245](https://github.com/CleverRaven/Cataclysm-DDA/pull/65245))
 * item::in_container can fill up a container with non-charge items ([#65247](https://github.com/CleverRaven/Cataclysm-DDA/pull/65247))
 * Add option to hide bionics ([#65243](https://github.com/CleverRaven/Cataclysm-DDA/pull/65243))
