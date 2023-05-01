@@ -1,3 +1,4 @@
+* fixing grammar in comments - mostly it's -> its ([#65388](https://github.com/CleverRaven/Cataclysm-DDA/pull/65388))
 * Make `f`iring action UX more pleasant ([#65382](https://github.com/CleverRaven/Cataclysm-DDA/pull/65382))
 * Cleanup: regional airport ([#65386](https://github.com/CleverRaven/Cataclysm-DDA/pull/65386))
 * Confirmation before attacking neutral mobs ([#65204](https://github.com/CleverRaven/Cataclysm-DDA/pull/65204))
@@ -79,7 +80,6 @@
 * [bombastic perks] Frankenperk ([#65199](https://github.com/CleverRaven/Cataclysm-DDA/pull/65199))
 * Routine i18n updates on 22 April 2023 ([#65236](https://github.com/CleverRaven/Cataclysm-DDA/pull/65236))
 * Magic Professions ([#65214](https://github.com/CleverRaven/Cataclysm-DDA/pull/65214))
-* Fix repairing amount for items ([#65181](https://github.com/CleverRaven/Cataclysm-DDA/pull/65181))
 * Add no damage message for ranged weakpoint hits ([#65183](https://github.com/CleverRaven/Cataclysm-DDA/pull/65183))
 * Add `longest_side` to bullets ([#65184](https://github.com/CleverRaven/Cataclysm-DDA/pull/65184))
 * Add mutation ordering for hair variants ([#65188](https://github.com/CleverRaven/Cataclysm-DDA/pull/65188))
