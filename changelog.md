@@ -1,3 +1,4 @@
+* Routine tileset updates on 30 April 2023 ([#65399](https://github.com/CleverRaven/Cataclysm-DDA/pull/65399))
 * Make vehicle prototypes use generic_factory ([#65367](https://github.com/CleverRaven/Cataclysm-DDA/pull/65367))
 * fix: tundra mage enchantment typo ([#65405](https://github.com/CleverRaven/Cataclysm-DDA/pull/65405))
 * Document burn_data for materials ([#65409](https://github.com/CleverRaven/Cataclysm-DDA/pull/65409))
@@ -12,7 +13,6 @@
 * fixing grammar in comments - mostly it's -> its ([#65388](https://github.com/CleverRaven/Cataclysm-DDA/pull/65388))
 * Make `f`iring action UX more pleasant ([#65382](https://github.com/CleverRaven/Cataclysm-DDA/pull/65382))
 * Cleanup: regional airport ([#65386](https://github.com/CleverRaven/Cataclysm-DDA/pull/65386))
-* Confirmation before attacking neutral mobs ([#65204](https://github.com/CleverRaven/Cataclysm-DDA/pull/65204))
 * Addition of Profession requirements ([#65329](https://github.com/CleverRaven/Cataclysm-DDA/pull/65329))
 * Make some locations more rare ([#65366](https://github.com/CleverRaven/Cataclysm-DDA/pull/65366))
 * appliance recipes update + home improvement backround ([#65374](https://github.com/CleverRaven/Cataclysm-DDA/pull/65374))
