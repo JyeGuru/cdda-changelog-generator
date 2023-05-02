@@ -1,3 +1,4 @@
+* Update the table of contents in doc/JSON_INFO.md (#65425)
 * Routine tileset updates on 30 April 2023 (#65399)
 * Make vehicle prototypes use generic_factory (#65367)
 * fix: tundra mage enchantment typo (#65405)
@@ -88,5 +89,4 @@
 * [Xedra Evolved] SECRET flag dreamsmith recipes (#65213)
 * Level 4 Achievements (#65220)
 * [Interface] Fix that allow zebra looks better (#65210)
-* Differentiate 12.3ln/.30-06 rounds; add reloads for exodii ammo (#65208)
 * No more domestic tigers (#65209)
