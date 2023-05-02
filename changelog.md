@@ -1,3 +1,4 @@
+* Obsolete NO_QUICKDRAW flag ([#65423](https://github.com/CleverRaven/Cataclysm-DDA/pull/65423))
 * Update the table of contents in doc/JSON_INFO.md ([#65425](https://github.com/CleverRaven/Cataclysm-DDA/pull/65425))
 * Routine tileset updates on 30 April 2023 ([#65399](https://github.com/CleverRaven/Cataclysm-DDA/pull/65399))
 * Make vehicle prototypes use generic_factory ([#65367](https://github.com/CleverRaven/Cataclysm-DDA/pull/65367))
@@ -88,4 +89,3 @@
 * Magic Professions ([#65214](https://github.com/CleverRaven/Cataclysm-DDA/pull/65214))
 * [Xedra Evolved] SECRET flag dreamsmith recipes ([#65213](https://github.com/CleverRaven/Cataclysm-DDA/pull/65213))
 * Level 4 Achievements ([#65220](https://github.com/CleverRaven/Cataclysm-DDA/pull/65220))
-* [Interface] Fix that allow zebra looks better ([#65210](https://github.com/CleverRaven/Cataclysm-DDA/pull/65210))
