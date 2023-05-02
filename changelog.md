@@ -89,4 +89,3 @@
 * [Xedra Evolved] SECRET flag dreamsmith recipes ([#65213](https://github.com/CleverRaven/Cataclysm-DDA/pull/65213))
 * Level 4 Achievements ([#65220](https://github.com/CleverRaven/Cataclysm-DDA/pull/65220))
 * [Interface] Fix that allow zebra looks better ([#65210](https://github.com/CleverRaven/Cataclysm-DDA/pull/65210))
-* No more domestic tigers ([#65209](https://github.com/CleverRaven/Cataclysm-DDA/pull/65209))
