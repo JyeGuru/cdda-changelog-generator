@@ -1,3 +1,4 @@
+* Fix calories for raw-->cooked foods (#65439)
 * New item: large shelter kit and the recipes for it. (#65415)
 * Resurrecting the nether monster corpse (#65421)
 * Show NPC location when selecting NPC to chat with, guard, or follow (#65432)
@@ -89,4 +90,3 @@
 * Start Locations Expanded (#65239)
 * Add default values for portal storm dungeon effects (#65237)
 * Routine i18n updates on 22 April 2023 (#65236)
-* Level 4 Achievements (#65220)
