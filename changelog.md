@@ -1,3 +1,4 @@
+* Fix crash: dangling pointer to faction ([#65442](https://github.com/CleverRaven/Cataclysm-DDA/pull/65442))
 * Fix the transforming mutation eocs in Xedra Evolved ([#65396](https://github.com/CleverRaven/Cataclysm-DDA/pull/65396))
 * Fix calories for raw-->cooked foods ([#65439](https://github.com/CleverRaven/Cataclysm-DDA/pull/65439))
 * New item: large shelter kit and the recipes for it. ([#65415](https://github.com/CleverRaven/Cataclysm-DDA/pull/65415))
@@ -53,7 +54,6 @@
 * Fix vehicles' initial fuel spawns ([#65323](https://github.com/CleverRaven/Cataclysm-DDA/pull/65323))
 * TWD farm: fix stairs ([#65322](https://github.com/CleverRaven/Cataclysm-DDA/pull/65322))
 * Carpet Armor ([#65331](https://github.com/CleverRaven/Cataclysm-DDA/pull/65331))
-* Add ability to find terrain, furnitures, traps, monsters or npcs with EOC. ([#65228](https://github.com/CleverRaven/Cataclysm-DDA/pull/65228))
 * remove gross food from hardtack ([#65308](https://github.com/CleverRaven/Cataclysm-DDA/pull/65308))
 * Weekly Changelog 2023-04-17 to 2023-04-24 ([#65286](https://github.com/CleverRaven/Cataclysm-DDA/pull/65286))
 * fix wrong artifacts spawning in distorted labs ([#65306](https://github.com/CleverRaven/Cataclysm-DDA/pull/65306))
