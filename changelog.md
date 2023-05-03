@@ -88,7 +88,6 @@
 * Activate whole stack of delayed_transformable comestibles ([#65245](https://github.com/CleverRaven/Cataclysm-DDA/pull/65245))
 * item::in_container can fill up a container with non-charge items ([#65247](https://github.com/CleverRaven/Cataclysm-DDA/pull/65247))
 * Add option to hide bionics ([#65243](https://github.com/CleverRaven/Cataclysm-DDA/pull/65243))
-* new begin event ([#65235](https://github.com/CleverRaven/Cataclysm-DDA/pull/65235))
 * Start Locations Expanded ([#65239](https://github.com/CleverRaven/Cataclysm-DDA/pull/65239))
 * Add default values for portal storm dungeon effects ([#65237](https://github.com/CleverRaven/Cataclysm-DDA/pull/65237))
 * Routine i18n updates on 22 April 2023 ([#65236](https://github.com/CleverRaven/Cataclysm-DDA/pull/65236))
