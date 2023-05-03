@@ -1,3 +1,4 @@
+* Play with the corvids (#65447)
 * Make watermelon seeds craftable (#65452)
 * Adding the Crustacean Mutation Tree to the game, also adds a mutation from that branch to the Insect and Spider pool. (#65310)
 * Display why vehicle parts cannot be installed (#65341)
@@ -88,7 +89,6 @@
 * item::in_container can fill up a container with non-charge items (#65247)
 * Add option to hide bionics (#65243)
 * new begin event (#65235)
-* Rebalanced generic zombie drops and bugout bags (#65234)
 * Start Locations Expanded (#65239)
 * Add default values for portal storm dungeon effects (#65237)
 * Routine i18n updates on 22 April 2023 (#65236)
