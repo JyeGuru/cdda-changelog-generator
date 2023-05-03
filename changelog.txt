@@ -1,3 +1,4 @@
+* Adding the Crustacean Mutation Tree to the game, also adds a mutation from that branch to the Insect and Spider pool. (#65310)
 * Display why vehicle parts cannot be installed (#65341)
 * Fix crash: dangling pointer to faction (#65442)
 * Fix the transforming mutation eocs in Xedra Evolved (#65396)
