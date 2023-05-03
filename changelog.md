@@ -1,3 +1,4 @@
+* Fix the transforming mutation eocs in Xedra Evolved ([#65396](https://github.com/CleverRaven/Cataclysm-DDA/pull/65396))
 * Fix calories for raw-->cooked foods ([#65439](https://github.com/CleverRaven/Cataclysm-DDA/pull/65439))
 * New item: large shelter kit and the recipes for it. ([#65415](https://github.com/CleverRaven/Cataclysm-DDA/pull/65415))
 * Resurrecting the nether monster corpse ([#65421](https://github.com/CleverRaven/Cataclysm-DDA/pull/65421))
@@ -85,7 +86,6 @@
 * item::in_container can fill up a container with non-charge items ([#65247](https://github.com/CleverRaven/Cataclysm-DDA/pull/65247))
 * Add option to hide bionics ([#65243](https://github.com/CleverRaven/Cataclysm-DDA/pull/65243))
 * new begin event ([#65235](https://github.com/CleverRaven/Cataclysm-DDA/pull/65235))
-* Set Fixed ordering for skills in info menu, regardless of language chosen ([#65226](https://github.com/CleverRaven/Cataclysm-DDA/pull/65226))
 * Rebalanced generic zombie drops and bugout bags ([#65234](https://github.com/CleverRaven/Cataclysm-DDA/pull/65234))
 * Start Locations Expanded ([#65239](https://github.com/CleverRaven/Cataclysm-DDA/pull/65239))
 * Add default values for portal storm dungeon effects ([#65237](https://github.com/CleverRaven/Cataclysm-DDA/pull/65237))
