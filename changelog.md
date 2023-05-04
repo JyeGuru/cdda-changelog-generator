@@ -1,3 +1,6 @@
+* Add avatar swim tests ([#65457](https://github.com/CleverRaven/Cataclysm-DDA/pull/65457))
+* Re-enable device EOC menu text ([#65456](https://github.com/CleverRaven/Cataclysm-DDA/pull/65456))
+* math_parser: add support for JSON-defined functions ([#65379](https://github.com/CleverRaven/Cataclysm-DDA/pull/65379))
 * Play with the corvids ([#65447](https://github.com/CleverRaven/Cataclysm-DDA/pull/65447))
 * Make watermelon seeds craftable ([#65452](https://github.com/CleverRaven/Cataclysm-DDA/pull/65452))
 * Adding the Crustacean Mutation Tree to the game, also adds a mutation from that branch to the Insect and Spider pool. ([#65310](https://github.com/CleverRaven/Cataclysm-DDA/pull/65310))
@@ -89,5 +92,3 @@
 * item::in_container can fill up a container with non-charge items ([#65247](https://github.com/CleverRaven/Cataclysm-DDA/pull/65247))
 * Add option to hide bionics ([#65243](https://github.com/CleverRaven/Cataclysm-DDA/pull/65243))
 * Start Locations Expanded ([#65239](https://github.com/CleverRaven/Cataclysm-DDA/pull/65239))
-* Add default values for portal storm dungeon effects ([#65237](https://github.com/CleverRaven/Cataclysm-DDA/pull/65237))
-* Routine i18n updates on 22 April 2023 ([#65236](https://github.com/CleverRaven/Cataclysm-DDA/pull/65236))
