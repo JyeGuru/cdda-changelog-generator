@@ -1,3 +1,4 @@
+* [Magiclysm] Fix the diviner's swamp dragon quest ([#65455](https://github.com/CleverRaven/Cataclysm-DDA/pull/65455))
 * Add avatar swim tests ([#65457](https://github.com/CleverRaven/Cataclysm-DDA/pull/65457))
 * Re-enable device EOC menu text ([#65456](https://github.com/CleverRaven/Cataclysm-DDA/pull/65456))
 * math_parser: add support for JSON-defined functions ([#65379](https://github.com/CleverRaven/Cataclysm-DDA/pull/65379))
@@ -90,4 +91,3 @@
 * Fix issues with low tier artifact resonance ([#65251](https://github.com/CleverRaven/Cataclysm-DDA/pull/65251))
 * Activate whole stack of delayed_transformable comestibles ([#65245](https://github.com/CleverRaven/Cataclysm-DDA/pull/65245))
 * item::in_container can fill up a container with non-charge items ([#65247](https://github.com/CleverRaven/Cataclysm-DDA/pull/65247))
-* Add option to hide bionics ([#65243](https://github.com/CleverRaven/Cataclysm-DDA/pull/65243))
