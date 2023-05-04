@@ -91,4 +91,3 @@
 * Activate whole stack of delayed_transformable comestibles (#65245)
 * item::in_container can fill up a container with non-charge items (#65247)
 * Add option to hide bionics (#65243)
-* Start Locations Expanded (#65239)

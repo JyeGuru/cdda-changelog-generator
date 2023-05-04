@@ -91,4 +91,3 @@
 * Activate whole stack of delayed_transformable comestibles ([#65245](https://github.com/CleverRaven/Cataclysm-DDA/pull/65245))
 * item::in_container can fill up a container with non-charge items ([#65247](https://github.com/CleverRaven/Cataclysm-DDA/pull/65247))
 * Add option to hide bionics ([#65243](https://github.com/CleverRaven/Cataclysm-DDA/pull/65243))
-* Start Locations Expanded ([#65239](https://github.com/CleverRaven/Cataclysm-DDA/pull/65239))
