@@ -1,3 +1,4 @@
+* talker: implement cloning w/ CRTP ([#65469](https://github.com/CleverRaven/Cataclysm-DDA/pull/65469))
 * [Magiclysm] Fix the diviner's swamp dragon quest ([#65455](https://github.com/CleverRaven/Cataclysm-DDA/pull/65455))
 * Add avatar swim tests ([#65457](https://github.com/CleverRaven/Cataclysm-DDA/pull/65457))
 * Re-enable device EOC menu text ([#65456](https://github.com/CleverRaven/Cataclysm-DDA/pull/65456))
@@ -89,5 +90,4 @@
 * Split clang-tidy workflow into two parts ([#65272](https://github.com/CleverRaven/Cataclysm-DDA/pull/65272))
 * Install gettext on pull translations workflow ([#65271](https://github.com/CleverRaven/Cataclysm-DDA/pull/65271))
 * Fix issues with low tier artifact resonance ([#65251](https://github.com/CleverRaven/Cataclysm-DDA/pull/65251))
-* Activate whole stack of delayed_transformable comestibles ([#65245](https://github.com/CleverRaven/Cataclysm-DDA/pull/65245))
 * item::in_container can fill up a container with non-charge items ([#65247](https://github.com/CleverRaven/Cataclysm-DDA/pull/65247))
