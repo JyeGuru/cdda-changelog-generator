@@ -1,3 +1,4 @@
+* Allow comestibles to inflict multiple addictions ([#65480](https://github.com/CleverRaven/Cataclysm-DDA/pull/65480))
 * vegetation tweaks ([#65478](https://github.com/CleverRaven/Cataclysm-DDA/pull/65478))
 * Move wheel data to json ([#65377](https://github.com/CleverRaven/Cataclysm-DDA/pull/65377))
 * Map update: bike shop ([#65441](https://github.com/CleverRaven/Cataclysm-DDA/pull/65441))
@@ -85,7 +86,6 @@
 * fixed large wooden box description ([#65294](https://github.com/CleverRaven/Cataclysm-DDA/pull/65294))
 * Fix archery stamina calculations ([#65295](https://github.com/CleverRaven/Cataclysm-DDA/pull/65295))
 * Fix spelling mistakes ([#65279](https://github.com/CleverRaven/Cataclysm-DDA/pull/65279))
-* Remove trailing zeros from variables ([#65273](https://github.com/CleverRaven/Cataclysm-DDA/pull/65273))
 * Make all portal npcs hallucinations ([#65287](https://github.com/CleverRaven/Cataclysm-DDA/pull/65287))
 * Routine tileset updates on 23 April 2023 ([#65283](https://github.com/CleverRaven/Cataclysm-DDA/pull/65283))
 * fix Free Merchant guard gear groups ([#65281](https://github.com/CleverRaven/Cataclysm-DDA/pull/65281))
