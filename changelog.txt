@@ -1,3 +1,4 @@
+* Fix unvisited member reporting from global destructors in atexit. (#65477)
 * Allow comestibles to inflict multiple addictions (#65480)
 * vegetation tweaks (#65478)
 * Move wheel data to json (#65377)
@@ -90,4 +91,3 @@
 * Routine tileset updates on 23 April 2023 (#65283)
 * fix Free Merchant guard gear groups (#65281)
 * Abstracts are now abstract (#65276)
-* Address the maid overpopulation issue (#65275)
