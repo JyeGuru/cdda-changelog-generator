@@ -1,3 +1,4 @@
+* vegetation tweaks ([#65478](https://github.com/CleverRaven/Cataclysm-DDA/pull/65478))
 * Move wheel data to json ([#65377](https://github.com/CleverRaven/Cataclysm-DDA/pull/65377))
 * Map update: bike shop ([#65441](https://github.com/CleverRaven/Cataclysm-DDA/pull/65441))
 * math_parser: port skill_level functions to math ([#65465](https://github.com/CleverRaven/Cataclysm-DDA/pull/65465))
@@ -90,4 +91,3 @@
 * fix Free Merchant guard gear groups ([#65281](https://github.com/CleverRaven/Cataclysm-DDA/pull/65281))
 * Abstracts are now abstract ([#65276](https://github.com/CleverRaven/Cataclysm-DDA/pull/65276))
 * Address the maid overpopulation issue ([#65275](https://github.com/CleverRaven/Cataclysm-DDA/pull/65275))
-* Split clang-tidy workflow into two parts ([#65272](https://github.com/CleverRaven/Cataclysm-DDA/pull/65272))
