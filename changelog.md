@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-04-24 to 2023-05-01 ([#65401](https://github.com/CleverRaven/Cataclysm-DDA/pull/65401))
 * Create a context variable with tile location during weather checking.  To be used for portal storms centers ([#65491](https://github.com/CleverRaven/Cataclysm-DDA/pull/65491))
 * Map update: dive shop ([#65502](https://github.com/CleverRaven/Cataclysm-DDA/pull/65502))
 * Apply exodii faction ownership to the exodii's safehouse stores ([#65503](https://github.com/CleverRaven/Cataclysm-DDA/pull/65503))
