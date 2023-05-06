@@ -1,3 +1,4 @@
+* Create a context variable with tile location during weather checking.  To be used for portal storms centers (#65491)
 * Map update: dive shop (#65502)
 * Apply exodii faction ownership to the exodii's safehouse stores (#65503)
 * A bunch of random item reworks: 2 (#65486)
@@ -87,7 +88,6 @@
 * fix wrong artifacts spawning in distorted labs (#65306)
 * Stop zomborgs from exploding on death (#65301)
 * Resizing the HWP 12.3 60-Round Magazine (#65296)
-* Fix UPS powered guns with non integer kJ energy consumption (#65289)
 * Inherit relative rot when disassembling (#65291)
 * fixed large wooden box description (#65294)
 * Fix archery stamina calculations (#65295)
