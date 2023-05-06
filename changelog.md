@@ -1,3 +1,4 @@
+* Routine i18n updates on 06 May 2023 ([#65497](https://github.com/CleverRaven/Cataclysm-DDA/pull/65497))
 * EOC Run With ([#65454](https://github.com/CleverRaven/Cataclysm-DDA/pull/65454))
 * Fix infinite recursion when trying to drain battery ([#65488](https://github.com/CleverRaven/Cataclysm-DDA/pull/65488))
 * Fix unvisited member reporting from global destructors in atexit. ([#65477](https://github.com/CleverRaven/Cataclysm-DDA/pull/65477))
@@ -90,4 +91,3 @@
 * Fix archery stamina calculations ([#65295](https://github.com/CleverRaven/Cataclysm-DDA/pull/65295))
 * Make all portal npcs hallucinations ([#65287](https://github.com/CleverRaven/Cataclysm-DDA/pull/65287))
 * Routine tileset updates on 23 April 2023 ([#65283](https://github.com/CleverRaven/Cataclysm-DDA/pull/65283))
-* fix Free Merchant guard gear groups ([#65281](https://github.com/CleverRaven/Cataclysm-DDA/pull/65281))
