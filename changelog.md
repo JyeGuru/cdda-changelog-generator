@@ -1,3 +1,4 @@
+* Update the table of contents in doc/JSON_INFO.md ([#65511](https://github.com/CleverRaven/Cataclysm-DDA/pull/65511))
 * Weekly Changelog 2023-04-24 to 2023-05-01 ([#65401](https://github.com/CleverRaven/Cataclysm-DDA/pull/65401))
 * Create a context variable with tile location during weather checking.  To be used for portal storms centers ([#65491](https://github.com/CleverRaven/Cataclysm-DDA/pull/65491))
 * Map update: dive shop ([#65502](https://github.com/CleverRaven/Cataclysm-DDA/pull/65502))
@@ -89,6 +90,5 @@
 * fix wrong artifacts spawning in distorted labs ([#65306](https://github.com/CleverRaven/Cataclysm-DDA/pull/65306))
 * Stop zomborgs from exploding on death ([#65301](https://github.com/CleverRaven/Cataclysm-DDA/pull/65301))
 * Resizing the HWP 12.3 60-Round Magazine ([#65296](https://github.com/CleverRaven/Cataclysm-DDA/pull/65296))
-* Inherit relative rot when disassembling ([#65291](https://github.com/CleverRaven/Cataclysm-DDA/pull/65291))
 * fixed large wooden box description ([#65294](https://github.com/CleverRaven/Cataclysm-DDA/pull/65294))
 * Fix archery stamina calculations ([#65295](https://github.com/CleverRaven/Cataclysm-DDA/pull/65295))
