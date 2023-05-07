@@ -1,3 +1,4 @@
+* Show playtime when choosing a character to load ([#65517](https://github.com/CleverRaven/Cataclysm-DDA/pull/65517))
 * Update the table of contents in doc/JSON_INFO.md ([#65511](https://github.com/CleverRaven/Cataclysm-DDA/pull/65511))
 * Weekly Changelog 2023-04-24 to 2023-05-01 ([#65401](https://github.com/CleverRaven/Cataclysm-DDA/pull/65401))
 * Create a context variable with tile location during weather checking.  To be used for portal storms centers ([#65491](https://github.com/CleverRaven/Cataclysm-DDA/pull/65491))
@@ -61,7 +62,6 @@
 * appliance recipes update + home improvement backround ([#65374](https://github.com/CleverRaven/Cataclysm-DDA/pull/65374))
 * Remove unused static (clear clang-tidy error) ([#65383](https://github.com/CleverRaven/Cataclysm-DDA/pull/65383))
 * Obsolete "accessories" gunmod slot ([#65300](https://github.com/CleverRaven/Cataclysm-DDA/pull/65300))
-* Vehicle interaction menu fixes ([#65293](https://github.com/CleverRaven/Cataclysm-DDA/pull/65293))
 * Random missions fixes ([#65342](https://github.com/CleverRaven/Cataclysm-DDA/pull/65342))
 * Additional ambient guns ([#65372](https://github.com/CleverRaven/Cataclysm-DDA/pull/65372))
 * UI fixes for barrel length gun damage ([#65309](https://github.com/CleverRaven/Cataclysm-DDA/pull/65309))
