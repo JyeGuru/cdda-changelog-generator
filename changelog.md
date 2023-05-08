@@ -89,6 +89,4 @@
 * Document "location" for vehicle parts ([#65327](https://github.com/CleverRaven/Cataclysm-DDA/pull/65327))
 * Cheesemaking background ([#65343](https://github.com/CleverRaven/Cataclysm-DDA/pull/65343))
 * Updated Phase Immersion Suit ([#65324](https://github.com/CleverRaven/Cataclysm-DDA/pull/65324))
-* Fix vehicles' initial fuel spawns ([#65323](https://github.com/CleverRaven/Cataclysm-DDA/pull/65323))
-* TWD farm: fix stairs ([#65322](https://github.com/CleverRaven/Cataclysm-DDA/pull/65322))
 * Carpet Armor ([#65331](https://github.com/CleverRaven/Cataclysm-DDA/pull/65331))
