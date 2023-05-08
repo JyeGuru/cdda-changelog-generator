@@ -1,3 +1,4 @@
+* Routine tileset updates on 07 May 2023 ([#65534](https://github.com/CleverRaven/Cataclysm-DDA/pull/65534))
 * combat catchup ([#65537](https://github.com/CleverRaven/Cataclysm-DDA/pull/65537))
 * [Xedra Evolved] fix wrong boiler description ([#65521](https://github.com/CleverRaven/Cataclysm-DDA/pull/65521))
 * [CR] Modify do_turn to update NPC morale when player morale is updated ([#65504](https://github.com/CleverRaven/Cataclysm-DDA/pull/65504))
@@ -88,7 +89,6 @@
 * Document "location" for vehicle parts ([#65327](https://github.com/CleverRaven/Cataclysm-DDA/pull/65327))
 * Cheesemaking background ([#65343](https://github.com/CleverRaven/Cataclysm-DDA/pull/65343))
 * Updated Phase Immersion Suit ([#65324](https://github.com/CleverRaven/Cataclysm-DDA/pull/65324))
-* Do not cancel clang-tidy run when a subset finishes ([#65320](https://github.com/CleverRaven/Cataclysm-DDA/pull/65320))
 * Fix vehicles' initial fuel spawns ([#65323](https://github.com/CleverRaven/Cataclysm-DDA/pull/65323))
 * TWD farm: fix stairs ([#65322](https://github.com/CleverRaven/Cataclysm-DDA/pull/65322))
 * Carpet Armor ([#65331](https://github.com/CleverRaven/Cataclysm-DDA/pull/65331))
