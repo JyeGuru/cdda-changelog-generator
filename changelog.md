@@ -1,3 +1,4 @@
+* combat catchup ([#65537](https://github.com/CleverRaven/Cataclysm-DDA/pull/65537))
 * [Xedra Evolved] fix wrong boiler description ([#65521](https://github.com/CleverRaven/Cataclysm-DDA/pull/65521))
 * [CR] Modify do_turn to update NPC morale when player morale is updated ([#65504](https://github.com/CleverRaven/Cataclysm-DDA/pull/65504))
 * Making Paramilitary Zombies spawn damaged gear. ([#65496](https://github.com/CleverRaven/Cataclysm-DDA/pull/65496))
@@ -41,7 +42,6 @@
 * math_parser: add support for JSON-defined functions ([#65379](https://github.com/CleverRaven/Cataclysm-DDA/pull/65379))
 * Play with the corvids ([#65447](https://github.com/CleverRaven/Cataclysm-DDA/pull/65447))
 * Make watermelon seeds craftable ([#65452](https://github.com/CleverRaven/Cataclysm-DDA/pull/65452))
-* Adding the Crustacean Mutation Tree to the game, also adds a mutation from that branch to the Insect and Spider pool. ([#65310](https://github.com/CleverRaven/Cataclysm-DDA/pull/65310))
 * Display why vehicle parts cannot be installed ([#65341](https://github.com/CleverRaven/Cataclysm-DDA/pull/65341))
 * Fix crash: dangling pointer to faction ([#65442](https://github.com/CleverRaven/Cataclysm-DDA/pull/65442))
 * Fix the transforming mutation eocs in Xedra Evolved ([#65396](https://github.com/CleverRaven/Cataclysm-DDA/pull/65396))
