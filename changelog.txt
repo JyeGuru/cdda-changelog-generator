@@ -1,3 +1,4 @@
+* [Xedra Evolved] fix wrong boiler description (#65521)
 * [CR] Modify do_turn to update NPC morale when player morale is updated (#65504)
 * Making Paramilitary Zombies spawn damaged gear. (#65496)
 * Quick typo fix for Xedra Evolved (mics to misc) (#65501)
@@ -71,7 +72,6 @@
 * Remove unused static (clear clang-tidy error) (#65383)
 * Random missions fixes (#65342)
 * Additional ambient guns (#65372)
-* UI fixes for barrel length gun damage (#65309)
 * Fix calculation for inserting into nested containers (#65373)
 * Map update: pharmacy (#65375)
 * Don't report json member errors if currently throwing an exception. (#65363)
