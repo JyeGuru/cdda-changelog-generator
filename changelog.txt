@@ -88,5 +88,4 @@
 * Seperate weather tolerance from stomach related traits (#65335)
 * Document "location" for vehicle parts (#65327)
 * Cheesemaking background (#65343)
-* Updated Phase Immersion Suit (#65324)
 * Carpet Armor (#65331)
