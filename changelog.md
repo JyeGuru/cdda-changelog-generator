@@ -1,3 +1,4 @@
+* Mutators for EOCs ([#65539](https://github.com/CleverRaven/Cataclysm-DDA/pull/65539))
 * A bunch of random item reworks: 1 ([#65474](https://github.com/CleverRaven/Cataclysm-DDA/pull/65474))
 * Routine tileset updates on 07 May 2023 ([#65534](https://github.com/CleverRaven/Cataclysm-DDA/pull/65534))
 * combat catchup ([#65537](https://github.com/CleverRaven/Cataclysm-DDA/pull/65537))
@@ -68,7 +69,6 @@
 * fixing grammar in comments - mostly it's -> its ([#65388](https://github.com/CleverRaven/Cataclysm-DDA/pull/65388))
 * Make `f`iring action UX more pleasant ([#65382](https://github.com/CleverRaven/Cataclysm-DDA/pull/65382))
 * Cleanup: regional airport ([#65386](https://github.com/CleverRaven/Cataclysm-DDA/pull/65386))
-* Addition of Profession requirements ([#65329](https://github.com/CleverRaven/Cataclysm-DDA/pull/65329))
 * Make some locations more rare ([#65366](https://github.com/CleverRaven/Cataclysm-DDA/pull/65366))
 * appliance recipes update + home improvement backround ([#65374](https://github.com/CleverRaven/Cataclysm-DDA/pull/65374))
 * Remove unused static (clear clang-tidy error) ([#65383](https://github.com/CleverRaven/Cataclysm-DDA/pull/65383))
