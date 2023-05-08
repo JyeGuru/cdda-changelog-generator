@@ -1,3 +1,4 @@
+* A bunch of random item reworks: 1 ([#65474](https://github.com/CleverRaven/Cataclysm-DDA/pull/65474))
 * Routine tileset updates on 07 May 2023 ([#65534](https://github.com/CleverRaven/Cataclysm-DDA/pull/65534))
 * combat catchup ([#65537](https://github.com/CleverRaven/Cataclysm-DDA/pull/65537))
 * [Xedra Evolved] fix wrong boiler description ([#65521](https://github.com/CleverRaven/Cataclysm-DDA/pull/65521))
@@ -86,6 +87,5 @@
 * Weakpoints & Proficiencies for Zombie-Adjacent Monsters ([#65346](https://github.com/CleverRaven/Cataclysm-DDA/pull/65346))
 * Update the table of contents in doc/JSON_INFO.md ([#65350](https://github.com/CleverRaven/Cataclysm-DDA/pull/65350))
 * Seperate weather tolerance from stomach related traits ([#65335](https://github.com/CleverRaven/Cataclysm-DDA/pull/65335))
-* Document "location" for vehicle parts ([#65327](https://github.com/CleverRaven/Cataclysm-DDA/pull/65327))
 * Cheesemaking background ([#65343](https://github.com/CleverRaven/Cataclysm-DDA/pull/65343))
 * Carpet Armor ([#65331](https://github.com/CleverRaven/Cataclysm-DDA/pull/65331))
