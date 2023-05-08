@@ -1,3 +1,5 @@
+* [CR] Modify do_turn to update NPC morale when player morale is updated ([#65504](https://github.com/CleverRaven/Cataclysm-DDA/pull/65504))
+* Making Paramilitary Zombies spawn damaged gear. ([#65496](https://github.com/CleverRaven/Cataclysm-DDA/pull/65496))
 * Quick typo fix for Xedra Evolved (mics to misc) ([#65501](https://github.com/CleverRaven/Cataclysm-DDA/pull/65501))
 * Add new holy symbol mission, minor technical improvements to other missions ([#65506](https://github.com/CleverRaven/Cataclysm-DDA/pull/65506))
 * Fix the issue of incorrect color when comparing the FOV attributes of two items ([#65527](https://github.com/CleverRaven/Cataclysm-DDA/pull/65527))
@@ -59,7 +61,6 @@
 * Downgrade cmake files to v3.20 ([#65376](https://github.com/CleverRaven/Cataclysm-DDA/pull/65376))
 * [Bombastic Perks] Recycler ([#65397](https://github.com/CleverRaven/Cataclysm-DDA/pull/65397))
 * Change anvil volume from 4L to 24L ([#65416](https://github.com/CleverRaven/Cataclysm-DDA/pull/65416))
-* Context Vars ([#65307](https://github.com/CleverRaven/Cataclysm-DDA/pull/65307))
 * Aftershock: Elemental bionic weapons. ([#65391](https://github.com/CleverRaven/Cataclysm-DDA/pull/65391))
 * fixing grammar in comments - mostly it's -> its ([#65388](https://github.com/CleverRaven/Cataclysm-DDA/pull/65388))
 * Make `f`iring action UX more pleasant ([#65382](https://github.com/CleverRaven/Cataclysm-DDA/pull/65382))
@@ -91,4 +92,3 @@
 * Fix vehicles' initial fuel spawns ([#65323](https://github.com/CleverRaven/Cataclysm-DDA/pull/65323))
 * TWD farm: fix stairs ([#65322](https://github.com/CleverRaven/Cataclysm-DDA/pull/65322))
 * Carpet Armor ([#65331](https://github.com/CleverRaven/Cataclysm-DDA/pull/65331))
-* remove gross food from hardtack ([#65308](https://github.com/CleverRaven/Cataclysm-DDA/pull/65308))
