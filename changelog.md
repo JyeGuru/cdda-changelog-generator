@@ -1,3 +1,4 @@
+* DaiZoom snippet ([#65458](https://github.com/CleverRaven/Cataclysm-DDA/pull/65458))
 * Mutators for EOCs ([#65539](https://github.com/CleverRaven/Cataclysm-DDA/pull/65539))
 * A bunch of random item reworks: 1 ([#65474](https://github.com/CleverRaven/Cataclysm-DDA/pull/65474))
 * Routine tileset updates on 07 May 2023 ([#65534](https://github.com/CleverRaven/Cataclysm-DDA/pull/65534))
@@ -88,4 +89,3 @@
 * Update the table of contents in doc/JSON_INFO.md ([#65350](https://github.com/CleverRaven/Cataclysm-DDA/pull/65350))
 * Seperate weather tolerance from stomach related traits ([#65335](https://github.com/CleverRaven/Cataclysm-DDA/pull/65335))
 * Cheesemaking background ([#65343](https://github.com/CleverRaven/Cataclysm-DDA/pull/65343))
-* Carpet Armor ([#65331](https://github.com/CleverRaven/Cataclysm-DDA/pull/65331))
