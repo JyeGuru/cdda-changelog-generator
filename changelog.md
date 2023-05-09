@@ -1,3 +1,4 @@
+* Fix compilation with LOCALIZE=OFF ([#65548](https://github.com/CleverRaven/Cataclysm-DDA/pull/65548))
 * DaiZoom snippet ([#65458](https://github.com/CleverRaven/Cataclysm-DDA/pull/65458))
 * Mutators for EOCs ([#65539](https://github.com/CleverRaven/Cataclysm-DDA/pull/65539))
 * A bunch of random item reworks: 1 ([#65474](https://github.com/CleverRaven/Cataclysm-DDA/pull/65474))
@@ -87,5 +88,4 @@
 * Hospitals now have a chance of piled up corpses in body bags on the porch ([#65359](https://github.com/CleverRaven/Cataclysm-DDA/pull/65359))
 * Weakpoints & Proficiencies for Zombie-Adjacent Monsters ([#65346](https://github.com/CleverRaven/Cataclysm-DDA/pull/65346))
 * Update the table of contents in doc/JSON_INFO.md ([#65350](https://github.com/CleverRaven/Cataclysm-DDA/pull/65350))
-* Seperate weather tolerance from stomach related traits ([#65335](https://github.com/CleverRaven/Cataclysm-DDA/pull/65335))
 * Cheesemaking background ([#65343](https://github.com/CleverRaven/Cataclysm-DDA/pull/65343))
