@@ -1,3 +1,4 @@
+* Irradiated Melon Deconstruct fix (#65569)
 * Smart watch (#65533)
 * Toggle language to English - Adds instructions for users (#65554)
 * Followup child cleanup PR (#65509)
@@ -88,5 +89,4 @@
 * Fix clang-tidy workflow failure (#65354)
 * Routine i18n updates on 29 April 2023 (#65365)
 * Hospitals now have a chance of piled up corpses in body bags on the porch (#65359)
-* Weakpoints & Proficiencies for Zombie-Adjacent Monsters (#65346)
 * Update the table of contents in doc/JSON_INFO.md (#65350)
