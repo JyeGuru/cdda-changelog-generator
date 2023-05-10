@@ -1,3 +1,5 @@
+* Smart watch ([#65533](https://github.com/CleverRaven/Cataclysm-DDA/pull/65533))
+* Toggle language to English - Adds instructions for users ([#65554](https://github.com/CleverRaven/Cataclysm-DDA/pull/65554))
 * Followup child cleanup PR ([#65509](https://github.com/CleverRaven/Cataclysm-DDA/pull/65509))
 * fix damage of sig 553 rifle ([#65563](https://github.com/CleverRaven/Cataclysm-DDA/pull/65563))
 * Fix compilation with LOCALIZE=OFF ([#65548](https://github.com/CleverRaven/Cataclysm-DDA/pull/65548))
@@ -75,7 +77,6 @@
 * Make some locations more rare ([#65366](https://github.com/CleverRaven/Cataclysm-DDA/pull/65366))
 * appliance recipes update + home improvement backround ([#65374](https://github.com/CleverRaven/Cataclysm-DDA/pull/65374))
 * Remove unused static (clear clang-tidy error) ([#65383](https://github.com/CleverRaven/Cataclysm-DDA/pull/65383))
-* Random missions fixes ([#65342](https://github.com/CleverRaven/Cataclysm-DDA/pull/65342))
 * Additional ambient guns ([#65372](https://github.com/CleverRaven/Cataclysm-DDA/pull/65372))
 * Fix calculation for inserting into nested containers ([#65373](https://github.com/CleverRaven/Cataclysm-DDA/pull/65373))
 * Map update: pharmacy ([#65375](https://github.com/CleverRaven/Cataclysm-DDA/pull/65375))
@@ -89,4 +90,3 @@
 * Hospitals now have a chance of piled up corpses in body bags on the porch ([#65359](https://github.com/CleverRaven/Cataclysm-DDA/pull/65359))
 * Weakpoints & Proficiencies for Zombie-Adjacent Monsters ([#65346](https://github.com/CleverRaven/Cataclysm-DDA/pull/65346))
 * Update the table of contents in doc/JSON_INFO.md ([#65350](https://github.com/CleverRaven/Cataclysm-DDA/pull/65350))
-* Cheesemaking background ([#65343](https://github.com/CleverRaven/Cataclysm-DDA/pull/65343))
