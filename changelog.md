@@ -1,3 +1,4 @@
+* Followup child cleanup PR ([#65509](https://github.com/CleverRaven/Cataclysm-DDA/pull/65509))
 * fix damage of sig 553 rifle ([#65563](https://github.com/CleverRaven/Cataclysm-DDA/pull/65563))
 * Fix compilation with LOCALIZE=OFF ([#65548](https://github.com/CleverRaven/Cataclysm-DDA/pull/65548))
 * DaiZoom snippet ([#65458](https://github.com/CleverRaven/Cataclysm-DDA/pull/65458))
@@ -48,7 +49,6 @@
 * math_parser: add support for JSON-defined functions ([#65379](https://github.com/CleverRaven/Cataclysm-DDA/pull/65379))
 * Play with the corvids ([#65447](https://github.com/CleverRaven/Cataclysm-DDA/pull/65447))
 * Make watermelon seeds craftable ([#65452](https://github.com/CleverRaven/Cataclysm-DDA/pull/65452))
-* Display why vehicle parts cannot be installed ([#65341](https://github.com/CleverRaven/Cataclysm-DDA/pull/65341))
 * Fix crash: dangling pointer to faction ([#65442](https://github.com/CleverRaven/Cataclysm-DDA/pull/65442))
 * Fix the transforming mutation eocs in Xedra Evolved ([#65396](https://github.com/CleverRaven/Cataclysm-DDA/pull/65396))
 * Fix calories for raw-->cooked foods ([#65439](https://github.com/CleverRaven/Cataclysm-DDA/pull/65439))
