@@ -1,3 +1,4 @@
+* fix damage of sig 553 rifle ([#65563](https://github.com/CleverRaven/Cataclysm-DDA/pull/65563))
 * Fix compilation with LOCALIZE=OFF ([#65548](https://github.com/CleverRaven/Cataclysm-DDA/pull/65548))
 * DaiZoom snippet ([#65458](https://github.com/CleverRaven/Cataclysm-DDA/pull/65458))
 * Mutators for EOCs ([#65539](https://github.com/CleverRaven/Cataclysm-DDA/pull/65539))
