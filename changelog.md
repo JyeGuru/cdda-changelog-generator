@@ -1,3 +1,4 @@
+* Changed Giant Pincer into a piece of integrated armor with qualities and some natural moves, also messed a little with the warmth values of crustacean carapace. ([#65546](https://github.com/CleverRaven/Cataclysm-DDA/pull/65546))
 * Irradiated Melon Deconstruct fix ([#65569](https://github.com/CleverRaven/Cataclysm-DDA/pull/65569))
 * Smart watch ([#65533](https://github.com/CleverRaven/Cataclysm-DDA/pull/65533))
 * Toggle language to English - Adds instructions for users ([#65554](https://github.com/CleverRaven/Cataclysm-DDA/pull/65554))
@@ -85,7 +86,6 @@
 * Map update: music store ([#65361](https://github.com/CleverRaven/Cataclysm-DDA/pull/65361))
 * Lodge basement variant - normal ([#65353](https://github.com/CleverRaven/Cataclysm-DDA/pull/65353))
 * math_parser: force classic locale before parsing ([#65352](https://github.com/CleverRaven/Cataclysm-DDA/pull/65352))
-* json: document families shorthand ([#65347](https://github.com/CleverRaven/Cataclysm-DDA/pull/65347))
 * Fix clang-tidy workflow failure ([#65354](https://github.com/CleverRaven/Cataclysm-DDA/pull/65354))
 * Routine i18n updates on 29 April 2023 ([#65365](https://github.com/CleverRaven/Cataclysm-DDA/pull/65365))
 * Hospitals now have a chance of piled up corpses in body bags on the porch ([#65359](https://github.com/CleverRaven/Cataclysm-DDA/pull/65359))
