@@ -1,3 +1,5 @@
+* [Magiclysm] Small tweaks for mage armor and mage blade ([#65508](https://github.com/CleverRaven/Cataclysm-DDA/pull/65508))
+* Weekly Changelog 2023-05-01 to 2023-05-08 ([#65538](https://github.com/CleverRaven/Cataclysm-DDA/pull/65538))
 * Allow natural bee hives to spawn ([#65547](https://github.com/CleverRaven/Cataclysm-DDA/pull/65547))
 * Small improvements to vehicle install part menu ([#65558](https://github.com/CleverRaven/Cataclysm-DDA/pull/65558))
 * Open multiple containers in Advanced Inventory Manager ([#65560](https://github.com/CleverRaven/Cataclysm-DDA/pull/65560))
@@ -88,5 +90,3 @@
 * Additional ambient guns ([#65372](https://github.com/CleverRaven/Cataclysm-DDA/pull/65372))
 * Fix calculation for inserting into nested containers ([#65373](https://github.com/CleverRaven/Cataclysm-DDA/pull/65373))
 * Map update: pharmacy ([#65375](https://github.com/CleverRaven/Cataclysm-DDA/pull/65375))
-* Don't report json member errors if currently throwing an exception. ([#65363](https://github.com/CleverRaven/Cataclysm-DDA/pull/65363))
-* Routine i18n updates on 29 April 2023 ([#65365](https://github.com/CleverRaven/Cataclysm-DDA/pull/65365))
