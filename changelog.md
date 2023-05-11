@@ -1,3 +1,5 @@
+* Small improvements to vehicle install part menu ([#65558](https://github.com/CleverRaven/Cataclysm-DDA/pull/65558))
+* Open multiple containers in Advanced Inventory Manager ([#65560](https://github.com/CleverRaven/Cataclysm-DDA/pull/65560))
 * Fix arming mitten coverage ([#65572](https://github.com/CleverRaven/Cataclysm-DDA/pull/65572))
 * Store Conditionals ([#65556](https://github.com/CleverRaven/Cataclysm-DDA/pull/65556))
 * [Xedra Evolved] Sane inventor's researches ([#65557](https://github.com/CleverRaven/Cataclysm-DDA/pull/65557))
@@ -87,6 +89,4 @@
 * Map update: pharmacy ([#65375](https://github.com/CleverRaven/Cataclysm-DDA/pull/65375))
 * Don't report json member errors if currently throwing an exception. ([#65363](https://github.com/CleverRaven/Cataclysm-DDA/pull/65363))
 * Map update: music store ([#65361](https://github.com/CleverRaven/Cataclysm-DDA/pull/65361))
-* Fix clang-tidy workflow failure ([#65354](https://github.com/CleverRaven/Cataclysm-DDA/pull/65354))
 * Routine i18n updates on 29 April 2023 ([#65365](https://github.com/CleverRaven/Cataclysm-DDA/pull/65365))
-* Hospitals now have a chance of piled up corpses in body bags on the porch ([#65359](https://github.com/CleverRaven/Cataclysm-DDA/pull/65359))
