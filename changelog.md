@@ -1,3 +1,4 @@
+* Allow natural bee hives to spawn ([#65547](https://github.com/CleverRaven/Cataclysm-DDA/pull/65547))
 * Small improvements to vehicle install part menu ([#65558](https://github.com/CleverRaven/Cataclysm-DDA/pull/65558))
 * Open multiple containers in Advanced Inventory Manager ([#65560](https://github.com/CleverRaven/Cataclysm-DDA/pull/65560))
 * Fix arming mitten coverage ([#65572](https://github.com/CleverRaven/Cataclysm-DDA/pull/65572))
@@ -88,5 +89,4 @@
 * Fix calculation for inserting into nested containers ([#65373](https://github.com/CleverRaven/Cataclysm-DDA/pull/65373))
 * Map update: pharmacy ([#65375](https://github.com/CleverRaven/Cataclysm-DDA/pull/65375))
 * Don't report json member errors if currently throwing an exception. ([#65363](https://github.com/CleverRaven/Cataclysm-DDA/pull/65363))
-* Map update: music store ([#65361](https://github.com/CleverRaven/Cataclysm-DDA/pull/65361))
 * Routine i18n updates on 29 April 2023 ([#65365](https://github.com/CleverRaven/Cataclysm-DDA/pull/65365))
