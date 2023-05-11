@@ -1,3 +1,4 @@
+* Fix arming mitten coverage ([#65572](https://github.com/CleverRaven/Cataclysm-DDA/pull/65572))
 * Store Conditionals ([#65556](https://github.com/CleverRaven/Cataclysm-DDA/pull/65556))
 * [Xedra Evolved] Sane inventor's researches ([#65557](https://github.com/CleverRaven/Cataclysm-DDA/pull/65557))
 * Changed Giant Pincer into a piece of integrated armor with qualities and some natural moves, also messed a little with the warmth values of crustacean carapace. ([#65546](https://github.com/CleverRaven/Cataclysm-DDA/pull/65546))
@@ -86,7 +87,6 @@
 * Map update: pharmacy ([#65375](https://github.com/CleverRaven/Cataclysm-DDA/pull/65375))
 * Don't report json member errors if currently throwing an exception. ([#65363](https://github.com/CleverRaven/Cataclysm-DDA/pull/65363))
 * Map update: music store ([#65361](https://github.com/CleverRaven/Cataclysm-DDA/pull/65361))
-* Lodge basement variant - normal ([#65353](https://github.com/CleverRaven/Cataclysm-DDA/pull/65353))
 * Fix clang-tidy workflow failure ([#65354](https://github.com/CleverRaven/Cataclysm-DDA/pull/65354))
 * Routine i18n updates on 29 April 2023 ([#65365](https://github.com/CleverRaven/Cataclysm-DDA/pull/65365))
 * Hospitals now have a chance of piled up corpses in body bags on the porch ([#65359](https://github.com/CleverRaven/Cataclysm-DDA/pull/65359))
