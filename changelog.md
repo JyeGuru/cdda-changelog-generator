@@ -1,3 +1,4 @@
+* Options accessible by EOC ([#65571](https://github.com/CleverRaven/Cataclysm-DDA/pull/65571))
 * Changing flyer lore ([#65579](https://github.com/CleverRaven/Cataclysm-DDA/pull/65579))
 * Extract recipe hints for inline result_eocs ([#65582](https://github.com/CleverRaven/Cataclysm-DDA/pull/65582))
 * Fix crash on installing CBMs ([#65587](https://github.com/CleverRaven/Cataclysm-DDA/pull/65587))
@@ -83,7 +84,6 @@
 * Refactor index_of_part, tidy vehicle functions ([#65414](https://github.com/CleverRaven/Cataclysm-DDA/pull/65414))
 * Fix recipe lang parser expecting result field ([#65420](https://github.com/CleverRaven/Cataclysm-DDA/pull/65420))
 * added missing proficiencies to the modular kitchen station ([#65422](https://github.com/CleverRaven/Cataclysm-DDA/pull/65422))
-* Downgrade cmake files to v3.20 ([#65376](https://github.com/CleverRaven/Cataclysm-DDA/pull/65376))
 * [Bombastic Perks] Recycler ([#65397](https://github.com/CleverRaven/Cataclysm-DDA/pull/65397))
 * Change anvil volume from 4L to 24L ([#65416](https://github.com/CleverRaven/Cataclysm-DDA/pull/65416))
 * Aftershock: Elemental bionic weapons. ([#65391](https://github.com/CleverRaven/Cataclysm-DDA/pull/65391))
