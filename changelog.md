@@ -1,3 +1,4 @@
+* [Innawoods] Overrides to remove a bunch of manmade items from innawoods ([#65591](https://github.com/CleverRaven/Cataclysm-DDA/pull/65591))
 * Remove hardcoded lighter from some starting NPC inventories ([#65592](https://github.com/CleverRaven/Cataclysm-DDA/pull/65592))
 * Typo hunting ([#65586](https://github.com/CleverRaven/Cataclysm-DDA/pull/65586))
 * Initial Implementation Of Replacable Limbs ([#65505](https://github.com/CleverRaven/Cataclysm-DDA/pull/65505))
@@ -88,6 +89,5 @@
 * Cleanup: regional airport ([#65386](https://github.com/CleverRaven/Cataclysm-DDA/pull/65386))
 * appliance recipes update + home improvement backround ([#65374](https://github.com/CleverRaven/Cataclysm-DDA/pull/65374))
 * Remove unused static (clear clang-tidy error) ([#65383](https://github.com/CleverRaven/Cataclysm-DDA/pull/65383))
-* Additional ambient guns ([#65372](https://github.com/CleverRaven/Cataclysm-DDA/pull/65372))
 * Fix calculation for inserting into nested containers ([#65373](https://github.com/CleverRaven/Cataclysm-DDA/pull/65373))
 * Map update: pharmacy ([#65375](https://github.com/CleverRaven/Cataclysm-DDA/pull/65375))
