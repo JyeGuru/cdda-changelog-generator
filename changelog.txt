@@ -1,3 +1,4 @@
+* Typo hunting (#65586)
 * Initial Implementation Of Replacable Limbs (#65505)
 * [Magiclysm] Small tweaks for mage armor and mage blade (#65508)
 * Weekly Changelog 2023-05-01 to 2023-05-08 (#65538)
@@ -72,7 +73,6 @@
 * Obsolete NO_QUICKDRAW flag (#65423)
 * Update the table of contents in doc/JSON_INFO.md (#65425)
 * Routine tileset updates on 30 April 2023 (#65399)
-* Make vehicle prototypes use generic_factory (#65367)
 * fix: tundra mage enchantment typo (#65405)
 * Document burn_data for materials (#65409)
 * Refactor index_of_part, tidy vehicle functions (#65414)
