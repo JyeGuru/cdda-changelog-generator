@@ -1,3 +1,4 @@
+* Remove hardcoded lighter from some starting NPC inventories ([#65592](https://github.com/CleverRaven/Cataclysm-DDA/pull/65592))
 * Typo hunting ([#65586](https://github.com/CleverRaven/Cataclysm-DDA/pull/65586))
 * Initial Implementation Of Replacable Limbs ([#65505](https://github.com/CleverRaven/Cataclysm-DDA/pull/65505))
 * [Magiclysm] Small tweaks for mage armor and mage blade ([#65508](https://github.com/CleverRaven/Cataclysm-DDA/pull/65508))
