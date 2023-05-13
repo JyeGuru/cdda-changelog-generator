@@ -1,3 +1,4 @@
+* Bionic two way radio (#65603)
 * Axe ring empty encumberance to 0 (#65601)
 * Add a new menu item to NPC quick chat to allow for quick assignment of tasks (#65609)
 * recipe_food.json water_boiling_heat audit (#65581)
@@ -47,7 +48,6 @@
 * Apply exodii faction ownership to the exodii's safehouse stores (#65503)
 * A bunch of random item reworks: 2 (#65486)
 * barrel length for mods (#65487)
-* Upgrade clang-tidy used in CI to LLVM 16 (#65381)
 * Routine i18n updates on 06 May 2023 (#65497)
 * EOC Run With (#65454)
 * Fix infinite recursion when trying to drain battery (#65488)
