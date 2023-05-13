@@ -1,3 +1,4 @@
+* Axe ring empty encumberance to 0 ([#65601](https://github.com/CleverRaven/Cataclysm-DDA/pull/65601))
 * Add a new menu item to NPC quick chat to allow for quick assignment of tasks ([#65609](https://github.com/CleverRaven/Cataclysm-DDA/pull/65609))
 * recipe_food.json water_boiling_heat audit ([#65581](https://github.com/CleverRaven/Cataclysm-DDA/pull/65581))
 * Options accessible by EOC ([#65571](https://github.com/CleverRaven/Cataclysm-DDA/pull/65571))
