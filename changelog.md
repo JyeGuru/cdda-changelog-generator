@@ -1,3 +1,4 @@
+* recipe_food.json water_boiling_heat audit ([#65581](https://github.com/CleverRaven/Cataclysm-DDA/pull/65581))
 * Options accessible by EOC ([#65571](https://github.com/CleverRaven/Cataclysm-DDA/pull/65571))
 * Changing flyer lore ([#65579](https://github.com/CleverRaven/Cataclysm-DDA/pull/65579))
 * Extract recipe hints for inline result_eocs ([#65582](https://github.com/CleverRaven/Cataclysm-DDA/pull/65582))
@@ -51,7 +52,6 @@
 * Fix unvisited member reporting from global destructors in atexit. ([#65477](https://github.com/CleverRaven/Cataclysm-DDA/pull/65477))
 * Allow comestibles to inflict multiple addictions ([#65480](https://github.com/CleverRaven/Cataclysm-DDA/pull/65480))
 * vegetation tweaks ([#65478](https://github.com/CleverRaven/Cataclysm-DDA/pull/65478))
-* Move wheel data to json ([#65377](https://github.com/CleverRaven/Cataclysm-DDA/pull/65377))
 * Map update: bike shop ([#65441](https://github.com/CleverRaven/Cataclysm-DDA/pull/65441))
 * math_parser: port skill_level functions to math ([#65465](https://github.com/CleverRaven/Cataclysm-DDA/pull/65465))
 * Fix usage of vars in some EOC code ([#65444](https://github.com/CleverRaven/Cataclysm-DDA/pull/65444))
