@@ -89,6 +89,5 @@
 * Change anvil volume from 4L to 24L ([#65416](https://github.com/CleverRaven/Cataclysm-DDA/pull/65416))
 * Aftershock: Elemental bionic weapons. ([#65391](https://github.com/CleverRaven/Cataclysm-DDA/pull/65391))
 * fixing grammar in comments - mostly it's -> its ([#65388](https://github.com/CleverRaven/Cataclysm-DDA/pull/65388))
-* Make `f`iring action UX more pleasant ([#65382](https://github.com/CleverRaven/Cataclysm-DDA/pull/65382))
 * Cleanup: regional airport ([#65386](https://github.com/CleverRaven/Cataclysm-DDA/pull/65386))
 * Remove unused static (clear clang-tidy error) ([#65383](https://github.com/CleverRaven/Cataclysm-DDA/pull/65383))
