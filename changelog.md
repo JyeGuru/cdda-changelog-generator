@@ -1,3 +1,4 @@
+* Add a new menu item to NPC quick chat to allow for quick assignment of tasks ([#65609](https://github.com/CleverRaven/Cataclysm-DDA/pull/65609))
 * recipe_food.json water_boiling_heat audit ([#65581](https://github.com/CleverRaven/Cataclysm-DDA/pull/65581))
 * Options accessible by EOC ([#65571](https://github.com/CleverRaven/Cataclysm-DDA/pull/65571))
 * Changing flyer lore ([#65579](https://github.com/CleverRaven/Cataclysm-DDA/pull/65579))
@@ -66,7 +67,6 @@
 * [Magiclysm] Fix the diviner's swamp dragon quest ([#65455](https://github.com/CleverRaven/Cataclysm-DDA/pull/65455))
 * Add avatar swim tests ([#65457](https://github.com/CleverRaven/Cataclysm-DDA/pull/65457))
 * Re-enable device EOC menu text ([#65456](https://github.com/CleverRaven/Cataclysm-DDA/pull/65456))
-* math_parser: add support for JSON-defined functions ([#65379](https://github.com/CleverRaven/Cataclysm-DDA/pull/65379))
 * Play with the corvids ([#65447](https://github.com/CleverRaven/Cataclysm-DDA/pull/65447))
 * Make watermelon seeds craftable ([#65452](https://github.com/CleverRaven/Cataclysm-DDA/pull/65452))
 * Fix crash: dangling pointer to faction ([#65442](https://github.com/CleverRaven/Cataclysm-DDA/pull/65442))
