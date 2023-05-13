@@ -90,4 +90,3 @@
 * Aftershock: Elemental bionic weapons. (#65391)
 * fixing grammar in comments - mostly it's -> its (#65388)
 * Cleanup: regional airport (#65386)
-* Remove unused static (clear clang-tidy error) (#65383)
