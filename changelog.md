@@ -1,3 +1,4 @@
+* firemen don't carry flamethrowers jesus ([#65590](https://github.com/CleverRaven/Cataclysm-DDA/pull/65590))
 * Routine i18n updates on 13 May 2023 ([#65610](https://github.com/CleverRaven/Cataclysm-DDA/pull/65610))
 * fix: isherwoods all share the same outfit ([#65626](https://github.com/CleverRaven/Cataclysm-DDA/pull/65626))
 * Fix UI and accessibility issues in the overmap UI and character creation menu ([#65598](https://github.com/CleverRaven/Cataclysm-DDA/pull/65598))
@@ -89,7 +90,6 @@
 * Fix issues with house_38 ([#65435](https://github.com/CleverRaven/Cataclysm-DDA/pull/65435))
 * Obsolete NO_QUICKDRAW flag ([#65423](https://github.com/CleverRaven/Cataclysm-DDA/pull/65423))
 * Update the table of contents in doc/JSON_INFO.md ([#65425](https://github.com/CleverRaven/Cataclysm-DDA/pull/65425))
-* Refactor index_of_part, tidy vehicle functions ([#65414](https://github.com/CleverRaven/Cataclysm-DDA/pull/65414))
 * Fix recipe lang parser expecting result field ([#65420](https://github.com/CleverRaven/Cataclysm-DDA/pull/65420))
 * added missing proficiencies to the modular kitchen station ([#65422](https://github.com/CleverRaven/Cataclysm-DDA/pull/65422))
 * Change anvil volume from 4L to 24L ([#65416](https://github.com/CleverRaven/Cataclysm-DDA/pull/65416))
