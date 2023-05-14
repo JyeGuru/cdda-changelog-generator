@@ -1,3 +1,4 @@
+* cloaks are belted layer ([#65629](https://github.com/CleverRaven/Cataclysm-DDA/pull/65629))
 * firemen don't carry flamethrowers jesus ([#65590](https://github.com/CleverRaven/Cataclysm-DDA/pull/65590))
 * Routine i18n updates on 13 May 2023 ([#65610](https://github.com/CleverRaven/Cataclysm-DDA/pull/65610))
 * fix: isherwoods all share the same outfit ([#65626](https://github.com/CleverRaven/Cataclysm-DDA/pull/65626))
@@ -84,7 +85,6 @@
 * Make watermelon seeds craftable ([#65452](https://github.com/CleverRaven/Cataclysm-DDA/pull/65452))
 * Fix crash: dangling pointer to faction ([#65442](https://github.com/CleverRaven/Cataclysm-DDA/pull/65442))
 * Fix calories for raw-->cooked foods ([#65439](https://github.com/CleverRaven/Cataclysm-DDA/pull/65439))
-* New item: large shelter kit and the recipes for it. ([#65415](https://github.com/CleverRaven/Cataclysm-DDA/pull/65415))
 * Resurrecting the nether monster corpse ([#65421](https://github.com/CleverRaven/Cataclysm-DDA/pull/65421))
 * Show NPC location when selecting NPC to chat with, guard, or follow ([#65432](https://github.com/CleverRaven/Cataclysm-DDA/pull/65432))
 * Fix issues with house_38 ([#65435](https://github.com/CleverRaven/Cataclysm-DDA/pull/65435))
