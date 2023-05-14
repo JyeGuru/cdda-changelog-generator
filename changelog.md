@@ -1,3 +1,5 @@
+* Fix for groundcover changes that broke Innawood and Magiclysm ([#65618](https://github.com/CleverRaven/Cataclysm-DDA/pull/65618))
+* Various small fixes ([#65623](https://github.com/CleverRaven/Cataclysm-DDA/pull/65623))
 * Check for un/folding tools via crafting inventory ([#65624](https://github.com/CleverRaven/Cataclysm-DDA/pull/65624))
 * Bionic two way radio ([#65603](https://github.com/CleverRaven/Cataclysm-DDA/pull/65603))
 * Axe ring empty encumberance to 0 ([#65601](https://github.com/CleverRaven/Cataclysm-DDA/pull/65601))
@@ -89,5 +91,3 @@
 * [Bombastic Perks] Recycler ([#65397](https://github.com/CleverRaven/Cataclysm-DDA/pull/65397))
 * Change anvil volume from 4L to 24L ([#65416](https://github.com/CleverRaven/Cataclysm-DDA/pull/65416))
 * Aftershock: Elemental bionic weapons. ([#65391](https://github.com/CleverRaven/Cataclysm-DDA/pull/65391))
-* fixing grammar in comments - mostly it's -> its ([#65388](https://github.com/CleverRaven/Cataclysm-DDA/pull/65388))
-* Cleanup: regional airport ([#65386](https://github.com/CleverRaven/Cataclysm-DDA/pull/65386))
