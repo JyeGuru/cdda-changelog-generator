@@ -1,3 +1,4 @@
+* Check for un/folding tools via crafting inventory ([#65624](https://github.com/CleverRaven/Cataclysm-DDA/pull/65624))
 * Bionic two way radio ([#65603](https://github.com/CleverRaven/Cataclysm-DDA/pull/65603))
 * Axe ring empty encumberance to 0 ([#65601](https://github.com/CleverRaven/Cataclysm-DDA/pull/65601))
 * Add a new menu item to NPC quick chat to allow for quick assignment of tasks ([#65609](https://github.com/CleverRaven/Cataclysm-DDA/pull/65609))
