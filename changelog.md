@@ -1,3 +1,4 @@
+* A bunch of random item reworks: 3 ([#65532](https://github.com/CleverRaven/Cataclysm-DDA/pull/65532))
 * Audit burn_data for vanilla materials ([#65536](https://github.com/CleverRaven/Cataclysm-DDA/pull/65536))
 * Allow zones to interact across multiple Z levels ([#65613](https://github.com/CleverRaven/Cataclysm-DDA/pull/65613))
 * Add support for running and smashing animations ([#65622](https://github.com/CleverRaven/Cataclysm-DDA/pull/65622))
@@ -93,4 +94,3 @@
 * chelator removes crustacean instead of adding it ([#65479](https://github.com/CleverRaven/Cataclysm-DDA/pull/65479))
 * Set preconditions for swim tests more aggressively ([#65475](https://github.com/CleverRaven/Cataclysm-DDA/pull/65475))
 * talker: implement cloning w/ CRTP ([#65469](https://github.com/CleverRaven/Cataclysm-DDA/pull/65469))
-* Add avatar swim tests ([#65457](https://github.com/CleverRaven/Cataclysm-DDA/pull/65457))
