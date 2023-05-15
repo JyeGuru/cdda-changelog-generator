@@ -1,3 +1,4 @@
+* Routine tileset updates on 14 May 2023 ([#65644](https://github.com/CleverRaven/Cataclysm-DDA/pull/65644))
 * cloaks are belted layer ([#65629](https://github.com/CleverRaven/Cataclysm-DDA/pull/65629))
 * firemen don't carry flamethrowers jesus ([#65590](https://github.com/CleverRaven/Cataclysm-DDA/pull/65590))
 * Routine i18n updates on 13 May 2023 ([#65610](https://github.com/CleverRaven/Cataclysm-DDA/pull/65610))
@@ -92,4 +93,3 @@
 * Update the table of contents in doc/JSON_INFO.md ([#65425](https://github.com/CleverRaven/Cataclysm-DDA/pull/65425))
 * Fix recipe lang parser expecting result field ([#65420](https://github.com/CleverRaven/Cataclysm-DDA/pull/65420))
 * added missing proficiencies to the modular kitchen station ([#65422](https://github.com/CleverRaven/Cataclysm-DDA/pull/65422))
-* Change anvil volume from 4L to 24L ([#65416](https://github.com/CleverRaven/Cataclysm-DDA/pull/65416))
