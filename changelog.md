@@ -1,3 +1,4 @@
+* Add support for running and smashing animations ([#65622](https://github.com/CleverRaven/Cataclysm-DDA/pull/65622))
 * Fix item damage's effect on gun/melee damage ([#65642](https://github.com/CleverRaven/Cataclysm-DDA/pull/65642))
 * Updated STEN Mk II description (spelling) ([#65649](https://github.com/CleverRaven/Cataclysm-DDA/pull/65649))
 * Encumbrance fixes and PALS for some containers ([#65493](https://github.com/CleverRaven/Cataclysm-DDA/pull/65493))
@@ -78,7 +79,6 @@
 * A bunch of random item reworks: 2 ([#65486](https://github.com/CleverRaven/Cataclysm-DDA/pull/65486))
 * barrel length for mods ([#65487](https://github.com/CleverRaven/Cataclysm-DDA/pull/65487))
 * Routine i18n updates on 06 May 2023 ([#65497](https://github.com/CleverRaven/Cataclysm-DDA/pull/65497))
-* EOC Run With ([#65454](https://github.com/CleverRaven/Cataclysm-DDA/pull/65454))
 * Fix infinite recursion when trying to drain battery ([#65488](https://github.com/CleverRaven/Cataclysm-DDA/pull/65488))
 * Fix unvisited member reporting from global destructors in atexit. ([#65477](https://github.com/CleverRaven/Cataclysm-DDA/pull/65477))
 * Allow comestibles to inflict multiple addictions ([#65480](https://github.com/CleverRaven/Cataclysm-DDA/pull/65480))
