@@ -1,3 +1,4 @@
+* Fix item damage's effect on gun/melee damage ([#65642](https://github.com/CleverRaven/Cataclysm-DDA/pull/65642))
 * Updated STEN Mk II description (spelling) ([#65649](https://github.com/CleverRaven/Cataclysm-DDA/pull/65649))
 * Encumbrance fixes and PALS for some containers ([#65493](https://github.com/CleverRaven/Cataclysm-DDA/pull/65493))
 * update and modernize lsurvivor_armor ([#65494](https://github.com/CleverRaven/Cataclysm-DDA/pull/65494))
@@ -93,4 +94,3 @@
 * [Magiclysm] Fix the diviner's swamp dragon quest ([#65455](https://github.com/CleverRaven/Cataclysm-DDA/pull/65455))
 * Add avatar swim tests ([#65457](https://github.com/CleverRaven/Cataclysm-DDA/pull/65457))
 * Re-enable device EOC menu text ([#65456](https://github.com/CleverRaven/Cataclysm-DDA/pull/65456))
-* Make watermelon seeds craftable ([#65452](https://github.com/CleverRaven/Cataclysm-DDA/pull/65452))
