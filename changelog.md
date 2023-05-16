@@ -1,3 +1,4 @@
+* Make long white gloves fancy ([#65673](https://github.com/CleverRaven/Cataclysm-DDA/pull/65673))
 * Fix #65314 ([#65669](https://github.com/CleverRaven/Cataclysm-DDA/pull/65669))
 * fix: house38 palette oddness ([#65662](https://github.com/CleverRaven/Cataclysm-DDA/pull/65662))
 * Changed Airsoft Gloves Warmth and Flags ([#65567](https://github.com/CleverRaven/Cataclysm-DDA/pull/65567))
@@ -89,7 +90,6 @@
 * barrel length for mods ([#65487](https://github.com/CleverRaven/Cataclysm-DDA/pull/65487))
 * Routine i18n updates on 06 May 2023 ([#65497](https://github.com/CleverRaven/Cataclysm-DDA/pull/65497))
 * Fix infinite recursion when trying to drain battery ([#65488](https://github.com/CleverRaven/Cataclysm-DDA/pull/65488))
-* Fix unvisited member reporting from global destructors in atexit. ([#65477](https://github.com/CleverRaven/Cataclysm-DDA/pull/65477))
 * Allow comestibles to inflict multiple addictions ([#65480](https://github.com/CleverRaven/Cataclysm-DDA/pull/65480))
 * vegetation tweaks ([#65478](https://github.com/CleverRaven/Cataclysm-DDA/pull/65478))
 * chelator removes crustacean instead of adding it ([#65479](https://github.com/CleverRaven/Cataclysm-DDA/pull/65479))

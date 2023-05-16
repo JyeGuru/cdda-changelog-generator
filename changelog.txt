@@ -1,3 +1,4 @@
+* Make long white gloves fancy (#65673)
 * Fix #65314 (#65669)
 * fix: house38 palette oddness (#65662)
 * Changed Airsoft Gloves Warmth and Flags (#65567)
@@ -89,7 +90,6 @@
 * barrel length for mods (#65487)
 * Routine i18n updates on 06 May 2023 (#65497)
 * Fix infinite recursion when trying to drain battery (#65488)
-* Fix unvisited member reporting from global destructors in atexit. (#65477)
 * Allow comestibles to inflict multiple addictions (#65480)
 * vegetation tweaks (#65478)
 * chelator removes crustacean instead of adding it (#65479)
