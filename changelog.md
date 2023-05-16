@@ -1,3 +1,5 @@
+* Fix #65314 ([#65669](https://github.com/CleverRaven/Cataclysm-DDA/pull/65669))
+* fix: house38 palette oddness ([#65662](https://github.com/CleverRaven/Cataclysm-DDA/pull/65662))
 * Changed Airsoft Gloves Warmth and Flags ([#65567](https://github.com/CleverRaven/Cataclysm-DDA/pull/65567))
 * fix: ammo_pouch & tactical_shotshell_pouch spawns ([#65661](https://github.com/CleverRaven/Cataclysm-DDA/pull/65661))
 * fix: blade trap recipe components ([#65658](https://github.com/CleverRaven/Cataclysm-DDA/pull/65658))
@@ -66,7 +68,6 @@
 * fix damage of sig 553 rifle ([#65563](https://github.com/CleverRaven/Cataclysm-DDA/pull/65563))
 * Fix compilation with LOCALIZE=OFF ([#65548](https://github.com/CleverRaven/Cataclysm-DDA/pull/65548))
 * Mutators for EOCs ([#65539](https://github.com/CleverRaven/Cataclysm-DDA/pull/65539))
-* A bunch of random item reworks: 1 ([#65474](https://github.com/CleverRaven/Cataclysm-DDA/pull/65474))
 * Routine tileset updates on 07 May 2023 ([#65534](https://github.com/CleverRaven/Cataclysm-DDA/pull/65534))
 * combat catchup ([#65537](https://github.com/CleverRaven/Cataclysm-DDA/pull/65537))
 * [Xedra Evolved] fix wrong boiler description ([#65521](https://github.com/CleverRaven/Cataclysm-DDA/pull/65521))
@@ -92,4 +93,3 @@
 * Allow comestibles to inflict multiple addictions ([#65480](https://github.com/CleverRaven/Cataclysm-DDA/pull/65480))
 * vegetation tweaks ([#65478](https://github.com/CleverRaven/Cataclysm-DDA/pull/65478))
 * chelator removes crustacean instead of adding it ([#65479](https://github.com/CleverRaven/Cataclysm-DDA/pull/65479))
-* Set preconditions for swim tests more aggressively ([#65475](https://github.com/CleverRaven/Cataclysm-DDA/pull/65475))
