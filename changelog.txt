@@ -1,3 +1,4 @@
+* Office worker profession (#65627)
 * Amoebic mold has 0 melee (#65665)
 * fix: reduce fireproof doorways (#65659)
 * Fix #63322 (#65671)
@@ -89,7 +90,6 @@
 * Pockets overflow into their parent pockets if possible (#65518)
 * Show playtime when choosing a character to load (#65517)
 * Update the table of contents in doc/JSON_INFO.md (#65511)
-* Create a context variable with tile location during weather checking.  To be used for portal storms centers (#65491)
 * Map update: dive shop (#65502)
 * Apply exodii faction ownership to the exodii's safehouse stores (#65503)
 * Routine i18n updates on 06 May 2023 (#65497)
