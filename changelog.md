@@ -90,7 +90,6 @@
 * Fix unvisited member reporting from global destructors in atexit. ([#65477](https://github.com/CleverRaven/Cataclysm-DDA/pull/65477))
 * Allow comestibles to inflict multiple addictions ([#65480](https://github.com/CleverRaven/Cataclysm-DDA/pull/65480))
 * vegetation tweaks ([#65478](https://github.com/CleverRaven/Cataclysm-DDA/pull/65478))
-* Fix crash when installing vehicle parts on empty square ([#65472](https://github.com/CleverRaven/Cataclysm-DDA/pull/65472))
 * Make copy-from copy terrain/furniture examine actions ([#65473](https://github.com/CleverRaven/Cataclysm-DDA/pull/65473))
 * chelator removes crustacean instead of adding it ([#65479](https://github.com/CleverRaven/Cataclysm-DDA/pull/65479))
 * Set preconditions for swim tests more aggressively ([#65475](https://github.com/CleverRaven/Cataclysm-DDA/pull/65475))
