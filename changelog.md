@@ -92,4 +92,3 @@
 * Update the table of contents in doc/JSON_INFO.md ([#65511](https://github.com/CleverRaven/Cataclysm-DDA/pull/65511))
 * Map update: dive shop ([#65502](https://github.com/CleverRaven/Cataclysm-DDA/pull/65502))
 * Apply exodii faction ownership to the exodii's safehouse stores ([#65503](https://github.com/CleverRaven/Cataclysm-DDA/pull/65503))
-* Routine i18n updates on 06 May 2023 ([#65497](https://github.com/CleverRaven/Cataclysm-DDA/pull/65497))
