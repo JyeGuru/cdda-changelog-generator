@@ -1,3 +1,4 @@
+* nonlethal tear gas ([#65625](https://github.com/CleverRaven/Cataclysm-DDA/pull/65625))
 * Added wooden frame packs. ([#65588](https://github.com/CleverRaven/Cataclysm-DDA/pull/65588))
 * Update the table of contents in doc/JSON_INFO.md ([#65654](https://github.com/CleverRaven/Cataclysm-DDA/pull/65654))
 * Running and smashing animations now respect animation settings ([#65676](https://github.com/CleverRaven/Cataclysm-DDA/pull/65676))
@@ -81,7 +82,6 @@
 * combat catchup ([#65537](https://github.com/CleverRaven/Cataclysm-DDA/pull/65537))
 * [Xedra Evolved] fix wrong boiler description ([#65521](https://github.com/CleverRaven/Cataclysm-DDA/pull/65521))
 * [CR] Modify do_turn to update NPC morale when player morale is updated ([#65504](https://github.com/CleverRaven/Cataclysm-DDA/pull/65504))
-* Quick typo fix for Xedra Evolved (mics to misc) ([#65501](https://github.com/CleverRaven/Cataclysm-DDA/pull/65501))
 * Add new holy symbol mission, minor technical improvements to other missions ([#65506](https://github.com/CleverRaven/Cataclysm-DDA/pull/65506))
 * Fix the issue of incorrect color when comparing the FOV attributes of two items ([#65527](https://github.com/CleverRaven/Cataclysm-DDA/pull/65527))
 * QoL changes in mechanic practice ([#65526](https://github.com/CleverRaven/Cataclysm-DDA/pull/65526))
