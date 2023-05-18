@@ -1,3 +1,4 @@
+* Nerf Beehives (#65690)
 * vehicle_part cleanup (#65675)
 * Make Quickload and Quit To Main Menu not show "will disable achievements" warning (#65686)
 * Clear eoc_events in game::setup (#65694)
@@ -89,4 +90,3 @@
 * Vehicle prototypes cleanup (#65512)
 * Pockets overflow into their parent pockets if possible (#65518)
 * Show playtime when choosing a character to load (#65517)
-* Update the table of contents in doc/JSON_INFO.md (#65511)
