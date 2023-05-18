@@ -1,3 +1,4 @@
+* vehicle_part cleanup (#65675)
 * Make Quickload and Quit To Main Menu not show "will disable achievements" warning (#65686)
 * Clear eoc_events in game::setup (#65694)
 * fix refugee_caravans conversations (#65698)
@@ -76,7 +77,6 @@
 * Irradiated Melon Deconstruct fix (#65569)
 * Smart watch (#65533)
 * Toggle language to English - Adds instructions for users (#65554)
-* Followup child cleanup PR (#65509)
 * fix damage of sig 553 rifle (#65563)
 * Fix compilation with LOCALIZE=OFF (#65548)
 * Mutators for EOCs (#65539)
