@@ -1,3 +1,4 @@
+* [BombasticPerks] Crafty hands and Chainsmoker traits ([#65703](https://github.com/CleverRaven/Cataclysm-DDA/pull/65703))
 * Tank top cleanup ([#65683](https://github.com/CleverRaven/Cataclysm-DDA/pull/65683))
 * Nerf Beehives ([#65690](https://github.com/CleverRaven/Cataclysm-DDA/pull/65690))
 * vehicle_part cleanup ([#65675](https://github.com/CleverRaven/Cataclysm-DDA/pull/65675))
@@ -89,4 +90,3 @@
 * QoL changes in mechanic practice ([#65526](https://github.com/CleverRaven/Cataclysm-DDA/pull/65526))
 * Make the description of the flag of the laser sight more accurate ([#65529](https://github.com/CleverRaven/Cataclysm-DDA/pull/65529))
 * Pockets overflow into their parent pockets if possible ([#65518](https://github.com/CleverRaven/Cataclysm-DDA/pull/65518))
-* Show playtime when choosing a character to load ([#65517](https://github.com/CleverRaven/Cataclysm-DDA/pull/65517))
