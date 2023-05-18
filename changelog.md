@@ -89,4 +89,3 @@
 * Fix the issue of incorrect color when comparing the FOV attributes of two items ([#65527](https://github.com/CleverRaven/Cataclysm-DDA/pull/65527))
 * QoL changes in mechanic practice ([#65526](https://github.com/CleverRaven/Cataclysm-DDA/pull/65526))
 * Make the description of the flag of the laser sight more accurate ([#65529](https://github.com/CleverRaven/Cataclysm-DDA/pull/65529))
-* Pockets overflow into their parent pockets if possible ([#65518](https://github.com/CleverRaven/Cataclysm-DDA/pull/65518))
