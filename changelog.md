@@ -1,3 +1,4 @@
+* Make Quickload and Quit To Main Menu not show "will disable achievements" warning ([#65686](https://github.com/CleverRaven/Cataclysm-DDA/pull/65686))
 * Clear eoc_events in game::setup ([#65694](https://github.com/CleverRaven/Cataclysm-DDA/pull/65694))
 * fix refugee_caravans conversations ([#65698](https://github.com/CleverRaven/Cataclysm-DDA/pull/65698))
 * Changes description of ceramic armor plate ([#65691](https://github.com/CleverRaven/Cataclysm-DDA/pull/65691))
@@ -64,7 +65,6 @@
 * [Innawoods] Overrides to remove a bunch of manmade items from innawoods ([#65591](https://github.com/CleverRaven/Cataclysm-DDA/pull/65591))
 * Remove hardcoded lighter from some starting NPC inventories ([#65592](https://github.com/CleverRaven/Cataclysm-DDA/pull/65592))
 * Typo hunting ([#65586](https://github.com/CleverRaven/Cataclysm-DDA/pull/65586))
-* [Magiclysm] Small tweaks for mage armor and mage blade ([#65508](https://github.com/CleverRaven/Cataclysm-DDA/pull/65508))
 * Weekly Changelog 2023-05-01 to 2023-05-08 ([#65538](https://github.com/CleverRaven/Cataclysm-DDA/pull/65538))
 * Allow natural bee hives to spawn ([#65547](https://github.com/CleverRaven/Cataclysm-DDA/pull/65547))
 * Small improvements to vehicle install part menu ([#65558](https://github.com/CleverRaven/Cataclysm-DDA/pull/65558))
