@@ -1,3 +1,4 @@
+* Tank top cleanup ([#65683](https://github.com/CleverRaven/Cataclysm-DDA/pull/65683))
 * Nerf Beehives ([#65690](https://github.com/CleverRaven/Cataclysm-DDA/pull/65690))
 * vehicle_part cleanup ([#65675](https://github.com/CleverRaven/Cataclysm-DDA/pull/65675))
 * Make Quickload and Quit To Main Menu not show "will disable achievements" warning ([#65686](https://github.com/CleverRaven/Cataclysm-DDA/pull/65686))
@@ -87,6 +88,5 @@
 * Fix the issue of incorrect color when comparing the FOV attributes of two items ([#65527](https://github.com/CleverRaven/Cataclysm-DDA/pull/65527))
 * QoL changes in mechanic practice ([#65526](https://github.com/CleverRaven/Cataclysm-DDA/pull/65526))
 * Make the description of the flag of the laser sight more accurate ([#65529](https://github.com/CleverRaven/Cataclysm-DDA/pull/65529))
-* Vehicle prototypes cleanup ([#65512](https://github.com/CleverRaven/Cataclysm-DDA/pull/65512))
 * Pockets overflow into their parent pockets if possible ([#65518](https://github.com/CleverRaven/Cataclysm-DDA/pull/65518))
 * Show playtime when choosing a character to load ([#65517](https://github.com/CleverRaven/Cataclysm-DDA/pull/65517))
