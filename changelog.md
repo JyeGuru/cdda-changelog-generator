@@ -1,3 +1,4 @@
+* Clear eoc_events in game::setup ([#65694](https://github.com/CleverRaven/Cataclysm-DDA/pull/65694))
 * fix refugee_caravans conversations ([#65698](https://github.com/CleverRaven/Cataclysm-DDA/pull/65698))
 * Changes description of ceramic armor plate ([#65691](https://github.com/CleverRaven/Cataclysm-DDA/pull/65691))
 * nonlethal tear gas ([#65625](https://github.com/CleverRaven/Cataclysm-DDA/pull/65625))
@@ -82,7 +83,6 @@
 * Routine tileset updates on 07 May 2023 ([#65534](https://github.com/CleverRaven/Cataclysm-DDA/pull/65534))
 * combat catchup ([#65537](https://github.com/CleverRaven/Cataclysm-DDA/pull/65537))
 * [Xedra Evolved] fix wrong boiler description ([#65521](https://github.com/CleverRaven/Cataclysm-DDA/pull/65521))
-* Add new holy symbol mission, minor technical improvements to other missions ([#65506](https://github.com/CleverRaven/Cataclysm-DDA/pull/65506))
 * Fix the issue of incorrect color when comparing the FOV attributes of two items ([#65527](https://github.com/CleverRaven/Cataclysm-DDA/pull/65527))
 * QoL changes in mechanic practice ([#65526](https://github.com/CleverRaven/Cataclysm-DDA/pull/65526))
 * Make the description of the flag of the laser sight more accurate ([#65529](https://github.com/CleverRaven/Cataclysm-DDA/pull/65529))
