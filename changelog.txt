@@ -1,3 +1,4 @@
+* fix refugee_caravans conversations (#65698)
 * Changes description of ceramic armor plate (#65691)
 * nonlethal tear gas (#65625)
 * Added wooden frame packs. (#65588)
@@ -62,7 +63,6 @@
 * [Innawoods] Overrides to remove a bunch of manmade items from innawoods (#65591)
 * Remove hardcoded lighter from some starting NPC inventories (#65592)
 * Typo hunting (#65586)
-* Initial Implementation Of Replacable Limbs (#65505)
 * [Magiclysm] Small tweaks for mage armor and mage blade (#65508)
 * Weekly Changelog 2023-05-01 to 2023-05-08 (#65538)
 * Allow natural bee hives to spawn (#65547)
