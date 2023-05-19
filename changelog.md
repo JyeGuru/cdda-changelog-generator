@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-05-08 to 2023-05-15 ([#65646](https://github.com/CleverRaven/Cataclysm-DDA/pull/65646))
 * Adjusted steel_lump deconstruct time. ([#65668](https://github.com/CleverRaven/Cataclysm-DDA/pull/65668))
 * Fix light industry gates ([#65712](https://github.com/CleverRaven/Cataclysm-DDA/pull/65712))
 * Update the table of contents in doc/JSON_INFO.md ([#65727](https://github.com/CleverRaven/Cataclysm-DDA/pull/65727))
@@ -77,7 +78,6 @@
 * [Innawoods] Overrides to remove a bunch of manmade items from innawoods ([#65591](https://github.com/CleverRaven/Cataclysm-DDA/pull/65591))
 * Remove hardcoded lighter from some starting NPC inventories ([#65592](https://github.com/CleverRaven/Cataclysm-DDA/pull/65592))
 * Typo hunting ([#65586](https://github.com/CleverRaven/Cataclysm-DDA/pull/65586))
-* Weekly Changelog 2023-05-01 to 2023-05-08 ([#65538](https://github.com/CleverRaven/Cataclysm-DDA/pull/65538))
 * Allow natural bee hives to spawn ([#65547](https://github.com/CleverRaven/Cataclysm-DDA/pull/65547))
 * Small improvements to vehicle install part menu ([#65558](https://github.com/CleverRaven/Cataclysm-DDA/pull/65558))
 * Open multiple containers in Advanced Inventory Manager ([#65560](https://github.com/CleverRaven/Cataclysm-DDA/pull/65560))
