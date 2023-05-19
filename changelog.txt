@@ -90,4 +90,3 @@
 * fix damage of sig 553 rifle (#65563)
 * Fix compilation with LOCALIZE=OFF (#65548)
 * Mutators for EOCs (#65539)
-* combat catchup (#65537)
