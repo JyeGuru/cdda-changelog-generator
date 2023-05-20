@@ -1,3 +1,5 @@
+* Allow to practice archery with takedown recurve bow ([#65760](https://github.com/CleverRaven/Cataclysm-DDA/pull/65760))
+* Canning acid uses components and not tools ([#65761](https://github.com/CleverRaven/Cataclysm-DDA/pull/65761))
 * Flags for Sunburns ([#65743](https://github.com/CleverRaven/Cataclysm-DDA/pull/65743))
 * Fix No_hope free_merchant itemgroup ([#65746](https://github.com/CleverRaven/Cataclysm-DDA/pull/65746))
 * Typo hunting ([#65740](https://github.com/CleverRaven/Cataclysm-DDA/pull/65740))
@@ -82,7 +84,6 @@
 * [Innawoods] Overrides to remove a bunch of manmade items from innawoods ([#65591](https://github.com/CleverRaven/Cataclysm-DDA/pull/65591))
 * Remove hardcoded lighter from some starting NPC inventories ([#65592](https://github.com/CleverRaven/Cataclysm-DDA/pull/65592))
 * Typo hunting ([#65586](https://github.com/CleverRaven/Cataclysm-DDA/pull/65586))
-* Allow natural bee hives to spawn ([#65547](https://github.com/CleverRaven/Cataclysm-DDA/pull/65547))
 * Small improvements to vehicle install part menu ([#65558](https://github.com/CleverRaven/Cataclysm-DDA/pull/65558))
 * Open multiple containers in Advanced Inventory Manager ([#65560](https://github.com/CleverRaven/Cataclysm-DDA/pull/65560))
 * Fix arming mitten coverage ([#65572](https://github.com/CleverRaven/Cataclysm-DDA/pull/65572))
@@ -91,4 +92,3 @@
 * Irradiated Melon Deconstruct fix ([#65569](https://github.com/CleverRaven/Cataclysm-DDA/pull/65569))
 * Toggle language to English - Adds instructions for users ([#65554](https://github.com/CleverRaven/Cataclysm-DDA/pull/65554))
 * fix damage of sig 553 rifle ([#65563](https://github.com/CleverRaven/Cataclysm-DDA/pull/65563))
-* Fix compilation with LOCALIZE=OFF ([#65548](https://github.com/CleverRaven/Cataclysm-DDA/pull/65548))
