@@ -1,3 +1,4 @@
+* Fix Large Talons integrated armor not appearing (#65754)
 * CTD caused by repair attempts with UPS-equipped tools fixed (#65708)
 * A bunch of random item reworks: 6 (#65757)
 * [Xedra Evolved] Balancing Vampirism (#65758)
@@ -56,7 +57,6 @@
 * Fix item damage's effect on gun/melee damage (#65642)
 * Updated STEN Mk II description (spelling) (#65649)
 * Reintroduce light snares (#65639)
-* Fix weight, size, and damage for tool axes (#65568)
 * Flagifying blood types (#65645)
 * Reusable Random Encounters (#65573)
 * Make portal storms mobile (#65606)
