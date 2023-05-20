@@ -1,3 +1,4 @@
+* clang-tidy cata-almost-never-auto ([#65755](https://github.com/CleverRaven/Cataclysm-DDA/pull/65755))
 * Fix Large Talons integrated armor not appearing ([#65754](https://github.com/CleverRaven/Cataclysm-DDA/pull/65754))
 * CTD caused by repair attempts with UPS-equipped tools fixed ([#65708](https://github.com/CleverRaven/Cataclysm-DDA/pull/65708))
 * A bunch of random item reworks: 6 ([#65757](https://github.com/CleverRaven/Cataclysm-DDA/pull/65757))
@@ -91,4 +92,3 @@
 * Remove hardcoded lighter from some starting NPC inventories ([#65592](https://github.com/CleverRaven/Cataclysm-DDA/pull/65592))
 * Typo hunting ([#65586](https://github.com/CleverRaven/Cataclysm-DDA/pull/65586))
 * Fix arming mitten coverage ([#65572](https://github.com/CleverRaven/Cataclysm-DDA/pull/65572))
-* Irradiated Melon Deconstruct fix ([#65569](https://github.com/CleverRaven/Cataclysm-DDA/pull/65569))
