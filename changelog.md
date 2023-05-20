@@ -1,3 +1,4 @@
+* Un-special case vpart_info's standard_symbols ([#65721](https://github.com/CleverRaven/Cataclysm-DDA/pull/65721))
 * Add exertion and modify trip length calculation for faction camps ([#65705](https://github.com/CleverRaven/Cataclysm-DDA/pull/65705))
 * Lizards shouldn't be Light Sensitive ([#65753](https://github.com/CleverRaven/Cataclysm-DDA/pull/65753))
 * Allow to practice archery with takedown recurve bow ([#65760](https://github.com/CleverRaven/Cataclysm-DDA/pull/65760))
@@ -88,7 +89,6 @@
 * Small improvements to vehicle install part menu ([#65558](https://github.com/CleverRaven/Cataclysm-DDA/pull/65558))
 * Open multiple containers in Advanced Inventory Manager ([#65560](https://github.com/CleverRaven/Cataclysm-DDA/pull/65560))
 * Fix arming mitten coverage ([#65572](https://github.com/CleverRaven/Cataclysm-DDA/pull/65572))
-* Store Conditionals ([#65556](https://github.com/CleverRaven/Cataclysm-DDA/pull/65556))
 * [Xedra Evolved] Sane inventor's researches ([#65557](https://github.com/CleverRaven/Cataclysm-DDA/pull/65557))
 * Irradiated Melon Deconstruct fix ([#65569](https://github.com/CleverRaven/Cataclysm-DDA/pull/65569))
 * fix damage of sig 553 rifle ([#65563](https://github.com/CleverRaven/Cataclysm-DDA/pull/65563))
