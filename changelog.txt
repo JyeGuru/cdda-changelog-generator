@@ -1,3 +1,4 @@
+* Lizards shouldn't be Light Sensitive (#65753)
 * Allow to practice archery with takedown recurve bow (#65760)
 * Canning acid uses components and not tools (#65761)
 * Flags for Sunburns (#65743)
@@ -9,7 +10,6 @@
 * Adjusted steel_lump deconstruct time. (#65668)
 * Fix light industry gates (#65712)
 * Update the table of contents in doc/JSON_INFO.md (#65727)
-* Electrolyzing lye for sodium metal (#65550)
 * Update weights and volumes for extension cords and blade traps (#65697)
 * make dimensional anchor accept any medium battery (#65701)
 * Change difficulty and colors of hard aircraft ferals (#65725)
