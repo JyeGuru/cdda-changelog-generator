@@ -61,7 +61,6 @@
 * Updated STEN Mk II description (spelling) ([#65649](https://github.com/CleverRaven/Cataclysm-DDA/pull/65649))
 * Reintroduce light snares ([#65639](https://github.com/CleverRaven/Cataclysm-DDA/pull/65639))
 * Flagifying blood types ([#65645](https://github.com/CleverRaven/Cataclysm-DDA/pull/65645))
-* Reusable Random Encounters ([#65573](https://github.com/CleverRaven/Cataclysm-DDA/pull/65573))
 * Make portal storms mobile ([#65606](https://github.com/CleverRaven/Cataclysm-DDA/pull/65606))
 * Use tool quality for maple tapping ([#65641](https://github.com/CleverRaven/Cataclysm-DDA/pull/65641))
 * Typo hunting 2 ([#65638](https://github.com/CleverRaven/Cataclysm-DDA/pull/65638))

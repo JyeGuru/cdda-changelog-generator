@@ -61,7 +61,6 @@
 * Updated STEN Mk II description (spelling) (#65649)
 * Reintroduce light snares (#65639)
 * Flagifying blood types (#65645)
-* Reusable Random Encounters (#65573)
 * Make portal storms mobile (#65606)
 * Use tool quality for maple tapping (#65641)
 * Typo hunting 2 (#65638)
