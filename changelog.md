@@ -1,3 +1,4 @@
+* Routine tileset updates on 21 May 2023 ([#65790](https://github.com/CleverRaven/Cataclysm-DDA/pull/65790))
 * [ XE ] Renfield drops and hunting lodge spawn ([#65779](https://github.com/CleverRaven/Cataclysm-DDA/pull/65779))
 * making a sourdough starter should be a bit easier ([#65724](https://github.com/CleverRaven/Cataclysm-DDA/pull/65724))
 * encumbrance of work and cutres gloves ([#65695](https://github.com/CleverRaven/Cataclysm-DDA/pull/65695))
@@ -85,7 +86,6 @@
 * Bionic two way radio ([#65603](https://github.com/CleverRaven/Cataclysm-DDA/pull/65603))
 * Axe ring empty encumberance to 0 ([#65601](https://github.com/CleverRaven/Cataclysm-DDA/pull/65601))
 * Add a new menu item to NPC quick chat to allow for quick assignment of tasks ([#65609](https://github.com/CleverRaven/Cataclysm-DDA/pull/65609))
-* recipe_food.json water_boiling_heat audit ([#65581](https://github.com/CleverRaven/Cataclysm-DDA/pull/65581))
 * Extract recipe hints for inline result_eocs ([#65582](https://github.com/CleverRaven/Cataclysm-DDA/pull/65582))
 * Fix crash on installing CBMs ([#65587](https://github.com/CleverRaven/Cataclysm-DDA/pull/65587))
 * [Innawoods] Overrides to remove a bunch of manmade items from innawoods ([#65591](https://github.com/CleverRaven/Cataclysm-DDA/pull/65591))
