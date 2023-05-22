@@ -1,3 +1,4 @@
+* Make big collapsible drum deployable ([#65803](https://github.com/CleverRaven/Cataclysm-DDA/pull/65803))
 * Fix android startup crash ([#65801](https://github.com/CleverRaven/Cataclysm-DDA/pull/65801))
 * fix exploits regarding the hm12 ([#65681](https://github.com/CleverRaven/Cataclysm-DDA/pull/65681))
 * Misc fixes for tests noise, log noise and missed vpart changes ([#65765](https://github.com/CleverRaven/Cataclysm-DDA/pull/65765))
@@ -90,4 +91,3 @@
 * Fix for groundcover changes that broke Innawood and Magiclysm ([#65618](https://github.com/CleverRaven/Cataclysm-DDA/pull/65618))
 * Various small fixes ([#65623](https://github.com/CleverRaven/Cataclysm-DDA/pull/65623))
 * Check for un/folding tools via crafting inventory ([#65624](https://github.com/CleverRaven/Cataclysm-DDA/pull/65624))
-* Add a new menu item to NPC quick chat to allow for quick assignment of tasks ([#65609](https://github.com/CleverRaven/Cataclysm-DDA/pull/65609))
