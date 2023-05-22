@@ -1,3 +1,4 @@
+* fix exploits regarding the hm12 ([#65681](https://github.com/CleverRaven/Cataclysm-DDA/pull/65681))
 * Misc fixes for tests noise, log noise and missed vpart changes ([#65765](https://github.com/CleverRaven/Cataclysm-DDA/pull/65765))
 * make Stimulant Psychosis a medical mutation ([#65772](https://github.com/CleverRaven/Cataclysm-DDA/pull/65772))
 * Enable clang-tidy cert-dcl58-cpp ([#65784](https://github.com/CleverRaven/Cataclysm-DDA/pull/65784))
@@ -83,7 +84,6 @@
 * Routine i18n updates on 13 May 2023 ([#65610](https://github.com/CleverRaven/Cataclysm-DDA/pull/65610))
 * fix: isherwoods all share the same outfit ([#65626](https://github.com/CleverRaven/Cataclysm-DDA/pull/65626))
 * Abort eat menu activity and cancel activity when NPC somehow has this activity ([#65608](https://github.com/CleverRaven/Cataclysm-DDA/pull/65608))
-* Slight fixes to turret test ([#65607](https://github.com/CleverRaven/Cataclysm-DDA/pull/65607))
 * Post Thresh traits shouldn't be starting traits ([#65611](https://github.com/CleverRaven/Cataclysm-DDA/pull/65611))
 * Fix VS compiler error ([#65615](https://github.com/CleverRaven/Cataclysm-DDA/pull/65615))
 * Remove Templating on GetGetString ([#65617](https://github.com/CleverRaven/Cataclysm-DDA/pull/65617))
