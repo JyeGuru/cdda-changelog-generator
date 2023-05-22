@@ -1,3 +1,4 @@
+* Misc fixes for tests noise, log noise and missed vpart changes ([#65765](https://github.com/CleverRaven/Cataclysm-DDA/pull/65765))
 * make Stimulant Psychosis a medical mutation ([#65772](https://github.com/CleverRaven/Cataclysm-DDA/pull/65772))
 * Enable clang-tidy cert-dcl58-cpp ([#65784](https://github.com/CleverRaven/Cataclysm-DDA/pull/65784))
 * Split caffeine dependence into two hobbies ([#65684](https://github.com/CleverRaven/Cataclysm-DDA/pull/65684))
@@ -73,7 +74,6 @@
 * Updated STEN Mk II description (spelling) ([#65649](https://github.com/CleverRaven/Cataclysm-DDA/pull/65649))
 * Reintroduce light snares ([#65639](https://github.com/CleverRaven/Cataclysm-DDA/pull/65639))
 * Flagifying blood types ([#65645](https://github.com/CleverRaven/Cataclysm-DDA/pull/65645))
-* Make portal storms mobile ([#65606](https://github.com/CleverRaven/Cataclysm-DDA/pull/65606))
 * Use tool quality for maple tapping ([#65641](https://github.com/CleverRaven/Cataclysm-DDA/pull/65641))
 * Typo hunting 2 ([#65638](https://github.com/CleverRaven/Cataclysm-DDA/pull/65638))
 * [Innawood] Better readability for ASCII graphics ([#65633](https://github.com/CleverRaven/Cataclysm-DDA/pull/65633))
