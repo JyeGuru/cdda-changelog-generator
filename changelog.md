@@ -1,3 +1,4 @@
+* [Xedra Evolved] Random fixes and changes ([#65737](https://github.com/CleverRaven/Cataclysm-DDA/pull/65737))
 * Make big collapsible drum deployable ([#65803](https://github.com/CleverRaven/Cataclysm-DDA/pull/65803))
 * Fix android startup crash ([#65801](https://github.com/CleverRaven/Cataclysm-DDA/pull/65801))
 * fix exploits regarding the hm12 ([#65681](https://github.com/CleverRaven/Cataclysm-DDA/pull/65681))
@@ -83,7 +84,6 @@
 * Burdock stalks ([#65628](https://github.com/CleverRaven/Cataclysm-DDA/pull/65628))
 * Routine tileset updates on 14 May 2023 ([#65644](https://github.com/CleverRaven/Cataclysm-DDA/pull/65644))
 * cloaks are belted layer ([#65629](https://github.com/CleverRaven/Cataclysm-DDA/pull/65629))
-* Routine i18n updates on 13 May 2023 ([#65610](https://github.com/CleverRaven/Cataclysm-DDA/pull/65610))
 * fix: isherwoods all share the same outfit ([#65626](https://github.com/CleverRaven/Cataclysm-DDA/pull/65626))
 * Post Thresh traits shouldn't be starting traits ([#65611](https://github.com/CleverRaven/Cataclysm-DDA/pull/65611))
 * Fix VS compiler error ([#65615](https://github.com/CleverRaven/Cataclysm-DDA/pull/65615))
