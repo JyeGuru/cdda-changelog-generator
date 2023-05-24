@@ -1,3 +1,4 @@
+* Allow C++ standard includes in clang-tidy tests (#65806)
 * Misc fix to some random items (#65816)
 * Remove some No Hope duplicate maps (#65807)
 * Fix divide by zero in driving offset (#65809)
@@ -64,7 +65,6 @@
 * Clear eoc_events in game::setup (#65694)
 * fix refugee_caravans conversations (#65698)
 * Changes description of ceramic armor plate (#65691)
-* nonlethal tear gas (#65625)
 * Update the table of contents in doc/JSON_INFO.md (#65654)
 * Running and smashing animations now respect animation settings (#65676)
 * Office worker profession (#65627)
