@@ -1,3 +1,4 @@
+* Enable clang-tidy check cert-err33-c ([#65814](https://github.com/CleverRaven/Cataclysm-DDA/pull/65814))
 * Allow C++ standard includes in clang-tidy tests ([#65806](https://github.com/CleverRaven/Cataclysm-DDA/pull/65806))
 * Misc fix to some random items ([#65816](https://github.com/CleverRaven/Cataclysm-DDA/pull/65816))
 * Remove some No Hope duplicate maps ([#65807](https://github.com/CleverRaven/Cataclysm-DDA/pull/65807))
@@ -92,4 +93,3 @@
 * Burdock stalks ([#65628](https://github.com/CleverRaven/Cataclysm-DDA/pull/65628))
 * Routine tileset updates on 14 May 2023 ([#65644](https://github.com/CleverRaven/Cataclysm-DDA/pull/65644))
 * cloaks are belted layer ([#65629](https://github.com/CleverRaven/Cataclysm-DDA/pull/65629))
-* fix: isherwoods all share the same outfit ([#65626](https://github.com/CleverRaven/Cataclysm-DDA/pull/65626))
