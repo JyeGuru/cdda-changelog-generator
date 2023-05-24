@@ -92,4 +92,3 @@
 * Typo hunting 2 (#65638)
 * [Innawood] Better readability for ASCII graphics (#65633)
 * Routine tileset updates on 14 May 2023 (#65644)
-* cloaks are belted layer (#65629)

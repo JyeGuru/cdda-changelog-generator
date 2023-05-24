@@ -92,4 +92,3 @@
 * Typo hunting 2 ([#65638](https://github.com/CleverRaven/Cataclysm-DDA/pull/65638))
 * [Innawood] Better readability for ASCII graphics ([#65633](https://github.com/CleverRaven/Cataclysm-DDA/pull/65633))
 * Routine tileset updates on 14 May 2023 ([#65644](https://github.com/CleverRaven/Cataclysm-DDA/pull/65644))
-* cloaks are belted layer ([#65629](https://github.com/CleverRaven/Cataclysm-DDA/pull/65629))
