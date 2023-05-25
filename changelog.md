@@ -1,3 +1,4 @@
+* lower fur bodyarmor encumbrance a bit ([#65818](https://github.com/CleverRaven/Cataclysm-DDA/pull/65818))
 * Vehicle part variants tidy ([#65823](https://github.com/CleverRaven/Cataclysm-DDA/pull/65823))
 * fix: wizard's apprentice achievement ([#65789](https://github.com/CleverRaven/Cataclysm-DDA/pull/65789))
 * Enable clang-tidy check cert-err33-c ([#65814](https://github.com/CleverRaven/Cataclysm-DDA/pull/65814))
@@ -90,5 +91,4 @@
 * Flagifying blood types ([#65645](https://github.com/CleverRaven/Cataclysm-DDA/pull/65645))
 * Use tool quality for maple tapping ([#65641](https://github.com/CleverRaven/Cataclysm-DDA/pull/65641))
 * Typo hunting 2 ([#65638](https://github.com/CleverRaven/Cataclysm-DDA/pull/65638))
-* [Innawood] Better readability for ASCII graphics ([#65633](https://github.com/CleverRaven/Cataclysm-DDA/pull/65633))
 * Routine tileset updates on 14 May 2023 ([#65644](https://github.com/CleverRaven/Cataclysm-DDA/pull/65644))
