@@ -90,5 +90,4 @@
 * Reintroduce light snares ([#65639](https://github.com/CleverRaven/Cataclysm-DDA/pull/65639))
 * Flagifying blood types ([#65645](https://github.com/CleverRaven/Cataclysm-DDA/pull/65645))
 * Use tool quality for maple tapping ([#65641](https://github.com/CleverRaven/Cataclysm-DDA/pull/65641))
-* Typo hunting 2 ([#65638](https://github.com/CleverRaven/Cataclysm-DDA/pull/65638))
 * Routine tileset updates on 14 May 2023 ([#65644](https://github.com/CleverRaven/Cataclysm-DDA/pull/65644))
