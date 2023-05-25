@@ -87,7 +87,6 @@
 * Missing ids from generate_overlay_ids.py ([#65653](https://github.com/CleverRaven/Cataclysm-DDA/pull/65653))
 * Fix item damage's effect on gun/melee damage ([#65642](https://github.com/CleverRaven/Cataclysm-DDA/pull/65642))
 * Updated STEN Mk II description (spelling) ([#65649](https://github.com/CleverRaven/Cataclysm-DDA/pull/65649))
-* Reintroduce light snares ([#65639](https://github.com/CleverRaven/Cataclysm-DDA/pull/65639))
 * Flagifying blood types ([#65645](https://github.com/CleverRaven/Cataclysm-DDA/pull/65645))
 * Use tool quality for maple tapping ([#65641](https://github.com/CleverRaven/Cataclysm-DDA/pull/65641))
 * Routine tileset updates on 14 May 2023 ([#65644](https://github.com/CleverRaven/Cataclysm-DDA/pull/65644))
