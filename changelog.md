@@ -1,3 +1,4 @@
+* Gunsmith ammo convert json EOCify and cleanup ([#65775](https://github.com/CleverRaven/Cataclysm-DDA/pull/65775))
 * lower fur bodyarmor encumbrance a bit ([#65818](https://github.com/CleverRaven/Cataclysm-DDA/pull/65818))
 * Vehicle part variants tidy ([#65823](https://github.com/CleverRaven/Cataclysm-DDA/pull/65823))
 * fix: wizard's apprentice achievement ([#65789](https://github.com/CleverRaven/Cataclysm-DDA/pull/65789))
@@ -88,5 +89,4 @@
 * Fix item damage's effect on gun/melee damage ([#65642](https://github.com/CleverRaven/Cataclysm-DDA/pull/65642))
 * Updated STEN Mk II description (spelling) ([#65649](https://github.com/CleverRaven/Cataclysm-DDA/pull/65649))
 * Flagifying blood types ([#65645](https://github.com/CleverRaven/Cataclysm-DDA/pull/65645))
-* Use tool quality for maple tapping ([#65641](https://github.com/CleverRaven/Cataclysm-DDA/pull/65641))
 * Routine tileset updates on 14 May 2023 ([#65644](https://github.com/CleverRaven/Cataclysm-DDA/pull/65644))
