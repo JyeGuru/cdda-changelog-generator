@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-05-15 to 2023-05-22 ([#65791](https://github.com/CleverRaven/Cataclysm-DDA/pull/65791))
 * Gunsmith ammo convert json EOCify and cleanup ([#65775](https://github.com/CleverRaven/Cataclysm-DDA/pull/65775))
 * lower fur bodyarmor encumbrance a bit ([#65818](https://github.com/CleverRaven/Cataclysm-DDA/pull/65818))
 * Vehicle part variants tidy ([#65823](https://github.com/CleverRaven/Cataclysm-DDA/pull/65823))
@@ -86,7 +87,6 @@
 * fix: tactical helmets flashlight pockets ([#65657](https://github.com/CleverRaven/Cataclysm-DDA/pull/65657))
 * fix: fences over cabinets in the house of Jesus ([#65656](https://github.com/CleverRaven/Cataclysm-DDA/pull/65656))
 * Missing ids from generate_overlay_ids.py ([#65653](https://github.com/CleverRaven/Cataclysm-DDA/pull/65653))
-* Fix item damage's effect on gun/melee damage ([#65642](https://github.com/CleverRaven/Cataclysm-DDA/pull/65642))
 * Updated STEN Mk II description (spelling) ([#65649](https://github.com/CleverRaven/Cataclysm-DDA/pull/65649))
 * Flagifying blood types ([#65645](https://github.com/CleverRaven/Cataclysm-DDA/pull/65645))
 * Routine tileset updates on 14 May 2023 ([#65644](https://github.com/CleverRaven/Cataclysm-DDA/pull/65644))
