@@ -54,7 +54,6 @@
 * Typo hunting ([#65740](https://github.com/CleverRaven/Cataclysm-DDA/pull/65740))
 * Only reject air for pathfinding bounds, not pathable tiles without floors ([#65720](https://github.com/CleverRaven/Cataclysm-DDA/pull/65720))
 * Routine i18n updates on 20 May 2023 ([#65744](https://github.com/CleverRaven/Cataclysm-DDA/pull/65744))
-* Weekly Changelog 2023-05-08 to 2023-05-15 ([#65646](https://github.com/CleverRaven/Cataclysm-DDA/pull/65646))
 * Adjusted steel_lump deconstruct time. ([#65668](https://github.com/CleverRaven/Cataclysm-DDA/pull/65668))
 * Fix light industry gates ([#65712](https://github.com/CleverRaven/Cataclysm-DDA/pull/65712))
 * Update the table of contents in doc/JSON_INFO.md ([#65727](https://github.com/CleverRaven/Cataclysm-DDA/pull/65727))
