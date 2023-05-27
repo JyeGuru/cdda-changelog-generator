@@ -1,3 +1,4 @@
+* Encumbrances Fixes + Tests ([#65862](https://github.com/CleverRaven/Cataclysm-DDA/pull/65862))
 * eoc/mission: pass EOC dialogue to mission utils ([#65860](https://github.com/CleverRaven/Cataclysm-DDA/pull/65860))
 * Add a constructable brick oven ([#65660](https://github.com/CleverRaven/Cataclysm-DDA/pull/65660))
 * Weekly Changelog 2023-05-15 to 2023-05-22 ([#65791](https://github.com/CleverRaven/Cataclysm-DDA/pull/65791))
@@ -87,4 +88,3 @@
 * fix: blade trap recipe components ([#65658](https://github.com/CleverRaven/Cataclysm-DDA/pull/65658))
 * fix: tactical helmets flashlight pockets ([#65657](https://github.com/CleverRaven/Cataclysm-DDA/pull/65657))
 * fix: fences over cabinets in the house of Jesus ([#65656](https://github.com/CleverRaven/Cataclysm-DDA/pull/65656))
-* Missing ids from generate_overlay_ids.py ([#65653](https://github.com/CleverRaven/Cataclysm-DDA/pull/65653))
