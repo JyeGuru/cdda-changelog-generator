@@ -88,4 +88,3 @@
 * fix: tactical helmets flashlight pockets ([#65657](https://github.com/CleverRaven/Cataclysm-DDA/pull/65657))
 * fix: fences over cabinets in the house of Jesus ([#65656](https://github.com/CleverRaven/Cataclysm-DDA/pull/65656))
 * Missing ids from generate_overlay_ids.py ([#65653](https://github.com/CleverRaven/Cataclysm-DDA/pull/65653))
-* Updated STEN Mk II description (spelling) ([#65649](https://github.com/CleverRaven/Cataclysm-DDA/pull/65649))
