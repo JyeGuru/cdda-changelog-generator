@@ -1,3 +1,4 @@
+* Update the table of contents in doc/JSON_INFO.md ([#65832](https://github.com/CleverRaven/Cataclysm-DDA/pull/65832))
 * Routine i18n updates on 27 May 2023 ([#65869](https://github.com/CleverRaven/Cataclysm-DDA/pull/65869))
 * Disarming telepad is trivial when anchored ([#65685](https://github.com/CleverRaven/Cataclysm-DDA/pull/65685))
 * Mutagenic Slurry decays into appropriate types ([#65771](https://github.com/CleverRaven/Cataclysm-DDA/pull/65771))
@@ -81,7 +82,6 @@
 * fix refugee_caravans conversations ([#65698](https://github.com/CleverRaven/Cataclysm-DDA/pull/65698))
 * Changes description of ceramic armor plate ([#65691](https://github.com/CleverRaven/Cataclysm-DDA/pull/65691))
 * Running and smashing animations now respect animation settings ([#65676](https://github.com/CleverRaven/Cataclysm-DDA/pull/65676))
-* Amoebic mold has 0 melee ([#65665](https://github.com/CleverRaven/Cataclysm-DDA/pull/65665))
 * Fix #63322 ([#65671](https://github.com/CleverRaven/Cataclysm-DDA/pull/65671))
 * Correct weight of shark plushie ([#65678](https://github.com/CleverRaven/Cataclysm-DDA/pull/65678))
 * MF_IMMOBILE disallows infinite throw training ([#65680](https://github.com/CleverRaven/Cataclysm-DDA/pull/65680))
