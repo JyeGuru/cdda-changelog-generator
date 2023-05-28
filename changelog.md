@@ -1,3 +1,4 @@
+* Forest floor should look like moss and not tall grass ([#65874](https://github.com/CleverRaven/Cataclysm-DDA/pull/65874))
 * Update the table of contents in doc/JSON_INFO.md ([#65832](https://github.com/CleverRaven/Cataclysm-DDA/pull/65832))
 * Routine i18n updates on 27 May 2023 ([#65869](https://github.com/CleverRaven/Cataclysm-DDA/pull/65869))
 * Disarming telepad is trivial when anchored ([#65685](https://github.com/CleverRaven/Cataclysm-DDA/pull/65685))
