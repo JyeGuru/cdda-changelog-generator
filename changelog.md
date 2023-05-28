@@ -88,4 +88,3 @@
 * MF_IMMOBILE disallows infinite throw training ([#65680](https://github.com/CleverRaven/Cataclysm-DDA/pull/65680))
 * give nailgun WONT_TRAIN_MARKSMANSHIP ([#65682](https://github.com/CleverRaven/Cataclysm-DDA/pull/65682))
 * Make long white gloves fancy ([#65673](https://github.com/CleverRaven/Cataclysm-DDA/pull/65673))
-* Fix #65314 ([#65669](https://github.com/CleverRaven/Cataclysm-DDA/pull/65669))
