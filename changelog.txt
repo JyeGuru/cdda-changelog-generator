@@ -83,7 +83,6 @@
 * fix refugee_caravans conversations (#65698)
 * Changes description of ceramic armor plate (#65691)
 * Running and smashing animations now respect animation settings (#65676)
-* Fix #63322 (#65671)
 * Correct weight of shark plushie (#65678)
 * MF_IMMOBILE disallows infinite throw training (#65680)
 * give nailgun WONT_TRAIN_MARKSMANSHIP (#65682)
