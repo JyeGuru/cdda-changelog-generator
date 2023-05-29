@@ -1,3 +1,4 @@
+* 'make clean-pch' should also clean pch files in tests (#65893)
 * Add SurFlurer to comment-commands.yml (#65886)
 * Added crude heating element alternatives with a 50% extra cost over normal elements (#65884)
 * fix: don't spawn zombies as mechanic mail carriers (#65878)
@@ -78,7 +79,6 @@
 * Routine i18n updates on 20 May 2023 (#65744)
 * Fix light industry gates (#65712)
 * Update the table of contents in doc/JSON_INFO.md (#65727)
-* Update weights and volumes for extension cords and blade traps (#65697)
 * make dimensional anchor accept any medium battery (#65701)
 * Change difficulty and colors of hard aircraft ferals (#65725)
 * [Interface] Fix to unify tilesets behavior (part 1) (#65722)
