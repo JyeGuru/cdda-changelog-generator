@@ -1,3 +1,4 @@
+* Enable the clang-tidy check performance-inefficient-vector-operation ([#65892](https://github.com/CleverRaven/Cataclysm-DDA/pull/65892))
 * #65794 Remove mx_supplydrop ([#65894](https://github.com/CleverRaven/Cataclysm-DDA/pull/65894))
 * Allow 'm' to close the overmap ([#65896](https://github.com/CleverRaven/Cataclysm-DDA/pull/65896))
 * Make car batteries valid cable system connections ([#65899](https://github.com/CleverRaven/Cataclysm-DDA/pull/65899))
@@ -82,7 +83,6 @@
 * Snippet Display No Crash ([#65718](https://github.com/CleverRaven/Cataclysm-DDA/pull/65718))
 * [BombasticPerks] Crafty hands and Chainsmoker traits ([#65703](https://github.com/CleverRaven/Cataclysm-DDA/pull/65703))
 * Nerf Beehives ([#65690](https://github.com/CleverRaven/Cataclysm-DDA/pull/65690))
-* Make Quickload and Quit To Main Menu not show "will disable achievements" warning ([#65686](https://github.com/CleverRaven/Cataclysm-DDA/pull/65686))
 * Clear eoc_events in game::setup ([#65694](https://github.com/CleverRaven/Cataclysm-DDA/pull/65694))
 * fix refugee_caravans conversations ([#65698](https://github.com/CleverRaven/Cataclysm-DDA/pull/65698))
 * Changes description of ceramic armor plate ([#65691](https://github.com/CleverRaven/Cataclysm-DDA/pull/65691))
