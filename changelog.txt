@@ -1,3 +1,5 @@
+* Not attach the bag if too heavy (#65901)
+* Readd JUMPSTART to jumper cable (#65912)
 * Fix graffiti string truncation caused CTD (#65916)
 * Fix portal dungeon issue. (#65920)
 * Fix national flags (#65877)
@@ -35,7 +37,6 @@
 * [Xedra Evolved] Random fixes and changes (#65737)
 * Make big collapsible drum deployable (#65803)
 * Fix android startup crash (#65801)
-* fix exploits regarding the hm12 (#65681)
 * Misc fixes for tests noise, log noise and missed vpart changes (#65765)
 * make Stimulant Psychosis a medical mutation (#65772)
 * Enable clang-tidy cert-dcl58-cpp (#65784)
@@ -85,4 +86,3 @@
 * Clear eoc_events in game::setup (#65694)
 * fix refugee_caravans conversations (#65698)
 * Changes description of ceramic armor plate (#65691)
-* give nailgun WONT_TRAIN_MARKSMANSHIP (#65682)
