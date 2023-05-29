@@ -1,3 +1,4 @@
+* Routine tileset updates on 28 May 2023 ([#65906](https://github.com/CleverRaven/Cataclysm-DDA/pull/65906))
 * Refugee Center dialogue fix - Rhyzaea Johnny - Slovakia/Slovenia ([#65873](https://github.com/CleverRaven/Cataclysm-DDA/pull/65873))
 * Forest floor should look like moss and not tall grass ([#65874](https://github.com/CleverRaven/Cataclysm-DDA/pull/65874))
 * Update the table of contents in doc/JSON_INFO.md ([#65832](https://github.com/CleverRaven/Cataclysm-DDA/pull/65832))
@@ -77,7 +78,6 @@
 * [BombasticPerks] Crafty hands and Chainsmoker traits ([#65703](https://github.com/CleverRaven/Cataclysm-DDA/pull/65703))
 * Tank top cleanup ([#65683](https://github.com/CleverRaven/Cataclysm-DDA/pull/65683))
 * Nerf Beehives ([#65690](https://github.com/CleverRaven/Cataclysm-DDA/pull/65690))
-* vehicle_part cleanup ([#65675](https://github.com/CleverRaven/Cataclysm-DDA/pull/65675))
 * Make Quickload and Quit To Main Menu not show "will disable achievements" warning ([#65686](https://github.com/CleverRaven/Cataclysm-DDA/pull/65686))
 * Clear eoc_events in game::setup ([#65694](https://github.com/CleverRaven/Cataclysm-DDA/pull/65694))
 * fix refugee_caravans conversations ([#65698](https://github.com/CleverRaven/Cataclysm-DDA/pull/65698))
