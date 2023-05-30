@@ -1,3 +1,4 @@
+* Using default mags to calculate max capacity for guns with random ammo ([#65852](https://github.com/CleverRaven/Cataclysm-DDA/pull/65852))
 * removing leftovers of bionics from doctor's office ([#65885](https://github.com/CleverRaven/Cataclysm-DDA/pull/65885))
 * Isolated artisan turrets don't shoot at vehicles ([#65882](https://github.com/CleverRaven/Cataclysm-DDA/pull/65882))
 * fix missing include in crash.cpp ([#65872](https://github.com/CleverRaven/Cataclysm-DDA/pull/65872))
@@ -71,7 +72,6 @@
 * A bunch of random item reworks: 5 ([#65752](https://github.com/CleverRaven/Cataclysm-DDA/pull/65752))
 * A bunch of random item reworks: 4 ([#65715](https://github.com/CleverRaven/Cataclysm-DDA/pull/65715))
 * Un-special case vpart_info's standard_symbols ([#65721](https://github.com/CleverRaven/Cataclysm-DDA/pull/65721))
-* Add exertion and modify trip length calculation for faction camps ([#65705](https://github.com/CleverRaven/Cataclysm-DDA/pull/65705))
 * Lizards shouldn't be Light Sensitive ([#65753](https://github.com/CleverRaven/Cataclysm-DDA/pull/65753))
 * Allow to practice archery with takedown recurve bow ([#65760](https://github.com/CleverRaven/Cataclysm-DDA/pull/65760))
 * Canning acid uses components and not tools ([#65761](https://github.com/CleverRaven/Cataclysm-DDA/pull/65761))
