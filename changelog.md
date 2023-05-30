@@ -84,4 +84,3 @@
 * Fix No_hope free_merchant itemgroup ([#65746](https://github.com/CleverRaven/Cataclysm-DDA/pull/65746))
 * Typo hunting ([#65740](https://github.com/CleverRaven/Cataclysm-DDA/pull/65740))
 * Routine i18n updates on 20 May 2023 ([#65744](https://github.com/CleverRaven/Cataclysm-DDA/pull/65744))
-* Update the table of contents in doc/JSON_INFO.md ([#65727](https://github.com/CleverRaven/Cataclysm-DDA/pull/65727))
