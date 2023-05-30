@@ -1,3 +1,5 @@
+* removed obsolete chainmail entries from Blacksmith's inventory ([#65887](https://github.com/CleverRaven/Cataclysm-DDA/pull/65887))
+* Clarify low calorie messages ([#65913](https://github.com/CleverRaven/Cataclysm-DDA/pull/65913))
 * Motorcycle helmet fix ([#65923](https://github.com/CleverRaven/Cataclysm-DDA/pull/65923))
 * Revert "makeshift electrolyzer shouldn't contain lye (#65820)" ([#65910](https://github.com/CleverRaven/Cataclysm-DDA/pull/65910))
 * Moving enchantments from Magiclysm classes to separated JSON and repl… ([#65876](https://github.com/CleverRaven/Cataclysm-DDA/pull/65876))
@@ -83,5 +85,3 @@
 * Typo hunting ([#65740](https://github.com/CleverRaven/Cataclysm-DDA/pull/65740))
 * Routine i18n updates on 20 May 2023 ([#65744](https://github.com/CleverRaven/Cataclysm-DDA/pull/65744))
 * Update the table of contents in doc/JSON_INFO.md ([#65727](https://github.com/CleverRaven/Cataclysm-DDA/pull/65727))
-* Change difficulty and colors of hard aircraft ferals ([#65725](https://github.com/CleverRaven/Cataclysm-DDA/pull/65725))
-* watercannon WONT_TRAIN_MARKSMANSHIP ([#65726](https://github.com/CleverRaven/Cataclysm-DDA/pull/65726))
