@@ -1,3 +1,4 @@
+* Fix Godco's usage of u_has_var and npc_has_var ([#65895](https://github.com/CleverRaven/Cataclysm-DDA/pull/65895))
 * fix: some furniture gives too many nuts & bolts ([#65922](https://github.com/CleverRaven/Cataclysm-DDA/pull/65922))
 * Fix cable pockets interfering with battery mods ([#65926](https://github.com/CleverRaven/Cataclysm-DDA/pull/65926))
 * Using default mags to calculate max capacity for guns with random ammo ([#65852](https://github.com/CleverRaven/Cataclysm-DDA/pull/65852))
@@ -84,4 +85,3 @@
 * Change difficulty and colors of hard aircraft ferals ([#65725](https://github.com/CleverRaven/Cataclysm-DDA/pull/65725))
 * [Interface] Fix to unify tilesets behavior (part 1) ([#65722](https://github.com/CleverRaven/Cataclysm-DDA/pull/65722))
 * watercannon WONT_TRAIN_MARKSMANSHIP ([#65726](https://github.com/CleverRaven/Cataclysm-DDA/pull/65726))
-* Snippet Display No Crash ([#65718](https://github.com/CleverRaven/Cataclysm-DDA/pull/65718))
