@@ -1,3 +1,6 @@
+* Attempt to fix CI test failures on library mapgen (#65945)
+* Rework wallet pocket restrictions (#65937)
+* Enable clang-analyzer checks (#65902)
 * [ Xedra Evolved ] Banishes are dreamer spells instead of eater spells (#65941)
 * Fix incorrect translation context (#65946)
 * Small debugmsg argument fix (#65938)
@@ -82,6 +85,3 @@
 * Lizards shouldn't be Light Sensitive (#65753)
 * Allow to practice archery with takedown recurve bow (#65760)
 * Canning acid uses components and not tools (#65761)
-* Flags for Sunburns (#65743)
-* Fix No_hope free_merchant itemgroup (#65746)
-* Routine i18n updates on 20 May 2023 (#65744)
