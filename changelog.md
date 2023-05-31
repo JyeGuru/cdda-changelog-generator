@@ -1,3 +1,4 @@
+* eoc_math: don't allow assignment operators in conditional statements ([#65929](https://github.com/CleverRaven/Cataclysm-DDA/pull/65929))
 * removed obsolete chainmail entries from Blacksmith's inventory ([#65887](https://github.com/CleverRaven/Cataclysm-DDA/pull/65887))
 * Clarify low calorie messages ([#65913](https://github.com/CleverRaven/Cataclysm-DDA/pull/65913))
 * Motorcycle helmet fix ([#65923](https://github.com/CleverRaven/Cataclysm-DDA/pull/65923))
