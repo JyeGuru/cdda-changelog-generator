@@ -1,3 +1,4 @@
+* increase heavy steel plate enc to 3 ([#65949](https://github.com/CleverRaven/Cataclysm-DDA/pull/65949))
 * Attempt to fix CI test failures on library mapgen ([#65945](https://github.com/CleverRaven/Cataclysm-DDA/pull/65945))
 * Rework wallet pocket restrictions ([#65937](https://github.com/CleverRaven/Cataclysm-DDA/pull/65937))
 * Enable clang-analyzer checks ([#65902](https://github.com/CleverRaven/Cataclysm-DDA/pull/65902))
@@ -59,7 +60,6 @@
 * Prevent mounted animals from reacting to hallucinations. ([#65813](https://github.com/CleverRaven/Cataclysm-DDA/pull/65813))
 * makeshift electrolyzer shouldn't contain lye ([#65820](https://github.com/CleverRaven/Cataclysm-DDA/pull/65820))
 * [Magiclysm] Profession fixes ([#65829](https://github.com/CleverRaven/Cataclysm-DDA/pull/65829))
-* Glassmaking audit ([#65747](https://github.com/CleverRaven/Cataclysm-DDA/pull/65747))
 * Fix electric oil press ([#65817](https://github.com/CleverRaven/Cataclysm-DDA/pull/65817))
 * Xedra Evolved spell audit ([#65793](https://github.com/CleverRaven/Cataclysm-DDA/pull/65793))
 * Global and character variable migrations ([#65810](https://github.com/CleverRaven/Cataclysm-DDA/pull/65810))
