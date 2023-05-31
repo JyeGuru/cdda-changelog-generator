@@ -1,3 +1,4 @@
+* Small debugmsg argument fix ([#65938](https://github.com/CleverRaven/Cataclysm-DDA/pull/65938))
 * eoc_math: don't allow assignment operators in conditional statements ([#65929](https://github.com/CleverRaven/Cataclysm-DDA/pull/65929))
 * removed obsolete chainmail entries from Blacksmith's inventory ([#65887](https://github.com/CleverRaven/Cataclysm-DDA/pull/65887))
 * Clarify low calorie messages ([#65913](https://github.com/CleverRaven/Cataclysm-DDA/pull/65913))
@@ -57,7 +58,6 @@
 * Fix electric oil press ([#65817](https://github.com/CleverRaven/Cataclysm-DDA/pull/65817))
 * Xedra Evolved spell audit ([#65793](https://github.com/CleverRaven/Cataclysm-DDA/pull/65793))
 * Global and character variable migrations ([#65810](https://github.com/CleverRaven/Cataclysm-DDA/pull/65810))
-* [Xedra Evolved] Random fixes and changes ([#65737](https://github.com/CleverRaven/Cataclysm-DDA/pull/65737))
 * Make big collapsible drum deployable ([#65803](https://github.com/CleverRaven/Cataclysm-DDA/pull/65803))
 * Fix android startup crash ([#65801](https://github.com/CleverRaven/Cataclysm-DDA/pull/65801))
 * Misc fixes for tests noise, log noise and missed vpart changes ([#65765](https://github.com/CleverRaven/Cataclysm-DDA/pull/65765))
