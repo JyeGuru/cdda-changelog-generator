@@ -1,3 +1,4 @@
+* removes H&K G80 from military itemgroups ([#65955](https://github.com/CleverRaven/Cataclysm-DDA/pull/65955))
 * increase heavy steel plate enc to 3 ([#65949](https://github.com/CleverRaven/Cataclysm-DDA/pull/65949))
 * Attempt to fix CI test failures on library mapgen ([#65945](https://github.com/CleverRaven/Cataclysm-DDA/pull/65945))
 * Rework wallet pocket restrictions ([#65937](https://github.com/CleverRaven/Cataclysm-DDA/pull/65937))
@@ -81,7 +82,6 @@
 * Fix Large Talons integrated armor not appearing ([#65754](https://github.com/CleverRaven/Cataclysm-DDA/pull/65754))
 * A bunch of random item reworks: 6 ([#65757](https://github.com/CleverRaven/Cataclysm-DDA/pull/65757))
 * [Xedra Evolved] Balancing Vampirism ([#65758](https://github.com/CleverRaven/Cataclysm-DDA/pull/65758))
-* A bunch of random item reworks: 5 ([#65752](https://github.com/CleverRaven/Cataclysm-DDA/pull/65752))
 * Lizards shouldn't be Light Sensitive ([#65753](https://github.com/CleverRaven/Cataclysm-DDA/pull/65753))
 * Allow to practice archery with takedown recurve bow ([#65760](https://github.com/CleverRaven/Cataclysm-DDA/pull/65760))
 * Canning acid uses components and not tools ([#65761](https://github.com/CleverRaven/Cataclysm-DDA/pull/65761))
