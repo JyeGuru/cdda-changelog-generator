@@ -1,3 +1,4 @@
+* Simply Grits ([#65948](https://github.com/CleverRaven/Cataclysm-DDA/pull/65948))
 * [Deadly Bites] Antivirals only spawn in medical contexts ([#65936](https://github.com/CleverRaven/Cataclysm-DDA/pull/65936))
 * removes H&K G80 from military itemgroups ([#65955](https://github.com/CleverRaven/Cataclysm-DDA/pull/65955))
 * increase heavy steel plate enc to 3 ([#65949](https://github.com/CleverRaven/Cataclysm-DDA/pull/65949))
@@ -80,7 +81,6 @@
 * Routine tileset updates on 21 May 2023 ([#65790](https://github.com/CleverRaven/Cataclysm-DDA/pull/65790))
 * [ XE ] Renfield drops and hunting lodge spawn ([#65779](https://github.com/CleverRaven/Cataclysm-DDA/pull/65779))
 * clang-tidy cata-almost-never-auto ([#65755](https://github.com/CleverRaven/Cataclysm-DDA/pull/65755))
-* Fix Large Talons integrated armor not appearing ([#65754](https://github.com/CleverRaven/Cataclysm-DDA/pull/65754))
 * A bunch of random item reworks: 6 ([#65757](https://github.com/CleverRaven/Cataclysm-DDA/pull/65757))
 * [Xedra Evolved] Balancing Vampirism ([#65758](https://github.com/CleverRaven/Cataclysm-DDA/pull/65758))
 * Allow to practice archery with takedown recurve bow ([#65760](https://github.com/CleverRaven/Cataclysm-DDA/pull/65760))
