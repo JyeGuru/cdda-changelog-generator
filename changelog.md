@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-05-22 to 2023-05-29 ([#65908](https://github.com/CleverRaven/Cataclysm-DDA/pull/65908))
 * Sarma Calorie fix ([#65947](https://github.com/CleverRaven/Cataclysm-DDA/pull/65947))
 * Reduce Helmet DPS ([#65969](https://github.com/CleverRaven/Cataclysm-DDA/pull/65969))
 * Debug grabbers are not hallu ([#65971](https://github.com/CleverRaven/Cataclysm-DDA/pull/65971))
@@ -73,7 +74,6 @@
 * Global and character variable migrations ([#65810](https://github.com/CleverRaven/Cataclysm-DDA/pull/65810))
 * Make big collapsible drum deployable ([#65803](https://github.com/CleverRaven/Cataclysm-DDA/pull/65803))
 * Fix android startup crash ([#65801](https://github.com/CleverRaven/Cataclysm-DDA/pull/65801))
-* Misc fixes for tests noise, log noise and missed vpart changes ([#65765](https://github.com/CleverRaven/Cataclysm-DDA/pull/65765))
 * make Stimulant Psychosis a medical mutation ([#65772](https://github.com/CleverRaven/Cataclysm-DDA/pull/65772))
 * Enable clang-tidy cert-dcl58-cpp ([#65784](https://github.com/CleverRaven/Cataclysm-DDA/pull/65784))
 * rewrite outdated monster descriptions + typo fixes ([#65768](https://github.com/CleverRaven/Cataclysm-DDA/pull/65768))
