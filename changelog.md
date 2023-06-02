@@ -79,7 +79,6 @@
 * rewrite outdated monster descriptions + typo fixes ([#65768](https://github.com/CleverRaven/Cataclysm-DDA/pull/65768))
 * EOC u_sell_item() transfers items' ownership ([#65769](https://github.com/CleverRaven/Cataclysm-DDA/pull/65769))
 * Allow flour nachos ([#65770](https://github.com/CleverRaven/Cataclysm-DDA/pull/65770))
-* More scrollbars ([#65767](https://github.com/CleverRaven/Cataclysm-DDA/pull/65767))
 * fix: typos on new char screen ([#65783](https://github.com/CleverRaven/Cataclysm-DDA/pull/65783))
 * Fix portal storm dialog ([#65782](https://github.com/CleverRaven/Cataclysm-DDA/pull/65782))
 * Increase frequency of Parrot for Mi-go and cyborgs ([#65785](https://github.com/CleverRaven/Cataclysm-DDA/pull/65785))
