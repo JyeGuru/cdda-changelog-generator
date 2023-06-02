@@ -1,3 +1,4 @@
+* Fix energy consumption and size of few mini appliances ([#65857](https://github.com/CleverRaven/Cataclysm-DDA/pull/65857))
 * Weekly Changelog 2023-05-22 to 2023-05-29 ([#65908](https://github.com/CleverRaven/Cataclysm-DDA/pull/65908))
 * Sarma Calorie fix ([#65947](https://github.com/CleverRaven/Cataclysm-DDA/pull/65947))
 * Reduce Helmet DPS ([#65969](https://github.com/CleverRaven/Cataclysm-DDA/pull/65969))
@@ -76,7 +77,6 @@
 * Fix android startup crash ([#65801](https://github.com/CleverRaven/Cataclysm-DDA/pull/65801))
 * make Stimulant Psychosis a medical mutation ([#65772](https://github.com/CleverRaven/Cataclysm-DDA/pull/65772))
 * Enable clang-tidy cert-dcl58-cpp ([#65784](https://github.com/CleverRaven/Cataclysm-DDA/pull/65784))
-* rewrite outdated monster descriptions + typo fixes ([#65768](https://github.com/CleverRaven/Cataclysm-DDA/pull/65768))
 * EOC u_sell_item() transfers items' ownership ([#65769](https://github.com/CleverRaven/Cataclysm-DDA/pull/65769))
 * Allow flour nachos ([#65770](https://github.com/CleverRaven/Cataclysm-DDA/pull/65770))
 * fix: typos on new char screen ([#65783](https://github.com/CleverRaven/Cataclysm-DDA/pull/65783))
