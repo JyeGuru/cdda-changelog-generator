@@ -1,3 +1,5 @@
+* Reduce Helmet DPS ([#65969](https://github.com/CleverRaven/Cataclysm-DDA/pull/65969))
+* Debug grabbers are not hallu ([#65971](https://github.com/CleverRaven/Cataclysm-DDA/pull/65971))
 * Changes to suppressors damage reduction ([#65961](https://github.com/CleverRaven/Cataclysm-DDA/pull/65961))
 * [bombastic perks] Perk Fixes ([#65966](https://github.com/CleverRaven/Cataclysm-DDA/pull/65966))
 * Simply Grits ([#65948](https://github.com/CleverRaven/Cataclysm-DDA/pull/65948))
@@ -82,6 +84,4 @@
 * Increase frequency of Parrot for Mi-go and cyborgs ([#65785](https://github.com/CleverRaven/Cataclysm-DDA/pull/65785))
 * Routine tileset updates on 21 May 2023 ([#65790](https://github.com/CleverRaven/Cataclysm-DDA/pull/65790))
 * [ XE ] Renfield drops and hunting lodge spawn ([#65779](https://github.com/CleverRaven/Cataclysm-DDA/pull/65779))
-* [Xedra Evolved] Balancing Vampirism ([#65758](https://github.com/CleverRaven/Cataclysm-DDA/pull/65758))
-* Allow to practice archery with takedown recurve bow ([#65760](https://github.com/CleverRaven/Cataclysm-DDA/pull/65760))
 * Canning acid uses components and not tools ([#65761](https://github.com/CleverRaven/Cataclysm-DDA/pull/65761))
