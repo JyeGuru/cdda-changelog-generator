@@ -77,7 +77,6 @@
 * Fix android startup crash ([#65801](https://github.com/CleverRaven/Cataclysm-DDA/pull/65801))
 * make Stimulant Psychosis a medical mutation ([#65772](https://github.com/CleverRaven/Cataclysm-DDA/pull/65772))
 * Enable clang-tidy cert-dcl58-cpp ([#65784](https://github.com/CleverRaven/Cataclysm-DDA/pull/65784))
-* EOC u_sell_item() transfers items' ownership ([#65769](https://github.com/CleverRaven/Cataclysm-DDA/pull/65769))
 * Allow flour nachos ([#65770](https://github.com/CleverRaven/Cataclysm-DDA/pull/65770))
 * fix: typos on new char screen ([#65783](https://github.com/CleverRaven/Cataclysm-DDA/pull/65783))
 * Fix portal storm dialog ([#65782](https://github.com/CleverRaven/Cataclysm-DDA/pull/65782))
