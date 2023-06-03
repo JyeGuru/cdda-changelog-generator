@@ -1,3 +1,4 @@
+* Routine i18n updates on 03 June 2023 ([#65978](https://github.com/CleverRaven/Cataclysm-DDA/pull/65978))
 * Fix energy consumption and size of few mini appliances ([#65857](https://github.com/CleverRaven/Cataclysm-DDA/pull/65857))
 * Weekly Changelog 2023-05-22 to 2023-05-29 ([#65908](https://github.com/CleverRaven/Cataclysm-DDA/pull/65908))
 * Sarma Calorie fix ([#65947](https://github.com/CleverRaven/Cataclysm-DDA/pull/65947))
@@ -77,7 +78,6 @@
 * Fix android startup crash ([#65801](https://github.com/CleverRaven/Cataclysm-DDA/pull/65801))
 * make Stimulant Psychosis a medical mutation ([#65772](https://github.com/CleverRaven/Cataclysm-DDA/pull/65772))
 * Enable clang-tidy cert-dcl58-cpp ([#65784](https://github.com/CleverRaven/Cataclysm-DDA/pull/65784))
-* Allow flour nachos ([#65770](https://github.com/CleverRaven/Cataclysm-DDA/pull/65770))
 * fix: typos on new char screen ([#65783](https://github.com/CleverRaven/Cataclysm-DDA/pull/65783))
 * Fix portal storm dialog ([#65782](https://github.com/CleverRaven/Cataclysm-DDA/pull/65782))
 * Increase frequency of Parrot for Mi-go and cyborgs ([#65785](https://github.com/CleverRaven/Cataclysm-DDA/pull/65785))
