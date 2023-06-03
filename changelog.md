@@ -50,7 +50,6 @@
 * Forest floor should look like moss and not tall grass ([#65874](https://github.com/CleverRaven/Cataclysm-DDA/pull/65874))
 * Update the table of contents in doc/JSON_INFO.md ([#65832](https://github.com/CleverRaven/Cataclysm-DDA/pull/65832))
 * Routine i18n updates on 27 May 2023 ([#65869](https://github.com/CleverRaven/Cataclysm-DDA/pull/65869))
-* Mutagenic Slurry decays into appropriate types ([#65771](https://github.com/CleverRaven/Cataclysm-DDA/pull/65771))
 * Update terrain-manufactured.json ([#65859](https://github.com/CleverRaven/Cataclysm-DDA/pull/65859))
 * National Flags V2 Flags Hullabaloo ([#65839](https://github.com/CleverRaven/Cataclysm-DDA/pull/65839))
 * Enable clang-tidy check modernize-use-emplace ([#65844](https://github.com/CleverRaven/Cataclysm-DDA/pull/65844))
