@@ -59,7 +59,6 @@
 * Encumbrances Fixes + Tests ([#65862](https://github.com/CleverRaven/Cataclysm-DDA/pull/65862))
 * eoc/mission: pass EOC dialogue to mission utils ([#65860](https://github.com/CleverRaven/Cataclysm-DDA/pull/65860))
 * Weekly Changelog 2023-05-15 to 2023-05-22 ([#65791](https://github.com/CleverRaven/Cataclysm-DDA/pull/65791))
-* Gunsmith ammo convert json EOCify and cleanup ([#65775](https://github.com/CleverRaven/Cataclysm-DDA/pull/65775))
 * lower fur bodyarmor encumbrance a bit ([#65818](https://github.com/CleverRaven/Cataclysm-DDA/pull/65818))
 * Vehicle part variants tidy ([#65823](https://github.com/CleverRaven/Cataclysm-DDA/pull/65823))
 * fix: wizard's apprentice achievement ([#65789](https://github.com/CleverRaven/Cataclysm-DDA/pull/65789))
