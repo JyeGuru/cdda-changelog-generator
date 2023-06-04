@@ -1,3 +1,4 @@
+* Small typo fix (#65987)
 * Routine i18n updates on 03 June 2023 (#65978)
 * Fix energy consumption and size of few mini appliances (#65857)
 * Weekly Changelog 2023-05-22 to 2023-05-29 (#65908)
@@ -75,7 +76,6 @@
 * Global and character variable migrations (#65810)
 * Make big collapsible drum deployable (#65803)
 * Fix android startup crash (#65801)
-* make Stimulant Psychosis a medical mutation (#65772)
 * Enable clang-tidy cert-dcl58-cpp (#65784)
 * fix: typos on new char screen (#65783)
 * Fix portal storm dialog (#65782)
