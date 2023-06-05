@@ -1,3 +1,5 @@
+* math_parser: improve handling of dialogue functions (#65980)
+* prefer \"\" over “” (#66009)
 * Small typo fix (#65987)
 * Routine i18n updates on 03 June 2023 (#65978)
 * Fix energy consumption and size of few mini appliances (#65857)
@@ -80,4 +82,3 @@
 * Fix portal storm dialog (#65782)
 * Increase frequency of Parrot for Mi-go and cyborgs (#65785)
 * Routine tileset updates on 21 May 2023 (#65790)
-* [ XE ] Renfield drops and hunting lodge spawn (#65779)
