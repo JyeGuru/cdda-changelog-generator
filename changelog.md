@@ -1,3 +1,4 @@
+* Coffeepotupdate ([#65943](https://github.com/CleverRaven/Cataclysm-DDA/pull/65943))
 * Fix merch strap being old-currency ([#65999](https://github.com/CleverRaven/Cataclysm-DDA/pull/65999))
 * Fix innawoods infinite portal storms ([#65992](https://github.com/CleverRaven/Cataclysm-DDA/pull/65992))
 * Routine tileset updates on 04 June 2023 ([#66012](https://github.com/CleverRaven/Cataclysm-DDA/pull/66012))
@@ -79,7 +80,6 @@
 * makeshift electrolyzer shouldn't contain lye ([#65820](https://github.com/CleverRaven/Cataclysm-DDA/pull/65820))
 * [Magiclysm] Profession fixes ([#65829](https://github.com/CleverRaven/Cataclysm-DDA/pull/65829))
 * Fix electric oil press ([#65817](https://github.com/CleverRaven/Cataclysm-DDA/pull/65817))
-* Xedra Evolved spell audit ([#65793](https://github.com/CleverRaven/Cataclysm-DDA/pull/65793))
 * Global and character variable migrations ([#65810](https://github.com/CleverRaven/Cataclysm-DDA/pull/65810))
 * Make big collapsible drum deployable ([#65803](https://github.com/CleverRaven/Cataclysm-DDA/pull/65803))
 * Fix android startup crash ([#65801](https://github.com/CleverRaven/Cataclysm-DDA/pull/65801))
