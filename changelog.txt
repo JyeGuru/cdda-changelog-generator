@@ -1,3 +1,4 @@
+* Allow EOCs to forget recipes (#65917)
 * Add deleting vehicles option to debug menu (#65994)
 * Raise margin on albino focus loss test (#66029)
 * AFS single line typo (#66030)
@@ -76,7 +77,6 @@
 * Vehicle part variants tidy (#65823)
 * Enable clang-tidy check cert-err33-c (#65814)
 * Misc fix to some random items (#65816)
-* Remove some No Hope duplicate maps (#65807)
 * Fix divide by zero in driving offset (#65809)
 * Prevent mounted animals from reacting to hallucinations. (#65813)
 * makeshift electrolyzer shouldn't contain lye (#65820)
