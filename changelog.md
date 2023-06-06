@@ -1,3 +1,5 @@
+* Add deleting vehicles option to debug menu ([#65994](https://github.com/CleverRaven/Cataclysm-DDA/pull/65994))
+* Raise margin on albino focus loss test ([#66029](https://github.com/CleverRaven/Cataclysm-DDA/pull/66029))
 * AFS single line typo ([#66030](https://github.com/CleverRaven/Cataclysm-DDA/pull/66030))
 * Coffeepotupdate ([#65943](https://github.com/CleverRaven/Cataclysm-DDA/pull/65943))
 * Fix merch strap being old-currency ([#65999](https://github.com/CleverRaven/Cataclysm-DDA/pull/65999))
@@ -73,7 +75,6 @@
 * lower fur bodyarmor encumbrance a bit ([#65818](https://github.com/CleverRaven/Cataclysm-DDA/pull/65818))
 * Vehicle part variants tidy ([#65823](https://github.com/CleverRaven/Cataclysm-DDA/pull/65823))
 * Enable clang-tidy check cert-err33-c ([#65814](https://github.com/CleverRaven/Cataclysm-DDA/pull/65814))
-* Allow C++ standard includes in clang-tidy tests ([#65806](https://github.com/CleverRaven/Cataclysm-DDA/pull/65806))
 * Misc fix to some random items ([#65816](https://github.com/CleverRaven/Cataclysm-DDA/pull/65816))
 * Remove some No Hope duplicate maps ([#65807](https://github.com/CleverRaven/Cataclysm-DDA/pull/65807))
 * Fix divide by zero in driving offset ([#65809](https://github.com/CleverRaven/Cataclysm-DDA/pull/65809))
@@ -82,4 +83,3 @@
 * [Magiclysm] Profession fixes ([#65829](https://github.com/CleverRaven/Cataclysm-DDA/pull/65829))
 * Fix electric oil press ([#65817](https://github.com/CleverRaven/Cataclysm-DDA/pull/65817))
 * Global and character variable migrations ([#65810](https://github.com/CleverRaven/Cataclysm-DDA/pull/65810))
-* Make big collapsible drum deployable ([#65803](https://github.com/CleverRaven/Cataclysm-DDA/pull/65803))
