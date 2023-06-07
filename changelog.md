@@ -1,3 +1,4 @@
+* Remove reference to cauterizing from soldering iron description and health care help text ([#66038](https://github.com/CleverRaven/Cataclysm-DDA/pull/66038))
 * Cache crafting speed's workbench multiplier ([#66018](https://github.com/CleverRaven/Cataclysm-DDA/pull/66018))
 * expand common items found in vehicles ([#66046](https://github.com/CleverRaven/Cataclysm-DDA/pull/66046))
 * Allow EOCs to forget recipes ([#65917](https://github.com/CleverRaven/Cataclysm-DDA/pull/65917))
