@@ -1,3 +1,4 @@
+* Rework and expand NRE data recordings (#65957)
 * Morvarchprincess/addknotweedtomorerecipies (#65977)
 * M249/M240 semi triggers give select fire (#65883)
 * Remove reference to cauterizing from soldering iron description and health care help text (#66038)
@@ -80,7 +81,6 @@
 * eoc/mission: pass EOC dialogue to mission utils (#65860)
 * lower fur bodyarmor encumbrance a bit (#65818)
 * Vehicle part variants tidy (#65823)
-* Misc fix to some random items (#65816)
 * makeshift electrolyzer shouldn't contain lye (#65820)
 * [Magiclysm] Profession fixes (#65829)
 * Fix electric oil press (#65817)
