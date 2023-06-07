@@ -1,3 +1,4 @@
+* M249/M240 semi triggers give select fire (#65883)
 * Remove reference to cauterizing from soldering iron description and health care help text (#66038)
 * Cache crafting speed's workbench multiplier (#66018)
 * expand common items found in vehicles (#66046)
@@ -80,7 +81,6 @@
 * Vehicle part variants tidy (#65823)
 * Enable clang-tidy check cert-err33-c (#65814)
 * Misc fix to some random items (#65816)
-* Prevent mounted animals from reacting to hallucinations. (#65813)
 * makeshift electrolyzer shouldn't contain lye (#65820)
 * [Magiclysm] Profession fixes (#65829)
 * Fix electric oil press (#65817)
