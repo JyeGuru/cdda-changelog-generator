@@ -1,3 +1,4 @@
+* Fix error spam on missing bionic_ids (#66032)
 * Reduce tests output by trimming non-failing tests (#66042)
 * Rework and expand NRE data recordings (#65957)
 * Morvarchprincess/addknotweedtomorerecipies (#65977)
@@ -80,7 +81,6 @@
 * Fix disassembing item causing deadlock (#65853)
 * Encumbrances Fixes + Tests (#65862)
 * eoc/mission: pass EOC dialogue to mission utils (#65860)
-* lower fur bodyarmor encumbrance a bit (#65818)
 * Vehicle part variants tidy (#65823)
 * makeshift electrolyzer shouldn't contain lye (#65820)
 * [Magiclysm] Profession fixes (#65829)
