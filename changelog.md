@@ -1,3 +1,4 @@
+* Reduce tests output by trimming non-failing tests ([#66042](https://github.com/CleverRaven/Cataclysm-DDA/pull/66042))
 * Rework and expand NRE data recordings ([#65957](https://github.com/CleverRaven/Cataclysm-DDA/pull/65957))
 * Morvarchprincess/addknotweedtomorerecipies ([#65977](https://github.com/CleverRaven/Cataclysm-DDA/pull/65977))
 * M249/M240 semi triggers give select fire ([#65883](https://github.com/CleverRaven/Cataclysm-DDA/pull/65883))
@@ -83,4 +84,3 @@
 * Vehicle part variants tidy ([#65823](https://github.com/CleverRaven/Cataclysm-DDA/pull/65823))
 * makeshift electrolyzer shouldn't contain lye ([#65820](https://github.com/CleverRaven/Cataclysm-DDA/pull/65820))
 * [Magiclysm] Profession fixes ([#65829](https://github.com/CleverRaven/Cataclysm-DDA/pull/65829))
-* Fix electric oil press ([#65817](https://github.com/CleverRaven/Cataclysm-DDA/pull/65817))
