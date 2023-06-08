@@ -1,3 +1,6 @@
+* tgz_archiver: get file size from ifstream ([#66028](https://github.com/CleverRaven/Cataclysm-DDA/pull/66028))
+* Faster stomach contents tests ([#66061](https://github.com/CleverRaven/Cataclysm-DDA/pull/66061))
+* Raise melee test margin ([#66069](https://github.com/CleverRaven/Cataclysm-DDA/pull/66069))
 * eoc_math: validate all math types ([#66037](https://github.com/CleverRaven/Cataclysm-DDA/pull/66037))
 * Fix error spam on missing bionic_ids ([#66032](https://github.com/CleverRaven/Cataclysm-DDA/pull/66032))
 * Reduce tests output by trimming non-failing tests ([#66042](https://github.com/CleverRaven/Cataclysm-DDA/pull/66042))
@@ -82,5 +85,3 @@
 * Fix disassembing item causing deadlock ([#65853](https://github.com/CleverRaven/Cataclysm-DDA/pull/65853))
 * Encumbrances Fixes + Tests ([#65862](https://github.com/CleverRaven/Cataclysm-DDA/pull/65862))
 * eoc/mission: pass EOC dialogue to mission utils ([#65860](https://github.com/CleverRaven/Cataclysm-DDA/pull/65860))
-* Vehicle part variants tidy ([#65823](https://github.com/CleverRaven/Cataclysm-DDA/pull/65823))
-* [Magiclysm] Profession fixes ([#65829](https://github.com/CleverRaven/Cataclysm-DDA/pull/65829))
