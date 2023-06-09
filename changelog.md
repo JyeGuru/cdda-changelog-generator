@@ -1,3 +1,4 @@
+* Give range bonuses to 9mm smgs ([#66056](https://github.com/CleverRaven/Cataclysm-DDA/pull/66056))
 * Void Weaver adjustment set ([#66051](https://github.com/CleverRaven/Cataclysm-DDA/pull/66051))
 * [DinoMod] fix NPC gear ([#66062](https://github.com/CleverRaven/Cataclysm-DDA/pull/66062))
 * eoc_test: fix setup for EOC_recipe_test ([#66064](https://github.com/CleverRaven/Cataclysm-DDA/pull/66064))

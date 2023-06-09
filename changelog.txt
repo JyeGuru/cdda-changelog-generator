@@ -1,3 +1,4 @@
+* Give range bonuses to 9mm smgs (#66056)
 * Void Weaver adjustment set (#66051)
 * [DinoMod] fix NPC gear (#66062)
 * eoc_test: fix setup for EOC_recipe_test (#66064)
