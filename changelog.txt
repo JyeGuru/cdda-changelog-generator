@@ -1,3 +1,4 @@
+* Add conditionals to martial art techniques and audit techs to use them (#66034)
 * [Xedra Evolved] Perpetual stew of bugfixes and QoL (#65964)
 * UPS no longer automatically gets drained (#66020)
 * Give range bonuses to 9mm smgs (#66056)
@@ -34,7 +35,6 @@
 * prefer \"\" over “” (#66009)
 * Small typo fix (#65987)
 * Routine i18n updates on 03 June 2023 (#65978)
-* Fix energy consumption and size of few mini appliances (#65857)
 * Weekly Changelog 2023-05-22 to 2023-05-29 (#65908)
 * Sarma Calorie fix (#65947)
 * Reduce Helmet DPS (#65969)

@@ -1,3 +1,4 @@
+* Add conditionals to martial art techniques and audit techs to use them ([#66034](https://github.com/CleverRaven/Cataclysm-DDA/pull/66034))
 * [Xedra Evolved] Perpetual stew of bugfixes and QoL ([#65964](https://github.com/CleverRaven/Cataclysm-DDA/pull/65964))
 * UPS no longer automatically gets drained ([#66020](https://github.com/CleverRaven/Cataclysm-DDA/pull/66020))
 * Give range bonuses to 9mm smgs ([#66056](https://github.com/CleverRaven/Cataclysm-DDA/pull/66056))
@@ -34,7 +35,6 @@
 * prefer \"\" over “” ([#66009](https://github.com/CleverRaven/Cataclysm-DDA/pull/66009))
 * Small typo fix ([#65987](https://github.com/CleverRaven/Cataclysm-DDA/pull/65987))
 * Routine i18n updates on 03 June 2023 ([#65978](https://github.com/CleverRaven/Cataclysm-DDA/pull/65978))
-* Fix energy consumption and size of few mini appliances ([#65857](https://github.com/CleverRaven/Cataclysm-DDA/pull/65857))
 * Weekly Changelog 2023-05-22 to 2023-05-29 ([#65908](https://github.com/CleverRaven/Cataclysm-DDA/pull/65908))
 * Sarma Calorie fix ([#65947](https://github.com/CleverRaven/Cataclysm-DDA/pull/65947))
 * Reduce Helmet DPS ([#65969](https://github.com/CleverRaven/Cataclysm-DDA/pull/65969))
