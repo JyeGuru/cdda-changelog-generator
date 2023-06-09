@@ -79,7 +79,6 @@
 * Forest floor should look like moss and not tall grass ([#65874](https://github.com/CleverRaven/Cataclysm-DDA/pull/65874))
 * Routine i18n updates on 27 May 2023 ([#65869](https://github.com/CleverRaven/Cataclysm-DDA/pull/65869))
 * Update terrain-manufactured.json ([#65859](https://github.com/CleverRaven/Cataclysm-DDA/pull/65859))
-* National Flags V2 Flags Hullabaloo ([#65839](https://github.com/CleverRaven/Cataclysm-DDA/pull/65839))
 * Enable clang-tidy check modernize-use-emplace ([#65844](https://github.com/CleverRaven/Cataclysm-DDA/pull/65844))
 * Makefile: Better handle RUNTESTS=1 ([#65841](https://github.com/CleverRaven/Cataclysm-DDA/pull/65841))
 * Fix disassembing item causing deadlock ([#65853](https://github.com/CleverRaven/Cataclysm-DDA/pull/65853))
