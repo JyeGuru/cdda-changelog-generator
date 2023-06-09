@@ -84,4 +84,3 @@
 * Forest floor should look like moss and not tall grass ([#65874](https://github.com/CleverRaven/Cataclysm-DDA/pull/65874))
 * Routine i18n updates on 27 May 2023 ([#65869](https://github.com/CleverRaven/Cataclysm-DDA/pull/65869))
 * Encumbrances Fixes + Tests ([#65862](https://github.com/CleverRaven/Cataclysm-DDA/pull/65862))
-* eoc/mission: pass EOC dialogue to mission utils ([#65860](https://github.com/CleverRaven/Cataclysm-DDA/pull/65860))
