@@ -1,3 +1,4 @@
+* Fix vitamins test flaking out, fingers crossed ([#66083](https://github.com/CleverRaven/Cataclysm-DDA/pull/66083))
 * Add conditionals to martial art techniques and audit techs to use them ([#66034](https://github.com/CleverRaven/Cataclysm-DDA/pull/66034))
 * [Xedra Evolved] Perpetual stew of bugfixes and QoL ([#65964](https://github.com/CleverRaven/Cataclysm-DDA/pull/65964))
 * UPS no longer automatically gets drained ([#66020](https://github.com/CleverRaven/Cataclysm-DDA/pull/66020))
@@ -82,6 +83,5 @@
 * Refugee Center dialogue fix - Rhyzaea Johnny - Slovakia/Slovenia ([#65873](https://github.com/CleverRaven/Cataclysm-DDA/pull/65873))
 * Forest floor should look like moss and not tall grass ([#65874](https://github.com/CleverRaven/Cataclysm-DDA/pull/65874))
 * Routine i18n updates on 27 May 2023 ([#65869](https://github.com/CleverRaven/Cataclysm-DDA/pull/65869))
-* Update terrain-manufactured.json ([#65859](https://github.com/CleverRaven/Cataclysm-DDA/pull/65859))
 * Encumbrances Fixes + Tests ([#65862](https://github.com/CleverRaven/Cataclysm-DDA/pull/65862))
 * eoc/mission: pass EOC dialogue to mission utils ([#65860](https://github.com/CleverRaven/Cataclysm-DDA/pull/65860))
