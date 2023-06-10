@@ -1,3 +1,4 @@
+* [BombasticPerks] remove dead code (#66097)
 * Routine i18n updates on 10 June 2023 (#66106)
 * Fix vitamins test flaking out, fingers crossed (#66083)
 * Add conditionals to martial art techniques and audit techs to use them (#66034)
@@ -70,7 +71,6 @@
 * Add SurFlurer to comment-commands.yml (#65886)
 * Added crude heating element alternatives with a 50% extra cost over normal elements (#65884)
 * fix: don't spawn zombies as mechanic mail carriers (#65878)
-* Overmap special flag audit (#65865)
 * Enable the clang-tidy check performance-inefficient-vector-operation (#65892)
 * #65794 Remove mx_supplydrop (#65894)
 * Allow 'm' to close the overmap (#65896)
