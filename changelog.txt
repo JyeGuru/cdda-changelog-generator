@@ -1,3 +1,4 @@
+* Routine i18n updates on 10 June 2023 (#66106)
 * Fix vitamins test flaking out, fingers crossed (#66083)
 * Add conditionals to martial art techniques and audit techs to use them (#66034)
 * [Xedra Evolved] Perpetual stew of bugfixes and QoL (#65964)
@@ -83,4 +84,3 @@
 * Refugee Center dialogue fix - Rhyzaea Johnny - Slovakia/Slovenia (#65873)
 * Forest floor should look like moss and not tall grass (#65874)
 * Routine i18n updates on 27 May 2023 (#65869)
-* Encumbrances Fixes + Tests (#65862)
