@@ -1,3 +1,4 @@
+* Cache Character's radiation leak level (#66112)
 * Give swimmer DISIMMUNE trait in swim test (#66078)
 * Move vehicle part variants to json (#65871)
 * [BombasticPerks] remove dead code (#66097)
@@ -85,4 +86,3 @@
 * Routine tileset updates on 28 May 2023 (#65906)
 * Refugee Center dialogue fix - Rhyzaea Johnny - Slovakia/Slovenia (#65873)
 * Forest floor should look like moss and not tall grass (#65874)
-* Routine i18n updates on 27 May 2023 (#65869)
