@@ -68,7 +68,6 @@
 * Fix cable pockets interfering with battery mods ([#65926](https://github.com/CleverRaven/Cataclysm-DDA/pull/65926))
 * removing leftovers of bionics from doctor's office ([#65885](https://github.com/CleverRaven/Cataclysm-DDA/pull/65885))
 * Isolated artisan turrets don't shoot at vehicles ([#65882](https://github.com/CleverRaven/Cataclysm-DDA/pull/65882))
-* fix missing include in crash.cpp ([#65872](https://github.com/CleverRaven/Cataclysm-DDA/pull/65872))
 * 'make clean-pch' should also clean pch files in tests ([#65893](https://github.com/CleverRaven/Cataclysm-DDA/pull/65893))
 * Add SurFlurer to comment-commands.yml ([#65886](https://github.com/CleverRaven/Cataclysm-DDA/pull/65886))
 * Added crude heating element alternatives with a 50% extra cost over normal elements ([#65884](https://github.com/CleverRaven/Cataclysm-DDA/pull/65884))
