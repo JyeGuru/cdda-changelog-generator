@@ -1,3 +1,4 @@
+* Badges don't cover anything again ([#66107](https://github.com/CleverRaven/Cataclysm-DDA/pull/66107))
 * Cache Character's radiation leak level ([#66112](https://github.com/CleverRaven/Cataclysm-DDA/pull/66112))
 * Give swimmer DISIMMUNE trait in swim test ([#66078](https://github.com/CleverRaven/Cataclysm-DDA/pull/66078))
 * [BombasticPerks] remove dead code ([#66097](https://github.com/CleverRaven/Cataclysm-DDA/pull/66097))
@@ -82,5 +83,4 @@
 * Fix portal dungeon issue. ([#65920](https://github.com/CleverRaven/Cataclysm-DDA/pull/65920))
 * Fix national flags ([#65877](https://github.com/CleverRaven/Cataclysm-DDA/pull/65877))
 * Routine tileset updates on 28 May 2023 ([#65906](https://github.com/CleverRaven/Cataclysm-DDA/pull/65906))
-* Refugee Center dialogue fix - Rhyzaea Johnny - Slovakia/Slovenia ([#65873](https://github.com/CleverRaven/Cataclysm-DDA/pull/65873))
 * Forest floor should look like moss and not tall grass ([#65874](https://github.com/CleverRaven/Cataclysm-DDA/pull/65874))
