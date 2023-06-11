@@ -1,6 +1,5 @@
 * Cache Character's radiation leak level ([#66112](https://github.com/CleverRaven/Cataclysm-DDA/pull/66112))
 * Give swimmer DISIMMUNE trait in swim test ([#66078](https://github.com/CleverRaven/Cataclysm-DDA/pull/66078))
-* Move vehicle part variants to json ([#65871](https://github.com/CleverRaven/Cataclysm-DDA/pull/65871))
 * [BombasticPerks] remove dead code ([#66097](https://github.com/CleverRaven/Cataclysm-DDA/pull/66097))
 * Routine i18n updates on 10 June 2023 ([#66106](https://github.com/CleverRaven/Cataclysm-DDA/pull/66106))
 * Fix vitamins test flaking out, fingers crossed ([#66083](https://github.com/CleverRaven/Cataclysm-DDA/pull/66083))
