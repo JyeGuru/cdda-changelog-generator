@@ -1,3 +1,4 @@
+* Allow NPCs to read E-books (#65935)
 * fix: dry firing practice recipes aren't tiring (#66101)
 * Roof Palette Porting (#66105)
 * Shorten molt effect descriptions (#66154)
@@ -77,7 +78,6 @@
 * Revert "makeshift electrolyzer shouldn't contain lye (#65820)" (#65910)
 * fix: some furniture gives too many nuts & bolts (#65922)
 * Fix cable pockets interfering with battery mods (#65926)
-* Allow 'm' to close the overmap (#65896)
 * Make car batteries valid cable system connections (#65899)
 * Not attach the bag if too heavy (#65901)
 * Readd JUMPSTART to jumper cable (#65912)
