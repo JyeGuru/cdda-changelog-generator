@@ -70,7 +70,6 @@
 * Clarify low calorie messages ([#65913](https://github.com/CleverRaven/Cataclysm-DDA/pull/65913))
 * Motorcycle helmet fix ([#65923](https://github.com/CleverRaven/Cataclysm-DDA/pull/65923))
 * Revert "makeshift electrolyzer shouldn't contain lye (#65820)" ([#65910](https://github.com/CleverRaven/Cataclysm-DDA/pull/65910))
-* Civilians: bugfixes ([#65888](https://github.com/CleverRaven/Cataclysm-DDA/pull/65888))
 * Fix Godco's usage of u_has_var and npc_has_var ([#65895](https://github.com/CleverRaven/Cataclysm-DDA/pull/65895))
 * fix: some furniture gives too many nuts & bolts ([#65922](https://github.com/CleverRaven/Cataclysm-DDA/pull/65922))
 * Fix cable pockets interfering with battery mods ([#65926](https://github.com/CleverRaven/Cataclysm-DDA/pull/65926))
