@@ -75,6 +75,7 @@
 * Fix Godco's usage of u_has_var and npc_has_var ([#65895](https://github.com/CleverRaven/Cataclysm-DDA/pull/65895))
 * fix: some furniture gives too many nuts & bolts ([#65922](https://github.com/CleverRaven/Cataclysm-DDA/pull/65922))
 * Fix cable pockets interfering with battery mods ([#65926](https://github.com/CleverRaven/Cataclysm-DDA/pull/65926))
+* 'make clean-pch' should also clean pch files in tests ([#65893](https://github.com/CleverRaven/Cataclysm-DDA/pull/65893))
 * #65794 Remove mx_supplydrop ([#65894](https://github.com/CleverRaven/Cataclysm-DDA/pull/65894))
 * Allow 'm' to close the overmap ([#65896](https://github.com/CleverRaven/Cataclysm-DDA/pull/65896))
 * Make car batteries valid cable system connections ([#65899](https://github.com/CleverRaven/Cataclysm-DDA/pull/65899))
