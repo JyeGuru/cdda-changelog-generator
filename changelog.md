@@ -1,3 +1,4 @@
+* Misc Roof Update ([#66103](https://github.com/CleverRaven/Cataclysm-DDA/pull/66103))
 * Allow NPCs to read E-books ([#65935](https://github.com/CleverRaven/Cataclysm-DDA/pull/65935))
 * fix: dry firing practice recipes aren't tiring ([#66101](https://github.com/CleverRaven/Cataclysm-DDA/pull/66101))
 * Roof Palette Porting ([#66105](https://github.com/CleverRaven/Cataclysm-DDA/pull/66105))
