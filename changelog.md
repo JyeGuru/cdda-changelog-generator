@@ -1,3 +1,5 @@
+* Give myself confirmation perms ([#66145](https://github.com/CleverRaven/Cataclysm-DDA/pull/66145))
+* Routine tileset updates on 11 June 2023 ([#66146](https://github.com/CleverRaven/Cataclysm-DDA/pull/66146))
 * Improve the loot of police armories ([#66108](https://github.com/CleverRaven/Cataclysm-DDA/pull/66108))
 * Garage Office Roof Fix ([#66093](https://github.com/CleverRaven/Cataclysm-DDA/pull/66093))
 * Add new AR-10 magazines ([#66133](https://github.com/CleverRaven/Cataclysm-DDA/pull/66133))
@@ -74,7 +76,6 @@
 * fix: some furniture gives too many nuts & bolts ([#65922](https://github.com/CleverRaven/Cataclysm-DDA/pull/65922))
 * Fix cable pockets interfering with battery mods ([#65926](https://github.com/CleverRaven/Cataclysm-DDA/pull/65926))
 * 'make clean-pch' should also clean pch files in tests ([#65893](https://github.com/CleverRaven/Cataclysm-DDA/pull/65893))
-* Enable the clang-tidy check performance-inefficient-vector-operation ([#65892](https://github.com/CleverRaven/Cataclysm-DDA/pull/65892))
 * #65794 Remove mx_supplydrop ([#65894](https://github.com/CleverRaven/Cataclysm-DDA/pull/65894))
 * Allow 'm' to close the overmap ([#65896](https://github.com/CleverRaven/Cataclysm-DDA/pull/65896))
 * Make car batteries valid cable system connections ([#65899](https://github.com/CleverRaven/Cataclysm-DDA/pull/65899))
