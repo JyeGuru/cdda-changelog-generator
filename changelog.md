@@ -1,3 +1,4 @@
+* fix: dry firing practice recipes aren't tiring ([#66101](https://github.com/CleverRaven/Cataclysm-DDA/pull/66101))
 * Roof Palette Porting ([#66105](https://github.com/CleverRaven/Cataclysm-DDA/pull/66105))
 * Shorten molt effect descriptions ([#66154](https://github.com/CleverRaven/Cataclysm-DDA/pull/66154))
 * Give myself confirmation perms ([#66145](https://github.com/CleverRaven/Cataclysm-DDA/pull/66145))
@@ -74,7 +75,6 @@
 * Clarify low calorie messages ([#65913](https://github.com/CleverRaven/Cataclysm-DDA/pull/65913))
 * Motorcycle helmet fix ([#65923](https://github.com/CleverRaven/Cataclysm-DDA/pull/65923))
 * Revert "makeshift electrolyzer shouldn't contain lye (#65820)" ([#65910](https://github.com/CleverRaven/Cataclysm-DDA/pull/65910))
-* Fix Godco's usage of u_has_var and npc_has_var ([#65895](https://github.com/CleverRaven/Cataclysm-DDA/pull/65895))
 * fix: some furniture gives too many nuts & bolts ([#65922](https://github.com/CleverRaven/Cataclysm-DDA/pull/65922))
 * Fix cable pockets interfering with battery mods ([#65926](https://github.com/CleverRaven/Cataclysm-DDA/pull/65926))
 * Allow 'm' to close the overmap ([#65896](https://github.com/CleverRaven/Cataclysm-DDA/pull/65896))
