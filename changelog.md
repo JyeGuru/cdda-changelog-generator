@@ -1,3 +1,4 @@
+* Delete cground.json ([#66158](https://github.com/CleverRaven/Cataclysm-DDA/pull/66158))
 * Misc Roof Update ([#66103](https://github.com/CleverRaven/Cataclysm-DDA/pull/66103))
 * Allow NPCs to read E-books ([#65935](https://github.com/CleverRaven/Cataclysm-DDA/pull/65935))
 * fix: dry firing practice recipes aren't tiring ([#66101](https://github.com/CleverRaven/Cataclysm-DDA/pull/66101))
@@ -79,7 +80,6 @@
 * Revert "makeshift electrolyzer shouldn't contain lye (#65820)" ([#65910](https://github.com/CleverRaven/Cataclysm-DDA/pull/65910))
 * fix: some furniture gives too many nuts & bolts ([#65922](https://github.com/CleverRaven/Cataclysm-DDA/pull/65922))
 * Fix cable pockets interfering with battery mods ([#65926](https://github.com/CleverRaven/Cataclysm-DDA/pull/65926))
-* Make car batteries valid cable system connections ([#65899](https://github.com/CleverRaven/Cataclysm-DDA/pull/65899))
 * Not attach the bag if too heavy ([#65901](https://github.com/CleverRaven/Cataclysm-DDA/pull/65901))
 * Readd JUMPSTART to jumper cable ([#65912](https://github.com/CleverRaven/Cataclysm-DDA/pull/65912))
 * Fix graffiti string truncation caused CTD ([#65916](https://github.com/CleverRaven/Cataclysm-DDA/pull/65916))
