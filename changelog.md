@@ -1,3 +1,5 @@
+* Fix creatures drawn above tall sprites ([#66055](https://github.com/CleverRaven/Cataclysm-DDA/pull/66055))
+* math_parser/eoc: port monsters_nearby() to math ([#65981](https://github.com/CleverRaven/Cataclysm-DDA/pull/65981))
 * Fix crash in veh_interact::do_install ([#66059](https://github.com/CleverRaven/Cataclysm-DDA/pull/66059))
 * Fix basecamp farm's "plow field" mission ([#66070](https://github.com/CleverRaven/Cataclysm-DDA/pull/66070))
 * tests: fix locale-dependent tests ([#66065](https://github.com/CleverRaven/Cataclysm-DDA/pull/66065))
@@ -84,4 +86,3 @@
 * [ Xedra Evolved ] Banishes are dreamer spells instead of eater spells ([#65941](https://github.com/CleverRaven/Cataclysm-DDA/pull/65941))
 * Fix incorrect translation context ([#65946](https://github.com/CleverRaven/Cataclysm-DDA/pull/65946))
 * Small debugmsg argument fix ([#65938](https://github.com/CleverRaven/Cataclysm-DDA/pull/65938))
-* eoc_math: don't allow assignment operators in conditional statements ([#65929](https://github.com/CleverRaven/Cataclysm-DDA/pull/65929))
