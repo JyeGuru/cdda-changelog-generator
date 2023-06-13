@@ -1,3 +1,4 @@
+* [Xedra Evolved] Another batch of random fixes and improvements (#66136)
 * Prevent selecting trait XXXL resulting in error message  (#65986)
 * Convert flexbuffer type to string in exceptions (#66025)
 * Fix map::grow_plant debug message when seed item is not found (#66054)
@@ -85,4 +86,3 @@
 * Attempt to fix CI test failures on library mapgen (#65945)
 * [ Xedra Evolved ] Banishes are dreamer spells instead of eater spells (#65941)
 * Fix incorrect translation context (#65946)
-* Small debugmsg argument fix (#65938)
