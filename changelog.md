@@ -1,3 +1,4 @@
+* Rename `No Fungal Growth` mod to `Slowdown Fungal Growth` ([#66135](https://github.com/CleverRaven/Cataclysm-DDA/pull/66135))
 * Delete cground.json ([#66158](https://github.com/CleverRaven/Cataclysm-DDA/pull/66158))
 * Misc Roof Update ([#66103](https://github.com/CleverRaven/Cataclysm-DDA/pull/66103))
 * Allow NPCs to read E-books ([#65935](https://github.com/CleverRaven/Cataclysm-DDA/pull/65935))
