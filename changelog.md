@@ -1,3 +1,6 @@
+* Fix crash in veh_interact::do_install ([#66059](https://github.com/CleverRaven/Cataclysm-DDA/pull/66059))
+* Fix basecamp farm's "plow field" mission ([#66070](https://github.com/CleverRaven/Cataclysm-DDA/pull/66070))
+* tests: fix locale-dependent tests ([#66065](https://github.com/CleverRaven/Cataclysm-DDA/pull/66065))
 * Make turret cpu npc persistent ([#66085](https://github.com/CleverRaven/Cataclysm-DDA/pull/66085))
 * Enable death effects on limited lifespan monsters ([#66118](https://github.com/CleverRaven/Cataclysm-DDA/pull/66118))
 * reduce action cost of helmets flashlight pocket ([#66102](https://github.com/CleverRaven/Cataclysm-DDA/pull/66102))
@@ -82,6 +85,3 @@
 * Fix incorrect translation context ([#65946](https://github.com/CleverRaven/Cataclysm-DDA/pull/65946))
 * Small debugmsg argument fix ([#65938](https://github.com/CleverRaven/Cataclysm-DDA/pull/65938))
 * eoc_math: don't allow assignment operators in conditional statements ([#65929](https://github.com/CleverRaven/Cataclysm-DDA/pull/65929))
-* Motorcycle helmet fix ([#65923](https://github.com/CleverRaven/Cataclysm-DDA/pull/65923))
-* fix: some furniture gives too many nuts & bolts ([#65922](https://github.com/CleverRaven/Cataclysm-DDA/pull/65922))
-* Fix cable pockets interfering with battery mods ([#65926](https://github.com/CleverRaven/Cataclysm-DDA/pull/65926))
