@@ -1,3 +1,4 @@
+* Enable death effects on limited lifespan monsters ([#66118](https://github.com/CleverRaven/Cataclysm-DDA/pull/66118))
 * reduce action cost of helmets flashlight pocket ([#66102](https://github.com/CleverRaven/Cataclysm-DDA/pull/66102))
 * Remove repeated pocket type in has_only_special_pockets ([#66122](https://github.com/CleverRaven/Cataclysm-DDA/pull/66122))
 * Small changes: to improve perf ([#66127](https://github.com/CleverRaven/Cataclysm-DDA/pull/66127))
@@ -61,7 +62,6 @@
 * Fix shady mercenary not taking human sample ([#65968](https://github.com/CleverRaven/Cataclysm-DDA/pull/65968))
 * NPC shooting improvement ([#65998](https://github.com/CleverRaven/Cataclysm-DDA/pull/65998))
 * Order NPC to go to specific location ([#66001](https://github.com/CleverRaven/Cataclysm-DDA/pull/66001))
-* Add Kel-Tec PLR16 ([#65918](https://github.com/CleverRaven/Cataclysm-DDA/pull/65918))
 * math_parser: improve handling of dialogue functions ([#65980](https://github.com/CleverRaven/Cataclysm-DDA/pull/65980))
 * prefer \"\" over “” ([#66009](https://github.com/CleverRaven/Cataclysm-DDA/pull/66009))
 * Small typo fix ([#65987](https://github.com/CleverRaven/Cataclysm-DDA/pull/65987))
