@@ -1,3 +1,4 @@
+* Make turret cpu npc persistent ([#66085](https://github.com/CleverRaven/Cataclysm-DDA/pull/66085))
 * Enable death effects on limited lifespan monsters ([#66118](https://github.com/CleverRaven/Cataclysm-DDA/pull/66118))
 * reduce action cost of helmets flashlight pocket ([#66102](https://github.com/CleverRaven/Cataclysm-DDA/pull/66102))
 * Remove repeated pocket type in has_only_special_pockets ([#66122](https://github.com/CleverRaven/Cataclysm-DDA/pull/66122))
@@ -84,4 +85,3 @@
 * Motorcycle helmet fix ([#65923](https://github.com/CleverRaven/Cataclysm-DDA/pull/65923))
 * fix: some furniture gives too many nuts & bolts ([#65922](https://github.com/CleverRaven/Cataclysm-DDA/pull/65922))
 * Fix cable pockets interfering with battery mods ([#65926](https://github.com/CleverRaven/Cataclysm-DDA/pull/65926))
-* Fix portal dungeon issue. ([#65920](https://github.com/CleverRaven/Cataclysm-DDA/pull/65920))
