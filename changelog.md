@@ -1,3 +1,4 @@
+* Fix map::grow_plant debug message when seed item is not found ([#66054](https://github.com/CleverRaven/Cataclysm-DDA/pull/66054))
 * Fix creatures drawn above tall sprites ([#66055](https://github.com/CleverRaven/Cataclysm-DDA/pull/66055))
 * math_parser/eoc: port monsters_nearby() to math ([#65981](https://github.com/CleverRaven/Cataclysm-DDA/pull/65981))
 * Fix crash in veh_interact::do_install ([#66059](https://github.com/CleverRaven/Cataclysm-DDA/pull/66059))
@@ -16,7 +17,6 @@
 * Rename `No Fungal Growth` mod to `Slowdown Fungal Growth` ([#66135](https://github.com/CleverRaven/Cataclysm-DDA/pull/66135))
 * Delete cground.json ([#66158](https://github.com/CleverRaven/Cataclysm-DDA/pull/66158))
 * Misc Roof Update ([#66103](https://github.com/CleverRaven/Cataclysm-DDA/pull/66103))
-* Allow NPCs to read E-books ([#65935](https://github.com/CleverRaven/Cataclysm-DDA/pull/65935))
 * fix: dry firing practice recipes aren't tiring ([#66101](https://github.com/CleverRaven/Cataclysm-DDA/pull/66101))
 * Roof Palette Porting ([#66105](https://github.com/CleverRaven/Cataclysm-DDA/pull/66105))
 * Shorten molt effect descriptions ([#66154](https://github.com/CleverRaven/Cataclysm-DDA/pull/66154))
