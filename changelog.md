@@ -1,3 +1,4 @@
+* Add Kel-Tec RDB and RFB ([#65974](https://github.com/CleverRaven/Cataclysm-DDA/pull/65974))
 * Outdated military helmets ([#66080](https://github.com/CleverRaven/Cataclysm-DDA/pull/66080))
 * Balance firestarter skill gain for long move costs ([#66121](https://github.com/CleverRaven/Cataclysm-DDA/pull/66121))
 * Standardise Special Terrain ([#66123](https://github.com/CleverRaven/Cataclysm-DDA/pull/66123))
@@ -86,4 +87,3 @@
 * Routine i18n updates on 03 June 2023 ([#65978](https://github.com/CleverRaven/Cataclysm-DDA/pull/65978))
 * Reduce Helmet DPS ([#65969](https://github.com/CleverRaven/Cataclysm-DDA/pull/65969))
 * Debug grabbers are not hallu ([#65971](https://github.com/CleverRaven/Cataclysm-DDA/pull/65971))
-* [bombastic perks] Perk Fixes ([#65966](https://github.com/CleverRaven/Cataclysm-DDA/pull/65966))
