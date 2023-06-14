@@ -1,3 +1,4 @@
+* added zombie sheep and goat ([#66155](https://github.com/CleverRaven/Cataclysm-DDA/pull/66155))
 * [Xedra Evolved] Another batch of random fixes and improvements ([#66136](https://github.com/CleverRaven/Cataclysm-DDA/pull/66136))
 * Prevent selecting trait XXXL resulting in error message  ([#65986](https://github.com/CleverRaven/Cataclysm-DDA/pull/65986))
 * Convert flexbuffer type to string in exceptions ([#66025](https://github.com/CleverRaven/Cataclysm-DDA/pull/66025))
