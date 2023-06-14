@@ -1,3 +1,4 @@
+* Raise test margins for less test flakes (#66192)
 * Add Kel-Tec RDB and RFB (#65974)
 * Outdated military helmets (#66080)
 * Balance firestarter skill gain for long move costs (#66121)
@@ -78,7 +79,6 @@
 * Fix merch strap being old-currency (#65999)
 * Fix innawoods infinite portal storms (#65992)
 * Routine tileset updates on 04 June 2023 (#66012)
-* Fix shady mercenary not taking human sample (#65968)
 * NPC shooting improvement (#65998)
 * Order NPC to go to specific location (#66001)
 * math_parser: improve handling of dialogue functions (#65980)
