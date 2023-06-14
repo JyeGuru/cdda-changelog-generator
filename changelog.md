@@ -1,3 +1,4 @@
+* Move gambesons to their own file ([#66183](https://github.com/CleverRaven/Cataclysm-DDA/pull/66183))
 * Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
 * Add Kel-Tec RDB and RFB ([#65974](https://github.com/CleverRaven/Cataclysm-DDA/pull/65974))
 * Outdated military helmets ([#66080](https://github.com/CleverRaven/Cataclysm-DDA/pull/66080))
@@ -85,5 +86,4 @@
 * prefer \"\" over “” ([#66009](https://github.com/CleverRaven/Cataclysm-DDA/pull/66009))
 * Small typo fix ([#65987](https://github.com/CleverRaven/Cataclysm-DDA/pull/65987))
 * Routine i18n updates on 03 June 2023 ([#65978](https://github.com/CleverRaven/Cataclysm-DDA/pull/65978))
-* Reduce Helmet DPS ([#65969](https://github.com/CleverRaven/Cataclysm-DDA/pull/65969))
 * Debug grabbers are not hallu ([#65971](https://github.com/CleverRaven/Cataclysm-DDA/pull/65971))
