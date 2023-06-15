@@ -87,4 +87,3 @@
 * math_parser: improve handling of dialogue functions ([#65980](https://github.com/CleverRaven/Cataclysm-DDA/pull/65980))
 * prefer \"\" over “” ([#66009](https://github.com/CleverRaven/Cataclysm-DDA/pull/66009))
 * Small typo fix ([#65987](https://github.com/CleverRaven/Cataclysm-DDA/pull/65987))
-* Routine i18n updates on 03 June 2023 ([#65978](https://github.com/CleverRaven/Cataclysm-DDA/pull/65978))
