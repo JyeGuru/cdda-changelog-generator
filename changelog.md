@@ -1,3 +1,4 @@
+* Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
 * Pipe rifle update: Three new calibers & recipe nesting ([#66125](https://github.com/CleverRaven/Cataclysm-DDA/pull/66125))
 * Methanol production changes ([#66094](https://github.com/CleverRaven/Cataclysm-DDA/pull/66094))
 * [Magiclysm] Stormshaper Axe changes ([#66148](https://github.com/CleverRaven/Cataclysm-DDA/pull/66148))
@@ -72,7 +73,6 @@
 * eoc_math: validate all math types ([#66037](https://github.com/CleverRaven/Cataclysm-DDA/pull/66037))
 * Fix error spam on missing bionic_ids ([#66032](https://github.com/CleverRaven/Cataclysm-DDA/pull/66032))
 * Reduce tests output by trimming non-failing tests ([#66042](https://github.com/CleverRaven/Cataclysm-DDA/pull/66042))
-* Morvarchprincess/addknotweedtomorerecipies ([#65977](https://github.com/CleverRaven/Cataclysm-DDA/pull/65977))
 * Remove reference to cauterizing from soldering iron description and health care help text ([#66038](https://github.com/CleverRaven/Cataclysm-DDA/pull/66038))
 * Cache crafting speed's workbench multiplier ([#66018](https://github.com/CleverRaven/Cataclysm-DDA/pull/66018))
 * expand common items found in vehicles ([#66046](https://github.com/CleverRaven/Cataclysm-DDA/pull/66046))
