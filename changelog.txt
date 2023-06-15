@@ -1,3 +1,4 @@
+* Allow food to be heated in mess kit (#66214)
 * Woodlouse harvests for crustacean samples (#66204)
 * Fixed inability to disassemble laser turret in No Hope mod (#66210)
 * More test state resets (#66173)
