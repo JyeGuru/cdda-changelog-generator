@@ -1,3 +1,4 @@
+* Remove unfitting snippets (#66221)
 * Make hub01 globally unique (#66202)
 * Add obsidian config to the ignore list (#66206)
 * Changed order of fields to appease clang-tidy. (#66208)
@@ -84,7 +85,6 @@
 * expand common items found in vehicles (#66046)
 * Raise margin on albino focus loss test (#66029)
 * AFS single line typo (#66030)
-* Fix merch strap being old-currency (#65999)
 * Routine tileset updates on 04 June 2023 (#66012)
 * Order NPC to go to specific location (#66001)
 * prefer \"\" over “” (#66009)
