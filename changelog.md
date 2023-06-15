@@ -1,3 +1,4 @@
+* Woodlouse harvests for crustacean samples ([#66204](https://github.com/CleverRaven/Cataclysm-DDA/pull/66204))
 * Fixed inability to disassemble laser turret in No Hope mod ([#66210](https://github.com/CleverRaven/Cataclysm-DDA/pull/66210))
 * More test state resets ([#66173](https://github.com/CleverRaven/Cataclysm-DDA/pull/66173))
 * Add 12.3ln rounds to ammo pouches ([#66194](https://github.com/CleverRaven/Cataclysm-DDA/pull/66194))
@@ -86,4 +87,3 @@
 * NPC shooting improvement ([#65998](https://github.com/CleverRaven/Cataclysm-DDA/pull/65998))
 * Order NPC to go to specific location ([#66001](https://github.com/CleverRaven/Cataclysm-DDA/pull/66001))
 * prefer \"\" over “” ([#66009](https://github.com/CleverRaven/Cataclysm-DDA/pull/66009))
-* Small typo fix ([#65987](https://github.com/CleverRaven/Cataclysm-DDA/pull/65987))
