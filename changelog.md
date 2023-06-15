@@ -1,3 +1,4 @@
+* Add obsidian config to the ignore list ([#66206](https://github.com/CleverRaven/Cataclysm-DDA/pull/66206))
 * Changed order of fields to appease clang-tidy. ([#66208](https://github.com/CleverRaven/Cataclysm-DDA/pull/66208))
 * Allow food to be heated in mess kit ([#66214](https://github.com/CleverRaven/Cataclysm-DDA/pull/66214))
 * Woodlouse harvests for crustacean samples ([#66204](https://github.com/CleverRaven/Cataclysm-DDA/pull/66204))
@@ -80,7 +81,6 @@
 * Remove reference to cauterizing from soldering iron description and health care help text ([#66038](https://github.com/CleverRaven/Cataclysm-DDA/pull/66038))
 * Cache crafting speed's workbench multiplier ([#66018](https://github.com/CleverRaven/Cataclysm-DDA/pull/66018))
 * expand common items found in vehicles ([#66046](https://github.com/CleverRaven/Cataclysm-DDA/pull/66046))
-* Add deleting vehicles option to debug menu ([#65994](https://github.com/CleverRaven/Cataclysm-DDA/pull/65994))
 * Raise margin on albino focus loss test ([#66029](https://github.com/CleverRaven/Cataclysm-DDA/pull/66029))
 * AFS single line typo ([#66030](https://github.com/CleverRaven/Cataclysm-DDA/pull/66030))
 * Fix merch strap being old-currency ([#65999](https://github.com/CleverRaven/Cataclysm-DDA/pull/65999))
