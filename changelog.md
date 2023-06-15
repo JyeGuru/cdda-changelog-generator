@@ -1,3 +1,4 @@
+* Add 12.3ln rounds to ammo pouches ([#66194](https://github.com/CleverRaven/Cataclysm-DDA/pull/66194))
 * Fix tests failing on Aftershock + Generic Guns combo ([#66203](https://github.com/CleverRaven/Cataclysm-DDA/pull/66203))
 * Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
 * Pipe rifle update: Three new calibers & recipe nesting ([#66125](https://github.com/CleverRaven/Cataclysm-DDA/pull/66125))
@@ -23,7 +24,6 @@
 * Convert flexbuffer type to string in exceptions ([#66025](https://github.com/CleverRaven/Cataclysm-DDA/pull/66025))
 * Fix map::grow_plant debug message when seed item is not found ([#66054](https://github.com/CleverRaven/Cataclysm-DDA/pull/66054))
 * Fix creatures drawn above tall sprites ([#66055](https://github.com/CleverRaven/Cataclysm-DDA/pull/66055))
-* math_parser/eoc: port monsters_nearby() to math ([#65981](https://github.com/CleverRaven/Cataclysm-DDA/pull/65981))
 * Fix crash in veh_interact::do_install ([#66059](https://github.com/CleverRaven/Cataclysm-DDA/pull/66059))
 * Fix basecamp farm's "plow field" mission ([#66070](https://github.com/CleverRaven/Cataclysm-DDA/pull/66070))
 * tests: fix locale-dependent tests ([#66065](https://github.com/CleverRaven/Cataclysm-DDA/pull/66065))
