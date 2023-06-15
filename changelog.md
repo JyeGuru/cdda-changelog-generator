@@ -1,3 +1,4 @@
+* Changed order of fields to appease clang-tidy. ([#66208](https://github.com/CleverRaven/Cataclysm-DDA/pull/66208))
 * Allow food to be heated in mess kit ([#66214](https://github.com/CleverRaven/Cataclysm-DDA/pull/66214))
 * Woodlouse harvests for crustacean samples ([#66204](https://github.com/CleverRaven/Cataclysm-DDA/pull/66204))
 * Fixed inability to disassemble laser turret in No Hope mod ([#66210](https://github.com/CleverRaven/Cataclysm-DDA/pull/66210))
@@ -83,7 +84,6 @@
 * Raise margin on albino focus loss test ([#66029](https://github.com/CleverRaven/Cataclysm-DDA/pull/66029))
 * AFS single line typo ([#66030](https://github.com/CleverRaven/Cataclysm-DDA/pull/66030))
 * Fix merch strap being old-currency ([#65999](https://github.com/CleverRaven/Cataclysm-DDA/pull/65999))
-* Fix innawoods infinite portal storms ([#65992](https://github.com/CleverRaven/Cataclysm-DDA/pull/65992))
 * Routine tileset updates on 04 June 2023 ([#66012](https://github.com/CleverRaven/Cataclysm-DDA/pull/66012))
 * NPC shooting improvement ([#65998](https://github.com/CleverRaven/Cataclysm-DDA/pull/65998))
 * Order NPC to go to specific location ([#66001](https://github.com/CleverRaven/Cataclysm-DDA/pull/66001))
