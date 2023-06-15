@@ -1,3 +1,5 @@
+* Methanol production changes ([#66094](https://github.com/CleverRaven/Cataclysm-DDA/pull/66094))
+* [Magiclysm] Stormshaper Axe changes ([#66148](https://github.com/CleverRaven/Cataclysm-DDA/pull/66148))
 * Move gambesons to their own file ([#66183](https://github.com/CleverRaven/Cataclysm-DDA/pull/66183))
 * Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
 * Add Kel-Tec RDB and RFB ([#65974](https://github.com/CleverRaven/Cataclysm-DDA/pull/65974))
@@ -86,4 +88,3 @@
 * prefer \"\" over “” ([#66009](https://github.com/CleverRaven/Cataclysm-DDA/pull/66009))
 * Small typo fix ([#65987](https://github.com/CleverRaven/Cataclysm-DDA/pull/65987))
 * Routine i18n updates on 03 June 2023 ([#65978](https://github.com/CleverRaven/Cataclysm-DDA/pull/65978))
-* Debug grabbers are not hallu ([#65971](https://github.com/CleverRaven/Cataclysm-DDA/pull/65971))
