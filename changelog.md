@@ -1,3 +1,4 @@
+* Fix build with GCC 13 ([#66195](https://github.com/CleverRaven/Cataclysm-DDA/pull/66195))
 * parameterized livestock 2 palettes ([#66219](https://github.com/CleverRaven/Cataclysm-DDA/pull/66219))
 * Adding relevant recipe requirements to atomic butter ([#66209](https://github.com/CleverRaven/Cataclysm-DDA/pull/66209))
 * Military base OMT changes and uses roof palette ([#66225](https://github.com/CleverRaven/Cataclysm-DDA/pull/66225))
@@ -88,4 +89,3 @@
 * expand common items found in vehicles ([#66046](https://github.com/CleverRaven/Cataclysm-DDA/pull/66046))
 * Raise margin on albino focus loss test ([#66029](https://github.com/CleverRaven/Cataclysm-DDA/pull/66029))
 * AFS single line typo ([#66030](https://github.com/CleverRaven/Cataclysm-DDA/pull/66030))
-* Routine tileset updates on 04 June 2023 ([#66012](https://github.com/CleverRaven/Cataclysm-DDA/pull/66012))
