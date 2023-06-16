@@ -1,3 +1,4 @@
+* Fix welder pocket dimension ([#66234](https://github.com/CleverRaven/Cataclysm-DDA/pull/66234))
 * Refugee centre migration ([#66235](https://github.com/CleverRaven/Cataclysm-DDA/pull/66235))
 * gutter_unify tool ([#66140](https://github.com/CleverRaven/Cataclysm-DDA/pull/66140))
 * Mathify portal storm ([#66036](https://github.com/CleverRaven/Cataclysm-DDA/pull/66036))
@@ -79,7 +80,6 @@
 * Void Weaver adjustment set ([#66051](https://github.com/CleverRaven/Cataclysm-DDA/pull/66051))
 * [DinoMod] fix NPC gear ([#66062](https://github.com/CleverRaven/Cataclysm-DDA/pull/66062))
 * eoc_test: fix setup for EOC_recipe_test ([#66064](https://github.com/CleverRaven/Cataclysm-DDA/pull/66064))
-* tgz_archiver: get file size from ifstream ([#66028](https://github.com/CleverRaven/Cataclysm-DDA/pull/66028))
 * Faster stomach contents tests ([#66061](https://github.com/CleverRaven/Cataclysm-DDA/pull/66061))
 * Raise melee test margin ([#66069](https://github.com/CleverRaven/Cataclysm-DDA/pull/66069))
 * eoc_math: validate all math types ([#66037](https://github.com/CleverRaven/Cataclysm-DDA/pull/66037))

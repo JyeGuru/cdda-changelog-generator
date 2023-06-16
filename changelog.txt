@@ -1,3 +1,4 @@
+* Fix welder pocket dimension (#66234)
 * Refugee centre migration (#66235)
 * gutter_unify tool (#66140)
 * Mathify portal storm (#66036)
@@ -79,7 +80,6 @@
 * Void Weaver adjustment set (#66051)
 * [DinoMod] fix NPC gear (#66062)
 * eoc_test: fix setup for EOC_recipe_test (#66064)
-* tgz_archiver: get file size from ifstream (#66028)
 * Faster stomach contents tests (#66061)
 * Raise melee test margin (#66069)
 * eoc_math: validate all math types (#66037)
