@@ -85,6 +85,7 @@
 * Fix error spam on missing bionic_ids ([#66032](https://github.com/CleverRaven/Cataclysm-DDA/pull/66032))
 * Reduce tests output by trimming non-failing tests ([#66042](https://github.com/CleverRaven/Cataclysm-DDA/pull/66042))
 * Remove reference to cauterizing from soldering iron description and health care help text ([#66038](https://github.com/CleverRaven/Cataclysm-DDA/pull/66038))
+* Cache crafting speed's workbench multiplier ([#66018](https://github.com/CleverRaven/Cataclysm-DDA/pull/66018))
 * expand common items found in vehicles ([#66046](https://github.com/CleverRaven/Cataclysm-DDA/pull/66046))
 * Raise margin on albino focus loss test ([#66029](https://github.com/CleverRaven/Cataclysm-DDA/pull/66029))
 * AFS single line typo ([#66030](https://github.com/CleverRaven/Cataclysm-DDA/pull/66030))
