@@ -1,3 +1,4 @@
+* Adjusting the order in which players equip mecha weapons in mounting mech ([#66212](https://github.com/CleverRaven/Cataclysm-DDA/pull/66212))
 * Weaver adjustment set II ([#66223](https://github.com/CleverRaven/Cataclysm-DDA/pull/66223))
 * Tests tweaks ([#66228](https://github.com/CleverRaven/Cataclysm-DDA/pull/66228))
 * Make more tests independent of order ([#66231](https://github.com/CleverRaven/Cataclysm-DDA/pull/66231))
@@ -5,7 +6,6 @@
 * Fix welder pocket dimension ([#66234](https://github.com/CleverRaven/Cataclysm-DDA/pull/66234))
 * Refugee centre migration ([#66235](https://github.com/CleverRaven/Cataclysm-DDA/pull/66235))
 * gutter_unify tool ([#66140](https://github.com/CleverRaven/Cataclysm-DDA/pull/66140))
-* Mathify portal storm ([#66036](https://github.com/CleverRaven/Cataclysm-DDA/pull/66036))
 * Fix build with GCC 13 ([#66195](https://github.com/CleverRaven/Cataclysm-DDA/pull/66195))
 * parameterized livestock 2 palettes ([#66219](https://github.com/CleverRaven/Cataclysm-DDA/pull/66219))
 * Adding relevant recipe requirements to atomic butter ([#66209](https://github.com/CleverRaven/Cataclysm-DDA/pull/66209))
