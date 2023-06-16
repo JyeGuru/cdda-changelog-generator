@@ -1,3 +1,4 @@
+* Refugee centre migration ([#66235](https://github.com/CleverRaven/Cataclysm-DDA/pull/66235))
 * gutter_unify tool ([#66140](https://github.com/CleverRaven/Cataclysm-DDA/pull/66140))
 * Mathify portal storm ([#66036](https://github.com/CleverRaven/Cataclysm-DDA/pull/66036))
 * Fix build with GCC 13 ([#66195](https://github.com/CleverRaven/Cataclysm-DDA/pull/66195))
@@ -34,7 +35,6 @@
 * Add auto-labeling for defense mode PRs ([#66187](https://github.com/CleverRaven/Cataclysm-DDA/pull/66187))
 * added zombie sheep and goat ([#66155](https://github.com/CleverRaven/Cataclysm-DDA/pull/66155))
 * [Xedra Evolved] Another batch of random fixes and improvements ([#66136](https://github.com/CleverRaven/Cataclysm-DDA/pull/66136))
-* Convert flexbuffer type to string in exceptions ([#66025](https://github.com/CleverRaven/Cataclysm-DDA/pull/66025))
 * Fix map::grow_plant debug message when seed item is not found ([#66054](https://github.com/CleverRaven/Cataclysm-DDA/pull/66054))
 * Fix creatures drawn above tall sprites ([#66055](https://github.com/CleverRaven/Cataclysm-DDA/pull/66055))
 * Fix crash in veh_interact::do_install ([#66059](https://github.com/CleverRaven/Cataclysm-DDA/pull/66059))
