@@ -1,3 +1,4 @@
+* Add M3 submachine gun ([#66076](https://github.com/CleverRaven/Cataclysm-DDA/pull/66076))
 * Adjusting the order in which players equip mecha weapons in mounting mech ([#66212](https://github.com/CleverRaven/Cataclysm-DDA/pull/66212))
 * Weaver adjustment set II ([#66223](https://github.com/CleverRaven/Cataclysm-DDA/pull/66223))
 * Tests tweaks ([#66228](https://github.com/CleverRaven/Cataclysm-DDA/pull/66228))
@@ -85,7 +86,6 @@
 * eoc_test: fix setup for EOC_recipe_test ([#66064](https://github.com/CleverRaven/Cataclysm-DDA/pull/66064))
 * Faster stomach contents tests ([#66061](https://github.com/CleverRaven/Cataclysm-DDA/pull/66061))
 * Raise melee test margin ([#66069](https://github.com/CleverRaven/Cataclysm-DDA/pull/66069))
-* eoc_math: validate all math types ([#66037](https://github.com/CleverRaven/Cataclysm-DDA/pull/66037))
 * Reduce tests output by trimming non-failing tests ([#66042](https://github.com/CleverRaven/Cataclysm-DDA/pull/66042))
 * Remove reference to cauterizing from soldering iron description and health care help text ([#66038](https://github.com/CleverRaven/Cataclysm-DDA/pull/66038))
 * expand common items found in vehicles ([#66046](https://github.com/CleverRaven/Cataclysm-DDA/pull/66046))
