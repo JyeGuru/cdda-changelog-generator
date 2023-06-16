@@ -1,3 +1,5 @@
+* Adding relevant recipe requirements to atomic butter ([#66209](https://github.com/CleverRaven/Cataclysm-DDA/pull/66209))
+* Military base OMT changes and uses roof palette ([#66225](https://github.com/CleverRaven/Cataclysm-DDA/pull/66225))
 * Remove unfitting snippets ([#66221](https://github.com/CleverRaven/Cataclysm-DDA/pull/66221))
 * Make hub01 globally unique ([#66202](https://github.com/CleverRaven/Cataclysm-DDA/pull/66202))
 * Add obsidian config to the ignore list ([#66206](https://github.com/CleverRaven/Cataclysm-DDA/pull/66206))
@@ -86,5 +88,4 @@
 * Raise margin on albino focus loss test ([#66029](https://github.com/CleverRaven/Cataclysm-DDA/pull/66029))
 * AFS single line typo ([#66030](https://github.com/CleverRaven/Cataclysm-DDA/pull/66030))
 * Routine tileset updates on 04 June 2023 ([#66012](https://github.com/CleverRaven/Cataclysm-DDA/pull/66012))
-* Order NPC to go to specific location ([#66001](https://github.com/CleverRaven/Cataclysm-DDA/pull/66001))
 * prefer \"\" over “” ([#66009](https://github.com/CleverRaven/Cataclysm-DDA/pull/66009))
