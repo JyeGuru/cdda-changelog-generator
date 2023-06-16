@@ -87,5 +87,4 @@
 * Faster stomach contents tests (#66061)
 * Raise melee test margin (#66069)
 * Reduce tests output by trimming non-failing tests (#66042)
-* Remove reference to cauterizing from soldering iron description and health care help text (#66038)
 * expand common items found in vehicles (#66046)
