@@ -1,3 +1,4 @@
+* Space samurai armour ([#66230](https://github.com/CleverRaven/Cataclysm-DDA/pull/66230))
 * Normalize TEST_CASE names ([#66241](https://github.com/CleverRaven/Cataclysm-DDA/pull/66241))
 * Better cache vehicle mass center ([#66188](https://github.com/CleverRaven/Cataclysm-DDA/pull/66188))
 * more police armory adjustments ([#66239](https://github.com/CleverRaven/Cataclysm-DDA/pull/66239))
@@ -52,7 +53,6 @@
 * added zombie sheep and goat ([#66155](https://github.com/CleverRaven/Cataclysm-DDA/pull/66155))
 * [Xedra Evolved] Another batch of random fixes and improvements ([#66136](https://github.com/CleverRaven/Cataclysm-DDA/pull/66136))
 * Fix basecamp farm's "plow field" mission ([#66070](https://github.com/CleverRaven/Cataclysm-DDA/pull/66070))
-* tests: fix locale-dependent tests ([#66065](https://github.com/CleverRaven/Cataclysm-DDA/pull/66065))
 * Make turret cpu npc persistent ([#66085](https://github.com/CleverRaven/Cataclysm-DDA/pull/66085))
 * Enable death effects on limited lifespan monsters ([#66118](https://github.com/CleverRaven/Cataclysm-DDA/pull/66118))
 * reduce action cost of helmets flashlight pocket ([#66102](https://github.com/CleverRaven/Cataclysm-DDA/pull/66102))
