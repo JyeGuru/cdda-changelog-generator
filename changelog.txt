@@ -1,3 +1,4 @@
+* Update references to old mapgen ids (#66115)
 * Legs dehardcode for walking (#66079)
 * Weekly Changelog 2023-06-05 to 2023-06-12 (#66149)
 * adjust bedding spawn weighting (#66243)
@@ -45,7 +46,6 @@
 * Add auto-labeling for defense mode PRs (#66187)
 * added zombie sheep and goat (#66155)
 * [Xedra Evolved] Another batch of random fixes and improvements (#66136)
-* Fix creatures drawn above tall sprites (#66055)
 * Fix crash in veh_interact::do_install (#66059)
 * Fix basecamp farm's "plow field" mission (#66070)
 * tests: fix locale-dependent tests (#66065)
