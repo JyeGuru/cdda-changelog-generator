@@ -1,3 +1,4 @@
+* Gutty Unify Tool Part 1 ([#66236](https://github.com/CleverRaven/Cataclysm-DDA/pull/66236))
 * EOC Selector ([#66222](https://github.com/CleverRaven/Cataclysm-DDA/pull/66222))
 * check last_world_pos before deleteing world ([#66171](https://github.com/CleverRaven/Cataclysm-DDA/pull/66171))
 * Refactor timer items to be a bit more time based ([#66161](https://github.com/CleverRaven/Cataclysm-DDA/pull/66161))
@@ -9,7 +10,6 @@
 * More refugee centre migration ([#66254](https://github.com/CleverRaven/Cataclysm-DDA/pull/66254))
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
 * Update references to old mapgen ids ([#66115](https://github.com/CleverRaven/Cataclysm-DDA/pull/66115))
-* Legs dehardcode for walking ([#66079](https://github.com/CleverRaven/Cataclysm-DDA/pull/66079))
 * Weekly Changelog 2023-06-05 to 2023-06-12 ([#66149](https://github.com/CleverRaven/Cataclysm-DDA/pull/66149))
 * adjust bedding spawn weighting ([#66243](https://github.com/CleverRaven/Cataclysm-DDA/pull/66243))
 * palettized storehouse expansion 2 ([#66240](https://github.com/CleverRaven/Cataclysm-DDA/pull/66240))
