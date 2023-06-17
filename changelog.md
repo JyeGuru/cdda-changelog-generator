@@ -1,3 +1,4 @@
+* Better cache vehicle mass center ([#66188](https://github.com/CleverRaven/Cataclysm-DDA/pull/66188))
 * more police armory adjustments ([#66239](https://github.com/CleverRaven/Cataclysm-DDA/pull/66239))
 * More refugee centre migration ([#66254](https://github.com/CleverRaven/Cataclysm-DDA/pull/66254))
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
@@ -85,6 +86,5 @@
 * [BombasticPerks] remove dead code ([#66097](https://github.com/CleverRaven/Cataclysm-DDA/pull/66097))
 * Routine i18n updates on 10 June 2023 ([#66106](https://github.com/CleverRaven/Cataclysm-DDA/pull/66106))
 * Fix vitamins test flaking out, fingers crossed ([#66083](https://github.com/CleverRaven/Cataclysm-DDA/pull/66083))
-* [DinoMod] fix NPC gear ([#66062](https://github.com/CleverRaven/Cataclysm-DDA/pull/66062))
 * eoc_test: fix setup for EOC_recipe_test ([#66064](https://github.com/CleverRaven/Cataclysm-DDA/pull/66064))
 * Raise melee test margin ([#66069](https://github.com/CleverRaven/Cataclysm-DDA/pull/66069))
