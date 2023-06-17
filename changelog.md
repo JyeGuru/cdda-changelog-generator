@@ -1,3 +1,4 @@
+* EOC Selector ([#66222](https://github.com/CleverRaven/Cataclysm-DDA/pull/66222))
 * check last_world_pos before deleteing world ([#66171](https://github.com/CleverRaven/Cataclysm-DDA/pull/66171))
 * Refactor timer items to be a bit more time based ([#66161](https://github.com/CleverRaven/Cataclysm-DDA/pull/66161))
 * Nested EOC Variable Resolution ([#66138](https://github.com/CleverRaven/Cataclysm-DDA/pull/66138))
@@ -12,7 +13,6 @@
 * Weekly Changelog 2023-06-05 to 2023-06-12 ([#66149](https://github.com/CleverRaven/Cataclysm-DDA/pull/66149))
 * adjust bedding spawn weighting ([#66243](https://github.com/CleverRaven/Cataclysm-DDA/pull/66243))
 * palettized storehouse expansion 2 ([#66240](https://github.com/CleverRaven/Cataclysm-DDA/pull/66240))
-* Add M3 submachine gun ([#66076](https://github.com/CleverRaven/Cataclysm-DDA/pull/66076))
 * Adjusting the order in which players equip mecha weapons in mounting mech ([#66212](https://github.com/CleverRaven/Cataclysm-DDA/pull/66212))
 * Weaver adjustment set II ([#66223](https://github.com/CleverRaven/Cataclysm-DDA/pull/66223))
 * Tests tweaks ([#66228](https://github.com/CleverRaven/Cataclysm-DDA/pull/66228))
