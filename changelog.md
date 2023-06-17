@@ -1,3 +1,4 @@
+* fix uninitialized field in damage_info_order ([#66132](https://github.com/CleverRaven/Cataclysm-DDA/pull/66132))
 * Clear up description of WATERPROOF flag ([#66257](https://github.com/CleverRaven/Cataclysm-DDA/pull/66257))
 * Default to first scenario if Generic is blacklisted ([#66245](https://github.com/CleverRaven/Cataclysm-DDA/pull/66245))
 * Gutty Unify Tool Part 1 ([#66236](https://github.com/CleverRaven/Cataclysm-DDA/pull/66236))
@@ -88,4 +89,3 @@
 * Cache Character's radiation leak level ([#66112](https://github.com/CleverRaven/Cataclysm-DDA/pull/66112))
 * [BombasticPerks] remove dead code ([#66097](https://github.com/CleverRaven/Cataclysm-DDA/pull/66097))
 * Routine i18n updates on 10 June 2023 ([#66106](https://github.com/CleverRaven/Cataclysm-DDA/pull/66106))
-* Fix vitamins test flaking out, fingers crossed ([#66083](https://github.com/CleverRaven/Cataclysm-DDA/pull/66083))
