@@ -1,3 +1,4 @@
+* Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
 * Update references to old mapgen ids ([#66115](https://github.com/CleverRaven/Cataclysm-DDA/pull/66115))
 * Legs dehardcode for walking ([#66079](https://github.com/CleverRaven/Cataclysm-DDA/pull/66079))
 * Weekly Changelog 2023-06-05 to 2023-06-12 ([#66149](https://github.com/CleverRaven/Cataclysm-DDA/pull/66149))
@@ -83,7 +84,6 @@
 * [BombasticPerks] remove dead code ([#66097](https://github.com/CleverRaven/Cataclysm-DDA/pull/66097))
 * Routine i18n updates on 10 June 2023 ([#66106](https://github.com/CleverRaven/Cataclysm-DDA/pull/66106))
 * Fix vitamins test flaking out, fingers crossed ([#66083](https://github.com/CleverRaven/Cataclysm-DDA/pull/66083))
-* Give range bonuses to 9mm smgs ([#66056](https://github.com/CleverRaven/Cataclysm-DDA/pull/66056))
 * [DinoMod] fix NPC gear ([#66062](https://github.com/CleverRaven/Cataclysm-DDA/pull/66062))
 * eoc_test: fix setup for EOC_recipe_test ([#66064](https://github.com/CleverRaven/Cataclysm-DDA/pull/66064))
 * Faster stomach contents tests ([#66061](https://github.com/CleverRaven/Cataclysm-DDA/pull/66061))
