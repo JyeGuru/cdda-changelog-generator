@@ -85,7 +85,6 @@
 * Crashing ship polish (#66130)
 * Badges don't cover anything again (#66107)
 * Cache Character's radiation leak level (#66112)
-* Give swimmer DISIMMUNE trait in swim test (#66078)
 * [BombasticPerks] remove dead code (#66097)
 * Routine i18n updates on 10 June 2023 (#66106)
 * Fix vitamins test flaking out, fingers crossed (#66083)
