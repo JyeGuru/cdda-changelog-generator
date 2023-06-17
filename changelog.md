@@ -1,3 +1,4 @@
+* Legs dehardcode for walking ([#66079](https://github.com/CleverRaven/Cataclysm-DDA/pull/66079))
 * Weekly Changelog 2023-06-05 to 2023-06-12 ([#66149](https://github.com/CleverRaven/Cataclysm-DDA/pull/66149))
 * adjust bedding spawn weighting ([#66243](https://github.com/CleverRaven/Cataclysm-DDA/pull/66243))
 * palettized storehouse expansion 2 ([#66240](https://github.com/CleverRaven/Cataclysm-DDA/pull/66240))
@@ -44,7 +45,6 @@
 * Add auto-labeling for defense mode PRs ([#66187](https://github.com/CleverRaven/Cataclysm-DDA/pull/66187))
 * added zombie sheep and goat ([#66155](https://github.com/CleverRaven/Cataclysm-DDA/pull/66155))
 * [Xedra Evolved] Another batch of random fixes and improvements ([#66136](https://github.com/CleverRaven/Cataclysm-DDA/pull/66136))
-* Fix map::grow_plant debug message when seed item is not found ([#66054](https://github.com/CleverRaven/Cataclysm-DDA/pull/66054))
 * Fix creatures drawn above tall sprites ([#66055](https://github.com/CleverRaven/Cataclysm-DDA/pull/66055))
 * Fix crash in veh_interact::do_install ([#66059](https://github.com/CleverRaven/Cataclysm-DDA/pull/66059))
 * Fix basecamp farm's "plow field" mission ([#66070](https://github.com/CleverRaven/Cataclysm-DDA/pull/66070))
