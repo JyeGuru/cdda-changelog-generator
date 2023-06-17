@@ -1,3 +1,4 @@
+* Normalize TEST_CASE names (#66241)
 * Better cache vehicle mass center (#66188)
 * more police armory adjustments (#66239)
 * More refugee centre migration (#66254)
@@ -86,5 +87,4 @@
 * [BombasticPerks] remove dead code (#66097)
 * Routine i18n updates on 10 June 2023 (#66106)
 * Fix vitamins test flaking out, fingers crossed (#66083)
-* eoc_test: fix setup for EOC_recipe_test (#66064)
 * Raise melee test margin (#66069)
