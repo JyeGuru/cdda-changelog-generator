@@ -1,3 +1,4 @@
+* Test tweaks for less order dependency ([#66253](https://github.com/CleverRaven/Cataclysm-DDA/pull/66253))
 * Living lore ([#66238](https://github.com/CleverRaven/Cataclysm-DDA/pull/66238))
 * Minor vehicle tweaks ([#66252](https://github.com/CleverRaven/Cataclysm-DDA/pull/66252))
 * fix uninitialized field in damage_info_order ([#66132](https://github.com/CleverRaven/Cataclysm-DDA/pull/66132))
