@@ -1,3 +1,4 @@
+* More refugee centre migration ([#66254](https://github.com/CleverRaven/Cataclysm-DDA/pull/66254))
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
 * Update references to old mapgen ids ([#66115](https://github.com/CleverRaven/Cataclysm-DDA/pull/66115))
 * Legs dehardcode for walking ([#66079](https://github.com/CleverRaven/Cataclysm-DDA/pull/66079))
@@ -47,7 +48,6 @@
 * Add auto-labeling for defense mode PRs ([#66187](https://github.com/CleverRaven/Cataclysm-DDA/pull/66187))
 * added zombie sheep and goat ([#66155](https://github.com/CleverRaven/Cataclysm-DDA/pull/66155))
 * [Xedra Evolved] Another batch of random fixes and improvements ([#66136](https://github.com/CleverRaven/Cataclysm-DDA/pull/66136))
-* Fix crash in veh_interact::do_install ([#66059](https://github.com/CleverRaven/Cataclysm-DDA/pull/66059))
 * Fix basecamp farm's "plow field" mission ([#66070](https://github.com/CleverRaven/Cataclysm-DDA/pull/66070))
 * tests: fix locale-dependent tests ([#66065](https://github.com/CleverRaven/Cataclysm-DDA/pull/66065))
 * Make turret cpu npc persistent ([#66085](https://github.com/CleverRaven/Cataclysm-DDA/pull/66085))
