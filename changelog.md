@@ -1,3 +1,5 @@
+* Clear up description of WATERPROOF flag ([#66257](https://github.com/CleverRaven/Cataclysm-DDA/pull/66257))
+* Default to first scenario if Generic is blacklisted ([#66245](https://github.com/CleverRaven/Cataclysm-DDA/pull/66245))
 * Gutty Unify Tool Part 1 ([#66236](https://github.com/CleverRaven/Cataclysm-DDA/pull/66236))
 * EOC Selector ([#66222](https://github.com/CleverRaven/Cataclysm-DDA/pull/66222))
 * check last_world_pos before deleteing world ([#66171](https://github.com/CleverRaven/Cataclysm-DDA/pull/66171))
@@ -41,7 +43,6 @@
 * [Magiclysm] Stormshaper Axe changes ([#66148](https://github.com/CleverRaven/Cataclysm-DDA/pull/66148))
 * Move gambesons to their own file ([#66183](https://github.com/CleverRaven/Cataclysm-DDA/pull/66183))
 * Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
-* Outdated military helmets ([#66080](https://github.com/CleverRaven/Cataclysm-DDA/pull/66080))
 * Balance firestarter skill gain for long move costs ([#66121](https://github.com/CleverRaven/Cataclysm-DDA/pull/66121))
 * Standardise Special Terrain ([#66123](https://github.com/CleverRaven/Cataclysm-DDA/pull/66123))
 * fix one station having more ammo than it ought to have ([#66152](https://github.com/CleverRaven/Cataclysm-DDA/pull/66152))
