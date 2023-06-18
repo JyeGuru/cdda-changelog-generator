@@ -4,7 +4,7 @@
 * fix uninitialized field in damage_info_order ([#66132](https://github.com/CleverRaven/Cataclysm-DDA/pull/66132))
 * Clear up description of WATERPROOF flag ([#66257](https://github.com/CleverRaven/Cataclysm-DDA/pull/66257))
 * Default to first scenario if Generic is blacklisted ([#66245](https://github.com/CleverRaven/Cataclysm-DDA/pull/66245))
-* Gutty Unify Tool Part 1 ([#66236](https://github.com/CleverRaven/Cataclysm-DDA/pull/66236))
+* Gutter Unify Tool Part 1 ([#66236](https://github.com/CleverRaven/Cataclysm-DDA/pull/66236))
 * EOC Selector ([#66222](https://github.com/CleverRaven/Cataclysm-DDA/pull/66222))
 * check last_world_pos before deleteing world ([#66171](https://github.com/CleverRaven/Cataclysm-DDA/pull/66171))
 * Refactor timer items to be a bit more time based ([#66161](https://github.com/CleverRaven/Cataclysm-DDA/pull/66161))
