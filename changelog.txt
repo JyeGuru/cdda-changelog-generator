@@ -1,3 +1,4 @@
+* Hotfix for #66273 (#66287)
 * reduce police roadblock monster spawns (#66266)
 * reduce loot in cars a bit (#66267)
 * [Bombasticperks] Tiny fix (#66274)

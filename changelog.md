@@ -1,3 +1,4 @@
+* Hotfix for #66273 ([#66287](https://github.com/CleverRaven/Cataclysm-DDA/pull/66287))
 * reduce police roadblock monster spawns ([#66266](https://github.com/CleverRaven/Cataclysm-DDA/pull/66266))
 * reduce loot in cars a bit ([#66267](https://github.com/CleverRaven/Cataclysm-DDA/pull/66267))
 * [Bombasticperks] Tiny fix ([#66274](https://github.com/CleverRaven/Cataclysm-DDA/pull/66274))
