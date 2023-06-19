@@ -85,7 +85,6 @@
 * Give myself confirmation perms (#66145)
 * Routine tileset updates on 11 June 2023 (#66146)
 * Add new AR-10 magazines (#66133)
-* Update flammability of some items (#66116)
 * [Xedra Evolved] Deduction skill books (#66117)
 * Potential fix for nether monster error on chunk placement failure (#66119)
 * Make the kerosene recipe more accurate (#66124)
