@@ -1,3 +1,4 @@
+* Ignored .sav extention in file path until we get to the filename. ([#66293](https://github.com/CleverRaven/Cataclysm-DDA/pull/66293))
 * Refresh map cache at point in DefaultRemovePartHandler ([#66281](https://github.com/CleverRaven/Cataclysm-DDA/pull/66281))
 * Fix clang-tidy check ([#66308](https://github.com/CleverRaven/Cataclysm-DDA/pull/66308))
 * Gutter Unify Tool Part 2 ([#66313](https://github.com/CleverRaven/Cataclysm-DDA/pull/66313))
@@ -61,7 +62,6 @@
 * Add 12.3ln rounds to ammo pouches ([#66194](https://github.com/CleverRaven/Cataclysm-DDA/pull/66194))
 * Fix tests failing on Aftershock + Generic Guns combo ([#66203](https://github.com/CleverRaven/Cataclysm-DDA/pull/66203))
 * Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
-* Pipe rifle update: Three new calibers & recipe nesting ([#66125](https://github.com/CleverRaven/Cataclysm-DDA/pull/66125))
 * [Magiclysm] Stormshaper Axe changes ([#66148](https://github.com/CleverRaven/Cataclysm-DDA/pull/66148))
 * Move gambesons to their own file ([#66183](https://github.com/CleverRaven/Cataclysm-DDA/pull/66183))
 * Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
