@@ -1,3 +1,4 @@
+* Revert 4x4_car ram change ([#66309](https://github.com/CleverRaven/Cataclysm-DDA/pull/66309))
 * Routine tileset updates on 18 June 2023 ([#66296](https://github.com/CleverRaven/Cataclysm-DDA/pull/66296))
 * Add a generic shotgun to Aftershock ([#66268](https://github.com/CleverRaven/Cataclysm-DDA/pull/66268))
 * NRE recorder captures data in Close and distant storms ([#66265](https://github.com/CleverRaven/Cataclysm-DDA/pull/66265))
@@ -85,7 +86,6 @@
 * Give myself confirmation perms ([#66145](https://github.com/CleverRaven/Cataclysm-DDA/pull/66145))
 * Routine tileset updates on 11 June 2023 ([#66146](https://github.com/CleverRaven/Cataclysm-DDA/pull/66146))
 * Add new AR-10 magazines ([#66133](https://github.com/CleverRaven/Cataclysm-DDA/pull/66133))
-* [Xedra Evolved] Deduction skill books ([#66117](https://github.com/CleverRaven/Cataclysm-DDA/pull/66117))
 * Potential fix for nether monster error on chunk placement failure ([#66119](https://github.com/CleverRaven/Cataclysm-DDA/pull/66119))
 * Make the kerosene recipe more accurate ([#66124](https://github.com/CleverRaven/Cataclysm-DDA/pull/66124))
 * Crashing ship polish ([#66130](https://github.com/CleverRaven/Cataclysm-DDA/pull/66130))
