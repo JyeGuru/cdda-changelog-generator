@@ -1,3 +1,4 @@
+* Routine tileset updates on 18 June 2023 ([#66296](https://github.com/CleverRaven/Cataclysm-DDA/pull/66296))
 * Add a generic shotgun to Aftershock ([#66268](https://github.com/CleverRaven/Cataclysm-DDA/pull/66268))
 * NRE recorder captures data in Close and distant storms ([#66265](https://github.com/CleverRaven/Cataclysm-DDA/pull/66265))
 * Add titanis walleri from Aftershock to Megafauna, small Megafauna fixes ([#66244](https://github.com/CleverRaven/Cataclysm-DDA/pull/66244))
@@ -27,7 +28,6 @@
 * more police armory adjustments ([#66239](https://github.com/CleverRaven/Cataclysm-DDA/pull/66239))
 * More refugee centre migration ([#66254](https://github.com/CleverRaven/Cataclysm-DDA/pull/66254))
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
-* Update references to old mapgen ids ([#66115](https://github.com/CleverRaven/Cataclysm-DDA/pull/66115))
 * Weekly Changelog 2023-06-05 to 2023-06-12 ([#66149](https://github.com/CleverRaven/Cataclysm-DDA/pull/66149))
 * adjust bedding spawn weighting ([#66243](https://github.com/CleverRaven/Cataclysm-DDA/pull/66243))
 * palettized storehouse expansion 2 ([#66240](https://github.com/CleverRaven/Cataclysm-DDA/pull/66240))
