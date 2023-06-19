@@ -1,3 +1,4 @@
+* Add a generic shotgun to Aftershock (#66268)
 * NRE recorder captures data in Close and distant storms (#66265)
 * Add titanis walleri from Aftershock to Megafauna, small Megafauna fixes (#66244)
 * Very minor roadstop/subway ramp OMT fix (#66284)
@@ -89,4 +90,3 @@
 * Potential fix for nether monster error on chunk placement failure (#66119)
 * Make the kerosene recipe more accurate (#66124)
 * Crashing ship polish (#66130)
-* Cache Character's radiation leak level (#66112)

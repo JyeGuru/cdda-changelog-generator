@@ -1,3 +1,4 @@
+* Add a generic shotgun to Aftershock ([#66268](https://github.com/CleverRaven/Cataclysm-DDA/pull/66268))
 * NRE recorder captures data in Close and distant storms ([#66265](https://github.com/CleverRaven/Cataclysm-DDA/pull/66265))
 * Add titanis walleri from Aftershock to Megafauna, small Megafauna fixes ([#66244](https://github.com/CleverRaven/Cataclysm-DDA/pull/66244))
 * Very minor roadstop/subway ramp OMT fix ([#66284](https://github.com/CleverRaven/Cataclysm-DDA/pull/66284))
@@ -89,4 +90,3 @@
 * Potential fix for nether monster error on chunk placement failure ([#66119](https://github.com/CleverRaven/Cataclysm-DDA/pull/66119))
 * Make the kerosene recipe more accurate ([#66124](https://github.com/CleverRaven/Cataclysm-DDA/pull/66124))
 * Crashing ship polish ([#66130](https://github.com/CleverRaven/Cataclysm-DDA/pull/66130))
-* Cache Character's radiation leak level ([#66112](https://github.com/CleverRaven/Cataclysm-DDA/pull/66112))
