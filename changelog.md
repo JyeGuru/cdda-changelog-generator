@@ -76,7 +76,6 @@
 * vehicle_wrench => vehicle_wrench_2 in rams ([#66168](https://github.com/CleverRaven/Cataclysm-DDA/pull/66168))
 * Rename `No Fungal Growth` mod to `Slowdown Fungal Growth` ([#66135](https://github.com/CleverRaven/Cataclysm-DDA/pull/66135))
 * Delete cground.json ([#66158](https://github.com/CleverRaven/Cataclysm-DDA/pull/66158))
-* Roof Palette Porting ([#66105](https://github.com/CleverRaven/Cataclysm-DDA/pull/66105))
 * Shorten molt effect descriptions ([#66154](https://github.com/CleverRaven/Cataclysm-DDA/pull/66154))
 * Give myself confirmation perms ([#66145](https://github.com/CleverRaven/Cataclysm-DDA/pull/66145))
 * Routine tileset updates on 11 June 2023 ([#66146](https://github.com/CleverRaven/Cataclysm-DDA/pull/66146))
