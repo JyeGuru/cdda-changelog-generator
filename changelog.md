@@ -1,3 +1,5 @@
+* Very minor roadstop/subway ramp OMT fix ([#66284](https://github.com/CleverRaven/Cataclysm-DDA/pull/66284))
+* Very minor pillow fort fix ([#66285](https://github.com/CleverRaven/Cataclysm-DDA/pull/66285))
 * Hotfix for #66273 ([#66287](https://github.com/CleverRaven/Cataclysm-DDA/pull/66287))
 * reduce police roadblock monster spawns ([#66266](https://github.com/CleverRaven/Cataclysm-DDA/pull/66266))
 * reduce loot in cars a bit ([#66267](https://github.com/CleverRaven/Cataclysm-DDA/pull/66267))
@@ -87,6 +89,4 @@
 * Potential fix for nether monster error on chunk placement failure ([#66119](https://github.com/CleverRaven/Cataclysm-DDA/pull/66119))
 * Make the kerosene recipe more accurate ([#66124](https://github.com/CleverRaven/Cataclysm-DDA/pull/66124))
 * Crashing ship polish ([#66130](https://github.com/CleverRaven/Cataclysm-DDA/pull/66130))
-* Badges don't cover anything again ([#66107](https://github.com/CleverRaven/Cataclysm-DDA/pull/66107))
 * Cache Character's radiation leak level ([#66112](https://github.com/CleverRaven/Cataclysm-DDA/pull/66112))
-* Routine i18n updates on 10 June 2023 ([#66106](https://github.com/CleverRaven/Cataclysm-DDA/pull/66106))
