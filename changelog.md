@@ -1,3 +1,4 @@
+* Fix large sprites not displaying correctly ([#66332](https://github.com/CleverRaven/Cataclysm-DDA/pull/66332))
 * Exclude tools/spell_checker/dictionary.txt from auto-request-review config ([#66335](https://github.com/CleverRaven/Cataclysm-DDA/pull/66335))
 * Various perf improvements ([#66333](https://github.com/CleverRaven/Cataclysm-DDA/pull/66333))
 * Typo fix ([#66329](https://github.com/CleverRaven/Cataclysm-DDA/pull/66329))
@@ -88,4 +89,3 @@
 * Shorten molt effect descriptions ([#66154](https://github.com/CleverRaven/Cataclysm-DDA/pull/66154))
 * Give myself confirmation perms ([#66145](https://github.com/CleverRaven/Cataclysm-DDA/pull/66145))
 * Routine tileset updates on 11 June 2023 ([#66146](https://github.com/CleverRaven/Cataclysm-DDA/pull/66146))
-* Add new AR-10 magazines ([#66133](https://github.com/CleverRaven/Cataclysm-DDA/pull/66133))
