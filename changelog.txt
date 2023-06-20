@@ -76,6 +76,7 @@
 * Add auto-labeling for defense mode PRs (#66187)
 * added zombie sheep and goat (#66155)
 * [Xedra Evolved] Another batch of random fixes and improvements (#66136)
+* Small changes: to improve perf (#66127)
 * Speed up vehicle interact menu opening time (#66153)
 * [Innawood] Fix for arsonist's quest (#66157)
 * Clear more avatar state in clear_avatar() (#66164)

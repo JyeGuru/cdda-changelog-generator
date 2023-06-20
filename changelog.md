@@ -76,6 +76,7 @@
 * Add auto-labeling for defense mode PRs ([#66187](https://github.com/CleverRaven/Cataclysm-DDA/pull/66187))
 * added zombie sheep and goat ([#66155](https://github.com/CleverRaven/Cataclysm-DDA/pull/66155))
 * [Xedra Evolved] Another batch of random fixes and improvements ([#66136](https://github.com/CleverRaven/Cataclysm-DDA/pull/66136))
+* Small changes: to improve perf ([#66127](https://github.com/CleverRaven/Cataclysm-DDA/pull/66127))
 * Speed up vehicle interact menu opening time ([#66153](https://github.com/CleverRaven/Cataclysm-DDA/pull/66153))
 * [Innawood] Fix for arsonist's quest ([#66157](https://github.com/CleverRaven/Cataclysm-DDA/pull/66157))
 * Clear more avatar state in clear_avatar() ([#66164](https://github.com/CleverRaven/Cataclysm-DDA/pull/66164))
