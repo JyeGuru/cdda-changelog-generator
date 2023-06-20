@@ -1,3 +1,4 @@
+* Exclude tools/spell_checker/dictionary.txt from auto-request-review config ([#66335](https://github.com/CleverRaven/Cataclysm-DDA/pull/66335))
 * Various perf improvements ([#66333](https://github.com/CleverRaven/Cataclysm-DDA/pull/66333))
 * Typo fix ([#66329](https://github.com/CleverRaven/Cataclysm-DDA/pull/66329))
 * Ignored .sav extention in file path until we get to the filename. ([#66293](https://github.com/CleverRaven/Cataclysm-DDA/pull/66293))
@@ -24,7 +25,6 @@
 * Test tweaks for less order dependency ([#66253](https://github.com/CleverRaven/Cataclysm-DDA/pull/66253))
 * Living lore ([#66238](https://github.com/CleverRaven/Cataclysm-DDA/pull/66238))
 * Minor vehicle tweaks ([#66252](https://github.com/CleverRaven/Cataclysm-DDA/pull/66252))
-* fix uninitialized field in damage_info_order ([#66132](https://github.com/CleverRaven/Cataclysm-DDA/pull/66132))
 * Clear up description of WATERPROOF flag ([#66257](https://github.com/CleverRaven/Cataclysm-DDA/pull/66257))
 * Default to first scenario if Generic is blacklisted ([#66245](https://github.com/CleverRaven/Cataclysm-DDA/pull/66245))
 * Gutter Unify Tool Part 1 ([#66236](https://github.com/CleverRaven/Cataclysm-DDA/pull/66236))
