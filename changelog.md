@@ -1,3 +1,5 @@
+* Fix Mutation issues with process ([#66364](https://github.com/CleverRaven/Cataclysm-DDA/pull/66364))
+* Added power consumption for generator UPS ([#66348](https://github.com/CleverRaven/Cataclysm-DDA/pull/66348))
 * Revert "Use unordered_set to deduplicate active items (#66310)" ([#66360](https://github.com/CleverRaven/Cataclysm-DDA/pull/66360))
 * embed context vars ([#66321](https://github.com/CleverRaven/Cataclysm-DDA/pull/66321))
 * Add a recipe for disconnected standing directed floodlight ([#66346](https://github.com/CleverRaven/Cataclysm-DDA/pull/66346))
@@ -89,5 +91,3 @@
 * math_parser: implement ternary operator ([#66180](https://github.com/CleverRaven/Cataclysm-DDA/pull/66180))
 * Added myself back to lists of codeowners and maintainers of NH ([#66189](https://github.com/CleverRaven/Cataclysm-DDA/pull/66189))
 * Add auto-labeling for defense mode PRs ([#66187](https://github.com/CleverRaven/Cataclysm-DDA/pull/66187))
-* Clear avatar in vehicle_fake tests ([#66166](https://github.com/CleverRaven/Cataclysm-DDA/pull/66166))
-* vehicle_wrench => vehicle_wrench_2 in rams ([#66168](https://github.com/CleverRaven/Cataclysm-DDA/pull/66168))
