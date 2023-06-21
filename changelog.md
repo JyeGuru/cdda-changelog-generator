@@ -1,3 +1,4 @@
+* Use unordered_set to deduplicate active items ([#66310](https://github.com/CleverRaven/Cataclysm-DDA/pull/66310))
 * Validate the updated camp expansion OMT type ([#66217](https://github.com/CleverRaven/Cataclysm-DDA/pull/66217))
 * Better diagnostics for overmap_terrain_coverage test ([#66306](https://github.com/CleverRaven/Cataclysm-DDA/pull/66306))
 * Fix clang-tidy tests on Windows ([#66315](https://github.com/CleverRaven/Cataclysm-DDA/pull/66315))
@@ -89,4 +90,3 @@
 * Clear avatar in vehicle_fake tests ([#66166](https://github.com/CleverRaven/Cataclysm-DDA/pull/66166))
 * vehicle_wrench => vehicle_wrench_2 in rams ([#66168](https://github.com/CleverRaven/Cataclysm-DDA/pull/66168))
 * Delete cground.json ([#66158](https://github.com/CleverRaven/Cataclysm-DDA/pull/66158))
-* Shorten molt effect descriptions ([#66154](https://github.com/CleverRaven/Cataclysm-DDA/pull/66154))
