@@ -1,3 +1,4 @@
+* [Xedra Evolved] Another batch of random stuff ([#66289](https://github.com/CleverRaven/Cataclysm-DDA/pull/66289))
 * Fix large sprites not displaying correctly ([#66332](https://github.com/CleverRaven/Cataclysm-DDA/pull/66332))
 * Exclude tools/spell_checker/dictionary.txt from auto-request-review config ([#66335](https://github.com/CleverRaven/Cataclysm-DDA/pull/66335))
 * Various perf improvements ([#66333](https://github.com/CleverRaven/Cataclysm-DDA/pull/66333))
@@ -84,7 +85,6 @@
 * Clear more avatar state in clear_avatar() ([#66164](https://github.com/CleverRaven/Cataclysm-DDA/pull/66164))
 * Clear avatar in vehicle_fake tests ([#66166](https://github.com/CleverRaven/Cataclysm-DDA/pull/66166))
 * vehicle_wrench => vehicle_wrench_2 in rams ([#66168](https://github.com/CleverRaven/Cataclysm-DDA/pull/66168))
-* Rename `No Fungal Growth` mod to `Slowdown Fungal Growth` ([#66135](https://github.com/CleverRaven/Cataclysm-DDA/pull/66135))
 * Delete cground.json ([#66158](https://github.com/CleverRaven/Cataclysm-DDA/pull/66158))
 * Shorten molt effect descriptions ([#66154](https://github.com/CleverRaven/Cataclysm-DDA/pull/66154))
 * Give myself confirmation perms ([#66145](https://github.com/CleverRaven/Cataclysm-DDA/pull/66145))
