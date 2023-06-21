@@ -1,3 +1,4 @@
+* Better diagnostics for overmap_terrain_coverage test ([#66306](https://github.com/CleverRaven/Cataclysm-DDA/pull/66306))
 * Fix clang-tidy tests on Windows ([#66315](https://github.com/CleverRaven/Cataclysm-DDA/pull/66315))
 * implement wall-mounted appliances, abstract wiring ([#66316](https://github.com/CleverRaven/Cataclysm-DDA/pull/66316))
 * Elevate Beta Talker ([#66270](https://github.com/CleverRaven/Cataclysm-DDA/pull/66270))
@@ -73,7 +74,6 @@
 * Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
 * Move gambesons to their own file ([#66183](https://github.com/CleverRaven/Cataclysm-DDA/pull/66183))
 * Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
-* fix one station having more ammo than it ought to have ([#66152](https://github.com/CleverRaven/Cataclysm-DDA/pull/66152))
 * Adds in the ability to construct wooden chests. ([#66175](https://github.com/CleverRaven/Cataclysm-DDA/pull/66175))
 * Remove crater spawn from TEST_DATA ([#66174](https://github.com/CleverRaven/Cataclysm-DDA/pull/66174))
 * EOD helmet revision ([#66179](https://github.com/CleverRaven/Cataclysm-DDA/pull/66179))
