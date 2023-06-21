@@ -1,3 +1,4 @@
+* Revert "Use unordered_set to deduplicate active items (#66310)" (#66360)
 * embed context vars (#66321)
 * Add a recipe for disconnected standing directed floodlight (#66346)
 * Adjust blackpowder fouling mechanics and other fault_fix QoL (#66341)
@@ -88,6 +89,5 @@
 * math_parser: implement ternary operator (#66180)
 * Added myself back to lists of codeowners and maintainers of NH (#66189)
 * Add auto-labeling for defense mode PRs (#66187)
-* Clear more avatar state in clear_avatar() (#66164)
 * Clear avatar in vehicle_fake tests (#66166)
 * vehicle_wrench => vehicle_wrench_2 in rams (#66168)
