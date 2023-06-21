@@ -1,3 +1,4 @@
+* Additional Factions to Lore.md ([#66343](https://github.com/CleverRaven/Cataclysm-DDA/pull/66343))
 * Use unordered_set to deduplicate active items ([#66310](https://github.com/CleverRaven/Cataclysm-DDA/pull/66310))
 * Validate the updated camp expansion OMT type ([#66217](https://github.com/CleverRaven/Cataclysm-DDA/pull/66217))
 * Better diagnostics for overmap_terrain_coverage test ([#66306](https://github.com/CleverRaven/Cataclysm-DDA/pull/66306))
@@ -84,7 +85,6 @@
 * math_parser: implement ternary operator ([#66180](https://github.com/CleverRaven/Cataclysm-DDA/pull/66180))
 * Added myself back to lists of codeowners and maintainers of NH ([#66189](https://github.com/CleverRaven/Cataclysm-DDA/pull/66189))
 * Add auto-labeling for defense mode PRs ([#66187](https://github.com/CleverRaven/Cataclysm-DDA/pull/66187))
-* added zombie sheep and goat ([#66155](https://github.com/CleverRaven/Cataclysm-DDA/pull/66155))
 * [Innawood] Fix for arsonist's quest ([#66157](https://github.com/CleverRaven/Cataclysm-DDA/pull/66157))
 * Clear more avatar state in clear_avatar() ([#66164](https://github.com/CleverRaven/Cataclysm-DDA/pull/66164))
 * Clear avatar in vehicle_fake tests ([#66166](https://github.com/CleverRaven/Cataclysm-DDA/pull/66166))
