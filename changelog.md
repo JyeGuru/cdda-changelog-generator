@@ -1,3 +1,4 @@
+* Validate the updated camp expansion OMT type ([#66217](https://github.com/CleverRaven/Cataclysm-DDA/pull/66217))
 * Better diagnostics for overmap_terrain_coverage test ([#66306](https://github.com/CleverRaven/Cataclysm-DDA/pull/66306))
 * Fix clang-tidy tests on Windows ([#66315](https://github.com/CleverRaven/Cataclysm-DDA/pull/66315))
 * implement wall-mounted appliances, abstract wiring ([#66316](https://github.com/CleverRaven/Cataclysm-DDA/pull/66316))
@@ -83,7 +84,6 @@
 * Added myself back to lists of codeowners and maintainers of NH ([#66189](https://github.com/CleverRaven/Cataclysm-DDA/pull/66189))
 * Add auto-labeling for defense mode PRs ([#66187](https://github.com/CleverRaven/Cataclysm-DDA/pull/66187))
 * added zombie sheep and goat ([#66155](https://github.com/CleverRaven/Cataclysm-DDA/pull/66155))
-* Speed up vehicle interact menu opening time ([#66153](https://github.com/CleverRaven/Cataclysm-DDA/pull/66153))
 * [Innawood] Fix for arsonist's quest ([#66157](https://github.com/CleverRaven/Cataclysm-DDA/pull/66157))
 * Clear more avatar state in clear_avatar() ([#66164](https://github.com/CleverRaven/Cataclysm-DDA/pull/66164))
 * Clear avatar in vehicle_fake tests ([#66166](https://github.com/CleverRaven/Cataclysm-DDA/pull/66166))
