@@ -1,3 +1,4 @@
+* workshop 2 palettization (#66353)
 * Fix Mutation issues with process (#66364)
 * Added power consumption for generator UPS (#66348)
 * Revert "Use unordered_set to deduplicate active items (#66310)" (#66360)
