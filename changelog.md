@@ -1,3 +1,5 @@
+* Minor bird description tweaks ([#66368](https://github.com/CleverRaven/Cataclysm-DDA/pull/66368))
+* main: fix cmdline parsing ([#66359](https://github.com/CleverRaven/Cataclysm-DDA/pull/66359))
 * Gutter Unify Tool Part 3 ([#66328](https://github.com/CleverRaven/Cataclysm-DDA/pull/66328))
 * garange 2 palettization ([#66381](https://github.com/CleverRaven/Cataclysm-DDA/pull/66381))
 * Whitelist Deserter Bandit camp from overmap_test.cpp ([#66320](https://github.com/CleverRaven/Cataclysm-DDA/pull/66320))
@@ -62,7 +64,6 @@
 * EOC Selector ([#66222](https://github.com/CleverRaven/Cataclysm-DDA/pull/66222))
 * Space samurai armour ([#66230](https://github.com/CleverRaven/Cataclysm-DDA/pull/66230))
 * Normalize TEST_CASE names ([#66241](https://github.com/CleverRaven/Cataclysm-DDA/pull/66241))
-* Better cache vehicle mass center ([#66188](https://github.com/CleverRaven/Cataclysm-DDA/pull/66188))
 * more police armory adjustments ([#66239](https://github.com/CleverRaven/Cataclysm-DDA/pull/66239))
 * More refugee centre migration ([#66254](https://github.com/CleverRaven/Cataclysm-DDA/pull/66254))
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
@@ -91,4 +92,3 @@
 * Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
 * Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
 * Added myself back to lists of codeowners and maintainers of NH ([#66189](https://github.com/CleverRaven/Cataclysm-DDA/pull/66189))
-* Add auto-labeling for defense mode PRs ([#66187](https://github.com/CleverRaven/Cataclysm-DDA/pull/66187))
