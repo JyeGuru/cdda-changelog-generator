@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-06-12 to 2023-06-19 ([#66299](https://github.com/CleverRaven/Cataclysm-DDA/pull/66299))
 * Minor bird description tweaks ([#66368](https://github.com/CleverRaven/Cataclysm-DDA/pull/66368))
 * main: fix cmdline parsing ([#66359](https://github.com/CleverRaven/Cataclysm-DDA/pull/66359))
 * Gutter Unify Tool Part 3 ([#66328](https://github.com/CleverRaven/Cataclysm-DDA/pull/66328))
@@ -91,4 +92,3 @@
 * Fix tests failing on Aftershock + Generic Guns combo ([#66203](https://github.com/CleverRaven/Cataclysm-DDA/pull/66203))
 * Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
 * Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
-* Added myself back to lists of codeowners and maintainers of NH ([#66189](https://github.com/CleverRaven/Cataclysm-DDA/pull/66189))
