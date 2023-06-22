@@ -1,3 +1,4 @@
+* Single Typo ([#66356](https://github.com/CleverRaven/Cataclysm-DDA/pull/66356))
 * Very minor Rest_Area floor under table fix ([#66355](https://github.com/CleverRaven/Cataclysm-DDA/pull/66355))
 * Add wall light recipe ([#66362](https://github.com/CleverRaven/Cataclysm-DDA/pull/66362))
 * Drybags ([#66262](https://github.com/CleverRaven/Cataclysm-DDA/pull/66262))
@@ -86,7 +87,6 @@
 * Move gambesons to their own file ([#66183](https://github.com/CleverRaven/Cataclysm-DDA/pull/66183))
 * Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
 * Adds in the ability to construct wooden chests. ([#66175](https://github.com/CleverRaven/Cataclysm-DDA/pull/66175))
-* Remove crater spawn from TEST_DATA ([#66174](https://github.com/CleverRaven/Cataclysm-DDA/pull/66174))
 * EOD helmet revision ([#66179](https://github.com/CleverRaven/Cataclysm-DDA/pull/66179))
 * Normalize autolearn for canned fruit ([#66186](https://github.com/CleverRaven/Cataclysm-DDA/pull/66186))
 * Expand mutation transforms ([#66181](https://github.com/CleverRaven/Cataclysm-DDA/pull/66181))
