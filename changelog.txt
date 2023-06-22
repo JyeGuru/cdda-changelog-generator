@@ -1,3 +1,4 @@
+* Very minor Rest_Area floor under table fix (#66355)
 * Add wall light recipe (#66362)
 * Drybags (#66262)
 * workshop 2 palettization (#66353)
@@ -79,7 +80,6 @@
 * Allow food to be heated in mess kit (#66214)
 * Woodlouse harvests for crustacean samples (#66204)
 * Fixed inability to disassemble laser turret in No Hope mod (#66210)
-* More test state resets (#66173)
 * Add 12.3ln rounds to ammo pouches (#66194)
 * Fix tests failing on Aftershock + Generic Guns combo (#66203)
 * Add 12.3ln rounds to rifle bandoliers (#66193)

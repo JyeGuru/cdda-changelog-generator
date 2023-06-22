@@ -1,3 +1,4 @@
+* Very minor Rest_Area floor under table fix ([#66355](https://github.com/CleverRaven/Cataclysm-DDA/pull/66355))
 * Add wall light recipe ([#66362](https://github.com/CleverRaven/Cataclysm-DDA/pull/66362))
 * Drybags ([#66262](https://github.com/CleverRaven/Cataclysm-DDA/pull/66262))
 * workshop 2 palettization ([#66353](https://github.com/CleverRaven/Cataclysm-DDA/pull/66353))
@@ -79,7 +80,6 @@
 * Allow food to be heated in mess kit ([#66214](https://github.com/CleverRaven/Cataclysm-DDA/pull/66214))
 * Woodlouse harvests for crustacean samples ([#66204](https://github.com/CleverRaven/Cataclysm-DDA/pull/66204))
 * Fixed inability to disassemble laser turret in No Hope mod ([#66210](https://github.com/CleverRaven/Cataclysm-DDA/pull/66210))
-* More test state resets ([#66173](https://github.com/CleverRaven/Cataclysm-DDA/pull/66173))
 * Add 12.3ln rounds to ammo pouches ([#66194](https://github.com/CleverRaven/Cataclysm-DDA/pull/66194))
 * Fix tests failing on Aftershock + Generic Guns combo ([#66203](https://github.com/CleverRaven/Cataclysm-DDA/pull/66203))
 * Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
