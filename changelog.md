@@ -1,3 +1,4 @@
+* Gutter Unify Tool Part 3 ([#66328](https://github.com/CleverRaven/Cataclysm-DDA/pull/66328))
 * garange 2 palettization ([#66381](https://github.com/CleverRaven/Cataclysm-DDA/pull/66381))
 * Whitelist Deserter Bandit camp from overmap_test.cpp ([#66320](https://github.com/CleverRaven/Cataclysm-DDA/pull/66320))
 * Some documentation cleanup ([#66378](https://github.com/CleverRaven/Cataclysm-DDA/pull/66378))
@@ -89,6 +90,5 @@
 * Fix tests failing on Aftershock + Generic Guns combo ([#66203](https://github.com/CleverRaven/Cataclysm-DDA/pull/66203))
 * Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
 * Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
-* Normalize autolearn for canned fruit ([#66186](https://github.com/CleverRaven/Cataclysm-DDA/pull/66186))
 * Added myself back to lists of codeowners and maintainers of NH ([#66189](https://github.com/CleverRaven/Cataclysm-DDA/pull/66189))
 * Add auto-labeling for defense mode PRs ([#66187](https://github.com/CleverRaven/Cataclysm-DDA/pull/66187))
