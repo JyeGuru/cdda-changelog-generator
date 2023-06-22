@@ -1,3 +1,5 @@
+* Add wall light recipe ([#66362](https://github.com/CleverRaven/Cataclysm-DDA/pull/66362))
+* Drybags ([#66262](https://github.com/CleverRaven/Cataclysm-DDA/pull/66262))
 * workshop 2 palettization ([#66353](https://github.com/CleverRaven/Cataclysm-DDA/pull/66353))
 * Fix Mutation issues with process ([#66364](https://github.com/CleverRaven/Cataclysm-DDA/pull/66364))
 * Added power consumption for generator UPS ([#66348](https://github.com/CleverRaven/Cataclysm-DDA/pull/66348))
@@ -51,7 +53,6 @@
 * Default to first scenario if Generic is blacklisted ([#66245](https://github.com/CleverRaven/Cataclysm-DDA/pull/66245))
 * Gutter Unify Tool Part 1 ([#66236](https://github.com/CleverRaven/Cataclysm-DDA/pull/66236))
 * EOC Selector ([#66222](https://github.com/CleverRaven/Cataclysm-DDA/pull/66222))
-* check last_world_pos before deleteing world ([#66171](https://github.com/CleverRaven/Cataclysm-DDA/pull/66171))
 * Space samurai armour ([#66230](https://github.com/CleverRaven/Cataclysm-DDA/pull/66230))
 * Normalize TEST_CASE names ([#66241](https://github.com/CleverRaven/Cataclysm-DDA/pull/66241))
 * Better cache vehicle mass center ([#66188](https://github.com/CleverRaven/Cataclysm-DDA/pull/66188))
