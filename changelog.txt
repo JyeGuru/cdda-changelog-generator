@@ -1,3 +1,5 @@
+* Whitelist Deserter Bandit camp from overmap_test.cpp (#66320)
+* Some documentation cleanup (#66378)
 * [Aftershock] recipe for processed lichen fix (#66372)
 * Single Typo (#66356)
 * Very minor Rest_Area floor under table fix (#66355)
@@ -88,7 +90,5 @@
 * Move gambesons to their own file (#66183)
 * Raise test margins for less test flakes (#66192)
 * Normalize autolearn for canned fruit (#66186)
-* Expand mutation transforms (#66181)
-* math_parser: implement ternary operator (#66180)
 * Added myself back to lists of codeowners and maintainers of NH (#66189)
 * Add auto-labeling for defense mode PRs (#66187)
