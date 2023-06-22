@@ -87,7 +87,6 @@
 * Add 12.3ln rounds to rifle bandoliers (#66193)
 * Move gambesons to their own file (#66183)
 * Raise test margins for less test flakes (#66192)
-* EOD helmet revision (#66179)
 * Normalize autolearn for canned fruit (#66186)
 * Expand mutation transforms (#66181)
 * math_parser: implement ternary operator (#66180)

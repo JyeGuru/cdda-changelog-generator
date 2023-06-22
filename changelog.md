@@ -87,7 +87,6 @@
 * Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
 * Move gambesons to their own file ([#66183](https://github.com/CleverRaven/Cataclysm-DDA/pull/66183))
 * Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
-* EOD helmet revision ([#66179](https://github.com/CleverRaven/Cataclysm-DDA/pull/66179))
 * Normalize autolearn for canned fruit ([#66186](https://github.com/CleverRaven/Cataclysm-DDA/pull/66186))
 * Expand mutation transforms ([#66181](https://github.com/CleverRaven/Cataclysm-DDA/pull/66181))
 * math_parser: implement ternary operator ([#66180](https://github.com/CleverRaven/Cataclysm-DDA/pull/66180))
