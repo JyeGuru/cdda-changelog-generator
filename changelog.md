@@ -1,3 +1,4 @@
+* Add the Hi-Point 3895, a .380 ACP PCC ([#66373](https://github.com/CleverRaven/Cataclysm-DDA/pull/66373))
 * Add a doctor/autodoc to the Ancilla bar ([#66377](https://github.com/CleverRaven/Cataclysm-DDA/pull/66377))
 * Fix dodge training ([#66392](https://github.com/CleverRaven/Cataclysm-DDA/pull/66392))
 * adjust/fix cunning feral drops ([#66303](https://github.com/CleverRaven/Cataclysm-DDA/pull/66303))
@@ -81,7 +82,6 @@
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
 * adjust bedding spawn weighting ([#66243](https://github.com/CleverRaven/Cataclysm-DDA/pull/66243))
 * palettized storehouse expansion 2 ([#66240](https://github.com/CleverRaven/Cataclysm-DDA/pull/66240))
-* Adjusting the order in which players equip mecha weapons in mounting mech ([#66212](https://github.com/CleverRaven/Cataclysm-DDA/pull/66212))
 * Weaver adjustment set II ([#66223](https://github.com/CleverRaven/Cataclysm-DDA/pull/66223))
 * Tests tweaks ([#66228](https://github.com/CleverRaven/Cataclysm-DDA/pull/66228))
 * Make more tests independent of order ([#66231](https://github.com/CleverRaven/Cataclysm-DDA/pull/66231))
