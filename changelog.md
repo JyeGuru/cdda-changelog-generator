@@ -1,3 +1,4 @@
+* Gutter Unify Tool Part 5 ([#66401](https://github.com/CleverRaven/Cataclysm-DDA/pull/66401))
 * Use generic_factory for vpart_info ([#66295](https://github.com/CleverRaven/Cataclysm-DDA/pull/66295))
 * Docs Fixes ([#66345](https://github.com/CleverRaven/Cataclysm-DDA/pull/66345))
 * remove int-ua ([#66404](https://github.com/CleverRaven/Cataclysm-DDA/pull/66404))
@@ -86,7 +87,6 @@
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
 * adjust bedding spawn weighting ([#66243](https://github.com/CleverRaven/Cataclysm-DDA/pull/66243))
 * palettized storehouse expansion 2 ([#66240](https://github.com/CleverRaven/Cataclysm-DDA/pull/66240))
-* Weaver adjustment set II ([#66223](https://github.com/CleverRaven/Cataclysm-DDA/pull/66223))
 * Tests tweaks ([#66228](https://github.com/CleverRaven/Cataclysm-DDA/pull/66228))
 * Make more tests independent of order ([#66231](https://github.com/CleverRaven/Cataclysm-DDA/pull/66231))
 * Fix welder pocket dimension ([#66234](https://github.com/CleverRaven/Cataclysm-DDA/pull/66234))
