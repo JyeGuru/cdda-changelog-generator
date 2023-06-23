@@ -1,3 +1,4 @@
+* Will this fix the mutable? The answer may surprise you! ([#66312](https://github.com/CleverRaven/Cataclysm-DDA/pull/66312))
 * Draw Enchantment Mutations ([#66382](https://github.com/CleverRaven/Cataclysm-DDA/pull/66382))
 * Allow TOW_CABLEs on harnesses/protrusions ([#66385](https://github.com/CleverRaven/Cataclysm-DDA/pull/66385))
 * Gutter Unify Tool Part 4 ([#66395](https://github.com/CleverRaven/Cataclysm-DDA/pull/66395))
@@ -80,7 +81,6 @@
 * Process EoCs on non-activated traits as well ([#66216](https://github.com/CleverRaven/Cataclysm-DDA/pull/66216))
 * Fix welder pocket dimension ([#66234](https://github.com/CleverRaven/Cataclysm-DDA/pull/66234))
 * Refugee centre migration ([#66235](https://github.com/CleverRaven/Cataclysm-DDA/pull/66235))
-* Fix build with GCC 13 ([#66195](https://github.com/CleverRaven/Cataclysm-DDA/pull/66195))
 * parameterized livestock 2 palettes ([#66219](https://github.com/CleverRaven/Cataclysm-DDA/pull/66219))
 * Adding relevant recipe requirements to atomic butter ([#66209](https://github.com/CleverRaven/Cataclysm-DDA/pull/66209))
 * Military base OMT changes and uses roof palette ([#66225](https://github.com/CleverRaven/Cataclysm-DDA/pull/66225))
