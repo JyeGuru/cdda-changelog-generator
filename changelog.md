@@ -1,3 +1,5 @@
+* Draw Enchantment Mutations ([#66382](https://github.com/CleverRaven/Cataclysm-DDA/pull/66382))
+* Allow TOW_CABLEs on harnesses/protrusions ([#66385](https://github.com/CleverRaven/Cataclysm-DDA/pull/66385))
 * Gutter Unify Tool Part 4 ([#66395](https://github.com/CleverRaven/Cataclysm-DDA/pull/66395))
 * Weekly Changelog 2023-06-12 to 2023-06-19 ([#66299](https://github.com/CleverRaven/Cataclysm-DDA/pull/66299))
 * Minor bird description tweaks ([#66368](https://github.com/CleverRaven/Cataclysm-DDA/pull/66368))
@@ -89,6 +91,4 @@
 * Allow food to be heated in mess kit ([#66214](https://github.com/CleverRaven/Cataclysm-DDA/pull/66214))
 * Woodlouse harvests for crustacean samples ([#66204](https://github.com/CleverRaven/Cataclysm-DDA/pull/66204))
 * Fixed inability to disassemble laser turret in No Hope mod ([#66210](https://github.com/CleverRaven/Cataclysm-DDA/pull/66210))
-* Add 12.3ln rounds to ammo pouches ([#66194](https://github.com/CleverRaven/Cataclysm-DDA/pull/66194))
 * Fix tests failing on Aftershock + Generic Guns combo ([#66203](https://github.com/CleverRaven/Cataclysm-DDA/pull/66203))
-* Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
