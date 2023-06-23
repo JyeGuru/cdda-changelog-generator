@@ -1,3 +1,4 @@
+* Melee EOCs ([#66288](https://github.com/CleverRaven/Cataclysm-DDA/pull/66288))
 * 3D vision for isometric tilesets ([#66383](https://github.com/CleverRaven/Cataclysm-DDA/pull/66383))
 * Add the Hi-Point 3895, a .380 ACP PCC ([#66373](https://github.com/CleverRaven/Cataclysm-DDA/pull/66373))
 * Add a doctor/autodoc to the Ancilla bar ([#66377](https://github.com/CleverRaven/Cataclysm-DDA/pull/66377))
@@ -86,7 +87,6 @@
 * Weaver adjustment set II ([#66223](https://github.com/CleverRaven/Cataclysm-DDA/pull/66223))
 * Tests tweaks ([#66228](https://github.com/CleverRaven/Cataclysm-DDA/pull/66228))
 * Make more tests independent of order ([#66231](https://github.com/CleverRaven/Cataclysm-DDA/pull/66231))
-* Process EoCs on non-activated traits as well ([#66216](https://github.com/CleverRaven/Cataclysm-DDA/pull/66216))
 * Fix welder pocket dimension ([#66234](https://github.com/CleverRaven/Cataclysm-DDA/pull/66234))
 * Refugee centre migration ([#66235](https://github.com/CleverRaven/Cataclysm-DDA/pull/66235))
 * parameterized livestock 2 palettes ([#66219](https://github.com/CleverRaven/Cataclysm-DDA/pull/66219))
