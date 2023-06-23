@@ -1,3 +1,5 @@
+* Use generic_factory for vpart_info ([#66295](https://github.com/CleverRaven/Cataclysm-DDA/pull/66295))
+* Docs Fixes ([#66345](https://github.com/CleverRaven/Cataclysm-DDA/pull/66345))
 * remove int-ua ([#66404](https://github.com/CleverRaven/Cataclysm-DDA/pull/66404))
 * Dirty cache / clear memory map on furn/trap removal ([#66399](https://github.com/CleverRaven/Cataclysm-DDA/pull/66399))
 * Melee EOCs ([#66288](https://github.com/CleverRaven/Cataclysm-DDA/pull/66288))
@@ -77,7 +79,6 @@
 * Clear up description of WATERPROOF flag ([#66257](https://github.com/CleverRaven/Cataclysm-DDA/pull/66257))
 * Default to first scenario if Generic is blacklisted ([#66245](https://github.com/CleverRaven/Cataclysm-DDA/pull/66245))
 * Gutter Unify Tool Part 1 ([#66236](https://github.com/CleverRaven/Cataclysm-DDA/pull/66236))
-* EOC Selector ([#66222](https://github.com/CleverRaven/Cataclysm-DDA/pull/66222))
 * Space samurai armour ([#66230](https://github.com/CleverRaven/Cataclysm-DDA/pull/66230))
 * Normalize TEST_CASE names ([#66241](https://github.com/CleverRaven/Cataclysm-DDA/pull/66241))
 * more police armory adjustments ([#66239](https://github.com/CleverRaven/Cataclysm-DDA/pull/66239))
@@ -91,4 +92,3 @@
 * Fix welder pocket dimension ([#66234](https://github.com/CleverRaven/Cataclysm-DDA/pull/66234))
 * Refugee centre migration ([#66235](https://github.com/CleverRaven/Cataclysm-DDA/pull/66235))
 * Military base OMT changes and uses roof palette ([#66225](https://github.com/CleverRaven/Cataclysm-DDA/pull/66225))
-* Remove unfitting snippets ([#66221](https://github.com/CleverRaven/Cataclysm-DDA/pull/66221))
