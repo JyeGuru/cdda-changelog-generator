@@ -1,3 +1,4 @@
+* Gutter Unify Tool Part 4 ([#66395](https://github.com/CleverRaven/Cataclysm-DDA/pull/66395))
 * Weekly Changelog 2023-06-12 to 2023-06-19 ([#66299](https://github.com/CleverRaven/Cataclysm-DDA/pull/66299))
 * Minor bird description tweaks ([#66368](https://github.com/CleverRaven/Cataclysm-DDA/pull/66368))
 * main: fix cmdline parsing ([#66359](https://github.com/CleverRaven/Cataclysm-DDA/pull/66359))
@@ -91,4 +92,3 @@
 * Add 12.3ln rounds to ammo pouches ([#66194](https://github.com/CleverRaven/Cataclysm-DDA/pull/66194))
 * Fix tests failing on Aftershock + Generic Guns combo ([#66203](https://github.com/CleverRaven/Cataclysm-DDA/pull/66203))
 * Add 12.3ln rounds to rifle bandoliers ([#66193](https://github.com/CleverRaven/Cataclysm-DDA/pull/66193))
-* Raise test margins for less test flakes ([#66192](https://github.com/CleverRaven/Cataclysm-DDA/pull/66192))
