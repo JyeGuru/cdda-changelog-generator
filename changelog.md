@@ -1,3 +1,5 @@
+* Add a doctor/autodoc to the Ancilla bar ([#66377](https://github.com/CleverRaven/Cataclysm-DDA/pull/66377))
+* Fix dodge training ([#66392](https://github.com/CleverRaven/Cataclysm-DDA/pull/66392))
 * adjust/fix cunning feral drops ([#66303](https://github.com/CleverRaven/Cataclysm-DDA/pull/66303))
 * Rebalance leather jackets and some other leather gear ([#66389](https://github.com/CleverRaven/Cataclysm-DDA/pull/66389))
 * Guns need more skill, performing much worse at low skills ([#66347](https://github.com/CleverRaven/Cataclysm-DDA/pull/66347))
@@ -90,4 +92,3 @@
 * Military base OMT changes and uses roof palette ([#66225](https://github.com/CleverRaven/Cataclysm-DDA/pull/66225))
 * Remove unfitting snippets ([#66221](https://github.com/CleverRaven/Cataclysm-DDA/pull/66221))
 * Allow food to be heated in mess kit ([#66214](https://github.com/CleverRaven/Cataclysm-DDA/pull/66214))
-* Fixed inability to disassemble laser turret in No Hope mod ([#66210](https://github.com/CleverRaven/Cataclysm-DDA/pull/66210))
