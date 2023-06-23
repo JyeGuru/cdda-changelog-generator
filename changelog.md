@@ -1,3 +1,4 @@
+* 3D vision for isometric tilesets ([#66383](https://github.com/CleverRaven/Cataclysm-DDA/pull/66383))
 * Add the Hi-Point 3895, a .380 ACP PCC ([#66373](https://github.com/CleverRaven/Cataclysm-DDA/pull/66373))
 * Add a doctor/autodoc to the Ancilla bar ([#66377](https://github.com/CleverRaven/Cataclysm-DDA/pull/66377))
 * Fix dodge training ([#66392](https://github.com/CleverRaven/Cataclysm-DDA/pull/66392))
@@ -91,4 +92,3 @@
 * parameterized livestock 2 palettes ([#66219](https://github.com/CleverRaven/Cataclysm-DDA/pull/66219))
 * Military base OMT changes and uses roof palette ([#66225](https://github.com/CleverRaven/Cataclysm-DDA/pull/66225))
 * Remove unfitting snippets ([#66221](https://github.com/CleverRaven/Cataclysm-DDA/pull/66221))
-* Allow food to be heated in mess kit ([#66214](https://github.com/CleverRaven/Cataclysm-DDA/pull/66214))
