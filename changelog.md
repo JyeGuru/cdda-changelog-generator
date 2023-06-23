@@ -1,3 +1,4 @@
+* palettized canteen 1 ([#66403](https://github.com/CleverRaven/Cataclysm-DDA/pull/66403))
 * Gutter Unify Tool Part 5 ([#66401](https://github.com/CleverRaven/Cataclysm-DDA/pull/66401))
 * Use generic_factory for vpart_info ([#66295](https://github.com/CleverRaven/Cataclysm-DDA/pull/66295))
 * Docs Fixes ([#66345](https://github.com/CleverRaven/Cataclysm-DDA/pull/66345))
@@ -91,4 +92,3 @@
 * Make more tests independent of order ([#66231](https://github.com/CleverRaven/Cataclysm-DDA/pull/66231))
 * Fix welder pocket dimension ([#66234](https://github.com/CleverRaven/Cataclysm-DDA/pull/66234))
 * Refugee centre migration ([#66235](https://github.com/CleverRaven/Cataclysm-DDA/pull/66235))
-* Military base OMT changes and uses roof palette ([#66225](https://github.com/CleverRaven/Cataclysm-DDA/pull/66225))
