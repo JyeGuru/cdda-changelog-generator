@@ -1,3 +1,4 @@
+* Disable the Bionic Professions mod by default ([#66351](https://github.com/CleverRaven/Cataclysm-DDA/pull/66351))
 * Will this fix the mutable? The answer may surprise you! ([#66312](https://github.com/CleverRaven/Cataclysm-DDA/pull/66312))
 * Draw Enchantment Mutations ([#66382](https://github.com/CleverRaven/Cataclysm-DDA/pull/66382))
 * Allow TOW_CABLEs on harnesses/protrusions ([#66385](https://github.com/CleverRaven/Cataclysm-DDA/pull/66385))
@@ -85,7 +86,6 @@
 * Adding relevant recipe requirements to atomic butter ([#66209](https://github.com/CleverRaven/Cataclysm-DDA/pull/66209))
 * Military base OMT changes and uses roof palette ([#66225](https://github.com/CleverRaven/Cataclysm-DDA/pull/66225))
 * Remove unfitting snippets ([#66221](https://github.com/CleverRaven/Cataclysm-DDA/pull/66221))
-* Make hub01 globally unique ([#66202](https://github.com/CleverRaven/Cataclysm-DDA/pull/66202))
 * Add obsidian config to the ignore list ([#66206](https://github.com/CleverRaven/Cataclysm-DDA/pull/66206))
 * Changed order of fields to appease clang-tidy. ([#66208](https://github.com/CleverRaven/Cataclysm-DDA/pull/66208))
 * Allow food to be heated in mess kit ([#66214](https://github.com/CleverRaven/Cataclysm-DDA/pull/66214))
