@@ -1,3 +1,4 @@
+* recruiting static NPCs makes them lose their static traits ([#66397](https://github.com/CleverRaven/Cataclysm-DDA/pull/66397))
 * Routine i18n updates on 24 June 2023 ([#66420](https://github.com/CleverRaven/Cataclysm-DDA/pull/66420))
 * palettized canteen 1 ([#66403](https://github.com/CleverRaven/Cataclysm-DDA/pull/66403))
 * Gutter Unify Tool Part 5 ([#66401](https://github.com/CleverRaven/Cataclysm-DDA/pull/66401))
@@ -81,7 +82,6 @@
 * Clear up description of WATERPROOF flag ([#66257](https://github.com/CleverRaven/Cataclysm-DDA/pull/66257))
 * Default to first scenario if Generic is blacklisted ([#66245](https://github.com/CleverRaven/Cataclysm-DDA/pull/66245))
 * Gutter Unify Tool Part 1 ([#66236](https://github.com/CleverRaven/Cataclysm-DDA/pull/66236))
-* Space samurai armour ([#66230](https://github.com/CleverRaven/Cataclysm-DDA/pull/66230))
 * Normalize TEST_CASE names ([#66241](https://github.com/CleverRaven/Cataclysm-DDA/pull/66241))
 * more police armory adjustments ([#66239](https://github.com/CleverRaven/Cataclysm-DDA/pull/66239))
 * More refugee centre migration ([#66254](https://github.com/CleverRaven/Cataclysm-DDA/pull/66254))
