@@ -1,3 +1,4 @@
+* Routine i18n updates on 24 June 2023 ([#66420](https://github.com/CleverRaven/Cataclysm-DDA/pull/66420))
 * palettized canteen 1 ([#66403](https://github.com/CleverRaven/Cataclysm-DDA/pull/66403))
 * Gutter Unify Tool Part 5 ([#66401](https://github.com/CleverRaven/Cataclysm-DDA/pull/66401))
 * Use generic_factory for vpart_info ([#66295](https://github.com/CleverRaven/Cataclysm-DDA/pull/66295))
@@ -88,7 +89,6 @@
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
 * adjust bedding spawn weighting ([#66243](https://github.com/CleverRaven/Cataclysm-DDA/pull/66243))
 * palettized storehouse expansion 2 ([#66240](https://github.com/CleverRaven/Cataclysm-DDA/pull/66240))
-* Tests tweaks ([#66228](https://github.com/CleverRaven/Cataclysm-DDA/pull/66228))
 * Make more tests independent of order ([#66231](https://github.com/CleverRaven/Cataclysm-DDA/pull/66231))
 * Fix welder pocket dimension ([#66234](https://github.com/CleverRaven/Cataclysm-DDA/pull/66234))
 * Refugee centre migration ([#66235](https://github.com/CleverRaven/Cataclysm-DDA/pull/66235))
