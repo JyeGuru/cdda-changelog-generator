@@ -61,7 +61,6 @@
 * Fix clang-tidy check ([#66308](https://github.com/CleverRaven/Cataclysm-DDA/pull/66308))
 * Gutter Unify Tool Part 2 ([#66313](https://github.com/CleverRaven/Cataclysm-DDA/pull/66313))
 * Very minor bakery roof changes ([#66317](https://github.com/CleverRaven/Cataclysm-DDA/pull/66317))
-* [Xedra Evolved] Artifact looks_like things other than books ([#66229](https://github.com/CleverRaven/Cataclysm-DDA/pull/66229))
 * Airplane seats have seatbelts ([#66304](https://github.com/CleverRaven/Cataclysm-DDA/pull/66304))
 * Revert 4x4_car ram change ([#66309](https://github.com/CleverRaven/Cataclysm-DDA/pull/66309))
 * Routine tileset updates on 18 June 2023 ([#66296](https://github.com/CleverRaven/Cataclysm-DDA/pull/66296))
