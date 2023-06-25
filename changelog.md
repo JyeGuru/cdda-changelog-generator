@@ -1,3 +1,6 @@
+* Remove redundant read ([#66430](https://github.com/CleverRaven/Cataclysm-DDA/pull/66430))
+* fix mistakes I made with cunning ferals. ([#66417](https://github.com/CleverRaven/Cataclysm-DDA/pull/66417))
+* Update the table of contents in doc/JSON_INFO.md ([#66406](https://github.com/CleverRaven/Cataclysm-DDA/pull/66406))
 * recruiting static NPCs makes them lose their static traits ([#66397](https://github.com/CleverRaven/Cataclysm-DDA/pull/66397))
 * Routine i18n updates on 24 June 2023 ([#66420](https://github.com/CleverRaven/Cataclysm-DDA/pull/66420))
 * palettized canteen 1 ([#66403](https://github.com/CleverRaven/Cataclysm-DDA/pull/66403))
@@ -88,6 +91,3 @@
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
 * adjust bedding spawn weighting ([#66243](https://github.com/CleverRaven/Cataclysm-DDA/pull/66243))
 * palettized storehouse expansion 2 ([#66240](https://github.com/CleverRaven/Cataclysm-DDA/pull/66240))
-* Make more tests independent of order ([#66231](https://github.com/CleverRaven/Cataclysm-DDA/pull/66231))
-* Fix welder pocket dimension ([#66234](https://github.com/CleverRaven/Cataclysm-DDA/pull/66234))
-* Refugee centre migration ([#66235](https://github.com/CleverRaven/Cataclysm-DDA/pull/66235))
