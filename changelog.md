@@ -1,3 +1,5 @@
+* New location: speedway ([#66402](https://github.com/CleverRaven/Cataclysm-DDA/pull/66402))
+* fix: dirt floors inside doctor's office ([#66437](https://github.com/CleverRaven/Cataclysm-DDA/pull/66437))
 * Improve CMake behavior on Unix and macOS ([#66369](https://github.com/CleverRaven/Cataclysm-DDA/pull/66369))
 * Easy deconstruct floor mattress ([#66436](https://github.com/CleverRaven/Cataclysm-DDA/pull/66436))
 * JSON formatter html build ([#66414](https://github.com/CleverRaven/Cataclysm-DDA/pull/66414))
@@ -87,7 +89,5 @@
 * Minor vehicle tweaks ([#66252](https://github.com/CleverRaven/Cataclysm-DDA/pull/66252))
 * Clear up description of WATERPROOF flag ([#66257](https://github.com/CleverRaven/Cataclysm-DDA/pull/66257))
 * Default to first scenario if Generic is blacklisted ([#66245](https://github.com/CleverRaven/Cataclysm-DDA/pull/66245))
-* Normalize TEST_CASE names ([#66241](https://github.com/CleverRaven/Cataclysm-DDA/pull/66241))
 * More refugee centre migration ([#66254](https://github.com/CleverRaven/Cataclysm-DDA/pull/66254))
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
-* adjust bedding spawn weighting ([#66243](https://github.com/CleverRaven/Cataclysm-DDA/pull/66243))
