@@ -1,3 +1,4 @@
+* add hk_usc45 to rare display guns group ([#66412](https://github.com/CleverRaven/Cataclysm-DDA/pull/66412))
 * New location: speedway ([#66402](https://github.com/CleverRaven/Cataclysm-DDA/pull/66402))
 * fix: dirt floors inside doctor's office ([#66437](https://github.com/CleverRaven/Cataclysm-DDA/pull/66437))
 * Improve CMake behavior on Unix and macOS ([#66369](https://github.com/CleverRaven/Cataclysm-DDA/pull/66369))
@@ -76,7 +77,6 @@
 * Routine tileset updates on 18 June 2023 ([#66296](https://github.com/CleverRaven/Cataclysm-DDA/pull/66296))
 * Add a generic shotgun to Aftershock ([#66268](https://github.com/CleverRaven/Cataclysm-DDA/pull/66268))
 * NRE recorder captures data in Close and distant storms ([#66265](https://github.com/CleverRaven/Cataclysm-DDA/pull/66265))
-* Add titanis walleri from Aftershock to Megafauna, small Megafauna fixes ([#66244](https://github.com/CleverRaven/Cataclysm-DDA/pull/66244))
 * Very minor roadstop/subway ramp OMT fix ([#66284](https://github.com/CleverRaven/Cataclysm-DDA/pull/66284))
 * Very minor pillow fort fix ([#66285](https://github.com/CleverRaven/Cataclysm-DDA/pull/66285))
 * Hotfix for #66273 ([#66287](https://github.com/CleverRaven/Cataclysm-DDA/pull/66287))
