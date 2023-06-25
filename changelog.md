@@ -1,3 +1,4 @@
+* Motel TWD parameterisation and roofs ([#66386](https://github.com/CleverRaven/Cataclysm-DDA/pull/66386))
 * add hk_usc45 to rare display guns group ([#66412](https://github.com/CleverRaven/Cataclysm-DDA/pull/66412))
 * New location: speedway ([#66402](https://github.com/CleverRaven/Cataclysm-DDA/pull/66402))
 * fix: dirt floors inside doctor's office ([#66437](https://github.com/CleverRaven/Cataclysm-DDA/pull/66437))
@@ -88,6 +89,5 @@
 * Test tweaks for less order dependency ([#66253](https://github.com/CleverRaven/Cataclysm-DDA/pull/66253))
 * Minor vehicle tweaks ([#66252](https://github.com/CleverRaven/Cataclysm-DDA/pull/66252))
 * Clear up description of WATERPROOF flag ([#66257](https://github.com/CleverRaven/Cataclysm-DDA/pull/66257))
-* Default to first scenario if Generic is blacklisted ([#66245](https://github.com/CleverRaven/Cataclysm-DDA/pull/66245))
 * More refugee centre migration ([#66254](https://github.com/CleverRaven/Cataclysm-DDA/pull/66254))
 * Routine i18n updates on 17 June 2023 ([#66247](https://github.com/CleverRaven/Cataclysm-DDA/pull/66247))
