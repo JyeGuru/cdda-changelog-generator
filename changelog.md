@@ -1,3 +1,4 @@
+* Burning down forests for fun and profit (and wood ash) ([#66352](https://github.com/CleverRaven/Cataclysm-DDA/pull/66352))
 * Motel TWD parameterisation and roofs ([#66386](https://github.com/CleverRaven/Cataclysm-DDA/pull/66386))
 * add hk_usc45 to rare display guns group ([#66412](https://github.com/CleverRaven/Cataclysm-DDA/pull/66412))
 * New location: speedway ([#66402](https://github.com/CleverRaven/Cataclysm-DDA/pull/66402))
