@@ -1,3 +1,6 @@
+* Fix for #66466 ([#66468](https://github.com/CleverRaven/Cataclysm-DDA/pull/66468))
+* Pre-strip comment members before deciding whether to create TextJson ([#66438](https://github.com/CleverRaven/Cataclysm-DDA/pull/66438))
+* fix: UPS transform target ([#66455](https://github.com/CleverRaven/Cataclysm-DDA/pull/66455))
 * Add firebricks to electric forge  ([#66465](https://github.com/CleverRaven/Cataclysm-DDA/pull/66465))
 * Megafauna quickfix ([#66445](https://github.com/CleverRaven/Cataclysm-DDA/pull/66445))
 * Burning down forests for fun and profit (and wood ash) ([#66352](https://github.com/CleverRaven/Cataclysm-DDA/pull/66352))
@@ -89,6 +92,3 @@
 * [Bombasticperks] Tiny fix ([#66274](https://github.com/CleverRaven/Cataclysm-DDA/pull/66274))
 * Typos and Engrish ([#66259](https://github.com/CleverRaven/Cataclysm-DDA/pull/66259))
 * Update the table of contents in doc/JSON_INFO.md ([#66258](https://github.com/CleverRaven/Cataclysm-DDA/pull/66258))
-* Test tweaks for less order dependency ([#66253](https://github.com/CleverRaven/Cataclysm-DDA/pull/66253))
-* Clear up description of WATERPROOF flag ([#66257](https://github.com/CleverRaven/Cataclysm-DDA/pull/66257))
-* More refugee centre migration ([#66254](https://github.com/CleverRaven/Cataclysm-DDA/pull/66254))

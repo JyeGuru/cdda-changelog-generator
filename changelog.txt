@@ -1,3 +1,6 @@
+* Fix for #66466 (#66468)
+* Pre-strip comment members before deciding whether to create TextJson (#66438)
+* fix: UPS transform target (#66455)
 * Add firebricks to electric forge  (#66465)
 * Megafauna quickfix (#66445)
 * Burning down forests for fun and profit (and wood ash) (#66352)
@@ -89,6 +92,3 @@
 * [Bombasticperks] Tiny fix (#66274)
 * Typos and Engrish (#66259)
 * Update the table of contents in doc/JSON_INFO.md (#66258)
-* Test tweaks for less order dependency (#66253)
-* Clear up description of WATERPROOF flag (#66257)
-* More refugee centre migration (#66254)
