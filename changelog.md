@@ -1,3 +1,4 @@
+* Add firebricks to electric forge  ([#66465](https://github.com/CleverRaven/Cataclysm-DDA/pull/66465))
 * Megafauna quickfix ([#66445](https://github.com/CleverRaven/Cataclysm-DDA/pull/66445))
 * Burning down forests for fun and profit (and wood ash) ([#66352](https://github.com/CleverRaven/Cataclysm-DDA/pull/66352))
 * Motel TWD parameterisation and roofs ([#66386](https://github.com/CleverRaven/Cataclysm-DDA/pull/66386))
@@ -89,6 +90,5 @@
 * Typos and Engrish ([#66259](https://github.com/CleverRaven/Cataclysm-DDA/pull/66259))
 * Update the table of contents in doc/JSON_INFO.md ([#66258](https://github.com/CleverRaven/Cataclysm-DDA/pull/66258))
 * Test tweaks for less order dependency ([#66253](https://github.com/CleverRaven/Cataclysm-DDA/pull/66253))
-* Minor vehicle tweaks ([#66252](https://github.com/CleverRaven/Cataclysm-DDA/pull/66252))
 * Clear up description of WATERPROOF flag ([#66257](https://github.com/CleverRaven/Cataclysm-DDA/pull/66257))
 * More refugee centre migration ([#66254](https://github.com/CleverRaven/Cataclysm-DDA/pull/66254))
