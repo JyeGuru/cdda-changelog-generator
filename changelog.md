@@ -1,3 +1,4 @@
+* palettize livestock 1 ([#66425](https://github.com/CleverRaven/Cataclysm-DDA/pull/66425))
 * Fix for #66466 ([#66468](https://github.com/CleverRaven/Cataclysm-DDA/pull/66468))
 * Pre-strip comment members before deciding whether to create TextJson ([#66438](https://github.com/CleverRaven/Cataclysm-DDA/pull/66438))
 * fix: UPS transform target ([#66455](https://github.com/CleverRaven/Cataclysm-DDA/pull/66455))
@@ -91,4 +92,3 @@
 * reduce loot in cars a bit ([#66267](https://github.com/CleverRaven/Cataclysm-DDA/pull/66267))
 * [Bombasticperks] Tiny fix ([#66274](https://github.com/CleverRaven/Cataclysm-DDA/pull/66274))
 * Typos and Engrish ([#66259](https://github.com/CleverRaven/Cataclysm-DDA/pull/66259))
-* Update the table of contents in doc/JSON_INFO.md ([#66258](https://github.com/CleverRaven/Cataclysm-DDA/pull/66258))
