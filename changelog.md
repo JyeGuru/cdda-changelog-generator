@@ -1,3 +1,4 @@
+* MOTD Modernize ([#66474](https://github.com/CleverRaven/Cataclysm-DDA/pull/66474))
 * palettize livestock 1 ([#66425](https://github.com/CleverRaven/Cataclysm-DDA/pull/66425))
 * Fix for #66466 ([#66468](https://github.com/CleverRaven/Cataclysm-DDA/pull/66468))
 * Pre-strip comment members before deciding whether to create TextJson ([#66438](https://github.com/CleverRaven/Cataclysm-DDA/pull/66438))
@@ -91,4 +92,3 @@
 * reduce police roadblock monster spawns ([#66266](https://github.com/CleverRaven/Cataclysm-DDA/pull/66266))
 * reduce loot in cars a bit ([#66267](https://github.com/CleverRaven/Cataclysm-DDA/pull/66267))
 * [Bombasticperks] Tiny fix ([#66274](https://github.com/CleverRaven/Cataclysm-DDA/pull/66274))
-* Typos and Engrish ([#66259](https://github.com/CleverRaven/Cataclysm-DDA/pull/66259))
