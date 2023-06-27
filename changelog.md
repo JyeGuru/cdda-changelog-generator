@@ -1,3 +1,4 @@
+* No cities = no roads ([#66487](https://github.com/CleverRaven/Cataclysm-DDA/pull/66487))
 * Fix inverted visitied member conditional for large Json objects. ([#66481](https://github.com/CleverRaven/Cataclysm-DDA/pull/66481))
 * Functionality for armor draining energy when taking damage ([#66374](https://github.com/CleverRaven/Cataclysm-DDA/pull/66374))
 * More distribution options and bounds for mutable maps max field ([#66282](https://github.com/CleverRaven/Cataclysm-DDA/pull/66282))
@@ -89,6 +90,5 @@
 * Very minor roadstop/subway ramp OMT fix ([#66284](https://github.com/CleverRaven/Cataclysm-DDA/pull/66284))
 * Very minor pillow fort fix ([#66285](https://github.com/CleverRaven/Cataclysm-DDA/pull/66285))
 * Hotfix for #66273 ([#66287](https://github.com/CleverRaven/Cataclysm-DDA/pull/66287))
-* reduce police roadblock monster spawns ([#66266](https://github.com/CleverRaven/Cataclysm-DDA/pull/66266))
 * reduce loot in cars a bit ([#66267](https://github.com/CleverRaven/Cataclysm-DDA/pull/66267))
 * [Bombasticperks] Tiny fix ([#66274](https://github.com/CleverRaven/Cataclysm-DDA/pull/66274))
