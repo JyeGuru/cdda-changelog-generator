@@ -1,3 +1,4 @@
+* Fix inverted visitied member conditional for large Json objects. ([#66481](https://github.com/CleverRaven/Cataclysm-DDA/pull/66481))
 * Functionality for armor draining energy when taking damage ([#66374](https://github.com/CleverRaven/Cataclysm-DDA/pull/66374))
 * More distribution options and bounds for mutable maps max field ([#66282](https://github.com/CleverRaven/Cataclysm-DDA/pull/66282))
 * MOTD Modernize ([#66474](https://github.com/CleverRaven/Cataclysm-DDA/pull/66474))
@@ -85,7 +86,6 @@
 * Revert 4x4_car ram change ([#66309](https://github.com/CleverRaven/Cataclysm-DDA/pull/66309))
 * Routine tileset updates on 18 June 2023 ([#66296](https://github.com/CleverRaven/Cataclysm-DDA/pull/66296))
 * Add a generic shotgun to Aftershock ([#66268](https://github.com/CleverRaven/Cataclysm-DDA/pull/66268))
-* NRE recorder captures data in Close and distant storms ([#66265](https://github.com/CleverRaven/Cataclysm-DDA/pull/66265))
 * Very minor roadstop/subway ramp OMT fix ([#66284](https://github.com/CleverRaven/Cataclysm-DDA/pull/66284))
 * Very minor pillow fort fix ([#66285](https://github.com/CleverRaven/Cataclysm-DDA/pull/66285))
 * Hotfix for #66273 ([#66287](https://github.com/CleverRaven/Cataclysm-DDA/pull/66287))
