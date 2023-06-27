@@ -1,3 +1,5 @@
+* Move mansion bookcase memorial items out of the mansion_books item group (#66490)
+* storehouse 1 palettization (#66447)
 * [Magiclysm] Fixes runes' duration (#66472)
 * Migrate lore docs to dev documentation (#66476)
 * Updated index removed all developer facing pages (#66475)
@@ -91,4 +93,3 @@
 * Very minor roadstop/subway ramp OMT fix (#66284)
 * Very minor pillow fort fix (#66285)
 * Hotfix for #66273 (#66287)
-* [Bombasticperks] Tiny fix (#66274)
