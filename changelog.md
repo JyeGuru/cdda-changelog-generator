@@ -1,3 +1,4 @@
+* [Magiclysm] Fixes runes' duration ([#66472](https://github.com/CleverRaven/Cataclysm-DDA/pull/66472))
 * Migrate lore docs to dev documentation ([#66476](https://github.com/CleverRaven/Cataclysm-DDA/pull/66476))
 * Updated index removed all developer facing pages ([#66475](https://github.com/CleverRaven/Cataclysm-DDA/pull/66475))
 * No cities = no roads ([#66487](https://github.com/CleverRaven/Cataclysm-DDA/pull/66487))
@@ -69,7 +70,6 @@
 * Better diagnostics for overmap_terrain_coverage test ([#66306](https://github.com/CleverRaven/Cataclysm-DDA/pull/66306))
 * Fix clang-tidy tests on Windows ([#66315](https://github.com/CleverRaven/Cataclysm-DDA/pull/66315))
 * implement wall-mounted appliances, abstract wiring ([#66316](https://github.com/CleverRaven/Cataclysm-DDA/pull/66316))
-* Elevate Beta Talker ([#66270](https://github.com/CleverRaven/Cataclysm-DDA/pull/66270))
 * Fix map memory not cleared when dragging ([#66327](https://github.com/CleverRaven/Cataclysm-DDA/pull/66327))
 * Refactor vehicle constructors, init_state, map::add_vehicle ([#66330](https://github.com/CleverRaven/Cataclysm-DDA/pull/66330))
 * Fix NPC putting items in open air when fetching items during an activity when 3D FOV is on ([#66337](https://github.com/CleverRaven/Cataclysm-DDA/pull/66337))
