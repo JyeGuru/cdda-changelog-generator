@@ -1,3 +1,4 @@
+* Adding ranged damage enchantment and Old guns perk to bombastic perks ([#66407](https://github.com/CleverRaven/Cataclysm-DDA/pull/66407))
 * remove fine screwdriving from multitool ([#66493](https://github.com/CleverRaven/Cataclysm-DDA/pull/66493))
 * Add missing mutagen types to mutagen item groups ([#66485](https://github.com/CleverRaven/Cataclysm-DDA/pull/66485))
 * [Xedra Evolved] Maintaining ([#66456](https://github.com/CleverRaven/Cataclysm-DDA/pull/66456))
@@ -81,7 +82,6 @@
 * Fix NPC putting items in open air when fetching items during an activity when 3D FOV is on ([#66337](https://github.com/CleverRaven/Cataclysm-DDA/pull/66337))
 * Remove BLADED_FARMING weapon category. Replace with SHORT_SWORDS where applicable. Fix scythe to-hit. ([#66338](https://github.com/CleverRaven/Cataclysm-DDA/pull/66338))
 * Hound afterimages also copy their host nicknames ([#66339](https://github.com/CleverRaven/Cataclysm-DDA/pull/66339))
-* [Xedra Evolved] Another batch of random stuff ([#66289](https://github.com/CleverRaven/Cataclysm-DDA/pull/66289))
 * Fix large sprites not displaying correctly ([#66332](https://github.com/CleverRaven/Cataclysm-DDA/pull/66332))
 * Exclude tools/spell_checker/dictionary.txt from auto-request-review config ([#66335](https://github.com/CleverRaven/Cataclysm-DDA/pull/66335))
 * Various perf improvements ([#66333](https://github.com/CleverRaven/Cataclysm-DDA/pull/66333))
