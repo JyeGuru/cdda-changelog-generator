@@ -1,3 +1,4 @@
+* Fixes typos and adds more talk tag lines ([#66501](https://github.com/CleverRaven/Cataclysm-DDA/pull/66501))
 * Pantsaclysm, Trouser Variants Ahead. ([#66484](https://github.com/CleverRaven/Cataclysm-DDA/pull/66484))
 * light industries palettization ([#66507](https://github.com/CleverRaven/Cataclysm-DDA/pull/66507))
 * Add double holsters ([#66498](https://github.com/CleverRaven/Cataclysm-DDA/pull/66498))
@@ -55,7 +56,6 @@
 * Draw Enchantment Mutations ([#66382](https://github.com/CleverRaven/Cataclysm-DDA/pull/66382))
 * Allow TOW_CABLEs on harnesses/protrusions ([#66385](https://github.com/CleverRaven/Cataclysm-DDA/pull/66385))
 * Gutter Unify Tool Part 4 ([#66395](https://github.com/CleverRaven/Cataclysm-DDA/pull/66395))
-* Weekly Changelog 2023-06-12 to 2023-06-19 ([#66299](https://github.com/CleverRaven/Cataclysm-DDA/pull/66299))
 * Minor bird description tweaks ([#66368](https://github.com/CleverRaven/Cataclysm-DDA/pull/66368))
 * main: fix cmdline parsing ([#66359](https://github.com/CleverRaven/Cataclysm-DDA/pull/66359))
 * Gutter Unify Tool Part 3 ([#66328](https://github.com/CleverRaven/Cataclysm-DDA/pull/66328))
