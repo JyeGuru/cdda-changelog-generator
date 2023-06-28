@@ -1,3 +1,5 @@
+* [Xedra Evolved] Maintaining ([#66456](https://github.com/CleverRaven/Cataclysm-DDA/pull/66456))
+* palettized fbmc fire lookout tower ([#66495](https://github.com/CleverRaven/Cataclysm-DDA/pull/66495))
 * test fixes for ranged balance ([#66413](https://github.com/CleverRaven/Cataclysm-DDA/pull/66413))
 * Weekly Changelog 2023-06-19 to 2023-06-26 ([#66464](https://github.com/CleverRaven/Cataclysm-DDA/pull/66464))
 * Move mansion bookcase memorial items out of the mansion_books item group ([#66490](https://github.com/CleverRaven/Cataclysm-DDA/pull/66490))
@@ -90,6 +92,4 @@
 * Airplane seats have seatbelts ([#66304](https://github.com/CleverRaven/Cataclysm-DDA/pull/66304))
 * Revert 4x4_car ram change ([#66309](https://github.com/CleverRaven/Cataclysm-DDA/pull/66309))
 * Routine tileset updates on 18 June 2023 ([#66296](https://github.com/CleverRaven/Cataclysm-DDA/pull/66296))
-* Very minor roadstop/subway ramp OMT fix ([#66284](https://github.com/CleverRaven/Cataclysm-DDA/pull/66284))
-* Very minor pillow fort fix ([#66285](https://github.com/CleverRaven/Cataclysm-DDA/pull/66285))
 * Hotfix for #66273 ([#66287](https://github.com/CleverRaven/Cataclysm-DDA/pull/66287))
