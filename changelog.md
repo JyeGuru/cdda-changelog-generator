@@ -1,3 +1,4 @@
+* light industries palettization ([#66507](https://github.com/CleverRaven/Cataclysm-DDA/pull/66507))
 * Add double holsters ([#66498](https://github.com/CleverRaven/Cataclysm-DDA/pull/66498))
 * adds some new possible nightmares ([#66503](https://github.com/CleverRaven/Cataclysm-DDA/pull/66503))
 * Adding ranged damage enchantment and Old guns perk to bombastic perks ([#66407](https://github.com/CleverRaven/Cataclysm-DDA/pull/66407))
@@ -38,7 +39,6 @@
 * Routine i18n updates on 24 June 2023 ([#66420](https://github.com/CleverRaven/Cataclysm-DDA/pull/66420))
 * palettized canteen 1 ([#66403](https://github.com/CleverRaven/Cataclysm-DDA/pull/66403))
 * Gutter Unify Tool Part 5 ([#66401](https://github.com/CleverRaven/Cataclysm-DDA/pull/66401))
-* Use generic_factory for vpart_info ([#66295](https://github.com/CleverRaven/Cataclysm-DDA/pull/66295))
 * Docs Fixes ([#66345](https://github.com/CleverRaven/Cataclysm-DDA/pull/66345))
 * remove int-ua ([#66404](https://github.com/CleverRaven/Cataclysm-DDA/pull/66404))
 * Dirty cache / clear memory map on furn/trap removal ([#66399](https://github.com/CleverRaven/Cataclysm-DDA/pull/66399))
