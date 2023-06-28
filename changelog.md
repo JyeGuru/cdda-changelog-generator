@@ -1,3 +1,4 @@
+* Add double holsters ([#66498](https://github.com/CleverRaven/Cataclysm-DDA/pull/66498))
 * adds some new possible nightmares ([#66503](https://github.com/CleverRaven/Cataclysm-DDA/pull/66503))
 * Adding ranged damage enchantment and Old guns perk to bombastic perks ([#66407](https://github.com/CleverRaven/Cataclysm-DDA/pull/66407))
 * remove fine screwdriving from multitool ([#66493](https://github.com/CleverRaven/Cataclysm-DDA/pull/66493))
@@ -87,7 +88,6 @@
 * Exclude tools/spell_checker/dictionary.txt from auto-request-review config ([#66335](https://github.com/CleverRaven/Cataclysm-DDA/pull/66335))
 * Various perf improvements ([#66333](https://github.com/CleverRaven/Cataclysm-DDA/pull/66333))
 * Typo fix ([#66329](https://github.com/CleverRaven/Cataclysm-DDA/pull/66329))
-* Ignored .sav extention in file path until we get to the filename. ([#66293](https://github.com/CleverRaven/Cataclysm-DDA/pull/66293))
 * Fix clang-tidy check ([#66308](https://github.com/CleverRaven/Cataclysm-DDA/pull/66308))
 * Gutter Unify Tool Part 2 ([#66313](https://github.com/CleverRaven/Cataclysm-DDA/pull/66313))
 * Very minor bakery roof changes ([#66317](https://github.com/CleverRaven/Cataclysm-DDA/pull/66317))
