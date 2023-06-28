@@ -1,3 +1,4 @@
+* remove fine screwdriving from multitool ([#66493](https://github.com/CleverRaven/Cataclysm-DDA/pull/66493))
 * Add missing mutagen types to mutagen item groups ([#66485](https://github.com/CleverRaven/Cataclysm-DDA/pull/66485))
 * [Xedra Evolved] Maintaining ([#66456](https://github.com/CleverRaven/Cataclysm-DDA/pull/66456))
 * palettized fbmc fire lookout tower ([#66495](https://github.com/CleverRaven/Cataclysm-DDA/pull/66495))
@@ -38,7 +39,6 @@
 * Docs Fixes ([#66345](https://github.com/CleverRaven/Cataclysm-DDA/pull/66345))
 * remove int-ua ([#66404](https://github.com/CleverRaven/Cataclysm-DDA/pull/66404))
 * Dirty cache / clear memory map on furn/trap removal ([#66399](https://github.com/CleverRaven/Cataclysm-DDA/pull/66399))
-* Melee EOCs ([#66288](https://github.com/CleverRaven/Cataclysm-DDA/pull/66288))
 * 3D vision for isometric tilesets ([#66383](https://github.com/CleverRaven/Cataclysm-DDA/pull/66383))
 * Add the Hi-Point 3895, a .380 ACP PCC ([#66373](https://github.com/CleverRaven/Cataclysm-DDA/pull/66373))
 * Add a doctor/autodoc to the Ancilla bar ([#66377](https://github.com/CleverRaven/Cataclysm-DDA/pull/66377))
