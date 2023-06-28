@@ -1,3 +1,4 @@
+* adds some new possible nightmares (#66503)
 * Adding ranged damage enchantment and Old guns perk to bombastic perks (#66407)
 * remove fine screwdriving from multitool (#66493)
 * Add missing mutagen types to mutagen item groups (#66485)

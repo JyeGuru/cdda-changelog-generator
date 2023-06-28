@@ -1,3 +1,4 @@
+* adds some new possible nightmares ([#66503](https://github.com/CleverRaven/Cataclysm-DDA/pull/66503))
 * Adding ranged damage enchantment and Old guns perk to bombastic perks ([#66407](https://github.com/CleverRaven/Cataclysm-DDA/pull/66407))
 * remove fine screwdriving from multitool ([#66493](https://github.com/CleverRaven/Cataclysm-DDA/pull/66493))
 * Add missing mutagen types to mutagen item groups ([#66485](https://github.com/CleverRaven/Cataclysm-DDA/pull/66485))
