@@ -1,3 +1,4 @@
+* Add missing mutagen types to mutagen item groups (#66485)
 * [Xedra Evolved] Maintaining (#66456)
 * palettized fbmc fire lookout tower (#66495)
 * test fixes for ranged balance (#66413)
@@ -92,4 +93,3 @@
 * Airplane seats have seatbelts (#66304)
 * Revert 4x4_car ram change (#66309)
 * Routine tileset updates on 18 June 2023 (#66296)
-* Hotfix for #66273 (#66287)
