@@ -1,3 +1,4 @@
+* Pantsaclysm, Trouser Variants Ahead. ([#66484](https://github.com/CleverRaven/Cataclysm-DDA/pull/66484))
 * light industries palettization ([#66507](https://github.com/CleverRaven/Cataclysm-DDA/pull/66507))
 * Add double holsters ([#66498](https://github.com/CleverRaven/Cataclysm-DDA/pull/66498))
 * adds some new possible nightmares ([#66503](https://github.com/CleverRaven/Cataclysm-DDA/pull/66503))
@@ -93,4 +94,3 @@
 * Very minor bakery roof changes ([#66317](https://github.com/CleverRaven/Cataclysm-DDA/pull/66317))
 * Airplane seats have seatbelts ([#66304](https://github.com/CleverRaven/Cataclysm-DDA/pull/66304))
 * Revert 4x4_car ram change ([#66309](https://github.com/CleverRaven/Cataclysm-DDA/pull/66309))
-* Routine tileset updates on 18 June 2023 ([#66296](https://github.com/CleverRaven/Cataclysm-DDA/pull/66296))
