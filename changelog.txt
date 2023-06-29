@@ -70,7 +70,6 @@
 * main: fix cmdline parsing (#66359)
 * Gutter Unify Tool Part 3 (#66328)
 * garange 2 palettization (#66381)
-* Whitelist Deserter Bandit camp from overmap_test.cpp (#66320)
 * Some documentation cleanup (#66378)
 * [Aftershock] recipe for processed lichen fix (#66372)
 * Single Typo (#66356)
