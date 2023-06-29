@@ -1,3 +1,4 @@
+* Routine tileset updates on 25 June 2023 ([#66461](https://github.com/CleverRaven/Cataclysm-DDA/pull/66461))
 * Autostyle on save for VSC ([#66446](https://github.com/CleverRaven/Cataclysm-DDA/pull/66446))
 * Add more generic_factory checks to vpart_info loader ([#66450](https://github.com/CleverRaven/Cataclysm-DDA/pull/66450))
 * Fix vehicle heater consuming too much energy ([#66504](https://github.com/CleverRaven/Cataclysm-DDA/pull/66504))
@@ -93,5 +94,4 @@
 * Exclude tools/spell_checker/dictionary.txt from auto-request-review config ([#66335](https://github.com/CleverRaven/Cataclysm-DDA/pull/66335))
 * Various perf improvements ([#66333](https://github.com/CleverRaven/Cataclysm-DDA/pull/66333))
 * Typo fix ([#66329](https://github.com/CleverRaven/Cataclysm-DDA/pull/66329))
-* Gutter Unify Tool Part 2 ([#66313](https://github.com/CleverRaven/Cataclysm-DDA/pull/66313))
 * Very minor bakery roof changes ([#66317](https://github.com/CleverRaven/Cataclysm-DDA/pull/66317))
