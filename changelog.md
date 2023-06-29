@@ -1,3 +1,4 @@
+* Fix and re-enable 3D map memory ([#66505](https://github.com/CleverRaven/Cataclysm-DDA/pull/66505))
 * Routine tileset updates on 25 June 2023 ([#66461](https://github.com/CleverRaven/Cataclysm-DDA/pull/66461))
 * Autostyle on save for VSC ([#66446](https://github.com/CleverRaven/Cataclysm-DDA/pull/66446))
 * Add more generic_factory checks to vpart_info loader ([#66450](https://github.com/CleverRaven/Cataclysm-DDA/pull/66450))
@@ -83,7 +84,6 @@
 * re-reduce zombie survivor drops ([#66323](https://github.com/CleverRaven/Cataclysm-DDA/pull/66323))
 * alter/dilute everyday carry drops ([#66322](https://github.com/CleverRaven/Cataclysm-DDA/pull/66322))
 * Additional Factions to Lore.md ([#66343](https://github.com/CleverRaven/Cataclysm-DDA/pull/66343))
-* Fix clang-tidy tests on Windows ([#66315](https://github.com/CleverRaven/Cataclysm-DDA/pull/66315))
 * implement wall-mounted appliances, abstract wiring ([#66316](https://github.com/CleverRaven/Cataclysm-DDA/pull/66316))
 * Fix map memory not cleared when dragging ([#66327](https://github.com/CleverRaven/Cataclysm-DDA/pull/66327))
 * Refactor vehicle constructors, init_state, map::add_vehicle ([#66330](https://github.com/CleverRaven/Cataclysm-DDA/pull/66330))
