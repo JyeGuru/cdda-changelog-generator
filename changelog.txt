@@ -1,3 +1,4 @@
+* Enable mod tracker for vpart_info (#66526)
 * Cast iron (#66380)
 * Remove redefined door fields (#66523)
 * Readd Glorious to Elf-A (#66496)
@@ -91,4 +92,3 @@
 * Fix large sprites not displaying correctly (#66332)
 * Exclude tools/spell_checker/dictionary.txt from auto-request-review config (#66335)
 * Various perf improvements (#66333)
-* Typo fix (#66329)

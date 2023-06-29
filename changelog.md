@@ -1,3 +1,4 @@
+* Enable mod tracker for vpart_info ([#66526](https://github.com/CleverRaven/Cataclysm-DDA/pull/66526))
 * Cast iron ([#66380](https://github.com/CleverRaven/Cataclysm-DDA/pull/66380))
 * Remove redefined door fields ([#66523](https://github.com/CleverRaven/Cataclysm-DDA/pull/66523))
 * Readd Glorious to Elf-A ([#66496](https://github.com/CleverRaven/Cataclysm-DDA/pull/66496))
@@ -91,4 +92,3 @@
 * Fix large sprites not displaying correctly ([#66332](https://github.com/CleverRaven/Cataclysm-DDA/pull/66332))
 * Exclude tools/spell_checker/dictionary.txt from auto-request-review config ([#66335](https://github.com/CleverRaven/Cataclysm-DDA/pull/66335))
 * Various perf improvements ([#66333](https://github.com/CleverRaven/Cataclysm-DDA/pull/66333))
-* Typo fix ([#66329](https://github.com/CleverRaven/Cataclysm-DDA/pull/66329))
