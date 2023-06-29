@@ -1,3 +1,4 @@
+* Vegan Trait ([#66511](https://github.com/CleverRaven/Cataclysm-DDA/pull/66511))
 * Call set_language even when LOCALIZE is off ([#66460](https://github.com/CleverRaven/Cataclysm-DDA/pull/66460))
 * Fix and re-enable 3D map memory ([#66505](https://github.com/CleverRaven/Cataclysm-DDA/pull/66505))
 * Routine tileset updates on 25 June 2023 ([#66461](https://github.com/CleverRaven/Cataclysm-DDA/pull/66461))
@@ -94,4 +95,3 @@
 * Exclude tools/spell_checker/dictionary.txt from auto-request-review config ([#66335](https://github.com/CleverRaven/Cataclysm-DDA/pull/66335))
 * Various perf improvements ([#66333](https://github.com/CleverRaven/Cataclysm-DDA/pull/66333))
 * Typo fix ([#66329](https://github.com/CleverRaven/Cataclysm-DDA/pull/66329))
-* Very minor bakery roof changes ([#66317](https://github.com/CleverRaven/Cataclysm-DDA/pull/66317))
