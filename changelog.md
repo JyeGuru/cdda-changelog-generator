@@ -1,3 +1,4 @@
+* Fix vehicle heater consuming too much energy ([#66504](https://github.com/CleverRaven/Cataclysm-DDA/pull/66504))
 * Fix generator UPS not consuming fuel ([#66509](https://github.com/CleverRaven/Cataclysm-DDA/pull/66509))
 * No debug_mode when npc starts looping ([#66516](https://github.com/CleverRaven/Cataclysm-DDA/pull/66516))
 * Fix conflicting BSD macro on macOS ([#66513](https://github.com/CleverRaven/Cataclysm-DDA/pull/66513))
@@ -94,4 +95,3 @@
 * Typo fix ([#66329](https://github.com/CleverRaven/Cataclysm-DDA/pull/66329))
 * Gutter Unify Tool Part 2 ([#66313](https://github.com/CleverRaven/Cataclysm-DDA/pull/66313))
 * Very minor bakery roof changes ([#66317](https://github.com/CleverRaven/Cataclysm-DDA/pull/66317))
-* Revert 4x4_car ram change ([#66309](https://github.com/CleverRaven/Cataclysm-DDA/pull/66309))
