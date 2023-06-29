@@ -71,7 +71,6 @@
 * Gutter Unify Tool Part 4 ([#66395](https://github.com/CleverRaven/Cataclysm-DDA/pull/66395))
 * Minor bird description tweaks ([#66368](https://github.com/CleverRaven/Cataclysm-DDA/pull/66368))
 * main: fix cmdline parsing ([#66359](https://github.com/CleverRaven/Cataclysm-DDA/pull/66359))
-* Gutter Unify Tool Part 3 ([#66328](https://github.com/CleverRaven/Cataclysm-DDA/pull/66328))
 * garange 2 palettization ([#66381](https://github.com/CleverRaven/Cataclysm-DDA/pull/66381))
 * Some documentation cleanup ([#66378](https://github.com/CleverRaven/Cataclysm-DDA/pull/66378))
 * [Aftershock] recipe for processed lichen fix ([#66372](https://github.com/CleverRaven/Cataclysm-DDA/pull/66372))
