@@ -1,3 +1,5 @@
+* make welding practice less resource intensive ([#66514](https://github.com/CleverRaven/Cataclysm-DDA/pull/66514))
+* Better special placement and road connections ([#66463](https://github.com/CleverRaven/Cataclysm-DDA/pull/66463))
 * Fixes typos and adds more talk tag lines ([#66501](https://github.com/CleverRaven/Cataclysm-DDA/pull/66501))
 * Pantsaclysm, Trouser Variants Ahead. ([#66484](https://github.com/CleverRaven/Cataclysm-DDA/pull/66484))
 * light industries palettization ([#66507](https://github.com/CleverRaven/Cataclysm-DDA/pull/66507))
@@ -48,7 +50,6 @@
 * Add the Hi-Point 3895, a .380 ACP PCC ([#66373](https://github.com/CleverRaven/Cataclysm-DDA/pull/66373))
 * Add a doctor/autodoc to the Ancilla bar ([#66377](https://github.com/CleverRaven/Cataclysm-DDA/pull/66377))
 * Fix dodge training ([#66392](https://github.com/CleverRaven/Cataclysm-DDA/pull/66392))
-* adjust/fix cunning feral drops ([#66303](https://github.com/CleverRaven/Cataclysm-DDA/pull/66303))
 * Rebalance leather jackets and some other leather gear ([#66389](https://github.com/CleverRaven/Cataclysm-DDA/pull/66389))
 * Guns need more skill, performing much worse at low skills ([#66347](https://github.com/CleverRaven/Cataclysm-DDA/pull/66347))
 * Disable the Bionic Professions mod by default ([#66351](https://github.com/CleverRaven/Cataclysm-DDA/pull/66351))
