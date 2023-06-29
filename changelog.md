@@ -1,3 +1,4 @@
+* Update EFFECT_ON_CONDITION.md ([#66533](https://github.com/CleverRaven/Cataclysm-DDA/pull/66533))
 * Bypass variant picking on install if there's only one choice ([#66528](https://github.com/CleverRaven/Cataclysm-DDA/pull/66528))
 * Updated generator docs ([#66531](https://github.com/CleverRaven/Cataclysm-DDA/pull/66531))
 * Enable mod tracker for vpart_info ([#66526](https://github.com/CleverRaven/Cataclysm-DDA/pull/66526))
@@ -91,4 +92,3 @@
 * Remove BLADED_FARMING weapon category. Replace with SHORT_SWORDS where applicable. Fix scythe to-hit. ([#66338](https://github.com/CleverRaven/Cataclysm-DDA/pull/66338))
 * Hound afterimages also copy their host nicknames ([#66339](https://github.com/CleverRaven/Cataclysm-DDA/pull/66339))
 * Exclude tools/spell_checker/dictionary.txt from auto-request-review config ([#66335](https://github.com/CleverRaven/Cataclysm-DDA/pull/66335))
-* Various perf improvements ([#66333](https://github.com/CleverRaven/Cataclysm-DDA/pull/66333))
