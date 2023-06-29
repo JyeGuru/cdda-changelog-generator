@@ -1,3 +1,4 @@
+* Readd Glorious to Elf-A ([#66496](https://github.com/CleverRaven/Cataclysm-DDA/pull/66496))
 * Vegan Trait ([#66511](https://github.com/CleverRaven/Cataclysm-DDA/pull/66511))
 * Call set_language even when LOCALIZE is off ([#66460](https://github.com/CleverRaven/Cataclysm-DDA/pull/66460))
 * Fix and re-enable 3D map memory ([#66505](https://github.com/CleverRaven/Cataclysm-DDA/pull/66505))
@@ -79,7 +80,6 @@
 * Fix Mutation issues with process ([#66364](https://github.com/CleverRaven/Cataclysm-DDA/pull/66364))
 * Added power consumption for generator UPS ([#66348](https://github.com/CleverRaven/Cataclysm-DDA/pull/66348))
 * Revert "Use unordered_set to deduplicate active items (#66310)" ([#66360](https://github.com/CleverRaven/Cataclysm-DDA/pull/66360))
-* embed context vars ([#66321](https://github.com/CleverRaven/Cataclysm-DDA/pull/66321))
 * Add a recipe for disconnected standing directed floodlight ([#66346](https://github.com/CleverRaven/Cataclysm-DDA/pull/66346))
 * Adjust blackpowder fouling mechanics and other fault_fix QoL ([#66341](https://github.com/CleverRaven/Cataclysm-DDA/pull/66341))
 * re-reduce zombie survivor drops ([#66323](https://github.com/CleverRaven/Cataclysm-DDA/pull/66323))
