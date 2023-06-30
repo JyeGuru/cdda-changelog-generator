@@ -1,3 +1,4 @@
+* Remote vehicle controller and programmable autopilot fixes ([#66534](https://github.com/CleverRaven/Cataclysm-DDA/pull/66534))
 * Fix check_clang_tidy.py doc string ([#66538](https://github.com/CleverRaven/Cataclysm-DDA/pull/66538))
 * Adds migration I didn't think about ([#66537](https://github.com/CleverRaven/Cataclysm-DDA/pull/66537))
 * Check map bounds before checking Character::sees() ([#66431](https://github.com/CleverRaven/Cataclysm-DDA/pull/66431))
@@ -91,4 +92,3 @@
 * Add a recipe for disconnected standing directed floodlight ([#66346](https://github.com/CleverRaven/Cataclysm-DDA/pull/66346))
 * Adjust blackpowder fouling mechanics and other fault_fix QoL ([#66341](https://github.com/CleverRaven/Cataclysm-DDA/pull/66341))
 * Additional Factions to Lore.md ([#66343](https://github.com/CleverRaven/Cataclysm-DDA/pull/66343))
-* Hound afterimages also copy their host nicknames ([#66339](https://github.com/CleverRaven/Cataclysm-DDA/pull/66339))
