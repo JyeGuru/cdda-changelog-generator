@@ -1,3 +1,4 @@
+* Update clear_character to remove mutation categories ([#66561](https://github.com/CleverRaven/Cataclysm-DDA/pull/66561))
 * No more adobe brick stadiums ([#66546](https://github.com/CleverRaven/Cataclysm-DDA/pull/66546))
 * [Xedra Evolved] Magic MTFs ([#66512](https://github.com/CleverRaven/Cataclysm-DDA/pull/66512))
 * fbmc pottery cottage palettization ([#66522](https://github.com/CleverRaven/Cataclysm-DDA/pull/66522))
@@ -77,7 +78,6 @@
 * Add a doctor/autodoc to the Ancilla bar ([#66377](https://github.com/CleverRaven/Cataclysm-DDA/pull/66377))
 * Fix dodge training ([#66392](https://github.com/CleverRaven/Cataclysm-DDA/pull/66392))
 * Rebalance leather jackets and some other leather gear ([#66389](https://github.com/CleverRaven/Cataclysm-DDA/pull/66389))
-* Disable the Bionic Professions mod by default ([#66351](https://github.com/CleverRaven/Cataclysm-DDA/pull/66351))
 * Draw Enchantment Mutations ([#66382](https://github.com/CleverRaven/Cataclysm-DDA/pull/66382))
 * Allow TOW_CABLEs on harnesses/protrusions ([#66385](https://github.com/CleverRaven/Cataclysm-DDA/pull/66385))
 * Gutter Unify Tool Part 4 ([#66395](https://github.com/CleverRaven/Cataclysm-DDA/pull/66395))
