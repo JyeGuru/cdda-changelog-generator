@@ -1,3 +1,5 @@
+* Adds migration I didn't think about ([#66537](https://github.com/CleverRaven/Cataclysm-DDA/pull/66537))
+* Check map bounds before checking Character::sees() ([#66431](https://github.com/CleverRaven/Cataclysm-DDA/pull/66431))
 * Update EFFECT_ON_CONDITION.md ([#66533](https://github.com/CleverRaven/Cataclysm-DDA/pull/66533))
 * Bypass variant picking on install if there's only one choice ([#66528](https://github.com/CleverRaven/Cataclysm-DDA/pull/66528))
 * Updated generator docs ([#66531](https://github.com/CleverRaven/Cataclysm-DDA/pull/66531))
@@ -88,7 +90,5 @@
 * Add a recipe for disconnected standing directed floodlight ([#66346](https://github.com/CleverRaven/Cataclysm-DDA/pull/66346))
 * Adjust blackpowder fouling mechanics and other fault_fix QoL ([#66341](https://github.com/CleverRaven/Cataclysm-DDA/pull/66341))
 * Additional Factions to Lore.md ([#66343](https://github.com/CleverRaven/Cataclysm-DDA/pull/66343))
-* Fix NPC putting items in open air when fetching items during an activity when 3D FOV is on ([#66337](https://github.com/CleverRaven/Cataclysm-DDA/pull/66337))
 * Remove BLADED_FARMING weapon category. Replace with SHORT_SWORDS where applicable. Fix scythe to-hit. ([#66338](https://github.com/CleverRaven/Cataclysm-DDA/pull/66338))
 * Hound afterimages also copy their host nicknames ([#66339](https://github.com/CleverRaven/Cataclysm-DDA/pull/66339))
-* Exclude tools/spell_checker/dictionary.txt from auto-request-review config ([#66335](https://github.com/CleverRaven/Cataclysm-DDA/pull/66335))

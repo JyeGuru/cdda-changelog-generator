@@ -1,3 +1,5 @@
+* Adds migration I didn't think about (#66537)
+* Check map bounds before checking Character::sees() (#66431)
 * Update EFFECT_ON_CONDITION.md (#66533)
 * Bypass variant picking on install if there's only one choice (#66528)
 * Updated generator docs (#66531)
@@ -88,7 +90,5 @@
 * Add a recipe for disconnected standing directed floodlight (#66346)
 * Adjust blackpowder fouling mechanics and other fault_fix QoL (#66341)
 * Additional Factions to Lore.md (#66343)
-* Fix NPC putting items in open air when fetching items during an activity when 3D FOV is on (#66337)
 * Remove BLADED_FARMING weapon category. Replace with SHORT_SWORDS where applicable. Fix scythe to-hit. (#66338)
 * Hound afterimages also copy their host nicknames (#66339)
-* Exclude tools/spell_checker/dictionary.txt from auto-request-review config (#66335)
