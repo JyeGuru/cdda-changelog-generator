@@ -1,3 +1,4 @@
+* No more adobe brick stadiums (#66546)
 * [Xedra Evolved] Magic MTFs (#66512)
 * fbmc pottery cottage palettization (#66522)
 * Condom Variants (#66529)
@@ -90,5 +91,4 @@
 * Add wall light recipe (#66362)
 * workshop 2 palettization (#66353)
 * Fix Mutation issues with process (#66364)
-* Added power consumption for generator UPS (#66348)
 * Revert "Use unordered_set to deduplicate active items (#66310)" (#66360)
