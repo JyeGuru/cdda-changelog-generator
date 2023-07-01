@@ -1,3 +1,4 @@
+* Typos ([#66536](https://github.com/CleverRaven/Cataclysm-DDA/pull/66536))
 * [Alternative Map Key] Building alternatives now show correctly on the map ([#66554](https://github.com/CleverRaven/Cataclysm-DDA/pull/66554))
 * Counter gate move cost ([#66429](https://github.com/CleverRaven/Cataclysm-DDA/pull/66429))
 * Add autopilot test ([#66556](https://github.com/CleverRaven/Cataclysm-DDA/pull/66556))
@@ -68,7 +69,6 @@
 * add hk_usc45 to rare display guns group ([#66412](https://github.com/CleverRaven/Cataclysm-DDA/pull/66412))
 * New location: speedway ([#66402](https://github.com/CleverRaven/Cataclysm-DDA/pull/66402))
 * fix: dirt floors inside doctor's office ([#66437](https://github.com/CleverRaven/Cataclysm-DDA/pull/66437))
-* Improve CMake behavior on Unix and macOS ([#66369](https://github.com/CleverRaven/Cataclysm-DDA/pull/66369))
 * Easy deconstruct floor mattress ([#66436](https://github.com/CleverRaven/Cataclysm-DDA/pull/66436))
 * JSON formatter html build ([#66414](https://github.com/CleverRaven/Cataclysm-DDA/pull/66414))
 * Delete optional_test.cpp ([#66421](https://github.com/CleverRaven/Cataclysm-DDA/pull/66421))
