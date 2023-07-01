@@ -1,3 +1,4 @@
+* [Xedra Evolved] did you know dreamsmith was broken? neither did i ([#66562](https://github.com/CleverRaven/Cataclysm-DDA/pull/66562))
 * Partially reduce coverage of gambesons ([#66558](https://github.com/CleverRaven/Cataclysm-DDA/pull/66558))
 * Update basecamp fake char kiln's ammo restriction ([#66550](https://github.com/CleverRaven/Cataclysm-DDA/pull/66550))
 * Update clear_character to remove mutation categories ([#66561](https://github.com/CleverRaven/Cataclysm-DDA/pull/66561))
@@ -88,7 +89,6 @@
 * Some documentation cleanup ([#66378](https://github.com/CleverRaven/Cataclysm-DDA/pull/66378))
 * [Aftershock] recipe for processed lichen fix ([#66372](https://github.com/CleverRaven/Cataclysm-DDA/pull/66372))
 * Single Typo ([#66356](https://github.com/CleverRaven/Cataclysm-DDA/pull/66356))
-* Very minor Rest_Area floor under table fix ([#66355](https://github.com/CleverRaven/Cataclysm-DDA/pull/66355))
 * Add wall light recipe ([#66362](https://github.com/CleverRaven/Cataclysm-DDA/pull/66362))
 * Fix Mutation issues with process ([#66364](https://github.com/CleverRaven/Cataclysm-DDA/pull/66364))
 * Revert "Use unordered_set to deduplicate active items (#66310)" ([#66360](https://github.com/CleverRaven/Cataclysm-DDA/pull/66360))
