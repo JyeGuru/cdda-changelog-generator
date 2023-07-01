@@ -1,3 +1,5 @@
+* Active backup generator ---> Functional generator appliance, useable in player grids ([#66551](https://github.com/CleverRaven/Cataclysm-DDA/pull/66551))
+* palettized workshop 1 ([#66470](https://github.com/CleverRaven/Cataclysm-DDA/pull/66470))
 * Typos ([#66536](https://github.com/CleverRaven/Cataclysm-DDA/pull/66536))
 * [Alternative Map Key] Building alternatives now show correctly on the map ([#66554](https://github.com/CleverRaven/Cataclysm-DDA/pull/66554))
 * Counter gate move cost ([#66429](https://github.com/CleverRaven/Cataclysm-DDA/pull/66429))
@@ -91,4 +93,3 @@
 * Gutter Unify Tool Part 4 ([#66395](https://github.com/CleverRaven/Cataclysm-DDA/pull/66395))
 * garange 2 palettization ([#66381](https://github.com/CleverRaven/Cataclysm-DDA/pull/66381))
 * Some documentation cleanup ([#66378](https://github.com/CleverRaven/Cataclysm-DDA/pull/66378))
-* [Aftershock] recipe for processed lichen fix ([#66372](https://github.com/CleverRaven/Cataclysm-DDA/pull/66372))
