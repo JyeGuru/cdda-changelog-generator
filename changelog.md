@@ -60,7 +60,6 @@
 * Updated index removed all developer facing pages ([#66475](https://github.com/CleverRaven/Cataclysm-DDA/pull/66475))
 * No cities = no roads ([#66487](https://github.com/CleverRaven/Cataclysm-DDA/pull/66487))
 * Fix inverted visitied member conditional for large Json objects. ([#66481](https://github.com/CleverRaven/Cataclysm-DDA/pull/66481))
-* Functionality for armor draining energy when taking damage ([#66374](https://github.com/CleverRaven/Cataclysm-DDA/pull/66374))
 * MOTD Modernize ([#66474](https://github.com/CleverRaven/Cataclysm-DDA/pull/66474))
 * palettize livestock 1 ([#66425](https://github.com/CleverRaven/Cataclysm-DDA/pull/66425))
 * Fix for #66466 ([#66468](https://github.com/CleverRaven/Cataclysm-DDA/pull/66468))
