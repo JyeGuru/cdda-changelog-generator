@@ -1,3 +1,4 @@
+* Routine i18n updates on 01 July 2023 (#66568)
 * Active backup generator ---> Functional generator appliance, useable in player grids (#66551)
 * palettized workshop 1 (#66470)
 * Typos (#66536)
@@ -84,7 +85,6 @@
 * remove int-ua (#66404)
 * Dirty cache / clear memory map on furn/trap removal (#66399)
 * 3D vision for isometric tilesets (#66383)
-* Add the Hi-Point 3895, a .380 ACP PCC (#66373)
 * Add a doctor/autodoc to the Ancilla bar (#66377)
 * Fix dodge training (#66392)
 * Rebalance leather jackets and some other leather gear (#66389)
