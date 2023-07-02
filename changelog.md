@@ -1,3 +1,4 @@
+* Binders! (the trans kind) ([#66540](https://github.com/CleverRaven/Cataclysm-DDA/pull/66540))
 * [Bombastic Perks] Fix for perk_olde_guns ([#66603](https://github.com/CleverRaven/Cataclysm-DDA/pull/66603))
 * Zombie runners can't climb stairs now ([#66602](https://github.com/CleverRaven/Cataclysm-DDA/pull/66602))
 * Create new lable for Mind Over Matter mod ([#66601](https://github.com/CleverRaven/Cataclysm-DDA/pull/66601))
@@ -91,5 +92,4 @@
 * fix mistakes I made with cunning ferals. ([#66417](https://github.com/CleverRaven/Cataclysm-DDA/pull/66417))
 * Update the table of contents in doc/JSON_INFO.md ([#66406](https://github.com/CleverRaven/Cataclysm-DDA/pull/66406))
 * Routine i18n updates on 24 June 2023 ([#66420](https://github.com/CleverRaven/Cataclysm-DDA/pull/66420))
-* palettized canteen 1 ([#66403](https://github.com/CleverRaven/Cataclysm-DDA/pull/66403))
 * remove int-ua ([#66404](https://github.com/CleverRaven/Cataclysm-DDA/pull/66404))
