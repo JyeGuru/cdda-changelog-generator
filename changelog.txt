@@ -1,3 +1,4 @@
+* Rebreather recipe fixes (#66580)
 * Unhardcode "crater", improve appearance of mutable craters (#66499)
 * Couple of nest related test fail fixes (#66552)
 * added flesh property to snail_garden (#66569)
@@ -90,5 +91,4 @@
 * remove int-ua (#66404)
 * Dirty cache / clear memory map on furn/trap removal (#66399)
 * Fix dodge training (#66392)
-* Rebalance leather jackets and some other leather gear (#66389)
 * Gutter Unify Tool Part 4 (#66395)

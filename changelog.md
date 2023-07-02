@@ -1,3 +1,4 @@
+* Rebreather recipe fixes ([#66580](https://github.com/CleverRaven/Cataclysm-DDA/pull/66580))
 * Unhardcode "crater", improve appearance of mutable craters ([#66499](https://github.com/CleverRaven/Cataclysm-DDA/pull/66499))
 * Couple of nest related test fail fixes ([#66552](https://github.com/CleverRaven/Cataclysm-DDA/pull/66552))
 * added flesh property to snail_garden ([#66569](https://github.com/CleverRaven/Cataclysm-DDA/pull/66569))
@@ -90,5 +91,4 @@
 * remove int-ua ([#66404](https://github.com/CleverRaven/Cataclysm-DDA/pull/66404))
 * Dirty cache / clear memory map on furn/trap removal ([#66399](https://github.com/CleverRaven/Cataclysm-DDA/pull/66399))
 * Fix dodge training ([#66392](https://github.com/CleverRaven/Cataclysm-DDA/pull/66392))
-* Rebalance leather jackets and some other leather gear ([#66389](https://github.com/CleverRaven/Cataclysm-DDA/pull/66389))
 * Gutter Unify Tool Part 4 ([#66395](https://github.com/CleverRaven/Cataclysm-DDA/pull/66395))
