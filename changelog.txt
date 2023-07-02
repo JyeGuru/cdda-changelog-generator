@@ -1,3 +1,4 @@
+* Further accessories obsoletion (#66605)
 * Motel changes (#66584)
 * Lessens chance to fall on school start (#66591)
 * A bunch of random item reworks: 7 (#66588)
@@ -69,7 +70,6 @@
 * Add missing mutagen types to mutagen item groups (#66485)
 * [Xedra Evolved] Maintaining (#66456)
 * palettized fbmc fire lookout tower (#66495)
-* test fixes for ranged balance (#66413)
 * Weekly Changelog 2023-06-19 to 2023-06-26 (#66464)
 * Move mansion bookcase memorial items out of the mansion_books item group (#66490)
 * storehouse 1 palettization (#66447)
