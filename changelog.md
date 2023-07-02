@@ -1,3 +1,5 @@
+* Make lanterns plug-in-able ([#66611](https://github.com/CleverRaven/Cataclysm-DDA/pull/66611))
+* palettized firestation1 ([#66615](https://github.com/CleverRaven/Cataclysm-DDA/pull/66615))
 * This should add hm-12 to robofac trades ([#66592](https://github.com/CleverRaven/Cataclysm-DDA/pull/66592))
 * Add lore information on the New England Church Community into the design document ([#66530](https://github.com/CleverRaven/Cataclysm-DDA/pull/66530))
 * Crater core migration ([#66610](https://github.com/CleverRaven/Cataclysm-DDA/pull/66610))
@@ -47,7 +49,6 @@
 * Remote vehicle controller and programmable autopilot fixes ([#66534](https://github.com/CleverRaven/Cataclysm-DDA/pull/66534))
 * Fix check_clang_tidy.py doc string ([#66538](https://github.com/CleverRaven/Cataclysm-DDA/pull/66538))
 * Adds migration I didn't think about ([#66537](https://github.com/CleverRaven/Cataclysm-DDA/pull/66537))
-* Check map bounds before checking Character::sees() ([#66431](https://github.com/CleverRaven/Cataclysm-DDA/pull/66431))
 * Update EFFECT_ON_CONDITION.md ([#66533](https://github.com/CleverRaven/Cataclysm-DDA/pull/66533))
 * Bypass variant picking on install if there's only one choice ([#66528](https://github.com/CleverRaven/Cataclysm-DDA/pull/66528))
 * Updated generator docs ([#66531](https://github.com/CleverRaven/Cataclysm-DDA/pull/66531))
@@ -91,4 +92,3 @@
 * Megafauna quickfix ([#66445](https://github.com/CleverRaven/Cataclysm-DDA/pull/66445))
 * fix: dirt floors inside doctor's office ([#66437](https://github.com/CleverRaven/Cataclysm-DDA/pull/66437))
 * Easy deconstruct floor mattress ([#66436](https://github.com/CleverRaven/Cataclysm-DDA/pull/66436))
-* Remove redundant read ([#66430](https://github.com/CleverRaven/Cataclysm-DDA/pull/66430))
