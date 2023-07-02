@@ -1,3 +1,5 @@
+* Crater core migration (#66610)
+* Add Standing-Storm to Mind over Matter notification list (#66617)
 * EOC Run Until (#66449)
 * Add ability to make slime globs into slime samples (#66595)
 * Further accessories obsoletion (#66605)
@@ -89,6 +91,4 @@
 * Megafauna quickfix (#66445)
 * fix: dirt floors inside doctor's office (#66437)
 * Easy deconstruct floor mattress (#66436)
-* Delete optional_test.cpp (#66421)
 * Remove redundant read (#66430)
-* Routine i18n updates on 24 June 2023 (#66420)
