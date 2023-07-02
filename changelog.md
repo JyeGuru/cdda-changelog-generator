@@ -1,3 +1,4 @@
+* Various Down Bed Fixes ([#66457](https://github.com/CleverRaven/Cataclysm-DDA/pull/66457))
 * Make lanterns plug-in-able ([#66611](https://github.com/CleverRaven/Cataclysm-DDA/pull/66611))
 * palettized firestation1 ([#66615](https://github.com/CleverRaven/Cataclysm-DDA/pull/66615))
 * This should add hm-12 to robofac trades ([#66592](https://github.com/CleverRaven/Cataclysm-DDA/pull/66592))
@@ -91,4 +92,3 @@
 * Add firebricks to electric forge  ([#66465](https://github.com/CleverRaven/Cataclysm-DDA/pull/66465))
 * Megafauna quickfix ([#66445](https://github.com/CleverRaven/Cataclysm-DDA/pull/66445))
 * fix: dirt floors inside doctor's office ([#66437](https://github.com/CleverRaven/Cataclysm-DDA/pull/66437))
-* Easy deconstruct floor mattress ([#66436](https://github.com/CleverRaven/Cataclysm-DDA/pull/66436))
