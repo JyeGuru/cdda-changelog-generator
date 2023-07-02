@@ -85,7 +85,6 @@
 * fix: UPS transform target (#66455)
 * Add firebricks to electric forge  (#66465)
 * Megafauna quickfix (#66445)
-* add hk_usc45 to rare display guns group (#66412)
 * fix: dirt floors inside doctor's office (#66437)
 * Easy deconstruct floor mattress (#66436)
 * JSON formatter html build (#66414)
