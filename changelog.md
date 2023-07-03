@@ -1,3 +1,4 @@
+* Routine tileset updates on 02 July 2023 ([#66626](https://github.com/CleverRaven/Cataclysm-DDA/pull/66626))
 * Made Slingshot more Tacticool ([#66527](https://github.com/CleverRaven/Cataclysm-DDA/pull/66527))
 * mom: remove invalid spell id reference ([#66622](https://github.com/CleverRaven/Cataclysm-DDA/pull/66622))
 * [Xedra Evolved] Maintenance ([#66618](https://github.com/CleverRaven/Cataclysm-DDA/pull/66618))
@@ -64,7 +65,6 @@
 * Call set_language even when LOCALIZE is off ([#66460](https://github.com/CleverRaven/Cataclysm-DDA/pull/66460))
 * Fix and re-enable 3D map memory ([#66505](https://github.com/CleverRaven/Cataclysm-DDA/pull/66505))
 * Routine tileset updates on 25 June 2023 ([#66461](https://github.com/CleverRaven/Cataclysm-DDA/pull/66461))
-* Autostyle on save for VSC ([#66446](https://github.com/CleverRaven/Cataclysm-DDA/pull/66446))
 * Add more generic_factory checks to vpart_info loader ([#66450](https://github.com/CleverRaven/Cataclysm-DDA/pull/66450))
 * Fix vehicle heater consuming too much energy ([#66504](https://github.com/CleverRaven/Cataclysm-DDA/pull/66504))
 * Fix generator UPS not consuming fuel ([#66509](https://github.com/CleverRaven/Cataclysm-DDA/pull/66509))
