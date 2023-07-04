@@ -1,3 +1,5 @@
+* Dry duffel bags are actually watertight ([#66652](https://github.com/CleverRaven/Cataclysm-DDA/pull/66652))
+* [MoM] Fix "You cast %" bug ([#66655](https://github.com/CleverRaven/Cataclysm-DDA/pull/66655))
 * Make horses milkable ([#66639](https://github.com/CleverRaven/Cataclysm-DDA/pull/66639))
 * Stops Hub 01 buying back some of their newer stuff ([#66634](https://github.com/CleverRaven/Cataclysm-DDA/pull/66634))
 * update to kerosene spawns and refillable lighter ([#66585](https://github.com/CleverRaven/Cataclysm-DDA/pull/66585))
@@ -91,5 +93,3 @@
 * No cities = no roads ([#66487](https://github.com/CleverRaven/Cataclysm-DDA/pull/66487))
 * Fix inverted visitied member conditional for large Json objects. ([#66481](https://github.com/CleverRaven/Cataclysm-DDA/pull/66481))
 * MOTD Modernize ([#66474](https://github.com/CleverRaven/Cataclysm-DDA/pull/66474))
-* Fix for #66466 ([#66468](https://github.com/CleverRaven/Cataclysm-DDA/pull/66468))
-* Add firebricks to electric forge  ([#66465](https://github.com/CleverRaven/Cataclysm-DDA/pull/66465))
