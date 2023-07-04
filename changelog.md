@@ -92,4 +92,3 @@
 * Updated index removed all developer facing pages ([#66475](https://github.com/CleverRaven/Cataclysm-DDA/pull/66475))
 * No cities = no roads ([#66487](https://github.com/CleverRaven/Cataclysm-DDA/pull/66487))
 * Fix inverted visitied member conditional for large Json objects. ([#66481](https://github.com/CleverRaven/Cataclysm-DDA/pull/66481))
-* MOTD Modernize ([#66474](https://github.com/CleverRaven/Cataclysm-DDA/pull/66474))
