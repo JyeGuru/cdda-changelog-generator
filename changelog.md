@@ -1,3 +1,4 @@
+* Make horses milkable ([#66639](https://github.com/CleverRaven/Cataclysm-DDA/pull/66639))
 * Stops Hub 01 buying back some of their newer stuff ([#66634](https://github.com/CleverRaven/Cataclysm-DDA/pull/66634))
 * update to kerosene spawns and refillable lighter ([#66585](https://github.com/CleverRaven/Cataclysm-DDA/pull/66585))
 * item::set_degradation sets value of 0 on items with degradation disabled ([#66607](https://github.com/CleverRaven/Cataclysm-DDA/pull/66607))
@@ -83,7 +84,6 @@
 * remove fine screwdriving from multitool ([#66493](https://github.com/CleverRaven/Cataclysm-DDA/pull/66493))
 * Add missing mutagen types to mutagen item groups ([#66485](https://github.com/CleverRaven/Cataclysm-DDA/pull/66485))
 * palettized fbmc fire lookout tower ([#66495](https://github.com/CleverRaven/Cataclysm-DDA/pull/66495))
-* Weekly Changelog 2023-06-19 to 2023-06-26 ([#66464](https://github.com/CleverRaven/Cataclysm-DDA/pull/66464))
 * Move mansion bookcase memorial items out of the mansion_books item group ([#66490](https://github.com/CleverRaven/Cataclysm-DDA/pull/66490))
 * [Magiclysm] Fixes runes' duration ([#66472](https://github.com/CleverRaven/Cataclysm-DDA/pull/66472))
 * Migrate lore docs to dev documentation ([#66476](https://github.com/CleverRaven/Cataclysm-DDA/pull/66476))
