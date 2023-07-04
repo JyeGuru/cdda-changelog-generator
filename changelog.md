@@ -1,3 +1,4 @@
+* palettized shelter 1 ([#66658](https://github.com/CleverRaven/Cataclysm-DDA/pull/66658))
 * Dry duffel bags are actually watertight ([#66652](https://github.com/CleverRaven/Cataclysm-DDA/pull/66652))
 * [MoM] Fix "You cast %" bug ([#66655](https://github.com/CleverRaven/Cataclysm-DDA/pull/66655))
 * Make horses milkable ([#66639](https://github.com/CleverRaven/Cataclysm-DDA/pull/66639))
@@ -45,7 +46,6 @@
 * Meatball in the spaghetti ([#66573](https://github.com/CleverRaven/Cataclysm-DDA/pull/66573))
 * Routine i18n updates on 01 July 2023 ([#66568](https://github.com/CleverRaven/Cataclysm-DDA/pull/66568))
 * Active backup generator ---> Functional generator appliance, useable in player grids ([#66551](https://github.com/CleverRaven/Cataclysm-DDA/pull/66551))
-* palettized workshop 1 ([#66470](https://github.com/CleverRaven/Cataclysm-DDA/pull/66470))
 * Typos ([#66536](https://github.com/CleverRaven/Cataclysm-DDA/pull/66536))
 * [Alternative Map Key] Building alternatives now show correctly on the map ([#66554](https://github.com/CleverRaven/Cataclysm-DDA/pull/66554))
 * Add autopilot test ([#66556](https://github.com/CleverRaven/Cataclysm-DDA/pull/66556))

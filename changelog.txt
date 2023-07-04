@@ -1,3 +1,4 @@
+* palettized shelter 1 (#66658)
 * Dry duffel bags are actually watertight (#66652)
 * [MoM] Fix "You cast %" bug (#66655)
 * Make horses milkable (#66639)
@@ -45,7 +46,6 @@
 * Meatball in the spaghetti (#66573)
 * Routine i18n updates on 01 July 2023 (#66568)
 * Active backup generator ---> Functional generator appliance, useable in player grids (#66551)
-* palettized workshop 1 (#66470)
 * Typos (#66536)
 * [Alternative Map Key] Building alternatives now show correctly on the map (#66554)
 * Add autopilot test (#66556)
