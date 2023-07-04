@@ -1,3 +1,4 @@
+* [No Hope] Blacklist overrun scenario ([#66645](https://github.com/CleverRaven/Cataclysm-DDA/pull/66645))
 * palettized shelter 1 ([#66658](https://github.com/CleverRaven/Cataclysm-DDA/pull/66658))
 * Dry duffel bags are actually watertight ([#66652](https://github.com/CleverRaven/Cataclysm-DDA/pull/66652))
 * [MoM] Fix "You cast %" bug ([#66655](https://github.com/CleverRaven/Cataclysm-DDA/pull/66655))
@@ -87,7 +88,6 @@
 * Add missing mutagen types to mutagen item groups ([#66485](https://github.com/CleverRaven/Cataclysm-DDA/pull/66485))
 * palettized fbmc fire lookout tower ([#66495](https://github.com/CleverRaven/Cataclysm-DDA/pull/66495))
 * Move mansion bookcase memorial items out of the mansion_books item group ([#66490](https://github.com/CleverRaven/Cataclysm-DDA/pull/66490))
-* [Magiclysm] Fixes runes' duration ([#66472](https://github.com/CleverRaven/Cataclysm-DDA/pull/66472))
 * Migrate lore docs to dev documentation ([#66476](https://github.com/CleverRaven/Cataclysm-DDA/pull/66476))
 * Updated index removed all developer facing pages ([#66475](https://github.com/CleverRaven/Cataclysm-DDA/pull/66475))
 * No cities = no roads ([#66487](https://github.com/CleverRaven/Cataclysm-DDA/pull/66487))
