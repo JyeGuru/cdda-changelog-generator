@@ -1,3 +1,4 @@
+* Tamable Wildlife: Tamable spiders ([#66619](https://github.com/CleverRaven/Cataclysm-DDA/pull/66619))
 * bp fault fix removes rust_timer ([#66654](https://github.com/CleverRaven/Cataclysm-DDA/pull/66654))
 * [No Hope] Blacklist overrun scenario ([#66645](https://github.com/CleverRaven/Cataclysm-DDA/pull/66645))
 * palettized shelter 1 ([#66658](https://github.com/CleverRaven/Cataclysm-DDA/pull/66658))
@@ -89,6 +90,5 @@
 * Add missing mutagen types to mutagen item groups ([#66485](https://github.com/CleverRaven/Cataclysm-DDA/pull/66485))
 * palettized fbmc fire lookout tower ([#66495](https://github.com/CleverRaven/Cataclysm-DDA/pull/66495))
 * Move mansion bookcase memorial items out of the mansion_books item group ([#66490](https://github.com/CleverRaven/Cataclysm-DDA/pull/66490))
-* Migrate lore docs to dev documentation ([#66476](https://github.com/CleverRaven/Cataclysm-DDA/pull/66476))
 * No cities = no roads ([#66487](https://github.com/CleverRaven/Cataclysm-DDA/pull/66487))
 * Fix inverted visitied member conditional for large Json objects. ([#66481](https://github.com/CleverRaven/Cataclysm-DDA/pull/66481))
