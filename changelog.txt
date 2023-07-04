@@ -1,3 +1,4 @@
+* Stops Hub 01 buying back some of their newer stuff (#66634)
 * update to kerosene spawns and refillable lighter (#66585)
 * item::set_degradation sets value of 0 on items with degradation disabled (#66607)
 * Fix line endings for MindOverMatter README.md (#66627)
@@ -74,7 +75,6 @@
 * No debug_mode when npc starts looping (#66516)
 * Fix conflicting BSD macro on macOS (#66513)
 * make welding practice less resource intensive (#66514)
-* Better special placement and road connections (#66463)
 * Fixes typos and adds more talk tag lines (#66501)
 * Pantsaclysm, Trouser Variants Ahead. (#66484)
 * light industries palettization (#66507)
