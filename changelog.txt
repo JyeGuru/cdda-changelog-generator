@@ -1,3 +1,4 @@
+* Add MAN_MADE flag to dinosaur exhibit (#66675)
 * Remove cata::optional leftovers (#66635)
 * XE Rubik's discussion of vampires text (#66518)
 * Weekly Changelog 2023-06-26 to 2023-07-03 (#66628)
@@ -90,5 +91,4 @@
 * make welding practice less resource intensive (#66514)
 * Fixes typos and adds more talk tag lines (#66501)
 * light industries palettization (#66507)
-* Add double holsters (#66498)
 * adds some new possible nightmares (#66503)
