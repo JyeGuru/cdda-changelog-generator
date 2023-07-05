@@ -1,3 +1,4 @@
+* Fix the epilogue for the New England Church Community ([#66668](https://github.com/CleverRaven/Cataclysm-DDA/pull/66668))
 * Reduce airdrop frequency ([#66590](https://github.com/CleverRaven/Cataclysm-DDA/pull/66590))
 * Xl survivor boots ([#66650](https://github.com/CleverRaven/Cataclysm-DDA/pull/66650))
 * Make 'Undamaged' the default menu option when debug spawning vehicles ([#66656](https://github.com/CleverRaven/Cataclysm-DDA/pull/66656))
@@ -91,4 +92,3 @@
 * adds some new possible nightmares ([#66503](https://github.com/CleverRaven/Cataclysm-DDA/pull/66503))
 * remove fine screwdriving from multitool ([#66493](https://github.com/CleverRaven/Cataclysm-DDA/pull/66493))
 * palettized fbmc fire lookout tower ([#66495](https://github.com/CleverRaven/Cataclysm-DDA/pull/66495))
-* Move mansion bookcase memorial items out of the mansion_books item group ([#66490](https://github.com/CleverRaven/Cataclysm-DDA/pull/66490))
