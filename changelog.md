@@ -1,3 +1,4 @@
+* Remove cata::optional leftovers ([#66635](https://github.com/CleverRaven/Cataclysm-DDA/pull/66635))
 * XE Rubik's discussion of vampires text ([#66518](https://github.com/CleverRaven/Cataclysm-DDA/pull/66518))
 * Weekly Changelog 2023-06-26 to 2023-07-03 ([#66628](https://github.com/CleverRaven/Cataclysm-DDA/pull/66628))
 * Fix the epilogue for the New England Church Community ([#66668](https://github.com/CleverRaven/Cataclysm-DDA/pull/66668))
@@ -80,7 +81,6 @@
 * Updated generator docs ([#66531](https://github.com/CleverRaven/Cataclysm-DDA/pull/66531))
 * Enable mod tracker for vpart_info ([#66526](https://github.com/CleverRaven/Cataclysm-DDA/pull/66526))
 * Remove redefined door fields ([#66523](https://github.com/CleverRaven/Cataclysm-DDA/pull/66523))
-* Readd Glorious to Elf-A ([#66496](https://github.com/CleverRaven/Cataclysm-DDA/pull/66496))
 * Vegan Trait ([#66511](https://github.com/CleverRaven/Cataclysm-DDA/pull/66511))
 * Fix and re-enable 3D map memory ([#66505](https://github.com/CleverRaven/Cataclysm-DDA/pull/66505))
 * Fix vehicle heater consuming too much energy ([#66504](https://github.com/CleverRaven/Cataclysm-DDA/pull/66504))
