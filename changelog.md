@@ -1,3 +1,4 @@
+* Fixes 66637 and wraps up some typos. ([#66648](https://github.com/CleverRaven/Cataclysm-DDA/pull/66648))
 * [MoM] Documentation updates ([#66643](https://github.com/CleverRaven/Cataclysm-DDA/pull/66643))
 * [Magiclysm] remove deduction from stormshaper skills ([#66682](https://github.com/CleverRaven/Cataclysm-DDA/pull/66682))
 * Mutant lard uses surface_heat now ([#66679](https://github.com/CleverRaven/Cataclysm-DDA/pull/66679))
@@ -86,7 +87,6 @@
 * Enable mod tracker for vpart_info ([#66526](https://github.com/CleverRaven/Cataclysm-DDA/pull/66526))
 * Remove redefined door fields ([#66523](https://github.com/CleverRaven/Cataclysm-DDA/pull/66523))
 * Vegan Trait ([#66511](https://github.com/CleverRaven/Cataclysm-DDA/pull/66511))
-* Fix and re-enable 3D map memory ([#66505](https://github.com/CleverRaven/Cataclysm-DDA/pull/66505))
 * Fix generator UPS not consuming fuel ([#66509](https://github.com/CleverRaven/Cataclysm-DDA/pull/66509))
 * No debug_mode when npc starts looping ([#66516](https://github.com/CleverRaven/Cataclysm-DDA/pull/66516))
 * Fix conflicting BSD macro on macOS ([#66513](https://github.com/CleverRaven/Cataclysm-DDA/pull/66513))
