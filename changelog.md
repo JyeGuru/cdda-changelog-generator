@@ -1,3 +1,4 @@
+* Move reverse-jointed legs to mod files ([#66687](https://github.com/CleverRaven/Cataclysm-DDA/pull/66687))
 * Update blackpowder recipes following charcoal item stat changes ([#66678](https://github.com/CleverRaven/Cataclysm-DDA/pull/66678))
 * [Xedra Evolved] better material for jump driver ([#66680](https://github.com/CleverRaven/Cataclysm-DDA/pull/66680))
 * [MoM] Wielding a matrix crystal enhances your powers ([#66644](https://github.com/CleverRaven/Cataclysm-DDA/pull/66644))
@@ -88,7 +89,6 @@
 * Updated generator docs ([#66531](https://github.com/CleverRaven/Cataclysm-DDA/pull/66531))
 * Enable mod tracker for vpart_info ([#66526](https://github.com/CleverRaven/Cataclysm-DDA/pull/66526))
 * Remove redefined door fields ([#66523](https://github.com/CleverRaven/Cataclysm-DDA/pull/66523))
-* Vegan Trait ([#66511](https://github.com/CleverRaven/Cataclysm-DDA/pull/66511))
 * No debug_mode when npc starts looping ([#66516](https://github.com/CleverRaven/Cataclysm-DDA/pull/66516))
 * Fix conflicting BSD macro on macOS ([#66513](https://github.com/CleverRaven/Cataclysm-DDA/pull/66513))
 * make welding practice less resource intensive ([#66514](https://github.com/CleverRaven/Cataclysm-DDA/pull/66514))
