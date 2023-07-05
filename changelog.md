@@ -1,3 +1,4 @@
+* XE Rubik's discussion of vampires text ([#66518](https://github.com/CleverRaven/Cataclysm-DDA/pull/66518))
 * Weekly Changelog 2023-06-26 to 2023-07-03 ([#66628](https://github.com/CleverRaven/Cataclysm-DDA/pull/66628))
 * Fix the epilogue for the New England Church Community ([#66668](https://github.com/CleverRaven/Cataclysm-DDA/pull/66668))
 * Reduce airdrop frequency ([#66590](https://github.com/CleverRaven/Cataclysm-DDA/pull/66590))
@@ -91,4 +92,3 @@
 * light industries palettization ([#66507](https://github.com/CleverRaven/Cataclysm-DDA/pull/66507))
 * Add double holsters ([#66498](https://github.com/CleverRaven/Cataclysm-DDA/pull/66498))
 * adds some new possible nightmares ([#66503](https://github.com/CleverRaven/Cataclysm-DDA/pull/66503))
-* palettized fbmc fire lookout tower ([#66495](https://github.com/CleverRaven/Cataclysm-DDA/pull/66495))
