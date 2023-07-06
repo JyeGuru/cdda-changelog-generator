@@ -90,5 +90,4 @@
 * Enable mod tracker for vpart_info ([#66526](https://github.com/CleverRaven/Cataclysm-DDA/pull/66526))
 * Remove redefined door fields ([#66523](https://github.com/CleverRaven/Cataclysm-DDA/pull/66523))
 * No debug_mode when npc starts looping ([#66516](https://github.com/CleverRaven/Cataclysm-DDA/pull/66516))
-* Fix conflicting BSD macro on macOS ([#66513](https://github.com/CleverRaven/Cataclysm-DDA/pull/66513))
 * make welding practice less resource intensive ([#66514](https://github.com/CleverRaven/Cataclysm-DDA/pull/66514))
