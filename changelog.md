@@ -1,3 +1,4 @@
+* Add harakka to confirm-bug list ([#66714](https://github.com/CleverRaven/Cataclysm-DDA/pull/66714))
 * extra_mut_scen fixes ([#66711](https://github.com/CleverRaven/Cataclysm-DDA/pull/66711))
 * Assorted tile rendering fixes ([#66638](https://github.com/CleverRaven/Cataclysm-DDA/pull/66638))
 * Repair Firearm Repair Kit Repair ([#66664](https://github.com/CleverRaven/Cataclysm-DDA/pull/66664))
@@ -73,7 +74,6 @@
 * palettized fbmc radio tower ([#66574](https://github.com/CleverRaven/Cataclysm-DDA/pull/66574))
 * Fix endless teapot error ([#66571](https://github.com/CleverRaven/Cataclysm-DDA/pull/66571))
 * Don't report monsters breaking free from unknown grabbers if the play… ([#66570](https://github.com/CleverRaven/Cataclysm-DDA/pull/66570))
-* Park benches in parks!? More likely than you may think! ([#66544](https://github.com/CleverRaven/Cataclysm-DDA/pull/66544))
 * Rebreather recipe fixes ([#66580](https://github.com/CleverRaven/Cataclysm-DDA/pull/66580))
 * Couple of nest related test fail fixes ([#66552](https://github.com/CleverRaven/Cataclysm-DDA/pull/66552))
 * added flesh property to snail_garden ([#66569](https://github.com/CleverRaven/Cataclysm-DDA/pull/66569))
