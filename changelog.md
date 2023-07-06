@@ -1,3 +1,4 @@
+* Repair Firearm Repair Kit Repair ([#66664](https://github.com/CleverRaven/Cataclysm-DDA/pull/66664))
 * palettization cleanup ([#66710](https://github.com/CleverRaven/Cataclysm-DDA/pull/66710))
 * Add antacid tablets ([#66698](https://github.com/CleverRaven/Cataclysm-DDA/pull/66698))
 * Add skateboard vehicle ([#66596](https://github.com/CleverRaven/Cataclysm-DDA/pull/66596))
@@ -63,7 +64,6 @@
 * Motel changes ([#66584](https://github.com/CleverRaven/Cataclysm-DDA/pull/66584))
 * Lessens chance to fall on school start ([#66591](https://github.com/CleverRaven/Cataclysm-DDA/pull/66591))
 * A bunch of random item reworks: 7 ([#66588](https://github.com/CleverRaven/Cataclysm-DDA/pull/66588))
-* Binders! (the trans kind) ([#66540](https://github.com/CleverRaven/Cataclysm-DDA/pull/66540))
 * [Bombastic Perks] Fix for perk_olde_guns ([#66603](https://github.com/CleverRaven/Cataclysm-DDA/pull/66603))
 * Zombie runners can't climb stairs now ([#66602](https://github.com/CleverRaven/Cataclysm-DDA/pull/66602))
 * Create new lable for Mind Over Matter mod ([#66601](https://github.com/CleverRaven/Cataclysm-DDA/pull/66601))
