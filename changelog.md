@@ -1,3 +1,4 @@
+* increase spoil time of salted meat ([#66690](https://github.com/CleverRaven/Cataclysm-DDA/pull/66690))
 * Fix: show slowed message on slow terrain ([#66684](https://github.com/CleverRaven/Cataclysm-DDA/pull/66684))
 * New fish ([#66600](https://github.com/CleverRaven/Cataclysm-DDA/pull/66600))
 * regular masochists aren't sad about anesthesia ([#66692](https://github.com/CleverRaven/Cataclysm-DDA/pull/66692))
@@ -91,5 +92,4 @@
 * Fix check_clang_tidy.py doc string ([#66538](https://github.com/CleverRaven/Cataclysm-DDA/pull/66538))
 * Adds migration I didn't think about ([#66537](https://github.com/CleverRaven/Cataclysm-DDA/pull/66537))
 * Update EFFECT_ON_CONDITION.md ([#66533](https://github.com/CleverRaven/Cataclysm-DDA/pull/66533))
-* Bypass variant picking on install if there's only one choice ([#66528](https://github.com/CleverRaven/Cataclysm-DDA/pull/66528))
 * Updated generator docs ([#66531](https://github.com/CleverRaven/Cataclysm-DDA/pull/66531))
