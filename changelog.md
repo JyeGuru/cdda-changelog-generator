@@ -1,3 +1,4 @@
+* palettization cleanup ([#66710](https://github.com/CleverRaven/Cataclysm-DDA/pull/66710))
 * Add antacid tablets ([#66698](https://github.com/CleverRaven/Cataclysm-DDA/pull/66698))
 * Add skateboard vehicle ([#66596](https://github.com/CleverRaven/Cataclysm-DDA/pull/66596))
 * [MoM] Change psionic drain to a vitamin, add ways for the player to reduce it ([#66673](https://github.com/CleverRaven/Cataclysm-DDA/pull/66673))
@@ -91,4 +92,3 @@
 * No more adobe brick stadiums ([#66546](https://github.com/CleverRaven/Cataclysm-DDA/pull/66546))
 * fix mine spawns of coal ([#66541](https://github.com/CleverRaven/Cataclysm-DDA/pull/66541))
 * Use ram parts in 4x4_car ([#66542](https://github.com/CleverRaven/Cataclysm-DDA/pull/66542))
-* Fix check_clang_tidy.py doc string ([#66538](https://github.com/CleverRaven/Cataclysm-DDA/pull/66538))

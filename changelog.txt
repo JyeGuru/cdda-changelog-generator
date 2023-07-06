@@ -1,3 +1,4 @@
+* palettization cleanup (#66710)
 * Add antacid tablets (#66698)
 * Add skateboard vehicle (#66596)
 * [MoM] Change psionic drain to a vitamin, add ways for the player to reduce it (#66673)
@@ -91,4 +92,3 @@
 * No more adobe brick stadiums (#66546)
 * fix mine spawns of coal (#66541)
 * Use ram parts in 4x4_car (#66542)
-* Fix check_clang_tidy.py doc string (#66538)
