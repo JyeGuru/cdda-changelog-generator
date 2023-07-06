@@ -1,3 +1,4 @@
+* Move field halflife initialize to seperate function ([#66700](https://github.com/CleverRaven/Cataclysm-DDA/pull/66700))
 * Add harakka to confirm-bug list ([#66714](https://github.com/CleverRaven/Cataclysm-DDA/pull/66714))
 * extra_mut_scen fixes ([#66711](https://github.com/CleverRaven/Cataclysm-DDA/pull/66711))
 * Assorted tile rendering fixes ([#66638](https://github.com/CleverRaven/Cataclysm-DDA/pull/66638))
@@ -91,4 +92,3 @@
 * Partially reduce coverage of gambesons ([#66558](https://github.com/CleverRaven/Cataclysm-DDA/pull/66558))
 * Update basecamp fake char kiln's ammo restriction ([#66550](https://github.com/CleverRaven/Cataclysm-DDA/pull/66550))
 * Update clear_character to remove mutation categories ([#66561](https://github.com/CleverRaven/Cataclysm-DDA/pull/66561))
-* No more adobe brick stadiums ([#66546](https://github.com/CleverRaven/Cataclysm-DDA/pull/66546))
