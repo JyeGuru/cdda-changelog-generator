@@ -1,3 +1,4 @@
+* Assorted tile rendering fixes ([#66638](https://github.com/CleverRaven/Cataclysm-DDA/pull/66638))
 * Repair Firearm Repair Kit Repair ([#66664](https://github.com/CleverRaven/Cataclysm-DDA/pull/66664))
 * palettization cleanup ([#66710](https://github.com/CleverRaven/Cataclysm-DDA/pull/66710))
 * Add antacid tablets ([#66698](https://github.com/CleverRaven/Cataclysm-DDA/pull/66698))
@@ -90,5 +91,4 @@
 * Update basecamp fake char kiln's ammo restriction ([#66550](https://github.com/CleverRaven/Cataclysm-DDA/pull/66550))
 * Update clear_character to remove mutation categories ([#66561](https://github.com/CleverRaven/Cataclysm-DDA/pull/66561))
 * No more adobe brick stadiums ([#66546](https://github.com/CleverRaven/Cataclysm-DDA/pull/66546))
-* fix mine spawns of coal ([#66541](https://github.com/CleverRaven/Cataclysm-DDA/pull/66541))
 * Use ram parts in 4x4_car ([#66542](https://github.com/CleverRaven/Cataclysm-DDA/pull/66542))
