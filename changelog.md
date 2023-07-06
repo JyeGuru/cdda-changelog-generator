@@ -1,3 +1,4 @@
+* armor penetration gets used up like damage ([#66653](https://github.com/CleverRaven/Cataclysm-DDA/pull/66653))
 * Move reverse-jointed legs to mod files ([#66687](https://github.com/CleverRaven/Cataclysm-DDA/pull/66687))
 * Update blackpowder recipes following charcoal item stat changes ([#66678](https://github.com/CleverRaven/Cataclysm-DDA/pull/66678))
 * [Xedra Evolved] better material for jump driver ([#66680](https://github.com/CleverRaven/Cataclysm-DDA/pull/66680))
@@ -76,7 +77,6 @@
 * Update basecamp fake char kiln's ammo restriction ([#66550](https://github.com/CleverRaven/Cataclysm-DDA/pull/66550))
 * Update clear_character to remove mutation categories ([#66561](https://github.com/CleverRaven/Cataclysm-DDA/pull/66561))
 * No more adobe brick stadiums ([#66546](https://github.com/CleverRaven/Cataclysm-DDA/pull/66546))
-* [Xedra Evolved] Magic MTFs ([#66512](https://github.com/CleverRaven/Cataclysm-DDA/pull/66512))
 * fbmc pottery cottage palettization ([#66522](https://github.com/CleverRaven/Cataclysm-DDA/pull/66522))
 * Condom Variants ([#66529](https://github.com/CleverRaven/Cataclysm-DDA/pull/66529))
 * fix mine spawns of coal ([#66541](https://github.com/CleverRaven/Cataclysm-DDA/pull/66541))
