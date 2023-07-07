@@ -1,3 +1,4 @@
+* Added cord to electric blankets ([#66718](https://github.com/CleverRaven/Cataclysm-DDA/pull/66718))
 * Added new allergen flags and updated carnivore blacklist  ([#66669](https://github.com/CleverRaven/Cataclysm-DDA/pull/66669))
 * Practice throwing with golf ball ([#66713](https://github.com/CleverRaven/Cataclysm-DDA/pull/66713))
 * Move field halflife initialize to seperate function ([#66700](https://github.com/CleverRaven/Cataclysm-DDA/pull/66700))
@@ -85,7 +86,6 @@
 * Fix misplaced NOT in game::walk_move ([#66582](https://github.com/CleverRaven/Cataclysm-DDA/pull/66582))
 * Meatball in the spaghetti ([#66573](https://github.com/CleverRaven/Cataclysm-DDA/pull/66573))
 * Routine i18n updates on 01 July 2023 ([#66568](https://github.com/CleverRaven/Cataclysm-DDA/pull/66568))
-* Active backup generator ---> Functional generator appliance, useable in player grids ([#66551](https://github.com/CleverRaven/Cataclysm-DDA/pull/66551))
 * [Alternative Map Key] Building alternatives now show correctly on the map ([#66554](https://github.com/CleverRaven/Cataclysm-DDA/pull/66554))
 * Add autopilot test ([#66556](https://github.com/CleverRaven/Cataclysm-DDA/pull/66556))
 * Increase world spawns of welding consumables ([#66557](https://github.com/CleverRaven/Cataclysm-DDA/pull/66557))
