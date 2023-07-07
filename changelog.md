@@ -1,3 +1,4 @@
+* s_restaurant merge ([#66563](https://github.com/CleverRaven/Cataclysm-DDA/pull/66563))
 * Ceramic shard sanifying ([#66715](https://github.com/CleverRaven/Cataclysm-DDA/pull/66715))
 * Added cord to electric blankets ([#66718](https://github.com/CleverRaven/Cataclysm-DDA/pull/66718))
 * Added new allergen flags and updated carnivore blacklist  ([#66669](https://github.com/CleverRaven/Cataclysm-DDA/pull/66669))
@@ -86,7 +87,6 @@
 * Fix misplaced NOT in game::walk_move ([#66582](https://github.com/CleverRaven/Cataclysm-DDA/pull/66582))
 * Meatball in the spaghetti ([#66573](https://github.com/CleverRaven/Cataclysm-DDA/pull/66573))
 * Routine i18n updates on 01 July 2023 ([#66568](https://github.com/CleverRaven/Cataclysm-DDA/pull/66568))
-* [Alternative Map Key] Building alternatives now show correctly on the map ([#66554](https://github.com/CleverRaven/Cataclysm-DDA/pull/66554))
 * Add autopilot test ([#66556](https://github.com/CleverRaven/Cataclysm-DDA/pull/66556))
 * Increase world spawns of welding consumables ([#66557](https://github.com/CleverRaven/Cataclysm-DDA/pull/66557))
 * [Xedra Evolved] did you know dreamsmith was broken? neither did i ([#66562](https://github.com/CleverRaven/Cataclysm-DDA/pull/66562))
