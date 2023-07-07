@@ -1,3 +1,4 @@
+* Practice throwing with golf ball ([#66713](https://github.com/CleverRaven/Cataclysm-DDA/pull/66713))
 * Move field halflife initialize to seperate function ([#66700](https://github.com/CleverRaven/Cataclysm-DDA/pull/66700))
 * Add harakka to confirm-bug list ([#66714](https://github.com/CleverRaven/Cataclysm-DDA/pull/66714))
 * extra_mut_scen fixes ([#66711](https://github.com/CleverRaven/Cataclysm-DDA/pull/66711))
@@ -86,7 +87,6 @@
 * Active backup generator ---> Functional generator appliance, useable in player grids ([#66551](https://github.com/CleverRaven/Cataclysm-DDA/pull/66551))
 * [Alternative Map Key] Building alternatives now show correctly on the map ([#66554](https://github.com/CleverRaven/Cataclysm-DDA/pull/66554))
 * Add autopilot test ([#66556](https://github.com/CleverRaven/Cataclysm-DDA/pull/66556))
-* Fish size cleanup ([#66548](https://github.com/CleverRaven/Cataclysm-DDA/pull/66548))
 * Increase world spawns of welding consumables ([#66557](https://github.com/CleverRaven/Cataclysm-DDA/pull/66557))
 * [Xedra Evolved] did you know dreamsmith was broken? neither did i ([#66562](https://github.com/CleverRaven/Cataclysm-DDA/pull/66562))
 * Partially reduce coverage of gambesons ([#66558](https://github.com/CleverRaven/Cataclysm-DDA/pull/66558))
