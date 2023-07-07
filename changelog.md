@@ -1,3 +1,4 @@
+* Ceramic shard sanifying ([#66715](https://github.com/CleverRaven/Cataclysm-DDA/pull/66715))
 * Added cord to electric blankets ([#66718](https://github.com/CleverRaven/Cataclysm-DDA/pull/66718))
 * Added new allergen flags and updated carnivore blacklist  ([#66669](https://github.com/CleverRaven/Cataclysm-DDA/pull/66669))
 * Practice throwing with golf ball ([#66713](https://github.com/CleverRaven/Cataclysm-DDA/pull/66713))
@@ -79,7 +80,6 @@
 * Fix endless teapot error ([#66571](https://github.com/CleverRaven/Cataclysm-DDA/pull/66571))
 * Don't report monsters breaking free from unknown grabbers if the play… ([#66570](https://github.com/CleverRaven/Cataclysm-DDA/pull/66570))
 * Rebreather recipe fixes ([#66580](https://github.com/CleverRaven/Cataclysm-DDA/pull/66580))
-* Couple of nest related test fail fixes ([#66552](https://github.com/CleverRaven/Cataclysm-DDA/pull/66552))
 * added flesh property to snail_garden ([#66569](https://github.com/CleverRaven/Cataclysm-DDA/pull/66569))
 * Makes founders’ leg bags much, much, much rarer. ([#66572](https://github.com/CleverRaven/Cataclysm-DDA/pull/66572))
 * Add missing buildings to Alternative Map Key ([#66578](https://github.com/CleverRaven/Cataclysm-DDA/pull/66578))
