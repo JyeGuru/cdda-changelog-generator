@@ -1,3 +1,4 @@
+* Added new allergen flags and updated carnivore blacklist  ([#66669](https://github.com/CleverRaven/Cataclysm-DDA/pull/66669))
 * Practice throwing with golf ball ([#66713](https://github.com/CleverRaven/Cataclysm-DDA/pull/66713))
 * Move field halflife initialize to seperate function ([#66700](https://github.com/CleverRaven/Cataclysm-DDA/pull/66700))
 * Add harakka to confirm-bug list ([#66714](https://github.com/CleverRaven/Cataclysm-DDA/pull/66714))
@@ -90,5 +91,4 @@
 * Increase world spawns of welding consumables ([#66557](https://github.com/CleverRaven/Cataclysm-DDA/pull/66557))
 * [Xedra Evolved] did you know dreamsmith was broken? neither did i ([#66562](https://github.com/CleverRaven/Cataclysm-DDA/pull/66562))
 * Partially reduce coverage of gambesons ([#66558](https://github.com/CleverRaven/Cataclysm-DDA/pull/66558))
-* Update basecamp fake char kiln's ammo restriction ([#66550](https://github.com/CleverRaven/Cataclysm-DDA/pull/66550))
 * Update clear_character to remove mutation categories ([#66561](https://github.com/CleverRaven/Cataclysm-DDA/pull/66561))
