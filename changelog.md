@@ -1,3 +1,4 @@
+* Routine i18n updates on 08 July 2023 ([#66745](https://github.com/CleverRaven/Cataclysm-DDA/pull/66745))
 * Nerf lycra ([#66737](https://github.com/CleverRaven/Cataclysm-DDA/pull/66737))
 * Document more fields for our monsters ([#66738](https://github.com/CleverRaven/Cataclysm-DDA/pull/66738))
 * Fix Central African flag description ([#66734](https://github.com/CleverRaven/Cataclysm-DDA/pull/66734))
