@@ -61,7 +61,6 @@
 * Fix line endings for MindOverMatter README.md ([#66627](https://github.com/CleverRaven/Cataclysm-DDA/pull/66627))
 * palettized modular shelter ([#66633](https://github.com/CleverRaven/Cataclysm-DDA/pull/66633))
 * [Mom] Change Telekinesis +10% weight passive into Telekinesis lifting field (try 2) ([#66612](https://github.com/CleverRaven/Cataclysm-DDA/pull/66612))
-* increase search radius for hub01-related missions ([#66559](https://github.com/CleverRaven/Cataclysm-DDA/pull/66559))
 * Routine tileset updates on 02 July 2023 ([#66626](https://github.com/CleverRaven/Cataclysm-DDA/pull/66626))
 * mom: remove invalid spell id reference ([#66622](https://github.com/CleverRaven/Cataclysm-DDA/pull/66622))
 * [Xedra Evolved] Maintenance ([#66618](https://github.com/CleverRaven/Cataclysm-DDA/pull/66618))
@@ -91,4 +90,3 @@
 * Meatball in the spaghetti ([#66573](https://github.com/CleverRaven/Cataclysm-DDA/pull/66573))
 * Routine i18n updates on 01 July 2023 ([#66568](https://github.com/CleverRaven/Cataclysm-DDA/pull/66568))
 * [Xedra Evolved] did you know dreamsmith was broken? neither did i ([#66562](https://github.com/CleverRaven/Cataclysm-DDA/pull/66562))
-* Update clear_character to remove mutation categories ([#66561](https://github.com/CleverRaven/Cataclysm-DDA/pull/66561))
