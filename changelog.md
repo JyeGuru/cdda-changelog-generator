@@ -1,3 +1,4 @@
+* Fix Central African flag description ([#66734](https://github.com/CleverRaven/Cataclysm-DDA/pull/66734))
 * Quick cardboard roll fixes ([#66731](https://github.com/CleverRaven/Cataclysm-DDA/pull/66731))
 * Obsolete the survivor headlamp ([#66726](https://github.com/CleverRaven/Cataclysm-DDA/pull/66726))
 * s_restaurant merge ([#66563](https://github.com/CleverRaven/Cataclysm-DDA/pull/66563))
@@ -90,5 +91,4 @@
 * Meatball in the spaghetti ([#66573](https://github.com/CleverRaven/Cataclysm-DDA/pull/66573))
 * Routine i18n updates on 01 July 2023 ([#66568](https://github.com/CleverRaven/Cataclysm-DDA/pull/66568))
 * [Xedra Evolved] did you know dreamsmith was broken? neither did i ([#66562](https://github.com/CleverRaven/Cataclysm-DDA/pull/66562))
-* Partially reduce coverage of gambesons ([#66558](https://github.com/CleverRaven/Cataclysm-DDA/pull/66558))
 * Update clear_character to remove mutation categories ([#66561](https://github.com/CleverRaven/Cataclysm-DDA/pull/66561))
