@@ -89,5 +89,4 @@
 * [Bombastic Perks] Fix for perk_olde_guns ([#66603](https://github.com/CleverRaven/Cataclysm-DDA/pull/66603))
 * Zombie runners can't climb stairs now ([#66602](https://github.com/CleverRaven/Cataclysm-DDA/pull/66602))
 * Create new lable for Mind Over Matter mod ([#66601](https://github.com/CleverRaven/Cataclysm-DDA/pull/66601))
-* Rebreather recipe fixes ([#66580](https://github.com/CleverRaven/Cataclysm-DDA/pull/66580))
 * Fix misplaced NOT in game::walk_move ([#66582](https://github.com/CleverRaven/Cataclysm-DDA/pull/66582))
