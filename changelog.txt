@@ -1,3 +1,4 @@
+* Quick JSON fixes (#66773)
 * [MoM] Move arithmetic to math, standardize and update awakening EoCs (#66724)
 * Calcium carbonate and antacid tablet creation (#66763)
 * Digitigrade Mutation Line-of-Sight Fix (#66764)
@@ -69,7 +70,6 @@
 * [MoM] Fix "You cast %" bug (#66655)
 * Make horses milkable (#66639)
 * Stops Hub 01 buying back some of their newer stuff (#66634)
-* update to kerosene spawns and refillable lighter (#66585)
 * item::set_degradation sets value of 0 on items with degradation disabled (#66607)
 * Fix line endings for MindOverMatter README.md (#66627)
 * palettized modular shelter (#66633)
