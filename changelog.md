@@ -1,3 +1,4 @@
+* MELEE_DAMAGE and ITEM_DAMAGE_BASH enchantments should affect bashing damage to tile ([#66735](https://github.com/CleverRaven/Cataclysm-DDA/pull/66735))
 * Material Replacement For Items ([#66757](https://github.com/CleverRaven/Cataclysm-DDA/pull/66757))
 * Also cache weapon_value for bare-handed characters ([#66766](https://github.com/CleverRaven/Cataclysm-DDA/pull/66766))
 * Misc maintenance to innawoods ([#66777](https://github.com/CleverRaven/Cataclysm-DDA/pull/66777))
@@ -87,7 +88,6 @@
 * Add Standing-Storm to Mind over Matter notification list ([#66617](https://github.com/CleverRaven/Cataclysm-DDA/pull/66617))
 * Add ability to make slime globs into slime samples ([#66595](https://github.com/CleverRaven/Cataclysm-DDA/pull/66595))
 * Further accessories obsoletion ([#66605](https://github.com/CleverRaven/Cataclysm-DDA/pull/66605))
-* Lessens chance to fall on school start ([#66591](https://github.com/CleverRaven/Cataclysm-DDA/pull/66591))
 * [Bombastic Perks] Fix for perk_olde_guns ([#66603](https://github.com/CleverRaven/Cataclysm-DDA/pull/66603))
 * Zombie runners can't climb stairs now ([#66602](https://github.com/CleverRaven/Cataclysm-DDA/pull/66602))
 * Create new lable for Mind Over Matter mod ([#66601](https://github.com/CleverRaven/Cataclysm-DDA/pull/66601))
