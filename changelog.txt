@@ -1,3 +1,4 @@
+* gold rings are rigid conflicts layer only (#66767)
 * change dark wyrm's blood type to foul acidic blood (#66748)
 * When placing items in a pet's bag, also consider the maximum length that can be accommodated (#66750)
 * Document even more missing fields, across a few more docs (#66740)
@@ -87,7 +88,6 @@
 * Add ability to cull more farmed/bred animals (#66575)
 * palettized fbmc radio tower (#66574)
 * Rebreather recipe fixes (#66580)
-* Makes founders’ leg bags much, much, much rarer. (#66572)
 * Add missing buildings to Alternative Map Key (#66578)
 * Fix misplaced NOT in game::walk_move (#66582)
 * Meatball in the spaghetti (#66573)
