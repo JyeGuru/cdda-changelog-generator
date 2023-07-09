@@ -1,3 +1,4 @@
+* Nerf subdermal carbon CBM ([#66769](https://github.com/CleverRaven/Cataclysm-DDA/pull/66769))
 * gold rings are rigid conflicts layer only ([#66767](https://github.com/CleverRaven/Cataclysm-DDA/pull/66767))
 * change dark wyrm's blood type to foul acidic blood ([#66748](https://github.com/CleverRaven/Cataclysm-DDA/pull/66748))
 * When placing items in a pet's bag, also consider the maximum length that can be accommodated ([#66750](https://github.com/CleverRaven/Cataclysm-DDA/pull/66750))
@@ -90,4 +91,3 @@
 * Rebreather recipe fixes ([#66580](https://github.com/CleverRaven/Cataclysm-DDA/pull/66580))
 * Add missing buildings to Alternative Map Key ([#66578](https://github.com/CleverRaven/Cataclysm-DDA/pull/66578))
 * Fix misplaced NOT in game::walk_move ([#66582](https://github.com/CleverRaven/Cataclysm-DDA/pull/66582))
-* Meatball in the spaghetti ([#66573](https://github.com/CleverRaven/Cataclysm-DDA/pull/66573))
