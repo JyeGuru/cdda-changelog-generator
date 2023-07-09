@@ -1,3 +1,4 @@
+* Update claw bar volume to be consistent with crowbar ([#66765](https://github.com/CleverRaven/Cataclysm-DDA/pull/66765))
 * Iterate over corpses in active items instead of map tiles for resurrect check ([#66753](https://github.com/CleverRaven/Cataclysm-DDA/pull/66753))
 * MELEE_DAMAGE and ITEM_DAMAGE_BASH enchantments should affect bashing damage to tile ([#66735](https://github.com/CleverRaven/Cataclysm-DDA/pull/66735))
 * Material Replacement For Items ([#66757](https://github.com/CleverRaven/Cataclysm-DDA/pull/66757))
