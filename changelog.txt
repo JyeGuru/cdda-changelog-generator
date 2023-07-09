@@ -1,3 +1,4 @@
+* Iterate over corpses in active items instead of map tiles for resurrect check (#66753)
 * MELEE_DAMAGE and ITEM_DAMAGE_BASH enchantments should affect bashing damage to tile (#66735)
 * Material Replacement For Items (#66757)
 * Also cache weapon_value for bare-handed characters (#66766)
@@ -83,7 +84,6 @@
 * Make arc welder and co able to plug (#66624)
 * Make lanterns plug-in-able (#66611)
 * palettized firestation1 (#66615)
-* This should add hm-12 to robofac trades (#66592)
 * Crater core migration (#66610)
 * Add Standing-Storm to Mind over Matter notification list (#66617)
 * Add ability to make slime globs into slime samples (#66595)
