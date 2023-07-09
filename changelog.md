@@ -1,3 +1,4 @@
+* Digitigrade Mutation Line-of-Sight Fix ([#66764](https://github.com/CleverRaven/Cataclysm-DDA/pull/66764))
 * Sluggish Love for Wildlife_Mod ([#66755](https://github.com/CleverRaven/Cataclysm-DDA/pull/66755))
 * [MoM] Implement jmath, include it in calculations ([#66770](https://github.com/CleverRaven/Cataclysm-DDA/pull/66770))
 * Nerf subdermal carbon CBM ([#66769](https://github.com/CleverRaven/Cataclysm-DDA/pull/66769))
@@ -89,5 +90,4 @@
 * Zombie runners can't climb stairs now ([#66602](https://github.com/CleverRaven/Cataclysm-DDA/pull/66602))
 * Create new lable for Mind Over Matter mod ([#66601](https://github.com/CleverRaven/Cataclysm-DDA/pull/66601))
 * Rebreather recipe fixes ([#66580](https://github.com/CleverRaven/Cataclysm-DDA/pull/66580))
-* Add missing buildings to Alternative Map Key ([#66578](https://github.com/CleverRaven/Cataclysm-DDA/pull/66578))
 * Fix misplaced NOT in game::walk_move ([#66582](https://github.com/CleverRaven/Cataclysm-DDA/pull/66582))
