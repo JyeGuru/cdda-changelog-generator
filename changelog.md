@@ -1,3 +1,4 @@
+* change dark wyrm's blood type to foul acidic blood ([#66748](https://github.com/CleverRaven/Cataclysm-DDA/pull/66748))
 * When placing items in a pet's bag, also consider the maximum length that can be accommodated ([#66750](https://github.com/CleverRaven/Cataclysm-DDA/pull/66750))
 * Document even more missing fields, across a few more docs ([#66740](https://github.com/CleverRaven/Cataclysm-DDA/pull/66740))
 * Always debug spawn undamaged cars both unlocked and faultless ([#66739](https://github.com/CleverRaven/Cataclysm-DDA/pull/66739))
@@ -85,7 +86,6 @@
 * Create new lable for Mind Over Matter mod ([#66601](https://github.com/CleverRaven/Cataclysm-DDA/pull/66601))
 * Add ability to cull more farmed/bred animals ([#66575](https://github.com/CleverRaven/Cataclysm-DDA/pull/66575))
 * palettized fbmc radio tower ([#66574](https://github.com/CleverRaven/Cataclysm-DDA/pull/66574))
-* Fix endless teapot error ([#66571](https://github.com/CleverRaven/Cataclysm-DDA/pull/66571))
 * Rebreather recipe fixes ([#66580](https://github.com/CleverRaven/Cataclysm-DDA/pull/66580))
 * Makes founders’ leg bags much, much, much rarer. ([#66572](https://github.com/CleverRaven/Cataclysm-DDA/pull/66572))
 * Add missing buildings to Alternative Map Key ([#66578](https://github.com/CleverRaven/Cataclysm-DDA/pull/66578))
