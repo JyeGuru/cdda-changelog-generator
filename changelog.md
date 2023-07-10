@@ -1,3 +1,4 @@
+* Jsonify monster flags ([#66722](https://github.com/CleverRaven/Cataclysm-DDA/pull/66722))
 * Creatures above cast shadows onto tiles below ([#66730](https://github.com/CleverRaven/Cataclysm-DDA/pull/66730))
 * Grab cleanup ([#66732](https://github.com/CleverRaven/Cataclysm-DDA/pull/66732))
 * Clear tile map memory on part removal ([#66775](https://github.com/CleverRaven/Cataclysm-DDA/pull/66775))
@@ -42,7 +43,6 @@
 * The Nestening (Part I) ([#66674](https://github.com/CleverRaven/Cataclysm-DDA/pull/66674))
 * increase spoil time of salted meat ([#66690](https://github.com/CleverRaven/Cataclysm-DDA/pull/66690))
 * Fix: show slowed message on slow terrain ([#66684](https://github.com/CleverRaven/Cataclysm-DDA/pull/66684))
-* New fish ([#66600](https://github.com/CleverRaven/Cataclysm-DDA/pull/66600))
 * regular masochists aren't sad about anesthesia ([#66692](https://github.com/CleverRaven/Cataclysm-DDA/pull/66692))
 * Vegans don't eat people ([#66694](https://github.com/CleverRaven/Cataclysm-DDA/pull/66694))
 * soapy water can't be drunk ([#66697](https://github.com/CleverRaven/Cataclysm-DDA/pull/66697))
