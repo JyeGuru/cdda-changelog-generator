@@ -1,3 +1,5 @@
+* Make portal storm ending more apparent to the player ([#66733](https://github.com/CleverRaven/Cataclysm-DDA/pull/66733))
+* Better scenario worldbuilding by giving PC knowledge of the nearest city on start ([#66781](https://github.com/CleverRaven/Cataclysm-DDA/pull/66781))
 * [MoM] Fix coruscating matrix crystal not draining on use ([#66790](https://github.com/CleverRaven/Cataclysm-DDA/pull/66790))
 * [MoM] Add Zener cards ([#66788](https://github.com/CleverRaven/Cataclysm-DDA/pull/66788))
 * Jsonify monster flags ([#66722](https://github.com/CleverRaven/Cataclysm-DDA/pull/66722))
@@ -91,5 +93,3 @@
 * palettized firestation1 ([#66615](https://github.com/CleverRaven/Cataclysm-DDA/pull/66615))
 * Crater core migration ([#66610](https://github.com/CleverRaven/Cataclysm-DDA/pull/66610))
 * Add Standing-Storm to Mind over Matter notification list ([#66617](https://github.com/CleverRaven/Cataclysm-DDA/pull/66617))
-* Further accessories obsoletion ([#66605](https://github.com/CleverRaven/Cataclysm-DDA/pull/66605))
-* [Bombastic Perks] Fix for perk_olde_guns ([#66603](https://github.com/CleverRaven/Cataclysm-DDA/pull/66603))
