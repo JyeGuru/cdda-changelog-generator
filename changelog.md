@@ -1,3 +1,5 @@
+* [MoM] Fix coruscating matrix crystal not draining on use ([#66790](https://github.com/CleverRaven/Cataclysm-DDA/pull/66790))
+* [MoM] Add Zener cards ([#66788](https://github.com/CleverRaven/Cataclysm-DDA/pull/66788))
 * Jsonify monster flags ([#66722](https://github.com/CleverRaven/Cataclysm-DDA/pull/66722))
 * Creatures above cast shadows onto tiles below ([#66730](https://github.com/CleverRaven/Cataclysm-DDA/pull/66730))
 * Grab cleanup ([#66732](https://github.com/CleverRaven/Cataclysm-DDA/pull/66732))
@@ -91,5 +93,3 @@
 * Add Standing-Storm to Mind over Matter notification list ([#66617](https://github.com/CleverRaven/Cataclysm-DDA/pull/66617))
 * Further accessories obsoletion ([#66605](https://github.com/CleverRaven/Cataclysm-DDA/pull/66605))
 * [Bombastic Perks] Fix for perk_olde_guns ([#66603](https://github.com/CleverRaven/Cataclysm-DDA/pull/66603))
-* Zombie runners can't climb stairs now ([#66602](https://github.com/CleverRaven/Cataclysm-DDA/pull/66602))
-* Create new lable for Mind Over Matter mod ([#66601](https://github.com/CleverRaven/Cataclysm-DDA/pull/66601))
