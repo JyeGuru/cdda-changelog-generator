@@ -1,3 +1,4 @@
+* Routine tileset updates on 09 July 2023 ([#66786](https://github.com/CleverRaven/Cataclysm-DDA/pull/66786))
 * Make portal storm ending more apparent to the player ([#66733](https://github.com/CleverRaven/Cataclysm-DDA/pull/66733))
 * Better scenario worldbuilding by giving PC knowledge of the nearest city on start ([#66781](https://github.com/CleverRaven/Cataclysm-DDA/pull/66781))
 * [MoM] Fix coruscating matrix crystal not draining on use ([#66790](https://github.com/CleverRaven/Cataclysm-DDA/pull/66790))
@@ -81,7 +82,6 @@
 * [MoM] Fix "You cast %" bug ([#66655](https://github.com/CleverRaven/Cataclysm-DDA/pull/66655))
 * Make horses milkable ([#66639](https://github.com/CleverRaven/Cataclysm-DDA/pull/66639))
 * Stops Hub 01 buying back some of their newer stuff ([#66634](https://github.com/CleverRaven/Cataclysm-DDA/pull/66634))
-* item::set_degradation sets value of 0 on items with degradation disabled ([#66607](https://github.com/CleverRaven/Cataclysm-DDA/pull/66607))
 * Fix line endings for MindOverMatter README.md ([#66627](https://github.com/CleverRaven/Cataclysm-DDA/pull/66627))
 * palettized modular shelter ([#66633](https://github.com/CleverRaven/Cataclysm-DDA/pull/66633))
 * [Mom] Change Telekinesis +10% weight passive into Telekinesis lifting field (try 2) ([#66612](https://github.com/CleverRaven/Cataclysm-DDA/pull/66612))
