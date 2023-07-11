@@ -1,3 +1,4 @@
+* Typo fix (#66779)
 * Migrate some vehicle code from part indexes to part references (#66796)
 * fix: missing spaces (#66797)
 * magiclysm: diviner exodii mission fix (#66782)
@@ -80,7 +81,6 @@
 * Make 'Undamaged' the default menu option when debug spawning vehicles (#66656)
 * reign in horse milk yield (#66663)
 * Fixes office building's stairs (#66642)
-* Tamable Wildlife: Tamable spiders (#66619)
 * bp fault fix removes rust_timer (#66654)
 * [No Hope] Blacklist overrun scenario (#66645)
 * palettized shelter 1 (#66658)
