@@ -1,3 +1,4 @@
+* Added some additional labels on graves. ([#66704](https://github.com/CleverRaven/Cataclysm-DDA/pull/66704))
 * Typo fix ([#66779](https://github.com/CleverRaven/Cataclysm-DDA/pull/66779))
 * Migrate some vehicle code from part indexes to part references ([#66796](https://github.com/CleverRaven/Cataclysm-DDA/pull/66796))
 * fix: missing spaces ([#66797](https://github.com/CleverRaven/Cataclysm-DDA/pull/66797))
@@ -91,5 +92,4 @@
 * Fix line endings for MindOverMatter README.md ([#66627](https://github.com/CleverRaven/Cataclysm-DDA/pull/66627))
 * palettized modular shelter ([#66633](https://github.com/CleverRaven/Cataclysm-DDA/pull/66633))
 * Routine tileset updates on 02 July 2023 ([#66626](https://github.com/CleverRaven/Cataclysm-DDA/pull/66626))
-* mom: remove invalid spell id reference ([#66622](https://github.com/CleverRaven/Cataclysm-DDA/pull/66622))
 * Make arc welder and co able to plug ([#66624](https://github.com/CleverRaven/Cataclysm-DDA/pull/66624))
