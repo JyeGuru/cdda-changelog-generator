@@ -1,3 +1,4 @@
+* Tiny fixes to books ([#66826](https://github.com/CleverRaven/Cataclysm-DDA/pull/66826))
 * Bugfix: rebreather regenerator cartridges spawned without charges ([#66827](https://github.com/CleverRaven/Cataclysm-DDA/pull/66827))
 * Added some additional labels on graves. ([#66704](https://github.com/CleverRaven/Cataclysm-DDA/pull/66704))
 * Typo fix ([#66779](https://github.com/CleverRaven/Cataclysm-DDA/pull/66779))
@@ -92,4 +93,3 @@
 * Stops Hub 01 buying back some of their newer stuff ([#66634](https://github.com/CleverRaven/Cataclysm-DDA/pull/66634))
 * Fix line endings for MindOverMatter README.md ([#66627](https://github.com/CleverRaven/Cataclysm-DDA/pull/66627))
 * palettized modular shelter ([#66633](https://github.com/CleverRaven/Cataclysm-DDA/pull/66633))
-* Routine tileset updates on 02 July 2023 ([#66626](https://github.com/CleverRaven/Cataclysm-DDA/pull/66626))
