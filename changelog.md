@@ -1,3 +1,4 @@
+* Removes roof from top level stairs in stadiums ([#66843](https://github.com/CleverRaven/Cataclysm-DDA/pull/66843))
 * fix: update old GRAB_DRAG entry ([#66839](https://github.com/CleverRaven/Cataclysm-DDA/pull/66839))
 * No more civilian de-aging ([#66814](https://github.com/CleverRaven/Cataclysm-DDA/pull/66814))
 * Arabic Armaments and book, More Graded Steel ([#66676](https://github.com/CleverRaven/Cataclysm-DDA/pull/66676))
@@ -79,7 +80,6 @@
 * Move reverse-jointed legs to mod files ([#66687](https://github.com/CleverRaven/Cataclysm-DDA/pull/66687))
 * Update blackpowder recipes following charcoal item stat changes ([#66678](https://github.com/CleverRaven/Cataclysm-DDA/pull/66678))
 * [Xedra Evolved] better material for jump driver ([#66680](https://github.com/CleverRaven/Cataclysm-DDA/pull/66680))
-* [MoM] Wielding a matrix crystal enhances your powers ([#66644](https://github.com/CleverRaven/Cataclysm-DDA/pull/66644))
 * Fixes 66637 and wraps up some typos. ([#66648](https://github.com/CleverRaven/Cataclysm-DDA/pull/66648))
 * [Magiclysm] remove deduction from stormshaper skills ([#66682](https://github.com/CleverRaven/Cataclysm-DDA/pull/66682))
 * Mutant lard uses surface_heat now ([#66679](https://github.com/CleverRaven/Cataclysm-DDA/pull/66679))
