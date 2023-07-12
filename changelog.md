@@ -1,3 +1,5 @@
+* Arabic Armaments and book, More Graded Steel ([#66676](https://github.com/CleverRaven/Cataclysm-DDA/pull/66676))
+* Fix #66712 ([#66828](https://github.com/CleverRaven/Cataclysm-DDA/pull/66828))
 * Migrate some vehicle code from part indexes to part references pt2 ([#66816](https://github.com/CleverRaven/Cataclysm-DDA/pull/66816))
 * NPC selects martial arts ([#66793](https://github.com/CleverRaven/Cataclysm-DDA/pull/66793))
 * Update the table of contents in doc/JSON_INFO.md ([#66800](https://github.com/CleverRaven/Cataclysm-DDA/pull/66800))
@@ -54,7 +56,6 @@
 * Move field halflife initialize to seperate function ([#66700](https://github.com/CleverRaven/Cataclysm-DDA/pull/66700))
 * Add harakka to confirm-bug list ([#66714](https://github.com/CleverRaven/Cataclysm-DDA/pull/66714))
 * extra_mut_scen fixes ([#66711](https://github.com/CleverRaven/Cataclysm-DDA/pull/66711))
-* Assorted tile rendering fixes ([#66638](https://github.com/CleverRaven/Cataclysm-DDA/pull/66638))
 * Repair Firearm Repair Kit Repair ([#66664](https://github.com/CleverRaven/Cataclysm-DDA/pull/66664))
 * palettization cleanup ([#66710](https://github.com/CleverRaven/Cataclysm-DDA/pull/66710))
 * Add antacid tablets ([#66698](https://github.com/CleverRaven/Cataclysm-DDA/pull/66698))
@@ -93,4 +94,3 @@
 * palettized shelter 1 ([#66658](https://github.com/CleverRaven/Cataclysm-DDA/pull/66658))
 * Dry duffel bags are actually watertight ([#66652](https://github.com/CleverRaven/Cataclysm-DDA/pull/66652))
 * [MoM] Fix "You cast %" bug ([#66655](https://github.com/CleverRaven/Cataclysm-DDA/pull/66655))
-* Make horses milkable ([#66639](https://github.com/CleverRaven/Cataclysm-DDA/pull/66639))
