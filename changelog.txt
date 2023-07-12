@@ -1,3 +1,4 @@
+* No more civilian de-aging (#66814)
 * Arabic Armaments and book, More Graded Steel (#66676)
 * Fix #66712 (#66828)
 * Migrate some vehicle code from part indexes to part references pt2 (#66816)
@@ -88,7 +89,6 @@
 * Xl survivor boots (#66650)
 * Make 'Undamaged' the default menu option when debug spawning vehicles (#66656)
 * reign in horse milk yield (#66663)
-* Fixes office building's stairs (#66642)
 * bp fault fix removes rust_timer (#66654)
 * [No Hope] Blacklist overrun scenario (#66645)
 * palettized shelter 1 (#66658)
