@@ -1,3 +1,4 @@
+* Add more link ups ([#66847](https://github.com/CleverRaven/Cataclysm-DDA/pull/66847))
 * Document more fields........ ([#66846](https://github.com/CleverRaven/Cataclysm-DDA/pull/66846))
 * Fix fix_time ([#66833](https://github.com/CleverRaven/Cataclysm-DDA/pull/66833))
 * More large building and  up above start locations ([#66808](https://github.com/CleverRaven/Cataclysm-DDA/pull/66808))
@@ -93,4 +94,3 @@
 * palettized modular shelter 2 ([#66681](https://github.com/CleverRaven/Cataclysm-DDA/pull/66681))
 * Add MAN_MADE flag to dinosaur exhibit ([#66675](https://github.com/CleverRaven/Cataclysm-DDA/pull/66675))
 * Fix the epilogue for the New England Church Community ([#66668](https://github.com/CleverRaven/Cataclysm-DDA/pull/66668))
-* reign in horse milk yield ([#66663](https://github.com/CleverRaven/Cataclysm-DDA/pull/66663))
