@@ -1,3 +1,4 @@
+* Document more fields........ (#66846)
 * Fix fix_time (#66833)
 * More large building and  up above start locations (#66808)
 * [Magiclysm] Return of the Elves (#66667)
@@ -93,4 +94,3 @@
 * Add MAN_MADE flag to dinosaur exhibit (#66675)
 * Fix the epilogue for the New England Church Community (#66668)
 * reign in horse milk yield (#66663)
-* palettized shelter 1 (#66658)
