@@ -1,3 +1,4 @@
+* Prevent Unload_container unloading NO_UNLOAD containers ([#66862](https://github.com/CleverRaven/Cataclysm-DDA/pull/66862))
 * Add more link ups ([#66847](https://github.com/CleverRaven/Cataclysm-DDA/pull/66847))
 * Document more fields........ ([#66846](https://github.com/CleverRaven/Cataclysm-DDA/pull/66846))
 * Fix fix_time ([#66833](https://github.com/CleverRaven/Cataclysm-DDA/pull/66833))
@@ -69,7 +70,6 @@
 * Move field halflife initialize to seperate function ([#66700](https://github.com/CleverRaven/Cataclysm-DDA/pull/66700))
 * Add harakka to confirm-bug list ([#66714](https://github.com/CleverRaven/Cataclysm-DDA/pull/66714))
 * extra_mut_scen fixes ([#66711](https://github.com/CleverRaven/Cataclysm-DDA/pull/66711))
-* Repair Firearm Repair Kit Repair ([#66664](https://github.com/CleverRaven/Cataclysm-DDA/pull/66664))
 * palettization cleanup ([#66710](https://github.com/CleverRaven/Cataclysm-DDA/pull/66710))
 * Add antacid tablets ([#66698](https://github.com/CleverRaven/Cataclysm-DDA/pull/66698))
 * [MoM] Change psionic drain to a vitamin, add ways for the player to reduce it ([#66673](https://github.com/CleverRaven/Cataclysm-DDA/pull/66673))
