@@ -1,3 +1,4 @@
+* Accessories obsoletion strikes back ([#66830](https://github.com/CleverRaven/Cataclysm-DDA/pull/66830))
 * Give the FN SCAR its attachment points back ([#66888](https://github.com/CleverRaven/Cataclysm-DDA/pull/66888))
 * Prevent Unload_container unloading NO_UNLOAD containers ([#66862](https://github.com/CleverRaven/Cataclysm-DDA/pull/66862))
 * Add more link ups ([#66847](https://github.com/CleverRaven/Cataclysm-DDA/pull/66847))
@@ -93,4 +94,3 @@
 * Mutant lard uses surface_heat now ([#66679](https://github.com/CleverRaven/Cataclysm-DDA/pull/66679))
 * palettized modular shelter 2 ([#66681](https://github.com/CleverRaven/Cataclysm-DDA/pull/66681))
 * Add MAN_MADE flag to dinosaur exhibit ([#66675](https://github.com/CleverRaven/Cataclysm-DDA/pull/66675))
-* Fix the epilogue for the New England Church Community ([#66668](https://github.com/CleverRaven/Cataclysm-DDA/pull/66668))

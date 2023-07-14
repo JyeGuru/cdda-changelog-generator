@@ -1,3 +1,4 @@
+* Accessories obsoletion strikes back (#66830)
 * Give the FN SCAR its attachment points back (#66888)
 * Prevent Unload_container unloading NO_UNLOAD containers (#66862)
 * Add more link ups (#66847)
@@ -93,4 +94,3 @@
 * Mutant lard uses surface_heat now (#66679)
 * palettized modular shelter 2 (#66681)
 * Add MAN_MADE flag to dinosaur exhibit (#66675)
-* Fix the epilogue for the New England Church Community (#66668)
