@@ -1,3 +1,4 @@
+* throttle stalebot ([#66914](https://github.com/CleverRaven/Cataclysm-DDA/pull/66914))
 * Fix z-level shadows drawn on unseen tiles ([#66903](https://github.com/CleverRaven/Cataclysm-DDA/pull/66903))
 * Let the fallen items of the dead NPC attach to the NPC's body ([#66901](https://github.com/CleverRaven/Cataclysm-DDA/pull/66901))
 * Fix grenade manhacks ([#66899](https://github.com/CleverRaven/Cataclysm-DDA/pull/66899))
@@ -93,4 +94,3 @@
 * Vegans don't eat people ([#66694](https://github.com/CleverRaven/Cataclysm-DDA/pull/66694))
 * soapy water can't be drunk ([#66697](https://github.com/CleverRaven/Cataclysm-DDA/pull/66697))
 * Snail Mail Its Tamable Snails ([#66702](https://github.com/CleverRaven/Cataclysm-DDA/pull/66702))
-* bugfixes for armor bionics ([#66693](https://github.com/CleverRaven/Cataclysm-DDA/pull/66693))
