@@ -1,3 +1,4 @@
+* Inline `sm_to_ms_copy` for multi% cpu wins in congested places. (#66889)
 * Allow crafting tools to use linked electricity (#66870)
 * More nest test fail fixes (#66878)
 * Places some of Karol's plywood chairs and barstools (#66904)
@@ -76,7 +77,6 @@
 * Add antacid tablets (#66698)
 * Fix tow cables being unable to connect different vehicles (#66706)
 * Tone Down Assassin Spawns (#66703)
-* The Nestening (Part I) (#66674)
 * increase spoil time of salted meat (#66690)
 * Fix: show slowed message on slow terrain (#66684)
 * regular masochists aren't sad about anesthesia (#66692)
