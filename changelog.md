@@ -1,3 +1,5 @@
+* Remove Pilot light from electric oven ([#66915](https://github.com/CleverRaven/Cataclysm-DDA/pull/66915))
+* crafting: respect spec for std::normal_distribution ([#66920](https://github.com/CleverRaven/Cataclysm-DDA/pull/66920))
 * make arbitrarily undodgeable attacks dodgeable ([#66910](https://github.com/CleverRaven/Cataclysm-DDA/pull/66910))
 * remove damage malus from sig 553 ([#66912](https://github.com/CleverRaven/Cataclysm-DDA/pull/66912))
 * put f_nuclear_fuel_cell in the microlab reactor ([#66911](https://github.com/CleverRaven/Cataclysm-DDA/pull/66911))
@@ -87,7 +89,6 @@
 * Ceramic shard sanifying ([#66715](https://github.com/CleverRaven/Cataclysm-DDA/pull/66715))
 * Added cord to electric blankets ([#66718](https://github.com/CleverRaven/Cataclysm-DDA/pull/66718))
 * Practice throwing with golf ball ([#66713](https://github.com/CleverRaven/Cataclysm-DDA/pull/66713))
-* Move field halflife initialize to seperate function ([#66700](https://github.com/CleverRaven/Cataclysm-DDA/pull/66700))
 * Add harakka to confirm-bug list ([#66714](https://github.com/CleverRaven/Cataclysm-DDA/pull/66714))
 * extra_mut_scen fixes ([#66711](https://github.com/CleverRaven/Cataclysm-DDA/pull/66711))
 * palettization cleanup ([#66710](https://github.com/CleverRaven/Cataclysm-DDA/pull/66710))
