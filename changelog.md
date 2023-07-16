@@ -1,3 +1,5 @@
+* [MoM] Add noetic resilience treatment ([#66841](https://github.com/CleverRaven/Cataclysm-DDA/pull/66841))
+* Titanium skeletal bracing provides some bash armor ([#66836](https://github.com/CleverRaven/Cataclysm-DDA/pull/66836))
 * Adjust the way Intelligence affects focus (multiplier instead of flat bonus) ([#66834](https://github.com/CleverRaven/Cataclysm-DDA/pull/66834))
 * Add some splintmail additions: Splint mail greaves and vambraces ([#66849](https://github.com/CleverRaven/Cataclysm-DDA/pull/66849))
 * Fix issue with portal storms only happening once ([#66953](https://github.com/CleverRaven/Cataclysm-DDA/pull/66953))
@@ -64,7 +66,6 @@
 * Better scenario worldbuilding by giving PC knowledge of the nearest city on start ([#66781](https://github.com/CleverRaven/Cataclysm-DDA/pull/66781))
 * [MoM] Fix coruscating matrix crystal not draining on use ([#66790](https://github.com/CleverRaven/Cataclysm-DDA/pull/66790))
 * [MoM] Add Zener cards ([#66788](https://github.com/CleverRaven/Cataclysm-DDA/pull/66788))
-* Jsonify monster flags ([#66722](https://github.com/CleverRaven/Cataclysm-DDA/pull/66722))
 * Creatures above cast shadows onto tiles below ([#66730](https://github.com/CleverRaven/Cataclysm-DDA/pull/66730))
 * Grab cleanup ([#66732](https://github.com/CleverRaven/Cataclysm-DDA/pull/66732))
 * Clear tile map memory on part removal ([#66775](https://github.com/CleverRaven/Cataclysm-DDA/pull/66775))
@@ -92,4 +93,3 @@
 * Fix Central African flag description ([#66734](https://github.com/CleverRaven/Cataclysm-DDA/pull/66734))
 * Quick cardboard roll fixes ([#66731](https://github.com/CleverRaven/Cataclysm-DDA/pull/66731))
 * Obsolete the survivor headlamp ([#66726](https://github.com/CleverRaven/Cataclysm-DDA/pull/66726))
-* Added cord to electric blankets ([#66718](https://github.com/CleverRaven/Cataclysm-DDA/pull/66718))
