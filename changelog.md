@@ -94,4 +94,3 @@
 * Add harakka to confirm-bug list ([#66714](https://github.com/CleverRaven/Cataclysm-DDA/pull/66714))
 * extra_mut_scen fixes ([#66711](https://github.com/CleverRaven/Cataclysm-DDA/pull/66711))
 * palettization cleanup ([#66710](https://github.com/CleverRaven/Cataclysm-DDA/pull/66710))
-* Fix tow cables being unable to connect different vehicles ([#66706](https://github.com/CleverRaven/Cataclysm-DDA/pull/66706))
