@@ -1,3 +1,5 @@
+* mapgen: use dbl_or_var for variable weights (#66919)
+* Allow nests to check for neighbouring flags (#66873)
 * Remove Pilot light from electric oven (#66915)
 * crafting: respect spec for std::normal_distribution (#66920)
 * make arbitrarily undodgeable attacks dodgeable (#66910)
@@ -93,5 +95,3 @@
 * extra_mut_scen fixes (#66711)
 * palettization cleanup (#66710)
 * Fix tow cables being unable to connect different vehicles (#66706)
-* Tone Down Assassin Spawns (#66703)
-* Snail Mail Its Tamable Snails (#66702)

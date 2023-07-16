@@ -1,3 +1,5 @@
+* mapgen: use dbl_or_var for variable weights ([#66919](https://github.com/CleverRaven/Cataclysm-DDA/pull/66919))
+* Allow nests to check for neighbouring flags ([#66873](https://github.com/CleverRaven/Cataclysm-DDA/pull/66873))
 * Remove Pilot light from electric oven ([#66915](https://github.com/CleverRaven/Cataclysm-DDA/pull/66915))
 * crafting: respect spec for std::normal_distribution ([#66920](https://github.com/CleverRaven/Cataclysm-DDA/pull/66920))
 * make arbitrarily undodgeable attacks dodgeable ([#66910](https://github.com/CleverRaven/Cataclysm-DDA/pull/66910))
@@ -93,5 +95,3 @@
 * extra_mut_scen fixes ([#66711](https://github.com/CleverRaven/Cataclysm-DDA/pull/66711))
 * palettization cleanup ([#66710](https://github.com/CleverRaven/Cataclysm-DDA/pull/66710))
 * Fix tow cables being unable to connect different vehicles ([#66706](https://github.com/CleverRaven/Cataclysm-DDA/pull/66706))
-* Tone Down Assassin Spawns ([#66703](https://github.com/CleverRaven/Cataclysm-DDA/pull/66703))
-* Snail Mail Its Tamable Snails ([#66702](https://github.com/CleverRaven/Cataclysm-DDA/pull/66702))
