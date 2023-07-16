@@ -1,3 +1,4 @@
+* Add P90 to guns_swat so mags don't spawn alone ([#66937](https://github.com/CleverRaven/Cataclysm-DDA/pull/66937))
 * Add tactical_grenade_pouch spawn to Military Warehouse ([#66909](https://github.com/CleverRaven/Cataclysm-DDA/pull/66909))
 * mapgen: use dbl_or_var for variable weights ([#66919](https://github.com/CleverRaven/Cataclysm-DDA/pull/66919))
 * Allow nests to check for neighbouring flags ([#66873](https://github.com/CleverRaven/Cataclysm-DDA/pull/66873))
@@ -54,7 +55,6 @@
 * magiclysm: diviner exodii mission fix ([#66782](https://github.com/CleverRaven/Cataclysm-DDA/pull/66782))
 * Weekly Changelog 2023-07-03 to 2023-07-10 ([#66787](https://github.com/CleverRaven/Cataclysm-DDA/pull/66787))
 * Chip resistance should be higher for dreamdross and forged dreamdross ([#66802](https://github.com/CleverRaven/Cataclysm-DDA/pull/66802))
-* Rattlesnake retouch, Tamable Wildlife tamable rattlesnakes ([#66707](https://github.com/CleverRaven/Cataclysm-DDA/pull/66707))
 * Routine tileset updates on 09 July 2023 ([#66786](https://github.com/CleverRaven/Cataclysm-DDA/pull/66786))
 * Make portal storm ending more apparent to the player ([#66733](https://github.com/CleverRaven/Cataclysm-DDA/pull/66733))
 * Better scenario worldbuilding by giving PC knowledge of the nearest city on start ([#66781](https://github.com/CleverRaven/Cataclysm-DDA/pull/66781))
