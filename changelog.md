@@ -1,3 +1,4 @@
+* Add tactical_grenade_pouch spawn to Military Warehouse ([#66909](https://github.com/CleverRaven/Cataclysm-DDA/pull/66909))
 * mapgen: use dbl_or_var for variable weights ([#66919](https://github.com/CleverRaven/Cataclysm-DDA/pull/66919))
 * Allow nests to check for neighbouring flags ([#66873](https://github.com/CleverRaven/Cataclysm-DDA/pull/66873))
 * Remove Pilot light from electric oven ([#66915](https://github.com/CleverRaven/Cataclysm-DDA/pull/66915))
@@ -47,7 +48,6 @@
 * Enable clang-tidy check performance-unnecessary-copy-initialization ([#66803](https://github.com/CleverRaven/Cataclysm-DDA/pull/66803))
 * Tiny fixes to books ([#66826](https://github.com/CleverRaven/Cataclysm-DDA/pull/66826))
 * Bugfix: rebreather regenerator cartridges spawned without charges ([#66827](https://github.com/CleverRaven/Cataclysm-DDA/pull/66827))
-* Added some additional labels on graves. ([#66704](https://github.com/CleverRaven/Cataclysm-DDA/pull/66704))
 * Typo fix ([#66779](https://github.com/CleverRaven/Cataclysm-DDA/pull/66779))
 * Migrate some vehicle code from part indexes to part references ([#66796](https://github.com/CleverRaven/Cataclysm-DDA/pull/66796))
 * fix: missing spaces ([#66797](https://github.com/CleverRaven/Cataclysm-DDA/pull/66797))
