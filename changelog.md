@@ -1,3 +1,4 @@
+* Fix issue with portal storms only happening once ([#66953](https://github.com/CleverRaven/Cataclysm-DDA/pull/66953))
 * Zombie Harvest Snippets ([#66887](https://github.com/CleverRaven/Cataclysm-DDA/pull/66887))
 * Add P90 to guns_swat so mags don't spawn alone ([#66937](https://github.com/CleverRaven/Cataclysm-DDA/pull/66937))
 * Add tactical_grenade_pouch spawn to Military Warehouse ([#66909](https://github.com/CleverRaven/Cataclysm-DDA/pull/66909))
@@ -91,5 +92,4 @@
 * Obsolete the survivor headlamp ([#66726](https://github.com/CleverRaven/Cataclysm-DDA/pull/66726))
 * Ceramic shard sanifying ([#66715](https://github.com/CleverRaven/Cataclysm-DDA/pull/66715))
 * Added cord to electric blankets ([#66718](https://github.com/CleverRaven/Cataclysm-DDA/pull/66718))
-* Practice throwing with golf ball ([#66713](https://github.com/CleverRaven/Cataclysm-DDA/pull/66713))
 * Add harakka to confirm-bug list ([#66714](https://github.com/CleverRaven/Cataclysm-DDA/pull/66714))
