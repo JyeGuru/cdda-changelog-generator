@@ -1,3 +1,4 @@
+* Zombie Harvest Snippets ([#66887](https://github.com/CleverRaven/Cataclysm-DDA/pull/66887))
 * Add P90 to guns_swat so mags don't spawn alone ([#66937](https://github.com/CleverRaven/Cataclysm-DDA/pull/66937))
 * Add tactical_grenade_pouch spawn to Military Warehouse ([#66909](https://github.com/CleverRaven/Cataclysm-DDA/pull/66909))
 * mapgen: use dbl_or_var for variable weights ([#66919](https://github.com/CleverRaven/Cataclysm-DDA/pull/66919))
@@ -92,4 +93,3 @@
 * Added cord to electric blankets ([#66718](https://github.com/CleverRaven/Cataclysm-DDA/pull/66718))
 * Practice throwing with golf ball ([#66713](https://github.com/CleverRaven/Cataclysm-DDA/pull/66713))
 * Add harakka to confirm-bug list ([#66714](https://github.com/CleverRaven/Cataclysm-DDA/pull/66714))
-* extra_mut_scen fixes ([#66711](https://github.com/CleverRaven/Cataclysm-DDA/pull/66711))
