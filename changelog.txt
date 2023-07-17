@@ -70,7 +70,6 @@
 * Better scenario worldbuilding by giving PC knowledge of the nearest city on start (#66781)
 * [MoM] Fix coruscating matrix crystal not draining on use (#66790)
 * [MoM] Add Zener cards (#66788)
-* Grab cleanup (#66732)
 * Clear tile map memory on part removal (#66775)
 * Update claw bar volume to be consistent with crowbar (#66765)
 * Iterate over corpses in active items instead of map tiles for resurrect check (#66753)
