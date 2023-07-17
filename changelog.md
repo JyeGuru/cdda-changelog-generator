@@ -1,3 +1,4 @@
+* Routine tileset updates on 16 July 2023 ([#66958](https://github.com/CleverRaven/Cataclysm-DDA/pull/66958))
 * [MoM] Add noetic resilience treatment ([#66841](https://github.com/CleverRaven/Cataclysm-DDA/pull/66841))
 * Titanium skeletal bracing provides some bash armor ([#66836](https://github.com/CleverRaven/Cataclysm-DDA/pull/66836))
 * Adjust the way Intelligence affects focus (multiplier instead of flat bonus) ([#66834](https://github.com/CleverRaven/Cataclysm-DDA/pull/66834))
@@ -76,7 +77,6 @@
 * Also cache weapon_value for bare-handed characters ([#66766](https://github.com/CleverRaven/Cataclysm-DDA/pull/66766))
 * Misc maintenance to innawoods ([#66777](https://github.com/CleverRaven/Cataclysm-DDA/pull/66777))
 * Quick JSON fixes ([#66773](https://github.com/CleverRaven/Cataclysm-DDA/pull/66773))
-* [MoM] Move arithmetic to math, standardize and update awakening EoCs ([#66724](https://github.com/CleverRaven/Cataclysm-DDA/pull/66724))
 * Calcium carbonate and antacid tablet creation ([#66763](https://github.com/CleverRaven/Cataclysm-DDA/pull/66763))
 * Digitigrade Mutation Line-of-Sight Fix ([#66764](https://github.com/CleverRaven/Cataclysm-DDA/pull/66764))
 * Sluggish Love for Wildlife_Mod ([#66755](https://github.com/CleverRaven/Cataclysm-DDA/pull/66755))
