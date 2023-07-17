@@ -1,3 +1,4 @@
+* Add compound crossbow to Hunting Supply Store's archery space itemgroup ([#66973](https://github.com/CleverRaven/Cataclysm-DDA/pull/66973))
 * Jsonify succession cooldown + fix some bad bugs! ([#66934](https://github.com/CleverRaven/Cataclysm-DDA/pull/66934))
 * Document most event types for EOCs ([#66936](https://github.com/CleverRaven/Cataclysm-DDA/pull/66936))
 * Keybindings fixes ([#66938](https://github.com/CleverRaven/Cataclysm-DDA/pull/66938))
@@ -89,5 +90,4 @@
 * gold rings are rigid conflicts layer only ([#66767](https://github.com/CleverRaven/Cataclysm-DDA/pull/66767))
 * change dark wyrm's blood type to foul acidic blood ([#66748](https://github.com/CleverRaven/Cataclysm-DDA/pull/66748))
 * When placing items in a pet's bag, also consider the maximum length that can be accommodated ([#66750](https://github.com/CleverRaven/Cataclysm-DDA/pull/66750))
-* Document even more missing fields, across a few more docs ([#66740](https://github.com/CleverRaven/Cataclysm-DDA/pull/66740))
 * Routine i18n updates on 08 July 2023 ([#66745](https://github.com/CleverRaven/Cataclysm-DDA/pull/66745))
