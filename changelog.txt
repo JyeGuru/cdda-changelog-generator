@@ -90,5 +90,4 @@
 * change dark wyrm's blood type to foul acidic blood (#66748)
 * When placing items in a pet's bag, also consider the maximum length that can be accommodated (#66750)
 * Document even more missing fields, across a few more docs (#66740)
-* Always debug spawn undamaged cars both unlocked and faultless (#66739)
 * Routine i18n updates on 08 July 2023 (#66745)
