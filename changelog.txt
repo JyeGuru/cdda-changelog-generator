@@ -1,3 +1,5 @@
+* Fix messed up brs (#66970)
+* Itemgroups can seal their containers (#66971)
 * Clang Fixes (#66959)
 * Don't get randomly sick anymore (#66967)
 * A bunch of random item reworks: 8 (#66774)
@@ -66,7 +68,6 @@
 * Weekly Changelog 2023-07-03 to 2023-07-10 (#66787)
 * Chip resistance should be higher for dreamdross and forged dreamdross (#66802)
 * Routine tileset updates on 09 July 2023 (#66786)
-* Make portal storm ending more apparent to the player (#66733)
 * Better scenario worldbuilding by giving PC knowledge of the nearest city on start (#66781)
 * [MoM] Fix coruscating matrix crystal not draining on use (#66790)
 * [MoM] Add Zener cards (#66788)
@@ -91,4 +92,3 @@
 * Routine i18n updates on 08 July 2023 (#66745)
 * Nerf lycra (#66737)
 * Document more fields for our monsters (#66738)
-* Fix Central African flag description (#66734)
