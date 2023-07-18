@@ -1,3 +1,4 @@
+* Add a accidental injury warning on reach attacks ([#66989](https://github.com/CleverRaven/Cataclysm-DDA/pull/66989))
 * Rescuing Mi-Go prisoners should give at least some trust with them ([#66982](https://github.com/CleverRaven/Cataclysm-DDA/pull/66982))
 * [ASCIITileset] Run and bash animations, shadows, fog tweak ([#66965](https://github.com/CleverRaven/Cataclysm-DDA/pull/66965))
 * Weekly Changelog 2023-07-10 to 2023-07-17 ([#66962](https://github.com/CleverRaven/Cataclysm-DDA/pull/66962))
