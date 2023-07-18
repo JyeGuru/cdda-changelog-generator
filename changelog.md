@@ -1,3 +1,4 @@
+* Rescuing Mi-Go prisoners should give at least some trust with them ([#66982](https://github.com/CleverRaven/Cataclysm-DDA/pull/66982))
 * [ASCIITileset] Run and bash animations, shadows, fog tweak ([#66965](https://github.com/CleverRaven/Cataclysm-DDA/pull/66965))
 * Weekly Changelog 2023-07-10 to 2023-07-17 ([#66962](https://github.com/CleverRaven/Cataclysm-DDA/pull/66962))
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
@@ -92,4 +93,3 @@
 * Better scenario worldbuilding by giving PC knowledge of the nearest city on start ([#66781](https://github.com/CleverRaven/Cataclysm-DDA/pull/66781))
 * [MoM] Fix coruscating matrix crystal not draining on use ([#66790](https://github.com/CleverRaven/Cataclysm-DDA/pull/66790))
 * [MoM] Add Zener cards ([#66788](https://github.com/CleverRaven/Cataclysm-DDA/pull/66788))
-* Misc maintenance to innawoods ([#66777](https://github.com/CleverRaven/Cataclysm-DDA/pull/66777))
