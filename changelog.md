@@ -1,3 +1,4 @@
+* [ASCIITileset] Run and bash animations, shadows, fog tweak ([#66965](https://github.com/CleverRaven/Cataclysm-DDA/pull/66965))
 * Weekly Changelog 2023-07-10 to 2023-07-17 ([#66962](https://github.com/CleverRaven/Cataclysm-DDA/pull/66962))
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Map memory tidy and ghost vparts fix ([#66859](https://github.com/CleverRaven/Cataclysm-DDA/pull/66859))
@@ -91,5 +92,4 @@
 * Better scenario worldbuilding by giving PC knowledge of the nearest city on start ([#66781](https://github.com/CleverRaven/Cataclysm-DDA/pull/66781))
 * [MoM] Fix coruscating matrix crystal not draining on use ([#66790](https://github.com/CleverRaven/Cataclysm-DDA/pull/66790))
 * [MoM] Add Zener cards ([#66788](https://github.com/CleverRaven/Cataclysm-DDA/pull/66788))
-* Clear tile map memory on part removal ([#66775](https://github.com/CleverRaven/Cataclysm-DDA/pull/66775))
 * Misc maintenance to innawoods ([#66777](https://github.com/CleverRaven/Cataclysm-DDA/pull/66777))
