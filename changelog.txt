@@ -1,3 +1,5 @@
+* Fix android build (#66981)
+* Map memory tidy and ghost vparts fix (#66859)
 * Warn on suffocate (#66978)
 * Blob lieutenant: "Shadow" (#66869)
 * Small adjustments to rattlesnakes (#66832)
@@ -91,5 +93,3 @@
 * [MoM] Add Zener cards (#66788)
 * Clear tile map memory on part removal (#66775)
 * Misc maintenance to innawoods (#66777)
-* Quick JSON fixes (#66773)
-* [MoM] Implement jmath, include it in calculations (#66770)

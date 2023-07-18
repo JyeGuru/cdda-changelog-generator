@@ -1,3 +1,5 @@
+* Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
+* Map memory tidy and ghost vparts fix ([#66859](https://github.com/CleverRaven/Cataclysm-DDA/pull/66859))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
 * Blob lieutenant: "Shadow" ([#66869](https://github.com/CleverRaven/Cataclysm-DDA/pull/66869))
 * Small adjustments to rattlesnakes ([#66832](https://github.com/CleverRaven/Cataclysm-DDA/pull/66832))
@@ -91,5 +93,3 @@
 * [MoM] Add Zener cards ([#66788](https://github.com/CleverRaven/Cataclysm-DDA/pull/66788))
 * Clear tile map memory on part removal ([#66775](https://github.com/CleverRaven/Cataclysm-DDA/pull/66775))
 * Misc maintenance to innawoods ([#66777](https://github.com/CleverRaven/Cataclysm-DDA/pull/66777))
-* Quick JSON fixes ([#66773](https://github.com/CleverRaven/Cataclysm-DDA/pull/66773))
-* [MoM] Implement jmath, include it in calculations ([#66770](https://github.com/CleverRaven/Cataclysm-DDA/pull/66770))
