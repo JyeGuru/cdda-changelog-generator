@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-07-10 to 2023-07-17 ([#66962](https://github.com/CleverRaven/Cataclysm-DDA/pull/66962))
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Map memory tidy and ghost vparts fix ([#66859](https://github.com/CleverRaven/Cataclysm-DDA/pull/66859))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
@@ -22,7 +23,6 @@
 * Itemgroups can seal their containers ([#66971](https://github.com/CleverRaven/Cataclysm-DDA/pull/66971))
 * Clang Fixes ([#66959](https://github.com/CleverRaven/Cataclysm-DDA/pull/66959))
 * Don't get randomly sick anymore ([#66967](https://github.com/CleverRaven/Cataclysm-DDA/pull/66967))
-* A bunch of random item reworks: 8 ([#66774](https://github.com/CleverRaven/Cataclysm-DDA/pull/66774))
 * Routine tileset updates on 16 July 2023 ([#66958](https://github.com/CleverRaven/Cataclysm-DDA/pull/66958))
 * [MoM] Add noetic resilience treatment ([#66841](https://github.com/CleverRaven/Cataclysm-DDA/pull/66841))
 * Titanium skeletal bracing provides some bash armor ([#66836](https://github.com/CleverRaven/Cataclysm-DDA/pull/66836))
