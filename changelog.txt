@@ -1,3 +1,4 @@
+* Split Skater profession into one with blades and another with a board (#66813)
 * Add a spell-using feral human to Magiclysm (#67003)
 * Add a accidental injury warning on reach attacks (#66989)
 * Rescuing Mi-Go prisoners should give at least some trust with them (#66982)
@@ -91,6 +92,5 @@
 * Weekly Changelog 2023-07-03 to 2023-07-10 (#66787)
 * Chip resistance should be higher for dreamdross and forged dreamdross (#66802)
 * Routine tileset updates on 09 July 2023 (#66786)
-* Better scenario worldbuilding by giving PC knowledge of the nearest city on start (#66781)
 * [MoM] Fix coruscating matrix crystal not draining on use (#66790)
 * [MoM] Add Zener cards (#66788)
