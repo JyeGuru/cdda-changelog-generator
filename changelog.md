@@ -1,3 +1,4 @@
+* Add a spell-using feral human to Magiclysm ([#67003](https://github.com/CleverRaven/Cataclysm-DDA/pull/67003))
 * Add a accidental injury warning on reach attacks ([#66989](https://github.com/CleverRaven/Cataclysm-DDA/pull/66989))
 * Rescuing Mi-Go prisoners should give at least some trust with them ([#66982](https://github.com/CleverRaven/Cataclysm-DDA/pull/66982))
 * [ASCIITileset] Run and bash animations, shadows, fog tweak ([#66965](https://github.com/CleverRaven/Cataclysm-DDA/pull/66965))
@@ -84,7 +85,6 @@
 * Enable clang-tidy check performance-unnecessary-copy-initialization ([#66803](https://github.com/CleverRaven/Cataclysm-DDA/pull/66803))
 * Tiny fixes to books ([#66826](https://github.com/CleverRaven/Cataclysm-DDA/pull/66826))
 * Bugfix: rebreather regenerator cartridges spawned without charges ([#66827](https://github.com/CleverRaven/Cataclysm-DDA/pull/66827))
-* Typo fix ([#66779](https://github.com/CleverRaven/Cataclysm-DDA/pull/66779))
 * Migrate some vehicle code from part indexes to part references ([#66796](https://github.com/CleverRaven/Cataclysm-DDA/pull/66796))
 * fix: missing spaces ([#66797](https://github.com/CleverRaven/Cataclysm-DDA/pull/66797))
 * magiclysm: diviner exodii mission fix ([#66782](https://github.com/CleverRaven/Cataclysm-DDA/pull/66782))
