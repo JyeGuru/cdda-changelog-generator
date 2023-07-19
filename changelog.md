@@ -11,7 +11,6 @@
 * Blob lieutenant: "Shadow" ([#66869](https://github.com/CleverRaven/Cataclysm-DDA/pull/66869))
 * Small adjustments to rattlesnakes ([#66832](https://github.com/CleverRaven/Cataclysm-DDA/pull/66832))
 * neighbor_oter_check can use om_match_type ([#66876](https://github.com/CleverRaven/Cataclysm-DDA/pull/66876))
-* Add work coveralls ([#66783](https://github.com/CleverRaven/Cataclysm-DDA/pull/66783))
 * Debug menu quick setup option for manual testing ([#66794](https://github.com/CleverRaven/Cataclysm-DDA/pull/66794))
 * Make mattresses deployable in tents ([#66880](https://github.com/CleverRaven/Cataclysm-DDA/pull/66880))
 * [Xedra Evolved] Maintenance ([#66885](https://github.com/CleverRaven/Cataclysm-DDA/pull/66885))
