@@ -90,5 +90,6 @@
 * fix: missing spaces ([#66797](https://github.com/CleverRaven/Cataclysm-DDA/pull/66797))
 * Weekly Changelog 2023-07-03 to 2023-07-10 ([#66787](https://github.com/CleverRaven/Cataclysm-DDA/pull/66787))
 * Chip resistance should be higher for dreamdross and forged dreamdross ([#66802](https://github.com/CleverRaven/Cataclysm-DDA/pull/66802))
+* Routine tileset updates on 09 July 2023 ([#66786](https://github.com/CleverRaven/Cataclysm-DDA/pull/66786))
 * [MoM] Fix coruscating matrix crystal not draining on use ([#66790](https://github.com/CleverRaven/Cataclysm-DDA/pull/66790))
 * [MoM] Add Zener cards ([#66788](https://github.com/CleverRaven/Cataclysm-DDA/pull/66788))
