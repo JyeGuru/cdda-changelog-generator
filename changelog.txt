@@ -89,7 +89,6 @@
 * Bugfix: rebreather regenerator cartridges spawned without charges (#66827)
 * Migrate some vehicle code from part indexes to part references (#66796)
 * fix: missing spaces (#66797)
-* Weekly Changelog 2023-07-03 to 2023-07-10 (#66787)
 * Chip resistance should be higher for dreamdross and forged dreamdross (#66802)
 * [MoM] Fix coruscating matrix crystal not draining on use (#66790)
 * [MoM] Add Zener cards (#66788)
