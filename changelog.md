@@ -1,3 +1,4 @@
+* Fix effect crash ([#67020](https://github.com/CleverRaven/Cataclysm-DDA/pull/67020))
 * Effects Crash Fix ([#67010](https://github.com/CleverRaven/Cataclysm-DDA/pull/67010))
 * Split Skater profession into one with blades and another with a board ([#66813](https://github.com/CleverRaven/Cataclysm-DDA/pull/66813))
 * Add a spell-using feral human to Magiclysm ([#67003](https://github.com/CleverRaven/Cataclysm-DDA/pull/67003))
@@ -90,6 +91,5 @@
 * fix: missing spaces ([#66797](https://github.com/CleverRaven/Cataclysm-DDA/pull/66797))
 * Weekly Changelog 2023-07-03 to 2023-07-10 ([#66787](https://github.com/CleverRaven/Cataclysm-DDA/pull/66787))
 * Chip resistance should be higher for dreamdross and forged dreamdross ([#66802](https://github.com/CleverRaven/Cataclysm-DDA/pull/66802))
-* Routine tileset updates on 09 July 2023 ([#66786](https://github.com/CleverRaven/Cataclysm-DDA/pull/66786))
 * [MoM] Fix coruscating matrix crystal not draining on use ([#66790](https://github.com/CleverRaven/Cataclysm-DDA/pull/66790))
 * [MoM] Add Zener cards ([#66788](https://github.com/CleverRaven/Cataclysm-DDA/pull/66788))
