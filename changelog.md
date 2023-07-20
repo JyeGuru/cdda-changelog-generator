@@ -1,3 +1,4 @@
+* Update IFAK pouch weight and max item length ([#66984](https://github.com/CleverRaven/Cataclysm-DDA/pull/66984))
 * Some cast iron edits ([#66997](https://github.com/CleverRaven/Cataclysm-DDA/pull/66997))
 * Mullets! ([#67001](https://github.com/CleverRaven/Cataclysm-DDA/pull/67001))
 * reduce unseen hunter bullet armor ([#67025](https://github.com/CleverRaven/Cataclysm-DDA/pull/67025))
@@ -78,7 +79,6 @@
 * Allow crafting tools to use linked electricity ([#66870](https://github.com/CleverRaven/Cataclysm-DDA/pull/66870))
 * More nest test fail fixes ([#66878](https://github.com/CleverRaven/Cataclysm-DDA/pull/66878))
 * Places some of Karol's plywood chairs and barstools ([#66904](https://github.com/CleverRaven/Cataclysm-DDA/pull/66904))
-* Accessories obsoletion strikes back ([#66830](https://github.com/CleverRaven/Cataclysm-DDA/pull/66830))
 * Give the FN SCAR its attachment points back ([#66888](https://github.com/CleverRaven/Cataclysm-DDA/pull/66888))
 * Prevent Unload_container unloading NO_UNLOAD containers ([#66862](https://github.com/CleverRaven/Cataclysm-DDA/pull/66862))
 * Add more link ups ([#66847](https://github.com/CleverRaven/Cataclysm-DDA/pull/66847))
