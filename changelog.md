@@ -79,7 +79,6 @@
 * Add more link ups ([#66847](https://github.com/CleverRaven/Cataclysm-DDA/pull/66847))
 * Document more fields........ ([#66846](https://github.com/CleverRaven/Cataclysm-DDA/pull/66846))
 * Fix fix_time ([#66833](https://github.com/CleverRaven/Cataclysm-DDA/pull/66833))
-* More large building and  up above start locations ([#66808](https://github.com/CleverRaven/Cataclysm-DDA/pull/66808))
 * Empty containers are not fuel-air bombs ([#66840](https://github.com/CleverRaven/Cataclysm-DDA/pull/66840))
 * Clear character succession cooldown when PC is badly wounded ([#66842](https://github.com/CleverRaven/Cataclysm-DDA/pull/66842))
 * Add Aluminum Bat To Practice Recipe ([#66852](https://github.com/CleverRaven/Cataclysm-DDA/pull/66852))
