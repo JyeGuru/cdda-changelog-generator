@@ -1,3 +1,5 @@
+* Fix feral flu check crash ([#67012](https://github.com/CleverRaven/Cataclysm-DDA/pull/67012))
+* [Sky Island] Add sky island mod into the repo ([#66939](https://github.com/CleverRaven/Cataclysm-DDA/pull/66939))
 * Allow 'PARROT_AT_DANGER' to select player or NPC as target ([#67015](https://github.com/CleverRaven/Cataclysm-DDA/pull/67015))
 * Fix effect crash ([#67020](https://github.com/CleverRaven/Cataclysm-DDA/pull/67020))
 * Effects Crash Fix ([#67010](https://github.com/CleverRaven/Cataclysm-DDA/pull/67010))
@@ -81,7 +83,6 @@
 * No more civilian de-aging ([#66814](https://github.com/CleverRaven/Cataclysm-DDA/pull/66814))
 * Fix #66712 ([#66828](https://github.com/CleverRaven/Cataclysm-DDA/pull/66828))
 * Migrate some vehicle code from part indexes to part references pt2 ([#66816](https://github.com/CleverRaven/Cataclysm-DDA/pull/66816))
-* NPC selects martial arts ([#66793](https://github.com/CleverRaven/Cataclysm-DDA/pull/66793))
 * Update the table of contents in doc/JSON_INFO.md ([#66800](https://github.com/CleverRaven/Cataclysm-DDA/pull/66800))
 * Fixed bug where 'w'ield can pick up NPC items without triggering warning ([#66807](https://github.com/CleverRaven/Cataclysm-DDA/pull/66807))
 * Fix typo in src/third_party/CMakeLists.txt ([#66806](https://github.com/CleverRaven/Cataclysm-DDA/pull/66806))
@@ -91,4 +92,3 @@
 * Migrate some vehicle code from part indexes to part references ([#66796](https://github.com/CleverRaven/Cataclysm-DDA/pull/66796))
 * fix: missing spaces ([#66797](https://github.com/CleverRaven/Cataclysm-DDA/pull/66797))
 * Chip resistance should be higher for dreamdross and forged dreamdross ([#66802](https://github.com/CleverRaven/Cataclysm-DDA/pull/66802))
-* [MoM] Fix coruscating matrix crystal not draining on use ([#66790](https://github.com/CleverRaven/Cataclysm-DDA/pull/66790))
