@@ -1,3 +1,4 @@
+* Damage types: armour/material fixes ([#67038](https://github.com/CleverRaven/Cataclysm-DDA/pull/67038))
 * Update license of Sky Island mod ([#67046](https://github.com/CleverRaven/Cataclysm-DDA/pull/67046))
 * fix ironshod and steelshod quarterstaff recipe costs ([#67009](https://github.com/CleverRaven/Cataclysm-DDA/pull/67009))
 * Fix message in ter_furn_data don't be translated ([#66985](https://github.com/CleverRaven/Cataclysm-DDA/pull/66985))
@@ -10,7 +11,6 @@
 * Allow 'PARROT_AT_DANGER' to select player or NPC as target ([#67015](https://github.com/CleverRaven/Cataclysm-DDA/pull/67015))
 * Fix effect crash ([#67020](https://github.com/CleverRaven/Cataclysm-DDA/pull/67020))
 * Effects Crash Fix ([#67010](https://github.com/CleverRaven/Cataclysm-DDA/pull/67010))
-* Split Skater profession into one with blades and another with a board ([#66813](https://github.com/CleverRaven/Cataclysm-DDA/pull/66813))
 * Add a spell-using feral human to Magiclysm ([#67003](https://github.com/CleverRaven/Cataclysm-DDA/pull/67003))
 * Add a accidental injury warning on reach attacks ([#66989](https://github.com/CleverRaven/Cataclysm-DDA/pull/66989))
 * Rescuing Mi-Go prisoners should give at least some trust with them ([#66982](https://github.com/CleverRaven/Cataclysm-DDA/pull/66982))
