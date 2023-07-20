@@ -1,3 +1,4 @@
+* Fixes brigandine recipe typos ([#67006](https://github.com/CleverRaven/Cataclysm-DDA/pull/67006))
 * Fix feral flu check crash ([#67012](https://github.com/CleverRaven/Cataclysm-DDA/pull/67012))
 * [Sky Island] Add sky island mod into the repo ([#66939](https://github.com/CleverRaven/Cataclysm-DDA/pull/66939))
 * Allow 'PARROT_AT_DANGER' to select player or NPC as target ([#67015](https://github.com/CleverRaven/Cataclysm-DDA/pull/67015))
@@ -15,7 +16,6 @@
 * Blob lieutenant: "Shadow" ([#66869](https://github.com/CleverRaven/Cataclysm-DDA/pull/66869))
 * Small adjustments to rattlesnakes ([#66832](https://github.com/CleverRaven/Cataclysm-DDA/pull/66832))
 * neighbor_oter_check can use om_match_type ([#66876](https://github.com/CleverRaven/Cataclysm-DDA/pull/66876))
-* Debug menu quick setup option for manual testing ([#66794](https://github.com/CleverRaven/Cataclysm-DDA/pull/66794))
 * Make mattresses deployable in tents ([#66880](https://github.com/CleverRaven/Cataclysm-DDA/pull/66880))
 * [Xedra Evolved] Maintenance ([#66885](https://github.com/CleverRaven/Cataclysm-DDA/pull/66885))
 * Put Some Clothes On There Are Survivors Looking ([#66902](https://github.com/CleverRaven/Cataclysm-DDA/pull/66902))

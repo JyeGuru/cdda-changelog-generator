@@ -1,3 +1,4 @@
+* Fixes brigandine recipe typos (#67006)
 * Fix feral flu check crash (#67012)
 * [Sky Island] Add sky island mod into the repo (#66939)
 * Allow 'PARROT_AT_DANGER' to select player or NPC as target (#67015)
@@ -15,7 +16,6 @@
 * Blob lieutenant: "Shadow" (#66869)
 * Small adjustments to rattlesnakes (#66832)
 * neighbor_oter_check can use om_match_type (#66876)
-* Debug menu quick setup option for manual testing (#66794)
 * Make mattresses deployable in tents (#66880)
 * [Xedra Evolved] Maintenance (#66885)
 * Put Some Clothes On There Are Survivors Looking (#66902)
