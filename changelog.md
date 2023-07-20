@@ -1,3 +1,6 @@
+* Mullets! ([#67001](https://github.com/CleverRaven/Cataclysm-DDA/pull/67001))
+* reduce unseen hunter bullet armor ([#67025](https://github.com/CleverRaven/Cataclysm-DDA/pull/67025))
+* [Magiclysm] Fix "Monsters don't cast spells" ([#67043](https://github.com/CleverRaven/Cataclysm-DDA/pull/67043))
 * [MoM] Rebalance and add scaling to psionic passives ([#66972](https://github.com/CleverRaven/Cataclysm-DDA/pull/66972))
 * Damage types: armour/material fixes ([#67038](https://github.com/CleverRaven/Cataclysm-DDA/pull/67038))
 * Update license of Sky Island mod ([#67046](https://github.com/CleverRaven/Cataclysm-DDA/pull/67046))
@@ -87,6 +90,3 @@
 * Removes roof from top level stairs in stadiums ([#66843](https://github.com/CleverRaven/Cataclysm-DDA/pull/66843))
 * fix: update old GRAB_DRAG entry ([#66839](https://github.com/CleverRaven/Cataclysm-DDA/pull/66839))
 * Fix #66712 ([#66828](https://github.com/CleverRaven/Cataclysm-DDA/pull/66828))
-* Migrate some vehicle code from part indexes to part references pt2 ([#66816](https://github.com/CleverRaven/Cataclysm-DDA/pull/66816))
-* Tiny fixes to books ([#66826](https://github.com/CleverRaven/Cataclysm-DDA/pull/66826))
-* Bugfix: rebreather regenerator cartridges spawned without charges ([#66827](https://github.com/CleverRaven/Cataclysm-DDA/pull/66827))
