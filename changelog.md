@@ -1,3 +1,4 @@
+* fix ironshod and steelshod quarterstaff recipe costs ([#67009](https://github.com/CleverRaven/Cataclysm-DDA/pull/67009))
 * Fix message in ter_furn_data don't be translated ([#66985](https://github.com/CleverRaven/Cataclysm-DDA/pull/66985))
 * Fix vehicle keybindings ([#66991](https://github.com/CleverRaven/Cataclysm-DDA/pull/66991))
 * change chewing gum to not be a stimulant ([#67004](https://github.com/CleverRaven/Cataclysm-DDA/pull/67004))
@@ -89,6 +90,5 @@
 * Migrate some vehicle code from part indexes to part references pt2 ([#66816](https://github.com/CleverRaven/Cataclysm-DDA/pull/66816))
 * Fixed bug where 'w'ield can pick up NPC items without triggering warning ([#66807](https://github.com/CleverRaven/Cataclysm-DDA/pull/66807))
 * Fix typo in src/third_party/CMakeLists.txt ([#66806](https://github.com/CleverRaven/Cataclysm-DDA/pull/66806))
-* Enable clang-tidy check performance-unnecessary-copy-initialization ([#66803](https://github.com/CleverRaven/Cataclysm-DDA/pull/66803))
 * Tiny fixes to books ([#66826](https://github.com/CleverRaven/Cataclysm-DDA/pull/66826))
 * Bugfix: rebreather regenerator cartridges spawned without charges ([#66827](https://github.com/CleverRaven/Cataclysm-DDA/pull/66827))
