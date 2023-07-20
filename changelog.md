@@ -89,6 +89,5 @@
 * Fix #66712 ([#66828](https://github.com/CleverRaven/Cataclysm-DDA/pull/66828))
 * Migrate some vehicle code from part indexes to part references pt2 ([#66816](https://github.com/CleverRaven/Cataclysm-DDA/pull/66816))
 * Fixed bug where 'w'ield can pick up NPC items without triggering warning ([#66807](https://github.com/CleverRaven/Cataclysm-DDA/pull/66807))
-* Fix typo in src/third_party/CMakeLists.txt ([#66806](https://github.com/CleverRaven/Cataclysm-DDA/pull/66806))
 * Tiny fixes to books ([#66826](https://github.com/CleverRaven/Cataclysm-DDA/pull/66826))
 * Bugfix: rebreather regenerator cartridges spawned without charges ([#66827](https://github.com/CleverRaven/Cataclysm-DDA/pull/66827))
