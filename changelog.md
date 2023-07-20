@@ -1,3 +1,4 @@
+* Allow 'PARROT_AT_DANGER' to select player or NPC as target ([#67015](https://github.com/CleverRaven/Cataclysm-DDA/pull/67015))
 * Fix effect crash ([#67020](https://github.com/CleverRaven/Cataclysm-DDA/pull/67020))
 * Effects Crash Fix ([#67010](https://github.com/CleverRaven/Cataclysm-DDA/pull/67010))
 * Split Skater profession into one with blades and another with a board ([#66813](https://github.com/CleverRaven/Cataclysm-DDA/pull/66813))
@@ -91,4 +92,3 @@
 * fix: missing spaces ([#66797](https://github.com/CleverRaven/Cataclysm-DDA/pull/66797))
 * Chip resistance should be higher for dreamdross and forged dreamdross ([#66802](https://github.com/CleverRaven/Cataclysm-DDA/pull/66802))
 * [MoM] Fix coruscating matrix crystal not draining on use ([#66790](https://github.com/CleverRaven/Cataclysm-DDA/pull/66790))
-* [MoM] Add Zener cards ([#66788](https://github.com/CleverRaven/Cataclysm-DDA/pull/66788))
