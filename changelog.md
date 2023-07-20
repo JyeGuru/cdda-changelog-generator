@@ -1,3 +1,4 @@
+* [MoM] Rebalance and add scaling to psionic passives ([#66972](https://github.com/CleverRaven/Cataclysm-DDA/pull/66972))
 * Damage types: armour/material fixes ([#67038](https://github.com/CleverRaven/Cataclysm-DDA/pull/67038))
 * Update license of Sky Island mod ([#67046](https://github.com/CleverRaven/Cataclysm-DDA/pull/67046))
 * fix ironshod and steelshod quarterstaff recipe costs ([#67009](https://github.com/CleverRaven/Cataclysm-DDA/pull/67009))
@@ -85,7 +86,6 @@
 * Some brain bionics cannot be removed ([#66856](https://github.com/CleverRaven/Cataclysm-DDA/pull/66856))
 * Removes roof from top level stairs in stadiums ([#66843](https://github.com/CleverRaven/Cataclysm-DDA/pull/66843))
 * fix: update old GRAB_DRAG entry ([#66839](https://github.com/CleverRaven/Cataclysm-DDA/pull/66839))
-* No more civilian de-aging ([#66814](https://github.com/CleverRaven/Cataclysm-DDA/pull/66814))
 * Fix #66712 ([#66828](https://github.com/CleverRaven/Cataclysm-DDA/pull/66828))
 * Migrate some vehicle code from part indexes to part references pt2 ([#66816](https://github.com/CleverRaven/Cataclysm-DDA/pull/66816))
 * Tiny fixes to books ([#66826](https://github.com/CleverRaven/Cataclysm-DDA/pull/66826))
