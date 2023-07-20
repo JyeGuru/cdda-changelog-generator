@@ -1,3 +1,4 @@
+* Some cast iron edits ([#66997](https://github.com/CleverRaven/Cataclysm-DDA/pull/66997))
 * Mullets! ([#67001](https://github.com/CleverRaven/Cataclysm-DDA/pull/67001))
 * reduce unseen hunter bullet armor ([#67025](https://github.com/CleverRaven/Cataclysm-DDA/pull/67025))
 * [Magiclysm] Fix "Monsters don't cast spells" ([#67043](https://github.com/CleverRaven/Cataclysm-DDA/pull/67043))
@@ -89,4 +90,3 @@
 * Some brain bionics cannot be removed ([#66856](https://github.com/CleverRaven/Cataclysm-DDA/pull/66856))
 * Removes roof from top level stairs in stadiums ([#66843](https://github.com/CleverRaven/Cataclysm-DDA/pull/66843))
 * fix: update old GRAB_DRAG entry ([#66839](https://github.com/CleverRaven/Cataclysm-DDA/pull/66839))
-* Fix #66712 ([#66828](https://github.com/CleverRaven/Cataclysm-DDA/pull/66828))
