@@ -1,3 +1,4 @@
+* [Magiclysm] Reading the Earthbones spell fix ([#67035](https://github.com/CleverRaven/Cataclysm-DDA/pull/67035))
 * Overwrite/delete/extend behaviour for techniques ([#66960](https://github.com/CleverRaven/Cataclysm-DDA/pull/66960))
 * Generate vehicle prototypes from vehicles in game ([#66897](https://github.com/CleverRaven/Cataclysm-DDA/pull/66897))
 * Update IFAK pouch weight and max item length ([#66984](https://github.com/CleverRaven/Cataclysm-DDA/pull/66984))
@@ -48,7 +49,6 @@
 * Routine tileset updates on 16 July 2023 ([#66958](https://github.com/CleverRaven/Cataclysm-DDA/pull/66958))
 * [MoM] Add noetic resilience treatment ([#66841](https://github.com/CleverRaven/Cataclysm-DDA/pull/66841))
 * Titanium skeletal bracing provides some bash armor ([#66836](https://github.com/CleverRaven/Cataclysm-DDA/pull/66836))
-* Adjust the way Intelligence affects focus (multiplier instead of flat bonus) ([#66834](https://github.com/CleverRaven/Cataclysm-DDA/pull/66834))
 * Add some splintmail additions: Splint mail greaves and vambraces ([#66849](https://github.com/CleverRaven/Cataclysm-DDA/pull/66849))
 * Fix issue with portal storms only happening once ([#66953](https://github.com/CleverRaven/Cataclysm-DDA/pull/66953))
 * Zombie Harvest Snippets ([#66887](https://github.com/CleverRaven/Cataclysm-DDA/pull/66887))
