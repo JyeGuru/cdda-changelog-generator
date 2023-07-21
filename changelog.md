@@ -1,3 +1,4 @@
+* Update Lighting values. ([#67061](https://github.com/CleverRaven/Cataclysm-DDA/pull/67061))
 * Fix disassembly syntax for tin snips and claw bar ([#67076](https://github.com/CleverRaven/Cataclysm-DDA/pull/67076))
 * Obsoleted guns can't be installed as turrets anymore ([#67077](https://github.com/CleverRaven/Cataclysm-DDA/pull/67077))
 * Molotov cocktails use flammable_liquid instead of accelerant_liquid ([#67068](https://github.com/CleverRaven/Cataclysm-DDA/pull/67068))
@@ -42,7 +43,6 @@
 * Weekly Changelog 2023-07-10 to 2023-07-17 ([#66962](https://github.com/CleverRaven/Cataclysm-DDA/pull/66962))
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
-* Blob lieutenant: "Shadow" ([#66869](https://github.com/CleverRaven/Cataclysm-DDA/pull/66869))
 * neighbor_oter_check can use om_match_type ([#66876](https://github.com/CleverRaven/Cataclysm-DDA/pull/66876))
 * Make mattresses deployable in tents ([#66880](https://github.com/CleverRaven/Cataclysm-DDA/pull/66880))
 * [Xedra Evolved] Maintenance ([#66885](https://github.com/CleverRaven/Cataclysm-DDA/pull/66885))
