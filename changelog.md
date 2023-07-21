@@ -1,3 +1,4 @@
+* adjust 9mm gun range bonus ([#66999](https://github.com/CleverRaven/Cataclysm-DDA/pull/66999))
 * Kukri tool qualities ([#66951](https://github.com/CleverRaven/Cataclysm-DDA/pull/66951))
 * A bunch of random item reworks: 9 ([#67044](https://github.com/CleverRaven/Cataclysm-DDA/pull/67044))
 * [MoM] Add psionic feral PARROT lines ([#67050](https://github.com/CleverRaven/Cataclysm-DDA/pull/67050))
@@ -89,4 +90,3 @@
 * Document more fields........ ([#66846](https://github.com/CleverRaven/Cataclysm-DDA/pull/66846))
 * Add Aluminum Bat To Practice Recipe ([#66852](https://github.com/CleverRaven/Cataclysm-DDA/pull/66852))
 * Some brain bionics cannot be removed ([#66856](https://github.com/CleverRaven/Cataclysm-DDA/pull/66856))
-* Removes roof from top level stairs in stadiums ([#66843](https://github.com/CleverRaven/Cataclysm-DDA/pull/66843))
