@@ -1,3 +1,4 @@
+* Kukri tool qualities ([#66951](https://github.com/CleverRaven/Cataclysm-DDA/pull/66951))
 * A bunch of random item reworks: 9 ([#67044](https://github.com/CleverRaven/Cataclysm-DDA/pull/67044))
 * [MoM] Add psionic feral PARROT lines ([#67050](https://github.com/CleverRaven/Cataclysm-DDA/pull/67050))
 * A bunch of random item reworks: 10 ([#67054](https://github.com/CleverRaven/Cataclysm-DDA/pull/67054))
@@ -86,7 +87,6 @@
 * Prevent Unload_container unloading NO_UNLOAD containers ([#66862](https://github.com/CleverRaven/Cataclysm-DDA/pull/66862))
 * Add more link ups ([#66847](https://github.com/CleverRaven/Cataclysm-DDA/pull/66847))
 * Document more fields........ ([#66846](https://github.com/CleverRaven/Cataclysm-DDA/pull/66846))
-* Clear character succession cooldown when PC is badly wounded ([#66842](https://github.com/CleverRaven/Cataclysm-DDA/pull/66842))
 * Add Aluminum Bat To Practice Recipe ([#66852](https://github.com/CleverRaven/Cataclysm-DDA/pull/66852))
 * Some brain bionics cannot be removed ([#66856](https://github.com/CleverRaven/Cataclysm-DDA/pull/66856))
 * Removes roof from top level stairs in stadiums ([#66843](https://github.com/CleverRaven/Cataclysm-DDA/pull/66843))
