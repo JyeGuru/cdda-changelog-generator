@@ -1,3 +1,4 @@
+* A bunch of random item reworks: 9 ([#67044](https://github.com/CleverRaven/Cataclysm-DDA/pull/67044))
 * [MoM] Add psionic feral PARROT lines ([#67050](https://github.com/CleverRaven/Cataclysm-DDA/pull/67050))
 * A bunch of random item reworks: 10 ([#67054](https://github.com/CleverRaven/Cataclysm-DDA/pull/67054))
 * Shorten links in JSON comments ([#67056](https://github.com/CleverRaven/Cataclysm-DDA/pull/67056))
@@ -50,7 +51,6 @@
 * Clang Fixes ([#66959](https://github.com/CleverRaven/Cataclysm-DDA/pull/66959))
 * Don't get randomly sick anymore ([#66967](https://github.com/CleverRaven/Cataclysm-DDA/pull/66967))
 * Routine tileset updates on 16 July 2023 ([#66958](https://github.com/CleverRaven/Cataclysm-DDA/pull/66958))
-* [MoM] Add noetic resilience treatment ([#66841](https://github.com/CleverRaven/Cataclysm-DDA/pull/66841))
 * Add some splintmail additions: Splint mail greaves and vambraces ([#66849](https://github.com/CleverRaven/Cataclysm-DDA/pull/66849))
 * Fix issue with portal storms only happening once ([#66953](https://github.com/CleverRaven/Cataclysm-DDA/pull/66953))
 * Zombie Harvest Snippets ([#66887](https://github.com/CleverRaven/Cataclysm-DDA/pull/66887))
