@@ -88,5 +88,4 @@
 * Places some of Karol's plywood chairs and barstools ([#66904](https://github.com/CleverRaven/Cataclysm-DDA/pull/66904))
 * Give the FN SCAR its attachment points back ([#66888](https://github.com/CleverRaven/Cataclysm-DDA/pull/66888))
 * Prevent Unload_container unloading NO_UNLOAD containers ([#66862](https://github.com/CleverRaven/Cataclysm-DDA/pull/66862))
-* Add Aluminum Bat To Practice Recipe ([#66852](https://github.com/CleverRaven/Cataclysm-DDA/pull/66852))
 * Some brain bionics cannot be removed ([#66856](https://github.com/CleverRaven/Cataclysm-DDA/pull/66856))
