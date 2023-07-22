@@ -1,3 +1,4 @@
+* Typos: Reports of my death have been greatly exaggerated (#67095)
 * Update seasoning salt recipe  (#67098)
 * Fix mansonry saw being impossible to turn off (#67101)
 * Typos are extinct for now (#66993)
@@ -86,5 +87,4 @@
 * Suppress -Wmaybe-uninitialized false positives in MinGW-w64 debug build (#66893)
 * Jmath functions for mapgen (#66890)
 * Routine i18n updates on 15 July 2023 (#66916)
-* Inline `sm_to_ms_copy` for multi% cpu wins in congested places. (#66889)
 * Places some of Karol's plywood chairs and barstools (#66904)
