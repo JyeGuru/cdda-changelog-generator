@@ -1,3 +1,4 @@
+* Add a synagogue ([#67000](https://github.com/CleverRaven/Cataclysm-DDA/pull/67000))
 * Make padded feet quieter ([#67048](https://github.com/CleverRaven/Cataclysm-DDA/pull/67048))
 * Make the second skin liquid armor fit mutated anatomy ([#67082](https://github.com/CleverRaven/Cataclysm-DDA/pull/67082))
 * Update Lighting values. ([#67061](https://github.com/CleverRaven/Cataclysm-DDA/pull/67061))
@@ -84,7 +85,6 @@
 * Clean up vpart_info fields, vpslots and their accessor functions ([#66883](https://github.com/CleverRaven/Cataclysm-DDA/pull/66883))
 * Fix pathfinding around vehicles ([#66877](https://github.com/CleverRaven/Cataclysm-DDA/pull/66877))
 * Routine i18n updates on 15 July 2023 ([#66916](https://github.com/CleverRaven/Cataclysm-DDA/pull/66916))
-* Fix off-by-1 in ablative coverage ([#66874](https://github.com/CleverRaven/Cataclysm-DDA/pull/66874))
 * Inline `sm_to_ms_copy` for multi% cpu wins in congested places. ([#66889](https://github.com/CleverRaven/Cataclysm-DDA/pull/66889))
 * More nest test fail fixes ([#66878](https://github.com/CleverRaven/Cataclysm-DDA/pull/66878))
 * Places some of Karol's plywood chairs and barstools ([#66904](https://github.com/CleverRaven/Cataclysm-DDA/pull/66904))
