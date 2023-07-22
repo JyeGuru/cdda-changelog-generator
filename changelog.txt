@@ -1,3 +1,4 @@
+* make army clothing only nylon (#67083)
 * EMT, Paramedic, and Paramedic Firefighter adjustment (#67084)
 * Fish samples spawn in labs now (#67091)
 * Routine i18n updates on 22 July 2023 (#67087)
@@ -84,7 +85,6 @@
 * Suppress -Wmaybe-uninitialized false positives in MinGW-w64 debug build (#66893)
 * Jmath functions for mapgen (#66890)
 * Fix molotov (#66884)
-* Clean up vpart_info fields, vpslots and their accessor functions (#66883)
 * Routine i18n updates on 15 July 2023 (#66916)
 * Inline `sm_to_ms_copy` for multi% cpu wins in congested places. (#66889)
 * Places some of Karol's plywood chairs and barstools (#66904)
