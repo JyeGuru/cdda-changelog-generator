@@ -1,3 +1,4 @@
+* Bionics can require another bionic ([#66996](https://github.com/CleverRaven/Cataclysm-DDA/pull/66996))
 * Add a synagogue ([#67000](https://github.com/CleverRaven/Cataclysm-DDA/pull/67000))
 * Make padded feet quieter ([#67048](https://github.com/CleverRaven/Cataclysm-DDA/pull/67048))
 * Make the second skin liquid armor fit mutated anatomy ([#67082](https://github.com/CleverRaven/Cataclysm-DDA/pull/67082))
@@ -46,7 +47,6 @@
 * Weekly Changelog 2023-07-10 to 2023-07-17 ([#66962](https://github.com/CleverRaven/Cataclysm-DDA/pull/66962))
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
-* neighbor_oter_check can use om_match_type ([#66876](https://github.com/CleverRaven/Cataclysm-DDA/pull/66876))
 * Make mattresses deployable in tents ([#66880](https://github.com/CleverRaven/Cataclysm-DDA/pull/66880))
 * [Xedra Evolved] Maintenance ([#66885](https://github.com/CleverRaven/Cataclysm-DDA/pull/66885))
 * Put Some Clothes On There Are Survivors Looking ([#66902](https://github.com/CleverRaven/Cataclysm-DDA/pull/66902))
