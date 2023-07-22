@@ -1,3 +1,4 @@
+* EMT, Paramedic, and Paramedic Firefighter adjustment ([#67084](https://github.com/CleverRaven/Cataclysm-DDA/pull/67084))
 * Fish samples spawn in labs now ([#67091](https://github.com/CleverRaven/Cataclysm-DDA/pull/67091))
 * Routine i18n updates on 22 July 2023 ([#67087](https://github.com/CleverRaven/Cataclysm-DDA/pull/67087))
 * Bionics can require another bionic ([#66996](https://github.com/CleverRaven/Cataclysm-DDA/pull/66996))
@@ -49,7 +50,6 @@
 * Weekly Changelog 2023-07-10 to 2023-07-17 ([#66962](https://github.com/CleverRaven/Cataclysm-DDA/pull/66962))
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
-* Make mattresses deployable in tents ([#66880](https://github.com/CleverRaven/Cataclysm-DDA/pull/66880))
 * [Xedra Evolved] Maintenance ([#66885](https://github.com/CleverRaven/Cataclysm-DDA/pull/66885))
 * Put Some Clothes On There Are Survivors Looking ([#66902](https://github.com/CleverRaven/Cataclysm-DDA/pull/66902))
 * [MoM] Add additional portal storm remnant map extras ([#66906](https://github.com/CleverRaven/Cataclysm-DDA/pull/66906))
