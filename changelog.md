@@ -52,7 +52,6 @@
 * Weekly Changelog 2023-07-10 to 2023-07-17 ([#66962](https://github.com/CleverRaven/Cataclysm-DDA/pull/66962))
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
-* [Xedra Evolved] Maintenance ([#66885](https://github.com/CleverRaven/Cataclysm-DDA/pull/66885))
 * Put Some Clothes On There Are Survivors Looking ([#66902](https://github.com/CleverRaven/Cataclysm-DDA/pull/66902))
 * [MoM] Add additional portal storm remnant map extras ([#66906](https://github.com/CleverRaven/Cataclysm-DDA/pull/66906))
 * Grab break message fixes ([#66924](https://github.com/CleverRaven/Cataclysm-DDA/pull/66924))
