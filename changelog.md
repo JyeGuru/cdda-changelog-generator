@@ -1,3 +1,5 @@
+* Update seasoning salt recipe  ([#67098](https://github.com/CleverRaven/Cataclysm-DDA/pull/67098))
+* Fix mansonry saw being impossible to turn off ([#67101](https://github.com/CleverRaven/Cataclysm-DDA/pull/67101))
 * Typos are extinct for now ([#66993](https://github.com/CleverRaven/Cataclysm-DDA/pull/66993))
 * make army clothing only nylon ([#67083](https://github.com/CleverRaven/Cataclysm-DDA/pull/67083))
 * EMT, Paramedic, and Paramedic Firefighter adjustment ([#67084](https://github.com/CleverRaven/Cataclysm-DDA/pull/67084))
@@ -68,7 +70,6 @@
 * Don't get randomly sick anymore ([#66967](https://github.com/CleverRaven/Cataclysm-DDA/pull/66967))
 * Routine tileset updates on 16 July 2023 ([#66958](https://github.com/CleverRaven/Cataclysm-DDA/pull/66958))
 * Fix issue with portal storms only happening once ([#66953](https://github.com/CleverRaven/Cataclysm-DDA/pull/66953))
-* Zombie Harvest Snippets ([#66887](https://github.com/CleverRaven/Cataclysm-DDA/pull/66887))
 * Add P90 to guns_swat so mags don't spawn alone ([#66937](https://github.com/CleverRaven/Cataclysm-DDA/pull/66937))
 * Add tactical_grenade_pouch spawn to Military Warehouse ([#66909](https://github.com/CleverRaven/Cataclysm-DDA/pull/66909))
 * mapgen: use dbl_or_var for variable weights ([#66919](https://github.com/CleverRaven/Cataclysm-DDA/pull/66919))
@@ -87,4 +88,3 @@
 * Routine i18n updates on 15 July 2023 ([#66916](https://github.com/CleverRaven/Cataclysm-DDA/pull/66916))
 * Inline `sm_to_ms_copy` for multi% cpu wins in congested places. ([#66889](https://github.com/CleverRaven/Cataclysm-DDA/pull/66889))
 * Places some of Karol's plywood chairs and barstools ([#66904](https://github.com/CleverRaven/Cataclysm-DDA/pull/66904))
-* Give the FN SCAR its attachment points back ([#66888](https://github.com/CleverRaven/Cataclysm-DDA/pull/66888))
