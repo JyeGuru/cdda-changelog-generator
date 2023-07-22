@@ -1,3 +1,4 @@
+* Fish samples spawn in labs now ([#67091](https://github.com/CleverRaven/Cataclysm-DDA/pull/67091))
 * Routine i18n updates on 22 July 2023 ([#67087](https://github.com/CleverRaven/Cataclysm-DDA/pull/67087))
 * Bionics can require another bionic ([#66996](https://github.com/CleverRaven/Cataclysm-DDA/pull/66996))
 * Add a synagogue ([#67000](https://github.com/CleverRaven/Cataclysm-DDA/pull/67000))
@@ -86,6 +87,5 @@
 * Clean up vpart_info fields, vpslots and their accessor functions ([#66883](https://github.com/CleverRaven/Cataclysm-DDA/pull/66883))
 * Routine i18n updates on 15 July 2023 ([#66916](https://github.com/CleverRaven/Cataclysm-DDA/pull/66916))
 * Inline `sm_to_ms_copy` for multi% cpu wins in congested places. ([#66889](https://github.com/CleverRaven/Cataclysm-DDA/pull/66889))
-* More nest test fail fixes ([#66878](https://github.com/CleverRaven/Cataclysm-DDA/pull/66878))
 * Places some of Karol's plywood chairs and barstools ([#66904](https://github.com/CleverRaven/Cataclysm-DDA/pull/66904))
 * Give the FN SCAR its attachment points back ([#66888](https://github.com/CleverRaven/Cataclysm-DDA/pull/66888))
