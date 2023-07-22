@@ -1,3 +1,4 @@
+* Trashcans are items now ([#67105](https://github.com/CleverRaven/Cataclysm-DDA/pull/67105))
 * Typos: Reports of my death have been greatly exaggerated ([#67095](https://github.com/CleverRaven/Cataclysm-DDA/pull/67095))
 * Update seasoning salt recipe  ([#67098](https://github.com/CleverRaven/Cataclysm-DDA/pull/67098))
 * Fix mansonry saw being impossible to turn off ([#67101](https://github.com/CleverRaven/Cataclysm-DDA/pull/67101))
@@ -85,6 +86,5 @@
 * Fix grenade manhacks ([#66899](https://github.com/CleverRaven/Cataclysm-DDA/pull/66899))
 * Fix Nested List lag in crafting menu ([#66894](https://github.com/CleverRaven/Cataclysm-DDA/pull/66894))
 * Suppress -Wmaybe-uninitialized false positives in MinGW-w64 debug build ([#66893](https://github.com/CleverRaven/Cataclysm-DDA/pull/66893))
-* Jmath functions for mapgen ([#66890](https://github.com/CleverRaven/Cataclysm-DDA/pull/66890))
 * Routine i18n updates on 15 July 2023 ([#66916](https://github.com/CleverRaven/Cataclysm-DDA/pull/66916))
 * Places some of Karol's plywood chairs and barstools ([#66904](https://github.com/CleverRaven/Cataclysm-DDA/pull/66904))
