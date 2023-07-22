@@ -1,3 +1,4 @@
+* Routine i18n updates on 22 July 2023 ([#67087](https://github.com/CleverRaven/Cataclysm-DDA/pull/67087))
 * Bionics can require another bionic ([#66996](https://github.com/CleverRaven/Cataclysm-DDA/pull/66996))
 * Add a synagogue ([#67000](https://github.com/CleverRaven/Cataclysm-DDA/pull/67000))
 * Make padded feet quieter ([#67048](https://github.com/CleverRaven/Cataclysm-DDA/pull/67048))
@@ -83,7 +84,6 @@
 * Jmath functions for mapgen ([#66890](https://github.com/CleverRaven/Cataclysm-DDA/pull/66890))
 * Fix molotov ([#66884](https://github.com/CleverRaven/Cataclysm-DDA/pull/66884))
 * Clean up vpart_info fields, vpslots and their accessor functions ([#66883](https://github.com/CleverRaven/Cataclysm-DDA/pull/66883))
-* Fix pathfinding around vehicles ([#66877](https://github.com/CleverRaven/Cataclysm-DDA/pull/66877))
 * Routine i18n updates on 15 July 2023 ([#66916](https://github.com/CleverRaven/Cataclysm-DDA/pull/66916))
 * Inline `sm_to_ms_copy` for multi% cpu wins in congested places. ([#66889](https://github.com/CleverRaven/Cataclysm-DDA/pull/66889))
 * More nest test fail fixes ([#66878](https://github.com/CleverRaven/Cataclysm-DDA/pull/66878))
