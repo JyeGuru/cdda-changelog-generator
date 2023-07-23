@@ -85,6 +85,5 @@
 * Fix z-level shadows drawn on unseen tiles ([#66903](https://github.com/CleverRaven/Cataclysm-DDA/pull/66903))
 * Let the fallen items of the dead NPC attach to the NPC's body ([#66901](https://github.com/CleverRaven/Cataclysm-DDA/pull/66901))
 * Fix grenade manhacks ([#66899](https://github.com/CleverRaven/Cataclysm-DDA/pull/66899))
-* Fix Nested List lag in crafting menu ([#66894](https://github.com/CleverRaven/Cataclysm-DDA/pull/66894))
 * Routine i18n updates on 15 July 2023 ([#66916](https://github.com/CleverRaven/Cataclysm-DDA/pull/66916))
 * Places some of Karol's plywood chairs and barstools ([#66904](https://github.com/CleverRaven/Cataclysm-DDA/pull/66904))
