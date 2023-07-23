@@ -1,3 +1,4 @@
+* Fix remaining in progress contruction for wall wiring ([#67117](https://github.com/CleverRaven/Cataclysm-DDA/pull/67117))
 * fix widget error if player has no body part ([#67113](https://github.com/CleverRaven/Cataclysm-DDA/pull/67113))
 * Refactor test for npcs boarding player vehicles ([#66990](https://github.com/CleverRaven/Cataclysm-DDA/pull/66990))
 * Update the table of contents in doc/JSON_INFO.md ([#67088](https://github.com/CleverRaven/Cataclysm-DDA/pull/67088))
@@ -84,6 +85,5 @@
 * put f_nuclear_fuel_cell in the microlab reactor ([#66911](https://github.com/CleverRaven/Cataclysm-DDA/pull/66911))
 * throttle stalebot ([#66914](https://github.com/CleverRaven/Cataclysm-DDA/pull/66914))
 * Fix z-level shadows drawn on unseen tiles ([#66903](https://github.com/CleverRaven/Cataclysm-DDA/pull/66903))
-* Let the fallen items of the dead NPC attach to the NPC's body ([#66901](https://github.com/CleverRaven/Cataclysm-DDA/pull/66901))
 * Routine i18n updates on 15 July 2023 ([#66916](https://github.com/CleverRaven/Cataclysm-DDA/pull/66916))
 * Places some of Karol's plywood chairs and barstools ([#66904](https://github.com/CleverRaven/Cataclysm-DDA/pull/66904))
