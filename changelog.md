@@ -1,3 +1,4 @@
+* [Magiclysm] Change the Utility Molding spell to allow selecting the starting tool ([#67122](https://github.com/CleverRaven/Cataclysm-DDA/pull/67122))
 * A bunch of random item reworks: 11 ([#67135](https://github.com/CleverRaven/Cataclysm-DDA/pull/67135))
 * fix reqs for install/uninstalling skateboard parts ([#67123](https://github.com/CleverRaven/Cataclysm-DDA/pull/67123))
 * [MoM] Blood Purge removes mutagens, you can heal followers' (and your) diseases ([#67080](https://github.com/CleverRaven/Cataclysm-DDA/pull/67080))
@@ -78,7 +79,6 @@
 * Re-add anesthesia kit recipe ([#66942](https://github.com/CleverRaven/Cataclysm-DDA/pull/66942))
 * heavily nerf ADS bionic ([#66954](https://github.com/CleverRaven/Cataclysm-DDA/pull/66954))
 * Add compound crossbow to Hunting Supply Store's archery space itemgroup ([#66973](https://github.com/CleverRaven/Cataclysm-DDA/pull/66973))
-* Keybindings fixes ([#66938](https://github.com/CleverRaven/Cataclysm-DDA/pull/66938))
 * Fix messed up brs ([#66970](https://github.com/CleverRaven/Cataclysm-DDA/pull/66970))
 * Itemgroups can seal their containers ([#66971](https://github.com/CleverRaven/Cataclysm-DDA/pull/66971))
 * Clang Fixes ([#66959](https://github.com/CleverRaven/Cataclysm-DDA/pull/66959))
