@@ -1,3 +1,4 @@
+* Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
 * minor house_38 fixes ([#67119](https://github.com/CleverRaven/Cataclysm-DDA/pull/67119))
 * [Innawoods] - Added mutable stream ([#67065](https://github.com/CleverRaven/Cataclysm-DDA/pull/67065))
 * Split kevlar into two types (stab and ballistic) ([#67085](https://github.com/CleverRaven/Cataclysm-DDA/pull/67085))
@@ -86,4 +87,3 @@
 * Routine tileset updates on 16 July 2023 ([#66958](https://github.com/CleverRaven/Cataclysm-DDA/pull/66958))
 * Fix issue with portal storms only happening once ([#66953](https://github.com/CleverRaven/Cataclysm-DDA/pull/66953))
 * Add P90 to guns_swat so mags don't spawn alone ([#66937](https://github.com/CleverRaven/Cataclysm-DDA/pull/66937))
-* crafting: respect spec for std::normal_distribution ([#66920](https://github.com/CleverRaven/Cataclysm-DDA/pull/66920))
