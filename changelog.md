@@ -1,3 +1,4 @@
+* Allow leg tourniquets for mutants with tails ([#67127](https://github.com/CleverRaven/Cataclysm-DDA/pull/67127))
 * Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
 * minor house_38 fixes ([#67119](https://github.com/CleverRaven/Cataclysm-DDA/pull/67119))
 * [Innawoods] - Added mutable stream ([#67065](https://github.com/CleverRaven/Cataclysm-DDA/pull/67065))
@@ -72,7 +73,6 @@
 * Weekly Changelog 2023-07-10 to 2023-07-17 ([#66962](https://github.com/CleverRaven/Cataclysm-DDA/pull/66962))
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
-* Grab break message fixes ([#66924](https://github.com/CleverRaven/Cataclysm-DDA/pull/66924))
 * Clean back bay with less than 5 people ([#66952](https://github.com/CleverRaven/Cataclysm-DDA/pull/66952))
 * Re-add anesthesia kit recipe ([#66942](https://github.com/CleverRaven/Cataclysm-DDA/pull/66942))
 * heavily nerf ADS bionic ([#66954](https://github.com/CleverRaven/Cataclysm-DDA/pull/66954))
