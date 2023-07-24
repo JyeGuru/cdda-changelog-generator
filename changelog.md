@@ -1,3 +1,4 @@
+* fix reqs for install/uninstalling skateboard parts ([#67123](https://github.com/CleverRaven/Cataclysm-DDA/pull/67123))
 * [MoM] Blood Purge removes mutagens, you can heal followers' (and your) diseases ([#67080](https://github.com/CleverRaven/Cataclysm-DDA/pull/67080))
 * Allow leg tourniquets for mutants with tails ([#67127](https://github.com/CleverRaven/Cataclysm-DDA/pull/67127))
 * Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
@@ -7,7 +8,6 @@
 * Robofac robots and gear ([#67089](https://github.com/CleverRaven/Cataclysm-DDA/pull/67089))
 * Non f_sign Signage ([#67094](https://github.com/CleverRaven/Cataclysm-DDA/pull/67094))
 * Big Blacksmithing Bonanza ([#67103](https://github.com/CleverRaven/Cataclysm-DDA/pull/67103))
-* Craftable beast samples ([#66933](https://github.com/CleverRaven/Cataclysm-DDA/pull/66933))
 * Adjust windbreaker to be nylon, less warm and encumbering ([#67108](https://github.com/CleverRaven/Cataclysm-DDA/pull/67108))
 * 'Experiment' start and extra_mut_scen starts don't reveal the nearest city ([#67118](https://github.com/CleverRaven/Cataclysm-DDA/pull/67118))
 * Fix android build ([#67090](https://github.com/CleverRaven/Cataclysm-DDA/pull/67090))
