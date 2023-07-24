@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-07-17 to 2023-07-24 ([#67130](https://github.com/CleverRaven/Cataclysm-DDA/pull/67130))
 * [Magiclysm] Change the Utility Molding spell to allow selecting the starting tool ([#67122](https://github.com/CleverRaven/Cataclysm-DDA/pull/67122))
 * A bunch of random item reworks: 11 ([#67135](https://github.com/CleverRaven/Cataclysm-DDA/pull/67135))
 * fix reqs for install/uninstalling skateboard parts ([#67123](https://github.com/CleverRaven/Cataclysm-DDA/pull/67123))
@@ -64,7 +65,6 @@
 * Make formatter enable ANSI colors in stdout on Windows ([#67021](https://github.com/CleverRaven/Cataclysm-DDA/pull/67021))
 * Fixes brigandine recipe typos ([#67006](https://github.com/CleverRaven/Cataclysm-DDA/pull/67006))
 * Fix feral flu check crash ([#67012](https://github.com/CleverRaven/Cataclysm-DDA/pull/67012))
-* [Sky Island] Add sky island mod into the repo ([#66939](https://github.com/CleverRaven/Cataclysm-DDA/pull/66939))
 * Allow 'PARROT_AT_DANGER' to select player or NPC as target ([#67015](https://github.com/CleverRaven/Cataclysm-DDA/pull/67015))
 * Fix effect crash ([#67020](https://github.com/CleverRaven/Cataclysm-DDA/pull/67020))
 * Effects Crash Fix ([#67010](https://github.com/CleverRaven/Cataclysm-DDA/pull/67010))
