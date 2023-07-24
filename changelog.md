@@ -1,3 +1,4 @@
+* [MoM] Blood Purge removes mutagens, you can heal followers' (and your) diseases ([#67080](https://github.com/CleverRaven/Cataclysm-DDA/pull/67080))
 * Allow leg tourniquets for mutants with tails ([#67127](https://github.com/CleverRaven/Cataclysm-DDA/pull/67127))
 * Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
 * minor house_38 fixes ([#67119](https://github.com/CleverRaven/Cataclysm-DDA/pull/67119))
@@ -37,7 +38,6 @@
 * Add sundial, wind and radiation badge to "spacebar" sidebar ([#67042](https://github.com/CleverRaven/Cataclysm-DDA/pull/67042))
 * [Sky Island] Fix Exit Point not Disappearing after teleporting home issue ([#67059](https://github.com/CleverRaven/Cataclysm-DDA/pull/67059))
 * Don't let monsters choose players' own hallucination as their attack targets ([#67063](https://github.com/CleverRaven/Cataclysm-DDA/pull/67063))
-* In-game Armor sprite change ([#66931](https://github.com/CleverRaven/Cataclysm-DDA/pull/66931))
 * Making better EoC doc, part one ([#67028](https://github.com/CleverRaven/Cataclysm-DDA/pull/67028))
 * adjust 9mm gun range bonus ([#66999](https://github.com/CleverRaven/Cataclysm-DDA/pull/66999))
 * Kukri tool qualities ([#66951](https://github.com/CleverRaven/Cataclysm-DDA/pull/66951))
