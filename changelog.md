@@ -77,7 +77,6 @@
 * Re-add anesthesia kit recipe ([#66942](https://github.com/CleverRaven/Cataclysm-DDA/pull/66942))
 * heavily nerf ADS bionic ([#66954](https://github.com/CleverRaven/Cataclysm-DDA/pull/66954))
 * Add compound crossbow to Hunting Supply Store's archery space itemgroup ([#66973](https://github.com/CleverRaven/Cataclysm-DDA/pull/66973))
-* Document most event types for EOCs ([#66936](https://github.com/CleverRaven/Cataclysm-DDA/pull/66936))
 * Keybindings fixes ([#66938](https://github.com/CleverRaven/Cataclysm-DDA/pull/66938))
 * Fix messed up brs ([#66970](https://github.com/CleverRaven/Cataclysm-DDA/pull/66970))
 * Itemgroups can seal their containers ([#66971](https://github.com/CleverRaven/Cataclysm-DDA/pull/66971))
