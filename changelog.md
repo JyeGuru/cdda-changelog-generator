@@ -1,3 +1,4 @@
+* [Xedra evolved] even better message for inventor effect ([#67159](https://github.com/CleverRaven/Cataclysm-DDA/pull/67159))
 * Exodii Quadrupeds don't use M4 carbines ([#67151](https://github.com/CleverRaven/Cataclysm-DDA/pull/67151))
 * Fix: parse missing fields for translation ([#67074](https://github.com/CleverRaven/Cataclysm-DDA/pull/67074))
 * Make special Hunting Lodge Unique and NPC lodge Globally Unique ([#67142](https://github.com/CleverRaven/Cataclysm-DDA/pull/67142))
