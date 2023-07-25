@@ -1,3 +1,4 @@
+* Exodii Quadrupeds don't use M4 carbines ([#67151](https://github.com/CleverRaven/Cataclysm-DDA/pull/67151))
 * Fix: parse missing fields for translation ([#67074](https://github.com/CleverRaven/Cataclysm-DDA/pull/67074))
 * Make special Hunting Lodge Unique and NPC lodge Globally Unique ([#67142](https://github.com/CleverRaven/Cataclysm-DDA/pull/67142))
 * [MoM] Allow telekinetics to push very heavy objects and lift cars ([#67110](https://github.com/CleverRaven/Cataclysm-DDA/pull/67110))
@@ -80,7 +81,6 @@
 * Weekly Changelog 2023-07-10 to 2023-07-17 ([#66962](https://github.com/CleverRaven/Cataclysm-DDA/pull/66962))
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
-* heavily nerf ADS bionic ([#66954](https://github.com/CleverRaven/Cataclysm-DDA/pull/66954))
 * Add compound crossbow to Hunting Supply Store's archery space itemgroup ([#66973](https://github.com/CleverRaven/Cataclysm-DDA/pull/66973))
 * Fix messed up brs ([#66970](https://github.com/CleverRaven/Cataclysm-DDA/pull/66970))
 * Itemgroups can seal their containers ([#66971](https://github.com/CleverRaven/Cataclysm-DDA/pull/66971))
