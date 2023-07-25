@@ -1,3 +1,4 @@
+* Audit AR-15 upper receivers + .450 bugfix (#66949)
 * "relative": can be used with qualities (#67055)
 * Reduce occurences of motel spawns (#67143)
 * Weekly Changelog 2023-07-17 to 2023-07-24 (#67130)
@@ -78,7 +79,6 @@
 * Fix android build (#66981)
 * Warn on suffocate (#66978)
 * Clean back bay with less than 5 people (#66952)
-* Re-add anesthesia kit recipe (#66942)
 * heavily nerf ADS bionic (#66954)
 * Add compound crossbow to Hunting Supply Store's archery space itemgroup (#66973)
 * Fix messed up brs (#66970)

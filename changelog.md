@@ -1,3 +1,4 @@
+* Audit AR-15 upper receivers + .450 bugfix ([#66949](https://github.com/CleverRaven/Cataclysm-DDA/pull/66949))
 * "relative": can be used with qualities ([#67055](https://github.com/CleverRaven/Cataclysm-DDA/pull/67055))
 * Reduce occurences of motel spawns ([#67143](https://github.com/CleverRaven/Cataclysm-DDA/pull/67143))
 * Weekly Changelog 2023-07-17 to 2023-07-24 ([#67130](https://github.com/CleverRaven/Cataclysm-DDA/pull/67130))
@@ -78,7 +79,6 @@
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
 * Clean back bay with less than 5 people ([#66952](https://github.com/CleverRaven/Cataclysm-DDA/pull/66952))
-* Re-add anesthesia kit recipe ([#66942](https://github.com/CleverRaven/Cataclysm-DDA/pull/66942))
 * heavily nerf ADS bionic ([#66954](https://github.com/CleverRaven/Cataclysm-DDA/pull/66954))
 * Add compound crossbow to Hunting Supply Store's archery space itemgroup ([#66973](https://github.com/CleverRaven/Cataclysm-DDA/pull/66973))
 * Fix messed up brs ([#66970](https://github.com/CleverRaven/Cataclysm-DDA/pull/66970))
