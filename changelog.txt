@@ -1,3 +1,4 @@
+* Fix combat tools crashing on drop (#67163)
 * [Xedra evolved] even better message for inventor effect (#67159)
 * Exodii Quadrupeds don't use M4 carbines (#67151)
 * Fix: parse missing fields for translation (#67074)
@@ -87,4 +88,3 @@
 * Itemgroups can seal their containers (#66971)
 * Clang Fixes (#66959)
 * Don't get randomly sick anymore (#66967)
-* Routine tileset updates on 16 July 2023 (#66958)
