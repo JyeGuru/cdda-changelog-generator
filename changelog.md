@@ -1,3 +1,4 @@
+* "relative": can be used with qualities ([#67055](https://github.com/CleverRaven/Cataclysm-DDA/pull/67055))
 * Reduce occurences of motel spawns ([#67143](https://github.com/CleverRaven/Cataclysm-DDA/pull/67143))
 * Weekly Changelog 2023-07-17 to 2023-07-24 ([#67130](https://github.com/CleverRaven/Cataclysm-DDA/pull/67130))
 * [Magiclysm] Change the Utility Molding spell to allow selecting the starting tool ([#67122](https://github.com/CleverRaven/Cataclysm-DDA/pull/67122))
