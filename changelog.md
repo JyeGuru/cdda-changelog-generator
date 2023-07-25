@@ -1,3 +1,4 @@
+* Fix: parse missing fields for translation ([#67074](https://github.com/CleverRaven/Cataclysm-DDA/pull/67074))
 * Make special Hunting Lodge Unique and NPC lodge Globally Unique ([#67142](https://github.com/CleverRaven/Cataclysm-DDA/pull/67142))
 * [MoM] Allow telekinetics to push very heavy objects and lift cars ([#67110](https://github.com/CleverRaven/Cataclysm-DDA/pull/67110))
 * [MoM] Fix monster power messages ([#67145](https://github.com/CleverRaven/Cataclysm-DDA/pull/67145))
@@ -86,4 +87,3 @@
 * Clang Fixes ([#66959](https://github.com/CleverRaven/Cataclysm-DDA/pull/66959))
 * Don't get randomly sick anymore ([#66967](https://github.com/CleverRaven/Cataclysm-DDA/pull/66967))
 * Routine tileset updates on 16 July 2023 ([#66958](https://github.com/CleverRaven/Cataclysm-DDA/pull/66958))
-* Fix issue with portal storms only happening once ([#66953](https://github.com/CleverRaven/Cataclysm-DDA/pull/66953))
