@@ -86,5 +86,4 @@
 * Add compound crossbow to Hunting Supply Store's archery space itemgroup ([#66973](https://github.com/CleverRaven/Cataclysm-DDA/pull/66973))
 * Fix messed up brs ([#66970](https://github.com/CleverRaven/Cataclysm-DDA/pull/66970))
 * Itemgroups can seal their containers ([#66971](https://github.com/CleverRaven/Cataclysm-DDA/pull/66971))
-* Clang Fixes ([#66959](https://github.com/CleverRaven/Cataclysm-DDA/pull/66959))
 * Don't get randomly sick anymore ([#66967](https://github.com/CleverRaven/Cataclysm-DDA/pull/66967))
