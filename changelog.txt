@@ -1,3 +1,5 @@
+* Improve pocket overflow messages (#67183)
+* Update boots.json (#67167)
 * [MoM] Add psionic civilians to the initial Cataclysm chaos waves (#67177)
 * Add some dialog function (#67120)
 * Pad the skid lid (#67176)
@@ -88,5 +90,3 @@
 * Add a spell-using feral human to Magiclysm (#67003)
 * Add a accidental injury warning on reach attacks (#66989)
 * Rescuing Mi-Go prisoners should give at least some trust with them (#66982)
-* Fix android build (#66981)
-* Warn on suffocate (#66978)

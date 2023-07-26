@@ -1,3 +1,5 @@
+* Improve pocket overflow messages ([#67183](https://github.com/CleverRaven/Cataclysm-DDA/pull/67183))
+* Update boots.json ([#67167](https://github.com/CleverRaven/Cataclysm-DDA/pull/67167))
 * [MoM] Add psionic civilians to the initial Cataclysm chaos waves ([#67177](https://github.com/CleverRaven/Cataclysm-DDA/pull/67177))
 * Add some dialog function ([#67120](https://github.com/CleverRaven/Cataclysm-DDA/pull/67120))
 * Pad the skid lid ([#67176](https://github.com/CleverRaven/Cataclysm-DDA/pull/67176))
@@ -88,5 +90,3 @@
 * Add a spell-using feral human to Magiclysm ([#67003](https://github.com/CleverRaven/Cataclysm-DDA/pull/67003))
 * Add a accidental injury warning on reach attacks ([#66989](https://github.com/CleverRaven/Cataclysm-DDA/pull/66989))
 * Rescuing Mi-Go prisoners should give at least some trust with them ([#66982](https://github.com/CleverRaven/Cataclysm-DDA/pull/66982))
-* Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
-* Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
