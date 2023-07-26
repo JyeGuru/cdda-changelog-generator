@@ -1,3 +1,4 @@
+* [MoM] Add psionic civilians to the initial Cataclysm chaos waves ([#67177](https://github.com/CleverRaven/Cataclysm-DDA/pull/67177))
 * Add some dialog function ([#67120](https://github.com/CleverRaven/Cataclysm-DDA/pull/67120))
 * Pad the skid lid ([#67176](https://github.com/CleverRaven/Cataclysm-DDA/pull/67176))
 * fix toolset prying power usage ([#67026](https://github.com/CleverRaven/Cataclysm-DDA/pull/67026))
