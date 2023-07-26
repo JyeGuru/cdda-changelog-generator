@@ -1,3 +1,4 @@
+* Pad the skid lid ([#67176](https://github.com/CleverRaven/Cataclysm-DDA/pull/67176))
 * fix toolset prying power usage ([#67026](https://github.com/CleverRaven/Cataclysm-DDA/pull/67026))
 * [MoM] Add u_message to "extremely important note" ([#67166](https://github.com/CleverRaven/Cataclysm-DDA/pull/67166))
 * [Xedra Evolved] Low Intelligence Mana Perk ([#67096](https://github.com/CleverRaven/Cataclysm-DDA/pull/67096))
@@ -87,4 +88,3 @@
 * Rescuing Mi-Go prisoners should give at least some trust with them ([#66982](https://github.com/CleverRaven/Cataclysm-DDA/pull/66982))
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
-* Add compound crossbow to Hunting Supply Store's archery space itemgroup ([#66973](https://github.com/CleverRaven/Cataclysm-DDA/pull/66973))
