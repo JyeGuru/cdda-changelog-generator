@@ -1,3 +1,5 @@
+* fix toolset prying power usage ([#67026](https://github.com/CleverRaven/Cataclysm-DDA/pull/67026))
+* [MoM] Add u_message to "extremely important note" ([#67166](https://github.com/CleverRaven/Cataclysm-DDA/pull/67166))
 * [Xedra Evolved] Low Intelligence Mana Perk ([#67096](https://github.com/CleverRaven/Cataclysm-DDA/pull/67096))
 * Belt adjustments ([#67154](https://github.com/CleverRaven/Cataclysm-DDA/pull/67154))
 * flags_any Helper Check To Make Road Unhardcoding More Readable ([#67093](https://github.com/CleverRaven/Cataclysm-DDA/pull/67093))
@@ -68,7 +70,6 @@
 * Mullets! ([#67001](https://github.com/CleverRaven/Cataclysm-DDA/pull/67001))
 * reduce unseen hunter bullet armor ([#67025](https://github.com/CleverRaven/Cataclysm-DDA/pull/67025))
 * [Magiclysm] Fix "Monsters don't cast spells" ([#67043](https://github.com/CleverRaven/Cataclysm-DDA/pull/67043))
-* [MoM] Rebalance and add scaling to psionic passives ([#66972](https://github.com/CleverRaven/Cataclysm-DDA/pull/66972))
 * Damage types: armour/material fixes ([#67038](https://github.com/CleverRaven/Cataclysm-DDA/pull/67038))
 * Update license of Sky Island mod ([#67046](https://github.com/CleverRaven/Cataclysm-DDA/pull/67046))
 * fix ironshod and steelshod quarterstaff recipe costs ([#67009](https://github.com/CleverRaven/Cataclysm-DDA/pull/67009))
@@ -87,4 +88,3 @@
 * Fix android build ([#66981](https://github.com/CleverRaven/Cataclysm-DDA/pull/66981))
 * Warn on suffocate ([#66978](https://github.com/CleverRaven/Cataclysm-DDA/pull/66978))
 * Add compound crossbow to Hunting Supply Store's archery space itemgroup ([#66973](https://github.com/CleverRaven/Cataclysm-DDA/pull/66973))
-* Itemgroups can seal their containers ([#66971](https://github.com/CleverRaven/Cataclysm-DDA/pull/66971))

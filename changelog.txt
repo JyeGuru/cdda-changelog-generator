@@ -1,3 +1,5 @@
+* fix toolset prying power usage (#67026)
+* [MoM] Add u_message to "extremely important note" (#67166)
 * [Xedra Evolved] Low Intelligence Mana Perk (#67096)
 * Belt adjustments (#67154)
 * flags_any Helper Check To Make Road Unhardcoding More Readable (#67093)
@@ -68,7 +70,6 @@
 * Mullets! (#67001)
 * reduce unseen hunter bullet armor (#67025)
 * [Magiclysm] Fix "Monsters don't cast spells" (#67043)
-* [MoM] Rebalance and add scaling to psionic passives (#66972)
 * Damage types: armour/material fixes (#67038)
 * Update license of Sky Island mod (#67046)
 * fix ironshod and steelshod quarterstaff recipe costs (#67009)
@@ -87,4 +88,3 @@
 * Fix android build (#66981)
 * Warn on suffocate (#66978)
 * Add compound crossbow to Hunting Supply Store's archery space itemgroup (#66973)
-* Itemgroups can seal their containers (#66971)
