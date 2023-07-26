@@ -1,3 +1,6 @@
+* [Xedra Evolved] Low Intelligence Mana Perk (#67096)
+* Belt adjustments (#67154)
+* flags_any Helper Check To Make Road Unhardcoding More Readable (#67093)
 * New bionic: "Super Stun Gun" (#67013)
 * Adjust ranges of SMGs and pistol caliber carbines (#67115)
 * [Innawoods] Stream mapgen followup (#67165)
@@ -84,6 +87,4 @@
 * Fix android build (#66981)
 * Warn on suffocate (#66978)
 * Add compound crossbow to Hunting Supply Store's archery space itemgroup (#66973)
-* Fix messed up brs (#66970)
 * Itemgroups can seal their containers (#66971)
-* Don't get randomly sick anymore (#66967)
