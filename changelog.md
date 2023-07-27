@@ -1,3 +1,4 @@
+* Fix "--check-mods" not good at dealing with dep chain ([#67133](https://github.com/CleverRaven/Cataclysm-DDA/pull/67133))
 * Nylon quiver ([#67155](https://github.com/CleverRaven/Cataclysm-DDA/pull/67155))
 * use nested mapgen on zombie cages, lakeside cabin special. ([#67173](https://github.com/CleverRaven/Cataclysm-DDA/pull/67173))
 * Make bone broth better by extracting more calcium using acified water. ([#67199](https://github.com/CleverRaven/Cataclysm-DDA/pull/67199))
@@ -51,7 +52,6 @@
 * Typos: Reports of my death have been greatly exaggerated ([#67095](https://github.com/CleverRaven/Cataclysm-DDA/pull/67095))
 * Update seasoning salt recipe  ([#67098](https://github.com/CleverRaven/Cataclysm-DDA/pull/67098))
 * Fix mansonry saw being impossible to turn off ([#67101](https://github.com/CleverRaven/Cataclysm-DDA/pull/67101))
-* Typos are extinct for now ([#66993](https://github.com/CleverRaven/Cataclysm-DDA/pull/66993))
 * make army clothing only nylon ([#67083](https://github.com/CleverRaven/Cataclysm-DDA/pull/67083))
 * EMT, Paramedic, and Paramedic Firefighter adjustment ([#67084](https://github.com/CleverRaven/Cataclysm-DDA/pull/67084))
 * Fish samples spawn in labs now ([#67091](https://github.com/CleverRaven/Cataclysm-DDA/pull/67091))
