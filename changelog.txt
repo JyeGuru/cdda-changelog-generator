@@ -1,3 +1,4 @@
+* Nylon quiver (#67155)
 * use nested mapgen on zombie cages, lakeside cabin special. (#67173)
 * Make bone broth better by extracting more calcium using acified water. (#67199)
 * remove redundant milk powder recipe (#67194)
@@ -81,7 +82,6 @@
 * Damage types: armour/material fixes (#67038)
 * Update license of Sky Island mod (#67046)
 * fix ironshod and steelshod quarterstaff recipe costs (#67009)
-* Fix vehicle keybindings (#66991)
 * change chewing gum to not be a stimulant (#67004)
 * Make formatter enable ANSI colors in stdout on Windows (#67021)
 * Fixes brigandine recipe typos (#67006)
