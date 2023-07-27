@@ -1,3 +1,4 @@
+* Adds fail message at zero of the dreamer vitamin (#67156)
 * Fix "--check-mods" not good at dealing with dep chain (#67133)
 * Nylon quiver (#67155)
 * use nested mapgen on zombie cages, lakeside cabin special. (#67173)
@@ -56,7 +57,6 @@
 * EMT, Paramedic, and Paramedic Firefighter adjustment (#67084)
 * Fish samples spawn in labs now (#67091)
 * Routine i18n updates on 22 July 2023 (#67087)
-* Bionics can require another bionic (#66996)
 * Add a synagogue (#67000)
 * Make padded feet quieter (#67048)
 * Make the second skin liquid armor fit mutated anatomy (#67082)
