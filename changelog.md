@@ -89,4 +89,3 @@
 * Allow 'PARROT_AT_DANGER' to select player or NPC as target ([#67015](https://github.com/CleverRaven/Cataclysm-DDA/pull/67015))
 * Fix effect crash ([#67020](https://github.com/CleverRaven/Cataclysm-DDA/pull/67020))
 * Effects Crash Fix ([#67010](https://github.com/CleverRaven/Cataclysm-DDA/pull/67010))
-* Add a spell-using feral human to Magiclysm ([#67003](https://github.com/CleverRaven/Cataclysm-DDA/pull/67003))
