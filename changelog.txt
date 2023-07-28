@@ -1,3 +1,4 @@
+* remove hidden space in house_detatached8_basement (#67227)
 * fix wrong ids for cody making chainmail (#67231)
 * Bovine Bulk description edit (#67222)
 * Documentation: New TESTING_YOUR_CHANGES.md (#67148)
@@ -87,7 +88,6 @@
 * A bunch of random item reworks: 10 (#67054)
 * Shorten links in JSON comments (#67056)
 * [Magiclysm] Reading the Earthbones spell fix (#67035)
-* reduce unseen hunter bullet armor (#67025)
 * [Magiclysm] Fix "Monsters don't cast spells" (#67043)
 * Damage types: armour/material fixes (#67038)
 * Update license of Sky Island mod (#67046)
