@@ -1,3 +1,4 @@
+* fix wrong ids for cody making chainmail ([#67231](https://github.com/CleverRaven/Cataclysm-DDA/pull/67231))
 * Bovine Bulk description edit ([#67222](https://github.com/CleverRaven/Cataclysm-DDA/pull/67222))
 * Documentation: New TESTING_YOUR_CHANGES.md ([#67148](https://github.com/CleverRaven/Cataclysm-DDA/pull/67148))
 * Mathify magic.md ([#67219](https://github.com/CleverRaven/Cataclysm-DDA/pull/67219))
