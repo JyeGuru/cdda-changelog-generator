@@ -1,3 +1,4 @@
+* [MoM] Convert recipe powers into spell powers, add new powers ([#67225](https://github.com/CleverRaven/Cataclysm-DDA/pull/67225))
 * Blacksmithing followup: crafting tools for blacksmithing ([#67139](https://github.com/CleverRaven/Cataclysm-DDA/pull/67139))
 * remove hidden space in house_detatached8_basement ([#67227](https://github.com/CleverRaven/Cataclysm-DDA/pull/67227))
 * fix wrong ids for cody making chainmail ([#67231](https://github.com/CleverRaven/Cataclysm-DDA/pull/67231))
@@ -82,7 +83,6 @@
 * Add sundial, wind and radiation badge to "spacebar" sidebar ([#67042](https://github.com/CleverRaven/Cataclysm-DDA/pull/67042))
 * [Sky Island] Fix Exit Point not Disappearing after teleporting home issue ([#67059](https://github.com/CleverRaven/Cataclysm-DDA/pull/67059))
 * Don't let monsters choose players' own hallucination as their attack targets ([#67063](https://github.com/CleverRaven/Cataclysm-DDA/pull/67063))
-* Making better EoC doc, part one ([#67028](https://github.com/CleverRaven/Cataclysm-DDA/pull/67028))
 * A bunch of random item reworks: 9 ([#67044](https://github.com/CleverRaven/Cataclysm-DDA/pull/67044))
 * [MoM] Add psionic feral PARROT lines ([#67050](https://github.com/CleverRaven/Cataclysm-DDA/pull/67050))
 * A bunch of random item reworks: 10 ([#67054](https://github.com/CleverRaven/Cataclysm-DDA/pull/67054))
