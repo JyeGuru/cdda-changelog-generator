@@ -89,5 +89,4 @@
 * [MoM] Add psionic feral PARROT lines ([#67050](https://github.com/CleverRaven/Cataclysm-DDA/pull/67050))
 * A bunch of random item reworks: 10 ([#67054](https://github.com/CleverRaven/Cataclysm-DDA/pull/67054))
 * Shorten links in JSON comments ([#67056](https://github.com/CleverRaven/Cataclysm-DDA/pull/67056))
-* [Magiclysm] Fix "Monsters don't cast spells" ([#67043](https://github.com/CleverRaven/Cataclysm-DDA/pull/67043))
 * Update license of Sky Island mod ([#67046](https://github.com/CleverRaven/Cataclysm-DDA/pull/67046))
