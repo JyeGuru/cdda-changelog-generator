@@ -1,3 +1,4 @@
+* AIM: Add key to step outside containers; mark other pane's container; less obtrusive popups ([#67017](https://github.com/CleverRaven/Cataclysm-DDA/pull/67017))
 * voice remodulator conflicts SCREECH ([#67206](https://github.com/CleverRaven/Cataclysm-DDA/pull/67206))
 * auto eat/drink oldest item first ([#67058](https://github.com/CleverRaven/Cataclysm-DDA/pull/67058))
 * Update BFR ([#67169](https://github.com/CleverRaven/Cataclysm-DDA/pull/67169))
@@ -88,5 +89,4 @@
 * Damage types: armour/material fixes ([#67038](https://github.com/CleverRaven/Cataclysm-DDA/pull/67038))
 * Update license of Sky Island mod ([#67046](https://github.com/CleverRaven/Cataclysm-DDA/pull/67046))
 * Make formatter enable ANSI colors in stdout on Windows ([#67021](https://github.com/CleverRaven/Cataclysm-DDA/pull/67021))
-* Allow 'PARROT_AT_DANGER' to select player or NPC as target ([#67015](https://github.com/CleverRaven/Cataclysm-DDA/pull/67015))
 * Fix effect crash ([#67020](https://github.com/CleverRaven/Cataclysm-DDA/pull/67020))
