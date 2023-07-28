@@ -1,3 +1,4 @@
+* Bovine Bulk description edit ([#67222](https://github.com/CleverRaven/Cataclysm-DDA/pull/67222))
 * Documentation: New TESTING_YOUR_CHANGES.md ([#67148](https://github.com/CleverRaven/Cataclysm-DDA/pull/67148))
 * Mathify magic.md ([#67219](https://github.com/CleverRaven/Cataclysm-DDA/pull/67219))
 * voice remodulator conflicts SCREECH ([#67206](https://github.com/CleverRaven/Cataclysm-DDA/pull/67206))
@@ -89,4 +90,3 @@
 * [Magiclysm] Fix "Monsters don't cast spells" ([#67043](https://github.com/CleverRaven/Cataclysm-DDA/pull/67043))
 * Damage types: armour/material fixes ([#67038](https://github.com/CleverRaven/Cataclysm-DDA/pull/67038))
 * Update license of Sky Island mod ([#67046](https://github.com/CleverRaven/Cataclysm-DDA/pull/67046))
-* Make formatter enable ANSI colors in stdout on Windows ([#67021](https://github.com/CleverRaven/Cataclysm-DDA/pull/67021))
