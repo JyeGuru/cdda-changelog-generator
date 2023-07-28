@@ -1,3 +1,4 @@
+* Blacksmithing followup: crafting tools for blacksmithing ([#67139](https://github.com/CleverRaven/Cataclysm-DDA/pull/67139))
 * remove hidden space in house_detatached8_basement ([#67227](https://github.com/CleverRaven/Cataclysm-DDA/pull/67227))
 * fix wrong ids for cody making chainmail ([#67231](https://github.com/CleverRaven/Cataclysm-DDA/pull/67231))
 * Bovine Bulk description edit ([#67222](https://github.com/CleverRaven/Cataclysm-DDA/pull/67222))
@@ -27,7 +28,6 @@
 * [MoM] Add psionic civilians to the initial Cataclysm chaos waves ([#67177](https://github.com/CleverRaven/Cataclysm-DDA/pull/67177))
 * Add some dialog function ([#67120](https://github.com/CleverRaven/Cataclysm-DDA/pull/67120))
 * Pad the skid lid ([#67176](https://github.com/CleverRaven/Cataclysm-DDA/pull/67176))
-* fix toolset prying power usage ([#67026](https://github.com/CleverRaven/Cataclysm-DDA/pull/67026))
 * [MoM] Add u_message to "extremely important note" ([#67166](https://github.com/CleverRaven/Cataclysm-DDA/pull/67166))
 * [Xedra Evolved] Low Intelligence Mana Perk ([#67096](https://github.com/CleverRaven/Cataclysm-DDA/pull/67096))
 * Belt adjustments ([#67154](https://github.com/CleverRaven/Cataclysm-DDA/pull/67154))
