@@ -1,3 +1,4 @@
+* Stop aphids eating their own honeydew ([#67230](https://github.com/CleverRaven/Cataclysm-DDA/pull/67230))
 * [MoM] Convert recipe powers into spell powers, add new powers ([#67225](https://github.com/CleverRaven/Cataclysm-DDA/pull/67225))
 * Blacksmithing followup: crafting tools for blacksmithing ([#67139](https://github.com/CleverRaven/Cataclysm-DDA/pull/67139))
 * remove hidden space in house_detatached8_basement ([#67227](https://github.com/CleverRaven/Cataclysm-DDA/pull/67227))
@@ -87,7 +88,6 @@
 * [MoM] Add psionic feral PARROT lines ([#67050](https://github.com/CleverRaven/Cataclysm-DDA/pull/67050))
 * A bunch of random item reworks: 10 ([#67054](https://github.com/CleverRaven/Cataclysm-DDA/pull/67054))
 * Shorten links in JSON comments ([#67056](https://github.com/CleverRaven/Cataclysm-DDA/pull/67056))
-* [Magiclysm] Reading the Earthbones spell fix ([#67035](https://github.com/CleverRaven/Cataclysm-DDA/pull/67035))
 * [Magiclysm] Fix "Monsters don't cast spells" ([#67043](https://github.com/CleverRaven/Cataclysm-DDA/pull/67043))
 * Damage types: armour/material fixes ([#67038](https://github.com/CleverRaven/Cataclysm-DDA/pull/67038))
 * Update license of Sky Island mod ([#67046](https://github.com/CleverRaven/Cataclysm-DDA/pull/67046))
