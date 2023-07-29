@@ -1,3 +1,4 @@
+* Fix grainy glyphs in blended font rendering mode ([#67235](https://github.com/CleverRaven/Cataclysm-DDA/pull/67235))
 * Routine i18n updates on 29 July 2023 ([#67257](https://github.com/CleverRaven/Cataclysm-DDA/pull/67257))
 * Unhardcode mx_bandits_block ([#67247](https://github.com/CleverRaven/Cataclysm-DDA/pull/67247))
 * Prevent heap-use-after-free problem of vehicle::damage_direct ([#67244](https://github.com/CleverRaven/Cataclysm-DDA/pull/67244))
@@ -90,4 +91,3 @@
 * fix: reduce charge in trash bound items ([#67079](https://github.com/CleverRaven/Cataclysm-DDA/pull/67079))
 * [Sky Island] Fix Exit Point not Disappearing after teleporting home issue ([#67059](https://github.com/CleverRaven/Cataclysm-DDA/pull/67059))
 * Don't let monsters choose players' own hallucination as their attack targets ([#67063](https://github.com/CleverRaven/Cataclysm-DDA/pull/67063))
-* Shorten links in JSON comments ([#67056](https://github.com/CleverRaven/Cataclysm-DDA/pull/67056))
