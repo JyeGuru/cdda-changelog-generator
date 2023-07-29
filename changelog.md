@@ -1,3 +1,4 @@
+* math: minor cleanup for inline bool ops ([#67264](https://github.com/CleverRaven/Cataclysm-DDA/pull/67264))
 * Add myself to confirm-bug list ([#67268](https://github.com/CleverRaven/Cataclysm-DDA/pull/67268))
 * Clarify the gameplay rationale for the CBM lore change ([#67241](https://github.com/CleverRaven/Cataclysm-DDA/pull/67241))
 * Various item price changes ([#67250](https://github.com/CleverRaven/Cataclysm-DDA/pull/67250))
@@ -65,7 +66,6 @@
 * Allow leg tourniquets for mutants with tails ([#67127](https://github.com/CleverRaven/Cataclysm-DDA/pull/67127))
 * Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
 * minor house_38 fixes ([#67119](https://github.com/CleverRaven/Cataclysm-DDA/pull/67119))
-* [Innawoods] - Added mutable stream ([#67065](https://github.com/CleverRaven/Cataclysm-DDA/pull/67065))
 * Split kevlar into two types (stab and ballistic) ([#67085](https://github.com/CleverRaven/Cataclysm-DDA/pull/67085))
 * Robofac robots and gear ([#67089](https://github.com/CleverRaven/Cataclysm-DDA/pull/67089))
 * Non f_sign Signage ([#67094](https://github.com/CleverRaven/Cataclysm-DDA/pull/67094))
