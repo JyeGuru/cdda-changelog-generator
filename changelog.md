@@ -1,3 +1,4 @@
+* Routine i18n updates on 29 July 2023 ([#67257](https://github.com/CleverRaven/Cataclysm-DDA/pull/67257))
 * Unhardcode mx_bandits_block ([#67247](https://github.com/CleverRaven/Cataclysm-DDA/pull/67247))
 * Prevent heap-use-after-free problem of vehicle::damage_direct ([#67244](https://github.com/CleverRaven/Cataclysm-DDA/pull/67244))
 * Fix Colossal Croaker ranged pull strings ([#67249](https://github.com/CleverRaven/Cataclysm-DDA/pull/67249))
@@ -51,7 +52,6 @@
 * Make special Hunting Lodge Unique and NPC lodge Globally Unique ([#67142](https://github.com/CleverRaven/Cataclysm-DDA/pull/67142))
 * [MoM] Allow telekinetics to push very heavy objects and lift cars ([#67110](https://github.com/CleverRaven/Cataclysm-DDA/pull/67110))
 * [MoM] Fix monster power messages ([#67145](https://github.com/CleverRaven/Cataclysm-DDA/pull/67145))
-* "relative": can be used with qualities ([#67055](https://github.com/CleverRaven/Cataclysm-DDA/pull/67055))
 * Reduce occurences of motel spawns ([#67143](https://github.com/CleverRaven/Cataclysm-DDA/pull/67143))
 * Weekly Changelog 2023-07-17 to 2023-07-24 ([#67130](https://github.com/CleverRaven/Cataclysm-DDA/pull/67130))
 * [Magiclysm] Change the Utility Molding spell to allow selecting the starting tool ([#67122](https://github.com/CleverRaven/Cataclysm-DDA/pull/67122))
