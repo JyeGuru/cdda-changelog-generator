@@ -1,3 +1,5 @@
+* Range Enchant and Additive Enchant Fixes ([#67190](https://github.com/CleverRaven/Cataclysm-DDA/pull/67190))
+* Fix kevlar requirements of survivor gear crafts ([#67246](https://github.com/CleverRaven/Cataclysm-DDA/pull/67246))
 * Make makeshift bodypillow a variant ([#67266](https://github.com/CleverRaven/Cataclysm-DDA/pull/67266))
 * Spawn quivers in the hunting supply stores ([#67271](https://github.com/CleverRaven/Cataclysm-DDA/pull/67271))
 * Rust UI refinements ([#67269](https://github.com/CleverRaven/Cataclysm-DDA/pull/67269))
@@ -65,7 +67,6 @@
 * [Magiclysm] Change the Utility Molding spell to allow selecting the starting tool ([#67122](https://github.com/CleverRaven/Cataclysm-DDA/pull/67122))
 * A bunch of random item reworks: 11 ([#67135](https://github.com/CleverRaven/Cataclysm-DDA/pull/67135))
 * fix reqs for install/uninstalling skateboard parts ([#67123](https://github.com/CleverRaven/Cataclysm-DDA/pull/67123))
-* [MoM] Blood Purge removes mutagens, you can heal followers' (and your) diseases ([#67080](https://github.com/CleverRaven/Cataclysm-DDA/pull/67080))
 * Allow leg tourniquets for mutants with tails ([#67127](https://github.com/CleverRaven/Cataclysm-DDA/pull/67127))
 * Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
 * minor house_38 fixes ([#67119](https://github.com/CleverRaven/Cataclysm-DDA/pull/67119))
@@ -89,4 +90,3 @@
 * EMT, Paramedic, and Paramedic Firefighter adjustment ([#67084](https://github.com/CleverRaven/Cataclysm-DDA/pull/67084))
 * Fish samples spawn in labs now ([#67091](https://github.com/CleverRaven/Cataclysm-DDA/pull/67091))
 * Routine i18n updates on 22 July 2023 ([#67087](https://github.com/CleverRaven/Cataclysm-DDA/pull/67087))
-* Make the second skin liquid armor fit mutated anatomy ([#67082](https://github.com/CleverRaven/Cataclysm-DDA/pull/67082))
