@@ -54,7 +54,6 @@
 * Fix combat tools crashing on drop ([#67163](https://github.com/CleverRaven/Cataclysm-DDA/pull/67163))
 * [Xedra evolved] even better message for inventor effect ([#67159](https://github.com/CleverRaven/Cataclysm-DDA/pull/67159))
 * Exodii Quadrupeds don't use M4 carbines ([#67151](https://github.com/CleverRaven/Cataclysm-DDA/pull/67151))
-* Fix: parse missing fields for translation ([#67074](https://github.com/CleverRaven/Cataclysm-DDA/pull/67074))
 * Make special Hunting Lodge Unique and NPC lodge Globally Unique ([#67142](https://github.com/CleverRaven/Cataclysm-DDA/pull/67142))
 * [MoM] Allow telekinetics to push very heavy objects and lift cars ([#67110](https://github.com/CleverRaven/Cataclysm-DDA/pull/67110))
 * [MoM] Fix monster power messages ([#67145](https://github.com/CleverRaven/Cataclysm-DDA/pull/67145))
