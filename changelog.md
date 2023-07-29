@@ -1,3 +1,4 @@
+* Rust UI refinements ([#67269](https://github.com/CleverRaven/Cataclysm-DDA/pull/67269))
 * Workshop 2 recipe progression restored ([#67270](https://github.com/CleverRaven/Cataclysm-DDA/pull/67270))
 * math: minor cleanup for inline bool ops ([#67264](https://github.com/CleverRaven/Cataclysm-DDA/pull/67264))
 * Add myself to confirm-bug list ([#67268](https://github.com/CleverRaven/Cataclysm-DDA/pull/67268))
@@ -87,6 +88,5 @@
 * Fish samples spawn in labs now ([#67091](https://github.com/CleverRaven/Cataclysm-DDA/pull/67091))
 * Routine i18n updates on 22 July 2023 ([#67087](https://github.com/CleverRaven/Cataclysm-DDA/pull/67087))
 * Make the second skin liquid armor fit mutated anatomy ([#67082](https://github.com/CleverRaven/Cataclysm-DDA/pull/67082))
-* Fix disassembly syntax for tin snips and claw bar ([#67076](https://github.com/CleverRaven/Cataclysm-DDA/pull/67076))
 * Obsoleted guns can't be installed as turrets anymore ([#67077](https://github.com/CleverRaven/Cataclysm-DDA/pull/67077))
 * fix: reduce charge in trash bound items ([#67079](https://github.com/CleverRaven/Cataclysm-DDA/pull/67079))
