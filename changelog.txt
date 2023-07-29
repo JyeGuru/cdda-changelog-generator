@@ -1,3 +1,4 @@
+* Add myself to confirm-bug list (#67268)
 * Clarify the gameplay rationale for the CBM lore change (#67241)
 * Various item price changes (#67250)
 * [Mom] Fix feral PKer message (#67253)
@@ -90,4 +91,3 @@
 * Obsoleted guns can't be installed as turrets anymore (#67077)
 * Molotov cocktails use flammable_liquid instead of accelerant_liquid (#67068)
 * fix: reduce charge in trash bound items (#67079)
-* Don't let monsters choose players' own hallucination as their attack targets (#67063)

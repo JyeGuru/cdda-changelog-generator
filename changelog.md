@@ -1,3 +1,4 @@
+* Add myself to confirm-bug list ([#67268](https://github.com/CleverRaven/Cataclysm-DDA/pull/67268))
 * Clarify the gameplay rationale for the CBM lore change ([#67241](https://github.com/CleverRaven/Cataclysm-DDA/pull/67241))
 * Various item price changes ([#67250](https://github.com/CleverRaven/Cataclysm-DDA/pull/67250))
 * [Mom] Fix feral PKer message ([#67253](https://github.com/CleverRaven/Cataclysm-DDA/pull/67253))
@@ -90,4 +91,3 @@
 * Obsoleted guns can't be installed as turrets anymore ([#67077](https://github.com/CleverRaven/Cataclysm-DDA/pull/67077))
 * Molotov cocktails use flammable_liquid instead of accelerant_liquid ([#67068](https://github.com/CleverRaven/Cataclysm-DDA/pull/67068))
 * fix: reduce charge in trash bound items ([#67079](https://github.com/CleverRaven/Cataclysm-DDA/pull/67079))
-* Don't let monsters choose players' own hallucination as their attack targets ([#67063](https://github.com/CleverRaven/Cataclysm-DDA/pull/67063))
