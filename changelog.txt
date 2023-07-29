@@ -1,3 +1,4 @@
+* [Mom] Fix feral PKer message (#67253)
 * Fix grainy glyphs in blended font rendering mode (#67235)
 * Routine i18n updates on 29 July 2023 (#67257)
 * Unhardcode mx_bandits_block (#67247)
@@ -17,7 +18,6 @@
 * Documentation: New TESTING_YOUR_CHANGES.md (#67148)
 * Mathify magic.md (#67219)
 * voice remodulator conflicts SCREECH (#67206)
-* auto eat/drink oldest item first (#67058)
 * Update BFR (#67169)
 * More monsters fight back if cornered (#67186)
 * Typos (#67185)

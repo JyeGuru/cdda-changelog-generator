@@ -1,3 +1,4 @@
+* [Mom] Fix feral PKer message ([#67253](https://github.com/CleverRaven/Cataclysm-DDA/pull/67253))
 * Fix grainy glyphs in blended font rendering mode ([#67235](https://github.com/CleverRaven/Cataclysm-DDA/pull/67235))
 * Routine i18n updates on 29 July 2023 ([#67257](https://github.com/CleverRaven/Cataclysm-DDA/pull/67257))
 * Unhardcode mx_bandits_block ([#67247](https://github.com/CleverRaven/Cataclysm-DDA/pull/67247))
@@ -17,7 +18,6 @@
 * Documentation: New TESTING_YOUR_CHANGES.md ([#67148](https://github.com/CleverRaven/Cataclysm-DDA/pull/67148))
 * Mathify magic.md ([#67219](https://github.com/CleverRaven/Cataclysm-DDA/pull/67219))
 * voice remodulator conflicts SCREECH ([#67206](https://github.com/CleverRaven/Cataclysm-DDA/pull/67206))
-* auto eat/drink oldest item first ([#67058](https://github.com/CleverRaven/Cataclysm-DDA/pull/67058))
 * Update BFR ([#67169](https://github.com/CleverRaven/Cataclysm-DDA/pull/67169))
 * More monsters fight back if cornered ([#67186](https://github.com/CleverRaven/Cataclysm-DDA/pull/67186))
 * Typos ([#67185](https://github.com/CleverRaven/Cataclysm-DDA/pull/67185))
