@@ -1,3 +1,5 @@
+* Two new civilians: parent and hospitalized ([#67261](https://github.com/CleverRaven/Cataclysm-DDA/pull/67261))
+* Solar Farm ([#67275](https://github.com/CleverRaven/Cataclysm-DDA/pull/67275))
 * [MoM] Add three new powers ([#67251](https://github.com/CleverRaven/Cataclysm-DDA/pull/67251))
 * dodge skill affects dodge stamina cost ([#67281](https://github.com/CleverRaven/Cataclysm-DDA/pull/67281))
 * Add myself to the bug confirmation list ([#67294](https://github.com/CleverRaven/Cataclysm-DDA/pull/67294))
@@ -81,7 +83,6 @@
 * Big Blacksmithing Bonanza ([#67103](https://github.com/CleverRaven/Cataclysm-DDA/pull/67103))
 * Adjust windbreaker to be nylon, less warm and encumbering ([#67108](https://github.com/CleverRaven/Cataclysm-DDA/pull/67108))
 * 'Experiment' start and extra_mut_scen starts don't reveal the nearest city ([#67118](https://github.com/CleverRaven/Cataclysm-DDA/pull/67118))
-* Fix android build ([#67090](https://github.com/CleverRaven/Cataclysm-DDA/pull/67090))
 * [DinoMod] Culling the Cute ([#67100](https://github.com/CleverRaven/Cataclysm-DDA/pull/67100))
 * Prevent workout duration overflow ([#67102](https://github.com/CleverRaven/Cataclysm-DDA/pull/67102))
 * Fix remaining in progress contruction for wall wiring ([#67117](https://github.com/CleverRaven/Cataclysm-DDA/pull/67117))
@@ -90,4 +91,3 @@
 * Typos: Reports of my death have been greatly exaggerated ([#67095](https://github.com/CleverRaven/Cataclysm-DDA/pull/67095))
 * Update seasoning salt recipe  ([#67098](https://github.com/CleverRaven/Cataclysm-DDA/pull/67098))
 * Fix mansonry saw being impossible to turn off ([#67101](https://github.com/CleverRaven/Cataclysm-DDA/pull/67101))
-* Fish samples spawn in labs now ([#67091](https://github.com/CleverRaven/Cataclysm-DDA/pull/67091))
