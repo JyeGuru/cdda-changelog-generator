@@ -1,3 +1,4 @@
+* Create documentation for the devcontainers setup (#67198)
 * Budget Steel Repair Tools (#67204)
 * Uncanny dodge spell fix (#67218)
 * Restored light industry expansion (#67298)
@@ -88,7 +89,6 @@
 * Big Blacksmithing Bonanza (#67103)
 * Adjust windbreaker to be nylon, less warm and encumbering (#67108)
 * 'Experiment' start and extra_mut_scen starts don't reveal the nearest city (#67118)
-* Prevent workout duration overflow (#67102)
 * Fix remaining in progress contruction for wall wiring (#67117)
 * fix widget error if player has no body part (#67113)
 * Trashcans are items now (#67105)
