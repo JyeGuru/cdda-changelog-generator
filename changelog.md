@@ -1,3 +1,4 @@
+* Balance steel flak helmets ([#67273](https://github.com/CleverRaven/Cataclysm-DDA/pull/67273))
 * Fix accidentally doubled utility exoskeletons' strength ([#67276](https://github.com/CleverRaven/Cataclysm-DDA/pull/67276))
 * House palette improvements ([#67187](https://github.com/CleverRaven/Cataclysm-DDA/pull/67187))
 * Range Enchant and Additive Enchant Fixes ([#67190](https://github.com/CleverRaven/Cataclysm-DDA/pull/67190))
@@ -72,7 +73,6 @@
 * Allow leg tourniquets for mutants with tails ([#67127](https://github.com/CleverRaven/Cataclysm-DDA/pull/67127))
 * Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
 * minor house_38 fixes ([#67119](https://github.com/CleverRaven/Cataclysm-DDA/pull/67119))
-* Split kevlar into two types (stab and ballistic) ([#67085](https://github.com/CleverRaven/Cataclysm-DDA/pull/67085))
 * Robofac robots and gear ([#67089](https://github.com/CleverRaven/Cataclysm-DDA/pull/67089))
 * Non f_sign Signage ([#67094](https://github.com/CleverRaven/Cataclysm-DDA/pull/67094))
 * Big Blacksmithing Bonanza ([#67103](https://github.com/CleverRaven/Cataclysm-DDA/pull/67103))
