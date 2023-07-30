@@ -1,3 +1,4 @@
+* Budget Steel Repair Tools ([#67204](https://github.com/CleverRaven/Cataclysm-DDA/pull/67204))
 * Uncanny dodge spell fix ([#67218](https://github.com/CleverRaven/Cataclysm-DDA/pull/67218))
 * Restored light industry expansion ([#67298](https://github.com/CleverRaven/Cataclysm-DDA/pull/67298))
 * House roadmap: house_01 abandoned version improvements ([#67292](https://github.com/CleverRaven/Cataclysm-DDA/pull/67292))
@@ -91,4 +92,3 @@
 * Fix remaining in progress contruction for wall wiring ([#67117](https://github.com/CleverRaven/Cataclysm-DDA/pull/67117))
 * fix widget error if player has no body part ([#67113](https://github.com/CleverRaven/Cataclysm-DDA/pull/67113))
 * Trashcans are items now ([#67105](https://github.com/CleverRaven/Cataclysm-DDA/pull/67105))
-* Fix mansonry saw being impossible to turn off ([#67101](https://github.com/CleverRaven/Cataclysm-DDA/pull/67101))
