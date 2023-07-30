@@ -1,3 +1,4 @@
+* Electric masonry saw ([#67211](https://github.com/CleverRaven/Cataclysm-DDA/pull/67211))
 * Create documentation for the devcontainers setup ([#67198](https://github.com/CleverRaven/Cataclysm-DDA/pull/67198))
 * Budget Steel Repair Tools ([#67204](https://github.com/CleverRaven/Cataclysm-DDA/pull/67204))
 * Uncanny dodge spell fix ([#67218](https://github.com/CleverRaven/Cataclysm-DDA/pull/67218))
@@ -86,7 +87,6 @@
 * Allow leg tourniquets for mutants with tails ([#67127](https://github.com/CleverRaven/Cataclysm-DDA/pull/67127))
 * Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
 * minor house_38 fixes ([#67119](https://github.com/CleverRaven/Cataclysm-DDA/pull/67119))
-* Big Blacksmithing Bonanza ([#67103](https://github.com/CleverRaven/Cataclysm-DDA/pull/67103))
 * Adjust windbreaker to be nylon, less warm and encumbering ([#67108](https://github.com/CleverRaven/Cataclysm-DDA/pull/67108))
 * 'Experiment' start and extra_mut_scen starts don't reveal the nearest city ([#67118](https://github.com/CleverRaven/Cataclysm-DDA/pull/67118))
 * Fix remaining in progress contruction for wall wiring ([#67117](https://github.com/CleverRaven/Cataclysm-DDA/pull/67117))
