@@ -1,3 +1,4 @@
+* [MoM] Add three new powers (#67251)
 * dodge skill affects dodge stamina cost (#67281)
 * Add myself to the bug confirmation list (#67294)
 * Player activity related event (#67255)
@@ -76,7 +77,6 @@
 * Allow leg tourniquets for mutants with tails (#67127)
 * Routine tileset updates on 23 July 2023 (#67128)
 * minor house_38 fixes (#67119)
-* Robofac robots and gear (#67089)
 * Non f_sign Signage (#67094)
 * Big Blacksmithing Bonanza (#67103)
 * Adjust windbreaker to be nylon, less warm and encumbering (#67108)

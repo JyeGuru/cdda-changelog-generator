@@ -1,3 +1,4 @@
+* [MoM] Add three new powers ([#67251](https://github.com/CleverRaven/Cataclysm-DDA/pull/67251))
 * dodge skill affects dodge stamina cost ([#67281](https://github.com/CleverRaven/Cataclysm-DDA/pull/67281))
 * Add myself to the bug confirmation list ([#67294](https://github.com/CleverRaven/Cataclysm-DDA/pull/67294))
 * Player activity related event ([#67255](https://github.com/CleverRaven/Cataclysm-DDA/pull/67255))
@@ -76,7 +77,6 @@
 * Allow leg tourniquets for mutants with tails ([#67127](https://github.com/CleverRaven/Cataclysm-DDA/pull/67127))
 * Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
 * minor house_38 fixes ([#67119](https://github.com/CleverRaven/Cataclysm-DDA/pull/67119))
-* Robofac robots and gear ([#67089](https://github.com/CleverRaven/Cataclysm-DDA/pull/67089))
 * Non f_sign Signage ([#67094](https://github.com/CleverRaven/Cataclysm-DDA/pull/67094))
 * Big Blacksmithing Bonanza ([#67103](https://github.com/CleverRaven/Cataclysm-DDA/pull/67103))
 * Adjust windbreaker to be nylon, less warm and encumbering ([#67108](https://github.com/CleverRaven/Cataclysm-DDA/pull/67108))
