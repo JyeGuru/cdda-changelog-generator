@@ -1,3 +1,4 @@
+* Fix accidentally doubled utility exoskeletons' strength ([#67276](https://github.com/CleverRaven/Cataclysm-DDA/pull/67276))
 * House palette improvements ([#67187](https://github.com/CleverRaven/Cataclysm-DDA/pull/67187))
 * Range Enchant and Additive Enchant Fixes ([#67190](https://github.com/CleverRaven/Cataclysm-DDA/pull/67190))
 * Fix kevlar requirements of survivor gear crafts ([#67246](https://github.com/CleverRaven/Cataclysm-DDA/pull/67246))
@@ -87,6 +88,5 @@
 * Typos: Reports of my death have been greatly exaggerated ([#67095](https://github.com/CleverRaven/Cataclysm-DDA/pull/67095))
 * Update seasoning salt recipe  ([#67098](https://github.com/CleverRaven/Cataclysm-DDA/pull/67098))
 * Fix mansonry saw being impossible to turn off ([#67101](https://github.com/CleverRaven/Cataclysm-DDA/pull/67101))
-* EMT, Paramedic, and Paramedic Firefighter adjustment ([#67084](https://github.com/CleverRaven/Cataclysm-DDA/pull/67084))
 * Fish samples spawn in labs now ([#67091](https://github.com/CleverRaven/Cataclysm-DDA/pull/67091))
 * Routine i18n updates on 22 July 2023 ([#67087](https://github.com/CleverRaven/Cataclysm-DDA/pull/67087))
