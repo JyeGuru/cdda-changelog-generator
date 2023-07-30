@@ -1,3 +1,4 @@
+* Player activity related event ([#67255](https://github.com/CleverRaven/Cataclysm-DDA/pull/67255))
 * Balance steel flak helmets ([#67273](https://github.com/CleverRaven/Cataclysm-DDA/pull/67273))
 * Fix accidentally doubled utility exoskeletons' strength ([#67276](https://github.com/CleverRaven/Cataclysm-DDA/pull/67276))
 * House palette improvements ([#67187](https://github.com/CleverRaven/Cataclysm-DDA/pull/67187))

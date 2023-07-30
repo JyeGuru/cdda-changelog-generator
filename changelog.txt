@@ -1,3 +1,4 @@
+* Player activity related event (#67255)
 * Balance steel flak helmets (#67273)
 * Fix accidentally doubled utility exoskeletons' strength (#67276)
 * House palette improvements (#67187)
