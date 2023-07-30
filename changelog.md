@@ -1,3 +1,4 @@
+* Typopheus Banyssheo ([#67299](https://github.com/CleverRaven/Cataclysm-DDA/pull/67299))
 * Electric masonry saw ([#67211](https://github.com/CleverRaven/Cataclysm-DDA/pull/67211))
 * Create documentation for the devcontainers setup ([#67198](https://github.com/CleverRaven/Cataclysm-DDA/pull/67198))
 * Budget Steel Repair Tools ([#67204](https://github.com/CleverRaven/Cataclysm-DDA/pull/67204))
@@ -91,4 +92,3 @@
 * 'Experiment' start and extra_mut_scen starts don't reveal the nearest city ([#67118](https://github.com/CleverRaven/Cataclysm-DDA/pull/67118))
 * Fix remaining in progress contruction for wall wiring ([#67117](https://github.com/CleverRaven/Cataclysm-DDA/pull/67117))
 * fix widget error if player has no body part ([#67113](https://github.com/CleverRaven/Cataclysm-DDA/pull/67113))
-* Trashcans are items now ([#67105](https://github.com/CleverRaven/Cataclysm-DDA/pull/67105))

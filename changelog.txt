@@ -1,3 +1,4 @@
+* Typopheus Banyssheo (#67299)
 * Electric masonry saw (#67211)
 * Create documentation for the devcontainers setup (#67198)
 * Budget Steel Repair Tools (#67204)
@@ -91,4 +92,3 @@
 * 'Experiment' start and extra_mut_scen starts don't reveal the nearest city (#67118)
 * Fix remaining in progress contruction for wall wiring (#67117)
 * fix widget error if player has no body part (#67113)
-* Trashcans are items now (#67105)
