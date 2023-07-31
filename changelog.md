@@ -1,3 +1,4 @@
+* Limit the amount of assassins that can spawn ([#67313](https://github.com/CleverRaven/Cataclysm-DDA/pull/67313))
 * Fix some guns looks_like ([#67337](https://github.com/CleverRaven/Cataclysm-DDA/pull/67337))
 * Change description of "highlighted regions" when editing overmap ([#67322](https://github.com/CleverRaven/Cataclysm-DDA/pull/67322))
 * [Sky Island] "choose your difficulty" uses selector now ([#67327](https://github.com/CleverRaven/Cataclysm-DDA/pull/67327))
