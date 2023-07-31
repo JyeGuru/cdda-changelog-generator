@@ -1,3 +1,4 @@
+* Change description of "highlighted regions" when editing overmap ([#67322](https://github.com/CleverRaven/Cataclysm-DDA/pull/67322))
 * [Sky Island] "choose your difficulty" uses selector now ([#67327](https://github.com/CleverRaven/Cataclysm-DDA/pull/67327))
 * More consistent key highlighting ([#67309](https://github.com/CleverRaven/Cataclysm-DDA/pull/67309))
 * blocks_effects blocks already had effects from stacking up. fix #67179 ([#67181](https://github.com/CleverRaven/Cataclysm-DDA/pull/67181))
