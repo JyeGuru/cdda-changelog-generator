@@ -1,3 +1,4 @@
+* [MoM] Remove matrix dust default container, move to itemgroups (#67312)
 * [MoM] Add OS647-P protection prototype device  (#67284)
 * Batch savings for making pasta (#67289)
 * Fix a computer at TCL unclocking two doors instead of only one (#67297)
@@ -90,4 +91,3 @@
 * Allow leg tourniquets for mutants with tails (#67127)
 * Routine tileset updates on 23 July 2023 (#67128)
 * minor house_38 fixes (#67119)
-* 'Experiment' start and extra_mut_scen starts don't reveal the nearest city (#67118)
