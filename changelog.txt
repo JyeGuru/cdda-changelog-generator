@@ -1,3 +1,4 @@
+* Routine tileset updates on 30 July 2023 (#67317)
 * fix minor webbing typo (#67302)
 * confirming issues also un-stales and reopens it (#67310)
 * [MoM] Remove matrix dust default container, move to itemgroups (#67312)
@@ -86,7 +87,6 @@
 * [MoM] Fix monster power messages (#67145)
 * Reduce occurences of motel spawns (#67143)
 * Weekly Changelog 2023-07-17 to 2023-07-24 (#67130)
-* [Magiclysm] Change the Utility Molding spell to allow selecting the starting tool (#67122)
 * A bunch of random item reworks: 11 (#67135)
 * fix reqs for install/uninstalling skateboard parts (#67123)
 * Allow leg tourniquets for mutants with tails (#67127)
