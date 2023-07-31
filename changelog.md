@@ -1,3 +1,5 @@
+* fix minor webbing typo ([#67302](https://github.com/CleverRaven/Cataclysm-DDA/pull/67302))
+* confirming issues also un-stales and reopens it ([#67310](https://github.com/CleverRaven/Cataclysm-DDA/pull/67310))
 * [MoM] Remove matrix dust default container, move to itemgroups ([#67312](https://github.com/CleverRaven/Cataclysm-DDA/pull/67312))
 * [MoM] Add OS647-P protection prototype device  ([#67284](https://github.com/CleverRaven/Cataclysm-DDA/pull/67284))
 * Batch savings for making pasta ([#67289](https://github.com/CleverRaven/Cataclysm-DDA/pull/67289))
@@ -73,7 +75,6 @@
 * Improve pocket overflow messages ([#67183](https://github.com/CleverRaven/Cataclysm-DDA/pull/67183))
 * Update boots.json ([#67167](https://github.com/CleverRaven/Cataclysm-DDA/pull/67167))
 * [MoM] Add psionic civilians to the initial Cataclysm chaos waves ([#67177](https://github.com/CleverRaven/Cataclysm-DDA/pull/67177))
-* Add some dialog function ([#67120](https://github.com/CleverRaven/Cataclysm-DDA/pull/67120))
 * Pad the skid lid ([#67176](https://github.com/CleverRaven/Cataclysm-DDA/pull/67176))
 * [MoM] Add u_message to "extremely important note" ([#67166](https://github.com/CleverRaven/Cataclysm-DDA/pull/67166))
 * Belt adjustments ([#67154](https://github.com/CleverRaven/Cataclysm-DDA/pull/67154))
@@ -90,4 +91,3 @@
 * fix reqs for install/uninstalling skateboard parts ([#67123](https://github.com/CleverRaven/Cataclysm-DDA/pull/67123))
 * Allow leg tourniquets for mutants with tails ([#67127](https://github.com/CleverRaven/Cataclysm-DDA/pull/67127))
 * Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
-* minor house_38 fixes ([#67119](https://github.com/CleverRaven/Cataclysm-DDA/pull/67119))
