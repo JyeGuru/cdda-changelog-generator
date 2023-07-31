@@ -1,3 +1,4 @@
+* Deconstruct migo cages ([#67252](https://github.com/CleverRaven/Cataclysm-DDA/pull/67252))
 * Routine tileset updates on 30 July 2023 ([#67317](https://github.com/CleverRaven/Cataclysm-DDA/pull/67317))
 * fix minor webbing typo ([#67302](https://github.com/CleverRaven/Cataclysm-DDA/pull/67302))
 * confirming issues also un-stales and reopens it ([#67310](https://github.com/CleverRaven/Cataclysm-DDA/pull/67310))
@@ -88,6 +89,5 @@
 * Reduce occurences of motel spawns ([#67143](https://github.com/CleverRaven/Cataclysm-DDA/pull/67143))
 * Weekly Changelog 2023-07-17 to 2023-07-24 ([#67130](https://github.com/CleverRaven/Cataclysm-DDA/pull/67130))
 * A bunch of random item reworks: 11 ([#67135](https://github.com/CleverRaven/Cataclysm-DDA/pull/67135))
-* fix reqs for install/uninstalling skateboard parts ([#67123](https://github.com/CleverRaven/Cataclysm-DDA/pull/67123))
 * Allow leg tourniquets for mutants with tails ([#67127](https://github.com/CleverRaven/Cataclysm-DDA/pull/67127))
 * Routine tileset updates on 23 July 2023 ([#67128](https://github.com/CleverRaven/Cataclysm-DDA/pull/67128))
