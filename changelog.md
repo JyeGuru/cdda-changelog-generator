@@ -1,3 +1,4 @@
+* [Sky Island] "choose your difficulty" uses selector now ([#67327](https://github.com/CleverRaven/Cataclysm-DDA/pull/67327))
 * More consistent key highlighting ([#67309](https://github.com/CleverRaven/Cataclysm-DDA/pull/67309))
 * blocks_effects blocks already had effects from stacking up. fix #67179 ([#67181](https://github.com/CleverRaven/Cataclysm-DDA/pull/67181))
 * Fix and improve NPC randomizer ([#67272](https://github.com/CleverRaven/Cataclysm-DDA/pull/67272))
@@ -90,4 +91,3 @@
 * Make special Hunting Lodge Unique and NPC lodge Globally Unique ([#67142](https://github.com/CleverRaven/Cataclysm-DDA/pull/67142))
 * [MoM] Fix monster power messages ([#67145](https://github.com/CleverRaven/Cataclysm-DDA/pull/67145))
 * Reduce occurences of motel spawns ([#67143](https://github.com/CleverRaven/Cataclysm-DDA/pull/67143))
-* A bunch of random item reworks: 11 ([#67135](https://github.com/CleverRaven/Cataclysm-DDA/pull/67135))
