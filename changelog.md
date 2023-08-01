@@ -89,7 +89,6 @@
 * [MoM] Add psionic civilians to the initial Cataclysm chaos waves ([#67177](https://github.com/CleverRaven/Cataclysm-DDA/pull/67177))
 * Pad the skid lid ([#67176](https://github.com/CleverRaven/Cataclysm-DDA/pull/67176))
 * [MoM] Add u_message to "extremely important note" ([#67166](https://github.com/CleverRaven/Cataclysm-DDA/pull/67166))
-* Belt adjustments ([#67154](https://github.com/CleverRaven/Cataclysm-DDA/pull/67154))
 * [Innawoods] Stream mapgen followup ([#67165](https://github.com/CleverRaven/Cataclysm-DDA/pull/67165))
 * Fix combat tools crashing on drop ([#67163](https://github.com/CleverRaven/Cataclysm-DDA/pull/67163))
 * [Xedra evolved] even better message for inventor effect ([#67159](https://github.com/CleverRaven/Cataclysm-DDA/pull/67159))
