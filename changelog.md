@@ -1,3 +1,4 @@
+* Adjust charcoal production from filled charcoal kiln ([#67258](https://github.com/CleverRaven/Cataclysm-DDA/pull/67258))
 * Weekly Changelog 2023-07-24 to 2023-07-31 ([#67319](https://github.com/CleverRaven/Cataclysm-DDA/pull/67319))
 * Cash card & friends numbers audit ([#67323](https://github.com/CleverRaven/Cataclysm-DDA/pull/67323))
 * More port arithmetic functions to math ([#67236](https://github.com/CleverRaven/Cataclysm-DDA/pull/67236))
@@ -92,4 +93,3 @@
 * [Innawoods] Stream mapgen followup ([#67165](https://github.com/CleverRaven/Cataclysm-DDA/pull/67165))
 * Fix combat tools crashing on drop ([#67163](https://github.com/CleverRaven/Cataclysm-DDA/pull/67163))
 * [Xedra evolved] even better message for inventor effect ([#67159](https://github.com/CleverRaven/Cataclysm-DDA/pull/67159))
-* Exodii Quadrupeds don't use M4 carbines ([#67151](https://github.com/CleverRaven/Cataclysm-DDA/pull/67151))
