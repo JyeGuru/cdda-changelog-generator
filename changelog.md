@@ -1,3 +1,4 @@
+* Cash card & friends numbers audit ([#67323](https://github.com/CleverRaven/Cataclysm-DDA/pull/67323))
 * More port arithmetic functions to math ([#67236](https://github.com/CleverRaven/Cataclysm-DDA/pull/67236))
 * Use mutation visibility as condition ([#67293](https://github.com/CleverRaven/Cataclysm-DDA/pull/67293))
 * Limit the amount of assassins that can spawn ([#67313](https://github.com/CleverRaven/Cataclysm-DDA/pull/67313))
@@ -92,4 +93,3 @@
 * Fix combat tools crashing on drop ([#67163](https://github.com/CleverRaven/Cataclysm-DDA/pull/67163))
 * [Xedra evolved] even better message for inventor effect ([#67159](https://github.com/CleverRaven/Cataclysm-DDA/pull/67159))
 * Exodii Quadrupeds don't use M4 carbines ([#67151](https://github.com/CleverRaven/Cataclysm-DDA/pull/67151))
-* [MoM] Fix monster power messages ([#67145](https://github.com/CleverRaven/Cataclysm-DDA/pull/67145))
