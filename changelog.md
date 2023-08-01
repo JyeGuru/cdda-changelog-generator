@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-07-24 to 2023-07-31 ([#67319](https://github.com/CleverRaven/Cataclysm-DDA/pull/67319))
 * Cash card & friends numbers audit ([#67323](https://github.com/CleverRaven/Cataclysm-DDA/pull/67323))
 * More port arithmetic functions to math ([#67236](https://github.com/CleverRaven/Cataclysm-DDA/pull/67236))
 * Use mutation visibility as condition ([#67293](https://github.com/CleverRaven/Cataclysm-DDA/pull/67293))
@@ -64,7 +65,6 @@
 * remove hidden space in house_detatached8_basement ([#67227](https://github.com/CleverRaven/Cataclysm-DDA/pull/67227))
 * fix wrong ids for cody making chainmail ([#67231](https://github.com/CleverRaven/Cataclysm-DDA/pull/67231))
 * Bovine Bulk description edit ([#67222](https://github.com/CleverRaven/Cataclysm-DDA/pull/67222))
-* Documentation: New TESTING_YOUR_CHANGES.md ([#67148](https://github.com/CleverRaven/Cataclysm-DDA/pull/67148))
 * Mathify magic.md ([#67219](https://github.com/CleverRaven/Cataclysm-DDA/pull/67219))
 * voice remodulator conflicts SCREECH ([#67206](https://github.com/CleverRaven/Cataclysm-DDA/pull/67206))
 * Update BFR ([#67169](https://github.com/CleverRaven/Cataclysm-DDA/pull/67169))
