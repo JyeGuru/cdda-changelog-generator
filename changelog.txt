@@ -1,3 +1,4 @@
+* Overflow crafting components before consuming them (#67340)
 * NPC reads books repeatedly (#67301)
 * Adjust charcoal production from filled charcoal kiln (#67258)
 * Weekly Changelog 2023-07-24 to 2023-07-31 (#67319)
@@ -78,7 +79,6 @@
 * Fix nests (#67197)
 * Adds inheritance and replace_materials support to repairs_with (#67202)
 * HP widgets gets equivalent bodypart (#67203)
-* Adds fail message at zero of the dreamer vitamin (#67156)
 * use nested mapgen on zombie cages, lakeside cabin special. (#67173)
 * Make bone broth better by extracting more calcium using acified water. (#67199)
 * remove redundant milk powder recipe (#67194)
