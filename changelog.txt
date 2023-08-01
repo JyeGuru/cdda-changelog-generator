@@ -1,3 +1,4 @@
+* New item categories for martial arts manuals and traps (#67345)
 * Overflow crafting components before consuming them (#67340)
 * NPC reads books repeatedly (#67301)
 * Adjust charcoal production from filled charcoal kiln (#67258)
@@ -91,4 +92,3 @@
 * [MoM] Add u_message to "extremely important note" (#67166)
 * [Innawoods] Stream mapgen followup (#67165)
 * Fix combat tools crashing on drop (#67163)
-* [Xedra evolved] even better message for inventor effect (#67159)

@@ -1,3 +1,4 @@
+* New item categories for martial arts manuals and traps ([#67345](https://github.com/CleverRaven/Cataclysm-DDA/pull/67345))
 * Overflow crafting components before consuming them ([#67340](https://github.com/CleverRaven/Cataclysm-DDA/pull/67340))
 * NPC reads books repeatedly ([#67301](https://github.com/CleverRaven/Cataclysm-DDA/pull/67301))
 * Adjust charcoal production from filled charcoal kiln ([#67258](https://github.com/CleverRaven/Cataclysm-DDA/pull/67258))
@@ -91,4 +92,3 @@
 * [MoM] Add u_message to "extremely important note" ([#67166](https://github.com/CleverRaven/Cataclysm-DDA/pull/67166))
 * [Innawoods] Stream mapgen followup ([#67165](https://github.com/CleverRaven/Cataclysm-DDA/pull/67165))
 * Fix combat tools crashing on drop ([#67163](https://github.com/CleverRaven/Cataclysm-DDA/pull/67163))
-* [Xedra evolved] even better message for inventor effect ([#67159](https://github.com/CleverRaven/Cataclysm-DDA/pull/67159))
