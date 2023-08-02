@@ -1,3 +1,4 @@
+* Various link up fixes ([#67376](https://github.com/CleverRaven/Cataclysm-DDA/pull/67376))
 * Hotfix: Fix persistent parents ([#67367](https://github.com/CleverRaven/Cataclysm-DDA/pull/67367))
 * Fix use menu denial message and invoking items for comestibles without charges ([#67342](https://github.com/CleverRaven/Cataclysm-DDA/pull/67342))
 * Humanising the pre-cataclysm, photographs PR. ([#67328](https://github.com/CleverRaven/Cataclysm-DDA/pull/67328))
@@ -84,7 +85,6 @@
 * Fix nests ([#67197](https://github.com/CleverRaven/Cataclysm-DDA/pull/67197))
 * Adds inheritance and replace_materials support to repairs_with ([#67202](https://github.com/CleverRaven/Cataclysm-DDA/pull/67202))
 * HP widgets gets equivalent bodypart ([#67203](https://github.com/CleverRaven/Cataclysm-DDA/pull/67203))
-* use nested mapgen on zombie cages, lakeside cabin special. ([#67173](https://github.com/CleverRaven/Cataclysm-DDA/pull/67173))
 * Make bone broth better by extracting more calcium using acified water. ([#67199](https://github.com/CleverRaven/Cataclysm-DDA/pull/67199))
 * remove redundant milk powder recipe ([#67194](https://github.com/CleverRaven/Cataclysm-DDA/pull/67194))
 * allow digging 2 for brick ovens ([#67196](https://github.com/CleverRaven/Cataclysm-DDA/pull/67196))
