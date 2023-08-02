@@ -1,3 +1,4 @@
+* Hotfix: Fix persistent parents ([#67367](https://github.com/CleverRaven/Cataclysm-DDA/pull/67367))
 * Fix use menu denial message and invoking items for comestibles without charges ([#67342](https://github.com/CleverRaven/Cataclysm-DDA/pull/67342))
 * Humanising the pre-cataclysm, photographs PR. ([#67328](https://github.com/CleverRaven/Cataclysm-DDA/pull/67328))
 * Fix smoking racks not consuming items ([#67356](https://github.com/CleverRaven/Cataclysm-DDA/pull/67356))
@@ -76,7 +77,6 @@
 * Bovine Bulk description edit ([#67222](https://github.com/CleverRaven/Cataclysm-DDA/pull/67222))
 * Mathify magic.md ([#67219](https://github.com/CleverRaven/Cataclysm-DDA/pull/67219))
 * voice remodulator conflicts SCREECH ([#67206](https://github.com/CleverRaven/Cataclysm-DDA/pull/67206))
-* Update BFR ([#67169](https://github.com/CleverRaven/Cataclysm-DDA/pull/67169))
 * More monsters fight back if cornered ([#67186](https://github.com/CleverRaven/Cataclysm-DDA/pull/67186))
 * Typos ([#67185](https://github.com/CleverRaven/Cataclysm-DDA/pull/67185))
 * [Magiclysm] Elves fight back when cornered and size change ([#67201](https://github.com/CleverRaven/Cataclysm-DDA/pull/67201))
