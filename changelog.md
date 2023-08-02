@@ -90,4 +90,3 @@
 * allow digging 2 for brick ovens ([#67196](https://github.com/CleverRaven/Cataclysm-DDA/pull/67196))
 * reduce energy required for dehydrating milk ([#67195](https://github.com/CleverRaven/Cataclysm-DDA/pull/67195))
 * Improve pocket overflow messages ([#67183](https://github.com/CleverRaven/Cataclysm-DDA/pull/67183))
-* [MoM] Add psionic civilians to the initial Cataclysm chaos waves ([#67177](https://github.com/CleverRaven/Cataclysm-DDA/pull/67177))
