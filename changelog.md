@@ -1,3 +1,4 @@
+* Fix use menu denial message and invoking items for comestibles without charges ([#67342](https://github.com/CleverRaven/Cataclysm-DDA/pull/67342))
 * Humanising the pre-cataclysm, photographs PR. ([#67328](https://github.com/CleverRaven/Cataclysm-DDA/pull/67328))
 * Fix smoking racks not consuming items ([#67356](https://github.com/CleverRaven/Cataclysm-DDA/pull/67356))
 * Adjust the fried seeds recipe and the plants which grow seeds for it ([#67282](https://github.com/CleverRaven/Cataclysm-DDA/pull/67282))
@@ -78,7 +79,6 @@
 * Update BFR ([#67169](https://github.com/CleverRaven/Cataclysm-DDA/pull/67169))
 * More monsters fight back if cornered ([#67186](https://github.com/CleverRaven/Cataclysm-DDA/pull/67186))
 * Typos ([#67185](https://github.com/CleverRaven/Cataclysm-DDA/pull/67185))
-* house roadmap: update house_01 in-construction variant ([#67168](https://github.com/CleverRaven/Cataclysm-DDA/pull/67168))
 * [Magiclysm] Elves fight back when cornered and size change ([#67201](https://github.com/CleverRaven/Cataclysm-DDA/pull/67201))
 * Fix: single value for environmental damage resist in body status window ([#67208](https://github.com/CleverRaven/Cataclysm-DDA/pull/67208))
 * Fix nests ([#67197](https://github.com/CleverRaven/Cataclysm-DDA/pull/67197))
