@@ -1,3 +1,5 @@
+* Humanising the pre-cataclysm, photographs PR. ([#67328](https://github.com/CleverRaven/Cataclysm-DDA/pull/67328))
+* Fix smoking racks not consuming items ([#67356](https://github.com/CleverRaven/Cataclysm-DDA/pull/67356))
 * Adjust the fried seeds recipe and the plants which grow seeds for it ([#67282](https://github.com/CleverRaven/Cataclysm-DDA/pull/67282))
 * Added detailed info on stats on character creation menu ([#67346](https://github.com/CleverRaven/Cataclysm-DDA/pull/67346))
 * New item categories for martial arts manuals and traps ([#67345](https://github.com/CleverRaven/Cataclysm-DDA/pull/67345))
@@ -88,7 +90,5 @@
 * allow digging 2 for brick ovens ([#67196](https://github.com/CleverRaven/Cataclysm-DDA/pull/67196))
 * reduce energy required for dehydrating milk ([#67195](https://github.com/CleverRaven/Cataclysm-DDA/pull/67195))
 * Improve pocket overflow messages ([#67183](https://github.com/CleverRaven/Cataclysm-DDA/pull/67183))
-* Update boots.json ([#67167](https://github.com/CleverRaven/Cataclysm-DDA/pull/67167))
 * [MoM] Add psionic civilians to the initial Cataclysm chaos waves ([#67177](https://github.com/CleverRaven/Cataclysm-DDA/pull/67177))
 * Pad the skid lid ([#67176](https://github.com/CleverRaven/Cataclysm-DDA/pull/67176))
-* [MoM] Add u_message to "extremely important note" ([#67166](https://github.com/CleverRaven/Cataclysm-DDA/pull/67166))
