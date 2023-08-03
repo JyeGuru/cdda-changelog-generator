@@ -1,3 +1,4 @@
+* Meds show portions in crafting menu ([#67397](https://github.com/CleverRaven/Cataclysm-DDA/pull/67397))
 * Fix bone broth and bone stuff being inedible ([#67392](https://github.com/CleverRaven/Cataclysm-DDA/pull/67392))
 * increase arpen of 556 ([#67357](https://github.com/CleverRaven/Cataclysm-DDA/pull/67357))
 * Jsonify road ([#67223](https://github.com/CleverRaven/Cataclysm-DDA/pull/67223))
@@ -53,7 +54,6 @@
 * Player activity related event ([#67255](https://github.com/CleverRaven/Cataclysm-DDA/pull/67255))
 * Balance steel flak helmets ([#67273](https://github.com/CleverRaven/Cataclysm-DDA/pull/67273))
 * Fix accidentally doubled utility exoskeletons' strength ([#67276](https://github.com/CleverRaven/Cataclysm-DDA/pull/67276))
-* House palette improvements ([#67187](https://github.com/CleverRaven/Cataclysm-DDA/pull/67187))
 * Range Enchant and Additive Enchant Fixes ([#67190](https://github.com/CleverRaven/Cataclysm-DDA/pull/67190))
 * Fix kevlar requirements of survivor gear crafts ([#67246](https://github.com/CleverRaven/Cataclysm-DDA/pull/67246))
 * Make makeshift bodypillow a variant ([#67266](https://github.com/CleverRaven/Cataclysm-DDA/pull/67266))

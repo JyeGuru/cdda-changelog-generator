@@ -1,3 +1,4 @@
+* Meds show portions in crafting menu (#67397)
 * Fix bone broth and bone stuff being inedible (#67392)
 * increase arpen of 556 (#67357)
 * Jsonify road (#67223)
@@ -53,7 +54,6 @@
 * Player activity related event (#67255)
 * Balance steel flak helmets (#67273)
 * Fix accidentally doubled utility exoskeletons' strength (#67276)
-* House palette improvements (#67187)
 * Range Enchant and Additive Enchant Fixes (#67190)
 * Fix kevlar requirements of survivor gear crafts (#67246)
 * Make makeshift bodypillow a variant (#67266)
