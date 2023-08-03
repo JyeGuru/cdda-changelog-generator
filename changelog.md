@@ -1,3 +1,4 @@
+* adjust sound of stun gun bionic ([#67358](https://github.com/CleverRaven/Cataclysm-DDA/pull/67358))
 * [MoM] Add new powers, part 2 ([#67351](https://github.com/CleverRaven/Cataclysm-DDA/pull/67351))
 * XL sized ballistic vests ([#67395](https://github.com/CleverRaven/Cataclysm-DDA/pull/67395))
 * Reduce NPC faction camp task slowdown (Part 1) ([#67350](https://github.com/CleverRaven/Cataclysm-DDA/pull/67350))
@@ -80,7 +81,6 @@
 * Unhardcode mx_bandits_block ([#67247](https://github.com/CleverRaven/Cataclysm-DDA/pull/67247))
 * Prevent heap-use-after-free problem of vehicle::damage_direct ([#67244](https://github.com/CleverRaven/Cataclysm-DDA/pull/67244))
 * Fix Colossal Croaker ranged pull strings ([#67249](https://github.com/CleverRaven/Cataclysm-DDA/pull/67249))
-* Recipe: variants for results ([#67209](https://github.com/CleverRaven/Cataclysm-DDA/pull/67209))
 * Unhardcode mx_house_wasp ([#67242](https://github.com/CleverRaven/Cataclysm-DDA/pull/67242))
 * Unhardcode mx_clearcut ([#67239](https://github.com/CleverRaven/Cataclysm-DDA/pull/67239))
 * make bone inedible ([#67240](https://github.com/CleverRaven/Cataclysm-DDA/pull/67240))
@@ -90,4 +90,3 @@
 * fix wrong ids for cody making chainmail ([#67231](https://github.com/CleverRaven/Cataclysm-DDA/pull/67231))
 * Bovine Bulk description edit ([#67222](https://github.com/CleverRaven/Cataclysm-DDA/pull/67222))
 * Mathify magic.md ([#67219](https://github.com/CleverRaven/Cataclysm-DDA/pull/67219))
-* Fix: single value for environmental damage resist in body status window ([#67208](https://github.com/CleverRaven/Cataclysm-DDA/pull/67208))
