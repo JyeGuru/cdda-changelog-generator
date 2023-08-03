@@ -1,3 +1,4 @@
+* Fix bone broth and bone stuff being inedible ([#67392](https://github.com/CleverRaven/Cataclysm-DDA/pull/67392))
 * increase arpen of 556 ([#67357](https://github.com/CleverRaven/Cataclysm-DDA/pull/67357))
 * Jsonify road ([#67223](https://github.com/CleverRaven/Cataclysm-DDA/pull/67223))
 * A bit better local files reading ([#67375](https://github.com/CleverRaven/Cataclysm-DDA/pull/67375))
@@ -80,7 +81,6 @@
 * Bovine Bulk description edit ([#67222](https://github.com/CleverRaven/Cataclysm-DDA/pull/67222))
 * Mathify magic.md ([#67219](https://github.com/CleverRaven/Cataclysm-DDA/pull/67219))
 * voice remodulator conflicts SCREECH ([#67206](https://github.com/CleverRaven/Cataclysm-DDA/pull/67206))
-* More monsters fight back if cornered ([#67186](https://github.com/CleverRaven/Cataclysm-DDA/pull/67186))
 * [Magiclysm] Elves fight back when cornered and size change ([#67201](https://github.com/CleverRaven/Cataclysm-DDA/pull/67201))
 * Fix: single value for environmental damage resist in body status window ([#67208](https://github.com/CleverRaven/Cataclysm-DDA/pull/67208))
 * Fix nests ([#67197](https://github.com/CleverRaven/Cataclysm-DDA/pull/67197))
