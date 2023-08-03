@@ -1,3 +1,5 @@
+* [MoM] Add new powers, part 2 ([#67351](https://github.com/CleverRaven/Cataclysm-DDA/pull/67351))
+* XL sized ballistic vests ([#67395](https://github.com/CleverRaven/Cataclysm-DDA/pull/67395))
 * Reduce NPC faction camp task slowdown (Part 1) ([#67350](https://github.com/CleverRaven/Cataclysm-DDA/pull/67350))
 * Overconfident officers drop their guns 100% of the time ([#67409](https://github.com/CleverRaven/Cataclysm-DDA/pull/67409))
 * Allow for cross-compiling from Linux to Windows in Devcontainer ([#67329](https://github.com/CleverRaven/Cataclysm-DDA/pull/67329))
@@ -88,5 +90,4 @@
 * fix wrong ids for cody making chainmail ([#67231](https://github.com/CleverRaven/Cataclysm-DDA/pull/67231))
 * Bovine Bulk description edit ([#67222](https://github.com/CleverRaven/Cataclysm-DDA/pull/67222))
 * Mathify magic.md ([#67219](https://github.com/CleverRaven/Cataclysm-DDA/pull/67219))
-* voice remodulator conflicts SCREECH ([#67206](https://github.com/CleverRaven/Cataclysm-DDA/pull/67206))
 * Fix: single value for environmental damage resist in body status window ([#67208](https://github.com/CleverRaven/Cataclysm-DDA/pull/67208))
