@@ -81,6 +81,7 @@
 * Unhardcode mx_bandits_block (#67247)
 * Prevent heap-use-after-free problem of vehicle::damage_direct (#67244)
 * Fix Colossal Croaker ranged pull strings (#67249)
+* Recipe: variants for results (#67209)
 * Unhardcode mx_house_wasp (#67242)
 * Unhardcode mx_clearcut (#67239)
 * make bone inedible (#67240)

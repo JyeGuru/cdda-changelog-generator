@@ -81,6 +81,7 @@
 * Unhardcode mx_bandits_block ([#67247](https://github.com/CleverRaven/Cataclysm-DDA/pull/67247))
 * Prevent heap-use-after-free problem of vehicle::damage_direct ([#67244](https://github.com/CleverRaven/Cataclysm-DDA/pull/67244))
 * Fix Colossal Croaker ranged pull strings ([#67249](https://github.com/CleverRaven/Cataclysm-DDA/pull/67249))
+* Recipe: variants for results ([#67209](https://github.com/CleverRaven/Cataclysm-DDA/pull/67209))
 * Unhardcode mx_house_wasp ([#67242](https://github.com/CleverRaven/Cataclysm-DDA/pull/67242))
 * Unhardcode mx_clearcut ([#67239](https://github.com/CleverRaven/Cataclysm-DDA/pull/67239))
 * make bone inedible ([#67240](https://github.com/CleverRaven/Cataclysm-DDA/pull/67240))
