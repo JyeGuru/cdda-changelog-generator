@@ -1,3 +1,4 @@
+* A bit better local files reading ([#67375](https://github.com/CleverRaven/Cataclysm-DDA/pull/67375))
 * [Magiclysm] Update enchanted_boots.json ([#67365](https://github.com/CleverRaven/Cataclysm-DDA/pull/67365))
 * Various link up fixes ([#67376](https://github.com/CleverRaven/Cataclysm-DDA/pull/67376))
 * Hotfix: Fix persistent parents ([#67367](https://github.com/CleverRaven/Cataclysm-DDA/pull/67367))
@@ -89,4 +90,3 @@
 * remove redundant milk powder recipe ([#67194](https://github.com/CleverRaven/Cataclysm-DDA/pull/67194))
 * allow digging 2 for brick ovens ([#67196](https://github.com/CleverRaven/Cataclysm-DDA/pull/67196))
 * reduce energy required for dehydrating milk ([#67195](https://github.com/CleverRaven/Cataclysm-DDA/pull/67195))
-* Improve pocket overflow messages ([#67183](https://github.com/CleverRaven/Cataclysm-DDA/pull/67183))
