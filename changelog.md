@@ -42,7 +42,6 @@
 * Lazy load distant map ([#67305](https://github.com/CleverRaven/Cataclysm-DDA/pull/67305))
 * Typopheus Banyssheo ([#67299](https://github.com/CleverRaven/Cataclysm-DDA/pull/67299))
 * Electric masonry saw ([#67211](https://github.com/CleverRaven/Cataclysm-DDA/pull/67211))
-* Create documentation for the devcontainers setup ([#67198](https://github.com/CleverRaven/Cataclysm-DDA/pull/67198))
 * Budget Steel Repair Tools ([#67204](https://github.com/CleverRaven/Cataclysm-DDA/pull/67204))
 * Uncanny dodge spell fix ([#67218](https://github.com/CleverRaven/Cataclysm-DDA/pull/67218))
 * Restored light industry expansion ([#67298](https://github.com/CleverRaven/Cataclysm-DDA/pull/67298))
