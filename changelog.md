@@ -1,3 +1,5 @@
+* Rebalance some larger food loot groups to commercial kitchens ([#67414](https://github.com/CleverRaven/Cataclysm-DDA/pull/67414))
+* update reaper description for accuracy ([#67421](https://github.com/CleverRaven/Cataclysm-DDA/pull/67421))
 * Micro dialogue update 2: Uyen ([#67419](https://github.com/CleverRaven/Cataclysm-DDA/pull/67419))
 * Micro dialogue update 3: Mandeep ([#67424](https://github.com/CleverRaven/Cataclysm-DDA/pull/67424))
 * adjust sound of stun gun bionic ([#67358](https://github.com/CleverRaven/Cataclysm-DDA/pull/67358))
@@ -52,7 +54,6 @@
 * Fix a computer at TCL unclocking two doors instead of only one ([#67297](https://github.com/CleverRaven/Cataclysm-DDA/pull/67297))
 * Lazy load distant map ([#67305](https://github.com/CleverRaven/Cataclysm-DDA/pull/67305))
 * Typopheus Banyssheo ([#67299](https://github.com/CleverRaven/Cataclysm-DDA/pull/67299))
-* Uncanny dodge spell fix ([#67218](https://github.com/CleverRaven/Cataclysm-DDA/pull/67218))
 * Restored light industry expansion ([#67298](https://github.com/CleverRaven/Cataclysm-DDA/pull/67298))
 * House roadmap: house_01 abandoned version improvements ([#67292](https://github.com/CleverRaven/Cataclysm-DDA/pull/67292))
 * AIM: Fix some instances of stack changing list positions when moving items ([#67254](https://github.com/CleverRaven/Cataclysm-DDA/pull/67254))
@@ -90,4 +91,3 @@
 * remove hidden space in house_detatached8_basement ([#67227](https://github.com/CleverRaven/Cataclysm-DDA/pull/67227))
 * fix wrong ids for cody making chainmail ([#67231](https://github.com/CleverRaven/Cataclysm-DDA/pull/67231))
 * Bovine Bulk description edit ([#67222](https://github.com/CleverRaven/Cataclysm-DDA/pull/67222))
-* Mathify magic.md ([#67219](https://github.com/CleverRaven/Cataclysm-DDA/pull/67219))
