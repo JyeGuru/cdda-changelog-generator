@@ -1,3 +1,5 @@
+* Fix typos in new photos.json snippets ([#67438](https://github.com/CleverRaven/Cataclysm-DDA/pull/67438))
+* Improve turn performance when having many solar panels ([#67441](https://github.com/CleverRaven/Cataclysm-DDA/pull/67441))
 * [MoM] Fix zombie telepathic stuns ([#67416](https://github.com/CleverRaven/Cataclysm-DDA/pull/67416))
 * Fix comestible prices ([#67439](https://github.com/CleverRaven/Cataclysm-DDA/pull/67439))
 * Added Community Discord To Website ([#67428](https://github.com/CleverRaven/Cataclysm-DDA/pull/67428))
@@ -82,7 +84,6 @@
 * Clarify the gameplay rationale for the CBM lore change ([#67241](https://github.com/CleverRaven/Cataclysm-DDA/pull/67241))
 * Various item price changes ([#67250](https://github.com/CleverRaven/Cataclysm-DDA/pull/67250))
 * [Mom] Fix feral PKer message ([#67253](https://github.com/CleverRaven/Cataclysm-DDA/pull/67253))
-* Fix grainy glyphs in blended font rendering mode ([#67235](https://github.com/CleverRaven/Cataclysm-DDA/pull/67235))
 * Routine i18n updates on 29 July 2023 ([#67257](https://github.com/CleverRaven/Cataclysm-DDA/pull/67257))
 * Unhardcode mx_bandits_block ([#67247](https://github.com/CleverRaven/Cataclysm-DDA/pull/67247))
 * Prevent heap-use-after-free problem of vehicle::damage_direct ([#67244](https://github.com/CleverRaven/Cataclysm-DDA/pull/67244))
@@ -90,4 +91,3 @@
 * Unhardcode mx_house_wasp ([#67242](https://github.com/CleverRaven/Cataclysm-DDA/pull/67242))
 * Unhardcode mx_clearcut ([#67239](https://github.com/CleverRaven/Cataclysm-DDA/pull/67239))
 * make bone inedible ([#67240](https://github.com/CleverRaven/Cataclysm-DDA/pull/67240))
-* fix wrong ids for cody making chainmail ([#67231](https://github.com/CleverRaven/Cataclysm-DDA/pull/67231))
