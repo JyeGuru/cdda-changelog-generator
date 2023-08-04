@@ -1,3 +1,4 @@
+* fix typo in photos.json ([#67387](https://github.com/CleverRaven/Cataclysm-DDA/pull/67387))
 * Rebalance some larger food loot groups to commercial kitchens ([#67414](https://github.com/CleverRaven/Cataclysm-DDA/pull/67414))
 * update reaper description for accuracy ([#67421](https://github.com/CleverRaven/Cataclysm-DDA/pull/67421))
 * Micro dialogue update 2: Uyen ([#67419](https://github.com/CleverRaven/Cataclysm-DDA/pull/67419))
@@ -90,4 +91,3 @@
 * [MoM] Convert recipe powers into spell powers, add new powers ([#67225](https://github.com/CleverRaven/Cataclysm-DDA/pull/67225))
 * remove hidden space in house_detatached8_basement ([#67227](https://github.com/CleverRaven/Cataclysm-DDA/pull/67227))
 * fix wrong ids for cody making chainmail ([#67231](https://github.com/CleverRaven/Cataclysm-DDA/pull/67231))
-* Bovine Bulk description edit ([#67222](https://github.com/CleverRaven/Cataclysm-DDA/pull/67222))
