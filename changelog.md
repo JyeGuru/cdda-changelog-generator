@@ -1,3 +1,4 @@
+* carpet construction is easier ([#67383](https://github.com/CleverRaven/Cataclysm-DDA/pull/67383))
 * [BombPerks] Attack speed perk for chainsaws & other powered blades(& a typo) ([#67398](https://github.com/CleverRaven/Cataclysm-DDA/pull/67398))
 * [Aftershock] Pad Aftershock items ([#67401](https://github.com/CleverRaven/Cataclysm-DDA/pull/67401))
 * correct cannabis seeds calories ([#67432](https://github.com/CleverRaven/Cataclysm-DDA/pull/67432))
@@ -90,4 +91,3 @@
 * Unhardcode mx_bandits_block ([#67247](https://github.com/CleverRaven/Cataclysm-DDA/pull/67247))
 * Prevent heap-use-after-free problem of vehicle::damage_direct ([#67244](https://github.com/CleverRaven/Cataclysm-DDA/pull/67244))
 * Fix Colossal Croaker ranged pull strings ([#67249](https://github.com/CleverRaven/Cataclysm-DDA/pull/67249))
-* Unhardcode mx_house_wasp ([#67242](https://github.com/CleverRaven/Cataclysm-DDA/pull/67242))
