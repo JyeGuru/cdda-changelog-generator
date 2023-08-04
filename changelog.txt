@@ -1,3 +1,4 @@
+* Added Community Discord To Website (#67428)
 * [MoM] Add newly-awakened psionic disciplines as hobbies (#67418)
 * fix typo in photos.json (#67387)
 * Rebalance some larger food loot groups to commercial kitchens (#67414)
@@ -88,6 +89,5 @@
 * Unhardcode mx_clearcut (#67239)
 * make bone inedible (#67240)
 * Stop aphids eating their own honeydew (#67230)
-* [MoM] Convert recipe powers into spell powers, add new powers (#67225)
 * remove hidden space in house_detatached8_basement (#67227)
 * fix wrong ids for cody making chainmail (#67231)
