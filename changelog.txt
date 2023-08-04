@@ -1,3 +1,4 @@
+* Fix comestible prices (#67439)
 * Added Community Discord To Website (#67428)
 * [MoM] Add newly-awakened psionic disciplines as hobbies (#67418)
 * fix typo in photos.json (#67387)
@@ -89,5 +90,4 @@
 * Unhardcode mx_clearcut (#67239)
 * make bone inedible (#67240)
 * Stop aphids eating their own honeydew (#67230)
-* remove hidden space in house_detatached8_basement (#67227)
 * fix wrong ids for cody making chainmail (#67231)
