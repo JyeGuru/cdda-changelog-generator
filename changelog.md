@@ -1,3 +1,4 @@
+* [MoM] Add newly-awakened psionic disciplines as hobbies ([#67418](https://github.com/CleverRaven/Cataclysm-DDA/pull/67418))
 * fix typo in photos.json ([#67387](https://github.com/CleverRaven/Cataclysm-DDA/pull/67387))
 * Rebalance some larger food loot groups to commercial kitchens ([#67414](https://github.com/CleverRaven/Cataclysm-DDA/pull/67414))
 * update reaper description for accuracy ([#67421](https://github.com/CleverRaven/Cataclysm-DDA/pull/67421))
@@ -20,7 +21,6 @@
 * Meds show portions in crafting menu ([#67397](https://github.com/CleverRaven/Cataclysm-DDA/pull/67397))
 * Fix bone broth and bone stuff being inedible ([#67392](https://github.com/CleverRaven/Cataclysm-DDA/pull/67392))
 * increase arpen of 556 ([#67357](https://github.com/CleverRaven/Cataclysm-DDA/pull/67357))
-* Jsonify road ([#67223](https://github.com/CleverRaven/Cataclysm-DDA/pull/67223))
 * A bit better local files reading ([#67375](https://github.com/CleverRaven/Cataclysm-DDA/pull/67375))
 * [Magiclysm] Update enchanted_boots.json ([#67365](https://github.com/CleverRaven/Cataclysm-DDA/pull/67365))
 * Various link up fixes ([#67376](https://github.com/CleverRaven/Cataclysm-DDA/pull/67376))
