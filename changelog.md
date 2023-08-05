@@ -1,3 +1,4 @@
+* Fix cable respooling crash ([#67460](https://github.com/CleverRaven/Cataclysm-DDA/pull/67460))
 * Routine i18n updates on 05 August 2023 ([#67452](https://github.com/CleverRaven/Cataclysm-DDA/pull/67452))
 * More granularity and higher levels in backgrounds ([#67412](https://github.com/CleverRaven/Cataclysm-DDA/pull/67412))
 * Nerf police armories a second time ([#67449](https://github.com/CleverRaven/Cataclysm-DDA/pull/67449))
@@ -77,7 +78,6 @@
 * Fix windows.h casing for mingw ([#67303](https://github.com/CleverRaven/Cataclysm-DDA/pull/67303))
 * Two new civilians: parent and hospitalized ([#67261](https://github.com/CleverRaven/Cataclysm-DDA/pull/67261))
 * Solar Farm ([#67275](https://github.com/CleverRaven/Cataclysm-DDA/pull/67275))
-* [MoM] Add three new powers ([#67251](https://github.com/CleverRaven/Cataclysm-DDA/pull/67251))
 * dodge skill affects dodge stamina cost ([#67281](https://github.com/CleverRaven/Cataclysm-DDA/pull/67281))
 * Add myself to the bug confirmation list ([#67294](https://github.com/CleverRaven/Cataclysm-DDA/pull/67294))
 * Player activity related event ([#67255](https://github.com/CleverRaven/Cataclysm-DDA/pull/67255))
