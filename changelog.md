@@ -1,3 +1,4 @@
+* Routine i18n updates on 05 August 2023 ([#67452](https://github.com/CleverRaven/Cataclysm-DDA/pull/67452))
 * More granularity and higher levels in backgrounds ([#67412](https://github.com/CleverRaven/Cataclysm-DDA/pull/67412))
 * Nerf police armories a second time ([#67449](https://github.com/CleverRaven/Cataclysm-DDA/pull/67449))
 * Fix bionics not displaying units when power is too low to use bionic ([#67417](https://github.com/CleverRaven/Cataclysm-DDA/pull/67417))
@@ -88,6 +89,5 @@
 * Workshop 2 recipe progression restored ([#67270](https://github.com/CleverRaven/Cataclysm-DDA/pull/67270))
 * math: minor cleanup for inline bool ops ([#67264](https://github.com/CleverRaven/Cataclysm-DDA/pull/67264))
 * Add myself to confirm-bug list ([#67268](https://github.com/CleverRaven/Cataclysm-DDA/pull/67268))
-* Various item price changes ([#67250](https://github.com/CleverRaven/Cataclysm-DDA/pull/67250))
 * [Mom] Fix feral PKer message ([#67253](https://github.com/CleverRaven/Cataclysm-DDA/pull/67253))
 * Routine i18n updates on 29 July 2023 ([#67257](https://github.com/CleverRaven/Cataclysm-DDA/pull/67257))
