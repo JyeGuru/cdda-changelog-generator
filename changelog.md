@@ -1,3 +1,4 @@
+* More granularity and higher levels in backgrounds ([#67412](https://github.com/CleverRaven/Cataclysm-DDA/pull/67412))
 * Nerf police armories a second time ([#67449](https://github.com/CleverRaven/Cataclysm-DDA/pull/67449))
 * Fix bionics not displaying units when power is too low to use bionic ([#67417](https://github.com/CleverRaven/Cataclysm-DDA/pull/67417))
 * Another Typo, Another PR ([#67440](https://github.com/CleverRaven/Cataclysm-DDA/pull/67440))
@@ -90,4 +91,3 @@
 * Various item price changes ([#67250](https://github.com/CleverRaven/Cataclysm-DDA/pull/67250))
 * [Mom] Fix feral PKer message ([#67253](https://github.com/CleverRaven/Cataclysm-DDA/pull/67253))
 * Routine i18n updates on 29 July 2023 ([#67257](https://github.com/CleverRaven/Cataclysm-DDA/pull/67257))
-* Fix Colossal Croaker ranged pull strings ([#67249](https://github.com/CleverRaven/Cataclysm-DDA/pull/67249))
