@@ -1,3 +1,4 @@
+* Nerf police armories a second time (#67449)
 * Fix bionics not displaying units when power is too low to use bionic (#67417)
 * Another Typo, Another PR (#67440)
 * carpet construction is easier (#67383)
@@ -89,5 +90,4 @@
 * Various item price changes (#67250)
 * [Mom] Fix feral PKer message (#67253)
 * Routine i18n updates on 29 July 2023 (#67257)
-* Unhardcode mx_bandits_block (#67247)
 * Fix Colossal Croaker ranged pull strings (#67249)
