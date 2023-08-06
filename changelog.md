@@ -1,3 +1,4 @@
+* Add pinecone to tinder recipes requiring cutting tools ([#67491](https://github.com/CleverRaven/Cataclysm-DDA/pull/67491))
 * Update all active items to new tick action system and remove old system ([#67352](https://github.com/CleverRaven/Cataclysm-DDA/pull/67352))
 * Low-tech weather tools! ([#67406](https://github.com/CleverRaven/Cataclysm-DDA/pull/67406))
 * fix bp fouling rusting (again) ([#67463](https://github.com/CleverRaven/Cataclysm-DDA/pull/67463))
@@ -79,7 +80,6 @@
 * character: fix fine detail vision ([#67295](https://github.com/CleverRaven/Cataclysm-DDA/pull/67295))
 * Better description for diary keybinding ([#67308](https://github.com/CleverRaven/Cataclysm-DDA/pull/67308))
 * Fix windows.h casing for mingw ([#67303](https://github.com/CleverRaven/Cataclysm-DDA/pull/67303))
-* Two new civilians: parent and hospitalized ([#67261](https://github.com/CleverRaven/Cataclysm-DDA/pull/67261))
 * Solar Farm ([#67275](https://github.com/CleverRaven/Cataclysm-DDA/pull/67275))
 * dodge skill affects dodge stamina cost ([#67281](https://github.com/CleverRaven/Cataclysm-DDA/pull/67281))
 * Add myself to the bug confirmation list ([#67294](https://github.com/CleverRaven/Cataclysm-DDA/pull/67294))
