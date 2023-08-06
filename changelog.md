@@ -1,6 +1,6 @@
 * fix bp fouling rusting (again) ([#67463](https://github.com/CleverRaven/Cataclysm-DDA/pull/67463))
 * Slightly improve crafting menu food tab performance ([#67466](https://github.com/CleverRaven/Cataclysm-DDA/pull/67466))
-* Adds proper one lane nests for the layby ([#67459](https://github.com/CleverRaven/Cataclysm-DDA/pull/67459))
+* Adds proper one lane nests for the rest stop/layby ([#67459](https://github.com/CleverRaven/Cataclysm-DDA/pull/67459))
 * [Sky Island] difficulty selector fix ([#67462](https://github.com/CleverRaven/Cataclysm-DDA/pull/67462))
 * Fix cable respooling crash ([#67460](https://github.com/CleverRaven/Cataclysm-DDA/pull/67460))
 * Routine i18n updates on 05 August 2023 ([#67452](https://github.com/CleverRaven/Cataclysm-DDA/pull/67452))
