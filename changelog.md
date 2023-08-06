@@ -1,3 +1,4 @@
+* fix bp fouling rusting (again) ([#67463](https://github.com/CleverRaven/Cataclysm-DDA/pull/67463))
 * Slightly improve crafting menu food tab performance ([#67466](https://github.com/CleverRaven/Cataclysm-DDA/pull/67466))
 * Adds proper one lane nests for the layby ([#67459](https://github.com/CleverRaven/Cataclysm-DDA/pull/67459))
 * [Sky Island] difficulty selector fix ([#67462](https://github.com/CleverRaven/Cataclysm-DDA/pull/67462))
@@ -81,7 +82,6 @@
 * Solar Farm ([#67275](https://github.com/CleverRaven/Cataclysm-DDA/pull/67275))
 * dodge skill affects dodge stamina cost ([#67281](https://github.com/CleverRaven/Cataclysm-DDA/pull/67281))
 * Add myself to the bug confirmation list ([#67294](https://github.com/CleverRaven/Cataclysm-DDA/pull/67294))
-* Player activity related event ([#67255](https://github.com/CleverRaven/Cataclysm-DDA/pull/67255))
 * Balance steel flak helmets ([#67273](https://github.com/CleverRaven/Cataclysm-DDA/pull/67273))
 * Fix accidentally doubled utility exoskeletons' strength ([#67276](https://github.com/CleverRaven/Cataclysm-DDA/pull/67276))
 * Make makeshift bodypillow a variant ([#67266](https://github.com/CleverRaven/Cataclysm-DDA/pull/67266))
