@@ -1,3 +1,4 @@
+* Slightly improve crafting menu food tab performance (#67466)
 * Adds proper one lane nests for the layby (#67459)
 * [Sky Island] difficulty selector fix (#67462)
 * Fix cable respooling crash (#67460)
@@ -73,7 +74,6 @@
 * Typopheus Banyssheo (#67299)
 * Restored light industry expansion (#67298)
 * House roadmap: house_01 abandoned version improvements (#67292)
-* AIM: Fix some instances of stack changing list positions when moving items (#67254)
 * character: fix fine detail vision (#67295)
 * Better description for diary keybinding (#67308)
 * Fix windows.h casing for mingw (#67303)
