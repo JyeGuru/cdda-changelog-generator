@@ -1,3 +1,5 @@
+* Update all active items to new tick action system and remove old system ([#67352](https://github.com/CleverRaven/Cataclysm-DDA/pull/67352))
+* Low-tech weather tools! ([#67406](https://github.com/CleverRaven/Cataclysm-DDA/pull/67406))
 * fix bp fouling rusting (again) ([#67463](https://github.com/CleverRaven/Cataclysm-DDA/pull/67463))
 * Slightly improve crafting menu food tab performance ([#67466](https://github.com/CleverRaven/Cataclysm-DDA/pull/67466))
 * Adds proper one lane nests for the rest stop/layby ([#67459](https://github.com/CleverRaven/Cataclysm-DDA/pull/67459))
@@ -53,7 +55,6 @@
 * New item categories for martial arts manuals and traps ([#67345](https://github.com/CleverRaven/Cataclysm-DDA/pull/67345))
 * Overflow crafting components before consuming them ([#67340](https://github.com/CleverRaven/Cataclysm-DDA/pull/67340))
 * NPC reads books repeatedly ([#67301](https://github.com/CleverRaven/Cataclysm-DDA/pull/67301))
-* Adjust charcoal production from filled charcoal kiln ([#67258](https://github.com/CleverRaven/Cataclysm-DDA/pull/67258))
 * Weekly Changelog 2023-07-24 to 2023-07-31 ([#67319](https://github.com/CleverRaven/Cataclysm-DDA/pull/67319))
 * Cash card & friends numbers audit ([#67323](https://github.com/CleverRaven/Cataclysm-DDA/pull/67323))
 * Use mutation visibility as condition ([#67293](https://github.com/CleverRaven/Cataclysm-DDA/pull/67293))
@@ -90,4 +91,3 @@
 * Workshop 2 recipe progression restored ([#67270](https://github.com/CleverRaven/Cataclysm-DDA/pull/67270))
 * math: minor cleanup for inline bool ops ([#67264](https://github.com/CleverRaven/Cataclysm-DDA/pull/67264))
 * Add myself to confirm-bug list ([#67268](https://github.com/CleverRaven/Cataclysm-DDA/pull/67268))
-* Routine i18n updates on 29 July 2023 ([#67257](https://github.com/CleverRaven/Cataclysm-DDA/pull/67257))
