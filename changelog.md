@@ -1,3 +1,5 @@
+* Update simple string condition keys in string extractor and fix some string extraction warnings ([#67475](https://github.com/CleverRaven/Cataclysm-DDA/pull/67475))
+* Cache nutrient results for recipes while calculating nutrient range for food info ([#67474](https://github.com/CleverRaven/Cataclysm-DDA/pull/67474))
 * [MoM] New powers, part 3 ([#67399](https://github.com/CleverRaven/Cataclysm-DDA/pull/67399))
 * Canceling "save zone" query returns you to zone manager instead of discarding changes ([#67476](https://github.com/CleverRaven/Cataclysm-DDA/pull/67476))
 * Crafting menu shows furniture qualities ([#67490](https://github.com/CleverRaven/Cataclysm-DDA/pull/67490))
@@ -87,7 +89,5 @@
 * character: fix fine detail vision ([#67295](https://github.com/CleverRaven/Cataclysm-DDA/pull/67295))
 * Better description for diary keybinding ([#67308](https://github.com/CleverRaven/Cataclysm-DDA/pull/67308))
 * Fix windows.h casing for mingw ([#67303](https://github.com/CleverRaven/Cataclysm-DDA/pull/67303))
-* Solar Farm ([#67275](https://github.com/CleverRaven/Cataclysm-DDA/pull/67275))
 * dodge skill affects dodge stamina cost ([#67281](https://github.com/CleverRaven/Cataclysm-DDA/pull/67281))
 * Add myself to the bug confirmation list ([#67294](https://github.com/CleverRaven/Cataclysm-DDA/pull/67294))
-* Fix accidentally doubled utility exoskeletons' strength ([#67276](https://github.com/CleverRaven/Cataclysm-DDA/pull/67276))
