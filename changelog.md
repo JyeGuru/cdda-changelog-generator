@@ -1,3 +1,4 @@
+* Add additional refrigerated tanks ([#67465](https://github.com/CleverRaven/Cataclysm-DDA/pull/67465))
 * Add pinecone to tinder recipes requiring cutting tools ([#67491](https://github.com/CleverRaven/Cataclysm-DDA/pull/67491))
 * Update all active items to new tick action system and remove old system ([#67352](https://github.com/CleverRaven/Cataclysm-DDA/pull/67352))
 * Low-tech weather tools! ([#67406](https://github.com/CleverRaven/Cataclysm-DDA/pull/67406))
@@ -89,5 +90,4 @@
 * Spawn quivers in the hunting supply stores ([#67271](https://github.com/CleverRaven/Cataclysm-DDA/pull/67271))
 * Rust UI refinements ([#67269](https://github.com/CleverRaven/Cataclysm-DDA/pull/67269))
 * Workshop 2 recipe progression restored ([#67270](https://github.com/CleverRaven/Cataclysm-DDA/pull/67270))
-* math: minor cleanup for inline bool ops ([#67264](https://github.com/CleverRaven/Cataclysm-DDA/pull/67264))
 * Add myself to confirm-bug list ([#67268](https://github.com/CleverRaven/Cataclysm-DDA/pull/67268))
