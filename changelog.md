@@ -1,3 +1,4 @@
+* Add more stuff to Alpha ([#67467](https://github.com/CleverRaven/Cataclysm-DDA/pull/67467))
 * Account for barrel assembly in CZ 600 Trail's weight ([#67502](https://github.com/CleverRaven/Cataclysm-DDA/pull/67502))
 * Cotton sheet folded seat isn't repaired with welding but sewing ([#67500](https://github.com/CleverRaven/Cataclysm-DDA/pull/67500))
 * Allow installing and removing bionics through debug menu ([#67512](https://github.com/CleverRaven/Cataclysm-DDA/pull/67512))
@@ -71,7 +72,6 @@
 * NPC reads books repeatedly ([#67301](https://github.com/CleverRaven/Cataclysm-DDA/pull/67301))
 * Weekly Changelog 2023-07-24 to 2023-07-31 ([#67319](https://github.com/CleverRaven/Cataclysm-DDA/pull/67319))
 * Cash card & friends numbers audit ([#67323](https://github.com/CleverRaven/Cataclysm-DDA/pull/67323))
-* Use mutation visibility as condition ([#67293](https://github.com/CleverRaven/Cataclysm-DDA/pull/67293))
 * Limit the amount of assassins that can spawn ([#67313](https://github.com/CleverRaven/Cataclysm-DDA/pull/67313))
 * Fix some guns looks_like ([#67337](https://github.com/CleverRaven/Cataclysm-DDA/pull/67337))
 * Change description of "highlighted regions" when editing overmap ([#67322](https://github.com/CleverRaven/Cataclysm-DDA/pull/67322))
