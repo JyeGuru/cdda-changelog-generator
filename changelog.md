@@ -1,3 +1,4 @@
+* [MoM] Add VERDANT HAND Combat Protocol (try 2) ([#67523](https://github.com/CleverRaven/Cataclysm-DDA/pull/67523))
 * Flesh out the Free Merchant representative for the God's Chosen ([#67501](https://github.com/CleverRaven/Cataclysm-DDA/pull/67501))
 * [MoM] Mind Over Matter-specific Research facility overhaul ([#67503](https://github.com/CleverRaven/Cataclysm-DDA/pull/67503))
 * Add hillbilly profession ([#67497](https://github.com/CleverRaven/Cataclysm-DDA/pull/67497))
@@ -86,7 +87,5 @@
 * confirming issues also un-stales and reopens it ([#67310](https://github.com/CleverRaven/Cataclysm-DDA/pull/67310))
 * [MoM] Remove matrix dust default container, move to itemgroups ([#67312](https://github.com/CleverRaven/Cataclysm-DDA/pull/67312))
 * Lazy load distant map ([#67305](https://github.com/CleverRaven/Cataclysm-DDA/pull/67305))
-* Typopheus Banyssheo ([#67299](https://github.com/CleverRaven/Cataclysm-DDA/pull/67299))
-* Restored light industry expansion ([#67298](https://github.com/CleverRaven/Cataclysm-DDA/pull/67298))
 * Better description for diary keybinding ([#67308](https://github.com/CleverRaven/Cataclysm-DDA/pull/67308))
 * Fix windows.h casing for mingw ([#67303](https://github.com/CleverRaven/Cataclysm-DDA/pull/67303))
