@@ -1,3 +1,4 @@
+* Cotton sheet folded seat isn't repaired with welding but sewing ([#67500](https://github.com/CleverRaven/Cataclysm-DDA/pull/67500))
 * Allow installing and removing bionics through debug menu ([#67512](https://github.com/CleverRaven/Cataclysm-DDA/pull/67512))
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction ([#67514](https://github.com/CleverRaven/Cataclysm-DDA/pull/67514))
 * Update simple string condition keys in string extractor and fix some string extraction warnings ([#67475](https://github.com/CleverRaven/Cataclysm-DDA/pull/67475))
@@ -80,7 +81,6 @@
 * fix minor webbing typo ([#67302](https://github.com/CleverRaven/Cataclysm-DDA/pull/67302))
 * confirming issues also un-stales and reopens it ([#67310](https://github.com/CleverRaven/Cataclysm-DDA/pull/67310))
 * [MoM] Remove matrix dust default container, move to itemgroups ([#67312](https://github.com/CleverRaven/Cataclysm-DDA/pull/67312))
-* [MoM] Add OS647-P protection prototype device  ([#67284](https://github.com/CleverRaven/Cataclysm-DDA/pull/67284))
 * Batch savings for making pasta ([#67289](https://github.com/CleverRaven/Cataclysm-DDA/pull/67289))
 * Fix a computer at TCL unclocking two doors instead of only one ([#67297](https://github.com/CleverRaven/Cataclysm-DDA/pull/67297))
 * Lazy load distant map ([#67305](https://github.com/CleverRaven/Cataclysm-DDA/pull/67305))
