@@ -1,3 +1,4 @@
+* [MoM] Mind Over Matter-specific Research facility overhaul ([#67503](https://github.com/CleverRaven/Cataclysm-DDA/pull/67503))
 * Add hillbilly profession ([#67497](https://github.com/CleverRaven/Cataclysm-DDA/pull/67497))
 * Add more stuff to Alpha ([#67467](https://github.com/CleverRaven/Cataclysm-DDA/pull/67467))
 * Account for barrel assembly in CZ 600 Trail's weight ([#67502](https://github.com/CleverRaven/Cataclysm-DDA/pull/67502))
@@ -87,6 +88,5 @@
 * Lazy load distant map ([#67305](https://github.com/CleverRaven/Cataclysm-DDA/pull/67305))
 * Typopheus Banyssheo ([#67299](https://github.com/CleverRaven/Cataclysm-DDA/pull/67299))
 * Restored light industry expansion ([#67298](https://github.com/CleverRaven/Cataclysm-DDA/pull/67298))
-* character: fix fine detail vision ([#67295](https://github.com/CleverRaven/Cataclysm-DDA/pull/67295))
 * Better description for diary keybinding ([#67308](https://github.com/CleverRaven/Cataclysm-DDA/pull/67308))
 * Fix windows.h casing for mingw ([#67303](https://github.com/CleverRaven/Cataclysm-DDA/pull/67303))
