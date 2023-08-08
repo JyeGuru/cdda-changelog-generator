@@ -1,3 +1,4 @@
+* Account for barrel assembly in CZ 600 Trail's weight (#67502)
 * Cotton sheet folded seat isn't repaired with welding but sewing (#67500)
 * Allow installing and removing bionics through debug menu (#67512)
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction (#67514)
@@ -81,7 +82,6 @@
 * fix minor webbing typo (#67302)
 * confirming issues also un-stales and reopens it (#67310)
 * [MoM] Remove matrix dust default container, move to itemgroups (#67312)
-* Batch savings for making pasta (#67289)
 * Fix a computer at TCL unclocking two doors instead of only one (#67297)
 * Lazy load distant map (#67305)
 * Typopheus Banyssheo (#67299)
