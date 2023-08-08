@@ -86,7 +86,6 @@
 * Lazy load distant map (#67305)
 * Typopheus Banyssheo (#67299)
 * Restored light industry expansion (#67298)
-* House roadmap: house_01 abandoned version improvements (#67292)
 * character: fix fine detail vision (#67295)
 * Better description for diary keybinding (#67308)
 * Fix windows.h casing for mingw (#67303)

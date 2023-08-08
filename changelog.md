@@ -86,7 +86,6 @@
 * Lazy load distant map ([#67305](https://github.com/CleverRaven/Cataclysm-DDA/pull/67305))
 * Typopheus Banyssheo ([#67299](https://github.com/CleverRaven/Cataclysm-DDA/pull/67299))
 * Restored light industry expansion ([#67298](https://github.com/CleverRaven/Cataclysm-DDA/pull/67298))
-* House roadmap: house_01 abandoned version improvements ([#67292](https://github.com/CleverRaven/Cataclysm-DDA/pull/67292))
 * character: fix fine detail vision ([#67295](https://github.com/CleverRaven/Cataclysm-DDA/pull/67295))
 * Better description for diary keybinding ([#67308](https://github.com/CleverRaven/Cataclysm-DDA/pull/67308))
 * Fix windows.h casing for mingw ([#67303](https://github.com/CleverRaven/Cataclysm-DDA/pull/67303))
