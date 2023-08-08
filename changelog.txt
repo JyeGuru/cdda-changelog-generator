@@ -1,3 +1,4 @@
+* Fix component distribution errors for crafted food (#67530)
 * [MoM] Add VERDANT HAND Combat Protocol (try 2) (#67523)
 * Flesh out the Free Merchant representative for the God's Chosen (#67501)
 * [MoM] Mind Over Matter-specific Research facility overhaul (#67503)
@@ -73,7 +74,6 @@
 * Added detailed info on stats on character creation menu (#67346)
 * New item categories for martial arts manuals and traps (#67345)
 * Overflow crafting components before consuming them (#67340)
-* NPC reads books repeatedly (#67301)
 * Weekly Changelog 2023-07-24 to 2023-07-31 (#67319)
 * Cash card & friends numbers audit (#67323)
 * Limit the amount of assassins that can spawn (#67313)
