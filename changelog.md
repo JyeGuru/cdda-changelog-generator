@@ -1,3 +1,4 @@
+* Matchhead powder loaded bullets ([#67453](https://github.com/CleverRaven/Cataclysm-DDA/pull/67453))
 * Enable/disable showing several non-player-related messages in the log ([#67494](https://github.com/CleverRaven/Cataclysm-DDA/pull/67494))
 * Cataclysm and game start dates are to be set through scenarios ([#67472](https://github.com/CleverRaven/Cataclysm-DDA/pull/67472))
 * Fix component distribution errors for crafted food ([#67530](https://github.com/CleverRaven/Cataclysm-DDA/pull/67530))
@@ -87,5 +88,4 @@
 * Routine tileset updates on 30 July 2023 ([#67317](https://github.com/CleverRaven/Cataclysm-DDA/pull/67317))
 * confirming issues also un-stales and reopens it ([#67310](https://github.com/CleverRaven/Cataclysm-DDA/pull/67310))
 * [MoM] Remove matrix dust default container, move to itemgroups ([#67312](https://github.com/CleverRaven/Cataclysm-DDA/pull/67312))
-* Lazy load distant map ([#67305](https://github.com/CleverRaven/Cataclysm-DDA/pull/67305))
 * Better description for diary keybinding ([#67308](https://github.com/CleverRaven/Cataclysm-DDA/pull/67308))
