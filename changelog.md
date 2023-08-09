@@ -1,3 +1,4 @@
+* decrease frequency of tileset updates ([#67499](https://github.com/CleverRaven/Cataclysm-DDA/pull/67499))
 * Friendly NPC crafting by crafting menu ([#67458](https://github.com/CleverRaven/Cataclysm-DDA/pull/67458))
 * Fix radio modded explosives ([#67534](https://github.com/CleverRaven/Cataclysm-DDA/pull/67534))
 * Matchhead powder loaded bullets ([#67453](https://github.com/CleverRaven/Cataclysm-DDA/pull/67453))
@@ -87,5 +88,4 @@
 * [Sky Island] "choose your difficulty" uses selector now ([#67327](https://github.com/CleverRaven/Cataclysm-DDA/pull/67327))
 * Minor changes to kel-tech PF-9 ([#67316](https://github.com/CleverRaven/Cataclysm-DDA/pull/67316))
 * Routine tileset updates on 30 July 2023 ([#67317](https://github.com/CleverRaven/Cataclysm-DDA/pull/67317))
-* confirming issues also un-stales and reopens it ([#67310](https://github.com/CleverRaven/Cataclysm-DDA/pull/67310))
 * [MoM] Remove matrix dust default container, move to itemgroups ([#67312](https://github.com/CleverRaven/Cataclysm-DDA/pull/67312))
