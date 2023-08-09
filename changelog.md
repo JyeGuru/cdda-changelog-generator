@@ -1,3 +1,4 @@
+* [MoM] Fix teleportocalypse ([#67540](https://github.com/CleverRaven/Cataclysm-DDA/pull/67540))
 * Mutation selector mod ([#67483](https://github.com/CleverRaven/Cataclysm-DDA/pull/67483))
 * decrease frequency of tileset updates ([#67499](https://github.com/CleverRaven/Cataclysm-DDA/pull/67499))
 * Friendly NPC crafting by crafting menu ([#67458](https://github.com/CleverRaven/Cataclysm-DDA/pull/67458))
