@@ -84,7 +84,6 @@
 * Added detailed info on stats on character creation menu ([#67346](https://github.com/CleverRaven/Cataclysm-DDA/pull/67346))
 * New item categories for martial arts manuals and traps ([#67345](https://github.com/CleverRaven/Cataclysm-DDA/pull/67345))
 * Overflow crafting components before consuming them ([#67340](https://github.com/CleverRaven/Cataclysm-DDA/pull/67340))
-* Weekly Changelog 2023-07-24 to 2023-07-31 ([#67319](https://github.com/CleverRaven/Cataclysm-DDA/pull/67319))
 * Cash card & friends numbers audit ([#67323](https://github.com/CleverRaven/Cataclysm-DDA/pull/67323))
 * Fix some guns looks_like ([#67337](https://github.com/CleverRaven/Cataclysm-DDA/pull/67337))
 * Change description of "highlighted regions" when editing overmap ([#67322](https://github.com/CleverRaven/Cataclysm-DDA/pull/67322))
