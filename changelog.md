@@ -1,3 +1,4 @@
+* [WIP] Add functions for efficiently handling massive amounts of identical items ([#67349](https://github.com/CleverRaven/Cataclysm-DDA/pull/67349))
 * Remove Mutation Selector mod ([#67556](https://github.com/CleverRaven/Cataclysm-DDA/pull/67556))
 * Show inventory selector for tinder when starting fires with tools that require tinder ([#67516](https://github.com/CleverRaven/Cataclysm-DDA/pull/67516))
 * Remove no_fungi ([#67547](https://github.com/CleverRaven/Cataclysm-DDA/pull/67547))
@@ -87,4 +88,3 @@
 * New item categories for martial arts manuals and traps ([#67345](https://github.com/CleverRaven/Cataclysm-DDA/pull/67345))
 * Overflow crafting components before consuming them ([#67340](https://github.com/CleverRaven/Cataclysm-DDA/pull/67340))
 * Fix some guns looks_like ([#67337](https://github.com/CleverRaven/Cataclysm-DDA/pull/67337))
-* [Sky Island] "choose your difficulty" uses selector now ([#67327](https://github.com/CleverRaven/Cataclysm-DDA/pull/67327))
