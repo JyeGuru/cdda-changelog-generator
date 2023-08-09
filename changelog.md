@@ -1,3 +1,4 @@
+* Friendly NPC crafting by crafting menu ([#67458](https://github.com/CleverRaven/Cataclysm-DDA/pull/67458))
 * Fix radio modded explosives ([#67534](https://github.com/CleverRaven/Cataclysm-DDA/pull/67534))
 * Matchhead powder loaded bullets ([#67453](https://github.com/CleverRaven/Cataclysm-DDA/pull/67453))
 * Enable/disable showing several non-player-related messages in the log ([#67494](https://github.com/CleverRaven/Cataclysm-DDA/pull/67494))
@@ -84,7 +85,6 @@
 * Fix some guns looks_like ([#67337](https://github.com/CleverRaven/Cataclysm-DDA/pull/67337))
 * Change description of "highlighted regions" when editing overmap ([#67322](https://github.com/CleverRaven/Cataclysm-DDA/pull/67322))
 * [Sky Island] "choose your difficulty" uses selector now ([#67327](https://github.com/CleverRaven/Cataclysm-DDA/pull/67327))
-* More consistent key highlighting ([#67309](https://github.com/CleverRaven/Cataclysm-DDA/pull/67309))
 * Minor changes to kel-tech PF-9 ([#67316](https://github.com/CleverRaven/Cataclysm-DDA/pull/67316))
 * Routine tileset updates on 30 July 2023 ([#67317](https://github.com/CleverRaven/Cataclysm-DDA/pull/67317))
 * confirming issues also un-stales and reopens it ([#67310](https://github.com/CleverRaven/Cataclysm-DDA/pull/67310))
