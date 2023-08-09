@@ -1,3 +1,4 @@
+* Remove no_fungi ([#67547](https://github.com/CleverRaven/Cataclysm-DDA/pull/67547))
 * Remove debug_bionic_powergen trait_id from debug_menu.cpp ([#67545](https://github.com/CleverRaven/Cataclysm-DDA/pull/67545))
 * [MoM] Fix teleportocalypse ([#67540](https://github.com/CleverRaven/Cataclysm-DDA/pull/67540))
 * Mutation selector mod ([#67483](https://github.com/CleverRaven/Cataclysm-DDA/pull/67483))
@@ -88,4 +89,3 @@
 * Fix some guns looks_like ([#67337](https://github.com/CleverRaven/Cataclysm-DDA/pull/67337))
 * Change description of "highlighted regions" when editing overmap ([#67322](https://github.com/CleverRaven/Cataclysm-DDA/pull/67322))
 * [Sky Island] "choose your difficulty" uses selector now ([#67327](https://github.com/CleverRaven/Cataclysm-DDA/pull/67327))
-* Routine tileset updates on 30 July 2023 ([#67317](https://github.com/CleverRaven/Cataclysm-DDA/pull/67317))
