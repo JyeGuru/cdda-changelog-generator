@@ -83,7 +83,6 @@
 * Overflow crafting components before consuming them ([#67340](https://github.com/CleverRaven/Cataclysm-DDA/pull/67340))
 * Weekly Changelog 2023-07-24 to 2023-07-31 ([#67319](https://github.com/CleverRaven/Cataclysm-DDA/pull/67319))
 * Cash card & friends numbers audit ([#67323](https://github.com/CleverRaven/Cataclysm-DDA/pull/67323))
-* Limit the amount of assassins that can spawn ([#67313](https://github.com/CleverRaven/Cataclysm-DDA/pull/67313))
 * Fix some guns looks_like ([#67337](https://github.com/CleverRaven/Cataclysm-DDA/pull/67337))
 * Change description of "highlighted regions" when editing overmap ([#67322](https://github.com/CleverRaven/Cataclysm-DDA/pull/67322))
 * [Sky Island] "choose your difficulty" uses selector now ([#67327](https://github.com/CleverRaven/Cataclysm-DDA/pull/67327))
