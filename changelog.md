@@ -88,3 +88,4 @@
 * New item categories for martial arts manuals and traps ([#67345](https://github.com/CleverRaven/Cataclysm-DDA/pull/67345))
 * Overflow crafting components before consuming them ([#67340](https://github.com/CleverRaven/Cataclysm-DDA/pull/67340))
 * Fix some guns looks_like ([#67337](https://github.com/CleverRaven/Cataclysm-DDA/pull/67337))
+* [Sky Island] "choose your difficulty" uses selector now ([#67327](https://github.com/CleverRaven/Cataclysm-DDA/pull/67327))

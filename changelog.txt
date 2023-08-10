@@ -88,3 +88,4 @@
 * New item categories for martial arts manuals and traps (#67345)
 * Overflow crafting components before consuming them (#67340)
 * Fix some guns looks_like (#67337)
+* [Sky Island] "choose your difficulty" uses selector now (#67327)
