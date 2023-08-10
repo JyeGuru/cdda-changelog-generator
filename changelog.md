@@ -1,3 +1,5 @@
+* Profession skills overhaul ([#67536](https://github.com/CleverRaven/Cataclysm-DDA/pull/67536))
+* Refactor fermentation code ([#67538](https://github.com/CleverRaven/Cataclysm-DDA/pull/67538))
 * Minor fix of NPC crafting ([#67564](https://github.com/CleverRaven/Cataclysm-DDA/pull/67564))
 * Make waiting in npc heavy areas up to 2x faster ([#67535](https://github.com/CleverRaven/Cataclysm-DDA/pull/67535))
 * Mapgen: Add barber shop ([#67550](https://github.com/CleverRaven/Cataclysm-DDA/pull/67550))
@@ -86,7 +88,5 @@
 * [Magiclysm] Update enchanted_boots.json ([#67365](https://github.com/CleverRaven/Cataclysm-DDA/pull/67365))
 * Various link up fixes ([#67376](https://github.com/CleverRaven/Cataclysm-DDA/pull/67376))
 * Hotfix: Fix persistent parents ([#67367](https://github.com/CleverRaven/Cataclysm-DDA/pull/67367))
-* Fix use menu denial message and invoking items for comestibles without charges ([#67342](https://github.com/CleverRaven/Cataclysm-DDA/pull/67342))
 * Fix smoking racks not consuming items ([#67356](https://github.com/CleverRaven/Cataclysm-DDA/pull/67356))
 * Added detailed info on stats on character creation menu ([#67346](https://github.com/CleverRaven/Cataclysm-DDA/pull/67346))
-* New item categories for martial arts manuals and traps ([#67345](https://github.com/CleverRaven/Cataclysm-DDA/pull/67345))
