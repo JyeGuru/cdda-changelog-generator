@@ -1,3 +1,4 @@
+* Fix start date tests corrupting global state ([#67574](https://github.com/CleverRaven/Cataclysm-DDA/pull/67574))
 * Profession skills overhaul ([#67536](https://github.com/CleverRaven/Cataclysm-DDA/pull/67536))
 * Refactor fermentation code ([#67538](https://github.com/CleverRaven/Cataclysm-DDA/pull/67538))
 * Minor fix of NPC crafting ([#67564](https://github.com/CleverRaven/Cataclysm-DDA/pull/67564))
@@ -89,4 +90,3 @@
 * Various link up fixes ([#67376](https://github.com/CleverRaven/Cataclysm-DDA/pull/67376))
 * Hotfix: Fix persistent parents ([#67367](https://github.com/CleverRaven/Cataclysm-DDA/pull/67367))
 * Fix smoking racks not consuming items ([#67356](https://github.com/CleverRaven/Cataclysm-DDA/pull/67356))
-* Added detailed info on stats on character creation menu ([#67346](https://github.com/CleverRaven/Cataclysm-DDA/pull/67346))
