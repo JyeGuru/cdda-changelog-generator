@@ -1,3 +1,4 @@
+* Give the God's Chosen NPCs some anti-mutant dialogue ([#67525](https://github.com/CleverRaven/Cataclysm-DDA/pull/67525))
 * Update itemgroups.json ([#67557](https://github.com/CleverRaven/Cataclysm-DDA/pull/67557))
 * Into the *Typostorm ([#67548](https://github.com/CleverRaven/Cataclysm-DDA/pull/67548))
 * [WIP] Add functions for efficiently handling massive amounts of identical items ([#67349](https://github.com/CleverRaven/Cataclysm-DDA/pull/67349))
@@ -67,7 +68,6 @@
 * XL sized ballistic vests ([#67395](https://github.com/CleverRaven/Cataclysm-DDA/pull/67395))
 * Reduce NPC faction camp task slowdown (Part 1) ([#67350](https://github.com/CleverRaven/Cataclysm-DDA/pull/67350))
 * Overconfident officers drop their guns 100% of the time ([#67409](https://github.com/CleverRaven/Cataclysm-DDA/pull/67409))
-* Allow for cross-compiling from Linux to Windows in Devcontainer ([#67329](https://github.com/CleverRaven/Cataclysm-DDA/pull/67329))
 * Micro dialogue update 1: Jenny ([#67413](https://github.com/CleverRaven/Cataclysm-DDA/pull/67413))
 * Improve performance of recipe::create_results ([#67408](https://github.com/CleverRaven/Cataclysm-DDA/pull/67408))
 * Allow roach dirt to make liquid fertilizer ([#67396](https://github.com/CleverRaven/Cataclysm-DDA/pull/67396))
