@@ -1,3 +1,5 @@
+* Minor fix of NPC crafting ([#67564](https://github.com/CleverRaven/Cataclysm-DDA/pull/67564))
+* Make waiting in npc heavy areas up to 2x faster ([#67535](https://github.com/CleverRaven/Cataclysm-DDA/pull/67535))
 * Mapgen: Add barber shop ([#67550](https://github.com/CleverRaven/Cataclysm-DDA/pull/67550))
 * Give the God's Chosen NPCs some anti-mutant dialogue ([#67525](https://github.com/CleverRaven/Cataclysm-DDA/pull/67525))
 * Update itemgroups.json ([#67557](https://github.com/CleverRaven/Cataclysm-DDA/pull/67557))
@@ -88,5 +90,3 @@
 * Fix smoking racks not consuming items ([#67356](https://github.com/CleverRaven/Cataclysm-DDA/pull/67356))
 * Added detailed info on stats on character creation menu ([#67346](https://github.com/CleverRaven/Cataclysm-DDA/pull/67346))
 * New item categories for martial arts manuals and traps ([#67345](https://github.com/CleverRaven/Cataclysm-DDA/pull/67345))
-* Overflow crafting components before consuming them ([#67340](https://github.com/CleverRaven/Cataclysm-DDA/pull/67340))
-* Fix some guns looks_like ([#67337](https://github.com/CleverRaven/Cataclysm-DDA/pull/67337))
