@@ -1,3 +1,4 @@
+* Recharge sulfur powder and make it not a comestible (#67539)
 * [Aftershock] Adjust bionic toolkit qualities (#67573)
 * Scroll one page when displaying item info (#67576)
 * Drop basic build and osx ccaches to fix screwy unbounded growth. (#67577)
@@ -43,7 +44,6 @@
 * [Sky Island] Stat stone fix (#67507)
 * Add additional refrigerated tanks (#67465)
 * Add pinecone to tinder recipes requiring cutting tools (#67491)
-* Update all active items to new tick action system and remove old system (#67352)
 * Low-tech weather tools! (#67406)
 * fix bp fouling rusting (again) (#67463)
 * Slightly improve crafting menu food tab performance (#67466)
