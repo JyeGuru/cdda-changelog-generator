@@ -1,3 +1,4 @@
+* [MoM] Fix Fountain of Flames (#67584)
 * Recharge sulfur powder and make it not a comestible (#67539)
 * [Aftershock] Adjust bionic toolkit qualities (#67573)
 * Scroll one page when displaying item info (#67576)
@@ -89,4 +90,3 @@
 * [Magiclysm] Update enchanted_boots.json (#67365)
 * Various link up fixes (#67376)
 * Hotfix: Fix persistent parents (#67367)
-* Fix smoking racks not consuming items (#67356)

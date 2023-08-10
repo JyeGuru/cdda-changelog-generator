@@ -1,3 +1,4 @@
+* [MoM] Fix Fountain of Flames ([#67584](https://github.com/CleverRaven/Cataclysm-DDA/pull/67584))
 * Recharge sulfur powder and make it not a comestible ([#67539](https://github.com/CleverRaven/Cataclysm-DDA/pull/67539))
 * [Aftershock] Adjust bionic toolkit qualities ([#67573](https://github.com/CleverRaven/Cataclysm-DDA/pull/67573))
 * Scroll one page when displaying item info ([#67576](https://github.com/CleverRaven/Cataclysm-DDA/pull/67576))
@@ -89,4 +90,3 @@
 * [Magiclysm] Update enchanted_boots.json ([#67365](https://github.com/CleverRaven/Cataclysm-DDA/pull/67365))
 * Various link up fixes ([#67376](https://github.com/CleverRaven/Cataclysm-DDA/pull/67376))
 * Hotfix: Fix persistent parents ([#67367](https://github.com/CleverRaven/Cataclysm-DDA/pull/67367))
-* Fix smoking racks not consuming items ([#67356](https://github.com/CleverRaven/Cataclysm-DDA/pull/67356))
