@@ -1,3 +1,4 @@
+* Mapgen: Add barber shop ([#67550](https://github.com/CleverRaven/Cataclysm-DDA/pull/67550))
 * Give the God's Chosen NPCs some anti-mutant dialogue ([#67525](https://github.com/CleverRaven/Cataclysm-DDA/pull/67525))
 * Update itemgroups.json ([#67557](https://github.com/CleverRaven/Cataclysm-DDA/pull/67557))
 * Into the *Typostorm ([#67548](https://github.com/CleverRaven/Cataclysm-DDA/pull/67548))
