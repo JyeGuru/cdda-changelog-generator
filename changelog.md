@@ -1,3 +1,4 @@
+* Prevent deleting furniture with grappling hook ([#67588](https://github.com/CleverRaven/Cataclysm-DDA/pull/67588))
 * Fix appliance power drain display right after plugging in/unplugging device ([#67562](https://github.com/CleverRaven/Cataclysm-DDA/pull/67562))
 * Fix scenario start dates ([#67579](https://github.com/CleverRaven/Cataclysm-DDA/pull/67579))
 * [MoM] Fix Fountain of Flames ([#67584](https://github.com/CleverRaven/Cataclysm-DDA/pull/67584))
