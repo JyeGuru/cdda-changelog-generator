@@ -86,7 +86,6 @@
 * Larger and more I18n-friendly safemode UI ([#67404](https://github.com/CleverRaven/Cataclysm-DDA/pull/67404))
 * Fix milling result and insert message ([#67407](https://github.com/CleverRaven/Cataclysm-DDA/pull/67407))
 * [ Xedra Evolved ] Blood Draw kit and vampires take 3 ([#67382](https://github.com/CleverRaven/Cataclysm-DDA/pull/67382))
-* update spear strap recipe to be more inline with its material type and description ([#67371](https://github.com/CleverRaven/Cataclysm-DDA/pull/67371))
 * Meds show portions in crafting menu ([#67397](https://github.com/CleverRaven/Cataclysm-DDA/pull/67397))
 * Fix bone broth and bone stuff being inedible ([#67392](https://github.com/CleverRaven/Cataclysm-DDA/pull/67392))
 * A bit better local files reading ([#67375](https://github.com/CleverRaven/Cataclysm-DDA/pull/67375))
