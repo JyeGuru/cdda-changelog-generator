@@ -1,3 +1,4 @@
+* Bugfix: Do not destroy items when climbing grappling hook ([#67585](https://github.com/CleverRaven/Cataclysm-DDA/pull/67585))
 * Scrollable item info in vending machine ui ([#67575](https://github.com/CleverRaven/Cataclysm-DDA/pull/67575))
 * Prevent deleting furniture with grappling hook ([#67588](https://github.com/CleverRaven/Cataclysm-DDA/pull/67588))
 * Fix appliance power drain display right after plugging in/unplugging device ([#67562](https://github.com/CleverRaven/Cataclysm-DDA/pull/67562))
@@ -90,4 +91,3 @@
 * Fix bone broth and bone stuff being inedible ([#67392](https://github.com/CleverRaven/Cataclysm-DDA/pull/67392))
 * A bit better local files reading ([#67375](https://github.com/CleverRaven/Cataclysm-DDA/pull/67375))
 * Various link up fixes ([#67376](https://github.com/CleverRaven/Cataclysm-DDA/pull/67376))
-* Hotfix: Fix persistent parents ([#67367](https://github.com/CleverRaven/Cataclysm-DDA/pull/67367))
