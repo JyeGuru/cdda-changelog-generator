@@ -1,3 +1,4 @@
+* Scrollable item info in vending machine ui ([#67575](https://github.com/CleverRaven/Cataclysm-DDA/pull/67575))
 * Prevent deleting furniture with grappling hook ([#67588](https://github.com/CleverRaven/Cataclysm-DDA/pull/67588))
 * Fix appliance power drain display right after plugging in/unplugging device ([#67562](https://github.com/CleverRaven/Cataclysm-DDA/pull/67562))
 * Fix scenario start dates ([#67579](https://github.com/CleverRaven/Cataclysm-DDA/pull/67579))
@@ -88,6 +89,5 @@
 * Meds show portions in crafting menu ([#67397](https://github.com/CleverRaven/Cataclysm-DDA/pull/67397))
 * Fix bone broth and bone stuff being inedible ([#67392](https://github.com/CleverRaven/Cataclysm-DDA/pull/67392))
 * A bit better local files reading ([#67375](https://github.com/CleverRaven/Cataclysm-DDA/pull/67375))
-* [Magiclysm] Update enchanted_boots.json ([#67365](https://github.com/CleverRaven/Cataclysm-DDA/pull/67365))
 * Various link up fixes ([#67376](https://github.com/CleverRaven/Cataclysm-DDA/pull/67376))
 * Hotfix: Fix persistent parents ([#67367](https://github.com/CleverRaven/Cataclysm-DDA/pull/67367))
