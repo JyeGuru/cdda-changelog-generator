@@ -1,3 +1,4 @@
+* Scrollbar for wish item menu ([#67582](https://github.com/CleverRaven/Cataclysm-DDA/pull/67582))
 * Routine i18n updates on 12 August 2023 ([#67610](https://github.com/CleverRaven/Cataclysm-DDA/pull/67610))
 * fix a spawn of nuts_bolts ([#67609](https://github.com/CleverRaven/Cataclysm-DDA/pull/67609))
 * Bugfix: Do not destroy items when climbing grappling hook ([#67585](https://github.com/CleverRaven/Cataclysm-DDA/pull/67585))
