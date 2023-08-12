@@ -1,3 +1,4 @@
+* JSONify Defense Mode ([#67526](https://github.com/CleverRaven/Cataclysm-DDA/pull/67526))
 * Begin giving Luo unique dialogue after recruitment ([#67561](https://github.com/CleverRaven/Cataclysm-DDA/pull/67561))
 * [CR] Fix "*_inf" item groups and check for unmigrated item spawns ([#67410](https://github.com/CleverRaven/Cataclysm-DDA/pull/67410))
 * Scrollbar for wish item menu ([#67582](https://github.com/CleverRaven/Cataclysm-DDA/pull/67582))
@@ -76,7 +77,6 @@
 * Fix comestible prices ([#67439](https://github.com/CleverRaven/Cataclysm-DDA/pull/67439))
 * Added Community Discord To Website ([#67428](https://github.com/CleverRaven/Cataclysm-DDA/pull/67428))
 * [MoM] Add newly-awakened psionic disciplines as hobbies ([#67418](https://github.com/CleverRaven/Cataclysm-DDA/pull/67418))
-* fix typo in photos.json ([#67387](https://github.com/CleverRaven/Cataclysm-DDA/pull/67387))
 * Rebalance some larger food loot groups to commercial kitchens ([#67414](https://github.com/CleverRaven/Cataclysm-DDA/pull/67414))
 * update reaper description for accuracy ([#67421](https://github.com/CleverRaven/Cataclysm-DDA/pull/67421))
 * Micro dialogue update 2: Uyen ([#67419](https://github.com/CleverRaven/Cataclysm-DDA/pull/67419))
