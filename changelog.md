@@ -1,3 +1,4 @@
+* Add transparency to some pockets ([#67606](https://github.com/CleverRaven/Cataclysm-DDA/pull/67606))
 * JSONify Defense Mode ([#67526](https://github.com/CleverRaven/Cataclysm-DDA/pull/67526))
 * Begin giving Luo unique dialogue after recruitment ([#67561](https://github.com/CleverRaven/Cataclysm-DDA/pull/67561))
 * [CR] Fix "*_inf" item groups and check for unmigrated item spawns ([#67410](https://github.com/CleverRaven/Cataclysm-DDA/pull/67410))
@@ -90,4 +91,3 @@
 * Larger and more I18n-friendly safemode UI ([#67404](https://github.com/CleverRaven/Cataclysm-DDA/pull/67404))
 * Fix milling result and insert message ([#67407](https://github.com/CleverRaven/Cataclysm-DDA/pull/67407))
 * Meds show portions in crafting menu ([#67397](https://github.com/CleverRaven/Cataclysm-DDA/pull/67397))
-* Fix bone broth and bone stuff being inedible ([#67392](https://github.com/CleverRaven/Cataclysm-DDA/pull/67392))
