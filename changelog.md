@@ -1,3 +1,4 @@
+* Routine i18n updates on 12 August 2023 ([#67610](https://github.com/CleverRaven/Cataclysm-DDA/pull/67610))
 * fix a spawn of nuts_bolts ([#67609](https://github.com/CleverRaven/Cataclysm-DDA/pull/67609))
 * Bugfix: Do not destroy items when climbing grappling hook ([#67585](https://github.com/CleverRaven/Cataclysm-DDA/pull/67585))
 * Scrollable item info in vending machine ui ([#67575](https://github.com/CleverRaven/Cataclysm-DDA/pull/67575))
@@ -89,4 +90,3 @@
 * [ Xedra Evolved ] Blood Draw kit and vampires take 3 ([#67382](https://github.com/CleverRaven/Cataclysm-DDA/pull/67382))
 * Meds show portions in crafting menu ([#67397](https://github.com/CleverRaven/Cataclysm-DDA/pull/67397))
 * Fix bone broth and bone stuff being inedible ([#67392](https://github.com/CleverRaven/Cataclysm-DDA/pull/67392))
-* Various link up fixes ([#67376](https://github.com/CleverRaven/Cataclysm-DDA/pull/67376))
