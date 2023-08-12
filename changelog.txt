@@ -1,3 +1,4 @@
+* make coal its own ammotype (#67621)
 * Add transparency to some pockets (#67606)
 * JSONify Defense Mode (#67526)
 * Begin giving Luo unique dialogue after recruitment (#67561)
@@ -82,7 +83,6 @@
 * update reaper description for accuracy (#67421)
 * Micro dialogue update 2: Uyen (#67419)
 * Micro dialogue update 3: Mandeep (#67424)
-* XL sized ballistic vests (#67395)
 * Overconfident officers drop their guns 100% of the time (#67409)
 * Micro dialogue update 1: Jenny (#67413)
 * Improve performance of recipe::create_results (#67408)
