@@ -1,3 +1,4 @@
+* Shorten brigandine.json with replace_materials ([#67616](https://github.com/CleverRaven/Cataclysm-DDA/pull/67616))
 * make coal its own ammotype ([#67621](https://github.com/CleverRaven/Cataclysm-DDA/pull/67621))
 * Add transparency to some pockets ([#67606](https://github.com/CleverRaven/Cataclysm-DDA/pull/67606))
 * JSONify Defense Mode ([#67526](https://github.com/CleverRaven/Cataclysm-DDA/pull/67526))
@@ -86,7 +87,6 @@
 * Overconfident officers drop their guns 100% of the time ([#67409](https://github.com/CleverRaven/Cataclysm-DDA/pull/67409))
 * Micro dialogue update 1: Jenny ([#67413](https://github.com/CleverRaven/Cataclysm-DDA/pull/67413))
 * Improve performance of recipe::create_results ([#67408](https://github.com/CleverRaven/Cataclysm-DDA/pull/67408))
-* Allow roach dirt to make liquid fertilizer ([#67396](https://github.com/CleverRaven/Cataclysm-DDA/pull/67396))
 * AIM: Make navigation feel faster by fewer sidebar updates ([#67403](https://github.com/CleverRaven/Cataclysm-DDA/pull/67403))
 * Larger and more I18n-friendly safemode UI ([#67404](https://github.com/CleverRaven/Cataclysm-DDA/pull/67404))
 * Fix milling result and insert message ([#67407](https://github.com/CleverRaven/Cataclysm-DDA/pull/67407))
