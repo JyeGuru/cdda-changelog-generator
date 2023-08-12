@@ -1,3 +1,4 @@
+* fix a spawn of nuts_bolts ([#67609](https://github.com/CleverRaven/Cataclysm-DDA/pull/67609))
 * Bugfix: Do not destroy items when climbing grappling hook ([#67585](https://github.com/CleverRaven/Cataclysm-DDA/pull/67585))
 * Scrollable item info in vending machine ui ([#67575](https://github.com/CleverRaven/Cataclysm-DDA/pull/67575))
 * Prevent deleting furniture with grappling hook ([#67588](https://github.com/CleverRaven/Cataclysm-DDA/pull/67588))
@@ -88,5 +89,4 @@
 * [ Xedra Evolved ] Blood Draw kit and vampires take 3 ([#67382](https://github.com/CleverRaven/Cataclysm-DDA/pull/67382))
 * Meds show portions in crafting menu ([#67397](https://github.com/CleverRaven/Cataclysm-DDA/pull/67397))
 * Fix bone broth and bone stuff being inedible ([#67392](https://github.com/CleverRaven/Cataclysm-DDA/pull/67392))
-* A bit better local files reading ([#67375](https://github.com/CleverRaven/Cataclysm-DDA/pull/67375))
 * Various link up fixes ([#67376](https://github.com/CleverRaven/Cataclysm-DDA/pull/67376))
