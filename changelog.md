@@ -1,3 +1,4 @@
+* Begin giving Luo unique dialogue after recruitment ([#67561](https://github.com/CleverRaven/Cataclysm-DDA/pull/67561))
 * [CR] Fix "*_inf" item groups and check for unmigrated item spawns ([#67410](https://github.com/CleverRaven/Cataclysm-DDA/pull/67410))
 * Scrollbar for wish item menu ([#67582](https://github.com/CleverRaven/Cataclysm-DDA/pull/67582))
 * Routine i18n updates on 12 August 2023 ([#67610](https://github.com/CleverRaven/Cataclysm-DDA/pull/67610))
@@ -65,7 +66,6 @@
 * Nerf police armories a second time ([#67449](https://github.com/CleverRaven/Cataclysm-DDA/pull/67449))
 * Fix bionics not displaying units when power is too low to use bionic ([#67417](https://github.com/CleverRaven/Cataclysm-DDA/pull/67417))
 * Another Typo, Another PR ([#67440](https://github.com/CleverRaven/Cataclysm-DDA/pull/67440))
-* carpet construction is easier ([#67383](https://github.com/CleverRaven/Cataclysm-DDA/pull/67383))
 * [BombPerks] Attack speed perk for chainsaws & other powered blades(& a typo) ([#67398](https://github.com/CleverRaven/Cataclysm-DDA/pull/67398))
 * [Aftershock] Pad Aftershock items ([#67401](https://github.com/CleverRaven/Cataclysm-DDA/pull/67401))
 * correct cannabis seeds calories ([#67432](https://github.com/CleverRaven/Cataclysm-DDA/pull/67432))
