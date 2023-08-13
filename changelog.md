@@ -1,3 +1,4 @@
+* Fix doc for recipe charges ([#67632](https://github.com/CleverRaven/Cataclysm-DDA/pull/67632))
 * Shorten other graded armor with replace_materials ([#67624](https://github.com/CleverRaven/Cataclysm-DDA/pull/67624))
 * Shorten torso_armor.json with replace_materials ([#67618](https://github.com/CleverRaven/Cataclysm-DDA/pull/67618))
 * Shorten helmets.json with replace_materials ([#67623](https://github.com/CleverRaven/Cataclysm-DDA/pull/67623))
@@ -88,5 +89,4 @@
 * Overconfident officers drop their guns 100% of the time ([#67409](https://github.com/CleverRaven/Cataclysm-DDA/pull/67409))
 * Micro dialogue update 1: Jenny ([#67413](https://github.com/CleverRaven/Cataclysm-DDA/pull/67413))
 * Improve performance of recipe::create_results ([#67408](https://github.com/CleverRaven/Cataclysm-DDA/pull/67408))
-* Larger and more I18n-friendly safemode UI ([#67404](https://github.com/CleverRaven/Cataclysm-DDA/pull/67404))
 * Fix milling result and insert message ([#67407](https://github.com/CleverRaven/Cataclysm-DDA/pull/67407))
