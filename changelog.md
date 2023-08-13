@@ -72,7 +72,6 @@
 * Nerf police armories a second time ([#67449](https://github.com/CleverRaven/Cataclysm-DDA/pull/67449))
 * Fix bionics not displaying units when power is too low to use bionic ([#67417](https://github.com/CleverRaven/Cataclysm-DDA/pull/67417))
 * Another Typo, Another PR ([#67440](https://github.com/CleverRaven/Cataclysm-DDA/pull/67440))
-* [Aftershock] Pad Aftershock items ([#67401](https://github.com/CleverRaven/Cataclysm-DDA/pull/67401))
 * correct cannabis seeds calories ([#67432](https://github.com/CleverRaven/Cataclysm-DDA/pull/67432))
 * Remove the use of data cards ([#67437](https://github.com/CleverRaven/Cataclysm-DDA/pull/67437))
 * Fix typos in new photos.json snippets ([#67438](https://github.com/CleverRaven/Cataclysm-DDA/pull/67438))

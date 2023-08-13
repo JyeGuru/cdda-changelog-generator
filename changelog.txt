@@ -72,7 +72,6 @@
 * Nerf police armories a second time (#67449)
 * Fix bionics not displaying units when power is too low to use bionic (#67417)
 * Another Typo, Another PR (#67440)
-* [Aftershock] Pad Aftershock items (#67401)
 * correct cannabis seeds calories (#67432)
 * Remove the use of data cards (#67437)
 * Fix typos in new photos.json snippets (#67438)
