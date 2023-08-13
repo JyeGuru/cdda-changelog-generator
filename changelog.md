@@ -89,4 +89,3 @@
 * Micro dialogue update 3: Mandeep ([#67424](https://github.com/CleverRaven/Cataclysm-DDA/pull/67424))
 * Overconfident officers drop their guns 100% of the time ([#67409](https://github.com/CleverRaven/Cataclysm-DDA/pull/67409))
 * Micro dialogue update 1: Jenny ([#67413](https://github.com/CleverRaven/Cataclysm-DDA/pull/67413))
-* Improve performance of recipe::create_results ([#67408](https://github.com/CleverRaven/Cataclysm-DDA/pull/67408))
