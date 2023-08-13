@@ -1,3 +1,4 @@
+* Shorten torso_armor.json with replace_materials ([#67618](https://github.com/CleverRaven/Cataclysm-DDA/pull/67618))
 * Shorten helmets.json with replace_materials ([#67623](https://github.com/CleverRaven/Cataclysm-DDA/pull/67623))
 * Shorten gloves.json with replace_materials ([#67622](https://github.com/CleverRaven/Cataclysm-DDA/pull/67622))
 * Shorten brigandine.json with replace_materials ([#67616](https://github.com/CleverRaven/Cataclysm-DDA/pull/67616))
@@ -52,7 +53,6 @@
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction ([#67514](https://github.com/CleverRaven/Cataclysm-DDA/pull/67514))
 * Update simple string condition keys in string extractor and fix some string extraction warnings ([#67475](https://github.com/CleverRaven/Cataclysm-DDA/pull/67475))
 * Cache nutrient results for recipes while calculating nutrient range for food info ([#67474](https://github.com/CleverRaven/Cataclysm-DDA/pull/67474))
-* [MoM] New powers, part 3 ([#67399](https://github.com/CleverRaven/Cataclysm-DDA/pull/67399))
 * Canceling "save zone" query returns you to zone manager instead of discarding changes ([#67476](https://github.com/CleverRaven/Cataclysm-DDA/pull/67476))
 * Crafting menu shows furniture qualities ([#67490](https://github.com/CleverRaven/Cataclysm-DDA/pull/67490))
 * Map Editor displays ter_str_id/furn_str_id instead of names ([#67493](https://github.com/CleverRaven/Cataclysm-DDA/pull/67493))
