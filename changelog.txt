@@ -1,3 +1,4 @@
+* Fix component distribution error false positives for a bunch of recipes (#67633)
 * Shorten legs_armor.json with replace_materials (#67619)
 * fix: correct data fetching in ci workflow (#67643)
 * Add electronics control unit to Street-Legal Dirt Bike (#67617)
