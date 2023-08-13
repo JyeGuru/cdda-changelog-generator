@@ -1,3 +1,4 @@
+* fix: correct data fetching in ci workflow ([#67643](https://github.com/CleverRaven/Cataclysm-DDA/pull/67643))
 * Add electronics control unit to Street-Legal Dirt Bike ([#67617](https://github.com/CleverRaven/Cataclysm-DDA/pull/67617))
 * Add more things to Defense Mode ([#67626](https://github.com/CleverRaven/Cataclysm-DDA/pull/67626))
 * Add in two more bronze tools ([#67637](https://github.com/CleverRaven/Cataclysm-DDA/pull/67637))
@@ -88,4 +89,3 @@
 * update reaper description for accuracy ([#67421](https://github.com/CleverRaven/Cataclysm-DDA/pull/67421))
 * Micro dialogue update 2: Uyen ([#67419](https://github.com/CleverRaven/Cataclysm-DDA/pull/67419))
 * Micro dialogue update 3: Mandeep ([#67424](https://github.com/CleverRaven/Cataclysm-DDA/pull/67424))
-* Micro dialogue update 1: Jenny ([#67413](https://github.com/CleverRaven/Cataclysm-DDA/pull/67413))
