@@ -1,3 +1,4 @@
+* Add more things to Defense Mode ([#67626](https://github.com/CleverRaven/Cataclysm-DDA/pull/67626))
 * Add in two more bronze tools ([#67637](https://github.com/CleverRaven/Cataclysm-DDA/pull/67637))
 * Fix scenario start test data ([#67636](https://github.com/CleverRaven/Cataclysm-DDA/pull/67636))
 * Apply defense mode label only to things in defense mode mod folder ([#67639](https://github.com/CleverRaven/Cataclysm-DDA/pull/67639))
@@ -11,7 +12,6 @@
 * Add transparency to some pockets ([#67606](https://github.com/CleverRaven/Cataclysm-DDA/pull/67606))
 * JSONify Defense Mode ([#67526](https://github.com/CleverRaven/Cataclysm-DDA/pull/67526))
 * Begin giving Luo unique dialogue after recruitment ([#67561](https://github.com/CleverRaven/Cataclysm-DDA/pull/67561))
-* [CR] Fix "*_inf" item groups and check for unmigrated item spawns ([#67410](https://github.com/CleverRaven/Cataclysm-DDA/pull/67410))
 * Scrollbar for wish item menu ([#67582](https://github.com/CleverRaven/Cataclysm-DDA/pull/67582))
 * Routine i18n updates on 12 August 2023 ([#67610](https://github.com/CleverRaven/Cataclysm-DDA/pull/67610))
 * fix a spawn of nuts_bolts ([#67609](https://github.com/CleverRaven/Cataclysm-DDA/pull/67609))
