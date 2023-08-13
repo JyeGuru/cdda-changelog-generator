@@ -1,3 +1,4 @@
+* Add in two more bronze tools ([#67637](https://github.com/CleverRaven/Cataclysm-DDA/pull/67637))
 * Fix scenario start test data ([#67636](https://github.com/CleverRaven/Cataclysm-DDA/pull/67636))
 * Apply defense mode label only to things in defense mode mod folder ([#67639](https://github.com/CleverRaven/Cataclysm-DDA/pull/67639))
 * Fix doc for recipe charges ([#67632](https://github.com/CleverRaven/Cataclysm-DDA/pull/67632))
@@ -87,5 +88,4 @@
 * update reaper description for accuracy ([#67421](https://github.com/CleverRaven/Cataclysm-DDA/pull/67421))
 * Micro dialogue update 2: Uyen ([#67419](https://github.com/CleverRaven/Cataclysm-DDA/pull/67419))
 * Micro dialogue update 3: Mandeep ([#67424](https://github.com/CleverRaven/Cataclysm-DDA/pull/67424))
-* Overconfident officers drop their guns 100% of the time ([#67409](https://github.com/CleverRaven/Cataclysm-DDA/pull/67409))
 * Micro dialogue update 1: Jenny ([#67413](https://github.com/CleverRaven/Cataclysm-DDA/pull/67413))
