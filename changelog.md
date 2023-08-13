@@ -1,3 +1,4 @@
+* Add electronics control unit to Street-Legal Dirt Bike ([#67617](https://github.com/CleverRaven/Cataclysm-DDA/pull/67617))
 * Add more things to Defense Mode ([#67626](https://github.com/CleverRaven/Cataclysm-DDA/pull/67626))
 * Add in two more bronze tools ([#67637](https://github.com/CleverRaven/Cataclysm-DDA/pull/67637))
 * Fix scenario start test data ([#67636](https://github.com/CleverRaven/Cataclysm-DDA/pull/67636))
@@ -72,7 +73,6 @@
 * [Sky Island] difficulty selector fix ([#67462](https://github.com/CleverRaven/Cataclysm-DDA/pull/67462))
 * Fix cable respooling crash ([#67460](https://github.com/CleverRaven/Cataclysm-DDA/pull/67460))
 * Routine i18n updates on 05 August 2023 ([#67452](https://github.com/CleverRaven/Cataclysm-DDA/pull/67452))
-* More granularity and higher levels in backgrounds ([#67412](https://github.com/CleverRaven/Cataclysm-DDA/pull/67412))
 * Nerf police armories a second time ([#67449](https://github.com/CleverRaven/Cataclysm-DDA/pull/67449))
 * Fix bionics not displaying units when power is too low to use bionic ([#67417](https://github.com/CleverRaven/Cataclysm-DDA/pull/67417))
 * Another Typo, Another PR ([#67440](https://github.com/CleverRaven/Cataclysm-DDA/pull/67440))
