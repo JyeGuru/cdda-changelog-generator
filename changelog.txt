@@ -1,3 +1,5 @@
+* Fix scenario start test data (#67636)
+* Apply defense mode label only to things in defense mode mod folder (#67639)
 * Fix doc for recipe charges (#67632)
 * Shorten other graded armor with replace_materials (#67624)
 * Shorten torso_armor.json with replace_materials (#67618)
@@ -63,7 +65,6 @@
 * [Sky Island] Stat stone fix (#67507)
 * Add additional refrigerated tanks (#67465)
 * Add pinecone to tinder recipes requiring cutting tools (#67491)
-* Low-tech weather tools! (#67406)
 * fix bp fouling rusting (again) (#67463)
 * Slightly improve crafting menu food tab performance (#67466)
 * Adds proper one lane nests for the rest stop/layby (#67459)
@@ -89,4 +90,3 @@
 * Overconfident officers drop their guns 100% of the time (#67409)
 * Micro dialogue update 1: Jenny (#67413)
 * Improve performance of recipe::create_results (#67408)
-* Fix milling result and insert message (#67407)
