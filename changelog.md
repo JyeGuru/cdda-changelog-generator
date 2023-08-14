@@ -1,3 +1,4 @@
+* More price audits ([#67647](https://github.com/CleverRaven/Cataclysm-DDA/pull/67647))
 * Fix component distribution error false positives for a bunch of recipes ([#67633](https://github.com/CleverRaven/Cataclysm-DDA/pull/67633))
 * Shorten legs_armor.json with replace_materials ([#67619](https://github.com/CleverRaven/Cataclysm-DDA/pull/67619))
 * fix: correct data fetching in ci workflow ([#67643](https://github.com/CleverRaven/Cataclysm-DDA/pull/67643))
@@ -83,7 +84,6 @@
 * Remove the use of data cards ([#67437](https://github.com/CleverRaven/Cataclysm-DDA/pull/67437))
 * Fix typos in new photos.json snippets ([#67438](https://github.com/CleverRaven/Cataclysm-DDA/pull/67438))
 * Improve turn performance when having many solar panels ([#67441](https://github.com/CleverRaven/Cataclysm-DDA/pull/67441))
-* [MoM] Fix zombie telepathic stuns ([#67416](https://github.com/CleverRaven/Cataclysm-DDA/pull/67416))
 * Fix comestible prices ([#67439](https://github.com/CleverRaven/Cataclysm-DDA/pull/67439))
 * Added Community Discord To Website ([#67428](https://github.com/CleverRaven/Cataclysm-DDA/pull/67428))
 * [MoM] Add newly-awakened psionic disciplines as hobbies ([#67418](https://github.com/CleverRaven/Cataclysm-DDA/pull/67418))
