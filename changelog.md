@@ -1,3 +1,4 @@
+* [MoM] New powers part 4 ([#67604](https://github.com/CleverRaven/Cataclysm-DDA/pull/67604))
 * More price audits ([#67647](https://github.com/CleverRaven/Cataclysm-DDA/pull/67647))
 * Fix component distribution error false positives for a bunch of recipes ([#67633](https://github.com/CleverRaven/Cataclysm-DDA/pull/67633))
 * Shorten legs_armor.json with replace_materials ([#67619](https://github.com/CleverRaven/Cataclysm-DDA/pull/67619))
@@ -78,7 +79,6 @@
 * Fix cable respooling crash ([#67460](https://github.com/CleverRaven/Cataclysm-DDA/pull/67460))
 * Routine i18n updates on 05 August 2023 ([#67452](https://github.com/CleverRaven/Cataclysm-DDA/pull/67452))
 * Nerf police armories a second time ([#67449](https://github.com/CleverRaven/Cataclysm-DDA/pull/67449))
-* Fix bionics not displaying units when power is too low to use bionic ([#67417](https://github.com/CleverRaven/Cataclysm-DDA/pull/67417))
 * Another Typo, Another PR ([#67440](https://github.com/CleverRaven/Cataclysm-DDA/pull/67440))
 * correct cannabis seeds calories ([#67432](https://github.com/CleverRaven/Cataclysm-DDA/pull/67432))
 * Remove the use of data cards ([#67437](https://github.com/CleverRaven/Cataclysm-DDA/pull/67437))
