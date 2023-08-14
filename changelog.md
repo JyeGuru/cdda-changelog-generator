@@ -1,3 +1,4 @@
+* Create base_colors-catppuccin.json ([#67660](https://github.com/CleverRaven/Cataclysm-DDA/pull/67660))
 * Obsolete ``mil_hw`` itemgroup ([#67646](https://github.com/CleverRaven/Cataclysm-DDA/pull/67646))
 * Weekly Changelog 2023-07-31 to 2023-08-07 ([#67496](https://github.com/CleverRaven/Cataclysm-DDA/pull/67496))
 * [MoM] New powers part 4 ([#67604](https://github.com/CleverRaven/Cataclysm-DDA/pull/67604))
@@ -88,4 +89,3 @@
 * Improve turn performance when having many solar panels ([#67441](https://github.com/CleverRaven/Cataclysm-DDA/pull/67441))
 * Fix comestible prices ([#67439](https://github.com/CleverRaven/Cataclysm-DDA/pull/67439))
 * Added Community Discord To Website ([#67428](https://github.com/CleverRaven/Cataclysm-DDA/pull/67428))
-* Micro dialogue update 3: Mandeep ([#67424](https://github.com/CleverRaven/Cataclysm-DDA/pull/67424))
