@@ -1,3 +1,4 @@
+* Balance nether waves in Defense Mode ([#67664](https://github.com/CleverRaven/Cataclysm-DDA/pull/67664))
 * Create base_colors-catppuccin.json ([#67660](https://github.com/CleverRaven/Cataclysm-DDA/pull/67660))
 * Obsolete ``mil_hw`` itemgroup ([#67646](https://github.com/CleverRaven/Cataclysm-DDA/pull/67646))
 * Weekly Changelog 2023-07-31 to 2023-08-07 ([#67496](https://github.com/CleverRaven/Cataclysm-DDA/pull/67496))
@@ -88,4 +89,3 @@
 * Fix typos in new photos.json snippets ([#67438](https://github.com/CleverRaven/Cataclysm-DDA/pull/67438))
 * Improve turn performance when having many solar panels ([#67441](https://github.com/CleverRaven/Cataclysm-DDA/pull/67441))
 * Fix comestible prices ([#67439](https://github.com/CleverRaven/Cataclysm-DDA/pull/67439))
-* Added Community Discord To Website ([#67428](https://github.com/CleverRaven/Cataclysm-DDA/pull/67428))

@@ -1,3 +1,4 @@
+* Balance nether waves in Defense Mode (#67664)
 * Create base_colors-catppuccin.json (#67660)
 * Obsolete ``mil_hw`` itemgroup (#67646)
 * Weekly Changelog 2023-07-31 to 2023-08-07 (#67496)
@@ -88,4 +89,3 @@
 * Fix typos in new photos.json snippets (#67438)
 * Improve turn performance when having many solar panels (#67441)
 * Fix comestible prices (#67439)
-* Added Community Discord To Website (#67428)
