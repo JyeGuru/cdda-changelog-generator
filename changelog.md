@@ -1,3 +1,4 @@
+* New characters start with basic life skills ([#67663](https://github.com/CleverRaven/Cataclysm-DDA/pull/67663))
 * Obsolete RPG-7 and trim zombie survivor launchers item group ([#67657](https://github.com/CleverRaven/Cataclysm-DDA/pull/67657))
 * [MoM] Snippetathon and reorganize itemgroups ([#67587](https://github.com/CleverRaven/Cataclysm-DDA/pull/67587))
 * Revamp of s_gunstore mapgen ([#67644](https://github.com/CleverRaven/Cataclysm-DDA/pull/67644))
@@ -88,4 +89,3 @@
 * Nerf police armories a second time ([#67449](https://github.com/CleverRaven/Cataclysm-DDA/pull/67449))
 * Another Typo, Another PR ([#67440](https://github.com/CleverRaven/Cataclysm-DDA/pull/67440))
 * Improve turn performance when having many solar panels ([#67441](https://github.com/CleverRaven/Cataclysm-DDA/pull/67441))
-* Fix comestible prices ([#67439](https://github.com/CleverRaven/Cataclysm-DDA/pull/67439))
