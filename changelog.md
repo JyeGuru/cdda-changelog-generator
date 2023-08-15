@@ -1,3 +1,4 @@
+* add in new item category and zones: corpses ([#67640](https://github.com/CleverRaven/Cataclysm-DDA/pull/67640))
 * fix smoking racks delete calories ([#67642](https://github.com/CleverRaven/Cataclysm-DDA/pull/67642))
 * minor cleanup of item spawning code ([#67661](https://github.com/CleverRaven/Cataclysm-DDA/pull/67661))
 * New characters start with basic life skills ([#67663](https://github.com/CleverRaven/Cataclysm-DDA/pull/67663))
@@ -88,4 +89,3 @@
 * [Sky Island] difficulty selector fix ([#67462](https://github.com/CleverRaven/Cataclysm-DDA/pull/67462))
 * Fix cable respooling crash ([#67460](https://github.com/CleverRaven/Cataclysm-DDA/pull/67460))
 * Routine i18n updates on 05 August 2023 ([#67452](https://github.com/CleverRaven/Cataclysm-DDA/pull/67452))
-* Nerf police armories a second time ([#67449](https://github.com/CleverRaven/Cataclysm-DDA/pull/67449))
