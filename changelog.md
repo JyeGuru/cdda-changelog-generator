@@ -1,3 +1,4 @@
+* Properly mark few strings for translation in vehicle_use.cpp ([#67724](https://github.com/CleverRaven/Cataclysm-DDA/pull/67724))
 * Add some mod compatibility to Defense Mode ([#67656](https://github.com/CleverRaven/Cataclysm-DDA/pull/67656))
 * Update conditional_names for fruit&veggy ([#67708](https://github.com/CleverRaven/Cataclysm-DDA/pull/67708))
 * Make Windows build warning free. ([#67715](https://github.com/CleverRaven/Cataclysm-DDA/pull/67715))
@@ -77,7 +78,6 @@
 * [MoM] Fix teleportocalypse ([#67540](https://github.com/CleverRaven/Cataclysm-DDA/pull/67540))
 * decrease frequency of tileset updates ([#67499](https://github.com/CleverRaven/Cataclysm-DDA/pull/67499))
 * Fix radio modded explosives ([#67534](https://github.com/CleverRaven/Cataclysm-DDA/pull/67534))
-* Enable/disable showing several non-player-related messages in the log ([#67494](https://github.com/CleverRaven/Cataclysm-DDA/pull/67494))
 * Fix component distribution errors for crafted food ([#67530](https://github.com/CleverRaven/Cataclysm-DDA/pull/67530))
 * [MoM] Add VERDANT HAND Combat Protocol (try 2) ([#67523](https://github.com/CleverRaven/Cataclysm-DDA/pull/67523))
 * Flesh out the Free Merchant representative for the God's Chosen ([#67501](https://github.com/CleverRaven/Cataclysm-DDA/pull/67501))
