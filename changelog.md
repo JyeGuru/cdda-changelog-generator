@@ -1,3 +1,4 @@
+* Reduce some yields of seeds for pumpkin/hemp/sunflower ([#67711](https://github.com/CleverRaven/Cataclysm-DDA/pull/67711))
 * "om_terrain_match_type": "SUBTYPE" ([#67697](https://github.com/CleverRaven/Cataclysm-DDA/pull/67697))
 * Make Yrax Trifacet untameable ([#67705](https://github.com/CleverRaven/Cataclysm-DDA/pull/67705))
 * Makes rest stop/turnout/scenic area/layby vehicles considerably less common ([#67673](https://github.com/CleverRaven/Cataclysm-DDA/pull/67673))
@@ -82,7 +83,6 @@
 * Cotton sheet folded seat isn't repaired with welding but sewing ([#67500](https://github.com/CleverRaven/Cataclysm-DDA/pull/67500))
 * Allow installing and removing bionics through debug menu ([#67512](https://github.com/CleverRaven/Cataclysm-DDA/pull/67512))
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction ([#67514](https://github.com/CleverRaven/Cataclysm-DDA/pull/67514))
-* Canceling "save zone" query returns you to zone manager instead of discarding changes ([#67476](https://github.com/CleverRaven/Cataclysm-DDA/pull/67476))
 * Crafting menu shows furniture qualities ([#67490](https://github.com/CleverRaven/Cataclysm-DDA/pull/67490))
 * Map Editor displays ter_str_id/furn_str_id instead of names ([#67493](https://github.com/CleverRaven/Cataclysm-DDA/pull/67493))
 * [MoM] Intensify center of Quell Fire mist ([#67504](https://github.com/CleverRaven/Cataclysm-DDA/pull/67504))
