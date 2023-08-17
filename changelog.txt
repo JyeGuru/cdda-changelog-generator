@@ -1,3 +1,4 @@
+* Fix some bugs with Defense Mode (#67716)
 * Properly mark few strings for translation in vehicle_use.cpp (#67724)
 * Add some mod compatibility to Defense Mode (#67656)
 * Update conditional_names for fruit&veggy (#67708)
@@ -28,7 +29,6 @@
 * Balance nether waves in Defense Mode (#67664)
 * Create base_colors-catppuccin.json (#67660)
 * Obsolete ``mil_hw`` itemgroup (#67646)
-* Weekly Changelog 2023-07-31 to 2023-08-07 (#67496)
 * [MoM] New powers part 4 (#67604)
 * More price audits (#67647)
 * Fix component distribution error false positives for a bunch of recipes (#67633)
