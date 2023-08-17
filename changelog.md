@@ -1,3 +1,4 @@
+* [MoM] Revamp crystal fields and nether crystal map extra ([#67694](https://github.com/CleverRaven/Cataclysm-DDA/pull/67694))
 * Reduce some yields of seeds for pumpkin/hemp/sunflower ([#67711](https://github.com/CleverRaven/Cataclysm-DDA/pull/67711))
 * "om_terrain_match_type": "SUBTYPE" ([#67697](https://github.com/CleverRaven/Cataclysm-DDA/pull/67697))
 * Make Yrax Trifacet untameable ([#67705](https://github.com/CleverRaven/Cataclysm-DDA/pull/67705))
