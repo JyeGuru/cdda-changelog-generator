@@ -1,3 +1,4 @@
+* Add some mod compatibility to Defense Mode ([#67656](https://github.com/CleverRaven/Cataclysm-DDA/pull/67656))
 * Update conditional_names for fruit&veggy ([#67708](https://github.com/CleverRaven/Cataclysm-DDA/pull/67708))
 * Make Windows build warning free. ([#67715](https://github.com/CleverRaven/Cataclysm-DDA/pull/67715))
 * More easy eoc optimizations shaving another 20% out of npc heavy eoc checks ([#67714](https://github.com/CleverRaven/Cataclysm-DDA/pull/67714))
@@ -86,7 +87,6 @@
 * Cotton sheet folded seat isn't repaired with welding but sewing ([#67500](https://github.com/CleverRaven/Cataclysm-DDA/pull/67500))
 * Allow installing and removing bionics through debug menu ([#67512](https://github.com/CleverRaven/Cataclysm-DDA/pull/67512))
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction ([#67514](https://github.com/CleverRaven/Cataclysm-DDA/pull/67514))
-* Map Editor displays ter_str_id/furn_str_id instead of names ([#67493](https://github.com/CleverRaven/Cataclysm-DDA/pull/67493))
 * [MoM] Intensify center of Quell Fire mist ([#67504](https://github.com/CleverRaven/Cataclysm-DDA/pull/67504))
 * Vehicle interaction to start at point of examination ([#67509](https://github.com/CleverRaven/Cataclysm-DDA/pull/67509))
 * [Sky Island] Stat stone fix ([#67507](https://github.com/CleverRaven/Cataclysm-DDA/pull/67507))
