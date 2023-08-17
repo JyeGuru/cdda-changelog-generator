@@ -1,3 +1,4 @@
+* Update conditional_names for fruit&veggy ([#67708](https://github.com/CleverRaven/Cataclysm-DDA/pull/67708))
 * Make Windows build warning free. ([#67715](https://github.com/CleverRaven/Cataclysm-DDA/pull/67715))
 * More easy eoc optimizations shaving another 20% out of npc heavy eoc checks ([#67714](https://github.com/CleverRaven/Cataclysm-DDA/pull/67714))
 * [MoM] Revamp crystal fields and nether crystal map extra ([#67694](https://github.com/CleverRaven/Cataclysm-DDA/pull/67694))
@@ -89,4 +90,3 @@
 * [MoM] Intensify center of Quell Fire mist ([#67504](https://github.com/CleverRaven/Cataclysm-DDA/pull/67504))
 * Vehicle interaction to start at point of examination ([#67509](https://github.com/CleverRaven/Cataclysm-DDA/pull/67509))
 * [Sky Island] Stat stone fix ([#67507](https://github.com/CleverRaven/Cataclysm-DDA/pull/67507))
-* Add pinecone to tinder recipes requiring cutting tools ([#67491](https://github.com/CleverRaven/Cataclysm-DDA/pull/67491))
