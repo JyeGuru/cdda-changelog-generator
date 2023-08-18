@@ -86,6 +86,5 @@
 * [MoM] Add VERDANT HAND Combat Protocol (try 2) ([#67523](https://github.com/CleverRaven/Cataclysm-DDA/pull/67523))
 * Allow installing and removing bionics through debug menu ([#67512](https://github.com/CleverRaven/Cataclysm-DDA/pull/67512))
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction ([#67514](https://github.com/CleverRaven/Cataclysm-DDA/pull/67514))
-* [MoM] Intensify center of Quell Fire mist ([#67504](https://github.com/CleverRaven/Cataclysm-DDA/pull/67504))
 * Vehicle interaction to start at point of examination ([#67509](https://github.com/CleverRaven/Cataclysm-DDA/pull/67509))
 * [Sky Island] Stat stone fix ([#67507](https://github.com/CleverRaven/Cataclysm-DDA/pull/67507))
