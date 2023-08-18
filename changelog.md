@@ -87,4 +87,3 @@
 * Allow installing and removing bionics through debug menu ([#67512](https://github.com/CleverRaven/Cataclysm-DDA/pull/67512))
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction ([#67514](https://github.com/CleverRaven/Cataclysm-DDA/pull/67514))
 * Vehicle interaction to start at point of examination ([#67509](https://github.com/CleverRaven/Cataclysm-DDA/pull/67509))
-* [Sky Island] Stat stone fix ([#67507](https://github.com/CleverRaven/Cataclysm-DDA/pull/67507))
