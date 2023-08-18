@@ -1,3 +1,4 @@
+* Arcade machine emits dim light (#67658)
 * Add Megafauna cross-compatibility to Defense Mode (#67670)
 * Use llvm tools to cut windows build noop critical path by 85% or more (#67628)
 * FIx various clang warnings (#67733)
@@ -84,7 +85,6 @@
 * Fix component distribution errors for crafted food (#67530)
 * [MoM] Add VERDANT HAND Combat Protocol (try 2) (#67523)
 * [MoM] Mind Over Matter-specific Research facility overhaul (#67503)
-* Account for barrel assembly in CZ 600 Trail's weight (#67502)
 * Allow installing and removing bionics through debug menu (#67512)
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction (#67514)
 * [MoM] Intensify center of Quell Fire mist (#67504)
