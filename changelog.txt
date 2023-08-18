@@ -84,7 +84,6 @@
 * Fix radio modded explosives (#67534)
 * Fix component distribution errors for crafted food (#67530)
 * [MoM] Add VERDANT HAND Combat Protocol (try 2) (#67523)
-* [MoM] Mind Over Matter-specific Research facility overhaul (#67503)
 * Allow installing and removing bionics through debug menu (#67512)
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction (#67514)
 * [MoM] Intensify center of Quell Fire mist (#67504)

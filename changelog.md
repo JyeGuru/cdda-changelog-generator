@@ -84,7 +84,6 @@
 * Fix radio modded explosives ([#67534](https://github.com/CleverRaven/Cataclysm-DDA/pull/67534))
 * Fix component distribution errors for crafted food ([#67530](https://github.com/CleverRaven/Cataclysm-DDA/pull/67530))
 * [MoM] Add VERDANT HAND Combat Protocol (try 2) ([#67523](https://github.com/CleverRaven/Cataclysm-DDA/pull/67523))
-* [MoM] Mind Over Matter-specific Research facility overhaul ([#67503](https://github.com/CleverRaven/Cataclysm-DDA/pull/67503))
 * Allow installing and removing bionics through debug menu ([#67512](https://github.com/CleverRaven/Cataclysm-DDA/pull/67512))
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction ([#67514](https://github.com/CleverRaven/Cataclysm-DDA/pull/67514))
 * [MoM] Intensify center of Quell Fire mist ([#67504](https://github.com/CleverRaven/Cataclysm-DDA/pull/67504))
