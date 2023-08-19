@@ -1,3 +1,4 @@
+* Increase spear strap max_contains_weight to be able to hold heavy crowbar (#67730)
 * Arcade machine emits dim light (#67658)
 * Add Megafauna cross-compatibility to Defense Mode (#67670)
 * Use llvm tools to cut windows build noop critical path by 85% or more (#67628)
@@ -86,4 +87,3 @@
 * [MoM] Add VERDANT HAND Combat Protocol (try 2) (#67523)
 * Allow installing and removing bionics through debug menu (#67512)
 * [MoM] Fix Vitakinetic/Synthetic Lungs interaction (#67514)
-* Vehicle interaction to start at point of examination (#67509)
