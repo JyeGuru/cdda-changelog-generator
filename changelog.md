@@ -1,3 +1,5 @@
+* Weekly Changelog 2023-08-07 to 2023-08-14 ([#67655](https://github.com/CleverRaven/Cataclysm-DDA/pull/67655))
+* [Magiclysm] Update Metalworking recipes to use metalworking tongs ([#67738](https://github.com/CleverRaven/Cataclysm-DDA/pull/67738))
 * [MoM] Consolidate awakening EoCs and check for awakened status on game start ([#67698](https://github.com/CleverRaven/Cataclysm-DDA/pull/67698))
 * Multiselector menu for selecting seeds for basecamp farm missions + fix for seed duplication ([#67718](https://github.com/CleverRaven/Cataclysm-DDA/pull/67718))
 * Iced tea and iced coffee conditional variants of sweetened tea/sweetened milk coffee when cold ([#67745](https://github.com/CleverRaven/Cataclysm-DDA/pull/67745))
@@ -80,7 +82,6 @@
 * Profession skills overhaul ([#67536](https://github.com/CleverRaven/Cataclysm-DDA/pull/67536))
 * Refactor fermentation code ([#67538](https://github.com/CleverRaven/Cataclysm-DDA/pull/67538))
 * Minor fix of NPC crafting ([#67564](https://github.com/CleverRaven/Cataclysm-DDA/pull/67564))
-* Make waiting in npc heavy areas up to 2x faster ([#67535](https://github.com/CleverRaven/Cataclysm-DDA/pull/67535))
 * Mapgen: Add barber shop ([#67550](https://github.com/CleverRaven/Cataclysm-DDA/pull/67550))
 * Update itemgroups.json ([#67557](https://github.com/CleverRaven/Cataclysm-DDA/pull/67557))
 * Into the *Typostorm ([#67548](https://github.com/CleverRaven/Cataclysm-DDA/pull/67548))
@@ -88,4 +89,3 @@
 * Remove no_fungi ([#67547](https://github.com/CleverRaven/Cataclysm-DDA/pull/67547))
 * Remove debug_bionic_powergen trait_id from debug_menu.cpp ([#67545](https://github.com/CleverRaven/Cataclysm-DDA/pull/67545))
 * [MoM] Fix teleportocalypse ([#67540](https://github.com/CleverRaven/Cataclysm-DDA/pull/67540))
-* Fix radio modded explosives ([#67534](https://github.com/CleverRaven/Cataclysm-DDA/pull/67534))
