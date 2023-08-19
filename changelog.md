@@ -1,3 +1,4 @@
+* Fix NPC craft on the table in vehicle ([#67770](https://github.com/CleverRaven/Cataclysm-DDA/pull/67770))
 * Routine i18n updates on 19 August 2023 ([#67765](https://github.com/CleverRaven/Cataclysm-DDA/pull/67765))
 * Weekly Changelog 2023-08-07 to 2023-08-14 ([#67655](https://github.com/CleverRaven/Cataclysm-DDA/pull/67655))
 * [Magiclysm] Update Metalworking recipes to use metalworking tongs ([#67738](https://github.com/CleverRaven/Cataclysm-DDA/pull/67738))
@@ -80,7 +81,6 @@
 * Scroll one page when displaying item info ([#67576](https://github.com/CleverRaven/Cataclysm-DDA/pull/67576))
 * Drop basic build and osx ccaches to fix screwy unbounded growth. ([#67577](https://github.com/CleverRaven/Cataclysm-DDA/pull/67577))
 * Fix start date tests corrupting global state ([#67574](https://github.com/CleverRaven/Cataclysm-DDA/pull/67574))
-* Refactor fermentation code ([#67538](https://github.com/CleverRaven/Cataclysm-DDA/pull/67538))
 * Minor fix of NPC crafting ([#67564](https://github.com/CleverRaven/Cataclysm-DDA/pull/67564))
 * Mapgen: Add barber shop ([#67550](https://github.com/CleverRaven/Cataclysm-DDA/pull/67550))
 * Update itemgroups.json ([#67557](https://github.com/CleverRaven/Cataclysm-DDA/pull/67557))
