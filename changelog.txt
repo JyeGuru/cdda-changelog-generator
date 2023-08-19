@@ -1,3 +1,4 @@
+* Routine i18n updates on 19 August 2023 (#67765)
 * Weekly Changelog 2023-08-07 to 2023-08-14 (#67655)
 * [Magiclysm] Update Metalworking recipes to use metalworking tongs (#67738)
 * [MoM] Consolidate awakening EoCs and check for awakened status on game start (#67698)
@@ -79,7 +80,6 @@
 * Scroll one page when displaying item info (#67576)
 * Drop basic build and osx ccaches to fix screwy unbounded growth. (#67577)
 * Fix start date tests corrupting global state (#67574)
-* Profession skills overhaul (#67536)
 * Refactor fermentation code (#67538)
 * Minor fix of NPC crafting (#67564)
 * Mapgen: Add barber shop (#67550)
