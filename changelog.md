@@ -1,3 +1,4 @@
+* Cross compile object creator from linux to Windows using Devcontainer ([#67601](https://github.com/CleverRaven/Cataclysm-DDA/pull/67601))
 * Add a recipe filter for activity level ([#67771](https://github.com/CleverRaven/Cataclysm-DDA/pull/67771))
 * [MoM] Update lifting field description ([#67753](https://github.com/CleverRaven/Cataclysm-DDA/pull/67753))
 * Fix NPC craft on the table in vehicle ([#67770](https://github.com/CleverRaven/Cataclysm-DDA/pull/67770))
@@ -88,4 +89,3 @@
 * Into the *Typostorm ([#67548](https://github.com/CleverRaven/Cataclysm-DDA/pull/67548))
 * Remove Mutation Selector mod ([#67556](https://github.com/CleverRaven/Cataclysm-DDA/pull/67556))
 * Remove no_fungi ([#67547](https://github.com/CleverRaven/Cataclysm-DDA/pull/67547))
-* Remove debug_bionic_powergen trait_id from debug_menu.cpp ([#67545](https://github.com/CleverRaven/Cataclysm-DDA/pull/67545))
