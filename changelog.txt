@@ -1,3 +1,4 @@
+* [MoM] Add phavian scientists map extra (#67719)
 * Added profession age bounds for randomly generated characters (#67756)
 * Cross compile object creator from linux to Windows using Devcontainer (#67601)
 * Add a recipe filter for activity level (#67771)
@@ -87,5 +88,4 @@
 * Minor fix of NPC crafting (#67564)
 * Mapgen: Add barber shop (#67550)
 * Update itemgroups.json (#67557)
-* Into the *Typostorm (#67548)
 * Remove Mutation Selector mod (#67556)
