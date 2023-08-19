@@ -90,3 +90,4 @@
 * Fix start date tests corrupting global state ([#67574](https://github.com/CleverRaven/Cataclysm-DDA/pull/67574))
 * Minor fix of NPC crafting ([#67564](https://github.com/CleverRaven/Cataclysm-DDA/pull/67564))
 * Update itemgroups.json ([#67557](https://github.com/CleverRaven/Cataclysm-DDA/pull/67557))
+* Remove Mutation Selector mod ([#67556](https://github.com/CleverRaven/Cataclysm-DDA/pull/67556))

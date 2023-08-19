@@ -90,3 +90,4 @@
 * Fix start date tests corrupting global state (#67574)
 * Minor fix of NPC crafting (#67564)
 * Update itemgroups.json (#67557)
+* Remove Mutation Selector mod (#67556)
