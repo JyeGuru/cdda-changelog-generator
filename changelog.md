@@ -1,3 +1,5 @@
+* Update the table of contents in doc/JSON_INFO.md ([#67775](https://github.com/CleverRaven/Cataclysm-DDA/pull/67775))
+* Defense mode CI fix ([#67766](https://github.com/CleverRaven/Cataclysm-DDA/pull/67766))
 * Add in a new item category & zone: TOOL_MAGAZINE, and various category shuffling of items ([#67754](https://github.com/CleverRaven/Cataclysm-DDA/pull/67754))
 * [MoM] Add phavian scientists map extra ([#67719](https://github.com/CleverRaven/Cataclysm-DDA/pull/67719))
 * Added profession age bounds for randomly generated characters ([#67756](https://github.com/CleverRaven/Cataclysm-DDA/pull/67756))
@@ -88,4 +90,3 @@
 * Fix start date tests corrupting global state ([#67574](https://github.com/CleverRaven/Cataclysm-DDA/pull/67574))
 * Minor fix of NPC crafting ([#67564](https://github.com/CleverRaven/Cataclysm-DDA/pull/67564))
 * Update itemgroups.json ([#67557](https://github.com/CleverRaven/Cataclysm-DDA/pull/67557))
-* Remove Mutation Selector mod ([#67556](https://github.com/CleverRaven/Cataclysm-DDA/pull/67556))
