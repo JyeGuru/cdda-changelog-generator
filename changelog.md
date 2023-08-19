@@ -1,3 +1,4 @@
+* Add in a new item category & zone: TOOL_MAGAZINE, and various category shuffling of items ([#67754](https://github.com/CleverRaven/Cataclysm-DDA/pull/67754))
 * [MoM] Add phavian scientists map extra ([#67719](https://github.com/CleverRaven/Cataclysm-DDA/pull/67719))
 * Added profession age bounds for randomly generated characters ([#67756](https://github.com/CleverRaven/Cataclysm-DDA/pull/67756))
 * Cross compile object creator from linux to Windows using Devcontainer ([#67601](https://github.com/CleverRaven/Cataclysm-DDA/pull/67601))
@@ -86,6 +87,5 @@
 * Drop basic build and osx ccaches to fix screwy unbounded growth. ([#67577](https://github.com/CleverRaven/Cataclysm-DDA/pull/67577))
 * Fix start date tests corrupting global state ([#67574](https://github.com/CleverRaven/Cataclysm-DDA/pull/67574))
 * Minor fix of NPC crafting ([#67564](https://github.com/CleverRaven/Cataclysm-DDA/pull/67564))
-* Mapgen: Add barber shop ([#67550](https://github.com/CleverRaven/Cataclysm-DDA/pull/67550))
 * Update itemgroups.json ([#67557](https://github.com/CleverRaven/Cataclysm-DDA/pull/67557))
 * Remove Mutation Selector mod ([#67556](https://github.com/CleverRaven/Cataclysm-DDA/pull/67556))
