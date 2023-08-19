@@ -1,3 +1,5 @@
+* Add a recipe filter for activity level ([#67771](https://github.com/CleverRaven/Cataclysm-DDA/pull/67771))
+* [MoM] Update lifting field description ([#67753](https://github.com/CleverRaven/Cataclysm-DDA/pull/67753))
 * Fix NPC craft on the table in vehicle ([#67770](https://github.com/CleverRaven/Cataclysm-DDA/pull/67770))
 * Routine i18n updates on 19 August 2023 ([#67765](https://github.com/CleverRaven/Cataclysm-DDA/pull/67765))
 * Weekly Changelog 2023-08-07 to 2023-08-14 ([#67655](https://github.com/CleverRaven/Cataclysm-DDA/pull/67655))
@@ -76,7 +78,6 @@
 * Fix appliance power drain display right after plugging in/unplugging device ([#67562](https://github.com/CleverRaven/Cataclysm-DDA/pull/67562))
 * Fix scenario start dates ([#67579](https://github.com/CleverRaven/Cataclysm-DDA/pull/67579))
 * [MoM] Fix Fountain of Flames ([#67584](https://github.com/CleverRaven/Cataclysm-DDA/pull/67584))
-* Recharge sulfur powder and make it not a comestible ([#67539](https://github.com/CleverRaven/Cataclysm-DDA/pull/67539))
 * [Aftershock] Adjust bionic toolkit qualities ([#67573](https://github.com/CleverRaven/Cataclysm-DDA/pull/67573))
 * Scroll one page when displaying item info ([#67576](https://github.com/CleverRaven/Cataclysm-DDA/pull/67576))
 * Drop basic build and osx ccaches to fix screwy unbounded growth. ([#67577](https://github.com/CleverRaven/Cataclysm-DDA/pull/67577))
@@ -88,4 +89,3 @@
 * Remove Mutation Selector mod ([#67556](https://github.com/CleverRaven/Cataclysm-DDA/pull/67556))
 * Remove no_fungi ([#67547](https://github.com/CleverRaven/Cataclysm-DDA/pull/67547))
 * Remove debug_bionic_powergen trait_id from debug_menu.cpp ([#67545](https://github.com/CleverRaven/Cataclysm-DDA/pull/67545))
-* [MoM] Fix teleportocalypse ([#67540](https://github.com/CleverRaven/Cataclysm-DDA/pull/67540))
