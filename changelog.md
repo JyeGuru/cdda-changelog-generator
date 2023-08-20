@@ -1,3 +1,4 @@
+* Fix Zachary giving you his mission multiple times ([#67787](https://github.com/CleverRaven/Cataclysm-DDA/pull/67787))
 * Felicity Powell isn't fashionable anymore ([#67786](https://github.com/CleverRaven/Cataclysm-DDA/pull/67786))
 * Add note about running locally to compiling-devcontainer.md ([#67780](https://github.com/CleverRaven/Cataclysm-DDA/pull/67780))
 * Colourize confirm message in compare item screen ([#67778](https://github.com/CleverRaven/Cataclysm-DDA/pull/67778))
@@ -83,7 +84,6 @@
 * Bugfix: Do not destroy items when climbing grappling hook ([#67585](https://github.com/CleverRaven/Cataclysm-DDA/pull/67585))
 * Scrollable item info in vending machine ui ([#67575](https://github.com/CleverRaven/Cataclysm-DDA/pull/67575))
 * Prevent deleting furniture with grappling hook ([#67588](https://github.com/CleverRaven/Cataclysm-DDA/pull/67588))
-* Fix appliance power drain display right after plugging in/unplugging device ([#67562](https://github.com/CleverRaven/Cataclysm-DDA/pull/67562))
 * Fix scenario start dates ([#67579](https://github.com/CleverRaven/Cataclysm-DDA/pull/67579))
 * [MoM] Fix Fountain of Flames ([#67584](https://github.com/CleverRaven/Cataclysm-DDA/pull/67584))
 * [Aftershock] Adjust bionic toolkit qualities ([#67573](https://github.com/CleverRaven/Cataclysm-DDA/pull/67573))

@@ -1,3 +1,4 @@
+* Fix Zachary giving you his mission multiple times (#67787)
 * Felicity Powell isn't fashionable anymore (#67786)
 * Add note about running locally to compiling-devcontainer.md (#67780)
 * Colourize confirm message in compare item screen (#67778)
@@ -83,7 +84,6 @@
 * Bugfix: Do not destroy items when climbing grappling hook (#67585)
 * Scrollable item info in vending machine ui (#67575)
 * Prevent deleting furniture with grappling hook (#67588)
-* Fix appliance power drain display right after plugging in/unplugging device (#67562)
 * Fix scenario start dates (#67579)
 * [MoM] Fix Fountain of Flames (#67584)
 * [Aftershock] Adjust bionic toolkit qualities (#67573)
