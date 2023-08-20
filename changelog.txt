@@ -1,3 +1,4 @@
+* No duplicate linear predecessors (#67773)
 * [MoM] Add more feral psion attacks and fix current bugged attacks (#67735)
 * Insecticide audit (#67789)
 *  Add basic railroad network generation and mod to enable it (#67713)
@@ -88,5 +89,4 @@
 * fix a spawn of nuts_bolts (#67609)
 * Bugfix: Do not destroy items when climbing grappling hook (#67585)
 * Prevent deleting furniture with grappling hook (#67588)
-* Fix scenario start dates (#67579)
 * [MoM] Fix Fountain of Flames (#67584)
