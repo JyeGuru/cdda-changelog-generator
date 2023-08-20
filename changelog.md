@@ -1,3 +1,4 @@
+* Felicity Powell isn't fashionable anymore ([#67786](https://github.com/CleverRaven/Cataclysm-DDA/pull/67786))
 * Add note about running locally to compiling-devcontainer.md ([#67780](https://github.com/CleverRaven/Cataclysm-DDA/pull/67780))
 * Colourize confirm message in compare item screen ([#67778](https://github.com/CleverRaven/Cataclysm-DDA/pull/67778))
 * Update the table of contents in doc/JSON_INFO.md ([#67775](https://github.com/CleverRaven/Cataclysm-DDA/pull/67775))
@@ -76,7 +77,6 @@
 * Shorten brigandine.json with replace_materials ([#67616](https://github.com/CleverRaven/Cataclysm-DDA/pull/67616))
 * make coal its own ammotype ([#67621](https://github.com/CleverRaven/Cataclysm-DDA/pull/67621))
 * Add transparency to some pockets ([#67606](https://github.com/CleverRaven/Cataclysm-DDA/pull/67606))
-* Begin giving Luo unique dialogue after recruitment ([#67561](https://github.com/CleverRaven/Cataclysm-DDA/pull/67561))
 * Scrollbar for wish item menu ([#67582](https://github.com/CleverRaven/Cataclysm-DDA/pull/67582))
 * Routine i18n updates on 12 August 2023 ([#67610](https://github.com/CleverRaven/Cataclysm-DDA/pull/67610))
 * fix a spawn of nuts_bolts ([#67609](https://github.com/CleverRaven/Cataclysm-DDA/pull/67609))
