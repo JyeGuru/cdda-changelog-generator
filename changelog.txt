@@ -1,3 +1,4 @@
+* Allow free selection of cataclysm and game start dates in new character menu (#67772)
 * Fix Zachary giving you his mission multiple times (#67787)
 * Felicity Powell isn't fashionable anymore (#67786)
 * Add note about running locally to compiling-devcontainer.md (#67780)
@@ -90,4 +91,3 @@
 * Scroll one page when displaying item info (#67576)
 * Drop basic build and osx ccaches to fix screwy unbounded growth. (#67577)
 * Fix start date tests corrupting global state (#67574)
-* Minor fix of NPC crafting (#67564)
