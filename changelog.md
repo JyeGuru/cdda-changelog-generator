@@ -1,3 +1,4 @@
+* [MoM] Add more feral psion attacks and fix current bugged attacks ([#67735](https://github.com/CleverRaven/Cataclysm-DDA/pull/67735))
 * Insecticide audit ([#67789](https://github.com/CleverRaven/Cataclysm-DDA/pull/67789))
 *  Add basic railroad network generation and mod to enable it ([#67713](https://github.com/CleverRaven/Cataclysm-DDA/pull/67713))
 * Erase invalid or blacklisted nested categories ([#67779](https://github.com/CleverRaven/Cataclysm-DDA/pull/67779))
@@ -89,4 +90,3 @@
 * Prevent deleting furniture with grappling hook ([#67588](https://github.com/CleverRaven/Cataclysm-DDA/pull/67588))
 * Fix scenario start dates ([#67579](https://github.com/CleverRaven/Cataclysm-DDA/pull/67579))
 * [MoM] Fix Fountain of Flames ([#67584](https://github.com/CleverRaven/Cataclysm-DDA/pull/67584))
-* Drop basic build and osx ccaches to fix screwy unbounded growth. ([#67577](https://github.com/CleverRaven/Cataclysm-DDA/pull/67577))
