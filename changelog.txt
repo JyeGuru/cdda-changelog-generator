@@ -87,7 +87,6 @@
 * Prevent deleting furniture with grappling hook (#67588)
 * Fix scenario start dates (#67579)
 * [MoM] Fix Fountain of Flames (#67584)
-* [Aftershock] Adjust bionic toolkit qualities (#67573)
 * Scroll one page when displaying item info (#67576)
 * Drop basic build and osx ccaches to fix screwy unbounded growth. (#67577)
 * Fix start date tests corrupting global state (#67574)
