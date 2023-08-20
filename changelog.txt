@@ -1,3 +1,4 @@
+* Insecticide audit (#67789)
 *  Add basic railroad network generation and mod to enable it (#67713)
 * Erase invalid or blacklisted nested categories (#67779)
 * Allow free selection of cataclysm and game start dates in new character menu (#67772)
@@ -88,5 +89,4 @@
 * Prevent deleting furniture with grappling hook (#67588)
 * Fix scenario start dates (#67579)
 * [MoM] Fix Fountain of Flames (#67584)
-* Scroll one page when displaying item info (#67576)
 * Drop basic build and osx ccaches to fix screwy unbounded growth. (#67577)
