@@ -1,3 +1,5 @@
+* Add note about running locally to compiling-devcontainer.md (#67780)
+* Colourize confirm message in compare item screen (#67778)
 * Update the table of contents in doc/JSON_INFO.md (#67775)
 * Defense mode CI fix (#67766)
 * Add in a new item category & zone: TOOL_MAGAZINE, and various category shuffling of items (#67754)
@@ -89,5 +91,3 @@
 * Drop basic build and osx ccaches to fix screwy unbounded growth. (#67577)
 * Fix start date tests corrupting global state (#67574)
 * Minor fix of NPC crafting (#67564)
-* Update itemgroups.json (#67557)
-* Remove Mutation Selector mod (#67556)
