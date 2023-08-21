@@ -1,3 +1,4 @@
+* Add dogs barks ([#67768](https://github.com/CleverRaven/Cataclysm-DDA/pull/67768))
 * Fix PAGE/UP keys not scrolling text up ([#67792](https://github.com/CleverRaven/Cataclysm-DDA/pull/67792))
 * Allow the NECC NPCs to say your name in dialogue. ([#67795](https://github.com/CleverRaven/Cataclysm-DDA/pull/67795))
 * No duplicate linear predecessors ([#67773](https://github.com/CleverRaven/Cataclysm-DDA/pull/67773))
@@ -88,5 +89,4 @@
 * Add transparency to some pockets ([#67606](https://github.com/CleverRaven/Cataclysm-DDA/pull/67606))
 * Routine i18n updates on 12 August 2023 ([#67610](https://github.com/CleverRaven/Cataclysm-DDA/pull/67610))
 * fix a spawn of nuts_bolts ([#67609](https://github.com/CleverRaven/Cataclysm-DDA/pull/67609))
-* Bugfix: Do not destroy items when climbing grappling hook ([#67585](https://github.com/CleverRaven/Cataclysm-DDA/pull/67585))
 * Prevent deleting furniture with grappling hook ([#67588](https://github.com/CleverRaven/Cataclysm-DDA/pull/67588))
