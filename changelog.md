@@ -1,3 +1,4 @@
+* Fix PAGE/UP keys not scrolling text up ([#67792](https://github.com/CleverRaven/Cataclysm-DDA/pull/67792))
 * Allow the NECC NPCs to say your name in dialogue. ([#67795](https://github.com/CleverRaven/Cataclysm-DDA/pull/67795))
 * No duplicate linear predecessors ([#67773](https://github.com/CleverRaven/Cataclysm-DDA/pull/67773))
 * [MoM] Add more feral psion attacks and fix current bugged attacks ([#67735](https://github.com/CleverRaven/Cataclysm-DDA/pull/67735))
@@ -89,4 +90,3 @@
 * fix a spawn of nuts_bolts ([#67609](https://github.com/CleverRaven/Cataclysm-DDA/pull/67609))
 * Bugfix: Do not destroy items when climbing grappling hook ([#67585](https://github.com/CleverRaven/Cataclysm-DDA/pull/67585))
 * Prevent deleting furniture with grappling hook ([#67588](https://github.com/CleverRaven/Cataclysm-DDA/pull/67588))
-* [MoM] Fix Fountain of Flames ([#67584](https://github.com/CleverRaven/Cataclysm-DDA/pull/67584))
