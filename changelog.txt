@@ -1,3 +1,4 @@
+* [DinoMod] loot and grammar fixes (#67816)
 * [MoM] Add missing word to refined matrix crystal [powder], blue (#67820)
 * Fixes to select timepoint menu (#67812)
 * [MoM] Adjust stamina costs (#67808)
@@ -91,4 +92,3 @@
 * Shorten brigandine.json with replace_materials (#67616)
 * make coal its own ammotype (#67621)
 * Routine i18n updates on 12 August 2023 (#67610)
-* fix a spawn of nuts_bolts (#67609)
