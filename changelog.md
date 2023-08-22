@@ -1,3 +1,5 @@
+* Cooldown All The Leaping ([#67819](https://github.com/CleverRaven/Cataclysm-DDA/pull/67819))
+* [Xedra Evolved] Add Vampire blood levels to standard sidebar options in Xedra Evolved ([#67784](https://github.com/CleverRaven/Cataclysm-DDA/pull/67784))
 * Folding Seat belts and tweaks ([#67796](https://github.com/CleverRaven/Cataclysm-DDA/pull/67796))
 * Add dogs barks ([#67768](https://github.com/CleverRaven/Cataclysm-DDA/pull/67768))
 * Fix PAGE/UP keys not scrolling text up ([#67792](https://github.com/CleverRaven/Cataclysm-DDA/pull/67792))
@@ -89,4 +91,3 @@
 * Add transparency to some pockets ([#67606](https://github.com/CleverRaven/Cataclysm-DDA/pull/67606))
 * Routine i18n updates on 12 August 2023 ([#67610](https://github.com/CleverRaven/Cataclysm-DDA/pull/67610))
 * fix a spawn of nuts_bolts ([#67609](https://github.com/CleverRaven/Cataclysm-DDA/pull/67609))
-* Prevent deleting furniture with grappling hook ([#67588](https://github.com/CleverRaven/Cataclysm-DDA/pull/67588))
