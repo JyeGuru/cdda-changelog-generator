@@ -1,3 +1,4 @@
+* [innawood] add alternative recipe to office scissors ([#67826](https://github.com/CleverRaven/Cataclysm-DDA/pull/67826))
 * Fix some problems with the Defense Mode merchant ([#67822](https://github.com/CleverRaven/Cataclysm-DDA/pull/67822))
 * New weapon: kanabō ([#67810](https://github.com/CleverRaven/Cataclysm-DDA/pull/67810))
 * [MoM] Add Enervation damage type, apply it to Eater and feral vitakinetics ([#67757](https://github.com/CleverRaven/Cataclysm-DDA/pull/67757))
@@ -82,7 +83,6 @@
 * Fix component distribution error false positives for a bunch of recipes ([#67633](https://github.com/CleverRaven/Cataclysm-DDA/pull/67633))
 * Shorten legs_armor.json with replace_materials ([#67619](https://github.com/CleverRaven/Cataclysm-DDA/pull/67619))
 * fix: correct data fetching in ci workflow ([#67643](https://github.com/CleverRaven/Cataclysm-DDA/pull/67643))
-* Add electronics control unit to Street-Legal Dirt Bike ([#67617](https://github.com/CleverRaven/Cataclysm-DDA/pull/67617))
 * Add more things to Defense Mode ([#67626](https://github.com/CleverRaven/Cataclysm-DDA/pull/67626))
 * Add in two more bronze tools ([#67637](https://github.com/CleverRaven/Cataclysm-DDA/pull/67637))
 * Fix scenario start test data ([#67636](https://github.com/CleverRaven/Cataclysm-DDA/pull/67636))
