@@ -1,3 +1,4 @@
+* New weapon: kanabō ([#67810](https://github.com/CleverRaven/Cataclysm-DDA/pull/67810))
 * [MoM] Add Enervation damage type, apply it to Eater and feral vitakinetics ([#67757](https://github.com/CleverRaven/Cataclysm-DDA/pull/67757))
 * [DinoMod] loot and grammar fixes ([#67816](https://github.com/CleverRaven/Cataclysm-DDA/pull/67816))
 * [MoM] Add missing word to refined matrix crystal [powder], blue ([#67820](https://github.com/CleverRaven/Cataclysm-DDA/pull/67820))
