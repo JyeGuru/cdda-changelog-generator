@@ -1,3 +1,4 @@
+* [MoM] Add Enervation damage type, apply it to Eater and feral vitakinetics ([#67757](https://github.com/CleverRaven/Cataclysm-DDA/pull/67757))
 * [DinoMod] loot and grammar fixes ([#67816](https://github.com/CleverRaven/Cataclysm-DDA/pull/67816))
 * [MoM] Add missing word to refined matrix crystal [powder], blue ([#67820](https://github.com/CleverRaven/Cataclysm-DDA/pull/67820))
 * Fixes to select timepoint menu ([#67812](https://github.com/CleverRaven/Cataclysm-DDA/pull/67812))
@@ -91,4 +92,3 @@
 * Shorten gloves.json with replace_materials ([#67622](https://github.com/CleverRaven/Cataclysm-DDA/pull/67622))
 * Shorten brigandine.json with replace_materials ([#67616](https://github.com/CleverRaven/Cataclysm-DDA/pull/67616))
 * make coal its own ammotype ([#67621](https://github.com/CleverRaven/Cataclysm-DDA/pull/67621))
-* Routine i18n updates on 12 August 2023 ([#67610](https://github.com/CleverRaven/Cataclysm-DDA/pull/67610))
