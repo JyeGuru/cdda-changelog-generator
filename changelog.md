@@ -1,3 +1,4 @@
+* Fix some problems with the Defense Mode merchant ([#67822](https://github.com/CleverRaven/Cataclysm-DDA/pull/67822))
 * New weapon: kanabō ([#67810](https://github.com/CleverRaven/Cataclysm-DDA/pull/67810))
 * [MoM] Add Enervation damage type, apply it to Eater and feral vitakinetics ([#67757](https://github.com/CleverRaven/Cataclysm-DDA/pull/67757))
 * [DinoMod] loot and grammar fixes ([#67816](https://github.com/CleverRaven/Cataclysm-DDA/pull/67816))
@@ -91,5 +92,4 @@
 * Shorten torso_armor.json with replace_materials ([#67618](https://github.com/CleverRaven/Cataclysm-DDA/pull/67618))
 * Shorten helmets.json with replace_materials ([#67623](https://github.com/CleverRaven/Cataclysm-DDA/pull/67623))
 * Shorten gloves.json with replace_materials ([#67622](https://github.com/CleverRaven/Cataclysm-DDA/pull/67622))
-* Shorten brigandine.json with replace_materials ([#67616](https://github.com/CleverRaven/Cataclysm-DDA/pull/67616))
 * make coal its own ammotype ([#67621](https://github.com/CleverRaven/Cataclysm-DDA/pull/67621))
