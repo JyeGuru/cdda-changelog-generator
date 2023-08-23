@@ -1,3 +1,5 @@
+* Mods Over Matter: Defense Mode Compatibility for MOM ([#67833](https://github.com/CleverRaven/Cataclysm-DDA/pull/67833))
+* Make swarms of bees needing an apiary a little more obvious ([#67834](https://github.com/CleverRaven/Cataclysm-DDA/pull/67834))
 * Remove some ferals, rework some others ([#67707](https://github.com/CleverRaven/Cataclysm-DDA/pull/67707))
 * [Magiclysm] Add three Earthshaper spells ([#67814](https://github.com/CleverRaven/Cataclysm-DDA/pull/67814))
 * Fix crash in object creator spell window ([#67825](https://github.com/CleverRaven/Cataclysm-DDA/pull/67825))
@@ -91,5 +93,3 @@
 * Fix scenario start test data ([#67636](https://github.com/CleverRaven/Cataclysm-DDA/pull/67636))
 * Apply defense mode label only to things in defense mode mod folder ([#67639](https://github.com/CleverRaven/Cataclysm-DDA/pull/67639))
 * Fix doc for recipe charges ([#67632](https://github.com/CleverRaven/Cataclysm-DDA/pull/67632))
-* Shorten other graded armor with replace_materials ([#67624](https://github.com/CleverRaven/Cataclysm-DDA/pull/67624))
-* Shorten helmets.json with replace_materials ([#67623](https://github.com/CleverRaven/Cataclysm-DDA/pull/67623))
