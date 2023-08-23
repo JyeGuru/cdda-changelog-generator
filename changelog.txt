@@ -1,3 +1,5 @@
+* [Magiclysm] Add three Earthshaper spells (#67814)
+* Fix crash in object creator spell window (#67825)
 * Add better infrastructure to support Aftershock Skullgun (#67758)
 * [innawood] add alternative recipe to office scissors (#67826)
 * Fix some problems with the Defense Mode merchant (#67822)
@@ -82,7 +84,6 @@
 * Obsolete ``mil_hw`` itemgroup (#67646)
 * More price audits (#67647)
 * Fix component distribution error false positives for a bunch of recipes (#67633)
-* Shorten legs_armor.json with replace_materials (#67619)
 * fix: correct data fetching in ci workflow (#67643)
 * Add more things to Defense Mode (#67626)
 * Add in two more bronze tools (#67637)
@@ -92,4 +93,3 @@
 * Shorten other graded armor with replace_materials (#67624)
 * Shorten helmets.json with replace_materials (#67623)
 * Shorten gloves.json with replace_materials (#67622)
-* make coal its own ammotype (#67621)
