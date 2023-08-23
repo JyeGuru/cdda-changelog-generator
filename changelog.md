@@ -1,3 +1,4 @@
+* Update JSON_FLAGS.md ([#67838](https://github.com/CleverRaven/Cataclysm-DDA/pull/67838))
 * Delete unnecessary om placements from refugee centre ([#67726](https://github.com/CleverRaven/Cataclysm-DDA/pull/67726))
 * Code optimizations reported by static code analysis (2023-08-20) ([#67791](https://github.com/CleverRaven/Cataclysm-DDA/pull/67791))
 * Making better EoC doc, part two ([#67807](https://github.com/CleverRaven/Cataclysm-DDA/pull/67807))
@@ -92,4 +93,3 @@
 * Add in two more bronze tools ([#67637](https://github.com/CleverRaven/Cataclysm-DDA/pull/67637))
 * Fix scenario start test data ([#67636](https://github.com/CleverRaven/Cataclysm-DDA/pull/67636))
 * Apply defense mode label only to things in defense mode mod folder ([#67639](https://github.com/CleverRaven/Cataclysm-DDA/pull/67639))
-* Fix doc for recipe charges ([#67632](https://github.com/CleverRaven/Cataclysm-DDA/pull/67632))
