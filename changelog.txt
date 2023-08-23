@@ -1,3 +1,5 @@
+* Adds the Motorhead random NPC class, audits scientist and doctor (#67734)
+* [Defense Mode]: My Sweet Cataclysm compatibility (#67839)
 * Update JSON_FLAGS.md (#67838)
 * Delete unnecessary om placements from refugee centre (#67726)
 * Code optimizations reported by static code analysis (2023-08-20) (#67791)
@@ -89,6 +91,4 @@
 * Obsolete ``mil_hw`` itemgroup (#67646)
 * More price audits (#67647)
 * fix: correct data fetching in ci workflow (#67643)
-* Add in two more bronze tools (#67637)
-* Fix scenario start test data (#67636)
 * Apply defense mode label only to things in defense mode mod folder (#67639)
