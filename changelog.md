@@ -1,3 +1,4 @@
+* Making better EoC doc, part two ([#67807](https://github.com/CleverRaven/Cataclysm-DDA/pull/67807))
 * Mods Over Matter: Defense Mode Compatibility for MOM ([#67833](https://github.com/CleverRaven/Cataclysm-DDA/pull/67833))
 * Make swarms of bees needing an apiary a little more obvious ([#67834](https://github.com/CleverRaven/Cataclysm-DDA/pull/67834))
 * Remove some ferals, rework some others ([#67707](https://github.com/CleverRaven/Cataclysm-DDA/pull/67707))
@@ -88,7 +89,6 @@
 * More price audits ([#67647](https://github.com/CleverRaven/Cataclysm-DDA/pull/67647))
 * Fix component distribution error false positives for a bunch of recipes ([#67633](https://github.com/CleverRaven/Cataclysm-DDA/pull/67633))
 * fix: correct data fetching in ci workflow ([#67643](https://github.com/CleverRaven/Cataclysm-DDA/pull/67643))
-* Add more things to Defense Mode ([#67626](https://github.com/CleverRaven/Cataclysm-DDA/pull/67626))
 * Add in two more bronze tools ([#67637](https://github.com/CleverRaven/Cataclysm-DDA/pull/67637))
 * Fix scenario start test data ([#67636](https://github.com/CleverRaven/Cataclysm-DDA/pull/67636))
 * Apply defense mode label only to things in defense mode mod folder ([#67639](https://github.com/CleverRaven/Cataclysm-DDA/pull/67639))
