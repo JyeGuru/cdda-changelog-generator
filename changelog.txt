@@ -88,7 +88,6 @@
 * Create base_colors-catppuccin.json (#67660)
 * Obsolete ``mil_hw`` itemgroup (#67646)
 * More price audits (#67647)
-* Fix component distribution error false positives for a bunch of recipes (#67633)
 * fix: correct data fetching in ci workflow (#67643)
 * Add in two more bronze tools (#67637)
 * Fix scenario start test data (#67636)
