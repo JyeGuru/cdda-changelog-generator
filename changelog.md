@@ -1,3 +1,4 @@
+* Remove some ferals, rework some others ([#67707](https://github.com/CleverRaven/Cataclysm-DDA/pull/67707))
 * [Magiclysm] Add three Earthshaper spells ([#67814](https://github.com/CleverRaven/Cataclysm-DDA/pull/67814))
 * Fix crash in object creator spell window ([#67825](https://github.com/CleverRaven/Cataclysm-DDA/pull/67825))
 * Add better infrastructure to support Aftershock Skullgun ([#67758](https://github.com/CleverRaven/Cataclysm-DDA/pull/67758))
@@ -92,4 +93,3 @@
 * Fix doc for recipe charges ([#67632](https://github.com/CleverRaven/Cataclysm-DDA/pull/67632))
 * Shorten other graded armor with replace_materials ([#67624](https://github.com/CleverRaven/Cataclysm-DDA/pull/67624))
 * Shorten helmets.json with replace_materials ([#67623](https://github.com/CleverRaven/Cataclysm-DDA/pull/67623))
-* Shorten gloves.json with replace_materials ([#67622](https://github.com/CleverRaven/Cataclysm-DDA/pull/67622))
