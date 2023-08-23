@@ -1,3 +1,4 @@
+* Add better infrastructure to support Aftershock Skullgun ([#67758](https://github.com/CleverRaven/Cataclysm-DDA/pull/67758))
 * [innawood] add alternative recipe to office scissors ([#67826](https://github.com/CleverRaven/Cataclysm-DDA/pull/67826))
 * Fix some problems with the Defense Mode merchant ([#67822](https://github.com/CleverRaven/Cataclysm-DDA/pull/67822))
 * New weapon: kanabō ([#67810](https://github.com/CleverRaven/Cataclysm-DDA/pull/67810))
@@ -89,7 +90,6 @@
 * Apply defense mode label only to things in defense mode mod folder ([#67639](https://github.com/CleverRaven/Cataclysm-DDA/pull/67639))
 * Fix doc for recipe charges ([#67632](https://github.com/CleverRaven/Cataclysm-DDA/pull/67632))
 * Shorten other graded armor with replace_materials ([#67624](https://github.com/CleverRaven/Cataclysm-DDA/pull/67624))
-* Shorten torso_armor.json with replace_materials ([#67618](https://github.com/CleverRaven/Cataclysm-DDA/pull/67618))
 * Shorten helmets.json with replace_materials ([#67623](https://github.com/CleverRaven/Cataclysm-DDA/pull/67623))
 * Shorten gloves.json with replace_materials ([#67622](https://github.com/CleverRaven/Cataclysm-DDA/pull/67622))
 * make coal its own ammotype ([#67621](https://github.com/CleverRaven/Cataclysm-DDA/pull/67621))
