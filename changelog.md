@@ -1,3 +1,5 @@
+* Port strange temple softlock fix from TISH ([#67823](https://github.com/CleverRaven/Cataclysm-DDA/pull/67823))
+* Weekly Changelog 2023-08-14 to 2023-08-21 ([#67800](https://github.com/CleverRaven/Cataclysm-DDA/pull/67800))
 * Adds the Motorhead random NPC class, audits scientist and doctor ([#67734](https://github.com/CleverRaven/Cataclysm-DDA/pull/67734))
 * [Defense Mode]: My Sweet Cataclysm compatibility ([#67839](https://github.com/CleverRaven/Cataclysm-DDA/pull/67839))
 * Update JSON_FLAGS.md ([#67838](https://github.com/CleverRaven/Cataclysm-DDA/pull/67838))
@@ -80,7 +82,6 @@
 * [MoM] Fix everglow flashlight ([#67679](https://github.com/CleverRaven/Cataclysm-DDA/pull/67679))
 * adjust spawns of sulfur powder and red phosphorous powder ([#67690](https://github.com/CleverRaven/Cataclysm-DDA/pull/67690))
 * Fix basecamp farm crash ([#67689](https://github.com/CleverRaven/Cataclysm-DDA/pull/67689))
-* add in new item category and zones: corpses ([#67640](https://github.com/CleverRaven/Cataclysm-DDA/pull/67640))
 * fix smoking racks delete calories ([#67642](https://github.com/CleverRaven/Cataclysm-DDA/pull/67642))
 * minor cleanup of item spawning code ([#67661](https://github.com/CleverRaven/Cataclysm-DDA/pull/67661))
 * New characters start with basic life skills ([#67663](https://github.com/CleverRaven/Cataclysm-DDA/pull/67663))
@@ -91,4 +92,3 @@
 * Obsolete ``mil_hw`` itemgroup ([#67646](https://github.com/CleverRaven/Cataclysm-DDA/pull/67646))
 * More price audits ([#67647](https://github.com/CleverRaven/Cataclysm-DDA/pull/67647))
 * fix: correct data fetching in ci workflow ([#67643](https://github.com/CleverRaven/Cataclysm-DDA/pull/67643))
-* Apply defense mode label only to things in defense mode mod folder ([#67639](https://github.com/CleverRaven/Cataclysm-DDA/pull/67639))
