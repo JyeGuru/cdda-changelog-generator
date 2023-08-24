@@ -1,3 +1,4 @@
+* Construct open air ([#67866](https://github.com/CleverRaven/Cataclysm-DDA/pull/67866))
 * Add insecticide to temperature tracking removal blacklist ([#67865](https://github.com/CleverRaven/Cataclysm-DDA/pull/67865))
 * Prevent the vmenu from drawing junk in w_terrain ([#67849](https://github.com/CleverRaven/Cataclysm-DDA/pull/67849))
 * [Magiclysm] Add Whisper of the Leaves druid spell ([#67801](https://github.com/CleverRaven/Cataclysm-DDA/pull/67801))
@@ -91,5 +92,4 @@
 * Obsolete RPG-7 and trim zombie survivor launchers item group ([#67657](https://github.com/CleverRaven/Cataclysm-DDA/pull/67657))
 * Balance nether waves in Defense Mode ([#67664](https://github.com/CleverRaven/Cataclysm-DDA/pull/67664))
 * Create base_colors-catppuccin.json ([#67660](https://github.com/CleverRaven/Cataclysm-DDA/pull/67660))
-* Obsolete ``mil_hw`` itemgroup ([#67646](https://github.com/CleverRaven/Cataclysm-DDA/pull/67646))
 * More price audits ([#67647](https://github.com/CleverRaven/Cataclysm-DDA/pull/67647))
