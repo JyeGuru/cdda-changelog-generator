@@ -1,3 +1,4 @@
+* Restored accidentally deleted action (#67859)
 * Port strange temple softlock fix from TISH (#67823)
 * Weekly Changelog 2023-08-14 to 2023-08-21 (#67800)
 * Adds the Motorhead random NPC class, audits scientist and doctor (#67734)
