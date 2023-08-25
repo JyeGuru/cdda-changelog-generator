@@ -1,3 +1,4 @@
+* Aftershock: Exosuit bugfixing ([#67880](https://github.com/CleverRaven/Cataclysm-DDA/pull/67880))
 * Misc clang-tidy fixes ([#67868](https://github.com/CleverRaven/Cataclysm-DDA/pull/67868))
 * Some book spawning changes & locking bronze behind a book recipe ([#67864](https://github.com/CleverRaven/Cataclysm-DDA/pull/67864))
 * Mapgen: Urban house addition ([#67867](https://github.com/CleverRaven/Cataclysm-DDA/pull/67867))
@@ -68,7 +69,6 @@
 * Unhardcode mx_mayhem ([#67763](https://github.com/CleverRaven/Cataclysm-DDA/pull/67763))
 * Speed up new character screen, particularly when many recipes are known ([#67717](https://github.com/CleverRaven/Cataclysm-DDA/pull/67717))
 * Increase spear strap max_contains_weight to be able to hold heavy crowbar ([#67730](https://github.com/CleverRaven/Cataclysm-DDA/pull/67730))
-* Arcade machine emits dim light ([#67658](https://github.com/CleverRaven/Cataclysm-DDA/pull/67658))
 * Add Megafauna cross-compatibility to Defense Mode ([#67670](https://github.com/CleverRaven/Cataclysm-DDA/pull/67670))
 * FIx various clang warnings ([#67733](https://github.com/CleverRaven/Cataclysm-DDA/pull/67733))
 * Fix bugs that cause eoc duplication ([#67737](https://github.com/CleverRaven/Cataclysm-DDA/pull/67737))
