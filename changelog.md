@@ -1,3 +1,4 @@
+* Some book spawning changes & locking bronze behind a book recipe ([#67864](https://github.com/CleverRaven/Cataclysm-DDA/pull/67864))
 * Mapgen: Urban house addition ([#67867](https://github.com/CleverRaven/Cataclysm-DDA/pull/67867))
 * [Magiclysm] Fix Electric Waves enchant ([#67873](https://github.com/CleverRaven/Cataclysm-DDA/pull/67873))
 * Mythos compatibility for Defense Mode ([#67841](https://github.com/CleverRaven/Cataclysm-DDA/pull/67841))
@@ -72,7 +73,6 @@
 * Fix bugs that cause eoc duplication ([#67737](https://github.com/CleverRaven/Cataclysm-DDA/pull/67737))
 * Fix some bugs with Defense Mode ([#67716](https://github.com/CleverRaven/Cataclysm-DDA/pull/67716))
 * Properly mark few strings for translation in vehicle_use.cpp ([#67724](https://github.com/CleverRaven/Cataclysm-DDA/pull/67724))
-* Add some mod compatibility to Defense Mode ([#67656](https://github.com/CleverRaven/Cataclysm-DDA/pull/67656))
 * Update conditional_names for fruit&veggy ([#67708](https://github.com/CleverRaven/Cataclysm-DDA/pull/67708))
 * Make Windows build warning free. ([#67715](https://github.com/CleverRaven/Cataclysm-DDA/pull/67715))
 * More easy eoc optimizations shaving another 20% out of npc heavy eoc checks ([#67714](https://github.com/CleverRaven/Cataclysm-DDA/pull/67714))
