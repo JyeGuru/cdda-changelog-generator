@@ -1,3 +1,4 @@
+* Ability to define certain trainings as teachable/unteachable (#67855)
 * [Magiclysm] Edit Nature's Commune to provide morale and only be castable outdoors (#67872)
 * Aftershock: Exosuit bugfixing (#67880)
 * Misc clang-tidy fixes (#67868)
@@ -91,6 +92,5 @@
 * [MoM] Fix everglow flashlight (#67679)
 * adjust spawns of sulfur powder and red phosphorous powder (#67690)
 * Fix basecamp farm crash (#67689)
-* minor cleanup of item spawning code (#67661)
 * New characters start with basic life skills (#67663)
 * Balance nether waves in Defense Mode (#67664)
