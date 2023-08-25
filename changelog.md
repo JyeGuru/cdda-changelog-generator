@@ -1,3 +1,4 @@
+* [Magiclysm] Edit Nature's Commune to provide morale and only be castable outdoors ([#67872](https://github.com/CleverRaven/Cataclysm-DDA/pull/67872))
 * Aftershock: Exosuit bugfixing ([#67880](https://github.com/CleverRaven/Cataclysm-DDA/pull/67880))
 * Misc clang-tidy fixes ([#67868](https://github.com/CleverRaven/Cataclysm-DDA/pull/67868))
 * Some book spawning changes & locking bronze behind a book recipe ([#67864](https://github.com/CleverRaven/Cataclysm-DDA/pull/67864))
@@ -93,4 +94,3 @@
 * minor cleanup of item spawning code ([#67661](https://github.com/CleverRaven/Cataclysm-DDA/pull/67661))
 * New characters start with basic life skills ([#67663](https://github.com/CleverRaven/Cataclysm-DDA/pull/67663))
 * Balance nether waves in Defense Mode ([#67664](https://github.com/CleverRaven/Cataclysm-DDA/pull/67664))
-* Create base_colors-catppuccin.json ([#67660](https://github.com/CleverRaven/Cataclysm-DDA/pull/67660))
