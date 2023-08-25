@@ -1,3 +1,5 @@
+* @ menu UI scrolling ([#67847](https://github.com/CleverRaven/Cataclysm-DDA/pull/67847))
+* Meaningful car, boat, and bicycle proficiencies ([#67854](https://github.com/CleverRaven/Cataclysm-DDA/pull/67854))
 * Ability to define certain trainings as teachable/unteachable ([#67855](https://github.com/CleverRaven/Cataclysm-DDA/pull/67855))
 * [Magiclysm] Edit Nature's Commune to provide morale and only be castable outdoors ([#67872](https://github.com/CleverRaven/Cataclysm-DDA/pull/67872))
 * Aftershock: Exosuit bugfixing ([#67880](https://github.com/CleverRaven/Cataclysm-DDA/pull/67880))
@@ -92,5 +94,3 @@
 * [MoM] Fix everglow flashlight ([#67679](https://github.com/CleverRaven/Cataclysm-DDA/pull/67679))
 * adjust spawns of sulfur powder and red phosphorous powder ([#67690](https://github.com/CleverRaven/Cataclysm-DDA/pull/67690))
 * Fix basecamp farm crash ([#67689](https://github.com/CleverRaven/Cataclysm-DDA/pull/67689))
-* New characters start with basic life skills ([#67663](https://github.com/CleverRaven/Cataclysm-DDA/pull/67663))
-* Balance nether waves in Defense Mode ([#67664](https://github.com/CleverRaven/Cataclysm-DDA/pull/67664))
