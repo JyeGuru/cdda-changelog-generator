@@ -1,3 +1,5 @@
+* Mapgen: Urban house addition ([#67867](https://github.com/CleverRaven/Cataclysm-DDA/pull/67867))
+* [Magiclysm] Fix Electric Waves enchant ([#67873](https://github.com/CleverRaven/Cataclysm-DDA/pull/67873))
 * Mythos compatibility for Defense Mode ([#67841](https://github.com/CleverRaven/Cataclysm-DDA/pull/67841))
 * Correct inaccurate Kickboxing moves, let you start with it. ([#67824](https://github.com/CleverRaven/Cataclysm-DDA/pull/67824))
 * Construct open air ([#67866](https://github.com/CleverRaven/Cataclysm-DDA/pull/67866))
@@ -53,7 +55,6 @@
 * [MoM] Update lifting field description ([#67753](https://github.com/CleverRaven/Cataclysm-DDA/pull/67753))
 * Fix NPC craft on the table in vehicle ([#67770](https://github.com/CleverRaven/Cataclysm-DDA/pull/67770))
 * Routine i18n updates on 19 August 2023 ([#67765](https://github.com/CleverRaven/Cataclysm-DDA/pull/67765))
-* Weekly Changelog 2023-08-07 to 2023-08-14 ([#67655](https://github.com/CleverRaven/Cataclysm-DDA/pull/67655))
 * [Magiclysm] Update Metalworking recipes to use metalworking tongs ([#67738](https://github.com/CleverRaven/Cataclysm-DDA/pull/67738))
 * [MoM] Consolidate awakening EoCs and check for awakened status on game start ([#67698](https://github.com/CleverRaven/Cataclysm-DDA/pull/67698))
 * Multiselector menu for selecting seeds for basecamp farm missions + fix for seed duplication ([#67718](https://github.com/CleverRaven/Cataclysm-DDA/pull/67718))
