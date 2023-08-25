@@ -1,3 +1,4 @@
+* Misc clang-tidy fixes ([#67868](https://github.com/CleverRaven/Cataclysm-DDA/pull/67868))
 * Some book spawning changes & locking bronze behind a book recipe ([#67864](https://github.com/CleverRaven/Cataclysm-DDA/pull/67864))
 * Mapgen: Urban house addition ([#67867](https://github.com/CleverRaven/Cataclysm-DDA/pull/67867))
 * [Magiclysm] Fix Electric Waves enchant ([#67873](https://github.com/CleverRaven/Cataclysm-DDA/pull/67873))
@@ -91,6 +92,5 @@
 * Fix basecamp farm crash ([#67689](https://github.com/CleverRaven/Cataclysm-DDA/pull/67689))
 * minor cleanup of item spawning code ([#67661](https://github.com/CleverRaven/Cataclysm-DDA/pull/67661))
 * New characters start with basic life skills ([#67663](https://github.com/CleverRaven/Cataclysm-DDA/pull/67663))
-* Obsolete RPG-7 and trim zombie survivor launchers item group ([#67657](https://github.com/CleverRaven/Cataclysm-DDA/pull/67657))
 * Balance nether waves in Defense Mode ([#67664](https://github.com/CleverRaven/Cataclysm-DDA/pull/67664))
 * Create base_colors-catppuccin.json ([#67660](https://github.com/CleverRaven/Cataclysm-DDA/pull/67660))
