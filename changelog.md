@@ -1,3 +1,4 @@
+* [MoM] Make psionic powers unteachable ([#67891](https://github.com/CleverRaven/Cataclysm-DDA/pull/67891))
 * NPC AI/ fleeing adjustments 2: Come back, little NPC ([#67870](https://github.com/CleverRaven/Cataclysm-DDA/pull/67870))
 * Add more things to Defense Mode ([#67894](https://github.com/CleverRaven/Cataclysm-DDA/pull/67894))
 * Routine i18n updates on 26 August 2023 ([#67901](https://github.com/CleverRaven/Cataclysm-DDA/pull/67901))
@@ -93,4 +94,3 @@
 * Stop assassins from spawning on top of you ([#67696](https://github.com/CleverRaven/Cataclysm-DDA/pull/67696))
 * Consume comestible meds that aren't count_by_charges ([#67693](https://github.com/CleverRaven/Cataclysm-DDA/pull/67693))
 * adjust spawns of sulfur powder and red phosphorous powder ([#67690](https://github.com/CleverRaven/Cataclysm-DDA/pull/67690))
-* Fix basecamp farm crash ([#67689](https://github.com/CleverRaven/Cataclysm-DDA/pull/67689))
