@@ -1,3 +1,4 @@
+* Aftershock: Rebalance Gibson  S86 ([#67912](https://github.com/CleverRaven/Cataclysm-DDA/pull/67912))
 * [Magiclysm] Add fantasy species starting option ([#67817](https://github.com/CleverRaven/Cataclysm-DDA/pull/67817))
 * [Magiclysm] Potion fruits! ([#67840](https://github.com/CleverRaven/Cataclysm-DDA/pull/67840))
 * [Magiclysm] Even more spells (7 spells) ([#67843](https://github.com/CleverRaven/Cataclysm-DDA/pull/67843))
@@ -91,5 +92,4 @@
 * Make Windows build warning free. ([#67715](https://github.com/CleverRaven/Cataclysm-DDA/pull/67715))
 * More easy eoc optimizations shaving another 20% out of npc heavy eoc checks ([#67714](https://github.com/CleverRaven/Cataclysm-DDA/pull/67714))
 * Reduce some yields of seeds for pumpkin/hemp/sunflower ([#67711](https://github.com/CleverRaven/Cataclysm-DDA/pull/67711))
-* "om_terrain_match_type": "SUBTYPE" ([#67697](https://github.com/CleverRaven/Cataclysm-DDA/pull/67697))
 * Make Yrax Trifacet untameable ([#67705](https://github.com/CleverRaven/Cataclysm-DDA/pull/67705))
