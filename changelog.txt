@@ -1,3 +1,4 @@
+* Instead of calling `exit()`, reset and signal the default handler (#67893)
 * Players can teach proficiencies/spells/styles to NPCs (#67910)
 * Aftershock: Rebalance Gibson  S86 (#67912)
 * [Magiclysm] Add fantasy species starting option (#67817)
@@ -92,4 +93,3 @@
 * Make Windows build warning free. (#67715)
 * More easy eoc optimizations shaving another 20% out of npc heavy eoc checks (#67714)
 * Reduce some yields of seeds for pumpkin/hemp/sunflower (#67711)
-* Make Yrax Trifacet untameable (#67705)
