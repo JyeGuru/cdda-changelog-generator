@@ -1,3 +1,4 @@
+* Fix fertilizer spawning ([#67915](https://github.com/CleverRaven/Cataclysm-DDA/pull/67915))
 * gives the mercenary officer/ghost custom descriptions ([#67903](https://github.com/CleverRaven/Cataclysm-DDA/pull/67903))
 * Raise margin on nicotine addiction test ([#67919](https://github.com/CleverRaven/Cataclysm-DDA/pull/67919))
 * Default loot zone ([#67907](https://github.com/CleverRaven/Cataclysm-DDA/pull/67907))
@@ -91,5 +92,4 @@
 * Increase spear strap max_contains_weight to be able to hold heavy crowbar ([#67730](https://github.com/CleverRaven/Cataclysm-DDA/pull/67730))
 * FIx various clang warnings ([#67733](https://github.com/CleverRaven/Cataclysm-DDA/pull/67733))
 * Fix bugs that cause eoc duplication ([#67737](https://github.com/CleverRaven/Cataclysm-DDA/pull/67737))
-* Fix some bugs with Defense Mode ([#67716](https://github.com/CleverRaven/Cataclysm-DDA/pull/67716))
 * Properly mark few strings for translation in vehicle_use.cpp ([#67724](https://github.com/CleverRaven/Cataclysm-DDA/pull/67724))
