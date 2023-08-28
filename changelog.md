@@ -1,3 +1,4 @@
+* Nerf lift thrust of rotorcraft by 6 orders of magnitude ([#67928](https://github.com/CleverRaven/Cataclysm-DDA/pull/67928))
 * Bugfix: Exploding 💥 zombie cows with landmines ([#67920](https://github.com/CleverRaven/Cataclysm-DDA/pull/67920))
 * Fix fuel selection for single engine ([#67917](https://github.com/CleverRaven/Cataclysm-DDA/pull/67917))
 * Ranchers get a long rope on spawn for their horse. ([#67922](https://github.com/CleverRaven/Cataclysm-DDA/pull/67922))
@@ -43,7 +44,6 @@
 * Adds the Motorhead random NPC class, audits scientist and doctor ([#67734](https://github.com/CleverRaven/Cataclysm-DDA/pull/67734))
 * [Defense Mode]: My Sweet Cataclysm compatibility ([#67839](https://github.com/CleverRaven/Cataclysm-DDA/pull/67839))
 * Update JSON_FLAGS.md ([#67838](https://github.com/CleverRaven/Cataclysm-DDA/pull/67838))
-* Delete unnecessary om placements from refugee centre ([#67726](https://github.com/CleverRaven/Cataclysm-DDA/pull/67726))
 * Code optimizations reported by static code analysis (2023-08-20) ([#67791](https://github.com/CleverRaven/Cataclysm-DDA/pull/67791))
 * Making better EoC doc, part two ([#67807](https://github.com/CleverRaven/Cataclysm-DDA/pull/67807))
 * Mods Over Matter: Defense Mode Compatibility for MOM ([#67833](https://github.com/CleverRaven/Cataclysm-DDA/pull/67833))
