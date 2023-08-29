@@ -1,3 +1,4 @@
+* [Magiclysm] More fantasy species (#67921)
 * Make Xedra Perks unmutateable (#67934)
 * Nerf lift thrust of rotorcraft by 6 orders of magnitude (#67928)
 * Bugfix: Exploding 💥 zombie cows with landmines (#67920)
@@ -91,5 +92,4 @@
 * Allow Sonia to jam out (#67747)
 * Removes unnecessary ammo charge definitions on empty guns (#67764)
 * Unhardcode mx_mayhem (#67763)
-* FIx various clang warnings (#67733)
 * Fix bugs that cause eoc duplication (#67737)
