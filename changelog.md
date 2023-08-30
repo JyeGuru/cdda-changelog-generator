@@ -1,3 +1,4 @@
+* Removed obsolete bed provides ([#67950](https://github.com/CleverRaven/Cataclysm-DDA/pull/67950))
 * Condition: count spells by spell class ([#67946](https://github.com/CleverRaven/Cataclysm-DDA/pull/67946))
 * [Magiclysm] Add RNG to crystallized mana spawns ([#67924](https://github.com/CleverRaven/Cataclysm-DDA/pull/67924))
 * Remove bed requirement for base expansion ([#67908](https://github.com/CleverRaven/Cataclysm-DDA/pull/67908))
@@ -88,7 +89,6 @@
 * Add in a new item category & zone: TOOL_MAGAZINE, and various category shuffling of items ([#67754](https://github.com/CleverRaven/Cataclysm-DDA/pull/67754))
 * Added profession age bounds for randomly generated characters ([#67756](https://github.com/CleverRaven/Cataclysm-DDA/pull/67756))
 * Add a recipe filter for activity level ([#67771](https://github.com/CleverRaven/Cataclysm-DDA/pull/67771))
-* [MoM] Update lifting field description ([#67753](https://github.com/CleverRaven/Cataclysm-DDA/pull/67753))
 * Fix NPC craft on the table in vehicle ([#67770](https://github.com/CleverRaven/Cataclysm-DDA/pull/67770))
 * Routine i18n updates on 19 August 2023 ([#67765](https://github.com/CleverRaven/Cataclysm-DDA/pull/67765))
 * Removes unnecessary ammo charge definitions on empty guns ([#67764](https://github.com/CleverRaven/Cataclysm-DDA/pull/67764))
