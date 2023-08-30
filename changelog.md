@@ -1,3 +1,4 @@
+* [Magiclysm] Add RNG to crystallized mana spawns ([#67924](https://github.com/CleverRaven/Cataclysm-DDA/pull/67924))
 * Remove bed requirement for base expansion ([#67908](https://github.com/CleverRaven/Cataclysm-DDA/pull/67908))
 * [Magiclysm] Add seven more spells (+ monsters + lab special) ([#67914](https://github.com/CleverRaven/Cataclysm-DDA/pull/67914))
 * [Magiclysm] Fix Ravenfolk mutation category name ([#67942](https://github.com/CleverRaven/Cataclysm-DDA/pull/67942))
@@ -89,7 +90,6 @@
 * [MoM] Update lifting field description ([#67753](https://github.com/CleverRaven/Cataclysm-DDA/pull/67753))
 * Fix NPC craft on the table in vehicle ([#67770](https://github.com/CleverRaven/Cataclysm-DDA/pull/67770))
 * Routine i18n updates on 19 August 2023 ([#67765](https://github.com/CleverRaven/Cataclysm-DDA/pull/67765))
-* Iced tea and iced coffee conditional variants of sweetened tea/sweetened milk coffee when cold ([#67745](https://github.com/CleverRaven/Cataclysm-DDA/pull/67745))
 * Allow Sonia to jam out ([#67747](https://github.com/CleverRaven/Cataclysm-DDA/pull/67747))
 * Removes unnecessary ammo charge definitions on empty guns ([#67764](https://github.com/CleverRaven/Cataclysm-DDA/pull/67764))
 * Unhardcode mx_mayhem ([#67763](https://github.com/CleverRaven/Cataclysm-DDA/pull/67763))
