@@ -1,3 +1,4 @@
+* Object creator merge windows into a tabbed view ([#67955](https://github.com/CleverRaven/Cataclysm-DDA/pull/67955))
 * More addiction snippets ([#67948](https://github.com/CleverRaven/Cataclysm-DDA/pull/67948))
 * Removed obsolete bed provides ([#67950](https://github.com/CleverRaven/Cataclysm-DDA/pull/67950))
 * Condition: count spells by spell class ([#67946](https://github.com/CleverRaven/Cataclysm-DDA/pull/67946))
@@ -87,7 +88,6 @@
 * Colourize confirm message in compare item screen ([#67778](https://github.com/CleverRaven/Cataclysm-DDA/pull/67778))
 * Update the table of contents in doc/JSON_INFO.md ([#67775](https://github.com/CleverRaven/Cataclysm-DDA/pull/67775))
 * Defense mode CI fix ([#67766](https://github.com/CleverRaven/Cataclysm-DDA/pull/67766))
-* Added profession age bounds for randomly generated characters ([#67756](https://github.com/CleverRaven/Cataclysm-DDA/pull/67756))
 * Add a recipe filter for activity level ([#67771](https://github.com/CleverRaven/Cataclysm-DDA/pull/67771))
 * Fix NPC craft on the table in vehicle ([#67770](https://github.com/CleverRaven/Cataclysm-DDA/pull/67770))
 * Routine i18n updates on 19 August 2023 ([#67765](https://github.com/CleverRaven/Cataclysm-DDA/pull/67765))
