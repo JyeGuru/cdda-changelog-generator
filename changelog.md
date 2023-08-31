@@ -1,3 +1,4 @@
+* Changed one symbol to fix misplaced carpet in steel mill ([#67956](https://github.com/CleverRaven/Cataclysm-DDA/pull/67956))
 * Object creator merge windows into a tabbed view ([#67955](https://github.com/CleverRaven/Cataclysm-DDA/pull/67955))
 * More addiction snippets ([#67948](https://github.com/CleverRaven/Cataclysm-DDA/pull/67948))
 * Removed obsolete bed provides ([#67950](https://github.com/CleverRaven/Cataclysm-DDA/pull/67950))
@@ -66,7 +67,6 @@
 * [innawood] add alternative recipe to office scissors ([#67826](https://github.com/CleverRaven/Cataclysm-DDA/pull/67826))
 * Fix some problems with the Defense Mode merchant ([#67822](https://github.com/CleverRaven/Cataclysm-DDA/pull/67822))
 * New weapon: kanabō ([#67810](https://github.com/CleverRaven/Cataclysm-DDA/pull/67810))
-* [MoM] Add Enervation damage type, apply it to Eater and feral vitakinetics ([#67757](https://github.com/CleverRaven/Cataclysm-DDA/pull/67757))
 * [DinoMod] loot and grammar fixes ([#67816](https://github.com/CleverRaven/Cataclysm-DDA/pull/67816))
 * [MoM] Add missing word to refined matrix crystal [powder], blue ([#67820](https://github.com/CleverRaven/Cataclysm-DDA/pull/67820))
 * Fixes to select timepoint menu ([#67812](https://github.com/CleverRaven/Cataclysm-DDA/pull/67812))
