@@ -1,3 +1,4 @@
+* [DinoMod] more interesting behavior part 1 ([#67830](https://github.com/CleverRaven/Cataclysm-DDA/pull/67830))
 * [Magiclysm] Rework Nature's Bow to require ammo, add spell to create ammo ([#67877](https://github.com/CleverRaven/Cataclysm-DDA/pull/67877))
 * Changed one symbol to fix misplaced carpet in steel mill ([#67956](https://github.com/CleverRaven/Cataclysm-DDA/pull/67956))
 * Object creator merge windows into a tabbed view ([#67955](https://github.com/CleverRaven/Cataclysm-DDA/pull/67955))
