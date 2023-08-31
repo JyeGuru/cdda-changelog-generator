@@ -1,3 +1,4 @@
+* [Magiclysm] Add ancient stone circle (with translocate altar) ([#67961](https://github.com/CleverRaven/Cataclysm-DDA/pull/67961))
 * Separate Proficiency and Skill training speed option ([#67925](https://github.com/CleverRaven/Cataclysm-DDA/pull/67925))
 * [DinoMod] more interesting behavior part 1 ([#67830](https://github.com/CleverRaven/Cataclysm-DDA/pull/67830))
 * [Magiclysm] Rework Nature's Bow to require ammo, add spell to create ammo ([#67877](https://github.com/CleverRaven/Cataclysm-DDA/pull/67877))
@@ -93,4 +94,3 @@
 * Add a recipe filter for activity level ([#67771](https://github.com/CleverRaven/Cataclysm-DDA/pull/67771))
 * Fix NPC craft on the table in vehicle ([#67770](https://github.com/CleverRaven/Cataclysm-DDA/pull/67770))
 * Routine i18n updates on 19 August 2023 ([#67765](https://github.com/CleverRaven/Cataclysm-DDA/pull/67765))
-* Removes unnecessary ammo charge definitions on empty guns ([#67764](https://github.com/CleverRaven/Cataclysm-DDA/pull/67764))
