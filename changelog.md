@@ -1,3 +1,4 @@
+* [Magiclysm] Rework Nature's Bow to require ammo, add spell to create ammo ([#67877](https://github.com/CleverRaven/Cataclysm-DDA/pull/67877))
 * Changed one symbol to fix misplaced carpet in steel mill ([#67956](https://github.com/CleverRaven/Cataclysm-DDA/pull/67956))
 * Object creator merge windows into a tabbed view ([#67955](https://github.com/CleverRaven/Cataclysm-DDA/pull/67955))
 * More addiction snippets ([#67948](https://github.com/CleverRaven/Cataclysm-DDA/pull/67948))
@@ -63,7 +64,6 @@
 * Make swarms of bees needing an apiary a little more obvious ([#67834](https://github.com/CleverRaven/Cataclysm-DDA/pull/67834))
 * [Magiclysm] Add three Earthshaper spells ([#67814](https://github.com/CleverRaven/Cataclysm-DDA/pull/67814))
 * Fix crash in object creator spell window ([#67825](https://github.com/CleverRaven/Cataclysm-DDA/pull/67825))
-* Add better infrastructure to support Aftershock Skullgun ([#67758](https://github.com/CleverRaven/Cataclysm-DDA/pull/67758))
 * [innawood] add alternative recipe to office scissors ([#67826](https://github.com/CleverRaven/Cataclysm-DDA/pull/67826))
 * Fix some problems with the Defense Mode merchant ([#67822](https://github.com/CleverRaven/Cataclysm-DDA/pull/67822))
 * New weapon: kanabō ([#67810](https://github.com/CleverRaven/Cataclysm-DDA/pull/67810))
