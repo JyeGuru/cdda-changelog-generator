@@ -1,3 +1,4 @@
+* Routine i18n updates on 02 September 2023 ([#67983](https://github.com/CleverRaven/Cataclysm-DDA/pull/67983))
 * Routine tileset updates on 01 September 2023 ([#67969](https://github.com/CleverRaven/Cataclysm-DDA/pull/67969))
 * Improve turn performance by caching default input ctx ([#67957](https://github.com/CleverRaven/Cataclysm-DDA/pull/67957))
 * [Magiclysm] Add ancient stone circle (with translocate altar) ([#67961](https://github.com/CleverRaven/Cataclysm-DDA/pull/67961))
@@ -80,7 +81,6 @@
 * Cooldown All The Leaping ([#67819](https://github.com/CleverRaven/Cataclysm-DDA/pull/67819))
 * [Xedra Evolved] Add Vampire blood levels to standard sidebar options in Xedra Evolved ([#67784](https://github.com/CleverRaven/Cataclysm-DDA/pull/67784))
 * Folding Seat belts and tweaks ([#67796](https://github.com/CleverRaven/Cataclysm-DDA/pull/67796))
-* Add dogs barks ([#67768](https://github.com/CleverRaven/Cataclysm-DDA/pull/67768))
 * Fix PAGE/UP keys not scrolling text up ([#67792](https://github.com/CleverRaven/Cataclysm-DDA/pull/67792))
 * Allow the NECC NPCs to say your name in dialogue. ([#67795](https://github.com/CleverRaven/Cataclysm-DDA/pull/67795))
 * No duplicate linear predecessors ([#67773](https://github.com/CleverRaven/Cataclysm-DDA/pull/67773))
