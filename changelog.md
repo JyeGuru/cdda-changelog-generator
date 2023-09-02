@@ -1,3 +1,4 @@
+* More cars strikes back ([#67986](https://github.com/CleverRaven/Cataclysm-DDA/pull/67986))
 * It gets hot (Overheat mechanics for energy guns) ([#67959](https://github.com/CleverRaven/Cataclysm-DDA/pull/67959))
 * fix: minor typo ([#67970](https://github.com/CleverRaven/Cataclysm-DDA/pull/67970))
 * Fix rotorcraft debug message ([#67972](https://github.com/CleverRaven/Cataclysm-DDA/pull/67972))
@@ -93,4 +94,3 @@
 * Felicity Powell isn't fashionable anymore ([#67786](https://github.com/CleverRaven/Cataclysm-DDA/pull/67786))
 * Add note about running locally to compiling-devcontainer.md ([#67780](https://github.com/CleverRaven/Cataclysm-DDA/pull/67780))
 * Colourize confirm message in compare item screen ([#67778](https://github.com/CleverRaven/Cataclysm-DDA/pull/67778))
-* Update the table of contents in doc/JSON_INFO.md ([#67775](https://github.com/CleverRaven/Cataclysm-DDA/pull/67775))
