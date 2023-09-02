@@ -1,3 +1,4 @@
+* It gets hot (Overheat mechanics for energy guns) ([#67959](https://github.com/CleverRaven/Cataclysm-DDA/pull/67959))
 * fix: minor typo ([#67970](https://github.com/CleverRaven/Cataclysm-DDA/pull/67970))
 * Fix rotorcraft debug message ([#67972](https://github.com/CleverRaven/Cataclysm-DDA/pull/67972))
 * Distinguish sieving and straining in recipes ([#67918](https://github.com/CleverRaven/Cataclysm-DDA/pull/67918))
@@ -86,7 +87,6 @@
 * Folding Seat belts and tweaks ([#67796](https://github.com/CleverRaven/Cataclysm-DDA/pull/67796))
 * Fix PAGE/UP keys not scrolling text up ([#67792](https://github.com/CleverRaven/Cataclysm-DDA/pull/67792))
 * Allow the NECC NPCs to say your name in dialogue. ([#67795](https://github.com/CleverRaven/Cataclysm-DDA/pull/67795))
-* No duplicate linear predecessors ([#67773](https://github.com/CleverRaven/Cataclysm-DDA/pull/67773))
 * Insecticide audit ([#67789](https://github.com/CleverRaven/Cataclysm-DDA/pull/67789))
 * Erase invalid or blacklisted nested categories ([#67779](https://github.com/CleverRaven/Cataclysm-DDA/pull/67779))
 * Fix Zachary giving you his mission multiple times ([#67787](https://github.com/CleverRaven/Cataclysm-DDA/pull/67787))
