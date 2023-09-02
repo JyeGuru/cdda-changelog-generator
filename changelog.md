@@ -1,3 +1,4 @@
+* Distinguish sieving and straining in recipes ([#67918](https://github.com/CleverRaven/Cataclysm-DDA/pull/67918))
 * Routine i18n updates on 02 September 2023 ([#67983](https://github.com/CleverRaven/Cataclysm-DDA/pull/67983))
 * Routine tileset updates on 01 September 2023 ([#67969](https://github.com/CleverRaven/Cataclysm-DDA/pull/67969))
 * Improve turn performance by caching default input ctx ([#67957](https://github.com/CleverRaven/Cataclysm-DDA/pull/67957))
@@ -93,4 +94,3 @@
 * Colourize confirm message in compare item screen ([#67778](https://github.com/CleverRaven/Cataclysm-DDA/pull/67778))
 * Update the table of contents in doc/JSON_INFO.md ([#67775](https://github.com/CleverRaven/Cataclysm-DDA/pull/67775))
 * Add a recipe filter for activity level ([#67771](https://github.com/CleverRaven/Cataclysm-DDA/pull/67771))
-* Fix NPC craft on the table in vehicle ([#67770](https://github.com/CleverRaven/Cataclysm-DDA/pull/67770))
