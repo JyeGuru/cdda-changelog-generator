@@ -1,3 +1,4 @@
+* fix: minor typo ([#67970](https://github.com/CleverRaven/Cataclysm-DDA/pull/67970))
 * Fix rotorcraft debug message ([#67972](https://github.com/CleverRaven/Cataclysm-DDA/pull/67972))
 * Distinguish sieving and straining in recipes ([#67918](https://github.com/CleverRaven/Cataclysm-DDA/pull/67918))
 * Routine i18n updates on 02 September 2023 ([#67983](https://github.com/CleverRaven/Cataclysm-DDA/pull/67983))
@@ -88,7 +89,6 @@
 * No duplicate linear predecessors ([#67773](https://github.com/CleverRaven/Cataclysm-DDA/pull/67773))
 * Insecticide audit ([#67789](https://github.com/CleverRaven/Cataclysm-DDA/pull/67789))
 * Erase invalid or blacklisted nested categories ([#67779](https://github.com/CleverRaven/Cataclysm-DDA/pull/67779))
-* Allow free selection of cataclysm and game start dates in new character menu ([#67772](https://github.com/CleverRaven/Cataclysm-DDA/pull/67772))
 * Fix Zachary giving you his mission multiple times ([#67787](https://github.com/CleverRaven/Cataclysm-DDA/pull/67787))
 * Felicity Powell isn't fashionable anymore ([#67786](https://github.com/CleverRaven/Cataclysm-DDA/pull/67786))
 * Add note about running locally to compiling-devcontainer.md ([#67780](https://github.com/CleverRaven/Cataclysm-DDA/pull/67780))
