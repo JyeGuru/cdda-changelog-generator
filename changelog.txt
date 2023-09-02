@@ -1,3 +1,4 @@
+* Fix rotorcraft debug message (#67972)
 * Distinguish sieving and straining in recipes (#67918)
 * Routine i18n updates on 02 September 2023 (#67983)
 * Routine tileset updates on 01 September 2023 (#67969)
@@ -93,4 +94,3 @@
 * Add note about running locally to compiling-devcontainer.md (#67780)
 * Colourize confirm message in compare item screen (#67778)
 * Update the table of contents in doc/JSON_INFO.md (#67775)
-* Add a recipe filter for activity level (#67771)
