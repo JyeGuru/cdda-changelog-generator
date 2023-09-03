@@ -1,3 +1,4 @@
+* fix some issues with backup generator ([#67973](https://github.com/CleverRaven/Cataclysm-DDA/pull/67973))
 * Revert "Improve turn performance by caching default input ctx" ([#67980](https://github.com/CleverRaven/Cataclysm-DDA/pull/67980))
 * Office skyscraper revival ([#67981](https://github.com/CleverRaven/Cataclysm-DDA/pull/67981))
 * Updated camp help to reflect removal of bed restrictions on expansion ([#67994](https://github.com/CleverRaven/Cataclysm-DDA/pull/67994))
