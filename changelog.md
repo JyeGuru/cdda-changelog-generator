@@ -1,3 +1,5 @@
+* Revert "Improve turn performance by caching default input ctx" ([#67980](https://github.com/CleverRaven/Cataclysm-DDA/pull/67980))
+* Office skyscraper revival ([#67981](https://github.com/CleverRaven/Cataclysm-DDA/pull/67981))
 * Updated camp help to reflect removal of bed restrictions on expansion ([#67994](https://github.com/CleverRaven/Cataclysm-DDA/pull/67994))
 * Invalidate crafting inventory and cached carry weight in place_construction ([#67977](https://github.com/CleverRaven/Cataclysm-DDA/pull/67977))
 * Fix field base camp version 2 NE shack/tent progression ([#67984](https://github.com/CleverRaven/Cataclysm-DDA/pull/67984))
@@ -92,5 +94,3 @@
 * Fix PAGE/UP keys not scrolling text up ([#67792](https://github.com/CleverRaven/Cataclysm-DDA/pull/67792))
 * Allow the NECC NPCs to say your name in dialogue. ([#67795](https://github.com/CleverRaven/Cataclysm-DDA/pull/67795))
 * Insecticide audit ([#67789](https://github.com/CleverRaven/Cataclysm-DDA/pull/67789))
-* Fix Zachary giving you his mission multiple times ([#67787](https://github.com/CleverRaven/Cataclysm-DDA/pull/67787))
-* Felicity Powell isn't fashionable anymore ([#67786](https://github.com/CleverRaven/Cataclysm-DDA/pull/67786))
