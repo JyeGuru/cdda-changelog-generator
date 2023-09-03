@@ -1,3 +1,4 @@
+* Updated camp help to reflect removal of bed restrictions on expansion (#67994)
 * Invalidate crafting inventory and cached carry weight in place_construction (#67977)
 * Fix field base camp version 2 NE shack/tent progression (#67984)
 * [Magiclysm] "Frost Cream Man" Profession now has the Driving proficiency (#67988)
@@ -87,7 +88,6 @@
 * [MoM] Adjust stamina costs (#67808)
 * Correct metal fencing sword recipe category. (#67813)
 * Cooldown All The Leaping (#67819)
-* [Xedra Evolved] Add Vampire blood levels to standard sidebar options in Xedra Evolved (#67784)
 * Folding Seat belts and tweaks (#67796)
 * Fix PAGE/UP keys not scrolling text up (#67792)
 * Allow the NECC NPCs to say your name in dialogue. (#67795)
