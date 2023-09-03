@@ -1,3 +1,4 @@
+* [Magiclysm] "Frost Cream Man" Profession now has the Driving proficiency ([#67988](https://github.com/CleverRaven/Cataclysm-DDA/pull/67988))
 * More cars strikes back ([#67986](https://github.com/CleverRaven/Cataclysm-DDA/pull/67986))
 * It gets hot (Overheat mechanics for energy guns) ([#67959](https://github.com/CleverRaven/Cataclysm-DDA/pull/67959))
 * fix: minor typo ([#67970](https://github.com/CleverRaven/Cataclysm-DDA/pull/67970))
@@ -93,4 +94,3 @@
 * Fix Zachary giving you his mission multiple times ([#67787](https://github.com/CleverRaven/Cataclysm-DDA/pull/67787))
 * Felicity Powell isn't fashionable anymore ([#67786](https://github.com/CleverRaven/Cataclysm-DDA/pull/67786))
 * Add note about running locally to compiling-devcontainer.md ([#67780](https://github.com/CleverRaven/Cataclysm-DDA/pull/67780))
-* Colourize confirm message in compare item screen ([#67778](https://github.com/CleverRaven/Cataclysm-DDA/pull/67778))
