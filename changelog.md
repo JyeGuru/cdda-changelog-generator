@@ -1,3 +1,4 @@
+* Invalidate crafting inventory and cached carry weight in place_construction ([#67977](https://github.com/CleverRaven/Cataclysm-DDA/pull/67977))
 * Fix field base camp version 2 NE shack/tent progression ([#67984](https://github.com/CleverRaven/Cataclysm-DDA/pull/67984))
 * [Magiclysm] "Frost Cream Man" Profession now has the Driving proficiency ([#67988](https://github.com/CleverRaven/Cataclysm-DDA/pull/67988))
 * More cars strikes back ([#67986](https://github.com/CleverRaven/Cataclysm-DDA/pull/67986))
@@ -93,4 +94,3 @@
 * Insecticide audit ([#67789](https://github.com/CleverRaven/Cataclysm-DDA/pull/67789))
 * Fix Zachary giving you his mission multiple times ([#67787](https://github.com/CleverRaven/Cataclysm-DDA/pull/67787))
 * Felicity Powell isn't fashionable anymore ([#67786](https://github.com/CleverRaven/Cataclysm-DDA/pull/67786))
-* Add note about running locally to compiling-devcontainer.md ([#67780](https://github.com/CleverRaven/Cataclysm-DDA/pull/67780))
