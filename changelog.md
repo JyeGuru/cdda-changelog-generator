@@ -1,3 +1,4 @@
+* [Magiclysm] Remove default skills from fantasy species choices ([#68000](https://github.com/CleverRaven/Cataclysm-DDA/pull/68000))
 * fix some issues with backup generator ([#67973](https://github.com/CleverRaven/Cataclysm-DDA/pull/67973))
 * Revert "Improve turn performance by caching default input ctx" ([#67980](https://github.com/CleverRaven/Cataclysm-DDA/pull/67980))
 * Office skyscraper revival ([#67981](https://github.com/CleverRaven/Cataclysm-DDA/pull/67981))
@@ -94,4 +95,3 @@
 * Folding Seat belts and tweaks ([#67796](https://github.com/CleverRaven/Cataclysm-DDA/pull/67796))
 * Fix PAGE/UP keys not scrolling text up ([#67792](https://github.com/CleverRaven/Cataclysm-DDA/pull/67792))
 * Allow the NECC NPCs to say your name in dialogue. ([#67795](https://github.com/CleverRaven/Cataclysm-DDA/pull/67795))
-* Insecticide audit ([#67789](https://github.com/CleverRaven/Cataclysm-DDA/pull/67789))
