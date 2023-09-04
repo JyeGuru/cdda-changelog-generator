@@ -1,3 +1,4 @@
+* Heavy punching bag uses heavy punching bag sack ([#68003](https://github.com/CleverRaven/Cataclysm-DDA/pull/68003))
 * [Xedra Evolved] Eater Sixth Sense ([#67898](https://github.com/CleverRaven/Cataclysm-DDA/pull/67898))
 * Add longest_side to some items ([#67995](https://github.com/CleverRaven/Cataclysm-DDA/pull/67995))
 * Add splash screen to Object Creator ([#67965](https://github.com/CleverRaven/Cataclysm-DDA/pull/67965))
@@ -92,6 +93,5 @@
 * [DinoMod] loot and grammar fixes ([#67816](https://github.com/CleverRaven/Cataclysm-DDA/pull/67816))
 * [MoM] Add missing word to refined matrix crystal [powder], blue ([#67820](https://github.com/CleverRaven/Cataclysm-DDA/pull/67820))
 * Fixes to select timepoint menu ([#67812](https://github.com/CleverRaven/Cataclysm-DDA/pull/67812))
-* [MoM] Adjust stamina costs ([#67808](https://github.com/CleverRaven/Cataclysm-DDA/pull/67808))
 * Correct metal fencing sword recipe category. ([#67813](https://github.com/CleverRaven/Cataclysm-DDA/pull/67813))
 * Cooldown All The Leaping ([#67819](https://github.com/CleverRaven/Cataclysm-DDA/pull/67819))
