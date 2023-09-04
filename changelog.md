@@ -1,3 +1,6 @@
+* [DinoMod] more interesting behavior part 2 ([#67982](https://github.com/CleverRaven/Cataclysm-DDA/pull/67982))
+* mom: fix incorrect spell id ([#68001](https://github.com/CleverRaven/Cataclysm-DDA/pull/68001))
+* [MoM] Typo fix ([#67999](https://github.com/CleverRaven/Cataclysm-DDA/pull/67999))
 * [MoM] Add overheating to LV-429 ([#67998](https://github.com/CleverRaven/Cataclysm-DDA/pull/67998))
 * [Magiclysm] Remove default skills from fantasy species choices ([#68000](https://github.com/CleverRaven/Cataclysm-DDA/pull/68000))
 * fix some issues with backup generator ([#67973](https://github.com/CleverRaven/Cataclysm-DDA/pull/67973))
@@ -92,6 +95,3 @@
 * [MoM] Adjust stamina costs ([#67808](https://github.com/CleverRaven/Cataclysm-DDA/pull/67808))
 * Correct metal fencing sword recipe category. ([#67813](https://github.com/CleverRaven/Cataclysm-DDA/pull/67813))
 * Cooldown All The Leaping ([#67819](https://github.com/CleverRaven/Cataclysm-DDA/pull/67819))
-* Folding Seat belts and tweaks ([#67796](https://github.com/CleverRaven/Cataclysm-DDA/pull/67796))
-* Fix PAGE/UP keys not scrolling text up ([#67792](https://github.com/CleverRaven/Cataclysm-DDA/pull/67792))
-* Allow the NECC NPCs to say your name in dialogue. ([#67795](https://github.com/CleverRaven/Cataclysm-DDA/pull/67795))
