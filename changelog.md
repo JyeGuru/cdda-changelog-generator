@@ -1,3 +1,4 @@
+* [MoM] Add overheating to LV-429 ([#67998](https://github.com/CleverRaven/Cataclysm-DDA/pull/67998))
 * [Magiclysm] Remove default skills from fantasy species choices ([#68000](https://github.com/CleverRaven/Cataclysm-DDA/pull/68000))
 * fix some issues with backup generator ([#67973](https://github.com/CleverRaven/Cataclysm-DDA/pull/67973))
 * Revert "Improve turn performance by caching default input ctx" ([#67980](https://github.com/CleverRaven/Cataclysm-DDA/pull/67980))
@@ -77,7 +78,6 @@
 * Weekly Changelog 2023-08-14 to 2023-08-21 ([#67800](https://github.com/CleverRaven/Cataclysm-DDA/pull/67800))
 * [Defense Mode]: My Sweet Cataclysm compatibility ([#67839](https://github.com/CleverRaven/Cataclysm-DDA/pull/67839))
 * Update JSON_FLAGS.md ([#67838](https://github.com/CleverRaven/Cataclysm-DDA/pull/67838))
-* Code optimizations reported by static code analysis (2023-08-20) ([#67791](https://github.com/CleverRaven/Cataclysm-DDA/pull/67791))
 * Making better EoC doc, part two ([#67807](https://github.com/CleverRaven/Cataclysm-DDA/pull/67807))
 * Mods Over Matter: Defense Mode Compatibility for MOM ([#67833](https://github.com/CleverRaven/Cataclysm-DDA/pull/67833))
 * Make swarms of bees needing an apiary a little more obvious ([#67834](https://github.com/CleverRaven/Cataclysm-DDA/pull/67834))
