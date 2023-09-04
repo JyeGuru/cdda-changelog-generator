@@ -1,3 +1,4 @@
+* Add longest_side to some items (#67995)
 * Add splash screen to Object Creator (#67965)
 * [DinoMod] more interesting behavior part 2 (#67982)
 * mom: fix incorrect spell id (#68001)
@@ -76,7 +77,6 @@
 * Construct open air (#67866)
 * Add insecticide to temperature tracking removal blacklist (#67865)
 * Prevent the vmenu from drawing junk in w_terrain (#67849)
-* [Magiclysm] Add Whisper of the Leaves druid spell (#67801)
 * Restored accidentally deleted action (#67859)
 * Port strange temple softlock fix from TISH (#67823)
 * [Defense Mode]: My Sweet Cataclysm compatibility (#67839)

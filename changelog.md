@@ -1,3 +1,4 @@
+* Add longest_side to some items ([#67995](https://github.com/CleverRaven/Cataclysm-DDA/pull/67995))
 * Add splash screen to Object Creator ([#67965](https://github.com/CleverRaven/Cataclysm-DDA/pull/67965))
 * [DinoMod] more interesting behavior part 2 ([#67982](https://github.com/CleverRaven/Cataclysm-DDA/pull/67982))
 * mom: fix incorrect spell id ([#68001](https://github.com/CleverRaven/Cataclysm-DDA/pull/68001))
@@ -76,7 +77,6 @@
 * Construct open air ([#67866](https://github.com/CleverRaven/Cataclysm-DDA/pull/67866))
 * Add insecticide to temperature tracking removal blacklist ([#67865](https://github.com/CleverRaven/Cataclysm-DDA/pull/67865))
 * Prevent the vmenu from drawing junk in w_terrain ([#67849](https://github.com/CleverRaven/Cataclysm-DDA/pull/67849))
-* [Magiclysm] Add Whisper of the Leaves druid spell ([#67801](https://github.com/CleverRaven/Cataclysm-DDA/pull/67801))
 * Restored accidentally deleted action ([#67859](https://github.com/CleverRaven/Cataclysm-DDA/pull/67859))
 * Port strange temple softlock fix from TISH ([#67823](https://github.com/CleverRaven/Cataclysm-DDA/pull/67823))
 * [Defense Mode]: My Sweet Cataclysm compatibility ([#67839](https://github.com/CleverRaven/Cataclysm-DDA/pull/67839))
