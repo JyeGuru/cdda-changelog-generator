@@ -1,3 +1,4 @@
+* [ Xedra Evolved ]Border Patrol Office Improvements ([#68012](https://github.com/CleverRaven/Cataclysm-DDA/pull/68012))
 * Cache results of item search functions ([#67835](https://github.com/CleverRaven/Cataclysm-DDA/pull/67835))
 * [Magiclysm] Add seven more spells (it's a pattern) ([#67947](https://github.com/CleverRaven/Cataclysm-DDA/pull/67947))
 * Weekly Changelog 2023-08-28 to 2023-09-04 ([#68002](https://github.com/CleverRaven/Cataclysm-DDA/pull/68002))
@@ -88,7 +89,6 @@
 * Update JSON_FLAGS.md ([#67838](https://github.com/CleverRaven/Cataclysm-DDA/pull/67838))
 * Mods Over Matter: Defense Mode Compatibility for MOM ([#67833](https://github.com/CleverRaven/Cataclysm-DDA/pull/67833))
 * Make swarms of bees needing an apiary a little more obvious ([#67834](https://github.com/CleverRaven/Cataclysm-DDA/pull/67834))
-* [Magiclysm] Add three Earthshaper spells ([#67814](https://github.com/CleverRaven/Cataclysm-DDA/pull/67814))
 * Fix crash in object creator spell window ([#67825](https://github.com/CleverRaven/Cataclysm-DDA/pull/67825))
 * [innawood] add alternative recipe to office scissors ([#67826](https://github.com/CleverRaven/Cataclysm-DDA/pull/67826))
 * Fix some problems with the Defense Mode merchant ([#67822](https://github.com/CleverRaven/Cataclysm-DDA/pull/67822))
