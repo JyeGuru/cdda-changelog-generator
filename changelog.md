@@ -1,3 +1,4 @@
+* Cache results of item search functions ([#67835](https://github.com/CleverRaven/Cataclysm-DDA/pull/67835))
 * [Magiclysm] Add seven more spells (it's a pattern) ([#67947](https://github.com/CleverRaven/Cataclysm-DDA/pull/67947))
 * Weekly Changelog 2023-08-28 to 2023-09-04 ([#68002](https://github.com/CleverRaven/Cataclysm-DDA/pull/68002))
 * Heavy punching bag uses heavy punching bag sack ([#68003](https://github.com/CleverRaven/Cataclysm-DDA/pull/68003))
@@ -93,5 +94,4 @@
 * Fix some problems with the Defense Mode merchant ([#67822](https://github.com/CleverRaven/Cataclysm-DDA/pull/67822))
 * [DinoMod] loot and grammar fixes ([#67816](https://github.com/CleverRaven/Cataclysm-DDA/pull/67816))
 * [MoM] Add missing word to refined matrix crystal [powder], blue ([#67820](https://github.com/CleverRaven/Cataclysm-DDA/pull/67820))
-* Correct metal fencing sword recipe category. ([#67813](https://github.com/CleverRaven/Cataclysm-DDA/pull/67813))
 * Cooldown All The Leaping ([#67819](https://github.com/CleverRaven/Cataclysm-DDA/pull/67819))
