@@ -1,3 +1,4 @@
+* prevent the default backgrounds from being added to templates and random scenarios ([#68013](https://github.com/CleverRaven/Cataclysm-DDA/pull/68013))
 * [ Xedra Evolved ]Border Patrol Office Improvements ([#68012](https://github.com/CleverRaven/Cataclysm-DDA/pull/68012))
 * Cache results of item search functions ([#67835](https://github.com/CleverRaven/Cataclysm-DDA/pull/67835))
 * [Magiclysm] Add seven more spells (it's a pattern) ([#67947](https://github.com/CleverRaven/Cataclysm-DDA/pull/67947))
