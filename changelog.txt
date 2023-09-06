@@ -95,4 +95,3 @@
 * Fix crash in object creator spell window (#67825)
 * [innawood] add alternative recipe to office scissors (#67826)
 * Fix some problems with the Defense Mode merchant (#67822)
-* [MoM] Add missing word to refined matrix crystal [powder], blue (#67820)
