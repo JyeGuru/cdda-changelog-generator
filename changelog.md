@@ -1,3 +1,4 @@
+* JSON-ize faction camp hunting returns ([#68014](https://github.com/CleverRaven/Cataclysm-DDA/pull/68014))
 * Fixes to documentation ([#68008](https://github.com/CleverRaven/Cataclysm-DDA/pull/68008))
 * Character creation: small screen fixes ([#67936](https://github.com/CleverRaven/Cataclysm-DDA/pull/67936))
 * prevent the default backgrounds from being added to templates and random scenarios ([#68013](https://github.com/CleverRaven/Cataclysm-DDA/pull/68013))
@@ -95,4 +96,3 @@
 * [innawood] add alternative recipe to office scissors ([#67826](https://github.com/CleverRaven/Cataclysm-DDA/pull/67826))
 * Fix some problems with the Defense Mode merchant ([#67822](https://github.com/CleverRaven/Cataclysm-DDA/pull/67822))
 * [MoM] Add missing word to refined matrix crystal [powder], blue ([#67820](https://github.com/CleverRaven/Cataclysm-DDA/pull/67820))
-* Cooldown All The Leaping ([#67819](https://github.com/CleverRaven/Cataclysm-DDA/pull/67819))
