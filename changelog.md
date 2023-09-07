@@ -1,3 +1,4 @@
+* Fix alder_bark density ([#68042](https://github.com/CleverRaven/Cataclysm-DDA/pull/68042))
 * Debug menu option to adjust NPC personality ([#68026](https://github.com/CleverRaven/Cataclysm-DDA/pull/68026))
 * [Magiclysm] Add nature spirits, part 1 ([#67975](https://github.com/CleverRaven/Cataclysm-DDA/pull/67975))
 * recipe result: mention in sealed container ([#68022](https://github.com/CleverRaven/Cataclysm-DDA/pull/68022))
@@ -36,7 +37,6 @@
 * Improve turn performance by caching default input ctx ([#67957](https://github.com/CleverRaven/Cataclysm-DDA/pull/67957))
 * [Magiclysm] Add ancient stone circle (with translocate altar) ([#67961](https://github.com/CleverRaven/Cataclysm-DDA/pull/67961))
 * Separate Proficiency and Skill training speed option ([#67925](https://github.com/CleverRaven/Cataclysm-DDA/pull/67925))
-* [DinoMod] more interesting behavior part 1 ([#67830](https://github.com/CleverRaven/Cataclysm-DDA/pull/67830))
 * [Magiclysm] Rework Nature's Bow to require ammo, add spell to create ammo ([#67877](https://github.com/CleverRaven/Cataclysm-DDA/pull/67877))
 * Changed one symbol to fix misplaced carpet in steel mill ([#67956](https://github.com/CleverRaven/Cataclysm-DDA/pull/67956))
 * Object creator merge windows into a tabbed view ([#67955](https://github.com/CleverRaven/Cataclysm-DDA/pull/67955))
