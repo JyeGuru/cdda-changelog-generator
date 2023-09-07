@@ -94,4 +94,3 @@
 * Update JSON_FLAGS.md (#67838)
 * Mods Over Matter: Defense Mode Compatibility for MOM (#67833)
 * Make swarms of bees needing an apiary a little more obvious (#67834)
-* [innawood] add alternative recipe to office scissors (#67826)
