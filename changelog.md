@@ -1,3 +1,4 @@
+* Aftershock energy weapons rebalance ([#68036](https://github.com/CleverRaven/Cataclysm-DDA/pull/68036))
 * [DinoMod] document lore ([#68005](https://github.com/CleverRaven/Cataclysm-DDA/pull/68005))
 * Use normal distribution for NPC altruism ([#68027](https://github.com/CleverRaven/Cataclysm-DDA/pull/68027))
 * [Magiclysm] Spirit faction fixes ([#68041](https://github.com/CleverRaven/Cataclysm-DDA/pull/68041))
@@ -93,4 +94,3 @@
 * Prevent the vmenu from drawing junk in w_terrain ([#67849](https://github.com/CleverRaven/Cataclysm-DDA/pull/67849))
 * Restored accidentally deleted action ([#67859](https://github.com/CleverRaven/Cataclysm-DDA/pull/67859))
 * [Defense Mode]: My Sweet Cataclysm compatibility ([#67839](https://github.com/CleverRaven/Cataclysm-DDA/pull/67839))
-* Update JSON_FLAGS.md ([#67838](https://github.com/CleverRaven/Cataclysm-DDA/pull/67838))
