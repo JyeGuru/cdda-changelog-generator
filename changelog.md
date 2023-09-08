@@ -1,3 +1,4 @@
+* Replace attack_chance with condition ([#68023](https://github.com/CleverRaven/Cataclysm-DDA/pull/68023))
 * [Magiclysm] Add fantasy species ferals ([#68025](https://github.com/CleverRaven/Cataclysm-DDA/pull/68025))
 * Cleanup arrows ([#68029](https://github.com/CleverRaven/Cataclysm-DDA/pull/68029))
 * [Magiclysm] Add warning message before dragon breath ([#68035](https://github.com/CleverRaven/Cataclysm-DDA/pull/68035))
@@ -81,7 +82,6 @@
 * Routine i18n updates on 26 August 2023 ([#67901](https://github.com/CleverRaven/Cataclysm-DDA/pull/67901))
 * Drinking veterans for the Ancilla bar ([#67852](https://github.com/CleverRaven/Cataclysm-DDA/pull/67852))
 * spell-highlight: properly highlight spell target tiles in TILES build when not using tileset ([#67884](https://github.com/CleverRaven/Cataclysm-DDA/pull/67884))
-* @ menu UI scrolling ([#67847](https://github.com/CleverRaven/Cataclysm-DDA/pull/67847))
 * Meaningful car, boat, and bicycle proficiencies ([#67854](https://github.com/CleverRaven/Cataclysm-DDA/pull/67854))
 * Ability to define certain trainings as teachable/unteachable ([#67855](https://github.com/CleverRaven/Cataclysm-DDA/pull/67855))
 * [Magiclysm] Edit Nature's Commune to provide morale and only be castable outdoors ([#67872](https://github.com/CleverRaven/Cataclysm-DDA/pull/67872))
