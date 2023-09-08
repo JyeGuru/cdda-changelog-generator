@@ -1,3 +1,4 @@
+* [Magiclysm] Add fantasy species ferals ([#68025](https://github.com/CleverRaven/Cataclysm-DDA/pull/68025))
 * Cleanup arrows ([#68029](https://github.com/CleverRaven/Cataclysm-DDA/pull/68029))
 * [Magiclysm] Add warning message before dragon breath ([#68035](https://github.com/CleverRaven/Cataclysm-DDA/pull/68035))
 * Add cordless drills to "power tools" itemgroup, create corded power drills ([#68021](https://github.com/CleverRaven/Cataclysm-DDA/pull/68021))
@@ -73,7 +74,6 @@
 * Instead of calling `exit()`, reset and signal the default handler ([#67893](https://github.com/CleverRaven/Cataclysm-DDA/pull/67893))
 * Players can teach proficiencies/spells/styles to NPCs ([#67910](https://github.com/CleverRaven/Cataclysm-DDA/pull/67910))
 * Aftershock: Rebalance Gibson  S86 ([#67912](https://github.com/CleverRaven/Cataclysm-DDA/pull/67912))
-* [Magiclysm] Even more spells (7 spells) ([#67843](https://github.com/CleverRaven/Cataclysm-DDA/pull/67843))
 * Jsonize helicopter piloting requirement ([#67876](https://github.com/CleverRaven/Cataclysm-DDA/pull/67876))
 * [MoM] Make psionic powers unteachable ([#67891](https://github.com/CleverRaven/Cataclysm-DDA/pull/67891))
 * NPC AI/ fleeing adjustments 2: Come back, little NPC ([#67870](https://github.com/CleverRaven/Cataclysm-DDA/pull/67870))
