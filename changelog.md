@@ -1,3 +1,4 @@
+* Add EOC condition: weapon category  ([#68044](https://github.com/CleverRaven/Cataclysm-DDA/pull/68044))
 * Replace attack_chance with condition ([#68023](https://github.com/CleverRaven/Cataclysm-DDA/pull/68023))
 * [Magiclysm] Add fantasy species ferals ([#68025](https://github.com/CleverRaven/Cataclysm-DDA/pull/68025))
 * Cleanup arrows ([#68029](https://github.com/CleverRaven/Cataclysm-DDA/pull/68029))
@@ -92,5 +93,4 @@
 * [Magiclysm] Fix Electric Waves enchant ([#67873](https://github.com/CleverRaven/Cataclysm-DDA/pull/67873))
 * Construct open air ([#67866](https://github.com/CleverRaven/Cataclysm-DDA/pull/67866))
 * Add insecticide to temperature tracking removal blacklist ([#67865](https://github.com/CleverRaven/Cataclysm-DDA/pull/67865))
-* Prevent the vmenu from drawing junk in w_terrain ([#67849](https://github.com/CleverRaven/Cataclysm-DDA/pull/67849))
 * Restored accidentally deleted action ([#67859](https://github.com/CleverRaven/Cataclysm-DDA/pull/67859))
