@@ -1,3 +1,4 @@
+* Memory management shouldn't bloat picking a fluid container 1000% ([#68053](https://github.com/CleverRaven/Cataclysm-DDA/pull/68053))
 * Sound-triggered traps ([#68047](https://github.com/CleverRaven/Cataclysm-DDA/pull/68047))
 * Routine i18n updates on 09 September 2023 ([#68052](https://github.com/CleverRaven/Cataclysm-DDA/pull/68052))
 * Add EOC condition: weapon category  ([#68044](https://github.com/CleverRaven/Cataclysm-DDA/pull/68044))
@@ -84,7 +85,6 @@
 * Add more things to Defense Mode ([#67894](https://github.com/CleverRaven/Cataclysm-DDA/pull/67894))
 * Routine i18n updates on 26 August 2023 ([#67901](https://github.com/CleverRaven/Cataclysm-DDA/pull/67901))
 * spell-highlight: properly highlight spell target tiles in TILES build when not using tileset ([#67884](https://github.com/CleverRaven/Cataclysm-DDA/pull/67884))
-* Ability to define certain trainings as teachable/unteachable ([#67855](https://github.com/CleverRaven/Cataclysm-DDA/pull/67855))
 * [Magiclysm] Edit Nature's Commune to provide morale and only be castable outdoors ([#67872](https://github.com/CleverRaven/Cataclysm-DDA/pull/67872))
 * Aftershock: Exosuit bugfixing ([#67880](https://github.com/CleverRaven/Cataclysm-DDA/pull/67880))
 * Misc clang-tidy fixes ([#67868](https://github.com/CleverRaven/Cataclysm-DDA/pull/67868))
