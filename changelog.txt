@@ -1,3 +1,4 @@
+* Walther PPQ9mm is not old. (#68066)
 * Restore the craft amount for arrows to 10 (#68068)
 * Revert "Update comment in hunting monstergroups to mention copy-from" (#68070)
 * [DinoMod] dino camp hunting (#68032)
@@ -59,7 +60,6 @@
 * Improve turn performance by caching default input ctx (#67957)
 * [Magiclysm] Add ancient stone circle (with translocate altar) (#67961)
 * Separate Proficiency and Skill training speed option (#67925)
-* [Magiclysm] Rework Nature's Bow to require ammo, add spell to create ammo (#67877)
 * Changed one symbol to fix misplaced carpet in steel mill (#67956)
 * Object creator merge windows into a tabbed view (#67955)
 * More addiction snippets (#67948)
