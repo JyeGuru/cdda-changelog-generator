@@ -1,3 +1,4 @@
+* Optimize loading of pockets with many items inside ([#68051](https://github.com/CleverRaven/Cataclysm-DDA/pull/68051))
 * Pineapple Supreme ([#68084](https://github.com/CleverRaven/Cataclysm-DDA/pull/68084))
 * Fix cattail jelly mission turn-in ([#68077](https://github.com/CleverRaven/Cataclysm-DDA/pull/68077))
 * Rebalance gunsmith ammo conversion ([#68076](https://github.com/CleverRaven/Cataclysm-DDA/pull/68076))
@@ -40,7 +41,6 @@
 * [Magiclysm] Add seven more spells (it's a pattern) ([#67947](https://github.com/CleverRaven/Cataclysm-DDA/pull/67947))
 * Weekly Changelog 2023-08-28 to 2023-09-04 ([#68002](https://github.com/CleverRaven/Cataclysm-DDA/pull/68002))
 * Heavy punching bag uses heavy punching bag sack ([#68003](https://github.com/CleverRaven/Cataclysm-DDA/pull/68003))
-* [Xedra Evolved] Eater Sixth Sense ([#67898](https://github.com/CleverRaven/Cataclysm-DDA/pull/67898))
 * Add longest_side to some items ([#67995](https://github.com/CleverRaven/Cataclysm-DDA/pull/67995))
 * Add splash screen to Object Creator ([#67965](https://github.com/CleverRaven/Cataclysm-DDA/pull/67965))
 * [DinoMod] more interesting behavior part 2 ([#67982](https://github.com/CleverRaven/Cataclysm-DDA/pull/67982))
