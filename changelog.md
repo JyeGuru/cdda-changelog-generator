@@ -1,3 +1,4 @@
+* Restore the craft amount for arrows to 10 ([#68068](https://github.com/CleverRaven/Cataclysm-DDA/pull/68068))
 * Revert "Update comment in hunting monstergroups to mention copy-from" ([#68070](https://github.com/CleverRaven/Cataclysm-DDA/pull/68070))
 * [DinoMod] dino camp hunting ([#68032](https://github.com/CleverRaven/Cataclysm-DDA/pull/68032))
 * Update some clothing pockets ([#68060](https://github.com/CleverRaven/Cataclysm-DDA/pull/68060))
@@ -88,7 +89,6 @@
 * Instead of calling `exit()`, reset and signal the default handler ([#67893](https://github.com/CleverRaven/Cataclysm-DDA/pull/67893))
 * Players can teach proficiencies/spells/styles to NPCs ([#67910](https://github.com/CleverRaven/Cataclysm-DDA/pull/67910))
 * Aftershock: Rebalance Gibson  S86 ([#67912](https://github.com/CleverRaven/Cataclysm-DDA/pull/67912))
-* Jsonize helicopter piloting requirement ([#67876](https://github.com/CleverRaven/Cataclysm-DDA/pull/67876))
 * [MoM] Make psionic powers unteachable ([#67891](https://github.com/CleverRaven/Cataclysm-DDA/pull/67891))
 * Add more things to Defense Mode ([#67894](https://github.com/CleverRaven/Cataclysm-DDA/pull/67894))
 * Routine i18n updates on 26 August 2023 ([#67901](https://github.com/CleverRaven/Cataclysm-DDA/pull/67901))
