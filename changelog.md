@@ -1,3 +1,5 @@
+* Option to ignore items in usage zones (i.e. firewood, auto-eat, etc) ([#68072](https://github.com/CleverRaven/Cataclysm-DDA/pull/68072))
+* [Object Creator] Instead of calling exit(), reset and signal the default handler ([#68071](https://github.com/CleverRaven/Cataclysm-DDA/pull/68071))
 * Walther PPQ9mm is not old. ([#68066](https://github.com/CleverRaven/Cataclysm-DDA/pull/68066))
 * Restore the craft amount for arrows to 10 ([#68068](https://github.com/CleverRaven/Cataclysm-DDA/pull/68068))
 * Revert "Update comment in hunting monstergroups to mention copy-from" ([#68070](https://github.com/CleverRaven/Cataclysm-DDA/pull/68070))
@@ -92,5 +94,3 @@
 * [MoM] Make psionic powers unteachable ([#67891](https://github.com/CleverRaven/Cataclysm-DDA/pull/67891))
 * Add more things to Defense Mode ([#67894](https://github.com/CleverRaven/Cataclysm-DDA/pull/67894))
 * Routine i18n updates on 26 August 2023 ([#67901](https://github.com/CleverRaven/Cataclysm-DDA/pull/67901))
-* spell-highlight: properly highlight spell target tiles in TILES build when not using tileset ([#67884](https://github.com/CleverRaven/Cataclysm-DDA/pull/67884))
-* Aftershock: Exosuit bugfixing ([#67880](https://github.com/CleverRaven/Cataclysm-DDA/pull/67880))
