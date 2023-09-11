@@ -1,3 +1,4 @@
+* [Magiclysm] More wizard furniture ([#68049](https://github.com/CleverRaven/Cataclysm-DDA/pull/68049))
 * Stop clearing weight carried cache unnecessarily ([#68087](https://github.com/CleverRaven/Cataclysm-DDA/pull/68087))
 * Updated Alloy Reference Manual ([#68098](https://github.com/CleverRaven/Cataclysm-DDA/pull/68098))
 * Unload sparse items only zone option ([#67932](https://github.com/CleverRaven/Cataclysm-DDA/pull/67932))
@@ -81,7 +82,6 @@
 * Removed obsolete bed provides ([#67950](https://github.com/CleverRaven/Cataclysm-DDA/pull/67950))
 * Condition: count spells by spell class ([#67946](https://github.com/CleverRaven/Cataclysm-DDA/pull/67946))
 * [Magiclysm] Add RNG to crystallized mana spawns ([#67924](https://github.com/CleverRaven/Cataclysm-DDA/pull/67924))
-* [Magiclysm] Add seven more spells (+ monsters + lab special) ([#67914](https://github.com/CleverRaven/Cataclysm-DDA/pull/67914))
 * [Magiclysm] Fix Ravenfolk mutation category name ([#67942](https://github.com/CleverRaven/Cataclysm-DDA/pull/67942))
 * Minor npc retreat bugfix ([#67941](https://github.com/CleverRaven/Cataclysm-DDA/pull/67941))
 * Weekly Changelog 2023-08-21 to 2023-08-28 ([#67926](https://github.com/CleverRaven/Cataclysm-DDA/pull/67926))
