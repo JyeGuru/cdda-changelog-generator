@@ -1,3 +1,4 @@
+* [Magiclysm] Make goblins myopic in light  (#68090)
 * Optimize loading of pockets with many items inside (#68051)
 * Pineapple Supreme (#68084)
 * Fix cattail jelly mission turn-in (#68077)
@@ -90,7 +91,6 @@
 * Default loot zone (#67907)
 * [Xedra Evolved] Make most dream powers unteachable (#67902)
 * Fix #67887   Backup Generator consumes all liquids (#67900)
-* Fixes #67888 (#67899)
 * Players can teach proficiencies/spells/styles to NPCs (#67910)
 * Aftershock: Rebalance Gibson  S86 (#67912)
 * Routine i18n updates on 26 August 2023 (#67901)
