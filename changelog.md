@@ -1,3 +1,4 @@
+* Add smartphone length (and adjust some items) ([#68095](https://github.com/CleverRaven/Cataclysm-DDA/pull/68095))
 * Add "category": "tool_magazine" to weld tanks ([#68092](https://github.com/CleverRaven/Cataclysm-DDA/pull/68092))
 * Ammo Effects 2: Judgment Day ([#68085](https://github.com/CleverRaven/Cataclysm-DDA/pull/68085))
 * Fix Magiclysm merge errors ([#68094](https://github.com/CleverRaven/Cataclysm-DDA/pull/68094))
@@ -77,7 +78,6 @@
 * Removed obsolete bed provides ([#67950](https://github.com/CleverRaven/Cataclysm-DDA/pull/67950))
 * Condition: count spells by spell class ([#67946](https://github.com/CleverRaven/Cataclysm-DDA/pull/67946))
 * [Magiclysm] Add RNG to crystallized mana spawns ([#67924](https://github.com/CleverRaven/Cataclysm-DDA/pull/67924))
-* Remove bed requirement for base expansion ([#67908](https://github.com/CleverRaven/Cataclysm-DDA/pull/67908))
 * [Magiclysm] Add seven more spells (+ monsters + lab special) ([#67914](https://github.com/CleverRaven/Cataclysm-DDA/pull/67914))
 * [Magiclysm] Fix Ravenfolk mutation category name ([#67942](https://github.com/CleverRaven/Cataclysm-DDA/pull/67942))
 * Minor npc retreat bugfix ([#67941](https://github.com/CleverRaven/Cataclysm-DDA/pull/67941))
