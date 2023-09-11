@@ -1,3 +1,4 @@
+* Undine healing fix. ([#68089](https://github.com/CleverRaven/Cataclysm-DDA/pull/68089))
 * [Magiclysm] Make goblins myopic in light  ([#68090](https://github.com/CleverRaven/Cataclysm-DDA/pull/68090))
 * Optimize loading of pockets with many items inside ([#68051](https://github.com/CleverRaven/Cataclysm-DDA/pull/68051))
 * Pineapple Supreme ([#68084](https://github.com/CleverRaven/Cataclysm-DDA/pull/68084))
@@ -90,7 +91,6 @@
 * Raise margin on nicotine addiction test ([#67919](https://github.com/CleverRaven/Cataclysm-DDA/pull/67919))
 * Default loot zone ([#67907](https://github.com/CleverRaven/Cataclysm-DDA/pull/67907))
 * [Xedra Evolved] Make most dream powers unteachable ([#67902](https://github.com/CleverRaven/Cataclysm-DDA/pull/67902))
-* Fix #67887   Backup Generator consumes all liquids ([#67900](https://github.com/CleverRaven/Cataclysm-DDA/pull/67900))
 * Players can teach proficiencies/spells/styles to NPCs ([#67910](https://github.com/CleverRaven/Cataclysm-DDA/pull/67910))
 * Aftershock: Rebalance Gibson  S86 ([#67912](https://github.com/CleverRaven/Cataclysm-DDA/pull/67912))
 * Routine i18n updates on 26 August 2023 ([#67901](https://github.com/CleverRaven/Cataclysm-DDA/pull/67901))
