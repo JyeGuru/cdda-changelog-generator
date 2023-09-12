@@ -1,3 +1,4 @@
+* [Magiclysm] Yet even more spells ([#68102](https://github.com/CleverRaven/Cataclysm-DDA/pull/68102))
 * Update RM103A automagnum's description ([#68038](https://github.com/CleverRaven/Cataclysm-DDA/pull/68038))
 * [Magiclysm] Everburning Torch rebalancing ([#68103](https://github.com/CleverRaven/Cataclysm-DDA/pull/68103))
 * Allow item transform to pick a specified or random variant ([#68048](https://github.com/CleverRaven/Cataclysm-DDA/pull/68048))
@@ -93,5 +94,4 @@
 * Fix fertilizing plants ([#67931](https://github.com/CleverRaven/Cataclysm-DDA/pull/67931))
 * Make Xedra Perks unmutateable ([#67934](https://github.com/CleverRaven/Cataclysm-DDA/pull/67934))
 * Nerf lift thrust of rotorcraft by 6 orders of magnitude ([#67928](https://github.com/CleverRaven/Cataclysm-DDA/pull/67928))
-* Ranchers get a long rope on spawn for their horse. ([#67922](https://github.com/CleverRaven/Cataclysm-DDA/pull/67922))
 * Coconut additions ([#67923](https://github.com/CleverRaven/Cataclysm-DDA/pull/67923))
