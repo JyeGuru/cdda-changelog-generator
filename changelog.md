@@ -1,3 +1,4 @@
+* Allow item transform to pick a specified or random variant ([#68048](https://github.com/CleverRaven/Cataclysm-DDA/pull/68048))
 * [Object Creator] Redo spell window layout ([#68105](https://github.com/CleverRaven/Cataclysm-DDA/pull/68105))
 * Bugfix: Correct NPC topic id for Uyen Tran ([#68101](https://github.com/CleverRaven/Cataclysm-DDA/pull/68101))
 * fix: set min-max age for random characters ([#68099](https://github.com/CleverRaven/Cataclysm-DDA/pull/68099))
@@ -94,4 +95,3 @@
 * Bugfix: Exploding 💥 zombie cows with landmines ([#67920](https://github.com/CleverRaven/Cataclysm-DDA/pull/67920))
 * Ranchers get a long rope on spawn for their horse. ([#67922](https://github.com/CleverRaven/Cataclysm-DDA/pull/67922))
 * Coconut additions ([#67923](https://github.com/CleverRaven/Cataclysm-DDA/pull/67923))
-* Raise margin on nicotine addiction test ([#67919](https://github.com/CleverRaven/Cataclysm-DDA/pull/67919))
