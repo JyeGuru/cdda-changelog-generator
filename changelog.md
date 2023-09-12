@@ -1,3 +1,4 @@
+* Bugfix: Correct NPC topic id for Uyen Tran ([#68101](https://github.com/CleverRaven/Cataclysm-DDA/pull/68101))
 * fix: set min-max age for random characters ([#68099](https://github.com/CleverRaven/Cataclysm-DDA/pull/68099))
 * [Magiclysm] More wizard furniture ([#68049](https://github.com/CleverRaven/Cataclysm-DDA/pull/68049))
 * Stop clearing weight carried cache unnecessarily ([#68087](https://github.com/CleverRaven/Cataclysm-DDA/pull/68087))
@@ -91,7 +92,6 @@
 * Make Xedra Perks unmutateable ([#67934](https://github.com/CleverRaven/Cataclysm-DDA/pull/67934))
 * Nerf lift thrust of rotorcraft by 6 orders of magnitude ([#67928](https://github.com/CleverRaven/Cataclysm-DDA/pull/67928))
 * Bugfix: Exploding 💥 zombie cows with landmines ([#67920](https://github.com/CleverRaven/Cataclysm-DDA/pull/67920))
-* Fix fuel selection for single engine ([#67917](https://github.com/CleverRaven/Cataclysm-DDA/pull/67917))
 * Ranchers get a long rope on spawn for their horse. ([#67922](https://github.com/CleverRaven/Cataclysm-DDA/pull/67922))
 * Coconut additions ([#67923](https://github.com/CleverRaven/Cataclysm-DDA/pull/67923))
 * Raise margin on nicotine addiction test ([#67919](https://github.com/CleverRaven/Cataclysm-DDA/pull/67919))
