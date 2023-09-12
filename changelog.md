@@ -1,3 +1,4 @@
+* Bugfix: AIM: insert items into container in corpse ([#68113](https://github.com/CleverRaven/Cataclysm-DDA/pull/68113))
 * [Magiclysm] Yet even more spells ([#68102](https://github.com/CleverRaven/Cataclysm-DDA/pull/68102))
 * Update RM103A automagnum's description ([#68038](https://github.com/CleverRaven/Cataclysm-DDA/pull/68038))
 * [Magiclysm] Everburning Torch rebalancing ([#68103](https://github.com/CleverRaven/Cataclysm-DDA/pull/68103))
@@ -94,4 +95,3 @@
 * Fix fertilizing plants ([#67931](https://github.com/CleverRaven/Cataclysm-DDA/pull/67931))
 * Make Xedra Perks unmutateable ([#67934](https://github.com/CleverRaven/Cataclysm-DDA/pull/67934))
 * Nerf lift thrust of rotorcraft by 6 orders of magnitude ([#67928](https://github.com/CleverRaven/Cataclysm-DDA/pull/67928))
-* Coconut additions ([#67923](https://github.com/CleverRaven/Cataclysm-DDA/pull/67923))
