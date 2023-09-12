@@ -1,3 +1,4 @@
+* [Object Creator] Redo spell window layout ([#68105](https://github.com/CleverRaven/Cataclysm-DDA/pull/68105))
 * Bugfix: Correct NPC topic id for Uyen Tran ([#68101](https://github.com/CleverRaven/Cataclysm-DDA/pull/68101))
 * fix: set min-max age for random characters ([#68099](https://github.com/CleverRaven/Cataclysm-DDA/pull/68099))
 * [Magiclysm] More wizard furniture ([#68049](https://github.com/CleverRaven/Cataclysm-DDA/pull/68049))
@@ -72,7 +73,6 @@
 * It gets hot (Overheat mechanics for energy guns) ([#67959](https://github.com/CleverRaven/Cataclysm-DDA/pull/67959))
 * fix: minor typo ([#67970](https://github.com/CleverRaven/Cataclysm-DDA/pull/67970))
 * Fix rotorcraft debug message ([#67972](https://github.com/CleverRaven/Cataclysm-DDA/pull/67972))
-* Distinguish sieving and straining in recipes ([#67918](https://github.com/CleverRaven/Cataclysm-DDA/pull/67918))
 * Routine i18n updates on 02 September 2023 ([#67983](https://github.com/CleverRaven/Cataclysm-DDA/pull/67983))
 * Routine tileset updates on 01 September 2023 ([#67969](https://github.com/CleverRaven/Cataclysm-DDA/pull/67969))
 * Improve turn performance by caching default input ctx ([#67957](https://github.com/CleverRaven/Cataclysm-DDA/pull/67957))
