@@ -1,3 +1,4 @@
+* view recipe: fix nested and or more results ([#68118](https://github.com/CleverRaven/Cataclysm-DDA/pull/68118))
 * Fix visible tiles revealing invisible tiles below ([#67997](https://github.com/CleverRaven/Cataclysm-DDA/pull/67997))
 * Bugfix: AIM: Display correct truncation of container names ([#68116](https://github.com/CleverRaven/Cataclysm-DDA/pull/68116))
 * Bugfix: AIM: insert items into container in corpse ([#68113](https://github.com/CleverRaven/Cataclysm-DDA/pull/68113))
@@ -91,7 +92,6 @@
 * Condition: count spells by spell class ([#67946](https://github.com/CleverRaven/Cataclysm-DDA/pull/67946))
 * [Magiclysm] Fix Ravenfolk mutation category name ([#67942](https://github.com/CleverRaven/Cataclysm-DDA/pull/67942))
 * Minor npc retreat bugfix ([#67941](https://github.com/CleverRaven/Cataclysm-DDA/pull/67941))
-* Weekly Changelog 2023-08-21 to 2023-08-28 ([#67926](https://github.com/CleverRaven/Cataclysm-DDA/pull/67926))
 * Fix fertilizing plants ([#67931](https://github.com/CleverRaven/Cataclysm-DDA/pull/67931))
 * Make Xedra Perks unmutateable ([#67934](https://github.com/CleverRaven/Cataclysm-DDA/pull/67934))
 * Nerf lift thrust of rotorcraft by 6 orders of magnitude ([#67928](https://github.com/CleverRaven/Cataclysm-DDA/pull/67928))
