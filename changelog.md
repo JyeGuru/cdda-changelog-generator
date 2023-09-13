@@ -1,3 +1,4 @@
+* Bugfix: AIM: Display correct truncation of container names ([#68116](https://github.com/CleverRaven/Cataclysm-DDA/pull/68116))
 * Bugfix: AIM: insert items into container in corpse ([#68113](https://github.com/CleverRaven/Cataclysm-DDA/pull/68113))
 * [Magiclysm] Yet even more spells ([#68102](https://github.com/CleverRaven/Cataclysm-DDA/pull/68102))
 * Update RM103A automagnum's description ([#68038](https://github.com/CleverRaven/Cataclysm-DDA/pull/68038))
@@ -88,7 +89,6 @@
 * More addiction snippets ([#67948](https://github.com/CleverRaven/Cataclysm-DDA/pull/67948))
 * Removed obsolete bed provides ([#67950](https://github.com/CleverRaven/Cataclysm-DDA/pull/67950))
 * Condition: count spells by spell class ([#67946](https://github.com/CleverRaven/Cataclysm-DDA/pull/67946))
-* [Magiclysm] Add RNG to crystallized mana spawns ([#67924](https://github.com/CleverRaven/Cataclysm-DDA/pull/67924))
 * [Magiclysm] Fix Ravenfolk mutation category name ([#67942](https://github.com/CleverRaven/Cataclysm-DDA/pull/67942))
 * Minor npc retreat bugfix ([#67941](https://github.com/CleverRaven/Cataclysm-DDA/pull/67941))
 * Weekly Changelog 2023-08-21 to 2023-08-28 ([#67926](https://github.com/CleverRaven/Cataclysm-DDA/pull/67926))
