@@ -1,3 +1,4 @@
+* Fix visible tiles revealing invisible tiles below (#67997)
 * Bugfix: AIM: Display correct truncation of container names (#68116)
 * Bugfix: AIM: insert items into container in corpse (#68113)
 * [Magiclysm] Yet even more spells (#68102)
@@ -83,7 +84,6 @@
 * Routine tileset updates on 01 September 2023 (#67969)
 * Improve turn performance by caching default input ctx (#67957)
 * [Magiclysm] Add ancient stone circle (with translocate altar) (#67961)
-* Separate Proficiency and Skill training speed option (#67925)
 * Changed one symbol to fix misplaced carpet in steel mill (#67956)
 * Object creator merge windows into a tabbed view (#67955)
 * More addiction snippets (#67948)
