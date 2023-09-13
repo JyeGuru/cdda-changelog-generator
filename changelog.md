@@ -1,3 +1,4 @@
+* Random cleanups part 2 ([#68109](https://github.com/CleverRaven/Cataclysm-DDA/pull/68109))
 * view recipe: fix nested and or more results ([#68118](https://github.com/CleverRaven/Cataclysm-DDA/pull/68118))
 * Fix visible tiles revealing invisible tiles below ([#67997](https://github.com/CleverRaven/Cataclysm-DDA/pull/67997))
 * Bugfix: AIM: Display correct truncation of container names ([#68116](https://github.com/CleverRaven/Cataclysm-DDA/pull/68116))
@@ -94,4 +95,3 @@
 * Minor npc retreat bugfix ([#67941](https://github.com/CleverRaven/Cataclysm-DDA/pull/67941))
 * Fix fertilizing plants ([#67931](https://github.com/CleverRaven/Cataclysm-DDA/pull/67931))
 * Make Xedra Perks unmutateable ([#67934](https://github.com/CleverRaven/Cataclysm-DDA/pull/67934))
-* Nerf lift thrust of rotorcraft by 6 orders of magnitude ([#67928](https://github.com/CleverRaven/Cataclysm-DDA/pull/67928))
