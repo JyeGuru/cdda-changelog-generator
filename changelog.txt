@@ -1,3 +1,4 @@
+* Make loaded stick ``looks_like`` the shillelagh (#68133)
 * Add two new professions (+some items maybe), branch the priest profession (#68040)
 * Random cleanups part 2 (#68109)
 * view recipe: fix nested and or more results (#68118)
@@ -14,7 +15,6 @@
 * [Magiclysm] More wizard furniture (#68049)
 * Stop clearing weight carried cache unnecessarily (#68087)
 * Updated Alloy Reference Manual (#68098)
-* Unload sparse items only zone option (#67932)
 * Add smartphone length (and adjust some items) (#68095)
 * Add "category": "tool_magazine" to weld tanks (#68092)
 * Ammo Effects 2: Judgment Day (#68085)
