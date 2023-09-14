@@ -1,3 +1,4 @@
+* Add two new professions (+some items maybe), branch the priest profession ([#68040](https://github.com/CleverRaven/Cataclysm-DDA/pull/68040))
 * Random cleanups part 2 ([#68109](https://github.com/CleverRaven/Cataclysm-DDA/pull/68109))
 * view recipe: fix nested and or more results ([#68118](https://github.com/CleverRaven/Cataclysm-DDA/pull/68118))
 * Fix visible tiles revealing invisible tiles below ([#67997](https://github.com/CleverRaven/Cataclysm-DDA/pull/67997))
@@ -93,5 +94,4 @@
 * Condition: count spells by spell class ([#67946](https://github.com/CleverRaven/Cataclysm-DDA/pull/67946))
 * [Magiclysm] Fix Ravenfolk mutation category name ([#67942](https://github.com/CleverRaven/Cataclysm-DDA/pull/67942))
 * Minor npc retreat bugfix ([#67941](https://github.com/CleverRaven/Cataclysm-DDA/pull/67941))
-* Fix fertilizing plants ([#67931](https://github.com/CleverRaven/Cataclysm-DDA/pull/67931))
 * Make Xedra Perks unmutateable ([#67934](https://github.com/CleverRaven/Cataclysm-DDA/pull/67934))
