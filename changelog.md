@@ -1,3 +1,5 @@
+* [MoM] Add nospell mutation to the anchoring crown ([#68125](https://github.com/CleverRaven/Cataclysm-DDA/pull/68125))
+* Fix furniture & vehicle map memory refresh ([#68131](https://github.com/CleverRaven/Cataclysm-DDA/pull/68131))
 * Make loaded stick ``looks_like`` the shillelagh ([#68133](https://github.com/CleverRaven/Cataclysm-DDA/pull/68133))
 * Add two new professions (+some items maybe), branch the priest profession ([#68040](https://github.com/CleverRaven/Cataclysm-DDA/pull/68040))
 * Random cleanups part 2 ([#68109](https://github.com/CleverRaven/Cataclysm-DDA/pull/68109))
@@ -59,7 +61,6 @@
 * Install newer ccache in ci to avoid hardlink cache statistics bug ([#68017](https://github.com/CleverRaven/Cataclysm-DDA/pull/68017))
 * JSON-ize faction camp hunting returns ([#68014](https://github.com/CleverRaven/Cataclysm-DDA/pull/68014))
 * Fixes to documentation ([#68008](https://github.com/CleverRaven/Cataclysm-DDA/pull/68008))
-* Character creation: small screen fixes ([#67936](https://github.com/CleverRaven/Cataclysm-DDA/pull/67936))
 * prevent the default backgrounds from being added to templates and random scenarios ([#68013](https://github.com/CleverRaven/Cataclysm-DDA/pull/68013))
 * [ Xedra Evolved ]Border Patrol Office Improvements ([#68012](https://github.com/CleverRaven/Cataclysm-DDA/pull/68012))
 * [Magiclysm] Add seven more spells (it's a pattern) ([#67947](https://github.com/CleverRaven/Cataclysm-DDA/pull/67947))
@@ -94,4 +95,3 @@
 * Condition: count spells by spell class ([#67946](https://github.com/CleverRaven/Cataclysm-DDA/pull/67946))
 * [Magiclysm] Fix Ravenfolk mutation category name ([#67942](https://github.com/CleverRaven/Cataclysm-DDA/pull/67942))
 * Minor npc retreat bugfix ([#67941](https://github.com/CleverRaven/Cataclysm-DDA/pull/67941))
-* Make Xedra Perks unmutateable ([#67934](https://github.com/CleverRaven/Cataclysm-DDA/pull/67934))
