@@ -1,3 +1,5 @@
+* Remove out of date VS setup instruction about 2019 compilers when using VS2022. ([#68129](https://github.com/CleverRaven/Cataclysm-DDA/pull/68129))
+* Bugfix: Prevent segfault when listening to radio msgs ([#68142](https://github.com/CleverRaven/Cataclysm-DDA/pull/68142))
 * Fix overflow when using cash card charges ([#68124](https://github.com/CleverRaven/Cataclysm-DDA/pull/68124))
 * [MoM] Add nospell mutation to the anchoring crown ([#68125](https://github.com/CleverRaven/Cataclysm-DDA/pull/68125))
 * Fix furniture & vehicle map memory refresh ([#68131](https://github.com/CleverRaven/Cataclysm-DDA/pull/68131))
@@ -93,5 +95,3 @@
 * Object creator merge windows into a tabbed view ([#67955](https://github.com/CleverRaven/Cataclysm-DDA/pull/67955))
 * More addiction snippets ([#67948](https://github.com/CleverRaven/Cataclysm-DDA/pull/67948))
 * Removed obsolete bed provides ([#67950](https://github.com/CleverRaven/Cataclysm-DDA/pull/67950))
-* Condition: count spells by spell class ([#67946](https://github.com/CleverRaven/Cataclysm-DDA/pull/67946))
-* [Magiclysm] Fix Ravenfolk mutation category name ([#67942](https://github.com/CleverRaven/Cataclysm-DDA/pull/67942))
