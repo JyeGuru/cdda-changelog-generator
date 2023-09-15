@@ -1,3 +1,4 @@
+* Fix overflow when using cash card charges ([#68124](https://github.com/CleverRaven/Cataclysm-DDA/pull/68124))
 * [MoM] Add nospell mutation to the anchoring crown ([#68125](https://github.com/CleverRaven/Cataclysm-DDA/pull/68125))
 * Fix furniture & vehicle map memory refresh ([#68131](https://github.com/CleverRaven/Cataclysm-DDA/pull/68131))
 * Make loaded stick ``looks_like`` the shillelagh ([#68133](https://github.com/CleverRaven/Cataclysm-DDA/pull/68133))
@@ -94,4 +95,3 @@
 * Removed obsolete bed provides ([#67950](https://github.com/CleverRaven/Cataclysm-DDA/pull/67950))
 * Condition: count spells by spell class ([#67946](https://github.com/CleverRaven/Cataclysm-DDA/pull/67946))
 * [Magiclysm] Fix Ravenfolk mutation category name ([#67942](https://github.com/CleverRaven/Cataclysm-DDA/pull/67942))
-* Minor npc retreat bugfix ([#67941](https://github.com/CleverRaven/Cataclysm-DDA/pull/67941))
