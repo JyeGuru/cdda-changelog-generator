@@ -1,3 +1,4 @@
+* Add the artifacts category to some artifacts ([#68165](https://github.com/CleverRaven/Cataclysm-DDA/pull/68165))
 * Do not update visibility cache every two minutes ([#68155](https://github.com/CleverRaven/Cataclysm-DDA/pull/68155))
 * [Magiclysm] Add dispel magic spells ([#68128](https://github.com/CleverRaven/Cataclysm-DDA/pull/68128))
 * [Object Creator] Add checks to spell properties to prevent crash ([#68137](https://github.com/CleverRaven/Cataclysm-DDA/pull/68137))
