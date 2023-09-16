@@ -1,3 +1,4 @@
+* Compare recipe result with inventory item ([#68139](https://github.com/CleverRaven/Cataclysm-DDA/pull/68139))
 * [ Xedra Evolved ] Paraclesian traits and abilities: Sylph and Undine ([#68054](https://github.com/CleverRaven/Cataclysm-DDA/pull/68054))
 * 8 new UI colour themes ([#68153](https://github.com/CleverRaven/Cataclysm-DDA/pull/68153))
 * Add the artifacts category to some artifacts ([#68165](https://github.com/CleverRaven/Cataclysm-DDA/pull/68165))
@@ -94,5 +95,4 @@
 * Fix rotorcraft debug message ([#67972](https://github.com/CleverRaven/Cataclysm-DDA/pull/67972))
 * Routine i18n updates on 02 September 2023 ([#67983](https://github.com/CleverRaven/Cataclysm-DDA/pull/67983))
 * Routine tileset updates on 01 September 2023 ([#67969](https://github.com/CleverRaven/Cataclysm-DDA/pull/67969))
-* Improve turn performance by caching default input ctx ([#67957](https://github.com/CleverRaven/Cataclysm-DDA/pull/67957))
 * [Magiclysm] Add ancient stone circle (with translocate altar) ([#67961](https://github.com/CleverRaven/Cataclysm-DDA/pull/67961))
