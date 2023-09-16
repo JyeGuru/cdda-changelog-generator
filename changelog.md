@@ -1,3 +1,5 @@
+* [ Xedra Evolved ] Paraclesian traits and abilities: Sylph and Undine ([#68054](https://github.com/CleverRaven/Cataclysm-DDA/pull/68054))
+* 8 new UI colour themes ([#68153](https://github.com/CleverRaven/Cataclysm-DDA/pull/68153))
 * Add the artifacts category to some artifacts ([#68165](https://github.com/CleverRaven/Cataclysm-DDA/pull/68165))
 * Do not update visibility cache every two minutes ([#68155](https://github.com/CleverRaven/Cataclysm-DDA/pull/68155))
 * [Magiclysm] Add dispel magic spells ([#68128](https://github.com/CleverRaven/Cataclysm-DDA/pull/68128))
@@ -94,5 +96,3 @@
 * Routine tileset updates on 01 September 2023 ([#67969](https://github.com/CleverRaven/Cataclysm-DDA/pull/67969))
 * Improve turn performance by caching default input ctx ([#67957](https://github.com/CleverRaven/Cataclysm-DDA/pull/67957))
 * [Magiclysm] Add ancient stone circle (with translocate altar) ([#67961](https://github.com/CleverRaven/Cataclysm-DDA/pull/67961))
-* Changed one symbol to fix misplaced carpet in steel mill ([#67956](https://github.com/CleverRaven/Cataclysm-DDA/pull/67956))
-* Object creator merge windows into a tabbed view ([#67955](https://github.com/CleverRaven/Cataclysm-DDA/pull/67955))
