@@ -1,3 +1,4 @@
+* Do not update visibility cache every two minutes ([#68155](https://github.com/CleverRaven/Cataclysm-DDA/pull/68155))
 * [Magiclysm] Add dispel magic spells ([#68128](https://github.com/CleverRaven/Cataclysm-DDA/pull/68128))
 * [Object Creator] Add checks to spell properties to prevent crash ([#68137](https://github.com/CleverRaven/Cataclysm-DDA/pull/68137))
 * Remove out of date VS setup instruction about 2019 compilers when using VS2022. ([#68129](https://github.com/CleverRaven/Cataclysm-DDA/pull/68129))
@@ -94,4 +95,3 @@
 * [Magiclysm] Add ancient stone circle (with translocate altar) ([#67961](https://github.com/CleverRaven/Cataclysm-DDA/pull/67961))
 * Changed one symbol to fix misplaced carpet in steel mill ([#67956](https://github.com/CleverRaven/Cataclysm-DDA/pull/67956))
 * Object creator merge windows into a tabbed view ([#67955](https://github.com/CleverRaven/Cataclysm-DDA/pull/67955))
-* Removed obsolete bed provides ([#67950](https://github.com/CleverRaven/Cataclysm-DDA/pull/67950))
