@@ -1,3 +1,4 @@
+* Routine i18n updates on 16 September 2023 (#68162)
 * More quick setup debug functions (#68147)
 * Zone naming clean-up (#68164)
 * Scrap tin audit (#68168)
@@ -92,6 +93,5 @@
 * Fix field base camp version 2 NE shack/tent progression (#67984)
 * [Magiclysm] "Frost Cream Man" Profession now has the Driving proficiency (#67988)
 * More cars strikes back (#67986)
-* fix: minor typo (#67970)
 * Fix rotorcraft debug message (#67972)
 * Routine i18n updates on 02 September 2023 (#67983)
