@@ -1,3 +1,4 @@
+* Climbing Down: Safe Ladders + Risk Level in Prompts ([#68120](https://github.com/CleverRaven/Cataclysm-DDA/pull/68120))
 * Attack on Typo ([#68158](https://github.com/CleverRaven/Cataclysm-DDA/pull/68158))
 * Routine i18n updates on 16 September 2023 ([#68162](https://github.com/CleverRaven/Cataclysm-DDA/pull/68162))
 * More quick setup debug functions ([#68147](https://github.com/CleverRaven/Cataclysm-DDA/pull/68147))
@@ -86,7 +87,6 @@
 * [MoM] Typo fix ([#67999](https://github.com/CleverRaven/Cataclysm-DDA/pull/67999))
 * [MoM] Add overheating to LV-429 ([#67998](https://github.com/CleverRaven/Cataclysm-DDA/pull/67998))
 * [Magiclysm] Remove default skills from fantasy species choices ([#68000](https://github.com/CleverRaven/Cataclysm-DDA/pull/68000))
-* fix some issues with backup generator ([#67973](https://github.com/CleverRaven/Cataclysm-DDA/pull/67973))
 * Revert "Improve turn performance by caching default input ctx" ([#67980](https://github.com/CleverRaven/Cataclysm-DDA/pull/67980))
 * Office skyscraper revival ([#67981](https://github.com/CleverRaven/Cataclysm-DDA/pull/67981))
 * Updated camp help to reflect removal of bed restrictions on expansion ([#67994](https://github.com/CleverRaven/Cataclysm-DDA/pull/67994))
