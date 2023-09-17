@@ -1,3 +1,5 @@
+* Zone naming clean-up ([#68164](https://github.com/CleverRaven/Cataclysm-DDA/pull/68164))
+* Scrap tin audit ([#68168](https://github.com/CleverRaven/Cataclysm-DDA/pull/68168))
 * Compare recipe result with inventory item ([#68139](https://github.com/CleverRaven/Cataclysm-DDA/pull/68139))
 * [ Xedra Evolved ] Paraclesian traits and abilities: Sylph and Undine ([#68054](https://github.com/CleverRaven/Cataclysm-DDA/pull/68054))
 * 8 new UI colour themes ([#68153](https://github.com/CleverRaven/Cataclysm-DDA/pull/68153))
@@ -76,7 +78,6 @@
 * Weekly Changelog 2023-08-28 to 2023-09-04 ([#68002](https://github.com/CleverRaven/Cataclysm-DDA/pull/68002))
 * Heavy punching bag uses heavy punching bag sack ([#68003](https://github.com/CleverRaven/Cataclysm-DDA/pull/68003))
 * Add longest_side to some items ([#67995](https://github.com/CleverRaven/Cataclysm-DDA/pull/67995))
-* Add splash screen to Object Creator ([#67965](https://github.com/CleverRaven/Cataclysm-DDA/pull/67965))
 * [DinoMod] more interesting behavior part 2 ([#67982](https://github.com/CleverRaven/Cataclysm-DDA/pull/67982))
 * mom: fix incorrect spell id ([#68001](https://github.com/CleverRaven/Cataclysm-DDA/pull/68001))
 * [MoM] Typo fix ([#67999](https://github.com/CleverRaven/Cataclysm-DDA/pull/67999))
@@ -94,4 +95,3 @@
 * Fix rotorcraft debug message ([#67972](https://github.com/CleverRaven/Cataclysm-DDA/pull/67972))
 * Routine i18n updates on 02 September 2023 ([#67983](https://github.com/CleverRaven/Cataclysm-DDA/pull/67983))
 * Routine tileset updates on 01 September 2023 ([#67969](https://github.com/CleverRaven/Cataclysm-DDA/pull/67969))
-* [Magiclysm] Add ancient stone circle (with translocate altar) ([#67961](https://github.com/CleverRaven/Cataclysm-DDA/pull/67961))
