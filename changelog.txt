@@ -1,3 +1,4 @@
+* More quick setup debug functions (#68147)
 * Zone naming clean-up (#68164)
 * Scrap tin audit (#68168)
 * Compare recipe result with inventory item (#68139)
@@ -94,4 +95,3 @@
 * fix: minor typo (#67970)
 * Fix rotorcraft debug message (#67972)
 * Routine i18n updates on 02 September 2023 (#67983)
-* Routine tileset updates on 01 September 2023 (#67969)
