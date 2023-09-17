@@ -1,3 +1,4 @@
+* Attack on Typo ([#68158](https://github.com/CleverRaven/Cataclysm-DDA/pull/68158))
 * Routine i18n updates on 16 September 2023 ([#68162](https://github.com/CleverRaven/Cataclysm-DDA/pull/68162))
 * More quick setup debug functions ([#68147](https://github.com/CleverRaven/Cataclysm-DDA/pull/68147))
 * Zone naming clean-up ([#68164](https://github.com/CleverRaven/Cataclysm-DDA/pull/68164))
@@ -93,5 +94,4 @@
 * Fix field base camp version 2 NE shack/tent progression ([#67984](https://github.com/CleverRaven/Cataclysm-DDA/pull/67984))
 * [Magiclysm] "Frost Cream Man" Profession now has the Driving proficiency ([#67988](https://github.com/CleverRaven/Cataclysm-DDA/pull/67988))
 * More cars strikes back ([#67986](https://github.com/CleverRaven/Cataclysm-DDA/pull/67986))
-* Fix rotorcraft debug message ([#67972](https://github.com/CleverRaven/Cataclysm-DDA/pull/67972))
 * Routine i18n updates on 02 September 2023 ([#67983](https://github.com/CleverRaven/Cataclysm-DDA/pull/67983))
