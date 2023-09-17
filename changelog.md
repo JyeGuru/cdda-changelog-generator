@@ -90,7 +90,6 @@
 * Fix field base camp version 2 NE shack/tent progression ([#67984](https://github.com/CleverRaven/Cataclysm-DDA/pull/67984))
 * [Magiclysm] "Frost Cream Man" Profession now has the Driving proficiency ([#67988](https://github.com/CleverRaven/Cataclysm-DDA/pull/67988))
 * More cars strikes back ([#67986](https://github.com/CleverRaven/Cataclysm-DDA/pull/67986))
-* It gets hot (Overheat mechanics for energy guns) ([#67959](https://github.com/CleverRaven/Cataclysm-DDA/pull/67959))
 * fix: minor typo ([#67970](https://github.com/CleverRaven/Cataclysm-DDA/pull/67970))
 * Fix rotorcraft debug message ([#67972](https://github.com/CleverRaven/Cataclysm-DDA/pull/67972))
 * Routine i18n updates on 02 September 2023 ([#67983](https://github.com/CleverRaven/Cataclysm-DDA/pull/67983))
