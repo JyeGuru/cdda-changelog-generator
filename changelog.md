@@ -4,7 +4,6 @@
 * Some doc update  ([#68180](https://github.com/CleverRaven/Cataclysm-DDA/pull/68180))
 * [MoM] Survivor house palette additions ([#68145](https://github.com/CleverRaven/Cataclysm-DDA/pull/68145))
 * Add new inter-mod content to Defense Mode ([#68172](https://github.com/CleverRaven/Cataclysm-DDA/pull/68172))
-* Adds Karate manual to Novice Martial Artist starting items ([#67990](https://github.com/CleverRaven/Cataclysm-DDA/pull/67990))
 * Ki Strike now works with worn equipment ([#68178](https://github.com/CleverRaven/Cataclysm-DDA/pull/68178))
 * Isolation protocol Mod ([#68160](https://github.com/CleverRaven/Cataclysm-DDA/pull/68160))
 * Climbing Down: Safe Ladders + Risk Level in Prompts ([#68120](https://github.com/CleverRaven/Cataclysm-DDA/pull/68120))
