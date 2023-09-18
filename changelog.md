@@ -1,3 +1,4 @@
+* Some doc update  ([#68180](https://github.com/CleverRaven/Cataclysm-DDA/pull/68180))
 * [MoM] Survivor house palette additions ([#68145](https://github.com/CleverRaven/Cataclysm-DDA/pull/68145))
 * Add new inter-mod content to Defense Mode ([#68172](https://github.com/CleverRaven/Cataclysm-DDA/pull/68172))
 * Adds Karate manual to Novice Martial Artist starting items ([#67990](https://github.com/CleverRaven/Cataclysm-DDA/pull/67990))
@@ -92,6 +93,5 @@
 * [MoM] Add overheating to LV-429 ([#67998](https://github.com/CleverRaven/Cataclysm-DDA/pull/67998))
 * [Magiclysm] Remove default skills from fantasy species choices ([#68000](https://github.com/CleverRaven/Cataclysm-DDA/pull/68000))
 * Updated camp help to reflect removal of bed restrictions on expansion ([#67994](https://github.com/CleverRaven/Cataclysm-DDA/pull/67994))
-* Fix field base camp version 2 NE shack/tent progression ([#67984](https://github.com/CleverRaven/Cataclysm-DDA/pull/67984))
 * [Magiclysm] "Frost Cream Man" Profession now has the Driving proficiency ([#67988](https://github.com/CleverRaven/Cataclysm-DDA/pull/67988))
 * More cars strikes back ([#67986](https://github.com/CleverRaven/Cataclysm-DDA/pull/67986))
