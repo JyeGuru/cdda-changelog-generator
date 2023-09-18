@@ -1,3 +1,4 @@
+* Multiple-choice prompt when walking into ledges. ([#68150](https://github.com/CleverRaven/Cataclysm-DDA/pull/68150))
 * Monsters can go down ramps ([#68194](https://github.com/CleverRaven/Cataclysm-DDA/pull/68194))
 * [MoM] Add two psionic animals ([#68119](https://github.com/CleverRaven/Cataclysm-DDA/pull/68119))
 * Fix segfault when finishing fermentation ([#68193](https://github.com/CleverRaven/Cataclysm-DDA/pull/68193))
@@ -89,7 +90,6 @@
 * [ Xedra Evolved ]Border Patrol Office Improvements ([#68012](https://github.com/CleverRaven/Cataclysm-DDA/pull/68012))
 * Weekly Changelog 2023-08-28 to 2023-09-04 ([#68002](https://github.com/CleverRaven/Cataclysm-DDA/pull/68002))
 * Heavy punching bag uses heavy punching bag sack ([#68003](https://github.com/CleverRaven/Cataclysm-DDA/pull/68003))
-* Add longest_side to some items ([#67995](https://github.com/CleverRaven/Cataclysm-DDA/pull/67995))
 * mom: fix incorrect spell id ([#68001](https://github.com/CleverRaven/Cataclysm-DDA/pull/68001))
 * [MoM] Typo fix ([#67999](https://github.com/CleverRaven/Cataclysm-DDA/pull/67999))
 * [MoM] Add overheating to LV-429 ([#67998](https://github.com/CleverRaven/Cataclysm-DDA/pull/67998))
