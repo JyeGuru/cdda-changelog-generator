@@ -1,3 +1,4 @@
+* Wheels with very high durability don't get damaged when they run over nailboard trap ([#68192](https://github.com/CleverRaven/Cataclysm-DDA/pull/68192))
 * Some doc update  ([#68180](https://github.com/CleverRaven/Cataclysm-DDA/pull/68180))
 * [MoM] Survivor house palette additions ([#68145](https://github.com/CleverRaven/Cataclysm-DDA/pull/68145))
 * Add new inter-mod content to Defense Mode ([#68172](https://github.com/CleverRaven/Cataclysm-DDA/pull/68172))
@@ -94,4 +95,3 @@
 * [Magiclysm] Remove default skills from fantasy species choices ([#68000](https://github.com/CleverRaven/Cataclysm-DDA/pull/68000))
 * Updated camp help to reflect removal of bed restrictions on expansion ([#67994](https://github.com/CleverRaven/Cataclysm-DDA/pull/67994))
 * [Magiclysm] "Frost Cream Man" Profession now has the Driving proficiency ([#67988](https://github.com/CleverRaven/Cataclysm-DDA/pull/67988))
-* More cars strikes back ([#67986](https://github.com/CleverRaven/Cataclysm-DDA/pull/67986))
