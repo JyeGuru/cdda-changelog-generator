@@ -1,3 +1,4 @@
+* Add new inter-mod content to Defense Mode ([#68172](https://github.com/CleverRaven/Cataclysm-DDA/pull/68172))
 * Adds Karate manual to Novice Martial Artist starting items ([#67990](https://github.com/CleverRaven/Cataclysm-DDA/pull/67990))
 * Pipe audit ([#67987](https://github.com/CleverRaven/Cataclysm-DDA/pull/67987))
 * Ki Strike now works with worn equipment ([#68178](https://github.com/CleverRaven/Cataclysm-DDA/pull/68178))
@@ -85,7 +86,6 @@
 * Weekly Changelog 2023-08-28 to 2023-09-04 ([#68002](https://github.com/CleverRaven/Cataclysm-DDA/pull/68002))
 * Heavy punching bag uses heavy punching bag sack ([#68003](https://github.com/CleverRaven/Cataclysm-DDA/pull/68003))
 * Add longest_side to some items ([#67995](https://github.com/CleverRaven/Cataclysm-DDA/pull/67995))
-* [DinoMod] more interesting behavior part 2 ([#67982](https://github.com/CleverRaven/Cataclysm-DDA/pull/67982))
 * mom: fix incorrect spell id ([#68001](https://github.com/CleverRaven/Cataclysm-DDA/pull/68001))
 * [MoM] Typo fix ([#67999](https://github.com/CleverRaven/Cataclysm-DDA/pull/67999))
 * [MoM] Add overheating to LV-429 ([#67998](https://github.com/CleverRaven/Cataclysm-DDA/pull/67998))
