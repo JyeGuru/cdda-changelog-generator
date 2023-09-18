@@ -1,3 +1,4 @@
+* Monsters can go down ramps ([#68194](https://github.com/CleverRaven/Cataclysm-DDA/pull/68194))
 * [MoM] Add two psionic animals ([#68119](https://github.com/CleverRaven/Cataclysm-DDA/pull/68119))
 * Fix segfault when finishing fermentation ([#68193](https://github.com/CleverRaven/Cataclysm-DDA/pull/68193))
 * Wheels with very high durability don't get damaged when they run over nailboard trap ([#68192](https://github.com/CleverRaven/Cataclysm-DDA/pull/68192))
@@ -93,4 +94,3 @@
 * [MoM] Typo fix ([#67999](https://github.com/CleverRaven/Cataclysm-DDA/pull/67999))
 * [MoM] Add overheating to LV-429 ([#67998](https://github.com/CleverRaven/Cataclysm-DDA/pull/67998))
 * [Magiclysm] Remove default skills from fantasy species choices ([#68000](https://github.com/CleverRaven/Cataclysm-DDA/pull/68000))
-* Updated camp help to reflect removal of bed restrictions on expansion ([#67994](https://github.com/CleverRaven/Cataclysm-DDA/pull/67994))
