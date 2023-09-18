@@ -1,3 +1,4 @@
+* [MoM] Add two psionic animals (#68119)
 * Fix segfault when finishing fermentation (#68193)
 * Wheels with very high durability don't get damaged when they run over nailboard trap (#68192)
 * Some doc update  (#68180)
@@ -94,4 +95,3 @@
 * [MoM] Add overheating to LV-429 (#67998)
 * [Magiclysm] Remove default skills from fantasy species choices (#68000)
 * Updated camp help to reflect removal of bed restrictions on expansion (#67994)
-* [Magiclysm] "Frost Cream Man" Profession now has the Driving proficiency (#67988)
