@@ -1,3 +1,5 @@
+* Add NO_SPELLCASTING flag to Stunned effect ([#68200](https://github.com/CleverRaven/Cataclysm-DDA/pull/68200))
+* [MoM] Link anchoring crown recipe to schematic ([#68122](https://github.com/CleverRaven/Cataclysm-DDA/pull/68122))
 * Implement option to display item health bars and item health descriptions at the same time ([#68186](https://github.com/CleverRaven/Cataclysm-DDA/pull/68186))
 * Add special waves to Defense Mode ([#68196](https://github.com/CleverRaven/Cataclysm-DDA/pull/68196))
 * Multiple-choice prompt when walking into ledges. ([#68150](https://github.com/CleverRaven/Cataclysm-DDA/pull/68150))
@@ -92,5 +94,3 @@
 * Weekly Changelog 2023-08-28 to 2023-09-04 ([#68002](https://github.com/CleverRaven/Cataclysm-DDA/pull/68002))
 * Heavy punching bag uses heavy punching bag sack ([#68003](https://github.com/CleverRaven/Cataclysm-DDA/pull/68003))
 * mom: fix incorrect spell id ([#68001](https://github.com/CleverRaven/Cataclysm-DDA/pull/68001))
-* [MoM] Typo fix ([#67999](https://github.com/CleverRaven/Cataclysm-DDA/pull/67999))
-* [Magiclysm] Remove default skills from fantasy species choices ([#68000](https://github.com/CleverRaven/Cataclysm-DDA/pull/68000))
