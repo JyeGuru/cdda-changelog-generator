@@ -1,3 +1,4 @@
+* Update the table of contents in doc/JSON_INFO.md (#68195)
 * [MoM] Update and fix inferno grenade (#68203)
 * Add NO_SPELLCASTING flag to Stunned effect (#68200)
 * [MoM] Link anchoring crown recipe to schematic (#68122)
@@ -92,5 +93,4 @@
 * Fixes to documentation (#68008)
 * prevent the default backgrounds from being added to templates and random scenarios (#68013)
 * [ Xedra Evolved ]Border Patrol Office Improvements (#68012)
-* Weekly Changelog 2023-08-28 to 2023-09-04 (#68002)
 * Heavy punching bag uses heavy punching bag sack (#68003)
