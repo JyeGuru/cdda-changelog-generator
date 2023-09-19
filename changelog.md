@@ -1,3 +1,4 @@
+* fix "use range-based for loop instead" ([#68210](https://github.com/CleverRaven/Cataclysm-DDA/pull/68210))
 * Update documentation for monster obsoletion ([#68208](https://github.com/CleverRaven/Cataclysm-DDA/pull/68208))
 * Random cleanups part 1 ([#68108](https://github.com/CleverRaven/Cataclysm-DDA/pull/68108))
 * [Magiclysm] Triffid and Migo mages ([#68112](https://github.com/CleverRaven/Cataclysm-DDA/pull/68112))
@@ -88,7 +89,6 @@
 * [Magiclysm] Add fantasy species ferals ([#68025](https://github.com/CleverRaven/Cataclysm-DDA/pull/68025))
 * Cleanup arrows ([#68029](https://github.com/CleverRaven/Cataclysm-DDA/pull/68029))
 * [Magiclysm] Add warning message before dragon breath ([#68035](https://github.com/CleverRaven/Cataclysm-DDA/pull/68035))
-* Add cordless drills to "power tools" itemgroup, create corded power drills ([#68021](https://github.com/CleverRaven/Cataclysm-DDA/pull/68021))
 * Aftershock energy weapons rebalance ([#68036](https://github.com/CleverRaven/Cataclysm-DDA/pull/68036))
 * Use normal distribution for NPC altruism ([#68027](https://github.com/CleverRaven/Cataclysm-DDA/pull/68027))
 * [Magiclysm] Spirit faction fixes ([#68041](https://github.com/CleverRaven/Cataclysm-DDA/pull/68041))
