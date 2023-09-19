@@ -1,3 +1,4 @@
+* [MoM] Update and fix inferno grenade ([#68203](https://github.com/CleverRaven/Cataclysm-DDA/pull/68203))
 * Add NO_SPELLCASTING flag to Stunned effect ([#68200](https://github.com/CleverRaven/Cataclysm-DDA/pull/68200))
 * [MoM] Link anchoring crown recipe to schematic ([#68122](https://github.com/CleverRaven/Cataclysm-DDA/pull/68122))
 * Implement option to display item health bars and item health descriptions at the same time ([#68186](https://github.com/CleverRaven/Cataclysm-DDA/pull/68186))
@@ -93,4 +94,3 @@
 * [ Xedra Evolved ]Border Patrol Office Improvements ([#68012](https://github.com/CleverRaven/Cataclysm-DDA/pull/68012))
 * Weekly Changelog 2023-08-28 to 2023-09-04 ([#68002](https://github.com/CleverRaven/Cataclysm-DDA/pull/68002))
 * Heavy punching bag uses heavy punching bag sack ([#68003](https://github.com/CleverRaven/Cataclysm-DDA/pull/68003))
-* mom: fix incorrect spell id ([#68001](https://github.com/CleverRaven/Cataclysm-DDA/pull/68001))
