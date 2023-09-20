@@ -1,3 +1,4 @@
+* Isolation Protocol: Better Danger Clock ([#68206](https://github.com/CleverRaven/Cataclysm-DDA/pull/68206))
 * Show insertion failure reasons in Insert menu and AIM ([#68191](https://github.com/CleverRaven/Cataclysm-DDA/pull/68191))
 * Flying monsters can come down when needed ([#68213](https://github.com/CleverRaven/Cataclysm-DDA/pull/68213))
 * fix "use range-based for loop instead" ([#68210](https://github.com/CleverRaven/Cataclysm-DDA/pull/68210))
@@ -87,7 +88,6 @@
 * Sound-triggered traps ([#68047](https://github.com/CleverRaven/Cataclysm-DDA/pull/68047))
 * Routine i18n updates on 09 September 2023 ([#68052](https://github.com/CleverRaven/Cataclysm-DDA/pull/68052))
 * Add EOC condition: weapon category  ([#68044](https://github.com/CleverRaven/Cataclysm-DDA/pull/68044))
-* [Magiclysm] Add fantasy species ferals ([#68025](https://github.com/CleverRaven/Cataclysm-DDA/pull/68025))
 * Cleanup arrows ([#68029](https://github.com/CleverRaven/Cataclysm-DDA/pull/68029))
 * [Magiclysm] Add warning message before dragon breath ([#68035](https://github.com/CleverRaven/Cataclysm-DDA/pull/68035))
 * Aftershock energy weapons rebalance ([#68036](https://github.com/CleverRaven/Cataclysm-DDA/pull/68036))
