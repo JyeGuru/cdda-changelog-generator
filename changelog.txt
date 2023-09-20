@@ -1,3 +1,4 @@
+* [Object Creator] Add container-item, ammo-item, entry-wrapper and sealed properties to item group tab (#68222)
 * Isolation Protocol: Better Danger Clock (#68206)
 * Show insertion failure reasons in Insert menu and AIM (#68191)
 * Flying monsters can come down when needed (#68213)
@@ -94,4 +95,3 @@
 * Use normal distribution for NPC altruism (#68027)
 * [Magiclysm] Spirit faction fixes (#68041)
 * Fix alder_bark density (#68042)
-* Debug menu option to adjust NPC personality (#68026)
