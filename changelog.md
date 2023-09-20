@@ -1,3 +1,4 @@
+* Bugfix: Do not path NPCs into wall lights ([#68232](https://github.com/CleverRaven/Cataclysm-DDA/pull/68232))
 * Weekly Changelog 2023-09-04 to 2023-09-11 ([#68093](https://github.com/CleverRaven/Cataclysm-DDA/pull/68093))
 * [Object Creator] Add container-item, ammo-item, entry-wrapper and sealed properties to item group tab ([#68222](https://github.com/CleverRaven/Cataclysm-DDA/pull/68222))
 * Isolation Protocol: Better Danger Clock ([#68206](https://github.com/CleverRaven/Cataclysm-DDA/pull/68206))
@@ -90,7 +91,6 @@
 * Sound-triggered traps ([#68047](https://github.com/CleverRaven/Cataclysm-DDA/pull/68047))
 * Routine i18n updates on 09 September 2023 ([#68052](https://github.com/CleverRaven/Cataclysm-DDA/pull/68052))
 * Add EOC condition: weapon category  ([#68044](https://github.com/CleverRaven/Cataclysm-DDA/pull/68044))
-* Cleanup arrows ([#68029](https://github.com/CleverRaven/Cataclysm-DDA/pull/68029))
 * [Magiclysm] Add warning message before dragon breath ([#68035](https://github.com/CleverRaven/Cataclysm-DDA/pull/68035))
 * Aftershock energy weapons rebalance ([#68036](https://github.com/CleverRaven/Cataclysm-DDA/pull/68036))
 * [Magiclysm] Spirit faction fixes ([#68041](https://github.com/CleverRaven/Cataclysm-DDA/pull/68041))
