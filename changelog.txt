@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-09-04 to 2023-09-11 (#68093)
 * [Object Creator] Add container-item, ammo-item, entry-wrapper and sealed properties to item group tab (#68222)
 * Isolation Protocol: Better Danger Clock (#68206)
 * Show insertion failure reasons in Insert menu and AIM (#68191)
@@ -92,6 +93,5 @@
 * Cleanup arrows (#68029)
 * [Magiclysm] Add warning message before dragon breath (#68035)
 * Aftershock energy weapons rebalance (#68036)
-* Use normal distribution for NPC altruism (#68027)
 * [Magiclysm] Spirit faction fixes (#68041)
 * Fix alder_bark density (#68042)
