@@ -1,3 +1,4 @@
+* Random cleanups part 3 ([#68216](https://github.com/CleverRaven/Cataclysm-DDA/pull/68216))
 * replace ... with … where appropriate ([#68235](https://github.com/CleverRaven/Cataclysm-DDA/pull/68235))
 * Hold onto items which donot fit vehicle storage space ([#68169](https://github.com/CleverRaven/Cataclysm-DDA/pull/68169))
 * Fix a minor issue in the tied-up fridge and tied-up freezer crafting recipe ([#68230](https://github.com/CleverRaven/Cataclysm-DDA/pull/68230))
@@ -57,7 +58,6 @@
 * Bugfix: AIM: Display correct truncation of container names ([#68116](https://github.com/CleverRaven/Cataclysm-DDA/pull/68116))
 * Bugfix: AIM: insert items into container in corpse ([#68113](https://github.com/CleverRaven/Cataclysm-DDA/pull/68113))
 * [Magiclysm] Yet even more spells ([#68102](https://github.com/CleverRaven/Cataclysm-DDA/pull/68102))
-* Update RM103A automagnum's description ([#68038](https://github.com/CleverRaven/Cataclysm-DDA/pull/68038))
 * [Magiclysm] Everburning Torch rebalancing ([#68103](https://github.com/CleverRaven/Cataclysm-DDA/pull/68103))
 * Allow item transform to pick a specified or random variant ([#68048](https://github.com/CleverRaven/Cataclysm-DDA/pull/68048))
 * [Object Creator] Redo spell window layout ([#68105](https://github.com/CleverRaven/Cataclysm-DDA/pull/68105))
