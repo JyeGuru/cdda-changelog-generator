@@ -1,3 +1,4 @@
+* Add object creator to releases ([#68173](https://github.com/CleverRaven/Cataclysm-DDA/pull/68173))
 * Random cleanups part 3 ([#68216](https://github.com/CleverRaven/Cataclysm-DDA/pull/68216))
 * replace ... with … where appropriate ([#68235](https://github.com/CleverRaven/Cataclysm-DDA/pull/68235))
 * Hold onto items which donot fit vehicle storage space ([#68169](https://github.com/CleverRaven/Cataclysm-DDA/pull/68169))
