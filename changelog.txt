@@ -1,3 +1,4 @@
+* replace ... with … where appropriate (#68235)
 * Hold onto items which donot fit vehicle storage space (#68169)
 * Fix a minor issue in the tied-up fridge and tied-up freezer crafting recipe (#68230)
 * Bugfix: Do not path NPCs into wall lights (#68232)
@@ -92,6 +93,5 @@
 * Sound-triggered traps (#68047)
 * Routine i18n updates on 09 September 2023 (#68052)
 * Add EOC condition: weapon category  (#68044)
-* Aftershock energy weapons rebalance (#68036)
 * [Magiclysm] Spirit faction fixes (#68041)
 * Fix alder_bark density (#68042)
