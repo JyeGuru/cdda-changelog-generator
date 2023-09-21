@@ -1,3 +1,4 @@
+* Merchants will tell when they will restock ([#68218](https://github.com/CleverRaven/Cataclysm-DDA/pull/68218))
 * Add object creator to releases ([#68173](https://github.com/CleverRaven/Cataclysm-DDA/pull/68173))
 * Random cleanups part 3 ([#68216](https://github.com/CleverRaven/Cataclysm-DDA/pull/68216))
 * replace ... with … where appropriate ([#68235](https://github.com/CleverRaven/Cataclysm-DDA/pull/68235))
@@ -53,7 +54,6 @@
 * [MoM] Add nospell mutation to the anchoring crown ([#68125](https://github.com/CleverRaven/Cataclysm-DDA/pull/68125))
 * Fix furniture & vehicle map memory refresh ([#68131](https://github.com/CleverRaven/Cataclysm-DDA/pull/68131))
 * Make loaded stick ``looks_like`` the shillelagh ([#68133](https://github.com/CleverRaven/Cataclysm-DDA/pull/68133))
-* Add two new professions (+some items maybe), branch the priest profession ([#68040](https://github.com/CleverRaven/Cataclysm-DDA/pull/68040))
 * Random cleanups part 2 ([#68109](https://github.com/CleverRaven/Cataclysm-DDA/pull/68109))
 * view recipe: fix nested and or more results ([#68118](https://github.com/CleverRaven/Cataclysm-DDA/pull/68118))
 * Bugfix: AIM: Display correct truncation of container names ([#68116](https://github.com/CleverRaven/Cataclysm-DDA/pull/68116))
