@@ -95,4 +95,3 @@
 * Sound-triggered traps ([#68047](https://github.com/CleverRaven/Cataclysm-DDA/pull/68047))
 * Routine i18n updates on 09 September 2023 ([#68052](https://github.com/CleverRaven/Cataclysm-DDA/pull/68052))
 * Add EOC condition: weapon category  ([#68044](https://github.com/CleverRaven/Cataclysm-DDA/pull/68044))
-* Fix alder_bark density ([#68042](https://github.com/CleverRaven/Cataclysm-DDA/pull/68042))
