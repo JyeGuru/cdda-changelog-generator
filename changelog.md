@@ -1,3 +1,4 @@
+* Adjust devcontainer image url to be lowercase ([#68243](https://github.com/CleverRaven/Cataclysm-DDA/pull/68243))
 * Merchants will tell when they will restock ([#68218](https://github.com/CleverRaven/Cataclysm-DDA/pull/68218))
 * Add object creator to releases ([#68173](https://github.com/CleverRaven/Cataclysm-DDA/pull/68173))
 * Random cleanups part 3 ([#68216](https://github.com/CleverRaven/Cataclysm-DDA/pull/68216))
@@ -94,5 +95,4 @@
 * Sound-triggered traps ([#68047](https://github.com/CleverRaven/Cataclysm-DDA/pull/68047))
 * Routine i18n updates on 09 September 2023 ([#68052](https://github.com/CleverRaven/Cataclysm-DDA/pull/68052))
 * Add EOC condition: weapon category  ([#68044](https://github.com/CleverRaven/Cataclysm-DDA/pull/68044))
-* [Magiclysm] Spirit faction fixes ([#68041](https://github.com/CleverRaven/Cataclysm-DDA/pull/68041))
 * Fix alder_bark density ([#68042](https://github.com/CleverRaven/Cataclysm-DDA/pull/68042))
