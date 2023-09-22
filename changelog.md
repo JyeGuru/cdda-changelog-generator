@@ -1,3 +1,4 @@
+* Molotovs correctly used liquid accelerant ([#68258](https://github.com/CleverRaven/Cataclysm-DDA/pull/68258))
 * Remove the token bash damage on belts ([#68254](https://github.com/CleverRaven/Cataclysm-DDA/pull/68254))
 * [MoM] Add zombie blank ([#68159](https://github.com/CleverRaven/Cataclysm-DDA/pull/68159))
 * [Xedra Evolved] Add some mutations to Arvore Paraclesian scenario ([#68207](https://github.com/CleverRaven/Cataclysm-DDA/pull/68207))
@@ -95,4 +96,3 @@
 * Update raw_fruit.json to remove incorrect RAW flags in raw_fruit.json ([#68067](https://github.com/CleverRaven/Cataclysm-DDA/pull/68067))
 * Update comment in hunting monstergroups to mention copy-from ([#68058](https://github.com/CleverRaven/Cataclysm-DDA/pull/68058))
 * Bugfix: Re-scroll list of options when toggling header ([#68057](https://github.com/CleverRaven/Cataclysm-DDA/pull/68057))
-* Bugfix: Prevent segfault when scrolling options ([#68055](https://github.com/CleverRaven/Cataclysm-DDA/pull/68055))

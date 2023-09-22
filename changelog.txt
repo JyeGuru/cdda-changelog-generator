@@ -1,3 +1,4 @@
+* Molotovs correctly used liquid accelerant (#68258)
 * Remove the token bash damage on belts (#68254)
 * [MoM] Add zombie blank (#68159)
 * [Xedra Evolved] Add some mutations to Arvore Paraclesian scenario (#68207)
@@ -95,4 +96,3 @@
 * Update raw_fruit.json to remove incorrect RAW flags in raw_fruit.json (#68067)
 * Update comment in hunting monstergroups to mention copy-from (#68058)
 * Bugfix: Re-scroll list of options when toggling header (#68057)
-* Bugfix: Prevent segfault when scrolling options (#68055)
