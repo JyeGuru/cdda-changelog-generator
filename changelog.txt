@@ -1,3 +1,4 @@
+* An alternate sidebar (#68239)
 * [Magiclysm] Move Dust Reborn kcal value to PREVENT_DEATH EoC (#68247)
 * Adjust devcontainer image url to be lowercase (#68243)
 * Merchants will tell when they will restock (#68218)
@@ -95,4 +96,3 @@
 * Memory management shouldn't bloat picking a fluid container 1000% (#68053)
 * Sound-triggered traps (#68047)
 * Routine i18n updates on 09 September 2023 (#68052)
-* Add EOC condition: weapon category  (#68044)
