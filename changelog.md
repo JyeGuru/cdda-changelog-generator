@@ -1,3 +1,4 @@
+* Remove the token bash damage on belts ([#68254](https://github.com/CleverRaven/Cataclysm-DDA/pull/68254))
 * [MoM] Add zombie blank ([#68159](https://github.com/CleverRaven/Cataclysm-DDA/pull/68159))
 * [Xedra Evolved] Add some mutations to Arvore Paraclesian scenario ([#68207](https://github.com/CleverRaven/Cataclysm-DDA/pull/68207))
 * [Magiclysm] The Effectifying ([#68140](https://github.com/CleverRaven/Cataclysm-DDA/pull/68140))
@@ -51,7 +52,6 @@
 * Zone naming clean-up ([#68164](https://github.com/CleverRaven/Cataclysm-DDA/pull/68164))
 * Scrap tin audit ([#68168](https://github.com/CleverRaven/Cataclysm-DDA/pull/68168))
 * Compare recipe result with inventory item ([#68139](https://github.com/CleverRaven/Cataclysm-DDA/pull/68139))
-* [ Xedra Evolved ] Paraclesian traits and abilities: Sylph and Undine ([#68054](https://github.com/CleverRaven/Cataclysm-DDA/pull/68054))
 * 8 new UI colour themes ([#68153](https://github.com/CleverRaven/Cataclysm-DDA/pull/68153))
 * Add the artifacts category to some artifacts ([#68165](https://github.com/CleverRaven/Cataclysm-DDA/pull/68165))
 * Do not update visibility cache every two minutes ([#68155](https://github.com/CleverRaven/Cataclysm-DDA/pull/68155))
