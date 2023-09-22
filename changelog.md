@@ -1,3 +1,4 @@
+* [MoM] Add zombie blank ([#68159](https://github.com/CleverRaven/Cataclysm-DDA/pull/68159))
 * [Xedra Evolved] Add some mutations to Arvore Paraclesian scenario ([#68207](https://github.com/CleverRaven/Cataclysm-DDA/pull/68207))
 * [Magiclysm] The Effectifying ([#68140](https://github.com/CleverRaven/Cataclysm-DDA/pull/68140))
 * Bulk loading/unloading items into container saves time cost ([#68214](https://github.com/CleverRaven/Cataclysm-DDA/pull/68214))
@@ -95,4 +96,3 @@
 * Update comment in hunting monstergroups to mention copy-from ([#68058](https://github.com/CleverRaven/Cataclysm-DDA/pull/68058))
 * Bugfix: Re-scroll list of options when toggling header ([#68057](https://github.com/CleverRaven/Cataclysm-DDA/pull/68057))
 * Bugfix: Prevent segfault when scrolling options ([#68055](https://github.com/CleverRaven/Cataclysm-DDA/pull/68055))
-* Memory management shouldn't bloat picking a fluid container 1000% ([#68053](https://github.com/CleverRaven/Cataclysm-DDA/pull/68053))
