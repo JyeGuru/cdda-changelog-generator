@@ -1,3 +1,4 @@
+* Complete mess of vehicle changes ([#68248](https://github.com/CleverRaven/Cataclysm-DDA/pull/68248))
 * Insert new response to more suitable place for the exist topic ([#68171](https://github.com/CleverRaven/Cataclysm-DDA/pull/68171))
 * Adding a couple more Halloween things. ([#68250](https://github.com/CleverRaven/Cataclysm-DDA/pull/68250))
 * [EOC]Inventory itereter ([#68244](https://github.com/CleverRaven/Cataclysm-DDA/pull/68244))
@@ -92,7 +93,6 @@
 * Updated Alloy Reference Manual ([#68098](https://github.com/CleverRaven/Cataclysm-DDA/pull/68098))
 * Add smartphone length (and adjust some items) ([#68095](https://github.com/CleverRaven/Cataclysm-DDA/pull/68095))
 * Add "category": "tool_magazine" to weld tanks ([#68092](https://github.com/CleverRaven/Cataclysm-DDA/pull/68092))
-* Ammo Effects 2: Judgment Day ([#68085](https://github.com/CleverRaven/Cataclysm-DDA/pull/68085))
 * Fix Magiclysm merge errors ([#68094](https://github.com/CleverRaven/Cataclysm-DDA/pull/68094))
 * Undine healing fix. ([#68089](https://github.com/CleverRaven/Cataclysm-DDA/pull/68089))
 * [Magiclysm] Make goblins myopic in light  ([#68090](https://github.com/CleverRaven/Cataclysm-DDA/pull/68090))
