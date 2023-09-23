@@ -1,3 +1,4 @@
+* Insert new response to more suitable place for the exist topic ([#68171](https://github.com/CleverRaven/Cataclysm-DDA/pull/68171))
 * Adding a couple more Halloween things. ([#68250](https://github.com/CleverRaven/Cataclysm-DDA/pull/68250))
 * [EOC]Inventory itereter ([#68244](https://github.com/CleverRaven/Cataclysm-DDA/pull/68244))
 * Mozzarella is too darn high! ([#68276](https://github.com/CleverRaven/Cataclysm-DDA/pull/68276))
@@ -95,4 +96,3 @@
 * Fix Magiclysm merge errors ([#68094](https://github.com/CleverRaven/Cataclysm-DDA/pull/68094))
 * Undine healing fix. ([#68089](https://github.com/CleverRaven/Cataclysm-DDA/pull/68089))
 * [Magiclysm] Make goblins myopic in light  ([#68090](https://github.com/CleverRaven/Cataclysm-DDA/pull/68090))
-* Pineapple Supreme ([#68084](https://github.com/CleverRaven/Cataclysm-DDA/pull/68084))
