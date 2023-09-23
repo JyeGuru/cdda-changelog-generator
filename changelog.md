@@ -1,3 +1,4 @@
+* Organize the EOC files for better accessibility ([#68242](https://github.com/CleverRaven/Cataclysm-DDA/pull/68242))
 * Complete mess of vehicle changes ([#68248](https://github.com/CleverRaven/Cataclysm-DDA/pull/68248))
 * Insert new response to more suitable place for the exist topic ([#68171](https://github.com/CleverRaven/Cataclysm-DDA/pull/68171))
 * Adding a couple more Halloween things. ([#68250](https://github.com/CleverRaven/Cataclysm-DDA/pull/68250))
@@ -89,7 +90,6 @@
 * [Object Creator] Redo spell window layout ([#68105](https://github.com/CleverRaven/Cataclysm-DDA/pull/68105))
 * Bugfix: Correct NPC topic id for Uyen Tran ([#68101](https://github.com/CleverRaven/Cataclysm-DDA/pull/68101))
 * fix: set min-max age for random characters ([#68099](https://github.com/CleverRaven/Cataclysm-DDA/pull/68099))
-* Stop clearing weight carried cache unnecessarily ([#68087](https://github.com/CleverRaven/Cataclysm-DDA/pull/68087))
 * Updated Alloy Reference Manual ([#68098](https://github.com/CleverRaven/Cataclysm-DDA/pull/68098))
 * Add smartphone length (and adjust some items) ([#68095](https://github.com/CleverRaven/Cataclysm-DDA/pull/68095))
 * Add "category": "tool_magazine" to weld tanks ([#68092](https://github.com/CleverRaven/Cataclysm-DDA/pull/68092))
