@@ -1,3 +1,5 @@
+* Fix tailoring kit description and adjust sewing kit description. ([#68262](https://github.com/CleverRaven/Cataclysm-DDA/pull/68262))
+* Bugfix: Prevent empty subject in 'but do no damage' msgs when dealing no damage ([#68261](https://github.com/CleverRaven/Cataclysm-DDA/pull/68261))
 * Molotovs correctly used liquid accelerant ([#68258](https://github.com/CleverRaven/Cataclysm-DDA/pull/68258))
 * Remove the token bash damage on belts ([#68254](https://github.com/CleverRaven/Cataclysm-DDA/pull/68254))
 * [MoM] Add zombie blank ([#68159](https://github.com/CleverRaven/Cataclysm-DDA/pull/68159))
@@ -94,5 +96,3 @@
 * Cleanup ammo effects ([#68069](https://github.com/CleverRaven/Cataclysm-DDA/pull/68069))
 * Fix wrong maybe-uninitialized ([#68065](https://github.com/CleverRaven/Cataclysm-DDA/pull/68065))
 * Update raw_fruit.json to remove incorrect RAW flags in raw_fruit.json ([#68067](https://github.com/CleverRaven/Cataclysm-DDA/pull/68067))
-* Update comment in hunting monstergroups to mention copy-from ([#68058](https://github.com/CleverRaven/Cataclysm-DDA/pull/68058))
-* Bugfix: Re-scroll list of options when toggling header ([#68057](https://github.com/CleverRaven/Cataclysm-DDA/pull/68057))
