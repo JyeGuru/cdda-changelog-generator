@@ -1,3 +1,4 @@
+* adjust some pocket's max weight ([#68264](https://github.com/CleverRaven/Cataclysm-DDA/pull/68264))
 * Fix tailoring kit description and adjust sewing kit description. ([#68262](https://github.com/CleverRaven/Cataclysm-DDA/pull/68262))
 * Bugfix: Prevent empty subject in 'but do no damage' msgs when dealing no damage ([#68261](https://github.com/CleverRaven/Cataclysm-DDA/pull/68261))
 * Molotovs correctly used liquid accelerant ([#68258](https://github.com/CleverRaven/Cataclysm-DDA/pull/68258))
@@ -92,7 +93,6 @@
 * Walther PPQ9mm is not old. ([#68066](https://github.com/CleverRaven/Cataclysm-DDA/pull/68066))
 * Restore the craft amount for arrows to 10 ([#68068](https://github.com/CleverRaven/Cataclysm-DDA/pull/68068))
 * Revert "Update comment in hunting monstergroups to mention copy-from" ([#68070](https://github.com/CleverRaven/Cataclysm-DDA/pull/68070))
-* Update some clothing pockets ([#68060](https://github.com/CleverRaven/Cataclysm-DDA/pull/68060))
 * Cleanup ammo effects ([#68069](https://github.com/CleverRaven/Cataclysm-DDA/pull/68069))
 * Fix wrong maybe-uninitialized ([#68065](https://github.com/CleverRaven/Cataclysm-DDA/pull/68065))
 * Update raw_fruit.json to remove incorrect RAW flags in raw_fruit.json ([#68067](https://github.com/CleverRaven/Cataclysm-DDA/pull/68067))
