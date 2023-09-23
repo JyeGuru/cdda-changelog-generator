@@ -1,3 +1,4 @@
+* Routine i18n updates on 23 September 2023 ([#68266](https://github.com/CleverRaven/Cataclysm-DDA/pull/68266))
 * Pets follow stairs well ([#68255](https://github.com/CleverRaven/Cataclysm-DDA/pull/68255))
 * Skip auto sorting unowned items ([#68267](https://github.com/CleverRaven/Cataclysm-DDA/pull/68267))
 * Fix Free Merchants Broker price calculation of non charge based item ([#68269](https://github.com/CleverRaven/Cataclysm-DDA/pull/68269))
@@ -93,6 +94,5 @@
 * Rebalance gunsmith ammo conversion ([#68076](https://github.com/CleverRaven/Cataclysm-DDA/pull/68076))
 * Option to ignore items in usage zones (i.e. firewood, auto-eat, etc) ([#68072](https://github.com/CleverRaven/Cataclysm-DDA/pull/68072))
 * [Object Creator] Instead of calling exit(), reset and signal the default handler ([#68071](https://github.com/CleverRaven/Cataclysm-DDA/pull/68071))
-* Restore the craft amount for arrows to 10 ([#68068](https://github.com/CleverRaven/Cataclysm-DDA/pull/68068))
 * Revert "Update comment in hunting monstergroups to mention copy-from" ([#68070](https://github.com/CleverRaven/Cataclysm-DDA/pull/68070))
 * Cleanup ammo effects ([#68069](https://github.com/CleverRaven/Cataclysm-DDA/pull/68069))
