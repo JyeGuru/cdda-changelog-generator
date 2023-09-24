@@ -1,3 +1,4 @@
+* [MoM] Add Incandescent Lance to welding_standard ([#68284](https://github.com/CleverRaven/Cataclysm-DDA/pull/68284))
 * Make long stick long ([#68291](https://github.com/CleverRaven/Cataclysm-DDA/pull/68291))
 * Foot locker audit & item forms ([#68278](https://github.com/CleverRaven/Cataclysm-DDA/pull/68278))
 * A bunch of random item reworks: 11 ([#68275](https://github.com/CleverRaven/Cataclysm-DDA/pull/68275))
@@ -95,4 +96,3 @@
 * [Magiclysm] Everburning Torch rebalancing ([#68103](https://github.com/CleverRaven/Cataclysm-DDA/pull/68103))
 * [Object Creator] Redo spell window layout ([#68105](https://github.com/CleverRaven/Cataclysm-DDA/pull/68105))
 * Bugfix: Correct NPC topic id for Uyen Tran ([#68101](https://github.com/CleverRaven/Cataclysm-DDA/pull/68101))
-* fix: set min-max age for random characters ([#68099](https://github.com/CleverRaven/Cataclysm-DDA/pull/68099))
