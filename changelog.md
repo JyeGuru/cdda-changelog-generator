@@ -1,3 +1,5 @@
+* Balance changes to Defense Mode -- Xedra Evolved compatability ([#68293](https://github.com/CleverRaven/Cataclysm-DDA/pull/68293))
+* JSON-ify rules for climbing down & simplify UX ([#68265](https://github.com/CleverRaven/Cataclysm-DDA/pull/68265))
 * Almost all weapon techniques now require melee skill. ([#68288](https://github.com/CleverRaven/Cataclysm-DDA/pull/68288))
 * [MoM] Add Incandescent Lance to welding_standard ([#68284](https://github.com/CleverRaven/Cataclysm-DDA/pull/68284))
 * Make long stick long ([#68291](https://github.com/CleverRaven/Cataclysm-DDA/pull/68291))
@@ -93,6 +95,4 @@
 * view recipe: fix nested and or more results ([#68118](https://github.com/CleverRaven/Cataclysm-DDA/pull/68118))
 * Bugfix: AIM: Display correct truncation of container names ([#68116](https://github.com/CleverRaven/Cataclysm-DDA/pull/68116))
 * Bugfix: AIM: insert items into container in corpse ([#68113](https://github.com/CleverRaven/Cataclysm-DDA/pull/68113))
-* [Magiclysm] Yet even more spells ([#68102](https://github.com/CleverRaven/Cataclysm-DDA/pull/68102))
-* [Magiclysm] Everburning Torch rebalancing ([#68103](https://github.com/CleverRaven/Cataclysm-DDA/pull/68103))
 * [Object Creator] Redo spell window layout ([#68105](https://github.com/CleverRaven/Cataclysm-DDA/pull/68105))
