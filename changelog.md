@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-09-11 to 2023-09-18 ([#68185](https://github.com/CleverRaven/Cataclysm-DDA/pull/68185))
 * Isolation Protocol: Perks for all starting professions ([#68251](https://github.com/CleverRaven/Cataclysm-DDA/pull/68251))
 * Defense Mode: Assault on Precinct 13 ([#68225](https://github.com/CleverRaven/Cataclysm-DDA/pull/68225))
 * Fix layering on thin sleeved gambesons ([#68279](https://github.com/CleverRaven/Cataclysm-DDA/pull/68279))
@@ -36,7 +37,6 @@
 * Hold onto items which donot fit vehicle storage space ([#68169](https://github.com/CleverRaven/Cataclysm-DDA/pull/68169))
 * Fix a minor issue in the tied-up fridge and tied-up freezer crafting recipe ([#68230](https://github.com/CleverRaven/Cataclysm-DDA/pull/68230))
 * Bugfix: Do not path NPCs into wall lights ([#68232](https://github.com/CleverRaven/Cataclysm-DDA/pull/68232))
-* Weekly Changelog 2023-09-04 to 2023-09-11 ([#68093](https://github.com/CleverRaven/Cataclysm-DDA/pull/68093))
 * [Object Creator] Add container-item, ammo-item, entry-wrapper and sealed properties to item group tab ([#68222](https://github.com/CleverRaven/Cataclysm-DDA/pull/68222))
 * Isolation Protocol: Better Danger Clock ([#68206](https://github.com/CleverRaven/Cataclysm-DDA/pull/68206))
 * Show insertion failure reasons in Insert menu and AIM ([#68191](https://github.com/CleverRaven/Cataclysm-DDA/pull/68191))
