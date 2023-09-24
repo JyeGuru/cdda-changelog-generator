@@ -1,3 +1,4 @@
+* A bunch of random item reworks: 11 (#68275)
 * Weekly Changelog 2023-09-11 to 2023-09-18 (#68185)
 * Isolation Protocol: Perks for all starting professions (#68251)
 * Defense Mode: Assault on Precinct 13 (#68225)
@@ -95,4 +96,3 @@
 * fix: set min-max age for random characters (#68099)
 * Updated Alloy Reference Manual (#68098)
 * Add smartphone length (and adjust some items) (#68095)
-* Fix Magiclysm merge errors (#68094)
