@@ -1,3 +1,4 @@
+* Mods "[Aftershock]Adjustment of overgenerated facilities" ([#68271](https://github.com/CleverRaven/Cataclysm-DDA/pull/68271))
 * fix: correct newline characters ([#68303](https://github.com/CleverRaven/Cataclysm-DDA/pull/68303))
 * Select default bodypart when applying bandage ([#68277](https://github.com/CleverRaven/Cataclysm-DDA/pull/68277))
 * Add BIOLOGICALPROOF flag to biological damage immunity, apply it to robots and Nether emanations ([#68297](https://github.com/CleverRaven/Cataclysm-DDA/pull/68297))
@@ -69,7 +70,6 @@
 * Add special waves to Defense Mode ([#68196](https://github.com/CleverRaven/Cataclysm-DDA/pull/68196))
 * Multiple-choice prompt when walking into ledges. ([#68150](https://github.com/CleverRaven/Cataclysm-DDA/pull/68150))
 * Monsters can go down ramps ([#68194](https://github.com/CleverRaven/Cataclysm-DDA/pull/68194))
-* [MoM] Add two psionic animals ([#68119](https://github.com/CleverRaven/Cataclysm-DDA/pull/68119))
 * Fix segfault when finishing fermentation ([#68193](https://github.com/CleverRaven/Cataclysm-DDA/pull/68193))
 * Wheels with very high durability don't get damaged when they run over nailboard trap ([#68192](https://github.com/CleverRaven/Cataclysm-DDA/pull/68192))
 * Some doc update  ([#68180](https://github.com/CleverRaven/Cataclysm-DDA/pull/68180))
