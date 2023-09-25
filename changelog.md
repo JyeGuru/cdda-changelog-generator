@@ -1,3 +1,4 @@
+* fix: correct newline characters ([#68303](https://github.com/CleverRaven/Cataclysm-DDA/pull/68303))
 * Select default bodypart when applying bandage ([#68277](https://github.com/CleverRaven/Cataclysm-DDA/pull/68277))
 * Add BIOLOGICALPROOF flag to biological damage immunity, apply it to robots and Nether emanations ([#68297](https://github.com/CleverRaven/Cataclysm-DDA/pull/68297))
 * Small fixes in CMake build in Linux devcontainer ([#68300](https://github.com/CleverRaven/Cataclysm-DDA/pull/68300))
@@ -94,4 +95,3 @@
 * [MoM] Add nospell mutation to the anchoring crown ([#68125](https://github.com/CleverRaven/Cataclysm-DDA/pull/68125))
 * Fix furniture & vehicle map memory refresh ([#68131](https://github.com/CleverRaven/Cataclysm-DDA/pull/68131))
 * Make loaded stick ``looks_like`` the shillelagh ([#68133](https://github.com/CleverRaven/Cataclysm-DDA/pull/68133))
-* view recipe: fix nested and or more results ([#68118](https://github.com/CleverRaven/Cataclysm-DDA/pull/68118))
