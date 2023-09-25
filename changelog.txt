@@ -1,3 +1,4 @@
+* Validation for damage type id's (#68287)
 * Balance changes to Defense Mode -- Xedra Evolved compatability (#68293)
 * JSON-ify rules for climbing down & simplify UX (#68265)
 * Almost all weapon techniques now require melee skill. (#68288)
@@ -50,7 +51,6 @@
 * Flying monsters can come down when needed (#68213)
 * fix "use range-based for loop instead" (#68210)
 * Update documentation for monster obsoletion (#68208)
-* Random cleanups part 1 (#68108)
 * [Magiclysm] Triffid and Migo mages (#68112)
 * [MoM] Change Enervating Touch damage type (#68148)
 * Accessible item insert menu (#68176)
@@ -95,4 +95,3 @@
 * view recipe: fix nested and or more results (#68118)
 * Bugfix: AIM: Display correct truncation of container names (#68116)
 * Bugfix: AIM: insert items into container in corpse (#68113)
-* [Object Creator] Redo spell window layout (#68105)
