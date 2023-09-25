@@ -1,3 +1,4 @@
+* Small fixes in CMake build in Linux devcontainer (#68300)
 * [MoM] Rebalance Fountain of Flames (#68302)
 * Validation for damage type id's (#68287)
 * Balance changes to Defense Mode -- Xedra Evolved compatability (#68293)
@@ -52,7 +53,6 @@
 * Flying monsters can come down when needed (#68213)
 * fix "use range-based for loop instead" (#68210)
 * Update documentation for monster obsoletion (#68208)
-* [Magiclysm] Triffid and Migo mages (#68112)
 * [MoM] Change Enervating Touch damage type (#68148)
 * Accessible item insert menu (#68176)
 * [ Xedra Evolved ] Mutation ordering for Tilesets (#68184)
