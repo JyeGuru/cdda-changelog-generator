@@ -1,3 +1,4 @@
+* [MoM] Rebalance Fountain of Flames ([#68302](https://github.com/CleverRaven/Cataclysm-DDA/pull/68302))
 * Validation for damage type id's ([#68287](https://github.com/CleverRaven/Cataclysm-DDA/pull/68287))
 * Balance changes to Defense Mode -- Xedra Evolved compatability ([#68293](https://github.com/CleverRaven/Cataclysm-DDA/pull/68293))
 * JSON-ify rules for climbing down & simplify UX ([#68265](https://github.com/CleverRaven/Cataclysm-DDA/pull/68265))
@@ -91,7 +92,6 @@
 * [MoM] Add nospell mutation to the anchoring crown ([#68125](https://github.com/CleverRaven/Cataclysm-DDA/pull/68125))
 * Fix furniture & vehicle map memory refresh ([#68131](https://github.com/CleverRaven/Cataclysm-DDA/pull/68131))
 * Make loaded stick ``looks_like`` the shillelagh ([#68133](https://github.com/CleverRaven/Cataclysm-DDA/pull/68133))
-* Random cleanups part 2 ([#68109](https://github.com/CleverRaven/Cataclysm-DDA/pull/68109))
 * view recipe: fix nested and or more results ([#68118](https://github.com/CleverRaven/Cataclysm-DDA/pull/68118))
 * Bugfix: AIM: Display correct truncation of container names ([#68116](https://github.com/CleverRaven/Cataclysm-DDA/pull/68116))
 * Bugfix: AIM: insert items into container in corpse ([#68113](https://github.com/CleverRaven/Cataclysm-DDA/pull/68113))
