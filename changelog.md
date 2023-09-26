@@ -1,3 +1,4 @@
+* Give the pipe some weapon techs ([#68290](https://github.com/CleverRaven/Cataclysm-DDA/pull/68290))
 * Trader avoid ([#68314](https://github.com/CleverRaven/Cataclysm-DDA/pull/68314))
 * Fix clang-tidy workflow by installing 'required' libflac-dev ([#68331](https://github.com/CleverRaven/Cataclysm-DDA/pull/68331))
 * Misc doc updates ([#68319](https://github.com/CleverRaven/Cataclysm-DDA/pull/68319))
@@ -90,7 +91,6 @@
 * More quick setup debug functions ([#68147](https://github.com/CleverRaven/Cataclysm-DDA/pull/68147))
 * Zone naming clean-up ([#68164](https://github.com/CleverRaven/Cataclysm-DDA/pull/68164))
 * Scrap tin audit ([#68168](https://github.com/CleverRaven/Cataclysm-DDA/pull/68168))
-* Compare recipe result with inventory item ([#68139](https://github.com/CleverRaven/Cataclysm-DDA/pull/68139))
 * 8 new UI colour themes ([#68153](https://github.com/CleverRaven/Cataclysm-DDA/pull/68153))
 * Add the artifacts category to some artifacts ([#68165](https://github.com/CleverRaven/Cataclysm-DDA/pull/68165))
 * Do not update visibility cache every two minutes ([#68155](https://github.com/CleverRaven/Cataclysm-DDA/pull/68155))
