@@ -1,3 +1,5 @@
+* Fix visibility not updating properly when moving, peeking and autodriving ([#68138](https://github.com/CleverRaven/Cataclysm-DDA/pull/68138))
+* Misc doc updates ([#68319](https://github.com/CleverRaven/Cataclysm-DDA/pull/68319))
 * Normal SD cards don't give secret recipes ([#68305](https://github.com/CleverRaven/Cataclysm-DDA/pull/68305))
 * Docs update ([#68260](https://github.com/CleverRaven/Cataclysm-DDA/pull/68260))
 * Add a second cracker to the tutorial ([#68283](https://github.com/CleverRaven/Cataclysm-DDA/pull/68283))
@@ -93,5 +95,3 @@
 * Do not update visibility cache every two minutes ([#68155](https://github.com/CleverRaven/Cataclysm-DDA/pull/68155))
 * [Object Creator] Add checks to spell properties to prevent crash ([#68137](https://github.com/CleverRaven/Cataclysm-DDA/pull/68137))
 * Bugfix: Prevent segfault when listening to radio msgs ([#68142](https://github.com/CleverRaven/Cataclysm-DDA/pull/68142))
-* Fix furniture & vehicle map memory refresh ([#68131](https://github.com/CleverRaven/Cataclysm-DDA/pull/68131))
-* Make loaded stick ``looks_like`` the shillelagh ([#68133](https://github.com/CleverRaven/Cataclysm-DDA/pull/68133))
