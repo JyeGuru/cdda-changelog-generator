@@ -53,7 +53,6 @@
 * Bugfix: Prevent empty subject in 'but do no damage' msgs when dealing no damage ([#68261](https://github.com/CleverRaven/Cataclysm-DDA/pull/68261))
 * Molotovs correctly used liquid accelerant ([#68258](https://github.com/CleverRaven/Cataclysm-DDA/pull/68258))
 * Remove the token bash damage on belts ([#68254](https://github.com/CleverRaven/Cataclysm-DDA/pull/68254))
-* [MoM] Add zombie blank ([#68159](https://github.com/CleverRaven/Cataclysm-DDA/pull/68159))
 * [Xedra Evolved] Add some mutations to Arvore Paraclesian scenario ([#68207](https://github.com/CleverRaven/Cataclysm-DDA/pull/68207))
 * Bulk loading/unloading items into container saves time cost ([#68214](https://github.com/CleverRaven/Cataclysm-DDA/pull/68214))
 * Anger npc if player asks for equipment ([#68215](https://github.com/CleverRaven/Cataclysm-DDA/pull/68215))

@@ -53,7 +53,6 @@
 * Bugfix: Prevent empty subject in 'but do no damage' msgs when dealing no damage (#68261)
 * Molotovs correctly used liquid accelerant (#68258)
 * Remove the token bash damage on belts (#68254)
-* [MoM] Add zombie blank (#68159)
 * [Xedra Evolved] Add some mutations to Arvore Paraclesian scenario (#68207)
 * Bulk loading/unloading items into container saves time cost (#68214)
 * Anger npc if player asks for equipment (#68215)
