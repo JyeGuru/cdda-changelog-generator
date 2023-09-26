@@ -1,4 +1,5 @@
-* Fix visibility not updating properly when moving, peeking and autodriving ([#68138](https://github.com/CleverRaven/Cataclysm-DDA/pull/68138))
+* Trader avoid ([#68314](https://github.com/CleverRaven/Cataclysm-DDA/pull/68314))
+* Fix clang-tidy workflow by installing 'required' libflac-dev ([#68331](https://github.com/CleverRaven/Cataclysm-DDA/pull/68331))
 * Misc doc updates ([#68319](https://github.com/CleverRaven/Cataclysm-DDA/pull/68319))
 * Normal SD cards don't give secret recipes ([#68305](https://github.com/CleverRaven/Cataclysm-DDA/pull/68305))
 * Docs update ([#68260](https://github.com/CleverRaven/Cataclysm-DDA/pull/68260))
@@ -93,5 +94,4 @@
 * 8 new UI colour themes ([#68153](https://github.com/CleverRaven/Cataclysm-DDA/pull/68153))
 * Add the artifacts category to some artifacts ([#68165](https://github.com/CleverRaven/Cataclysm-DDA/pull/68165))
 * Do not update visibility cache every two minutes ([#68155](https://github.com/CleverRaven/Cataclysm-DDA/pull/68155))
-* [Object Creator] Add checks to spell properties to prevent crash ([#68137](https://github.com/CleverRaven/Cataclysm-DDA/pull/68137))
 * Bugfix: Prevent segfault when listening to radio msgs ([#68142](https://github.com/CleverRaven/Cataclysm-DDA/pull/68142))
