@@ -1,3 +1,5 @@
+* [Xedra Evolved] Allow more professions in the Once Bitten scenario ([#68294](https://github.com/CleverRaven/Cataclysm-DDA/pull/68294))
+* XE Addiction snippets ([#68309](https://github.com/CleverRaven/Cataclysm-DDA/pull/68309))
 * Halloween costumes set drops ([#68285](https://github.com/CleverRaven/Cataclysm-DDA/pull/68285))
 * Make eoc melee test stop failing for the wrong reason ([#68332](https://github.com/CleverRaven/Cataclysm-DDA/pull/68332))
 * Add BIOLOGICALPROOF documentation ([#68333](https://github.com/CleverRaven/Cataclysm-DDA/pull/68333))
@@ -92,6 +94,4 @@
 * Routine i18n updates on 16 September 2023 ([#68162](https://github.com/CleverRaven/Cataclysm-DDA/pull/68162))
 * Zone naming clean-up ([#68164](https://github.com/CleverRaven/Cataclysm-DDA/pull/68164))
 * Scrap tin audit ([#68168](https://github.com/CleverRaven/Cataclysm-DDA/pull/68168))
-* 8 new UI colour themes ([#68153](https://github.com/CleverRaven/Cataclysm-DDA/pull/68153))
 * Add the artifacts category to some artifacts ([#68165](https://github.com/CleverRaven/Cataclysm-DDA/pull/68165))
-* Do not update visibility cache every two minutes ([#68155](https://github.com/CleverRaven/Cataclysm-DDA/pull/68155))
