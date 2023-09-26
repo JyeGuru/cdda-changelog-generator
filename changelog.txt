@@ -90,7 +90,6 @@
 * Add new inter-mod content to Defense Mode (#68172)
 * Ki Strike now works with worn equipment (#68178)
 * Isolation protocol Mod (#68160)
-* Attack on Typo (#68158)
 * Routine i18n updates on 16 September 2023 (#68162)
 * Zone naming clean-up (#68164)
 * Scrap tin audit (#68168)
