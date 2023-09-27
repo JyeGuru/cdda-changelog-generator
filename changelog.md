@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-09-18 to 2023-09-25 ([#68308](https://github.com/CleverRaven/Cataclysm-DDA/pull/68308))
 * [Xedra Evolved] Allow more professions in the Once Bitten scenario ([#68294](https://github.com/CleverRaven/Cataclysm-DDA/pull/68294))
 * XE Addiction snippets ([#68309](https://github.com/CleverRaven/Cataclysm-DDA/pull/68309))
 * Halloween costumes set drops ([#68285](https://github.com/CleverRaven/Cataclysm-DDA/pull/68285))
@@ -88,7 +89,6 @@
 * Some doc update  ([#68180](https://github.com/CleverRaven/Cataclysm-DDA/pull/68180))
 * Add new inter-mod content to Defense Mode ([#68172](https://github.com/CleverRaven/Cataclysm-DDA/pull/68172))
 * Ki Strike now works with worn equipment ([#68178](https://github.com/CleverRaven/Cataclysm-DDA/pull/68178))
-* Isolation protocol Mod ([#68160](https://github.com/CleverRaven/Cataclysm-DDA/pull/68160))
 * Routine i18n updates on 16 September 2023 ([#68162](https://github.com/CleverRaven/Cataclysm-DDA/pull/68162))
 * Zone naming clean-up ([#68164](https://github.com/CleverRaven/Cataclysm-DDA/pull/68164))
 * Scrap tin audit ([#68168](https://github.com/CleverRaven/Cataclysm-DDA/pull/68168))
