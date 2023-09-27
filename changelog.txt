@@ -1,3 +1,5 @@
+* Implement Character::rest_quality() (#68321)
+* Fix Cloak of Frog permanently frogging you (#68349)
 * Underwater monsters don't attack by passing through boats (#68340)
 * Weekly Changelog 2023-09-18 to 2023-09-25 (#68308)
 * [Xedra Evolved] Allow more professions in the Once Bitten scenario (#68294)
@@ -90,6 +92,4 @@
 * Some doc update  (#68180)
 * Add new inter-mod content to Defense Mode (#68172)
 * Ki Strike now works with worn equipment (#68178)
-* Zone naming clean-up (#68164)
 * Scrap tin audit (#68168)
-* Add the artifacts category to some artifacts (#68165)
