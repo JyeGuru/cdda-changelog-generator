@@ -1,3 +1,4 @@
+* Fixed uncommon stream_mutable generation failure (#68361)
 * Wear Scarves Around Your Head (#68357)
 * [Xedra Evolved] Add more Arvore Paraclesian mutations (#68256)
 * Resurrect `Wetsuit and diving gear rework` (#68296)
@@ -80,7 +81,6 @@
 * Flying monsters can come down when needed (#68213)
 * fix "use range-based for loop instead" (#68210)
 * Update documentation for monster obsoletion (#68208)
-* Accessible item insert menu (#68176)
 * [ Xedra Evolved ] Mutation ordering for Tilesets (#68184)
 * [MoM] New powers (#68187)
 * Vampire Blood weave and Map sight (#68188)
