@@ -1,3 +1,4 @@
+* Wear Scarves Around Your Head (#68357)
 * [Xedra Evolved] Add more Arvore Paraclesian mutations (#68256)
 * Resurrect `Wetsuit and diving gear rework` (#68296)
 * Don't Lose default background when chosing a profession (#68353)
@@ -69,7 +70,6 @@
 * [Magiclysm] Move Dust Reborn kcal value to PREVENT_DEATH EoC (#68247)
 * Adjust devcontainer image url to be lowercase (#68243)
 * Merchants will tell when they will restock (#68218)
-* Add object creator to releases (#68173)
 * Random cleanups part 3 (#68216)
 * replace ... with … where appropriate (#68235)
 * Fix a minor issue in the tied-up fridge and tied-up freezer crafting recipe (#68230)
