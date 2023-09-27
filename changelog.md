@@ -1,3 +1,5 @@
+* 🧗‍♀️ Rebalance & expand climbing down with ropes, ladders, vehicles, downspouts & mutations ([#68306](https://github.com/CleverRaven/Cataclysm-DDA/pull/68306))
+* Allow Simon to elaborate about his family ([#68358](https://github.com/CleverRaven/Cataclysm-DDA/pull/68358))
 * Implement Character::rest_quality() ([#68321](https://github.com/CleverRaven/Cataclysm-DDA/pull/68321))
 * Fix Cloak of Frog permanently frogging you ([#68349](https://github.com/CleverRaven/Cataclysm-DDA/pull/68349))
 * Underwater monsters don't attack by passing through boats ([#68340](https://github.com/CleverRaven/Cataclysm-DDA/pull/68340))
@@ -68,7 +70,6 @@
 * Add object creator to releases ([#68173](https://github.com/CleverRaven/Cataclysm-DDA/pull/68173))
 * Random cleanups part 3 ([#68216](https://github.com/CleverRaven/Cataclysm-DDA/pull/68216))
 * replace ... with … where appropriate ([#68235](https://github.com/CleverRaven/Cataclysm-DDA/pull/68235))
-* Hold onto items which donot fit vehicle storage space ([#68169](https://github.com/CleverRaven/Cataclysm-DDA/pull/68169))
 * Fix a minor issue in the tied-up fridge and tied-up freezer crafting recipe ([#68230](https://github.com/CleverRaven/Cataclysm-DDA/pull/68230))
 * Bugfix: Do not path NPCs into wall lights ([#68232](https://github.com/CleverRaven/Cataclysm-DDA/pull/68232))
 * [Object Creator] Add container-item, ammo-item, entry-wrapper and sealed properties to item group tab ([#68222](https://github.com/CleverRaven/Cataclysm-DDA/pull/68222))
@@ -92,4 +93,3 @@
 * Some doc update  ([#68180](https://github.com/CleverRaven/Cataclysm-DDA/pull/68180))
 * Add new inter-mod content to Defense Mode ([#68172](https://github.com/CleverRaven/Cataclysm-DDA/pull/68172))
 * Ki Strike now works with worn equipment ([#68178](https://github.com/CleverRaven/Cataclysm-DDA/pull/68178))
-* Scrap tin audit ([#68168](https://github.com/CleverRaven/Cataclysm-DDA/pull/68168))
