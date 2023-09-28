@@ -1,3 +1,4 @@
+* Improved where monsters leap ([#68360](https://github.com/CleverRaven/Cataclysm-DDA/pull/68360))
 * fireweed and more mostly decorative flora ([#68368](https://github.com/CleverRaven/Cataclysm-DDA/pull/68368))
 * Adjust feral combat knife damage ([#68372](https://github.com/CleverRaven/Cataclysm-DDA/pull/68372))
 * Add ROOTS2 and ROOTS3 flags so Mycorrhizal Communion works properly ([#68348](https://github.com/CleverRaven/Cataclysm-DDA/pull/68348))
