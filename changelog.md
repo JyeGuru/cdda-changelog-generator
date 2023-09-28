@@ -1,3 +1,5 @@
+* [MoM] Biokinesis duration fixes ([#68366](https://github.com/CleverRaven/Cataclysm-DDA/pull/68366))
+* Skill vs Knowledge Check Audit ([#68312](https://github.com/CleverRaven/Cataclysm-DDA/pull/68312))
 * Fixed uncommon stream_mutable generation failure ([#68361](https://github.com/CleverRaven/Cataclysm-DDA/pull/68361))
 * Wear Scarves Around Your Head ([#68357](https://github.com/CleverRaven/Cataclysm-DDA/pull/68357))
 * [Xedra Evolved] Add more Arvore Paraclesian mutations ([#68256](https://github.com/CleverRaven/Cataclysm-DDA/pull/68256))
@@ -92,5 +94,3 @@
 * Monsters can go down ramps ([#68194](https://github.com/CleverRaven/Cataclysm-DDA/pull/68194))
 * Fix segfault when finishing fermentation ([#68193](https://github.com/CleverRaven/Cataclysm-DDA/pull/68193))
 * Wheels with very high durability don't get damaged when they run over nailboard trap ([#68192](https://github.com/CleverRaven/Cataclysm-DDA/pull/68192))
-* Some doc update  ([#68180](https://github.com/CleverRaven/Cataclysm-DDA/pull/68180))
-* Ki Strike now works with worn equipment ([#68178](https://github.com/CleverRaven/Cataclysm-DDA/pull/68178))
