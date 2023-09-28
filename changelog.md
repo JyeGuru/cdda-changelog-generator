@@ -1,3 +1,4 @@
+* Fix identical omts spawning over themselves ([#68324](https://github.com/CleverRaven/Cataclysm-DDA/pull/68324))
 * Make vehicle parts install components salvageable, e.g. nuts and bolts ([#68335](https://github.com/CleverRaven/Cataclysm-DDA/pull/68335))
 * [MoM] Biokinesis duration fixes ([#68366](https://github.com/CleverRaven/Cataclysm-DDA/pull/68366))
 * Skill vs Knowledge Check Audit ([#68312](https://github.com/CleverRaven/Cataclysm-DDA/pull/68312))
@@ -44,7 +45,6 @@
 * Make long stick long ([#68291](https://github.com/CleverRaven/Cataclysm-DDA/pull/68291))
 * Foot locker audit & item forms ([#68278](https://github.com/CleverRaven/Cataclysm-DDA/pull/68278))
 * A bunch of random item reworks: 11 ([#68275](https://github.com/CleverRaven/Cataclysm-DDA/pull/68275))
-* Weekly Changelog 2023-09-11 to 2023-09-18 ([#68185](https://github.com/CleverRaven/Cataclysm-DDA/pull/68185))
 * Isolation Protocol: Perks for all starting professions ([#68251](https://github.com/CleverRaven/Cataclysm-DDA/pull/68251))
 * Defense Mode: Assault on Precinct 13 ([#68225](https://github.com/CleverRaven/Cataclysm-DDA/pull/68225))
 * Fix layering on thin sleeved gambesons ([#68279](https://github.com/CleverRaven/Cataclysm-DDA/pull/68279))
