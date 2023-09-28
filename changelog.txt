@@ -1,3 +1,4 @@
+* Make vehicle parts install components salvageable, e.g. nuts and bolts (#68335)
 * [MoM] Biokinesis duration fixes (#68366)
 * Skill vs Knowledge Check Audit (#68312)
 * Fixed uncommon stream_mutable generation failure (#68361)
@@ -83,7 +84,6 @@
 * Flying monsters can come down when needed (#68213)
 * fix "use range-based for loop instead" (#68210)
 * Update documentation for monster obsoletion (#68208)
-* [ Xedra Evolved ] Mutation ordering for Tilesets (#68184)
 * [MoM] New powers (#68187)
 * Vampire Blood weave and Map sight (#68188)
 * Update the table of contents in doc/JSON_INFO.md (#68195)
