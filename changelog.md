@@ -1,3 +1,5 @@
+* Change climbing warning display to properly show color ([#68355](https://github.com/CleverRaven/Cataclysm-DDA/pull/68355))
+* Deconstructing a water heater yields a 100L tank instead of 60L ([#68359](https://github.com/CleverRaven/Cataclysm-DDA/pull/68359))
 * Improved where monsters leap ([#68360](https://github.com/CleverRaven/Cataclysm-DDA/pull/68360))
 * fireweed and more mostly decorative flora ([#68368](https://github.com/CleverRaven/Cataclysm-DDA/pull/68368))
 * Adjust feral combat knife damage ([#68372](https://github.com/CleverRaven/Cataclysm-DDA/pull/68372))
@@ -84,7 +86,6 @@
 * Bugfix: Do not path NPCs into wall lights ([#68232](https://github.com/CleverRaven/Cataclysm-DDA/pull/68232))
 * [Object Creator] Add container-item, ammo-item, entry-wrapper and sealed properties to item group tab ([#68222](https://github.com/CleverRaven/Cataclysm-DDA/pull/68222))
 * Isolation Protocol: Better Danger Clock ([#68206](https://github.com/CleverRaven/Cataclysm-DDA/pull/68206))
-* Show insertion failure reasons in Insert menu and AIM ([#68191](https://github.com/CleverRaven/Cataclysm-DDA/pull/68191))
 * Flying monsters can come down when needed ([#68213](https://github.com/CleverRaven/Cataclysm-DDA/pull/68213))
 * fix "use range-based for loop instead" ([#68210](https://github.com/CleverRaven/Cataclysm-DDA/pull/68210))
 * Update documentation for monster obsoletion ([#68208](https://github.com/CleverRaven/Cataclysm-DDA/pull/68208))
@@ -94,4 +95,3 @@
 * Add special waves to Defense Mode ([#68196](https://github.com/CleverRaven/Cataclysm-DDA/pull/68196))
 * Monsters can go down ramps ([#68194](https://github.com/CleverRaven/Cataclysm-DDA/pull/68194))
 * Fix segfault when finishing fermentation ([#68193](https://github.com/CleverRaven/Cataclysm-DDA/pull/68193))
-* Wheels with very high durability don't get damaged when they run over nailboard trap ([#68192](https://github.com/CleverRaven/Cataclysm-DDA/pull/68192))
