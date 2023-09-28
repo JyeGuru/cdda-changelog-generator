@@ -1,3 +1,4 @@
+* Add ROOTS2 and ROOTS3 flags so Mycorrhizal Communion works properly ([#68348](https://github.com/CleverRaven/Cataclysm-DDA/pull/68348))
 * Fix identical omts spawning over themselves ([#68324](https://github.com/CleverRaven/Cataclysm-DDA/pull/68324))
 * Make vehicle parts install components salvageable, e.g. nuts and bolts ([#68335](https://github.com/CleverRaven/Cataclysm-DDA/pull/68335))
 * [MoM] Biokinesis duration fixes ([#68366](https://github.com/CleverRaven/Cataclysm-DDA/pull/68366))
@@ -89,7 +90,6 @@
 * Update the table of contents in doc/JSON_INFO.md ([#68195](https://github.com/CleverRaven/Cataclysm-DDA/pull/68195))
 * [MoM] Update and fix inferno grenade ([#68203](https://github.com/CleverRaven/Cataclysm-DDA/pull/68203))
 * Add NO_SPELLCASTING flag to Stunned effect ([#68200](https://github.com/CleverRaven/Cataclysm-DDA/pull/68200))
-* Implement option to display item health bars and item health descriptions at the same time ([#68186](https://github.com/CleverRaven/Cataclysm-DDA/pull/68186))
 * Add special waves to Defense Mode ([#68196](https://github.com/CleverRaven/Cataclysm-DDA/pull/68196))
 * Monsters can go down ramps ([#68194](https://github.com/CleverRaven/Cataclysm-DDA/pull/68194))
 * Fix segfault when finishing fermentation ([#68193](https://github.com/CleverRaven/Cataclysm-DDA/pull/68193))
