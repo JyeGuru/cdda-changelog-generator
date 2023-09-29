@@ -1,3 +1,4 @@
+* [EOC] Port some functions to item talker ([#68289](https://github.com/CleverRaven/Cataclysm-DDA/pull/68289))
 * Some mask cartridge fix ([#68373](https://github.com/CleverRaven/Cataclysm-DDA/pull/68373))
 * Cleanup crossbow bolts ([#68377](https://github.com/CleverRaven/Cataclysm-DDA/pull/68377))
 * Update SDL2 CMake deps in doc ([#68383](https://github.com/CleverRaven/Cataclysm-DDA/pull/68383))
@@ -94,4 +95,3 @@
 * Update documentation for monster obsoletion ([#68208](https://github.com/CleverRaven/Cataclysm-DDA/pull/68208))
 * [MoM] Update and fix inferno grenade ([#68203](https://github.com/CleverRaven/Cataclysm-DDA/pull/68203))
 * Add NO_SPELLCASTING flag to Stunned effect ([#68200](https://github.com/CleverRaven/Cataclysm-DDA/pull/68200))
-* Add special waves to Defense Mode ([#68196](https://github.com/CleverRaven/Cataclysm-DDA/pull/68196))
