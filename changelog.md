@@ -1,3 +1,4 @@
+* add scrap tin to tin powder recipe ([#68391](https://github.com/CleverRaven/Cataclysm-DDA/pull/68391))
 * [EOC] Port some functions to item talker ([#68289](https://github.com/CleverRaven/Cataclysm-DDA/pull/68289))
 * Some mask cartridge fix ([#68373](https://github.com/CleverRaven/Cataclysm-DDA/pull/68373))
 * Cleanup crossbow bolts ([#68377](https://github.com/CleverRaven/Cataclysm-DDA/pull/68377))
@@ -94,4 +95,3 @@
 * fix "use range-based for loop instead" ([#68210](https://github.com/CleverRaven/Cataclysm-DDA/pull/68210))
 * Update documentation for monster obsoletion ([#68208](https://github.com/CleverRaven/Cataclysm-DDA/pull/68208))
 * [MoM] Update and fix inferno grenade ([#68203](https://github.com/CleverRaven/Cataclysm-DDA/pull/68203))
-* Add NO_SPELLCASTING flag to Stunned effect ([#68200](https://github.com/CleverRaven/Cataclysm-DDA/pull/68200))
