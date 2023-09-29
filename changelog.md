@@ -1,3 +1,4 @@
+* [MoM] Add Hellfire pyrokinetic power ([#68380](https://github.com/CleverRaven/Cataclysm-DDA/pull/68380))
 * add scrap tin to tin powder recipe ([#68391](https://github.com/CleverRaven/Cataclysm-DDA/pull/68391))
 * [EOC] Port some functions to item talker ([#68289](https://github.com/CleverRaven/Cataclysm-DDA/pull/68289))
 * Some mask cartridge fix ([#68373](https://github.com/CleverRaven/Cataclysm-DDA/pull/68373))
