@@ -1,3 +1,4 @@
+* Update SDL2 CMake deps in doc ([#68383](https://github.com/CleverRaven/Cataclysm-DDA/pull/68383))
 * Change climbing warning display to properly show color ([#68355](https://github.com/CleverRaven/Cataclysm-DDA/pull/68355))
 * Deconstructing a water heater yields a 100L tank instead of 60L ([#68359](https://github.com/CleverRaven/Cataclysm-DDA/pull/68359))
 * Improved where monsters leap ([#68360](https://github.com/CleverRaven/Cataclysm-DDA/pull/68360))
@@ -94,4 +95,3 @@
 * Add NO_SPELLCASTING flag to Stunned effect ([#68200](https://github.com/CleverRaven/Cataclysm-DDA/pull/68200))
 * Add special waves to Defense Mode ([#68196](https://github.com/CleverRaven/Cataclysm-DDA/pull/68196))
 * Monsters can go down ramps ([#68194](https://github.com/CleverRaven/Cataclysm-DDA/pull/68194))
-* Fix segfault when finishing fermentation ([#68193](https://github.com/CleverRaven/Cataclysm-DDA/pull/68193))
