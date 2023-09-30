@@ -1,3 +1,4 @@
+* Fix clang 12 matrix build by installing clang-12 (#68415)
 * Add include directories to CMake SDL2 targets (#68382)
 * [MoM] Set limited duration for zombie null psi-nullification field (#68394)
 * Give the Angry Pyromaniac Mission its Description and Update Angry Pizzaiolo Description to be more Descriptive (#68402)
@@ -95,4 +96,3 @@
 * Bugfix: Do not path NPCs into wall lights (#68232)
 * [Object Creator] Add container-item, ammo-item, entry-wrapper and sealed properties to item group tab (#68222)
 * Flying monsters can come down when needed (#68213)
-* fix "use range-based for loop instead" (#68210)
