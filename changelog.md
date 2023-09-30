@@ -1,3 +1,4 @@
+* Creatures don't (mostly) react to things under vehicles. ([#68413](https://github.com/CleverRaven/Cataclysm-DDA/pull/68413))
 * add several more Halloween themed clothes ([#68405](https://github.com/CleverRaven/Cataclysm-DDA/pull/68405))
 * Fix clang 12 matrix build by installing clang-12 ([#68415](https://github.com/CleverRaven/Cataclysm-DDA/pull/68415))
 * Add include directories to CMake SDL2 targets ([#68382](https://github.com/CleverRaven/Cataclysm-DDA/pull/68382))
@@ -84,7 +85,6 @@
 * Bugfix: Prevent empty subject in 'but do no damage' msgs when dealing no damage ([#68261](https://github.com/CleverRaven/Cataclysm-DDA/pull/68261))
 * Molotovs correctly used liquid accelerant ([#68258](https://github.com/CleverRaven/Cataclysm-DDA/pull/68258))
 * Remove the token bash damage on belts ([#68254](https://github.com/CleverRaven/Cataclysm-DDA/pull/68254))
-* Anger npc if player asks for equipment ([#68215](https://github.com/CleverRaven/Cataclysm-DDA/pull/68215))
 * Gives firefighter professions a PBA mask ([#68240](https://github.com/CleverRaven/Cataclysm-DDA/pull/68240))
 * An alternate sidebar ([#68239](https://github.com/CleverRaven/Cataclysm-DDA/pull/68239))
 * [Magiclysm] Move Dust Reborn kcal value to PREVENT_DEATH EoC ([#68247](https://github.com/CleverRaven/Cataclysm-DDA/pull/68247))
