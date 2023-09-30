@@ -1,3 +1,4 @@
+* Muay Thai changes ([#68347](https://github.com/CleverRaven/Cataclysm-DDA/pull/68347))
 * Change Grim Reapers Scythe ([#68420](https://github.com/CleverRaven/Cataclysm-DDA/pull/68420))
 * Creatures don't (mostly) react to things under vehicles. ([#68413](https://github.com/CleverRaven/Cataclysm-DDA/pull/68413))
 * add several more Halloween themed clothes ([#68405](https://github.com/CleverRaven/Cataclysm-DDA/pull/68405))
@@ -93,4 +94,3 @@
 * replace ... with … where appropriate ([#68235](https://github.com/CleverRaven/Cataclysm-DDA/pull/68235))
 * Fix a minor issue in the tied-up fridge and tied-up freezer crafting recipe ([#68230](https://github.com/CleverRaven/Cataclysm-DDA/pull/68230))
 * Bugfix: Do not path NPCs into wall lights ([#68232](https://github.com/CleverRaven/Cataclysm-DDA/pull/68232))
-* [Object Creator] Add container-item, ammo-item, entry-wrapper and sealed properties to item group tab ([#68222](https://github.com/CleverRaven/Cataclysm-DDA/pull/68222))
