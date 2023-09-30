@@ -90,7 +90,6 @@
 * An alternate sidebar ([#68239](https://github.com/CleverRaven/Cataclysm-DDA/pull/68239))
 * [Magiclysm] Move Dust Reborn kcal value to PREVENT_DEATH EoC ([#68247](https://github.com/CleverRaven/Cataclysm-DDA/pull/68247))
 * Adjust devcontainer image url to be lowercase ([#68243](https://github.com/CleverRaven/Cataclysm-DDA/pull/68243))
-* Merchants will tell when they will restock ([#68218](https://github.com/CleverRaven/Cataclysm-DDA/pull/68218))
 * replace ... with … where appropriate ([#68235](https://github.com/CleverRaven/Cataclysm-DDA/pull/68235))
 * Fix a minor issue in the tied-up fridge and tied-up freezer crafting recipe ([#68230](https://github.com/CleverRaven/Cataclysm-DDA/pull/68230))
 * Bugfix: Do not path NPCs into wall lights ([#68232](https://github.com/CleverRaven/Cataclysm-DDA/pull/68232))
