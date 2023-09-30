@@ -95,4 +95,3 @@
 * Fix a minor issue in the tied-up fridge and tied-up freezer crafting recipe (#68230)
 * Bugfix: Do not path NPCs into wall lights (#68232)
 * [Object Creator] Add container-item, ammo-item, entry-wrapper and sealed properties to item group tab (#68222)
-* Flying monsters can come down when needed (#68213)
