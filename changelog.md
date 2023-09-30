@@ -67,7 +67,6 @@
 * Foot locker audit & item forms ([#68278](https://github.com/CleverRaven/Cataclysm-DDA/pull/68278))
 * A bunch of random item reworks: 11 ([#68275](https://github.com/CleverRaven/Cataclysm-DDA/pull/68275))
 * Isolation Protocol: Perks for all starting professions ([#68251](https://github.com/CleverRaven/Cataclysm-DDA/pull/68251))
-* Defense Mode: Assault on Precinct 13 ([#68225](https://github.com/CleverRaven/Cataclysm-DDA/pull/68225))
 * Fix layering on thin sleeved gambesons ([#68279](https://github.com/CleverRaven/Cataclysm-DDA/pull/68279))
 * Organize the EOC files for better accessibility ([#68242](https://github.com/CleverRaven/Cataclysm-DDA/pull/68242))
 * Complete mess of vehicle changes ([#68248](https://github.com/CleverRaven/Cataclysm-DDA/pull/68248))
