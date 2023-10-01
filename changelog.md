@@ -1,3 +1,4 @@
+* Allow metal wreckage to be used for cutting ([#68447](https://github.com/CleverRaven/Cataclysm-DDA/pull/68447))
 * [EOC]EVENT EOCs provide beta talker ([#68399](https://github.com/CleverRaven/Cataclysm-DDA/pull/68399))
 * Add CTest presets ([#68424](https://github.com/CleverRaven/Cataclysm-DDA/pull/68424))
 * Make it obvious when TCL badges are destroyed or not ([#68426](https://github.com/CleverRaven/Cataclysm-DDA/pull/68426))
@@ -80,7 +81,6 @@
 * Fix layering on thin sleeved gambesons ([#68279](https://github.com/CleverRaven/Cataclysm-DDA/pull/68279))
 * Complete mess of vehicle changes ([#68248](https://github.com/CleverRaven/Cataclysm-DDA/pull/68248))
 * Adding a couple more Halloween things. ([#68250](https://github.com/CleverRaven/Cataclysm-DDA/pull/68250))
-* [EOC]Inventory itereter ([#68244](https://github.com/CleverRaven/Cataclysm-DDA/pull/68244))
 * Mozzarella is too darn high! ([#68276](https://github.com/CleverRaven/Cataclysm-DDA/pull/68276))
 * Add electronics training to some more disassembly recipes ([#68272](https://github.com/CleverRaven/Cataclysm-DDA/pull/68272))
 * Routine i18n updates on 23 September 2023 ([#68266](https://github.com/CleverRaven/Cataclysm-DDA/pull/68266))
