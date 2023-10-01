@@ -1,3 +1,4 @@
+* Remove armor penetration from shotgun flechettes, clarify descriptions ([#68427](https://github.com/CleverRaven/Cataclysm-DDA/pull/68427))
 * Add missing floor tile under table to farm with stills ([#68425](https://github.com/CleverRaven/Cataclysm-DDA/pull/68425))
 * Muay Thai changes ([#68347](https://github.com/CleverRaven/Cataclysm-DDA/pull/68347))
 * Change Grim Reapers Scythe ([#68420](https://github.com/CleverRaven/Cataclysm-DDA/pull/68420))
@@ -76,7 +77,6 @@
 * Mozzarella is too darn high! ([#68276](https://github.com/CleverRaven/Cataclysm-DDA/pull/68276))
 * Add electronics training to some more disassembly recipes ([#68272](https://github.com/CleverRaven/Cataclysm-DDA/pull/68272))
 * [ Xedra Evolved ] Scenario: Once Bitten ([#68238](https://github.com/CleverRaven/Cataclysm-DDA/pull/68238))
-* [Xedra Evolved] Various adjustments and fixes ([#68231](https://github.com/CleverRaven/Cataclysm-DDA/pull/68231))
 * Fix Private Resort Gaming table itemgroup ([#68237](https://github.com/CleverRaven/Cataclysm-DDA/pull/68237))
 * Routine i18n updates on 23 September 2023 ([#68266](https://github.com/CleverRaven/Cataclysm-DDA/pull/68266))
 * Pets follow stairs well ([#68255](https://github.com/CleverRaven/Cataclysm-DDA/pull/68255))
