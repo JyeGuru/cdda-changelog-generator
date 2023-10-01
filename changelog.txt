@@ -1,3 +1,4 @@
+* [EOC]EVENT EOCs provide beta talker (#68399)
 * Add CTest presets (#68424)
 * Make it obvious when TCL badges are destroyed or not (#68426)
 * Miner bot-> demining bot (#68430)
@@ -92,4 +93,3 @@
 * Molotovs correctly used liquid accelerant (#68258)
 * Remove the token bash damage on belts (#68254)
 * [Magiclysm] Move Dust Reborn kcal value to PREVENT_DEATH EoC (#68247)
-* Adjust devcontainer image url to be lowercase (#68243)
