@@ -1,3 +1,5 @@
+* Remove GLARE 1 from gas masks ([#68429](https://github.com/CleverRaven/Cataclysm-DDA/pull/68429))
+* Fix typos, use definite article consistently in death messages ([#68440](https://github.com/CleverRaven/Cataclysm-DDA/pull/68440))
 * Remove armor penetration from shotgun flechettes, clarify descriptions ([#68427](https://github.com/CleverRaven/Cataclysm-DDA/pull/68427))
 * Add missing floor tile under table to farm with stills ([#68425](https://github.com/CleverRaven/Cataclysm-DDA/pull/68425))
 * Muay Thai changes ([#68347](https://github.com/CleverRaven/Cataclysm-DDA/pull/68347))
@@ -91,5 +93,3 @@
 * An alternate sidebar ([#68239](https://github.com/CleverRaven/Cataclysm-DDA/pull/68239))
 * [Magiclysm] Move Dust Reborn kcal value to PREVENT_DEATH EoC ([#68247](https://github.com/CleverRaven/Cataclysm-DDA/pull/68247))
 * Adjust devcontainer image url to be lowercase ([#68243](https://github.com/CleverRaven/Cataclysm-DDA/pull/68243))
-* replace ... with … where appropriate ([#68235](https://github.com/CleverRaven/Cataclysm-DDA/pull/68235))
-* Bugfix: Do not path NPCs into wall lights ([#68232](https://github.com/CleverRaven/Cataclysm-DDA/pull/68232))
