@@ -1,3 +1,4 @@
+* fix: toilet stools in the bookstore roof ([#68469](https://github.com/CleverRaven/Cataclysm-DDA/pull/68469))
 * Fix comestibles spawns in military base ([#68461](https://github.com/CleverRaven/Cataclysm-DDA/pull/68461))
 * Small tweaks ([#68393](https://github.com/CleverRaven/Cataclysm-DDA/pull/68393))
 * Add a larger “family–sized” water heater ([#68404](https://github.com/CleverRaven/Cataclysm-DDA/pull/68404))
@@ -91,4 +92,3 @@
 * Almost all weapon techniques now require melee skill. ([#68288](https://github.com/CleverRaven/Cataclysm-DDA/pull/68288))
 * [MoM] Add Incandescent Lance to welding_standard ([#68284](https://github.com/CleverRaven/Cataclysm-DDA/pull/68284))
 * Make long stick long ([#68291](https://github.com/CleverRaven/Cataclysm-DDA/pull/68291))
-* Fix layering on thin sleeved gambesons ([#68279](https://github.com/CleverRaven/Cataclysm-DDA/pull/68279))
