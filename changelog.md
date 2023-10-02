@@ -1,3 +1,4 @@
+* Fix comestibles spawns in military base ([#68461](https://github.com/CleverRaven/Cataclysm-DDA/pull/68461))
 * Small tweaks ([#68393](https://github.com/CleverRaven/Cataclysm-DDA/pull/68393))
 * Add a larger “family–sized” water heater ([#68404](https://github.com/CleverRaven/Cataclysm-DDA/pull/68404))
 * properly migrate #68441 ([#68464](https://github.com/CleverRaven/Cataclysm-DDA/pull/68464))
@@ -82,7 +83,6 @@
 * Prevent Web Diver burying the player underground. ([#68315](https://github.com/CleverRaven/Cataclysm-DDA/pull/68315))
 * The scrap trader sells nuts and bolts ([#68320](https://github.com/CleverRaven/Cataclysm-DDA/pull/68320))
 * fix: correct newline characters ([#68303](https://github.com/CleverRaven/Cataclysm-DDA/pull/68303))
-* Select default bodypart when applying bandage ([#68277](https://github.com/CleverRaven/Cataclysm-DDA/pull/68277))
 * Add BIOLOGICALPROOF flag to biological damage immunity, apply it to robots and Nether emanations ([#68297](https://github.com/CleverRaven/Cataclysm-DDA/pull/68297))
 * Small fixes in CMake build in Linux devcontainer ([#68300](https://github.com/CleverRaven/Cataclysm-DDA/pull/68300))
 * [MoM] Rebalance Fountain of Flames ([#68302](https://github.com/CleverRaven/Cataclysm-DDA/pull/68302))
