@@ -1,3 +1,4 @@
+* Rename luna park to miniature railway park (#68441)
 * Martial arts docs update (#68418)
 * [EOC]Inventory selector (and crash fix) (#68423)
 * [MoM] Jmathify awakenings (#68364)
@@ -92,4 +93,3 @@
 * Skip auto sorting unowned items (#68267)
 * Fix Free Merchants Broker price calculation of non charge based item (#68269)
 * adjust some pocket's max weight (#68264)
-* Fix tailoring kit description and adjust sewing kit description. (#68262)
