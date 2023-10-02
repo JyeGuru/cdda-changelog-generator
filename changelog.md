@@ -1,3 +1,4 @@
+* Added quench values to cooked oatmeal/deluxe oatmeal. ([#68443](https://github.com/CleverRaven/Cataclysm-DDA/pull/68443))
 * [MoM] Add Flameshield power ([#68381](https://github.com/CleverRaven/Cataclysm-DDA/pull/68381))
 * Fix conversion of liquid and solid items ([#68446](https://github.com/CleverRaven/Cataclysm-DDA/pull/68446))
 * Add Crafting Recipes for Gold, Silver, and Copper Necklaces ([#68450](https://github.com/CleverRaven/Cataclysm-DDA/pull/68450))
@@ -77,7 +78,6 @@
 * Collect grappling hooks and stepladders from the ledge above. ([#68317](https://github.com/CleverRaven/Cataclysm-DDA/pull/68317))
 * Prevent Web Diver burying the player underground. ([#68315](https://github.com/CleverRaven/Cataclysm-DDA/pull/68315))
 * The scrap trader sells nuts and bolts ([#68320](https://github.com/CleverRaven/Cataclysm-DDA/pull/68320))
-* Mods "[Aftershock]Adjustment of overgenerated facilities" ([#68271](https://github.com/CleverRaven/Cataclysm-DDA/pull/68271))
 * fix: correct newline characters ([#68303](https://github.com/CleverRaven/Cataclysm-DDA/pull/68303))
 * Select default bodypart when applying bandage ([#68277](https://github.com/CleverRaven/Cataclysm-DDA/pull/68277))
 * Add BIOLOGICALPROOF flag to biological damage immunity, apply it to robots and Nether emanations ([#68297](https://github.com/CleverRaven/Cataclysm-DDA/pull/68297))
