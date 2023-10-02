@@ -91,5 +91,4 @@
 * Almost all weapon techniques now require melee skill. ([#68288](https://github.com/CleverRaven/Cataclysm-DDA/pull/68288))
 * [MoM] Add Incandescent Lance to welding_standard ([#68284](https://github.com/CleverRaven/Cataclysm-DDA/pull/68284))
 * Make long stick long ([#68291](https://github.com/CleverRaven/Cataclysm-DDA/pull/68291))
-* Foot locker audit & item forms ([#68278](https://github.com/CleverRaven/Cataclysm-DDA/pull/68278))
 * Fix layering on thin sleeved gambesons ([#68279](https://github.com/CleverRaven/Cataclysm-DDA/pull/68279))
