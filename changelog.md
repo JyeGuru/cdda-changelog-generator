@@ -1,3 +1,5 @@
+* [MoM] Add Flameshield power ([#68381](https://github.com/CleverRaven/Cataclysm-DDA/pull/68381))
+* Fix conversion of liquid and solid items ([#68446](https://github.com/CleverRaven/Cataclysm-DDA/pull/68446))
 * Add Crafting Recipes for Gold, Silver, and Copper Necklaces ([#68450](https://github.com/CleverRaven/Cataclysm-DDA/pull/68450))
 * Jeweler profession ([#68434](https://github.com/CleverRaven/Cataclysm-DDA/pull/68434))
 * [XEDRA Evolved] Add canvas repair and remove unused adv sewing section ([#68452](https://github.com/CleverRaven/Cataclysm-DDA/pull/68452))
@@ -91,5 +93,3 @@
 * Fix layering on thin sleeved gambesons ([#68279](https://github.com/CleverRaven/Cataclysm-DDA/pull/68279))
 * Mozzarella is too darn high! ([#68276](https://github.com/CleverRaven/Cataclysm-DDA/pull/68276))
 * Add electronics training to some more disassembly recipes ([#68272](https://github.com/CleverRaven/Cataclysm-DDA/pull/68272))
-* Skip auto sorting unowned items ([#68267](https://github.com/CleverRaven/Cataclysm-DDA/pull/68267))
-* Fix Free Merchants Broker price calculation of non charge based item ([#68269](https://github.com/CleverRaven/Cataclysm-DDA/pull/68269))
