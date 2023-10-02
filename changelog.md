@@ -1,3 +1,4 @@
+* Jeweler profession ([#68434](https://github.com/CleverRaven/Cataclysm-DDA/pull/68434))
 * [XEDRA Evolved] Add canvas repair and remove unused adv sewing section ([#68452](https://github.com/CleverRaven/Cataclysm-DDA/pull/68452))
 * Rename luna park to miniature railway park ([#68441](https://github.com/CleverRaven/Cataclysm-DDA/pull/68441))
 * Martial arts docs update ([#68418](https://github.com/CleverRaven/Cataclysm-DDA/pull/68418))
@@ -81,7 +82,6 @@
 * [MoM] Rebalance Fountain of Flames ([#68302](https://github.com/CleverRaven/Cataclysm-DDA/pull/68302))
 * Validation for damage type id's ([#68287](https://github.com/CleverRaven/Cataclysm-DDA/pull/68287))
 * Balance changes to Defense Mode -- Xedra Evolved compatability ([#68293](https://github.com/CleverRaven/Cataclysm-DDA/pull/68293))
-* JSON-ify rules for climbing down & simplify UX ([#68265](https://github.com/CleverRaven/Cataclysm-DDA/pull/68265))
 * Almost all weapon techniques now require melee skill. ([#68288](https://github.com/CleverRaven/Cataclysm-DDA/pull/68288))
 * [MoM] Add Incandescent Lance to welding_standard ([#68284](https://github.com/CleverRaven/Cataclysm-DDA/pull/68284))
 * Make long stick long ([#68291](https://github.com/CleverRaven/Cataclysm-DDA/pull/68291))
