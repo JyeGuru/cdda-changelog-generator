@@ -1,3 +1,4 @@
+* Small tweaks ([#68393](https://github.com/CleverRaven/Cataclysm-DDA/pull/68393))
 * Add a larger “family–sized” water heater ([#68404](https://github.com/CleverRaven/Cataclysm-DDA/pull/68404))
 * properly migrate #68441 ([#68464](https://github.com/CleverRaven/Cataclysm-DDA/pull/68464))
 * Added quench values to cooked oatmeal/deluxe oatmeal. ([#68443](https://github.com/CleverRaven/Cataclysm-DDA/pull/68443))
@@ -92,4 +93,3 @@
 * Make long stick long ([#68291](https://github.com/CleverRaven/Cataclysm-DDA/pull/68291))
 * Foot locker audit & item forms ([#68278](https://github.com/CleverRaven/Cataclysm-DDA/pull/68278))
 * Fix layering on thin sleeved gambesons ([#68279](https://github.com/CleverRaven/Cataclysm-DDA/pull/68279))
-* Mozzarella is too darn high! ([#68276](https://github.com/CleverRaven/Cataclysm-DDA/pull/68276))
