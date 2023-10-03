@@ -1,3 +1,4 @@
+* Corrected Dirtmounds ([#68473](https://github.com/CleverRaven/Cataclysm-DDA/pull/68473))
 * fix: toilet stools in the bookstore roof ([#68469](https://github.com/CleverRaven/Cataclysm-DDA/pull/68469))
 * Fix comestibles spawns in military base ([#68461](https://github.com/CleverRaven/Cataclysm-DDA/pull/68461))
 * Small tweaks ([#68393](https://github.com/CleverRaven/Cataclysm-DDA/pull/68393))
@@ -79,7 +80,6 @@
 * Fix clang-tidy workflow by installing 'required' libflac-dev ([#68331](https://github.com/CleverRaven/Cataclysm-DDA/pull/68331))
 * Misc doc updates ([#68319](https://github.com/CleverRaven/Cataclysm-DDA/pull/68319))
 * Normal SD cards don't give secret recipes ([#68305](https://github.com/CleverRaven/Cataclysm-DDA/pull/68305))
-* Add a second cracker to the tutorial ([#68283](https://github.com/CleverRaven/Cataclysm-DDA/pull/68283))
 * Collect grappling hooks and stepladders from the ledge above. ([#68317](https://github.com/CleverRaven/Cataclysm-DDA/pull/68317))
 * Prevent Web Diver burying the player underground. ([#68315](https://github.com/CleverRaven/Cataclysm-DDA/pull/68315))
 * The scrap trader sells nuts and bolts ([#68320](https://github.com/CleverRaven/Cataclysm-DDA/pull/68320))
