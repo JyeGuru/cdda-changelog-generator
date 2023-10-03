@@ -1,3 +1,4 @@
+* Cleanup npctalk.cpp ([#68457](https://github.com/CleverRaven/Cataclysm-DDA/pull/68457))
 * Update the table of contents in doc/JSON_INFO.md ([#68451](https://github.com/CleverRaven/Cataclysm-DDA/pull/68451))
 * Allow Eddie McKenzie to talk about his past  ([#68438](https://github.com/CleverRaven/Cataclysm-DDA/pull/68438))
 * Big Bunch of Typos ([#68436](https://github.com/CleverRaven/Cataclysm-DDA/pull/68436))
@@ -91,4 +92,3 @@
 * Add BIOLOGICALPROOF flag to biological damage immunity, apply it to robots and Nether emanations ([#68297](https://github.com/CleverRaven/Cataclysm-DDA/pull/68297))
 * Small fixes in CMake build in Linux devcontainer ([#68300](https://github.com/CleverRaven/Cataclysm-DDA/pull/68300))
 * [MoM] Rebalance Fountain of Flames ([#68302](https://github.com/CleverRaven/Cataclysm-DDA/pull/68302))
-* Balance changes to Defense Mode -- Xedra Evolved compatability ([#68293](https://github.com/CleverRaven/Cataclysm-DDA/pull/68293))
