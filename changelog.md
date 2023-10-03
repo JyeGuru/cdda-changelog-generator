@@ -1,3 +1,4 @@
+* [MoM] Rework Quell Fire and make zombie nulls delete fields after death ([#68455](https://github.com/CleverRaven/Cataclysm-DDA/pull/68455))
 * Random cleanups part 4 ([#68400](https://github.com/CleverRaven/Cataclysm-DDA/pull/68400))
 * [Xedra evolved] Random annoyance fixes ([#68448](https://github.com/CleverRaven/Cataclysm-DDA/pull/68448))
 * Cleanup npctalk.cpp ([#68457](https://github.com/CleverRaven/Cataclysm-DDA/pull/68457))
@@ -89,6 +90,5 @@
 * Prevent Web Diver burying the player underground. ([#68315](https://github.com/CleverRaven/Cataclysm-DDA/pull/68315))
 * The scrap trader sells nuts and bolts ([#68320](https://github.com/CleverRaven/Cataclysm-DDA/pull/68320))
 * fix: correct newline characters ([#68303](https://github.com/CleverRaven/Cataclysm-DDA/pull/68303))
-* Add BIOLOGICALPROOF flag to biological damage immunity, apply it to robots and Nether emanations ([#68297](https://github.com/CleverRaven/Cataclysm-DDA/pull/68297))
 * Small fixes in CMake build in Linux devcontainer ([#68300](https://github.com/CleverRaven/Cataclysm-DDA/pull/68300))
 * [MoM] Rebalance Fountain of Flames ([#68302](https://github.com/CleverRaven/Cataclysm-DDA/pull/68302))
