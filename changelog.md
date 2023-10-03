@@ -1,3 +1,4 @@
+* [Xedra evolved] Random annoyance fixes ([#68448](https://github.com/CleverRaven/Cataclysm-DDA/pull/68448))
 * Cleanup npctalk.cpp ([#68457](https://github.com/CleverRaven/Cataclysm-DDA/pull/68457))
 * Update the table of contents in doc/JSON_INFO.md ([#68451](https://github.com/CleverRaven/Cataclysm-DDA/pull/68451))
 * Allow Eddie McKenzie to talk about his past  ([#68438](https://github.com/CleverRaven/Cataclysm-DDA/pull/68438))
@@ -74,7 +75,6 @@
 * Fix Cloak of Frog permanently frogging you ([#68349](https://github.com/CleverRaven/Cataclysm-DDA/pull/68349))
 * Underwater monsters don't attack by passing through boats ([#68340](https://github.com/CleverRaven/Cataclysm-DDA/pull/68340))
 * Weekly Changelog 2023-09-18 to 2023-09-25 ([#68308](https://github.com/CleverRaven/Cataclysm-DDA/pull/68308))
-* [Xedra Evolved] Allow more professions in the Once Bitten scenario ([#68294](https://github.com/CleverRaven/Cataclysm-DDA/pull/68294))
 * XE Addiction snippets ([#68309](https://github.com/CleverRaven/Cataclysm-DDA/pull/68309))
 * Make eoc melee test stop failing for the wrong reason ([#68332](https://github.com/CleverRaven/Cataclysm-DDA/pull/68332))
 * Add BIOLOGICALPROOF documentation ([#68333](https://github.com/CleverRaven/Cataclysm-DDA/pull/68333))
