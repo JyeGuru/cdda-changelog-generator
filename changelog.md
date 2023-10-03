@@ -1,3 +1,5 @@
+* Fixing up anvils, round 1 (attempt 2) ([#68386](https://github.com/CleverRaven/Cataclysm-DDA/pull/68386))
+* [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid ([#68471](https://github.com/CleverRaven/Cataclysm-DDA/pull/68471))
 * Fix GCC9 warnings "overloaded-virtual" ([#68460](https://github.com/CleverRaven/Cataclysm-DDA/pull/68460))
 * [MoM] Remove FEAR_PARALYZE from telepathic monsters ([#68467](https://github.com/CleverRaven/Cataclysm-DDA/pull/68467))
 * Corrected Dirtmounds ([#68473](https://github.com/CleverRaven/Cataclysm-DDA/pull/68473))
@@ -88,7 +90,5 @@
 * Add BIOLOGICALPROOF flag to biological damage immunity, apply it to robots and Nether emanations ([#68297](https://github.com/CleverRaven/Cataclysm-DDA/pull/68297))
 * Small fixes in CMake build in Linux devcontainer ([#68300](https://github.com/CleverRaven/Cataclysm-DDA/pull/68300))
 * [MoM] Rebalance Fountain of Flames ([#68302](https://github.com/CleverRaven/Cataclysm-DDA/pull/68302))
-* Validation for damage type id's ([#68287](https://github.com/CleverRaven/Cataclysm-DDA/pull/68287))
 * Balance changes to Defense Mode -- Xedra Evolved compatability ([#68293](https://github.com/CleverRaven/Cataclysm-DDA/pull/68293))
-* Almost all weapon techniques now require melee skill. ([#68288](https://github.com/CleverRaven/Cataclysm-DDA/pull/68288))
 * Make long stick long ([#68291](https://github.com/CleverRaven/Cataclysm-DDA/pull/68291))
