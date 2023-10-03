@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add some Salamander mutations ([#68396](https://github.com/CleverRaven/Cataclysm-DDA/pull/68396))
 * [MoM] Rework Quell Fire and make zombie nulls delete fields after death ([#68455](https://github.com/CleverRaven/Cataclysm-DDA/pull/68455))
 * Random cleanups part 4 ([#68400](https://github.com/CleverRaven/Cataclysm-DDA/pull/68400))
 * [Xedra evolved] Random annoyance fixes ([#68448](https://github.com/CleverRaven/Cataclysm-DDA/pull/68448))
@@ -81,7 +82,6 @@
 * Add BIOLOGICALPROOF documentation ([#68333](https://github.com/CleverRaven/Cataclysm-DDA/pull/68333))
 * [MoM] Fix Extended Stride being unlearnable ([#68334](https://github.com/CleverRaven/Cataclysm-DDA/pull/68334))
 * Also add libflac-dev to matrix for cmake build ([#68337](https://github.com/CleverRaven/Cataclysm-DDA/pull/68337))
-* Add a new profession: Para-Amputee ([#68298](https://github.com/CleverRaven/Cataclysm-DDA/pull/68298))
 * Trader avoid ([#68314](https://github.com/CleverRaven/Cataclysm-DDA/pull/68314))
 * Fix clang-tidy workflow by installing 'required' libflac-dev ([#68331](https://github.com/CleverRaven/Cataclysm-DDA/pull/68331))
 * Misc doc updates ([#68319](https://github.com/CleverRaven/Cataclysm-DDA/pull/68319))
