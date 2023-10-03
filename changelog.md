@@ -1,3 +1,4 @@
+* Routine i18n updates on 30 September 2023 ([#68407](https://github.com/CleverRaven/Cataclysm-DDA/pull/68407))
 * [Xedra Evolved ] Goblin spider Captives shouldn't appear as random NPCs ([#68454](https://github.com/CleverRaven/Cataclysm-DDA/pull/68454))
 * Fix mapgen tests for Skyscraper lower floors ([#68449](https://github.com/CleverRaven/Cataclysm-DDA/pull/68449))
 * Add Paraclesian, Dreamsmith, and Inventor recipes to their professions ([#68433](https://github.com/CleverRaven/Cataclysm-DDA/pull/68433))
@@ -88,7 +89,6 @@
 * Trader avoid ([#68314](https://github.com/CleverRaven/Cataclysm-DDA/pull/68314))
 * Fix clang-tidy workflow by installing 'required' libflac-dev ([#68331](https://github.com/CleverRaven/Cataclysm-DDA/pull/68331))
 * Misc doc updates ([#68319](https://github.com/CleverRaven/Cataclysm-DDA/pull/68319))
-* Normal SD cards don't give secret recipes ([#68305](https://github.com/CleverRaven/Cataclysm-DDA/pull/68305))
 * Collect grappling hooks and stepladders from the ledge above. ([#68317](https://github.com/CleverRaven/Cataclysm-DDA/pull/68317))
 * Prevent Web Diver burying the player underground. ([#68315](https://github.com/CleverRaven/Cataclysm-DDA/pull/68315))
 * The scrap trader sells nuts and bolts ([#68320](https://github.com/CleverRaven/Cataclysm-DDA/pull/68320))
