@@ -1,3 +1,4 @@
+* [MoM] Remove FEAR_PARALYZE from telepathic monsters (#68467)
 * Corrected Dirtmounds (#68473)
 * fix: toilet stools in the bookstore roof (#68469)
 * Fix comestibles spawns in military base (#68461)
@@ -90,5 +91,4 @@
 * Validation for damage type id's (#68287)
 * Balance changes to Defense Mode -- Xedra Evolved compatability (#68293)
 * Almost all weapon techniques now require melee skill. (#68288)
-* [MoM] Add Incandescent Lance to welding_standard (#68284)
 * Make long stick long (#68291)
