@@ -1,3 +1,4 @@
+* Big Bunch of Typos ([#68436](https://github.com/CleverRaven/Cataclysm-DDA/pull/68436))
 * Fixing up anvils, round 1 (attempt 2) ([#68386](https://github.com/CleverRaven/Cataclysm-DDA/pull/68386))
 * [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid ([#68471](https://github.com/CleverRaven/Cataclysm-DDA/pull/68471))
 * Fix GCC9 warnings "overloaded-virtual" ([#68460](https://github.com/CleverRaven/Cataclysm-DDA/pull/68460))
@@ -47,7 +48,6 @@
 * Make Hydrogen and Nitrogen Tanks Spawn with Charges ([#68403](https://github.com/CleverRaven/Cataclysm-DDA/pull/68403))
 * [MoM] Add Hellfire pyrokinetic power ([#68380](https://github.com/CleverRaven/Cataclysm-DDA/pull/68380))
 * add scrap tin to tin powder recipe ([#68391](https://github.com/CleverRaven/Cataclysm-DDA/pull/68391))
-* [EOC] Port some functions to item talker ([#68289](https://github.com/CleverRaven/Cataclysm-DDA/pull/68289))
 * Some mask cartridge fix ([#68373](https://github.com/CleverRaven/Cataclysm-DDA/pull/68373))
 * Cleanup crossbow bolts ([#68377](https://github.com/CleverRaven/Cataclysm-DDA/pull/68377))
 * Update SDL2 CMake deps in doc ([#68383](https://github.com/CleverRaven/Cataclysm-DDA/pull/68383))
