@@ -1,3 +1,6 @@
+* [Xedra Evolved ] Goblin spider Captives shouldn't appear as random NPCs (#68454)
+* Fix mapgen tests for Skyscraper lower floors (#68449)
+* Add Paraclesian, Dreamsmith, and Inventor recipes to their professions (#68433)
 * [Xedra Evolved] Add some Salamander mutations (#68396)
 * [MoM] Rework Quell Fire and make zombie nulls delete fields after death (#68455)
 * Random cleanups part 4 (#68400)
@@ -89,6 +92,3 @@
 * Collect grappling hooks and stepladders from the ledge above. (#68317)
 * Prevent Web Diver burying the player underground. (#68315)
 * The scrap trader sells nuts and bolts (#68320)
-* fix: correct newline characters (#68303)
-* Small fixes in CMake build in Linux devcontainer (#68300)
-* [MoM] Rebalance Fountain of Flames (#68302)
