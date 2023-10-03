@@ -1,3 +1,4 @@
+* Fix GCC9 warnings "overloaded-virtual" ([#68460](https://github.com/CleverRaven/Cataclysm-DDA/pull/68460))
 * [MoM] Remove FEAR_PARALYZE from telepathic monsters ([#68467](https://github.com/CleverRaven/Cataclysm-DDA/pull/68467))
 * Corrected Dirtmounds ([#68473](https://github.com/CleverRaven/Cataclysm-DDA/pull/68473))
 * fix: toilet stools in the bookstore roof ([#68469](https://github.com/CleverRaven/Cataclysm-DDA/pull/68469))
@@ -70,7 +71,6 @@
 * Weekly Changelog 2023-09-18 to 2023-09-25 ([#68308](https://github.com/CleverRaven/Cataclysm-DDA/pull/68308))
 * [Xedra Evolved] Allow more professions in the Once Bitten scenario ([#68294](https://github.com/CleverRaven/Cataclysm-DDA/pull/68294))
 * XE Addiction snippets ([#68309](https://github.com/CleverRaven/Cataclysm-DDA/pull/68309))
-* Halloween costumes set drops ([#68285](https://github.com/CleverRaven/Cataclysm-DDA/pull/68285))
 * Make eoc melee test stop failing for the wrong reason ([#68332](https://github.com/CleverRaven/Cataclysm-DDA/pull/68332))
 * Add BIOLOGICALPROOF documentation ([#68333](https://github.com/CleverRaven/Cataclysm-DDA/pull/68333))
 * [MoM] Fix Extended Stride being unlearnable ([#68334](https://github.com/CleverRaven/Cataclysm-DDA/pull/68334))
