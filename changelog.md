@@ -1,3 +1,5 @@
+* Update the table of contents in doc/JSON_INFO.md ([#68451](https://github.com/CleverRaven/Cataclysm-DDA/pull/68451))
+* Allow Eddie McKenzie to talk about his past  ([#68438](https://github.com/CleverRaven/Cataclysm-DDA/pull/68438))
 * Big Bunch of Typos ([#68436](https://github.com/CleverRaven/Cataclysm-DDA/pull/68436))
 * Fixing up anvils, round 1 (attempt 2) ([#68386](https://github.com/CleverRaven/Cataclysm-DDA/pull/68386))
 * [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid ([#68471](https://github.com/CleverRaven/Cataclysm-DDA/pull/68471))
@@ -78,7 +80,6 @@
 * [MoM] Fix Extended Stride being unlearnable ([#68334](https://github.com/CleverRaven/Cataclysm-DDA/pull/68334))
 * Also add libflac-dev to matrix for cmake build ([#68337](https://github.com/CleverRaven/Cataclysm-DDA/pull/68337))
 * Add a new profession: Para-Amputee ([#68298](https://github.com/CleverRaven/Cataclysm-DDA/pull/68298))
-* Give the pipe some weapon techs ([#68290](https://github.com/CleverRaven/Cataclysm-DDA/pull/68290))
 * Trader avoid ([#68314](https://github.com/CleverRaven/Cataclysm-DDA/pull/68314))
 * Fix clang-tidy workflow by installing 'required' libflac-dev ([#68331](https://github.com/CleverRaven/Cataclysm-DDA/pull/68331))
 * Misc doc updates ([#68319](https://github.com/CleverRaven/Cataclysm-DDA/pull/68319))
@@ -91,4 +92,3 @@
 * Small fixes in CMake build in Linux devcontainer ([#68300](https://github.com/CleverRaven/Cataclysm-DDA/pull/68300))
 * [MoM] Rebalance Fountain of Flames ([#68302](https://github.com/CleverRaven/Cataclysm-DDA/pull/68302))
 * Balance changes to Defense Mode -- Xedra Evolved compatability ([#68293](https://github.com/CleverRaven/Cataclysm-DDA/pull/68293))
-* Make long stick long ([#68291](https://github.com/CleverRaven/Cataclysm-DDA/pull/68291))
