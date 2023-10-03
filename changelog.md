@@ -1,3 +1,4 @@
+* Random cleanups part 4 ([#68400](https://github.com/CleverRaven/Cataclysm-DDA/pull/68400))
 * [Xedra evolved] Random annoyance fixes ([#68448](https://github.com/CleverRaven/Cataclysm-DDA/pull/68448))
 * Cleanup npctalk.cpp ([#68457](https://github.com/CleverRaven/Cataclysm-DDA/pull/68457))
 * Update the table of contents in doc/JSON_INFO.md ([#68451](https://github.com/CleverRaven/Cataclysm-DDA/pull/68451))
@@ -67,7 +68,6 @@
 * Skill vs Knowledge Check Audit ([#68312](https://github.com/CleverRaven/Cataclysm-DDA/pull/68312))
 * Fixed uncommon stream_mutable generation failure ([#68361](https://github.com/CleverRaven/Cataclysm-DDA/pull/68361))
 * Wear Scarves Around Your Head ([#68357](https://github.com/CleverRaven/Cataclysm-DDA/pull/68357))
-* Resurrect `Wetsuit and diving gear rework` ([#68296](https://github.com/CleverRaven/Cataclysm-DDA/pull/68296))
 * Don't Lose default background when chosing a profession ([#68353](https://github.com/CleverRaven/Cataclysm-DDA/pull/68353))
 * 🧗‍♀️ Rebalance & expand climbing down with ropes, ladders, vehicles, downspouts & mutations ([#68306](https://github.com/CleverRaven/Cataclysm-DDA/pull/68306))
 * Allow Simon to elaborate about his family ([#68358](https://github.com/CleverRaven/Cataclysm-DDA/pull/68358))
