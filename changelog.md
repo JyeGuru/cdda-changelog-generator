@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-09-25 to 2023-10-02 ([#68453](https://github.com/CleverRaven/Cataclysm-DDA/pull/68453))
 * Obsolete `freq` + small doc updates ([#68466](https://github.com/CleverRaven/Cataclysm-DDA/pull/68466))
 * Add prosthetics ([#68370](https://github.com/CleverRaven/Cataclysm-DDA/pull/68370))
 * run the full matrix tests on ready for review event ([#68483](https://github.com/CleverRaven/Cataclysm-DDA/pull/68483))
@@ -86,7 +87,6 @@
 * Add BIOLOGICALPROOF documentation ([#68333](https://github.com/CleverRaven/Cataclysm-DDA/pull/68333))
 * [MoM] Fix Extended Stride being unlearnable ([#68334](https://github.com/CleverRaven/Cataclysm-DDA/pull/68334))
 * Also add libflac-dev to matrix for cmake build ([#68337](https://github.com/CleverRaven/Cataclysm-DDA/pull/68337))
-* Trader avoid ([#68314](https://github.com/CleverRaven/Cataclysm-DDA/pull/68314))
 * Fix clang-tidy workflow by installing 'required' libflac-dev ([#68331](https://github.com/CleverRaven/Cataclysm-DDA/pull/68331))
 * Misc doc updates ([#68319](https://github.com/CleverRaven/Cataclysm-DDA/pull/68319))
 * Collect grappling hooks and stepladders from the ledge above. ([#68317](https://github.com/CleverRaven/Cataclysm-DDA/pull/68317))
