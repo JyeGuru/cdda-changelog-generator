@@ -1,3 +1,4 @@
+* Add prosthetics ([#68370](https://github.com/CleverRaven/Cataclysm-DDA/pull/68370))
 * run the full matrix tests on ready for review event ([#68483](https://github.com/CleverRaven/Cataclysm-DDA/pull/68483))
 * [Xedra Evolved] Fix remaining trait overlay issues. ([#68376](https://github.com/CleverRaven/Cataclysm-DDA/pull/68376))
 * Routine i18n updates on 30 September 2023 ([#68407](https://github.com/CleverRaven/Cataclysm-DDA/pull/68407))
@@ -81,7 +82,6 @@
 * Implement Character::rest_quality() ([#68321](https://github.com/CleverRaven/Cataclysm-DDA/pull/68321))
 * Fix Cloak of Frog permanently frogging you ([#68349](https://github.com/CleverRaven/Cataclysm-DDA/pull/68349))
 * Underwater monsters don't attack by passing through boats ([#68340](https://github.com/CleverRaven/Cataclysm-DDA/pull/68340))
-* XE Addiction snippets ([#68309](https://github.com/CleverRaven/Cataclysm-DDA/pull/68309))
 * Make eoc melee test stop failing for the wrong reason ([#68332](https://github.com/CleverRaven/Cataclysm-DDA/pull/68332))
 * Add BIOLOGICALPROOF documentation ([#68333](https://github.com/CleverRaven/Cataclysm-DDA/pull/68333))
 * [MoM] Fix Extended Stride being unlearnable ([#68334](https://github.com/CleverRaven/Cataclysm-DDA/pull/68334))
