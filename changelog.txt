@@ -1,3 +1,5 @@
+* Eddie can now buy food (#68499)
+* Improved path for intelligent monsters (#68492)
 * Weekly Changelog 2023-09-25 to 2023-10-02 (#68453)
 * Obsolete `freq` + small doc updates (#68466)
 * Add prosthetics (#68370)
@@ -89,6 +91,4 @@
 * Also add libflac-dev to matrix for cmake build (#68337)
 * Fix clang-tidy workflow by installing 'required' libflac-dev (#68331)
 * Misc doc updates (#68319)
-* Collect grappling hooks and stepladders from the ledge above. (#68317)
-* Prevent Web Diver burying the player underground. (#68315)
 * The scrap trader sells nuts and bolts (#68320)
