@@ -1,3 +1,4 @@
+* Obsolete `freq` + small doc updates (#68466)
 * Add prosthetics (#68370)
 * run the full matrix tests on ready for review event (#68483)
 * [Xedra Evolved] Fix remaining trait overlay issues. (#68376)
@@ -74,7 +75,6 @@
 * Fix identical omts spawning over themselves (#68324)
 * Make vehicle parts install components salvageable, e.g. nuts and bolts (#68335)
 * [MoM] Biokinesis duration fixes (#68366)
-* Skill vs Knowledge Check Audit (#68312)
 * Fixed uncommon stream_mutable generation failure (#68361)
 * Wear Scarves Around Your Head (#68357)
 * Don't Lose default background when chosing a profession (#68353)
