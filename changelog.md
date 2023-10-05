@@ -1,3 +1,4 @@
+* Fix item group error with magiclysm + defense mode enabled ([#68468](https://github.com/CleverRaven/Cataclysm-DDA/pull/68468))
 * Added More Mounds and stacks ([#68485](https://github.com/CleverRaven/Cataclysm-DDA/pull/68485))
 * Flesh Raptors should fungalize into their fungal form ([#68489](https://github.com/CleverRaven/Cataclysm-DDA/pull/68489))
 * [MoM] Add Primal Terror telepathic power ([#68511](https://github.com/CleverRaven/Cataclysm-DDA/pull/68511))
@@ -91,4 +92,3 @@
 * Allow Simon to elaborate about his family ([#68358](https://github.com/CleverRaven/Cataclysm-DDA/pull/68358))
 * Fix Cloak of Frog permanently frogging you ([#68349](https://github.com/CleverRaven/Cataclysm-DDA/pull/68349))
 * Underwater monsters don't attack by passing through boats ([#68340](https://github.com/CleverRaven/Cataclysm-DDA/pull/68340))
-* Also add libflac-dev to matrix for cmake build ([#68337](https://github.com/CleverRaven/Cataclysm-DDA/pull/68337))
