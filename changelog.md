@@ -1,3 +1,4 @@
+* Added More Mounds and stacks ([#68485](https://github.com/CleverRaven/Cataclysm-DDA/pull/68485))
 * Flesh Raptors should fungalize into their fungal form ([#68489](https://github.com/CleverRaven/Cataclysm-DDA/pull/68489))
 * [MoM] Add Primal Terror telepathic power ([#68511](https://github.com/CleverRaven/Cataclysm-DDA/pull/68511))
 * update the quench values for oatmeal and grits ([#68478](https://github.com/CleverRaven/Cataclysm-DDA/pull/68478))
@@ -83,7 +84,6 @@
 * fireweed and more mostly decorative flora ([#68368](https://github.com/CleverRaven/Cataclysm-DDA/pull/68368))
 * Adjust feral combat knife damage ([#68372](https://github.com/CleverRaven/Cataclysm-DDA/pull/68372))
 * Add ROOTS2 and ROOTS3 flags so Mycorrhizal Communion works properly ([#68348](https://github.com/CleverRaven/Cataclysm-DDA/pull/68348))
-* Make vehicle parts install components salvageable, e.g. nuts and bolts ([#68335](https://github.com/CleverRaven/Cataclysm-DDA/pull/68335))
 * [MoM] Biokinesis duration fixes ([#68366](https://github.com/CleverRaven/Cataclysm-DDA/pull/68366))
 * Fixed uncommon stream_mutable generation failure ([#68361](https://github.com/CleverRaven/Cataclysm-DDA/pull/68361))
 * Wear Scarves Around Your Head ([#68357](https://github.com/CleverRaven/Cataclysm-DDA/pull/68357))
