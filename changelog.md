@@ -1,3 +1,4 @@
+* Flesh Raptors should fungalize into their fungal form ([#68489](https://github.com/CleverRaven/Cataclysm-DDA/pull/68489))
 * [MoM] Add Primal Terror telepathic power ([#68511](https://github.com/CleverRaven/Cataclysm-DDA/pull/68511))
 * update the quench values for oatmeal and grits ([#68478](https://github.com/CleverRaven/Cataclysm-DDA/pull/68478))
 * port: hotkeys for changing tabs in player info ([#68503](https://github.com/CleverRaven/Cataclysm-DDA/pull/68503))
@@ -90,5 +91,4 @@
 * Allow Simon to elaborate about his family ([#68358](https://github.com/CleverRaven/Cataclysm-DDA/pull/68358))
 * Fix Cloak of Frog permanently frogging you ([#68349](https://github.com/CleverRaven/Cataclysm-DDA/pull/68349))
 * Underwater monsters don't attack by passing through boats ([#68340](https://github.com/CleverRaven/Cataclysm-DDA/pull/68340))
-* [MoM] Fix Extended Stride being unlearnable ([#68334](https://github.com/CleverRaven/Cataclysm-DDA/pull/68334))
 * Also add libflac-dev to matrix for cmake build ([#68337](https://github.com/CleverRaven/Cataclysm-DDA/pull/68337))
