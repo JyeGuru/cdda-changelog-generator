@@ -1,3 +1,5 @@
+* Monsters care about item theft ([#68486](https://github.com/CleverRaven/Cataclysm-DDA/pull/68486))
+* Shorten the JSON for aluminum pot and pan ([#68514](https://github.com/CleverRaven/Cataclysm-DDA/pull/68514))
 * be more specific about when to refresh gh pages ([#68515](https://github.com/CleverRaven/Cataclysm-DDA/pull/68515))
 * Fix item group error with magiclysm + defense mode enabled ([#68468](https://github.com/CleverRaven/Cataclysm-DDA/pull/68468))
 * Added More Mounds and stacks ([#68485](https://github.com/CleverRaven/Cataclysm-DDA/pull/68485))
