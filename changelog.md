@@ -1,3 +1,4 @@
+* Only show dropped bucket spill warning if dropping into vehicle ([#68521](https://github.com/CleverRaven/Cataclysm-DDA/pull/68521))
 * [EOC] Add readable values and update functions ([#68490](https://github.com/CleverRaven/Cataclysm-DDA/pull/68490))
 * Rabbits 2: Oh god they zoomin ([#68523](https://github.com/CleverRaven/Cataclysm-DDA/pull/68523))
 * Fix #68104 ([#68522](https://github.com/CleverRaven/Cataclysm-DDA/pull/68522))
@@ -93,4 +94,3 @@
 * Adjust feral combat knife damage ([#68372](https://github.com/CleverRaven/Cataclysm-DDA/pull/68372))
 * [MoM] Biokinesis duration fixes ([#68366](https://github.com/CleverRaven/Cataclysm-DDA/pull/68366))
 * Fixed uncommon stream_mutable generation failure ([#68361](https://github.com/CleverRaven/Cataclysm-DDA/pull/68361))
-* Allow Simon to elaborate about his family ([#68358](https://github.com/CleverRaven/Cataclysm-DDA/pull/68358))
