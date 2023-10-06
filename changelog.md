@@ -1,3 +1,4 @@
+* Fix #68104 ([#68522](https://github.com/CleverRaven/Cataclysm-DDA/pull/68522))
 * Rabbit audit ([#68516](https://github.com/CleverRaven/Cataclysm-DDA/pull/68516))
 * Raise overmap generation priority of Refugee Center ([#68502](https://github.com/CleverRaven/Cataclysm-DDA/pull/68502))
 * Fixed mound names. Again. ([#68518](https://github.com/CleverRaven/Cataclysm-DDA/pull/68518))
@@ -92,5 +93,4 @@
 * [MoM] Biokinesis duration fixes ([#68366](https://github.com/CleverRaven/Cataclysm-DDA/pull/68366))
 * Fixed uncommon stream_mutable generation failure ([#68361](https://github.com/CleverRaven/Cataclysm-DDA/pull/68361))
 * Wear Scarves Around Your Head ([#68357](https://github.com/CleverRaven/Cataclysm-DDA/pull/68357))
-* Don't Lose default background when chosing a profession ([#68353](https://github.com/CleverRaven/Cataclysm-DDA/pull/68353))
 * Allow Simon to elaborate about his family ([#68358](https://github.com/CleverRaven/Cataclysm-DDA/pull/68358))
