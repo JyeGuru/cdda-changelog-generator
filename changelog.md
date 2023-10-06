@@ -1,3 +1,4 @@
+* [EOC] Add readable values and update functions ([#68490](https://github.com/CleverRaven/Cataclysm-DDA/pull/68490))
 * Rabbits 2: Oh god they zoomin ([#68523](https://github.com/CleverRaven/Cataclysm-DDA/pull/68523))
 * Fix #68104 ([#68522](https://github.com/CleverRaven/Cataclysm-DDA/pull/68522))
 * Rabbit audit ([#68516](https://github.com/CleverRaven/Cataclysm-DDA/pull/68516))
@@ -92,5 +93,4 @@
 * Adjust feral combat knife damage ([#68372](https://github.com/CleverRaven/Cataclysm-DDA/pull/68372))
 * [MoM] Biokinesis duration fixes ([#68366](https://github.com/CleverRaven/Cataclysm-DDA/pull/68366))
 * Fixed uncommon stream_mutable generation failure ([#68361](https://github.com/CleverRaven/Cataclysm-DDA/pull/68361))
-* Wear Scarves Around Your Head ([#68357](https://github.com/CleverRaven/Cataclysm-DDA/pull/68357))
 * Allow Simon to elaborate about his family ([#68358](https://github.com/CleverRaven/Cataclysm-DDA/pull/68358))
