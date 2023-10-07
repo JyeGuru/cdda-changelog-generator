@@ -88,7 +88,6 @@
 * Some mask cartridge fix ([#68373](https://github.com/CleverRaven/Cataclysm-DDA/pull/68373))
 * Cleanup crossbow bolts ([#68377](https://github.com/CleverRaven/Cataclysm-DDA/pull/68377))
 * Update SDL2 CMake deps in doc ([#68383](https://github.com/CleverRaven/Cataclysm-DDA/pull/68383))
-* Deconstructing a water heater yields a 100L tank instead of 60L ([#68359](https://github.com/CleverRaven/Cataclysm-DDA/pull/68359))
 * Improved where monsters leap ([#68360](https://github.com/CleverRaven/Cataclysm-DDA/pull/68360))
 * fireweed and more mostly decorative flora ([#68368](https://github.com/CleverRaven/Cataclysm-DDA/pull/68368))
 * Adjust feral combat knife damage ([#68372](https://github.com/CleverRaven/Cataclysm-DDA/pull/68372))
