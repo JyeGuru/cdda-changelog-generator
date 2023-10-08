@@ -1,3 +1,4 @@
+* Move gunsmith/blacksmith turret out of the direct path of the player ([#68533](https://github.com/CleverRaven/Cataclysm-DDA/pull/68533))
 * [Xedra Evolved] More Salamander powers ([#68509](https://github.com/CleverRaven/Cataclysm-DDA/pull/68509))
 * Custom sidebar mana widgets ([#68553](https://github.com/CleverRaven/Cataclysm-DDA/pull/68553))
 * Selecting container mode for unloaded items ([#68480](https://github.com/CleverRaven/Cataclysm-DDA/pull/68480))
@@ -72,7 +73,6 @@
 * Improved Soil Storage ([#68411](https://github.com/CleverRaven/Cataclysm-DDA/pull/68411))
 * Bugfix: Prevent segfault for npc get_restock_interval ([#68401](https://github.com/CleverRaven/Cataclysm-DDA/pull/68401))
 * Fix duplicate OMTs, take two ([#68398](https://github.com/CleverRaven/Cataclysm-DDA/pull/68398))
-* Documentation update ([#68390](https://github.com/CleverRaven/Cataclysm-DDA/pull/68390))
 * Allow metal wreckage to be used for cutting ([#68447](https://github.com/CleverRaven/Cataclysm-DDA/pull/68447))
 * [EOC]EVENT EOCs provide beta talker ([#68399](https://github.com/CleverRaven/Cataclysm-DDA/pull/68399))
 * Add CTest presets ([#68424](https://github.com/CleverRaven/Cataclysm-DDA/pull/68424))
