@@ -1,3 +1,5 @@
+* Show estimated time when washing items ([#68542](https://github.com/CleverRaven/Cataclysm-DDA/pull/68542))
+* Add cottontail (wild) rabbits ([#68547](https://github.com/CleverRaven/Cataclysm-DDA/pull/68547))
 * Split drop leg poches ([#68544](https://github.com/CleverRaven/Cataclysm-DDA/pull/68544))
 * More Mission Descriptions ([#68543](https://github.com/CleverRaven/Cataclysm-DDA/pull/68543))
 * XL Kettle craftable ([#68545](https://github.com/CleverRaven/Cataclysm-DDA/pull/68545))
@@ -90,5 +92,4 @@
 * Make Hydrogen and Nitrogen Tanks Spawn with Charges ([#68403](https://github.com/CleverRaven/Cataclysm-DDA/pull/68403))
 * [MoM] Add Hellfire pyrokinetic power ([#68380](https://github.com/CleverRaven/Cataclysm-DDA/pull/68380))
 * add scrap tin to tin powder recipe ([#68391](https://github.com/CleverRaven/Cataclysm-DDA/pull/68391))
-* Cleanup crossbow bolts ([#68377](https://github.com/CleverRaven/Cataclysm-DDA/pull/68377))
 * Update SDL2 CMake deps in doc ([#68383](https://github.com/CleverRaven/Cataclysm-DDA/pull/68383))
