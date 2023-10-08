@@ -1,3 +1,4 @@
+* Baldric audit? ([#68546](https://github.com/CleverRaven/Cataclysm-DDA/pull/68546))
 * Move gunsmith/blacksmith turret out of the direct path of the player ([#68533](https://github.com/CleverRaven/Cataclysm-DDA/pull/68533))
 * [Xedra Evolved] More Salamander powers ([#68509](https://github.com/CleverRaven/Cataclysm-DDA/pull/68509))
 * Custom sidebar mana widgets ([#68553](https://github.com/CleverRaven/Cataclysm-DDA/pull/68553))
@@ -91,4 +92,3 @@
 * [MoM] Set limited duration for zombie null psi-nullification field ([#68394](https://github.com/CleverRaven/Cataclysm-DDA/pull/68394))
 * Give the Angry Pyromaniac Mission its Description and Update Angry Pizzaiolo Description to be more Descriptive ([#68402](https://github.com/CleverRaven/Cataclysm-DDA/pull/68402))
 * Make Hydrogen and Nitrogen Tanks Spawn with Charges ([#68403](https://github.com/CleverRaven/Cataclysm-DDA/pull/68403))
-* add scrap tin to tin powder recipe ([#68391](https://github.com/CleverRaven/Cataclysm-DDA/pull/68391))
