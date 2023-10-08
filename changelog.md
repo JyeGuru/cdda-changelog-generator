@@ -90,6 +90,5 @@
 * [MoM] Set limited duration for zombie null psi-nullification field ([#68394](https://github.com/CleverRaven/Cataclysm-DDA/pull/68394))
 * Give the Angry Pyromaniac Mission its Description and Update Angry Pizzaiolo Description to be more Descriptive ([#68402](https://github.com/CleverRaven/Cataclysm-DDA/pull/68402))
 * Make Hydrogen and Nitrogen Tanks Spawn with Charges ([#68403](https://github.com/CleverRaven/Cataclysm-DDA/pull/68403))
-* [MoM] Add Hellfire pyrokinetic power ([#68380](https://github.com/CleverRaven/Cataclysm-DDA/pull/68380))
 * add scrap tin to tin powder recipe ([#68391](https://github.com/CleverRaven/Cataclysm-DDA/pull/68391))
 * Update SDL2 CMake deps in doc ([#68383](https://github.com/CleverRaven/Cataclysm-DDA/pull/68383))
