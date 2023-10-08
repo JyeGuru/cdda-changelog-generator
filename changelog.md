@@ -1,3 +1,4 @@
+* Custom sidebar mana widgets ([#68553](https://github.com/CleverRaven/Cataclysm-DDA/pull/68553))
 * Selecting container mode for unloaded items ([#68480](https://github.com/CleverRaven/Cataclysm-DDA/pull/68480))
 * [MoM] Allow use of psionics to train Metaphysics ([#68555](https://github.com/CleverRaven/Cataclysm-DDA/pull/68555))
 * The end of the Rabbit Saga ([#68560](https://github.com/CleverRaven/Cataclysm-DDA/pull/68560))
@@ -48,7 +49,6 @@
 * Update the table of contents in doc/JSON_INFO.md ([#68451](https://github.com/CleverRaven/Cataclysm-DDA/pull/68451))
 * Allow Eddie McKenzie to talk about his past  ([#68438](https://github.com/CleverRaven/Cataclysm-DDA/pull/68438))
 * Big Bunch of Typos ([#68436](https://github.com/CleverRaven/Cataclysm-DDA/pull/68436))
-* Fixing up anvils, round 1 (attempt 2) ([#68386](https://github.com/CleverRaven/Cataclysm-DDA/pull/68386))
 * [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid ([#68471](https://github.com/CleverRaven/Cataclysm-DDA/pull/68471))
 * Fix GCC9 warnings "overloaded-virtual" ([#68460](https://github.com/CleverRaven/Cataclysm-DDA/pull/68460))
 * [MoM] Remove FEAR_PARALYZE from telepathic monsters ([#68467](https://github.com/CleverRaven/Cataclysm-DDA/pull/68467))
