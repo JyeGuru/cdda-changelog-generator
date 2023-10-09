@@ -65,7 +65,6 @@
 * Corrected Dirtmounds ([#68473](https://github.com/CleverRaven/Cataclysm-DDA/pull/68473))
 * fix: toilet stools in the bookstore roof ([#68469](https://github.com/CleverRaven/Cataclysm-DDA/pull/68469))
 * Fix comestibles spawns in military base ([#68461](https://github.com/CleverRaven/Cataclysm-DDA/pull/68461))
-* Add a larger “family–sized” water heater ([#68404](https://github.com/CleverRaven/Cataclysm-DDA/pull/68404))
 * properly migrate #68441 ([#68464](https://github.com/CleverRaven/Cataclysm-DDA/pull/68464))
 * Added quench values to cooked oatmeal/deluxe oatmeal. ([#68443](https://github.com/CleverRaven/Cataclysm-DDA/pull/68443))
 * Fix conversion of liquid and solid items ([#68446](https://github.com/CleverRaven/Cataclysm-DDA/pull/68446))
