@@ -1,3 +1,4 @@
+* Hub 01 mission description clarification ([#68557](https://github.com/CleverRaven/Cataclysm-DDA/pull/68557))
 * Remember inventory show/hide all contents option state ([#68564](https://github.com/CleverRaven/Cataclysm-DDA/pull/68564))
 * Improve monster reaction to player theft ([#68563](https://github.com/CleverRaven/Cataclysm-DDA/pull/68563))
 * [EoC] Simple if-else statement ([#68550](https://github.com/CleverRaven/Cataclysm-DDA/pull/68550))
@@ -91,4 +92,3 @@
 * Creatures don't (mostly) react to things under vehicles. ([#68413](https://github.com/CleverRaven/Cataclysm-DDA/pull/68413))
 * add several more Halloween themed clothes ([#68405](https://github.com/CleverRaven/Cataclysm-DDA/pull/68405))
 * Fix clang 12 matrix build by installing clang-12 ([#68415](https://github.com/CleverRaven/Cataclysm-DDA/pull/68415))
-* Make Hydrogen and Nitrogen Tanks Spawn with Charges ([#68403](https://github.com/CleverRaven/Cataclysm-DDA/pull/68403))
