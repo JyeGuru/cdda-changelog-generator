@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] Create scrap moon tears to allow ingots and wire to be crafted ([#68459](https://github.com/CleverRaven/Cataclysm-DDA/pull/68459))
 * Baldric audit? ([#68546](https://github.com/CleverRaven/Cataclysm-DDA/pull/68546))
 * Move gunsmith/blacksmith turret out of the direct path of the player ([#68533](https://github.com/CleverRaven/Cataclysm-DDA/pull/68533))
 * [Xedra Evolved] More Salamander powers ([#68509](https://github.com/CleverRaven/Cataclysm-DDA/pull/68509))
@@ -58,7 +59,6 @@
 * Corrected Dirtmounds ([#68473](https://github.com/CleverRaven/Cataclysm-DDA/pull/68473))
 * fix: toilet stools in the bookstore roof ([#68469](https://github.com/CleverRaven/Cataclysm-DDA/pull/68469))
 * Fix comestibles spawns in military base ([#68461](https://github.com/CleverRaven/Cataclysm-DDA/pull/68461))
-* Small tweaks ([#68393](https://github.com/CleverRaven/Cataclysm-DDA/pull/68393))
 * Add a larger “family–sized” water heater ([#68404](https://github.com/CleverRaven/Cataclysm-DDA/pull/68404))
 * properly migrate #68441 ([#68464](https://github.com/CleverRaven/Cataclysm-DDA/pull/68464))
 * Added quench values to cooked oatmeal/deluxe oatmeal. ([#68443](https://github.com/CleverRaven/Cataclysm-DDA/pull/68443))
