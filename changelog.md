@@ -1,3 +1,4 @@
+* Refugee Center's Surface Refugee Mission Descriptions ([#68576](https://github.com/CleverRaven/Cataclysm-DDA/pull/68576))
 * Hub 01 mission description clarification ([#68557](https://github.com/CleverRaven/Cataclysm-DDA/pull/68557))
 * Remember inventory show/hide all contents option state ([#68564](https://github.com/CleverRaven/Cataclysm-DDA/pull/68564))
 * Improve monster reaction to player theft ([#68563](https://github.com/CleverRaven/Cataclysm-DDA/pull/68563))
@@ -89,5 +90,4 @@
 * Add missing floor tile under table to farm with stills ([#68425](https://github.com/CleverRaven/Cataclysm-DDA/pull/68425))
 * Change Grim Reapers Scythe ([#68420](https://github.com/CleverRaven/Cataclysm-DDA/pull/68420))
 * Creatures don't (mostly) react to things under vehicles. ([#68413](https://github.com/CleverRaven/Cataclysm-DDA/pull/68413))
-* add several more Halloween themed clothes ([#68405](https://github.com/CleverRaven/Cataclysm-DDA/pull/68405))
 * Fix clang 12 matrix build by installing clang-12 ([#68415](https://github.com/CleverRaven/Cataclysm-DDA/pull/68415))
