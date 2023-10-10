@@ -1,3 +1,4 @@
+* Display what mod the contents belong to, scenario, profession, map ([#68585](https://github.com/CleverRaven/Cataclysm-DDA/pull/68585))
 * Apply COLDPROOF ([#68573](https://github.com/CleverRaven/Cataclysm-DDA/pull/68573))
 * Deduplicated lab notes ([#68572](https://github.com/CleverRaven/Cataclysm-DDA/pull/68572))
 * Refugee Center's Surface Refugee Mission Descriptions ([#68576](https://github.com/CleverRaven/Cataclysm-DDA/pull/68576))
@@ -89,5 +90,4 @@
 * Remove armor penetration from shotgun flechettes, clarify descriptions ([#68427](https://github.com/CleverRaven/Cataclysm-DDA/pull/68427))
 * Add missing floor tile under table to farm with stills ([#68425](https://github.com/CleverRaven/Cataclysm-DDA/pull/68425))
 * Change Grim Reapers Scythe ([#68420](https://github.com/CleverRaven/Cataclysm-DDA/pull/68420))
-* Creatures don't (mostly) react to things under vehicles. ([#68413](https://github.com/CleverRaven/Cataclysm-DDA/pull/68413))
 * Fix clang 12 matrix build by installing clang-12 ([#68415](https://github.com/CleverRaven/Cataclysm-DDA/pull/68415))

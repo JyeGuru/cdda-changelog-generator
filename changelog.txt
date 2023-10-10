@@ -1,3 +1,4 @@
+* Display what mod the contents belong to, scenario, profession, map (#68585)
 * Apply COLDPROOF (#68573)
 * Deduplicated lab notes (#68572)
 * Refugee Center's Surface Refugee Mission Descriptions (#68576)
@@ -89,5 +90,4 @@
 * Remove armor penetration from shotgun flechettes, clarify descriptions (#68427)
 * Add missing floor tile under table to farm with stills (#68425)
 * Change Grim Reapers Scythe (#68420)
-* Creatures don't (mostly) react to things under vehicles. (#68413)
 * Fix clang 12 matrix build by installing clang-12 (#68415)
