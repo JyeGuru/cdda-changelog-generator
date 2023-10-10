@@ -1,3 +1,4 @@
+* Remove mention of attracting vermin from butchery refuse ([#68588](https://github.com/CleverRaven/Cataclysm-DDA/pull/68588))
 * Display what mod the contents belong to, scenario, profession, map ([#68585](https://github.com/CleverRaven/Cataclysm-DDA/pull/68585))
 * Apply COLDPROOF ([#68573](https://github.com/CleverRaven/Cataclysm-DDA/pull/68573))
 * Deduplicated lab notes ([#68572](https://github.com/CleverRaven/Cataclysm-DDA/pull/68572))
@@ -78,7 +79,6 @@
 * Martial arts docs update ([#68418](https://github.com/CleverRaven/Cataclysm-DDA/pull/68418))
 * [EOC]Inventory selector (and crash fix) ([#68423](https://github.com/CleverRaven/Cataclysm-DDA/pull/68423))
 * Some mask cartridge fix (part2) ([#68416](https://github.com/CleverRaven/Cataclysm-DDA/pull/68416))
-* Fix MREs spawning opened ([#68414](https://github.com/CleverRaven/Cataclysm-DDA/pull/68414))
 * Allow metal wreckage to be used for cutting ([#68447](https://github.com/CleverRaven/Cataclysm-DDA/pull/68447))
 * Add CTest presets ([#68424](https://github.com/CleverRaven/Cataclysm-DDA/pull/68424))
 * Make it obvious when TCL badges are destroyed or not ([#68426](https://github.com/CleverRaven/Cataclysm-DDA/pull/68426))
