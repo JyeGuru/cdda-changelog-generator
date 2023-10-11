@@ -1,3 +1,4 @@
+* Expanded base camp/expansion concept of 'field' (#68574)
 * fix: add coverage to flaming fist (#68597)
 * Amputees don't have socks, mutant has wheelchair (#68592)
 * Remove mention of attracting vermin from butchery refuse (#68588)
