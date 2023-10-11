@@ -1,3 +1,5 @@
+* fix: add coverage to flaming fist ([#68597](https://github.com/CleverRaven/Cataclysm-DDA/pull/68597))
+* Amputees don't have socks, mutant has wheelchair ([#68592](https://github.com/CleverRaven/Cataclysm-DDA/pull/68592))
 * Remove mention of attracting vermin from butchery refuse ([#68588](https://github.com/CleverRaven/Cataclysm-DDA/pull/68588))
 * Display what mod the contents belong to, scenario, profession, map ([#68585](https://github.com/CleverRaven/Cataclysm-DDA/pull/68585))
 * Apply COLDPROOF ([#68573](https://github.com/CleverRaven/Cataclysm-DDA/pull/68573))
@@ -78,7 +80,6 @@
 * Rename luna park to miniature railway park ([#68441](https://github.com/CleverRaven/Cataclysm-DDA/pull/68441))
 * Martial arts docs update ([#68418](https://github.com/CleverRaven/Cataclysm-DDA/pull/68418))
 * [EOC]Inventory selector (and crash fix) ([#68423](https://github.com/CleverRaven/Cataclysm-DDA/pull/68423))
-* Some mask cartridge fix (part2) ([#68416](https://github.com/CleverRaven/Cataclysm-DDA/pull/68416))
 * Allow metal wreckage to be used for cutting ([#68447](https://github.com/CleverRaven/Cataclysm-DDA/pull/68447))
 * Add CTest presets ([#68424](https://github.com/CleverRaven/Cataclysm-DDA/pull/68424))
 * Make it obvious when TCL badges are destroyed or not ([#68426](https://github.com/CleverRaven/Cataclysm-DDA/pull/68426))
@@ -90,4 +91,3 @@
 * Remove armor penetration from shotgun flechettes, clarify descriptions ([#68427](https://github.com/CleverRaven/Cataclysm-DDA/pull/68427))
 * Add missing floor tile under table to farm with stills ([#68425](https://github.com/CleverRaven/Cataclysm-DDA/pull/68425))
 * Change Grim Reapers Scythe ([#68420](https://github.com/CleverRaven/Cataclysm-DDA/pull/68420))
-* Fix clang 12 matrix build by installing clang-12 ([#68415](https://github.com/CleverRaven/Cataclysm-DDA/pull/68415))
