@@ -1,3 +1,4 @@
+* Procgen relic "multiply" enchantments use float not integer ([#68607](https://github.com/CleverRaven/Cataclysm-DDA/pull/68607))
 * Parametric microlabs (and meat overgrown microlab variant) ([#68593](https://github.com/CleverRaven/Cataclysm-DDA/pull/68593))
 * Try to fix ASAN ([#68599](https://github.com/CleverRaven/Cataclysm-DDA/pull/68599))
 * expanded base camp log cutting locations ([#68604](https://github.com/CleverRaven/Cataclysm-DDA/pull/68604))
@@ -91,4 +92,3 @@
 * Routine tileset updates on 01 October 2023 ([#68437](https://github.com/CleverRaven/Cataclysm-DDA/pull/68437))
 * Remove GLARE 1 from gas masks ([#68429](https://github.com/CleverRaven/Cataclysm-DDA/pull/68429))
 * Fix typos, use definite article consistently in death messages ([#68440](https://github.com/CleverRaven/Cataclysm-DDA/pull/68440))
-* Remove armor penetration from shotgun flechettes, clarify descriptions ([#68427](https://github.com/CleverRaven/Cataclysm-DDA/pull/68427))
