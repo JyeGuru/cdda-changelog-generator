@@ -1,3 +1,4 @@
+* Cattail shouldn't be plantable on land ([#68616](https://github.com/CleverRaven/Cataclysm-DDA/pull/68616))
 * Allow NPC_DEATH EoC to prevent NPC dies ([#68600](https://github.com/CleverRaven/Cataclysm-DDA/pull/68600))
 * Procgen relic "multiply" enchantments use float not integer ([#68607](https://github.com/CleverRaven/Cataclysm-DDA/pull/68607))
 * Parametric microlabs (and meat overgrown microlab variant) ([#68593](https://github.com/CleverRaven/Cataclysm-DDA/pull/68593))
@@ -91,5 +92,4 @@
 * Miner bot-> demining bot ([#68430](https://github.com/CleverRaven/Cataclysm-DDA/pull/68430))
 * Use correct actor in bulk trade messages ([#68431](https://github.com/CleverRaven/Cataclysm-DDA/pull/68431))
 * Routine tileset updates on 01 October 2023 ([#68437](https://github.com/CleverRaven/Cataclysm-DDA/pull/68437))
-* Remove GLARE 1 from gas masks ([#68429](https://github.com/CleverRaven/Cataclysm-DDA/pull/68429))
 * Fix typos, use definite article consistently in death messages ([#68440](https://github.com/CleverRaven/Cataclysm-DDA/pull/68440))
