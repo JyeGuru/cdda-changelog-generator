@@ -1,3 +1,4 @@
+* Allow NPC_DEATH EoC to prevent NPC dies (#68600)
 * Procgen relic "multiply" enchantments use float not integer (#68607)
 * Parametric microlabs (and meat overgrown microlab variant) (#68593)
 * Try to fix ASAN (#68599)

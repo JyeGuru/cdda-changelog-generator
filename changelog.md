@@ -1,3 +1,4 @@
+* Allow NPC_DEATH EoC to prevent NPC dies ([#68600](https://github.com/CleverRaven/Cataclysm-DDA/pull/68600))
 * Procgen relic "multiply" enchantments use float not integer ([#68607](https://github.com/CleverRaven/Cataclysm-DDA/pull/68607))
 * Parametric microlabs (and meat overgrown microlab variant) ([#68593](https://github.com/CleverRaven/Cataclysm-DDA/pull/68593))
 * Try to fix ASAN ([#68599](https://github.com/CleverRaven/Cataclysm-DDA/pull/68599))
