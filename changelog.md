@@ -1,3 +1,4 @@
+* expanded base camp log cutting locations ([#68604](https://github.com/CleverRaven/Cataclysm-DDA/pull/68604))
 * fix: integrated multitool does not do welding ([#68584](https://github.com/CleverRaven/Cataclysm-DDA/pull/68584))
 * Bugfix directed_push with negative damage ([#68590](https://github.com/CleverRaven/Cataclysm-DDA/pull/68590))
 * Make ground mounted solar panels more efficient ([#68603](https://github.com/CleverRaven/Cataclysm-DDA/pull/68603))
@@ -83,7 +84,6 @@
 * [XEDRA Evolved] Add canvas repair and remove unused adv sewing section ([#68452](https://github.com/CleverRaven/Cataclysm-DDA/pull/68452))
 * Rename luna park to miniature railway park ([#68441](https://github.com/CleverRaven/Cataclysm-DDA/pull/68441))
 * Allow metal wreckage to be used for cutting ([#68447](https://github.com/CleverRaven/Cataclysm-DDA/pull/68447))
-* Add CTest presets ([#68424](https://github.com/CleverRaven/Cataclysm-DDA/pull/68424))
 * Make it obvious when TCL badges are destroyed or not ([#68426](https://github.com/CleverRaven/Cataclysm-DDA/pull/68426))
 * Miner bot-> demining bot ([#68430](https://github.com/CleverRaven/Cataclysm-DDA/pull/68430))
 * Use correct actor in bulk trade messages ([#68431](https://github.com/CleverRaven/Cataclysm-DDA/pull/68431))
