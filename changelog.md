@@ -1,3 +1,4 @@
+* Try to fix ASAN ([#68599](https://github.com/CleverRaven/Cataclysm-DDA/pull/68599))
 * expanded base camp log cutting locations ([#68604](https://github.com/CleverRaven/Cataclysm-DDA/pull/68604))
 * fix: integrated multitool does not do welding ([#68584](https://github.com/CleverRaven/Cataclysm-DDA/pull/68584))
 * Bugfix directed_push with negative damage ([#68590](https://github.com/CleverRaven/Cataclysm-DDA/pull/68590))
@@ -91,4 +92,3 @@
 * Remove GLARE 1 from gas masks ([#68429](https://github.com/CleverRaven/Cataclysm-DDA/pull/68429))
 * Fix typos, use definite article consistently in death messages ([#68440](https://github.com/CleverRaven/Cataclysm-DDA/pull/68440))
 * Remove armor penetration from shotgun flechettes, clarify descriptions ([#68427](https://github.com/CleverRaven/Cataclysm-DDA/pull/68427))
-* Add missing floor tile under table to farm with stills ([#68425](https://github.com/CleverRaven/Cataclysm-DDA/pull/68425))
