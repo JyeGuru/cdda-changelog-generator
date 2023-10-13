@@ -1,3 +1,5 @@
+* Better Gas masks - Model concentration better, and make gas mask cartiges last longer  ([#68570](https://github.com/CleverRaven/Cataclysm-DDA/pull/68570))
+* [Xedra Evolved] Take Eaters MTF's extra watch ([#68618](https://github.com/CleverRaven/Cataclysm-DDA/pull/68618))
 * Cattail shouldn't be plantable on land ([#68616](https://github.com/CleverRaven/Cataclysm-DDA/pull/68616))
 * Allow NPC_DEATH EoC to prevent NPC dies ([#68600](https://github.com/CleverRaven/Cataclysm-DDA/pull/68600))
 * Procgen relic "multiply" enchantments use float not integer ([#68607](https://github.com/CleverRaven/Cataclysm-DDA/pull/68607))
@@ -89,7 +91,5 @@
 * [XEDRA Evolved] Add canvas repair and remove unused adv sewing section ([#68452](https://github.com/CleverRaven/Cataclysm-DDA/pull/68452))
 * Rename luna park to miniature railway park ([#68441](https://github.com/CleverRaven/Cataclysm-DDA/pull/68441))
 * Allow metal wreckage to be used for cutting ([#68447](https://github.com/CleverRaven/Cataclysm-DDA/pull/68447))
-* Miner bot-> demining bot ([#68430](https://github.com/CleverRaven/Cataclysm-DDA/pull/68430))
-* Use correct actor in bulk trade messages ([#68431](https://github.com/CleverRaven/Cataclysm-DDA/pull/68431))
 * Routine tileset updates on 01 October 2023 ([#68437](https://github.com/CleverRaven/Cataclysm-DDA/pull/68437))
 * Fix typos, use definite article consistently in death messages ([#68440](https://github.com/CleverRaven/Cataclysm-DDA/pull/68440))
