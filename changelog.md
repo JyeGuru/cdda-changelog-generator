@@ -1,3 +1,4 @@
+* Allow "run_eoc_selector" cancelling out of the menu ([#68625](https://github.com/CleverRaven/Cataclysm-DDA/pull/68625))
 * fixed broken salt water pipe ([#68619](https://github.com/CleverRaven/Cataclysm-DDA/pull/68619))
 * A Mound of Typo Fixes ([#68583](https://github.com/CleverRaven/Cataclysm-DDA/pull/68583))
 * Better Gas masks - Model concentration better, and make gas mask cartiges last longer  ([#68570](https://github.com/CleverRaven/Cataclysm-DDA/pull/68570))
@@ -77,7 +78,6 @@
 * Cleanup npctalk.cpp ([#68457](https://github.com/CleverRaven/Cataclysm-DDA/pull/68457))
 * Update the table of contents in doc/JSON_INFO.md ([#68451](https://github.com/CleverRaven/Cataclysm-DDA/pull/68451))
 * Allow Eddie McKenzie to talk about his past  ([#68438](https://github.com/CleverRaven/Cataclysm-DDA/pull/68438))
-* Big Bunch of Typos ([#68436](https://github.com/CleverRaven/Cataclysm-DDA/pull/68436))
 * [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid ([#68471](https://github.com/CleverRaven/Cataclysm-DDA/pull/68471))
 * Fix GCC9 warnings "overloaded-virtual" ([#68460](https://github.com/CleverRaven/Cataclysm-DDA/pull/68460))
 * [MoM] Remove FEAR_PARALYZE from telepathic monsters ([#68467](https://github.com/CleverRaven/Cataclysm-DDA/pull/68467))
