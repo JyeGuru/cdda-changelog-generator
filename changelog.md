@@ -1,3 +1,4 @@
+* Audit weapon categories for swords and sword-based martial arts. ([#68582](https://github.com/CleverRaven/Cataclysm-DDA/pull/68582))
 * Find items that cover body part ([#68623](https://github.com/CleverRaven/Cataclysm-DDA/pull/68623))
 * Make furniture->lockpick_message translatable ([#68627](https://github.com/CleverRaven/Cataclysm-DDA/pull/68627))
 * Quick round of Aftershock bugfixing ([#68629](https://github.com/CleverRaven/Cataclysm-DDA/pull/68629))
@@ -89,7 +90,6 @@
 * fix: toilet stools in the bookstore roof ([#68469](https://github.com/CleverRaven/Cataclysm-DDA/pull/68469))
 * Fix comestibles spawns in military base ([#68461](https://github.com/CleverRaven/Cataclysm-DDA/pull/68461))
 * properly migrate #68441 ([#68464](https://github.com/CleverRaven/Cataclysm-DDA/pull/68464))
-* Fix conversion of liquid and solid items ([#68446](https://github.com/CleverRaven/Cataclysm-DDA/pull/68446))
 * Add Crafting Recipes for Gold, Silver, and Copper Necklaces ([#68450](https://github.com/CleverRaven/Cataclysm-DDA/pull/68450))
 * [XEDRA Evolved] Add canvas repair and remove unused adv sewing section ([#68452](https://github.com/CleverRaven/Cataclysm-DDA/pull/68452))
 * Allow metal wreckage to be used for cutting ([#68447](https://github.com/CleverRaven/Cataclysm-DDA/pull/68447))
