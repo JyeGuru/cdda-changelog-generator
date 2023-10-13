@@ -1,3 +1,4 @@
+* Don't show vitamin apply_message if effect isn't running on player ([#68594](https://github.com/CleverRaven/Cataclysm-DDA/pull/68594))
 * Audit weapon categories for swords and sword-based martial arts. ([#68582](https://github.com/CleverRaven/Cataclysm-DDA/pull/68582))
 * Find items that cover body part ([#68623](https://github.com/CleverRaven/Cataclysm-DDA/pull/68623))
 * Make furniture->lockpick_message translatable ([#68627](https://github.com/CleverRaven/Cataclysm-DDA/pull/68627))
@@ -92,4 +93,3 @@
 * properly migrate #68441 ([#68464](https://github.com/CleverRaven/Cataclysm-DDA/pull/68464))
 * Add Crafting Recipes for Gold, Silver, and Copper Necklaces ([#68450](https://github.com/CleverRaven/Cataclysm-DDA/pull/68450))
 * [XEDRA Evolved] Add canvas repair and remove unused adv sewing section ([#68452](https://github.com/CleverRaven/Cataclysm-DDA/pull/68452))
-* Allow metal wreckage to be used for cutting ([#68447](https://github.com/CleverRaven/Cataclysm-DDA/pull/68447))
