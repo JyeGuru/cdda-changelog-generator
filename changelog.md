@@ -1,3 +1,4 @@
+* Balance tweaks for lieutenant 'Shadow' ([#68581](https://github.com/CleverRaven/Cataclysm-DDA/pull/68581))
 * Allow "run_eoc_selector" cancelling out of the menu ([#68625](https://github.com/CleverRaven/Cataclysm-DDA/pull/68625))
 * fixed broken salt water pipe ([#68619](https://github.com/CleverRaven/Cataclysm-DDA/pull/68619))
 * A Mound of Typo Fixes ([#68583](https://github.com/CleverRaven/Cataclysm-DDA/pull/68583))
@@ -91,5 +92,4 @@
 * [XEDRA Evolved] Add canvas repair and remove unused adv sewing section ([#68452](https://github.com/CleverRaven/Cataclysm-DDA/pull/68452))
 * Rename luna park to miniature railway park ([#68441](https://github.com/CleverRaven/Cataclysm-DDA/pull/68441))
 * Allow metal wreckage to be used for cutting ([#68447](https://github.com/CleverRaven/Cataclysm-DDA/pull/68447))
-* Routine tileset updates on 01 October 2023 ([#68437](https://github.com/CleverRaven/Cataclysm-DDA/pull/68437))
 * Fix typos, use definite article consistently in death messages ([#68440](https://github.com/CleverRaven/Cataclysm-DDA/pull/68440))
