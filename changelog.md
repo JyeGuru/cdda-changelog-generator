@@ -1,3 +1,4 @@
+* Enable history for AIM and inventory filters ([#68645](https://github.com/CleverRaven/Cataclysm-DDA/pull/68645))
 * Routine i18n updates on 14 October 2023 ([#68641](https://github.com/CleverRaven/Cataclysm-DDA/pull/68641))
 * Martial arts homebook jsoning ([#68566](https://github.com/CleverRaven/Cataclysm-DDA/pull/68566))
 * EOD loudout added ([#68601](https://github.com/CleverRaven/Cataclysm-DDA/pull/68601))
@@ -85,7 +86,6 @@
 * Improved path for intelligent monsters ([#68492](https://github.com/CleverRaven/Cataclysm-DDA/pull/68492))
 * Obsolete `freq` + small doc updates ([#68466](https://github.com/CleverRaven/Cataclysm-DDA/pull/68466))
 * run the full matrix tests on ready for review event ([#68483](https://github.com/CleverRaven/Cataclysm-DDA/pull/68483))
-* Cleanup npctalk.cpp ([#68457](https://github.com/CleverRaven/Cataclysm-DDA/pull/68457))
 * [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid ([#68471](https://github.com/CleverRaven/Cataclysm-DDA/pull/68471))
 * Fix GCC9 warnings "overloaded-virtual" ([#68460](https://github.com/CleverRaven/Cataclysm-DDA/pull/68460))
 * [MoM] Remove FEAR_PARALYZE from telepathic monsters ([#68467](https://github.com/CleverRaven/Cataclysm-DDA/pull/68467))
