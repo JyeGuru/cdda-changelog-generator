@@ -1,3 +1,4 @@
+* Minor density list cleanups ([#68652](https://github.com/CleverRaven/Cataclysm-DDA/pull/68652))
 * replaced unsafe references to temporary parameters ([#68649](https://github.com/CleverRaven/Cataclysm-DDA/pull/68649))
 * Enable history for AIM and inventory filters ([#68645](https://github.com/CleverRaven/Cataclysm-DDA/pull/68645))
 * Routine i18n updates on 14 October 2023 ([#68641](https://github.com/CleverRaven/Cataclysm-DDA/pull/68641))
@@ -87,7 +88,6 @@
 * Obsolete `freq` + small doc updates ([#68466](https://github.com/CleverRaven/Cataclysm-DDA/pull/68466))
 * run the full matrix tests on ready for review event ([#68483](https://github.com/CleverRaven/Cataclysm-DDA/pull/68483))
 * [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid ([#68471](https://github.com/CleverRaven/Cataclysm-DDA/pull/68471))
-* Fix GCC9 warnings "overloaded-virtual" ([#68460](https://github.com/CleverRaven/Cataclysm-DDA/pull/68460))
 * [MoM] Remove FEAR_PARALYZE from telepathic monsters ([#68467](https://github.com/CleverRaven/Cataclysm-DDA/pull/68467))
 * Corrected Dirtmounds ([#68473](https://github.com/CleverRaven/Cataclysm-DDA/pull/68473))
 * fix: toilet stools in the bookstore roof ([#68469](https://github.com/CleverRaven/Cataclysm-DDA/pull/68469))
