@@ -1,3 +1,4 @@
+* Fix aftershock chemrig bugs ([#68639](https://github.com/CleverRaven/Cataclysm-DDA/pull/68639))
 * Fix Farstep description and some Paraclesian spells missing deduction skill ([#68636](https://github.com/CleverRaven/Cataclysm-DDA/pull/68636))
 * Allow NPC docs to install & remove CBMs from NPCS ([#68630](https://github.com/CleverRaven/Cataclysm-DDA/pull/68630))
 * Add launch configuration for VS Code dev container ([#68635](https://github.com/CleverRaven/Cataclysm-DDA/pull/68635))
@@ -84,7 +85,6 @@
 * [Xedra Evolved ] Goblin spider Captives shouldn't appear as random NPCs ([#68454](https://github.com/CleverRaven/Cataclysm-DDA/pull/68454))
 * [MoM] Rework Quell Fire and make zombie nulls delete fields after death ([#68455](https://github.com/CleverRaven/Cataclysm-DDA/pull/68455))
 * Cleanup npctalk.cpp ([#68457](https://github.com/CleverRaven/Cataclysm-DDA/pull/68457))
-* Update the table of contents in doc/JSON_INFO.md ([#68451](https://github.com/CleverRaven/Cataclysm-DDA/pull/68451))
 * [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid ([#68471](https://github.com/CleverRaven/Cataclysm-DDA/pull/68471))
 * Fix GCC9 warnings "overloaded-virtual" ([#68460](https://github.com/CleverRaven/Cataclysm-DDA/pull/68460))
 * [MoM] Remove FEAR_PARALYZE from telepathic monsters ([#68467](https://github.com/CleverRaven/Cataclysm-DDA/pull/68467))
