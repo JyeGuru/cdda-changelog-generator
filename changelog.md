@@ -1,3 +1,4 @@
+* Fix Farstep description and some Paraclesian spells missing deduction skill ([#68636](https://github.com/CleverRaven/Cataclysm-DDA/pull/68636))
 * Allow NPC docs to install & remove CBMs from NPCS ([#68630](https://github.com/CleverRaven/Cataclysm-DDA/pull/68630))
 * Add launch configuration for VS Code dev container ([#68635](https://github.com/CleverRaven/Cataclysm-DDA/pull/68635))
 * Don't show vitamin apply_message if effect isn't running on player ([#68594](https://github.com/CleverRaven/Cataclysm-DDA/pull/68594))
@@ -91,5 +92,4 @@
 * fix: toilet stools in the bookstore roof ([#68469](https://github.com/CleverRaven/Cataclysm-DDA/pull/68469))
 * Fix comestibles spawns in military base ([#68461](https://github.com/CleverRaven/Cataclysm-DDA/pull/68461))
 * properly migrate #68441 ([#68464](https://github.com/CleverRaven/Cataclysm-DDA/pull/68464))
-* Add Crafting Recipes for Gold, Silver, and Copper Necklaces ([#68450](https://github.com/CleverRaven/Cataclysm-DDA/pull/68450))
 * [XEDRA Evolved] Add canvas repair and remove unused adv sewing section ([#68452](https://github.com/CleverRaven/Cataclysm-DDA/pull/68452))
