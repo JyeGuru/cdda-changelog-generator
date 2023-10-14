@@ -1,3 +1,4 @@
+* replaced unsafe references to temporary parameters ([#68649](https://github.com/CleverRaven/Cataclysm-DDA/pull/68649))
 * Enable history for AIM and inventory filters ([#68645](https://github.com/CleverRaven/Cataclysm-DDA/pull/68645))
 * Routine i18n updates on 14 October 2023 ([#68641](https://github.com/CleverRaven/Cataclysm-DDA/pull/68641))
 * Martial arts homebook jsoning ([#68566](https://github.com/CleverRaven/Cataclysm-DDA/pull/68566))
@@ -44,7 +45,6 @@
 * Show zones on other z-levels in zone manager ([#68534](https://github.com/CleverRaven/Cataclysm-DDA/pull/68534))
 * fix tutorial typos ([#68561](https://github.com/CleverRaven/Cataclysm-DDA/pull/68561))
 * Restore automatic rifles to Krav Maga ([#68569](https://github.com/CleverRaven/Cataclysm-DDA/pull/68569))
-* [ Xedra Evolved ] Create scrap moon tears to allow ingots and wire to be crafted ([#68459](https://github.com/CleverRaven/Cataclysm-DDA/pull/68459))
 * Baldric audit? ([#68546](https://github.com/CleverRaven/Cataclysm-DDA/pull/68546))
 * Move gunsmith/blacksmith turret out of the direct path of the player ([#68533](https://github.com/CleverRaven/Cataclysm-DDA/pull/68533))
 * [Xedra Evolved] More Salamander powers ([#68509](https://github.com/CleverRaven/Cataclysm-DDA/pull/68509))
