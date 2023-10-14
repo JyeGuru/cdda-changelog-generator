@@ -1,3 +1,5 @@
+* Add 3 variants of roadblock and rebalanced loot ([#68643](https://github.com/CleverRaven/Cataclysm-DDA/pull/68643))
+* Encounters out in the fields ([#68656](https://github.com/CleverRaven/Cataclysm-DDA/pull/68656))
 * Minor density list cleanups ([#68652](https://github.com/CleverRaven/Cataclysm-DDA/pull/68652))
 * replaced unsafe references to temporary parameters ([#68649](https://github.com/CleverRaven/Cataclysm-DDA/pull/68649))
 * Enable history for AIM and inventory filters ([#68645](https://github.com/CleverRaven/Cataclysm-DDA/pull/68645))
@@ -91,5 +93,3 @@
 * [MoM] Remove FEAR_PARALYZE from telepathic monsters ([#68467](https://github.com/CleverRaven/Cataclysm-DDA/pull/68467))
 * Corrected Dirtmounds ([#68473](https://github.com/CleverRaven/Cataclysm-DDA/pull/68473))
 * fix: toilet stools in the bookstore roof ([#68469](https://github.com/CleverRaven/Cataclysm-DDA/pull/68469))
-* Fix comestibles spawns in military base ([#68461](https://github.com/CleverRaven/Cataclysm-DDA/pull/68461))
-* properly migrate #68441 ([#68464](https://github.com/CleverRaven/Cataclysm-DDA/pull/68464))
