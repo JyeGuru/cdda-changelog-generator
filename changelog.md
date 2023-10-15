@@ -1,3 +1,4 @@
+* Aftershock: Attaching atompot to mounted kitchen ([#68658](https://github.com/CleverRaven/Cataclysm-DDA/pull/68658))
 * Look up and down with 3d vision off ([#68660](https://github.com/CleverRaven/Cataclysm-DDA/pull/68660))
 * Aftershock: Make speed freak a background ([#68661](https://github.com/CleverRaven/Cataclysm-DDA/pull/68661))
 * Add 3 variants of roadblock and rebalanced loot ([#68643](https://github.com/CleverRaven/Cataclysm-DDA/pull/68643))
@@ -77,7 +78,6 @@
 * Monsters care about item theft ([#68486](https://github.com/CleverRaven/Cataclysm-DDA/pull/68486))
 * Shorten the JSON for aluminum pot and pan ([#68514](https://github.com/CleverRaven/Cataclysm-DDA/pull/68514))
 * be more specific about when to refresh gh pages ([#68515](https://github.com/CleverRaven/Cataclysm-DDA/pull/68515))
-* Fix item group error with magiclysm + defense mode enabled ([#68468](https://github.com/CleverRaven/Cataclysm-DDA/pull/68468))
 * Added More Mounds and stacks ([#68485](https://github.com/CleverRaven/Cataclysm-DDA/pull/68485))
 * Flesh Raptors should fungalize into their fungal form ([#68489](https://github.com/CleverRaven/Cataclysm-DDA/pull/68489))
 * [MoM] Add Primal Terror telepathic power ([#68511](https://github.com/CleverRaven/Cataclysm-DDA/pull/68511))
