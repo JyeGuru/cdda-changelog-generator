@@ -1,3 +1,4 @@
+* Aftershock: Make speed freak a background ([#68661](https://github.com/CleverRaven/Cataclysm-DDA/pull/68661))
 * Add 3 variants of roadblock and rebalanced loot ([#68643](https://github.com/CleverRaven/Cataclysm-DDA/pull/68643))
 * Encounters out in the fields ([#68656](https://github.com/CleverRaven/Cataclysm-DDA/pull/68656))
 * Minor density list cleanups ([#68652](https://github.com/CleverRaven/Cataclysm-DDA/pull/68652))
@@ -87,7 +88,6 @@
 * Nemesis spawn location checks on z=0 only ([#68501](https://github.com/CleverRaven/Cataclysm-DDA/pull/68501))
 * Eddie can now buy food ([#68499](https://github.com/CleverRaven/Cataclysm-DDA/pull/68499))
 * Improved path for intelligent monsters ([#68492](https://github.com/CleverRaven/Cataclysm-DDA/pull/68492))
-* Obsolete `freq` + small doc updates ([#68466](https://github.com/CleverRaven/Cataclysm-DDA/pull/68466))
 * run the full matrix tests on ready for review event ([#68483](https://github.com/CleverRaven/Cataclysm-DDA/pull/68483))
 * [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid ([#68471](https://github.com/CleverRaven/Cataclysm-DDA/pull/68471))
 * [MoM] Remove FEAR_PARALYZE from telepathic monsters ([#68467](https://github.com/CleverRaven/Cataclysm-DDA/pull/68467))
