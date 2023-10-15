@@ -1,3 +1,4 @@
+* Look up and down with 3d vision off (#68660)
 * Aftershock: Make speed freak a background (#68661)
 * Add 3 variants of roadblock and rebalanced loot (#68643)
 * Encounters out in the fields (#68656)
@@ -90,6 +91,5 @@
 * Improved path for intelligent monsters (#68492)
 * run the full matrix tests on ready for review event (#68483)
 * [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid (#68471)
-* [MoM] Remove FEAR_PARALYZE from telepathic monsters (#68467)
 * Corrected Dirtmounds (#68473)
 * fix: toilet stools in the bookstore roof (#68469)
