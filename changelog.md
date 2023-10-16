@@ -1,3 +1,4 @@
+* Prevent accidentally killing pets while playing with them. ([#68691](https://github.com/CleverRaven/Cataclysm-DDA/pull/68691))
 * fix: basic ferals mostly share drops with zombies ([#68598](https://github.com/CleverRaven/Cataclysm-DDA/pull/68598))
 * Add map related EoC functions ([#68663](https://github.com/CleverRaven/Cataclysm-DDA/pull/68663))
 * Move `basement_bionic` to bionic profession mod ([#68668](https://github.com/CleverRaven/Cataclysm-DDA/pull/68668))
@@ -86,7 +87,6 @@
 * Fixed mound names. Again. ([#68518](https://github.com/CleverRaven/Cataclysm-DDA/pull/68518))
 * Shorten the JSON for aluminum pot and pan ([#68514](https://github.com/CleverRaven/Cataclysm-DDA/pull/68514))
 * be more specific about when to refresh gh pages ([#68515](https://github.com/CleverRaven/Cataclysm-DDA/pull/68515))
-* Flesh Raptors should fungalize into their fungal form ([#68489](https://github.com/CleverRaven/Cataclysm-DDA/pull/68489))
 * [MoM] Add Primal Terror telepathic power ([#68511](https://github.com/CleverRaven/Cataclysm-DDA/pull/68511))
 * port: hotkeys for changing tabs in player info ([#68503](https://github.com/CleverRaven/Cataclysm-DDA/pull/68503))
 * ci: run github pages rebuild after exp release ([#68505](https://github.com/CleverRaven/Cataclysm-DDA/pull/68505))
