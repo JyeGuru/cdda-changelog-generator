@@ -1,3 +1,5 @@
+* Preparing for a hit, Brawling Buff (#68686)
+* [MoM] Allow removal of teleporter area attunement (#68695)
 * Improved random spawns (#68684)
 * Prevent accidentally killing pets while playing with them. (#68691)
 * fix: basic ferals mostly share drops with zombies (#68598)
@@ -90,7 +92,5 @@
 * [MoM] Add Primal Terror telepathic power (#68511)
 * port: hotkeys for changing tabs in player info (#68503)
 * ci: run github pages rebuild after exp release (#68505)
-* [MoM] Fix misspellings and description update (#68498)
 * Nemesis spawn location checks on z=0 only (#68501)
 * Eddie can now buy food (#68499)
-* Improved path for intelligent monsters (#68492)
