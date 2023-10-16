@@ -1,3 +1,4 @@
+* Gas masks: Only absorb from fields with gas_absorption set ([#68679](https://github.com/CleverRaven/Cataclysm-DDA/pull/68679))
 * Aftershock: Attaching atompot to mounted kitchen ([#68658](https://github.com/CleverRaven/Cataclysm-DDA/pull/68658))
 * Look up and down with 3d vision off ([#68660](https://github.com/CleverRaven/Cataclysm-DDA/pull/68660))
 * Aftershock: Make speed freak a background ([#68661](https://github.com/CleverRaven/Cataclysm-DDA/pull/68661))
@@ -92,4 +93,3 @@
 * run the full matrix tests on ready for review event ([#68483](https://github.com/CleverRaven/Cataclysm-DDA/pull/68483))
 * [Magiclysm] Add TREE_COMMUNION_PLUS flag to druid ([#68471](https://github.com/CleverRaven/Cataclysm-DDA/pull/68471))
 * Corrected Dirtmounds ([#68473](https://github.com/CleverRaven/Cataclysm-DDA/pull/68473))
-* fix: toilet stools in the bookstore roof ([#68469](https://github.com/CleverRaven/Cataclysm-DDA/pull/68469))
