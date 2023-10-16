@@ -1,3 +1,4 @@
+* Improved random spawns ([#68684](https://github.com/CleverRaven/Cataclysm-DDA/pull/68684))
 * Prevent accidentally killing pets while playing with them. ([#68691](https://github.com/CleverRaven/Cataclysm-DDA/pull/68691))
 * fix: basic ferals mostly share drops with zombies ([#68598](https://github.com/CleverRaven/Cataclysm-DDA/pull/68598))
 * Add map related EoC functions ([#68663](https://github.com/CleverRaven/Cataclysm-DDA/pull/68663))
@@ -79,7 +80,6 @@
 * SWAP_POS magic to different Z-levels ([#68539](https://github.com/CleverRaven/Cataclysm-DDA/pull/68539))
 * Make roofs bashable again ([#68540](https://github.com/CleverRaven/Cataclysm-DDA/pull/68540))
 * Only show dropped bucket spill warning if dropping into vehicle ([#68521](https://github.com/CleverRaven/Cataclysm-DDA/pull/68521))
-* [EOC] Add readable values and update functions ([#68490](https://github.com/CleverRaven/Cataclysm-DDA/pull/68490))
 * Rabbits 2: Oh god they zoomin ([#68523](https://github.com/CleverRaven/Cataclysm-DDA/pull/68523))
 * Fix #68104 ([#68522](https://github.com/CleverRaven/Cataclysm-DDA/pull/68522))
 * Rabbit audit ([#68516](https://github.com/CleverRaven/Cataclysm-DDA/pull/68516))
