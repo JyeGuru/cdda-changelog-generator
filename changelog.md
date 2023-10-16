@@ -1,3 +1,4 @@
+* Infarstructure: Move methods from npc to Character ([#68666](https://github.com/CleverRaven/Cataclysm-DDA/pull/68666))
 * Preparing for a hit, Brawling Buff ([#68686](https://github.com/CleverRaven/Cataclysm-DDA/pull/68686))
 * [MoM] Allow removal of teleporter area attunement ([#68695](https://github.com/CleverRaven/Cataclysm-DDA/pull/68695))
 * Improved random spawns ([#68684](https://github.com/CleverRaven/Cataclysm-DDA/pull/68684))
@@ -93,4 +94,3 @@
 * port: hotkeys for changing tabs in player info ([#68503](https://github.com/CleverRaven/Cataclysm-DDA/pull/68503))
 * ci: run github pages rebuild after exp release ([#68505](https://github.com/CleverRaven/Cataclysm-DDA/pull/68505))
 * Nemesis spawn location checks on z=0 only ([#68501](https://github.com/CleverRaven/Cataclysm-DDA/pull/68501))
-* Eddie can now buy food ([#68499](https://github.com/CleverRaven/Cataclysm-DDA/pull/68499))
