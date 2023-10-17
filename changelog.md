@@ -1,3 +1,5 @@
+* Add door_locks to prisoner, armored and luxury vehicles ([#68614](https://github.com/CleverRaven/Cataclysm-DDA/pull/68614))
+* Enforce wrap of ASCII `picture` format ([#68683](https://github.com/CleverRaven/Cataclysm-DDA/pull/68683))
 * Fix gun store item ownership ([#68699](https://github.com/CleverRaven/Cataclysm-DDA/pull/68699))
 * Cattail can be planted in shallow water ([#68664](https://github.com/CleverRaven/Cataclysm-DDA/pull/68664))
 * Infarstructure: Move methods from npc to Character ([#68666](https://github.com/CleverRaven/Cataclysm-DDA/pull/68666))
@@ -92,5 +94,3 @@
 * Shorten the JSON for aluminum pot and pan ([#68514](https://github.com/CleverRaven/Cataclysm-DDA/pull/68514))
 * be more specific about when to refresh gh pages ([#68515](https://github.com/CleverRaven/Cataclysm-DDA/pull/68515))
 * [MoM] Add Primal Terror telepathic power ([#68511](https://github.com/CleverRaven/Cataclysm-DDA/pull/68511))
-* port: hotkeys for changing tabs in player info ([#68503](https://github.com/CleverRaven/Cataclysm-DDA/pull/68503))
-* ci: run github pages rebuild after exp release ([#68505](https://github.com/CleverRaven/Cataclysm-DDA/pull/68505))
