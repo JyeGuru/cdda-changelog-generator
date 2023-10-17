@@ -1,3 +1,4 @@
+* Fix evaluation of Knowledge in chargen ([#68698](https://github.com/CleverRaven/Cataclysm-DDA/pull/68698))
 * [Xedra Evolved] Change Arvore One with the Forest to reduce thirst ([#68700](https://github.com/CleverRaven/Cataclysm-DDA/pull/68700))
 * Standing mirror as item ([#68694](https://github.com/CleverRaven/Cataclysm-DDA/pull/68694))
 * updated the drop hammer ([#68697](https://github.com/CleverRaven/Cataclysm-DDA/pull/68697))
@@ -93,4 +94,3 @@
 * Only show dropped bucket spill warning if dropping into vehicle ([#68521](https://github.com/CleverRaven/Cataclysm-DDA/pull/68521))
 * Rabbits 2: Oh god they zoomin ([#68523](https://github.com/CleverRaven/Cataclysm-DDA/pull/68523))
 * Fix #68104 ([#68522](https://github.com/CleverRaven/Cataclysm-DDA/pull/68522))
-* Fixed mound names. Again. ([#68518](https://github.com/CleverRaven/Cataclysm-DDA/pull/68518))
