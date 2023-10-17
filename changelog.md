@@ -1,3 +1,4 @@
+* Refugee Center Arsonist's Mission Description Clarification ([#68716](https://github.com/CleverRaven/Cataclysm-DDA/pull/68716))
 * Stockings variant ([#68706](https://github.com/CleverRaven/Cataclysm-DDA/pull/68706))
 * Fix evaluation of Knowledge in chargen ([#68698](https://github.com/CleverRaven/Cataclysm-DDA/pull/68698))
 * [Xedra Evolved] Change Arvore One with the Forest to reduce thirst ([#68700](https://github.com/CleverRaven/Cataclysm-DDA/pull/68700))
@@ -93,4 +94,3 @@
 * SWAP_POS magic to different Z-levels ([#68539](https://github.com/CleverRaven/Cataclysm-DDA/pull/68539))
 * Make roofs bashable again ([#68540](https://github.com/CleverRaven/Cataclysm-DDA/pull/68540))
 * Rabbits 2: Oh god they zoomin ([#68523](https://github.com/CleverRaven/Cataclysm-DDA/pull/68523))
-* Fix #68104 ([#68522](https://github.com/CleverRaven/Cataclysm-DDA/pull/68522))
