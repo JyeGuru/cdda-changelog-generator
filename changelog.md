@@ -1,3 +1,4 @@
+* [Xedra Evolved] Change Arvore One with the Forest to reduce thirst ([#68700](https://github.com/CleverRaven/Cataclysm-DDA/pull/68700))
 * Standing mirror as item ([#68694](https://github.com/CleverRaven/Cataclysm-DDA/pull/68694))
 * updated the drop hammer ([#68697](https://github.com/CleverRaven/Cataclysm-DDA/pull/68697))
 * Update seed.json ([#68702](https://github.com/CleverRaven/Cataclysm-DDA/pull/68702))
@@ -85,7 +86,6 @@
 * Split drop leg poches ([#68544](https://github.com/CleverRaven/Cataclysm-DDA/pull/68544))
 * More Mission Descriptions ([#68543](https://github.com/CleverRaven/Cataclysm-DDA/pull/68543))
 * XL Kettle craftable ([#68545](https://github.com/CleverRaven/Cataclysm-DDA/pull/68545))
-* Dance with Draco in the refugee center ([#68517](https://github.com/CleverRaven/Cataclysm-DDA/pull/68517))
 * Make zone manager display more of zone name ([#68537](https://github.com/CleverRaven/Cataclysm-DDA/pull/68537))
 * add mat dry_plant to pile of straw ([#68531](https://github.com/CleverRaven/Cataclysm-DDA/pull/68531))
 * SWAP_POS magic to different Z-levels ([#68539](https://github.com/CleverRaven/Cataclysm-DDA/pull/68539))
