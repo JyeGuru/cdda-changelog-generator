@@ -1,3 +1,4 @@
+* Stockings variant (#68706)
 * Fix evaluation of Knowledge in chargen (#68698)
 * [Xedra Evolved] Change Arvore One with the Forest to reduce thirst (#68700)
 * Standing mirror as item (#68694)
@@ -91,6 +92,5 @@
 * add mat dry_plant to pile of straw (#68531)
 * SWAP_POS magic to different Z-levels (#68539)
 * Make roofs bashable again (#68540)
-* Only show dropped bucket spill warning if dropping into vehicle (#68521)
 * Rabbits 2: Oh god they zoomin (#68523)
 * Fix #68104 (#68522)
