@@ -1,3 +1,5 @@
+* NPCs won't complain about noise if traits are set to ignore noise (#68727)
+* Fix pomegranate calories (#68728)
 * Refugee Center Arsonist's Mission Description Clarification (#68716)
 * Stockings variant (#68706)
 * Fix evaluation of Knowledge in chargen (#68698)
@@ -90,6 +92,5 @@
 * More Mission Descriptions (#68543)
 * XL Kettle craftable (#68545)
 * Make zone manager display more of zone name (#68537)
-* add mat dry_plant to pile of straw (#68531)
 * SWAP_POS magic to different Z-levels (#68539)
 * Make roofs bashable again (#68540)
