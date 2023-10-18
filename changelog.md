@@ -93,4 +93,3 @@
 * add mat dry_plant to pile of straw ([#68531](https://github.com/CleverRaven/Cataclysm-DDA/pull/68531))
 * SWAP_POS magic to different Z-levels ([#68539](https://github.com/CleverRaven/Cataclysm-DDA/pull/68539))
 * Make roofs bashable again ([#68540](https://github.com/CleverRaven/Cataclysm-DDA/pull/68540))
-* Rabbits 2: Oh god they zoomin ([#68523](https://github.com/CleverRaven/Cataclysm-DDA/pull/68523))
