@@ -1,3 +1,5 @@
+* Give Eddie some more personality (#68710)
+* Minor froggy edits (#68748)
 * Allow culling more dogs (#68711)
 * Fix up shot_spread_multiplier_modifier (#68732)
 * NPCs won't complain about noise if traits are set to ignore noise (#68727)
@@ -91,6 +93,4 @@
 * Split drop leg poches (#68544)
 * More Mission Descriptions (#68543)
 * XL Kettle craftable (#68545)
-* Make zone manager display more of zone name (#68537)
-* SWAP_POS magic to different Z-levels (#68539)
 * Make roofs bashable again (#68540)

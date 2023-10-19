@@ -1,3 +1,5 @@
+* Give Eddie some more personality ([#68710](https://github.com/CleverRaven/Cataclysm-DDA/pull/68710))
+* Minor froggy edits ([#68748](https://github.com/CleverRaven/Cataclysm-DDA/pull/68748))
 * Allow culling more dogs ([#68711](https://github.com/CleverRaven/Cataclysm-DDA/pull/68711))
 * Fix up shot_spread_multiplier_modifier ([#68732](https://github.com/CleverRaven/Cataclysm-DDA/pull/68732))
 * NPCs won't complain about noise if traits are set to ignore noise ([#68727](https://github.com/CleverRaven/Cataclysm-DDA/pull/68727))
@@ -91,6 +93,4 @@
 * Split drop leg poches ([#68544](https://github.com/CleverRaven/Cataclysm-DDA/pull/68544))
 * More Mission Descriptions ([#68543](https://github.com/CleverRaven/Cataclysm-DDA/pull/68543))
 * XL Kettle craftable ([#68545](https://github.com/CleverRaven/Cataclysm-DDA/pull/68545))
-* Make zone manager display more of zone name ([#68537](https://github.com/CleverRaven/Cataclysm-DDA/pull/68537))
-* SWAP_POS magic to different Z-levels ([#68539](https://github.com/CleverRaven/Cataclysm-DDA/pull/68539))
 * Make roofs bashable again ([#68540](https://github.com/CleverRaven/Cataclysm-DDA/pull/68540))
