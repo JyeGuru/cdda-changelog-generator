@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add gossamer material and clothing ([#68723](https://github.com/CleverRaven/Cataclysm-DDA/pull/68723))
 * Give Eddie some more personality ([#68710](https://github.com/CleverRaven/Cataclysm-DDA/pull/68710))
 * Minor froggy edits ([#68748](https://github.com/CleverRaven/Cataclysm-DDA/pull/68748))
 * Allow culling more dogs ([#68711](https://github.com/CleverRaven/Cataclysm-DDA/pull/68711))
@@ -93,4 +94,3 @@
 * Split drop leg poches ([#68544](https://github.com/CleverRaven/Cataclysm-DDA/pull/68544))
 * More Mission Descriptions ([#68543](https://github.com/CleverRaven/Cataclysm-DDA/pull/68543))
 * XL Kettle craftable ([#68545](https://github.com/CleverRaven/Cataclysm-DDA/pull/68545))
-* Make roofs bashable again ([#68540](https://github.com/CleverRaven/Cataclysm-DDA/pull/68540))
