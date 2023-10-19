@@ -1,3 +1,4 @@
+* Adding some basic blacksmithing tools to the general tools pool (#68673)
 * [Xedra Evolved] Add gossamer material and clothing (#68723)
 * Give Eddie some more personality (#68710)
 * Minor froggy edits (#68748)
@@ -89,7 +90,6 @@
 * Custom sidebar mana widgets (#68553)
 * [MoM] Allow use of psionics to train Metaphysics (#68555)
 * The end of the Rabbit Saga (#68560)
-* Show estimated time when washing items (#68542)
 * Add cottontail (wild) rabbits (#68547)
 * Split drop leg poches (#68544)
 * More Mission Descriptions (#68543)

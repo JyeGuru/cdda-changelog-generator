@@ -1,3 +1,4 @@
+* Adding some basic blacksmithing tools to the general tools pool ([#68673](https://github.com/CleverRaven/Cataclysm-DDA/pull/68673))
 * [Xedra Evolved] Add gossamer material and clothing ([#68723](https://github.com/CleverRaven/Cataclysm-DDA/pull/68723))
 * Give Eddie some more personality ([#68710](https://github.com/CleverRaven/Cataclysm-DDA/pull/68710))
 * Minor froggy edits ([#68748](https://github.com/CleverRaven/Cataclysm-DDA/pull/68748))
@@ -89,7 +90,6 @@
 * Custom sidebar mana widgets ([#68553](https://github.com/CleverRaven/Cataclysm-DDA/pull/68553))
 * [MoM] Allow use of psionics to train Metaphysics ([#68555](https://github.com/CleverRaven/Cataclysm-DDA/pull/68555))
 * The end of the Rabbit Saga ([#68560](https://github.com/CleverRaven/Cataclysm-DDA/pull/68560))
-* Show estimated time when washing items ([#68542](https://github.com/CleverRaven/Cataclysm-DDA/pull/68542))
 * Add cottontail (wild) rabbits ([#68547](https://github.com/CleverRaven/Cataclysm-DDA/pull/68547))
 * Split drop leg poches ([#68544](https://github.com/CleverRaven/Cataclysm-DDA/pull/68544))
 * More Mission Descriptions ([#68543](https://github.com/CleverRaven/Cataclysm-DDA/pull/68543))
