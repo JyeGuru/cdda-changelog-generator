@@ -1,3 +1,4 @@
+* Adjust military sniper skill.json ([#68746](https://github.com/CleverRaven/Cataclysm-DDA/pull/68746))
 * Adding some basic blacksmithing tools to the general tools pool ([#68673](https://github.com/CleverRaven/Cataclysm-DDA/pull/68673))
 * [Xedra Evolved] Add gossamer material and clothing ([#68723](https://github.com/CleverRaven/Cataclysm-DDA/pull/68723))
 * Give Eddie some more personality ([#68710](https://github.com/CleverRaven/Cataclysm-DDA/pull/68710))
@@ -92,5 +93,4 @@
 * The end of the Rabbit Saga ([#68560](https://github.com/CleverRaven/Cataclysm-DDA/pull/68560))
 * Add cottontail (wild) rabbits ([#68547](https://github.com/CleverRaven/Cataclysm-DDA/pull/68547))
 * Split drop leg poches ([#68544](https://github.com/CleverRaven/Cataclysm-DDA/pull/68544))
-* More Mission Descriptions ([#68543](https://github.com/CleverRaven/Cataclysm-DDA/pull/68543))
 * XL Kettle craftable ([#68545](https://github.com/CleverRaven/Cataclysm-DDA/pull/68545))

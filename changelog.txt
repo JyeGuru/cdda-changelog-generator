@@ -1,3 +1,4 @@
+* Adjust military sniper skill.json (#68746)
 * Adding some basic blacksmithing tools to the general tools pool (#68673)
 * [Xedra Evolved] Add gossamer material and clothing (#68723)
 * Give Eddie some more personality (#68710)
@@ -92,5 +93,4 @@
 * The end of the Rabbit Saga (#68560)
 * Add cottontail (wild) rabbits (#68547)
 * Split drop leg poches (#68544)
-* More Mission Descriptions (#68543)
 * XL Kettle craftable (#68545)
