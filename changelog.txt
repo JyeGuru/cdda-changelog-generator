@@ -1,3 +1,5 @@
+* Fix some Defense Mode mapgen bugs (#68757)
+* Add Paraclesian imbuements (#68626)
 * Adjust military sniper skill.json (#68746)
 * Adding some basic blacksmithing tools to the general tools pool (#68673)
 * [Xedra Evolved] Add gossamer material and clothing (#68723)
@@ -92,5 +94,3 @@
 * [MoM] Allow use of psionics to train Metaphysics (#68555)
 * The end of the Rabbit Saga (#68560)
 * Add cottontail (wild) rabbits (#68547)
-* Split drop leg poches (#68544)
-* XL Kettle craftable (#68545)

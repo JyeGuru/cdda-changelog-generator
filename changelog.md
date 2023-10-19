@@ -1,3 +1,5 @@
+* Fix some Defense Mode mapgen bugs ([#68757](https://github.com/CleverRaven/Cataclysm-DDA/pull/68757))
+* Add Paraclesian imbuements ([#68626](https://github.com/CleverRaven/Cataclysm-DDA/pull/68626))
 * Adjust military sniper skill.json ([#68746](https://github.com/CleverRaven/Cataclysm-DDA/pull/68746))
 * Adding some basic blacksmithing tools to the general tools pool ([#68673](https://github.com/CleverRaven/Cataclysm-DDA/pull/68673))
 * [Xedra Evolved] Add gossamer material and clothing ([#68723](https://github.com/CleverRaven/Cataclysm-DDA/pull/68723))
@@ -92,5 +94,3 @@
 * [MoM] Allow use of psionics to train Metaphysics ([#68555](https://github.com/CleverRaven/Cataclysm-DDA/pull/68555))
 * The end of the Rabbit Saga ([#68560](https://github.com/CleverRaven/Cataclysm-DDA/pull/68560))
 * Add cottontail (wild) rabbits ([#68547](https://github.com/CleverRaven/Cataclysm-DDA/pull/68547))
-* Split drop leg poches ([#68544](https://github.com/CleverRaven/Cataclysm-DDA/pull/68544))
-* XL Kettle craftable ([#68545](https://github.com/CleverRaven/Cataclysm-DDA/pull/68545))
