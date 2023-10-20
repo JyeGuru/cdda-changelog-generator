@@ -1,3 +1,4 @@
+* Fix primer shortage message appears inappropriately when you fail to mutate ([#68708](https://github.com/CleverRaven/Cataclysm-DDA/pull/68708))
 * Fix Marksman's Eye duration ([#68767](https://github.com/CleverRaven/Cataclysm-DDA/pull/68767))
 * Improve forest generation next to rivers and lakes ([#68750](https://github.com/CleverRaven/Cataclysm-DDA/pull/68750))
 * Add the butcher as a profession ([#68754](https://github.com/CleverRaven/Cataclysm-DDA/pull/68754))
@@ -93,5 +94,4 @@
 * Improve monster reaction to player theft ([#68563](https://github.com/CleverRaven/Cataclysm-DDA/pull/68563))
 * fix tutorial typos ([#68561](https://github.com/CleverRaven/Cataclysm-DDA/pull/68561))
 * Restore automatic rifles to Krav Maga ([#68569](https://github.com/CleverRaven/Cataclysm-DDA/pull/68569))
-* [MoM] Allow use of psionics to train Metaphysics ([#68555](https://github.com/CleverRaven/Cataclysm-DDA/pull/68555))
 * The end of the Rabbit Saga ([#68560](https://github.com/CleverRaven/Cataclysm-DDA/pull/68560))
