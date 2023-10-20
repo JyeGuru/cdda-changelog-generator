@@ -1,3 +1,4 @@
+* Fix typo ([#68762](https://github.com/CleverRaven/Cataclysm-DDA/pull/68762))
 * Fix some Defense Mode mapgen bugs ([#68757](https://github.com/CleverRaven/Cataclysm-DDA/pull/68757))
 * Add Paraclesian imbuements ([#68626](https://github.com/CleverRaven/Cataclysm-DDA/pull/68626))
 * Adjust military sniper skill.json ([#68746](https://github.com/CleverRaven/Cataclysm-DDA/pull/68746))
@@ -89,7 +90,6 @@
 * Professions can start with multiple martial arts ([#68548](https://github.com/CleverRaven/Cataclysm-DDA/pull/68548))
 * fix tutorial typos ([#68561](https://github.com/CleverRaven/Cataclysm-DDA/pull/68561))
 * Restore automatic rifles to Krav Maga ([#68569](https://github.com/CleverRaven/Cataclysm-DDA/pull/68569))
-* Baldric audit? ([#68546](https://github.com/CleverRaven/Cataclysm-DDA/pull/68546))
 * Custom sidebar mana widgets ([#68553](https://github.com/CleverRaven/Cataclysm-DDA/pull/68553))
 * [MoM] Allow use of psionics to train Metaphysics ([#68555](https://github.com/CleverRaven/Cataclysm-DDA/pull/68555))
 * The end of the Rabbit Saga ([#68560](https://github.com/CleverRaven/Cataclysm-DDA/pull/68560))

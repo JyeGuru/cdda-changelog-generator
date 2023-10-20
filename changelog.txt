@@ -1,3 +1,4 @@
+* Fix typo (#68762)
 * Fix some Defense Mode mapgen bugs (#68757)
 * Add Paraclesian imbuements (#68626)
 * Adjust military sniper skill.json (#68746)
@@ -89,7 +90,6 @@
 * Professions can start with multiple martial arts (#68548)
 * fix tutorial typos (#68561)
 * Restore automatic rifles to Krav Maga (#68569)
-* Baldric audit? (#68546)
 * Custom sidebar mana widgets (#68553)
 * [MoM] Allow use of psionics to train Metaphysics (#68555)
 * The end of the Rabbit Saga (#68560)
