@@ -94,5 +94,4 @@
 * Deduplicated lab notes ([#68572](https://github.com/CleverRaven/Cataclysm-DDA/pull/68572))
 * Refugee Center's Surface Refugee Mission Descriptions ([#68576](https://github.com/CleverRaven/Cataclysm-DDA/pull/68576))
 * Remember inventory show/hide all contents option state ([#68564](https://github.com/CleverRaven/Cataclysm-DDA/pull/68564))
-* Improve monster reaction to player theft ([#68563](https://github.com/CleverRaven/Cataclysm-DDA/pull/68563))
 * Restore automatic rifles to Krav Maga ([#68569](https://github.com/CleverRaven/Cataclysm-DDA/pull/68569))
