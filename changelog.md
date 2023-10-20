@@ -1,3 +1,4 @@
+* Revamp foldable solar panels ([#68705](https://github.com/CleverRaven/Cataclysm-DDA/pull/68705))
 * Fix primer shortage message appears inappropriately when you fail to mutate ([#68708](https://github.com/CleverRaven/Cataclysm-DDA/pull/68708))
 * Fix Marksman's Eye duration ([#68767](https://github.com/CleverRaven/Cataclysm-DDA/pull/68767))
 * Improve forest generation next to rivers and lakes ([#68750](https://github.com/CleverRaven/Cataclysm-DDA/pull/68750))
@@ -89,7 +90,6 @@
 * Apply COLDPROOF ([#68573](https://github.com/CleverRaven/Cataclysm-DDA/pull/68573))
 * Deduplicated lab notes ([#68572](https://github.com/CleverRaven/Cataclysm-DDA/pull/68572))
 * Refugee Center's Surface Refugee Mission Descriptions ([#68576](https://github.com/CleverRaven/Cataclysm-DDA/pull/68576))
-* Hub 01 mission description clarification ([#68557](https://github.com/CleverRaven/Cataclysm-DDA/pull/68557))
 * Remember inventory show/hide all contents option state ([#68564](https://github.com/CleverRaven/Cataclysm-DDA/pull/68564))
 * Improve monster reaction to player theft ([#68563](https://github.com/CleverRaven/Cataclysm-DDA/pull/68563))
 * fix tutorial typos ([#68561](https://github.com/CleverRaven/Cataclysm-DDA/pull/68561))
