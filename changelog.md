@@ -1,3 +1,5 @@
+* Add spell class selecter to spell casting menu ([#68761](https://github.com/CleverRaven/Cataclysm-DDA/pull/68761))
+* "Faction Succession" Mission Description Clarification ([#68774](https://github.com/CleverRaven/Cataclysm-DDA/pull/68774))
 * EOD Fingies ([#68690](https://github.com/CleverRaven/Cataclysm-DDA/pull/68690))
 * Steel Kevlar Jumpsuit updated recipe ([#68768](https://github.com/CleverRaven/Cataclysm-DDA/pull/68768))
 * [MoM] Fix Speed Reader duration ([#68771](https://github.com/CleverRaven/Cataclysm-DDA/pull/68771))
@@ -57,7 +59,6 @@
 * replaced unsafe references to temporary parameters ([#68649](https://github.com/CleverRaven/Cataclysm-DDA/pull/68649))
 * Enable history for AIM and inventory filters ([#68645](https://github.com/CleverRaven/Cataclysm-DDA/pull/68645))
 * Routine i18n updates on 14 October 2023 ([#68641](https://github.com/CleverRaven/Cataclysm-DDA/pull/68641))
-* Martial arts homebook jsoning ([#68566](https://github.com/CleverRaven/Cataclysm-DDA/pull/68566))
 * EOD loudout added ([#68601](https://github.com/CleverRaven/Cataclysm-DDA/pull/68601))
 * HWP breacher configuration ([#68628](https://github.com/CleverRaven/Cataclysm-DDA/pull/68628))
 * Fix aftershock chemrig bugs ([#68639](https://github.com/CleverRaven/Cataclysm-DDA/pull/68639))
@@ -93,4 +94,3 @@
 * Apply COLDPROOF ([#68573](https://github.com/CleverRaven/Cataclysm-DDA/pull/68573))
 * Deduplicated lab notes ([#68572](https://github.com/CleverRaven/Cataclysm-DDA/pull/68572))
 * Refugee Center's Surface Refugee Mission Descriptions ([#68576](https://github.com/CleverRaven/Cataclysm-DDA/pull/68576))
-* Restore automatic rifles to Krav Maga ([#68569](https://github.com/CleverRaven/Cataclysm-DDA/pull/68569))
