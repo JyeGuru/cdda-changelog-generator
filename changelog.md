@@ -1,3 +1,4 @@
+* Move FMS in docs ([#68779](https://github.com/CleverRaven/Cataclysm-DDA/pull/68779))
 * Routine i18n updates on 21 October 2023 ([#68783](https://github.com/CleverRaven/Cataclysm-DDA/pull/68783))
 * Fix skill rust ([#68784](https://github.com/CleverRaven/Cataclysm-DDA/pull/68784))
 * Improved temperature map display ([#68617](https://github.com/CleverRaven/Cataclysm-DDA/pull/68617))
