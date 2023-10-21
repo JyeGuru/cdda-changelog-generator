@@ -1,3 +1,4 @@
+* Improved temperature map display ([#68617](https://github.com/CleverRaven/Cataclysm-DDA/pull/68617))
 * [MoM] Add the Hodag, a biokinetic mutant cow ([#68712](https://github.com/CleverRaven/Cataclysm-DDA/pull/68712))
 * Update washboard length ([#68713](https://github.com/CleverRaven/Cataclysm-DDA/pull/68713))
 * Add spell class selecter to spell casting menu ([#68761](https://github.com/CleverRaven/Cataclysm-DDA/pull/68761))
@@ -92,5 +93,4 @@
 * Amputees don't have socks, mutant has wheelchair ([#68592](https://github.com/CleverRaven/Cataclysm-DDA/pull/68592))
 * Remove mention of attracting vermin from butchery refuse ([#68588](https://github.com/CleverRaven/Cataclysm-DDA/pull/68588))
 * Display what mod the contents belong to, scenario, profession, map ([#68585](https://github.com/CleverRaven/Cataclysm-DDA/pull/68585))
-* Apply COLDPROOF ([#68573](https://github.com/CleverRaven/Cataclysm-DDA/pull/68573))
 * Refugee Center's Surface Refugee Mission Descriptions ([#68576](https://github.com/CleverRaven/Cataclysm-DDA/pull/68576))
