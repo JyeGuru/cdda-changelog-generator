@@ -1,3 +1,4 @@
+* Fix skill rust (#68784)
 * Improved temperature map display (#68617)
 * [MoM] Add the Hodag, a biokinetic mutant cow (#68712)
 * Update washboard length (#68713)
@@ -88,7 +89,6 @@
 * fix: integrated multitool does not do welding (#68584)
 * Bugfix directed_push with negative damage (#68590)
 * Make ground mounted solar panels more efficient (#68603)
-* Expanded base camp/expansion concept of 'field' (#68574)
 * fix: add coverage to flaming fist (#68597)
 * Amputees don't have socks, mutant has wheelchair (#68592)
 * Remove mention of attracting vermin from butchery refuse (#68588)
