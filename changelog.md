@@ -1,3 +1,4 @@
+* Routine i18n updates on 21 October 2023 ([#68783](https://github.com/CleverRaven/Cataclysm-DDA/pull/68783))
 * Fix skill rust ([#68784](https://github.com/CleverRaven/Cataclysm-DDA/pull/68784))
 * Improved temperature map display ([#68617](https://github.com/CleverRaven/Cataclysm-DDA/pull/68617))
 * [MoM] Add the Hodag, a biokinetic mutant cow ([#68712](https://github.com/CleverRaven/Cataclysm-DDA/pull/68712))
@@ -93,4 +94,3 @@
 * Amputees don't have socks, mutant has wheelchair ([#68592](https://github.com/CleverRaven/Cataclysm-DDA/pull/68592))
 * Remove mention of attracting vermin from butchery refuse ([#68588](https://github.com/CleverRaven/Cataclysm-DDA/pull/68588))
 * Display what mod the contents belong to, scenario, profession, map ([#68585](https://github.com/CleverRaven/Cataclysm-DDA/pull/68585))
-* Refugee Center's Surface Refugee Mission Descriptions ([#68576](https://github.com/CleverRaven/Cataclysm-DDA/pull/68576))
