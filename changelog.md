@@ -1,3 +1,4 @@
+* fix left border (Loading screen) ([#68794](https://github.com/CleverRaven/Cataclysm-DDA/pull/68794))
 * [innawood] Improve forest generation next to streams ([#68786](https://github.com/CleverRaven/Cataclysm-DDA/pull/68786))
 * Hopefully just the flyer snippet  ([#68782](https://github.com/CleverRaven/Cataclysm-DDA/pull/68782))
 * Move FMS in docs ([#68779](https://github.com/CleverRaven/Cataclysm-DDA/pull/68779))
@@ -74,7 +75,6 @@
 * Allow NPC docs to install & remove CBMs from NPCS ([#68630](https://github.com/CleverRaven/Cataclysm-DDA/pull/68630))
 * Add launch configuration for VS Code dev container ([#68635](https://github.com/CleverRaven/Cataclysm-DDA/pull/68635))
 * Don't show vitamin apply_message if effect isn't running on player ([#68594](https://github.com/CleverRaven/Cataclysm-DDA/pull/68594))
-* Audit weapon categories for swords and sword-based martial arts. ([#68582](https://github.com/CleverRaven/Cataclysm-DDA/pull/68582))
 * Find items that cover body part ([#68623](https://github.com/CleverRaven/Cataclysm-DDA/pull/68623))
 * Make furniture->lockpick_message translatable ([#68627](https://github.com/CleverRaven/Cataclysm-DDA/pull/68627))
 * Quick round of Aftershock bugfixing ([#68629](https://github.com/CleverRaven/Cataclysm-DDA/pull/68629))
