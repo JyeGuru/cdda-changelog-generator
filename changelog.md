@@ -1,3 +1,4 @@
+* [innawood] Improve forest generation next to streams ([#68786](https://github.com/CleverRaven/Cataclysm-DDA/pull/68786))
 * Hopefully just the flyer snippet  ([#68782](https://github.com/CleverRaven/Cataclysm-DDA/pull/68782))
 * Move FMS in docs ([#68779](https://github.com/CleverRaven/Cataclysm-DDA/pull/68779))
 * Routine i18n updates on 21 October 2023 ([#68783](https://github.com/CleverRaven/Cataclysm-DDA/pull/68783))
@@ -77,7 +78,6 @@
 * Find items that cover body part ([#68623](https://github.com/CleverRaven/Cataclysm-DDA/pull/68623))
 * Make furniture->lockpick_message translatable ([#68627](https://github.com/CleverRaven/Cataclysm-DDA/pull/68627))
 * Quick round of Aftershock bugfixing ([#68629](https://github.com/CleverRaven/Cataclysm-DDA/pull/68629))
-* Balance tweaks for lieutenant 'Shadow' ([#68581](https://github.com/CleverRaven/Cataclysm-DDA/pull/68581))
 * Allow "run_eoc_selector" cancelling out of the menu ([#68625](https://github.com/CleverRaven/Cataclysm-DDA/pull/68625))
 * fixed broken salt water pipe ([#68619](https://github.com/CleverRaven/Cataclysm-DDA/pull/68619))
 * A Mound of Typo Fixes ([#68583](https://github.com/CleverRaven/Cataclysm-DDA/pull/68583))
