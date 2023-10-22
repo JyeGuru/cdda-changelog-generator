@@ -1,3 +1,4 @@
+* "Fungal infestation in city park" map extra ([#68752](https://github.com/CleverRaven/Cataclysm-DDA/pull/68752))
 * fix left border (Loading screen) ([#68794](https://github.com/CleverRaven/Cataclysm-DDA/pull/68794))
 * [innawood] Improve forest generation next to streams ([#68786](https://github.com/CleverRaven/Cataclysm-DDA/pull/68786))
 * Hopefully just the flyer snippet  ([#68782](https://github.com/CleverRaven/Cataclysm-DDA/pull/68782))
@@ -80,7 +81,6 @@
 * Quick round of Aftershock bugfixing ([#68629](https://github.com/CleverRaven/Cataclysm-DDA/pull/68629))
 * Allow "run_eoc_selector" cancelling out of the menu ([#68625](https://github.com/CleverRaven/Cataclysm-DDA/pull/68625))
 * fixed broken salt water pipe ([#68619](https://github.com/CleverRaven/Cataclysm-DDA/pull/68619))
-* A Mound of Typo Fixes ([#68583](https://github.com/CleverRaven/Cataclysm-DDA/pull/68583))
 * [Xedra Evolved] Take Eaters MTF's extra watch ([#68618](https://github.com/CleverRaven/Cataclysm-DDA/pull/68618))
 * Cattail shouldn't be plantable on land ([#68616](https://github.com/CleverRaven/Cataclysm-DDA/pull/68616))
 * Allow NPC_DEATH EoC to prevent NPC dies ([#68600](https://github.com/CleverRaven/Cataclysm-DDA/pull/68600))
