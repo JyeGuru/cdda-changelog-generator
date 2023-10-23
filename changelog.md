@@ -1,3 +1,4 @@
+* Misc gun damage fix ([#68815](https://github.com/CleverRaven/Cataclysm-DDA/pull/68815))
 * Few docs fixes ([#68738](https://github.com/CleverRaven/Cataclysm-DDA/pull/68738))
 * Fix handling of item modifiers overriding tool charges from subgroups ([#68736](https://github.com/CleverRaven/Cataclysm-DDA/pull/68736))
 * [MoM] Add tier 3 feral telepath, the Instiller of Nightmares + fix some issues ([#68802](https://github.com/CleverRaven/Cataclysm-DDA/pull/68802))
@@ -91,7 +92,6 @@
 * fixed broken salt water pipe ([#68619](https://github.com/CleverRaven/Cataclysm-DDA/pull/68619))
 * [Xedra Evolved] Take Eaters MTF's extra watch ([#68618](https://github.com/CleverRaven/Cataclysm-DDA/pull/68618))
 * Cattail shouldn't be plantable on land ([#68616](https://github.com/CleverRaven/Cataclysm-DDA/pull/68616))
-* Allow NPC_DEATH EoC to prevent NPC dies ([#68600](https://github.com/CleverRaven/Cataclysm-DDA/pull/68600))
 * Procgen relic "multiply" enchantments use float not integer ([#68607](https://github.com/CleverRaven/Cataclysm-DDA/pull/68607))
 * expanded base camp log cutting locations ([#68604](https://github.com/CleverRaven/Cataclysm-DDA/pull/68604))
 * Make ground mounted solar panels more efficient ([#68603](https://github.com/CleverRaven/Cataclysm-DDA/pull/68603))
