@@ -1,3 +1,4 @@
+* Anvil disassembly recipes ([#68807](https://github.com/CleverRaven/Cataclysm-DDA/pull/68807))
 * Add more prosthetics and their recipes ([#68819](https://github.com/CleverRaven/Cataclysm-DDA/pull/68819))
 * Small bad density list cleanup ([#68813](https://github.com/CleverRaven/Cataclysm-DDA/pull/68813))
 * UIMenu key fix ([#68809](https://github.com/CleverRaven/Cataclysm-DDA/pull/68809))
@@ -55,7 +56,6 @@
 * Update seed.json ([#68702](https://github.com/CleverRaven/Cataclysm-DDA/pull/68702))
 * Fix cash cards spawning with rand_charges ([#68704](https://github.com/CleverRaven/Cataclysm-DDA/pull/68704))
 * Mercenary set Improvements ([#68685](https://github.com/CleverRaven/Cataclysm-DDA/pull/68685))
-* Add door_locks to prisoner, armored and luxury vehicles ([#68614](https://github.com/CleverRaven/Cataclysm-DDA/pull/68614))
 * Enforce wrap of ASCII `picture` format ([#68683](https://github.com/CleverRaven/Cataclysm-DDA/pull/68683))
 * Fix gun store item ownership ([#68699](https://github.com/CleverRaven/Cataclysm-DDA/pull/68699))
 * Cattail can be planted in shallow water ([#68664](https://github.com/CleverRaven/Cataclysm-DDA/pull/68664))
