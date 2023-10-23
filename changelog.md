@@ -1,3 +1,4 @@
+* UIMenu key fix ([#68809](https://github.com/CleverRaven/Cataclysm-DDA/pull/68809))
 * Misc gun damage fix ([#68815](https://github.com/CleverRaven/Cataclysm-DDA/pull/68815))
 * Few docs fixes ([#68738](https://github.com/CleverRaven/Cataclysm-DDA/pull/68738))
 * Fix handling of item modifiers overriding tool charges from subgroups ([#68736](https://github.com/CleverRaven/Cataclysm-DDA/pull/68736))
@@ -79,7 +80,6 @@
 * replaced unsafe references to temporary parameters ([#68649](https://github.com/CleverRaven/Cataclysm-DDA/pull/68649))
 * Enable history for AIM and inventory filters ([#68645](https://github.com/CleverRaven/Cataclysm-DDA/pull/68645))
 * Routine i18n updates on 14 October 2023 ([#68641](https://github.com/CleverRaven/Cataclysm-DDA/pull/68641))
-* EOD loudout added ([#68601](https://github.com/CleverRaven/Cataclysm-DDA/pull/68601))
 * HWP breacher configuration ([#68628](https://github.com/CleverRaven/Cataclysm-DDA/pull/68628))
 * Fix aftershock chemrig bugs ([#68639](https://github.com/CleverRaven/Cataclysm-DDA/pull/68639))
 * Fix Farstep description and some Paraclesian spells missing deduction skill ([#68636](https://github.com/CleverRaven/Cataclysm-DDA/pull/68636))
