@@ -1,3 +1,4 @@
+* Add more prosthetics and their recipes ([#68819](https://github.com/CleverRaven/Cataclysm-DDA/pull/68819))
 * Small bad density list cleanup ([#68813](https://github.com/CleverRaven/Cataclysm-DDA/pull/68813))
 * UIMenu key fix ([#68809](https://github.com/CleverRaven/Cataclysm-DDA/pull/68809))
 * Misc gun damage fix ([#68815](https://github.com/CleverRaven/Cataclysm-DDA/pull/68815))
@@ -93,4 +94,3 @@
 * fixed broken salt water pipe ([#68619](https://github.com/CleverRaven/Cataclysm-DDA/pull/68619))
 * [Xedra Evolved] Take Eaters MTF's extra watch ([#68618](https://github.com/CleverRaven/Cataclysm-DDA/pull/68618))
 * Cattail shouldn't be plantable on land ([#68616](https://github.com/CleverRaven/Cataclysm-DDA/pull/68616))
-* Procgen relic "multiply" enchantments use float not integer ([#68607](https://github.com/CleverRaven/Cataclysm-DDA/pull/68607))
