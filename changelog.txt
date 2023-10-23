@@ -1,3 +1,4 @@
+* Small bad density list cleanup (#68813)
 * UIMenu key fix (#68809)
 * Misc gun damage fix (#68815)
 * Few docs fixes (#68738)
@@ -94,4 +95,3 @@
 * Cattail shouldn't be plantable on land (#68616)
 * Procgen relic "multiply" enchantments use float not integer (#68607)
 * expanded base camp log cutting locations (#68604)
-* Make ground mounted solar panels more efficient (#68603)
