@@ -1,3 +1,4 @@
+* Explain why wielding an item from pick-up menu fails ([#68810](https://github.com/CleverRaven/Cataclysm-DDA/pull/68810))
 * [MoM] Add Sense Minds telepathic power ([#68804](https://github.com/CleverRaven/Cataclysm-DDA/pull/68804))
 * Anvil disassembly recipes ([#68807](https://github.com/CleverRaven/Cataclysm-DDA/pull/68807))
 * Add more prosthetics and their recipes ([#68819](https://github.com/CleverRaven/Cataclysm-DDA/pull/68819))
@@ -21,7 +22,6 @@
 * Move FMS in docs ([#68779](https://github.com/CleverRaven/Cataclysm-DDA/pull/68779))
 * Routine i18n updates on 21 October 2023 ([#68783](https://github.com/CleverRaven/Cataclysm-DDA/pull/68783))
 * Fix skill rust ([#68784](https://github.com/CleverRaven/Cataclysm-DDA/pull/68784))
-* Improved temperature map display ([#68617](https://github.com/CleverRaven/Cataclysm-DDA/pull/68617))
 * [MoM] Add the Hodag, a biokinetic mutant cow ([#68712](https://github.com/CleverRaven/Cataclysm-DDA/pull/68712))
 * Update washboard length ([#68713](https://github.com/CleverRaven/Cataclysm-DDA/pull/68713))
 * Add spell class selecter to spell casting menu ([#68761](https://github.com/CleverRaven/Cataclysm-DDA/pull/68761))
