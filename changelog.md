@@ -1,3 +1,4 @@
+* Remove sorting reference to points in character creation ([#68860](https://github.com/CleverRaven/Cataclysm-DDA/pull/68860))
 * Add favorite category to spell casting menu & minor bugfix ([#68833](https://github.com/CleverRaven/Cataclysm-DDA/pull/68833))
 * Allow submittal of "nre_anomaly_printout_data" in hub01 dialogue choices ([#68837](https://github.com/CleverRaven/Cataclysm-DDA/pull/68837))
 * Remove blackjack from prison loot ([#68838](https://github.com/CleverRaven/Cataclysm-DDA/pull/68838))
@@ -92,4 +93,3 @@
 * Enable history for AIM and inventory filters ([#68645](https://github.com/CleverRaven/Cataclysm-DDA/pull/68645))
 * Routine i18n updates on 14 October 2023 ([#68641](https://github.com/CleverRaven/Cataclysm-DDA/pull/68641))
 * Fix aftershock chemrig bugs ([#68639](https://github.com/CleverRaven/Cataclysm-DDA/pull/68639))
-* Fix Farstep description and some Paraclesian spells missing deduction skill ([#68636](https://github.com/CleverRaven/Cataclysm-DDA/pull/68636))
