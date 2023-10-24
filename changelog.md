@@ -90,7 +90,6 @@
 * Fix Farstep description and some Paraclesian spells missing deduction skill ([#68636](https://github.com/CleverRaven/Cataclysm-DDA/pull/68636))
 * Allow NPC docs to install & remove CBMs from NPCS ([#68630](https://github.com/CleverRaven/Cataclysm-DDA/pull/68630))
 * Add launch configuration for VS Code dev container ([#68635](https://github.com/CleverRaven/Cataclysm-DDA/pull/68635))
-* Find items that cover body part ([#68623](https://github.com/CleverRaven/Cataclysm-DDA/pull/68623))
 * Make furniture->lockpick_message translatable ([#68627](https://github.com/CleverRaven/Cataclysm-DDA/pull/68627))
 * Quick round of Aftershock bugfixing ([#68629](https://github.com/CleverRaven/Cataclysm-DDA/pull/68629))
 * Allow "run_eoc_selector" cancelling out of the menu ([#68625](https://github.com/CleverRaven/Cataclysm-DDA/pull/68625))
