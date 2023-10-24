@@ -1,3 +1,4 @@
+* Fix and rebalance Defense Mode's final wave ([#68835](https://github.com/CleverRaven/Cataclysm-DDA/pull/68835))
 * Update Smokes' Solar Panel Mission to accept solar panel arrays instead of small solar panels ([#68849](https://github.com/CleverRaven/Cataclysm-DDA/pull/68849))
 * Remove sorting reference to points in character creation ([#68860](https://github.com/CleverRaven/Cataclysm-DDA/pull/68860))
 * Add favorite category to spell casting menu & minor bugfix ([#68833](https://github.com/CleverRaven/Cataclysm-DDA/pull/68833))
@@ -92,4 +93,3 @@
 * Minor density list cleanups ([#68652](https://github.com/CleverRaven/Cataclysm-DDA/pull/68652))
 * replaced unsafe references to temporary parameters ([#68649](https://github.com/CleverRaven/Cataclysm-DDA/pull/68649))
 * Enable history for AIM and inventory filters ([#68645](https://github.com/CleverRaven/Cataclysm-DDA/pull/68645))
-* Routine i18n updates on 14 October 2023 ([#68641](https://github.com/CleverRaven/Cataclysm-DDA/pull/68641))
