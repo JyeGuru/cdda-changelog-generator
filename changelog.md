@@ -1,3 +1,4 @@
+* Adds raised blindfolds and ability to lower them ([#68825](https://github.com/CleverRaven/Cataclysm-DDA/pull/68825))
 * Obsolete house_09b ([#68742](https://github.com/CleverRaven/Cataclysm-DDA/pull/68742))
 * [MoM] Add scaling to Metaphysics XP gain from powers, add penalty for power failure ([#68821](https://github.com/CleverRaven/Cataclysm-DDA/pull/68821))
 * Explain why wielding an item from pick-up menu fails ([#68810](https://github.com/CleverRaven/Cataclysm-DDA/pull/68810))
@@ -92,4 +93,3 @@
 * Add launch configuration for VS Code dev container ([#68635](https://github.com/CleverRaven/Cataclysm-DDA/pull/68635))
 * Make furniture->lockpick_message translatable ([#68627](https://github.com/CleverRaven/Cataclysm-DDA/pull/68627))
 * Quick round of Aftershock bugfixing ([#68629](https://github.com/CleverRaven/Cataclysm-DDA/pull/68629))
-* Allow "run_eoc_selector" cancelling out of the menu ([#68625](https://github.com/CleverRaven/Cataclysm-DDA/pull/68625))
