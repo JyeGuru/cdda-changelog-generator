@@ -1,3 +1,4 @@
+* [MoM] Add scaling to Metaphysics XP gain from powers, add penalty for power failure ([#68821](https://github.com/CleverRaven/Cataclysm-DDA/pull/68821))
 * Explain why wielding an item from pick-up menu fails ([#68810](https://github.com/CleverRaven/Cataclysm-DDA/pull/68810))
 * [MoM] Add Sense Minds telepathic power ([#68804](https://github.com/CleverRaven/Cataclysm-DDA/pull/68804))
 * Anvil disassembly recipes ([#68807](https://github.com/CleverRaven/Cataclysm-DDA/pull/68807))
@@ -93,4 +94,3 @@
 * Quick round of Aftershock bugfixing ([#68629](https://github.com/CleverRaven/Cataclysm-DDA/pull/68629))
 * Allow "run_eoc_selector" cancelling out of the menu ([#68625](https://github.com/CleverRaven/Cataclysm-DDA/pull/68625))
 * fixed broken salt water pipe ([#68619](https://github.com/CleverRaven/Cataclysm-DDA/pull/68619))
-* [Xedra Evolved] Take Eaters MTF's extra watch ([#68618](https://github.com/CleverRaven/Cataclysm-DDA/pull/68618))
