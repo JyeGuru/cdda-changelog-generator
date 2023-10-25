@@ -1,3 +1,4 @@
+* Requesting permissions to confirm bug ([#68881](https://github.com/CleverRaven/Cataclysm-DDA/pull/68881))
 * Clarify "too frustrated to continue" ([#68859](https://github.com/CleverRaven/Cataclysm-DDA/pull/68859))
 * Monsters can't stumble into debug invisible player ([#68870](https://github.com/CleverRaven/Cataclysm-DDA/pull/68870))
 * Fix and rebalance Defense Mode's final wave ([#68835](https://github.com/CleverRaven/Cataclysm-DDA/pull/68835))
@@ -92,4 +93,3 @@
 * Aftershock: Make speed freak a background ([#68661](https://github.com/CleverRaven/Cataclysm-DDA/pull/68661))
 * Encounters out in the fields ([#68656](https://github.com/CleverRaven/Cataclysm-DDA/pull/68656))
 * Minor density list cleanups ([#68652](https://github.com/CleverRaven/Cataclysm-DDA/pull/68652))
-* replaced unsafe references to temporary parameters ([#68649](https://github.com/CleverRaven/Cataclysm-DDA/pull/68649))

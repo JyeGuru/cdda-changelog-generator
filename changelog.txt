@@ -1,3 +1,4 @@
+* Requesting permissions to confirm bug (#68881)
 * Clarify "too frustrated to continue" (#68859)
 * Monsters can't stumble into debug invisible player (#68870)
 * Fix and rebalance Defense Mode's final wave (#68835)
@@ -92,4 +93,3 @@
 * Aftershock: Make speed freak a background (#68661)
 * Encounters out in the fields (#68656)
 * Minor density list cleanups (#68652)
-* replaced unsafe references to temporary parameters (#68649)
