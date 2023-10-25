@@ -1,3 +1,4 @@
+* More stockings variants ([#68886](https://github.com/CleverRaven/Cataclysm-DDA/pull/68886))
 * Ranged practice subcategory ([#68891](https://github.com/CleverRaven/Cataclysm-DDA/pull/68891))
 * Add a confirmation if you are in the aoe of your own spell. ([#68854](https://github.com/CleverRaven/Cataclysm-DDA/pull/68854))
 * [MoM] Wakeful Rest revamp ([#68873](https://github.com/CleverRaven/Cataclysm-DDA/pull/68873))
@@ -84,7 +85,6 @@
 * [MoM] Allow removal of teleporter area attunement ([#68695](https://github.com/CleverRaven/Cataclysm-DDA/pull/68695))
 * Improved random spawns ([#68684](https://github.com/CleverRaven/Cataclysm-DDA/pull/68684))
 * Prevent accidentally killing pets while playing with them. ([#68691](https://github.com/CleverRaven/Cataclysm-DDA/pull/68691))
-* Add map related EoC functions ([#68663](https://github.com/CleverRaven/Cataclysm-DDA/pull/68663))
 * Move `basement_bionic` to bionic profession mod ([#68668](https://github.com/CleverRaven/Cataclysm-DDA/pull/68668))
 * Zweihanders are bad butchering tools ([#68670](https://github.com/CleverRaven/Cataclysm-DDA/pull/68670))
 * [MoM] Adjust Cloak of Warmth enchantment to prevent overheating ([#68672](https://github.com/CleverRaven/Cataclysm-DDA/pull/68672))
