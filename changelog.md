@@ -1,3 +1,4 @@
+* Tailoring practice update ([#68889](https://github.com/CleverRaven/Cataclysm-DDA/pull/68889))
 * More stockings variants ([#68886](https://github.com/CleverRaven/Cataclysm-DDA/pull/68886))
 * Ranged practice subcategory ([#68891](https://github.com/CleverRaven/Cataclysm-DDA/pull/68891))
 * Add a confirmation if you are in the aoe of your own spell. ([#68854](https://github.com/CleverRaven/Cataclysm-DDA/pull/68854))
@@ -79,7 +80,6 @@
 * Mercenary set Improvements ([#68685](https://github.com/CleverRaven/Cataclysm-DDA/pull/68685))
 * Enforce wrap of ASCII `picture` format ([#68683](https://github.com/CleverRaven/Cataclysm-DDA/pull/68683))
 * Fix gun store item ownership ([#68699](https://github.com/CleverRaven/Cataclysm-DDA/pull/68699))
-* Cattail can be planted in shallow water ([#68664](https://github.com/CleverRaven/Cataclysm-DDA/pull/68664))
 * Infarstructure: Move methods from npc to Character ([#68666](https://github.com/CleverRaven/Cataclysm-DDA/pull/68666))
 * Preparing for a hit, Brawling Buff ([#68686](https://github.com/CleverRaven/Cataclysm-DDA/pull/68686))
 * [MoM] Allow removal of teleporter area attunement ([#68695](https://github.com/CleverRaven/Cataclysm-DDA/pull/68695))
