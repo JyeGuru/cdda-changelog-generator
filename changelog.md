@@ -1,3 +1,4 @@
+* Ranged practice subcategory ([#68891](https://github.com/CleverRaven/Cataclysm-DDA/pull/68891))
 * Add a confirmation if you are in the aoe of your own spell. ([#68854](https://github.com/CleverRaven/Cataclysm-DDA/pull/68854))
 * [MoM] Wakeful Rest revamp ([#68873](https://github.com/CleverRaven/Cataclysm-DDA/pull/68873))
 * Fix cached dead state ([#68874](https://github.com/CleverRaven/Cataclysm-DDA/pull/68874))
@@ -92,4 +93,3 @@
 * More armor categorized as armor ([#68675](https://github.com/CleverRaven/Cataclysm-DDA/pull/68675))
 * Sheathable Khopesh ([#68671](https://github.com/CleverRaven/Cataclysm-DDA/pull/68671))
 * Gas masks: Only absorb from fields with gas_absorption set ([#68679](https://github.com/CleverRaven/Cataclysm-DDA/pull/68679))
-* Aftershock: Make speed freak a background ([#68661](https://github.com/CleverRaven/Cataclysm-DDA/pull/68661))
