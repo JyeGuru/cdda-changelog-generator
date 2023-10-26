@@ -89,6 +89,5 @@
 * Fix pomegranate calories (#68728)
 * Refugee Center Arsonist's Mission Description Clarification (#68716)
 * Stockings variant (#68706)
-* [Xedra Evolved] Change Arvore One with the Forest to reduce thirst (#68700)
 * Update seed.json (#68702)
 * Fix cash cards spawning with rand_charges (#68704)

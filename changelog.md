@@ -89,6 +89,5 @@
 * Fix pomegranate calories ([#68728](https://github.com/CleverRaven/Cataclysm-DDA/pull/68728))
 * Refugee Center Arsonist's Mission Description Clarification ([#68716](https://github.com/CleverRaven/Cataclysm-DDA/pull/68716))
 * Stockings variant ([#68706](https://github.com/CleverRaven/Cataclysm-DDA/pull/68706))
-* [Xedra Evolved] Change Arvore One with the Forest to reduce thirst ([#68700](https://github.com/CleverRaven/Cataclysm-DDA/pull/68700))
 * Update seed.json ([#68702](https://github.com/CleverRaven/Cataclysm-DDA/pull/68702))
 * Fix cash cards spawning with rand_charges ([#68704](https://github.com/CleverRaven/Cataclysm-DDA/pull/68704))
