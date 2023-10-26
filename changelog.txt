@@ -1,3 +1,4 @@
+* Use absolute tripoints in spell test (#68900)
 * Make some strings from ``Character::can_wield`` sound less artificial (#68811)
 * Rename advanced object deconstruction to deconstruct fireplace, replace stone fireplace with brick fireplace (#68904)
 * [MoM] Re-bring contemplation factor in line with spellbook reading (#68893)
@@ -89,5 +90,4 @@
 * Fix pomegranate calories (#68728)
 * Refugee Center Arsonist's Mission Description Clarification (#68716)
 * Stockings variant (#68706)
-* Update seed.json (#68702)
 * Fix cash cards spawning with rand_charges (#68704)
