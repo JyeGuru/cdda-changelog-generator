@@ -72,7 +72,6 @@
 * "Faction Succession" Mission Description Clarification ([#68774](https://github.com/CleverRaven/Cataclysm-DDA/pull/68774))
 * Steel Kevlar Jumpsuit updated recipe ([#68768](https://github.com/CleverRaven/Cataclysm-DDA/pull/68768))
 * [MoM] Fix Speed Reader duration ([#68771](https://github.com/CleverRaven/Cataclysm-DDA/pull/68771))
-* Revamp foldable solar panels ([#68705](https://github.com/CleverRaven/Cataclysm-DDA/pull/68705))
 * Fix primer shortage message appears inappropriately when you fail to mutate ([#68708](https://github.com/CleverRaven/Cataclysm-DDA/pull/68708))
 * Fix Marksman's Eye duration ([#68767](https://github.com/CleverRaven/Cataclysm-DDA/pull/68767))
 * Improve forest generation next to rivers and lakes ([#68750](https://github.com/CleverRaven/Cataclysm-DDA/pull/68750))
