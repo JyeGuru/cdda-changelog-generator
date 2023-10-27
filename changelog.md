@@ -1,3 +1,4 @@
+* Add foreach function to EoC and simplify vitamin reset syntax ([#68829](https://github.com/CleverRaven/Cataclysm-DDA/pull/68829))
 * Clean lang/ sub-folder in "make clean" ([#68938](https://github.com/CleverRaven/Cataclysm-DDA/pull/68938))
 * Portal Dependent Update ([#68922](https://github.com/CleverRaven/Cataclysm-DDA/pull/68922))
 * New dialog contidions "u_using_martial_art", "map_in_city" ([#68905](https://github.com/CleverRaven/Cataclysm-DDA/pull/68905))
@@ -89,4 +90,3 @@
 * [MoM] Add PSI_NULL species to interact with "ignored_monster_species" JSON parameter ([#68763](https://github.com/CleverRaven/Cataclysm-DDA/pull/68763))
 * Fix typo ([#68762](https://github.com/CleverRaven/Cataclysm-DDA/pull/68762))
 * Fix some Defense Mode mapgen bugs ([#68757](https://github.com/CleverRaven/Cataclysm-DDA/pull/68757))
-* Minor froggy edits ([#68748](https://github.com/CleverRaven/Cataclysm-DDA/pull/68748))
