@@ -56,7 +56,6 @@
 * Tweaks dirtmound constructions cost ([#68861](https://github.com/CleverRaven/Cataclysm-DDA/pull/68861))
 * Give artisan and hub-01's card reader a looks_like ([#68844](https://github.com/CleverRaven/Cataclysm-DDA/pull/68844))
 * Adds raised blindfolds and ability to lower them ([#68825](https://github.com/CleverRaven/Cataclysm-DDA/pull/68825))
-* Obsolete house_09b ([#68742](https://github.com/CleverRaven/Cataclysm-DDA/pull/68742))
 * [MoM] Add scaling to Metaphysics XP gain from powers, add penalty for power failure ([#68821](https://github.com/CleverRaven/Cataclysm-DDA/pull/68821))
 * Explain why wielding an item from pick-up menu fails ([#68810](https://github.com/CleverRaven/Cataclysm-DDA/pull/68810))
 * [MoM] Add Sense Minds telepathic power ([#68804](https://github.com/CleverRaven/Cataclysm-DDA/pull/68804))
