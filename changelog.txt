@@ -1,3 +1,4 @@
+* Portal Dependent Update (#68922)
 * New dialog contidions "u_using_martial_art", "map_in_city" (#68905)
 * Add EoC beta talker to combat events (#68916)
 * Adjust bike wheel installation/removal times (#68918)
@@ -64,7 +65,6 @@
 * Small bad density list cleanup (#68813)
 * UIMenu key fix (#68809)
 * Misc gun damage fix (#68815)
-* Few docs fixes (#68738)
 * [MoM] Add tier 3 feral telepath, the Instiller of Nightmares + fix some issues (#68802)
 * Threatening to kill NPCs(recruitment) is more likely to make them hostile (#68773)
 * [innawood] Add streams to the river starting location (#68787)
