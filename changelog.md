@@ -1,3 +1,4 @@
+* STEED Missing Price ([#68956](https://github.com/CleverRaven/Cataclysm-DDA/pull/68956))
 * Warn on invalid world name ([#68871](https://github.com/CleverRaven/Cataclysm-DDA/pull/68871))
 * Give Eddie McKenzie some more missions ([#68932](https://github.com/CleverRaven/Cataclysm-DDA/pull/68932))
 * [EoC] Update u_cast_spell and fix player_levels_spell event ([#68946](https://github.com/CleverRaven/Cataclysm-DDA/pull/68946))
@@ -89,4 +90,3 @@
 * [MoM] Fix Speed Reader duration ([#68771](https://github.com/CleverRaven/Cataclysm-DDA/pull/68771))
 * Fix Marksman's Eye duration ([#68767](https://github.com/CleverRaven/Cataclysm-DDA/pull/68767))
 * [MoM] Add PSI_NULL species to interact with "ignored_monster_species" JSON parameter ([#68763](https://github.com/CleverRaven/Cataclysm-DDA/pull/68763))
-* Fix typo ([#68762](https://github.com/CleverRaven/Cataclysm-DDA/pull/68762))
