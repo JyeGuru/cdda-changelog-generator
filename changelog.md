@@ -1,3 +1,4 @@
+* Warn on invalid world name ([#68871](https://github.com/CleverRaven/Cataclysm-DDA/pull/68871))
 * Give Eddie McKenzie some more missions ([#68932](https://github.com/CleverRaven/Cataclysm-DDA/pull/68932))
 * [EoC] Update u_cast_spell and fix player_levels_spell event ([#68946](https://github.com/CleverRaven/Cataclysm-DDA/pull/68946))
 * Correct the name of the Concentration Trance practice recipe ([#68952](https://github.com/CleverRaven/Cataclysm-DDA/pull/68952))
@@ -83,7 +84,6 @@
 * Move FMS in docs ([#68779](https://github.com/CleverRaven/Cataclysm-DDA/pull/68779))
 * Routine i18n updates on 21 October 2023 ([#68783](https://github.com/CleverRaven/Cataclysm-DDA/pull/68783))
 * Fix skill rust ([#68784](https://github.com/CleverRaven/Cataclysm-DDA/pull/68784))
-* Add spell class selecter to spell casting menu ([#68761](https://github.com/CleverRaven/Cataclysm-DDA/pull/68761))
 * "Faction Succession" Mission Description Clarification ([#68774](https://github.com/CleverRaven/Cataclysm-DDA/pull/68774))
 * Steel Kevlar Jumpsuit updated recipe ([#68768](https://github.com/CleverRaven/Cataclysm-DDA/pull/68768))
 * [MoM] Fix Speed Reader duration ([#68771](https://github.com/CleverRaven/Cataclysm-DDA/pull/68771))
