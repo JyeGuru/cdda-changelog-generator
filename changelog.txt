@@ -1,3 +1,4 @@
+* [Aftershock] Fix Patched Fur Mutation Conflicts (#68970)
 * FIX #68906  Xedra Evolved EOC fail (#68911)
 * STEED Missing Price (#68956)
 * Warn on invalid world name (#68871)
@@ -89,4 +90,3 @@
 * "Faction Succession" Mission Description Clarification (#68774)
 * Steel Kevlar Jumpsuit updated recipe (#68768)
 * [MoM] Fix Speed Reader duration (#68771)
-* Fix Marksman's Eye duration (#68767)
