@@ -1,3 +1,4 @@
+* Fixing Jack-o-lantern ([#68951](https://github.com/CleverRaven/Cataclysm-DDA/pull/68951))
 * Add foreach function to EoC and simplify vitamin reset syntax ([#68829](https://github.com/CleverRaven/Cataclysm-DDA/pull/68829))
 * Clean lang/ sub-folder in "make clean" ([#68938](https://github.com/CleverRaven/Cataclysm-DDA/pull/68938))
 * Portal Dependent Update ([#68922](https://github.com/CleverRaven/Cataclysm-DDA/pull/68922))
@@ -84,7 +85,6 @@
 * Steel Kevlar Jumpsuit updated recipe ([#68768](https://github.com/CleverRaven/Cataclysm-DDA/pull/68768))
 * [MoM] Fix Speed Reader duration ([#68771](https://github.com/CleverRaven/Cataclysm-DDA/pull/68771))
 * Fix Marksman's Eye duration ([#68767](https://github.com/CleverRaven/Cataclysm-DDA/pull/68767))
-* Improve forest generation next to rivers and lakes ([#68750](https://github.com/CleverRaven/Cataclysm-DDA/pull/68750))
 * Add the butcher as a profession ([#68754](https://github.com/CleverRaven/Cataclysm-DDA/pull/68754))
 * Add beeswax to the temperature removal blacklist ([#68759](https://github.com/CleverRaven/Cataclysm-DDA/pull/68759))
 * [MoM] Add PSI_NULL species to interact with "ignored_monster_species" JSON parameter ([#68763](https://github.com/CleverRaven/Cataclysm-DDA/pull/68763))
