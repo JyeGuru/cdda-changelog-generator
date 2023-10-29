@@ -1,3 +1,4 @@
+* Allow pizza recipes to utilise pickled vegetables ([#68965](https://github.com/CleverRaven/Cataclysm-DDA/pull/68965))
 * Hop Rhizomes spawn ([#68975](https://github.com/CleverRaven/Cataclysm-DDA/pull/68975))
 * Reduce tool requirements for concrete removal ([#68977](https://github.com/CleverRaven/Cataclysm-DDA/pull/68977))
 * Da Biggest Pile of Typos ([#68888](https://github.com/CleverRaven/Cataclysm-DDA/pull/68888))
@@ -88,6 +89,5 @@
 * fix left border (Loading screen) ([#68794](https://github.com/CleverRaven/Cataclysm-DDA/pull/68794))
 * [innawood] Improve forest generation next to streams ([#68786](https://github.com/CleverRaven/Cataclysm-DDA/pull/68786))
 * Hopefully just the flyer snippet  ([#68782](https://github.com/CleverRaven/Cataclysm-DDA/pull/68782))
-* Move FMS in docs ([#68779](https://github.com/CleverRaven/Cataclysm-DDA/pull/68779))
 * Routine i18n updates on 21 October 2023 ([#68783](https://github.com/CleverRaven/Cataclysm-DDA/pull/68783))
 * Fix skill rust ([#68784](https://github.com/CleverRaven/Cataclysm-DDA/pull/68784))
