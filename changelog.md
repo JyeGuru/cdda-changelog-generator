@@ -1,3 +1,5 @@
+* Prevent staunching bleeding while driving. Add message suggesting staunching when it could help. ([#68972](https://github.com/CleverRaven/Cataclysm-DDA/pull/68972))
+* Prevent crashing when using item of "effect_on_conditions" type ([#68976](https://github.com/CleverRaven/Cataclysm-DDA/pull/68976))
 * [Aftershock] Fix Patched Fur Mutation Conflicts ([#68970](https://github.com/CleverRaven/Cataclysm-DDA/pull/68970))
 * FIX #68906  Xedra Evolved EOC fail ([#68911](https://github.com/CleverRaven/Cataclysm-DDA/pull/68911))
 * STEED Missing Price ([#68956](https://github.com/CleverRaven/Cataclysm-DDA/pull/68956))
@@ -88,5 +90,3 @@
 * Routine i18n updates on 21 October 2023 ([#68783](https://github.com/CleverRaven/Cataclysm-DDA/pull/68783))
 * Fix skill rust ([#68784](https://github.com/CleverRaven/Cataclysm-DDA/pull/68784))
 * "Faction Succession" Mission Description Clarification ([#68774](https://github.com/CleverRaven/Cataclysm-DDA/pull/68774))
-* Steel Kevlar Jumpsuit updated recipe ([#68768](https://github.com/CleverRaven/Cataclysm-DDA/pull/68768))
-* [MoM] Fix Speed Reader duration ([#68771](https://github.com/CleverRaven/Cataclysm-DDA/pull/68771))
