@@ -1,3 +1,4 @@
+* Da Biggest Pile of Typos ([#68888](https://github.com/CleverRaven/Cataclysm-DDA/pull/68888))
 * Prevent staunching bleeding while driving. Add message suggesting staunching when it could help. ([#68972](https://github.com/CleverRaven/Cataclysm-DDA/pull/68972))
 * Prevent crashing when using item of "effect_on_conditions" type ([#68976](https://github.com/CleverRaven/Cataclysm-DDA/pull/68976))
 * [Aftershock] Fix Patched Fur Mutation Conflicts ([#68970](https://github.com/CleverRaven/Cataclysm-DDA/pull/68970))
@@ -78,7 +79,6 @@
 * UIMenu key fix ([#68809](https://github.com/CleverRaven/Cataclysm-DDA/pull/68809))
 * Misc gun damage fix ([#68815](https://github.com/CleverRaven/Cataclysm-DDA/pull/68815))
 * [MoM] Add tier 3 feral telepath, the Instiller of Nightmares + fix some issues ([#68802](https://github.com/CleverRaven/Cataclysm-DDA/pull/68802))
-* Threatening to kill NPCs(recruitment) is more likely to make them hostile ([#68773](https://github.com/CleverRaven/Cataclysm-DDA/pull/68773))
 * [innawood] Add streams to the river starting location ([#68787](https://github.com/CleverRaven/Cataclysm-DDA/pull/68787))
 * New characters don't start with martial arts style set to 'Force unarmed' ([#68789](https://github.com/CleverRaven/Cataclysm-DDA/pull/68789))
 * Change Town car engine type to match gasoline in its tanks ([#68798](https://github.com/CleverRaven/Cataclysm-DDA/pull/68798))
