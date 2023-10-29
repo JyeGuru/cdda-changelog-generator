@@ -1,3 +1,5 @@
+* Hop Rhizomes spawn ([#68975](https://github.com/CleverRaven/Cataclysm-DDA/pull/68975))
+* Reduce tool requirements for concrete removal ([#68977](https://github.com/CleverRaven/Cataclysm-DDA/pull/68977))
 * Da Biggest Pile of Typos ([#68888](https://github.com/CleverRaven/Cataclysm-DDA/pull/68888))
 * Prevent staunching bleeding while driving. Add message suggesting staunching when it could help. ([#68972](https://github.com/CleverRaven/Cataclysm-DDA/pull/68972))
 * Prevent crashing when using item of "effect_on_conditions" type ([#68976](https://github.com/CleverRaven/Cataclysm-DDA/pull/68976))
@@ -89,4 +91,3 @@
 * Move FMS in docs ([#68779](https://github.com/CleverRaven/Cataclysm-DDA/pull/68779))
 * Routine i18n updates on 21 October 2023 ([#68783](https://github.com/CleverRaven/Cataclysm-DDA/pull/68783))
 * Fix skill rust ([#68784](https://github.com/CleverRaven/Cataclysm-DDA/pull/68784))
-* "Faction Succession" Mission Description Clarification ([#68774](https://github.com/CleverRaven/Cataclysm-DDA/pull/68774))
