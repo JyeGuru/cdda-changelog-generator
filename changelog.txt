@@ -1,3 +1,4 @@
+* Fix ethanol amount in recipe byproducts (#69002)
 * Fix Hub-01 Post-DARPA case retrieval Mission Map bug (#68847)
 * Add buttons to pre-Cata clothing deconstructs (#68822)
 * Add comment on UPS  (#68823)
@@ -90,5 +91,4 @@
 * Small bad density list cleanup (#68813)
 * UIMenu key fix (#68809)
 * Misc gun damage fix (#68815)
-* [MoM] Add tier 3 feral telepath, the Instiller of Nightmares + fix some issues (#68802)
 * Add context value to "character_casts_spell", "spellcasting_finish" (#68803)
