@@ -1,3 +1,4 @@
+* Fixing habit ([#68997](https://github.com/CleverRaven/Cataclysm-DDA/pull/68997))
 * Add a new vitakinetic power to restore lost limbs ([#68969](https://github.com/CleverRaven/Cataclysm-DDA/pull/68969))
 * Remove obsoleted plate armor recipe  ([#68933](https://github.com/CleverRaven/Cataclysm-DDA/pull/68933))
 * Moved biochemistry from dissection to research/practice ([#68963](https://github.com/CleverRaven/Cataclysm-DDA/pull/68963))
@@ -91,4 +92,3 @@
 * Change Town car engine type to match gasoline in its tanks ([#68798](https://github.com/CleverRaven/Cataclysm-DDA/pull/68798))
 * Add context value to "character_casts_spell", "spellcasting_finish" ([#68803](https://github.com/CleverRaven/Cataclysm-DDA/pull/68803))
 * fix left border (Loading screen) ([#68794](https://github.com/CleverRaven/Cataclysm-DDA/pull/68794))
-* [innawood] Improve forest generation next to streams ([#68786](https://github.com/CleverRaven/Cataclysm-DDA/pull/68786))

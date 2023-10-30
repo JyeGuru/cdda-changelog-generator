@@ -1,3 +1,4 @@
+* Fixing habit (#68997)
 * Add a new vitakinetic power to restore lost limbs (#68969)
 * Remove obsoleted plate armor recipe  (#68933)
 * Moved biochemistry from dissection to research/practice (#68963)
@@ -91,4 +92,3 @@
 * Change Town car engine type to match gasoline in its tanks (#68798)
 * Add context value to "character_casts_spell", "spellcasting_finish" (#68803)
 * fix left border (Loading screen) (#68794)
-* [innawood] Improve forest generation next to streams (#68786)
