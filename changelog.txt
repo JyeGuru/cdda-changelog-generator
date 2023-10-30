@@ -1,3 +1,4 @@
+* Add comment on UPS  (#68823)
 * Reword actions in repair gui (#68944)
 * Lighthouse quest goes to unexplored lighthouse (#68994)
 * Fixing habit (#68997)
@@ -91,4 +92,3 @@
 * [MoM] Add tier 3 feral telepath, the Instiller of Nightmares + fix some issues (#68802)
 * Change Town car engine type to match gasoline in its tanks (#68798)
 * Add context value to "character_casts_spell", "spellcasting_finish" (#68803)
-* fix left border (Loading screen) (#68794)
