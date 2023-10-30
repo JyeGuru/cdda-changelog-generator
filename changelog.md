@@ -1,3 +1,4 @@
+* Give Laptop `ALLOWS_REMOTE_USE` flag ([#68959](https://github.com/CleverRaven/Cataclysm-DDA/pull/68959))
 * [MoM] Add small duration to awakening process ([#68953](https://github.com/CleverRaven/Cataclysm-DDA/pull/68953))
 * Fix ethanol amount in recipe byproducts ([#69002](https://github.com/CleverRaven/Cataclysm-DDA/pull/69002))
 * Fix Hub-01 Post-DARPA case retrieval Mission Map bug ([#68847](https://github.com/CleverRaven/Cataclysm-DDA/pull/68847))
@@ -86,7 +87,6 @@
 * Adds raised blindfolds and ability to lower them ([#68825](https://github.com/CleverRaven/Cataclysm-DDA/pull/68825))
 * [MoM] Add scaling to Metaphysics XP gain from powers, add penalty for power failure ([#68821](https://github.com/CleverRaven/Cataclysm-DDA/pull/68821))
 * Explain why wielding an item from pick-up menu fails ([#68810](https://github.com/CleverRaven/Cataclysm-DDA/pull/68810))
-* Anvil disassembly recipes ([#68807](https://github.com/CleverRaven/Cataclysm-DDA/pull/68807))
 * Add more prosthetics and their recipes ([#68819](https://github.com/CleverRaven/Cataclysm-DDA/pull/68819))
 * Small bad density list cleanup ([#68813](https://github.com/CleverRaven/Cataclysm-DDA/pull/68813))
 * UIMenu key fix ([#68809](https://github.com/CleverRaven/Cataclysm-DDA/pull/68809))
