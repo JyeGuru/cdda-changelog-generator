@@ -1,3 +1,4 @@
+* Routine i18n updates on 28 October 2023 ([#68955](https://github.com/CleverRaven/Cataclysm-DDA/pull/68955))
 * Allow pizza recipes to utilise pickled vegetables ([#68965](https://github.com/CleverRaven/Cataclysm-DDA/pull/68965))
 * Hop Rhizomes spawn ([#68975](https://github.com/CleverRaven/Cataclysm-DDA/pull/68975))
 * Reduce tool requirements for concrete removal ([#68977](https://github.com/CleverRaven/Cataclysm-DDA/pull/68977))
