@@ -1,3 +1,4 @@
+* Remove obsoleted plate armor recipe  ([#68933](https://github.com/CleverRaven/Cataclysm-DDA/pull/68933))
 * Moved biochemistry from dissection to research/practice ([#68963](https://github.com/CleverRaven/Cataclysm-DDA/pull/68963))
 * Routine i18n updates on 28 October 2023 ([#68955](https://github.com/CleverRaven/Cataclysm-DDA/pull/68955))
 * Allow pizza recipes to utilise pickled vegetables ([#68965](https://github.com/CleverRaven/Cataclysm-DDA/pull/68965))
@@ -90,5 +91,4 @@
 * Add context value to "character_casts_spell", "spellcasting_finish" ([#68803](https://github.com/CleverRaven/Cataclysm-DDA/pull/68803))
 * fix left border (Loading screen) ([#68794](https://github.com/CleverRaven/Cataclysm-DDA/pull/68794))
 * [innawood] Improve forest generation next to streams ([#68786](https://github.com/CleverRaven/Cataclysm-DDA/pull/68786))
-* Routine i18n updates on 21 October 2023 ([#68783](https://github.com/CleverRaven/Cataclysm-DDA/pull/68783))
 * Fix skill rust ([#68784](https://github.com/CleverRaven/Cataclysm-DDA/pull/68784))
