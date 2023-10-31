@@ -1,3 +1,4 @@
+* Add bandit_drug_lab whitelist of overmap generation test ([#69029](https://github.com/CleverRaven/Cataclysm-DDA/pull/69029))
 * Bump Android API level to 33 ([#69038](https://github.com/CleverRaven/Cataclysm-DDA/pull/69038))
 * Privacy policy update ([#69039](https://github.com/CleverRaven/Cataclysm-DDA/pull/69039))
 * Clarify amount for Cranberry's gold quest ([#69003](https://github.com/CleverRaven/Cataclysm-DDA/pull/69003))
@@ -37,7 +38,6 @@
 * Correct the name of the Concentration Trance practice recipe ([#68952](https://github.com/CleverRaven/Cataclysm-DDA/pull/68952))
 * Fix No Legs mutation conflicts, allow drastic mutation to fix them ([#68943](https://github.com/CleverRaven/Cataclysm-DDA/pull/68943))
 * Fixing Jack-o-lantern ([#68951](https://github.com/CleverRaven/Cataclysm-DDA/pull/68951))
-* Add foreach function to EoC and simplify vitamin reset syntax ([#68829](https://github.com/CleverRaven/Cataclysm-DDA/pull/68829))
 * Clean lang/ sub-folder in "make clean" ([#68938](https://github.com/CleverRaven/Cataclysm-DDA/pull/68938))
 * Portal Dependent Update ([#68922](https://github.com/CleverRaven/Cataclysm-DDA/pull/68922))
 * New dialog contidions "u_using_martial_art", "map_in_city" ([#68905](https://github.com/CleverRaven/Cataclysm-DDA/pull/68905))
