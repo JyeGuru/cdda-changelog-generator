@@ -1,3 +1,4 @@
+* Adjust hungry and overweight coloring in sidebar ([#69005](https://github.com/CleverRaven/Cataclysm-DDA/pull/69005))
 * [Xedra Evolved] Misc additions ([#68931](https://github.com/CleverRaven/Cataclysm-DDA/pull/68931))
 * fix pharmacy and doctor's office loot ([#68995](https://github.com/CleverRaven/Cataclysm-DDA/pull/68995))
 * add more (zombie) leather mask variant ([#69013](https://github.com/CleverRaven/Cataclysm-DDA/pull/69013))
@@ -42,7 +43,6 @@
 * Round displayed learning bonus (133.333% -> 133%) ([#68924](https://github.com/CleverRaven/Cataclysm-DDA/pull/68924))
 * Enforce properties no-duplicates restriction in JSON ([#68851](https://github.com/CleverRaven/Cataclysm-DDA/pull/68851))
 * Update chitinous armor coverage ([#68841](https://github.com/CleverRaven/Cataclysm-DDA/pull/68841))
-* Better EoC doc, part unknown ([#68816](https://github.com/CleverRaven/Cataclysm-DDA/pull/68816))
 * Fix edge case where irremovable gun mod was removed ([#68862](https://github.com/CleverRaven/Cataclysm-DDA/pull/68862))
 * Allow rioter mask to use more t-shirts ([#68930](https://github.com/CleverRaven/Cataclysm-DDA/pull/68930))
 * Fix Clang-tidy 16 warning ([#68927](https://github.com/CleverRaven/Cataclysm-DDA/pull/68927))
