@@ -1,3 +1,5 @@
+* Organize the remaining unorganized EOCs ([#68940](https://github.com/CleverRaven/Cataclysm-DDA/pull/68940))
+* Remove boat hull coverage penalty for protrusions and carried vehicles ([#69024](https://github.com/CleverRaven/Cataclysm-DDA/pull/69024))
 * Adjust hungry and overweight coloring in sidebar ([#69005](https://github.com/CleverRaven/Cataclysm-DDA/pull/69005))
 * [Xedra Evolved] Misc additions ([#68931](https://github.com/CleverRaven/Cataclysm-DDA/pull/68931))
 * fix pharmacy and doctor's office loot ([#68995](https://github.com/CleverRaven/Cataclysm-DDA/pull/68995))
@@ -89,5 +91,3 @@
 * Tweaks dirtmound constructions cost ([#68861](https://github.com/CleverRaven/Cataclysm-DDA/pull/68861))
 * Give artisan and hub-01's card reader a looks_like ([#68844](https://github.com/CleverRaven/Cataclysm-DDA/pull/68844))
 * Adds raised blindfolds and ability to lower them ([#68825](https://github.com/CleverRaven/Cataclysm-DDA/pull/68825))
-* [MoM] Add scaling to Metaphysics XP gain from powers, add penalty for power failure ([#68821](https://github.com/CleverRaven/Cataclysm-DDA/pull/68821))
-* Add more prosthetics and their recipes ([#68819](https://github.com/CleverRaven/Cataclysm-DDA/pull/68819))
