@@ -1,3 +1,4 @@
+* Bump Android API level to 33 ([#69038](https://github.com/CleverRaven/Cataclysm-DDA/pull/69038))
 * Privacy policy update ([#69039](https://github.com/CleverRaven/Cataclysm-DDA/pull/69039))
 * Clarify amount for Cranberry's gold quest ([#69003](https://github.com/CleverRaven/Cataclysm-DDA/pull/69003))
 * Organize the remaining unorganized EOCs ([#68940](https://github.com/CleverRaven/Cataclysm-DDA/pull/68940))
@@ -90,4 +91,3 @@
 * Add padding to hub01 vambraces and greaves ([#68840](https://github.com/CleverRaven/Cataclysm-DDA/pull/68840))
 * Tweaks dirtmound constructions cost ([#68861](https://github.com/CleverRaven/Cataclysm-DDA/pull/68861))
 * Give artisan and hub-01's card reader a looks_like ([#68844](https://github.com/CleverRaven/Cataclysm-DDA/pull/68844))
-* Adds raised blindfolds and ability to lower them ([#68825](https://github.com/CleverRaven/Cataclysm-DDA/pull/68825))
