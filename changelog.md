@@ -1,3 +1,4 @@
+* Fixing Itemgroups ([#69011](https://github.com/CleverRaven/Cataclysm-DDA/pull/69011))
 * Give Laptop `ALLOWS_REMOTE_USE` flag ([#68959](https://github.com/CleverRaven/Cataclysm-DDA/pull/68959))
 * [MoM] Add small duration to awakening process ([#68953](https://github.com/CleverRaven/Cataclysm-DDA/pull/68953))
 * Fix ethanol amount in recipe byproducts ([#69002](https://github.com/CleverRaven/Cataclysm-DDA/pull/69002))
@@ -89,5 +90,4 @@
 * Explain why wielding an item from pick-up menu fails ([#68810](https://github.com/CleverRaven/Cataclysm-DDA/pull/68810))
 * Add more prosthetics and their recipes ([#68819](https://github.com/CleverRaven/Cataclysm-DDA/pull/68819))
 * Small bad density list cleanup ([#68813](https://github.com/CleverRaven/Cataclysm-DDA/pull/68813))
-* UIMenu key fix ([#68809](https://github.com/CleverRaven/Cataclysm-DDA/pull/68809))
 * Misc gun damage fix ([#68815](https://github.com/CleverRaven/Cataclysm-DDA/pull/68815))
