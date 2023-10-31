@@ -1,3 +1,5 @@
+* [Xedra Evolved] Misc additions ([#68931](https://github.com/CleverRaven/Cataclysm-DDA/pull/68931))
+* fix pharmacy and doctor's office loot ([#68995](https://github.com/CleverRaven/Cataclysm-DDA/pull/68995))
 * add more (zombie) leather mask variant ([#69013](https://github.com/CleverRaven/Cataclysm-DDA/pull/69013))
 * Open proficiency UI with relevant first selection ([#69009](https://github.com/CleverRaven/Cataclysm-DDA/pull/69009))
 * Bugfix: Ensure all selected books are scanned to ereader ([#69020](https://github.com/CleverRaven/Cataclysm-DDA/pull/69020))
@@ -52,7 +54,6 @@
 * Use absolute tripoints in spell test ([#68900](https://github.com/CleverRaven/Cataclysm-DDA/pull/68900))
 * Rename advanced object deconstruction to deconstruct fireplace, replace stone fireplace with brick fireplace ([#68904](https://github.com/CleverRaven/Cataclysm-DDA/pull/68904))
 * [MoM] Re-bring contemplation factor in line with spellbook reading ([#68893](https://github.com/CleverRaven/Cataclysm-DDA/pull/68893))
-* Boat hulls sinking when damaged ([#68814](https://github.com/CleverRaven/Cataclysm-DDA/pull/68814))
 * Add the HAS_MIND flag to appropriate monsters in in-repo mods ([#68852](https://github.com/CleverRaven/Cataclysm-DDA/pull/68852))
 * My Sweet Cataclysm: Reduce profit from butchering commonly spawned Gum Spiders ([#68832](https://github.com/CleverRaven/Cataclysm-DDA/pull/68832))
 * Update scrap trader charcoal mission ([#68879](https://github.com/CleverRaven/Cataclysm-DDA/pull/68879))
@@ -90,4 +91,3 @@
 * Adds raised blindfolds and ability to lower them ([#68825](https://github.com/CleverRaven/Cataclysm-DDA/pull/68825))
 * [MoM] Add scaling to Metaphysics XP gain from powers, add penalty for power failure ([#68821](https://github.com/CleverRaven/Cataclysm-DDA/pull/68821))
 * Add more prosthetics and their recipes ([#68819](https://github.com/CleverRaven/Cataclysm-DDA/pull/68819))
-* Misc gun damage fix ([#68815](https://github.com/CleverRaven/Cataclysm-DDA/pull/68815))
