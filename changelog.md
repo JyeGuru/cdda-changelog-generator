@@ -1,3 +1,4 @@
+* Clarify amount for Cranberry's gold quest ([#69003](https://github.com/CleverRaven/Cataclysm-DDA/pull/69003))
 * Organize the remaining unorganized EOCs ([#68940](https://github.com/CleverRaven/Cataclysm-DDA/pull/68940))
 * Remove boat hull coverage penalty for protrusions and carried vehicles ([#69024](https://github.com/CleverRaven/Cataclysm-DDA/pull/69024))
 * Adjust hungry and overweight coloring in sidebar ([#69005](https://github.com/CleverRaven/Cataclysm-DDA/pull/69005))
@@ -12,7 +13,6 @@
 * [MoM] Add small duration to awakening process ([#68953](https://github.com/CleverRaven/Cataclysm-DDA/pull/68953))
 * Fix ethanol amount in recipe byproducts ([#69002](https://github.com/CleverRaven/Cataclysm-DDA/pull/69002))
 * Fix Hub-01 Post-DARPA case retrieval Mission Map bug ([#68847](https://github.com/CleverRaven/Cataclysm-DDA/pull/68847))
-* Add buttons to pre-Cata clothing deconstructs ([#68822](https://github.com/CleverRaven/Cataclysm-DDA/pull/68822))
 * Add comment on UPS  ([#68823](https://github.com/CleverRaven/Cataclysm-DDA/pull/68823))
 * Reword actions in repair gui ([#68944](https://github.com/CleverRaven/Cataclysm-DDA/pull/68944))
 * Lighthouse quest goes to unexplored lighthouse ([#68994](https://github.com/CleverRaven/Cataclysm-DDA/pull/68994))
