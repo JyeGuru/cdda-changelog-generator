@@ -1,3 +1,5 @@
+* Update doc for graffiti ids in tileset ([#69058](https://github.com/CleverRaven/Cataclysm-DDA/pull/69058))
+* [EoC] Allow set_string_var to parse custom entries ([#69027](https://github.com/CleverRaven/Cataclysm-DDA/pull/69027))
 * [EoC] Condition for asking the player to select a tile ([#69006](https://github.com/CleverRaven/Cataclysm-DDA/pull/69006))
 * Shivs Expansion ([#69001](https://github.com/CleverRaven/Cataclysm-DDA/pull/69001))
 * Routine tileset updates on 01 November 2023 ([#69047](https://github.com/CleverRaven/Cataclysm-DDA/pull/69047))
@@ -22,7 +24,6 @@
 * Give Laptop `ALLOWS_REMOTE_USE` flag ([#68959](https://github.com/CleverRaven/Cataclysm-DDA/pull/68959))
 * [MoM] Add small duration to awakening process ([#68953](https://github.com/CleverRaven/Cataclysm-DDA/pull/68953))
 * Fix ethanol amount in recipe byproducts ([#69002](https://github.com/CleverRaven/Cataclysm-DDA/pull/69002))
-* Fix Hub-01 Post-DARPA case retrieval Mission Map bug ([#68847](https://github.com/CleverRaven/Cataclysm-DDA/pull/68847))
 * Reword actions in repair gui ([#68944](https://github.com/CleverRaven/Cataclysm-DDA/pull/68944))
 * Lighthouse quest goes to unexplored lighthouse ([#68994](https://github.com/CleverRaven/Cataclysm-DDA/pull/68994))
 * Fixing habit ([#68997](https://github.com/CleverRaven/Cataclysm-DDA/pull/68997))
@@ -90,4 +91,3 @@
 * Update Smokes' Solar Panel Mission to accept solar panel arrays instead of small solar panels ([#68849](https://github.com/CleverRaven/Cataclysm-DDA/pull/68849))
 * Remove sorting reference to points in character creation ([#68860](https://github.com/CleverRaven/Cataclysm-DDA/pull/68860))
 * Tweaks dirtmound constructions cost ([#68861](https://github.com/CleverRaven/Cataclysm-DDA/pull/68861))
-* Give artisan and hub-01's card reader a looks_like ([#68844](https://github.com/CleverRaven/Cataclysm-DDA/pull/68844))
