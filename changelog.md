@@ -59,7 +59,6 @@
 * Rename advanced object deconstruction to deconstruct fireplace, replace stone fireplace with brick fireplace ([#68904](https://github.com/CleverRaven/Cataclysm-DDA/pull/68904))
 * [MoM] Re-bring contemplation factor in line with spellbook reading ([#68893](https://github.com/CleverRaven/Cataclysm-DDA/pull/68893))
 * Add the HAS_MIND flag to appropriate monsters in in-repo mods ([#68852](https://github.com/CleverRaven/Cataclysm-DDA/pull/68852))
-* My Sweet Cataclysm: Reduce profit from butchering commonly spawned Gum Spiders ([#68832](https://github.com/CleverRaven/Cataclysm-DDA/pull/68832))
 * Update scrap trader charcoal mission ([#68879](https://github.com/CleverRaven/Cataclysm-DDA/pull/68879))
 * Allow scanning several books into ereader at once ([#68880](https://github.com/CleverRaven/Cataclysm-DDA/pull/68880))
 * Tamable Wildlife: Lady Bugs and Mole Crickets ([#68895](https://github.com/CleverRaven/Cataclysm-DDA/pull/68895))
