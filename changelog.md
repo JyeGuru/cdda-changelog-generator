@@ -1,3 +1,4 @@
+* Spinach seeds ([#69018](https://github.com/CleverRaven/Cataclysm-DDA/pull/69018))
 * Fix a minor bug with mutations healing lost limbs. ([#69034](https://github.com/CleverRaven/Cataclysm-DDA/pull/69034))
 * Add bandit_drug_lab whitelist of overmap generation test ([#69029](https://github.com/CleverRaven/Cataclysm-DDA/pull/69029))
 * Bump Android API level to 33 ([#69038](https://github.com/CleverRaven/Cataclysm-DDA/pull/69038))
@@ -85,7 +86,6 @@
 * Fix and rebalance Defense Mode's final wave ([#68835](https://github.com/CleverRaven/Cataclysm-DDA/pull/68835))
 * Update Smokes' Solar Panel Mission to accept solar panel arrays instead of small solar panels ([#68849](https://github.com/CleverRaven/Cataclysm-DDA/pull/68849))
 * Remove sorting reference to points in character creation ([#68860](https://github.com/CleverRaven/Cataclysm-DDA/pull/68860))
-* Add favorite category to spell casting menu & minor bugfix ([#68833](https://github.com/CleverRaven/Cataclysm-DDA/pull/68833))
 * Allow submittal of "nre_anomaly_printout_data" in hub01 dialogue choices ([#68837](https://github.com/CleverRaven/Cataclysm-DDA/pull/68837))
 * Remove blackjack from prison loot ([#68838](https://github.com/CleverRaven/Cataclysm-DDA/pull/68838))
 * Add padding to hub01 vambraces and greaves ([#68840](https://github.com/CleverRaven/Cataclysm-DDA/pull/68840))
