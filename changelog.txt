@@ -1,3 +1,4 @@
+* Allow clairsentients to have premonitions about Defense Mode events (#69059)
 * Update doc for graffiti ids in tileset (#69058)
 * [EoC] Allow set_string_var to parse custom entries (#69027)
 * [EoC] Condition for asking the player to select a tile (#69006)
@@ -88,6 +89,5 @@
 * Requesting permissions to confirm bug (#68881)
 * Clarify "too frustrated to continue" (#68859)
 * Monsters can't stumble into debug invisible player (#68870)
-* Update Smokes' Solar Panel Mission to accept solar panel arrays instead of small solar panels (#68849)
 * Remove sorting reference to points in character creation (#68860)
 * Tweaks dirtmound constructions cost (#68861)
