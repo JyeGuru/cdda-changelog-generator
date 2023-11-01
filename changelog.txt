@@ -1,3 +1,4 @@
+* Fix a minor bug with mutations healing lost limbs. (#69034)
 * Add bandit_drug_lab whitelist of overmap generation test (#69029)
 * Bump Android API level to 33 (#69038)
 * Privacy policy update (#69039)
