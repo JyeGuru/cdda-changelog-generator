@@ -1,3 +1,4 @@
+* Routine tileset updates on 01 November 2023 ([#69047](https://github.com/CleverRaven/Cataclysm-DDA/pull/69047))
 * Add ALLOWS_REMOTE_USE to all items with HOTPLATE function. ([#69023](https://github.com/CleverRaven/Cataclysm-DDA/pull/69023))
 * [MoM] Fix Feral Inferno upgrade ([#69042](https://github.com/CleverRaven/Cataclysm-DDA/pull/69042))
 * Spinach seeds ([#69018](https://github.com/CleverRaven/Cataclysm-DDA/pull/69018))
@@ -87,7 +88,6 @@
 * Monsters can't stumble into debug invisible player ([#68870](https://github.com/CleverRaven/Cataclysm-DDA/pull/68870))
 * Update Smokes' Solar Panel Mission to accept solar panel arrays instead of small solar panels ([#68849](https://github.com/CleverRaven/Cataclysm-DDA/pull/68849))
 * Remove sorting reference to points in character creation ([#68860](https://github.com/CleverRaven/Cataclysm-DDA/pull/68860))
-* Remove blackjack from prison loot ([#68838](https://github.com/CleverRaven/Cataclysm-DDA/pull/68838))
 * Add padding to hub01 vambraces and greaves ([#68840](https://github.com/CleverRaven/Cataclysm-DDA/pull/68840))
 * Tweaks dirtmound constructions cost ([#68861](https://github.com/CleverRaven/Cataclysm-DDA/pull/68861))
 * Give artisan and hub-01's card reader a looks_like ([#68844](https://github.com/CleverRaven/Cataclysm-DDA/pull/68844))
