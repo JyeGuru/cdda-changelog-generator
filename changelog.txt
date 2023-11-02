@@ -1,3 +1,4 @@
+* Aftershock Military Gear (#69010)
 * Correct Ki Strike description (#69056)
 * Allow clairsentients to have premonitions about Defense Mode events (#69059)
 * Update doc for graffiti ids in tileset (#69058)
@@ -54,7 +55,6 @@
 * Add EoC beta talker to combat events (#68916)
 * Adjust bike wheel installation/removal times (#68918)
 * Round displayed learning bonus (133.333% -> 133%) (#68924)
-* Enforce properties no-duplicates restriction in JSON (#68851)
 * Fix edge case where irremovable gun mod was removed (#68862)
 * Allow rioter mask to use more t-shirts (#68930)
 * Fix Clang-tidy 16 warning (#68927)
