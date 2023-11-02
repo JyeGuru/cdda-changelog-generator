@@ -1,3 +1,4 @@
+* Correct Ki Strike description ([#69056](https://github.com/CleverRaven/Cataclysm-DDA/pull/69056))
 * Allow clairsentients to have premonitions about Defense Mode events ([#69059](https://github.com/CleverRaven/Cataclysm-DDA/pull/69059))
 * Update doc for graffiti ids in tileset ([#69058](https://github.com/CleverRaven/Cataclysm-DDA/pull/69058))
 * [EoC] Allow set_string_var to parse custom entries ([#69027](https://github.com/CleverRaven/Cataclysm-DDA/pull/69027))
@@ -61,7 +62,6 @@
 * Variants for the large figurine ([#68915](https://github.com/CleverRaven/Cataclysm-DDA/pull/68915))
 * Killed zombies in safe place scenario start locations ([#68920](https://github.com/CleverRaven/Cataclysm-DDA/pull/68920))
 * Audit Helena's canning mission reward ([#68913](https://github.com/CleverRaven/Cataclysm-DDA/pull/68913))
-* Convert EOLs in doc/FMS ([#68850](https://github.com/CleverRaven/Cataclysm-DDA/pull/68850))
 * Use absolute tripoints in spell test ([#68900](https://github.com/CleverRaven/Cataclysm-DDA/pull/68900))
 * Rename advanced object deconstruction to deconstruct fireplace, replace stone fireplace with brick fireplace ([#68904](https://github.com/CleverRaven/Cataclysm-DDA/pull/68904))
 * [MoM] Re-bring contemplation factor in line with spellbook reading ([#68893](https://github.com/CleverRaven/Cataclysm-DDA/pull/68893))
