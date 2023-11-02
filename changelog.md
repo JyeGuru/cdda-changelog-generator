@@ -1,3 +1,4 @@
+* More zombie dissection snippets. ([#69062](https://github.com/CleverRaven/Cataclysm-DDA/pull/69062))
 * started to organize dissection proficiencies (and some associated wea… ([#68993](https://github.com/CleverRaven/Cataclysm-DDA/pull/68993))
 * Superglue extra spawns ([#69070](https://github.com/CleverRaven/Cataclysm-DDA/pull/69070))
 * Slimy helps you escape grabs ([#69019](https://github.com/CleverRaven/Cataclysm-DDA/pull/69019))
@@ -90,5 +91,4 @@
 * Update required kevlar of the Steel Kevlar Jumpsuit ([#68883](https://github.com/CleverRaven/Cataclysm-DDA/pull/68883))
 * Requesting permissions to confirm bug ([#68881](https://github.com/CleverRaven/Cataclysm-DDA/pull/68881))
 * Monsters can't stumble into debug invisible player ([#68870](https://github.com/CleverRaven/Cataclysm-DDA/pull/68870))
-* Remove sorting reference to points in character creation ([#68860](https://github.com/CleverRaven/Cataclysm-DDA/pull/68860))
 * Tweaks dirtmound constructions cost ([#68861](https://github.com/CleverRaven/Cataclysm-DDA/pull/68861))
