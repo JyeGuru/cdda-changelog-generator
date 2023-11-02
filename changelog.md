@@ -1,3 +1,5 @@
+* Allow EoCs to automatically equip items ([#69050](https://github.com/CleverRaven/Cataclysm-DDA/pull/69050))
+* Make caffeine gum weaker. ([#69068](https://github.com/CleverRaven/Cataclysm-DDA/pull/69068))
 * More zombie dissection snippets. ([#69062](https://github.com/CleverRaven/Cataclysm-DDA/pull/69062))
 * started to organize dissection proficiencies (and some associated wea… ([#68993](https://github.com/CleverRaven/Cataclysm-DDA/pull/68993))
 * Superglue extra spawns ([#69070](https://github.com/CleverRaven/Cataclysm-DDA/pull/69070))
@@ -61,7 +63,6 @@
 * Add EoC beta talker to combat events ([#68916](https://github.com/CleverRaven/Cataclysm-DDA/pull/68916))
 * Adjust bike wheel installation/removal times ([#68918](https://github.com/CleverRaven/Cataclysm-DDA/pull/68918))
 * Round displayed learning bonus (133.333% -> 133%) ([#68924](https://github.com/CleverRaven/Cataclysm-DDA/pull/68924))
-* Fix edge case where irremovable gun mod was removed ([#68862](https://github.com/CleverRaven/Cataclysm-DDA/pull/68862))
 * Allow rioter mask to use more t-shirts ([#68930](https://github.com/CleverRaven/Cataclysm-DDA/pull/68930))
 * Fix Clang-tidy 16 warning ([#68927](https://github.com/CleverRaven/Cataclysm-DDA/pull/68927))
 * Add "HARVESTED" flag to empty apiaries ([#68910](https://github.com/CleverRaven/Cataclysm-DDA/pull/68910))
@@ -91,4 +92,3 @@
 * Update required kevlar of the Steel Kevlar Jumpsuit ([#68883](https://github.com/CleverRaven/Cataclysm-DDA/pull/68883))
 * Requesting permissions to confirm bug ([#68881](https://github.com/CleverRaven/Cataclysm-DDA/pull/68881))
 * Monsters can't stumble into debug invisible player ([#68870](https://github.com/CleverRaven/Cataclysm-DDA/pull/68870))
-* Tweaks dirtmound constructions cost ([#68861](https://github.com/CleverRaven/Cataclysm-DDA/pull/68861))
