@@ -1,3 +1,4 @@
+* afs: observe superpositioned chairs (#69085)
 * Add several comment commands for issues and PRs (#68934)
 * Buffing the intravenous needle tip bionic (#68962)
 * Allow specifying vitamins by weight (mass) in items (#68986)
@@ -92,4 +93,3 @@
 * Tailoring practice update (#68889)
 * More stockings variants (#68886)
 * Ranged practice subcategory (#68891)
-* Update required kevlar of the Steel Kevlar Jumpsuit (#68883)
