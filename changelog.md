@@ -1,3 +1,4 @@
+* Add missing arms and their support ([#69021](https://github.com/CleverRaven/Cataclysm-DDA/pull/69021))
 * [MoM] Telepathic Obscurity power turns off in combat ([#69031](https://github.com/CleverRaven/Cataclysm-DDA/pull/69031))
 * Fix Cl fails with setting ammo of "minor wand of fireball" ([#69086](https://github.com/CleverRaven/Cataclysm-DDA/pull/69086))
 * Aftershock: Gauss shotguns ([#69084](https://github.com/CleverRaven/Cataclysm-DDA/pull/69084))
@@ -61,7 +62,6 @@
 * Allow pizza recipes to utilise pickled vegetables ([#68965](https://github.com/CleverRaven/Cataclysm-DDA/pull/68965))
 * Hop Rhizomes spawn ([#68975](https://github.com/CleverRaven/Cataclysm-DDA/pull/68975))
 * Reduce tool requirements for concrete removal ([#68977](https://github.com/CleverRaven/Cataclysm-DDA/pull/68977))
-* Da Biggest Pile of Typos ([#68888](https://github.com/CleverRaven/Cataclysm-DDA/pull/68888))
 * Prevent staunching bleeding while driving. Add message suggesting staunching when it could help. ([#68972](https://github.com/CleverRaven/Cataclysm-DDA/pull/68972))
 * Prevent crashing when using item of "effect_on_conditions" type ([#68976](https://github.com/CleverRaven/Cataclysm-DDA/pull/68976))
 * [Aftershock] Fix Patched Fur Mutation Conflicts ([#68970](https://github.com/CleverRaven/Cataclysm-DDA/pull/68970))
