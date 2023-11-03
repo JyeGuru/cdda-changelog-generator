@@ -1,3 +1,4 @@
+* Aftershock: Gauss shotguns ([#69084](https://github.com/CleverRaven/Cataclysm-DDA/pull/69084))
 * afs: observe superpositioned chairs ([#69085](https://github.com/CleverRaven/Cataclysm-DDA/pull/69085))
 * Add several comment commands for issues and PRs ([#68934](https://github.com/CleverRaven/Cataclysm-DDA/pull/68934))
 * Buffing the intravenous needle tip bionic ([#68962](https://github.com/CleverRaven/Cataclysm-DDA/pull/68962))
@@ -87,7 +88,6 @@
 * Tamable Wildlife: Lady Bugs and Mole Crickets ([#68895](https://github.com/CleverRaven/Cataclysm-DDA/pull/68895))
 * Typo: nonexistent test/ -> tests/ ([#68897](https://github.com/CleverRaven/Cataclysm-DDA/pull/68897))
 * typo: lacs -> lacks ([#68908](https://github.com/CleverRaven/Cataclysm-DDA/pull/68908))
-* Small cleanups part 5 ([#68884](https://github.com/CleverRaven/Cataclysm-DDA/pull/68884))
 * Add the throwing axe to the HAND_AXES category ([#68890](https://github.com/CleverRaven/Cataclysm-DDA/pull/68890))
 * Quilting Practice ([#68887](https://github.com/CleverRaven/Cataclysm-DDA/pull/68887))
 * Tailoring practice update ([#68889](https://github.com/CleverRaven/Cataclysm-DDA/pull/68889))
