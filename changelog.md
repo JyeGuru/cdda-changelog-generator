@@ -1,3 +1,4 @@
+* Fix Cl fails with setting ammo of "minor wand of fireball" ([#69086](https://github.com/CleverRaven/Cataclysm-DDA/pull/69086))
 * Aftershock: Gauss shotguns ([#69084](https://github.com/CleverRaven/Cataclysm-DDA/pull/69084))
 * afs: observe superpositioned chairs ([#69085](https://github.com/CleverRaven/Cataclysm-DDA/pull/69085))
 * Add several comment commands for issues and PRs ([#68934](https://github.com/CleverRaven/Cataclysm-DDA/pull/68934))
@@ -91,5 +92,4 @@
 * Add the throwing axe to the HAND_AXES category ([#68890](https://github.com/CleverRaven/Cataclysm-DDA/pull/68890))
 * Quilting Practice ([#68887](https://github.com/CleverRaven/Cataclysm-DDA/pull/68887))
 * Tailoring practice update ([#68889](https://github.com/CleverRaven/Cataclysm-DDA/pull/68889))
-* More stockings variants ([#68886](https://github.com/CleverRaven/Cataclysm-DDA/pull/68886))
 * Ranged practice subcategory ([#68891](https://github.com/CleverRaven/Cataclysm-DDA/pull/68891))
