@@ -1,3 +1,4 @@
+* add dehydrated garlic/chili and their recipes (#69095)
 * Urgent fix for #69098 (#69101)
 * Aftershock: Industrial Outpost (#69082)
 * Aftershock: Remove passive climate control from several armor suits (#69090)
@@ -89,7 +90,6 @@
 * Audit Helena's canning mission reward (#68913)
 * Use absolute tripoints in spell test (#68900)
 * Rename advanced object deconstruction to deconstruct fireplace, replace stone fireplace with brick fireplace (#68904)
-* [MoM] Re-bring contemplation factor in line with spellbook reading (#68893)
 * Tamable Wildlife: Lady Bugs and Mole Crickets (#68895)
 * Typo: nonexistent test/ -> tests/ (#68897)
 * typo: lacs -> lacks (#68908)

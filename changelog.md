@@ -1,3 +1,4 @@
+* add dehydrated garlic/chili and their recipes ([#69095](https://github.com/CleverRaven/Cataclysm-DDA/pull/69095))
 * Urgent fix for #69098 ([#69101](https://github.com/CleverRaven/Cataclysm-DDA/pull/69101))
 * Aftershock: Industrial Outpost ([#69082](https://github.com/CleverRaven/Cataclysm-DDA/pull/69082))
 * Aftershock: Remove passive climate control from several armor suits ([#69090](https://github.com/CleverRaven/Cataclysm-DDA/pull/69090))
@@ -89,7 +90,6 @@
 * Audit Helena's canning mission reward ([#68913](https://github.com/CleverRaven/Cataclysm-DDA/pull/68913))
 * Use absolute tripoints in spell test ([#68900](https://github.com/CleverRaven/Cataclysm-DDA/pull/68900))
 * Rename advanced object deconstruction to deconstruct fireplace, replace stone fireplace with brick fireplace ([#68904](https://github.com/CleverRaven/Cataclysm-DDA/pull/68904))
-* [MoM] Re-bring contemplation factor in line with spellbook reading ([#68893](https://github.com/CleverRaven/Cataclysm-DDA/pull/68893))
 * Tamable Wildlife: Lady Bugs and Mole Crickets ([#68895](https://github.com/CleverRaven/Cataclysm-DDA/pull/68895))
 * Typo: nonexistent test/ -> tests/ ([#68897](https://github.com/CleverRaven/Cataclysm-DDA/pull/68897))
 * typo: lacs -> lacks ([#68908](https://github.com/CleverRaven/Cataclysm-DDA/pull/68908))
