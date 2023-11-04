@@ -1,3 +1,4 @@
+* Fixed (some) dissection proficiencies (part 3) ([#69104](https://github.com/CleverRaven/Cataclysm-DDA/pull/69104))
 * Picky Eaters won't drink unsavory drinks ([#69100](https://github.com/CleverRaven/Cataclysm-DDA/pull/69100))
 * Aftershock: Remove escape pod supply box from crashing ship ([#69099](https://github.com/CleverRaven/Cataclysm-DDA/pull/69099))
 * add dehydrated garlic/chili and their recipes ([#69095](https://github.com/CleverRaven/Cataclysm-DDA/pull/69095))
@@ -90,6 +91,5 @@
 * Variants for the large figurine ([#68915](https://github.com/CleverRaven/Cataclysm-DDA/pull/68915))
 * Killed zombies in safe place scenario start locations ([#68920](https://github.com/CleverRaven/Cataclysm-DDA/pull/68920))
 * Audit Helena's canning mission reward ([#68913](https://github.com/CleverRaven/Cataclysm-DDA/pull/68913))
-* Use absolute tripoints in spell test ([#68900](https://github.com/CleverRaven/Cataclysm-DDA/pull/68900))
 * Rename advanced object deconstruction to deconstruct fireplace, replace stone fireplace with brick fireplace ([#68904](https://github.com/CleverRaven/Cataclysm-DDA/pull/68904))
 * typo: lacs -> lacks ([#68908](https://github.com/CleverRaven/Cataclysm-DDA/pull/68908))
