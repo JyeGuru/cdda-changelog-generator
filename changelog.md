@@ -1,3 +1,4 @@
+* Urgent fix for #69098 ([#69101](https://github.com/CleverRaven/Cataclysm-DDA/pull/69101))
 * Aftershock: Industrial Outpost ([#69082](https://github.com/CleverRaven/Cataclysm-DDA/pull/69082))
 * Aftershock: Remove passive climate control from several armor suits ([#69090](https://github.com/CleverRaven/Cataclysm-DDA/pull/69090))
 * Add missing arms and their support ([#69021](https://github.com/CleverRaven/Cataclysm-DDA/pull/69021))
@@ -92,4 +93,3 @@
 * Tamable Wildlife: Lady Bugs and Mole Crickets ([#68895](https://github.com/CleverRaven/Cataclysm-DDA/pull/68895))
 * Typo: nonexistent test/ -> tests/ ([#68897](https://github.com/CleverRaven/Cataclysm-DDA/pull/68897))
 * typo: lacs -> lacks ([#68908](https://github.com/CleverRaven/Cataclysm-DDA/pull/68908))
-* Ranged practice subcategory ([#68891](https://github.com/CleverRaven/Cataclysm-DDA/pull/68891))
