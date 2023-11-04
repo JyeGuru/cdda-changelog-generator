@@ -1,3 +1,4 @@
+* Picky Eaters won't drink unsavory drinks (#69100)
 * Aftershock: Remove escape pod supply box from crashing ship (#69099)
 * add dehydrated garlic/chili and their recipes (#69095)
 * Urgent fix for #69098 (#69101)
@@ -91,5 +92,4 @@
 * Audit Helena's canning mission reward (#68913)
 * Use absolute tripoints in spell test (#68900)
 * Rename advanced object deconstruction to deconstruct fireplace, replace stone fireplace with brick fireplace (#68904)
-* Typo: nonexistent test/ -> tests/ (#68897)
 * typo: lacs -> lacks (#68908)
