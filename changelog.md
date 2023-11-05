@@ -82,7 +82,6 @@
 * Fixing Jack-o-lantern ([#68951](https://github.com/CleverRaven/Cataclysm-DDA/pull/68951))
 * Clean lang/ sub-folder in "make clean" ([#68938](https://github.com/CleverRaven/Cataclysm-DDA/pull/68938))
 * Portal Dependent Update ([#68922](https://github.com/CleverRaven/Cataclysm-DDA/pull/68922))
-* New dialog contidions "u_using_martial_art", "map_in_city" ([#68905](https://github.com/CleverRaven/Cataclysm-DDA/pull/68905))
 * Add EoC beta talker to combat events ([#68916](https://github.com/CleverRaven/Cataclysm-DDA/pull/68916))
 * Adjust bike wheel installation/removal times ([#68918](https://github.com/CleverRaven/Cataclysm-DDA/pull/68918))
 * Round displayed learning bonus (133.333% -> 133%) ([#68924](https://github.com/CleverRaven/Cataclysm-DDA/pull/68924))
