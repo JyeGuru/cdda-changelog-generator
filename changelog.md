@@ -1,3 +1,4 @@
+* Colored skirts ([#69117](https://github.com/CleverRaven/Cataclysm-DDA/pull/69117))
 * Correct perk menu description of Closed Fist ([#69120](https://github.com/CleverRaven/Cataclysm-DDA/pull/69120))
 * Fixed (some) dissection proficiencies (part 3) ([#69104](https://github.com/CleverRaven/Cataclysm-DDA/pull/69104))
 * Picky Eaters won't drink unsavory drinks ([#69100](https://github.com/CleverRaven/Cataclysm-DDA/pull/69100))
