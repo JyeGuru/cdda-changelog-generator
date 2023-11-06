@@ -89,7 +89,6 @@
 * Fix No Legs mutation conflicts, allow drastic mutation to fix them ([#68943](https://github.com/CleverRaven/Cataclysm-DDA/pull/68943))
 * Fixing Jack-o-lantern ([#68951](https://github.com/CleverRaven/Cataclysm-DDA/pull/68951))
 * Clean lang/ sub-folder in "make clean" ([#68938](https://github.com/CleverRaven/Cataclysm-DDA/pull/68938))
-* Portal Dependent Update ([#68922](https://github.com/CleverRaven/Cataclysm-DDA/pull/68922))
 * Round displayed learning bonus (133.333% -> 133%) ([#68924](https://github.com/CleverRaven/Cataclysm-DDA/pull/68924))
 * Allow rioter mask to use more t-shirts ([#68930](https://github.com/CleverRaven/Cataclysm-DDA/pull/68930))
 * Fix Clang-tidy 16 warning ([#68927](https://github.com/CleverRaven/Cataclysm-DDA/pull/68927))
