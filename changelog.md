@@ -1,3 +1,4 @@
+* Here be long skirts ([#69126](https://github.com/CleverRaven/Cataclysm-DDA/pull/69126))
 * AFS Exosuits Updates II ([#69048](https://github.com/CleverRaven/Cataclysm-DDA/pull/69048))
 * Canning the ammunition ([#69060](https://github.com/CleverRaven/Cataclysm-DDA/pull/69060))
 * Allow techniques on reach attacks. ([#69103](https://github.com/CleverRaven/Cataclysm-DDA/pull/69103))
@@ -92,4 +93,3 @@
 * Round displayed learning bonus (133.333% -> 133%) ([#68924](https://github.com/CleverRaven/Cataclysm-DDA/pull/68924))
 * Allow rioter mask to use more t-shirts ([#68930](https://github.com/CleverRaven/Cataclysm-DDA/pull/68930))
 * Fix Clang-tidy 16 warning ([#68927](https://github.com/CleverRaven/Cataclysm-DDA/pull/68927))
-* Killed zombies in safe place scenario start locations ([#68920](https://github.com/CleverRaven/Cataclysm-DDA/pull/68920))
