@@ -1,3 +1,4 @@
+* [EoC]More armor information(coverage, encumbrance) ([#69025](https://github.com/CleverRaven/Cataclysm-DDA/pull/69025))
 * try fixing issue#68075 ([#68980](https://github.com/CleverRaven/Cataclysm-DDA/pull/68980))
 * player display: "Learning is disabled" message on disabled skills ([#69028](https://github.com/CleverRaven/Cataclysm-DDA/pull/69028))
 * fixed (some) dissection proficiencies (part 2) ([#69073](https://github.com/CleverRaven/Cataclysm-DDA/pull/69073))
@@ -26,7 +27,6 @@
 * Fix Cl fails with setting ammo of "minor wand of fireball" ([#69086](https://github.com/CleverRaven/Cataclysm-DDA/pull/69086))
 * Aftershock: Gauss shotguns ([#69084](https://github.com/CleverRaven/Cataclysm-DDA/pull/69084))
 * afs: observe superpositioned chairs ([#69085](https://github.com/CleverRaven/Cataclysm-DDA/pull/69085))
-* Add several comment commands for issues and PRs ([#68934](https://github.com/CleverRaven/Cataclysm-DDA/pull/68934))
 * Buffing the intravenous needle tip bionic ([#68962](https://github.com/CleverRaven/Cataclysm-DDA/pull/68962))
 * Allow specifying vitamins by weight (mass) in items ([#68986](https://github.com/CleverRaven/Cataclysm-DDA/pull/68986))
 * Martial Arts Improvements, Disarming ++ ([#69052](https://github.com/CleverRaven/Cataclysm-DDA/pull/69052))
