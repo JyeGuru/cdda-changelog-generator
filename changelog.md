@@ -1,3 +1,4 @@
+* Clean-up: delete duplicate JSON entries ([#69129](https://github.com/CleverRaven/Cataclysm-DDA/pull/69129))
 * Convert all of the New England Community Church functions from `arithmetic` and `compare_num` to `math` ([#69151](https://github.com/CleverRaven/Cataclysm-DDA/pull/69151))
 * Add corded electric chainsaw ([#69152](https://github.com/CleverRaven/Cataclysm-DDA/pull/69152))
 * fix npc background conversation ([#69136](https://github.com/CleverRaven/Cataclysm-DDA/pull/69136))
@@ -79,7 +80,6 @@
 * Fix minor typos ([#69017](https://github.com/CleverRaven/Cataclysm-DDA/pull/69017))
 * Fixing Itemgroups ([#69011](https://github.com/CleverRaven/Cataclysm-DDA/pull/69011))
 * Give Laptop `ALLOWS_REMOTE_USE` flag ([#68959](https://github.com/CleverRaven/Cataclysm-DDA/pull/68959))
-* [MoM] Add small duration to awakening process ([#68953](https://github.com/CleverRaven/Cataclysm-DDA/pull/68953))
 * Fix ethanol amount in recipe byproducts ([#69002](https://github.com/CleverRaven/Cataclysm-DDA/pull/69002))
 * Lighthouse quest goes to unexplored lighthouse ([#68994](https://github.com/CleverRaven/Cataclysm-DDA/pull/68994))
 * Fixing habit ([#68997](https://github.com/CleverRaven/Cataclysm-DDA/pull/68997))
