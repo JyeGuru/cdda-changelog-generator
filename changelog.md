@@ -1,3 +1,4 @@
+* Simplify dog_tag_dog variants, update snippet documentation ([#68966](https://github.com/CleverRaven/Cataclysm-DDA/pull/68966))
 * [MoM] Photokinesis path ([#69092](https://github.com/CleverRaven/Cataclysm-DDA/pull/69092))
 * Clean-up: delete duplicate JSON entries ([#69129](https://github.com/CleverRaven/Cataclysm-DDA/pull/69129))
 * Convert all of the New England Community Church functions from `arithmetic` and `compare_num` to `math` ([#69151](https://github.com/CleverRaven/Cataclysm-DDA/pull/69151))
@@ -92,4 +93,3 @@
 * Prevent staunching bleeding while driving. Add message suggesting staunching when it could help. ([#68972](https://github.com/CleverRaven/Cataclysm-DDA/pull/68972))
 * Prevent crashing when using item of "effect_on_conditions" type ([#68976](https://github.com/CleverRaven/Cataclysm-DDA/pull/68976))
 * [Aftershock] Fix Patched Fur Mutation Conflicts ([#68970](https://github.com/CleverRaven/Cataclysm-DDA/pull/68970))
-* STEED Missing Price ([#68956](https://github.com/CleverRaven/Cataclysm-DDA/pull/68956))
