@@ -1,3 +1,4 @@
+* colored hoodie ([#69160](https://github.com/CleverRaven/Cataclysm-DDA/pull/69160))
 * Simplify dog_tag_dog variants, update snippet documentation ([#68966](https://github.com/CleverRaven/Cataclysm-DDA/pull/68966))
 * [MoM] Photokinesis path ([#69092](https://github.com/CleverRaven/Cataclysm-DDA/pull/69092))
 * Clean-up: delete duplicate JSON entries ([#69129](https://github.com/CleverRaven/Cataclysm-DDA/pull/69129))
@@ -81,7 +82,6 @@
 * Bugfix: Ensure all selected books are scanned to ereader ([#69020](https://github.com/CleverRaven/Cataclysm-DDA/pull/69020))
 * Fix minor typos ([#69017](https://github.com/CleverRaven/Cataclysm-DDA/pull/69017))
 * Fixing Itemgroups ([#69011](https://github.com/CleverRaven/Cataclysm-DDA/pull/69011))
-* Give Laptop `ALLOWS_REMOTE_USE` flag ([#68959](https://github.com/CleverRaven/Cataclysm-DDA/pull/68959))
 * Fix ethanol amount in recipe byproducts ([#69002](https://github.com/CleverRaven/Cataclysm-DDA/pull/69002))
 * Lighthouse quest goes to unexplored lighthouse ([#68994](https://github.com/CleverRaven/Cataclysm-DDA/pull/68994))
 * Fixing habit ([#68997](https://github.com/CleverRaven/Cataclysm-DDA/pull/68997))
