@@ -1,3 +1,4 @@
+* Convert all of the New England Community Church functions from `arithmetic` and `compare_num` to `math` ([#69151](https://github.com/CleverRaven/Cataclysm-DDA/pull/69151))
 * Add corded electric chainsaw ([#69152](https://github.com/CleverRaven/Cataclysm-DDA/pull/69152))
 * fix npc background conversation ([#69136](https://github.com/CleverRaven/Cataclysm-DDA/pull/69136))
 * Better EoC doc, part 3.1 ([#69148](https://github.com/CleverRaven/Cataclysm-DDA/pull/69148))
@@ -92,4 +93,3 @@
 * Prevent crashing when using item of "effect_on_conditions" type ([#68976](https://github.com/CleverRaven/Cataclysm-DDA/pull/68976))
 * [Aftershock] Fix Patched Fur Mutation Conflicts ([#68970](https://github.com/CleverRaven/Cataclysm-DDA/pull/68970))
 * STEED Missing Price ([#68956](https://github.com/CleverRaven/Cataclysm-DDA/pull/68956))
-* Correct the name of the Concentration Trance practice recipe ([#68952](https://github.com/CleverRaven/Cataclysm-DDA/pull/68952))
