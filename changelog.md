@@ -1,3 +1,4 @@
+* Add corded electric chainsaw ([#69152](https://github.com/CleverRaven/Cataclysm-DDA/pull/69152))
 * fix npc background conversation ([#69136](https://github.com/CleverRaven/Cataclysm-DDA/pull/69136))
 * Better EoC doc, part 3.1 ([#69148](https://github.com/CleverRaven/Cataclysm-DDA/pull/69148))
 * No more house of dogs ([#69154](https://github.com/CleverRaven/Cataclysm-DDA/pull/69154))
@@ -92,4 +93,3 @@
 * [Aftershock] Fix Patched Fur Mutation Conflicts ([#68970](https://github.com/CleverRaven/Cataclysm-DDA/pull/68970))
 * STEED Missing Price ([#68956](https://github.com/CleverRaven/Cataclysm-DDA/pull/68956))
 * Correct the name of the Concentration Trance practice recipe ([#68952](https://github.com/CleverRaven/Cataclysm-DDA/pull/68952))
-* Fixing Jack-o-lantern ([#68951](https://github.com/CleverRaven/Cataclysm-DDA/pull/68951))
