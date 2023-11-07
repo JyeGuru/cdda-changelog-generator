@@ -1,3 +1,4 @@
+* [MoM] Photokinesis path (#69092)
 * Clean-up: delete duplicate JSON entries (#69129)
 * Convert all of the New England Community Church functions from `arithmetic` and `compare_num` to `math` (#69151)
 * Add corded electric chainsaw (#69152)
@@ -85,7 +86,6 @@
 * Fixing habit (#68997)
 * Add a new vitakinetic power to restore lost limbs (#68969)
 * Moved biochemistry from dissection to research/practice (#68963)
-* Routine i18n updates on 28 October 2023 (#68955)
 * Allow pizza recipes to utilise pickled vegetables (#68965)
 * Hop Rhizomes spawn (#68975)
 * Reduce tool requirements for concrete removal (#68977)
