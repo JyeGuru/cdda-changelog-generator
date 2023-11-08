@@ -1,3 +1,4 @@
+* [Xedra Evolved] fix unobtainable alchemy 5 ([#69166](https://github.com/CleverRaven/Cataclysm-DDA/pull/69166))
 * fix the name for `ar_glasses_advanced` ([#69165](https://github.com/CleverRaven/Cataclysm-DDA/pull/69165))
 * Update the table of contents in doc/JSON_INFO.md ([#69167](https://github.com/CleverRaven/Cataclysm-DDA/pull/69167))
 * colored hoodie ([#69160](https://github.com/CleverRaven/Cataclysm-DDA/pull/69160))
@@ -87,7 +88,6 @@
 * Lighthouse quest goes to unexplored lighthouse ([#68994](https://github.com/CleverRaven/Cataclysm-DDA/pull/68994))
 * Fixing habit ([#68997](https://github.com/CleverRaven/Cataclysm-DDA/pull/68997))
 * Add a new vitakinetic power to restore lost limbs ([#68969](https://github.com/CleverRaven/Cataclysm-DDA/pull/68969))
-* Allow pizza recipes to utilise pickled vegetables ([#68965](https://github.com/CleverRaven/Cataclysm-DDA/pull/68965))
 * Hop Rhizomes spawn ([#68975](https://github.com/CleverRaven/Cataclysm-DDA/pull/68975))
 * Reduce tool requirements for concrete removal ([#68977](https://github.com/CleverRaven/Cataclysm-DDA/pull/68977))
 * Prevent staunching bleeding while driving. Add message suggesting staunching when it could help. ([#68972](https://github.com/CleverRaven/Cataclysm-DDA/pull/68972))
