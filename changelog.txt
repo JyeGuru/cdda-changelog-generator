@@ -1,3 +1,4 @@
+* Fix dmgbuild error in macOS release build GHA workflow (#69162)
 * Add thread cutting tool and make nuts & bolts craftable (#69097)
 * Routine i18n updates on 04 November 2023 (#69102)
 * Revert "[MoM] Fix Momentum Alteration" (#69172)
@@ -20,7 +21,6 @@
 * Allow expanding snippets in item descriptions (#69149)
 * [MoM] Fix Momentum Alteration (#69150)
 * [EoC]More armor information(coverage, encumbrance) (#69025)
-* try fixing issue#68075 (#68980)
 * player display: "Learning is disabled" message on disabled skills (#69028)
 * fixed (some) dissection proficiencies (part 2) (#69073)
 * Put larger alternator on backup generator (#69124)
