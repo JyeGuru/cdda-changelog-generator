@@ -1,3 +1,4 @@
+* Add thread cutting tool and make nuts & bolts craftable ([#69097](https://github.com/CleverRaven/Cataclysm-DDA/pull/69097))
 * Routine i18n updates on 04 November 2023 ([#69102](https://github.com/CleverRaven/Cataclysm-DDA/pull/69102))
 * Revert "[MoM] Fix Momentum Alteration" ([#69172](https://github.com/CleverRaven/Cataclysm-DDA/pull/69172))
 * Leather uncraft and numbers balance ([#69134](https://github.com/CleverRaven/Cataclysm-DDA/pull/69134))
@@ -92,4 +93,3 @@
 * Fix ethanol amount in recipe byproducts ([#69002](https://github.com/CleverRaven/Cataclysm-DDA/pull/69002))
 * Lighthouse quest goes to unexplored lighthouse ([#68994](https://github.com/CleverRaven/Cataclysm-DDA/pull/68994))
 * Fixing habit ([#68997](https://github.com/CleverRaven/Cataclysm-DDA/pull/68997))
-* Reduce tool requirements for concrete removal ([#68977](https://github.com/CleverRaven/Cataclysm-DDA/pull/68977))
