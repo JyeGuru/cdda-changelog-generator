@@ -1,3 +1,4 @@
+* Routine i18n updates on 04 November 2023 (#69102)
 * Revert "[MoM] Fix Momentum Alteration" (#69172)
 * Leather uncraft and numbers balance (#69134)
 * Migrate arithmetics function with arguments to math (#69147)
@@ -92,4 +93,3 @@
 * Lighthouse quest goes to unexplored lighthouse (#68994)
 * Fixing habit (#68997)
 * Reduce tool requirements for concrete removal (#68977)
-* Prevent crashing when using item of "effect_on_conditions" type (#68976)
