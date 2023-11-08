@@ -1,3 +1,4 @@
+* Revert "[MoM] Fix Momentum Alteration" ([#69172](https://github.com/CleverRaven/Cataclysm-DDA/pull/69172))
 * Leather uncraft and numbers balance ([#69134](https://github.com/CleverRaven/Cataclysm-DDA/pull/69134))
 * Migrate arithmetics function with arguments to math ([#69147](https://github.com/CleverRaven/Cataclysm-DDA/pull/69147))
 * Infectious diseases come on gradually ([#69123](https://github.com/CleverRaven/Cataclysm-DDA/pull/69123))
@@ -90,6 +91,5 @@
 * Fix ethanol amount in recipe byproducts ([#69002](https://github.com/CleverRaven/Cataclysm-DDA/pull/69002))
 * Lighthouse quest goes to unexplored lighthouse ([#68994](https://github.com/CleverRaven/Cataclysm-DDA/pull/68994))
 * Fixing habit ([#68997](https://github.com/CleverRaven/Cataclysm-DDA/pull/68997))
-* Hop Rhizomes spawn ([#68975](https://github.com/CleverRaven/Cataclysm-DDA/pull/68975))
 * Reduce tool requirements for concrete removal ([#68977](https://github.com/CleverRaven/Cataclysm-DDA/pull/68977))
 * Prevent crashing when using item of "effect_on_conditions" type ([#68976](https://github.com/CleverRaven/Cataclysm-DDA/pull/68976))
