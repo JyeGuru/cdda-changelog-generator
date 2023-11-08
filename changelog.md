@@ -1,3 +1,4 @@
+* Leather uncraft and numbers balance ([#69134](https://github.com/CleverRaven/Cataclysm-DDA/pull/69134))
 * Migrate arithmetics function with arguments to math ([#69147](https://github.com/CleverRaven/Cataclysm-DDA/pull/69147))
 * Infectious diseases come on gradually ([#69123](https://github.com/CleverRaven/Cataclysm-DDA/pull/69123))
 * [MoM] Further Photokinesis integration + certain actions remove maintained powers ([#69168](https://github.com/CleverRaven/Cataclysm-DDA/pull/69168))
@@ -91,5 +92,4 @@
 * Fixing habit ([#68997](https://github.com/CleverRaven/Cataclysm-DDA/pull/68997))
 * Hop Rhizomes spawn ([#68975](https://github.com/CleverRaven/Cataclysm-DDA/pull/68975))
 * Reduce tool requirements for concrete removal ([#68977](https://github.com/CleverRaven/Cataclysm-DDA/pull/68977))
-* Prevent staunching bleeding while driving. Add message suggesting staunching when it could help. ([#68972](https://github.com/CleverRaven/Cataclysm-DDA/pull/68972))
 * Prevent crashing when using item of "effect_on_conditions" type ([#68976](https://github.com/CleverRaven/Cataclysm-DDA/pull/68976))
