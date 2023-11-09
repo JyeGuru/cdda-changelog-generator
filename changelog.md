@@ -1,3 +1,5 @@
+* [CR] Bashing furniture/terrain gradually gets easier ([#69107](https://github.com/CleverRaven/Cataclysm-DDA/pull/69107))
+* Add 5.56 AP and 7.62 AP rounds ([#69161](https://github.com/CleverRaven/Cataclysm-DDA/pull/69161))
 * Give logging camp NPCs some random missions ([#69183](https://github.com/CleverRaven/Cataclysm-DDA/pull/69183))
 * introduced basic netherium proficiency + weakpoint, reverting demihuman expansion ([#69141](https://github.com/CleverRaven/Cataclysm-DDA/pull/69141))
 * Add Accessibility mod category ([#69171](https://github.com/CleverRaven/Cataclysm-DDA/pull/69171))
@@ -84,7 +86,6 @@
 * Add bandit_drug_lab whitelist of overmap generation test ([#69029](https://github.com/CleverRaven/Cataclysm-DDA/pull/69029))
 * Bump Android API level to 33 ([#69038](https://github.com/CleverRaven/Cataclysm-DDA/pull/69038))
 * Privacy policy update ([#69039](https://github.com/CleverRaven/Cataclysm-DDA/pull/69039))
-* Clarify amount for Cranberry's gold quest ([#69003](https://github.com/CleverRaven/Cataclysm-DDA/pull/69003))
 * Remove boat hull coverage penalty for protrusions and carried vehicles ([#69024](https://github.com/CleverRaven/Cataclysm-DDA/pull/69024))
 * Adjust hungry and overweight coloring in sidebar ([#69005](https://github.com/CleverRaven/Cataclysm-DDA/pull/69005))
 * add more (zombie) leather mask variant ([#69013](https://github.com/CleverRaven/Cataclysm-DDA/pull/69013))
@@ -92,4 +93,3 @@
 * Bugfix: Ensure all selected books are scanned to ereader ([#69020](https://github.com/CleverRaven/Cataclysm-DDA/pull/69020))
 * Fix minor typos ([#69017](https://github.com/CleverRaven/Cataclysm-DDA/pull/69017))
 * Fixing Itemgroups ([#69011](https://github.com/CleverRaven/Cataclysm-DDA/pull/69011))
-* Fix ethanol amount in recipe byproducts ([#69002](https://github.com/CleverRaven/Cataclysm-DDA/pull/69002))
