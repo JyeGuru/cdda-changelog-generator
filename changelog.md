@@ -76,7 +76,6 @@
 * Update doc for graffiti ids in tileset ([#69058](https://github.com/CleverRaven/Cataclysm-DDA/pull/69058))
 * [EoC] Allow set_string_var to parse custom entries ([#69027](https://github.com/CleverRaven/Cataclysm-DDA/pull/69027))
 * [EoC] Condition for asking the player to select a tile ([#69006](https://github.com/CleverRaven/Cataclysm-DDA/pull/69006))
-* Shivs Expansion ([#69001](https://github.com/CleverRaven/Cataclysm-DDA/pull/69001))
 * Routine tileset updates on 01 November 2023 ([#69047](https://github.com/CleverRaven/Cataclysm-DDA/pull/69047))
 * Add ALLOWS_REMOTE_USE to all items with HOTPLATE function. ([#69023](https://github.com/CleverRaven/Cataclysm-DDA/pull/69023))
 * [MoM] Fix Feral Inferno upgrade ([#69042](https://github.com/CleverRaven/Cataclysm-DDA/pull/69042))
