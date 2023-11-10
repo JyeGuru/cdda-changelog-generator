@@ -1,3 +1,4 @@
+* allow disassembly of blanks ([#69191](https://github.com/CleverRaven/Cataclysm-DDA/pull/69191))
 * [MoM] Fix Mind Control practice recipe message ([#69214](https://github.com/CleverRaven/Cataclysm-DDA/pull/69214))
 * [Xedra] Mad Typos, projectile accelerator describes its shape ([#69199](https://github.com/CleverRaven/Cataclysm-DDA/pull/69199))
 * Bulk unloading and dropping items saves time cost ([#69202](https://github.com/CleverRaven/Cataclysm-DDA/pull/69202))
@@ -91,4 +92,3 @@
 * Privacy policy update ([#69039](https://github.com/CleverRaven/Cataclysm-DDA/pull/69039))
 * Remove boat hull coverage penalty for protrusions and carried vehicles ([#69024](https://github.com/CleverRaven/Cataclysm-DDA/pull/69024))
 * Bugfix: Ensure all selected books are scanned to ereader ([#69020](https://github.com/CleverRaven/Cataclysm-DDA/pull/69020))
-* Fix minor typos ([#69017](https://github.com/CleverRaven/Cataclysm-DDA/pull/69017))

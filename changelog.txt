@@ -1,3 +1,4 @@
+* allow disassembly of blanks (#69191)
 * [MoM] Fix Mind Control practice recipe message (#69214)
 * [Xedra] Mad Typos, projectile accelerator describes its shape (#69199)
 * Bulk unloading and dropping items saves time cost (#69202)
@@ -91,4 +92,3 @@
 * Privacy policy update (#69039)
 * Remove boat hull coverage penalty for protrusions and carried vehicles (#69024)
 * Bugfix: Ensure all selected books are scanned to ereader (#69020)
-* Fix minor typos (#69017)
