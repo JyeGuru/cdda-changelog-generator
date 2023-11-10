@@ -62,7 +62,6 @@
 * Urgent fix for #69098 ([#69101](https://github.com/CleverRaven/Cataclysm-DDA/pull/69101))
 * Aftershock: Industrial Outpost ([#69082](https://github.com/CleverRaven/Cataclysm-DDA/pull/69082))
 * Aftershock: Remove passive climate control from several armor suits ([#69090](https://github.com/CleverRaven/Cataclysm-DDA/pull/69090))
-* Add missing arms and their support ([#69021](https://github.com/CleverRaven/Cataclysm-DDA/pull/69021))
 * [MoM] Telepathic Obscurity power turns off in combat ([#69031](https://github.com/CleverRaven/Cataclysm-DDA/pull/69031))
 * Fix Cl fails with setting ammo of "minor wand of fireball" ([#69086](https://github.com/CleverRaven/Cataclysm-DDA/pull/69086))
 * Aftershock: Gauss shotguns ([#69084](https://github.com/CleverRaven/Cataclysm-DDA/pull/69084))
