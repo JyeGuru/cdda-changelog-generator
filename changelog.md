@@ -1,3 +1,4 @@
+* Move the cockatrice to Mind Over Matter ([#69212](https://github.com/CleverRaven/Cataclysm-DDA/pull/69212))
 * Improve item volume loading ([#69238](https://github.com/CleverRaven/Cataclysm-DDA/pull/69238))
 * allow disassembly of blanks ([#69191](https://github.com/CleverRaven/Cataclysm-DDA/pull/69191))
 * [MoM] Fix Mind Control practice recipe message ([#69214](https://github.com/CleverRaven/Cataclysm-DDA/pull/69214))
@@ -76,7 +77,6 @@
 * Make caffeine gum weaker. ([#69068](https://github.com/CleverRaven/Cataclysm-DDA/pull/69068))
 * More zombie dissection snippets. ([#69062](https://github.com/CleverRaven/Cataclysm-DDA/pull/69062))
 * Superglue extra spawns ([#69070](https://github.com/CleverRaven/Cataclysm-DDA/pull/69070))
-* Slimy helps you escape grabs ([#69019](https://github.com/CleverRaven/Cataclysm-DDA/pull/69019))
 * Remove empty dissection snippet ([#69044](https://github.com/CleverRaven/Cataclysm-DDA/pull/69044))
 * EoC Document: Alpha and Beta Talkers by cases ([#69051](https://github.com/CleverRaven/Cataclysm-DDA/pull/69051))
 * Correct Ki Strike description ([#69056](https://github.com/CleverRaven/Cataclysm-DDA/pull/69056))

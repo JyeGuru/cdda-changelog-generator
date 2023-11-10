@@ -1,3 +1,4 @@
+* Move the cockatrice to Mind Over Matter (#69212)
 * Improve item volume loading (#69238)
 * allow disassembly of blanks (#69191)
 * [MoM] Fix Mind Control practice recipe message (#69214)
@@ -76,7 +77,6 @@
 * Make caffeine gum weaker. (#69068)
 * More zombie dissection snippets. (#69062)
 * Superglue extra spawns (#69070)
-* Slimy helps you escape grabs (#69019)
 * Remove empty dissection snippet (#69044)
 * EoC Document: Alpha and Beta Talkers by cases (#69051)
 * Correct Ki Strike description (#69056)
