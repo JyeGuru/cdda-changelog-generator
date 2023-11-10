@@ -1,3 +1,4 @@
+* Improve item volume loading ([#69238](https://github.com/CleverRaven/Cataclysm-DDA/pull/69238))
 * allow disassembly of blanks ([#69191](https://github.com/CleverRaven/Cataclysm-DDA/pull/69191))
 * [MoM] Fix Mind Control practice recipe message ([#69214](https://github.com/CleverRaven/Cataclysm-DDA/pull/69214))
 * [Xedra] Mad Typos, projectile accelerator describes its shape ([#69199](https://github.com/CleverRaven/Cataclysm-DDA/pull/69199))
@@ -85,7 +86,6 @@
 * Routine tileset updates on 01 November 2023 ([#69047](https://github.com/CleverRaven/Cataclysm-DDA/pull/69047))
 * Add ALLOWS_REMOTE_USE to all items with HOTPLATE function. ([#69023](https://github.com/CleverRaven/Cataclysm-DDA/pull/69023))
 * [MoM] Fix Feral Inferno upgrade ([#69042](https://github.com/CleverRaven/Cataclysm-DDA/pull/69042))
-* Spinach seeds ([#69018](https://github.com/CleverRaven/Cataclysm-DDA/pull/69018))
 * Fix a minor bug with mutations healing lost limbs. ([#69034](https://github.com/CleverRaven/Cataclysm-DDA/pull/69034))
 * Add bandit_drug_lab whitelist of overmap generation test ([#69029](https://github.com/CleverRaven/Cataclysm-DDA/pull/69029))
 * Bump Android API level to 33 ([#69038](https://github.com/CleverRaven/Cataclysm-DDA/pull/69038))
