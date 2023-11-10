@@ -1,3 +1,4 @@
+* Remove links in tech lore doc, add some faction updates ([#69220](https://github.com/CleverRaven/Cataclysm-DDA/pull/69220))
 * Minor Crustacean Fixes ([#69194](https://github.com/CleverRaven/Cataclysm-DDA/pull/69194))
 * [Magiclysm] add RELOAD_AND_SHOOT to druid_recurve bow ([#69205](https://github.com/CleverRaven/Cataclysm-DDA/pull/69205))
 * Revert "[CR] Bashing furniture/terrain gradually gets easier" ([#69209](https://github.com/CleverRaven/Cataclysm-DDA/pull/69209))
@@ -89,7 +90,6 @@
 * Privacy policy update ([#69039](https://github.com/CleverRaven/Cataclysm-DDA/pull/69039))
 * Remove boat hull coverage penalty for protrusions and carried vehicles ([#69024](https://github.com/CleverRaven/Cataclysm-DDA/pull/69024))
 * add more (zombie) leather mask variant ([#69013](https://github.com/CleverRaven/Cataclysm-DDA/pull/69013))
-* Open proficiency UI with relevant first selection ([#69009](https://github.com/CleverRaven/Cataclysm-DDA/pull/69009))
 * Bugfix: Ensure all selected books are scanned to ereader ([#69020](https://github.com/CleverRaven/Cataclysm-DDA/pull/69020))
 * Fix minor typos ([#69017](https://github.com/CleverRaven/Cataclysm-DDA/pull/69017))
 * Fixing Itemgroups ([#69011](https://github.com/CleverRaven/Cataclysm-DDA/pull/69011))
