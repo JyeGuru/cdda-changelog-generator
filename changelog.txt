@@ -1,3 +1,4 @@
+* elaborate on PRs closing issues, comments for cc (#69118)
 * Move the cockatrice to Mind Over Matter (#69212)
 * Improve item volume loading (#69238)
 * allow disassembly of blanks (#69191)
@@ -91,4 +92,3 @@
 * Bump Android API level to 33 (#69038)
 * Privacy policy update (#69039)
 * Remove boat hull coverage penalty for protrusions and carried vehicles (#69024)
-* Bugfix: Ensure all selected books are scanned to ereader (#69020)

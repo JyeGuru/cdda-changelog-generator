@@ -1,3 +1,4 @@
+* elaborate on PRs closing issues, comments for cc ([#69118](https://github.com/CleverRaven/Cataclysm-DDA/pull/69118))
 * Move the cockatrice to Mind Over Matter ([#69212](https://github.com/CleverRaven/Cataclysm-DDA/pull/69212))
 * Improve item volume loading ([#69238](https://github.com/CleverRaven/Cataclysm-DDA/pull/69238))
 * allow disassembly of blanks ([#69191](https://github.com/CleverRaven/Cataclysm-DDA/pull/69191))
@@ -91,4 +92,3 @@
 * Bump Android API level to 33 ([#69038](https://github.com/CleverRaven/Cataclysm-DDA/pull/69038))
 * Privacy policy update ([#69039](https://github.com/CleverRaven/Cataclysm-DDA/pull/69039))
 * Remove boat hull coverage penalty for protrusions and carried vehicles ([#69024](https://github.com/CleverRaven/Cataclysm-DDA/pull/69024))
-* Bugfix: Ensure all selected books are scanned to ereader ([#69020](https://github.com/CleverRaven/Cataclysm-DDA/pull/69020))
