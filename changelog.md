@@ -1,3 +1,5 @@
+* [Xedra] Mad Typos, projectile accelerator describes its shape ([#69199](https://github.com/CleverRaven/Cataclysm-DDA/pull/69199))
+* Bulk unloading and dropping items saves time cost ([#69202](https://github.com/CleverRaven/Cataclysm-DDA/pull/69202))
 * Remove links in tech lore doc, add some faction updates ([#69220](https://github.com/CleverRaven/Cataclysm-DDA/pull/69220))
 * Minor Crustacean Fixes ([#69194](https://github.com/CleverRaven/Cataclysm-DDA/pull/69194))
 * [Magiclysm] add RELOAD_AND_SHOOT to druid_recurve bow ([#69205](https://github.com/CleverRaven/Cataclysm-DDA/pull/69205))
@@ -75,7 +77,6 @@
 * Slimy helps you escape grabs ([#69019](https://github.com/CleverRaven/Cataclysm-DDA/pull/69019))
 * Remove empty dissection snippet ([#69044](https://github.com/CleverRaven/Cataclysm-DDA/pull/69044))
 * EoC Document: Alpha and Beta Talkers by cases ([#69051](https://github.com/CleverRaven/Cataclysm-DDA/pull/69051))
-* Aftershock Military Gear ([#69010](https://github.com/CleverRaven/Cataclysm-DDA/pull/69010))
 * Correct Ki Strike description ([#69056](https://github.com/CleverRaven/Cataclysm-DDA/pull/69056))
 * Allow clairsentients to have premonitions about Defense Mode events ([#69059](https://github.com/CleverRaven/Cataclysm-DDA/pull/69059))
 * Update doc for graffiti ids in tileset ([#69058](https://github.com/CleverRaven/Cataclysm-DDA/pull/69058))
@@ -92,4 +93,3 @@
 * add more (zombie) leather mask variant ([#69013](https://github.com/CleverRaven/Cataclysm-DDA/pull/69013))
 * Bugfix: Ensure all selected books are scanned to ereader ([#69020](https://github.com/CleverRaven/Cataclysm-DDA/pull/69020))
 * Fix minor typos ([#69017](https://github.com/CleverRaven/Cataclysm-DDA/pull/69017))
-* Fixing Itemgroups ([#69011](https://github.com/CleverRaven/Cataclysm-DDA/pull/69011))

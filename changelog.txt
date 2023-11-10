@@ -1,3 +1,5 @@
+* [Xedra] Mad Typos, projectile accelerator describes its shape (#69199)
+* Bulk unloading and dropping items saves time cost (#69202)
 * Remove links in tech lore doc, add some faction updates (#69220)
 * Minor Crustacean Fixes (#69194)
 * [Magiclysm] add RELOAD_AND_SHOOT to druid_recurve bow (#69205)
@@ -75,7 +77,6 @@
 * Slimy helps you escape grabs (#69019)
 * Remove empty dissection snippet (#69044)
 * EoC Document: Alpha and Beta Talkers by cases (#69051)
-* Aftershock Military Gear (#69010)
 * Correct Ki Strike description (#69056)
 * Allow clairsentients to have premonitions about Defense Mode events (#69059)
 * Update doc for graffiti ids in tileset (#69058)
@@ -92,4 +93,3 @@
 * add more (zombie) leather mask variant (#69013)
 * Bugfix: Ensure all selected books are scanned to ereader (#69020)
 * Fix minor typos (#69017)
-* Fixing Itemgroups (#69011)
