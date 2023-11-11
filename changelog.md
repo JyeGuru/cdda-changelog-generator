@@ -1,3 +1,4 @@
+* Update gun mod removal inventory menu ([#69203](https://github.com/CleverRaven/Cataclysm-DDA/pull/69203))
 * Expand snippet descriptions when variants are set ([#69190](https://github.com/CleverRaven/Cataclysm-DDA/pull/69190))
 * NPC swarm fleeing; Some more fleeing tweaks based on reports ([#69213](https://github.com/CleverRaven/Cataclysm-DDA/pull/69213))
 * Routine i18n updates on 11 November 2023 ([#69252](https://github.com/CleverRaven/Cataclysm-DDA/pull/69252))
@@ -92,4 +93,3 @@
 * Make caffeine gum weaker. ([#69068](https://github.com/CleverRaven/Cataclysm-DDA/pull/69068))
 * More zombie dissection snippets. ([#69062](https://github.com/CleverRaven/Cataclysm-DDA/pull/69062))
 * Superglue extra spawns ([#69070](https://github.com/CleverRaven/Cataclysm-DDA/pull/69070))
-* Allow clairsentients to have premonitions about Defense Mode events ([#69059](https://github.com/CleverRaven/Cataclysm-DDA/pull/69059))
