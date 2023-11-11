@@ -1,3 +1,4 @@
+* Aftershock:Let stratoscomm relays spawn in the exoplanet. ([#69223](https://github.com/CleverRaven/Cataclysm-DDA/pull/69223))
 * Introduced mi-go weakpoint/proficiencies+mi-go harvest ([#69207](https://github.com/CleverRaven/Cataclysm-DDA/pull/69207))
 * Remove Generic Guns Maintainer ([#69164](https://github.com/CleverRaven/Cataclysm-DDA/pull/69164))
 * Alonso has age restrictions ([#69182](https://github.com/CleverRaven/Cataclysm-DDA/pull/69182))
@@ -91,4 +92,3 @@
 * Allow clairsentients to have premonitions about Defense Mode events ([#69059](https://github.com/CleverRaven/Cataclysm-DDA/pull/69059))
 * Update doc for graffiti ids in tileset ([#69058](https://github.com/CleverRaven/Cataclysm-DDA/pull/69058))
 * Routine tileset updates on 01 November 2023 ([#69047](https://github.com/CleverRaven/Cataclysm-DDA/pull/69047))
-* [MoM] Fix Feral Inferno upgrade ([#69042](https://github.com/CleverRaven/Cataclysm-DDA/pull/69042))
