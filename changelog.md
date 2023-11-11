@@ -1,3 +1,4 @@
+* Expand snippet descriptions when variants are set ([#69190](https://github.com/CleverRaven/Cataclysm-DDA/pull/69190))
 * NPC swarm fleeing; Some more fleeing tweaks based on reports ([#69213](https://github.com/CleverRaven/Cataclysm-DDA/pull/69213))
 * Routine i18n updates on 11 November 2023 ([#69252](https://github.com/CleverRaven/Cataclysm-DDA/pull/69252))
 * Fix missing labels in self-aware Spacebar UI ([#69195](https://github.com/CleverRaven/Cataclysm-DDA/pull/69195))
@@ -92,4 +93,3 @@
 * More zombie dissection snippets. ([#69062](https://github.com/CleverRaven/Cataclysm-DDA/pull/69062))
 * Superglue extra spawns ([#69070](https://github.com/CleverRaven/Cataclysm-DDA/pull/69070))
 * Allow clairsentients to have premonitions about Defense Mode events ([#69059](https://github.com/CleverRaven/Cataclysm-DDA/pull/69059))
-* Update doc for graffiti ids in tileset ([#69058](https://github.com/CleverRaven/Cataclysm-DDA/pull/69058))
