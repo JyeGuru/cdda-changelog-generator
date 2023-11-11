@@ -1,3 +1,4 @@
+* Performance: Optimize monster planning ([#69176](https://github.com/CleverRaven/Cataclysm-DDA/pull/69176))
 * Update gun mod removal inventory menu ([#69203](https://github.com/CleverRaven/Cataclysm-DDA/pull/69203))
 * Expand snippet descriptions when variants are set ([#69190](https://github.com/CleverRaven/Cataclysm-DDA/pull/69190))
 * NPC swarm fleeing; Some more fleeing tweaks based on reports ([#69213](https://github.com/CleverRaven/Cataclysm-DDA/pull/69213))
@@ -68,7 +69,6 @@
 * Leather sheets for crafting leather-padded armor ([#69130](https://github.com/CleverRaven/Cataclysm-DDA/pull/69130))
 * Allow npctalk messages to parse nested tags ([#69135](https://github.com/CleverRaven/Cataclysm-DDA/pull/69135))
 * Here be long skirts ([#69126](https://github.com/CleverRaven/Cataclysm-DDA/pull/69126))
-* Canning the ammunition ([#69060](https://github.com/CleverRaven/Cataclysm-DDA/pull/69060))
 * Allow techniques on reach attacks. ([#69103](https://github.com/CleverRaven/Cataclysm-DDA/pull/69103))
 * Misc fixes for martial arts techniques ([#69111](https://github.com/CleverRaven/Cataclysm-DDA/pull/69111))
 * Update cheap bandolier ([#69119](https://github.com/CleverRaven/Cataclysm-DDA/pull/69119))
