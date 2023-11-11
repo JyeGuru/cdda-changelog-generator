@@ -1,3 +1,4 @@
+* remove memorial group from homebooks ([#69125](https://github.com/CleverRaven/Cataclysm-DDA/pull/69125))
 * Aftershock:Let stratoscomm relays spawn in the exoplanet. ([#69223](https://github.com/CleverRaven/Cataclysm-DDA/pull/69223))
 * Introduced mi-go weakpoint/proficiencies+mi-go harvest ([#69207](https://github.com/CleverRaven/Cataclysm-DDA/pull/69207))
 * Remove Generic Guns Maintainer ([#69164](https://github.com/CleverRaven/Cataclysm-DDA/pull/69164))
@@ -86,7 +87,6 @@
 * Make caffeine gum weaker. ([#69068](https://github.com/CleverRaven/Cataclysm-DDA/pull/69068))
 * More zombie dissection snippets. ([#69062](https://github.com/CleverRaven/Cataclysm-DDA/pull/69062))
 * Superglue extra spawns ([#69070](https://github.com/CleverRaven/Cataclysm-DDA/pull/69070))
-* Remove empty dissection snippet ([#69044](https://github.com/CleverRaven/Cataclysm-DDA/pull/69044))
 * EoC Document: Alpha and Beta Talkers by cases ([#69051](https://github.com/CleverRaven/Cataclysm-DDA/pull/69051))
 * Correct Ki Strike description ([#69056](https://github.com/CleverRaven/Cataclysm-DDA/pull/69056))
 * Allow clairsentients to have premonitions about Defense Mode events ([#69059](https://github.com/CleverRaven/Cataclysm-DDA/pull/69059))
