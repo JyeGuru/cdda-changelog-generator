@@ -1,3 +1,4 @@
+* Introduced mi-go weakpoint/proficiencies+mi-go harvest (#69207)
 * Remove Generic Guns Maintainer (#69164)
 * Alonso has age restrictions (#69182)
 * [MoM] Add radiation attack to feral photokinetics (#69184)
@@ -76,7 +77,6 @@
 * Aftershock: Gauss shotguns (#69084)
 * afs: observe superpositioned chairs (#69085)
 * Martial Arts Improvements, Disarming ++ (#69052)
-* Categorize more containers by their contents (#69040)
 * Allow versionCode customization through local properties (#69064)
 * Doc fixes (#69065)
 * Quicker, more realistic tea steeping times (#69069)

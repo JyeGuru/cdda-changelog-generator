@@ -1,3 +1,4 @@
+* Introduced mi-go weakpoint/proficiencies+mi-go harvest ([#69207](https://github.com/CleverRaven/Cataclysm-DDA/pull/69207))
 * Remove Generic Guns Maintainer ([#69164](https://github.com/CleverRaven/Cataclysm-DDA/pull/69164))
 * Alonso has age restrictions ([#69182](https://github.com/CleverRaven/Cataclysm-DDA/pull/69182))
 * [MoM] Add radiation attack to feral photokinetics ([#69184](https://github.com/CleverRaven/Cataclysm-DDA/pull/69184))
@@ -76,7 +77,6 @@
 * Aftershock: Gauss shotguns ([#69084](https://github.com/CleverRaven/Cataclysm-DDA/pull/69084))
 * afs: observe superpositioned chairs ([#69085](https://github.com/CleverRaven/Cataclysm-DDA/pull/69085))
 * Martial Arts Improvements, Disarming ++ ([#69052](https://github.com/CleverRaven/Cataclysm-DDA/pull/69052))
-* Categorize more containers by their contents ([#69040](https://github.com/CleverRaven/Cataclysm-DDA/pull/69040))
 * Allow versionCode customization through local properties ([#69064](https://github.com/CleverRaven/Cataclysm-DDA/pull/69064))
 * Doc fixes ([#69065](https://github.com/CleverRaven/Cataclysm-DDA/pull/69065))
 * Quicker, more realistic tea steeping times ([#69069](https://github.com/CleverRaven/Cataclysm-DDA/pull/69069))
