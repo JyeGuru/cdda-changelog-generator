@@ -1,3 +1,4 @@
+* Brigandine ALLOWS_TAIL adjustments ([#69267](https://github.com/CleverRaven/Cataclysm-DDA/pull/69267))
 * Weekly Changelog 2023-10-30 to 2023-11-06 ([#69133](https://github.com/CleverRaven/Cataclysm-DDA/pull/69133))
 * Convert glass door fridge to appliance ([#69266](https://github.com/CleverRaven/Cataclysm-DDA/pull/69266))
 * Add more options for naming monsters in mapgen ([#69270](https://github.com/CleverRaven/Cataclysm-DDA/pull/69270))
@@ -90,6 +91,5 @@
 * Fix Cl fails with setting ammo of "minor wand of fireball" ([#69086](https://github.com/CleverRaven/Cataclysm-DDA/pull/69086))
 * Aftershock: Gauss shotguns ([#69084](https://github.com/CleverRaven/Cataclysm-DDA/pull/69084))
 * afs: observe superpositioned chairs ([#69085](https://github.com/CleverRaven/Cataclysm-DDA/pull/69085))
-* Quicker, more realistic tea steeping times ([#69069](https://github.com/CleverRaven/Cataclysm-DDA/pull/69069))
 * Fix mouse clicking stop working at unloading screen ([#69076](https://github.com/CleverRaven/Cataclysm-DDA/pull/69076))
 * Superglue extra spawns ([#69070](https://github.com/CleverRaven/Cataclysm-DDA/pull/69070))
