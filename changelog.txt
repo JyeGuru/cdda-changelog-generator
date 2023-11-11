@@ -1,3 +1,4 @@
+* Knives Out (#69201)
 * Performance: Optimize monster planning (#69176)
 * Update gun mod removal inventory menu (#69203)
 * Expand snippet descriptions when variants are set (#69190)
@@ -91,5 +92,4 @@
 * Quicker, more realistic tea steeping times (#69069)
 * Fix mouse clicking stop working at unloading screen (#69076)
 * Make caffeine gum weaker. (#69068)
-* More zombie dissection snippets. (#69062)
 * Superglue extra spawns (#69070)

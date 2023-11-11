@@ -1,3 +1,4 @@
+* Knives Out ([#69201](https://github.com/CleverRaven/Cataclysm-DDA/pull/69201))
 * Performance: Optimize monster planning ([#69176](https://github.com/CleverRaven/Cataclysm-DDA/pull/69176))
 * Update gun mod removal inventory menu ([#69203](https://github.com/CleverRaven/Cataclysm-DDA/pull/69203))
 * Expand snippet descriptions when variants are set ([#69190](https://github.com/CleverRaven/Cataclysm-DDA/pull/69190))
@@ -91,5 +92,4 @@
 * Quicker, more realistic tea steeping times ([#69069](https://github.com/CleverRaven/Cataclysm-DDA/pull/69069))
 * Fix mouse clicking stop working at unloading screen ([#69076](https://github.com/CleverRaven/Cataclysm-DDA/pull/69076))
 * Make caffeine gum weaker. ([#69068](https://github.com/CleverRaven/Cataclysm-DDA/pull/69068))
-* More zombie dissection snippets. ([#69062](https://github.com/CleverRaven/Cataclysm-DDA/pull/69062))
 * Superglue extra spawns ([#69070](https://github.com/CleverRaven/Cataclysm-DDA/pull/69070))
