@@ -1,3 +1,5 @@
+* Apply clang-tidy check modernize-type-traits auto-fix ([#69234](https://github.com/CleverRaven/Cataclysm-DDA/pull/69234))
+* Discard invalid PO files in pull translations GHA workflow ([#69255](https://github.com/CleverRaven/Cataclysm-DDA/pull/69255))
 * remove memorial group from homebooks ([#69125](https://github.com/CleverRaven/Cataclysm-DDA/pull/69125))
 * Aftershock:Let stratoscomm relays spawn in the exoplanet. ([#69223](https://github.com/CleverRaven/Cataclysm-DDA/pull/69223))
 * Introduced mi-go weakpoint/proficiencies+mi-go harvest ([#69207](https://github.com/CleverRaven/Cataclysm-DDA/pull/69207))
@@ -91,4 +93,3 @@
 * Correct Ki Strike description ([#69056](https://github.com/CleverRaven/Cataclysm-DDA/pull/69056))
 * Allow clairsentients to have premonitions about Defense Mode events ([#69059](https://github.com/CleverRaven/Cataclysm-DDA/pull/69059))
 * Update doc for graffiti ids in tileset ([#69058](https://github.com/CleverRaven/Cataclysm-DDA/pull/69058))
-* Routine tileset updates on 01 November 2023 ([#69047](https://github.com/CleverRaven/Cataclysm-DDA/pull/69047))
