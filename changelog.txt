@@ -1,3 +1,4 @@
+* Balance Mind Over Matter waves for Defense Mode (#69273)
 * Unhardcode sleep nightmares (#69263)
 * Brigandine ALLOWS_TAIL adjustments (#69267)
 * Weekly Changelog 2023-10-30 to 2023-11-06 (#69133)
@@ -45,7 +46,6 @@
 * Give logging camp NPCs some random missions (#69183)
 * introduced basic netherium proficiency + weakpoint, reverting demihuman expansion (#69141)
 * Add Accessibility mod category (#69171)
-* adjust some outdated npc hints (#69071)
 * variant weight is 1 by default (#69174)
 * Weapon Proficiency Support: This Time Its Personal (#69156)
 * Fix infinite pipe glitch (#69181)
