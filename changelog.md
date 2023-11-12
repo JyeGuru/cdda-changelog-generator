@@ -1,3 +1,4 @@
+* Correct closing brackets in COMPILING-VS-VCPKG.md guide ([#69288](https://github.com/CleverRaven/Cataclysm-DDA/pull/69288))
 * Balance Mind Over Matter waves for Defense Mode ([#69273](https://github.com/CleverRaven/Cataclysm-DDA/pull/69273))
 * Unhardcode sleep nightmares ([#69263](https://github.com/CleverRaven/Cataclysm-DDA/pull/69263))
 * Brigandine ALLOWS_TAIL adjustments ([#69267](https://github.com/CleverRaven/Cataclysm-DDA/pull/69267))
@@ -70,7 +71,6 @@
 * No more house of dogs ([#69154](https://github.com/CleverRaven/Cataclysm-DDA/pull/69154))
 * Allow expanding snippets in item descriptions ([#69149](https://github.com/CleverRaven/Cataclysm-DDA/pull/69149))
 * [MoM] Fix Momentum Alteration ([#69150](https://github.com/CleverRaven/Cataclysm-DDA/pull/69150))
-* fixed (some) dissection proficiencies (part 2) ([#69073](https://github.com/CleverRaven/Cataclysm-DDA/pull/69073))
 * Put larger alternator on backup generator ([#69124](https://github.com/CleverRaven/Cataclysm-DDA/pull/69124))
 * Leather sheets for crafting leather-padded armor ([#69130](https://github.com/CleverRaven/Cataclysm-DDA/pull/69130))
 * Allow npctalk messages to parse nested tags ([#69135](https://github.com/CleverRaven/Cataclysm-DDA/pull/69135))
