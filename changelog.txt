@@ -1,3 +1,4 @@
+* Parametrize Exterior walls of houses (#69284)
 * Hand axes aren't great (#69300)
 * Fix looks_like for glass door fridge (#69287)
 * add pecorino and marscapone to the cheese recipe component (#69293)
@@ -65,7 +66,6 @@
 * Weapon Proficiency Support: This Time Its Personal (#69156)
 * Fix infinite pipe glitch (#69181)
 * Fix dmgbuild error in macOS release build GHA workflow (#69162)
-* Routine i18n updates on 04 November 2023 (#69102)
 * Revert "[MoM] Fix Momentum Alteration" (#69172)
 * Leather uncraft and numbers balance (#69134)
 * Migrate arithmetics function with arguments to math (#69147)
