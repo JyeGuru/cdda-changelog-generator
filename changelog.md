@@ -1,3 +1,6 @@
+* You load 59 typos what do you get? ([#69272](https://github.com/CleverRaven/Cataclysm-DDA/pull/69272))
+* Update formatter tools for color support ([#69275](https://github.com/CleverRaven/Cataclysm-DDA/pull/69275))
+* Fix semi-auto AK nested group ([#69277](https://github.com/CleverRaven/Cataclysm-DDA/pull/69277))
 * [Magiclysm] Mi-goify Mi-go Mages ([#69283](https://github.com/CleverRaven/Cataclysm-DDA/pull/69283))
 * Mutagen chelator shold have the category 'mutagen' ([#69282](https://github.com/CleverRaven/Cataclysm-DDA/pull/69282))
 * Fix weapon prof learning EoC ([#69276](https://github.com/CleverRaven/Cataclysm-DDA/pull/69276))
@@ -91,6 +94,3 @@
 * add dehydrated garlic/chili and their recipes ([#69095](https://github.com/CleverRaven/Cataclysm-DDA/pull/69095))
 * Urgent fix for #69098 ([#69101](https://github.com/CleverRaven/Cataclysm-DDA/pull/69101))
 * Aftershock: Remove passive climate control from several armor suits ([#69090](https://github.com/CleverRaven/Cataclysm-DDA/pull/69090))
-* Fix Cl fails with setting ammo of "minor wand of fireball" ([#69086](https://github.com/CleverRaven/Cataclysm-DDA/pull/69086))
-* Aftershock: Gauss shotguns ([#69084](https://github.com/CleverRaven/Cataclysm-DDA/pull/69084))
-* afs: observe superpositioned chairs ([#69085](https://github.com/CleverRaven/Cataclysm-DDA/pull/69085))
