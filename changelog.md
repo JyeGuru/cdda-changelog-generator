@@ -1,3 +1,4 @@
+* Bump up dmg size limit in macOS release build ([#69286](https://github.com/CleverRaven/Cataclysm-DDA/pull/69286))
 * You load 59 typos what do you get? ([#69272](https://github.com/CleverRaven/Cataclysm-DDA/pull/69272))
 * Update formatter tools for color support ([#69275](https://github.com/CleverRaven/Cataclysm-DDA/pull/69275))
 * Fix semi-auto AK nested group ([#69277](https://github.com/CleverRaven/Cataclysm-DDA/pull/69277))
@@ -93,4 +94,3 @@
 * Aftershock: Remove escape pod supply box from crashing ship ([#69099](https://github.com/CleverRaven/Cataclysm-DDA/pull/69099))
 * add dehydrated garlic/chili and their recipes ([#69095](https://github.com/CleverRaven/Cataclysm-DDA/pull/69095))
 * Urgent fix for #69098 ([#69101](https://github.com/CleverRaven/Cataclysm-DDA/pull/69101))
-* Aftershock: Remove passive climate control from several armor suits ([#69090](https://github.com/CleverRaven/Cataclysm-DDA/pull/69090))
