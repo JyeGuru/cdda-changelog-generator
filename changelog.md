@@ -1,3 +1,4 @@
+* Hand axes aren't great ([#69300](https://github.com/CleverRaven/Cataclysm-DDA/pull/69300))
 * Fix looks_like for glass door fridge ([#69287](https://github.com/CleverRaven/Cataclysm-DDA/pull/69287))
 * add pecorino and marscapone to the cheese recipe component ([#69293](https://github.com/CleverRaven/Cataclysm-DDA/pull/69293))
 * Adding missing wp proficiencies (part 4) ([#69292](https://github.com/CleverRaven/Cataclysm-DDA/pull/69292))
@@ -94,4 +95,3 @@
 * Colored skirts ([#69117](https://github.com/CleverRaven/Cataclysm-DDA/pull/69117))
 * Correct perk menu description of Closed Fist ([#69120](https://github.com/CleverRaven/Cataclysm-DDA/pull/69120))
 * Fixed (some) dissection proficiencies (part 3) ([#69104](https://github.com/CleverRaven/Cataclysm-DDA/pull/69104))
-* Urgent fix for #69098 ([#69101](https://github.com/CleverRaven/Cataclysm-DDA/pull/69101))
