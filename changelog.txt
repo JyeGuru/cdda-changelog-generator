@@ -1,3 +1,4 @@
+* Fix weapon prof learning EoC (#69276)
 * Correct closing brackets in COMPILING-VS-VCPKG.md guide (#69288)
 * Balance Mind Over Matter waves for Defense Mode (#69273)
 * Unhardcode sleep nightmares (#69263)
@@ -92,4 +93,3 @@
 * Fix Cl fails with setting ammo of "minor wand of fireball" (#69086)
 * Aftershock: Gauss shotguns (#69084)
 * afs: observe superpositioned chairs (#69085)
-* Fix mouse clicking stop working at unloading screen (#69076)
