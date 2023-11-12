@@ -1,3 +1,5 @@
+* [Magiclysm] Mi-goify Mi-go Mages ([#69283](https://github.com/CleverRaven/Cataclysm-DDA/pull/69283))
+* Mutagen chelator shold have the category 'mutagen' ([#69282](https://github.com/CleverRaven/Cataclysm-DDA/pull/69282))
 * Fix weapon prof learning EoC ([#69276](https://github.com/CleverRaven/Cataclysm-DDA/pull/69276))
 * Correct closing brackets in COMPILING-VS-VCPKG.md guide ([#69288](https://github.com/CleverRaven/Cataclysm-DDA/pull/69288))
 * Balance Mind Over Matter waves for Defense Mode ([#69273](https://github.com/CleverRaven/Cataclysm-DDA/pull/69273))
@@ -88,7 +90,6 @@
 * Aftershock: Remove escape pod supply box from crashing ship ([#69099](https://github.com/CleverRaven/Cataclysm-DDA/pull/69099))
 * add dehydrated garlic/chili and their recipes ([#69095](https://github.com/CleverRaven/Cataclysm-DDA/pull/69095))
 * Urgent fix for #69098 ([#69101](https://github.com/CleverRaven/Cataclysm-DDA/pull/69101))
-* Aftershock: Industrial Outpost ([#69082](https://github.com/CleverRaven/Cataclysm-DDA/pull/69082))
 * Aftershock: Remove passive climate control from several armor suits ([#69090](https://github.com/CleverRaven/Cataclysm-DDA/pull/69090))
 * Fix Cl fails with setting ammo of "minor wand of fireball" ([#69086](https://github.com/CleverRaven/Cataclysm-DDA/pull/69086))
 * Aftershock: Gauss shotguns ([#69084](https://github.com/CleverRaven/Cataclysm-DDA/pull/69084))
