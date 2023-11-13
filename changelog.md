@@ -1,3 +1,4 @@
+* [Xedra Evolved] fix spells, that give temp limbs ([#69298](https://github.com/CleverRaven/Cataclysm-DDA/pull/69298))
 * Appease clang-tidy check cata-use-string_view ([#69301](https://github.com/CleverRaven/Cataclysm-DDA/pull/69301))
 * [MoM] Edit Tricks of the Light effect to distinguish it from Combat Sense ([#69216](https://github.com/CleverRaven/Cataclysm-DDA/pull/69216))
 * thyme to fix this ([#69310](https://github.com/CleverRaven/Cataclysm-DDA/pull/69310))
@@ -93,5 +94,4 @@
 * Allow npctalk messages to parse nested tags ([#69135](https://github.com/CleverRaven/Cataclysm-DDA/pull/69135))
 * Here be long skirts ([#69126](https://github.com/CleverRaven/Cataclysm-DDA/pull/69126))
 * Update cheap bandolier ([#69119](https://github.com/CleverRaven/Cataclysm-DDA/pull/69119))
-* Colored skirts ([#69117](https://github.com/CleverRaven/Cataclysm-DDA/pull/69117))
 * Correct perk menu description of Closed Fist ([#69120](https://github.com/CleverRaven/Cataclysm-DDA/pull/69120))
