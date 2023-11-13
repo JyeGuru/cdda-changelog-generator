@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-11-06 to 2023-11-13 ([#69317](https://github.com/CleverRaven/Cataclysm-DDA/pull/69317))
 * Fix corded electric chainsaw dropping its extension cord ([#69331](https://github.com/CleverRaven/Cataclysm-DDA/pull/69331))
 * Fix items from losing functionality when manually inserted and/or providing player light when used remotely ([#69295](https://github.com/CleverRaven/Cataclysm-DDA/pull/69295))
 * [Xedra Evolved] fix spells, that give temp limbs ([#69298](https://github.com/CleverRaven/Cataclysm-DDA/pull/69298))
@@ -94,4 +95,3 @@
 * Leather sheets for crafting leather-padded armor ([#69130](https://github.com/CleverRaven/Cataclysm-DDA/pull/69130))
 * Allow npctalk messages to parse nested tags ([#69135](https://github.com/CleverRaven/Cataclysm-DDA/pull/69135))
 * Here be long skirts ([#69126](https://github.com/CleverRaven/Cataclysm-DDA/pull/69126))
-* Correct perk menu description of Closed Fist ([#69120](https://github.com/CleverRaven/Cataclysm-DDA/pull/69120))
