@@ -1,3 +1,4 @@
+* Fix corded electric chainsaw dropping its extension cord (#69331)
 * Fix items from losing functionality when manually inserted and/or providing player light when used remotely (#69295)
 * [Xedra Evolved] fix spells, that give temp limbs (#69298)
 * Appease clang-tidy check cata-use-string_view (#69301)
@@ -93,5 +94,4 @@
 * Leather sheets for crafting leather-padded armor (#69130)
 * Allow npctalk messages to parse nested tags (#69135)
 * Here be long skirts (#69126)
-* Update cheap bandolier (#69119)
 * Correct perk menu description of Closed Fist (#69120)
