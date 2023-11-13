@@ -1,3 +1,4 @@
+* Appease clang-tidy check cata-use-string_view (#69301)
 * [MoM] Edit Tricks of the Light effect to distinguish it from Combat Sense (#69216)
 * thyme to fix this (#69310)
 * Revive #62457 (#69210)
@@ -92,6 +93,5 @@
 * Allow npctalk messages to parse nested tags (#69135)
 * Here be long skirts (#69126)
 * Update cheap bandolier (#69119)
-* The Bronze Age has arrived (#69116)
 * Colored skirts (#69117)
 * Correct perk menu description of Closed Fist (#69120)
