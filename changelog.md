@@ -1,3 +1,4 @@
+* fix hunting lodge spawns you in locked room ([#69340](https://github.com/CleverRaven/Cataclysm-DDA/pull/69340))
 * Bugfix Constructed hammer ([#69229](https://github.com/CleverRaven/Cataclysm-DDA/pull/69229))
 * Fix remote-activated lights on the ground not illuminating ([#69296](https://github.com/CleverRaven/Cataclysm-DDA/pull/69296))
 * Fix items applying effects multiple times when transformed ([#69312](https://github.com/CleverRaven/Cataclysm-DDA/pull/69312))
@@ -75,7 +76,6 @@
 * Revert "[CR] Bashing furniture/terrain gradually gets easier" ([#69209](https://github.com/CleverRaven/Cataclysm-DDA/pull/69209))
 * Add 5.56 AP and 7.62 AP rounds ([#69161](https://github.com/CleverRaven/Cataclysm-DDA/pull/69161))
 * Give logging camp NPCs some random missions ([#69183](https://github.com/CleverRaven/Cataclysm-DDA/pull/69183))
-* introduced basic netherium proficiency + weakpoint, reverting demihuman expansion ([#69141](https://github.com/CleverRaven/Cataclysm-DDA/pull/69141))
 * Add Accessibility mod category ([#69171](https://github.com/CleverRaven/Cataclysm-DDA/pull/69171))
 * variant weight is 1 by default ([#69174](https://github.com/CleverRaven/Cataclysm-DDA/pull/69174))
 * Weapon Proficiency Support: This Time Its Personal ([#69156](https://github.com/CleverRaven/Cataclysm-DDA/pull/69156))
