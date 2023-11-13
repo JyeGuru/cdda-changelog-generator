@@ -1,3 +1,4 @@
+* Bugfix Constructed hammer (#69229)
 * Fix remote-activated lights on the ground not illuminating (#69296)
 * Fix items applying effects multiple times when transformed (#69312)
 * primitive cups (#69314)
