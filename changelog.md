@@ -77,7 +77,6 @@
 * Revert "[MoM] Fix Momentum Alteration" ([#69172](https://github.com/CleverRaven/Cataclysm-DDA/pull/69172))
 * Leather uncraft and numbers balance ([#69134](https://github.com/CleverRaven/Cataclysm-DDA/pull/69134))
 * Migrate arithmetics function with arguments to math ([#69147](https://github.com/CleverRaven/Cataclysm-DDA/pull/69147))
-* Infectious diseases come on gradually ([#69123](https://github.com/CleverRaven/Cataclysm-DDA/pull/69123))
 * [MoM] Further Photokinesis integration + certain actions remove maintained powers ([#69168](https://github.com/CleverRaven/Cataclysm-DDA/pull/69168))
 * [Xedra Evolved] fix unobtainable alchemy 5 ([#69166](https://github.com/CleverRaven/Cataclysm-DDA/pull/69166))
 * fix the name for `ar_glasses_advanced` ([#69165](https://github.com/CleverRaven/Cataclysm-DDA/pull/69165))
