@@ -1,3 +1,4 @@
+* Fix items from losing functionality when manually inserted and/or providing player light when used remotely ([#69295](https://github.com/CleverRaven/Cataclysm-DDA/pull/69295))
 * [Xedra Evolved] fix spells, that give temp limbs ([#69298](https://github.com/CleverRaven/Cataclysm-DDA/pull/69298))
 * Appease clang-tidy check cata-use-string_view ([#69301](https://github.com/CleverRaven/Cataclysm-DDA/pull/69301))
 * [MoM] Edit Tricks of the Light effect to distinguish it from Combat Sense ([#69216](https://github.com/CleverRaven/Cataclysm-DDA/pull/69216))
@@ -53,7 +54,6 @@
 * Weapon Proficiency Debugging ([#69231](https://github.com/CleverRaven/Cataclysm-DDA/pull/69231))
 * Corrected argument order in widget::text() call ([#69232](https://github.com/CleverRaven/Cataclysm-DDA/pull/69232))
 * Appease clang-tidy check readability-static-accessed-through-instance ([#69233](https://github.com/CleverRaven/Cataclysm-DDA/pull/69233))
-* elaborate on PRs closing issues, comments for cc ([#69118](https://github.com/CleverRaven/Cataclysm-DDA/pull/69118))
 * Move the cockatrice to Mind Over Matter ([#69212](https://github.com/CleverRaven/Cataclysm-DDA/pull/69212))
 * Improve item volume loading ([#69238](https://github.com/CleverRaven/Cataclysm-DDA/pull/69238))
 * allow disassembly of blanks ([#69191](https://github.com/CleverRaven/Cataclysm-DDA/pull/69191))
