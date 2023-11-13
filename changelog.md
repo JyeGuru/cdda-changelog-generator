@@ -89,7 +89,6 @@
 * colored hoodie ([#69160](https://github.com/CleverRaven/Cataclysm-DDA/pull/69160))
 * Convert all of the New England Community Church functions from `arithmetic` and `compare_num` to `math` ([#69151](https://github.com/CleverRaven/Cataclysm-DDA/pull/69151))
 * Add corded electric chainsaw ([#69152](https://github.com/CleverRaven/Cataclysm-DDA/pull/69152))
-* fix npc background conversation ([#69136](https://github.com/CleverRaven/Cataclysm-DDA/pull/69136))
 * Better EoC doc, part 3.1 ([#69148](https://github.com/CleverRaven/Cataclysm-DDA/pull/69148))
 * No more house of dogs ([#69154](https://github.com/CleverRaven/Cataclysm-DDA/pull/69154))
 * Allow expanding snippets in item descriptions ([#69149](https://github.com/CleverRaven/Cataclysm-DDA/pull/69149))
