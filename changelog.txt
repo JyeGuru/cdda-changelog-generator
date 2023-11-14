@@ -1,3 +1,4 @@
+* Deafening Zombie Military Pilots (#69241)
 * Fix climate control base variation. (#69348)
 * [Xedra Evolved] Add denim to xedra tailor kit use actions for base game parity (#69375)
 * The effect "corroding" should only be added when causing damage (#69345)
@@ -91,4 +92,3 @@
 * [Xedra Evolved] fix unobtainable alchemy 5 (#69166)
 * fix the name for `ar_glasses_advanced` (#69165)
 * Update the table of contents in doc/JSON_INFO.md (#69167)
-* colored hoodie (#69160)
