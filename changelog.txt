@@ -1,3 +1,4 @@
+* Move remove_creature_from_reachability from destructor to on_unload. (#69368)
 * Deafening Zombie Military Pilots (#69241)
 * Fix climate control base variation. (#69348)
 * [Xedra Evolved] Add denim to xedra tailor kit use actions for base game parity (#69375)
@@ -81,7 +82,6 @@
 * Minor Crustacean Fixes (#69194)
 * [Magiclysm] add RELOAD_AND_SHOOT to druid_recurve bow (#69205)
 * Revert "[CR] Bashing furniture/terrain gradually gets easier" (#69209)
-* Add 5.56 AP and 7.62 AP rounds (#69161)
 * Give logging camp NPCs some random missions (#69183)
 * Add Accessibility mod category (#69171)
 * variant weight is 1 by default (#69174)
