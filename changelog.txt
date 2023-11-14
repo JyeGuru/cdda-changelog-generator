@@ -91,6 +91,5 @@
 * fix the name for `ar_glasses_advanced` (#69165)
 * Update the table of contents in doc/JSON_INFO.md (#69167)
 * colored hoodie (#69160)
-* Convert all of the New England Community Church functions from `arithmetic` and `compare_num` to `math` (#69151)
 * Add corded electric chainsaw (#69152)
 * No more house of dogs (#69154)
