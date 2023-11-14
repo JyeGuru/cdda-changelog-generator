@@ -84,7 +84,6 @@
 * Give logging camp NPCs some random missions ([#69183](https://github.com/CleverRaven/Cataclysm-DDA/pull/69183))
 * Add Accessibility mod category ([#69171](https://github.com/CleverRaven/Cataclysm-DDA/pull/69171))
 * variant weight is 1 by default ([#69174](https://github.com/CleverRaven/Cataclysm-DDA/pull/69174))
-* Weapon Proficiency Support: This Time Its Personal ([#69156](https://github.com/CleverRaven/Cataclysm-DDA/pull/69156))
 * Fix infinite pipe glitch ([#69181](https://github.com/CleverRaven/Cataclysm-DDA/pull/69181))
 * Fix dmgbuild error in macOS release build GHA workflow ([#69162](https://github.com/CleverRaven/Cataclysm-DDA/pull/69162))
 * Revert "[MoM] Fix Momentum Alteration" ([#69172](https://github.com/CleverRaven/Cataclysm-DDA/pull/69172))
