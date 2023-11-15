@@ -1,3 +1,4 @@
+* Add residential rolling trash cans ([#69344](https://github.com/CleverRaven/Cataclysm-DDA/pull/69344))
 * Allow sandwiches to be made using toast ([#69406](https://github.com/CleverRaven/Cataclysm-DDA/pull/69406))
 * Revert monster opts ([#69399](https://github.com/CleverRaven/Cataclysm-DDA/pull/69399))
 * Change Gram recipe broadsword type ([#69389](https://github.com/CleverRaven/Cataclysm-DDA/pull/69389))
@@ -64,7 +65,6 @@
 * Add more options for naming monsters in mapgen ([#69270](https://github.com/CleverRaven/Cataclysm-DDA/pull/69270))
 * Knives Out ([#69201](https://github.com/CleverRaven/Cataclysm-DDA/pull/69201))
 * Update gun mod removal inventory menu ([#69203](https://github.com/CleverRaven/Cataclysm-DDA/pull/69203))
-* Expand snippet descriptions when variants are set ([#69190](https://github.com/CleverRaven/Cataclysm-DDA/pull/69190))
 * NPC swarm fleeing; Some more fleeing tweaks based on reports ([#69213](https://github.com/CleverRaven/Cataclysm-DDA/pull/69213))
 * Routine i18n updates on 11 November 2023 ([#69252](https://github.com/CleverRaven/Cataclysm-DDA/pull/69252))
 * Fix missing labels in self-aware Spacebar UI ([#69195](https://github.com/CleverRaven/Cataclysm-DDA/pull/69195))
