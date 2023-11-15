@@ -1,3 +1,5 @@
+* Yet another seed count fix ([#69415](https://github.com/CleverRaven/Cataclysm-DDA/pull/69415))
+* Chainmail update, in reference to #69251 ([#69302](https://github.com/CleverRaven/Cataclysm-DDA/pull/69302))
 * Add residential rolling trash cans ([#69344](https://github.com/CleverRaven/Cataclysm-DDA/pull/69344))
 * Allow sandwiches to be made using toast ([#69406](https://github.com/CleverRaven/Cataclysm-DDA/pull/69406))
 * Revert monster opts ([#69399](https://github.com/CleverRaven/Cataclysm-DDA/pull/69399))
@@ -83,7 +85,6 @@
 * Appease clang-tidy check readability-static-accessed-through-instance ([#69233](https://github.com/CleverRaven/Cataclysm-DDA/pull/69233))
 * Move the cockatrice to Mind Over Matter ([#69212](https://github.com/CleverRaven/Cataclysm-DDA/pull/69212))
 * Improve item volume loading ([#69238](https://github.com/CleverRaven/Cataclysm-DDA/pull/69238))
-* allow disassembly of blanks ([#69191](https://github.com/CleverRaven/Cataclysm-DDA/pull/69191))
 * [MoM] Fix Mind Control practice recipe message ([#69214](https://github.com/CleverRaven/Cataclysm-DDA/pull/69214))
 * [Xedra] Mad Typos, projectile accelerator describes its shape ([#69199](https://github.com/CleverRaven/Cataclysm-DDA/pull/69199))
 * Bulk unloading and dropping items saves time cost ([#69202](https://github.com/CleverRaven/Cataclysm-DDA/pull/69202))
