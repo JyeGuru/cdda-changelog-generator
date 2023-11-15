@@ -73,7 +73,6 @@
 * Discard invalid PO files in pull translations GHA workflow ([#69255](https://github.com/CleverRaven/Cataclysm-DDA/pull/69255))
 * Aftershock:Let stratoscomm relays spawn in the exoplanet. ([#69223](https://github.com/CleverRaven/Cataclysm-DDA/pull/69223))
 * Introduced mi-go weakpoint/proficiencies+mi-go harvest ([#69207](https://github.com/CleverRaven/Cataclysm-DDA/pull/69207))
-* [MoM] Add pyrokinetic fire to requirements lists ([#69187](https://github.com/CleverRaven/Cataclysm-DDA/pull/69187))
 * [Xedra Evolved] Reduce the installation requirements of some Mad Genius gunmods ([#69188](https://github.com/CleverRaven/Cataclysm-DDA/pull/69188))
 * Remove cockatrice ([#69208](https://github.com/CleverRaven/Cataclysm-DDA/pull/69208))
 * Aftershock: Exoplanetify the Robot Dispatch ([#69222](https://github.com/CleverRaven/Cataclysm-DDA/pull/69222))
