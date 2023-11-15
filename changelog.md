@@ -1,3 +1,5 @@
+* Change Gram recipe broadsword type ([#69389](https://github.com/CleverRaven/Cataclysm-DDA/pull/69389))
+* fix invalid proficiency id "prof_wp_netherium" ([#69391](https://github.com/CleverRaven/Cataclysm-DDA/pull/69391))
 * [MoM] Edit math with min to enforce maximums ([#69311](https://github.com/CleverRaven/Cataclysm-DDA/pull/69311))
 * [MoM] Prevent psionic creatures from using powers if nullified ([#69329](https://github.com/CleverRaven/Cataclysm-DDA/pull/69329))
 * fix error message in tacoma ranch quest ([#69393](https://github.com/CleverRaven/Cataclysm-DDA/pull/69393))
@@ -70,7 +72,6 @@
 * Discard invalid PO files in pull translations GHA workflow ([#69255](https://github.com/CleverRaven/Cataclysm-DDA/pull/69255))
 * Aftershock:Let stratoscomm relays spawn in the exoplanet. ([#69223](https://github.com/CleverRaven/Cataclysm-DDA/pull/69223))
 * Introduced mi-go weakpoint/proficiencies+mi-go harvest ([#69207](https://github.com/CleverRaven/Cataclysm-DDA/pull/69207))
-* Alonso has age restrictions ([#69182](https://github.com/CleverRaven/Cataclysm-DDA/pull/69182))
 * [MoM] Add radiation attack to feral photokinetics ([#69184](https://github.com/CleverRaven/Cataclysm-DDA/pull/69184))
 * [MoM] Add pyrokinetic fire to requirements lists ([#69187](https://github.com/CleverRaven/Cataclysm-DDA/pull/69187))
 * [Xedra Evolved] Reduce the installation requirements of some Mad Genius gunmods ([#69188](https://github.com/CleverRaven/Cataclysm-DDA/pull/69188))
@@ -91,4 +92,3 @@
 * Minor Crustacean Fixes ([#69194](https://github.com/CleverRaven/Cataclysm-DDA/pull/69194))
 * [Magiclysm] add RELOAD_AND_SHOOT to druid_recurve bow ([#69205](https://github.com/CleverRaven/Cataclysm-DDA/pull/69205))
 * Revert "[CR] Bashing furniture/terrain gradually gets easier" ([#69209](https://github.com/CleverRaven/Cataclysm-DDA/pull/69209))
-* Give logging camp NPCs some random missions ([#69183](https://github.com/CleverRaven/Cataclysm-DDA/pull/69183))
