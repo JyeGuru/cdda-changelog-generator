@@ -1,3 +1,6 @@
+* [MoM] Add calorie cost for psionics ([#69322](https://github.com/CleverRaven/Cataclysm-DDA/pull/69322))
+* density fixes ([#69336](https://github.com/CleverRaven/Cataclysm-DDA/pull/69336))
+* Fix gun names with `show gun brand names` on ([#69387](https://github.com/CleverRaven/Cataclysm-DDA/pull/69387))
 * Can't put in-progress food into faction larder ([#69361](https://github.com/CleverRaven/Cataclysm-DDA/pull/69361))
 * [MoM] Merge lasers and photokinetic damage ([#69366](https://github.com/CleverRaven/Cataclysm-DDA/pull/69366))
 * Nested weapon combat practice ([#69367](https://github.com/CleverRaven/Cataclysm-DDA/pull/69367))
@@ -89,6 +92,3 @@
 * variant weight is 1 by default ([#69174](https://github.com/CleverRaven/Cataclysm-DDA/pull/69174))
 * Fix infinite pipe glitch ([#69181](https://github.com/CleverRaven/Cataclysm-DDA/pull/69181))
 * Revert "[MoM] Fix Momentum Alteration" ([#69172](https://github.com/CleverRaven/Cataclysm-DDA/pull/69172))
-* [MoM] Further Photokinesis integration + certain actions remove maintained powers ([#69168](https://github.com/CleverRaven/Cataclysm-DDA/pull/69168))
-* [Xedra Evolved] fix unobtainable alchemy 5 ([#69166](https://github.com/CleverRaven/Cataclysm-DDA/pull/69166))
-* Update the table of contents in doc/JSON_INFO.md ([#69167](https://github.com/CleverRaven/Cataclysm-DDA/pull/69167))
