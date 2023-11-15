@@ -1,3 +1,4 @@
+* Revert monster opts ([#69399](https://github.com/CleverRaven/Cataclysm-DDA/pull/69399))
 * Change Gram recipe broadsword type ([#69389](https://github.com/CleverRaven/Cataclysm-DDA/pull/69389))
 * fix invalid proficiency id "prof_wp_netherium" ([#69391](https://github.com/CleverRaven/Cataclysm-DDA/pull/69391))
 * [MoM] Edit math with min to enforce maximums ([#69311](https://github.com/CleverRaven/Cataclysm-DDA/pull/69311))
@@ -72,7 +73,6 @@
 * Discard invalid PO files in pull translations GHA workflow ([#69255](https://github.com/CleverRaven/Cataclysm-DDA/pull/69255))
 * Aftershock:Let stratoscomm relays spawn in the exoplanet. ([#69223](https://github.com/CleverRaven/Cataclysm-DDA/pull/69223))
 * Introduced mi-go weakpoint/proficiencies+mi-go harvest ([#69207](https://github.com/CleverRaven/Cataclysm-DDA/pull/69207))
-* [MoM] Add radiation attack to feral photokinetics ([#69184](https://github.com/CleverRaven/Cataclysm-DDA/pull/69184))
 * [MoM] Add pyrokinetic fire to requirements lists ([#69187](https://github.com/CleverRaven/Cataclysm-DDA/pull/69187))
 * [Xedra Evolved] Reduce the installation requirements of some Mad Genius gunmods ([#69188](https://github.com/CleverRaven/Cataclysm-DDA/pull/69188))
 * Remove cockatrice ([#69208](https://github.com/CleverRaven/Cataclysm-DDA/pull/69208))
