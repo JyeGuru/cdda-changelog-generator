@@ -1,3 +1,4 @@
+* Fix crash on restacking inserted item ([#69378](https://github.com/CleverRaven/Cataclysm-DDA/pull/69378))
 * [MoM] Add calorie cost for psionics ([#69322](https://github.com/CleverRaven/Cataclysm-DDA/pull/69322))
 * density fixes ([#69336](https://github.com/CleverRaven/Cataclysm-DDA/pull/69336))
 * Fix gun names with `show gun brand names` on ([#69387](https://github.com/CleverRaven/Cataclysm-DDA/pull/69387))
@@ -88,7 +89,6 @@
 * [Magiclysm] add RELOAD_AND_SHOOT to druid_recurve bow ([#69205](https://github.com/CleverRaven/Cataclysm-DDA/pull/69205))
 * Revert "[CR] Bashing furniture/terrain gradually gets easier" ([#69209](https://github.com/CleverRaven/Cataclysm-DDA/pull/69209))
 * Give logging camp NPCs some random missions ([#69183](https://github.com/CleverRaven/Cataclysm-DDA/pull/69183))
-* Add Accessibility mod category ([#69171](https://github.com/CleverRaven/Cataclysm-DDA/pull/69171))
 * variant weight is 1 by default ([#69174](https://github.com/CleverRaven/Cataclysm-DDA/pull/69174))
 * Fix infinite pipe glitch ([#69181](https://github.com/CleverRaven/Cataclysm-DDA/pull/69181))
 * Revert "[MoM] Fix Momentum Alteration" ([#69172](https://github.com/CleverRaven/Cataclysm-DDA/pull/69172))
