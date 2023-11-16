@@ -87,7 +87,6 @@
 * Apply clang-tidy check modernize-type-traits auto-fix (#69234)
 * Discard invalid PO files in pull translations GHA workflow (#69255)
 * fix hardened trench knife times (#69230)
-* Document Gunmod Blacklist Function (#69228)
 * Weapon Proficiency Debugging (#69231)
 * Corrected argument order in widget::text() call (#69232)
 * Appease clang-tidy check readability-static-accessed-through-instance (#69233)
