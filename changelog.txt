@@ -1,3 +1,4 @@
+* Reduce NPC faction camp task slowdown & fix save data bloat bug (#69379)
 * [MoM] Add small chance of psi research to PHAVIAN scientists special (#69425)
 * Log messages about items falling onto monsters appear when you see the monster (#69381)
 * [Xedra Evolved] Mad Inventor Wide-Shot Choke (#69401)
@@ -91,4 +92,3 @@
 * Corrected argument order in widget::text() call (#69232)
 * Appease clang-tidy check readability-static-accessed-through-instance (#69233)
 * Improve item volume loading (#69238)
-* Remove links in tech lore doc, add some faction updates (#69220)
