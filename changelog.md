@@ -45,7 +45,6 @@
 * Fixes misstypes for combat weapon proficiencies ([#69365](https://github.com/CleverRaven/Cataclysm-DDA/pull/69365))
 * Handle migrating non-global EOC to global queue with same id ([#69318](https://github.com/CleverRaven/Cataclysm-DDA/pull/69318))
 * fix hunting lodge spawns you in locked room ([#69340](https://github.com/CleverRaven/Cataclysm-DDA/pull/69340))
-* Bugfix Constructed hammer ([#69229](https://github.com/CleverRaven/Cataclysm-DDA/pull/69229))
 * Fix remote-activated lights on the ground not illuminating ([#69296](https://github.com/CleverRaven/Cataclysm-DDA/pull/69296))
 * Fix items applying effects multiple times when transformed ([#69312](https://github.com/CleverRaven/Cataclysm-DDA/pull/69312))
 * primitive cups ([#69314](https://github.com/CleverRaven/Cataclysm-DDA/pull/69314))
