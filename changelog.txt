@@ -1,3 +1,4 @@
+* Make Mininuke real-er (#69412)
 * Animal Food Matters (#69249)
 * Reduce time of selecting large amount of items in inventory menu (#69330)
 * Add option to switch between outfit (when available) at chargen (#69358)
@@ -76,7 +77,6 @@
 * Brigandine ALLOWS_TAIL adjustments (#69267)
 * Convert glass door fridge to appliance (#69266)
 * Add more options for naming monsters in mapgen (#69270)
-* NPC swarm fleeing; Some more fleeing tweaks based on reports (#69213)
 * Routine i18n updates on 11 November 2023 (#69252)
 * Cyan reinforced concrete wall name fix (#69257)
 * Adds more craftable casings (#69227)
