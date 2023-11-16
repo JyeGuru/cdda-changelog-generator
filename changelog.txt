@@ -1,3 +1,4 @@
+* Small tweaks (#69443)
 * [MoM] Change Pyrokinesis passive trait (#69356)
 * Added more physiology (part 5) (#69377)
 * Reduce NPC faction camp task slowdown & fix save data bloat bug (#69379)
@@ -83,7 +84,6 @@
 * Add more options for naming monsters in mapgen (#69270)
 * Routine i18n updates on 11 November 2023 (#69252)
 * Cyan reinforced concrete wall name fix (#69257)
-* Adds more craftable casings (#69227)
 * Apply clang-tidy check modernize-type-traits auto-fix (#69234)
 * Discard invalid PO files in pull translations GHA workflow (#69255)
 * fix hardened trench knife times (#69230)
