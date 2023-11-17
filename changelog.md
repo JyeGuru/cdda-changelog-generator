@@ -1,3 +1,4 @@
+* ci: linter ignores drafts ([#69469](https://github.com/CleverRaven/Cataclysm-DDA/pull/69469))
 * [Xedra Evolved] fix spells, that give temp limbs, take two ([#69464](https://github.com/CleverRaven/Cataclysm-DDA/pull/69464))
 * Remove redundant FMS entry. ([#69475](https://github.com/CleverRaven/Cataclysm-DDA/pull/69475))
 * supress an uninitialized variable warning ([#69485](https://github.com/CleverRaven/Cataclysm-DDA/pull/69485))
@@ -16,7 +17,6 @@
 * Log messages about items falling onto monsters appear when you see the monster ([#69381](https://github.com/CleverRaven/Cataclysm-DDA/pull/69381))
 * [Xedra Evolved] Mad Inventor Wide-Shot Choke ([#69401](https://github.com/CleverRaven/Cataclysm-DDA/pull/69401))
 * Make Mininuke real-er ([#69412](https://github.com/CleverRaven/Cataclysm-DDA/pull/69412))
-* Animal Food Matters ([#69249](https://github.com/CleverRaven/Cataclysm-DDA/pull/69249))
 * Reduce time of selecting large amount of items in inventory menu ([#69330](https://github.com/CleverRaven/Cataclysm-DDA/pull/69330))
 * Add option to switch between outfit (when available) at chargen ([#69358](https://github.com/CleverRaven/Cataclysm-DDA/pull/69358))
 * Nerf pointy stick meta ([#69400](https://github.com/CleverRaven/Cataclysm-DDA/pull/69400))
