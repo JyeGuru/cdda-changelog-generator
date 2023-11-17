@@ -1,3 +1,4 @@
+* Chainmail update arms and legs, in reference to #69251 ([#69461](https://github.com/CleverRaven/Cataclysm-DDA/pull/69461))
 * Glooscap is Wabanaki ([#69484](https://github.com/CleverRaven/Cataclysm-DDA/pull/69484))
 * Expand the useable weapons in melee training recipes ([#69427](https://github.com/CleverRaven/Cataclysm-DDA/pull/69427))
 * Fix Rubik's warehouse clairification ([#69446](https://github.com/CleverRaven/Cataclysm-DDA/pull/69446))
@@ -88,5 +89,4 @@
 * Fix weapon prof learning EoC ([#69276](https://github.com/CleverRaven/Cataclysm-DDA/pull/69276))
 * Correct closing brackets in COMPILING-VS-VCPKG.md guide ([#69288](https://github.com/CleverRaven/Cataclysm-DDA/pull/69288))
 * Balance Mind Over Matter waves for Defense Mode ([#69273](https://github.com/CleverRaven/Cataclysm-DDA/pull/69273))
-* Brigandine ALLOWS_TAIL adjustments ([#69267](https://github.com/CleverRaven/Cataclysm-DDA/pull/69267))
 * Add more options for naming monsters in mapgen ([#69270](https://github.com/CleverRaven/Cataclysm-DDA/pull/69270))
