@@ -1,3 +1,4 @@
+* [Xedra Evolved] fix spells, that give temp limbs, take two ([#69464](https://github.com/CleverRaven/Cataclysm-DDA/pull/69464))
 * Remove redundant FMS entry. ([#69475](https://github.com/CleverRaven/Cataclysm-DDA/pull/69475))
 * supress an uninitialized variable warning ([#69485](https://github.com/CleverRaven/Cataclysm-DDA/pull/69485))
 * Adding multiple addictions to some alcohol drinks ([#69454](https://github.com/CleverRaven/Cataclysm-DDA/pull/69454))
@@ -73,7 +74,6 @@
 * Fix looks_like for glass door fridge ([#69287](https://github.com/CleverRaven/Cataclysm-DDA/pull/69287))
 * add pecorino and marscapone to the cheese recipe component ([#69293](https://github.com/CleverRaven/Cataclysm-DDA/pull/69293))
 * Adding missing wp proficiencies (part 4) ([#69292](https://github.com/CleverRaven/Cataclysm-DDA/pull/69292))
-* Bulk loading items saves time cost for generic "pick up(g)" process ([#69244](https://github.com/CleverRaven/Cataclysm-DDA/pull/69244))
 * Bump up dmg size limit in macOS release build ([#69286](https://github.com/CleverRaven/Cataclysm-DDA/pull/69286))
 * You load 59 typos what do you get? ([#69272](https://github.com/CleverRaven/Cataclysm-DDA/pull/69272))
 * Update formatter tools for color support ([#69275](https://github.com/CleverRaven/Cataclysm-DDA/pull/69275))
