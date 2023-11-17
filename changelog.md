@@ -1,3 +1,4 @@
+* [EoC] Some monster and map related update ([#69405](https://github.com/CleverRaven/Cataclysm-DDA/pull/69405))
 * Added Artichoke fruit dessert fun value in fruit_dishes.json ([#69471](https://github.com/CleverRaven/Cataclysm-DDA/pull/69471))
 * [Aftershock: Exoplanet] Revamp the Emergency Evacuation scenario to EOC-based workings. ([#69462](https://github.com/CleverRaven/Cataclysm-DDA/pull/69462))
 * [MoM] Add two light-creating powers ([#69355](https://github.com/CleverRaven/Cataclysm-DDA/pull/69355))
@@ -71,7 +72,6 @@
 * Fix looks_like for glass door fridge ([#69287](https://github.com/CleverRaven/Cataclysm-DDA/pull/69287))
 * add pecorino and marscapone to the cheese recipe component ([#69293](https://github.com/CleverRaven/Cataclysm-DDA/pull/69293))
 * Adding missing wp proficiencies (part 4) ([#69292](https://github.com/CleverRaven/Cataclysm-DDA/pull/69292))
-* Display vitamins by mass in item descriptions ([#69235](https://github.com/CleverRaven/Cataclysm-DDA/pull/69235))
 * Bulk loading items saves time cost for generic "pick up(g)" process ([#69244](https://github.com/CleverRaven/Cataclysm-DDA/pull/69244))
 * Bump up dmg size limit in macOS release build ([#69286](https://github.com/CleverRaven/Cataclysm-DDA/pull/69286))
 * You load 59 typos what do you get? ([#69272](https://github.com/CleverRaven/Cataclysm-DDA/pull/69272))
