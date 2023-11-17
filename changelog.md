@@ -1,3 +1,4 @@
+* [Aftershock: Exoplanet] Revamp the Emergency Evacuation scenario to EOC-based workings. ([#69462](https://github.com/CleverRaven/Cataclysm-DDA/pull/69462))
 * [MoM] Add two light-creating powers ([#69355](https://github.com/CleverRaven/Cataclysm-DDA/pull/69355))
 * Remove some 20x66 loads ([#69376](https://github.com/CleverRaven/Cataclysm-DDA/pull/69376))
 * [GG] don't check blacklisted items for migration ([#69445](https://github.com/CleverRaven/Cataclysm-DDA/pull/69445))
@@ -88,5 +89,4 @@
 * Cyan reinforced concrete wall name fix ([#69257](https://github.com/CleverRaven/Cataclysm-DDA/pull/69257))
 * Apply clang-tidy check modernize-type-traits auto-fix ([#69234](https://github.com/CleverRaven/Cataclysm-DDA/pull/69234))
 * Discard invalid PO files in pull translations GHA workflow ([#69255](https://github.com/CleverRaven/Cataclysm-DDA/pull/69255))
-* Appease clang-tidy check readability-static-accessed-through-instance ([#69233](https://github.com/CleverRaven/Cataclysm-DDA/pull/69233))
 * Improve item volume loading ([#69238](https://github.com/CleverRaven/Cataclysm-DDA/pull/69238))
