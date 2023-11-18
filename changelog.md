@@ -1,3 +1,4 @@
+* add rehydrated garlic/chili and their recipes ([#69458](https://github.com/CleverRaven/Cataclysm-DDA/pull/69458))
 * [EoC] Port distance function to math ([#69372](https://github.com/CleverRaven/Cataclysm-DDA/pull/69372))
 * [MoM] Drain overhaul + Power Maintenance overhaul, take 2 ([#69428](https://github.com/CleverRaven/Cataclysm-DDA/pull/69428))
 * Allow overmap autotravel to evac center & hub01 ([#69465](https://github.com/CleverRaven/Cataclysm-DDA/pull/69465))
@@ -84,7 +85,6 @@
 * Shadow lieutenant warning interrupt activities ([#69333](https://github.com/CleverRaven/Cataclysm-DDA/pull/69333))
 * Weekly Changelog 2023-11-06 to 2023-11-13 ([#69317](https://github.com/CleverRaven/Cataclysm-DDA/pull/69317))
 * Fix corded electric chainsaw dropping its extension cord ([#69331](https://github.com/CleverRaven/Cataclysm-DDA/pull/69331))
-* Fix items from losing functionality when manually inserted and/or providing player light when used remotely ([#69295](https://github.com/CleverRaven/Cataclysm-DDA/pull/69295))
 * [Xedra Evolved] fix spells, that give temp limbs ([#69298](https://github.com/CleverRaven/Cataclysm-DDA/pull/69298))
 * Appease clang-tidy check cata-use-string_view ([#69301](https://github.com/CleverRaven/Cataclysm-DDA/pull/69301))
 * thyme to fix this ([#69310](https://github.com/CleverRaven/Cataclysm-DDA/pull/69310))
