@@ -1,3 +1,4 @@
+* 7.62x39 Import restrictions ([#69505](https://github.com/CleverRaven/Cataclysm-DDA/pull/69505))
 * Allow diving into water to remove Mycus spores. ([#69448](https://github.com/CleverRaven/Cataclysm-DDA/pull/69448))
 * Remove charges from grain seed recipes ([#69447](https://github.com/CleverRaven/Cataclysm-DDA/pull/69447))
 * [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
@@ -89,5 +90,4 @@
 * Weekly Changelog 2023-11-06 to 2023-11-13 ([#69317](https://github.com/CleverRaven/Cataclysm-DDA/pull/69317))
 * Fix corded electric chainsaw dropping its extension cord ([#69331](https://github.com/CleverRaven/Cataclysm-DDA/pull/69331))
 * thyme to fix this ([#69310](https://github.com/CleverRaven/Cataclysm-DDA/pull/69310))
-* Buttered toast should be able to be made with raw butter, too. ([#69303](https://github.com/CleverRaven/Cataclysm-DDA/pull/69303))
 * Fragile armor is fragile ([#69304](https://github.com/CleverRaven/Cataclysm-DDA/pull/69304))
