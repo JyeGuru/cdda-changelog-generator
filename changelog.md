@@ -90,4 +90,3 @@
 * Weekly Changelog 2023-11-06 to 2023-11-13 ([#69317](https://github.com/CleverRaven/Cataclysm-DDA/pull/69317))
 * Fix corded electric chainsaw dropping its extension cord ([#69331](https://github.com/CleverRaven/Cataclysm-DDA/pull/69331))
 * thyme to fix this ([#69310](https://github.com/CleverRaven/Cataclysm-DDA/pull/69310))
-* Fragile armor is fragile ([#69304](https://github.com/CleverRaven/Cataclysm-DDA/pull/69304))
