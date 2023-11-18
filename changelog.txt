@@ -1,3 +1,4 @@
+* Fix Clang-tidy 16 warning (2023-11-16) (#69444)
 * change quick panel switch keys in @ menu (#69490)
 * add rehydrated garlic/chili and their recipes (#69458)
 * [EoC] Port distance function to math (#69372)
@@ -85,7 +86,6 @@
 * Shadow lieutenant warning interrupt activities (#69333)
 * Weekly Changelog 2023-11-06 to 2023-11-13 (#69317)
 * Fix corded electric chainsaw dropping its extension cord (#69331)
-* [Xedra Evolved] fix spells, that give temp limbs (#69298)
 * Appease clang-tidy check cata-use-string_view (#69301)
 * thyme to fix this (#69310)
 * Buttered toast should be able to be made with raw butter, too. (#69303)
