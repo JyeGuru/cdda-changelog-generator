@@ -1,3 +1,4 @@
+* Remove charges from grain seed recipes ([#69447](https://github.com/CleverRaven/Cataclysm-DDA/pull/69447))
 * [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
 * Fix Clang-tidy 16 warning (2023-11-16) ([#69444](https://github.com/CleverRaven/Cataclysm-DDA/pull/69444))
 * change quick panel switch keys in @ menu ([#69490](https://github.com/CleverRaven/Cataclysm-DDA/pull/69490))
@@ -87,7 +88,6 @@
 * Shadow lieutenant warning interrupt activities ([#69333](https://github.com/CleverRaven/Cataclysm-DDA/pull/69333))
 * Weekly Changelog 2023-11-06 to 2023-11-13 ([#69317](https://github.com/CleverRaven/Cataclysm-DDA/pull/69317))
 * Fix corded electric chainsaw dropping its extension cord ([#69331](https://github.com/CleverRaven/Cataclysm-DDA/pull/69331))
-* Appease clang-tidy check cata-use-string_view ([#69301](https://github.com/CleverRaven/Cataclysm-DDA/pull/69301))
 * thyme to fix this ([#69310](https://github.com/CleverRaven/Cataclysm-DDA/pull/69310))
 * Buttered toast should be able to be made with raw butter, too. ([#69303](https://github.com/CleverRaven/Cataclysm-DDA/pull/69303))
 * Fragile armor is fragile ([#69304](https://github.com/CleverRaven/Cataclysm-DDA/pull/69304))
