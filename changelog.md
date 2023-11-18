@@ -1,3 +1,4 @@
+* Allow diving into water to remove Mycus spores. ([#69448](https://github.com/CleverRaven/Cataclysm-DDA/pull/69448))
 * Remove charges from grain seed recipes ([#69447](https://github.com/CleverRaven/Cataclysm-DDA/pull/69447))
 * [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
 * Fix Clang-tidy 16 warning (2023-11-16) ([#69444](https://github.com/CleverRaven/Cataclysm-DDA/pull/69444))
@@ -54,7 +55,6 @@
 * Add wintergreen seeds to bird food components ([#69385](https://github.com/CleverRaven/Cataclysm-DDA/pull/69385))
 * Some looks likes for melee ([#69395](https://github.com/CleverRaven/Cataclysm-DDA/pull/69395))
 * Yet another seed count fix ([#69415](https://github.com/CleverRaven/Cataclysm-DDA/pull/69415))
-* Chainmail update, in reference to #69251 ([#69302](https://github.com/CleverRaven/Cataclysm-DDA/pull/69302))
 * Add residential rolling trash cans ([#69344](https://github.com/CleverRaven/Cataclysm-DDA/pull/69344))
 * Allow sandwiches to be made using toast ([#69406](https://github.com/CleverRaven/Cataclysm-DDA/pull/69406))
 * Revert monster opts ([#69399](https://github.com/CleverRaven/Cataclysm-DDA/pull/69399))
