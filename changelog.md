@@ -1,3 +1,4 @@
+* [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
 * Fix Clang-tidy 16 warning (2023-11-16) ([#69444](https://github.com/CleverRaven/Cataclysm-DDA/pull/69444))
 * change quick panel switch keys in @ menu ([#69490](https://github.com/CleverRaven/Cataclysm-DDA/pull/69490))
 * add rehydrated garlic/chili and their recipes ([#69458](https://github.com/CleverRaven/Cataclysm-DDA/pull/69458))
@@ -90,4 +91,3 @@
 * thyme to fix this ([#69310](https://github.com/CleverRaven/Cataclysm-DDA/pull/69310))
 * Buttered toast should be able to be made with raw butter, too. ([#69303](https://github.com/CleverRaven/Cataclysm-DDA/pull/69303))
 * Fragile armor is fragile ([#69304](https://github.com/CleverRaven/Cataclysm-DDA/pull/69304))
-* Hand axes aren't great ([#69300](https://github.com/CleverRaven/Cataclysm-DDA/pull/69300))
