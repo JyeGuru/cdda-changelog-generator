@@ -1,3 +1,5 @@
+* Added physiology to monsters (part 6) ([#69438](https://github.com/CleverRaven/Cataclysm-DDA/pull/69438))
+* Make flatbread sandwiches again ([#69509](https://github.com/CleverRaven/Cataclysm-DDA/pull/69509))
 * 7.62x39 Import restrictions ([#69505](https://github.com/CleverRaven/Cataclysm-DDA/pull/69505))
 * Allow diving into water to remove Mycus spores. ([#69448](https://github.com/CleverRaven/Cataclysm-DDA/pull/69448))
 * Remove charges from grain seed recipes ([#69447](https://github.com/CleverRaven/Cataclysm-DDA/pull/69447))
@@ -61,7 +63,6 @@
 * Revert monster opts ([#69399](https://github.com/CleverRaven/Cataclysm-DDA/pull/69399))
 * Change Gram recipe broadsword type ([#69389](https://github.com/CleverRaven/Cataclysm-DDA/pull/69389))
 * fix invalid proficiency id "prof_wp_netherium" ([#69391](https://github.com/CleverRaven/Cataclysm-DDA/pull/69391))
-* [MoM] Edit math with min to enforce maximums ([#69311](https://github.com/CleverRaven/Cataclysm-DDA/pull/69311))
 * [MoM] Prevent psionic creatures from using powers if nullified ([#69329](https://github.com/CleverRaven/Cataclysm-DDA/pull/69329))
 * fix error message in tacoma ranch quest ([#69393](https://github.com/CleverRaven/Cataclysm-DDA/pull/69393))
 * Fix ar rifles inheritance ([#69394](https://github.com/CleverRaven/Cataclysm-DDA/pull/69394))
@@ -89,4 +90,3 @@
 * Shadow lieutenant warning interrupt activities ([#69333](https://github.com/CleverRaven/Cataclysm-DDA/pull/69333))
 * Weekly Changelog 2023-11-06 to 2023-11-13 ([#69317](https://github.com/CleverRaven/Cataclysm-DDA/pull/69317))
 * Fix corded electric chainsaw dropping its extension cord ([#69331](https://github.com/CleverRaven/Cataclysm-DDA/pull/69331))
-* thyme to fix this ([#69310](https://github.com/CleverRaven/Cataclysm-DDA/pull/69310))
