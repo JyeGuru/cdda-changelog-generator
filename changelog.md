@@ -87,6 +87,5 @@
 * The effect "corroding" should only be added when causing damage ([#69345](https://github.com/CleverRaven/Cataclysm-DDA/pull/69345))
 * Fixes misstypes for combat weapon proficiencies ([#69365](https://github.com/CleverRaven/Cataclysm-DDA/pull/69365))
 * fix hunting lodge spawns you in locked room ([#69340](https://github.com/CleverRaven/Cataclysm-DDA/pull/69340))
-* allow sandwiches to be made with tortillas ([#69327](https://github.com/CleverRaven/Cataclysm-DDA/pull/69327))
 * Shadow lieutenant warning interrupt activities ([#69333](https://github.com/CleverRaven/Cataclysm-DDA/pull/69333))
 * Fix corded electric chainsaw dropping its extension cord ([#69331](https://github.com/CleverRaven/Cataclysm-DDA/pull/69331))
