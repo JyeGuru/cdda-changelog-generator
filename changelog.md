@@ -1,3 +1,4 @@
+* Update default character constructor ([#69550](https://github.com/CleverRaven/Cataclysm-DDA/pull/69550))
 * [MoM] Change Enervating Touch to biological damage  ([#69531](https://github.com/CleverRaven/Cataclysm-DDA/pull/69531))
 * Sapra '36 uses launcher skill ([#69517](https://github.com/CleverRaven/Cataclysm-DDA/pull/69517))
 * Routine i18n updates on 18 November 2023 ([#69492](https://github.com/CleverRaven/Cataclysm-DDA/pull/69492))
@@ -84,7 +85,6 @@
 * Fix climate control base variation. ([#69348](https://github.com/CleverRaven/Cataclysm-DDA/pull/69348))
 * [Xedra Evolved] Add denim to xedra tailor kit use actions for base game parity ([#69375](https://github.com/CleverRaven/Cataclysm-DDA/pull/69375))
 * The effect "corroding" should only be added when causing damage ([#69345](https://github.com/CleverRaven/Cataclysm-DDA/pull/69345))
-* Give professions appropriate knives ([#69323](https://github.com/CleverRaven/Cataclysm-DDA/pull/69323))
 * Fixes misstypes for combat weapon proficiencies ([#69365](https://github.com/CleverRaven/Cataclysm-DDA/pull/69365))
 * fix hunting lodge spawns you in locked room ([#69340](https://github.com/CleverRaven/Cataclysm-DDA/pull/69340))
 * allow sandwiches to be made with tortillas ([#69327](https://github.com/CleverRaven/Cataclysm-DDA/pull/69327))
