@@ -1,3 +1,4 @@
+* Sapra '36 uses launcher skill ([#69517](https://github.com/CleverRaven/Cataclysm-DDA/pull/69517))
 * Routine i18n updates on 18 November 2023 ([#69492](https://github.com/CleverRaven/Cataclysm-DDA/pull/69492))
 * Allow NPCs to teleport without the player ([#69468](https://github.com/CleverRaven/Cataclysm-DDA/pull/69468))
 * Correctly use positional arguments in format string ([#69536](https://github.com/CleverRaven/Cataclysm-DDA/pull/69536))
@@ -86,7 +87,6 @@
 * Give professions appropriate knives ([#69323](https://github.com/CleverRaven/Cataclysm-DDA/pull/69323))
 * Fixes misstypes for combat weapon proficiencies ([#69365](https://github.com/CleverRaven/Cataclysm-DDA/pull/69365))
 * fix hunting lodge spawns you in locked room ([#69340](https://github.com/CleverRaven/Cataclysm-DDA/pull/69340))
-* fix: tweaks to auto labeler ([#69321](https://github.com/CleverRaven/Cataclysm-DDA/pull/69321))
 * allow sandwiches to be made with tortillas ([#69327](https://github.com/CleverRaven/Cataclysm-DDA/pull/69327))
 * Shadow lieutenant warning interrupt activities ([#69333](https://github.com/CleverRaven/Cataclysm-DDA/pull/69333))
 * Fix corded electric chainsaw dropping its extension cord ([#69331](https://github.com/CleverRaven/Cataclysm-DDA/pull/69331))
