@@ -1,3 +1,4 @@
+* [MoM] Fix for being unable to toggle off "Candle's Glow" power. ([#69515](https://github.com/CleverRaven/Cataclysm-DDA/pull/69515))
 * Add last stand scenario based on the map extra ([#69533](https://github.com/CleverRaven/Cataclysm-DDA/pull/69533))
 * mannequins are now deployable and easily pickable ([#69544](https://github.com/CleverRaven/Cataclysm-DDA/pull/69544))
 * Add medium and large fodder items ([#69432](https://github.com/CleverRaven/Cataclysm-DDA/pull/69432))
@@ -89,4 +90,3 @@
 * [Xedra Evolved] Add denim to xedra tailor kit use actions for base game parity ([#69375](https://github.com/CleverRaven/Cataclysm-DDA/pull/69375))
 * The effect "corroding" should only be added when causing damage ([#69345](https://github.com/CleverRaven/Cataclysm-DDA/pull/69345))
 * Fixes misstypes for combat weapon proficiencies ([#69365](https://github.com/CleverRaven/Cataclysm-DDA/pull/69365))
-* fix hunting lodge spawns you in locked room ([#69340](https://github.com/CleverRaven/Cataclysm-DDA/pull/69340))
