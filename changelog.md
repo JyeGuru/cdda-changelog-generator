@@ -1,3 +1,4 @@
+* Chainmail update Hauberks and Sleeveless Jumpsuits, reference #69251 ([#69511](https://github.com/CleverRaven/Cataclysm-DDA/pull/69511))
 * Added physiology to monsters (part 6) ([#69438](https://github.com/CleverRaven/Cataclysm-DDA/pull/69438))
 * Make flatbread sandwiches again ([#69509](https://github.com/CleverRaven/Cataclysm-DDA/pull/69509))
 * 7.62x39 Import restrictions ([#69505](https://github.com/CleverRaven/Cataclysm-DDA/pull/69505))
@@ -81,7 +82,6 @@
 * Fixes misstypes for combat weapon proficiencies ([#69365](https://github.com/CleverRaven/Cataclysm-DDA/pull/69365))
 * Handle migrating non-global EOC to global queue with same id ([#69318](https://github.com/CleverRaven/Cataclysm-DDA/pull/69318))
 * fix hunting lodge spawns you in locked room ([#69340](https://github.com/CleverRaven/Cataclysm-DDA/pull/69340))
-* Fix items applying effects multiple times when transformed ([#69312](https://github.com/CleverRaven/Cataclysm-DDA/pull/69312))
 * primitive cups ([#69314](https://github.com/CleverRaven/Cataclysm-DDA/pull/69314))
 * Fix grain stooks ([#69319](https://github.com/CleverRaven/Cataclysm-DDA/pull/69319))
 * Adjust seed paste requirements ([#69320](https://github.com/CleverRaven/Cataclysm-DDA/pull/69320))
