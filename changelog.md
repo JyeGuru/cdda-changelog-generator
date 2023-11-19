@@ -1,3 +1,4 @@
+* Reduce evaporated milk quench ([#69526](https://github.com/CleverRaven/Cataclysm-DDA/pull/69526))
 * Remove minimum size of survivor belt sheath ([#69528](https://github.com/CleverRaven/Cataclysm-DDA/pull/69528))
 * Chainmail update Hauberks and Sleeveless Jumpsuits, reference #69251 ([#69511](https://github.com/CleverRaven/Cataclysm-DDA/pull/69511))
 * Added physiology to monsters (part 6) ([#69438](https://github.com/CleverRaven/Cataclysm-DDA/pull/69438))
@@ -88,5 +89,4 @@
 * fix: tweaks to auto labeler ([#69321](https://github.com/CleverRaven/Cataclysm-DDA/pull/69321))
 * allow sandwiches to be made with tortillas ([#69327](https://github.com/CleverRaven/Cataclysm-DDA/pull/69327))
 * Shadow lieutenant warning interrupt activities ([#69333](https://github.com/CleverRaven/Cataclysm-DDA/pull/69333))
-* Weekly Changelog 2023-11-06 to 2023-11-13 ([#69317](https://github.com/CleverRaven/Cataclysm-DDA/pull/69317))
 * Fix corded electric chainsaw dropping its extension cord ([#69331](https://github.com/CleverRaven/Cataclysm-DDA/pull/69331))
