@@ -1,3 +1,5 @@
+* Add last stand scenario based on the map extra ([#69533](https://github.com/CleverRaven/Cataclysm-DDA/pull/69533))
+* mannequins are now deployable and easily pickable ([#69544](https://github.com/CleverRaven/Cataclysm-DDA/pull/69544))
 * Add medium and large fodder items ([#69432](https://github.com/CleverRaven/Cataclysm-DDA/pull/69432))
 * Lower kukri component requirements ([#69510](https://github.com/CleverRaven/Cataclysm-DDA/pull/69510))
 * Added recipes to farm 2 ([#69543](https://github.com/CleverRaven/Cataclysm-DDA/pull/69543))
@@ -78,7 +80,6 @@
 * fix error message in tacoma ranch quest ([#69393](https://github.com/CleverRaven/Cataclysm-DDA/pull/69393))
 * Fix ar rifles inheritance ([#69394](https://github.com/CleverRaven/Cataclysm-DDA/pull/69394))
 * Fix crash on restacking inserted item ([#69378](https://github.com/CleverRaven/Cataclysm-DDA/pull/69378))
-* density fixes ([#69336](https://github.com/CleverRaven/Cataclysm-DDA/pull/69336))
 * Fix gun names with `show gun brand names` on ([#69387](https://github.com/CleverRaven/Cataclysm-DDA/pull/69387))
 * Can't put in-progress food into faction larder ([#69361](https://github.com/CleverRaven/Cataclysm-DDA/pull/69361))
 * [MoM] Merge lasers and photokinetic damage ([#69366](https://github.com/CleverRaven/Cataclysm-DDA/pull/69366))
