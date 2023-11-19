@@ -1,3 +1,4 @@
+* [MoM] Change Enervating Touch to biological damage  (#69531)
 * Sapra '36 uses launcher skill (#69517)
 * Routine i18n updates on 18 November 2023 (#69492)
 * Allow NPCs to teleport without the player (#69468)
@@ -74,7 +75,6 @@
 * fix error message in tacoma ranch quest (#69393)
 * Fix ar rifles inheritance (#69394)
 * Fix crash on restacking inserted item (#69378)
-* [MoM] Add calorie cost for psionics (#69322)
 * density fixes (#69336)
 * Fix gun names with `show gun brand names` on (#69387)
 * Can't put in-progress food into faction larder (#69361)
