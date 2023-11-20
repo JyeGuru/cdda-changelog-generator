@@ -1,3 +1,4 @@
+* Separated personal bare bones base recipes into separate file (#69542)
 * Chainmail update suits and faraday, reference #69251  (#69573)
 * [Xedra Evolved] Maintained spell message grammar improvements (#69578)
 * Make recipe activity_level mandatory, depreciate "fake" (#69545)
@@ -89,4 +90,3 @@
 * Nested weapon combat practice (#69367)
 * Move remove_creature_from_reachability from destructor to on_unload. (#69368)
 * [Xedra Evolved] Add denim to xedra tailor kit use actions for base game parity (#69375)
-* Fixes misstypes for combat weapon proficiencies (#69365)
