@@ -1,3 +1,4 @@
+* Make recipe activity_level mandatory, depreciate "fake" ([#69545](https://github.com/CleverRaven/Cataclysm-DDA/pull/69545))
 * Boston-chan costume ([#69568](https://github.com/CleverRaven/Cataclysm-DDA/pull/69568))
 * 38 super reloads, ballistics by the inch ([#69529](https://github.com/CleverRaven/Cataclysm-DDA/pull/69529))
 * Fix stair alignment for military bunker ([#69561](https://github.com/CleverRaven/Cataclysm-DDA/pull/69561))
@@ -61,7 +62,6 @@
 * Remove some 20x66 loads ([#69376](https://github.com/CleverRaven/Cataclysm-DDA/pull/69376))
 * [GG] don't check blacklisted items for migration ([#69445](https://github.com/CleverRaven/Cataclysm-DDA/pull/69445))
 * Small tweaks ([#69443](https://github.com/CleverRaven/Cataclysm-DDA/pull/69443))
-* [MoM] Change Pyrokinesis passive trait ([#69356](https://github.com/CleverRaven/Cataclysm-DDA/pull/69356))
 * Added more physiology (part 5) ([#69377](https://github.com/CleverRaven/Cataclysm-DDA/pull/69377))
 * Reduce NPC faction camp task slowdown & fix save data bloat bug ([#69379](https://github.com/CleverRaven/Cataclysm-DDA/pull/69379))
 * [MoM] Add small chance of psi research to PHAVIAN scientists special ([#69425](https://github.com/CleverRaven/Cataclysm-DDA/pull/69425))
