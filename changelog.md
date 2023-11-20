@@ -1,3 +1,4 @@
+* [Xedra Evolved] Maintained spell message grammar improvements ([#69578](https://github.com/CleverRaven/Cataclysm-DDA/pull/69578))
 * Make recipe activity_level mandatory, depreciate "fake" ([#69545](https://github.com/CleverRaven/Cataclysm-DDA/pull/69545))
 * Boston-chan costume ([#69568](https://github.com/CleverRaven/Cataclysm-DDA/pull/69568))
 * 38 super reloads, ballistics by the inch ([#69529](https://github.com/CleverRaven/Cataclysm-DDA/pull/69529))
@@ -68,7 +69,6 @@
 * Log messages about items falling onto monsters appear when you see the monster ([#69381](https://github.com/CleverRaven/Cataclysm-DDA/pull/69381))
 * [Xedra Evolved] Mad Inventor Wide-Shot Choke ([#69401](https://github.com/CleverRaven/Cataclysm-DDA/pull/69401))
 * Make Mininuke real-er ([#69412](https://github.com/CleverRaven/Cataclysm-DDA/pull/69412))
-* Add option to switch between outfit (when available) at chargen ([#69358](https://github.com/CleverRaven/Cataclysm-DDA/pull/69358))
 * Nerf pointy stick meta ([#69400](https://github.com/CleverRaven/Cataclysm-DDA/pull/69400))
 * Misc string fixes ([#69422](https://github.com/CleverRaven/Cataclysm-DDA/pull/69422))
 * Decrease range  on Feral Marine Bayonet attack (and adjust its mondrops) ([#69380](https://github.com/CleverRaven/Cataclysm-DDA/pull/69380))
