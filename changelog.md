@@ -1,3 +1,4 @@
+* Bugfix: Prevent infinite loop when spawning monsters ([#69558](https://github.com/CleverRaven/Cataclysm-DDA/pull/69558))
 * Separated personal bare bones base recipes into separate file ([#69542](https://github.com/CleverRaven/Cataclysm-DDA/pull/69542))
 * Chainmail update suits and faraday, reference #69251  ([#69573](https://github.com/CleverRaven/Cataclysm-DDA/pull/69573))
 * [Xedra Evolved] Maintained spell message grammar improvements ([#69578](https://github.com/CleverRaven/Cataclysm-DDA/pull/69578))
@@ -86,7 +87,6 @@
 * Fix ar rifles inheritance ([#69394](https://github.com/CleverRaven/Cataclysm-DDA/pull/69394))
 * Fix crash on restacking inserted item ([#69378](https://github.com/CleverRaven/Cataclysm-DDA/pull/69378))
 * Fix gun names with `show gun brand names` on ([#69387](https://github.com/CleverRaven/Cataclysm-DDA/pull/69387))
-* [MoM] Merge lasers and photokinetic damage ([#69366](https://github.com/CleverRaven/Cataclysm-DDA/pull/69366))
 * Nested weapon combat practice ([#69367](https://github.com/CleverRaven/Cataclysm-DDA/pull/69367))
 * Move remove_creature_from_reachability from destructor to on_unload. ([#69368](https://github.com/CleverRaven/Cataclysm-DDA/pull/69368))
 * [Xedra Evolved] Add denim to xedra tailor kit use actions for base game parity ([#69375](https://github.com/CleverRaven/Cataclysm-DDA/pull/69375))
