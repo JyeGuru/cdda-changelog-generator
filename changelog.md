@@ -1,3 +1,5 @@
+* 38 super reloads, ballistics by the inch ([#69529](https://github.com/CleverRaven/Cataclysm-DDA/pull/69529))
+* Fix stair alignment for military bunker ([#69561](https://github.com/CleverRaven/Cataclysm-DDA/pull/69561))
 * [Xedra] Undine Eyes are UNDINE ([#69569](https://github.com/CleverRaven/Cataclysm-DDA/pull/69569))
 * [MoM] Fix for being unable to toggle off "Candle's Glow" power. ([#69515](https://github.com/CleverRaven/Cataclysm-DDA/pull/69515))
 * Add last stand scenario based on the map extra ([#69533](https://github.com/CleverRaven/Cataclysm-DDA/pull/69533))
@@ -88,5 +90,4 @@
 * Move remove_creature_from_reachability from destructor to on_unload. ([#69368](https://github.com/CleverRaven/Cataclysm-DDA/pull/69368))
 * Fix climate control base variation. ([#69348](https://github.com/CleverRaven/Cataclysm-DDA/pull/69348))
 * [Xedra Evolved] Add denim to xedra tailor kit use actions for base game parity ([#69375](https://github.com/CleverRaven/Cataclysm-DDA/pull/69375))
-* The effect "corroding" should only be added when causing damage ([#69345](https://github.com/CleverRaven/Cataclysm-DDA/pull/69345))
 * Fixes misstypes for combat weapon proficiencies ([#69365](https://github.com/CleverRaven/Cataclysm-DDA/pull/69365))
