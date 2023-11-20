@@ -58,7 +58,6 @@
 * [EoC] Some monster and map related update ([#69405](https://github.com/CleverRaven/Cataclysm-DDA/pull/69405))
 * Added Artichoke fruit dessert fun value in fruit_dishes.json ([#69471](https://github.com/CleverRaven/Cataclysm-DDA/pull/69471))
 * [Aftershock: Exoplanet] Revamp the Emergency Evacuation scenario to EOC-based workings. ([#69462](https://github.com/CleverRaven/Cataclysm-DDA/pull/69462))
-* [MoM] Add two light-creating powers ([#69355](https://github.com/CleverRaven/Cataclysm-DDA/pull/69355))
 * Remove some 20x66 loads ([#69376](https://github.com/CleverRaven/Cataclysm-DDA/pull/69376))
 * [GG] don't check blacklisted items for migration ([#69445](https://github.com/CleverRaven/Cataclysm-DDA/pull/69445))
 * Small tweaks ([#69443](https://github.com/CleverRaven/Cataclysm-DDA/pull/69443))
