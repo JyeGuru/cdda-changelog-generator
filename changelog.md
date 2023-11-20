@@ -1,3 +1,4 @@
+* Chainmail update suits and faraday, reference #69251  ([#69573](https://github.com/CleverRaven/Cataclysm-DDA/pull/69573))
 * [Xedra Evolved] Maintained spell message grammar improvements ([#69578](https://github.com/CleverRaven/Cataclysm-DDA/pull/69578))
 * Make recipe activity_level mandatory, depreciate "fake" ([#69545](https://github.com/CleverRaven/Cataclysm-DDA/pull/69545))
 * Boston-chan costume ([#69568](https://github.com/CleverRaven/Cataclysm-DDA/pull/69568))
@@ -84,7 +85,6 @@
 * Fix ar rifles inheritance ([#69394](https://github.com/CleverRaven/Cataclysm-DDA/pull/69394))
 * Fix crash on restacking inserted item ([#69378](https://github.com/CleverRaven/Cataclysm-DDA/pull/69378))
 * Fix gun names with `show gun brand names` on ([#69387](https://github.com/CleverRaven/Cataclysm-DDA/pull/69387))
-* Can't put in-progress food into faction larder ([#69361](https://github.com/CleverRaven/Cataclysm-DDA/pull/69361))
 * [MoM] Merge lasers and photokinetic damage ([#69366](https://github.com/CleverRaven/Cataclysm-DDA/pull/69366))
 * Nested weapon combat practice ([#69367](https://github.com/CleverRaven/Cataclysm-DDA/pull/69367))
 * Move remove_creature_from_reachability from destructor to on_unload. ([#69368](https://github.com/CleverRaven/Cataclysm-DDA/pull/69368))
