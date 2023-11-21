@@ -1,3 +1,4 @@
+* Fix dangling reference in Character::gen_aim_mods_cache() ([#69589](https://github.com/CleverRaven/Cataclysm-DDA/pull/69589))
 * Rewrite how NPCs evaluate threats. ([#69537](https://github.com/CleverRaven/Cataclysm-DDA/pull/69537))
 * Update vcpkg commit to working hash. ([#69592](https://github.com/CleverRaven/Cataclysm-DDA/pull/69592))
 * Update recharge types to include lunar types ([#69429](https://github.com/CleverRaven/Cataclysm-DDA/pull/69429))
@@ -87,7 +88,6 @@
 * Yet another seed count fix ([#69415](https://github.com/CleverRaven/Cataclysm-DDA/pull/69415))
 * Allow sandwiches to be made using toast ([#69406](https://github.com/CleverRaven/Cataclysm-DDA/pull/69406))
 * Revert monster opts ([#69399](https://github.com/CleverRaven/Cataclysm-DDA/pull/69399))
-* Change Gram recipe broadsword type ([#69389](https://github.com/CleverRaven/Cataclysm-DDA/pull/69389))
 * fix invalid proficiency id "prof_wp_netherium" ([#69391](https://github.com/CleverRaven/Cataclysm-DDA/pull/69391))
 * fix error message in tacoma ranch quest ([#69393](https://github.com/CleverRaven/Cataclysm-DDA/pull/69393))
 * Fix ar rifles inheritance ([#69394](https://github.com/CleverRaven/Cataclysm-DDA/pull/69394))
