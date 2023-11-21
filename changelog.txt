@@ -90,4 +90,3 @@
 * Yet another seed count fix (#69415)
 * Allow sandwiches to be made using toast (#69406)
 * Revert monster opts (#69399)
-* Fix ar rifles inheritance (#69394)

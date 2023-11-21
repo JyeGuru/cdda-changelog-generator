@@ -90,4 +90,3 @@
 * Yet another seed count fix ([#69415](https://github.com/CleverRaven/Cataclysm-DDA/pull/69415))
 * Allow sandwiches to be made using toast ([#69406](https://github.com/CleverRaven/Cataclysm-DDA/pull/69406))
 * Revert monster opts ([#69399](https://github.com/CleverRaven/Cataclysm-DDA/pull/69399))
-* Fix ar rifles inheritance ([#69394](https://github.com/CleverRaven/Cataclysm-DDA/pull/69394))
