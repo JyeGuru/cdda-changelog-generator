@@ -1,3 +1,4 @@
+* Fix vehicle turrets not cooling down (#69551)
 * Add cotton sheets into disassembly where applicable (#69596)
 * Fix short workbenches (#69608)
 * Fix dangling reference in Character::gen_aim_mods_cache() (#69589)
@@ -86,7 +87,6 @@
 * Nerf pointy stick meta (#69400)
 * Misc string fixes (#69422)
 * [MoM] Add Blinding Radiance photokinetic power (#69402)
-* Some looks likes for melee (#69395)
 * Yet another seed count fix (#69415)
 * Allow sandwiches to be made using toast (#69406)
 * Revert monster opts (#69399)
