@@ -1,3 +1,4 @@
+* Rewrite how NPCs evaluate threats. ([#69537](https://github.com/CleverRaven/Cataclysm-DDA/pull/69537))
 * Update vcpkg commit to working hash. ([#69592](https://github.com/CleverRaven/Cataclysm-DDA/pull/69592))
 * Update recharge types to include lunar types ([#69429](https://github.com/CleverRaven/Cataclysm-DDA/pull/69429))
 * Added fungaloid weakpoints and proficiencies ([#69583](https://github.com/CleverRaven/Cataclysm-DDA/pull/69583))
@@ -90,4 +91,3 @@
 * fix invalid proficiency id "prof_wp_netherium" ([#69391](https://github.com/CleverRaven/Cataclysm-DDA/pull/69391))
 * fix error message in tacoma ranch quest ([#69393](https://github.com/CleverRaven/Cataclysm-DDA/pull/69393))
 * Fix ar rifles inheritance ([#69394](https://github.com/CleverRaven/Cataclysm-DDA/pull/69394))
-* Fix gun names with `show gun brand names` on ([#69387](https://github.com/CleverRaven/Cataclysm-DDA/pull/69387))
