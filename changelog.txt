@@ -84,7 +84,6 @@
 * [MoM] Add small chance of psi research to PHAVIAN scientists special (#69425)
 * [Xedra Evolved] Mad Inventor Wide-Shot Choke (#69401)
 * Make Mininuke real-er (#69412)
-* Nerf pointy stick meta (#69400)
 * Misc string fixes (#69422)
 * [MoM] Add Blinding Radiance photokinetic power (#69402)
 * Yet another seed count fix (#69415)
