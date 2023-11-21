@@ -89,4 +89,3 @@
 * [MoM] Add Blinding Radiance photokinetic power ([#69402](https://github.com/CleverRaven/Cataclysm-DDA/pull/69402))
 * Yet another seed count fix ([#69415](https://github.com/CleverRaven/Cataclysm-DDA/pull/69415))
 * Allow sandwiches to be made using toast ([#69406](https://github.com/CleverRaven/Cataclysm-DDA/pull/69406))
-* Revert monster opts ([#69399](https://github.com/CleverRaven/Cataclysm-DDA/pull/69399))
