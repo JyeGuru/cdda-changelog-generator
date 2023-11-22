@@ -1,3 +1,4 @@
+* Hand mirror recipe change from 1 glas sheet to 3 glas shards (#69587)
 * zombie sinew harvest fix (#69625)
 * [Innawood] Fix cotton having 10 difficulty (#69607)
 * Fix vehicle turrets not cooling down (#69551)
@@ -78,7 +79,6 @@
 * Remove redundant FMS entry. (#69475)
 * supress an uninitialized variable warning (#69485)
 * Adding multiple addictions to some alcohol drinks (#69454)
-* [EoC] Some monster and map related update (#69405)
 * Added Artichoke fruit dessert fun value in fruit_dishes.json (#69471)
 * [Aftershock: Exoplanet] Revamp the Emergency Evacuation scenario to EOC-based workings. (#69462)
 * [GG] don't check blacklisted items for migration (#69445)
