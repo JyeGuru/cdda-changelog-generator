@@ -1,3 +1,5 @@
+* Appease clang-tidy ([#69644](https://github.com/CleverRaven/Cataclysm-DDA/pull/69644))
+* acknowledge that the ji has a pokey bit ([#69626](https://github.com/CleverRaven/Cataclysm-DDA/pull/69626))
 * Correcting Genetic Instability decrease rates in Mutations doc. ([#69641](https://github.com/CleverRaven/Cataclysm-DDA/pull/69641))
 * HUB Fire Support Platform ([#69603](https://github.com/CleverRaven/Cataclysm-DDA/pull/69603))
 * Model limb stubs more realistically ([#69616](https://github.com/CleverRaven/Cataclysm-DDA/pull/69616))
@@ -74,7 +76,6 @@
 * Exodii Rifle and Magazine Description Change ([#69470](https://github.com/CleverRaven/Cataclysm-DDA/pull/69470))
 * Chainmail update arms and legs, in reference to #69251 ([#69461](https://github.com/CleverRaven/Cataclysm-DDA/pull/69461))
 * Glooscap is Wabanaki ([#69484](https://github.com/CleverRaven/Cataclysm-DDA/pull/69484))
-* Expand the useable weapons in melee training recipes ([#69427](https://github.com/CleverRaven/Cataclysm-DDA/pull/69427))
 * Fix Rubik's warehouse clairification ([#69446](https://github.com/CleverRaven/Cataclysm-DDA/pull/69446))
 * [Aftershock: Exoplanet] Allow escape pods to carry loot planetside ([#69477](https://github.com/CleverRaven/Cataclysm-DDA/pull/69477))
 * Fully `math`-ify Defense Mode  ([#69480](https://github.com/CleverRaven/Cataclysm-DDA/pull/69480))
@@ -88,4 +89,3 @@
 * [Aftershock: Exoplanet] Revamp the Emergency Evacuation scenario to EOC-based workings. ([#69462](https://github.com/CleverRaven/Cataclysm-DDA/pull/69462))
 * [GG] don't check blacklisted items for migration ([#69445](https://github.com/CleverRaven/Cataclysm-DDA/pull/69445))
 * Small tweaks ([#69443](https://github.com/CleverRaven/Cataclysm-DDA/pull/69443))
-* [MoM] Add small chance of psi research to PHAVIAN scientists special ([#69425](https://github.com/CleverRaven/Cataclysm-DDA/pull/69425))
