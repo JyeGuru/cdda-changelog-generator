@@ -1,3 +1,4 @@
+* 30 carbine reloads, ballistics by the inch ([#69585](https://github.com/CleverRaven/Cataclysm-DDA/pull/69585))
 * Recipe Grappling hook update - Now also accepts 1 long cordage rope ([#69619](https://github.com/CleverRaven/Cataclysm-DDA/pull/69619))
 * Appease clang-tidy ([#69644](https://github.com/CleverRaven/Cataclysm-DDA/pull/69644))
 * acknowledge that the ji has a pokey bit ([#69626](https://github.com/CleverRaven/Cataclysm-DDA/pull/69626))
@@ -16,7 +17,6 @@
 * Fix dangling reference in Character::gen_aim_mods_cache() ([#69589](https://github.com/CleverRaven/Cataclysm-DDA/pull/69589))
 * Rewrite how NPCs evaluate threats. ([#69537](https://github.com/CleverRaven/Cataclysm-DDA/pull/69537))
 * Update vcpkg commit to working hash. ([#69592](https://github.com/CleverRaven/Cataclysm-DDA/pull/69592))
-* Update recharge types to include lunar types ([#69429](https://github.com/CleverRaven/Cataclysm-DDA/pull/69429))
 * Added fungaloid weakpoints and proficiencies ([#69583](https://github.com/CleverRaven/Cataclysm-DDA/pull/69583))
 * Fix the Old Guard representative mission ([#69565](https://github.com/CleverRaven/Cataclysm-DDA/pull/69565))
 * Give (some) CBM's more insight into their original purpose ([#69524](https://github.com/CleverRaven/Cataclysm-DDA/pull/69524))
