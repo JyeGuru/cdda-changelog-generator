@@ -1,3 +1,4 @@
+* Recipe Grappling hook update - Now also accepts 1 long cordage rope (#69619)
 * Appease clang-tidy (#69644)
 * acknowledge that the ji has a pokey bit (#69626)
 * Correcting Genetic Instability decrease rates in Mutations doc. (#69641)
@@ -60,7 +61,6 @@
 * Fix Clang-tidy 16 warning (2023-11-16) (#69444)
 * change quick panel switch keys in @ menu (#69490)
 * add rehydrated garlic/chili and their recipes (#69458)
-* [MoM] Drain overhaul + Power Maintenance overhaul, take 2 (#69428)
 * Allow overmap autotravel to evac center & hub01 (#69465)
 * Fix shadow encounter teleporting the player (#69442)
 * remove 'you' from matrix channeling array description (#69439)
