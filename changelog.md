@@ -1,3 +1,6 @@
+* Clarify glock 17 inability to use 15 rd magazine ([#69615](https://github.com/CleverRaven/Cataclysm-DDA/pull/69615))
+* Autolearn primitive bow dampening kit ([#69627](https://github.com/CleverRaven/Cataclysm-DDA/pull/69627))
+* Aftershock: Landing Pads ([#69636](https://github.com/CleverRaven/Cataclysm-DDA/pull/69636))
 * Hand mirror recipe change from 1 glas sheet to 3 glas shards ([#69587](https://github.com/CleverRaven/Cataclysm-DDA/pull/69587))
 * zombie sinew harvest fix ([#69625](https://github.com/CleverRaven/Cataclysm-DDA/pull/69625))
 * [Innawood] Fix cotton having 10 difficulty ([#69607](https://github.com/CleverRaven/Cataclysm-DDA/pull/69607))
@@ -84,6 +87,4 @@
 * [GG] don't check blacklisted items for migration ([#69445](https://github.com/CleverRaven/Cataclysm-DDA/pull/69445))
 * Small tweaks ([#69443](https://github.com/CleverRaven/Cataclysm-DDA/pull/69443))
 * [MoM] Add small chance of psi research to PHAVIAN scientists special ([#69425](https://github.com/CleverRaven/Cataclysm-DDA/pull/69425))
-* Make Mininuke real-er ([#69412](https://github.com/CleverRaven/Cataclysm-DDA/pull/69412))
 * Misc string fixes ([#69422](https://github.com/CleverRaven/Cataclysm-DDA/pull/69422))
-* Yet another seed count fix ([#69415](https://github.com/CleverRaven/Cataclysm-DDA/pull/69415))
