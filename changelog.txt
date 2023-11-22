@@ -87,4 +87,3 @@
 * Make Mininuke real-er (#69412)
 * Misc string fixes (#69422)
 * Yet another seed count fix (#69415)
-* Allow sandwiches to be made using toast (#69406)

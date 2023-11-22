@@ -87,4 +87,3 @@
 * Make Mininuke real-er ([#69412](https://github.com/CleverRaven/Cataclysm-DDA/pull/69412))
 * Misc string fixes ([#69422](https://github.com/CleverRaven/Cataclysm-DDA/pull/69422))
 * Yet another seed count fix ([#69415](https://github.com/CleverRaven/Cataclysm-DDA/pull/69415))
-* Allow sandwiches to be made using toast ([#69406](https://github.com/CleverRaven/Cataclysm-DDA/pull/69406))
