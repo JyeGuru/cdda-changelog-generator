@@ -62,7 +62,6 @@
 * Chainmail update Hauberks and Sleeveless Jumpsuits, reference #69251 ([#69511](https://github.com/CleverRaven/Cataclysm-DDA/pull/69511))
 * Make flatbread sandwiches again ([#69509](https://github.com/CleverRaven/Cataclysm-DDA/pull/69509))
 * 7.62x39 Import restrictions ([#69505](https://github.com/CleverRaven/Cataclysm-DDA/pull/69505))
-* Allow diving into water to remove Mycus spores. ([#69448](https://github.com/CleverRaven/Cataclysm-DDA/pull/69448))
 * [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
 * change quick panel switch keys in @ menu ([#69490](https://github.com/CleverRaven/Cataclysm-DDA/pull/69490))
 * add rehydrated garlic/chili and their recipes ([#69458](https://github.com/CleverRaven/Cataclysm-DDA/pull/69458))
