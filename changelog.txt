@@ -75,7 +75,6 @@
 * [MOM] Fix spell used to calculate Enhance Strength upkeep (#69472)
 * Fix Luliya's dialogue (#69488)
 * [MoM] Add stomach size and EATS flag to hodag (#69456)
-* [Innawood]Adding batchsavings for the production of glasshards (#69453)
 * Lotus planting (#69457)
 * [MoM] Add mi-go psions (#69463)
 * Exodii Rifle and Magazine Description Change (#69470)
