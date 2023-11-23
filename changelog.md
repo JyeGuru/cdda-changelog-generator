@@ -1,3 +1,4 @@
+* fix tire shop having no tools ([#69675](https://github.com/CleverRaven/Cataclysm-DDA/pull/69675))
 * [DinoMod] Animal Food Matters ([#69525](https://github.com/CleverRaven/Cataclysm-DDA/pull/69525))
 * Guard access to std::optional baby_timer with has_value ([#69665](https://github.com/CleverRaven/Cataclysm-DDA/pull/69665))
 * Fix Bayonets (remove reach atk. mode flag, and other stuff too) ([#69666](https://github.com/CleverRaven/Cataclysm-DDA/pull/69666))
@@ -75,7 +76,6 @@
 * [Innawood] Meadow mapgen mutable ([#69482](https://github.com/CleverRaven/Cataclysm-DDA/pull/69482))
 * [MOM] Fix spell used to calculate Enhance Strength upkeep ([#69472](https://github.com/CleverRaven/Cataclysm-DDA/pull/69472))
 * Fix Luliya's dialogue ([#69488](https://github.com/CleverRaven/Cataclysm-DDA/pull/69488))
-* [MoM] Add stomach size and EATS flag to hodag ([#69456](https://github.com/CleverRaven/Cataclysm-DDA/pull/69456))
 * Lotus planting ([#69457](https://github.com/CleverRaven/Cataclysm-DDA/pull/69457))
 * [MoM] Add mi-go psions ([#69463](https://github.com/CleverRaven/Cataclysm-DDA/pull/69463))
 * Exodii Rifle and Magazine Description Change ([#69470](https://github.com/CleverRaven/Cataclysm-DDA/pull/69470))
