@@ -1,3 +1,4 @@
+* m3/m3E1/at4 Carl Gustaf Corrections ([#69604](https://github.com/CleverRaven/Cataclysm-DDA/pull/69604))
 * Eggscellent additions ([#69595](https://github.com/CleverRaven/Cataclysm-DDA/pull/69595))
 * Fix tier three Vampire virus ([#69600](https://github.com/CleverRaven/Cataclysm-DDA/pull/69600))
 * math_parser: implement support for array arguments ([#69539](https://github.com/CleverRaven/Cataclysm-DDA/pull/69539))
@@ -62,7 +63,6 @@
 * Make flatbread sandwiches again ([#69509](https://github.com/CleverRaven/Cataclysm-DDA/pull/69509))
 * 7.62x39 Import restrictions ([#69505](https://github.com/CleverRaven/Cataclysm-DDA/pull/69505))
 * Allow diving into water to remove Mycus spores. ([#69448](https://github.com/CleverRaven/Cataclysm-DDA/pull/69448))
-* Remove charges from grain seed recipes ([#69447](https://github.com/CleverRaven/Cataclysm-DDA/pull/69447))
 * [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
 * change quick panel switch keys in @ menu ([#69490](https://github.com/CleverRaven/Cataclysm-DDA/pull/69490))
 * add rehydrated garlic/chili and their recipes ([#69458](https://github.com/CleverRaven/Cataclysm-DDA/pull/69458))
