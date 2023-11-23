@@ -1,3 +1,4 @@
+* Guard access to std::optional baby_timer with has_value ([#69665](https://github.com/CleverRaven/Cataclysm-DDA/pull/69665))
 * Fix Bayonets (remove reach atk. mode flag, and other stuff too) ([#69666](https://github.com/CleverRaven/Cataclysm-DDA/pull/69666))
 * JSON-ize slot machines ([#69658](https://github.com/CleverRaven/Cataclysm-DDA/pull/69658))
 * m3/m3E1/at4 Carl Gustaf Corrections ([#69604](https://github.com/CleverRaven/Cataclysm-DDA/pull/69604))
