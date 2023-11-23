@@ -1,3 +1,4 @@
+* [DinoMod] Animal Food Matters (#69525)
 * Guard access to std::optional baby_timer with has_value (#69665)
 * Fix Bayonets (remove reach atk. mode flag, and other stuff too) (#69666)
 * JSON-ize slot machines (#69658)
@@ -87,6 +88,5 @@
 * [Xedra Evolved] fix spells, that give temp limbs, take two (#69464)
 * Remove redundant FMS entry. (#69475)
 * supress an uninitialized variable warning (#69485)
-* Adding multiple addictions to some alcohol drinks (#69454)
 * Added Artichoke fruit dessert fun value in fruit_dishes.json (#69471)
 * [Aftershock: Exoplanet] Revamp the Emergency Evacuation scenario to EOC-based workings. (#69462)

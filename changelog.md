@@ -1,3 +1,4 @@
+* [DinoMod] Animal Food Matters ([#69525](https://github.com/CleverRaven/Cataclysm-DDA/pull/69525))
 * Guard access to std::optional baby_timer with has_value ([#69665](https://github.com/CleverRaven/Cataclysm-DDA/pull/69665))
 * Fix Bayonets (remove reach atk. mode flag, and other stuff too) ([#69666](https://github.com/CleverRaven/Cataclysm-DDA/pull/69666))
 * JSON-ize slot machines ([#69658](https://github.com/CleverRaven/Cataclysm-DDA/pull/69658))
@@ -87,6 +88,5 @@
 * [Xedra Evolved] fix spells, that give temp limbs, take two ([#69464](https://github.com/CleverRaven/Cataclysm-DDA/pull/69464))
 * Remove redundant FMS entry. ([#69475](https://github.com/CleverRaven/Cataclysm-DDA/pull/69475))
 * supress an uninitialized variable warning ([#69485](https://github.com/CleverRaven/Cataclysm-DDA/pull/69485))
-* Adding multiple addictions to some alcohol drinks ([#69454](https://github.com/CleverRaven/Cataclysm-DDA/pull/69454))
 * Added Artichoke fruit dessert fun value in fruit_dishes.json ([#69471](https://github.com/CleverRaven/Cataclysm-DDA/pull/69471))
 * [Aftershock: Exoplanet] Revamp the Emergency Evacuation scenario to EOC-based workings. ([#69462](https://github.com/CleverRaven/Cataclysm-DDA/pull/69462))
