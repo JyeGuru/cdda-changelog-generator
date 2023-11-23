@@ -1,3 +1,4 @@
+* Invalidate the weight carried cache when pouring ([#69660](https://github.com/CleverRaven/Cataclysm-DDA/pull/69660))
 * Fix the hit size of limb stubs ([#69653](https://github.com/CleverRaven/Cataclysm-DDA/pull/69653))
 * STI Tactical DS 2011 10mm, now fixed ([#69580](https://github.com/CleverRaven/Cataclysm-DDA/pull/69580))
 * [EoC] Parse tags of `run_eoc_selector` ([#69602](https://github.com/CleverRaven/Cataclysm-DDA/pull/69602))
@@ -63,7 +64,6 @@
 * change quick panel switch keys in @ menu ([#69490](https://github.com/CleverRaven/Cataclysm-DDA/pull/69490))
 * add rehydrated garlic/chili and their recipes ([#69458](https://github.com/CleverRaven/Cataclysm-DDA/pull/69458))
 * Allow overmap autotravel to evac center & hub01 ([#69465](https://github.com/CleverRaven/Cataclysm-DDA/pull/69465))
-* Fix shadow encounter teleporting the player ([#69442](https://github.com/CleverRaven/Cataclysm-DDA/pull/69442))
 * [MoM] Quell self ([#69467](https://github.com/CleverRaven/Cataclysm-DDA/pull/69467))
 * [MoM] Rationalize Irradiating Food ([#69460](https://github.com/CleverRaven/Cataclysm-DDA/pull/69460))
 * [Innawood] Meadow mapgen mutable ([#69482](https://github.com/CleverRaven/Cataclysm-DDA/pull/69482))
