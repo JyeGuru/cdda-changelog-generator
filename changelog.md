@@ -1,3 +1,4 @@
+* Fix chocoloate-covered coffee bean calories ([#69622](https://github.com/CleverRaven/Cataclysm-DDA/pull/69622))
 * Remove duplicated faction_edit functions ([#69704](https://github.com/CleverRaven/Cataclysm-DDA/pull/69704))
 * Change NPC faction from debug menu ([#69693](https://github.com/CleverRaven/Cataclysm-DDA/pull/69693))
 * [MoM] Two new Photokinetic powers + slight reorganization ([#69668](https://github.com/CleverRaven/Cataclysm-DDA/pull/69668))
@@ -89,5 +90,4 @@
 * [Aftershock: Exoplanet] Allow escape pods to carry loot planetside ([#69477](https://github.com/CleverRaven/Cataclysm-DDA/pull/69477))
 * Fully `math`-ify Defense Mode  ([#69480](https://github.com/CleverRaven/Cataclysm-DDA/pull/69480))
 * Make Aftershock and Aftershock: Exoplanet compatible with Defense Mode ([#69486](https://github.com/CleverRaven/Cataclysm-DDA/pull/69486))
-* Remove redundant FMS entry. ([#69475](https://github.com/CleverRaven/Cataclysm-DDA/pull/69475))
 * supress an uninitialized variable warning ([#69485](https://github.com/CleverRaven/Cataclysm-DDA/pull/69485))
