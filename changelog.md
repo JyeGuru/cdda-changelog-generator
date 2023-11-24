@@ -1,3 +1,4 @@
+* ISS snippet ([#69695](https://github.com/CleverRaven/Cataclysm-DDA/pull/69695))
 * Adds 5.45x39 BbTI data, and some minor fixes. ([#69694](https://github.com/CleverRaven/Cataclysm-DDA/pull/69694))
 * Add documentation for adding flags in itemgroups ([#69629](https://github.com/CleverRaven/Cataclysm-DDA/pull/69629))
 * [MoM] Tinfoil hats protect against telepathy (sometimes)  ([#69651](https://github.com/CleverRaven/Cataclysm-DDA/pull/69651))
@@ -76,7 +77,6 @@
 * 7.62x39 Import restrictions ([#69505](https://github.com/CleverRaven/Cataclysm-DDA/pull/69505))
 * [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
 * change quick panel switch keys in @ menu ([#69490](https://github.com/CleverRaven/Cataclysm-DDA/pull/69490))
-* Allow overmap autotravel to evac center & hub01 ([#69465](https://github.com/CleverRaven/Cataclysm-DDA/pull/69465))
 * [MoM] Quell self ([#69467](https://github.com/CleverRaven/Cataclysm-DDA/pull/69467))
 * [Innawood] Meadow mapgen mutable ([#69482](https://github.com/CleverRaven/Cataclysm-DDA/pull/69482))
 * [MOM] Fix spell used to calculate Enhance Strength upkeep ([#69472](https://github.com/CleverRaven/Cataclysm-DDA/pull/69472))
