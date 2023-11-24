@@ -1,3 +1,4 @@
+* 270 Winchester BBTI ([#69701](https://github.com/CleverRaven/Cataclysm-DDA/pull/69701))
 * Optimize mutation_armor & resistances calculations ([#69715](https://github.com/CleverRaven/Cataclysm-DDA/pull/69715))
 * Fix chocoloate-covered coffee bean calories ([#69622](https://github.com/CleverRaven/Cataclysm-DDA/pull/69622))
 * Remove duplicated faction_edit functions ([#69704](https://github.com/CleverRaven/Cataclysm-DDA/pull/69704))
@@ -88,6 +89,5 @@
 * [Innawood] Meadow mapgen mutable ([#69482](https://github.com/CleverRaven/Cataclysm-DDA/pull/69482))
 * Fix Luliya's dialogue ([#69488](https://github.com/CleverRaven/Cataclysm-DDA/pull/69488))
 * Glooscap is Wabanaki ([#69484](https://github.com/CleverRaven/Cataclysm-DDA/pull/69484))
-* Fully `math`-ify Defense Mode  ([#69480](https://github.com/CleverRaven/Cataclysm-DDA/pull/69480))
 * Make Aftershock and Aftershock: Exoplanet compatible with Defense Mode ([#69486](https://github.com/CleverRaven/Cataclysm-DDA/pull/69486))
 * supress an uninitialized variable warning ([#69485](https://github.com/CleverRaven/Cataclysm-DDA/pull/69485))
