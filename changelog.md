@@ -1,3 +1,4 @@
+* Remove duplicated faction_edit functions ([#69704](https://github.com/CleverRaven/Cataclysm-DDA/pull/69704))
 * Change NPC faction from debug menu ([#69693](https://github.com/CleverRaven/Cataclysm-DDA/pull/69693))
 * [MoM] Two new Photokinetic powers + slight reorganization ([#69668](https://github.com/CleverRaven/Cataclysm-DDA/pull/69668))
 * Start location text ([#69686](https://github.com/CleverRaven/Cataclysm-DDA/pull/69686))
@@ -83,7 +84,6 @@
 * [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
 * change quick panel switch keys in @ menu ([#69490](https://github.com/CleverRaven/Cataclysm-DDA/pull/69490))
 * [Innawood] Meadow mapgen mutable ([#69482](https://github.com/CleverRaven/Cataclysm-DDA/pull/69482))
-* [MOM] Fix spell used to calculate Enhance Strength upkeep ([#69472](https://github.com/CleverRaven/Cataclysm-DDA/pull/69472))
 * Fix Luliya's dialogue ([#69488](https://github.com/CleverRaven/Cataclysm-DDA/pull/69488))
 * Glooscap is Wabanaki ([#69484](https://github.com/CleverRaven/Cataclysm-DDA/pull/69484))
 * [Aftershock: Exoplanet] Allow escape pods to carry loot planetside ([#69477](https://github.com/CleverRaven/Cataclysm-DDA/pull/69477))
