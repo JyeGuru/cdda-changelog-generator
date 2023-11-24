@@ -1,3 +1,4 @@
+* Adds 5.45x39 BbTI data, and some minor fixes. ([#69694](https://github.com/CleverRaven/Cataclysm-DDA/pull/69694))
 * Add documentation for adding flags in itemgroups ([#69629](https://github.com/CleverRaven/Cataclysm-DDA/pull/69629))
 * [MoM] Tinfoil hats protect against telepathy (sometimes)  ([#69651](https://github.com/CleverRaven/Cataclysm-DDA/pull/69651))
 * .357 Ballistics by the inch ([#69667](https://github.com/CleverRaven/Cataclysm-DDA/pull/69667))
@@ -86,7 +87,6 @@
 * Fully `math`-ify Defense Mode  ([#69480](https://github.com/CleverRaven/Cataclysm-DDA/pull/69480))
 * Make Aftershock and Aftershock: Exoplanet compatible with Defense Mode ([#69486](https://github.com/CleverRaven/Cataclysm-DDA/pull/69486))
 * ci: linter ignores drafts ([#69469](https://github.com/CleverRaven/Cataclysm-DDA/pull/69469))
-* [Xedra Evolved] fix spells, that give temp limbs, take two ([#69464](https://github.com/CleverRaven/Cataclysm-DDA/pull/69464))
 * Remove redundant FMS entry. ([#69475](https://github.com/CleverRaven/Cataclysm-DDA/pull/69475))
 * supress an uninitialized variable warning ([#69485](https://github.com/CleverRaven/Cataclysm-DDA/pull/69485))
 * Added Artichoke fruit dessert fun value in fruit_dishes.json ([#69471](https://github.com/CleverRaven/Cataclysm-DDA/pull/69471))
