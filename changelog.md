@@ -1,3 +1,4 @@
+* Avoid unnecessary copies in lambda captures ([#69699](https://github.com/CleverRaven/Cataclysm-DDA/pull/69699))
 * Load translations using mmap ([#69702](https://github.com/CleverRaven/Cataclysm-DDA/pull/69702))
 * Adds panic, short term combat memory, and different flee modes. ([#69623](https://github.com/CleverRaven/Cataclysm-DDA/pull/69623))
 * Weekly Changelog 2023-11-13 to 2023-11-20 ([#69571](https://github.com/CleverRaven/Cataclysm-DDA/pull/69571))
@@ -90,4 +91,3 @@
 * [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
 * change quick panel switch keys in @ menu ([#69490](https://github.com/CleverRaven/Cataclysm-DDA/pull/69490))
 * Fix Luliya's dialogue ([#69488](https://github.com/CleverRaven/Cataclysm-DDA/pull/69488))
-* Make Aftershock and Aftershock: Exoplanet compatible with Defense Mode ([#69486](https://github.com/CleverRaven/Cataclysm-DDA/pull/69486))
