@@ -1,3 +1,4 @@
+* Adds panic, short term combat memory, and different flee modes. ([#69623](https://github.com/CleverRaven/Cataclysm-DDA/pull/69623))
 * Weekly Changelog 2023-11-13 to 2023-11-20 ([#69571](https://github.com/CleverRaven/Cataclysm-DDA/pull/69571))
 * Added slime weakpoints and proficiencies ([#69700](https://github.com/CleverRaven/Cataclysm-DDA/pull/69700))
 * 270 Winchester BBTI ([#69701](https://github.com/CleverRaven/Cataclysm-DDA/pull/69701))
@@ -88,6 +89,5 @@
 * [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
 * change quick panel switch keys in @ menu ([#69490](https://github.com/CleverRaven/Cataclysm-DDA/pull/69490))
 * Fix Luliya's dialogue ([#69488](https://github.com/CleverRaven/Cataclysm-DDA/pull/69488))
-* Glooscap is Wabanaki ([#69484](https://github.com/CleverRaven/Cataclysm-DDA/pull/69484))
 * Make Aftershock and Aftershock: Exoplanet compatible with Defense Mode ([#69486](https://github.com/CleverRaven/Cataclysm-DDA/pull/69486))
 * supress an uninitialized variable warning ([#69485](https://github.com/CleverRaven/Cataclysm-DDA/pull/69485))
