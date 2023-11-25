@@ -1,3 +1,4 @@
+* Add looks_like mushroom to morel ([#69739](https://github.com/CleverRaven/Cataclysm-DDA/pull/69739))
 * Fix text style error in npcmove.cpp ([#69733](https://github.com/CleverRaven/Cataclysm-DDA/pull/69733))
 * Avoid copying Target_attributes when calculating aim speed ([#69731](https://github.com/CleverRaven/Cataclysm-DDA/pull/69731))
 * [Xedra Evolved] Mics updates ([#69645](https://github.com/CleverRaven/Cataclysm-DDA/pull/69645))
@@ -89,4 +90,3 @@
 * Chainmail update Hauberks and Sleeveless Jumpsuits, reference #69251 ([#69511](https://github.com/CleverRaven/Cataclysm-DDA/pull/69511))
 * Make flatbread sandwiches again ([#69509](https://github.com/CleverRaven/Cataclysm-DDA/pull/69509))
 * 7.62x39 Import restrictions ([#69505](https://github.com/CleverRaven/Cataclysm-DDA/pull/69505))
-* [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))

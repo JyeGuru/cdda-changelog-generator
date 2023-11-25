@@ -1,3 +1,4 @@
+* Add looks_like mushroom to morel (#69739)
 * Fix text style error in npcmove.cpp (#69733)
 * Avoid copying Target_attributes when calculating aim speed (#69731)
 * [Xedra Evolved] Mics updates (#69645)
@@ -89,4 +90,3 @@
 * Chainmail update Hauberks and Sleeveless Jumpsuits, reference #69251 (#69511)
 * Make flatbread sandwiches again (#69509)
 * 7.62x39 Import restrictions (#69505)
-* [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category (#69498)
