@@ -90,4 +90,3 @@
 * Make flatbread sandwiches again ([#69509](https://github.com/CleverRaven/Cataclysm-DDA/pull/69509))
 * 7.62x39 Import restrictions ([#69505](https://github.com/CleverRaven/Cataclysm-DDA/pull/69505))
 * [Xedra Evolved] Adds "All" sub category for Xedra Crafting Category ([#69498](https://github.com/CleverRaven/Cataclysm-DDA/pull/69498))
-* change quick panel switch keys in @ menu ([#69490](https://github.com/CleverRaven/Cataclysm-DDA/pull/69490))
