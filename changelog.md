@@ -1,3 +1,4 @@
+* [Xedra Evolved] Who will fix the bugfixes ([#69744](https://github.com/CleverRaven/Cataclysm-DDA/pull/69744))
 * Eggy Burgers ([#69732](https://github.com/CleverRaven/Cataclysm-DDA/pull/69732))
 * Varsity Jackets ([#69735](https://github.com/CleverRaven/Cataclysm-DDA/pull/69735))
 * Refactor vehicle interaction screen bottom section ([#69721](https://github.com/CleverRaven/Cataclysm-DDA/pull/69721))
@@ -89,4 +90,3 @@
 * Correctly use positional arguments in format string ([#69536](https://github.com/CleverRaven/Cataclysm-DDA/pull/69536))
 * Reduce evaporated milk quench ([#69526](https://github.com/CleverRaven/Cataclysm-DDA/pull/69526))
 * Remove minimum size of survivor belt sheath ([#69528](https://github.com/CleverRaven/Cataclysm-DDA/pull/69528))
-* Chainmail update Hauberks and Sleeveless Jumpsuits, reference #69251 ([#69511](https://github.com/CleverRaven/Cataclysm-DDA/pull/69511))
