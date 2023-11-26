@@ -1,3 +1,4 @@
+* List Barrel lengths for (almost) every gun (#69745)
 * Move spell cost calculation up slightly to account for spell cost ternaries (#69760)
 * Fix pink-white varsity jacket variant id (#69755)
 * feat(content): New Epilogues for NPCs (#69758)
@@ -89,5 +90,4 @@
 * Update default character constructor (#69550)
 * [MoM] Change Enervating Touch to biological damage  (#69531)
 * Correctly use positional arguments in format string (#69536)
-* Reduce evaporated milk quench (#69526)
 * Remove minimum size of survivor belt sheath (#69528)
