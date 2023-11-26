@@ -1,3 +1,5 @@
+* Added triffid weakpoints and weakpoint proficiencies ([#69764](https://github.com/CleverRaven/Cataclysm-DDA/pull/69764))
+* Update soundpack doc ([#69759](https://github.com/CleverRaven/Cataclysm-DDA/pull/69759))
 * [MoM] Add Electrokinesis path ([#69691](https://github.com/CleverRaven/Cataclysm-DDA/pull/69691))
 * [Xedra Evolved] Who will fix the bugfixes ([#69744](https://github.com/CleverRaven/Cataclysm-DDA/pull/69744))
 * Eggy Burgers ([#69732](https://github.com/CleverRaven/Cataclysm-DDA/pull/69732))
@@ -83,7 +85,6 @@
 * Add last stand scenario based on the map extra ([#69533](https://github.com/CleverRaven/Cataclysm-DDA/pull/69533))
 * mannequins are now deployable and easily pickable ([#69544](https://github.com/CleverRaven/Cataclysm-DDA/pull/69544))
 * Added recipes to farm 2 ([#69543](https://github.com/CleverRaven/Cataclysm-DDA/pull/69543))
-* [Magiclysm] fix glacier mage enchantment description ([#69519](https://github.com/CleverRaven/Cataclysm-DDA/pull/69519))
 * Update default character constructor ([#69550](https://github.com/CleverRaven/Cataclysm-DDA/pull/69550))
 * [MoM] Change Enervating Touch to biological damage  ([#69531](https://github.com/CleverRaven/Cataclysm-DDA/pull/69531))
 * Correctly use positional arguments in format string ([#69536](https://github.com/CleverRaven/Cataclysm-DDA/pull/69536))
