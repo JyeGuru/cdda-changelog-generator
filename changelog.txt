@@ -1,3 +1,4 @@
+* Fix pink-white varsity jacket variant id (#69755)
 * feat(content): New Epilogues for NPCs (#69758)
 * Added triffid weakpoints and weakpoint proficiencies (#69764)
 * Update soundpack doc (#69759)
@@ -73,7 +74,6 @@
 * Update vcpkg commit to working hash. (#69592)
 * Added fungaloid weakpoints and proficiencies (#69583)
 * Fix the Old Guard representative mission (#69565)
-* Give (some) CBM's more insight into their original purpose (#69524)
 * Bugfix: Prevent infinite loop when spawning monsters (#69558)
 * Separated personal bare bones base recipes into separate file (#69542)
 * Chainmail update suits and faraday, reference #69251  (#69573)
