@@ -1,3 +1,4 @@
+* Move spell cost calculation up slightly to account for spell cost ternaries ([#69760](https://github.com/CleverRaven/Cataclysm-DDA/pull/69760))
 * Fix pink-white varsity jacket variant id ([#69755](https://github.com/CleverRaven/Cataclysm-DDA/pull/69755))
 * feat(content): New Epilogues for NPCs ([#69758](https://github.com/CleverRaven/Cataclysm-DDA/pull/69758))
 * Added triffid weakpoints and weakpoint proficiencies ([#69764](https://github.com/CleverRaven/Cataclysm-DDA/pull/69764))
@@ -38,7 +39,6 @@
 * Disable dangling reference warnings with cmake+gcc ([#69679](https://github.com/CleverRaven/Cataclysm-DDA/pull/69679))
 * Create config dir before failing to save initial language selection ([#69688](https://github.com/CleverRaven/Cataclysm-DDA/pull/69688))
 * fix tire shop having no tools ([#69675](https://github.com/CleverRaven/Cataclysm-DDA/pull/69675))
-* [DinoMod] Animal Food Matters ([#69525](https://github.com/CleverRaven/Cataclysm-DDA/pull/69525))
 * Guard access to std::optional baby_timer with has_value ([#69665](https://github.com/CleverRaven/Cataclysm-DDA/pull/69665))
 * Fix Bayonets (remove reach atk. mode flag, and other stuff too) ([#69666](https://github.com/CleverRaven/Cataclysm-DDA/pull/69666))
 * JSON-ize slot machines ([#69658](https://github.com/CleverRaven/Cataclysm-DDA/pull/69658))
