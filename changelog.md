@@ -1,3 +1,4 @@
+* More Mycus Monsters 2: Electric Boogaloo ([#69631](https://github.com/CleverRaven/Cataclysm-DDA/pull/69631))
 * List Barrel lengths for (almost) every gun ([#69745](https://github.com/CleverRaven/Cataclysm-DDA/pull/69745))
 * Move spell cost calculation up slightly to account for spell cost ternaries ([#69760](https://github.com/CleverRaven/Cataclysm-DDA/pull/69760))
 * Fix pink-white varsity jacket variant id ([#69755](https://github.com/CleverRaven/Cataclysm-DDA/pull/69755))
@@ -90,4 +91,3 @@
 * Update default character constructor ([#69550](https://github.com/CleverRaven/Cataclysm-DDA/pull/69550))
 * [MoM] Change Enervating Touch to biological damage  ([#69531](https://github.com/CleverRaven/Cataclysm-DDA/pull/69531))
 * Correctly use positional arguments in format string ([#69536](https://github.com/CleverRaven/Cataclysm-DDA/pull/69536))
-* Remove minimum size of survivor belt sheath ([#69528](https://github.com/CleverRaven/Cataclysm-DDA/pull/69528))
