@@ -82,7 +82,6 @@
 * [Xedra Evolved] Maintained spell message grammar improvements ([#69578](https://github.com/CleverRaven/Cataclysm-DDA/pull/69578))
 * Make recipe activity_level mandatory, depreciate "fake" ([#69545](https://github.com/CleverRaven/Cataclysm-DDA/pull/69545))
 * Boston-chan costume ([#69568](https://github.com/CleverRaven/Cataclysm-DDA/pull/69568))
-* 38 super reloads, ballistics by the inch ([#69529](https://github.com/CleverRaven/Cataclysm-DDA/pull/69529))
 * Fix stair alignment for military bunker ([#69561](https://github.com/CleverRaven/Cataclysm-DDA/pull/69561))
 * [Xedra] Undine Eyes are UNDINE ([#69569](https://github.com/CleverRaven/Cataclysm-DDA/pull/69569))
 * Add last stand scenario based on the map extra ([#69533](https://github.com/CleverRaven/Cataclysm-DDA/pull/69533))
