@@ -1,3 +1,4 @@
+* [MoM] Add Electrokinesis path ([#69691](https://github.com/CleverRaven/Cataclysm-DDA/pull/69691))
 * [Xedra Evolved] Who will fix the bugfixes ([#69744](https://github.com/CleverRaven/Cataclysm-DDA/pull/69744))
 * Eggy Burgers ([#69732](https://github.com/CleverRaven/Cataclysm-DDA/pull/69732))
 * Varsity Jackets ([#69735](https://github.com/CleverRaven/Cataclysm-DDA/pull/69735))
@@ -79,7 +80,6 @@
 * 38 super reloads, ballistics by the inch ([#69529](https://github.com/CleverRaven/Cataclysm-DDA/pull/69529))
 * Fix stair alignment for military bunker ([#69561](https://github.com/CleverRaven/Cataclysm-DDA/pull/69561))
 * [Xedra] Undine Eyes are UNDINE ([#69569](https://github.com/CleverRaven/Cataclysm-DDA/pull/69569))
-* [MoM] Fix for being unable to toggle off "Candle's Glow" power. ([#69515](https://github.com/CleverRaven/Cataclysm-DDA/pull/69515))
 * Add last stand scenario based on the map extra ([#69533](https://github.com/CleverRaven/Cataclysm-DDA/pull/69533))
 * mannequins are now deployable and easily pickable ([#69544](https://github.com/CleverRaven/Cataclysm-DDA/pull/69544))
 * Added recipes to farm 2 ([#69543](https://github.com/CleverRaven/Cataclysm-DDA/pull/69543))
