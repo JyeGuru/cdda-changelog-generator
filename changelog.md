@@ -86,7 +86,6 @@
 * [Magiclysm] fix glacier mage enchantment description ([#69519](https://github.com/CleverRaven/Cataclysm-DDA/pull/69519))
 * Update default character constructor ([#69550](https://github.com/CleverRaven/Cataclysm-DDA/pull/69550))
 * [MoM] Change Enervating Touch to biological damage  ([#69531](https://github.com/CleverRaven/Cataclysm-DDA/pull/69531))
-* Sapra '36 uses launcher skill ([#69517](https://github.com/CleverRaven/Cataclysm-DDA/pull/69517))
 * Correctly use positional arguments in format string ([#69536](https://github.com/CleverRaven/Cataclysm-DDA/pull/69536))
 * Reduce evaporated milk quench ([#69526](https://github.com/CleverRaven/Cataclysm-DDA/pull/69526))
 * Remove minimum size of survivor belt sheath ([#69528](https://github.com/CleverRaven/Cataclysm-DDA/pull/69528))
