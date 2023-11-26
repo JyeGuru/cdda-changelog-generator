@@ -1,3 +1,4 @@
+* Add nuckalavee enemy to nether (#69757)
 * More Mycus Monsters 2: Electric Boogaloo (#69631)
 * List Barrel lengths for (almost) every gun (#69745)
 * Move spell cost calculation up slightly to account for spell cost ternaries (#69760)
@@ -88,5 +89,4 @@
 * mannequins are now deployable and easily pickable (#69544)
 * Added recipes to farm 2 (#69543)
 * Update default character constructor (#69550)
-* [MoM] Change Enervating Touch to biological damage  (#69531)
 * Correctly use positional arguments in format string (#69536)
