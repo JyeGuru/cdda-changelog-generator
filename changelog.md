@@ -1,3 +1,4 @@
+* feat(content): New Epilogues for NPCs ([#69758](https://github.com/CleverRaven/Cataclysm-DDA/pull/69758))
 * Added triffid weakpoints and weakpoint proficiencies ([#69764](https://github.com/CleverRaven/Cataclysm-DDA/pull/69764))
 * Update soundpack doc ([#69759](https://github.com/CleverRaven/Cataclysm-DDA/pull/69759))
 * [MoM] Add Electrokinesis path ([#69691](https://github.com/CleverRaven/Cataclysm-DDA/pull/69691))
