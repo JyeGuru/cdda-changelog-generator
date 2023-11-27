@@ -89,4 +89,3 @@
 * mannequins are now deployable and easily pickable (#69544)
 * Added recipes to farm 2 (#69543)
 * Update default character constructor (#69550)
-* Correctly use positional arguments in format string (#69536)
