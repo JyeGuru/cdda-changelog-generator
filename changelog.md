@@ -1,3 +1,4 @@
+* [Xedra] Remove Obsolete Dimension Research Reference ([#69786](https://github.com/CleverRaven/Cataclysm-DDA/pull/69786))
 * Add nuckalavee enemy to nether ([#69757](https://github.com/CleverRaven/Cataclysm-DDA/pull/69757))
 * More Mycus Monsters 2: Electric Boogaloo ([#69631](https://github.com/CleverRaven/Cataclysm-DDA/pull/69631))
 * List Barrel lengths for (almost) every gun ([#69745](https://github.com/CleverRaven/Cataclysm-DDA/pull/69745))
@@ -85,7 +86,6 @@
 * Boston-chan costume ([#69568](https://github.com/CleverRaven/Cataclysm-DDA/pull/69568))
 * Fix stair alignment for military bunker ([#69561](https://github.com/CleverRaven/Cataclysm-DDA/pull/69561))
 * [Xedra] Undine Eyes are UNDINE ([#69569](https://github.com/CleverRaven/Cataclysm-DDA/pull/69569))
-* Add last stand scenario based on the map extra ([#69533](https://github.com/CleverRaven/Cataclysm-DDA/pull/69533))
 * mannequins are now deployable and easily pickable ([#69544](https://github.com/CleverRaven/Cataclysm-DDA/pull/69544))
 * Added recipes to farm 2 ([#69543](https://github.com/CleverRaven/Cataclysm-DDA/pull/69543))
 * Update default character constructor ([#69550](https://github.com/CleverRaven/Cataclysm-DDA/pull/69550))
