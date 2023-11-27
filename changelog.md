@@ -1,3 +1,4 @@
+* Move the `pocket_type` enum to it's own header ([#69794](https://github.com/CleverRaven/Cataclysm-DDA/pull/69794))
 * fix a typo in NPC doc ([#69793](https://github.com/CleverRaven/Cataclysm-DDA/pull/69793))
 * [Xedra] Remove Obsolete Dimension Research Reference ([#69786](https://github.com/CleverRaven/Cataclysm-DDA/pull/69786))
 * Add nuckalavee enemy to nether ([#69757](https://github.com/CleverRaven/Cataclysm-DDA/pull/69757))
@@ -50,7 +51,6 @@
 * m3/m3E1/at4 Carl Gustaf Corrections ([#69604](https://github.com/CleverRaven/Cataclysm-DDA/pull/69604))
 * Eggscellent additions ([#69595](https://github.com/CleverRaven/Cataclysm-DDA/pull/69595))
 * Fix tier three Vampire virus ([#69600](https://github.com/CleverRaven/Cataclysm-DDA/pull/69600))
-* math_parser: implement support for array arguments ([#69539](https://github.com/CleverRaven/Cataclysm-DDA/pull/69539))
 * Maps that reveal roads now also reveal city names. ([#69656](https://github.com/CleverRaven/Cataclysm-DDA/pull/69656))
 * Invalidate the weight carried cache when pouring ([#69660](https://github.com/CleverRaven/Cataclysm-DDA/pull/69660))
 * Fix the hit size of limb stubs ([#69653](https://github.com/CleverRaven/Cataclysm-DDA/pull/69653))
