@@ -1,3 +1,4 @@
+* [Magiclysm] Fix missing standard for Voltaic Touch (#69777)
 * add spawns to some items that need it (#69798)
 * Add old school slings (#69788)
 * [Rework] Add more realistic agricultural solution to produce raw grain (#69714)
@@ -76,7 +77,6 @@
 * Hand mirror recipe change from 1 glas sheet to 3 glas shards (#69587)
 * zombie sinew harvest fix (#69625)
 * [Innawood] Fix cotton having 10 difficulty (#69607)
-* Fix vehicle turrets not cooling down (#69551)
 * Add cotton sheets into disassembly where applicable (#69596)
 * Fix short workbenches (#69608)
 * Fix dangling reference in Character::gen_aim_mods_cache() (#69589)
