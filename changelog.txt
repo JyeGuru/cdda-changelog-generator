@@ -1,3 +1,4 @@
+* [Rework] Add more realistic agricultural solution to produce raw grain (#69714)
 * 10mm BBTI data, JHP, +P loads (#69791)
 * Edit rabbi description + specify holy symbol variant (#69775)
 * Move the `pocket_type` enum to it's own header (#69794)
@@ -87,5 +88,4 @@
 * Boston-chan costume (#69568)
 * Fix stair alignment for military bunker (#69561)
 * [Xedra] Undine Eyes are UNDINE (#69569)
-* mannequins are now deployable and easily pickable (#69544)
 * Update default character constructor (#69550)

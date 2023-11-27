@@ -1,3 +1,4 @@
+* [Rework] Add more realistic agricultural solution to produce raw grain ([#69714](https://github.com/CleverRaven/Cataclysm-DDA/pull/69714))
 * 10mm BBTI data, JHP, +P loads ([#69791](https://github.com/CleverRaven/Cataclysm-DDA/pull/69791))
 * Edit rabbi description + specify holy symbol variant ([#69775](https://github.com/CleverRaven/Cataclysm-DDA/pull/69775))
 * Move the `pocket_type` enum to it's own header ([#69794](https://github.com/CleverRaven/Cataclysm-DDA/pull/69794))
@@ -87,5 +88,4 @@
 * Boston-chan costume ([#69568](https://github.com/CleverRaven/Cataclysm-DDA/pull/69568))
 * Fix stair alignment for military bunker ([#69561](https://github.com/CleverRaven/Cataclysm-DDA/pull/69561))
 * [Xedra] Undine Eyes are UNDINE ([#69569](https://github.com/CleverRaven/Cataclysm-DDA/pull/69569))
-* mannequins are now deployable and easily pickable ([#69544](https://github.com/CleverRaven/Cataclysm-DDA/pull/69544))
 * Update default character constructor ([#69550](https://github.com/CleverRaven/Cataclysm-DDA/pull/69550))
