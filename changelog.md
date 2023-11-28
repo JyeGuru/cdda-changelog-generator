@@ -89,4 +89,3 @@
 * Added fungaloid weakpoints and proficiencies ([#69583](https://github.com/CleverRaven/Cataclysm-DDA/pull/69583))
 * Chainmail update suits and faraday, reference #69251  ([#69573](https://github.com/CleverRaven/Cataclysm-DDA/pull/69573))
 * [Xedra Evolved] Maintained spell message grammar improvements ([#69578](https://github.com/CleverRaven/Cataclysm-DDA/pull/69578))
-* [Xedra] Undine Eyes are UNDINE ([#69569](https://github.com/CleverRaven/Cataclysm-DDA/pull/69569))
