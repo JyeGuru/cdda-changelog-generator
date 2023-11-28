@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] Prevent Premature Vampire escalations (#69761)
 * [MoM] potion effects typo fix (#69772)
 * Refactor action portion out of assess_danger (#69730)
 * [MoM] Electrokinesis part 2 (#69752)
@@ -74,7 +75,6 @@
 * Fix the hit size of limb stubs (#69653)
 * [EoC] Parse tags of `run_eoc_selector` (#69602)
 * Added power leech weakponts and proficiencies (#69638)
-* 30 carbine reloads, ballistics by the inch (#69585)
 * Recipe Grappling hook update - Now also accepts 1 long cordage rope (#69619)
 * Appease clang-tidy (#69644)
 * acknowledge that the ji has a pokey bit (#69626)
