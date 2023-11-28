@@ -1,3 +1,4 @@
+* Stay with me buddy (#69810)
 * Add u_has_proficiency to EoC conditions (#69812)
 * Adds 20x66 ballistics by the inch data (#69805)
 * [ Xedra Evolved ] Prevent Premature Vampire escalations (#69761)
@@ -90,4 +91,3 @@
 * [Innawood] Fix cotton having 10 difficulty (#69607)
 * Add cotton sheets into disassembly where applicable (#69596)
 * Fix short workbenches (#69608)
-* Update vcpkg commit to working hash. (#69592)
