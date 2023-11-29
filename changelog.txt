@@ -1,3 +1,4 @@
+* [MoM] Gain more Nether attunement in Nether areas (#69834)
 * Mining Stairs into the Ground doesn't Consume Rope (#69822)
 * [MoM] Separate psi_stunned from stunned (#69813)
 * make more stuff outta fiberglass (#69811)
@@ -57,7 +58,6 @@
 * [Xedra Evolved] Mics updates (#69645)
 * Avoid unnecessary copies in lambda captures (#69699)
 * Load translations using mmap (#69702)
-* Adds panic, short term combat memory, and different flee modes. (#69623)
 * Added slime weakpoints and proficiencies (#69700)
 * 270 Winchester BBTI (#69701)
 * Optimize mutation_armor & resistances calculations (#69715)
