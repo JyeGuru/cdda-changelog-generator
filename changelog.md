@@ -1,3 +1,4 @@
+* make more stuff outta fiberglass ([#69811](https://github.com/CleverRaven/Cataclysm-DDA/pull/69811))
 * Fixed Luo's conversation ([#69826](https://github.com/CleverRaven/Cataclysm-DDA/pull/69826))
 * Minor hauling fixes ([#69827](https://github.com/CleverRaven/Cataclysm-DDA/pull/69827))
 * Allow pocket_mods to add magazine or magazine well pockets to items without them ([#69828](https://github.com/CleverRaven/Cataclysm-DDA/pull/69828))
@@ -87,7 +88,6 @@
 * acknowledge that the ji has a pokey bit ([#69626](https://github.com/CleverRaven/Cataclysm-DDA/pull/69626))
 * Correcting Genetic Instability decrease rates in Mutations doc. ([#69641](https://github.com/CleverRaven/Cataclysm-DDA/pull/69641))
 * Model limb stubs more realistically ([#69616](https://github.com/CleverRaven/Cataclysm-DDA/pull/69616))
-* Clarify glock 17 inability to use 15 rd magazine ([#69615](https://github.com/CleverRaven/Cataclysm-DDA/pull/69615))
 * Autolearn primitive bow dampening kit ([#69627](https://github.com/CleverRaven/Cataclysm-DDA/pull/69627))
 * Aftershock: Landing Pads ([#69636](https://github.com/CleverRaven/Cataclysm-DDA/pull/69636))
 * zombie sinew harvest fix ([#69625](https://github.com/CleverRaven/Cataclysm-DDA/pull/69625))
