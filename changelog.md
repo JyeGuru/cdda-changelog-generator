@@ -1,3 +1,4 @@
+* Add "has_proficiency" as a math condition for ternaries ([#69845](https://github.com/CleverRaven/Cataclysm-DDA/pull/69845))
 * .32 ACP BBTI, obsoleting implausible MG's ([#69842](https://github.com/CleverRaven/Cataclysm-DDA/pull/69842))
 * Add Bombastic Perk compatibility to Defense Mode. ([#69803](https://github.com/CleverRaven/Cataclysm-DDA/pull/69803))
 * [MoM] Gain more Nether attunement in Nether areas ([#69834](https://github.com/CleverRaven/Cataclysm-DDA/pull/69834))
@@ -88,5 +89,4 @@
 * Added power leech weakponts and proficiencies ([#69638](https://github.com/CleverRaven/Cataclysm-DDA/pull/69638))
 * Appease clang-tidy ([#69644](https://github.com/CleverRaven/Cataclysm-DDA/pull/69644))
 * Correcting Genetic Instability decrease rates in Mutations doc. ([#69641](https://github.com/CleverRaven/Cataclysm-DDA/pull/69641))
-* Autolearn primitive bow dampening kit ([#69627](https://github.com/CleverRaven/Cataclysm-DDA/pull/69627))
 * Aftershock: Landing Pads ([#69636](https://github.com/CleverRaven/Cataclysm-DDA/pull/69636))
