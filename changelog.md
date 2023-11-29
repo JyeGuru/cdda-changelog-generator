@@ -1,3 +1,4 @@
+* [MoM] Separate psi_stunned from stunned ([#69813](https://github.com/CleverRaven/Cataclysm-DDA/pull/69813))
 * make more stuff outta fiberglass ([#69811](https://github.com/CleverRaven/Cataclysm-DDA/pull/69811))
 * Fixed Luo's conversation ([#69826](https://github.com/CleverRaven/Cataclysm-DDA/pull/69826))
 * Minor hauling fixes ([#69827](https://github.com/CleverRaven/Cataclysm-DDA/pull/69827))
@@ -87,7 +88,6 @@
 * Appease clang-tidy ([#69644](https://github.com/CleverRaven/Cataclysm-DDA/pull/69644))
 * acknowledge that the ji has a pokey bit ([#69626](https://github.com/CleverRaven/Cataclysm-DDA/pull/69626))
 * Correcting Genetic Instability decrease rates in Mutations doc. ([#69641](https://github.com/CleverRaven/Cataclysm-DDA/pull/69641))
-* Model limb stubs more realistically ([#69616](https://github.com/CleverRaven/Cataclysm-DDA/pull/69616))
 * Autolearn primitive bow dampening kit ([#69627](https://github.com/CleverRaven/Cataclysm-DDA/pull/69627))
 * Aftershock: Landing Pads ([#69636](https://github.com/CleverRaven/Cataclysm-DDA/pull/69636))
 * zombie sinew harvest fix ([#69625](https://github.com/CleverRaven/Cataclysm-DDA/pull/69625))
