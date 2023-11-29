@@ -1,3 +1,4 @@
+* Added Legging Variants ([#69835](https://github.com/CleverRaven/Cataclysm-DDA/pull/69835))
 * Fix a bug with revivification in Defense Mode ([#69832](https://github.com/CleverRaven/Cataclysm-DDA/pull/69832))
 * Reset camera after struggling with aiming ([#69800](https://github.com/CleverRaven/Cataclysm-DDA/pull/69800))
 * [MoM] Readme update ([#69830](https://github.com/CleverRaven/Cataclysm-DDA/pull/69830))
@@ -75,7 +76,6 @@
 * Guard access to std::optional baby_timer with has_value ([#69665](https://github.com/CleverRaven/Cataclysm-DDA/pull/69665))
 * Fix Bayonets (remove reach atk. mode flag, and other stuff too) ([#69666](https://github.com/CleverRaven/Cataclysm-DDA/pull/69666))
 * JSON-ize slot machines ([#69658](https://github.com/CleverRaven/Cataclysm-DDA/pull/69658))
-* m3/m3E1/at4 Carl Gustaf Corrections ([#69604](https://github.com/CleverRaven/Cataclysm-DDA/pull/69604))
 * Maps that reveal roads now also reveal city names. ([#69656](https://github.com/CleverRaven/Cataclysm-DDA/pull/69656))
 * Invalidate the weight carried cache when pouring ([#69660](https://github.com/CleverRaven/Cataclysm-DDA/pull/69660))
 * Fix the hit size of limb stubs ([#69653](https://github.com/CleverRaven/Cataclysm-DDA/pull/69653))
