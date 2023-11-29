@@ -84,7 +84,6 @@
 * Invalidate the weight carried cache when pouring ([#69660](https://github.com/CleverRaven/Cataclysm-DDA/pull/69660))
 * Fix the hit size of limb stubs ([#69653](https://github.com/CleverRaven/Cataclysm-DDA/pull/69653))
 * Added power leech weakponts and proficiencies ([#69638](https://github.com/CleverRaven/Cataclysm-DDA/pull/69638))
-* Recipe Grappling hook update - Now also accepts 1 long cordage rope ([#69619](https://github.com/CleverRaven/Cataclysm-DDA/pull/69619))
 * Appease clang-tidy ([#69644](https://github.com/CleverRaven/Cataclysm-DDA/pull/69644))
 * acknowledge that the ji has a pokey bit ([#69626](https://github.com/CleverRaven/Cataclysm-DDA/pull/69626))
 * Correcting Genetic Instability decrease rates in Mutations doc. ([#69641](https://github.com/CleverRaven/Cataclysm-DDA/pull/69641))
