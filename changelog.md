@@ -1,3 +1,4 @@
+* Edit sinewy warhorse to use zombie_animal harvest yields ([#69685](https://github.com/CleverRaven/Cataclysm-DDA/pull/69685))
 * Fix armor sorting bugging active items in inventory ([#69860](https://github.com/CleverRaven/Cataclysm-DDA/pull/69860))
 * Add "has_proficiency" as a math condition for ternaries ([#69845](https://github.com/CleverRaven/Cataclysm-DDA/pull/69845))
 * .32 ACP BBTI, obsoleting implausible MG's ([#69842](https://github.com/CleverRaven/Cataclysm-DDA/pull/69842))
@@ -41,7 +42,6 @@
 * fix a typo in NPC doc ([#69793](https://github.com/CleverRaven/Cataclysm-DDA/pull/69793))
 * [Xedra] Remove Obsolete Dimension Research Reference ([#69786](https://github.com/CleverRaven/Cataclysm-DDA/pull/69786))
 * Add nuckalavee enemy to nether ([#69757](https://github.com/CleverRaven/Cataclysm-DDA/pull/69757))
-* More Mycus Monsters 2: Electric Boogaloo ([#69631](https://github.com/CleverRaven/Cataclysm-DDA/pull/69631))
 * List Barrel lengths for (almost) every gun ([#69745](https://github.com/CleverRaven/Cataclysm-DDA/pull/69745))
 * Move spell cost calculation up slightly to account for spell cost ternaries ([#69760](https://github.com/CleverRaven/Cataclysm-DDA/pull/69760))
 * Fix pink-white varsity jacket variant id ([#69755](https://github.com/CleverRaven/Cataclysm-DDA/pull/69755))
