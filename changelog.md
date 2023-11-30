@@ -1,3 +1,4 @@
+* Fix armor sorting bugging active items in inventory ([#69860](https://github.com/CleverRaven/Cataclysm-DDA/pull/69860))
 * Add "has_proficiency" as a math condition for ternaries ([#69845](https://github.com/CleverRaven/Cataclysm-DDA/pull/69845))
 * .32 ACP BBTI, obsoleting implausible MG's ([#69842](https://github.com/CleverRaven/Cataclysm-DDA/pull/69842))
 * Add Bombastic Perk compatibility to Defense Mode. ([#69803](https://github.com/CleverRaven/Cataclysm-DDA/pull/69803))
@@ -73,7 +74,6 @@
 * [MoM] Slightly reduce power ranges ([#69689](https://github.com/CleverRaven/Cataclysm-DDA/pull/69689))
 * ISS snippet ([#69695](https://github.com/CleverRaven/Cataclysm-DDA/pull/69695))
 * Adds 5.45x39 BbTI data, and some minor fixes. ([#69694](https://github.com/CleverRaven/Cataclysm-DDA/pull/69694))
-* Add documentation for adding flags in itemgroups ([#69629](https://github.com/CleverRaven/Cataclysm-DDA/pull/69629))
 * [MoM] Tinfoil hats protect against telepathy (sometimes)  ([#69651](https://github.com/CleverRaven/Cataclysm-DDA/pull/69651))
 * .357 Ballistics by the inch ([#69667](https://github.com/CleverRaven/Cataclysm-DDA/pull/69667))
 * [MoM] Separate NO_SPELLCASTING from new NO_PSIONICS, Take 2 ([#69670](https://github.com/CleverRaven/Cataclysm-DDA/pull/69670))
