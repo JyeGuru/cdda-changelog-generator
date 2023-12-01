@@ -1,3 +1,4 @@
+* [MoM] Add Concentration proficiencies, link them to concentration limit ([#69865](https://github.com/CleverRaven/Cataclysm-DDA/pull/69865))
 * Glock 40 (full auto) ([#69859](https://github.com/CleverRaven/Cataclysm-DDA/pull/69859))
 * [MoM] More maintained powers ([#69843](https://github.com/CleverRaven/Cataclysm-DDA/pull/69843))
 * More Snippets ([#69815](https://github.com/CleverRaven/Cataclysm-DDA/pull/69815))
