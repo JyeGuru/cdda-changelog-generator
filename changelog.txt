@@ -1,3 +1,4 @@
+* [Backrooms] Autodoc special and long-term progression tweaks (#69881)
 * .308 BBTI, description fluffs, recipes adjustments (#69873)
 * [MoM] Add Concentration proficiencies, link them to concentration limit (#69865)
 * Glock 40 (full auto) (#69859)
@@ -76,7 +77,6 @@
 * [MoM] Two new Photokinetic powers + slight reorganization (#69668)
 * Start location text (#69686)
 * Add Faction editing to Debug menu (#69690)
-* The complete military bases armory is back (#69657)
 * [MoM] Slightly reduce power ranges (#69689)
 * ISS snippet (#69695)
 * Adds 5.45x39 BbTI data, and some minor fixes. (#69694)
