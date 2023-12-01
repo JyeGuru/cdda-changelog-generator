@@ -1,3 +1,4 @@
+* Allow repair&refit actions if item is fully repaired but can be refitted (#69901)
 * [Backrooms] Autodoc special and long-term progression tweaks (#69881)
 * .308 BBTI, description fluffs, recipes adjustments (#69873)
 * [MoM] Add Concentration proficiencies, link them to concentration limit (#69865)
@@ -87,5 +88,4 @@
 * fix tire shop having no tools (#69675)
 * Guard access to std::optional baby_timer with has_value (#69665)
 * Fix Bayonets (remove reach atk. mode flag, and other stuff too) (#69666)
-* JSON-ize slot machines (#69658)
 * Invalidate the weight carried cache when pouring (#69660)
