@@ -89,4 +89,3 @@
 * JSON-ize slot machines (#69658)
 * Maps that reveal roads now also reveal city names. (#69656)
 * Invalidate the weight carried cache when pouring (#69660)
-* Fix the hit size of limb stubs (#69653)
