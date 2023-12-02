@@ -1,3 +1,4 @@
+* Routine tileset updates on 01 December 2023 ([#69886](https://github.com/CleverRaven/Cataclysm-DDA/pull/69886))
 * Allow repair&refit actions if item is fully repaired but can be refitted ([#69901](https://github.com/CleverRaven/Cataclysm-DDA/pull/69901))
 * [Backrooms] Autodoc special and long-term progression tweaks ([#69881](https://github.com/CleverRaven/Cataclysm-DDA/pull/69881))
 * .308 BBTI, description fluffs, recipes adjustments ([#69873](https://github.com/CleverRaven/Cataclysm-DDA/pull/69873))
@@ -88,4 +89,3 @@
 * fix tire shop having no tools ([#69675](https://github.com/CleverRaven/Cataclysm-DDA/pull/69675))
 * Guard access to std::optional baby_timer with has_value ([#69665](https://github.com/CleverRaven/Cataclysm-DDA/pull/69665))
 * Fix Bayonets (remove reach atk. mode flag, and other stuff too) ([#69666](https://github.com/CleverRaven/Cataclysm-DDA/pull/69666))
-* Invalidate the weight carried cache when pouring ([#69660](https://github.com/CleverRaven/Cataclysm-DDA/pull/69660))
