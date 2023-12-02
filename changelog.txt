@@ -1,3 +1,4 @@
+* make sure sees checks outside of max view distance always fail (#69916)
 * Candlestick can indeed stick to the candle again (#69913)
 * [Magiclysm] Fix potion fruits (#69903)
 * [Xedra Evolved] Fix Goblin fruits (#69906)
@@ -79,7 +80,6 @@
 * Optimize mutation_armor & resistances calculations (#69715)
 * Remove duplicated faction_edit functions (#69704)
 * Change NPC faction from debug menu (#69693)
-* [MoM] Two new Photokinetic powers + slight reorganization (#69668)
 * Start location text (#69686)
 * Add Faction editing to Debug menu (#69690)
 * [MoM] Slightly reduce power ranges (#69689)
