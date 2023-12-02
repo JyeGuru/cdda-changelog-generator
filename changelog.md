@@ -1,3 +1,5 @@
+* [Magiclysm] Fix potion fruits ([#69903](https://github.com/CleverRaven/Cataclysm-DDA/pull/69903))
+* [Xedra Evolved] Fix Goblin fruits ([#69906](https://github.com/CleverRaven/Cataclysm-DDA/pull/69906))
 * Routine tileset updates on 01 December 2023 ([#69886](https://github.com/CleverRaven/Cataclysm-DDA/pull/69886))
 * Allow repair&refit actions if item is fully repaired but can be refitted ([#69901](https://github.com/CleverRaven/Cataclysm-DDA/pull/69901))
 * [Backrooms] Autodoc special and long-term progression tweaks ([#69881](https://github.com/CleverRaven/Cataclysm-DDA/pull/69881))
@@ -87,5 +89,3 @@
 * Disable dangling reference warnings with cmake+gcc ([#69679](https://github.com/CleverRaven/Cataclysm-DDA/pull/69679))
 * Create config dir before failing to save initial language selection ([#69688](https://github.com/CleverRaven/Cataclysm-DDA/pull/69688))
 * fix tire shop having no tools ([#69675](https://github.com/CleverRaven/Cataclysm-DDA/pull/69675))
-* Guard access to std::optional baby_timer with has_value ([#69665](https://github.com/CleverRaven/Cataclysm-DDA/pull/69665))
-* Fix Bayonets (remove reach atk. mode flag, and other stuff too) ([#69666](https://github.com/CleverRaven/Cataclysm-DDA/pull/69666))
