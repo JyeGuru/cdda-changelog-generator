@@ -1,3 +1,4 @@
+* Candlestick can indeed stick to the candle again ([#69913](https://github.com/CleverRaven/Cataclysm-DDA/pull/69913))
 * [Magiclysm] Fix potion fruits ([#69903](https://github.com/CleverRaven/Cataclysm-DDA/pull/69903))
 * [Xedra Evolved] Fix Goblin fruits ([#69906](https://github.com/CleverRaven/Cataclysm-DDA/pull/69906))
 * Routine tileset updates on 01 December 2023 ([#69886](https://github.com/CleverRaven/Cataclysm-DDA/pull/69886))
@@ -84,7 +85,6 @@
 * [MoM] Slightly reduce power ranges ([#69689](https://github.com/CleverRaven/Cataclysm-DDA/pull/69689))
 * ISS snippet ([#69695](https://github.com/CleverRaven/Cataclysm-DDA/pull/69695))
 * Adds 5.45x39 BbTI data, and some minor fixes. ([#69694](https://github.com/CleverRaven/Cataclysm-DDA/pull/69694))
-* .357 Ballistics by the inch ([#69667](https://github.com/CleverRaven/Cataclysm-DDA/pull/69667))
 * [MoM] Separate NO_SPELLCASTING from new NO_PSIONICS, Take 2 ([#69670](https://github.com/CleverRaven/Cataclysm-DDA/pull/69670))
 * Disable dangling reference warnings with cmake+gcc ([#69679](https://github.com/CleverRaven/Cataclysm-DDA/pull/69679))
 * Create config dir before failing to save initial language selection ([#69688](https://github.com/CleverRaven/Cataclysm-DDA/pull/69688))
