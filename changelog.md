@@ -1,3 +1,6 @@
+* [MoM} Add Extended Stride to concentration EoC ([#69941](https://github.com/CleverRaven/Cataclysm-DDA/pull/69941))
+* Cat distribution and animal shelter/pound tweaks ([#69939](https://github.com/CleverRaven/Cataclysm-DDA/pull/69939))
+* 3006 BBTI, gun adjustments, ammo ([#69918](https://github.com/CleverRaven/Cataclysm-DDA/pull/69918))
 * Can't wield gases ([#69933](https://github.com/CleverRaven/Cataclysm-DDA/pull/69933))
 * [MoM] Add telepathic dampener ([#69890](https://github.com/CleverRaven/Cataclysm-DDA/pull/69890))
 * Industrial trash can looks like something ([#69917](https://github.com/CleverRaven/Cataclysm-DDA/pull/69917))
@@ -87,6 +90,3 @@
 * 270 Winchester BBTI ([#69701](https://github.com/CleverRaven/Cataclysm-DDA/pull/69701))
 * Optimize mutation_armor & resistances calculations ([#69715](https://github.com/CleverRaven/Cataclysm-DDA/pull/69715))
 * Remove duplicated faction_edit functions ([#69704](https://github.com/CleverRaven/Cataclysm-DDA/pull/69704))
-* Change NPC faction from debug menu ([#69693](https://github.com/CleverRaven/Cataclysm-DDA/pull/69693))
-* ISS snippet ([#69695](https://github.com/CleverRaven/Cataclysm-DDA/pull/69695))
-* Adds 5.45x39 BbTI data, and some minor fixes. ([#69694](https://github.com/CleverRaven/Cataclysm-DDA/pull/69694))
