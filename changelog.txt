@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-11-20 to 2023-11-27 (#69784)
 * Field Cap Addition (#69879)
 * Revert "turn FOV_3D on by default" (#69940)
 * Update slippery terrain, waterproof activity/robofac suit (#69909)
@@ -85,7 +86,6 @@
 * [Xedra Evolved] Who will fix the bugfixes (#69744)
 * Eggy Burgers (#69732)
 * Varsity Jackets (#69735)
-* Refactor vehicle interaction screen bottom section (#69721)
 * Routine i18n updates on 25 November 2023 (#69728)
 * Make s_gun_roof roof access lead to main part of roof (#69722)
 * Add looks_like mushroom to morel (#69739)
