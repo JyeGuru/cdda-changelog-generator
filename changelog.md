@@ -1,3 +1,5 @@
+* [MoM] remove ALL-SEEING to make Instiller of Nightmares less of an unavoidable death trap ([#69915](https://github.com/CleverRaven/Cataclysm-DDA/pull/69915))
+* Adds some geography. This one is a kind of big deal. ([#69912](https://github.com/CleverRaven/Cataclysm-DDA/pull/69912))
 * [MoM} Add Extended Stride to concentration EoC ([#69941](https://github.com/CleverRaven/Cataclysm-DDA/pull/69941))
 * Cat distribution and animal shelter/pound tweaks ([#69939](https://github.com/CleverRaven/Cataclysm-DDA/pull/69939))
 * 3006 BBTI, gun adjustments, ammo ([#69918](https://github.com/CleverRaven/Cataclysm-DDA/pull/69918))
@@ -84,7 +86,6 @@
 * Add looks_like mushroom to morel ([#69739](https://github.com/CleverRaven/Cataclysm-DDA/pull/69739))
 * Fix text style error in npcmove.cpp ([#69733](https://github.com/CleverRaven/Cataclysm-DDA/pull/69733))
 * Avoid copying Target_attributes when calculating aim speed ([#69731](https://github.com/CleverRaven/Cataclysm-DDA/pull/69731))
-* Avoid unnecessary copies in lambda captures ([#69699](https://github.com/CleverRaven/Cataclysm-DDA/pull/69699))
 * Load translations using mmap ([#69702](https://github.com/CleverRaven/Cataclysm-DDA/pull/69702))
 * Added slime weakpoints and proficiencies ([#69700](https://github.com/CleverRaven/Cataclysm-DDA/pull/69700))
 * 270 Winchester BBTI ([#69701](https://github.com/CleverRaven/Cataclysm-DDA/pull/69701))
