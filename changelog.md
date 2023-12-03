@@ -1,3 +1,4 @@
+* Revert "turn FOV_3D on by default" ([#69940](https://github.com/CleverRaven/Cataclysm-DDA/pull/69940))
 * Update slippery terrain, waterproof activity/robofac suit ([#69909](https://github.com/CleverRaven/Cataclysm-DDA/pull/69909))
 * Another shovel of typos ([#69923](https://github.com/CleverRaven/Cataclysm-DDA/pull/69923))
 * [MoM] Teach electrokinetics their recipes ([#69905](https://github.com/CleverRaven/Cataclysm-DDA/pull/69905))
@@ -90,4 +91,3 @@
 * Add looks_like mushroom to morel ([#69739](https://github.com/CleverRaven/Cataclysm-DDA/pull/69739))
 * Fix text style error in npcmove.cpp ([#69733](https://github.com/CleverRaven/Cataclysm-DDA/pull/69733))
 * Avoid copying Target_attributes when calculating aim speed ([#69731](https://github.com/CleverRaven/Cataclysm-DDA/pull/69731))
-* Optimize mutation_armor & resistances calculations ([#69715](https://github.com/CleverRaven/Cataclysm-DDA/pull/69715))
