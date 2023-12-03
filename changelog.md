@@ -1,3 +1,4 @@
+* Field Cap Addition ([#69879](https://github.com/CleverRaven/Cataclysm-DDA/pull/69879))
 * Revert "turn FOV_3D on by default" ([#69940](https://github.com/CleverRaven/Cataclysm-DDA/pull/69940))
 * Update slippery terrain, waterproof activity/robofac suit ([#69909](https://github.com/CleverRaven/Cataclysm-DDA/pull/69909))
 * Another shovel of typos ([#69923](https://github.com/CleverRaven/Cataclysm-DDA/pull/69923))
@@ -85,7 +86,6 @@
 * Eggy Burgers ([#69732](https://github.com/CleverRaven/Cataclysm-DDA/pull/69732))
 * Varsity Jackets ([#69735](https://github.com/CleverRaven/Cataclysm-DDA/pull/69735))
 * Refactor vehicle interaction screen bottom section ([#69721](https://github.com/CleverRaven/Cataclysm-DDA/pull/69721))
-* Bugfix: Stop milking dead cows 💀🐄 ([#69716](https://github.com/CleverRaven/Cataclysm-DDA/pull/69716))
 * Routine i18n updates on 25 November 2023 ([#69728](https://github.com/CleverRaven/Cataclysm-DDA/pull/69728))
 * Make s_gun_roof roof access lead to main part of roof ([#69722](https://github.com/CleverRaven/Cataclysm-DDA/pull/69722))
 * Add looks_like mushroom to morel ([#69739](https://github.com/CleverRaven/Cataclysm-DDA/pull/69739))
