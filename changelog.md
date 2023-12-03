@@ -1,3 +1,4 @@
+* Update slippery terrain, waterproof activity/robofac suit ([#69909](https://github.com/CleverRaven/Cataclysm-DDA/pull/69909))
 * Another shovel of typos ([#69923](https://github.com/CleverRaven/Cataclysm-DDA/pull/69923))
 * [MoM] Teach electrokinetics their recipes ([#69905](https://github.com/CleverRaven/Cataclysm-DDA/pull/69905))
 * [MoM] Even more powers ([#69945](https://github.com/CleverRaven/Cataclysm-DDA/pull/69945))
@@ -67,7 +68,6 @@
 * [Magiclysm] Fix missing standard for Voltaic Touch ([#69777](https://github.com/CleverRaven/Cataclysm-DDA/pull/69777))
 * add spawns to some items that need it ([#69798](https://github.com/CleverRaven/Cataclysm-DDA/pull/69798))
 * Add old school slings ([#69788](https://github.com/CleverRaven/Cataclysm-DDA/pull/69788))
-* [Rework] Add more realistic agricultural solution to produce raw grain ([#69714](https://github.com/CleverRaven/Cataclysm-DDA/pull/69714))
 * 10mm BBTI data, JHP, +P loads ([#69791](https://github.com/CleverRaven/Cataclysm-DDA/pull/69791))
 * Edit rabbi description + specify holy symbol variant ([#69775](https://github.com/CleverRaven/Cataclysm-DDA/pull/69775))
 * Move the `pocket_type` enum to it's own header ([#69794](https://github.com/CleverRaven/Cataclysm-DDA/pull/69794))
