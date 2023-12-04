@@ -1,3 +1,4 @@
+* Fix ammo and comestible plurals and remove obsolete plural loading code ([#69911](https://github.com/CleverRaven/Cataclysm-DDA/pull/69911))
 * Clarify you need clean material to repair stuff ([#69776](https://github.com/CleverRaven/Cataclysm-DDA/pull/69776))
 * Show language selection window in options menu ([#69850](https://github.com/CleverRaven/Cataclysm-DDA/pull/69850))
 * Change ammo type for miniguns on helicopters ([#69895](https://github.com/CleverRaven/Cataclysm-DDA/pull/69895))
@@ -91,4 +92,3 @@
 * feat(content): New Epilogues for NPCs ([#69758](https://github.com/CleverRaven/Cataclysm-DDA/pull/69758))
 * Added triffid weakpoints and weakpoint proficiencies ([#69764](https://github.com/CleverRaven/Cataclysm-DDA/pull/69764))
 * Update soundpack doc ([#69759](https://github.com/CleverRaven/Cataclysm-DDA/pull/69759))
-* [Xedra Evolved] Who will fix the bugfixes ([#69744](https://github.com/CleverRaven/Cataclysm-DDA/pull/69744))
