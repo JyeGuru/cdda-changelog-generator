@@ -1,3 +1,4 @@
+* .38 special and bonus .38+P BBTI ([#69983](https://github.com/CleverRaven/Cataclysm-DDA/pull/69983))
 * The Great Wiki Mentions Removal ([#69996](https://github.com/CleverRaven/Cataclysm-DDA/pull/69996))
 * Inattentive Trait Grammer Fix ([#69974](https://github.com/CleverRaven/Cataclysm-DDA/pull/69974))
 * put an #if defined guard around select_language(), for LOCALIZE=0 builds ([#69978](https://github.com/CleverRaven/Cataclysm-DDA/pull/69978))
@@ -88,7 +89,6 @@
 * [Xedra] Remove Obsolete Dimension Research Reference ([#69786](https://github.com/CleverRaven/Cataclysm-DDA/pull/69786))
 * Add nuckalavee enemy to nether ([#69757](https://github.com/CleverRaven/Cataclysm-DDA/pull/69757))
 * Move spell cost calculation up slightly to account for spell cost ternaries ([#69760](https://github.com/CleverRaven/Cataclysm-DDA/pull/69760))
-* Fix pink-white varsity jacket variant id ([#69755](https://github.com/CleverRaven/Cataclysm-DDA/pull/69755))
 * feat(content): New Epilogues for NPCs ([#69758](https://github.com/CleverRaven/Cataclysm-DDA/pull/69758))
 * Added triffid weakpoints and weakpoint proficiencies ([#69764](https://github.com/CleverRaven/Cataclysm-DDA/pull/69764))
 * Update soundpack doc ([#69759](https://github.com/CleverRaven/Cataclysm-DDA/pull/69759))
