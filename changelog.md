@@ -1,3 +1,4 @@
+* The Great Wiki Mentions Removal ([#69996](https://github.com/CleverRaven/Cataclysm-DDA/pull/69996))
 * Inattentive Trait Grammer Fix ([#69974](https://github.com/CleverRaven/Cataclysm-DDA/pull/69974))
 * put an #if defined guard around select_language(), for LOCALIZE=0 builds ([#69978](https://github.com/CleverRaven/Cataclysm-DDA/pull/69978))
 * [MoM] Terminology adjustments ([#69970](https://github.com/CleverRaven/Cataclysm-DDA/pull/69970))
@@ -77,7 +78,6 @@
 * Further dreams EoCification ([#69768](https://github.com/CleverRaven/Cataclysm-DDA/pull/69768))
 * Make mirror armor fit on brigandine ([#69790](https://github.com/CleverRaven/Cataclysm-DDA/pull/69790))
 * Bugfix: Clear AIM pane when filtering items ([#69802](https://github.com/CleverRaven/Cataclysm-DDA/pull/69802))
-* Defense Mode: Custom Options and Difficulty Modifiers ([#69754](https://github.com/CleverRaven/Cataclysm-DDA/pull/69754))
 * [Magiclysm] Fix missing standard for Voltaic Touch ([#69777](https://github.com/CleverRaven/Cataclysm-DDA/pull/69777))
 * add spawns to some items that need it ([#69798](https://github.com/CleverRaven/Cataclysm-DDA/pull/69798))
 * Add old school slings ([#69788](https://github.com/CleverRaven/Cataclysm-DDA/pull/69788))
