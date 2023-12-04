@@ -1,3 +1,4 @@
+* [MoM] Terminology adjustments ([#69970](https://github.com/CleverRaven/Cataclysm-DDA/pull/69970))
 * Fix ammo and comestible plurals and remove obsolete plural loading code ([#69911](https://github.com/CleverRaven/Cataclysm-DDA/pull/69911))
 * Clarify you need clean material to repair stuff ([#69776](https://github.com/CleverRaven/Cataclysm-DDA/pull/69776))
 * Show language selection window in options menu ([#69850](https://github.com/CleverRaven/Cataclysm-DDA/pull/69850))
@@ -86,7 +87,6 @@
 * fix a typo in NPC doc ([#69793](https://github.com/CleverRaven/Cataclysm-DDA/pull/69793))
 * [Xedra] Remove Obsolete Dimension Research Reference ([#69786](https://github.com/CleverRaven/Cataclysm-DDA/pull/69786))
 * Add nuckalavee enemy to nether ([#69757](https://github.com/CleverRaven/Cataclysm-DDA/pull/69757))
-* List Barrel lengths for (almost) every gun ([#69745](https://github.com/CleverRaven/Cataclysm-DDA/pull/69745))
 * Move spell cost calculation up slightly to account for spell cost ternaries ([#69760](https://github.com/CleverRaven/Cataclysm-DDA/pull/69760))
 * Fix pink-white varsity jacket variant id ([#69755](https://github.com/CleverRaven/Cataclysm-DDA/pull/69755))
 * feat(content): New Epilogues for NPCs ([#69758](https://github.com/CleverRaven/Cataclysm-DDA/pull/69758))
