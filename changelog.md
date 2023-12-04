@@ -1,3 +1,6 @@
+* Clarify you need clean material to repair stuff ([#69776](https://github.com/CleverRaven/Cataclysm-DDA/pull/69776))
+* Show language selection window in options menu ([#69850](https://github.com/CleverRaven/Cataclysm-DDA/pull/69850))
+* Change ammo type for miniguns on helicopters ([#69895](https://github.com/CleverRaven/Cataclysm-DDA/pull/69895))
 * map: fix tripoint use in pl_sees ([#69948](https://github.com/CleverRaven/Cataclysm-DDA/pull/69948))
 * .357 sig BBTI ([#69952](https://github.com/CleverRaven/Cataclysm-DDA/pull/69952))
 * Knitting is looping ([#69958](https://github.com/CleverRaven/Cataclysm-DDA/pull/69958))
@@ -89,5 +92,3 @@
 * Added triffid weakpoints and weakpoint proficiencies ([#69764](https://github.com/CleverRaven/Cataclysm-DDA/pull/69764))
 * Update soundpack doc ([#69759](https://github.com/CleverRaven/Cataclysm-DDA/pull/69759))
 * [Xedra Evolved] Who will fix the bugfixes ([#69744](https://github.com/CleverRaven/Cataclysm-DDA/pull/69744))
-* Varsity Jackets ([#69735](https://github.com/CleverRaven/Cataclysm-DDA/pull/69735))
-* Add looks_like mushroom to morel ([#69739](https://github.com/CleverRaven/Cataclysm-DDA/pull/69739))
