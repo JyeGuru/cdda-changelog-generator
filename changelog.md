@@ -1,3 +1,4 @@
+* let Angle grinders be made with metal grinding discs ([#69976](https://github.com/CleverRaven/Cataclysm-DDA/pull/69976))
 * Fix some condiments spawn ([#69985](https://github.com/CleverRaven/Cataclysm-DDA/pull/69985))
 * fix cbm_ammo calculation bug ([#69981](https://github.com/CleverRaven/Cataclysm-DDA/pull/69981))
 * Overmap autotravel on light industry road ([#69989](https://github.com/CleverRaven/Cataclysm-DDA/pull/69989))
@@ -91,5 +92,4 @@
 * Move the `pocket_type` enum to it's own header ([#69794](https://github.com/CleverRaven/Cataclysm-DDA/pull/69794))
 * fix a typo in NPC doc ([#69793](https://github.com/CleverRaven/Cataclysm-DDA/pull/69793))
 * [Xedra] Remove Obsolete Dimension Research Reference ([#69786](https://github.com/CleverRaven/Cataclysm-DDA/pull/69786))
-* Move spell cost calculation up slightly to account for spell cost ternaries ([#69760](https://github.com/CleverRaven/Cataclysm-DDA/pull/69760))
 * Added triffid weakpoints and weakpoint proficiencies ([#69764](https://github.com/CleverRaven/Cataclysm-DDA/pull/69764))
