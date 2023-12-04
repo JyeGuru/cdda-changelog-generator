@@ -1,3 +1,4 @@
+* Fix some condiments spawn ([#69985](https://github.com/CleverRaven/Cataclysm-DDA/pull/69985))
 * fix cbm_ammo calculation bug ([#69981](https://github.com/CleverRaven/Cataclysm-DDA/pull/69981))
 * Overmap autotravel on light industry road ([#69989](https://github.com/CleverRaven/Cataclysm-DDA/pull/69989))
 * Remove attractive stats and description from rabbit mutations. ([#69979](https://github.com/CleverRaven/Cataclysm-DDA/pull/69979))
@@ -92,4 +93,3 @@
 * [Xedra] Remove Obsolete Dimension Research Reference ([#69786](https://github.com/CleverRaven/Cataclysm-DDA/pull/69786))
 * Move spell cost calculation up slightly to account for spell cost ternaries ([#69760](https://github.com/CleverRaven/Cataclysm-DDA/pull/69760))
 * Added triffid weakpoints and weakpoint proficiencies ([#69764](https://github.com/CleverRaven/Cataclysm-DDA/pull/69764))
-* Update soundpack doc ([#69759](https://github.com/CleverRaven/Cataclysm-DDA/pull/69759))
