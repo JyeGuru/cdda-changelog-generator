@@ -1,3 +1,4 @@
+* Inattentive Trait Grammer Fix (#69974)
 * put an #if defined guard around select_language(), for LOCALIZE=0 builds (#69978)
 * [MoM] Terminology adjustments (#69970)
 * Fix ammo and comestible plurals and remove obsolete plural loading code (#69911)
@@ -69,7 +70,6 @@
 * Adds 20x66 ballistics by the inch data (#69805)
 * [ Xedra Evolved ] Prevent Premature Vampire escalations (#69761)
 * [MoM] potion effects typo fix (#69772)
-* [MoM] Various maintenance tasks (#69753)
 * DARPA Flamethrowers (#69783)
 * Un-Variants Glock 40 (#69809)
 * [Defense Mode] Fix Zombie Hostility and Remove Panicked Civilians (#69797)
