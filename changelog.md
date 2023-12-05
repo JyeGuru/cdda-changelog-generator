@@ -1,3 +1,6 @@
+* [MoM] fix Electron Overflow ([#70012](https://github.com/CleverRaven/Cataclysm-DDA/pull/70012))
+* Fix practice requirements for the lucerne hammer ([#70010](https://github.com/CleverRaven/Cataclysm-DDA/pull/70010))
+* Parameterize new overmap changes and adjust forests in the process ([#70002](https://github.com/CleverRaven/Cataclysm-DDA/pull/70002))
 * Cutoff disc for angle grinders  ([#70001](https://github.com/CleverRaven/Cataclysm-DDA/pull/70001))
 * More garlic, onions and potatoes in houses ([#69816](https://github.com/CleverRaven/Cataclysm-DDA/pull/69816))
 * A start of Liquid recipes for faction camps ([#69937](https://github.com/CleverRaven/Cataclysm-DDA/pull/69937))
@@ -89,6 +92,3 @@
 * [Defense Mode] Fix Zombie Hostility and Remove Panicked Civilians ([#69797](https://github.com/CleverRaven/Cataclysm-DDA/pull/69797))
 * Bugfix: Clear AIM pane when filtering items ([#69802](https://github.com/CleverRaven/Cataclysm-DDA/pull/69802))
 * add spawns to some items that need it ([#69798](https://github.com/CleverRaven/Cataclysm-DDA/pull/69798))
-* 10mm BBTI data, JHP, +P loads ([#69791](https://github.com/CleverRaven/Cataclysm-DDA/pull/69791))
-* Move the `pocket_type` enum to it's own header ([#69794](https://github.com/CleverRaven/Cataclysm-DDA/pull/69794))
-* fix a typo in NPC doc ([#69793](https://github.com/CleverRaven/Cataclysm-DDA/pull/69793))
