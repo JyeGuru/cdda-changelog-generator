@@ -1,3 +1,4 @@
+* JSON-ify hallucinations ([#69919](https://github.com/CleverRaven/Cataclysm-DDA/pull/69919))
 * let Angle grinders be made with metal grinding discs ([#69976](https://github.com/CleverRaven/Cataclysm-DDA/pull/69976))
 * Fix some condiments spawn ([#69985](https://github.com/CleverRaven/Cataclysm-DDA/pull/69985))
 * fix cbm_ammo calculation bug ([#69981](https://github.com/CleverRaven/Cataclysm-DDA/pull/69981))
@@ -75,7 +76,6 @@
 * Stay with me buddy ([#69810](https://github.com/CleverRaven/Cataclysm-DDA/pull/69810))
 * Add u_has_proficiency to EoC conditions ([#69812](https://github.com/CleverRaven/Cataclysm-DDA/pull/69812))
 * Adds 20x66 ballistics by the inch data ([#69805](https://github.com/CleverRaven/Cataclysm-DDA/pull/69805))
-* [ Xedra Evolved ] Prevent Premature Vampire escalations ([#69761](https://github.com/CleverRaven/Cataclysm-DDA/pull/69761))
 * [MoM] potion effects typo fix ([#69772](https://github.com/CleverRaven/Cataclysm-DDA/pull/69772))
 * DARPA Flamethrowers ([#69783](https://github.com/CleverRaven/Cataclysm-DDA/pull/69783))
 * Un-Variants Glock 40 ([#69809](https://github.com/CleverRaven/Cataclysm-DDA/pull/69809))
