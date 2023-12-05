@@ -89,7 +89,6 @@
 * Make mirror armor fit on brigandine ([#69790](https://github.com/CleverRaven/Cataclysm-DDA/pull/69790))
 * Bugfix: Clear AIM pane when filtering items ([#69802](https://github.com/CleverRaven/Cataclysm-DDA/pull/69802))
 * add spawns to some items that need it ([#69798](https://github.com/CleverRaven/Cataclysm-DDA/pull/69798))
-* Add old school slings ([#69788](https://github.com/CleverRaven/Cataclysm-DDA/pull/69788))
 * 10mm BBTI data, JHP, +P loads ([#69791](https://github.com/CleverRaven/Cataclysm-DDA/pull/69791))
 * Move the `pocket_type` enum to it's own header ([#69794](https://github.com/CleverRaven/Cataclysm-DDA/pull/69794))
 * fix a typo in NPC doc ([#69793](https://github.com/CleverRaven/Cataclysm-DDA/pull/69793))
