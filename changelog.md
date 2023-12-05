@@ -1,3 +1,4 @@
+* Cutoff disc for angle grinders  ([#70001](https://github.com/CleverRaven/Cataclysm-DDA/pull/70001))
 * More garlic, onions and potatoes in houses ([#69816](https://github.com/CleverRaven/Cataclysm-DDA/pull/69816))
 * A start of Liquid recipes for faction camps ([#69937](https://github.com/CleverRaven/Cataclysm-DDA/pull/69937))
 * [ Xedra Evolved ] Sylph's don't breathe ([#69946](https://github.com/CleverRaven/Cataclysm-DDA/pull/69946))
@@ -86,7 +87,6 @@
 * Adds 20x66 ballistics by the inch data ([#69805](https://github.com/CleverRaven/Cataclysm-DDA/pull/69805))
 * Un-Variants Glock 40 ([#69809](https://github.com/CleverRaven/Cataclysm-DDA/pull/69809))
 * [Defense Mode] Fix Zombie Hostility and Remove Panicked Civilians ([#69797](https://github.com/CleverRaven/Cataclysm-DDA/pull/69797))
-* Make mirror armor fit on brigandine ([#69790](https://github.com/CleverRaven/Cataclysm-DDA/pull/69790))
 * Bugfix: Clear AIM pane when filtering items ([#69802](https://github.com/CleverRaven/Cataclysm-DDA/pull/69802))
 * add spawns to some items that need it ([#69798](https://github.com/CleverRaven/Cataclysm-DDA/pull/69798))
 * 10mm BBTI data, JHP, +P loads ([#69791](https://github.com/CleverRaven/Cataclysm-DDA/pull/69791))
