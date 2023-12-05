@@ -1,3 +1,4 @@
+* [Magiclysm] Fix description of rock throw for fantasy ferals (#69997)
 * JSON-ify hallucinations (#69919)
 * let Angle grinders be made with metal grinding discs (#69976)
 * Fix some condiments spawn (#69985)
@@ -92,4 +93,3 @@
 * Move the `pocket_type` enum to it's own header (#69794)
 * fix a typo in NPC doc (#69793)
 * [Xedra] Remove Obsolete Dimension Research Reference (#69786)
-* Added triffid weakpoints and weakpoint proficiencies (#69764)
