@@ -1,3 +1,4 @@
+* Vitamin Value fix for EOCs #67104 ([#69817](https://github.com/CleverRaven/Cataclysm-DDA/pull/69817))
 * [MoM] Add Project PHAVIAN Teleporter research areas ([#69949](https://github.com/CleverRaven/Cataclysm-DDA/pull/69949))
 * [MoM] More powers ([#69883](https://github.com/CleverRaven/Cataclysm-DDA/pull/69883))
 * Add ak bayonets (as a variant) ([#70009](https://github.com/CleverRaven/Cataclysm-DDA/pull/70009))
@@ -77,7 +78,6 @@
 * Fix armor sorting bugging active items in inventory ([#69860](https://github.com/CleverRaven/Cataclysm-DDA/pull/69860))
 * Add "has_proficiency" as a math condition for ternaries ([#69845](https://github.com/CleverRaven/Cataclysm-DDA/pull/69845))
 * .32 ACP BBTI, obsoleting implausible MG's ([#69842](https://github.com/CleverRaven/Cataclysm-DDA/pull/69842))
-* Add Bombastic Perk compatibility to Defense Mode. ([#69803](https://github.com/CleverRaven/Cataclysm-DDA/pull/69803))
 * [MoM] Gain more Nether attunement in Nether areas ([#69834](https://github.com/CleverRaven/Cataclysm-DDA/pull/69834))
 * Mining Stairs into the Ground doesn't Consume Rope ([#69822](https://github.com/CleverRaven/Cataclysm-DDA/pull/69822))
 * [MoM] Separate psi_stunned from stunned ([#69813](https://github.com/CleverRaven/Cataclysm-DDA/pull/69813))
