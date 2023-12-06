@@ -1,3 +1,4 @@
+* re-add pre-seeded hordes, make them unconditional, and show up even with wandering hordes disabled ([#69980](https://github.com/CleverRaven/Cataclysm-DDA/pull/69980))
 * [MoM] Even Even More Powers ([#69993](https://github.com/CleverRaven/Cataclysm-DDA/pull/69993))
 * Fix Fn Fal missing variant ([#70006](https://github.com/CleverRaven/Cataclysm-DDA/pull/70006))
 * [Xedra Evolved] Fix salamander Incandescent Artisan's Alacrity trait ([#70019](https://github.com/CleverRaven/Cataclysm-DDA/pull/70019))
@@ -92,4 +93,3 @@
 * [MoM] Readme update ([#69830](https://github.com/CleverRaven/Cataclysm-DDA/pull/69830))
 * Do not autopickup spilt liquids ([#69833](https://github.com/CleverRaven/Cataclysm-DDA/pull/69833))
 * Can't silence ported barrels, and compensators ([#69823](https://github.com/CleverRaven/Cataclysm-DDA/pull/69823))
-* Add u_has_proficiency to EoC conditions ([#69812](https://github.com/CleverRaven/Cataclysm-DDA/pull/69812))
