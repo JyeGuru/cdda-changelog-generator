@@ -1,3 +1,5 @@
+* [Xedra Evolved] Fix salamander Incandescent Artisan's Alacrity trait ([#70019](https://github.com/CleverRaven/Cataclysm-DDA/pull/70019))
+* [Xedra Evolved] Fix deathray expanding in size as charge fills ([#70018](https://github.com/CleverRaven/Cataclysm-DDA/pull/70018))
 * Vitamin Value fix for EOCs #67104 ([#69817](https://github.com/CleverRaven/Cataclysm-DDA/pull/69817))
 * [MoM] Add Project PHAVIAN Teleporter research areas ([#69949](https://github.com/CleverRaven/Cataclysm-DDA/pull/69949))
 * [MoM] More powers ([#69883](https://github.com/CleverRaven/Cataclysm-DDA/pull/69883))
@@ -74,7 +76,6 @@
 * [MoM] More maintained powers ([#69843](https://github.com/CleverRaven/Cataclysm-DDA/pull/69843))
 * More Snippets ([#69815](https://github.com/CleverRaven/Cataclysm-DDA/pull/69815))
 * adds a monster I saw in a dream to portal storms ([#69818](https://github.com/CleverRaven/Cataclysm-DDA/pull/69818))
-* [MoM] Add concentration traits ([#69808](https://github.com/CleverRaven/Cataclysm-DDA/pull/69808))
 * Fix armor sorting bugging active items in inventory ([#69860](https://github.com/CleverRaven/Cataclysm-DDA/pull/69860))
 * Add "has_proficiency" as a math condition for ternaries ([#69845](https://github.com/CleverRaven/Cataclysm-DDA/pull/69845))
 * .32 ACP BBTI, obsoleting implausible MG's ([#69842](https://github.com/CleverRaven/Cataclysm-DDA/pull/69842))
@@ -92,4 +93,3 @@
 * Can't silence ported barrels, and compensators ([#69823](https://github.com/CleverRaven/Cataclysm-DDA/pull/69823))
 * Stay with me buddy ([#69810](https://github.com/CleverRaven/Cataclysm-DDA/pull/69810))
 * Add u_has_proficiency to EoC conditions ([#69812](https://github.com/CleverRaven/Cataclysm-DDA/pull/69812))
-* Un-Variants Glock 40 ([#69809](https://github.com/CleverRaven/Cataclysm-DDA/pull/69809))
