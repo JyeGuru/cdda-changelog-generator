@@ -92,5 +92,4 @@
 * Can't silence ported barrels, and compensators ([#69823](https://github.com/CleverRaven/Cataclysm-DDA/pull/69823))
 * Stay with me buddy ([#69810](https://github.com/CleverRaven/Cataclysm-DDA/pull/69810))
 * Add u_has_proficiency to EoC conditions ([#69812](https://github.com/CleverRaven/Cataclysm-DDA/pull/69812))
-* Adds 20x66 ballistics by the inch data ([#69805](https://github.com/CleverRaven/Cataclysm-DDA/pull/69805))
 * Un-Variants Glock 40 ([#69809](https://github.com/CleverRaven/Cataclysm-DDA/pull/69809))
