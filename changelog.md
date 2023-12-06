@@ -1,3 +1,4 @@
+* [MoM] fix Voltaic Strikes ([#70008](https://github.com/CleverRaven/Cataclysm-DDA/pull/70008))
 * [MoM] fix Electron Overflow ([#70012](https://github.com/CleverRaven/Cataclysm-DDA/pull/70012))
 * Fix practice requirements for the lucerne hammer ([#70010](https://github.com/CleverRaven/Cataclysm-DDA/pull/70010))
 * Parameterize new overmap changes and adjust forests in the process ([#70002](https://github.com/CleverRaven/Cataclysm-DDA/pull/70002))
