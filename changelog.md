@@ -1,3 +1,4 @@
+* [MoM] Add Project PHAVIAN Teleporter research areas ([#69949](https://github.com/CleverRaven/Cataclysm-DDA/pull/69949))
 * [MoM] More powers ([#69883](https://github.com/CleverRaven/Cataclysm-DDA/pull/69883))
 * Add ak bayonets (as a variant) ([#70009](https://github.com/CleverRaven/Cataclysm-DDA/pull/70009))
 * .380 auto ballistics by the inch ([#70007](https://github.com/CleverRaven/Cataclysm-DDA/pull/70007))
@@ -93,4 +94,3 @@
 * Add u_has_proficiency to EoC conditions ([#69812](https://github.com/CleverRaven/Cataclysm-DDA/pull/69812))
 * Adds 20x66 ballistics by the inch data ([#69805](https://github.com/CleverRaven/Cataclysm-DDA/pull/69805))
 * Un-Variants Glock 40 ([#69809](https://github.com/CleverRaven/Cataclysm-DDA/pull/69809))
-* Bugfix: Clear AIM pane when filtering items ([#69802](https://github.com/CleverRaven/Cataclysm-DDA/pull/69802))
