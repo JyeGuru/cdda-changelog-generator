@@ -1,3 +1,4 @@
+* Removed wiki mention from help ([#70054](https://github.com/CleverRaven/Cataclysm-DDA/pull/70054))
 * Fix more prosthetic-related issues ([#70024](https://github.com/CleverRaven/Cataclysm-DDA/pull/70024))
 * Weekly Changelog 2023-11-27 to 2023-12-04 ([#69971](https://github.com/CleverRaven/Cataclysm-DDA/pull/69971))
 * Make hair styles conform to using variants for colors ([#70017](https://github.com/CleverRaven/Cataclysm-DDA/pull/70017))
@@ -86,7 +87,6 @@
 * Add "has_proficiency" as a math condition for ternaries ([#69845](https://github.com/CleverRaven/Cataclysm-DDA/pull/69845))
 * .32 ACP BBTI, obsoleting implausible MG's ([#69842](https://github.com/CleverRaven/Cataclysm-DDA/pull/69842))
 * [MoM] Gain more Nether attunement in Nether areas ([#69834](https://github.com/CleverRaven/Cataclysm-DDA/pull/69834))
-* Fixed Luo's conversation ([#69826](https://github.com/CleverRaven/Cataclysm-DDA/pull/69826))
 * Minor hauling fixes ([#69827](https://github.com/CleverRaven/Cataclysm-DDA/pull/69827))
 * Allow pocket_mods to add magazine or magazine well pockets to items without them ([#69828](https://github.com/CleverRaven/Cataclysm-DDA/pull/69828))
 * Added Legging Variants ([#69835](https://github.com/CleverRaven/Cataclysm-DDA/pull/69835))
