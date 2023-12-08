@@ -1,3 +1,4 @@
+* Knife for the knife feral ([#70063](https://github.com/CleverRaven/Cataclysm-DDA/pull/70063))
 * 45 ACP Ballistics by the inch ([#70064](https://github.com/CleverRaven/Cataclysm-DDA/pull/70064))
 * [MoM] Fix Hammerhand not removing the hammer hand ([#70059](https://github.com/CleverRaven/Cataclysm-DDA/pull/70059))
 * Adding tactical jackets ([#69961](https://github.com/CleverRaven/Cataclysm-DDA/pull/69961))
