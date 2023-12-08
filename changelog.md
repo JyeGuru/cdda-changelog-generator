@@ -1,3 +1,5 @@
+* Adding tactical jackets ([#69961](https://github.com/CleverRaven/Cataclysm-DDA/pull/69961))
+* Remove battery slot from electric tools that should not be portable ([#69965](https://github.com/CleverRaven/Cataclysm-DDA/pull/69965))
 * [MoM] Clairsentient and Vitakinetic Feral buffs ([#70053](https://github.com/CleverRaven/Cataclysm-DDA/pull/70053))
 * [MoM] Further concentration updates ([#70058](https://github.com/CleverRaven/Cataclysm-DDA/pull/70058))
 * fix weapon steadiness bar not working ([#70060](https://github.com/CleverRaven/Cataclysm-DDA/pull/70060))
@@ -91,5 +93,3 @@
 * Fix armor sorting bugging active items in inventory ([#69860](https://github.com/CleverRaven/Cataclysm-DDA/pull/69860))
 * Add "has_proficiency" as a math condition for ternaries ([#69845](https://github.com/CleverRaven/Cataclysm-DDA/pull/69845))
 * .32 ACP BBTI, obsoleting implausible MG's ([#69842](https://github.com/CleverRaven/Cataclysm-DDA/pull/69842))
-* [MoM] Gain more Nether attunement in Nether areas ([#69834](https://github.com/CleverRaven/Cataclysm-DDA/pull/69834))
-* Added Legging Variants ([#69835](https://github.com/CleverRaven/Cataclysm-DDA/pull/69835))
