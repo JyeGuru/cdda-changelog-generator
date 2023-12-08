@@ -1,3 +1,5 @@
+* [MoM] Clairsentient and Vitakinetic Feral buffs ([#70053](https://github.com/CleverRaven/Cataclysm-DDA/pull/70053))
+* [MoM] Further concentration updates ([#70058](https://github.com/CleverRaven/Cataclysm-DDA/pull/70058))
 * fix weapon steadiness bar not working ([#70060](https://github.com/CleverRaven/Cataclysm-DDA/pull/70060))
 * Fix in-game customization ([#70025](https://github.com/CleverRaven/Cataclysm-DDA/pull/70025))
 * .44 Magnum ballistics by the inch ([#70051](https://github.com/CleverRaven/Cataclysm-DDA/pull/70051))
@@ -91,5 +93,3 @@
 * .32 ACP BBTI, obsoleting implausible MG's ([#69842](https://github.com/CleverRaven/Cataclysm-DDA/pull/69842))
 * [MoM] Gain more Nether attunement in Nether areas ([#69834](https://github.com/CleverRaven/Cataclysm-DDA/pull/69834))
 * Added Legging Variants ([#69835](https://github.com/CleverRaven/Cataclysm-DDA/pull/69835))
-* Fix a bug with revivification in Defense Mode ([#69832](https://github.com/CleverRaven/Cataclysm-DDA/pull/69832))
-* Do not autopickup spilt liquids ([#69833](https://github.com/CleverRaven/Cataclysm-DDA/pull/69833))
