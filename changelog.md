@@ -89,6 +89,5 @@
 * .308 BBTI, description fluffs, recipes adjustments ([#69873](https://github.com/CleverRaven/Cataclysm-DDA/pull/69873))
 * [MoM] Add Concentration proficiencies, link them to concentration limit ([#69865](https://github.com/CleverRaven/Cataclysm-DDA/pull/69865))
 * Glock 40 (full auto) ([#69859](https://github.com/CleverRaven/Cataclysm-DDA/pull/69859))
-* [MoM] More maintained powers ([#69843](https://github.com/CleverRaven/Cataclysm-DDA/pull/69843))
 * Fix armor sorting bugging active items in inventory ([#69860](https://github.com/CleverRaven/Cataclysm-DDA/pull/69860))
 * Add "has_proficiency" as a math condition for ternaries ([#69845](https://github.com/CleverRaven/Cataclysm-DDA/pull/69845))
