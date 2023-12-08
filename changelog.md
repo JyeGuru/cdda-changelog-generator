@@ -73,7 +73,6 @@
 * [MoM] Add telepathic dampener ([#69890](https://github.com/CleverRaven/Cataclysm-DDA/pull/69890))
 * Industrial trash can looks like something ([#69917](https://github.com/CleverRaven/Cataclysm-DDA/pull/69917))
 * turn FOV_3D on by default ([#69935](https://github.com/CleverRaven/Cataclysm-DDA/pull/69935))
-* Many small logic adjustments and bugfixes for NPC targeting / threat assessment ([#69840](https://github.com/CleverRaven/Cataclysm-DDA/pull/69840))
 * [Bugfix] Check that BMR value isn't 0 before dividing ([#69894](https://github.com/CleverRaven/Cataclysm-DDA/pull/69894))
 * Prosthetic Quality of Life ([#69888](https://github.com/CleverRaven/Cataclysm-DDA/pull/69888))
 * Introduced field conversion survey ([#69874](https://github.com/CleverRaven/Cataclysm-DDA/pull/69874))
