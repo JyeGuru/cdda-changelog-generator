@@ -1,3 +1,6 @@
+* 32 round grease gun mags were in 9mm (#70066)
+* game: fix rain animation out-of-bounds (#70068)
+* mapbuffer: fix saving of reverted submaps (#70067)
 * Knife for the knife feral (#70063)
 * 45 ACP Ballistics by the inch (#70064)
 * [MoM] Fix Hammerhand not removing the hammer hand (#70059)
@@ -88,6 +91,3 @@
 * Allow repair&refit actions if item is fully repaired but can be refitted (#69901)
 * [Backrooms] Autodoc special and long-term progression tweaks (#69881)
 * .308 BBTI, description fluffs, recipes adjustments (#69873)
-* [MoM] Add Concentration proficiencies, link them to concentration limit (#69865)
-* Glock 40 (full auto) (#69859)
-* Fix armor sorting bugging active items in inventory (#69860)
