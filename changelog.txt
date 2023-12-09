@@ -1,3 +1,4 @@
+* Removing gun- or toolmods with `pocket_mods` updates the pockets (#70044)
 * block/remove surveys that can't be performed (#70096)
 * Fix copper wire amounts in motor (#70033)
 * github: enable BACKTRACE in linux builds (#70069)
@@ -83,7 +84,6 @@
 * Can't wield gases (#69933)
 * Industrial trash can looks like something (#69917)
 * turn FOV_3D on by default (#69935)
-* [Bugfix] Check that BMR value isn't 0 before dividing (#69894)
 * [Defense Mode] Fix `copy-from` issues pertaining to scenario extensions (#69897)
 * Routine i18n updates on 02 December 2023 (#69910)
 * make sure sees checks outside of max view distance always fail (#69916)
