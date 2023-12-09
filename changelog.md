@@ -1,3 +1,4 @@
+* block/remove surveys that can't be performed ([#70096](https://github.com/CleverRaven/Cataclysm-DDA/pull/70096))
 * Fix copper wire amounts in motor ([#70033](https://github.com/CleverRaven/Cataclysm-DDA/pull/70033))
 * github: enable BACKTRACE in linux builds ([#70069](https://github.com/CleverRaven/Cataclysm-DDA/pull/70069))
 * [MoM] Add electrokinetic matrix crystal disassembly ([#70047](https://github.com/CleverRaven/Cataclysm-DDA/pull/70047))
@@ -80,7 +81,6 @@
 * Cat distribution and animal shelter/pound tweaks ([#69939](https://github.com/CleverRaven/Cataclysm-DDA/pull/69939))
 * 3006 BBTI, gun adjustments, ammo ([#69918](https://github.com/CleverRaven/Cataclysm-DDA/pull/69918))
 * Can't wield gases ([#69933](https://github.com/CleverRaven/Cataclysm-DDA/pull/69933))
-* [MoM] Add telepathic dampener ([#69890](https://github.com/CleverRaven/Cataclysm-DDA/pull/69890))
 * Industrial trash can looks like something ([#69917](https://github.com/CleverRaven/Cataclysm-DDA/pull/69917))
 * turn FOV_3D on by default ([#69935](https://github.com/CleverRaven/Cataclysm-DDA/pull/69935))
 * [Bugfix] Check that BMR value isn't 0 before dividing ([#69894](https://github.com/CleverRaven/Cataclysm-DDA/pull/69894))
