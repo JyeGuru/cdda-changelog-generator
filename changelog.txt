@@ -1,3 +1,5 @@
+* Aftershock combat drugs (#70085)
+* Add the star vampire, an invisible blood-drinking monster (#70026)
 * 32 round grease gun mags were in 9mm (#70066)
 * game: fix rain animation out-of-bounds (#70068)
 * mapbuffer: fix saving of reverted submaps (#70067)
@@ -80,7 +82,6 @@
 * turn FOV_3D on by default (#69935)
 * [Bugfix] Check that BMR value isn't 0 before dividing (#69894)
 * Prosthetic Quality of Life (#69888)
-* Introduced field conversion survey (#69874)
 * [Defense Mode] Fix `copy-from` issues pertaining to scenario extensions (#69897)
 * Routine i18n updates on 02 December 2023 (#69910)
 * make sure sees checks outside of max view distance always fail (#69916)
@@ -90,4 +91,3 @@
 * Routine tileset updates on 01 December 2023 (#69886)
 * Allow repair&refit actions if item is fully repaired but can be refitted (#69901)
 * [Backrooms] Autodoc special and long-term progression tweaks (#69881)
-* .308 BBTI, description fluffs, recipes adjustments (#69873)
