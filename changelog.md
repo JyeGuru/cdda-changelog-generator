@@ -1,3 +1,4 @@
+* No sword bayonets on pistols ([#70087](https://github.com/CleverRaven/Cataclysm-DDA/pull/70087))
 * Aftershock combat drugs ([#70085](https://github.com/CleverRaven/Cataclysm-DDA/pull/70085))
 * Add the star vampire, an invisible blood-drinking monster ([#70026](https://github.com/CleverRaven/Cataclysm-DDA/pull/70026))
 * 32 round grease gun mags were in 9mm ([#70066](https://github.com/CleverRaven/Cataclysm-DDA/pull/70066))
