@@ -1,3 +1,5 @@
+* Corrected excercise correlation to base camp food consumption ([#70045](https://github.com/CleverRaven/Cataclysm-DDA/pull/70045))
+* Allow use of variants when using add_trait effect ([#70086](https://github.com/CleverRaven/Cataclysm-DDA/pull/70086))
 * No sword bayonets on pistols ([#70087](https://github.com/CleverRaven/Cataclysm-DDA/pull/70087))
 * Aftershock combat drugs ([#70085](https://github.com/CleverRaven/Cataclysm-DDA/pull/70085))
 * Add the star vampire, an invisible blood-drinking monster ([#70026](https://github.com/CleverRaven/Cataclysm-DDA/pull/70026))
@@ -65,7 +67,6 @@
 * fix glock 40 and carlgustav can migration, return glock 40 ascii ([#69960](https://github.com/CleverRaven/Cataclysm-DDA/pull/69960))
 * [MoM] Fix Spacial Vortex and Wave of Force ([#69962](https://github.com/CleverRaven/Cataclysm-DDA/pull/69962))
 * Make frozen grapes edible ([#69964](https://github.com/CleverRaven/Cataclysm-DDA/pull/69964))
-* Field Cap Addition ([#69879](https://github.com/CleverRaven/Cataclysm-DDA/pull/69879))
 * Revert "turn FOV_3D on by default" ([#69940](https://github.com/CleverRaven/Cataclysm-DDA/pull/69940))
 * Update slippery terrain, waterproof activity/robofac suit ([#69909](https://github.com/CleverRaven/Cataclysm-DDA/pull/69909))
 * Another shovel of typos ([#69923](https://github.com/CleverRaven/Cataclysm-DDA/pull/69923))
@@ -91,4 +92,3 @@
 * [Xedra Evolved] Fix Goblin fruits ([#69906](https://github.com/CleverRaven/Cataclysm-DDA/pull/69906))
 * Routine tileset updates on 01 December 2023 ([#69886](https://github.com/CleverRaven/Cataclysm-DDA/pull/69886))
 * Allow repair&refit actions if item is fully repaired but can be refitted ([#69901](https://github.com/CleverRaven/Cataclysm-DDA/pull/69901))
-* [Backrooms] Autodoc special and long-term progression tweaks ([#69881](https://github.com/CleverRaven/Cataclysm-DDA/pull/69881))
