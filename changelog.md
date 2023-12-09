@@ -1,3 +1,4 @@
+* Routine i18n updates on 09 December 2023 ([#70090](https://github.com/CleverRaven/Cataclysm-DDA/pull/70090))
 * Removing gun- or toolmods with `pocket_mods` updates the pockets ([#70044](https://github.com/CleverRaven/Cataclysm-DDA/pull/70044))
 * block/remove surveys that can't be performed ([#70096](https://github.com/CleverRaven/Cataclysm-DDA/pull/70096))
 * Fix copper wire amounts in motor ([#70033](https://github.com/CleverRaven/Cataclysm-DDA/pull/70033))
@@ -63,7 +64,6 @@
 * put an #if defined guard around select_language(), for LOCALIZE=0 builds ([#69978](https://github.com/CleverRaven/Cataclysm-DDA/pull/69978))
 * [MoM] Terminology adjustments ([#69970](https://github.com/CleverRaven/Cataclysm-DDA/pull/69970))
 * Fix ammo and comestible plurals and remove obsolete plural loading code ([#69911](https://github.com/CleverRaven/Cataclysm-DDA/pull/69911))
-* Change ammo type for miniguns on helicopters ([#69895](https://github.com/CleverRaven/Cataclysm-DDA/pull/69895))
 * map: fix tripoint use in pl_sees ([#69948](https://github.com/CleverRaven/Cataclysm-DDA/pull/69948))
 * .357 sig BBTI ([#69952](https://github.com/CleverRaven/Cataclysm-DDA/pull/69952))
 * Knitting is looping ([#69958](https://github.com/CleverRaven/Cataclysm-DDA/pull/69958))
