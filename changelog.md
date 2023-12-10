@@ -1,3 +1,4 @@
+* Fixes jack-knifed semi trailer rotation ([#70100](https://github.com/CleverRaven/Cataclysm-DDA/pull/70100))
 * Routine i18n updates on 09 December 2023 ([#70090](https://github.com/CleverRaven/Cataclysm-DDA/pull/70090))
 * Removing gun- or toolmods with `pocket_mods` updates the pockets ([#70044](https://github.com/CleverRaven/Cataclysm-DDA/pull/70044))
 * block/remove surveys that can't be performed ([#70096](https://github.com/CleverRaven/Cataclysm-DDA/pull/70096))
@@ -84,7 +85,6 @@
 * Can't wield gases ([#69933](https://github.com/CleverRaven/Cataclysm-DDA/pull/69933))
 * Industrial trash can looks like something ([#69917](https://github.com/CleverRaven/Cataclysm-DDA/pull/69917))
 * turn FOV_3D on by default ([#69935](https://github.com/CleverRaven/Cataclysm-DDA/pull/69935))
-* [Defense Mode] Fix `copy-from` issues pertaining to scenario extensions ([#69897](https://github.com/CleverRaven/Cataclysm-DDA/pull/69897))
 * Routine i18n updates on 02 December 2023 ([#69910](https://github.com/CleverRaven/Cataclysm-DDA/pull/69910))
 * make sure sees checks outside of max view distance always fail ([#69916](https://github.com/CleverRaven/Cataclysm-DDA/pull/69916))
 * Candlestick can indeed stick to the candle again ([#69913](https://github.com/CleverRaven/Cataclysm-DDA/pull/69913))
