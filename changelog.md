@@ -1,3 +1,4 @@
+* [MoM] Change Gateway attunement to a teleporter power, remove Construction recipe ([#70112](https://github.com/CleverRaven/Cataclysm-DDA/pull/70112))
 * Fixes jack-knifed semi trailer rotation ([#70100](https://github.com/CleverRaven/Cataclysm-DDA/pull/70100))
 * Routine i18n updates on 09 December 2023 ([#70090](https://github.com/CleverRaven/Cataclysm-DDA/pull/70090))
 * Removing gun- or toolmods with `pocket_mods` updates the pockets ([#70044](https://github.com/CleverRaven/Cataclysm-DDA/pull/70044))
@@ -90,4 +91,3 @@
 * Candlestick can indeed stick to the candle again ([#69913](https://github.com/CleverRaven/Cataclysm-DDA/pull/69913))
 * [Magiclysm] Fix potion fruits ([#69903](https://github.com/CleverRaven/Cataclysm-DDA/pull/69903))
 * [Xedra Evolved] Fix Goblin fruits ([#69906](https://github.com/CleverRaven/Cataclysm-DDA/pull/69906))
-* Allow repair&refit actions if item is fully repaired but can be refitted ([#69901](https://github.com/CleverRaven/Cataclysm-DDA/pull/69901))
