@@ -1,3 +1,4 @@
+* Propane and acetylene cooker can be used to start fire ([#70111](https://github.com/CleverRaven/Cataclysm-DDA/pull/70111))
 * [MoM] Fix zombie null aura not disappearing on death ([#70114](https://github.com/CleverRaven/Cataclysm-DDA/pull/70114))
 * Remove choke from HWP breacher configuration ([#70097](https://github.com/CleverRaven/Cataclysm-DDA/pull/70097))
 * [MoM] Change Gateway attunement to a teleporter power, remove Construction recipe ([#70112](https://github.com/CleverRaven/Cataclysm-DDA/pull/70112))
@@ -90,4 +91,3 @@
 * Routine i18n updates on 02 December 2023 ([#69910](https://github.com/CleverRaven/Cataclysm-DDA/pull/69910))
 * make sure sees checks outside of max view distance always fail ([#69916](https://github.com/CleverRaven/Cataclysm-DDA/pull/69916))
 * Candlestick can indeed stick to the candle again ([#69913](https://github.com/CleverRaven/Cataclysm-DDA/pull/69913))
-* [Xedra Evolved] Fix Goblin fruits ([#69906](https://github.com/CleverRaven/Cataclysm-DDA/pull/69906))
