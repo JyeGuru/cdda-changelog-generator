@@ -1,3 +1,4 @@
+* [MoM] fix Photokinetic portal storm awakening failure ([#70073](https://github.com/CleverRaven/Cataclysm-DDA/pull/70073))
 * Add variables to u_cast_spell ([#70138](https://github.com/CleverRaven/Cataclysm-DDA/pull/70138))
 * [MoM] Add ability to take longer to channel powers in exchange for ignoring focus ([#69967](https://github.com/CleverRaven/Cataclysm-DDA/pull/69967))
 * [MoM] Fix learnable teleporter attunement ([#70142](https://github.com/CleverRaven/Cataclysm-DDA/pull/70142))
@@ -63,7 +64,6 @@
 * Fix practice requirements for the lucerne hammer ([#70010](https://github.com/CleverRaven/Cataclysm-DDA/pull/70010))
 * Parameterize new overmap changes and adjust forests in the process ([#70002](https://github.com/CleverRaven/Cataclysm-DDA/pull/70002))
 * Cutoff disc for angle grinders  ([#70001](https://github.com/CleverRaven/Cataclysm-DDA/pull/70001))
-* A start of Liquid recipes for faction camps ([#69937](https://github.com/CleverRaven/Cataclysm-DDA/pull/69937))
 * [ Xedra Evolved ] Sylph's don't breathe ([#69946](https://github.com/CleverRaven/Cataclysm-DDA/pull/69946))
 * Fix the wrong spelling of "український" in options.cpp ([#69988](https://github.com/CleverRaven/Cataclysm-DDA/pull/69988))
 * [MoM] Add teep/clear blocking testing room to skyscraper lab + lab fixes ([#69972](https://github.com/CleverRaven/Cataclysm-DDA/pull/69972))
