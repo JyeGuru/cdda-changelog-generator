@@ -1,3 +1,5 @@
+* Fix spell level error ([#70128](https://github.com/CleverRaven/Cataclysm-DDA/pull/70128))
+* Remove welder and vacuum molder from test data ([#70129](https://github.com/CleverRaven/Cataclysm-DDA/pull/70129))
 * Adds an ocean. ([#70070](https://github.com/CleverRaven/Cataclysm-DDA/pull/70070))
 * [MoM] Vitakinesis automatically brings up the bleeding/infection menu ([#70120](https://github.com/CleverRaven/Cataclysm-DDA/pull/70120))
 * [MoM] Nether Attunement additional updates ([#70084](https://github.com/CleverRaven/Cataclysm-DDA/pull/70084))
@@ -82,7 +84,6 @@
 * [MoM] Even more powers ([#69945](https://github.com/CleverRaven/Cataclysm-DDA/pull/69945))
 * fix seminar printing the id of a skill instead of it's name, add debug function to run seminar ([#69953](https://github.com/CleverRaven/Cataclysm-DDA/pull/69953))
 * [MoM] remove ALL-SEEING to make Instiller of Nightmares less of an unavoidable death trap ([#69915](https://github.com/CleverRaven/Cataclysm-DDA/pull/69915))
-* Adds some geography. This one is a kind of big deal. ([#69912](https://github.com/CleverRaven/Cataclysm-DDA/pull/69912))
 * [MoM} Add Extended Stride to concentration EoC ([#69941](https://github.com/CleverRaven/Cataclysm-DDA/pull/69941))
 * Cat distribution and animal shelter/pound tweaks ([#69939](https://github.com/CleverRaven/Cataclysm-DDA/pull/69939))
 * 3006 BBTI, gun adjustments, ammo ([#69918](https://github.com/CleverRaven/Cataclysm-DDA/pull/69918))
@@ -90,4 +91,3 @@
 * Industrial trash can looks like something ([#69917](https://github.com/CleverRaven/Cataclysm-DDA/pull/69917))
 * turn FOV_3D on by default ([#69935](https://github.com/CleverRaven/Cataclysm-DDA/pull/69935))
 * make sure sees checks outside of max view distance always fail ([#69916](https://github.com/CleverRaven/Cataclysm-DDA/pull/69916))
-* Candlestick can indeed stick to the candle again ([#69913](https://github.com/CleverRaven/Cataclysm-DDA/pull/69913))
