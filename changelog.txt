@@ -1,3 +1,4 @@
+* [MoM] Reduce duration for Banked Flame (#70152)
 * Change issuing bank for Cash Cards (#70151)
 * [MoM] fix Photokinetic portal storm awakening failure (#70073)
 * Add variables to u_cast_spell (#70138)
@@ -87,7 +88,6 @@
 * fix glock 40 and carlgustav can migration, return glock 40 ascii (#69960)
 * [MoM] Fix Spacial Vortex and Wave of Force (#69962)
 * Make frozen grapes edible (#69964)
-* Revert "turn FOV_3D on by default" (#69940)
 * [MoM] Even more powers (#69945)
 * fix seminar printing the id of a skill instead of it's name, add debug function to run seminar (#69953)
 * [MoM} Add Extended Stride to concentration EoC (#69941)
