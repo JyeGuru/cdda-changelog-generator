@@ -1,3 +1,4 @@
+* Update the documentation for Frequently Made Suggestions ([#70147](https://github.com/CleverRaven/Cataclysm-DDA/pull/70147))
 * Prevent cleanup of MOLLE pockets on contents update ([#70163](https://github.com/CleverRaven/Cataclysm-DDA/pull/70163))
 * [MoM] Clarify and standardize nether attunement messages ([#70102](https://github.com/CleverRaven/Cataclysm-DDA/pull/70102))
 * [MoM] Add Transporter beacon and remote, using matrix technology for long-distance travel ([#70133](https://github.com/CleverRaven/Cataclysm-DDA/pull/70133))
@@ -62,7 +63,6 @@
 * Fix Fn Fal missing variant ([#70006](https://github.com/CleverRaven/Cataclysm-DDA/pull/70006))
 * [Xedra Evolved] Fix salamander Incandescent Artisan's Alacrity trait ([#70019](https://github.com/CleverRaven/Cataclysm-DDA/pull/70019))
 * [Xedra Evolved] Fix deathray expanding in size as charge fills ([#70018](https://github.com/CleverRaven/Cataclysm-DDA/pull/70018))
-* [MoM] Add Project PHAVIAN Teleporter research areas ([#69949](https://github.com/CleverRaven/Cataclysm-DDA/pull/69949))
 * Add ak bayonets (as a variant) ([#70009](https://github.com/CleverRaven/Cataclysm-DDA/pull/70009))
 * .380 auto ballistics by the inch ([#70007](https://github.com/CleverRaven/Cataclysm-DDA/pull/70007))
 * [MoM] properly teach Electrokinetic contemplation recipes on Portal Storm awakening ([#70011](https://github.com/CleverRaven/Cataclysm-DDA/pull/70011))
