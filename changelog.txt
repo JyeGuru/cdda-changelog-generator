@@ -1,3 +1,4 @@
+* Prevent cleanup of MOLLE pockets on contents update (#70163)
 * [MoM] Clarify and standardize nether attunement messages (#70102)
 * [MoM] Add Transporter beacon and remote, using matrix technology for long-distance travel (#70133)
 * Brewing fixes (#70144)
@@ -85,7 +86,6 @@
 * Inattentive Trait Grammer Fix (#69974)
 * put an #if defined guard around select_language(), for LOCALIZE=0 builds (#69978)
 * [MoM] Terminology adjustments (#69970)
-* map: fix tripoint use in pl_sees (#69948)
 * .357 sig BBTI (#69952)
 * Knitting is looping (#69958)
 * fix glock 40 and carlgustav can migration, return glock 40 ascii (#69960)
