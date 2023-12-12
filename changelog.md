@@ -1,3 +1,4 @@
+* Brewing fixes ([#70144](https://github.com/CleverRaven/Cataclysm-DDA/pull/70144))
 * Remove excessive receiver migration ([#70148](https://github.com/CleverRaven/Cataclysm-DDA/pull/70148))
 * [MoM] Reduce duration for Banked Flame ([#70152](https://github.com/CleverRaven/Cataclysm-DDA/pull/70152))
 * Change issuing bank for Cash Cards ([#70151](https://github.com/CleverRaven/Cataclysm-DDA/pull/70151))
@@ -89,5 +90,4 @@
 * fix glock 40 and carlgustav can migration, return glock 40 ascii ([#69960](https://github.com/CleverRaven/Cataclysm-DDA/pull/69960))
 * [MoM] Fix Spacial Vortex and Wave of Force ([#69962](https://github.com/CleverRaven/Cataclysm-DDA/pull/69962))
 * Make frozen grapes edible ([#69964](https://github.com/CleverRaven/Cataclysm-DDA/pull/69964))
-* [MoM] Even more powers ([#69945](https://github.com/CleverRaven/Cataclysm-DDA/pull/69945))
 * fix seminar printing the id of a skill instead of it's name, add debug function to run seminar ([#69953](https://github.com/CleverRaven/Cataclysm-DDA/pull/69953))
