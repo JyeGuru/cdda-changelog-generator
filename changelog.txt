@@ -1,3 +1,4 @@
+* Remove excessive receiver migration (#70148)
 * [MoM] Reduce duration for Banked Flame (#70152)
 * Change issuing bank for Cash Cards (#70151)
 * [MoM] fix Photokinetic portal storm awakening failure (#70073)
@@ -90,4 +91,3 @@
 * Make frozen grapes edible (#69964)
 * [MoM] Even more powers (#69945)
 * fix seminar printing the id of a skill instead of it's name, add debug function to run seminar (#69953)
-* [MoM} Add Extended Stride to concentration EoC (#69941)
