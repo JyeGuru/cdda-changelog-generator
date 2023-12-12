@@ -1,3 +1,4 @@
+* Change issuing bank for Cash Cards ([#70151](https://github.com/CleverRaven/Cataclysm-DDA/pull/70151))
 * [MoM] fix Photokinetic portal storm awakening failure ([#70073](https://github.com/CleverRaven/Cataclysm-DDA/pull/70073))
 * Add variables to u_cast_spell ([#70138](https://github.com/CleverRaven/Cataclysm-DDA/pull/70138))
 * [MoM] Add ability to take longer to channel powers in exchange for ignoring focus ([#69967](https://github.com/CleverRaven/Cataclysm-DDA/pull/69967))
@@ -90,4 +91,3 @@
 * [MoM] Even more powers ([#69945](https://github.com/CleverRaven/Cataclysm-DDA/pull/69945))
 * fix seminar printing the id of a skill instead of it's name, add debug function to run seminar ([#69953](https://github.com/CleverRaven/Cataclysm-DDA/pull/69953))
 * [MoM} Add Extended Stride to concentration EoC ([#69941](https://github.com/CleverRaven/Cataclysm-DDA/pull/69941))
-* Cat distribution and animal shelter/pound tweaks ([#69939](https://github.com/CleverRaven/Cataclysm-DDA/pull/69939))
