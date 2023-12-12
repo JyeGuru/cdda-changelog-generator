@@ -1,3 +1,5 @@
+* [MoM] Clarify and standardize nether attunement messages ([#70102](https://github.com/CleverRaven/Cataclysm-DDA/pull/70102))
+* [MoM] Add Transporter beacon and remote, using matrix technology for long-distance travel ([#70133](https://github.com/CleverRaven/Cataclysm-DDA/pull/70133))
 * Brewing fixes ([#70144](https://github.com/CleverRaven/Cataclysm-DDA/pull/70144))
 * Remove excessive receiver migration ([#70148](https://github.com/CleverRaven/Cataclysm-DDA/pull/70148))
 * [MoM] Reduce duration for Banked Flame ([#70152](https://github.com/CleverRaven/Cataclysm-DDA/pull/70152))
@@ -68,7 +70,6 @@
 * Fix practice requirements for the lucerne hammer ([#70010](https://github.com/CleverRaven/Cataclysm-DDA/pull/70010))
 * Parameterize new overmap changes and adjust forests in the process ([#70002](https://github.com/CleverRaven/Cataclysm-DDA/pull/70002))
 * Cutoff disc for angle grinders  ([#70001](https://github.com/CleverRaven/Cataclysm-DDA/pull/70001))
-* [ Xedra Evolved ] Sylph's don't breathe ([#69946](https://github.com/CleverRaven/Cataclysm-DDA/pull/69946))
 * Fix the wrong spelling of "український" in options.cpp ([#69988](https://github.com/CleverRaven/Cataclysm-DDA/pull/69988))
 * [MoM] Add teep/clear blocking testing room to skyscraper lab + lab fixes ([#69972](https://github.com/CleverRaven/Cataclysm-DDA/pull/69972))
 * [Magiclysm] Reduce goblin camp spawns per overmap ([#69994](https://github.com/CleverRaven/Cataclysm-DDA/pull/69994))
