@@ -1,3 +1,4 @@
+* [MoM] Make the Bone Seer a Clairsentient ([#70181](https://github.com/CleverRaven/Cataclysm-DDA/pull/70181))
 * Fungal Insects & fungal zombie fixes. ([#70039](https://github.com/CleverRaven/Cataclysm-DDA/pull/70039))
 * 410  Ballistics and other stuff too ([#70140](https://github.com/CleverRaven/Cataclysm-DDA/pull/70140))
 * Add EoC ability to remove effect from specific body part ([#70149](https://github.com/CleverRaven/Cataclysm-DDA/pull/70149))
@@ -89,6 +90,5 @@
 * Inattentive Trait Grammer Fix ([#69974](https://github.com/CleverRaven/Cataclysm-DDA/pull/69974))
 * put an #if defined guard around select_language(), for LOCALIZE=0 builds ([#69978](https://github.com/CleverRaven/Cataclysm-DDA/pull/69978))
 * [MoM] Terminology adjustments ([#69970](https://github.com/CleverRaven/Cataclysm-DDA/pull/69970))
-* fix glock 40 and carlgustav can migration, return glock 40 ascii ([#69960](https://github.com/CleverRaven/Cataclysm-DDA/pull/69960))
 * [MoM] Fix Spacial Vortex and Wave of Force ([#69962](https://github.com/CleverRaven/Cataclysm-DDA/pull/69962))
 * Make frozen grapes edible ([#69964](https://github.com/CleverRaven/Cataclysm-DDA/pull/69964))
