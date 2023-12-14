@@ -1,3 +1,4 @@
+* Fixes lake monsters in oceans ([#70201](https://github.com/CleverRaven/Cataclysm-DDA/pull/70201))
 * [MoM] Add ability for pyrokinetics to cauterize their wounds ([#70132](https://github.com/CleverRaven/Cataclysm-DDA/pull/70132))
 * Add ```gains_proficiency``` event ([#70194](https://github.com/CleverRaven/Cataclysm-DDA/pull/70194))
 * [Sky Island] Teleporting items back home ([#70200](https://github.com/CleverRaven/Cataclysm-DDA/pull/70200))
@@ -91,4 +92,3 @@
 * Remove attractive stats and description from rabbit mutations. ([#69979](https://github.com/CleverRaven/Cataclysm-DDA/pull/69979))
 * .38 special and bonus .38+P BBTI ([#69983](https://github.com/CleverRaven/Cataclysm-DDA/pull/69983))
 * The Great Wiki Mentions Removal ([#69996](https://github.com/CleverRaven/Cataclysm-DDA/pull/69996))
-* put an #if defined guard around select_language(), for LOCALIZE=0 builds ([#69978](https://github.com/CleverRaven/Cataclysm-DDA/pull/69978))
