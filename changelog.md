@@ -1,3 +1,4 @@
+* Fix generic spell mutation activation ([#70208](https://github.com/CleverRaven/Cataclysm-DDA/pull/70208))
 * Reduce capacity of test battery to prevent UB ([#70213](https://github.com/CleverRaven/Cataclysm-DDA/pull/70213))
 * Fixes lake monsters in oceans ([#70201](https://github.com/CleverRaven/Cataclysm-DDA/pull/70201))
 * [MoM] Add ability for pyrokinetics to cauterize their wounds ([#70132](https://github.com/CleverRaven/Cataclysm-DDA/pull/70132))
@@ -70,7 +71,6 @@
 * [Xedra Evolved] Fix Arvore mutation regressions ([#70037](https://github.com/CleverRaven/Cataclysm-DDA/pull/70037))
 * .40sw Ballistics by the Inch ([#70022](https://github.com/CleverRaven/Cataclysm-DDA/pull/70022))
 * Plug in tools with cables during crafting tests ([#70029](https://github.com/CleverRaven/Cataclysm-DDA/pull/70029))
-* re-add pre-seeded hordes, make them unconditional, and show up even with wandering hordes disabled ([#69980](https://github.com/CleverRaven/Cataclysm-DDA/pull/69980))
 * [MoM] Even Even More Powers ([#69993](https://github.com/CleverRaven/Cataclysm-DDA/pull/69993))
 * Fix Fn Fal missing variant ([#70006](https://github.com/CleverRaven/Cataclysm-DDA/pull/70006))
 * [Xedra Evolved] Fix salamander Incandescent Artisan's Alacrity trait ([#70019](https://github.com/CleverRaven/Cataclysm-DDA/pull/70019))
