@@ -1,3 +1,4 @@
+* 458 win mag BBTI (and 700 NX...kinda) ([#70210](https://github.com/CleverRaven/Cataclysm-DDA/pull/70210))
 * [Defense Mode] Make the duration between waves more random ([#70209](https://github.com/CleverRaven/Cataclysm-DDA/pull/70209))
 * Ink glands mutation rework ([#70088](https://github.com/CleverRaven/Cataclysm-DDA/pull/70088))
 * Fixes scout mutation ([#70196](https://github.com/CleverRaven/Cataclysm-DDA/pull/70196))
@@ -90,5 +91,4 @@
 * [Magiclysm] Reduce goblin camp spawns per overmap ([#69994](https://github.com/CleverRaven/Cataclysm-DDA/pull/69994))
 * Rework Character::overmap_sight_range to allow night overmap sight through mutation ([#69991](https://github.com/CleverRaven/Cataclysm-DDA/pull/69991))
 * [Magiclysm] Fix description of rock throw for fantasy ferals ([#69997](https://github.com/CleverRaven/Cataclysm-DDA/pull/69997))
-* Overmap autotravel on light industry road ([#69989](https://github.com/CleverRaven/Cataclysm-DDA/pull/69989))
 * The Great Wiki Mentions Removal ([#69996](https://github.com/CleverRaven/Cataclysm-DDA/pull/69996))
