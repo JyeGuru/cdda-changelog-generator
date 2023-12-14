@@ -1,3 +1,4 @@
+* Reduce capacity of test battery to prevent UB (#70213)
 * Fixes lake monsters in oceans (#70201)
 * [MoM] Add ability for pyrokinetics to cauterize their wounds (#70132)
 * Add ```gains_proficiency``` event (#70194)
@@ -89,6 +90,5 @@
 * Fix some condiments spawn (#69985)
 * fix cbm_ammo calculation bug (#69981)
 * Overmap autotravel on light industry road (#69989)
-* Remove attractive stats and description from rabbit mutations. (#69979)
 * .38 special and bonus .38+P BBTI (#69983)
 * The Great Wiki Mentions Removal (#69996)
