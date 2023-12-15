@@ -1,3 +1,4 @@
+* Update output.cpp so that filter screen informs user that flags are a filterable option now ([#70230](https://github.com/CleverRaven/Cataclysm-DDA/pull/70230))
 * Density cleanup + minor stuff ([#70176](https://github.com/CleverRaven/Cataclysm-DDA/pull/70176))
 * Make demoralizing food demoralizing in long term ([#70226](https://github.com/CleverRaven/Cataclysm-DDA/pull/70226))
 * Handle infinite EOC loop ([#70227](https://github.com/CleverRaven/Cataclysm-DDA/pull/70227))
@@ -92,4 +93,3 @@
 * [MoM] fix Electron Overflow ([#70012](https://github.com/CleverRaven/Cataclysm-DDA/pull/70012))
 * Fix practice requirements for the lucerne hammer ([#70010](https://github.com/CleverRaven/Cataclysm-DDA/pull/70010))
 * Parameterize new overmap changes and adjust forests in the process ([#70002](https://github.com/CleverRaven/Cataclysm-DDA/pull/70002))
-* Cutoff disc for angle grinders  ([#70001](https://github.com/CleverRaven/Cataclysm-DDA/pull/70001))
