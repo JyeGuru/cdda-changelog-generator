@@ -1,3 +1,4 @@
+* Update item_search.cpp with flag flitering ([#70212](https://github.com/CleverRaven/Cataclysm-DDA/pull/70212))
 * [HOTFIX] Fix wrong amount of num_event_types ([#70225](https://github.com/CleverRaven/Cataclysm-DDA/pull/70225))
 * Fix load order bug in comestible loading ([#70211](https://github.com/CleverRaven/Cataclysm-DDA/pull/70211))
 * 458 win mag BBTI (and 700 NX...kinda) ([#70210](https://github.com/CleverRaven/Cataclysm-DDA/pull/70210))
@@ -89,6 +90,5 @@
 * Fix practice requirements for the lucerne hammer ([#70010](https://github.com/CleverRaven/Cataclysm-DDA/pull/70010))
 * Parameterize new overmap changes and adjust forests in the process ([#70002](https://github.com/CleverRaven/Cataclysm-DDA/pull/70002))
 * Cutoff disc for angle grinders  ([#70001](https://github.com/CleverRaven/Cataclysm-DDA/pull/70001))
-* [Magiclysm] Reduce goblin camp spawns per overmap ([#69994](https://github.com/CleverRaven/Cataclysm-DDA/pull/69994))
 * [Magiclysm] Fix description of rock throw for fantasy ferals ([#69997](https://github.com/CleverRaven/Cataclysm-DDA/pull/69997))
 * The Great Wiki Mentions Removal ([#69996](https://github.com/CleverRaven/Cataclysm-DDA/pull/69996))
