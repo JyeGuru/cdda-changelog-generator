@@ -1,3 +1,4 @@
+* Allow excluding items lacking flags (#70171)
 * [MoM] Change electrokinetic overload (#70216)
 * Allow non wielded items to provide techniques (#70214)
 * Update output.cpp so that filter screen informs user that flags are a filterable option now (#70230)
@@ -88,7 +89,6 @@
 * [Xedra Evolved] Fix salamander Incandescent Artisan's Alacrity trait (#70019)
 * [Xedra Evolved] Fix deathray expanding in size as charge fills (#70018)
 * Add ak bayonets (as a variant) (#70009)
-* .380 auto ballistics by the inch (#70007)
 * [MoM] properly teach Electrokinetic contemplation recipes on Portal Storm awakening (#70011)
 * [MoM] fix Voltaic Strikes (#70008)
 * [MoM] fix Electron Overflow (#70012)
