@@ -1,3 +1,5 @@
+* [MoM] Change electrokinetic overload (#70216)
+* Allow non wielded items to provide techniques (#70214)
 * Update output.cpp so that filter screen informs user that flags are a filterable option now (#70230)
 * Density cleanup + minor stuff (#70176)
 * Make demoralizing food demoralizing in long term (#70226)
@@ -83,7 +85,6 @@
 * [Xedra Evolved] Fix Arvore mutation regressions (#70037)
 * .40sw Ballistics by the Inch (#70022)
 * Plug in tools with cables during crafting tests (#70029)
-* Fix Fn Fal missing variant (#70006)
 * [Xedra Evolved] Fix salamander Incandescent Artisan's Alacrity trait (#70019)
 * [Xedra Evolved] Fix deathray expanding in size as charge fills (#70018)
 * Add ak bayonets (as a variant) (#70009)
@@ -92,4 +93,3 @@
 * [MoM] fix Voltaic Strikes (#70008)
 * [MoM] fix Electron Overflow (#70012)
 * Fix practice requirements for the lucerne hammer (#70010)
-* Parameterize new overmap changes and adjust forests in the process (#70002)
