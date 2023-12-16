@@ -1,3 +1,4 @@
+* Simulate hair growth ([#70080](https://github.com/CleverRaven/Cataclysm-DDA/pull/70080))
 * Routine i18n updates on 16 December 2023 ([#70240](https://github.com/CleverRaven/Cataclysm-DDA/pull/70240))
 * Fix 'den_palette' test errors ([#70248](https://github.com/CleverRaven/Cataclysm-DDA/pull/70248))
 * Fix rotation issue with using lake and ocean shores as predecessors ([#70242](https://github.com/CleverRaven/Cataclysm-DDA/pull/70242))
@@ -92,4 +93,3 @@
 * Plug in tools with cables during crafting tests ([#70029](https://github.com/CleverRaven/Cataclysm-DDA/pull/70029))
 * [Xedra Evolved] Fix salamander Incandescent Artisan's Alacrity trait ([#70019](https://github.com/CleverRaven/Cataclysm-DDA/pull/70019))
 * [Xedra Evolved] Fix deathray expanding in size as charge fills ([#70018](https://github.com/CleverRaven/Cataclysm-DDA/pull/70018))
-* [MoM] fix Electron Overflow ([#70012](https://github.com/CleverRaven/Cataclysm-DDA/pull/70012))
