@@ -1,3 +1,4 @@
+* Fix 'den_palette' test errors (#70248)
 * Fix rotation issue with using lake and ocean shores as predecessors (#70242)
 * Fix lake shore mapgen corner case (#70234)
 * Allow excluding items lacking flags (#70171)
@@ -92,4 +93,3 @@
 * [Xedra Evolved] Fix deathray expanding in size as charge fills (#70018)
 * [MoM] properly teach Electrokinetic contemplation recipes on Portal Storm awakening (#70011)
 * [MoM] fix Electron Overflow (#70012)
-* Fix practice requirements for the lucerne hammer (#70010)
