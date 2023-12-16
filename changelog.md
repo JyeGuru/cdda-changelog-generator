@@ -1,3 +1,4 @@
+* [MoM] Add Beast Taming telepathic power ([#70198](https://github.com/CleverRaven/Cataclysm-DDA/pull/70198))
 * Simulate hair growth ([#70080](https://github.com/CleverRaven/Cataclysm-DDA/pull/70080))
 * Routine i18n updates on 16 December 2023 ([#70240](https://github.com/CleverRaven/Cataclysm-DDA/pull/70240))
 * Fix 'den_palette' test errors ([#70248](https://github.com/CleverRaven/Cataclysm-DDA/pull/70248))
