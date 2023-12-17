@@ -1,3 +1,4 @@
+* Fix the issue of NPC using bionic weapon ([#70165](https://github.com/CleverRaven/Cataclysm-DDA/pull/70165))
 * [Sky Island] Allow selection of room teleport behavior ([#70253](https://github.com/CleverRaven/Cataclysm-DDA/pull/70253))
 * [MoM] Scale nether attunement gain with level of nether attunement ([#70189](https://github.com/CleverRaven/Cataclysm-DDA/pull/70189))
 * [MoM] Add Re-energize electrokinetic power ([#70224](https://github.com/CleverRaven/Cataclysm-DDA/pull/70224))
@@ -93,4 +94,3 @@
 * .44 Magnum ballistics by the inch ([#70051](https://github.com/CleverRaven/Cataclysm-DDA/pull/70051))
 * Removed wiki mention from help ([#70054](https://github.com/CleverRaven/Cataclysm-DDA/pull/70054))
 * [Xedra Evolved] Fix Arvore mutation regressions ([#70037](https://github.com/CleverRaven/Cataclysm-DDA/pull/70037))
-* Plug in tools with cables during crafting tests ([#70029](https://github.com/CleverRaven/Cataclysm-DDA/pull/70029))
