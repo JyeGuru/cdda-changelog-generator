@@ -93,5 +93,4 @@
 * [MoM] Clairsentient and Vitakinetic Feral buffs ([#70053](https://github.com/CleverRaven/Cataclysm-DDA/pull/70053))
 * [MoM] Further concentration updates ([#70058](https://github.com/CleverRaven/Cataclysm-DDA/pull/70058))
 * fix weapon steadiness bar not working ([#70060](https://github.com/CleverRaven/Cataclysm-DDA/pull/70060))
-* .44 Magnum ballistics by the inch ([#70051](https://github.com/CleverRaven/Cataclysm-DDA/pull/70051))
 * Removed wiki mention from help ([#70054](https://github.com/CleverRaven/Cataclysm-DDA/pull/70054))
