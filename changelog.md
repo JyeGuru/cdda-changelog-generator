@@ -1,3 +1,5 @@
+* Surname Stjohn should be St. John ([#70254](https://github.com/CleverRaven/Cataclysm-DDA/pull/70254))
+* Weekly Changelog 2023-12-04 to 2023-12-11 ([#70136](https://github.com/CleverRaven/Cataclysm-DDA/pull/70136))
 * Skip hashing string in translation look up if no translation is loaded ([#70261](https://github.com/CleverRaven/Cataclysm-DDA/pull/70261))
 * Revert "Simulate hair growth" ([#70262](https://github.com/CleverRaven/Cataclysm-DDA/pull/70262))
 * .303 British BBTI ([#70249](https://github.com/CleverRaven/Cataclysm-DDA/pull/70249))
@@ -74,7 +76,6 @@
 * [MoM] Change Gateway attunement to a teleporter power, remove Construction recipe ([#70112](https://github.com/CleverRaven/Cataclysm-DDA/pull/70112))
 * Fixes jack-knifed semi trailer rotation ([#70100](https://github.com/CleverRaven/Cataclysm-DDA/pull/70100))
 * Routine i18n updates on 09 December 2023 ([#70090](https://github.com/CleverRaven/Cataclysm-DDA/pull/70090))
-* Removing gun- or toolmods with `pocket_mods` updates the pockets ([#70044](https://github.com/CleverRaven/Cataclysm-DDA/pull/70044))
 * block/remove surveys that can't be performed ([#70096](https://github.com/CleverRaven/Cataclysm-DDA/pull/70096))
 * github: enable BACKTRACE in linux builds ([#70069](https://github.com/CleverRaven/Cataclysm-DDA/pull/70069))
 * [MoM] Add electrokinetic matrix crystal disassembly ([#70047](https://github.com/CleverRaven/Cataclysm-DDA/pull/70047))
