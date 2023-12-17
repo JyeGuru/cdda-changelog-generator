@@ -1,3 +1,5 @@
+* Skip hashing string in translation look up if no translation is loaded (#70261)
+* Revert "Simulate hair growth" (#70262)
 * .303 British BBTI (#70249)
 * Fix the issue of NPC using bionic weapon (#70165)
 * [Sky Island] Allow selection of room teleport behavior (#70253)
@@ -42,7 +44,6 @@
 * [MoM] Psion NPCs (#70178)
 * Generify mutation spells (#70146)
 * [MoM] Make the Bone Seer a Clairsentient (#70181)
-* Fungal Insects & fungal zombie fixes. (#70039)
 * 410  Ballistics and other stuff too (#70140)
 * Add EoC ability to remove effect from specific body part (#70149)
 * Update the documentation for Frequently Made Suggestions (#70147)
@@ -93,4 +94,3 @@
 * fix weapon steadiness bar not working (#70060)
 * .44 Magnum ballistics by the inch (#70051)
 * Removed wiki mention from help (#70054)
-* [Xedra Evolved] Fix Arvore mutation regressions (#70037)
