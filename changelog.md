@@ -1,3 +1,4 @@
+* .303 British BBTI ([#70249](https://github.com/CleverRaven/Cataclysm-DDA/pull/70249))
 * Fix the issue of NPC using bionic weapon ([#70165](https://github.com/CleverRaven/Cataclysm-DDA/pull/70165))
 * [Sky Island] Allow selection of room teleport behavior ([#70253](https://github.com/CleverRaven/Cataclysm-DDA/pull/70253))
 * [MoM] Scale nether attunement gain with level of nether attunement ([#70189](https://github.com/CleverRaven/Cataclysm-DDA/pull/70189))
@@ -74,7 +75,6 @@
 * Routine i18n updates on 09 December 2023 ([#70090](https://github.com/CleverRaven/Cataclysm-DDA/pull/70090))
 * Removing gun- or toolmods with `pocket_mods` updates the pockets ([#70044](https://github.com/CleverRaven/Cataclysm-DDA/pull/70044))
 * block/remove surveys that can't be performed ([#70096](https://github.com/CleverRaven/Cataclysm-DDA/pull/70096))
-* Fix copper wire amounts in motor ([#70033](https://github.com/CleverRaven/Cataclysm-DDA/pull/70033))
 * github: enable BACKTRACE in linux builds ([#70069](https://github.com/CleverRaven/Cataclysm-DDA/pull/70069))
 * [MoM] Add electrokinetic matrix crystal disassembly ([#70047](https://github.com/CleverRaven/Cataclysm-DDA/pull/70047))
 * Tweak makeshift bandage recipe  ([#70082](https://github.com/CleverRaven/Cataclysm-DDA/pull/70082))
