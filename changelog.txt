@@ -1,3 +1,4 @@
+* [Sky Island] Allow selection of room teleport behavior (#70253)
 * [MoM] Scale nether attunement gain with level of nether attunement (#70189)
 * [MoM] Add Re-energize electrokinetic power (#70224)
 * "copy_from" for fungal creatures are incorrect. (#70233)
@@ -80,7 +81,6 @@
 * Allow use of variants when using add_trait effect (#70086)
 * No sword bayonets on pistols (#70087)
 * Aftershock combat drugs (#70085)
-* Add the star vampire, an invisible blood-drinking monster (#70026)
 * 32 round grease gun mags were in 9mm (#70066)
 * game: fix rain animation out-of-bounds (#70068)
 * mapbuffer: fix saving of reverted submaps (#70067)
