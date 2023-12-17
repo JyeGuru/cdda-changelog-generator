@@ -1,3 +1,4 @@
+* [MoM] Scale nether attunement gain with level of nether attunement (#70189)
 * [MoM] Add Re-energize electrokinetic power (#70224)
 * "copy_from" for fungal creatures are incorrect. (#70233)
 * 22 Pistol mod location and name adjustments (#70247)
@@ -89,7 +90,6 @@
 * [MoM] Clairsentient and Vitakinetic Feral buffs (#70053)
 * [MoM] Further concentration updates (#70058)
 * fix weapon steadiness bar not working (#70060)
-* Fix in-game customization (#70025)
 * .44 Magnum ballistics by the inch (#70051)
 * Removed wiki mention from help (#70054)
 * [Xedra Evolved] Fix Arvore mutation regressions (#70037)
