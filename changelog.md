@@ -1,3 +1,4 @@
+* [MoM] Add valid false to everything missing it  ([#70280](https://github.com/CleverRaven/Cataclysm-DDA/pull/70280))
 * Replace integrated multitool with integrated welder in welding_standard ([#70283](https://github.com/CleverRaven/Cataclysm-DDA/pull/70283))
 * Adds vehicle spawns back to bridges ([#70098](https://github.com/CleverRaven/Cataclysm-DDA/pull/70098))
 * The 'training katana', should train katanas. ([#70267](https://github.com/CleverRaven/Cataclysm-DDA/pull/70267))
@@ -92,4 +93,3 @@
 * 32 round grease gun mags were in 9mm ([#70066](https://github.com/CleverRaven/Cataclysm-DDA/pull/70066))
 * game: fix rain animation out-of-bounds ([#70068](https://github.com/CleverRaven/Cataclysm-DDA/pull/70068))
 * mapbuffer: fix saving of reverted submaps ([#70067](https://github.com/CleverRaven/Cataclysm-DDA/pull/70067))
-* 45 ACP Ballistics by the inch ([#70064](https://github.com/CleverRaven/Cataclysm-DDA/pull/70064))
