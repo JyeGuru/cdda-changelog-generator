@@ -1,3 +1,4 @@
+* The 'training katana', should train katanas. ([#70267](https://github.com/CleverRaven/Cataclysm-DDA/pull/70267))
 * [READY] [Content] Add 1 cylinder diesel engines to the world ([#70271](https://github.com/CleverRaven/Cataclysm-DDA/pull/70271))
 * Add side lengths for solar panels ([#70266](https://github.com/CleverRaven/Cataclysm-DDA/pull/70266))
 * Bugfix: Show correct bodypart in grabs ([#70244](https://github.com/CleverRaven/Cataclysm-DDA/pull/70244))
@@ -91,5 +92,4 @@
 * mapbuffer: fix saving of reverted submaps ([#70067](https://github.com/CleverRaven/Cataclysm-DDA/pull/70067))
 * Knife for the knife feral ([#70063](https://github.com/CleverRaven/Cataclysm-DDA/pull/70063))
 * 45 ACP Ballistics by the inch ([#70064](https://github.com/CleverRaven/Cataclysm-DDA/pull/70064))
-* [MoM] Fix Hammerhand not removing the hammer hand ([#70059](https://github.com/CleverRaven/Cataclysm-DDA/pull/70059))
 * fix weapon steadiness bar not working ([#70060](https://github.com/CleverRaven/Cataclysm-DDA/pull/70060))
