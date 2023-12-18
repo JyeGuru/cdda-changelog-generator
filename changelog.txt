@@ -1,3 +1,4 @@
+* Add side lengths for solar panels (#70266)
 * Bugfix: Show correct bodypart in grabs (#70244)
 * spellcasting_adjustment can use caster_level  (#70257)
 * Surname Stjohn should be St. John (#70254)
@@ -90,7 +91,6 @@
 * Knife for the knife feral (#70063)
 * 45 ACP Ballistics by the inch (#70064)
 * [MoM] Fix Hammerhand not removing the hammer hand (#70059)
-* [MoM] Clairsentient and Vitakinetic Feral buffs (#70053)
 * [MoM] Further concentration updates (#70058)
 * fix weapon steadiness bar not working (#70060)
 * Removed wiki mention from help (#70054)
