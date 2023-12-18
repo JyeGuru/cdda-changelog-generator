@@ -92,5 +92,4 @@
 * Knife for the knife feral ([#70063](https://github.com/CleverRaven/Cataclysm-DDA/pull/70063))
 * 45 ACP Ballistics by the inch ([#70064](https://github.com/CleverRaven/Cataclysm-DDA/pull/70064))
 * [MoM] Fix Hammerhand not removing the hammer hand ([#70059](https://github.com/CleverRaven/Cataclysm-DDA/pull/70059))
-* [MoM] Further concentration updates ([#70058](https://github.com/CleverRaven/Cataclysm-DDA/pull/70058))
 * fix weapon steadiness bar not working ([#70060](https://github.com/CleverRaven/Cataclysm-DDA/pull/70060))
