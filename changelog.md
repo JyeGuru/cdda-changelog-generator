@@ -1,3 +1,4 @@
+* [READY] [Content] Add 1 cylinder diesel engines to the world ([#70271](https://github.com/CleverRaven/Cataclysm-DDA/pull/70271))
 * Add side lengths for solar panels ([#70266](https://github.com/CleverRaven/Cataclysm-DDA/pull/70266))
 * Bugfix: Show correct bodypart in grabs ([#70244](https://github.com/CleverRaven/Cataclysm-DDA/pull/70244))
 * spellcasting_adjustment can use caster_level  ([#70257](https://github.com/CleverRaven/Cataclysm-DDA/pull/70257))
@@ -93,4 +94,3 @@
 * [MoM] Fix Hammerhand not removing the hammer hand ([#70059](https://github.com/CleverRaven/Cataclysm-DDA/pull/70059))
 * [MoM] Further concentration updates ([#70058](https://github.com/CleverRaven/Cataclysm-DDA/pull/70058))
 * fix weapon steadiness bar not working ([#70060](https://github.com/CleverRaven/Cataclysm-DDA/pull/70060))
-* Removed wiki mention from help ([#70054](https://github.com/CleverRaven/Cataclysm-DDA/pull/70054))
