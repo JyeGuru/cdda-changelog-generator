@@ -72,7 +72,6 @@
 * Update u_add_trait/npc_add_trait in EFFECT_ON_CONDITION.md ([#70127](https://github.com/CleverRaven/Cataclysm-DDA/pull/70127))
 * Added new "pre_note" annotations on several constructions. ([#70135](https://github.com/CleverRaven/Cataclysm-DDA/pull/70135))
 * Fixes permadeath when prevent_death is active ([#70139](https://github.com/CleverRaven/Cataclysm-DDA/pull/70139))
-* Seedless Spinach ([#70065](https://github.com/CleverRaven/Cataclysm-DDA/pull/70065))
 * Fix spell level error ([#70128](https://github.com/CleverRaven/Cataclysm-DDA/pull/70128))
 * Remove welder and vacuum molder from test data ([#70129](https://github.com/CleverRaven/Cataclysm-DDA/pull/70129))
 * Adds an ocean. ([#70070](https://github.com/CleverRaven/Cataclysm-DDA/pull/70070))
