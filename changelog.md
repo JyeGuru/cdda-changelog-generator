@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-12-11 to 2023-12-18 ([#70276](https://github.com/CleverRaven/Cataclysm-DDA/pull/70276))
 * trigger a build ([#70321](https://github.com/CleverRaven/Cataclysm-DDA/pull/70321))
 * add merge_group event to test actions ([#70319](https://github.com/CleverRaven/Cataclysm-DDA/pull/70319))
 * [BombasticPerks] "Unstoppable Force" perk description clarification ([#70306](https://github.com/CleverRaven/Cataclysm-DDA/pull/70306))
@@ -26,7 +27,6 @@
 * 45 Colt Cowboy loads and BBTI ([#70241](https://github.com/CleverRaven/Cataclysm-DDA/pull/70241))
 * Allow extension cords to spawn in electronics shops. ([#70246](https://github.com/CleverRaven/Cataclysm-DDA/pull/70246))
 * [MoM] Add Beast Taming telepathic power ([#70198](https://github.com/CleverRaven/Cataclysm-DDA/pull/70198))
-* Simulate hair growth ([#70080](https://github.com/CleverRaven/Cataclysm-DDA/pull/70080))
 * Routine i18n updates on 16 December 2023 ([#70240](https://github.com/CleverRaven/Cataclysm-DDA/pull/70240))
 * Fix 'den_palette' test errors ([#70248](https://github.com/CleverRaven/Cataclysm-DDA/pull/70248))
 * Fix rotation issue with using lake and ocean shores as predecessors ([#70242](https://github.com/CleverRaven/Cataclysm-DDA/pull/70242))
