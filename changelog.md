@@ -1,3 +1,4 @@
+* [MoM] lower channeling protocol PGS38 time ([#70312](https://github.com/CleverRaven/Cataclysm-DDA/pull/70312))
 * adds a sandy margin to ocean beaches ([#70175](https://github.com/CleverRaven/Cataclysm-DDA/pull/70175))
 * Change char cooldown ("succession") ---> 3 days ([#70317](https://github.com/CleverRaven/Cataclysm-DDA/pull/70317))
 * [MoM] Fix Momentum Alteration ([#70315](https://github.com/CleverRaven/Cataclysm-DDA/pull/70315))
@@ -92,4 +93,3 @@
 * Fixes jack-knifed semi trailer rotation ([#70100](https://github.com/CleverRaven/Cataclysm-DDA/pull/70100))
 * Routine i18n updates on 09 December 2023 ([#70090](https://github.com/CleverRaven/Cataclysm-DDA/pull/70090))
 * block/remove surveys that can't be performed ([#70096](https://github.com/CleverRaven/Cataclysm-DDA/pull/70096))
-* No sword bayonets on pistols ([#70087](https://github.com/CleverRaven/Cataclysm-DDA/pull/70087))
