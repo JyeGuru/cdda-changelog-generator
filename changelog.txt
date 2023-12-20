@@ -1,3 +1,4 @@
+* trigger a build (#70321)
 * add merge_group event to test actions (#70319)
 * [BombasticPerks] "Unstoppable Force" perk description clarification (#70306)
 * Remove hardcoded field mapgen (#70122)

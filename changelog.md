@@ -1,3 +1,4 @@
+* trigger a build ([#70321](https://github.com/CleverRaven/Cataclysm-DDA/pull/70321))
 * add merge_group event to test actions ([#70319](https://github.com/CleverRaven/Cataclysm-DDA/pull/70319))
 * [BombasticPerks] "Unstoppable Force" perk description clarification ([#70306](https://github.com/CleverRaven/Cataclysm-DDA/pull/70306))
 * Remove hardcoded field mapgen ([#70122](https://github.com/CleverRaven/Cataclysm-DDA/pull/70122))
