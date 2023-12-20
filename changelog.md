@@ -1,3 +1,6 @@
+* Remove hardcoded field mapgen ([#70122](https://github.com/CleverRaven/Cataclysm-DDA/pull/70122))
+* Mathifying stuff ([#70255](https://github.com/CleverRaven/Cataclysm-DDA/pull/70255))
+* Adds ocean creatures. Part 1: Infrastructure + Fish. ([#70202](https://github.com/CleverRaven/Cataclysm-DDA/pull/70202))
 * [MoM] Add valid false to everything missing it  ([#70280](https://github.com/CleverRaven/Cataclysm-DDA/pull/70280))
 * Replace integrated multitool with integrated welder in welding_standard ([#70283](https://github.com/CleverRaven/Cataclysm-DDA/pull/70283))
 * Adds vehicle spawns back to bridges ([#70098](https://github.com/CleverRaven/Cataclysm-DDA/pull/70098))
@@ -89,6 +92,3 @@
 * Allow use of variants when using add_trait effect ([#70086](https://github.com/CleverRaven/Cataclysm-DDA/pull/70086))
 * No sword bayonets on pistols ([#70087](https://github.com/CleverRaven/Cataclysm-DDA/pull/70087))
 * Aftershock combat drugs ([#70085](https://github.com/CleverRaven/Cataclysm-DDA/pull/70085))
-* 32 round grease gun mags were in 9mm ([#70066](https://github.com/CleverRaven/Cataclysm-DDA/pull/70066))
-* game: fix rain animation out-of-bounds ([#70068](https://github.com/CleverRaven/Cataclysm-DDA/pull/70068))
-* mapbuffer: fix saving of reverted submaps ([#70067](https://github.com/CleverRaven/Cataclysm-DDA/pull/70067))
