@@ -1,3 +1,4 @@
+* [BombasticPerks] "Unstoppable Force" perk description clarification ([#70306](https://github.com/CleverRaven/Cataclysm-DDA/pull/70306))
 * Remove hardcoded field mapgen ([#70122](https://github.com/CleverRaven/Cataclysm-DDA/pull/70122))
 * Mathifying stuff ([#70255](https://github.com/CleverRaven/Cataclysm-DDA/pull/70255))
 * Adds ocean creatures. Part 1: Infrastructure + Fish. ([#70202](https://github.com/CleverRaven/Cataclysm-DDA/pull/70202))
@@ -77,7 +78,6 @@
 * Fixes permadeath when prevent_death is active ([#70139](https://github.com/CleverRaven/Cataclysm-DDA/pull/70139))
 * Fix spell level error ([#70128](https://github.com/CleverRaven/Cataclysm-DDA/pull/70128))
 * Remove welder and vacuum molder from test data ([#70129](https://github.com/CleverRaven/Cataclysm-DDA/pull/70129))
-* Adds an ocean. ([#70070](https://github.com/CleverRaven/Cataclysm-DDA/pull/70070))
 * [MoM] Vitakinesis automatically brings up the bleeding/infection menu ([#70120](https://github.com/CleverRaven/Cataclysm-DDA/pull/70120))
 * [MoM] Nether Attunement additional updates ([#70084](https://github.com/CleverRaven/Cataclysm-DDA/pull/70084))
 * Propane and acetylene cooker can be used to start fire ([#70111](https://github.com/CleverRaven/Cataclysm-DDA/pull/70111))
