@@ -87,7 +87,6 @@
 * Fixes jack-knifed semi trailer rotation ([#70100](https://github.com/CleverRaven/Cataclysm-DDA/pull/70100))
 * Routine i18n updates on 09 December 2023 ([#70090](https://github.com/CleverRaven/Cataclysm-DDA/pull/70090))
 * block/remove surveys that can't be performed ([#70096](https://github.com/CleverRaven/Cataclysm-DDA/pull/70096))
-* github: enable BACKTRACE in linux builds ([#70069](https://github.com/CleverRaven/Cataclysm-DDA/pull/70069))
 * Tweak makeshift bandage recipe  ([#70082](https://github.com/CleverRaven/Cataclysm-DDA/pull/70082))
 * Allow use of variants when using add_trait effect ([#70086](https://github.com/CleverRaven/Cataclysm-DDA/pull/70086))
 * No sword bayonets on pistols ([#70087](https://github.com/CleverRaven/Cataclysm-DDA/pull/70087))
