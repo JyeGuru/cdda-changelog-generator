@@ -1,3 +1,4 @@
+* add merge_group event to test actions ([#70319](https://github.com/CleverRaven/Cataclysm-DDA/pull/70319))
 * [BombasticPerks] "Unstoppable Force" perk description clarification ([#70306](https://github.com/CleverRaven/Cataclysm-DDA/pull/70306))
 * Remove hardcoded field mapgen ([#70122](https://github.com/CleverRaven/Cataclysm-DDA/pull/70122))
 * Mathifying stuff ([#70255](https://github.com/CleverRaven/Cataclysm-DDA/pull/70255))
@@ -68,7 +69,6 @@
 * Remove excessive receiver migration ([#70148](https://github.com/CleverRaven/Cataclysm-DDA/pull/70148))
 * [MoM] Reduce duration for Banked Flame ([#70152](https://github.com/CleverRaven/Cataclysm-DDA/pull/70152))
 * Change issuing bank for Cash Cards ([#70151](https://github.com/CleverRaven/Cataclysm-DDA/pull/70151))
-* [MoM] fix Photokinetic portal storm awakening failure ([#70073](https://github.com/CleverRaven/Cataclysm-DDA/pull/70073))
 * Add variables to u_cast_spell ([#70138](https://github.com/CleverRaven/Cataclysm-DDA/pull/70138))
 * [MoM] Fix learnable teleporter attunement ([#70142](https://github.com/CleverRaven/Cataclysm-DDA/pull/70142))
 * [MoM] Make Intuitive Artisan learnable ([#70141](https://github.com/CleverRaven/Cataclysm-DDA/pull/70141))
