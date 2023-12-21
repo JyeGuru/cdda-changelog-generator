@@ -1,3 +1,4 @@
+* More board games and character sheets - Fluff Days Ahead (#70161)
 * Remove extraneous zombie monster from XE bloodsuckers.json (#70281)
 * [MOM] Allow Nether Attunement To Induce Hallucinations (#70260)
 * [MoM] Quell Walls (#70309)
@@ -90,6 +91,5 @@
 * [MoM] Vitakinesis automatically brings up the bleeding/infection menu (#70120)
 * Propane and acetylene cooker can be used to start fire (#70111)
 * [MoM] Fix zombie null aura not disappearing on death (#70114)
-* Remove choke from HWP breacher configuration (#70097)
 * [MoM] Change Gateway attunement to a teleporter power, remove Construction recipe (#70112)
 * Fixes jack-knifed semi trailer rotation (#70100)
