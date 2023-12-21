@@ -1,3 +1,4 @@
+* Allowed selection of multiple missions for camp Hide/Reveal mission ([#70337](https://github.com/CleverRaven/Cataclysm-DDA/pull/70337))
 * More board games and character sheets - Fluff Days Ahead ([#70161](https://github.com/CleverRaven/Cataclysm-DDA/pull/70161))
 * Remove extraneous zombie monster from XE bloodsuckers.json ([#70281](https://github.com/CleverRaven/Cataclysm-DDA/pull/70281))
 * [MOM] Allow Nether Attunement To Induce Hallucinations ([#70260](https://github.com/CleverRaven/Cataclysm-DDA/pull/70260))
@@ -17,7 +18,6 @@
 * Adds ocean creatures. Part 1: Infrastructure + Fish. ([#70202](https://github.com/CleverRaven/Cataclysm-DDA/pull/70202))
 * [MoM] Add valid false to everything missing it  ([#70280](https://github.com/CleverRaven/Cataclysm-DDA/pull/70280))
 * Replace integrated multitool with integrated welder in welding_standard ([#70283](https://github.com/CleverRaven/Cataclysm-DDA/pull/70283))
-* Adds vehicle spawns back to bridges ([#70098](https://github.com/CleverRaven/Cataclysm-DDA/pull/70098))
 * The 'training katana', should train katanas. ([#70267](https://github.com/CleverRaven/Cataclysm-DDA/pull/70267))
 * [READY] [Content] Add 1 cylinder diesel engines to the world ([#70271](https://github.com/CleverRaven/Cataclysm-DDA/pull/70271))
 * Add side lengths for solar panels ([#70266](https://github.com/CleverRaven/Cataclysm-DDA/pull/70266))
