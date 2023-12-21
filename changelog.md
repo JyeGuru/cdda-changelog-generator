@@ -1,3 +1,4 @@
+* Remove extraneous zombie monster from XE bloodsuckers.json ([#70281](https://github.com/CleverRaven/Cataclysm-DDA/pull/70281))
 * [MOM] Allow Nether Attunement To Induce Hallucinations ([#70260](https://github.com/CleverRaven/Cataclysm-DDA/pull/70260))
 * [MoM] Quell Walls ([#70309](https://github.com/CleverRaven/Cataclysm-DDA/pull/70309))
 * [MoM] lower channeling protocol PGS38 time ([#70312](https://github.com/CleverRaven/Cataclysm-DDA/pull/70312))
@@ -92,4 +93,3 @@
 * Remove choke from HWP breacher configuration ([#70097](https://github.com/CleverRaven/Cataclysm-DDA/pull/70097))
 * [MoM] Change Gateway attunement to a teleporter power, remove Construction recipe ([#70112](https://github.com/CleverRaven/Cataclysm-DDA/pull/70112))
 * Fixes jack-knifed semi trailer rotation ([#70100](https://github.com/CleverRaven/Cataclysm-DDA/pull/70100))
-* block/remove surveys that can't be performed ([#70096](https://github.com/CleverRaven/Cataclysm-DDA/pull/70096))
