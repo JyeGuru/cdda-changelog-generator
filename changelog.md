@@ -1,3 +1,4 @@
+* [MoM] Quell Walls ([#70309](https://github.com/CleverRaven/Cataclysm-DDA/pull/70309))
 * [MoM] lower channeling protocol PGS38 time ([#70312](https://github.com/CleverRaven/Cataclysm-DDA/pull/70312))
 * adds a sandy margin to ocean beaches ([#70175](https://github.com/CleverRaven/Cataclysm-DDA/pull/70175))
 * Change char cooldown ("succession") ---> 3 days ([#70317](https://github.com/CleverRaven/Cataclysm-DDA/pull/70317))
@@ -49,7 +50,6 @@
 * Fix load order bug in comestible loading ([#70211](https://github.com/CleverRaven/Cataclysm-DDA/pull/70211))
 * 458 win mag BBTI (and 700 NX...kinda) ([#70210](https://github.com/CleverRaven/Cataclysm-DDA/pull/70210))
 * [Defense Mode] Make the duration between waves more random ([#70209](https://github.com/CleverRaven/Cataclysm-DDA/pull/70209))
-* Ink glands mutation rework ([#70088](https://github.com/CleverRaven/Cataclysm-DDA/pull/70088))
 * Fixes scout mutation ([#70196](https://github.com/CleverRaven/Cataclysm-DDA/pull/70196))
 * Grammar check give_a_class_eoc.json ([#70205](https://github.com/CleverRaven/Cataclysm-DDA/pull/70205))
 * Fix generic spell mutation activation ([#70208](https://github.com/CleverRaven/Cataclysm-DDA/pull/70208))
