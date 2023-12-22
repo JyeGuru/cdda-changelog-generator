@@ -1,3 +1,4 @@
+* 3D draw point generation ([#70301](https://github.com/CleverRaven/Cataclysm-DDA/pull/70301))
 * Fix cabled-only pseudo-tools ([#70323](https://github.com/CleverRaven/Cataclysm-DDA/pull/70323))
 * Removes dead code ([#70346](https://github.com/CleverRaven/Cataclysm-DDA/pull/70346))
 * Dumpster and vehicle storage ([#70184](https://github.com/CleverRaven/Cataclysm-DDA/pull/70184))
@@ -91,6 +92,5 @@
 * Fix spell level error ([#70128](https://github.com/CleverRaven/Cataclysm-DDA/pull/70128))
 * Remove welder and vacuum molder from test data ([#70129](https://github.com/CleverRaven/Cataclysm-DDA/pull/70129))
 * [MoM] Vitakinesis automatically brings up the bleeding/infection menu ([#70120](https://github.com/CleverRaven/Cataclysm-DDA/pull/70120))
-* Propane and acetylene cooker can be used to start fire ([#70111](https://github.com/CleverRaven/Cataclysm-DDA/pull/70111))
 * [MoM] Fix zombie null aura not disappearing on death ([#70114](https://github.com/CleverRaven/Cataclysm-DDA/pull/70114))
 * [MoM] Change Gateway attunement to a teleporter power, remove Construction recipe ([#70112](https://github.com/CleverRaven/Cataclysm-DDA/pull/70112))
