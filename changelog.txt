@@ -89,6 +89,7 @@
 * [MoM] Fix learnable teleporter attunement (#70142)
 * [MoM] Make Intuitive Artisan learnable (#70141)
 * New stocking colors added to boots.json (#70143)
+* Update u_add_trait/npc_add_trait in EFFECT_ON_CONDITION.md (#70127)
 * Added new "pre_note" annotations on several constructions. (#70135)
 * Fixes permadeath when prevent_death is active (#70139)
 * Fix spell level error (#70128)
