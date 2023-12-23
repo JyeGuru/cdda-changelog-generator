@@ -1,3 +1,4 @@
+* Fix look around scrolling ([#70355](https://github.com/CleverRaven/Cataclysm-DDA/pull/70355))
 * Keep displaying selected outfit throughout chargen ([#70347](https://github.com/CleverRaven/Cataclysm-DDA/pull/70347))
 * [MoM] Concentration reduces focus ([#70256](https://github.com/CleverRaven/Cataclysm-DDA/pull/70256))
 * Simplify/jsonify NPC generation from npc classes ([#70314](https://github.com/CleverRaven/Cataclysm-DDA/pull/70314))
@@ -91,5 +92,4 @@
 * New stocking colors added to boots.json ([#70143](https://github.com/CleverRaven/Cataclysm-DDA/pull/70143))
 * Added new "pre_note" annotations on several constructions. ([#70135](https://github.com/CleverRaven/Cataclysm-DDA/pull/70135))
 * Fixes permadeath when prevent_death is active ([#70139](https://github.com/CleverRaven/Cataclysm-DDA/pull/70139))
-* Fix spell level error ([#70128](https://github.com/CleverRaven/Cataclysm-DDA/pull/70128))
 * Remove welder and vacuum molder from test data ([#70129](https://github.com/CleverRaven/Cataclysm-DDA/pull/70129))
