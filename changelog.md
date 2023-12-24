@@ -88,7 +88,6 @@
 * 8x40mm BBTI, HMG and military ammo obsoletions ([#70187](https://github.com/CleverRaven/Cataclysm-DDA/pull/70187))
 * [MoM] Psion NPCs ([#70178](https://github.com/CleverRaven/Cataclysm-DDA/pull/70178))
 * [MoM] Make the Bone Seer a Clairsentient ([#70181](https://github.com/CleverRaven/Cataclysm-DDA/pull/70181))
-* Add EoC ability to remove effect from specific body part ([#70149](https://github.com/CleverRaven/Cataclysm-DDA/pull/70149))
 * Prevent cleanup of MOLLE pockets on contents update ([#70163](https://github.com/CleverRaven/Cataclysm-DDA/pull/70163))
 * [MoM] Reduce duration for Banked Flame ([#70152](https://github.com/CleverRaven/Cataclysm-DDA/pull/70152))
 * Change issuing bank for Cash Cards ([#70151](https://github.com/CleverRaven/Cataclysm-DDA/pull/70151))
