@@ -1,3 +1,4 @@
+* Reduces manhack weight to more reasonable and realistic levels (~5kg to 1.5kg) ([#70403](https://github.com/CleverRaven/Cataclysm-DDA/pull/70403))
 * color indicated failure to drop items into vehicle space ([#70411](https://github.com/CleverRaven/Cataclysm-DDA/pull/70411))
 * Pants& professions ([#70376](https://github.com/CleverRaven/Cataclysm-DDA/pull/70376))
 * select empty containers first when base crafting ([#70360](https://github.com/CleverRaven/Cataclysm-DDA/pull/70360))
@@ -90,5 +91,4 @@
 * Remove excessive receiver migration ([#70148](https://github.com/CleverRaven/Cataclysm-DDA/pull/70148))
 * [MoM] Reduce duration for Banked Flame ([#70152](https://github.com/CleverRaven/Cataclysm-DDA/pull/70152))
 * Change issuing bank for Cash Cards ([#70151](https://github.com/CleverRaven/Cataclysm-DDA/pull/70151))
-* [MoM] Fix learnable teleporter attunement ([#70142](https://github.com/CleverRaven/Cataclysm-DDA/pull/70142))
 * New stocking colors added to boots.json ([#70143](https://github.com/CleverRaven/Cataclysm-DDA/pull/70143))
