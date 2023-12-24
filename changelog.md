@@ -1,3 +1,5 @@
+* fix proficiency precision lost in EoC ([#70383](https://github.com/CleverRaven/Cataclysm-DDA/pull/70383))
+* Another density cleanups, and more ([#70370](https://github.com/CleverRaven/Cataclysm-DDA/pull/70370))
 * Fix look around scrolling ([#70355](https://github.com/CleverRaven/Cataclysm-DDA/pull/70355))
 * Keep displaying selected outfit throughout chargen ([#70347](https://github.com/CleverRaven/Cataclysm-DDA/pull/70347))
 * [MoM] Concentration reduces focus ([#70256](https://github.com/CleverRaven/Cataclysm-DDA/pull/70256))
@@ -66,7 +68,6 @@
 * Fix generic spell mutation activation ([#70208](https://github.com/CleverRaven/Cataclysm-DDA/pull/70208))
 * Reduce capacity of test battery to prevent UB ([#70213](https://github.com/CleverRaven/Cataclysm-DDA/pull/70213))
 * Fixes lake monsters in oceans ([#70201](https://github.com/CleverRaven/Cataclysm-DDA/pull/70201))
-* [MoM] Add ability for pyrokinetics to cauterize their wounds ([#70132](https://github.com/CleverRaven/Cataclysm-DDA/pull/70132))
 * Add ```gains_proficiency``` event ([#70194](https://github.com/CleverRaven/Cataclysm-DDA/pull/70194))
 * [Sky Island] Teleporting items back home ([#70200](https://github.com/CleverRaven/Cataclysm-DDA/pull/70200))
 * Allow spawning items with flags ([#70168](https://github.com/CleverRaven/Cataclysm-DDA/pull/70168))
@@ -92,4 +93,3 @@
 * New stocking colors added to boots.json ([#70143](https://github.com/CleverRaven/Cataclysm-DDA/pull/70143))
 * Added new "pre_note" annotations on several constructions. ([#70135](https://github.com/CleverRaven/Cataclysm-DDA/pull/70135))
 * Fixes permadeath when prevent_death is active ([#70139](https://github.com/CleverRaven/Cataclysm-DDA/pull/70139))
-* Remove welder and vacuum molder from test data ([#70129](https://github.com/CleverRaven/Cataclysm-DDA/pull/70129))
