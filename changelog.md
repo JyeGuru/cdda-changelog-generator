@@ -1,3 +1,4 @@
+* select empty containers first when base crafting ([#70360](https://github.com/CleverRaven/Cataclysm-DDA/pull/70360))
 * Routine i18n updates on 23 December 2023 ([#70373](https://github.com/CleverRaven/Cataclysm-DDA/pull/70373))
 * Fix yield of diluting hydrogen peroxide ([#70396](https://github.com/CleverRaven/Cataclysm-DDA/pull/70396))
 * [Content] Update furniture-tools.json ([#70392](https://github.com/CleverRaven/Cataclysm-DDA/pull/70392))
@@ -88,7 +89,6 @@
 * Remove excessive receiver migration ([#70148](https://github.com/CleverRaven/Cataclysm-DDA/pull/70148))
 * [MoM] Reduce duration for Banked Flame ([#70152](https://github.com/CleverRaven/Cataclysm-DDA/pull/70152))
 * Change issuing bank for Cash Cards ([#70151](https://github.com/CleverRaven/Cataclysm-DDA/pull/70151))
-* Add variables to u_cast_spell ([#70138](https://github.com/CleverRaven/Cataclysm-DDA/pull/70138))
 * [MoM] Fix learnable teleporter attunement ([#70142](https://github.com/CleverRaven/Cataclysm-DDA/pull/70142))
 * [MoM] Make Intuitive Artisan learnable ([#70141](https://github.com/CleverRaven/Cataclysm-DDA/pull/70141))
 * New stocking colors added to boots.json ([#70143](https://github.com/CleverRaven/Cataclysm-DDA/pull/70143))
