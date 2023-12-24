@@ -92,4 +92,3 @@
 * [MoM] Fix learnable teleporter attunement ([#70142](https://github.com/CleverRaven/Cataclysm-DDA/pull/70142))
 * [MoM] Make Intuitive Artisan learnable ([#70141](https://github.com/CleverRaven/Cataclysm-DDA/pull/70141))
 * New stocking colors added to boots.json ([#70143](https://github.com/CleverRaven/Cataclysm-DDA/pull/70143))
-* Fixes permadeath when prevent_death is active ([#70139](https://github.com/CleverRaven/Cataclysm-DDA/pull/70139))
