@@ -1,3 +1,4 @@
+* Routine i18n updates on 23 December 2023 ([#70373](https://github.com/CleverRaven/Cataclysm-DDA/pull/70373))
 * Fix yield of diluting hydrogen peroxide ([#70396](https://github.com/CleverRaven/Cataclysm-DDA/pull/70396))
 * [Content] Update furniture-tools.json ([#70392](https://github.com/CleverRaven/Cataclysm-DDA/pull/70392))
 * fix proficiency precision lost in EoC ([#70383](https://github.com/CleverRaven/Cataclysm-DDA/pull/70383))
@@ -36,7 +37,6 @@
 * Bugfix: Show correct bodypart in grabs ([#70244](https://github.com/CleverRaven/Cataclysm-DDA/pull/70244))
 * spellcasting_adjustment can use caster_level  ([#70257](https://github.com/CleverRaven/Cataclysm-DDA/pull/70257))
 * Surname Stjohn should be St. John ([#70254](https://github.com/CleverRaven/Cataclysm-DDA/pull/70254))
-* Weekly Changelog 2023-12-04 to 2023-12-11 ([#70136](https://github.com/CleverRaven/Cataclysm-DDA/pull/70136))
 * Skip hashing string in translation look up if no translation is loaded ([#70261](https://github.com/CleverRaven/Cataclysm-DDA/pull/70261))
 * Revert "Simulate hair growth" ([#70262](https://github.com/CleverRaven/Cataclysm-DDA/pull/70262))
 * .303 British BBTI ([#70249](https://github.com/CleverRaven/Cataclysm-DDA/pull/70249))
