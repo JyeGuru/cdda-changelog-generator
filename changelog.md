@@ -1,3 +1,4 @@
+* Don't compare bool to float 0.0 ([#70422](https://github.com/CleverRaven/Cataclysm-DDA/pull/70422))
 * Handgun is one word ([#70418](https://github.com/CleverRaven/Cataclysm-DDA/pull/70418))
 * Consolidate `suspendable` and `no_resume` activity parameters ([#70336](https://github.com/CleverRaven/Cataclysm-DDA/pull/70336))
 * [MoM] Make "Dimensionally Unstable" effect from Nether Attunement shorter ([#70372](https://github.com/CleverRaven/Cataclysm-DDA/pull/70372))
@@ -90,4 +91,3 @@
 * [MoM] Psion NPCs ([#70178](https://github.com/CleverRaven/Cataclysm-DDA/pull/70178))
 * [MoM] Make the Bone Seer a Clairsentient ([#70181](https://github.com/CleverRaven/Cataclysm-DDA/pull/70181))
 * Prevent cleanup of MOLLE pockets on contents update ([#70163](https://github.com/CleverRaven/Cataclysm-DDA/pull/70163))
-* [MoM] Reduce duration for Banked Flame ([#70152](https://github.com/CleverRaven/Cataclysm-DDA/pull/70152))
