@@ -1,3 +1,5 @@
+* Fix portal dungeon giving reward without entering the vortex, scale said reward ([#70413](https://github.com/CleverRaven/Cataclysm-DDA/pull/70413))
+* fix spell mutations are not activated ([#70412](https://github.com/CleverRaven/Cataclysm-DDA/pull/70412))
 * [Sky Island] Warp Pulse UI ([#70361](https://github.com/CleverRaven/Cataclysm-DDA/pull/70361))
 * Bugfix Aftershock: Exosuit Pocket Length Issues #70158 ([#70431](https://github.com/CleverRaven/Cataclysm-DDA/pull/70431))
 * Fix bug with spell removing item casting it. ([#70424](https://github.com/CleverRaven/Cataclysm-DDA/pull/70424))
@@ -31,7 +33,6 @@
 * 3D draw point generation ([#70301](https://github.com/CleverRaven/Cataclysm-DDA/pull/70301))
 * Fix cabled-only pseudo-tools ([#70323](https://github.com/CleverRaven/Cataclysm-DDA/pull/70323))
 * Removes dead code ([#70346](https://github.com/CleverRaven/Cataclysm-DDA/pull/70346))
-* Dumpster and vehicle storage ([#70184](https://github.com/CleverRaven/Cataclysm-DDA/pull/70184))
 * Allowed selection of multiple missions for camp Hide/Reveal mission ([#70337](https://github.com/CleverRaven/Cataclysm-DDA/pull/70337))
 * Remove extraneous zombie monster from XE bloodsuckers.json ([#70281](https://github.com/CleverRaven/Cataclysm-DDA/pull/70281))
 * [MOM] Allow Nether Attunement To Induce Hallucinations ([#70260](https://github.com/CleverRaven/Cataclysm-DDA/pull/70260))
@@ -90,4 +91,3 @@
 * Small eoc doc fixes ([#70193](https://github.com/CleverRaven/Cataclysm-DDA/pull/70193))
 * Fix bug with interrupting EOC activity ([#70195](https://github.com/CleverRaven/Cataclysm-DDA/pull/70195))
 * 8x40mm BBTI, HMG and military ammo obsoletions ([#70187](https://github.com/CleverRaven/Cataclysm-DDA/pull/70187))
-* [MoM] Make the Bone Seer a Clairsentient ([#70181](https://github.com/CleverRaven/Cataclysm-DDA/pull/70181))
