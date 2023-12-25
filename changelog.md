@@ -1,3 +1,4 @@
+* [Sky Island] Warp Pulse UI ([#70361](https://github.com/CleverRaven/Cataclysm-DDA/pull/70361))
 * Bugfix Aftershock: Exosuit Pocket Length Issues #70158 ([#70431](https://github.com/CleverRaven/Cataclysm-DDA/pull/70431))
 * Fix bug with spell removing item casting it. ([#70424](https://github.com/CleverRaven/Cataclysm-DDA/pull/70424))
 * Don't discard [[nodiscard]] result of clamping npc attributes ([#70421](https://github.com/CleverRaven/Cataclysm-DDA/pull/70421))
@@ -89,5 +90,4 @@
 * Small eoc doc fixes ([#70193](https://github.com/CleverRaven/Cataclysm-DDA/pull/70193))
 * Fix bug with interrupting EOC activity ([#70195](https://github.com/CleverRaven/Cataclysm-DDA/pull/70195))
 * 8x40mm BBTI, HMG and military ammo obsoletions ([#70187](https://github.com/CleverRaven/Cataclysm-DDA/pull/70187))
-* [MoM] Psion NPCs ([#70178](https://github.com/CleverRaven/Cataclysm-DDA/pull/70178))
 * [MoM] Make the Bone Seer a Clairsentient ([#70181](https://github.com/CleverRaven/Cataclysm-DDA/pull/70181))
