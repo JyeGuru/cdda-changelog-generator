@@ -1,3 +1,4 @@
+* fix 2000 bags with 1 sand (#70444)
 * [MoM] Stop Photokinetics from learning non-existant recipes (#70438)
 * [Sky Island] Add cosmetic constructions for warped shards (#70278)
 * [MoM] Add four new powers  (#70293)
@@ -90,4 +91,3 @@
 * Fix generic spell mutation activation (#70208)
 * Reduce capacity of test battery to prevent UB (#70213)
 * Fixes lake monsters in oceans (#70201)
-* [Sky Island] Teleporting items back home (#70200)
