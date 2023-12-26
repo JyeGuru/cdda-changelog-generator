@@ -1,3 +1,4 @@
+* Fix clang warning (#70458)
 * Added a pocket for photographs to lockets. (#70445)
 * convert `items` to `entries` in profession itemgroups (#70437)
 * [MOM] Wakeful Rest Removes Sleep Deprivation and Fatigue (#70433)
@@ -88,5 +89,4 @@
 * Handle infinite EOC loop (#70227)
 * Update item_search.cpp with flag flitering (#70212)
 * [HOTFIX] Fix wrong amount of num_event_types (#70225)
-* Fix load order bug in comestible loading (#70211)
 * Reduce capacity of test battery to prevent UB (#70213)
