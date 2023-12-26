@@ -1,3 +1,4 @@
+* convert `items` to `entries` in profession itemgroups ([#70437](https://github.com/CleverRaven/Cataclysm-DDA/pull/70437))
 * [MOM] Wakeful Rest Removes Sleep Deprivation and Fatigue ([#70433](https://github.com/CleverRaven/Cataclysm-DDA/pull/70433))
 * Nag Hammadi Codex ([#70436](https://github.com/CleverRaven/Cataclysm-DDA/pull/70436))
 * Banish SDL_main ([#70446](https://github.com/CleverRaven/Cataclysm-DDA/pull/70446))
@@ -89,5 +90,4 @@
 * Fix load order bug in comestible loading ([#70211](https://github.com/CleverRaven/Cataclysm-DDA/pull/70211))
 * 458 win mag BBTI (and 700 NX...kinda) ([#70210](https://github.com/CleverRaven/Cataclysm-DDA/pull/70210))
 * [Defense Mode] Make the duration between waves more random ([#70209](https://github.com/CleverRaven/Cataclysm-DDA/pull/70209))
-* Fix generic spell mutation activation ([#70208](https://github.com/CleverRaven/Cataclysm-DDA/pull/70208))
 * Reduce capacity of test battery to prevent UB ([#70213](https://github.com/CleverRaven/Cataclysm-DDA/pull/70213))
