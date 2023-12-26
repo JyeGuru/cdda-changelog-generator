@@ -1,3 +1,4 @@
+* Added a pocket for photographs to lockets. ([#70445](https://github.com/CleverRaven/Cataclysm-DDA/pull/70445))
 * convert `items` to `entries` in profession itemgroups ([#70437](https://github.com/CleverRaven/Cataclysm-DDA/pull/70437))
 * [MOM] Wakeful Rest Removes Sleep Deprivation and Fatigue ([#70433](https://github.com/CleverRaven/Cataclysm-DDA/pull/70433))
 * Nag Hammadi Codex ([#70436](https://github.com/CleverRaven/Cataclysm-DDA/pull/70436))
@@ -88,5 +89,4 @@
 * Update item_search.cpp with flag flitering ([#70212](https://github.com/CleverRaven/Cataclysm-DDA/pull/70212))
 * [HOTFIX] Fix wrong amount of num_event_types ([#70225](https://github.com/CleverRaven/Cataclysm-DDA/pull/70225))
 * Fix load order bug in comestible loading ([#70211](https://github.com/CleverRaven/Cataclysm-DDA/pull/70211))
-* 458 win mag BBTI (and 700 NX...kinda) ([#70210](https://github.com/CleverRaven/Cataclysm-DDA/pull/70210))
 * Reduce capacity of test battery to prevent UB ([#70213](https://github.com/CleverRaven/Cataclysm-DDA/pull/70213))
