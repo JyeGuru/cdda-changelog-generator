@@ -1,3 +1,4 @@
+* [MoM] Stop Photokinetics from learning non-existant recipes ([#70438](https://github.com/CleverRaven/Cataclysm-DDA/pull/70438))
 * [Sky Island] Add cosmetic constructions for warped shards ([#70278](https://github.com/CleverRaven/Cataclysm-DDA/pull/70278))
 * [MoM] Add four new powers  ([#70293](https://github.com/CleverRaven/Cataclysm-DDA/pull/70293))
 * Adds fancy log messages for characters high on weed ([#70388](https://github.com/CleverRaven/Cataclysm-DDA/pull/70388))
@@ -71,7 +72,6 @@
 * 22 Pistol mod location and name adjustments ([#70247](https://github.com/CleverRaven/Cataclysm-DDA/pull/70247))
 * 45 Colt Cowboy loads and BBTI ([#70241](https://github.com/CleverRaven/Cataclysm-DDA/pull/70241))
 * Allow extension cords to spawn in electronics shops. ([#70246](https://github.com/CleverRaven/Cataclysm-DDA/pull/70246))
-* [MoM] Add Beast Taming telepathic power ([#70198](https://github.com/CleverRaven/Cataclysm-DDA/pull/70198))
 * Routine i18n updates on 16 December 2023 ([#70240](https://github.com/CleverRaven/Cataclysm-DDA/pull/70240))
 * Fix 'den_palette' test errors ([#70248](https://github.com/CleverRaven/Cataclysm-DDA/pull/70248))
 * Fix rotation issue with using lake and ocean shores as predecessors ([#70242](https://github.com/CleverRaven/Cataclysm-DDA/pull/70242))
