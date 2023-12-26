@@ -89,5 +89,4 @@
 * [HOTFIX] Fix wrong amount of num_event_types ([#70225](https://github.com/CleverRaven/Cataclysm-DDA/pull/70225))
 * Fix load order bug in comestible loading ([#70211](https://github.com/CleverRaven/Cataclysm-DDA/pull/70211))
 * 458 win mag BBTI (and 700 NX...kinda) ([#70210](https://github.com/CleverRaven/Cataclysm-DDA/pull/70210))
-* [Defense Mode] Make the duration between waves more random ([#70209](https://github.com/CleverRaven/Cataclysm-DDA/pull/70209))
 * Reduce capacity of test battery to prevent UB ([#70213](https://github.com/CleverRaven/Cataclysm-DDA/pull/70213))
