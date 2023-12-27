@@ -1,3 +1,4 @@
+* [MoM] Power learning revamp: Biokinesis ([#70305](https://github.com/CleverRaven/Cataclysm-DDA/pull/70305))
 * Further receiver cleanups ([#70473](https://github.com/CleverRaven/Cataclysm-DDA/pull/70473))
 * [DinoMod] ocean mosasaurus spawns ([#70362](https://github.com/CleverRaven/Cataclysm-DDA/pull/70362))
 * Arvore, Salamander and Undine map extras ([#70402](https://github.com/CleverRaven/Cataclysm-DDA/pull/70402))
@@ -81,7 +82,6 @@
 * Revert "Simulate hair growth" ([#70262](https://github.com/CleverRaven/Cataclysm-DDA/pull/70262))
 * .303 British BBTI ([#70249](https://github.com/CleverRaven/Cataclysm-DDA/pull/70249))
 * [Sky Island] Allow selection of room teleport behavior ([#70253](https://github.com/CleverRaven/Cataclysm-DDA/pull/70253))
-* "copy_from" for fungal creatures are incorrect. ([#70233](https://github.com/CleverRaven/Cataclysm-DDA/pull/70233))
 * 22 Pistol mod location and name adjustments ([#70247](https://github.com/CleverRaven/Cataclysm-DDA/pull/70247))
 * 45 Colt Cowboy loads and BBTI ([#70241](https://github.com/CleverRaven/Cataclysm-DDA/pull/70241))
 * Allow extension cords to spawn in electronics shops. ([#70246](https://github.com/CleverRaven/Cataclysm-DDA/pull/70246))
