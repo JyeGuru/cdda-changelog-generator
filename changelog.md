@@ -1,3 +1,4 @@
+* fix nonexistent Mandeep world situation response ([#70460](https://github.com/CleverRaven/Cataclysm-DDA/pull/70460))
 * Fix clang warning ([#70458](https://github.com/CleverRaven/Cataclysm-DDA/pull/70458))
 * Added a pocket for photographs to lockets. ([#70445](https://github.com/CleverRaven/Cataclysm-DDA/pull/70445))
 * convert `items` to `entries` in profession itemgroups ([#70437](https://github.com/CleverRaven/Cataclysm-DDA/pull/70437))
@@ -87,6 +88,5 @@
 * Update output.cpp so that filter screen informs user that flags are a filterable option now ([#70230](https://github.com/CleverRaven/Cataclysm-DDA/pull/70230))
 * Make demoralizing food demoralizing in long term ([#70226](https://github.com/CleverRaven/Cataclysm-DDA/pull/70226))
 * Handle infinite EOC loop ([#70227](https://github.com/CleverRaven/Cataclysm-DDA/pull/70227))
-* Update item_search.cpp with flag flitering ([#70212](https://github.com/CleverRaven/Cataclysm-DDA/pull/70212))
 * [HOTFIX] Fix wrong amount of num_event_types ([#70225](https://github.com/CleverRaven/Cataclysm-DDA/pull/70225))
 * Reduce capacity of test battery to prevent UB ([#70213](https://github.com/CleverRaven/Cataclysm-DDA/pull/70213))
