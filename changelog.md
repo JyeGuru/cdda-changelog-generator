@@ -1,3 +1,4 @@
+* Further receiver cleanups ([#70473](https://github.com/CleverRaven/Cataclysm-DDA/pull/70473))
 * [DinoMod] ocean mosasaurus spawns ([#70362](https://github.com/CleverRaven/Cataclysm-DDA/pull/70362))
 * Arvore, Salamander and Undine map extras ([#70402](https://github.com/CleverRaven/Cataclysm-DDA/pull/70402))
 * [ Xedra Evolved ] Bugfix Renfield Zombifies Into error ([#70407](https://github.com/CleverRaven/Cataclysm-DDA/pull/70407))
@@ -88,4 +89,3 @@
 * Fix 'den_palette' test errors ([#70248](https://github.com/CleverRaven/Cataclysm-DDA/pull/70248))
 * Fix rotation issue with using lake and ocean shores as predecessors ([#70242](https://github.com/CleverRaven/Cataclysm-DDA/pull/70242))
 * Fix lake shore mapgen corner case ([#70234](https://github.com/CleverRaven/Cataclysm-DDA/pull/70234))
-* Update output.cpp so that filter screen informs user that flags are a filterable option now ([#70230](https://github.com/CleverRaven/Cataclysm-DDA/pull/70230))
