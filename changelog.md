@@ -85,7 +85,6 @@
 * Fix rotation issue with using lake and ocean shores as predecessors ([#70242](https://github.com/CleverRaven/Cataclysm-DDA/pull/70242))
 * Fix lake shore mapgen corner case ([#70234](https://github.com/CleverRaven/Cataclysm-DDA/pull/70234))
 * [MoM] Change electrokinetic overload ([#70216](https://github.com/CleverRaven/Cataclysm-DDA/pull/70216))
-* Allow non wielded items to provide techniques ([#70214](https://github.com/CleverRaven/Cataclysm-DDA/pull/70214))
 * Update output.cpp so that filter screen informs user that flags are a filterable option now ([#70230](https://github.com/CleverRaven/Cataclysm-DDA/pull/70230))
 * Make demoralizing food demoralizing in long term ([#70226](https://github.com/CleverRaven/Cataclysm-DDA/pull/70226))
 * Handle infinite EOC loop ([#70227](https://github.com/CleverRaven/Cataclysm-DDA/pull/70227))
