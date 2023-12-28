@@ -1,3 +1,4 @@
+* [MoM] Migrate awakening variables from global to u_, (II) ([#70486](https://github.com/CleverRaven/Cataclysm-DDA/pull/70486))
 * No accidental full-time deconstruct for simple furniture ([#70494](https://github.com/CleverRaven/Cataclysm-DDA/pull/70494))
 * [Sky Island] Allow difficulty selection for Warp Home spell ([#70442](https://github.com/CleverRaven/Cataclysm-DDA/pull/70442))
 * Fix passable_only option ([#70459](https://github.com/CleverRaven/Cataclysm-DDA/pull/70459))
@@ -88,4 +89,3 @@
 * The 'training katana', should train katanas. ([#70267](https://github.com/CleverRaven/Cataclysm-DDA/pull/70267))
 * [READY] [Content] Add 1 cylinder diesel engines to the world ([#70271](https://github.com/CleverRaven/Cataclysm-DDA/pull/70271))
 * Add side lengths for solar panels ([#70266](https://github.com/CleverRaven/Cataclysm-DDA/pull/70266))
-* Revert "Simulate hair growth" ([#70262](https://github.com/CleverRaven/Cataclysm-DDA/pull/70262))
