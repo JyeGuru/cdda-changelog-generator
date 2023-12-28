@@ -1,3 +1,4 @@
+* Add diet soda ([#70417](https://github.com/CleverRaven/Cataclysm-DDA/pull/70417))
 * Yet another density cleanup ([#70455](https://github.com/CleverRaven/Cataclysm-DDA/pull/70455))
 * [Xedra Evolved] Maintenance ([#70465](https://github.com/CleverRaven/Cataclysm-DDA/pull/70465))
 * Fix json for weighted list EOC ([#70462](https://github.com/CleverRaven/Cataclysm-DDA/pull/70462))
@@ -88,4 +89,3 @@
 * Revert "Simulate hair growth" ([#70262](https://github.com/CleverRaven/Cataclysm-DDA/pull/70262))
 * .303 British BBTI ([#70249](https://github.com/CleverRaven/Cataclysm-DDA/pull/70249))
 * [Sky Island] Allow selection of room teleport behavior ([#70253](https://github.com/CleverRaven/Cataclysm-DDA/pull/70253))
-* Fix 'den_palette' test errors ([#70248](https://github.com/CleverRaven/Cataclysm-DDA/pull/70248))
