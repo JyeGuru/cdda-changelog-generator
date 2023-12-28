@@ -1,3 +1,5 @@
+* Yet another density cleanup (#70455)
+* [Xedra Evolved] Maintenance (#70465)
 * Fix json for weighted list EOC (#70462)
 * Some Iterator Fixes for Crushing Leap (#70478)
 * Handle invalid mod pocket contents (#70475)
@@ -86,6 +88,4 @@
 * Revert "Simulate hair growth" (#70262)
 * .303 British BBTI (#70249)
 * [Sky Island] Allow selection of room teleport behavior (#70253)
-* 22 Pistol mod location and name adjustments (#70247)
-* Allow extension cords to spawn in electronics shops. (#70246)
 * Fix 'den_palette' test errors (#70248)
