@@ -1,3 +1,5 @@
+* Visitors Passes and Freight Badges no longer reveal roads ([#70495](https://github.com/CleverRaven/Cataclysm-DDA/pull/70495))
+* Add `rng_get_first_seed` and use it in `cata_test` ([#70497](https://github.com/CleverRaven/Cataclysm-DDA/pull/70497))
 * Correctly increment iterator in Creature::process_damage_over_time() ([#70483](https://github.com/CleverRaven/Cataclysm-DDA/pull/70483))
 * Add diet soda ([#70417](https://github.com/CleverRaven/Cataclysm-DDA/pull/70417))
 * Yet another density cleanup ([#70455](https://github.com/CleverRaven/Cataclysm-DDA/pull/70455))
@@ -85,7 +87,5 @@
 * [READY] [Content] Add 1 cylinder diesel engines to the world ([#70271](https://github.com/CleverRaven/Cataclysm-DDA/pull/70271))
 * Add side lengths for solar panels ([#70266](https://github.com/CleverRaven/Cataclysm-DDA/pull/70266))
 * spellcasting_adjustment can use caster_level  ([#70257](https://github.com/CleverRaven/Cataclysm-DDA/pull/70257))
-* Surname Stjohn should be St. John ([#70254](https://github.com/CleverRaven/Cataclysm-DDA/pull/70254))
 * Skip hashing string in translation look up if no translation is loaded ([#70261](https://github.com/CleverRaven/Cataclysm-DDA/pull/70261))
 * Revert "Simulate hair growth" ([#70262](https://github.com/CleverRaven/Cataclysm-DDA/pull/70262))
-* [Sky Island] Allow selection of room teleport behavior ([#70253](https://github.com/CleverRaven/Cataclysm-DDA/pull/70253))
