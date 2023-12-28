@@ -1,3 +1,5 @@
+* Using visitor's pass or freight badge tries to reveal TCL in larger radius ([#70480](https://github.com/CleverRaven/Cataclysm-DDA/pull/70480))
+* Kill one pigeon ([#70487](https://github.com/CleverRaven/Cataclysm-DDA/pull/70487))
 * [MoM] Power learning revamp: Biokinesis ([#70305](https://github.com/CleverRaven/Cataclysm-DDA/pull/70305))
 * Further receiver cleanups ([#70473](https://github.com/CleverRaven/Cataclysm-DDA/pull/70473))
 * [DinoMod] ocean mosasaurus spawns ([#70362](https://github.com/CleverRaven/Cataclysm-DDA/pull/70362))
@@ -85,6 +87,5 @@
 * 22 Pistol mod location and name adjustments ([#70247](https://github.com/CleverRaven/Cataclysm-DDA/pull/70247))
 * 45 Colt Cowboy loads and BBTI ([#70241](https://github.com/CleverRaven/Cataclysm-DDA/pull/70241))
 * Allow extension cords to spawn in electronics shops. ([#70246](https://github.com/CleverRaven/Cataclysm-DDA/pull/70246))
-* Routine i18n updates on 16 December 2023 ([#70240](https://github.com/CleverRaven/Cataclysm-DDA/pull/70240))
 * Fix 'den_palette' test errors ([#70248](https://github.com/CleverRaven/Cataclysm-DDA/pull/70248))
 * Fix rotation issue with using lake and ocean shores as predecessors ([#70242](https://github.com/CleverRaven/Cataclysm-DDA/pull/70242))
