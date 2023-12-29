@@ -1,3 +1,4 @@
+* Add some weapons to their corresponding melee practices ([#70385](https://github.com/CleverRaven/Cataclysm-DDA/pull/70385))
 * [Sky Island] Correct warped pond shard cost ([#70503](https://github.com/CleverRaven/Cataclysm-DDA/pull/70503))
 * Cataclysm: Book Days Ahead ([#70491](https://github.com/CleverRaven/Cataclysm-DDA/pull/70491))
 * Slightly fewer allocations in npc::process_turn ([#70498](https://github.com/CleverRaven/Cataclysm-DDA/pull/70498))
@@ -88,5 +89,4 @@
 * trigger a build ([#70321](https://github.com/CleverRaven/Cataclysm-DDA/pull/70321))
 * add merge_group event to test actions ([#70319](https://github.com/CleverRaven/Cataclysm-DDA/pull/70319))
 * [BombasticPerks] "Unstoppable Force" perk description clarification ([#70306](https://github.com/CleverRaven/Cataclysm-DDA/pull/70306))
-* [MoM] Add valid false to everything missing it  ([#70280](https://github.com/CleverRaven/Cataclysm-DDA/pull/70280))
 * Replace integrated multitool with integrated welder in welding_standard ([#70283](https://github.com/CleverRaven/Cataclysm-DDA/pull/70283))
