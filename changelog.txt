@@ -1,3 +1,4 @@
+* [MoM] Change success formula for psionic powers (#70499)
 * Audit field scientist corpses map extra (#70381)
 * Weekly Changelog 2023-12-18 to 2023-12-25 (#70425)
 * [MoM] Migrate awakening variables from global to u_, (II) (#70486)
@@ -88,4 +89,3 @@
 * [BombasticPerks] "Unstoppable Force" perk description clarification (#70306)
 * [MoM] Add valid false to everything missing it  (#70280)
 * Replace integrated multitool with integrated welder in welding_standard (#70283)
-* [READY] [Content] Add 1 cylinder diesel engines to the world (#70271)
