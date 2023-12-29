@@ -1,3 +1,4 @@
+* Slightly fewer allocations in npc::process_turn ([#70498](https://github.com/CleverRaven/Cataclysm-DDA/pull/70498))
 * [MoM] Change success formula for psionic powers ([#70499](https://github.com/CleverRaven/Cataclysm-DDA/pull/70499))
 * Audit field scientist corpses map extra ([#70381](https://github.com/CleverRaven/Cataclysm-DDA/pull/70381))
 * Weekly Changelog 2023-12-18 to 2023-12-25 ([#70425](https://github.com/CleverRaven/Cataclysm-DDA/pull/70425))

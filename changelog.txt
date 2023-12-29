@@ -1,3 +1,4 @@
+* Slightly fewer allocations in npc::process_turn (#70498)
 * [MoM] Change success formula for psionic powers (#70499)
 * Audit field scientist corpses map extra (#70381)
 * Weekly Changelog 2023-12-18 to 2023-12-25 (#70425)
