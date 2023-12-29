@@ -1,3 +1,4 @@
+* Do not redefine SDL_MAIN_HANDLED ([#70492](https://github.com/CleverRaven/Cataclysm-DDA/pull/70492))
 * Add some weapons to their corresponding melee practices ([#70385](https://github.com/CleverRaven/Cataclysm-DDA/pull/70385))
 * [Sky Island] Correct warped pond shard cost ([#70503](https://github.com/CleverRaven/Cataclysm-DDA/pull/70503))
 * Cataclysm: Book Days Ahead ([#70491](https://github.com/CleverRaven/Cataclysm-DDA/pull/70491))
@@ -79,7 +80,6 @@
 * Fix cabled-only pseudo-tools ([#70323](https://github.com/CleverRaven/Cataclysm-DDA/pull/70323))
 * Removes dead code ([#70346](https://github.com/CleverRaven/Cataclysm-DDA/pull/70346))
 * Allowed selection of multiple missions for camp Hide/Reveal mission ([#70337](https://github.com/CleverRaven/Cataclysm-DDA/pull/70337))
-* Remove extraneous zombie monster from XE bloodsuckers.json ([#70281](https://github.com/CleverRaven/Cataclysm-DDA/pull/70281))
 * [MoM] Quell Walls ([#70309](https://github.com/CleverRaven/Cataclysm-DDA/pull/70309))
 * [MoM] lower channeling protocol PGS38 time ([#70312](https://github.com/CleverRaven/Cataclysm-DDA/pull/70312))
 * Change char cooldown ("succession") ---> 3 days ([#70317](https://github.com/CleverRaven/Cataclysm-DDA/pull/70317))
