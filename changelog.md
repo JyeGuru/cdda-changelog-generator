@@ -1,3 +1,4 @@
+* Audit field scientist corpses map extra ([#70381](https://github.com/CleverRaven/Cataclysm-DDA/pull/70381))
 * Weekly Changelog 2023-12-18 to 2023-12-25 ([#70425](https://github.com/CleverRaven/Cataclysm-DDA/pull/70425))
 * [MoM] Migrate awakening variables from global to u_, (II) ([#70486](https://github.com/CleverRaven/Cataclysm-DDA/pull/70486))
 * No accidental full-time deconstruct for simple furniture ([#70494](https://github.com/CleverRaven/Cataclysm-DDA/pull/70494))
@@ -87,5 +88,4 @@
 * [BombasticPerks] "Unstoppable Force" perk description clarification ([#70306](https://github.com/CleverRaven/Cataclysm-DDA/pull/70306))
 * [MoM] Add valid false to everything missing it  ([#70280](https://github.com/CleverRaven/Cataclysm-DDA/pull/70280))
 * Replace integrated multitool with integrated welder in welding_standard ([#70283](https://github.com/CleverRaven/Cataclysm-DDA/pull/70283))
-* The 'training katana', should train katanas. ([#70267](https://github.com/CleverRaven/Cataclysm-DDA/pull/70267))
 * [READY] [Content] Add 1 cylinder diesel engines to the world ([#70271](https://github.com/CleverRaven/Cataclysm-DDA/pull/70271))
