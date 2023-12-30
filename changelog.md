@@ -1,3 +1,4 @@
+* [Bombastic Perks] Add some new perks ([#70481](https://github.com/CleverRaven/Cataclysm-DDA/pull/70481))
 * Highlight OMTs revealed by maps ([#70482](https://github.com/CleverRaven/Cataclysm-DDA/pull/70482))
 * [MoM] Maintain science extra parity with mainline ([#70504](https://github.com/CleverRaven/Cataclysm-DDA/pull/70504))
 * Outfit matches randomly chosen gender identities. ([#70507](https://github.com/CleverRaven/Cataclysm-DDA/pull/70507))
@@ -28,7 +29,6 @@
 * Handle invalid mod pocket contents ([#70475](https://github.com/CleverRaven/Cataclysm-DDA/pull/70475))
 * Using visitor's pass or freight badge tries to reveal TCL in larger radius ([#70480](https://github.com/CleverRaven/Cataclysm-DDA/pull/70480))
 * Kill one pigeon ([#70487](https://github.com/CleverRaven/Cataclysm-DDA/pull/70487))
-* [MoM] Power learning revamp: Biokinesis ([#70305](https://github.com/CleverRaven/Cataclysm-DDA/pull/70305))
 * Further receiver cleanups ([#70473](https://github.com/CleverRaven/Cataclysm-DDA/pull/70473))
 * [DinoMod] ocean mosasaurus spawns ([#70362](https://github.com/CleverRaven/Cataclysm-DDA/pull/70362))
 * Arvore, Salamander and Undine map extras ([#70402](https://github.com/CleverRaven/Cataclysm-DDA/pull/70402))
