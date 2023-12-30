@@ -1,3 +1,4 @@
+* Fixes for auto consume issue ([#70516](https://github.com/CleverRaven/Cataclysm-DDA/pull/70516))
 * [Bombastic Perks] Add some new perks ([#70481](https://github.com/CleverRaven/Cataclysm-DDA/pull/70481))
 * Highlight OMTs revealed by maps ([#70482](https://github.com/CleverRaven/Cataclysm-DDA/pull/70482))
 * [MoM] Maintain science extra parity with mainline ([#70504](https://github.com/CleverRaven/Cataclysm-DDA/pull/70504))
@@ -91,4 +92,3 @@
 * makes satellite maps reveal ocean and shore tiles ([#70326](https://github.com/CleverRaven/Cataclysm-DDA/pull/70326))
 * trigger a build ([#70321](https://github.com/CleverRaven/Cataclysm-DDA/pull/70321))
 * add merge_group event to test actions ([#70319](https://github.com/CleverRaven/Cataclysm-DDA/pull/70319))
-* [BombasticPerks] "Unstoppable Force" perk description clarification ([#70306](https://github.com/CleverRaven/Cataclysm-DDA/pull/70306))
