@@ -1,3 +1,5 @@
+* Add dwarfism and gigantism traits, vehicle disability aids (#70393)
+* Old labs spawn walls when bordering lab_subway (#70519)
 * fix: typos and spacing corrections (#70523)
 * [innawood] Removes duplicate vanilla pond file (#70525)
 * [Xedra Evolved] Move vampire lodge to it's own special (#70524)
@@ -89,5 +91,3 @@
 * Removes dead code (#70346)
 * Allowed selection of multiple missions for camp Hide/Reveal mission (#70337)
 * makes satellite maps reveal ocean and shore tiles (#70326)
-* trigger a build (#70321)
-* add merge_group event to test actions (#70319)
