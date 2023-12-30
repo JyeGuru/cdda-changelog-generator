@@ -1,3 +1,5 @@
+* [MoM] Fix two bugs ([#70511](https://github.com/CleverRaven/Cataclysm-DDA/pull/70511))
+* Simplify generic mine mutable definition ([#70512](https://github.com/CleverRaven/Cataclysm-DDA/pull/70512))
 * Do not redefine SDL_MAIN_HANDLED ([#70492](https://github.com/CleverRaven/Cataclysm-DDA/pull/70492))
 * Add some weapons to their corresponding melee practices ([#70385](https://github.com/CleverRaven/Cataclysm-DDA/pull/70385))
 * [Sky Island] Correct warped pond shard cost ([#70503](https://github.com/CleverRaven/Cataclysm-DDA/pull/70503))
@@ -40,7 +42,6 @@
 * Banish SDL_main ([#70446](https://github.com/CleverRaven/Cataclysm-DDA/pull/70446))
 * fix 2000 bags with 1 sand ([#70444](https://github.com/CleverRaven/Cataclysm-DDA/pull/70444))
 * [MoM] Stop Photokinetics from learning non-existant recipes ([#70438](https://github.com/CleverRaven/Cataclysm-DDA/pull/70438))
-* [MoM] Add four new powers  ([#70293](https://github.com/CleverRaven/Cataclysm-DDA/pull/70293))
 * Adds fancy log messages for characters high on weed ([#70388](https://github.com/CleverRaven/Cataclysm-DDA/pull/70388))
 * Content "Alternate Military Cargo Truck" ([#70395](https://github.com/CleverRaven/Cataclysm-DDA/pull/70395))
 * innawood- change ranged weapon recipe ([#70414](https://github.com/CleverRaven/Cataclysm-DDA/pull/70414))
@@ -89,4 +90,3 @@
 * trigger a build ([#70321](https://github.com/CleverRaven/Cataclysm-DDA/pull/70321))
 * add merge_group event to test actions ([#70319](https://github.com/CleverRaven/Cataclysm-DDA/pull/70319))
 * [BombasticPerks] "Unstoppable Force" perk description clarification ([#70306](https://github.com/CleverRaven/Cataclysm-DDA/pull/70306))
-* Replace integrated multitool with integrated welder in welding_standard ([#70283](https://github.com/CleverRaven/Cataclysm-DDA/pull/70283))
