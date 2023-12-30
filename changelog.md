@@ -1,3 +1,4 @@
+* [Xedra Evolved] Move vampire lodge to it's own special ([#70524](https://github.com/CleverRaven/Cataclysm-DDA/pull/70524))
 * Fix clang-tidy warning in rng_get_first_seed() ([#70518](https://github.com/CleverRaven/Cataclysm-DDA/pull/70518))
 * Routine i18n updates on 30 December 2023 ([#70517](https://github.com/CleverRaven/Cataclysm-DDA/pull/70517))
 * Fixes for auto consume issue ([#70516](https://github.com/CleverRaven/Cataclysm-DDA/pull/70516))
@@ -86,7 +87,6 @@
 * Removes dead code ([#70346](https://github.com/CleverRaven/Cataclysm-DDA/pull/70346))
 * Allowed selection of multiple missions for camp Hide/Reveal mission ([#70337](https://github.com/CleverRaven/Cataclysm-DDA/pull/70337))
 * Change char cooldown ("succession") ---> 3 days ([#70317](https://github.com/CleverRaven/Cataclysm-DDA/pull/70317))
-* [MoM] Fix Momentum Alteration ([#70315](https://github.com/CleverRaven/Cataclysm-DDA/pull/70315))
 * [MoM] clamp Phase ([#70316](https://github.com/CleverRaven/Cataclysm-DDA/pull/70316))
 * makes satellite maps reveal ocean and shore tiles ([#70326](https://github.com/CleverRaven/Cataclysm-DDA/pull/70326))
 * trigger a build ([#70321](https://github.com/CleverRaven/Cataclysm-DDA/pull/70321))
