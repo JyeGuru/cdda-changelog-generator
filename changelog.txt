@@ -81,7 +81,6 @@
 * Another density cleanups, and more (#70370)
 * Fix look around scrolling (#70355)
 * Keep displaying selected outfit throughout chargen (#70347)
-* Simplify/jsonify NPC generation from npc classes (#70314)
 * Hide AIM during directional prompts (#70335)
 * Fix cabled-only pseudo-tools (#70323)
 * Removes dead code (#70346)
