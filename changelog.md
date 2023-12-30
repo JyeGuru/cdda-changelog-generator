@@ -1,3 +1,4 @@
+* Routine i18n updates on 30 December 2023 ([#70517](https://github.com/CleverRaven/Cataclysm-DDA/pull/70517))
 * Fixes for auto consume issue ([#70516](https://github.com/CleverRaven/Cataclysm-DDA/pull/70516))
 * [Bombastic Perks] Add some new perks ([#70481](https://github.com/CleverRaven/Cataclysm-DDA/pull/70481))
 * Highlight OMTs revealed by maps ([#70482](https://github.com/CleverRaven/Cataclysm-DDA/pull/70482))
@@ -84,7 +85,6 @@
 * Fix cabled-only pseudo-tools ([#70323](https://github.com/CleverRaven/Cataclysm-DDA/pull/70323))
 * Removes dead code ([#70346](https://github.com/CleverRaven/Cataclysm-DDA/pull/70346))
 * Allowed selection of multiple missions for camp Hide/Reveal mission ([#70337](https://github.com/CleverRaven/Cataclysm-DDA/pull/70337))
-* [MoM] Quell Walls ([#70309](https://github.com/CleverRaven/Cataclysm-DDA/pull/70309))
 * [MoM] lower channeling protocol PGS38 time ([#70312](https://github.com/CleverRaven/Cataclysm-DDA/pull/70312))
 * Change char cooldown ("succession") ---> 3 days ([#70317](https://github.com/CleverRaven/Cataclysm-DDA/pull/70317))
 * [MoM] Fix Momentum Alteration ([#70315](https://github.com/CleverRaven/Cataclysm-DDA/pull/70315))
