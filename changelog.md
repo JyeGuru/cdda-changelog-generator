@@ -1,3 +1,5 @@
+* Ratkin lab fixes ([#70520](https://github.com/CleverRaven/Cataclysm-DDA/pull/70520))
+* Add cooking 3 requirement to milkshake_deluxe (& _choc) so it's the same as for milkshakes ([#70454](https://github.com/CleverRaven/Cataclysm-DDA/pull/70454))
 * [Sky Island] Fix Warped Beacon ([#70537](https://github.com/CleverRaven/Cataclysm-DDA/pull/70537))
 * [MoM] Psi equation fixes ([#70536](https://github.com/CleverRaven/Cataclysm-DDA/pull/70536))
 * [Desert region] Simplifies water replacement nests ([#70527](https://github.com/CleverRaven/Cataclysm-DDA/pull/70527))
@@ -89,5 +91,3 @@
 * fix proficiency precision lost in EoC ([#70383](https://github.com/CleverRaven/Cataclysm-DDA/pull/70383))
 * Another density cleanups, and more ([#70370](https://github.com/CleverRaven/Cataclysm-DDA/pull/70370))
 * Fix look around scrolling ([#70355](https://github.com/CleverRaven/Cataclysm-DDA/pull/70355))
-* Keep displaying selected outfit throughout chargen ([#70347](https://github.com/CleverRaven/Cataclysm-DDA/pull/70347))
-* Removes dead code ([#70346](https://github.com/CleverRaven/Cataclysm-DDA/pull/70346))
