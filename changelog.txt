@@ -1,3 +1,4 @@
+* [Desert region] Simplifies water replacement nests (#70527)
 * Fixes zone farming segmentation fault (#70468)
 * [DinoMod] plesiosaurus (#70513)
 * Add dwarfism and gigantism traits, vehicle disability aids (#70393)
@@ -88,6 +89,5 @@
 * Another density cleanups, and more (#70370)
 * Fix look around scrolling (#70355)
 * Keep displaying selected outfit throughout chargen (#70347)
-* Hide AIM during directional prompts (#70335)
 * Removes dead code (#70346)
 * Allowed selection of multiple missions for camp Hide/Reveal mission (#70337)
