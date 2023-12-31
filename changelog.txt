@@ -1,3 +1,4 @@
+* [DinoMod] plesiosaurus (#70513)
 * Add dwarfism and gigantism traits, vehicle disability aids (#70393)
 * Old labs spawn walls when bordering lab_subway (#70519)
 * fix: typos and spacing corrections (#70523)
@@ -87,7 +88,6 @@
 * Fix look around scrolling (#70355)
 * Keep displaying selected outfit throughout chargen (#70347)
 * Hide AIM during directional prompts (#70335)
-* Fix cabled-only pseudo-tools (#70323)
 * Removes dead code (#70346)
 * Allowed selection of multiple missions for camp Hide/Reveal mission (#70337)
 * makes satellite maps reveal ocean and shore tiles (#70326)
