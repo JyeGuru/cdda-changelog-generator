@@ -1,3 +1,4 @@
+* [MoM] Psi equation fixes ([#70536](https://github.com/CleverRaven/Cataclysm-DDA/pull/70536))
 * [Desert region] Simplifies water replacement nests ([#70527](https://github.com/CleverRaven/Cataclysm-DDA/pull/70527))
 * Fixes zone farming segmentation fault ([#70468](https://github.com/CleverRaven/Cataclysm-DDA/pull/70468))
 * [DinoMod] plesiosaurus ([#70513](https://github.com/CleverRaven/Cataclysm-DDA/pull/70513))
@@ -73,7 +74,6 @@
 * Added sword tags back onto wooden training swords. ([#70367](https://github.com/CleverRaven/Cataclysm-DDA/pull/70367))
 * Don't compare bool to float 0.0 ([#70422](https://github.com/CleverRaven/Cataclysm-DDA/pull/70422))
 * Handgun is one word ([#70418](https://github.com/CleverRaven/Cataclysm-DDA/pull/70418))
-* Consolidate `suspendable` and `no_resume` activity parameters ([#70336](https://github.com/CleverRaven/Cataclysm-DDA/pull/70336))
 * [MoM] Make "Dimensionally Unstable" effect from Nether Attunement shorter ([#70372](https://github.com/CleverRaven/Cataclysm-DDA/pull/70372))
 * Invalidate draw point cache if viewport size or position changes ([#70379](https://github.com/CleverRaven/Cataclysm-DDA/pull/70379))
 * Fix cabled-only pseudo-tools, part 2 ([#70410](https://github.com/CleverRaven/Cataclysm-DDA/pull/70410))
