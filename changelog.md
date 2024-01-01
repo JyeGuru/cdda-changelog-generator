@@ -1,3 +1,4 @@
+* Routine tileset updates on 01 January 2024 ([#70569](https://github.com/CleverRaven/Cataclysm-DDA/pull/70569))
 * Remove Murrsuits, Adjust HWP EXODIC Conversion, Add Filk ([#70563](https://github.com/CleverRaven/Cataclysm-DDA/pull/70563))
 * Remove bridgehead_ramp vehicle nests ([#70568](https://github.com/CleverRaven/Cataclysm-DDA/pull/70568))
 * Cataclysm DDA - Plushies! ([#70554](https://github.com/CleverRaven/Cataclysm-DDA/pull/70554))
@@ -80,7 +81,6 @@
 * Fix batch EOC recipes ([#70390](https://github.com/CleverRaven/Cataclysm-DDA/pull/70390))
 * Don't compare bool to float 0.0 ([#70422](https://github.com/CleverRaven/Cataclysm-DDA/pull/70422))
 * Handgun is one word ([#70418](https://github.com/CleverRaven/Cataclysm-DDA/pull/70418))
-* [MoM] Make "Dimensionally Unstable" effect from Nether Attunement shorter ([#70372](https://github.com/CleverRaven/Cataclysm-DDA/pull/70372))
 * Invalidate draw point cache if viewport size or position changes ([#70379](https://github.com/CleverRaven/Cataclysm-DDA/pull/70379))
 * Fix cabled-only pseudo-tools, part 2 ([#70410](https://github.com/CleverRaven/Cataclysm-DDA/pull/70410))
 * Fix: Prevent softlock when sleeping in cramped spaces ([#70409](https://github.com/CleverRaven/Cataclysm-DDA/pull/70409))
