@@ -1,3 +1,4 @@
+* [Bombastic Perks] Perk fixes ([#70538](https://github.com/CleverRaven/Cataclysm-DDA/pull/70538))
 * [MoM] Add missing biokin recipes ([#70551](https://github.com/CleverRaven/Cataclysm-DDA/pull/70551))
 * Ratkin lab fixes ([#70520](https://github.com/CleverRaven/Cataclysm-DDA/pull/70520))
 * Add cooking 3 requirement to milkshake_deluxe (& _choc) so it's the same as for milkshakes ([#70454](https://github.com/CleverRaven/Cataclysm-DDA/pull/70454))
@@ -85,7 +86,6 @@
 * Reduces manhack weight to more reasonable and realistic levels (~5kg to 1.5kg) ([#70403](https://github.com/CleverRaven/Cataclysm-DDA/pull/70403))
 * color indicated failure to drop items into vehicle space ([#70411](https://github.com/CleverRaven/Cataclysm-DDA/pull/70411))
 * Pants& professions ([#70376](https://github.com/CleverRaven/Cataclysm-DDA/pull/70376))
-* select empty containers first when base crafting ([#70360](https://github.com/CleverRaven/Cataclysm-DDA/pull/70360))
 * Routine i18n updates on 23 December 2023 ([#70373](https://github.com/CleverRaven/Cataclysm-DDA/pull/70373))
 * Fix yield of diluting hydrogen peroxide ([#70396](https://github.com/CleverRaven/Cataclysm-DDA/pull/70396))
 * [Content] Update furniture-tools.json ([#70392](https://github.com/CleverRaven/Cataclysm-DDA/pull/70392))
