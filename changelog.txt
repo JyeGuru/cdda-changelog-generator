@@ -1,3 +1,4 @@
+* Prevent segfault on unload_activity_actor (#70575)
 * Routine tileset updates on 01 January 2024 (#70569)
 * Remove Murrsuits, Adjust HWP EXODIC Conversion, Add Filk (#70563)
 * Remove bridgehead_ramp vehicle nests (#70568)
@@ -87,7 +88,6 @@
 * Reduces manhack weight to more reasonable and realistic levels (~5kg to 1.5kg) (#70403)
 * color indicated failure to drop items into vehicle space (#70411)
 * Pants& professions (#70376)
-* Routine i18n updates on 23 December 2023 (#70373)
 * Fix yield of diluting hydrogen peroxide (#70396)
 * [Content] Update furniture-tools.json (#70392)
 * fix proficiency precision lost in EoC (#70383)
