@@ -1,3 +1,5 @@
+* Remove Murrsuits, Adjust HWP EXODIC Conversion, Add Filk ([#70563](https://github.com/CleverRaven/Cataclysm-DDA/pull/70563))
+* Remove bridgehead_ramp vehicle nests ([#70568](https://github.com/CleverRaven/Cataclysm-DDA/pull/70568))
 * Cataclysm DDA - Plushies! ([#70554](https://github.com/CleverRaven/Cataclysm-DDA/pull/70554))
 * [MoM] Fix invalid proficiency category ([#70556](https://github.com/CleverRaven/Cataclysm-DDA/pull/70556))
 * [Bombastic Perks] Perk fixes ([#70538](https://github.com/CleverRaven/Cataclysm-DDA/pull/70538))
@@ -76,7 +78,6 @@
 * Fix: Correct dynamic line for Olwen in godco ([#70419](https://github.com/CleverRaven/Cataclysm-DDA/pull/70419))
 * Fix using variables for spawning items ([#70391](https://github.com/CleverRaven/Cataclysm-DDA/pull/70391))
 * Fix batch EOC recipes ([#70390](https://github.com/CleverRaven/Cataclysm-DDA/pull/70390))
-* Added sword tags back onto wooden training swords. ([#70367](https://github.com/CleverRaven/Cataclysm-DDA/pull/70367))
 * Don't compare bool to float 0.0 ([#70422](https://github.com/CleverRaven/Cataclysm-DDA/pull/70422))
 * Handgun is one word ([#70418](https://github.com/CleverRaven/Cataclysm-DDA/pull/70418))
 * [MoM] Make "Dimensionally Unstable" effect from Nether Attunement shorter ([#70372](https://github.com/CleverRaven/Cataclysm-DDA/pull/70372))
@@ -90,4 +91,3 @@
 * Fix yield of diluting hydrogen peroxide ([#70396](https://github.com/CleverRaven/Cataclysm-DDA/pull/70396))
 * [Content] Update furniture-tools.json ([#70392](https://github.com/CleverRaven/Cataclysm-DDA/pull/70392))
 * fix proficiency precision lost in EoC ([#70383](https://github.com/CleverRaven/Cataclysm-DDA/pull/70383))
-* Another density cleanups, and more ([#70370](https://github.com/CleverRaven/Cataclysm-DDA/pull/70370))
