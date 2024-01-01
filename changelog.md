@@ -1,3 +1,4 @@
+* fix performance of the map view after reading a map ([#70574](https://github.com/CleverRaven/Cataclysm-DDA/pull/70574))
 * Prevent segfault on unload_activity_actor ([#70575](https://github.com/CleverRaven/Cataclysm-DDA/pull/70575))
 * Routine tileset updates on 01 January 2024 ([#70569](https://github.com/CleverRaven/Cataclysm-DDA/pull/70569))
 * Remove Murrsuits, Adjust HWP EXODIC Conversion, Add Filk ([#70563](https://github.com/CleverRaven/Cataclysm-DDA/pull/70563))
