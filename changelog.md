@@ -1,3 +1,4 @@
+* remove note about common nuclear energy from the design docs ([#70605](https://github.com/CleverRaven/Cataclysm-DDA/pull/70605))
 * Amphibian Additions - Treefrogs ([#70535](https://github.com/CleverRaven/Cataclysm-DDA/pull/70535))
 * Fixed hub 14 computer giving infinite schematics ([#70587](https://github.com/CleverRaven/Cataclysm-DDA/pull/70587))
 * Fix impassable broken vehicle parts ([#70560](https://github.com/CleverRaven/Cataclysm-DDA/pull/70560))
@@ -34,7 +35,6 @@
 * [MoM] Fix two bugs ([#70511](https://github.com/CleverRaven/Cataclysm-DDA/pull/70511))
 * Simplify generic mine mutable definition ([#70512](https://github.com/CleverRaven/Cataclysm-DDA/pull/70512))
 * Do not redefine SDL_MAIN_HANDLED ([#70492](https://github.com/CleverRaven/Cataclysm-DDA/pull/70492))
-* Add some weapons to their corresponding melee practices ([#70385](https://github.com/CleverRaven/Cataclysm-DDA/pull/70385))
 * [Sky Island] Correct warped pond shard cost ([#70503](https://github.com/CleverRaven/Cataclysm-DDA/pull/70503))
 * Cataclysm: Book Days Ahead ([#70491](https://github.com/CleverRaven/Cataclysm-DDA/pull/70491))
 * Slightly fewer allocations in npc::process_turn ([#70498](https://github.com/CleverRaven/Cataclysm-DDA/pull/70498))
