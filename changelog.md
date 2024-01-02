@@ -1,3 +1,5 @@
+* Amphibian Additions - Treefrogs ([#70535](https://github.com/CleverRaven/Cataclysm-DDA/pull/70535))
+* Fixed hub 14 computer giving infinite schematics ([#70587](https://github.com/CleverRaven/Cataclysm-DDA/pull/70587))
 * Fix impassable broken vehicle parts ([#70560](https://github.com/CleverRaven/Cataclysm-DDA/pull/70560))
 * The anjelo guy holybooks again ([#70521](https://github.com/CleverRaven/Cataclysm-DDA/pull/70521))
 * Fix: Count charges in all nearby smoking racks to crafting inventory ([#70557](https://github.com/CleverRaven/Cataclysm-DDA/pull/70557))
@@ -37,7 +39,6 @@
 * Cataclysm: Book Days Ahead ([#70491](https://github.com/CleverRaven/Cataclysm-DDA/pull/70491))
 * Slightly fewer allocations in npc::process_turn ([#70498](https://github.com/CleverRaven/Cataclysm-DDA/pull/70498))
 * [MoM] Change success formula for psionic powers ([#70499](https://github.com/CleverRaven/Cataclysm-DDA/pull/70499))
-* Audit field scientist corpses map extra ([#70381](https://github.com/CleverRaven/Cataclysm-DDA/pull/70381))
 * Weekly Changelog 2023-12-18 to 2023-12-25 ([#70425](https://github.com/CleverRaven/Cataclysm-DDA/pull/70425))
 * [MoM] Migrate awakening variables from global to u_, (II) ([#70486](https://github.com/CleverRaven/Cataclysm-DDA/pull/70486))
 * No accidental full-time deconstruct for simple furniture ([#70494](https://github.com/CleverRaven/Cataclysm-DDA/pull/70494))
@@ -92,4 +93,3 @@
 * color indicated failure to drop items into vehicle space ([#70411](https://github.com/CleverRaven/Cataclysm-DDA/pull/70411))
 * Fix yield of diluting hydrogen peroxide ([#70396](https://github.com/CleverRaven/Cataclysm-DDA/pull/70396))
 * [Content] Update furniture-tools.json ([#70392](https://github.com/CleverRaven/Cataclysm-DDA/pull/70392))
-* fix proficiency precision lost in EoC ([#70383](https://github.com/CleverRaven/Cataclysm-DDA/pull/70383))
