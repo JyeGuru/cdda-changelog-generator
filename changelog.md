@@ -1,3 +1,5 @@
+* more and better zed miner drops ([#70572](https://github.com/CleverRaven/Cataclysm-DDA/pull/70572))
+* [MoM] Feral psion attack updates ([#70590](https://github.com/CleverRaven/Cataclysm-DDA/pull/70590))
 * Add `int_id_set` and swap global `mon_flag_str_id`s to `mon_flag_id`s. ([#70588](https://github.com/CleverRaven/Cataclysm-DDA/pull/70588))
 * Obsolete rural biome mod ([#70609](https://github.com/CleverRaven/Cataclysm-DDA/pull/70609))
 * remove note about common nuclear energy from the design docs ([#70605](https://github.com/CleverRaven/Cataclysm-DDA/pull/70605))
@@ -84,7 +86,6 @@
 * Don't discard [[nodiscard]] result of clamping npc attributes ([#70421](https://github.com/CleverRaven/Cataclysm-DDA/pull/70421))
 * Fix get_rating bound clamping ([#70420](https://github.com/CleverRaven/Cataclysm-DDA/pull/70420))
 * Fix: Correct dynamic line for Olwen in godco ([#70419](https://github.com/CleverRaven/Cataclysm-DDA/pull/70419))
-* Fix using variables for spawning items ([#70391](https://github.com/CleverRaven/Cataclysm-DDA/pull/70391))
 * Don't compare bool to float 0.0 ([#70422](https://github.com/CleverRaven/Cataclysm-DDA/pull/70422))
 * Handgun is one word ([#70418](https://github.com/CleverRaven/Cataclysm-DDA/pull/70418))
 * Fix cabled-only pseudo-tools, part 2 ([#70410](https://github.com/CleverRaven/Cataclysm-DDA/pull/70410))
@@ -92,4 +93,3 @@
 * Reduces manhack weight to more reasonable and realistic levels (~5kg to 1.5kg) ([#70403](https://github.com/CleverRaven/Cataclysm-DDA/pull/70403))
 * color indicated failure to drop items into vehicle space ([#70411](https://github.com/CleverRaven/Cataclysm-DDA/pull/70411))
 * Fix yield of diluting hydrogen peroxide ([#70396](https://github.com/CleverRaven/Cataclysm-DDA/pull/70396))
-* [Content] Update furniture-tools.json ([#70392](https://github.com/CleverRaven/Cataclysm-DDA/pull/70392))
