@@ -1,3 +1,4 @@
+* Introduces dormant zombies (#70600)
 * [MoM] Power learning revamp: Electrokinesis (#70539)
 * [ Xedra Evolved ] Add missing dissection proficiencies to Xedra Evolved monsters (#70545)
 * Fix minor cramped space errors (#70607)
@@ -65,7 +66,6 @@
 * Using visitor's pass or freight badge tries to reveal TCL in larger radius (#70480)
 * Kill one pigeon (#70487)
 * Further receiver cleanups (#70473)
-* Arvore, Salamander and Undine map extras (#70402)
 * [ Xedra Evolved ] Bugfix Renfield Zombifies Into error (#70407)
 * Bugfix Fern looks like grass but collides with vehicle in ASCII #70428 (#70430)
 * Fix Invisbility (#70456)
