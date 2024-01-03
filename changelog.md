@@ -1,3 +1,4 @@
+* Obsolete Blaze Industries - maintainer required. ([#70612](https://github.com/CleverRaven/Cataclysm-DDA/pull/70612))
 * more and better zed miner drops ([#70572](https://github.com/CleverRaven/Cataclysm-DDA/pull/70572))
 * [MoM] Feral psion attack updates ([#70590](https://github.com/CleverRaven/Cataclysm-DDA/pull/70590))
 * Add `int_id_set` and swap global `mon_flag_str_id`s to `mon_flag_id`s. ([#70588](https://github.com/CleverRaven/Cataclysm-DDA/pull/70588))
@@ -24,7 +25,6 @@
 * [Desert region] Simplifies water replacement nests ([#70527](https://github.com/CleverRaven/Cataclysm-DDA/pull/70527))
 * Fixes zone farming segmentation fault ([#70468](https://github.com/CleverRaven/Cataclysm-DDA/pull/70468))
 * [DinoMod] plesiosaurus ([#70513](https://github.com/CleverRaven/Cataclysm-DDA/pull/70513))
-* Add dwarfism and gigantism traits, vehicle disability aids ([#70393](https://github.com/CleverRaven/Cataclysm-DDA/pull/70393))
 * Old labs spawn walls when bordering lab_subway ([#70519](https://github.com/CleverRaven/Cataclysm-DDA/pull/70519))
 * fix: typos and spacing corrections ([#70523](https://github.com/CleverRaven/Cataclysm-DDA/pull/70523))
 * [innawood] Removes duplicate vanilla pond file ([#70525](https://github.com/CleverRaven/Cataclysm-DDA/pull/70525))
