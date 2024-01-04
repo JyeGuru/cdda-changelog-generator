@@ -1,3 +1,5 @@
+* [MoM] Itzcuauhtli uniform changes ([#70621](https://github.com/CleverRaven/Cataclysm-DDA/pull/70621))
+* Missed Christmas ([#70469](https://github.com/CleverRaven/Cataclysm-DDA/pull/70469))
 * Pocket mods now support inheritance ([#70625](https://github.com/CleverRaven/Cataclysm-DDA/pull/70625))
 * Hub now offers armor set printing after the HWP is unlocked ([#70614](https://github.com/CleverRaven/Cataclysm-DDA/pull/70614))
 * Signal flares stay lit but not for 30 minutes ([#70606](https://github.com/CleverRaven/Cataclysm-DDA/pull/70606))
@@ -84,7 +86,6 @@
 * innawood- change ranged weapon recipe ([#70414](https://github.com/CleverRaven/Cataclysm-DDA/pull/70414))
 * One last time; fixes "copy-from" for fungal bee. ([#70439](https://github.com/CleverRaven/Cataclysm-DDA/pull/70439))
 * Fix portal dungeon giving reward without entering the vortex, scale said reward ([#70413](https://github.com/CleverRaven/Cataclysm-DDA/pull/70413))
-* fix spell mutations are not activated ([#70412](https://github.com/CleverRaven/Cataclysm-DDA/pull/70412))
 * Bugfix Aftershock: Exosuit Pocket Length Issues #70158 ([#70431](https://github.com/CleverRaven/Cataclysm-DDA/pull/70431))
 * Fix bug with spell removing item casting it. ([#70424](https://github.com/CleverRaven/Cataclysm-DDA/pull/70424))
 * Don't discard [[nodiscard]] result of clamping npc attributes ([#70421](https://github.com/CleverRaven/Cataclysm-DDA/pull/70421))
@@ -92,4 +93,3 @@
 * Fix: Correct dynamic line for Olwen in godco ([#70419](https://github.com/CleverRaven/Cataclysm-DDA/pull/70419))
 * Don't compare bool to float 0.0 ([#70422](https://github.com/CleverRaven/Cataclysm-DDA/pull/70422))
 * Handgun is one word ([#70418](https://github.com/CleverRaven/Cataclysm-DDA/pull/70418))
-* color indicated failure to drop items into vehicle space ([#70411](https://github.com/CleverRaven/Cataclysm-DDA/pull/70411))
