@@ -1,3 +1,4 @@
+* [MoM] Add new telekinesis power--knockdown ([#70623](https://github.com/CleverRaven/Cataclysm-DDA/pull/70623))
 * [MoM] Itzcuauhtli uniform changes ([#70621](https://github.com/CleverRaven/Cataclysm-DDA/pull/70621))
 * Missed Christmas ([#70469](https://github.com/CleverRaven/Cataclysm-DDA/pull/70469))
 * Pocket mods now support inheritance ([#70625](https://github.com/CleverRaven/Cataclysm-DDA/pull/70625))
@@ -85,7 +86,6 @@
 * [MoM] Stop Photokinetics from learning non-existant recipes ([#70438](https://github.com/CleverRaven/Cataclysm-DDA/pull/70438))
 * innawood- change ranged weapon recipe ([#70414](https://github.com/CleverRaven/Cataclysm-DDA/pull/70414))
 * One last time; fixes "copy-from" for fungal bee. ([#70439](https://github.com/CleverRaven/Cataclysm-DDA/pull/70439))
-* Fix portal dungeon giving reward without entering the vortex, scale said reward ([#70413](https://github.com/CleverRaven/Cataclysm-DDA/pull/70413))
 * Bugfix Aftershock: Exosuit Pocket Length Issues #70158 ([#70431](https://github.com/CleverRaven/Cataclysm-DDA/pull/70431))
 * Fix bug with spell removing item casting it. ([#70424](https://github.com/CleverRaven/Cataclysm-DDA/pull/70424))
 * Don't discard [[nodiscard]] result of clamping npc attributes ([#70421](https://github.com/CleverRaven/Cataclysm-DDA/pull/70421))
