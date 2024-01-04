@@ -1,3 +1,4 @@
+* Weekly Changelog 2023-12-25 to 2024-01-01 ([#70570](https://github.com/CleverRaven/Cataclysm-DDA/pull/70570))
 * [ Xedra Evolved ] Paraclesian spawn rate and locations ([#70601](https://github.com/CleverRaven/Cataclysm-DDA/pull/70601))
 * Remove an unused data member ([#70616](https://github.com/CleverRaven/Cataclysm-DDA/pull/70616))
 * Make mi-go 8x less likely to bark ([#70635](https://github.com/CleverRaven/Cataclysm-DDA/pull/70635))
@@ -92,4 +93,3 @@
 * [MoM] Stop Photokinetics from learning non-existant recipes ([#70438](https://github.com/CleverRaven/Cataclysm-DDA/pull/70438))
 * One last time; fixes "copy-from" for fungal bee. ([#70439](https://github.com/CleverRaven/Cataclysm-DDA/pull/70439))
 * Bugfix Aftershock: Exosuit Pocket Length Issues #70158 ([#70431](https://github.com/CleverRaven/Cataclysm-DDA/pull/70431))
-* Fix bug with spell removing item casting it. ([#70424](https://github.com/CleverRaven/Cataclysm-DDA/pull/70424))
