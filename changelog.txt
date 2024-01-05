@@ -61,7 +61,6 @@
 * Cataclysm: Book Days Ahead (#70491)
 * Slightly fewer allocations in npc::process_turn (#70498)
 * [MoM] Change success formula for psionic powers (#70499)
-* Weekly Changelog 2023-12-18 to 2023-12-25 (#70425)
 * [MoM] Migrate awakening variables from global to u_, (II) (#70486)
 * No accidental full-time deconstruct for simple furniture (#70494)
 * [Sky Island] Allow difficulty selection for Warp Home spell (#70442)
