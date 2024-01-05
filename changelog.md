@@ -1,3 +1,4 @@
+* Implement basic saline infusion to help with blood loss ([#70566](https://github.com/CleverRaven/Cataclysm-DDA/pull/70566))
 * Modded map weight field audit ([#70477](https://github.com/CleverRaven/Cataclysm-DDA/pull/70477))
 * Specials audit to kick the new year off ([#70577](https://github.com/CleverRaven/Cataclysm-DDA/pull/70577))
 * Denim expansion ([#70534](https://github.com/CleverRaven/Cataclysm-DDA/pull/70534))
@@ -90,4 +91,3 @@
 * Added a pocket for photographs to lockets. ([#70445](https://github.com/CleverRaven/Cataclysm-DDA/pull/70445))
 * Banish SDL_main ([#70446](https://github.com/CleverRaven/Cataclysm-DDA/pull/70446))
 * fix 2000 bags with 1 sand ([#70444](https://github.com/CleverRaven/Cataclysm-DDA/pull/70444))
-* One last time; fixes "copy-from" for fungal bee. ([#70439](https://github.com/CleverRaven/Cataclysm-DDA/pull/70439))
