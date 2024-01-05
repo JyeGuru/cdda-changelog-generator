@@ -1,3 +1,4 @@
+* Fix #70640 ([#70665](https://github.com/CleverRaven/Cataclysm-DDA/pull/70665))
 * Implement basic saline infusion to help with blood loss ([#70566](https://github.com/CleverRaven/Cataclysm-DDA/pull/70566))
 * Modded map weight field audit ([#70477](https://github.com/CleverRaven/Cataclysm-DDA/pull/70477))
 * Specials audit to kick the new year off ([#70577](https://github.com/CleverRaven/Cataclysm-DDA/pull/70577))
@@ -69,7 +70,6 @@
 * [MoM] Change success formula for psionic powers ([#70499](https://github.com/CleverRaven/Cataclysm-DDA/pull/70499))
 * [MoM] Migrate awakening variables from global to u_, (II) ([#70486](https://github.com/CleverRaven/Cataclysm-DDA/pull/70486))
 * No accidental full-time deconstruct for simple furniture ([#70494](https://github.com/CleverRaven/Cataclysm-DDA/pull/70494))
-* [Sky Island] Allow difficulty selection for Warp Home spell ([#70442](https://github.com/CleverRaven/Cataclysm-DDA/pull/70442))
 * Fix passable_only option ([#70459](https://github.com/CleverRaven/Cataclysm-DDA/pull/70459))
 * Made PC construction prefer empty containers ([#70451](https://github.com/CleverRaven/Cataclysm-DDA/pull/70451))
 * Good Soldiers Wear Tags ([#70496](https://github.com/CleverRaven/Cataclysm-DDA/pull/70496))
