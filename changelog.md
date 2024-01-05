@@ -90,5 +90,4 @@
 * Added a pocket for photographs to lockets. ([#70445](https://github.com/CleverRaven/Cataclysm-DDA/pull/70445))
 * Banish SDL_main ([#70446](https://github.com/CleverRaven/Cataclysm-DDA/pull/70446))
 * fix 2000 bags with 1 sand ([#70444](https://github.com/CleverRaven/Cataclysm-DDA/pull/70444))
-* [MoM] Stop Photokinetics from learning non-existant recipes ([#70438](https://github.com/CleverRaven/Cataclysm-DDA/pull/70438))
 * One last time; fixes "copy-from" for fungal bee. ([#70439](https://github.com/CleverRaven/Cataclysm-DDA/pull/70439))
