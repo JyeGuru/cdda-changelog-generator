@@ -1,3 +1,4 @@
+* Denim expansion ([#70534](https://github.com/CleverRaven/Cataclysm-DDA/pull/70534))
 * [MoM] Power learning revamp: Teleportation ([#70615](https://github.com/CleverRaven/Cataclysm-DDA/pull/70615))
 * Backport optimizations from new pathfinder into old one.  ([#70639](https://github.com/CleverRaven/Cataclysm-DDA/pull/70639))
 * Weekly Changelog 2023-12-25 to 2024-01-01 ([#70570](https://github.com/CleverRaven/Cataclysm-DDA/pull/70570))
@@ -86,7 +87,6 @@
 * Fix clang warning ([#70458](https://github.com/CleverRaven/Cataclysm-DDA/pull/70458))
 * Added a pocket for photographs to lockets. ([#70445](https://github.com/CleverRaven/Cataclysm-DDA/pull/70445))
 * convert `items` to `entries` in profession itemgroups ([#70437](https://github.com/CleverRaven/Cataclysm-DDA/pull/70437))
-* [MOM] Wakeful Rest Removes Sleep Deprivation and Fatigue ([#70433](https://github.com/CleverRaven/Cataclysm-DDA/pull/70433))
 * Nag Hammadi Codex ([#70436](https://github.com/CleverRaven/Cataclysm-DDA/pull/70436))
 * Banish SDL_main ([#70446](https://github.com/CleverRaven/Cataclysm-DDA/pull/70446))
 * fix 2000 bags with 1 sand ([#70444](https://github.com/CleverRaven/Cataclysm-DDA/pull/70444))
