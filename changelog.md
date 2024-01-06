@@ -1,3 +1,4 @@
+* [Xedra Evolved] More Arvore Traits ([#70648](https://github.com/CleverRaven/Cataclysm-DDA/pull/70648))
 * unbind SHOW_HIDE_CONTENTS_ALL by default ([#70674](https://github.com/CleverRaven/Cataclysm-DDA/pull/70674))
 * Don't calculate safe speed for stationary vehicles for SFX ([#70676](https://github.com/CleverRaven/Cataclysm-DDA/pull/70676))
 * Small snippet stuff ([#70508](https://github.com/CleverRaven/Cataclysm-DDA/pull/70508))
@@ -91,4 +92,3 @@
 * [Sky Island] Add dedicated crafting tab ([#70463](https://github.com/CleverRaven/Cataclysm-DDA/pull/70463))
 * fix nonexistent Mandeep world situation response ([#70460](https://github.com/CleverRaven/Cataclysm-DDA/pull/70460))
 * Fix clang warning ([#70458](https://github.com/CleverRaven/Cataclysm-DDA/pull/70458))
-* Banish SDL_main ([#70446](https://github.com/CleverRaven/Cataclysm-DDA/pull/70446))
