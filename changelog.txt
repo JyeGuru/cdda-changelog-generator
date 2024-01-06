@@ -1,3 +1,5 @@
+* unbind SHOW_HIDE_CONTENTS_ALL by default (#70674)
+* Don't calculate safe speed for stationary vehicles for SFX (#70676)
 * Small snippet stuff (#70508)
 * Fix #70640 (#70665)
 * Implement basic saline infusion to help with blood loss (#70566)
@@ -89,6 +91,4 @@
 * [Sky Island] Add dedicated crafting tab (#70463)
 * fix nonexistent Mandeep world situation response (#70460)
 * Fix clang warning (#70458)
-* Added a pocket for photographs to lockets. (#70445)
 * Banish SDL_main (#70446)
-* fix 2000 bags with 1 sand (#70444)
