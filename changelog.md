@@ -1,3 +1,4 @@
+* Fix clang-tidy error in map::creature_on_trap() in map.cpp ([#70696](https://github.com/CleverRaven/Cataclysm-DDA/pull/70696))
 * Fixed special optional overmap field ([#70677](https://github.com/CleverRaven/Cataclysm-DDA/pull/70677))
 * Fix flexbuffer cache post-c++-17 migration ([#70688](https://github.com/CleverRaven/Cataclysm-DDA/pull/70688))
 * Fix spell failure bug with underflow ([#70686](https://github.com/CleverRaven/Cataclysm-DDA/pull/70686))
@@ -92,4 +93,3 @@
 * Further receiver cleanups ([#70473](https://github.com/CleverRaven/Cataclysm-DDA/pull/70473))
 * [Sky Island] Add dedicated crafting tab ([#70463](https://github.com/CleverRaven/Cataclysm-DDA/pull/70463))
 * fix nonexistent Mandeep world situation response ([#70460](https://github.com/CleverRaven/Cataclysm-DDA/pull/70460))
-* Fix clang warning ([#70458](https://github.com/CleverRaven/Cataclysm-DDA/pull/70458))
