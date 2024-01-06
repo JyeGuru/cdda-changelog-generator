@@ -1,3 +1,4 @@
+* Fixed special optional overmap field ([#70677](https://github.com/CleverRaven/Cataclysm-DDA/pull/70677))
 * Fix flexbuffer cache post-c++-17 migration ([#70688](https://github.com/CleverRaven/Cataclysm-DDA/pull/70688))
 * Fix spell failure bug with underflow ([#70686](https://github.com/CleverRaven/Cataclysm-DDA/pull/70686))
 * [Xedra Evolved] Add Great Tree elemental eruption map special ([#70683](https://github.com/CleverRaven/Cataclysm-DDA/pull/70683))
@@ -89,7 +90,6 @@
 * Using visitor's pass or freight badge tries to reveal TCL in larger radius ([#70480](https://github.com/CleverRaven/Cataclysm-DDA/pull/70480))
 * Kill one pigeon ([#70487](https://github.com/CleverRaven/Cataclysm-DDA/pull/70487))
 * Further receiver cleanups ([#70473](https://github.com/CleverRaven/Cataclysm-DDA/pull/70473))
-* Fix Invisbility ([#70456](https://github.com/CleverRaven/Cataclysm-DDA/pull/70456))
 * [Sky Island] Add dedicated crafting tab ([#70463](https://github.com/CleverRaven/Cataclysm-DDA/pull/70463))
 * fix nonexistent Mandeep world situation response ([#70460](https://github.com/CleverRaven/Cataclysm-DDA/pull/70460))
 * Fix clang warning ([#70458](https://github.com/CleverRaven/Cataclysm-DDA/pull/70458))
