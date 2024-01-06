@@ -1,3 +1,4 @@
+* Add Treetops even should Github bar the way ([#70669](https://github.com/CleverRaven/Cataclysm-DDA/pull/70669))
 * Correct Operators of Armor and Attack Speed Values ([#70604](https://github.com/CleverRaven/Cataclysm-DDA/pull/70604))
 * Removed FANCY and SUPER_FANCY from a bunch of items ([#70716](https://github.com/CleverRaven/Cataclysm-DDA/pull/70716))
 * fix some denim recipes and add uncraft for new recipes ([#70680](https://github.com/CleverRaven/Cataclysm-DDA/pull/70680))
@@ -90,5 +91,4 @@
 * Good Soldiers Wear Tags ([#70496](https://github.com/CleverRaven/Cataclysm-DDA/pull/70496))
 * Visitors Passes and Freight Badges no longer reveal roads ([#70495](https://github.com/CleverRaven/Cataclysm-DDA/pull/70495))
 * Add `rng_get_first_seed` and use it in `cata_test` ([#70497](https://github.com/CleverRaven/Cataclysm-DDA/pull/70497))
-* Correctly increment iterator in Creature::process_damage_over_time() ([#70483](https://github.com/CleverRaven/Cataclysm-DDA/pull/70483))
 * Kill one pigeon ([#70487](https://github.com/CleverRaven/Cataclysm-DDA/pull/70487))
