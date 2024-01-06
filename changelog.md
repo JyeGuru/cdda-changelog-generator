@@ -1,3 +1,4 @@
+* Add missing translations in some places in GUI ([#70698](https://github.com/CleverRaven/Cataclysm-DDA/pull/70698))
 * Extract martial technique condition descriptions for translation ([#70695](https://github.com/CleverRaven/Cataclysm-DDA/pull/70695))
 * Initialize the booleans ([#70700](https://github.com/CleverRaven/Cataclysm-DDA/pull/70700))
 * Correct some grammar in the monster special attack docs ([#70709](https://github.com/CleverRaven/Cataclysm-DDA/pull/70709))
@@ -92,4 +93,3 @@
 * Using visitor's pass or freight badge tries to reveal TCL in larger radius ([#70480](https://github.com/CleverRaven/Cataclysm-DDA/pull/70480))
 * Kill one pigeon ([#70487](https://github.com/CleverRaven/Cataclysm-DDA/pull/70487))
 * Further receiver cleanups ([#70473](https://github.com/CleverRaven/Cataclysm-DDA/pull/70473))
-* [Sky Island] Add dedicated crafting tab ([#70463](https://github.com/CleverRaven/Cataclysm-DDA/pull/70463))
