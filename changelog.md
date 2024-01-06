@@ -1,3 +1,4 @@
+* Small snippet stuff ([#70508](https://github.com/CleverRaven/Cataclysm-DDA/pull/70508))
 * Fix #70640 ([#70665](https://github.com/CleverRaven/Cataclysm-DDA/pull/70665))
 * Implement basic saline infusion to help with blood loss ([#70566](https://github.com/CleverRaven/Cataclysm-DDA/pull/70566))
 * Modded map weight field audit ([#70477](https://github.com/CleverRaven/Cataclysm-DDA/pull/70477))
