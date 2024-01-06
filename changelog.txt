@@ -1,3 +1,5 @@
+* Initialize the booleans (#70700)
+* Correct some grammar in the monster special attack docs (#70709)
 * Fix clang-tidy error in map::creature_on_trap() in map.cpp (#70696)
 * Fixed special optional overmap field (#70677)
 * Fix flexbuffer cache post-c++-17 migration (#70688)
@@ -79,7 +81,6 @@
 * [MoM] Change success formula for psionic powers (#70499)
 * [MoM] Migrate awakening variables from global to u_, (II) (#70486)
 * No accidental full-time deconstruct for simple furniture (#70494)
-* Fix passable_only option (#70459)
 * Good Soldiers Wear Tags (#70496)
 * Visitors Passes and Freight Badges no longer reveal roads (#70495)
 * Add `rng_get_first_seed` and use it in `cata_test` (#70497)
@@ -92,4 +93,3 @@
 * Kill one pigeon (#70487)
 * Further receiver cleanups (#70473)
 * [Sky Island] Add dedicated crafting tab (#70463)
-* fix nonexistent Mandeep world situation response (#70460)
