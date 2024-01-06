@@ -1,3 +1,4 @@
+* Fix flexbuffer cache post-c++-17 migration ([#70688](https://github.com/CleverRaven/Cataclysm-DDA/pull/70688))
 * Fix spell failure bug with underflow ([#70686](https://github.com/CleverRaven/Cataclysm-DDA/pull/70686))
 * [Xedra Evolved] Add Great Tree elemental eruption map special ([#70683](https://github.com/CleverRaven/Cataclysm-DDA/pull/70683))
 * Add missing was_loaded initialization ([#70668](https://github.com/CleverRaven/Cataclysm-DDA/pull/70668))
@@ -81,7 +82,6 @@
 * Visitors Passes and Freight Badges no longer reveal roads ([#70495](https://github.com/CleverRaven/Cataclysm-DDA/pull/70495))
 * Add `rng_get_first_seed` and use it in `cata_test` ([#70497](https://github.com/CleverRaven/Cataclysm-DDA/pull/70497))
 * Correctly increment iterator in Creature::process_damage_over_time() ([#70483](https://github.com/CleverRaven/Cataclysm-DDA/pull/70483))
-* Yet another density cleanup ([#70455](https://github.com/CleverRaven/Cataclysm-DDA/pull/70455))
 * [Xedra Evolved] Maintenance ([#70465](https://github.com/CleverRaven/Cataclysm-DDA/pull/70465))
 * Fix json for weighted list EOC ([#70462](https://github.com/CleverRaven/Cataclysm-DDA/pull/70462))
 * Some Iterator Fixes for Crushing Leap ([#70478](https://github.com/CleverRaven/Cataclysm-DDA/pull/70478))
