@@ -1,3 +1,4 @@
+* Extract martial technique condition descriptions for translation ([#70695](https://github.com/CleverRaven/Cataclysm-DDA/pull/70695))
 * Initialize the booleans ([#70700](https://github.com/CleverRaven/Cataclysm-DDA/pull/70700))
 * Correct some grammar in the monster special attack docs ([#70709](https://github.com/CleverRaven/Cataclysm-DDA/pull/70709))
 * Fix clang-tidy error in map::creature_on_trap() in map.cpp ([#70696](https://github.com/CleverRaven/Cataclysm-DDA/pull/70696))
@@ -86,7 +87,6 @@
 * Add `rng_get_first_seed` and use it in `cata_test` ([#70497](https://github.com/CleverRaven/Cataclysm-DDA/pull/70497))
 * Correctly increment iterator in Creature::process_damage_over_time() ([#70483](https://github.com/CleverRaven/Cataclysm-DDA/pull/70483))
 * [Xedra Evolved] Maintenance ([#70465](https://github.com/CleverRaven/Cataclysm-DDA/pull/70465))
-* Fix json for weighted list EOC ([#70462](https://github.com/CleverRaven/Cataclysm-DDA/pull/70462))
 * Some Iterator Fixes for Crushing Leap ([#70478](https://github.com/CleverRaven/Cataclysm-DDA/pull/70478))
 * Handle invalid mod pocket contents ([#70475](https://github.com/CleverRaven/Cataclysm-DDA/pull/70475))
 * Using visitor's pass or freight badge tries to reveal TCL in larger radius ([#70480](https://github.com/CleverRaven/Cataclysm-DDA/pull/70480))
