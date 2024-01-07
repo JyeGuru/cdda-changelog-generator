@@ -90,4 +90,3 @@
 * Outfit matches randomly chosen gender identities. ([#70507](https://github.com/CleverRaven/Cataclysm-DDA/pull/70507))
 * [MoM] Fix two bugs ([#70511](https://github.com/CleverRaven/Cataclysm-DDA/pull/70511))
 * Simplify generic mine mutable definition ([#70512](https://github.com/CleverRaven/Cataclysm-DDA/pull/70512))
-* [Sky Island] Correct warped pond shard cost ([#70503](https://github.com/CleverRaven/Cataclysm-DDA/pull/70503))
