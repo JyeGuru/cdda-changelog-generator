@@ -1,3 +1,5 @@
+* Initialize reset_item_vars ([#70713](https://github.com/CleverRaven/Cataclysm-DDA/pull/70713))
+* [Magiclysm] fix aura_werewolf giving nonexistent mutation ([#70719](https://github.com/CleverRaven/Cataclysm-DDA/pull/70719))
 * Even more religious books ([#70656](https://github.com/CleverRaven/Cataclysm-DDA/pull/70656))
 * [MoM] Power learning revamp: Telekinesis ([#70729](https://github.com/CleverRaven/Cataclysm-DDA/pull/70729))
 * [Xedra Evolved] Add some Ierde traits ([#70732](https://github.com/CleverRaven/Cataclysm-DDA/pull/70732))
@@ -89,5 +91,3 @@
 * [MoM] Fix two bugs ([#70511](https://github.com/CleverRaven/Cataclysm-DDA/pull/70511))
 * Simplify generic mine mutable definition ([#70512](https://github.com/CleverRaven/Cataclysm-DDA/pull/70512))
 * [Sky Island] Correct warped pond shard cost ([#70503](https://github.com/CleverRaven/Cataclysm-DDA/pull/70503))
-* Slightly fewer allocations in npc::process_turn ([#70498](https://github.com/CleverRaven/Cataclysm-DDA/pull/70498))
-* [MoM] Change success formula for psionic powers ([#70499](https://github.com/CleverRaven/Cataclysm-DDA/pull/70499))
