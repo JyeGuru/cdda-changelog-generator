@@ -1,3 +1,5 @@
+* properly migrate mean_mug and nice_mug ([#70746](https://github.com/CleverRaven/Cataclysm-DDA/pull/70746))
+* [Xedra Evolved] Add Arvore Overgrowth spell ([#70748](https://github.com/CleverRaven/Cataclysm-DDA/pull/70748))
 * Initialize reset_item_vars ([#70713](https://github.com/CleverRaven/Cataclysm-DDA/pull/70713))
 * [Magiclysm] fix aura_werewolf giving nonexistent mutation ([#70719](https://github.com/CleverRaven/Cataclysm-DDA/pull/70719))
 * Even more religious books ([#70656](https://github.com/CleverRaven/Cataclysm-DDA/pull/70656))
@@ -86,7 +88,5 @@
 * Fix clang-tidy warning in rng_get_first_seed() ([#70518](https://github.com/CleverRaven/Cataclysm-DDA/pull/70518))
 * Routine i18n updates on 30 December 2023 ([#70517](https://github.com/CleverRaven/Cataclysm-DDA/pull/70517))
 * Fixes for auto consume issue ([#70516](https://github.com/CleverRaven/Cataclysm-DDA/pull/70516))
-* [MoM] Maintain science extra parity with mainline ([#70504](https://github.com/CleverRaven/Cataclysm-DDA/pull/70504))
-* Outfit matches randomly chosen gender identities. ([#70507](https://github.com/CleverRaven/Cataclysm-DDA/pull/70507))
 * [MoM] Fix two bugs ([#70511](https://github.com/CleverRaven/Cataclysm-DDA/pull/70511))
 * Simplify generic mine mutable definition ([#70512](https://github.com/CleverRaven/Cataclysm-DDA/pull/70512))
