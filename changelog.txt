@@ -91,4 +91,3 @@
 * Good Soldiers Wear Tags (#70496)
 * Visitors Passes and Freight Badges no longer reveal roads (#70495)
 * Add `rng_get_first_seed` and use it in `cata_test` (#70497)
-* Kill one pigeon (#70487)
