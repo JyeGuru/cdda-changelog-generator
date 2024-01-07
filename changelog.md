@@ -1,3 +1,4 @@
+* Remove infinite aluminum abuse ([#70722](https://github.com/CleverRaven/Cataclysm-DDA/pull/70722))
 * Add Treetops even should Github bar the way ([#70669](https://github.com/CleverRaven/Cataclysm-DDA/pull/70669))
 * Correct Operators of Armor and Attack Speed Values ([#70604](https://github.com/CleverRaven/Cataclysm-DDA/pull/70604))
 * Removed FANCY and SUPER_FANCY from a bunch of items ([#70716](https://github.com/CleverRaven/Cataclysm-DDA/pull/70716))
@@ -86,7 +87,6 @@
 * Cataclysm: Book Days Ahead ([#70491](https://github.com/CleverRaven/Cataclysm-DDA/pull/70491))
 * Slightly fewer allocations in npc::process_turn ([#70498](https://github.com/CleverRaven/Cataclysm-DDA/pull/70498))
 * [MoM] Change success formula for psionic powers ([#70499](https://github.com/CleverRaven/Cataclysm-DDA/pull/70499))
-* [MoM] Migrate awakening variables from global to u_, (II) ([#70486](https://github.com/CleverRaven/Cataclysm-DDA/pull/70486))
 * No accidental full-time deconstruct for simple furniture ([#70494](https://github.com/CleverRaven/Cataclysm-DDA/pull/70494))
 * Good Soldiers Wear Tags ([#70496](https://github.com/CleverRaven/Cataclysm-DDA/pull/70496))
 * Visitors Passes and Freight Badges no longer reveal roads ([#70495](https://github.com/CleverRaven/Cataclysm-DDA/pull/70495))
