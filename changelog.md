@@ -1,3 +1,4 @@
+* Even more religious books ([#70656](https://github.com/CleverRaven/Cataclysm-DDA/pull/70656))
 * [MoM] Power learning revamp: Telekinesis ([#70729](https://github.com/CleverRaven/Cataclysm-DDA/pull/70729))
 * [Xedra Evolved] Add some Ierde traits ([#70732](https://github.com/CleverRaven/Cataclysm-DDA/pull/70732))
 * Check validity of Win32 file names ([#70589](https://github.com/CleverRaven/Cataclysm-DDA/pull/70589))
@@ -90,4 +91,3 @@
 * [Sky Island] Correct warped pond shard cost ([#70503](https://github.com/CleverRaven/Cataclysm-DDA/pull/70503))
 * Slightly fewer allocations in npc::process_turn ([#70498](https://github.com/CleverRaven/Cataclysm-DDA/pull/70498))
 * [MoM] Change success formula for psionic powers ([#70499](https://github.com/CleverRaven/Cataclysm-DDA/pull/70499))
-* Add `rng_get_first_seed` and use it in `cata_test` ([#70497](https://github.com/CleverRaven/Cataclysm-DDA/pull/70497))
