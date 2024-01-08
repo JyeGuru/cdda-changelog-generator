@@ -32,7 +32,6 @@
 * [Xedra Evolved] More Arvore Traits ([#70648](https://github.com/CleverRaven/Cataclysm-DDA/pull/70648))
 * unbind SHOW_HIDE_CONTENTS_ALL by default ([#70674](https://github.com/CleverRaven/Cataclysm-DDA/pull/70674))
 * Don't calculate safe speed for stationary vehicles for SFX ([#70676](https://github.com/CleverRaven/Cataclysm-DDA/pull/70676))
-* Small snippet stuff ([#70508](https://github.com/CleverRaven/Cataclysm-DDA/pull/70508))
 * Fix #70640 ([#70665](https://github.com/CleverRaven/Cataclysm-DDA/pull/70665))
 * Implement basic saline infusion to help with blood loss ([#70566](https://github.com/CleverRaven/Cataclysm-DDA/pull/70566))
 * Specials audit to kick the new year off ([#70577](https://github.com/CleverRaven/Cataclysm-DDA/pull/70577))
