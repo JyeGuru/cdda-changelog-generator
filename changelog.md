@@ -1,3 +1,5 @@
+* Fix typo in some monster attack messages ([#70775](https://github.com/CleverRaven/Cataclysm-DDA/pull/70775))
+* tgz_archiver: skip symlink check ([#70779](https://github.com/CleverRaven/Cataclysm-DDA/pull/70779))
 * [Xedra Evolved] Add Homullus goblin fruit spell ([#70761](https://github.com/CleverRaven/Cataclysm-DDA/pull/70761))
 * [Xedra Evolved] Give Arvore vines (but toggleable) ([#70763](https://github.com/CleverRaven/Cataclysm-DDA/pull/70763))
 * Extract nested monster attack messages for translation ([#70772](https://github.com/CleverRaven/Cataclysm-DDA/pull/70772))
@@ -87,5 +89,3 @@
 * [Sky Island] Fix Warped Beacon ([#70537](https://github.com/CleverRaven/Cataclysm-DDA/pull/70537))
 * [MoM] Psi equation fixes ([#70536](https://github.com/CleverRaven/Cataclysm-DDA/pull/70536))
 * [Desert region] Simplifies water replacement nests ([#70527](https://github.com/CleverRaven/Cataclysm-DDA/pull/70527))
-* [innawood] Removes duplicate vanilla pond file ([#70525](https://github.com/CleverRaven/Cataclysm-DDA/pull/70525))
-* [Xedra Evolved] Move vampire lodge to it's own special ([#70524](https://github.com/CleverRaven/Cataclysm-DDA/pull/70524))
