@@ -1,3 +1,4 @@
+* Generalize dormant zombie type generation with a flag ([#70632](https://github.com/CleverRaven/Cataclysm-DDA/pull/70632))
 * Seasoned scrambled and fried eggs ([#70711](https://github.com/CleverRaven/Cataclysm-DDA/pull/70711))
 * Fix typo in some monster attack messages ([#70775](https://github.com/CleverRaven/Cataclysm-DDA/pull/70775))
 * tgz_archiver: skip symlink check ([#70779](https://github.com/CleverRaven/Cataclysm-DDA/pull/70779))
