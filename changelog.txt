@@ -1,3 +1,4 @@
+* Seasoned scrambled and fried eggs (#70711)
 * Fix typo in some monster attack messages (#70775)
 * tgz_archiver: skip symlink check (#70779)
 * [Xedra Evolved] Add Homullus goblin fruit spell (#70761)
@@ -88,4 +89,3 @@
 * [MoM] Add missing biokin recipes (#70551)
 * [Sky Island] Fix Warped Beacon (#70537)
 * [MoM] Psi equation fixes (#70536)
-* [Desert region] Simplifies water replacement nests (#70527)
