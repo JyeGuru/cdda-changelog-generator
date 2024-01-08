@@ -1,3 +1,5 @@
+* Recipe consistency for tallow and stomaches. Recipes for small and large tin cans. ([#70690](https://github.com/CleverRaven/Cataclysm-DDA/pull/70690))
+* Autodrive over bridges ([#70737](https://github.com/CleverRaven/Cataclysm-DDA/pull/70737))
 * properly migrate mean_mug and nice_mug ([#70746](https://github.com/CleverRaven/Cataclysm-DDA/pull/70746))
 * [Xedra Evolved] Add Arvore Overgrowth spell ([#70748](https://github.com/CleverRaven/Cataclysm-DDA/pull/70748))
 * Initialize reset_item_vars ([#70713](https://github.com/CleverRaven/Cataclysm-DDA/pull/70713))
@@ -87,5 +89,3 @@
 * Fix clang-tidy warning in rng_get_first_seed() ([#70518](https://github.com/CleverRaven/Cataclysm-DDA/pull/70518))
 * Routine i18n updates on 30 December 2023 ([#70517](https://github.com/CleverRaven/Cataclysm-DDA/pull/70517))
 * Fixes for auto consume issue ([#70516](https://github.com/CleverRaven/Cataclysm-DDA/pull/70516))
-* [MoM] Fix two bugs ([#70511](https://github.com/CleverRaven/Cataclysm-DDA/pull/70511))
-* Simplify generic mine mutable definition ([#70512](https://github.com/CleverRaven/Cataclysm-DDA/pull/70512))
