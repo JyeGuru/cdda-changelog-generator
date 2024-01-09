@@ -1,3 +1,4 @@
+* Magazine Audit - .22LR Magazines (#70785)
 * Update version strings for experimental branch. (#70664)
 * Road connections for specials always start on land (#70682)
 * adjust some values for denim items and un-denim flannel jacket (#70778)
@@ -88,5 +89,4 @@
 * fix performance of the map view after reading a map (#70574)
 * Prevent segfault on unload_activity_actor (#70575)
 * Routine tileset updates on 01 January 2024 (#70569)
-* Remove Murrsuits, Adjust HWP EXODIC Conversion, Add Filk (#70563)
 * Remove bridgehead_ramp vehicle nests (#70568)
