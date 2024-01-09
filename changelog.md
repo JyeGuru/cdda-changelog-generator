@@ -1,3 +1,4 @@
+* Add bronze variants to many recipes.  ([#70712](https://github.com/CleverRaven/Cataclysm-DDA/pull/70712))
 * Fix: Stable vehicle speeds with autotravel ([#70780](https://github.com/CleverRaven/Cataclysm-DDA/pull/70780))
 * Generalize dormant zombie type generation with a flag ([#70632](https://github.com/CleverRaven/Cataclysm-DDA/pull/70632))
 * Seasoned scrambled and fried eggs ([#70711](https://github.com/CleverRaven/Cataclysm-DDA/pull/70711))
@@ -75,7 +76,6 @@
 * Add `int_id_set` and swap global `mon_flag_str_id`s to `mon_flag_id`s. ([#70588](https://github.com/CleverRaven/Cataclysm-DDA/pull/70588))
 * Obsolete rural biome mod ([#70609](https://github.com/CleverRaven/Cataclysm-DDA/pull/70609))
 * remove note about common nuclear energy from the design docs ([#70605](https://github.com/CleverRaven/Cataclysm-DDA/pull/70605))
-* Amphibian Additions - Treefrogs ([#70535](https://github.com/CleverRaven/Cataclysm-DDA/pull/70535))
 * Fixed hub 14 computer giving infinite schematics ([#70587](https://github.com/CleverRaven/Cataclysm-DDA/pull/70587))
 * Fix impassable broken vehicle parts ([#70560](https://github.com/CleverRaven/Cataclysm-DDA/pull/70560))
 * Fix: Count charges in all nearby smoking racks to crafting inventory ([#70557](https://github.com/CleverRaven/Cataclysm-DDA/pull/70557))
