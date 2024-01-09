@@ -1,3 +1,4 @@
+* pocket_type::EBOOK can retain their contents through converted ([#70755](https://github.com/CleverRaven/Cataclysm-DDA/pull/70755))
 * Mutable Alpha/Beta Talker in `run_eoc_with` ([#70733](https://github.com/CleverRaven/Cataclysm-DDA/pull/70733))
 * Add bronze variants to many recipes.  ([#70712](https://github.com/CleverRaven/Cataclysm-DDA/pull/70712))
 * Fix: Stable vehicle speeds with autotravel ([#70780](https://github.com/CleverRaven/Cataclysm-DDA/pull/70780))
@@ -89,4 +90,3 @@
 * [MoM] Fix invalid proficiency category ([#70556](https://github.com/CleverRaven/Cataclysm-DDA/pull/70556))
 * [Bombastic Perks] Perk fixes ([#70538](https://github.com/CleverRaven/Cataclysm-DDA/pull/70538))
 * [MoM] Add missing biokin recipes ([#70551](https://github.com/CleverRaven/Cataclysm-DDA/pull/70551))
-* [Sky Island] Fix Warped Beacon ([#70537](https://github.com/CleverRaven/Cataclysm-DDA/pull/70537))

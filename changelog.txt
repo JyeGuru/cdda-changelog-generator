@@ -1,3 +1,4 @@
+* pocket_type::EBOOK can retain their contents through converted (#70755)
 * Mutable Alpha/Beta Talker in `run_eoc_with` (#70733)
 * Add bronze variants to many recipes.  (#70712)
 * Fix: Stable vehicle speeds with autotravel (#70780)
@@ -89,4 +90,3 @@
 * [MoM] Fix invalid proficiency category (#70556)
 * [Bombastic Perks] Perk fixes (#70538)
 * [MoM] Add missing biokin recipes (#70551)
-* [Sky Island] Fix Warped Beacon (#70537)
