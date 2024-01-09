@@ -1,3 +1,4 @@
+* Fix: Stable vehicle speeds with autotravel ([#70780](https://github.com/CleverRaven/Cataclysm-DDA/pull/70780))
 * Generalize dormant zombie type generation with a flag ([#70632](https://github.com/CleverRaven/Cataclysm-DDA/pull/70632))
 * Seasoned scrambled and fried eggs ([#70711](https://github.com/CleverRaven/Cataclysm-DDA/pull/70711))
 * Fix typo in some monster attack messages ([#70775](https://github.com/CleverRaven/Cataclysm-DDA/pull/70775))
@@ -49,7 +50,6 @@
 * Fix #70640 ([#70665](https://github.com/CleverRaven/Cataclysm-DDA/pull/70665))
 * Implement basic saline infusion to help with blood loss ([#70566](https://github.com/CleverRaven/Cataclysm-DDA/pull/70566))
 * Specials audit to kick the new year off ([#70577](https://github.com/CleverRaven/Cataclysm-DDA/pull/70577))
-* Denim expansion ([#70534](https://github.com/CleverRaven/Cataclysm-DDA/pull/70534))
 * [MoM] Power learning revamp: Teleportation ([#70615](https://github.com/CleverRaven/Cataclysm-DDA/pull/70615))
 * Backport optimizations from new pathfinder into old one.  ([#70639](https://github.com/CleverRaven/Cataclysm-DDA/pull/70639))
 * Weekly Changelog 2023-12-25 to 2024-01-01 ([#70570](https://github.com/CleverRaven/Cataclysm-DDA/pull/70570))
