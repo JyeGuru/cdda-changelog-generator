@@ -1,3 +1,4 @@
+* Add tanned_pelt as another component of fur foot wraps (#70810)
 * Magazine Audit - Russian Calibers, 7.7x58, .38 Special (#70811)
 * [Xedra Evolved] Some generic Paraclesian traits (#70781)
 * [Docs] Update for TILESET.md - added links to the tileset repository (#70798)
@@ -82,7 +83,6 @@
 * Introduces dormant zombies (#70600)
 * Fix minor cramped space errors (#70607)
 * Obsolete Blaze Industries - maintainer required. (#70612)
-* more and better zed miner drops (#70572)
 * [MoM] Feral psion attack updates (#70590)
 * Add `int_id_set` and swap global `mon_flag_str_id`s to `mon_flag_id`s. (#70588)
 * Obsolete rural biome mod (#70609)
