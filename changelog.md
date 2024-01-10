@@ -88,4 +88,3 @@
 * Obsolete rural biome mod ([#70609](https://github.com/CleverRaven/Cataclysm-DDA/pull/70609))
 * remove note about common nuclear energy from the design docs ([#70605](https://github.com/CleverRaven/Cataclysm-DDA/pull/70605))
 * Fixed hub 14 computer giving infinite schematics ([#70587](https://github.com/CleverRaven/Cataclysm-DDA/pull/70587))
-* Prevent segfault on unload_activity_actor ([#70575](https://github.com/CleverRaven/Cataclysm-DDA/pull/70575))
