@@ -1,3 +1,4 @@
+* External option for latitude and longitude (#70693)
 * Hide index.html in build-data/web (#70805)
 * Downward movement bug fix (#70819)
 * Make diet soda junkfood (#70822)
@@ -83,7 +84,6 @@
 * Pocket mods now support inheritance (#70625)
 * Hub now offers armor set printing after the HWP is unlocked (#70614)
 * Signal flares stay lit but not for 30 minutes (#70606)
-* Introduces dormant zombies (#70600)
 * Fix minor cramped space errors (#70607)
 * Obsolete Blaze Industries - maintainer required. (#70612)
 * Obsolete rural biome mod (#70609)
