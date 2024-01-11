@@ -1,3 +1,4 @@
+* Fix the scrapper's trading mission ([#70847](https://github.com/CleverRaven/Cataclysm-DDA/pull/70847))
 * External option for latitude and longitude ([#70693](https://github.com/CleverRaven/Cataclysm-DDA/pull/70693))
 * Hide index.html in build-data/web ([#70805](https://github.com/CleverRaven/Cataclysm-DDA/pull/70805))
 * Downward movement bug fix ([#70819](https://github.com/CleverRaven/Cataclysm-DDA/pull/70819))
@@ -72,7 +73,6 @@
 * Fix #70640 ([#70665](https://github.com/CleverRaven/Cataclysm-DDA/pull/70665))
 * [MoM] Power learning revamp: Teleportation ([#70615](https://github.com/CleverRaven/Cataclysm-DDA/pull/70615))
 * Backport optimizations from new pathfinder into old one.  ([#70639](https://github.com/CleverRaven/Cataclysm-DDA/pull/70639))
-* [ Xedra Evolved ] Paraclesian spawn rate and locations ([#70601](https://github.com/CleverRaven/Cataclysm-DDA/pull/70601))
 * Remove an unused data member ([#70616](https://github.com/CleverRaven/Cataclysm-DDA/pull/70616))
 * Make mi-go 8x less likely to bark ([#70635](https://github.com/CleverRaven/Cataclysm-DDA/pull/70635))
 * [MoM] Edit spell UI a bit for psionics ([#70638](https://github.com/CleverRaven/Cataclysm-DDA/pull/70638))
