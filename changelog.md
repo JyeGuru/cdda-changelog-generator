@@ -1,3 +1,4 @@
+* Fix "Detect missions that are missing .start.assign_mission_target.om_special" errors ([#70845](https://github.com/CleverRaven/Cataclysm-DDA/pull/70845))
 * Fix the scrapper's trading mission ([#70847](https://github.com/CleverRaven/Cataclysm-DDA/pull/70847))
 * External option for latitude and longitude ([#70693](https://github.com/CleverRaven/Cataclysm-DDA/pull/70693))
 * Hide index.html in build-data/web ([#70805](https://github.com/CleverRaven/Cataclysm-DDA/pull/70805))
@@ -49,7 +50,6 @@
 * Optimize item::stacks_with for further load time gains ([#70685](https://github.com/CleverRaven/Cataclysm-DDA/pull/70685))
 * Remove infinite aluminum abuse ([#70722](https://github.com/CleverRaven/Cataclysm-DDA/pull/70722))
 * Add Treetops even should Github bar the way ([#70669](https://github.com/CleverRaven/Cataclysm-DDA/pull/70669))
-* Correct Operators of Armor and Attack Speed Values ([#70604](https://github.com/CleverRaven/Cataclysm-DDA/pull/70604))
 * Removed FANCY and SUPER_FANCY from a bunch of items ([#70716](https://github.com/CleverRaven/Cataclysm-DDA/pull/70716))
 * fix some denim recipes and add uncraft for new recipes ([#70680](https://github.com/CleverRaven/Cataclysm-DDA/pull/70680))
 * Fix crash from reachability zones checking dead NPCs. ([#70687](https://github.com/CleverRaven/Cataclysm-DDA/pull/70687))
