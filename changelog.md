@@ -1,3 +1,4 @@
+* Routine i18n updates on 13 January 2024 ([#70879](https://github.com/CleverRaven/Cataclysm-DDA/pull/70879))
 * Remove duplicate pants from Urban Explorer ([#70851](https://github.com/CleverRaven/Cataclysm-DDA/pull/70851))
 * Misc typo fixes ([#70843](https://github.com/CleverRaven/Cataclysm-DDA/pull/70843))
 * Some Iterator Fixes for Crushing Leap ([#70890](https://github.com/CleverRaven/Cataclysm-DDA/pull/70890))
@@ -37,7 +38,6 @@
 * Mutable Alpha/Beta Talker in `run_eoc_with` ([#70733](https://github.com/CleverRaven/Cataclysm-DDA/pull/70733))
 * Add bronze variants to many recipes.  ([#70712](https://github.com/CleverRaven/Cataclysm-DDA/pull/70712))
 * Fix: Stable vehicle speeds with autotravel ([#70780](https://github.com/CleverRaven/Cataclysm-DDA/pull/70780))
-* Generalize dormant zombie type generation with a flag ([#70632](https://github.com/CleverRaven/Cataclysm-DDA/pull/70632))
 * Seasoned scrambled and fried eggs ([#70711](https://github.com/CleverRaven/Cataclysm-DDA/pull/70711))
 * Fix typo in some monster attack messages ([#70775](https://github.com/CleverRaven/Cataclysm-DDA/pull/70775))
 * tgz_archiver: skip symlink check ([#70779](https://github.com/CleverRaven/Cataclysm-DDA/pull/70779))
