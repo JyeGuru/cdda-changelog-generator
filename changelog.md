@@ -1,3 +1,5 @@
+* Misc typo fixes ([#70843](https://github.com/CleverRaven/Cataclysm-DDA/pull/70843))
+* Some Iterator Fixes for Crushing Leap ([#70890](https://github.com/CleverRaven/Cataclysm-DDA/pull/70890))
 * Add WIP Limb Stuff mod and move mainline limby stuff over ([#70721](https://github.com/CleverRaven/Cataclysm-DDA/pull/70721))
 * Fix msvc version not being released ([#70889](https://github.com/CleverRaven/Cataclysm-DDA/pull/70889))
 * eoc/math: add u_mon_species_nearby() and u_mon_groups_nearby() ([#70865](https://github.com/CleverRaven/Cataclysm-DDA/pull/70865))
@@ -86,5 +88,4 @@
 * Move hobby randomization after set_body() ([#70646](https://github.com/CleverRaven/Cataclysm-DDA/pull/70646))
 * Handle hallucinations in the reachability zones flood fill. ([#70660](https://github.com/CleverRaven/Cataclysm-DDA/pull/70660))
 * Oops. We forgot the error code ([#70657](https://github.com/CleverRaven/Cataclysm-DDA/pull/70657))
-* [MoM] Add new telekinesis power--knockdown ([#70623](https://github.com/CleverRaven/Cataclysm-DDA/pull/70623))
 * Pocket mods now support inheritance ([#70625](https://github.com/CleverRaven/Cataclysm-DDA/pull/70625))
