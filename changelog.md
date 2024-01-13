@@ -1,3 +1,6 @@
+* [MoM] Power learning revamp: Clairsentience ([#70838](https://github.com/CleverRaven/Cataclysm-DDA/pull/70838))
+* Fix the triggers for mutations healing lost limbs ([#70868](https://github.com/CleverRaven/Cataclysm-DDA/pull/70868))
+* Adds Melitzanosalata as a recipe for eggplants ([#70842](https://github.com/CleverRaven/Cataclysm-DDA/pull/70842))
 * [Xedra Evolved] The Forest Offers Shelter bugfix ([#70872](https://github.com/CleverRaven/Cataclysm-DDA/pull/70872))
 * Fix traps ([#70836](https://github.com/CleverRaven/Cataclysm-DDA/pull/70836))
 * add WebAssembly build to release workflow ([#70870](https://github.com/CleverRaven/Cataclysm-DDA/pull/70870))
@@ -85,6 +88,3 @@
 * [MoM] Add new telekinesis power--knockdown ([#70623](https://github.com/CleverRaven/Cataclysm-DDA/pull/70623))
 * [MoM] Itzcuauhtli uniform changes ([#70621](https://github.com/CleverRaven/Cataclysm-DDA/pull/70621))
 * Pocket mods now support inheritance ([#70625](https://github.com/CleverRaven/Cataclysm-DDA/pull/70625))
-* Hub now offers armor set printing after the HWP is unlocked ([#70614](https://github.com/CleverRaven/Cataclysm-DDA/pull/70614))
-* Obsolete Blaze Industries - maintainer required. ([#70612](https://github.com/CleverRaven/Cataclysm-DDA/pull/70612))
-* Obsolete rural biome mod ([#70609](https://github.com/CleverRaven/Cataclysm-DDA/pull/70609))
