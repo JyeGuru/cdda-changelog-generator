@@ -1,3 +1,4 @@
+* [Xedra Evolved] The Forest Offers Shelter bugfix ([#70872](https://github.com/CleverRaven/Cataclysm-DDA/pull/70872))
 * Fix traps ([#70836](https://github.com/CleverRaven/Cataclysm-DDA/pull/70836))
 * add WebAssembly build to release workflow ([#70870](https://github.com/CleverRaven/Cataclysm-DDA/pull/70870))
 * Fix "Detect missions that are missing .start.assign_mission_target.om_special" errors ([#70845](https://github.com/CleverRaven/Cataclysm-DDA/pull/70845))
@@ -85,6 +86,5 @@
 * [MoM] Itzcuauhtli uniform changes ([#70621](https://github.com/CleverRaven/Cataclysm-DDA/pull/70621))
 * Pocket mods now support inheritance ([#70625](https://github.com/CleverRaven/Cataclysm-DDA/pull/70625))
 * Hub now offers armor set printing after the HWP is unlocked ([#70614](https://github.com/CleverRaven/Cataclysm-DDA/pull/70614))
-* Fix minor cramped space errors ([#70607](https://github.com/CleverRaven/Cataclysm-DDA/pull/70607))
 * Obsolete Blaze Industries - maintainer required. ([#70612](https://github.com/CleverRaven/Cataclysm-DDA/pull/70612))
 * Obsolete rural biome mod ([#70609](https://github.com/CleverRaven/Cataclysm-DDA/pull/70609))
