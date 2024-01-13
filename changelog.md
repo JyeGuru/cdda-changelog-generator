@@ -1,3 +1,4 @@
+* eoc/math: add u_mon_species_nearby() and u_mon_groups_nearby() ([#70865](https://github.com/CleverRaven/Cataclysm-DDA/pull/70865))
 * [MoM] Power learning revamp: Clairsentience ([#70838](https://github.com/CleverRaven/Cataclysm-DDA/pull/70838))
 * Fix the triggers for mutations healing lost limbs ([#70868](https://github.com/CleverRaven/Cataclysm-DDA/pull/70868))
 * Adds Melitzanosalata as a recipe for eggplants ([#70842](https://github.com/CleverRaven/Cataclysm-DDA/pull/70842))
@@ -77,7 +78,6 @@
 * unbind SHOW_HIDE_CONTENTS_ALL by default ([#70674](https://github.com/CleverRaven/Cataclysm-DDA/pull/70674))
 * Don't calculate safe speed for stationary vehicles for SFX ([#70676](https://github.com/CleverRaven/Cataclysm-DDA/pull/70676))
 * Fix #70640 ([#70665](https://github.com/CleverRaven/Cataclysm-DDA/pull/70665))
-* [MoM] Power learning revamp: Teleportation ([#70615](https://github.com/CleverRaven/Cataclysm-DDA/pull/70615))
 * Backport optimizations from new pathfinder into old one.  ([#70639](https://github.com/CleverRaven/Cataclysm-DDA/pull/70639))
 * Remove an unused data member ([#70616](https://github.com/CleverRaven/Cataclysm-DDA/pull/70616))
 * Make mi-go 8x less likely to bark ([#70635](https://github.com/CleverRaven/Cataclysm-DDA/pull/70635))
