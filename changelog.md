@@ -1,3 +1,4 @@
+* Fix msvc version not being released ([#70889](https://github.com/CleverRaven/Cataclysm-DDA/pull/70889))
 * eoc/math: add u_mon_species_nearby() and u_mon_groups_nearby() ([#70865](https://github.com/CleverRaven/Cataclysm-DDA/pull/70865))
 * [MoM] Power learning revamp: Clairsentience ([#70838](https://github.com/CleverRaven/Cataclysm-DDA/pull/70838))
 * Fix the triggers for mutations healing lost limbs ([#70868](https://github.com/CleverRaven/Cataclysm-DDA/pull/70868))
@@ -79,7 +80,6 @@
 * Don't calculate safe speed for stationary vehicles for SFX ([#70676](https://github.com/CleverRaven/Cataclysm-DDA/pull/70676))
 * Fix #70640 ([#70665](https://github.com/CleverRaven/Cataclysm-DDA/pull/70665))
 * Backport optimizations from new pathfinder into old one.  ([#70639](https://github.com/CleverRaven/Cataclysm-DDA/pull/70639))
-* Remove an unused data member ([#70616](https://github.com/CleverRaven/Cataclysm-DDA/pull/70616))
 * Make mi-go 8x less likely to bark ([#70635](https://github.com/CleverRaven/Cataclysm-DDA/pull/70635))
 * [MoM] Edit spell UI a bit for psionics ([#70638](https://github.com/CleverRaven/Cataclysm-DDA/pull/70638))
 * Move hobby randomization after set_body() ([#70646](https://github.com/CleverRaven/Cataclysm-DDA/pull/70646))
