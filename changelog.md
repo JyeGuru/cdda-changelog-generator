@@ -1,3 +1,4 @@
+* Minor exodii tweaks ([#70875](https://github.com/CleverRaven/Cataclysm-DDA/pull/70875))
 * Variants to chewing gum ([#70895](https://github.com/CleverRaven/Cataclysm-DDA/pull/70895))
 * Delete gutter_unify.py ([#70899](https://github.com/CleverRaven/Cataclysm-DDA/pull/70899))
 * Quilts and blankets ([#70877](https://github.com/CleverRaven/Cataclysm-DDA/pull/70877))
@@ -86,7 +87,6 @@
 * unbind SHOW_HIDE_CONTENTS_ALL by default ([#70674](https://github.com/CleverRaven/Cataclysm-DDA/pull/70674))
 * Don't calculate safe speed for stationary vehicles for SFX ([#70676](https://github.com/CleverRaven/Cataclysm-DDA/pull/70676))
 * Fix #70640 ([#70665](https://github.com/CleverRaven/Cataclysm-DDA/pull/70665))
-* Backport optimizations from new pathfinder into old one.  ([#70639](https://github.com/CleverRaven/Cataclysm-DDA/pull/70639))
 * Move hobby randomization after set_body() ([#70646](https://github.com/CleverRaven/Cataclysm-DDA/pull/70646))
 * Handle hallucinations in the reachability zones flood fill. ([#70660](https://github.com/CleverRaven/Cataclysm-DDA/pull/70660))
 * Oops. We forgot the error code ([#70657](https://github.com/CleverRaven/Cataclysm-DDA/pull/70657))
