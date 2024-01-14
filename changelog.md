@@ -1,3 +1,5 @@
+* Update JSON_FLAGS.md ([#70736](https://github.com/CleverRaven/Cataclysm-DDA/pull/70736))
+* Modularify H&K UMP ([#70747](https://github.com/CleverRaven/Cataclysm-DDA/pull/70747))
 * Change accent mark to apostrophe in diary UI ([#70915](https://github.com/CleverRaven/Cataclysm-DDA/pull/70915))
 * Items warn on exceeding max volume, unify max volume as a game constant ([#70782](https://github.com/CleverRaven/Cataclysm-DDA/pull/70782))
 * Adds a recipe for leather riding jackets, changes their name to 'motorcycle jacket' ([#70787](https://github.com/CleverRaven/Cataclysm-DDA/pull/70787))
@@ -80,7 +82,6 @@
 * Added various missing leather and patchwork sheet deconstruction recipes and a missing scrap felt deconstruction recipe ([#70691](https://github.com/CleverRaven/Cataclysm-DDA/pull/70691))
 * Remove infinite aluminum abuse ([#70722](https://github.com/CleverRaven/Cataclysm-DDA/pull/70722))
 * Removed FANCY and SUPER_FANCY from a bunch of items ([#70716](https://github.com/CleverRaven/Cataclysm-DDA/pull/70716))
-* Fix crash from reachability zones checking dead NPCs. ([#70687](https://github.com/CleverRaven/Cataclysm-DDA/pull/70687))
 * fix too big spiritual books ([#70706](https://github.com/CleverRaven/Cataclysm-DDA/pull/70706))
 * Audit the weight of some gun magazines ([#70715](https://github.com/CleverRaven/Cataclysm-DDA/pull/70715))
 * feral with fake rapier uses fake rapier damage ([#70705](https://github.com/CleverRaven/Cataclysm-DDA/pull/70705))
@@ -91,4 +92,3 @@
 * Correct some grammar in the monster special attack docs ([#70709](https://github.com/CleverRaven/Cataclysm-DDA/pull/70709))
 * Fix clang-tidy error in map::creature_on_trap() in map.cpp ([#70696](https://github.com/CleverRaven/Cataclysm-DDA/pull/70696))
 * Fix flexbuffer cache post-c++-17 migration ([#70688](https://github.com/CleverRaven/Cataclysm-DDA/pull/70688))
-* Fix spell failure bug with underflow ([#70686](https://github.com/CleverRaven/Cataclysm-DDA/pull/70686))
