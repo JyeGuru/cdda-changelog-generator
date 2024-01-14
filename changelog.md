@@ -1,3 +1,4 @@
+* eoc: replace u_set_hp with math ([#70820](https://github.com/CleverRaven/Cataclysm-DDA/pull/70820))
 * Minor exodii tweaks ([#70875](https://github.com/CleverRaven/Cataclysm-DDA/pull/70875))
 * Variants to chewing gum ([#70895](https://github.com/CleverRaven/Cataclysm-DDA/pull/70895))
 * Delete gutter_unify.py ([#70899](https://github.com/CleverRaven/Cataclysm-DDA/pull/70899))

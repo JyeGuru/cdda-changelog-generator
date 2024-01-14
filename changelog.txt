@@ -1,3 +1,4 @@
+* eoc: replace u_set_hp with math (#70820)
 * Minor exodii tweaks (#70875)
 * Variants to chewing gum (#70895)
 * Delete gutter_unify.py (#70899)
