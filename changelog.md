@@ -1,3 +1,4 @@
+* Fix pathfinding segfault ([#70937](https://github.com/CleverRaven/Cataclysm-DDA/pull/70937))
 * Only init game if we're running tests that need it ([#70901](https://github.com/CleverRaven/Cataclysm-DDA/pull/70901))
 * Make saline infusion give effect on the fly, not in the end ([#70931](https://github.com/CleverRaven/Cataclysm-DDA/pull/70931))
 * [MoM] Add standard checks for powers known to apply contemplation recipes ([#70904](https://github.com/CleverRaven/Cataclysm-DDA/pull/70904))
@@ -90,4 +91,3 @@
 * Add missing translations in some places in GUI ([#70698](https://github.com/CleverRaven/Cataclysm-DDA/pull/70698))
 * Initialize the booleans ([#70700](https://github.com/CleverRaven/Cataclysm-DDA/pull/70700))
 * Correct some grammar in the monster special attack docs ([#70709](https://github.com/CleverRaven/Cataclysm-DDA/pull/70709))
-* Fix clang-tidy error in map::creature_on_trap() in map.cpp ([#70696](https://github.com/CleverRaven/Cataclysm-DDA/pull/70696))
