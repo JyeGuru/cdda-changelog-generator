@@ -1,3 +1,4 @@
+* New hats and caps ([#70786](https://github.com/CleverRaven/Cataclysm-DDA/pull/70786))
 * Update JSON_FLAGS.md ([#70736](https://github.com/CleverRaven/Cataclysm-DDA/pull/70736))
 * Modularify H&K UMP ([#70747](https://github.com/CleverRaven/Cataclysm-DDA/pull/70747))
 * Change accent mark to apostrophe in diary UI ([#70915](https://github.com/CleverRaven/Cataclysm-DDA/pull/70915))
@@ -91,4 +92,3 @@
 * Initialize the booleans ([#70700](https://github.com/CleverRaven/Cataclysm-DDA/pull/70700))
 * Correct some grammar in the monster special attack docs ([#70709](https://github.com/CleverRaven/Cataclysm-DDA/pull/70709))
 * Fix clang-tidy error in map::creature_on_trap() in map.cpp ([#70696](https://github.com/CleverRaven/Cataclysm-DDA/pull/70696))
-* Fix flexbuffer cache post-c++-17 migration ([#70688](https://github.com/CleverRaven/Cataclysm-DDA/pull/70688))
