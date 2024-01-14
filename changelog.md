@@ -1,3 +1,4 @@
+* Change accent mark to apostrophe in diary UI ([#70915](https://github.com/CleverRaven/Cataclysm-DDA/pull/70915))
 * Items warn on exceeding max volume, unify max volume as a game constant ([#70782](https://github.com/CleverRaven/Cataclysm-DDA/pull/70782))
 * Adds a recipe for leather riding jackets, changes their name to 'motorcycle jacket' ([#70787](https://github.com/CleverRaven/Cataclysm-DDA/pull/70787))
 * Update first pass component selection to avoid poison ([#70826](https://github.com/CleverRaven/Cataclysm-DDA/pull/70826))
@@ -77,7 +78,6 @@
 * [MoM] Power learning revamp: Telekinesis ([#70729](https://github.com/CleverRaven/Cataclysm-DDA/pull/70729))
 * [Xedra Evolved] Add some Ierde traits ([#70732](https://github.com/CleverRaven/Cataclysm-DDA/pull/70732))
 * Added various missing leather and patchwork sheet deconstruction recipes and a missing scrap felt deconstruction recipe ([#70691](https://github.com/CleverRaven/Cataclysm-DDA/pull/70691))
-* Optimize item::stacks_with for further load time gains ([#70685](https://github.com/CleverRaven/Cataclysm-DDA/pull/70685))
 * Remove infinite aluminum abuse ([#70722](https://github.com/CleverRaven/Cataclysm-DDA/pull/70722))
 * Removed FANCY and SUPER_FANCY from a bunch of items ([#70716](https://github.com/CleverRaven/Cataclysm-DDA/pull/70716))
 * Fix crash from reachability zones checking dead NPCs. ([#70687](https://github.com/CleverRaven/Cataclysm-DDA/pull/70687))
