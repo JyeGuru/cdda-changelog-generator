@@ -1,3 +1,4 @@
+* Only init game if we're running tests that need it (#70901)
 * Make saline infusion give effect on the fly, not in the end (#70931)
 * [MoM] Add standard checks for powers known to apply contemplation recipes (#70904)
 * Aftershock: OrionBank E-trade network (#70919)
@@ -87,7 +88,6 @@
 * feral with fake rapier uses fake rapier damage (#70705)
 * fix glock 22 nest uses wrong ammo (#70708)
 * Add missing translations in some places in GUI (#70698)
-* Extract martial technique condition descriptions for translation (#70695)
 * Initialize the booleans (#70700)
 * Correct some grammar in the monster special attack docs (#70709)
 * Fix clang-tidy error in map::creature_on_trap() in map.cpp (#70696)
