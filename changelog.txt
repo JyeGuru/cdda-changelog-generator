@@ -1,3 +1,4 @@
+* Quilts and blankets (#70877)
 * Routine i18n updates on 13 January 2024 (#70879)
 * Remove duplicate pants from Urban Explorer (#70851)
 * Misc typo fixes (#70843)
