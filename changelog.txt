@@ -1,3 +1,4 @@
+* Make saline infusion give effect on the fly, not in the end (#70931)
 * [MoM] Add standard checks for powers known to apply contemplation recipes (#70904)
 * Aftershock: OrionBank E-trade network (#70919)
 * New hats and caps (#70786)
@@ -41,7 +42,6 @@
 * add WebAssembly build to release workflow (#70870)
 * Fix "Detect missions that are missing .start.assign_mission_target.om_special" errors (#70845)
 * Fix the scrapper's trading mission (#70847)
-* External option for latitude and longitude (#70693)
 * Hide index.html in build-data/web (#70805)
 * Downward movement bug fix (#70819)
 * Make diet soda junkfood (#70822)
