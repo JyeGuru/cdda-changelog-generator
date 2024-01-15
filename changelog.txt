@@ -1,3 +1,4 @@
+* Fix issue with peeking vertically  (#70957)
 * sentence case the category names (#70773)
 * update FMS (#70857)
 * String extraction script fixes (#70929)
@@ -91,4 +92,3 @@
 * [Xedra Evolved] Add some Ierde traits (#70732)
 * Remove infinite aluminum abuse (#70722)
 * Removed FANCY and SUPER_FANCY from a bunch of items (#70716)
-* Audit the weight of some gun magazines (#70715)
