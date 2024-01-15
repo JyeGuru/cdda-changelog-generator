@@ -1,3 +1,4 @@
+* Fix 2 little bugs in the Evacuee center ([#70966](https://github.com/CleverRaven/Cataclysm-DDA/pull/70966))
 * Magiclysm monster name audit ([#70932](https://github.com/CleverRaven/Cataclysm-DDA/pull/70932))
 * github: build libbacktrace locally and use it for linux/mingw bindist ([#70928](https://github.com/CleverRaven/Cataclysm-DDA/pull/70928))
 * [MoM] Check each body part for poison and badpoison ([#70910](https://github.com/CleverRaven/Cataclysm-DDA/pull/70910))
@@ -70,7 +71,6 @@
 * Disable number invlets in inventory selectors when numpad nav is enabled ([#70804](https://github.com/CleverRaven/Cataclysm-DDA/pull/70804))
 * Magazine Audit - .22LR Magazines ([#70785](https://github.com/CleverRaven/Cataclysm-DDA/pull/70785))
 * adjust some values for denim items and un-denim flannel jacket ([#70778](https://github.com/CleverRaven/Cataclysm-DDA/pull/70778))
-* You can "talk" with exodii workers now ([#70725](https://github.com/CleverRaven/Cataclysm-DDA/pull/70725))
 * Fix #67611 ([#70743](https://github.com/CleverRaven/Cataclysm-DDA/pull/70743))
 * [Xedra Evolved] Paraclesian natural magical growth ([#70751](https://github.com/CleverRaven/Cataclysm-DDA/pull/70751))
 * pocket_type::EBOOK can retain their contents through converted ([#70755](https://github.com/CleverRaven/Cataclysm-DDA/pull/70755))
