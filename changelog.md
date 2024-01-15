@@ -91,4 +91,3 @@
 * [Xedra Evolved] Add Arvore Overgrowth spell ([#70748](https://github.com/CleverRaven/Cataclysm-DDA/pull/70748))
 * [MoM] Power learning revamp: Telekinesis ([#70729](https://github.com/CleverRaven/Cataclysm-DDA/pull/70729))
 * [Xedra Evolved] Add some Ierde traits ([#70732](https://github.com/CleverRaven/Cataclysm-DDA/pull/70732))
-* Remove infinite aluminum abuse ([#70722](https://github.com/CleverRaven/Cataclysm-DDA/pull/70722))
