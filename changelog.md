@@ -1,3 +1,4 @@
+* add hallucinations for kaluptic psychosis trait ([#70949](https://github.com/CleverRaven/Cataclysm-DDA/pull/70949))
 * Fix monster player aggro ([#70938](https://github.com/CleverRaven/Cataclysm-DDA/pull/70938))
 * Correct mistake for the stone tepoztopili recipe ([#70940](https://github.com/CleverRaven/Cataclysm-DDA/pull/70940))
 * Magazine Audit - 12g, .30-06, .338LM, .38 Super, .410, .460 Rowland, .50BMG ([#70912](https://github.com/CleverRaven/Cataclysm-DDA/pull/70912))
@@ -90,5 +91,4 @@
 * Audit the weight of some gun magazines ([#70715](https://github.com/CleverRaven/Cataclysm-DDA/pull/70715))
 * feral with fake rapier uses fake rapier damage ([#70705](https://github.com/CleverRaven/Cataclysm-DDA/pull/70705))
 * fix glock 22 nest uses wrong ammo ([#70708](https://github.com/CleverRaven/Cataclysm-DDA/pull/70708))
-* Initialize the booleans ([#70700](https://github.com/CleverRaven/Cataclysm-DDA/pull/70700))
 * Correct some grammar in the monster special attack docs ([#70709](https://github.com/CleverRaven/Cataclysm-DDA/pull/70709))
