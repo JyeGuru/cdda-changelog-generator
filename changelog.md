@@ -1,3 +1,4 @@
+* sentence case the category names ([#70773](https://github.com/CleverRaven/Cataclysm-DDA/pull/70773))
 * update FMS ([#70857](https://github.com/CleverRaven/Cataclysm-DDA/pull/70857))
 * String extraction script fixes ([#70929](https://github.com/CleverRaven/Cataclysm-DDA/pull/70929))
 * Variants properly pluralize with quantity ([#70944](https://github.com/CleverRaven/Cataclysm-DDA/pull/70944))
@@ -85,7 +86,6 @@
 * Autodrive over bridges ([#70737](https://github.com/CleverRaven/Cataclysm-DDA/pull/70737))
 * properly migrate mean_mug and nice_mug ([#70746](https://github.com/CleverRaven/Cataclysm-DDA/pull/70746))
 * [Xedra Evolved] Add Arvore Overgrowth spell ([#70748](https://github.com/CleverRaven/Cataclysm-DDA/pull/70748))
-* Initialize reset_item_vars ([#70713](https://github.com/CleverRaven/Cataclysm-DDA/pull/70713))
 * [Magiclysm] fix aura_werewolf giving nonexistent mutation ([#70719](https://github.com/CleverRaven/Cataclysm-DDA/pull/70719))
 * [MoM] Power learning revamp: Telekinesis ([#70729](https://github.com/CleverRaven/Cataclysm-DDA/pull/70729))
 * [Xedra Evolved] Add some Ierde traits ([#70732](https://github.com/CleverRaven/Cataclysm-DDA/pull/70732))
