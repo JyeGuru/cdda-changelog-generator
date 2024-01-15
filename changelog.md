@@ -1,3 +1,4 @@
+* String extraction script fixes ([#70929](https://github.com/CleverRaven/Cataclysm-DDA/pull/70929))
 * Variants properly pluralize with quantity ([#70944](https://github.com/CleverRaven/Cataclysm-DDA/pull/70944))
 * Update MAGIC.md and JSON_FLAGS.md ([#70942](https://github.com/CleverRaven/Cataclysm-DDA/pull/70942))
 * [MoM] Power learning revamp: Pyrokinesis ([#70956](https://github.com/CleverRaven/Cataclysm-DDA/pull/70956))
@@ -71,7 +72,6 @@
 * Mutable Alpha/Beta Talker in `run_eoc_with` ([#70733](https://github.com/CleverRaven/Cataclysm-DDA/pull/70733))
 * Add bronze variants to many recipes.  ([#70712](https://github.com/CleverRaven/Cataclysm-DDA/pull/70712))
 * Fix: Stable vehicle speeds with autotravel ([#70780](https://github.com/CleverRaven/Cataclysm-DDA/pull/70780))
-* Seasoned scrambled and fried eggs ([#70711](https://github.com/CleverRaven/Cataclysm-DDA/pull/70711))
 * Fix typo in some monster attack messages ([#70775](https://github.com/CleverRaven/Cataclysm-DDA/pull/70775))
 * tgz_archiver: skip symlink check ([#70779](https://github.com/CleverRaven/Cataclysm-DDA/pull/70779))
 * [Xedra Evolved] Add Homullus goblin fruit spell ([#70761](https://github.com/CleverRaven/Cataclysm-DDA/pull/70761))
