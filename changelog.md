@@ -1,3 +1,4 @@
+* [MoM] Check each body part for poison and badpoison ([#70910](https://github.com/CleverRaven/Cataclysm-DDA/pull/70910))
 * Fix issue with peeking vertically  ([#70957](https://github.com/CleverRaven/Cataclysm-DDA/pull/70957))
 * sentence case the category names ([#70773](https://github.com/CleverRaven/Cataclysm-DDA/pull/70773))
 * update FMS ([#70857](https://github.com/CleverRaven/Cataclysm-DDA/pull/70857))
@@ -91,4 +92,3 @@
 * [MoM] Power learning revamp: Telekinesis ([#70729](https://github.com/CleverRaven/Cataclysm-DDA/pull/70729))
 * [Xedra Evolved] Add some Ierde traits ([#70732](https://github.com/CleverRaven/Cataclysm-DDA/pull/70732))
 * Remove infinite aluminum abuse ([#70722](https://github.com/CleverRaven/Cataclysm-DDA/pull/70722))
-* Removed FANCY and SUPER_FANCY from a bunch of items ([#70716](https://github.com/CleverRaven/Cataclysm-DDA/pull/70716))
