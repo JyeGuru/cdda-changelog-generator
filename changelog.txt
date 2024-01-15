@@ -1,3 +1,4 @@
+* update FMS (#70857)
 * String extraction script fixes (#70929)
 * Variants properly pluralize with quantity (#70944)
 * Update MAGIC.md and JSON_FLAGS.md (#70942)
@@ -70,7 +71,6 @@
 * [Xedra Evolved] Paraclesian natural magical growth (#70751)
 * pocket_type::EBOOK can retain their contents through converted (#70755)
 * Mutable Alpha/Beta Talker in `run_eoc_with` (#70733)
-* Add bronze variants to many recipes.  (#70712)
 * Fix: Stable vehicle speeds with autotravel (#70780)
 * Fix typo in some monster attack messages (#70775)
 * tgz_archiver: skip symlink check (#70779)
