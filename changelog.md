@@ -1,3 +1,4 @@
+* Fix #70997: In npctalk.cpp, some vectors' initializations are wrong ([#70998](https://github.com/CleverRaven/Cataclysm-DDA/pull/70998))
 * Make the pain caused by scurvy less frequent ([#70955](https://github.com/CleverRaven/Cataclysm-DDA/pull/70955))
 * [Xedra Evolved] Add more fae bans for post-threshold Paraclesians ([#70979](https://github.com/CleverRaven/Cataclysm-DDA/pull/70979))
 * Arithmetic is dead. And compare_int. And compare_num. Kinda. Long live the math! ([#70936](https://github.com/CleverRaven/Cataclysm-DDA/pull/70936))
@@ -85,7 +86,6 @@
 * Fix: Stable vehicle speeds with autotravel ([#70780](https://github.com/CleverRaven/Cataclysm-DDA/pull/70780))
 * Fix typo in some monster attack messages ([#70775](https://github.com/CleverRaven/Cataclysm-DDA/pull/70775))
 * tgz_archiver: skip symlink check ([#70779](https://github.com/CleverRaven/Cataclysm-DDA/pull/70779))
-* [Xedra Evolved] Add Homullus goblin fruit spell ([#70761](https://github.com/CleverRaven/Cataclysm-DDA/pull/70761))
 * [Xedra Evolved] Give Arvore vines (but toggleable) ([#70763](https://github.com/CleverRaven/Cataclysm-DDA/pull/70763))
 * Extract nested monster attack messages for translation ([#70772](https://github.com/CleverRaven/Cataclysm-DDA/pull/70772))
 * Only extract singular enchantment names ([#70764](https://github.com/CleverRaven/Cataclysm-DDA/pull/70764))
