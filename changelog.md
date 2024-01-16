@@ -1,3 +1,5 @@
+* [Magiclysm] Scale Magus stat buffs with spell level ([#70907](https://github.com/CleverRaven/Cataclysm-DDA/pull/70907))
+* Add limb tests ([#70924](https://github.com/CleverRaven/Cataclysm-DDA/pull/70924))
 * Allow black/whitelisting hobbies in scenarios, professions, and globally ([#70950](https://github.com/CleverRaven/Cataclysm-DDA/pull/70950))
 * Item variant and gun plural name audit ([#70953](https://github.com/CleverRaven/Cataclysm-DDA/pull/70953))
 * [Xedra Evolved] More Paraclesian spells ([#70961](https://github.com/CleverRaven/Cataclysm-DDA/pull/70961))
@@ -24,7 +26,6 @@
 * [MoM] Add standard checks for powers known to apply contemplation recipes ([#70904](https://github.com/CleverRaven/Cataclysm-DDA/pull/70904))
 * Aftershock: OrionBank E-trade network ([#70919](https://github.com/CleverRaven/Cataclysm-DDA/pull/70919))
 * New hats and caps ([#70786](https://github.com/CleverRaven/Cataclysm-DDA/pull/70786))
-* Update JSON_FLAGS.md ([#70736](https://github.com/CleverRaven/Cataclysm-DDA/pull/70736))
 * Modularify H&K UMP ([#70747](https://github.com/CleverRaven/Cataclysm-DDA/pull/70747))
 * Change accent mark to apostrophe in diary UI ([#70915](https://github.com/CleverRaven/Cataclysm-DDA/pull/70915))
 * Items warn on exceeding max volume, unify max volume as a game constant ([#70782](https://github.com/CleverRaven/Cataclysm-DDA/pull/70782))
