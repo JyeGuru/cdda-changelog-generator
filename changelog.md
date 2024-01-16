@@ -1,3 +1,5 @@
+* [Xedra Evolved] More Paraclesian spells ([#70961](https://github.com/CleverRaven/Cataclysm-DDA/pull/70961))
+* eoc/math: port arithmetic power to math ([#70975](https://github.com/CleverRaven/Cataclysm-DDA/pull/70975))
 * Fix 2 little bugs in the Evacuee center ([#70966](https://github.com/CleverRaven/Cataclysm-DDA/pull/70966))
 * Magiclysm monster name audit ([#70932](https://github.com/CleverRaven/Cataclysm-DDA/pull/70932))
 * github: build libbacktrace locally and use it for linux/mingw bindist ([#70928](https://github.com/CleverRaven/Cataclysm-DDA/pull/70928))
@@ -89,5 +91,4 @@
 * Autodrive over bridges ([#70737](https://github.com/CleverRaven/Cataclysm-DDA/pull/70737))
 * properly migrate mean_mug and nice_mug ([#70746](https://github.com/CleverRaven/Cataclysm-DDA/pull/70746))
 * [Xedra Evolved] Add Arvore Overgrowth spell ([#70748](https://github.com/CleverRaven/Cataclysm-DDA/pull/70748))
-* [MoM] Power learning revamp: Telekinesis ([#70729](https://github.com/CleverRaven/Cataclysm-DDA/pull/70729))
 * [Xedra Evolved] Add some Ierde traits ([#70732](https://github.com/CleverRaven/Cataclysm-DDA/pull/70732))
