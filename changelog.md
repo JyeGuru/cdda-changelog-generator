@@ -1,3 +1,4 @@
+* [MoM] Fix Telekinesis Contemplation recipes ([#70984](https://github.com/CleverRaven/Cataclysm-DDA/pull/70984))
 * Fix segfault when using vehicle tool to hacksaw ([#70945](https://github.com/CleverRaven/Cataclysm-DDA/pull/70945))
 * eoc/math: port item_rad to math ([#70977](https://github.com/CleverRaven/Cataclysm-DDA/pull/70977))
 * [Magiclysm] Scale Magus stat buffs with spell level ([#70907](https://github.com/CleverRaven/Cataclysm-DDA/pull/70907))
@@ -28,7 +29,6 @@
 * [MoM] Add standard checks for powers known to apply contemplation recipes ([#70904](https://github.com/CleverRaven/Cataclysm-DDA/pull/70904))
 * Aftershock: OrionBank E-trade network ([#70919](https://github.com/CleverRaven/Cataclysm-DDA/pull/70919))
 * New hats and caps ([#70786](https://github.com/CleverRaven/Cataclysm-DDA/pull/70786))
-* Modularify H&K UMP ([#70747](https://github.com/CleverRaven/Cataclysm-DDA/pull/70747))
 * Change accent mark to apostrophe in diary UI ([#70915](https://github.com/CleverRaven/Cataclysm-DDA/pull/70915))
 * Items warn on exceeding max volume, unify max volume as a game constant ([#70782](https://github.com/CleverRaven/Cataclysm-DDA/pull/70782))
 * Adds a recipe for leather riding jackets, changes their name to 'motorcycle jacket' ([#70787](https://github.com/CleverRaven/Cataclysm-DDA/pull/70787))
