@@ -1,3 +1,4 @@
+* move condition functions to cpp file ([#70808](https://github.com/CleverRaven/Cataclysm-DDA/pull/70808))
 * 2 unicorn plushies, some typo fixes ([#70985](https://github.com/CleverRaven/Cataclysm-DDA/pull/70985))
 * Fix #70997: In npctalk.cpp, some vectors' initializations are wrong ([#70998](https://github.com/CleverRaven/Cataclysm-DDA/pull/70998))
 * Make the pain caused by scurvy less frequent ([#70955](https://github.com/CleverRaven/Cataclysm-DDA/pull/70955))
@@ -88,7 +89,6 @@
 * Fix typo in some monster attack messages ([#70775](https://github.com/CleverRaven/Cataclysm-DDA/pull/70775))
 * tgz_archiver: skip symlink check ([#70779](https://github.com/CleverRaven/Cataclysm-DDA/pull/70779))
 * Extract nested monster attack messages for translation ([#70772](https://github.com/CleverRaven/Cataclysm-DDA/pull/70772))
-* Only extract singular enchantment names ([#70764](https://github.com/CleverRaven/Cataclysm-DDA/pull/70764))
 * Fix new line in crash log when SDL message box cannot be created ([#70767](https://github.com/CleverRaven/Cataclysm-DDA/pull/70767))
 * Fix deprecated suffix operator syntax ([#70768](https://github.com/CleverRaven/Cataclysm-DDA/pull/70768))
 * Include unistd.h for getpid on MSYS2 ([#70769](https://github.com/CleverRaven/Cataclysm-DDA/pull/70769))
