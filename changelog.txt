@@ -1,3 +1,4 @@
+* Make the pain caused by scurvy less frequent (#70955)
 * [Xedra Evolved] Add more fae bans for post-threshold Paraclesians (#70979)
 * Arithmetic is dead. And compare_int. And compare_num. Kinda. Long live the math! (#70936)
 * Allow EoCs to use mutate_towards (#70967)
