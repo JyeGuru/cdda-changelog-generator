@@ -91,4 +91,3 @@
 * Fix deprecated suffix operator syntax ([#70768](https://github.com/CleverRaven/Cataclysm-DDA/pull/70768))
 * Include unistd.h for getpid on MSYS2 ([#70769](https://github.com/CleverRaven/Cataclysm-DDA/pull/70769))
 * Do not reject . and .. when checking path validity ([#70770](https://github.com/CleverRaven/Cataclysm-DDA/pull/70770))
-* [Xedra Evolved] Add Arvore Overgrowth spell ([#70748](https://github.com/CleverRaven/Cataclysm-DDA/pull/70748))

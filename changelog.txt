@@ -91,4 +91,3 @@
 * Fix deprecated suffix operator syntax (#70768)
 * Include unistd.h for getpid on MSYS2 (#70769)
 * Do not reject . and .. when checking path validity (#70770)
-* [Xedra Evolved] Add Arvore Overgrowth spell (#70748)
