@@ -1,3 +1,5 @@
+* Allow black/whitelisting hobbies in scenarios, professions, and globally ([#70950](https://github.com/CleverRaven/Cataclysm-DDA/pull/70950))
+* Item variant and gun plural name audit ([#70953](https://github.com/CleverRaven/Cataclysm-DDA/pull/70953))
 * [Xedra Evolved] More Paraclesian spells ([#70961](https://github.com/CleverRaven/Cataclysm-DDA/pull/70961))
 * eoc/math: port arithmetic power to math ([#70975](https://github.com/CleverRaven/Cataclysm-DDA/pull/70975))
 * Fix 2 little bugs in the Evacuee center ([#70966](https://github.com/CleverRaven/Cataclysm-DDA/pull/70966))
@@ -76,7 +78,6 @@
 * Fix #67611 ([#70743](https://github.com/CleverRaven/Cataclysm-DDA/pull/70743))
 * [Xedra Evolved] Paraclesian natural magical growth ([#70751](https://github.com/CleverRaven/Cataclysm-DDA/pull/70751))
 * pocket_type::EBOOK can retain their contents through converted ([#70755](https://github.com/CleverRaven/Cataclysm-DDA/pull/70755))
-* Mutable Alpha/Beta Talker in `run_eoc_with` ([#70733](https://github.com/CleverRaven/Cataclysm-DDA/pull/70733))
 * Fix: Stable vehicle speeds with autotravel ([#70780](https://github.com/CleverRaven/Cataclysm-DDA/pull/70780))
 * Fix typo in some monster attack messages ([#70775](https://github.com/CleverRaven/Cataclysm-DDA/pull/70775))
 * tgz_archiver: skip symlink check ([#70779](https://github.com/CleverRaven/Cataclysm-DDA/pull/70779))
@@ -91,4 +92,3 @@
 * Autodrive over bridges ([#70737](https://github.com/CleverRaven/Cataclysm-DDA/pull/70737))
 * properly migrate mean_mug and nice_mug ([#70746](https://github.com/CleverRaven/Cataclysm-DDA/pull/70746))
 * [Xedra Evolved] Add Arvore Overgrowth spell ([#70748](https://github.com/CleverRaven/Cataclysm-DDA/pull/70748))
-* [Xedra Evolved] Add some Ierde traits ([#70732](https://github.com/CleverRaven/Cataclysm-DDA/pull/70732))
