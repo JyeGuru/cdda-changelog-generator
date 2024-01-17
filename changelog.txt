@@ -1,3 +1,5 @@
+* Some mutant animal harvest fixes + Mutant salmon evolution (#71003)
+* [Xedra Evolved] More Sylph traits (#70999)
 * Fixed sieve recipe (#71009)
 * Fix u_is_outside mutation condition crashing the game (#71011)
 * math_parser: add has_var() and value_or() (#70995)
@@ -90,6 +92,4 @@
 * [Docs] Update for TILESET.md - added links to the tileset repository (#70798)
 * Disable number invlets in inventory selectors when numpad nav is enabled (#70804)
 * Magazine Audit - .22LR Magazines (#70785)
-* adjust some values for denim items and un-denim flannel jacket (#70778)
 * Fix: Stable vehicle speeds with autotravel (#70780)
-* tgz_archiver: skip symlink check (#70779)
