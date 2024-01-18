@@ -1,3 +1,4 @@
+* fix mutagen groups in mods ([#71034](https://github.com/CleverRaven/Cataclysm-DDA/pull/71034))
 * Standardizes smoothing levels by making brick constructions use level 1 and concrete ones level 2 ([#70863](https://github.com/CleverRaven/Cataclysm-DDA/pull/70863))
 * Do not attempt initialize audio if built without ([#70893](https://github.com/CleverRaven/Cataclysm-DDA/pull/70893))
 * Standardise graded steel references again ([#70948](https://github.com/CleverRaven/Cataclysm-DDA/pull/70948))
@@ -63,7 +64,6 @@
 * Change accent mark to apostrophe in diary UI ([#70915](https://github.com/CleverRaven/Cataclysm-DDA/pull/70915))
 * #68633 Avoid duplicates in speed adjustments ([#70831](https://github.com/CleverRaven/Cataclysm-DDA/pull/70831))
 * [Content] Frog legs, chicken of the mountains! ([#70864](https://github.com/CleverRaven/Cataclysm-DDA/pull/70864))
-* [MoM] Switch rng to rand for Nether Attunement ([#70830](https://github.com/CleverRaven/Cataclysm-DDA/pull/70830))
 * Crabapples and Rosehip Nerf ([#70839](https://github.com/CleverRaven/Cataclysm-DDA/pull/70839))
 * Scrapper NPC now calls soldering wire solder. ([#70844](https://github.com/CleverRaven/Cataclysm-DDA/pull/70844))
 * [Content] [Balance] Thread, yarn, and fabric audit and additions. ([#70850](https://github.com/CleverRaven/Cataclysm-DDA/pull/70850))
