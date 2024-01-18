@@ -1,3 +1,4 @@
+* Skip water when bringing home logging results ([#71020](https://github.com/CleverRaven/Cataclysm-DDA/pull/71020))
 * Some mutant animal harvest fixes + Mutant salmon evolution ([#71003](https://github.com/CleverRaven/Cataclysm-DDA/pull/71003))
 * [Xedra Evolved] More Sylph traits ([#70999](https://github.com/CleverRaven/Cataclysm-DDA/pull/70999))
 * Fixed sieve recipe ([#71009](https://github.com/CleverRaven/Cataclysm-DDA/pull/71009))
@@ -88,7 +89,6 @@
 * Magazine Audit - .30, .32, .44, .50AE, 5.45, 5.7, 7.62x39 ([#70835](https://github.com/CleverRaven/Cataclysm-DDA/pull/70835))
 * Add tanned_pelt as another component of fur foot wraps ([#70810](https://github.com/CleverRaven/Cataclysm-DDA/pull/70810))
 * Magazine Audit - Russian Calibers, 7.7x58, .38 Special ([#70811](https://github.com/CleverRaven/Cataclysm-DDA/pull/70811))
-* [Xedra Evolved] Some generic Paraclesian traits ([#70781](https://github.com/CleverRaven/Cataclysm-DDA/pull/70781))
 * [Docs] Update for TILESET.md - added links to the tileset repository ([#70798](https://github.com/CleverRaven/Cataclysm-DDA/pull/70798))
 * Disable number invlets in inventory selectors when numpad nav is enabled ([#70804](https://github.com/CleverRaven/Cataclysm-DDA/pull/70804))
 * Magazine Audit - .22LR Magazines ([#70785](https://github.com/CleverRaven/Cataclysm-DDA/pull/70785))
