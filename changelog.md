@@ -61,7 +61,6 @@
 * [MoM] Add standard checks for powers known to apply contemplation recipes ([#70904](https://github.com/CleverRaven/Cataclysm-DDA/pull/70904))
 * Aftershock: OrionBank E-trade network ([#70919](https://github.com/CleverRaven/Cataclysm-DDA/pull/70919))
 * Change accent mark to apostrophe in diary UI ([#70915](https://github.com/CleverRaven/Cataclysm-DDA/pull/70915))
-* Update first pass component selection to avoid poison ([#70826](https://github.com/CleverRaven/Cataclysm-DDA/pull/70826))
 * #68633 Avoid duplicates in speed adjustments ([#70831](https://github.com/CleverRaven/Cataclysm-DDA/pull/70831))
 * [Content] Frog legs, chicken of the mountains! ([#70864](https://github.com/CleverRaven/Cataclysm-DDA/pull/70864))
 * [MoM] Switch rng to rand for Nether Attunement ([#70830](https://github.com/CleverRaven/Cataclysm-DDA/pull/70830))
