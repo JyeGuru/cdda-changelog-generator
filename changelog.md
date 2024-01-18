@@ -89,5 +89,4 @@
 * add WebAssembly build to release workflow ([#70870](https://github.com/CleverRaven/Cataclysm-DDA/pull/70870))
 * Fix "Detect missions that are missing .start.assign_mission_target.om_special" errors ([#70845](https://github.com/CleverRaven/Cataclysm-DDA/pull/70845))
 * Fix the scrapper's trading mission ([#70847](https://github.com/CleverRaven/Cataclysm-DDA/pull/70847))
-* Update snippets_nightmares.json ([#70829](https://github.com/CleverRaven/Cataclysm-DDA/pull/70829))
 * Magazine Audit - .30, .32, .44, .50AE, 5.45, 5.7, 7.62x39 ([#70835](https://github.com/CleverRaven/Cataclysm-DDA/pull/70835))
