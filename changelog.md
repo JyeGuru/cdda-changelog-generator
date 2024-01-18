@@ -1,3 +1,4 @@
+* Standardizes smoothing levels by making brick constructions use level 1 and concrete ones level 2 ([#70863](https://github.com/CleverRaven/Cataclysm-DDA/pull/70863))
 * Do not attempt initialize audio if built without ([#70893](https://github.com/CleverRaven/Cataclysm-DDA/pull/70893))
 * Standardise graded steel references again ([#70948](https://github.com/CleverRaven/Cataclysm-DDA/pull/70948))
 * Balance the energy consumption of 1-cylinder diesel engine ([#70960](https://github.com/CleverRaven/Cataclysm-DDA/pull/70960))
@@ -71,7 +72,6 @@
 * [Xedra Evolved] Add Treesinging to Arvore ([#70853](https://github.com/CleverRaven/Cataclysm-DDA/pull/70853))
 * Mesoamerican weaponry ([#70855](https://github.com/CleverRaven/Cataclysm-DDA/pull/70855))
 * Handle standalone objects and non-objects in mission om_special check script ([#70882](https://github.com/CleverRaven/Cataclysm-DDA/pull/70882))
-* eoc: replace u_set_hp with math ([#70820](https://github.com/CleverRaven/Cataclysm-DDA/pull/70820))
 * Minor exodii tweaks ([#70875](https://github.com/CleverRaven/Cataclysm-DDA/pull/70875))
 * Variants to chewing gum ([#70895](https://github.com/CleverRaven/Cataclysm-DDA/pull/70895))
 * Delete gutter_unify.py ([#70899](https://github.com/CleverRaven/Cataclysm-DDA/pull/70899))
