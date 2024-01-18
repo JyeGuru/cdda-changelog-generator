@@ -1,3 +1,4 @@
+* Add tag to force load the game during unit test (#71021)
 * fix guilt (#70902)
 * [MoM] Fix Doomseer error (#71024)
 * NPC condition style consistency and typo fixes (#70983)
@@ -91,4 +92,3 @@
 * Magazine Audit - .30, .32, .44, .50AE, 5.45, 5.7, 7.62x39 (#70835)
 * Add tanned_pelt as another component of fur foot wraps (#70810)
 * Magazine Audit - Russian Calibers, 7.7x58, .38 Special (#70811)
-* Disable number invlets in inventory selectors when numpad nav is enabled (#70804)
