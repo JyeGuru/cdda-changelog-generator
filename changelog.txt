@@ -92,4 +92,3 @@
 * [Docs] Update for TILESET.md - added links to the tileset repository (#70798)
 * Disable number invlets in inventory selectors when numpad nav is enabled (#70804)
 * Magazine Audit - .22LR Magazines (#70785)
-* Fix: Stable vehicle speeds with autotravel (#70780)
