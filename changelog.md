@@ -76,7 +76,6 @@
 * Aftershock: OrionBank E-trade network ([#70919](https://github.com/CleverRaven/Cataclysm-DDA/pull/70919))
 * Change accent mark to apostrophe in diary UI ([#70915](https://github.com/CleverRaven/Cataclysm-DDA/pull/70915))
 * [Content] Frog legs, chicken of the mountains! ([#70864](https://github.com/CleverRaven/Cataclysm-DDA/pull/70864))
-* Mesoamerican weaponry ([#70855](https://github.com/CleverRaven/Cataclysm-DDA/pull/70855))
 * Handle standalone objects and non-objects in mission om_special check script ([#70882](https://github.com/CleverRaven/Cataclysm-DDA/pull/70882))
 * Minor exodii tweaks ([#70875](https://github.com/CleverRaven/Cataclysm-DDA/pull/70875))
 * Variants to chewing gum ([#70895](https://github.com/CleverRaven/Cataclysm-DDA/pull/70895))
