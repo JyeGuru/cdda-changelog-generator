@@ -1,3 +1,4 @@
+* Day dreaming - Adds the (fungal entity) day tripper. ([#70946](https://github.com/CleverRaven/Cataclysm-DDA/pull/70946))
 * Add more exception handling so lastworld.json cannot prevent the game from starting ([#70933](https://github.com/CleverRaven/Cataclysm-DDA/pull/70933))
 * Add a New Random Encounter, the Road Tripper ([#71026](https://github.com/CleverRaven/Cataclysm-DDA/pull/71026))
 * eoc: add function to trigger events manually ([#71035](https://github.com/CleverRaven/Cataclysm-DDA/pull/71035))
@@ -88,4 +89,3 @@
 * Fix the triggers for mutations healing lost limbs ([#70868](https://github.com/CleverRaven/Cataclysm-DDA/pull/70868))
 * [Xedra Evolved] The Forest Offers Shelter bugfix ([#70872](https://github.com/CleverRaven/Cataclysm-DDA/pull/70872))
 * add WebAssembly build to release workflow ([#70870](https://github.com/CleverRaven/Cataclysm-DDA/pull/70870))
-* Fix the scrapper's trading mission ([#70847](https://github.com/CleverRaven/Cataclysm-DDA/pull/70847))
