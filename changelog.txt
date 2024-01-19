@@ -1,3 +1,4 @@
+* Making Shadow Lieutenant Spawn Messages editable (#70973)
 * Fix #71079 (#71082)
 * [MoM] Power learning revamp: Telepathy (#71061)
 * Add more ASCII Art (2nd batch) (#71075)
@@ -59,7 +60,6 @@
 * github: build libbacktrace locally and use it for linux/mingw bindist (#70928)
 * [MoM] Check each body part for poison and badpoison (#70910)
 * Fix issue with peeking vertically  (#70957)
-* update FMS (#70857)
 * String extraction script fixes (#70929)
 * Variants properly pluralize with quantity (#70944)
 * Update MAGIC.md and JSON_FLAGS.md (#70942)

@@ -1,3 +1,4 @@
+* Making Shadow Lieutenant Spawn Messages editable ([#70973](https://github.com/CleverRaven/Cataclysm-DDA/pull/70973))
 * Fix #71079 ([#71082](https://github.com/CleverRaven/Cataclysm-DDA/pull/71082))
 * [MoM] Power learning revamp: Telepathy ([#71061](https://github.com/CleverRaven/Cataclysm-DDA/pull/71061))
 * Add more ASCII Art (2nd batch) ([#71075](https://github.com/CleverRaven/Cataclysm-DDA/pull/71075))
@@ -59,7 +60,6 @@
 * github: build libbacktrace locally and use it for linux/mingw bindist ([#70928](https://github.com/CleverRaven/Cataclysm-DDA/pull/70928))
 * [MoM] Check each body part for poison and badpoison ([#70910](https://github.com/CleverRaven/Cataclysm-DDA/pull/70910))
 * Fix issue with peeking vertically  ([#70957](https://github.com/CleverRaven/Cataclysm-DDA/pull/70957))
-* update FMS ([#70857](https://github.com/CleverRaven/Cataclysm-DDA/pull/70857))
 * String extraction script fixes ([#70929](https://github.com/CleverRaven/Cataclysm-DDA/pull/70929))
 * Variants properly pluralize with quantity ([#70944](https://github.com/CleverRaven/Cataclysm-DDA/pull/70944))
 * Update MAGIC.md and JSON_FLAGS.md ([#70942](https://github.com/CleverRaven/Cataclysm-DDA/pull/70942))
