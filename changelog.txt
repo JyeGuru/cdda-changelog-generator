@@ -1,3 +1,4 @@
+* Fix #71079 (#71082)
 * [MoM] Power learning revamp: Telepathy (#71061)
 * Add more ASCII Art (2nd batch) (#71075)
 * Add check to prevent CBMs from being put on pets (#71068)
@@ -75,7 +76,6 @@
 * Aftershock: OrionBank E-trade network (#70919)
 * Change accent mark to apostrophe in diary UI (#70915)
 * [Content] Frog legs, chicken of the mountains! (#70864)
-* [Xedra Evolved] Add Treesinging to Arvore (#70853)
 * Mesoamerican weaponry (#70855)
 * Handle standalone objects and non-objects in mission om_special check script (#70882)
 * Minor exodii tweaks (#70875)
