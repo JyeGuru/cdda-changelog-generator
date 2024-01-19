@@ -1,3 +1,4 @@
+* [MoM] Power learning revamp: Telepathy ([#71061](https://github.com/CleverRaven/Cataclysm-DDA/pull/71061))
 * Add more ASCII Art (2nd batch) ([#71075](https://github.com/CleverRaven/Cataclysm-DDA/pull/71075))
 * Add check to prevent CBMs from being put on pets ([#71068](https://github.com/CleverRaven/Cataclysm-DDA/pull/71068))
 * Day dreaming - Adds the (fungal entity) day tripper. ([#70946](https://github.com/CleverRaven/Cataclysm-DDA/pull/70946))
@@ -82,7 +83,6 @@
 * Delete gutter_unify.py ([#70899](https://github.com/CleverRaven/Cataclysm-DDA/pull/70899))
 * Quilts and blankets ([#70877](https://github.com/CleverRaven/Cataclysm-DDA/pull/70877))
 * Routine i18n updates on 13 January 2024 ([#70879](https://github.com/CleverRaven/Cataclysm-DDA/pull/70879))
-* Remove duplicate pants from Urban Explorer ([#70851](https://github.com/CleverRaven/Cataclysm-DDA/pull/70851))
 * Some Iterator Fixes for Crushing Leap ([#70890](https://github.com/CleverRaven/Cataclysm-DDA/pull/70890))
 * Fix msvc version not being released ([#70889](https://github.com/CleverRaven/Cataclysm-DDA/pull/70889))
 * eoc/math: add u_mon_species_nearby() and u_mon_groups_nearby() ([#70865](https://github.com/CleverRaven/Cataclysm-DDA/pull/70865))
