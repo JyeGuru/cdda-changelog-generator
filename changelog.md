@@ -1,3 +1,4 @@
+* Fix CI 2024-01-20 ([#71104](https://github.com/CleverRaven/Cataclysm-DDA/pull/71104))
 * Chewing gum item name and more chewing gum flavors ([#71058](https://github.com/CleverRaven/Cataclysm-DDA/pull/71058))
 * estoc_fake json definition in swords json is WRONG I FIXED IT ([#71033](https://github.com/CleverRaven/Cataclysm-DDA/pull/71033))
 * Replaces rope components with requirement components in construction.json ([#71087](https://github.com/CleverRaven/Cataclysm-DDA/pull/71087))
@@ -85,6 +86,5 @@
 * Routine i18n updates on 13 January 2024 ([#70879](https://github.com/CleverRaven/Cataclysm-DDA/pull/70879))
 * Some Iterator Fixes for Crushing Leap ([#70890](https://github.com/CleverRaven/Cataclysm-DDA/pull/70890))
 * Fix msvc version not being released ([#70889](https://github.com/CleverRaven/Cataclysm-DDA/pull/70889))
-* Fix the triggers for mutations healing lost limbs ([#70868](https://github.com/CleverRaven/Cataclysm-DDA/pull/70868))
 * [Xedra Evolved] The Forest Offers Shelter bugfix ([#70872](https://github.com/CleverRaven/Cataclysm-DDA/pull/70872))
 * add WebAssembly build to release workflow ([#70870](https://github.com/CleverRaven/Cataclysm-DDA/pull/70870))
