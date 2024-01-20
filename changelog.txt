@@ -1,3 +1,4 @@
+* Chewing gum item name and more chewing gum flavors (#71058)
 * estoc_fake json definition in swords json is WRONG I FIXED IT (#71033)
 * Replaces rope components with requirement components in construction.json (#71087)
 * Making Shadow Lieutenant Spawn Messages editable (#70973)
@@ -84,7 +85,6 @@
 * Routine i18n updates on 13 January 2024 (#70879)
 * Some Iterator Fixes for Crushing Leap (#70890)
 * Fix msvc version not being released (#70889)
-* eoc/math: add u_mon_species_nearby() and u_mon_groups_nearby() (#70865)
 * Fix the triggers for mutations healing lost limbs (#70868)
 * [Xedra Evolved] The Forest Offers Shelter bugfix (#70872)
 * add WebAssembly build to release workflow (#70870)
