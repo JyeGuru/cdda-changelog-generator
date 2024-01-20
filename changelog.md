@@ -87,4 +87,3 @@
 * Some Iterator Fixes for Crushing Leap ([#70890](https://github.com/CleverRaven/Cataclysm-DDA/pull/70890))
 * Fix msvc version not being released ([#70889](https://github.com/CleverRaven/Cataclysm-DDA/pull/70889))
 * [Xedra Evolved] The Forest Offers Shelter bugfix ([#70872](https://github.com/CleverRaven/Cataclysm-DDA/pull/70872))
-* add WebAssembly build to release workflow ([#70870](https://github.com/CleverRaven/Cataclysm-DDA/pull/70870))

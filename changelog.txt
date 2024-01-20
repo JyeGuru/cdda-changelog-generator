@@ -87,4 +87,3 @@
 * Some Iterator Fixes for Crushing Leap (#70890)
 * Fix msvc version not being released (#70889)
 * [Xedra Evolved] The Forest Offers Shelter bugfix (#70872)
-* add WebAssembly build to release workflow (#70870)
