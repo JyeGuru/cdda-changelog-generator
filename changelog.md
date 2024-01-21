@@ -1,3 +1,4 @@
+* Update non-forged caltrops recipe ([#71125](https://github.com/CleverRaven/Cataclysm-DDA/pull/71125))
 * Add Kantele + Minor fixes ([#71118](https://github.com/CleverRaven/Cataclysm-DDA/pull/71118))
 * DEBUG_ONLY flag for more consistency in "seeing this is a bug" ([#71065](https://github.com/CleverRaven/Cataclysm-DDA/pull/71065))
 * Magazine Audit - 66mm, 40mm, .357SIG, .40S&W, .380, .303, .300WM ([#71099](https://github.com/CleverRaven/Cataclysm-DDA/pull/71099))
@@ -84,4 +85,3 @@
 * Change accent mark to apostrophe in diary UI ([#70915](https://github.com/CleverRaven/Cataclysm-DDA/pull/70915))
 * Variants to chewing gum ([#70895](https://github.com/CleverRaven/Cataclysm-DDA/pull/70895))
 * Delete gutter_unify.py ([#70899](https://github.com/CleverRaven/Cataclysm-DDA/pull/70899))
-* Some Iterator Fixes for Crushing Leap ([#70890](https://github.com/CleverRaven/Cataclysm-DDA/pull/70890))
