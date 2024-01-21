@@ -84,4 +84,3 @@
 * Fix pathfinding segfault ([#70937](https://github.com/CleverRaven/Cataclysm-DDA/pull/70937))
 * Make saline infusion give effect on the fly, not in the end ([#70931](https://github.com/CleverRaven/Cataclysm-DDA/pull/70931))
 * Aftershock: OrionBank E-trade network ([#70919](https://github.com/CleverRaven/Cataclysm-DDA/pull/70919))
-* Change accent mark to apostrophe in diary UI ([#70915](https://github.com/CleverRaven/Cataclysm-DDA/pull/70915))
