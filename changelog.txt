@@ -1,3 +1,4 @@
+* Fix Aftershock bionic migration conflict (#71161)
 * [Magiclysm] Add MOTION_VISION_RANGE to Shaman attunement (#71126)
 * Hobbies can provide spells (#71116)
 * Construction pre/post_special supports arrays (#71115)
@@ -43,7 +44,6 @@
 * [MoM] Fix Doomseer error (#71024)
 * NPC condition style consistency and typo fixes (#70983)
 * make `u_spawn_item` to support the item group whose subtype is `collection` (#71014)
-* Remove the by-product steel blocks from the tin recipes (#70923)
 * Some fishy changes: fry names and growing as well as better mutant fish factions (#71004)
 * Magazine Audit - .357, .45, .454, 4.6, .500S&W (#71010)
 * Skip water when bringing home logging results (#71020)
