@@ -83,4 +83,3 @@
 * Correct mistake for the stone tepoztopili recipe (#70940)
 * Fix pathfinding segfault (#70937)
 * Make saline infusion give effect on the fly, not in the end (#70931)
-* Aftershock: OrionBank E-trade network (#70919)
