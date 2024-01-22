@@ -64,7 +64,6 @@
 * [MoM] Fix Telekinesis Contemplation recipes ([#70984](https://github.com/CleverRaven/Cataclysm-DDA/pull/70984))
 * Fix segfault when using vehicle tool to hacksaw ([#70945](https://github.com/CleverRaven/Cataclysm-DDA/pull/70945))
 * eoc/math: port item_rad to math ([#70977](https://github.com/CleverRaven/Cataclysm-DDA/pull/70977))
-* Add limb tests ([#70924](https://github.com/CleverRaven/Cataclysm-DDA/pull/70924))
 * Allow black/whitelisting hobbies in scenarios, professions, and globally ([#70950](https://github.com/CleverRaven/Cataclysm-DDA/pull/70950))
 * Item variant and gun plural name audit ([#70953](https://github.com/CleverRaven/Cataclysm-DDA/pull/70953))
 * [Xedra Evolved] More Paraclesian spells ([#70961](https://github.com/CleverRaven/Cataclysm-DDA/pull/70961))
