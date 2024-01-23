@@ -1,3 +1,4 @@
+* Marine fish size review ([#71110](https://github.com/CleverRaven/Cataclysm-DDA/pull/71110))
 * [Xedra Evolved] New elemental fae ([#71176](https://github.com/CleverRaven/Cataclysm-DDA/pull/71176))
 * Megastore: parking lot facelift and fixes ([#71153](https://github.com/CleverRaven/Cataclysm-DDA/pull/71153))
 * Avoid more temporary items for 10+% load speedup ([#71146](https://github.com/CleverRaven/Cataclysm-DDA/pull/71146))
@@ -73,7 +74,6 @@
 * [Xedra Evolved] More Paraclesian spells ([#70961](https://github.com/CleverRaven/Cataclysm-DDA/pull/70961))
 * eoc/math: port arithmetic power to math ([#70975](https://github.com/CleverRaven/Cataclysm-DDA/pull/70975))
 * Fix 2 little bugs in the Evacuee center ([#70966](https://github.com/CleverRaven/Cataclysm-DDA/pull/70966))
-* Magiclysm monster name audit ([#70932](https://github.com/CleverRaven/Cataclysm-DDA/pull/70932))
 * Fix issue with peeking vertically  ([#70957](https://github.com/CleverRaven/Cataclysm-DDA/pull/70957))
 * Variants properly pluralize with quantity ([#70944](https://github.com/CleverRaven/Cataclysm-DDA/pull/70944))
 * Update MAGIC.md and JSON_FLAGS.md ([#70942](https://github.com/CleverRaven/Cataclysm-DDA/pull/70942))
