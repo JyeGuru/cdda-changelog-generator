@@ -1,3 +1,4 @@
+* [XEDRA Evolved] Lucid Dreams Spell Fixes ([#71159](https://github.com/CleverRaven/Cataclysm-DDA/pull/71159))
 * Fix Aftershock bionic migration conflict ([#71161](https://github.com/CleverRaven/Cataclysm-DDA/pull/71161))
 * [Magiclysm] Add MOTION_VISION_RANGE to Shaman attunement ([#71126](https://github.com/CleverRaven/Cataclysm-DDA/pull/71126))
 * Hobbies can provide spells ([#71116](https://github.com/CleverRaven/Cataclysm-DDA/pull/71116))
@@ -70,7 +71,6 @@
 * eoc/math: port arithmetic power to math ([#70975](https://github.com/CleverRaven/Cataclysm-DDA/pull/70975))
 * Fix 2 little bugs in the Evacuee center ([#70966](https://github.com/CleverRaven/Cataclysm-DDA/pull/70966))
 * Magiclysm monster name audit ([#70932](https://github.com/CleverRaven/Cataclysm-DDA/pull/70932))
-* github: build libbacktrace locally and use it for linux/mingw bindist ([#70928](https://github.com/CleverRaven/Cataclysm-DDA/pull/70928))
 * Fix issue with peeking vertically  ([#70957](https://github.com/CleverRaven/Cataclysm-DDA/pull/70957))
 * String extraction script fixes ([#70929](https://github.com/CleverRaven/Cataclysm-DDA/pull/70929))
 * Variants properly pluralize with quantity ([#70944](https://github.com/CleverRaven/Cataclysm-DDA/pull/70944))
