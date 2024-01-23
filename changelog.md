@@ -1,3 +1,5 @@
+* effect_tremorsense duration ([#71165](https://github.com/CleverRaven/Cataclysm-DDA/pull/71165))
+* fix EOC_GENERIC_SPELL_MUTATION ([#71202](https://github.com/CleverRaven/Cataclysm-DDA/pull/71202))
 * fix: less fancy charcoal spawn in goblin camps ([#71152](https://github.com/CleverRaven/Cataclysm-DDA/pull/71152))
 * Fixes TCL Security Drone drops ([#71157](https://github.com/CleverRaven/Cataclysm-DDA/pull/71157))
 * Clear up the documentation for ``diff`` field ([#71174](https://github.com/CleverRaven/Cataclysm-DDA/pull/71174))
@@ -80,6 +82,4 @@
 * Variants properly pluralize with quantity ([#70944](https://github.com/CleverRaven/Cataclysm-DDA/pull/70944))
 * Update MAGIC.md and JSON_FLAGS.md ([#70942](https://github.com/CleverRaven/Cataclysm-DDA/pull/70942))
 * [MoM] Power learning revamp: Pyrokinesis ([#70956](https://github.com/CleverRaven/Cataclysm-DDA/pull/70956))
-* Studded Gloves Modernization ([#70941](https://github.com/CleverRaven/Cataclysm-DDA/pull/70941))
 * add hallucinations for kaluptic psychosis trait ([#70949](https://github.com/CleverRaven/Cataclysm-DDA/pull/70949))
-* Correct mistake for the stone tepoztopili recipe ([#70940](https://github.com/CleverRaven/Cataclysm-DDA/pull/70940))
