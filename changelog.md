@@ -1,3 +1,5 @@
+* [Xedra Evolved] New elemental fae ([#71176](https://github.com/CleverRaven/Cataclysm-DDA/pull/71176))
+* Megastore: parking lot facelift and fixes ([#71153](https://github.com/CleverRaven/Cataclysm-DDA/pull/71153))
 * Avoid more temporary items for 10+% load speedup ([#71146](https://github.com/CleverRaven/Cataclysm-DDA/pull/71146))
 * [XEDRA Evolved] Lucid Dreams Spell Fixes ([#71159](https://github.com/CleverRaven/Cataclysm-DDA/pull/71159))
 * Fix Aftershock bionic migration conflict ([#71161](https://github.com/CleverRaven/Cataclysm-DDA/pull/71161))
@@ -81,4 +83,3 @@
 * Fix monster player aggro ([#70938](https://github.com/CleverRaven/Cataclysm-DDA/pull/70938))
 * Correct mistake for the stone tepoztopili recipe ([#70940](https://github.com/CleverRaven/Cataclysm-DDA/pull/70940))
 * Fix pathfinding segfault ([#70937](https://github.com/CleverRaven/Cataclysm-DDA/pull/70937))
-* Make saline infusion give effect on the fly, not in the end ([#70931](https://github.com/CleverRaven/Cataclysm-DDA/pull/70931))
