@@ -1,3 +1,5 @@
+* fix: less fancy charcoal spawn in goblin camps ([#71152](https://github.com/CleverRaven/Cataclysm-DDA/pull/71152))
+* Fixes TCL Security Drone drops ([#71157](https://github.com/CleverRaven/Cataclysm-DDA/pull/71157))
 * Clear up the documentation for ``diff`` field ([#71174](https://github.com/CleverRaven/Cataclysm-DDA/pull/71174))
 * item/tname: move large templated struct out of header ([#71188](https://github.com/CleverRaven/Cataclysm-DDA/pull/71188))
 * Marine fish size review ([#71110](https://github.com/CleverRaven/Cataclysm-DDA/pull/71110))
@@ -80,6 +82,4 @@
 * [MoM] Power learning revamp: Pyrokinesis ([#70956](https://github.com/CleverRaven/Cataclysm-DDA/pull/70956))
 * Studded Gloves Modernization ([#70941](https://github.com/CleverRaven/Cataclysm-DDA/pull/70941))
 * add hallucinations for kaluptic psychosis trait ([#70949](https://github.com/CleverRaven/Cataclysm-DDA/pull/70949))
-* Fix monster player aggro ([#70938](https://github.com/CleverRaven/Cataclysm-DDA/pull/70938))
 * Correct mistake for the stone tepoztopili recipe ([#70940](https://github.com/CleverRaven/Cataclysm-DDA/pull/70940))
-* Fix pathfinding segfault ([#70937](https://github.com/CleverRaven/Cataclysm-DDA/pull/70937))
