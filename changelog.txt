@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Homullus Stat traits (#71198)
 * Trying to unify concrete things (#71096)
 * Rework Survivor Backgrounds to Be Compatible with Non-Follower NPCs (#71162)
 * split-off `input_context.h` from `input.h`; run iwyu to always include `input.h` directly (#71141)
@@ -81,7 +82,6 @@
 * make `u_spawn_item` to support the item group whose subtype is `collection` (#71014)
 * Magazine Audit - .357, .45, .454, 4.6, .500S&W (#71010)
 * Skip water when bringing home logging results (#71020)
-* Fixed sieve recipe (#71009)
 * Fix u_is_outside mutation condition crashing the game (#71011)
 * eoc: fix loading of run_eoc (#71017)
 * xedra/deadly_bites: fix math conditions (#71018)
