@@ -1,3 +1,4 @@
+* Fix construction segfault ([#71231](https://github.com/CleverRaven/Cataclysm-DDA/pull/71231))
 * Small random fixes ([#71209](https://github.com/CleverRaven/Cataclysm-DDA/pull/71209))
 * options: allow type conversion ([#71074](https://github.com/CleverRaven/Cataclysm-DDA/pull/71074))
 * eoc/math_parser: port time handling to math ([#70996](https://github.com/CleverRaven/Cataclysm-DDA/pull/70996))
@@ -83,5 +84,4 @@
 * eoc: fix loading of run_eoc ([#71017](https://github.com/CleverRaven/Cataclysm-DDA/pull/71017))
 * xedra/deadly_bites: fix math conditions ([#71018](https://github.com/CleverRaven/Cataclysm-DDA/pull/71018))
 * Fix: Prevent uninitialized int ([#71001](https://github.com/CleverRaven/Cataclysm-DDA/pull/71001))
-* 2 unicorn plushies, some typo fixes ([#70985](https://github.com/CleverRaven/Cataclysm-DDA/pull/70985))
 * Fix #70997: In npctalk.cpp, some vectors' initializations are wrong ([#70998](https://github.com/CleverRaven/Cataclysm-DDA/pull/70998))

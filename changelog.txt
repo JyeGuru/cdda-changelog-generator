@@ -1,3 +1,4 @@
+* Fix construction segfault (#71231)
 * Small random fixes (#71209)
 * options: allow type conversion (#71074)
 * eoc/math_parser: port time handling to math (#70996)
@@ -83,5 +84,4 @@
 * eoc: fix loading of run_eoc (#71017)
 * xedra/deadly_bites: fix math conditions (#71018)
 * Fix: Prevent uninitialized int (#71001)
-* 2 unicorn plushies, some typo fixes (#70985)
 * Fix #70997: In npctalk.cpp, some vectors' initializations are wrong (#70998)
