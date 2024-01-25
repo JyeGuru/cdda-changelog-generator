@@ -1,3 +1,4 @@
+* tests: clear missions when clearing avatar ([#71213](https://github.com/CleverRaven/Cataclysm-DDA/pull/71213))
 * Fix construction segfault ([#71231](https://github.com/CleverRaven/Cataclysm-DDA/pull/71231))
 * Small random fixes ([#71209](https://github.com/CleverRaven/Cataclysm-DDA/pull/71209))
 * options: allow type conversion ([#71074](https://github.com/CleverRaven/Cataclysm-DDA/pull/71074))
@@ -67,7 +68,6 @@
 * Allow u/npc_spawn_monster to pick randomly from a group for count > 1 ([#71019](https://github.com/CleverRaven/Cataclysm-DDA/pull/71019))
 * Kill the remnants in the name of math ([#71027](https://github.com/CleverRaven/Cataclysm-DDA/pull/71027))
 * fix mutagen groups in mods ([#71034](https://github.com/CleverRaven/Cataclysm-DDA/pull/71034))
-* Update the table of contents in doc/JSON_INFO.md ([#70987](https://github.com/CleverRaven/Cataclysm-DDA/pull/70987))
 * Duct tape a bigger flashlight to your face (heavy-duty headlamp) ([#70994](https://github.com/CleverRaven/Cataclysm-DDA/pull/70994))
 * Port innawood stream mutable ([#71008](https://github.com/CleverRaven/Cataclysm-DDA/pull/71008))
 * Add tag to force load the game during unit test ([#71021](https://github.com/CleverRaven/Cataclysm-DDA/pull/71021))
