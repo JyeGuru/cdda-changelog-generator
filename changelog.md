@@ -83,5 +83,4 @@
 * Add SIGHT_RANGE_FAE enchantment ([#71053](https://github.com/CleverRaven/Cataclysm-DDA/pull/71053))
 * Remove tags from synthetic_recipe_fail_chances ([#71047](https://github.com/CleverRaven/Cataclysm-DDA/pull/71047))
 * Remove duplicate entry for `PADDED` ([#71063](https://github.com/CleverRaven/Cataclysm-DDA/pull/71063))
-* Kill the remnants in the name of math ([#71027](https://github.com/CleverRaven/Cataclysm-DDA/pull/71027))
 * fix mutagen groups in mods ([#71034](https://github.com/CleverRaven/Cataclysm-DDA/pull/71034))
