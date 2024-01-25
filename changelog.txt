@@ -1,3 +1,4 @@
+* Make Messenger Bags Sided (#71225)
 * Softer edged mx_spider (#71226)
 * [MoM] Power learning revamp: Photokinesis (#71228)
 * [Magiclysm] Fix Tremorsense removal EoC, revamp Reading the Earthbones (#71230)
@@ -5,7 +6,6 @@
 * Fix construction segfault (#71231)
 * Small random fixes (#71209)
 * options: allow type conversion (#71074)
-* eoc/math_parser: port time handling to math (#70996)
 * replace you to character disp_name in add_msg (#71036)
 * fix: small mapgen misplaced item spawn (#71148)
 * inv_ui: fix highlight on return (#71117)
