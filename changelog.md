@@ -1,3 +1,4 @@
+* Small random fixes ([#71209](https://github.com/CleverRaven/Cataclysm-DDA/pull/71209))
 * options: allow type conversion ([#71074](https://github.com/CleverRaven/Cataclysm-DDA/pull/71074))
 * eoc/math_parser: port time handling to math ([#70996](https://github.com/CleverRaven/Cataclysm-DDA/pull/70996))
 * replace you to character disp_name in add_msg ([#71036](https://github.com/CleverRaven/Cataclysm-DDA/pull/71036))
@@ -84,4 +85,3 @@
 * Fix: Prevent uninitialized int ([#71001](https://github.com/CleverRaven/Cataclysm-DDA/pull/71001))
 * 2 unicorn plushies, some typo fixes ([#70985](https://github.com/CleverRaven/Cataclysm-DDA/pull/70985))
 * Fix #70997: In npctalk.cpp, some vectors' initializations are wrong ([#70998](https://github.com/CleverRaven/Cataclysm-DDA/pull/70998))
-* [MoM] Fix Telekinesis Contemplation recipes ([#70984](https://github.com/CleverRaven/Cataclysm-DDA/pull/70984))
