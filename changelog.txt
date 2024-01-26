@@ -1,3 +1,5 @@
+* Concord fix (#71238)
+* Long teleport in overmap editor (#71244)
 * 2024-01-25 fix includes (#71257)
 * #70712 audit (#71137)
 * Remove craft_command.h and recipe.h from character.h (#71183)

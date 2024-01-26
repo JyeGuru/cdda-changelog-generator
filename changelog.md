@@ -1,3 +1,5 @@
+* Concord fix ([#71238](https://github.com/CleverRaven/Cataclysm-DDA/pull/71238))
+* Long teleport in overmap editor ([#71244](https://github.com/CleverRaven/Cataclysm-DDA/pull/71244))
 * 2024-01-25 fix includes ([#71257](https://github.com/CleverRaven/Cataclysm-DDA/pull/71257))
 * #70712 audit ([#71137](https://github.com/CleverRaven/Cataclysm-DDA/pull/71137))
 * Remove craft_command.h and recipe.h from character.h ([#71183](https://github.com/CleverRaven/Cataclysm-DDA/pull/71183))
