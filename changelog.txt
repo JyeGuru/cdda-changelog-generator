@@ -1,3 +1,4 @@
+* document has_ammo, turn_cost, transform_item and damage_level() (#71240)
 * Show whether keybindings are default or custom (#71060)
 * Updates biosilicified chitin material and armor (#71100)
 * Delete descriptions from some sized/graded armor (#71138)
@@ -71,7 +72,6 @@
 * [Magiclysm] Add Cleansing Flame fire trail spell (#71091)
 * Flashlight Pouch for Airsoft Helmet (#71092)
 * Make piano easy-deconstructable and thus possible to move as an item (#71111)
-* Container variant support for item-groups, items and recipes (#71041)
 * Allow debug menu to set the HP of custom bodyparts (#71123)
 * eoc/json: assassin EOCs should not run for NPCs (#71103)
 * Update non-forged caltrops recipe (#71125)
