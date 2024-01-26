@@ -1,3 +1,4 @@
+* Ballista ([#71177](https://github.com/CleverRaven/Cataclysm-DDA/pull/71177))
 * Concord fix ([#71238](https://github.com/CleverRaven/Cataclysm-DDA/pull/71238))
 * Long teleport in overmap editor ([#71244](https://github.com/CleverRaven/Cataclysm-DDA/pull/71244))
 * 2024-01-25 fix includes ([#71257](https://github.com/CleverRaven/Cataclysm-DDA/pull/71257))
@@ -76,7 +77,6 @@
 * JSONize electrohack tool by adding HACK quality ([#71078](https://github.com/CleverRaven/Cataclysm-DDA/pull/71078))
 * Fix CI 2024-01-20 ([#71104](https://github.com/CleverRaven/Cataclysm-DDA/pull/71104))
 * Chewing gum item name and more chewing gum flavors ([#71058](https://github.com/CleverRaven/Cataclysm-DDA/pull/71058))
-* estoc_fake json definition in swords json is WRONG I FIXED IT ([#71033](https://github.com/CleverRaven/Cataclysm-DDA/pull/71033))
 * Replaces rope components with requirement components in construction.json ([#71087](https://github.com/CleverRaven/Cataclysm-DDA/pull/71087))
 * Fix #71079 ([#71082](https://github.com/CleverRaven/Cataclysm-DDA/pull/71082))
 * [MoM] Power learning revamp: Telepathy ([#71061](https://github.com/CleverRaven/Cataclysm-DDA/pull/71061))
