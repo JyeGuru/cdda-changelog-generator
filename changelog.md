@@ -81,7 +81,6 @@
 * [Magiclysm] Add MOTION_VISION_RANGE to Shaman attunement ([#71126](https://github.com/CleverRaven/Cataclysm-DDA/pull/71126))
 * Hobbies can provide spells ([#71116](https://github.com/CleverRaven/Cataclysm-DDA/pull/71116))
 * Construction pre/post_special supports arrays ([#71115](https://github.com/CleverRaven/Cataclysm-DDA/pull/71115))
-* [Magiclysm] Add Cleansing Flame fire trail spell ([#71091](https://github.com/CleverRaven/Cataclysm-DDA/pull/71091))
 * Flashlight Pouch for Airsoft Helmet ([#71092](https://github.com/CleverRaven/Cataclysm-DDA/pull/71092))
 * Make piano easy-deconstructable and thus possible to move as an item ([#71111](https://github.com/CleverRaven/Cataclysm-DDA/pull/71111))
 * Allow debug menu to set the HP of custom bodyparts ([#71123](https://github.com/CleverRaven/Cataclysm-DDA/pull/71123))
