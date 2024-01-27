@@ -1,3 +1,5 @@
+* [Magiclysm] More spells ([#71236](https://github.com/CleverRaven/Cataclysm-DDA/pull/71236))
+* Monster upgrades fixes ([#71246](https://github.com/CleverRaven/Cataclysm-DDA/pull/71246))
 * Change `"sabre"` to `"saber"` for +1 and +2 weapons ([#71271](https://github.com/CleverRaven/Cataclysm-DDA/pull/71271))
 * afs: fix maintenance outpost's roof ([#71279](https://github.com/CleverRaven/Cataclysm-DDA/pull/71279))
 * Guilt message fixes ([#71272](https://github.com/CleverRaven/Cataclysm-DDA/pull/71272))
@@ -43,7 +45,6 @@
 * tests: clear missions when clearing avatar ([#71213](https://github.com/CleverRaven/Cataclysm-DDA/pull/71213))
 * Fix construction segfault ([#71231](https://github.com/CleverRaven/Cataclysm-DDA/pull/71231))
 * Small random fixes ([#71209](https://github.com/CleverRaven/Cataclysm-DDA/pull/71209))
-* options: allow type conversion ([#71074](https://github.com/CleverRaven/Cataclysm-DDA/pull/71074))
 * fix: small mapgen misplaced item spawn ([#71148](https://github.com/CleverRaven/Cataclysm-DDA/pull/71148))
 * inv_ui: fix highlight on return ([#71117](https://github.com/CleverRaven/Cataclysm-DDA/pull/71117))
 * Fix issue with falling empty space ([#71151](https://github.com/CleverRaven/Cataclysm-DDA/pull/71151))
@@ -89,4 +90,3 @@
 * Fix CI 2024-01-20 ([#71104](https://github.com/CleverRaven/Cataclysm-DDA/pull/71104))
 * Replaces rope components with requirement components in construction.json ([#71087](https://github.com/CleverRaven/Cataclysm-DDA/pull/71087))
 * Fix #71079 ([#71082](https://github.com/CleverRaven/Cataclysm-DDA/pull/71082))
-* Add more ASCII Art (2nd batch) ([#71075](https://github.com/CleverRaven/Cataclysm-DDA/pull/71075))
