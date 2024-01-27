@@ -1,3 +1,4 @@
+* eoc/math: port all shimmed functions to native math ([#71216](https://github.com/CleverRaven/Cataclysm-DDA/pull/71216))
 * Fix: Use same hunger names in consume menu as in sidebar ([#71142](https://github.com/CleverRaven/Cataclysm-DDA/pull/71142))
 * Added transition contacts ([#71187](https://github.com/CleverRaven/Cataclysm-DDA/pull/71187))
 * more drops for zombie technicians ([#71283](https://github.com/CleverRaven/Cataclysm-DDA/pull/71283))
@@ -52,7 +53,6 @@
 * inv_ui: fix highlight on return ([#71117](https://github.com/CleverRaven/Cataclysm-DDA/pull/71117))
 * Fix issue with falling empty space ([#71151](https://github.com/CleverRaven/Cataclysm-DDA/pull/71151))
 * [XEDRA Evolved] Create Class Hobbies ([#71180](https://github.com/CleverRaven/Cataclysm-DDA/pull/71180))
-* Align and fix some Windows MSVC build setting ([#71089](https://github.com/CleverRaven/Cataclysm-DDA/pull/71089))
 * ZenFS' thick sidebar added ([#71109](https://github.com/CleverRaven/Cataclysm-DDA/pull/71109))
 * inv_ui: always use alpha invlets for multiselector ([#71127](https://github.com/CleverRaven/Cataclysm-DDA/pull/71127))
 * Add a new perk to Defense Mode, update mod info ([#71129](https://github.com/CleverRaven/Cataclysm-DDA/pull/71129))
