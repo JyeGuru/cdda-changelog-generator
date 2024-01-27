@@ -1,3 +1,5 @@
+* Fix: Use same hunger names in consume menu as in sidebar ([#71142](https://github.com/CleverRaven/Cataclysm-DDA/pull/71142))
+* Added transition contacts ([#71187](https://github.com/CleverRaven/Cataclysm-DDA/pull/71187))
 * more drops for zombie technicians ([#71283](https://github.com/CleverRaven/Cataclysm-DDA/pull/71283))
 * Remove displacement field from engines ([#71263](https://github.com/CleverRaven/Cataclysm-DDA/pull/71263))
 * [Magiclysm] More spells ([#71236](https://github.com/CleverRaven/Cataclysm-DDA/pull/71236))
@@ -32,7 +34,6 @@
 * More SI unit spacing adjustments ([#71218](https://github.com/CleverRaven/Cataclysm-DDA/pull/71218))
 * Add bronze tong recipe and improve sand casting ([#71113](https://github.com/CleverRaven/Cataclysm-DDA/pull/71113))
 * Routine i18n updates on 20 January 2024 ([#71101](https://github.com/CleverRaven/Cataclysm-DDA/pull/71101))
-* Add base camp construction markers ([#71084](https://github.com/CleverRaven/Cataclysm-DDA/pull/71084))
 * [Xedra Evolved] Add Homullus Stat traits ([#71198](https://github.com/CleverRaven/Cataclysm-DDA/pull/71198))
 * Trying to unify concrete things ([#71096](https://github.com/CleverRaven/Cataclysm-DDA/pull/71096))
 * Rework Survivor Backgrounds to Be Compatible with Non-Follower NPCs ([#71162](https://github.com/CleverRaven/Cataclysm-DDA/pull/71162))
@@ -89,4 +90,3 @@
 * Add Kantele + Minor fixes ([#71118](https://github.com/CleverRaven/Cataclysm-DDA/pull/71118))
 * Magazine Audit - 66mm, 40mm, .357SIG, .40S&W, .380, .303, .300WM ([#71099](https://github.com/CleverRaven/Cataclysm-DDA/pull/71099))
 * Fix CI 2024-01-20 ([#71104](https://github.com/CleverRaven/Cataclysm-DDA/pull/71104))
-* Replaces rope components with requirement components in construction.json ([#71087](https://github.com/CleverRaven/Cataclysm-DDA/pull/71087))
