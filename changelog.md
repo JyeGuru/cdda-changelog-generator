@@ -1,3 +1,5 @@
+* more drops for zombie technicians ([#71283](https://github.com/CleverRaven/Cataclysm-DDA/pull/71283))
+* Remove displacement field from engines ([#71263](https://github.com/CleverRaven/Cataclysm-DDA/pull/71263))
 * [Magiclysm] More spells ([#71236](https://github.com/CleverRaven/Cataclysm-DDA/pull/71236))
 * Monster upgrades fixes ([#71246](https://github.com/CleverRaven/Cataclysm-DDA/pull/71246))
 * Change `"sabre"` to `"saber"` for +1 and +2 weapons ([#71271](https://github.com/CleverRaven/Cataclysm-DDA/pull/71271))
@@ -86,7 +88,5 @@
 * Update non-forged caltrops recipe ([#71125](https://github.com/CleverRaven/Cataclysm-DDA/pull/71125))
 * Add Kantele + Minor fixes ([#71118](https://github.com/CleverRaven/Cataclysm-DDA/pull/71118))
 * Magazine Audit - 66mm, 40mm, .357SIG, .40S&W, .380, .303, .300WM ([#71099](https://github.com/CleverRaven/Cataclysm-DDA/pull/71099))
-* JSONize electrohack tool by adding HACK quality ([#71078](https://github.com/CleverRaven/Cataclysm-DDA/pull/71078))
 * Fix CI 2024-01-20 ([#71104](https://github.com/CleverRaven/Cataclysm-DDA/pull/71104))
 * Replaces rope components with requirement components in construction.json ([#71087](https://github.com/CleverRaven/Cataclysm-DDA/pull/71087))
-* Fix #71079 ([#71082](https://github.com/CleverRaven/Cataclysm-DDA/pull/71082))
