@@ -1,3 +1,4 @@
+* worldfactory: nerf lastworld warning ([#71312](https://github.com/CleverRaven/Cataclysm-DDA/pull/71312))
 * Add IsDebuggerActive from Catch2 ([#71297](https://github.com/CleverRaven/Cataclysm-DDA/pull/71297))
 * item/tname: add some static_asserts to ensure sanity ([#71281](https://github.com/CleverRaven/Cataclysm-DDA/pull/71281))
 * Remove unused legacy functions in display namespace ([#71307](https://github.com/CleverRaven/Cataclysm-DDA/pull/71307))
@@ -58,7 +59,6 @@
 * inv_ui: fix highlight on return ([#71117](https://github.com/CleverRaven/Cataclysm-DDA/pull/71117))
 * Fix issue with falling empty space ([#71151](https://github.com/CleverRaven/Cataclysm-DDA/pull/71151))
 * [XEDRA Evolved] Create Class Hobbies ([#71180](https://github.com/CleverRaven/Cataclysm-DDA/pull/71180))
-* ZenFS' thick sidebar added ([#71109](https://github.com/CleverRaven/Cataclysm-DDA/pull/71109))
 * inv_ui: always use alpha invlets for multiselector ([#71127](https://github.com/CleverRaven/Cataclysm-DDA/pull/71127))
 * Add a new perk to Defense Mode, update mod info ([#71129](https://github.com/CleverRaven/Cataclysm-DDA/pull/71129))
 * Add ASCII Art Separation Line ([#71130](https://github.com/CleverRaven/Cataclysm-DDA/pull/71130))
