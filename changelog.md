@@ -1,3 +1,4 @@
+* Bump actions/cache to v4 ([#71305](https://github.com/CleverRaven/Cataclysm-DDA/pull/71305))
 * worldfactory: nerf lastworld warning ([#71312](https://github.com/CleverRaven/Cataclysm-DDA/pull/71312))
 * Add IsDebuggerActive from Catch2 ([#71297](https://github.com/CleverRaven/Cataclysm-DDA/pull/71297))
 * item/tname: add some static_asserts to ensure sanity ([#71281](https://github.com/CleverRaven/Cataclysm-DDA/pull/71281))
@@ -77,7 +78,6 @@
 * Fixes TCL Security Drone drops ([#71157](https://github.com/CleverRaven/Cataclysm-DDA/pull/71157))
 * Clear up the documentation for ``diff`` field ([#71174](https://github.com/CleverRaven/Cataclysm-DDA/pull/71174))
 * item/tname: move large templated struct out of header ([#71188](https://github.com/CleverRaven/Cataclysm-DDA/pull/71188))
-* Marine fish size review ([#71110](https://github.com/CleverRaven/Cataclysm-DDA/pull/71110))
 * [Xedra Evolved] New elemental fae ([#71176](https://github.com/CleverRaven/Cataclysm-DDA/pull/71176))
 * Megastore: parking lot facelift and fixes ([#71153](https://github.com/CleverRaven/Cataclysm-DDA/pull/71153))
 * Avoid more temporary items for 10+% load speedup ([#71146](https://github.com/CleverRaven/Cataclysm-DDA/pull/71146))
