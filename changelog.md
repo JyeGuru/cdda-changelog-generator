@@ -1,3 +1,4 @@
+* Delete basement_bionic from "alt_map_key" mod ([#71287](https://github.com/CleverRaven/Cataclysm-DDA/pull/71287))
 * Move drink_bloody_mary to nested under cocktails ([#71291](https://github.com/CleverRaven/Cataclysm-DDA/pull/71291))
 * add the guilt flags to JSON docs ([#71270](https://github.com/CleverRaven/Cataclysm-DDA/pull/71270))
 * Routine i18n updates on 27 January 2024 ([#71282](https://github.com/CleverRaven/Cataclysm-DDA/pull/71282))
@@ -22,7 +23,6 @@
 * Add a soviet tanker helmet to the game. ([#71205](https://github.com/CleverRaven/Cataclysm-DDA/pull/71205))
 * [Magiclysm] Remove DoT from Vegetative Grasp ([#71264](https://github.com/CleverRaven/Cataclysm-DDA/pull/71264))
 * document has_ammo, turn_cost, transform_item and damage_level() ([#71240](https://github.com/CleverRaven/Cataclysm-DDA/pull/71240))
-* Updates biosilicified chitin material and armor ([#71100](https://github.com/CleverRaven/Cataclysm-DDA/pull/71100))
 * Delete descriptions from some sized/graded armor ([#71138](https://github.com/CleverRaven/Cataclysm-DDA/pull/71138))
 * eoc/math: add melee_damage() and gun_damage() ([#71234](https://github.com/CleverRaven/Cataclysm-DDA/pull/71234))
 * [Xedra Evolved] Even more elemental fae ([#71208](https://github.com/CleverRaven/Cataclysm-DDA/pull/71208))
