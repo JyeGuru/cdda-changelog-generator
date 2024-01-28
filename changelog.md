@@ -38,7 +38,6 @@
 * eoc/math: add an attitude filter to monsters_nearby() ([#71222](https://github.com/CleverRaven/Cataclysm-DDA/pull/71222))
 * More SI unit spacing adjustments ([#71218](https://github.com/CleverRaven/Cataclysm-DDA/pull/71218))
 * Add bronze tong recipe and improve sand casting ([#71113](https://github.com/CleverRaven/Cataclysm-DDA/pull/71113))
-* Routine i18n updates on 20 January 2024 ([#71101](https://github.com/CleverRaven/Cataclysm-DDA/pull/71101))
 * [Xedra Evolved] Add Homullus Stat traits ([#71198](https://github.com/CleverRaven/Cataclysm-DDA/pull/71198))
 * Rework Survivor Backgrounds to Be Compatible with Non-Follower NPCs ([#71162](https://github.com/CleverRaven/Cataclysm-DDA/pull/71162))
 * split-off `input_context.h` from `input.h`; run iwyu to always include `input.h` directly ([#71141](https://github.com/CleverRaven/Cataclysm-DDA/pull/71141))
