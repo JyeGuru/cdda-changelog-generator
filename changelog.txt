@@ -1,3 +1,4 @@
+* Add IsDebuggerActive from Catch2 (#71297)
 * item/tname: add some static_asserts to ensure sanity (#71281)
 * Remove unused legacy functions in display namespace (#71307)
 * Delete basement_bionic from "alt_map_key" mod (#71287)
@@ -89,4 +90,3 @@
 * Allow debug menu to set the HP of custom bodyparts (#71123)
 * Update non-forged caltrops recipe (#71125)
 * Add Kantele + Minor fixes (#71118)
-* Fix CI 2024-01-20 (#71104)
