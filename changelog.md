@@ -1,3 +1,4 @@
+* Remove unused legacy functions in display namespace ([#71307](https://github.com/CleverRaven/Cataclysm-DDA/pull/71307))
 * Delete basement_bionic from "alt_map_key" mod ([#71287](https://github.com/CleverRaven/Cataclysm-DDA/pull/71287))
 * Move drink_bloody_mary to nested under cocktails ([#71291](https://github.com/CleverRaven/Cataclysm-DDA/pull/71291))
 * add the guilt flags to JSON docs ([#71270](https://github.com/CleverRaven/Cataclysm-DDA/pull/71270))
