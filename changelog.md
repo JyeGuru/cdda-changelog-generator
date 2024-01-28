@@ -1,3 +1,4 @@
+* Move drink_bloody_mary to nested under cocktails ([#71291](https://github.com/CleverRaven/Cataclysm-DDA/pull/71291))
 * add the guilt flags to JSON docs ([#71270](https://github.com/CleverRaven/Cataclysm-DDA/pull/71270))
 * Routine i18n updates on 27 January 2024 ([#71282](https://github.com/CleverRaven/Cataclysm-DDA/pull/71282))
 * fix lack of apostrophe in u_school_level ([#71298](https://github.com/CleverRaven/Cataclysm-DDA/pull/71298))
@@ -88,5 +89,4 @@
 * eoc/json: assassin EOCs should not run for NPCs ([#71103](https://github.com/CleverRaven/Cataclysm-DDA/pull/71103))
 * Update non-forged caltrops recipe ([#71125](https://github.com/CleverRaven/Cataclysm-DDA/pull/71125))
 * Add Kantele + Minor fixes ([#71118](https://github.com/CleverRaven/Cataclysm-DDA/pull/71118))
-* Magazine Audit - 66mm, 40mm, .357SIG, .40S&W, .380, .303, .300WM ([#71099](https://github.com/CleverRaven/Cataclysm-DDA/pull/71099))
 * Fix CI 2024-01-20 ([#71104](https://github.com/CleverRaven/Cataclysm-DDA/pull/71104))
