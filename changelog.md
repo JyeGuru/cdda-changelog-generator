@@ -1,3 +1,4 @@
+* item/tname: add some static_asserts to ensure sanity ([#71281](https://github.com/CleverRaven/Cataclysm-DDA/pull/71281))
 * Remove unused legacy functions in display namespace ([#71307](https://github.com/CleverRaven/Cataclysm-DDA/pull/71307))
 * Delete basement_bionic from "alt_map_key" mod ([#71287](https://github.com/CleverRaven/Cataclysm-DDA/pull/71287))
 * Move drink_bloody_mary to nested under cocktails ([#71291](https://github.com/CleverRaven/Cataclysm-DDA/pull/71291))
@@ -86,7 +87,6 @@
 * Construction pre/post_special supports arrays ([#71115](https://github.com/CleverRaven/Cataclysm-DDA/pull/71115))
 * Make piano easy-deconstructable and thus possible to move as an item ([#71111](https://github.com/CleverRaven/Cataclysm-DDA/pull/71111))
 * Allow debug menu to set the HP of custom bodyparts ([#71123](https://github.com/CleverRaven/Cataclysm-DDA/pull/71123))
-* eoc/json: assassin EOCs should not run for NPCs ([#71103](https://github.com/CleverRaven/Cataclysm-DDA/pull/71103))
 * Update non-forged caltrops recipe ([#71125](https://github.com/CleverRaven/Cataclysm-DDA/pull/71125))
 * Add Kantele + Minor fixes ([#71118](https://github.com/CleverRaven/Cataclysm-DDA/pull/71118))
 * Fix CI 2024-01-20 ([#71104](https://github.com/CleverRaven/Cataclysm-DDA/pull/71104))
