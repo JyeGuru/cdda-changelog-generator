@@ -1,3 +1,4 @@
+* spawn soldier grenadiers with grenades ([#71317](https://github.com/CleverRaven/Cataclysm-DDA/pull/71317))
 * Object creator fix ([#71140](https://github.com/CleverRaven/Cataclysm-DDA/pull/71140))
 * Update TER_FURN_TRANSFORM.md ([#71319](https://github.com/CleverRaven/Cataclysm-DDA/pull/71319))
 * hightlight `Barrel Lenght` in gun info ([#71320](https://github.com/CleverRaven/Cataclysm-DDA/pull/71320))
@@ -74,7 +75,6 @@
 * fix: small mapgen misplaced item spawn ([#71148](https://github.com/CleverRaven/Cataclysm-DDA/pull/71148))
 * Fix issue with falling empty space ([#71151](https://github.com/CleverRaven/Cataclysm-DDA/pull/71151))
 * [XEDRA Evolved] Create Class Hobbies ([#71180](https://github.com/CleverRaven/Cataclysm-DDA/pull/71180))
-* [MOM] Create Electrokinetic Hacking Power ([#71134](https://github.com/CleverRaven/Cataclysm-DDA/pull/71134))
 * Remove vegetables from spaghetti al pesto recipe ([#71154](https://github.com/CleverRaven/Cataclysm-DDA/pull/71154))
 * Extremely minor comment fixes ([#71189](https://github.com/CleverRaven/Cataclysm-DDA/pull/71189))
 * include technomancer welder in welding reqs lists ([#71150](https://github.com/CleverRaven/Cataclysm-DDA/pull/71150))
