@@ -1,3 +1,4 @@
+* Extract use actions of gun items for translation (#71333)
 * spawn soldier grenadiers with grenades (#71317)
 * Object creator fix (#71140)
 * Update TER_FURN_TRANSFORM.md (#71319)
@@ -52,7 +53,6 @@
 * Concord fix (#71238)
 * Long teleport in overmap editor (#71244)
 * 2024-01-25 fix includes (#71257)
-* #70712 audit (#71137)
 * Remove craft_command.h and recipe.h from character.h (#71183)
 * Parameterise Derelict Property variants and add roofs (#71219)
 * Unhardcode deconstruction giving skill (#71144)

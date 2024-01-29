@@ -1,3 +1,4 @@
+* Extract use actions of gun items for translation ([#71333](https://github.com/CleverRaven/Cataclysm-DDA/pull/71333))
 * spawn soldier grenadiers with grenades ([#71317](https://github.com/CleverRaven/Cataclysm-DDA/pull/71317))
 * Object creator fix ([#71140](https://github.com/CleverRaven/Cataclysm-DDA/pull/71140))
 * Update TER_FURN_TRANSFORM.md ([#71319](https://github.com/CleverRaven/Cataclysm-DDA/pull/71319))
@@ -52,7 +53,6 @@
 * Concord fix ([#71238](https://github.com/CleverRaven/Cataclysm-DDA/pull/71238))
 * Long teleport in overmap editor ([#71244](https://github.com/CleverRaven/Cataclysm-DDA/pull/71244))
 * 2024-01-25 fix includes ([#71257](https://github.com/CleverRaven/Cataclysm-DDA/pull/71257))
-* #70712 audit ([#71137](https://github.com/CleverRaven/Cataclysm-DDA/pull/71137))
 * Remove craft_command.h and recipe.h from character.h ([#71183](https://github.com/CleverRaven/Cataclysm-DDA/pull/71183))
 * Parameterise Derelict Property variants and add roofs ([#71219](https://github.com/CleverRaven/Cataclysm-DDA/pull/71219))
 * Unhardcode deconstruction giving skill ([#71144](https://github.com/CleverRaven/Cataclysm-DDA/pull/71144))
