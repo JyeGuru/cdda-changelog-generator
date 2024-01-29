@@ -1,3 +1,4 @@
+* Use dylibbundler to copy and resign libs to support local native arm64 builds. (#71314)
 * Implement display toggle for zones (#71262)
 * few doc changes (#71293)
 * [Magiclysm] Add NO_FAIL to the various "Improved" spells (#71280)
@@ -90,5 +91,4 @@
 * [XEDRA Evolved] Lucid Dreams Spell Fixes (#71159)
 * Fix Aftershock bionic migration conflict (#71161)
 * [Magiclysm] Add MOTION_VISION_RANGE to Shaman attunement (#71126)
-* Allow debug menu to set the HP of custom bodyparts (#71123)
 * Update non-forged caltrops recipe (#71125)
