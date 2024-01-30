@@ -1,3 +1,4 @@
+* [Magiclysm] Fix The Mage-Engineer's Practical Guide density ([#71359](https://github.com/CleverRaven/Cataclysm-DDA/pull/71359))
 * Provide more info for translators in EoC messages ([#71352](https://github.com/CleverRaven/Cataclysm-DDA/pull/71352))
 * Extract trap memorial and trigger messages for translation ([#71338](https://github.com/CleverRaven/Cataclysm-DDA/pull/71338))
 * Extract widget description for translation ([#71362](https://github.com/CleverRaven/Cataclysm-DDA/pull/71362))
@@ -78,7 +79,6 @@
 * [XEDRA Evolved] Create Class Hobbies ([#71180](https://github.com/CleverRaven/Cataclysm-DDA/pull/71180))
 * Remove vegetables from spaghetti al pesto recipe ([#71154](https://github.com/CleverRaven/Cataclysm-DDA/pull/71154))
 * Extremely minor comment fixes ([#71189](https://github.com/CleverRaven/Cataclysm-DDA/pull/71189))
-* include technomancer welder in welding reqs lists ([#71150](https://github.com/CleverRaven/Cataclysm-DDA/pull/71150))
 * fix: review rolling trash cans spawn ([#71156](https://github.com/CleverRaven/Cataclysm-DDA/pull/71156))
 * Fix: Display proficiency progress with more accuracy ([#71173](https://github.com/CleverRaven/Cataclysm-DDA/pull/71173))
 * IFAK Pouches are now less encumbering when worn as pockets ([#71184](https://github.com/CleverRaven/Cataclysm-DDA/pull/71184))
