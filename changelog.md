@@ -1,3 +1,4 @@
+* [Magiclysm] Add life-destroying / terrain bash to Cause Rot ([#71343](https://github.com/CleverRaven/Cataclysm-DDA/pull/71343))
 * ci: avoid leftover changelog update branches ([#71350](https://github.com/CleverRaven/Cataclysm-DDA/pull/71350))
 * Make construction indicator work on rotated base maps ([#71313](https://github.com/CleverRaven/Cataclysm-DDA/pull/71313))
 * [Magiclysm] Add utility spells ([#71310](https://github.com/CleverRaven/Cataclysm-DDA/pull/71310))
@@ -62,7 +63,6 @@
 * More SI unit spacing adjustments ([#71218](https://github.com/CleverRaven/Cataclysm-DDA/pull/71218))
 * [Xedra Evolved] Add Homullus Stat traits ([#71198](https://github.com/CleverRaven/Cataclysm-DDA/pull/71198))
 * Rework Survivor Backgrounds to Be Compatible with Non-Follower NPCs ([#71162](https://github.com/CleverRaven/Cataclysm-DDA/pull/71162))
-* Expand/Adjust police firearm loot ([#71145](https://github.com/CleverRaven/Cataclysm-DDA/pull/71145))
 * Fixing bug with overeating non charge food(Third try) ([#71149](https://github.com/CleverRaven/Cataclysm-DDA/pull/71149))
 * Balance portal storm random pain event. ([#71175](https://github.com/CleverRaven/Cataclysm-DDA/pull/71175))
 * Make Messenger Bags Sided ([#71225](https://github.com/CleverRaven/Cataclysm-DDA/pull/71225))
