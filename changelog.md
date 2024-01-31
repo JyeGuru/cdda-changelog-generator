@@ -1,3 +1,4 @@
+* Fix coffee cup descriptions ([#71389](https://github.com/CleverRaven/Cataclysm-DDA/pull/71389))
 * Achievements recorded on save, not death ([#71327](https://github.com/CleverRaven/Cataclysm-DDA/pull/71327))
 * Do not save map on init failure in tests ([#71358](https://github.com/CleverRaven/Cataclysm-DDA/pull/71358))
 * [Magiclysm] Allow NPCs to spawn as fantasy species ([#71336](https://github.com/CleverRaven/Cataclysm-DDA/pull/71336))
@@ -74,7 +75,6 @@
 * [Magiclysm] Rebalance Haste ([#71250](https://github.com/CleverRaven/Cataclysm-DDA/pull/71250))
 * Fix maple tree in sugar house not responding to action ([#71242](https://github.com/CleverRaven/Cataclysm-DDA/pull/71242))
 * Adds a bunkerless version of gas station bunker and fixes rotation + road connection ([#71223](https://github.com/CleverRaven/Cataclysm-DDA/pull/71223))
-* Add a soviet tanker helmet to the game. ([#71205](https://github.com/CleverRaven/Cataclysm-DDA/pull/71205))
 * [Magiclysm] Remove DoT from Vegetative Grasp ([#71264](https://github.com/CleverRaven/Cataclysm-DDA/pull/71264))
 * document has_ammo, turn_cost, transform_item and damage_level() ([#71240](https://github.com/CleverRaven/Cataclysm-DDA/pull/71240))
 * eoc/math: add melee_damage() and gun_damage() ([#71234](https://github.com/CleverRaven/Cataclysm-DDA/pull/71234))
