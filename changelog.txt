@@ -1,3 +1,6 @@
+* [Magiclysm] Increase goblin night vision (#71357)
+* added some alternative recipes for ingots (#71367)
+* robofac/json: fix prototype dialogue checks (#71374)
 * Correctly center the SDL ASCII lines (#71351)
 * Fix: apple orchard (#71368)
 * Minor grammar fixes in bash message and scenario name (#71369)
@@ -89,5 +92,3 @@
 * Clear up the documentation for ``diff`` field (#71174)
 * item/tname: move large templated struct out of header (#71188)
 * [Xedra Evolved] New elemental fae (#71176)
-* [XEDRA Evolved] Lucid Dreams Spell Fixes (#71159)
-* Fix Aftershock bionic migration conflict (#71161)

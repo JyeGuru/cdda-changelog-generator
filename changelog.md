@@ -1,3 +1,6 @@
+* [Magiclysm] Increase goblin night vision ([#71357](https://github.com/CleverRaven/Cataclysm-DDA/pull/71357))
+* added some alternative recipes for ingots ([#71367](https://github.com/CleverRaven/Cataclysm-DDA/pull/71367))
+* robofac/json: fix prototype dialogue checks ([#71374](https://github.com/CleverRaven/Cataclysm-DDA/pull/71374))
 * Correctly center the SDL ASCII lines ([#71351](https://github.com/CleverRaven/Cataclysm-DDA/pull/71351))
 * Fix: apple orchard ([#71368](https://github.com/CleverRaven/Cataclysm-DDA/pull/71368))
 * Minor grammar fixes in bash message and scenario name ([#71369](https://github.com/CleverRaven/Cataclysm-DDA/pull/71369))
@@ -89,5 +92,3 @@
 * Clear up the documentation for ``diff`` field ([#71174](https://github.com/CleverRaven/Cataclysm-DDA/pull/71174))
 * item/tname: move large templated struct out of header ([#71188](https://github.com/CleverRaven/Cataclysm-DDA/pull/71188))
 * [Xedra Evolved] New elemental fae ([#71176](https://github.com/CleverRaven/Cataclysm-DDA/pull/71176))
-* [XEDRA Evolved] Lucid Dreams Spell Fixes ([#71159](https://github.com/CleverRaven/Cataclysm-DDA/pull/71159))
-* Fix Aftershock bionic migration conflict ([#71161](https://github.com/CleverRaven/Cataclysm-DDA/pull/71161))
