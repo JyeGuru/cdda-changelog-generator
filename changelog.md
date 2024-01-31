@@ -1,3 +1,4 @@
+* More translation coverage in EoC text ([#71380](https://github.com/CleverRaven/Cataclysm-DDA/pull/71380))
 * Spinning fidget spinners ([#71248](https://github.com/CleverRaven/Cataclysm-DDA/pull/71248))
 * More SI unit spacing adjustments ([#71251](https://github.com/CleverRaven/Cataclysm-DDA/pull/71251))
 * PERCENTAGE_DAMAGE spells use the right bodypart's hp ([#71289](https://github.com/CleverRaven/Cataclysm-DDA/pull/71289))
@@ -89,6 +90,5 @@
 * tests: clear missions when clearing avatar ([#71213](https://github.com/CleverRaven/Cataclysm-DDA/pull/71213))
 * Fix construction segfault ([#71231](https://github.com/CleverRaven/Cataclysm-DDA/pull/71231))
 * Small random fixes ([#71209](https://github.com/CleverRaven/Cataclysm-DDA/pull/71209))
-* Extremely minor comment fixes ([#71189](https://github.com/CleverRaven/Cataclysm-DDA/pull/71189))
 * math_parser: remove diag func. declarations from header ([#71190](https://github.com/CleverRaven/Cataclysm-DDA/pull/71190))
 * fix EOC_GENERIC_SPELL_MUTATION ([#71202](https://github.com/CleverRaven/Cataclysm-DDA/pull/71202))
