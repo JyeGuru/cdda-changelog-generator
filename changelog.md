@@ -92,4 +92,3 @@
 * Extremely minor comment fixes ([#71189](https://github.com/CleverRaven/Cataclysm-DDA/pull/71189))
 * math_parser: remove diag func. declarations from header ([#71190](https://github.com/CleverRaven/Cataclysm-DDA/pull/71190))
 * fix EOC_GENERIC_SPELL_MUTATION ([#71202](https://github.com/CleverRaven/Cataclysm-DDA/pull/71202))
-* item/tname: move large templated struct out of header ([#71188](https://github.com/CleverRaven/Cataclysm-DDA/pull/71188))
