@@ -1,3 +1,4 @@
+* EoCify and expand contact lenses ([#71323](https://github.com/CleverRaven/Cataclysm-DDA/pull/71323))
 * [Magiclysm] Fix The Mage-Engineer's Practical Guide density ([#71359](https://github.com/CleverRaven/Cataclysm-DDA/pull/71359))
 * Provide more info for translators in EoC messages ([#71352](https://github.com/CleverRaven/Cataclysm-DDA/pull/71352))
 * Extract trap memorial and trigger messages for translation ([#71338](https://github.com/CleverRaven/Cataclysm-DDA/pull/71338))
@@ -88,6 +89,5 @@
 * Clear up the documentation for ``diff`` field ([#71174](https://github.com/CleverRaven/Cataclysm-DDA/pull/71174))
 * item/tname: move large templated struct out of header ([#71188](https://github.com/CleverRaven/Cataclysm-DDA/pull/71188))
 * [Xedra Evolved] New elemental fae ([#71176](https://github.com/CleverRaven/Cataclysm-DDA/pull/71176))
-* Megastore: parking lot facelift and fixes ([#71153](https://github.com/CleverRaven/Cataclysm-DDA/pull/71153))
 * [XEDRA Evolved] Lucid Dreams Spell Fixes ([#71159](https://github.com/CleverRaven/Cataclysm-DDA/pull/71159))
 * Fix Aftershock bionic migration conflict ([#71161](https://github.com/CleverRaven/Cataclysm-DDA/pull/71161))
