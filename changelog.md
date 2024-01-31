@@ -1,3 +1,4 @@
+* Correctly center the SDL ASCII lines ([#71351](https://github.com/CleverRaven/Cataclysm-DDA/pull/71351))
 * Fix: apple orchard ([#71368](https://github.com/CleverRaven/Cataclysm-DDA/pull/71368))
 * Minor grammar fixes in bash message and scenario name ([#71369](https://github.com/CleverRaven/Cataclysm-DDA/pull/71369))
 * EoCify and expand contact lenses ([#71323](https://github.com/CleverRaven/Cataclysm-DDA/pull/71323))
@@ -85,7 +86,6 @@
 * math_parser: remove diag func. declarations from header ([#71190](https://github.com/CleverRaven/Cataclysm-DDA/pull/71190))
 * effect_tremorsense duration ([#71165](https://github.com/CleverRaven/Cataclysm-DDA/pull/71165))
 * fix EOC_GENERIC_SPELL_MUTATION ([#71202](https://github.com/CleverRaven/Cataclysm-DDA/pull/71202))
-* Fixes TCL Security Drone drops ([#71157](https://github.com/CleverRaven/Cataclysm-DDA/pull/71157))
 * Clear up the documentation for ``diff`` field ([#71174](https://github.com/CleverRaven/Cataclysm-DDA/pull/71174))
 * item/tname: move large templated struct out of header ([#71188](https://github.com/CleverRaven/Cataclysm-DDA/pull/71188))
 * [Xedra Evolved] New elemental fae ([#71176](https://github.com/CleverRaven/Cataclysm-DDA/pull/71176))
