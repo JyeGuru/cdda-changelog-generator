@@ -1,3 +1,4 @@
+* Handle LLVMInstallDir not being set for llvm tools integration (#71385)
 * [Magiclysm] Spell description changes (#71294)
 * Adds New Quiver(s) (#71348)
 * [Magiclysm] Whisper of the Leaves automatically activates (#71364)
@@ -90,5 +91,4 @@
 * Concord fix (#71238)
 * Long teleport in overmap editor (#71244)
 * 2024-01-25 fix includes (#71257)
-* [Magiclysm] Fix Tremorsense removal EoC, revamp Reading the Earthbones (#71230)
 * Fix construction segfault (#71231)
