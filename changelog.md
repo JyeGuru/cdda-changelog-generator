@@ -1,3 +1,5 @@
+* [Magiclysm] Spell description changes ([#71294](https://github.com/CleverRaven/Cataclysm-DDA/pull/71294))
+* Adds New Quiver(s) ([#71348](https://github.com/CleverRaven/Cataclysm-DDA/pull/71348))
 * [Magiclysm] Whisper of the Leaves automatically activates ([#71364](https://github.com/CleverRaven/Cataclysm-DDA/pull/71364))
 * [Magiclysm] Reduce Hoarder penalty for Ravenfolk ([#71365](https://github.com/CleverRaven/Cataclysm-DDA/pull/71365))
 * Make vitrification event recognize faction succession ([#71377](https://github.com/CleverRaven/Cataclysm-DDA/pull/71377))
@@ -88,7 +90,5 @@
 * Concord fix ([#71238](https://github.com/CleverRaven/Cataclysm-DDA/pull/71238))
 * Long teleport in overmap editor ([#71244](https://github.com/CleverRaven/Cataclysm-DDA/pull/71244))
 * 2024-01-25 fix includes ([#71257](https://github.com/CleverRaven/Cataclysm-DDA/pull/71257))
-* Softer edged mx_spider ([#71226](https://github.com/CleverRaven/Cataclysm-DDA/pull/71226))
-* [MoM] Power learning revamp: Photokinesis ([#71228](https://github.com/CleverRaven/Cataclysm-DDA/pull/71228))
 * [Magiclysm] Fix Tremorsense removal EoC, revamp Reading the Earthbones ([#71230](https://github.com/CleverRaven/Cataclysm-DDA/pull/71230))
 * Fix construction segfault ([#71231](https://github.com/CleverRaven/Cataclysm-DDA/pull/71231))
