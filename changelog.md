@@ -1,3 +1,4 @@
+* Fix the inconsistency between the aiming prediction time and the actual time ([#71406](https://github.com/CleverRaven/Cataclysm-DDA/pull/71406))
 * Handle LLVMInstallDir not being set for llvm tools integration ([#71385](https://github.com/CleverRaven/Cataclysm-DDA/pull/71385))
 * [Magiclysm] Spell description changes ([#71294](https://github.com/CleverRaven/Cataclysm-DDA/pull/71294))
 * Adds New Quiver(s) ([#71348](https://github.com/CleverRaven/Cataclysm-DDA/pull/71348))
@@ -91,4 +92,3 @@
 * Concord fix ([#71238](https://github.com/CleverRaven/Cataclysm-DDA/pull/71238))
 * Long teleport in overmap editor ([#71244](https://github.com/CleverRaven/Cataclysm-DDA/pull/71244))
 * 2024-01-25 fix includes ([#71257](https://github.com/CleverRaven/Cataclysm-DDA/pull/71257))
-* Fix construction segfault ([#71231](https://github.com/CleverRaven/Cataclysm-DDA/pull/71231))
