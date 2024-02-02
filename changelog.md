@@ -1,3 +1,4 @@
+* JSONize overmap_terrain_coverage test whitelist ([#71418](https://github.com/CleverRaven/Cataclysm-DDA/pull/71418))
 * Revert stuff that should not have been added ([#71428](https://github.com/CleverRaven/Cataclysm-DDA/pull/71428))
 * Update the scrap trader's dialogue model ([#71416](https://github.com/CleverRaven/Cataclysm-DDA/pull/71416))
 * use ccache for emscripten builds ([#71422](https://github.com/CleverRaven/Cataclysm-DDA/pull/71422))
@@ -89,4 +90,3 @@
 * [Magiclysm] Slightly increase elf HP ([#71273](https://github.com/CleverRaven/Cataclysm-DDA/pull/71273))
 * [MoM] Some concentration powers were missing kcal cost + XP gain ([#71276](https://github.com/CleverRaven/Cataclysm-DDA/pull/71276))
 * Goodnight Sweet Prince: Fixes cooking recipe for cooked plant stalk ([#71266](https://github.com/CleverRaven/Cataclysm-DDA/pull/71266))
-* [Magiclysm] Remove DoT from Vegetative Grasp ([#71264](https://github.com/CleverRaven/Cataclysm-DDA/pull/71264))
