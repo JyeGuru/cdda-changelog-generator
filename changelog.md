@@ -1,3 +1,4 @@
+* Update the scrap trader's dialogue model ([#71416](https://github.com/CleverRaven/Cataclysm-DDA/pull/71416))
 * use ccache for emscripten builds ([#71422](https://github.com/CleverRaven/Cataclysm-DDA/pull/71422))
 * Create new Magiclysm damage types ([#71268](https://github.com/CleverRaven/Cataclysm-DDA/pull/71268))
 * [Xedra Evolved] Add the Shabriri ([#71414](https://github.com/CleverRaven/Cataclysm-DDA/pull/71414))

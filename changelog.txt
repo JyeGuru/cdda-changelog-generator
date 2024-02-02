@@ -1,3 +1,4 @@
+* Update the scrap trader's dialogue model (#71416)
 * use ccache for emscripten builds (#71422)
 * Create new Magiclysm damage types (#71268)
 * [Xedra Evolved] Add the Shabriri (#71414)
