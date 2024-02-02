@@ -90,5 +90,4 @@
 * [MoM] Fix Ch47 holster contain volume ([#71260](https://github.com/CleverRaven/Cataclysm-DDA/pull/71260))
 * [Magiclysm] Rebalance Haste ([#71250](https://github.com/CleverRaven/Cataclysm-DDA/pull/71250))
 * [Magiclysm] Remove DoT from Vegetative Grasp ([#71264](https://github.com/CleverRaven/Cataclysm-DDA/pull/71264))
-* Long teleport in overmap editor ([#71244](https://github.com/CleverRaven/Cataclysm-DDA/pull/71244))
 * 2024-01-25 fix includes ([#71257](https://github.com/CleverRaven/Cataclysm-DDA/pull/71257))
