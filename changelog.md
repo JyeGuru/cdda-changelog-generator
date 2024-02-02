@@ -1,3 +1,4 @@
+* use ccache for emscripten builds ([#71422](https://github.com/CleverRaven/Cataclysm-DDA/pull/71422))
 * Create new Magiclysm damage types ([#71268](https://github.com/CleverRaven/Cataclysm-DDA/pull/71268))
 * [Xedra Evolved] Add the Shabriri ([#71414](https://github.com/CleverRaven/Cataclysm-DDA/pull/71414))
 * Extract widget string for translation ([#71420](https://github.com/CleverRaven/Cataclysm-DDA/pull/71420))
@@ -88,5 +89,4 @@
 * [Magiclysm] Slightly increase elf HP ([#71273](https://github.com/CleverRaven/Cataclysm-DDA/pull/71273))
 * [MoM] Some concentration powers were missing kcal cost + XP gain ([#71276](https://github.com/CleverRaven/Cataclysm-DDA/pull/71276))
 * Goodnight Sweet Prince: Fixes cooking recipe for cooked plant stalk ([#71266](https://github.com/CleverRaven/Cataclysm-DDA/pull/71266))
-* [MoM] Fix Ch47 holster contain volume ([#71260](https://github.com/CleverRaven/Cataclysm-DDA/pull/71260))
 * [Magiclysm] Remove DoT from Vegetative Grasp ([#71264](https://github.com/CleverRaven/Cataclysm-DDA/pull/71264))
