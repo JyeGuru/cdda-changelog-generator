@@ -90,4 +90,3 @@
 * Goodnight Sweet Prince: Fixes cooking recipe for cooked plant stalk ([#71266](https://github.com/CleverRaven/Cataclysm-DDA/pull/71266))
 * [MoM] Fix Ch47 holster contain volume ([#71260](https://github.com/CleverRaven/Cataclysm-DDA/pull/71260))
 * [Magiclysm] Remove DoT from Vegetative Grasp ([#71264](https://github.com/CleverRaven/Cataclysm-DDA/pull/71264))
-* 2024-01-25 fix includes ([#71257](https://github.com/CleverRaven/Cataclysm-DDA/pull/71257))
