@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add the Shabriri (#71414)
 * Extract widget string for translation (#71420)
 * [ Xedra Evolved ] [ MoM ]Helicopter crash profession updates xe and mo m (#71360)
 * [MoM] Power learning revamp: Vitakinesis (#71399)
@@ -88,6 +89,5 @@
 * [MoM] Some concentration powers were missing kcal cost + XP gain (#71276)
 * Goodnight Sweet Prince: Fixes cooking recipe for cooked plant stalk (#71266)
 * [MoM] Fix Ch47 holster contain volume (#71260)
-* [Magiclysm] Rebalance Haste (#71250)
 * [Magiclysm] Remove DoT from Vegetative Grasp (#71264)
 * 2024-01-25 fix includes (#71257)
