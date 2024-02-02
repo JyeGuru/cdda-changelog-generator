@@ -64,7 +64,6 @@
 * eoc: delete arithmetic, compare_num, compare_var, and adjust_var ([#71286](https://github.com/CleverRaven/Cataclysm-DDA/pull/71286))
 * Update ZenFS' sidebars to v2.0.0 ([#71290](https://github.com/CleverRaven/Cataclysm-DDA/pull/71290))
 * Use dylibbundler to copy and resign libs to support local native arm64 builds. ([#71314](https://github.com/CleverRaven/Cataclysm-DDA/pull/71314))
-* Implement display toggle for zones ([#71262](https://github.com/CleverRaven/Cataclysm-DDA/pull/71262))
 * few doc changes ([#71293](https://github.com/CleverRaven/Cataclysm-DDA/pull/71293))
 * [Magiclysm] Add NO_FAIL to the various "Improved" spells ([#71280](https://github.com/CleverRaven/Cataclysm-DDA/pull/71280))
 * Add soldering proficiency requirements to recipes/other/parts.json ([#71301](https://github.com/CleverRaven/Cataclysm-DDA/pull/71301))
