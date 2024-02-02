@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] [ MoM ]Helicopter crash profession updates xe and mo m ([#71360](https://github.com/CleverRaven/Cataclysm-DDA/pull/71360))
 * [MoM] Power learning revamp: Vitakinesis ([#71399](https://github.com/CleverRaven/Cataclysm-DDA/pull/71399))
 * Fix mutation examine window crash ([#71410](https://github.com/CleverRaven/Cataclysm-DDA/pull/71410))
 * Remove rags ([#71411](https://github.com/CleverRaven/Cataclysm-DDA/pull/71411))
@@ -80,7 +81,6 @@
 * fix lack of apostrophe in u_school_level ([#71298](https://github.com/CleverRaven/Cataclysm-DDA/pull/71298))
 * more drops for zombie technicians ([#71283](https://github.com/CleverRaven/Cataclysm-DDA/pull/71283))
 * Remove displacement field from engines ([#71263](https://github.com/CleverRaven/Cataclysm-DDA/pull/71263))
-* Monster upgrades fixes ([#71246](https://github.com/CleverRaven/Cataclysm-DDA/pull/71246))
 * Change `"sabre"` to `"saber"` for +1 and +2 weapons ([#71271](https://github.com/CleverRaven/Cataclysm-DDA/pull/71271))
 * afs: fix maintenance outpost's roof ([#71279](https://github.com/CleverRaven/Cataclysm-DDA/pull/71279))
 * Guilt message fixes ([#71272](https://github.com/CleverRaven/Cataclysm-DDA/pull/71272))
