@@ -1,3 +1,4 @@
+* Extract widget string for translation (#71420)
 * [ Xedra Evolved ] [ MoM ]Helicopter crash profession updates xe and mo m (#71360)
 * [MoM] Power learning revamp: Vitakinesis (#71399)
 * Fix mutation examine window crash (#71410)
@@ -23,7 +24,6 @@
 * [Magiclysm] Allow NPCs to spawn as fantasy species (#71336)
 * Translate custom name of monsters placed in mapgen (#71382)
 * More translation coverage in EoC text (#71380)
-* Spinning fidget spinners (#71248)
 * More SI unit spacing adjustments (#71251)
 * PERCENTAGE_DAMAGE spells use the right bodypart's hp (#71289)
 * Turn on 3D FOV by default and combine its two options into one (#71306)
