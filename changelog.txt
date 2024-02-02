@@ -1,3 +1,4 @@
+* Revert stuff that should not have been added (#71428)
 * Update the scrap trader's dialogue model (#71416)
 * use ccache for emscripten builds (#71422)
 * Create new Magiclysm damage types (#71268)
@@ -82,7 +83,6 @@
 * Routine i18n updates on 27 January 2024 (#71282)
 * fix lack of apostrophe in u_school_level (#71298)
 * more drops for zombie technicians (#71283)
-* Remove displacement field from engines (#71263)
 * Change `"sabre"` to `"saber"` for +1 and +2 weapons (#71271)
 * afs: fix maintenance outpost's roof (#71279)
 * Guilt message fixes (#71272)
