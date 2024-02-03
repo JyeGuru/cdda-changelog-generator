@@ -1,3 +1,4 @@
+* Ocular Zombies no longer track you through walls ([#71452](https://github.com/CleverRaven/Cataclysm-DDA/pull/71452))
 * Revert "Missed Christmas" ([#71432](https://github.com/CleverRaven/Cataclysm-DDA/pull/71432))
 * Make clang-tidy plugin compatible with LLVM 17 ([#71429](https://github.com/CleverRaven/Cataclysm-DDA/pull/71429))
 * Fix absurd gum flavor explosion ([#71435](https://github.com/CleverRaven/Cataclysm-DDA/pull/71435))
@@ -88,5 +89,4 @@
 * fix lack of apostrophe in u_school_level ([#71298](https://github.com/CleverRaven/Cataclysm-DDA/pull/71298))
 * more drops for zombie technicians ([#71283](https://github.com/CleverRaven/Cataclysm-DDA/pull/71283))
 * afs: fix maintenance outpost's roof ([#71279](https://github.com/CleverRaven/Cataclysm-DDA/pull/71279))
-* [Magiclysm] Slightly increase elf HP ([#71273](https://github.com/CleverRaven/Cataclysm-DDA/pull/71273))
 * [MoM] Some concentration powers were missing kcal cost + XP gain ([#71276](https://github.com/CleverRaven/Cataclysm-DDA/pull/71276))
