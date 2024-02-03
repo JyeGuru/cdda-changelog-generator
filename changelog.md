@@ -1,3 +1,4 @@
+* Encase riverside boats in square brackets ([#71446](https://github.com/CleverRaven/Cataclysm-DDA/pull/71446))
 * New dialogue - Prototype Robot Questions ([#71443](https://github.com/CleverRaven/Cataclysm-DDA/pull/71443))
 * fix mutation activation EoC once again ([#71445](https://github.com/CleverRaven/Cataclysm-DDA/pull/71445))
 * Ocular Zombies no longer track you through walls ([#71452](https://github.com/CleverRaven/Cataclysm-DDA/pull/71452))
@@ -82,7 +83,6 @@
 * Bump actions/cache to v4 ([#71305](https://github.com/CleverRaven/Cataclysm-DDA/pull/71305))
 * worldfactory: nerf lastworld warning ([#71312](https://github.com/CleverRaven/Cataclysm-DDA/pull/71312))
 * Add IsDebuggerActive from Catch2 ([#71297](https://github.com/CleverRaven/Cataclysm-DDA/pull/71297))
-* item/tname: add some static_asserts to ensure sanity ([#71281](https://github.com/CleverRaven/Cataclysm-DDA/pull/71281))
 * Remove unused legacy functions in display namespace ([#71307](https://github.com/CleverRaven/Cataclysm-DDA/pull/71307))
 * Delete basement_bionic from "alt_map_key" mod ([#71287](https://github.com/CleverRaven/Cataclysm-DDA/pull/71287))
 * Move drink_bloody_mary to nested under cocktails ([#71291](https://github.com/CleverRaven/Cataclysm-DDA/pull/71291))
