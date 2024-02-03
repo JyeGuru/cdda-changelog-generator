@@ -89,4 +89,3 @@
 * fix lack of apostrophe in u_school_level ([#71298](https://github.com/CleverRaven/Cataclysm-DDA/pull/71298))
 * more drops for zombie technicians ([#71283](https://github.com/CleverRaven/Cataclysm-DDA/pull/71283))
 * afs: fix maintenance outpost's roof ([#71279](https://github.com/CleverRaven/Cataclysm-DDA/pull/71279))
-* [MoM] Some concentration powers were missing kcal cost + XP gain ([#71276](https://github.com/CleverRaven/Cataclysm-DDA/pull/71276))
