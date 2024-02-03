@@ -1,3 +1,4 @@
+* [Defense Mode] Fix #70277 ([#71442](https://github.com/CleverRaven/Cataclysm-DDA/pull/71442))
 * Unbreak CI from new Magiclysm damage types ([#71473](https://github.com/CleverRaven/Cataclysm-DDA/pull/71473))
 * fix VS warning ([#71466](https://github.com/CleverRaven/Cataclysm-DDA/pull/71466))
 * Revert "New hats and caps" ([#71434](https://github.com/CleverRaven/Cataclysm-DDA/pull/71434))
@@ -73,7 +74,6 @@
 * Update TER_FURN_TRANSFORM.md ([#71319](https://github.com/CleverRaven/Cataclysm-DDA/pull/71319))
 * hightlight `Barrel Lenght` in gun info ([#71320](https://github.com/CleverRaven/Cataclysm-DDA/pull/71320))
 * Farmland: It's Free Real Estate ([#71325](https://github.com/CleverRaven/Cataclysm-DDA/pull/71325))
-* eoc: delete arithmetic, compare_num, compare_var, and adjust_var ([#71286](https://github.com/CleverRaven/Cataclysm-DDA/pull/71286))
 * Update ZenFS' sidebars to v2.0.0 ([#71290](https://github.com/CleverRaven/Cataclysm-DDA/pull/71290))
 * Use dylibbundler to copy and resign libs to support local native arm64 builds. ([#71314](https://github.com/CleverRaven/Cataclysm-DDA/pull/71314))
 * few doc changes ([#71293](https://github.com/CleverRaven/Cataclysm-DDA/pull/71293))
