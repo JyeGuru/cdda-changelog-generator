@@ -1,3 +1,4 @@
+* Remove myself from Magiclysm and XE reviewers (#71501)
 * AIM respects NO_UNLOAD/NO_RELOAD flags (#71485)
 * Address training exploits (#71487)
 * [Xedra Evolved] Grammar touchups II (#71499)
@@ -89,5 +90,4 @@
 * Update TER_FURN_TRANSFORM.md (#71319)
 * hightlight `Barrel Lenght` in gun info (#71320)
 * Farmland: It's Free Real Estate (#71325)
-* Use dylibbundler to copy and resign libs to support local native arm64 builds. (#71314)
 * Update MAGIC.md (#71322)
