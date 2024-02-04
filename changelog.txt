@@ -1,3 +1,4 @@
+* [Magiclysm] Add dabbler hobbies for the people that knew 1 spell (#71447)
 * Psychopath->Uncaring (#71415)
 * Removed extra conversion to local coordinates (#71463)
 * Make clang-tidy plugin test suite compatible with libc++ (#71426)
@@ -55,7 +56,6 @@
 * [Magiclysm] Allow NPCs to spawn as fantasy species (#71336)
 * Translate custom name of monsters placed in mapgen (#71382)
 * More translation coverage in EoC text (#71380)
-* Turn on 3D FOV by default and combine its two options into one (#71306)
 * Change how CMake generates version files (#71316)
 * Device to measure artifact resonance (lab loot) (#71346)
 * [Magiclysm] Dispel Magic and Disjunction affect summoned items and auras now (#71321)
