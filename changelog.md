@@ -1,3 +1,4 @@
+* Fixed actual recoil calculation error and optimized the text of recoil and required strength. ([#71462](https://github.com/CleverRaven/Cataclysm-DDA/pull/71462))
 * Sewer monster rework and morale debuffs ([#71476](https://github.com/CleverRaven/Cataclysm-DDA/pull/71476))
 * Modularify heavy ballistic vest ([#71376](https://github.com/CleverRaven/Cataclysm-DDA/pull/71376))
 * Fix some game fluff content ([#71448](https://github.com/CleverRaven/Cataclysm-DDA/pull/71448))
@@ -82,7 +83,6 @@
 * hightlight `Barrel Lenght` in gun info ([#71320](https://github.com/CleverRaven/Cataclysm-DDA/pull/71320))
 * Farmland: It's Free Real Estate ([#71325](https://github.com/CleverRaven/Cataclysm-DDA/pull/71325))
 * Use dylibbundler to copy and resign libs to support local native arm64 builds. ([#71314](https://github.com/CleverRaven/Cataclysm-DDA/pull/71314))
-* Add soldering proficiency requirements to recipes/other/parts.json ([#71301](https://github.com/CleverRaven/Cataclysm-DDA/pull/71301))
 * Update MAGIC.md ([#71322](https://github.com/CleverRaven/Cataclysm-DDA/pull/71322))
 * Make star vampires WARM so they show up on Infrared ([#71302](https://github.com/CleverRaven/Cataclysm-DDA/pull/71302))
 * Extract UI widget clauses text for translation ([#71304](https://github.com/CleverRaven/Cataclysm-DDA/pull/71304))
