@@ -1,3 +1,4 @@
+* Psychopath->Uncaring ([#71415](https://github.com/CleverRaven/Cataclysm-DDA/pull/71415))
 * Removed extra conversion to local coordinates ([#71463](https://github.com/CleverRaven/Cataclysm-DDA/pull/71463))
 * Make clang-tidy plugin test suite compatible with libc++ ([#71426](https://github.com/CleverRaven/Cataclysm-DDA/pull/71426))
 * [Xedra Evolved] More Paraclesian powers ([#71431](https://github.com/CleverRaven/Cataclysm-DDA/pull/71431))
@@ -87,6 +88,5 @@
 * Farmland: It's Free Real Estate ([#71325](https://github.com/CleverRaven/Cataclysm-DDA/pull/71325))
 * Use dylibbundler to copy and resign libs to support local native arm64 builds. ([#71314](https://github.com/CleverRaven/Cataclysm-DDA/pull/71314))
 * Update MAGIC.md ([#71322](https://github.com/CleverRaven/Cataclysm-DDA/pull/71322))
-* Bump actions/cache to v4 ([#71305](https://github.com/CleverRaven/Cataclysm-DDA/pull/71305))
 * worldfactory: nerf lastworld warning ([#71312](https://github.com/CleverRaven/Cataclysm-DDA/pull/71312))
 * Remove unused legacy functions in display namespace ([#71307](https://github.com/CleverRaven/Cataclysm-DDA/pull/71307))
