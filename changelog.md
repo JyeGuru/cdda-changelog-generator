@@ -1,3 +1,4 @@
+* Sewer monster rework and morale debuffs ([#71476](https://github.com/CleverRaven/Cataclysm-DDA/pull/71476))
 * Modularify heavy ballistic vest ([#71376](https://github.com/CleverRaven/Cataclysm-DDA/pull/71376))
 * Fix some game fluff content ([#71448](https://github.com/CleverRaven/Cataclysm-DDA/pull/71448))
 * Routine i18n updates on 03 February 2024 ([#71454](https://github.com/CleverRaven/Cataclysm-DDA/pull/71454))
@@ -88,4 +89,3 @@
 * Bump actions/cache to v4 ([#71305](https://github.com/CleverRaven/Cataclysm-DDA/pull/71305))
 * worldfactory: nerf lastworld warning ([#71312](https://github.com/CleverRaven/Cataclysm-DDA/pull/71312))
 * Remove unused legacy functions in display namespace ([#71307](https://github.com/CleverRaven/Cataclysm-DDA/pull/71307))
-* fix lack of apostrophe in u_school_level ([#71298](https://github.com/CleverRaven/Cataclysm-DDA/pull/71298))
