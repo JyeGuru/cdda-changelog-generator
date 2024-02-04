@@ -1,3 +1,5 @@
+* Make clang-tidy plugin test suite compatible with libc++ ([#71426](https://github.com/CleverRaven/Cataclysm-DDA/pull/71426))
+* [Xedra Evolved] More Paraclesian powers ([#71431](https://github.com/CleverRaven/Cataclysm-DDA/pull/71431))
 * Fixed actual recoil calculation error and optimized the text of recoil and required strength. ([#71462](https://github.com/CleverRaven/Cataclysm-DDA/pull/71462))
 * Sewer monster rework and morale debuffs ([#71476](https://github.com/CleverRaven/Cataclysm-DDA/pull/71476))
 * Modularify heavy ballistic vest ([#71376](https://github.com/CleverRaven/Cataclysm-DDA/pull/71376))
@@ -84,7 +86,6 @@
 * Farmland: It's Free Real Estate ([#71325](https://github.com/CleverRaven/Cataclysm-DDA/pull/71325))
 * Use dylibbundler to copy and resign libs to support local native arm64 builds. ([#71314](https://github.com/CleverRaven/Cataclysm-DDA/pull/71314))
 * Update MAGIC.md ([#71322](https://github.com/CleverRaven/Cataclysm-DDA/pull/71322))
-* Make star vampires WARM so they show up on Infrared ([#71302](https://github.com/CleverRaven/Cataclysm-DDA/pull/71302))
 * Extract UI widget clauses text for translation ([#71304](https://github.com/CleverRaven/Cataclysm-DDA/pull/71304))
 * Bump actions/cache to v4 ([#71305](https://github.com/CleverRaven/Cataclysm-DDA/pull/71305))
 * worldfactory: nerf lastworld warning ([#71312](https://github.com/CleverRaven/Cataclysm-DDA/pull/71312))
