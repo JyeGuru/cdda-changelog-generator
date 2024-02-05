@@ -91,4 +91,3 @@
 * Update the Terminus font ([#71330](https://github.com/CleverRaven/Cataclysm-DDA/pull/71330))
 * [Xedra Evolved] Fix Homullus spell-learning EoC ([#71334](https://github.com/CleverRaven/Cataclysm-DDA/pull/71334))
 * Extract use actions of gun items for translation ([#71333](https://github.com/CleverRaven/Cataclysm-DDA/pull/71333))
-* Farmland: It's Free Real Estate ([#71325](https://github.com/CleverRaven/Cataclysm-DDA/pull/71325))

@@ -91,4 +91,3 @@
 * Update the Terminus font (#71330)
 * [Xedra Evolved] Fix Homullus spell-learning EoC (#71334)
 * Extract use actions of gun items for translation (#71333)
-* Farmland: It's Free Real Estate (#71325)
