@@ -1,3 +1,4 @@
+* Fix error in extracting translatable strings from body_part (#71519)
 * Fix Vampire guide outisde of Xedra folder #71444 (#71481)
 * Revert "use ccache for emscripten builds (#71422)" (#71524)
 * [ Xedra Evolved ] Doll paste recipe partial fix (#71356)
@@ -90,4 +91,3 @@
 * Extract widget description for translation (#71362)
 * [Magiclysm] Add life-destroying / terrain bash to Cause Rot (#71343)
 * ci: avoid leftover changelog update branches (#71350)
-* [Xedra Evolved] Fix Homullus spell-learning EoC (#71334)
