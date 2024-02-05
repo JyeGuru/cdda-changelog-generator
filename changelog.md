@@ -1,3 +1,5 @@
+* [Limb Mod] Limbify Insect Eyes, begin adding limb change EoCs ([#71387](https://github.com/CleverRaven/Cataclysm-DDA/pull/71387))
+* Fix tow cables crashing and not keeping connections properly ([#71482](https://github.com/CleverRaven/Cataclysm-DDA/pull/71482))
 * fix portal storm distance ([#71498](https://github.com/CleverRaven/Cataclysm-DDA/pull/71498))
 * Fix UBSan error in calling cata_tiles::set_draw_cache_dirty() in test mode ([#71502](https://github.com/CleverRaven/Cataclysm-DDA/pull/71502))
 * Typo fix for NETHER_EMANATION ([#71489](https://github.com/CleverRaven/Cataclysm-DDA/pull/71489))
@@ -80,7 +82,6 @@
 * Correctly center the SDL ASCII lines ([#71351](https://github.com/CleverRaven/Cataclysm-DDA/pull/71351))
 * Fix: apple orchard ([#71368](https://github.com/CleverRaven/Cataclysm-DDA/pull/71368))
 * Minor grammar fixes in bash message and scenario name ([#71369](https://github.com/CleverRaven/Cataclysm-DDA/pull/71369))
-* EoCify and expand contact lenses ([#71323](https://github.com/CleverRaven/Cataclysm-DDA/pull/71323))
 * [Magiclysm] Fix The Mage-Engineer's Practical Guide density ([#71359](https://github.com/CleverRaven/Cataclysm-DDA/pull/71359))
 * Provide more info for translators in EoC messages ([#71352](https://github.com/CleverRaven/Cataclysm-DDA/pull/71352))
 * Extract trap memorial and trigger messages for translation ([#71338](https://github.com/CleverRaven/Cataclysm-DDA/pull/71338))
