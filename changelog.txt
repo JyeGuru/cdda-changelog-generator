@@ -1,3 +1,4 @@
+* Fire in your eyes (#71535)
 * Discard developer comments from translation (#71459)
 * item/tname: don't include contents count in sort keys (#71527)
 * Fix error in extracting translatable strings from body_part (#71519)
@@ -87,7 +88,6 @@
 * Minor grammar fixes in bash message and scenario name (#71369)
 * [Magiclysm] Fix The Mage-Engineer's Practical Guide density (#71359)
 * Provide more info for translators in EoC messages (#71352)
-* Extract trap memorial and trigger messages for translation (#71338)
 * Extract widget description for translation (#71362)
 * [Magiclysm] Add life-destroying / terrain bash to Cause Rot (#71343)
 * ci: avoid leftover changelog update branches (#71350)
