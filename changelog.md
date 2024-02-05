@@ -1,3 +1,4 @@
+* [Magiclysm] Add chance of feral mages at magic cabins ([#71517](https://github.com/CleverRaven/Cataclysm-DDA/pull/71517))
 * Fire in your eyes ([#71535](https://github.com/CleverRaven/Cataclysm-DDA/pull/71535))
 * Discard developer comments from translation ([#71459](https://github.com/CleverRaven/Cataclysm-DDA/pull/71459))
 * item/tname: don't include contents count in sort keys ([#71527](https://github.com/CleverRaven/Cataclysm-DDA/pull/71527))
@@ -77,7 +78,6 @@
 * Translate custom name of monsters placed in mapgen ([#71382](https://github.com/CleverRaven/Cataclysm-DDA/pull/71382))
 * More translation coverage in EoC text ([#71380](https://github.com/CleverRaven/Cataclysm-DDA/pull/71380))
 * Device to measure artifact resonance (lab loot) ([#71346](https://github.com/CleverRaven/Cataclysm-DDA/pull/71346))
-* math_parser: delete the shim ([#71339](https://github.com/CleverRaven/Cataclysm-DDA/pull/71339))
 * Fix #71315 Add ereader power consumption to read_activity_actor ([#71340](https://github.com/CleverRaven/Cataclysm-DDA/pull/71340))
 * Allow rural farm spawns ([#71344](https://github.com/CleverRaven/Cataclysm-DDA/pull/71344))
 * [Magiclysm] Increase goblin night vision ([#71357](https://github.com/CleverRaven/Cataclysm-DDA/pull/71357))
