@@ -1,3 +1,4 @@
+* Discard developer comments from translation ([#71459](https://github.com/CleverRaven/Cataclysm-DDA/pull/71459))
 * item/tname: don't include contents count in sort keys ([#71527](https://github.com/CleverRaven/Cataclysm-DDA/pull/71527))
 * Fix error in extracting translatable strings from body_part ([#71519](https://github.com/CleverRaven/Cataclysm-DDA/pull/71519))
 * Fix Vampire guide outisde of Xedra folder #71444 ([#71481](https://github.com/CleverRaven/Cataclysm-DDA/pull/71481))
@@ -75,7 +76,6 @@
 * Translate custom name of monsters placed in mapgen ([#71382](https://github.com/CleverRaven/Cataclysm-DDA/pull/71382))
 * More translation coverage in EoC text ([#71380](https://github.com/CleverRaven/Cataclysm-DDA/pull/71380))
 * Device to measure artifact resonance (lab loot) ([#71346](https://github.com/CleverRaven/Cataclysm-DDA/pull/71346))
-* [Magiclysm] Change name + update description of Nature's Commune ([#71337](https://github.com/CleverRaven/Cataclysm-DDA/pull/71337))
 * math_parser: delete the shim ([#71339](https://github.com/CleverRaven/Cataclysm-DDA/pull/71339))
 * Fix #71315 Add ereader power consumption to read_activity_actor ([#71340](https://github.com/CleverRaven/Cataclysm-DDA/pull/71340))
 * Allow rural farm spawns ([#71344](https://github.com/CleverRaven/Cataclysm-DDA/pull/71344))
