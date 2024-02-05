@@ -1,3 +1,4 @@
+* item/tname: don't include contents count in sort keys ([#71527](https://github.com/CleverRaven/Cataclysm-DDA/pull/71527))
 * Fix error in extracting translatable strings from body_part ([#71519](https://github.com/CleverRaven/Cataclysm-DDA/pull/71519))
 * Fix Vampire guide outisde of Xedra folder #71444 ([#71481](https://github.com/CleverRaven/Cataclysm-DDA/pull/71481))
 * Revert "use ccache for emscripten builds (#71422)" ([#71524](https://github.com/CleverRaven/Cataclysm-DDA/pull/71524))
@@ -71,7 +72,6 @@
 * Routine tileset updates on 01 February 2024 ([#71398](https://github.com/CleverRaven/Cataclysm-DDA/pull/71398))
 * Fix coffee cup descriptions ([#71389](https://github.com/CleverRaven/Cataclysm-DDA/pull/71389))
 * Do not save map on init failure in tests ([#71358](https://github.com/CleverRaven/Cataclysm-DDA/pull/71358))
-* [Magiclysm] Allow NPCs to spawn as fantasy species ([#71336](https://github.com/CleverRaven/Cataclysm-DDA/pull/71336))
 * Translate custom name of monsters placed in mapgen ([#71382](https://github.com/CleverRaven/Cataclysm-DDA/pull/71382))
 * More translation coverage in EoC text ([#71380](https://github.com/CleverRaven/Cataclysm-DDA/pull/71380))
 * Device to measure artifact resonance (lab loot) ([#71346](https://github.com/CleverRaven/Cataclysm-DDA/pull/71346))
