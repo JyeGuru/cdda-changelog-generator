@@ -1,3 +1,5 @@
+* Fix Vampire guide outisde of Xedra folder #71444 ([#71481](https://github.com/CleverRaven/Cataclysm-DDA/pull/71481))
+* Revert "use ccache for emscripten builds (#71422)" ([#71524](https://github.com/CleverRaven/Cataclysm-DDA/pull/71524))
 * [ Xedra Evolved ] Doll paste recipe partial fix ([#71356](https://github.com/CleverRaven/Cataclysm-DDA/pull/71356))
 * [ Xedra Evolved ] March Lord Banners ([#71361](https://github.com/CleverRaven/Cataclysm-DDA/pull/71361))
 * [Limb Mod] Limbify Insect Eyes, begin adding limb change EoCs ([#71387](https://github.com/CleverRaven/Cataclysm-DDA/pull/71387))
@@ -88,6 +90,4 @@
 * Extract widget description for translation ([#71362](https://github.com/CleverRaven/Cataclysm-DDA/pull/71362))
 * [Magiclysm] Add life-destroying / terrain bash to Cause Rot ([#71343](https://github.com/CleverRaven/Cataclysm-DDA/pull/71343))
 * ci: avoid leftover changelog update branches ([#71350](https://github.com/CleverRaven/Cataclysm-DDA/pull/71350))
-* Update the Terminus font ([#71330](https://github.com/CleverRaven/Cataclysm-DDA/pull/71330))
 * [Xedra Evolved] Fix Homullus spell-learning EoC ([#71334](https://github.com/CleverRaven/Cataclysm-DDA/pull/71334))
-* Extract use actions of gun items for translation ([#71333](https://github.com/CleverRaven/Cataclysm-DDA/pull/71333))
