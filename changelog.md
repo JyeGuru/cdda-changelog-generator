@@ -1,3 +1,4 @@
+* House02 regionalizing and bulk constructions ([#71555](https://github.com/CleverRaven/Cataclysm-DDA/pull/71555))
 * Cats can hide ([#71554](https://github.com/CleverRaven/Cataclysm-DDA/pull/71554))
 * Don't let the player store items in corpses ([#71557](https://github.com/CleverRaven/Cataclysm-DDA/pull/71557))
 * Fix ignoring attributes on template argument compile warning ([#71522](https://github.com/CleverRaven/Cataclysm-DDA/pull/71522))
@@ -89,5 +90,4 @@
 * Fix: apple orchard ([#71368](https://github.com/CleverRaven/Cataclysm-DDA/pull/71368))
 * Minor grammar fixes in bash message and scenario name ([#71369](https://github.com/CleverRaven/Cataclysm-DDA/pull/71369))
 * [Magiclysm] Fix The Mage-Engineer's Practical Guide density ([#71359](https://github.com/CleverRaven/Cataclysm-DDA/pull/71359))
-* Provide more info for translators in EoC messages ([#71352](https://github.com/CleverRaven/Cataclysm-DDA/pull/71352))
 * Extract widget description for translation ([#71362](https://github.com/CleverRaven/Cataclysm-DDA/pull/71362))
