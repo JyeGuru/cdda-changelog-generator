@@ -1,3 +1,4 @@
+* Fix broken zombie butchering message ([#71536](https://github.com/CleverRaven/Cataclysm-DDA/pull/71536))
 * Properly implement recording of achievements on saving ([#71534](https://github.com/CleverRaven/Cataclysm-DDA/pull/71534))
 * [Xedra/Bombastic Perks] Cold iron alchemy bugfix ([#71541](https://github.com/CleverRaven/Cataclysm-DDA/pull/71541))
 * Fix up trap detection checks ([#71515](https://github.com/CleverRaven/Cataclysm-DDA/pull/71515))
@@ -80,7 +81,6 @@
 * Do not save map on init failure in tests ([#71358](https://github.com/CleverRaven/Cataclysm-DDA/pull/71358))
 * Translate custom name of monsters placed in mapgen ([#71382](https://github.com/CleverRaven/Cataclysm-DDA/pull/71382))
 * More translation coverage in EoC text ([#71380](https://github.com/CleverRaven/Cataclysm-DDA/pull/71380))
-* Device to measure artifact resonance (lab loot) ([#71346](https://github.com/CleverRaven/Cataclysm-DDA/pull/71346))
 * [Magiclysm] Increase goblin night vision ([#71357](https://github.com/CleverRaven/Cataclysm-DDA/pull/71357))
 * added some alternative recipes for ingots ([#71367](https://github.com/CleverRaven/Cataclysm-DDA/pull/71367))
 * robofac/json: fix prototype dialogue checks ([#71374](https://github.com/CleverRaven/Cataclysm-DDA/pull/71374))
