@@ -1,3 +1,4 @@
+* [MoM] Create Dimension-Lost Scenario, move Itzcuauhtli Corps Liaison to scenario-only ([#71570](https://github.com/CleverRaven/Cataclysm-DDA/pull/71570))
 * Fix crash when new achievement is completed when loading past game info in achievement UI ([#71562](https://github.com/CleverRaven/Cataclysm-DDA/pull/71562))
 * Adjust biosilicified chitin armor kit crafting ([#71571](https://github.com/CleverRaven/Cataclysm-DDA/pull/71571))
 * Fallback to "0.I" when version.h is empty ([#71567](https://github.com/CleverRaven/Cataclysm-DDA/pull/71567))
@@ -90,4 +91,3 @@
 * robofac/json: fix prototype dialogue checks ([#71374](https://github.com/CleverRaven/Cataclysm-DDA/pull/71374))
 * Fix: apple orchard ([#71368](https://github.com/CleverRaven/Cataclysm-DDA/pull/71368))
 * Minor grammar fixes in bash message and scenario name ([#71369](https://github.com/CleverRaven/Cataclysm-DDA/pull/71369))
-* Extract widget description for translation ([#71362](https://github.com/CleverRaven/Cataclysm-DDA/pull/71362))
