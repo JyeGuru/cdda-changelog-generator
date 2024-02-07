@@ -1,3 +1,4 @@
+* retain omt path when canceling auto move/drive ([#71521](https://github.com/CleverRaven/Cataclysm-DDA/pull/71521))
 * fix (f)ire "draw what" menu repeating same gun ([#71582](https://github.com/CleverRaven/Cataclysm-DDA/pull/71582))
 * variantize and generify ammunition cans ([#71576](https://github.com/CleverRaven/Cataclysm-DDA/pull/71576))
 * Rename "Think something" to "Emote", make it more freeform ([#71427](https://github.com/CleverRaven/Cataclysm-DDA/pull/71427))
@@ -90,4 +91,3 @@
 * Fix coffee cup descriptions ([#71389](https://github.com/CleverRaven/Cataclysm-DDA/pull/71389))
 * Translate custom name of monsters placed in mapgen ([#71382](https://github.com/CleverRaven/Cataclysm-DDA/pull/71382))
 * More translation coverage in EoC text ([#71380](https://github.com/CleverRaven/Cataclysm-DDA/pull/71380))
-* robofac/json: fix prototype dialogue checks ([#71374](https://github.com/CleverRaven/Cataclysm-DDA/pull/71374))
