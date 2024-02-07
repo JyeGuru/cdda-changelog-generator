@@ -1,3 +1,5 @@
+* fix (f)ire "draw what" menu repeating same gun ([#71582](https://github.com/CleverRaven/Cataclysm-DDA/pull/71582))
+* variantize and generify ammunition cans ([#71576](https://github.com/CleverRaven/Cataclysm-DDA/pull/71576))
 * Rename "Think something" to "Emote", make it more freeform ([#71427](https://github.com/CleverRaven/Cataclysm-DDA/pull/71427))
 * [Magiclysm] Switch Anvil item to ANVIL quality for weapons of Asgard ([#71581](https://github.com/CleverRaven/Cataclysm-DDA/pull/71581))
 * jsonify fear_paralyze ([#71507](https://github.com/CleverRaven/Cataclysm-DDA/pull/71507))
