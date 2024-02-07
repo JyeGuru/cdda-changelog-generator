@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix Arvore forest-detection EoCs ([#71566](https://github.com/CleverRaven/Cataclysm-DDA/pull/71566))
 * House02 regionalizing and bulk constructions ([#71555](https://github.com/CleverRaven/Cataclysm-DDA/pull/71555))
 * Cats can hide ([#71554](https://github.com/CleverRaven/Cataclysm-DDA/pull/71554))
 * Don't let the player store items in corpses ([#71557](https://github.com/CleverRaven/Cataclysm-DDA/pull/71557))
@@ -13,7 +14,6 @@
 * Fix error in extracting translatable strings from body_part ([#71519](https://github.com/CleverRaven/Cataclysm-DDA/pull/71519))
 * Fix Vampire guide outisde of Xedra folder #71444 ([#71481](https://github.com/CleverRaven/Cataclysm-DDA/pull/71481))
 * Revert "use ccache for emscripten builds (#71422)" ([#71524](https://github.com/CleverRaven/Cataclysm-DDA/pull/71524))
-* [ Xedra Evolved ] Doll paste recipe partial fix ([#71356](https://github.com/CleverRaven/Cataclysm-DDA/pull/71356))
 * [ Xedra Evolved ] March Lord Banners ([#71361](https://github.com/CleverRaven/Cataclysm-DDA/pull/71361))
 * [Limb Mod] Limbify Insect Eyes, begin adding limb change EoCs ([#71387](https://github.com/CleverRaven/Cataclysm-DDA/pull/71387))
 * Fix tow cables crashing and not keeping connections properly ([#71482](https://github.com/CleverRaven/Cataclysm-DDA/pull/71482))
