@@ -1,3 +1,4 @@
+* Hub 01 Ancillae dialogue spelling/grammar fixes ([#71545](https://github.com/CleverRaven/Cataclysm-DDA/pull/71545))
 * [Xedra Evolved] Fix Arvore forest-detection EoCs ([#71566](https://github.com/CleverRaven/Cataclysm-DDA/pull/71566))
 * House02 regionalizing and bulk constructions ([#71555](https://github.com/CleverRaven/Cataclysm-DDA/pull/71555))
 * Cats can hide ([#71554](https://github.com/CleverRaven/Cataclysm-DDA/pull/71554))
@@ -84,7 +85,6 @@
 * Do not save map on init failure in tests ([#71358](https://github.com/CleverRaven/Cataclysm-DDA/pull/71358))
 * Translate custom name of monsters placed in mapgen ([#71382](https://github.com/CleverRaven/Cataclysm-DDA/pull/71382))
 * More translation coverage in EoC text ([#71380](https://github.com/CleverRaven/Cataclysm-DDA/pull/71380))
-* [Magiclysm] Increase goblin night vision ([#71357](https://github.com/CleverRaven/Cataclysm-DDA/pull/71357))
 * added some alternative recipes for ingots ([#71367](https://github.com/CleverRaven/Cataclysm-DDA/pull/71367))
 * robofac/json: fix prototype dialogue checks ([#71374](https://github.com/CleverRaven/Cataclysm-DDA/pull/71374))
 * Fix: apple orchard ([#71368](https://github.com/CleverRaven/Cataclysm-DDA/pull/71368))
