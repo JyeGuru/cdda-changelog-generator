@@ -75,7 +75,6 @@
 * Add "Oversensitive System" starting challenge trait to disallow CBM use ([#71407](https://github.com/CleverRaven/Cataclysm-DDA/pull/71407))
 * Fix the inconsistency between the aiming prediction time and the actual time ([#71406](https://github.com/CleverRaven/Cataclysm-DDA/pull/71406))
 * Handle LLVMInstallDir not being set for llvm tools integration ([#71385](https://github.com/CleverRaven/Cataclysm-DDA/pull/71385))
-* [Magiclysm] Whisper of the Leaves automatically activates ([#71364](https://github.com/CleverRaven/Cataclysm-DDA/pull/71364))
 * [Magiclysm] Reduce Hoarder penalty for Ravenfolk ([#71365](https://github.com/CleverRaven/Cataclysm-DDA/pull/71365))
 * Make vitrification event recognize faction succession ([#71377](https://github.com/CleverRaven/Cataclysm-DDA/pull/71377))
 * Couple of mapgen CI fail fixes ([#71383](https://github.com/CleverRaven/Cataclysm-DDA/pull/71383))
