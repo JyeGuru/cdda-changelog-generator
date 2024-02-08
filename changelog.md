@@ -90,4 +90,3 @@
 * [BombasticPerks] Complimentary Remarks ([#71397](https://github.com/CleverRaven/Cataclysm-DDA/pull/71397))
 * Routine tileset updates on 01 February 2024 ([#71398](https://github.com/CleverRaven/Cataclysm-DDA/pull/71398))
 * Fix coffee cup descriptions ([#71389](https://github.com/CleverRaven/Cataclysm-DDA/pull/71389))
-* Translate custom name of monsters placed in mapgen ([#71382](https://github.com/CleverRaven/Cataclysm-DDA/pull/71382))

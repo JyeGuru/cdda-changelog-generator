@@ -90,4 +90,3 @@
 * [BombasticPerks] Complimentary Remarks (#71397)
 * Routine tileset updates on 01 February 2024 (#71398)
 * Fix coffee cup descriptions (#71389)
-* Translate custom name of monsters placed in mapgen (#71382)
