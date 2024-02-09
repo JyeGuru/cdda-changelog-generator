@@ -1,3 +1,4 @@
+* [Magiclysm] More (and more thematic) trolls ([#71402](https://github.com/CleverRaven/Cataclysm-DDA/pull/71402))
 * [Xedra Evolved] Fix the Wind Blows, the Willow Bends duration ([#71604](https://github.com/CleverRaven/Cataclysm-DDA/pull/71604))
 * Revamp the Chemist NPC JSON ([#71589](https://github.com/CleverRaven/Cataclysm-DDA/pull/71589))
 * Allow a short sledge to be converted back to a regular sledge ([#71599](https://github.com/CleverRaven/Cataclysm-DDA/pull/71599))
@@ -87,6 +88,5 @@
 * Fix the inconsistency between the aiming prediction time and the actual time ([#71406](https://github.com/CleverRaven/Cataclysm-DDA/pull/71406))
 * Fix artifact resonance detectors spawning as artifacts ([#71393](https://github.com/CleverRaven/Cataclysm-DDA/pull/71393))
 * Fix suffering tests by normalizing the initialization calls ([#71404](https://github.com/CleverRaven/Cataclysm-DDA/pull/71404))
-* Send item id as variable to use_action EoC ([#71392](https://github.com/CleverRaven/Cataclysm-DDA/pull/71392))
 * [BombasticPerks] Complimentary Remarks ([#71397](https://github.com/CleverRaven/Cataclysm-DDA/pull/71397))
 * Routine tileset updates on 01 February 2024 ([#71398](https://github.com/CleverRaven/Cataclysm-DDA/pull/71398))
