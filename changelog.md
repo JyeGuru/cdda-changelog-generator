@@ -1,3 +1,4 @@
+* Define Rubik's personality ([#71594](https://github.com/CleverRaven/Cataclysm-DDA/pull/71594))
 * [Magiclysm] More (and more thematic) trolls ([#71402](https://github.com/CleverRaven/Cataclysm-DDA/pull/71402))
 * [Xedra Evolved] Fix the Wind Blows, the Willow Bends duration ([#71604](https://github.com/CleverRaven/Cataclysm-DDA/pull/71604))
 * Revamp the Chemist NPC JSON ([#71589](https://github.com/CleverRaven/Cataclysm-DDA/pull/71589))
@@ -86,7 +87,6 @@
 * Remove rags ([#71411](https://github.com/CleverRaven/Cataclysm-DDA/pull/71411))
 * Add "Oversensitive System" starting challenge trait to disallow CBM use ([#71407](https://github.com/CleverRaven/Cataclysm-DDA/pull/71407))
 * Fix the inconsistency between the aiming prediction time and the actual time ([#71406](https://github.com/CleverRaven/Cataclysm-DDA/pull/71406))
-* Fix artifact resonance detectors spawning as artifacts ([#71393](https://github.com/CleverRaven/Cataclysm-DDA/pull/71393))
 * Fix suffering tests by normalizing the initialization calls ([#71404](https://github.com/CleverRaven/Cataclysm-DDA/pull/71404))
 * [BombasticPerks] Complimentary Remarks ([#71397](https://github.com/CleverRaven/Cataclysm-DDA/pull/71397))
 * Routine tileset updates on 01 February 2024 ([#71398](https://github.com/CleverRaven/Cataclysm-DDA/pull/71398))
