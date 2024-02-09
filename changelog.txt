@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix the Wind Blows, the Willow Bends duration (#71604)
 * Revamp the Chemist NPC JSON (#71589)
 * Allow a short sledge to be converted back to a regular sledge (#71599)
 * [Xedra Evolved] Fix Traverse the Wilds range (#71620)
@@ -89,4 +90,3 @@
 * Send item id as variable to use_action EoC (#71392)
 * [BombasticPerks] Complimentary Remarks (#71397)
 * Routine tileset updates on 01 February 2024 (#71398)
-* Fix coffee cup descriptions (#71389)
