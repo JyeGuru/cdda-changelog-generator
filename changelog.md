@@ -90,4 +90,3 @@
 * Extract widget string for translation ([#71420](https://github.com/CleverRaven/Cataclysm-DDA/pull/71420))
 * Fix mutation examine window crash ([#71410](https://github.com/CleverRaven/Cataclysm-DDA/pull/71410))
 * Remove rags ([#71411](https://github.com/CleverRaven/Cataclysm-DDA/pull/71411))
-* Add "Oversensitive System" starting challenge trait to disallow CBM use ([#71407](https://github.com/CleverRaven/Cataclysm-DDA/pull/71407))

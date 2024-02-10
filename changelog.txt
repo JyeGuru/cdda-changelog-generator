@@ -90,4 +90,3 @@
 * Extract widget string for translation (#71420)
 * Fix mutation examine window crash (#71410)
 * Remove rags (#71411)
-* Add "Oversensitive System" starting challenge trait to disallow CBM use (#71407)
