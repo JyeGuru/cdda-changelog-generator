@@ -1,3 +1,4 @@
+* Fix guilt from killing hostile npcs (#71609)
 * Add ETHEREAL character flag, add [Magiclysm] spell that uses it (#71591)
 * state that astyle 3.1 should be used (#71639)
 * make the overmap note selection stable when editing in list (#71641)
@@ -90,4 +91,3 @@
 * Fix mutation examine window crash (#71410)
 * Remove rags (#71411)
 * Add "Oversensitive System" starting challenge trait to disallow CBM use (#71407)
-* Fix the inconsistency between the aiming prediction time and the actual time (#71406)
