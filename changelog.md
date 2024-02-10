@@ -1,3 +1,5 @@
+* Add ETHEREAL character flag, add [Magiclysm] spell that uses it ([#71591](https://github.com/CleverRaven/Cataclysm-DDA/pull/71591))
+* state that astyle 3.1 should be used ([#71639](https://github.com/CleverRaven/Cataclysm-DDA/pull/71639))
 * make the overmap note selection stable when editing in list ([#71641](https://github.com/CleverRaven/Cataclysm-DDA/pull/71641))
 * use rl_dist to compute note danger radius ([#71650](https://github.com/CleverRaven/Cataclysm-DDA/pull/71650))
 * show note danger radius visually on map ([#71649](https://github.com/CleverRaven/Cataclysm-DDA/pull/71649))
@@ -66,7 +68,6 @@
 * Don't warn psychopaths about eating human meat ([#71461](https://github.com/CleverRaven/Cataclysm-DDA/pull/71461))
 * tied down fridge uses any rope, not only rope_30 ([#71477](https://github.com/CleverRaven/Cataclysm-DDA/pull/71477))
 * Trim the sort armor keybinding hints ([#71438](https://github.com/CleverRaven/Cataclysm-DDA/pull/71438))
-* Fix int32_t overflow in energy display ([#71403](https://github.com/CleverRaven/Cataclysm-DDA/pull/71403))
 * [Defense Mode] Fix #70277 ([#71442](https://github.com/CleverRaven/Cataclysm-DDA/pull/71442))
 * Unbreak CI from new Magiclysm damage types ([#71473](https://github.com/CleverRaven/Cataclysm-DDA/pull/71473))
 * fix VS warning ([#71466](https://github.com/CleverRaven/Cataclysm-DDA/pull/71466))
@@ -90,4 +91,3 @@
 * Remove rags ([#71411](https://github.com/CleverRaven/Cataclysm-DDA/pull/71411))
 * Add "Oversensitive System" starting challenge trait to disallow CBM use ([#71407](https://github.com/CleverRaven/Cataclysm-DDA/pull/71407))
 * Fix the inconsistency between the aiming prediction time and the actual time ([#71406](https://github.com/CleverRaven/Cataclysm-DDA/pull/71406))
-* Fix suffering tests by normalizing the initialization calls ([#71404](https://github.com/CleverRaven/Cataclysm-DDA/pull/71404))
