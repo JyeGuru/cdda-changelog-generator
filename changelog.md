@@ -1,3 +1,4 @@
+* [Magiclysm] Even more spells ([#71491](https://github.com/CleverRaven/Cataclysm-DDA/pull/71491))
 * Add flag to dermatik things ([#71660](https://github.com/CleverRaven/Cataclysm-DDA/pull/71660))
 * Fix 'mycus" json flag info ([#71538](https://github.com/CleverRaven/Cataclysm-DDA/pull/71538))
 * Fix typo in adv solar panels vehicle part ([#71583](https://github.com/CleverRaven/Cataclysm-DDA/pull/71583))
@@ -69,7 +70,6 @@
 * Fix another CI error in Magiclysm ([#71484](https://github.com/CleverRaven/Cataclysm-DDA/pull/71484))
 * [Magiclysm] Add dabbler hobbies for the people that knew 1 spell ([#71447](https://github.com/CleverRaven/Cataclysm-DDA/pull/71447))
 * Removed extra conversion to local coordinates ([#71463](https://github.com/CleverRaven/Cataclysm-DDA/pull/71463))
-* [Xedra Evolved] More Paraclesian powers ([#71431](https://github.com/CleverRaven/Cataclysm-DDA/pull/71431))
 * Fixed actual recoil calculation error and optimized the text of recoil and required strength. ([#71462](https://github.com/CleverRaven/Cataclysm-DDA/pull/71462))
 * Sewer monster rework and morale debuffs ([#71476](https://github.com/CleverRaven/Cataclysm-DDA/pull/71476))
 * Fix some game fluff content ([#71448](https://github.com/CleverRaven/Cataclysm-DDA/pull/71448))
