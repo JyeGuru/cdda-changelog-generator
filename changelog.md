@@ -1,3 +1,4 @@
+* [Magiclysm] Druid tower ([#71424](https://github.com/CleverRaven/Cataclysm-DDA/pull/71424))
 * Fix guilt from killing hostile npcs ([#71609](https://github.com/CleverRaven/Cataclysm-DDA/pull/71609))
 * Add ETHEREAL character flag, add [Magiclysm] spell that uses it ([#71591](https://github.com/CleverRaven/Cataclysm-DDA/pull/71591))
 * state that astyle 3.1 should be used ([#71639](https://github.com/CleverRaven/Cataclysm-DDA/pull/71639))
@@ -88,5 +89,4 @@
 * use ccache for emscripten builds ([#71422](https://github.com/CleverRaven/Cataclysm-DDA/pull/71422))
 * [Xedra Evolved] Add the Shabriri ([#71414](https://github.com/CleverRaven/Cataclysm-DDA/pull/71414))
 * Extract widget string for translation ([#71420](https://github.com/CleverRaven/Cataclysm-DDA/pull/71420))
-* Fix mutation examine window crash ([#71410](https://github.com/CleverRaven/Cataclysm-DDA/pull/71410))
 * Remove rags ([#71411](https://github.com/CleverRaven/Cataclysm-DDA/pull/71411))
