@@ -1,3 +1,5 @@
+* Make the construction palette more varied (#71578)
+* show danger radius in overmap note list (#71628)
 * fix overmap note list not updating when danger mark is removed (#71640)
 * Routine i18n updates on 10 February 2024 (#71651)
 * Faction camps store, track, and consume vitamins (#71546)
@@ -86,7 +88,5 @@
 * Fix absurd gum flavor explosion (#71435)
 * fix wrong scaling on hidpi screens in emscripten (#71436)
 * Fix tough zombie evolution (#71440)
-* JSONize overmap_terrain_coverage test whitelist (#71418)
 * Revert stuff that should not have been added (#71428)
 * use ccache for emscripten builds (#71422)
-* Extract widget string for translation (#71420)
