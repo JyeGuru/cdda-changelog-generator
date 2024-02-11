@@ -1,3 +1,4 @@
+* Fix typo in adv solar panels vehicle part ([#71583](https://github.com/CleverRaven/Cataclysm-DDA/pull/71583))
 * Cloak and Poncho fixes ([#71631](https://github.com/CleverRaven/Cataclysm-DDA/pull/71631))
 * Minor generic zombie balance edits ([#71613](https://github.com/CleverRaven/Cataclysm-DDA/pull/71613))
 * Fix MOLLE pouches hiding stored items and showing incorrect movecosts ([#71500](https://github.com/CleverRaven/Cataclysm-DDA/pull/71500))
@@ -27,7 +28,6 @@
 * retain omt path when canceling auto move/drive ([#71521](https://github.com/CleverRaven/Cataclysm-DDA/pull/71521))
 * fix (f)ire "draw what" menu repeating same gun ([#71582](https://github.com/CleverRaven/Cataclysm-DDA/pull/71582))
 * variantize and generify ammunition cans ([#71576](https://github.com/CleverRaven/Cataclysm-DDA/pull/71576))
-* Rename "Think something" to "Emote", make it more freeform ([#71427](https://github.com/CleverRaven/Cataclysm-DDA/pull/71427))
 * [Magiclysm] Switch Anvil item to ANVIL quality for weapons of Asgard ([#71581](https://github.com/CleverRaven/Cataclysm-DDA/pull/71581))
 * jsonify fear_paralyze ([#71507](https://github.com/CleverRaven/Cataclysm-DDA/pull/71507))
 * [MoM] Create Dimension-Lost Scenario, move Itzcuauhtli Corps Liaison to scenario-only ([#71570](https://github.com/CleverRaven/Cataclysm-DDA/pull/71570))
