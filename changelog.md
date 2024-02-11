@@ -1,3 +1,4 @@
+* Cloak and Poncho fixes ([#71631](https://github.com/CleverRaven/Cataclysm-DDA/pull/71631))
 * Minor generic zombie balance edits ([#71613](https://github.com/CleverRaven/Cataclysm-DDA/pull/71613))
 * Fix MOLLE pouches hiding stored items and showing incorrect movecosts ([#71500](https://github.com/CleverRaven/Cataclysm-DDA/pull/71500))
 * Last few SI spacing adjustments ([#71597](https://github.com/CleverRaven/Cataclysm-DDA/pull/71597))
@@ -66,7 +67,6 @@
 * Fix another CI error in Magiclysm ([#71484](https://github.com/CleverRaven/Cataclysm-DDA/pull/71484))
 * [Magiclysm] Add dabbler hobbies for the people that knew 1 spell ([#71447](https://github.com/CleverRaven/Cataclysm-DDA/pull/71447))
 * Removed extra conversion to local coordinates ([#71463](https://github.com/CleverRaven/Cataclysm-DDA/pull/71463))
-* Make clang-tidy plugin test suite compatible with libc++ ([#71426](https://github.com/CleverRaven/Cataclysm-DDA/pull/71426))
 * [Xedra Evolved] More Paraclesian powers ([#71431](https://github.com/CleverRaven/Cataclysm-DDA/pull/71431))
 * Fixed actual recoil calculation error and optimized the text of recoil and required strength. ([#71462](https://github.com/CleverRaven/Cataclysm-DDA/pull/71462))
 * Sewer monster rework and morale debuffs ([#71476](https://github.com/CleverRaven/Cataclysm-DDA/pull/71476))
