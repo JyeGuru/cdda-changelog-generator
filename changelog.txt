@@ -1,3 +1,5 @@
+* Faction camps store, track, and consume vitamins (#71546)
+* [Magiclysm] Add magical arrows and quivers (#71574)
 * [Magiclysm] Druid tower (#71424)
 * Fix guilt from killing hostile npcs (#71609)
 * Add ETHEREAL character flag, add [Magiclysm] spell that uses it (#71591)
@@ -87,6 +89,4 @@
 * Revert stuff that should not have been added (#71428)
 * Update the scrap trader's dialogue model (#71416)
 * use ccache for emscripten builds (#71422)
-* [Xedra Evolved] Add the Shabriri (#71414)
 * Extract widget string for translation (#71420)
-* Remove rags (#71411)
