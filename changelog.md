@@ -1,3 +1,4 @@
+* Add flag to dermatik things ([#71660](https://github.com/CleverRaven/Cataclysm-DDA/pull/71660))
 * Fix 'mycus" json flag info ([#71538](https://github.com/CleverRaven/Cataclysm-DDA/pull/71538))
 * Fix typo in adv solar panels vehicle part ([#71583](https://github.com/CleverRaven/Cataclysm-DDA/pull/71583))
 * Cloak and Poncho fixes ([#71631](https://github.com/CleverRaven/Cataclysm-DDA/pull/71631))
@@ -87,7 +88,6 @@
 * fix mutation activation EoC once again ([#71445](https://github.com/CleverRaven/Cataclysm-DDA/pull/71445))
 * Ocular Zombies no longer track you through walls ([#71452](https://github.com/CleverRaven/Cataclysm-DDA/pull/71452))
 * Revert "Missed Christmas" ([#71432](https://github.com/CleverRaven/Cataclysm-DDA/pull/71432))
-* Make clang-tidy plugin compatible with LLVM 17 ([#71429](https://github.com/CleverRaven/Cataclysm-DDA/pull/71429))
 * Fix absurd gum flavor explosion ([#71435](https://github.com/CleverRaven/Cataclysm-DDA/pull/71435))
 * fix wrong scaling on hidpi screens in emscripten ([#71436](https://github.com/CleverRaven/Cataclysm-DDA/pull/71436))
 * Fix tough zombie evolution ([#71440](https://github.com/CleverRaven/Cataclysm-DDA/pull/71440))
