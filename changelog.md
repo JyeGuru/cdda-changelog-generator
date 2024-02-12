@@ -89,4 +89,3 @@
 * tied down fridge uses any rope, not only rope_30 ([#71477](https://github.com/CleverRaven/Cataclysm-DDA/pull/71477))
 * Unbreak CI from new Magiclysm damage types ([#71473](https://github.com/CleverRaven/Cataclysm-DDA/pull/71473))
 * fix VS warning ([#71466](https://github.com/CleverRaven/Cataclysm-DDA/pull/71466))
-* Ocular Zombies no longer track you through walls ([#71452](https://github.com/CleverRaven/Cataclysm-DDA/pull/71452))
