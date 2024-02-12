@@ -78,7 +78,6 @@
 * [Xedra Evolved] Grammar touchups II (#71499)
 * Altered Mindstates partially resist Flaming Eyes (#71460)
 * Fix another CI error in Magiclysm (#71484)
-* [Magiclysm] Add dabbler hobbies for the people that knew 1 spell (#71447)
 * Removed extra conversion to local coordinates (#71463)
 * Fixed actual recoil calculation error and optimized the text of recoil and required strength. (#71462)
 * Sewer monster rework and morale debuffs (#71476)
