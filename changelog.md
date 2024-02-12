@@ -1,3 +1,4 @@
+* [Magiclysm] Rebalance enchanted_combat_items ([#71697](https://github.com/CleverRaven/Cataclysm-DDA/pull/71697))
 * Make the ice axe resemble an ice axe instead of a strange hammer ([#71644](https://github.com/CleverRaven/Cataclysm-DDA/pull/71644))
 * Move rhode island secession snippet, add comments for dates ([#71680](https://github.com/CleverRaven/Cataclysm-DDA/pull/71680))
 * Replace `"global_val"` with `"context_val"` in Bombastic Perks Documentation ([#71616](https://github.com/CleverRaven/Cataclysm-DDA/pull/71616))
@@ -84,7 +85,6 @@
 * Fix some artifact active effects ([#71456](https://github.com/CleverRaven/Cataclysm-DDA/pull/71456))
 * Don't warn psychopaths about eating human meat ([#71461](https://github.com/CleverRaven/Cataclysm-DDA/pull/71461))
 * tied down fridge uses any rope, not only rope_30 ([#71477](https://github.com/CleverRaven/Cataclysm-DDA/pull/71477))
-* [Defense Mode] Fix #70277 ([#71442](https://github.com/CleverRaven/Cataclysm-DDA/pull/71442))
 * Unbreak CI from new Magiclysm damage types ([#71473](https://github.com/CleverRaven/Cataclysm-DDA/pull/71473))
 * fix VS warning ([#71466](https://github.com/CleverRaven/Cataclysm-DDA/pull/71466))
 * Encase riverside boats in square brackets ([#71446](https://github.com/CleverRaven/Cataclysm-DDA/pull/71446))
