@@ -91,4 +91,3 @@
 * New dialogue - Prototype Robot Questions ([#71443](https://github.com/CleverRaven/Cataclysm-DDA/pull/71443))
 * fix mutation activation EoC once again ([#71445](https://github.com/CleverRaven/Cataclysm-DDA/pull/71445))
 * Ocular Zombies no longer track you through walls ([#71452](https://github.com/CleverRaven/Cataclysm-DDA/pull/71452))
-* Fix tough zombie evolution ([#71440](https://github.com/CleverRaven/Cataclysm-DDA/pull/71440))
