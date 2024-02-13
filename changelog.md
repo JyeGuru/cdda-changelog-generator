@@ -1,3 +1,4 @@
+* [Magiclysm] Add "spell_class": "KELVINIST" to Extinguish ([#71687](https://github.com/CleverRaven/Cataclysm-DDA/pull/71687))
 * Exclude third-party source code from clang-tidy check ([#71734](https://github.com/CleverRaven/Cataclysm-DDA/pull/71734))
 * Tweak shadow lieutenant warnings to remove excessive repeat popups ([#71684](https://github.com/CleverRaven/Cataclysm-DDA/pull/71684))
 * Make barrel length affect bullet dispersion ([#71725](https://github.com/CleverRaven/Cataclysm-DDA/pull/71725))
