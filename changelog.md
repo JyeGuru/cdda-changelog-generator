@@ -83,7 +83,6 @@
 * Removed extra conversion to local coordinates ([#71463](https://github.com/CleverRaven/Cataclysm-DDA/pull/71463))
 * Fixed actual recoil calculation error and optimized the text of recoil and required strength. ([#71462](https://github.com/CleverRaven/Cataclysm-DDA/pull/71462))
 * Sewer monster rework and morale debuffs ([#71476](https://github.com/CleverRaven/Cataclysm-DDA/pull/71476))
-* Routine i18n updates on 03 February 2024 ([#71454](https://github.com/CleverRaven/Cataclysm-DDA/pull/71454))
 * Fix some artifact active effects ([#71456](https://github.com/CleverRaven/Cataclysm-DDA/pull/71456))
 * Don't warn psychopaths about eating human meat ([#71461](https://github.com/CleverRaven/Cataclysm-DDA/pull/71461))
 * tied down fridge uses any rope, not only rope_30 ([#71477](https://github.com/CleverRaven/Cataclysm-DDA/pull/71477))
