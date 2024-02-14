@@ -1,3 +1,4 @@
+* Obsolete the obsoletion (#71666)
 * Add moon tear ingot recipe (#71745)
 * [Magiclysm] Add wizard version of LMOE (#71730)
 * Shocker brute rebalancing (#71741)
@@ -87,5 +88,4 @@
 * Update sky island to version 3.0 (#71496)
 * Fix typo in altered mental states PR (#71504)
 * Remove myself from Magiclysm and XE reviewers (#71501)
-* Address training exploits (#71487)
 * [Xedra Evolved] Grammar touchups II (#71499)
