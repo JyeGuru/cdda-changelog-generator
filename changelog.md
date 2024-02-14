@@ -1,3 +1,4 @@
+* [Magiclysm] Add wizard version of LMOE ([#71730](https://github.com/CleverRaven/Cataclysm-DDA/pull/71730))
 * Shocker brute rebalancing ([#71741](https://github.com/CleverRaven/Cataclysm-DDA/pull/71741))
 * Migrate NPC chatbin snippets, field NPC complaint, and mapgen monster name to `class translation` ([#71681](https://github.com/CleverRaven/Cataclysm-DDA/pull/71681))
 * Upgrade clang-tidy check to LLVM 17 ([#71721](https://github.com/CleverRaven/Cataclysm-DDA/pull/71721))
@@ -79,7 +80,6 @@
 * item/tname: don't include contents count in sort keys ([#71527](https://github.com/CleverRaven/Cataclysm-DDA/pull/71527))
 * Fix error in extracting translatable strings from body_part ([#71519](https://github.com/CleverRaven/Cataclysm-DDA/pull/71519))
 * Revert "use ccache for emscripten builds (#71422)" ([#71524](https://github.com/CleverRaven/Cataclysm-DDA/pull/71524))
-* Fix tow cables crashing and not keeping connections properly ([#71482](https://github.com/CleverRaven/Cataclysm-DDA/pull/71482))
 * fix portal storm distance ([#71498](https://github.com/CleverRaven/Cataclysm-DDA/pull/71498))
 * Fix UBSan error in calling cata_tiles::set_draw_cache_dirty() in test mode ([#71502](https://github.com/CleverRaven/Cataclysm-DDA/pull/71502))
 * Typo fix for NETHER_EMANATION ([#71489](https://github.com/CleverRaven/Cataclysm-DDA/pull/71489))
