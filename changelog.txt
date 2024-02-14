@@ -1,3 +1,4 @@
+* [Magiclysm] Add fantasy skin colors  (#71747)
 * Obsolete the obsoletion (#71666)
 * Add moon tear ingot recipe (#71745)
 * [Magiclysm] Add wizard version of LMOE (#71730)
@@ -84,7 +85,6 @@
 * Revert "use ccache for emscripten builds (#71422)" (#71524)
 * fix portal storm distance (#71498)
 * Fix UBSan error in calling cata_tiles::set_draw_cache_dirty() in test mode (#71502)
-* Typo fix for NETHER_EMANATION (#71489)
 * Update sky island to version 3.0 (#71496)
 * Fix typo in altered mental states PR (#71504)
 * Remove myself from Magiclysm and XE reviewers (#71501)
