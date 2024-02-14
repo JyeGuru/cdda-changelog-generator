@@ -1,3 +1,4 @@
+* [Magiclysm] Even more spells ([#71739](https://github.com/CleverRaven/Cataclysm-DDA/pull/71739))
 * [Magiclysm] Add fantasy skin colors  ([#71747](https://github.com/CleverRaven/Cataclysm-DDA/pull/71747))
 * Obsolete the obsoletion ([#71666](https://github.com/CleverRaven/Cataclysm-DDA/pull/71666))
 * Add moon tear ingot recipe ([#71745](https://github.com/CleverRaven/Cataclysm-DDA/pull/71745))
@@ -28,7 +29,6 @@
 * Fix display of inventory_multiselector denials and improve popup ([#71598](https://github.com/CleverRaven/Cataclysm-DDA/pull/71598))
 * Update EFFECT_ON_CONDITION.md ([#71696](https://github.com/CleverRaven/Cataclysm-DDA/pull/71696))
 * xedra: fix doll repair paste recipe ([#71691](https://github.com/CleverRaven/Cataclysm-DDA/pull/71691))
-* [Magiclysm] Even more spells ([#71491](https://github.com/CleverRaven/Cataclysm-DDA/pull/71491))
 * Add flag to dermatik things ([#71660](https://github.com/CleverRaven/Cataclysm-DDA/pull/71660))
 * Fix 'mycus" json flag info ([#71538](https://github.com/CleverRaven/Cataclysm-DDA/pull/71538))
 * Fix typo in adv solar panels vehicle part ([#71583](https://github.com/CleverRaven/Cataclysm-DDA/pull/71583))
