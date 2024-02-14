@@ -87,6 +87,5 @@
 * Update sky island to version 3.0 (#71496)
 * Fix typo in altered mental states PR (#71504)
 * Remove myself from Magiclysm and XE reviewers (#71501)
-* AIM respects NO_UNLOAD/NO_RELOAD flags (#71485)
 * Address training exploits (#71487)
 * [Xedra Evolved] Grammar touchups II (#71499)
