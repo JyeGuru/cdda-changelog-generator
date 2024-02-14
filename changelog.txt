@@ -1,3 +1,5 @@
+* [MOM] Galvanic Aura Fixes (#71731)
+* fix: set max level for antique adornments (#71693)
 * [Magiclysm] Add "spell_class": "KELVINIST" to Extinguish (#71687)
 * Exclude third-party source code from clang-tidy check (#71734)
 * Tweak shadow lieutenant warnings to remove excessive repeat popups (#71684)
@@ -87,6 +89,4 @@
 * Address training exploits (#71487)
 * [Xedra Evolved] Grammar touchups II (#71499)
 * Fix another CI error in Magiclysm (#71484)
-* Sewer monster rework and morale debuffs (#71476)
 * tied down fridge uses any rope, not only rope_30 (#71477)
-* Unbreak CI from new Magiclysm damage types (#71473)
