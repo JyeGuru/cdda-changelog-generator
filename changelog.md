@@ -1,3 +1,4 @@
+* Add moon tear ingot recipe ([#71745](https://github.com/CleverRaven/Cataclysm-DDA/pull/71745))
 * [Magiclysm] Add wizard version of LMOE ([#71730](https://github.com/CleverRaven/Cataclysm-DDA/pull/71730))
 * Shocker brute rebalancing ([#71741](https://github.com/CleverRaven/Cataclysm-DDA/pull/71741))
 * Migrate NPC chatbin snippets, field NPC complaint, and mapgen monster name to `class translation` ([#71681](https://github.com/CleverRaven/Cataclysm-DDA/pull/71681))
@@ -89,4 +90,3 @@
 * AIM respects NO_UNLOAD/NO_RELOAD flags ([#71485](https://github.com/CleverRaven/Cataclysm-DDA/pull/71485))
 * Address training exploits ([#71487](https://github.com/CleverRaven/Cataclysm-DDA/pull/71487))
 * [Xedra Evolved] Grammar touchups II ([#71499](https://github.com/CleverRaven/Cataclysm-DDA/pull/71499))
-* Fix another CI error in Magiclysm ([#71484](https://github.com/CleverRaven/Cataclysm-DDA/pull/71484))
