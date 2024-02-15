@@ -1,3 +1,4 @@
+* [Magiclysm] Add "of elvenkind" items ([#71748](https://github.com/CleverRaven/Cataclysm-DDA/pull/71748))
 * [XEDRA] Adjust Magnetic Holster Values ([#71755](https://github.com/CleverRaven/Cataclysm-DDA/pull/71755))
 * Enable clang-tidy check readability-braces-around-statements ([#71740](https://github.com/CleverRaven/Cataclysm-DDA/pull/71740))
 * Magazine Audit - The Final Stretch ([#71540](https://github.com/CleverRaven/Cataclysm-DDA/pull/71540))
@@ -37,7 +38,6 @@
 * Fix typo in adv solar panels vehicle part ([#71583](https://github.com/CleverRaven/Cataclysm-DDA/pull/71583))
 * Cloak and Poncho fixes ([#71631](https://github.com/CleverRaven/Cataclysm-DDA/pull/71631))
 * Minor generic zombie balance edits ([#71613](https://github.com/CleverRaven/Cataclysm-DDA/pull/71613))
-* Fix MOLLE pouches hiding stored items and showing incorrect movecosts ([#71500](https://github.com/CleverRaven/Cataclysm-DDA/pull/71500))
 * Last few SI spacing adjustments ([#71597](https://github.com/CleverRaven/Cataclysm-DDA/pull/71597))
 * Make the construction palette more varied ([#71578](https://github.com/CleverRaven/Cataclysm-DDA/pull/71578))
 * show danger radius in overmap note list ([#71628](https://github.com/CleverRaven/Cataclysm-DDA/pull/71628))
