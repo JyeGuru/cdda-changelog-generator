@@ -87,5 +87,4 @@
 * item/tname: don't include contents count in sort keys ([#71527](https://github.com/CleverRaven/Cataclysm-DDA/pull/71527))
 * Fix error in extracting translatable strings from body_part ([#71519](https://github.com/CleverRaven/Cataclysm-DDA/pull/71519))
 * Revert "use ccache for emscripten builds (#71422)" ([#71524](https://github.com/CleverRaven/Cataclysm-DDA/pull/71524))
-* Fix UBSan error in calling cata_tiles::set_draw_cache_dirty() in test mode ([#71502](https://github.com/CleverRaven/Cataclysm-DDA/pull/71502))
 * Fix typo in altered mental states PR ([#71504](https://github.com/CleverRaven/Cataclysm-DDA/pull/71504))
