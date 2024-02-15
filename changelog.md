@@ -1,3 +1,4 @@
+* [Magiclysm] Goblin encampment / orc village revamp + additions ([#71758](https://github.com/CleverRaven/Cataclysm-DDA/pull/71758))
 * [Magiclysm] Add "of elvenkind" items ([#71748](https://github.com/CleverRaven/Cataclysm-DDA/pull/71748))
 * [XEDRA] Adjust Magnetic Holster Values ([#71755](https://github.com/CleverRaven/Cataclysm-DDA/pull/71755))
 * Enable clang-tidy check readability-braces-around-statements ([#71740](https://github.com/CleverRaven/Cataclysm-DDA/pull/71740))
@@ -88,4 +89,3 @@
 * Revert "use ccache for emscripten builds (#71422)" ([#71524](https://github.com/CleverRaven/Cataclysm-DDA/pull/71524))
 * Fix UBSan error in calling cata_tiles::set_draw_cache_dirty() in test mode ([#71502](https://github.com/CleverRaven/Cataclysm-DDA/pull/71502))
 * Fix typo in altered mental states PR ([#71504](https://github.com/CleverRaven/Cataclysm-DDA/pull/71504))
-* Remove myself from Magiclysm and XE reviewers ([#71501](https://github.com/CleverRaven/Cataclysm-DDA/pull/71501))
