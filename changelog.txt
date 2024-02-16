@@ -1,3 +1,4 @@
+* Loose Meat Salting (#71764)
 * [Xedra Evolved] Fix Homullus fae ban (#71776)
 * regional_map_settings.json gets the mapgen label (#71737)
 * change the brewable time of mealgrub from 10 day to 76 hours to fit w… (#71765)
