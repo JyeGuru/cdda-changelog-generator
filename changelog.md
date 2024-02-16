@@ -1,3 +1,5 @@
+* Another gendered lines batch ([#71676](https://github.com/CleverRaven/Cataclysm-DDA/pull/71676))
+* CMake: Add LLVM build for Windows and other linker fixes ([#71713](https://github.com/CleverRaven/Cataclysm-DDA/pull/71713))
 * Mainline meadow mutable ([#71688](https://github.com/CleverRaven/Cataclysm-DDA/pull/71688))
 * Fix expansion of snippets with `<` and `>` characters ([#71678](https://github.com/CleverRaven/Cataclysm-DDA/pull/71678))
 * EoCify STARE monattack ([#71624](https://github.com/CleverRaven/Cataclysm-DDA/pull/71624))
@@ -17,7 +19,6 @@
 * [Magiclysm] Add "of elvenkind" items ([#71748](https://github.com/CleverRaven/Cataclysm-DDA/pull/71748))
 * [XEDRA] Adjust Magnetic Holster Values ([#71755](https://github.com/CleverRaven/Cataclysm-DDA/pull/71755))
 * Enable clang-tidy check readability-braces-around-statements ([#71740](https://github.com/CleverRaven/Cataclysm-DDA/pull/71740))
-* Magazine Audit - The Final Stretch ([#71540](https://github.com/CleverRaven/Cataclysm-DDA/pull/71540))
 * [Magiclysm] Even more spells ([#71739](https://github.com/CleverRaven/Cataclysm-DDA/pull/71739))
 * [Magiclysm] Add fantasy skin colors  ([#71747](https://github.com/CleverRaven/Cataclysm-DDA/pull/71747))
 * Obsolete the obsoletion ([#71666](https://github.com/CleverRaven/Cataclysm-DDA/pull/71666))
@@ -88,4 +89,3 @@
 * House02 regionalizing and bulk constructions ([#71555](https://github.com/CleverRaven/Cataclysm-DDA/pull/71555))
 * Cats can hide ([#71554](https://github.com/CleverRaven/Cataclysm-DDA/pull/71554))
 * Don't let the player store items in corpses ([#71557](https://github.com/CleverRaven/Cataclysm-DDA/pull/71557))
-* [Xedra/Bombastic Perks] Cold iron alchemy bugfix ([#71541](https://github.com/CleverRaven/Cataclysm-DDA/pull/71541))
