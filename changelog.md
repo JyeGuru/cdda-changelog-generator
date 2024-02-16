@@ -87,5 +87,4 @@
 * Fallback to "0.I" when version.h is empty ([#71567](https://github.com/CleverRaven/Cataclysm-DDA/pull/71567))
 * Draw SDL ASCII lines by default ([#71573](https://github.com/CleverRaven/Cataclysm-DDA/pull/71573))
 * [Xedra Evolved] Fix Arvore forest-detection EoCs ([#71566](https://github.com/CleverRaven/Cataclysm-DDA/pull/71566))
-* House02 regionalizing and bulk constructions ([#71555](https://github.com/CleverRaven/Cataclysm-DDA/pull/71555))
 * Don't let the player store items in corpses ([#71557](https://github.com/CleverRaven/Cataclysm-DDA/pull/71557))
