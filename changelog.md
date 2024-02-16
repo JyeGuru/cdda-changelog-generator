@@ -1,3 +1,5 @@
+* Update books.json to rebalance religious book spawning ([#71766](https://github.com/CleverRaven/Cataclysm-DDA/pull/71766))
+* Fix Brackenwight special attack message ([#71632](https://github.com/CleverRaven/Cataclysm-DDA/pull/71632))
 * [Magiclysm] Goblin encampment / orc village revamp + additions ([#71758](https://github.com/CleverRaven/Cataclysm-DDA/pull/71758))
 * [Magiclysm] Add "of elvenkind" items ([#71748](https://github.com/CleverRaven/Cataclysm-DDA/pull/71748))
 * [XEDRA] Adjust Magnetic Holster Values ([#71755](https://github.com/CleverRaven/Cataclysm-DDA/pull/71755))
@@ -66,7 +68,6 @@
 * fix (f)ire "draw what" menu repeating same gun ([#71582](https://github.com/CleverRaven/Cataclysm-DDA/pull/71582))
 * variantize and generify ammunition cans ([#71576](https://github.com/CleverRaven/Cataclysm-DDA/pull/71576))
 * [Magiclysm] Switch Anvil item to ANVIL quality for weapons of Asgard ([#71581](https://github.com/CleverRaven/Cataclysm-DDA/pull/71581))
-* jsonify fear_paralyze ([#71507](https://github.com/CleverRaven/Cataclysm-DDA/pull/71507))
 * [MoM] Create Dimension-Lost Scenario, move Itzcuauhtli Corps Liaison to scenario-only ([#71570](https://github.com/CleverRaven/Cataclysm-DDA/pull/71570))
 * Fix crash when new achievement is completed when loading past game info in achievement UI ([#71562](https://github.com/CleverRaven/Cataclysm-DDA/pull/71562))
 * Adjust biosilicified chitin armor kit crafting ([#71571](https://github.com/CleverRaven/Cataclysm-DDA/pull/71571))
@@ -87,4 +88,3 @@
 * item/tname: don't include contents count in sort keys ([#71527](https://github.com/CleverRaven/Cataclysm-DDA/pull/71527))
 * Fix error in extracting translatable strings from body_part ([#71519](https://github.com/CleverRaven/Cataclysm-DDA/pull/71519))
 * Revert "use ccache for emscripten builds (#71422)" ([#71524](https://github.com/CleverRaven/Cataclysm-DDA/pull/71524))
-* Fix typo in altered mental states PR ([#71504](https://github.com/CleverRaven/Cataclysm-DDA/pull/71504))
