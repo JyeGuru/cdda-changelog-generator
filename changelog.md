@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix Homullus fae ban ([#71776](https://github.com/CleverRaven/Cataclysm-DDA/pull/71776))
 * regional_map_settings.json gets the mapgen label ([#71737](https://github.com/CleverRaven/Cataclysm-DDA/pull/71737))
 * change the brewable time of mealgrub from 10 day to 76 hours to fit w… ([#71765](https://github.com/CleverRaven/Cataclysm-DDA/pull/71765))
 * Update books.json to rebalance religious book spawning ([#71766](https://github.com/CleverRaven/Cataclysm-DDA/pull/71766))
@@ -83,7 +84,6 @@
 * Fix broken zombie butchering message ([#71536](https://github.com/CleverRaven/Cataclysm-DDA/pull/71536))
 * Properly implement recording of achievements on saving ([#71534](https://github.com/CleverRaven/Cataclysm-DDA/pull/71534))
 * [Xedra/Bombastic Perks] Cold iron alchemy bugfix ([#71541](https://github.com/CleverRaven/Cataclysm-DDA/pull/71541))
-* [Magiclysm] Add chance of feral mages at magic cabins ([#71517](https://github.com/CleverRaven/Cataclysm-DDA/pull/71517))
 * Fire in your eyes ([#71535](https://github.com/CleverRaven/Cataclysm-DDA/pull/71535))
 * item/tname: don't include contents count in sort keys ([#71527](https://github.com/CleverRaven/Cataclysm-DDA/pull/71527))
 * Fix error in extracting translatable strings from body_part ([#71519](https://github.com/CleverRaven/Cataclysm-DDA/pull/71519))
