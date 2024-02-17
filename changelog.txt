@@ -1,3 +1,4 @@
+* Fix infinite looping in msvc builds in fragment test function (#71811)
 * Fix error in clang-tidy.sh (#71797)
 * Glazed carrot recipe tweak (#71750)
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears (#71774)
@@ -83,7 +84,6 @@
 * variantize and generify ammunition cans (#71576)
 * [Magiclysm] Switch Anvil item to ANVIL quality for weapons of Asgard (#71581)
 * [MoM] Create Dimension-Lost Scenario, move Itzcuauhtli Corps Liaison to scenario-only (#71570)
-* Fix crash when new achievement is completed when loading past game info in achievement UI (#71562)
 * Adjust biosilicified chitin armor kit crafting (#71571)
 * Fallback to "0.I" when version.h is empty (#71567)
 * Draw SDL ASCII lines by default (#71573)
