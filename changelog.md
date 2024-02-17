@@ -1,3 +1,4 @@
+* Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
 * Glazed carrot recipe tweak ([#71750](https://github.com/CleverRaven/Cataclysm-DDA/pull/71750))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
 * Tune up grenade fragments, fragment generation in general ([#71585](https://github.com/CleverRaven/Cataclysm-DDA/pull/71585))
@@ -77,7 +78,6 @@
 * Revamp the Chemist NPC JSON ([#71589](https://github.com/CleverRaven/Cataclysm-DDA/pull/71589))
 * Allow a short sledge to be converted back to a regular sledge ([#71599](https://github.com/CleverRaven/Cataclysm-DDA/pull/71599))
 * [Xedra Evolved] Fix Traverse the Wilds range ([#71620](https://github.com/CleverRaven/Cataclysm-DDA/pull/71620))
-* Added unarmed damage to Hammerhand [MoM] ([#71561](https://github.com/CleverRaven/Cataclysm-DDA/pull/71561))
 * [Bombastic Perks] Alchemy recipes ([#71600](https://github.com/CleverRaven/Cataclysm-DDA/pull/71600))
 * fix (f)ire "draw what" menu repeating same gun ([#71582](https://github.com/CleverRaven/Cataclysm-DDA/pull/71582))
 * variantize and generify ammunition cans ([#71576](https://github.com/CleverRaven/Cataclysm-DDA/pull/71576))
