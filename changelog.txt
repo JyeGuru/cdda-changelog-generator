@@ -1,3 +1,5 @@
+* Glazed carrot recipe tweak (#71750)
+* Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears (#71774)
 * Tune up grenade fragments, fragment generation in general (#71585)
 * Light ballistic vest disassembly drops kevlar panels (#71665)
 * [Sky Island] Take NPCs on/back from raids (#71590)
@@ -40,7 +42,6 @@
 * Fix clang-tidy space warning in overmap_ui.cpp (#71707)
 * Fix for 'A shadow?' chain teleporting (#71710)
 * [Magiclysm] Ogre revamp (#71638)
-* Hint for Old Guard's Exodii Recon Mission. (#71559)
 * [Magiclysm] Fix Restoration duration (#71722)
 * Sheet metal is low-carbon steel (#71715)
 * [Magiclysm] Reduce mana cost of some of the spells I've written (#71709)
@@ -87,4 +88,3 @@
 * Fallback to "0.I" when version.h is empty (#71567)
 * Draw SDL ASCII lines by default (#71573)
 * [Xedra Evolved] Fix Arvore forest-detection EoCs (#71566)
-* Don't let the player store items in corpses (#71557)
