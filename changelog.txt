@@ -1,3 +1,4 @@
+* Fix compile warnings in MSVC (#71815)
 * Externally link debug info of MINGW executable (#71805)
 * Update houses to utilize palettes (#71763)
 * [Magiclysm] Last Mage on Earth start (#71777)
@@ -15,7 +16,6 @@
 * Fix error in clang-tidy.sh (#71797)
 * Glazed carrot recipe tweak (#71750)
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears (#71774)
-* Tune up grenade fragments, fragment generation in general (#71585)
 * Light ballistic vest disassembly drops kevlar panels (#71665)
 * [Sky Island] Take NPCs on/back from raids (#71590)
 * Fix assignment ID's with NECC mapgen EOCs (#71595)
