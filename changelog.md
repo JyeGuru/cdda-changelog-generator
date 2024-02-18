@@ -1,3 +1,4 @@
+* Set new_game before loading JSON data ([#71806](https://github.com/CleverRaven/Cataclysm-DDA/pull/71806))
 * Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
 * Externally link debug info of MINGW executable ([#71805](https://github.com/CleverRaven/Cataclysm-DDA/pull/71805))
@@ -18,7 +19,6 @@
 * Glazed carrot recipe tweak ([#71750](https://github.com/CleverRaven/Cataclysm-DDA/pull/71750))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
 * Light ballistic vest disassembly drops kevlar panels ([#71665](https://github.com/CleverRaven/Cataclysm-DDA/pull/71665))
-* [Sky Island] Take NPCs on/back from raids ([#71590](https://github.com/CleverRaven/Cataclysm-DDA/pull/71590))
 * Fix assignment ID's with NECC mapgen EOCs ([#71595](https://github.com/CleverRaven/Cataclysm-DDA/pull/71595))
 * Another gendered lines batch ([#71676](https://github.com/CleverRaven/Cataclysm-DDA/pull/71676))
 * CMake: Add LLVM build for Windows and other linker fixes ([#71713](https://github.com/CleverRaven/Cataclysm-DDA/pull/71713))
