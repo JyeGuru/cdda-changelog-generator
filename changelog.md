@@ -1,3 +1,4 @@
+* Externally link debug info of MINGW executable ([#71805](https://github.com/CleverRaven/Cataclysm-DDA/pull/71805))
 * Update houses to utilize palettes ([#71763](https://github.com/CleverRaven/Cataclysm-DDA/pull/71763))
 * [Magiclysm] Last Mage on Earth start ([#71777](https://github.com/CleverRaven/Cataclysm-DDA/pull/71777))
 * Ignore MGOAL_FIND_ITEM Check If Player Is Busy ([#71790](https://github.com/CleverRaven/Cataclysm-DDA/pull/71790))
@@ -69,7 +70,6 @@
 * Update EFFECT_ON_CONDITION.md ([#71696](https://github.com/CleverRaven/Cataclysm-DDA/pull/71696))
 * xedra: fix doll repair paste recipe ([#71691](https://github.com/CleverRaven/Cataclysm-DDA/pull/71691))
 * Add flag to dermatik things ([#71660](https://github.com/CleverRaven/Cataclysm-DDA/pull/71660))
-* Fix typo in adv solar panels vehicle part ([#71583](https://github.com/CleverRaven/Cataclysm-DDA/pull/71583))
 * Cloak and Poncho fixes ([#71631](https://github.com/CleverRaven/Cataclysm-DDA/pull/71631))
 * Minor generic zombie balance edits ([#71613](https://github.com/CleverRaven/Cataclysm-DDA/pull/71613))
 * Last few SI spacing adjustments ([#71597](https://github.com/CleverRaven/Cataclysm-DDA/pull/71597))
