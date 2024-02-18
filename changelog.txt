@@ -1,3 +1,4 @@
+* Add Cougars to tamable wildlife (#71816)
 * Fix compile warnings in MSVC (#71815)
 * Externally link debug info of MINGW executable (#71805)
 * Update houses to utilize palettes (#71763)
@@ -86,7 +87,6 @@
 * clean up danger mark ui in overmap notes (#71642)
 * Define Rubik's personality (#71594)
 * [Xedra Evolved] Fix the Wind Blows, the Willow Bends duration (#71604)
-* Revamp the Chemist NPC JSON (#71589)
 * Allow a short sledge to be converted back to a regular sledge (#71599)
 * [Xedra Evolved] Fix Traverse the Wilds range (#71620)
 * [Bombastic Perks] Alchemy recipes (#71600)

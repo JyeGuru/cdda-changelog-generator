@@ -1,3 +1,4 @@
+* Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
 * Externally link debug info of MINGW executable ([#71805](https://github.com/CleverRaven/Cataclysm-DDA/pull/71805))
 * Update houses to utilize palettes ([#71763](https://github.com/CleverRaven/Cataclysm-DDA/pull/71763))
@@ -86,7 +87,6 @@
 * clean up danger mark ui in overmap notes ([#71642](https://github.com/CleverRaven/Cataclysm-DDA/pull/71642))
 * Define Rubik's personality ([#71594](https://github.com/CleverRaven/Cataclysm-DDA/pull/71594))
 * [Xedra Evolved] Fix the Wind Blows, the Willow Bends duration ([#71604](https://github.com/CleverRaven/Cataclysm-DDA/pull/71604))
-* Revamp the Chemist NPC JSON ([#71589](https://github.com/CleverRaven/Cataclysm-DDA/pull/71589))
 * Allow a short sledge to be converted back to a regular sledge ([#71599](https://github.com/CleverRaven/Cataclysm-DDA/pull/71599))
 * [Xedra Evolved] Fix Traverse the Wilds range ([#71620](https://github.com/CleverRaven/Cataclysm-DDA/pull/71620))
 * [Bombastic Perks] Alchemy recipes ([#71600](https://github.com/CleverRaven/Cataclysm-DDA/pull/71600))
