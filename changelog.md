@@ -1,3 +1,5 @@
+* Increase search ranges for important locations ([#71729](https://github.com/CleverRaven/Cataclysm-DDA/pull/71729))
+* Add suspiciously missing break to fallback special placement code. ([#71830](https://github.com/CleverRaven/Cataclysm-DDA/pull/71830))
 * 410 craft adjustment, 357 primer fix, XL nylon holster fix, sauteed onions ([#71831](https://github.com/CleverRaven/Cataclysm-DDA/pull/71831))
 * Add more trash to rolling trash cans & nestify them ([#71840](https://github.com/CleverRaven/Cataclysm-DDA/pull/71840))
 * [Xedra Evolved] Fix blocky pistol recipe ([#71834](https://github.com/CleverRaven/Cataclysm-DDA/pull/71834))
@@ -87,6 +89,4 @@
 * show note danger radius visually on map ([#71649](https://github.com/CleverRaven/Cataclysm-DDA/pull/71649))
 * add SKIP_VERIFICATION option and --noverify cli flag ([#71645](https://github.com/CleverRaven/Cataclysm-DDA/pull/71645))
 * clean up danger mark ui in overmap notes ([#71642](https://github.com/CleverRaven/Cataclysm-DDA/pull/71642))
-* [Xedra Evolved] Fix the Wind Blows, the Willow Bends duration ([#71604](https://github.com/CleverRaven/Cataclysm-DDA/pull/71604))
 * [Xedra Evolved] Fix Traverse the Wilds range ([#71620](https://github.com/CleverRaven/Cataclysm-DDA/pull/71620))
-* [Bombastic Perks] Alchemy recipes ([#71600](https://github.com/CleverRaven/Cataclysm-DDA/pull/71600))
