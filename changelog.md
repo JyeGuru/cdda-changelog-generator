@@ -1,3 +1,4 @@
+* [Magiclysm] Fix Peaceful Rest hobby ([#71828](https://github.com/CleverRaven/Cataclysm-DDA/pull/71828))
 * IR Vision can see through smoke ([#71807](https://github.com/CleverRaven/Cataclysm-DDA/pull/71807))
 * Made gates.h typed and the following adjustments ([#71809](https://github.com/CleverRaven/Cataclysm-DDA/pull/71809))
 * Set new_game before loading JSON data ([#71806](https://github.com/CleverRaven/Cataclysm-DDA/pull/71806))
@@ -21,7 +22,6 @@
 * Glazed carrot recipe tweak ([#71750](https://github.com/CleverRaven/Cataclysm-DDA/pull/71750))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
 * Light ballistic vest disassembly drops kevlar panels ([#71665](https://github.com/CleverRaven/Cataclysm-DDA/pull/71665))
-* Fix assignment ID's with NECC mapgen EOCs ([#71595](https://github.com/CleverRaven/Cataclysm-DDA/pull/71595))
 * Another gendered lines batch ([#71676](https://github.com/CleverRaven/Cataclysm-DDA/pull/71676))
 * CMake: Add LLVM build for Windows and other linker fixes ([#71713](https://github.com/CleverRaven/Cataclysm-DDA/pull/71713))
 * Mainline meadow mutable ([#71688](https://github.com/CleverRaven/Cataclysm-DDA/pull/71688))
