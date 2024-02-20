@@ -1,3 +1,4 @@
+* Fix Unicode quote text style errors ([#71870](https://github.com/CleverRaven/Cataclysm-DDA/pull/71870))
 * Add some basic exception reporting for emscripten ([#71853](https://github.com/CleverRaven/Cataclysm-DDA/pull/71853))
 * Update map::place_spawns() to use std::optional<std::string> for monster name ([#71861](https://github.com/CleverRaven/Cataclysm-DDA/pull/71861))
 * Camp workers actually eat the food spent on them working ([#71670](https://github.com/CleverRaven/Cataclysm-DDA/pull/71670))
@@ -90,4 +91,3 @@
 * Update EFFECT_ON_CONDITION.md ([#71696](https://github.com/CleverRaven/Cataclysm-DDA/pull/71696))
 * xedra: fix doll repair paste recipe ([#71691](https://github.com/CleverRaven/Cataclysm-DDA/pull/71691))
 * Add flag to dermatik things ([#71660](https://github.com/CleverRaven/Cataclysm-DDA/pull/71660))
-* Routine i18n updates on 10 February 2024 ([#71651](https://github.com/CleverRaven/Cataclysm-DDA/pull/71651))
