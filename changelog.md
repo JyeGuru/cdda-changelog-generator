@@ -1,3 +1,5 @@
+* Add some basic exception reporting for emscripten ([#71853](https://github.com/CleverRaven/Cataclysm-DDA/pull/71853))
+* Update map::place_spawns() to use std::optional<std::string> for monster name ([#71861](https://github.com/CleverRaven/Cataclysm-DDA/pull/71861))
 * Camp workers actually eat the food spent on them working ([#71670](https://github.com/CleverRaven/Cataclysm-DDA/pull/71670))
 * Rewrites Lore-Inconsistent Scenario Descriptions ([#71726](https://github.com/CleverRaven/Cataclysm-DDA/pull/71726))
 * [Magiclysm] Fun with Flags, spell edition ([#71832](https://github.com/CleverRaven/Cataclysm-DDA/pull/71832))
@@ -89,5 +91,3 @@
 * xedra: fix doll repair paste recipe ([#71691](https://github.com/CleverRaven/Cataclysm-DDA/pull/71691))
 * Add flag to dermatik things ([#71660](https://github.com/CleverRaven/Cataclysm-DDA/pull/71660))
 * Routine i18n updates on 10 February 2024 ([#71651](https://github.com/CleverRaven/Cataclysm-DDA/pull/71651))
-* use rl_dist to compute note danger radius ([#71650](https://github.com/CleverRaven/Cataclysm-DDA/pull/71650))
-* show note danger radius visually on map ([#71649](https://github.com/CleverRaven/Cataclysm-DDA/pull/71649))
