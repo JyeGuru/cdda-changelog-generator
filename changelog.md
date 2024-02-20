@@ -1,3 +1,5 @@
+* Camp workers actually eat the food spent on them working ([#71670](https://github.com/CleverRaven/Cataclysm-DDA/pull/71670))
+* Rewrites Lore-Inconsistent Scenario Descriptions ([#71726](https://github.com/CleverRaven/Cataclysm-DDA/pull/71726))
 * [Magiclysm] Fun with Flags, spell edition ([#71832](https://github.com/CleverRaven/Cataclysm-DDA/pull/71832))
 * [MoM] Remove obsolete files ([#71841](https://github.com/CleverRaven/Cataclysm-DDA/pull/71841))
 * Fix map deserialization error ([#71860](https://github.com/CleverRaven/Cataclysm-DDA/pull/71860))
@@ -82,7 +84,6 @@
 * Dead Men Wear Pants ([#71718](https://github.com/CleverRaven/Cataclysm-DDA/pull/71718))
 * Minor adjustment to seal some preserved food jars ([#71711](https://github.com/CleverRaven/Cataclysm-DDA/pull/71711))
 * [Magiclysm] Rebalance enchanted_combat_items ([#71697](https://github.com/CleverRaven/Cataclysm-DDA/pull/71697))
-* Make the ice axe resemble an ice axe instead of a strange hammer ([#71644](https://github.com/CleverRaven/Cataclysm-DDA/pull/71644))
 * Move rhode island secession snippet, add comments for dates ([#71680](https://github.com/CleverRaven/Cataclysm-DDA/pull/71680))
 * Update EFFECT_ON_CONDITION.md ([#71696](https://github.com/CleverRaven/Cataclysm-DDA/pull/71696))
 * xedra: fix doll repair paste recipe ([#71691](https://github.com/CleverRaven/Cataclysm-DDA/pull/71691))
@@ -90,4 +91,3 @@
 * Routine i18n updates on 10 February 2024 ([#71651](https://github.com/CleverRaven/Cataclysm-DDA/pull/71651))
 * use rl_dist to compute note danger radius ([#71650](https://github.com/CleverRaven/Cataclysm-DDA/pull/71650))
 * show note danger radius visually on map ([#71649](https://github.com/CleverRaven/Cataclysm-DDA/pull/71649))
-* add SKIP_VERIFICATION option and --noverify cli flag ([#71645](https://github.com/CleverRaven/Cataclysm-DDA/pull/71645))
