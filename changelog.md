@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-20-1712 ([d0fa6ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-20-1712))
+
 * Tweak one sentence in last delivery mission ([#71871](https://github.com/CleverRaven/Cataclysm-DDA/pull/71871))
 * Fix WASM experimental release build failure ([#71869](https://github.com/CleverRaven/Cataclysm-DDA/pull/71869))
 * Enable clang-tidy check modernize-use-emplace ([#71872](https://github.com/CleverRaven/Cataclysm-DDA/pull/71872))
