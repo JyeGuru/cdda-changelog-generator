@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-02-21-1517 (834c5cf)
+* Parametrize linoleum color in domestic palette (#71850)
+
 Cataclysm-DDA experimental build 2024-02-21-0752 (dd08bab)
 * [wasm] build with -fexceptions (#71883)
 * Set pocket priority to 100 when auto whitelisting for certain pockets (#71884)
@@ -67,7 +70,6 @@ Cataclysm-DDA experimental build 2024-02-20-1549 (ec3b259)
 * Glazed carrot recipe tweak (#71750)
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears (#71774)
 * CMake: Add LLVM build for Windows and other linker fixes (#71713)
-* Mainline meadow mutable (#71688)
 * Minor generic zombie balance edits 2 (#71736)
 * Migrate EOC text to `translation_or_var`/`translation` and update string extraction script (#71760)
 * Say which specials could not be placed. (#71727)

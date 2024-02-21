@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-02-21-1517 ([834c5cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-21-1517))
+
+* Parametrize linoleum color in domestic palette ([#71850](https://github.com/CleverRaven/Cataclysm-DDA/pull/71850))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-02-21-0752 ([dd08bab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-21-0752))
 
 * [wasm] build with -fexceptions ([#71883](https://github.com/CleverRaven/Cataclysm-DDA/pull/71883))
@@ -85,7 +91,6 @@
 * Glazed carrot recipe tweak ([#71750](https://github.com/CleverRaven/Cataclysm-DDA/pull/71750))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
 * CMake: Add LLVM build for Windows and other linker fixes ([#71713](https://github.com/CleverRaven/Cataclysm-DDA/pull/71713))
-* Mainline meadow mutable ([#71688](https://github.com/CleverRaven/Cataclysm-DDA/pull/71688))
 * Minor generic zombie balance edits 2 ([#71736](https://github.com/CleverRaven/Cataclysm-DDA/pull/71736))
 * Migrate EOC text to `translation_or_var`/`translation` and update string extraction script ([#71760](https://github.com/CleverRaven/Cataclysm-DDA/pull/71760))
 * Say which specials could not be placed. ([#71727](https://github.com/CleverRaven/Cataclysm-DDA/pull/71727))
