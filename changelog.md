@@ -109,7 +109,6 @@
 * Upgrade clang-tidy check to LLVM 17 ([#71721](https://github.com/CleverRaven/Cataclysm-DDA/pull/71721))
 * [MOM] Galvanic Aura Fixes ([#71731](https://github.com/CleverRaven/Cataclysm-DDA/pull/71731))
 * fix: set max level for antique adornments ([#71693](https://github.com/CleverRaven/Cataclysm-DDA/pull/71693))
-* [Magiclysm] Add "spell_class": "KELVINIST" to Extinguish ([#71687](https://github.com/CleverRaven/Cataclysm-DDA/pull/71687))
 * Exclude third-party source code from clang-tidy check ([#71734](https://github.com/CleverRaven/Cataclysm-DDA/pull/71734))
 * Make barrel length affect bullet dispersion ([#71725](https://github.com/CleverRaven/Cataclysm-DDA/pull/71725))
 * Fix clang-tidy space warning in overmap_ui.cpp ([#71707](https://github.com/CleverRaven/Cataclysm-DDA/pull/71707))
