@@ -1,5 +1,10 @@
 * [wasm] build with -fexceptions ([#71883](https://github.com/CleverRaven/Cataclysm-DDA/pull/71883))
 * Set pocket priority to 100 when auto whitelisting for certain pockets ([#71884](https://github.com/CleverRaven/Cataclysm-DDA/pull/71884))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-21-0632 ([8c8dac8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-21-0632))
+
 * [wasm] prepare web bundle data separately from build ([#71886](https://github.com/CleverRaven/Cataclysm-DDA/pull/71886))
 * [wasm] use CCACHE_COMPILERCHECK to hopefully improve cache hit rate ([#71887](https://github.com/CleverRaven/Cataclysm-DDA/pull/71887))
 
