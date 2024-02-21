@@ -130,4 +130,3 @@
 * [Magiclysm] Reduce mana cost of some of the spells I've written ([#71709](https://github.com/CleverRaven/Cataclysm-DDA/pull/71709))
 * Dead Men Wear Pants ([#71718](https://github.com/CleverRaven/Cataclysm-DDA/pull/71718))
 * Minor adjustment to seal some preserved food jars ([#71711](https://github.com/CleverRaven/Cataclysm-DDA/pull/71711))
-* [Magiclysm] Rebalance enchanted_combat_items ([#71697](https://github.com/CleverRaven/Cataclysm-DDA/pull/71697))
