@@ -1,3 +1,7 @@
+* [wasm] build with -fexceptions ([#71883](https://github.com/CleverRaven/Cataclysm-DDA/pull/71883))
+* Set pocket priority to 100 when auto whitelisting for certain pockets ([#71884](https://github.com/CleverRaven/Cataclysm-DDA/pull/71884))
+* [wasm] prepare web bundle data separately from build ([#71886](https://github.com/CleverRaven/Cataclysm-DDA/pull/71886))
+* [wasm] use CCACHE_COMPILERCHECK to hopefully improve cache hit rate ([#71887](https://github.com/CleverRaven/Cataclysm-DDA/pull/71887))
 
 ---
 
@@ -72,7 +76,6 @@
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
 * CMake: Add LLVM build for Windows and other linker fixes ([#71713](https://github.com/CleverRaven/Cataclysm-DDA/pull/71713))
 * Mainline meadow mutable ([#71688](https://github.com/CleverRaven/Cataclysm-DDA/pull/71688))
-* Fix expansion of snippets with `<` and `>` characters ([#71678](https://github.com/CleverRaven/Cataclysm-DDA/pull/71678))
 * Minor generic zombie balance edits 2 ([#71736](https://github.com/CleverRaven/Cataclysm-DDA/pull/71736))
 * Migrate EOC text to `translation_or_var`/`translation` and update string extraction script ([#71760](https://github.com/CleverRaven/Cataclysm-DDA/pull/71760))
 * Say which specials could not be placed. ([#71727](https://github.com/CleverRaven/Cataclysm-DDA/pull/71727))
@@ -93,13 +96,11 @@
 * Add moon tear ingot recipe ([#71745](https://github.com/CleverRaven/Cataclysm-DDA/pull/71745))
 * [Magiclysm] Add wizard version of LMOE ([#71730](https://github.com/CleverRaven/Cataclysm-DDA/pull/71730))
 * Shocker brute rebalancing ([#71741](https://github.com/CleverRaven/Cataclysm-DDA/pull/71741))
-* Migrate NPC chatbin snippets, field NPC complaint, and mapgen monster name to `class translation` ([#71681](https://github.com/CleverRaven/Cataclysm-DDA/pull/71681))
 * Upgrade clang-tidy check to LLVM 17 ([#71721](https://github.com/CleverRaven/Cataclysm-DDA/pull/71721))
 * [MOM] Galvanic Aura Fixes ([#71731](https://github.com/CleverRaven/Cataclysm-DDA/pull/71731))
 * fix: set max level for antique adornments ([#71693](https://github.com/CleverRaven/Cataclysm-DDA/pull/71693))
 * [Magiclysm] Add "spell_class": "KELVINIST" to Extinguish ([#71687](https://github.com/CleverRaven/Cataclysm-DDA/pull/71687))
 * Exclude third-party source code from clang-tidy check ([#71734](https://github.com/CleverRaven/Cataclysm-DDA/pull/71734))
-* Tweak shadow lieutenant warnings to remove excessive repeat popups ([#71684](https://github.com/CleverRaven/Cataclysm-DDA/pull/71684))
 * Make barrel length affect bullet dispersion ([#71725](https://github.com/CleverRaven/Cataclysm-DDA/pull/71725))
 * Fix clang-tidy space warning in overmap_ui.cpp ([#71707](https://github.com/CleverRaven/Cataclysm-DDA/pull/71707))
 * Fix for 'A shadow?' chain teleporting ([#71710](https://github.com/CleverRaven/Cataclysm-DDA/pull/71710))
@@ -109,6 +110,5 @@
 * Dead Men Wear Pants ([#71718](https://github.com/CleverRaven/Cataclysm-DDA/pull/71718))
 * Minor adjustment to seal some preserved food jars ([#71711](https://github.com/CleverRaven/Cataclysm-DDA/pull/71711))
 * [Magiclysm] Rebalance enchanted_combat_items ([#71697](https://github.com/CleverRaven/Cataclysm-DDA/pull/71697))
-* Move rhode island secession snippet, add comments for dates ([#71680](https://github.com/CleverRaven/Cataclysm-DDA/pull/71680))
 * Update EFFECT_ON_CONDITION.md ([#71696](https://github.com/CleverRaven/Cataclysm-DDA/pull/71696))
 * xedra: fix doll repair paste recipe ([#71691](https://github.com/CleverRaven/Cataclysm-DDA/pull/71691))
