@@ -1,3 +1,4 @@
+* Utility Tool Additions (#71821)
 * Update tool.json to include missing recipe for bronze fileset (#71881)
 * Add sky island expedition timers to new zenfs sidebars (#71882)
 
@@ -104,4 +105,3 @@ Cataclysm-DDA experimental build 2024-02-20-1549 (ec3b259)
 * Dead Men Wear Pants (#71718)
 * Minor adjustment to seal some preserved food jars (#71711)
 * [Magiclysm] Rebalance enchanted_combat_items (#71697)
-* Update EFFECT_ON_CONDITION.md (#71696)

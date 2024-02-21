@@ -1,3 +1,4 @@
+* Utility Tool Additions ([#71821](https://github.com/CleverRaven/Cataclysm-DDA/pull/71821))
 * Update tool.json to include missing recipe for bronze fileset ([#71881](https://github.com/CleverRaven/Cataclysm-DDA/pull/71881))
 * Add sky island expedition timers to new zenfs sidebars ([#71882](https://github.com/CleverRaven/Cataclysm-DDA/pull/71882))
 
@@ -125,4 +126,3 @@
 * Dead Men Wear Pants ([#71718](https://github.com/CleverRaven/Cataclysm-DDA/pull/71718))
 * Minor adjustment to seal some preserved food jars ([#71711](https://github.com/CleverRaven/Cataclysm-DDA/pull/71711))
 * [Magiclysm] Rebalance enchanted_combat_items ([#71697](https://github.com/CleverRaven/Cataclysm-DDA/pull/71697))
-* Update EFFECT_ON_CONDITION.md ([#71696](https://github.com/CleverRaven/Cataclysm-DDA/pull/71696))
