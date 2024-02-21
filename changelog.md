@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-02-21-0144 ([b71bbc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-21-0144))
+
+* Fix speedloader reloading ([#71875](https://github.com/CleverRaven/Cataclysm-DDA/pull/71875))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-02-20-1854 ([4047b90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-20-1854))
 
 * Defensively insert a \ after $(LLVMInstallDir) ([#71876](https://github.com/CleverRaven/Cataclysm-DDA/pull/71876))
@@ -64,7 +70,6 @@
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
 * Glazed carrot recipe tweak ([#71750](https://github.com/CleverRaven/Cataclysm-DDA/pull/71750))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
-* Another gendered lines batch ([#71676](https://github.com/CleverRaven/Cataclysm-DDA/pull/71676))
 * CMake: Add LLVM build for Windows and other linker fixes ([#71713](https://github.com/CleverRaven/Cataclysm-DDA/pull/71713))
 * Mainline meadow mutable ([#71688](https://github.com/CleverRaven/Cataclysm-DDA/pull/71688))
 * Fix expansion of snippets with `<` and `>` characters ([#71678](https://github.com/CleverRaven/Cataclysm-DDA/pull/71678))
