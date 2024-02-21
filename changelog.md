@@ -1,3 +1,5 @@
+* Update tool.json to include missing recipe for bronze fileset ([#71881](https://github.com/CleverRaven/Cataclysm-DDA/pull/71881))
+* Add sky island expedition timers to new zenfs sidebars ([#71882](https://github.com/CleverRaven/Cataclysm-DDA/pull/71882))
 
 ---
 
@@ -113,7 +115,6 @@
 * Shocker brute rebalancing ([#71741](https://github.com/CleverRaven/Cataclysm-DDA/pull/71741))
 * Upgrade clang-tidy check to LLVM 17 ([#71721](https://github.com/CleverRaven/Cataclysm-DDA/pull/71721))
 * [MOM] Galvanic Aura Fixes ([#71731](https://github.com/CleverRaven/Cataclysm-DDA/pull/71731))
-* fix: set max level for antique adornments ([#71693](https://github.com/CleverRaven/Cataclysm-DDA/pull/71693))
 * Exclude third-party source code from clang-tidy check ([#71734](https://github.com/CleverRaven/Cataclysm-DDA/pull/71734))
 * Make barrel length affect bullet dispersion ([#71725](https://github.com/CleverRaven/Cataclysm-DDA/pull/71725))
 * Fix clang-tidy space warning in overmap_ui.cpp ([#71707](https://github.com/CleverRaven/Cataclysm-DDA/pull/71707))
@@ -125,4 +126,3 @@
 * Minor adjustment to seal some preserved food jars ([#71711](https://github.com/CleverRaven/Cataclysm-DDA/pull/71711))
 * [Magiclysm] Rebalance enchanted_combat_items ([#71697](https://github.com/CleverRaven/Cataclysm-DDA/pull/71697))
 * Update EFFECT_ON_CONDITION.md ([#71696](https://github.com/CleverRaven/Cataclysm-DDA/pull/71696))
-* xedra: fix doll repair paste recipe ([#71691](https://github.com/CleverRaven/Cataclysm-DDA/pull/71691))
