@@ -1,3 +1,4 @@
+* add earthworms and their delicacies ([#71804](https://github.com/CleverRaven/Cataclysm-DDA/pull/71804))
 
 ---
 
