@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-02-22-0150 ([688b7c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-22-0150))
+
+* Add more samples to XEDRA Evolved and Magiclysm ([#71897](https://github.com/CleverRaven/Cataclysm-DDA/pull/71897))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-02-21-1751 ([d6b054c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-21-1751))
 
 * Utility Tool Additions ([#71821](https://github.com/CleverRaven/Cataclysm-DDA/pull/71821))
@@ -123,7 +129,6 @@
 * [MOM] Galvanic Aura Fixes ([#71731](https://github.com/CleverRaven/Cataclysm-DDA/pull/71731))
 * Exclude third-party source code from clang-tidy check ([#71734](https://github.com/CleverRaven/Cataclysm-DDA/pull/71734))
 * Make barrel length affect bullet dispersion ([#71725](https://github.com/CleverRaven/Cataclysm-DDA/pull/71725))
-* Fix clang-tidy space warning in overmap_ui.cpp ([#71707](https://github.com/CleverRaven/Cataclysm-DDA/pull/71707))
 * Fix for 'A shadow?' chain teleporting ([#71710](https://github.com/CleverRaven/Cataclysm-DDA/pull/71710))
 * [Magiclysm] Fix Restoration duration ([#71722](https://github.com/CleverRaven/Cataclysm-DDA/pull/71722))
 * Sheet metal is low-carbon steel ([#71715](https://github.com/CleverRaven/Cataclysm-DDA/pull/71715))
