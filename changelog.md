@@ -1,3 +1,5 @@
+* Fix typos ([#71788](https://github.com/CleverRaven/Cataclysm-DDA/pull/71788))
+* Typo fixes ([#71827](https://github.com/CleverRaven/Cataclysm-DDA/pull/71827))
 
 ---
 
@@ -135,9 +137,7 @@
 * [MOM] Galvanic Aura Fixes ([#71731](https://github.com/CleverRaven/Cataclysm-DDA/pull/71731))
 * Exclude third-party source code from clang-tidy check ([#71734](https://github.com/CleverRaven/Cataclysm-DDA/pull/71734))
 * Make barrel length affect bullet dispersion ([#71725](https://github.com/CleverRaven/Cataclysm-DDA/pull/71725))
-* Fix for 'A shadow?' chain teleporting ([#71710](https://github.com/CleverRaven/Cataclysm-DDA/pull/71710))
 * [Magiclysm] Fix Restoration duration ([#71722](https://github.com/CleverRaven/Cataclysm-DDA/pull/71722))
 * Sheet metal is low-carbon steel ([#71715](https://github.com/CleverRaven/Cataclysm-DDA/pull/71715))
-* [Magiclysm] Reduce mana cost of some of the spells I've written ([#71709](https://github.com/CleverRaven/Cataclysm-DDA/pull/71709))
 * Dead Men Wear Pants ([#71718](https://github.com/CleverRaven/Cataclysm-DDA/pull/71718))
 * Minor adjustment to seal some preserved food jars ([#71711](https://github.com/CleverRaven/Cataclysm-DDA/pull/71711))
