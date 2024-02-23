@@ -16,6 +16,11 @@
 * Removes Incongruent Book Spawns from Child Mobs and School Libraries ([#71906](https://github.com/CleverRaven/Cataclysm-DDA/pull/71906))
 * Less Encumbering Leather Vambraces ([#71922](https://github.com/CleverRaven/Cataclysm-DDA/pull/71922))
 * [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-23-0310 ([4f0d0e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-0310))
+
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
 * Fix typos ([#71788](https://github.com/CleverRaven/Cataclysm-DDA/pull/71788))
 * Typo fixes ([#71827](https://github.com/CleverRaven/Cataclysm-DDA/pull/71827))
@@ -71,9 +76,19 @@
 #### Cataclysm-DDA experimental build 2024-02-20-1854 ([4047b90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-20-1854))
 
 * Defensively insert a \ after $(LLVMInstallDir) ([#71876](https://github.com/CleverRaven/Cataclysm-DDA/pull/71876))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-20-1712 ([d0fa6ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-20-1712))
+
 * Tweak one sentence in last delivery mission ([#71871](https://github.com/CleverRaven/Cataclysm-DDA/pull/71871))
 * Fix WASM experimental release build failure ([#71869](https://github.com/CleverRaven/Cataclysm-DDA/pull/71869))
 * Enable clang-tidy check modernize-use-emplace ([#71872](https://github.com/CleverRaven/Cataclysm-DDA/pull/71872))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-20-1549 ([ec3b259](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-20-1549))
+
 * Create experimental release tag on the correct commit ([#71868](https://github.com/CleverRaven/Cataclysm-DDA/pull/71868))
 * Fix Unicode quote text style errors ([#71870](https://github.com/CleverRaven/Cataclysm-DDA/pull/71870))
 * Add some basic exception reporting for emscripten ([#71853](https://github.com/CleverRaven/Cataclysm-DDA/pull/71853))
