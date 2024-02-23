@@ -1,3 +1,4 @@
+* [Xedra Evolved] More Paraclesian powers (#71930)
 
 Cataclysm-DDA experimental build 2024-02-23-2300 (2985330)
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion (#71932)
@@ -101,7 +102,6 @@ Cataclysm-DDA experimental build 2024-02-20-1549 (ec3b259)
 * Fix error in clang-tidy.sh (#71797)
 * Glazed carrot recipe tweak (#71750)
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears (#71774)
-* Minor generic zombie balance edits 2 (#71736)
 * Migrate EOC text to `translation_or_var`/`translation` and update string extraction script (#71760)
 * New Jewelry (and two new spiritual items) for Black History Month (#71743)
 * Update the table of contents in doc/JSON_INFO.md (#71762)

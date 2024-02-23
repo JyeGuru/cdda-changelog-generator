@@ -1,3 +1,4 @@
+* [Xedra Evolved] More Paraclesian powers ([#71930](https://github.com/CleverRaven/Cataclysm-DDA/pull/71930))
 
 ---
 
@@ -140,7 +141,6 @@
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
 * Glazed carrot recipe tweak ([#71750](https://github.com/CleverRaven/Cataclysm-DDA/pull/71750))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
-* Minor generic zombie balance edits 2 ([#71736](https://github.com/CleverRaven/Cataclysm-DDA/pull/71736))
 * Migrate EOC text to `translation_or_var`/`translation` and update string extraction script ([#71760](https://github.com/CleverRaven/Cataclysm-DDA/pull/71760))
 * New Jewelry (and two new spiritual items) for Black History Month ([#71743](https://github.com/CleverRaven/Cataclysm-DDA/pull/71743))
 * Update the table of contents in doc/JSON_INFO.md ([#71762](https://github.com/CleverRaven/Cataclysm-DDA/pull/71762))
