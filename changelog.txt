@@ -1,3 +1,4 @@
+* Removes Incongruent Book Spawns from Child Mobs and School Libraries (#71906)
 * Less Encumbering Leather Vambraces (#71922)
 * [Xedra Evolved] Adjust Barkskin (#71925)
 

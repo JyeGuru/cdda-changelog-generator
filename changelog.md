@@ -1,3 +1,4 @@
+* Removes Incongruent Book Spawns from Child Mobs and School Libraries ([#71906](https://github.com/CleverRaven/Cataclysm-DDA/pull/71906))
 * Less Encumbering Leather Vambraces ([#71922](https://github.com/CleverRaven/Cataclysm-DDA/pull/71922))
 * [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
 
