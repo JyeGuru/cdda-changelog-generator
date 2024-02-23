@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-23-0542 ([e5fd033](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-0542))
+
 * Added SMALL_HIDER flag ([#71767](https://github.com/CleverRaven/Cataclysm-DDA/pull/71767))
 * Adds social/asocial mutations ([#71837](https://github.com/CleverRaven/Cataclysm-DDA/pull/71837))
 * Blend z0 triffid grove and fix terrains "roof": ([#71894](https://github.com/CleverRaven/Cataclysm-DDA/pull/71894))
