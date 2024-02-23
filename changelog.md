@@ -1,3 +1,5 @@
+* Added SMALL_HIDER flag ([#71767](https://github.com/CleverRaven/Cataclysm-DDA/pull/71767))
+* Adds social/asocial mutations ([#71837](https://github.com/CleverRaven/Cataclysm-DDA/pull/71837))
 * Blend z0 triffid grove and fix terrains "roof": ([#71894](https://github.com/CleverRaven/Cataclysm-DDA/pull/71894))
 * [Bombastic Perks] Add overwriting perkchain support ([#71898](https://github.com/CleverRaven/Cataclysm-DDA/pull/71898))
 * Weaponize nether corpse teeth ([#71880](https://github.com/CleverRaven/Cataclysm-DDA/pull/71880))
@@ -143,7 +145,5 @@
 * [Magiclysm] Even more spells ([#71739](https://github.com/CleverRaven/Cataclysm-DDA/pull/71739))
 * [Magiclysm] Add fantasy skin colors  ([#71747](https://github.com/CleverRaven/Cataclysm-DDA/pull/71747))
 * Add moon tear ingot recipe ([#71745](https://github.com/CleverRaven/Cataclysm-DDA/pull/71745))
-* [Magiclysm] Add wizard version of LMOE ([#71730](https://github.com/CleverRaven/Cataclysm-DDA/pull/71730))
 * Shocker brute rebalancing ([#71741](https://github.com/CleverRaven/Cataclysm-DDA/pull/71741))
-* [MOM] Galvanic Aura Fixes ([#71731](https://github.com/CleverRaven/Cataclysm-DDA/pull/71731))
 * Exclude third-party source code from clang-tidy check ([#71734](https://github.com/CleverRaven/Cataclysm-DDA/pull/71734))
