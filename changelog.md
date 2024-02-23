@@ -1,3 +1,11 @@
+* Less Encumbering Leather Vambraces ([#71922](https://github.com/CleverRaven/Cataclysm-DDA/pull/71922))
+* [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-23-0310 ([4f0d0e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-0310))
+
+* Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
 * Fix typos ([#71788](https://github.com/CleverRaven/Cataclysm-DDA/pull/71788))
 * Typo fixes ([#71827](https://github.com/CleverRaven/Cataclysm-DDA/pull/71827))
 
@@ -112,7 +120,6 @@
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
 * Glazed carrot recipe tweak ([#71750](https://github.com/CleverRaven/Cataclysm-DDA/pull/71750))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
-* CMake: Add LLVM build for Windows and other linker fixes ([#71713](https://github.com/CleverRaven/Cataclysm-DDA/pull/71713))
 * Minor generic zombie balance edits 2 ([#71736](https://github.com/CleverRaven/Cataclysm-DDA/pull/71736))
 * Migrate EOC text to `translation_or_var`/`translation` and update string extraction script ([#71760](https://github.com/CleverRaven/Cataclysm-DDA/pull/71760))
 * Say which specials could not be placed. ([#71727](https://github.com/CleverRaven/Cataclysm-DDA/pull/71727))
@@ -138,6 +145,4 @@
 * Exclude third-party source code from clang-tidy check ([#71734](https://github.com/CleverRaven/Cataclysm-DDA/pull/71734))
 * Make barrel length affect bullet dispersion ([#71725](https://github.com/CleverRaven/Cataclysm-DDA/pull/71725))
 * [Magiclysm] Fix Restoration duration ([#71722](https://github.com/CleverRaven/Cataclysm-DDA/pull/71722))
-* Sheet metal is low-carbon steel ([#71715](https://github.com/CleverRaven/Cataclysm-DDA/pull/71715))
 * Dead Men Wear Pants ([#71718](https://github.com/CleverRaven/Cataclysm-DDA/pull/71718))
-* Minor adjustment to seal some preserved food jars ([#71711](https://github.com/CleverRaven/Cataclysm-DDA/pull/71711))
