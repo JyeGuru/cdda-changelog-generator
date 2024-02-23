@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-02-23-2300 ([2985330](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-2300))
+
+* [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
+* Replace `stdafx.h` with `pch/main-pch.hpp` ([#71829](https://github.com/CleverRaven/Cataclysm-DDA/pull/71829))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-02-23-0542 ([e5fd033](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-0542))
 
 * Added SMALL_HIDER flag ([#71767](https://github.com/CleverRaven/Cataclysm-DDA/pull/71767))
@@ -151,4 +158,3 @@
 * [Magiclysm] Add fantasy skin colors  ([#71747](https://github.com/CleverRaven/Cataclysm-DDA/pull/71747))
 * Add moon tear ingot recipe ([#71745](https://github.com/CleverRaven/Cataclysm-DDA/pull/71745))
 * Shocker brute rebalancing ([#71741](https://github.com/CleverRaven/Cataclysm-DDA/pull/71741))
-* Exclude third-party source code from clang-tidy check ([#71734](https://github.com/CleverRaven/Cataclysm-DDA/pull/71734))

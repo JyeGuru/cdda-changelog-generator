@@ -1,4 +1,8 @@
 
+Cataclysm-DDA experimental build 2024-02-23-2300 (2985330)
+* [Xedra Evolved] Paraclesians start with a single dose of their ascension potion (#71932)
+* Replace `stdafx.h` with `pch/main-pch.hpp` (#71829)
+
 Cataclysm-DDA experimental build 2024-02-23-0542 (e5fd033)
 * Added SMALL_HIDER flag (#71767)
 * Adds social/asocial mutations (#71837)
@@ -115,4 +119,3 @@ Cataclysm-DDA experimental build 2024-02-20-1549 (ec3b259)
 * [Magiclysm] Add fantasy skin colors  (#71747)
 * Add moon tear ingot recipe (#71745)
 * Shocker brute rebalancing (#71741)
-* Exclude third-party source code from clang-tidy check (#71734)
