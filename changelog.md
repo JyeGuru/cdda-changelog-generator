@@ -1,3 +1,4 @@
+* Weaponize nether corpse teeth ([#71880](https://github.com/CleverRaven/Cataclysm-DDA/pull/71880))
 * [Xedra Evolved] Consolidate some Arvore traits ([#71920](https://github.com/CleverRaven/Cataclysm-DDA/pull/71920))
 * Boomers Leave Gibs ([#71862](https://github.com/CleverRaven/Cataclysm-DDA/pull/71862))
 * Cougar kittens! ([#71855](https://github.com/CleverRaven/Cataclysm-DDA/pull/71855))
@@ -83,7 +84,6 @@
 * Fix Unicode quote text style errors ([#71870](https://github.com/CleverRaven/Cataclysm-DDA/pull/71870))
 * Add some basic exception reporting for emscripten ([#71853](https://github.com/CleverRaven/Cataclysm-DDA/pull/71853))
 * Update map::place_spawns() to use std::optional<std::string> for monster name ([#71861](https://github.com/CleverRaven/Cataclysm-DDA/pull/71861))
-* Rewrites Lore-Inconsistent Scenario Descriptions ([#71726](https://github.com/CleverRaven/Cataclysm-DDA/pull/71726))
 * [Magiclysm] Fun with Flags, spell edition ([#71832](https://github.com/CleverRaven/Cataclysm-DDA/pull/71832))
 * [MoM] Remove obsolete files ([#71841](https://github.com/CleverRaven/Cataclysm-DDA/pull/71841))
 * Fix map deserialization error ([#71860](https://github.com/CleverRaven/Cataclysm-DDA/pull/71860))
