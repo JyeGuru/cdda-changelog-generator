@@ -1,3 +1,4 @@
+* Fancy pool house (#71927)
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas (#71936)
 
 Cataclysm-DDA experimental build 2024-02-24-0121 (d6c98a1)
@@ -117,7 +118,6 @@ Cataclysm-DDA experimental build 2024-02-20-1549 (ec3b259)
 * [Magiclysm] Add "of elvenkind" items (#71748)
 * [XEDRA] Adjust Magnetic Holster Values (#71755)
 * Enable clang-tidy check readability-braces-around-statements (#71740)
-* [Magiclysm] Even more spells (#71739)
 * [Magiclysm] Add fantasy skin colors  (#71747)
 * Add moon tear ingot recipe (#71745)
 * Shocker brute rebalancing (#71741)

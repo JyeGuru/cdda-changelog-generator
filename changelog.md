@@ -1,3 +1,4 @@
+* Fancy pool house ([#71927](https://github.com/CleverRaven/Cataclysm-DDA/pull/71927))
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas ([#71936](https://github.com/CleverRaven/Cataclysm-DDA/pull/71936))
 
 ---
@@ -159,7 +160,6 @@
 * [Magiclysm] Add "of elvenkind" items ([#71748](https://github.com/CleverRaven/Cataclysm-DDA/pull/71748))
 * [XEDRA] Adjust Magnetic Holster Values ([#71755](https://github.com/CleverRaven/Cataclysm-DDA/pull/71755))
 * Enable clang-tidy check readability-braces-around-statements ([#71740](https://github.com/CleverRaven/Cataclysm-DDA/pull/71740))
-* [Magiclysm] Even more spells ([#71739](https://github.com/CleverRaven/Cataclysm-DDA/pull/71739))
 * [Magiclysm] Add fantasy skin colors  ([#71747](https://github.com/CleverRaven/Cataclysm-DDA/pull/71747))
 * Add moon tear ingot recipe ([#71745](https://github.com/CleverRaven/Cataclysm-DDA/pull/71745))
 * Shocker brute rebalancing ([#71741](https://github.com/CleverRaven/Cataclysm-DDA/pull/71741))
