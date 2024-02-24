@@ -1,3 +1,5 @@
+* [MoM] Doc updates + increase effects of Discern Weakness ([#71923](https://github.com/CleverRaven/Cataclysm-DDA/pull/71923))
+* [Magiclysm] Spellcasting proficiencies ([#71773](https://github.com/CleverRaven/Cataclysm-DDA/pull/71773))
 * Add striped pants to prisons ([#71915](https://github.com/CleverRaven/Cataclysm-DDA/pull/71915))
 * Minor seed count fixes ([#71929](https://github.com/CleverRaven/Cataclysm-DDA/pull/71929))
 * Make the ``monsters`` GitHub label actually get applied ([#71933](https://github.com/CleverRaven/Cataclysm-DDA/pull/71933))
@@ -166,5 +168,3 @@
 * [Magiclysm] Goblin encampment / orc village revamp + additions ([#71758](https://github.com/CleverRaven/Cataclysm-DDA/pull/71758))
 * [Magiclysm] Add "of elvenkind" items ([#71748](https://github.com/CleverRaven/Cataclysm-DDA/pull/71748))
 * [XEDRA] Adjust Magnetic Holster Values ([#71755](https://github.com/CleverRaven/Cataclysm-DDA/pull/71755))
-* [Magiclysm] Add fantasy skin colors  ([#71747](https://github.com/CleverRaven/Cataclysm-DDA/pull/71747))
-* Add moon tear ingot recipe ([#71745](https://github.com/CleverRaven/Cataclysm-DDA/pull/71745))
