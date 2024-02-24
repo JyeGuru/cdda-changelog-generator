@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-24-1529 ([5144de0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-24-1529))
+
+* Routine i18n updates on 24 February 2024 ([#71941](https://github.com/CleverRaven/Cataclysm-DDA/pull/71941))
 * Heighten the bar for monsters to be considered ``LARGE`` ([#71803](https://github.com/CleverRaven/Cataclysm-DDA/pull/71803))
 * [MoM] Doc updates + increase effects of Discern Weakness ([#71923](https://github.com/CleverRaven/Cataclysm-DDA/pull/71923))
 * [Magiclysm] Spellcasting proficiencies ([#71773](https://github.com/CleverRaven/Cataclysm-DDA/pull/71773))
@@ -157,7 +163,6 @@
 * properly migrate ammo ([#71779](https://github.com/CleverRaven/Cataclysm-DDA/pull/71779))
 * Fix infinite looping in msvc builds in fragment test function ([#71811](https://github.com/CleverRaven/Cataclysm-DDA/pull/71811))
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
-* Glazed carrot recipe tweak ([#71750](https://github.com/CleverRaven/Cataclysm-DDA/pull/71750))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
 * Migrate EOC text to `translation_or_var`/`translation` and update string extraction script ([#71760](https://github.com/CleverRaven/Cataclysm-DDA/pull/71760))
 * Update the table of contents in doc/JSON_INFO.md ([#71762](https://github.com/CleverRaven/Cataclysm-DDA/pull/71762))
