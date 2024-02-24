@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-24-0121 ([d6c98a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-24-0121))
+
 * [Xedra Evolved] More Paraclesian powers ([#71930](https://github.com/CleverRaven/Cataclysm-DDA/pull/71930))
 
 ---
