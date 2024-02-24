@@ -1,3 +1,4 @@
+* Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas (#71936)
 
 Cataclysm-DDA experimental build 2024-02-24-0121 (d6c98a1)
 * [Xedra Evolved] More Paraclesian powers (#71930)
@@ -110,7 +111,6 @@ Cataclysm-DDA experimental build 2024-02-20-1549 (ec3b259)
 * Take away ``HARDTOSHOOT`` from skeletal zombies (#71752)
 * Loose Meat Salting (#71764)
 * [Xedra Evolved] Fix Homullus fae ban (#71776)
-* regional_map_settings.json gets the mapgen label (#71737)
 * change the brewable time of mealgrub from 10 day to 76 hours to fit w… (#71765)
 * Update books.json to rebalance religious book spawning (#71766)
 * [Magiclysm] Goblin encampment / orc village revamp + additions (#71758)

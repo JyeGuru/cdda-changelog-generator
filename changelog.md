@@ -1,3 +1,4 @@
+* Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas ([#71936](https://github.com/CleverRaven/Cataclysm-DDA/pull/71936))
 
 ---
 
@@ -152,7 +153,6 @@
 * Take away ``HARDTOSHOOT`` from skeletal zombies ([#71752](https://github.com/CleverRaven/Cataclysm-DDA/pull/71752))
 * Loose Meat Salting ([#71764](https://github.com/CleverRaven/Cataclysm-DDA/pull/71764))
 * [Xedra Evolved] Fix Homullus fae ban ([#71776](https://github.com/CleverRaven/Cataclysm-DDA/pull/71776))
-* regional_map_settings.json gets the mapgen label ([#71737](https://github.com/CleverRaven/Cataclysm-DDA/pull/71737))
 * change the brewable time of mealgrub from 10 day to 76 hours to fit w… ([#71765](https://github.com/CleverRaven/Cataclysm-DDA/pull/71765))
 * Update books.json to rebalance religious book spawning ([#71766](https://github.com/CleverRaven/Cataclysm-DDA/pull/71766))
 * [Magiclysm] Goblin encampment / orc village revamp + additions ([#71758](https://github.com/CleverRaven/Cataclysm-DDA/pull/71758))
