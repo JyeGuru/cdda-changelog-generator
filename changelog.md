@@ -1,3 +1,4 @@
+* Heighten the bar for monsters to be considered ``LARGE`` ([#71803](https://github.com/CleverRaven/Cataclysm-DDA/pull/71803))
 * [MoM] Doc updates + increase effects of Discern Weakness ([#71923](https://github.com/CleverRaven/Cataclysm-DDA/pull/71923))
 * [Magiclysm] Spellcasting proficiencies ([#71773](https://github.com/CleverRaven/Cataclysm-DDA/pull/71773))
 * Add striped pants to prisons ([#71915](https://github.com/CleverRaven/Cataclysm-DDA/pull/71915))
@@ -166,5 +167,4 @@
 * change the brewable time of mealgrub from 10 day to 76 hours to fit w… ([#71765](https://github.com/CleverRaven/Cataclysm-DDA/pull/71765))
 * Update books.json to rebalance religious book spawning ([#71766](https://github.com/CleverRaven/Cataclysm-DDA/pull/71766))
 * [Magiclysm] Goblin encampment / orc village revamp + additions ([#71758](https://github.com/CleverRaven/Cataclysm-DDA/pull/71758))
-* [Magiclysm] Add "of elvenkind" items ([#71748](https://github.com/CleverRaven/Cataclysm-DDA/pull/71748))
 * [XEDRA] Adjust Magnetic Holster Values ([#71755](https://github.com/CleverRaven/Cataclysm-DDA/pull/71755))
