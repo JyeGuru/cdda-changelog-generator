@@ -1,3 +1,6 @@
+* Add striped pants to prisons ([#71915](https://github.com/CleverRaven/Cataclysm-DDA/pull/71915))
+* Minor seed count fixes ([#71929](https://github.com/CleverRaven/Cataclysm-DDA/pull/71929))
+* Make the ``monsters`` GitHub label actually get applied ([#71933](https://github.com/CleverRaven/Cataclysm-DDA/pull/71933))
 
 ---
 
@@ -154,7 +157,6 @@
 * Glazed carrot recipe tweak ([#71750](https://github.com/CleverRaven/Cataclysm-DDA/pull/71750))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
 * Migrate EOC text to `translation_or_var`/`translation` and update string extraction script ([#71760](https://github.com/CleverRaven/Cataclysm-DDA/pull/71760))
-* New Jewelry (and two new spiritual items) for Black History Month ([#71743](https://github.com/CleverRaven/Cataclysm-DDA/pull/71743))
 * Update the table of contents in doc/JSON_INFO.md ([#71762](https://github.com/CleverRaven/Cataclysm-DDA/pull/71762))
 * Take away ``HARDTOSHOOT`` from skeletal zombies ([#71752](https://github.com/CleverRaven/Cataclysm-DDA/pull/71752))
 * Loose Meat Salting ([#71764](https://github.com/CleverRaven/Cataclysm-DDA/pull/71764))
@@ -164,7 +166,5 @@
 * [Magiclysm] Goblin encampment / orc village revamp + additions ([#71758](https://github.com/CleverRaven/Cataclysm-DDA/pull/71758))
 * [Magiclysm] Add "of elvenkind" items ([#71748](https://github.com/CleverRaven/Cataclysm-DDA/pull/71748))
 * [XEDRA] Adjust Magnetic Holster Values ([#71755](https://github.com/CleverRaven/Cataclysm-DDA/pull/71755))
-* Enable clang-tidy check readability-braces-around-statements ([#71740](https://github.com/CleverRaven/Cataclysm-DDA/pull/71740))
 * [Magiclysm] Add fantasy skin colors  ([#71747](https://github.com/CleverRaven/Cataclysm-DDA/pull/71747))
 * Add moon tear ingot recipe ([#71745](https://github.com/CleverRaven/Cataclysm-DDA/pull/71745))
-* Shocker brute rebalancing ([#71741](https://github.com/CleverRaven/Cataclysm-DDA/pull/71741))
