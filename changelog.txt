@@ -49,8 +49,6 @@ Cataclysm-DDA experimental build 2024-02-23-0310 (4f0d0e2)
 
 Cataclysm-DDA experimental build 2024-02-22-0419 (dca0920)
 * add earthworms and their delicacies (#71804)
-
-Cataclysm-DDA experimental build 2024-02-22-0150 (688b7c4)
 * Add more samples to XEDRA Evolved and Magiclysm (#71897)
 
 Cataclysm-DDA experimental build 2024-02-21-1751 (d6b054c)
