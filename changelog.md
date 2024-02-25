@@ -76,6 +76,11 @@
 #### Cataclysm-DDA experimental build 2024-02-22-0419 ([dca0920](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-22-0419))
 
 * add earthworms and their delicacies ([#71804](https://github.com/CleverRaven/Cataclysm-DDA/pull/71804))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-22-0150 ([688b7c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-22-0150))
+
 * Add more samples to XEDRA Evolved and Magiclysm ([#71897](https://github.com/CleverRaven/Cataclysm-DDA/pull/71897))
 
 ---
