@@ -172,7 +172,6 @@
 * Fix infinite looping in msvc builds in fragment test function ([#71811](https://github.com/CleverRaven/Cataclysm-DDA/pull/71811))
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
-* Migrate EOC text to `translation_or_var`/`translation` and update string extraction script ([#71760](https://github.com/CleverRaven/Cataclysm-DDA/pull/71760))
 * Update the table of contents in doc/JSON_INFO.md ([#71762](https://github.com/CleverRaven/Cataclysm-DDA/pull/71762))
 * Loose Meat Salting ([#71764](https://github.com/CleverRaven/Cataclysm-DDA/pull/71764))
 * [Xedra Evolved] Fix Homullus fae ban ([#71776](https://github.com/CleverRaven/Cataclysm-DDA/pull/71776))
