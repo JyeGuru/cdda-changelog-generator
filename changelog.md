@@ -1,3 +1,4 @@
+* Add some mutation-specific fields to enchantments ([#71926](https://github.com/CleverRaven/Cataclysm-DDA/pull/71926))
 * [wasm] fix missing lz4 compression on data bundle ([#71939](https://github.com/CleverRaven/Cataclysm-DDA/pull/71939))
 * [wasm] exclude MA mod and Ultica_iso from bundle ([#71908](https://github.com/CleverRaven/Cataclysm-DDA/pull/71908))
 
@@ -172,7 +173,6 @@
 * Fix infinite looping in msvc builds in fragment test function ([#71811](https://github.com/CleverRaven/Cataclysm-DDA/pull/71811))
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
-* Update the table of contents in doc/JSON_INFO.md ([#71762](https://github.com/CleverRaven/Cataclysm-DDA/pull/71762))
 * Loose Meat Salting ([#71764](https://github.com/CleverRaven/Cataclysm-DDA/pull/71764))
 * [Xedra Evolved] Fix Homullus fae ban ([#71776](https://github.com/CleverRaven/Cataclysm-DDA/pull/71776))
 * change the brewable time of mealgrub from 10 day to 76 hours to fit w… ([#71765](https://github.com/CleverRaven/Cataclysm-DDA/pull/71765))
