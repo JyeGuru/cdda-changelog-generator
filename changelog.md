@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-26-1213 ([1c518f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-1213))
+
 * Fix false eocs for running inv eocs ([#71953](https://github.com/CleverRaven/Cataclysm-DDA/pull/71953))
 * Fix a few mistakes from #71850 ([#71962](https://github.com/CleverRaven/Cataclysm-DDA/pull/71962))
 * Fix on wakeup eoc bug ([#71973](https://github.com/CleverRaven/Cataclysm-DDA/pull/71973))
