@@ -1,3 +1,4 @@
+* Fix on wakeup eoc bug (#71973)
 * Remove lies (pertaining to nonexistent HAND_EITHER etc bodypart ids) (#71789)
 
 Cataclysm-DDA experimental build 2024-02-26-0948 (a23558e)
@@ -33,9 +34,6 @@ Cataclysm-DDA experimental build 2024-02-24-0121 (d6c98a1)
 Cataclysm-DDA experimental build 2024-02-23-2300 (2985330)
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion (#71932)
 * Replace `stdafx.h` with `pch/main-pch.hpp` (#71829)
-
-Cataclysm-DDA experimental build 2024-02-23-0542 (e5fd033)
-* Added SMALL_HIDER flag (#71767)
 * Adds social/asocial mutations (#71837)
 * Blend z0 triffid grove and fix terrains "roof": (#71894)
 * [Bombastic Perks] Add overwriting perkchain support (#71898)
