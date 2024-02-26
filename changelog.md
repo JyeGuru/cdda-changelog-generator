@@ -1,3 +1,4 @@
+* Fix macOS curses build error ([#71993](https://github.com/CleverRaven/Cataclysm-DDA/pull/71993))
 
 ---
 
@@ -20,7 +21,6 @@
 * Fix false eocs for running inv eocs ([#71953](https://github.com/CleverRaven/Cataclysm-DDA/pull/71953))
 * Fix a few mistakes from #71850 ([#71962](https://github.com/CleverRaven/Cataclysm-DDA/pull/71962))
 * Fix on wakeup eoc bug ([#71973](https://github.com/CleverRaven/Cataclysm-DDA/pull/71973))
-* Remove lies (pertaining to nonexistent HAND_EITHER etc bodypart ids) ([#71789](https://github.com/CleverRaven/Cataclysm-DDA/pull/71789))
 
 ---
 
