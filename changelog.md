@@ -1,3 +1,4 @@
+* Fix a few mistakes from #71850 ([#71962](https://github.com/CleverRaven/Cataclysm-DDA/pull/71962))
 * Fix on wakeup eoc bug ([#71973](https://github.com/CleverRaven/Cataclysm-DDA/pull/71973))
 * Remove lies (pertaining to nonexistent HAND_EITHER etc bodypart ids) ([#71789](https://github.com/CleverRaven/Cataclysm-DDA/pull/71789))
 
@@ -34,7 +35,6 @@
 * Routine i18n updates on 24 February 2024 ([#71941](https://github.com/CleverRaven/Cataclysm-DDA/pull/71941))
 * Heighten the bar for monsters to be considered ``LARGE`` ([#71803](https://github.com/CleverRaven/Cataclysm-DDA/pull/71803))
 * [MoM] Doc updates + increase effects of Discern Weakness ([#71923](https://github.com/CleverRaven/Cataclysm-DDA/pull/71923))
-* [Magiclysm] Spellcasting proficiencies ([#71773](https://github.com/CleverRaven/Cataclysm-DDA/pull/71773))
 * Add striped pants to prisons ([#71915](https://github.com/CleverRaven/Cataclysm-DDA/pull/71915))
 * Minor seed count fixes ([#71929](https://github.com/CleverRaven/Cataclysm-DDA/pull/71929))
 * Make the ``monsters`` GitHub label actually get applied ([#71933](https://github.com/CleverRaven/Cataclysm-DDA/pull/71933))
