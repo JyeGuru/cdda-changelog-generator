@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-02-26-1755 (3d11392)
 * [Xedra Evolved] Consolidate more Arvore mutations with triggers into one mutation (#71982)
 
 Cataclysm-DDA experimental build 2024-02-26-1511 (ce0fc0c)
