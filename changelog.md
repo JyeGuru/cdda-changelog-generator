@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-02-26-0948 ([a23558e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0948))
+
+* Make Artisans and Gunshow "GLOBALLY_UNIQUE" ([#71940](https://github.com/CleverRaven/Cataclysm-DDA/pull/71940))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-02-26-0341 ([dd1adff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0341))
 
 * Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))
@@ -184,5 +190,4 @@
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
 * [Xedra Evolved] Fix Homullus fae ban ([#71776](https://github.com/CleverRaven/Cataclysm-DDA/pull/71776))
-* change the brewable time of mealgrub from 10 day to 76 hours to fit w… ([#71765](https://github.com/CleverRaven/Cataclysm-DDA/pull/71765))
 * Update books.json to rebalance religious book spawning ([#71766](https://github.com/CleverRaven/Cataclysm-DDA/pull/71766))
