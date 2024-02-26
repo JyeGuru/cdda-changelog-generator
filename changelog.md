@@ -1,3 +1,6 @@
+* Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
+* [Xedra Evovled] bugfixes ([#71986](https://github.com/CleverRaven/Cataclysm-DDA/pull/71986))
+* [Magiclysm] Fix Wash the Wounds Clean ([#71981](https://github.com/CleverRaven/Cataclysm-DDA/pull/71981))
 
 ---
 
@@ -178,7 +181,6 @@
 * Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
 * Externally link debug info of MINGW executable ([#71805](https://github.com/CleverRaven/Cataclysm-DDA/pull/71805))
-* [Magiclysm] Last Mage on Earth start ([#71777](https://github.com/CleverRaven/Cataclysm-DDA/pull/71777))
 * Ignore MGOAL_FIND_ITEM Check If Player Is Busy ([#71790](https://github.com/CleverRaven/Cataclysm-DDA/pull/71790))
 * Readd heavy ballistic vest take 2 ([#71787](https://github.com/CleverRaven/Cataclysm-DDA/pull/71787))
 * Improve variety of weapon mods dropped from soldiers ([#71798](https://github.com/CleverRaven/Cataclysm-DDA/pull/71798))
@@ -187,7 +189,5 @@
 * Routine i18n updates on 17 February 2024 ([#71796](https://github.com/CleverRaven/Cataclysm-DDA/pull/71796))
 * cinnamon in oatmeal ([#71799](https://github.com/CleverRaven/Cataclysm-DDA/pull/71799))
 * disable verification in emscripten builds by default ([#71795](https://github.com/CleverRaven/Cataclysm-DDA/pull/71795))
-* properly migrate ammo ([#71779](https://github.com/CleverRaven/Cataclysm-DDA/pull/71779))
 * Fix infinite looping in msvc builds in fragment test function ([#71811](https://github.com/CleverRaven/Cataclysm-DDA/pull/71811))
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
-* [Xedra Evolved] Fix Homullus fae ban ([#71776](https://github.com/CleverRaven/Cataclysm-DDA/pull/71776))
