@@ -1,3 +1,4 @@
+* Remove lies (pertaining to nonexistent HAND_EITHER etc bodypart ids) ([#71789](https://github.com/CleverRaven/Cataclysm-DDA/pull/71789))
 
 ---
 
@@ -190,4 +191,3 @@
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
 * [Xedra Evolved] Fix Homullus fae ban ([#71776](https://github.com/CleverRaven/Cataclysm-DDA/pull/71776))
-* Update books.json to rebalance religious book spawning ([#71766](https://github.com/CleverRaven/Cataclysm-DDA/pull/71766))

@@ -1,3 +1,4 @@
+* Remove lies (pertaining to nonexistent HAND_EITHER etc bodypart ids) (#71789)
 
 Cataclysm-DDA experimental build 2024-02-26-0948 (a23558e)
 * Make Artisans and Gunshow "GLOBALLY_UNIQUE" (#71940)
@@ -130,4 +131,3 @@ Cataclysm-DDA experimental build 2024-02-20-1549 (ec3b259)
 * Fix error in clang-tidy.sh (#71797)
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears (#71774)
 * [Xedra Evolved] Fix Homullus fae ban (#71776)
-* Update books.json to rebalance religious book spawning (#71766)
