@@ -1,3 +1,9 @@
+* [Xedra Evolved] Consolidate more Arvore mutations with triggers into one mutation ([#71982](https://github.com/CleverRaven/Cataclysm-DDA/pull/71982))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-26-1511 ([ce0fc0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-1511))
+
 * Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
 * [Xedra Evovled] bugfixes ([#71986](https://github.com/CleverRaven/Cataclysm-DDA/pull/71986))
 * [Magiclysm] Fix Wash the Wounds Clean ([#71981](https://github.com/CleverRaven/Cataclysm-DDA/pull/71981))
@@ -182,7 +188,6 @@
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
 * Externally link debug info of MINGW executable ([#71805](https://github.com/CleverRaven/Cataclysm-DDA/pull/71805))
 * Ignore MGOAL_FIND_ITEM Check If Player Is Busy ([#71790](https://github.com/CleverRaven/Cataclysm-DDA/pull/71790))
-* Readd heavy ballistic vest take 2 ([#71787](https://github.com/CleverRaven/Cataclysm-DDA/pull/71787))
 * Improve variety of weapon mods dropped from soldiers ([#71798](https://github.com/CleverRaven/Cataclysm-DDA/pull/71798))
 * Fix abnormal terrain generation in old version archives ([#71801](https://github.com/CleverRaven/Cataclysm-DDA/pull/71801))
 * fix: force wield weapons for exodii npcs ([#71812](https://github.com/CleverRaven/Cataclysm-DDA/pull/71812))
