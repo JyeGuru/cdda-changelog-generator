@@ -1,3 +1,4 @@
+* Fix false eocs for running inv eocs ([#71953](https://github.com/CleverRaven/Cataclysm-DDA/pull/71953))
 * Fix a few mistakes from #71850 ([#71962](https://github.com/CleverRaven/Cataclysm-DDA/pull/71962))
 * Fix on wakeup eoc bug ([#71973](https://github.com/CleverRaven/Cataclysm-DDA/pull/71973))
 * Remove lies (pertaining to nonexistent HAND_EITHER etc bodypart ids) ([#71789](https://github.com/CleverRaven/Cataclysm-DDA/pull/71789))
@@ -184,5 +185,4 @@
 * properly migrate ammo ([#71779](https://github.com/CleverRaven/Cataclysm-DDA/pull/71779))
 * Fix infinite looping in msvc builds in fragment test function ([#71811](https://github.com/CleverRaven/Cataclysm-DDA/pull/71811))
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
-* Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
 * [Xedra Evolved] Fix Homullus fae ban ([#71776](https://github.com/CleverRaven/Cataclysm-DDA/pull/71776))
