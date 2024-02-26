@@ -91,7 +91,6 @@
 #### Cataclysm-DDA experimental build 2024-02-23-0310 ([4f0d0e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-0310))
 
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
-* Fix typos ([#71788](https://github.com/CleverRaven/Cataclysm-DDA/pull/71788))
 * Typo fixes ([#71827](https://github.com/CleverRaven/Cataclysm-DDA/pull/71827))
 
 ---

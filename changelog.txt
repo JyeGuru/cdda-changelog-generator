@@ -58,7 +58,6 @@ Cataclysm-DDA experimental build 2024-02-23-2300 (2985330)
 
 Cataclysm-DDA experimental build 2024-02-23-0310 (4f0d0e2)
 * Update JSON_FLAGS.md (#71928)
-* Fix typos (#71788)
 * Typo fixes (#71827)
 
 Cataclysm-DDA experimental build 2024-02-22-0419 (dca0920)
