@@ -1,3 +1,4 @@
+* [Bombastic Perks] Fix perk-choosing crash(?) ([#71995](https://github.com/CleverRaven/Cataclysm-DDA/pull/71995))
 
 ---
 
@@ -196,7 +197,6 @@
 * Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
 * Externally link debug info of MINGW executable ([#71805](https://github.com/CleverRaven/Cataclysm-DDA/pull/71805))
-* Ignore MGOAL_FIND_ITEM Check If Player Is Busy ([#71790](https://github.com/CleverRaven/Cataclysm-DDA/pull/71790))
 * Improve variety of weapon mods dropped from soldiers ([#71798](https://github.com/CleverRaven/Cataclysm-DDA/pull/71798))
 * Fix abnormal terrain generation in old version archives ([#71801](https://github.com/CleverRaven/Cataclysm-DDA/pull/71801))
 * fix: force wield weapons for exodii npcs ([#71812](https://github.com/CleverRaven/Cataclysm-DDA/pull/71812))

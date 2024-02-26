@@ -1,3 +1,4 @@
+* [Bombastic Perks] Fix perk-choosing crash(?) (#71995)
 
 Cataclysm-DDA experimental build 2024-02-26-2032 (2ce1b9b)
 * Fix macOS curses build error (#71993)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2024-02-20-1549 (ec3b259)
 * Add Cougars to tamable wildlife (#71816)
 * Fix compile warnings in MSVC (#71815)
 * Externally link debug info of MINGW executable (#71805)
-* Ignore MGOAL_FIND_ITEM Check If Player Is Busy (#71790)
 * Improve variety of weapon mods dropped from soldiers (#71798)
 * Fix abnormal terrain generation in old version archives (#71801)
 * fix: force wield weapons for exodii npcs (#71812)
