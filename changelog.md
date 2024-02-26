@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-02-26-0341 ([dd1adff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0341))
+
+* Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-02-25-0341 ([e18b7e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-25-0341))
 
 * Add some mutation-specific fields to enchantments ([#71926](https://github.com/CleverRaven/Cataclysm-DDA/pull/71926))
@@ -164,7 +170,6 @@
 * Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
 * Externally link debug info of MINGW executable ([#71805](https://github.com/CleverRaven/Cataclysm-DDA/pull/71805))
-* Update houses to utilize palettes ([#71763](https://github.com/CleverRaven/Cataclysm-DDA/pull/71763))
 * [Magiclysm] Last Mage on Earth start ([#71777](https://github.com/CleverRaven/Cataclysm-DDA/pull/71777))
 * Ignore MGOAL_FIND_ITEM Check If Player Is Busy ([#71790](https://github.com/CleverRaven/Cataclysm-DDA/pull/71790))
 * Readd heavy ballistic vest take 2 ([#71787](https://github.com/CleverRaven/Cataclysm-DDA/pull/71787))
@@ -178,7 +183,6 @@
 * Fix infinite looping in msvc builds in fragment test function ([#71811](https://github.com/CleverRaven/Cataclysm-DDA/pull/71811))
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
 * Add QUIETMOVES and SILENTMOVE flags, apply them to [Magiclysm] bugbears ([#71774](https://github.com/CleverRaven/Cataclysm-DDA/pull/71774))
-* Loose Meat Salting ([#71764](https://github.com/CleverRaven/Cataclysm-DDA/pull/71764))
 * [Xedra Evolved] Fix Homullus fae ban ([#71776](https://github.com/CleverRaven/Cataclysm-DDA/pull/71776))
 * change the brewable time of mealgrub from 10 day to 76 hours to fit w… ([#71765](https://github.com/CleverRaven/Cataclysm-DDA/pull/71765))
 * Update books.json to rebalance religious book spawning ([#71766](https://github.com/CleverRaven/Cataclysm-DDA/pull/71766))
