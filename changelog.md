@@ -1,3 +1,8 @@
+* [Xedra Evolved] Sylph, salamander, and undine mutation consolidation ([#71996](https://github.com/CleverRaven/Cataclysm-DDA/pull/71996))
+* Allow summoned creatures to leave without creating a corpse ([#72005](https://github.com/CleverRaven/Cataclysm-DDA/pull/72005))
+* Added preprocessor directives to allow building android without imgui. ([#72013](https://github.com/CleverRaven/Cataclysm-DDA/pull/72013))
+* [Magiclysm] Add Technomancer class to Machine Mind ([#72007](https://github.com/CleverRaven/Cataclysm-DDA/pull/72007))
+* [wasm] add --lz4 to file_packager ([#72011](https://github.com/CleverRaven/Cataclysm-DDA/pull/72011))
 
 ---
 
@@ -78,7 +83,6 @@
 #### Cataclysm-DDA experimental build 2024-02-24-1529 ([5144de0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-24-1529))
 
 * Routine i18n updates on 24 February 2024 ([#71941](https://github.com/CleverRaven/Cataclysm-DDA/pull/71941))
-* Heighten the bar for monsters to be considered ``LARGE`` ([#71803](https://github.com/CleverRaven/Cataclysm-DDA/pull/71803))
 * [MoM] Doc updates + increase effects of Discern Weakness ([#71923](https://github.com/CleverRaven/Cataclysm-DDA/pull/71923))
 * Add striped pants to prisons ([#71915](https://github.com/CleverRaven/Cataclysm-DDA/pull/71915))
 * Minor seed count fixes ([#71929](https://github.com/CleverRaven/Cataclysm-DDA/pull/71929))
@@ -122,12 +126,6 @@
 
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
 * Typo fixes ([#71827](https://github.com/CleverRaven/Cataclysm-DDA/pull/71827))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-22-0419 ([dca0920](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-22-0419))
-
-* add earthworms and their delicacies ([#71804](https://github.com/CleverRaven/Cataclysm-DDA/pull/71804))
 
 ---
 
@@ -215,8 +213,5 @@
 * Set new_game before loading JSON data ([#71806](https://github.com/CleverRaven/Cataclysm-DDA/pull/71806))
 * Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
-* Externally link debug info of MINGW executable ([#71805](https://github.com/CleverRaven/Cataclysm-DDA/pull/71805))
-* Fix abnormal terrain generation in old version archives ([#71801](https://github.com/CleverRaven/Cataclysm-DDA/pull/71801))
 * fix: force wield weapons for exodii npcs ([#71812](https://github.com/CleverRaven/Cataclysm-DDA/pull/71812))
-* cinnamon in oatmeal ([#71799](https://github.com/CleverRaven/Cataclysm-DDA/pull/71799))
 * Fix infinite looping in msvc builds in fragment test function ([#71811](https://github.com/CleverRaven/Cataclysm-DDA/pull/71811))
