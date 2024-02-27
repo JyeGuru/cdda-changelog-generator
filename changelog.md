@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-27-0031 ([135db22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-0031))
+
 * [Bombastic Perks] Fix perk-choosing crash(?) ([#71995](https://github.com/CleverRaven/Cataclysm-DDA/pull/71995))
 
 ---
