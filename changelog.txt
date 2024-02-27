@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-02-27-2243 (2915fb1)
 * More enchantments (#71976)
 
 Cataclysm-DDA experimental build 2024-02-27-1906 (a1a610b)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-02-21-0632 (8c8dac8)
 
 Cataclysm-DDA experimental build 2024-02-21-0144 (b71bbc3)
 * Fix speedloader reloading (#71875)
-
-Cataclysm-DDA experimental build 2024-02-20-1854 (4047b90)
 * Defensively insert a \ after $(LLVMInstallDir) (#71876)
 * Tweak one sentence in last delivery mission (#71871)
 * Fix WASM experimental release build failure (#71869)

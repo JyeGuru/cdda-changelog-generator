@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-27-2243 ([2915fb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-2243))
+
 * More enchantments ([#71976](https://github.com/CleverRaven/Cataclysm-DDA/pull/71976))
 
 ---
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-02-21-0144 ([b71bbc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-21-0144))
 
 * Fix speedloader reloading ([#71875](https://github.com/CleverRaven/Cataclysm-DDA/pull/71875))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-20-1854 ([4047b90](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-20-1854))
-
 * Defensively insert a \ after $(LLVMInstallDir) ([#71876](https://github.com/CleverRaven/Cataclysm-DDA/pull/71876))
 * Tweak one sentence in last delivery mission ([#71871](https://github.com/CleverRaven/Cataclysm-DDA/pull/71871))
 * Fix WASM experimental release build failure ([#71869](https://github.com/CleverRaven/Cataclysm-DDA/pull/71869))
