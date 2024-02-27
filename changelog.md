@@ -1,3 +1,4 @@
+* More enchantments ([#71976](https://github.com/CleverRaven/Cataclysm-DDA/pull/71976))
 
 ---
 
@@ -198,7 +199,6 @@
 * Mutations list selector starts in the active column ([#71824](https://github.com/CleverRaven/Cataclysm-DDA/pull/71824))
 * NPCs can overeat, starve, and dehydrate to death ([#71836](https://github.com/CleverRaven/Cataclysm-DDA/pull/71836))
 * Enable clang-tidy check readability-duplicate-include ([#71826](https://github.com/CleverRaven/Cataclysm-DDA/pull/71826))
-* Unify quotes in text and comments by replacing unicode quotes with ASCII quotes ([#71823](https://github.com/CleverRaven/Cataclysm-DDA/pull/71823))
 * Extend clang-tidy unit overflow check to watt and kilowatt ([#71848](https://github.com/CleverRaven/Cataclysm-DDA/pull/71848))
 * Fix printf format showing up in message log: %s is panicking ([#71838](https://github.com/CleverRaven/Cataclysm-DDA/pull/71838))
 * Use mutation id to identify inline enchantments ([#71845](https://github.com/CleverRaven/Cataclysm-DDA/pull/71845))

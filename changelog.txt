@@ -1,3 +1,4 @@
+* More enchantments (#71976)
 
 Cataclysm-DDA experimental build 2024-02-27-1906 (a1a610b)
 * fix some bugs for `run_eoc_until` (#72020)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2024-02-20-1854 (4047b90)
 * Mutations list selector starts in the active column (#71824)
 * NPCs can overeat, starve, and dehydrate to death (#71836)
 * Enable clang-tidy check readability-duplicate-include (#71826)
-* Unify quotes in text and comments by replacing unicode quotes with ASCII quotes (#71823)
 * Extend clang-tidy unit overflow check to watt and kilowatt (#71848)
 * Fix printf format showing up in message log: %s is panicking (#71838)
 * Use mutation id to identify inline enchantments (#71845)
