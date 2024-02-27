@@ -45,6 +45,8 @@ Cataclysm-DDA experimental build 2024-02-24-1529 (5144de0)
 * Add striped pants to prisons (#71915)
 * Minor seed count fixes (#71929)
 * Make the ``monsters`` GitHub label actually get applied (#71933)
+
+Cataclysm-DDA experimental build 2024-02-24-0336 (ce88e13)
 * Fancy pool house (#71927)
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas (#71936)
 
