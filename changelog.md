@@ -1,3 +1,5 @@
+* Fix immune flag ondamage eoc behavior ([#71974](https://github.com/CleverRaven/Cataclysm-DDA/pull/71974))
+* Update u_val('sold') to n_val('sold') ([#71998](https://github.com/CleverRaven/Cataclysm-DDA/pull/71998))
 * No more infinite farthings from Rubik ([#72003](https://github.com/CleverRaven/Cataclysm-DDA/pull/72003))
 * Fix recipe_id conflicts in base json files ([#72002](https://github.com/CleverRaven/Cataclysm-DDA/pull/72002))
 * MONSTERS.md: reference GAME_BALANCE.md more ([#71952](https://github.com/CleverRaven/Cataclysm-DDA/pull/71952))
@@ -212,5 +214,3 @@
 * [Xedra Evolved] Fix blocky pistol recipe ([#71834](https://github.com/CleverRaven/Cataclysm-DDA/pull/71834))
 * [Magiclysm] Fix Peaceful Rest hobby ([#71828](https://github.com/CleverRaven/Cataclysm-DDA/pull/71828))
 * Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
-* Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
-* fix: force wield weapons for exodii npcs ([#71812](https://github.com/CleverRaven/Cataclysm-DDA/pull/71812))
