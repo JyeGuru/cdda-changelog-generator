@@ -1,3 +1,10 @@
+* [MoM] Update Metabolic Hyperefficiency ([#72006](https://github.com/CleverRaven/Cataclysm-DDA/pull/72006))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-27-0320 ([2f576bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-0320))
+
+* [MoM] Chameleoflage update ([#71999](https://github.com/CleverRaven/Cataclysm-DDA/pull/71999))
 * Cleanup Zed Bits ([#71931](https://github.com/CleverRaven/Cataclysm-DDA/pull/71931))
 
 ---
@@ -206,7 +213,5 @@
 * Improve variety of weapon mods dropped from soldiers ([#71798](https://github.com/CleverRaven/Cataclysm-DDA/pull/71798))
 * Fix abnormal terrain generation in old version archives ([#71801](https://github.com/CleverRaven/Cataclysm-DDA/pull/71801))
 * fix: force wield weapons for exodii npcs ([#71812](https://github.com/CleverRaven/Cataclysm-DDA/pull/71812))
-* Routine i18n updates on 17 February 2024 ([#71796](https://github.com/CleverRaven/Cataclysm-DDA/pull/71796))
 * cinnamon in oatmeal ([#71799](https://github.com/CleverRaven/Cataclysm-DDA/pull/71799))
 * Fix infinite looping in msvc builds in fragment test function ([#71811](https://github.com/CleverRaven/Cataclysm-DDA/pull/71811))
-* Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
