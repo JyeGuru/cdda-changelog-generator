@@ -1,6 +1,11 @@
 * [Xedra Evolved] Sylph, salamander, and undine mutation consolidation ([#71996](https://github.com/CleverRaven/Cataclysm-DDA/pull/71996))
 * Allow summoned creatures to leave without creating a corpse ([#72005](https://github.com/CleverRaven/Cataclysm-DDA/pull/72005))
 * Added preprocessor directives to allow building android without imgui. ([#72013](https://github.com/CleverRaven/Cataclysm-DDA/pull/72013))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-27-1537 ([e05ec9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-1537))
+
 * [Magiclysm] Add Technomancer class to Machine Mind ([#72007](https://github.com/CleverRaven/Cataclysm-DDA/pull/72007))
 * [wasm] add --lz4 to file_packager ([#72011](https://github.com/CleverRaven/Cataclysm-DDA/pull/72011))
 
@@ -180,11 +185,6 @@
 * Tweak one sentence in last delivery mission ([#71871](https://github.com/CleverRaven/Cataclysm-DDA/pull/71871))
 * Fix WASM experimental release build failure ([#71869](https://github.com/CleverRaven/Cataclysm-DDA/pull/71869))
 * Enable clang-tidy check modernize-use-emplace ([#71872](https://github.com/CleverRaven/Cataclysm-DDA/pull/71872))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-20-1549 ([ec3b259](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-20-1549))
-
 * Create experimental release tag on the correct commit ([#71868](https://github.com/CleverRaven/Cataclysm-DDA/pull/71868))
 * Fix Unicode quote text style errors ([#71870](https://github.com/CleverRaven/Cataclysm-DDA/pull/71870))
 * Add some basic exception reporting for emscripten ([#71853](https://github.com/CleverRaven/Cataclysm-DDA/pull/71853))
