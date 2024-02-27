@@ -1,3 +1,4 @@
+* No more infinite farthings from Rubik ([#72003](https://github.com/CleverRaven/Cataclysm-DDA/pull/72003))
 * Fix recipe_id conflicts in base json files ([#72002](https://github.com/CleverRaven/Cataclysm-DDA/pull/72002))
 * MONSTERS.md: reference GAME_BALANCE.md more ([#71952](https://github.com/CleverRaven/Cataclysm-DDA/pull/71952))
 * [Xedra Evolved] Sylph, salamander, and undine mutation consolidation ([#71996](https://github.com/CleverRaven/Cataclysm-DDA/pull/71996))
@@ -213,4 +214,3 @@
 * Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
 * fix: force wield weapons for exodii npcs ([#71812](https://github.com/CleverRaven/Cataclysm-DDA/pull/71812))
-* Fix infinite looping in msvc builds in fragment test function ([#71811](https://github.com/CleverRaven/Cataclysm-DDA/pull/71811))
