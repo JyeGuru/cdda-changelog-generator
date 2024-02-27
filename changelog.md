@@ -210,7 +210,6 @@
 * [Magiclysm] Fix Peaceful Rest hobby ([#71828](https://github.com/CleverRaven/Cataclysm-DDA/pull/71828))
 * IR Vision can see through smoke ([#71807](https://github.com/CleverRaven/Cataclysm-DDA/pull/71807))
 * Made gates.h typed and the following adjustments ([#71809](https://github.com/CleverRaven/Cataclysm-DDA/pull/71809))
-* Set new_game before loading JSON data ([#71806](https://github.com/CleverRaven/Cataclysm-DDA/pull/71806))
 * Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
 * fix: force wield weapons for exodii npcs ([#71812](https://github.com/CleverRaven/Cataclysm-DDA/pull/71812))
