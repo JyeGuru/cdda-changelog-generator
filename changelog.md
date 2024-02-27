@@ -1,3 +1,4 @@
+* Fix recipe_id conflicts in base json files ([#72002](https://github.com/CleverRaven/Cataclysm-DDA/pull/72002))
 * MONSTERS.md: reference GAME_BALANCE.md more ([#71952](https://github.com/CleverRaven/Cataclysm-DDA/pull/71952))
 * [Xedra Evolved] Sylph, salamander, and undine mutation consolidation ([#71996](https://github.com/CleverRaven/Cataclysm-DDA/pull/71996))
 * Allow summoned creatures to leave without creating a corpse ([#72005](https://github.com/CleverRaven/Cataclysm-DDA/pull/72005))
@@ -209,7 +210,6 @@
 * Add more trash to rolling trash cans & nestify them ([#71840](https://github.com/CleverRaven/Cataclysm-DDA/pull/71840))
 * [Xedra Evolved] Fix blocky pistol recipe ([#71834](https://github.com/CleverRaven/Cataclysm-DDA/pull/71834))
 * [Magiclysm] Fix Peaceful Rest hobby ([#71828](https://github.com/CleverRaven/Cataclysm-DDA/pull/71828))
-* Made gates.h typed and the following adjustments ([#71809](https://github.com/CleverRaven/Cataclysm-DDA/pull/71809))
 * Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
 * fix: force wield weapons for exodii npcs ([#71812](https://github.com/CleverRaven/Cataclysm-DDA/pull/71812))
