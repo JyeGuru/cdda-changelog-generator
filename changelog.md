@@ -1,3 +1,4 @@
+* Cleanup Zed Bits ([#71931](https://github.com/CleverRaven/Cataclysm-DDA/pull/71931))
 
 ---
 
@@ -207,6 +208,5 @@
 * fix: force wield weapons for exodii npcs ([#71812](https://github.com/CleverRaven/Cataclysm-DDA/pull/71812))
 * Routine i18n updates on 17 February 2024 ([#71796](https://github.com/CleverRaven/Cataclysm-DDA/pull/71796))
 * cinnamon in oatmeal ([#71799](https://github.com/CleverRaven/Cataclysm-DDA/pull/71799))
-* disable verification in emscripten builds by default ([#71795](https://github.com/CleverRaven/Cataclysm-DDA/pull/71795))
 * Fix infinite looping in msvc builds in fragment test function ([#71811](https://github.com/CleverRaven/Cataclysm-DDA/pull/71811))
 * Fix error in clang-tidy.sh ([#71797](https://github.com/CleverRaven/Cataclysm-DDA/pull/71797))
