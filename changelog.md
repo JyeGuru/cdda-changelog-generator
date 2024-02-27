@@ -1,3 +1,4 @@
+* Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
 
 ---
 
@@ -196,7 +197,6 @@
 * [MoM] Remove obsolete files ([#71841](https://github.com/CleverRaven/Cataclysm-DDA/pull/71841))
 * Fix map deserialization error ([#71860](https://github.com/CleverRaven/Cataclysm-DDA/pull/71860))
 * Fixed the amount of gunpowder in 338 Lapua ammunition and the mod locations of AXMC ([#71849](https://github.com/CleverRaven/Cataclysm-DDA/pull/71849))
-* Mutations list selector starts in the active column ([#71824](https://github.com/CleverRaven/Cataclysm-DDA/pull/71824))
 * NPCs can overeat, starve, and dehydrate to death ([#71836](https://github.com/CleverRaven/Cataclysm-DDA/pull/71836))
 * Enable clang-tidy check readability-duplicate-include ([#71826](https://github.com/CleverRaven/Cataclysm-DDA/pull/71826))
 * Extend clang-tidy unit overflow check to watt and kilowatt ([#71848](https://github.com/CleverRaven/Cataclysm-DDA/pull/71848))
