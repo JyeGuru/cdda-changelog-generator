@@ -1,3 +1,4 @@
+* [Xedra Evolved] Paraclesian altar wall rework ([#72008](https://github.com/CleverRaven/Cataclysm-DDA/pull/72008))
 * [MoM] Update Metabolic Hyperefficiency ([#72006](https://github.com/CleverRaven/Cataclysm-DDA/pull/72006))
 
 ---
@@ -210,7 +211,6 @@
 * Add Cougars to tamable wildlife ([#71816](https://github.com/CleverRaven/Cataclysm-DDA/pull/71816))
 * Fix compile warnings in MSVC ([#71815](https://github.com/CleverRaven/Cataclysm-DDA/pull/71815))
 * Externally link debug info of MINGW executable ([#71805](https://github.com/CleverRaven/Cataclysm-DDA/pull/71805))
-* Improve variety of weapon mods dropped from soldiers ([#71798](https://github.com/CleverRaven/Cataclysm-DDA/pull/71798))
 * Fix abnormal terrain generation in old version archives ([#71801](https://github.com/CleverRaven/Cataclysm-DDA/pull/71801))
 * fix: force wield weapons for exodii npcs ([#71812](https://github.com/CleverRaven/Cataclysm-DDA/pull/71812))
 * cinnamon in oatmeal ([#71799](https://github.com/CleverRaven/Cataclysm-DDA/pull/71799))

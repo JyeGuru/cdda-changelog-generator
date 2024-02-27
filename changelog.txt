@@ -1,3 +1,4 @@
+* [Xedra Evolved] Paraclesian altar wall rework (#72008)
 * [MoM] Update Metabolic Hyperefficiency (#72006)
 
 Cataclysm-DDA experimental build 2024-02-27-0320 (2f576bd)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2024-02-20-1549 (ec3b259)
 * Add Cougars to tamable wildlife (#71816)
 * Fix compile warnings in MSVC (#71815)
 * Externally link debug info of MINGW executable (#71805)
-* Improve variety of weapon mods dropped from soldiers (#71798)
 * Fix abnormal terrain generation in old version archives (#71801)
 * fix: force wield weapons for exodii npcs (#71812)
 * cinnamon in oatmeal (#71799)
