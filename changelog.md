@@ -1,3 +1,6 @@
+* Some mapgen fixes ([#72028](https://github.com/CleverRaven/Cataclysm-DDA/pull/72028))
+* Disabling imgui.ini writing globally ([#72030](https://github.com/CleverRaven/Cataclysm-DDA/pull/72030))
+* Fixing mouse cursor unable to be hidden with ImGui ([#72029](https://github.com/CleverRaven/Cataclysm-DDA/pull/72029))
 * Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
 
 ---
@@ -150,7 +153,6 @@
 #### Cataclysm-DDA experimental build 2024-02-23-0310 ([4f0d0e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-0310))
 
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
-* Typo fixes ([#71827](https://github.com/CleverRaven/Cataclysm-DDA/pull/71827))
 
 ---
 
@@ -198,7 +200,6 @@
 * Fix map deserialization error ([#71860](https://github.com/CleverRaven/Cataclysm-DDA/pull/71860))
 * Fixed the amount of gunpowder in 338 Lapua ammunition and the mod locations of AXMC ([#71849](https://github.com/CleverRaven/Cataclysm-DDA/pull/71849))
 * NPCs can overeat, starve, and dehydrate to death ([#71836](https://github.com/CleverRaven/Cataclysm-DDA/pull/71836))
-* Enable clang-tidy check readability-duplicate-include ([#71826](https://github.com/CleverRaven/Cataclysm-DDA/pull/71826))
 * Extend clang-tidy unit overflow check to watt and kilowatt ([#71848](https://github.com/CleverRaven/Cataclysm-DDA/pull/71848))
 * Fix printf format showing up in message log: %s is panicking ([#71838](https://github.com/CleverRaven/Cataclysm-DDA/pull/71838))
 * Use mutation id to identify inline enchantments ([#71845](https://github.com/CleverRaven/Cataclysm-DDA/pull/71845))
@@ -208,4 +209,3 @@
 * 410 craft adjustment, 357 primer fix, XL nylon holster fix, sauteed onions ([#71831](https://github.com/CleverRaven/Cataclysm-DDA/pull/71831))
 * Add more trash to rolling trash cans & nestify them ([#71840](https://github.com/CleverRaven/Cataclysm-DDA/pull/71840))
 * [Xedra Evolved] Fix blocky pistol recipe ([#71834](https://github.com/CleverRaven/Cataclysm-DDA/pull/71834))
-* [Magiclysm] Fix Peaceful Rest hobby ([#71828](https://github.com/CleverRaven/Cataclysm-DDA/pull/71828))
