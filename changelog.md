@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-28-2115 ([60757df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-2115))
+
 * clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
 
 ---
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-02-23-0310 ([4f0d0e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-0310))
 
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-22-0150 ([688b7c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-22-0150))
-
 * Add more samples to XEDRA Evolved and Magiclysm ([#71897](https://github.com/CleverRaven/Cataclysm-DDA/pull/71897))
 * Update tool.json to include missing recipe for bronze fileset ([#71881](https://github.com/CleverRaven/Cataclysm-DDA/pull/71881))
 * Add sky island expedition timers to new zenfs sidebars ([#71882](https://github.com/CleverRaven/Cataclysm-DDA/pull/71882))

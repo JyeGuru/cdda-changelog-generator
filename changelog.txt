@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-02-28-2115 (60757df)
 * clear window line by line, skipping untouched lines (#72035)
 
 Cataclysm-DDA experimental build 2024-02-28-1831 (25af268)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2024-02-23-2300 (2985330)
 
 Cataclysm-DDA experimental build 2024-02-23-0310 (4f0d0e2)
 * Update JSON_FLAGS.md (#71928)
-
-Cataclysm-DDA experimental build 2024-02-22-0150 (688b7c4)
 * Add more samples to XEDRA Evolved and Magiclysm (#71897)
 * Update tool.json to include missing recipe for bronze fileset (#71881)
 * Add sky island expedition timers to new zenfs sidebars (#71882)
