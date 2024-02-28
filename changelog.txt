@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-02-28-1558 (b97b959)
+* [Xedra Evolved] Fix Avalanche Blow (#72036)
 * Limb/Armor Fun Part 1: Support for similar limbs on armor (#71896)
 
 Cataclysm-DDA experimental build 2024-02-28-0442 (5643586)
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2024-02-22-0150 (688b7c4)
 * Add more samples to XEDRA Evolved and Magiclysm (#71897)
 * Update tool.json to include missing recipe for bronze fileset (#71881)
 * Add sky island expedition timers to new zenfs sidebars (#71882)
-
-Cataclysm-DDA experimental build 2024-02-21-1517 (834c5cf)
 * Parametrize linoleum color in domestic palette (#71850)
 * [wasm] build with -fexceptions (#71883)
 * Set pocket priority to 100 when auto whitelisting for certain pockets (#71884)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2024-02-21-1517 (834c5cf)
 * Fix map deserialization error (#71860)
 * Fixed the amount of gunpowder in 338 Lapua ammunition and the mod locations of AXMC (#71849)
 * Extend clang-tidy unit overflow check to watt and kilowatt (#71848)
-* Fix printf format showing up in message log: %s is panicking (#71838)
 * Use mutation id to identify inline enchantments (#71845)
 * Fix wrong usage of string_format() and _() (#71847)
 * Fix erroneous mapgen monster names in non-English games (#71846)
