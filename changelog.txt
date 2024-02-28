@@ -66,8 +66,6 @@ Cataclysm-DDA experimental build 2024-02-26-0948 (a23558e)
 
 Cataclysm-DDA experimental build 2024-02-26-0341 (dd1adff)
 * Sky island fixes - quest completability (#71959)
-
-Cataclysm-DDA experimental build 2024-02-25-0341 (e18b7e2)
 * Add some mutation-specific fields to enchantments (#71926)
 * [wasm] fix missing lz4 compression on data bundle (#71939)
 * [wasm] exclude MA mod and Ultica_iso from bundle (#71908)
@@ -113,6 +111,8 @@ Cataclysm-DDA experimental build 2024-02-22-0150 (688b7c4)
 
 Cataclysm-DDA experimental build 2024-02-21-1517 (834c5cf)
 * Parametrize linoleum color in domestic palette (#71850)
+
+Cataclysm-DDA experimental build 2024-02-21-0752 (dd08bab)
 * [wasm] build with -fexceptions (#71883)
 * Set pocket priority to 100 when auto whitelisting for certain pockets (#71884)
 * [wasm] prepare web bundle data separately from build (#71886)
