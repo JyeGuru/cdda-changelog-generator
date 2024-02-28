@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-28-1831 ([25af268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-1831))
+
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment ([#72033](https://github.com/CleverRaven/Cataclysm-DDA/pull/72033))
 * github: build sdl2 locally for linux releases ([#72026](https://github.com/CleverRaven/Cataclysm-DDA/pull/72026))
 
