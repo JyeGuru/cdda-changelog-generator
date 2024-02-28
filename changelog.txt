@@ -1,3 +1,4 @@
+* github: build sdl2 locally for linux releases (#72026)
 
 Cataclysm-DDA experimental build 2024-02-28-1558 (b97b959)
 * [Xedra Evolved] Fix Avalanche Blow (#72036)
@@ -134,4 +135,3 @@ Cataclysm-DDA experimental build 2024-02-22-0150 (688b7c4)
 * Use mutation id to identify inline enchantments (#71845)
 * Fix wrong usage of string_format() and _() (#71847)
 * Fix erroneous mapgen monster names in non-English games (#71846)
-* Add more trash to rolling trash cans & nestify them (#71840)

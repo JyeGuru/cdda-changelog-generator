@@ -1,3 +1,4 @@
+* github: build sdl2 locally for linux releases ([#72026](https://github.com/CleverRaven/Cataclysm-DDA/pull/72026))
 
 ---
 
@@ -203,4 +204,3 @@
 * Use mutation id to identify inline enchantments ([#71845](https://github.com/CleverRaven/Cataclysm-DDA/pull/71845))
 * Fix wrong usage of string_format() and _() ([#71847](https://github.com/CleverRaven/Cataclysm-DDA/pull/71847))
 * Fix erroneous mapgen monster names in non-English games ([#71846](https://github.com/CleverRaven/Cataclysm-DDA/pull/71846))
-* Add more trash to rolling trash cans & nestify them ([#71840](https://github.com/CleverRaven/Cataclysm-DDA/pull/71840))
