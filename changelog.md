@@ -1,3 +1,4 @@
+* Limb/Armor Fun Part 1: Support for similar limbs on armor ([#71896](https://github.com/CleverRaven/Cataclysm-DDA/pull/71896))
 * Update PowerDescriptionSpoilers.md ([#71914](https://github.com/CleverRaven/Cataclysm-DDA/pull/71914))
 * Sanitize some magic numbers for NPCs ([#71843](https://github.com/CleverRaven/Cataclysm-DDA/pull/71843))
 * NPCs are smarter in how they steal from the player ([#71842](https://github.com/CleverRaven/Cataclysm-DDA/pull/71842))
@@ -145,7 +146,6 @@
 #### Cataclysm-DDA experimental build 2024-02-23-2300 ([2985330](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-2300))
 
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
-* Adds social/asocial mutations ([#71837](https://github.com/CleverRaven/Cataclysm-DDA/pull/71837))
 * Blend z0 triffid grove and fix terrains "roof": ([#71894](https://github.com/CleverRaven/Cataclysm-DDA/pull/71894))
 * [Bombastic Perks] Add overwriting perkchain support ([#71898](https://github.com/CleverRaven/Cataclysm-DDA/pull/71898))
 * Weaponize nether corpse teeth ([#71880](https://github.com/CleverRaven/Cataclysm-DDA/pull/71880))
