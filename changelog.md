@@ -1,3 +1,6 @@
+* Sanitize some magic numbers for NPCs ([#71843](https://github.com/CleverRaven/Cataclysm-DDA/pull/71843))
+* NPCs are smarter in how they steal from the player ([#71842](https://github.com/CleverRaven/Cataclysm-DDA/pull/71842))
+* keybindings: "Unbound locally!  Underlying global." ([#71968](https://github.com/CleverRaven/Cataclysm-DDA/pull/71968))
 * Begin moving mutation attacks to Martial Arts techniques ([#71874](https://github.com/CleverRaven/Cataclysm-DDA/pull/71874))
 
 ---
@@ -196,7 +199,6 @@
 * Fix Unicode quote text style errors ([#71870](https://github.com/CleverRaven/Cataclysm-DDA/pull/71870))
 * Add some basic exception reporting for emscripten ([#71853](https://github.com/CleverRaven/Cataclysm-DDA/pull/71853))
 * Update map::place_spawns() to use std::optional<std::string> for monster name ([#71861](https://github.com/CleverRaven/Cataclysm-DDA/pull/71861))
-* [Magiclysm] Fun with Flags, spell edition ([#71832](https://github.com/CleverRaven/Cataclysm-DDA/pull/71832))
 * [MoM] Remove obsolete files ([#71841](https://github.com/CleverRaven/Cataclysm-DDA/pull/71841))
 * Fix map deserialization error ([#71860](https://github.com/CleverRaven/Cataclysm-DDA/pull/71860))
 * Fixed the amount of gunpowder in 338 Lapua ammunition and the mod locations of AXMC ([#71849](https://github.com/CleverRaven/Cataclysm-DDA/pull/71849))
@@ -206,6 +208,4 @@
 * Use mutation id to identify inline enchantments ([#71845](https://github.com/CleverRaven/Cataclysm-DDA/pull/71845))
 * Fix wrong usage of string_format() and _() ([#71847](https://github.com/CleverRaven/Cataclysm-DDA/pull/71847))
 * Fix erroneous mapgen monster names in non-English games ([#71846](https://github.com/CleverRaven/Cataclysm-DDA/pull/71846))
-* 410 craft adjustment, 357 primer fix, XL nylon holster fix, sauteed onions ([#71831](https://github.com/CleverRaven/Cataclysm-DDA/pull/71831))
 * Add more trash to rolling trash cans & nestify them ([#71840](https://github.com/CleverRaven/Cataclysm-DDA/pull/71840))
-* [Xedra Evolved] Fix blocky pistol recipe ([#71834](https://github.com/CleverRaven/Cataclysm-DDA/pull/71834))
