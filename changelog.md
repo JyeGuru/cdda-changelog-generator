@@ -1,3 +1,4 @@
+* Disallow mixed smokeless in handloading ([#72023](https://github.com/CleverRaven/Cataclysm-DDA/pull/72023))
 * Some mapgen fixes ([#72028](https://github.com/CleverRaven/Cataclysm-DDA/pull/72028))
 * Disabling imgui.ini writing globally ([#72030](https://github.com/CleverRaven/Cataclysm-DDA/pull/72030))
 * Fixing mouse cursor unable to be hidden with ImGui ([#72029](https://github.com/CleverRaven/Cataclysm-DDA/pull/72029))
@@ -134,7 +135,6 @@
 #### Cataclysm-DDA experimental build 2024-02-23-2300 ([2985330](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-2300))
 
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
-* Replace `stdafx.h` with `pch/main-pch.hpp` ([#71829](https://github.com/CleverRaven/Cataclysm-DDA/pull/71829))
 * Adds social/asocial mutations ([#71837](https://github.com/CleverRaven/Cataclysm-DDA/pull/71837))
 * Blend z0 triffid grove and fix terrains "roof": ([#71894](https://github.com/CleverRaven/Cataclysm-DDA/pull/71894))
 * [Bombastic Perks] Add overwriting perkchain support ([#71898](https://github.com/CleverRaven/Cataclysm-DDA/pull/71898))
