@@ -1,3 +1,4 @@
+* [MoM] Update Night Eyes to the NIGHT_VIS enchantment ([#72033](https://github.com/CleverRaven/Cataclysm-DDA/pull/72033))
 * github: build sdl2 locally for linux releases ([#72026](https://github.com/CleverRaven/Cataclysm-DDA/pull/72026))
 
 ---
@@ -197,7 +198,6 @@
 * Fix Unicode quote text style errors ([#71870](https://github.com/CleverRaven/Cataclysm-DDA/pull/71870))
 * Add some basic exception reporting for emscripten ([#71853](https://github.com/CleverRaven/Cataclysm-DDA/pull/71853))
 * Update map::place_spawns() to use std::optional<std::string> for monster name ([#71861](https://github.com/CleverRaven/Cataclysm-DDA/pull/71861))
-* [MoM] Remove obsolete files ([#71841](https://github.com/CleverRaven/Cataclysm-DDA/pull/71841))
 * Fix map deserialization error ([#71860](https://github.com/CleverRaven/Cataclysm-DDA/pull/71860))
 * Fixed the amount of gunpowder in 338 Lapua ammunition and the mod locations of AXMC ([#71849](https://github.com/CleverRaven/Cataclysm-DDA/pull/71849))
 * Extend clang-tidy unit overflow check to watt and kilowatt ([#71848](https://github.com/CleverRaven/Cataclysm-DDA/pull/71848))
