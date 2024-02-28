@@ -1,3 +1,4 @@
+* Begin moving mutation attacks to Martial Arts techniques ([#71874](https://github.com/CleverRaven/Cataclysm-DDA/pull/71874))
 
 ---
 
@@ -205,7 +206,6 @@
 * Use mutation id to identify inline enchantments ([#71845](https://github.com/CleverRaven/Cataclysm-DDA/pull/71845))
 * Fix wrong usage of string_format() and _() ([#71847](https://github.com/CleverRaven/Cataclysm-DDA/pull/71847))
 * Fix erroneous mapgen monster names in non-English games ([#71846](https://github.com/CleverRaven/Cataclysm-DDA/pull/71846))
-* Add suspiciously missing break to fallback special placement code. ([#71830](https://github.com/CleverRaven/Cataclysm-DDA/pull/71830))
 * 410 craft adjustment, 357 primer fix, XL nylon holster fix, sauteed onions ([#71831](https://github.com/CleverRaven/Cataclysm-DDA/pull/71831))
 * Add more trash to rolling trash cans & nestify them ([#71840](https://github.com/CleverRaven/Cataclysm-DDA/pull/71840))
 * [Xedra Evolved] Fix blocky pistol recipe ([#71834](https://github.com/CleverRaven/Cataclysm-DDA/pull/71834))

@@ -1,3 +1,4 @@
+* Begin moving mutation attacks to Martial Arts techniques (#71874)
 
 Cataclysm-DDA experimental build 2024-02-28-0157 (a74bf25)
 * Disallow mixed smokeless in handloading (#72023)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2024-02-21-0632 (8c8dac8)
 * Use mutation id to identify inline enchantments (#71845)
 * Fix wrong usage of string_format() and _() (#71847)
 * Fix erroneous mapgen monster names in non-English games (#71846)
-* Add suspiciously missing break to fallback special placement code. (#71830)
 * 410 craft adjustment, 357 primer fix, XL nylon holster fix, sauteed onions (#71831)
 * Add more trash to rolling trash cans & nestify them (#71840)
 * [Xedra Evolved] Fix blocky pistol recipe (#71834)
