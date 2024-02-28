@@ -1,3 +1,4 @@
+* clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
 
 ---
 
@@ -18,8 +19,6 @@
 #### Cataclysm-DDA experimental build 2024-02-28-0442 ([5643586](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-0442))
 
 * Update PowerDescriptionSpoilers.md ([#71914](https://github.com/CleverRaven/Cataclysm-DDA/pull/71914))
-* Sanitize some magic numbers for NPCs ([#71843](https://github.com/CleverRaven/Cataclysm-DDA/pull/71843))
-* NPCs are smarter in how they steal from the player ([#71842](https://github.com/CleverRaven/Cataclysm-DDA/pull/71842))
 * keybindings: "Unbound locally!  Underlying global." ([#71968](https://github.com/CleverRaven/Cataclysm-DDA/pull/71968))
 * Begin moving mutation attacks to Martial Arts techniques ([#71874](https://github.com/CleverRaven/Cataclysm-DDA/pull/71874))
 

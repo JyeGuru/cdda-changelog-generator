@@ -1,3 +1,4 @@
+* clear window line by line, skipping untouched lines (#72035)
 
 Cataclysm-DDA experimental build 2024-02-28-1831 (25af268)
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment (#72033)
@@ -9,8 +10,6 @@ Cataclysm-DDA experimental build 2024-02-28-1558 (b97b959)
 
 Cataclysm-DDA experimental build 2024-02-28-0442 (5643586)
 * Update PowerDescriptionSpoilers.md (#71914)
-* Sanitize some magic numbers for NPCs (#71843)
-* NPCs are smarter in how they steal from the player (#71842)
 * keybindings: "Unbound locally!  Underlying global." (#71968)
 * Begin moving mutation attacks to Martial Arts techniques (#71874)
 
