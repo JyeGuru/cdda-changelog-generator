@@ -182,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-02-21-1517 ([834c5cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-21-1517))
 
 * Parametrize linoleum color in domestic palette ([#71850](https://github.com/CleverRaven/Cataclysm-DDA/pull/71850))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-21-0752 ([dd08bab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-21-0752))
-
 * [wasm] build with -fexceptions ([#71883](https://github.com/CleverRaven/Cataclysm-DDA/pull/71883))
 * Set pocket priority to 100 when auto whitelisting for certain pockets ([#71884](https://github.com/CleverRaven/Cataclysm-DDA/pull/71884))
 * [wasm] prepare web bundle data separately from build ([#71886](https://github.com/CleverRaven/Cataclysm-DDA/pull/71886))

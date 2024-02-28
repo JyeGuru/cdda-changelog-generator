@@ -113,8 +113,6 @@ Cataclysm-DDA experimental build 2024-02-22-0150 (688b7c4)
 
 Cataclysm-DDA experimental build 2024-02-21-1517 (834c5cf)
 * Parametrize linoleum color in domestic palette (#71850)
-
-Cataclysm-DDA experimental build 2024-02-21-0752 (dd08bab)
 * [wasm] build with -fexceptions (#71883)
 * Set pocket priority to 100 when auto whitelisting for certain pockets (#71884)
 * [wasm] prepare web bundle data separately from build (#71886)
