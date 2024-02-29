@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-29-0455 ([5e25bb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-29-0455))
+
 * github/linux: build a more featureful SDL2 library ([#72056](https://github.com/CleverRaven/Cataclysm-DDA/pull/72056))
 * [Docs] Alphabetize enchantments in Magic.md ([#71997](https://github.com/CleverRaven/Cataclysm-DDA/pull/71997))
 
