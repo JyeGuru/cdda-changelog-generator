@@ -176,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-02-24-0121 ([d6c98a1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-24-0121))
 
 * [Xedra Evolved] More Paraclesian powers ([#71930](https://github.com/CleverRaven/Cataclysm-DDA/pull/71930))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-23-2300 ([2985330](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-2300))
-
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
 * Blend z0 triffid grove and fix terrains "roof": ([#71894](https://github.com/CleverRaven/Cataclysm-DDA/pull/71894))
 * [Bombastic Perks] Add overwriting perkchain support ([#71898](https://github.com/CleverRaven/Cataclysm-DDA/pull/71898))
@@ -193,12 +188,12 @@
 * Removes Incongruent Book Spawns from Child Mobs and School Libraries ([#71906](https://github.com/CleverRaven/Cataclysm-DDA/pull/71906))
 * Less Encumbering Leather Vambraces ([#71922](https://github.com/CleverRaven/Cataclysm-DDA/pull/71922))
 * [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
+* Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-02-23-0310 ([4f0d0e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-23-0310))
+#### Cataclysm-DDA experimental build 2024-02-22-0150 ([688b7c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-22-0150))
 
-* Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
 * Add more samples to XEDRA Evolved and Magiclysm ([#71897](https://github.com/CleverRaven/Cataclysm-DDA/pull/71897))
 * Update tool.json to include missing recipe for bronze fileset ([#71881](https://github.com/CleverRaven/Cataclysm-DDA/pull/71881))
 * Add sky island expedition timers to new zenfs sidebars ([#71882](https://github.com/CleverRaven/Cataclysm-DDA/pull/71882))
