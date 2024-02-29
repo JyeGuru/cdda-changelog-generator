@@ -6,6 +6,8 @@ Cataclysm-DDA experimental build 2024-02-29-0455 (5e25bb3)
 
 Cataclysm-DDA experimental build 2024-02-28-2347 (0f6f3d5)
 * fix broken tests (#72055)
+
+Cataclysm-DDA experimental build 2024-02-28-2115 (60757df)
 * clear window line by line, skipping untouched lines (#72035)
 
 Cataclysm-DDA experimental build 2024-02-28-1831 (25af268)
@@ -64,6 +66,8 @@ Cataclysm-DDA experimental build 2024-02-26-2032 (2ce1b9b)
 
 Cataclysm-DDA experimental build 2024-02-26-1755 (3d11392)
 * [Xedra Evolved] Consolidate more Arvore mutations with triggers into one mutation (#71982)
+
+Cataclysm-DDA experimental build 2024-02-26-1511 (ce0fc0c)
 * Sky Island - Make secure storage boxes waterproof (#71987)
 * [Xedra Evovled] bugfixes (#71986)
 * [Magiclysm] Fix Wash the Wounds Clean (#71981)
