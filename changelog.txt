@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-02-29-2015 (19b951c)
+* [Xedra Evolved] Paraclesian altar floor rework  (#72061)
 * Fix clang-tidy error in magic_spell_test.cpp (#72067)
 
 Cataclysm-DDA experimental build 2024-02-29-0455 (5e25bb3)
@@ -118,8 +121,6 @@ Cataclysm-DDA experimental build 2024-02-23-2300 (2985330)
 * Removes Incongruent Book Spawns from Child Mobs and School Libraries (#71906)
 * Less Encumbering Leather Vambraces (#71922)
 * [Xedra Evolved] Adjust Barkskin (#71925)
-
-Cataclysm-DDA experimental build 2024-02-23-0310 (4f0d0e2)
 * Update JSON_FLAGS.md (#71928)
 * Add more samples to XEDRA Evolved and Magiclysm (#71897)
 * Update tool.json to include missing recipe for bronze fileset (#71881)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-02-23-0310 (4f0d0e2)
 * Add some basic exception reporting for emscripten (#71853)
 * Update map::place_spawns() to use std::optional<std::string> for monster name (#71861)
 * Fix map deserialization error (#71860)
-* Fixed the amount of gunpowder in 338 Lapua ammunition and the mod locations of AXMC (#71849)
