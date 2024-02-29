@@ -1,3 +1,5 @@
+* github/linux: build a more featureful SDL2 library ([#72056](https://github.com/CleverRaven/Cataclysm-DDA/pull/72056))
+* [Docs] Alphabetize enchantments in Magic.md ([#71997](https://github.com/CleverRaven/Cataclysm-DDA/pull/71997))
 
 ---
 
@@ -211,5 +213,3 @@
 * Fix map deserialization error ([#71860](https://github.com/CleverRaven/Cataclysm-DDA/pull/71860))
 * Fixed the amount of gunpowder in 338 Lapua ammunition and the mod locations of AXMC ([#71849](https://github.com/CleverRaven/Cataclysm-DDA/pull/71849))
 * Extend clang-tidy unit overflow check to watt and kilowatt ([#71848](https://github.com/CleverRaven/Cataclysm-DDA/pull/71848))
-* Fix wrong usage of string_format() and _() ([#71847](https://github.com/CleverRaven/Cataclysm-DDA/pull/71847))
-* Fix erroneous mapgen monster names in non-English games ([#71846](https://github.com/CleverRaven/Cataclysm-DDA/pull/71846))

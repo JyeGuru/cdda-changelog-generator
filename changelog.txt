@@ -1,3 +1,5 @@
+* github/linux: build a more featureful SDL2 library (#72056)
+* [Docs] Alphabetize enchantments in Magic.md (#71997)
 
 Cataclysm-DDA experimental build 2024-02-28-2347 (0f6f3d5)
 * fix broken tests (#72055)
@@ -136,5 +138,3 @@ Cataclysm-DDA experimental build 2024-02-23-0310 (4f0d0e2)
 * Fix map deserialization error (#71860)
 * Fixed the amount of gunpowder in 338 Lapua ammunition and the mod locations of AXMC (#71849)
 * Extend clang-tidy unit overflow check to watt and kilowatt (#71848)
-* Fix wrong usage of string_format() and _() (#71847)
-* Fix erroneous mapgen monster names in non-English games (#71846)
