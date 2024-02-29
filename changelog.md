@@ -12,11 +12,6 @@
 #### Cataclysm-DDA experimental build 2024-02-28-2347 ([0f6f3d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-2347))
 
 * fix broken tests ([#72055](https://github.com/CleverRaven/Cataclysm-DDA/pull/72055))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-28-2115 ([60757df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-2115))
-
 * clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
 
 ---
@@ -111,11 +106,6 @@
 #### Cataclysm-DDA experimental build 2024-02-26-1755 ([3d11392](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-1755))
 
 * [Xedra Evolved] Consolidate more Arvore mutations with triggers into one mutation ([#71982](https://github.com/CleverRaven/Cataclysm-DDA/pull/71982))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-26-1511 ([ce0fc0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-1511))
-
 * Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
 * [Xedra Evovled] bugfixes ([#71986](https://github.com/CleverRaven/Cataclysm-DDA/pull/71986))
 * [Magiclysm] Fix Wash the Wounds Clean ([#71981](https://github.com/CleverRaven/Cataclysm-DDA/pull/71981))
