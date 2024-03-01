@@ -1,3 +1,5 @@
+* [Magiclysm] Boosts spell leveling by cast ([#71948](https://github.com/CleverRaven/Cataclysm-DDA/pull/71948))
+* [Magiclysm] Parabolan wool gambesons ([#72054](https://github.com/CleverRaven/Cataclysm-DDA/pull/72054))
 
 ---
 
@@ -199,7 +201,6 @@
 * Weaponize nether corpse teeth ([#71880](https://github.com/CleverRaven/Cataclysm-DDA/pull/71880))
 * [Xedra Evolved] Consolidate some Arvore traits ([#71920](https://github.com/CleverRaven/Cataclysm-DDA/pull/71920))
 * Boomers Leave Gibs ([#71862](https://github.com/CleverRaven/Cataclysm-DDA/pull/71862))
-* Cougar kittens! ([#71855](https://github.com/CleverRaven/Cataclysm-DDA/pull/71855))
 * Adding bronze chisel attempt 2 now with recipe ([#71904](https://github.com/CleverRaven/Cataclysm-DDA/pull/71904))
 * Make houses use walls from palette ([#71901](https://github.com/CleverRaven/Cataclysm-DDA/pull/71901))
 * Removes Incongruent Book Spawns from Child Mobs and School Libraries ([#71906](https://github.com/CleverRaven/Cataclysm-DDA/pull/71906))
@@ -220,6 +221,5 @@
 * Enable clang-tidy check modernize-use-emplace ([#71872](https://github.com/CleverRaven/Cataclysm-DDA/pull/71872))
 * Create experimental release tag on the correct commit ([#71868](https://github.com/CleverRaven/Cataclysm-DDA/pull/71868))
 * Fix Unicode quote text style errors ([#71870](https://github.com/CleverRaven/Cataclysm-DDA/pull/71870))
-* Add some basic exception reporting for emscripten ([#71853](https://github.com/CleverRaven/Cataclysm-DDA/pull/71853))
 * Update map::place_spawns() to use std::optional<std::string> for monster name ([#71861](https://github.com/CleverRaven/Cataclysm-DDA/pull/71861))
 * Fix map deserialization error ([#71860](https://github.com/CleverRaven/Cataclysm-DDA/pull/71860))
