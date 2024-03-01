@@ -1,3 +1,8 @@
+* Camps are faction-agnostic (not just linked to player faction) ([#71917](https://github.com/CleverRaven/Cataclysm-DDA/pull/71917))
+* Remove odd .30-06 ammo spawn from radio_tower_2x2_map variant ([#71951](https://github.com/CleverRaven/Cataclysm-DDA/pull/71951))
+* Create splash attacks and give them to Boomers ([#71964](https://github.com/CleverRaven/Cataclysm-DDA/pull/71964))
+* Flooded Basements Part:1 ([#71992](https://github.com/CleverRaven/Cataclysm-DDA/pull/71992))
+* [Xedra Evolved] Update Verdant Armor with new enchantments ([#72078](https://github.com/CleverRaven/Cataclysm-DDA/pull/72078))
 * New mutation field "override_look" that allows the character to have the appearance of a monster. ([#72039](https://github.com/CleverRaven/Cataclysm-DDA/pull/72039))
 * Fixing an ImGui issue where static popups draw at the center of the screen ([#72048](https://github.com/CleverRaven/Cataclysm-DDA/pull/72048))
 * [MoM] Update Speed Reader to use READING_SPEED_MULTIPLIER enchantment ([#72049](https://github.com/CleverRaven/Cataclysm-DDA/pull/72049))
@@ -60,7 +65,6 @@
 
 * Update PowerDescriptionSpoilers.md ([#71914](https://github.com/CleverRaven/Cataclysm-DDA/pull/71914))
 * keybindings: "Unbound locally!  Underlying global." ([#71968](https://github.com/CleverRaven/Cataclysm-DDA/pull/71968))
-* Begin moving mutation attacks to Martial Arts techniques ([#71874](https://github.com/CleverRaven/Cataclysm-DDA/pull/71874))
 
 ---
 
@@ -205,7 +209,6 @@
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
 * Blend z0 triffid grove and fix terrains "roof": ([#71894](https://github.com/CleverRaven/Cataclysm-DDA/pull/71894))
 * [Bombastic Perks] Add overwriting perkchain support ([#71898](https://github.com/CleverRaven/Cataclysm-DDA/pull/71898))
-* Weaponize nether corpse teeth ([#71880](https://github.com/CleverRaven/Cataclysm-DDA/pull/71880))
 * [Xedra Evolved] Consolidate some Arvore traits ([#71920](https://github.com/CleverRaven/Cataclysm-DDA/pull/71920))
 * Adding bronze chisel attempt 2 now with recipe ([#71904](https://github.com/CleverRaven/Cataclysm-DDA/pull/71904))
 * Make houses use walls from palette ([#71901](https://github.com/CleverRaven/Cataclysm-DDA/pull/71901))
@@ -220,6 +223,3 @@
 * Set pocket priority to 100 when auto whitelisting for certain pockets ([#71884](https://github.com/CleverRaven/Cataclysm-DDA/pull/71884))
 * [wasm] prepare web bundle data separately from build ([#71886](https://github.com/CleverRaven/Cataclysm-DDA/pull/71886))
 * [wasm] use CCACHE_COMPILERCHECK to hopefully improve cache hit rate ([#71887](https://github.com/CleverRaven/Cataclysm-DDA/pull/71887))
-* Fix speedloader reloading ([#71875](https://github.com/CleverRaven/Cataclysm-DDA/pull/71875))
-* Defensively insert a \ after $(LLVMInstallDir) ([#71876](https://github.com/CleverRaven/Cataclysm-DDA/pull/71876))
-* Enable clang-tidy check modernize-use-emplace ([#71872](https://github.com/CleverRaven/Cataclysm-DDA/pull/71872))
