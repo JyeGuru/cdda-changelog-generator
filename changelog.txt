@@ -1,3 +1,4 @@
+* [Xedra Evolved] Update Paraclesian elemental form sprites (#72088)
 
 Cataclysm-DDA experimental build 2024-03-01-1352 (e269072)
 * Remove Lemmy Mention (#72096)
@@ -137,5 +138,4 @@ Cataclysm-DDA experimental build 2024-02-24-1529 (5144de0)
 * [Xedra Evolved] Adjust Barkskin (#71925)
 * Update JSON_FLAGS.md (#71928)
 * Add more samples to XEDRA Evolved and Magiclysm (#71897)
-* [wasm] prepare web bundle data separately from build (#71886)
 * [wasm] use CCACHE_COMPILERCHECK to hopefully improve cache hit rate (#71887)

@@ -1,3 +1,4 @@
+* [Xedra Evolved] Update Paraclesian elemental form sprites ([#72088](https://github.com/CleverRaven/Cataclysm-DDA/pull/72088))
 
 ---
 
@@ -215,5 +216,4 @@
 * [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
 * Add more samples to XEDRA Evolved and Magiclysm ([#71897](https://github.com/CleverRaven/Cataclysm-DDA/pull/71897))
-* [wasm] prepare web bundle data separately from build ([#71886](https://github.com/CleverRaven/Cataclysm-DDA/pull/71886))
 * [wasm] use CCACHE_COMPILERCHECK to hopefully improve cache hit rate ([#71887](https://github.com/CleverRaven/Cataclysm-DDA/pull/71887))
