@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-01-1352 ([e269072](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-01-1352))
+
 * Remove Lemmy Mention ([#72096](https://github.com/CleverRaven/Cataclysm-DDA/pull/72096))
 
 ---
@@ -196,11 +201,6 @@
 * Add striped pants to prisons ([#71915](https://github.com/CleverRaven/Cataclysm-DDA/pull/71915))
 * Minor seed count fixes ([#71929](https://github.com/CleverRaven/Cataclysm-DDA/pull/71929))
 * Make the ``monsters`` GitHub label actually get applied ([#71933](https://github.com/CleverRaven/Cataclysm-DDA/pull/71933))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-24-0336 ([ce88e13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-24-0336))
-
 * Fancy pool house ([#71927](https://github.com/CleverRaven/Cataclysm-DDA/pull/71927))
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas ([#71936](https://github.com/CleverRaven/Cataclysm-DDA/pull/71936))
 * [Xedra Evolved] More Paraclesian powers ([#71930](https://github.com/CleverRaven/Cataclysm-DDA/pull/71930))
