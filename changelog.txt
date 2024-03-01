@@ -1,3 +1,4 @@
+* Remove Lemmy Mention (#72096)
 
 Cataclysm-DDA experimental build 2024-03-01-0629 (8a1fa0e)
 * [MoM] Update learning EoCs to reuse condition list (#72080)
@@ -136,6 +137,5 @@ Cataclysm-DDA experimental build 2024-02-24-0336 (ce88e13)
 * [Xedra Evolved] Adjust Barkskin (#71925)
 * Update JSON_FLAGS.md (#71928)
 * Add more samples to XEDRA Evolved and Magiclysm (#71897)
-* Set pocket priority to 100 when auto whitelisting for certain pockets (#71884)
 * [wasm] prepare web bundle data separately from build (#71886)
 * [wasm] use CCACHE_COMPILERCHECK to hopefully improve cache hit rate (#71887)

@@ -1,3 +1,4 @@
+* Remove Lemmy Mention ([#72096](https://github.com/CleverRaven/Cataclysm-DDA/pull/72096))
 
 ---
 
@@ -214,6 +215,5 @@
 * [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
 * Add more samples to XEDRA Evolved and Magiclysm ([#71897](https://github.com/CleverRaven/Cataclysm-DDA/pull/71897))
-* Set pocket priority to 100 when auto whitelisting for certain pockets ([#71884](https://github.com/CleverRaven/Cataclysm-DDA/pull/71884))
 * [wasm] prepare web bundle data separately from build ([#71886](https://github.com/CleverRaven/Cataclysm-DDA/pull/71886))
 * [wasm] use CCACHE_COMPILERCHECK to hopefully improve cache hit rate ([#71887](https://github.com/CleverRaven/Cataclysm-DDA/pull/71887))
