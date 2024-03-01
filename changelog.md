@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-01-0035 ([4be53f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-01-0035))
+
+* Imgui keybindings UI mouse broken ([#72076](https://github.com/CleverRaven/Cataclysm-DDA/pull/72076))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-02-29-2015 ([19b951c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-29-2015))
 
 * [Xedra Evolved] Paraclesian altar floor rework  ([#72061](https://github.com/CleverRaven/Cataclysm-DDA/pull/72061))
@@ -203,7 +209,6 @@
 * Add more samples to XEDRA Evolved and Magiclysm ([#71897](https://github.com/CleverRaven/Cataclysm-DDA/pull/71897))
 * Update tool.json to include missing recipe for bronze fileset ([#71881](https://github.com/CleverRaven/Cataclysm-DDA/pull/71881))
 * Add sky island expedition timers to new zenfs sidebars ([#71882](https://github.com/CleverRaven/Cataclysm-DDA/pull/71882))
-* Parametrize linoleum color in domestic palette ([#71850](https://github.com/CleverRaven/Cataclysm-DDA/pull/71850))
 * [wasm] build with -fexceptions ([#71883](https://github.com/CleverRaven/Cataclysm-DDA/pull/71883))
 * Set pocket priority to 100 when auto whitelisting for certain pockets ([#71884](https://github.com/CleverRaven/Cataclysm-DDA/pull/71884))
 * [wasm] prepare web bundle data separately from build ([#71886](https://github.com/CleverRaven/Cataclysm-DDA/pull/71886))
