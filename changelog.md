@@ -1,3 +1,5 @@
+* Routine i18n updates on 02 March 2024 ([#72112](https://github.com/CleverRaven/Cataclysm-DDA/pull/72112))
+* Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet ([#72115](https://github.com/CleverRaven/Cataclysm-DDA/pull/72115))
 * fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
 
 ---
@@ -215,7 +217,6 @@
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas ([#71936](https://github.com/CleverRaven/Cataclysm-DDA/pull/71936))
 * [Xedra Evolved] More Paraclesian powers ([#71930](https://github.com/CleverRaven/Cataclysm-DDA/pull/71930))
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
-* [Bombastic Perks] Add overwriting perkchain support ([#71898](https://github.com/CleverRaven/Cataclysm-DDA/pull/71898))
 * [Xedra Evolved] Consolidate some Arvore traits ([#71920](https://github.com/CleverRaven/Cataclysm-DDA/pull/71920))
 * Adding bronze chisel attempt 2 now with recipe ([#71904](https://github.com/CleverRaven/Cataclysm-DDA/pull/71904))
 * Make houses use walls from palette ([#71901](https://github.com/CleverRaven/Cataclysm-DDA/pull/71901))
