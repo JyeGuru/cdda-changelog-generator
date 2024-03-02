@@ -204,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2024-02-26-0948 ([a23558e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0948))
 
 * Make Artisans and Gunshow "GLOBALLY_UNIQUE" ([#71940](https://github.com/CleverRaven/Cataclysm-DDA/pull/71940))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-26-0341 ([dd1adff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0341))
-
 * Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))
 * Add some mutation-specific fields to enchantments ([#71926](https://github.com/CleverRaven/Cataclysm-DDA/pull/71926))
 * [wasm] fix missing lz4 compression on data bundle ([#71939](https://github.com/CleverRaven/Cataclysm-DDA/pull/71939))
