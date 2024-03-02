@@ -1,3 +1,4 @@
+* fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
 
 ---
 
@@ -222,4 +223,3 @@
 * Less Encumbering Leather Vambraces ([#71922](https://github.com/CleverRaven/Cataclysm-DDA/pull/71922))
 * [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
-* Add more samples to XEDRA Evolved and Magiclysm ([#71897](https://github.com/CleverRaven/Cataclysm-DDA/pull/71897))

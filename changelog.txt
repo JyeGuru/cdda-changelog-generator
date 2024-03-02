@@ -1,3 +1,4 @@
+* fixed mill milling recipes (#72119)
 
 Cataclysm-DDA experimental build 2024-03-02-2045 (5325a45)
 * ImGui popups with buttons not showing text (#72098)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2024-02-26-0948 (a23558e)
 * Less Encumbering Leather Vambraces (#71922)
 * [Xedra Evolved] Adjust Barkskin (#71925)
 * Update JSON_FLAGS.md (#71928)
-* Add more samples to XEDRA Evolved and Magiclysm (#71897)
