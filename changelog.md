@@ -1,3 +1,4 @@
+* Reset user customized `*` actions to default keybindings ([#72045](https://github.com/CleverRaven/Cataclysm-DDA/pull/72045))
 * Routine i18n updates on 02 March 2024 ([#72112](https://github.com/CleverRaven/Cataclysm-DDA/pull/72112))
 * Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet ([#72115](https://github.com/CleverRaven/Cataclysm-DDA/pull/72115))
 * fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
@@ -142,11 +143,6 @@
 * [Xedra Evolved] Sylph, salamander, and undine mutation consolidation ([#71996](https://github.com/CleverRaven/Cataclysm-DDA/pull/71996))
 * Allow summoned creatures to leave without creating a corpse ([#72005](https://github.com/CleverRaven/Cataclysm-DDA/pull/72005))
 * Added preprocessor directives to allow building android without imgui. ([#72013](https://github.com/CleverRaven/Cataclysm-DDA/pull/72013))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-27-1537 ([e05ec9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-1537))
-
 * [Magiclysm] Add Technomancer class to Machine Mind ([#72007](https://github.com/CleverRaven/Cataclysm-DDA/pull/72007))
 * [wasm] add --lz4 to file_packager ([#72011](https://github.com/CleverRaven/Cataclysm-DDA/pull/72011))
 
@@ -203,6 +199,11 @@
 #### Cataclysm-DDA experimental build 2024-02-26-0948 ([a23558e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0948))
 
 * Make Artisans and Gunshow "GLOBALLY_UNIQUE" ([#71940](https://github.com/CleverRaven/Cataclysm-DDA/pull/71940))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-02-26-0341 ([dd1adff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0341))
+
 * Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))
 * Add some mutation-specific fields to enchantments ([#71926](https://github.com/CleverRaven/Cataclysm-DDA/pull/71926))
 * [wasm] fix missing lz4 compression on data bundle ([#71939](https://github.com/CleverRaven/Cataclysm-DDA/pull/71939))
@@ -219,7 +220,6 @@
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
 * [Xedra Evolved] Consolidate some Arvore traits ([#71920](https://github.com/CleverRaven/Cataclysm-DDA/pull/71920))
 * Adding bronze chisel attempt 2 now with recipe ([#71904](https://github.com/CleverRaven/Cataclysm-DDA/pull/71904))
-* Make houses use walls from palette ([#71901](https://github.com/CleverRaven/Cataclysm-DDA/pull/71901))
 * Removes Incongruent Book Spawns from Child Mobs and School Libraries ([#71906](https://github.com/CleverRaven/Cataclysm-DDA/pull/71906))
 * Less Encumbering Leather Vambraces ([#71922](https://github.com/CleverRaven/Cataclysm-DDA/pull/71922))
 * [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
