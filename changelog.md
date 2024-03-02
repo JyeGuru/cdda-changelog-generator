@@ -1,3 +1,4 @@
+* Made grapeade drink mix actually make grapeade. ([#72038](https://github.com/CleverRaven/Cataclysm-DDA/pull/72038))
 
 ---
 

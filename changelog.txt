@@ -1,3 +1,4 @@
+* Made grapeade drink mix actually make grapeade. (#72038)
 
 Cataclysm-DDA experimental build 2024-03-02-0349 (3e60c82)
 * move doc to .h from .cpp (#72100)
