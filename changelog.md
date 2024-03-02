@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-02-0657 ([7ee6c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-0657))
+
 * Made grapeade drink mix actually make grapeade. ([#72038](https://github.com/CleverRaven/Cataclysm-DDA/pull/72038))
 
 ---
@@ -198,11 +203,6 @@
 * Add some mutation-specific fields to enchantments ([#71926](https://github.com/CleverRaven/Cataclysm-DDA/pull/71926))
 * [wasm] fix missing lz4 compression on data bundle ([#71939](https://github.com/CleverRaven/Cataclysm-DDA/pull/71939))
 * [wasm] exclude MA mod and Ultica_iso from bundle ([#71908](https://github.com/CleverRaven/Cataclysm-DDA/pull/71908))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-24-2205 ([e876e86](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-24-2205))
-
 * Update Bronse Fileset Recipe Reqs now that new tool added ([#71942](https://github.com/CleverRaven/Cataclysm-DDA/pull/71942))
 * Routine i18n updates on 24 February 2024 ([#71941](https://github.com/CleverRaven/Cataclysm-DDA/pull/71941))
 * [MoM] Doc updates + increase effects of Discern Weakness ([#71923](https://github.com/CleverRaven/Cataclysm-DDA/pull/71923))
