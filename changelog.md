@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-02-1755 ([669a9fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-1755))
+
+* Less repeatedly spawning item groups when checking consistency ([#72064](https://github.com/CleverRaven/Cataclysm-DDA/pull/72064))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-02-0657 ([7ee6c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-0657))
 
 * Made grapeade drink mix actually make grapeade. ([#72038](https://github.com/CleverRaven/Cataclysm-DDA/pull/72038))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-02-26-0341 ([dd1adff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0341))
 
 * Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-25-0341 ([e18b7e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-25-0341))
-
 * Add some mutation-specific fields to enchantments ([#71926](https://github.com/CleverRaven/Cataclysm-DDA/pull/71926))
 * [wasm] fix missing lz4 compression on data bundle ([#71939](https://github.com/CleverRaven/Cataclysm-DDA/pull/71939))
 * [wasm] exclude MA mod and Ultica_iso from bundle ([#71908](https://github.com/CleverRaven/Cataclysm-DDA/pull/71908))
@@ -213,7 +214,6 @@
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas ([#71936](https://github.com/CleverRaven/Cataclysm-DDA/pull/71936))
 * [Xedra Evolved] More Paraclesian powers ([#71930](https://github.com/CleverRaven/Cataclysm-DDA/pull/71930))
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
-* Blend z0 triffid grove and fix terrains "roof": ([#71894](https://github.com/CleverRaven/Cataclysm-DDA/pull/71894))
 * [Bombastic Perks] Add overwriting perkchain support ([#71898](https://github.com/CleverRaven/Cataclysm-DDA/pull/71898))
 * [Xedra Evolved] Consolidate some Arvore traits ([#71920](https://github.com/CleverRaven/Cataclysm-DDA/pull/71920))
 * Adding bronze chisel attempt 2 now with recipe ([#71904](https://github.com/CleverRaven/Cataclysm-DDA/pull/71904))
