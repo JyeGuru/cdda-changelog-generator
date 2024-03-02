@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-02-2045 ([5325a45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-2045))
+
+* ImGui popups with buttons not showing text ([#72098](https://github.com/CleverRaven/Cataclysm-DDA/pull/72098))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-02-1755 ([669a9fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-1755))
 
 * Less repeatedly spawning item groups when checking consistency ([#72064](https://github.com/CleverRaven/Cataclysm-DDA/pull/72064))
@@ -94,7 +100,6 @@
 #### Cataclysm-DDA experimental build 2024-02-28-1558 ([b97b959](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-1558))
 
 * [Xedra Evolved] Fix Avalanche Blow ([#72036](https://github.com/CleverRaven/Cataclysm-DDA/pull/72036))
-* Limb/Armor Fun Part 1: Support for similar limbs on armor ([#71896](https://github.com/CleverRaven/Cataclysm-DDA/pull/71896))
 
 ---
 
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-02-26-0948 ([a23558e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0948))
 
 * Make Artisans and Gunshow "GLOBALLY_UNIQUE" ([#71940](https://github.com/CleverRaven/Cataclysm-DDA/pull/71940))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-26-0341 ([dd1adff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0341))
-
 * Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))
 * Add some mutation-specific fields to enchantments ([#71926](https://github.com/CleverRaven/Cataclysm-DDA/pull/71926))
 * [wasm] fix missing lz4 compression on data bundle ([#71939](https://github.com/CleverRaven/Cataclysm-DDA/pull/71939))
