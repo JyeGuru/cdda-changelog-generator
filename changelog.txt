@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-03-0600 (18bed67)
 * jmath: don't allow shadowing of built-in functions (#72120)
 * Weekly Changelog 2024-02-19 to 2024-02-26 (#71979)
 * Test cases for player's morale after killing an NPC (#72018)
@@ -123,8 +125,6 @@ Cataclysm-DDA experimental build 2024-02-26-1511 (ce0fc0c)
 * Sky Island - Make secure storage boxes waterproof (#71987)
 * [Xedra Evovled] bugfixes (#71986)
 * [Magiclysm] Fix Wash the Wounds Clean (#71981)
-
-Cataclysm-DDA experimental build 2024-02-26-1213 (1c518f3)
 * Fix false eocs for running inv eocs (#71953)
 * Fix a few mistakes from #71850 (#71962)
 * Fix on wakeup eoc bug (#71973)

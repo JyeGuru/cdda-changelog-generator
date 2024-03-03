@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-03-0600 ([18bed67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-0600))
+
 * jmath: don't allow shadowing of built-in functions ([#72120](https://github.com/CleverRaven/Cataclysm-DDA/pull/72120))
 * Weekly Changelog 2024-02-19 to 2024-02-26 ([#71979](https://github.com/CleverRaven/Cataclysm-DDA/pull/71979))
 * Test cases for player's morale after killing an NPC ([#72018](https://github.com/CleverRaven/Cataclysm-DDA/pull/72018))
@@ -201,11 +206,6 @@
 * Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
 * [Xedra Evovled] bugfixes ([#71986](https://github.com/CleverRaven/Cataclysm-DDA/pull/71986))
 * [Magiclysm] Fix Wash the Wounds Clean ([#71981](https://github.com/CleverRaven/Cataclysm-DDA/pull/71981))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-26-1213 ([1c518f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-1213))
-
 * Fix false eocs for running inv eocs ([#71953](https://github.com/CleverRaven/Cataclysm-DDA/pull/71953))
 * Fix a few mistakes from #71850 ([#71962](https://github.com/CleverRaven/Cataclysm-DDA/pull/71962))
 * Fix on wakeup eoc bug ([#71973](https://github.com/CleverRaven/Cataclysm-DDA/pull/71973))
