@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-03-1636 ([8a59431](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-1636))
+
 * Limestone audit ([#72009](https://github.com/CleverRaven/Cataclysm-DDA/pull/72009))
 
 ---
@@ -201,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2024-02-27-0031 ([135db22](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-0031))
 
 * [Bombastic Perks] Fix perk-choosing crash(?) ([#71995](https://github.com/CleverRaven/Cataclysm-DDA/pull/71995))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-26-2032 ([2ce1b9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-2032))
-
 * Fix macOS curses build error ([#71993](https://github.com/CleverRaven/Cataclysm-DDA/pull/71993))
 * [Xedra Evolved] Consolidate more Arvore mutations with triggers into one mutation ([#71982](https://github.com/CleverRaven/Cataclysm-DDA/pull/71982))
 * Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
