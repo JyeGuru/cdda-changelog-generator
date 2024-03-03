@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-03-0220 ([9a2c309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-0220))
+
+* Update nutrients struct to store calories as a 64-bit integer ([#72105](https://github.com/CleverRaven/Cataclysm-DDA/pull/72105))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-02-2325 ([8fc7e97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-2325))
 
 * Reset user customized `*` actions to default keybindings ([#72045](https://github.com/CleverRaven/Cataclysm-DDA/pull/72045))
@@ -203,11 +209,6 @@
 * Fix false eocs for running inv eocs ([#71953](https://github.com/CleverRaven/Cataclysm-DDA/pull/71953))
 * Fix a few mistakes from #71850 ([#71962](https://github.com/CleverRaven/Cataclysm-DDA/pull/71962))
 * Fix on wakeup eoc bug ([#71973](https://github.com/CleverRaven/Cataclysm-DDA/pull/71973))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-26-0948 ([a23558e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-0948))
-
 * Make Artisans and Gunshow "GLOBALLY_UNIQUE" ([#71940](https://github.com/CleverRaven/Cataclysm-DDA/pull/71940))
 * Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))
 * Add some mutation-specific fields to enchantments ([#71926](https://github.com/CleverRaven/Cataclysm-DDA/pull/71926))

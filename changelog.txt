@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-03-03-0220 (9a2c309)
+* Update nutrients struct to store calories as a 64-bit integer (#72105)
+
 Cataclysm-DDA experimental build 2024-03-02-2325 (8fc7e97)
 * Reset user customized `*` actions to default keybindings (#72045)
 * Routine i18n updates on 02 March 2024 (#72112)
@@ -122,8 +125,6 @@ Cataclysm-DDA experimental build 2024-02-26-1213 (1c518f3)
 * Fix false eocs for running inv eocs (#71953)
 * Fix a few mistakes from #71850 (#71962)
 * Fix on wakeup eoc bug (#71973)
-
-Cataclysm-DDA experimental build 2024-02-26-0948 (a23558e)
 * Make Artisans and Gunshow "GLOBALLY_UNIQUE" (#71940)
 * Sky island fixes - quest completability (#71959)
 * Add some mutation-specific fields to enchantments (#71926)
