@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-03-1344 ([069c4d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-1344))
+
+* [Xedra Evolved] Add GLARE quality to Salamander eyes ([#72133](https://github.com/CleverRaven/Cataclysm-DDA/pull/72133))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-03-0914 ([4f3b1cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-0914))
 
 * Preparation for using typed tripoints consistently ([#71970](https://github.com/CleverRaven/Cataclysm-DDA/pull/71970))
@@ -200,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2024-02-26-2032 ([2ce1b9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-2032))
 
 * Fix macOS curses build error ([#71993](https://github.com/CleverRaven/Cataclysm-DDA/pull/71993))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-26-1755 ([3d11392](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-26-1755))
-
 * [Xedra Evolved] Consolidate more Arvore mutations with triggers into one mutation ([#71982](https://github.com/CleverRaven/Cataclysm-DDA/pull/71982))
 * Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
 * [Xedra Evovled] bugfixes ([#71986](https://github.com/CleverRaven/Cataclysm-DDA/pull/71986))
@@ -224,5 +225,4 @@
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas ([#71936](https://github.com/CleverRaven/Cataclysm-DDA/pull/71936))
 * [Xedra Evolved] More Paraclesian powers ([#71930](https://github.com/CleverRaven/Cataclysm-DDA/pull/71930))
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
-* [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))

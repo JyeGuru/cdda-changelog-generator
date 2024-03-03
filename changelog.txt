@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-03-03-1344 (069c4d3)
+* [Xedra Evolved] Add GLARE quality to Salamander eyes (#72133)
+
 Cataclysm-DDA experimental build 2024-03-03-0914 (4f3b1cc)
 * Preparation for using typed tripoints consistently (#71970)
 * Ritual Circles Work (#72128)
@@ -122,8 +125,6 @@ Cataclysm-DDA experimental build 2024-02-27-0031 (135db22)
 
 Cataclysm-DDA experimental build 2024-02-26-2032 (2ce1b9b)
 * Fix macOS curses build error (#71993)
-
-Cataclysm-DDA experimental build 2024-02-26-1755 (3d11392)
 * [Xedra Evolved] Consolidate more Arvore mutations with triggers into one mutation (#71982)
 * Sky Island - Make secure storage boxes waterproof (#71987)
 * [Xedra Evovled] bugfixes (#71986)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2024-02-26-1755 (3d11392)
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas (#71936)
 * [Xedra Evolved] More Paraclesian powers (#71930)
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion (#71932)
-* [Xedra Evolved] Adjust Barkskin (#71925)
 * Update JSON_FLAGS.md (#71928)
