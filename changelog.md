@@ -1,3 +1,4 @@
+* Preparation for using typed tripoints consistently ([#71970](https://github.com/CleverRaven/Cataclysm-DDA/pull/71970))
 * Ritual Circles Work ([#72128](https://github.com/CleverRaven/Cataclysm-DDA/pull/72128))
 * Split vehicle part wheel_caster into small and large variants ([#72089](https://github.com/CleverRaven/Cataclysm-DDA/pull/72089))
 
@@ -217,7 +218,6 @@
 * [wasm] fix missing lz4 compression on data bundle ([#71939](https://github.com/CleverRaven/Cataclysm-DDA/pull/71939))
 * Update Bronse Fileset Recipe Reqs now that new tool added ([#71942](https://github.com/CleverRaven/Cataclysm-DDA/pull/71942))
 * Routine i18n updates on 24 February 2024 ([#71941](https://github.com/CleverRaven/Cataclysm-DDA/pull/71941))
-* [MoM] Doc updates + increase effects of Discern Weakness ([#71923](https://github.com/CleverRaven/Cataclysm-DDA/pull/71923))
 * Minor seed count fixes ([#71929](https://github.com/CleverRaven/Cataclysm-DDA/pull/71929))
 * Make the ``monsters`` GitHub label actually get applied ([#71933](https://github.com/CleverRaven/Cataclysm-DDA/pull/71933))
 * Fancy pool house ([#71927](https://github.com/CleverRaven/Cataclysm-DDA/pull/71927))

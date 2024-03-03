@@ -1,3 +1,4 @@
+* Preparation for using typed tripoints consistently (#71970)
 * Ritual Circles Work (#72128)
 * Split vehicle part wheel_caster into small and large variants (#72089)
 
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2024-02-26-1511 (ce0fc0c)
 * [wasm] fix missing lz4 compression on data bundle (#71939)
 * Update Bronse Fileset Recipe Reqs now that new tool added (#71942)
 * Routine i18n updates on 24 February 2024 (#71941)
-* [MoM] Doc updates + increase effects of Discern Weakness (#71923)
 * Minor seed count fixes (#71929)
 * Make the ``monsters`` GitHub label actually get applied (#71933)
 * Fancy pool house (#71927)
