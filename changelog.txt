@@ -1,3 +1,5 @@
+* Ritual Circles Work (#72128)
+* Split vehicle part wheel_caster into small and large variants (#72089)
 
 Cataclysm-DDA experimental build 2024-03-03-0600 (18bed67)
 * jmath: don't allow shadowing of built-in functions (#72120)
@@ -141,7 +143,5 @@ Cataclysm-DDA experimental build 2024-02-26-1511 (ce0fc0c)
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas (#71936)
 * [Xedra Evolved] More Paraclesian powers (#71930)
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion (#71932)
-* [Xedra Evolved] Consolidate some Arvore traits (#71920)
-* Less Encumbering Leather Vambraces (#71922)
 * [Xedra Evolved] Adjust Barkskin (#71925)
 * Update JSON_FLAGS.md (#71928)

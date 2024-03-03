@@ -1,3 +1,5 @@
+* Ritual Circles Work ([#72128](https://github.com/CleverRaven/Cataclysm-DDA/pull/72128))
+* Split vehicle part wheel_caster into small and large variants ([#72089](https://github.com/CleverRaven/Cataclysm-DDA/pull/72089))
 
 ---
 
@@ -222,7 +224,5 @@
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas ([#71936](https://github.com/CleverRaven/Cataclysm-DDA/pull/71936))
 * [Xedra Evolved] More Paraclesian powers ([#71930](https://github.com/CleverRaven/Cataclysm-DDA/pull/71930))
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
-* [Xedra Evolved] Consolidate some Arvore traits ([#71920](https://github.com/CleverRaven/Cataclysm-DDA/pull/71920))
-* Less Encumbering Leather Vambraces ([#71922](https://github.com/CleverRaven/Cataclysm-DDA/pull/71922))
 * [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
