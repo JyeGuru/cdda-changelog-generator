@@ -1,3 +1,4 @@
+* jmath: don't allow shadowing of built-in functions ([#72120](https://github.com/CleverRaven/Cataclysm-DDA/pull/72120))
 * Weekly Changelog 2024-02-19 to 2024-02-26 ([#71979](https://github.com/CleverRaven/Cataclysm-DDA/pull/71979))
 * Test cases for player's morale after killing an NPC ([#72018](https://github.com/CleverRaven/Cataclysm-DDA/pull/72018))
 * [Magiclysm] Update goblin teeth and lizardfolk muzzle to techniques ([#72083](https://github.com/CleverRaven/Cataclysm-DDA/pull/72083))
@@ -62,7 +63,6 @@
 
 * [MoM] Update learning EoCs to reuse condition list ([#72080](https://github.com/CleverRaven/Cataclysm-DDA/pull/72080))
 * Routine tileset updates on 01 March 2024 ([#72084](https://github.com/CleverRaven/Cataclysm-DDA/pull/72084))
-* Camps are faction-agnostic (not just linked to player faction) ([#71917](https://github.com/CleverRaven/Cataclysm-DDA/pull/71917))
 * Remove odd .30-06 ammo spawn from radio_tower_2x2_map variant ([#71951](https://github.com/CleverRaven/Cataclysm-DDA/pull/71951))
 * Create splash attacks and give them to Boomers ([#71964](https://github.com/CleverRaven/Cataclysm-DDA/pull/71964))
 * Flooded Basements Part:1 ([#71992](https://github.com/CleverRaven/Cataclysm-DDA/pull/71992))
