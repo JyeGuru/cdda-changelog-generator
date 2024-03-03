@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-03-2216 ([fec5d5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-2216))
+
 * [MoM] Fix Far Hand's range ([#72144](https://github.com/CleverRaven/Cataclysm-DDA/pull/72144))
 
 ---
@@ -200,11 +205,6 @@
 
 * [Xedra Evolved] Paraclesian altar wall rework ([#72008](https://github.com/CleverRaven/Cataclysm-DDA/pull/72008))
 * [MoM] Update Metabolic Hyperefficiency ([#72006](https://github.com/CleverRaven/Cataclysm-DDA/pull/72006))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-27-0320 ([2f576bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-0320))
-
 * [MoM] Chameleoflage update ([#71999](https://github.com/CleverRaven/Cataclysm-DDA/pull/71999))
 * Cleanup Zed Bits ([#71931](https://github.com/CleverRaven/Cataclysm-DDA/pull/71931))
 * [Bombastic Perks] Fix perk-choosing crash(?) ([#71995](https://github.com/CleverRaven/Cataclysm-DDA/pull/71995))
