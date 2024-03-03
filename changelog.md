@@ -1,3 +1,9 @@
+* Weekly Changelog 2024-02-19 to 2024-02-26 ([#71979](https://github.com/CleverRaven/Cataclysm-DDA/pull/71979))
+* Test cases for player's morale after killing an NPC ([#72018](https://github.com/CleverRaven/Cataclysm-DDA/pull/72018))
+* [Magiclysm] Update goblin teeth and lizardfolk muzzle to techniques ([#72083](https://github.com/CleverRaven/Cataclysm-DDA/pull/72083))
+* Collapsed telescoping umbrella doesn't feel uncomfortable when worn ([#72113](https://github.com/CleverRaven/Cataclysm-DDA/pull/72113))
+* [Xedra Evolved] More Salamander and Ierde powers ([#72104](https://github.com/CleverRaven/Cataclysm-DDA/pull/72104))
+* pch: remove pragma once ([#72121](https://github.com/CleverRaven/Cataclysm-DDA/pull/72121))
 
 ---
 
@@ -115,12 +121,6 @@
 #### Cataclysm-DDA experimental build 2024-02-28-1558 ([b97b959](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-1558))
 
 * [Xedra Evolved] Fix Avalanche Blow ([#72036](https://github.com/CleverRaven/Cataclysm-DDA/pull/72036))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-28-0442 ([5643586](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-0442))
-
-* Update PowerDescriptionSpoilers.md ([#71914](https://github.com/CleverRaven/Cataclysm-DDA/pull/71914))
 * keybindings: "Unbound locally!  Underlying global." ([#71968](https://github.com/CleverRaven/Cataclysm-DDA/pull/71968))
 
 ---
@@ -213,11 +213,9 @@
 * Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))
 * Add some mutation-specific fields to enchantments ([#71926](https://github.com/CleverRaven/Cataclysm-DDA/pull/71926))
 * [wasm] fix missing lz4 compression on data bundle ([#71939](https://github.com/CleverRaven/Cataclysm-DDA/pull/71939))
-* [wasm] exclude MA mod and Ultica_iso from bundle ([#71908](https://github.com/CleverRaven/Cataclysm-DDA/pull/71908))
 * Update Bronse Fileset Recipe Reqs now that new tool added ([#71942](https://github.com/CleverRaven/Cataclysm-DDA/pull/71942))
 * Routine i18n updates on 24 February 2024 ([#71941](https://github.com/CleverRaven/Cataclysm-DDA/pull/71941))
 * [MoM] Doc updates + increase effects of Discern Weakness ([#71923](https://github.com/CleverRaven/Cataclysm-DDA/pull/71923))
-* Add striped pants to prisons ([#71915](https://github.com/CleverRaven/Cataclysm-DDA/pull/71915))
 * Minor seed count fixes ([#71929](https://github.com/CleverRaven/Cataclysm-DDA/pull/71929))
 * Make the ``monsters`` GitHub label actually get applied ([#71933](https://github.com/CleverRaven/Cataclysm-DDA/pull/71933))
 * Fancy pool house ([#71927](https://github.com/CleverRaven/Cataclysm-DDA/pull/71927))
@@ -225,8 +223,6 @@
 * [Xedra Evolved] More Paraclesian powers ([#71930](https://github.com/CleverRaven/Cataclysm-DDA/pull/71930))
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
 * [Xedra Evolved] Consolidate some Arvore traits ([#71920](https://github.com/CleverRaven/Cataclysm-DDA/pull/71920))
-* Adding bronze chisel attempt 2 now with recipe ([#71904](https://github.com/CleverRaven/Cataclysm-DDA/pull/71904))
-* Removes Incongruent Book Spawns from Child Mobs and School Libraries ([#71906](https://github.com/CleverRaven/Cataclysm-DDA/pull/71906))
 * Less Encumbering Leather Vambraces ([#71922](https://github.com/CleverRaven/Cataclysm-DDA/pull/71922))
 * [Xedra Evolved] Adjust Barkskin ([#71925](https://github.com/CleverRaven/Cataclysm-DDA/pull/71925))
 * Update JSON_FLAGS.md ([#71928](https://github.com/CleverRaven/Cataclysm-DDA/pull/71928))
