@@ -1,3 +1,4 @@
+* Reorder some clang-tidy checks in .clang-tidy (#72139)
 
 Cataclysm-DDA experimental build 2024-03-03-2216 (fec5d5c)
 * [MoM] Fix Far Hand's range (#72144)
@@ -142,5 +143,4 @@ Cataclysm-DDA experimental build 2024-02-27-0553 (1b34405)
 * Routine i18n updates on 24 February 2024 (#71941)
 * Make the ``monsters`` GitHub label actually get applied (#71933)
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas (#71936)
-* [Xedra Evolved] More Paraclesian powers (#71930)
 * [Xedra Evolved] Paraclesians start with a single dose of their ascension potion (#71932)
