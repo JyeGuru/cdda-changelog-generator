@@ -1,3 +1,7 @@
+* [Magiclysm] Update Cloak of Elvenkind to use new enchantments (#72081)
+
+Cataclysm-DDA experimental build 2024-03-04-1803 (0fa4b09)
+* Zoo revamp (#71975)
 
 Cataclysm-DDA experimental build 2024-03-04-0412 (2ba772a)
 * Permanent marker weight reduction (#72117)
@@ -111,8 +115,6 @@ Cataclysm-DDA experimental build 2024-02-28-0157 (a74bf25)
 
 Cataclysm-DDA experimental build 2024-02-27-2243 (2915fb1)
 * More enchantments (#71976)
-
-Cataclysm-DDA experimental build 2024-02-27-1906 (a1a610b)
 * fix some bugs for `run_eoc_until` (#72020)
 * keybindings buttons: one per line & fixes (#71954)
 * Allow reusing conditions in EOCs (#71956)
@@ -138,7 +140,5 @@ Cataclysm-DDA experimental build 2024-02-27-1906 (a1a610b)
 * Fix false eocs for running inv eocs (#71953)
 * Fix a few mistakes from #71850 (#71962)
 * Fix on wakeup eoc bug (#71973)
-* Make Artisans and Gunshow "GLOBALLY_UNIQUE" (#71940)
 * Sky island fixes - quest completability (#71959)
 * Update Bronse Fileset Recipe Reqs now that new tool added (#71942)
-* Routine i18n updates on 24 February 2024 (#71941)

@@ -1,3 +1,10 @@
+* [Magiclysm] Update Cloak of Elvenkind to use new enchantments ([#72081](https://github.com/CleverRaven/Cataclysm-DDA/pull/72081))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-04-1803 ([0fa4b09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-04-1803))
+
+* Zoo revamp ([#71975](https://github.com/CleverRaven/Cataclysm-DDA/pull/71975))
 
 ---
 
@@ -189,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-02-27-2243 ([2915fb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-2243))
 
 * More enchantments ([#71976](https://github.com/CleverRaven/Cataclysm-DDA/pull/71976))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-27-1906 ([a1a610b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-1906))
-
 * fix some bugs for `run_eoc_until` ([#72020](https://github.com/CleverRaven/Cataclysm-DDA/pull/72020))
 * keybindings buttons: one per line & fixes ([#71954](https://github.com/CleverRaven/Cataclysm-DDA/pull/71954))
 * Allow reusing conditions in EOCs ([#71956](https://github.com/CleverRaven/Cataclysm-DDA/pull/71956))
@@ -219,7 +221,5 @@
 * Fix false eocs for running inv eocs ([#71953](https://github.com/CleverRaven/Cataclysm-DDA/pull/71953))
 * Fix a few mistakes from #71850 ([#71962](https://github.com/CleverRaven/Cataclysm-DDA/pull/71962))
 * Fix on wakeup eoc bug ([#71973](https://github.com/CleverRaven/Cataclysm-DDA/pull/71973))
-* Make Artisans and Gunshow "GLOBALLY_UNIQUE" ([#71940](https://github.com/CleverRaven/Cataclysm-DDA/pull/71940))
 * Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))
 * Update Bronse Fileset Recipe Reqs now that new tool added ([#71942](https://github.com/CleverRaven/Cataclysm-DDA/pull/71942))
-* Routine i18n updates on 24 February 2024 ([#71941](https://github.com/CleverRaven/Cataclysm-DDA/pull/71941))
