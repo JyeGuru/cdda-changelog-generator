@@ -1,3 +1,4 @@
+* Remove mention of Lemmy from CDDA website (#72097)
 * Update the standard building palette (#72164)
 * [Magiclysm] Update Cloak of Elvenkind to use new enchantments (#72081)
 
@@ -79,7 +80,6 @@ Cataclysm-DDA experimental build 2024-03-01-0629 (8a1fa0e)
 * fix keybinding name when unbound globaly (#71949)
 * Add Hair Dye (#72025)
 * Fixing an imgui-related crash related to debug errors (#72074)
-* [Magiclysm] Boosts spell leveling by cast (#71948)
 * [Magiclysm] Parabolan wool gambesons (#72054)
 
 Cataclysm-DDA experimental build 2024-03-01-0035 (4be53f0)

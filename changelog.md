@@ -1,3 +1,4 @@
+* Remove mention of Lemmy from CDDA website ([#72097](https://github.com/CleverRaven/Cataclysm-DDA/pull/72097))
 * Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
 * [Magiclysm] Update Cloak of Elvenkind to use new enchantments ([#72081](https://github.com/CleverRaven/Cataclysm-DDA/pull/72081))
 
@@ -133,7 +134,6 @@
 * fix keybinding name when unbound globaly ([#71949](https://github.com/CleverRaven/Cataclysm-DDA/pull/71949))
 * Add Hair Dye ([#72025](https://github.com/CleverRaven/Cataclysm-DDA/pull/72025))
 * Fixing an imgui-related crash related to debug errors ([#72074](https://github.com/CleverRaven/Cataclysm-DDA/pull/72074))
-* [Magiclysm] Boosts spell leveling by cast ([#71948](https://github.com/CleverRaven/Cataclysm-DDA/pull/71948))
 * [Magiclysm] Parabolan wool gambesons ([#72054](https://github.com/CleverRaven/Cataclysm-DDA/pull/72054))
 
 ---
