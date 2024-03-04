@@ -1,4 +1,6 @@
 * Remove mention of Lemmy from CDDA website (#72097)
+
+Cataclysm-DDA experimental build 2024-03-04-2037 (03d25c2)
 * Update the standard building palette (#72164)
 * [Magiclysm] Update Cloak of Elvenkind to use new enchantments (#72081)
 
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2024-02-28-0157 (a74bf25)
 * Disabling imgui.ini writing globally (#72030)
 * Fixing mouse cursor unable to be hidden with ImGui (#72029)
 * Fix lang file compilation in Windows build with explicit msys2 setup. (#72031)
-
-Cataclysm-DDA experimental build 2024-02-27-2243 (2915fb1)
 * More enchantments (#71976)
 * fix some bugs for `run_eoc_until` (#72020)
 * keybindings buttons: one per line & fixes (#71954)

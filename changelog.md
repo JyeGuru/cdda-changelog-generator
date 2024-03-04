@@ -1,4 +1,9 @@
 * Remove mention of Lemmy from CDDA website ([#72097](https://github.com/CleverRaven/Cataclysm-DDA/pull/72097))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-04-2037 ([03d25c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-04-2037))
+
 * Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
 * [Magiclysm] Update Cloak of Elvenkind to use new enchantments ([#72081](https://github.com/CleverRaven/Cataclysm-DDA/pull/72081))
 
@@ -191,11 +196,6 @@
 * Disabling imgui.ini writing globally ([#72030](https://github.com/CleverRaven/Cataclysm-DDA/pull/72030))
 * Fixing mouse cursor unable to be hidden with ImGui ([#72029](https://github.com/CleverRaven/Cataclysm-DDA/pull/72029))
 * Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-27-2243 ([2915fb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-2243))
-
 * More enchantments ([#71976](https://github.com/CleverRaven/Cataclysm-DDA/pull/71976))
 * fix some bugs for `run_eoc_until` ([#72020](https://github.com/CleverRaven/Cataclysm-DDA/pull/72020))
 * keybindings buttons: one per line & fixes ([#71954](https://github.com/CleverRaven/Cataclysm-DDA/pull/71954))
