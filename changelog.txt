@@ -1,3 +1,4 @@
+* Update the standard building palette (#72164)
 * [Magiclysm] Update Cloak of Elvenkind to use new enchantments (#72081)
 
 Cataclysm-DDA experimental build 2024-03-04-1803 (0fa4b09)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2024-02-27-2243 (2915fb1)
 * Fix a few mistakes from #71850 (#71962)
 * Fix on wakeup eoc bug (#71973)
 * Sky island fixes - quest completability (#71959)
-* Update Bronse Fileset Recipe Reqs now that new tool added (#71942)

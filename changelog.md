@@ -1,3 +1,4 @@
+* Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
 * [Magiclysm] Update Cloak of Elvenkind to use new enchantments ([#72081](https://github.com/CleverRaven/Cataclysm-DDA/pull/72081))
 
 ---
@@ -222,4 +223,3 @@
 * Fix a few mistakes from #71850 ([#71962](https://github.com/CleverRaven/Cataclysm-DDA/pull/71962))
 * Fix on wakeup eoc bug ([#71973](https://github.com/CleverRaven/Cataclysm-DDA/pull/71973))
 * Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))
-* Update Bronse Fileset Recipe Reqs now that new tool added ([#71942](https://github.com/CleverRaven/Cataclysm-DDA/pull/71942))
