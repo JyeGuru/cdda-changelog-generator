@@ -1,3 +1,10 @@
+* Update ZenFS' sidebars to v2.1.1 ([#72130](https://github.com/CleverRaven/Cataclysm-DDA/pull/72130))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-04-0136 ([dfab48d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-04-0136))
+
+* [XEDRA] Add Homullus mutations ([#72135](https://github.com/CleverRaven/Cataclysm-DDA/pull/72135))
 * Reorder some clang-tidy checks in .clang-tidy ([#72139](https://github.com/CleverRaven/Cataclysm-DDA/pull/72139))
 
 ---
@@ -199,15 +206,9 @@
 
 * [Magiclysm] Add Technomancer class to Machine Mind ([#72007](https://github.com/CleverRaven/Cataclysm-DDA/pull/72007))
 * [wasm] add --lz4 to file_packager ([#72011](https://github.com/CleverRaven/Cataclysm-DDA/pull/72011))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-27-0553 ([1b34405](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-27-0553))
-
 * [Xedra Evolved] Paraclesian altar wall rework ([#72008](https://github.com/CleverRaven/Cataclysm-DDA/pull/72008))
 * [MoM] Update Metabolic Hyperefficiency ([#72006](https://github.com/CleverRaven/Cataclysm-DDA/pull/72006))
 * [MoM] Chameleoflage update ([#71999](https://github.com/CleverRaven/Cataclysm-DDA/pull/71999))
-* Cleanup Zed Bits ([#71931](https://github.com/CleverRaven/Cataclysm-DDA/pull/71931))
 * [Bombastic Perks] Fix perk-choosing crash(?) ([#71995](https://github.com/CleverRaven/Cataclysm-DDA/pull/71995))
 * Fix macOS curses build error ([#71993](https://github.com/CleverRaven/Cataclysm-DDA/pull/71993))
 * [Xedra Evolved] Consolidate more Arvore mutations with triggers into one mutation ([#71982](https://github.com/CleverRaven/Cataclysm-DDA/pull/71982))
@@ -224,4 +225,3 @@
 * Routine i18n updates on 24 February 2024 ([#71941](https://github.com/CleverRaven/Cataclysm-DDA/pull/71941))
 * Make the ``monsters`` GitHub label actually get applied ([#71933](https://github.com/CleverRaven/Cataclysm-DDA/pull/71933))
 * Removes Questionable Trash Spawns, and Axes Elf Mutagen Books from all but Lab Areas ([#71936](https://github.com/CleverRaven/Cataclysm-DDA/pull/71936))
-* [Xedra Evolved] Paraclesians start with a single dose of their ascension potion ([#71932](https://github.com/CleverRaven/Cataclysm-DDA/pull/71932))
