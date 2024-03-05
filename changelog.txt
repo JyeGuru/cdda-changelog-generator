@@ -1,3 +1,4 @@
+* docs on compiling: friendlier to first-time contributors (#72166)
 
 Cataclysm-DDA experimental build 2024-03-05-0210 (0673c53)
 * Add the option to open the ImGui demo from the main menu for debugging (#72171)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2024-02-28-1558 (b97b959)
 * Sky Island - Make secure storage boxes waterproof (#71987)
 * [Xedra Evovled] bugfixes (#71986)
 * [Magiclysm] Fix Wash the Wounds Clean (#71981)
-* Fix false eocs for running inv eocs (#71953)
 * Fix a few mistakes from #71850 (#71962)
 * Fix on wakeup eoc bug (#71973)
 * Sky island fixes - quest completability (#71959)
