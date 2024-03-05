@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-05-2010 ([7d3234e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-2010))
+
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes ([#72186](https://github.com/CleverRaven/Cataclysm-DDA/pull/72186))
 
 ---
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2024-02-28-2347 ([0f6f3d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-2347))
 
 * fix broken tests ([#72055](https://github.com/CleverRaven/Cataclysm-DDA/pull/72055))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-28-2115 ([60757df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-2115))
-
 * clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment ([#72033](https://github.com/CleverRaven/Cataclysm-DDA/pull/72033))
 * github: build sdl2 locally for linux releases ([#72026](https://github.com/CleverRaven/Cataclysm-DDA/pull/72026))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-05-2010 (7d3234e)
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes (#72186)
 
 Cataclysm-DDA experimental build 2024-03-05-1742 (ccc0118)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2024-02-29-0455 (5e25bb3)
 
 Cataclysm-DDA experimental build 2024-02-28-2347 (0f6f3d5)
 * fix broken tests (#72055)
-
-Cataclysm-DDA experimental build 2024-02-28-2115 (60757df)
 * clear window line by line, skipping untouched lines (#72035)
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment (#72033)
 * github: build sdl2 locally for linux releases (#72026)
