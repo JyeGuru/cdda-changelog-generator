@@ -1,3 +1,5 @@
+* Limb Armor Fun Part 2: Sublimb substitution ([#72092](https://github.com/CleverRaven/Cataclysm-DDA/pull/72092))
+* Small mapgen fix ([#72151](https://github.com/CleverRaven/Cataclysm-DDA/pull/72151))
 
 ---
 
@@ -224,6 +226,4 @@
 * Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
 * [Xedra Evovled] bugfixes ([#71986](https://github.com/CleverRaven/Cataclysm-DDA/pull/71986))
 * [Magiclysm] Fix Wash the Wounds Clean ([#71981](https://github.com/CleverRaven/Cataclysm-DDA/pull/71981))
-* Fix a few mistakes from #71850 ([#71962](https://github.com/CleverRaven/Cataclysm-DDA/pull/71962))
 * Fix on wakeup eoc bug ([#71973](https://github.com/CleverRaven/Cataclysm-DDA/pull/71973))
-* Sky island fixes - quest completability ([#71959](https://github.com/CleverRaven/Cataclysm-DDA/pull/71959))

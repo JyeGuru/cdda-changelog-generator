@@ -1,3 +1,5 @@
+* Limb Armor Fun Part 2: Sublimb substitution (#72092)
+* Small mapgen fix (#72151)
 
 Cataclysm-DDA experimental build 2024-03-05-2010 (7d3234e)
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes (#72186)
@@ -140,6 +142,4 @@ Cataclysm-DDA experimental build 2024-02-28-2347 (0f6f3d5)
 * Sky Island - Make secure storage boxes waterproof (#71987)
 * [Xedra Evovled] bugfixes (#71986)
 * [Magiclysm] Fix Wash the Wounds Clean (#71981)
-* Fix a few mistakes from #71850 (#71962)
 * Fix on wakeup eoc bug (#71973)
-* Sky island fixes - quest completability (#71959)
