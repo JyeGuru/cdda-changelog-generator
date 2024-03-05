@@ -1,3 +1,4 @@
+* Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
 
 ---
 
@@ -203,7 +204,6 @@
 * Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
 * More enchantments ([#71976](https://github.com/CleverRaven/Cataclysm-DDA/pull/71976))
 * fix some bugs for `run_eoc_until` ([#72020](https://github.com/CleverRaven/Cataclysm-DDA/pull/72020))
-* keybindings buttons: one per line & fixes ([#71954](https://github.com/CleverRaven/Cataclysm-DDA/pull/71954))
 * Allow reusing conditions in EOCs ([#71956](https://github.com/CleverRaven/Cataclysm-DDA/pull/71956))
 * Fix immune flag ondamage eoc behavior ([#71974](https://github.com/CleverRaven/Cataclysm-DDA/pull/71974))
 * Update u_val('sold') to n_val('sold') ([#71998](https://github.com/CleverRaven/Cataclysm-DDA/pull/71998))
