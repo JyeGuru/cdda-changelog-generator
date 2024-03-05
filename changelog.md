@@ -1,4 +1,9 @@
 * do not scope creep! ([#72161](https://github.com/CleverRaven/Cataclysm-DDA/pull/72161))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-05-2315 ([ec015e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-2315))
+
 * Limb Armor Fun Part 2: Sublimb substitution ([#72092](https://github.com/CleverRaven/Cataclysm-DDA/pull/72092))
 * Small mapgen fix ([#72151](https://github.com/CleverRaven/Cataclysm-DDA/pull/72151))
 
@@ -190,11 +195,6 @@
 
 * github/linux: build a more featureful SDL2 library ([#72056](https://github.com/CleverRaven/Cataclysm-DDA/pull/72056))
 * [Docs] Alphabetize enchantments in Magic.md ([#71997](https://github.com/CleverRaven/Cataclysm-DDA/pull/71997))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-28-2347 ([0f6f3d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-2347))
-
 * fix broken tests ([#72055](https://github.com/CleverRaven/Cataclysm-DDA/pull/72055))
 * clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment ([#72033](https://github.com/CleverRaven/Cataclysm-DDA/pull/72033))
