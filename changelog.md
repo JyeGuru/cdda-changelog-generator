@@ -1,3 +1,4 @@
+* do not scope creep! ([#72161](https://github.com/CleverRaven/Cataclysm-DDA/pull/72161))
 * Limb Armor Fun Part 2: Sublimb substitution ([#72092](https://github.com/CleverRaven/Cataclysm-DDA/pull/72092))
 * Small mapgen fix ([#72151](https://github.com/CleverRaven/Cataclysm-DDA/pull/72151))
 
@@ -160,7 +161,6 @@
 
 * [MoM] Update learning EoCs to reuse condition list ([#72080](https://github.com/CleverRaven/Cataclysm-DDA/pull/72080))
 * Routine tileset updates on 01 March 2024 ([#72084](https://github.com/CleverRaven/Cataclysm-DDA/pull/72084))
-* Create splash attacks and give them to Boomers ([#71964](https://github.com/CleverRaven/Cataclysm-DDA/pull/71964))
 * Flooded Basements Part:1 ([#71992](https://github.com/CleverRaven/Cataclysm-DDA/pull/71992))
 * [Xedra Evolved] Update Verdant Armor with new enchantments ([#72078](https://github.com/CleverRaven/Cataclysm-DDA/pull/72078))
 * New mutation field "override_look" that allows the character to have the appearance of a monster. ([#72039](https://github.com/CleverRaven/Cataclysm-DDA/pull/72039))
