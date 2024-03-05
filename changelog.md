@@ -128,7 +128,6 @@
 
 * [MoM] Update learning EoCs to reuse condition list ([#72080](https://github.com/CleverRaven/Cataclysm-DDA/pull/72080))
 * Routine tileset updates on 01 March 2024 ([#72084](https://github.com/CleverRaven/Cataclysm-DDA/pull/72084))
-* Remove odd .30-06 ammo spawn from radio_tower_2x2_map variant ([#71951](https://github.com/CleverRaven/Cataclysm-DDA/pull/71951))
 * Create splash attacks and give them to Boomers ([#71964](https://github.com/CleverRaven/Cataclysm-DDA/pull/71964))
 * Flooded Basements Part:1 ([#71992](https://github.com/CleverRaven/Cataclysm-DDA/pull/71992))
 * [Xedra Evolved] Update Verdant Armor with new enchantments ([#72078](https://github.com/CleverRaven/Cataclysm-DDA/pull/72078))
