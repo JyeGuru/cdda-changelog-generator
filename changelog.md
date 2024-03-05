@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-05-1742 ([ccc0118](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-1742))
+
+* Update SDL version used by Android to v2.30.0 ([#72154](https://github.com/CleverRaven/Cataclysm-DDA/pull/72154))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-05-0934 ([d05fefb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-0934))
 
 * Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
@@ -188,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2024-02-28-2115 ([60757df](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-2115))
 
 * clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-28-1831 ([25af268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-28-1831))
-
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment ([#72033](https://github.com/CleverRaven/Cataclysm-DDA/pull/72033))
 * github: build sdl2 locally for linux releases ([#72026](https://github.com/CleverRaven/Cataclysm-DDA/pull/72026))
 * [Xedra Evolved] Fix Avalanche Blow ([#72036](https://github.com/CleverRaven/Cataclysm-DDA/pull/72036))
@@ -204,7 +205,6 @@
 * Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
 * More enchantments ([#71976](https://github.com/CleverRaven/Cataclysm-DDA/pull/71976))
 * fix some bugs for `run_eoc_until` ([#72020](https://github.com/CleverRaven/Cataclysm-DDA/pull/72020))
-* Allow reusing conditions in EOCs ([#71956](https://github.com/CleverRaven/Cataclysm-DDA/pull/71956))
 * Fix immune flag ondamage eoc behavior ([#71974](https://github.com/CleverRaven/Cataclysm-DDA/pull/71974))
 * Update u_val('sold') to n_val('sold') ([#71998](https://github.com/CleverRaven/Cataclysm-DDA/pull/71998))
 * No more infinite farthings from Rubik ([#72003](https://github.com/CleverRaven/Cataclysm-DDA/pull/72003))
