@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-05-0934 (d05fefb)
 * Fix robot lor reference (#72176)
 
 Cataclysm-DDA experimental build 2024-03-05-0703 (23efc74)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2024-02-28-2115 (60757df)
 Cataclysm-DDA experimental build 2024-02-28-1831 (25af268)
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment (#72033)
 * github: build sdl2 locally for linux releases (#72026)
-
-Cataclysm-DDA experimental build 2024-02-28-1558 (b97b959)
 * [Xedra Evolved] Fix Avalanche Blow (#72036)
 * keybindings: "Unbound locally!  Underlying global." (#71968)
 * Disallow mixed smokeless in handloading (#72023)
