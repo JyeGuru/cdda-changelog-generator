@@ -1,3 +1,4 @@
+* Revert #71460 Altered Mindstates partially resist Flaming Eyes (#72186)
 
 Cataclysm-DDA experimental build 2024-03-05-1742 (ccc0118)
 * Update SDL version used by Android to v2.30.0 (#72154)

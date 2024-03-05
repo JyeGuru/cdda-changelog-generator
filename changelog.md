@@ -1,3 +1,4 @@
+* Revert #71460 Altered Mindstates partially resist Flaming Eyes ([#72186](https://github.com/CleverRaven/Cataclysm-DDA/pull/72186))
 
 ---
 
