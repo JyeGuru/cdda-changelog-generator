@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-03-05-0210 (0673c53)
+* Add the option to open the ImGui demo from the main menu for debugging (#72171)
 * Remove mention of Lemmy from CDDA website (#72097)
 
 Cataclysm-DDA experimental build 2024-03-04-2037 (03d25c2)
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2024-02-28-1831 (25af268)
 Cataclysm-DDA experimental build 2024-02-28-1558 (b97b959)
 * [Xedra Evolved] Fix Avalanche Blow (#72036)
 * keybindings: "Unbound locally!  Underlying global." (#71968)
-
-Cataclysm-DDA experimental build 2024-02-28-0157 (a74bf25)
 * Disallow mixed smokeless in handloading (#72023)
 * Some mapgen fixes (#72028)
 * Disabling imgui.ini writing globally (#72030)
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2024-02-28-0157 (a74bf25)
 * Update u_val('sold') to n_val('sold') (#71998)
 * No more infinite farthings from Rubik (#72003)
 * Fix recipe_id conflicts in base json files (#72002)
-* MONSTERS.md: reference GAME_BALANCE.md more (#71952)
 * [Xedra Evolved] Sylph, salamander, and undine mutation consolidation (#71996)
 * Allow summoned creatures to leave without creating a corpse (#72005)
 * Added preprocessor directives to allow building android without imgui. (#72013)
