@@ -1,3 +1,4 @@
+* Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
 * Partially revert Seasonal Mutation EOCs #69591 by @fairyarmadillo ([#72163](https://github.com/CleverRaven/Cataclysm-DDA/pull/72163))
 
 ---
@@ -199,7 +200,6 @@
 * Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
 * More enchantments ([#71976](https://github.com/CleverRaven/Cataclysm-DDA/pull/71976))
 * fix some bugs for `run_eoc_until` ([#72020](https://github.com/CleverRaven/Cataclysm-DDA/pull/72020))
-* Fix immune flag ondamage eoc behavior ([#71974](https://github.com/CleverRaven/Cataclysm-DDA/pull/71974))
 * Update u_val('sold') to n_val('sold') ([#71998](https://github.com/CleverRaven/Cataclysm-DDA/pull/71998))
 * No more infinite farthings from Rubik ([#72003](https://github.com/CleverRaven/Cataclysm-DDA/pull/72003))
 * Fix recipe_id conflicts in base json files ([#72002](https://github.com/CleverRaven/Cataclysm-DDA/pull/72002))
