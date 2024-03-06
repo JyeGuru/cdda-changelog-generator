@@ -1,3 +1,4 @@
+* use item/tname instead of its raw name (nname) in recipe menu ([#72202](https://github.com/CleverRaven/Cataclysm-DDA/pull/72202))
 * Some more mapgen fixes ([#72206](https://github.com/CleverRaven/Cataclysm-DDA/pull/72206))
 * (Fix for tests) Assign valid IDs to NPCs used during testing ([#72167](https://github.com/CleverRaven/Cataclysm-DDA/pull/72167))
 * Re-tweak one sentence in last delivery mission  ([#72168](https://github.com/CleverRaven/Cataclysm-DDA/pull/72168))
@@ -212,4 +213,3 @@
 * [Bombastic Perks] Fix perk-choosing crash(?) ([#71995](https://github.com/CleverRaven/Cataclysm-DDA/pull/71995))
 * Fix macOS curses build error ([#71993](https://github.com/CleverRaven/Cataclysm-DDA/pull/71993))
 * Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
-* [Xedra Evovled] bugfixes ([#71986](https://github.com/CleverRaven/Cataclysm-DDA/pull/71986))
