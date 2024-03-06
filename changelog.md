@@ -1,3 +1,5 @@
+* [Magiclysm] Remove trailing space in Aquatic Mantle's name ([#72200](https://github.com/CleverRaven/Cataclysm-DDA/pull/72200))
+* [MOM] Remove left over learn_spell from Intuitive Artisan ([#72197](https://github.com/CleverRaven/Cataclysm-DDA/pull/72197))
 * use item/tname instead of its raw name (nname) in recipe menu ([#72202](https://github.com/CleverRaven/Cataclysm-DDA/pull/72202))
 * Some more mapgen fixes ([#72206](https://github.com/CleverRaven/Cataclysm-DDA/pull/72206))
 * (Fix for tests) Assign valid IDs to NPCs used during testing ([#72167](https://github.com/CleverRaven/Cataclysm-DDA/pull/72167))
@@ -169,7 +171,6 @@
 
 * [MoM] Update learning EoCs to reuse condition list ([#72080](https://github.com/CleverRaven/Cataclysm-DDA/pull/72080))
 * Routine tileset updates on 01 March 2024 ([#72084](https://github.com/CleverRaven/Cataclysm-DDA/pull/72084))
-* Flooded Basements Part:1 ([#71992](https://github.com/CleverRaven/Cataclysm-DDA/pull/71992))
 * [Xedra Evolved] Update Verdant Armor with new enchantments ([#72078](https://github.com/CleverRaven/Cataclysm-DDA/pull/72078))
 * New mutation field "override_look" that allows the character to have the appearance of a monster. ([#72039](https://github.com/CleverRaven/Cataclysm-DDA/pull/72039))
 * Fixing an ImGui issue where static popups draw at the center of the screen ([#72048](https://github.com/CleverRaven/Cataclysm-DDA/pull/72048))
@@ -212,4 +213,3 @@
 * [MoM] Chameleoflage update ([#71999](https://github.com/CleverRaven/Cataclysm-DDA/pull/71999))
 * [Bombastic Perks] Fix perk-choosing crash(?) ([#71995](https://github.com/CleverRaven/Cataclysm-DDA/pull/71995))
 * Fix macOS curses build error ([#71993](https://github.com/CleverRaven/Cataclysm-DDA/pull/71993))
-* Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
