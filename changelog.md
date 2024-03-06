@@ -189,11 +189,6 @@
 
 * [Xedra Evolved] Paraclesian altar floor rework  ([#72061](https://github.com/CleverRaven/Cataclysm-DDA/pull/72061))
 * Fix clang-tidy error in magic_spell_test.cpp ([#72067](https://github.com/CleverRaven/Cataclysm-DDA/pull/72067))
-
----
-
-#### Cataclysm-DDA experimental build 2024-02-29-0455 ([5e25bb3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-02-29-0455))
-
 * github/linux: build a more featureful SDL2 library ([#72056](https://github.com/CleverRaven/Cataclysm-DDA/pull/72056))
 * [Docs] Alphabetize enchantments in Magic.md ([#71997](https://github.com/CleverRaven/Cataclysm-DDA/pull/71997))
 * fix broken tests ([#72055](https://github.com/CleverRaven/Cataclysm-DDA/pull/72055))

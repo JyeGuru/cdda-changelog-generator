@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2024-03-01-0035 (4be53f0)
 Cataclysm-DDA experimental build 2024-02-29-2015 (19b951c)
 * [Xedra Evolved] Paraclesian altar floor rework  (#72061)
 * Fix clang-tidy error in magic_spell_test.cpp (#72067)
-
-Cataclysm-DDA experimental build 2024-02-29-0455 (5e25bb3)
 * github/linux: build a more featureful SDL2 library (#72056)
 * [Docs] Alphabetize enchantments in Magic.md (#71997)
 * fix broken tests (#72055)
