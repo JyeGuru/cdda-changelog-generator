@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-03-06-1941 (e3a1c50)
+* NPCs are better at finding places to sleep, heavily prefer real beds (#72190)
 * higher "parasites" actually means lower chance of parasites (#72178)
 * do not scope creep! (#72161)
 
@@ -47,9 +50,6 @@ Cataclysm-DDA experimental build 2024-03-03-1636 (8a59431)
 
 Cataclysm-DDA experimental build 2024-03-03-1344 (069c4d3)
 * [Xedra Evolved] Add GLARE quality to Salamander eyes (#72133)
-
-Cataclysm-DDA experimental build 2024-03-03-0914 (4f3b1cc)
-* Preparation for using typed tripoints consistently (#71970)
 * Ritual Circles Work (#72128)
 * Split vehicle part wheel_caster into small and large variants (#72089)
 
@@ -104,8 +104,6 @@ Cataclysm-DDA experimental build 2024-03-01-0629 (8a1fa0e)
 
 Cataclysm-DDA experimental build 2024-03-01-0035 (4be53f0)
 * Imgui keybindings UI mouse broken (#72076)
-
-Cataclysm-DDA experimental build 2024-02-29-2015 (19b951c)
 * [Xedra Evolved] Paraclesian altar floor rework  (#72061)
 * Fix clang-tidy error in magic_spell_test.cpp (#72067)
 * github/linux: build a more featureful SDL2 library (#72056)
