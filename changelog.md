@@ -1,3 +1,4 @@
+* NPCs use their indoor voices when not in danger ([#72021](https://github.com/CleverRaven/Cataclysm-DDA/pull/72021))
 * Fix several issues of NPC movement ([#72072](https://github.com/CleverRaven/Cataclysm-DDA/pull/72072))
 * fix birdsot ammo in beanbag can ([#72199](https://github.com/CleverRaven/Cataclysm-DDA/pull/72199))
 * Code clearing window was using global font instead of the font actual… ([#72127](https://github.com/CleverRaven/Cataclysm-DDA/pull/72127))
@@ -206,7 +207,6 @@
 * Fixing mouse cursor unable to be hidden with ImGui ([#72029](https://github.com/CleverRaven/Cataclysm-DDA/pull/72029))
 * Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
 * fix some bugs for `run_eoc_until` ([#72020](https://github.com/CleverRaven/Cataclysm-DDA/pull/72020))
-* No more infinite farthings from Rubik ([#72003](https://github.com/CleverRaven/Cataclysm-DDA/pull/72003))
 * Allow summoned creatures to leave without creating a corpse ([#72005](https://github.com/CleverRaven/Cataclysm-DDA/pull/72005))
 * Added preprocessor directives to allow building android without imgui. ([#72013](https://github.com/CleverRaven/Cataclysm-DDA/pull/72013))
 * [Magiclysm] Add Technomancer class to Machine Mind ([#72007](https://github.com/CleverRaven/Cataclysm-DDA/pull/72007))
