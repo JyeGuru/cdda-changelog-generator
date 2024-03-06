@@ -1,3 +1,5 @@
+* Fix item group birthdays ([#72194](https://github.com/CleverRaven/Cataclysm-DDA/pull/72194))
+* Added 3-finger gestures to Android ([#72196](https://github.com/CleverRaven/Cataclysm-DDA/pull/72196))
 * Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
 * Partially revert Seasonal Mutation EOCs #69591 by @fairyarmadillo ([#72163](https://github.com/CleverRaven/Cataclysm-DDA/pull/72163))
 
@@ -53,12 +55,6 @@
 
 * Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
 * [Magiclysm] Update Cloak of Elvenkind to use new enchantments ([#72081](https://github.com/CleverRaven/Cataclysm-DDA/pull/72081))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-04-1803 ([0fa4b09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-04-1803))
-
-* Zoo revamp ([#71975](https://github.com/CleverRaven/Cataclysm-DDA/pull/71975))
 
 ---
 
@@ -198,7 +194,6 @@
 * Disabling imgui.ini writing globally ([#72030](https://github.com/CleverRaven/Cataclysm-DDA/pull/72030))
 * Fixing mouse cursor unable to be hidden with ImGui ([#72029](https://github.com/CleverRaven/Cataclysm-DDA/pull/72029))
 * Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
-* More enchantments ([#71976](https://github.com/CleverRaven/Cataclysm-DDA/pull/71976))
 * fix some bugs for `run_eoc_until` ([#72020](https://github.com/CleverRaven/Cataclysm-DDA/pull/72020))
 * Update u_val('sold') to n_val('sold') ([#71998](https://github.com/CleverRaven/Cataclysm-DDA/pull/71998))
 * No more infinite farthings from Rubik ([#72003](https://github.com/CleverRaven/Cataclysm-DDA/pull/72003))
