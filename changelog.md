@@ -1,3 +1,5 @@
+* Re-tweak one sentence in last delivery mission  ([#72168](https://github.com/CleverRaven/Cataclysm-DDA/pull/72168))
+* Paper wrapper should have tinder flag ([#72177](https://github.com/CleverRaven/Cataclysm-DDA/pull/72177))
 * Fix item group birthdays ([#72194](https://github.com/CleverRaven/Cataclysm-DDA/pull/72194))
 * Added 3-finger gestures to Android ([#72196](https://github.com/CleverRaven/Cataclysm-DDA/pull/72196))
 * Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
@@ -101,7 +103,6 @@
 #### Cataclysm-DDA experimental build 2024-03-03-0600 ([18bed67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-0600))
 
 * jmath: don't allow shadowing of built-in functions ([#72120](https://github.com/CleverRaven/Cataclysm-DDA/pull/72120))
-* Weekly Changelog 2024-02-19 to 2024-02-26 ([#71979](https://github.com/CleverRaven/Cataclysm-DDA/pull/71979))
 * Test cases for player's morale after killing an NPC ([#72018](https://github.com/CleverRaven/Cataclysm-DDA/pull/72018))
 * [Magiclysm] Update goblin teeth and lizardfolk muzzle to techniques ([#72083](https://github.com/CleverRaven/Cataclysm-DDA/pull/72083))
 * Collapsed telescoping umbrella doesn't feel uncomfortable when worn ([#72113](https://github.com/CleverRaven/Cataclysm-DDA/pull/72113))
