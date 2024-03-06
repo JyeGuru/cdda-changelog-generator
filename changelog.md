@@ -1,5 +1,10 @@
 * NPCs use their indoor voices when not in danger ([#72021](https://github.com/CleverRaven/Cataclysm-DDA/pull/72021))
 * Fix several issues of NPC movement ([#72072](https://github.com/CleverRaven/Cataclysm-DDA/pull/72072))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-06-2243 ([0092ef6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-06-2243))
+
 * fix birdsot ammo in beanbag can ([#72199](https://github.com/CleverRaven/Cataclysm-DDA/pull/72199))
 * Code clearing window was using global font instead of the font actual… ([#72127](https://github.com/CleverRaven/Cataclysm-DDA/pull/72127))
 * Mutation list computer function ([#72132](https://github.com/CleverRaven/Cataclysm-DDA/pull/72132))
@@ -187,11 +192,6 @@
 * Add Hair Dye ([#72025](https://github.com/CleverRaven/Cataclysm-DDA/pull/72025))
 * Fixing an imgui-related crash related to debug errors ([#72074](https://github.com/CleverRaven/Cataclysm-DDA/pull/72074))
 * [Magiclysm] Parabolan wool gambesons ([#72054](https://github.com/CleverRaven/Cataclysm-DDA/pull/72054))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-01-0035 ([4be53f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-01-0035))
-
 * Imgui keybindings UI mouse broken ([#72076](https://github.com/CleverRaven/Cataclysm-DDA/pull/72076))
 * [Xedra Evolved] Paraclesian altar floor rework  ([#72061](https://github.com/CleverRaven/Cataclysm-DDA/pull/72061))
 * Fix clang-tidy error in magic_spell_test.cpp ([#72067](https://github.com/CleverRaven/Cataclysm-DDA/pull/72067))
