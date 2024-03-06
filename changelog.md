@@ -1,3 +1,5 @@
+* Some more mapgen fixes ([#72206](https://github.com/CleverRaven/Cataclysm-DDA/pull/72206))
+* (Fix for tests) Assign valid IDs to NPCs used during testing ([#72167](https://github.com/CleverRaven/Cataclysm-DDA/pull/72167))
 * Re-tweak one sentence in last delivery mission  ([#72168](https://github.com/CleverRaven/Cataclysm-DDA/pull/72168))
 * Paper wrapper should have tinder flag ([#72177](https://github.com/CleverRaven/Cataclysm-DDA/pull/72177))
 * Fix item group birthdays ([#72194](https://github.com/CleverRaven/Cataclysm-DDA/pull/72194))
@@ -209,7 +211,5 @@
 * [MoM] Chameleoflage update ([#71999](https://github.com/CleverRaven/Cataclysm-DDA/pull/71999))
 * [Bombastic Perks] Fix perk-choosing crash(?) ([#71995](https://github.com/CleverRaven/Cataclysm-DDA/pull/71995))
 * Fix macOS curses build error ([#71993](https://github.com/CleverRaven/Cataclysm-DDA/pull/71993))
-* [Xedra Evolved] Consolidate more Arvore mutations with triggers into one mutation ([#71982](https://github.com/CleverRaven/Cataclysm-DDA/pull/71982))
 * Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
 * [Xedra Evovled] bugfixes ([#71986](https://github.com/CleverRaven/Cataclysm-DDA/pull/71986))
-* [Magiclysm] Fix Wash the Wounds Clean ([#71981](https://github.com/CleverRaven/Cataclysm-DDA/pull/71981))
