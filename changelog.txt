@@ -1,3 +1,4 @@
+* higher "parasites" actually means lower chance of parasites (#72178)
 * do not scope creep! (#72161)
 
 Cataclysm-DDA experimental build 2024-03-05-2315 (ec015e7)
@@ -116,7 +117,6 @@ Cataclysm-DDA experimental build 2024-02-29-0455 (5e25bb3)
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment (#72033)
 * github: build sdl2 locally for linux releases (#72026)
 * [Xedra Evolved] Fix Avalanche Blow (#72036)
-* keybindings: "Unbound locally!  Underlying global." (#71968)
 * Disallow mixed smokeless in handloading (#72023)
 * Some mapgen fixes (#72028)
 * Disabling imgui.ini writing globally (#72030)
