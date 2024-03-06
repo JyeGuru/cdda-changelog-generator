@@ -1,3 +1,4 @@
+* Partially revert Seasonal Mutation EOCs #69591 by @fairyarmadillo ([#72163](https://github.com/CleverRaven/Cataclysm-DDA/pull/72163))
 
 ---
 
@@ -216,4 +217,3 @@
 * Sky Island - Make secure storage boxes waterproof ([#71987](https://github.com/CleverRaven/Cataclysm-DDA/pull/71987))
 * [Xedra Evovled] bugfixes ([#71986](https://github.com/CleverRaven/Cataclysm-DDA/pull/71986))
 * [Magiclysm] Fix Wash the Wounds Clean ([#71981](https://github.com/CleverRaven/Cataclysm-DDA/pull/71981))
-* Fix on wakeup eoc bug ([#71973](https://github.com/CleverRaven/Cataclysm-DDA/pull/71973))

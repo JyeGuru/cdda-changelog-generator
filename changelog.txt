@@ -1,3 +1,4 @@
+* Partially revert Seasonal Mutation EOCs #69591 by @fairyarmadillo (#72163)
 
 Cataclysm-DDA experimental build 2024-03-06-1941 (e3a1c50)
 * NPCs are better at finding places to sleep, heavily prefer real beds (#72190)
@@ -138,4 +139,3 @@ Cataclysm-DDA experimental build 2024-03-01-0035 (4be53f0)
 * Sky Island - Make secure storage boxes waterproof (#71987)
 * [Xedra Evovled] bugfixes (#71986)
 * [Magiclysm] Fix Wash the Wounds Clean (#71981)
-* Fix on wakeup eoc bug (#71973)
