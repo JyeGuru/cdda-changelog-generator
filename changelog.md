@@ -1,3 +1,4 @@
+* Enhanced debug backpack to carry liquids/gasses, utility use_action ([#72165](https://github.com/CleverRaven/Cataclysm-DDA/pull/72165))
 * [Magiclysm] Remove trailing space in Aquatic Mantle's name ([#72200](https://github.com/CleverRaven/Cataclysm-DDA/pull/72200))
 * [MOM] Remove left over learn_spell from Intuitive Artisan ([#72197](https://github.com/CleverRaven/Cataclysm-DDA/pull/72197))
 * use item/tname instead of its raw name (nname) in recipe menu ([#72202](https://github.com/CleverRaven/Cataclysm-DDA/pull/72202))
@@ -212,4 +213,3 @@
 * [MoM] Update Metabolic Hyperefficiency ([#72006](https://github.com/CleverRaven/Cataclysm-DDA/pull/72006))
 * [MoM] Chameleoflage update ([#71999](https://github.com/CleverRaven/Cataclysm-DDA/pull/71999))
 * [Bombastic Perks] Fix perk-choosing crash(?) ([#71995](https://github.com/CleverRaven/Cataclysm-DDA/pull/71995))
-* Fix macOS curses build error ([#71993](https://github.com/CleverRaven/Cataclysm-DDA/pull/71993))
