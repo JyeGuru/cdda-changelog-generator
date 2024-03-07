@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-07-2013 (c5225cf)
 * NPCs will  prioritize wielding ranged weapons when allowed. (#72222)
 
 Cataclysm-DDA experimental build 2024-03-07-0457 (d861825)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-03-02-0349 (3e60c82)
 
 Cataclysm-DDA experimental build 2024-03-01-1639 (9eaa5d4)
 * [Xedra Evolved] Update Paraclesian elemental form sprites (#72088)
-
-Cataclysm-DDA experimental build 2024-03-01-1352 (e269072)
 * Remove Lemmy Mention (#72096)
 * [MoM] Update learning EoCs to reuse condition list (#72080)
 * Routine tileset updates on 01 March 2024 (#72084)

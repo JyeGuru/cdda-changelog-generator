@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-07-2013 ([c5225cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-07-2013))
+
 * NPCs will  prioritize wielding ranged weapons when allowed. ([#72222](https://github.com/CleverRaven/Cataclysm-DDA/pull/72222))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-03-01-1639 ([9eaa5d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-01-1639))
 
 * [Xedra Evolved] Update Paraclesian elemental form sprites ([#72088](https://github.com/CleverRaven/Cataclysm-DDA/pull/72088))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-01-1352 ([e269072](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-01-1352))
-
 * Remove Lemmy Mention ([#72096](https://github.com/CleverRaven/Cataclysm-DDA/pull/72096))
 * [MoM] Update learning EoCs to reuse condition list ([#72080](https://github.com/CleverRaven/Cataclysm-DDA/pull/72080))
 * Routine tileset updates on 01 March 2024 ([#72084](https://github.com/CleverRaven/Cataclysm-DDA/pull/72084))
