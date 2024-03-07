@@ -1,3 +1,4 @@
+* NPCs will  prioritize wielding ranged weapons when allowed. (#72222)
 
 Cataclysm-DDA experimental build 2024-03-07-0457 (d861825)
 * [Xedra Evolved] Add Homullus mutations (#72205)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-03-01-1352 (e269072)
 * fix some bugs for `run_eoc_until` (#72020)
 * Added preprocessor directives to allow building android without imgui. (#72013)
 * [wasm] add --lz4 to file_packager (#72011)
-* [Xedra Evolved] Paraclesian altar wall rework (#72008)

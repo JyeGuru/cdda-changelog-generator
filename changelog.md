@@ -1,3 +1,4 @@
+* NPCs will  prioritize wielding ranged weapons when allowed. ([#72222](https://github.com/CleverRaven/Cataclysm-DDA/pull/72222))
 
 ---
 
@@ -217,4 +218,3 @@
 * fix some bugs for `run_eoc_until` ([#72020](https://github.com/CleverRaven/Cataclysm-DDA/pull/72020))
 * Added preprocessor directives to allow building android without imgui. ([#72013](https://github.com/CleverRaven/Cataclysm-DDA/pull/72013))
 * [wasm] add --lz4 to file_packager ([#72011](https://github.com/CleverRaven/Cataclysm-DDA/pull/72011))
-* [Xedra Evolved] Paraclesian altar wall rework ([#72008](https://github.com/CleverRaven/Cataclysm-DDA/pull/72008))
