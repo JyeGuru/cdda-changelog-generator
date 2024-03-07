@@ -1,3 +1,4 @@
+* Revert #69555 ([#72172](https://github.com/CleverRaven/Cataclysm-DDA/pull/72172))
 * make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
 * Port some mutation/cbm specific fields to enchantments, part 2 ([#72106](https://github.com/CleverRaven/Cataclysm-DDA/pull/72106))
 
@@ -213,4 +214,3 @@
 * Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
 * fix some bugs for `run_eoc_until` ([#72020](https://github.com/CleverRaven/Cataclysm-DDA/pull/72020))
 * Added preprocessor directives to allow building android without imgui. ([#72013](https://github.com/CleverRaven/Cataclysm-DDA/pull/72013))
-* [wasm] add --lz4 to file_packager ([#72011](https://github.com/CleverRaven/Cataclysm-DDA/pull/72011))
