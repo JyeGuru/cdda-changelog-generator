@@ -1,3 +1,4 @@
+* make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
 * Port some mutation/cbm specific fields to enchantments, part 2 ([#72106](https://github.com/CleverRaven/Cataclysm-DDA/pull/72106))
 
 ---
