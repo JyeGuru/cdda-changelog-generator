@@ -1,3 +1,4 @@
+* Port some mutation/cbm specific fields to enchantments, part 2 ([#72106](https://github.com/CleverRaven/Cataclysm-DDA/pull/72106))
 
 ---
 
@@ -120,12 +121,6 @@
 #### Cataclysm-DDA experimental build 2024-03-03-1927 ([a7f1fd1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-1927))
 
 * [Xedra Evolved] Add animal friendship traits to Ierde, Undine, and Arvore ([#72143](https://github.com/CleverRaven/Cataclysm-DDA/pull/72143))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-03-1636 ([8a59431](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-1636))
-
-* Limestone audit ([#72009](https://github.com/CleverRaven/Cataclysm-DDA/pull/72009))
 
 ---
 
