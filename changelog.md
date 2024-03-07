@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-07-2353 ([e46ffd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-07-2353))
+
 * Revert #69555 ([#72172](https://github.com/CleverRaven/Cataclysm-DDA/pull/72172))
 * make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
 * Port some mutation/cbm specific fields to enchantments, part 2 ([#72106](https://github.com/CleverRaven/Cataclysm-DDA/pull/72106))
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2024-03-02-0349 ([3e60c82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-0349))
 
 * move doc to .h from .cpp ([#72100](https://github.com/CleverRaven/Cataclysm-DDA/pull/72100))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-01-1639 ([9eaa5d4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-01-1639))
-
 * [Xedra Evolved] Update Paraclesian elemental form sprites ([#72088](https://github.com/CleverRaven/Cataclysm-DDA/pull/72088))
 * Remove Lemmy Mention ([#72096](https://github.com/CleverRaven/Cataclysm-DDA/pull/72096))
 * [MoM] Update learning EoCs to reuse condition list ([#72080](https://github.com/CleverRaven/Cataclysm-DDA/pull/72080))
