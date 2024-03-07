@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add goblin fruit map special ([#72189](https://github.com/CleverRaven/Cataclysm-DDA/pull/72189))
 
 ---
 
