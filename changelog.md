@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Homullus mutations ([#72205](https://github.com/CleverRaven/Cataclysm-DDA/pull/72205))
 * Changed neoprene patch price from 100 to 5. Resolves issue #71813 ([#72174](https://github.com/CleverRaven/Cataclysm-DDA/pull/72174))
 * [Xedra Evolved] Add goblin fruit map special ([#72189](https://github.com/CleverRaven/Cataclysm-DDA/pull/72189))
 
@@ -218,4 +219,3 @@
 * [Magiclysm] Add Technomancer class to Machine Mind ([#72007](https://github.com/CleverRaven/Cataclysm-DDA/pull/72007))
 * [wasm] add --lz4 to file_packager ([#72011](https://github.com/CleverRaven/Cataclysm-DDA/pull/72011))
 * [Xedra Evolved] Paraclesian altar wall rework ([#72008](https://github.com/CleverRaven/Cataclysm-DDA/pull/72008))
-* [MoM] Update Metabolic Hyperefficiency ([#72006](https://github.com/CleverRaven/Cataclysm-DDA/pull/72006))
