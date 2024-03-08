@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-08-0523 (9f08089)
 * [Xedra Evolved] Fix Arvore Commune with Nature scaling + add standard jmath post-threshold doubling (#72231)
 
 Cataclysm-DDA experimental build 2024-03-08-0254 (0ea4865)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2024-03-02-2045 (5325a45)
 
 Cataclysm-DDA experimental build 2024-03-02-1755 (669a9fc)
 * Less repeatedly spawning item groups when checking consistency (#72064)
-
-Cataclysm-DDA experimental build 2024-03-02-0657 (7ee6c6a)
 * Made grapeade drink mix actually make grapeade. (#72038)
 * move doc to .h from .cpp (#72100)
 * [Xedra Evolved] Update Paraclesian elemental form sprites (#72088)

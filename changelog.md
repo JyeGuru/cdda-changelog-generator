@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-08-0523 ([9f08089](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-08-0523))
+
 * [Xedra Evolved] Fix Arvore Commune with Nature scaling + add standard jmath post-threshold doubling ([#72231](https://github.com/CleverRaven/Cataclysm-DDA/pull/72231))
 
 ---
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-03-02-1755 ([669a9fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-1755))
 
 * Less repeatedly spawning item groups when checking consistency ([#72064](https://github.com/CleverRaven/Cataclysm-DDA/pull/72064))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-02-0657 ([7ee6c6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-0657))
-
 * Made grapeade drink mix actually make grapeade. ([#72038](https://github.com/CleverRaven/Cataclysm-DDA/pull/72038))
 * move doc to .h from .cpp ([#72100](https://github.com/CleverRaven/Cataclysm-DDA/pull/72100))
 * [Xedra Evolved] Update Paraclesian elemental form sprites ([#72088](https://github.com/CleverRaven/Cataclysm-DDA/pull/72088))
