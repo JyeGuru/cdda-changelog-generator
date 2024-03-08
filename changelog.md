@@ -203,7 +203,6 @@
 * fix broken tests ([#72055](https://github.com/CleverRaven/Cataclysm-DDA/pull/72055))
 * clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment ([#72033](https://github.com/CleverRaven/Cataclysm-DDA/pull/72033))
-* github: build sdl2 locally for linux releases ([#72026](https://github.com/CleverRaven/Cataclysm-DDA/pull/72026))
 * [Xedra Evolved] Fix Avalanche Blow ([#72036](https://github.com/CleverRaven/Cataclysm-DDA/pull/72036))
 * Some mapgen fixes ([#72028](https://github.com/CleverRaven/Cataclysm-DDA/pull/72028))
 * Disabling imgui.ini writing globally ([#72030](https://github.com/CleverRaven/Cataclysm-DDA/pull/72030))
