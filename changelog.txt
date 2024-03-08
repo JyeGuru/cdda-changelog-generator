@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix Arvore Commune with Nature scaling + add standard jmath post-threshold doubling (#72231)
 
 Cataclysm-DDA experimental build 2024-03-08-0254 (0ea4865)
 * mom: minor typos (#72216)
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2024-03-02-0657 (7ee6c6a)
 * Fixing an ImGui issue where static popups draw at the center of the screen (#72048)
 * [MoM] Update Speed Reader to use READING_SPEED_MULTIPLIER enchantment (#72049)
 * Port some mutation/cbm specific fields to enchantments (#72034)
-* Add Hair Dye (#72025)
 * Fixing an imgui-related crash related to debug errors (#72074)
 * [Magiclysm] Parabolan wool gambesons (#72054)
 * Imgui keybindings UI mouse broken (#72076)

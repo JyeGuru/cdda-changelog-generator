@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix Arvore Commune with Nature scaling + add standard jmath post-threshold doubling ([#72231](https://github.com/CleverRaven/Cataclysm-DDA/pull/72231))
 
 ---
 
@@ -193,7 +194,6 @@
 * Fixing an ImGui issue where static popups draw at the center of the screen ([#72048](https://github.com/CleverRaven/Cataclysm-DDA/pull/72048))
 * [MoM] Update Speed Reader to use READING_SPEED_MULTIPLIER enchantment ([#72049](https://github.com/CleverRaven/Cataclysm-DDA/pull/72049))
 * Port some mutation/cbm specific fields to enchantments ([#72034](https://github.com/CleverRaven/Cataclysm-DDA/pull/72034))
-* Add Hair Dye ([#72025](https://github.com/CleverRaven/Cataclysm-DDA/pull/72025))
 * Fixing an imgui-related crash related to debug errors ([#72074](https://github.com/CleverRaven/Cataclysm-DDA/pull/72074))
 * [Magiclysm] Parabolan wool gambesons ([#72054](https://github.com/CleverRaven/Cataclysm-DDA/pull/72054))
 * Imgui keybindings UI mouse broken ([#72076](https://github.com/CleverRaven/Cataclysm-DDA/pull/72076))
