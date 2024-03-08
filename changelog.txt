@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-03-08-1439 (5f56f80)
+* [Bombastic Perks] Add more perks (#72079)
+
 Cataclysm-DDA experimental build 2024-03-08-0523 (9f08089)
 * [Xedra Evolved] Fix Arvore Commune with Nature scaling + add standard jmath post-threshold doubling (#72231)
 
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2024-03-02-2325 (8fc7e97)
 
 Cataclysm-DDA experimental build 2024-03-02-2045 (5325a45)
 * ImGui popups with buttons not showing text (#72098)
-
-Cataclysm-DDA experimental build 2024-03-02-1755 (669a9fc)
 * Less repeatedly spawning item groups when checking consistency (#72064)
 * Made grapeade drink mix actually make grapeade. (#72038)
 * move doc to .h from .cpp (#72100)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2024-03-02-1755 (669a9fc)
 * clear window line by line, skipping untouched lines (#72035)
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment (#72033)
 * [Xedra Evolved] Fix Avalanche Blow (#72036)
-* Some mapgen fixes (#72028)
 * Disabling imgui.ini writing globally (#72030)
 * Fixing mouse cursor unable to be hidden with ImGui (#72029)
 * Fix lang file compilation in Windows build with explicit msys2 setup. (#72031)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-08-1439 ([5f56f80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-08-1439))
+
+* [Bombastic Perks] Add more perks ([#72079](https://github.com/CleverRaven/Cataclysm-DDA/pull/72079))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-08-0523 ([9f08089](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-08-0523))
 
 * [Xedra Evolved] Fix Arvore Commune with Nature scaling + add standard jmath post-threshold doubling ([#72231](https://github.com/CleverRaven/Cataclysm-DDA/pull/72231))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-03-02-2045 ([5325a45](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-2045))
 
 * ImGui popups with buttons not showing text ([#72098](https://github.com/CleverRaven/Cataclysm-DDA/pull/72098))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-02-1755 ([669a9fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-1755))
-
 * Less repeatedly spawning item groups when checking consistency ([#72064](https://github.com/CleverRaven/Cataclysm-DDA/pull/72064))
 * Made grapeade drink mix actually make grapeade. ([#72038](https://github.com/CleverRaven/Cataclysm-DDA/pull/72038))
 * move doc to .h from .cpp ([#72100](https://github.com/CleverRaven/Cataclysm-DDA/pull/72100))
@@ -204,7 +205,6 @@
 * clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment ([#72033](https://github.com/CleverRaven/Cataclysm-DDA/pull/72033))
 * [Xedra Evolved] Fix Avalanche Blow ([#72036](https://github.com/CleverRaven/Cataclysm-DDA/pull/72036))
-* Some mapgen fixes ([#72028](https://github.com/CleverRaven/Cataclysm-DDA/pull/72028))
 * Disabling imgui.ini writing globally ([#72030](https://github.com/CleverRaven/Cataclysm-DDA/pull/72030))
 * Fixing mouse cursor unable to be hidden with ImGui ([#72029](https://github.com/CleverRaven/Cataclysm-DDA/pull/72029))
 * Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
