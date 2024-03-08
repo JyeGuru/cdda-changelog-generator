@@ -1,3 +1,6 @@
+* mom: minor typos ([#72216](https://github.com/CleverRaven/Cataclysm-DDA/pull/72216))
+* mom: wield your crystals *today* ([#72218](https://github.com/CleverRaven/Cataclysm-DDA/pull/72218))
+* [MOM] Fix: Intuitive artisan does nothing ([#72221](https://github.com/CleverRaven/Cataclysm-DDA/pull/72221))
 * Fixed a crash with ImTui on a fresh CDDA install ([#72235](https://github.com/CleverRaven/Cataclysm-DDA/pull/72235))
 * Assign default value of 1.0 for fault price modifiers, instead of 0 ([#72237](https://github.com/CleverRaven/Cataclysm-DDA/pull/72237))
 
@@ -22,12 +25,6 @@
 * [Xedra Evolved] Add Homullus mutations ([#72205](https://github.com/CleverRaven/Cataclysm-DDA/pull/72205))
 * Changed neoprene patch price from 100 to 5. Resolves issue #71813 ([#72174](https://github.com/CleverRaven/Cataclysm-DDA/pull/72174))
 * [Xedra Evolved] Add goblin fruit map special ([#72189](https://github.com/CleverRaven/Cataclysm-DDA/pull/72189))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-07-0216 ([34c37cb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-07-0216))
-
-* NPCs use their indoor voices when not in danger ([#72021](https://github.com/CleverRaven/Cataclysm-DDA/pull/72021))
 * Fix several issues of NPC movement ([#72072](https://github.com/CleverRaven/Cataclysm-DDA/pull/72072))
 
 ---
@@ -208,7 +205,6 @@
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment ([#72033](https://github.com/CleverRaven/Cataclysm-DDA/pull/72033))
 * github: build sdl2 locally for linux releases ([#72026](https://github.com/CleverRaven/Cataclysm-DDA/pull/72026))
 * [Xedra Evolved] Fix Avalanche Blow ([#72036](https://github.com/CleverRaven/Cataclysm-DDA/pull/72036))
-* Disallow mixed smokeless in handloading ([#72023](https://github.com/CleverRaven/Cataclysm-DDA/pull/72023))
 * Some mapgen fixes ([#72028](https://github.com/CleverRaven/Cataclysm-DDA/pull/72028))
 * Disabling imgui.ini writing globally ([#72030](https://github.com/CleverRaven/Cataclysm-DDA/pull/72030))
 * Fixing mouse cursor unable to be hidden with ImGui ([#72029](https://github.com/CleverRaven/Cataclysm-DDA/pull/72029))
