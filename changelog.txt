@@ -1,3 +1,4 @@
+* build with -DIMGUI_DISABLE_OBSOLETE_KEYIO (#72116)
 
 Cataclysm-DDA experimental build 2024-03-08-1439 (5f56f80)
 * [Bombastic Perks] Add more perks (#72079)
@@ -134,5 +135,4 @@ Cataclysm-DDA experimental build 2024-03-02-2045 (5325a45)
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment (#72033)
 * [Xedra Evolved] Fix Avalanche Blow (#72036)
 * Disabling imgui.ini writing globally (#72030)
-* Fixing mouse cursor unable to be hidden with ImGui (#72029)
 * Fix lang file compilation in Windows build with explicit msys2 setup. (#72031)
