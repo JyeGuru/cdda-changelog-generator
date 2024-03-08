@@ -1,3 +1,5 @@
+* Fixed a crash with ImTui on a fresh CDDA install ([#72235](https://github.com/CleverRaven/Cataclysm-DDA/pull/72235))
+* Assign default value of 1.0 for fault price modifiers, instead of 0 ([#72237](https://github.com/CleverRaven/Cataclysm-DDA/pull/72237))
 
 ---
 
@@ -142,7 +144,6 @@
 #### Cataclysm-DDA experimental build 2024-03-03-0600 ([18bed67](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-0600))
 
 * jmath: don't allow shadowing of built-in functions ([#72120](https://github.com/CleverRaven/Cataclysm-DDA/pull/72120))
-* Test cases for player's morale after killing an NPC ([#72018](https://github.com/CleverRaven/Cataclysm-DDA/pull/72018))
 * [Magiclysm] Update goblin teeth and lizardfolk muzzle to techniques ([#72083](https://github.com/CleverRaven/Cataclysm-DDA/pull/72083))
 * Collapsed telescoping umbrella doesn't feel uncomfortable when worn ([#72113](https://github.com/CleverRaven/Cataclysm-DDA/pull/72113))
 * [Xedra Evolved] More Salamander and Ierde powers ([#72104](https://github.com/CleverRaven/Cataclysm-DDA/pull/72104))
@@ -212,4 +213,3 @@
 * Disabling imgui.ini writing globally ([#72030](https://github.com/CleverRaven/Cataclysm-DDA/pull/72030))
 * Fixing mouse cursor unable to be hidden with ImGui ([#72029](https://github.com/CleverRaven/Cataclysm-DDA/pull/72029))
 * Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
-* fix some bugs for `run_eoc_until` ([#72020](https://github.com/CleverRaven/Cataclysm-DDA/pull/72020))
