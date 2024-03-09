@@ -1,3 +1,5 @@
+* Innawoods Iimestone Audit ([#72214](https://github.com/CleverRaven/Cataclysm-DDA/pull/72214))
+* [Xedra Evolved] More homullus traits ([#72236](https://github.com/CleverRaven/Cataclysm-DDA/pull/72236))
 * Update robofac_gun do looks like FN P90 ([#72245](https://github.com/CleverRaven/Cataclysm-DDA/pull/72245))
 * Fix mutant child's description ([#72247](https://github.com/CleverRaven/Cataclysm-DDA/pull/72247))
 * Aftershock: Fix the escape pod sequence (Once and for all?) ([#72225](https://github.com/CleverRaven/Cataclysm-DDA/pull/72225))
@@ -206,5 +208,3 @@
 * Fix clang-tidy error in magic_spell_test.cpp ([#72067](https://github.com/CleverRaven/Cataclysm-DDA/pull/72067))
 * github/linux: build a more featureful SDL2 library ([#72056](https://github.com/CleverRaven/Cataclysm-DDA/pull/72056))
 * fix broken tests ([#72055](https://github.com/CleverRaven/Cataclysm-DDA/pull/72055))
-* clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
-* [Xedra Evolved] Fix Avalanche Blow ([#72036](https://github.com/CleverRaven/Cataclysm-DDA/pull/72036))
