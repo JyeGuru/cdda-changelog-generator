@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-09-0200 ([f651a52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-09-0200))
+
 * LIXA 2: Son of LIXA ([#72063](https://github.com/CleverRaven/Cataclysm-DDA/pull/72063))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-03-03-0220 ([9a2c309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-0220))
 
 * Update nutrients struct to store calories as a 64-bit integer ([#72105](https://github.com/CleverRaven/Cataclysm-DDA/pull/72105))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-02-2325 ([8fc7e97](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-02-2325))
-
 * Reset user customized `*` actions to default keybindings ([#72045](https://github.com/CleverRaven/Cataclysm-DDA/pull/72045))
 * Routine i18n updates on 02 March 2024 ([#72112](https://github.com/CleverRaven/Cataclysm-DDA/pull/72112))
 * Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet ([#72115](https://github.com/CleverRaven/Cataclysm-DDA/pull/72115))
