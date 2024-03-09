@@ -1,3 +1,4 @@
+* Port some mutation/cbm specific fields to enchantments, part 3 ([#72173](https://github.com/CleverRaven/Cataclysm-DDA/pull/72173))
 
 ---
 
@@ -90,7 +91,6 @@
 * [Xedra Evolved] Add Homullus mutations ([#72205](https://github.com/CleverRaven/Cataclysm-DDA/pull/72205))
 * Changed neoprene patch price from 100 to 5. Resolves issue #71813 ([#72174](https://github.com/CleverRaven/Cataclysm-DDA/pull/72174))
 * [Xedra Evolved] Add goblin fruit map special ([#72189](https://github.com/CleverRaven/Cataclysm-DDA/pull/72189))
-* Fix several issues of NPC movement ([#72072](https://github.com/CleverRaven/Cataclysm-DDA/pull/72072))
 
 ---
 
