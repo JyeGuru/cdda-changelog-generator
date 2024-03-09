@@ -1,3 +1,4 @@
+* LIXA 2: Son of LIXA ([#72063](https://github.com/CleverRaven/Cataclysm-DDA/pull/72063))
 
 ---
 
@@ -206,4 +207,3 @@
 * clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
 * [MoM] Update Night Eyes to the NIGHT_VIS enchantment ([#72033](https://github.com/CleverRaven/Cataclysm-DDA/pull/72033))
 * [Xedra Evolved] Fix Avalanche Blow ([#72036](https://github.com/CleverRaven/Cataclysm-DDA/pull/72036))
-* Fix lang file compilation in Windows build with explicit msys2 setup. ([#72031](https://github.com/CleverRaven/Cataclysm-DDA/pull/72031))
