@@ -1,3 +1,7 @@
+* Summoned Creature Kill Credit (#72230)
+
+Cataclysm-DDA experimental build 2024-03-09-1425 (925f13b)
+* Set terrain memory cache to dirty when setting terrain (#72248)
 
 Cataclysm-DDA experimental build 2024-03-09-0711 (311da93)
 * [Magiclysm] Transparent heartwood (#72191)
@@ -133,6 +137,4 @@ Cataclysm-DDA experimental build 2024-03-03-1344 (069c4d3)
 * [Xedra Evolved] Update Verdant Armor with new enchantments (#72078)
 * Fixing an imgui-related crash related to debug errors (#72074)
 * Imgui keybindings UI mouse broken (#72076)
-* [Xedra Evolved] Paraclesian altar floor rework  (#72061)
 * Fix clang-tidy error in magic_spell_test.cpp (#72067)
-* github/linux: build a more featureful SDL2 library (#72056)

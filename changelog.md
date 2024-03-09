@@ -1,3 +1,10 @@
+* Summoned Creature Kill Credit ([#72230](https://github.com/CleverRaven/Cataclysm-DDA/pull/72230))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-09-1425 ([925f13b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-09-1425))
+
+* Set terrain memory cache to dirty when setting terrain ([#72248](https://github.com/CleverRaven/Cataclysm-DDA/pull/72248))
 
 ---
 
@@ -205,6 +212,4 @@
 * [Xedra Evolved] Update Verdant Armor with new enchantments ([#72078](https://github.com/CleverRaven/Cataclysm-DDA/pull/72078))
 * Fixing an imgui-related crash related to debug errors ([#72074](https://github.com/CleverRaven/Cataclysm-DDA/pull/72074))
 * Imgui keybindings UI mouse broken ([#72076](https://github.com/CleverRaven/Cataclysm-DDA/pull/72076))
-* [Xedra Evolved] Paraclesian altar floor rework  ([#72061](https://github.com/CleverRaven/Cataclysm-DDA/pull/72061))
 * Fix clang-tidy error in magic_spell_test.cpp ([#72067](https://github.com/CleverRaven/Cataclysm-DDA/pull/72067))
-* github/linux: build a more featureful SDL2 library ([#72056](https://github.com/CleverRaven/Cataclysm-DDA/pull/72056))
