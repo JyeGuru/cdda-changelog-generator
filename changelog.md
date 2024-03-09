@@ -1,3 +1,6 @@
+* Update robofac_gun do looks like FN P90 ([#72245](https://github.com/CleverRaven/Cataclysm-DDA/pull/72245))
+* Fix mutant child's description ([#72247](https://github.com/CleverRaven/Cataclysm-DDA/pull/72247))
+* Aftershock: Fix the escape pod sequence (Once and for all?) ([#72225](https://github.com/CleverRaven/Cataclysm-DDA/pull/72225))
 
 ---
 
@@ -196,7 +199,6 @@
 * New mutation field "override_look" that allows the character to have the appearance of a monster. ([#72039](https://github.com/CleverRaven/Cataclysm-DDA/pull/72039))
 * Fixing an ImGui issue where static popups draw at the center of the screen ([#72048](https://github.com/CleverRaven/Cataclysm-DDA/pull/72048))
 * [MoM] Update Speed Reader to use READING_SPEED_MULTIPLIER enchantment ([#72049](https://github.com/CleverRaven/Cataclysm-DDA/pull/72049))
-* Port some mutation/cbm specific fields to enchantments ([#72034](https://github.com/CleverRaven/Cataclysm-DDA/pull/72034))
 * Fixing an imgui-related crash related to debug errors ([#72074](https://github.com/CleverRaven/Cataclysm-DDA/pull/72074))
 * [Magiclysm] Parabolan wool gambesons ([#72054](https://github.com/CleverRaven/Cataclysm-DDA/pull/72054))
 * Imgui keybindings UI mouse broken ([#72076](https://github.com/CleverRaven/Cataclysm-DDA/pull/72076))
@@ -205,5 +207,4 @@
 * github/linux: build a more featureful SDL2 library ([#72056](https://github.com/CleverRaven/Cataclysm-DDA/pull/72056))
 * fix broken tests ([#72055](https://github.com/CleverRaven/Cataclysm-DDA/pull/72055))
 * clear window line by line, skipping untouched lines ([#72035](https://github.com/CleverRaven/Cataclysm-DDA/pull/72035))
-* [MoM] Update Night Eyes to the NIGHT_VIS enchantment ([#72033](https://github.com/CleverRaven/Cataclysm-DDA/pull/72033))
 * [Xedra Evolved] Fix Avalanche Blow ([#72036](https://github.com/CleverRaven/Cataclysm-DDA/pull/72036))
