@@ -1,3 +1,6 @@
+* Add Large Wooden Bowl recipe  ([#72187](https://github.com/CleverRaven/Cataclysm-DDA/pull/72187))
+* [MoM] Hounds of Tindalos can teleport lock you + follow you through teleports ([#72249](https://github.com/CleverRaven/Cataclysm-DDA/pull/72249))
+* fix METABOLISM enchantment `multiply: -1` causing the game to hang ([#72255](https://github.com/CleverRaven/Cataclysm-DDA/pull/72255))
 * Port some mutation/cbm specific fields to enchantments, part 3 ([#72173](https://github.com/CleverRaven/Cataclysm-DDA/pull/72173))
 
 ---
@@ -210,6 +213,3 @@
 * Remove Lemmy Mention ([#72096](https://github.com/CleverRaven/Cataclysm-DDA/pull/72096))
 * [MoM] Update learning EoCs to reuse condition list ([#72080](https://github.com/CleverRaven/Cataclysm-DDA/pull/72080))
 * Routine tileset updates on 01 March 2024 ([#72084](https://github.com/CleverRaven/Cataclysm-DDA/pull/72084))
-* [Xedra Evolved] Update Verdant Armor with new enchantments ([#72078](https://github.com/CleverRaven/Cataclysm-DDA/pull/72078))
-* Fixing an imgui-related crash related to debug errors ([#72074](https://github.com/CleverRaven/Cataclysm-DDA/pull/72074))
-* Imgui keybindings UI mouse broken ([#72076](https://github.com/CleverRaven/Cataclysm-DDA/pull/72076))

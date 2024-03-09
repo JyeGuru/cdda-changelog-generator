@@ -1,3 +1,6 @@
+* Add Large Wooden Bowl recipe  (#72187)
+* [MoM] Hounds of Tindalos can teleport lock you + follow you through teleports (#72249)
+* fix METABOLISM enchantment `multiply: -1` causing the game to hang (#72255)
 * Port some mutation/cbm specific fields to enchantments, part 3 (#72173)
 
 Cataclysm-DDA experimental build 2024-03-09-2216 (2ab8e2f)
@@ -135,6 +138,3 @@ Cataclysm-DDA experimental build 2024-03-03-1927 (a7f1fd1)
 * Remove Lemmy Mention (#72096)
 * [MoM] Update learning EoCs to reuse condition list (#72080)
 * Routine tileset updates on 01 March 2024 (#72084)
-* [Xedra Evolved] Update Verdant Armor with new enchantments (#72078)
-* Fixing an imgui-related crash related to debug errors (#72074)
-* Imgui keybindings UI mouse broken (#72076)
