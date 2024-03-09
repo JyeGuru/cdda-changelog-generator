@@ -1,3 +1,5 @@
+* [XEDRA Evolved] Add ARMOR_ALL enchantment and use it in two new Homullus mutations (#72257)
+* port _ALPHA and INT_SLIME mutations to json (#72226)
 * Summoned Creature Kill Credit (#72230)
 
 Cataclysm-DDA experimental build 2024-03-09-1425 (925f13b)
@@ -18,9 +20,6 @@ Cataclysm-DDA experimental build 2024-03-09-0506 (927c4ba)
 * Update robofac_gun do looks like FN P90 (#72245)
 * Fix mutant child's description (#72247)
 * Aftershock: Fix the escape pod sequence (Once and for all?) (#72225)
-
-Cataclysm-DDA experimental build 2024-03-09-0200 (f651a52)
-* LIXA 2: Son of LIXA (#72063)
 
 Cataclysm-DDA experimental build 2024-03-08-1852 (d2faac4)
 * build with -DIMGUI_DISABLE_OBSOLETE_KEYIO (#72116)
@@ -128,7 +127,6 @@ Cataclysm-DDA experimental build 2024-03-03-1344 (069c4d3)
 * Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet (#72115)
 * fixed mill milling recipes (#72119)
 * ImGui popups with buttons not showing text (#72098)
-* Less repeatedly spawning item groups when checking consistency (#72064)
 * move doc to .h from .cpp (#72100)
 * [Xedra Evolved] Update Paraclesian elemental form sprites (#72088)
 * Remove Lemmy Mention (#72096)

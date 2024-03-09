@@ -1,3 +1,5 @@
+* [XEDRA Evolved] Add ARMOR_ALL enchantment and use it in two new Homullus mutations ([#72257](https://github.com/CleverRaven/Cataclysm-DDA/pull/72257))
+* port _ALPHA and INT_SLIME mutations to json ([#72226](https://github.com/CleverRaven/Cataclysm-DDA/pull/72226))
 * Summoned Creature Kill Credit ([#72230](https://github.com/CleverRaven/Cataclysm-DDA/pull/72230))
 
 ---
@@ -27,12 +29,6 @@
 * Update robofac_gun do looks like FN P90 ([#72245](https://github.com/CleverRaven/Cataclysm-DDA/pull/72245))
 * Fix mutant child's description ([#72247](https://github.com/CleverRaven/Cataclysm-DDA/pull/72247))
 * Aftershock: Fix the escape pod sequence (Once and for all?) ([#72225](https://github.com/CleverRaven/Cataclysm-DDA/pull/72225))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-09-0200 ([f651a52](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-09-0200))
-
-* LIXA 2: Son of LIXA ([#72063](https://github.com/CleverRaven/Cataclysm-DDA/pull/72063))
 
 ---
 
@@ -203,7 +199,6 @@
 * Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet ([#72115](https://github.com/CleverRaven/Cataclysm-DDA/pull/72115))
 * fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
 * ImGui popups with buttons not showing text ([#72098](https://github.com/CleverRaven/Cataclysm-DDA/pull/72098))
-* Less repeatedly spawning item groups when checking consistency ([#72064](https://github.com/CleverRaven/Cataclysm-DDA/pull/72064))
 * move doc to .h from .cpp ([#72100](https://github.com/CleverRaven/Cataclysm-DDA/pull/72100))
 * [Xedra Evolved] Update Paraclesian elemental form sprites ([#72088](https://github.com/CleverRaven/Cataclysm-DDA/pull/72088))
 * Remove Lemmy Mention ([#72096](https://github.com/CleverRaven/Cataclysm-DDA/pull/72096))
