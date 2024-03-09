@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-03-09-2216 (2ab8e2f)
+* docs: clarify parasites property in JSON_INFO (#72240)
+
 Cataclysm-DDA experimental build 2024-03-09-1640 (3601a6a)
 * [XEDRA Evolved] Add ARMOR_ALL enchantment and use it in two new Homullus mutations (#72257)
 * port _ALPHA and INT_SLIME mutations to json (#72226)
@@ -135,4 +138,3 @@ Cataclysm-DDA experimental build 2024-03-03-1927 (a7f1fd1)
 * [Xedra Evolved] Update Verdant Armor with new enchantments (#72078)
 * Fixing an imgui-related crash related to debug errors (#72074)
 * Imgui keybindings UI mouse broken (#72076)
-* Fix clang-tidy error in magic_spell_test.cpp (#72067)

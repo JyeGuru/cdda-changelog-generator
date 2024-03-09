@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-09-2216 ([2ab8e2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-09-2216))
+
+* docs: clarify parasites property in JSON_INFO ([#72240](https://github.com/CleverRaven/Cataclysm-DDA/pull/72240))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-09-1640 ([3601a6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-09-1640))
 
 * [XEDRA Evolved] Add ARMOR_ALL enchantment and use it in two new Homullus mutations ([#72257](https://github.com/CleverRaven/Cataclysm-DDA/pull/72257))
@@ -207,4 +213,3 @@
 * [Xedra Evolved] Update Verdant Armor with new enchantments ([#72078](https://github.com/CleverRaven/Cataclysm-DDA/pull/72078))
 * Fixing an imgui-related crash related to debug errors ([#72074](https://github.com/CleverRaven/Cataclysm-DDA/pull/72074))
 * Imgui keybindings UI mouse broken ([#72076](https://github.com/CleverRaven/Cataclysm-DDA/pull/72076))
-* Fix clang-tidy error in magic_spell_test.cpp ([#72067](https://github.com/CleverRaven/Cataclysm-DDA/pull/72067))
