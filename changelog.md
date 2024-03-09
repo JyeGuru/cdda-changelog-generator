@@ -1,3 +1,4 @@
+* Revert "[BombasticPerks] A new playstyle perk: Enchanting Master" ([#72217](https://github.com/CleverRaven/Cataclysm-DDA/pull/72217))
 * Innawoods Iimestone Audit ([#72214](https://github.com/CleverRaven/Cataclysm-DDA/pull/72214))
 * [Xedra Evolved] More homullus traits ([#72236](https://github.com/CleverRaven/Cataclysm-DDA/pull/72236))
 * Update robofac_gun do looks like FN P90 ([#72245](https://github.com/CleverRaven/Cataclysm-DDA/pull/72245))
@@ -191,7 +192,6 @@
 * fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
 * ImGui popups with buttons not showing text ([#72098](https://github.com/CleverRaven/Cataclysm-DDA/pull/72098))
 * Less repeatedly spawning item groups when checking consistency ([#72064](https://github.com/CleverRaven/Cataclysm-DDA/pull/72064))
-* Made grapeade drink mix actually make grapeade. ([#72038](https://github.com/CleverRaven/Cataclysm-DDA/pull/72038))
 * move doc to .h from .cpp ([#72100](https://github.com/CleverRaven/Cataclysm-DDA/pull/72100))
 * [Xedra Evolved] Update Paraclesian elemental form sprites ([#72088](https://github.com/CleverRaven/Cataclysm-DDA/pull/72088))
 * Remove Lemmy Mention ([#72096](https://github.com/CleverRaven/Cataclysm-DDA/pull/72096))
