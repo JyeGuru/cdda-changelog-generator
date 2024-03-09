@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-09-0506 ([927c4ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-09-0506))
+
 * Revert "[BombasticPerks] A new playstyle perk: Enchanting Master" ([#72217](https://github.com/CleverRaven/Cataclysm-DDA/pull/72217))
 * Innawoods Iimestone Audit ([#72214](https://github.com/CleverRaven/Cataclysm-DDA/pull/72214))
 * [Xedra Evolved] More homullus traits ([#72236](https://github.com/CleverRaven/Cataclysm-DDA/pull/72236))
@@ -180,11 +185,6 @@
 * Collapsed telescoping umbrella doesn't feel uncomfortable when worn ([#72113](https://github.com/CleverRaven/Cataclysm-DDA/pull/72113))
 * [Xedra Evolved] More Salamander and Ierde powers ([#72104](https://github.com/CleverRaven/Cataclysm-DDA/pull/72104))
 * pch: remove pragma once ([#72121](https://github.com/CleverRaven/Cataclysm-DDA/pull/72121))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-03-0220 ([9a2c309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-0220))
-
 * Update nutrients struct to store calories as a 64-bit integer ([#72105](https://github.com/CleverRaven/Cataclysm-DDA/pull/72105))
 * Reset user customized `*` actions to default keybindings ([#72045](https://github.com/CleverRaven/Cataclysm-DDA/pull/72045))
 * Routine i18n updates on 02 March 2024 ([#72112](https://github.com/CleverRaven/Cataclysm-DDA/pull/72112))
