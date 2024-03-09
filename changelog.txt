@@ -1,3 +1,4 @@
+* [MoM] Allow portal storm scars to spawn on roads, in farm fields, and in subways (#72211)
 
 Cataclysm-DDA experimental build 2024-03-09-0506 (927c4ba)
 * Revert "[BombasticPerks] A new playstyle perk: Enchanting Master" (#72217)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2024-03-03-0600 (18bed67)
 * [MoM] Update learning EoCs to reuse condition list (#72080)
 * Routine tileset updates on 01 March 2024 (#72084)
 * [Xedra Evolved] Update Verdant Armor with new enchantments (#72078)
-* New mutation field "override_look" that allows the character to have the appearance of a monster. (#72039)
 * Fixing an ImGui issue where static popups draw at the center of the screen (#72048)
 * [MoM] Update Speed Reader to use READING_SPEED_MULTIPLIER enchantment (#72049)
 * Fixing an imgui-related crash related to debug errors (#72074)

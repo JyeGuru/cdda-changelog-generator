@@ -1,3 +1,4 @@
+* [MoM] Allow portal storm scars to spawn on roads, in farm fields, and in subways ([#72211](https://github.com/CleverRaven/Cataclysm-DDA/pull/72211))
 
 ---
 
@@ -198,7 +199,6 @@
 * [MoM] Update learning EoCs to reuse condition list ([#72080](https://github.com/CleverRaven/Cataclysm-DDA/pull/72080))
 * Routine tileset updates on 01 March 2024 ([#72084](https://github.com/CleverRaven/Cataclysm-DDA/pull/72084))
 * [Xedra Evolved] Update Verdant Armor with new enchantments ([#72078](https://github.com/CleverRaven/Cataclysm-DDA/pull/72078))
-* New mutation field "override_look" that allows the character to have the appearance of a monster. ([#72039](https://github.com/CleverRaven/Cataclysm-DDA/pull/72039))
 * Fixing an ImGui issue where static popups draw at the center of the screen ([#72048](https://github.com/CleverRaven/Cataclysm-DDA/pull/72048))
 * [MoM] Update Speed Reader to use READING_SPEED_MULTIPLIER enchantment ([#72049](https://github.com/CleverRaven/Cataclysm-DDA/pull/72049))
 * Fixing an imgui-related crash related to debug errors ([#72074](https://github.com/CleverRaven/Cataclysm-DDA/pull/72074))
