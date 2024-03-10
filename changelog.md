@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-10-2021 ([4b802fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-10-2021))
+
 * Revert "Create splash attacks and give them to Boomers (#71964)" ([#72169](https://github.com/CleverRaven/Cataclysm-DDA/pull/72169))
 
 ---
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2024-03-04-2037 ([03d25c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-04-2037))
 
 * Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-04-0412 ([2ba772a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-04-0412))
-
 * Permanent marker weight reduction ([#72117](https://github.com/CleverRaven/Cataclysm-DDA/pull/72117))
 * Update ZenFS' sidebars to v2.1.1 ([#72130](https://github.com/CleverRaven/Cataclysm-DDA/pull/72130))
 * [XEDRA] Add Homullus mutations ([#72135](https://github.com/CleverRaven/Cataclysm-DDA/pull/72135))
