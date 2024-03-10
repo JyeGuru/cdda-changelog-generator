@@ -1,3 +1,4 @@
+* Revert "Create splash attacks and give them to Boomers (#71964)" ([#72169](https://github.com/CleverRaven/Cataclysm-DDA/pull/72169))
 
 ---
 
