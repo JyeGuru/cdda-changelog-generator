@@ -1,3 +1,4 @@
+* Non-player faction NPCs need no food. ([#72296](https://github.com/CleverRaven/Cataclysm-DDA/pull/72296))
 
 ---
 
@@ -196,7 +197,6 @@
 * Ritual Circles Work ([#72128](https://github.com/CleverRaven/Cataclysm-DDA/pull/72128))
 * Split vehicle part wheel_caster into small and large variants ([#72089](https://github.com/CleverRaven/Cataclysm-DDA/pull/72089))
 * jmath: don't allow shadowing of built-in functions ([#72120](https://github.com/CleverRaven/Cataclysm-DDA/pull/72120))
-* [Magiclysm] Update goblin teeth and lizardfolk muzzle to techniques ([#72083](https://github.com/CleverRaven/Cataclysm-DDA/pull/72083))
 * Collapsed telescoping umbrella doesn't feel uncomfortable when worn ([#72113](https://github.com/CleverRaven/Cataclysm-DDA/pull/72113))
 * [Xedra Evolved] More Salamander and Ierde powers ([#72104](https://github.com/CleverRaven/Cataclysm-DDA/pull/72104))
 * pch: remove pragma once ([#72121](https://github.com/CleverRaven/Cataclysm-DDA/pull/72121))
