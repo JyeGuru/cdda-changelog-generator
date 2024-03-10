@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-10-2322 (1f4f45c)
 * Non-player faction NPCs need no food. (#72296)
 
 Cataclysm-DDA experimental build 2024-03-10-2021 (4b802fa)
