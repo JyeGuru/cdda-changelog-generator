@@ -1,3 +1,11 @@
+* Adjust pony wall construction ([#72284](https://github.com/CleverRaven/Cataclysm-DDA/pull/72284))
+* Stop eating butternuts with shell ([#72282](https://github.com/CleverRaven/Cataclysm-DDA/pull/72282))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-10-1452 ([423bc10](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-10-1452))
+
+* Pickaxe_list and rope_natural relevant Fix ([#72175](https://github.com/CleverRaven/Cataclysm-DDA/pull/72175))
 
 ---
 
@@ -55,12 +63,6 @@
 #### Cataclysm-DDA experimental build 2024-03-08-1852 ([d2faac4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-08-1852))
 
 * build with -DIMGUI_DISABLE_OBSOLETE_KEYIO ([#72116](https://github.com/CleverRaven/Cataclysm-DDA/pull/72116))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-08-1439 ([5f56f80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-08-1439))
-
-* [Bombastic Perks] Add more perks ([#72079](https://github.com/CleverRaven/Cataclysm-DDA/pull/72079))
 
 ---
 
@@ -173,7 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-03-04-2037 ([03d25c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-04-2037))
 
 * Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
-* [Magiclysm] Update Cloak of Elvenkind to use new enchantments ([#72081](https://github.com/CleverRaven/Cataclysm-DDA/pull/72081))
 
 ---
 
@@ -188,11 +189,6 @@
 
 * [XEDRA] Add Homullus mutations ([#72135](https://github.com/CleverRaven/Cataclysm-DDA/pull/72135))
 * Reorder some clang-tidy checks in .clang-tidy ([#72139](https://github.com/CleverRaven/Cataclysm-DDA/pull/72139))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-03-2216 ([fec5d5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-03-2216))
-
 * [MoM] Fix Far Hand's range ([#72144](https://github.com/CleverRaven/Cataclysm-DDA/pull/72144))
 * [Xedra Evolved] Add animal friendship traits to Ierde, Undine, and Arvore ([#72143](https://github.com/CleverRaven/Cataclysm-DDA/pull/72143))
 * [Xedra Evolved] Add GLARE quality to Salamander eyes ([#72133](https://github.com/CleverRaven/Cataclysm-DDA/pull/72133))
@@ -211,5 +207,4 @@
 * move doc to .h from .cpp ([#72100](https://github.com/CleverRaven/Cataclysm-DDA/pull/72100))
 * [Xedra Evolved] Update Paraclesian elemental form sprites ([#72088](https://github.com/CleverRaven/Cataclysm-DDA/pull/72088))
 * Remove Lemmy Mention ([#72096](https://github.com/CleverRaven/Cataclysm-DDA/pull/72096))
-* [MoM] Update learning EoCs to reuse condition list ([#72080](https://github.com/CleverRaven/Cataclysm-DDA/pull/72080))
 * Routine tileset updates on 01 March 2024 ([#72084](https://github.com/CleverRaven/Cataclysm-DDA/pull/72084))
