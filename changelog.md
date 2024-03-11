@@ -214,4 +214,3 @@
 * fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
 * ImGui popups with buttons not showing text ([#72098](https://github.com/CleverRaven/Cataclysm-DDA/pull/72098))
 * move doc to .h from .cpp ([#72100](https://github.com/CleverRaven/Cataclysm-DDA/pull/72100))
-* Remove Lemmy Mention ([#72096](https://github.com/CleverRaven/Cataclysm-DDA/pull/72096))
