@@ -1,3 +1,4 @@
+* [MoM] Rework Nether Attunement (make it rise faster and fall faster) ([#72310](https://github.com/CleverRaven/Cataclysm-DDA/pull/72310))
 
 ---
 
@@ -194,7 +195,6 @@
 * Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
 * docs on compiling: friendlier to first-time contributors ([#72166](https://github.com/CleverRaven/Cataclysm-DDA/pull/72166))
 * Add the option to open the ImGui demo from the main menu for debugging ([#72171](https://github.com/CleverRaven/Cataclysm-DDA/pull/72171))
-* Remove mention of Lemmy from CDDA website ([#72097](https://github.com/CleverRaven/Cataclysm-DDA/pull/72097))
 * Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
 * Permanent marker weight reduction ([#72117](https://github.com/CleverRaven/Cataclysm-DDA/pull/72117))
 * Update ZenFS' sidebars to v2.1.1 ([#72130](https://github.com/CleverRaven/Cataclysm-DDA/pull/72130))
