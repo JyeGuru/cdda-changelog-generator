@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-11-0458 ([84b2f37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-11-0458))
+
 * mom: remove no-effect relic_data ([#72304](https://github.com/CleverRaven/Cataclysm-DDA/pull/72304))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-03-05-0703 ([23efc74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-0703))
 
 * docs on compiling: friendlier to first-time contributors ([#72166](https://github.com/CleverRaven/Cataclysm-DDA/pull/72166))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-05-0210 ([0673c53](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-0210))
-
 * Add the option to open the ImGui demo from the main menu for debugging ([#72171](https://github.com/CleverRaven/Cataclysm-DDA/pull/72171))
 * Remove mention of Lemmy from CDDA website ([#72097](https://github.com/CleverRaven/Cataclysm-DDA/pull/72097))
 * Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
