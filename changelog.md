@@ -1,3 +1,4 @@
+* mom: remove no-effect relic_data ([#72304](https://github.com/CleverRaven/Cataclysm-DDA/pull/72304))
 
 ---
 
@@ -202,7 +203,6 @@
 * [Xedra Evolved] Add animal friendship traits to Ierde, Undine, and Arvore ([#72143](https://github.com/CleverRaven/Cataclysm-DDA/pull/72143))
 * [Xedra Evolved] Add GLARE quality to Salamander eyes ([#72133](https://github.com/CleverRaven/Cataclysm-DDA/pull/72133))
 * Ritual Circles Work ([#72128](https://github.com/CleverRaven/Cataclysm-DDA/pull/72128))
-* Split vehicle part wheel_caster into small and large variants ([#72089](https://github.com/CleverRaven/Cataclysm-DDA/pull/72089))
 * jmath: don't allow shadowing of built-in functions ([#72120](https://github.com/CleverRaven/Cataclysm-DDA/pull/72120))
 * Collapsed telescoping umbrella doesn't feel uncomfortable when worn ([#72113](https://github.com/CleverRaven/Cataclysm-DDA/pull/72113))
 * [Xedra Evolved] More Salamander and Ierde powers ([#72104](https://github.com/CleverRaven/Cataclysm-DDA/pull/72104))

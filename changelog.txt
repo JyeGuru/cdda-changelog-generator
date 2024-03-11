@@ -1,3 +1,4 @@
+* mom: remove no-effect relic_data (#72304)
 
 Cataclysm-DDA experimental build 2024-03-11-0213 (a32ea18)
 * fix: use root floor above root doors (#72308)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2024-03-05-0210 (0673c53)
 * [Xedra Evolved] Add animal friendship traits to Ierde, Undine, and Arvore (#72143)
 * [Xedra Evolved] Add GLARE quality to Salamander eyes (#72133)
 * Ritual Circles Work (#72128)
-* Split vehicle part wheel_caster into small and large variants (#72089)
 * jmath: don't allow shadowing of built-in functions (#72120)
 * Collapsed telescoping umbrella doesn't feel uncomfortable when worn (#72113)
 * [Xedra Evolved] More Salamander and Ierde powers (#72104)
