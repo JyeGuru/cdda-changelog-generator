@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-11-2314 ([42b440d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-11-2314))
+
 * [MoM] Rework Nether Attunement (make it rise faster and fall faster) ([#72310](https://github.com/CleverRaven/Cataclysm-DDA/pull/72310))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-03-05-1742 ([ccc0118](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-1742))
 
 * Update SDL version used by Android to v2.30.0 ([#72154](https://github.com/CleverRaven/Cataclysm-DDA/pull/72154))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-05-0934 ([d05fefb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-0934))
-
 * Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
 * docs on compiling: friendlier to first-time contributors ([#72166](https://github.com/CleverRaven/Cataclysm-DDA/pull/72166))
 * Add the option to open the ImGui demo from the main menu for debugging ([#72171](https://github.com/CleverRaven/Cataclysm-DDA/pull/72171))
