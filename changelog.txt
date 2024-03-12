@@ -1,3 +1,4 @@
+* [ Xedra Evolved] Remove Bash from Zoomorphic Figurine (#72314)
 
 Cataclysm-DDA experimental build 2024-03-12-0457 (d14f0ab)
 * refine calculations of WEAKNESS_TO_WATER (#72324)
@@ -85,7 +86,6 @@ Cataclysm-DDA experimental build 2024-03-08-0254 (0ea4865)
 Cataclysm-DDA experimental build 2024-03-07-2353 (e46ffd3)
 * Revert #69555 (#72172)
 * make amigara death drop stuff near the character (#72227)
-* Port some mutation/cbm specific fields to enchantments, part 2 (#72106)
 
 Cataclysm-DDA experimental build 2024-03-07-2013 (c5225cf)
 * NPCs will  prioritize wielding ranged weapons when allowed. (#72222)

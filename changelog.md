@@ -1,3 +1,4 @@
+* [ Xedra Evolved] Remove Bash from Zoomorphic Figurine ([#72314](https://github.com/CleverRaven/Cataclysm-DDA/pull/72314))
 
 ---
 
@@ -148,7 +149,6 @@
 
 * Revert #69555 ([#72172](https://github.com/CleverRaven/Cataclysm-DDA/pull/72172))
 * make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
-* Port some mutation/cbm specific fields to enchantments, part 2 ([#72106](https://github.com/CleverRaven/Cataclysm-DDA/pull/72106))
 
 ---
 
