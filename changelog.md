@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-12-0457 ([d14f0ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-12-0457))
+
 * refine calculations of WEAKNESS_TO_WATER ([#72324](https://github.com/CleverRaven/Cataclysm-DDA/pull/72324))
 * Item groups can define crafted components for an item ([#72327](https://github.com/CleverRaven/Cataclysm-DDA/pull/72327))
 * [MoM] Update hobby skill numbers ([#72321](https://github.com/CleverRaven/Cataclysm-DDA/pull/72321))
@@ -189,11 +194,6 @@
 * higher "parasites" actually means lower chance of parasites ([#72178](https://github.com/CleverRaven/Cataclysm-DDA/pull/72178))
 * do not scope creep! ([#72161](https://github.com/CleverRaven/Cataclysm-DDA/pull/72161))
 * Small mapgen fix ([#72151](https://github.com/CleverRaven/Cataclysm-DDA/pull/72151))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-05-2010 ([7d3234e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-2010))
-
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes ([#72186](https://github.com/CleverRaven/Cataclysm-DDA/pull/72186))
 * Update SDL version used by Android to v2.30.0 ([#72154](https://github.com/CleverRaven/Cataclysm-DDA/pull/72154))
 * Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
