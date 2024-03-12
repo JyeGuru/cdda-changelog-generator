@@ -1,3 +1,5 @@
+* refine calculations of WEAKNESS_TO_WATER ([#72324](https://github.com/CleverRaven/Cataclysm-DDA/pull/72324))
+* Item groups can define crafted components for an item ([#72327](https://github.com/CleverRaven/Cataclysm-DDA/pull/72327))
 * [MoM] Update hobby skill numbers ([#72321](https://github.com/CleverRaven/Cataclysm-DDA/pull/72321))
 
 ---
@@ -208,9 +210,7 @@
 * Ritual Circles Work ([#72128](https://github.com/CleverRaven/Cataclysm-DDA/pull/72128))
 * jmath: don't allow shadowing of built-in functions ([#72120](https://github.com/CleverRaven/Cataclysm-DDA/pull/72120))
 * Collapsed telescoping umbrella doesn't feel uncomfortable when worn ([#72113](https://github.com/CleverRaven/Cataclysm-DDA/pull/72113))
-* [Xedra Evolved] More Salamander and Ierde powers ([#72104](https://github.com/CleverRaven/Cataclysm-DDA/pull/72104))
 * pch: remove pragma once ([#72121](https://github.com/CleverRaven/Cataclysm-DDA/pull/72121))
-* Update nutrients struct to store calories as a 64-bit integer ([#72105](https://github.com/CleverRaven/Cataclysm-DDA/pull/72105))
 * Routine i18n updates on 02 March 2024 ([#72112](https://github.com/CleverRaven/Cataclysm-DDA/pull/72112))
 * Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet ([#72115](https://github.com/CleverRaven/Cataclysm-DDA/pull/72115))
 * fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
