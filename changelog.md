@@ -1,3 +1,4 @@
+* [MoM] Update hobby skill numbers ([#72321](https://github.com/CleverRaven/Cataclysm-DDA/pull/72321))
 
 ---
 
@@ -213,4 +214,3 @@
 * Routine i18n updates on 02 March 2024 ([#72112](https://github.com/CleverRaven/Cataclysm-DDA/pull/72112))
 * Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet ([#72115](https://github.com/CleverRaven/Cataclysm-DDA/pull/72115))
 * fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
-* move doc to .h from .cpp ([#72100](https://github.com/CleverRaven/Cataclysm-DDA/pull/72100))
