@@ -1,3 +1,4 @@
+* Eggplants are veggy ([#72273](https://github.com/CleverRaven/Cataclysm-DDA/pull/72273))
 * [ Xedra Evolved] Remove Bash from Zoomorphic Figurine ([#72314](https://github.com/CleverRaven/Cataclysm-DDA/pull/72314))
 
 ---
