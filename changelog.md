@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-12-2129 ([6b5ecb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-12-2129))
+
 * [Xedra Evolved] Fae armor and harvest changes ([#72332](https://github.com/CleverRaven/Cataclysm-DDA/pull/72332))
 
 ---
@@ -198,11 +203,6 @@
 * Added 3-finger gestures to Android ([#72196](https://github.com/CleverRaven/Cataclysm-DDA/pull/72196))
 * Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
 * Partially revert Seasonal Mutation EOCs #69591 by @fairyarmadillo ([#72163](https://github.com/CleverRaven/Cataclysm-DDA/pull/72163))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-06-1941 ([e3a1c50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-06-1941))
-
 * NPCs are better at finding places to sleep, heavily prefer real beds ([#72190](https://github.com/CleverRaven/Cataclysm-DDA/pull/72190))
 * higher "parasites" actually means lower chance of parasites ([#72178](https://github.com/CleverRaven/Cataclysm-DDA/pull/72178))
 * do not scope creep! ([#72161](https://github.com/CleverRaven/Cataclysm-DDA/pull/72161))
