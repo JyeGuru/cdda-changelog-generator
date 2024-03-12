@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fae armor and harvest changes (#72332)
 
 Cataclysm-DDA experimental build 2024-03-12-1740 (8ddee8e)
 * Enhance the XEDRA Evolved weakening effect to its original intended use. (#72312)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2024-03-06-1941 (e3a1c50)
 * [Xedra Evolved] Add GLARE quality to Salamander eyes (#72133)
 * Ritual Circles Work (#72128)
 * jmath: don't allow shadowing of built-in functions (#72120)
-* Collapsed telescoping umbrella doesn't feel uncomfortable when worn (#72113)
 * pch: remove pragma once (#72121)
 * Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet (#72115)
 * fixed mill milling recipes (#72119)

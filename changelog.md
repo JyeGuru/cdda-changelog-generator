@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fae armor and harvest changes ([#72332](https://github.com/CleverRaven/Cataclysm-DDA/pull/72332))
 
 ---
 
@@ -221,7 +222,6 @@
 * [Xedra Evolved] Add GLARE quality to Salamander eyes ([#72133](https://github.com/CleverRaven/Cataclysm-DDA/pull/72133))
 * Ritual Circles Work ([#72128](https://github.com/CleverRaven/Cataclysm-DDA/pull/72128))
 * jmath: don't allow shadowing of built-in functions ([#72120](https://github.com/CleverRaven/Cataclysm-DDA/pull/72120))
-* Collapsed telescoping umbrella doesn't feel uncomfortable when worn ([#72113](https://github.com/CleverRaven/Cataclysm-DDA/pull/72113))
 * pch: remove pragma once ([#72121](https://github.com/CleverRaven/Cataclysm-DDA/pull/72121))
 * Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet ([#72115](https://github.com/CleverRaven/Cataclysm-DDA/pull/72115))
 * fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
