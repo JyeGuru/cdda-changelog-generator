@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-12-0240 ([38091ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-12-0240))
+
+* [MoM] Add [Ψ] to the various psi-created pseudoitems ([#72322](https://github.com/CleverRaven/Cataclysm-DDA/pull/72322))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-11-2314 ([42b440d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-11-2314))
 
 * [MoM] Rework Nether Attunement (make it rise faster and fall faster) ([#72310](https://github.com/CleverRaven/Cataclysm-DDA/pull/72310))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-03-05-2010 ([7d3234e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-2010))
 
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes ([#72186](https://github.com/CleverRaven/Cataclysm-DDA/pull/72186))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-05-1742 ([ccc0118](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-05-1742))
-
 * Update SDL version used by Android to v2.30.0 ([#72154](https://github.com/CleverRaven/Cataclysm-DDA/pull/72154))
 * Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
 * docs on compiling: friendlier to first-time contributors ([#72166](https://github.com/CleverRaven/Cataclysm-DDA/pull/72166))
@@ -212,5 +213,4 @@
 * Routine i18n updates on 02 March 2024 ([#72112](https://github.com/CleverRaven/Cataclysm-DDA/pull/72112))
 * Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet ([#72115](https://github.com/CleverRaven/Cataclysm-DDA/pull/72115))
 * fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
-* ImGui popups with buttons not showing text ([#72098](https://github.com/CleverRaven/Cataclysm-DDA/pull/72098))
 * move doc to .h from .cpp ([#72100](https://github.com/CleverRaven/Cataclysm-DDA/pull/72100))
