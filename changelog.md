@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-12-0747 ([3ccc5fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-12-0747))
+
 * Eggplants are veggy ([#72273](https://github.com/CleverRaven/Cataclysm-DDA/pull/72273))
 * [ Xedra Evolved] Remove Bash from Zoomorphic Figurine ([#72314](https://github.com/CleverRaven/Cataclysm-DDA/pull/72314))
 
