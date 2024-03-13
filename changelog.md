@@ -1,3 +1,5 @@
+* Fungal enemies should not be able to revive ([#72243](https://github.com/CleverRaven/Cataclysm-DDA/pull/72243))
+* [Magiclysm] Technomancer Binoculars Spell ([#72251](https://github.com/CleverRaven/Cataclysm-DDA/pull/72251))
 * Update README.md to remove no longer relevant Bountysource link ([#72275](https://github.com/CleverRaven/Cataclysm-DDA/pull/72275))
 * Make chain link fences use mild steel ([#72285](https://github.com/CleverRaven/Cataclysm-DDA/pull/72285))
 * Make nomad chainmail copy from chainmail jumpsuit ([#72291](https://github.com/CleverRaven/Cataclysm-DDA/pull/72291))
@@ -190,7 +192,6 @@
 * Changed neoprene patch price from 100 to 5. Resolves issue #71813 ([#72174](https://github.com/CleverRaven/Cataclysm-DDA/pull/72174))
 * [Xedra Evolved] Add goblin fruit map special ([#72189](https://github.com/CleverRaven/Cataclysm-DDA/pull/72189))
 * fix birdsot ammo in beanbag can ([#72199](https://github.com/CleverRaven/Cataclysm-DDA/pull/72199))
-* Mutation list computer function ([#72132](https://github.com/CleverRaven/Cataclysm-DDA/pull/72132))
 * Remove the requirement to link with clangTidy ([#72140](https://github.com/CleverRaven/Cataclysm-DDA/pull/72140))
 * Faults can modify the price of an item ([#72142](https://github.com/CleverRaven/Cataclysm-DDA/pull/72142))
 * Enhanced debug backpack to carry liquids/gasses, utility use_action ([#72165](https://github.com/CleverRaven/Cataclysm-DDA/pull/72165))
@@ -219,4 +220,3 @@
 * Reorder some clang-tidy checks in .clang-tidy ([#72139](https://github.com/CleverRaven/Cataclysm-DDA/pull/72139))
 * [MoM] Fix Far Hand's range ([#72144](https://github.com/CleverRaven/Cataclysm-DDA/pull/72144))
 * [Xedra Evolved] Add animal friendship traits to Ierde, Undine, and Arvore ([#72143](https://github.com/CleverRaven/Cataclysm-DDA/pull/72143))
-* [Xedra Evolved] Add GLARE quality to Salamander eyes ([#72133](https://github.com/CleverRaven/Cataclysm-DDA/pull/72133))
