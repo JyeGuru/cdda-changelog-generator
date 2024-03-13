@@ -1,3 +1,4 @@
+* Fix XEDRA evolved typo that I caused ([#72371](https://github.com/CleverRaven/Cataclysm-DDA/pull/72371))
 * Relocate Russell at New England church retreat ([#72368](https://github.com/CleverRaven/Cataclysm-DDA/pull/72368))
 
 ---
@@ -224,4 +225,3 @@
 * docs on compiling: friendlier to first-time contributors ([#72166](https://github.com/CleverRaven/Cataclysm-DDA/pull/72166))
 * Add the option to open the ImGui demo from the main menu for debugging ([#72171](https://github.com/CleverRaven/Cataclysm-DDA/pull/72171))
 * Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
-* [MoM] Fix Far Hand's range ([#72144](https://github.com/CleverRaven/Cataclysm-DDA/pull/72144))
