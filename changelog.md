@@ -1,3 +1,4 @@
+* Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
 
 ---
 
@@ -199,7 +200,6 @@
 * Changed neoprene patch price from 100 to 5. Resolves issue #71813 ([#72174](https://github.com/CleverRaven/Cataclysm-DDA/pull/72174))
 * [Xedra Evolved] Add goblin fruit map special ([#72189](https://github.com/CleverRaven/Cataclysm-DDA/pull/72189))
 * fix birdsot ammo in beanbag can ([#72199](https://github.com/CleverRaven/Cataclysm-DDA/pull/72199))
-* Remove the requirement to link with clangTidy ([#72140](https://github.com/CleverRaven/Cataclysm-DDA/pull/72140))
 * Faults can modify the price of an item ([#72142](https://github.com/CleverRaven/Cataclysm-DDA/pull/72142))
 * Enhanced debug backpack to carry liquids/gasses, utility use_action ([#72165](https://github.com/CleverRaven/Cataclysm-DDA/pull/72165))
 * [Magiclysm] Remove trailing space in Aquatic Mantle's name ([#72200](https://github.com/CleverRaven/Cataclysm-DDA/pull/72200))
