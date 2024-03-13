@@ -1,3 +1,7 @@
+* Set proper overmap terrain for innawoods cave specials (#72305)
+
+Cataclysm-DDA experimental build 2024-03-13-0130 (96cca64)
+* Remove nonexistent `size` from documentation, clarify steam store page word (#72346)
 
 Cataclysm-DDA experimental build 2024-03-12-2129 (6b5ecb0)
 * [Xedra Evolved] Fae armor and harvest changes (#72332)
@@ -79,9 +83,6 @@ Cataclysm-DDA experimental build 2024-03-09-0506 (927c4ba)
 * Fix mutant child's description (#72247)
 * Aftershock: Fix the escape pod sequence (Once and for all?) (#72225)
 
-Cataclysm-DDA experimental build 2024-03-08-1852 (d2faac4)
-* build with -DIMGUI_DISABLE_OBSOLETE_KEYIO (#72116)
-
 Cataclysm-DDA experimental build 2024-03-08-0523 (9f08089)
 * [Xedra Evolved] Fix Arvore Commune with Nature scaling + add standard jmath post-threshold doubling (#72231)
 
@@ -103,8 +104,6 @@ Cataclysm-DDA experimental build 2024-03-07-0457 (d861825)
 * [Xedra Evolved] Add Homullus mutations (#72205)
 * Changed neoprene patch price from 100 to 5. Resolves issue #71813 (#72174)
 * [Xedra Evolved] Add goblin fruit map special (#72189)
-
-Cataclysm-DDA experimental build 2024-03-06-2243 (0092ef6)
 * fix birdsot ammo in beanbag can (#72199)
 * Code clearing window was using global font instead of the font actual… (#72127)
 * Mutation list computer function (#72132)
@@ -132,7 +131,6 @@ Cataclysm-DDA experimental build 2024-03-06-2243 (0092ef6)
 * docs on compiling: friendlier to first-time contributors (#72166)
 * Add the option to open the ImGui demo from the main menu for debugging (#72171)
 * Update the standard building palette (#72164)
-* Permanent marker weight reduction (#72117)
 * Update ZenFS' sidebars to v2.1.1 (#72130)
 * [XEDRA] Add Homullus mutations (#72135)
 * Reorder some clang-tidy checks in .clang-tidy (#72139)
