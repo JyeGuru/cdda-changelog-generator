@@ -1,3 +1,5 @@
+* Fix recipe_id conflicts in in-repo mods ([#72209](https://github.com/CleverRaven/Cataclysm-DDA/pull/72209))
+* Integratedify Feathers ([#72233](https://github.com/CleverRaven/Cataclysm-DDA/pull/72233))
 
 ---
 
@@ -221,7 +223,5 @@
 * docs on compiling: friendlier to first-time contributors ([#72166](https://github.com/CleverRaven/Cataclysm-DDA/pull/72166))
 * Add the option to open the ImGui demo from the main menu for debugging ([#72171](https://github.com/CleverRaven/Cataclysm-DDA/pull/72171))
 * Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
-* [XEDRA] Add Homullus mutations ([#72135](https://github.com/CleverRaven/Cataclysm-DDA/pull/72135))
-* Reorder some clang-tidy checks in .clang-tidy ([#72139](https://github.com/CleverRaven/Cataclysm-DDA/pull/72139))
 * [MoM] Fix Far Hand's range ([#72144](https://github.com/CleverRaven/Cataclysm-DDA/pull/72144))
 * [Xedra Evolved] Add animal friendship traits to Ierde, Undine, and Arvore ([#72143](https://github.com/CleverRaven/Cataclysm-DDA/pull/72143))

@@ -1,3 +1,5 @@
+* Fix recipe_id conflicts in in-repo mods (#72209)
+* Integratedify Feathers (#72233)
 
 Cataclysm-DDA experimental build 2024-03-13-0502 (47b765b)
 * Fungal enemies should not be able to revive (#72243)
@@ -140,7 +142,5 @@ Cataclysm-DDA experimental build 2024-03-07-0457 (d861825)
 * docs on compiling: friendlier to first-time contributors (#72166)
 * Add the option to open the ImGui demo from the main menu for debugging (#72171)
 * Update the standard building palette (#72164)
-* [XEDRA] Add Homullus mutations (#72135)
-* Reorder some clang-tidy checks in .clang-tidy (#72139)
 * [MoM] Fix Far Hand's range (#72144)
 * [Xedra Evolved] Add animal friendship traits to Ierde, Undine, and Arvore (#72143)
