@@ -223,5 +223,4 @@
 * Ritual Circles Work ([#72128](https://github.com/CleverRaven/Cataclysm-DDA/pull/72128))
 * jmath: don't allow shadowing of built-in functions ([#72120](https://github.com/CleverRaven/Cataclysm-DDA/pull/72120))
 * pch: remove pragma once ([#72121](https://github.com/CleverRaven/Cataclysm-DDA/pull/72121))
-* Ability to disassemble flags into sheets + fix cotton sheet yield from regular sheet ([#72115](https://github.com/CleverRaven/Cataclysm-DDA/pull/72115))
 * fixed mill milling recipes ([#72119](https://github.com/CleverRaven/Cataclysm-DDA/pull/72119))
