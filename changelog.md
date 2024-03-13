@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-13-1529 ([0f487c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1529))
+
+* fix clang tidy fails ([#72361](https://github.com/CleverRaven/Cataclysm-DDA/pull/72361))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-13-1047 ([6f5392e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1047))
 
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
@@ -188,11 +194,6 @@
 * [MOM] Fix: Intuitive artisan does nothing ([#72221](https://github.com/CleverRaven/Cataclysm-DDA/pull/72221))
 * Fixed a crash with ImTui on a fresh CDDA install ([#72235](https://github.com/CleverRaven/Cataclysm-DDA/pull/72235))
 * Assign default value of 1.0 for fault price modifiers, instead of 0 ([#72237](https://github.com/CleverRaven/Cataclysm-DDA/pull/72237))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-07-2353 ([e46ffd3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-07-2353))
-
 * Revert #69555 ([#72172](https://github.com/CleverRaven/Cataclysm-DDA/pull/72172))
 * make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
 * NPCs will  prioritize wielding ranged weapons when allowed. ([#72222](https://github.com/CleverRaven/Cataclysm-DDA/pull/72222))
@@ -200,7 +201,6 @@
 * Changed neoprene patch price from 100 to 5. Resolves issue #71813 ([#72174](https://github.com/CleverRaven/Cataclysm-DDA/pull/72174))
 * [Xedra Evolved] Add goblin fruit map special ([#72189](https://github.com/CleverRaven/Cataclysm-DDA/pull/72189))
 * fix birdsot ammo in beanbag can ([#72199](https://github.com/CleverRaven/Cataclysm-DDA/pull/72199))
-* Faults can modify the price of an item ([#72142](https://github.com/CleverRaven/Cataclysm-DDA/pull/72142))
 * Enhanced debug backpack to carry liquids/gasses, utility use_action ([#72165](https://github.com/CleverRaven/Cataclysm-DDA/pull/72165))
 * [Magiclysm] Remove trailing space in Aquatic Mantle's name ([#72200](https://github.com/CleverRaven/Cataclysm-DDA/pull/72200))
 * [MOM] Remove left over learn_spell from Intuitive Artisan ([#72197](https://github.com/CleverRaven/Cataclysm-DDA/pull/72197))
