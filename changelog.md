@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-13-0502 ([47b765b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-0502))
+
 * Fungal enemies should not be able to revive ([#72243](https://github.com/CleverRaven/Cataclysm-DDA/pull/72243))
 * [Magiclysm] Technomancer Binoculars Spell ([#72251](https://github.com/CleverRaven/Cataclysm-DDA/pull/72251))
 * Update README.md to remove no longer relevant Bountysource link ([#72275](https://github.com/CleverRaven/Cataclysm-DDA/pull/72275))
