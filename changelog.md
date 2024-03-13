@@ -1,3 +1,4 @@
+* Relocate Russell at New England church retreat ([#72368](https://github.com/CleverRaven/Cataclysm-DDA/pull/72368))
 
 ---
 
@@ -224,4 +225,3 @@
 * Add the option to open the ImGui demo from the main menu for debugging ([#72171](https://github.com/CleverRaven/Cataclysm-DDA/pull/72171))
 * Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
 * [MoM] Fix Far Hand's range ([#72144](https://github.com/CleverRaven/Cataclysm-DDA/pull/72144))
-* [Xedra Evolved] Add animal friendship traits to Ierde, Undine, and Arvore ([#72143](https://github.com/CleverRaven/Cataclysm-DDA/pull/72143))
