@@ -1,3 +1,5 @@
+* added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
+* Add a check for duplicate recipe_ids on load ([#72220](https://github.com/CleverRaven/Cataclysm-DDA/pull/72220))
 * Add ImGui support to Android ([#72345](https://github.com/CleverRaven/Cataclysm-DDA/pull/72345))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
 * Refactor camp hunting function ([#72234](https://github.com/CleverRaven/Cataclysm-DDA/pull/72234))
@@ -149,12 +151,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-03-10-2021 ([4b802fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-10-2021))
-
-* Revert "Create splash attacks and give them to Boomers (#71964)" ([#72169](https://github.com/CleverRaven/Cataclysm-DDA/pull/72169))
-
----
-
 #### Cataclysm-DDA experimental build 2024-03-10-1718 ([03b2540](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-10-1718))
 
 * Adjust pony wall construction ([#72284](https://github.com/CleverRaven/Cataclysm-DDA/pull/72284))
@@ -233,7 +229,6 @@
 * [MOM] Remove left over learn_spell from Intuitive Artisan ([#72197](https://github.com/CleverRaven/Cataclysm-DDA/pull/72197))
 * use item/tname instead of its raw name (nname) in recipe menu ([#72202](https://github.com/CleverRaven/Cataclysm-DDA/pull/72202))
 * Some more mapgen fixes ([#72206](https://github.com/CleverRaven/Cataclysm-DDA/pull/72206))
-* Re-tweak one sentence in last delivery mission  ([#72168](https://github.com/CleverRaven/Cataclysm-DDA/pull/72168))
 * Paper wrapper should have tinder flag ([#72177](https://github.com/CleverRaven/Cataclysm-DDA/pull/72177))
 * Fix item group birthdays ([#72194](https://github.com/CleverRaven/Cataclysm-DDA/pull/72194))
 * Added 3-finger gestures to Android ([#72196](https://github.com/CleverRaven/Cataclysm-DDA/pull/72196))
