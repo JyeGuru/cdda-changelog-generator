@@ -1,3 +1,10 @@
+* Unwield bionic weapons before wielding other weapons or acting a holster ([#72300](https://github.com/CleverRaven/Cataclysm-DDA/pull/72300))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-14-1814 ([16e2dce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-1814))
+
+* Update ImGui window positions on every resize ([#72353](https://github.com/CleverRaven/Cataclysm-DDA/pull/72353))
 
 ---
 
@@ -229,10 +236,8 @@
 * Fix item group birthdays ([#72194](https://github.com/CleverRaven/Cataclysm-DDA/pull/72194))
 * Added 3-finger gestures to Android ([#72196](https://github.com/CleverRaven/Cataclysm-DDA/pull/72196))
 * Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
-* Partially revert Seasonal Mutation EOCs #69591 by @fairyarmadillo ([#72163](https://github.com/CleverRaven/Cataclysm-DDA/pull/72163))
 * NPCs are better at finding places to sleep, heavily prefer real beds ([#72190](https://github.com/CleverRaven/Cataclysm-DDA/pull/72190))
 * higher "parasites" actually means lower chance of parasites ([#72178](https://github.com/CleverRaven/Cataclysm-DDA/pull/72178))
-* do not scope creep! ([#72161](https://github.com/CleverRaven/Cataclysm-DDA/pull/72161))
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes ([#72186](https://github.com/CleverRaven/Cataclysm-DDA/pull/72186))
 * Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
 * docs on compiling: friendlier to first-time contributors ([#72166](https://github.com/CleverRaven/Cataclysm-DDA/pull/72166))

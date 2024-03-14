@@ -1,3 +1,7 @@
+* Unwield bionic weapons before wielding other weapons or acting a holster (#72300)
+
+Cataclysm-DDA experimental build 2024-03-14-1814 (16e2dce)
+* Update ImGui window positions on every resize (#72353)
 
 Cataclysm-DDA experimental build 2024-03-14-0742 (31c9dbe)
 * Bad density (#72369)
@@ -142,10 +146,8 @@ Cataclysm-DDA experimental build 2024-03-09-0506 (927c4ba)
 * Fix item group birthdays (#72194)
 * Added 3-finger gestures to Android (#72196)
 * Fix MSVC release build translations compilation (#72207)
-* Partially revert Seasonal Mutation EOCs #69591 by @fairyarmadillo (#72163)
 * NPCs are better at finding places to sleep, heavily prefer real beds (#72190)
 * higher "parasites" actually means lower chance of parasites (#72178)
-* do not scope creep! (#72161)
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes (#72186)
 * Fix robot lor reference (#72176)
 * docs on compiling: friendlier to first-time contributors (#72166)
