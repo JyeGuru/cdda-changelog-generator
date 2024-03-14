@@ -1,3 +1,4 @@
+* Add entry about the criteria for plant additions to FMS ([#72392](https://github.com/CleverRaven/Cataclysm-DDA/pull/72392))
 * Revert the rest of #69591 ([#72334](https://github.com/CleverRaven/Cataclysm-DDA/pull/72334))
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
 * Add a check for duplicate recipe_ids on load ([#72220](https://github.com/CleverRaven/Cataclysm-DDA/pull/72220))
@@ -170,7 +171,6 @@
 * Add Large Wooden Bowl recipe  ([#72187](https://github.com/CleverRaven/Cataclysm-DDA/pull/72187))
 * [MoM] Hounds of Tindalos can teleport lock you + follow you through teleports ([#72249](https://github.com/CleverRaven/Cataclysm-DDA/pull/72249))
 * fix METABOLISM enchantment `multiply: -1` causing the game to hang ([#72255](https://github.com/CleverRaven/Cataclysm-DDA/pull/72255))
-* Port some mutation/cbm specific fields to enchantments, part 3 ([#72173](https://github.com/CleverRaven/Cataclysm-DDA/pull/72173))
 
 ---
 

@@ -1,3 +1,4 @@
+* Add entry about the criteria for plant additions to FMS (#72392)
 * Revert the rest of #69591 (#72334)
 * added "looks_like" properties for battleaxes made from different steel (#72388)
 * Add a check for duplicate recipe_ids on load (#72220)
@@ -98,7 +99,6 @@ Cataclysm-DDA experimental build 2024-03-10-0100 (0f9df4f)
 * Add Large Wooden Bowl recipe  (#72187)
 * [MoM] Hounds of Tindalos can teleport lock you + follow you through teleports (#72249)
 * fix METABOLISM enchantment `multiply: -1` causing the game to hang (#72255)
-* Port some mutation/cbm specific fields to enchantments, part 3 (#72173)
 
 Cataclysm-DDA experimental build 2024-03-09-2216 (2ab8e2f)
 * docs: clarify parasites property in JSON_INFO (#72240)
