@@ -1,3 +1,4 @@
+* Update FREQUENTLY_MADE_SUGGESTIONS.md ([#72394](https://github.com/CleverRaven/Cataclysm-DDA/pull/72394))
 
 ---
 
@@ -222,7 +223,6 @@
 * make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
 * NPCs will  prioritize wielding ranged weapons when allowed. ([#72222](https://github.com/CleverRaven/Cataclysm-DDA/pull/72222))
 * [Xedra Evolved] Add Homullus mutations ([#72205](https://github.com/CleverRaven/Cataclysm-DDA/pull/72205))
-* Changed neoprene patch price from 100 to 5. Resolves issue #71813 ([#72174](https://github.com/CleverRaven/Cataclysm-DDA/pull/72174))
 * [Xedra Evolved] Add goblin fruit map special ([#72189](https://github.com/CleverRaven/Cataclysm-DDA/pull/72189))
 * fix birdsot ammo in beanbag can ([#72199](https://github.com/CleverRaven/Cataclysm-DDA/pull/72199))
 * [Magiclysm] Remove trailing space in Aquatic Mantle's name ([#72200](https://github.com/CleverRaven/Cataclysm-DDA/pull/72200))
