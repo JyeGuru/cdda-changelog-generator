@@ -1,3 +1,12 @@
+* Crutches melee balance ([#72375](https://github.com/CleverRaven/Cataclysm-DDA/pull/72375))
+* Sky islands - all roads lead to u_prevent_death ([#72358](https://github.com/CleverRaven/Cataclysm-DDA/pull/72358))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-14-0234 ([9666753](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-0234))
+
+* fix technomancer_far_sight_lens density CI error ([#72373](https://github.com/CleverRaven/Cataclysm-DDA/pull/72373))
+* Alcohol wipes density fix ([#72378](https://github.com/CleverRaven/Cataclysm-DDA/pull/72378))
 
 ---
 
@@ -185,11 +194,6 @@
 * Update robofac_gun do looks like FN P90 ([#72245](https://github.com/CleverRaven/Cataclysm-DDA/pull/72245))
 * Fix mutant child's description ([#72247](https://github.com/CleverRaven/Cataclysm-DDA/pull/72247))
 * Aftershock: Fix the escape pod sequence (Once and for all?) ([#72225](https://github.com/CleverRaven/Cataclysm-DDA/pull/72225))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-08-0523 ([9f08089](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-08-0523))
-
 * [Xedra Evolved] Fix Arvore Commune with Nature scaling + add standard jmath post-threshold doubling ([#72231](https://github.com/CleverRaven/Cataclysm-DDA/pull/72231))
 * mom: minor typos ([#72216](https://github.com/CleverRaven/Cataclysm-DDA/pull/72216))
 * mom: wield your crystals *today* ([#72218](https://github.com/CleverRaven/Cataclysm-DDA/pull/72218))
@@ -218,9 +222,7 @@
 * NPCs are better at finding places to sleep, heavily prefer real beds ([#72190](https://github.com/CleverRaven/Cataclysm-DDA/pull/72190))
 * higher "parasites" actually means lower chance of parasites ([#72178](https://github.com/CleverRaven/Cataclysm-DDA/pull/72178))
 * do not scope creep! ([#72161](https://github.com/CleverRaven/Cataclysm-DDA/pull/72161))
-* Small mapgen fix ([#72151](https://github.com/CleverRaven/Cataclysm-DDA/pull/72151))
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes ([#72186](https://github.com/CleverRaven/Cataclysm-DDA/pull/72186))
-* Update SDL version used by Android to v2.30.0 ([#72154](https://github.com/CleverRaven/Cataclysm-DDA/pull/72154))
 * Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
 * docs on compiling: friendlier to first-time contributors ([#72166](https://github.com/CleverRaven/Cataclysm-DDA/pull/72166))
 * Add the option to open the ImGui demo from the main menu for debugging ([#72171](https://github.com/CleverRaven/Cataclysm-DDA/pull/72171))
