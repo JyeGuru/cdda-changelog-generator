@@ -1,3 +1,4 @@
+* Bad density ([#72369](https://github.com/CleverRaven/Cataclysm-DDA/pull/72369))
 
 ---
 
