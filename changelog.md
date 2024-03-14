@@ -1,3 +1,4 @@
+* Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
 * Refactor camp hunting function ([#72234](https://github.com/CleverRaven/Cataclysm-DDA/pull/72234))
 * Fix several issues of gun_info ([#72295](https://github.com/CleverRaven/Cataclysm-DDA/pull/72295))
 * Unwield bionic weapons before wielding other weapons or acting a holster ([#72300](https://github.com/CleverRaven/Cataclysm-DDA/pull/72300))
@@ -241,5 +242,4 @@
 * higher "parasites" actually means lower chance of parasites ([#72178](https://github.com/CleverRaven/Cataclysm-DDA/pull/72178))
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes ([#72186](https://github.com/CleverRaven/Cataclysm-DDA/pull/72186))
 * Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
-* docs on compiling: friendlier to first-time contributors ([#72166](https://github.com/CleverRaven/Cataclysm-DDA/pull/72166))
 * Add the option to open the ImGui demo from the main menu for debugging ([#72171](https://github.com/CleverRaven/Cataclysm-DDA/pull/72171))
