@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-14-0742 ([31c9dbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-0742))
+
 * Bad density ([#72369](https://github.com/CleverRaven/Cataclysm-DDA/pull/72369))
 
 ---
