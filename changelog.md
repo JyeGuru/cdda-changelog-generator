@@ -1,3 +1,4 @@
+* Add ImGui support to Android ([#72345](https://github.com/CleverRaven/Cataclysm-DDA/pull/72345))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
 * Refactor camp hunting function ([#72234](https://github.com/CleverRaven/Cataclysm-DDA/pull/72234))
 * Fix several issues of gun_info ([#72295](https://github.com/CleverRaven/Cataclysm-DDA/pull/72295))
@@ -232,7 +233,6 @@
 * [MOM] Remove left over learn_spell from Intuitive Artisan ([#72197](https://github.com/CleverRaven/Cataclysm-DDA/pull/72197))
 * use item/tname instead of its raw name (nname) in recipe menu ([#72202](https://github.com/CleverRaven/Cataclysm-DDA/pull/72202))
 * Some more mapgen fixes ([#72206](https://github.com/CleverRaven/Cataclysm-DDA/pull/72206))
-* (Fix for tests) Assign valid IDs to NPCs used during testing ([#72167](https://github.com/CleverRaven/Cataclysm-DDA/pull/72167))
 * Re-tweak one sentence in last delivery mission  ([#72168](https://github.com/CleverRaven/Cataclysm-DDA/pull/72168))
 * Paper wrapper should have tinder flag ([#72177](https://github.com/CleverRaven/Cataclysm-DDA/pull/72177))
 * Fix item group birthdays ([#72194](https://github.com/CleverRaven/Cataclysm-DDA/pull/72194))
