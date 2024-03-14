@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-14-0506 ([a365e9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-0506))
+
 * Crutches melee balance ([#72375](https://github.com/CleverRaven/Cataclysm-DDA/pull/72375))
 * Sky islands - all roads lead to u_prevent_death ([#72358](https://github.com/CleverRaven/Cataclysm-DDA/pull/72358))
 
