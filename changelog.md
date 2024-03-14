@@ -1,3 +1,4 @@
+* Revert the rest of #69591 ([#72334](https://github.com/CleverRaven/Cataclysm-DDA/pull/72334))
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
 * Add a check for duplicate recipe_ids on load ([#72220](https://github.com/CleverRaven/Cataclysm-DDA/pull/72220))
 * Add ImGui support to Android ([#72345](https://github.com/CleverRaven/Cataclysm-DDA/pull/72345))
@@ -237,4 +238,3 @@
 * higher "parasites" actually means lower chance of parasites ([#72178](https://github.com/CleverRaven/Cataclysm-DDA/pull/72178))
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes ([#72186](https://github.com/CleverRaven/Cataclysm-DDA/pull/72186))
 * Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
-* Add the option to open the ImGui demo from the main menu for debugging ([#72171](https://github.com/CleverRaven/Cataclysm-DDA/pull/72171))
