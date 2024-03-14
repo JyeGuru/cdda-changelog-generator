@@ -1,3 +1,5 @@
+* Refactor camp hunting function ([#72234](https://github.com/CleverRaven/Cataclysm-DDA/pull/72234))
+* Fix several issues of gun_info ([#72295](https://github.com/CleverRaven/Cataclysm-DDA/pull/72295))
 * Unwield bionic weapons before wielding other weapons or acting a holster ([#72300](https://github.com/CleverRaven/Cataclysm-DDA/pull/72300))
 
 ---
@@ -225,7 +227,6 @@
 * Changed neoprene patch price from 100 to 5. Resolves issue #71813 ([#72174](https://github.com/CleverRaven/Cataclysm-DDA/pull/72174))
 * [Xedra Evolved] Add goblin fruit map special ([#72189](https://github.com/CleverRaven/Cataclysm-DDA/pull/72189))
 * fix birdsot ammo in beanbag can ([#72199](https://github.com/CleverRaven/Cataclysm-DDA/pull/72199))
-* Enhanced debug backpack to carry liquids/gasses, utility use_action ([#72165](https://github.com/CleverRaven/Cataclysm-DDA/pull/72165))
 * [Magiclysm] Remove trailing space in Aquatic Mantle's name ([#72200](https://github.com/CleverRaven/Cataclysm-DDA/pull/72200))
 * [MOM] Remove left over learn_spell from Intuitive Artisan ([#72197](https://github.com/CleverRaven/Cataclysm-DDA/pull/72197))
 * use item/tname instead of its raw name (nname) in recipe menu ([#72202](https://github.com/CleverRaven/Cataclysm-DDA/pull/72202))
@@ -242,4 +243,3 @@
 * Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
 * docs on compiling: friendlier to first-time contributors ([#72166](https://github.com/CleverRaven/Cataclysm-DDA/pull/72166))
 * Add the option to open the ImGui demo from the main menu for debugging ([#72171](https://github.com/CleverRaven/Cataclysm-DDA/pull/72171))
-* Update the standard building palette ([#72164](https://github.com/CleverRaven/Cataclysm-DDA/pull/72164))
