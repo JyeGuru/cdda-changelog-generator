@@ -219,7 +219,6 @@
 * [MOM] Fix: Intuitive artisan does nothing ([#72221](https://github.com/CleverRaven/Cataclysm-DDA/pull/72221))
 * Fixed a crash with ImTui on a fresh CDDA install ([#72235](https://github.com/CleverRaven/Cataclysm-DDA/pull/72235))
 * Assign default value of 1.0 for fault price modifiers, instead of 0 ([#72237](https://github.com/CleverRaven/Cataclysm-DDA/pull/72237))
-* Revert #69555 ([#72172](https://github.com/CleverRaven/Cataclysm-DDA/pull/72172))
 * make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
 * NPCs will  prioritize wielding ranged weapons when allowed. ([#72222](https://github.com/CleverRaven/Cataclysm-DDA/pull/72222))
 * [Xedra Evolved] Add Homullus mutations ([#72205](https://github.com/CleverRaven/Cataclysm-DDA/pull/72205))
