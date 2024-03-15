@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-15-0457 ([c4dec49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-15-0457))
+
 * [MoM] Move Enhance Mobility to mutation, obsolete items ([#72386](https://github.com/CleverRaven/Cataclysm-DDA/pull/72386))
 * Give appropriate `examine_action`s to furniture and terrain ([#72367](https://github.com/CleverRaven/Cataclysm-DDA/pull/72367))
 * PR template: remove `don't delete HTML comments`; add Summary examples; grammar ([#72379](https://github.com/CleverRaven/Cataclysm-DDA/pull/72379))
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-03-09-2216 ([2ab8e2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-09-2216))
 
 * docs: clarify parasites property in JSON_INFO ([#72240](https://github.com/CleverRaven/Cataclysm-DDA/pull/72240))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-09-1640 ([3601a6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-09-1640))
-
 * [XEDRA Evolved] Add ARMOR_ALL enchantment and use it in two new Homullus mutations ([#72257](https://github.com/CleverRaven/Cataclysm-DDA/pull/72257))
 * port _ALPHA and INT_SLIME mutations to json ([#72226](https://github.com/CleverRaven/Cataclysm-DDA/pull/72226))
 * Summoned Creature Kill Credit ([#72230](https://github.com/CleverRaven/Cataclysm-DDA/pull/72230))
