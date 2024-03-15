@@ -1,3 +1,6 @@
+* Add "strictly_unarmed" to buff_taekwondo_static2 ([#72356](https://github.com/CleverRaven/Cataclysm-DDA/pull/72356))
+* Add a screen reader mode option and implement on character creation screens ([#72344](https://github.com/CleverRaven/Cataclysm-DDA/pull/72344))
+* [DinoMod] Ask Rubik about dinos ([#72278](https://github.com/CleverRaven/Cataclysm-DDA/pull/72278))
 
 ---
 
@@ -183,12 +186,6 @@
 
 * Adjust pony wall construction ([#72284](https://github.com/CleverRaven/Cataclysm-DDA/pull/72284))
 * Stop eating butternuts with shell ([#72282](https://github.com/CleverRaven/Cataclysm-DDA/pull/72282))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-10-0100 ([0f9df4f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-10-0100))
-
-* Add Large Wooden Bowl recipe  ([#72187](https://github.com/CleverRaven/Cataclysm-DDA/pull/72187))
 * [MoM] Hounds of Tindalos can teleport lock you + follow you through teleports ([#72249](https://github.com/CleverRaven/Cataclysm-DDA/pull/72249))
 * fix METABOLISM enchantment `multiply: -1` causing the game to hang ([#72255](https://github.com/CleverRaven/Cataclysm-DDA/pull/72255))
 
@@ -222,7 +219,6 @@
 * make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
 * NPCs will  prioritize wielding ranged weapons when allowed. ([#72222](https://github.com/CleverRaven/Cataclysm-DDA/pull/72222))
 * [Xedra Evolved] Add Homullus mutations ([#72205](https://github.com/CleverRaven/Cataclysm-DDA/pull/72205))
-* [Xedra Evolved] Add goblin fruit map special ([#72189](https://github.com/CleverRaven/Cataclysm-DDA/pull/72189))
 * fix birdsot ammo in beanbag can ([#72199](https://github.com/CleverRaven/Cataclysm-DDA/pull/72199))
 * [Magiclysm] Remove trailing space in Aquatic Mantle's name ([#72200](https://github.com/CleverRaven/Cataclysm-DDA/pull/72200))
 * [MOM] Remove left over learn_spell from Intuitive Artisan ([#72197](https://github.com/CleverRaven/Cataclysm-DDA/pull/72197))
@@ -231,4 +227,3 @@
 * Fix item group birthdays ([#72194](https://github.com/CleverRaven/Cataclysm-DDA/pull/72194))
 * Added 3-finger gestures to Android ([#72196](https://github.com/CleverRaven/Cataclysm-DDA/pull/72196))
 * Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
-* NPCs are better at finding places to sleep, heavily prefer real beds ([#72190](https://github.com/CleverRaven/Cataclysm-DDA/pull/72190))
