@@ -1,3 +1,4 @@
+* [Xedra Evolved] Paraclesians begin with some mutations and their recipes (#72389)
 
 Cataclysm-DDA experimental build 2024-03-15-0221 (965c899)
 * Sky island jewelry quests difficulty curve adjustment (#72360)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2024-03-09-1640 (3601a6a)
 * NPCs are better at finding places to sleep, heavily prefer real beds (#72190)
 * higher "parasites" actually means lower chance of parasites (#72178)
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes (#72186)
-* Fix robot lor reference (#72176)

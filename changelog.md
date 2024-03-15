@@ -1,3 +1,4 @@
+* [Xedra Evolved] Paraclesians begin with some mutations and their recipes ([#72389](https://github.com/CleverRaven/Cataclysm-DDA/pull/72389))
 
 ---
 
@@ -231,4 +232,3 @@
 * NPCs are better at finding places to sleep, heavily prefer real beds ([#72190](https://github.com/CleverRaven/Cataclysm-DDA/pull/72190))
 * higher "parasites" actually means lower chance of parasites ([#72178](https://github.com/CleverRaven/Cataclysm-DDA/pull/72178))
 * Revert #71460 Altered Mindstates partially resist Flaming Eyes ([#72186](https://github.com/CleverRaven/Cataclysm-DDA/pull/72186))
-* Fix robot lor reference ([#72176](https://github.com/CleverRaven/Cataclysm-DDA/pull/72176))
