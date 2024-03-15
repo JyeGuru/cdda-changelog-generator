@@ -1,3 +1,4 @@
+* PR template: remove `don't delete HTML comments`; add Summary examples; grammar (#72379)
 * [Xedra Evolved] Paraclesians begin with some mutations and their recipes (#72389)
 
 Cataclysm-DDA experimental build 2024-03-15-0221 (965c899)
@@ -141,7 +142,6 @@ Cataclysm-DDA experimental build 2024-03-09-1640 (3601a6a)
 * [MOM] Remove left over learn_spell from Intuitive Artisan (#72197)
 * use item/tname instead of its raw name (nname) in recipe menu (#72202)
 * Some more mapgen fixes (#72206)
-* Paper wrapper should have tinder flag (#72177)
 * Fix item group birthdays (#72194)
 * Added 3-finger gestures to Android (#72196)
 * Fix MSVC release build translations compilation (#72207)
