@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-15-0717 ([773fa35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-15-0717))
+
 * Add "strictly_unarmed" to buff_taekwondo_static2 ([#72356](https://github.com/CleverRaven/Cataclysm-DDA/pull/72356))
 * Add a screen reader mode option and implement on character creation screens ([#72344](https://github.com/CleverRaven/Cataclysm-DDA/pull/72344))
 * [DinoMod] Ask Rubik about dinos ([#72278](https://github.com/CleverRaven/Cataclysm-DDA/pull/72278))
@@ -188,11 +193,6 @@
 * Stop eating butternuts with shell ([#72282](https://github.com/CleverRaven/Cataclysm-DDA/pull/72282))
 * [MoM] Hounds of Tindalos can teleport lock you + follow you through teleports ([#72249](https://github.com/CleverRaven/Cataclysm-DDA/pull/72249))
 * fix METABOLISM enchantment `multiply: -1` causing the game to hang ([#72255](https://github.com/CleverRaven/Cataclysm-DDA/pull/72255))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-09-2216 ([2ab8e2f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-09-2216))
-
 * docs: clarify parasites property in JSON_INFO ([#72240](https://github.com/CleverRaven/Cataclysm-DDA/pull/72240))
 * [XEDRA Evolved] Add ARMOR_ALL enchantment and use it in two new Homullus mutations ([#72257](https://github.com/CleverRaven/Cataclysm-DDA/pull/72257))
 * port _ALPHA and INT_SLIME mutations to json ([#72226](https://github.com/CleverRaven/Cataclysm-DDA/pull/72226))
