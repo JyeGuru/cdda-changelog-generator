@@ -1,3 +1,5 @@
+* [MoM] Move Enhance Mobility to mutation, obsolete items ([#72386](https://github.com/CleverRaven/Cataclysm-DDA/pull/72386))
+* Give appropriate `examine_action`s to furniture and terrain ([#72367](https://github.com/CleverRaven/Cataclysm-DDA/pull/72367))
 * PR template: remove `don't delete HTML comments`; add Summary examples; grammar ([#72379](https://github.com/CleverRaven/Cataclysm-DDA/pull/72379))
 * [Xedra Evolved] Paraclesians begin with some mutations and their recipes ([#72389](https://github.com/CleverRaven/Cataclysm-DDA/pull/72389))
 
@@ -230,5 +232,3 @@
 * Added 3-finger gestures to Android ([#72196](https://github.com/CleverRaven/Cataclysm-DDA/pull/72196))
 * Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
 * NPCs are better at finding places to sleep, heavily prefer real beds ([#72190](https://github.com/CleverRaven/Cataclysm-DDA/pull/72190))
-* higher "parasites" actually means lower chance of parasites ([#72178](https://github.com/CleverRaven/Cataclysm-DDA/pull/72178))
-* Revert #71460 Altered Mindstates partially resist Flaming Eyes ([#72186](https://github.com/CleverRaven/Cataclysm-DDA/pull/72186))

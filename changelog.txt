@@ -1,3 +1,5 @@
+* [MoM] Move Enhance Mobility to mutation, obsolete items (#72386)
+* Give appropriate `examine_action`s to furniture and terrain (#72367)
 * PR template: remove `don't delete HTML comments`; add Summary examples; grammar (#72379)
 * [Xedra Evolved] Paraclesians begin with some mutations and their recipes (#72389)
 
@@ -146,5 +148,3 @@ Cataclysm-DDA experimental build 2024-03-09-1640 (3601a6a)
 * Added 3-finger gestures to Android (#72196)
 * Fix MSVC release build translations compilation (#72207)
 * NPCs are better at finding places to sleep, heavily prefer real beds (#72190)
-* higher "parasites" actually means lower chance of parasites (#72178)
-* Revert #71460 Altered Mindstates partially resist Flaming Eyes (#72186)
