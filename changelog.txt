@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-03-15-0221 (965c899)
+* Sky island jewelry quests difficulty curve adjustment (#72360)
+
 Cataclysm-DDA experimental build 2024-03-14-2344 (1c1c08a)
 * Update FREQUENTLY_MADE_SUGGESTIONS.md (#72394)
 
@@ -97,9 +100,6 @@ Cataclysm-DDA experimental build 2024-03-10-1718 (03b2540)
 * Adjust pony wall construction (#72284)
 * Stop eating butternuts with shell (#72282)
 
-Cataclysm-DDA experimental build 2024-03-10-1452 (423bc10)
-* Pickaxe_list and rope_natural relevant Fix (#72175)
-
 Cataclysm-DDA experimental build 2024-03-10-0100 (0f9df4f)
 * Add Large Wooden Bowl recipe  (#72187)
 * [MoM] Hounds of Tindalos can teleport lock you + follow you through teleports (#72249)
@@ -112,8 +112,6 @@ Cataclysm-DDA experimental build 2024-03-09-1640 (3601a6a)
 * [XEDRA Evolved] Add ARMOR_ALL enchantment and use it in two new Homullus mutations (#72257)
 * port _ALPHA and INT_SLIME mutations to json (#72226)
 * Summoned Creature Kill Credit (#72230)
-
-Cataclysm-DDA experimental build 2024-03-09-1425 (925f13b)
 * Set terrain memory cache to dirty when setting terrain (#72248)
 * [Magiclysm] Transparent heartwood (#72191)
 * Allow hobbies to grant bionics (#72228)
