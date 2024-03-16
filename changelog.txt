@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-03-16-0655 (7c587eb)
+* [MMA] Pounce on that typo (#72414)
+
 Cataclysm-DDA experimental build 2024-03-15-0717 (773fa35)
 * Add "strictly_unarmed" to buff_taekwondo_static2 (#72356)
 * Add a screen reader mode option and implement on character creation screens (#72344)
@@ -142,6 +145,5 @@ Cataclysm-DDA experimental build 2024-03-10-1718 (03b2540)
 * [MOM] Remove left over learn_spell from Intuitive Artisan (#72197)
 * use item/tname instead of its raw name (nname) in recipe menu (#72202)
 * Some more mapgen fixes (#72206)
-* Fix item group birthdays (#72194)
 * Added 3-finger gestures to Android (#72196)
 * Fix MSVC release build translations compilation (#72207)

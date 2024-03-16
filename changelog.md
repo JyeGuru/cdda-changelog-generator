@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-16-0655 ([7c587eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-16-0655))
+
+* [MMA] Pounce on that typo ([#72414](https://github.com/CleverRaven/Cataclysm-DDA/pull/72414))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-15-0717 ([773fa35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-15-0717))
 
 * Add "strictly_unarmed" to buff_taekwondo_static2 ([#72356](https://github.com/CleverRaven/Cataclysm-DDA/pull/72356))
@@ -223,6 +229,5 @@
 * [MOM] Remove left over learn_spell from Intuitive Artisan ([#72197](https://github.com/CleverRaven/Cataclysm-DDA/pull/72197))
 * use item/tname instead of its raw name (nname) in recipe menu ([#72202](https://github.com/CleverRaven/Cataclysm-DDA/pull/72202))
 * Some more mapgen fixes ([#72206](https://github.com/CleverRaven/Cataclysm-DDA/pull/72206))
-* Fix item group birthdays ([#72194](https://github.com/CleverRaven/Cataclysm-DDA/pull/72194))
 * Added 3-finger gestures to Android ([#72196](https://github.com/CleverRaven/Cataclysm-DDA/pull/72196))
 * Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
