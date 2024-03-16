@@ -1,3 +1,4 @@
+* Routine i18n updates on 16 March 2024 ([#72415](https://github.com/CleverRaven/Cataclysm-DDA/pull/72415))
 
 ---
 
@@ -229,5 +230,4 @@
 * [MOM] Remove left over learn_spell from Intuitive Artisan ([#72197](https://github.com/CleverRaven/Cataclysm-DDA/pull/72197))
 * use item/tname instead of its raw name (nname) in recipe menu ([#72202](https://github.com/CleverRaven/Cataclysm-DDA/pull/72202))
 * Some more mapgen fixes ([#72206](https://github.com/CleverRaven/Cataclysm-DDA/pull/72206))
-* Added 3-finger gestures to Android ([#72196](https://github.com/CleverRaven/Cataclysm-DDA/pull/72196))
 * Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
