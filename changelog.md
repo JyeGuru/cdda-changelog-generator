@@ -1,3 +1,11 @@
+* Sends the Spas-12 into retirement, Mossbergs divorce, and Benellis invade ([#72398](https://github.com/CleverRaven/Cataclysm-DDA/pull/72398))
+* Enchantments forever ([#72328](https://github.com/CleverRaven/Cataclysm-DDA/pull/72328))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-17-2106 ([9a2fbc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-17-2106))
+
+* [Xedra Evolved] More hedge magic ([#72393](https://github.com/CleverRaven/Cataclysm-DDA/pull/72393))
 * fix: more strict labeler rules ([#72423](https://github.com/CleverRaven/Cataclysm-DDA/pull/72423))
 
 ---
@@ -203,11 +211,6 @@
 
 * fix: use root floor above root doors ([#72308](https://github.com/CleverRaven/Cataclysm-DDA/pull/72308))
 * [Xedra Evolved] Update Mien of the Mannequin + Backstage ([#72277](https://github.com/CleverRaven/Cataclysm-DDA/pull/72277))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-10-2322 ([1f4f45c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-10-2322))
-
 * Non-player faction NPCs need no food. ([#72296](https://github.com/CleverRaven/Cataclysm-DDA/pull/72296))
 * Adjust pony wall construction ([#72284](https://github.com/CleverRaven/Cataclysm-DDA/pull/72284))
 * Stop eating butternuts with shell ([#72282](https://github.com/CleverRaven/Cataclysm-DDA/pull/72282))
@@ -237,7 +240,4 @@
 * Assign default value of 1.0 for fault price modifiers, instead of 0 ([#72237](https://github.com/CleverRaven/Cataclysm-DDA/pull/72237))
 * make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
 * NPCs will  prioritize wielding ranged weapons when allowed. ([#72222](https://github.com/CleverRaven/Cataclysm-DDA/pull/72222))
-* [Xedra Evolved] Add Homullus mutations ([#72205](https://github.com/CleverRaven/Cataclysm-DDA/pull/72205))
-* use item/tname instead of its raw name (nname) in recipe menu ([#72202](https://github.com/CleverRaven/Cataclysm-DDA/pull/72202))
-* Some more mapgen fixes ([#72206](https://github.com/CleverRaven/Cataclysm-DDA/pull/72206))
 * Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
