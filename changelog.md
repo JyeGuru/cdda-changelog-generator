@@ -1,4 +1,9 @@
 * fix: more strict labeler rules ([#72423](https://github.com/CleverRaven/Cataclysm-DDA/pull/72423))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-17-0924 ([f0eb92d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-17-0924))
+
 * [Xedra Evolved] Add ring of mushrooms map special ([#72441](https://github.com/CleverRaven/Cataclysm-DDA/pull/72441))
 
 ---
