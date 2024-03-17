@@ -1,3 +1,11 @@
+* fix: more strict labeler rules ([#72423](https://github.com/CleverRaven/Cataclysm-DDA/pull/72423))
+* [Xedra Evolved] Add ring of mushrooms map special ([#72441](https://github.com/CleverRaven/Cataclysm-DDA/pull/72441))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-17-0658 ([93fa5e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-17-0658))
+
+* obsolete tainted_blood ([#72436](https://github.com/CleverRaven/Cataclysm-DDA/pull/72436))
 
 ---
 
@@ -196,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2024-03-10-2322 ([1f4f45c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-10-2322))
 
 * Non-player faction NPCs need no food. ([#72296](https://github.com/CleverRaven/Cataclysm-DDA/pull/72296))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-10-1718 ([03b2540](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-10-1718))
-
 * Adjust pony wall construction ([#72284](https://github.com/CleverRaven/Cataclysm-DDA/pull/72284))
 * Stop eating butternuts with shell ([#72282](https://github.com/CleverRaven/Cataclysm-DDA/pull/72282))
 * [MoM] Hounds of Tindalos can teleport lock you + follow you through teleports ([#72249](https://github.com/CleverRaven/Cataclysm-DDA/pull/72249))
@@ -230,9 +233,6 @@
 * make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
 * NPCs will  prioritize wielding ranged weapons when allowed. ([#72222](https://github.com/CleverRaven/Cataclysm-DDA/pull/72222))
 * [Xedra Evolved] Add Homullus mutations ([#72205](https://github.com/CleverRaven/Cataclysm-DDA/pull/72205))
-* fix birdsot ammo in beanbag can ([#72199](https://github.com/CleverRaven/Cataclysm-DDA/pull/72199))
-* [Magiclysm] Remove trailing space in Aquatic Mantle's name ([#72200](https://github.com/CleverRaven/Cataclysm-DDA/pull/72200))
-* [MOM] Remove left over learn_spell from Intuitive Artisan ([#72197](https://github.com/CleverRaven/Cataclysm-DDA/pull/72197))
 * use item/tname instead of its raw name (nname) in recipe menu ([#72202](https://github.com/CleverRaven/Cataclysm-DDA/pull/72202))
 * Some more mapgen fixes ([#72206](https://github.com/CleverRaven/Cataclysm-DDA/pull/72206))
 * Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))

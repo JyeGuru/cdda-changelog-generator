@@ -1,3 +1,8 @@
+* fix: more strict labeler rules (#72423)
+* [Xedra Evolved] Add ring of mushrooms map special (#72441)
+
+Cataclysm-DDA experimental build 2024-03-17-0658 (93fa5e6)
+* obsolete tainted_blood (#72436)
 
 Cataclysm-DDA experimental build 2024-03-16-0936 (0bb4077)
 * Routine i18n updates on 16 March 2024 (#72415)
@@ -112,8 +117,6 @@ Cataclysm-DDA experimental build 2024-03-11-0213 (a32ea18)
 
 Cataclysm-DDA experimental build 2024-03-10-2322 (1f4f45c)
 * Non-player faction NPCs need no food. (#72296)
-
-Cataclysm-DDA experimental build 2024-03-10-1718 (03b2540)
 * Adjust pony wall construction (#72284)
 * Stop eating butternuts with shell (#72282)
 * [MoM] Hounds of Tindalos can teleport lock you + follow you through teleports (#72249)
@@ -143,9 +146,6 @@ Cataclysm-DDA experimental build 2024-03-10-1718 (03b2540)
 * make amigara death drop stuff near the character (#72227)
 * NPCs will  prioritize wielding ranged weapons when allowed. (#72222)
 * [Xedra Evolved] Add Homullus mutations (#72205)
-* fix birdsot ammo in beanbag can (#72199)
-* [Magiclysm] Remove trailing space in Aquatic Mantle's name (#72200)
-* [MOM] Remove left over learn_spell from Intuitive Artisan (#72197)
 * use item/tname instead of its raw name (nname) in recipe menu (#72202)
 * Some more mapgen fixes (#72206)
 * Fix MSVC release build translations compilation (#72207)
