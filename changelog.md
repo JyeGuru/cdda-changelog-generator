@@ -222,7 +222,6 @@
 * String update "sand casting mold" to "sandcasting mold" for consistency ([#72260](https://github.com/CleverRaven/Cataclysm-DDA/pull/72260))
 * Routine i18n updates on 09 March 2024 ([#72259](https://github.com/CleverRaven/Cataclysm-DDA/pull/72259))
 * Revert "[BombasticPerks] A new playstyle perk: Enchanting Master" ([#72217](https://github.com/CleverRaven/Cataclysm-DDA/pull/72217))
-* Innawoods Iimestone Audit ([#72214](https://github.com/CleverRaven/Cataclysm-DDA/pull/72214))
 * [Xedra Evolved] More homullus traits ([#72236](https://github.com/CleverRaven/Cataclysm-DDA/pull/72236))
 * Update robofac_gun do looks like FN P90 ([#72245](https://github.com/CleverRaven/Cataclysm-DDA/pull/72245))
 * Fix mutant child's description ([#72247](https://github.com/CleverRaven/Cataclysm-DDA/pull/72247))
