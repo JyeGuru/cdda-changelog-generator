@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-18-0448 ([a24bfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-18-0448))
+
+* [Magiclysm] Fix spellcasting proficiency setup triggers ([#72473](https://github.com/CleverRaven/Cataclysm-DDA/pull/72473))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-18-0013 ([b9c4092](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-18-0013))
 
 * Sends the Spas-12 into retirement, Mossbergs divorce, and Benellis invade ([#72398](https://github.com/CleverRaven/Cataclysm-DDA/pull/72398))
@@ -203,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2024-03-11-1758 ([22a7030](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-11-1758))
 
 * Fix volume and weight of cornmeal and dry corn kernels ([#72297](https://github.com/CleverRaven/Cataclysm-DDA/pull/72297))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-11-0458 ([84b2f37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-11-0458))
-
 * mom: remove no-effect relic_data ([#72304](https://github.com/CleverRaven/Cataclysm-DDA/pull/72304))
 * fix: use root floor above root doors ([#72308](https://github.com/CleverRaven/Cataclysm-DDA/pull/72308))
 * [Xedra Evolved] Update Mien of the Mannequin + Backstage ([#72277](https://github.com/CleverRaven/Cataclysm-DDA/pull/72277))
@@ -240,4 +241,3 @@
 * Assign default value of 1.0 for fault price modifiers, instead of 0 ([#72237](https://github.com/CleverRaven/Cataclysm-DDA/pull/72237))
 * make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
 * NPCs will  prioritize wielding ranged weapons when allowed. ([#72222](https://github.com/CleverRaven/Cataclysm-DDA/pull/72222))
-* Fix MSVC release build translations compilation ([#72207](https://github.com/CleverRaven/Cataclysm-DDA/pull/72207))
