@@ -130,12 +130,6 @@
 #### Cataclysm-DDA experimental build 2024-03-13-1047 ([6f5392e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1047))
 
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-13-0811 ([b0d272e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-0811))
-
-* Fix recipe_id conflicts in in-repo mods ([#72209](https://github.com/CleverRaven/Cataclysm-DDA/pull/72209))
 * Integratedify Feathers ([#72233](https://github.com/CleverRaven/Cataclysm-DDA/pull/72233))
 
 ---
