@@ -234,4 +234,3 @@
 * [Xedra Evolved] Fix Arvore Commune with Nature scaling + add standard jmath post-threshold doubling ([#72231](https://github.com/CleverRaven/Cataclysm-DDA/pull/72231))
 * Fixed a crash with ImTui on a fresh CDDA install ([#72235](https://github.com/CleverRaven/Cataclysm-DDA/pull/72235))
 * Assign default value of 1.0 for fault price modifiers, instead of 0 ([#72237](https://github.com/CleverRaven/Cataclysm-DDA/pull/72237))
-* make amigara death drop stuff near the character ([#72227](https://github.com/CleverRaven/Cataclysm-DDA/pull/72227))
