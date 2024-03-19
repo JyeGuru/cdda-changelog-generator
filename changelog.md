@@ -1,3 +1,4 @@
+* Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix refugee's teamster dialogue which doesn't roll directions anymore ([#72437](https://github.com/CleverRaven/Cataclysm-DDA/pull/72437))
 * link to dev tooling on style review ([#72455](https://github.com/CleverRaven/Cataclysm-DDA/pull/72455))
 * No crafting while driving ([#72456](https://github.com/CleverRaven/Cataclysm-DDA/pull/72456))
@@ -224,7 +225,6 @@
 * [XEDRA Evolved] Add ARMOR_ALL enchantment and use it in two new Homullus mutations ([#72257](https://github.com/CleverRaven/Cataclysm-DDA/pull/72257))
 * Summoned Creature Kill Credit ([#72230](https://github.com/CleverRaven/Cataclysm-DDA/pull/72230))
 * Set terrain memory cache to dirty when setting terrain ([#72248](https://github.com/CleverRaven/Cataclysm-DDA/pull/72248))
-* Allow hobbies to grant bionics ([#72228](https://github.com/CleverRaven/Cataclysm-DDA/pull/72228))
 * add 60L tank recipe based on 100L tank ([#72256](https://github.com/CleverRaven/Cataclysm-DDA/pull/72256))
 * String update "sand casting mold" to "sandcasting mold" for consistency ([#72260](https://github.com/CleverRaven/Cataclysm-DDA/pull/72260))
 * Routine i18n updates on 09 March 2024 ([#72259](https://github.com/CleverRaven/Cataclysm-DDA/pull/72259))
