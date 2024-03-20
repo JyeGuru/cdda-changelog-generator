@@ -1,3 +1,4 @@
+* fix fatigue restoration decrease ([#72366](https://github.com/CleverRaven/Cataclysm-DDA/pull/72366))
 * Fix JSON corpse harvests and dissection proficiencies ([#72445](https://github.com/CleverRaven/Cataclysm-DDA/pull/72445))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix refugee's teamster dialogue which doesn't roll directions anymore ([#72437](https://github.com/CleverRaven/Cataclysm-DDA/pull/72437))
@@ -231,6 +232,5 @@
 * [Xedra Evolved] More homullus traits ([#72236](https://github.com/CleverRaven/Cataclysm-DDA/pull/72236))
 * Update robofac_gun do looks like FN P90 ([#72245](https://github.com/CleverRaven/Cataclysm-DDA/pull/72245))
 * Fix mutant child's description ([#72247](https://github.com/CleverRaven/Cataclysm-DDA/pull/72247))
-* [Xedra Evolved] Fix Arvore Commune with Nature scaling + add standard jmath post-threshold doubling ([#72231](https://github.com/CleverRaven/Cataclysm-DDA/pull/72231))
 * Fixed a crash with ImTui on a fresh CDDA install ([#72235](https://github.com/CleverRaven/Cataclysm-DDA/pull/72235))
 * Assign default value of 1.0 for fault price modifiers, instead of 0 ([#72237](https://github.com/CleverRaven/Cataclysm-DDA/pull/72237))
