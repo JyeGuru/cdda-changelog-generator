@@ -1,3 +1,6 @@
+* Fixing Android window showing tiny in the top left corner ([#72499](https://github.com/CleverRaven/Cataclysm-DDA/pull/72499))
+* Mutation attack error triggered while wielding REACH_ATTACK weapons. ([#72476](https://github.com/CleverRaven/Cataclysm-DDA/pull/72476))
+* Various fixes for bypassing NO_UNLOAD/NO_RELOAD ([#72469](https://github.com/CleverRaven/Cataclysm-DDA/pull/72469))
 * Update candy in ice cream ([#72494](https://github.com/CleverRaven/Cataclysm-DDA/pull/72494))
 * Dead NPCs give samples when dissected ([#72491](https://github.com/CleverRaven/Cataclysm-DDA/pull/72491))
 * Rattlesnakes leave shed skins behind ([#72490](https://github.com/CleverRaven/Cataclysm-DDA/pull/72490))
@@ -226,6 +229,3 @@
 * Non-player faction NPCs need no food. ([#72296](https://github.com/CleverRaven/Cataclysm-DDA/pull/72296))
 * Adjust pony wall construction ([#72284](https://github.com/CleverRaven/Cataclysm-DDA/pull/72284))
 * Stop eating butternuts with shell ([#72282](https://github.com/CleverRaven/Cataclysm-DDA/pull/72282))
-* [XEDRA Evolved] Add ARMOR_ALL enchantment and use it in two new Homullus mutations ([#72257](https://github.com/CleverRaven/Cataclysm-DDA/pull/72257))
-* String update "sand casting mold" to "sandcasting mold" for consistency ([#72260](https://github.com/CleverRaven/Cataclysm-DDA/pull/72260))
-* Routine i18n updates on 09 March 2024 ([#72259](https://github.com/CleverRaven/Cataclysm-DDA/pull/72259))
