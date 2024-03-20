@@ -212,11 +212,6 @@
 * refine calculations of WEAKNESS_TO_WATER ([#72324](https://github.com/CleverRaven/Cataclysm-DDA/pull/72324))
 * Item groups can define crafted components for an item ([#72327](https://github.com/CleverRaven/Cataclysm-DDA/pull/72327))
 * [MoM] Update hobby skill numbers ([#72321](https://github.com/CleverRaven/Cataclysm-DDA/pull/72321))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-12-0240 ([38091ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-12-0240))
-
 * [MoM] Add [Ψ] to the various psi-created pseudoitems ([#72322](https://github.com/CleverRaven/Cataclysm-DDA/pull/72322))
 * [MoM] Rework Nether Attunement (make it rise faster and fall faster) ([#72310](https://github.com/CleverRaven/Cataclysm-DDA/pull/72310))
 * imgui demo_ui: no more delay (no more mouse wiggling) ([#72318](https://github.com/CleverRaven/Cataclysm-DDA/pull/72318))
