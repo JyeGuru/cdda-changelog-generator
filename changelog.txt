@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Paraclesian ally buff spells (#72442)
 * Fixing Android window showing tiny in the top left corner (#72499)
 * Mutation attack error triggered while wielding REACH_ATTACK weapons. (#72476)
 * Various fixes for bypassing NO_UNLOAD/NO_RELOAD (#72469)
@@ -120,9 +121,6 @@ Cataclysm-DDA experimental build 2024-03-12-2129 (6b5ecb0)
 
 Cataclysm-DDA experimental build 2024-03-12-1740 (8ddee8e)
 * Enhance the XEDRA Evolved weakening effect to its original intended use. (#72312)
-
-Cataclysm-DDA experimental build 2024-03-12-0747 (3ccc5fa)
-* Eggplants are veggy (#72273)
 * [ Xedra Evolved] Remove Bash from Zoomorphic Figurine (#72314)
 
 Cataclysm-DDA experimental build 2024-03-12-0457 (d14f0ab)
