@@ -1,3 +1,4 @@
+* fix: syntax error in #72423 ([#72451](https://github.com/CleverRaven/Cataclysm-DDA/pull/72451))
 * [Xedra Evolved] Add Paraclesian ally buff spells ([#72442](https://github.com/CleverRaven/Cataclysm-DDA/pull/72442))
 * Fixing Android window showing tiny in the top left corner ([#72499](https://github.com/CleverRaven/Cataclysm-DDA/pull/72499))
 * Mutation attack error triggered while wielding REACH_ATTACK weapons. ([#72476](https://github.com/CleverRaven/Cataclysm-DDA/pull/72476))
@@ -164,7 +165,6 @@
 #### Cataclysm-DDA experimental build 2024-03-13-1047 ([6f5392e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1047))
 
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
-* Update README.md to remove no longer relevant Bountysource link ([#72275](https://github.com/CleverRaven/Cataclysm-DDA/pull/72275))
 * Make chain link fences use mild steel ([#72285](https://github.com/CleverRaven/Cataclysm-DDA/pull/72285))
 * Make nomad chainmail copy from chainmail jumpsuit ([#72291](https://github.com/CleverRaven/Cataclysm-DDA/pull/72291))
 * Speed up ledge FoV processing ([#72293](https://github.com/CleverRaven/Cataclysm-DDA/pull/72293))
