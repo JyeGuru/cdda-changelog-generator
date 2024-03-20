@@ -1,3 +1,7 @@
+* Fix invalidation of soft container nested in a holster ([#72417](https://github.com/CleverRaven/Cataclysm-DDA/pull/72417))
+* Add 'Stretch Fabric' requirement to nomad bodygloves ([#72416](https://github.com/CleverRaven/Cataclysm-DDA/pull/72416))
+* Fix NPC guard's decision to pulp corpses ([#72403](https://github.com/CleverRaven/Cataclysm-DDA/pull/72403))
+* Fix two issues of NPCs sleeping ([#72390](https://github.com/CleverRaven/Cataclysm-DDA/pull/72390))
 * fix fatigue restoration decrease ([#72366](https://github.com/CleverRaven/Cataclysm-DDA/pull/72366))
 * Fix JSON corpse harvests and dissection proficiencies ([#72445](https://github.com/CleverRaven/Cataclysm-DDA/pull/72445))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
@@ -99,7 +103,6 @@
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
 * Add ImGui support to Android ([#72345](https://github.com/CleverRaven/Cataclysm-DDA/pull/72345))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
-* Refactor camp hunting function ([#72234](https://github.com/CleverRaven/Cataclysm-DDA/pull/72234))
 * Fix several issues of gun_info ([#72295](https://github.com/CleverRaven/Cataclysm-DDA/pull/72295))
 * Unwield bionic weapons before wielding other weapons or acting a holster ([#72300](https://github.com/CleverRaven/Cataclysm-DDA/pull/72300))
 
@@ -147,7 +150,6 @@
 #### Cataclysm-DDA experimental build 2024-03-13-1047 ([6f5392e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1047))
 
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
-* Integratedify Feathers ([#72233](https://github.com/CleverRaven/Cataclysm-DDA/pull/72233))
 
 ---
 
@@ -232,5 +234,4 @@
 * [Xedra Evolved] More homullus traits ([#72236](https://github.com/CleverRaven/Cataclysm-DDA/pull/72236))
 * Update robofac_gun do looks like FN P90 ([#72245](https://github.com/CleverRaven/Cataclysm-DDA/pull/72245))
 * Fix mutant child's description ([#72247](https://github.com/CleverRaven/Cataclysm-DDA/pull/72247))
-* Fixed a crash with ImTui on a fresh CDDA install ([#72235](https://github.com/CleverRaven/Cataclysm-DDA/pull/72235))
 * Assign default value of 1.0 for fault price modifiers, instead of 0 ([#72237](https://github.com/CleverRaven/Cataclysm-DDA/pull/72237))
