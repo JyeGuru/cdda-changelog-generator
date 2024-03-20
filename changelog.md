@@ -1,3 +1,6 @@
+* Aftershock: Port Augustmoon Start Scenario ([#72338](https://github.com/CleverRaven/Cataclysm-DDA/pull/72338))
+* Autodrivable meadow ([#72448](https://github.com/CleverRaven/Cataclysm-DDA/pull/72448))
+* Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
 
 ---
 
@@ -176,7 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-03-13-1047 ([6f5392e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1047))
 
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
-* Make chain link fences use mild steel ([#72285](https://github.com/CleverRaven/Cataclysm-DDA/pull/72285))
 * Make nomad chainmail copy from chainmail jumpsuit ([#72291](https://github.com/CleverRaven/Cataclysm-DDA/pull/72291))
 * Speed up ledge FoV processing ([#72293](https://github.com/CleverRaven/Cataclysm-DDA/pull/72293))
 * Remove temperature from butternuts ([#72294](https://github.com/CleverRaven/Cataclysm-DDA/pull/72294))
@@ -222,5 +224,3 @@
 * mom: remove no-effect relic_data ([#72304](https://github.com/CleverRaven/Cataclysm-DDA/pull/72304))
 * fix: use root floor above root doors ([#72308](https://github.com/CleverRaven/Cataclysm-DDA/pull/72308))
 * Non-player faction NPCs need no food. ([#72296](https://github.com/CleverRaven/Cataclysm-DDA/pull/72296))
-* Adjust pony wall construction ([#72284](https://github.com/CleverRaven/Cataclysm-DDA/pull/72284))
-* Stop eating butternuts with shell ([#72282](https://github.com/CleverRaven/Cataclysm-DDA/pull/72282))
