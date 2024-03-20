@@ -1,3 +1,4 @@
+* adjust api endpoint used to retrieve previous release tag ([#72509](https://github.com/CleverRaven/Cataclysm-DDA/pull/72509))
 
 ---
 
@@ -92,7 +93,6 @@
 
 * Add "strictly_unarmed" to buff_taekwondo_static2 ([#72356](https://github.com/CleverRaven/Cataclysm-DDA/pull/72356))
 * Add a screen reader mode option and implement on character creation screens ([#72344](https://github.com/CleverRaven/Cataclysm-DDA/pull/72344))
-* [DinoMod] Ask Rubik about dinos ([#72278](https://github.com/CleverRaven/Cataclysm-DDA/pull/72278))
 
 ---
 

@@ -1,3 +1,4 @@
+* adjust api endpoint used to retrieve previous release tag (#72509)
 
 Cataclysm-DDA experimental build 2024-03-20-0451 (8d5e2e5)
 * Truncate generated release notes for experimental releases (#72504)
@@ -62,7 +63,6 @@ Cataclysm-DDA experimental build 2024-03-16-0655 (7c587eb)
 Cataclysm-DDA experimental build 2024-03-15-0717 (773fa35)
 * Add "strictly_unarmed" to buff_taekwondo_static2 (#72356)
 * Add a screen reader mode option and implement on character creation screens (#72344)
-* [DinoMod] Ask Rubik about dinos (#72278)
 
 Cataclysm-DDA experimental build 2024-03-15-0457 (c4dec49)
 * [MoM] Move Enhance Mobility to mutation, obsolete items (#72386)
