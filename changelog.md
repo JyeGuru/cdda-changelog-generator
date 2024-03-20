@@ -1,3 +1,7 @@
+* Clean up formatting and tweak wording in UI documentation ([#72462](https://github.com/CleverRaven/Cataclysm-DDA/pull/72462))
+* Update EFFECT_ON_CONDITION.md ([#72459](https://github.com/CleverRaven/Cataclysm-DDA/pull/72459))
+* Bikini tops and bottoms spawn as sets ([#72457](https://github.com/CleverRaven/Cataclysm-DDA/pull/72457))
+* Portable game battery type and charges ([#72452](https://github.com/CleverRaven/Cataclysm-DDA/pull/72452))
 * Scrap Art has its prereq proficiency too ([#72449](https://github.com/CleverRaven/Cataclysm-DDA/pull/72449))
 * include nornagon's json-ls extension for vscode ([#72433](https://github.com/CleverRaven/Cataclysm-DDA/pull/72433))
 * Fix invalidation of soft container nested in a holster ([#72417](https://github.com/CleverRaven/Cataclysm-DDA/pull/72417))
@@ -152,12 +156,6 @@
 #### Cataclysm-DDA experimental build 2024-03-13-1047 ([6f5392e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1047))
 
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-13-0502 ([47b765b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-0502))
-
-* Fungal enemies should not be able to revive ([#72243](https://github.com/CleverRaven/Cataclysm-DDA/pull/72243))
 * [Magiclysm] Technomancer Binoculars Spell ([#72251](https://github.com/CleverRaven/Cataclysm-DDA/pull/72251))
 * Update README.md to remove no longer relevant Bountysource link ([#72275](https://github.com/CleverRaven/Cataclysm-DDA/pull/72275))
 * Make chain link fences use mild steel ([#72285](https://github.com/CleverRaven/Cataclysm-DDA/pull/72285))
@@ -225,12 +223,8 @@
 * Non-player faction NPCs need no food. ([#72296](https://github.com/CleverRaven/Cataclysm-DDA/pull/72296))
 * Adjust pony wall construction ([#72284](https://github.com/CleverRaven/Cataclysm-DDA/pull/72284))
 * Stop eating butternuts with shell ([#72282](https://github.com/CleverRaven/Cataclysm-DDA/pull/72282))
-* [MoM] Hounds of Tindalos can teleport lock you + follow you through teleports ([#72249](https://github.com/CleverRaven/Cataclysm-DDA/pull/72249))
 * fix METABOLISM enchantment `multiply: -1` causing the game to hang ([#72255](https://github.com/CleverRaven/Cataclysm-DDA/pull/72255))
 * [XEDRA Evolved] Add ARMOR_ALL enchantment and use it in two new Homullus mutations ([#72257](https://github.com/CleverRaven/Cataclysm-DDA/pull/72257))
-* Set terrain memory cache to dirty when setting terrain ([#72248](https://github.com/CleverRaven/Cataclysm-DDA/pull/72248))
 * add 60L tank recipe based on 100L tank ([#72256](https://github.com/CleverRaven/Cataclysm-DDA/pull/72256))
 * String update "sand casting mold" to "sandcasting mold" for consistency ([#72260](https://github.com/CleverRaven/Cataclysm-DDA/pull/72260))
 * Routine i18n updates on 09 March 2024 ([#72259](https://github.com/CleverRaven/Cataclysm-DDA/pull/72259))
-* Update robofac_gun do looks like FN P90 ([#72245](https://github.com/CleverRaven/Cataclysm-DDA/pull/72245))
-* Fix mutant child's description ([#72247](https://github.com/CleverRaven/Cataclysm-DDA/pull/72247))
