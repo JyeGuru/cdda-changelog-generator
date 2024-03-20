@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-20-0451 ([8d5e2e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-20-0451))
+
+* Truncate generated release notes for experimental releases ([#72504](https://github.com/CleverRaven/Cataclysm-DDA/pull/72504))
 * fix: syntax error in #72423 ([#72451](https://github.com/CleverRaven/Cataclysm-DDA/pull/72451))
 * [Xedra Evolved] Add Paraclesian ally buff spells ([#72442](https://github.com/CleverRaven/Cataclysm-DDA/pull/72442))
 * Fixing Android window showing tiny in the top left corner ([#72499](https://github.com/CleverRaven/Cataclysm-DDA/pull/72499))
@@ -211,16 +217,10 @@
 #### Cataclysm-DDA experimental build 2024-03-11-2314 ([42b440d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-11-2314))
 
 * [MoM] Rework Nether Attunement (make it rise faster and fall faster) ([#72310](https://github.com/CleverRaven/Cataclysm-DDA/pull/72310))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-11-2047 ([ef537eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-11-2047))
-
 * imgui demo_ui: no more delay (no more mouse wiggling) ([#72318](https://github.com/CleverRaven/Cataclysm-DDA/pull/72318))
 * Fix volume and weight of cornmeal and dry corn kernels ([#72297](https://github.com/CleverRaven/Cataclysm-DDA/pull/72297))
 * mom: remove no-effect relic_data ([#72304](https://github.com/CleverRaven/Cataclysm-DDA/pull/72304))
 * fix: use root floor above root doors ([#72308](https://github.com/CleverRaven/Cataclysm-DDA/pull/72308))
-* [Xedra Evolved] Update Mien of the Mannequin + Backstage ([#72277](https://github.com/CleverRaven/Cataclysm-DDA/pull/72277))
 * Non-player faction NPCs need no food. ([#72296](https://github.com/CleverRaven/Cataclysm-DDA/pull/72296))
 * Adjust pony wall construction ([#72284](https://github.com/CleverRaven/Cataclysm-DDA/pull/72284))
 * Stop eating butternuts with shell ([#72282](https://github.com/CleverRaven/Cataclysm-DDA/pull/72282))
