@@ -1,3 +1,5 @@
+* [Xedra Evolved] Arvore fae ban: No outdoor fires ([#72507](https://github.com/CleverRaven/Cataclysm-DDA/pull/72507))
+* Don't spuriously error when reloading a save after some json errors. ([#72522](https://github.com/CleverRaven/Cataclysm-DDA/pull/72522))
 
 ---
 
@@ -220,7 +222,5 @@
 * [MoM] Add [Ψ] to the various psi-created pseudoitems ([#72322](https://github.com/CleverRaven/Cataclysm-DDA/pull/72322))
 * [MoM] Rework Nether Attunement (make it rise faster and fall faster) ([#72310](https://github.com/CleverRaven/Cataclysm-DDA/pull/72310))
 * imgui demo_ui: no more delay (no more mouse wiggling) ([#72318](https://github.com/CleverRaven/Cataclysm-DDA/pull/72318))
-* Fix volume and weight of cornmeal and dry corn kernels ([#72297](https://github.com/CleverRaven/Cataclysm-DDA/pull/72297))
 * mom: remove no-effect relic_data ([#72304](https://github.com/CleverRaven/Cataclysm-DDA/pull/72304))
 * fix: use root floor above root doors ([#72308](https://github.com/CleverRaven/Cataclysm-DDA/pull/72308))
-* Non-player faction NPCs need no food. ([#72296](https://github.com/CleverRaven/Cataclysm-DDA/pull/72296))
