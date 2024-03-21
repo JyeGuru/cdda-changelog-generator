@@ -1,3 +1,10 @@
+* Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-21-0047 ([2c345a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-0047))
+
+* [Xedra Evolved] Add "Tranquil Pool" Undine elemental eruption ([#72412](https://github.com/CleverRaven/Cataclysm-DDA/pull/72412))
 * Aftershock: Port Augustmoon Start Scenario ([#72338](https://github.com/CleverRaven/Cataclysm-DDA/pull/72338))
 * Autodrivable meadow ([#72448](https://github.com/CleverRaven/Cataclysm-DDA/pull/72448))
 * Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
@@ -179,8 +186,6 @@
 #### Cataclysm-DDA experimental build 2024-03-13-1047 ([6f5392e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1047))
 
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
-* Make nomad chainmail copy from chainmail jumpsuit ([#72291](https://github.com/CleverRaven/Cataclysm-DDA/pull/72291))
-* Speed up ledge FoV processing ([#72293](https://github.com/CleverRaven/Cataclysm-DDA/pull/72293))
 * Remove temperature from butternuts ([#72294](https://github.com/CleverRaven/Cataclysm-DDA/pull/72294))
 * reword "show more info" in martial art selection menu ([#72299](https://github.com/CleverRaven/Cataclysm-DDA/pull/72299))
 * mention `demo_ui` as an example in docs ([#72303](https://github.com/CleverRaven/Cataclysm-DDA/pull/72303))
@@ -204,11 +209,6 @@
 
 * Enhance the XEDRA Evolved weakening effect to its original intended use. ([#72312](https://github.com/CleverRaven/Cataclysm-DDA/pull/72312))
 * [ Xedra Evolved] Remove Bash from Zoomorphic Figurine ([#72314](https://github.com/CleverRaven/Cataclysm-DDA/pull/72314))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-12-0457 ([d14f0ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-12-0457))
-
 * refine calculations of WEAKNESS_TO_WATER ([#72324](https://github.com/CleverRaven/Cataclysm-DDA/pull/72324))
 * Item groups can define crafted components for an item ([#72327](https://github.com/CleverRaven/Cataclysm-DDA/pull/72327))
 * [MoM] Update hobby skill numbers ([#72321](https://github.com/CleverRaven/Cataclysm-DDA/pull/72321))
