@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-21-1747 ([ab5b4c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-1747))
+
+* Auditing and editing nightmare prose ([#72503](https://github.com/CleverRaven/Cataclysm-DDA/pull/72503))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-21-1139 ([a5d6add](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-1139))
 
 * Unhardcode RM13 use actions ([#72521](https://github.com/CleverRaven/Cataclysm-DDA/pull/72521))
@@ -150,7 +156,6 @@
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
 * Add ImGui support to Android ([#72345](https://github.com/CleverRaven/Cataclysm-DDA/pull/72345))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
-* Fix several issues of gun_info ([#72295](https://github.com/CleverRaven/Cataclysm-DDA/pull/72295))
 * Unwield bionic weapons before wielding other weapons or acting a holster ([#72300](https://github.com/CleverRaven/Cataclysm-DDA/pull/72300))
 
 ---
@@ -206,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2024-03-13-0130 ([96cca64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-0130))
 
 * Remove nonexistent `size` from documentation, clarify steam store page word ([#72346](https://github.com/CleverRaven/Cataclysm-DDA/pull/72346))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-12-2129 ([6b5ecb0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-12-2129))
-
 * [Xedra Evolved] Fae armor and harvest changes ([#72332](https://github.com/CleverRaven/Cataclysm-DDA/pull/72332))
 * Enhance the XEDRA Evolved weakening effect to its original intended use. ([#72312](https://github.com/CleverRaven/Cataclysm-DDA/pull/72312))
 * [ Xedra Evolved] Remove Bash from Zoomorphic Figurine ([#72314](https://github.com/CleverRaven/Cataclysm-DDA/pull/72314))

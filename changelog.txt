@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-03-21-1747 (ab5b4c6)
+* Auditing and editing nightmare prose (#72503)
+
 Cataclysm-DDA experimental build 2024-03-21-1139 (a5d6add)
 * Unhardcode RM13 use actions (#72521)
 
@@ -96,7 +99,6 @@ Cataclysm-DDA experimental build 2024-03-14-2057 (088536f)
 * added "looks_like" properties for battleaxes made from different steel (#72388)
 * Add ImGui support to Android (#72345)
 * Napkins also need TINDER flag (#72380)
-* Fix several issues of gun_info (#72295)
 * Unwield bionic weapons before wielding other weapons or acting a holster (#72300)
 
 Cataclysm-DDA experimental build 2024-03-14-1814 (16e2dce)
@@ -128,8 +130,6 @@ Cataclysm-DDA experimental build 2024-03-13-1047 (6f5392e)
 
 Cataclysm-DDA experimental build 2024-03-13-0130 (96cca64)
 * Remove nonexistent `size` from documentation, clarify steam store page word (#72346)
-
-Cataclysm-DDA experimental build 2024-03-12-2129 (6b5ecb0)
 * [Xedra Evolved] Fae armor and harvest changes (#72332)
 * Enhance the XEDRA Evolved weakening effect to its original intended use. (#72312)
 * [ Xedra Evolved] Remove Bash from Zoomorphic Figurine (#72314)
