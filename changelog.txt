@@ -1,3 +1,5 @@
+* [Xedra Evolved] Arvore brambles are flammable (#72530)
+* [Xedra Evolved]  Credit where it is due (#72492)
 * [Xedra Evolved] Arvore fae ban: No outdoor fires (#72507)
 * Don't spuriously error when reloading a save after some json errors. (#72522)
 
@@ -101,7 +103,6 @@ Cataclysm-DDA experimental build 2024-03-14-2057 (088536f)
 * added "looks_like" properties for battleaxes made from different steel (#72388)
 * Add ImGui support to Android (#72345)
 * Napkins also need TINDER flag (#72380)
-* Unwield bionic weapons before wielding other weapons or acting a holster (#72300)
 
 Cataclysm-DDA experimental build 2024-03-14-1814 (16e2dce)
 * Update ImGui window positions on every resize (#72353)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2024-03-13-1529 (0f487c3)
 
 Cataclysm-DDA experimental build 2024-03-13-1047 (6f5392e)
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds (#72350)
-* reword "show more info" in martial art selection menu (#72299)
 * mention `demo_ui` as an example in docs (#72303)
 * Set proper overmap terrain for innawoods cave specials (#72305)
 
