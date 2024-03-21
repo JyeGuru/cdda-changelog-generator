@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-21-0328 ([b314742](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-0328))
+
 * Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
 
 ---
