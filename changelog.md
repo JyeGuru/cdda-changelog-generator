@@ -1,3 +1,4 @@
+* [MoM] Add EoC activity check for stopping learning power meditation ([#72352](https://github.com/CleverRaven/Cataclysm-DDA/pull/72352))
 * Limbify drying rate again ([#72406](https://github.com/CleverRaven/Cataclysm-DDA/pull/72406))
 
 ---
@@ -194,7 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-03-14-2057 ([088536f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-2057))
 
 * Add entry about the criteria for plant additions to FMS ([#72392](https://github.com/CleverRaven/Cataclysm-DDA/pull/72392))
-* Revert the rest of #69591 ([#72334](https://github.com/CleverRaven/Cataclysm-DDA/pull/72334))
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
 * Add ImGui support to Android ([#72345](https://github.com/CleverRaven/Cataclysm-DDA/pull/72345))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
