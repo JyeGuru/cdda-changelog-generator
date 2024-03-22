@@ -1,3 +1,4 @@
+* Fix sugar (#72488)
 * Audits Tactical and Army Jackets (#72472)
 
 Cataclysm-DDA experimental build 2024-03-22-1551 (bb388e3)
@@ -83,7 +84,6 @@ Cataclysm-DDA experimental build 2024-03-18-0448 (a24bfc1)
 
 Cataclysm-DDA experimental build 2024-03-18-0013 (b9c4092)
 * Sends the Spas-12 into retirement, Mossbergs divorce, and Benellis invade (#72398)
-* Enchantments forever (#72328)
 
 Cataclysm-DDA experimental build 2024-03-17-2106 (9a2fbc8)
 * [Xedra Evolved] More hedge magic (#72393)

@@ -1,3 +1,4 @@
+* Fix sugar ([#72488](https://github.com/CleverRaven/Cataclysm-DDA/pull/72488))
 * Audits Tactical and Army Jackets ([#72472](https://github.com/CleverRaven/Cataclysm-DDA/pull/72472))
 
 ---
@@ -122,7 +123,6 @@
 #### Cataclysm-DDA experimental build 2024-03-18-0013 ([b9c4092](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-18-0013))
 
 * Sends the Spas-12 into retirement, Mossbergs divorce, and Benellis invade ([#72398](https://github.com/CleverRaven/Cataclysm-DDA/pull/72398))
-* Enchantments forever ([#72328](https://github.com/CleverRaven/Cataclysm-DDA/pull/72328))
 
 ---
 
