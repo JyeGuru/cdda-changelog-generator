@@ -1,3 +1,11 @@
+* [MoM] Add missing welding elements to Incandescent Lance ([#72481](https://github.com/CleverRaven/Cataclysm-DDA/pull/72481))
+* [Magiclysm] Tweak spellcasting proficiency trigger ([#72484](https://github.com/CleverRaven/Cataclysm-DDA/pull/72484))
+* [MoM] Fix Pyrokinetic fire not being able to heat foods ([#72496](https://github.com/CleverRaven/Cataclysm-DDA/pull/72496))
+* Fixing issue where imgui screens freeze when window is made small ([#72501](https://github.com/CleverRaven/Cataclysm-DDA/pull/72501))
+* EOC expansion: 'time_until' function ([#72528](https://github.com/CleverRaven/Cataclysm-DDA/pull/72528))
+* Minor generic zombie balance edits 3 ([#72535](https://github.com/CleverRaven/Cataclysm-DDA/pull/72535))
+* Minor LIXA mapgen adjustment ([#72540](https://github.com/CleverRaven/Cataclysm-DDA/pull/72540))
+* Cartridge jewlery spelling fixes ([#72524](https://github.com/CleverRaven/Cataclysm-DDA/pull/72524))
 
 ---
 
@@ -216,16 +224,8 @@
 #### Cataclysm-DDA experimental build 2024-03-13-1047 ([6f5392e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1047))
 
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
-* Set proper overmap terrain for innawoods cave specials ([#72305](https://github.com/CleverRaven/Cataclysm-DDA/pull/72305))
 * Remove nonexistent `size` from documentation, clarify steam store page word ([#72346](https://github.com/CleverRaven/Cataclysm-DDA/pull/72346))
 * [Xedra Evolved] Fae armor and harvest changes ([#72332](https://github.com/CleverRaven/Cataclysm-DDA/pull/72332))
-* Enhance the XEDRA Evolved weakening effect to its original intended use. ([#72312](https://github.com/CleverRaven/Cataclysm-DDA/pull/72312))
-* [ Xedra Evolved] Remove Bash from Zoomorphic Figurine ([#72314](https://github.com/CleverRaven/Cataclysm-DDA/pull/72314))
 * refine calculations of WEAKNESS_TO_WATER ([#72324](https://github.com/CleverRaven/Cataclysm-DDA/pull/72324))
 * Item groups can define crafted components for an item ([#72327](https://github.com/CleverRaven/Cataclysm-DDA/pull/72327))
-* [MoM] Update hobby skill numbers ([#72321](https://github.com/CleverRaven/Cataclysm-DDA/pull/72321))
 * [MoM] Add [Ψ] to the various psi-created pseudoitems ([#72322](https://github.com/CleverRaven/Cataclysm-DDA/pull/72322))
-* [MoM] Rework Nether Attunement (make it rise faster and fall faster) ([#72310](https://github.com/CleverRaven/Cataclysm-DDA/pull/72310))
-* imgui demo_ui: no more delay (no more mouse wiggling) ([#72318](https://github.com/CleverRaven/Cataclysm-DDA/pull/72318))
-* mom: remove no-effect relic_data ([#72304](https://github.com/CleverRaven/Cataclysm-DDA/pull/72304))
-* fix: use root floor above root doors ([#72308](https://github.com/CleverRaven/Cataclysm-DDA/pull/72308))
