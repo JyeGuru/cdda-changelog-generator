@@ -1,3 +1,4 @@
+* Limbify drying rate again (#72406)
 
 Cataclysm-DDA experimental build 2024-03-22-1915 (517058e)
 * Fix sugar (#72488)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2024-03-14-0234 (9666753)
 * fix clang tidy fails (#72361)
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds (#72350)
 * Remove nonexistent `size` from documentation, clarify steam store page word (#72346)
-* [Xedra Evolved] Fae armor and harvest changes (#72332)
