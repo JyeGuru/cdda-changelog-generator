@@ -140,8 +140,6 @@ Cataclysm-DDA experimental build 2024-03-13-1833 (4fdf92b)
 
 Cataclysm-DDA experimental build 2024-03-13-1529 (0f487c3)
 * fix clang tidy fails (#72361)
-
-Cataclysm-DDA experimental build 2024-03-13-1047 (6f5392e)
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds (#72350)
 * Remove nonexistent `size` from documentation, clarify steam store page word (#72346)
 * [Xedra Evolved] Fae armor and harvest changes (#72332)
