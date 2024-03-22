@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-22-1915 ([517058e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-22-1915))
+
 * Fix sugar ([#72488](https://github.com/CleverRaven/Cataclysm-DDA/pull/72488))
 * Audits Tactical and Army Jackets ([#72472](https://github.com/CleverRaven/Cataclysm-DDA/pull/72472))
 
@@ -218,11 +223,6 @@
 
 * fix technomancer_far_sight_lens density CI error ([#72373](https://github.com/CleverRaven/Cataclysm-DDA/pull/72373))
 * Alcohol wipes density fix ([#72378](https://github.com/CleverRaven/Cataclysm-DDA/pull/72378))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-13-1833 ([4fdf92b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1833))
-
 * Fix XEDRA evolved typo that I caused ([#72371](https://github.com/CleverRaven/Cataclysm-DDA/pull/72371))
 * Relocate Russell at New England church retreat ([#72368](https://github.com/CleverRaven/Cataclysm-DDA/pull/72368))
 * fix clang tidy fails ([#72361](https://github.com/CleverRaven/Cataclysm-DDA/pull/72361))
