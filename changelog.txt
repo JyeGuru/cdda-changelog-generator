@@ -1,3 +1,4 @@
+* Rebuild all vision transparency cache instead of only one zlevel (#72542)
 
 Cataclysm-DDA experimental build 2024-03-22-0315 (eb08ea0)
 * Rural road refactor (#72431)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2024-03-13-1529 (0f487c3)
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds (#72350)
 * Remove nonexistent `size` from documentation, clarify steam store page word (#72346)
 * [Xedra Evolved] Fae armor and harvest changes (#72332)
-* refine calculations of WEAKNESS_TO_WATER (#72324)
 * Item groups can define crafted components for an item (#72327)
