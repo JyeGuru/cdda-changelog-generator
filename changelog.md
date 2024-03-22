@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-22-2328 ([be1685d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-22-2328))
+
 * [MoM] Add EoC activity check for stopping learning power meditation ([#72352](https://github.com/CleverRaven/Cataclysm-DDA/pull/72352))
 * Limbify drying rate again ([#72406](https://github.com/CleverRaven/Cataclysm-DDA/pull/72406))
 
@@ -217,11 +222,6 @@
 
 * Crutches melee balance ([#72375](https://github.com/CleverRaven/Cataclysm-DDA/pull/72375))
 * Sky islands - all roads lead to u_prevent_death ([#72358](https://github.com/CleverRaven/Cataclysm-DDA/pull/72358))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-14-0234 ([9666753](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-0234))
-
 * fix technomancer_far_sight_lens density CI error ([#72373](https://github.com/CleverRaven/Cataclysm-DDA/pull/72373))
 * Alcohol wipes density fix ([#72378](https://github.com/CleverRaven/Cataclysm-DDA/pull/72378))
 * Fix XEDRA evolved typo that I caused ([#72371](https://github.com/CleverRaven/Cataclysm-DDA/pull/72371))

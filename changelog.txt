@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-22-2328 (be1685d)
 * [MoM] Add EoC activity check for stopping learning power meditation (#72352)
 * Limbify drying rate again (#72406)
 
@@ -136,8 +138,6 @@ Cataclysm-DDA experimental build 2024-03-14-0742 (31c9dbe)
 Cataclysm-DDA experimental build 2024-03-14-0506 (a365e9e)
 * Crutches melee balance (#72375)
 * Sky islands - all roads lead to u_prevent_death (#72358)
-
-Cataclysm-DDA experimental build 2024-03-14-0234 (9666753)
 * fix technomancer_far_sight_lens density CI error (#72373)
 * Alcohol wipes density fix (#72378)
 * Fix XEDRA evolved typo that I caused (#72371)
