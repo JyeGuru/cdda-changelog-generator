@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-22-1551 (bb388e3)
 * Rebuild all vision transparency cache instead of only one zlevel (#72542)
 
 Cataclysm-DDA experimental build 2024-03-22-0315 (eb08ea0)
@@ -138,8 +140,6 @@ Cataclysm-DDA experimental build 2024-03-14-0234 (9666753)
 Cataclysm-DDA experimental build 2024-03-13-1833 (4fdf92b)
 * Fix XEDRA evolved typo that I caused (#72371)
 * Relocate Russell at New England church retreat (#72368)
-
-Cataclysm-DDA experimental build 2024-03-13-1529 (0f487c3)
 * fix clang tidy fails (#72361)
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds (#72350)
 * Remove nonexistent `size` from documentation, clarify steam store page word (#72346)
