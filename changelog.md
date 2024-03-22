@@ -216,7 +216,6 @@
 #### Cataclysm-DDA experimental build 2024-03-13-1047 ([6f5392e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-13-1047))
 
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
-* mention `demo_ui` as an example in docs ([#72303](https://github.com/CleverRaven/Cataclysm-DDA/pull/72303))
 * Set proper overmap terrain for innawoods cave specials ([#72305](https://github.com/CleverRaven/Cataclysm-DDA/pull/72305))
 * Remove nonexistent `size` from documentation, clarify steam store page word ([#72346](https://github.com/CleverRaven/Cataclysm-DDA/pull/72346))
 * [Xedra Evolved] Fae armor and harvest changes ([#72332](https://github.com/CleverRaven/Cataclysm-DDA/pull/72332))
