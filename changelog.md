@@ -214,11 +214,6 @@
 * Add entry about the criteria for plant additions to FMS ([#72392](https://github.com/CleverRaven/Cataclysm-DDA/pull/72392))
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-14-1814 ([16e2dce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-1814))
-
 * Update ImGui window positions on every resize ([#72353](https://github.com/CleverRaven/Cataclysm-DDA/pull/72353))
 * Bad density ([#72369](https://github.com/CleverRaven/Cataclysm-DDA/pull/72369))
 * Crutches melee balance ([#72375](https://github.com/CleverRaven/Cataclysm-DDA/pull/72375))
