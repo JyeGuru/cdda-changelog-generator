@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-23-0238 ([e507bcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-0238))
+
 * A guide to reviewing PRs for merge ([#72374](https://github.com/CleverRaven/Cataclysm-DDA/pull/72374))
 * Obsolete guns that didn't exist enough or made sense enough  ([#72429](https://github.com/CleverRaven/Cataclysm-DDA/pull/72429))
 * Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
@@ -215,11 +220,6 @@
 #### Cataclysm-DDA experimental build 2024-03-14-0742 ([31c9dbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-0742))
 
 * Bad density ([#72369](https://github.com/CleverRaven/Cataclysm-DDA/pull/72369))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-14-0506 ([a365e9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-0506))
-
 * Crutches melee balance ([#72375](https://github.com/CleverRaven/Cataclysm-DDA/pull/72375))
 * Sky islands - all roads lead to u_prevent_death ([#72358](https://github.com/CleverRaven/Cataclysm-DDA/pull/72358))
 * fix technomancer_far_sight_lens density CI error ([#72373](https://github.com/CleverRaven/Cataclysm-DDA/pull/72373))
