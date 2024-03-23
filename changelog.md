@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-23-2223 ([837b5a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-2223))
+
+* [Xedra Evolved] Add BIONIC_LIMB flag and adjust balance of limbs ([#72407](https://github.com/CleverRaven/Cataclysm-DDA/pull/72407))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-23-1728 ([22c8112](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-1728))
 
 * [MoM] Rework Revitalizing Meditation ([#72552](https://github.com/CleverRaven/Cataclysm-DDA/pull/72552))
@@ -183,12 +189,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-03-15-0717 ([773fa35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-15-0717))
-
-* Add "strictly_unarmed" to buff_taekwondo_static2 ([#72356](https://github.com/CleverRaven/Cataclysm-DDA/pull/72356))
-
----
-
 #### Cataclysm-DDA experimental build 2024-03-15-0457 ([c4dec49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-15-0457))
 
 * [MoM] Move Enhance Mobility to mutation, obsolete items ([#72386](https://github.com/CleverRaven/Cataclysm-DDA/pull/72386))
@@ -201,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-03-15-0221 ([965c899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-15-0221))
 
 * Sky island jewelry quests difficulty curve adjustment ([#72360](https://github.com/CleverRaven/Cataclysm-DDA/pull/72360))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-14-2344 ([1c1c08a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-2344))
-
 * Update FREQUENTLY_MADE_SUGGESTIONS.md ([#72394](https://github.com/CleverRaven/Cataclysm-DDA/pull/72394))
 * Add entry about the criteria for plant additions to FMS ([#72392](https://github.com/CleverRaven/Cataclysm-DDA/pull/72392))
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
