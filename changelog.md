@@ -1,3 +1,4 @@
+* Refactor overmap test so it can run repeatedly in the same area. ([#72565](https://github.com/CleverRaven/Cataclysm-DDA/pull/72565))
 
 ---
 
@@ -12,12 +13,6 @@
 * A guide to reviewing PRs for merge ([#72374](https://github.com/CleverRaven/Cataclysm-DDA/pull/72374))
 * Obsolete guns that didn't exist enough or made sense enough  ([#72429](https://github.com/CleverRaven/Cataclysm-DDA/pull/72429))
 * Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-22-2328 ([be1685d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-22-2328))
-
-* [MoM] Add EoC activity check for stopping learning power meditation ([#72352](https://github.com/CleverRaven/Cataclysm-DDA/pull/72352))
 * Limbify drying rate again ([#72406](https://github.com/CleverRaven/Cataclysm-DDA/pull/72406))
 
 ---
