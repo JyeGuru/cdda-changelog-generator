@@ -1,3 +1,8 @@
+* 2 plastic mask variants ([#72572](https://github.com/CleverRaven/Cataclysm-DDA/pull/72572))
+* Letting Kukris touch (cut) grass  ([#72567](https://github.com/CleverRaven/Cataclysm-DDA/pull/72567))
+* Update JSON_INFO.md ([#72434](https://github.com/CleverRaven/Cataclysm-DDA/pull/72434))
+* Routine i18n updates on 23 March 2024 ([#72569](https://github.com/CleverRaven/Cataclysm-DDA/pull/72569))
+* [Xedra Evolved] Yet more hedge magic ([#72539](https://github.com/CleverRaven/Cataclysm-DDA/pull/72539))
 
 ---
 
@@ -125,7 +130,6 @@
 * Add 'Stretch Fabric' requirement to nomad bodygloves ([#72416](https://github.com/CleverRaven/Cataclysm-DDA/pull/72416))
 * Fix NPC guard's decision to pulp corpses ([#72403](https://github.com/CleverRaven/Cataclysm-DDA/pull/72403))
 * Fix two issues of NPCs sleeping ([#72390](https://github.com/CleverRaven/Cataclysm-DDA/pull/72390))
-* fix fatigue restoration decrease ([#72366](https://github.com/CleverRaven/Cataclysm-DDA/pull/72366))
 * Fix JSON corpse harvests and dissection proficiencies ([#72445](https://github.com/CleverRaven/Cataclysm-DDA/pull/72445))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix refugee's teamster dialogue which doesn't roll directions anymore ([#72437](https://github.com/CleverRaven/Cataclysm-DDA/pull/72437))
@@ -137,12 +141,6 @@
 * fix: align exodii warehouse stairs ([#72464](https://github.com/CleverRaven/Cataclysm-DDA/pull/72464))
 * Fix the NPC's panic underflow ([#72475](https://github.com/CleverRaven/Cataclysm-DDA/pull/72475))
 * Portal storm json fixes ([#72466](https://github.com/CleverRaven/Cataclysm-DDA/pull/72466))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-18-1108 ([9733666](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-18-1108))
-
-* add 5gal bucket ([#72357](https://github.com/CleverRaven/Cataclysm-DDA/pull/72357))
 
 ---
 
@@ -195,21 +193,13 @@
 * Give appropriate `examine_action`s to furniture and terrain ([#72367](https://github.com/CleverRaven/Cataclysm-DDA/pull/72367))
 * PR template: remove `don't delete HTML comments`; add Summary examples; grammar ([#72379](https://github.com/CleverRaven/Cataclysm-DDA/pull/72379))
 * [Xedra Evolved] Paraclesians begin with some mutations and their recipes ([#72389](https://github.com/CleverRaven/Cataclysm-DDA/pull/72389))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-15-0221 ([965c899](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-15-0221))
-
-* Sky island jewelry quests difficulty curve adjustment ([#72360](https://github.com/CleverRaven/Cataclysm-DDA/pull/72360))
 * Update FREQUENTLY_MADE_SUGGESTIONS.md ([#72394](https://github.com/CleverRaven/Cataclysm-DDA/pull/72394))
 * Add entry about the criteria for plant additions to FMS ([#72392](https://github.com/CleverRaven/Cataclysm-DDA/pull/72392))
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
 * Bad density ([#72369](https://github.com/CleverRaven/Cataclysm-DDA/pull/72369))
 * Crutches melee balance ([#72375](https://github.com/CleverRaven/Cataclysm-DDA/pull/72375))
-* Sky islands - all roads lead to u_prevent_death ([#72358](https://github.com/CleverRaven/Cataclysm-DDA/pull/72358))
 * fix technomancer_far_sight_lens density CI error ([#72373](https://github.com/CleverRaven/Cataclysm-DDA/pull/72373))
 * Alcohol wipes density fix ([#72378](https://github.com/CleverRaven/Cataclysm-DDA/pull/72378))
 * Fix XEDRA evolved typo that I caused ([#72371](https://github.com/CleverRaven/Cataclysm-DDA/pull/72371))
 * Relocate Russell at New England church retreat ([#72368](https://github.com/CleverRaven/Cataclysm-DDA/pull/72368))
-* fix clang tidy fails ([#72361](https://github.com/CleverRaven/Cataclysm-DDA/pull/72361))
