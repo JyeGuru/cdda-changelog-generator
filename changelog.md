@@ -228,4 +228,3 @@
 * Relocate Russell at New England church retreat ([#72368](https://github.com/CleverRaven/Cataclysm-DDA/pull/72368))
 * fix clang tidy fails ([#72361](https://github.com/CleverRaven/Cataclysm-DDA/pull/72361))
 * Adds NUTRIENT_OVERRIDE flag to sunflower seeds ([#72350](https://github.com/CleverRaven/Cataclysm-DDA/pull/72350))
-* Remove nonexistent `size` from documentation, clarify steam store page word ([#72346](https://github.com/CleverRaven/Cataclysm-DDA/pull/72346))
