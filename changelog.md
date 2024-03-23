@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-23-1728 ([22c8112](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-1728))
+
+* [MoM] Rework Revitalizing Meditation ([#72552](https://github.com/CleverRaven/Cataclysm-DDA/pull/72552))
 * Refactor overmap test so it can run repeatedly in the same area. ([#72565](https://github.com/CleverRaven/Cataclysm-DDA/pull/72565))
 
 ---
@@ -201,15 +207,9 @@
 #### Cataclysm-DDA experimental build 2024-03-14-2344 ([1c1c08a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-2344))
 
 * Update FREQUENTLY_MADE_SUGGESTIONS.md ([#72394](https://github.com/CleverRaven/Cataclysm-DDA/pull/72394))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-14-2057 ([088536f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-2057))
-
 * Add entry about the criteria for plant additions to FMS ([#72392](https://github.com/CleverRaven/Cataclysm-DDA/pull/72392))
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
-* Update ImGui window positions on every resize ([#72353](https://github.com/CleverRaven/Cataclysm-DDA/pull/72353))
 * Bad density ([#72369](https://github.com/CleverRaven/Cataclysm-DDA/pull/72369))
 * Crutches melee balance ([#72375](https://github.com/CleverRaven/Cataclysm-DDA/pull/72375))
 * Sky islands - all roads lead to u_prevent_death ([#72358](https://github.com/CleverRaven/Cataclysm-DDA/pull/72358))
