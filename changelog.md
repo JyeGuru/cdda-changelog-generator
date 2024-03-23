@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-23-0552 ([bbda3e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-0552))
+
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
 
 ---
@@ -215,11 +220,6 @@
 #### Cataclysm-DDA experimental build 2024-03-14-1814 ([16e2dce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-1814))
 
 * Update ImGui window positions on every resize ([#72353](https://github.com/CleverRaven/Cataclysm-DDA/pull/72353))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-14-0742 ([31c9dbe](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-14-0742))
-
 * Bad density ([#72369](https://github.com/CleverRaven/Cataclysm-DDA/pull/72369))
 * Crutches melee balance ([#72375](https://github.com/CleverRaven/Cataclysm-DDA/pull/72375))
 * Sky islands - all roads lead to u_prevent_death ([#72358](https://github.com/CleverRaven/Cataclysm-DDA/pull/72358))
