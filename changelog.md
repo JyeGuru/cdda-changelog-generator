@@ -1,3 +1,6 @@
+* A guide to reviewing PRs for merge ([#72374](https://github.com/CleverRaven/Cataclysm-DDA/pull/72374))
+* Obsolete guns that didn't exist enough or made sense enough  ([#72429](https://github.com/CleverRaven/Cataclysm-DDA/pull/72429))
+* Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
 
 ---
 
@@ -71,7 +74,6 @@
 #### Cataclysm-DDA experimental build 2024-03-21-0047 ([2c345a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-0047))
 
 * [Xedra Evolved] Add "Tranquil Pool" Undine elemental eruption ([#72412](https://github.com/CleverRaven/Cataclysm-DDA/pull/72412))
-* Aftershock: Port Augustmoon Start Scenario ([#72338](https://github.com/CleverRaven/Cataclysm-DDA/pull/72338))
 * Autodrivable meadow ([#72448](https://github.com/CleverRaven/Cataclysm-DDA/pull/72448))
 * Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
 
@@ -172,7 +174,6 @@
 #### Cataclysm-DDA experimental build 2024-03-15-0717 ([773fa35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-15-0717))
 
 * Add "strictly_unarmed" to buff_taekwondo_static2 ([#72356](https://github.com/CleverRaven/Cataclysm-DDA/pull/72356))
-* Add a screen reader mode option and implement on character creation screens ([#72344](https://github.com/CleverRaven/Cataclysm-DDA/pull/72344))
 
 ---
 
@@ -201,7 +202,6 @@
 
 * Add entry about the criteria for plant additions to FMS ([#72392](https://github.com/CleverRaven/Cataclysm-DDA/pull/72392))
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
-* Add ImGui support to Android ([#72345](https://github.com/CleverRaven/Cataclysm-DDA/pull/72345))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
 
 ---

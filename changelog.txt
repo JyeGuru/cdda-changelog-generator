@@ -1,3 +1,6 @@
+* A guide to reviewing PRs for merge (#72374)
+* Obsolete guns that didn't exist enough or made sense enough  (#72429)
+* Typifying 'generate' operation for map and tinymap (#72513)
 
 Cataclysm-DDA experimental build 2024-03-22-2328 (be1685d)
 * [MoM] Add EoC activity check for stopping learning power meditation (#72352)
@@ -41,7 +44,6 @@ Cataclysm-DDA experimental build 2024-03-21-0328 (b314742)
 
 Cataclysm-DDA experimental build 2024-03-21-0047 (2c345a0)
 * [Xedra Evolved] Add "Tranquil Pool" Undine elemental eruption (#72412)
-* Aftershock: Port Augustmoon Start Scenario (#72338)
 * Autodrivable meadow (#72448)
 * Fix release notes the third (#72516)
 
@@ -109,7 +111,6 @@ Cataclysm-DDA experimental build 2024-03-16-0655 (7c587eb)
 
 Cataclysm-DDA experimental build 2024-03-15-0717 (773fa35)
 * Add "strictly_unarmed" to buff_taekwondo_static2 (#72356)
-* Add a screen reader mode option and implement on character creation screens (#72344)
 
 Cataclysm-DDA experimental build 2024-03-15-0457 (c4dec49)
 * [MoM] Move Enhance Mobility to mutation, obsolete items (#72386)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2024-03-14-2344 (1c1c08a)
 Cataclysm-DDA experimental build 2024-03-14-2057 (088536f)
 * Add entry about the criteria for plant additions to FMS (#72392)
 * added "looks_like" properties for battleaxes made from different steel (#72388)
-* Add ImGui support to Android (#72345)
 * Napkins also need TINDER flag (#72380)
 
 Cataclysm-DDA experimental build 2024-03-14-1814 (16e2dce)
