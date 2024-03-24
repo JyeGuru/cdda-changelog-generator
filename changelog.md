@@ -1,3 +1,6 @@
+* Fixed railroad track length and price ([#72575](https://github.com/CleverRaven/Cataclysm-DDA/pull/72575))
+* Add autolearn to cargo pants ([#72576](https://github.com/CleverRaven/Cataclysm-DDA/pull/72576))
+* Add rural church location ([#72577](https://github.com/CleverRaven/Cataclysm-DDA/pull/72577))
 
 ---
 
@@ -30,12 +33,6 @@
 #### Cataclysm-DDA experimental build 2024-03-23-0552 ([bbda3e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-0552))
 
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-23-0238 ([e507bcf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-0238))
-
-* A guide to reviewing PRs for merge ([#72374](https://github.com/CleverRaven/Cataclysm-DDA/pull/72374))
 * Obsolete guns that didn't exist enough or made sense enough  ([#72429](https://github.com/CleverRaven/Cataclysm-DDA/pull/72429))
 * Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
 * Limbify drying rate again ([#72406](https://github.com/CleverRaven/Cataclysm-DDA/pull/72406))
@@ -205,6 +202,4 @@
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
 * Crutches melee balance ([#72375](https://github.com/CleverRaven/Cataclysm-DDA/pull/72375))
-* fix technomancer_far_sight_lens density CI error ([#72373](https://github.com/CleverRaven/Cataclysm-DDA/pull/72373))
 * Alcohol wipes density fix ([#72378](https://github.com/CleverRaven/Cataclysm-DDA/pull/72378))
-* Fix XEDRA evolved typo that I caused ([#72371](https://github.com/CleverRaven/Cataclysm-DDA/pull/72371))
