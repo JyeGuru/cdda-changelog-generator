@@ -1,3 +1,5 @@
+* Treat scrolling as arrow key in keybindings list ([#72568](https://github.com/CleverRaven/Cataclysm-DDA/pull/72568))
+* Remove unnecessary roofs from steel mill for shadowcasting performance ([#72546](https://github.com/CleverRaven/Cataclysm-DDA/pull/72546))
 * 2 plastic mask variants ([#72572](https://github.com/CleverRaven/Cataclysm-DDA/pull/72572))
 * Letting Kukris touch (cut) grass  ([#72567](https://github.com/CleverRaven/Cataclysm-DDA/pull/72567))
 * Update JSON_INFO.md ([#72434](https://github.com/CleverRaven/Cataclysm-DDA/pull/72434))
@@ -190,7 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-03-15-0457 ([c4dec49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-15-0457))
 
 * [MoM] Move Enhance Mobility to mutation, obsolete items ([#72386](https://github.com/CleverRaven/Cataclysm-DDA/pull/72386))
-* Give appropriate `examine_action`s to furniture and terrain ([#72367](https://github.com/CleverRaven/Cataclysm-DDA/pull/72367))
 * PR template: remove `don't delete HTML comments`; add Summary examples; grammar ([#72379](https://github.com/CleverRaven/Cataclysm-DDA/pull/72379))
 * [Xedra Evolved] Paraclesians begin with some mutations and their recipes ([#72389](https://github.com/CleverRaven/Cataclysm-DDA/pull/72389))
 * Update FREQUENTLY_MADE_SUGGESTIONS.md ([#72394](https://github.com/CleverRaven/Cataclysm-DDA/pull/72394))
@@ -202,4 +203,3 @@
 * fix technomancer_far_sight_lens density CI error ([#72373](https://github.com/CleverRaven/Cataclysm-DDA/pull/72373))
 * Alcohol wipes density fix ([#72378](https://github.com/CleverRaven/Cataclysm-DDA/pull/72378))
 * Fix XEDRA evolved typo that I caused ([#72371](https://github.com/CleverRaven/Cataclysm-DDA/pull/72371))
-* Relocate Russell at New England church retreat ([#72368](https://github.com/CleverRaven/Cataclysm-DDA/pull/72368))
