@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-24-2101 ([8472b14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-24-2101))
+
+* Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-24-0359 ([7bfad84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-24-0359))
 
 * Bugfix Biokinetic learning conditions in biokinesis.json ([#72418](https://github.com/CleverRaven/Cataclysm-DDA/pull/72418))
@@ -193,13 +199,7 @@
 #### Cataclysm-DDA experimental build 2024-03-16-0936 ([0bb4077](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-16-0936))
 
 * Routine i18n updates on 16 March 2024 ([#72415](https://github.com/CleverRaven/Cataclysm-DDA/pull/72415))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-16-0655 ([7c587eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-16-0655))
-
 * [MMA] Pounce on that typo ([#72414](https://github.com/CleverRaven/Cataclysm-DDA/pull/72414))
-* [MoM] Move Enhance Mobility to mutation, obsolete items ([#72386](https://github.com/CleverRaven/Cataclysm-DDA/pull/72386))
 * [Xedra Evolved] Paraclesians begin with some mutations and their recipes ([#72389](https://github.com/CleverRaven/Cataclysm-DDA/pull/72389))
 * Update FREQUENTLY_MADE_SUGGESTIONS.md ([#72394](https://github.com/CleverRaven/Cataclysm-DDA/pull/72394))
 * Add entry about the criteria for plant additions to FMS ([#72392](https://github.com/CleverRaven/Cataclysm-DDA/pull/72392))

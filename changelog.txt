@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-03-24-2101 (8472b14)
+* Correct a call of write_var_value (#72582)
+
 Cataclysm-DDA experimental build 2024-03-24-0359 (7bfad84)
 * Bugfix Biokinetic learning conditions in biokinesis.json (#72418)
 * `var_val` bugfix (#72425)
@@ -127,10 +130,7 @@ Cataclysm-DDA experimental build 2024-03-17-0658 (93fa5e6)
 
 Cataclysm-DDA experimental build 2024-03-16-0936 (0bb4077)
 * Routine i18n updates on 16 March 2024 (#72415)
-
-Cataclysm-DDA experimental build 2024-03-16-0655 (7c587eb)
 * [MMA] Pounce on that typo (#72414)
-* [MoM] Move Enhance Mobility to mutation, obsolete items (#72386)
 * [Xedra Evolved] Paraclesians begin with some mutations and their recipes (#72389)
 * Update FREQUENTLY_MADE_SUGGESTIONS.md (#72394)
 * Add entry about the criteria for plant additions to FMS (#72392)
