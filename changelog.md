@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-24-0121 ([cf9267f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-24-0121))
+
+* Strip ferals from guns ([#72574](https://github.com/CleverRaven/Cataclysm-DDA/pull/72574))
 * Treat scrolling as arrow key in keybindings list ([#72568](https://github.com/CleverRaven/Cataclysm-DDA/pull/72568))
 * Remove unnecessary roofs from steel mill for shadowcasting performance ([#72546](https://github.com/CleverRaven/Cataclysm-DDA/pull/72546))
 * 2 plastic mask variants ([#72572](https://github.com/CleverRaven/Cataclysm-DDA/pull/72572))
@@ -198,7 +204,6 @@
 * Add entry about the criteria for plant additions to FMS ([#72392](https://github.com/CleverRaven/Cataclysm-DDA/pull/72392))
 * added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
 * Napkins also need TINDER flag ([#72380](https://github.com/CleverRaven/Cataclysm-DDA/pull/72380))
-* Bad density ([#72369](https://github.com/CleverRaven/Cataclysm-DDA/pull/72369))
 * Crutches melee balance ([#72375](https://github.com/CleverRaven/Cataclysm-DDA/pull/72375))
 * fix technomancer_far_sight_lens density CI error ([#72373](https://github.com/CleverRaven/Cataclysm-DDA/pull/72373))
 * Alcohol wipes density fix ([#72378](https://github.com/CleverRaven/Cataclysm-DDA/pull/72378))
