@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-25-0256 ([2a21f9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-25-0256))
+
+* Added new profession: Mixed Martial Artist ([#72395](https://github.com/CleverRaven/Cataclysm-DDA/pull/72395))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-24-2101 ([8472b14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-24-2101))
 
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
@@ -193,14 +199,8 @@
 #### Cataclysm-DDA experimental build 2024-03-17-0658 ([93fa5e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-17-0658))
 
 * obsolete tainted_blood ([#72436](https://github.com/CleverRaven/Cataclysm-DDA/pull/72436))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-16-0936 ([0bb4077](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-16-0936))
-
 * Routine i18n updates on 16 March 2024 ([#72415](https://github.com/CleverRaven/Cataclysm-DDA/pull/72415))
 * [MMA] Pounce on that typo ([#72414](https://github.com/CleverRaven/Cataclysm-DDA/pull/72414))
 * [Xedra Evolved] Paraclesians begin with some mutations and their recipes ([#72389](https://github.com/CleverRaven/Cataclysm-DDA/pull/72389))
 * Update FREQUENTLY_MADE_SUGGESTIONS.md ([#72394](https://github.com/CleverRaven/Cataclysm-DDA/pull/72394))
 * Add entry about the criteria for plant additions to FMS ([#72392](https://github.com/CleverRaven/Cataclysm-DDA/pull/72392))
-* added "looks_like" properties for battleaxes made from different steel ([#72388](https://github.com/CleverRaven/Cataclysm-DDA/pull/72388))
