@@ -12,9 +12,6 @@ Cataclysm-DDA experimental build 2024-03-25-1209 (f243a09)
 Cataclysm-DDA experimental build 2024-03-25-0528 (74771e1)
 * Fix other places that needed to manually clear deferred json. (#72563)
 
-Cataclysm-DDA experimental build 2024-03-25-0256 (2a21f9f)
-* Added new profession: Mixed Martial Artist (#72395)
-
 Cataclysm-DDA experimental build 2024-03-24-2101 (8472b14)
 * Correct a call of write_var_value (#72582)
 

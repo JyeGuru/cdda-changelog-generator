@@ -26,12 +26,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-03-25-0256 ([2a21f9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-25-0256))
-
-* Added new profession: Mixed Martial Artist ([#72395](https://github.com/CleverRaven/Cataclysm-DDA/pull/72395))
-
----
-
 #### Cataclysm-DDA experimental build 2024-03-24-2101 ([8472b14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-24-2101))
 
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
