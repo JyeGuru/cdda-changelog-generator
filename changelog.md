@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-25-0528 ([74771e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-25-0528))
+
 * Fix other places that needed to manually clear deferred json. ([#72563](https://github.com/CleverRaven/Cataclysm-DDA/pull/72563))
 
 ---
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-03-17-0924 ([f0eb92d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-17-0924))
 
 * [Xedra Evolved] Add ring of mushrooms map special ([#72441](https://github.com/CleverRaven/Cataclysm-DDA/pull/72441))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-17-0658 ([93fa5e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-17-0658))
-
 * obsolete tainted_blood ([#72436](https://github.com/CleverRaven/Cataclysm-DDA/pull/72436))
 * Routine i18n updates on 16 March 2024 ([#72415](https://github.com/CleverRaven/Cataclysm-DDA/pull/72415))
 * [MMA] Pounce on that typo ([#72414](https://github.com/CleverRaven/Cataclysm-DDA/pull/72414))
