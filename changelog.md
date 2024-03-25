@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-25-2047 ([3461f3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-25-2047))
+
+* Add overflow behavior to pillbox_used and pillbox_large_used ([#72617](https://github.com/CleverRaven/Cataclysm-DDA/pull/72617))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-25-1531 ([7511d69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-25-1531))
 
 * [MoM] Remove default low focus mitigation EoC ([#72588](https://github.com/CleverRaven/Cataclysm-DDA/pull/72588))
@@ -186,11 +192,6 @@
 * fix: align exodii warehouse stairs ([#72464](https://github.com/CleverRaven/Cataclysm-DDA/pull/72464))
 * Fix the NPC's panic underflow ([#72475](https://github.com/CleverRaven/Cataclysm-DDA/pull/72475))
 * Portal storm json fixes ([#72466](https://github.com/CleverRaven/Cataclysm-DDA/pull/72466))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-18-0448 ([a24bfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-18-0448))
-
 * [Magiclysm] Fix spellcasting proficiency setup triggers ([#72473](https://github.com/CleverRaven/Cataclysm-DDA/pull/72473))
 * Sends the Spas-12 into retirement, Mossbergs divorce, and Benellis invade ([#72398](https://github.com/CleverRaven/Cataclysm-DDA/pull/72398))
 * fix: more strict labeler rules ([#72423](https://github.com/CleverRaven/Cataclysm-DDA/pull/72423))
@@ -198,4 +199,3 @@
 * obsolete tainted_blood ([#72436](https://github.com/CleverRaven/Cataclysm-DDA/pull/72436))
 * Routine i18n updates on 16 March 2024 ([#72415](https://github.com/CleverRaven/Cataclysm-DDA/pull/72415))
 * [MMA] Pounce on that typo ([#72414](https://github.com/CleverRaven/Cataclysm-DDA/pull/72414))
-* Update FREQUENTLY_MADE_SUGGESTIONS.md ([#72394](https://github.com/CleverRaven/Cataclysm-DDA/pull/72394))
