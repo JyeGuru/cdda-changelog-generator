@@ -1,3 +1,4 @@
+* Update the table of contents in doc/JSON_INFO.md (#72578)
 * Tell vscode astyle extension where to find astyle config (#72586)
 
 Cataclysm-DDA experimental build 2024-03-25-0528 (74771e1)
@@ -132,4 +133,3 @@ Cataclysm-DDA experimental build 2024-03-17-2106 (9a2fbc8)
 * Routine i18n updates on 16 March 2024 (#72415)
 * [MMA] Pounce on that typo (#72414)
 * Update FREQUENTLY_MADE_SUGGESTIONS.md (#72394)
-* Add entry about the criteria for plant additions to FMS (#72392)
