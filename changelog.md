@@ -1,3 +1,5 @@
+* Better vehicle dragging ([#72515](https://github.com/CleverRaven/Cataclysm-DDA/pull/72515))
+* Prototypes can fill tanks with items that aren't ammo ([#72556](https://github.com/CleverRaven/Cataclysm-DDA/pull/72556))
 * Conditional z level check for nests ([#72560](https://github.com/CleverRaven/Cataclysm-DDA/pull/72560))
 
 ---
@@ -175,7 +177,6 @@
 * include nornagon's json-ls extension for vscode ([#72433](https://github.com/CleverRaven/Cataclysm-DDA/pull/72433))
 * Fix invalidation of soft container nested in a holster ([#72417](https://github.com/CleverRaven/Cataclysm-DDA/pull/72417))
 * Add 'Stretch Fabric' requirement to nomad bodygloves ([#72416](https://github.com/CleverRaven/Cataclysm-DDA/pull/72416))
-* Fix NPC guard's decision to pulp corpses ([#72403](https://github.com/CleverRaven/Cataclysm-DDA/pull/72403))
 * Fix JSON corpse harvests and dissection proficiencies ([#72445](https://github.com/CleverRaven/Cataclysm-DDA/pull/72445))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix refugee's teamster dialogue which doesn't roll directions anymore ([#72437](https://github.com/CleverRaven/Cataclysm-DDA/pull/72437))
