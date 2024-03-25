@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-25-1209 ([f243a09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-25-1209))
+
 * Update the table of contents in doc/JSON_INFO.md ([#72578](https://github.com/CleverRaven/Cataclysm-DDA/pull/72578))
 * Tell vscode astyle extension where to find astyle config ([#72586](https://github.com/CleverRaven/Cataclysm-DDA/pull/72586))
 
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-03-18-0013 ([b9c4092](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-18-0013))
 
 * Sends the Spas-12 into retirement, Mossbergs divorce, and Benellis invade ([#72398](https://github.com/CleverRaven/Cataclysm-DDA/pull/72398))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-17-2106 ([9a2fbc8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-17-2106))
-
 * [Xedra Evolved] More hedge magic ([#72393](https://github.com/CleverRaven/Cataclysm-DDA/pull/72393))
 * fix: more strict labeler rules ([#72423](https://github.com/CleverRaven/Cataclysm-DDA/pull/72423))
 * [Xedra Evolved] Add ring of mushrooms map special ([#72441](https://github.com/CleverRaven/Cataclysm-DDA/pull/72441))
