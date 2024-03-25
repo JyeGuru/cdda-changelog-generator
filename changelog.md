@@ -1,3 +1,4 @@
+* Tell vscode astyle extension where to find astyle config ([#72586](https://github.com/CleverRaven/Cataclysm-DDA/pull/72586))
 
 ---
 
@@ -162,7 +163,6 @@
 * Fix invalidation of soft container nested in a holster ([#72417](https://github.com/CleverRaven/Cataclysm-DDA/pull/72417))
 * Add 'Stretch Fabric' requirement to nomad bodygloves ([#72416](https://github.com/CleverRaven/Cataclysm-DDA/pull/72416))
 * Fix NPC guard's decision to pulp corpses ([#72403](https://github.com/CleverRaven/Cataclysm-DDA/pull/72403))
-* Fix two issues of NPCs sleeping ([#72390](https://github.com/CleverRaven/Cataclysm-DDA/pull/72390))
 * Fix JSON corpse harvests and dissection proficiencies ([#72445](https://github.com/CleverRaven/Cataclysm-DDA/pull/72445))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix refugee's teamster dialogue which doesn't roll directions anymore ([#72437](https://github.com/CleverRaven/Cataclysm-DDA/pull/72437))

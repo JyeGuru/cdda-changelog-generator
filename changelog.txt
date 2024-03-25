@@ -1,3 +1,4 @@
+* Tell vscode astyle extension where to find astyle config (#72586)
 
 Cataclysm-DDA experimental build 2024-03-25-0528 (74771e1)
 * Fix other places that needed to manually clear deferred json. (#72563)
@@ -105,7 +106,6 @@ Cataclysm-DDA experimental build 2024-03-20-0451 (8d5e2e5)
 * Fix invalidation of soft container nested in a holster (#72417)
 * Add 'Stretch Fabric' requirement to nomad bodygloves (#72416)
 * Fix NPC guard's decision to pulp corpses (#72403)
-* Fix two issues of NPCs sleeping (#72390)
 * Fix JSON corpse harvests and dissection proficiencies (#72445)
 * Add other wires to rudimentary lockpick recipe (#72486)
 * Fix refugee's teamster dialogue which doesn't roll directions anymore (#72437)
