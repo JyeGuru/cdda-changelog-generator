@@ -1,3 +1,4 @@
+* Conditional z level check for nests ([#72560](https://github.com/CleverRaven/Cataclysm-DDA/pull/72560))
 
 ---
 
@@ -187,7 +188,6 @@
 * Fix the NPC's panic underflow ([#72475](https://github.com/CleverRaven/Cataclysm-DDA/pull/72475))
 * Portal storm json fixes ([#72466](https://github.com/CleverRaven/Cataclysm-DDA/pull/72466))
 * [Magiclysm] Fix spellcasting proficiency setup triggers ([#72473](https://github.com/CleverRaven/Cataclysm-DDA/pull/72473))
-* Sends the Spas-12 into retirement, Mossbergs divorce, and Benellis invade ([#72398](https://github.com/CleverRaven/Cataclysm-DDA/pull/72398))
 * fix: more strict labeler rules ([#72423](https://github.com/CleverRaven/Cataclysm-DDA/pull/72423))
 * [Xedra Evolved] Add ring of mushrooms map special ([#72441](https://github.com/CleverRaven/Cataclysm-DDA/pull/72441))
 * obsolete tainted_blood ([#72436](https://github.com/CleverRaven/Cataclysm-DDA/pull/72436))
