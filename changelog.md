@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-25-1531 ([7511d69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-25-1531))
+
+* [MoM] Remove default low focus mitigation EoC ([#72588](https://github.com/CleverRaven/Cataclysm-DDA/pull/72588))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-25-1209 ([f243a09](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-25-1209))
 
 * Update the table of contents in doc/JSON_INFO.md ([#72578](https://github.com/CleverRaven/Cataclysm-DDA/pull/72578))
@@ -186,13 +192,7 @@
 #### Cataclysm-DDA experimental build 2024-03-18-0448 ([a24bfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-18-0448))
 
 * [Magiclysm] Fix spellcasting proficiency setup triggers ([#72473](https://github.com/CleverRaven/Cataclysm-DDA/pull/72473))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-18-0013 ([b9c4092](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-18-0013))
-
 * Sends the Spas-12 into retirement, Mossbergs divorce, and Benellis invade ([#72398](https://github.com/CleverRaven/Cataclysm-DDA/pull/72398))
-* [Xedra Evolved] More hedge magic ([#72393](https://github.com/CleverRaven/Cataclysm-DDA/pull/72393))
 * fix: more strict labeler rules ([#72423](https://github.com/CleverRaven/Cataclysm-DDA/pull/72423))
 * [Xedra Evolved] Add ring of mushrooms map special ([#72441](https://github.com/CleverRaven/Cataclysm-DDA/pull/72441))
 * obsolete tainted_blood ([#72436](https://github.com/CleverRaven/Cataclysm-DDA/pull/72436))
