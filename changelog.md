@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-26-2043 ([12148b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-2043))
+
 * Typos fixed ([#72502](https://github.com/CleverRaven/Cataclysm-DDA/pull/72502))
 * Don't check always-assigned integer (interpreted as bool) ([#72564](https://github.com/CleverRaven/Cataclysm-DDA/pull/72564))
 * use a single EoC to check disarming ([#72587](https://github.com/CleverRaven/Cataclysm-DDA/pull/72587))
