@@ -1,3 +1,5 @@
+* Fix incorrect migration ([#72594](https://github.com/CleverRaven/Cataclysm-DDA/pull/72594))
+* Remove some duplicate map save directives that can break the map buffer ([#72596](https://github.com/CleverRaven/Cataclysm-DDA/pull/72596))
 * Tune up some misc oter type spawn ratios ([#72601](https://github.com/CleverRaven/Cataclysm-DDA/pull/72601))
 * Brutish amalgamation quickfix ([#72626](https://github.com/CleverRaven/Cataclysm-DDA/pull/72626))
 * fix: change debug hotkey for edit global vars ([#72627](https://github.com/CleverRaven/Cataclysm-DDA/pull/72627))
@@ -54,12 +56,6 @@
 #### Cataclysm-DDA experimental build 2024-03-24-2101 ([8472b14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-24-2101))
 
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-24-0359 ([7bfad84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-24-0359))
-
-* Bugfix Biokinetic learning conditions in biokinesis.json ([#72418](https://github.com/CleverRaven/Cataclysm-DDA/pull/72418))
 * `var_val` bugfix ([#72425](https://github.com/CleverRaven/Cataclysm-DDA/pull/72425))
 * Port some bionic to json ([#72537](https://github.com/CleverRaven/Cataclysm-DDA/pull/72537))
 * fix: Magiclysm x BombasticPerks school focus perks ([#72541](https://github.com/CleverRaven/Cataclysm-DDA/pull/72541))
@@ -174,7 +170,6 @@
 * Portable game battery type and charges ([#72452](https://github.com/CleverRaven/Cataclysm-DDA/pull/72452))
 * Scrap Art has its prereq proficiency too ([#72449](https://github.com/CleverRaven/Cataclysm-DDA/pull/72449))
 * include nornagon's json-ls extension for vscode ([#72433](https://github.com/CleverRaven/Cataclysm-DDA/pull/72433))
-* Fix invalidation of soft container nested in a holster ([#72417](https://github.com/CleverRaven/Cataclysm-DDA/pull/72417))
 * Fix JSON corpse harvests and dissection proficiencies ([#72445](https://github.com/CleverRaven/Cataclysm-DDA/pull/72445))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix refugee's teamster dialogue which doesn't roll directions anymore ([#72437](https://github.com/CleverRaven/Cataclysm-DDA/pull/72437))
