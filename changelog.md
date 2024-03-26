@@ -158,11 +158,6 @@
 * [Xedra Evolved] Add "Tranquil Pool" Undine elemental eruption ([#72412](https://github.com/CleverRaven/Cataclysm-DDA/pull/72412))
 * Autodrivable meadow ([#72448](https://github.com/CleverRaven/Cataclysm-DDA/pull/72448))
 * Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-20-1429 ([56b3beb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-20-1429))
-
 * adjust api endpoint used to retrieve previous release tag ([#72509](https://github.com/CleverRaven/Cataclysm-DDA/pull/72509))
 * Truncate generated release notes for experimental releases ([#72504](https://github.com/CleverRaven/Cataclysm-DDA/pull/72504))
 * fix: syntax error in #72423 ([#72451](https://github.com/CleverRaven/Cataclysm-DDA/pull/72451))

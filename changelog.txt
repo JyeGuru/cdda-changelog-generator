@@ -95,8 +95,6 @@ Cataclysm-DDA experimental build 2024-03-21-0047 (2c345a0)
 * [Xedra Evolved] Add "Tranquil Pool" Undine elemental eruption (#72412)
 * Autodrivable meadow (#72448)
 * Fix release notes the third (#72516)
-
-Cataclysm-DDA experimental build 2024-03-20-1429 (56b3beb)
 * adjust api endpoint used to retrieve previous release tag (#72509)
 * Truncate generated release notes for experimental releases (#72504)
 * fix: syntax error in #72423 (#72451)
