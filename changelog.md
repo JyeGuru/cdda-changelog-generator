@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-26-0321 ([94b74cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-0321))
+
 * Better vehicle dragging ([#72515](https://github.com/CleverRaven/Cataclysm-DDA/pull/72515))
 * Prototypes can fill tanks with items that aren't ammo ([#72556](https://github.com/CleverRaven/Cataclysm-DDA/pull/72556))
 
@@ -159,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2024-03-20-1429 ([56b3beb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-20-1429))
 
 * adjust api endpoint used to retrieve previous release tag ([#72509](https://github.com/CleverRaven/Cataclysm-DDA/pull/72509))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-20-0451 ([8d5e2e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-20-0451))
-
 * Truncate generated release notes for experimental releases ([#72504](https://github.com/CleverRaven/Cataclysm-DDA/pull/72504))
 * fix: syntax error in #72423 ([#72451](https://github.com/CleverRaven/Cataclysm-DDA/pull/72451))
 * [Xedra Evolved] Add Paraclesian ally buff spells ([#72442](https://github.com/CleverRaven/Cataclysm-DDA/pull/72442))
