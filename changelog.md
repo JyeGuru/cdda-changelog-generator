@@ -89,7 +89,6 @@
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
 * Obsolete guns that didn't exist enough or made sense enough  ([#72429](https://github.com/CleverRaven/Cataclysm-DDA/pull/72429))
 * Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
-* Limbify drying rate again ([#72406](https://github.com/CleverRaven/Cataclysm-DDA/pull/72406))
 
 ---
 
