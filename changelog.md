@@ -1,3 +1,14 @@
+* Brutish amalgamation quickfix ([#72626](https://github.com/CleverRaven/Cataclysm-DDA/pull/72626))
+* fix: change debug hotkey for edit global vars ([#72627](https://github.com/CleverRaven/Cataclysm-DDA/pull/72627))
+* Fix RM13 passives always active bug ([#72629](https://github.com/CleverRaven/Cataclysm-DDA/pull/72629))
+* Aftershock: New (and maybe the last) 7.5mm guns ([#72551](https://github.com/CleverRaven/Cataclysm-DDA/pull/72551))
+* enchantify stat and speed penalties from pain ([#72538](https://github.com/CleverRaven/Cataclysm-DDA/pull/72538))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-26-1759 ([e442936](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-1759))
+
+* Fixed an issue where the ImGui popup window steals focus when not on top ([#72604](https://github.com/CleverRaven/Cataclysm-DDA/pull/72604))
 
 ---
 
@@ -68,12 +79,6 @@
 * Update JSON_INFO.md ([#72434](https://github.com/CleverRaven/Cataclysm-DDA/pull/72434))
 * Routine i18n updates on 23 March 2024 ([#72569](https://github.com/CleverRaven/Cataclysm-DDA/pull/72569))
 * [Xedra Evolved] Yet more hedge magic ([#72539](https://github.com/CleverRaven/Cataclysm-DDA/pull/72539))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-23-2223 ([837b5a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-2223))
-
-* [Xedra Evolved] Add BIONIC_LIMB flag and adjust balance of limbs ([#72407](https://github.com/CleverRaven/Cataclysm-DDA/pull/72407))
 
 ---
 
@@ -149,12 +154,6 @@
 #### Cataclysm-DDA experimental build 2024-03-21-0328 ([b314742](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-0328))
 
 * Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-21-0047 ([2c345a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-0047))
-
-* [Xedra Evolved] Add "Tranquil Pool" Undine elemental eruption ([#72412](https://github.com/CleverRaven/Cataclysm-DDA/pull/72412))
 * Autodrivable meadow ([#72448](https://github.com/CleverRaven/Cataclysm-DDA/pull/72448))
 * Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
 * adjust api endpoint used to retrieve previous release tag ([#72509](https://github.com/CleverRaven/Cataclysm-DDA/pull/72509))
@@ -191,5 +190,3 @@
 * fix: more strict labeler rules ([#72423](https://github.com/CleverRaven/Cataclysm-DDA/pull/72423))
 * [Xedra Evolved] Add ring of mushrooms map special ([#72441](https://github.com/CleverRaven/Cataclysm-DDA/pull/72441))
 * obsolete tainted_blood ([#72436](https://github.com/CleverRaven/Cataclysm-DDA/pull/72436))
-* Routine i18n updates on 16 March 2024 ([#72415](https://github.com/CleverRaven/Cataclysm-DDA/pull/72415))
-* [MMA] Pounce on that typo ([#72414](https://github.com/CleverRaven/Cataclysm-DDA/pull/72414))
