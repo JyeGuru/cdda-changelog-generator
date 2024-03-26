@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-26-2322 ([e804d64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-2322))
+
+* Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-26-2043 ([12148b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-2043))
 
 * Typos fixed ([#72502](https://github.com/CleverRaven/Cataclysm-DDA/pull/72502))
@@ -147,11 +153,6 @@
 #### Cataclysm-DDA experimental build 2024-03-21-1139 ([a5d6add](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-1139))
 
 * Unhardcode RM13 use actions ([#72521](https://github.com/CleverRaven/Cataclysm-DDA/pull/72521))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-21-0328 ([b314742](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-0328))
-
 * Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
 * Autodrivable meadow ([#72448](https://github.com/CleverRaven/Cataclysm-DDA/pull/72448))
 * Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
@@ -171,7 +172,6 @@
 * Bikini tops and bottoms spawn as sets ([#72457](https://github.com/CleverRaven/Cataclysm-DDA/pull/72457))
 * Portable game battery type and charges ([#72452](https://github.com/CleverRaven/Cataclysm-DDA/pull/72452))
 * Scrap Art has its prereq proficiency too ([#72449](https://github.com/CleverRaven/Cataclysm-DDA/pull/72449))
-* include nornagon's json-ls extension for vscode ([#72433](https://github.com/CleverRaven/Cataclysm-DDA/pull/72433))
 * Fix JSON corpse harvests and dissection proficiencies ([#72445](https://github.com/CleverRaven/Cataclysm-DDA/pull/72445))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix refugee's teamster dialogue which doesn't roll directions anymore ([#72437](https://github.com/CleverRaven/Cataclysm-DDA/pull/72437))
