@@ -1,3 +1,4 @@
+* Typo Fix ([#72584](https://github.com/CleverRaven/Cataclysm-DDA/pull/72584))
 * Remove some egregiously strange item spawns ([#72591](https://github.com/CleverRaven/Cataclysm-DDA/pull/72591))
 * Fix incorrect migration ([#72594](https://github.com/CleverRaven/Cataclysm-DDA/pull/72594))
 * Remove some duplicate map save directives that can break the map buffer ([#72596](https://github.com/CleverRaven/Cataclysm-DDA/pull/72596))
@@ -57,7 +58,6 @@
 #### Cataclysm-DDA experimental build 2024-03-24-2101 ([8472b14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-24-2101))
 
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
-* `var_val` bugfix ([#72425](https://github.com/CleverRaven/Cataclysm-DDA/pull/72425))
 * Port some bionic to json ([#72537](https://github.com/CleverRaven/Cataclysm-DDA/pull/72537))
 * fix: Magiclysm x BombasticPerks school focus perks ([#72541](https://github.com/CleverRaven/Cataclysm-DDA/pull/72541))
 * fix range of local coordinates in docs ([#72549](https://github.com/CleverRaven/Cataclysm-DDA/pull/72549))
