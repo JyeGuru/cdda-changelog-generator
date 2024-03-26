@@ -1,5 +1,10 @@
 * Better vehicle dragging ([#72515](https://github.com/CleverRaven/Cataclysm-DDA/pull/72515))
 * Prototypes can fill tanks with items that aren't ammo ([#72556](https://github.com/CleverRaven/Cataclysm-DDA/pull/72556))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-26-0016 ([7ff28cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-0016))
+
 * Conditional z level check for nests ([#72560](https://github.com/CleverRaven/Cataclysm-DDA/pull/72560))
 
 ---
