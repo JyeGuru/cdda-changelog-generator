@@ -1,3 +1,4 @@
+* Typos fixed ([#72502](https://github.com/CleverRaven/Cataclysm-DDA/pull/72502))
 * Don't check always-assigned integer (interpreted as bool) ([#72564](https://github.com/CleverRaven/Cataclysm-DDA/pull/72564))
 * use a single EoC to check disarming ([#72587](https://github.com/CleverRaven/Cataclysm-DDA/pull/72587))
 * Typo Fix ([#72584](https://github.com/CleverRaven/Cataclysm-DDA/pull/72584))
@@ -106,12 +107,6 @@
 #### Cataclysm-DDA experimental build 2024-03-22-1551 ([bb388e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-22-1551))
 
 * Rebuild all vision transparency cache instead of only one zlevel ([#72542](https://github.com/CleverRaven/Cataclysm-DDA/pull/72542))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-22-0315 ([eb08ea0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-22-0315))
-
-* Rural road refactor ([#72431](https://github.com/CleverRaven/Cataclysm-DDA/pull/72431))
 * [MoM] Add missing welding elements to Incandescent Lance ([#72481](https://github.com/CleverRaven/Cataclysm-DDA/pull/72481))
 * [Magiclysm] Tweak spellcasting proficiency trigger ([#72484](https://github.com/CleverRaven/Cataclysm-DDA/pull/72484))
 * [MoM] Fix Pyrokinetic fire not being able to heat foods ([#72496](https://github.com/CleverRaven/Cataclysm-DDA/pull/72496))
