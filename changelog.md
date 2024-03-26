@@ -1,3 +1,4 @@
+* Tune up some misc oter type spawn ratios ([#72601](https://github.com/CleverRaven/Cataclysm-DDA/pull/72601))
 * Brutish amalgamation quickfix ([#72626](https://github.com/CleverRaven/Cataclysm-DDA/pull/72626))
 * fix: change debug hotkey for edit global vars ([#72627](https://github.com/CleverRaven/Cataclysm-DDA/pull/72627))
 * Fix RM13 passives always active bug ([#72629](https://github.com/CleverRaven/Cataclysm-DDA/pull/72629))
@@ -174,7 +175,6 @@
 * Scrap Art has its prereq proficiency too ([#72449](https://github.com/CleverRaven/Cataclysm-DDA/pull/72449))
 * include nornagon's json-ls extension for vscode ([#72433](https://github.com/CleverRaven/Cataclysm-DDA/pull/72433))
 * Fix invalidation of soft container nested in a holster ([#72417](https://github.com/CleverRaven/Cataclysm-DDA/pull/72417))
-* Add 'Stretch Fabric' requirement to nomad bodygloves ([#72416](https://github.com/CleverRaven/Cataclysm-DDA/pull/72416))
 * Fix JSON corpse harvests and dissection proficiencies ([#72445](https://github.com/CleverRaven/Cataclysm-DDA/pull/72445))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix refugee's teamster dialogue which doesn't roll directions anymore ([#72437](https://github.com/CleverRaven/Cataclysm-DDA/pull/72437))
