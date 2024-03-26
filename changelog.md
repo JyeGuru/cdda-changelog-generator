@@ -1,3 +1,5 @@
+* Don't check always-assigned integer (interpreted as bool) ([#72564](https://github.com/CleverRaven/Cataclysm-DDA/pull/72564))
+* use a single EoC to check disarming ([#72587](https://github.com/CleverRaven/Cataclysm-DDA/pull/72587))
 * Typo Fix ([#72584](https://github.com/CleverRaven/Cataclysm-DDA/pull/72584))
 * Remove some egregiously strange item spawns ([#72591](https://github.com/CleverRaven/Cataclysm-DDA/pull/72591))
 * Fix incorrect migration ([#72594](https://github.com/CleverRaven/Cataclysm-DDA/pull/72594))
@@ -90,7 +92,6 @@
 #### Cataclysm-DDA experimental build 2024-03-23-0552 ([bbda3e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-0552))
 
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
-* Obsolete guns that didn't exist enough or made sense enough  ([#72429](https://github.com/CleverRaven/Cataclysm-DDA/pull/72429))
 * Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
 
 ---
