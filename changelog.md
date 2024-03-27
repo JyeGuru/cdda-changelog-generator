@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-27-2021 ([80560c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-27-2021))
+
+* Remove legacy computer migration infrastructure, it's ancient ([#72590](https://github.com/CleverRaven/Cataclysm-DDA/pull/72590))
 * Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
 
 ---
@@ -150,11 +156,6 @@
 * [Xedra Evolved]  Credit where it is due ([#72492](https://github.com/CleverRaven/Cataclysm-DDA/pull/72492))
 * [Xedra Evolved] Arvore fae ban: No outdoor fires ([#72507](https://github.com/CleverRaven/Cataclysm-DDA/pull/72507))
 * Don't spuriously error when reloading a save after some json errors. ([#72522](https://github.com/CleverRaven/Cataclysm-DDA/pull/72522))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-21-1747 ([ab5b4c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-1747))
-
 * Auditing and editing nightmare prose ([#72503](https://github.com/CleverRaven/Cataclysm-DDA/pull/72503))
 * Unhardcode RM13 use actions ([#72521](https://github.com/CleverRaven/Cataclysm-DDA/pull/72521))
 * Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
@@ -175,7 +176,6 @@
 * Bikini tops and bottoms spawn as sets ([#72457](https://github.com/CleverRaven/Cataclysm-DDA/pull/72457))
 * Portable game battery type and charges ([#72452](https://github.com/CleverRaven/Cataclysm-DDA/pull/72452))
 * Scrap Art has its prereq proficiency too ([#72449](https://github.com/CleverRaven/Cataclysm-DDA/pull/72449))
-* Fix JSON corpse harvests and dissection proficiencies ([#72445](https://github.com/CleverRaven/Cataclysm-DDA/pull/72445))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * link to dev tooling on style review ([#72455](https://github.com/CleverRaven/Cataclysm-DDA/pull/72455))
 * No crafting while driving ([#72456](https://github.com/CleverRaven/Cataclysm-DDA/pull/72456))
