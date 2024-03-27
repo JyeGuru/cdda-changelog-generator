@@ -1,3 +1,4 @@
+* [MoM] More nether attunement effects ([#72620](https://github.com/CleverRaven/Cataclysm-DDA/pull/72620))
 * make some enchantments work better with percentage ([#72589](https://github.com/CleverRaven/Cataclysm-DDA/pull/72589))
 * add character_butchered_corpse event ([#72647](https://github.com/CleverRaven/Cataclysm-DDA/pull/72647))
 
@@ -164,7 +165,6 @@
 * Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
 * adjust api endpoint used to retrieve previous release tag ([#72509](https://github.com/CleverRaven/Cataclysm-DDA/pull/72509))
 * Truncate generated release notes for experimental releases ([#72504](https://github.com/CleverRaven/Cataclysm-DDA/pull/72504))
-* fix: syntax error in #72423 ([#72451](https://github.com/CleverRaven/Cataclysm-DDA/pull/72451))
 * Fixing Android window showing tiny in the top left corner ([#72499](https://github.com/CleverRaven/Cataclysm-DDA/pull/72499))
 * Mutation attack error triggered while wielding REACH_ATTACK weapons. ([#72476](https://github.com/CleverRaven/Cataclysm-DDA/pull/72476))
 * Various fixes for bypassing NO_UNLOAD/NO_RELOAD ([#72469](https://github.com/CleverRaven/Cataclysm-DDA/pull/72469))

@@ -1,3 +1,4 @@
+* [MoM] More nether attunement effects (#72620)
 * make some enchantments work better with percentage (#72589)
 * add character_butchered_corpse event (#72647)
 
@@ -107,7 +108,6 @@ Cataclysm-DDA experimental build 2024-03-21-2024 (3138100)
 * Fix release notes the third (#72516)
 * adjust api endpoint used to retrieve previous release tag (#72509)
 * Truncate generated release notes for experimental releases (#72504)
-* fix: syntax error in #72423 (#72451)
 * Fixing Android window showing tiny in the top left corner (#72499)
 * Mutation attack error triggered while wielding REACH_ATTACK weapons. (#72476)
 * Various fixes for bypassing NO_UNLOAD/NO_RELOAD (#72469)
