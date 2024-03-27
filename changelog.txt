@@ -1,3 +1,4 @@
+* Fix flaky drying test (#72650)
 
 Cataclysm-DDA experimental build 2024-03-27-0151 (08a7eee)
 * Update backup generator recipe_deconstruction.json (#72624)
@@ -105,7 +106,6 @@ Cataclysm-DDA experimental build 2024-03-21-1747 (ab5b4c6)
 * adjust api endpoint used to retrieve previous release tag (#72509)
 * Truncate generated release notes for experimental releases (#72504)
 * fix: syntax error in #72423 (#72451)
-* [Xedra Evolved] Add Paraclesian ally buff spells (#72442)
 * Fixing Android window showing tiny in the top left corner (#72499)
 * Mutation attack error triggered while wielding REACH_ATTACK weapons. (#72476)
 * Various fixes for bypassing NO_UNLOAD/NO_RELOAD (#72469)

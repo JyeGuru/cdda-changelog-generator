@@ -1,3 +1,4 @@
+* Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
 
 ---
 
@@ -162,7 +163,6 @@
 * adjust api endpoint used to retrieve previous release tag ([#72509](https://github.com/CleverRaven/Cataclysm-DDA/pull/72509))
 * Truncate generated release notes for experimental releases ([#72504](https://github.com/CleverRaven/Cataclysm-DDA/pull/72504))
 * fix: syntax error in #72423 ([#72451](https://github.com/CleverRaven/Cataclysm-DDA/pull/72451))
-* [Xedra Evolved] Add Paraclesian ally buff spells ([#72442](https://github.com/CleverRaven/Cataclysm-DDA/pull/72442))
 * Fixing Android window showing tiny in the top left corner ([#72499](https://github.com/CleverRaven/Cataclysm-DDA/pull/72499))
 * Mutation attack error triggered while wielding REACH_ATTACK weapons. ([#72476](https://github.com/CleverRaven/Cataclysm-DDA/pull/72476))
 * Various fixes for bypassing NO_UNLOAD/NO_RELOAD ([#72469](https://github.com/CleverRaven/Cataclysm-DDA/pull/72469))
