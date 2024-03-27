@@ -1,3 +1,7 @@
+* Update backup generator recipe_deconstruction.json ([#72624](https://github.com/CleverRaven/Cataclysm-DDA/pull/72624))
+* Spellcasting menu - automatically open to favorites tab if player has favorited spells ([#72643](https://github.com/CleverRaven/Cataclysm-DDA/pull/72643))
+* Make ImGui popup respond properly to 'h' and 'l' keys when highlighting selected option ([#72619](https://github.com/CleverRaven/Cataclysm-DDA/pull/72619))
+* Correct and improve values and recipes for bullets of the caliber .300 BLK ([#72628](https://github.com/CleverRaven/Cataclysm-DDA/pull/72628))
 
 ---
 
@@ -88,7 +92,6 @@
 * Remove unnecessary roofs from steel mill for shadowcasting performance ([#72546](https://github.com/CleverRaven/Cataclysm-DDA/pull/72546))
 * 2 plastic mask variants ([#72572](https://github.com/CleverRaven/Cataclysm-DDA/pull/72572))
 * Letting Kukris touch (cut) grass  ([#72567](https://github.com/CleverRaven/Cataclysm-DDA/pull/72567))
-* Update JSON_INFO.md ([#72434](https://github.com/CleverRaven/Cataclysm-DDA/pull/72434))
 * Routine i18n updates on 23 March 2024 ([#72569](https://github.com/CleverRaven/Cataclysm-DDA/pull/72569))
 * [Xedra Evolved] Yet more hedge magic ([#72539](https://github.com/CleverRaven/Cataclysm-DDA/pull/72539))
 
@@ -174,7 +177,6 @@
 * Scrap Art has its prereq proficiency too ([#72449](https://github.com/CleverRaven/Cataclysm-DDA/pull/72449))
 * Fix JSON corpse harvests and dissection proficiencies ([#72445](https://github.com/CleverRaven/Cataclysm-DDA/pull/72445))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
-* Fix refugee's teamster dialogue which doesn't roll directions anymore ([#72437](https://github.com/CleverRaven/Cataclysm-DDA/pull/72437))
 * link to dev tooling on style review ([#72455](https://github.com/CleverRaven/Cataclysm-DDA/pull/72455))
 * No crafting while driving ([#72456](https://github.com/CleverRaven/Cataclysm-DDA/pull/72456))
 * [MoM] Fix possibility of multiple lifting fields ([#72460](https://github.com/CleverRaven/Cataclysm-DDA/pull/72460))
@@ -184,5 +186,3 @@
 * Fix the NPC's panic underflow ([#72475](https://github.com/CleverRaven/Cataclysm-DDA/pull/72475))
 * Portal storm json fixes ([#72466](https://github.com/CleverRaven/Cataclysm-DDA/pull/72466))
 * [Magiclysm] Fix spellcasting proficiency setup triggers ([#72473](https://github.com/CleverRaven/Cataclysm-DDA/pull/72473))
-* [Xedra Evolved] Add ring of mushrooms map special ([#72441](https://github.com/CleverRaven/Cataclysm-DDA/pull/72441))
-* obsolete tainted_blood ([#72436](https://github.com/CleverRaven/Cataclysm-DDA/pull/72436))
