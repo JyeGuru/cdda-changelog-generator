@@ -1,3 +1,4 @@
+* add character_butchered_corpse event (#72647)
 
 Cataclysm-DDA experimental build 2024-03-27-2021 (80560c3)
 * Remove legacy computer migration infrastructure, it's ancient (#72590)
@@ -102,7 +103,6 @@ Cataclysm-DDA experimental build 2024-03-21-2024 (3138100)
 * Auditing and editing nightmare prose (#72503)
 * Unhardcode RM13 use actions (#72521)
 * Smoke no longer bypasses "NO_BREATHE" flag (#72519)
-* Autodrivable meadow (#72448)
 * Fix release notes the third (#72516)
 * adjust api endpoint used to retrieve previous release tag (#72509)
 * Truncate generated release notes for experimental releases (#72504)
