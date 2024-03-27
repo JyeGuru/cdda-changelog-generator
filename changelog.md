@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-27-0151 ([08a7eee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-27-0151))
+
 * Update backup generator recipe_deconstruction.json ([#72624](https://github.com/CleverRaven/Cataclysm-DDA/pull/72624))
 * Spellcasting menu - automatically open to favorites tab if player has favorited spells ([#72643](https://github.com/CleverRaven/Cataclysm-DDA/pull/72643))
 * Make ImGui popup respond properly to 'h' and 'l' keys when highlighting selected option ([#72619](https://github.com/CleverRaven/Cataclysm-DDA/pull/72619))
@@ -150,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2024-03-21-1747 ([ab5b4c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-1747))
 
 * Auditing and editing nightmare prose ([#72503](https://github.com/CleverRaven/Cataclysm-DDA/pull/72503))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-21-1139 ([a5d6add](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-21-1139))
-
 * Unhardcode RM13 use actions ([#72521](https://github.com/CleverRaven/Cataclysm-DDA/pull/72521))
 * Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
 * Autodrivable meadow ([#72448](https://github.com/CleverRaven/Cataclysm-DDA/pull/72448))
