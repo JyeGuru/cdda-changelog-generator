@@ -1,3 +1,4 @@
+* make some enchantments work better with percentage (#72589)
 * add character_butchered_corpse event (#72647)
 
 Cataclysm-DDA experimental build 2024-03-27-2021 (80560c3)
@@ -118,7 +119,6 @@ Cataclysm-DDA experimental build 2024-03-21-2024 (3138100)
 * Update EFFECT_ON_CONDITION.md (#72459)
 * Bikini tops and bottoms spawn as sets (#72457)
 * Portable game battery type and charges (#72452)
-* Scrap Art has its prereq proficiency too (#72449)
 * Add other wires to rudimentary lockpick recipe (#72486)
 * link to dev tooling on style review (#72455)
 * No crafting while driving (#72456)

@@ -1,3 +1,4 @@
+* make some enchantments work better with percentage ([#72589](https://github.com/CleverRaven/Cataclysm-DDA/pull/72589))
 * add character_butchered_corpse event ([#72647](https://github.com/CleverRaven/Cataclysm-DDA/pull/72647))
 
 ---
@@ -175,7 +176,6 @@
 * Update EFFECT_ON_CONDITION.md ([#72459](https://github.com/CleverRaven/Cataclysm-DDA/pull/72459))
 * Bikini tops and bottoms spawn as sets ([#72457](https://github.com/CleverRaven/Cataclysm-DDA/pull/72457))
 * Portable game battery type and charges ([#72452](https://github.com/CleverRaven/Cataclysm-DDA/pull/72452))
-* Scrap Art has its prereq proficiency too ([#72449](https://github.com/CleverRaven/Cataclysm-DDA/pull/72449))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * link to dev tooling on style review ([#72455](https://github.com/CleverRaven/Cataclysm-DDA/pull/72455))
 * No crafting while driving ([#72456](https://github.com/CleverRaven/Cataclysm-DDA/pull/72456))
