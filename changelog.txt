@@ -1,3 +1,4 @@
+* add map_id condition for EoC (#72661)
 * Fix some uses of part_at() to use precalc positions (#72658)
 * Brewing density fixes (#72641)
 
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2024-03-22-1551 (bb388e3)
 * Rattlesnakes leave shed skins behind (#72490)
 * Change remote vehicle controller recipe to be consistent (#72471)
 * Clean up formatting and tweak wording in UI documentation (#72462)
-* Update EFFECT_ON_CONDITION.md (#72459)
 * Add other wires to rudimentary lockpick recipe (#72486)
 * [MoM] Fix possibility of multiple lifting fields (#72460)
 * don't offer exodii scouting mission multiple times (#72463)

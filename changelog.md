@@ -1,3 +1,4 @@
+* add map_id condition for EoC ([#72661](https://github.com/CleverRaven/Cataclysm-DDA/pull/72661))
 * Fix some uses of part_at() to use precalc positions ([#72658](https://github.com/CleverRaven/Cataclysm-DDA/pull/72658))
 * Brewing density fixes ([#72641](https://github.com/CleverRaven/Cataclysm-DDA/pull/72641))
 
@@ -178,7 +179,6 @@
 * Rattlesnakes leave shed skins behind ([#72490](https://github.com/CleverRaven/Cataclysm-DDA/pull/72490))
 * Change remote vehicle controller recipe to be consistent ([#72471](https://github.com/CleverRaven/Cataclysm-DDA/pull/72471))
 * Clean up formatting and tweak wording in UI documentation ([#72462](https://github.com/CleverRaven/Cataclysm-DDA/pull/72462))
-* Update EFFECT_ON_CONDITION.md ([#72459](https://github.com/CleverRaven/Cataclysm-DDA/pull/72459))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * [MoM] Fix possibility of multiple lifting fields ([#72460](https://github.com/CleverRaven/Cataclysm-DDA/pull/72460))
 * don't offer exodii scouting mission multiple times ([#72463](https://github.com/CleverRaven/Cataclysm-DDA/pull/72463))
