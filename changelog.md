@@ -1,3 +1,4 @@
+* fix trapavoid monsters refusing to ever step on traps ([#72662](https://github.com/CleverRaven/Cataclysm-DDA/pull/72662))
 * [CR] Reign in the damage from items dropped from height, with math ([#72615](https://github.com/CleverRaven/Cataclysm-DDA/pull/72615))
 
 ---
@@ -195,5 +196,4 @@
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix seg fault ([#72468](https://github.com/CleverRaven/Cataclysm-DDA/pull/72468))
 * Fix the NPC's panic underflow ([#72475](https://github.com/CleverRaven/Cataclysm-DDA/pull/72475))
-* Portal storm json fixes ([#72466](https://github.com/CleverRaven/Cataclysm-DDA/pull/72466))
 * [Magiclysm] Fix spellcasting proficiency setup triggers ([#72473](https://github.com/CleverRaven/Cataclysm-DDA/pull/72473))

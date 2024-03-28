@@ -1,3 +1,4 @@
+* fix trapavoid monsters refusing to ever step on traps (#72662)
 * [CR] Reign in the damage from items dropped from height, with math (#72615)
 
 Cataclysm-DDA experimental build 2024-03-28-1859 (10c525d)
@@ -132,5 +133,4 @@ Cataclysm-DDA experimental build 2024-03-22-1551 (bb388e3)
 * Add other wires to rudimentary lockpick recipe (#72486)
 * Fix seg fault (#72468)
 * Fix the NPC's panic underflow (#72475)
-* Portal storm json fixes (#72466)
 * [Magiclysm] Fix spellcasting proficiency setup triggers (#72473)
