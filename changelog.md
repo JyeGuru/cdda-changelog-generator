@@ -161,11 +161,6 @@
 
 * Fix sugar ([#72488](https://github.com/CleverRaven/Cataclysm-DDA/pull/72488))
 * Audits Tactical and Army Jackets ([#72472](https://github.com/CleverRaven/Cataclysm-DDA/pull/72472))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-22-1551 ([bb388e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-22-1551))
-
 * Rebuild all vision transparency cache instead of only one zlevel ([#72542](https://github.com/CleverRaven/Cataclysm-DDA/pull/72542))
 * [MoM] Add missing welding elements to Incandescent Lance ([#72481](https://github.com/CleverRaven/Cataclysm-DDA/pull/72481))
 * [Magiclysm] Tweak spellcasting proficiency trigger ([#72484](https://github.com/CleverRaven/Cataclysm-DDA/pull/72484))
