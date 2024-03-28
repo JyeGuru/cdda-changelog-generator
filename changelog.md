@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-28-0229 ([09526ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-28-0229))
+
 * Aftershock: Remove organ/meat related recipe overrides ([#72606](https://github.com/CleverRaven/Cataclysm-DDA/pull/72606))
 
 ---
@@ -152,11 +157,6 @@
 * Minor generic zombie balance edits 3 ([#72535](https://github.com/CleverRaven/Cataclysm-DDA/pull/72535))
 * Minor LIXA mapgen adjustment ([#72540](https://github.com/CleverRaven/Cataclysm-DDA/pull/72540))
 * Cartridge jewlery spelling fixes ([#72524](https://github.com/CleverRaven/Cataclysm-DDA/pull/72524))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-22-0025 ([54d9f4c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-22-0025))
-
 * Adding imgui_demo.cpp to CMake build to fix build errors ([#72533](https://github.com/CleverRaven/Cataclysm-DDA/pull/72533))
 * [Xedra Evolved] Arvore brambles are flammable ([#72530](https://github.com/CleverRaven/Cataclysm-DDA/pull/72530))
 * [Xedra Evolved]  Credit where it is due ([#72492](https://github.com/CleverRaven/Cataclysm-DDA/pull/72492))
