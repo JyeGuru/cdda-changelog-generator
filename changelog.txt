@@ -1,3 +1,4 @@
+* Aftershock: Remove organ/meat related recipe overrides (#72606)
 
 Cataclysm-DDA experimental build 2024-03-27-2334 (09e64d3)
 * [MoM] Add PSIONIC flag to Levitation (#72660)
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2024-03-22-0025 (54d9f4c)
 * Update EFFECT_ON_CONDITION.md (#72459)
 * Bikini tops and bottoms spawn as sets (#72457)
 * Add other wires to rudimentary lockpick recipe (#72486)
-* link to dev tooling on style review (#72455)
 * No crafting while driving (#72456)
 * [MoM] Fix possibility of multiple lifting fields (#72460)
 * don't offer exodii scouting mission multiple times (#72463)

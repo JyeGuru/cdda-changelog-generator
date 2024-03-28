@@ -1,3 +1,4 @@
+* Aftershock: Remove organ/meat related recipe overrides ([#72606](https://github.com/CleverRaven/Cataclysm-DDA/pull/72606))
 
 ---
 
@@ -178,7 +179,6 @@
 * Update EFFECT_ON_CONDITION.md ([#72459](https://github.com/CleverRaven/Cataclysm-DDA/pull/72459))
 * Bikini tops and bottoms spawn as sets ([#72457](https://github.com/CleverRaven/Cataclysm-DDA/pull/72457))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
-* link to dev tooling on style review ([#72455](https://github.com/CleverRaven/Cataclysm-DDA/pull/72455))
 * No crafting while driving ([#72456](https://github.com/CleverRaven/Cataclysm-DDA/pull/72456))
 * [MoM] Fix possibility of multiple lifting fields ([#72460](https://github.com/CleverRaven/Cataclysm-DDA/pull/72460))
 * don't offer exodii scouting mission multiple times ([#72463](https://github.com/CleverRaven/Cataclysm-DDA/pull/72463))
