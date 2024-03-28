@@ -1,3 +1,10 @@
+* [CR] Reign in the damage from items dropped from height, with math ([#72615](https://github.com/CleverRaven/Cataclysm-DDA/pull/72615))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-28-1859 ([10c525d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-28-1859))
+
+* Properly obsolete MoM obsoletion ([#72672](https://github.com/CleverRaven/Cataclysm-DDA/pull/72672))
 
 ---
 
@@ -186,9 +193,7 @@
 * Rattlesnakes leave shed skins behind ([#72490](https://github.com/CleverRaven/Cataclysm-DDA/pull/72490))
 * Change remote vehicle controller recipe to be consistent ([#72471](https://github.com/CleverRaven/Cataclysm-DDA/pull/72471))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
-* don't offer exodii scouting mission multiple times ([#72463](https://github.com/CleverRaven/Cataclysm-DDA/pull/72463))
 * Fix seg fault ([#72468](https://github.com/CleverRaven/Cataclysm-DDA/pull/72468))
-* fix: align exodii warehouse stairs ([#72464](https://github.com/CleverRaven/Cataclysm-DDA/pull/72464))
 * Fix the NPC's panic underflow ([#72475](https://github.com/CleverRaven/Cataclysm-DDA/pull/72475))
 * Portal storm json fixes ([#72466](https://github.com/CleverRaven/Cataclysm-DDA/pull/72466))
 * [Magiclysm] Fix spellcasting proficiency setup triggers ([#72473](https://github.com/CleverRaven/Cataclysm-DDA/pull/72473))

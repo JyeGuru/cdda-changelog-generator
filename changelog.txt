@@ -1,3 +1,7 @@
+* [CR] Reign in the damage from items dropped from height, with math (#72615)
+
+Cataclysm-DDA experimental build 2024-03-28-1859 (10c525d)
+* Properly obsolete MoM obsoletion (#72672)
 
 Cataclysm-DDA experimental build 2024-03-28-0454 (7e6bc3f)
 * Improve description of wood crossbow (#72610)
@@ -126,9 +130,7 @@ Cataclysm-DDA experimental build 2024-03-22-1551 (bb388e3)
 * Rattlesnakes leave shed skins behind (#72490)
 * Change remote vehicle controller recipe to be consistent (#72471)
 * Add other wires to rudimentary lockpick recipe (#72486)
-* don't offer exodii scouting mission multiple times (#72463)
 * Fix seg fault (#72468)
-* fix: align exodii warehouse stairs (#72464)
 * Fix the NPC's panic underflow (#72475)
 * Portal storm json fixes (#72466)
 * [Magiclysm] Fix spellcasting proficiency setup triggers (#72473)
