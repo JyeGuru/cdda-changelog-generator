@@ -1,3 +1,4 @@
+* Improve description of wood crossbow ([#72610](https://github.com/CleverRaven/Cataclysm-DDA/pull/72610))
 * Move ruined books from abstract.json ([#72665](https://github.com/CleverRaven/Cataclysm-DDA/pull/72665))
 * add map_id condition for EoC ([#72661](https://github.com/CleverRaven/Cataclysm-DDA/pull/72661))
 * Fix some uses of part_at() to use precalc positions ([#72658](https://github.com/CleverRaven/Cataclysm-DDA/pull/72658))
@@ -179,7 +180,6 @@
 * Dead NPCs give samples when dissected ([#72491](https://github.com/CleverRaven/Cataclysm-DDA/pull/72491))
 * Rattlesnakes leave shed skins behind ([#72490](https://github.com/CleverRaven/Cataclysm-DDA/pull/72490))
 * Change remote vehicle controller recipe to be consistent ([#72471](https://github.com/CleverRaven/Cataclysm-DDA/pull/72471))
-* Clean up formatting and tweak wording in UI documentation ([#72462](https://github.com/CleverRaven/Cataclysm-DDA/pull/72462))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * don't offer exodii scouting mission multiple times ([#72463](https://github.com/CleverRaven/Cataclysm-DDA/pull/72463))
 * Fix seg fault ([#72468](https://github.com/CleverRaven/Cataclysm-DDA/pull/72468))
