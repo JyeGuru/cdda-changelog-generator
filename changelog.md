@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-29-0038 ([6004f7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-29-0038))
+
+* Adding MOVEMENT_EXERTION_MODIFIER as enchantment ([#72580](https://github.com/CleverRaven/Cataclysm-DDA/pull/72580))
 * fix trapavoid monsters refusing to ever step on traps ([#72662](https://github.com/CleverRaven/Cataclysm-DDA/pull/72662))
 * [CR] Reign in the damage from items dropped from height, with math ([#72615](https://github.com/CleverRaven/Cataclysm-DDA/pull/72615))
 
@@ -154,11 +160,6 @@
 
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
 * Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-22-1915 ([517058e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-22-1915))
-
 * Fix sugar ([#72488](https://github.com/CleverRaven/Cataclysm-DDA/pull/72488))
 * Audits Tactical and Army Jackets ([#72472](https://github.com/CleverRaven/Cataclysm-DDA/pull/72472))
 * Rebuild all vision transparency cache instead of only one zlevel ([#72542](https://github.com/CleverRaven/Cataclysm-DDA/pull/72542))
@@ -189,6 +190,5 @@
 * Rattlesnakes leave shed skins behind ([#72490](https://github.com/CleverRaven/Cataclysm-DDA/pull/72490))
 * Change remote vehicle controller recipe to be consistent ([#72471](https://github.com/CleverRaven/Cataclysm-DDA/pull/72471))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
-* Fix seg fault ([#72468](https://github.com/CleverRaven/Cataclysm-DDA/pull/72468))
 * Fix the NPC's panic underflow ([#72475](https://github.com/CleverRaven/Cataclysm-DDA/pull/72475))
 * [Magiclysm] Fix spellcasting proficiency setup triggers ([#72473](https://github.com/CleverRaven/Cataclysm-DDA/pull/72473))

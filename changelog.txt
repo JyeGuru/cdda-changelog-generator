@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-03-29-0038 (6004f7b)
+* Adding MOVEMENT_EXERTION_MODIFIER as enchantment (#72580)
 * fix trapavoid monsters refusing to ever step on traps (#72662)
 * [CR] Reign in the damage from items dropped from height, with math (#72615)
 
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2024-03-23-1728 (22c8112)
 Cataclysm-DDA experimental build 2024-03-23-0552 (bbda3e4)
 * [MoM] Add BLEED_STOP_BONUS to Coagulation (#72555)
 * Typifying 'generate' operation for map and tinymap (#72513)
-
-Cataclysm-DDA experimental build 2024-03-22-1915 (517058e)
 * Fix sugar (#72488)
 * Audits Tactical and Army Jackets (#72472)
 * Rebuild all vision transparency cache instead of only one zlevel (#72542)
@@ -129,6 +130,5 @@ Cataclysm-DDA experimental build 2024-03-22-1915 (517058e)
 * Rattlesnakes leave shed skins behind (#72490)
 * Change remote vehicle controller recipe to be consistent (#72471)
 * Add other wires to rudimentary lockpick recipe (#72486)
-* Fix seg fault (#72468)
 * Fix the NPC's panic underflow (#72475)
 * [Magiclysm] Fix spellcasting proficiency setup triggers (#72473)
