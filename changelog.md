@@ -1,3 +1,11 @@
+* Test case: NPCs prefer to use guns ([#72683](https://github.com/CleverRaven/Cataclysm-DDA/pull/72683))
+* no regenerates_in_dark in sunlight ([#72684](https://github.com/CleverRaven/Cataclysm-DDA/pull/72684))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-29-1553 ([1e95d1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-29-1553))
+
+* Make some newer mutant mammals actually use proper harvestlists ([#72686](https://github.com/CleverRaven/Cataclysm-DDA/pull/72686))
 * Allow disabling limb conditional flags via effects ([#72609](https://github.com/CleverRaven/Cataclysm-DDA/pull/72609))
 * Fix shadowcasting for weather with sight_penalty != 1.0 ([#72669](https://github.com/CleverRaven/Cataclysm-DDA/pull/72669))
 * Rust Zombie Audit ([#72557](https://github.com/CleverRaven/Cataclysm-DDA/pull/72557))
@@ -167,16 +175,9 @@
 
 * [MoM] Rework Revitalizing Meditation ([#72552](https://github.com/CleverRaven/Cataclysm-DDA/pull/72552))
 * Refactor overmap test so it can run repeatedly in the same area. ([#72565](https://github.com/CleverRaven/Cataclysm-DDA/pull/72565))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-23-0552 ([bbda3e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-0552))
-
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
 * Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
 * Rebuild all vision transparency cache instead of only one zlevel ([#72542](https://github.com/CleverRaven/Cataclysm-DDA/pull/72542))
-* [MoM] Fix Pyrokinetic fire not being able to heat foods ([#72496](https://github.com/CleverRaven/Cataclysm-DDA/pull/72496))
-* Fixing issue where imgui screens freeze when window is made small ([#72501](https://github.com/CleverRaven/Cataclysm-DDA/pull/72501))
 * EOC expansion: 'time_until' function ([#72528](https://github.com/CleverRaven/Cataclysm-DDA/pull/72528))
 * Minor generic zombie balance edits 3 ([#72535](https://github.com/CleverRaven/Cataclysm-DDA/pull/72535))
 * Minor LIXA mapgen adjustment ([#72540](https://github.com/CleverRaven/Cataclysm-DDA/pull/72540))
@@ -191,4 +192,3 @@
 * Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
 * adjust api endpoint used to retrieve previous release tag ([#72509](https://github.com/CleverRaven/Cataclysm-DDA/pull/72509))
 * Truncate generated release notes for experimental releases ([#72504](https://github.com/CleverRaven/Cataclysm-DDA/pull/72504))
-* Fixing Android window showing tiny in the top left corner ([#72499](https://github.com/CleverRaven/Cataclysm-DDA/pull/72499))
