@@ -1,3 +1,5 @@
+* Allow disabling limb conditional flags via effects ([#72609](https://github.com/CleverRaven/Cataclysm-DDA/pull/72609))
+* Fix shadowcasting for weather with sight_penalty != 1.0 ([#72669](https://github.com/CleverRaven/Cataclysm-DDA/pull/72669))
 * Rust Zombie Audit ([#72557](https://github.com/CleverRaven/Cataclysm-DDA/pull/72557))
 * Hub armor fix and update ballistic material ([#72679](https://github.com/CleverRaven/Cataclysm-DDA/pull/72679))
 * Disable warnings related to ledge when the creature has the "LEVITATION" flag ([#72613](https://github.com/CleverRaven/Cataclysm-DDA/pull/72613))
@@ -181,7 +183,6 @@
 * Cartridge jewlery spelling fixes ([#72524](https://github.com/CleverRaven/Cataclysm-DDA/pull/72524))
 * Adding imgui_demo.cpp to CMake build to fix build errors ([#72533](https://github.com/CleverRaven/Cataclysm-DDA/pull/72533))
 * [Xedra Evolved] Arvore brambles are flammable ([#72530](https://github.com/CleverRaven/Cataclysm-DDA/pull/72530))
-* [Xedra Evolved]  Credit where it is due ([#72492](https://github.com/CleverRaven/Cataclysm-DDA/pull/72492))
 * [Xedra Evolved] Arvore fae ban: No outdoor fires ([#72507](https://github.com/CleverRaven/Cataclysm-DDA/pull/72507))
 * Don't spuriously error when reloading a save after some json errors. ([#72522](https://github.com/CleverRaven/Cataclysm-DDA/pull/72522))
 * Auditing and editing nightmare prose ([#72503](https://github.com/CleverRaven/Cataclysm-DDA/pull/72503))
@@ -191,4 +192,3 @@
 * adjust api endpoint used to retrieve previous release tag ([#72509](https://github.com/CleverRaven/Cataclysm-DDA/pull/72509))
 * Truncate generated release notes for experimental releases ([#72504](https://github.com/CleverRaven/Cataclysm-DDA/pull/72504))
 * Fixing Android window showing tiny in the top left corner ([#72499](https://github.com/CleverRaven/Cataclysm-DDA/pull/72499))
-* Update candy in ice cream ([#72494](https://github.com/CleverRaven/Cataclysm-DDA/pull/72494))
