@@ -1,3 +1,4 @@
+* Hub armor fix and update ballistic material ([#72679](https://github.com/CleverRaven/Cataclysm-DDA/pull/72679))
 * Disable warnings related to ledge when the creature has the "LEVITATION" flag ([#72613](https://github.com/CleverRaven/Cataclysm-DDA/pull/72613))
 * Notched plank description update ([#72680](https://github.com/CleverRaven/Cataclysm-DDA/pull/72680))
 * Add a gun-less variant of mansion safe item group and use it in the resort. ([#72595](https://github.com/CleverRaven/Cataclysm-DDA/pull/72595))
@@ -191,4 +192,3 @@
 * Fixing Android window showing tiny in the top left corner ([#72499](https://github.com/CleverRaven/Cataclysm-DDA/pull/72499))
 * Update candy in ice cream ([#72494](https://github.com/CleverRaven/Cataclysm-DDA/pull/72494))
 * Dead NPCs give samples when dissected ([#72491](https://github.com/CleverRaven/Cataclysm-DDA/pull/72491))
-* Rattlesnakes leave shed skins behind ([#72490](https://github.com/CleverRaven/Cataclysm-DDA/pull/72490))
