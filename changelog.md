@@ -1,3 +1,4 @@
+* Disable warnings related to ledge when the creature has the "LEVITATION" flag ([#72613](https://github.com/CleverRaven/Cataclysm-DDA/pull/72613))
 * Notched plank description update ([#72680](https://github.com/CleverRaven/Cataclysm-DDA/pull/72680))
 * Add a gun-less variant of mansion safe item group and use it in the resort. ([#72595](https://github.com/CleverRaven/Cataclysm-DDA/pull/72595))
 * Implemented drawing of CJK characters with ImGui screens ([#72579](https://github.com/CleverRaven/Cataclysm-DDA/pull/72579))
@@ -169,7 +170,6 @@
 
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
 * Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
-* Fix sugar ([#72488](https://github.com/CleverRaven/Cataclysm-DDA/pull/72488))
 * Rebuild all vision transparency cache instead of only one zlevel ([#72542](https://github.com/CleverRaven/Cataclysm-DDA/pull/72542))
 * [MoM] Fix Pyrokinetic fire not being able to heat foods ([#72496](https://github.com/CleverRaven/Cataclysm-DDA/pull/72496))
 * Fixing issue where imgui screens freeze when window is made small ([#72501](https://github.com/CleverRaven/Cataclysm-DDA/pull/72501))
