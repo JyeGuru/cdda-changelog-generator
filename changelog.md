@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-29-1832 ([dd4e109](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-29-1832))
+
 * Test case: NPCs prefer to use guns ([#72683](https://github.com/CleverRaven/Cataclysm-DDA/pull/72683))
 * no regenerates_in_dark in sunlight ([#72684](https://github.com/CleverRaven/Cataclysm-DDA/pull/72684))
 
