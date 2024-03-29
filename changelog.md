@@ -1,3 +1,5 @@
+* fix clang tidy error in condition.cpp ([#72670](https://github.com/CleverRaven/Cataclysm-DDA/pull/72670))
+* Remove "Rapid strike" technique from knives ([#72536](https://github.com/CleverRaven/Cataclysm-DDA/pull/72536))
 * Remove Survivor Revolvers ([#72638](https://github.com/CleverRaven/Cataclysm-DDA/pull/72638))
 * [MoM] Channeling powers costs focus ([#72654](https://github.com/CleverRaven/Cataclysm-DDA/pull/72654))
 
@@ -163,7 +165,6 @@
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
 * Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
 * Fix sugar ([#72488](https://github.com/CleverRaven/Cataclysm-DDA/pull/72488))
-* Audits Tactical and Army Jackets ([#72472](https://github.com/CleverRaven/Cataclysm-DDA/pull/72472))
 * Rebuild all vision transparency cache instead of only one zlevel ([#72542](https://github.com/CleverRaven/Cataclysm-DDA/pull/72542))
 * [MoM] Add missing welding elements to Incandescent Lance ([#72481](https://github.com/CleverRaven/Cataclysm-DDA/pull/72481))
 * [Magiclysm] Tweak spellcasting proficiency trigger ([#72484](https://github.com/CleverRaven/Cataclysm-DDA/pull/72484))
@@ -191,4 +192,3 @@
 * Rattlesnakes leave shed skins behind ([#72490](https://github.com/CleverRaven/Cataclysm-DDA/pull/72490))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix the NPC's panic underflow ([#72475](https://github.com/CleverRaven/Cataclysm-DDA/pull/72475))
-* [Magiclysm] Fix spellcasting proficiency setup triggers ([#72473](https://github.com/CleverRaven/Cataclysm-DDA/pull/72473))
