@@ -1,3 +1,5 @@
+* Remove Survivor Revolvers ([#72638](https://github.com/CleverRaven/Cataclysm-DDA/pull/72638))
+* [MoM] Channeling powers costs focus ([#72654](https://github.com/CleverRaven/Cataclysm-DDA/pull/72654))
 
 ---
 
@@ -184,11 +186,9 @@
 * Truncate generated release notes for experimental releases ([#72504](https://github.com/CleverRaven/Cataclysm-DDA/pull/72504))
 * Fixing Android window showing tiny in the top left corner ([#72499](https://github.com/CleverRaven/Cataclysm-DDA/pull/72499))
 * Mutation attack error triggered while wielding REACH_ATTACK weapons. ([#72476](https://github.com/CleverRaven/Cataclysm-DDA/pull/72476))
-* Various fixes for bypassing NO_UNLOAD/NO_RELOAD ([#72469](https://github.com/CleverRaven/Cataclysm-DDA/pull/72469))
 * Update candy in ice cream ([#72494](https://github.com/CleverRaven/Cataclysm-DDA/pull/72494))
 * Dead NPCs give samples when dissected ([#72491](https://github.com/CleverRaven/Cataclysm-DDA/pull/72491))
 * Rattlesnakes leave shed skins behind ([#72490](https://github.com/CleverRaven/Cataclysm-DDA/pull/72490))
-* Change remote vehicle controller recipe to be consistent ([#72471](https://github.com/CleverRaven/Cataclysm-DDA/pull/72471))
 * Add other wires to rudimentary lockpick recipe ([#72486](https://github.com/CleverRaven/Cataclysm-DDA/pull/72486))
 * Fix the NPC's panic underflow ([#72475](https://github.com/CleverRaven/Cataclysm-DDA/pull/72475))
 * [Magiclysm] Fix spellcasting proficiency setup triggers ([#72473](https://github.com/CleverRaven/Cataclysm-DDA/pull/72473))
