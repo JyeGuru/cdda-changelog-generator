@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-03-30-1418 ([6f38ffd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-30-1418))
+
+* Appease clang-tidy ([#72719](https://github.com/CleverRaven/Cataclysm-DDA/pull/72719))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-03-30-0442 ([951fac0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-30-0442))
 
 * [MoM] Awakening  > u_awakening in game start ([#72691](https://github.com/CleverRaven/Cataclysm-DDA/pull/72691))
@@ -169,11 +175,6 @@
 * Fixed railroad track length and price ([#72575](https://github.com/CleverRaven/Cataclysm-DDA/pull/72575))
 * Add autolearn to cargo pants ([#72576](https://github.com/CleverRaven/Cataclysm-DDA/pull/72576))
 * Add rural church location ([#72577](https://github.com/CleverRaven/Cataclysm-DDA/pull/72577))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-24-0121 ([cf9267f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-24-0121))
-
 * Strip ferals from guns ([#72574](https://github.com/CleverRaven/Cataclysm-DDA/pull/72574))
 * Treat scrolling as arrow key in keybindings list ([#72568](https://github.com/CleverRaven/Cataclysm-DDA/pull/72568))
 * Remove unnecessary roofs from steel mill for shadowcasting performance ([#72546](https://github.com/CleverRaven/Cataclysm-DDA/pull/72546))
@@ -192,7 +193,6 @@
 * Cartridge jewlery spelling fixes ([#72524](https://github.com/CleverRaven/Cataclysm-DDA/pull/72524))
 * Adding imgui_demo.cpp to CMake build to fix build errors ([#72533](https://github.com/CleverRaven/Cataclysm-DDA/pull/72533))
 * [Xedra Evolved] Arvore brambles are flammable ([#72530](https://github.com/CleverRaven/Cataclysm-DDA/pull/72530))
-* [Xedra Evolved] Arvore fae ban: No outdoor fires ([#72507](https://github.com/CleverRaven/Cataclysm-DDA/pull/72507))
 * Don't spuriously error when reloading a save after some json errors. ([#72522](https://github.com/CleverRaven/Cataclysm-DDA/pull/72522))
 * Unhardcode RM13 use actions ([#72521](https://github.com/CleverRaven/Cataclysm-DDA/pull/72521))
 * Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
