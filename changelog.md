@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-30-1645 ([df6c8e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-30-1645))
+
 * Allow migrating from deleted variants ([#72717](https://github.com/CleverRaven/Cataclysm-DDA/pull/72717))
 * EOC temp monsters don't drop items or corpses by default ([#72718](https://github.com/CleverRaven/Cataclysm-DDA/pull/72718))
 * Incompatible tools pop out of workstations on use ([#72570](https://github.com/CleverRaven/Cataclysm-DDA/pull/72570))
