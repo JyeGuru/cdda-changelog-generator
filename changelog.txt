@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-30-0442 (951fac0)
 * [MoM] Awakening  > u_awakening in game start (#72691)
 * Misc LIXA dialogue adjustments (#72702)
 * Unseal when items are removed but the pocket isn't emptied (#72608)
