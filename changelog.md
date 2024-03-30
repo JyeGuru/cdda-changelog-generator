@@ -1,3 +1,5 @@
+* doc: LOCKABLE_DOOR, DOOR_LOCKING ([#72694](https://github.com/CleverRaven/Cataclysm-DDA/pull/72694))
+* Routine i18n updates on 30 March 2024 ([#72705](https://github.com/CleverRaven/Cataclysm-DDA/pull/72705))
 
 ---
 
@@ -185,7 +187,6 @@
 * [MoM] Rework Revitalizing Meditation ([#72552](https://github.com/CleverRaven/Cataclysm-DDA/pull/72552))
 * Refactor overmap test so it can run repeatedly in the same area. ([#72565](https://github.com/CleverRaven/Cataclysm-DDA/pull/72565))
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
-* Typifying 'generate' operation for map and tinymap ([#72513](https://github.com/CleverRaven/Cataclysm-DDA/pull/72513))
 * Rebuild all vision transparency cache instead of only one zlevel ([#72542](https://github.com/CleverRaven/Cataclysm-DDA/pull/72542))
 * EOC expansion: 'time_until' function ([#72528](https://github.com/CleverRaven/Cataclysm-DDA/pull/72528))
 * Minor generic zombie balance edits 3 ([#72535](https://github.com/CleverRaven/Cataclysm-DDA/pull/72535))
@@ -197,4 +198,3 @@
 * Unhardcode RM13 use actions ([#72521](https://github.com/CleverRaven/Cataclysm-DDA/pull/72521))
 * Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
 * Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
-* adjust api endpoint used to retrieve previous release tag ([#72509](https://github.com/CleverRaven/Cataclysm-DDA/pull/72509))
