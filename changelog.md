@@ -1,3 +1,10 @@
+* Unseal when items are removed but the pocket isn't emptied ([#72608](https://github.com/CleverRaven/Cataclysm-DDA/pull/72608))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-30-0207 ([b3ab5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-30-0207))
+
+* [DinoMod] Ceratosaurus HP increase ([#72700](https://github.com/CleverRaven/Cataclysm-DDA/pull/72700))
 
 ---
 
@@ -87,12 +94,6 @@
 #### Cataclysm-DDA experimental build 2024-03-26-2322 ([e804d64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-2322))
 
 * Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-26-2043 ([12148b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-2043))
-
-* Typos fixed ([#72502](https://github.com/CleverRaven/Cataclysm-DDA/pull/72502))
 * Don't check always-assigned integer (interpreted as bool) ([#72564](https://github.com/CleverRaven/Cataclysm-DDA/pull/72564))
 * use a single EoC to check disarming ([#72587](https://github.com/CleverRaven/Cataclysm-DDA/pull/72587))
 * Typo Fix ([#72584](https://github.com/CleverRaven/Cataclysm-DDA/pull/72584))
@@ -173,11 +174,6 @@
 * Letting Kukris touch (cut) grass  ([#72567](https://github.com/CleverRaven/Cataclysm-DDA/pull/72567))
 * Routine i18n updates on 23 March 2024 ([#72569](https://github.com/CleverRaven/Cataclysm-DDA/pull/72569))
 * [Xedra Evolved] Yet more hedge magic ([#72539](https://github.com/CleverRaven/Cataclysm-DDA/pull/72539))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-23-1728 ([22c8112](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-23-1728))
-
 * [MoM] Rework Revitalizing Meditation ([#72552](https://github.com/CleverRaven/Cataclysm-DDA/pull/72552))
 * Refactor overmap test so it can run repeatedly in the same area. ([#72565](https://github.com/CleverRaven/Cataclysm-DDA/pull/72565))
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
@@ -191,7 +187,6 @@
 * [Xedra Evolved] Arvore brambles are flammable ([#72530](https://github.com/CleverRaven/Cataclysm-DDA/pull/72530))
 * [Xedra Evolved] Arvore fae ban: No outdoor fires ([#72507](https://github.com/CleverRaven/Cataclysm-DDA/pull/72507))
 * Don't spuriously error when reloading a save after some json errors. ([#72522](https://github.com/CleverRaven/Cataclysm-DDA/pull/72522))
-* Auditing and editing nightmare prose ([#72503](https://github.com/CleverRaven/Cataclysm-DDA/pull/72503))
 * Unhardcode RM13 use actions ([#72521](https://github.com/CleverRaven/Cataclysm-DDA/pull/72521))
 * Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
 * Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
