@@ -1,3 +1,5 @@
+* [MoM] Awakening  > u_awakening in game start (#72691)
+* Misc LIXA dialogue adjustments (#72702)
 * Unseal when items are removed but the pocket isn't emptied (#72608)
 
 Cataclysm-DDA experimental build 2024-03-30-0207 (b3ab5b2)
@@ -131,4 +133,3 @@ Cataclysm-DDA experimental build 2024-03-24-0121 (cf9267f)
 * Smoke no longer bypasses "NO_BREATHE" flag (#72519)
 * Fix release notes the third (#72516)
 * adjust api endpoint used to retrieve previous release tag (#72509)
-* Truncate generated release notes for experimental releases (#72504)

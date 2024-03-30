@@ -1,3 +1,5 @@
+* [MoM] Awakening  > u_awakening in game start ([#72691](https://github.com/CleverRaven/Cataclysm-DDA/pull/72691))
+* Misc LIXA dialogue adjustments ([#72702](https://github.com/CleverRaven/Cataclysm-DDA/pull/72702))
 * Unseal when items are removed but the pocket isn't emptied ([#72608](https://github.com/CleverRaven/Cataclysm-DDA/pull/72608))
 
 ---
@@ -191,4 +193,3 @@
 * Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
 * Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
 * adjust api endpoint used to retrieve previous release tag ([#72509](https://github.com/CleverRaven/Cataclysm-DDA/pull/72509))
-* Truncate generated release notes for experimental releases ([#72504](https://github.com/CleverRaven/Cataclysm-DDA/pull/72504))
