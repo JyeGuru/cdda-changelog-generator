@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-30-2128 (1904b08)
 * LIXA: congealed light nerf (#72714)
 
 Cataclysm-DDA experimental build 2024-03-30-1645 (df6c8e3)
