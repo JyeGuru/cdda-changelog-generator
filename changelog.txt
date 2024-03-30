@@ -1,3 +1,4 @@
+* LIXA: congealed light nerf (#72714)
 
 Cataclysm-DDA experimental build 2024-03-30-1645 (df6c8e3)
 * Allow migrating from deleted variants (#72717)
@@ -133,4 +134,3 @@ Cataclysm-DDA experimental build 2024-03-24-2101 (8472b14)
 * Cartridge jewlery spelling fixes (#72524)
 * Adding imgui_demo.cpp to CMake build to fix build errors (#72533)
 * [Xedra Evolved] Arvore brambles are flammable (#72530)
-* Don't spuriously error when reloading a save after some json errors. (#72522)

@@ -1,3 +1,4 @@
+* LIXA: congealed light nerf ([#72714](https://github.com/CleverRaven/Cataclysm-DDA/pull/72714))
 
 ---
 
@@ -196,4 +197,3 @@
 * Cartridge jewlery spelling fixes ([#72524](https://github.com/CleverRaven/Cataclysm-DDA/pull/72524))
 * Adding imgui_demo.cpp to CMake build to fix build errors ([#72533](https://github.com/CleverRaven/Cataclysm-DDA/pull/72533))
 * [Xedra Evolved] Arvore brambles are flammable ([#72530](https://github.com/CleverRaven/Cataclysm-DDA/pull/72530))
-* Don't spuriously error when reloading a save after some json errors. ([#72522](https://github.com/CleverRaven/Cataclysm-DDA/pull/72522))
