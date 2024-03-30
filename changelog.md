@@ -1,3 +1,4 @@
+* Allow migrating from deleted variants ([#72717](https://github.com/CleverRaven/Cataclysm-DDA/pull/72717))
 * EOC temp monsters don't drop items or corpses by default ([#72718](https://github.com/CleverRaven/Cataclysm-DDA/pull/72718))
 * Incompatible tools pop out of workstations on use ([#72570](https://github.com/CleverRaven/Cataclysm-DDA/pull/72570))
 * doc: LOCKABLE_DOOR, DOOR_LOCKING ([#72694](https://github.com/CleverRaven/Cataclysm-DDA/pull/72694))
@@ -192,4 +193,3 @@
 * [Xedra Evolved] Arvore brambles are flammable ([#72530](https://github.com/CleverRaven/Cataclysm-DDA/pull/72530))
 * Don't spuriously error when reloading a save after some json errors. ([#72522](https://github.com/CleverRaven/Cataclysm-DDA/pull/72522))
 * Unhardcode RM13 use actions ([#72521](https://github.com/CleverRaven/Cataclysm-DDA/pull/72521))
-* Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
