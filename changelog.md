@@ -1,3 +1,5 @@
+* EOC temp monsters don't drop items or corpses by default ([#72718](https://github.com/CleverRaven/Cataclysm-DDA/pull/72718))
+* Incompatible tools pop out of workstations on use ([#72570](https://github.com/CleverRaven/Cataclysm-DDA/pull/72570))
 * doc: LOCKABLE_DOOR, DOOR_LOCKING ([#72694](https://github.com/CleverRaven/Cataclysm-DDA/pull/72694))
 * Routine i18n updates on 30 March 2024 ([#72705](https://github.com/CleverRaven/Cataclysm-DDA/pull/72705))
 
@@ -127,12 +129,6 @@
 #### Cataclysm-DDA experimental build 2024-03-26-1759 ([e442936](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-1759))
 
 * Fixed an issue where the ImGui popup window steals focus when not on top ([#72604](https://github.com/CleverRaven/Cataclysm-DDA/pull/72604))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-26-0321 ([94b74cf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-0321))
-
-* Better vehicle dragging ([#72515](https://github.com/CleverRaven/Cataclysm-DDA/pull/72515))
 * Prototypes can fill tanks with items that aren't ammo ([#72556](https://github.com/CleverRaven/Cataclysm-DDA/pull/72556))
 
 ---
@@ -197,4 +193,3 @@
 * Don't spuriously error when reloading a save after some json errors. ([#72522](https://github.com/CleverRaven/Cataclysm-DDA/pull/72522))
 * Unhardcode RM13 use actions ([#72521](https://github.com/CleverRaven/Cataclysm-DDA/pull/72521))
 * Smoke no longer bypasses "NO_BREATHE" flag ([#72519](https://github.com/CleverRaven/Cataclysm-DDA/pull/72519))
-* Fix release notes the third ([#72516](https://github.com/CleverRaven/Cataclysm-DDA/pull/72516))
