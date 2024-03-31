@@ -1,3 +1,6 @@
+* NPCs can develop vitamin diseases ([#72728](https://github.com/CleverRaven/Cataclysm-DDA/pull/72728))
+* Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
+* Properly obsolete Xedra Evolved obsoletion ([#72675](https://github.com/CleverRaven/Cataclysm-DDA/pull/72675))
 * Make mansion ferals scenario specific ([#72695](https://github.com/CleverRaven/Cataclysm-DDA/pull/72695))
 
 ---
@@ -198,7 +201,4 @@
 * Refactor overmap test so it can run repeatedly in the same area. ([#72565](https://github.com/CleverRaven/Cataclysm-DDA/pull/72565))
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
 * Rebuild all vision transparency cache instead of only one zlevel ([#72542](https://github.com/CleverRaven/Cataclysm-DDA/pull/72542))
-* Minor generic zombie balance edits 3 ([#72535](https://github.com/CleverRaven/Cataclysm-DDA/pull/72535))
 * Minor LIXA mapgen adjustment ([#72540](https://github.com/CleverRaven/Cataclysm-DDA/pull/72540))
-* Adding imgui_demo.cpp to CMake build to fix build errors ([#72533](https://github.com/CleverRaven/Cataclysm-DDA/pull/72533))
-* [Xedra Evolved] Arvore brambles are flammable ([#72530](https://github.com/CleverRaven/Cataclysm-DDA/pull/72530))
