@@ -1,3 +1,7 @@
+* Make mansion ferals scenario specific (#72695)
+
+Cataclysm-DDA experimental build 2024-03-31-0112 (d8a6818)
+* Monster faction shenanigans (#72722)
 
 Cataclysm-DDA experimental build 2024-03-30-2128 (1904b08)
 * LIXA: congealed light nerf (#72714)
@@ -110,8 +114,6 @@ Cataclysm-DDA experimental build 2024-03-25-1209 (f243a09)
 
 Cataclysm-DDA experimental build 2024-03-25-0528 (74771e1)
 * Fix other places that needed to manually clear deferred json. (#72563)
-
-Cataclysm-DDA experimental build 2024-03-24-2101 (8472b14)
 * Correct a call of write_var_value (#72582)
 * Port some bionic to json (#72537)
 * fix: Magiclysm x BombasticPerks school focus perks (#72541)
@@ -130,9 +132,7 @@ Cataclysm-DDA experimental build 2024-03-24-2101 (8472b14)
 * Refactor overmap test so it can run repeatedly in the same area. (#72565)
 * [MoM] Add BLEED_STOP_BONUS to Coagulation (#72555)
 * Rebuild all vision transparency cache instead of only one zlevel (#72542)
-* EOC expansion: 'time_until' function (#72528)
 * Minor generic zombie balance edits 3 (#72535)
 * Minor LIXA mapgen adjustment (#72540)
-* Cartridge jewlery spelling fixes (#72524)
 * Adding imgui_demo.cpp to CMake build to fix build errors (#72533)
 * [Xedra Evolved] Arvore brambles are flammable (#72530)

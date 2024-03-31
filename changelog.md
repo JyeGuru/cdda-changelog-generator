@@ -1,3 +1,10 @@
+* Make mansion ferals scenario specific ([#72695](https://github.com/CleverRaven/Cataclysm-DDA/pull/72695))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-31-0112 ([d8a6818](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-31-0112))
+
+* Monster faction shenanigans ([#72722](https://github.com/CleverRaven/Cataclysm-DDA/pull/72722))
 
 ---
 
@@ -173,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-03-25-0528 ([74771e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-25-0528))
 
 * Fix other places that needed to manually clear deferred json. ([#72563](https://github.com/CleverRaven/Cataclysm-DDA/pull/72563))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-24-2101 ([8472b14](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-24-2101))
-
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
 * Port some bionic to json ([#72537](https://github.com/CleverRaven/Cataclysm-DDA/pull/72537))
 * fix: Magiclysm x BombasticPerks school focus perks ([#72541](https://github.com/CleverRaven/Cataclysm-DDA/pull/72541))
@@ -196,9 +198,7 @@
 * Refactor overmap test so it can run repeatedly in the same area. ([#72565](https://github.com/CleverRaven/Cataclysm-DDA/pull/72565))
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
 * Rebuild all vision transparency cache instead of only one zlevel ([#72542](https://github.com/CleverRaven/Cataclysm-DDA/pull/72542))
-* EOC expansion: 'time_until' function ([#72528](https://github.com/CleverRaven/Cataclysm-DDA/pull/72528))
 * Minor generic zombie balance edits 3 ([#72535](https://github.com/CleverRaven/Cataclysm-DDA/pull/72535))
 * Minor LIXA mapgen adjustment ([#72540](https://github.com/CleverRaven/Cataclysm-DDA/pull/72540))
-* Cartridge jewlery spelling fixes ([#72524](https://github.com/CleverRaven/Cataclysm-DDA/pull/72524))
 * Adding imgui_demo.cpp to CMake build to fix build errors ([#72533](https://github.com/CleverRaven/Cataclysm-DDA/pull/72533))
 * [Xedra Evolved] Arvore brambles are flammable ([#72530](https://github.com/CleverRaven/Cataclysm-DDA/pull/72530))
