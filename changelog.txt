@@ -1,3 +1,4 @@
+* Properly obsolete aftershock obsoletion (#72671)
 * NPCs can develop vitamin diseases (#72728)
 * Restore drops to real spawned monsters that are meant to have them (#72732)
 * Properly obsolete Xedra Evolved obsoletion (#72675)
@@ -44,7 +45,6 @@ Cataclysm-DDA experimental build 2024-03-29-1553 (1e95d1e)
 * Fix price of nickel powder (#72585)
 * Edit spell UI word choice when using psionics (#72676)
 * fix clang tidy error in condition.cpp (#72670)
-* Remove "Rapid strike" technique from knives (#72536)
 * Remove Survivor Revolvers (#72638)
 * [MoM] Channeling powers costs focus (#72654)
 

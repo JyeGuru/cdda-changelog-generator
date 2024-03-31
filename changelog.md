@@ -1,3 +1,4 @@
+* Properly obsolete aftershock obsoletion ([#72671](https://github.com/CleverRaven/Cataclysm-DDA/pull/72671))
 * NPCs can develop vitamin diseases ([#72728](https://github.com/CleverRaven/Cataclysm-DDA/pull/72728))
 * Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
 * Properly obsolete Xedra Evolved obsoletion ([#72675](https://github.com/CleverRaven/Cataclysm-DDA/pull/72675))
@@ -68,7 +69,6 @@
 * Fix price of nickel powder ([#72585](https://github.com/CleverRaven/Cataclysm-DDA/pull/72585))
 * Edit spell UI word choice when using psionics ([#72676](https://github.com/CleverRaven/Cataclysm-DDA/pull/72676))
 * fix clang tidy error in condition.cpp ([#72670](https://github.com/CleverRaven/Cataclysm-DDA/pull/72670))
-* Remove "Rapid strike" technique from knives ([#72536](https://github.com/CleverRaven/Cataclysm-DDA/pull/72536))
 * Remove Survivor Revolvers ([#72638](https://github.com/CleverRaven/Cataclysm-DDA/pull/72638))
 * [MoM] Channeling powers costs focus ([#72654](https://github.com/CleverRaven/Cataclysm-DDA/pull/72654))
 
