@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-03-31-0500 ([d2b51fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-31-0500))
+
 * Adds ASCII art to S&W 619 ([#72730](https://github.com/CleverRaven/Cataclysm-DDA/pull/72730))
 * Removes all hardcoded overmap_connection_id references ([#72725](https://github.com/CleverRaven/Cataclysm-DDA/pull/72725))
 * Improved task activity feedback slightly ([#72677](https://github.com/CleverRaven/Cataclysm-DDA/pull/72677))

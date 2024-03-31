@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-03-31-0500 (d2b51fd)
 * Adds ASCII art to S&W 619 (#72730)
 * Removes all hardcoded overmap_connection_id references (#72725)
 * Improved task activity feedback slightly (#72677)
