@@ -1,3 +1,7 @@
+* Adds ASCII art to S&W 619 ([#72730](https://github.com/CleverRaven/Cataclysm-DDA/pull/72730))
+* Removes all hardcoded overmap_connection_id references ([#72725](https://github.com/CleverRaven/Cataclysm-DDA/pull/72725))
+* Improved task activity feedback slightly ([#72677](https://github.com/CleverRaven/Cataclysm-DDA/pull/72677))
+* Achievements Additions ([#72731](https://github.com/CleverRaven/Cataclysm-DDA/pull/72731))
 * Properly obsolete aftershock obsoletion ([#72671](https://github.com/CleverRaven/Cataclysm-DDA/pull/72671))
 * NPCs can develop vitamin diseases ([#72728](https://github.com/CleverRaven/Cataclysm-DDA/pull/72728))
 * Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
@@ -144,7 +148,6 @@
 * fix: change debug hotkey for edit global vars ([#72627](https://github.com/CleverRaven/Cataclysm-DDA/pull/72627))
 * Fix RM13 passives always active bug ([#72629](https://github.com/CleverRaven/Cataclysm-DDA/pull/72629))
 * Aftershock: New (and maybe the last) 7.5mm guns ([#72551](https://github.com/CleverRaven/Cataclysm-DDA/pull/72551))
-* enchantify stat and speed penalties from pain ([#72538](https://github.com/CleverRaven/Cataclysm-DDA/pull/72538))
 
 ---
 
@@ -184,7 +187,6 @@
 
 * Fix other places that needed to manually clear deferred json. ([#72563](https://github.com/CleverRaven/Cataclysm-DDA/pull/72563))
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
-* Port some bionic to json ([#72537](https://github.com/CleverRaven/Cataclysm-DDA/pull/72537))
 * fix: Magiclysm x BombasticPerks school focus perks ([#72541](https://github.com/CleverRaven/Cataclysm-DDA/pull/72541))
 * fix range of local coordinates in docs ([#72549](https://github.com/CleverRaven/Cataclysm-DDA/pull/72549))
 * Fixed railroad track length and price ([#72575](https://github.com/CleverRaven/Cataclysm-DDA/pull/72575))
@@ -196,9 +198,7 @@
 * 2 plastic mask variants ([#72572](https://github.com/CleverRaven/Cataclysm-DDA/pull/72572))
 * Letting Kukris touch (cut) grass  ([#72567](https://github.com/CleverRaven/Cataclysm-DDA/pull/72567))
 * Routine i18n updates on 23 March 2024 ([#72569](https://github.com/CleverRaven/Cataclysm-DDA/pull/72569))
-* [Xedra Evolved] Yet more hedge magic ([#72539](https://github.com/CleverRaven/Cataclysm-DDA/pull/72539))
 * [MoM] Rework Revitalizing Meditation ([#72552](https://github.com/CleverRaven/Cataclysm-DDA/pull/72552))
 * Refactor overmap test so it can run repeatedly in the same area. ([#72565](https://github.com/CleverRaven/Cataclysm-DDA/pull/72565))
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
 * Rebuild all vision transparency cache instead of only one zlevel ([#72542](https://github.com/CleverRaven/Cataclysm-DDA/pull/72542))
-* Minor LIXA mapgen adjustment ([#72540](https://github.com/CleverRaven/Cataclysm-DDA/pull/72540))
