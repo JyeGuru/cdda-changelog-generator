@@ -1,4 +1,9 @@
 * Routine tileset updates on 01 April 2024 ([#72755](https://github.com/CleverRaven/Cataclysm-DDA/pull/72755))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-01-2229 ([4808268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-01-2229))
+
 * [MoM] High levels of weariness (or brainworms) turn off your powers ([#72773](https://github.com/CleverRaven/Cataclysm-DDA/pull/72773))
 
 ---
@@ -187,11 +192,6 @@
 
 * Update the table of contents in doc/JSON_INFO.md ([#72578](https://github.com/CleverRaven/Cataclysm-DDA/pull/72578))
 * Tell vscode astyle extension where to find astyle config ([#72586](https://github.com/CleverRaven/Cataclysm-DDA/pull/72586))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-25-0528 ([74771e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-25-0528))
-
 * Fix other places that needed to manually clear deferred json. ([#72563](https://github.com/CleverRaven/Cataclysm-DDA/pull/72563))
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
 * fix range of local coordinates in docs ([#72549](https://github.com/CleverRaven/Cataclysm-DDA/pull/72549))
