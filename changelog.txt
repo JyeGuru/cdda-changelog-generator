@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-02-0446 (4aef748)
 * More specific messages for being unable to use supernatural powers (#72741)
 
 Cataclysm-DDA experimental build 2024-04-02-0146 (5691c04)
@@ -122,8 +124,6 @@ Cataclysm-DDA experimental build 2024-03-25-2047 (3461f3e)
 
 Cataclysm-DDA experimental build 2024-03-25-1531 (7511d69)
 * [MoM] Remove default low focus mitigation EoC (#72588)
-
-Cataclysm-DDA experimental build 2024-03-25-1209 (f243a09)
 * Update the table of contents in doc/JSON_INFO.md (#72578)
 * Tell vscode astyle extension where to find astyle config (#72586)
 * Fix other places that needed to manually clear deferred json. (#72563)
