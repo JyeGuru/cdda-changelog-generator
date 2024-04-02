@@ -1,3 +1,4 @@
+* Random bit of wander code isn't unbiased (#72793)
 
 Cataclysm-DDA experimental build 2024-04-02-1742 (10801ce)
 * [Xedra Evolved] New Arvore spell--Verdant Imprisonment (#72784)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2024-03-25-2047 (3461f3e)
 * Tell vscode astyle extension where to find astyle config (#72586)
 * Fix other places that needed to manually clear deferred json. (#72563)
 * Correct a call of write_var_value (#72582)
-* fix range of local coordinates in docs (#72549)
 * Fixed railroad track length and price (#72575)
 * Add autolearn to cargo pants (#72576)
 * Add rural church location (#72577)

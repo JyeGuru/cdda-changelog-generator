@@ -1,3 +1,4 @@
+* Random bit of wander code isn't unbiased ([#72793](https://github.com/CleverRaven/Cataclysm-DDA/pull/72793))
 
 ---
 
@@ -201,7 +202,6 @@
 * Tell vscode astyle extension where to find astyle config ([#72586](https://github.com/CleverRaven/Cataclysm-DDA/pull/72586))
 * Fix other places that needed to manually clear deferred json. ([#72563](https://github.com/CleverRaven/Cataclysm-DDA/pull/72563))
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
-* fix range of local coordinates in docs ([#72549](https://github.com/CleverRaven/Cataclysm-DDA/pull/72549))
 * Fixed railroad track length and price ([#72575](https://github.com/CleverRaven/Cataclysm-DDA/pull/72575))
 * Add autolearn to cargo pants ([#72576](https://github.com/CleverRaven/Cataclysm-DDA/pull/72576))
 * Add rural church location ([#72577](https://github.com/CleverRaven/Cataclysm-DDA/pull/72577))
