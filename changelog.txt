@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-02-1742 (10801ce)
+* [Xedra Evolved] New Arvore spell--Verdant Imprisonment (#72784)
+
 Cataclysm-DDA experimental build 2024-04-02-0446 (4aef748)
 * More specific messages for being unable to use supernatural powers (#72741)
 
@@ -121,8 +124,6 @@ Cataclysm-DDA experimental build 2024-03-26-0016 (7ff28cd)
 
 Cataclysm-DDA experimental build 2024-03-25-2047 (3461f3e)
 * Add overflow behavior to pillbox_used and pillbox_large_used (#72617)
-
-Cataclysm-DDA experimental build 2024-03-25-1531 (7511d69)
 * [MoM] Remove default low focus mitigation EoC (#72588)
 * Update the table of contents in doc/JSON_INFO.md (#72578)
 * Tell vscode astyle extension where to find astyle config (#72586)
