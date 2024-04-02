@@ -1,3 +1,4 @@
+* More specific messages for being unable to use supernatural powers ([#72741](https://github.com/CleverRaven/Cataclysm-DDA/pull/72741))
 
 ---
 
@@ -205,7 +206,6 @@
 * Add rural church location ([#72577](https://github.com/CleverRaven/Cataclysm-DDA/pull/72577))
 * Strip ferals from guns ([#72574](https://github.com/CleverRaven/Cataclysm-DDA/pull/72574))
 * Treat scrolling as arrow key in keybindings list ([#72568](https://github.com/CleverRaven/Cataclysm-DDA/pull/72568))
-* Remove unnecessary roofs from steel mill for shadowcasting performance ([#72546](https://github.com/CleverRaven/Cataclysm-DDA/pull/72546))
 * 2 plastic mask variants ([#72572](https://github.com/CleverRaven/Cataclysm-DDA/pull/72572))
 * Letting Kukris touch (cut) grass  ([#72567](https://github.com/CleverRaven/Cataclysm-DDA/pull/72567))
 * Routine i18n updates on 23 March 2024 ([#72569](https://github.com/CleverRaven/Cataclysm-DDA/pull/72569))

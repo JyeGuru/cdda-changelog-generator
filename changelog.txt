@@ -1,3 +1,4 @@
+* More specific messages for being unable to use supernatural powers (#72741)
 
 Cataclysm-DDA experimental build 2024-04-02-0146 (5691c04)
 * Routine tileset updates on 01 April 2024 (#72755)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2024-03-25-1209 (f243a09)
 * Add rural church location (#72577)
 * Strip ferals from guns (#72574)
 * Treat scrolling as arrow key in keybindings list (#72568)
-* Remove unnecessary roofs from steel mill for shadowcasting performance (#72546)
 * 2 plastic mask variants (#72572)
 * Letting Kukris touch (cut) grass  (#72567)
 * Routine i18n updates on 23 March 2024 (#72569)
