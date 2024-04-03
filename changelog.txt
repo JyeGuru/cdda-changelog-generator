@@ -1,3 +1,4 @@
+* fix: update create PR action v4 -> v6 (#72782)
 
 Cataclysm-DDA experimental build 2024-04-03-1853 (8b4c779)
 * Forest biome terrain oter_id -> oter_type_id (#72812)
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2024-03-26-2322 (e804d64)
 
 Cataclysm-DDA experimental build 2024-03-26-1759 (e442936)
 * Fixed an issue where the ImGui popup window steals focus when not on top (#72604)
-* Prototypes can fill tanks with items that aren't ammo (#72556)
 * Conditional z level check for nests (#72560)
 * Add overflow behavior to pillbox_used and pillbox_large_used (#72617)
 * [MoM] Remove default low focus mitigation EoC (#72588)
