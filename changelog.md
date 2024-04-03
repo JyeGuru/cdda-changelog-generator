@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-03-2239 ([1143055](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-03-2239))
+
+* Set rot when all components are rotten ([#72777](https://github.com/CleverRaven/Cataclysm-DDA/pull/72777))
 * fix: update create PR action v4 -> v6 ([#72782](https://github.com/CleverRaven/Cataclysm-DDA/pull/72782))
 
 ---
@@ -112,7 +118,6 @@
 * Make some newer mutant mammals actually use proper harvestlists ([#72686](https://github.com/CleverRaven/Cataclysm-DDA/pull/72686))
 * Allow disabling limb conditional flags via effects ([#72609](https://github.com/CleverRaven/Cataclysm-DDA/pull/72609))
 * Fix shadowcasting for weather with sight_penalty != 1.0 ([#72669](https://github.com/CleverRaven/Cataclysm-DDA/pull/72669))
-* Rust Zombie Audit ([#72557](https://github.com/CleverRaven/Cataclysm-DDA/pull/72557))
 * Hub armor fix and update ballistic material ([#72679](https://github.com/CleverRaven/Cataclysm-DDA/pull/72679))
 * Disable warnings related to ledge when the creature has the "LEVITATION" flag ([#72613](https://github.com/CleverRaven/Cataclysm-DDA/pull/72613))
 * Notched plank description update ([#72680](https://github.com/CleverRaven/Cataclysm-DDA/pull/72680))

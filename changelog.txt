@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-04-03-2239 (1143055)
+* Set rot when all components are rotten (#72777)
 * fix: update create PR action v4 -> v6 (#72782)
 
 Cataclysm-DDA experimental build 2024-04-03-1853 (8b4c779)
@@ -64,7 +67,6 @@ Cataclysm-DDA experimental build 2024-03-29-1553 (1e95d1e)
 * Make some newer mutant mammals actually use proper harvestlists (#72686)
 * Allow disabling limb conditional flags via effects (#72609)
 * Fix shadowcasting for weather with sight_penalty != 1.0 (#72669)
-* Rust Zombie Audit (#72557)
 * Hub armor fix and update ballistic material (#72679)
 * Disable warnings related to ledge when the creature has the "LEVITATION" flag (#72613)
 * Notched plank description update (#72680)
