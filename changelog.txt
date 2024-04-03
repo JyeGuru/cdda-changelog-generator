@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-03-1853 (8b4c779)
+* Forest biome terrain oter_id -> oter_type_id (#72812)
+
 Cataclysm-DDA experimental build 2024-04-03-0309 (dee02e4)
 * Fixing ImGui popup size issue, and small input bug (#72797)
 
@@ -138,6 +141,5 @@ Cataclysm-DDA experimental build 2024-03-26-1759 (e442936)
 * 2 plastic mask variants (#72572)
 * Letting Kukris touch (cut) grass  (#72567)
 * Routine i18n updates on 23 March 2024 (#72569)
-* [MoM] Rework Revitalizing Meditation (#72552)
 * Refactor overmap test so it can run repeatedly in the same area. (#72565)
 * [MoM] Add BLEED_STOP_BONUS to Coagulation (#72555)

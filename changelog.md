@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-03-1853 ([8b4c779](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-03-1853))
+
+* Forest biome terrain oter_id -> oter_type_id ([#72812](https://github.com/CleverRaven/Cataclysm-DDA/pull/72812))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-03-0309 ([dee02e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-03-0309))
 
 * Fixing ImGui popup size issue, and small input bug ([#72797](https://github.com/CleverRaven/Cataclysm-DDA/pull/72797))
@@ -210,6 +216,5 @@
 * 2 plastic mask variants ([#72572](https://github.com/CleverRaven/Cataclysm-DDA/pull/72572))
 * Letting Kukris touch (cut) grass  ([#72567](https://github.com/CleverRaven/Cataclysm-DDA/pull/72567))
 * Routine i18n updates on 23 March 2024 ([#72569](https://github.com/CleverRaven/Cataclysm-DDA/pull/72569))
-* [MoM] Rework Revitalizing Meditation ([#72552](https://github.com/CleverRaven/Cataclysm-DDA/pull/72552))
 * Refactor overmap test so it can run repeatedly in the same area. ([#72565](https://github.com/CleverRaven/Cataclysm-DDA/pull/72565))
 * [MoM] Add BLEED_STOP_BONUS to Coagulation ([#72555](https://github.com/CleverRaven/Cataclysm-DDA/pull/72555))
