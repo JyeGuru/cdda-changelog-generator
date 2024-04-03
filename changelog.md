@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-03-0309 ([dee02e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-03-0309))
+
+* Fixing ImGui popup size issue, and small input bug ([#72797](https://github.com/CleverRaven/Cataclysm-DDA/pull/72797))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-02-2057 ([0e3ed4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-02-2057))
 
 * Random bit of wander code isn't unbiased ([#72793](https://github.com/CleverRaven/Cataclysm-DDA/pull/72793))
@@ -182,7 +188,6 @@
 * Brutish amalgamation quickfix ([#72626](https://github.com/CleverRaven/Cataclysm-DDA/pull/72626))
 * fix: change debug hotkey for edit global vars ([#72627](https://github.com/CleverRaven/Cataclysm-DDA/pull/72627))
 * Fix RM13 passives always active bug ([#72629](https://github.com/CleverRaven/Cataclysm-DDA/pull/72629))
-* Aftershock: New (and maybe the last) 7.5mm guns ([#72551](https://github.com/CleverRaven/Cataclysm-DDA/pull/72551))
 
 ---
 
@@ -190,11 +195,6 @@
 
 * Fixed an issue where the ImGui popup window steals focus when not on top ([#72604](https://github.com/CleverRaven/Cataclysm-DDA/pull/72604))
 * Prototypes can fill tanks with items that aren't ammo ([#72556](https://github.com/CleverRaven/Cataclysm-DDA/pull/72556))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-26-0016 ([7ff28cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-0016))
-
 * Conditional z level check for nests ([#72560](https://github.com/CleverRaven/Cataclysm-DDA/pull/72560))
 * Add overflow behavior to pillbox_used and pillbox_large_used ([#72617](https://github.com/CleverRaven/Cataclysm-DDA/pull/72617))
 * [MoM] Remove default low focus mitigation EoC ([#72588](https://github.com/CleverRaven/Cataclysm-DDA/pull/72588))
