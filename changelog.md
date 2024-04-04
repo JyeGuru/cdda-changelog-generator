@@ -1,3 +1,4 @@
+* Fixing ImGUi keybindings screen processing keys pressed before it was shown ([#72800](https://github.com/CleverRaven/Cataclysm-DDA/pull/72800))
 * Fix snippet ([#72744](https://github.com/CleverRaven/Cataclysm-DDA/pull/72744))
 * [MoM] Add luminance to Eaters ([#72830](https://github.com/CleverRaven/Cataclysm-DDA/pull/72830))
 * Fixing screen artifacts seen when ImGui keybindings UI is closed ([#72833](https://github.com/CleverRaven/Cataclysm-DDA/pull/72833))
@@ -210,7 +211,6 @@
 * Make ImGui popup respond properly to 'h' and 'l' keys when highlighting selected option ([#72619](https://github.com/CleverRaven/Cataclysm-DDA/pull/72619))
 * Correct and improve values and recipes for bullets of the caliber .300 BLK ([#72628](https://github.com/CleverRaven/Cataclysm-DDA/pull/72628))
 * Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
-* Fix incorrect migration ([#72594](https://github.com/CleverRaven/Cataclysm-DDA/pull/72594))
 * Remove some duplicate map save directives that can break the map buffer ([#72596](https://github.com/CleverRaven/Cataclysm-DDA/pull/72596))
 * Tune up some misc oter type spawn ratios ([#72601](https://github.com/CleverRaven/Cataclysm-DDA/pull/72601))
 * Brutish amalgamation quickfix ([#72626](https://github.com/CleverRaven/Cataclysm-DDA/pull/72626))
