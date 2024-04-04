@@ -1,3 +1,7 @@
+* fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
+* "what was he cooking?" vegetarian foragers now remember how to cook with foraged foodstuffs ([#72592](https://github.com/CleverRaven/Cataclysm-DDA/pull/72592))
+* Lore: update UPS description ([#72723](https://github.com/CleverRaven/Cataclysm-DDA/pull/72723))
+* Get roofs generated for basecamps ([#72724](https://github.com/CleverRaven/Cataclysm-DDA/pull/72724))
 * Implement weapon proficiencies in C++ (and improve proficiency xp gain for short training durations) ([#72693](https://github.com/CleverRaven/Cataclysm-DDA/pull/72693))
 
 ---
@@ -144,7 +148,6 @@
 * Disable warnings related to ledge when the creature has the "LEVITATION" flag ([#72613](https://github.com/CleverRaven/Cataclysm-DDA/pull/72613))
 * Notched plank description update ([#72680](https://github.com/CleverRaven/Cataclysm-DDA/pull/72680))
 * Add a gun-less variant of mansion safe item group and use it in the resort. ([#72595](https://github.com/CleverRaven/Cataclysm-DDA/pull/72595))
-* Fix price of nickel powder ([#72585](https://github.com/CleverRaven/Cataclysm-DDA/pull/72585))
 * Edit spell UI word choice when using psionics ([#72676](https://github.com/CleverRaven/Cataclysm-DDA/pull/72676))
 * fix clang tidy error in condition.cpp ([#72670](https://github.com/CleverRaven/Cataclysm-DDA/pull/72670))
 * Remove Survivor Revolvers ([#72638](https://github.com/CleverRaven/Cataclysm-DDA/pull/72638))
@@ -205,8 +208,6 @@
 #### Cataclysm-DDA experimental build 2024-03-26-2322 ([e804d64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-2322))
 
 * Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
-* use a single EoC to check disarming ([#72587](https://github.com/CleverRaven/Cataclysm-DDA/pull/72587))
-* Typo Fix ([#72584](https://github.com/CleverRaven/Cataclysm-DDA/pull/72584))
 * Remove some egregiously strange item spawns ([#72591](https://github.com/CleverRaven/Cataclysm-DDA/pull/72591))
 * Fix incorrect migration ([#72594](https://github.com/CleverRaven/Cataclysm-DDA/pull/72594))
 * Remove some duplicate map save directives that can break the map buffer ([#72596](https://github.com/CleverRaven/Cataclysm-DDA/pull/72596))
@@ -217,4 +218,3 @@
 * Fixed an issue where the ImGui popup window steals focus when not on top ([#72604](https://github.com/CleverRaven/Cataclysm-DDA/pull/72604))
 * Add overflow behavior to pillbox_used and pillbox_large_used ([#72617](https://github.com/CleverRaven/Cataclysm-DDA/pull/72617))
 * [MoM] Remove default low focus mitigation EoC ([#72588](https://github.com/CleverRaven/Cataclysm-DDA/pull/72588))
-* Tell vscode astyle extension where to find astyle config ([#72586](https://github.com/CleverRaven/Cataclysm-DDA/pull/72586))
