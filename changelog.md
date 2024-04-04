@@ -1,3 +1,9 @@
+* Throw error if recipe definition is missing any valid combinations ([#72801](https://github.com/CleverRaven/Cataclysm-DDA/pull/72801))
+* LIXA: update laser pipe breaking description ([#72760](https://github.com/CleverRaven/Cataclysm-DDA/pull/72760))
+* (Mind over Matter) allow incandescent lance to repair metal items ([#72716](https://github.com/CleverRaven/Cataclysm-DDA/pull/72716))
+* Fix food fun reduction test not actually having any reduction ([#72783](https://github.com/CleverRaven/Cataclysm-DDA/pull/72783))
+* Rename cover ---> concealment ([#72739](https://github.com/CleverRaven/Cataclysm-DDA/pull/72739))
+* Fixing reload_furniture to allow reloading with ammo other than the default ([#72703](https://github.com/CleverRaven/Cataclysm-DDA/pull/72703))
 * [MoM] Edit portal storm conditions to support moddability, use that for Telepathic Shield in MoM ([#72692](https://github.com/CleverRaven/Cataclysm-DDA/pull/72692))
 * NPCs taking canned food donations no longer remove the food from the can ([#72759](https://github.com/CleverRaven/Cataclysm-DDA/pull/72759))
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
@@ -86,7 +92,6 @@
 
 * Allow migrating from deleted variants ([#72717](https://github.com/CleverRaven/Cataclysm-DDA/pull/72717))
 * EOC temp monsters don't drop items or corpses by default ([#72718](https://github.com/CleverRaven/Cataclysm-DDA/pull/72718))
-* Incompatible tools pop out of workstations on use ([#72570](https://github.com/CleverRaven/Cataclysm-DDA/pull/72570))
 * doc: LOCKABLE_DOOR, DOOR_LOCKING ([#72694](https://github.com/CleverRaven/Cataclysm-DDA/pull/72694))
 * Routine i18n updates on 30 March 2024 ([#72705](https://github.com/CleverRaven/Cataclysm-DDA/pull/72705))
 
@@ -211,10 +216,5 @@
 * Update the table of contents in doc/JSON_INFO.md ([#72578](https://github.com/CleverRaven/Cataclysm-DDA/pull/72578))
 * Tell vscode astyle extension where to find astyle config ([#72586](https://github.com/CleverRaven/Cataclysm-DDA/pull/72586))
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
-* Fixed railroad track length and price ([#72575](https://github.com/CleverRaven/Cataclysm-DDA/pull/72575))
 * Add autolearn to cargo pants ([#72576](https://github.com/CleverRaven/Cataclysm-DDA/pull/72576))
 * Add rural church location ([#72577](https://github.com/CleverRaven/Cataclysm-DDA/pull/72577))
-* Strip ferals from guns ([#72574](https://github.com/CleverRaven/Cataclysm-DDA/pull/72574))
-* Treat scrolling as arrow key in keybindings list ([#72568](https://github.com/CleverRaven/Cataclysm-DDA/pull/72568))
-* 2 plastic mask variants ([#72572](https://github.com/CleverRaven/Cataclysm-DDA/pull/72572))
-* Routine i18n updates on 23 March 2024 ([#72569](https://github.com/CleverRaven/Cataclysm-DDA/pull/72569))
