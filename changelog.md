@@ -1,3 +1,4 @@
+* Fixing screen artifacts seen when ImGui keybindings UI is closed ([#72833](https://github.com/CleverRaven/Cataclysm-DDA/pull/72833))
 * Kord in another castle, 5.45 can't be exchanged ([#72813](https://github.com/CleverRaven/Cataclysm-DDA/pull/72813))
 
 ---
@@ -209,7 +210,6 @@
 * Make ImGui popup respond properly to 'h' and 'l' keys when highlighting selected option ([#72619](https://github.com/CleverRaven/Cataclysm-DDA/pull/72619))
 * Correct and improve values and recipes for bullets of the caliber .300 BLK ([#72628](https://github.com/CleverRaven/Cataclysm-DDA/pull/72628))
 * Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
-* Remove some egregiously strange item spawns ([#72591](https://github.com/CleverRaven/Cataclysm-DDA/pull/72591))
 * Fix incorrect migration ([#72594](https://github.com/CleverRaven/Cataclysm-DDA/pull/72594))
 * Remove some duplicate map save directives that can break the map buffer ([#72596](https://github.com/CleverRaven/Cataclysm-DDA/pull/72596))
 * Tune up some misc oter type spawn ratios ([#72601](https://github.com/CleverRaven/Cataclysm-DDA/pull/72601))
