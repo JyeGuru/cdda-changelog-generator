@@ -1,3 +1,10 @@
+* Kord in another castle, 5.45 can't be exchanged ([#72813](https://github.com/CleverRaven/Cataclysm-DDA/pull/72813))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-04-2115 ([1b3186f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-2115))
+
+* [Magiclysm] Tune evocation spells with scale modifier ([#72740](https://github.com/CleverRaven/Cataclysm-DDA/pull/72740))
 
 ---
 
@@ -195,14 +202,7 @@
 * [MoM] Add PSIONIC flag to Levitation ([#72660](https://github.com/CleverRaven/Cataclysm-DDA/pull/72660))
 * Fix typo in ballista bolt description ([#72593](https://github.com/CleverRaven/Cataclysm-DDA/pull/72593))
 * [MoM] More nether attunement effects ([#72620](https://github.com/CleverRaven/Cataclysm-DDA/pull/72620))
-* make some enchantments work better with percentage ([#72589](https://github.com/CleverRaven/Cataclysm-DDA/pull/72589))
 * add character_butchered_corpse event ([#72647](https://github.com/CleverRaven/Cataclysm-DDA/pull/72647))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-27-2021 ([80560c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-27-2021))
-
-* Remove legacy computer migration infrastructure, it's ancient ([#72590](https://github.com/CleverRaven/Cataclysm-DDA/pull/72590))
 * Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
 * Update backup generator recipe_deconstruction.json ([#72624](https://github.com/CleverRaven/Cataclysm-DDA/pull/72624))
 * Spellcasting menu - automatically open to favorites tab if player has favorited spells ([#72643](https://github.com/CleverRaven/Cataclysm-DDA/pull/72643))
