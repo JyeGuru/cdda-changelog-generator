@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-04-2351 ([373238f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-2351))
+
 * Fixing ImGUi keybindings screen processing keys pressed before it was shown ([#72800](https://github.com/CleverRaven/Cataclysm-DDA/pull/72800))
 * Fix snippet ([#72744](https://github.com/CleverRaven/Cataclysm-DDA/pull/72744))
 * [MoM] Add luminance to Eaters ([#72830](https://github.com/CleverRaven/Cataclysm-DDA/pull/72830))
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2024-03-28-0229 ([09526ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-28-0229))
 
 * Aftershock: Remove organ/meat related recipe overrides ([#72606](https://github.com/CleverRaven/Cataclysm-DDA/pull/72606))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-27-2334 ([09e64d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-27-2334))
-
 * [MoM] Add PSIONIC flag to Levitation ([#72660](https://github.com/CleverRaven/Cataclysm-DDA/pull/72660))
 * [MoM] More nether attunement effects ([#72620](https://github.com/CleverRaven/Cataclysm-DDA/pull/72620))
 * add character_butchered_corpse event ([#72647](https://github.com/CleverRaven/Cataclysm-DDA/pull/72647))
