@@ -1,3 +1,4 @@
+* "gathering sights" should be "gathering sites" ([#72757](https://github.com/CleverRaven/Cataclysm-DDA/pull/72757))
 * reword the guilt messages ([#72802](https://github.com/CleverRaven/Cataclysm-DDA/pull/72802))
 * uncooked toaster pastries aren't gross ([#72823](https://github.com/CleverRaven/Cataclysm-DDA/pull/72823))
 * [MoM] Can't think, head hurts too much ([#72737](https://github.com/CleverRaven/Cataclysm-DDA/pull/72737))
@@ -142,12 +143,6 @@
 * fix clang tidy error in condition.cpp ([#72670](https://github.com/CleverRaven/Cataclysm-DDA/pull/72670))
 * Remove Survivor Revolvers ([#72638](https://github.com/CleverRaven/Cataclysm-DDA/pull/72638))
 * [MoM] Channeling powers costs focus ([#72654](https://github.com/CleverRaven/Cataclysm-DDA/pull/72654))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-29-0038 ([6004f7b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-29-0038))
-
-* Adding MOVEMENT_EXERTION_MODIFIER as enchantment ([#72580](https://github.com/CleverRaven/Cataclysm-DDA/pull/72580))
 * fix trapavoid monsters refusing to ever step on traps ([#72662](https://github.com/CleverRaven/Cataclysm-DDA/pull/72662))
 * [CR] Reign in the damage from items dropped from height, with math ([#72615](https://github.com/CleverRaven/Cataclysm-DDA/pull/72615))
 
