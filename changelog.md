@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-04-1408 ([e9f4fbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-1408))
+
+* Remove extern ter ids ([#72766](https://github.com/CleverRaven/Cataclysm-DDA/pull/72766))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-04-0825 ([15b95a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-0825))
 
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
@@ -198,11 +204,6 @@
 
 * Remove legacy computer migration infrastructure, it's ancient ([#72590](https://github.com/CleverRaven/Cataclysm-DDA/pull/72590))
 * Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-27-0151 ([08a7eee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-27-0151))
-
 * Update backup generator recipe_deconstruction.json ([#72624](https://github.com/CleverRaven/Cataclysm-DDA/pull/72624))
 * Spellcasting menu - automatically open to favorites tab if player has favorited spells ([#72643](https://github.com/CleverRaven/Cataclysm-DDA/pull/72643))
 * Make ImGui popup respond properly to 'h' and 'l' keys when highlighting selected option ([#72619](https://github.com/CleverRaven/Cataclysm-DDA/pull/72619))
@@ -217,4 +218,3 @@
 * Fix RM13 passives always active bug ([#72629](https://github.com/CleverRaven/Cataclysm-DDA/pull/72629))
 * Fixed an issue where the ImGui popup window steals focus when not on top ([#72604](https://github.com/CleverRaven/Cataclysm-DDA/pull/72604))
 * Add overflow behavior to pillbox_used and pillbox_large_used ([#72617](https://github.com/CleverRaven/Cataclysm-DDA/pull/72617))
-* [MoM] Remove default low focus mitigation EoC ([#72588](https://github.com/CleverRaven/Cataclysm-DDA/pull/72588))
