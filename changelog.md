@@ -1,3 +1,5 @@
+* Fix snippet ([#72744](https://github.com/CleverRaven/Cataclysm-DDA/pull/72744))
+* [MoM] Add luminance to Eaters ([#72830](https://github.com/CleverRaven/Cataclysm-DDA/pull/72830))
 * Fixing screen artifacts seen when ImGui keybindings UI is closed ([#72833](https://github.com/CleverRaven/Cataclysm-DDA/pull/72833))
 * Kord in another castle, 5.45 can't be exchanged ([#72813](https://github.com/CleverRaven/Cataclysm-DDA/pull/72813))
 
@@ -18,7 +20,6 @@
 #### Cataclysm-DDA experimental build 2024-04-04-0825 ([15b95a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-0825))
 
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
-* "what was he cooking?" vegetarian foragers now remember how to cook with foraged foodstuffs ([#72592](https://github.com/CleverRaven/Cataclysm-DDA/pull/72592))
 * Lore: update UPS description ([#72723](https://github.com/CleverRaven/Cataclysm-DDA/pull/72723))
 * Get roofs generated for basecamps ([#72724](https://github.com/CleverRaven/Cataclysm-DDA/pull/72724))
 * Implement weapon proficiencies in C++ (and improve proficiency xp gain for short training durations) ([#72693](https://github.com/CleverRaven/Cataclysm-DDA/pull/72693))
@@ -201,7 +202,6 @@
 #### Cataclysm-DDA experimental build 2024-03-27-2334 ([09e64d3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-27-2334))
 
 * [MoM] Add PSIONIC flag to Levitation ([#72660](https://github.com/CleverRaven/Cataclysm-DDA/pull/72660))
-* Fix typo in ballista bolt description ([#72593](https://github.com/CleverRaven/Cataclysm-DDA/pull/72593))
 * [MoM] More nether attunement effects ([#72620](https://github.com/CleverRaven/Cataclysm-DDA/pull/72620))
 * add character_butchered_corpse event ([#72647](https://github.com/CleverRaven/Cataclysm-DDA/pull/72647))
 * Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
