@@ -1,3 +1,6 @@
+* Implement weapon proficiencies in C++ (and improve proficiency xp gain for short training durations) (#72693)
+
+Cataclysm-DDA experimental build 2024-04-04-0557 (55f012c)
 * "gathering sights" should be "gathering sites" (#72757)
 * reword the guilt messages (#72802)
 * uncooked toaster pastries aren't gross (#72823)
@@ -140,4 +143,3 @@ Cataclysm-DDA experimental build 2024-03-26-2322 (e804d64)
 * Add overflow behavior to pillbox_used and pillbox_large_used (#72617)
 * [MoM] Remove default low focus mitigation EoC (#72588)
 * Tell vscode astyle extension where to find astyle config (#72586)
-* Correct a call of write_var_value (#72582)

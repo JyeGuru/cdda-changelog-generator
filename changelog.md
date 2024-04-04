@@ -1,3 +1,9 @@
+* Implement weapon proficiencies in C++ (and improve proficiency xp gain for short training durations) ([#72693](https://github.com/CleverRaven/Cataclysm-DDA/pull/72693))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-04-0557 ([55f012c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-0557))
+
 * "gathering sights" should be "gathering sites" ([#72757](https://github.com/CleverRaven/Cataclysm-DDA/pull/72757))
 * reword the guilt messages ([#72802](https://github.com/CleverRaven/Cataclysm-DDA/pull/72802))
 * uncooked toaster pastries aren't gross ([#72823](https://github.com/CleverRaven/Cataclysm-DDA/pull/72823))
@@ -212,4 +218,3 @@
 * Add overflow behavior to pillbox_used and pillbox_large_used ([#72617](https://github.com/CleverRaven/Cataclysm-DDA/pull/72617))
 * [MoM] Remove default low focus mitigation EoC ([#72588](https://github.com/CleverRaven/Cataclysm-DDA/pull/72588))
 * Tell vscode astyle extension where to find astyle config ([#72586](https://github.com/CleverRaven/Cataclysm-DDA/pull/72586))
-* Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
