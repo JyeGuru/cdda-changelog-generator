@@ -1,3 +1,5 @@
+* [MoM] Can't think, head hurts too much ([#72737](https://github.com/CleverRaven/Cataclysm-DDA/pull/72737))
+* [ Xedra Evolved ] Dreamless Trait ([#72707](https://github.com/CleverRaven/Cataclysm-DDA/pull/72707))
 * Throw error if recipe definition is missing any valid combinations ([#72801](https://github.com/CleverRaven/Cataclysm-DDA/pull/72801))
 * LIXA: update laser pipe breaking description ([#72760](https://github.com/CleverRaven/Cataclysm-DDA/pull/72760))
 * (Mind over Matter) allow incandescent lance to repair metal items ([#72716](https://github.com/CleverRaven/Cataclysm-DDA/pull/72716))
@@ -216,5 +218,3 @@
 * Update the table of contents in doc/JSON_INFO.md ([#72578](https://github.com/CleverRaven/Cataclysm-DDA/pull/72578))
 * Tell vscode astyle extension where to find astyle config ([#72586](https://github.com/CleverRaven/Cataclysm-DDA/pull/72586))
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
-* Add autolearn to cargo pants ([#72576](https://github.com/CleverRaven/Cataclysm-DDA/pull/72576))
-* Add rural church location ([#72577](https://github.com/CleverRaven/Cataclysm-DDA/pull/72577))
