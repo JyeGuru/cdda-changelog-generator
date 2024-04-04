@@ -1,3 +1,6 @@
+* AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
+* "rows" is defaulted to just spaces ([#72699](https://github.com/CleverRaven/Cataclysm-DDA/pull/72699))
+* Aftershock: Add an ATM to Port Augustmoon ([#72810](https://github.com/CleverRaven/Cataclysm-DDA/pull/72810))
 
 ---
 
@@ -190,7 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-03-26-2322 ([e804d64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-2322))
 
 * Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
-* Don't check always-assigned integer (interpreted as bool) ([#72564](https://github.com/CleverRaven/Cataclysm-DDA/pull/72564))
 * use a single EoC to check disarming ([#72587](https://github.com/CleverRaven/Cataclysm-DDA/pull/72587))
 * Typo Fix ([#72584](https://github.com/CleverRaven/Cataclysm-DDA/pull/72584))
 * Remove some egregiously strange item spawns ([#72591](https://github.com/CleverRaven/Cataclysm-DDA/pull/72591))
@@ -200,18 +202,11 @@
 * Brutish amalgamation quickfix ([#72626](https://github.com/CleverRaven/Cataclysm-DDA/pull/72626))
 * fix: change debug hotkey for edit global vars ([#72627](https://github.com/CleverRaven/Cataclysm-DDA/pull/72627))
 * Fix RM13 passives always active bug ([#72629](https://github.com/CleverRaven/Cataclysm-DDA/pull/72629))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-26-1759 ([e442936](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-1759))
-
 * Fixed an issue where the ImGui popup window steals focus when not on top ([#72604](https://github.com/CleverRaven/Cataclysm-DDA/pull/72604))
-* Conditional z level check for nests ([#72560](https://github.com/CleverRaven/Cataclysm-DDA/pull/72560))
 * Add overflow behavior to pillbox_used and pillbox_large_used ([#72617](https://github.com/CleverRaven/Cataclysm-DDA/pull/72617))
 * [MoM] Remove default low focus mitigation EoC ([#72588](https://github.com/CleverRaven/Cataclysm-DDA/pull/72588))
 * Update the table of contents in doc/JSON_INFO.md ([#72578](https://github.com/CleverRaven/Cataclysm-DDA/pull/72578))
 * Tell vscode astyle extension where to find astyle config ([#72586](https://github.com/CleverRaven/Cataclysm-DDA/pull/72586))
-* Fix other places that needed to manually clear deferred json. ([#72563](https://github.com/CleverRaven/Cataclysm-DDA/pull/72563))
 * Correct a call of write_var_value ([#72582](https://github.com/CleverRaven/Cataclysm-DDA/pull/72582))
 * Fixed railroad track length and price ([#72575](https://github.com/CleverRaven/Cataclysm-DDA/pull/72575))
 * Add autolearn to cargo pants ([#72576](https://github.com/CleverRaven/Cataclysm-DDA/pull/72576))
