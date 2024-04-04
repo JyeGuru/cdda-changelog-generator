@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-04-0825 ([15b95a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-0825))
+
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
 * "what was he cooking?" vegetarian foragers now remember how to cook with foraged foodstuffs ([#72592](https://github.com/CleverRaven/Cataclysm-DDA/pull/72592))
 * Lore: update UPS description ([#72723](https://github.com/CleverRaven/Cataclysm-DDA/pull/72723))
@@ -202,11 +207,6 @@
 * Spellcasting menu - automatically open to favorites tab if player has favorited spells ([#72643](https://github.com/CleverRaven/Cataclysm-DDA/pull/72643))
 * Make ImGui popup respond properly to 'h' and 'l' keys when highlighting selected option ([#72619](https://github.com/CleverRaven/Cataclysm-DDA/pull/72619))
 * Correct and improve values and recipes for bullets of the caliber .300 BLK ([#72628](https://github.com/CleverRaven/Cataclysm-DDA/pull/72628))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-26-2322 ([e804d64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-26-2322))
-
 * Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
 * Remove some egregiously strange item spawns ([#72591](https://github.com/CleverRaven/Cataclysm-DDA/pull/72591))
 * Fix incorrect migration ([#72594](https://github.com/CleverRaven/Cataclysm-DDA/pull/72594))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-04-0825 (15b95a2)
 * fix and cleanup few itemgroups (#72821)
 * "what was he cooking?" vegetarian foragers now remember how to cook with foraged foodstuffs (#72592)
 * Lore: update UPS description (#72723)
@@ -130,8 +132,6 @@ Cataclysm-DDA experimental build 2024-03-27-0151 (08a7eee)
 * Spellcasting menu - automatically open to favorites tab if player has favorited spells (#72643)
 * Make ImGui popup respond properly to 'h' and 'l' keys when highlighting selected option (#72619)
 * Correct and improve values and recipes for bullets of the caliber .300 BLK (#72628)
-
-Cataclysm-DDA experimental build 2024-03-26-2322 (e804d64)
 * Arsonist should buy Merch at full value (#72637)
 * Remove some egregiously strange item spawns (#72591)
 * Fix incorrect migration (#72594)
