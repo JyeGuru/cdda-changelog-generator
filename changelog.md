@@ -1,3 +1,4 @@
+* Pain is Painful ([#72687](https://github.com/CleverRaven/Cataclysm-DDA/pull/72687))
 
 ---
 
@@ -173,7 +174,6 @@
 * Hub armor fix and update ballistic material ([#72679](https://github.com/CleverRaven/Cataclysm-DDA/pull/72679))
 * Disable warnings related to ledge when the creature has the "LEVITATION" flag ([#72613](https://github.com/CleverRaven/Cataclysm-DDA/pull/72613))
 * Notched plank description update ([#72680](https://github.com/CleverRaven/Cataclysm-DDA/pull/72680))
-* Add a gun-less variant of mansion safe item group and use it in the resort. ([#72595](https://github.com/CleverRaven/Cataclysm-DDA/pull/72595))
 * Edit spell UI word choice when using psionics ([#72676](https://github.com/CleverRaven/Cataclysm-DDA/pull/72676))
 * fix clang tidy error in condition.cpp ([#72670](https://github.com/CleverRaven/Cataclysm-DDA/pull/72670))
 * Remove Survivor Revolvers ([#72638](https://github.com/CleverRaven/Cataclysm-DDA/pull/72638))
