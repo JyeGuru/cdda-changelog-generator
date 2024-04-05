@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-05-2105 ([3eb062c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-05-2105))
+
+* Kord fixes ([#72848](https://github.com/CleverRaven/Cataclysm-DDA/pull/72848))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-05-1254 ([d64e52d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-05-1254))
 
 * Fix zlib old-style-cast build breakage ([#72768](https://github.com/CleverRaven/Cataclysm-DDA/pull/72768))
@@ -200,7 +206,6 @@
 * fix trapavoid monsters refusing to ever step on traps ([#72662](https://github.com/CleverRaven/Cataclysm-DDA/pull/72662))
 * [CR] Reign in the damage from items dropped from height, with math ([#72615](https://github.com/CleverRaven/Cataclysm-DDA/pull/72615))
 * Properly obsolete MoM obsoletion ([#72672](https://github.com/CleverRaven/Cataclysm-DDA/pull/72672))
-* Improve description of wood crossbow ([#72610](https://github.com/CleverRaven/Cataclysm-DDA/pull/72610))
 * Move ruined books from abstract.json ([#72665](https://github.com/CleverRaven/Cataclysm-DDA/pull/72665))
 * add map_id condition for EoC ([#72661](https://github.com/CleverRaven/Cataclysm-DDA/pull/72661))
 * Fix some uses of part_at() to use precalc positions ([#72658](https://github.com/CleverRaven/Cataclysm-DDA/pull/72658))
