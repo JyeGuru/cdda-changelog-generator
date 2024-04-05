@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-05-0445 ([88620b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-05-0445))
+
+* [MoM] stop using premonition if you don't have premonition ([#72816](https://github.com/CleverRaven/Cataclysm-DDA/pull/72816))
+* Fixed removal of tree tops over faction camp logged trees ([#72835](https://github.com/CleverRaven/Cataclysm-DDA/pull/72835))
 * Add DPavonis as valid comment commander ([#72838](https://github.com/CleverRaven/Cataclysm-DDA/pull/72838))
 * Revert "ci: avoid leftover changelog update branches" ([#72836](https://github.com/CleverRaven/Cataclysm-DDA/pull/72836))
 
@@ -157,7 +164,6 @@
 
 * [MoM] Awakening  > u_awakening in game start ([#72691](https://github.com/CleverRaven/Cataclysm-DDA/pull/72691))
 * Misc LIXA dialogue adjustments ([#72702](https://github.com/CleverRaven/Cataclysm-DDA/pull/72702))
-* Unseal when items are removed but the pocket isn't emptied ([#72608](https://github.com/CleverRaven/Cataclysm-DDA/pull/72608))
 
 ---
 
@@ -194,17 +200,11 @@
 #### Cataclysm-DDA experimental build 2024-03-28-1859 ([10c525d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-28-1859))
 
 * Properly obsolete MoM obsoletion ([#72672](https://github.com/CleverRaven/Cataclysm-DDA/pull/72672))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-28-0454 ([7e6bc3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-28-0454))
-
 * Improve description of wood crossbow ([#72610](https://github.com/CleverRaven/Cataclysm-DDA/pull/72610))
 * Move ruined books from abstract.json ([#72665](https://github.com/CleverRaven/Cataclysm-DDA/pull/72665))
 * add map_id condition for EoC ([#72661](https://github.com/CleverRaven/Cataclysm-DDA/pull/72661))
 * Fix some uses of part_at() to use precalc positions ([#72658](https://github.com/CleverRaven/Cataclysm-DDA/pull/72658))
 * Brewing density fixes ([#72641](https://github.com/CleverRaven/Cataclysm-DDA/pull/72641))
-* Aftershock: Remove organ/meat related recipe overrides ([#72606](https://github.com/CleverRaven/Cataclysm-DDA/pull/72606))
 * [MoM] Add PSIONIC flag to Levitation ([#72660](https://github.com/CleverRaven/Cataclysm-DDA/pull/72660))
 * [MoM] More nether attunement effects ([#72620](https://github.com/CleverRaven/Cataclysm-DDA/pull/72620))
 * add character_butchered_corpse event ([#72647](https://github.com/CleverRaven/Cataclysm-DDA/pull/72647))
