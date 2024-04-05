@@ -1,3 +1,4 @@
+* Rename fatigue to sleepiness ([#72708](https://github.com/CleverRaven/Cataclysm-DDA/pull/72708))
 * Pain is Painful ([#72687](https://github.com/CleverRaven/Cataclysm-DDA/pull/72687))
 
 ---
@@ -211,7 +212,6 @@
 * Make ImGui popup respond properly to 'h' and 'l' keys when highlighting selected option ([#72619](https://github.com/CleverRaven/Cataclysm-DDA/pull/72619))
 * Correct and improve values and recipes for bullets of the caliber .300 BLK ([#72628](https://github.com/CleverRaven/Cataclysm-DDA/pull/72628))
 * Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
-* Remove some duplicate map save directives that can break the map buffer ([#72596](https://github.com/CleverRaven/Cataclysm-DDA/pull/72596))
 * Tune up some misc oter type spawn ratios ([#72601](https://github.com/CleverRaven/Cataclysm-DDA/pull/72601))
 * Brutish amalgamation quickfix ([#72626](https://github.com/CleverRaven/Cataclysm-DDA/pull/72626))
 * fix: change debug hotkey for edit global vars ([#72627](https://github.com/CleverRaven/Cataclysm-DDA/pull/72627))
