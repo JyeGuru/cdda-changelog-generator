@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-05-1254 ([d64e52d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-05-1254))
+
+* Fix zlib old-style-cast build breakage ([#72768](https://github.com/CleverRaven/Cataclysm-DDA/pull/72768))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-05-0445 ([88620b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-05-0445))
 
 * [MoM] stop using premonition if you don't have premonition ([#72816](https://github.com/CleverRaven/Cataclysm-DDA/pull/72816))
@@ -183,7 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-03-29-1553 ([1e95d1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-29-1553))
 
 * Make some newer mutant mammals actually use proper harvestlists ([#72686](https://github.com/CleverRaven/Cataclysm-DDA/pull/72686))
-* Allow disabling limb conditional flags via effects ([#72609](https://github.com/CleverRaven/Cataclysm-DDA/pull/72609))
 * Fix shadowcasting for weather with sight_penalty != 1.0 ([#72669](https://github.com/CleverRaven/Cataclysm-DDA/pull/72669))
 * Hub armor fix and update ballistic material ([#72679](https://github.com/CleverRaven/Cataclysm-DDA/pull/72679))
 * Disable warnings related to ledge when the creature has the "LEVITATION" flag ([#72613](https://github.com/CleverRaven/Cataclysm-DDA/pull/72613))
@@ -194,11 +199,6 @@
 * [MoM] Channeling powers costs focus ([#72654](https://github.com/CleverRaven/Cataclysm-DDA/pull/72654))
 * fix trapavoid monsters refusing to ever step on traps ([#72662](https://github.com/CleverRaven/Cataclysm-DDA/pull/72662))
 * [CR] Reign in the damage from items dropped from height, with math ([#72615](https://github.com/CleverRaven/Cataclysm-DDA/pull/72615))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-28-1859 ([10c525d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-28-1859))
-
 * Properly obsolete MoM obsoletion ([#72672](https://github.com/CleverRaven/Cataclysm-DDA/pull/72672))
 * Improve description of wood crossbow ([#72610](https://github.com/CleverRaven/Cataclysm-DDA/pull/72610))
 * Move ruined books from abstract.json ([#72665](https://github.com/CleverRaven/Cataclysm-DDA/pull/72665))

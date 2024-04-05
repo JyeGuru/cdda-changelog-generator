@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-05-1254 (d64e52d)
+* Fix zlib old-style-cast build breakage (#72768)
+
 Cataclysm-DDA experimental build 2024-04-05-0445 (88620b6)
 * [MoM] stop using premonition if you don't have premonition (#72816)
 * Fixed removal of tree tops over faction camp logged trees (#72835)
@@ -111,7 +114,6 @@ Cataclysm-DDA experimental build 2024-03-29-1832 (dd4e109)
 
 Cataclysm-DDA experimental build 2024-03-29-1553 (1e95d1e)
 * Make some newer mutant mammals actually use proper harvestlists (#72686)
-* Allow disabling limb conditional flags via effects (#72609)
 * Fix shadowcasting for weather with sight_penalty != 1.0 (#72669)
 * Hub armor fix and update ballistic material (#72679)
 * Disable warnings related to ledge when the creature has the "LEVITATION" flag (#72613)
@@ -122,8 +124,6 @@ Cataclysm-DDA experimental build 2024-03-29-1553 (1e95d1e)
 * [MoM] Channeling powers costs focus (#72654)
 * fix trapavoid monsters refusing to ever step on traps (#72662)
 * [CR] Reign in the damage from items dropped from height, with math (#72615)
-
-Cataclysm-DDA experimental build 2024-03-28-1859 (10c525d)
 * Properly obsolete MoM obsoletion (#72672)
 * Improve description of wood crossbow (#72610)
 * Move ruined books from abstract.json (#72665)
