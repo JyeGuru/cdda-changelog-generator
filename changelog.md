@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-06-0436 ([28aa11c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-06-0436))
+
 * [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
 * Routine i18n updates on 06 April 2024 ([#72859](https://github.com/CleverRaven/Cataclysm-DDA/pull/72859))
 * remove rapid from national guard bayonet ([#72847](https://github.com/CleverRaven/Cataclysm-DDA/pull/72847))
