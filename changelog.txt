@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-06-0205 (6b911a3)
+* Change makeshift crowbar category back to tools (#72843)
+
 Cataclysm-DDA experimental build 2024-04-05-2105 (3eb062c)
 * Kord fixes (#72848)
 
