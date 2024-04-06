@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-06-1056 ([7fece1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-06-1056))
+
+* remove obsoleted supressors ([#72791](https://github.com/CleverRaven/Cataclysm-DDA/pull/72791))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-06-0436 ([28aa11c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-06-0436))
 
 * [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
@@ -228,7 +234,6 @@
 * Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
 * Update backup generator recipe_deconstruction.json ([#72624](https://github.com/CleverRaven/Cataclysm-DDA/pull/72624))
 * Spellcasting menu - automatically open to favorites tab if player has favorited spells ([#72643](https://github.com/CleverRaven/Cataclysm-DDA/pull/72643))
-* Make ImGui popup respond properly to 'h' and 'l' keys when highlighting selected option ([#72619](https://github.com/CleverRaven/Cataclysm-DDA/pull/72619))
 * Correct and improve values and recipes for bullets of the caliber .300 BLK ([#72628](https://github.com/CleverRaven/Cataclysm-DDA/pull/72628))
 * Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
 * Brutish amalgamation quickfix ([#72626](https://github.com/CleverRaven/Cataclysm-DDA/pull/72626))
