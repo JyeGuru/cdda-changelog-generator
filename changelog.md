@@ -1,3 +1,5 @@
+* [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
+* Routine i18n updates on 06 April 2024 ([#72859](https://github.com/CleverRaven/Cataclysm-DDA/pull/72859))
 * remove rapid from national guard bayonet ([#72847](https://github.com/CleverRaven/Cataclysm-DDA/pull/72847))
 
 ---
@@ -210,7 +212,6 @@
 * Remove Survivor Revolvers ([#72638](https://github.com/CleverRaven/Cataclysm-DDA/pull/72638))
 * [MoM] Channeling powers costs focus ([#72654](https://github.com/CleverRaven/Cataclysm-DDA/pull/72654))
 * fix trapavoid monsters refusing to ever step on traps ([#72662](https://github.com/CleverRaven/Cataclysm-DDA/pull/72662))
-* [CR] Reign in the damage from items dropped from height, with math ([#72615](https://github.com/CleverRaven/Cataclysm-DDA/pull/72615))
 * Properly obsolete MoM obsoletion ([#72672](https://github.com/CleverRaven/Cataclysm-DDA/pull/72672))
 * Move ruined books from abstract.json ([#72665](https://github.com/CleverRaven/Cataclysm-DDA/pull/72665))
 * add map_id condition for EoC ([#72661](https://github.com/CleverRaven/Cataclysm-DDA/pull/72661))
@@ -228,4 +229,3 @@
 * Brutish amalgamation quickfix ([#72626](https://github.com/CleverRaven/Cataclysm-DDA/pull/72626))
 * fix: change debug hotkey for edit global vars ([#72627](https://github.com/CleverRaven/Cataclysm-DDA/pull/72627))
 * Fix RM13 passives always active bug ([#72629](https://github.com/CleverRaven/Cataclysm-DDA/pull/72629))
-* Add overflow behavior to pillbox_used and pillbox_large_used ([#72617](https://github.com/CleverRaven/Cataclysm-DDA/pull/72617))
