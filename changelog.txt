@@ -1,3 +1,4 @@
+* remove rapid from national guard bayonet (#72847)
 
 Cataclysm-DDA experimental build 2024-04-06-0205 (6b911a3)
 * Change makeshift crowbar category back to tools (#72843)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2024-03-29-1553 (1e95d1e)
 * Make some newer mutant mammals actually use proper harvestlists (#72686)
 * Fix shadowcasting for weather with sight_penalty != 1.0 (#72669)
 * Hub armor fix and update ballistic material (#72679)
-* Disable warnings related to ledge when the creature has the "LEVITATION" flag (#72613)
 * Notched plank description update (#72680)
 * Edit spell UI word choice when using psionics (#72676)
 * fix clang tidy error in condition.cpp (#72670)
