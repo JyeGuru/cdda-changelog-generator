@@ -1,3 +1,7 @@
+* [MoM] Feral telekinetics can't throw you with telekinesis if you have Inertial Barrier up and vice versa (#72874)
+
+Cataclysm-DDA experimental build 2024-04-07-1431 (70ef397)
+* Bypass prereq category check for overlapping mod content (#72879)
 
 Cataclysm-DDA experimental build 2024-04-07-0720 (9fc88ad)
 * [MoM] Remove extended channeling recipe after learning, add Thought-Form Construction practice recipe (#72776)
@@ -124,8 +128,6 @@ Cataclysm-DDA experimental build 2024-03-30-1645 (df6c8e3)
 
 Cataclysm-DDA experimental build 2024-03-30-1418 (6f38ffd)
 * Appease clang-tidy (#72719)
-
-Cataclysm-DDA experimental build 2024-03-30-0442 (951fac0)
 * [MoM] Awakening  > u_awakening in game start (#72691)
 * Misc LIXA dialogue adjustments (#72702)
 * [DinoMod] Ceratosaurus HP increase (#72700)
@@ -149,6 +151,4 @@ Cataclysm-DDA experimental build 2024-03-30-0442 (951fac0)
 * add character_butchered_corpse event (#72647)
 * Fix flaky drying test (#72650)
 * Spellcasting menu - automatically open to favorites tab if player has favorited spells (#72643)
-* Correct and improve values and recipes for bullets of the caliber .300 BLK (#72628)
 * Arsonist should buy Merch at full value (#72637)
-* Fix RM13 passives always active bug (#72629)
