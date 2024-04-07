@@ -1,3 +1,11 @@
+* [MoM] Remove extended channeling recipe after learning, add Thought-Form Construction practice recipe ([#72776](https://github.com/CleverRaven/Cataclysm-DDA/pull/72776))
+* Automatically learn proficiencies on load if XP is greater than required ([#72861](https://github.com/CleverRaven/Cataclysm-DDA/pull/72861))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-07-0406 ([73f46a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-0406))
+
+* Fix missing translation in NPC trade denial reason ([#72863](https://github.com/CleverRaven/Cataclysm-DDA/pull/72863))
 
 ---
 
@@ -208,11 +216,6 @@
 #### Cataclysm-DDA experimental build 2024-03-30-0207 ([b3ab5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-30-0207))
 
 * [DinoMod] Ceratosaurus HP increase ([#72700](https://github.com/CleverRaven/Cataclysm-DDA/pull/72700))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-29-1832 ([dd4e109](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-29-1832))
-
 * Test case: NPCs prefer to use guns ([#72683](https://github.com/CleverRaven/Cataclysm-DDA/pull/72683))
 * no regenerates_in_dark in sunlight ([#72684](https://github.com/CleverRaven/Cataclysm-DDA/pull/72684))
 * Make some newer mutant mammals actually use proper harvestlists ([#72686](https://github.com/CleverRaven/Cataclysm-DDA/pull/72686))
@@ -232,10 +235,7 @@
 * [MoM] Add PSIONIC flag to Levitation ([#72660](https://github.com/CleverRaven/Cataclysm-DDA/pull/72660))
 * add character_butchered_corpse event ([#72647](https://github.com/CleverRaven/Cataclysm-DDA/pull/72647))
 * Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
-* Update backup generator recipe_deconstruction.json ([#72624](https://github.com/CleverRaven/Cataclysm-DDA/pull/72624))
 * Spellcasting menu - automatically open to favorites tab if player has favorited spells ([#72643](https://github.com/CleverRaven/Cataclysm-DDA/pull/72643))
 * Correct and improve values and recipes for bullets of the caliber .300 BLK ([#72628](https://github.com/CleverRaven/Cataclysm-DDA/pull/72628))
 * Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
-* Brutish amalgamation quickfix ([#72626](https://github.com/CleverRaven/Cataclysm-DDA/pull/72626))
-* fix: change debug hotkey for edit global vars ([#72627](https://github.com/CleverRaven/Cataclysm-DDA/pull/72627))
 * Fix RM13 passives always active bug ([#72629](https://github.com/CleverRaven/Cataclysm-DDA/pull/72629))
