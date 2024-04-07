@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-07-0720 ([9fc88ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-0720))
+
 * [MoM] Remove extended channeling recipe after learning, add Thought-Form Construction practice recipe ([#72776](https://github.com/CleverRaven/Cataclysm-DDA/pull/72776))
 * Automatically learn proficiencies on load if XP is greater than required ([#72861](https://github.com/CleverRaven/Cataclysm-DDA/pull/72861))
 
@@ -210,11 +215,6 @@
 
 * [MoM] Awakening  > u_awakening in game start ([#72691](https://github.com/CleverRaven/Cataclysm-DDA/pull/72691))
 * Misc LIXA dialogue adjustments ([#72702](https://github.com/CleverRaven/Cataclysm-DDA/pull/72702))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-30-0207 ([b3ab5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-30-0207))
-
 * [DinoMod] Ceratosaurus HP increase ([#72700](https://github.com/CleverRaven/Cataclysm-DDA/pull/72700))
 * Test case: NPCs prefer to use guns ([#72683](https://github.com/CleverRaven/Cataclysm-DDA/pull/72683))
 * no regenerates_in_dark in sunlight ([#72684](https://github.com/CleverRaven/Cataclysm-DDA/pull/72684))
