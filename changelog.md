@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-07-1726 ([ef0aebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-1726))
+
 * [MoM] Feral telekinetics can't throw you with telekinesis if you have Inertial Barrier up and vice versa ([#72874](https://github.com/CleverRaven/Cataclysm-DDA/pull/72874))
 
 ---
@@ -209,11 +214,6 @@
 * EOC temp monsters don't drop items or corpses by default ([#72718](https://github.com/CleverRaven/Cataclysm-DDA/pull/72718))
 * doc: LOCKABLE_DOOR, DOOR_LOCKING ([#72694](https://github.com/CleverRaven/Cataclysm-DDA/pull/72694))
 * Routine i18n updates on 30 March 2024 ([#72705](https://github.com/CleverRaven/Cataclysm-DDA/pull/72705))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-30-1418 ([6f38ffd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-30-1418))
-
 * Appease clang-tidy ([#72719](https://github.com/CleverRaven/Cataclysm-DDA/pull/72719))
 * [MoM] Awakening  > u_awakening in game start ([#72691](https://github.com/CleverRaven/Cataclysm-DDA/pull/72691))
 * Misc LIXA dialogue adjustments ([#72702](https://github.com/CleverRaven/Cataclysm-DDA/pull/72702))
