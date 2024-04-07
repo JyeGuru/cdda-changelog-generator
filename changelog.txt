@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-07-0018 (84dae0b)
+* Throw debugmsg when setting charges for items that cannot have charges (#72780)
+
 Cataclysm-DDA experimental build 2024-04-06-1056 (7fece1f)
 * remove obsoleted supressors (#72791)
 
@@ -125,8 +128,6 @@ Cataclysm-DDA experimental build 2024-03-30-0207 (b3ab5b2)
 Cataclysm-DDA experimental build 2024-03-29-1832 (dd4e109)
 * Test case: NPCs prefer to use guns (#72683)
 * no regenerates_in_dark in sunlight (#72684)
-
-Cataclysm-DDA experimental build 2024-03-29-1553 (1e95d1e)
 * Make some newer mutant mammals actually use proper harvestlists (#72686)
 * Fix shadowcasting for weather with sight_penalty != 1.0 (#72669)
 * Hub armor fix and update ballistic material (#72679)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2024-03-29-1553 (1e95d1e)
 * Fix some uses of part_at() to use precalc positions (#72658)
 * Brewing density fixes (#72641)
 * [MoM] Add PSIONIC flag to Levitation (#72660)
-* [MoM] More nether attunement effects (#72620)
 * add character_butchered_corpse event (#72647)
 * Fix flaky drying test (#72650)
 * Update backup generator recipe_deconstruction.json (#72624)

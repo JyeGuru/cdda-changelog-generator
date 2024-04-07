@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-07-0018 ([84dae0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-0018))
+
+* Throw debugmsg when setting charges for items that cannot have charges ([#72780](https://github.com/CleverRaven/Cataclysm-DDA/pull/72780))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-06-1056 ([7fece1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-06-1056))
 
 * remove obsoleted supressors ([#72791](https://github.com/CleverRaven/Cataclysm-DDA/pull/72791))
@@ -209,11 +215,6 @@
 
 * Test case: NPCs prefer to use guns ([#72683](https://github.com/CleverRaven/Cataclysm-DDA/pull/72683))
 * no regenerates_in_dark in sunlight ([#72684](https://github.com/CleverRaven/Cataclysm-DDA/pull/72684))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-29-1553 ([1e95d1e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-29-1553))
-
 * Make some newer mutant mammals actually use proper harvestlists ([#72686](https://github.com/CleverRaven/Cataclysm-DDA/pull/72686))
 * Fix shadowcasting for weather with sight_penalty != 1.0 ([#72669](https://github.com/CleverRaven/Cataclysm-DDA/pull/72669))
 * Hub armor fix and update ballistic material ([#72679](https://github.com/CleverRaven/Cataclysm-DDA/pull/72679))
@@ -229,7 +230,6 @@
 * Fix some uses of part_at() to use precalc positions ([#72658](https://github.com/CleverRaven/Cataclysm-DDA/pull/72658))
 * Brewing density fixes ([#72641](https://github.com/CleverRaven/Cataclysm-DDA/pull/72641))
 * [MoM] Add PSIONIC flag to Levitation ([#72660](https://github.com/CleverRaven/Cataclysm-DDA/pull/72660))
-* [MoM] More nether attunement effects ([#72620](https://github.com/CleverRaven/Cataclysm-DDA/pull/72620))
 * add character_butchered_corpse event ([#72647](https://github.com/CleverRaven/Cataclysm-DDA/pull/72647))
 * Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
 * Update backup generator recipe_deconstruction.json ([#72624](https://github.com/CleverRaven/Cataclysm-DDA/pull/72624))
