@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-07-2111 ([076bf6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-2111))
+
 * Add dodge chance enchantment  ([#72855](https://github.com/CleverRaven/Cataclysm-DDA/pull/72855))
 
 ---
@@ -206,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2024-03-30-2128 ([1904b08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-30-2128))
 
 * LIXA: congealed light nerf ([#72714](https://github.com/CleverRaven/Cataclysm-DDA/pull/72714))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-30-1645 ([df6c8e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-30-1645))
-
 * Allow migrating from deleted variants ([#72717](https://github.com/CleverRaven/Cataclysm-DDA/pull/72717))
 * EOC temp monsters don't drop items or corpses by default ([#72718](https://github.com/CleverRaven/Cataclysm-DDA/pull/72718))
 * doc: LOCKABLE_DOOR, DOOR_LOCKING ([#72694](https://github.com/CleverRaven/Cataclysm-DDA/pull/72694))
