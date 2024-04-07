@@ -1,3 +1,4 @@
+* Add dodge chance enchantment  (#72855)
 
 Cataclysm-DDA experimental build 2024-04-07-1726 (ef0aebc)
 * [MoM] Feral telekinetics can't throw you with telekinesis if you have Inertial Barrier up and vice versa (#72874)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2024-03-30-1645 (df6c8e3)
 * add character_butchered_corpse event (#72647)
 * Fix flaky drying test (#72650)
 * Spellcasting menu - automatically open to favorites tab if player has favorited spells (#72643)
-* Arsonist should buy Merch at full value (#72637)

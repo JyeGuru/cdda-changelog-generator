@@ -1,3 +1,4 @@
+* Add dodge chance enchantment  ([#72855](https://github.com/CleverRaven/Cataclysm-DDA/pull/72855))
 
 ---
 
@@ -238,4 +239,3 @@
 * add character_butchered_corpse event ([#72647](https://github.com/CleverRaven/Cataclysm-DDA/pull/72647))
 * Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
 * Spellcasting menu - automatically open to favorites tab if player has favorited spells ([#72643](https://github.com/CleverRaven/Cataclysm-DDA/pull/72643))
-* Arsonist should buy Merch at full value ([#72637](https://github.com/CleverRaven/Cataclysm-DDA/pull/72637))
