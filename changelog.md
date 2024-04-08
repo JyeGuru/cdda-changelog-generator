@@ -1,3 +1,11 @@
+* By default, EOCs train proficiencies normally ([#72862](https://github.com/CleverRaven/Cataclysm-DDA/pull/72862))
+* [MoM] Oubliette works on NPCs now ([#72876](https://github.com/CleverRaven/Cataclysm-DDA/pull/72876))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-08-0442 ([f557194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-0442))
+
+* Fix negative rest quality ([#72892](https://github.com/CleverRaven/Cataclysm-DDA/pull/72892))
 
 ---
 
@@ -205,11 +213,6 @@
 * Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
 * Properly obsolete Xedra Evolved obsoletion ([#72675](https://github.com/CleverRaven/Cataclysm-DDA/pull/72675))
 * Make mansion ferals scenario specific ([#72695](https://github.com/CleverRaven/Cataclysm-DDA/pull/72695))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-31-0112 ([d8a6818](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-31-0112))
-
 * Monster faction shenanigans ([#72722](https://github.com/CleverRaven/Cataclysm-DDA/pull/72722))
 * LIXA: congealed light nerf ([#72714](https://github.com/CleverRaven/Cataclysm-DDA/pull/72714))
 * Allow migrating from deleted variants ([#72717](https://github.com/CleverRaven/Cataclysm-DDA/pull/72717))
@@ -234,8 +237,6 @@
 * Move ruined books from abstract.json ([#72665](https://github.com/CleverRaven/Cataclysm-DDA/pull/72665))
 * add map_id condition for EoC ([#72661](https://github.com/CleverRaven/Cataclysm-DDA/pull/72661))
 * Fix some uses of part_at() to use precalc positions ([#72658](https://github.com/CleverRaven/Cataclysm-DDA/pull/72658))
-* Brewing density fixes ([#72641](https://github.com/CleverRaven/Cataclysm-DDA/pull/72641))
 * [MoM] Add PSIONIC flag to Levitation ([#72660](https://github.com/CleverRaven/Cataclysm-DDA/pull/72660))
 * add character_butchered_corpse event ([#72647](https://github.com/CleverRaven/Cataclysm-DDA/pull/72647))
 * Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
-* Spellcasting menu - automatically open to favorites tab if player has favorited spells ([#72643](https://github.com/CleverRaven/Cataclysm-DDA/pull/72643))
