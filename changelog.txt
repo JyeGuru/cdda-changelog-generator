@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-08-0040 (a186121)
+* comprehensive deprecation warning updates (#72893)
+
 Cataclysm-DDA experimental build 2024-04-07-2111 (076bf6d)
 * Add dodge chance enchantment  (#72855)
 
@@ -121,8 +124,6 @@ Cataclysm-DDA experimental build 2024-03-31-0500 (d2b51fd)
 
 Cataclysm-DDA experimental build 2024-03-31-0112 (d8a6818)
 * Monster faction shenanigans (#72722)
-
-Cataclysm-DDA experimental build 2024-03-30-2128 (1904b08)
 * LIXA: congealed light nerf (#72714)
 * Allow migrating from deleted variants (#72717)
 * EOC temp monsters don't drop items or corpses by default (#72718)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2024-03-30-2128 (1904b08)
 * Notched plank description update (#72680)
 * Edit spell UI word choice when using psionics (#72676)
 * fix clang tidy error in condition.cpp (#72670)
-* Remove Survivor Revolvers (#72638)
 * [MoM] Channeling powers costs focus (#72654)
 * fix trapavoid monsters refusing to ever step on traps (#72662)
 * Properly obsolete MoM obsoletion (#72672)

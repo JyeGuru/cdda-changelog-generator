@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-08-0040 ([a186121](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-0040))
+
+* comprehensive deprecation warning updates ([#72893](https://github.com/CleverRaven/Cataclysm-DDA/pull/72893))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-07-2111 ([076bf6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-2111))
 
 * Add dodge chance enchantment  ([#72855](https://github.com/CleverRaven/Cataclysm-DDA/pull/72855))
@@ -205,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2024-03-31-0112 ([d8a6818](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-31-0112))
 
 * Monster faction shenanigans ([#72722](https://github.com/CleverRaven/Cataclysm-DDA/pull/72722))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-30-2128 ([1904b08](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-30-2128))
-
 * LIXA: congealed light nerf ([#72714](https://github.com/CleverRaven/Cataclysm-DDA/pull/72714))
 * Allow migrating from deleted variants ([#72717](https://github.com/CleverRaven/Cataclysm-DDA/pull/72717))
 * EOC temp monsters don't drop items or corpses by default ([#72718](https://github.com/CleverRaven/Cataclysm-DDA/pull/72718))
@@ -227,7 +228,6 @@
 * Notched plank description update ([#72680](https://github.com/CleverRaven/Cataclysm-DDA/pull/72680))
 * Edit spell UI word choice when using psionics ([#72676](https://github.com/CleverRaven/Cataclysm-DDA/pull/72676))
 * fix clang tidy error in condition.cpp ([#72670](https://github.com/CleverRaven/Cataclysm-DDA/pull/72670))
-* Remove Survivor Revolvers ([#72638](https://github.com/CleverRaven/Cataclysm-DDA/pull/72638))
 * [MoM] Channeling powers costs focus ([#72654](https://github.com/CleverRaven/Cataclysm-DDA/pull/72654))
 * fix trapavoid monsters refusing to ever step on traps ([#72662](https://github.com/CleverRaven/Cataclysm-DDA/pull/72662))
 * Properly obsolete MoM obsoletion ([#72672](https://github.com/CleverRaven/Cataclysm-DDA/pull/72672))
