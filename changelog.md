@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-08-1359 ([a1e69f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-1359))
+
+* Fix ImGui keybindings screen not allowing the user to scroll the list upon opening ([#72871](https://github.com/CleverRaven/Cataclysm-DDA/pull/72871))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-08-0720 ([0095b30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-0720))
 
 * [MoM] Utilise test_eoc functionality to reduce duplicate conditions ([#72875](https://github.com/CleverRaven/Cataclysm-DDA/pull/72875))
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2024-04-02-0146 ([5691c04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-02-0146))
 
 * Routine tileset updates on 01 April 2024 ([#72755](https://github.com/CleverRaven/Cataclysm-DDA/pull/72755))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-01-2229 ([4808268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-01-2229))
-
 * [MoM] High levels of weariness (or brainworms) turn off your powers ([#72773](https://github.com/CleverRaven/Cataclysm-DDA/pull/72773))
 * Adds ASCII art to S&W 619 ([#72730](https://github.com/CleverRaven/Cataclysm-DDA/pull/72730))
 * Removes all hardcoded overmap_connection_id references ([#72725](https://github.com/CleverRaven/Cataclysm-DDA/pull/72725))
@@ -239,4 +240,3 @@
 * add map_id condition for EoC ([#72661](https://github.com/CleverRaven/Cataclysm-DDA/pull/72661))
 * Fix some uses of part_at() to use precalc positions ([#72658](https://github.com/CleverRaven/Cataclysm-DDA/pull/72658))
 * [MoM] Add PSIONIC flag to Levitation ([#72660](https://github.com/CleverRaven/Cataclysm-DDA/pull/72660))
-* Fix flaky drying test ([#72650](https://github.com/CleverRaven/Cataclysm-DDA/pull/72650))
