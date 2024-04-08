@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-08-0720 ([0095b30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-0720))
+
 * [MoM] Utilise test_eoc functionality to reduce duplicate conditions ([#72875](https://github.com/CleverRaven/Cataclysm-DDA/pull/72875))
 * By default, EOCs train proficiencies normally ([#72862](https://github.com/CleverRaven/Cataclysm-DDA/pull/72862))
 * [MoM] Oubliette works on NPCs now ([#72876](https://github.com/CleverRaven/Cataclysm-DDA/pull/72876))
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2024-04-01-2229 ([4808268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-01-2229))
 
 * [MoM] High levels of weariness (or brainworms) turn off your powers ([#72773](https://github.com/CleverRaven/Cataclysm-DDA/pull/72773))
-
----
-
-#### Cataclysm-DDA experimental build 2024-03-31-0500 ([d2b51fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-03-31-0500))
-
 * Adds ASCII art to S&W 619 ([#72730](https://github.com/CleverRaven/Cataclysm-DDA/pull/72730))
 * Removes all hardcoded overmap_connection_id references ([#72725](https://github.com/CleverRaven/Cataclysm-DDA/pull/72725))
 * Improved task activity feedback slightly ([#72677](https://github.com/CleverRaven/Cataclysm-DDA/pull/72677))
