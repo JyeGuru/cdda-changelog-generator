@@ -1,3 +1,4 @@
+* Allow EOCs to search items by caloric content ([#72886](https://github.com/CleverRaven/Cataclysm-DDA/pull/72886))
 * Fix cast iron material weirdness ([#72929](https://github.com/CleverRaven/Cataclysm-DDA/pull/72929))
 
 ---
@@ -232,4 +233,3 @@
 * Test case: NPCs prefer to use guns ([#72683](https://github.com/CleverRaven/Cataclysm-DDA/pull/72683))
 * no regenerates_in_dark in sunlight ([#72684](https://github.com/CleverRaven/Cataclysm-DDA/pull/72684))
 * Make some newer mutant mammals actually use proper harvestlists ([#72686](https://github.com/CleverRaven/Cataclysm-DDA/pull/72686))
-* Notched plank description update ([#72680](https://github.com/CleverRaven/Cataclysm-DDA/pull/72680))

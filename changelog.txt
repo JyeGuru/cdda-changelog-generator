@@ -1,3 +1,4 @@
+* Allow EOCs to search items by caloric content (#72886)
 * Fix cast iron material weirdness (#72929)
 
 Cataclysm-DDA experimental build 2024-04-09-1421 (2c47a81)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2024-04-03-0309 (dee02e4)
 * Test case: NPCs prefer to use guns (#72683)
 * no regenerates_in_dark in sunlight (#72684)
 * Make some newer mutant mammals actually use proper harvestlists (#72686)
-* Notched plank description update (#72680)
