@@ -204,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2024-04-02-2057 ([0e3ed4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-02-2057))
 
 * Random bit of wander code isn't unbiased ([#72793](https://github.com/CleverRaven/Cataclysm-DDA/pull/72793))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-02-1742 ([10801ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-02-1742))
-
 * [Xedra Evolved] New Arvore spell--Verdant Imprisonment ([#72784](https://github.com/CleverRaven/Cataclysm-DDA/pull/72784))
 * More specific messages for being unable to use supernatural powers ([#72741](https://github.com/CleverRaven/Cataclysm-DDA/pull/72741))
 * Routine tileset updates on 01 April 2024 ([#72755](https://github.com/CleverRaven/Cataclysm-DDA/pull/72755))
