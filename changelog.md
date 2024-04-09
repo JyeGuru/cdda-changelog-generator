@@ -1,3 +1,5 @@
+* [MoM] Power maintenance message change ([#72753](https://github.com/CleverRaven/Cataclysm-DDA/pull/72753))
+* Disallow some guns from turrets based on action ([#72789](https://github.com/CleverRaven/Cataclysm-DDA/pull/72789))
 
 ---
 
@@ -214,7 +216,6 @@
 * Achievements Additions ([#72731](https://github.com/CleverRaven/Cataclysm-DDA/pull/72731))
 * NPCs can develop vitamin diseases ([#72728](https://github.com/CleverRaven/Cataclysm-DDA/pull/72728))
 * Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
-* Properly obsolete Xedra Evolved obsoletion ([#72675](https://github.com/CleverRaven/Cataclysm-DDA/pull/72675))
 * Make mansion ferals scenario specific ([#72695](https://github.com/CleverRaven/Cataclysm-DDA/pull/72695))
 * Monster faction shenanigans ([#72722](https://github.com/CleverRaven/Cataclysm-DDA/pull/72722))
 * LIXA: congealed light nerf ([#72714](https://github.com/CleverRaven/Cataclysm-DDA/pull/72714))
@@ -232,4 +233,3 @@
 * Hub armor fix and update ballistic material ([#72679](https://github.com/CleverRaven/Cataclysm-DDA/pull/72679))
 * Notched plank description update ([#72680](https://github.com/CleverRaven/Cataclysm-DDA/pull/72680))
 * Edit spell UI word choice when using psionics ([#72676](https://github.com/CleverRaven/Cataclysm-DDA/pull/72676))
-* Properly obsolete MoM obsoletion ([#72672](https://github.com/CleverRaven/Cataclysm-DDA/pull/72672))
