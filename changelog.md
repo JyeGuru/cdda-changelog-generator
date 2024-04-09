@@ -217,7 +217,6 @@
 * Removes all hardcoded overmap_connection_id references ([#72725](https://github.com/CleverRaven/Cataclysm-DDA/pull/72725))
 * Improved task activity feedback slightly ([#72677](https://github.com/CleverRaven/Cataclysm-DDA/pull/72677))
 * Achievements Additions ([#72731](https://github.com/CleverRaven/Cataclysm-DDA/pull/72731))
-* Properly obsolete aftershock obsoletion ([#72671](https://github.com/CleverRaven/Cataclysm-DDA/pull/72671))
 * NPCs can develop vitamin diseases ([#72728](https://github.com/CleverRaven/Cataclysm-DDA/pull/72728))
 * Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
 * Properly obsolete Xedra Evolved obsoletion ([#72675](https://github.com/CleverRaven/Cataclysm-DDA/pull/72675))
