@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-09-0233 ([f72b8fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-09-0233))
+
+* fix lamp_oil recipe ([#72898](https://github.com/CleverRaven/Cataclysm-DDA/pull/72898))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-08-1359 ([a1e69f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-1359))
 
 * Fix ImGui keybindings screen not allowing the user to scroll the list upon opening ([#72871](https://github.com/CleverRaven/Cataclysm-DDA/pull/72871))
@@ -199,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2024-04-02-0446 ([4aef748](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-02-0446))
 
 * More specific messages for being unable to use supernatural powers ([#72741](https://github.com/CleverRaven/Cataclysm-DDA/pull/72741))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-02-0146 ([5691c04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-02-0146))
-
 * Routine tileset updates on 01 April 2024 ([#72755](https://github.com/CleverRaven/Cataclysm-DDA/pull/72755))
 * [MoM] High levels of weariness (or brainworms) turn off your powers ([#72773](https://github.com/CleverRaven/Cataclysm-DDA/pull/72773))
 * Adds ASCII art to S&W 619 ([#72730](https://github.com/CleverRaven/Cataclysm-DDA/pull/72730))
@@ -233,7 +234,6 @@
 * Notched plank description update ([#72680](https://github.com/CleverRaven/Cataclysm-DDA/pull/72680))
 * Edit spell UI word choice when using psionics ([#72676](https://github.com/CleverRaven/Cataclysm-DDA/pull/72676))
 * fix clang tidy error in condition.cpp ([#72670](https://github.com/CleverRaven/Cataclysm-DDA/pull/72670))
-* [MoM] Channeling powers costs focus ([#72654](https://github.com/CleverRaven/Cataclysm-DDA/pull/72654))
 * fix trapavoid monsters refusing to ever step on traps ([#72662](https://github.com/CleverRaven/Cataclysm-DDA/pull/72662))
 * Properly obsolete MoM obsoletion ([#72672](https://github.com/CleverRaven/Cataclysm-DDA/pull/72672))
 * Move ruined books from abstract.json ([#72665](https://github.com/CleverRaven/Cataclysm-DDA/pull/72665))
