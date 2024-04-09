@@ -1,3 +1,4 @@
+* Bugfix for UPS being effectively always on after first activation (#72916)
 * Allow EOCs to search items by caloric content (#72886)
 * Fix cast iron material weirdness (#72929)
 
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2024-04-03-0309 (dee02e4)
 * [MoM] Awakening  > u_awakening in game start (#72691)
 * Misc LIXA dialogue adjustments (#72702)
 * [DinoMod] Ceratosaurus HP increase (#72700)
-* Test case: NPCs prefer to use guns (#72683)
 * no regenerates_in_dark in sunlight (#72684)
 * Make some newer mutant mammals actually use proper harvestlists (#72686)

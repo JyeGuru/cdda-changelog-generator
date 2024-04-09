@@ -1,3 +1,4 @@
+* Bugfix for UPS being effectively always on after first activation ([#72916](https://github.com/CleverRaven/Cataclysm-DDA/pull/72916))
 * Allow EOCs to search items by caloric content ([#72886](https://github.com/CleverRaven/Cataclysm-DDA/pull/72886))
 * Fix cast iron material weirdness ([#72929](https://github.com/CleverRaven/Cataclysm-DDA/pull/72929))
 
@@ -230,6 +231,5 @@
 * [MoM] Awakening  > u_awakening in game start ([#72691](https://github.com/CleverRaven/Cataclysm-DDA/pull/72691))
 * Misc LIXA dialogue adjustments ([#72702](https://github.com/CleverRaven/Cataclysm-DDA/pull/72702))
 * [DinoMod] Ceratosaurus HP increase ([#72700](https://github.com/CleverRaven/Cataclysm-DDA/pull/72700))
-* Test case: NPCs prefer to use guns ([#72683](https://github.com/CleverRaven/Cataclysm-DDA/pull/72683))
 * no regenerates_in_dark in sunlight ([#72684](https://github.com/CleverRaven/Cataclysm-DDA/pull/72684))
 * Make some newer mutant mammals actually use proper harvestlists ([#72686](https://github.com/CleverRaven/Cataclysm-DDA/pull/72686))
