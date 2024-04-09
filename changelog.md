@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-09-1421 ([2c47a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-09-1421))
+
 * Fix health dreams when you are ill ([#72881](https://github.com/CleverRaven/Cataclysm-DDA/pull/72881))
 * Use 'soldering_standard' for electronic fixes ([#72895](https://github.com/CleverRaven/Cataclysm-DDA/pull/72895))
 * [MoM] Power maintenance message change ([#72753](https://github.com/CleverRaven/Cataclysm-DDA/pull/72753))
@@ -202,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2024-04-03-0309 ([dee02e4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-03-0309))
 
 * Fixing ImGui popup size issue, and small input bug ([#72797](https://github.com/CleverRaven/Cataclysm-DDA/pull/72797))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-02-2057 ([0e3ed4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-02-2057))
-
 * Random bit of wander code isn't unbiased ([#72793](https://github.com/CleverRaven/Cataclysm-DDA/pull/72793))
 * [Xedra Evolved] New Arvore spell--Verdant Imprisonment ([#72784](https://github.com/CleverRaven/Cataclysm-DDA/pull/72784))
 * More specific messages for being unable to use supernatural powers ([#72741](https://github.com/CleverRaven/Cataclysm-DDA/pull/72741))
