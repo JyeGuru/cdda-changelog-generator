@@ -1,3 +1,5 @@
+* Fix GitHub Actions Node.js runtime deprecation warning in macOS release build workflow ([#72909](https://github.com/CleverRaven/Cataclysm-DDA/pull/72909))
+* Fix ASan error, suppress more checks ([#72900](https://github.com/CleverRaven/Cataclysm-DDA/pull/72900))
 * run IWYU for some files ([#72906](https://github.com/CleverRaven/Cataclysm-DDA/pull/72906))
 
 ---
@@ -238,5 +240,3 @@
 * fix trapavoid monsters refusing to ever step on traps ([#72662](https://github.com/CleverRaven/Cataclysm-DDA/pull/72662))
 * Properly obsolete MoM obsoletion ([#72672](https://github.com/CleverRaven/Cataclysm-DDA/pull/72672))
 * Move ruined books from abstract.json ([#72665](https://github.com/CleverRaven/Cataclysm-DDA/pull/72665))
-* add map_id condition for EoC ([#72661](https://github.com/CleverRaven/Cataclysm-DDA/pull/72661))
-* [MoM] Add PSIONIC flag to Levitation ([#72660](https://github.com/CleverRaven/Cataclysm-DDA/pull/72660))
