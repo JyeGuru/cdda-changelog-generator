@@ -1,3 +1,4 @@
+* Fix health dreams when you are ill ([#72881](https://github.com/CleverRaven/Cataclysm-DDA/pull/72881))
 * Use 'soldering_standard' for electronic fixes ([#72895](https://github.com/CleverRaven/Cataclysm-DDA/pull/72895))
 * [MoM] Power maintenance message change ([#72753](https://github.com/CleverRaven/Cataclysm-DDA/pull/72753))
 * Disallow some guns from turrets based on action ([#72789](https://github.com/CleverRaven/Cataclysm-DDA/pull/72789))
@@ -213,7 +214,6 @@
 * [MoM] High levels of weariness (or brainworms) turn off your powers ([#72773](https://github.com/CleverRaven/Cataclysm-DDA/pull/72773))
 * Adds ASCII art to S&W 619 ([#72730](https://github.com/CleverRaven/Cataclysm-DDA/pull/72730))
 * Removes all hardcoded overmap_connection_id references ([#72725](https://github.com/CleverRaven/Cataclysm-DDA/pull/72725))
-* Improved task activity feedback slightly ([#72677](https://github.com/CleverRaven/Cataclysm-DDA/pull/72677))
 * Achievements Additions ([#72731](https://github.com/CleverRaven/Cataclysm-DDA/pull/72731))
 * NPCs can develop vitamin diseases ([#72728](https://github.com/CleverRaven/Cataclysm-DDA/pull/72728))
 * Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
