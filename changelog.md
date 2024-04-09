@@ -1,3 +1,4 @@
+* Update JSON_INFO.md ([#72752](https://github.com/CleverRaven/Cataclysm-DDA/pull/72752))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
 * [DinoMod] Iguanodon ([#72735](https://github.com/CleverRaven/Cataclysm-DDA/pull/72735))
 * Enforce mon_ prefix for monster id ([#72734](https://github.com/CleverRaven/Cataclysm-DDA/pull/72734))
@@ -188,7 +189,6 @@
 * reword the guilt messages ([#72802](https://github.com/CleverRaven/Cataclysm-DDA/pull/72802))
 * uncooked toaster pastries aren't gross ([#72823](https://github.com/CleverRaven/Cataclysm-DDA/pull/72823))
 * [MoM] Can't think, head hurts too much ([#72737](https://github.com/CleverRaven/Cataclysm-DDA/pull/72737))
-* [ Xedra Evolved ] Dreamless Trait ([#72707](https://github.com/CleverRaven/Cataclysm-DDA/pull/72707))
 * Throw error if recipe definition is missing any valid combinations ([#72801](https://github.com/CleverRaven/Cataclysm-DDA/pull/72801))
 * LIXA: update laser pipe breaking description ([#72760](https://github.com/CleverRaven/Cataclysm-DDA/pull/72760))
 * (Mind over Matter) allow incandescent lance to repair metal items ([#72716](https://github.com/CleverRaven/Cataclysm-DDA/pull/72716))
