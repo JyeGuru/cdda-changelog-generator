@@ -1,3 +1,4 @@
+* Extract field bash and effect apply text ([#72745](https://github.com/CleverRaven/Cataclysm-DDA/pull/72745))
 * Remove extern furn ids ([#72834](https://github.com/CleverRaven/Cataclysm-DDA/pull/72834))
 * Fixed out of bounds transparency cache access ([#72850](https://github.com/CleverRaven/Cataclysm-DDA/pull/72850))
 * Fix companions ceasing activities when PC enter Z level ([#72883](https://github.com/CleverRaven/Cataclysm-DDA/pull/72883))
@@ -226,4 +227,3 @@
 * Routine i18n updates on 30 March 2024 ([#72705](https://github.com/CleverRaven/Cataclysm-DDA/pull/72705))
 * Appease clang-tidy ([#72719](https://github.com/CleverRaven/Cataclysm-DDA/pull/72719))
 * Misc LIXA dialogue adjustments ([#72702](https://github.com/CleverRaven/Cataclysm-DDA/pull/72702))
-* [DinoMod] Ceratosaurus HP increase ([#72700](https://github.com/CleverRaven/Cataclysm-DDA/pull/72700))
