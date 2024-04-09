@@ -1,3 +1,5 @@
+* Weekly Changelog 2024-04-01 to 2024-04-08 ([#72894](https://github.com/CleverRaven/Cataclysm-DDA/pull/72894))
+* Debug option to write file with list of cities located on current overmap ([#72912](https://github.com/CleverRaven/Cataclysm-DDA/pull/72912))
 * Update the spelling dictionary for #72924 ([#72926](https://github.com/CleverRaven/Cataclysm-DDA/pull/72926))
 * Improve spell checker tokenization and reporting ([#72924](https://github.com/CleverRaven/Cataclysm-DDA/pull/72924))
 * Bugfix for UPS being effectively always on after first activation ([#72916](https://github.com/CleverRaven/Cataclysm-DDA/pull/72916))
@@ -139,7 +141,6 @@
 #### Cataclysm-DDA experimental build 2024-04-05-0221 ([0898a35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-05-0221))
 
 * Rename fatigue to sleepiness ([#72708](https://github.com/CleverRaven/Cataclysm-DDA/pull/72708))
-* Pain is Painful ([#72687](https://github.com/CleverRaven/Cataclysm-DDA/pull/72687))
 
 ---
 
@@ -225,6 +226,5 @@
 * doc: LOCKABLE_DOOR, DOOR_LOCKING ([#72694](https://github.com/CleverRaven/Cataclysm-DDA/pull/72694))
 * Routine i18n updates on 30 March 2024 ([#72705](https://github.com/CleverRaven/Cataclysm-DDA/pull/72705))
 * Appease clang-tidy ([#72719](https://github.com/CleverRaven/Cataclysm-DDA/pull/72719))
-* [MoM] Awakening  > u_awakening in game start ([#72691](https://github.com/CleverRaven/Cataclysm-DDA/pull/72691))
 * Misc LIXA dialogue adjustments ([#72702](https://github.com/CleverRaven/Cataclysm-DDA/pull/72702))
 * [DinoMod] Ceratosaurus HP increase ([#72700](https://github.com/CleverRaven/Cataclysm-DDA/pull/72700))
