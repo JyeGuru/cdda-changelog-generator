@@ -1,3 +1,4 @@
+* Use 'soldering_standard' for electronic fixes ([#72895](https://github.com/CleverRaven/Cataclysm-DDA/pull/72895))
 * [MoM] Power maintenance message change ([#72753](https://github.com/CleverRaven/Cataclysm-DDA/pull/72753))
 * Disallow some guns from turrets based on action ([#72789](https://github.com/CleverRaven/Cataclysm-DDA/pull/72789))
 
@@ -232,4 +233,3 @@
 * Make some newer mutant mammals actually use proper harvestlists ([#72686](https://github.com/CleverRaven/Cataclysm-DDA/pull/72686))
 * Hub armor fix and update ballistic material ([#72679](https://github.com/CleverRaven/Cataclysm-DDA/pull/72679))
 * Notched plank description update ([#72680](https://github.com/CleverRaven/Cataclysm-DDA/pull/72680))
-* Edit spell UI word choice when using psionics ([#72676](https://github.com/CleverRaven/Cataclysm-DDA/pull/72676))
