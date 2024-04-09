@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-09-0511 ([e37e471](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-09-0511))
+
 * Bug fix for swag bags and canvas bags ([#72858](https://github.com/CleverRaven/Cataclysm-DDA/pull/72858))
 * Bugfix for UPS not charging items with empty integrated batteries ([#72837](https://github.com/CleverRaven/Cataclysm-DDA/pull/72837))
 * Docs and in game typos ([#72901](https://github.com/CleverRaven/Cataclysm-DDA/pull/72901))
@@ -205,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2024-04-02-1742 ([10801ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-02-1742))
 
 * [Xedra Evolved] New Arvore spell--Verdant Imprisonment ([#72784](https://github.com/CleverRaven/Cataclysm-DDA/pull/72784))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-02-0446 ([4aef748](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-02-0446))
-
 * More specific messages for being unable to use supernatural powers ([#72741](https://github.com/CleverRaven/Cataclysm-DDA/pull/72741))
 * Routine tileset updates on 01 April 2024 ([#72755](https://github.com/CleverRaven/Cataclysm-DDA/pull/72755))
 * [MoM] High levels of weariness (or brainworms) turn off your powers ([#72773](https://github.com/CleverRaven/Cataclysm-DDA/pull/72773))
