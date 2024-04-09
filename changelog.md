@@ -1,3 +1,6 @@
+* Fixed out of bounds transparency cache access ([#72850](https://github.com/CleverRaven/Cataclysm-DDA/pull/72850))
+* Fix companions ceasing activities when PC enter Z level ([#72883](https://github.com/CleverRaven/Cataclysm-DDA/pull/72883))
+* Fix stone sickle weapon category typo ([#72889](https://github.com/CleverRaven/Cataclysm-DDA/pull/72889))
 * Weekly Changelog 2024-04-01 to 2024-04-08 ([#72894](https://github.com/CleverRaven/Cataclysm-DDA/pull/72894))
 * Debug option to write file with list of cities located on current overmap ([#72912](https://github.com/CleverRaven/Cataclysm-DDA/pull/72912))
 * Update the spelling dictionary for #72924 ([#72926](https://github.com/CleverRaven/Cataclysm-DDA/pull/72926))
@@ -171,7 +174,6 @@
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
 * Lore: update UPS description ([#72723](https://github.com/CleverRaven/Cataclysm-DDA/pull/72723))
 * Get roofs generated for basecamps ([#72724](https://github.com/CleverRaven/Cataclysm-DDA/pull/72724))
-* Implement weapon proficiencies in C++ (and improve proficiency xp gain for short training durations) ([#72693](https://github.com/CleverRaven/Cataclysm-DDA/pull/72693))
 
 ---
 
@@ -188,7 +190,6 @@
 * Fix food fun reduction test not actually having any reduction ([#72783](https://github.com/CleverRaven/Cataclysm-DDA/pull/72783))
 * Rename cover ---> concealment ([#72739](https://github.com/CleverRaven/Cataclysm-DDA/pull/72739))
 * Fixing reload_furniture to allow reloading with ammo other than the default ([#72703](https://github.com/CleverRaven/Cataclysm-DDA/pull/72703))
-* [MoM] Edit portal storm conditions to support moddability, use that for Telepathic Shield in MoM ([#72692](https://github.com/CleverRaven/Cataclysm-DDA/pull/72692))
 * NPCs taking canned food donations no longer remove the food from the can ([#72759](https://github.com/CleverRaven/Cataclysm-DDA/pull/72759))
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
 * AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
@@ -218,12 +219,10 @@
 * Achievements Additions ([#72731](https://github.com/CleverRaven/Cataclysm-DDA/pull/72731))
 * NPCs can develop vitamin diseases ([#72728](https://github.com/CleverRaven/Cataclysm-DDA/pull/72728))
 * Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
-* Make mansion ferals scenario specific ([#72695](https://github.com/CleverRaven/Cataclysm-DDA/pull/72695))
 * Monster faction shenanigans ([#72722](https://github.com/CleverRaven/Cataclysm-DDA/pull/72722))
 * LIXA: congealed light nerf ([#72714](https://github.com/CleverRaven/Cataclysm-DDA/pull/72714))
 * Allow migrating from deleted variants ([#72717](https://github.com/CleverRaven/Cataclysm-DDA/pull/72717))
 * EOC temp monsters don't drop items or corpses by default ([#72718](https://github.com/CleverRaven/Cataclysm-DDA/pull/72718))
-* doc: LOCKABLE_DOOR, DOOR_LOCKING ([#72694](https://github.com/CleverRaven/Cataclysm-DDA/pull/72694))
 * Routine i18n updates on 30 March 2024 ([#72705](https://github.com/CleverRaven/Cataclysm-DDA/pull/72705))
 * Appease clang-tidy ([#72719](https://github.com/CleverRaven/Cataclysm-DDA/pull/72719))
 * Misc LIXA dialogue adjustments ([#72702](https://github.com/CleverRaven/Cataclysm-DDA/pull/72702))
