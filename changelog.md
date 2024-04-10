@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-10-0131 ([fd489a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-10-0131))
+
+* A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Update JSON_INFO.md ([#72752](https://github.com/CleverRaven/Cataclysm-DDA/pull/72752))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
 * [DinoMod] Iguanodon ([#72735](https://github.com/CleverRaven/Cataclysm-DDA/pull/72735))
@@ -147,12 +153,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-04-05-0221 ([0898a35](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-05-0221))
-
-* Rename fatigue to sleepiness ([#72708](https://github.com/CleverRaven/Cataclysm-DDA/pull/72708))
-
----
-
 #### Cataclysm-DDA experimental build 2024-04-04-2351 ([373238f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-2351))
 
 * Fixing ImGUi keybindings screen processing keys pressed before it was shown ([#72800](https://github.com/CleverRaven/Cataclysm-DDA/pull/72800))
@@ -205,11 +205,6 @@
 
 * Set rot when all components are rotten ([#72777](https://github.com/CleverRaven/Cataclysm-DDA/pull/72777))
 * fix: update create PR action v4 -> v6 ([#72782](https://github.com/CleverRaven/Cataclysm-DDA/pull/72782))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-03-1853 ([8b4c779](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-03-1853))
-
 * Forest biome terrain oter_id -> oter_type_id ([#72812](https://github.com/CleverRaven/Cataclysm-DDA/pull/72812))
 * Fixing ImGui popup size issue, and small input bug ([#72797](https://github.com/CleverRaven/Cataclysm-DDA/pull/72797))
 * Random bit of wander code isn't unbiased ([#72793](https://github.com/CleverRaven/Cataclysm-DDA/pull/72793))

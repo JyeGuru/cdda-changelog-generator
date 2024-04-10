@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-04-10-0131 (fd489a0)
+* A bunch of random item reworks: 12 (#72931)
 * Update JSON_INFO.md (#72752)
 * Fixing ImGui windows size issues and input issues (#72936)
 * [DinoMod] Iguanodon (#72735)
@@ -88,9 +91,6 @@ Cataclysm-DDA experimental build 2024-04-05-0445 (88620b6)
 * Add DPavonis as valid comment commander (#72838)
 * Revert "ci: avoid leftover changelog update branches" (#72836)
 
-Cataclysm-DDA experimental build 2024-04-05-0221 (0898a35)
-* Rename fatigue to sleepiness (#72708)
-
 Cataclysm-DDA experimental build 2024-04-04-2351 (373238f)
 * Fixing ImGUi keybindings screen processing keys pressed before it was shown (#72800)
 * Fix snippet (#72744)
@@ -127,8 +127,6 @@ Cataclysm-DDA experimental build 2024-04-04-0557 (55f012c)
 Cataclysm-DDA experimental build 2024-04-03-2239 (1143055)
 * Set rot when all components are rotten (#72777)
 * fix: update create PR action v4 -> v6 (#72782)
-
-Cataclysm-DDA experimental build 2024-04-03-1853 (8b4c779)
 * Forest biome terrain oter_id -> oter_type_id (#72812)
 * Fixing ImGui popup size issue, and small input bug (#72797)
 * Random bit of wander code isn't unbiased (#72793)
