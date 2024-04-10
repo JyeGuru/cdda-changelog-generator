@@ -1,3 +1,12 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-10-0516 ([3285099](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-10-0516))
+
+* [MoM] Photokinetic gets it's welding glare protection ([#72935](https://github.com/CleverRaven/Cataclysm-DDA/pull/72935))
+* Fixing a crash related to an item unable to determine the appropriate pocket to be placed into  ([#72942](https://github.com/CleverRaven/Cataclysm-DDA/pull/72942))
+* Limit amount of cut damage glass applies on you ([#72885](https://github.com/CleverRaven/Cataclysm-DDA/pull/72885))
+* Spelling and text consistency fixes ([#72910](https://github.com/CleverRaven/Cataclysm-DDA/pull/72910))
 * Categorize colander as tool ([#72933](https://github.com/CleverRaven/Cataclysm-DDA/pull/72933))
 
 ---
@@ -192,18 +201,12 @@
 * [MoM] Can't think, head hurts too much ([#72737](https://github.com/CleverRaven/Cataclysm-DDA/pull/72737))
 * Throw error if recipe definition is missing any valid combinations ([#72801](https://github.com/CleverRaven/Cataclysm-DDA/pull/72801))
 * LIXA: update laser pipe breaking description ([#72760](https://github.com/CleverRaven/Cataclysm-DDA/pull/72760))
-* (Mind over Matter) allow incandescent lance to repair metal items ([#72716](https://github.com/CleverRaven/Cataclysm-DDA/pull/72716))
 * Fix food fun reduction test not actually having any reduction ([#72783](https://github.com/CleverRaven/Cataclysm-DDA/pull/72783))
 * Rename cover ---> concealment ([#72739](https://github.com/CleverRaven/Cataclysm-DDA/pull/72739))
 * NPCs taking canned food donations no longer remove the food from the can ([#72759](https://github.com/CleverRaven/Cataclysm-DDA/pull/72759))
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
 * AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
 * Aftershock: Add an ATM to Port Augustmoon ([#72810](https://github.com/CleverRaven/Cataclysm-DDA/pull/72810))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-03-2239 ([1143055](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-03-2239))
-
 * Set rot when all components are rotten ([#72777](https://github.com/CleverRaven/Cataclysm-DDA/pull/72777))
 * fix: update create PR action v4 -> v6 ([#72782](https://github.com/CleverRaven/Cataclysm-DDA/pull/72782))
 * Forest biome terrain oter_id -> oter_type_id ([#72812](https://github.com/CleverRaven/Cataclysm-DDA/pull/72812))
@@ -219,6 +222,3 @@
 * NPCs can develop vitamin diseases ([#72728](https://github.com/CleverRaven/Cataclysm-DDA/pull/72728))
 * Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
 * Monster faction shenanigans ([#72722](https://github.com/CleverRaven/Cataclysm-DDA/pull/72722))
-* Allow migrating from deleted variants ([#72717](https://github.com/CleverRaven/Cataclysm-DDA/pull/72717))
-* EOC temp monsters don't drop items or corpses by default ([#72718](https://github.com/CleverRaven/Cataclysm-DDA/pull/72718))
-* Appease clang-tidy ([#72719](https://github.com/CleverRaven/Cataclysm-DDA/pull/72719))
