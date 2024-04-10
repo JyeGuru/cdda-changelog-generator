@@ -1,3 +1,5 @@
+* [MoM] Account for painkiller in pain disabling powers (#72939)
+* Remove bonus damages from .38/7.62x39 guns (#72941)
 * debug_mon -> pseudo_debug_mon (#72945)
 
 Cataclysm-DDA experimental build 2024-04-10-0516 (3285099)
@@ -114,7 +116,6 @@ Cataclysm-DDA experimental build 2024-04-04-1408 (e9f4fbd)
 
 Cataclysm-DDA experimental build 2024-04-04-0825 (15b95a2)
 * fix and cleanup few itemgroups (#72821)
-* Get roofs generated for basecamps (#72724)
 
 Cataclysm-DDA experimental build 2024-04-04-0557 (55f012c)
 * "gathering sights" should be "gathering sites" (#72757)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2024-04-04-0557 (55f012c)
 * Routine tileset updates on 01 April 2024 (#72755)
 * [MoM] High levels of weariness (or brainworms) turn off your powers (#72773)
 * Adds ASCII art to S&W 619 (#72730)
-* Removes all hardcoded overmap_connection_id references (#72725)
 * Achievements Additions (#72731)
 * NPCs can develop vitamin diseases (#72728)
 * Restore drops to real spawned monsters that are meant to have them (#72732)
