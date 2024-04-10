@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-10-1826 (eb3b3c1)
 * Minor generic zombie balance edits 4 (#72748)
 * [MoM] Account for painkiller in pain disabling powers (#72939)
 
@@ -119,8 +121,6 @@ Cataclysm-DDA experimental build 2024-04-04-1408 (e9f4fbd)
 
 Cataclysm-DDA experimental build 2024-04-04-0825 (15b95a2)
 * fix and cleanup few itemgroups (#72821)
-
-Cataclysm-DDA experimental build 2024-04-04-0557 (55f012c)
 * "gathering sights" should be "gathering sites" (#72757)
 * reword the guilt messages (#72802)
 * uncooked toaster pastries aren't gross (#72823)
