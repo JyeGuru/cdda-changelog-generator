@@ -1,3 +1,4 @@
+* Categorize colander as tool (#72933)
 
 Cataclysm-DDA experimental build 2024-04-10-0131 (fd489a0)
 * A bunch of random item reworks: 12 (#72931)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2024-04-03-2239 (1143055)
 * NPCs can develop vitamin diseases (#72728)
 * Restore drops to real spawned monsters that are meant to have them (#72732)
 * Monster faction shenanigans (#72722)
-* LIXA: congealed light nerf (#72714)
 * Allow migrating from deleted variants (#72717)
 * EOC temp monsters don't drop items or corpses by default (#72718)
 * Appease clang-tidy (#72719)
