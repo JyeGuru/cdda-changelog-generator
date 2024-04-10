@@ -1,3 +1,4 @@
+* debug_mon -> pseudo_debug_mon (#72945)
 
 Cataclysm-DDA experimental build 2024-04-10-0516 (3285099)
 * [MoM] Photokinetic gets it's welding glare protection (#72935)
@@ -113,7 +114,6 @@ Cataclysm-DDA experimental build 2024-04-04-1408 (e9f4fbd)
 
 Cataclysm-DDA experimental build 2024-04-04-0825 (15b95a2)
 * fix and cleanup few itemgroups (#72821)
-* Lore: update UPS description (#72723)
 * Get roofs generated for basecamps (#72724)
 
 Cataclysm-DDA experimental build 2024-04-04-0557 (55f012c)

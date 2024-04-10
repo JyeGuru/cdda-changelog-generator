@@ -1,3 +1,4 @@
+* debug_mon -> pseudo_debug_mon ([#72945](https://github.com/CleverRaven/Cataclysm-DDA/pull/72945))
 
 ---
 
@@ -188,7 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-04-04-0825 ([15b95a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-0825))
 
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
-* Lore: update UPS description ([#72723](https://github.com/CleverRaven/Cataclysm-DDA/pull/72723))
 * Get roofs generated for basecamps ([#72724](https://github.com/CleverRaven/Cataclysm-DDA/pull/72724))
 
 ---
