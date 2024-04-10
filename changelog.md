@@ -1,3 +1,4 @@
+* Minor generic zombie balance edits 4 ([#72748](https://github.com/CleverRaven/Cataclysm-DDA/pull/72748))
 * [MoM] Account for painkiller in pain disabling powers ([#72939](https://github.com/CleverRaven/Cataclysm-DDA/pull/72939))
 
 ---
@@ -224,5 +225,4 @@
 * [MoM] High levels of weariness (or brainworms) turn off your powers ([#72773](https://github.com/CleverRaven/Cataclysm-DDA/pull/72773))
 * Adds ASCII art to S&W 619 ([#72730](https://github.com/CleverRaven/Cataclysm-DDA/pull/72730))
 * Achievements Additions ([#72731](https://github.com/CleverRaven/Cataclysm-DDA/pull/72731))
-* NPCs can develop vitamin diseases ([#72728](https://github.com/CleverRaven/Cataclysm-DDA/pull/72728))
 * Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
