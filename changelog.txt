@@ -1,3 +1,7 @@
+* Cleanup unused stuff in mapgen_functions.cpp (#72954)
+
+Cataclysm-DDA experimental build 2024-04-11-0055 (e46636b)
+* Enable ImGui UI globally, remove legacy popup and keybindings UI (#72937)
 
 Cataclysm-DDA experimental build 2024-04-10-1826 (eb3b3c1)
 * Minor generic zombie balance edits 4 (#72748)
@@ -118,8 +122,6 @@ Cataclysm-DDA experimental build 2024-04-04-2115 (1b3186f)
 
 Cataclysm-DDA experimental build 2024-04-04-1408 (e9f4fbd)
 * Remove extern ter ids (#72766)
-
-Cataclysm-DDA experimental build 2024-04-04-0825 (15b95a2)
 * fix and cleanup few itemgroups (#72821)
 * "gathering sights" should be "gathering sites" (#72757)
 * reword the guilt messages (#72802)
@@ -142,6 +144,5 @@ Cataclysm-DDA experimental build 2024-04-04-0825 (15b95a2)
 * More specific messages for being unable to use supernatural powers (#72741)
 * Routine tileset updates on 01 April 2024 (#72755)
 * [MoM] High levels of weariness (or brainworms) turn off your powers (#72773)
-* Adds ASCII art to S&W 619 (#72730)
 * Achievements Additions (#72731)
 * Restore drops to real spawned monsters that are meant to have them (#72732)
