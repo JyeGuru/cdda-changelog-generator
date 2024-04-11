@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-11-0340 ([a573b71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-11-0340))
+
 * Cleanup unused stuff in mapgen_functions.cpp ([#72954](https://github.com/CleverRaven/Cataclysm-DDA/pull/72954))
 
 ---
@@ -197,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2024-04-04-2115 ([1b3186f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-2115))
 
 * [Magiclysm] Tune evocation spells with scale modifier ([#72740](https://github.com/CleverRaven/Cataclysm-DDA/pull/72740))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-04-1408 ([e9f4fbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-1408))
-
 * Remove extern ter ids ([#72766](https://github.com/CleverRaven/Cataclysm-DDA/pull/72766))
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
 * "gathering sights" should be "gathering sites" ([#72757](https://github.com/CleverRaven/Cataclysm-DDA/pull/72757))
