@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-11-1603 (9819962)
+* [Bombastic Perks] Add more perks (#72940)
+
 Cataclysm-DDA experimental build 2024-04-11-0340 (a573b71)
 * Cleanup unused stuff in mapgen_functions.cpp (#72954)
 
@@ -118,8 +121,6 @@ Cataclysm-DDA experimental build 2024-04-04-2351 (373238f)
 * [MoM] Add luminance to Eaters (#72830)
 * Fixing screen artifacts seen when ImGui keybindings UI is closed (#72833)
 * Kord in another castle, 5.45 can't be exchanged (#72813)
-
-Cataclysm-DDA experimental build 2024-04-04-2115 (1b3186f)
 * [Magiclysm] Tune evocation spells with scale modifier (#72740)
 * Remove extern ter ids (#72766)
 * fix and cleanup few itemgroups (#72821)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2024-04-04-2115 (1b3186f)
 * More specific messages for being unable to use supernatural powers (#72741)
 * Routine tileset updates on 01 April 2024 (#72755)
 * [MoM] High levels of weariness (or brainworms) turn off your powers (#72773)
-* Achievements Additions (#72731)
 * Restore drops to real spawned monsters that are meant to have them (#72732)
