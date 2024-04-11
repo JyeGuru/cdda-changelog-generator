@@ -55,7 +55,6 @@
 * Update JSON_INFO.md ([#72752](https://github.com/CleverRaven/Cataclysm-DDA/pull/72752))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
 * [DinoMod] Iguanodon ([#72735](https://github.com/CleverRaven/Cataclysm-DDA/pull/72735))
-* Enforce mon_ prefix for monster id ([#72734](https://github.com/CleverRaven/Cataclysm-DDA/pull/72734))
 * Extract field bash and effect apply text ([#72745](https://github.com/CleverRaven/Cataclysm-DDA/pull/72745))
 * Remove extern furn ids ([#72834](https://github.com/CleverRaven/Cataclysm-DDA/pull/72834))
 * Fixed out of bounds transparency cache access ([#72850](https://github.com/CleverRaven/Cataclysm-DDA/pull/72850))
