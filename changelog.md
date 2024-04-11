@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-11-2208 ([0bcda8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-11-2208))
+
+* Pain is less painful ([#72955](https://github.com/CleverRaven/Cataclysm-DDA/pull/72955))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-11-1603 ([9819962](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-11-1603))
 
 * [Bombastic Perks] Add more perks ([#72940](https://github.com/CleverRaven/Cataclysm-DDA/pull/72940))
@@ -192,11 +198,6 @@
 * Fixed removal of tree tops over faction camp logged trees ([#72835](https://github.com/CleverRaven/Cataclysm-DDA/pull/72835))
 * Add DPavonis as valid comment commander ([#72838](https://github.com/CleverRaven/Cataclysm-DDA/pull/72838))
 * Revert "ci: avoid leftover changelog update branches" ([#72836](https://github.com/CleverRaven/Cataclysm-DDA/pull/72836))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-04-2351 ([373238f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-04-2351))
-
 * Fixing ImGUi keybindings screen processing keys pressed before it was shown ([#72800](https://github.com/CleverRaven/Cataclysm-DDA/pull/72800))
 * Fix snippet ([#72744](https://github.com/CleverRaven/Cataclysm-DDA/pull/72744))
 * [MoM] Add luminance to Eaters ([#72830](https://github.com/CleverRaven/Cataclysm-DDA/pull/72830))
@@ -226,4 +227,3 @@
 * More specific messages for being unable to use supernatural powers ([#72741](https://github.com/CleverRaven/Cataclysm-DDA/pull/72741))
 * Routine tileset updates on 01 April 2024 ([#72755](https://github.com/CleverRaven/Cataclysm-DDA/pull/72755))
 * [MoM] High levels of weariness (or brainworms) turn off your powers ([#72773](https://github.com/CleverRaven/Cataclysm-DDA/pull/72773))
-* Restore drops to real spawned monsters that are meant to have them ([#72732](https://github.com/CleverRaven/Cataclysm-DDA/pull/72732))
