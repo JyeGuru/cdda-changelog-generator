@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-12-2052 ([36578d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-12-2052))
+
+* Shoggoths can't eat anomalous material ([#72957](https://github.com/CleverRaven/Cataclysm-DDA/pull/72957))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-11-2208 ([0bcda8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-11-2208))
 
 * Pain is less painful ([#72955](https://github.com/CleverRaven/Cataclysm-DDA/pull/72955))
@@ -207,7 +213,6 @@
 * "gathering sights" should be "gathering sites" ([#72757](https://github.com/CleverRaven/Cataclysm-DDA/pull/72757))
 * reword the guilt messages ([#72802](https://github.com/CleverRaven/Cataclysm-DDA/pull/72802))
 * uncooked toaster pastries aren't gross ([#72823](https://github.com/CleverRaven/Cataclysm-DDA/pull/72823))
-* [MoM] Can't think, head hurts too much ([#72737](https://github.com/CleverRaven/Cataclysm-DDA/pull/72737))
 * Throw error if recipe definition is missing any valid combinations ([#72801](https://github.com/CleverRaven/Cataclysm-DDA/pull/72801))
 * LIXA: update laser pipe breaking description ([#72760](https://github.com/CleverRaven/Cataclysm-DDA/pull/72760))
 * Fix food fun reduction test not actually having any reduction ([#72783](https://github.com/CleverRaven/Cataclysm-DDA/pull/72783))
