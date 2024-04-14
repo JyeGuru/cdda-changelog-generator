@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-14-0749 ([954bacc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-0749))
+
+* Obsolete radiation zombies ([#72978](https://github.com/CleverRaven/Cataclysm-DDA/pull/72978))
 * Fixed collapse_check logic ([#72962](https://github.com/CleverRaven/Cataclysm-DDA/pull/72962))
 * Propagate `IMGUI_DISABLE_OBSOLETE_KEYIO` definition to dependent targets ([#72999](https://github.com/CleverRaven/Cataclysm-DDA/pull/72999))
 
@@ -74,7 +80,6 @@
 * A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Update JSON_INFO.md ([#72752](https://github.com/CleverRaven/Cataclysm-DDA/pull/72752))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
-* Extract field bash and effect apply text ([#72745](https://github.com/CleverRaven/Cataclysm-DDA/pull/72745))
 * Remove extern furn ids ([#72834](https://github.com/CleverRaven/Cataclysm-DDA/pull/72834))
 * Fixed out of bounds transparency cache access ([#72850](https://github.com/CleverRaven/Cataclysm-DDA/pull/72850))
 * Fix companions ceasing activities when PC enter Z level ([#72883](https://github.com/CleverRaven/Cataclysm-DDA/pull/72883))
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-04-06-0205 ([6b911a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-06-0205))
 
 * Change makeshift crowbar category back to tools ([#72843](https://github.com/CleverRaven/Cataclysm-DDA/pull/72843))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-05-2105 ([3eb062c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-05-2105))
-
 * Kord fixes ([#72848](https://github.com/CleverRaven/Cataclysm-DDA/pull/72848))
 * Fix zlib old-style-cast build breakage ([#72768](https://github.com/CleverRaven/Cataclysm-DDA/pull/72768))
 * [MoM] stop using premonition if you don't have premonition ([#72816](https://github.com/CleverRaven/Cataclysm-DDA/pull/72816))
@@ -207,7 +207,6 @@
 * Add DPavonis as valid comment commander ([#72838](https://github.com/CleverRaven/Cataclysm-DDA/pull/72838))
 * Revert "ci: avoid leftover changelog update branches" ([#72836](https://github.com/CleverRaven/Cataclysm-DDA/pull/72836))
 * Fixing ImGUi keybindings screen processing keys pressed before it was shown ([#72800](https://github.com/CleverRaven/Cataclysm-DDA/pull/72800))
-* Fix snippet ([#72744](https://github.com/CleverRaven/Cataclysm-DDA/pull/72744))
 * [MoM] Add luminance to Eaters ([#72830](https://github.com/CleverRaven/Cataclysm-DDA/pull/72830))
 * Fixing screen artifacts seen when ImGui keybindings UI is closed ([#72833](https://github.com/CleverRaven/Cataclysm-DDA/pull/72833))
 * Kord in another castle, 5.45 can't be exchanged ([#72813](https://github.com/CleverRaven/Cataclysm-DDA/pull/72813))
