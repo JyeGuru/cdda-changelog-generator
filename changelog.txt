@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-14-1503 (4a328a6)
+* Remove unused/already jsonized hardcoded monster attacks (#73004)
+
 Cataclysm-DDA experimental build 2024-04-14-0749 (954bacc)
 * Obsolete radiation zombies (#72978)
 * Fixed collapse_check logic (#72962)
@@ -24,9 +27,6 @@ Cataclysm-DDA experimental build 2024-04-11-0340 (a573b71)
 
 Cataclysm-DDA experimental build 2024-04-11-0055 (e46636b)
 * Enable ImGui UI globally, remove legacy popup and keybindings UI (#72937)
-
-Cataclysm-DDA experimental build 2024-04-10-1826 (eb3b3c1)
-* Minor generic zombie balance edits 4 (#72748)
 * [MoM] Account for painkiller in pain disabling powers (#72939)
 
 Cataclysm-DDA experimental build 2024-04-10-1546 (5c567ac)
@@ -113,8 +113,6 @@ Cataclysm-DDA experimental build 2024-04-06-0436 (28aa11c)
 * [MoM] Add Noisemaker telekinetic power (#72856)
 * Routine i18n updates on 06 April 2024 (#72859)
 * remove rapid from national guard bayonet (#72847)
-
-Cataclysm-DDA experimental build 2024-04-06-0205 (6b911a3)
 * Change makeshift crowbar category back to tools (#72843)
 * Kord fixes (#72848)
 * Fix zlib old-style-cast build breakage (#72768)

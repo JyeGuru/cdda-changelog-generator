@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-14-1503 ([4a328a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-1503))
+
+* Remove unused/already jsonized hardcoded monster attacks ([#73004](https://github.com/CleverRaven/Cataclysm-DDA/pull/73004))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-14-0749 ([954bacc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-0749))
 
 * Obsolete radiation zombies ([#72978](https://github.com/CleverRaven/Cataclysm-DDA/pull/72978))
@@ -48,12 +54,6 @@
 #### Cataclysm-DDA experimental build 2024-04-11-0055 ([e46636b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-11-0055))
 
 * Enable ImGui UI globally, remove legacy popup and keybindings UI ([#72937](https://github.com/CleverRaven/Cataclysm-DDA/pull/72937))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-10-1826 ([eb3b3c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-10-1826))
-
-* Minor generic zombie balance edits 4 ([#72748](https://github.com/CleverRaven/Cataclysm-DDA/pull/72748))
 * [MoM] Account for painkiller in pain disabling powers ([#72939](https://github.com/CleverRaven/Cataclysm-DDA/pull/72939))
 
 ---
@@ -194,11 +194,6 @@
 * [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
 * Routine i18n updates on 06 April 2024 ([#72859](https://github.com/CleverRaven/Cataclysm-DDA/pull/72859))
 * remove rapid from national guard bayonet ([#72847](https://github.com/CleverRaven/Cataclysm-DDA/pull/72847))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-06-0205 ([6b911a3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-06-0205))
-
 * Change makeshift crowbar category back to tools ([#72843](https://github.com/CleverRaven/Cataclysm-DDA/pull/72843))
 * Kord fixes ([#72848](https://github.com/CleverRaven/Cataclysm-DDA/pull/72848))
 * Fix zlib old-style-cast build breakage ([#72768](https://github.com/CleverRaven/Cataclysm-DDA/pull/72768))
