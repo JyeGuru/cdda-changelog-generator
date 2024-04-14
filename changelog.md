@@ -1,6 +1,21 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-14-2000 ([2716469](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-2000))
+
+* Basic JSON ter/furn migration ([#72771](https://github.com/CleverRaven/Cataclysm-DDA/pull/72771))
+* Don't crash when forest mapgen requests groundcover from a biome with no groundcover ([#72918](https://github.com/CleverRaven/Cataclysm-DDA/pull/72918))
+* Fixed issue where ImGui windows display wrong when window is scaled ([#72971](https://github.com/CleverRaven/Cataclysm-DDA/pull/72971))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-14-1735 ([bafd955](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-1735))
+
+* Fix attack speed test failures ([#72997](https://github.com/CleverRaven/Cataclysm-DDA/pull/72997))
+* make integrated_photo_eyes SEMITANGIBLE ([#72998](https://github.com/CleverRaven/Cataclysm-DDA/pull/72998))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-14-1503 ([4a328a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-1503))
 
 * Remove unused/already jsonized hardcoded monster attacks ([#73004](https://github.com/CleverRaven/Cataclysm-DDA/pull/73004))
@@ -78,7 +93,6 @@
 #### Cataclysm-DDA experimental build 2024-04-10-0131 ([fd489a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-10-0131))
 
 * A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
-* Update JSON_INFO.md ([#72752](https://github.com/CleverRaven/Cataclysm-DDA/pull/72752))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
 * Remove extern furn ids ([#72834](https://github.com/CleverRaven/Cataclysm-DDA/pull/72834))
 * Fixed out of bounds transparency cache access ([#72850](https://github.com/CleverRaven/Cataclysm-DDA/pull/72850))
@@ -98,7 +112,6 @@
 
 * Fix health dreams when you are ill ([#72881](https://github.com/CleverRaven/Cataclysm-DDA/pull/72881))
 * Use 'soldering_standard' for electronic fixes ([#72895](https://github.com/CleverRaven/Cataclysm-DDA/pull/72895))
-* [MoM] Power maintenance message change ([#72753](https://github.com/CleverRaven/Cataclysm-DDA/pull/72753))
 * Disallow some guns from turrets based on action ([#72789](https://github.com/CleverRaven/Cataclysm-DDA/pull/72789))
 
 ---
@@ -180,17 +193,7 @@
 #### Cataclysm-DDA experimental build 2024-04-07-0018 ([84dae0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-0018))
 
 * Throw debugmsg when setting charges for items that cannot have charges ([#72780](https://github.com/CleverRaven/Cataclysm-DDA/pull/72780))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-06-1056 ([7fece1f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-06-1056))
-
 * remove obsoleted supressors ([#72791](https://github.com/CleverRaven/Cataclysm-DDA/pull/72791))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-06-0436 ([28aa11c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-06-0436))
-
 * [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
 * Routine i18n updates on 06 April 2024 ([#72859](https://github.com/CleverRaven/Cataclysm-DDA/pull/72859))
 * remove rapid from national guard bayonet ([#72847](https://github.com/CleverRaven/Cataclysm-DDA/pull/72847))
@@ -207,13 +210,11 @@
 * Kord in another castle, 5.45 can't be exchanged ([#72813](https://github.com/CleverRaven/Cataclysm-DDA/pull/72813))
 * Remove extern ter ids ([#72766](https://github.com/CleverRaven/Cataclysm-DDA/pull/72766))
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
-* "gathering sights" should be "gathering sites" ([#72757](https://github.com/CleverRaven/Cataclysm-DDA/pull/72757))
 * reword the guilt messages ([#72802](https://github.com/CleverRaven/Cataclysm-DDA/pull/72802))
 * uncooked toaster pastries aren't gross ([#72823](https://github.com/CleverRaven/Cataclysm-DDA/pull/72823))
 * Throw error if recipe definition is missing any valid combinations ([#72801](https://github.com/CleverRaven/Cataclysm-DDA/pull/72801))
 * LIXA: update laser pipe breaking description ([#72760](https://github.com/CleverRaven/Cataclysm-DDA/pull/72760))
 * Fix food fun reduction test not actually having any reduction ([#72783](https://github.com/CleverRaven/Cataclysm-DDA/pull/72783))
-* NPCs taking canned food donations no longer remove the food from the can ([#72759](https://github.com/CleverRaven/Cataclysm-DDA/pull/72759))
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
 * AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
 * Aftershock: Add an ATM to Port Augustmoon ([#72810](https://github.com/CleverRaven/Cataclysm-DDA/pull/72810))
@@ -223,5 +224,4 @@
 * Fixing ImGui popup size issue, and small input bug ([#72797](https://github.com/CleverRaven/Cataclysm-DDA/pull/72797))
 * Random bit of wander code isn't unbiased ([#72793](https://github.com/CleverRaven/Cataclysm-DDA/pull/72793))
 * [Xedra Evolved] New Arvore spell--Verdant Imprisonment ([#72784](https://github.com/CleverRaven/Cataclysm-DDA/pull/72784))
-* Routine tileset updates on 01 April 2024 ([#72755](https://github.com/CleverRaven/Cataclysm-DDA/pull/72755))
 * [MoM] High levels of weariness (or brainworms) turn off your powers ([#72773](https://github.com/CleverRaven/Cataclysm-DDA/pull/72773))
