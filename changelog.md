@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-14-0218 ([4f4e137](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-0218))
+
+* Remove city_center, simplify mx_fungal_zone ([#73001](https://github.com/CleverRaven/Cataclysm-DDA/pull/73001))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-12-2052 ([36578d7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-12-2052))
 
 * Shoggoths can't eat anomalous material ([#72957](https://github.com/CleverRaven/Cataclysm-DDA/pull/72957))
@@ -193,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-04-05-1254 ([d64e52d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-05-1254))
 
 * Fix zlib old-style-cast build breakage ([#72768](https://github.com/CleverRaven/Cataclysm-DDA/pull/72768))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-05-0445 ([88620b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-05-0445))
-
 * [MoM] stop using premonition if you don't have premonition ([#72816](https://github.com/CleverRaven/Cataclysm-DDA/pull/72816))
 * Fixed removal of tree tops over faction camp logged trees ([#72835](https://github.com/CleverRaven/Cataclysm-DDA/pull/72835))
 * Add DPavonis as valid comment commander ([#72838](https://github.com/CleverRaven/Cataclysm-DDA/pull/72838))
@@ -216,7 +217,6 @@
 * Throw error if recipe definition is missing any valid combinations ([#72801](https://github.com/CleverRaven/Cataclysm-DDA/pull/72801))
 * LIXA: update laser pipe breaking description ([#72760](https://github.com/CleverRaven/Cataclysm-DDA/pull/72760))
 * Fix food fun reduction test not actually having any reduction ([#72783](https://github.com/CleverRaven/Cataclysm-DDA/pull/72783))
-* Rename cover ---> concealment ([#72739](https://github.com/CleverRaven/Cataclysm-DDA/pull/72739))
 * NPCs taking canned food donations no longer remove the food from the can ([#72759](https://github.com/CleverRaven/Cataclysm-DDA/pull/72759))
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
 * AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
