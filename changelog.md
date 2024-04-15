@@ -1,9 +1,17 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-04-14-2000 ([2716469](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-2000))
+#### Cataclysm-DDA experimental build 2024-04-15-0327 ([ef202a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-15-0327))
 
-* Basic JSON ter/furn migration ([#72771](https://github.com/CleverRaven/Cataclysm-DDA/pull/72771))
+* Remove some nonsensical items from school chemistry labs ([#73026](https://github.com/CleverRaven/Cataclysm-DDA/pull/73026))
+* Fixed an oopsie where keybindings UI doesn't process the + key ([#72985](https://github.com/CleverRaven/Cataclysm-DDA/pull/72985))
+* Unhardcode dead vegetation extras ([#73022](https://github.com/CleverRaven/Cataclysm-DDA/pull/73022))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-15-0051 ([065774f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-15-0051))
+
+* Fixed issue where ImGui popup does not correctly set the default option ([#72983](https://github.com/CleverRaven/Cataclysm-DDA/pull/72983))
 * Don't crash when forest mapgen requests groundcover from a biome with no groundcover ([#72918](https://github.com/CleverRaven/Cataclysm-DDA/pull/72918))
 * Fixed issue where ImGui windows display wrong when window is scaled ([#72971](https://github.com/CleverRaven/Cataclysm-DDA/pull/72971))
 
@@ -181,17 +189,7 @@
 
 * [MoM] Remove extended channeling recipe after learning, add Thought-Form Construction practice recipe ([#72776](https://github.com/CleverRaven/Cataclysm-DDA/pull/72776))
 * Automatically learn proficiencies on load if XP is greater than required ([#72861](https://github.com/CleverRaven/Cataclysm-DDA/pull/72861))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-07-0406 ([73f46a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-0406))
-
 * Fix missing translation in NPC trade denial reason ([#72863](https://github.com/CleverRaven/Cataclysm-DDA/pull/72863))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-07-0018 ([84dae0b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-0018))
-
 * Throw debugmsg when setting charges for items that cannot have charges ([#72780](https://github.com/CleverRaven/Cataclysm-DDA/pull/72780))
 * remove obsoleted supressors ([#72791](https://github.com/CleverRaven/Cataclysm-DDA/pull/72791))
 * [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
@@ -199,7 +197,6 @@
 * remove rapid from national guard bayonet ([#72847](https://github.com/CleverRaven/Cataclysm-DDA/pull/72847))
 * Change makeshift crowbar category back to tools ([#72843](https://github.com/CleverRaven/Cataclysm-DDA/pull/72843))
 * Kord fixes ([#72848](https://github.com/CleverRaven/Cataclysm-DDA/pull/72848))
-* Fix zlib old-style-cast build breakage ([#72768](https://github.com/CleverRaven/Cataclysm-DDA/pull/72768))
 * [MoM] stop using premonition if you don't have premonition ([#72816](https://github.com/CleverRaven/Cataclysm-DDA/pull/72816))
 * Fixed removal of tree tops over faction camp logged trees ([#72835](https://github.com/CleverRaven/Cataclysm-DDA/pull/72835))
 * Add DPavonis as valid comment commander ([#72838](https://github.com/CleverRaven/Cataclysm-DDA/pull/72838))
@@ -208,12 +205,10 @@
 * [MoM] Add luminance to Eaters ([#72830](https://github.com/CleverRaven/Cataclysm-DDA/pull/72830))
 * Fixing screen artifacts seen when ImGui keybindings UI is closed ([#72833](https://github.com/CleverRaven/Cataclysm-DDA/pull/72833))
 * Kord in another castle, 5.45 can't be exchanged ([#72813](https://github.com/CleverRaven/Cataclysm-DDA/pull/72813))
-* Remove extern ter ids ([#72766](https://github.com/CleverRaven/Cataclysm-DDA/pull/72766))
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
 * reword the guilt messages ([#72802](https://github.com/CleverRaven/Cataclysm-DDA/pull/72802))
 * uncooked toaster pastries aren't gross ([#72823](https://github.com/CleverRaven/Cataclysm-DDA/pull/72823))
 * Throw error if recipe definition is missing any valid combinations ([#72801](https://github.com/CleverRaven/Cataclysm-DDA/pull/72801))
-* LIXA: update laser pipe breaking description ([#72760](https://github.com/CleverRaven/Cataclysm-DDA/pull/72760))
 * Fix food fun reduction test not actually having any reduction ([#72783](https://github.com/CleverRaven/Cataclysm-DDA/pull/72783))
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
 * AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
