@@ -190,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-04-08-0040 ([a186121](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-0040))
 
 * comprehensive deprecation warning updates ([#72893](https://github.com/CleverRaven/Cataclysm-DDA/pull/72893))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-07-2111 ([076bf6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-2111))
-
 * Add dodge chance enchantment  ([#72855](https://github.com/CleverRaven/Cataclysm-DDA/pull/72855))
 * [MoM] Feral telekinetics can't throw you with telekinesis if you have Inertial Barrier up and vice versa ([#72874](https://github.com/CleverRaven/Cataclysm-DDA/pull/72874))
 * Bypass prereq category check for overlapping mod content ([#72879](https://github.com/CleverRaven/Cataclysm-DDA/pull/72879))
