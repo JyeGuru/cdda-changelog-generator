@@ -215,6 +215,7 @@
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
 * reword the guilt messages ([#72802](https://github.com/CleverRaven/Cataclysm-DDA/pull/72802))
 * uncooked toaster pastries aren't gross ([#72823](https://github.com/CleverRaven/Cataclysm-DDA/pull/72823))
+* Throw error if recipe definition is missing any valid combinations ([#72801](https://github.com/CleverRaven/Cataclysm-DDA/pull/72801))
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
 * AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
 * Aftershock: Add an ATM to Port Augustmoon ([#72810](https://github.com/CleverRaven/Cataclysm-DDA/pull/72810))
