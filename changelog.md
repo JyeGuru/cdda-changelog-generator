@@ -1,3 +1,7 @@
+* [Magiclysm] Update conjuration spells with scaling modifier ([#72967](https://github.com/CleverRaven/Cataclysm-DDA/pull/72967))
+* Worm Spawn Map Extra ([#72975](https://github.com/CleverRaven/Cataclysm-DDA/pull/72975))
+* Minor generic zombie balance edits 5 ([#72979](https://github.com/CleverRaven/Cataclysm-DDA/pull/72979))
+* Routine i18n updates on 13 April 2024 ([#72990](https://github.com/CleverRaven/Cataclysm-DDA/pull/72990))
 
 ---
 
@@ -140,7 +144,6 @@
 
 * Fix health dreams when you are ill ([#72881](https://github.com/CleverRaven/Cataclysm-DDA/pull/72881))
 * Use 'soldering_standard' for electronic fixes ([#72895](https://github.com/CleverRaven/Cataclysm-DDA/pull/72895))
-* Disallow some guns from turrets based on action ([#72789](https://github.com/CleverRaven/Cataclysm-DDA/pull/72789))
 
 ---
 
@@ -194,7 +197,6 @@
 * Bypass prereq category check for overlapping mod content ([#72879](https://github.com/CleverRaven/Cataclysm-DDA/pull/72879))
 * Automatically learn proficiencies on load if XP is greater than required ([#72861](https://github.com/CleverRaven/Cataclysm-DDA/pull/72861))
 * Fix missing translation in NPC trade denial reason ([#72863](https://github.com/CleverRaven/Cataclysm-DDA/pull/72863))
-* remove obsoleted supressors ([#72791](https://github.com/CleverRaven/Cataclysm-DDA/pull/72791))
 * [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
 * Routine i18n updates on 06 April 2024 ([#72859](https://github.com/CleverRaven/Cataclysm-DDA/pull/72859))
 * remove rapid from national guard bayonet ([#72847](https://github.com/CleverRaven/Cataclysm-DDA/pull/72847))
@@ -212,11 +214,9 @@
 * reword the guilt messages ([#72802](https://github.com/CleverRaven/Cataclysm-DDA/pull/72802))
 * uncooked toaster pastries aren't gross ([#72823](https://github.com/CleverRaven/Cataclysm-DDA/pull/72823))
 * Throw error if recipe definition is missing any valid combinations ([#72801](https://github.com/CleverRaven/Cataclysm-DDA/pull/72801))
-* Fix food fun reduction test not actually having any reduction ([#72783](https://github.com/CleverRaven/Cataclysm-DDA/pull/72783))
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
 * AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
 * Aftershock: Add an ATM to Port Augustmoon ([#72810](https://github.com/CleverRaven/Cataclysm-DDA/pull/72810))
 * Forest biome terrain oter_id -> oter_type_id ([#72812](https://github.com/CleverRaven/Cataclysm-DDA/pull/72812))
 * Fixing ImGui popup size issue, and small input bug ([#72797](https://github.com/CleverRaven/Cataclysm-DDA/pull/72797))
 * Random bit of wander code isn't unbiased ([#72793](https://github.com/CleverRaven/Cataclysm-DDA/pull/72793))
-* [Xedra Evolved] New Arvore spell--Verdant Imprisonment ([#72784](https://github.com/CleverRaven/Cataclysm-DDA/pull/72784))
