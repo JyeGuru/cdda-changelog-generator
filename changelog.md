@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-16-0453 ([64f6f5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-0453))
+
 * [Bombastic Perks] Add Stormwrought line of playstyle perks ([#72963](https://github.com/CleverRaven/Cataclysm-DDA/pull/72963))
 * [Xedra Evolved] More paraclesian powers ([#73009](https://github.com/CleverRaven/Cataclysm-DDA/pull/73009))
 * Fix segfault-causing error in _characters_nearby ([#73041](https://github.com/CleverRaven/Cataclysm-DDA/pull/73041))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-04-07-2111 ([076bf6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-2111))
 
 * Add dodge chance enchantment  ([#72855](https://github.com/CleverRaven/Cataclysm-DDA/pull/72855))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-07-1726 ([ef0aebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-1726))
-
 * [MoM] Feral telekinetics can't throw you with telekinesis if you have Inertial Barrier up and vice versa ([#72874](https://github.com/CleverRaven/Cataclysm-DDA/pull/72874))
 * Bypass prereq category check for overlapping mod content ([#72879](https://github.com/CleverRaven/Cataclysm-DDA/pull/72879))
 * Automatically learn proficiencies on load if XP is greater than required ([#72861](https://github.com/CleverRaven/Cataclysm-DDA/pull/72861))
