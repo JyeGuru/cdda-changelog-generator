@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-16-1009 ([73b6cf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-1009))
+
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
 * city_sizes restriction for city buildings ([#72815](https://github.com/CleverRaven/Cataclysm-DDA/pull/72815))
 * Unified logging and made it tree top aware ([#72845](https://github.com/CleverRaven/Cataclysm-DDA/pull/72845))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-04-08-0442 ([f557194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-0442))
 
 * Fix negative rest quality ([#72892](https://github.com/CleverRaven/Cataclysm-DDA/pull/72892))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-08-0040 ([a186121](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-0040))
-
 * comprehensive deprecation warning updates ([#72893](https://github.com/CleverRaven/Cataclysm-DDA/pull/72893))
 * Add dodge chance enchantment  ([#72855](https://github.com/CleverRaven/Cataclysm-DDA/pull/72855))
 * [MoM] Feral telekinetics can't throw you with telekinesis if you have Inertial Barrier up and vice versa ([#72874](https://github.com/CleverRaven/Cataclysm-DDA/pull/72874))
