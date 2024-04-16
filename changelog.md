@@ -1,3 +1,11 @@
+* [Xedra Evolved] More paraclesian powers ([#73009](https://github.com/CleverRaven/Cataclysm-DDA/pull/73009))
+* Fix segfault-causing error in _characters_nearby ([#73041](https://github.com/CleverRaven/Cataclysm-DDA/pull/73041))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-16-0221 ([d9e550e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-0221))
+
+* extend clothes for lumberjack NPCs ([#73032](https://github.com/CleverRaven/Cataclysm-DDA/pull/73032))
 
 ---
 
@@ -182,16 +190,9 @@
 #### Cataclysm-DDA experimental build 2024-04-07-1726 ([ef0aebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-1726))
 
 * [MoM] Feral telekinetics can't throw you with telekinesis if you have Inertial Barrier up and vice versa ([#72874](https://github.com/CleverRaven/Cataclysm-DDA/pull/72874))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-07-1431 ([70ef397](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-07-1431))
-
 * Bypass prereq category check for overlapping mod content ([#72879](https://github.com/CleverRaven/Cataclysm-DDA/pull/72879))
-* [MoM] Remove extended channeling recipe after learning, add Thought-Form Construction practice recipe ([#72776](https://github.com/CleverRaven/Cataclysm-DDA/pull/72776))
 * Automatically learn proficiencies on load if XP is greater than required ([#72861](https://github.com/CleverRaven/Cataclysm-DDA/pull/72861))
 * Fix missing translation in NPC trade denial reason ([#72863](https://github.com/CleverRaven/Cataclysm-DDA/pull/72863))
-* Throw debugmsg when setting charges for items that cannot have charges ([#72780](https://github.com/CleverRaven/Cataclysm-DDA/pull/72780))
 * remove obsoleted supressors ([#72791](https://github.com/CleverRaven/Cataclysm-DDA/pull/72791))
 * [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
 * Routine i18n updates on 06 April 2024 ([#72859](https://github.com/CleverRaven/Cataclysm-DDA/pull/72859))
@@ -214,7 +215,6 @@
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
 * AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
 * Aftershock: Add an ATM to Port Augustmoon ([#72810](https://github.com/CleverRaven/Cataclysm-DDA/pull/72810))
-* Set rot when all components are rotten ([#72777](https://github.com/CleverRaven/Cataclysm-DDA/pull/72777))
 * fix: update create PR action v4 -> v6 ([#72782](https://github.com/CleverRaven/Cataclysm-DDA/pull/72782))
 * Forest biome terrain oter_id -> oter_type_id ([#72812](https://github.com/CleverRaven/Cataclysm-DDA/pull/72812))
 * Fixing ImGui popup size issue, and small input bug ([#72797](https://github.com/CleverRaven/Cataclysm-DDA/pull/72797))
