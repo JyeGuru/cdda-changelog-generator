@@ -1,3 +1,4 @@
+* [Bombastic Perks] Add Stormwrought line of playstyle perks ([#72963](https://github.com/CleverRaven/Cataclysm-DDA/pull/72963))
 * [Xedra Evolved] More paraclesian powers ([#73009](https://github.com/CleverRaven/Cataclysm-DDA/pull/73009))
 * Fix segfault-causing error in _characters_nearby ([#73041](https://github.com/CleverRaven/Cataclysm-DDA/pull/73041))
 
@@ -215,7 +216,6 @@
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
 * AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
 * Aftershock: Add an ATM to Port Augustmoon ([#72810](https://github.com/CleverRaven/Cataclysm-DDA/pull/72810))
-* fix: update create PR action v4 -> v6 ([#72782](https://github.com/CleverRaven/Cataclysm-DDA/pull/72782))
 * Forest biome terrain oter_id -> oter_type_id ([#72812](https://github.com/CleverRaven/Cataclysm-DDA/pull/72812))
 * Fixing ImGui popup size issue, and small input bug ([#72797](https://github.com/CleverRaven/Cataclysm-DDA/pull/72797))
 * Random bit of wander code isn't unbiased ([#72793](https://github.com/CleverRaven/Cataclysm-DDA/pull/72793))
