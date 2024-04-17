@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-17-0140 ([0853a71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-17-0140))
+
+* Pigeon reproduction + Foundations for future bird audit ([#73057](https://github.com/CleverRaven/Cataclysm-DDA/pull/73057))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-16-1009 ([73b6cf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-1009))
 
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
@@ -184,11 +190,6 @@
 * [MoM] Utilise test_eoc functionality to reduce duplicate conditions ([#72875](https://github.com/CleverRaven/Cataclysm-DDA/pull/72875))
 * By default, EOCs train proficiencies normally ([#72862](https://github.com/CleverRaven/Cataclysm-DDA/pull/72862))
 * [MoM] Oubliette works on NPCs now ([#72876](https://github.com/CleverRaven/Cataclysm-DDA/pull/72876))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-08-0442 ([f557194](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-0442))
-
 * Fix negative rest quality ([#72892](https://github.com/CleverRaven/Cataclysm-DDA/pull/72892))
 * comprehensive deprecation warning updates ([#72893](https://github.com/CleverRaven/Cataclysm-DDA/pull/72893))
 * Add dodge chance enchantment  ([#72855](https://github.com/CleverRaven/Cataclysm-DDA/pull/72855))
@@ -209,7 +210,6 @@
 * Fixing screen artifacts seen when ImGui keybindings UI is closed ([#72833](https://github.com/CleverRaven/Cataclysm-DDA/pull/72833))
 * Kord in another castle, 5.45 can't be exchanged ([#72813](https://github.com/CleverRaven/Cataclysm-DDA/pull/72813))
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
-* reword the guilt messages ([#72802](https://github.com/CleverRaven/Cataclysm-DDA/pull/72802))
 * uncooked toaster pastries aren't gross ([#72823](https://github.com/CleverRaven/Cataclysm-DDA/pull/72823))
 * [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
 * AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
