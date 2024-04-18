@@ -1,3 +1,4 @@
+* Retain hole construction ([#72927](https://github.com/CleverRaven/Cataclysm-DDA/pull/72927))
 * You can shatter zombies' torso armour by hitting them real hard. ([#72974](https://github.com/CleverRaven/Cataclysm-DDA/pull/72974))
 * Small scale anaerobic digestion system ([#72987](https://github.com/CleverRaven/Cataclysm-DDA/pull/72987))
 * Allow the Chimera thershold trait as a wildcard for most postthresh traits ([#72994](https://github.com/CleverRaven/Cataclysm-DDA/pull/72994))
@@ -162,7 +163,6 @@
 
 * A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
-* Remove extern furn ids ([#72834](https://github.com/CleverRaven/Cataclysm-DDA/pull/72834))
 * Fixed out of bounds transparency cache access ([#72850](https://github.com/CleverRaven/Cataclysm-DDA/pull/72850))
 * Fix companions ceasing activities when PC enter Z level ([#72883](https://github.com/CleverRaven/Cataclysm-DDA/pull/72883))
 * Fix stone sickle weapon category typo ([#72889](https://github.com/CleverRaven/Cataclysm-DDA/pull/72889))
