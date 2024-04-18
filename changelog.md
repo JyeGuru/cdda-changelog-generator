@@ -1,3 +1,14 @@
+* Minor generic zombie balance edits 6 ([#73059](https://github.com/CleverRaven/Cataclysm-DDA/pull/73059))
+* fix mobile sidebar label translation ([#73060](https://github.com/CleverRaven/Cataclysm-DDA/pull/73060))
+* Documentation update in light of #73004 ([#73066](https://github.com/CleverRaven/Cataclysm-DDA/pull/73066))
+* Add more English names and their translations to Simplified Chinese and Japanese ([#73077](https://github.com/CleverRaven/Cataclysm-DDA/pull/73077))
+* Miscellaneous mutant invertebrate cleanup ([#73078](https://github.com/CleverRaven/Cataclysm-DDA/pull/73078))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-18-0039 ([5401efb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-18-0039))
+
+* killed monster can run EoC directly ([#73080](https://github.com/CleverRaven/Cataclysm-DDA/pull/73080))
 
 ---
 
@@ -10,7 +21,6 @@
 #### Cataclysm-DDA experimental build 2024-04-16-1009 ([73b6cf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-1009))
 
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
-* city_sizes restriction for city buildings ([#72815](https://github.com/CleverRaven/Cataclysm-DDA/pull/72815))
 * Unified logging and made it tree top aware ([#72845](https://github.com/CleverRaven/Cataclysm-DDA/pull/72845))
 * Brigandine Gloves Un-Palmening ([#72952](https://github.com/CleverRaven/Cataclysm-DDA/pull/72952))
 * [Magiclysm] Update conjuration spells with scaling modifier ([#72967](https://github.com/CleverRaven/Cataclysm-DDA/pull/72967))
@@ -182,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-04-08-1359 ([a1e69f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-1359))
 
 * Fix ImGui keybindings screen not allowing the user to scroll the list upon opening ([#72871](https://github.com/CleverRaven/Cataclysm-DDA/pull/72871))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-08-0720 ([0095b30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-0720))
-
 * [MoM] Utilise test_eoc functionality to reduce duplicate conditions ([#72875](https://github.com/CleverRaven/Cataclysm-DDA/pull/72875))
 * By default, EOCs train proficiencies normally ([#72862](https://github.com/CleverRaven/Cataclysm-DDA/pull/72862))
 * [MoM] Oubliette works on NPCs now ([#72876](https://github.com/CleverRaven/Cataclysm-DDA/pull/72876))
@@ -208,10 +213,5 @@
 * Revert "ci: avoid leftover changelog update branches" ([#72836](https://github.com/CleverRaven/Cataclysm-DDA/pull/72836))
 * [MoM] Add luminance to Eaters ([#72830](https://github.com/CleverRaven/Cataclysm-DDA/pull/72830))
 * Fixing screen artifacts seen when ImGui keybindings UI is closed ([#72833](https://github.com/CleverRaven/Cataclysm-DDA/pull/72833))
-* Kord in another castle, 5.45 can't be exchanged ([#72813](https://github.com/CleverRaven/Cataclysm-DDA/pull/72813))
 * fix and cleanup few itemgroups ([#72821](https://github.com/CleverRaven/Cataclysm-DDA/pull/72821))
 * uncooked toaster pastries aren't gross ([#72823](https://github.com/CleverRaven/Cataclysm-DDA/pull/72823))
-* [Magiclysm] Tune channeling spells with scale modifier ([#72805](https://github.com/CleverRaven/Cataclysm-DDA/pull/72805))
-* AFS Exosuit Power Fix ([#72803](https://github.com/CleverRaven/Cataclysm-DDA/pull/72803))
-* Aftershock: Add an ATM to Port Augustmoon ([#72810](https://github.com/CleverRaven/Cataclysm-DDA/pull/72810))
-* Forest biome terrain oter_id -> oter_type_id ([#72812](https://github.com/CleverRaven/Cataclysm-DDA/pull/72812))
