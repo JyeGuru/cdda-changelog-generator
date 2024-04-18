@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-18-1441 ([5aaf8fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-18-1441))
+
+* Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
 * Properly handle default_clause without text in translation string extractor ([#72992](https://github.com/CleverRaven/Cataclysm-DDA/pull/72992))
 
 ---
@@ -186,11 +192,6 @@
 
 * Fix health dreams when you are ill ([#72881](https://github.com/CleverRaven/Cataclysm-DDA/pull/72881))
 * Use 'soldering_standard' for electronic fixes ([#72895](https://github.com/CleverRaven/Cataclysm-DDA/pull/72895))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-09-0511 ([e37e471](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-09-0511))
-
 * Bug fix for swag bags and canvas bags ([#72858](https://github.com/CleverRaven/Cataclysm-DDA/pull/72858))
 * Bugfix for UPS not charging items with empty integrated batteries ([#72837](https://github.com/CleverRaven/Cataclysm-DDA/pull/72837))
 * Docs and in game typos ([#72901](https://github.com/CleverRaven/Cataclysm-DDA/pull/72901))
@@ -215,4 +216,3 @@
 * Change makeshift crowbar category back to tools ([#72843](https://github.com/CleverRaven/Cataclysm-DDA/pull/72843))
 * Kord fixes ([#72848](https://github.com/CleverRaven/Cataclysm-DDA/pull/72848))
 * Add DPavonis as valid comment commander ([#72838](https://github.com/CleverRaven/Cataclysm-DDA/pull/72838))
-* Revert "ci: avoid leftover changelog update branches" ([#72836](https://github.com/CleverRaven/Cataclysm-DDA/pull/72836))
