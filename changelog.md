@@ -1,4 +1,9 @@
 * Properly handle default_clause without text in translation string extractor ([#72992](https://github.com/CleverRaven/Cataclysm-DDA/pull/72992))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-18-0624 ([5b6b22d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-18-0624))
+
 * Retain hole construction ([#72927](https://github.com/CleverRaven/Cataclysm-DDA/pull/72927))
 * You can shatter zombies' torso armour by hitting them real hard. ([#72974](https://github.com/CleverRaven/Cataclysm-DDA/pull/72974))
 * Small scale anaerobic digestion system ([#72987](https://github.com/CleverRaven/Cataclysm-DDA/pull/72987))
@@ -192,11 +197,6 @@
 * Fix GitHub Actions Node.js runtime deprecation warning in macOS release build workflow ([#72909](https://github.com/CleverRaven/Cataclysm-DDA/pull/72909))
 * Fix ASan error, suppress more checks ([#72900](https://github.com/CleverRaven/Cataclysm-DDA/pull/72900))
 * run IWYU for some files ([#72906](https://github.com/CleverRaven/Cataclysm-DDA/pull/72906))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-09-0233 ([f72b8fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-09-0233))
-
 * fix lamp_oil recipe ([#72898](https://github.com/CleverRaven/Cataclysm-DDA/pull/72898))
 * Fix ImGui keybindings screen not allowing the user to scroll the list upon opening ([#72871](https://github.com/CleverRaven/Cataclysm-DDA/pull/72871))
 * [MoM] Utilise test_eoc functionality to reduce duplicate conditions ([#72875](https://github.com/CleverRaven/Cataclysm-DDA/pull/72875))
