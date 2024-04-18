@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-18-0354 ([cd18044](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-18-0354))
+
 * Minor generic zombie balance edits 6 ([#73059](https://github.com/CleverRaven/Cataclysm-DDA/pull/73059))
 * fix mobile sidebar label translation ([#73060](https://github.com/CleverRaven/Cataclysm-DDA/pull/73060))
 * Documentation update in light of #73004 ([#73066](https://github.com/CleverRaven/Cataclysm-DDA/pull/73066))
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-04-09-0233 ([f72b8fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-09-0233))
 
 * fix lamp_oil recipe ([#72898](https://github.com/CleverRaven/Cataclysm-DDA/pull/72898))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-08-1359 ([a1e69f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-08-1359))
-
 * Fix ImGui keybindings screen not allowing the user to scroll the list upon opening ([#72871](https://github.com/CleverRaven/Cataclysm-DDA/pull/72871))
 * [MoM] Utilise test_eoc functionality to reduce duplicate conditions ([#72875](https://github.com/CleverRaven/Cataclysm-DDA/pull/72875))
 * By default, EOCs train proficiencies normally ([#72862](https://github.com/CleverRaven/Cataclysm-DDA/pull/72862))
