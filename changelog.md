@@ -1,3 +1,5 @@
+* delete (empty) src/mission_end.cpp ([#73088](https://github.com/CleverRaven/Cataclysm-DDA/pull/73088))
+* Crops will overgrow/die if not harvested in time ([#73081](https://github.com/CleverRaven/Cataclysm-DDA/pull/73081))
 
 ---
 
@@ -207,7 +209,6 @@
 * remove rapid from national guard bayonet ([#72847](https://github.com/CleverRaven/Cataclysm-DDA/pull/72847))
 * Change makeshift crowbar category back to tools ([#72843](https://github.com/CleverRaven/Cataclysm-DDA/pull/72843))
 * Kord fixes ([#72848](https://github.com/CleverRaven/Cataclysm-DDA/pull/72848))
-* [MoM] stop using premonition if you don't have premonition ([#72816](https://github.com/CleverRaven/Cataclysm-DDA/pull/72816))
 * Fixed removal of tree tops over faction camp logged trees ([#72835](https://github.com/CleverRaven/Cataclysm-DDA/pull/72835))
 * Add DPavonis as valid comment commander ([#72838](https://github.com/CleverRaven/Cataclysm-DDA/pull/72838))
 * Revert "ci: avoid leftover changelog update branches" ([#72836](https://github.com/CleverRaven/Cataclysm-DDA/pull/72836))
