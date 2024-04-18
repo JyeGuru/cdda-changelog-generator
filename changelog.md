@@ -1,3 +1,4 @@
+* Properly handle default_clause without text in translation string extractor ([#72992](https://github.com/CleverRaven/Cataclysm-DDA/pull/72992))
 * Retain hole construction ([#72927](https://github.com/CleverRaven/Cataclysm-DDA/pull/72927))
 * You can shatter zombies' torso armour by hitting them real hard. ([#72974](https://github.com/CleverRaven/Cataclysm-DDA/pull/72974))
 * Small scale anaerobic digestion system ([#72987](https://github.com/CleverRaven/Cataclysm-DDA/pull/72987))
@@ -213,6 +214,5 @@
 * remove rapid from national guard bayonet ([#72847](https://github.com/CleverRaven/Cataclysm-DDA/pull/72847))
 * Change makeshift crowbar category back to tools ([#72843](https://github.com/CleverRaven/Cataclysm-DDA/pull/72843))
 * Kord fixes ([#72848](https://github.com/CleverRaven/Cataclysm-DDA/pull/72848))
-* Fixed removal of tree tops over faction camp logged trees ([#72835](https://github.com/CleverRaven/Cataclysm-DDA/pull/72835))
 * Add DPavonis as valid comment commander ([#72838](https://github.com/CleverRaven/Cataclysm-DDA/pull/72838))
 * Revert "ci: avoid leftover changelog update branches" ([#72836](https://github.com/CleverRaven/Cataclysm-DDA/pull/72836))
