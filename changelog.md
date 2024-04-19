@@ -1,3 +1,4 @@
+* Adds lots of mission-specific and chat dialogue for Liam ([#73108](https://github.com/CleverRaven/Cataclysm-DDA/pull/73108))
 
 ---
 
@@ -225,4 +226,3 @@
 * Fix missing translation in NPC trade denial reason ([#72863](https://github.com/CleverRaven/Cataclysm-DDA/pull/72863))
 * [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
 * Routine i18n updates on 06 April 2024 ([#72859](https://github.com/CleverRaven/Cataclysm-DDA/pull/72859))
-* Kord fixes ([#72848](https://github.com/CleverRaven/Cataclysm-DDA/pull/72848))
