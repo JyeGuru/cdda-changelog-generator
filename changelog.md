@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-19-1444 ([1e92462](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-1444))
+
+* [MoM] Add zombie breaker, change MoM zombies to copy-from mon_zombie_base ([#73114](https://github.com/CleverRaven/Cataclysm-DDA/pull/73114))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-19-0435 ([d30757e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-0435))
 
 * remove chunk charges ([#73104](https://github.com/CleverRaven/Cataclysm-DDA/pull/73104))
@@ -219,5 +225,4 @@
 * Fix missing translation in NPC trade denial reason ([#72863](https://github.com/CleverRaven/Cataclysm-DDA/pull/72863))
 * [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
 * Routine i18n updates on 06 April 2024 ([#72859](https://github.com/CleverRaven/Cataclysm-DDA/pull/72859))
-* remove rapid from national guard bayonet ([#72847](https://github.com/CleverRaven/Cataclysm-DDA/pull/72847))
 * Kord fixes ([#72848](https://github.com/CleverRaven/Cataclysm-DDA/pull/72848))
