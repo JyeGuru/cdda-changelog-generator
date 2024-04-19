@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-19-2301 ([449edb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-2301))
+
+* Fix typos and plurals ([#73065](https://github.com/CleverRaven/Cataclysm-DDA/pull/73065))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-19-1721 ([9137309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-1721))
 
 * Adds lots of mission-specific and chat dialogue for Liam ([#73108](https://github.com/CleverRaven/Cataclysm-DDA/pull/73108))
@@ -183,11 +189,6 @@
 
 * Remove bonus damages from .38/7.62x39 guns ([#72941](https://github.com/CleverRaven/Cataclysm-DDA/pull/72941))
 * debug_mon -> pseudo_debug_mon ([#72945](https://github.com/CleverRaven/Cataclysm-DDA/pull/72945))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-10-0516 ([3285099](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-10-0516))
-
 * [MoM] Photokinetic gets it's welding glare protection ([#72935](https://github.com/CleverRaven/Cataclysm-DDA/pull/72935))
 * Fixing a crash related to an item unable to determine the appropriate pocket to be placed into  ([#72942](https://github.com/CleverRaven/Cataclysm-DDA/pull/72942))
 * Limit amount of cut damage glass applies on you ([#72885](https://github.com/CleverRaven/Cataclysm-DDA/pull/72885))
@@ -195,7 +196,6 @@
 * Categorize colander as tool ([#72933](https://github.com/CleverRaven/Cataclysm-DDA/pull/72933))
 * A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
-* Fixed out of bounds transparency cache access ([#72850](https://github.com/CleverRaven/Cataclysm-DDA/pull/72850))
 * Fix companions ceasing activities when PC enter Z level ([#72883](https://github.com/CleverRaven/Cataclysm-DDA/pull/72883))
 * Fix stone sickle weapon category typo ([#72889](https://github.com/CleverRaven/Cataclysm-DDA/pull/72889))
 * Weekly Changelog 2024-04-01 to 2024-04-08 ([#72894](https://github.com/CleverRaven/Cataclysm-DDA/pull/72894))

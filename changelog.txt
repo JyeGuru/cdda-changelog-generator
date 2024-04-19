@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-19-2301 (449edb2)
+* Fix typos and plurals (#73065)
+
 Cataclysm-DDA experimental build 2024-04-19-1721 (9137309)
 * Adds lots of mission-specific and chat dialogue for Liam (#73108)
 
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2024-04-11-0055 (e46636b)
 Cataclysm-DDA experimental build 2024-04-10-1546 (5c567ac)
 * Remove bonus damages from .38/7.62x39 guns (#72941)
 * debug_mon -> pseudo_debug_mon (#72945)
-
-Cataclysm-DDA experimental build 2024-04-10-0516 (3285099)
 * [MoM] Photokinetic gets it's welding glare protection (#72935)
 * Fixing a crash related to an item unable to determine the appropriate pocket to be placed into  (#72942)
 * Limit amount of cut damage glass applies on you (#72885)
@@ -114,7 +115,6 @@ Cataclysm-DDA experimental build 2024-04-10-0516 (3285099)
 * Categorize colander as tool (#72933)
 * A bunch of random item reworks: 12 (#72931)
 * Fixing ImGui windows size issues and input issues (#72936)
-* Fixed out of bounds transparency cache access (#72850)
 * Fix companions ceasing activities when PC enter Z level (#72883)
 * Fix stone sickle weapon category typo (#72889)
 * Weekly Changelog 2024-04-01 to 2024-04-08 (#72894)
