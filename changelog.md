@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-19-0435 ([d30757e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-0435))
+
 * remove chunk charges ([#73104](https://github.com/CleverRaven/Cataclysm-DDA/pull/73104))
 * Modify comment in weather.h ([#73111](https://github.com/CleverRaven/Cataclysm-DDA/pull/73111))
 * Add myself as codeowner of gun variant script ([#73110](https://github.com/CleverRaven/Cataclysm-DDA/pull/73110))
@@ -193,11 +198,6 @@
 * Bugfix for UPS being effectively always on after first activation ([#72916](https://github.com/CleverRaven/Cataclysm-DDA/pull/72916))
 * Allow EOCs to search items by caloric content ([#72886](https://github.com/CleverRaven/Cataclysm-DDA/pull/72886))
 * Fix cast iron material weirdness ([#72929](https://github.com/CleverRaven/Cataclysm-DDA/pull/72929))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-09-1421 ([2c47a81](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-09-1421))
-
 * Fix health dreams when you are ill ([#72881](https://github.com/CleverRaven/Cataclysm-DDA/pull/72881))
 * Use 'soldering_standard' for electronic fixes ([#72895](https://github.com/CleverRaven/Cataclysm-DDA/pull/72895))
 * Bug fix for swag bags and canvas bags ([#72858](https://github.com/CleverRaven/Cataclysm-DDA/pull/72858))
