@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-19-1721 ([9137309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-1721))
+
 * Adds lots of mission-specific and chat dialogue for Liam ([#73108](https://github.com/CleverRaven/Cataclysm-DDA/pull/73108))
 
 ---
@@ -188,11 +193,6 @@
 * Limit amount of cut damage glass applies on you ([#72885](https://github.com/CleverRaven/Cataclysm-DDA/pull/72885))
 * Spelling and text consistency fixes ([#72910](https://github.com/CleverRaven/Cataclysm-DDA/pull/72910))
 * Categorize colander as tool ([#72933](https://github.com/CleverRaven/Cataclysm-DDA/pull/72933))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-10-0131 ([fd489a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-10-0131))
-
 * A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
 * Fixed out of bounds transparency cache access ([#72850](https://github.com/CleverRaven/Cataclysm-DDA/pull/72850))
