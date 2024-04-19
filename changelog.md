@@ -1,3 +1,12 @@
+* remove chunk charges ([#73104](https://github.com/CleverRaven/Cataclysm-DDA/pull/73104))
+* Modify comment in weather.h ([#73111](https://github.com/CleverRaven/Cataclysm-DDA/pull/73111))
+* Add myself as codeowner of gun variant script ([#73110](https://github.com/CleverRaven/Cataclysm-DDA/pull/73110))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-19-0153 ([c04ee7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-0153))
+
+* [Bombastic Perks] Yet more perks ([#73044](https://github.com/CleverRaven/Cataclysm-DDA/pull/73044))
 
 ---
 
@@ -45,7 +54,6 @@
 #### Cataclysm-DDA experimental build 2024-04-16-1009 ([73b6cf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-1009))
 
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
-* Unified logging and made it tree top aware ([#72845](https://github.com/CleverRaven/Cataclysm-DDA/pull/72845))
 * Brigandine Gloves Un-Palmening ([#72952](https://github.com/CleverRaven/Cataclysm-DDA/pull/72952))
 * [Magiclysm] Update conjuration spells with scaling modifier ([#72967](https://github.com/CleverRaven/Cataclysm-DDA/pull/72967))
 * Worm Spawn Map Extra ([#72975](https://github.com/CleverRaven/Cataclysm-DDA/pull/72975))
@@ -193,7 +201,6 @@
 * Fix health dreams when you are ill ([#72881](https://github.com/CleverRaven/Cataclysm-DDA/pull/72881))
 * Use 'soldering_standard' for electronic fixes ([#72895](https://github.com/CleverRaven/Cataclysm-DDA/pull/72895))
 * Bug fix for swag bags and canvas bags ([#72858](https://github.com/CleverRaven/Cataclysm-DDA/pull/72858))
-* Bugfix for UPS not charging items with empty integrated batteries ([#72837](https://github.com/CleverRaven/Cataclysm-DDA/pull/72837))
 * Docs and in game typos ([#72901](https://github.com/CleverRaven/Cataclysm-DDA/pull/72901))
 * Fix GitHub Actions Node.js runtime deprecation warning in macOS release build workflow ([#72909](https://github.com/CleverRaven/Cataclysm-DDA/pull/72909))
 * Fix ASan error, suppress more checks ([#72900](https://github.com/CleverRaven/Cataclysm-DDA/pull/72900))
@@ -213,6 +220,4 @@
 * [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
 * Routine i18n updates on 06 April 2024 ([#72859](https://github.com/CleverRaven/Cataclysm-DDA/pull/72859))
 * remove rapid from national guard bayonet ([#72847](https://github.com/CleverRaven/Cataclysm-DDA/pull/72847))
-* Change makeshift crowbar category back to tools ([#72843](https://github.com/CleverRaven/Cataclysm-DDA/pull/72843))
 * Kord fixes ([#72848](https://github.com/CleverRaven/Cataclysm-DDA/pull/72848))
-* Add DPavonis as valid comment commander ([#72838](https://github.com/CleverRaven/Cataclysm-DDA/pull/72838))
