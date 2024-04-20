@@ -1,3 +1,4 @@
+* Fix split vehicles always using the incorrect pivot point ([#73055](https://github.com/CleverRaven/Cataclysm-DDA/pull/73055))
 * Add XL and XS versions for french maid clothes/aprons/hats ([#73122](https://github.com/CleverRaven/Cataclysm-DDA/pull/73122))
 * Fix egg stack ([#73127](https://github.com/CleverRaven/Cataclysm-DDA/pull/73127))
 * [MoM] Add Astral Projection Clairsentient power ([#73128](https://github.com/CleverRaven/Cataclysm-DDA/pull/73128))
@@ -222,7 +223,6 @@
 * Fix ASan error, suppress more checks ([#72900](https://github.com/CleverRaven/Cataclysm-DDA/pull/72900))
 * run IWYU for some files ([#72906](https://github.com/CleverRaven/Cataclysm-DDA/pull/72906))
 * fix lamp_oil recipe ([#72898](https://github.com/CleverRaven/Cataclysm-DDA/pull/72898))
-* [MoM] Utilise test_eoc functionality to reduce duplicate conditions ([#72875](https://github.com/CleverRaven/Cataclysm-DDA/pull/72875))
 * [MoM] Oubliette works on NPCs now ([#72876](https://github.com/CleverRaven/Cataclysm-DDA/pull/72876))
 * Fix negative rest quality ([#72892](https://github.com/CleverRaven/Cataclysm-DDA/pull/72892))
 * comprehensive deprecation warning updates ([#72893](https://github.com/CleverRaven/Cataclysm-DDA/pull/72893))
