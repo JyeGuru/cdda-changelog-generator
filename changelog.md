@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-20-1851 ([f32b285](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-20-1851))
+
 * Routine i18n updates on 20 April 2024 ([#73143](https://github.com/CleverRaven/Cataclysm-DDA/pull/73143))
 
 ---
