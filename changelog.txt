@@ -1,3 +1,5 @@
+* [MoM] Fix Force Shove to account for target weight (#73137)
+* Fix overloaded definition for bungalow22 and incorrect definition for house22 (#73144)
 * docs: clear up outdated info about grab_strength (#73141)
 * Not to try to unload when bow not loaded. (#73148)
 
@@ -142,6 +144,4 @@ Cataclysm-DDA experimental build 2024-04-11-0055 (e46636b)
 * comprehensive deprecation warning updates (#72893)
 * [MoM] Feral telekinetics can't throw you with telekinesis if you have Inertial Barrier up and vice versa (#72874)
 * Bypass prereq category check for overlapping mod content (#72879)
-* Automatically learn proficiencies on load if XP is greater than required (#72861)
 * Fix missing translation in NPC trade denial reason (#72863)
-* Routine i18n updates on 06 April 2024 (#72859)
