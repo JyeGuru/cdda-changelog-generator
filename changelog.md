@@ -1,3 +1,4 @@
+* Routine i18n updates on 20 April 2024 ([#73143](https://github.com/CleverRaven/Cataclysm-DDA/pull/73143))
 
 ---
 
@@ -182,11 +183,6 @@
 
 * Enable ImGui UI globally, remove legacy popup and keybindings UI ([#72937](https://github.com/CleverRaven/Cataclysm-DDA/pull/72937))
 * [MoM] Account for painkiller in pain disabling powers ([#72939](https://github.com/CleverRaven/Cataclysm-DDA/pull/72939))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-10-1546 ([5c567ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-10-1546))
-
 * Remove bonus damages from .38/7.62x39 guns ([#72941](https://github.com/CleverRaven/Cataclysm-DDA/pull/72941))
 * debug_mon -> pseudo_debug_mon ([#72945](https://github.com/CleverRaven/Cataclysm-DDA/pull/72945))
 * [MoM] Photokinetic gets it's welding glare protection ([#72935](https://github.com/CleverRaven/Cataclysm-DDA/pull/72935))
@@ -219,7 +215,6 @@
 * [MoM] Oubliette works on NPCs now ([#72876](https://github.com/CleverRaven/Cataclysm-DDA/pull/72876))
 * Fix negative rest quality ([#72892](https://github.com/CleverRaven/Cataclysm-DDA/pull/72892))
 * comprehensive deprecation warning updates ([#72893](https://github.com/CleverRaven/Cataclysm-DDA/pull/72893))
-* Add dodge chance enchantment  ([#72855](https://github.com/CleverRaven/Cataclysm-DDA/pull/72855))
 * [MoM] Feral telekinetics can't throw you with telekinesis if you have Inertial Barrier up and vice versa ([#72874](https://github.com/CleverRaven/Cataclysm-DDA/pull/72874))
 * Bypass prereq category check for overlapping mod content ([#72879](https://github.com/CleverRaven/Cataclysm-DDA/pull/72879))
 * Automatically learn proficiencies on load if XP is greater than required ([#72861](https://github.com/CleverRaven/Cataclysm-DDA/pull/72861))
