@@ -1,3 +1,5 @@
+* docs: clear up outdated info about grab_strength ([#73141](https://github.com/CleverRaven/Cataclysm-DDA/pull/73141))
+* Not to try to unload when bow not loaded. ([#73148](https://github.com/CleverRaven/Cataclysm-DDA/pull/73148))
 
 ---
 
@@ -208,7 +210,6 @@
 * Fix cast iron material weirdness ([#72929](https://github.com/CleverRaven/Cataclysm-DDA/pull/72929))
 * Fix health dreams when you are ill ([#72881](https://github.com/CleverRaven/Cataclysm-DDA/pull/72881))
 * Use 'soldering_standard' for electronic fixes ([#72895](https://github.com/CleverRaven/Cataclysm-DDA/pull/72895))
-* Bug fix for swag bags and canvas bags ([#72858](https://github.com/CleverRaven/Cataclysm-DDA/pull/72858))
 * Docs and in game typos ([#72901](https://github.com/CleverRaven/Cataclysm-DDA/pull/72901))
 * Fix GitHub Actions Node.js runtime deprecation warning in macOS release build workflow ([#72909](https://github.com/CleverRaven/Cataclysm-DDA/pull/72909))
 * Fix ASan error, suppress more checks ([#72900](https://github.com/CleverRaven/Cataclysm-DDA/pull/72900))
@@ -224,5 +225,4 @@
 * Bypass prereq category check for overlapping mod content ([#72879](https://github.com/CleverRaven/Cataclysm-DDA/pull/72879))
 * Automatically learn proficiencies on load if XP is greater than required ([#72861](https://github.com/CleverRaven/Cataclysm-DDA/pull/72861))
 * Fix missing translation in NPC trade denial reason ([#72863](https://github.com/CleverRaven/Cataclysm-DDA/pull/72863))
-* [MoM] Add Noisemaker telekinetic power ([#72856](https://github.com/CleverRaven/Cataclysm-DDA/pull/72856))
 * Routine i18n updates on 06 April 2024 ([#72859](https://github.com/CleverRaven/Cataclysm-DDA/pull/72859))
