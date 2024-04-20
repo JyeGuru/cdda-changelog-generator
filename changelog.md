@@ -1,4 +1,9 @@
 * [MoM] Fix Force Shove to account for target weight ([#73137](https://github.com/CleverRaven/Cataclysm-DDA/pull/73137))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-20-2123 ([9b63d8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-20-2123))
+
 * Fix overloaded definition for bungalow22 and incorrect definition for house22 ([#73144](https://github.com/CleverRaven/Cataclysm-DDA/pull/73144))
 * docs: clear up outdated info about grab_strength ([#73141](https://github.com/CleverRaven/Cataclysm-DDA/pull/73141))
 * Not to try to unload when bow not loaded. ([#73148](https://github.com/CleverRaven/Cataclysm-DDA/pull/73148))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-04-11-0340 ([a573b71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-11-0340))
 
 * Cleanup unused stuff in mapgen_functions.cpp ([#72954](https://github.com/CleverRaven/Cataclysm-DDA/pull/72954))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-11-0055 ([e46636b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-11-0055))
-
 * Enable ImGui UI globally, remove legacy popup and keybindings UI ([#72937](https://github.com/CleverRaven/Cataclysm-DDA/pull/72937))
 * [MoM] Account for painkiller in pain disabling powers ([#72939](https://github.com/CleverRaven/Cataclysm-DDA/pull/72939))
 * Remove bonus damages from .38/7.62x39 guns ([#72941](https://github.com/CleverRaven/Cataclysm-DDA/pull/72941))
