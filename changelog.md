@@ -1,3 +1,8 @@
+* Add XL and XS versions for french maid clothes/aprons/hats ([#73122](https://github.com/CleverRaven/Cataclysm-DDA/pull/73122))
+* Fix egg stack ([#73127](https://github.com/CleverRaven/Cataclysm-DDA/pull/73127))
+* [MoM] Add Astral Projection Clairsentient power ([#73128](https://github.com/CleverRaven/Cataclysm-DDA/pull/73128))
+* Favorite ammo must be on the avatar. ([#73151](https://github.com/CleverRaven/Cataclysm-DDA/pull/73151))
+* More dialogue for Liam, keyed to specific missions ([#73133](https://github.com/CleverRaven/Cataclysm-DDA/pull/73133))
 * [MoM] Fix Force Shove to account for target weight ([#73137](https://github.com/CleverRaven/Cataclysm-DDA/pull/73137))
 
 ---
@@ -217,12 +222,8 @@
 * Fix ASan error, suppress more checks ([#72900](https://github.com/CleverRaven/Cataclysm-DDA/pull/72900))
 * run IWYU for some files ([#72906](https://github.com/CleverRaven/Cataclysm-DDA/pull/72906))
 * fix lamp_oil recipe ([#72898](https://github.com/CleverRaven/Cataclysm-DDA/pull/72898))
-* Fix ImGui keybindings screen not allowing the user to scroll the list upon opening ([#72871](https://github.com/CleverRaven/Cataclysm-DDA/pull/72871))
 * [MoM] Utilise test_eoc functionality to reduce duplicate conditions ([#72875](https://github.com/CleverRaven/Cataclysm-DDA/pull/72875))
-* By default, EOCs train proficiencies normally ([#72862](https://github.com/CleverRaven/Cataclysm-DDA/pull/72862))
 * [MoM] Oubliette works on NPCs now ([#72876](https://github.com/CleverRaven/Cataclysm-DDA/pull/72876))
 * Fix negative rest quality ([#72892](https://github.com/CleverRaven/Cataclysm-DDA/pull/72892))
 * comprehensive deprecation warning updates ([#72893](https://github.com/CleverRaven/Cataclysm-DDA/pull/72893))
-* [MoM] Feral telekinetics can't throw you with telekinesis if you have Inertial Barrier up and vice versa ([#72874](https://github.com/CleverRaven/Cataclysm-DDA/pull/72874))
 * Bypass prereq category check for overlapping mod content ([#72879](https://github.com/CleverRaven/Cataclysm-DDA/pull/72879))
-* Fix missing translation in NPC trade denial reason ([#72863](https://github.com/CleverRaven/Cataclysm-DDA/pull/72863))
