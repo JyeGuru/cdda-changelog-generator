@@ -1,3 +1,5 @@
+* Documentation fixes ([#73166](https://github.com/CleverRaven/Cataclysm-DDA/pull/73166))
+* Random minor JSON adjustments ([#73169](https://github.com/CleverRaven/Cataclysm-DDA/pull/73169))
 * [DinoMod] skeletal looks_like fix ([#73174](https://github.com/CleverRaven/Cataclysm-DDA/pull/73174))
 
 ---
@@ -207,7 +209,6 @@
 * Categorize colander as tool ([#72933](https://github.com/CleverRaven/Cataclysm-DDA/pull/72933))
 * A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
-* Fix stone sickle weapon category typo ([#72889](https://github.com/CleverRaven/Cataclysm-DDA/pull/72889))
 * Weekly Changelog 2024-04-01 to 2024-04-08 ([#72894](https://github.com/CleverRaven/Cataclysm-DDA/pull/72894))
 * Debug option to write file with list of cities located on current overmap ([#72912](https://github.com/CleverRaven/Cataclysm-DDA/pull/72912))
 * Update the spelling dictionary for #72924 ([#72926](https://github.com/CleverRaven/Cataclysm-DDA/pull/72926))
@@ -220,5 +221,4 @@
 * Fix ASan error, suppress more checks ([#72900](https://github.com/CleverRaven/Cataclysm-DDA/pull/72900))
 * run IWYU for some files ([#72906](https://github.com/CleverRaven/Cataclysm-DDA/pull/72906))
 * fix lamp_oil recipe ([#72898](https://github.com/CleverRaven/Cataclysm-DDA/pull/72898))
-* Fix negative rest quality ([#72892](https://github.com/CleverRaven/Cataclysm-DDA/pull/72892))
 * comprehensive deprecation warning updates ([#72893](https://github.com/CleverRaven/Cataclysm-DDA/pull/72893))
