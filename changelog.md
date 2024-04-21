@@ -1,3 +1,4 @@
+* Type and context in variables is no more ([#73146](https://github.com/CleverRaven/Cataclysm-DDA/pull/73146))
 * Hunt down the freezer ([#73048](https://github.com/CleverRaven/Cataclysm-DDA/pull/73048))
 * Bird Audit - Passerines ([#73087](https://github.com/CleverRaven/Cataclysm-DDA/pull/73087))
 * Do not count magazine as pocket in the pickup inventory ([#73107](https://github.com/CleverRaven/Cataclysm-DDA/pull/73107))
@@ -221,4 +222,3 @@
 * Improve spell checker tokenization and reporting ([#72924](https://github.com/CleverRaven/Cataclysm-DDA/pull/72924))
 * Bugfix for UPS being effectively always on after first activation ([#72916](https://github.com/CleverRaven/Cataclysm-DDA/pull/72916))
 * Fix cast iron material weirdness ([#72929](https://github.com/CleverRaven/Cataclysm-DDA/pull/72929))
-* Fix GitHub Actions Node.js runtime deprecation warning in macOS release build workflow ([#72909](https://github.com/CleverRaven/Cataclysm-DDA/pull/72909))
