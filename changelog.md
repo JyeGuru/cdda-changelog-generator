@@ -221,3 +221,4 @@
 * Improve spell checker tokenization and reporting ([#72924](https://github.com/CleverRaven/Cataclysm-DDA/pull/72924))
 * Bugfix for UPS being effectively always on after first activation ([#72916](https://github.com/CleverRaven/Cataclysm-DDA/pull/72916))
 * Fix cast iron material weirdness ([#72929](https://github.com/CleverRaven/Cataclysm-DDA/pull/72929))
+* Fix GitHub Actions Node.js runtime deprecation warning in macOS release build workflow ([#72909](https://github.com/CleverRaven/Cataclysm-DDA/pull/72909))
