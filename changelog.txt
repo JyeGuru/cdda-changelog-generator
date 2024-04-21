@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-21-0451 (82b4514)
+* Tweak spawns of hidden lab under retirement home (#73154)
+
 Cataclysm-DDA experimental build 2024-04-21-0009 (7531b85)
 * Fix split vehicles always using the incorrect pivot point (#73055)
 * Add XL and XS versions for french maid clothes/aprons/hats (#73122)
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2024-04-12-2052 (36578d7)
 
 Cataclysm-DDA experimental build 2024-04-11-2208 (0bcda8a)
 * Pain is less painful (#72955)
-
-Cataclysm-DDA experimental build 2024-04-11-1603 (9819962)
 * [Bombastic Perks] Add more perks (#72940)
 * Cleanup unused stuff in mapgen_functions.cpp (#72954)
 * Enable ImGui UI globally, remove legacy popup and keybindings UI (#72937)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2024-04-11-1603 (9819962)
 * Fix ASan error, suppress more checks (#72900)
 * run IWYU for some files (#72906)
 * fix lamp_oil recipe (#72898)
-* [MoM] Oubliette works on NPCs now (#72876)
 * Fix negative rest quality (#72892)
 * comprehensive deprecation warning updates (#72893)
 * Bypass prereq category check for overlapping mod content (#72879)

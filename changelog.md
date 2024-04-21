@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-21-0451 ([82b4514](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-21-0451))
+
+* Tweak spawns of hidden lab under retirement home ([#73154](https://github.com/CleverRaven/Cataclysm-DDA/pull/73154))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-21-0009 ([7531b85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-21-0009))
 
 * Fix split vehicles always using the incorrect pivot point ([#73055](https://github.com/CleverRaven/Cataclysm-DDA/pull/73055))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-04-11-2208 ([0bcda8a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-11-2208))
 
 * Pain is less painful ([#72955](https://github.com/CleverRaven/Cataclysm-DDA/pull/72955))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-11-1603 ([9819962](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-11-1603))
-
 * [Bombastic Perks] Add more perks ([#72940](https://github.com/CleverRaven/Cataclysm-DDA/pull/72940))
 * Cleanup unused stuff in mapgen_functions.cpp ([#72954](https://github.com/CleverRaven/Cataclysm-DDA/pull/72954))
 * Enable ImGui UI globally, remove legacy popup and keybindings UI ([#72937](https://github.com/CleverRaven/Cataclysm-DDA/pull/72937))
@@ -223,7 +224,6 @@
 * Fix ASan error, suppress more checks ([#72900](https://github.com/CleverRaven/Cataclysm-DDA/pull/72900))
 * run IWYU for some files ([#72906](https://github.com/CleverRaven/Cataclysm-DDA/pull/72906))
 * fix lamp_oil recipe ([#72898](https://github.com/CleverRaven/Cataclysm-DDA/pull/72898))
-* [MoM] Oubliette works on NPCs now ([#72876](https://github.com/CleverRaven/Cataclysm-DDA/pull/72876))
 * Fix negative rest quality ([#72892](https://github.com/CleverRaven/Cataclysm-DDA/pull/72892))
 * comprehensive deprecation warning updates ([#72893](https://github.com/CleverRaven/Cataclysm-DDA/pull/72893))
 * Bypass prereq category check for overlapping mod content ([#72879](https://github.com/CleverRaven/Cataclysm-DDA/pull/72879))
