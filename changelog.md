@@ -191,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-04-14-0520 ([ddc82e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-0520))
 
 * Fix grapplers not being able to pull you ([#73005](https://github.com/CleverRaven/Cataclysm-DDA/pull/73005))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-14-0218 ([4f4e137](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-0218))
-
 * Remove city_center, simplify mx_fungal_zone ([#73001](https://github.com/CleverRaven/Cataclysm-DDA/pull/73001))
 * Shoggoths can't eat anomalous material ([#72957](https://github.com/CleverRaven/Cataclysm-DDA/pull/72957))
 * Pain is less painful ([#72955](https://github.com/CleverRaven/Cataclysm-DDA/pull/72955))
