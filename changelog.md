@@ -2,6 +2,11 @@
 * Bird Audit - Passerines ([#73087](https://github.com/CleverRaven/Cataclysm-DDA/pull/73087))
 * Do not count magazine as pocket in the pickup inventory ([#73107](https://github.com/CleverRaven/Cataclysm-DDA/pull/73107))
 * [Magiclysm] Technomancer pain ignore spell ([#73025](https://github.com/CleverRaven/Cataclysm-DDA/pull/73025))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-21-2338 ([bd04204](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-21-2338))
+
 * Weekly Changelog 2024-04-08 to 2024-04-15 ([#73034](https://github.com/CleverRaven/Cataclysm-DDA/pull/73034))
 * `Can't see` doesn't close the crafting GUI ([#73117](https://github.com/CleverRaven/Cataclysm-DDA/pull/73117))
 * add "Forget all recipes" to debug menu ([#73168](https://github.com/CleverRaven/Cataclysm-DDA/pull/73168))
@@ -195,11 +200,6 @@
 * Obsolete radiation zombies ([#72978](https://github.com/CleverRaven/Cataclysm-DDA/pull/72978))
 * Fixed collapse_check logic ([#72962](https://github.com/CleverRaven/Cataclysm-DDA/pull/72962))
 * Propagate `IMGUI_DISABLE_OBSOLETE_KEYIO` definition to dependent targets ([#72999](https://github.com/CleverRaven/Cataclysm-DDA/pull/72999))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-14-0520 ([ddc82e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-0520))
-
 * Fix grapplers not being able to pull you ([#73005](https://github.com/CleverRaven/Cataclysm-DDA/pull/73005))
 * Remove city_center, simplify mx_fungal_zone ([#73001](https://github.com/CleverRaven/Cataclysm-DDA/pull/73001))
 * Shoggoths can't eat anomalous material ([#72957](https://github.com/CleverRaven/Cataclysm-DDA/pull/72957))
