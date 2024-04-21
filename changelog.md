@@ -1,3 +1,4 @@
+* [DinoMod] skeletal looks_like fix ([#73174](https://github.com/CleverRaven/Cataclysm-DDA/pull/73174))
 
 ---
 
@@ -212,7 +213,6 @@
 * Update the spelling dictionary for #72924 ([#72926](https://github.com/CleverRaven/Cataclysm-DDA/pull/72926))
 * Improve spell checker tokenization and reporting ([#72924](https://github.com/CleverRaven/Cataclysm-DDA/pull/72924))
 * Bugfix for UPS being effectively always on after first activation ([#72916](https://github.com/CleverRaven/Cataclysm-DDA/pull/72916))
-* Allow EOCs to search items by caloric content ([#72886](https://github.com/CleverRaven/Cataclysm-DDA/pull/72886))
 * Fix cast iron material weirdness ([#72929](https://github.com/CleverRaven/Cataclysm-DDA/pull/72929))
 * Use 'soldering_standard' for electronic fixes ([#72895](https://github.com/CleverRaven/Cataclysm-DDA/pull/72895))
 * Docs and in game typos ([#72901](https://github.com/CleverRaven/Cataclysm-DDA/pull/72901))
