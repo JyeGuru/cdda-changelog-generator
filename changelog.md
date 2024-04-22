@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-22-0317 ([365b9ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-22-0317))
+
 * [MoM] Add `city_sizes` parameter to city buildings ([#73160](https://github.com/CleverRaven/Cataclysm-DDA/pull/73160))
 * Type and context in variables is no more ([#73146](https://github.com/CleverRaven/Cataclysm-DDA/pull/73146))
 * Hunt down the freezer ([#73048](https://github.com/CleverRaven/Cataclysm-DDA/pull/73048))
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-04-14-1503 ([4a328a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-1503))
 
 * Remove unused/already jsonized hardcoded monster attacks ([#73004](https://github.com/CleverRaven/Cataclysm-DDA/pull/73004))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-14-0749 ([954bacc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-0749))
-
 * Obsolete radiation zombies ([#72978](https://github.com/CleverRaven/Cataclysm-DDA/pull/72978))
 * Fixed collapse_check logic ([#72962](https://github.com/CleverRaven/Cataclysm-DDA/pull/72962))
 * Propagate `IMGUI_DISABLE_OBSOLETE_KEYIO` definition to dependent targets ([#72999](https://github.com/CleverRaven/Cataclysm-DDA/pull/72999))
