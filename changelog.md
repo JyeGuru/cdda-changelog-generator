@@ -1,3 +1,4 @@
+* [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
 * Item demographics test and gun appearance rate rebalancing. ([#73037](https://github.com/CleverRaven/Cataclysm-DDA/pull/73037))
 
 ---
@@ -220,5 +221,4 @@
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
 * Update the spelling dictionary for #72924 ([#72926](https://github.com/CleverRaven/Cataclysm-DDA/pull/72926))
 * Improve spell checker tokenization and reporting ([#72924](https://github.com/CleverRaven/Cataclysm-DDA/pull/72924))
-* Bugfix for UPS being effectively always on after first activation ([#72916](https://github.com/CleverRaven/Cataclysm-DDA/pull/72916))
 * Fix cast iron material weirdness ([#72929](https://github.com/CleverRaven/Cataclysm-DDA/pull/72929))
