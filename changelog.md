@@ -1,3 +1,4 @@
+* [MoM] Add `city_sizes` parameter to city buildings ([#73160](https://github.com/CleverRaven/Cataclysm-DDA/pull/73160))
 * Type and context in variables is no more ([#73146](https://github.com/CleverRaven/Cataclysm-DDA/pull/73146))
 * Hunt down the freezer ([#73048](https://github.com/CleverRaven/Cataclysm-DDA/pull/73048))
 * Bird Audit - Passerines ([#73087](https://github.com/CleverRaven/Cataclysm-DDA/pull/73087))
@@ -213,7 +214,6 @@
 * debug_mon -> pseudo_debug_mon ([#72945](https://github.com/CleverRaven/Cataclysm-DDA/pull/72945))
 * [MoM] Photokinetic gets it's welding glare protection ([#72935](https://github.com/CleverRaven/Cataclysm-DDA/pull/72935))
 * Fixing a crash related to an item unable to determine the appropriate pocket to be placed into  ([#72942](https://github.com/CleverRaven/Cataclysm-DDA/pull/72942))
-* Spelling and text consistency fixes ([#72910](https://github.com/CleverRaven/Cataclysm-DDA/pull/72910))
 * Categorize colander as tool ([#72933](https://github.com/CleverRaven/Cataclysm-DDA/pull/72933))
 * A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
