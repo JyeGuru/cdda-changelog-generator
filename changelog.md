@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-22-0601 ([6797b1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-22-0601))
+
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
 * Item demographics test and gun appearance rate rebalancing. ([#73037](https://github.com/CleverRaven/Cataclysm-DDA/pull/73037))
 
@@ -186,7 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-04-15-0051 ([065774f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-15-0051))
 
 * Fixed issue where ImGui popup does not correctly set the default option ([#72983](https://github.com/CleverRaven/Cataclysm-DDA/pull/72983))
-* Don't crash when forest mapgen requests groundcover from a biome with no groundcover ([#72918](https://github.com/CleverRaven/Cataclysm-DDA/pull/72918))
 * Fixed issue where ImGui windows display wrong when window is scaled ([#72971](https://github.com/CleverRaven/Cataclysm-DDA/pull/72971))
 
 ---
@@ -195,11 +199,6 @@
 
 * Fix attack speed test failures ([#72997](https://github.com/CleverRaven/Cataclysm-DDA/pull/72997))
 * make integrated_photo_eyes SEMITANGIBLE ([#72998](https://github.com/CleverRaven/Cataclysm-DDA/pull/72998))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-14-1503 ([4a328a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-14-1503))
-
 * Remove unused/already jsonized hardcoded monster attacks ([#73004](https://github.com/CleverRaven/Cataclysm-DDA/pull/73004))
 * Obsolete radiation zombies ([#72978](https://github.com/CleverRaven/Cataclysm-DDA/pull/72978))
 * Fixed collapse_check logic ([#72962](https://github.com/CleverRaven/Cataclysm-DDA/pull/72962))
