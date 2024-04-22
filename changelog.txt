@@ -1,3 +1,4 @@
+* Item demographics test and gun appearance rate rebalancing. (#73037)
 
 Cataclysm-DDA experimental build 2024-04-22-0317 (365b9ee)
 * [MoM] Add `city_sizes` parameter to city buildings (#73160)
@@ -139,7 +140,6 @@ Cataclysm-DDA experimental build 2024-04-14-1503 (4a328a6)
 * Categorize colander as tool (#72933)
 * A bunch of random item reworks: 12 (#72931)
 * Fixing ImGui windows size issues and input issues (#72936)
-* Debug option to write file with list of cities located on current overmap (#72912)
 * Update the spelling dictionary for #72924 (#72926)
 * Improve spell checker tokenization and reporting (#72924)
 * Bugfix for UPS being effectively always on after first activation (#72916)

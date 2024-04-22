@@ -1,3 +1,4 @@
+* Item demographics test and gun appearance rate rebalancing. ([#73037](https://github.com/CleverRaven/Cataclysm-DDA/pull/73037))
 
 ---
 
@@ -217,7 +218,6 @@
 * Categorize colander as tool ([#72933](https://github.com/CleverRaven/Cataclysm-DDA/pull/72933))
 * A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
-* Debug option to write file with list of cities located on current overmap ([#72912](https://github.com/CleverRaven/Cataclysm-DDA/pull/72912))
 * Update the spelling dictionary for #72924 ([#72926](https://github.com/CleverRaven/Cataclysm-DDA/pull/72926))
 * Improve spell checker tokenization and reporting ([#72924](https://github.com/CleverRaven/Cataclysm-DDA/pull/72924))
 * Bugfix for UPS being effectively always on after first activation ([#72916](https://github.com/CleverRaven/Cataclysm-DDA/pull/72916))
