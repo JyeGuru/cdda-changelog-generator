@@ -1,3 +1,11 @@
+* Add a keybinding for "Supernatural Abilities" aka spellcasting ([#73163](https://github.com/CleverRaven/Cataclysm-DDA/pull/73163))
+* Replace `price` and `price_postapoc` int with string ([#73195](https://github.com/CleverRaven/Cataclysm-DDA/pull/73195))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-23-1301 ([9251ce4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-23-1301))
+
+* Incompatible tools only pop out from workstations, not from other vehicle parts on the same tile ([#73170](https://github.com/CleverRaven/Cataclysm-DDA/pull/73170))
 
 ---
 
@@ -190,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2024-04-15-2256 ([aeba95b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-15-2256))
 
 * [DinoMod] Add physiology proficiency training to all monsters ([#73042](https://github.com/CleverRaven/Cataclysm-DDA/pull/73042))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-15-0327 ([ef202a4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-15-0327))
-
 * Remove some nonsensical items from school chemistry labs ([#73026](https://github.com/CleverRaven/Cataclysm-DDA/pull/73026))
 * Fixed an oopsie where keybindings UI doesn't process the + key ([#72985](https://github.com/CleverRaven/Cataclysm-DDA/pull/72985))
 * Unhardcode dead vegetation extras ([#73022](https://github.com/CleverRaven/Cataclysm-DDA/pull/73022))
@@ -212,10 +215,7 @@
 * Pain is less painful ([#72955](https://github.com/CleverRaven/Cataclysm-DDA/pull/72955))
 * [Bombastic Perks] Add more perks ([#72940](https://github.com/CleverRaven/Cataclysm-DDA/pull/72940))
 * Cleanup unused stuff in mapgen_functions.cpp ([#72954](https://github.com/CleverRaven/Cataclysm-DDA/pull/72954))
-* Enable ImGui UI globally, remove legacy popup and keybindings UI ([#72937](https://github.com/CleverRaven/Cataclysm-DDA/pull/72937))
 * [MoM] Account for painkiller in pain disabling powers ([#72939](https://github.com/CleverRaven/Cataclysm-DDA/pull/72939))
 * Remove bonus damages from .38/7.62x39 guns ([#72941](https://github.com/CleverRaven/Cataclysm-DDA/pull/72941))
 * debug_mon -> pseudo_debug_mon ([#72945](https://github.com/CleverRaven/Cataclysm-DDA/pull/72945))
-* [MoM] Photokinetic gets it's welding glare protection ([#72935](https://github.com/CleverRaven/Cataclysm-DDA/pull/72935))
 * Fixing a crash related to an item unable to determine the appropriate pocket to be placed into  ([#72942](https://github.com/CleverRaven/Cataclysm-DDA/pull/72942))
-* Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
