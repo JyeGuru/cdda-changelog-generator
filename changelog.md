@@ -1,3 +1,4 @@
+* Honk your clown nose ([#73165](https://github.com/CleverRaven/Cataclysm-DDA/pull/73165))
 * Update the table of contents in doc/JSON_INFO.md ([#73182](https://github.com/CleverRaven/Cataclysm-DDA/pull/73182))
 * AIM: when cannot wear, try to wield ([#73181](https://github.com/CleverRaven/Cataclysm-DDA/pull/73181))
 * know recipe? always ask group ([#73103](https://github.com/CleverRaven/Cataclysm-DDA/pull/73103))
@@ -217,5 +218,4 @@
 * [MoM] Photokinetic gets it's welding glare protection ([#72935](https://github.com/CleverRaven/Cataclysm-DDA/pull/72935))
 * Fixing a crash related to an item unable to determine the appropriate pocket to be placed into  ([#72942](https://github.com/CleverRaven/Cataclysm-DDA/pull/72942))
 * Categorize colander as tool ([#72933](https://github.com/CleverRaven/Cataclysm-DDA/pull/72933))
-* A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
