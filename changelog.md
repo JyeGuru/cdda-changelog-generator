@@ -1,3 +1,6 @@
+* Scope lighthouse quest variables to NPC, not global ([#73097](https://github.com/CleverRaven/Cataclysm-DDA/pull/73097))
+* choose-crafter-kb ([#73100](https://github.com/CleverRaven/Cataclysm-DDA/pull/73100))
+* d for debug (keybinding) ([#73113](https://github.com/CleverRaven/Cataclysm-DDA/pull/73113))
 * Add a keybinding for "Supernatural Abilities" aka spellcasting ([#73163](https://github.com/CleverRaven/Cataclysm-DDA/pull/73163))
 * Replace `price` and `price_postapoc` int with string ([#73195](https://github.com/CleverRaven/Cataclysm-DDA/pull/73195))
 
@@ -213,9 +216,6 @@
 * Remove city_center, simplify mx_fungal_zone ([#73001](https://github.com/CleverRaven/Cataclysm-DDA/pull/73001))
 * Shoggoths can't eat anomalous material ([#72957](https://github.com/CleverRaven/Cataclysm-DDA/pull/72957))
 * Pain is less painful ([#72955](https://github.com/CleverRaven/Cataclysm-DDA/pull/72955))
-* [Bombastic Perks] Add more perks ([#72940](https://github.com/CleverRaven/Cataclysm-DDA/pull/72940))
 * Cleanup unused stuff in mapgen_functions.cpp ([#72954](https://github.com/CleverRaven/Cataclysm-DDA/pull/72954))
-* [MoM] Account for painkiller in pain disabling powers ([#72939](https://github.com/CleverRaven/Cataclysm-DDA/pull/72939))
-* Remove bonus damages from .38/7.62x39 guns ([#72941](https://github.com/CleverRaven/Cataclysm-DDA/pull/72941))
 * debug_mon -> pseudo_debug_mon ([#72945](https://github.com/CleverRaven/Cataclysm-DDA/pull/72945))
 * Fixing a crash related to an item unable to determine the appropriate pocket to be placed into  ([#72942](https://github.com/CleverRaven/Cataclysm-DDA/pull/72942))
