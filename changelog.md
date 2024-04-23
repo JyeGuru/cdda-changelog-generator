@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-23-0642 ([a662bd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-23-0642))
+
 * Boozeberry enjoyability fix ([#73024](https://github.com/CleverRaven/Cataclysm-DDA/pull/73024))
 * Honk your clown nose ([#73165](https://github.com/CleverRaven/Cataclysm-DDA/pull/73165))
 * Update the table of contents in doc/JSON_INFO.md ([#73182](https://github.com/CleverRaven/Cataclysm-DDA/pull/73182))
@@ -193,11 +198,6 @@
 * Remove some nonsensical items from school chemistry labs ([#73026](https://github.com/CleverRaven/Cataclysm-DDA/pull/73026))
 * Fixed an oopsie where keybindings UI doesn't process the + key ([#72985](https://github.com/CleverRaven/Cataclysm-DDA/pull/72985))
 * Unhardcode dead vegetation extras ([#73022](https://github.com/CleverRaven/Cataclysm-DDA/pull/73022))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-15-0051 ([065774f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-15-0051))
-
 * Fixed issue where ImGui popup does not correctly set the default option ([#72983](https://github.com/CleverRaven/Cataclysm-DDA/pull/72983))
 * Fixed issue where ImGui windows display wrong when window is scaled ([#72971](https://github.com/CleverRaven/Cataclysm-DDA/pull/72971))
 * Fix attack speed test failures ([#72997](https://github.com/CleverRaven/Cataclysm-DDA/pull/72997))
