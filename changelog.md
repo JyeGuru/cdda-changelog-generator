@@ -195,11 +195,6 @@
 * [Bombastic Perks] Add Stormwrought line of playstyle perks ([#72963](https://github.com/CleverRaven/Cataclysm-DDA/pull/72963))
 * [Xedra Evolved] More paraclesian powers ([#73009](https://github.com/CleverRaven/Cataclysm-DDA/pull/73009))
 * Fix segfault-causing error in _characters_nearby ([#73041](https://github.com/CleverRaven/Cataclysm-DDA/pull/73041))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-16-0221 ([d9e550e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-0221))
-
 * extend clothes for lumberjack NPCs ([#73032](https://github.com/CleverRaven/Cataclysm-DDA/pull/73032))
 * [DinoMod] Add physiology proficiency training to all monsters ([#73042](https://github.com/CleverRaven/Cataclysm-DDA/pull/73042))
 * Remove some nonsensical items from school chemistry labs ([#73026](https://github.com/CleverRaven/Cataclysm-DDA/pull/73026))
