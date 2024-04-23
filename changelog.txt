@@ -1,3 +1,4 @@
+* Add a new LMOE mapgen layout. (#73199)
 
 Cataclysm-DDA experimental build 2024-04-23-1536 (2e32db9)
 * Scope lighthouse quest variables to NPC, not global (#73097)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-04-16-0221 (d9e550e)
 * Pain is less painful (#72955)
 * Cleanup unused stuff in mapgen_functions.cpp (#72954)
 * debug_mon -> pseudo_debug_mon (#72945)
-* Fixing a crash related to an item unable to determine the appropriate pocket to be placed into  (#72942)

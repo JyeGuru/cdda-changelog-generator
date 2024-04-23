@@ -1,3 +1,4 @@
+* Add a new LMOE mapgen layout. ([#73199](https://github.com/CleverRaven/Cataclysm-DDA/pull/73199))
 
 ---
 
@@ -218,4 +219,3 @@
 * Pain is less painful ([#72955](https://github.com/CleverRaven/Cataclysm-DDA/pull/72955))
 * Cleanup unused stuff in mapgen_functions.cpp ([#72954](https://github.com/CleverRaven/Cataclysm-DDA/pull/72954))
 * debug_mon -> pseudo_debug_mon ([#72945](https://github.com/CleverRaven/Cataclysm-DDA/pull/72945))
-* Fixing a crash related to an item unable to determine the appropriate pocket to be placed into  ([#72942](https://github.com/CleverRaven/Cataclysm-DDA/pull/72942))
