@@ -1,3 +1,11 @@
+* [MoM] Reduce feral telekinetic shove distances ([#73177](https://github.com/CleverRaven/Cataclysm-DDA/pull/73177))
+* [MoM] Rework Far Hand into the "Move items" power and Force Shove into the "move creatures" power ([#73162](https://github.com/CleverRaven/Cataclysm-DDA/pull/73162))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-23-0405 ([7f16ac8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-23-0405))
+
+* calorie related math effect ([#73136](https://github.com/CleverRaven/Cataclysm-DDA/pull/73136))
 
 ---
 
@@ -214,5 +222,4 @@
 * A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
 * Update the spelling dictionary for #72924 ([#72926](https://github.com/CleverRaven/Cataclysm-DDA/pull/72926))
-* Improve spell checker tokenization and reporting ([#72924](https://github.com/CleverRaven/Cataclysm-DDA/pull/72924))
 * Fix cast iron material weirdness ([#72929](https://github.com/CleverRaven/Cataclysm-DDA/pull/72929))

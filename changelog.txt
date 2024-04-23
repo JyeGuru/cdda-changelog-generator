@@ -1,3 +1,8 @@
+* [MoM] Reduce feral telekinetic shove distances (#73177)
+* [MoM] Rework Far Hand into the "Move items" power and Force Shove into the "move creatures" power (#73162)
+
+Cataclysm-DDA experimental build 2024-04-23-0405 (7f16ac8)
+* calorie related math effect (#73136)
 
 Cataclysm-DDA experimental build 2024-04-22-1537 (a60d305)
 * don't trickle fast imgui inputs (#73180)
@@ -139,5 +144,4 @@ Cataclysm-DDA experimental build 2024-04-15-0051 (065774f)
 * A bunch of random item reworks: 12 (#72931)
 * Fixing ImGui windows size issues and input issues (#72936)
 * Update the spelling dictionary for #72924 (#72926)
-* Improve spell checker tokenization and reporting (#72924)
 * Fix cast iron material weirdness (#72929)
