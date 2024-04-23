@@ -1,3 +1,7 @@
+* Update the table of contents in doc/JSON_INFO.md ([#73182](https://github.com/CleverRaven/Cataclysm-DDA/pull/73182))
+* AIM: when cannot wear, try to wield ([#73181](https://github.com/CleverRaven/Cataclysm-DDA/pull/73181))
+* know recipe? always ask group ([#73103](https://github.com/CleverRaven/Cataclysm-DDA/pull/73103))
+* display fridge is a base item of a display fridge ([#73196](https://github.com/CleverRaven/Cataclysm-DDA/pull/73196))
 * [MoM] Reduce feral telekinetic shove distances ([#73177](https://github.com/CleverRaven/Cataclysm-DDA/pull/73177))
 * [MoM] Rework Far Hand into the "Move items" power and Force Shove into the "move creatures" power ([#73162](https://github.com/CleverRaven/Cataclysm-DDA/pull/73162))
 
@@ -120,12 +124,6 @@
 
 * Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
 * Properly handle default_clause without text in translation string extractor ([#72992](https://github.com/CleverRaven/Cataclysm-DDA/pull/72992))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-18-0624 ([5b6b22d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-18-0624))
-
-* Retain hole construction ([#72927](https://github.com/CleverRaven/Cataclysm-DDA/pull/72927))
 * You can shatter zombies' torso armour by hitting them real hard. ([#72974](https://github.com/CleverRaven/Cataclysm-DDA/pull/72974))
 * Small scale anaerobic digestion system ([#72987](https://github.com/CleverRaven/Cataclysm-DDA/pull/72987))
 * Allow the Chimera thershold trait as a wildcard for most postthresh traits ([#72994](https://github.com/CleverRaven/Cataclysm-DDA/pull/72994))
@@ -221,5 +219,3 @@
 * Categorize colander as tool ([#72933](https://github.com/CleverRaven/Cataclysm-DDA/pull/72933))
 * A bunch of random item reworks: 12 ([#72931](https://github.com/CleverRaven/Cataclysm-DDA/pull/72931))
 * Fixing ImGui windows size issues and input issues ([#72936](https://github.com/CleverRaven/Cataclysm-DDA/pull/72936))
-* Update the spelling dictionary for #72924 ([#72926](https://github.com/CleverRaven/Cataclysm-DDA/pull/72926))
-* Fix cast iron material weirdness ([#72929](https://github.com/CleverRaven/Cataclysm-DDA/pull/72929))
