@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-23-1536 ([2e32db9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-23-1536))
+
 * Scope lighthouse quest variables to NPC, not global ([#73097](https://github.com/CleverRaven/Cataclysm-DDA/pull/73097))
 * choose-crafter-kb ([#73100](https://github.com/CleverRaven/Cataclysm-DDA/pull/73100))
 * d for debug (keybinding) ([#73113](https://github.com/CleverRaven/Cataclysm-DDA/pull/73113))
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-04-16-0221 ([d9e550e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-0221))
 
 * extend clothes for lumberjack NPCs ([#73032](https://github.com/CleverRaven/Cataclysm-DDA/pull/73032))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-15-2256 ([aeba95b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-15-2256))
-
 * [DinoMod] Add physiology proficiency training to all monsters ([#73042](https://github.com/CleverRaven/Cataclysm-DDA/pull/73042))
 * Remove some nonsensical items from school chemistry labs ([#73026](https://github.com/CleverRaven/Cataclysm-DDA/pull/73026))
 * Fixed an oopsie where keybindings UI doesn't process the + key ([#72985](https://github.com/CleverRaven/Cataclysm-DDA/pull/72985))

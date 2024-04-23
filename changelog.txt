@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-23-1536 (2e32db9)
 * Scope lighthouse quest variables to NPC, not global (#73097)
 * choose-crafter-kb (#73100)
 * d for debug (keybinding) (#73113)
@@ -123,8 +125,6 @@ Cataclysm-DDA experimental build 2024-04-16-0453 (64f6f5f)
 
 Cataclysm-DDA experimental build 2024-04-16-0221 (d9e550e)
 * extend clothes for lumberjack NPCs (#73032)
-
-Cataclysm-DDA experimental build 2024-04-15-2256 (aeba95b)
 * [DinoMod] Add physiology proficiency training to all monsters (#73042)
 * Remove some nonsensical items from school chemistry labs (#73026)
 * Fixed an oopsie where keybindings UI doesn't process the + key (#72985)
