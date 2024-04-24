@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-24-1353 ([f733682](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-24-1353))
+
+* Eeeeven MOOORE mission context dialogue for Liam. ([#73184](https://github.com/CleverRaven/Cataclysm-DDA/pull/73184))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-24-0616 ([4551df2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-24-0616))
 
 * Edit candles to be slightly more realistic ([#73204](https://github.com/CleverRaven/Cataclysm-DDA/pull/73204))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-04-17-0140 ([0853a71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-17-0140))
 
 * Pigeon reproduction + Foundations for future bird audit ([#73057](https://github.com/CleverRaven/Cataclysm-DDA/pull/73057))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-16-1009 ([73b6cf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-1009))
-
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
 * [Magiclysm] Update conjuration spells with scaling modifier ([#72967](https://github.com/CleverRaven/Cataclysm-DDA/pull/72967))
 * Worm Spawn Map Extra ([#72975](https://github.com/CleverRaven/Cataclysm-DDA/pull/72975))
@@ -219,4 +220,3 @@
 * Remove city_center, simplify mx_fungal_zone ([#73001](https://github.com/CleverRaven/Cataclysm-DDA/pull/73001))
 * Shoggoths can't eat anomalous material ([#72957](https://github.com/CleverRaven/Cataclysm-DDA/pull/72957))
 * Pain is less painful ([#72955](https://github.com/CleverRaven/Cataclysm-DDA/pull/72955))
-* Cleanup unused stuff in mapgen_functions.cpp ([#72954](https://github.com/CleverRaven/Cataclysm-DDA/pull/72954))
