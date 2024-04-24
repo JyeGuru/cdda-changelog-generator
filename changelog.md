@@ -195,7 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-04-16-1009 ([73b6cf7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-1009))
 
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
-* Brigandine Gloves Un-Palmening ([#72952](https://github.com/CleverRaven/Cataclysm-DDA/pull/72952))
 * [Magiclysm] Update conjuration spells with scaling modifier ([#72967](https://github.com/CleverRaven/Cataclysm-DDA/pull/72967))
 * Worm Spawn Map Extra ([#72975](https://github.com/CleverRaven/Cataclysm-DDA/pull/72975))
 * Minor generic zombie balance edits 5 ([#72979](https://github.com/CleverRaven/Cataclysm-DDA/pull/72979))

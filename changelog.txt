@@ -120,7 +120,6 @@ Cataclysm-DDA experimental build 2024-04-17-0140 (0853a71)
 
 Cataclysm-DDA experimental build 2024-04-16-1009 (73b6cf7)
 * IWYU `src` folder A-F files (#73040)
-* Brigandine Gloves Un-Palmening (#72952)
 * [Magiclysm] Update conjuration spells with scaling modifier (#72967)
 * Worm Spawn Map Extra (#72975)
 * Minor generic zombie balance edits 5 (#72979)
