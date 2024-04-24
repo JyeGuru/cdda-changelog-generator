@@ -1,3 +1,4 @@
+* Edit candles to be slightly more realistic ([#73204](https://github.com/CleverRaven/Cataclysm-DDA/pull/73204))
 * Sky Island: fix double colon in the expedition timer ([#73212](https://github.com/CleverRaven/Cataclysm-DDA/pull/73212))
 
 ---
