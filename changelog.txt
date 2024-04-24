@@ -1,3 +1,7 @@
+* Sky Island: fix double colon in the expedition timer (#73212)
+
+Cataclysm-DDA experimental build 2024-04-24-0354 (ed9bc5a)
+* fix copper cable drop from fridges (#73214)
 * Add a new LMOE mapgen layout. (#73199)
 
 Cataclysm-DDA experimental build 2024-04-23-1536 (2e32db9)
@@ -118,8 +122,6 @@ Cataclysm-DDA experimental build 2024-04-16-1009 (73b6cf7)
 * Worm Spawn Map Extra (#72975)
 * Minor generic zombie balance edits 5 (#72979)
 * Routine i18n updates on 13 April 2024 (#72990)
-
-Cataclysm-DDA experimental build 2024-04-16-0453 (64f6f5f)
 * [Bombastic Perks] Add Stormwrought line of playstyle perks (#72963)
 * [Xedra Evolved] More paraclesian powers (#73009)
 * Fix segfault-causing error in _characters_nearby (#73041)
@@ -141,4 +143,3 @@ Cataclysm-DDA experimental build 2024-04-16-0453 (64f6f5f)
 * Shoggoths can't eat anomalous material (#72957)
 * Pain is less painful (#72955)
 * Cleanup unused stuff in mapgen_functions.cpp (#72954)
-* debug_mon -> pseudo_debug_mon (#72945)

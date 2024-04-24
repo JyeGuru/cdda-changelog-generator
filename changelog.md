@@ -1,3 +1,10 @@
+* Sky Island: fix double colon in the expedition timer ([#73212](https://github.com/CleverRaven/Cataclysm-DDA/pull/73212))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-24-0354 ([ed9bc5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-24-0354))
+
+* fix copper cable drop from fridges ([#73214](https://github.com/CleverRaven/Cataclysm-DDA/pull/73214))
 * Add a new LMOE mapgen layout. ([#73199](https://github.com/CleverRaven/Cataclysm-DDA/pull/73199))
 
 ---
@@ -187,11 +194,6 @@
 * Worm Spawn Map Extra ([#72975](https://github.com/CleverRaven/Cataclysm-DDA/pull/72975))
 * Minor generic zombie balance edits 5 ([#72979](https://github.com/CleverRaven/Cataclysm-DDA/pull/72979))
 * Routine i18n updates on 13 April 2024 ([#72990](https://github.com/CleverRaven/Cataclysm-DDA/pull/72990))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-16-0453 ([64f6f5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-16-0453))
-
 * [Bombastic Perks] Add Stormwrought line of playstyle perks ([#72963](https://github.com/CleverRaven/Cataclysm-DDA/pull/72963))
 * [Xedra Evolved] More paraclesian powers ([#73009](https://github.com/CleverRaven/Cataclysm-DDA/pull/73009))
 * Fix segfault-causing error in _characters_nearby ([#73041](https://github.com/CleverRaven/Cataclysm-DDA/pull/73041))
@@ -213,4 +215,3 @@
 * Shoggoths can't eat anomalous material ([#72957](https://github.com/CleverRaven/Cataclysm-DDA/pull/72957))
 * Pain is less painful ([#72955](https://github.com/CleverRaven/Cataclysm-DDA/pull/72955))
 * Cleanup unused stuff in mapgen_functions.cpp ([#72954](https://github.com/CleverRaven/Cataclysm-DDA/pull/72954))
-* debug_mon -> pseudo_debug_mon ([#72945](https://github.com/CleverRaven/Cataclysm-DDA/pull/72945))
