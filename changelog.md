@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-24-0616 ([4551df2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-24-0616))
+
 * Edit candles to be slightly more realistic ([#73204](https://github.com/CleverRaven/Cataclysm-DDA/pull/73204))
 * Sky Island: fix double colon in the expedition timer ([#73212](https://github.com/CleverRaven/Cataclysm-DDA/pull/73212))
 

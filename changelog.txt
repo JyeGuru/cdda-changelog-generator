@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-24-0616 (4551df2)
 * Edit candles to be slightly more realistic (#73204)
 * Sky Island: fix double colon in the expedition timer (#73212)
 
