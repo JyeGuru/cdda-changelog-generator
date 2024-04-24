@@ -1,3 +1,4 @@
+* [Magiclysm] Tune conveyance spells with scaling modifier (#73225)
 
 Cataclysm-DDA experimental build 2024-04-24-1353 (f733682)
 * Eeeeven MOOORE mission context dialogue for Liam. (#73184)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2024-04-17-0140 (0853a71)
 * Fix grapplers not being able to pull you (#73005)
 * Remove city_center, simplify mx_fungal_zone (#73001)
 * Shoggoths can't eat anomalous material (#72957)
-* Pain is less painful (#72955)

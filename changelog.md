@@ -1,3 +1,4 @@
+* [Magiclysm] Tune conveyance spells with scaling modifier ([#73225](https://github.com/CleverRaven/Cataclysm-DDA/pull/73225))
 
 ---
 
@@ -219,4 +220,3 @@
 * Fix grapplers not being able to pull you ([#73005](https://github.com/CleverRaven/Cataclysm-DDA/pull/73005))
 * Remove city_center, simplify mx_fungal_zone ([#73001](https://github.com/CleverRaven/Cataclysm-DDA/pull/73001))
 * Shoggoths can't eat anomalous material ([#72957](https://github.com/CleverRaven/Cataclysm-DDA/pull/72957))
-* Pain is less painful ([#72955](https://github.com/CleverRaven/Cataclysm-DDA/pull/72955))
