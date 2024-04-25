@@ -192,7 +192,6 @@
 * killed monster can run EoC directly ([#73080](https://github.com/CleverRaven/Cataclysm-DDA/pull/73080))
 * Pigeon reproduction + Foundations for future bird audit ([#73057](https://github.com/CleverRaven/Cataclysm-DDA/pull/73057))
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
-* Worm Spawn Map Extra ([#72975](https://github.com/CleverRaven/Cataclysm-DDA/pull/72975))
 * Minor generic zombie balance edits 5 ([#72979](https://github.com/CleverRaven/Cataclysm-DDA/pull/72979))
 * Routine i18n updates on 13 April 2024 ([#72990](https://github.com/CleverRaven/Cataclysm-DDA/pull/72990))
 * [Xedra Evolved] More paraclesian powers ([#73009](https://github.com/CleverRaven/Cataclysm-DDA/pull/73009))
