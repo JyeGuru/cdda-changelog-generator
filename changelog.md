@@ -1,3 +1,11 @@
+* A brief digression to improve Isherwood dialogue ([#73153](https://github.com/CleverRaven/Cataclysm-DDA/pull/73153))
+* Make the game angry if ``luminance`` is defined as the default value ([#72995](https://github.com/CleverRaven/Cataclysm-DDA/pull/72995))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-25-0021 ([0b056b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-25-0021))
+
+* [MoM] Add the Megakinesis telekinetic power ([#73215](https://github.com/CleverRaven/Cataclysm-DDA/pull/73215))
 * [Magiclysm] Tune conveyance spells with scaling modifier ([#73225](https://github.com/CleverRaven/Cataclysm-DDA/pull/73225))
 
 ---
@@ -184,11 +192,6 @@
 * Documentation update in light of #73004 ([#73066](https://github.com/CleverRaven/Cataclysm-DDA/pull/73066))
 * Add more English names and their translations to Simplified Chinese and Japanese ([#73077](https://github.com/CleverRaven/Cataclysm-DDA/pull/73077))
 * Miscellaneous mutant invertebrate cleanup ([#73078](https://github.com/CleverRaven/Cataclysm-DDA/pull/73078))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-18-0039 ([5401efb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-18-0039))
-
 * killed monster can run EoC directly ([#73080](https://github.com/CleverRaven/Cataclysm-DDA/pull/73080))
 * Pigeon reproduction + Foundations for future bird audit ([#73057](https://github.com/CleverRaven/Cataclysm-DDA/pull/73057))
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
@@ -210,8 +213,6 @@
 * make integrated_photo_eyes SEMITANGIBLE ([#72998](https://github.com/CleverRaven/Cataclysm-DDA/pull/72998))
 * Remove unused/already jsonized hardcoded monster attacks ([#73004](https://github.com/CleverRaven/Cataclysm-DDA/pull/73004))
 * Obsolete radiation zombies ([#72978](https://github.com/CleverRaven/Cataclysm-DDA/pull/72978))
-* Fixed collapse_check logic ([#72962](https://github.com/CleverRaven/Cataclysm-DDA/pull/72962))
 * Propagate `IMGUI_DISABLE_OBSOLETE_KEYIO` definition to dependent targets ([#72999](https://github.com/CleverRaven/Cataclysm-DDA/pull/72999))
 * Fix grapplers not being able to pull you ([#73005](https://github.com/CleverRaven/Cataclysm-DDA/pull/73005))
 * Remove city_center, simplify mx_fungal_zone ([#73001](https://github.com/CleverRaven/Cataclysm-DDA/pull/73001))
-* Shoggoths can't eat anomalous material ([#72957](https://github.com/CleverRaven/Cataclysm-DDA/pull/72957))
