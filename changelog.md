@@ -1,3 +1,5 @@
+* Fix typo that made abandoned cabins and nursing home labs much more common ([#73248](https://github.com/CleverRaven/Cataclysm-DDA/pull/73248))
+* [Sky Island] Add buildable north chamber missions and mapgen ([#73241](https://github.com/CleverRaven/Cataclysm-DDA/pull/73241))
 * A brief digression to improve Isherwood dialogue ([#73153](https://github.com/CleverRaven/Cataclysm-DDA/pull/73153))
 * Make the game angry if ``luminance`` is defined as the default value ([#72995](https://github.com/CleverRaven/Cataclysm-DDA/pull/72995))
 
@@ -195,11 +197,9 @@
 * killed monster can run EoC directly ([#73080](https://github.com/CleverRaven/Cataclysm-DDA/pull/73080))
 * Pigeon reproduction + Foundations for future bird audit ([#73057](https://github.com/CleverRaven/Cataclysm-DDA/pull/73057))
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
-* [Magiclysm] Update conjuration spells with scaling modifier ([#72967](https://github.com/CleverRaven/Cataclysm-DDA/pull/72967))
 * Worm Spawn Map Extra ([#72975](https://github.com/CleverRaven/Cataclysm-DDA/pull/72975))
 * Minor generic zombie balance edits 5 ([#72979](https://github.com/CleverRaven/Cataclysm-DDA/pull/72979))
 * Routine i18n updates on 13 April 2024 ([#72990](https://github.com/CleverRaven/Cataclysm-DDA/pull/72990))
-* [Bombastic Perks] Add Stormwrought line of playstyle perks ([#72963](https://github.com/CleverRaven/Cataclysm-DDA/pull/72963))
 * [Xedra Evolved] More paraclesian powers ([#73009](https://github.com/CleverRaven/Cataclysm-DDA/pull/73009))
 * Fix segfault-causing error in _characters_nearby ([#73041](https://github.com/CleverRaven/Cataclysm-DDA/pull/73041))
 * extend clothes for lumberjack NPCs ([#73032](https://github.com/CleverRaven/Cataclysm-DDA/pull/73032))
