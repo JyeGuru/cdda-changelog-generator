@@ -184,11 +184,6 @@
 * Fix shotgun speedloader ([#73043](https://github.com/CleverRaven/Cataclysm-DDA/pull/73043))
 * delete (empty) src/mission_end.cpp ([#73088](https://github.com/CleverRaven/Cataclysm-DDA/pull/73088))
 * Crops will overgrow/die if not harvested in time ([#73081](https://github.com/CleverRaven/Cataclysm-DDA/pull/73081))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-18-0354 ([cd18044](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-18-0354))
-
 * Minor generic zombie balance edits 6 ([#73059](https://github.com/CleverRaven/Cataclysm-DDA/pull/73059))
 * fix mobile sidebar label translation ([#73060](https://github.com/CleverRaven/Cataclysm-DDA/pull/73060))
 * Documentation update in light of #73004 ([#73066](https://github.com/CleverRaven/Cataclysm-DDA/pull/73066))
