@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-25-0752 ([6a11e3a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-25-0752))
+
 * Shrink jmapgen int ([#73229](https://github.com/CleverRaven/Cataclysm-DDA/pull/73229))
 * Fix typo that made abandoned cabins and nursing home labs much more common ([#73248](https://github.com/CleverRaven/Cataclysm-DDA/pull/73248))
 * [Sky Island] Add buildable north chamber missions and mapgen ([#73241](https://github.com/CleverRaven/Cataclysm-DDA/pull/73241))
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-04-19-0153 ([c04ee7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-0153))
 
 * [Bombastic Perks] Yet more perks ([#73044](https://github.com/CleverRaven/Cataclysm-DDA/pull/73044))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-18-1441 ([5aaf8fd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-18-1441))
-
 * Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
 * Properly handle default_clause without text in translation string extractor ([#72992](https://github.com/CleverRaven/Cataclysm-DDA/pull/72992))
 * You can shatter zombies' torso armour by hitting them real hard. ([#72974](https://github.com/CleverRaven/Cataclysm-DDA/pull/72974))
