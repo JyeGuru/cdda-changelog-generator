@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-25-2051 (7636bcc)
 * Quick wormy fixes (#73265)
 
 Cataclysm-DDA experimental build 2024-04-25-0752 (6a11e3a)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2024-04-19-0435 (d30757e)
 * remove chunk charges (#73104)
 * Modify comment in weather.h (#73111)
 * Add myself as codeowner of gun variant script (#73110)
-
-Cataclysm-DDA experimental build 2024-04-19-0153 (c04ee7d)
 * [Bombastic Perks] Yet more perks (#73044)
 * Fix include error (#73093)
 * Properly handle default_clause without text in translation string extractor (#72992)

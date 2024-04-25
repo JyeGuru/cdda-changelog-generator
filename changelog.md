@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-25-2051 ([7636bcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-25-2051))
+
 * Quick wormy fixes ([#73265](https://github.com/CleverRaven/Cataclysm-DDA/pull/73265))
 
 ---
@@ -172,11 +177,6 @@
 * remove chunk charges ([#73104](https://github.com/CleverRaven/Cataclysm-DDA/pull/73104))
 * Modify comment in weather.h ([#73111](https://github.com/CleverRaven/Cataclysm-DDA/pull/73111))
 * Add myself as codeowner of gun variant script ([#73110](https://github.com/CleverRaven/Cataclysm-DDA/pull/73110))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-19-0153 ([c04ee7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-0153))
-
 * [Bombastic Perks] Yet more perks ([#73044](https://github.com/CleverRaven/Cataclysm-DDA/pull/73044))
 * Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
 * Properly handle default_clause without text in translation string extractor ([#72992](https://github.com/CleverRaven/Cataclysm-DDA/pull/72992))
