@@ -179,7 +179,6 @@
 * [Bombastic Perks] Yet more perks ([#73044](https://github.com/CleverRaven/Cataclysm-DDA/pull/73044))
 * Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
 * Properly handle default_clause without text in translation string extractor ([#72992](https://github.com/CleverRaven/Cataclysm-DDA/pull/72992))
-* You can shatter zombies' torso armour by hitting them real hard. ([#72974](https://github.com/CleverRaven/Cataclysm-DDA/pull/72974))
 * Small scale anaerobic digestion system ([#72987](https://github.com/CleverRaven/Cataclysm-DDA/pull/72987))
 * Allow the Chimera thershold trait as a wildcard for most postthresh traits ([#72994](https://github.com/CleverRaven/Cataclysm-DDA/pull/72994))
 * Fix shotgun speedloader ([#73043](https://github.com/CleverRaven/Cataclysm-DDA/pull/73043))
