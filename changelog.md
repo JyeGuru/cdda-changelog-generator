@@ -1,3 +1,4 @@
+* Shrink jmapgen int ([#73229](https://github.com/CleverRaven/Cataclysm-DDA/pull/73229))
 * Fix typo that made abandoned cabins and nursing home labs much more common ([#73248](https://github.com/CleverRaven/Cataclysm-DDA/pull/73248))
 * [Sky Island] Add buildable north chamber missions and mapgen ([#73241](https://github.com/CleverRaven/Cataclysm-DDA/pull/73241))
 * A brief digression to improve Isherwood dialogue ([#73153](https://github.com/CleverRaven/Cataclysm-DDA/pull/73153))
@@ -203,7 +204,6 @@
 * Fixed an oopsie where keybindings UI doesn't process the + key ([#72985](https://github.com/CleverRaven/Cataclysm-DDA/pull/72985))
 * Unhardcode dead vegetation extras ([#73022](https://github.com/CleverRaven/Cataclysm-DDA/pull/73022))
 * Fixed issue where ImGui popup does not correctly set the default option ([#72983](https://github.com/CleverRaven/Cataclysm-DDA/pull/72983))
-* Fixed issue where ImGui windows display wrong when window is scaled ([#72971](https://github.com/CleverRaven/Cataclysm-DDA/pull/72971))
 * Fix attack speed test failures ([#72997](https://github.com/CleverRaven/Cataclysm-DDA/pull/72997))
 * make integrated_photo_eyes SEMITANGIBLE ([#72998](https://github.com/CleverRaven/Cataclysm-DDA/pull/72998))
 * Remove unused/already jsonized hardcoded monster attacks ([#73004](https://github.com/CleverRaven/Cataclysm-DDA/pull/73004))
