@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-26-2336 (5ce0a13)
 * Implemented scaffolding + doc (#73232)
 * Mass replacement of 'bag_plastic', more variance in powdered goods spawns (#73253)
 
@@ -114,8 +116,6 @@ Cataclysm-DDA experimental build 2024-04-20-2123 (9b63d8c)
 * Fix overloaded definition for bungalow22 and incorrect definition for house22 (#73144)
 * docs: clear up outdated info about grab_strength (#73141)
 * Not to try to unload when bow not loaded. (#73148)
-
-Cataclysm-DDA experimental build 2024-04-20-1851 (f32b285)
 * Routine i18n updates on 20 April 2024 (#73143)
 * Fix typos and plurals (#73065)
 * Adds lots of mission-specific and chat dialogue for Liam (#73108)

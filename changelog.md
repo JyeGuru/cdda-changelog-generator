@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-26-2336 ([5ce0a13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-2336))
+
 * Implemented scaffolding + doc ([#73232](https://github.com/CleverRaven/Cataclysm-DDA/pull/73232))
 * Mass replacement of 'bag_plastic', more variance in powdered goods spawns ([#73253](https://github.com/CleverRaven/Cataclysm-DDA/pull/73253))
 
@@ -180,11 +185,6 @@
 * Fix overloaded definition for bungalow22 and incorrect definition for house22 ([#73144](https://github.com/CleverRaven/Cataclysm-DDA/pull/73144))
 * docs: clear up outdated info about grab_strength ([#73141](https://github.com/CleverRaven/Cataclysm-DDA/pull/73141))
 * Not to try to unload when bow not loaded. ([#73148](https://github.com/CleverRaven/Cataclysm-DDA/pull/73148))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-20-1851 ([f32b285](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-20-1851))
-
 * Routine i18n updates on 20 April 2024 ([#73143](https://github.com/CleverRaven/Cataclysm-DDA/pull/73143))
 * Fix typos and plurals ([#73065](https://github.com/CleverRaven/Cataclysm-DDA/pull/73065))
 * Adds lots of mission-specific and chat dialogue for Liam ([#73108](https://github.com/CleverRaven/Cataclysm-DDA/pull/73108))
