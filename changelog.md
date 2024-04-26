@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-26-2043 ([682d4fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-2043))
+
 * Fixed segfault when an NPC completes a pickup after a player has already taken it ([#73275](https://github.com/CleverRaven/Cataclysm-DDA/pull/73275))
 * Next major step for rubik's third mission ([#73221](https://github.com/CleverRaven/Cataclysm-DDA/pull/73221))
 
