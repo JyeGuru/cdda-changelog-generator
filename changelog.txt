@@ -1,3 +1,4 @@
+* [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff (#73276)
 
 Cataclysm-DDA experimental build 2024-04-26-0317 (69ce71d)
 * [Magiclysm] Migrate Gluttonous Consumption spell to effect-only (#73255)
@@ -133,7 +134,6 @@ Cataclysm-DDA experimental build 2024-04-19-1444 (1e92462)
 * Remove some nonsensical items from school chemistry labs (#73026)
 * Fixed an oopsie where keybindings UI doesn't process the + key (#72985)
 * Unhardcode dead vegetation extras (#73022)
-* Fixed issue where ImGui popup does not correctly set the default option (#72983)
 * Fix attack speed test failures (#72997)
 * make integrated_photo_eyes SEMITANGIBLE (#72998)
 * Remove unused/already jsonized hardcoded monster attacks (#73004)
