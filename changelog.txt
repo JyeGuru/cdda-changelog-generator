@@ -1,3 +1,5 @@
+* Fixed segfault when an NPC completes a pickup after a player has already taken it (#73275)
+* Next major step for rubik's third mission (#73221)
 
 Cataclysm-DDA experimental build 2024-04-26-1727 (db07d05)
 * Add cropped top and hoodie (#73291)
@@ -133,7 +135,6 @@ Cataclysm-DDA experimental build 2024-04-20-1851 (f32b285)
 * killed monster can run EoC directly (#73080)
 * Pigeon reproduction + Foundations for future bird audit (#73057)
 * IWYU `src` folder A-F files (#73040)
-* [Xedra Evolved] More paraclesian powers (#73009)
 * Fix segfault-causing error in _characters_nearby (#73041)
 * extend clothes for lumberjack NPCs (#73032)
 * [DinoMod] Add physiology proficiency training to all monsters (#73042)

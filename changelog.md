@@ -1,3 +1,5 @@
+* Fixed segfault when an NPC completes a pickup after a player has already taken it ([#73275](https://github.com/CleverRaven/Cataclysm-DDA/pull/73275))
+* Next major step for rubik's third mission ([#73221](https://github.com/CleverRaven/Cataclysm-DDA/pull/73221))
 
 ---
 
@@ -202,7 +204,6 @@
 * killed monster can run EoC directly ([#73080](https://github.com/CleverRaven/Cataclysm-DDA/pull/73080))
 * Pigeon reproduction + Foundations for future bird audit ([#73057](https://github.com/CleverRaven/Cataclysm-DDA/pull/73057))
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
-* [Xedra Evolved] More paraclesian powers ([#73009](https://github.com/CleverRaven/Cataclysm-DDA/pull/73009))
 * Fix segfault-causing error in _characters_nearby ([#73041](https://github.com/CleverRaven/Cataclysm-DDA/pull/73041))
 * extend clothes for lumberjack NPCs ([#73032](https://github.com/CleverRaven/Cataclysm-DDA/pull/73032))
 * [DinoMod] Add physiology proficiency training to all monsters ([#73042](https://github.com/CleverRaven/Cataclysm-DDA/pull/73042))
