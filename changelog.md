@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-26-0317 ([69ce71d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-0317))
+
+* [Magiclysm] Migrate Gluttonous Consumption spell to effect-only ([#73255](https://github.com/CleverRaven/Cataclysm-DDA/pull/73255))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-25-2051 ([7636bcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-25-2051))
 
 * Quick wormy fixes ([#73265](https://github.com/CleverRaven/Cataclysm-DDA/pull/73265))
@@ -169,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-04-19-1444 ([1e92462](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-1444))
 
 * [MoM] Add zombie breaker, change MoM zombies to copy-from mon_zombie_base ([#73114](https://github.com/CleverRaven/Cataclysm-DDA/pull/73114))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-19-0435 ([d30757e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-0435))
-
 * remove chunk charges ([#73104](https://github.com/CleverRaven/Cataclysm-DDA/pull/73104))
 * Modify comment in weather.h ([#73111](https://github.com/CleverRaven/Cataclysm-DDA/pull/73111))
 * Add myself as codeowner of gun variant script ([#73110](https://github.com/CleverRaven/Cataclysm-DDA/pull/73110))
@@ -193,7 +194,6 @@
 * killed monster can run EoC directly ([#73080](https://github.com/CleverRaven/Cataclysm-DDA/pull/73080))
 * Pigeon reproduction + Foundations for future bird audit ([#73057](https://github.com/CleverRaven/Cataclysm-DDA/pull/73057))
 * IWYU `src` folder A-F files ([#73040](https://github.com/CleverRaven/Cataclysm-DDA/pull/73040))
-* Minor generic zombie balance edits 5 ([#72979](https://github.com/CleverRaven/Cataclysm-DDA/pull/72979))
 * Routine i18n updates on 13 April 2024 ([#72990](https://github.com/CleverRaven/Cataclysm-DDA/pull/72990))
 * [Xedra Evolved] More paraclesian powers ([#73009](https://github.com/CleverRaven/Cataclysm-DDA/pull/73009))
 * Fix segfault-causing error in _characters_nearby ([#73041](https://github.com/CleverRaven/Cataclysm-DDA/pull/73041))
