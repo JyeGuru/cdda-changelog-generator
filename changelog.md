@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-26-1727 ([db07d05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-1727))
+
 * Add cropped top and hoodie ([#73291](https://github.com/CleverRaven/Cataclysm-DDA/pull/73291))
 * [MoM] Fix Force Shove, Force Shove downs targets ([#73274](https://github.com/CleverRaven/Cataclysm-DDA/pull/73274))
 * Add missing period to book description ([#73289](https://github.com/CleverRaven/Cataclysm-DDA/pull/73289))
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-04-20-1851 ([f32b285](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-20-1851))
 
 * Routine i18n updates on 20 April 2024 ([#73143](https://github.com/CleverRaven/Cataclysm-DDA/pull/73143))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-19-2301 ([449edb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-2301))
-
 * Fix typos and plurals ([#73065](https://github.com/CleverRaven/Cataclysm-DDA/pull/73065))
 * Adds lots of mission-specific and chat dialogue for Liam ([#73108](https://github.com/CleverRaven/Cataclysm-DDA/pull/73108))
 * [MoM] Add zombie breaker, change MoM zombies to copy-from mon_zombie_base ([#73114](https://github.com/CleverRaven/Cataclysm-DDA/pull/73114))
