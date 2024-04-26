@@ -1,3 +1,5 @@
+* 1L Silver Ingot should have "material" property of silver instead of lead ([#73263](https://github.com/CleverRaven/Cataclysm-DDA/pull/73263))
+* Not to use meat chunks in the smoking rack ([#73234](https://github.com/CleverRaven/Cataclysm-DDA/pull/73234))
 * put new fridges on the maps ([#73250](https://github.com/CleverRaven/Cataclysm-DDA/pull/73250))
 * Adjust MOLLE pouch prices ([#73257](https://github.com/CleverRaven/Cataclysm-DDA/pull/73257))
 * [MoM] Add actual fear effect to Primal Terror telepathic power ([#73266](https://github.com/CleverRaven/Cataclysm-DDA/pull/73266))
@@ -24,7 +26,6 @@
 * Fix typo that made abandoned cabins and nursing home labs much more common ([#73248](https://github.com/CleverRaven/Cataclysm-DDA/pull/73248))
 * [Sky Island] Add buildable north chamber missions and mapgen ([#73241](https://github.com/CleverRaven/Cataclysm-DDA/pull/73241))
 * A brief digression to improve Isherwood dialogue ([#73153](https://github.com/CleverRaven/Cataclysm-DDA/pull/73153))
-* Make the game angry if ``luminance`` is defined as the default value ([#72995](https://github.com/CleverRaven/Cataclysm-DDA/pull/72995))
 
 ---
 
@@ -185,7 +186,6 @@
 * Add myself as codeowner of gun variant script ([#73110](https://github.com/CleverRaven/Cataclysm-DDA/pull/73110))
 * [Bombastic Perks] Yet more perks ([#73044](https://github.com/CleverRaven/Cataclysm-DDA/pull/73044))
 * Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
-* Allow the Chimera thershold trait as a wildcard for most postthresh traits ([#72994](https://github.com/CleverRaven/Cataclysm-DDA/pull/72994))
 * Fix shotgun speedloader ([#73043](https://github.com/CleverRaven/Cataclysm-DDA/pull/73043))
 * delete (empty) src/mission_end.cpp ([#73088](https://github.com/CleverRaven/Cataclysm-DDA/pull/73088))
 * Crops will overgrow/die if not harvested in time ([#73081](https://github.com/CleverRaven/Cataclysm-DDA/pull/73081))
@@ -203,7 +203,6 @@
 * [DinoMod] Add physiology proficiency training to all monsters ([#73042](https://github.com/CleverRaven/Cataclysm-DDA/pull/73042))
 * Remove some nonsensical items from school chemistry labs ([#73026](https://github.com/CleverRaven/Cataclysm-DDA/pull/73026))
 * Unhardcode dead vegetation extras ([#73022](https://github.com/CleverRaven/Cataclysm-DDA/pull/73022))
-* Fix attack speed test failures ([#72997](https://github.com/CleverRaven/Cataclysm-DDA/pull/72997))
 * make integrated_photo_eyes SEMITANGIBLE ([#72998](https://github.com/CleverRaven/Cataclysm-DDA/pull/72998))
 * Remove unused/already jsonized hardcoded monster attacks ([#73004](https://github.com/CleverRaven/Cataclysm-DDA/pull/73004))
 * Propagate `IMGUI_DISABLE_OBSOLETE_KEYIO` definition to dependent targets ([#72999](https://github.com/CleverRaven/Cataclysm-DDA/pull/72999))
