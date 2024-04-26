@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-26-0553 ([49ac595](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-0553))
+
 * 1L Silver Ingot should have "material" property of silver instead of lead ([#73263](https://github.com/CleverRaven/Cataclysm-DDA/pull/73263))
 * Not to use meat chunks in the smoking rack ([#73234](https://github.com/CleverRaven/Cataclysm-DDA/pull/73234))
 * put new fridges on the maps ([#73250](https://github.com/CleverRaven/Cataclysm-DDA/pull/73250))
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-04-19-1721 ([9137309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-1721))
 
 * Adds lots of mission-specific and chat dialogue for Liam ([#73108](https://github.com/CleverRaven/Cataclysm-DDA/pull/73108))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-19-1444 ([1e92462](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-1444))
-
 * [MoM] Add zombie breaker, change MoM zombies to copy-from mon_zombie_base ([#73114](https://github.com/CleverRaven/Cataclysm-DDA/pull/73114))
 * remove chunk charges ([#73104](https://github.com/CleverRaven/Cataclysm-DDA/pull/73104))
 * Modify comment in weather.h ([#73111](https://github.com/CleverRaven/Cataclysm-DDA/pull/73111))
