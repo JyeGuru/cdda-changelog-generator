@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-26-1401 ([810fe83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-1401))
+
+* Update Cureall Effect ([#73285](https://github.com/CleverRaven/Cataclysm-DDA/pull/73285))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-26-0553 ([49ac595](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-0553))
 
 * 1L Silver Ingot should have "material" property of silver instead of lead ([#73263](https://github.com/CleverRaven/Cataclysm-DDA/pull/73263))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-04-19-2301 ([449edb2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-2301))
 
 * Fix typos and plurals ([#73065](https://github.com/CleverRaven/Cataclysm-DDA/pull/73065))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-19-1721 ([9137309](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-19-1721))
-
 * Adds lots of mission-specific and chat dialogue for Liam ([#73108](https://github.com/CleverRaven/Cataclysm-DDA/pull/73108))
 * [MoM] Add zombie breaker, change MoM zombies to copy-from mon_zombie_base ([#73114](https://github.com/CleverRaven/Cataclysm-DDA/pull/73114))
 * remove chunk charges ([#73104](https://github.com/CleverRaven/Cataclysm-DDA/pull/73104))
@@ -203,7 +204,6 @@
 * [DinoMod] Add physiology proficiency training to all monsters ([#73042](https://github.com/CleverRaven/Cataclysm-DDA/pull/73042))
 * Remove some nonsensical items from school chemistry labs ([#73026](https://github.com/CleverRaven/Cataclysm-DDA/pull/73026))
 * Unhardcode dead vegetation extras ([#73022](https://github.com/CleverRaven/Cataclysm-DDA/pull/73022))
-* make integrated_photo_eyes SEMITANGIBLE ([#72998](https://github.com/CleverRaven/Cataclysm-DDA/pull/72998))
 * Remove unused/already jsonized hardcoded monster attacks ([#73004](https://github.com/CleverRaven/Cataclysm-DDA/pull/73004))
 * Propagate `IMGUI_DISABLE_OBSOLETE_KEYIO` definition to dependent targets ([#72999](https://github.com/CleverRaven/Cataclysm-DDA/pull/72999))
 * Fix grapplers not being able to pull you ([#73005](https://github.com/CleverRaven/Cataclysm-DDA/pull/73005))
