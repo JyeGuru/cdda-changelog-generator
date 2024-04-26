@@ -1,3 +1,4 @@
+* Implemented scaffolding + doc ([#73232](https://github.com/CleverRaven/Cataclysm-DDA/pull/73232))
 * Mass replacement of 'bag_plastic', more variance in powdered goods spawns ([#73253](https://github.com/CleverRaven/Cataclysm-DDA/pull/73253))
 
 ---
@@ -97,12 +98,6 @@
 #### Cataclysm-DDA experimental build 2024-04-23-1301 ([9251ce4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-23-1301))
 
 * Incompatible tools only pop out from workstations, not from other vehicle parts on the same tile ([#73170](https://github.com/CleverRaven/Cataclysm-DDA/pull/73170))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-23-0642 ([a662bd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-23-0642))
-
-* Boozeberry enjoyability fix ([#73024](https://github.com/CleverRaven/Cataclysm-DDA/pull/73024))
 * Honk your clown nose ([#73165](https://github.com/CleverRaven/Cataclysm-DDA/pull/73165))
 * Update the table of contents in doc/JSON_INFO.md ([#73182](https://github.com/CleverRaven/Cataclysm-DDA/pull/73182))
 * AIM: when cannot wear, try to wield ([#73181](https://github.com/CleverRaven/Cataclysm-DDA/pull/73181))

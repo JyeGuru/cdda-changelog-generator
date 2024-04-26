@@ -1,3 +1,4 @@
+* Implemented scaffolding + doc (#73232)
 * Mass replacement of 'bag_plastic', more variance in powdered goods spawns (#73253)
 
 Cataclysm-DDA experimental build 2024-04-26-2043 (682d4fb)
@@ -58,9 +59,6 @@ Cataclysm-DDA experimental build 2024-04-23-1536 (2e32db9)
 
 Cataclysm-DDA experimental build 2024-04-23-1301 (9251ce4)
 * Incompatible tools only pop out from workstations, not from other vehicle parts on the same tile (#73170)
-
-Cataclysm-DDA experimental build 2024-04-23-0642 (a662bd5)
-* Boozeberry enjoyability fix (#73024)
 * Honk your clown nose (#73165)
 * Update the table of contents in doc/JSON_INFO.md (#73182)
 * AIM: when cannot wear, try to wield (#73181)
