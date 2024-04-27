@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-27-2050 (173615a)
+* remove empty item group entry from sugar_various (#73323)
+
 Cataclysm-DDA experimental build 2024-04-27-1035 (0e4a71b)
 * Added code to restore the terminal state on crash on curses (#73272)
 
@@ -94,16 +97,11 @@ Cataclysm-DDA experimental build 2024-04-22-0317 (365b9ee)
 * Hunt down the freezer (#73048)
 * Bird Audit - Passerines (#73087)
 * Do not count magazine as pocket in the pickup inventory (#73107)
-
-Cataclysm-DDA experimental build 2024-04-21-2338 (bd04204)
-* Weekly Changelog 2024-04-08 to 2024-04-15 (#73034)
 * `Can't see` doesn't close the crafting GUI (#73117)
 * add "Forget all recipes" to debug menu (#73168)
 * Documentation fixes (#73166)
 * Random minor JSON adjustments (#73169)
 * [DinoMod] skeletal looks_like fix (#73174)
-
-Cataclysm-DDA experimental build 2024-04-21-1559 (874122c)
 * [Sky Island] Add west bunker room upgrades to possible missions (#73161)
 * mom: good rating for successful contemplation message (#73157)
 * Tweak spawns of hidden lab under retirement home (#73154)
