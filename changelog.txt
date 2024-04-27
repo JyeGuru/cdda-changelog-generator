@@ -1,3 +1,4 @@
+* missing looks_like (#73318)
 
 Cataclysm-DDA experimental build 2024-04-27-2050 (173615a)
 * remove empty item group entry from sugar_various (#73323)
@@ -89,7 +90,6 @@ Cataclysm-DDA experimental build 2024-04-22-1537 (a60d305)
 
 Cataclysm-DDA experimental build 2024-04-22-0601 (6797b1d)
 * [Sky Island] Add east bunker room upgrades to possible missions  (#73178)
-* Item demographics test and gun appearance rate rebalancing. (#73037)
 
 Cataclysm-DDA experimental build 2024-04-22-0317 (365b9ee)
 * [MoM] Add `city_sizes` parameter to city buildings (#73160)

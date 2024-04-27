@@ -1,3 +1,4 @@
+* missing looks_like ([#73318](https://github.com/CleverRaven/Cataclysm-DDA/pull/73318))
 
 ---
 
@@ -152,7 +153,6 @@
 #### Cataclysm-DDA experimental build 2024-04-22-0601 ([6797b1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-22-0601))
 
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
-* Item demographics test and gun appearance rate rebalancing. ([#73037](https://github.com/CleverRaven/Cataclysm-DDA/pull/73037))
 
 ---
 
