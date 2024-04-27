@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-27-2312 ([da07b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-2312))
+
 * Bow reload time fix ([#73305](https://github.com/CleverRaven/Cataclysm-DDA/pull/73305))
 * Add a new label for Extra Mutated Scenarios and make it also add the mutation label ([#73292](https://github.com/CleverRaven/Cataclysm-DDA/pull/73292))
 * remove count-min and count-max ([#73304](https://github.com/CleverRaven/Cataclysm-DDA/pull/73304))

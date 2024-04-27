@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-27-2312 (da07b2a)
 * Bow reload time fix (#73305)
 * Add a new label for Extra Mutated Scenarios and make it also add the mutation label (#73292)
 * remove count-min and count-max (#73304)
