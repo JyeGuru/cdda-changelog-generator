@@ -1,3 +1,10 @@
+* Added code to restore the terminal state on crash on curses ([#73272](https://github.com/CleverRaven/Cataclysm-DDA/pull/73272))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-27-0815 ([7e7510c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-0815))
+
+* fix lieutenant popup query ([#73296](https://github.com/CleverRaven/Cataclysm-DDA/pull/73296))
 
 ---
 
@@ -162,13 +169,7 @@
 #### Cataclysm-DDA experimental build 2024-04-21-1559 ([874122c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-21-1559))
 
 * [Sky Island] Add west bunker room upgrades to possible missions ([#73161](https://github.com/CleverRaven/Cataclysm-DDA/pull/73161))
-* [DinoMod] falcarius ([#73027](https://github.com/CleverRaven/Cataclysm-DDA/pull/73027))
 * mom: good rating for successful contemplation message ([#73157](https://github.com/CleverRaven/Cataclysm-DDA/pull/73157))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-21-0451 ([82b4514](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-21-0451))
-
 * Tweak spawns of hidden lab under retirement home ([#73154](https://github.com/CleverRaven/Cataclysm-DDA/pull/73154))
 * Fix split vehicles always using the incorrect pivot point ([#73055](https://github.com/CleverRaven/Cataclysm-DDA/pull/73055))
 * Add XL and XS versions for french maid clothes/aprons/hats ([#73122](https://github.com/CleverRaven/Cataclysm-DDA/pull/73122))
@@ -203,4 +204,3 @@
 * Fix segfault-causing error in _characters_nearby ([#73041](https://github.com/CleverRaven/Cataclysm-DDA/pull/73041))
 * extend clothes for lumberjack NPCs ([#73032](https://github.com/CleverRaven/Cataclysm-DDA/pull/73032))
 * [DinoMod] Add physiology proficiency training to all monsters ([#73042](https://github.com/CleverRaven/Cataclysm-DDA/pull/73042))
-* Remove some nonsensical items from school chemistry labs ([#73026](https://github.com/CleverRaven/Cataclysm-DDA/pull/73026))
