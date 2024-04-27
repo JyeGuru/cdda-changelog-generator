@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-27-0230 ([27b977e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-0230))
+
 * Yrax Quadraphracts ([#73185](https://github.com/CleverRaven/Cataclysm-DDA/pull/73185))
 
 ---
@@ -177,11 +182,6 @@
 * Favorite ammo must be on the avatar. ([#73151](https://github.com/CleverRaven/Cataclysm-DDA/pull/73151))
 * More dialogue for Liam, keyed to specific missions ([#73133](https://github.com/CleverRaven/Cataclysm-DDA/pull/73133))
 * [MoM] Fix Force Shove to account for target weight ([#73137](https://github.com/CleverRaven/Cataclysm-DDA/pull/73137))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-20-2123 ([9b63d8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-20-2123))
-
 * Fix overloaded definition for bungalow22 and incorrect definition for house22 ([#73144](https://github.com/CleverRaven/Cataclysm-DDA/pull/73144))
 * docs: clear up outdated info about grab_strength ([#73141](https://github.com/CleverRaven/Cataclysm-DDA/pull/73141))
 * Not to try to unload when bow not loaded. ([#73148](https://github.com/CleverRaven/Cataclysm-DDA/pull/73148))

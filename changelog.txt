@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-27-0230 (27b977e)
 * Yrax Quadraphracts (#73185)
 
 Cataclysm-DDA experimental build 2024-04-26-2336 (5ce0a13)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2024-04-21-0009 (7531b85)
 * Favorite ammo must be on the avatar. (#73151)
 * More dialogue for Liam, keyed to specific missions (#73133)
 * [MoM] Fix Force Shove to account for target weight (#73137)
-
-Cataclysm-DDA experimental build 2024-04-20-2123 (9b63d8c)
 * Fix overloaded definition for bungalow22 and incorrect definition for house22 (#73144)
 * docs: clear up outdated info about grab_strength (#73141)
 * Not to try to unload when bow not loaded. (#73148)
