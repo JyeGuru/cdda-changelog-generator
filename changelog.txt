@@ -104,8 +104,6 @@ Cataclysm-DDA experimental build 2024-04-21-1559 (874122c)
 
 Cataclysm-DDA experimental build 2024-04-21-0451 (82b4514)
 * Tweak spawns of hidden lab under retirement home (#73154)
-
-Cataclysm-DDA experimental build 2024-04-21-0009 (7531b85)
 * Fix split vehicles always using the incorrect pivot point (#73055)
 * Add XL and XS versions for french maid clothes/aprons/hats (#73122)
 * Fix egg stack (#73127)

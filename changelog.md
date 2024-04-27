@@ -170,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2024-04-21-0451 ([82b4514](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-21-0451))
 
 * Tweak spawns of hidden lab under retirement home ([#73154](https://github.com/CleverRaven/Cataclysm-DDA/pull/73154))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-21-0009 ([7531b85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-21-0009))
-
 * Fix split vehicles always using the incorrect pivot point ([#73055](https://github.com/CleverRaven/Cataclysm-DDA/pull/73055))
 * Add XL and XS versions for french maid clothes/aprons/hats ([#73122](https://github.com/CleverRaven/Cataclysm-DDA/pull/73122))
 * Fix egg stack ([#73127](https://github.com/CleverRaven/Cataclysm-DDA/pull/73127))
