@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-27-1035 (0e4a71b)
 * Added code to restore the terminal state on crash on curses (#73272)
 
 Cataclysm-DDA experimental build 2024-04-27-0815 (7e7510c)
