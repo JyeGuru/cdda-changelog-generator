@@ -1,3 +1,4 @@
+* Yrax Quadraphracts (#73185)
 
 Cataclysm-DDA experimental build 2024-04-26-2336 (5ce0a13)
 * Implemented scaffolding + doc (#73232)
@@ -85,7 +86,6 @@ Cataclysm-DDA experimental build 2024-04-22-0317 (365b9ee)
 * Hunt down the freezer (#73048)
 * Bird Audit - Passerines (#73087)
 * Do not count magazine as pocket in the pickup inventory (#73107)
-* [Magiclysm] Technomancer pain ignore spell (#73025)
 
 Cataclysm-DDA experimental build 2024-04-21-2338 (bd04204)
 * Weekly Changelog 2024-04-08 to 2024-04-15 (#73034)

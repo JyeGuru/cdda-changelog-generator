@@ -1,3 +1,4 @@
+* Yrax Quadraphracts ([#73185](https://github.com/CleverRaven/Cataclysm-DDA/pull/73185))
 
 ---
 
@@ -139,7 +140,6 @@
 * Hunt down the freezer ([#73048](https://github.com/CleverRaven/Cataclysm-DDA/pull/73048))
 * Bird Audit - Passerines ([#73087](https://github.com/CleverRaven/Cataclysm-DDA/pull/73087))
 * Do not count magazine as pocket in the pickup inventory ([#73107](https://github.com/CleverRaven/Cataclysm-DDA/pull/73107))
-* [Magiclysm] Technomancer pain ignore spell ([#73025](https://github.com/CleverRaven/Cataclysm-DDA/pull/73025))
 
 ---
 
