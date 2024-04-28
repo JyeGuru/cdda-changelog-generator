@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-04-28-0239 (ed85b64)
+* Faster ascii overmap drawing (#73321)
+
 Cataclysm-DDA experimental build 2024-04-27-2312 (da07b2a)
 * Bow reload time fix (#73305)
 * Add a new label for Extra Mutated Scenarios and make it also add the mutation label (#73292)
@@ -134,7 +137,6 @@ Cataclysm-DDA experimental build 2024-04-22-0317 (365b9ee)
 * Fix include error (#73093)
 * delete (empty) src/mission_end.cpp (#73088)
 * Crops will overgrow/die if not harvested in time (#73081)
-* fix mobile sidebar label translation (#73060)
 * Documentation update in light of #73004 (#73066)
 * Add more English names and their translations to Simplified Chinese and Japanese (#73077)
 * Miscellaneous mutant invertebrate cleanup (#73078)

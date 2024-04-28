@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-28-0239 ([ed85b64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-0239))
+
+* Faster ascii overmap drawing ([#73321](https://github.com/CleverRaven/Cataclysm-DDA/pull/73321))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-27-2312 ([da07b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-2312))
 
 * Bow reload time fix ([#73305](https://github.com/CleverRaven/Cataclysm-DDA/pull/73305))
@@ -203,7 +209,6 @@
 * Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
 * delete (empty) src/mission_end.cpp ([#73088](https://github.com/CleverRaven/Cataclysm-DDA/pull/73088))
 * Crops will overgrow/die if not harvested in time ([#73081](https://github.com/CleverRaven/Cataclysm-DDA/pull/73081))
-* fix mobile sidebar label translation ([#73060](https://github.com/CleverRaven/Cataclysm-DDA/pull/73060))
 * Documentation update in light of #73004 ([#73066](https://github.com/CleverRaven/Cataclysm-DDA/pull/73066))
 * Add more English names and their translations to Simplified Chinese and Japanese ([#73077](https://github.com/CleverRaven/Cataclysm-DDA/pull/73077))
 * Miscellaneous mutant invertebrate cleanup ([#73078](https://github.com/CleverRaven/Cataclysm-DDA/pull/73078))
