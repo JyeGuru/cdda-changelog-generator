@@ -1,3 +1,5 @@
+* Make continuous integration artifacts always have full debuginfo ([#73240](https://github.com/CleverRaven/Cataclysm-DDA/pull/73240))
+* fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
 
 ---
 
@@ -200,7 +202,6 @@
 * docs: clear up outdated info about grab_strength ([#73141](https://github.com/CleverRaven/Cataclysm-DDA/pull/73141))
 * Not to try to unload when bow not loaded. ([#73148](https://github.com/CleverRaven/Cataclysm-DDA/pull/73148))
 * Routine i18n updates on 20 April 2024 ([#73143](https://github.com/CleverRaven/Cataclysm-DDA/pull/73143))
-* Fix typos and plurals ([#73065](https://github.com/CleverRaven/Cataclysm-DDA/pull/73065))
 * Adds lots of mission-specific and chat dialogue for Liam ([#73108](https://github.com/CleverRaven/Cataclysm-DDA/pull/73108))
 * [MoM] Add zombie breaker, change MoM zombies to copy-from mon_zombie_base ([#73114](https://github.com/CleverRaven/Cataclysm-DDA/pull/73114))
 * remove chunk charges ([#73104](https://github.com/CleverRaven/Cataclysm-DDA/pull/73104))
@@ -209,7 +210,6 @@
 * Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
 * delete (empty) src/mission_end.cpp ([#73088](https://github.com/CleverRaven/Cataclysm-DDA/pull/73088))
 * Crops will overgrow/die if not harvested in time ([#73081](https://github.com/CleverRaven/Cataclysm-DDA/pull/73081))
-* Documentation update in light of #73004 ([#73066](https://github.com/CleverRaven/Cataclysm-DDA/pull/73066))
 * Add more English names and their translations to Simplified Chinese and Japanese ([#73077](https://github.com/CleverRaven/Cataclysm-DDA/pull/73077))
 * Miscellaneous mutant invertebrate cleanup ([#73078](https://github.com/CleverRaven/Cataclysm-DDA/pull/73078))
 * killed monster can run EoC directly ([#73080](https://github.com/CleverRaven/Cataclysm-DDA/pull/73080))
