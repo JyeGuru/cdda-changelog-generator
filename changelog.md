@@ -1,4 +1,9 @@
 * Make continuous integration artifacts always have full debuginfo ([#73240](https://github.com/CleverRaven/Cataclysm-DDA/pull/73240))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-28-0522 ([9105f03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-0522))
+
 * fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
 
 ---
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-04-22-0601 ([6797b1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-22-0601))
 
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-22-0317 ([365b9ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-22-0317))
-
 * [MoM] Add `city_sizes` parameter to city buildings ([#73160](https://github.com/CleverRaven/Cataclysm-DDA/pull/73160))
 * Type and context in variables is no more ([#73146](https://github.com/CleverRaven/Cataclysm-DDA/pull/73146))
 * Bird Audit - Passerines ([#73087](https://github.com/CleverRaven/Cataclysm-DDA/pull/73087))

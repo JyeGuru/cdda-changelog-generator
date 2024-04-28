@@ -1,4 +1,6 @@
 * Make continuous integration artifacts always have full debuginfo (#73240)
+
+Cataclysm-DDA experimental build 2024-04-28-0522 (9105f03)
 * fix disappearing arrows (#73346)
 
 Cataclysm-DDA experimental build 2024-04-28-0239 (ed85b64)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2024-04-22-1537 (a60d305)
 
 Cataclysm-DDA experimental build 2024-04-22-0601 (6797b1d)
 * [Sky Island] Add east bunker room upgrades to possible missions  (#73178)
-
-Cataclysm-DDA experimental build 2024-04-22-0317 (365b9ee)
 * [MoM] Add `city_sizes` parameter to city buildings (#73160)
 * Type and context in variables is no more (#73146)
 * Bird Audit - Passerines (#73087)
