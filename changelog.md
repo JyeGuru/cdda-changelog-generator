@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-28-2104 ([1b82e68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-2104))
+
 * Adjust the overmap test to remove some failure modes and make it more robust ([#73339](https://github.com/CleverRaven/Cataclysm-DDA/pull/73339))
 
 ---
