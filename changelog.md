@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-28-1059 ([58f64c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-1059))
+
+* Make pupating explosion quieter ([#73338](https://github.com/CleverRaven/Cataclysm-DDA/pull/73338))
 * Make continuous integration artifacts always have full debuginfo ([#73240](https://github.com/CleverRaven/Cataclysm-DDA/pull/73240))
 
 ---
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-04-22-1537 ([a60d305](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-22-1537))
 
 * don't trickle fast imgui inputs ([#73180](https://github.com/CleverRaven/Cataclysm-DDA/pull/73180))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-22-0601 ([6797b1d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-22-0601))
-
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
 * [MoM] Add `city_sizes` parameter to city buildings ([#73160](https://github.com/CleverRaven/Cataclysm-DDA/pull/73160))
 * Type and context in variables is no more ([#73146](https://github.com/CleverRaven/Cataclysm-DDA/pull/73146))
@@ -210,5 +211,4 @@
 * Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
 * delete (empty) src/mission_end.cpp ([#73088](https://github.com/CleverRaven/Cataclysm-DDA/pull/73088))
 * Crops will overgrow/die if not harvested in time ([#73081](https://github.com/CleverRaven/Cataclysm-DDA/pull/73081))
-* Miscellaneous mutant invertebrate cleanup ([#73078](https://github.com/CleverRaven/Cataclysm-DDA/pull/73078))
 * killed monster can run EoC directly ([#73080](https://github.com/CleverRaven/Cataclysm-DDA/pull/73080))

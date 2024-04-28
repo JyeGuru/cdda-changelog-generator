@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-04-28-1059 (58f64c0)
+* Make pupating explosion quieter (#73338)
 * Make continuous integration artifacts always have full debuginfo (#73240)
 
 Cataclysm-DDA experimental build 2024-04-28-0522 (9105f03)
@@ -105,8 +108,6 @@ Cataclysm-DDA experimental build 2024-04-23-0405 (7f16ac8)
 
 Cataclysm-DDA experimental build 2024-04-22-1537 (a60d305)
 * don't trickle fast imgui inputs (#73180)
-
-Cataclysm-DDA experimental build 2024-04-22-0601 (6797b1d)
 * [Sky Island] Add east bunker room upgrades to possible missions  (#73178)
 * [MoM] Add `city_sizes` parameter to city buildings (#73160)
 * Type and context in variables is no more (#73146)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2024-04-22-0601 (6797b1d)
 * Fix include error (#73093)
 * delete (empty) src/mission_end.cpp (#73088)
 * Crops will overgrow/die if not harvested in time (#73081)
-* Miscellaneous mutant invertebrate cleanup (#73078)
 * killed monster can run EoC directly (#73080)
