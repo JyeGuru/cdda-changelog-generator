@@ -1,3 +1,4 @@
+* Adjust the overmap test to remove some failure modes and make it more robust ([#73339](https://github.com/CleverRaven/Cataclysm-DDA/pull/73339))
 
 ---
 
@@ -185,7 +186,6 @@
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
 * [MoM] Add `city_sizes` parameter to city buildings ([#73160](https://github.com/CleverRaven/Cataclysm-DDA/pull/73160))
 * Type and context in variables is no more ([#73146](https://github.com/CleverRaven/Cataclysm-DDA/pull/73146))
-* Bird Audit - Passerines ([#73087](https://github.com/CleverRaven/Cataclysm-DDA/pull/73087))
 * Do not count magazine as pocket in the pickup inventory ([#73107](https://github.com/CleverRaven/Cataclysm-DDA/pull/73107))
 * `Can't see` doesn't close the crafting GUI ([#73117](https://github.com/CleverRaven/Cataclysm-DDA/pull/73117))
 * add "Forget all recipes" to debug menu ([#73168](https://github.com/CleverRaven/Cataclysm-DDA/pull/73168))
