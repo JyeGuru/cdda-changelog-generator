@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-04-28-1436 ([99b4944](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-1436))
+
+* Aftershock: Magazine flag audit ([#73348](https://github.com/CleverRaven/Cataclysm-DDA/pull/73348))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-04-28-1059 ([58f64c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-1059))
 
 * Make pupating explosion quieter ([#73338](https://github.com/CleverRaven/Cataclysm-DDA/pull/73338))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-04-23-0405 ([7f16ac8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-23-0405))
 
 * calorie related math effect ([#73136](https://github.com/CleverRaven/Cataclysm-DDA/pull/73136))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-22-1537 ([a60d305](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-22-1537))
-
 * don't trickle fast imgui inputs ([#73180](https://github.com/CleverRaven/Cataclysm-DDA/pull/73180))
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
 * [MoM] Add `city_sizes` parameter to city buildings ([#73160](https://github.com/CleverRaven/Cataclysm-DDA/pull/73160))
@@ -211,4 +212,3 @@
 * Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
 * delete (empty) src/mission_end.cpp ([#73088](https://github.com/CleverRaven/Cataclysm-DDA/pull/73088))
 * Crops will overgrow/die if not harvested in time ([#73081](https://github.com/CleverRaven/Cataclysm-DDA/pull/73081))
-* killed monster can run EoC directly ([#73080](https://github.com/CleverRaven/Cataclysm-DDA/pull/73080))
