@@ -210,6 +210,5 @@
 * Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
 * delete (empty) src/mission_end.cpp ([#73088](https://github.com/CleverRaven/Cataclysm-DDA/pull/73088))
 * Crops will overgrow/die if not harvested in time ([#73081](https://github.com/CleverRaven/Cataclysm-DDA/pull/73081))
-* Add more English names and their translations to Simplified Chinese and Japanese ([#73077](https://github.com/CleverRaven/Cataclysm-DDA/pull/73077))
 * Miscellaneous mutant invertebrate cleanup ([#73078](https://github.com/CleverRaven/Cataclysm-DDA/pull/73078))
 * killed monster can run EoC directly ([#73080](https://github.com/CleverRaven/Cataclysm-DDA/pull/73080))
