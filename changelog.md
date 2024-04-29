@@ -1,3 +1,12 @@
+* Fix migration of predecessor overmap terrains ([#73286](https://github.com/CleverRaven/Cataclysm-DDA/pull/73286))
+* Both types of stone spears can now be taken apart ([#73300](https://github.com/CleverRaven/Cataclysm-DDA/pull/73300))
+* Fire axe consistency ([#73329](https://github.com/CleverRaven/Cataclysm-DDA/pull/73329))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-29-0129 ([933c6f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-29-0129))
+
+* Bugfix: Allow select-all when highlighted item is non-selectable ([#73343](https://github.com/CleverRaven/Cataclysm-DDA/pull/73343))
 
 ---
 
@@ -163,21 +172,9 @@
 
 * fix copper cable drop from fridges ([#73214](https://github.com/CleverRaven/Cataclysm-DDA/pull/73214))
 * Add a new LMOE mapgen layout. ([#73199](https://github.com/CleverRaven/Cataclysm-DDA/pull/73199))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-23-1536 ([2e32db9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-23-1536))
-
-* Scope lighthouse quest variables to NPC, not global ([#73097](https://github.com/CleverRaven/Cataclysm-DDA/pull/73097))
-* choose-crafter-kb ([#73100](https://github.com/CleverRaven/Cataclysm-DDA/pull/73100))
 * d for debug (keybinding) ([#73113](https://github.com/CleverRaven/Cataclysm-DDA/pull/73113))
 * Add a keybinding for "Supernatural Abilities" aka spellcasting ([#73163](https://github.com/CleverRaven/Cataclysm-DDA/pull/73163))
 * Replace `price` and `price_postapoc` int with string ([#73195](https://github.com/CleverRaven/Cataclysm-DDA/pull/73195))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-23-1301 ([9251ce4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-23-1301))
-
 * Incompatible tools only pop out from workstations, not from other vehicle parts on the same tile ([#73170](https://github.com/CleverRaven/Cataclysm-DDA/pull/73170))
 * Honk your clown nose ([#73165](https://github.com/CleverRaven/Cataclysm-DDA/pull/73165))
 * Update the table of contents in doc/JSON_INFO.md ([#73182](https://github.com/CleverRaven/Cataclysm-DDA/pull/73182))
@@ -215,5 +212,3 @@
 * remove chunk charges ([#73104](https://github.com/CleverRaven/Cataclysm-DDA/pull/73104))
 * Modify comment in weather.h ([#73111](https://github.com/CleverRaven/Cataclysm-DDA/pull/73111))
 * Add myself as codeowner of gun variant script ([#73110](https://github.com/CleverRaven/Cataclysm-DDA/pull/73110))
-* Fix include error ([#73093](https://github.com/CleverRaven/Cataclysm-DDA/pull/73093))
-* delete (empty) src/mission_end.cpp ([#73088](https://github.com/CleverRaven/Cataclysm-DDA/pull/73088))
