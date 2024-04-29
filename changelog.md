@@ -1,4 +1,9 @@
 * [Xedra Evolved] Move Paraclesian eye traits to Personal layer ([#73371](https://github.com/CleverRaven/Cataclysm-DDA/pull/73371))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-29-2047 ([1387468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-29-2047))
+
 * Eddie Can Talk About His Father ([#73383](https://github.com/CleverRaven/Cataclysm-DDA/pull/73383))
 * Fix migration of predecessor overmap terrains ([#73286](https://github.com/CleverRaven/Cataclysm-DDA/pull/73286))
 * Both types of stone spears can now be taken apart ([#73300](https://github.com/CleverRaven/Cataclysm-DDA/pull/73300))
