@@ -172,11 +172,6 @@
 
 * Edit candles to be slightly more realistic ([#73204](https://github.com/CleverRaven/Cataclysm-DDA/pull/73204))
 * Sky Island: fix double colon in the expedition timer ([#73212](https://github.com/CleverRaven/Cataclysm-DDA/pull/73212))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-24-0354 ([ed9bc5a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-24-0354))
-
 * fix copper cable drop from fridges ([#73214](https://github.com/CleverRaven/Cataclysm-DDA/pull/73214))
 * Add a new LMOE mapgen layout. ([#73199](https://github.com/CleverRaven/Cataclysm-DDA/pull/73199))
 * d for debug (keybinding) ([#73113](https://github.com/CleverRaven/Cataclysm-DDA/pull/73113))
