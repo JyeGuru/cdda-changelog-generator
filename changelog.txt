@@ -1,3 +1,4 @@
+* Edit shattering weakpoint (#73377)
 
 Cataclysm-DDA experimental build 2024-04-30-1711 (24ab07a)
 * Challenge start - hunted forever (#73227)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2024-04-25-0752 (6a11e3a)
 * mom: good rating for successful contemplation message (#73157)
 * Tweak spawns of hidden lab under retirement home (#73154)
 * Favorite ammo must be on the avatar. (#73151)
-* [MoM] Fix Force Shove to account for target weight (#73137)
 * Fix overloaded definition for bungalow22 and incorrect definition for house22 (#73144)
 * docs: clear up outdated info about grab_strength (#73141)
 * Not to try to unload when bow not loaded. (#73148)

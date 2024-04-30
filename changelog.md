@@ -1,3 +1,4 @@
+* Edit shattering weakpoint ([#73377](https://github.com/CleverRaven/Cataclysm-DDA/pull/73377))
 
 ---
 
@@ -212,7 +213,6 @@
 * mom: good rating for successful contemplation message ([#73157](https://github.com/CleverRaven/Cataclysm-DDA/pull/73157))
 * Tweak spawns of hidden lab under retirement home ([#73154](https://github.com/CleverRaven/Cataclysm-DDA/pull/73154))
 * Favorite ammo must be on the avatar. ([#73151](https://github.com/CleverRaven/Cataclysm-DDA/pull/73151))
-* [MoM] Fix Force Shove to account for target weight ([#73137](https://github.com/CleverRaven/Cataclysm-DDA/pull/73137))
 * Fix overloaded definition for bungalow22 and incorrect definition for house22 ([#73144](https://github.com/CleverRaven/Cataclysm-DDA/pull/73144))
 * docs: clear up outdated info about grab_strength ([#73141](https://github.com/CleverRaven/Cataclysm-DDA/pull/73141))
 * Not to try to unload when bow not loaded. ([#73148](https://github.com/CleverRaven/Cataclysm-DDA/pull/73148))
