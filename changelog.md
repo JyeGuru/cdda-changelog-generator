@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-30-1711 ([24ab07a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-1711))
+
 * Challenge start - hunted forever ([#73227](https://github.com/CleverRaven/Cataclysm-DDA/pull/73227))
 * [Magiclysm] Tune enhancement spells with scaling modifier ([#73139](https://github.com/CleverRaven/Cataclysm-DDA/pull/73139))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
@@ -179,11 +184,6 @@
 * Fix typo that made abandoned cabins and nursing home labs much more common ([#73248](https://github.com/CleverRaven/Cataclysm-DDA/pull/73248))
 * [Sky Island] Add buildable north chamber missions and mapgen ([#73241](https://github.com/CleverRaven/Cataclysm-DDA/pull/73241))
 * A brief digression to improve Isherwood dialogue ([#73153](https://github.com/CleverRaven/Cataclysm-DDA/pull/73153))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-25-0021 ([0b056b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-25-0021))
-
 * [MoM] Add the Megakinesis telekinetic power ([#73215](https://github.com/CleverRaven/Cataclysm-DDA/pull/73215))
 * [Magiclysm] Tune conveyance spells with scaling modifier ([#73225](https://github.com/CleverRaven/Cataclysm-DDA/pull/73225))
 * Eeeeven MOOORE mission context dialogue for Liam. ([#73184](https://github.com/CleverRaven/Cataclysm-DDA/pull/73184))
