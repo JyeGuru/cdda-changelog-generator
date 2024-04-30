@@ -1,3 +1,9 @@
+* You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-30-1406 ([0c76632](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-1406))
+
 * Make requirement groups for plastic recipes ([#73319](https://github.com/CleverRaven/Cataclysm-DDA/pull/73319))
 
 ---
@@ -204,7 +210,6 @@
 * [Sky Island] Add west bunker room upgrades to possible missions ([#73161](https://github.com/CleverRaven/Cataclysm-DDA/pull/73161))
 * mom: good rating for successful contemplation message ([#73157](https://github.com/CleverRaven/Cataclysm-DDA/pull/73157))
 * Tweak spawns of hidden lab under retirement home ([#73154](https://github.com/CleverRaven/Cataclysm-DDA/pull/73154))
-* [MoM] Add Astral Projection Clairsentient power ([#73128](https://github.com/CleverRaven/Cataclysm-DDA/pull/73128))
 * Favorite ammo must be on the avatar. ([#73151](https://github.com/CleverRaven/Cataclysm-DDA/pull/73151))
 * More dialogue for Liam, keyed to specific missions ([#73133](https://github.com/CleverRaven/Cataclysm-DDA/pull/73133))
 * [MoM] Fix Force Shove to account for target weight ([#73137](https://github.com/CleverRaven/Cataclysm-DDA/pull/73137))
