@@ -1,3 +1,4 @@
+* remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json ([#73320](https://github.com/CleverRaven/Cataclysm-DDA/pull/73320))
 * Update EOCs.json for sky island mod to correctly add/remove warp vortex token recipe ([#73271](https://github.com/CleverRaven/Cataclysm-DDA/pull/73271))
 * Add mushroom ketchup, fried pickled veggies and krampouezh ([#73301](https://github.com/CleverRaven/Cataclysm-DDA/pull/73301))
 * Aftershock: Blood bionics ([#73345](https://github.com/CleverRaven/Cataclysm-DDA/pull/73345))
@@ -202,7 +203,6 @@
 * [Sky Island] Add west bunker room upgrades to possible missions ([#73161](https://github.com/CleverRaven/Cataclysm-DDA/pull/73161))
 * mom: good rating for successful contemplation message ([#73157](https://github.com/CleverRaven/Cataclysm-DDA/pull/73157))
 * Tweak spawns of hidden lab under retirement home ([#73154](https://github.com/CleverRaven/Cataclysm-DDA/pull/73154))
-* Add XL and XS versions for french maid clothes/aprons/hats ([#73122](https://github.com/CleverRaven/Cataclysm-DDA/pull/73122))
 * Fix egg stack ([#73127](https://github.com/CleverRaven/Cataclysm-DDA/pull/73127))
 * [MoM] Add Astral Projection Clairsentient power ([#73128](https://github.com/CleverRaven/Cataclysm-DDA/pull/73128))
 * Favorite ammo must be on the avatar. ([#73151](https://github.com/CleverRaven/Cataclysm-DDA/pull/73151))
