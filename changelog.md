@@ -1,3 +1,4 @@
+* Challenge start - hunted forever ([#73227](https://github.com/CleverRaven/Cataclysm-DDA/pull/73227))
 * [Magiclysm] Tune enhancement spells with scaling modifier ([#73139](https://github.com/CleverRaven/Cataclysm-DDA/pull/73139))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
 
@@ -199,7 +200,6 @@
 * display fridge is a base item of a display fridge ([#73196](https://github.com/CleverRaven/Cataclysm-DDA/pull/73196))
 * [MoM] Reduce feral telekinetic shove distances ([#73177](https://github.com/CleverRaven/Cataclysm-DDA/pull/73177))
 * [MoM] Rework Far Hand into the "Move items" power and Force Shove into the "move creatures" power ([#73162](https://github.com/CleverRaven/Cataclysm-DDA/pull/73162))
-* calorie related math effect ([#73136](https://github.com/CleverRaven/Cataclysm-DDA/pull/73136))
 * don't trickle fast imgui inputs ([#73180](https://github.com/CleverRaven/Cataclysm-DDA/pull/73180))
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
 * [MoM] Add `city_sizes` parameter to city buildings ([#73160](https://github.com/CleverRaven/Cataclysm-DDA/pull/73160))
