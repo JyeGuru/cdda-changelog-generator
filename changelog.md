@@ -10,7 +10,6 @@
 #### Cataclysm-DDA experimental build 2024-04-30-1711 ([24ab07a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-1711))
 
 * Challenge start - hunted forever ([#73227](https://github.com/CleverRaven/Cataclysm-DDA/pull/73227))
-* [Magiclysm] Tune enhancement spells with scaling modifier ([#73139](https://github.com/CleverRaven/Cataclysm-DDA/pull/73139))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
 
 ---

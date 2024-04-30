@@ -4,7 +4,6 @@ Cataclysm-DDA experimental build 2024-04-30-2145 (838790c)
 
 Cataclysm-DDA experimental build 2024-04-30-1711 (24ab07a)
 * Challenge start - hunted forever (#73227)
-* [Magiclysm] Tune enhancement spells with scaling modifier (#73139)
 * You Can Get Drunk on Brandied Fruit (#73396)
 
 Cataclysm-DDA experimental build 2024-04-30-1406 (0c76632)
