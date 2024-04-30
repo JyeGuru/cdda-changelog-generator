@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-30-0753 (6839cac)
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json (#73320)
 
 Cataclysm-DDA experimental build 2024-04-30-0413 (db4aa91)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2024-04-25-0752 (6a11e3a)
 Cataclysm-DDA experimental build 2024-04-25-0021 (0b056b6)
 * [MoM] Add the Megakinesis telekinetic power (#73215)
 * [Magiclysm] Tune conveyance spells with scaling modifier (#73225)
-
-Cataclysm-DDA experimental build 2024-04-24-1353 (f733682)
 * Eeeeven MOOORE mission context dialogue for Liam. (#73184)
 * Edit candles to be slightly more realistic (#73204)
 * Sky Island: fix double colon in the expedition timer (#73212)

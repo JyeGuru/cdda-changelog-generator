@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-30-0753 ([6839cac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-0753))
+
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json ([#73320](https://github.com/CleverRaven/Cataclysm-DDA/pull/73320))
 
 ---
@@ -172,11 +177,6 @@
 
 * [MoM] Add the Megakinesis telekinetic power ([#73215](https://github.com/CleverRaven/Cataclysm-DDA/pull/73215))
 * [Magiclysm] Tune conveyance spells with scaling modifier ([#73225](https://github.com/CleverRaven/Cataclysm-DDA/pull/73225))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-24-1353 ([f733682](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-24-1353))
-
 * Eeeeven MOOORE mission context dialogue for Liam. ([#73184](https://github.com/CleverRaven/Cataclysm-DDA/pull/73184))
 * Edit candles to be slightly more realistic ([#73204](https://github.com/CleverRaven/Cataclysm-DDA/pull/73204))
 * Sky Island: fix double colon in the expedition timer ([#73212](https://github.com/CleverRaven/Cataclysm-DDA/pull/73212))
