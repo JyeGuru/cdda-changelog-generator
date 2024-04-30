@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-04-30-2145 (838790c)
 * Edit shattering weakpoint (#73377)
 
 Cataclysm-DDA experimental build 2024-04-30-1711 (24ab07a)
