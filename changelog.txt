@@ -1,3 +1,4 @@
+* Make requirement groups for plastic recipes (#73319)
 
 Cataclysm-DDA experimental build 2024-04-30-0753 (6839cac)
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json (#73320)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2024-04-25-0021 (0b056b6)
 * [Sky Island] Add west bunker room upgrades to possible missions (#73161)
 * mom: good rating for successful contemplation message (#73157)
 * Tweak spawns of hidden lab under retirement home (#73154)
-* Fix egg stack (#73127)
 * [MoM] Add Astral Projection Clairsentient power (#73128)
 * Favorite ammo must be on the avatar. (#73151)
 * More dialogue for Liam, keyed to specific missions (#73133)

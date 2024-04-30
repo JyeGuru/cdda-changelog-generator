@@ -1,3 +1,4 @@
+* Make requirement groups for plastic recipes ([#73319](https://github.com/CleverRaven/Cataclysm-DDA/pull/73319))
 
 ---
 
@@ -203,7 +204,6 @@
 * [Sky Island] Add west bunker room upgrades to possible missions ([#73161](https://github.com/CleverRaven/Cataclysm-DDA/pull/73161))
 * mom: good rating for successful contemplation message ([#73157](https://github.com/CleverRaven/Cataclysm-DDA/pull/73157))
 * Tweak spawns of hidden lab under retirement home ([#73154](https://github.com/CleverRaven/Cataclysm-DDA/pull/73154))
-* Fix egg stack ([#73127](https://github.com/CleverRaven/Cataclysm-DDA/pull/73127))
 * [MoM] Add Astral Projection Clairsentient power ([#73128](https://github.com/CleverRaven/Cataclysm-DDA/pull/73128))
 * Favorite ammo must be on the avatar. ([#73151](https://github.com/CleverRaven/Cataclysm-DDA/pull/73151))
 * More dialogue for Liam, keyed to specific missions ([#73133](https://github.com/CleverRaven/Cataclysm-DDA/pull/73133))
