@@ -1,3 +1,4 @@
+* [Magiclysm] Tune enhancement spells with scaling modifier ([#73139](https://github.com/CleverRaven/Cataclysm-DDA/pull/73139))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
 
 ---
@@ -211,7 +212,6 @@
 * mom: good rating for successful contemplation message ([#73157](https://github.com/CleverRaven/Cataclysm-DDA/pull/73157))
 * Tweak spawns of hidden lab under retirement home ([#73154](https://github.com/CleverRaven/Cataclysm-DDA/pull/73154))
 * Favorite ammo must be on the avatar. ([#73151](https://github.com/CleverRaven/Cataclysm-DDA/pull/73151))
-* More dialogue for Liam, keyed to specific missions ([#73133](https://github.com/CleverRaven/Cataclysm-DDA/pull/73133))
 * [MoM] Fix Force Shove to account for target weight ([#73137](https://github.com/CleverRaven/Cataclysm-DDA/pull/73137))
 * Fix overloaded definition for bungalow22 and incorrect definition for house22 ([#73144](https://github.com/CleverRaven/Cataclysm-DDA/pull/73144))
 * docs: clear up outdated info about grab_strength ([#73141](https://github.com/CleverRaven/Cataclysm-DDA/pull/73141))
