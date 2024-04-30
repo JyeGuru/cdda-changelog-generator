@@ -1,4 +1,6 @@
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json (#73320)
+
+Cataclysm-DDA experimental build 2024-04-30-0413 (db4aa91)
 * Update EOCs.json for sky island mod to correctly add/remove warp vortex token recipe (#73271)
 * Add mushroom ketchup, fried pickled veggies and krampouezh (#73301)
 * Aftershock: Blood bionics (#73345)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2024-04-25-0021 (0b056b6)
 
 Cataclysm-DDA experimental build 2024-04-24-1353 (f733682)
 * Eeeeven MOOORE mission context dialogue for Liam. (#73184)
-
-Cataclysm-DDA experimental build 2024-04-24-0616 (4551df2)
 * Edit candles to be slightly more realistic (#73204)
 * Sky Island: fix double colon in the expedition timer (#73212)
 * fix copper cable drop from fridges (#73214)

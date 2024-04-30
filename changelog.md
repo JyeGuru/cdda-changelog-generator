@@ -1,4 +1,9 @@
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json ([#73320](https://github.com/CleverRaven/Cataclysm-DDA/pull/73320))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-04-30-0413 ([db4aa91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-0413))
+
 * Update EOCs.json for sky island mod to correctly add/remove warp vortex token recipe ([#73271](https://github.com/CleverRaven/Cataclysm-DDA/pull/73271))
 * Add mushroom ketchup, fried pickled veggies and krampouezh ([#73301](https://github.com/CleverRaven/Cataclysm-DDA/pull/73301))
 * Aftershock: Blood bionics ([#73345](https://github.com/CleverRaven/Cataclysm-DDA/pull/73345))
@@ -173,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-04-24-1353 ([f733682](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-24-1353))
 
 * Eeeeven MOOORE mission context dialogue for Liam. ([#73184](https://github.com/CleverRaven/Cataclysm-DDA/pull/73184))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-24-0616 ([4551df2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-24-0616))
-
 * Edit candles to be slightly more realistic ([#73204](https://github.com/CleverRaven/Cataclysm-DDA/pull/73204))
 * Sky Island: fix double colon in the expedition timer ([#73212](https://github.com/CleverRaven/Cataclysm-DDA/pull/73212))
 * fix copper cable drop from fridges ([#73214](https://github.com/CleverRaven/Cataclysm-DDA/pull/73214))
