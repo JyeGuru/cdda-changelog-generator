@@ -1,3 +1,4 @@
+* Make drones drone ([#73390](https://github.com/CleverRaven/Cataclysm-DDA/pull/73390))
 * Wet Towels No Longer Prompt to be Turned Off ([#73408](https://github.com/CleverRaven/Cataclysm-DDA/pull/73408))
 * Aftershock: Fix travel to port augustmoon ([#73358](https://github.com/CleverRaven/Cataclysm-DDA/pull/73358))
 * Fixing broken text on ImTui when building with cmake ([#73413](https://github.com/CleverRaven/Cataclysm-DDA/pull/73413))
@@ -225,4 +226,3 @@
 * [DinoMod] skeletal looks_like fix ([#73174](https://github.com/CleverRaven/Cataclysm-DDA/pull/73174))
 * [Sky Island] Add west bunker room upgrades to possible missions ([#73161](https://github.com/CleverRaven/Cataclysm-DDA/pull/73161))
 * mom: good rating for successful contemplation message ([#73157](https://github.com/CleverRaven/Cataclysm-DDA/pull/73157))
-* Tweak spawns of hidden lab under retirement home ([#73154](https://github.com/CleverRaven/Cataclysm-DDA/pull/73154))
