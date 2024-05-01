@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-01-1221 (1d81cc0)
+* fix clang test (#73418)
+
 Cataclysm-DDA experimental build 2024-05-01-0547 (5590543)
 * Fix typo in exodii_merchant_talk.json (#73385)
 
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2024-04-26-0317 (69ce71d)
 
 Cataclysm-DDA experimental build 2024-04-25-2051 (7636bcc)
 * Quick wormy fixes (#73265)
-
-Cataclysm-DDA experimental build 2024-04-25-0752 (6a11e3a)
 * Shrink jmapgen int (#73229)
 * Fix typo that made abandoned cabins and nursing home labs much more common (#73248)
 * [Sky Island] Add buildable north chamber missions and mapgen (#73241)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2024-04-25-0752 (6a11e3a)
 * Favorite ammo must be on the avatar. (#73151)
 * Fix overloaded definition for bungalow22 and incorrect definition for house22 (#73144)
 * Not to try to unload when bow not loaded. (#73148)
-* Routine i18n updates on 20 April 2024 (#73143)
