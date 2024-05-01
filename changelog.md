@@ -1,3 +1,8 @@
+* Wet Towels No Longer Prompt to be Turned Off ([#73408](https://github.com/CleverRaven/Cataclysm-DDA/pull/73408))
+* Aftershock: Fix travel to port augustmoon ([#73358](https://github.com/CleverRaven/Cataclysm-DDA/pull/73358))
+* Fixing broken text on ImTui when building with cmake ([#73413](https://github.com/CleverRaven/Cataclysm-DDA/pull/73413))
+* Fixing popup buttons not wrapping to a new line ([#73422](https://github.com/CleverRaven/Cataclysm-DDA/pull/73422))
+* Routine tileset updates on 01 May 2024 ([#73424](https://github.com/CleverRaven/Cataclysm-DDA/pull/73424))
 
 ---
 
@@ -195,7 +200,6 @@
 * Shrink jmapgen int ([#73229](https://github.com/CleverRaven/Cataclysm-DDA/pull/73229))
 * Fix typo that made abandoned cabins and nursing home labs much more common ([#73248](https://github.com/CleverRaven/Cataclysm-DDA/pull/73248))
 * [Sky Island] Add buildable north chamber missions and mapgen ([#73241](https://github.com/CleverRaven/Cataclysm-DDA/pull/73241))
-* A brief digression to improve Isherwood dialogue ([#73153](https://github.com/CleverRaven/Cataclysm-DDA/pull/73153))
 * [MoM] Add the Megakinesis telekinetic power ([#73215](https://github.com/CleverRaven/Cataclysm-DDA/pull/73215))
 * [Magiclysm] Tune conveyance spells with scaling modifier ([#73225](https://github.com/CleverRaven/Cataclysm-DDA/pull/73225))
 * Eeeeven MOOORE mission context dialogue for Liam. ([#73184](https://github.com/CleverRaven/Cataclysm-DDA/pull/73184))
@@ -215,7 +219,6 @@
 * don't trickle fast imgui inputs ([#73180](https://github.com/CleverRaven/Cataclysm-DDA/pull/73180))
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
 * [MoM] Add `city_sizes` parameter to city buildings ([#73160](https://github.com/CleverRaven/Cataclysm-DDA/pull/73160))
-* Type and context in variables is no more ([#73146](https://github.com/CleverRaven/Cataclysm-DDA/pull/73146))
 * add "Forget all recipes" to debug menu ([#73168](https://github.com/CleverRaven/Cataclysm-DDA/pull/73168))
 * Documentation fixes ([#73166](https://github.com/CleverRaven/Cataclysm-DDA/pull/73166))
 * Random minor JSON adjustments ([#73169](https://github.com/CleverRaven/Cataclysm-DDA/pull/73169))
@@ -223,6 +226,3 @@
 * [Sky Island] Add west bunker room upgrades to possible missions ([#73161](https://github.com/CleverRaven/Cataclysm-DDA/pull/73161))
 * mom: good rating for successful contemplation message ([#73157](https://github.com/CleverRaven/Cataclysm-DDA/pull/73157))
 * Tweak spawns of hidden lab under retirement home ([#73154](https://github.com/CleverRaven/Cataclysm-DDA/pull/73154))
-* Favorite ammo must be on the avatar. ([#73151](https://github.com/CleverRaven/Cataclysm-DDA/pull/73151))
-* Fix overloaded definition for bungalow22 and incorrect definition for house22 ([#73144](https://github.com/CleverRaven/Cataclysm-DDA/pull/73144))
-* Not to try to unload when bow not loaded. ([#73148](https://github.com/CleverRaven/Cataclysm-DDA/pull/73148))
