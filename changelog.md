@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-01-0547 ([5590543](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-01-0547))
+
 * Fix typo in exodii_merchant_talk.json ([#73385](https://github.com/CleverRaven/Cataclysm-DDA/pull/73385))
 
 ---

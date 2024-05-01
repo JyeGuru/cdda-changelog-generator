@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-01-0547 (5590543)
 * Fix typo in exodii_merchant_talk.json (#73385)
 
 Cataclysm-DDA experimental build 2024-04-30-2145 (838790c)
