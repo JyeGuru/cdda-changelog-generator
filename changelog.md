@@ -214,5 +214,4 @@
 * [MoM] Reduce feral telekinetic shove distances ([#73177](https://github.com/CleverRaven/Cataclysm-DDA/pull/73177))
 * don't trickle fast imgui inputs ([#73180](https://github.com/CleverRaven/Cataclysm-DDA/pull/73180))
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
-* Random minor JSON adjustments ([#73169](https://github.com/CleverRaven/Cataclysm-DDA/pull/73169))
 * [DinoMod] skeletal looks_like fix ([#73174](https://github.com/CleverRaven/Cataclysm-DDA/pull/73174))
