@@ -1,3 +1,5 @@
+* math effect to sum all spells in school ([#73394](https://github.com/CleverRaven/Cataclysm-DDA/pull/73394))
+* Tiny Propane vehicle addition ([#73411](https://github.com/CleverRaven/Cataclysm-DDA/pull/73411))
 * Nail-related string edits ([#73440](https://github.com/CleverRaven/Cataclysm-DDA/pull/73440))
 * Unhardcode ki strike, drunken master ([#73441](https://github.com/CleverRaven/Cataclysm-DDA/pull/73441))
 
@@ -213,11 +215,9 @@
 * AIM: when cannot wear, try to wield ([#73181](https://github.com/CleverRaven/Cataclysm-DDA/pull/73181))
 * display fridge is a base item of a display fridge ([#73196](https://github.com/CleverRaven/Cataclysm-DDA/pull/73196))
 * [MoM] Reduce feral telekinetic shove distances ([#73177](https://github.com/CleverRaven/Cataclysm-DDA/pull/73177))
-* [MoM] Rework Far Hand into the "Move items" power and Force Shove into the "move creatures" power ([#73162](https://github.com/CleverRaven/Cataclysm-DDA/pull/73162))
 * don't trickle fast imgui inputs ([#73180](https://github.com/CleverRaven/Cataclysm-DDA/pull/73180))
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
 * add "Forget all recipes" to debug menu ([#73168](https://github.com/CleverRaven/Cataclysm-DDA/pull/73168))
 * Documentation fixes ([#73166](https://github.com/CleverRaven/Cataclysm-DDA/pull/73166))
 * Random minor JSON adjustments ([#73169](https://github.com/CleverRaven/Cataclysm-DDA/pull/73169))
 * [DinoMod] skeletal looks_like fix ([#73174](https://github.com/CleverRaven/Cataclysm-DDA/pull/73174))
-* [Sky Island] Add west bunker room upgrades to possible missions ([#73161](https://github.com/CleverRaven/Cataclysm-DDA/pull/73161))
