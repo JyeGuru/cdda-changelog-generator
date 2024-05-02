@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-02-2012 (6347958)
 * Add Ballistic Vest Disassembly Recipes (#73447)
 * Apply imgui label upon touching src/third-party/im(g|t)ui (#73432)
 * [Xedra Evolved] Even more paraclesian powers (#73448)
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2024-04-26-2336 (5ce0a13)
 Cataclysm-DDA experimental build 2024-04-26-2043 (682d4fb)
 * Fixed segfault when an NPC completes a pickup after a player has already taken it (#73275)
 * Next major step for rubik's third mission (#73221)
-
-Cataclysm-DDA experimental build 2024-04-26-1727 (db07d05)
 * Add cropped top and hoodie (#73291)
 * [MoM] Fix Force Shove, Force Shove downs targets (#73274)
 * Add missing period to book description (#73289)

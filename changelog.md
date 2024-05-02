@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-02-2012 ([6347958](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-02-2012))
+
 * Add Ballistic Vest Disassembly Recipes ([#73447](https://github.com/CleverRaven/Cataclysm-DDA/pull/73447))
 * Apply imgui label upon touching src/third-party/im(g|t)ui ([#73432](https://github.com/CleverRaven/Cataclysm-DDA/pull/73432))
 * [Xedra Evolved] Even more paraclesian powers ([#73448](https://github.com/CleverRaven/Cataclysm-DDA/pull/73448))
@@ -177,11 +182,6 @@
 
 * Fixed segfault when an NPC completes a pickup after a player has already taken it ([#73275](https://github.com/CleverRaven/Cataclysm-DDA/pull/73275))
 * Next major step for rubik's third mission ([#73221](https://github.com/CleverRaven/Cataclysm-DDA/pull/73221))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-26-1727 ([db07d05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-1727))
-
 * Add cropped top and hoodie ([#73291](https://github.com/CleverRaven/Cataclysm-DDA/pull/73291))
 * [MoM] Fix Force Shove, Force Shove downs targets ([#73274](https://github.com/CleverRaven/Cataclysm-DDA/pull/73274))
 * Add missing period to book description ([#73289](https://github.com/CleverRaven/Cataclysm-DDA/pull/73289))
