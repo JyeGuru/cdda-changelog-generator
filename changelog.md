@@ -1,3 +1,11 @@
+* Nail-related string edits ([#73440](https://github.com/CleverRaven/Cataclysm-DDA/pull/73440))
+* Unhardcode ki strike, drunken master ([#73441](https://github.com/CleverRaven/Cataclysm-DDA/pull/73441))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-02-0349 ([9554d8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-02-0349))
+
+* Add a final cleanup phase to Craters ([#73429](https://github.com/CleverRaven/Cataclysm-DDA/pull/73429))
 
 ---
 
@@ -80,12 +88,6 @@
 #### Cataclysm-DDA experimental build 2024-04-28-2104 ([1b82e68](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-2104))
 
 * Adjust the overmap test to remove some failure modes and make it more robust ([#73339](https://github.com/CleverRaven/Cataclysm-DDA/pull/73339))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-28-1820 ([40640f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-1820))
-
-* Separate keybinding to select default ammo ([#73159](https://github.com/CleverRaven/Cataclysm-DDA/pull/73159))
 
 ---
 
@@ -191,11 +193,6 @@
 * [MoM] Add actual fear effect to Primal Terror telepathic power ([#73266](https://github.com/CleverRaven/Cataclysm-DDA/pull/73266))
 * remove rand_charges ([#73270](https://github.com/CleverRaven/Cataclysm-DDA/pull/73270))
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff ([#73276](https://github.com/CleverRaven/Cataclysm-DDA/pull/73276))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-26-0317 ([69ce71d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-0317))
-
 * [Magiclysm] Migrate Gluttonous Consumption spell to effect-only ([#73255](https://github.com/CleverRaven/Cataclysm-DDA/pull/73255))
 * Quick wormy fixes ([#73265](https://github.com/CleverRaven/Cataclysm-DDA/pull/73265))
 * Shrink jmapgen int ([#73229](https://github.com/CleverRaven/Cataclysm-DDA/pull/73229))
@@ -219,10 +216,8 @@
 * [MoM] Rework Far Hand into the "Move items" power and Force Shove into the "move creatures" power ([#73162](https://github.com/CleverRaven/Cataclysm-DDA/pull/73162))
 * don't trickle fast imgui inputs ([#73180](https://github.com/CleverRaven/Cataclysm-DDA/pull/73180))
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
-* [MoM] Add `city_sizes` parameter to city buildings ([#73160](https://github.com/CleverRaven/Cataclysm-DDA/pull/73160))
 * add "Forget all recipes" to debug menu ([#73168](https://github.com/CleverRaven/Cataclysm-DDA/pull/73168))
 * Documentation fixes ([#73166](https://github.com/CleverRaven/Cataclysm-DDA/pull/73166))
 * Random minor JSON adjustments ([#73169](https://github.com/CleverRaven/Cataclysm-DDA/pull/73169))
 * [DinoMod] skeletal looks_like fix ([#73174](https://github.com/CleverRaven/Cataclysm-DDA/pull/73174))
 * [Sky Island] Add west bunker room upgrades to possible missions ([#73161](https://github.com/CleverRaven/Cataclysm-DDA/pull/73161))
-* mom: good rating for successful contemplation message ([#73157](https://github.com/CleverRaven/Cataclysm-DDA/pull/73157))

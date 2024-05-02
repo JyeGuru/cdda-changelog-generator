@@ -1,3 +1,8 @@
+* Nail-related string edits (#73440)
+* Unhardcode ki strike, drunken master (#73441)
+
+Cataclysm-DDA experimental build 2024-05-02-0349 (9554d8c)
+* Add a final cleanup phase to Craters (#73429)
 
 Cataclysm-DDA experimental build 2024-05-01-1556 (53a0a73)
 * Make drones drone (#73390)
@@ -47,9 +52,6 @@ Cataclysm-DDA experimental build 2024-04-29-0129 (933c6f4)
 
 Cataclysm-DDA experimental build 2024-04-28-2104 (1b82e68)
 * Adjust the overmap test to remove some failure modes and make it more robust (#73339)
-
-Cataclysm-DDA experimental build 2024-04-28-1820 (40640f4)
-* Separate keybinding to select default ammo (#73159)
 
 Cataclysm-DDA experimental build 2024-04-28-1436 (99b4944)
 * Aftershock: Magazine flag audit (#73348)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2024-04-26-0553 (49ac595)
 * [MoM] Add actual fear effect to Primal Terror telepathic power (#73266)
 * remove rand_charges (#73270)
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff (#73276)
-
-Cataclysm-DDA experimental build 2024-04-26-0317 (69ce71d)
 * [Magiclysm] Migrate Gluttonous Consumption spell to effect-only (#73255)
 * Quick wormy fixes (#73265)
 * Shrink jmapgen int (#73229)
@@ -138,10 +138,8 @@ Cataclysm-DDA experimental build 2024-04-26-0317 (69ce71d)
 * [MoM] Rework Far Hand into the "Move items" power and Force Shove into the "move creatures" power (#73162)
 * don't trickle fast imgui inputs (#73180)
 * [Sky Island] Add east bunker room upgrades to possible missions  (#73178)
-* [MoM] Add `city_sizes` parameter to city buildings (#73160)
 * add "Forget all recipes" to debug menu (#73168)
 * Documentation fixes (#73166)
 * Random minor JSON adjustments (#73169)
 * [DinoMod] skeletal looks_like fix (#73174)
 * [Sky Island] Add west bunker room upgrades to possible missions (#73161)
-* mom: good rating for successful contemplation message (#73157)
