@@ -1,3 +1,4 @@
+* Apply imgui label upon touching src/third-party/im(g|t)ui ([#73432](https://github.com/CleverRaven/Cataclysm-DDA/pull/73432))
 * [Xedra Evolved] Even more paraclesian powers ([#73448](https://github.com/CleverRaven/Cataclysm-DDA/pull/73448))
 * [MoM] Limit Burst of Speed in some circumstances ([#73395](https://github.com/CleverRaven/Cataclysm-DDA/pull/73395))
 * math effect to sum all spells in school ([#73394](https://github.com/CleverRaven/Cataclysm-DDA/pull/73394))
@@ -213,6 +214,5 @@
 * don't trickle fast imgui inputs ([#73180](https://github.com/CleverRaven/Cataclysm-DDA/pull/73180))
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
 * add "Forget all recipes" to debug menu ([#73168](https://github.com/CleverRaven/Cataclysm-DDA/pull/73168))
-* Documentation fixes ([#73166](https://github.com/CleverRaven/Cataclysm-DDA/pull/73166))
 * Random minor JSON adjustments ([#73169](https://github.com/CleverRaven/Cataclysm-DDA/pull/73169))
 * [DinoMod] skeletal looks_like fix ([#73174](https://github.com/CleverRaven/Cataclysm-DDA/pull/73174))
