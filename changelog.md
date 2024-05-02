@@ -1,5 +1,10 @@
 * Apply imgui label upon touching src/third-party/im(g|t)ui ([#73432](https://github.com/CleverRaven/Cataclysm-DDA/pull/73432))
 * [Xedra Evolved] Even more paraclesian powers ([#73448](https://github.com/CleverRaven/Cataclysm-DDA/pull/73448))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-02-1607 ([11d4be5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-02-1607))
+
 * [MoM] Limit Burst of Speed in some circumstances ([#73395](https://github.com/CleverRaven/Cataclysm-DDA/pull/73395))
 * math effect to sum all spells in school ([#73394](https://github.com/CleverRaven/Cataclysm-DDA/pull/73394))
 * Tiny Propane vehicle addition ([#73411](https://github.com/CleverRaven/Cataclysm-DDA/pull/73411))
@@ -180,11 +185,6 @@
 * [MoM] Fix Force Shove, Force Shove downs targets ([#73274](https://github.com/CleverRaven/Cataclysm-DDA/pull/73274))
 * Add missing period to book description ([#73289](https://github.com/CleverRaven/Cataclysm-DDA/pull/73289))
 * Remove `charges-min` and `charges-max` ([#73277](https://github.com/CleverRaven/Cataclysm-DDA/pull/73277))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-26-1401 ([810fe83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-1401))
-
 * Update Cureall Effect ([#73285](https://github.com/CleverRaven/Cataclysm-DDA/pull/73285))
 * 1L Silver Ingot should have "material" property of silver instead of lead ([#73263](https://github.com/CleverRaven/Cataclysm-DDA/pull/73263))
 * Not to use meat chunks in the smoking rack ([#73234](https://github.com/CleverRaven/Cataclysm-DDA/pull/73234))
