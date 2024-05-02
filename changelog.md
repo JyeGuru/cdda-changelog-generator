@@ -183,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-04-26-1401 ([810fe83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-1401))
 
 * Update Cureall Effect ([#73285](https://github.com/CleverRaven/Cataclysm-DDA/pull/73285))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-26-0553 ([49ac595](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-0553))
-
 * 1L Silver Ingot should have "material" property of silver instead of lead ([#73263](https://github.com/CleverRaven/Cataclysm-DDA/pull/73263))
 * Not to use meat chunks in the smoking rack ([#73234](https://github.com/CleverRaven/Cataclysm-DDA/pull/73234))
 * put new fridges on the maps ([#73250](https://github.com/CleverRaven/Cataclysm-DDA/pull/73250))

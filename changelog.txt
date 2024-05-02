@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2024-04-26-1727 (db07d05)
 
 Cataclysm-DDA experimental build 2024-04-26-1401 (810fe83)
 * Update Cureall Effect (#73285)
-
-Cataclysm-DDA experimental build 2024-04-26-0553 (49ac595)
 * 1L Silver Ingot should have "material" property of silver instead of lead (#73263)
 * Not to use meat chunks in the smoking rack (#73234)
 * put new fridges on the maps (#73250)
