@@ -1,3 +1,10 @@
+* Container audit (mostly transparency) ([#73458](https://github.com/CleverRaven/Cataclysm-DDA/pull/73458))
+* `src/debug_menu.cpp`: split functions from `void debug()` ([#73428](https://github.com/CleverRaven/Cataclysm-DDA/pull/73428))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-03-0220 ([abe3f76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-0220))
+
 * [Extra Mutated Scenarios ] Adds new mutation trees to mod starts  ([#73290](https://github.com/CleverRaven/Cataclysm-DDA/pull/73290))
 
 ---
@@ -176,11 +183,6 @@
 
 * Implemented scaffolding + doc ([#73232](https://github.com/CleverRaven/Cataclysm-DDA/pull/73232))
 * Mass replacement of 'bag_plastic', more variance in powdered goods spawns ([#73253](https://github.com/CleverRaven/Cataclysm-DDA/pull/73253))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-26-2043 ([682d4fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-2043))
-
 * Fixed segfault when an NPC completes a pickup after a player has already taken it ([#73275](https://github.com/CleverRaven/Cataclysm-DDA/pull/73275))
 * Next major step for rubik's third mission ([#73221](https://github.com/CleverRaven/Cataclysm-DDA/pull/73221))
 * Add cropped top and hoodie ([#73291](https://github.com/CleverRaven/Cataclysm-DDA/pull/73291))
@@ -211,7 +213,5 @@
 * Update the table of contents in doc/JSON_INFO.md ([#73182](https://github.com/CleverRaven/Cataclysm-DDA/pull/73182))
 * AIM: when cannot wear, try to wield ([#73181](https://github.com/CleverRaven/Cataclysm-DDA/pull/73181))
 * display fridge is a base item of a display fridge ([#73196](https://github.com/CleverRaven/Cataclysm-DDA/pull/73196))
-* [MoM] Reduce feral telekinetic shove distances ([#73177](https://github.com/CleverRaven/Cataclysm-DDA/pull/73177))
 * don't trickle fast imgui inputs ([#73180](https://github.com/CleverRaven/Cataclysm-DDA/pull/73180))
 * [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
-* [DinoMod] skeletal looks_like fix ([#73174](https://github.com/CleverRaven/Cataclysm-DDA/pull/73174))
