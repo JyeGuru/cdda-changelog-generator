@@ -1,3 +1,7 @@
+* Audit Prices for Canning Pots and Workshop Toolbox ([#73283](https://github.com/CleverRaven/Cataclysm-DDA/pull/73283))
+* Add Oversize Reinforced Cardboard Box ([#73342](https://github.com/CleverRaven/Cataclysm-DDA/pull/73342))
+* Aftershock: Augustmoon Outfitter ([#73356](https://github.com/CleverRaven/Cataclysm-DDA/pull/73356))
+* Fix plural names of exoskeletons ([#73378](https://github.com/CleverRaven/Cataclysm-DDA/pull/73378))
 * Fix obtain cost in reloading action, and a typo in item_handling_cost. ([#73386](https://github.com/CleverRaven/Cataclysm-DDA/pull/73386))
 * [MoM] Add scaling to Internal Fire ([#73368](https://github.com/CleverRaven/Cataclysm-DDA/pull/73368))
 * [Sky Island] Upgrade central skylight missions and mapgen ([#73279](https://github.com/CleverRaven/Cataclysm-DDA/pull/73279))
@@ -75,12 +79,6 @@
 #### Cataclysm-DDA experimental build 2024-04-30-2145 ([838790c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-2145))
 
 * Edit shattering weakpoint ([#73377](https://github.com/CleverRaven/Cataclysm-DDA/pull/73377))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-30-1711 ([24ab07a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-1711))
-
-* Challenge start - hunted forever ([#73227](https://github.com/CleverRaven/Cataclysm-DDA/pull/73227))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
 
 ---
@@ -208,7 +206,5 @@
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff ([#73276](https://github.com/CleverRaven/Cataclysm-DDA/pull/73276))
 * [Magiclysm] Migrate Gluttonous Consumption spell to effect-only ([#73255](https://github.com/CleverRaven/Cataclysm-DDA/pull/73255))
 * Quick wormy fixes ([#73265](https://github.com/CleverRaven/Cataclysm-DDA/pull/73265))
-* Shrink jmapgen int ([#73229](https://github.com/CleverRaven/Cataclysm-DDA/pull/73229))
 * Fix typo that made abandoned cabins and nursing home labs much more common ([#73248](https://github.com/CleverRaven/Cataclysm-DDA/pull/73248))
 * [Sky Island] Add buildable north chamber missions and mapgen ([#73241](https://github.com/CleverRaven/Cataclysm-DDA/pull/73241))
-* [Magiclysm] Tune conveyance spells with scaling modifier ([#73225](https://github.com/CleverRaven/Cataclysm-DDA/pull/73225))
