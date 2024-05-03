@@ -1,3 +1,4 @@
+* [Extra Mutated Scenarios ] Adds new mutation trees to mod starts  ([#73290](https://github.com/CleverRaven/Cataclysm-DDA/pull/73290))
 
 ---
 
@@ -207,7 +208,6 @@
 * fix copper cable drop from fridges ([#73214](https://github.com/CleverRaven/Cataclysm-DDA/pull/73214))
 * Add a new LMOE mapgen layout. ([#73199](https://github.com/CleverRaven/Cataclysm-DDA/pull/73199))
 * Replace `price` and `price_postapoc` int with string ([#73195](https://github.com/CleverRaven/Cataclysm-DDA/pull/73195))
-* Incompatible tools only pop out from workstations, not from other vehicle parts on the same tile ([#73170](https://github.com/CleverRaven/Cataclysm-DDA/pull/73170))
 * Update the table of contents in doc/JSON_INFO.md ([#73182](https://github.com/CleverRaven/Cataclysm-DDA/pull/73182))
 * AIM: when cannot wear, try to wield ([#73181](https://github.com/CleverRaven/Cataclysm-DDA/pull/73181))
 * display fridge is a base item of a display fridge ([#73196](https://github.com/CleverRaven/Cataclysm-DDA/pull/73196))

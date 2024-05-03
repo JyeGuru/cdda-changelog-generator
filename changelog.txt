@@ -1,3 +1,4 @@
+* [Extra Mutated Scenarios ] Adds new mutation trees to mod starts  (#73290)
 
 Cataclysm-DDA experimental build 2024-05-02-2012 (6347958)
 * Add Ballistic Vest Disassembly Recipes (#73447)
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2024-04-26-2043 (682d4fb)
 * fix copper cable drop from fridges (#73214)
 * Add a new LMOE mapgen layout. (#73199)
 * Replace `price` and `price_postapoc` int with string (#73195)
-* Incompatible tools only pop out from workstations, not from other vehicle parts on the same tile (#73170)
 * Update the table of contents in doc/JSON_INFO.md (#73182)
 * AIM: when cannot wear, try to wield (#73181)
 * display fridge is a base item of a display fridge (#73196)
