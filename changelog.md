@@ -1,3 +1,7 @@
+* Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
+* LIXA, EOC variable name correction ([#73401](https://github.com/CleverRaven/Cataclysm-DDA/pull/73401))
+* Beast mutants can mutate quills ([#73405](https://github.com/CleverRaven/Cataclysm-DDA/pull/73405))
+* fix veggy_pickled_fried component list ([#73406](https://github.com/CleverRaven/Cataclysm-DDA/pull/73406))
 * ImGui: screens not reporting the proper window sizes ([#73426](https://github.com/CleverRaven/Cataclysm-DDA/pull/73426))
 * Simplified dig/mine stairs code ([#73431](https://github.com/CleverRaven/Cataclysm-DDA/pull/73431))
 * Remove translate_ter ([#73437](https://github.com/CleverRaven/Cataclysm-DDA/pull/73437))
@@ -176,12 +180,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-04-27-0230 ([27b977e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-0230))
-
-* Yrax Quadraphracts ([#73185](https://github.com/CleverRaven/Cataclysm-DDA/pull/73185))
-
----
-
 #### Cataclysm-DDA experimental build 2024-04-26-2336 ([5ce0a13](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-26-2336))
 
 * Implemented scaffolding + doc ([#73232](https://github.com/CleverRaven/Cataclysm-DDA/pull/73232))
@@ -207,11 +205,8 @@
 * [Sky Island] Add buildable north chamber missions and mapgen ([#73241](https://github.com/CleverRaven/Cataclysm-DDA/pull/73241))
 * [MoM] Add the Megakinesis telekinetic power ([#73215](https://github.com/CleverRaven/Cataclysm-DDA/pull/73215))
 * [Magiclysm] Tune conveyance spells with scaling modifier ([#73225](https://github.com/CleverRaven/Cataclysm-DDA/pull/73225))
-* Eeeeven MOOORE mission context dialogue for Liam. ([#73184](https://github.com/CleverRaven/Cataclysm-DDA/pull/73184))
 * Edit candles to be slightly more realistic ([#73204](https://github.com/CleverRaven/Cataclysm-DDA/pull/73204))
 * Sky Island: fix double colon in the expedition timer ([#73212](https://github.com/CleverRaven/Cataclysm-DDA/pull/73212))
 * fix copper cable drop from fridges ([#73214](https://github.com/CleverRaven/Cataclysm-DDA/pull/73214))
 * Add a new LMOE mapgen layout. ([#73199](https://github.com/CleverRaven/Cataclysm-DDA/pull/73199))
-* Replace `price` and `price_postapoc` int with string ([#73195](https://github.com/CleverRaven/Cataclysm-DDA/pull/73195))
-* Update the table of contents in doc/JSON_INFO.md ([#73182](https://github.com/CleverRaven/Cataclysm-DDA/pull/73182))
 * display fridge is a base item of a display fridge ([#73196](https://github.com/CleverRaven/Cataclysm-DDA/pull/73196))
