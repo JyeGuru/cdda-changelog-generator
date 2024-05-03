@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-03-2217 ([d3b1698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-2217))
+
+* Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-03-1808 ([0a74bb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-1808))
 
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
@@ -155,7 +161,6 @@
 #### Cataclysm-DDA experimental build 2024-04-28-1059 ([58f64c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-1059))
 
 * Make pupating explosion quieter ([#73338](https://github.com/CleverRaven/Cataclysm-DDA/pull/73338))
-* Make continuous integration artifacts always have full debuginfo ([#73240](https://github.com/CleverRaven/Cataclysm-DDA/pull/73240))
 
 ---
 
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-04-27-1035 ([0e4a71b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-1035))
 
 * Added code to restore the terminal state on crash on curses ([#73272](https://github.com/CleverRaven/Cataclysm-DDA/pull/73272))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-27-0815 ([7e7510c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-0815))
-
 * fix lieutenant popup query ([#73296](https://github.com/CleverRaven/Cataclysm-DDA/pull/73296))
 * Mass replacement of 'bag_plastic', more variance in powdered goods spawns ([#73253](https://github.com/CleverRaven/Cataclysm-DDA/pull/73253))
 * Fixed segfault when an NPC completes a pickup after a player has already taken it ([#73275](https://github.com/CleverRaven/Cataclysm-DDA/pull/73275))

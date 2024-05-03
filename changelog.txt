@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-03-2217 (d3b1698)
+* Revert "Bow reload time fix (#73305)" (#73482)
+
 Cataclysm-DDA experimental build 2024-05-03-1808 (0a74bb4)
 * fix `game.h` typo (#73460)
 
@@ -98,7 +101,6 @@ Cataclysm-DDA experimental build 2024-04-28-1436 (99b4944)
 
 Cataclysm-DDA experimental build 2024-04-28-1059 (58f64c0)
 * Make pupating explosion quieter (#73338)
-* Make continuous integration artifacts always have full debuginfo (#73240)
 
 Cataclysm-DDA experimental build 2024-04-28-0522 (9105f03)
 * fix disappearing arrows (#73346)
@@ -123,8 +125,6 @@ Cataclysm-DDA experimental build 2024-04-27-2050 (173615a)
 
 Cataclysm-DDA experimental build 2024-04-27-1035 (0e4a71b)
 * Added code to restore the terminal state on crash on curses (#73272)
-
-Cataclysm-DDA experimental build 2024-04-27-0815 (7e7510c)
 * fix lieutenant popup query (#73296)
 * Mass replacement of 'bag_plastic', more variance in powdered goods spawns (#73253)
 * Fixed segfault when an NPC completes a pickup after a player has already taken it (#73275)
