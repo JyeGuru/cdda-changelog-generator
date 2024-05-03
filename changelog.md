@@ -1,3 +1,6 @@
+* Adds a new trait, Tiny Stomach ([#73360](https://github.com/CleverRaven/Cataclysm-DDA/pull/73360))
+* Fix combat exoskeleton prices ([#73384](https://github.com/CleverRaven/Cataclysm-DDA/pull/73384))
+* Change color of 2 medical zombies ([#73403](https://github.com/CleverRaven/Cataclysm-DDA/pull/73403))
 * Fix bug crashing access to Z=10 and enable access to the level. ([#73376](https://github.com/CleverRaven/Cataclysm-DDA/pull/73376))
 * Show NEW! in List Items menu ([#73400](https://github.com/CleverRaven/Cataclysm-DDA/pull/73400))
 * Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
@@ -207,6 +210,5 @@
 * [Sky Island] Add buildable north chamber missions and mapgen ([#73241](https://github.com/CleverRaven/Cataclysm-DDA/pull/73241))
 * [MoM] Add the Megakinesis telekinetic power ([#73215](https://github.com/CleverRaven/Cataclysm-DDA/pull/73215))
 * [Magiclysm] Tune conveyance spells with scaling modifier ([#73225](https://github.com/CleverRaven/Cataclysm-DDA/pull/73225))
-* Edit candles to be slightly more realistic ([#73204](https://github.com/CleverRaven/Cataclysm-DDA/pull/73204))
 * Sky Island: fix double colon in the expedition timer ([#73212](https://github.com/CleverRaven/Cataclysm-DDA/pull/73212))
 * fix copper cable drop from fridges ([#73214](https://github.com/CleverRaven/Cataclysm-DDA/pull/73214))
