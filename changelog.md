@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-03-1808 ([0a74bb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-1808))
+
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 
 ---

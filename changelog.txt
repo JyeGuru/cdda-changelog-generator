@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-03-1808 (0a74bb4)
 * fix `game.h` typo (#73460)
 
 Cataclysm-DDA experimental build 2024-05-03-1515 (748383b)
