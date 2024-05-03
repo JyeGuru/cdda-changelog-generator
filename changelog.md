@@ -1,3 +1,4 @@
+* fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 
 ---
 
@@ -203,7 +204,6 @@
 * Remove `charges-min` and `charges-max` ([#73277](https://github.com/CleverRaven/Cataclysm-DDA/pull/73277))
 * Update Cureall Effect ([#73285](https://github.com/CleverRaven/Cataclysm-DDA/pull/73285))
 * 1L Silver Ingot should have "material" property of silver instead of lead ([#73263](https://github.com/CleverRaven/Cataclysm-DDA/pull/73263))
-* Not to use meat chunks in the smoking rack ([#73234](https://github.com/CleverRaven/Cataclysm-DDA/pull/73234))
 * put new fridges on the maps ([#73250](https://github.com/CleverRaven/Cataclysm-DDA/pull/73250))
 * Adjust MOLLE pouch prices ([#73257](https://github.com/CleverRaven/Cataclysm-DDA/pull/73257))
 * [MoM] Add actual fear effect to Primal Terror telepathic power ([#73266](https://github.com/CleverRaven/Cataclysm-DDA/pull/73266))
