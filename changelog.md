@@ -1,3 +1,5 @@
+* Fix bug crashing access to Z=10 and enable access to the level. ([#73376](https://github.com/CleverRaven/Cataclysm-DDA/pull/73376))
+* Show NEW! in List Items menu ([#73400](https://github.com/CleverRaven/Cataclysm-DDA/pull/73400))
 * Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
 * LIXA, EOC variable name correction ([#73401](https://github.com/CleverRaven/Cataclysm-DDA/pull/73401))
 * Beast mutants can mutate quills ([#73405](https://github.com/CleverRaven/Cataclysm-DDA/pull/73405))
@@ -208,5 +210,3 @@
 * Edit candles to be slightly more realistic ([#73204](https://github.com/CleverRaven/Cataclysm-DDA/pull/73204))
 * Sky Island: fix double colon in the expedition timer ([#73212](https://github.com/CleverRaven/Cataclysm-DDA/pull/73212))
 * fix copper cable drop from fridges ([#73214](https://github.com/CleverRaven/Cataclysm-DDA/pull/73214))
-* Add a new LMOE mapgen layout. ([#73199](https://github.com/CleverRaven/Cataclysm-DDA/pull/73199))
-* display fridge is a base item of a display fridge ([#73196](https://github.com/CleverRaven/Cataclysm-DDA/pull/73196))
