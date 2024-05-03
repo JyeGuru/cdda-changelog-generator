@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-03-1515 ([748383b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-1515))
+
+* Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-03-0523 ([b5701e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-0523))
 
 * Audit Prices for Canning Pots and Workshop Toolbox ([#73283](https://github.com/CleverRaven/Cataclysm-DDA/pull/73283))
@@ -189,7 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-04-27-0815 ([7e7510c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-0815))
 
 * fix lieutenant popup query ([#73296](https://github.com/CleverRaven/Cataclysm-DDA/pull/73296))
-* Implemented scaffolding + doc ([#73232](https://github.com/CleverRaven/Cataclysm-DDA/pull/73232))
 * Mass replacement of 'bag_plastic', more variance in powdered goods spawns ([#73253](https://github.com/CleverRaven/Cataclysm-DDA/pull/73253))
 * Fixed segfault when an NPC completes a pickup after a player has already taken it ([#73275](https://github.com/CleverRaven/Cataclysm-DDA/pull/73275))
 * Add cropped top and hoodie ([#73291](https://github.com/CleverRaven/Cataclysm-DDA/pull/73291))
