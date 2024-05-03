@@ -1,3 +1,6 @@
+* ImGui: screens not reporting the proper window sizes ([#73426](https://github.com/CleverRaven/Cataclysm-DDA/pull/73426))
+* Simplified dig/mine stairs code ([#73431](https://github.com/CleverRaven/Cataclysm-DDA/pull/73431))
+* Remove translate_ter ([#73437](https://github.com/CleverRaven/Cataclysm-DDA/pull/73437))
 * Container audit (mostly transparency) ([#73458](https://github.com/CleverRaven/Cataclysm-DDA/pull/73458))
 * `src/debug_menu.cpp`: split functions from `void debug()` ([#73428](https://github.com/CleverRaven/Cataclysm-DDA/pull/73428))
 
@@ -211,7 +214,4 @@
 * Add a new LMOE mapgen layout. ([#73199](https://github.com/CleverRaven/Cataclysm-DDA/pull/73199))
 * Replace `price` and `price_postapoc` int with string ([#73195](https://github.com/CleverRaven/Cataclysm-DDA/pull/73195))
 * Update the table of contents in doc/JSON_INFO.md ([#73182](https://github.com/CleverRaven/Cataclysm-DDA/pull/73182))
-* AIM: when cannot wear, try to wield ([#73181](https://github.com/CleverRaven/Cataclysm-DDA/pull/73181))
 * display fridge is a base item of a display fridge ([#73196](https://github.com/CleverRaven/Cataclysm-DDA/pull/73196))
-* don't trickle fast imgui inputs ([#73180](https://github.com/CleverRaven/Cataclysm-DDA/pull/73180))
-* [Sky Island] Add east bunker room upgrades to possible missions  ([#73178](https://github.com/CleverRaven/Cataclysm-DDA/pull/73178))
