@@ -1,3 +1,4 @@
+* Made army and USMC bayonets look like National Guard bayonets ([#73487](https://github.com/CleverRaven/Cataclysm-DDA/pull/73487))
 
 ---
 
@@ -217,4 +218,3 @@
 * [Magiclysm] Migrate Gluttonous Consumption spell to effect-only ([#73255](https://github.com/CleverRaven/Cataclysm-DDA/pull/73255))
 * Quick wormy fixes ([#73265](https://github.com/CleverRaven/Cataclysm-DDA/pull/73265))
 * Fix typo that made abandoned cabins and nursing home labs much more common ([#73248](https://github.com/CleverRaven/Cataclysm-DDA/pull/73248))
-* [Sky Island] Add buildable north chamber missions and mapgen ([#73241](https://github.com/CleverRaven/Cataclysm-DDA/pull/73241))

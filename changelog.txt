@@ -1,3 +1,4 @@
+* Made army and USMC bayonets look like National Guard bayonets (#73487)
 
 Cataclysm-DDA experimental build 2024-05-03-2217 (d3b1698)
 * Revert "Bow reload time fix (#73305)" (#73482)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2024-04-27-1035 (0e4a71b)
 * [Magiclysm] Migrate Gluttonous Consumption spell to effect-only (#73255)
 * Quick wormy fixes (#73265)
 * Fix typo that made abandoned cabins and nursing home labs much more common (#73248)
-* [Sky Island] Add buildable north chamber missions and mapgen (#73241)
