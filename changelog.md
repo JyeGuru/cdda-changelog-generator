@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-04-0725 ([3a6c4bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-0725))
+
 * Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
 * Adding the spell name to the casting wait thingy ([#73325](https://github.com/CleverRaven/Cataclysm-DDA/pull/73325))
 * [MoM] VERDANT HAND combat protocols rework ([#73412](https://github.com/CleverRaven/Cataclysm-DDA/pull/73412))
@@ -201,11 +206,6 @@
 * Fix Typos and Punctuation of Techniques ([#73312](https://github.com/CleverRaven/Cataclysm-DDA/pull/73312))
 * Yrax Quadraphract adjustments ([#73335](https://github.com/CleverRaven/Cataclysm-DDA/pull/73335))
 * missing looks_like ([#73318](https://github.com/CleverRaven/Cataclysm-DDA/pull/73318))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-27-2050 ([173615a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-2050))
-
 * remove empty item group entry from sugar_various ([#73323](https://github.com/CleverRaven/Cataclysm-DDA/pull/73323))
 * Added code to restore the terminal state on crash on curses ([#73272](https://github.com/CleverRaven/Cataclysm-DDA/pull/73272))
 * fix lieutenant popup query ([#73296](https://github.com/CleverRaven/Cataclysm-DDA/pull/73296))
