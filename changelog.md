@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-04-1558 ([64321d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-1558))
+
 * Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
 
 ---
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-04-28-0522 ([9105f03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-0522))
 
 * fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-28-0239 ([ed85b64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-0239))
-
 * Faster ascii overmap drawing ([#73321](https://github.com/CleverRaven/Cataclysm-DDA/pull/73321))
 * Bow reload time fix ([#73305](https://github.com/CleverRaven/Cataclysm-DDA/pull/73305))
 * Add a new label for Extra Mutated Scenarios and make it also add the mutation label ([#73292](https://github.com/CleverRaven/Cataclysm-DDA/pull/73292))
