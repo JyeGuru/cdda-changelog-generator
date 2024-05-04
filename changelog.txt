@@ -1,3 +1,7 @@
+* Weekly Changelog 2024-04-22 to 2024-04-29 (#73369)
+
+Cataclysm-DDA experimental build 2024-05-04-2218 (fa7e258)
+* [MoM] Add better enchantments to some psionic overloads (#73479)
 
 Cataclysm-DDA experimental build 2024-05-04-1558 (64321d6)
 * Routine i18n updates on 04 May 2024 (#73494)
@@ -91,9 +95,6 @@ Cataclysm-DDA experimental build 2024-04-30-1406 (0c76632)
 
 Cataclysm-DDA experimental build 2024-04-30-0753 (6839cac)
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json (#73320)
-
-Cataclysm-DDA experimental build 2024-04-30-0413 (db4aa91)
-* Update EOCs.json for sky island mod to correctly add/remove warp vortex token recipe (#73271)
 * Add mushroom ketchup, fried pickled veggies and krampouezh (#73301)
 * Aftershock: Blood bionics (#73345)
 * More debug power (#73366)
@@ -119,8 +120,6 @@ Cataclysm-DDA experimental build 2024-04-28-1436 (99b4944)
 
 Cataclysm-DDA experimental build 2024-04-28-1059 (58f64c0)
 * Make pupating explosion quieter (#73338)
-
-Cataclysm-DDA experimental build 2024-04-28-0522 (9105f03)
 * fix disappearing arrows (#73346)
 * Faster ascii overmap drawing (#73321)
 * Bow reload time fix (#73305)
@@ -142,5 +141,4 @@ Cataclysm-DDA experimental build 2024-04-28-0522 (9105f03)
 * Add missing period to book description (#73289)
 * Remove `charges-min` and `charges-max` (#73277)
 * Update Cureall Effect (#73285)
-* remove rand_charges (#73270)
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff (#73276)

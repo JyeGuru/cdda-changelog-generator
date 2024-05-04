@@ -1,3 +1,10 @@
+* Weekly Changelog 2024-04-22 to 2024-04-29 ([#73369](https://github.com/CleverRaven/Cataclysm-DDA/pull/73369))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-04-2218 ([fa7e258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-2218))
+
+* [MoM] Add better enchantments to some psionic overloads ([#73479](https://github.com/CleverRaven/Cataclysm-DDA/pull/73479))
 
 ---
 
@@ -145,12 +152,6 @@
 #### Cataclysm-DDA experimental build 2024-04-30-0753 ([6839cac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-0753))
 
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json ([#73320](https://github.com/CleverRaven/Cataclysm-DDA/pull/73320))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-30-0413 ([db4aa91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-0413))
-
-* Update EOCs.json for sky island mod to correctly add/remove warp vortex token recipe ([#73271](https://github.com/CleverRaven/Cataclysm-DDA/pull/73271))
 * Add mushroom ketchup, fried pickled veggies and krampouezh ([#73301](https://github.com/CleverRaven/Cataclysm-DDA/pull/73301))
 * Aftershock: Blood bionics ([#73345](https://github.com/CleverRaven/Cataclysm-DDA/pull/73345))
 * More debug power ([#73366](https://github.com/CleverRaven/Cataclysm-DDA/pull/73366))
@@ -191,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-04-28-1059 ([58f64c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-1059))
 
 * Make pupating explosion quieter ([#73338](https://github.com/CleverRaven/Cataclysm-DDA/pull/73338))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-28-0522 ([9105f03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-0522))
-
 * fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
 * Faster ascii overmap drawing ([#73321](https://github.com/CleverRaven/Cataclysm-DDA/pull/73321))
 * Bow reload time fix ([#73305](https://github.com/CleverRaven/Cataclysm-DDA/pull/73305))
@@ -217,5 +213,4 @@
 * Add missing period to book description ([#73289](https://github.com/CleverRaven/Cataclysm-DDA/pull/73289))
 * Remove `charges-min` and `charges-max` ([#73277](https://github.com/CleverRaven/Cataclysm-DDA/pull/73277))
 * Update Cureall Effect ([#73285](https://github.com/CleverRaven/Cataclysm-DDA/pull/73285))
-* remove rand_charges ([#73270](https://github.com/CleverRaven/Cataclysm-DDA/pull/73270))
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff ([#73276](https://github.com/CleverRaven/Cataclysm-DDA/pull/73276))
