@@ -1,3 +1,4 @@
+* Not to try to set charges for item without charge. ([#73444](https://github.com/CleverRaven/Cataclysm-DDA/pull/73444))
 * Variantize card games ([#73457](https://github.com/CleverRaven/Cataclysm-DDA/pull/73457))
 * [MoM] Contemplation doesn't require light ([#73462](https://github.com/CleverRaven/Cataclysm-DDA/pull/73462))
 * [MoM] Tweak formula for gaining Observed so repeated channeling is the most important factor ([#73464](https://github.com/CleverRaven/Cataclysm-DDA/pull/73464))
@@ -217,5 +218,4 @@
 * [MoM] Add actual fear effect to Primal Terror telepathic power ([#73266](https://github.com/CleverRaven/Cataclysm-DDA/pull/73266))
 * remove rand_charges ([#73270](https://github.com/CleverRaven/Cataclysm-DDA/pull/73270))
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff ([#73276](https://github.com/CleverRaven/Cataclysm-DDA/pull/73276))
-* [Magiclysm] Migrate Gluttonous Consumption spell to effect-only ([#73255](https://github.com/CleverRaven/Cataclysm-DDA/pull/73255))
 * Quick wormy fixes ([#73265](https://github.com/CleverRaven/Cataclysm-DDA/pull/73265))
