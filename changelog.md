@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-04-1240 ([00d3e82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-1240))
+
+* Fix GCC 9: initialize to `nullptr` ([#73473](https://github.com/CleverRaven/Cataclysm-DDA/pull/73473))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-04-0725 ([3a6c4bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-0725))
 
 * Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-04-28-0239 ([ed85b64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-0239))
 
 * Faster ascii overmap drawing ([#73321](https://github.com/CleverRaven/Cataclysm-DDA/pull/73321))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-27-2312 ([da07b2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-2312))
-
 * Bow reload time fix ([#73305](https://github.com/CleverRaven/Cataclysm-DDA/pull/73305))
 * Add a new label for Extra Mutated Scenarios and make it also add the mutation label ([#73292](https://github.com/CleverRaven/Cataclysm-DDA/pull/73292))
 * remove count-min and count-max ([#73304](https://github.com/CleverRaven/Cataclysm-DDA/pull/73304))
@@ -218,4 +219,3 @@
 * [MoM] Add actual fear effect to Primal Terror telepathic power ([#73266](https://github.com/CleverRaven/Cataclysm-DDA/pull/73266))
 * remove rand_charges ([#73270](https://github.com/CleverRaven/Cataclysm-DDA/pull/73270))
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff ([#73276](https://github.com/CleverRaven/Cataclysm-DDA/pull/73276))
-* Quick wormy fixes ([#73265](https://github.com/CleverRaven/Cataclysm-DDA/pull/73265))

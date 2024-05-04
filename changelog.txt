@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-04-1240 (00d3e82)
+* Fix GCC 9: initialize to `nullptr` (#73473)
+
 Cataclysm-DDA experimental build 2024-05-04-0725 (3a6c4bb)
 * Changed map::shift to call add_roofs and compressed the code (#73478)
 * Adding the spell name to the casting wait thingy (#73325)
@@ -119,8 +122,6 @@ Cataclysm-DDA experimental build 2024-04-28-0522 (9105f03)
 
 Cataclysm-DDA experimental build 2024-04-28-0239 (ed85b64)
 * Faster ascii overmap drawing (#73321)
-
-Cataclysm-DDA experimental build 2024-04-27-2312 (da07b2a)
 * Bow reload time fix (#73305)
 * Add a new label for Extra Mutated Scenarios and make it also add the mutation label (#73292)
 * remove count-min and count-max (#73304)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-04-27-2312 (da07b2a)
 * [MoM] Add actual fear effect to Primal Terror telepathic power (#73266)
 * remove rand_charges (#73270)
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff (#73276)
-* Quick wormy fixes (#73265)
