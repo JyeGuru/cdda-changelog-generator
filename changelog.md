@@ -1,3 +1,4 @@
+* Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
 
 ---
 
@@ -216,6 +217,5 @@
 * Add missing period to book description ([#73289](https://github.com/CleverRaven/Cataclysm-DDA/pull/73289))
 * Remove `charges-min` and `charges-max` ([#73277](https://github.com/CleverRaven/Cataclysm-DDA/pull/73277))
 * Update Cureall Effect ([#73285](https://github.com/CleverRaven/Cataclysm-DDA/pull/73285))
-* [MoM] Add actual fear effect to Primal Terror telepathic power ([#73266](https://github.com/CleverRaven/Cataclysm-DDA/pull/73266))
 * remove rand_charges ([#73270](https://github.com/CleverRaven/Cataclysm-DDA/pull/73270))
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff ([#73276](https://github.com/CleverRaven/Cataclysm-DDA/pull/73276))
