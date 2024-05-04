@@ -1,3 +1,4 @@
+* Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
 * Adding the spell name to the casting wait thingy ([#73325](https://github.com/CleverRaven/Cataclysm-DDA/pull/73325))
 * [MoM] VERDANT HAND combat protocols rework ([#73412](https://github.com/CleverRaven/Cataclysm-DDA/pull/73412))
 * Not to try to set charges for item without charge. ([#73444](https://github.com/CleverRaven/Cataclysm-DDA/pull/73444))
@@ -214,7 +215,6 @@
 * Add missing period to book description ([#73289](https://github.com/CleverRaven/Cataclysm-DDA/pull/73289))
 * Remove `charges-min` and `charges-max` ([#73277](https://github.com/CleverRaven/Cataclysm-DDA/pull/73277))
 * Update Cureall Effect ([#73285](https://github.com/CleverRaven/Cataclysm-DDA/pull/73285))
-* 1L Silver Ingot should have "material" property of silver instead of lead ([#73263](https://github.com/CleverRaven/Cataclysm-DDA/pull/73263))
 * [MoM] Add actual fear effect to Primal Terror telepathic power ([#73266](https://github.com/CleverRaven/Cataclysm-DDA/pull/73266))
 * remove rand_charges ([#73270](https://github.com/CleverRaven/Cataclysm-DDA/pull/73270))
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff ([#73276](https://github.com/CleverRaven/Cataclysm-DDA/pull/73276))
