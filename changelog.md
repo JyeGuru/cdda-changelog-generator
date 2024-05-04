@@ -1,3 +1,12 @@
+* Variantize card games ([#73457](https://github.com/CleverRaven/Cataclysm-DDA/pull/73457))
+* [MoM] Contemplation doesn't require light ([#73462](https://github.com/CleverRaven/Cataclysm-DDA/pull/73462))
+* [MoM] Tweak formula for gaining Observed so repeated channeling is the most important factor ([#73464](https://github.com/CleverRaven/Cataclysm-DDA/pull/73464))
+* Remove redundant `unarmed_weapons_allowed` variable from martial art techs ([#73485](https://github.com/CleverRaven/Cataclysm-DDA/pull/73485))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-04-0338 ([7dd8b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-0338))
+
 * Made army and USMC bayonets look like National Guard bayonets ([#73487](https://github.com/CleverRaven/Cataclysm-DDA/pull/73487))
 
 ---
@@ -195,14 +204,8 @@
 #### Cataclysm-DDA experimental build 2024-04-27-2050 ([173615a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-2050))
 
 * remove empty item group entry from sugar_various ([#73323](https://github.com/CleverRaven/Cataclysm-DDA/pull/73323))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-27-1035 ([0e4a71b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-27-1035))
-
 * Added code to restore the terminal state on crash on curses ([#73272](https://github.com/CleverRaven/Cataclysm-DDA/pull/73272))
 * fix lieutenant popup query ([#73296](https://github.com/CleverRaven/Cataclysm-DDA/pull/73296))
-* Mass replacement of 'bag_plastic', more variance in powdered goods spawns ([#73253](https://github.com/CleverRaven/Cataclysm-DDA/pull/73253))
 * Fixed segfault when an NPC completes a pickup after a player has already taken it ([#73275](https://github.com/CleverRaven/Cataclysm-DDA/pull/73275))
 * Add cropped top and hoodie ([#73291](https://github.com/CleverRaven/Cataclysm-DDA/pull/73291))
 * [MoM] Fix Force Shove, Force Shove downs targets ([#73274](https://github.com/CleverRaven/Cataclysm-DDA/pull/73274))
@@ -210,11 +213,9 @@
 * Remove `charges-min` and `charges-max` ([#73277](https://github.com/CleverRaven/Cataclysm-DDA/pull/73277))
 * Update Cureall Effect ([#73285](https://github.com/CleverRaven/Cataclysm-DDA/pull/73285))
 * 1L Silver Ingot should have "material" property of silver instead of lead ([#73263](https://github.com/CleverRaven/Cataclysm-DDA/pull/73263))
-* put new fridges on the maps ([#73250](https://github.com/CleverRaven/Cataclysm-DDA/pull/73250))
 * Adjust MOLLE pouch prices ([#73257](https://github.com/CleverRaven/Cataclysm-DDA/pull/73257))
 * [MoM] Add actual fear effect to Primal Terror telepathic power ([#73266](https://github.com/CleverRaven/Cataclysm-DDA/pull/73266))
 * remove rand_charges ([#73270](https://github.com/CleverRaven/Cataclysm-DDA/pull/73270))
 * [MoM] Give biokinetic monsters Hardened Skin as an effect instead of a permanent armor buff ([#73276](https://github.com/CleverRaven/Cataclysm-DDA/pull/73276))
 * [Magiclysm] Migrate Gluttonous Consumption spell to effect-only ([#73255](https://github.com/CleverRaven/Cataclysm-DDA/pull/73255))
 * Quick wormy fixes ([#73265](https://github.com/CleverRaven/Cataclysm-DDA/pull/73265))
-* Fix typo that made abandoned cabins and nursing home labs much more common ([#73248](https://github.com/CleverRaven/Cataclysm-DDA/pull/73248))
