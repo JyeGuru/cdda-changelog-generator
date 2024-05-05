@@ -189,11 +189,6 @@
 * Fix migration of predecessor overmap terrains ([#73286](https://github.com/CleverRaven/Cataclysm-DDA/pull/73286))
 * Both types of stone spears can now be taken apart ([#73300](https://github.com/CleverRaven/Cataclysm-DDA/pull/73300))
 * Fire axe consistency ([#73329](https://github.com/CleverRaven/Cataclysm-DDA/pull/73329))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-29-0129 ([933c6f4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-29-0129))
-
 * Bugfix: Allow select-all when highlighted item is non-selectable ([#73343](https://github.com/CleverRaven/Cataclysm-DDA/pull/73343))
 * Adjust the overmap test to remove some failure modes and make it more robust ([#73339](https://github.com/CleverRaven/Cataclysm-DDA/pull/73339))
 * Aftershock: Magazine flag audit ([#73348](https://github.com/CleverRaven/Cataclysm-DDA/pull/73348))

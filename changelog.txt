@@ -120,8 +120,6 @@ Cataclysm-DDA experimental build 2024-04-29-2047 (1387468)
 * Fix migration of predecessor overmap terrains (#73286)
 * Both types of stone spears can now be taken apart (#73300)
 * Fire axe consistency (#73329)
-
-Cataclysm-DDA experimental build 2024-04-29-0129 (933c6f4)
 * Bugfix: Allow select-all when highlighted item is non-selectable (#73343)
 * Adjust the overmap test to remove some failure modes and make it more robust (#73339)
 * Aftershock: Magazine flag audit (#73348)
