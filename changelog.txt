@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-05-1723 (8998865)
 * ImGui popup: switch selected option when lower-case letter is pressed (#73420)
 * [MoM] Using psionics in or near the Nether is more powerful, but also more risky (#73461)
 * Make CZ 75 16 Round Mag Actually Hold 16 Rounds and Fix ID (#73451)
@@ -121,8 +123,6 @@ Cataclysm-DDA experimental build 2024-04-29-2047 (1387468)
 
 Cataclysm-DDA experimental build 2024-04-29-0129 (933c6f4)
 * Bugfix: Allow select-all when highlighted item is non-selectable (#73343)
-
-Cataclysm-DDA experimental build 2024-04-28-2104 (1b82e68)
 * Adjust the overmap test to remove some failure modes and make it more robust (#73339)
 * Aftershock: Magazine flag audit (#73348)
 * Make pupating explosion quieter (#73338)
