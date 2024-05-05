@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-05-1403 ([014e815](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-05-1403))
+
+* Fix opening doors while incorporeal ([#73513](https://github.com/CleverRaven/Cataclysm-DDA/pull/73513))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-05-0153 ([19d58b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-05-0153))
 
 * Weekly Changelog 2024-04-22 to 2024-04-29 ([#73369](https://github.com/CleverRaven/Cataclysm-DDA/pull/73369))
@@ -200,7 +206,6 @@
 * Yrax Quadraphract adjustments ([#73335](https://github.com/CleverRaven/Cataclysm-DDA/pull/73335))
 * missing looks_like ([#73318](https://github.com/CleverRaven/Cataclysm-DDA/pull/73318))
 * remove empty item group entry from sugar_various ([#73323](https://github.com/CleverRaven/Cataclysm-DDA/pull/73323))
-* Added code to restore the terminal state on crash on curses ([#73272](https://github.com/CleverRaven/Cataclysm-DDA/pull/73272))
 * fix lieutenant popup query ([#73296](https://github.com/CleverRaven/Cataclysm-DDA/pull/73296))
 * Fixed segfault when an NPC completes a pickup after a player has already taken it ([#73275](https://github.com/CleverRaven/Cataclysm-DDA/pull/73275))
 * Add cropped top and hoodie ([#73291](https://github.com/CleverRaven/Cataclysm-DDA/pull/73291))
