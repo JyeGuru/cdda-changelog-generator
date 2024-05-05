@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-05-0153 ([19d58b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-05-0153))
+
 * Weekly Changelog 2024-04-22 to 2024-04-29 ([#73369](https://github.com/CleverRaven/Cataclysm-DDA/pull/73369))
 
 ---
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-04-28-1436 ([99b4944](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-1436))
 
 * Aftershock: Magazine flag audit ([#73348](https://github.com/CleverRaven/Cataclysm-DDA/pull/73348))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-28-1059 ([58f64c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-28-1059))
-
 * Make pupating explosion quieter ([#73338](https://github.com/CleverRaven/Cataclysm-DDA/pull/73338))
 * fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
 * Faster ascii overmap drawing ([#73321](https://github.com/CleverRaven/Cataclysm-DDA/pull/73321))
