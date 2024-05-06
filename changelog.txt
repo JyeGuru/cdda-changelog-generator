@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-06-1236 (3428b61)
+* [MoM] recipe flags for contemplation (#73505)
+
 Cataclysm-DDA experimental build 2024-05-05-1723 (8998865)
 * ImGui popup: switch selected option when lower-case letter is pressed (#73420)
 * [MoM] Using psionics in or near the Nether is more powerful, but also more risky (#73461)
@@ -50,7 +53,6 @@ Cataclysm-DDA experimental build 2024-05-03-0523 (b5701e2)
 * Fix plural names of exoskeletons (#73378)
 * Fix obtain cost in reloading action, and a typo in item_handling_cost. (#73386)
 * [MoM] Add scaling to Internal Fire (#73368)
-* [Sky Island] Upgrade central skylight missions and mapgen (#73279)
 * Adds a new trait, Tiny Stomach (#73360)
 * Fix combat exoskeleton prices (#73384)
 * Change color of 2 medical zombies (#73403)

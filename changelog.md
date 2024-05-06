@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-06-1236 ([3428b61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-1236))
+
+* [MoM] recipe flags for contemplation ([#73505](https://github.com/CleverRaven/Cataclysm-DDA/pull/73505))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-05-1723 ([8998865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-05-1723))
 
 * ImGui popup: switch selected option when lower-case letter is pressed ([#73420](https://github.com/CleverRaven/Cataclysm-DDA/pull/73420))
@@ -86,7 +92,6 @@
 * Fix plural names of exoskeletons ([#73378](https://github.com/CleverRaven/Cataclysm-DDA/pull/73378))
 * Fix obtain cost in reloading action, and a typo in item_handling_cost. ([#73386](https://github.com/CleverRaven/Cataclysm-DDA/pull/73386))
 * [MoM] Add scaling to Internal Fire ([#73368](https://github.com/CleverRaven/Cataclysm-DDA/pull/73368))
-* [Sky Island] Upgrade central skylight missions and mapgen ([#73279](https://github.com/CleverRaven/Cataclysm-DDA/pull/73279))
 * Adds a new trait, Tiny Stomach ([#73360](https://github.com/CleverRaven/Cataclysm-DDA/pull/73360))
 * Fix combat exoskeleton prices ([#73384](https://github.com/CleverRaven/Cataclysm-DDA/pull/73384))
 * Change color of 2 medical zombies ([#73403](https://github.com/CleverRaven/Cataclysm-DDA/pull/73403))
