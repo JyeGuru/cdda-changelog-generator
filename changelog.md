@@ -1,3 +1,4 @@
+* add combat exoskeleton template to aftershock nanofab ([#73475](https://github.com/CleverRaven/Cataclysm-DDA/pull/73475))
 
 ---
 
@@ -213,4 +214,3 @@
 * remove empty item group entry from sugar_various ([#73323](https://github.com/CleverRaven/Cataclysm-DDA/pull/73323))
 * fix lieutenant popup query ([#73296](https://github.com/CleverRaven/Cataclysm-DDA/pull/73296))
 * Add cropped top and hoodie ([#73291](https://github.com/CleverRaven/Cataclysm-DDA/pull/73291))
-* Add missing period to book description ([#73289](https://github.com/CleverRaven/Cataclysm-DDA/pull/73289))

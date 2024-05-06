@@ -1,3 +1,4 @@
+* add combat exoskeleton template to aftershock nanofab (#73475)
 
 Cataclysm-DDA experimental build 2024-05-06-2134 (0a00a5c)
 * Maps only highlight newly revealed OMTs (#73522)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2024-04-30-0753 (6839cac)
 * remove empty item group entry from sugar_various (#73323)
 * fix lieutenant popup query (#73296)
 * Add cropped top and hoodie (#73291)
-* Add missing period to book description (#73289)
