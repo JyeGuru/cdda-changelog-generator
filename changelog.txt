@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-06-2134 (0a00a5c)
 * Maps only highlight newly revealed OMTs (#73522)
 
 Cataclysm-DDA experimental build 2024-05-06-1828 (5f086e8)

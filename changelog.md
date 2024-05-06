@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-06-2134 ([0a00a5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-2134))
+
 * Maps only highlight newly revealed OMTs ([#73522](https://github.com/CleverRaven/Cataclysm-DDA/pull/73522))
 
 ---
