@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-06-2353 ([d6a507f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-2353))
+
 * add combat exoskeleton template to aftershock nanofab ([#73475](https://github.com/CleverRaven/Cataclysm-DDA/pull/73475))
 
 ---
