@@ -81,12 +81,6 @@
 #### Cataclysm-DDA experimental build 2024-05-03-1515 ([748383b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-1515))
 
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-03-0523 ([b5701e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-0523))
-
-* Audit Prices for Canning Pots and Workshop Toolbox ([#73283](https://github.com/CleverRaven/Cataclysm-DDA/pull/73283))
 * Add Oversize Reinforced Cardboard Box ([#73342](https://github.com/CleverRaven/Cataclysm-DDA/pull/73342))
 * Aftershock: Augustmoon Outfitter ([#73356](https://github.com/CleverRaven/Cataclysm-DDA/pull/73356))
 * Fix plural names of exoskeletons ([#73378](https://github.com/CleverRaven/Cataclysm-DDA/pull/73378))
