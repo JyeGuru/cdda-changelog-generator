@@ -1,3 +1,7 @@
+* Maps only highlight newly revealed OMTs (#73522)
+
+Cataclysm-DDA experimental build 2024-05-06-1828 (5f086e8)
+* Fix anaerobic digester (#73523)
 
 Cataclysm-DDA experimental build 2024-05-06-1236 (3428b61)
 * [MoM] recipe flags for contemplation (#73505)
@@ -113,10 +117,7 @@ Cataclysm-DDA experimental build 2024-04-30-0753 (6839cac)
 * fix bandaging and disinfection showing wrong quality (#73379)
 * Standard scaffolding ground requirements (#73380)
 * [Xedra Evolved] Move Paraclesian eye traits to Personal layer (#73371)
-
-Cataclysm-DDA experimental build 2024-04-29-2047 (1387468)
 * Eddie Can Talk About His Father (#73383)
-* Fix migration of predecessor overmap terrains (#73286)
 * Both types of stone spears can now be taken apart (#73300)
 * Fire axe consistency (#73329)
 * Bugfix: Allow select-all when highlighted item is non-selectable (#73343)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-04-29-2047 (1387468)
 * fix lieutenant popup query (#73296)
 * Add cropped top and hoodie (#73291)
 * Add missing period to book description (#73289)
-* Update Cureall Effect (#73285)

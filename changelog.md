@@ -1,3 +1,10 @@
+* Maps only highlight newly revealed OMTs ([#73522](https://github.com/CleverRaven/Cataclysm-DDA/pull/73522))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-06-1828 ([5f086e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-1828))
+
+* Fix anaerobic digester ([#73523](https://github.com/CleverRaven/Cataclysm-DDA/pull/73523))
 
 ---
 
@@ -179,13 +186,7 @@
 * fix bandaging and disinfection showing wrong quality ([#73379](https://github.com/CleverRaven/Cataclysm-DDA/pull/73379))
 * Standard scaffolding ground requirements ([#73380](https://github.com/CleverRaven/Cataclysm-DDA/pull/73380))
 * [Xedra Evolved] Move Paraclesian eye traits to Personal layer ([#73371](https://github.com/CleverRaven/Cataclysm-DDA/pull/73371))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-29-2047 ([1387468](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-29-2047))
-
 * Eddie Can Talk About His Father ([#73383](https://github.com/CleverRaven/Cataclysm-DDA/pull/73383))
-* Fix migration of predecessor overmap terrains ([#73286](https://github.com/CleverRaven/Cataclysm-DDA/pull/73286))
 * Both types of stone spears can now be taken apart ([#73300](https://github.com/CleverRaven/Cataclysm-DDA/pull/73300))
 * Fire axe consistency ([#73329](https://github.com/CleverRaven/Cataclysm-DDA/pull/73329))
 * Bugfix: Allow select-all when highlighted item is non-selectable ([#73343](https://github.com/CleverRaven/Cataclysm-DDA/pull/73343))
@@ -208,4 +209,3 @@
 * fix lieutenant popup query ([#73296](https://github.com/CleverRaven/Cataclysm-DDA/pull/73296))
 * Add cropped top and hoodie ([#73291](https://github.com/CleverRaven/Cataclysm-DDA/pull/73291))
 * Add missing period to book description ([#73289](https://github.com/CleverRaven/Cataclysm-DDA/pull/73289))
-* Update Cureall Effect ([#73285](https://github.com/CleverRaven/Cataclysm-DDA/pull/73285))
