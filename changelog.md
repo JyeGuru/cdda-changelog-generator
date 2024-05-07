@@ -190,11 +190,6 @@
 
 * Edit shattering weakpoint ([#73377](https://github.com/CleverRaven/Cataclysm-DDA/pull/73377))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-30-1406 ([0c76632](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-1406))
-
 * Make requirement groups for plastic recipes ([#73319](https://github.com/CleverRaven/Cataclysm-DDA/pull/73319))
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json ([#73320](https://github.com/CleverRaven/Cataclysm-DDA/pull/73320))
 * Aftershock: Blood bionics ([#73345](https://github.com/CleverRaven/Cataclysm-DDA/pull/73345))

@@ -121,8 +121,6 @@ Cataclysm-DDA experimental build 2024-05-01-0547 (5590543)
 Cataclysm-DDA experimental build 2024-04-30-2145 (838790c)
 * Edit shattering weakpoint (#73377)
 * You Can Get Drunk on Brandied Fruit (#73396)
-
-Cataclysm-DDA experimental build 2024-04-30-1406 (0c76632)
 * Make requirement groups for plastic recipes (#73319)
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json (#73320)
 * Aftershock: Blood bionics (#73345)
