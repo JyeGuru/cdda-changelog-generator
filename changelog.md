@@ -1,3 +1,7 @@
+* Make pillbox_large's pockets transparent ([#73533](https://github.com/CleverRaven/Cataclysm-DDA/pull/73533))
+* Update description of mirror armor suits ([#73476](https://github.com/CleverRaven/Cataclysm-DDA/pull/73476))
+* Make dummies less dumb ([#73488](https://github.com/CleverRaven/Cataclysm-DDA/pull/73488))
+* Update Ankle Wallet Pouch to Accommodate Larger Wallets ([#73486](https://github.com/CleverRaven/Cataclysm-DDA/pull/73486))
 
 ---
 
@@ -121,12 +125,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-05-03-0220 ([abe3f76](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-0220))
-
-* [Extra Mutated Scenarios ] Adds new mutation trees to mod starts  ([#73290](https://github.com/CleverRaven/Cataclysm-DDA/pull/73290))
-
----
-
 #### Cataclysm-DDA experimental build 2024-05-02-2012 ([6347958](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-02-2012))
 
 * Add Ballistic Vest Disassembly Recipes ([#73447](https://github.com/CleverRaven/Cataclysm-DDA/pull/73447))
@@ -207,7 +205,6 @@
 * fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
 * Faster ascii overmap drawing ([#73321](https://github.com/CleverRaven/Cataclysm-DDA/pull/73321))
 * Bow reload time fix ([#73305](https://github.com/CleverRaven/Cataclysm-DDA/pull/73305))
-* Add a new label for Extra Mutated Scenarios and make it also add the mutation label ([#73292](https://github.com/CleverRaven/Cataclysm-DDA/pull/73292))
 * remove count-min and count-max ([#73304](https://github.com/CleverRaven/Cataclysm-DDA/pull/73304))
 * Aftershock: Crashed shuttles ([#73315](https://github.com/CleverRaven/Cataclysm-DDA/pull/73315))
 * [MoM] Add TOUGH_FEET to the Hardened Skin effect ([#73307](https://github.com/CleverRaven/Cataclysm-DDA/pull/73307))
@@ -217,5 +214,3 @@
 * Yrax Quadraphract adjustments ([#73335](https://github.com/CleverRaven/Cataclysm-DDA/pull/73335))
 * missing looks_like ([#73318](https://github.com/CleverRaven/Cataclysm-DDA/pull/73318))
 * remove empty item group entry from sugar_various ([#73323](https://github.com/CleverRaven/Cataclysm-DDA/pull/73323))
-* fix lieutenant popup query ([#73296](https://github.com/CleverRaven/Cataclysm-DDA/pull/73296))
-* Add cropped top and hoodie ([#73291](https://github.com/CleverRaven/Cataclysm-DDA/pull/73291))
