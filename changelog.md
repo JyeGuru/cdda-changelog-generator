@@ -51,7 +51,7 @@
 * [MoM] Using psionics in or near the Nether is more powerful, but also more risky ([#73461](https://github.com/CleverRaven/Cataclysm-DDA/pull/73461))
 * Make CZ 75 16 Round Mag Actually Hold 16 Rounds and Fix ID ([#73451](https://github.com/CleverRaven/Cataclysm-DDA/pull/73451))
 * Add new hairstyles from Mawranth's Hair Salon ([#73465](https://github.com/CleverRaven/Cataclysm-DDA/pull/73465))
-* fix: Now moving all items will not move favourite items, if other items are present. ([#73512](https://github.com/CleverRaven/Cataclysm-DDA/pull/73512))
+* fix: AIM Now moving all items will not move favourite items, if other items are present. ([#73512](https://github.com/CleverRaven/Cataclysm-DDA/pull/73512))
 
 ---
 
