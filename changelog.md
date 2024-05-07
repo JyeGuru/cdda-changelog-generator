@@ -1,4 +1,9 @@
 * Atomic Smartphone Flashlight Fix ([#73553](https://github.com/CleverRaven/Cataclysm-DDA/pull/73553))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-07-1338 ([de92ec5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-07-1338))
+
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic ([#73555](https://github.com/CleverRaven/Cataclysm-DDA/pull/73555))
 * Add Recipe for Portable Soldering Iron ([#73347](https://github.com/CleverRaven/Cataclysm-DDA/pull/73347))
 * [MoM] Jmathify and variable-ize power learning times ([#73529](https://github.com/CleverRaven/Cataclysm-DDA/pull/73529))
