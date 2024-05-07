@@ -1,4 +1,9 @@
 * Re-add generic cards, make the MoM Magician start with only generic cards ([#73545](https://github.com/CleverRaven/Cataclysm-DDA/pull/73545))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-07-0245 ([9514a3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-07-0245))
+
 * Make pillbox_large's pockets transparent ([#73533](https://github.com/CleverRaven/Cataclysm-DDA/pull/73533))
 * Update description of mirror armor suits ([#73476](https://github.com/CleverRaven/Cataclysm-DDA/pull/73476))
 * Make dummies less dumb ([#73488](https://github.com/CleverRaven/Cataclysm-DDA/pull/73488))
@@ -183,11 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-04-30-1406 ([0c76632](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-1406))
 
 * Make requirement groups for plastic recipes ([#73319](https://github.com/CleverRaven/Cataclysm-DDA/pull/73319))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-30-0753 ([6839cac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-0753))
-
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json ([#73320](https://github.com/CleverRaven/Cataclysm-DDA/pull/73320))
 * Add mushroom ketchup, fried pickled veggies and krampouezh ([#73301](https://github.com/CleverRaven/Cataclysm-DDA/pull/73301))
 * Aftershock: Blood bionics ([#73345](https://github.com/CleverRaven/Cataclysm-DDA/pull/73345))
