@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-07-1935 (35073a9)
 * Atomic Smartphone Flashlight Fix (#73553)
 
 Cataclysm-DDA experimental build 2024-05-07-1338 (de92ec5)
@@ -121,8 +123,6 @@ Cataclysm-DDA experimental build 2024-05-01-1221 (1d81cc0)
 
 Cataclysm-DDA experimental build 2024-05-01-0547 (5590543)
 * Fix typo in exodii_merchant_talk.json (#73385)
-
-Cataclysm-DDA experimental build 2024-04-30-2145 (838790c)
 * Edit shattering weakpoint (#73377)
 * You Can Get Drunk on Brandied Fruit (#73396)
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json (#73320)

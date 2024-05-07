@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-07-1935 ([35073a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-07-1935))
+
 * Atomic Smartphone Flashlight Fix ([#73553](https://github.com/CleverRaven/Cataclysm-DDA/pull/73553))
 
 ---
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-05-01-0547 ([5590543](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-01-0547))
 
 * Fix typo in exodii_merchant_talk.json ([#73385](https://github.com/CleverRaven/Cataclysm-DDA/pull/73385))
-
----
-
-#### Cataclysm-DDA experimental build 2024-04-30-2145 ([838790c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-04-30-2145))
-
 * Edit shattering weakpoint ([#73377](https://github.com/CleverRaven/Cataclysm-DDA/pull/73377))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json ([#73320](https://github.com/CleverRaven/Cataclysm-DDA/pull/73320))
