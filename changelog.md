@@ -1,3 +1,4 @@
+* Re-add generic cards, make the MoM Magician start with only generic cards ([#73545](https://github.com/CleverRaven/Cataclysm-DDA/pull/73545))
 * Make pillbox_large's pockets transparent ([#73533](https://github.com/CleverRaven/Cataclysm-DDA/pull/73533))
 * Update description of mirror armor suits ([#73476](https://github.com/CleverRaven/Cataclysm-DDA/pull/73476))
 * Make dummies less dumb ([#73488](https://github.com/CleverRaven/Cataclysm-DDA/pull/73488))
@@ -196,7 +197,6 @@
 * Standard scaffolding ground requirements ([#73380](https://github.com/CleverRaven/Cataclysm-DDA/pull/73380))
 * [Xedra Evolved] Move Paraclesian eye traits to Personal layer ([#73371](https://github.com/CleverRaven/Cataclysm-DDA/pull/73371))
 * Eddie Can Talk About His Father ([#73383](https://github.com/CleverRaven/Cataclysm-DDA/pull/73383))
-* Both types of stone spears can now be taken apart ([#73300](https://github.com/CleverRaven/Cataclysm-DDA/pull/73300))
 * Fire axe consistency ([#73329](https://github.com/CleverRaven/Cataclysm-DDA/pull/73329))
 * Bugfix: Allow select-all when highlighted item is non-selectable ([#73343](https://github.com/CleverRaven/Cataclysm-DDA/pull/73343))
 * Adjust the overmap test to remove some failure modes and make it more robust ([#73339](https://github.com/CleverRaven/Cataclysm-DDA/pull/73339))
