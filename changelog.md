@@ -1,3 +1,7 @@
+* No more foot locker material transmutation ([#73527](https://github.com/CleverRaven/Cataclysm-DDA/pull/73527))
+* Fix invalid alpha talker error ([#73514](https://github.com/CleverRaven/Cataclysm-DDA/pull/73514))
+* Fix fridges dropping drinking glasses instead of glass shards ([#73532](https://github.com/CleverRaven/Cataclysm-DDA/pull/73532))
+* Mesoamerican armor redux ([#73540](https://github.com/CleverRaven/Cataclysm-DDA/pull/73540))
 * Re-add generic cards, make the MoM Magician start with only generic cards ([#73545](https://github.com/CleverRaven/Cataclysm-DDA/pull/73545))
 
 ---
@@ -189,7 +193,6 @@
 
 * Make requirement groups for plastic recipes ([#73319](https://github.com/CleverRaven/Cataclysm-DDA/pull/73319))
 * remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json ([#73320](https://github.com/CleverRaven/Cataclysm-DDA/pull/73320))
-* Add mushroom ketchup, fried pickled veggies and krampouezh ([#73301](https://github.com/CleverRaven/Cataclysm-DDA/pull/73301))
 * Aftershock: Blood bionics ([#73345](https://github.com/CleverRaven/Cataclysm-DDA/pull/73345))
 * More debug power ([#73366](https://github.com/CleverRaven/Cataclysm-DDA/pull/73366))
 * Broken Wheels Now Give Rubber ([#73370](https://github.com/CleverRaven/Cataclysm-DDA/pull/73370))
@@ -204,10 +207,7 @@
 * Make pupating explosion quieter ([#73338](https://github.com/CleverRaven/Cataclysm-DDA/pull/73338))
 * fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
 * Faster ascii overmap drawing ([#73321](https://github.com/CleverRaven/Cataclysm-DDA/pull/73321))
-* Bow reload time fix ([#73305](https://github.com/CleverRaven/Cataclysm-DDA/pull/73305))
-* remove count-min and count-max ([#73304](https://github.com/CleverRaven/Cataclysm-DDA/pull/73304))
 * Aftershock: Crashed shuttles ([#73315](https://github.com/CleverRaven/Cataclysm-DDA/pull/73315))
-* [MoM] Add TOUGH_FEET to the Hardened Skin effect ([#73307](https://github.com/CleverRaven/Cataclysm-DDA/pull/73307))
 * minor grammar fixes in liams dialogue ([#73309](https://github.com/CleverRaven/Cataclysm-DDA/pull/73309))
 * Routine i18n updates on 27 April 2024 ([#73311](https://github.com/CleverRaven/Cataclysm-DDA/pull/73311))
 * Fix Typos and Punctuation of Techniques ([#73312](https://github.com/CleverRaven/Cataclysm-DDA/pull/73312))
