@@ -1,3 +1,4 @@
+* Add Recipe for Portable Soldering Iron ([#73347](https://github.com/CleverRaven/Cataclysm-DDA/pull/73347))
 * [MoM] Jmathify and variable-ize power learning times ([#73529](https://github.com/CleverRaven/Cataclysm-DDA/pull/73529))
 * Made inbounds use map parameters ([#73503](https://github.com/CleverRaven/Cataclysm-DDA/pull/73503))
 * NPCs try not to throw their weapons  ([#73498](https://github.com/CleverRaven/Cataclysm-DDA/pull/73498))
@@ -210,7 +211,6 @@
 * Make pupating explosion quieter ([#73338](https://github.com/CleverRaven/Cataclysm-DDA/pull/73338))
 * fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
 * Faster ascii overmap drawing ([#73321](https://github.com/CleverRaven/Cataclysm-DDA/pull/73321))
-* Aftershock: Crashed shuttles ([#73315](https://github.com/CleverRaven/Cataclysm-DDA/pull/73315))
 * Yrax Quadraphract adjustments ([#73335](https://github.com/CleverRaven/Cataclysm-DDA/pull/73335))
 * missing looks_like ([#73318](https://github.com/CleverRaven/Cataclysm-DDA/pull/73318))
 * remove empty item group entry from sugar_various ([#73323](https://github.com/CleverRaven/Cataclysm-DDA/pull/73323))
