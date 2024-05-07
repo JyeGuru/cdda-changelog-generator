@@ -1,3 +1,4 @@
+* fix pupating nuclear detonation (#73526)
 
 Cataclysm-DDA experimental build 2024-05-07-1935 (35073a9)
 * Atomic Smartphone Flashlight Fix (#73553)
@@ -125,7 +126,6 @@ Cataclysm-DDA experimental build 2024-05-01-0547 (5590543)
 * Fix typo in exodii_merchant_talk.json (#73385)
 * Edit shattering weakpoint (#73377)
 * You Can Get Drunk on Brandied Fruit (#73396)
-* remove padded feet speed bonus, port SLOWS_MOVEMENT flag effect to json (#73320)
 * Aftershock: Blood bionics (#73345)
 * More debug power (#73366)
 * Broken Wheels Now Give Rubber (#73370)
