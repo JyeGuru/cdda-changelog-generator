@@ -1,3 +1,4 @@
+* Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
 
 ---
 
@@ -111,7 +112,6 @@
 #### Cataclysm-DDA experimental build 2024-05-04-0725 ([3a6c4bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-0725))
 
 * Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
-* Adding the spell name to the casting wait thingy ([#73325](https://github.com/CleverRaven/Cataclysm-DDA/pull/73325))
 * [MoM] VERDANT HAND combat protocols rework ([#73412](https://github.com/CleverRaven/Cataclysm-DDA/pull/73412))
 * Not to try to set charges for item without charge. ([#73444](https://github.com/CleverRaven/Cataclysm-DDA/pull/73444))
 * Variantize card games ([#73457](https://github.com/CleverRaven/Cataclysm-DDA/pull/73457))

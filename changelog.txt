@@ -1,3 +1,4 @@
+* Monster enchantments set bonus speed, not base (#73565)
 
 Cataclysm-DDA experimental build 2024-05-08-1351 (f2d1760)
 * fix arithmetical error crash (#73566)
@@ -63,7 +64,6 @@ Cataclysm-DDA experimental build 2024-05-04-1240 (00d3e82)
 
 Cataclysm-DDA experimental build 2024-05-04-0725 (3a6c4bb)
 * Changed map::shift to call add_roofs and compressed the code (#73478)
-* Adding the spell name to the casting wait thingy (#73325)
 * [MoM] VERDANT HAND combat protocols rework (#73412)
 * Not to try to set charges for item without charge. (#73444)
 * Variantize card games (#73457)
