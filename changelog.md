@@ -1,3 +1,4 @@
+* Fix meat ingredient in several recipes ([#73439](https://github.com/CleverRaven/Cataclysm-DDA/pull/73439))
 * Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
 
 ---
@@ -197,7 +198,6 @@
 * Standard scaffolding ground requirements ([#73380](https://github.com/CleverRaven/Cataclysm-DDA/pull/73380))
 * [Xedra Evolved] Move Paraclesian eye traits to Personal layer ([#73371](https://github.com/CleverRaven/Cataclysm-DDA/pull/73371))
 * Eddie Can Talk About His Father ([#73383](https://github.com/CleverRaven/Cataclysm-DDA/pull/73383))
-* Fire axe consistency ([#73329](https://github.com/CleverRaven/Cataclysm-DDA/pull/73329))
 * Bugfix: Allow select-all when highlighted item is non-selectable ([#73343](https://github.com/CleverRaven/Cataclysm-DDA/pull/73343))
 * Adjust the overmap test to remove some failure modes and make it more robust ([#73339](https://github.com/CleverRaven/Cataclysm-DDA/pull/73339))
 * Aftershock: Magazine flag audit ([#73348](https://github.com/CleverRaven/Cataclysm-DDA/pull/73348))

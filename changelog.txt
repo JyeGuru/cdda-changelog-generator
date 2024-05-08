@@ -1,3 +1,4 @@
+* Fix meat ingredient in several recipes (#73439)
 * Monster enchantments set bonus speed, not base (#73565)
 
 Cataclysm-DDA experimental build 2024-05-08-1351 (f2d1760)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2024-05-02-1607 (11d4be5)
 * Standard scaffolding ground requirements (#73380)
 * [Xedra Evolved] Move Paraclesian eye traits to Personal layer (#73371)
 * Eddie Can Talk About His Father (#73383)
-* Fire axe consistency (#73329)
 * Bugfix: Allow select-all when highlighted item is non-selectable (#73343)
 * Adjust the overmap test to remove some failure modes and make it more robust (#73339)
 * Aftershock: Magazine flag audit (#73348)
