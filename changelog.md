@@ -1,3 +1,9 @@
+* Add Surgical Cart Vehicle ([#73452](https://github.com/CleverRaven/Cataclysm-DDA/pull/73452))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-08-1633 ([386a00c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-1633))
+
 * Fix meat ingredient in several recipes ([#73439](https://github.com/CleverRaven/Cataclysm-DDA/pull/73439))
 * Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
 
@@ -203,4 +209,3 @@
 * Aftershock: Magazine flag audit ([#73348](https://github.com/CleverRaven/Cataclysm-DDA/pull/73348))
 * Make pupating explosion quieter ([#73338](https://github.com/CleverRaven/Cataclysm-DDA/pull/73338))
 * fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
-* Yrax Quadraphract adjustments ([#73335](https://github.com/CleverRaven/Cataclysm-DDA/pull/73335))

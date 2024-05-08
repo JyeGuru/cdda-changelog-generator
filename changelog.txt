@@ -1,3 +1,6 @@
+* Add Surgical Cart Vehicle (#73452)
+
+Cataclysm-DDA experimental build 2024-05-08-1633 (386a00c)
 * Fix meat ingredient in several recipes (#73439)
 * Monster enchantments set bonus speed, not base (#73565)
 
@@ -137,4 +140,3 @@ Cataclysm-DDA experimental build 2024-05-02-1607 (11d4be5)
 * Aftershock: Magazine flag audit (#73348)
 * Make pupating explosion quieter (#73338)
 * fix disappearing arrows (#73346)
-* Yrax Quadraphract adjustments (#73335)
