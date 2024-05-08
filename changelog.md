@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-08-1912 ([6a8d75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-1912))
+
 * Add Surgical Cart Vehicle ([#73452](https://github.com/CleverRaven/Cataclysm-DDA/pull/73452))
 
 ---
@@ -176,11 +181,6 @@
 * Add Ballistic Vest Disassembly Recipes ([#73447](https://github.com/CleverRaven/Cataclysm-DDA/pull/73447))
 * Apply imgui label upon touching src/third-party/im(g|t)ui ([#73432](https://github.com/CleverRaven/Cataclysm-DDA/pull/73432))
 * [Xedra Evolved] Even more paraclesian powers ([#73448](https://github.com/CleverRaven/Cataclysm-DDA/pull/73448))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-02-1607 ([11d4be5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-02-1607))
-
 * [MoM] Limit Burst of Speed in some circumstances ([#73395](https://github.com/CleverRaven/Cataclysm-DDA/pull/73395))
 * math effect to sum all spells in school ([#73394](https://github.com/CleverRaven/Cataclysm-DDA/pull/73394))
 * Tiny Propane vehicle addition ([#73411](https://github.com/CleverRaven/Cataclysm-DDA/pull/73411))
