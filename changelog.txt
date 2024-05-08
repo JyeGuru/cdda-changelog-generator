@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-08-1351 (f2d1760)
+* fix arithmetical error crash (#73566)
+
 Cataclysm-DDA experimental build 2024-05-08-0737 (5ca7f4e)
 * Fingerless Wool Gloves (#73524)
 * fix pupating nuclear detonation (#73526)
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2024-05-02-1607 (11d4be5)
 * Tiny Propane vehicle addition (#73411)
 * Nail-related string edits (#73440)
 * Unhardcode ki strike, drunken master (#73441)
-
-Cataclysm-DDA experimental build 2024-05-02-0349 (9554d8c)
 * Add a final cleanup phase to Craters (#73429)
 * Make drones drone (#73390)
 * Wet Towels No Longer Prompt to be Turned Off (#73408)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2024-05-02-0349 (9554d8c)
 * Make pupating explosion quieter (#73338)
 * fix disappearing arrows (#73346)
 * Yrax Quadraphract adjustments (#73335)
-* remove empty item group entry from sugar_various (#73323)

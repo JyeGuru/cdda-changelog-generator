@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-08-1351 ([f2d1760](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-1351))
+
+* fix arithmetical error crash ([#73566](https://github.com/CleverRaven/Cataclysm-DDA/pull/73566))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-08-0737 ([5ca7f4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-0737))
 
 * Fingerless Wool Gloves ([#73524](https://github.com/CleverRaven/Cataclysm-DDA/pull/73524))
@@ -173,11 +179,6 @@
 * Tiny Propane vehicle addition ([#73411](https://github.com/CleverRaven/Cataclysm-DDA/pull/73411))
 * Nail-related string edits ([#73440](https://github.com/CleverRaven/Cataclysm-DDA/pull/73440))
 * Unhardcode ki strike, drunken master ([#73441](https://github.com/CleverRaven/Cataclysm-DDA/pull/73441))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-02-0349 ([9554d8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-02-0349))
-
 * Add a final cleanup phase to Craters ([#73429](https://github.com/CleverRaven/Cataclysm-DDA/pull/73429))
 * Make drones drone ([#73390](https://github.com/CleverRaven/Cataclysm-DDA/pull/73390))
 * Wet Towels No Longer Prompt to be Turned Off ([#73408](https://github.com/CleverRaven/Cataclysm-DDA/pull/73408))
@@ -203,4 +204,3 @@
 * Make pupating explosion quieter ([#73338](https://github.com/CleverRaven/Cataclysm-DDA/pull/73338))
 * fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
 * Yrax Quadraphract adjustments ([#73335](https://github.com/CleverRaven/Cataclysm-DDA/pull/73335))
-* remove empty item group entry from sugar_various ([#73323](https://github.com/CleverRaven/Cataclysm-DDA/pull/73323))
