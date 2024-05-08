@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-08-0737 ([5ca7f4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-0737))
+
 * Fingerless Wool Gloves ([#73524](https://github.com/CleverRaven/Cataclysm-DDA/pull/73524))
 * fix pupating nuclear detonation ([#73526](https://github.com/CleverRaven/Cataclysm-DDA/pull/73526))
 
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-05-02-0349 ([9554d8c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-02-0349))
 
 * Add a final cleanup phase to Craters ([#73429](https://github.com/CleverRaven/Cataclysm-DDA/pull/73429))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-01-1556 ([53a0a73](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-01-1556))
-
 * Make drones drone ([#73390](https://github.com/CleverRaven/Cataclysm-DDA/pull/73390))
 * Wet Towels No Longer Prompt to be Turned Off ([#73408](https://github.com/CleverRaven/Cataclysm-DDA/pull/73408))
 * Aftershock: Fix travel to port augustmoon ([#73358](https://github.com/CleverRaven/Cataclysm-DDA/pull/73358))
