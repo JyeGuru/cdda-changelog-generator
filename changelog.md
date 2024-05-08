@@ -1,3 +1,4 @@
+* Fingerless Wool Gloves ([#73524](https://github.com/CleverRaven/Cataclysm-DDA/pull/73524))
 * fix pupating nuclear detonation ([#73526](https://github.com/CleverRaven/Cataclysm-DDA/pull/73526))
 
 ---
@@ -201,6 +202,5 @@
 * Aftershock: Magazine flag audit ([#73348](https://github.com/CleverRaven/Cataclysm-DDA/pull/73348))
 * Make pupating explosion quieter ([#73338](https://github.com/CleverRaven/Cataclysm-DDA/pull/73338))
 * fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
-* Faster ascii overmap drawing ([#73321](https://github.com/CleverRaven/Cataclysm-DDA/pull/73321))
 * Yrax Quadraphract adjustments ([#73335](https://github.com/CleverRaven/Cataclysm-DDA/pull/73335))
 * remove empty item group entry from sugar_various ([#73323](https://github.com/CleverRaven/Cataclysm-DDA/pull/73323))

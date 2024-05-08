@@ -1,3 +1,4 @@
+* Fingerless Wool Gloves (#73524)
 * fix pupating nuclear detonation (#73526)
 
 Cataclysm-DDA experimental build 2024-05-07-1935 (35073a9)
@@ -135,6 +136,5 @@ Cataclysm-DDA experimental build 2024-05-01-1556 (53a0a73)
 * Aftershock: Magazine flag audit (#73348)
 * Make pupating explosion quieter (#73338)
 * fix disappearing arrows (#73346)
-* Faster ascii overmap drawing (#73321)
 * Yrax Quadraphract adjustments (#73335)
 * remove empty item group entry from sugar_various (#73323)
