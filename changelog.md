@@ -1,3 +1,5 @@
+* Added to greater dimensional bag to enchanted_misc item group ([#73564](https://github.com/CleverRaven/Cataclysm-DDA/pull/73564))
+* Fixing issue where Android gesture inputs were broken ([#73554](https://github.com/CleverRaven/Cataclysm-DDA/pull/73554))
 * Update coats.json (Coyote Combat Jacket) ([#73573](https://github.com/CleverRaven/Cataclysm-DDA/pull/73573))
 * [MoM] Rework Passive traits to use spell_level_sum ([#73569](https://github.com/CleverRaven/Cataclysm-DDA/pull/73569))
 * Fix fake obstacle parts, duplicated fake parts ([#73574](https://github.com/CleverRaven/Cataclysm-DDA/pull/73574))
@@ -165,7 +167,6 @@
 #### Cataclysm-DDA experimental build 2024-05-03-1515 ([748383b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-1515))
 
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
-* Aftershock: Augustmoon Outfitter ([#73356](https://github.com/CleverRaven/Cataclysm-DDA/pull/73356))
 * Fix plural names of exoskeletons ([#73378](https://github.com/CleverRaven/Cataclysm-DDA/pull/73378))
 * Fix obtain cost in reloading action, and a typo in item_handling_cost. ([#73386](https://github.com/CleverRaven/Cataclysm-DDA/pull/73386))
 * [MoM] Add scaling to Internal Fire ([#73368](https://github.com/CleverRaven/Cataclysm-DDA/pull/73368))
@@ -208,4 +209,3 @@
 * Standard scaffolding ground requirements ([#73380](https://github.com/CleverRaven/Cataclysm-DDA/pull/73380))
 * [Xedra Evolved] Move Paraclesian eye traits to Personal layer ([#73371](https://github.com/CleverRaven/Cataclysm-DDA/pull/73371))
 * Eddie Can Talk About His Father ([#73383](https://github.com/CleverRaven/Cataclysm-DDA/pull/73383))
-* Aftershock: Magazine flag audit ([#73348](https://github.com/CleverRaven/Cataclysm-DDA/pull/73348))
