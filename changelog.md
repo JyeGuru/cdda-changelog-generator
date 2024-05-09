@@ -1,3 +1,4 @@
+* Weekly Changelog 2024-04-29 to 2024-05-06 ([#73539](https://github.com/CleverRaven/Cataclysm-DDA/pull/73539))
 
 ---
 
@@ -177,7 +178,6 @@
 * Fix obtain cost in reloading action, and a typo in item_handling_cost. ([#73386](https://github.com/CleverRaven/Cataclysm-DDA/pull/73386))
 * Fix combat exoskeleton prices ([#73384](https://github.com/CleverRaven/Cataclysm-DDA/pull/73384))
 * Change color of 2 medical zombies ([#73403](https://github.com/CleverRaven/Cataclysm-DDA/pull/73403))
-* Fix bug crashing access to Z=10 and enable access to the level. ([#73376](https://github.com/CleverRaven/Cataclysm-DDA/pull/73376))
 * Show NEW! in List Items menu ([#73400](https://github.com/CleverRaven/Cataclysm-DDA/pull/73400))
 * Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
 * LIXA, EOC variable name correction ([#73401](https://github.com/CleverRaven/Cataclysm-DDA/pull/73401))

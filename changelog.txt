@@ -1,3 +1,4 @@
+* Weekly Changelog 2024-04-29 to 2024-05-06 (#73539)
 
 Cataclysm-DDA experimental build 2024-05-09-2154 (4f2509b)
 * damaged appiance-items remain damaged when transformed to appliance and back (#73588)
@@ -108,7 +109,6 @@ Cataclysm-DDA experimental build 2024-05-04-0338 (7dd8b1b)
 * Fix obtain cost in reloading action, and a typo in item_handling_cost. (#73386)
 * Fix combat exoskeleton prices (#73384)
 * Change color of 2 medical zombies (#73403)
-* Fix bug crashing access to Z=10 and enable access to the level. (#73376)
 * Show NEW! in List Items menu (#73400)
 * Adds limb blocking to Biojutsu and Panzer Kunst (#73449)
 * LIXA, EOC variable name correction (#73401)
