@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-09-2154 (4f2509b)
 * damaged appiance-items remain damaged when transformed to appliance and back (#73588)
 
 Cataclysm-DDA experimental build 2024-05-09-1654 (581c99b)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2024-05-04-0725 (3a6c4bb)
 
 Cataclysm-DDA experimental build 2024-05-04-0338 (7dd8b1b)
 * Made army and USMC bayonets look like National Guard bayonets (#73487)
-
-Cataclysm-DDA experimental build 2024-05-03-2217 (d3b1698)
 * Revert "Bow reload time fix (#73305)" (#73482)
 * fix `game.h` typo (#73460)
 * Restore lost constant (#73472)

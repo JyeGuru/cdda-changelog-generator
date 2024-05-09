@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-09-2154 ([4f2509b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-09-2154))
+
 * damaged appiance-items remain damaged when transformed to appliance and back ([#73588](https://github.com/CleverRaven/Cataclysm-DDA/pull/73588))
 
 ---
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2024-05-04-0338 ([7dd8b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-0338))
 
 * Made army and USMC bayonets look like National Guard bayonets ([#73487](https://github.com/CleverRaven/Cataclysm-DDA/pull/73487))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-03-2217 ([d3b1698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-2217))
-
 * Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
