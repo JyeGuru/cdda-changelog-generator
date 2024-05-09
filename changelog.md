@@ -1,3 +1,8 @@
+* [MoM] Rework Passive traits to use spell_level_sum ([#73569](https://github.com/CleverRaven/Cataclysm-DDA/pull/73569))
+* Fix fake obstacle parts, duplicated fake parts ([#73574](https://github.com/CleverRaven/Cataclysm-DDA/pull/73574))
+* [Magiclysm] fix summon_undead_swarm using summon_undead spell level as check ([#73582](https://github.com/CleverRaven/Cataclysm-DDA/pull/73582))
+* [Sky Island] Fix rock outside of windows ([#73576](https://github.com/CleverRaven/Cataclysm-DDA/pull/73576))
+* typified lightmap ([#73568](https://github.com/CleverRaven/Cataclysm-DDA/pull/73568))
 
 ---
 
@@ -160,7 +165,6 @@
 #### Cataclysm-DDA experimental build 2024-05-03-1515 ([748383b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-1515))
 
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
-* Add Oversize Reinforced Cardboard Box ([#73342](https://github.com/CleverRaven/Cataclysm-DDA/pull/73342))
 * Aftershock: Augustmoon Outfitter ([#73356](https://github.com/CleverRaven/Cataclysm-DDA/pull/73356))
 * Fix plural names of exoskeletons ([#73378](https://github.com/CleverRaven/Cataclysm-DDA/pull/73378))
 * Fix obtain cost in reloading action, and a typo in item_handling_cost. ([#73386](https://github.com/CleverRaven/Cataclysm-DDA/pull/73386))
@@ -198,14 +202,10 @@
 * Fix typo in exodii_merchant_talk.json ([#73385](https://github.com/CleverRaven/Cataclysm-DDA/pull/73385))
 * Edit shattering weakpoint ([#73377](https://github.com/CleverRaven/Cataclysm-DDA/pull/73377))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
-* Aftershock: Blood bionics ([#73345](https://github.com/CleverRaven/Cataclysm-DDA/pull/73345))
 * More debug power ([#73366](https://github.com/CleverRaven/Cataclysm-DDA/pull/73366))
 * Broken Wheels Now Give Rubber ([#73370](https://github.com/CleverRaven/Cataclysm-DDA/pull/73370))
 * fix bandaging and disinfection showing wrong quality ([#73379](https://github.com/CleverRaven/Cataclysm-DDA/pull/73379))
 * Standard scaffolding ground requirements ([#73380](https://github.com/CleverRaven/Cataclysm-DDA/pull/73380))
 * [Xedra Evolved] Move Paraclesian eye traits to Personal layer ([#73371](https://github.com/CleverRaven/Cataclysm-DDA/pull/73371))
 * Eddie Can Talk About His Father ([#73383](https://github.com/CleverRaven/Cataclysm-DDA/pull/73383))
-* Bugfix: Allow select-all when highlighted item is non-selectable ([#73343](https://github.com/CleverRaven/Cataclysm-DDA/pull/73343))
-* Adjust the overmap test to remove some failure modes and make it more robust ([#73339](https://github.com/CleverRaven/Cataclysm-DDA/pull/73339))
 * Aftershock: Magazine flag audit ([#73348](https://github.com/CleverRaven/Cataclysm-DDA/pull/73348))
-* fix disappearing arrows ([#73346](https://github.com/CleverRaven/Cataclysm-DDA/pull/73346))
