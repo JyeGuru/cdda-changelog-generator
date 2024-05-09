@@ -1,3 +1,4 @@
+* Clamp metabolism enchantment to prevent lag ([#73591](https://github.com/CleverRaven/Cataclysm-DDA/pull/73591))
 * Fix a typo in a few combat exoskeleton descriptions ([#73594](https://github.com/CleverRaven/Cataclysm-DDA/pull/73594))
 
 ---
@@ -204,7 +205,6 @@
 * Fix typo in exodii_merchant_talk.json ([#73385](https://github.com/CleverRaven/Cataclysm-DDA/pull/73385))
 * Edit shattering weakpoint ([#73377](https://github.com/CleverRaven/Cataclysm-DDA/pull/73377))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
-* Broken Wheels Now Give Rubber ([#73370](https://github.com/CleverRaven/Cataclysm-DDA/pull/73370))
 * fix bandaging and disinfection showing wrong quality ([#73379](https://github.com/CleverRaven/Cataclysm-DDA/pull/73379))
 * Standard scaffolding ground requirements ([#73380](https://github.com/CleverRaven/Cataclysm-DDA/pull/73380))
 * [Xedra Evolved] Move Paraclesian eye traits to Personal layer ([#73371](https://github.com/CleverRaven/Cataclysm-DDA/pull/73371))

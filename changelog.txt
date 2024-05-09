@@ -1,3 +1,4 @@
+* Clamp metabolism enchantment to prevent lag (#73591)
 * Fix a typo in a few combat exoskeleton descriptions (#73594)
 
 Cataclysm-DDA experimental build 2024-05-09-0820 (fa8ae46)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2024-05-03-1808 (0a74bb4)
 * Fix typo in exodii_merchant_talk.json (#73385)
 * Edit shattering weakpoint (#73377)
 * You Can Get Drunk on Brandied Fruit (#73396)
-* Broken Wheels Now Give Rubber (#73370)
 * fix bandaging and disinfection showing wrong quality (#73379)
 * Standard scaffolding ground requirements (#73380)
 * [Xedra Evolved] Move Paraclesian eye traits to Personal layer (#73371)
