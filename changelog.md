@@ -175,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-05-03-1808 ([0a74bb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-1808))
 
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-03-1515 ([748383b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-03-1515))
-
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
 * Fix plural names of exoskeletons ([#73378](https://github.com/CleverRaven/Cataclysm-DDA/pull/73378))
 * Fix obtain cost in reloading action, and a typo in item_handling_cost. ([#73386](https://github.com/CleverRaven/Cataclysm-DDA/pull/73386))
