@@ -1,3 +1,4 @@
+* Update coats.json (Coyote Combat Jacket) ([#73573](https://github.com/CleverRaven/Cataclysm-DDA/pull/73573))
 * [MoM] Rework Passive traits to use spell_level_sum ([#73569](https://github.com/CleverRaven/Cataclysm-DDA/pull/73569))
 * Fix fake obstacle parts, duplicated fake parts ([#73574](https://github.com/CleverRaven/Cataclysm-DDA/pull/73574))
 * [Magiclysm] fix summon_undead_swarm using summon_undead spell level as check ([#73582](https://github.com/CleverRaven/Cataclysm-DDA/pull/73582))
@@ -47,7 +48,6 @@
 #### Cataclysm-DDA experimental build 2024-05-07-1338 ([de92ec5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-07-1338))
 
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic ([#73555](https://github.com/CleverRaven/Cataclysm-DDA/pull/73555))
-* Add Recipe for Portable Soldering Iron ([#73347](https://github.com/CleverRaven/Cataclysm-DDA/pull/73347))
 * [MoM] Jmathify and variable-ize power learning times ([#73529](https://github.com/CleverRaven/Cataclysm-DDA/pull/73529))
 * Made inbounds use map parameters ([#73503](https://github.com/CleverRaven/Cataclysm-DDA/pull/73503))
 * NPCs try not to throw their weapons  ([#73498](https://github.com/CleverRaven/Cataclysm-DDA/pull/73498))
