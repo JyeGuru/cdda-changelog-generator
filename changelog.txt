@@ -1,3 +1,4 @@
+* Fix a typo in a few combat exoskeleton descriptions (#73594)
 
 Cataclysm-DDA experimental build 2024-05-09-0820 (fa8ae46)
 * clang-tidy (#73572)
@@ -73,9 +74,6 @@ Cataclysm-DDA experimental build 2024-05-05-1723 (8998865)
 
 Cataclysm-DDA experimental build 2024-05-05-1403 (014e815)
 * Fix opening doors while incorporeal (#73513)
-
-Cataclysm-DDA experimental build 2024-05-05-0153 (19d58b0)
-* Weekly Changelog 2024-04-22 to 2024-04-29 (#73369)
 
 Cataclysm-DDA experimental build 2024-05-04-2218 (fa7e258)
 * [MoM] Add better enchantments to some psionic overloads (#73479)

@@ -1,3 +1,4 @@
+* Fix a typo in a few combat exoskeleton descriptions ([#73594](https://github.com/CleverRaven/Cataclysm-DDA/pull/73594))
 
 ---
 
@@ -121,12 +122,6 @@
 #### Cataclysm-DDA experimental build 2024-05-05-1403 ([014e815](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-05-1403))
 
 * Fix opening doors while incorporeal ([#73513](https://github.com/CleverRaven/Cataclysm-DDA/pull/73513))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-05-0153 ([19d58b0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-05-0153))
-
-* Weekly Changelog 2024-04-22 to 2024-04-29 ([#73369](https://github.com/CleverRaven/Cataclysm-DDA/pull/73369))
 
 ---
 
