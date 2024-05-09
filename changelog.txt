@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-09-0820 (fa8ae46)
 * clang-tidy (#73572)
 * Debug menu monster editing (#73563)
 * Fix stamina regains when dodging (#73558)
