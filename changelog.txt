@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-09-0031 (6149922)
+* Fix bandit farm moat (#73577)
+
 Cataclysm-DDA experimental build 2024-05-08-1912 (6a8d75a)
 * Add Surgical Cart Vehicle (#73452)
 
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2024-05-03-1515 (748383b)
 * Remove translate_ter (#73437)
 * Container audit (mostly transparency) (#73458)
 * `src/debug_menu.cpp`: split functions from `void debug()` (#73428)
-
-Cataclysm-DDA experimental build 2024-05-02-2012 (6347958)
 * Add Ballistic Vest Disassembly Recipes (#73447)
 * Apply imgui label upon touching src/third-party/im(g|t)ui (#73432)
 * [Xedra Evolved] Even more paraclesian powers (#73448)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2024-05-02-2012 (6347958)
 * Bugfix: Allow select-all when highlighted item is non-selectable (#73343)
 * Adjust the overmap test to remove some failure modes and make it more robust (#73339)
 * Aftershock: Magazine flag audit (#73348)
-* Make pupating explosion quieter (#73338)
 * fix disappearing arrows (#73346)
