@@ -1,5 +1,7 @@
 * Added to greater dimensional bag to enchanted_misc item group (#73564)
 * Fixing issue where Android gesture inputs were broken (#73554)
+
+Cataclysm-DDA experimental build 2024-05-09-0434 (88e09a5)
 * Update coats.json (Coyote Combat Jacket) (#73573)
 * [MoM] Rework Passive traits to use spell_level_sum (#73569)
 * Fix fake obstacle parts, duplicated fake parts (#73574)
