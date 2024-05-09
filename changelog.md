@@ -1,3 +1,5 @@
+* Fix stamina regains when dodging ([#73558](https://github.com/CleverRaven/Cataclysm-DDA/pull/73558))
+* Add Skunks! ([#73537](https://github.com/CleverRaven/Cataclysm-DDA/pull/73537))
 * Added to greater dimensional bag to enchanted_misc item group ([#73564](https://github.com/CleverRaven/Cataclysm-DDA/pull/73564))
 * Fixing issue where Android gesture inputs were broken ([#73554](https://github.com/CleverRaven/Cataclysm-DDA/pull/73554))
 
@@ -175,7 +177,6 @@
 * Fix plural names of exoskeletons ([#73378](https://github.com/CleverRaven/Cataclysm-DDA/pull/73378))
 * Fix obtain cost in reloading action, and a typo in item_handling_cost. ([#73386](https://github.com/CleverRaven/Cataclysm-DDA/pull/73386))
 * [MoM] Add scaling to Internal Fire ([#73368](https://github.com/CleverRaven/Cataclysm-DDA/pull/73368))
-* Adds a new trait, Tiny Stomach ([#73360](https://github.com/CleverRaven/Cataclysm-DDA/pull/73360))
 * Fix combat exoskeleton prices ([#73384](https://github.com/CleverRaven/Cataclysm-DDA/pull/73384))
 * Change color of 2 medical zombies ([#73403](https://github.com/CleverRaven/Cataclysm-DDA/pull/73403))
 * Fix bug crashing access to Z=10 and enable access to the level. ([#73376](https://github.com/CleverRaven/Cataclysm-DDA/pull/73376))
@@ -200,7 +201,6 @@
 * Add a final cleanup phase to Craters ([#73429](https://github.com/CleverRaven/Cataclysm-DDA/pull/73429))
 * Make drones drone ([#73390](https://github.com/CleverRaven/Cataclysm-DDA/pull/73390))
 * Wet Towels No Longer Prompt to be Turned Off ([#73408](https://github.com/CleverRaven/Cataclysm-DDA/pull/73408))
-* Aftershock: Fix travel to port augustmoon ([#73358](https://github.com/CleverRaven/Cataclysm-DDA/pull/73358))
 * Fixing broken text on ImTui when building with cmake ([#73413](https://github.com/CleverRaven/Cataclysm-DDA/pull/73413))
 * Fixing popup buttons not wrapping to a new line ([#73422](https://github.com/CleverRaven/Cataclysm-DDA/pull/73422))
 * Routine tileset updates on 01 May 2024 ([#73424](https://github.com/CleverRaven/Cataclysm-DDA/pull/73424))
