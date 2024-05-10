@@ -1,3 +1,10 @@
+* Fix Dummy Typo I Forgot About ([#73613](https://github.com/CleverRaven/Cataclysm-DDA/pull/73613))
+* [MoM] Mindhunter scenario ([#73518](https://github.com/CleverRaven/Cataclysm-DDA/pull/73518))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-10-0414 ([1de57ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-0414))
+
 * Fix Character::i_add_or_drop ([#73556](https://github.com/CleverRaven/Cataclysm-DDA/pull/73556))
 
 ---
@@ -159,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2024-05-04-1240 ([00d3e82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-1240))
 
 * Fix GCC 9: initialize to `nullptr` ([#73473](https://github.com/CleverRaven/Cataclysm-DDA/pull/73473))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-04-0725 ([3a6c4bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-0725))
-
 * Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
 * [MoM] VERDANT HAND combat protocols rework ([#73412](https://github.com/CleverRaven/Cataclysm-DDA/pull/73412))
 * Not to try to set charges for item without charge. ([#73444](https://github.com/CleverRaven/Cataclysm-DDA/pull/73444))
@@ -175,7 +177,6 @@
 * Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
-* Fix plural names of exoskeletons ([#73378](https://github.com/CleverRaven/Cataclysm-DDA/pull/73378))
 * Fix obtain cost in reloading action, and a typo in item_handling_cost. ([#73386](https://github.com/CleverRaven/Cataclysm-DDA/pull/73386))
 * Fix combat exoskeleton prices ([#73384](https://github.com/CleverRaven/Cataclysm-DDA/pull/73384))
 * Change color of 2 medical zombies ([#73403](https://github.com/CleverRaven/Cataclysm-DDA/pull/73403))
@@ -206,6 +207,5 @@
 * fix clang test ([#73418](https://github.com/CleverRaven/Cataclysm-DDA/pull/73418))
 * Fix typo in exodii_merchant_talk.json ([#73385](https://github.com/CleverRaven/Cataclysm-DDA/pull/73385))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
-* fix bandaging and disinfection showing wrong quality ([#73379](https://github.com/CleverRaven/Cataclysm-DDA/pull/73379))
 * Standard scaffolding ground requirements ([#73380](https://github.com/CleverRaven/Cataclysm-DDA/pull/73380))
 * Eddie Can Talk About His Father ([#73383](https://github.com/CleverRaven/Cataclysm-DDA/pull/73383))
