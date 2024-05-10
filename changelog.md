@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-10-0048 ([1aca3eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-0048))
+
 * Weekly Changelog 2024-04-29 to 2024-05-06 ([#73539](https://github.com/CleverRaven/Cataclysm-DDA/pull/73539))
 
 ---
@@ -165,11 +170,6 @@
 * [MoM] Contemplation doesn't require light ([#73462](https://github.com/CleverRaven/Cataclysm-DDA/pull/73462))
 * [MoM] Tweak formula for gaining Observed so repeated channeling is the most important factor ([#73464](https://github.com/CleverRaven/Cataclysm-DDA/pull/73464))
 * Remove redundant `unarmed_weapons_allowed` variable from martial art techs ([#73485](https://github.com/CleverRaven/Cataclysm-DDA/pull/73485))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-04-0338 ([7dd8b1b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-0338))
-
 * Made army and USMC bayonets look like National Guard bayonets ([#73487](https://github.com/CleverRaven/Cataclysm-DDA/pull/73487))
 * Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
