@@ -1,3 +1,5 @@
+* Make Cat's Grace and Ogre Strength mutually exclusive ([#73599](https://github.com/CleverRaven/Cataclysm-DDA/pull/73599))
+* Add `weight_on_wheels` method ([#73466](https://github.com/CleverRaven/Cataclysm-DDA/pull/73466))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
 * Graphical construction preview ([#73455](https://github.com/CleverRaven/Cataclysm-DDA/pull/73455))
 * Recalculate weight when inventory changes due to pet carrier use ([#73492](https://github.com/CleverRaven/Cataclysm-DDA/pull/73492))
@@ -186,7 +188,6 @@
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
 * Change color of 2 medical zombies ([#73403](https://github.com/CleverRaven/Cataclysm-DDA/pull/73403))
-* Show NEW! in List Items menu ([#73400](https://github.com/CleverRaven/Cataclysm-DDA/pull/73400))
 * Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
 * LIXA, EOC variable name correction ([#73401](https://github.com/CleverRaven/Cataclysm-DDA/pull/73401))
 * Beast mutants can mutate quills ([#73405](https://github.com/CleverRaven/Cataclysm-DDA/pull/73405))
@@ -208,4 +209,3 @@
 * Fixing popup buttons not wrapping to a new line ([#73422](https://github.com/CleverRaven/Cataclysm-DDA/pull/73422))
 * Routine tileset updates on 01 May 2024 ([#73424](https://github.com/CleverRaven/Cataclysm-DDA/pull/73424))
 * fix clang test ([#73418](https://github.com/CleverRaven/Cataclysm-DDA/pull/73418))
-* You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
