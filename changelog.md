@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-10-1906 ([2f373e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-1906))
+
 * Fix carving knife being defined as a bread knife ([#73560](https://github.com/CleverRaven/Cataclysm-DDA/pull/73560))
 
 ---
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-05-05-1403 ([014e815](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-05-1403))
 
 * Fix opening doors while incorporeal ([#73513](https://github.com/CleverRaven/Cataclysm-DDA/pull/73513))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-04-2218 ([fa7e258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-2218))
-
 * [MoM] Add better enchantments to some psionic overloads ([#73479](https://github.com/CleverRaven/Cataclysm-DDA/pull/73479))
 * Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
 * Fix GCC 9: initialize to `nullptr` ([#73473](https://github.com/CleverRaven/Cataclysm-DDA/pull/73473))
