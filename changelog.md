@@ -1,3 +1,9 @@
+* Fix carving knife being defined as a bread knife ([#73560](https://github.com/CleverRaven/Cataclysm-DDA/pull/73560))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-10-1629 ([d2b094e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-1629))
+
 * [Bombastic Perks] More perks ([#73589](https://github.com/CleverRaven/Cataclysm-DDA/pull/73589))
 
 ---
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-05-04-2218 ([fa7e258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-2218))
 
 * [MoM] Add better enchantments to some psionic overloads ([#73479](https://github.com/CleverRaven/Cataclysm-DDA/pull/73479))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-04-1558 ([64321d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-1558))
-
 * Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
 * Fix GCC 9: initialize to `nullptr` ([#73473](https://github.com/CleverRaven/Cataclysm-DDA/pull/73473))
 * Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
@@ -188,7 +189,6 @@
 * Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
-* Change color of 2 medical zombies ([#73403](https://github.com/CleverRaven/Cataclysm-DDA/pull/73403))
 * Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
 * Beast mutants can mutate quills ([#73405](https://github.com/CleverRaven/Cataclysm-DDA/pull/73405))
 * fix veggy_pickled_fried component list ([#73406](https://github.com/CleverRaven/Cataclysm-DDA/pull/73406))

@@ -1,3 +1,6 @@
+* Fix carving knife being defined as a bread knife (#73560)
+
+Cataclysm-DDA experimental build 2024-05-10-1629 (d2b094e)
 * [Bombastic Perks] More perks (#73589)
 
 Cataclysm-DDA experimental build 2024-05-10-0814 (10a7e40)
@@ -104,8 +107,6 @@ Cataclysm-DDA experimental build 2024-05-05-1403 (014e815)
 
 Cataclysm-DDA experimental build 2024-05-04-2218 (fa7e258)
 * [MoM] Add better enchantments to some psionic overloads (#73479)
-
-Cataclysm-DDA experimental build 2024-05-04-1558 (64321d6)
 * Routine i18n updates on 04 May 2024 (#73494)
 * Fix GCC 9: initialize to `nullptr` (#73473)
 * Changed map::shift to call add_roofs and compressed the code (#73478)
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2024-05-04-1558 (64321d6)
 * Revert "Bow reload time fix (#73305)" (#73482)
 * fix `game.h` typo (#73460)
 * Restore lost constant (#73472)
-* Change color of 2 medical zombies (#73403)
 * Adds limb blocking to Biojutsu and Panzer Kunst (#73449)
 * Beast mutants can mutate quills (#73405)
 * fix veggy_pickled_fried component list (#73406)
