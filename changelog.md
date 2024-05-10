@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-10-0814 ([10a7e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-0814))
+
 * Make Cat's Grace and Ogre Strength mutually exclusive ([#73599](https://github.com/CleverRaven/Cataclysm-DDA/pull/73599))
 * Add `weight_on_wheels` method ([#73466](https://github.com/CleverRaven/Cataclysm-DDA/pull/73466))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-05-04-1558 ([64321d6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-1558))
 
 * Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-04-1240 ([00d3e82](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-04-1240))
-
 * Fix GCC 9: initialize to `nullptr` ([#73473](https://github.com/CleverRaven/Cataclysm-DDA/pull/73473))
 * Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
 * [MoM] VERDANT HAND combat protocols rework ([#73412](https://github.com/CleverRaven/Cataclysm-DDA/pull/73412))
