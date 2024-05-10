@@ -1,3 +1,4 @@
+* Adding support for drawing CJK characters with ImTui ([#73414](https://github.com/CleverRaven/Cataclysm-DDA/pull/73414))
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
 
