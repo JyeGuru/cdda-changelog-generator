@@ -1,3 +1,6 @@
+* Resume butchering ([#73610](https://github.com/CleverRaven/Cataclysm-DDA/pull/73610))
+* Test to ensure unconditional and conditional nest placement works ([#73607](https://github.com/CleverRaven/Cataclysm-DDA/pull/73607))
+* Skunk Spray Neutralizer ([#73600](https://github.com/CleverRaven/Cataclysm-DDA/pull/73600))
 * make the game faster when player sleep near the tree ([#73590](https://github.com/CleverRaven/Cataclysm-DDA/pull/73590))
 * Add molle accessories to webbing belt ([#73571](https://github.com/CleverRaven/Cataclysm-DDA/pull/73571))
 * Fix integrated armor being incompatible with some mutations ([#73547](https://github.com/CleverRaven/Cataclysm-DDA/pull/73547))
@@ -172,12 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-05-06-1236 ([3428b61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-1236))
 
 * [MoM] recipe flags for contemplation ([#73505](https://github.com/CleverRaven/Cataclysm-DDA/pull/73505))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-05-1723 ([8998865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-05-1723))
-
-* ImGui popup: switch selected option when lower-case letter is pressed ([#73420](https://github.com/CleverRaven/Cataclysm-DDA/pull/73420))
 * [MoM] Using psionics in or near the Nether is more powerful, but also more risky ([#73461](https://github.com/CleverRaven/Cataclysm-DDA/pull/73461))
 * Make CZ 75 16 Round Mag Actually Hold 16 Rounds and Fix ID ([#73451](https://github.com/CleverRaven/Cataclysm-DDA/pull/73451))
 * Add new hairstyles from Mawranth's Hair Salon ([#73465](https://github.com/CleverRaven/Cataclysm-DDA/pull/73465))
@@ -213,5 +210,4 @@
 * Nail-related string edits ([#73440](https://github.com/CleverRaven/Cataclysm-DDA/pull/73440))
 * Unhardcode ki strike, drunken master ([#73441](https://github.com/CleverRaven/Cataclysm-DDA/pull/73441))
 * Add a final cleanup phase to Craters ([#73429](https://github.com/CleverRaven/Cataclysm-DDA/pull/73429))
-* Fixing popup buttons not wrapping to a new line ([#73422](https://github.com/CleverRaven/Cataclysm-DDA/pull/73422))
 * Routine tileset updates on 01 May 2024 ([#73424](https://github.com/CleverRaven/Cataclysm-DDA/pull/73424))
