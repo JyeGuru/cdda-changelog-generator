@@ -1,7 +1,8 @@
+* make the game faster when player sleep near the tree ([#73590](https://github.com/CleverRaven/Cataclysm-DDA/pull/73590))
+* Add molle accessories to webbing belt ([#73571](https://github.com/CleverRaven/Cataclysm-DDA/pull/73571))
 * Fix integrated armor being incompatible with some mutations ([#73547](https://github.com/CleverRaven/Cataclysm-DDA/pull/73547))
 * Fish fry & tadpole minor audit ([#73528](https://github.com/CleverRaven/Cataclysm-DDA/pull/73528))
 * Rename world creation "Spawn Time Options" to "World Time Options" ([#73504](https://github.com/CleverRaven/Cataclysm-DDA/pull/73504))
-* Adding support for drawing CJK characters with ImTui ([#73414](https://github.com/CleverRaven/Cataclysm-DDA/pull/73414))
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
 
@@ -214,4 +215,3 @@
 * Add a final cleanup phase to Craters ([#73429](https://github.com/CleverRaven/Cataclysm-DDA/pull/73429))
 * Fixing popup buttons not wrapping to a new line ([#73422](https://github.com/CleverRaven/Cataclysm-DDA/pull/73422))
 * Routine tileset updates on 01 May 2024 ([#73424](https://github.com/CleverRaven/Cataclysm-DDA/pull/73424))
-* fix clang test ([#73418](https://github.com/CleverRaven/Cataclysm-DDA/pull/73418))
