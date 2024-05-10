@@ -1,3 +1,4 @@
+* [Bombastic Perks] More perks ([#73589](https://github.com/CleverRaven/Cataclysm-DDA/pull/73589))
 
 ---
 
@@ -189,7 +190,6 @@
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
 * Change color of 2 medical zombies ([#73403](https://github.com/CleverRaven/Cataclysm-DDA/pull/73403))
 * Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
-* LIXA, EOC variable name correction ([#73401](https://github.com/CleverRaven/Cataclysm-DDA/pull/73401))
 * Beast mutants can mutate quills ([#73405](https://github.com/CleverRaven/Cataclysm-DDA/pull/73405))
 * fix veggy_pickled_fried component list ([#73406](https://github.com/CleverRaven/Cataclysm-DDA/pull/73406))
 * ImGui: screens not reporting the proper window sizes ([#73426](https://github.com/CleverRaven/Cataclysm-DDA/pull/73426))
