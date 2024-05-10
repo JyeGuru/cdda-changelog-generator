@@ -1,3 +1,4 @@
+* Fix integrated armor being incompatible with some mutations ([#73547](https://github.com/CleverRaven/Cataclysm-DDA/pull/73547))
 * Fish fry & tadpole minor audit ([#73528](https://github.com/CleverRaven/Cataclysm-DDA/pull/73528))
 * Rename world creation "Spawn Time Options" to "World Time Options" ([#73504](https://github.com/CleverRaven/Cataclysm-DDA/pull/73504))
 * Adding support for drawing CJK characters with ImTui ([#73414](https://github.com/CleverRaven/Cataclysm-DDA/pull/73414))
@@ -211,7 +212,6 @@
 * Nail-related string edits ([#73440](https://github.com/CleverRaven/Cataclysm-DDA/pull/73440))
 * Unhardcode ki strike, drunken master ([#73441](https://github.com/CleverRaven/Cataclysm-DDA/pull/73441))
 * Add a final cleanup phase to Craters ([#73429](https://github.com/CleverRaven/Cataclysm-DDA/pull/73429))
-* Fixing broken text on ImTui when building with cmake ([#73413](https://github.com/CleverRaven/Cataclysm-DDA/pull/73413))
 * Fixing popup buttons not wrapping to a new line ([#73422](https://github.com/CleverRaven/Cataclysm-DDA/pull/73422))
 * Routine tileset updates on 01 May 2024 ([#73424](https://github.com/CleverRaven/Cataclysm-DDA/pull/73424))
 * fix clang test ([#73418](https://github.com/CleverRaven/Cataclysm-DDA/pull/73418))
