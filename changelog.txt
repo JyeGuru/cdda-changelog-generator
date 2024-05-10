@@ -1,3 +1,5 @@
+* Build emscripten after matrix build. (#73615)
+* Create a new EoC function for checking if NPC follower is present (#73463)
 * Fix Dummy Typo I Forgot About (#73613)
 * [MoM] Mindhunter scenario (#73518)
 
@@ -138,5 +140,3 @@ Cataclysm-DDA experimental build 2024-05-04-1240 (00d3e82)
 * fix clang test (#73418)
 * Fix typo in exodii_merchant_talk.json (#73385)
 * You Can Get Drunk on Brandied Fruit (#73396)
-* Standard scaffolding ground requirements (#73380)
-* Eddie Can Talk About His Father (#73383)

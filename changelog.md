@@ -1,3 +1,5 @@
+* Build emscripten after matrix build. ([#73615](https://github.com/CleverRaven/Cataclysm-DDA/pull/73615))
+* Create a new EoC function for checking if NPC follower is present ([#73463](https://github.com/CleverRaven/Cataclysm-DDA/pull/73463))
 * Fix Dummy Typo I Forgot About ([#73613](https://github.com/CleverRaven/Cataclysm-DDA/pull/73613))
 * [MoM] Mindhunter scenario ([#73518](https://github.com/CleverRaven/Cataclysm-DDA/pull/73518))
 
@@ -207,5 +209,3 @@
 * fix clang test ([#73418](https://github.com/CleverRaven/Cataclysm-DDA/pull/73418))
 * Fix typo in exodii_merchant_talk.json ([#73385](https://github.com/CleverRaven/Cataclysm-DDA/pull/73385))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
-* Standard scaffolding ground requirements ([#73380](https://github.com/CleverRaven/Cataclysm-DDA/pull/73380))
-* Eddie Can Talk About His Father ([#73383](https://github.com/CleverRaven/Cataclysm-DDA/pull/73383))
