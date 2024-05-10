@@ -1,3 +1,11 @@
+* Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
+* [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-10-2227 ([9734160](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-2227))
+
+* Use ncurses accessor macros ([#73586](https://github.com/CleverRaven/Cataclysm-DDA/pull/73586))
 
 ---
 
@@ -190,8 +198,6 @@
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
 * Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
-* Beast mutants can mutate quills ([#73405](https://github.com/CleverRaven/Cataclysm-DDA/pull/73405))
-* fix veggy_pickled_fried component list ([#73406](https://github.com/CleverRaven/Cataclysm-DDA/pull/73406))
 * ImGui: screens not reporting the proper window sizes ([#73426](https://github.com/CleverRaven/Cataclysm-DDA/pull/73426))
 * Simplified dig/mine stairs code ([#73431](https://github.com/CleverRaven/Cataclysm-DDA/pull/73431))
 * Remove translate_ter ([#73437](https://github.com/CleverRaven/Cataclysm-DDA/pull/73437))
@@ -204,7 +210,6 @@
 * Nail-related string edits ([#73440](https://github.com/CleverRaven/Cataclysm-DDA/pull/73440))
 * Unhardcode ki strike, drunken master ([#73441](https://github.com/CleverRaven/Cataclysm-DDA/pull/73441))
 * Add a final cleanup phase to Craters ([#73429](https://github.com/CleverRaven/Cataclysm-DDA/pull/73429))
-* Wet Towels No Longer Prompt to be Turned Off ([#73408](https://github.com/CleverRaven/Cataclysm-DDA/pull/73408))
 * Fixing broken text on ImTui when building with cmake ([#73413](https://github.com/CleverRaven/Cataclysm-DDA/pull/73413))
 * Fixing popup buttons not wrapping to a new line ([#73422](https://github.com/CleverRaven/Cataclysm-DDA/pull/73422))
 * Routine tileset updates on 01 May 2024 ([#73424](https://github.com/CleverRaven/Cataclysm-DDA/pull/73424))
