@@ -1,3 +1,4 @@
+* Fix Character::i_add_or_drop ([#73556](https://github.com/CleverRaven/Cataclysm-DDA/pull/73556))
 
 ---
 
@@ -204,7 +205,6 @@
 * Routine tileset updates on 01 May 2024 ([#73424](https://github.com/CleverRaven/Cataclysm-DDA/pull/73424))
 * fix clang test ([#73418](https://github.com/CleverRaven/Cataclysm-DDA/pull/73418))
 * Fix typo in exodii_merchant_talk.json ([#73385](https://github.com/CleverRaven/Cataclysm-DDA/pull/73385))
-* Edit shattering weakpoint ([#73377](https://github.com/CleverRaven/Cataclysm-DDA/pull/73377))
 * You Can Get Drunk on Brandied Fruit ([#73396](https://github.com/CleverRaven/Cataclysm-DDA/pull/73396))
 * fix bandaging and disinfection showing wrong quality ([#73379](https://github.com/CleverRaven/Cataclysm-DDA/pull/73379))
 * Standard scaffolding ground requirements ([#73380](https://github.com/CleverRaven/Cataclysm-DDA/pull/73380))

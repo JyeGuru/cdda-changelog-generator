@@ -1,3 +1,4 @@
+* Fix Character::i_add_or_drop (#73556)
 
 Cataclysm-DDA experimental build 2024-05-10-0048 (1aca3eb)
 * Weekly Changelog 2024-04-29 to 2024-05-06 (#73539)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2024-05-04-0725 (3a6c4bb)
 * Routine tileset updates on 01 May 2024 (#73424)
 * fix clang test (#73418)
 * Fix typo in exodii_merchant_talk.json (#73385)
-* Edit shattering weakpoint (#73377)
 * You Can Get Drunk on Brandied Fruit (#73396)
 * fix bandaging and disinfection showing wrong quality (#73379)
 * Standard scaffolding ground requirements (#73380)
