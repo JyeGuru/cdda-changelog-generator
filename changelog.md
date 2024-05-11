@@ -1,3 +1,4 @@
+* Backport updated release notes generation workflow to 0.H ([#73686](https://github.com/CleverRaven/Cataclysm-DDA/pull/73686))
 * skip emscripten build for draft PRs ([#73668](https://github.com/CleverRaven/Cataclysm-DDA/pull/73668))
 * Backport #71403 ([#73673](https://github.com/CleverRaven/Cataclysm-DDA/pull/73673))
 * Backport #73113 ([#73670](https://github.com/CleverRaven/Cataclysm-DDA/pull/73670))
@@ -208,5 +209,4 @@
 * Remove redundant `unarmed_weapons_allowed` variable from martial art techs ([#73485](https://github.com/CleverRaven/Cataclysm-DDA/pull/73485))
 * Made army and USMC bayonets look like National Guard bayonets ([#73487](https://github.com/CleverRaven/Cataclysm-DDA/pull/73487))
 * Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
-* fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
