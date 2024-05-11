@@ -1,3 +1,5 @@
+* Use dummy parser for attack_vector to fix string extraction script error ([#73659](https://github.com/CleverRaven/Cataclysm-DDA/pull/73659))
+* typified animation.cpp ([#73609](https://github.com/CleverRaven/Cataclysm-DDA/pull/73609))
 * Backport updated release notes generation workflow to 0.H ([#73686](https://github.com/CleverRaven/Cataclysm-DDA/pull/73686))
 * skip emscripten build for draft PRs ([#73668](https://github.com/CleverRaven/Cataclysm-DDA/pull/73668))
 * Backport #71403 ([#73673](https://github.com/CleverRaven/Cataclysm-DDA/pull/73673))
@@ -189,14 +191,8 @@
 #### Cataclysm-DDA experimental build 2024-05-06-2134 ([0a00a5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-2134))
 
 * Maps only highlight newly revealed OMTs ([#73522](https://github.com/CleverRaven/Cataclysm-DDA/pull/73522))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-06-1828 ([5f086e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-1828))
-
 * Fix anaerobic digester ([#73523](https://github.com/CleverRaven/Cataclysm-DDA/pull/73523))
 * [MoM] recipe flags for contemplation ([#73505](https://github.com/CleverRaven/Cataclysm-DDA/pull/73505))
-* [MoM] Using psionics in or near the Nether is more powerful, but also more risky ([#73461](https://github.com/CleverRaven/Cataclysm-DDA/pull/73461))
 * Add new hairstyles from Mawranth's Hair Salon ([#73465](https://github.com/CleverRaven/Cataclysm-DDA/pull/73465))
 * fix: AIM Now moving all items will not move favourite items, if other items are present. ([#73512](https://github.com/CleverRaven/Cataclysm-DDA/pull/73512))
 * Fix opening doors while incorporeal ([#73513](https://github.com/CleverRaven/Cataclysm-DDA/pull/73513))
@@ -204,7 +200,6 @@
 * Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
 * Fix GCC 9: initialize to `nullptr` ([#73473](https://github.com/CleverRaven/Cataclysm-DDA/pull/73473))
 * Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
-* [MoM] Contemplation doesn't require light ([#73462](https://github.com/CleverRaven/Cataclysm-DDA/pull/73462))
 * [MoM] Tweak formula for gaining Observed so repeated channeling is the most important factor ([#73464](https://github.com/CleverRaven/Cataclysm-DDA/pull/73464))
 * Remove redundant `unarmed_weapons_allowed` variable from martial art techs ([#73485](https://github.com/CleverRaven/Cataclysm-DDA/pull/73485))
 * Made army and USMC bayonets look like National Guard bayonets ([#73487](https://github.com/CleverRaven/Cataclysm-DDA/pull/73487))
