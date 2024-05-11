@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-11-1755 ([c5f9a51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-1755))
+
 * Add Deconstruction of Skunk Skull ([#73643](https://github.com/CleverRaven/Cataclysm-DDA/pull/73643))
 
 ---
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-05-06-1828 ([5f086e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-1828))
 
 * Fix anaerobic digester ([#73523](https://github.com/CleverRaven/Cataclysm-DDA/pull/73523))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-06-1236 ([3428b61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-1236))
-
 * [MoM] recipe flags for contemplation ([#73505](https://github.com/CleverRaven/Cataclysm-DDA/pull/73505))
 * [MoM] Using psionics in or near the Nether is more powerful, but also more risky ([#73461](https://github.com/CleverRaven/Cataclysm-DDA/pull/73461))
 * Make CZ 75 16 Round Mag Actually Hold 16 Rounds and Fix ID ([#73451](https://github.com/CleverRaven/Cataclysm-DDA/pull/73451))
