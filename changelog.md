@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-11-0903 ([d78e605](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-0903))
+
 * Fix bsd cmake build failure ([#73561](https://github.com/CleverRaven/Cataclysm-DDA/pull/73561))
 * fixing clang-tidy errors from recent imtui change ([#73637](https://github.com/CleverRaven/Cataclysm-DDA/pull/73637))
 
