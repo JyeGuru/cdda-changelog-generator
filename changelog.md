@@ -1,5 +1,10 @@
 * Provided 3D camp construction + Livestock 2 example ([#73665](https://github.com/CleverRaven/Cataclysm-DDA/pull/73665))
 * Use dummy parser for attack_vector to fix string extraction script error ([#73659](https://github.com/CleverRaven/Cataclysm-DDA/pull/73659))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-11-2220 ([15c4984](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-2220))
+
 * typified animation.cpp ([#73609](https://github.com/CleverRaven/Cataclysm-DDA/pull/73609))
 * Backport updated release notes generation workflow to 0.H ([#73686](https://github.com/CleverRaven/Cataclysm-DDA/pull/73686))
 * skip emscripten build for draft PRs ([#73668](https://github.com/CleverRaven/Cataclysm-DDA/pull/73668))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-05-06-2353 ([d6a507f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-2353))
 
 * add combat exoskeleton template to aftershock nanofab ([#73475](https://github.com/CleverRaven/Cataclysm-DDA/pull/73475))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-06-2134 ([0a00a5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-2134))
-
 * Maps only highlight newly revealed OMTs ([#73522](https://github.com/CleverRaven/Cataclysm-DDA/pull/73522))
 * Fix anaerobic digester ([#73523](https://github.com/CleverRaven/Cataclysm-DDA/pull/73523))
 * [MoM] recipe flags for contemplation ([#73505](https://github.com/CleverRaven/Cataclysm-DDA/pull/73505))
