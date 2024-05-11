@@ -1,3 +1,4 @@
+* Provided 3D camp construction + Livestock 2 example ([#73665](https://github.com/CleverRaven/Cataclysm-DDA/pull/73665))
 * Use dummy parser for attack_vector to fix string extraction script error ([#73659](https://github.com/CleverRaven/Cataclysm-DDA/pull/73659))
 * typified animation.cpp ([#73609](https://github.com/CleverRaven/Cataclysm-DDA/pull/73609))
 * Backport updated release notes generation workflow to 0.H ([#73686](https://github.com/CleverRaven/Cataclysm-DDA/pull/73686))
@@ -80,7 +81,6 @@
 * Don't require parts to be unbroken for fake part generation ([#73596](https://github.com/CleverRaven/Cataclysm-DDA/pull/73596))
 * Require confirmation for camp placement ([#73604](https://github.com/CleverRaven/Cataclysm-DDA/pull/73604))
 * Build emscripten after matrix build. ([#73615](https://github.com/CleverRaven/Cataclysm-DDA/pull/73615))
-* Create a new EoC function for checking if NPC follower is present ([#73463](https://github.com/CleverRaven/Cataclysm-DDA/pull/73463))
 * Fix Dummy Typo I Forgot About ([#73613](https://github.com/CleverRaven/Cataclysm-DDA/pull/73613))
 * [MoM] Mindhunter scenario ([#73518](https://github.com/CleverRaven/Cataclysm-DDA/pull/73518))
 
