@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-11-2327 ([59351db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-2327))
+
 * #include vector in cata_imgui.h ([#73681](https://github.com/CleverRaven/Cataclysm-DDA/pull/73681))
 * Provided 3D camp construction + Livestock 2 example ([#73665](https://github.com/CleverRaven/Cataclysm-DDA/pull/73665))
 * Use dummy parser for attack_vector to fix string extraction script error ([#73659](https://github.com/CleverRaven/Cataclysm-DDA/pull/73659))
@@ -176,11 +181,6 @@
 * Fix fridges dropping drinking glasses instead of glass shards ([#73532](https://github.com/CleverRaven/Cataclysm-DDA/pull/73532))
 * Mesoamerican armor redux ([#73540](https://github.com/CleverRaven/Cataclysm-DDA/pull/73540))
 * Re-add generic cards, make the MoM Magician start with only generic cards ([#73545](https://github.com/CleverRaven/Cataclysm-DDA/pull/73545))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-07-0245 ([9514a3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-07-0245))
-
 * Make pillbox_large's pockets transparent ([#73533](https://github.com/CleverRaven/Cataclysm-DDA/pull/73533))
 * Update description of mirror armor suits ([#73476](https://github.com/CleverRaven/Cataclysm-DDA/pull/73476))
 * Make dummies less dumb ([#73488](https://github.com/CleverRaven/Cataclysm-DDA/pull/73488))
