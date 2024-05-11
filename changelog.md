@@ -1,3 +1,4 @@
+* Automation changes for 0.H release candidates ([#73638](https://github.com/CleverRaven/Cataclysm-DDA/pull/73638))
 
 ---
 
@@ -209,5 +210,4 @@
 * Container audit (mostly transparency) ([#73458](https://github.com/CleverRaven/Cataclysm-DDA/pull/73458))
 * Add Ballistic Vest Disassembly Recipes ([#73447](https://github.com/CleverRaven/Cataclysm-DDA/pull/73447))
 * [Xedra Evolved] Even more paraclesian powers ([#73448](https://github.com/CleverRaven/Cataclysm-DDA/pull/73448))
-* Nail-related string edits ([#73440](https://github.com/CleverRaven/Cataclysm-DDA/pull/73440))
 * Unhardcode ki strike, drunken master ([#73441](https://github.com/CleverRaven/Cataclysm-DDA/pull/73441))

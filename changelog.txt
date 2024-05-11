@@ -1,3 +1,4 @@
+* Automation changes for 0.H release candidates (#73638)
 
 Cataclysm-DDA experimental build 2024-05-11-0903 (d78e605)
 * Fix bsd cmake build failure (#73561)
@@ -140,5 +141,4 @@ Cataclysm-DDA experimental build 2024-05-06-1236 (3428b61)
 * Container audit (mostly transparency) (#73458)
 * Add Ballistic Vest Disassembly Recipes (#73447)
 * [Xedra Evolved] Even more paraclesian powers (#73448)
-* Nail-related string edits (#73440)
 * Unhardcode ki strike, drunken master (#73441)
