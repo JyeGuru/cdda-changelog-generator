@@ -184,11 +184,6 @@
 * Update description of mirror armor suits ([#73476](https://github.com/CleverRaven/Cataclysm-DDA/pull/73476))
 * Make dummies less dumb ([#73488](https://github.com/CleverRaven/Cataclysm-DDA/pull/73488))
 * Update Ankle Wallet Pouch to Accommodate Larger Wallets ([#73486](https://github.com/CleverRaven/Cataclysm-DDA/pull/73486))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-06-2353 ([d6a507f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-06-2353))
-
 * add combat exoskeleton template to aftershock nanofab ([#73475](https://github.com/CleverRaven/Cataclysm-DDA/pull/73475))
 * Maps only highlight newly revealed OMTs ([#73522](https://github.com/CleverRaven/Cataclysm-DDA/pull/73522))
 * Fix anaerobic digester ([#73523](https://github.com/CleverRaven/Cataclysm-DDA/pull/73523))
