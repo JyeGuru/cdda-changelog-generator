@@ -1,3 +1,4 @@
+* #include vector in cata_imgui.h (#73681)
 * Provided 3D camp construction + Livestock 2 example (#73665)
 * Use dummy parser for attack_vector to fix string extraction script error (#73659)
 
@@ -132,7 +133,6 @@ Cataclysm-DDA experimental build 2024-05-07-0245 (9514a3f)
 * Routine i18n updates on 04 May 2024 (#73494)
 * Fix GCC 9: initialize to `nullptr` (#73473)
 * Changed map::shift to call add_roofs and compressed the code (#73478)
-* [MoM] Tweak formula for gaining Observed so repeated channeling is the most important factor (#73464)
 * Remove redundant `unarmed_weapons_allowed` variable from martial art techs (#73485)
 * Made army and USMC bayonets look like National Guard bayonets (#73487)
 * Revert "Bow reload time fix (#73305)" (#73482)

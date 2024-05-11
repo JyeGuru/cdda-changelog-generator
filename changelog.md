@@ -1,3 +1,4 @@
+* #include vector in cata_imgui.h ([#73681](https://github.com/CleverRaven/Cataclysm-DDA/pull/73681))
 * Provided 3D camp construction + Livestock 2 example ([#73665](https://github.com/CleverRaven/Cataclysm-DDA/pull/73665))
 * Use dummy parser for attack_vector to fix string extraction script error ([#73659](https://github.com/CleverRaven/Cataclysm-DDA/pull/73659))
 
@@ -195,7 +196,6 @@
 * Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
 * Fix GCC 9: initialize to `nullptr` ([#73473](https://github.com/CleverRaven/Cataclysm-DDA/pull/73473))
 * Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
-* [MoM] Tweak formula for gaining Observed so repeated channeling is the most important factor ([#73464](https://github.com/CleverRaven/Cataclysm-DDA/pull/73464))
 * Remove redundant `unarmed_weapons_allowed` variable from martial art techs ([#73485](https://github.com/CleverRaven/Cataclysm-DDA/pull/73485))
 * Made army and USMC bayonets look like National Guard bayonets ([#73487](https://github.com/CleverRaven/Cataclysm-DDA/pull/73487))
 * Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
