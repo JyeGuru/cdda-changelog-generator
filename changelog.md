@@ -1,3 +1,4 @@
+* skip slow builds for draft PRs ([#73646](https://github.com/CleverRaven/Cataclysm-DDA/pull/73646))
 * Audit Vehicle Parts Breaks_into (Part One?) ([#73630](https://github.com/CleverRaven/Cataclysm-DDA/pull/73630))
 * Fixes Dirt Mound Inconsistencies ([#73625](https://github.com/CleverRaven/Cataclysm-DDA/pull/73625))
 * Add translation context to short art snippets ([#73622](https://github.com/CleverRaven/Cataclysm-DDA/pull/73622))
@@ -211,4 +212,3 @@
 * [Xedra Evolved] Even more paraclesian powers ([#73448](https://github.com/CleverRaven/Cataclysm-DDA/pull/73448))
 * Nail-related string edits ([#73440](https://github.com/CleverRaven/Cataclysm-DDA/pull/73440))
 * Unhardcode ki strike, drunken master ([#73441](https://github.com/CleverRaven/Cataclysm-DDA/pull/73441))
-* Add a final cleanup phase to Craters ([#73429](https://github.com/CleverRaven/Cataclysm-DDA/pull/73429))
