@@ -1,3 +1,6 @@
+* Backport #71403 ([#73673](https://github.com/CleverRaven/Cataclysm-DDA/pull/73673))
+* Backport #73113 ([#73670](https://github.com/CleverRaven/Cataclysm-DDA/pull/73670))
+* Backport #72942 ([#73669](https://github.com/CleverRaven/Cataclysm-DDA/pull/73669))
 * document monster dodge balance ([#73631](https://github.com/CleverRaven/Cataclysm-DDA/pull/73631))
 
 ---
@@ -68,7 +71,6 @@
 * Make Cat's Grace and Ogre Strength mutually exclusive ([#73599](https://github.com/CleverRaven/Cataclysm-DDA/pull/73599))
 * Add `weight_on_wheels` method ([#73466](https://github.com/CleverRaven/Cataclysm-DDA/pull/73466))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
-* Graphical construction preview ([#73455](https://github.com/CleverRaven/Cataclysm-DDA/pull/73455))
 * Recalculate weight when inventory changes due to pet carrier use ([#73492](https://github.com/CleverRaven/Cataclysm-DDA/pull/73492))
 * No magic dissectables ([#73579](https://github.com/CleverRaven/Cataclysm-DDA/pull/73579))
 * Don't require parts to be unbroken for fake part generation ([#73596](https://github.com/CleverRaven/Cataclysm-DDA/pull/73596))
@@ -130,12 +132,6 @@
 #### Cataclysm-DDA experimental build 2024-05-09-0031 ([6149922](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-09-0031))
 
 * Fix bandit farm moat ([#73577](https://github.com/CleverRaven/Cataclysm-DDA/pull/73577))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-08-1912 ([6a8d75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-1912))
-
-* Add Surgical Cart Vehicle ([#73452](https://github.com/CleverRaven/Cataclysm-DDA/pull/73452))
 * Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
 
 ---
@@ -206,7 +202,6 @@
 * Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
 * Fix GCC 9: initialize to `nullptr` ([#73473](https://github.com/CleverRaven/Cataclysm-DDA/pull/73473))
 * Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
-* Variantize card games ([#73457](https://github.com/CleverRaven/Cataclysm-DDA/pull/73457))
 * [MoM] Contemplation doesn't require light ([#73462](https://github.com/CleverRaven/Cataclysm-DDA/pull/73462))
 * [MoM] Tweak formula for gaining Observed so repeated channeling is the most important factor ([#73464](https://github.com/CleverRaven/Cataclysm-DDA/pull/73464))
 * Remove redundant `unarmed_weapons_allowed` variable from martial art techs ([#73485](https://github.com/CleverRaven/Cataclysm-DDA/pull/73485))
