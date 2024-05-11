@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-11-1459 ([f5247b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-1459))
+
+* Routine i18n updates on 11 May 2024 ([#73647](https://github.com/CleverRaven/Cataclysm-DDA/pull/73647))
 * Give me (Amnestasia) /confirm privileges ([#73650](https://github.com/CleverRaven/Cataclysm-DDA/pull/73650))
 * Backport #73632 ([#73660](https://github.com/CleverRaven/Cataclysm-DDA/pull/73660))
 * Automation changes for 0.H release candidates ([#73638](https://github.com/CleverRaven/Cataclysm-DDA/pull/73638))
@@ -209,5 +215,4 @@
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
 * Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
 * Container audit (mostly transparency) ([#73458](https://github.com/CleverRaven/Cataclysm-DDA/pull/73458))
-* Add Ballistic Vest Disassembly Recipes ([#73447](https://github.com/CleverRaven/Cataclysm-DDA/pull/73447))
 * [Xedra Evolved] Even more paraclesian powers ([#73448](https://github.com/CleverRaven/Cataclysm-DDA/pull/73448))
