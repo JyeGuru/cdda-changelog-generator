@@ -1,3 +1,4 @@
+* Backport #70769 (#73683)
 
 Cataclysm-DDA experimental build 2024-05-11-2327 (59351db)
 * #include vector in cata_imgui.h (#73681)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2024-05-07-1338 (de92ec5)
 * Maps only highlight newly revealed OMTs (#73522)
 * Fix anaerobic digester (#73523)
 * [MoM] recipe flags for contemplation (#73505)
-* Add new hairstyles from Mawranth's Hair Salon (#73465)
 * fix: AIM Now moving all items will not move favourite items, if other items are present. (#73512)
 * Fix opening doors while incorporeal (#73513)
 * [MoM] Add better enchantments to some psionic overloads (#73479)

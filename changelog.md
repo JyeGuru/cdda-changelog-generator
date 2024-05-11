@@ -1,3 +1,4 @@
+* Backport #70769 ([#73683](https://github.com/CleverRaven/Cataclysm-DDA/pull/73683))
 
 ---
 
@@ -189,7 +190,6 @@
 * Maps only highlight newly revealed OMTs ([#73522](https://github.com/CleverRaven/Cataclysm-DDA/pull/73522))
 * Fix anaerobic digester ([#73523](https://github.com/CleverRaven/Cataclysm-DDA/pull/73523))
 * [MoM] recipe flags for contemplation ([#73505](https://github.com/CleverRaven/Cataclysm-DDA/pull/73505))
-* Add new hairstyles from Mawranth's Hair Salon ([#73465](https://github.com/CleverRaven/Cataclysm-DDA/pull/73465))
 * fix: AIM Now moving all items will not move favourite items, if other items are present. ([#73512](https://github.com/CleverRaven/Cataclysm-DDA/pull/73512))
 * Fix opening doors while incorporeal ([#73513](https://github.com/CleverRaven/Cataclysm-DDA/pull/73513))
 * [MoM] Add better enchantments to some psionic overloads ([#73479](https://github.com/CleverRaven/Cataclysm-DDA/pull/73479))
