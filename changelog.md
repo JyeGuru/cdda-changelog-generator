@@ -1,3 +1,10 @@
+* fixing clang-tidy errors from recent imtui change ([#73637](https://github.com/CleverRaven/Cataclysm-DDA/pull/73637))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-11-0628 ([aee9514](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-0628))
+
+* Don't access out of bounds ([#73653](https://github.com/CleverRaven/Cataclysm-DDA/pull/73653))
 * skip slow builds for draft PRs ([#73646](https://github.com/CleverRaven/Cataclysm-DDA/pull/73646))
 * Audit Vehicle Parts Breaks_into (Part One?) ([#73630](https://github.com/CleverRaven/Cataclysm-DDA/pull/73630))
 * Fixes Dirt Mound Inconsistencies ([#73625](https://github.com/CleverRaven/Cataclysm-DDA/pull/73625))
@@ -184,11 +191,6 @@
 * Make CZ 75 16 Round Mag Actually Hold 16 Rounds and Fix ID ([#73451](https://github.com/CleverRaven/Cataclysm-DDA/pull/73451))
 * Add new hairstyles from Mawranth's Hair Salon ([#73465](https://github.com/CleverRaven/Cataclysm-DDA/pull/73465))
 * fix: AIM Now moving all items will not move favourite items, if other items are present. ([#73512](https://github.com/CleverRaven/Cataclysm-DDA/pull/73512))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-05-1403 ([014e815](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-05-1403))
-
 * Fix opening doors while incorporeal ([#73513](https://github.com/CleverRaven/Cataclysm-DDA/pull/73513))
 * [MoM] Add better enchantments to some psionic overloads ([#73479](https://github.com/CleverRaven/Cataclysm-DDA/pull/73479))
 * Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
@@ -204,11 +206,9 @@
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
 * Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
-* Simplified dig/mine stairs code ([#73431](https://github.com/CleverRaven/Cataclysm-DDA/pull/73431))
 * Remove translate_ter ([#73437](https://github.com/CleverRaven/Cataclysm-DDA/pull/73437))
 * Container audit (mostly transparency) ([#73458](https://github.com/CleverRaven/Cataclysm-DDA/pull/73458))
 * Add Ballistic Vest Disassembly Recipes ([#73447](https://github.com/CleverRaven/Cataclysm-DDA/pull/73447))
-* Apply imgui label upon touching src/third-party/im(g|t)ui ([#73432](https://github.com/CleverRaven/Cataclysm-DDA/pull/73432))
 * [Xedra Evolved] Even more paraclesian powers ([#73448](https://github.com/CleverRaven/Cataclysm-DDA/pull/73448))
 * Nail-related string edits ([#73440](https://github.com/CleverRaven/Cataclysm-DDA/pull/73440))
 * Unhardcode ki strike, drunken master ([#73441](https://github.com/CleverRaven/Cataclysm-DDA/pull/73441))
