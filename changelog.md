@@ -1,3 +1,4 @@
+* Add Deconstruction of Skunk Skull ([#73643](https://github.com/CleverRaven/Cataclysm-DDA/pull/73643))
 
 ---
 
@@ -213,5 +214,4 @@
 * Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
-* Adds limb blocking to Biojutsu and Panzer Kunst ([#73449](https://github.com/CleverRaven/Cataclysm-DDA/pull/73449))
 * Container audit (mostly transparency) ([#73458](https://github.com/CleverRaven/Cataclysm-DDA/pull/73458))

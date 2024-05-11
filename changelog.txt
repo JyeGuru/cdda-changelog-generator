@@ -1,3 +1,4 @@
+* Add Deconstruction of Skunk Skull (#73643)
 
 Cataclysm-DDA experimental build 2024-05-11-1459 (f5247b5)
 * Routine i18n updates on 11 May 2024 (#73647)
@@ -141,5 +142,4 @@ Cataclysm-DDA experimental build 2024-05-06-1236 (3428b61)
 * Revert "Bow reload time fix (#73305)" (#73482)
 * fix `game.h` typo (#73460)
 * Restore lost constant (#73472)
-* Adds limb blocking to Biojutsu and Panzer Kunst (#73449)
 * Container audit (mostly transparency) (#73458)
