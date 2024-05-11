@@ -1,3 +1,4 @@
+* Fix bsd cmake build failure ([#73561](https://github.com/CleverRaven/Cataclysm-DDA/pull/73561))
 * fixing clang-tidy errors from recent imtui change ([#73637](https://github.com/CleverRaven/Cataclysm-DDA/pull/73637))
 
 ---
@@ -114,12 +115,6 @@
 #### Cataclysm-DDA experimental build 2024-05-08-1912 ([6a8d75a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-1912))
 
 * Add Surgical Cart Vehicle ([#73452](https://github.com/CleverRaven/Cataclysm-DDA/pull/73452))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-08-1633 ([386a00c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-1633))
-
-* Fix meat ingredient in several recipes ([#73439](https://github.com/CleverRaven/Cataclysm-DDA/pull/73439))
 * Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
 
 ---
