@@ -1,3 +1,4 @@
+* Backport #72898 ([#73685](https://github.com/CleverRaven/Cataclysm-DDA/pull/73685))
 * Backport #70769 ([#73683](https://github.com/CleverRaven/Cataclysm-DDA/pull/73683))
 
 ---
@@ -86,7 +87,6 @@
 #### Cataclysm-DDA experimental build 2024-05-10-0814 ([10a7e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-0814))
 
 * Make Cat's Grace and Ogre Strength mutually exclusive ([#73599](https://github.com/CleverRaven/Cataclysm-DDA/pull/73599))
-* Add `weight_on_wheels` method ([#73466](https://github.com/CleverRaven/Cataclysm-DDA/pull/73466))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
 * Recalculate weight when inventory changes due to pet carrier use ([#73492](https://github.com/CleverRaven/Cataclysm-DDA/pull/73492))
 * No magic dissectables ([#73579](https://github.com/CleverRaven/Cataclysm-DDA/pull/73579))
