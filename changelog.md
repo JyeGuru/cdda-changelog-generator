@@ -1,3 +1,4 @@
+* skip emscripten build for draft PRs ([#73668](https://github.com/CleverRaven/Cataclysm-DDA/pull/73668))
 * Backport #71403 ([#73673](https://github.com/CleverRaven/Cataclysm-DDA/pull/73673))
 * Backport #73113 ([#73670](https://github.com/CleverRaven/Cataclysm-DDA/pull/73670))
 * Backport #72942 ([#73669](https://github.com/CleverRaven/Cataclysm-DDA/pull/73669))
@@ -209,4 +210,3 @@
 * Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
 * fix `game.h` typo ([#73460](https://github.com/CleverRaven/Cataclysm-DDA/pull/73460))
 * Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
-* Container audit (mostly transparency) ([#73458](https://github.com/CleverRaven/Cataclysm-DDA/pull/73458))
