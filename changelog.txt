@@ -1,3 +1,4 @@
+* Give me (Amnestasia) /confirm privileges (#73650)
 * Backport #73632 (#73660)
 * Automation changes for 0.H release candidates (#73638)
 
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2024-05-06-1236 (3428b61)
 * Routine i18n updates on 04 May 2024 (#73494)
 * Fix GCC 9: initialize to `nullptr` (#73473)
 * Changed map::shift to call add_roofs and compressed the code (#73478)
-* Not to try to set charges for item without charge. (#73444)
 * Variantize card games (#73457)
 * [MoM] Contemplation doesn't require light (#73462)
 * [MoM] Tweak formula for gaining Observed so repeated channeling is the most important factor (#73464)
