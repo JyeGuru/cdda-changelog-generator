@@ -1,3 +1,6 @@
+* [MoM] Increase feral clairsentient dodge ([#73633](https://github.com/CleverRaven/Cataclysm-DDA/pull/73633))
+* [MoM] Normalize feral biokinetic HP ([#73635](https://github.com/CleverRaven/Cataclysm-DDA/pull/73635))
+* Added Bronze Wood Saw to Misc Repair Kit Craft ([#73654](https://github.com/CleverRaven/Cataclysm-DDA/pull/73654))
 
 ---
 
@@ -186,7 +189,6 @@
 * Update description of mirror armor suits ([#73476](https://github.com/CleverRaven/Cataclysm-DDA/pull/73476))
 * Make dummies less dumb ([#73488](https://github.com/CleverRaven/Cataclysm-DDA/pull/73488))
 * Update Ankle Wallet Pouch to Accommodate Larger Wallets ([#73486](https://github.com/CleverRaven/Cataclysm-DDA/pull/73486))
-* add combat exoskeleton template to aftershock nanofab ([#73475](https://github.com/CleverRaven/Cataclysm-DDA/pull/73475))
 * Maps only highlight newly revealed OMTs ([#73522](https://github.com/CleverRaven/Cataclysm-DDA/pull/73522))
 * Fix anaerobic digester ([#73523](https://github.com/CleverRaven/Cataclysm-DDA/pull/73523))
 * [MoM] recipe flags for contemplation ([#73505](https://github.com/CleverRaven/Cataclysm-DDA/pull/73505))
@@ -194,9 +196,7 @@
 * Fix opening doors while incorporeal ([#73513](https://github.com/CleverRaven/Cataclysm-DDA/pull/73513))
 * [MoM] Add better enchantments to some psionic overloads ([#73479](https://github.com/CleverRaven/Cataclysm-DDA/pull/73479))
 * Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
-* Fix GCC 9: initialize to `nullptr` ([#73473](https://github.com/CleverRaven/Cataclysm-DDA/pull/73473))
 * Changed map::shift to call add_roofs and compressed the code ([#73478](https://github.com/CleverRaven/Cataclysm-DDA/pull/73478))
 * Remove redundant `unarmed_weapons_allowed` variable from martial art techs ([#73485](https://github.com/CleverRaven/Cataclysm-DDA/pull/73485))
 * Made army and USMC bayonets look like National Guard bayonets ([#73487](https://github.com/CleverRaven/Cataclysm-DDA/pull/73487))
 * Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
-* Restore lost constant ([#73472](https://github.com/CleverRaven/Cataclysm-DDA/pull/73472))
