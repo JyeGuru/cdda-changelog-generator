@@ -1,3 +1,7 @@
+* Backport #70764 ([#73716](https://github.com/CleverRaven/Cataclysm-DDA/pull/73716))
+* Backport #70698 ([#73715](https://github.com/CleverRaven/Cataclysm-DDA/pull/73715))
+* Backport #70708 ([#73712](https://github.com/CleverRaven/Cataclysm-DDA/pull/73712))
+* Backport #71594 ([#73711](https://github.com/CleverRaven/Cataclysm-DDA/pull/73711))
 * Backport #73487 ([#73710](https://github.com/CleverRaven/Cataclysm-DDA/pull/73710))
 * Backport #70768 ([#73709](https://github.com/CleverRaven/Cataclysm-DDA/pull/73709))
 * Backport #72222 and #72683 ([#73708](https://github.com/CleverRaven/Cataclysm-DDA/pull/73708))
@@ -129,7 +133,6 @@
 * Require confirmation for camp placement ([#73604](https://github.com/CleverRaven/Cataclysm-DDA/pull/73604))
 * Build emscripten after matrix build. ([#73615](https://github.com/CleverRaven/Cataclysm-DDA/pull/73615))
 * Fix Dummy Typo I Forgot About ([#73613](https://github.com/CleverRaven/Cataclysm-DDA/pull/73613))
-* [MoM] Mindhunter scenario ([#73518](https://github.com/CleverRaven/Cataclysm-DDA/pull/73518))
 
 ---
 
@@ -201,10 +204,7 @@
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic ([#73555](https://github.com/CleverRaven/Cataclysm-DDA/pull/73555))
 * [MoM] Jmathify and variable-ize power learning times ([#73529](https://github.com/CleverRaven/Cataclysm-DDA/pull/73529))
 * No more foot locker material transmutation ([#73527](https://github.com/CleverRaven/Cataclysm-DDA/pull/73527))
-* Fix invalid alpha talker error ([#73514](https://github.com/CleverRaven/Cataclysm-DDA/pull/73514))
 * Fix fridges dropping drinking glasses instead of glass shards ([#73532](https://github.com/CleverRaven/Cataclysm-DDA/pull/73532))
 * Mesoamerican armor redux ([#73540](https://github.com/CleverRaven/Cataclysm-DDA/pull/73540))
 * Re-add generic cards, make the MoM Magician start with only generic cards ([#73545](https://github.com/CleverRaven/Cataclysm-DDA/pull/73545))
 * Make pillbox_large's pockets transparent ([#73533](https://github.com/CleverRaven/Cataclysm-DDA/pull/73533))
-* Maps only highlight newly revealed OMTs ([#73522](https://github.com/CleverRaven/Cataclysm-DDA/pull/73522))
-* Fix anaerobic digester ([#73523](https://github.com/CleverRaven/Cataclysm-DDA/pull/73523))
