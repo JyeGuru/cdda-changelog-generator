@@ -1,3 +1,14 @@
+* Propane shelved ([#73698](https://github.com/CleverRaven/Cataclysm-DDA/pull/73698))
+* Not to try to reload a gun without default ammo type defined ([#73714](https://github.com/CleverRaven/Cataclysm-DDA/pull/73714))
+* Refactor f_bulk_trade_accept ([#73703](https://github.com/CleverRaven/Cataclysm-DDA/pull/73703))
+* Backport #71582 ([#73717](https://github.com/CleverRaven/Cataclysm-DDA/pull/73717))
+* Remove backported test ([#73720](https://github.com/CleverRaven/Cataclysm-DDA/pull/73720))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-12-2300 ([fe9e803](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-12-2300))
+
+* fix forward declaration of imgui ImVec2 ([#73724](https://github.com/CleverRaven/Cataclysm-DDA/pull/73724))
 * Backport #70764 ([#73716](https://github.com/CleverRaven/Cataclysm-DDA/pull/73716))
 
 ---
@@ -110,7 +121,6 @@
 * make the game faster when player sleep near the tree ([#73590](https://github.com/CleverRaven/Cataclysm-DDA/pull/73590))
 * Add molle accessories to webbing belt ([#73571](https://github.com/CleverRaven/Cataclysm-DDA/pull/73571))
 * Fix integrated armor being incompatible with some mutations ([#73547](https://github.com/CleverRaven/Cataclysm-DDA/pull/73547))
-* Fish fry & tadpole minor audit ([#73528](https://github.com/CleverRaven/Cataclysm-DDA/pull/73528))
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
 
@@ -198,12 +208,8 @@
 * Fix bandit farm moat ([#73577](https://github.com/CleverRaven/Cataclysm-DDA/pull/73577))
 * Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
 * fix arithmetical error crash ([#73566](https://github.com/CleverRaven/Cataclysm-DDA/pull/73566))
-* fix pupating nuclear detonation ([#73526](https://github.com/CleverRaven/Cataclysm-DDA/pull/73526))
 * Atomic Smartphone Flashlight Fix ([#73553](https://github.com/CleverRaven/Cataclysm-DDA/pull/73553))
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic ([#73555](https://github.com/CleverRaven/Cataclysm-DDA/pull/73555))
-* [MoM] Jmathify and variable-ize power learning times ([#73529](https://github.com/CleverRaven/Cataclysm-DDA/pull/73529))
-* No more foot locker material transmutation ([#73527](https://github.com/CleverRaven/Cataclysm-DDA/pull/73527))
-* Fix fridges dropping drinking glasses instead of glass shards ([#73532](https://github.com/CleverRaven/Cataclysm-DDA/pull/73532))
 * Mesoamerican armor redux ([#73540](https://github.com/CleverRaven/Cataclysm-DDA/pull/73540))
 * Re-add generic cards, make the MoM Magician start with only generic cards ([#73545](https://github.com/CleverRaven/Cataclysm-DDA/pull/73545))
 * Make pillbox_large's pockets transparent ([#73533](https://github.com/CleverRaven/Cataclysm-DDA/pull/73533))
