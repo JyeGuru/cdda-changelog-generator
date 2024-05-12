@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.H release candidate 2024-05-12-0232 (2917cec)
 * Backport #72898 (#73685)
 * Backport #70769 (#73683)
 
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2024-05-08-0737 (5ca7f4e)
 
 Cataclysm-DDA experimental build 2024-05-07-1935 (35073a9)
 * Atomic Smartphone Flashlight Fix (#73553)
-
-Cataclysm-DDA experimental build 2024-05-07-1338 (de92ec5)
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic (#73555)
 * [MoM] Jmathify and variable-ize power learning times (#73529)
 * Made inbounds use map parameters (#73503)

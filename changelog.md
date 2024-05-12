@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-12-0232 ([2917cec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-12-0232))
+
 * Backport #72898 ([#73685](https://github.com/CleverRaven/Cataclysm-DDA/pull/73685))
 * Backport #70769 ([#73683](https://github.com/CleverRaven/Cataclysm-DDA/pull/73683))
 
@@ -168,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2024-05-07-1935 ([35073a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-07-1935))
 
 * Atomic Smartphone Flashlight Fix ([#73553](https://github.com/CleverRaven/Cataclysm-DDA/pull/73553))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-07-1338 ([de92ec5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-07-1338))
-
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic ([#73555](https://github.com/CleverRaven/Cataclysm-DDA/pull/73555))
 * [MoM] Jmathify and variable-ize power learning times ([#73529](https://github.com/CleverRaven/Cataclysm-DDA/pull/73529))
 * Made inbounds use map parameters ([#73503](https://github.com/CleverRaven/Cataclysm-DDA/pull/73503))
