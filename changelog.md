@@ -1,4 +1,9 @@
 * TamableWildlife Skunk Friends ([#73645](https://github.com/CleverRaven/Cataclysm-DDA/pull/73645))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-12-0655 ([9e77385](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-12-0655))
+
 * Backport #71860 ([#73684](https://github.com/CleverRaven/Cataclysm-DDA/pull/73684))
 * Made a change to the popup to fix text being cut off at low resolutions. ([#73678](https://github.com/CleverRaven/Cataclysm-DDA/pull/73678))
 * [MoM] Increase feral clairsentient dodge ([#73633](https://github.com/CleverRaven/Cataclysm-DDA/pull/73633))

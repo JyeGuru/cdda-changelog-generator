@@ -1,4 +1,6 @@
 * TamableWildlife Skunk Friends (#73645)
+
+Cataclysm-DDA 0.H release candidate 2024-05-12-0655 (9e77385)
 * Backport #71860 (#73684)
 * Made a change to the popup to fix text being cut off at low resolutions. (#73678)
 * [MoM] Increase feral clairsentient dodge (#73633)
