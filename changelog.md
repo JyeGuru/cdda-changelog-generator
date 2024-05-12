@@ -199,4 +199,3 @@
 * Routine i18n updates on 04 May 2024 ([#73494](https://github.com/CleverRaven/Cataclysm-DDA/pull/73494))
 * Remove redundant `unarmed_weapons_allowed` variable from martial art techs ([#73485](https://github.com/CleverRaven/Cataclysm-DDA/pull/73485))
 * Made army and USMC bayonets look like National Guard bayonets ([#73487](https://github.com/CleverRaven/Cataclysm-DDA/pull/73487))
-* Revert "Bow reload time fix (#73305)" ([#73482](https://github.com/CleverRaven/Cataclysm-DDA/pull/73482))
