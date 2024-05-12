@@ -1,5 +1,10 @@
 * [MoM] Increase feral clairsentient dodge ([#73633](https://github.com/CleverRaven/Cataclysm-DDA/pull/73633))
 * [MoM] Normalize feral biokinetic HP ([#73635](https://github.com/CleverRaven/Cataclysm-DDA/pull/73635))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-12-0328 ([1a8080a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-12-0328))
+
 * Added Bronze Wood Saw to Misc Repair Kit Craft ([#73654](https://github.com/CleverRaven/Cataclysm-DDA/pull/73654))
 
 ---
@@ -170,11 +175,6 @@
 
 * Fingerless Wool Gloves ([#73524](https://github.com/CleverRaven/Cataclysm-DDA/pull/73524))
 * fix pupating nuclear detonation ([#73526](https://github.com/CleverRaven/Cataclysm-DDA/pull/73526))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-07-1935 ([35073a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-07-1935))
-
 * Atomic Smartphone Flashlight Fix ([#73553](https://github.com/CleverRaven/Cataclysm-DDA/pull/73553))
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic ([#73555](https://github.com/CleverRaven/Cataclysm-DDA/pull/73555))
 * [MoM] Jmathify and variable-ize power learning times ([#73529](https://github.com/CleverRaven/Cataclysm-DDA/pull/73529))
