@@ -9,6 +9,11 @@
 * Backport #71889 ([#73706](https://github.com/CleverRaven/Cataclysm-DDA/pull/73706))
 * Backport #72777 ([#73705](https://github.com/CleverRaven/Cataclysm-DDA/pull/73705))
 * Backport #73338 and #73526 ([#73704](https://github.com/CleverRaven/Cataclysm-DDA/pull/73704))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-12-1705 ([39e2afa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-12-1705))
+
 * Remove redundant emscripten build ([#73693](https://github.com/CleverRaven/Cataclysm-DDA/pull/73693))
 * Cable pockets don't add extra encumbrance ([#73656](https://github.com/CleverRaven/Cataclysm-DDA/pull/73656))
 * Define _XOPEN_SOURCE_EXTENDED on mac localized curses builds for wchar ([#73697](https://github.com/CleverRaven/Cataclysm-DDA/pull/73697))
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2024-05-08-1351 ([f2d1760](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-1351))
 
 * fix arithmetical error crash ([#73566](https://github.com/CleverRaven/Cataclysm-DDA/pull/73566))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-08-0737 ([5ca7f4e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-0737))
-
 * Fingerless Wool Gloves ([#73524](https://github.com/CleverRaven/Cataclysm-DDA/pull/73524))
 * fix pupating nuclear detonation ([#73526](https://github.com/CleverRaven/Cataclysm-DDA/pull/73526))
 * Atomic Smartphone Flashlight Fix ([#73553](https://github.com/CleverRaven/Cataclysm-DDA/pull/73553))

@@ -9,6 +9,8 @@
 * Backport #71889 (#73706)
 * Backport #72777 (#73705)
 * Backport #73338 and #73526 (#73704)
+
+Cataclysm-DDA experimental build 2024-05-12-1705 (39e2afa)
 * Remove redundant emscripten build (#73693)
 * Cable pockets don't add extra encumbrance (#73656)
 * Define _XOPEN_SOURCE_EXTENDED on mac localized curses builds for wchar (#73697)
@@ -127,8 +129,6 @@ Cataclysm-DDA experimental build 2024-05-09-0031 (6149922)
 
 Cataclysm-DDA experimental build 2024-05-08-1351 (f2d1760)
 * fix arithmetical error crash (#73566)
-
-Cataclysm-DDA experimental build 2024-05-08-0737 (5ca7f4e)
 * Fingerless Wool Gloves (#73524)
 * fix pupating nuclear detonation (#73526)
 * Atomic Smartphone Flashlight Fix (#73553)
