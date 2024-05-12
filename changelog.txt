@@ -1,4 +1,6 @@
 * Backport #70764 (#73716)
+
+Cataclysm-DDA 0.H release candidate 2024-05-12-1749 (8985d54)
 * Backport #70698 (#73715)
 * Backport #70708 (#73712)
 * Backport #71594 (#73711)
@@ -126,8 +128,6 @@ Cataclysm-DDA experimental build 2024-05-09-0434 (88e09a5)
 Cataclysm-DDA experimental build 2024-05-09-0031 (6149922)
 * Fix bandit farm moat (#73577)
 * Monster enchantments set bonus speed, not base (#73565)
-
-Cataclysm-DDA experimental build 2024-05-08-1351 (f2d1760)
 * fix arithmetical error crash (#73566)
 * fix pupating nuclear detonation (#73526)
 * Atomic Smartphone Flashlight Fix (#73553)

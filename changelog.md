@@ -1,4 +1,9 @@
 * Backport #70764 ([#73716](https://github.com/CleverRaven/Cataclysm-DDA/pull/73716))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-12-1749 ([8985d54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-12-1749))
+
 * Backport #70698 ([#73715](https://github.com/CleverRaven/Cataclysm-DDA/pull/73715))
 * Backport #70708 ([#73712](https://github.com/CleverRaven/Cataclysm-DDA/pull/73712))
 * Backport #71594 ([#73711](https://github.com/CleverRaven/Cataclysm-DDA/pull/73711))
@@ -192,11 +197,6 @@
 
 * Fix bandit farm moat ([#73577](https://github.com/CleverRaven/Cataclysm-DDA/pull/73577))
 * Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-08-1351 ([f2d1760](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-08-1351))
-
 * fix arithmetical error crash ([#73566](https://github.com/CleverRaven/Cataclysm-DDA/pull/73566))
 * fix pupating nuclear detonation ([#73526](https://github.com/CleverRaven/Cataclysm-DDA/pull/73526))
 * Atomic Smartphone Flashlight Fix ([#73553](https://github.com/CleverRaven/Cataclysm-DDA/pull/73553))
