@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-12-0922 ([795be74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-12-0922))
+
 * TamableWildlife Skunk Friends ([#73645](https://github.com/CleverRaven/Cataclysm-DDA/pull/73645))
 
 ---
