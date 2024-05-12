@@ -118,7 +118,6 @@
 
 * Make Cat's Grace and Ogre Strength mutually exclusive ([#73599](https://github.com/CleverRaven/Cataclysm-DDA/pull/73599))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
-* Recalculate weight when inventory changes due to pet carrier use ([#73492](https://github.com/CleverRaven/Cataclysm-DDA/pull/73492))
 * No magic dissectables ([#73579](https://github.com/CleverRaven/Cataclysm-DDA/pull/73579))
 * Don't require parts to be unbroken for fake part generation ([#73596](https://github.com/CleverRaven/Cataclysm-DDA/pull/73596))
 * Require confirmation for camp placement ([#73604](https://github.com/CleverRaven/Cataclysm-DDA/pull/73604))
