@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-13-1913 ([aa7dd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-13-1913))
+
 * [MoM] Rework Combat Sense with modern enchants ([#73727](https://github.com/CleverRaven/Cataclysm-DDA/pull/73727))
 
 ---
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2024-05-10-0414 ([1de57ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-0414))
 
 * Fix Character::i_add_or_drop ([#73556](https://github.com/CleverRaven/Cataclysm-DDA/pull/73556))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-09-2154 ([4f2509b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-09-2154))
-
 * damaged appiance-items remain damaged when transformed to appliance and back ([#73588](https://github.com/CleverRaven/Cataclysm-DDA/pull/73588))
 * Clamp metabolism enchantment to prevent lag ([#73591](https://github.com/CleverRaven/Cataclysm-DDA/pull/73591))
 * Fix a typo in a few combat exoskeleton descriptions ([#73594](https://github.com/CleverRaven/Cataclysm-DDA/pull/73594))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-13-1913 (aa7dd5c)
 * [MoM] Rework Combat Sense with modern enchants (#73727)
 
 Cataclysm-DDA experimental build 2024-05-13-1656 (3a16ecf)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2024-05-10-0814 (10a7e40)
 
 Cataclysm-DDA experimental build 2024-05-10-0414 (1de57ca)
 * Fix Character::i_add_or_drop (#73556)
-
-Cataclysm-DDA experimental build 2024-05-09-2154 (4f2509b)
 * damaged appiance-items remain damaged when transformed to appliance and back (#73588)
 * Clamp metabolism enchantment to prevent lag (#73591)
 * Fix a typo in a few combat exoskeleton descriptions (#73594)
