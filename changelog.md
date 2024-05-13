@@ -1,6 +1,11 @@
 * Propane shelved ([#73698](https://github.com/CleverRaven/Cataclysm-DDA/pull/73698))
 * Not to try to reload a gun without default ammo type defined ([#73714](https://github.com/CleverRaven/Cataclysm-DDA/pull/73714))
 * Refactor f_bulk_trade_accept ([#73703](https://github.com/CleverRaven/Cataclysm-DDA/pull/73703))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-13-0105 ([599168e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-13-0105))
+
 * Backport #71582 ([#73717](https://github.com/CleverRaven/Cataclysm-DDA/pull/73717))
 
 ---
@@ -205,11 +210,6 @@
 * [Magiclysm] fix summon_undead_swarm using summon_undead spell level as check ([#73582](https://github.com/CleverRaven/Cataclysm-DDA/pull/73582))
 * [Sky Island] Fix rock outside of windows ([#73576](https://github.com/CleverRaven/Cataclysm-DDA/pull/73576))
 * typified lightmap ([#73568](https://github.com/CleverRaven/Cataclysm-DDA/pull/73568))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-09-0031 ([6149922](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-09-0031))
-
 * Fix bandit farm moat ([#73577](https://github.com/CleverRaven/Cataclysm-DDA/pull/73577))
 * Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
 * fix arithmetical error crash ([#73566](https://github.com/CleverRaven/Cataclysm-DDA/pull/73566))
