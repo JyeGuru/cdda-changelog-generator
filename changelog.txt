@@ -1,3 +1,8 @@
+* Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. (#73738)
+* Heat func bugfix (#73740)
+
+Cataclysm-DDA experimental build 2024-05-13-1412 (dd42dbb)
+* Visual UI for changing vehicle part shapes (#73739)
 * Confirm ability requested (#73702)
 
 Cataclysm-DDA experimental build 2024-05-13-0203 (a5ba2a0)
@@ -113,9 +118,6 @@ Cataclysm-DDA experimental build 2024-05-10-0814 (10a7e40)
 Cataclysm-DDA experimental build 2024-05-10-0414 (1de57ca)
 * Fix Character::i_add_or_drop (#73556)
 
-Cataclysm-DDA experimental build 2024-05-10-0048 (1aca3eb)
-* Weekly Changelog 2024-04-29 to 2024-05-06 (#73539)
-
 Cataclysm-DDA experimental build 2024-05-09-2154 (4f2509b)
 * damaged appiance-items remain damaged when transformed to appliance and back (#73588)
 
@@ -125,7 +127,6 @@ Cataclysm-DDA experimental build 2024-05-09-1654 (581c99b)
 * clang-tidy (#73572)
 * Debug menu monster editing (#73563)
 * Fix stamina regains when dodging (#73558)
-* Add Skunks! (#73537)
 * Added to greater dimensional bag to enchanted_misc item group (#73564)
 * Fixing issue where Android gesture inputs were broken (#73554)
 * Update coats.json (Coyote Combat Jacket) (#73573)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2024-05-09-1654 (581c99b)
 * fix arithmetical error crash (#73566)
 * Atomic Smartphone Flashlight Fix (#73553)
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic (#73555)
-* Mesoamerican armor redux (#73540)
 * Re-add generic cards, make the MoM Magician start with only generic cards (#73545)

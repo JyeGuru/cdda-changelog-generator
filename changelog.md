@@ -1,3 +1,11 @@
+* Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. ([#73738](https://github.com/CleverRaven/Cataclysm-DDA/pull/73738))
+* Heat func bugfix ([#73740](https://github.com/CleverRaven/Cataclysm-DDA/pull/73740))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-13-1412 ([dd42dbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-13-1412))
+
+* Visual UI for changing vehicle part shapes ([#73739](https://github.com/CleverRaven/Cataclysm-DDA/pull/73739))
 * Confirm ability requested ([#73702](https://github.com/CleverRaven/Cataclysm-DDA/pull/73702))
 
 ---
@@ -178,12 +186,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-05-10-0048 ([1aca3eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-0048))
-
-* Weekly Changelog 2024-04-29 to 2024-05-06 ([#73539](https://github.com/CleverRaven/Cataclysm-DDA/pull/73539))
-
----
-
 #### Cataclysm-DDA experimental build 2024-05-09-2154 ([4f2509b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-09-2154))
 
 * damaged appiance-items remain damaged when transformed to appliance and back ([#73588](https://github.com/CleverRaven/Cataclysm-DDA/pull/73588))
@@ -197,7 +199,6 @@
 * clang-tidy ([#73572](https://github.com/CleverRaven/Cataclysm-DDA/pull/73572))
 * Debug menu monster editing ([#73563](https://github.com/CleverRaven/Cataclysm-DDA/pull/73563))
 * Fix stamina regains when dodging ([#73558](https://github.com/CleverRaven/Cataclysm-DDA/pull/73558))
-* Add Skunks! ([#73537](https://github.com/CleverRaven/Cataclysm-DDA/pull/73537))
 * Added to greater dimensional bag to enchanted_misc item group ([#73564](https://github.com/CleverRaven/Cataclysm-DDA/pull/73564))
 * Fixing issue where Android gesture inputs were broken ([#73554](https://github.com/CleverRaven/Cataclysm-DDA/pull/73554))
 * Update coats.json (Coyote Combat Jacket) ([#73573](https://github.com/CleverRaven/Cataclysm-DDA/pull/73573))
@@ -211,5 +212,4 @@
 * fix arithmetical error crash ([#73566](https://github.com/CleverRaven/Cataclysm-DDA/pull/73566))
 * Atomic Smartphone Flashlight Fix ([#73553](https://github.com/CleverRaven/Cataclysm-DDA/pull/73553))
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic ([#73555](https://github.com/CleverRaven/Cataclysm-DDA/pull/73555))
-* Mesoamerican armor redux ([#73540](https://github.com/CleverRaven/Cataclysm-DDA/pull/73540))
 * Re-add generic cards, make the MoM Magician start with only generic cards ([#73545](https://github.com/CleverRaven/Cataclysm-DDA/pull/73545))
