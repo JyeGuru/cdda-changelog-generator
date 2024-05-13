@@ -1,3 +1,4 @@
+* [MoM] Rework Combat Sense with modern enchants (#73727)
 
 Cataclysm-DDA experimental build 2024-05-13-1656 (3a16ecf)
 * Expand Nightmare Snippets (#73696)
@@ -96,7 +97,6 @@ Cataclysm-DDA experimental build 2024-05-11-0628 (aee9514)
 * Skunk Spray Neutralizer (#73600)
 * make the game faster when player sleep near the tree (#73590)
 * Add molle accessories to webbing belt (#73571)
-* Fix integrated armor being incompatible with some mutations (#73547)
 * Can order followers to go to player's current destination (#73624)
 * [bugfix] krakens swim (#73632)
 

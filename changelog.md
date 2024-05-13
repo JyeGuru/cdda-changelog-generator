@@ -1,3 +1,4 @@
+* [MoM] Rework Combat Sense with modern enchants ([#73727](https://github.com/CleverRaven/Cataclysm-DDA/pull/73727))
 
 ---
 
@@ -150,7 +151,6 @@
 * Skunk Spray Neutralizer ([#73600](https://github.com/CleverRaven/Cataclysm-DDA/pull/73600))
 * make the game faster when player sleep near the tree ([#73590](https://github.com/CleverRaven/Cataclysm-DDA/pull/73590))
 * Add molle accessories to webbing belt ([#73571](https://github.com/CleverRaven/Cataclysm-DDA/pull/73571))
-* Fix integrated armor being incompatible with some mutations ([#73547](https://github.com/CleverRaven/Cataclysm-DDA/pull/73547))
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
 
