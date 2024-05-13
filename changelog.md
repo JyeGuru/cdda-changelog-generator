@@ -1,3 +1,4 @@
+* Confirm ability requested ([#73702](https://github.com/CleverRaven/Cataclysm-DDA/pull/73702))
 
 ---
 
@@ -217,4 +218,3 @@
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic ([#73555](https://github.com/CleverRaven/Cataclysm-DDA/pull/73555))
 * Mesoamerican armor redux ([#73540](https://github.com/CleverRaven/Cataclysm-DDA/pull/73540))
 * Re-add generic cards, make the MoM Magician start with only generic cards ([#73545](https://github.com/CleverRaven/Cataclysm-DDA/pull/73545))
-* Make pillbox_large's pockets transparent ([#73533](https://github.com/CleverRaven/Cataclysm-DDA/pull/73533))
