@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-13-1656 ([3a16ecf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-13-1656))
+
 * Expand Nightmare Snippets ([#73696](https://github.com/CleverRaven/Cataclysm-DDA/pull/73696))
 * Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. ([#73738](https://github.com/CleverRaven/Cataclysm-DDA/pull/73738))
 * Heat func bugfix ([#73740](https://github.com/CleverRaven/Cataclysm-DDA/pull/73740))
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-05-09-2154 ([4f2509b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-09-2154))
 
 * damaged appiance-items remain damaged when transformed to appliance and back ([#73588](https://github.com/CleverRaven/Cataclysm-DDA/pull/73588))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-09-1654 ([581c99b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-09-1654))
-
 * Clamp metabolism enchantment to prevent lag ([#73591](https://github.com/CleverRaven/Cataclysm-DDA/pull/73591))
 * Fix a typo in a few combat exoskeleton descriptions ([#73594](https://github.com/CleverRaven/Cataclysm-DDA/pull/73594))
 * clang-tidy ([#73572](https://github.com/CleverRaven/Cataclysm-DDA/pull/73572))
