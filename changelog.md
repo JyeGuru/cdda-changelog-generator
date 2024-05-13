@@ -194,11 +194,6 @@
 
 * Clamp metabolism enchantment to prevent lag ([#73591](https://github.com/CleverRaven/Cataclysm-DDA/pull/73591))
 * Fix a typo in a few combat exoskeleton descriptions ([#73594](https://github.com/CleverRaven/Cataclysm-DDA/pull/73594))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-09-0820 ([fa8ae46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-09-0820))
-
 * clang-tidy ([#73572](https://github.com/CleverRaven/Cataclysm-DDA/pull/73572))
 * Debug menu monster editing ([#73563](https://github.com/CleverRaven/Cataclysm-DDA/pull/73563))
 * Fix stamina regains when dodging ([#73558](https://github.com/CleverRaven/Cataclysm-DDA/pull/73558))
