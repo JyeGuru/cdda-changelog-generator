@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-14-1414 ([fc1c48f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-1414))
+
 * [MoM] Feral telekinetics have no inherent armor, they use their powers instead ([#73634](https://github.com/CleverRaven/Cataclysm-DDA/pull/73634))
 * [MoM] Add triffid psions ([#73636](https://github.com/CleverRaven/Cataclysm-DDA/pull/73636))
 * fix: reinforce land prison entrace ([#73729](https://github.com/CleverRaven/Cataclysm-DDA/pull/73729))
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2024-05-10-1629 ([d2b094e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-1629))
 
 * [Bombastic Perks] More perks ([#73589](https://github.com/CleverRaven/Cataclysm-DDA/pull/73589))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-10-0814 ([10a7e40](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-0814))
-
 * Make Cat's Grace and Ogre Strength mutually exclusive ([#73599](https://github.com/CleverRaven/Cataclysm-DDA/pull/73599))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
 * No magic dissectables ([#73579](https://github.com/CleverRaven/Cataclysm-DDA/pull/73579))
