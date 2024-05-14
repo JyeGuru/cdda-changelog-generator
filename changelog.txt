@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-14-1902 (c7d88dc)
 * Fix crash when opening construction menu with no visible entries (#73785)
 
 Cataclysm-DDA 0.H release candidate 2024-05-14-1743 (83554d2)
@@ -127,8 +129,6 @@ Cataclysm-DDA experimental build 2024-05-11-0628 (aee9514)
 * make the game faster when player sleep near the tree (#73590)
 * Can order followers to go to player's current destination (#73624)
 * [bugfix] krakens swim (#73632)
-
-Cataclysm-DDA experimental build 2024-05-10-2227 (9734160)
 * Use ncurses accessor macros (#73586)
 * [Bombastic Perks] More perks (#73589)
 * Make Cat's Grace and Ogre Strength mutually exclusive (#73599)
