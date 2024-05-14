@@ -1,3 +1,4 @@
+* Backport #73346 ([#73771](https://github.com/CleverRaven/Cataclysm-DDA/pull/73771))
 * Backport #73296 ([#73770](https://github.com/CleverRaven/Cataclysm-DDA/pull/73770))
 * Backport #72881 ([#73767](https://github.com/CleverRaven/Cataclysm-DDA/pull/73767))
 * Backport #72739 ([#73766](https://github.com/CleverRaven/Cataclysm-DDA/pull/73766))
@@ -206,5 +207,4 @@
 * Fix fake obstacle parts, duplicated fake parts ([#73574](https://github.com/CleverRaven/Cataclysm-DDA/pull/73574))
 * [Magiclysm] fix summon_undead_swarm using summon_undead spell level as check ([#73582](https://github.com/CleverRaven/Cataclysm-DDA/pull/73582))
 * [Sky Island] Fix rock outside of windows ([#73576](https://github.com/CleverRaven/Cataclysm-DDA/pull/73576))
-* typified lightmap ([#73568](https://github.com/CleverRaven/Cataclysm-DDA/pull/73568))
 * Fix bandit farm moat ([#73577](https://github.com/CleverRaven/Cataclysm-DDA/pull/73577))
