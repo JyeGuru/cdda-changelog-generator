@@ -1,6 +1,13 @@
+* Backport #70767 ([#73777](https://github.com/CleverRaven/Cataclysm-DDA/pull/73777))
+* Backport #70423 and #70685 ([#73774](https://github.com/CleverRaven/Cataclysm-DDA/pull/73774))
 * Backport #73346 ([#73771](https://github.com/CleverRaven/Cataclysm-DDA/pull/73771))
 * Backport #73296 ([#73770](https://github.com/CleverRaven/Cataclysm-DDA/pull/73770))
 * Backport #72881 ([#73767](https://github.com/CleverRaven/Cataclysm-DDA/pull/73767))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-14-1731 ([ac818d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-14-1731))
+
 * Backport #72739 ([#73766](https://github.com/CleverRaven/Cataclysm-DDA/pull/73766))
 
 ---
@@ -176,7 +183,6 @@
 * Test to ensure unconditional and conditional nest placement works ([#73607](https://github.com/CleverRaven/Cataclysm-DDA/pull/73607))
 * Skunk Spray Neutralizer ([#73600](https://github.com/CleverRaven/Cataclysm-DDA/pull/73600))
 * make the game faster when player sleep near the tree ([#73590](https://github.com/CleverRaven/Cataclysm-DDA/pull/73590))
-* Add molle accessories to webbing belt ([#73571](https://github.com/CleverRaven/Cataclysm-DDA/pull/73571))
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
 
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-05-10-2227 ([9734160](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-2227))
 
 * Use ncurses accessor macros ([#73586](https://github.com/CleverRaven/Cataclysm-DDA/pull/73586))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-10-1629 ([d2b094e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-1629))
-
 * [Bombastic Perks] More perks ([#73589](https://github.com/CleverRaven/Cataclysm-DDA/pull/73589))
 * Make Cat's Grace and Ogre Strength mutually exclusive ([#73599](https://github.com/CleverRaven/Cataclysm-DDA/pull/73599))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
@@ -203,7 +204,6 @@
 * Fix a typo in a few combat exoskeleton descriptions ([#73594](https://github.com/CleverRaven/Cataclysm-DDA/pull/73594))
 * clang-tidy ([#73572](https://github.com/CleverRaven/Cataclysm-DDA/pull/73572))
 * Update coats.json (Coyote Combat Jacket) ([#73573](https://github.com/CleverRaven/Cataclysm-DDA/pull/73573))
-* [MoM] Rework Passive traits to use spell_level_sum ([#73569](https://github.com/CleverRaven/Cataclysm-DDA/pull/73569))
 * Fix fake obstacle parts, duplicated fake parts ([#73574](https://github.com/CleverRaven/Cataclysm-DDA/pull/73574))
 * [Magiclysm] fix summon_undead_swarm using summon_undead spell level as check ([#73582](https://github.com/CleverRaven/Cataclysm-DDA/pull/73582))
 * [Sky Island] Fix rock outside of windows ([#73576](https://github.com/CleverRaven/Cataclysm-DDA/pull/73576))
