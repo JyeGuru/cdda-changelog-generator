@@ -1,3 +1,8 @@
+* [MoM] Feral telekinetics have no inherent armor, they use their powers instead ([#73634](https://github.com/CleverRaven/Cataclysm-DDA/pull/73634))
+* [MoM] Add triffid psions ([#73636](https://github.com/CleverRaven/Cataclysm-DDA/pull/73636))
+* fix: reinforce land prison entrace ([#73729](https://github.com/CleverRaven/Cataclysm-DDA/pull/73729))
+* Trigger rebuild of cataclysmdda.org when a 0.H release candidate is created ([#73737](https://github.com/CleverRaven/Cataclysm-DDA/pull/73737))
+* Added roofs to livestock 1 ([#73744](https://github.com/CleverRaven/Cataclysm-DDA/pull/73744))
 * Split construction into many files in a subdirectory ([#73750](https://github.com/CleverRaven/Cataclysm-DDA/pull/73750))
 
 ---
@@ -146,12 +151,6 @@
 * Give me (Amnestasia) /confirm privileges ([#73650](https://github.com/CleverRaven/Cataclysm-DDA/pull/73650))
 * Backport #73632 ([#73660](https://github.com/CleverRaven/Cataclysm-DDA/pull/73660))
 * Automation changes for 0.H release candidates ([#73638](https://github.com/CleverRaven/Cataclysm-DDA/pull/73638))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-11-0903 ([d78e605](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-0903))
-
-* Fix bsd cmake build failure ([#73561](https://github.com/CleverRaven/Cataclysm-DDA/pull/73561))
 * fixing clang-tidy errors from recent imtui change ([#73637](https://github.com/CleverRaven/Cataclysm-DDA/pull/73637))
 
 ---
@@ -180,12 +179,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-05-10-1906 ([2f373e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-1906))
-
-* Fix carving knife being defined as a bread knife ([#73560](https://github.com/CleverRaven/Cataclysm-DDA/pull/73560))
-
----
-
 #### Cataclysm-DDA experimental build 2024-05-10-1629 ([d2b094e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-1629))
 
 * [Bombastic Perks] More perks ([#73589](https://github.com/CleverRaven/Cataclysm-DDA/pull/73589))
@@ -201,13 +194,10 @@
 * Require confirmation for camp placement ([#73604](https://github.com/CleverRaven/Cataclysm-DDA/pull/73604))
 * Build emscripten after matrix build. ([#73615](https://github.com/CleverRaven/Cataclysm-DDA/pull/73615))
 * Fix Dummy Typo I Forgot About ([#73613](https://github.com/CleverRaven/Cataclysm-DDA/pull/73613))
-* Fix Character::i_add_or_drop ([#73556](https://github.com/CleverRaven/Cataclysm-DDA/pull/73556))
 * damaged appiance-items remain damaged when transformed to appliance and back ([#73588](https://github.com/CleverRaven/Cataclysm-DDA/pull/73588))
 * Clamp metabolism enchantment to prevent lag ([#73591](https://github.com/CleverRaven/Cataclysm-DDA/pull/73591))
 * Fix a typo in a few combat exoskeleton descriptions ([#73594](https://github.com/CleverRaven/Cataclysm-DDA/pull/73594))
 * clang-tidy ([#73572](https://github.com/CleverRaven/Cataclysm-DDA/pull/73572))
-* Debug menu monster editing ([#73563](https://github.com/CleverRaven/Cataclysm-DDA/pull/73563))
-* Fix stamina regains when dodging ([#73558](https://github.com/CleverRaven/Cataclysm-DDA/pull/73558))
 * Added to greater dimensional bag to enchanted_misc item group ([#73564](https://github.com/CleverRaven/Cataclysm-DDA/pull/73564))
 * Update coats.json (Coyote Combat Jacket) ([#73573](https://github.com/CleverRaven/Cataclysm-DDA/pull/73573))
 * [MoM] Rework Passive traits to use spell_level_sum ([#73569](https://github.com/CleverRaven/Cataclysm-DDA/pull/73569))
