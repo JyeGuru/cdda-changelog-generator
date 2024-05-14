@@ -1,3 +1,14 @@
+* Average NPC skill level increases over time ([#73745](https://github.com/CleverRaven/Cataclysm-DDA/pull/73745))
+* Include vehicle roofs for map::draw_from_above ([#73747](https://github.com/CleverRaven/Cataclysm-DDA/pull/73747))
+* fix draw_critter_above bounds check ([#73756](https://github.com/CleverRaven/Cataclysm-DDA/pull/73756))
+* fix assert in diary info panel clamp ([#73758](https://github.com/CleverRaven/Cataclysm-DDA/pull/73758))
+* Nerf artwork prices into oblivion ([#73780](https://github.com/CleverRaven/Cataclysm-DDA/pull/73780))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-14-2300 ([dd720c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-2300))
+
+* Fix door on select, door controls should keep selection ([#73789](https://github.com/CleverRaven/Cataclysm-DDA/pull/73789))
 
 ---
 
@@ -198,17 +209,11 @@
 * Resume butchering ([#73610](https://github.com/CleverRaven/Cataclysm-DDA/pull/73610))
 * Test to ensure unconditional and conditional nest placement works ([#73607](https://github.com/CleverRaven/Cataclysm-DDA/pull/73607))
 * Skunk Spray Neutralizer ([#73600](https://github.com/CleverRaven/Cataclysm-DDA/pull/73600))
-* make the game faster when player sleep near the tree ([#73590](https://github.com/CleverRaven/Cataclysm-DDA/pull/73590))
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
-* Use ncurses accessor macros ([#73586](https://github.com/CleverRaven/Cataclysm-DDA/pull/73586))
-* [Bombastic Perks] More perks ([#73589](https://github.com/CleverRaven/Cataclysm-DDA/pull/73589))
 * Make Cat's Grace and Ogre Strength mutually exclusive ([#73599](https://github.com/CleverRaven/Cataclysm-DDA/pull/73599))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
 * Don't require parts to be unbroken for fake part generation ([#73596](https://github.com/CleverRaven/Cataclysm-DDA/pull/73596))
 * Require confirmation for camp placement ([#73604](https://github.com/CleverRaven/Cataclysm-DDA/pull/73604))
 * Build emscripten after matrix build. ([#73615](https://github.com/CleverRaven/Cataclysm-DDA/pull/73615))
 * Fix Dummy Typo I Forgot About ([#73613](https://github.com/CleverRaven/Cataclysm-DDA/pull/73613))
-* damaged appiance-items remain damaged when transformed to appliance and back ([#73588](https://github.com/CleverRaven/Cataclysm-DDA/pull/73588))
-* Clamp metabolism enchantment to prevent lag ([#73591](https://github.com/CleverRaven/Cataclysm-DDA/pull/73591))
-* Fix a typo in a few combat exoskeleton descriptions ([#73594](https://github.com/CleverRaven/Cataclysm-DDA/pull/73594))
