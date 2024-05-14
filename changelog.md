@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-14-0351 ([e3c105a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-0351))
+
+* Tweak Wind Turbine Recipe Learning ([#73649](https://github.com/CleverRaven/Cataclysm-DDA/pull/73649))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-13-1913 ([aa7dd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-13-1913))
 
 * [MoM] Rework Combat Sense with modern enchants ([#73727](https://github.com/CleverRaven/Cataclysm-DDA/pull/73727))
@@ -211,5 +217,4 @@
 * Fix bandit farm moat ([#73577](https://github.com/CleverRaven/Cataclysm-DDA/pull/73577))
 * Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
 * fix arithmetical error crash ([#73566](https://github.com/CleverRaven/Cataclysm-DDA/pull/73566))
-* Atomic Smartphone Flashlight Fix ([#73553](https://github.com/CleverRaven/Cataclysm-DDA/pull/73553))
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic ([#73555](https://github.com/CleverRaven/Cataclysm-DDA/pull/73555))

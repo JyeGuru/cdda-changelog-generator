@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-14-0351 (e3c105a)
+* Tweak Wind Turbine Recipe Learning (#73649)
+
 Cataclysm-DDA experimental build 2024-05-13-1913 (aa7dd5c)
 * [MoM] Rework Combat Sense with modern enchants (#73727)
 
@@ -139,5 +142,4 @@ Cataclysm-DDA experimental build 2024-05-10-0414 (1de57ca)
 * Fix bandit farm moat (#73577)
 * Monster enchantments set bonus speed, not base (#73565)
 * fix arithmetical error crash (#73566)
-* Atomic Smartphone Flashlight Fix (#73553)
 * [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic (#73555)
