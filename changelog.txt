@@ -1,3 +1,4 @@
+* Fix crash when opening construction menu with no visible entries (#73785)
 
 Cataclysm-DDA 0.H release candidate 2024-05-14-1743 (83554d2)
 * Backport #70772 and #70775 (#73775)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-05-10-2227 (9734160)
 * damaged appiance-items remain damaged when transformed to appliance and back (#73588)
 * Clamp metabolism enchantment to prevent lag (#73591)
 * Fix a typo in a few combat exoskeleton descriptions (#73594)
-* [Magiclysm] fix summon_undead_swarm using summon_undead spell level as check (#73582)

@@ -1,3 +1,4 @@
+* Fix crash when opening construction menu with no visible entries ([#73785](https://github.com/CleverRaven/Cataclysm-DDA/pull/73785))
 
 ---
 
@@ -211,4 +212,3 @@
 * damaged appiance-items remain damaged when transformed to appliance and back ([#73588](https://github.com/CleverRaven/Cataclysm-DDA/pull/73588))
 * Clamp metabolism enchantment to prevent lag ([#73591](https://github.com/CleverRaven/Cataclysm-DDA/pull/73591))
 * Fix a typo in a few combat exoskeleton descriptions ([#73594](https://github.com/CleverRaven/Cataclysm-DDA/pull/73594))
-* [Magiclysm] fix summon_undead_swarm using summon_undead spell level as check ([#73582](https://github.com/CleverRaven/Cataclysm-DDA/pull/73582))
