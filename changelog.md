@@ -1,3 +1,10 @@
+* Split construction into many files in a subdirectory ([#73750](https://github.com/CleverRaven/Cataclysm-DDA/pull/73750))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-14-1152 ([2ac99ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-1152))
+
+* Don't show gun without default ammo defined as an option in reload ui ([#73743](https://github.com/CleverRaven/Cataclysm-DDA/pull/73743))
 
 ---
 
@@ -194,11 +201,6 @@
 * Require confirmation for camp placement ([#73604](https://github.com/CleverRaven/Cataclysm-DDA/pull/73604))
 * Build emscripten after matrix build. ([#73615](https://github.com/CleverRaven/Cataclysm-DDA/pull/73615))
 * Fix Dummy Typo I Forgot About ([#73613](https://github.com/CleverRaven/Cataclysm-DDA/pull/73613))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-10-0414 ([1de57ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-10-0414))
-
 * Fix Character::i_add_or_drop ([#73556](https://github.com/CleverRaven/Cataclysm-DDA/pull/73556))
 * damaged appiance-items remain damaged when transformed to appliance and back ([#73588](https://github.com/CleverRaven/Cataclysm-DDA/pull/73588))
 * Clamp metabolism enchantment to prevent lag ([#73591](https://github.com/CleverRaven/Cataclysm-DDA/pull/73591))
@@ -207,7 +209,6 @@
 * Debug menu monster editing ([#73563](https://github.com/CleverRaven/Cataclysm-DDA/pull/73563))
 * Fix stamina regains when dodging ([#73558](https://github.com/CleverRaven/Cataclysm-DDA/pull/73558))
 * Added to greater dimensional bag to enchanted_misc item group ([#73564](https://github.com/CleverRaven/Cataclysm-DDA/pull/73564))
-* Fixing issue where Android gesture inputs were broken ([#73554](https://github.com/CleverRaven/Cataclysm-DDA/pull/73554))
 * Update coats.json (Coyote Combat Jacket) ([#73573](https://github.com/CleverRaven/Cataclysm-DDA/pull/73573))
 * [MoM] Rework Passive traits to use spell_level_sum ([#73569](https://github.com/CleverRaven/Cataclysm-DDA/pull/73569))
 * Fix fake obstacle parts, duplicated fake parts ([#73574](https://github.com/CleverRaven/Cataclysm-DDA/pull/73574))
@@ -217,4 +218,3 @@
 * Fix bandit farm moat ([#73577](https://github.com/CleverRaven/Cataclysm-DDA/pull/73577))
 * Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
 * fix arithmetical error crash ([#73566](https://github.com/CleverRaven/Cataclysm-DDA/pull/73566))
-* [Aftershock] Remove spaces in TALK_AUGUSTMOON_OUTFITTER chat topic ([#73555](https://github.com/CleverRaven/Cataclysm-DDA/pull/73555))
