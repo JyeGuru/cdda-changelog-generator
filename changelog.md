@@ -1,3 +1,6 @@
+* Backport #73296 ([#73770](https://github.com/CleverRaven/Cataclysm-DDA/pull/73770))
+* Backport #72881 ([#73767](https://github.com/CleverRaven/Cataclysm-DDA/pull/73767))
+* Backport #72739 ([#73766](https://github.com/CleverRaven/Cataclysm-DDA/pull/73766))
 
 ---
 
@@ -198,7 +201,6 @@
 * Clamp metabolism enchantment to prevent lag ([#73591](https://github.com/CleverRaven/Cataclysm-DDA/pull/73591))
 * Fix a typo in a few combat exoskeleton descriptions ([#73594](https://github.com/CleverRaven/Cataclysm-DDA/pull/73594))
 * clang-tidy ([#73572](https://github.com/CleverRaven/Cataclysm-DDA/pull/73572))
-* Added to greater dimensional bag to enchanted_misc item group ([#73564](https://github.com/CleverRaven/Cataclysm-DDA/pull/73564))
 * Update coats.json (Coyote Combat Jacket) ([#73573](https://github.com/CleverRaven/Cataclysm-DDA/pull/73573))
 * [MoM] Rework Passive traits to use spell_level_sum ([#73569](https://github.com/CleverRaven/Cataclysm-DDA/pull/73569))
 * Fix fake obstacle parts, duplicated fake parts ([#73574](https://github.com/CleverRaven/Cataclysm-DDA/pull/73574))
@@ -206,5 +208,3 @@
 * [Sky Island] Fix rock outside of windows ([#73576](https://github.com/CleverRaven/Cataclysm-DDA/pull/73576))
 * typified lightmap ([#73568](https://github.com/CleverRaven/Cataclysm-DDA/pull/73568))
 * Fix bandit farm moat ([#73577](https://github.com/CleverRaven/Cataclysm-DDA/pull/73577))
-* Monster enchantments set bonus speed, not base ([#73565](https://github.com/CleverRaven/Cataclysm-DDA/pull/73565))
-* fix arithmetical error crash ([#73566](https://github.com/CleverRaven/Cataclysm-DDA/pull/73566))
