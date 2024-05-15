@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-15-1833 ([7f06e9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-15-1833))
+
+* Add tarot cards and Ouija board ([#73752](https://github.com/CleverRaven/Cataclysm-DDA/pull/73752))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-05-15-0314 ([27059e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-15-0314))
 
 * Backport #70589 and #70770 ([#73773](https://github.com/CleverRaven/Cataclysm-DDA/pull/73773))
@@ -170,12 +176,6 @@
 * #include vector in cata_imgui.h ([#73681](https://github.com/CleverRaven/Cataclysm-DDA/pull/73681))
 * Provided 3D camp construction + Livestock 2 example ([#73665](https://github.com/CleverRaven/Cataclysm-DDA/pull/73665))
 * Use dummy parser for attack_vector to fix string extraction script error ([#73659](https://github.com/CleverRaven/Cataclysm-DDA/pull/73659))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-11-2220 ([15c4984](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-2220))
-
-* typified animation.cpp ([#73609](https://github.com/CleverRaven/Cataclysm-DDA/pull/73609))
 * Backport updated release notes generation workflow to 0.H ([#73686](https://github.com/CleverRaven/Cataclysm-DDA/pull/73686))
 * skip emscripten build for draft PRs ([#73668](https://github.com/CleverRaven/Cataclysm-DDA/pull/73668))
 * Backport #71403 ([#73673](https://github.com/CleverRaven/Cataclysm-DDA/pull/73673))

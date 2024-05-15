@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-15-1833 (7f06e9f)
+* Add tarot cards and Ouija board (#73752)
+
 Cataclysm-DDA 0.H release candidate 2024-05-15-0314 (27059e7)
 * Backport #70589 and #70770 (#73773)
 * Typified editmap (#73713)
@@ -107,9 +110,6 @@ Cataclysm-DDA experimental build 2024-05-11-2327 (59351db)
 * #include vector in cata_imgui.h (#73681)
 * Provided 3D camp construction + Livestock 2 example (#73665)
 * Use dummy parser for attack_vector to fix string extraction script error (#73659)
-
-Cataclysm-DDA experimental build 2024-05-11-2220 (15c4984)
-* typified animation.cpp (#73609)
 * Backport updated release notes generation workflow to 0.H (#73686)
 * skip emscripten build for draft PRs (#73668)
 * Backport #71403 (#73673)
