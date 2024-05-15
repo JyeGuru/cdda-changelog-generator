@@ -210,7 +210,6 @@
 * Add translation context to short art snippets ([#73622](https://github.com/CleverRaven/Cataclysm-DDA/pull/73622))
 * Move Sewer Gators to CrazyCata ([#73611](https://github.com/CleverRaven/Cataclysm-DDA/pull/73611))
 * Resume butchering ([#73610](https://github.com/CleverRaven/Cataclysm-DDA/pull/73610))
-* Test to ensure unconditional and conditional nest placement works ([#73607](https://github.com/CleverRaven/Cataclysm-DDA/pull/73607))
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
