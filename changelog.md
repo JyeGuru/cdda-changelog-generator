@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-15-0314 ([27059e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-15-0314))
+
+* Backport #70589 and #70770 ([#73773](https://github.com/CleverRaven/Cataclysm-DDA/pull/73773))
 * Typified editmap ([#73713](https://github.com/CleverRaven/Cataclysm-DDA/pull/73713))
 * Added explicit roofs to hub version 2 ([#73784](https://github.com/CleverRaven/Cataclysm-DDA/pull/73784))
 * Average NPC skill level increases over time ([#73745](https://github.com/CleverRaven/Cataclysm-DDA/pull/73745))
@@ -154,11 +160,6 @@
 #### Cataclysm-DDA experimental build 2024-05-12-0328 ([1a8080a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-12-0328))
 
 * Added Bronze Wood Saw to Misc Repair Kit Craft ([#73654](https://github.com/CleverRaven/Cataclysm-DDA/pull/73654))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-12-0232 ([2917cec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-12-0232))
-
 * Backport #72898 ([#73685](https://github.com/CleverRaven/Cataclysm-DDA/pull/73685))
 * Backport #70769 ([#73683](https://github.com/CleverRaven/Cataclysm-DDA/pull/73683))
 
@@ -213,6 +214,5 @@
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
-* Require confirmation for camp placement ([#73604](https://github.com/CleverRaven/Cataclysm-DDA/pull/73604))
 * Build emscripten after matrix build. ([#73615](https://github.com/CleverRaven/Cataclysm-DDA/pull/73615))
 * Fix Dummy Typo I Forgot About ([#73613](https://github.com/CleverRaven/Cataclysm-DDA/pull/73613))
