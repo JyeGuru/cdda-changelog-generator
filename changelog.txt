@@ -1,3 +1,4 @@
+* Liberty Bot (#73825)
 * Added explicit roofs to field basecamp 1 (#73830)
 * Backport #70695 (#73831)
 * Backport #70713 (#73832)
@@ -63,9 +64,6 @@ Cataclysm-DDA 0.H release candidate 2024-05-14-1731 (ac818d5)
 
 Cataclysm-DDA experimental build 2024-05-14-1152 (2ac99ba)
 * Don't show gun without default ammo defined as an option in reload ui (#73743)
-
-Cataclysm-DDA experimental build 2024-05-14-0351 (e3c105a)
-* Tweak Wind Turbine Recipe Learning (#73649)
 
 Cataclysm-DDA experimental build 2024-05-13-1913 (aa7dd5c)
 * [MoM] Rework Combat Sense with modern enchants (#73727)

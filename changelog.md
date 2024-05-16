@@ -1,3 +1,4 @@
+* Liberty Bot ([#73825](https://github.com/CleverRaven/Cataclysm-DDA/pull/73825))
 * Added explicit roofs to field basecamp 1 ([#73830](https://github.com/CleverRaven/Cataclysm-DDA/pull/73830))
 * Backport #70695 ([#73831](https://github.com/CleverRaven/Cataclysm-DDA/pull/73831))
 * Backport #70713 ([#73832](https://github.com/CleverRaven/Cataclysm-DDA/pull/73832))
@@ -90,12 +91,6 @@
 #### Cataclysm-DDA experimental build 2024-05-14-1152 ([2ac99ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-1152))
 
 * Don't show gun without default ammo defined as an option in reload ui ([#73743](https://github.com/CleverRaven/Cataclysm-DDA/pull/73743))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-14-0351 ([e3c105a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-0351))
-
-* Tweak Wind Turbine Recipe Learning ([#73649](https://github.com/CleverRaven/Cataclysm-DDA/pull/73649))
 
 ---
 
