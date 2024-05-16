@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-16-0649 ([d435fb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-0649))
+
 * Add Craft, Uncraft, Furniture version, and Construction to Fancy Tables ([#73642](https://github.com/CleverRaven/Cataclysm-DDA/pull/73642))
 * Fix Up Travel Toilets ([#73734](https://github.com/CleverRaven/Cataclysm-DDA/pull/73734))
 * clamp the multiplicative speed bonus ([#73798](https://github.com/CleverRaven/Cataclysm-DDA/pull/73798))
