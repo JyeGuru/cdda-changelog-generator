@@ -1,9 +1,20 @@
+* Backport #70695 ([#73831](https://github.com/CleverRaven/Cataclysm-DDA/pull/73831))
+* Backport #70713 ([#73832](https://github.com/CleverRaven/Cataclysm-DDA/pull/73832))
+* Backport #70688 ([#73833](https://github.com/CleverRaven/Cataclysm-DDA/pull/73833))
+* Backport #70844 ([#73834](https://github.com/CleverRaven/Cataclysm-DDA/pull/73834))
+* Backport #71068 ([#73835](https://github.com/CleverRaven/Cataclysm-DDA/pull/73835))
+* Backport #71330 and #71573 ([#73836](https://github.com/CleverRaven/Cataclysm-DDA/pull/73836))
+* Backport #71351 ([#73837](https://github.com/CleverRaven/Cataclysm-DDA/pull/73837))
+* Backport #71382 ([#73838](https://github.com/CleverRaven/Cataclysm-DDA/pull/73838))
+* Backport #71157 ([#73839](https://github.com/CleverRaven/Cataclysm-DDA/pull/73839))
+* Backport #71333 ([#73840](https://github.com/CleverRaven/Cataclysm-DDA/pull/73840))
+* Backport #71338 ([#73841](https://github.com/CleverRaven/Cataclysm-DDA/pull/73841))
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-05-16-0649 ([d435fb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-0649))
+#### Cataclysm-DDA experimental build 2024-05-16-1442 ([9cb81a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-1442))
 
-* Add Craft, Uncraft, Furniture version, and Construction to Fancy Tables ([#73642](https://github.com/CleverRaven/Cataclysm-DDA/pull/73642))
+* Gun without magic gun barrel ([#73844](https://github.com/CleverRaven/Cataclysm-DDA/pull/73844))
 * Fix Up Travel Toilets ([#73734](https://github.com/CleverRaven/Cataclysm-DDA/pull/73734))
 * clamp the multiplicative speed bonus ([#73798](https://github.com/CleverRaven/Cataclysm-DDA/pull/73798))
 * Load faults / fault_fixes with generic_factory ([#73816](https://github.com/CleverRaven/Cataclysm-DDA/pull/73816))
@@ -68,13 +79,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-05-14-1731 ([ac818d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-14-1731))
 
 * Backport #72739 ([#73766](https://github.com/CleverRaven/Cataclysm-DDA/pull/73766))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-14-1414 ([fc1c48f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-1414))
-
-* [MoM] Feral telekinetics have no inherent armor, they use their powers instead ([#73634](https://github.com/CleverRaven/Cataclysm-DDA/pull/73634))
-* [MoM] Add triffid psions ([#73636](https://github.com/CleverRaven/Cataclysm-DDA/pull/73636))
 * fix: reinforce land prison entrace ([#73729](https://github.com/CleverRaven/Cataclysm-DDA/pull/73729))
 * Trigger rebuild of cataclysmdda.org when a 0.H release candidate is created ([#73737](https://github.com/CleverRaven/Cataclysm-DDA/pull/73737))
 * Added roofs to livestock 1 ([#73744](https://github.com/CleverRaven/Cataclysm-DDA/pull/73744))
@@ -166,18 +170,10 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-05-12-0922 ([795be74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-12-0922))
-
-* TamableWildlife Skunk Friends ([#73645](https://github.com/CleverRaven/Cataclysm-DDA/pull/73645))
-
----
-
 #### Cataclysm-DDA 0.H release candidate 2024-05-12-0655 ([9e77385](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-12-0655))
 
 * Backport #71860 ([#73684](https://github.com/CleverRaven/Cataclysm-DDA/pull/73684))
 * Made a change to the popup to fix text being cut off at low resolutions. ([#73678](https://github.com/CleverRaven/Cataclysm-DDA/pull/73678))
-* [MoM] Increase feral clairsentient dodge ([#73633](https://github.com/CleverRaven/Cataclysm-DDA/pull/73633))
-* [MoM] Normalize feral biokinetic HP ([#73635](https://github.com/CleverRaven/Cataclysm-DDA/pull/73635))
 
 ---
 
@@ -199,23 +195,7 @@
 * Backport #71403 ([#73673](https://github.com/CleverRaven/Cataclysm-DDA/pull/73673))
 * Backport #73113 ([#73670](https://github.com/CleverRaven/Cataclysm-DDA/pull/73670))
 * Backport #72942 ([#73669](https://github.com/CleverRaven/Cataclysm-DDA/pull/73669))
-* document monster dodge balance ([#73631](https://github.com/CleverRaven/Cataclysm-DDA/pull/73631))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-11-1755 ([c5f9a51](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-1755))
-
-* Add Deconstruction of Skunk Skull ([#73643](https://github.com/CleverRaven/Cataclysm-DDA/pull/73643))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-11-1459 ([f5247b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-1459))
-
 * Routine i18n updates on 11 May 2024 ([#73647](https://github.com/CleverRaven/Cataclysm-DDA/pull/73647))
 * Give me (Amnestasia) /confirm privileges ([#73650](https://github.com/CleverRaven/Cataclysm-DDA/pull/73650))
 * Backport #73632 ([#73660](https://github.com/CleverRaven/Cataclysm-DDA/pull/73660))
-* Automation changes for 0.H release candidates ([#73638](https://github.com/CleverRaven/Cataclysm-DDA/pull/73638))
-* fixing clang-tidy errors from recent imtui change ([#73637](https://github.com/CleverRaven/Cataclysm-DDA/pull/73637))
 * Don't access out of bounds ([#73653](https://github.com/CleverRaven/Cataclysm-DDA/pull/73653))
-* skip slow builds for draft PRs ([#73646](https://github.com/CleverRaven/Cataclysm-DDA/pull/73646))
-* [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
