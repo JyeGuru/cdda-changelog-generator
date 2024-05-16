@@ -1,3 +1,5 @@
+* [MoM] EoC-ify Eater drain attack (#73751)
+* extend zombie security guard drops (#73821)
 * [MA] Starting a new game works again (#73689)
 * Modified functions and doc about open_container. (#73805)
 * Expose daily calories calendar to math (#73811)
@@ -116,9 +118,6 @@ Cataclysm-DDA experimental build 2024-05-12-1705 (39e2afa)
 Cataclysm-DDA 0.H release candidate 2024-05-12-0655 (9e77385)
 * Backport #71860 (#73684)
 * Made a change to the popup to fix text being cut off at low resolutions. (#73678)
-
-Cataclysm-DDA experimental build 2024-05-12-0328 (1a8080a)
-* Added Bronze Wood Saw to Misc Repair Kit Craft (#73654)
 * Backport #72898 (#73685)
 * Backport #70769 (#73683)
 

@@ -1,3 +1,5 @@
+* [MoM] EoC-ify Eater drain attack ([#73751](https://github.com/CleverRaven/Cataclysm-DDA/pull/73751))
+* extend zombie security guard drops ([#73821](https://github.com/CleverRaven/Cataclysm-DDA/pull/73821))
 * [MA] Starting a new game works again ([#73689](https://github.com/CleverRaven/Cataclysm-DDA/pull/73689))
 * Modified functions and doc about open_container. ([#73805](https://github.com/CleverRaven/Cataclysm-DDA/pull/73805))
 * Expose daily calories calendar to math ([#73811](https://github.com/CleverRaven/Cataclysm-DDA/pull/73811))
@@ -173,12 +175,6 @@
 
 * Backport #71860 ([#73684](https://github.com/CleverRaven/Cataclysm-DDA/pull/73684))
 * Made a change to the popup to fix text being cut off at low resolutions. ([#73678](https://github.com/CleverRaven/Cataclysm-DDA/pull/73678))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-12-0328 ([1a8080a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-12-0328))
-
-* Added Bronze Wood Saw to Misc Repair Kit Craft ([#73654](https://github.com/CleverRaven/Cataclysm-DDA/pull/73654))
 * Backport #72898 ([#73685](https://github.com/CleverRaven/Cataclysm-DDA/pull/73685))
 * Backport #70769 ([#73683](https://github.com/CleverRaven/Cataclysm-DDA/pull/73683))
 
