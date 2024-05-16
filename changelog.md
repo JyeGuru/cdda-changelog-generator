@@ -1,3 +1,5 @@
+* Better debug message on loading bad vehicle parts ([#73815](https://github.com/CleverRaven/Cataclysm-DDA/pull/73815))
+* Add -gsplit-dwarf to LTO build to cut memory utilization in linker ([#73812](https://github.com/CleverRaven/Cataclysm-DDA/pull/73812))
 * Hydration pouch size fixes ([#73794](https://github.com/CleverRaven/Cataclysm-DDA/pull/73794))
 
 ---
@@ -212,5 +214,3 @@
 * Add translation context to short art snippets ([#73622](https://github.com/CleverRaven/Cataclysm-DDA/pull/73622))
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
-* Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
-* Build emscripten after matrix build. ([#73615](https://github.com/CleverRaven/Cataclysm-DDA/pull/73615))
