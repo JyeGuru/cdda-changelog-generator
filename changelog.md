@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-16-1817 ([d317c9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-1817))
+
 * [MoM] EoC-ify Eater drain attack ([#73751](https://github.com/CleverRaven/Cataclysm-DDA/pull/73751))
 * extend zombie security guard drops ([#73821](https://github.com/CleverRaven/Cataclysm-DDA/pull/73821))
 * [MA] Starting a new game works again ([#73689](https://github.com/CleverRaven/Cataclysm-DDA/pull/73689))
@@ -6,6 +11,11 @@
 * Liberty Bot ([#73825](https://github.com/CleverRaven/Cataclysm-DDA/pull/73825))
 * Added explicit roofs to field basecamp 1 ([#73830](https://github.com/CleverRaven/Cataclysm-DDA/pull/73830))
 * Backport #70695 ([#73831](https://github.com/CleverRaven/Cataclysm-DDA/pull/73831))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-16-1815 ([b8b8c01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-16-1815))
+
 * Backport #70713 ([#73832](https://github.com/CleverRaven/Cataclysm-DDA/pull/73832))
 * Backport #70688 ([#73833](https://github.com/CleverRaven/Cataclysm-DDA/pull/73833))
 * Backport #70844 ([#73834](https://github.com/CleverRaven/Cataclysm-DDA/pull/73834))
