@@ -1,3 +1,10 @@
+* Hydration pouch size fixes ([#73794](https://github.com/CleverRaven/Cataclysm-DDA/pull/73794))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-16-0345 ([ea7f959](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-0345))
+
+* Fix duct tape described as liquid ([#73801](https://github.com/CleverRaven/Cataclysm-DDA/pull/73801))
 
 ---
 
@@ -198,19 +205,12 @@
 * Backport #73632 ([#73660](https://github.com/CleverRaven/Cataclysm-DDA/pull/73660))
 * Automation changes for 0.H release candidates ([#73638](https://github.com/CleverRaven/Cataclysm-DDA/pull/73638))
 * fixing clang-tidy errors from recent imtui change ([#73637](https://github.com/CleverRaven/Cataclysm-DDA/pull/73637))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-11-0628 ([aee9514](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-11-0628))
-
 * Don't access out of bounds ([#73653](https://github.com/CleverRaven/Cataclysm-DDA/pull/73653))
 * skip slow builds for draft PRs ([#73646](https://github.com/CleverRaven/Cataclysm-DDA/pull/73646))
 * Audit Vehicle Parts Breaks_into (Part One?) ([#73630](https://github.com/CleverRaven/Cataclysm-DDA/pull/73630))
 * Fixes Dirt Mound Inconsistencies ([#73625](https://github.com/CleverRaven/Cataclysm-DDA/pull/73625))
 * Add translation context to short art snippets ([#73622](https://github.com/CleverRaven/Cataclysm-DDA/pull/73622))
-* Move Sewer Gators to CrazyCata ([#73611](https://github.com/CleverRaven/Cataclysm-DDA/pull/73611))
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
 * Fixing issue where CJK text draws just a couple pixels too high on ImGui ([#73616](https://github.com/CleverRaven/Cataclysm-DDA/pull/73616))
 * Build emscripten after matrix build. ([#73615](https://github.com/CleverRaven/Cataclysm-DDA/pull/73615))
-* Fix Dummy Typo I Forgot About ([#73613](https://github.com/CleverRaven/Cataclysm-DDA/pull/73613))
