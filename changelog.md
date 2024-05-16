@@ -1,3 +1,4 @@
+* Added explicit roofs to field basecamp 1 ([#73830](https://github.com/CleverRaven/Cataclysm-DDA/pull/73830))
 * Backport #70695 ([#73831](https://github.com/CleverRaven/Cataclysm-DDA/pull/73831))
 * Backport #70713 ([#73832](https://github.com/CleverRaven/Cataclysm-DDA/pull/73832))
 * Backport #70688 ([#73833](https://github.com/CleverRaven/Cataclysm-DDA/pull/73833))
@@ -195,7 +196,6 @@
 * Backport #71403 ([#73673](https://github.com/CleverRaven/Cataclysm-DDA/pull/73673))
 * Backport #73113 ([#73670](https://github.com/CleverRaven/Cataclysm-DDA/pull/73670))
 * Backport #72942 ([#73669](https://github.com/CleverRaven/Cataclysm-DDA/pull/73669))
-* Routine i18n updates on 11 May 2024 ([#73647](https://github.com/CleverRaven/Cataclysm-DDA/pull/73647))
 * Give me (Amnestasia) /confirm privileges ([#73650](https://github.com/CleverRaven/Cataclysm-DDA/pull/73650))
 * Backport #73632 ([#73660](https://github.com/CleverRaven/Cataclysm-DDA/pull/73660))
 * Don't access out of bounds ([#73653](https://github.com/CleverRaven/Cataclysm-DDA/pull/73653))
