@@ -1,3 +1,4 @@
+* Allow Ouija boards to spawn (#73828)
 
 Cataclysm-DDA experimental build 2024-05-16-1817 (d317c9e)
 * [MoM] EoC-ify Eater drain attack (#73751)
@@ -117,7 +118,6 @@ Cataclysm-DDA 0.H release candidate 2024-05-12-1749 (8985d54)
 
 Cataclysm-DDA experimental build 2024-05-12-1705 (39e2afa)
 * Remove redundant emscripten build (#73693)
-* Cable pockets don't add extra encumbrance (#73656)
 * Define _XOPEN_SOURCE_EXTENDED on mac localized curses builds for wchar (#73697)
 * fix spawn_rate being zero by default (#73699)
 

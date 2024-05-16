@@ -1,3 +1,4 @@
+* Allow Ouija boards to spawn ([#73828](https://github.com/CleverRaven/Cataclysm-DDA/pull/73828))
 
 ---
 
@@ -180,7 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-05-12-1705 ([39e2afa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-12-1705))
 
 * Remove redundant emscripten build ([#73693](https://github.com/CleverRaven/Cataclysm-DDA/pull/73693))
-* Cable pockets don't add extra encumbrance ([#73656](https://github.com/CleverRaven/Cataclysm-DDA/pull/73656))
 * Define _XOPEN_SOURCE_EXTENDED on mac localized curses builds for wchar ([#73697](https://github.com/CleverRaven/Cataclysm-DDA/pull/73697))
 * fix spawn_rate being zero by default ([#73699](https://github.com/CleverRaven/Cataclysm-DDA/pull/73699))
 
