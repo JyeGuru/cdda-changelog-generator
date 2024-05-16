@@ -1,3 +1,4 @@
+* Load faults / fault_fixes with generic_factory ([#73816](https://github.com/CleverRaven/Cataclysm-DDA/pull/73816))
 * Better debug message on loading bad vehicle parts ([#73815](https://github.com/CleverRaven/Cataclysm-DDA/pull/73815))
 * Add -gsplit-dwarf to LTO build to cut memory utilization in linker ([#73812](https://github.com/CleverRaven/Cataclysm-DDA/pull/73812))
 * Hydration pouch size fixes ([#73794](https://github.com/CleverRaven/Cataclysm-DDA/pull/73794))
@@ -211,6 +212,5 @@
 * skip slow builds for draft PRs ([#73646](https://github.com/CleverRaven/Cataclysm-DDA/pull/73646))
 * Audit Vehicle Parts Breaks_into (Part One?) ([#73630](https://github.com/CleverRaven/Cataclysm-DDA/pull/73630))
 * Fixes Dirt Mound Inconsistencies ([#73625](https://github.com/CleverRaven/Cataclysm-DDA/pull/73625))
-* Add translation context to short art snippets ([#73622](https://github.com/CleverRaven/Cataclysm-DDA/pull/73622))
 * Can order followers to go to player's current destination ([#73624](https://github.com/CleverRaven/Cataclysm-DDA/pull/73624))
 * [bugfix] krakens swim ([#73632](https://github.com/CleverRaven/Cataclysm-DDA/pull/73632))
