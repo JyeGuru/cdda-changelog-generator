@@ -1,3 +1,4 @@
+* Add cattle samples to more ungulates (#73782)
 * Backport #73104 (#73852)
 
 Cataclysm-DDA 0.H release candidate 2024-05-17-0324 (f6ecd02)
@@ -136,4 +137,3 @@ Cataclysm-DDA experimental build 2024-05-12-1705 (39e2afa)
 * Backport #70769 (#73683)
 * #include vector in cata_imgui.h (#73681)
 * Backport updated release notes generation workflow to 0.H (#73686)
-* Backport #71403 (#73673)
