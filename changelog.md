@@ -1,3 +1,18 @@
+* Backport #70686 ([#73854](https://github.com/CleverRaven/Cataclysm-DDA/pull/73854))
+* Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-17-0116 ([94de1a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-17-0116))
+
+* Backport #70875 ([#73851](https://github.com/CleverRaven/Cataclysm-DDA/pull/73851))
+* Backport #71304 ([#73847](https://github.com/CleverRaven/Cataclysm-DDA/pull/73847))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-17-0042 ([c3b29e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-0042))
+
+* Limbify consume speed modifiers ([#73827](https://github.com/CleverRaven/Cataclysm-DDA/pull/73827))
 
 ---
 
@@ -165,11 +180,6 @@
 
 * fix forward declaration of imgui ImVec2 ([#73724](https://github.com/CleverRaven/Cataclysm-DDA/pull/73724))
 * Backport #70764 ([#73716](https://github.com/CleverRaven/Cataclysm-DDA/pull/73716))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-12-1749 ([8985d54](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-12-1749))
-
 * Backport #70698 ([#73715](https://github.com/CleverRaven/Cataclysm-DDA/pull/73715))
 * Backport #70708 ([#73712](https://github.com/CleverRaven/Cataclysm-DDA/pull/73712))
 * Backport #71594 ([#73711](https://github.com/CleverRaven/Cataclysm-DDA/pull/73711))
@@ -188,20 +198,10 @@
 * Remove redundant emscripten build ([#73693](https://github.com/CleverRaven/Cataclysm-DDA/pull/73693))
 * Define _XOPEN_SOURCE_EXTENDED on mac localized curses builds for wchar ([#73697](https://github.com/CleverRaven/Cataclysm-DDA/pull/73697))
 * fix spawn_rate being zero by default ([#73699](https://github.com/CleverRaven/Cataclysm-DDA/pull/73699))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-12-0655 ([9e77385](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-12-0655))
-
 * Backport #71860 ([#73684](https://github.com/CleverRaven/Cataclysm-DDA/pull/73684))
 * Made a change to the popup to fix text being cut off at low resolutions. ([#73678](https://github.com/CleverRaven/Cataclysm-DDA/pull/73678))
 * Backport #72898 ([#73685](https://github.com/CleverRaven/Cataclysm-DDA/pull/73685))
 * Backport #70769 ([#73683](https://github.com/CleverRaven/Cataclysm-DDA/pull/73683))
 * #include vector in cata_imgui.h ([#73681](https://github.com/CleverRaven/Cataclysm-DDA/pull/73681))
-* Provided 3D camp construction + Livestock 2 example ([#73665](https://github.com/CleverRaven/Cataclysm-DDA/pull/73665))
 * Backport updated release notes generation workflow to 0.H ([#73686](https://github.com/CleverRaven/Cataclysm-DDA/pull/73686))
-* skip emscripten build for draft PRs ([#73668](https://github.com/CleverRaven/Cataclysm-DDA/pull/73668))
 * Backport #71403 ([#73673](https://github.com/CleverRaven/Cataclysm-DDA/pull/73673))
-* Backport #73113 ([#73670](https://github.com/CleverRaven/Cataclysm-DDA/pull/73670))
-* Backport #72942 ([#73669](https://github.com/CleverRaven/Cataclysm-DDA/pull/73669))
-* Backport #73632 ([#73660](https://github.com/CleverRaven/Cataclysm-DDA/pull/73660))
