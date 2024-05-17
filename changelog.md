@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-17-0909 ([b1a8f94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-0909))
+
+* Aftershock: Toxic Weaponry ([#73691](https://github.com/CleverRaven/Cataclysm-DDA/pull/73691))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-17-0418 ([388f8e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-0418))
 
 * Add cattle samples to more ungulates ([#73782](https://github.com/CleverRaven/Cataclysm-DDA/pull/73782))
@@ -206,7 +212,6 @@
 * Define _XOPEN_SOURCE_EXTENDED on mac localized curses builds for wchar ([#73697](https://github.com/CleverRaven/Cataclysm-DDA/pull/73697))
 * fix spawn_rate being zero by default ([#73699](https://github.com/CleverRaven/Cataclysm-DDA/pull/73699))
 * Backport #71860 ([#73684](https://github.com/CleverRaven/Cataclysm-DDA/pull/73684))
-* Made a change to the popup to fix text being cut off at low resolutions. ([#73678](https://github.com/CleverRaven/Cataclysm-DDA/pull/73678))
 * Backport #72898 ([#73685](https://github.com/CleverRaven/Cataclysm-DDA/pull/73685))
 * Backport #70769 ([#73683](https://github.com/CleverRaven/Cataclysm-DDA/pull/73683))
 * #include vector in cata_imgui.h ([#73681](https://github.com/CleverRaven/Cataclysm-DDA/pull/73681))
