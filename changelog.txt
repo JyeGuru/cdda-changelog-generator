@@ -131,8 +131,6 @@ Cataclysm-DDA experimental build 2024-05-12-2300 (fe9e803)
 * Backport #71889 (#73706)
 * Backport #72777 (#73705)
 * Backport #73338 and #73526 (#73704)
-
-Cataclysm-DDA experimental build 2024-05-12-1705 (39e2afa)
 * Remove redundant emscripten build (#73693)
 * Define _XOPEN_SOURCE_EXTENDED on mac localized curses builds for wchar (#73697)
 * fix spawn_rate being zero by default (#73699)

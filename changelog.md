@@ -203,11 +203,6 @@
 * Backport #71889 ([#73706](https://github.com/CleverRaven/Cataclysm-DDA/pull/73706))
 * Backport #72777 ([#73705](https://github.com/CleverRaven/Cataclysm-DDA/pull/73705))
 * Backport #73338 and #73526 ([#73704](https://github.com/CleverRaven/Cataclysm-DDA/pull/73704))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-12-1705 ([39e2afa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-12-1705))
-
 * Remove redundant emscripten build ([#73693](https://github.com/CleverRaven/Cataclysm-DDA/pull/73693))
 * Define _XOPEN_SOURCE_EXTENDED on mac localized curses builds for wchar ([#73697](https://github.com/CleverRaven/Cataclysm-DDA/pull/73697))
 * fix spawn_rate being zero by default ([#73699](https://github.com/CleverRaven/Cataclysm-DDA/pull/73699))
