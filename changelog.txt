@@ -1,3 +1,5 @@
+* Retain non-solid contents when installing vehicle parts (#73860)
+* canteen 2 roofed (#73870)
 
 Cataclysm-DDA experimental build 2024-05-17-0909 (b1a8f94)
 * Aftershock: Toxic Weaponry (#73691)
@@ -136,6 +138,4 @@ Cataclysm-DDA experimental build 2024-05-12-2300 (fe9e803)
 * fix spawn_rate being zero by default (#73699)
 * Backport #71860 (#73684)
 * Backport #72898 (#73685)
-* Backport #70769 (#73683)
-* #include vector in cata_imgui.h (#73681)
 * Backport updated release notes generation workflow to 0.H (#73686)

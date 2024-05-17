@@ -1,3 +1,5 @@
+* Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
+* canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
 
 ---
 
@@ -208,6 +210,4 @@
 * fix spawn_rate being zero by default ([#73699](https://github.com/CleverRaven/Cataclysm-DDA/pull/73699))
 * Backport #71860 ([#73684](https://github.com/CleverRaven/Cataclysm-DDA/pull/73684))
 * Backport #72898 ([#73685](https://github.com/CleverRaven/Cataclysm-DDA/pull/73685))
-* Backport #70769 ([#73683](https://github.com/CleverRaven/Cataclysm-DDA/pull/73683))
-* #include vector in cata_imgui.h ([#73681](https://github.com/CleverRaven/Cataclysm-DDA/pull/73681))
 * Backport updated release notes generation workflow to 0.H ([#73686](https://github.com/CleverRaven/Cataclysm-DDA/pull/73686))
