@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-17-1356 ([03d8ffb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-1356))
+
 * Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
 * canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
 
@@ -188,11 +193,6 @@
 * Refactor f_bulk_trade_accept ([#73703](https://github.com/CleverRaven/Cataclysm-DDA/pull/73703))
 * Backport #71582 ([#73717](https://github.com/CleverRaven/Cataclysm-DDA/pull/73717))
 * Remove backported test ([#73720](https://github.com/CleverRaven/Cataclysm-DDA/pull/73720))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-12-2300 ([fe9e803](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-12-2300))
-
 * fix forward declaration of imgui ImVec2 ([#73724](https://github.com/CleverRaven/Cataclysm-DDA/pull/73724))
 * Backport #70764 ([#73716](https://github.com/CleverRaven/Cataclysm-DDA/pull/73716))
 * Backport #70698 ([#73715](https://github.com/CleverRaven/Cataclysm-DDA/pull/73715))

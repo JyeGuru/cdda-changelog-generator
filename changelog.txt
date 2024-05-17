@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-17-1356 (03d8ffb)
 * Retain non-solid contents when installing vehicle parts (#73860)
 * canteen 2 roofed (#73870)
 
@@ -119,8 +121,6 @@ Cataclysm-DDA experimental build 2024-05-13-0203 (a5ba2a0)
 * Refactor f_bulk_trade_accept (#73703)
 * Backport #71582 (#73717)
 * Remove backported test (#73720)
-
-Cataclysm-DDA experimental build 2024-05-12-2300 (fe9e803)
 * fix forward declaration of imgui ImVec2 (#73724)
 * Backport #70764 (#73716)
 * Backport #70698 (#73715)
