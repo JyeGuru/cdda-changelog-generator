@@ -1,3 +1,4 @@
+* Backport #73104 (#73852)
 
 Cataclysm-DDA 0.H release candidate 2024-05-17-0324 (f6ecd02)
 * Backport #70686 (#73854)

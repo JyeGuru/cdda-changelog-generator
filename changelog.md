@@ -1,3 +1,4 @@
+* Backport #73104 ([#73852](https://github.com/CleverRaven/Cataclysm-DDA/pull/73852))
 
 ---
 
