@@ -1,3 +1,18 @@
+* Backport #72780 ([#73883](https://github.com/CleverRaven/Cataclysm-DDA/pull/73883))
+* Backport #73525 ([#73882](https://github.com/CleverRaven/Cataclysm-DDA/pull/73882))
+* Backport #70696 ([#73877](https://github.com/CleverRaven/Cataclysm-DDA/pull/73877))
+* Backport #70660 and #70687 ([#73876](https://github.com/CleverRaven/Cataclysm-DDA/pull/73876))
+* Backport #73127 ([#73875](https://github.com/CleverRaven/Cataclysm-DDA/pull/73875))
+* Backport #73055 ([#73874](https://github.com/CleverRaven/Cataclysm-DDA/pull/73874))
+* Backport #71103 ([#73873](https://github.com/CleverRaven/Cataclysm-DDA/pull/73873))
+* Backport #70639 ([#73872](https://github.com/CleverRaven/Cataclysm-DDA/pull/73872))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-17-2002 ([d9a3967](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-17-2002))
+
+* Backport #72843 ([#73853](https://github.com/CleverRaven/Cataclysm-DDA/pull/73853))
+* Backport #71352 ([#73848](https://github.com/CleverRaven/Cataclysm-DDA/pull/73848))
 
 ---
 
@@ -5,12 +20,6 @@
 
 * Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
 * canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-17-0909 ([b1a8f94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-0909))
-
-* Aftershock: Toxic Weaponry ([#73691](https://github.com/CleverRaven/Cataclysm-DDA/pull/73691))
 
 ---
 
@@ -56,7 +65,6 @@
 
 * [MoM] EoC-ify Eater drain attack ([#73751](https://github.com/CleverRaven/Cataclysm-DDA/pull/73751))
 * extend zombie security guard drops ([#73821](https://github.com/CleverRaven/Cataclysm-DDA/pull/73821))
-* [MA] Starting a new game works again ([#73689](https://github.com/CleverRaven/Cataclysm-DDA/pull/73689))
 * Modified functions and doc about open_container. ([#73805](https://github.com/CleverRaven/Cataclysm-DDA/pull/73805))
 * Expose daily calories calendar to math ([#73811](https://github.com/CleverRaven/Cataclysm-DDA/pull/73811))
 * Liberty Bot ([#73825](https://github.com/CleverRaven/Cataclysm-DDA/pull/73825))
@@ -168,12 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-05-13-1913 ([aa7dd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-13-1913))
 
 * [MoM] Rework Combat Sense with modern enchants ([#73727](https://github.com/CleverRaven/Cataclysm-DDA/pull/73727))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-13-1656 ([3a16ecf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-13-1656))
-
-* Expand Nightmare Snippets ([#73696](https://github.com/CleverRaven/Cataclysm-DDA/pull/73696))
 * Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. ([#73738](https://github.com/CleverRaven/Cataclysm-DDA/pull/73738))
 * Heat func bugfix ([#73740](https://github.com/CleverRaven/Cataclysm-DDA/pull/73740))
 
@@ -183,11 +185,6 @@
 
 * Visual UI for changing vehicle part shapes ([#73739](https://github.com/CleverRaven/Cataclysm-DDA/pull/73739))
 * Confirm ability requested ([#73702](https://github.com/CleverRaven/Cataclysm-DDA/pull/73702))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-13-0203 ([a5ba2a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-13-0203))
-
 * Propane shelved ([#73698](https://github.com/CleverRaven/Cataclysm-DDA/pull/73698))
 * Not to try to reload a gun without default ammo type defined ([#73714](https://github.com/CleverRaven/Cataclysm-DDA/pull/73714))
 * Refactor f_bulk_trade_accept ([#73703](https://github.com/CleverRaven/Cataclysm-DDA/pull/73703))
@@ -205,9 +202,4 @@
 * Backport #71889 ([#73706](https://github.com/CleverRaven/Cataclysm-DDA/pull/73706))
 * Backport #72777 ([#73705](https://github.com/CleverRaven/Cataclysm-DDA/pull/73705))
 * Backport #73338 and #73526 ([#73704](https://github.com/CleverRaven/Cataclysm-DDA/pull/73704))
-* Remove redundant emscripten build ([#73693](https://github.com/CleverRaven/Cataclysm-DDA/pull/73693))
-* Define _XOPEN_SOURCE_EXTENDED on mac localized curses builds for wchar ([#73697](https://github.com/CleverRaven/Cataclysm-DDA/pull/73697))
 * fix spawn_rate being zero by default ([#73699](https://github.com/CleverRaven/Cataclysm-DDA/pull/73699))
-* Backport #71860 ([#73684](https://github.com/CleverRaven/Cataclysm-DDA/pull/73684))
-* Backport #72898 ([#73685](https://github.com/CleverRaven/Cataclysm-DDA/pull/73685))
-* Backport updated release notes generation workflow to 0.H ([#73686](https://github.com/CleverRaven/Cataclysm-DDA/pull/73686))
