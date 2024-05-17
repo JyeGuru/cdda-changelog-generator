@@ -1,3 +1,9 @@
+* [Magiclysm] Update Dark Sight to scale with spell level ([#73769](https://github.com/CleverRaven/Cataclysm-DDA/pull/73769))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-17-2310 ([1da15ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-17-2310))
+
 * Backport #70868 ([#73880](https://github.com/CleverRaven/Cataclysm-DDA/pull/73880))
 
 ---
@@ -184,11 +190,6 @@
 * [MoM] Rework Combat Sense with modern enchants ([#73727](https://github.com/CleverRaven/Cataclysm-DDA/pull/73727))
 * Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. ([#73738](https://github.com/CleverRaven/Cataclysm-DDA/pull/73738))
 * Heat func bugfix ([#73740](https://github.com/CleverRaven/Cataclysm-DDA/pull/73740))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-13-1412 ([dd42dbb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-13-1412))
-
 * Visual UI for changing vehicle part shapes ([#73739](https://github.com/CleverRaven/Cataclysm-DDA/pull/73739))
 * Confirm ability requested ([#73702](https://github.com/CleverRaven/Cataclysm-DDA/pull/73702))
 * Not to try to reload a gun without default ammo type defined ([#73714](https://github.com/CleverRaven/Cataclysm-DDA/pull/73714))
@@ -207,4 +208,3 @@
 * Backport #71889 ([#73706](https://github.com/CleverRaven/Cataclysm-DDA/pull/73706))
 * Backport #72777 ([#73705](https://github.com/CleverRaven/Cataclysm-DDA/pull/73705))
 * Backport #73338 and #73526 ([#73704](https://github.com/CleverRaven/Cataclysm-DDA/pull/73704))
-* fix spawn_rate being zero by default ([#73699](https://github.com/CleverRaven/Cataclysm-DDA/pull/73699))
