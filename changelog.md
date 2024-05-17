@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-17-0418 ([388f8e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-0418))
+
 * Add cattle samples to more ungulates ([#73782](https://github.com/CleverRaven/Cataclysm-DDA/pull/73782))
 * Backport #73104 ([#73852](https://github.com/CleverRaven/Cataclysm-DDA/pull/73852))
 
@@ -168,11 +173,6 @@
 * Propane shelved ([#73698](https://github.com/CleverRaven/Cataclysm-DDA/pull/73698))
 * Not to try to reload a gun without default ammo type defined ([#73714](https://github.com/CleverRaven/Cataclysm-DDA/pull/73714))
 * Refactor f_bulk_trade_accept ([#73703](https://github.com/CleverRaven/Cataclysm-DDA/pull/73703))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-13-0105 ([599168e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-13-0105))
-
 * Backport #71582 ([#73717](https://github.com/CleverRaven/Cataclysm-DDA/pull/73717))
 * Remove backported test ([#73720](https://github.com/CleverRaven/Cataclysm-DDA/pull/73720))
 

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-17-0418 (388f8e5)
 * Add cattle samples to more ungulates (#73782)
 * Backport #73104 (#73852)
 
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2024-05-13-0203 (a5ba2a0)
 * Propane shelved (#73698)
 * Not to try to reload a gun without default ammo type defined (#73714)
 * Refactor f_bulk_trade_accept (#73703)
-
-Cataclysm-DDA 0.H release candidate 2024-05-13-0105 (599168e)
 * Backport #71582 (#73717)
 * Remove backported test (#73720)
 
