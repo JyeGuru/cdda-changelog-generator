@@ -199,7 +199,6 @@
 * Backport #70769 ([#73683](https://github.com/CleverRaven/Cataclysm-DDA/pull/73683))
 * #include vector in cata_imgui.h ([#73681](https://github.com/CleverRaven/Cataclysm-DDA/pull/73681))
 * Provided 3D camp construction + Livestock 2 example ([#73665](https://github.com/CleverRaven/Cataclysm-DDA/pull/73665))
-* Use dummy parser for attack_vector to fix string extraction script error ([#73659](https://github.com/CleverRaven/Cataclysm-DDA/pull/73659))
 * Backport updated release notes generation workflow to 0.H ([#73686](https://github.com/CleverRaven/Cataclysm-DDA/pull/73686))
 * skip emscripten build for draft PRs ([#73668](https://github.com/CleverRaven/Cataclysm-DDA/pull/73668))
 * Backport #71403 ([#73673](https://github.com/CleverRaven/Cataclysm-DDA/pull/73673))
