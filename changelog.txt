@@ -1,3 +1,4 @@
+* Backport #70868 (#73880)
 
 Cataclysm-DDA 0.H release candidate 2024-05-17-2057 (c05db1c)
 * Backport #72780 (#73883)
@@ -121,7 +122,6 @@ Cataclysm-DDA experimental build 2024-05-13-1913 (aa7dd5c)
 Cataclysm-DDA experimental build 2024-05-13-1412 (dd42dbb)
 * Visual UI for changing vehicle part shapes (#73739)
 * Confirm ability requested (#73702)
-* Propane shelved (#73698)
 * Not to try to reload a gun without default ammo type defined (#73714)
 * Refactor f_bulk_trade_accept (#73703)
 * Backport #71582 (#73717)

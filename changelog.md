@@ -1,3 +1,4 @@
+* Backport #70868 ([#73880](https://github.com/CleverRaven/Cataclysm-DDA/pull/73880))
 
 ---
 
@@ -190,7 +191,6 @@
 
 * Visual UI for changing vehicle part shapes ([#73739](https://github.com/CleverRaven/Cataclysm-DDA/pull/73739))
 * Confirm ability requested ([#73702](https://github.com/CleverRaven/Cataclysm-DDA/pull/73702))
-* Propane shelved ([#73698](https://github.com/CleverRaven/Cataclysm-DDA/pull/73698))
 * Not to try to reload a gun without default ammo type defined ([#73714](https://github.com/CleverRaven/Cataclysm-DDA/pull/73714))
 * Refactor f_bulk_trade_accept ([#73703](https://github.com/CleverRaven/Cataclysm-DDA/pull/73703))
 * Backport #71582 ([#73717](https://github.com/CleverRaven/Cataclysm-DDA/pull/73717))
