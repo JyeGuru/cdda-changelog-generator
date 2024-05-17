@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-17-2344 (a3c6367)
 * [Magiclysm] Update Dark Sight to scale with spell level (#73769)
 
 Cataclysm-DDA 0.H release candidate 2024-05-17-2310 (1da15ac)

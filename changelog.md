@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-17-2344 ([a3c6367](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-2344))
+
 * [Magiclysm] Update Dark Sight to scale with spell level ([#73769](https://github.com/CleverRaven/Cataclysm-DDA/pull/73769))
 
 ---
