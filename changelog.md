@@ -1,3 +1,6 @@
+* Update Flatpak manifest to use clang and include the default soundpack ([#73818](https://github.com/CleverRaven/Cataclysm-DDA/pull/73818))
+* Backport #72858 ([#73849](https://github.com/CleverRaven/Cataclysm-DDA/pull/73849))
+* Reset wait popup on activity finish ([#73814](https://github.com/CleverRaven/Cataclysm-DDA/pull/73814))
 * Near-infinite loop fix for when crafter cannot continue (fixes #70530) ([#73820](https://github.com/CleverRaven/Cataclysm-DDA/pull/73820))
 * Backport #70843 ([#73878](https://github.com/CleverRaven/Cataclysm-DDA/pull/73878))
 * Wool staple recipe now needs 7 felt patches. ([#73884](https://github.com/CleverRaven/Cataclysm-DDA/pull/73884))
@@ -210,6 +213,3 @@
 * Backport #70708 ([#73712](https://github.com/CleverRaven/Cataclysm-DDA/pull/73712))
 * Backport #71594 ([#73711](https://github.com/CleverRaven/Cataclysm-DDA/pull/73711))
 * Backport #73487 ([#73710](https://github.com/CleverRaven/Cataclysm-DDA/pull/73710))
-* Backport #70768 ([#73709](https://github.com/CleverRaven/Cataclysm-DDA/pull/73709))
-* Backport #72222 and #72683 ([#73708](https://github.com/CleverRaven/Cataclysm-DDA/pull/73708))
-* Backport #72801 ([#73707](https://github.com/CleverRaven/Cataclysm-DDA/pull/73707))
