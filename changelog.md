@@ -1,3 +1,11 @@
+* Backport #70843 ([#73878](https://github.com/CleverRaven/Cataclysm-DDA/pull/73878))
+* Wool staple recipe now needs 7 felt patches. ([#73884](https://github.com/CleverRaven/Cataclysm-DDA/pull/73884))
+* Just some minor JSON fixes I can't categorize properly ([#73887](https://github.com/CleverRaven/Cataclysm-DDA/pull/73887))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-18-0323 ([121d7c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-0323))
+
 * Routine i18n updates on 18 May 2024 ([#73892](https://github.com/CleverRaven/Cataclysm-DDA/pull/73892))
 
 ---
@@ -188,17 +196,11 @@
 #### Cataclysm-DDA experimental build 2024-05-14-1152 ([2ac99ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-1152))
 
 * Don't show gun without default ammo defined as an option in reload ui ([#73743](https://github.com/CleverRaven/Cataclysm-DDA/pull/73743))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-13-1913 ([aa7dd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-13-1913))
-
 * [MoM] Rework Combat Sense with modern enchants ([#73727](https://github.com/CleverRaven/Cataclysm-DDA/pull/73727))
 * Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. ([#73738](https://github.com/CleverRaven/Cataclysm-DDA/pull/73738))
 * Heat func bugfix ([#73740](https://github.com/CleverRaven/Cataclysm-DDA/pull/73740))
 * Visual UI for changing vehicle part shapes ([#73739](https://github.com/CleverRaven/Cataclysm-DDA/pull/73739))
 * Not to try to reload a gun without default ammo type defined ([#73714](https://github.com/CleverRaven/Cataclysm-DDA/pull/73714))
-* Refactor f_bulk_trade_accept ([#73703](https://github.com/CleverRaven/Cataclysm-DDA/pull/73703))
 * Backport #71582 ([#73717](https://github.com/CleverRaven/Cataclysm-DDA/pull/73717))
 * Remove backported test ([#73720](https://github.com/CleverRaven/Cataclysm-DDA/pull/73720))
 * fix forward declaration of imgui ImVec2 ([#73724](https://github.com/CleverRaven/Cataclysm-DDA/pull/73724))
@@ -211,5 +213,3 @@
 * Backport #72222 and #72683 ([#73708](https://github.com/CleverRaven/Cataclysm-DDA/pull/73708))
 * Backport #72801 ([#73707](https://github.com/CleverRaven/Cataclysm-DDA/pull/73707))
 * Backport #71889 ([#73706](https://github.com/CleverRaven/Cataclysm-DDA/pull/73706))
-* Backport #72777 ([#73705](https://github.com/CleverRaven/Cataclysm-DDA/pull/73705))
-* Backport #73338 and #73526 ([#73704](https://github.com/CleverRaven/Cataclysm-DDA/pull/73704))
