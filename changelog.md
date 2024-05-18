@@ -1,6 +1,11 @@
 * Weekly Changelog 2024-05-06 to 2024-05-13 ([#73732](https://github.com/CleverRaven/Cataclysm-DDA/pull/73732))
 * Backport #73818 with correct branch name and target ([#73863](https://github.com/CleverRaven/Cataclysm-DDA/pull/73863))
 * Update Flatpak manifest to use clang and include the default soundpack ([#73818](https://github.com/CleverRaven/Cataclysm-DDA/pull/73818))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-18-0453 ([c368315](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-18-0453))
+
 * Backport #72858 ([#73849](https://github.com/CleverRaven/Cataclysm-DDA/pull/73849))
 * Reset wait popup on activity finish ([#73814](https://github.com/CleverRaven/Cataclysm-DDA/pull/73814))
 * Near-infinite loop fix for when crafter cannot continue (fixes #70530) ([#73820](https://github.com/CleverRaven/Cataclysm-DDA/pull/73820))
@@ -176,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-05-14-1902 ([c7d88dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-1902))
 
 * Fix crash when opening construction menu with no visible entries ([#73785](https://github.com/CleverRaven/Cataclysm-DDA/pull/73785))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-14-1743 ([83554d2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-14-1743))
-
 * Backport #70772 and #70775 ([#73775](https://github.com/CleverRaven/Cataclysm-DDA/pull/73775))
 * Backport #70646 ([#73783](https://github.com/CleverRaven/Cataclysm-DDA/pull/73783))
 * Backport #70657 ([#73781](https://github.com/CleverRaven/Cataclysm-DDA/pull/73781))
