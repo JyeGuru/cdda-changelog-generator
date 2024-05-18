@@ -1,3 +1,4 @@
+* Routine i18n updates on 18 May 2024 (#73892)
 
 Cataclysm-DDA experimental build 2024-05-17-2344 (a3c6367)
 * [Magiclysm] Update Dark Sight to scale with spell level (#73769)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2024-05-13-1913 (aa7dd5c)
 * Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. (#73738)
 * Heat func bugfix (#73740)
 * Visual UI for changing vehicle part shapes (#73739)
-* Confirm ability requested (#73702)
 * Not to try to reload a gun without default ammo type defined (#73714)
 * Refactor f_bulk_trade_accept (#73703)
 * Backport #71582 (#73717)

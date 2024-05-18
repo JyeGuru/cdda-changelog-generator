@@ -1,3 +1,4 @@
+* Routine i18n updates on 18 May 2024 ([#73892](https://github.com/CleverRaven/Cataclysm-DDA/pull/73892))
 
 ---
 
@@ -196,7 +197,6 @@
 * Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. ([#73738](https://github.com/CleverRaven/Cataclysm-DDA/pull/73738))
 * Heat func bugfix ([#73740](https://github.com/CleverRaven/Cataclysm-DDA/pull/73740))
 * Visual UI for changing vehicle part shapes ([#73739](https://github.com/CleverRaven/Cataclysm-DDA/pull/73739))
-* Confirm ability requested ([#73702](https://github.com/CleverRaven/Cataclysm-DDA/pull/73702))
 * Not to try to reload a gun without default ammo type defined ([#73714](https://github.com/CleverRaven/Cataclysm-DDA/pull/73714))
 * Refactor f_bulk_trade_accept ([#73703](https://github.com/CleverRaven/Cataclysm-DDA/pull/73703))
 * Backport #71582 ([#73717](https://github.com/CleverRaven/Cataclysm-DDA/pull/73717))
