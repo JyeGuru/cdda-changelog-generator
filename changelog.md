@@ -1,3 +1,4 @@
+* Near-infinite loop fix for when crafter cannot continue (fixes #70530) ([#73820](https://github.com/CleverRaven/Cataclysm-DDA/pull/73820))
 * Backport #70843 ([#73878](https://github.com/CleverRaven/Cataclysm-DDA/pull/73878))
 * Wool staple recipe now needs 7 felt patches. ([#73884](https://github.com/CleverRaven/Cataclysm-DDA/pull/73884))
 * Just some minor JSON fixes I can't categorize properly ([#73887](https://github.com/CleverRaven/Cataclysm-DDA/pull/73887))
@@ -212,4 +213,3 @@
 * Backport #70768 ([#73709](https://github.com/CleverRaven/Cataclysm-DDA/pull/73709))
 * Backport #72222 and #72683 ([#73708](https://github.com/CleverRaven/Cataclysm-DDA/pull/73708))
 * Backport #72801 ([#73707](https://github.com/CleverRaven/Cataclysm-DDA/pull/73707))
-* Backport #71889 ([#73706](https://github.com/CleverRaven/Cataclysm-DDA/pull/73706))
