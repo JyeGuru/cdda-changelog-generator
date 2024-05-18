@@ -104,7 +104,6 @@ Cataclysm-DDA experimental build 2024-05-15-1833 (7f06e9f)
 
 Cataclysm-DDA 0.H release candidate 2024-05-15-0314 (27059e7)
 * Backport #70589 and #70770 (#73773)
-* Typified editmap (#73713)
 * Added explicit roofs to hub version 2 (#73784)
 * Average NPC skill level increases over time (#73745)
 * Include vehicle roofs for map::draw_from_above (#73747)

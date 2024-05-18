@@ -173,7 +173,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-05-15-0314 ([27059e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-15-0314))
 
 * Backport #70589 and #70770 ([#73773](https://github.com/CleverRaven/Cataclysm-DDA/pull/73773))
-* Typified editmap ([#73713](https://github.com/CleverRaven/Cataclysm-DDA/pull/73713))
 * Added explicit roofs to hub version 2 ([#73784](https://github.com/CleverRaven/Cataclysm-DDA/pull/73784))
 * Average NPC skill level increases over time ([#73745](https://github.com/CleverRaven/Cataclysm-DDA/pull/73745))
 * Include vehicle roofs for map::draw_from_above ([#73747](https://github.com/CleverRaven/Cataclysm-DDA/pull/73747))
