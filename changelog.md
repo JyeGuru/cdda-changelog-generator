@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-18-2101 ([de95c32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-2101))
+
+* [My Sweet Cataclysm] Fix the candy gator faction error ([#73895](https://github.com/CleverRaven/Cataclysm-DDA/pull/73895))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-18-1824 ([c1790a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-1824))
 
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
@@ -211,7 +217,6 @@
 * Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. ([#73738](https://github.com/CleverRaven/Cataclysm-DDA/pull/73738))
 * Heat func bugfix ([#73740](https://github.com/CleverRaven/Cataclysm-DDA/pull/73740))
 * Visual UI for changing vehicle part shapes ([#73739](https://github.com/CleverRaven/Cataclysm-DDA/pull/73739))
-* Not to try to reload a gun without default ammo type defined ([#73714](https://github.com/CleverRaven/Cataclysm-DDA/pull/73714))
 * Backport #71582 ([#73717](https://github.com/CleverRaven/Cataclysm-DDA/pull/73717))
 * Remove backported test ([#73720](https://github.com/CleverRaven/Cataclysm-DDA/pull/73720))
 * fix forward declaration of imgui ImVec2 ([#73724](https://github.com/CleverRaven/Cataclysm-DDA/pull/73724))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-18-2101 (de95c32)
+* [My Sweet Cataclysm] Fix the candy gator faction error (#73895)
+
 Cataclysm-DDA experimental build 2024-05-18-1824 (c1790a9)
 * Fix a typo in consumption.cpp (#73902)
 
@@ -136,7 +139,6 @@ Cataclysm-DDA experimental build 2024-05-14-1902 (c7d88dc)
 * Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. (#73738)
 * Heat func bugfix (#73740)
 * Visual UI for changing vehicle part shapes (#73739)
-* Not to try to reload a gun without default ammo type defined (#73714)
 * Backport #71582 (#73717)
 * Remove backported test (#73720)
 * fix forward declaration of imgui ImVec2 (#73724)
