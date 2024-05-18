@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-18-0554 ([968138b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-0554))
+
 * Weekly Changelog 2024-05-06 to 2024-05-13 ([#73732](https://github.com/CleverRaven/Cataclysm-DDA/pull/73732))
 * Backport #73818 with correct branch name and target ([#73863](https://github.com/CleverRaven/Cataclysm-DDA/pull/73863))
 * Update Flatpak manifest to use clang and include the default soundpack ([#73818](https://github.com/CleverRaven/Cataclysm-DDA/pull/73818))
