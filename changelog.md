@@ -1,7 +1,14 @@
+* Weekly Changelog 2024-05-06 to 2024-05-13 ([#73732](https://github.com/CleverRaven/Cataclysm-DDA/pull/73732))
+* Backport #73818 with correct branch name and target ([#73863](https://github.com/CleverRaven/Cataclysm-DDA/pull/73863))
 * Update Flatpak manifest to use clang and include the default soundpack ([#73818](https://github.com/CleverRaven/Cataclysm-DDA/pull/73818))
 * Backport #72858 ([#73849](https://github.com/CleverRaven/Cataclysm-DDA/pull/73849))
 * Reset wait popup on activity finish ([#73814](https://github.com/CleverRaven/Cataclysm-DDA/pull/73814))
 * Near-infinite loop fix for when crafter cannot continue (fixes #70530) ([#73820](https://github.com/CleverRaven/Cataclysm-DDA/pull/73820))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-18-0344 ([062e42e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-18-0344))
+
 * Backport #70843 ([#73878](https://github.com/CleverRaven/Cataclysm-DDA/pull/73878))
 * Wool staple recipe now needs 7 felt patches. ([#73884](https://github.com/CleverRaven/Cataclysm-DDA/pull/73884))
 * Just some minor JSON fixes I can't categorize properly ([#73887](https://github.com/CleverRaven/Cataclysm-DDA/pull/73887))
@@ -184,11 +191,6 @@
 * Backport #73346 ([#73771](https://github.com/CleverRaven/Cataclysm-DDA/pull/73771))
 * Backport #73296 ([#73770](https://github.com/CleverRaven/Cataclysm-DDA/pull/73770))
 * Backport #72881 ([#73767](https://github.com/CleverRaven/Cataclysm-DDA/pull/73767))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-14-1731 ([ac818d5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-14-1731))
-
 * Backport #72739 ([#73766](https://github.com/CleverRaven/Cataclysm-DDA/pull/73766))
 * fix: reinforce land prison entrace ([#73729](https://github.com/CleverRaven/Cataclysm-DDA/pull/73729))
 * Trigger rebuild of cataclysmdda.org when a 0.H release candidate is created ([#73737](https://github.com/CleverRaven/Cataclysm-DDA/pull/73737))
@@ -211,5 +213,3 @@
 * Backport #70764 ([#73716](https://github.com/CleverRaven/Cataclysm-DDA/pull/73716))
 * Backport #70698 ([#73715](https://github.com/CleverRaven/Cataclysm-DDA/pull/73715))
 * Backport #70708 ([#73712](https://github.com/CleverRaven/Cataclysm-DDA/pull/73712))
-* Backport #71594 ([#73711](https://github.com/CleverRaven/Cataclysm-DDA/pull/73711))
-* Backport #73487 ([#73710](https://github.com/CleverRaven/Cataclysm-DDA/pull/73710))
