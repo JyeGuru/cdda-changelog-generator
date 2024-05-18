@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-18-1824 ([c1790a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-1824))
+
+* Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-18-0554 ([968138b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-0554))
 
 * Weekly Changelog 2024-05-06 to 2024-05-13 ([#73732](https://github.com/CleverRaven/Cataclysm-DDA/pull/73732))
@@ -201,11 +207,6 @@
 * Trigger rebuild of cataclysmdda.org when a 0.H release candidate is created ([#73737](https://github.com/CleverRaven/Cataclysm-DDA/pull/73737))
 * Added roofs to livestock 1 ([#73744](https://github.com/CleverRaven/Cataclysm-DDA/pull/73744))
 * Split construction into many files in a subdirectory ([#73750](https://github.com/CleverRaven/Cataclysm-DDA/pull/73750))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-14-1152 ([2ac99ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-1152))
-
 * Don't show gun without default ammo defined as an option in reload ui ([#73743](https://github.com/CleverRaven/Cataclysm-DDA/pull/73743))
 * [MoM] Rework Combat Sense with modern enchants ([#73727](https://github.com/CleverRaven/Cataclysm-DDA/pull/73727))
 * Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. ([#73738](https://github.com/CleverRaven/Cataclysm-DDA/pull/73738))
@@ -217,4 +218,3 @@
 * fix forward declaration of imgui ImVec2 ([#73724](https://github.com/CleverRaven/Cataclysm-DDA/pull/73724))
 * Backport #70764 ([#73716](https://github.com/CleverRaven/Cataclysm-DDA/pull/73716))
 * Backport #70698 ([#73715](https://github.com/CleverRaven/Cataclysm-DDA/pull/73715))
-* Backport #70708 ([#73712](https://github.com/CleverRaven/Cataclysm-DDA/pull/73712))
