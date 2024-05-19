@@ -1,4 +1,9 @@
 * Adds Holli to Triage Perms ([#73914](https://github.com/CleverRaven/Cataclysm-DDA/pull/73914))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-19-0250 ([f4a9554](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-19-0250))
+
 * Gas forge recipe learned from fabrication books ([#73865](https://github.com/CleverRaven/Cataclysm-DDA/pull/73865))
 * Auditing breaks_into of vehicle_parts.json Part Two ([#73755](https://github.com/CleverRaven/Cataclysm-DDA/pull/73755))
 * Modded pseudo terrain fix ([#73901](https://github.com/CleverRaven/Cataclysm-DDA/pull/73901))
