@@ -1,6 +1,11 @@
 * Gas forge recipe learned from fabrication books ([#73865](https://github.com/CleverRaven/Cataclysm-DDA/pull/73865))
 * Auditing breaks_into of vehicle_parts.json Part Two ([#73755](https://github.com/CleverRaven/Cataclysm-DDA/pull/73755))
 * Modded pseudo terrain fix ([#73901](https://github.com/CleverRaven/Cataclysm-DDA/pull/73901))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-19-0223 ([541f819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-19-0223))
+
 * Backport #73820 ([#73896](https://github.com/CleverRaven/Cataclysm-DDA/pull/73896))
 * typified activity_actor ([#73807](https://github.com/CleverRaven/Cataclysm-DDA/pull/73807))
 * Obsolete MP18, OA-93, PLR 16, M231, and Mossberg Brownie ([#73862](https://github.com/CleverRaven/Cataclysm-DDA/pull/73862))
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-05-15-1833 ([7f06e9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-15-1833))
 
 * Add tarot cards and Ouija board ([#73752](https://github.com/CleverRaven/Cataclysm-DDA/pull/73752))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-15-0314 ([27059e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-15-0314))
-
 * Backport #70589 and #70770 ([#73773](https://github.com/CleverRaven/Cataclysm-DDA/pull/73773))
 * Added explicit roofs to hub version 2 ([#73784](https://github.com/CleverRaven/Cataclysm-DDA/pull/73784))
 * Average NPC skill level increases over time ([#73745](https://github.com/CleverRaven/Cataclysm-DDA/pull/73745))

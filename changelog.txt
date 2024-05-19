@@ -1,6 +1,8 @@
 * Gas forge recipe learned from fabrication books (#73865)
 * Auditing breaks_into of vehicle_parts.json Part Two (#73755)
 * Modded pseudo terrain fix (#73901)
+
+Cataclysm-DDA 0.H release candidate 2024-05-19-0223 (541f819)
 * Backport #73820 (#73896)
 * typified activity_actor (#73807)
 * Obsolete MP18, OA-93, PLR 16, M231, and Mossberg Brownie (#73862)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2024-05-16-0345 (ea7f959)
 
 Cataclysm-DDA experimental build 2024-05-15-1833 (7f06e9f)
 * Add tarot cards and Ouija board (#73752)
-
-Cataclysm-DDA 0.H release candidate 2024-05-15-0314 (27059e7)
 * Backport #70589 and #70770 (#73773)
 * Added explicit roofs to hub version 2 (#73784)
 * Average NPC skill level increases over time (#73745)
