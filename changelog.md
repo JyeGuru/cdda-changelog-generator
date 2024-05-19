@@ -1,3 +1,5 @@
+* Backport #70743 ([#73927](https://github.com/CleverRaven/Cataclysm-DDA/pull/73927))
+* Changed XE batteries to use tool_magazine category. ([#73928](https://github.com/CleverRaven/Cataclysm-DDA/pull/73928))
 * Finish removing wolves from the wilderness spawns ([#73911](https://github.com/CleverRaven/Cataclysm-DDA/pull/73911))
 
 ---
@@ -151,12 +153,6 @@
 #### Cataclysm-DDA experimental build 2024-05-16-2203 ([554b537](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-2203))
 
 * Allow Ouija boards to spawn ([#73828](https://github.com/CleverRaven/Cataclysm-DDA/pull/73828))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-16-1817 ([d317c9e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-1817))
-
-* [MoM] EoC-ify Eater drain attack ([#73751](https://github.com/CleverRaven/Cataclysm-DDA/pull/73751))
 * extend zombie security guard drops ([#73821](https://github.com/CleverRaven/Cataclysm-DDA/pull/73821))
 * Modified functions and doc about open_container. ([#73805](https://github.com/CleverRaven/Cataclysm-DDA/pull/73805))
 * Expose daily calories calendar to math ([#73811](https://github.com/CleverRaven/Cataclysm-DDA/pull/73811))
@@ -204,4 +200,3 @@
 * Backport #73296 ([#73770](https://github.com/CleverRaven/Cataclysm-DDA/pull/73770))
 * Backport #72881 ([#73767](https://github.com/CleverRaven/Cataclysm-DDA/pull/73767))
 * Backport #72739 ([#73766](https://github.com/CleverRaven/Cataclysm-DDA/pull/73766))
-* Split construction into many files in a subdirectory ([#73750](https://github.com/CleverRaven/Cataclysm-DDA/pull/73750))
