@@ -96,8 +96,6 @@ Cataclysm-DDA experimental build 2024-05-16-1817 (d317c9e)
 * Liberty Bot (#73825)
 * Added explicit roofs to field basecamp 1 (#73830)
 * Backport #70695 (#73831)
-
-Cataclysm-DDA 0.H release candidate 2024-05-16-1815 (b8b8c01)
 * Backport #70713 (#73832)
 * Backport #70688 (#73833)
 * Backport #70844 (#73834)
