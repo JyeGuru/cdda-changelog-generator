@@ -115,8 +115,6 @@ Cataclysm-DDA experimental build 2024-05-16-1442 (9cb81a0)
 * Better debug message on loading bad vehicle parts (#73815)
 * Add -gsplit-dwarf to LTO build to cut memory utilization in linker (#73812)
 * Hydration pouch size fixes (#73794)
-
-Cataclysm-DDA experimental build 2024-05-16-0345 (ea7f959)
 * Fix duct tape described as liquid (#73801)
 * Add tarot cards and Ouija board (#73752)
 * Backport #70589 and #70770 (#73773)
