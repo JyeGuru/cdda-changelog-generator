@@ -1,3 +1,4 @@
+* Finish removing wolves from the wilderness spawns ([#73911](https://github.com/CleverRaven/Cataclysm-DDA/pull/73911))
 
 ---
 
@@ -210,5 +211,4 @@
 * Backport #73296 ([#73770](https://github.com/CleverRaven/Cataclysm-DDA/pull/73770))
 * Backport #72881 ([#73767](https://github.com/CleverRaven/Cataclysm-DDA/pull/73767))
 * Backport #72739 ([#73766](https://github.com/CleverRaven/Cataclysm-DDA/pull/73766))
-* Added roofs to livestock 1 ([#73744](https://github.com/CleverRaven/Cataclysm-DDA/pull/73744))
 * Split construction into many files in a subdirectory ([#73750](https://github.com/CleverRaven/Cataclysm-DDA/pull/73750))

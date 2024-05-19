@@ -1,3 +1,4 @@
+* Finish removing wolves from the wilderness spawns (#73911)
 
 Cataclysm-DDA 0.H release candidate 2024-05-19-0508 (f7b2fc9)
 * Backport #72225 (#73897)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2024-05-16-0345 (ea7f959)
 * Backport #73296 (#73770)
 * Backport #72881 (#73767)
 * Backport #72739 (#73766)
-* Added roofs to livestock 1 (#73744)
 * Split construction into many files in a subdirectory (#73750)
