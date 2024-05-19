@@ -1,3 +1,6 @@
+* Backport #72225 (#73897)
+* Backport #71380 (#73899)
+* Backport #71428, #71432 and #71449 (#73900)
 * Fix eggplant disassembly (#73910)
 * Adds Holli to Triage Perms (#73914)
 
@@ -141,6 +144,3 @@ Cataclysm-DDA experimental build 2024-05-15-1833 (7f06e9f)
 * Backport #72739 (#73766)
 * Added roofs to livestock 1 (#73744)
 * Split construction into many files in a subdirectory (#73750)
-* Don't show gun without default ammo defined as an option in reload ui (#73743)
-* Heat func bugfix (#73740)
-* Visual UI for changing vehicle part shapes (#73739)
