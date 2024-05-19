@@ -1,3 +1,22 @@
+* Gas forge recipe learned from fabrication books ([#73865](https://github.com/CleverRaven/Cataclysm-DDA/pull/73865))
+* Auditing breaks_into of vehicle_parts.json Part Two ([#73755](https://github.com/CleverRaven/Cataclysm-DDA/pull/73755))
+* Modded pseudo terrain fix ([#73901](https://github.com/CleverRaven/Cataclysm-DDA/pull/73901))
+* Backport #73820 ([#73896](https://github.com/CleverRaven/Cataclysm-DDA/pull/73896))
+* typified activity_actor ([#73807](https://github.com/CleverRaven/Cataclysm-DDA/pull/73807))
+* Obsolete MP18, OA-93, PLR 16, M231, and Mossberg Brownie ([#73862](https://github.com/CleverRaven/Cataclysm-DDA/pull/73862))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-19-0025 ([9b1670d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-19-0025))
+
+* Backport #71425 ([#73898](https://github.com/CleverRaven/Cataclysm-DDA/pull/73898))
+* Minor house mapgen fixes ([#73904](https://github.com/CleverRaven/Cataclysm-DDA/pull/73904))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-19-0007 ([2a40c38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-19-0007))
+
+* explicit roofs on canteen 1 ([#73905](https://github.com/CleverRaven/Cataclysm-DDA/pull/73905))
 
 ---
 
@@ -10,12 +29,6 @@
 #### Cataclysm-DDA experimental build 2024-05-18-1824 ([c1790a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-1824))
 
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-18-0554 ([968138b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-0554))
-
-* Weekly Changelog 2024-05-06 to 2024-05-13 ([#73732](https://github.com/CleverRaven/Cataclysm-DDA/pull/73732))
 * Backport #73818 with correct branch name and target ([#73863](https://github.com/CleverRaven/Cataclysm-DDA/pull/73863))
 * Update Flatpak manifest to use clang and include the default soundpack ([#73818](https://github.com/CleverRaven/Cataclysm-DDA/pull/73818))
 
@@ -155,7 +168,6 @@
 #### Cataclysm-DDA experimental build 2024-05-16-1442 ([9cb81a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-1442))
 
 * Gun without magic gun barrel ([#73844](https://github.com/CleverRaven/Cataclysm-DDA/pull/73844))
-* Fix Up Travel Toilets ([#73734](https://github.com/CleverRaven/Cataclysm-DDA/pull/73734))
 * clamp the multiplicative speed bonus ([#73798](https://github.com/CleverRaven/Cataclysm-DDA/pull/73798))
 * Load faults / fault_fixes with generic_factory ([#73816](https://github.com/CleverRaven/Cataclysm-DDA/pull/73816))
 * Better debug message on loading bad vehicle parts ([#73815](https://github.com/CleverRaven/Cataclysm-DDA/pull/73815))
@@ -185,17 +197,7 @@
 * fix draw_critter_above bounds check ([#73756](https://github.com/CleverRaven/Cataclysm-DDA/pull/73756))
 * fix assert in diary info panel clamp ([#73758](https://github.com/CleverRaven/Cataclysm-DDA/pull/73758))
 * Nerf artwork prices into oblivion ([#73780](https://github.com/CleverRaven/Cataclysm-DDA/pull/73780))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-14-2300 ([dd720c3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-2300))
-
 * Fix door on select, door controls should keep selection ([#73789](https://github.com/CleverRaven/Cataclysm-DDA/pull/73789))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-14-1902 ([c7d88dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-14-1902))
-
 * Fix crash when opening construction menu with no visible entries ([#73785](https://github.com/CleverRaven/Cataclysm-DDA/pull/73785))
 * Backport #70772 and #70775 ([#73775](https://github.com/CleverRaven/Cataclysm-DDA/pull/73775))
 * Backport #70646 ([#73783](https://github.com/CleverRaven/Cataclysm-DDA/pull/73783))
@@ -208,17 +210,10 @@
 * Backport #73296 ([#73770](https://github.com/CleverRaven/Cataclysm-DDA/pull/73770))
 * Backport #72881 ([#73767](https://github.com/CleverRaven/Cataclysm-DDA/pull/73767))
 * Backport #72739 ([#73766](https://github.com/CleverRaven/Cataclysm-DDA/pull/73766))
-* fix: reinforce land prison entrace ([#73729](https://github.com/CleverRaven/Cataclysm-DDA/pull/73729))
 * Trigger rebuild of cataclysmdda.org when a 0.H release candidate is created ([#73737](https://github.com/CleverRaven/Cataclysm-DDA/pull/73737))
 * Added roofs to livestock 1 ([#73744](https://github.com/CleverRaven/Cataclysm-DDA/pull/73744))
 * Split construction into many files in a subdirectory ([#73750](https://github.com/CleverRaven/Cataclysm-DDA/pull/73750))
 * Don't show gun without default ammo defined as an option in reload ui ([#73743](https://github.com/CleverRaven/Cataclysm-DDA/pull/73743))
-* [MoM] Rework Combat Sense with modern enchants ([#73727](https://github.com/CleverRaven/Cataclysm-DDA/pull/73727))
 * Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. ([#73738](https://github.com/CleverRaven/Cataclysm-DDA/pull/73738))
 * Heat func bugfix ([#73740](https://github.com/CleverRaven/Cataclysm-DDA/pull/73740))
 * Visual UI for changing vehicle part shapes ([#73739](https://github.com/CleverRaven/Cataclysm-DDA/pull/73739))
-* Backport #71582 ([#73717](https://github.com/CleverRaven/Cataclysm-DDA/pull/73717))
-* Remove backported test ([#73720](https://github.com/CleverRaven/Cataclysm-DDA/pull/73720))
-* fix forward declaration of imgui ImVec2 ([#73724](https://github.com/CleverRaven/Cataclysm-DDA/pull/73724))
-* Backport #70764 ([#73716](https://github.com/CleverRaven/Cataclysm-DDA/pull/73716))
-* Backport #70698 ([#73715](https://github.com/CleverRaven/Cataclysm-DDA/pull/73715))
