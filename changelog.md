@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-19-2029 ([b53b10a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-19-2029))
+
 * Refix #52307 Enchanted Tailor's kit can repair parabolan wool ([#73917](https://github.com/CleverRaven/Cataclysm-DDA/pull/73917))
 * Added roofs to farm expansion 1 ([#73919](https://github.com/CleverRaven/Cataclysm-DDA/pull/73919))
 
