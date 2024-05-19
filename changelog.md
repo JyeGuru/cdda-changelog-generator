@@ -1,3 +1,4 @@
+* Fix eggplant disassembly ([#73910](https://github.com/CleverRaven/Cataclysm-DDA/pull/73910))
 * Adds Holli to Triage Perms ([#73914](https://github.com/CleverRaven/Cataclysm-DDA/pull/73914))
 
 ---
@@ -219,6 +220,5 @@
 * Added roofs to livestock 1 ([#73744](https://github.com/CleverRaven/Cataclysm-DDA/pull/73744))
 * Split construction into many files in a subdirectory ([#73750](https://github.com/CleverRaven/Cataclysm-DDA/pull/73750))
 * Don't show gun without default ammo defined as an option in reload ui ([#73743](https://github.com/CleverRaven/Cataclysm-DDA/pull/73743))
-* Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. ([#73738](https://github.com/CleverRaven/Cataclysm-DDA/pull/73738))
 * Heat func bugfix ([#73740](https://github.com/CleverRaven/Cataclysm-DDA/pull/73740))
 * Visual UI for changing vehicle part shapes ([#73739](https://github.com/CleverRaven/Cataclysm-DDA/pull/73739))

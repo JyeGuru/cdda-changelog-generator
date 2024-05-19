@@ -1,3 +1,4 @@
+* Fix eggplant disassembly (#73910)
 * Adds Holli to Triage Perms (#73914)
 
 Cataclysm-DDA experimental build 2024-05-19-0250 (f4a9554)
@@ -141,6 +142,5 @@ Cataclysm-DDA experimental build 2024-05-15-1833 (7f06e9f)
 * Added roofs to livestock 1 (#73744)
 * Split construction into many files in a subdirectory (#73750)
 * Don't show gun without default ammo defined as an option in reload ui (#73743)
-* Gave fingerless wool gloves XL and XS variants relevant PREFIX flags. (#73738)
 * Heat func bugfix (#73740)
 * Visual UI for changing vehicle part shapes (#73739)
