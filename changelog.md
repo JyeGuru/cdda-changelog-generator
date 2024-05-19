@@ -1,5 +1,10 @@
 * Refix #52307 Enchanted Tailor's kit can repair parabolan wool ([#73917](https://github.com/CleverRaven/Cataclysm-DDA/pull/73917))
 * Added roofs to farm expansion 1 ([#73919](https://github.com/CleverRaven/Cataclysm-DDA/pull/73919))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-19-1918 ([e8f7249](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-19-1918))
+
 * Backport #73901 ([#73920](https://github.com/CleverRaven/Cataclysm-DDA/pull/73920))
 * Backport #71681 and #71846 and #71861 ([#73921](https://github.com/CleverRaven/Cataclysm-DDA/pull/73921))
 
@@ -177,11 +182,6 @@
 * Backport #71157 ([#73839](https://github.com/CleverRaven/Cataclysm-DDA/pull/73839))
 * Backport #71333 ([#73840](https://github.com/CleverRaven/Cataclysm-DDA/pull/73840))
 * Backport #71338 ([#73841](https://github.com/CleverRaven/Cataclysm-DDA/pull/73841))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-16-1442 ([9cb81a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-1442))
-
 * Gun without magic gun barrel ([#73844](https://github.com/CleverRaven/Cataclysm-DDA/pull/73844))
 * clamp the multiplicative speed bonus ([#73798](https://github.com/CleverRaven/Cataclysm-DDA/pull/73798))
 * Load faults / fault_fixes with generic_factory ([#73816](https://github.com/CleverRaven/Cataclysm-DDA/pull/73816))
