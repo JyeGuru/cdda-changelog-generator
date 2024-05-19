@@ -193,8 +193,6 @@
 * Add tarot cards and Ouija board ([#73752](https://github.com/CleverRaven/Cataclysm-DDA/pull/73752))
 * Backport #70589 and #70770 ([#73773](https://github.com/CleverRaven/Cataclysm-DDA/pull/73773))
 * Added explicit roofs to hub version 2 ([#73784](https://github.com/CleverRaven/Cataclysm-DDA/pull/73784))
-* Average NPC skill level increases over time ([#73745](https://github.com/CleverRaven/Cataclysm-DDA/pull/73745))
-* Include vehicle roofs for map::draw_from_above ([#73747](https://github.com/CleverRaven/Cataclysm-DDA/pull/73747))
 * fix draw_critter_above bounds check ([#73756](https://github.com/CleverRaven/Cataclysm-DDA/pull/73756))
 * fix assert in diary info panel clamp ([#73758](https://github.com/CleverRaven/Cataclysm-DDA/pull/73758))
 * Nerf artwork prices into oblivion ([#73780](https://github.com/CleverRaven/Cataclysm-DDA/pull/73780))
