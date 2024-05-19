@@ -1,3 +1,10 @@
+* Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-19-2346 ([258bb92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-19-2346))
+
+* Correct the crimes against dinosaurs ([#73939](https://github.com/CleverRaven/Cataclysm-DDA/pull/73939))
 
 ---
 
@@ -165,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2024-05-17-0042 ([c3b29e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-0042))
 
 * Limbify consume speed modifiers ([#73827](https://github.com/CleverRaven/Cataclysm-DDA/pull/73827))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-16-2203 ([554b537](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-2203))
-
 * Allow Ouija boards to spawn ([#73828](https://github.com/CleverRaven/Cataclysm-DDA/pull/73828))
 * extend zombie security guard drops ([#73821](https://github.com/CleverRaven/Cataclysm-DDA/pull/73821))
 * Modified functions and doc about open_container. ([#73805](https://github.com/CleverRaven/Cataclysm-DDA/pull/73805))
@@ -209,4 +211,3 @@
 * Backport #73346 ([#73771](https://github.com/CleverRaven/Cataclysm-DDA/pull/73771))
 * Backport #73296 ([#73770](https://github.com/CleverRaven/Cataclysm-DDA/pull/73770))
 * Backport #72881 ([#73767](https://github.com/CleverRaven/Cataclysm-DDA/pull/73767))
-* Backport #72739 ([#73766](https://github.com/CleverRaven/Cataclysm-DDA/pull/73766))

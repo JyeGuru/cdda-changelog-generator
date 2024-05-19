@@ -1,3 +1,7 @@
+* Correct Pile of Leaves Desconstruct/Bash (#73937)
+
+Cataclysm-DDA experimental build 2024-05-19-2346 (258bb92)
+* Correct the crimes against dinosaurs (#73939)
 
 Cataclysm-DDA experimental build 2024-05-19-2029 (b53b10a)
 * Refix #52307 Enchanted Tailor's kit can repair parabolan wool (#73917)
@@ -96,8 +100,6 @@ Cataclysm-DDA 0.H release candidate 2024-05-17-0116 (94de1a8)
 
 Cataclysm-DDA experimental build 2024-05-17-0042 (c3b29e0)
 * Limbify consume speed modifiers (#73827)
-
-Cataclysm-DDA experimental build 2024-05-16-2203 (554b537)
 * Allow Ouija boards to spawn (#73828)
 * extend zombie security guard drops (#73821)
 * Modified functions and doc about open_container. (#73805)
@@ -137,4 +139,3 @@ Cataclysm-DDA experimental build 2024-05-16-2203 (554b537)
 * Backport #73346 (#73771)
 * Backport #73296 (#73770)
 * Backport #72881 (#73767)
-* Backport #72739 (#73766)
