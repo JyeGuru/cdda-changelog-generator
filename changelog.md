@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-19-0508 ([f7b2fc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-19-0508))
+
 * Backport #72225 ([#73897](https://github.com/CleverRaven/Cataclysm-DDA/pull/73897))
 * Backport #71380 ([#73899](https://github.com/CleverRaven/Cataclysm-DDA/pull/73899))
 * Backport #71428, #71432 and #71449 ([#73900](https://github.com/CleverRaven/Cataclysm-DDA/pull/73900))
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-05-16-0345 ([ea7f959](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-16-0345))
 
 * Fix duct tape described as liquid ([#73801](https://github.com/CleverRaven/Cataclysm-DDA/pull/73801))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-15-1833 ([7f06e9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-15-1833))
-
 * Add tarot cards and Ouija board ([#73752](https://github.com/CleverRaven/Cataclysm-DDA/pull/73752))
 * Backport #70589 and #70770 ([#73773](https://github.com/CleverRaven/Cataclysm-DDA/pull/73773))
 * Added explicit roofs to hub version 2 ([#73784](https://github.com/CleverRaven/Cataclysm-DDA/pull/73784))
