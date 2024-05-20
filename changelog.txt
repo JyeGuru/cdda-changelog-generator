@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-20-0558 (b9293eb)
 * Increase search radius for LIXA in Hub01 Mission (#73925)
 * Don't try to get non-existent spellbook spells (#73800)
 * [Magiclysm] Update Forge of Wonders Dialogue Options (#73791)
@@ -90,8 +92,6 @@ Cataclysm-DDA experimental build 2024-05-17-0418 (388f8e5)
 
 Cataclysm-DDA 0.H release candidate 2024-05-17-0427 (327aa9f)
 * Backport #73104 (#73852)
-
-Cataclysm-DDA 0.H release candidate 2024-05-17-0324 (f6ecd02)
 * Backport #70686 (#73854)
 * Backport #72759 and #73703 (#73856)
 * Backport #70875 (#73851)

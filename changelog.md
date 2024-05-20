@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-20-0558 ([b9293eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-20-0558))
+
 * Increase search radius for LIXA in Hub01 Mission ([#73925](https://github.com/CleverRaven/Cataclysm-DDA/pull/73925))
 * Don't try to get non-existent spellbook spells ([#73800](https://github.com/CleverRaven/Cataclysm-DDA/pull/73800))
 * [Magiclysm] Update Forge of Wonders Dialogue Options ([#73791](https://github.com/CleverRaven/Cataclysm-DDA/pull/73791))
@@ -150,11 +155,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-05-17-0427 ([327aa9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-17-0427))
 
 * Backport #73104 ([#73852](https://github.com/CleverRaven/Cataclysm-DDA/pull/73852))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-17-0324 ([f6ecd02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-17-0324))
-
 * Backport #70686 ([#73854](https://github.com/CleverRaven/Cataclysm-DDA/pull/73854))
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
 * Backport #70875 ([#73851](https://github.com/CleverRaven/Cataclysm-DDA/pull/73851))
