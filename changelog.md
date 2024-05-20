@@ -1,3 +1,10 @@
+* [MoM] Zombie looks-like + slightly reduce skyscraper lab break area spawns ([#73942](https://github.com/CleverRaven/Cataclysm-DDA/pull/73942))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-20-2238 ([1ef6e6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-20-2238))
+
+* Updated MAGIC.md ([#73954](https://github.com/CleverRaven/Cataclysm-DDA/pull/73954))
 
 ---
 
@@ -135,11 +142,6 @@
 * Backport #73055 ([#73874](https://github.com/CleverRaven/Cataclysm-DDA/pull/73874))
 * Backport #71103 ([#73873](https://github.com/CleverRaven/Cataclysm-DDA/pull/73873))
 * Backport #70639 ([#73872](https://github.com/CleverRaven/Cataclysm-DDA/pull/73872))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-17-2002 ([d9a3967](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-17-2002))
-
 * Backport #72843 ([#73853](https://github.com/CleverRaven/Cataclysm-DDA/pull/73853))
 * Backport #71352 ([#73848](https://github.com/CleverRaven/Cataclysm-DDA/pull/73848))
 
@@ -194,9 +196,7 @@
 * Nerf artwork prices into oblivion ([#73780](https://github.com/CleverRaven/Cataclysm-DDA/pull/73780))
 * Fix door on select, door controls should keep selection ([#73789](https://github.com/CleverRaven/Cataclysm-DDA/pull/73789))
 * Fix crash when opening construction menu with no visible entries ([#73785](https://github.com/CleverRaven/Cataclysm-DDA/pull/73785))
-* Backport #70772 and #70775 ([#73775](https://github.com/CleverRaven/Cataclysm-DDA/pull/73775))
 * Backport #70646 ([#73783](https://github.com/CleverRaven/Cataclysm-DDA/pull/73783))
 * Backport #70657 ([#73781](https://github.com/CleverRaven/Cataclysm-DDA/pull/73781))
 * Backport #70706 ([#73779](https://github.com/CleverRaven/Cataclysm-DDA/pull/73779))
 * Backport #70700 ([#73778](https://github.com/CleverRaven/Cataclysm-DDA/pull/73778))
-* Backport #70767 ([#73777](https://github.com/CleverRaven/Cataclysm-DDA/pull/73777))
