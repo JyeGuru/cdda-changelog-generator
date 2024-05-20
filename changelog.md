@@ -1,3 +1,4 @@
+* Increase search radius for LIXA in Hub01 Mission ([#73925](https://github.com/CleverRaven/Cataclysm-DDA/pull/73925))
 * Don't try to get non-existent spellbook spells ([#73800](https://github.com/CleverRaven/Cataclysm-DDA/pull/73800))
 * [Magiclysm] Update Forge of Wonders Dialogue Options ([#73791](https://github.com/CleverRaven/Cataclysm-DDA/pull/73791))
 * [Xedra] Give Homullus Equipment Durability Mutation with New Enchant ([#73918](https://github.com/CleverRaven/Cataclysm-DDA/pull/73918))
@@ -200,4 +201,3 @@
 * Backport #70700 ([#73778](https://github.com/CleverRaven/Cataclysm-DDA/pull/73778))
 * Backport #70767 ([#73777](https://github.com/CleverRaven/Cataclysm-DDA/pull/73777))
 * Backport #70423 and #70685 ([#73774](https://github.com/CleverRaven/Cataclysm-DDA/pull/73774))
-* Backport #73346 ([#73771](https://github.com/CleverRaven/Cataclysm-DDA/pull/73771))
