@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-20-1708 ([42d9ede](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-20-1708))
+
+* Update documentation on petfood ([#73956](https://github.com/CleverRaven/Cataclysm-DDA/pull/73956))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-20-0558 ([b9293eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-20-0558))
 
 * Increase search radius for LIXA in Hub01 Mission ([#73925](https://github.com/CleverRaven/Cataclysm-DDA/pull/73925))
@@ -149,11 +155,6 @@
 #### Cataclysm-DDA experimental build 2024-05-17-0418 ([388f8e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-0418))
 
 * Add cattle samples to more ungulates ([#73782](https://github.com/CleverRaven/Cataclysm-DDA/pull/73782))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-17-0427 ([327aa9f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-17-0427))
-
 * Backport #73104 ([#73852](https://github.com/CleverRaven/Cataclysm-DDA/pull/73852))
 * Backport #70686 ([#73854](https://github.com/CleverRaven/Cataclysm-DDA/pull/73854))
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
@@ -199,4 +200,3 @@
 * Backport #70706 ([#73779](https://github.com/CleverRaven/Cataclysm-DDA/pull/73779))
 * Backport #70700 ([#73778](https://github.com/CleverRaven/Cataclysm-DDA/pull/73778))
 * Backport #70767 ([#73777](https://github.com/CleverRaven/Cataclysm-DDA/pull/73777))
-* Backport #70423 and #70685 ([#73774](https://github.com/CleverRaven/Cataclysm-DDA/pull/73774))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-20-1708 (42d9ede)
+* Update documentation on petfood (#73956)
+
 Cataclysm-DDA experimental build 2024-05-20-0558 (b9293eb)
 * Increase search radius for LIXA in Hub01 Mission (#73925)
 * Don't try to get non-existent spellbook spells (#73800)
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2024-05-17-1356 (03d8ffb)
 
 Cataclysm-DDA experimental build 2024-05-17-0418 (388f8e5)
 * Add cattle samples to more ungulates (#73782)
-
-Cataclysm-DDA 0.H release candidate 2024-05-17-0427 (327aa9f)
 * Backport #73104 (#73852)
 * Backport #70686 (#73854)
 * Backport #72759 and #73703 (#73856)
@@ -133,4 +134,3 @@ Cataclysm-DDA experimental build 2024-05-17-0042 (c3b29e0)
 * Backport #70706 (#73779)
 * Backport #70700 (#73778)
 * Backport #70767 (#73777)
-* Backport #70423 and #70685 (#73774)
