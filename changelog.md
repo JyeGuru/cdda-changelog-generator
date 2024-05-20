@@ -189,7 +189,6 @@
 * Add -gsplit-dwarf to LTO build to cut memory utilization in linker ([#73812](https://github.com/CleverRaven/Cataclysm-DDA/pull/73812))
 * Hydration pouch size fixes ([#73794](https://github.com/CleverRaven/Cataclysm-DDA/pull/73794))
 * Fix duct tape described as liquid ([#73801](https://github.com/CleverRaven/Cataclysm-DDA/pull/73801))
-* Backport #70589 and #70770 ([#73773](https://github.com/CleverRaven/Cataclysm-DDA/pull/73773))
 * Added explicit roofs to hub version 2 ([#73784](https://github.com/CleverRaven/Cataclysm-DDA/pull/73784))
 * Nerf artwork prices into oblivion ([#73780](https://github.com/CleverRaven/Cataclysm-DDA/pull/73780))
 * Fix door on select, door controls should keep selection ([#73789](https://github.com/CleverRaven/Cataclysm-DDA/pull/73789))
