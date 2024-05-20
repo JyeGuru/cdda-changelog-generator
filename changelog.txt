@@ -1,3 +1,6 @@
+* Don't try to get non-existent spellbook spells (#73800)
+* [Magiclysm] Update Forge of Wonders Dialogue Options (#73791)
+* [Xedra] Give Homullus Equipment Durability Mutation with New Enchant (#73918)
 * Correct Pile of Leaves Desconstruct/Bash (#73937)
 
 Cataclysm-DDA experimental build 2024-05-19-2346 (258bb92)
@@ -59,9 +62,6 @@ Cataclysm-DDA 0.H release candidate 2024-05-18-0344 (062e42e)
 
 Cataclysm-DDA experimental build 2024-05-18-0323 (121d7c9)
 * Routine i18n updates on 18 May 2024 (#73892)
-
-Cataclysm-DDA experimental build 2024-05-17-2344 (a3c6367)
-* [Magiclysm] Update Dark Sight to scale with spell level (#73769)
 
 Cataclysm-DDA 0.H release candidate 2024-05-17-2310 (1da15ac)
 * Backport #70868 (#73880)
@@ -137,5 +137,3 @@ Cataclysm-DDA experimental build 2024-05-17-0042 (c3b29e0)
 * Backport #70767 (#73777)
 * Backport #70423 and #70685 (#73774)
 * Backport #73346 (#73771)
-* Backport #73296 (#73770)
-* Backport #72881 (#73767)

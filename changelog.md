@@ -1,3 +1,6 @@
+* Don't try to get non-existent spellbook spells ([#73800](https://github.com/CleverRaven/Cataclysm-DDA/pull/73800))
+* [Magiclysm] Update Forge of Wonders Dialogue Options ([#73791](https://github.com/CleverRaven/Cataclysm-DDA/pull/73791))
+* [Xedra] Give Homullus Equipment Durability Mutation with New Enchant ([#73918](https://github.com/CleverRaven/Cataclysm-DDA/pull/73918))
 * Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
 
 ---
@@ -104,12 +107,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-05-17-2344 ([a3c6367](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-2344))
-
-* [Magiclysm] Update Dark Sight to scale with spell level ([#73769](https://github.com/CleverRaven/Cataclysm-DDA/pull/73769))
-
----
-
 #### Cataclysm-DDA 0.H release candidate 2024-05-17-2310 ([1da15ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-17-2310))
 
 * Backport #70868 ([#73880](https://github.com/CleverRaven/Cataclysm-DDA/pull/73880))
@@ -209,5 +206,3 @@
 * Backport #70767 ([#73777](https://github.com/CleverRaven/Cataclysm-DDA/pull/73777))
 * Backport #70423 and #70685 ([#73774](https://github.com/CleverRaven/Cataclysm-DDA/pull/73774))
 * Backport #73346 ([#73771](https://github.com/CleverRaven/Cataclysm-DDA/pull/73771))
-* Backport #73296 ([#73770](https://github.com/CleverRaven/Cataclysm-DDA/pull/73770))
-* Backport #72881 ([#73767](https://github.com/CleverRaven/Cataclysm-DDA/pull/73767))
