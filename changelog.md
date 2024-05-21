@@ -1,3 +1,4 @@
+* Explicit roof on garage version 2 ([#73957](https://github.com/CleverRaven/Cataclysm-DDA/pull/73957))
 * [MoM] Zombie looks-like + slightly reduce skyscraper lab break area spawns ([#73942](https://github.com/CleverRaven/Cataclysm-DDA/pull/73942))
 
 ---
@@ -194,4 +195,3 @@
 * Backport #70646 ([#73783](https://github.com/CleverRaven/Cataclysm-DDA/pull/73783))
 * Backport #70657 ([#73781](https://github.com/CleverRaven/Cataclysm-DDA/pull/73781))
 * Backport #70706 ([#73779](https://github.com/CleverRaven/Cataclysm-DDA/pull/73779))
-* Backport #70700 ([#73778](https://github.com/CleverRaven/Cataclysm-DDA/pull/73778))
