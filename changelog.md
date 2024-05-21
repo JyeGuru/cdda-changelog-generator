@@ -167,11 +167,6 @@
 * Backport #70843 ([#73878](https://github.com/CleverRaven/Cataclysm-DDA/pull/73878))
 * Wool staple recipe now needs 7 felt patches. ([#73884](https://github.com/CleverRaven/Cataclysm-DDA/pull/73884))
 * Just some minor JSON fixes I can't categorize properly ([#73887](https://github.com/CleverRaven/Cataclysm-DDA/pull/73887))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-18-0323 ([121d7c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-0323))
-
 * Routine i18n updates on 18 May 2024 ([#73892](https://github.com/CleverRaven/Cataclysm-DDA/pull/73892))
 * Backport #70868 ([#73880](https://github.com/CleverRaven/Cataclysm-DDA/pull/73880))
 * Backport #72780 ([#73883](https://github.com/CleverRaven/Cataclysm-DDA/pull/73883))
