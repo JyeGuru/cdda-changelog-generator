@@ -7,6 +7,8 @@
 * Backport #72515 (#73966)
 * Backport #70755 (#73968)
 * Backport #70957 (#73972)
+
+Cataclysm-DDA 0.H release candidate 2024-05-21-1515 (3c75de2)
 * Backport #72064 (#73974)
 
 Cataclysm-DDA experimental build 2024-05-21-1452 (cecf66d)
