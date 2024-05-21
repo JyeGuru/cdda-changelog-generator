@@ -1,3 +1,4 @@
+* Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) ([#73958](https://github.com/CleverRaven/Cataclysm-DDA/pull/73958))
 
 ---
 
@@ -66,7 +67,6 @@
 #### Cataclysm-DDA experimental build 2024-05-20-0558 ([b9293eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-20-0558))
 
 * Increase search radius for LIXA in Hub01 Mission ([#73925](https://github.com/CleverRaven/Cataclysm-DDA/pull/73925))
-* Don't try to get non-existent spellbook spells ([#73800](https://github.com/CleverRaven/Cataclysm-DDA/pull/73800))
 * [Xedra] Give Homullus Equipment Durability Mutation with New Enchant ([#73918](https://github.com/CleverRaven/Cataclysm-DDA/pull/73918))
 * Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
 
