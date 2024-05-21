@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-21-2021 ([e932d80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-21-2021))
+
+* Backport #73689 ([#73850](https://github.com/CleverRaven/Cataclysm-DDA/pull/73850))
 * Add Snow Cones and Snow Machines ([#73916](https://github.com/CleverRaven/Cataclysm-DDA/pull/73916))
 
 ---
@@ -155,11 +161,6 @@
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
 * Backport #73818 with correct branch name and target ([#73863](https://github.com/CleverRaven/Cataclysm-DDA/pull/73863))
 * Update Flatpak manifest to use clang and include the default soundpack ([#73818](https://github.com/CleverRaven/Cataclysm-DDA/pull/73818))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-18-0453 ([c368315](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-18-0453))
-
 * Backport #72858 ([#73849](https://github.com/CleverRaven/Cataclysm-DDA/pull/73849))
 * Reset wait popup on activity finish ([#73814](https://github.com/CleverRaven/Cataclysm-DDA/pull/73814))
 * Near-infinite loop fix for when crafter cannot continue (fixes #70530) ([#73820](https://github.com/CleverRaven/Cataclysm-DDA/pull/73820))
@@ -193,7 +194,6 @@
 * Limbify consume speed modifiers ([#73827](https://github.com/CleverRaven/Cataclysm-DDA/pull/73827))
 * Allow Ouija boards to spawn ([#73828](https://github.com/CleverRaven/Cataclysm-DDA/pull/73828))
 * extend zombie security guard drops ([#73821](https://github.com/CleverRaven/Cataclysm-DDA/pull/73821))
-* Modified functions and doc about open_container. ([#73805](https://github.com/CleverRaven/Cataclysm-DDA/pull/73805))
 * Expose daily calories calendar to math ([#73811](https://github.com/CleverRaven/Cataclysm-DDA/pull/73811))
 * Liberty Bot ([#73825](https://github.com/CleverRaven/Cataclysm-DDA/pull/73825))
 * Added explicit roofs to field basecamp 1 ([#73830](https://github.com/CleverRaven/Cataclysm-DDA/pull/73830))
