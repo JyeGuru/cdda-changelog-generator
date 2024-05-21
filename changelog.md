@@ -1,3 +1,10 @@
+* Backport #70831 ([#73971](https://github.com/CleverRaven/Cataclysm-DDA/pull/73971))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-21-0655 ([c7bc00d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-21-0655))
+
+* Backport #70938 ([#73975](https://github.com/CleverRaven/Cataclysm-DDA/pull/73975))
 
 ---
 
@@ -158,11 +165,6 @@
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
 * Backport #70875 ([#73851](https://github.com/CleverRaven/Cataclysm-DDA/pull/73851))
 * Backport #71304 ([#73847](https://github.com/CleverRaven/Cataclysm-DDA/pull/73847))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-17-0042 ([c3b29e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-0042))
-
 * Limbify consume speed modifiers ([#73827](https://github.com/CleverRaven/Cataclysm-DDA/pull/73827))
 * Allow Ouija boards to spawn ([#73828](https://github.com/CleverRaven/Cataclysm-DDA/pull/73828))
 * extend zombie security guard drops ([#73821](https://github.com/CleverRaven/Cataclysm-DDA/pull/73821))
@@ -189,9 +191,7 @@
 * Hydration pouch size fixes ([#73794](https://github.com/CleverRaven/Cataclysm-DDA/pull/73794))
 * Fix duct tape described as liquid ([#73801](https://github.com/CleverRaven/Cataclysm-DDA/pull/73801))
 * Added explicit roofs to hub version 2 ([#73784](https://github.com/CleverRaven/Cataclysm-DDA/pull/73784))
-* Nerf artwork prices into oblivion ([#73780](https://github.com/CleverRaven/Cataclysm-DDA/pull/73780))
 * Fix door on select, door controls should keep selection ([#73789](https://github.com/CleverRaven/Cataclysm-DDA/pull/73789))
 * Fix crash when opening construction menu with no visible entries ([#73785](https://github.com/CleverRaven/Cataclysm-DDA/pull/73785))
 * Backport #70646 ([#73783](https://github.com/CleverRaven/Cataclysm-DDA/pull/73783))
 * Backport #70657 ([#73781](https://github.com/CleverRaven/Cataclysm-DDA/pull/73781))
-* Backport #70706 ([#73779](https://github.com/CleverRaven/Cataclysm-DDA/pull/73779))
