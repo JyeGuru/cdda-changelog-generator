@@ -1,3 +1,4 @@
+* Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
 
 ---
 
@@ -132,7 +133,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-05-19-0223 ([541f819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-19-0223))
 
 * Backport #73820 ([#73896](https://github.com/CleverRaven/Cataclysm-DDA/pull/73896))
-* typified activity_actor ([#73807](https://github.com/CleverRaven/Cataclysm-DDA/pull/73807))
 * Obsolete MP18, OA-93, PLR 16, M231, and Mossberg Brownie ([#73862](https://github.com/CleverRaven/Cataclysm-DDA/pull/73862))
 
 ---
