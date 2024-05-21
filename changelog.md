@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-21-0335 ([e8905f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-0335))
+
 * Explicit roof on garage version 2 ([#73957](https://github.com/CleverRaven/Cataclysm-DDA/pull/73957))
 * [MoM] Zombie looks-like + slightly reduce skyscraper lab break area spawns ([#73942](https://github.com/CleverRaven/Cataclysm-DDA/pull/73942))
 
@@ -124,11 +129,6 @@
 #### Cataclysm-DDA experimental build 2024-05-18-0323 ([121d7c9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-0323))
 
 * Routine i18n updates on 18 May 2024 ([#73892](https://github.com/CleverRaven/Cataclysm-DDA/pull/73892))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-17-2310 ([1da15ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-17-2310))
-
 * Backport #70868 ([#73880](https://github.com/CleverRaven/Cataclysm-DDA/pull/73880))
 * Backport #72780 ([#73883](https://github.com/CleverRaven/Cataclysm-DDA/pull/73883))
 * Backport #73525 ([#73882](https://github.com/CleverRaven/Cataclysm-DDA/pull/73882))
