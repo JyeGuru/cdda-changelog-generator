@@ -1,5 +1,10 @@
 * Bark (inherit upgrades & fix missability) ([#73944](https://github.com/CleverRaven/Cataclysm-DDA/pull/73944))
 * Add size prefixes to some items ([#73953](https://github.com/CleverRaven/Cataclysm-DDA/pull/73953))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-21-1640 ([f1c59fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-21-1640))
+
 * Backport #71410 ([#73969](https://github.com/CleverRaven/Cataclysm-DDA/pull/73969))
 * Ski mask is now a tube scarf ([#73941](https://github.com/CleverRaven/Cataclysm-DDA/pull/73941))
 * Backport #72154 ([#73963](https://github.com/CleverRaven/Cataclysm-DDA/pull/73963))
@@ -172,11 +177,6 @@
 * Backport #70639 ([#73872](https://github.com/CleverRaven/Cataclysm-DDA/pull/73872))
 * Backport #72843 ([#73853](https://github.com/CleverRaven/Cataclysm-DDA/pull/73853))
 * Backport #71352 ([#73848](https://github.com/CleverRaven/Cataclysm-DDA/pull/73848))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-17-1356 ([03d8ffb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-1356))
-
 * Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
 * canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
 * Backport #73104 ([#73852](https://github.com/CleverRaven/Cataclysm-DDA/pull/73852))

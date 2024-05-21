@@ -1,5 +1,7 @@
 * Bark (inherit upgrades & fix missability) (#73944)
 * Add size prefixes to some items (#73953)
+
+Cataclysm-DDA 0.H release candidate 2024-05-21-1640 (f1c59fb)
 * Backport #71410 (#73969)
 * Ski mask is now a tube scarf (#73941)
 * Backport #72154 (#73963)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2024-05-18-0323 (121d7c9)
 * Backport #70639 (#73872)
 * Backport #72843 (#73853)
 * Backport #71352 (#73848)
-
-Cataclysm-DDA experimental build 2024-05-17-1356 (03d8ffb)
 * Retain non-solid contents when installing vehicle parts (#73860)
 * canteen 2 roofed (#73870)
 * Backport #73104 (#73852)
