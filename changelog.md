@@ -1,3 +1,16 @@
+* Ski mask is now a tube scarf ([#73941](https://github.com/CleverRaven/Cataclysm-DDA/pull/73941))
+* Backport #72154 ([#73963](https://github.com/CleverRaven/Cataclysm-DDA/pull/73963))
+* Backport #70397 ([#73964](https://github.com/CleverRaven/Cataclysm-DDA/pull/73964))
+* Backport #72515 ([#73966](https://github.com/CleverRaven/Cataclysm-DDA/pull/73966))
+* Backport #70755 ([#73968](https://github.com/CleverRaven/Cataclysm-DDA/pull/73968))
+* Backport #70957 ([#73972](https://github.com/CleverRaven/Cataclysm-DDA/pull/73972))
+* Backport #72064 ([#73974](https://github.com/CleverRaven/Cataclysm-DDA/pull/73974))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-21-1452 ([cecf66d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-1452))
+
+* Flagify muting ([#73979](https://github.com/CleverRaven/Cataclysm-DDA/pull/73979))
 
 ---
 
@@ -36,7 +49,6 @@
 
 * Increase search radius for LIXA in Hub01 Mission ([#73925](https://github.com/CleverRaven/Cataclysm-DDA/pull/73925))
 * Don't try to get non-existent spellbook spells ([#73800](https://github.com/CleverRaven/Cataclysm-DDA/pull/73800))
-* [Magiclysm] Update Forge of Wonders Dialogue Options ([#73791](https://github.com/CleverRaven/Cataclysm-DDA/pull/73791))
 * [Xedra] Give Homullus Equipment Durability Mutation with New Enchant ([#73918](https://github.com/CleverRaven/Cataclysm-DDA/pull/73918))
 * Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
 
@@ -159,7 +171,6 @@
 
 * Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
 * canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
-* Add cattle samples to more ungulates ([#73782](https://github.com/CleverRaven/Cataclysm-DDA/pull/73782))
 * Backport #73104 ([#73852](https://github.com/CleverRaven/Cataclysm-DDA/pull/73852))
 * Backport #70686 ([#73854](https://github.com/CleverRaven/Cataclysm-DDA/pull/73854))
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
@@ -190,8 +201,3 @@
 * Add -gsplit-dwarf to LTO build to cut memory utilization in linker ([#73812](https://github.com/CleverRaven/Cataclysm-DDA/pull/73812))
 * Hydration pouch size fixes ([#73794](https://github.com/CleverRaven/Cataclysm-DDA/pull/73794))
 * Fix duct tape described as liquid ([#73801](https://github.com/CleverRaven/Cataclysm-DDA/pull/73801))
-* Added explicit roofs to hub version 2 ([#73784](https://github.com/CleverRaven/Cataclysm-DDA/pull/73784))
-* Fix door on select, door controls should keep selection ([#73789](https://github.com/CleverRaven/Cataclysm-DDA/pull/73789))
-* Fix crash when opening construction menu with no visible entries ([#73785](https://github.com/CleverRaven/Cataclysm-DDA/pull/73785))
-* Backport #70646 ([#73783](https://github.com/CleverRaven/Cataclysm-DDA/pull/73783))
-* Backport #70657 ([#73781](https://github.com/CleverRaven/Cataclysm-DDA/pull/73781))
