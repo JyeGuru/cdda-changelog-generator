@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-21-0741 ([684e582](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-21-0741))
+
 * Backport #70831 ([#73971](https://github.com/CleverRaven/Cataclysm-DDA/pull/73971))
 
 ---
@@ -154,11 +159,6 @@
 
 * Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
 * canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-17-0418 ([388f8e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-17-0418))
-
 * Add cattle samples to more ungulates ([#73782](https://github.com/CleverRaven/Cataclysm-DDA/pull/73782))
 * Backport #73104 ([#73852](https://github.com/CleverRaven/Cataclysm-DDA/pull/73852))
 * Backport #70686 ([#73854](https://github.com/CleverRaven/Cataclysm-DDA/pull/73854))

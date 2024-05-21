@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.H release candidate 2024-05-21-0741 (684e582)
 * Backport #70831 (#73971)
 
 Cataclysm-DDA 0.H release candidate 2024-05-21-0655 (c7bc00d)
@@ -94,8 +96,6 @@ Cataclysm-DDA experimental build 2024-05-18-0323 (121d7c9)
 Cataclysm-DDA experimental build 2024-05-17-1356 (03d8ffb)
 * Retain non-solid contents when installing vehicle parts (#73860)
 * canteen 2 roofed (#73870)
-
-Cataclysm-DDA experimental build 2024-05-17-0418 (388f8e5)
 * Add cattle samples to more ungulates (#73782)
 * Backport #73104 (#73852)
 * Backport #70686 (#73854)
