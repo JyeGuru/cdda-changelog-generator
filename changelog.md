@@ -1,3 +1,9 @@
+* Add Snow Cones and Snow Machines ([#73916](https://github.com/CleverRaven/Cataclysm-DDA/pull/73916))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-21-1959 ([0ff35f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-1959))
+
 * Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) ([#73958](https://github.com/CleverRaven/Cataclysm-DDA/pull/73958))
 
 ---
@@ -157,11 +163,6 @@
 * Backport #72858 ([#73849](https://github.com/CleverRaven/Cataclysm-DDA/pull/73849))
 * Reset wait popup on activity finish ([#73814](https://github.com/CleverRaven/Cataclysm-DDA/pull/73814))
 * Near-infinite loop fix for when crafter cannot continue (fixes #70530) ([#73820](https://github.com/CleverRaven/Cataclysm-DDA/pull/73820))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-18-0344 ([062e42e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-18-0344))
-
 * Backport #70843 ([#73878](https://github.com/CleverRaven/Cataclysm-DDA/pull/73878))
 * Wool staple recipe now needs 7 felt patches. ([#73884](https://github.com/CleverRaven/Cataclysm-DDA/pull/73884))
 * Just some minor JSON fixes I can't categorize properly ([#73887](https://github.com/CleverRaven/Cataclysm-DDA/pull/73887))
@@ -211,4 +212,3 @@
 * Load faults / fault_fixes with generic_factory ([#73816](https://github.com/CleverRaven/Cataclysm-DDA/pull/73816))
 * Better debug message on loading bad vehicle parts ([#73815](https://github.com/CleverRaven/Cataclysm-DDA/pull/73815))
 * Add -gsplit-dwarf to LTO build to cut memory utilization in linker ([#73812](https://github.com/CleverRaven/Cataclysm-DDA/pull/73812))
-* Fix duct tape described as liquid ([#73801](https://github.com/CleverRaven/Cataclysm-DDA/pull/73801))
