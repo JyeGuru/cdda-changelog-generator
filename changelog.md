@@ -1,5 +1,10 @@
 * Update AppStream metadata to 0.G release ([#73930](https://github.com/CleverRaven/Cataclysm-DDA/pull/73930))
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-22-2111 ([2a8906d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-22-2111))
+
 * Backport #71328 ([#73961](https://github.com/CleverRaven/Cataclysm-DDA/pull/73961))
 * Backport #72662 ([#73962](https://github.com/CleverRaven/Cataclysm-DDA/pull/73962))
 
@@ -152,11 +157,6 @@
 * Backport #70743 ([#73927](https://github.com/CleverRaven/Cataclysm-DDA/pull/73927))
 * Changed XE batteries to use tool_magazine category. ([#73928](https://github.com/CleverRaven/Cataclysm-DDA/pull/73928))
 * Finish removing wolves from the wilderness spawns ([#73911](https://github.com/CleverRaven/Cataclysm-DDA/pull/73911))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-19-0508 ([f7b2fc9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-19-0508))
-
 * Backport #72225 ([#73897](https://github.com/CleverRaven/Cataclysm-DDA/pull/73897))
 * Backport #71380 ([#73899](https://github.com/CleverRaven/Cataclysm-DDA/pull/73899))
 * Backport #71428, #71432 and #71449 ([#73900](https://github.com/CleverRaven/Cataclysm-DDA/pull/73900))
