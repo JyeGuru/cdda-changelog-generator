@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-22-0114 (970efaa)
+* Added explicit roofs to storehouse 2 (#73984)
+
 Cataclysm-DDA experimental build 2024-05-21-2232 (5ad0c83)
 * Added explicit roof to garage 1 (#73983)
 
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2024-05-19-0007 (2a40c38)
 
 Cataclysm-DDA experimental build 2024-05-18-2101 (de95c32)
 * [My Sweet Cataclysm] Fix the candy gator faction error (#73895)
-
-Cataclysm-DDA experimental build 2024-05-18-1824 (c1790a9)
 * Fix a typo in consumption.cpp (#73902)
 * Backport #73818 with correct branch name and target (#73863)
 * Update Flatpak manifest to use clang and include the default soundpack (#73818)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2024-05-18-1824 (c1790a9)
 * Limbify consume speed modifiers (#73827)
 * Allow Ouija boards to spawn (#73828)
 * extend zombie security guard drops (#73821)
-* Expose daily calories calendar to math (#73811)
 * Liberty Bot (#73825)
 * Added explicit roofs to field basecamp 1 (#73830)
 * Backport #70695 (#73831)

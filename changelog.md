@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-22-0114 ([970efaa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-0114))
+
+* Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-21-2232 ([5ad0c83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-2232))
 
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
@@ -158,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2024-05-18-2101 ([de95c32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-2101))
 
 * [My Sweet Cataclysm] Fix the candy gator faction error ([#73895](https://github.com/CleverRaven/Cataclysm-DDA/pull/73895))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-18-1824 ([c1790a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-1824))
-
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
 * Backport #73818 with correct branch name and target ([#73863](https://github.com/CleverRaven/Cataclysm-DDA/pull/73863))
 * Update Flatpak manifest to use clang and include the default soundpack ([#73818](https://github.com/CleverRaven/Cataclysm-DDA/pull/73818))
@@ -194,7 +195,6 @@
 * Limbify consume speed modifiers ([#73827](https://github.com/CleverRaven/Cataclysm-DDA/pull/73827))
 * Allow Ouija boards to spawn ([#73828](https://github.com/CleverRaven/Cataclysm-DDA/pull/73828))
 * extend zombie security guard drops ([#73821](https://github.com/CleverRaven/Cataclysm-DDA/pull/73821))
-* Expose daily calories calendar to math ([#73811](https://github.com/CleverRaven/Cataclysm-DDA/pull/73811))
 * Liberty Bot ([#73825](https://github.com/CleverRaven/Cataclysm-DDA/pull/73825))
 * Added explicit roofs to field basecamp 1 ([#73830](https://github.com/CleverRaven/Cataclysm-DDA/pull/73830))
 * Backport #70695 ([#73831](https://github.com/CleverRaven/Cataclysm-DDA/pull/73831))
