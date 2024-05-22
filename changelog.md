@@ -1,3 +1,4 @@
+* Being mute prevents casting VERBAL spells ([#73982](https://github.com/CleverRaven/Cataclysm-DDA/pull/73982))
 
 ---
 
@@ -211,4 +212,3 @@
 * Gun without magic gun barrel ([#73844](https://github.com/CleverRaven/Cataclysm-DDA/pull/73844))
 * Load faults / fault_fixes with generic_factory ([#73816](https://github.com/CleverRaven/Cataclysm-DDA/pull/73816))
 * Better debug message on loading bad vehicle parts ([#73815](https://github.com/CleverRaven/Cataclysm-DDA/pull/73815))
-* Add -gsplit-dwarf to LTO build to cut memory utilization in linker ([#73812](https://github.com/CleverRaven/Cataclysm-DDA/pull/73812))
