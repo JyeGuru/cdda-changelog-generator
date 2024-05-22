@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-22-1943 ([6e7cfae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-1943))
+
+* Spellbook doesn't try to load invalid spells ([#74008](https://github.com/CleverRaven/Cataclysm-DDA/pull/74008))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-22-0335 ([5b4b49b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-0335))
 
 * Being mute prevents casting VERBAL spells ([#73982](https://github.com/CleverRaven/Cataclysm-DDA/pull/73982))
@@ -151,11 +157,6 @@
 
 * Backport #73820 ([#73896](https://github.com/CleverRaven/Cataclysm-DDA/pull/73896))
 * Obsolete MP18, OA-93, PLR 16, M231, and Mossberg Brownie ([#73862](https://github.com/CleverRaven/Cataclysm-DDA/pull/73862))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-19-0025 ([9b1670d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-19-0025))
-
 * Backport #71425 ([#73898](https://github.com/CleverRaven/Cataclysm-DDA/pull/73898))
 * Minor house mapgen fixes ([#73904](https://github.com/CleverRaven/Cataclysm-DDA/pull/73904))
 
@@ -169,7 +170,6 @@
 * Backport #73818 with correct branch name and target ([#73863](https://github.com/CleverRaven/Cataclysm-DDA/pull/73863))
 * Update Flatpak manifest to use clang and include the default soundpack ([#73818](https://github.com/CleverRaven/Cataclysm-DDA/pull/73818))
 * Backport #72858 ([#73849](https://github.com/CleverRaven/Cataclysm-DDA/pull/73849))
-* Reset wait popup on activity finish ([#73814](https://github.com/CleverRaven/Cataclysm-DDA/pull/73814))
 * Near-infinite loop fix for when crafter cannot continue (fixes #70530) ([#73820](https://github.com/CleverRaven/Cataclysm-DDA/pull/73820))
 * Backport #70843 ([#73878](https://github.com/CleverRaven/Cataclysm-DDA/pull/73878))
 * Wool staple recipe now needs 7 felt patches. ([#73884](https://github.com/CleverRaven/Cataclysm-DDA/pull/73884))

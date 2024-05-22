@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-22-1943 (6e7cfae)
+* Spellbook doesn't try to load invalid spells (#74008)
+
 Cataclysm-DDA experimental build 2024-05-22-0335 (5b4b49b)
 * Being mute prevents casting VERBAL spells (#73982)
 
@@ -85,8 +88,6 @@ Cataclysm-DDA experimental build 2024-05-19-0250 (f4a9554)
 Cataclysm-DDA 0.H release candidate 2024-05-19-0223 (541f819)
 * Backport #73820 (#73896)
 * Obsolete MP18, OA-93, PLR 16, M231, and Mossberg Brownie (#73862)
-
-Cataclysm-DDA 0.H release candidate 2024-05-19-0025 (9b1670d)
 * Backport #71425 (#73898)
 * Minor house mapgen fixes (#73904)
 
@@ -97,7 +98,6 @@ Cataclysm-DDA experimental build 2024-05-19-0007 (2a40c38)
 * Backport #73818 with correct branch name and target (#73863)
 * Update Flatpak manifest to use clang and include the default soundpack (#73818)
 * Backport #72858 (#73849)
-* Reset wait popup on activity finish (#73814)
 * Near-infinite loop fix for when crafter cannot continue (fixes #70530) (#73820)
 * Backport #70843 (#73878)
 * Wool staple recipe now needs 7 felt patches. (#73884)
