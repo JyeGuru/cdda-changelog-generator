@@ -2,6 +2,11 @@
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
 * Backport #71328 ([#73961](https://github.com/CleverRaven/Cataclysm-DDA/pull/73961))
 * Backport #72662 ([#73962](https://github.com/CleverRaven/Cataclysm-DDA/pull/73962))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-22-2035 ([4e39b75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-22-2035))
+
 * Backport #72615 ([#73965](https://github.com/CleverRaven/Cataclysm-DDA/pull/73965))
 * Standardize tolerance messages ([#73970](https://github.com/CleverRaven/Cataclysm-DDA/pull/73970))
 * Bug report issue template: some more detailed instructions ([#73981](https://github.com/CleverRaven/Cataclysm-DDA/pull/73981))
@@ -164,11 +169,6 @@
 
 * Gas forge recipe learned from fabrication books ([#73865](https://github.com/CleverRaven/Cataclysm-DDA/pull/73865))
 * Modded pseudo terrain fix ([#73901](https://github.com/CleverRaven/Cataclysm-DDA/pull/73901))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-19-0223 ([541f819](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-19-0223))
-
 * Backport #73820 ([#73896](https://github.com/CleverRaven/Cataclysm-DDA/pull/73896))
 * Obsolete MP18, OA-93, PLR 16, M231, and Mossberg Brownie ([#73862](https://github.com/CleverRaven/Cataclysm-DDA/pull/73862))
 * Backport #71425 ([#73898](https://github.com/CleverRaven/Cataclysm-DDA/pull/73898))

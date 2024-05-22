@@ -2,6 +2,8 @@
 * Fix some formatting in the document (#74001)
 * Backport #71328 (#73961)
 * Backport #72662 (#73962)
+
+Cataclysm-DDA 0.H release candidate 2024-05-22-2035 (4e39b75)
 * Backport #72615 (#73965)
 * Standardize tolerance messages (#73970)
 * Bug report issue template: some more detailed instructions (#73981)
@@ -98,8 +100,6 @@ Cataclysm-DDA 0.H release candidate 2024-05-19-0508 (f7b2fc9)
 Cataclysm-DDA experimental build 2024-05-19-0250 (f4a9554)
 * Gas forge recipe learned from fabrication books (#73865)
 * Modded pseudo terrain fix (#73901)
-
-Cataclysm-DDA 0.H release candidate 2024-05-19-0223 (541f819)
 * Backport #73820 (#73896)
 * Obsolete MP18, OA-93, PLR 16, M231, and Mossberg Brownie (#73862)
 * Backport #71425 (#73898)
