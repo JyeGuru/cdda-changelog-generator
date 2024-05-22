@@ -1,3 +1,7 @@
+* New issue dialogue: remove discussions, two more resources ([#73996](https://github.com/CleverRaven/Cataclysm-DDA/pull/73996))
+* remove guns from behindcounter ([#73997](https://github.com/CleverRaven/Cataclysm-DDA/pull/73997))
+* Added roof on airport ATC tower ([#74000](https://github.com/CleverRaven/Cataclysm-DDA/pull/74000))
+* Minor string and item category changes ([#74003](https://github.com/CleverRaven/Cataclysm-DDA/pull/74003))
 
 ---
 
@@ -168,7 +172,6 @@
 * [My Sweet Cataclysm] Fix the candy gator faction error ([#73895](https://github.com/CleverRaven/Cataclysm-DDA/pull/73895))
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
 * Backport #73818 with correct branch name and target ([#73863](https://github.com/CleverRaven/Cataclysm-DDA/pull/73863))
-* Update Flatpak manifest to use clang and include the default soundpack ([#73818](https://github.com/CleverRaven/Cataclysm-DDA/pull/73818))
 * Backport #72858 ([#73849](https://github.com/CleverRaven/Cataclysm-DDA/pull/73849))
 * Near-infinite loop fix for when crafter cannot continue (fixes #70530) ([#73820](https://github.com/CleverRaven/Cataclysm-DDA/pull/73820))
 * Backport #70843 ([#73878](https://github.com/CleverRaven/Cataclysm-DDA/pull/73878))
@@ -210,5 +213,3 @@
 * Backport #71333 ([#73840](https://github.com/CleverRaven/Cataclysm-DDA/pull/73840))
 * Backport #71338 ([#73841](https://github.com/CleverRaven/Cataclysm-DDA/pull/73841))
 * Gun without magic gun barrel ([#73844](https://github.com/CleverRaven/Cataclysm-DDA/pull/73844))
-* Load faults / fault_fixes with generic_factory ([#73816](https://github.com/CleverRaven/Cataclysm-DDA/pull/73816))
-* Better debug message on loading bad vehicle parts ([#73815](https://github.com/CleverRaven/Cataclysm-DDA/pull/73815))
