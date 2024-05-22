@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-22-2243 (9640195)
 * Update AppStream metadata to 0.G release (#73930)
 * Fix some formatting in the document (#74001)
 
@@ -86,8 +88,6 @@ Cataclysm-DDA experimental build 2024-05-19-2029 (b53b10a)
 Cataclysm-DDA 0.H release candidate 2024-05-19-1918 (e8f7249)
 * Backport #73901 (#73920)
 * Backport #71681 and #71846 and #71861 (#73921)
-
-Cataclysm-DDA 0.H release candidate 2024-05-19-1745 (92cb438)
 * Backport #70743 (#73927)
 * Changed XE batteries to use tool_magazine category. (#73928)
 * Finish removing wolves from the wilderness spawns (#73911)
