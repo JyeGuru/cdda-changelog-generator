@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-22-0335 ([5b4b49b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-0335))
+
 * Being mute prevents casting VERBAL spells ([#73982](https://github.com/CleverRaven/Cataclysm-DDA/pull/73982))
 
 ---
@@ -159,11 +164,6 @@
 #### Cataclysm-DDA experimental build 2024-05-19-0007 ([2a40c38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-19-0007))
 
 * explicit roofs on canteen 1 ([#73905](https://github.com/CleverRaven/Cataclysm-DDA/pull/73905))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-18-2101 ([de95c32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-18-2101))
-
 * [My Sweet Cataclysm] Fix the candy gator faction error ([#73895](https://github.com/CleverRaven/Cataclysm-DDA/pull/73895))
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
 * Backport #73818 with correct branch name and target ([#73863](https://github.com/CleverRaven/Cataclysm-DDA/pull/73863))
