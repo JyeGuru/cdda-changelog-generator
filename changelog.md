@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-23-1909 ([61addf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-23-1909))
+
+* Sane-ify in-vehicle movement size checks ([#74004](https://github.com/CleverRaven/Cataclysm-DDA/pull/74004))
+* Weekly Changelog 2024-05-13 to 2024-05-20 ([#73952](https://github.com/CleverRaven/Cataclysm-DDA/pull/73952))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-23-1642 ([3b3b739](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-23-1642))
 
 * Explicit roof on storehouse 1 ([#73998](https://github.com/CleverRaven/Cataclysm-DDA/pull/73998))
@@ -209,7 +216,5 @@
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
 * Backport #70875 ([#73851](https://github.com/CleverRaven/Cataclysm-DDA/pull/73851))
 * Backport #71304 ([#73847](https://github.com/CleverRaven/Cataclysm-DDA/pull/73847))
-* Backport #71157 ([#73839](https://github.com/CleverRaven/Cataclysm-DDA/pull/73839))
-* Backport #71333 ([#73840](https://github.com/CleverRaven/Cataclysm-DDA/pull/73840))
 * Backport #71338 ([#73841](https://github.com/CleverRaven/Cataclysm-DDA/pull/73841))
 * Gun without magic gun barrel ([#73844](https://github.com/CleverRaven/Cataclysm-DDA/pull/73844))
