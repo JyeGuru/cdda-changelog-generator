@@ -1,3 +1,11 @@
+* Explicit roof on storehouse 1 ([#73998](https://github.com/CleverRaven/Cataclysm-DDA/pull/73998))
+* Make Skunks Less Bloodthirsty ([#74010](https://github.com/CleverRaven/Cataclysm-DDA/pull/74010))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-23-1346 ([6b13a74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-23-1346))
+
+* [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
 
 ---
 
@@ -174,11 +182,6 @@
 * Obsolete MP18, OA-93, PLR 16, M231, and Mossberg Brownie ([#73862](https://github.com/CleverRaven/Cataclysm-DDA/pull/73862))
 * Backport #71425 ([#73898](https://github.com/CleverRaven/Cataclysm-DDA/pull/73898))
 * Minor house mapgen fixes ([#73904](https://github.com/CleverRaven/Cataclysm-DDA/pull/73904))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-19-0007 ([2a40c38](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-19-0007))
-
 * explicit roofs on canteen 1 ([#73905](https://github.com/CleverRaven/Cataclysm-DDA/pull/73905))
 * [My Sweet Cataclysm] Fix the candy gator faction error ([#73895](https://github.com/CleverRaven/Cataclysm-DDA/pull/73895))
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
@@ -206,9 +209,6 @@
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
 * Backport #70875 ([#73851](https://github.com/CleverRaven/Cataclysm-DDA/pull/73851))
 * Backport #71304 ([#73847](https://github.com/CleverRaven/Cataclysm-DDA/pull/73847))
-* Backport #71330 and #71573 ([#73836](https://github.com/CleverRaven/Cataclysm-DDA/pull/73836))
-* Backport #71351 ([#73837](https://github.com/CleverRaven/Cataclysm-DDA/pull/73837))
-* Backport #71382 ([#73838](https://github.com/CleverRaven/Cataclysm-DDA/pull/73838))
 * Backport #71157 ([#73839](https://github.com/CleverRaven/Cataclysm-DDA/pull/73839))
 * Backport #71333 ([#73840](https://github.com/CleverRaven/Cataclysm-DDA/pull/73840))
 * Backport #71338 ([#73841](https://github.com/CleverRaven/Cataclysm-DDA/pull/73841))
