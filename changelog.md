@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-23-0342 ([2d02175](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-23-0342))
+
+* Add new locations to Aftershock ([#73988](https://github.com/CleverRaven/Cataclysm-DDA/pull/73988))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-22-2243 ([9640195](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-2243))
 
 * Update AppStream metadata to 0.G release ([#73930](https://github.com/CleverRaven/Cataclysm-DDA/pull/73930))
@@ -147,11 +153,6 @@
 
 * Refix #52307 Enchanted Tailor's kit can repair parabolan wool ([#73917](https://github.com/CleverRaven/Cataclysm-DDA/pull/73917))
 * Added roofs to farm expansion 1 ([#73919](https://github.com/CleverRaven/Cataclysm-DDA/pull/73919))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-19-1918 ([e8f7249](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-19-1918))
-
 * Backport #73901 ([#73920](https://github.com/CleverRaven/Cataclysm-DDA/pull/73920))
 * Backport #71681 and #71846 and #71861 ([#73921](https://github.com/CleverRaven/Cataclysm-DDA/pull/73921))
 * Backport #70743 ([#73927](https://github.com/CleverRaven/Cataclysm-DDA/pull/73927))
@@ -205,7 +206,6 @@
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
 * Backport #70875 ([#73851](https://github.com/CleverRaven/Cataclysm-DDA/pull/73851))
 * Backport #71304 ([#73847](https://github.com/CleverRaven/Cataclysm-DDA/pull/73847))
-* Backport #71068 ([#73835](https://github.com/CleverRaven/Cataclysm-DDA/pull/73835))
 * Backport #71330 and #71573 ([#73836](https://github.com/CleverRaven/Cataclysm-DDA/pull/73836))
 * Backport #71351 ([#73837](https://github.com/CleverRaven/Cataclysm-DDA/pull/73837))
 * Backport #71382 ([#73838](https://github.com/CleverRaven/Cataclysm-DDA/pull/73838))
