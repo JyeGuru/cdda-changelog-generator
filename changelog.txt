@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-23-1642 (3b3b739)
 * Explicit roof on storehouse 1 (#73998)
 * Make Skunks Less Bloodthirsty (#74010)
 
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2024-05-19-2029 (b53b10a)
 * Backport #71428, #71432 and #71449 (#73900)
 * Fix eggplant disassembly (#73910)
 * Adds Holli to Triage Perms (#73914)
-
-Cataclysm-DDA experimental build 2024-05-19-0250 (f4a9554)
 * Gas forge recipe learned from fabrication books (#73865)
 * Modded pseudo terrain fix (#73901)
 * Backport #73820 (#73896)
