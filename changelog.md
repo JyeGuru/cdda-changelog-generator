@@ -1,3 +1,5 @@
+* added roof to A/C carrier ([#74019](https://github.com/CleverRaven/Cataclysm-DDA/pull/74019))
+* Explicit roofs on workshop version 2 expansion ([#74018](https://github.com/CleverRaven/Cataclysm-DDA/pull/74018))
 
 ---
 
@@ -216,5 +218,4 @@
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
 * Backport #70875 ([#73851](https://github.com/CleverRaven/Cataclysm-DDA/pull/73851))
 * Backport #71304 ([#73847](https://github.com/CleverRaven/Cataclysm-DDA/pull/73847))
-* Backport #71338 ([#73841](https://github.com/CleverRaven/Cataclysm-DDA/pull/73841))
 * Gun without magic gun barrel ([#73844](https://github.com/CleverRaven/Cataclysm-DDA/pull/73844))
