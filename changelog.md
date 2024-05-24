@@ -1,3 +1,4 @@
+* [MoM] Add Torrential Channeling, revamp Extended Channeling ([#74007](https://github.com/CleverRaven/Cataclysm-DDA/pull/74007))
 * Increase the size of the set of clothes pocket ([#73991](https://github.com/CleverRaven/Cataclysm-DDA/pull/73991))
 * Random NPCs have the same starting skills and proficiencies as the average new character ([#74013](https://github.com/CleverRaven/Cataclysm-DDA/pull/74013))
 * Added roofs to workshop 1 ([#74037](https://github.com/CleverRaven/Cataclysm-DDA/pull/74037))
@@ -217,5 +218,4 @@
 * Backport #70639 ([#73872](https://github.com/CleverRaven/Cataclysm-DDA/pull/73872))
 * Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
 * canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
-* Backport #70686 ([#73854](https://github.com/CleverRaven/Cataclysm-DDA/pull/73854))
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
