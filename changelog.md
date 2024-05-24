@@ -1,3 +1,11 @@
+* Tainted meat is no longer craftable ([#74034](https://github.com/CleverRaven/Cataclysm-DDA/pull/74034))
+* [Xedra Evolved] Make Paraclesian fae's magic easier in appropriate terrain ([#74027](https://github.com/CleverRaven/Cataclysm-DDA/pull/74027))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-24-1917 ([6b675ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-24-1917))
+
+* [MoM] Edit channeling formula to account for concentration proficiencies, clamp success chances ([#74024](https://github.com/CleverRaven/Cataclysm-DDA/pull/74024))
 
 ---
 
@@ -174,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-05-19-2346 ([258bb92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-19-2346))
 
 * Correct the crimes against dinosaurs ([#73939](https://github.com/CleverRaven/Cataclysm-DDA/pull/73939))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-19-2029 ([b53b10a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-19-2029))
-
 * Refix #52307 Enchanted Tailor's kit can repair parabolan wool ([#73917](https://github.com/CleverRaven/Cataclysm-DDA/pull/73917))
 * Added roofs to farm expansion 1 ([#73919](https://github.com/CleverRaven/Cataclysm-DDA/pull/73919))
 * Backport #73901 ([#73920](https://github.com/CleverRaven/Cataclysm-DDA/pull/73920))
@@ -201,7 +204,6 @@
 * [My Sweet Cataclysm] Fix the candy gator faction error ([#73895](https://github.com/CleverRaven/Cataclysm-DDA/pull/73895))
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
 * Backport #73818 with correct branch name and target ([#73863](https://github.com/CleverRaven/Cataclysm-DDA/pull/73863))
-* Backport #72858 ([#73849](https://github.com/CleverRaven/Cataclysm-DDA/pull/73849))
 * Backport #70843 ([#73878](https://github.com/CleverRaven/Cataclysm-DDA/pull/73878))
 * Wool staple recipe now needs 7 felt patches. ([#73884](https://github.com/CleverRaven/Cataclysm-DDA/pull/73884))
 * Just some minor JSON fixes I can't categorize properly ([#73887](https://github.com/CleverRaven/Cataclysm-DDA/pull/73887))
@@ -216,11 +218,9 @@
 * Backport #71103 ([#73873](https://github.com/CleverRaven/Cataclysm-DDA/pull/73873))
 * Backport #70639 ([#73872](https://github.com/CleverRaven/Cataclysm-DDA/pull/73872))
 * Backport #72843 ([#73853](https://github.com/CleverRaven/Cataclysm-DDA/pull/73853))
-* Backport #71352 ([#73848](https://github.com/CleverRaven/Cataclysm-DDA/pull/73848))
 * Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
 * canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
 * Backport #73104 ([#73852](https://github.com/CleverRaven/Cataclysm-DDA/pull/73852))
 * Backport #70686 ([#73854](https://github.com/CleverRaven/Cataclysm-DDA/pull/73854))
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
 * Backport #70875 ([#73851](https://github.com/CleverRaven/Cataclysm-DDA/pull/73851))
-* Backport #71304 ([#73847](https://github.com/CleverRaven/Cataclysm-DDA/pull/73847))
