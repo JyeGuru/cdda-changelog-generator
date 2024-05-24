@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-24-0508 ([de4ec39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-24-0508))
+
+* Add a crafting recipe for propane lanterns ([#73864](https://github.com/CleverRaven/Cataclysm-DDA/pull/73864))
 * added roof to A/C carrier ([#74019](https://github.com/CleverRaven/Cataclysm-DDA/pull/74019))
 * Explicit roofs on workshop version 2 expansion ([#74018](https://github.com/CleverRaven/Cataclysm-DDA/pull/74018))
 
@@ -218,4 +224,3 @@
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
 * Backport #70875 ([#73851](https://github.com/CleverRaven/Cataclysm-DDA/pull/73851))
 * Backport #71304 ([#73847](https://github.com/CleverRaven/Cataclysm-DDA/pull/73847))
-* Gun without magic gun barrel ([#73844](https://github.com/CleverRaven/Cataclysm-DDA/pull/73844))
