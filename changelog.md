@@ -1,3 +1,4 @@
+* Increase the size of the set of clothes pocket ([#73991](https://github.com/CleverRaven/Cataclysm-DDA/pull/73991))
 * Random NPCs have the same starting skills and proficiencies as the average new character ([#74013](https://github.com/CleverRaven/Cataclysm-DDA/pull/74013))
 * Added roofs to workshop 1 ([#74037](https://github.com/CleverRaven/Cataclysm-DDA/pull/74037))
 * Oops - remove cramped space when no longer cramped ([#74046](https://github.com/CleverRaven/Cataclysm-DDA/pull/74046))
@@ -214,7 +215,6 @@
 * Backport #73055 ([#73874](https://github.com/CleverRaven/Cataclysm-DDA/pull/73874))
 * Backport #71103 ([#73873](https://github.com/CleverRaven/Cataclysm-DDA/pull/73873))
 * Backport #70639 ([#73872](https://github.com/CleverRaven/Cataclysm-DDA/pull/73872))
-* Backport #72843 ([#73853](https://github.com/CleverRaven/Cataclysm-DDA/pull/73853))
 * Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
 * canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
 * Backport #70686 ([#73854](https://github.com/CleverRaven/Cataclysm-DDA/pull/73854))
