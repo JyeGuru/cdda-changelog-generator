@@ -1,3 +1,6 @@
+* Random NPCs have the same starting skills and proficiencies as the average new character ([#74013](https://github.com/CleverRaven/Cataclysm-DDA/pull/74013))
+* Added roofs to workshop 1 ([#74037](https://github.com/CleverRaven/Cataclysm-DDA/pull/74037))
+* Oops - remove cramped space when no longer cramped ([#74046](https://github.com/CleverRaven/Cataclysm-DDA/pull/74046))
 * Tainted meat is no longer craftable ([#74034](https://github.com/CleverRaven/Cataclysm-DDA/pull/74034))
 * [Xedra Evolved] Make Paraclesian fae's magic easier in appropriate terrain ([#74027](https://github.com/CleverRaven/Cataclysm-DDA/pull/74027))
 
@@ -93,12 +96,6 @@
 #### Cataclysm-DDA experimental build 2024-05-21-2232 ([5ad0c83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-2232))
 
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-21-2021 ([e932d80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-21-2021))
-
-* Backport #73689 ([#73850](https://github.com/CleverRaven/Cataclysm-DDA/pull/73850))
 * Add Snow Cones and Snow Machines ([#73916](https://github.com/CleverRaven/Cataclysm-DDA/pull/73916))
 
 ---
@@ -220,7 +217,5 @@
 * Backport #72843 ([#73853](https://github.com/CleverRaven/Cataclysm-DDA/pull/73853))
 * Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
 * canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
-* Backport #73104 ([#73852](https://github.com/CleverRaven/Cataclysm-DDA/pull/73852))
 * Backport #70686 ([#73854](https://github.com/CleverRaven/Cataclysm-DDA/pull/73854))
 * Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
-* Backport #70875 ([#73851](https://github.com/CleverRaven/Cataclysm-DDA/pull/73851))
