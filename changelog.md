@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-24-2252 ([755b6c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-24-2252))
+
 * [MoM] Add Torrential Channeling, revamp Extended Channeling ([#74007](https://github.com/CleverRaven/Cataclysm-DDA/pull/74007))
 * Increase the size of the set of clothes pocket ([#73991](https://github.com/CleverRaven/Cataclysm-DDA/pull/73991))
 * Random NPCs have the same starting skills and proficiencies as the average new character ([#74013](https://github.com/CleverRaven/Cataclysm-DDA/pull/74013))
@@ -175,11 +180,6 @@
 * Increase search radius for LIXA in Hub01 Mission ([#73925](https://github.com/CleverRaven/Cataclysm-DDA/pull/73925))
 * [Xedra] Give Homullus Equipment Durability Mutation with New Enchant ([#73918](https://github.com/CleverRaven/Cataclysm-DDA/pull/73918))
 * Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-19-2346 ([258bb92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-19-2346))
-
 * Correct the crimes against dinosaurs ([#73939](https://github.com/CleverRaven/Cataclysm-DDA/pull/73939))
 * Refix #52307 Enchanted Tailor's kit can repair parabolan wool ([#73917](https://github.com/CleverRaven/Cataclysm-DDA/pull/73917))
 * Added roofs to farm expansion 1 ([#73919](https://github.com/CleverRaven/Cataclysm-DDA/pull/73919))
