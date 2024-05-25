@@ -181,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-05-20-1708 ([42d9ede](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-20-1708))
 
 * Update documentation on petfood ([#73956](https://github.com/CleverRaven/Cataclysm-DDA/pull/73956))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-20-0558 ([b9293eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-20-0558))
-
 * Increase search radius for LIXA in Hub01 Mission ([#73925](https://github.com/CleverRaven/Cataclysm-DDA/pull/73925))
 * [Xedra] Give Homullus Equipment Durability Mutation with New Enchant ([#73918](https://github.com/CleverRaven/Cataclysm-DDA/pull/73918))
 * Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
