@@ -1,3 +1,6 @@
+* Replace Incorrect Bag Used in Map Xtra ([#74063](https://github.com/CleverRaven/Cataclysm-DDA/pull/74063))
+* Fix Concrete Pallet Smash Results ([#74064](https://github.com/CleverRaven/Cataclysm-DDA/pull/74064))
+* Aftershock: Basic Hacking EOCs ([#74066](https://github.com/CleverRaven/Cataclysm-DDA/pull/74066))
 * Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW ([#74083](https://github.com/CleverRaven/Cataclysm-DDA/pull/74083))
 * palette parameters + roof for saltworks ([#74071](https://github.com/CleverRaven/Cataclysm-DDA/pull/74071))
 
@@ -211,6 +214,3 @@
 * Backport #73525 ([#73882](https://github.com/CleverRaven/Cataclysm-DDA/pull/73882))
 * Backport #70696 ([#73877](https://github.com/CleverRaven/Cataclysm-DDA/pull/73877))
 * Backport #70660 and #70687 ([#73876](https://github.com/CleverRaven/Cataclysm-DDA/pull/73876))
-* Backport #73127 ([#73875](https://github.com/CleverRaven/Cataclysm-DDA/pull/73875))
-* Backport #73055 ([#73874](https://github.com/CleverRaven/Cataclysm-DDA/pull/73874))
-* Backport #71103 ([#73873](https://github.com/CleverRaven/Cataclysm-DDA/pull/73873))

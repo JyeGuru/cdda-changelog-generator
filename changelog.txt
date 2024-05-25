@@ -1,3 +1,6 @@
+* Replace Incorrect Bag Used in Map Xtra (#74063)
+* Fix Concrete Pallet Smash Results (#74064)
+* Aftershock: Basic Hacking EOCs (#74066)
 * Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW (#74083)
 * palette parameters + roof for saltworks (#74071)
 
@@ -139,6 +142,3 @@ Cataclysm-DDA experimental build 2024-05-21-0335 (e8905f8)
 * Backport #73525 (#73882)
 * Backport #70696 (#73877)
 * Backport #70660 and #70687 (#73876)
-* Backport #73127 (#73875)
-* Backport #73055 (#73874)
-* Backport #71103 (#73873)
