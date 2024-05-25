@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-25-0134 ([22d851b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-25-0134))
+
 * [CR] Should prevent cheese with old guard doctor ([#73989](https://github.com/CleverRaven/Cataclysm-DDA/pull/73989))
 * [MoM] Increase Farstep range ([#74050](https://github.com/CleverRaven/Cataclysm-DDA/pull/74050))
 * [DinoMod] camp hunting rebalance ([#74020](https://github.com/CleverRaven/Cataclysm-DDA/pull/74020))

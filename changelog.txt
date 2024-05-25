@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-25-0134 (22d851b)
 * [CR] Should prevent cheese with old guard doctor (#73989)
 * [MoM] Increase Farstep range (#74050)
 * [DinoMod] camp hunting rebalance (#74020)
