@@ -1,3 +1,7 @@
+* Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW (#74083)
+* palette parameters + roof for saltworks (#74071)
+
+Cataclysm-DDA experimental build 2024-05-25-2118 (4c6b918)
 * Typify: Removed one getlocal (#73940)
 
 Cataclysm-DDA experimental build 2024-05-25-1810 (76300ac)
@@ -138,5 +142,3 @@ Cataclysm-DDA experimental build 2024-05-21-0335 (e8905f8)
 * Backport #73127 (#73875)
 * Backport #73055 (#73874)
 * Backport #71103 (#73873)
-* Backport #70639 (#73872)
-* canteen 2 roofed (#73870)

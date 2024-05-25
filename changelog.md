@@ -1,3 +1,10 @@
+* Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW ([#74083](https://github.com/CleverRaven/Cataclysm-DDA/pull/74083))
+* palette parameters + roof for saltworks ([#74071](https://github.com/CleverRaven/Cataclysm-DDA/pull/74071))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-25-2118 ([4c6b918](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-25-2118))
+
 * Typify: Removed one getlocal ([#73940](https://github.com/CleverRaven/Cataclysm-DDA/pull/73940))
 
 ---
@@ -207,5 +214,3 @@
 * Backport #73127 ([#73875](https://github.com/CleverRaven/Cataclysm-DDA/pull/73875))
 * Backport #73055 ([#73874](https://github.com/CleverRaven/Cataclysm-DDA/pull/73874))
 * Backport #71103 ([#73873](https://github.com/CleverRaven/Cataclysm-DDA/pull/73873))
-* Backport #70639 ([#73872](https://github.com/CleverRaven/Cataclysm-DDA/pull/73872))
-* canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
