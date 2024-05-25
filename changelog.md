@@ -31,12 +31,6 @@
 #### Cataclysm-DDA experimental build 2024-05-24-1917 ([6b675ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-24-1917))
 
 * [MoM] Edit channeling formula to account for concentration proficiencies, clamp success chances ([#74024](https://github.com/CleverRaven/Cataclysm-DDA/pull/74024))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-24-0508 ([de4ec39](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-24-0508))
-
-* Add a crafting recipe for propane lanterns ([#73864](https://github.com/CleverRaven/Cataclysm-DDA/pull/73864))
 * added roof to A/C carrier ([#74019](https://github.com/CleverRaven/Cataclysm-DDA/pull/74019))
 * Explicit roofs on workshop version 2 expansion ([#74018](https://github.com/CleverRaven/Cataclysm-DDA/pull/74018))
 
