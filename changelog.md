@@ -1,3 +1,7 @@
+* [CR] Should prevent cheese with old guard doctor ([#73989](https://github.com/CleverRaven/Cataclysm-DDA/pull/73989))
+* [MoM] Increase Farstep range ([#74050](https://github.com/CleverRaven/Cataclysm-DDA/pull/74050))
+* [DinoMod] camp hunting rebalance ([#74020](https://github.com/CleverRaven/Cataclysm-DDA/pull/74020))
+* Butterfly nets ([#74049](https://github.com/CleverRaven/Cataclysm-DDA/pull/74049))
 
 ---
 
@@ -216,6 +220,4 @@
 * Backport #73055 ([#73874](https://github.com/CleverRaven/Cataclysm-DDA/pull/73874))
 * Backport #71103 ([#73873](https://github.com/CleverRaven/Cataclysm-DDA/pull/73873))
 * Backport #70639 ([#73872](https://github.com/CleverRaven/Cataclysm-DDA/pull/73872))
-* Retain non-solid contents when installing vehicle parts ([#73860](https://github.com/CleverRaven/Cataclysm-DDA/pull/73860))
 * canteen 2 roofed ([#73870](https://github.com/CleverRaven/Cataclysm-DDA/pull/73870))
-* Backport #72759 and #73703 ([#73856](https://github.com/CleverRaven/Cataclysm-DDA/pull/73856))
