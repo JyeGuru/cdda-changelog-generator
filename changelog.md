@@ -1,3 +1,4 @@
+* Typify: Removed one getlocal ([#73940](https://github.com/CleverRaven/Cataclysm-DDA/pull/73940))
 
 ---
 
@@ -187,7 +188,6 @@
 * Backport #71428, #71432 and #71449 ([#73900](https://github.com/CleverRaven/Cataclysm-DDA/pull/73900))
 * Fix eggplant disassembly ([#73910](https://github.com/CleverRaven/Cataclysm-DDA/pull/73910))
 * Adds Holli to Triage Perms ([#73914](https://github.com/CleverRaven/Cataclysm-DDA/pull/73914))
-* Gas forge recipe learned from fabrication books ([#73865](https://github.com/CleverRaven/Cataclysm-DDA/pull/73865))
 * Modded pseudo terrain fix ([#73901](https://github.com/CleverRaven/Cataclysm-DDA/pull/73901))
 * Backport #73820 ([#73896](https://github.com/CleverRaven/Cataclysm-DDA/pull/73896))
 * Backport #71425 ([#73898](https://github.com/CleverRaven/Cataclysm-DDA/pull/73898))
