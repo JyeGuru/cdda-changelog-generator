@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-26-2249 ([dba2d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-26-2249))
+
 * Backport #72892 ([#74048](https://github.com/CleverRaven/Cataclysm-DDA/pull/74048))
 * Backport #72608 ([#74047](https://github.com/CleverRaven/Cataclysm-DDA/pull/74047))
 * Backport #70799 and #72684 ([#74042](https://github.com/CleverRaven/Cataclysm-DDA/pull/74042))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-05-21-1959 ([0ff35f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-1959))
 
 * Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) ([#73958](https://github.com/CleverRaven/Cataclysm-DDA/pull/73958))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-21-1724 ([8e6eac5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-1724))
-
 * Bark (inherit upgrades & fix missability) ([#73944](https://github.com/CleverRaven/Cataclysm-DDA/pull/73944))
 * Add size prefixes to some items ([#73953](https://github.com/CleverRaven/Cataclysm-DDA/pull/73953))
 * Backport #71410 ([#73969](https://github.com/CleverRaven/Cataclysm-DDA/pull/73969))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.H release candidate 2024-05-26-2249 (dba2d3f)
 * Backport #72892 (#74048)
 * Backport #72608 (#74047)
 * Backport #70799 and #72684 (#74042)
@@ -116,8 +118,6 @@ Cataclysm-DDA experimental build 2024-05-21-2232 (5ad0c83)
 
 Cataclysm-DDA experimental build 2024-05-21-1959 (0ff35f8)
 * Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) (#73958)
-
-Cataclysm-DDA experimental build 2024-05-21-1724 (8e6eac5)
 * Bark (inherit upgrades & fix missability) (#73944)
 * Add size prefixes to some items (#73953)
 * Backport #71410 (#73969)
