@@ -1,3 +1,4 @@
+* [Xedra Evolved] Make Paraclesian fae's magic harder in some circumstances ([#74029](https://github.com/CleverRaven/Cataclysm-DDA/pull/74029))
 * Jewelry addition ([#74033](https://github.com/CleverRaven/Cataclysm-DDA/pull/74033))
 * Remove extraneous 0 from 38 requirement comment ([#74091](https://github.com/CleverRaven/Cataclysm-DDA/pull/74091))
 * Primitive tailoring fixes ([#74056](https://github.com/CleverRaven/Cataclysm-DDA/pull/74056))
@@ -215,7 +216,6 @@
 * Fix eggplant disassembly ([#73910](https://github.com/CleverRaven/Cataclysm-DDA/pull/73910))
 * Adds Holli to Triage Perms ([#73914](https://github.com/CleverRaven/Cataclysm-DDA/pull/73914))
 * Modded pseudo terrain fix ([#73901](https://github.com/CleverRaven/Cataclysm-DDA/pull/73901))
-* Backport #71425 ([#73898](https://github.com/CleverRaven/Cataclysm-DDA/pull/73898))
 * Minor house mapgen fixes ([#73904](https://github.com/CleverRaven/Cataclysm-DDA/pull/73904))
 * explicit roofs on canteen 1 ([#73905](https://github.com/CleverRaven/Cataclysm-DDA/pull/73905))
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
