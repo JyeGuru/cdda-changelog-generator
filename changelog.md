@@ -1,3 +1,6 @@
+* Jesse fix ([#74082](https://github.com/CleverRaven/Cataclysm-DDA/pull/74082))
+* Made campus levels consistent ([#74076](https://github.com/CleverRaven/Cataclysm-DDA/pull/74076))
+* [Innawoods] Makes portable soldering iron craftable ([#74092](https://github.com/CleverRaven/Cataclysm-DDA/pull/74092))
 * Bugfix cats_grace scaling ([#74062](https://github.com/CleverRaven/Cataclysm-DDA/pull/74062))
 
 ---
@@ -207,10 +210,7 @@
 * explicit roofs on canteen 1 ([#73905](https://github.com/CleverRaven/Cataclysm-DDA/pull/73905))
 * [My Sweet Cataclysm] Fix the candy gator faction error ([#73895](https://github.com/CleverRaven/Cataclysm-DDA/pull/73895))
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
-* Backport #70843 ([#73878](https://github.com/CleverRaven/Cataclysm-DDA/pull/73878))
 * Wool staple recipe now needs 7 felt patches. ([#73884](https://github.com/CleverRaven/Cataclysm-DDA/pull/73884))
 * Just some minor JSON fixes I can't categorize properly ([#73887](https://github.com/CleverRaven/Cataclysm-DDA/pull/73887))
 * Routine i18n updates on 18 May 2024 ([#73892](https://github.com/CleverRaven/Cataclysm-DDA/pull/73892))
-* Backport #70868 ([#73880](https://github.com/CleverRaven/Cataclysm-DDA/pull/73880))
 * Backport #72780 ([#73883](https://github.com/CleverRaven/Cataclysm-DDA/pull/73883))
-* Backport #73525 ([#73882](https://github.com/CleverRaven/Cataclysm-DDA/pull/73882))
