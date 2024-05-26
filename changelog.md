@@ -1,3 +1,4 @@
+* fix #73907   Stop Flip Flopping mutations in Alpha stomach chain ([#74022](https://github.com/CleverRaven/Cataclysm-DDA/pull/74022))
 * Routine i18n updates on 25 May 2024 ([#74060](https://github.com/CleverRaven/Cataclysm-DDA/pull/74060))
 * fix: Triple-Pane glass window components added wood material ([#74100](https://github.com/CleverRaven/Cataclysm-DDA/pull/74100))
 * [Xedra Evolved] Make Paraclesian fae's magic harder in some circumstances ([#74029](https://github.com/CleverRaven/Cataclysm-DDA/pull/74029))
@@ -215,7 +216,6 @@
 * Finish removing wolves from the wilderness spawns ([#73911](https://github.com/CleverRaven/Cataclysm-DDA/pull/73911))
 * Fix eggplant disassembly ([#73910](https://github.com/CleverRaven/Cataclysm-DDA/pull/73910))
 * Adds Holli to Triage Perms ([#73914](https://github.com/CleverRaven/Cataclysm-DDA/pull/73914))
-* Modded pseudo terrain fix ([#73901](https://github.com/CleverRaven/Cataclysm-DDA/pull/73901))
 * Minor house mapgen fixes ([#73904](https://github.com/CleverRaven/Cataclysm-DDA/pull/73904))
 * explicit roofs on canteen 1 ([#73905](https://github.com/CleverRaven/Cataclysm-DDA/pull/73905))
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
