@@ -1,3 +1,10 @@
+* Fixed construction marker ([#74104](https://github.com/CleverRaven/Cataclysm-DDA/pull/74104))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-26-2348 ([dae1cf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-2348))
+
+* Paying for my hubris ([#74106](https://github.com/CleverRaven/Cataclysm-DDA/pull/74106))
 
 ---
 
@@ -186,12 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-05-21-2232 ([5ad0c83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-2232))
 
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
-* Add Snow Cones and Snow Machines ([#73916](https://github.com/CleverRaven/Cataclysm-DDA/pull/73916))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-21-1959 ([0ff35f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-1959))
-
 * Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) ([#73958](https://github.com/CleverRaven/Cataclysm-DDA/pull/73958))
 * Bark (inherit upgrades & fix missability) ([#73944](https://github.com/CleverRaven/Cataclysm-DDA/pull/73944))
 * Add size prefixes to some items ([#73953](https://github.com/CleverRaven/Cataclysm-DDA/pull/73953))
@@ -214,7 +215,6 @@
 * [Xedra] Give Homullus Equipment Durability Mutation with New Enchant ([#73918](https://github.com/CleverRaven/Cataclysm-DDA/pull/73918))
 * Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
 * Correct the crimes against dinosaurs ([#73939](https://github.com/CleverRaven/Cataclysm-DDA/pull/73939))
-* Refix #52307 Enchanted Tailor's kit can repair parabolan wool ([#73917](https://github.com/CleverRaven/Cataclysm-DDA/pull/73917))
 * Added roofs to farm expansion 1 ([#73919](https://github.com/CleverRaven/Cataclysm-DDA/pull/73919))
 * Backport #73901 ([#73920](https://github.com/CleverRaven/Cataclysm-DDA/pull/73920))
 * Backport #71681 and #71846 and #71861 ([#73921](https://github.com/CleverRaven/Cataclysm-DDA/pull/73921))
