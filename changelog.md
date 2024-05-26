@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-26-1953 ([cd60b6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-1953))
+
 * fix #73907   Stop Flip Flopping mutations in Alpha stomach chain ([#74022](https://github.com/CleverRaven/Cataclysm-DDA/pull/74022))
 * Routine i18n updates on 25 May 2024 ([#74060](https://github.com/CleverRaven/Cataclysm-DDA/pull/74060))
 * fix: Triple-Pane glass window components added wood material ([#74100](https://github.com/CleverRaven/Cataclysm-DDA/pull/74100))
@@ -194,11 +199,6 @@
 * Flagify muting ([#73979](https://github.com/CleverRaven/Cataclysm-DDA/pull/73979))
 * Backport #70831 ([#73971](https://github.com/CleverRaven/Cataclysm-DDA/pull/73971))
 * Backport #70938 ([#73975](https://github.com/CleverRaven/Cataclysm-DDA/pull/73975))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-21-0335 ([e8905f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-0335))
-
 * Explicit roof on garage version 2 ([#73957](https://github.com/CleverRaven/Cataclysm-DDA/pull/73957))
 * [MoM] Zombie looks-like + slightly reduce skyscraper lab break area spawns ([#73942](https://github.com/CleverRaven/Cataclysm-DDA/pull/73942))
 * Updated MAGIC.md ([#73954](https://github.com/CleverRaven/Cataclysm-DDA/pull/73954))
