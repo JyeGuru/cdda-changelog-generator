@@ -1,3 +1,15 @@
+* Jewelry addition ([#74033](https://github.com/CleverRaven/Cataclysm-DDA/pull/74033))
+* Remove extraneous 0 from 38 requirement comment ([#74091](https://github.com/CleverRaven/Cataclysm-DDA/pull/74091))
+* Primitive tailoring fixes ([#74056](https://github.com/CleverRaven/Cataclysm-DDA/pull/74056))
+* Correctly display the cost to learn the proficiency ([#74075](https://github.com/CleverRaven/Cataclysm-DDA/pull/74075))
+* Civilianize the SIG 553 ([#74085](https://github.com/CleverRaven/Cataclysm-DDA/pull/74085))
+* Rename "shotgun hull" ([#74087](https://github.com/CleverRaven/Cataclysm-DDA/pull/74087))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-26-1406 ([6fbaf6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-26-1406))
+
+* Backport #70359 and #71065 ([#74036](https://github.com/CleverRaven/Cataclysm-DDA/pull/74036))
 
 ---
 
@@ -157,11 +169,6 @@
 
 * Bark (inherit upgrades & fix missability) ([#73944](https://github.com/CleverRaven/Cataclysm-DDA/pull/73944))
 * Add size prefixes to some items ([#73953](https://github.com/CleverRaven/Cataclysm-DDA/pull/73953))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-21-1640 ([f1c59fb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-21-1640))
-
 * Backport #71410 ([#73969](https://github.com/CleverRaven/Cataclysm-DDA/pull/73969))
 * Ski mask is now a tube scarf ([#73941](https://github.com/CleverRaven/Cataclysm-DDA/pull/73941))
 * Backport #72154 ([#73963](https://github.com/CleverRaven/Cataclysm-DDA/pull/73963))
@@ -198,19 +205,12 @@
 * Backport #70743 ([#73927](https://github.com/CleverRaven/Cataclysm-DDA/pull/73927))
 * Changed XE batteries to use tool_magazine category. ([#73928](https://github.com/CleverRaven/Cataclysm-DDA/pull/73928))
 * Finish removing wolves from the wilderness spawns ([#73911](https://github.com/CleverRaven/Cataclysm-DDA/pull/73911))
-* Backport #72225 ([#73897](https://github.com/CleverRaven/Cataclysm-DDA/pull/73897))
 * Backport #71380 ([#73899](https://github.com/CleverRaven/Cataclysm-DDA/pull/73899))
 * Backport #71428, #71432 and #71449 ([#73900](https://github.com/CleverRaven/Cataclysm-DDA/pull/73900))
 * Fix eggplant disassembly ([#73910](https://github.com/CleverRaven/Cataclysm-DDA/pull/73910))
 * Adds Holli to Triage Perms ([#73914](https://github.com/CleverRaven/Cataclysm-DDA/pull/73914))
 * Modded pseudo terrain fix ([#73901](https://github.com/CleverRaven/Cataclysm-DDA/pull/73901))
-* Backport #73820 ([#73896](https://github.com/CleverRaven/Cataclysm-DDA/pull/73896))
 * Backport #71425 ([#73898](https://github.com/CleverRaven/Cataclysm-DDA/pull/73898))
 * Minor house mapgen fixes ([#73904](https://github.com/CleverRaven/Cataclysm-DDA/pull/73904))
 * explicit roofs on canteen 1 ([#73905](https://github.com/CleverRaven/Cataclysm-DDA/pull/73905))
-* [My Sweet Cataclysm] Fix the candy gator faction error ([#73895](https://github.com/CleverRaven/Cataclysm-DDA/pull/73895))
 * Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
-* Wool staple recipe now needs 7 felt patches. ([#73884](https://github.com/CleverRaven/Cataclysm-DDA/pull/73884))
-* Just some minor JSON fixes I can't categorize properly ([#73887](https://github.com/CleverRaven/Cataclysm-DDA/pull/73887))
-* Routine i18n updates on 18 May 2024 ([#73892](https://github.com/CleverRaven/Cataclysm-DDA/pull/73892))
-* Backport #72780 ([#73883](https://github.com/CleverRaven/Cataclysm-DDA/pull/73883))
