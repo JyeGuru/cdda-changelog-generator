@@ -1,3 +1,10 @@
+* Backport #73917 ([#74039](https://github.com/CleverRaven/Cataclysm-DDA/pull/74039))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-26-2111 ([ec3e4c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-26-2111))
+
+* Backport #73930 ([#74038](https://github.com/CleverRaven/Cataclysm-DDA/pull/74038))
 
 ---
 
@@ -191,11 +198,6 @@
 * Backport #70755 ([#73968](https://github.com/CleverRaven/Cataclysm-DDA/pull/73968))
 * Backport #70957 ([#73972](https://github.com/CleverRaven/Cataclysm-DDA/pull/73972))
 * Backport #72064 ([#73974](https://github.com/CleverRaven/Cataclysm-DDA/pull/73974))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-21-1452 ([cecf66d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-1452))
-
 * Flagify muting ([#73979](https://github.com/CleverRaven/Cataclysm-DDA/pull/73979))
 * Backport #70831 ([#73971](https://github.com/CleverRaven/Cataclysm-DDA/pull/73971))
 * Backport #70938 ([#73975](https://github.com/CleverRaven/Cataclysm-DDA/pull/73975))
@@ -216,6 +218,4 @@
 * Finish removing wolves from the wilderness spawns ([#73911](https://github.com/CleverRaven/Cataclysm-DDA/pull/73911))
 * Fix eggplant disassembly ([#73910](https://github.com/CleverRaven/Cataclysm-DDA/pull/73910))
 * Adds Holli to Triage Perms ([#73914](https://github.com/CleverRaven/Cataclysm-DDA/pull/73914))
-* Minor house mapgen fixes ([#73904](https://github.com/CleverRaven/Cataclysm-DDA/pull/73904))
 * explicit roofs on canteen 1 ([#73905](https://github.com/CleverRaven/Cataclysm-DDA/pull/73905))
-* Fix a typo in consumption.cpp ([#73902](https://github.com/CleverRaven/Cataclysm-DDA/pull/73902))
