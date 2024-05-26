@@ -1,3 +1,8 @@
+* Backport #72892 ([#74048](https://github.com/CleverRaven/Cataclysm-DDA/pull/74048))
+* Backport #72608 ([#74047](https://github.com/CleverRaven/Cataclysm-DDA/pull/74047))
+* Backport #70799 and #72684 ([#74042](https://github.com/CleverRaven/Cataclysm-DDA/pull/74042))
+* Backport #70705 and #72574 ([#74041](https://github.com/CleverRaven/Cataclysm-DDA/pull/74041))
+* Backport #73599 ([#74040](https://github.com/CleverRaven/Cataclysm-DDA/pull/74040))
 * Backport #73917 ([#74039](https://github.com/CleverRaven/Cataclysm-DDA/pull/74039))
 
 ---
@@ -215,7 +220,3 @@
 * Backport #71681 and #71846 and #71861 ([#73921](https://github.com/CleverRaven/Cataclysm-DDA/pull/73921))
 * Backport #70743 ([#73927](https://github.com/CleverRaven/Cataclysm-DDA/pull/73927))
 * Changed XE batteries to use tool_magazine category. ([#73928](https://github.com/CleverRaven/Cataclysm-DDA/pull/73928))
-* Finish removing wolves from the wilderness spawns ([#73911](https://github.com/CleverRaven/Cataclysm-DDA/pull/73911))
-* Fix eggplant disassembly ([#73910](https://github.com/CleverRaven/Cataclysm-DDA/pull/73910))
-* Adds Holli to Triage Perms ([#73914](https://github.com/CleverRaven/Cataclysm-DDA/pull/73914))
-* explicit roofs on canteen 1 ([#73905](https://github.com/CleverRaven/Cataclysm-DDA/pull/73905))
