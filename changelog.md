@@ -1,3 +1,10 @@
+* Bugfix cats_grace scaling ([#74062](https://github.com/CleverRaven/Cataclysm-DDA/pull/74062))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-26-0459 ([5018e34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-0459))
+
+* teensy variable ordering fix ([#74095](https://github.com/CleverRaven/Cataclysm-DDA/pull/74095))
 
 ---
 
@@ -166,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2024-05-21-1452 ([cecf66d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-1452))
 
 * Flagify muting ([#73979](https://github.com/CleverRaven/Cataclysm-DDA/pull/73979))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-21-0741 ([684e582](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-21-0741))
-
 * Backport #70831 ([#73971](https://github.com/CleverRaven/Cataclysm-DDA/pull/73971))
 * Backport #70938 ([#73975](https://github.com/CleverRaven/Cataclysm-DDA/pull/73975))
 
@@ -212,5 +214,3 @@
 * Backport #70868 ([#73880](https://github.com/CleverRaven/Cataclysm-DDA/pull/73880))
 * Backport #72780 ([#73883](https://github.com/CleverRaven/Cataclysm-DDA/pull/73883))
 * Backport #73525 ([#73882](https://github.com/CleverRaven/Cataclysm-DDA/pull/73882))
-* Backport #70696 ([#73877](https://github.com/CleverRaven/Cataclysm-DDA/pull/73877))
-* Backport #70660 and #70687 ([#73876](https://github.com/CleverRaven/Cataclysm-DDA/pull/73876))
