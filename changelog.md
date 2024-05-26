@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-26-0728 ([b03cb4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-0728))
+
 * Jesse fix ([#74082](https://github.com/CleverRaven/Cataclysm-DDA/pull/74082))
 * Made campus levels consistent ([#74076](https://github.com/CleverRaven/Cataclysm-DDA/pull/74076))
 * [Innawoods] Makes portable soldering iron craftable ([#74092](https://github.com/CleverRaven/Cataclysm-DDA/pull/74092))
@@ -164,11 +169,6 @@
 * Backport #72515 ([#73966](https://github.com/CleverRaven/Cataclysm-DDA/pull/73966))
 * Backport #70755 ([#73968](https://github.com/CleverRaven/Cataclysm-DDA/pull/73968))
 * Backport #70957 ([#73972](https://github.com/CleverRaven/Cataclysm-DDA/pull/73972))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-21-1515 ([3c75de2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-21-1515))
-
 * Backport #72064 ([#73974](https://github.com/CleverRaven/Cataclysm-DDA/pull/73974))
 
 ---
