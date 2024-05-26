@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-25-2359 (6a57dbd)
 * Replace Incorrect Bag Used in Map Xtra (#74063)
 * Fix Concrete Pallet Smash Results (#74064)
 * Aftershock: Basic Hacking EOCs (#74066)
@@ -101,8 +103,6 @@ Cataclysm-DDA experimental build 2024-05-21-1452 (cecf66d)
 
 Cataclysm-DDA 0.H release candidate 2024-05-21-0741 (684e582)
 * Backport #70831 (#73971)
-
-Cataclysm-DDA 0.H release candidate 2024-05-21-0655 (c7bc00d)
 * Backport #70938 (#73975)
 
 Cataclysm-DDA experimental build 2024-05-21-0335 (e8905f8)

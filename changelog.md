@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-25-2359 ([6a57dbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-25-2359))
+
 * Replace Incorrect Bag Used in Map Xtra ([#74063](https://github.com/CleverRaven/Cataclysm-DDA/pull/74063))
 * Fix Concrete Pallet Smash Results ([#74064](https://github.com/CleverRaven/Cataclysm-DDA/pull/74064))
 * Aftershock: Basic Hacking EOCs ([#74066](https://github.com/CleverRaven/Cataclysm-DDA/pull/74066))
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-05-21-0741 ([684e582](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-21-0741))
 
 * Backport #70831 ([#73971](https://github.com/CleverRaven/Cataclysm-DDA/pull/73971))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-21-0655 ([c7bc00d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-21-0655))
-
 * Backport #70938 ([#73975](https://github.com/CleverRaven/Cataclysm-DDA/pull/73975))
 
 ---
