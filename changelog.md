@@ -3,6 +3,11 @@
 * Primitive tailoring fixes ([#74056](https://github.com/CleverRaven/Cataclysm-DDA/pull/74056))
 * Correctly display the cost to learn the proficiency ([#74075](https://github.com/CleverRaven/Cataclysm-DDA/pull/74075))
 * Civilianize the SIG 553 ([#74085](https://github.com/CleverRaven/Cataclysm-DDA/pull/74085))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-26-1437 ([01a074d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-1437))
+
 * Rename "shotgun hull" ([#74087](https://github.com/CleverRaven/Cataclysm-DDA/pull/74087))
 
 ---
