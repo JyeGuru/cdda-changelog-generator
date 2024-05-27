@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-27-1600 ([2c68074](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-1600))
+
 * Add Weighted Blankets and Blanket Variants/Snippets ([#74051](https://github.com/CleverRaven/Cataclysm-DDA/pull/74051))
 * No smithy in a box. ([#74120](https://github.com/CleverRaven/Cataclysm-DDA/pull/74120))
 * godco predatory trader shouldn't be a random spawn ([#74121](https://github.com/CleverRaven/Cataclysm-DDA/pull/74121))
