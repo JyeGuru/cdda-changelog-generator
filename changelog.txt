@@ -1,3 +1,6 @@
+* godco predatory trader shouldn't be a random spawn (#74121)
+* Improve gun variant validator script (#74127)
+* Added roof + chimney to pottery cottage (#74133)
 * Remove special casing test for Alpha and increase vitamin max/thresbreach (#74101)
 
 Cataclysm-DDA experimental build 2024-05-27-1329 (d12ebbc)
@@ -66,9 +69,6 @@ Cataclysm-DDA experimental build 2024-05-25-2359 (6a57dbd)
 * Aftershock: Basic Hacking EOCs (#74066)
 * Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW (#74083)
 * palette parameters + roof for saltworks (#74071)
-
-Cataclysm-DDA experimental build 2024-05-25-2118 (4c6b918)
-* Typify: Removed one getlocal (#73940)
 
 Cataclysm-DDA experimental build 2024-05-25-1810 (76300ac)
 * Food continues to rot at temp above 63C (#74058)
@@ -141,5 +141,3 @@ Cataclysm-DDA experimental build 2024-05-23-0342 (2d02175)
 * [MoM] Zombie looks-like + slightly reduce skyscraper lab break area spawns (#73942)
 * Updated MAGIC.md (#73954)
 * Update documentation on petfood (#73956)
-* Correct Pile of Leaves Desconstruct/Bash (#73937)
-* Correct the crimes against dinosaurs (#73939)

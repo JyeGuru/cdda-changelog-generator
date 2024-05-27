@@ -1,3 +1,6 @@
+* godco predatory trader shouldn't be a random spawn ([#74121](https://github.com/CleverRaven/Cataclysm-DDA/pull/74121))
+* Improve gun variant validator script ([#74127](https://github.com/CleverRaven/Cataclysm-DDA/pull/74127))
+* Added roof + chimney to pottery cottage ([#74133](https://github.com/CleverRaven/Cataclysm-DDA/pull/74133))
 * Remove special casing test for Alpha and increase vitamin max/thresbreach ([#74101](https://github.com/CleverRaven/Cataclysm-DDA/pull/74101))
 
 ---
@@ -114,12 +117,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-05-25-2118 ([4c6b918](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-25-2118))
-
-* Typify: Removed one getlocal ([#73940](https://github.com/CleverRaven/Cataclysm-DDA/pull/73940))
-
----
-
 #### Cataclysm-DDA experimental build 2024-05-25-1810 ([76300ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-25-1810))
 
 * Food continues to rot at temp above 63C ([#74058](https://github.com/CleverRaven/Cataclysm-DDA/pull/74058))
@@ -213,5 +210,3 @@
 * [MoM] Zombie looks-like + slightly reduce skyscraper lab break area spawns ([#73942](https://github.com/CleverRaven/Cataclysm-DDA/pull/73942))
 * Updated MAGIC.md ([#73954](https://github.com/CleverRaven/Cataclysm-DDA/pull/73954))
 * Update documentation on petfood ([#73956](https://github.com/CleverRaven/Cataclysm-DDA/pull/73956))
-* Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
-* Correct the crimes against dinosaurs ([#73939](https://github.com/CleverRaven/Cataclysm-DDA/pull/73939))
