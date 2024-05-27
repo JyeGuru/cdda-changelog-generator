@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.H release candidate 2024-05-27-0215 ([a2de40b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-27-0215))
 
 * Backport #70945 and #71001 ([#73960](https://github.com/CleverRaven/Cataclysm-DDA/pull/73960))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-27-0300 ([0e9a8b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-0300))
+
 * Fixed construction marker ([#74104](https://github.com/CleverRaven/Cataclysm-DDA/pull/74104))
 
 ---
@@ -160,11 +165,6 @@
 
 * Backport #71328 ([#73961](https://github.com/CleverRaven/Cataclysm-DDA/pull/73961))
 * Backport #72662 ([#73962](https://github.com/CleverRaven/Cataclysm-DDA/pull/73962))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-22-2035 ([4e39b75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-22-2035))
-
 * Backport #72615 ([#73965](https://github.com/CleverRaven/Cataclysm-DDA/pull/73965))
 * Standardize tolerance messages ([#73970](https://github.com/CleverRaven/Cataclysm-DDA/pull/73970))
 * Bug report issue template: some more detailed instructions ([#73981](https://github.com/CleverRaven/Cataclysm-DDA/pull/73981))

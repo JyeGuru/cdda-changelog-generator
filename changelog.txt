@@ -1,6 +1,8 @@
 
 Cataclysm-DDA 0.H release candidate 2024-05-27-0215 (a2de40b)
 * Backport #70945 and #71001 (#73960)
+
+Cataclysm-DDA experimental build 2024-05-27-0300 (0e9a8b6)
 * Fixed construction marker (#74104)
 
 Cataclysm-DDA experimental build 2024-05-26-2348 (dae1cf6)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2024-05-22-2243 (9640195)
 Cataclysm-DDA 0.H release candidate 2024-05-22-2111 (2a8906d)
 * Backport #71328 (#73961)
 * Backport #72662 (#73962)
-
-Cataclysm-DDA 0.H release candidate 2024-05-22-2035 (4e39b75)
 * Backport #72615 (#73965)
 * Standardize tolerance messages (#73970)
 * Bug report issue template: some more detailed instructions (#73981)
