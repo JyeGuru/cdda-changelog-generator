@@ -1,3 +1,4 @@
+* Add Weighted Blankets and Blanket Variants/Snippets ([#74051](https://github.com/CleverRaven/Cataclysm-DDA/pull/74051))
 * No smithy in a box. ([#74120](https://github.com/CleverRaven/Cataclysm-DDA/pull/74120))
 * godco predatory trader shouldn't be a random spawn ([#74121](https://github.com/CleverRaven/Cataclysm-DDA/pull/74121))
 * Improve gun variant validator script ([#74127](https://github.com/CleverRaven/Cataclysm-DDA/pull/74127))
@@ -207,6 +208,5 @@
 * Backport #70831 ([#73971](https://github.com/CleverRaven/Cataclysm-DDA/pull/73971))
 * Backport #70938 ([#73975](https://github.com/CleverRaven/Cataclysm-DDA/pull/73975))
 * Explicit roof on garage version 2 ([#73957](https://github.com/CleverRaven/Cataclysm-DDA/pull/73957))
-* [MoM] Zombie looks-like + slightly reduce skyscraper lab break area spawns ([#73942](https://github.com/CleverRaven/Cataclysm-DDA/pull/73942))
 * Updated MAGIC.md ([#73954](https://github.com/CleverRaven/Cataclysm-DDA/pull/73954))
 * Update documentation on petfood ([#73956](https://github.com/CleverRaven/Cataclysm-DDA/pull/73956))
