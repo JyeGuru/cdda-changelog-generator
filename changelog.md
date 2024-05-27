@@ -5,6 +5,11 @@
 
 * [CR] Bionic multimeter ([#73992](https://github.com/CleverRaven/Cataclysm-DDA/pull/73992))
 * Added roofs to modular shack ([#74108](https://github.com/CleverRaven/Cataclysm-DDA/pull/74108))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-27-0630 ([fc75aa7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-27-0630))
+
 * godco predatory trader shouldn't be a random spawn for 0.H ([#74122](https://github.com/CleverRaven/Cataclysm-DDA/pull/74122))
 * Re-re-add the cataclysm poem ([#74123](https://github.com/CleverRaven/Cataclysm-DDA/pull/74123))
 
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-05-22-1943 ([6e7cfae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-1943))
 
 * Spellbook doesn't try to load invalid spells ([#74008](https://github.com/CleverRaven/Cataclysm-DDA/pull/74008))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-22-0335 ([5b4b49b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-0335))
-
 * Being mute prevents casting VERBAL spells ([#73982](https://github.com/CleverRaven/Cataclysm-DDA/pull/73982))
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
