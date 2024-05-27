@@ -1,3 +1,7 @@
+* Remove special casing test for Alpha and increase vitamin max/thresbreach (#74101)
+
+Cataclysm-DDA experimental build 2024-05-27-1329 (d12ebbc)
+* Fix hair mutation names (#74134)
 
 Cataclysm-DDA experimental build 2024-05-27-0550 (459ec63)
 * [CR] Bionic multimeter (#73992)
@@ -102,9 +106,6 @@ Cataclysm-DDA experimental build 2024-05-23-1346 (6b13a74)
 
 Cataclysm-DDA experimental build 2024-05-23-0342 (2d02175)
 * Add new locations to Aftershock (#73988)
-
-Cataclysm-DDA experimental build 2024-05-22-2243 (9640195)
-* Update AppStream metadata to 0.G release (#73930)
 * Fix some formatting in the document (#74001)
 * Backport #71328 (#73961)
 * Backport #72662 (#73962)
@@ -118,8 +119,6 @@ Cataclysm-DDA experimental build 2024-05-22-2243 (9640195)
 * remove guns from behindcounter (#73997)
 * Added roof on airport ATC tower (#74000)
 * Minor string and item category changes (#74003)
-
-Cataclysm-DDA experimental build 2024-05-22-1943 (6e7cfae)
 * Spellbook doesn't try to load invalid spells (#74008)
 * Being mute prevents casting VERBAL spells (#73982)
 * Added explicit roofs to storehouse 2 (#73984)
@@ -144,4 +143,3 @@ Cataclysm-DDA experimental build 2024-05-22-1943 (6e7cfae)
 * Update documentation on petfood (#73956)
 * Correct Pile of Leaves Desconstruct/Bash (#73937)
 * Correct the crimes against dinosaurs (#73939)
-* Changed XE batteries to use tool_magazine category. (#73928)

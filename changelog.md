@@ -1,3 +1,10 @@
+* Remove special casing test for Alpha and increase vitamin max/thresbreach ([#74101](https://github.com/CleverRaven/Cataclysm-DDA/pull/74101))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-27-1329 ([d12ebbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-1329))
+
+* Fix hair mutation names ([#74134](https://github.com/CleverRaven/Cataclysm-DDA/pull/74134))
 
 ---
 
@@ -171,12 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-05-23-0342 ([2d02175](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-23-0342))
 
 * Add new locations to Aftershock ([#73988](https://github.com/CleverRaven/Cataclysm-DDA/pull/73988))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-22-2243 ([9640195](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-2243))
-
-* Update AppStream metadata to 0.G release ([#73930](https://github.com/CleverRaven/Cataclysm-DDA/pull/73930))
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
 * Backport #71328 ([#73961](https://github.com/CleverRaven/Cataclysm-DDA/pull/73961))
 * Backport #72662 ([#73962](https://github.com/CleverRaven/Cataclysm-DDA/pull/73962))
@@ -190,11 +191,6 @@
 * remove guns from behindcounter ([#73997](https://github.com/CleverRaven/Cataclysm-DDA/pull/73997))
 * Added roof on airport ATC tower ([#74000](https://github.com/CleverRaven/Cataclysm-DDA/pull/74000))
 * Minor string and item category changes ([#74003](https://github.com/CleverRaven/Cataclysm-DDA/pull/74003))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-22-1943 ([6e7cfae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-1943))
-
 * Spellbook doesn't try to load invalid spells ([#74008](https://github.com/CleverRaven/Cataclysm-DDA/pull/74008))
 * Being mute prevents casting VERBAL spells ([#73982](https://github.com/CleverRaven/Cataclysm-DDA/pull/73982))
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
@@ -219,4 +215,3 @@
 * Update documentation on petfood ([#73956](https://github.com/CleverRaven/Cataclysm-DDA/pull/73956))
 * Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
 * Correct the crimes against dinosaurs ([#73939](https://github.com/CleverRaven/Cataclysm-DDA/pull/73939))
-* Changed XE batteries to use tool_magazine category. ([#73928](https://github.com/CleverRaven/Cataclysm-DDA/pull/73928))
