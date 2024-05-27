@@ -1,3 +1,4 @@
+* No smithy in a box. ([#74120](https://github.com/CleverRaven/Cataclysm-DDA/pull/74120))
 * godco predatory trader shouldn't be a random spawn ([#74121](https://github.com/CleverRaven/Cataclysm-DDA/pull/74121))
 * Improve gun variant validator script ([#74127](https://github.com/CleverRaven/Cataclysm-DDA/pull/74127))
 * Added roof + chimney to pottery cottage ([#74133](https://github.com/CleverRaven/Cataclysm-DDA/pull/74133))
@@ -196,7 +197,6 @@
 * Bark (inherit upgrades & fix missability) ([#73944](https://github.com/CleverRaven/Cataclysm-DDA/pull/73944))
 * Add size prefixes to some items ([#73953](https://github.com/CleverRaven/Cataclysm-DDA/pull/73953))
 * Backport #71410 ([#73969](https://github.com/CleverRaven/Cataclysm-DDA/pull/73969))
-* Ski mask is now a tube scarf ([#73941](https://github.com/CleverRaven/Cataclysm-DDA/pull/73941))
 * Backport #72154 ([#73963](https://github.com/CleverRaven/Cataclysm-DDA/pull/73963))
 * Backport #70397 ([#73964](https://github.com/CleverRaven/Cataclysm-DDA/pull/73964))
 * Backport #72515 ([#73966](https://github.com/CleverRaven/Cataclysm-DDA/pull/73966))
