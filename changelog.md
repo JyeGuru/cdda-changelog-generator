@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-27-0215 ([a2de40b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-27-0215))
+
+* Backport #70945 and #71001 ([#73960](https://github.com/CleverRaven/Cataclysm-DDA/pull/73960))
 * Fixed construction marker ([#74104](https://github.com/CleverRaven/Cataclysm-DDA/pull/74104))
 
 ---
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-05-22-0114 ([970efaa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-0114))
 
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-21-2232 ([5ad0c83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-21-2232))
-
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
 * Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) ([#73958](https://github.com/CleverRaven/Cataclysm-DDA/pull/73958))
 * Bark (inherit upgrades & fix missability) ([#73944](https://github.com/CleverRaven/Cataclysm-DDA/pull/73944))
@@ -212,7 +213,6 @@
 * Updated MAGIC.md ([#73954](https://github.com/CleverRaven/Cataclysm-DDA/pull/73954))
 * Update documentation on petfood ([#73956](https://github.com/CleverRaven/Cataclysm-DDA/pull/73956))
 * Increase search radius for LIXA in Hub01 Mission ([#73925](https://github.com/CleverRaven/Cataclysm-DDA/pull/73925))
-* [Xedra] Give Homullus Equipment Durability Mutation with New Enchant ([#73918](https://github.com/CleverRaven/Cataclysm-DDA/pull/73918))
 * Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
 * Correct the crimes against dinosaurs ([#73939](https://github.com/CleverRaven/Cataclysm-DDA/pull/73939))
 * Added roofs to farm expansion 1 ([#73919](https://github.com/CleverRaven/Cataclysm-DDA/pull/73919))

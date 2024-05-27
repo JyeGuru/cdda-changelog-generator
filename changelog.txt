@@ -1,3 +1,6 @@
+
+Cataclysm-DDA 0.H release candidate 2024-05-27-0215 (a2de40b)
+* Backport #70945 and #71001 (#73960)
 * Fixed construction marker (#74104)
 
 Cataclysm-DDA experimental build 2024-05-26-2348 (dae1cf6)
@@ -115,8 +118,6 @@ Cataclysm-DDA experimental build 2024-05-22-0335 (5b4b49b)
 
 Cataclysm-DDA experimental build 2024-05-22-0114 (970efaa)
 * Added explicit roofs to storehouse 2 (#73984)
-
-Cataclysm-DDA experimental build 2024-05-21-2232 (5ad0c83)
 * Added explicit roof to garage 1 (#73983)
 * Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) (#73958)
 * Bark (inherit upgrades & fix missability) (#73944)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2024-05-21-2232 (5ad0c83)
 * Updated MAGIC.md (#73954)
 * Update documentation on petfood (#73956)
 * Increase search radius for LIXA in Hub01 Mission (#73925)
-* [Xedra] Give Homullus Equipment Durability Mutation with New Enchant (#73918)
 * Correct Pile of Leaves Desconstruct/Bash (#73937)
 * Correct the crimes against dinosaurs (#73939)
 * Added roofs to farm expansion 1 (#73919)
