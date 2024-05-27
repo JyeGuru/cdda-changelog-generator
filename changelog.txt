@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-05-27-0550 (459ec63)
 * [CR] Bionic multimeter (#73992)
 * Added roofs to modular shack (#74108)
 * godco predatory trader shouldn't be a random spawn for 0.H (#74122)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2024-05-22-1943 (6e7cfae)
 
 Cataclysm-DDA experimental build 2024-05-22-0335 (5b4b49b)
 * Being mute prevents casting VERBAL spells (#73982)
-
-Cataclysm-DDA experimental build 2024-05-22-0114 (970efaa)
 * Added explicit roofs to storehouse 2 (#73984)
 * Added explicit roof to garage 1 (#73983)
 * Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) (#73958)

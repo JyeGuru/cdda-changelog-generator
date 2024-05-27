@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-27-0550 ([459ec63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-0550))
+
 * [CR] Bionic multimeter ([#73992](https://github.com/CleverRaven/Cataclysm-DDA/pull/73992))
 * Added roofs to modular shack ([#74108](https://github.com/CleverRaven/Cataclysm-DDA/pull/74108))
 * godco predatory trader shouldn't be a random spawn for 0.H ([#74122](https://github.com/CleverRaven/Cataclysm-DDA/pull/74122))
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-05-22-0335 ([5b4b49b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-0335))
 
 * Being mute prevents casting VERBAL spells ([#73982](https://github.com/CleverRaven/Cataclysm-DDA/pull/73982))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-22-0114 ([970efaa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-22-0114))
-
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
 * Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) ([#73958](https://github.com/CleverRaven/Cataclysm-DDA/pull/73958))
