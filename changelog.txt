@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-27-2230 (ef5af3b)
+* Cataclysm Poem grammatical error fix (#74136)
+
 Cataclysm-DDA experimental build 2024-05-27-1600 (2c68074)
 * Add Weighted Blankets and Blanket Variants/Snippets (#74051)
 * No smithy in a box. (#74120)
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2024-05-23-1642 (3b3b739)
 
 Cataclysm-DDA experimental build 2024-05-23-1346 (6b13a74)
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast (#74011)
-
-Cataclysm-DDA experimental build 2024-05-23-0342 (2d02175)
 * Add new locations to Aftershock (#73988)
 * Fix some formatting in the document (#74001)
 * Backport #71328 (#73961)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2024-05-23-0342 (2d02175)
 * Added explicit roofs to storehouse 2 (#73984)
 * Added explicit roof to garage 1 (#73983)
 * Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) (#73958)
-* Bark (inherit upgrades & fix missability) (#73944)
 * Add size prefixes to some items (#73953)
 * Backport #71410 (#73969)
 * Backport #72154 (#73963)
