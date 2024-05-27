@@ -1,3 +1,13 @@
+* [CR] Bionic multimeter ([#73992](https://github.com/CleverRaven/Cataclysm-DDA/pull/73992))
+* Added roofs to modular shack ([#74108](https://github.com/CleverRaven/Cataclysm-DDA/pull/74108))
+* godco predatory trader shouldn't be a random spawn for 0.H ([#74122](https://github.com/CleverRaven/Cataclysm-DDA/pull/74122))
+* Re-re-add the cataclysm poem ([#74123](https://github.com/CleverRaven/Cataclysm-DDA/pull/74123))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-27-0500 ([ee25b55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-27-0500))
+
+* No smithy in a box for 0.H ([#74119](https://github.com/CleverRaven/Cataclysm-DDA/pull/74119))
 
 ---
 
@@ -158,11 +168,6 @@
 
 * Update AppStream metadata to 0.G release ([#73930](https://github.com/CleverRaven/Cataclysm-DDA/pull/73930))
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-22-2111 ([2a8906d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-22-2111))
-
 * Backport #71328 ([#73961](https://github.com/CleverRaven/Cataclysm-DDA/pull/73961))
 * Backport #72662 ([#73962](https://github.com/CleverRaven/Cataclysm-DDA/pull/73962))
 * Backport #72615 ([#73965](https://github.com/CleverRaven/Cataclysm-DDA/pull/73965))
@@ -212,11 +217,6 @@
 * [MoM] Zombie looks-like + slightly reduce skyscraper lab break area spawns ([#73942](https://github.com/CleverRaven/Cataclysm-DDA/pull/73942))
 * Updated MAGIC.md ([#73954](https://github.com/CleverRaven/Cataclysm-DDA/pull/73954))
 * Update documentation on petfood ([#73956](https://github.com/CleverRaven/Cataclysm-DDA/pull/73956))
-* Increase search radius for LIXA in Hub01 Mission ([#73925](https://github.com/CleverRaven/Cataclysm-DDA/pull/73925))
 * Correct Pile of Leaves Desconstruct/Bash ([#73937](https://github.com/CleverRaven/Cataclysm-DDA/pull/73937))
 * Correct the crimes against dinosaurs ([#73939](https://github.com/CleverRaven/Cataclysm-DDA/pull/73939))
-* Added roofs to farm expansion 1 ([#73919](https://github.com/CleverRaven/Cataclysm-DDA/pull/73919))
-* Backport #73901 ([#73920](https://github.com/CleverRaven/Cataclysm-DDA/pull/73920))
-* Backport #71681 and #71846 and #71861 ([#73921](https://github.com/CleverRaven/Cataclysm-DDA/pull/73921))
-* Backport #70743 ([#73927](https://github.com/CleverRaven/Cataclysm-DDA/pull/73927))
 * Changed XE batteries to use tool_magazine category. ([#73928](https://github.com/CleverRaven/Cataclysm-DDA/pull/73928))
