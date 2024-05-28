@@ -36,9 +36,6 @@ Cataclysm-DDA 0.H release candidate 2024-05-27-0630 (fc75aa7)
 Cataclysm-DDA 0.H release candidate 2024-05-27-0500 (ee25b55)
 * No smithy in a box for 0.H (#74119)
 
-Cataclysm-DDA 0.H release candidate 2024-05-27-0215 (a2de40b)
-* Backport #70945 and #71001 (#73960)
-
 Cataclysm-DDA experimental build 2024-05-27-0300 (0e9a8b6)
 * Fixed construction marker (#74104)
 

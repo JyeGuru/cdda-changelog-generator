@@ -65,12 +65,6 @@
 
 ---
 
-#### Cataclysm-DDA 0.H release candidate 2024-05-27-0215 ([a2de40b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-27-0215))
-
-* Backport #70945 and #71001 ([#73960](https://github.com/CleverRaven/Cataclysm-DDA/pull/73960))
-
----
-
 #### Cataclysm-DDA experimental build 2024-05-27-0300 ([0e9a8b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-0300))
 
 * Fixed construction marker ([#74104](https://github.com/CleverRaven/Cataclysm-DDA/pull/74104))
