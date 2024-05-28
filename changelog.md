@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-28-1916 ([def88e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-1916))
+
 * Adds the Taurus Judge ([#74115](https://github.com/CleverRaven/Cataclysm-DDA/pull/74115))
 * fish emulsion ([#74138](https://github.com/CleverRaven/Cataclysm-DDA/pull/74138))
 * Correctly display pain penalties. ([#74116](https://github.com/CleverRaven/Cataclysm-DDA/pull/74116))
@@ -178,11 +183,6 @@
 * [MoM] Edit channeling formula to account for concentration proficiencies, clamp success chances ([#74024](https://github.com/CleverRaven/Cataclysm-DDA/pull/74024))
 * added roof to A/C carrier ([#74019](https://github.com/CleverRaven/Cataclysm-DDA/pull/74019))
 * Explicit roofs on workshop version 2 expansion ([#74018](https://github.com/CleverRaven/Cataclysm-DDA/pull/74018))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-23-1909 ([61addf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-23-1909))
-
 * Sane-ify in-vehicle movement size checks ([#74004](https://github.com/CleverRaven/Cataclysm-DDA/pull/74004))
 * Explicit roof on storehouse 1 ([#73998](https://github.com/CleverRaven/Cataclysm-DDA/pull/73998))
 * Make Skunks Less Bloodthirsty ([#74010](https://github.com/CleverRaven/Cataclysm-DDA/pull/74010))
