@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-28-2212 ([bf808f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-2212))
+
+* Anklet spawn rate adjustment ([#74144](https://github.com/CleverRaven/Cataclysm-DDA/pull/74144))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-28-1916 ([def88e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-1916))
 
 * Adds the Taurus Judge ([#74115](https://github.com/CleverRaven/Cataclysm-DDA/pull/74115))
@@ -183,7 +189,6 @@
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
 * Add new locations to Aftershock ([#73988](https://github.com/CleverRaven/Cataclysm-DDA/pull/73988))
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
-* Backport #72662 ([#73962](https://github.com/CleverRaven/Cataclysm-DDA/pull/73962))
 * Backport #72615 ([#73965](https://github.com/CleverRaven/Cataclysm-DDA/pull/73965))
 * Standardize tolerance messages ([#73970](https://github.com/CleverRaven/Cataclysm-DDA/pull/73970))
 * Bug report issue template: some more detailed instructions ([#73981](https://github.com/CleverRaven/Cataclysm-DDA/pull/73981))
