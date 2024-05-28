@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-28-0322 ([ec621a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-0322))
+
+* Aftershock: Low priority maintenance. ([#74124](https://github.com/CleverRaven/Cataclysm-DDA/pull/74124))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-27-2230 ([ef5af3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-2230))
 
 * Cataclysm Poem grammatical error fix ([#74136](https://github.com/CleverRaven/Cataclysm-DDA/pull/74136))
@@ -168,7 +174,6 @@
 #### Cataclysm-DDA experimental build 2024-05-23-1909 ([61addf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-23-1909))
 
 * Sane-ify in-vehicle movement size checks ([#74004](https://github.com/CleverRaven/Cataclysm-DDA/pull/74004))
-* Weekly Changelog 2024-05-13 to 2024-05-20 ([#73952](https://github.com/CleverRaven/Cataclysm-DDA/pull/73952))
 
 ---
 
@@ -176,11 +181,6 @@
 
 * Explicit roof on storehouse 1 ([#73998](https://github.com/CleverRaven/Cataclysm-DDA/pull/73998))
 * Make Skunks Less Bloodthirsty ([#74010](https://github.com/CleverRaven/Cataclysm-DDA/pull/74010))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-23-1346 ([6b13a74](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-23-1346))
-
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
 * Add new locations to Aftershock ([#73988](https://github.com/CleverRaven/Cataclysm-DDA/pull/73988))
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
