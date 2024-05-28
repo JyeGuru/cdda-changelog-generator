@@ -1,3 +1,13 @@
+* Adds the Taurus Judge ([#74115](https://github.com/CleverRaven/Cataclysm-DDA/pull/74115))
+* fish emulsion ([#74138](https://github.com/CleverRaven/Cataclysm-DDA/pull/74138))
+* Correctly display pain penalties. ([#74116](https://github.com/CleverRaven/Cataclysm-DDA/pull/74116))
+* Fix tools on the ground ([#74140](https://github.com/CleverRaven/Cataclysm-DDA/pull/74140))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-28-1632 ([9890a02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-1632))
+
+* Add scrapple as a comestible ([#74143](https://github.com/CleverRaven/Cataclysm-DDA/pull/74143))
 
 ---
 
@@ -174,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-05-23-1909 ([61addf8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-23-1909))
 
 * Sane-ify in-vehicle movement size checks ([#74004](https://github.com/CleverRaven/Cataclysm-DDA/pull/74004))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-23-1642 ([3b3b739](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-23-1642))
-
 * Explicit roof on storehouse 1 ([#73998](https://github.com/CleverRaven/Cataclysm-DDA/pull/73998))
 * Make Skunks Less Bloodthirsty ([#74010](https://github.com/CleverRaven/Cataclysm-DDA/pull/74010))
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
@@ -200,8 +205,6 @@
 * Being mute prevents casting VERBAL spells ([#73982](https://github.com/CleverRaven/Cataclysm-DDA/pull/73982))
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
-* Rename fd_reality_tear back to fd_fatigue (fix tilesets, migration) ([#73958](https://github.com/CleverRaven/Cataclysm-DDA/pull/73958))
-* Add size prefixes to some items ([#73953](https://github.com/CleverRaven/Cataclysm-DDA/pull/73953))
 * Backport #71410 ([#73969](https://github.com/CleverRaven/Cataclysm-DDA/pull/73969))
 * Backport #72154 ([#73963](https://github.com/CleverRaven/Cataclysm-DDA/pull/73963))
 * Backport #70397 ([#73964](https://github.com/CleverRaven/Cataclysm-DDA/pull/73964))
@@ -212,6 +215,3 @@
 * Flagify muting ([#73979](https://github.com/CleverRaven/Cataclysm-DDA/pull/73979))
 * Backport #70831 ([#73971](https://github.com/CleverRaven/Cataclysm-DDA/pull/73971))
 * Backport #70938 ([#73975](https://github.com/CleverRaven/Cataclysm-DDA/pull/73975))
-* Explicit roof on garage version 2 ([#73957](https://github.com/CleverRaven/Cataclysm-DDA/pull/73957))
-* Updated MAGIC.md ([#73954](https://github.com/CleverRaven/Cataclysm-DDA/pull/73954))
-* Update documentation on petfood ([#73956](https://github.com/CleverRaven/Cataclysm-DDA/pull/73956))
