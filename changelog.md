@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-29-0306 ([8b0ea8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-0306))
+
+* [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI ([#74150](https://github.com/CleverRaven/Cataclysm-DDA/pull/74150))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-28-2212 ([bf808f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-2212))
 
 * Anklet spawn rate adjustment ([#74144](https://github.com/CleverRaven/Cataclysm-DDA/pull/74144))
@@ -204,7 +210,6 @@
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
 * Backport #71410 ([#73969](https://github.com/CleverRaven/Cataclysm-DDA/pull/73969))
-* Backport #72154 ([#73963](https://github.com/CleverRaven/Cataclysm-DDA/pull/73963))
 * Backport #70397 ([#73964](https://github.com/CleverRaven/Cataclysm-DDA/pull/73964))
 * Backport #72515 ([#73966](https://github.com/CleverRaven/Cataclysm-DDA/pull/73966))
 * Backport #70755 ([#73968](https://github.com/CleverRaven/Cataclysm-DDA/pull/73968))
