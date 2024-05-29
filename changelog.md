@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-29-2113 ([0807425](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-2113))
+
+* Added roof chimney/vent pipe ([#74163](https://github.com/CleverRaven/Cataclysm-DDA/pull/74163))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-29-1756 ([2d1b001](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-1756))
 
 * Terminology Update ([#74157](https://github.com/CleverRaven/Cataclysm-DDA/pull/74157))
@@ -214,5 +220,4 @@
 * Backport #70957 ([#73972](https://github.com/CleverRaven/Cataclysm-DDA/pull/73972))
 * Backport #72064 ([#73974](https://github.com/CleverRaven/Cataclysm-DDA/pull/73974))
 * Flagify muting ([#73979](https://github.com/CleverRaven/Cataclysm-DDA/pull/73979))
-* Backport #70831 ([#73971](https://github.com/CleverRaven/Cataclysm-DDA/pull/73971))
 * Backport #70938 ([#73975](https://github.com/CleverRaven/Cataclysm-DDA/pull/73975))

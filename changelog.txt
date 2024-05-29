@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-29-2113 (0807425)
+* Added roof chimney/vent pipe (#74163)
+
 Cataclysm-DDA experimental build 2024-05-29-1756 (2d1b001)
 * Terminology Update (#74157)
 
@@ -139,5 +142,4 @@ Cataclysm-DDA experimental build 2024-05-25-1810 (76300ac)
 * Backport #70957 (#73972)
 * Backport #72064 (#73974)
 * Flagify muting (#73979)
-* Backport #70831 (#73971)
 * Backport #70938 (#73975)
