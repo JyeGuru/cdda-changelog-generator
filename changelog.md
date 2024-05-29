@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-29-1636 ([f7cce92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-1636))
+
+* Create header for forward declarations of point types ([#74161](https://github.com/CleverRaven/Cataclysm-DDA/pull/74161))
+* Fix clang tidy unable to find interned third party headers. ([#74156](https://github.com/CleverRaven/Cataclysm-DDA/pull/74156))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-29-0947 ([a206790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-0947))
 
 * Change steel coverage of pair of heavy survivor boots and gloves ([#74147](https://github.com/CleverRaven/Cataclysm-DDA/pull/74147))
@@ -175,11 +182,6 @@
 * [MoM] Increase Farstep range ([#74050](https://github.com/CleverRaven/Cataclysm-DDA/pull/74050))
 * [DinoMod] camp hunting rebalance ([#74020](https://github.com/CleverRaven/Cataclysm-DDA/pull/74020))
 * Butterfly nets ([#74049](https://github.com/CleverRaven/Cataclysm-DDA/pull/74049))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-24-2252 ([755b6c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-24-2252))
-
 * [MoM] Add Torrential Channeling, revamp Extended Channeling ([#74007](https://github.com/CleverRaven/Cataclysm-DDA/pull/74007))
 * Increase the size of the set of clothes pocket ([#73991](https://github.com/CleverRaven/Cataclysm-DDA/pull/73991))
 * Random NPCs have the same starting skills and proficiencies as the average new character ([#74013](https://github.com/CleverRaven/Cataclysm-DDA/pull/74013))
@@ -209,8 +211,6 @@
 * Being mute prevents casting VERBAL spells ([#73982](https://github.com/CleverRaven/Cataclysm-DDA/pull/73982))
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
-* Backport #71410 ([#73969](https://github.com/CleverRaven/Cataclysm-DDA/pull/73969))
-* Backport #70755 ([#73968](https://github.com/CleverRaven/Cataclysm-DDA/pull/73968))
 * Backport #70957 ([#73972](https://github.com/CleverRaven/Cataclysm-DDA/pull/73972))
 * Backport #72064 ([#73974](https://github.com/CleverRaven/Cataclysm-DDA/pull/73974))
 * Flagify muting ([#73979](https://github.com/CleverRaven/Cataclysm-DDA/pull/73979))
