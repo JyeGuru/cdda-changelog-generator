@@ -196,7 +196,6 @@
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
 * Add new locations to Aftershock ([#73988](https://github.com/CleverRaven/Cataclysm-DDA/pull/73988))
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
-* Backport #72615 ([#73965](https://github.com/CleverRaven/Cataclysm-DDA/pull/73965))
 * Standardize tolerance messages ([#73970](https://github.com/CleverRaven/Cataclysm-DDA/pull/73970))
 * Bug report issue template: some more detailed instructions ([#73981](https://github.com/CleverRaven/Cataclysm-DDA/pull/73981))
 * change JSON_INFO.md "inherits_flags" ([#73986](https://github.com/CleverRaven/Cataclysm-DDA/pull/73986))
