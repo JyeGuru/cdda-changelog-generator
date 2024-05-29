@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-29-0947 ([a206790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-0947))
+
+* Change steel coverage of pair of heavy survivor boots and gloves ([#74147](https://github.com/CleverRaven/Cataclysm-DDA/pull/74147))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-29-0306 ([8b0ea8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-0306))
 
 * [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI ([#74150](https://github.com/CleverRaven/Cataclysm-DDA/pull/74150))
@@ -181,11 +187,6 @@
 * Oops - remove cramped space when no longer cramped ([#74046](https://github.com/CleverRaven/Cataclysm-DDA/pull/74046))
 * Tainted meat is no longer craftable ([#74034](https://github.com/CleverRaven/Cataclysm-DDA/pull/74034))
 * [Xedra Evolved] Make Paraclesian fae's magic easier in appropriate terrain ([#74027](https://github.com/CleverRaven/Cataclysm-DDA/pull/74027))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-24-1917 ([6b675ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-24-1917))
-
 * [MoM] Edit channeling formula to account for concentration proficiencies, clamp success chances ([#74024](https://github.com/CleverRaven/Cataclysm-DDA/pull/74024))
 * added roof to A/C carrier ([#74019](https://github.com/CleverRaven/Cataclysm-DDA/pull/74019))
 * Explicit roofs on workshop version 2 expansion ([#74018](https://github.com/CleverRaven/Cataclysm-DDA/pull/74018))
@@ -210,7 +211,6 @@
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
 * Backport #71410 ([#73969](https://github.com/CleverRaven/Cataclysm-DDA/pull/73969))
-* Backport #70397 ([#73964](https://github.com/CleverRaven/Cataclysm-DDA/pull/73964))
 * Backport #72515 ([#73966](https://github.com/CleverRaven/Cataclysm-DDA/pull/73966))
 * Backport #70755 ([#73968](https://github.com/CleverRaven/Cataclysm-DDA/pull/73968))
 * Backport #70957 ([#73972](https://github.com/CleverRaven/Cataclysm-DDA/pull/73972))
