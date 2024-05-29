@@ -210,7 +210,6 @@
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
 * Backport #71410 ([#73969](https://github.com/CleverRaven/Cataclysm-DDA/pull/73969))
-* Backport #72515 ([#73966](https://github.com/CleverRaven/Cataclysm-DDA/pull/73966))
 * Backport #70755 ([#73968](https://github.com/CleverRaven/Cataclysm-DDA/pull/73968))
 * Backport #70957 ([#73972](https://github.com/CleverRaven/Cataclysm-DDA/pull/73972))
 * Backport #72064 ([#73974](https://github.com/CleverRaven/Cataclysm-DDA/pull/73974))
