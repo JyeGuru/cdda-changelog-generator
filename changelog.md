@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-29-1756 ([2d1b001](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-1756))
+
+* Terminology Update ([#74157](https://github.com/CleverRaven/Cataclysm-DDA/pull/74157))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-29-1636 ([f7cce92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-1636))
 
 * Create header for forward declarations of point types ([#74161](https://github.com/CleverRaven/Cataclysm-DDA/pull/74161))
@@ -173,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-05-25-1810 ([76300ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-25-1810))
 
 * Food continues to rot at temp above 63C ([#74058](https://github.com/CleverRaven/Cataclysm-DDA/pull/74058))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-25-0134 ([22d851b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-25-0134))
-
 * [CR] Should prevent cheese with old guard doctor ([#73989](https://github.com/CleverRaven/Cataclysm-DDA/pull/73989))
 * [MoM] Increase Farstep range ([#74050](https://github.com/CleverRaven/Cataclysm-DDA/pull/74050))
 * [DinoMod] camp hunting rebalance ([#74020](https://github.com/CleverRaven/Cataclysm-DDA/pull/74020))
@@ -198,7 +199,6 @@
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
 * Add new locations to Aftershock ([#73988](https://github.com/CleverRaven/Cataclysm-DDA/pull/73988))
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
-* Standardize tolerance messages ([#73970](https://github.com/CleverRaven/Cataclysm-DDA/pull/73970))
 * Bug report issue template: some more detailed instructions ([#73981](https://github.com/CleverRaven/Cataclysm-DDA/pull/73981))
 * change JSON_INFO.md "inherits_flags" ([#73986](https://github.com/CleverRaven/Cataclysm-DDA/pull/73986))
 * Fix: throwing items from outside the inventory ([#73987](https://github.com/CleverRaven/Cataclysm-DDA/pull/73987))

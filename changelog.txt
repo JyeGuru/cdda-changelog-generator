@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-05-29-1756 (2d1b001)
+* Terminology Update (#74157)
+
 Cataclysm-DDA experimental build 2024-05-29-1636 (f7cce92)
 * Create header for forward declarations of point types (#74161)
 * Fix clang tidy unable to find interned third party headers. (#74156)
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2024-05-25-2359 (6a57dbd)
 
 Cataclysm-DDA experimental build 2024-05-25-1810 (76300ac)
 * Food continues to rot at temp above 63C (#74058)
-
-Cataclysm-DDA experimental build 2024-05-25-0134 (22d851b)
 * [CR] Should prevent cheese with old guard doctor (#73989)
 * [MoM] Increase Farstep range (#74050)
 * [DinoMod] camp hunting rebalance (#74020)
@@ -123,7 +124,6 @@ Cataclysm-DDA experimental build 2024-05-25-0134 (22d851b)
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast (#74011)
 * Add new locations to Aftershock (#73988)
 * Fix some formatting in the document (#74001)
-* Standardize tolerance messages (#73970)
 * Bug report issue template: some more detailed instructions (#73981)
 * change JSON_INFO.md "inherits_flags" (#73986)
 * Fix: throwing items from outside the inventory (#73987)
