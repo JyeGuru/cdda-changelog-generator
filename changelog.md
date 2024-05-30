@@ -1,3 +1,4 @@
+* [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` ([#74183](https://github.com/CleverRaven/Cataclysm-DDA/pull/74183))
 * [Aftershock] Add Habitat Block 1 to Exoplanet. Also adds Reinforced Glass Display cases and Electronic Lock doors. ([#74174](https://github.com/CleverRaven/Cataclysm-DDA/pull/74174))
 * Update furniture_fireplaces.json to include open roof rock floor fire ring ([#74166](https://github.com/CleverRaven/Cataclysm-DDA/pull/74166))
 * Increase reload time of the P50 ([#74182](https://github.com/CleverRaven/Cataclysm-DDA/pull/74182))
@@ -207,7 +208,6 @@
 * Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW ([#74083](https://github.com/CleverRaven/Cataclysm-DDA/pull/74083))
 * palette parameters + roof for saltworks ([#74071](https://github.com/CleverRaven/Cataclysm-DDA/pull/74071))
 * Food continues to rot at temp above 63C ([#74058](https://github.com/CleverRaven/Cataclysm-DDA/pull/74058))
-* [CR] Should prevent cheese with old guard doctor ([#73989](https://github.com/CleverRaven/Cataclysm-DDA/pull/73989))
 * [MoM] Increase Farstep range ([#74050](https://github.com/CleverRaven/Cataclysm-DDA/pull/74050))
 * [DinoMod] camp hunting rebalance ([#74020](https://github.com/CleverRaven/Cataclysm-DDA/pull/74020))
 * Butterfly nets ([#74049](https://github.com/CleverRaven/Cataclysm-DDA/pull/74049))
