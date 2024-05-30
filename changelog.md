@@ -1,3 +1,4 @@
+* [Aftershock] Add Habitat Block 1 to Exoplanet. Also adds Reinforced Glass Display cases and Electronic Lock doors. ([#74174](https://github.com/CleverRaven/Cataclysm-DDA/pull/74174))
 * Update furniture_fireplaces.json to include open roof rock floor fire ring ([#74166](https://github.com/CleverRaven/Cataclysm-DDA/pull/74166))
 * Increase reload time of the P50 ([#74182](https://github.com/CleverRaven/Cataclysm-DDA/pull/74182))
 * [Xedra Evolved] Update Undine water-checking EoCs to use `test_eoc` ([#74179](https://github.com/CleverRaven/Cataclysm-DDA/pull/74179))
@@ -224,7 +225,6 @@
 * Explicit roof on storehouse 1 ([#73998](https://github.com/CleverRaven/Cataclysm-DDA/pull/73998))
 * Make Skunks Less Bloodthirsty ([#74010](https://github.com/CleverRaven/Cataclysm-DDA/pull/74010))
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
-* Add new locations to Aftershock ([#73988](https://github.com/CleverRaven/Cataclysm-DDA/pull/73988))
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
 * Bugfix: Prevent segfault when butcher target disappears ([#73990](https://github.com/CleverRaven/Cataclysm-DDA/pull/73990))
 * New issue dialogue: remove discussions, two more resources ([#73996](https://github.com/CleverRaven/Cataclysm-DDA/pull/73996))
