@@ -1,3 +1,10 @@
+* Fix salvaged exoskeletons turning into functional exoskeletons ([#74164](https://github.com/CleverRaven/Cataclysm-DDA/pull/74164))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-05-30-0506 ([1666cf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-30-0506))
+
+* Backport #74092 ([#74135](https://github.com/CleverRaven/Cataclysm-DDA/pull/74135))
 * Ammo_effects can cast spells ([#74167](https://github.com/CleverRaven/Cataclysm-DDA/pull/74167))
 * Adjust helicopter spawn rates ([#74176](https://github.com/CleverRaven/Cataclysm-DDA/pull/74176))
 * support selecting all npcs ([#74172](https://github.com/CleverRaven/Cataclysm-DDA/pull/74172))
@@ -189,11 +196,6 @@
 * Aftershock: Basic Hacking EOCs ([#74066](https://github.com/CleverRaven/Cataclysm-DDA/pull/74066))
 * Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW ([#74083](https://github.com/CleverRaven/Cataclysm-DDA/pull/74083))
 * palette parameters + roof for saltworks ([#74071](https://github.com/CleverRaven/Cataclysm-DDA/pull/74071))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-25-1810 ([76300ac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-25-1810))
-
 * Food continues to rot at temp above 63C ([#74058](https://github.com/CleverRaven/Cataclysm-DDA/pull/74058))
 * [CR] Should prevent cheese with old guard doctor ([#73989](https://github.com/CleverRaven/Cataclysm-DDA/pull/73989))
 * [MoM] Increase Farstep range ([#74050](https://github.com/CleverRaven/Cataclysm-DDA/pull/74050))
@@ -215,7 +217,6 @@
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
 * Add new locations to Aftershock ([#73988](https://github.com/CleverRaven/Cataclysm-DDA/pull/73988))
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
-* Bug report issue template: some more detailed instructions ([#73981](https://github.com/CleverRaven/Cataclysm-DDA/pull/73981))
 * change JSON_INFO.md "inherits_flags" ([#73986](https://github.com/CleverRaven/Cataclysm-DDA/pull/73986))
 * Fix: throwing items from outside the inventory ([#73987](https://github.com/CleverRaven/Cataclysm-DDA/pull/73987))
 * Bugfix: Prevent segfault when butcher target disappears ([#73990](https://github.com/CleverRaven/Cataclysm-DDA/pull/73990))
@@ -224,6 +225,5 @@
 * Added roof on airport ATC tower ([#74000](https://github.com/CleverRaven/Cataclysm-DDA/pull/74000))
 * Minor string and item category changes ([#74003](https://github.com/CleverRaven/Cataclysm-DDA/pull/74003))
 * Spellbook doesn't try to load invalid spells ([#74008](https://github.com/CleverRaven/Cataclysm-DDA/pull/74008))
-* Being mute prevents casting VERBAL spells ([#73982](https://github.com/CleverRaven/Cataclysm-DDA/pull/73982))
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
