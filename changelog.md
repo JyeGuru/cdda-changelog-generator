@@ -1,3 +1,4 @@
+* Adds the CP33 ([#74181](https://github.com/CleverRaven/Cataclysm-DDA/pull/74181))
 
 ---
 
@@ -226,7 +227,6 @@
 * Make Skunks Less Bloodthirsty ([#74010](https://github.com/CleverRaven/Cataclysm-DDA/pull/74010))
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
 * Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
-* Bugfix: Prevent segfault when butcher target disappears ([#73990](https://github.com/CleverRaven/Cataclysm-DDA/pull/73990))
 * New issue dialogue: remove discussions, two more resources ([#73996](https://github.com/CleverRaven/Cataclysm-DDA/pull/73996))
 * remove guns from behindcounter ([#73997](https://github.com/CleverRaven/Cataclysm-DDA/pull/73997))
 * Added roof on airport ATC tower ([#74000](https://github.com/CleverRaven/Cataclysm-DDA/pull/74000))

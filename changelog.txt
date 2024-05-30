@@ -1,3 +1,4 @@
+* Adds the CP33 (#74181)
 
 Cataclysm-DDA experimental build 2024-05-30-1846 (3f3e30b)
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` (#74183)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2024-05-26-0459 (5018e34)
 * Make Skunks Less Bloodthirsty (#74010)
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast (#74011)
 * Fix some formatting in the document (#74001)
-* Bugfix: Prevent segfault when butcher target disappears (#73990)
 * New issue dialogue: remove discussions, two more resources (#73996)
 * remove guns from behindcounter (#73997)
 * Added roof on airport ATC tower (#74000)
