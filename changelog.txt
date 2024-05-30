@@ -1,3 +1,4 @@
+* [Xedra Evolved] Update Homullus civilization checker to run once per OMT (#74175)
 
 Cataclysm-DDA experimental build 2024-05-30-0626 (8249ff5)
 * Fix salvaged exoskeletons turning into functional exoskeletons (#74164)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2024-05-25-2359 (6a57dbd)
 * Minor string and item category changes (#74003)
 * Spellbook doesn't try to load invalid spells (#74008)
 * Added explicit roofs to storehouse 2 (#73984)
-* Added explicit roof to garage 1 (#73983)
