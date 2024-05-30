@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-30-1846 ([3f3e30b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-30-1846))
+
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` ([#74183](https://github.com/CleverRaven/Cataclysm-DDA/pull/74183))
 * [Aftershock] Add Habitat Block 1 to Exoplanet. Also adds Reinforced Glass Display cases and Electronic Lock doors. ([#74174](https://github.com/CleverRaven/Cataclysm-DDA/pull/74174))
 * Update furniture_fireplaces.json to include open roof rock floor fire ring ([#74166](https://github.com/CleverRaven/Cataclysm-DDA/pull/74166))
@@ -181,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2024-05-26-1437 ([01a074d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-1437))
 
 * Rename "shotgun hull" ([#74087](https://github.com/CleverRaven/Cataclysm-DDA/pull/74087))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-26-1406 ([6fbaf6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-26-1406))
-
 * Backport #70359 and #71065 ([#74036](https://github.com/CleverRaven/Cataclysm-DDA/pull/74036))
 
 ---
