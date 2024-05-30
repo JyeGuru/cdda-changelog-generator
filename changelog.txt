@@ -1,3 +1,6 @@
+* [Xedra Evolved] Update Undine water-checking EoCs to use `test_eoc` (#74179)
+
+Cataclysm-DDA experimental build 2024-05-30-1550 (18efe96)
 * [Xedra Evolved] Update Homullus civilization checker to run once per OMT (#74175)
 
 Cataclysm-DDA experimental build 2024-05-30-0626 (8249ff5)
@@ -111,8 +114,6 @@ Cataclysm-DDA experimental build 2024-05-26-0728 (b03cb4b)
 
 Cataclysm-DDA experimental build 2024-05-26-0459 (5018e34)
 * teensy variable ordering fix (#74095)
-
-Cataclysm-DDA experimental build 2024-05-25-2359 (6a57dbd)
 * Replace Incorrect Bag Used in Map Xtra (#74063)
 * Fix Concrete Pallet Smash Results (#74064)
 * Aftershock: Basic Hacking EOCs (#74066)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2024-05-25-2359 (6a57dbd)
 * Added roof on airport ATC tower (#74000)
 * Minor string and item category changes (#74003)
 * Spellbook doesn't try to load invalid spells (#74008)
-* Added explicit roofs to storehouse 2 (#73984)

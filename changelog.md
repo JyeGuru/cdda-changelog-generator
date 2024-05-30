@@ -1,3 +1,9 @@
+* [Xedra Evolved] Update Undine water-checking EoCs to use `test_eoc` ([#74179](https://github.com/CleverRaven/Cataclysm-DDA/pull/74179))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-30-1550 ([18efe96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-30-1550))
+
 * [Xedra Evolved] Update Homullus civilization checker to run once per OMT ([#74175](https://github.com/CleverRaven/Cataclysm-DDA/pull/74175))
 
 ---
@@ -192,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2024-05-26-0459 ([5018e34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-0459))
 
 * teensy variable ordering fix ([#74095](https://github.com/CleverRaven/Cataclysm-DDA/pull/74095))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-25-2359 ([6a57dbd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-25-2359))
-
 * Replace Incorrect Bag Used in Map Xtra ([#74063](https://github.com/CleverRaven/Cataclysm-DDA/pull/74063))
 * Fix Concrete Pallet Smash Results ([#74064](https://github.com/CleverRaven/Cataclysm-DDA/pull/74064))
 * Aftershock: Basic Hacking EOCs ([#74066](https://github.com/CleverRaven/Cataclysm-DDA/pull/74066))
@@ -231,4 +232,3 @@
 * Added roof on airport ATC tower ([#74000](https://github.com/CleverRaven/Cataclysm-DDA/pull/74000))
 * Minor string and item category changes ([#74003](https://github.com/CleverRaven/Cataclysm-DDA/pull/74003))
 * Spellbook doesn't try to load invalid spells ([#74008](https://github.com/CleverRaven/Cataclysm-DDA/pull/74008))
-* Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
