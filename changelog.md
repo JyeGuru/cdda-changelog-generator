@@ -1,3 +1,4 @@
+* [MoM] Update chance to bypass prerequisites when learning psionic powers to use `test_eoc` ([#74155](https://github.com/CleverRaven/Cataclysm-DDA/pull/74155))
 
 ---
 
