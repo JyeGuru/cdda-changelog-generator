@@ -1,3 +1,5 @@
+* Adjust helicopter spawn rates ([#74176](https://github.com/CleverRaven/Cataclysm-DDA/pull/74176))
+* support selecting all npcs ([#74172](https://github.com/CleverRaven/Cataclysm-DDA/pull/74172))
 * [MoM] Update chance to bypass prerequisites when learning psionic powers to use `test_eoc` ([#74155](https://github.com/CleverRaven/Cataclysm-DDA/pull/74155))
 
 ---
@@ -224,6 +226,4 @@
 * Being mute prevents casting VERBAL spells ([#73982](https://github.com/CleverRaven/Cataclysm-DDA/pull/73982))
 * Added explicit roofs to storehouse 2 ([#73984](https://github.com/CleverRaven/Cataclysm-DDA/pull/73984))
 * Added explicit roof to garage 1 ([#73983](https://github.com/CleverRaven/Cataclysm-DDA/pull/73983))
-* Backport #72064 ([#73974](https://github.com/CleverRaven/Cataclysm-DDA/pull/73974))
 * Flagify muting ([#73979](https://github.com/CleverRaven/Cataclysm-DDA/pull/73979))
-* Backport #70938 ([#73975](https://github.com/CleverRaven/Cataclysm-DDA/pull/73975))
