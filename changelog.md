@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-30-0626 ([8249ff5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-30-0626))
+
 * Fix salvaged exoskeletons turning into functional exoskeletons ([#74164](https://github.com/CleverRaven/Cataclysm-DDA/pull/74164))
 
 ---
