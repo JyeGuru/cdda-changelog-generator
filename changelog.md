@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-30-2137 ([261b61c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-30-2137))
+
 * Adds the CP33 ([#74181](https://github.com/CleverRaven/Cataclysm-DDA/pull/74181))
 
 ---
@@ -161,11 +166,6 @@
 * Backport #70705 and #72574 ([#74041](https://github.com/CleverRaven/Cataclysm-DDA/pull/74041))
 * Backport #73599 ([#74040](https://github.com/CleverRaven/Cataclysm-DDA/pull/74040))
 * Backport #73917 ([#74039](https://github.com/CleverRaven/Cataclysm-DDA/pull/74039))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-26-2111 ([ec3e4c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-26-2111))
-
 * Backport #73930 ([#74038](https://github.com/CleverRaven/Cataclysm-DDA/pull/74038))
 
 ---
