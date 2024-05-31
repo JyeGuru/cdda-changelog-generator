@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-05-31-0408 ([9568831](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-31-0408))
+
+* Egg spoilage audit ([#74199](https://github.com/CleverRaven/Cataclysm-DDA/pull/74199))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-05-31-0030 ([f8cf42f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-31-0030))
 
 * Backport #71522 ([#74141](https://github.com/CleverRaven/Cataclysm-DDA/pull/74141))
@@ -129,12 +135,6 @@
 #### Cataclysm-DDA experimental build 2024-05-27-1329 ([d12ebbc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-1329))
 
 * Fix hair mutation names ([#74134](https://github.com/CleverRaven/Cataclysm-DDA/pull/74134))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-27-0550 ([459ec63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-0550))
-
-* [CR] Bionic multimeter ([#73992](https://github.com/CleverRaven/Cataclysm-DDA/pull/73992))
 * Added roofs to modular shack ([#74108](https://github.com/CleverRaven/Cataclysm-DDA/pull/74108))
 
 ---
@@ -198,11 +198,6 @@
 * Made campus levels consistent ([#74076](https://github.com/CleverRaven/Cataclysm-DDA/pull/74076))
 * [Innawoods] Makes portable soldering iron craftable ([#74092](https://github.com/CleverRaven/Cataclysm-DDA/pull/74092))
 * Bugfix cats_grace scaling ([#74062](https://github.com/CleverRaven/Cataclysm-DDA/pull/74062))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-26-0459 ([5018e34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-0459))
-
 * teensy variable ordering fix ([#74095](https://github.com/CleverRaven/Cataclysm-DDA/pull/74095))
 * Replace Incorrect Bag Used in Map Xtra ([#74063](https://github.com/CleverRaven/Cataclysm-DDA/pull/74063))
 * Fix Concrete Pallet Smash Results ([#74064](https://github.com/CleverRaven/Cataclysm-DDA/pull/74064))
