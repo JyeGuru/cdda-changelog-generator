@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-05-31-1919 ([cef5d70](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-31-1919))
+
 * Add regen serum ([#74021](https://github.com/CleverRaven/Cataclysm-DDA/pull/74021))
 * Automatic turrets will not fire guns if they are going to overheat. ([#74190](https://github.com/CleverRaven/Cataclysm-DDA/pull/74190))
 * Remove CCP from .22 groups ([#74205](https://github.com/CleverRaven/Cataclysm-DDA/pull/74205))
@@ -191,11 +196,6 @@
 * Primitive tailoring fixes ([#74056](https://github.com/CleverRaven/Cataclysm-DDA/pull/74056))
 * Correctly display the cost to learn the proficiency ([#74075](https://github.com/CleverRaven/Cataclysm-DDA/pull/74075))
 * Civilianize the SIG 553 ([#74085](https://github.com/CleverRaven/Cataclysm-DDA/pull/74085))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-26-1437 ([01a074d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-1437))
-
 * Rename "shotgun hull" ([#74087](https://github.com/CleverRaven/Cataclysm-DDA/pull/74087))
 * Backport #70359 and #71065 ([#74036](https://github.com/CleverRaven/Cataclysm-DDA/pull/74036))
 * Jesse fix ([#74082](https://github.com/CleverRaven/Cataclysm-DDA/pull/74082))
