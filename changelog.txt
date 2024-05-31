@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.H release candidate 2024-05-31-0030 (f8cf42f)
+* Backport #71522 (#74141)
+
 Cataclysm-DDA experimental build 2024-05-30-2137 (261b61c)
 * Adds the CP33 (#74181)
 
@@ -86,8 +89,6 @@ Cataclysm-DDA experimental build 2024-05-27-0300 (0e9a8b6)
 
 Cataclysm-DDA experimental build 2024-05-26-2348 (dae1cf6)
 * Paying for my hubris (#74106)
-
-Cataclysm-DDA 0.H release candidate 2024-05-26-2249 (dba2d3f)
 * Backport #72892 (#74048)
 * Backport #72608 (#74047)
 * Backport #70799 and #72684 (#74042)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2024-05-26-0459 (5018e34)
 * [DinoMod] camp hunting rebalance (#74020)
 * Butterfly nets (#74049)
 * [MoM] Add Torrential Channeling, revamp Extended Channeling (#74007)
-* Increase the size of the set of clothes pocket (#73991)
 * Random NPCs have the same starting skills and proficiencies as the average new character (#74013)
 * Added roofs to workshop 1 (#74037)
 * Oops - remove cramped space when no longer cramped (#74046)

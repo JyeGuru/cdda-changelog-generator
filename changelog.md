@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-05-31-0030 ([f8cf42f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-31-0030))
+
+* Backport #71522 ([#74141](https://github.com/CleverRaven/Cataclysm-DDA/pull/74141))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-30-2137 ([261b61c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-30-2137))
 
 * Adds the CP33 ([#74181](https://github.com/CleverRaven/Cataclysm-DDA/pull/74181))
@@ -155,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2024-05-26-2348 ([dae1cf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-2348))
 
 * Paying for my hubris ([#74106](https://github.com/CleverRaven/Cataclysm-DDA/pull/74106))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-26-2249 ([dba2d3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-26-2249))
-
 * Backport #72892 ([#74048](https://github.com/CleverRaven/Cataclysm-DDA/pull/74048))
 * Backport #72608 ([#74047](https://github.com/CleverRaven/Cataclysm-DDA/pull/74047))
 * Backport #70799 and #72684 ([#74042](https://github.com/CleverRaven/Cataclysm-DDA/pull/74042))
@@ -213,7 +214,6 @@
 * [DinoMod] camp hunting rebalance ([#74020](https://github.com/CleverRaven/Cataclysm-DDA/pull/74020))
 * Butterfly nets ([#74049](https://github.com/CleverRaven/Cataclysm-DDA/pull/74049))
 * [MoM] Add Torrential Channeling, revamp Extended Channeling ([#74007](https://github.com/CleverRaven/Cataclysm-DDA/pull/74007))
-* Increase the size of the set of clothes pocket ([#73991](https://github.com/CleverRaven/Cataclysm-DDA/pull/73991))
 * Random NPCs have the same starting skills and proficiencies as the average new character ([#74013](https://github.com/CleverRaven/Cataclysm-DDA/pull/74013))
 * Added roofs to workshop 1 ([#74037](https://github.com/CleverRaven/Cataclysm-DDA/pull/74037))
 * Oops - remove cramped space when no longer cramped ([#74046](https://github.com/CleverRaven/Cataclysm-DDA/pull/74046))
