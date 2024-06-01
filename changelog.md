@@ -1,3 +1,5 @@
+* Remove extern trap ids ([#74214](https://github.com/CleverRaven/Cataclysm-DDA/pull/74214))
+* Prevent gun variant script identifiers from being cut off ([#74224](https://github.com/CleverRaven/Cataclysm-DDA/pull/74224))
 * A little bit of everything - Minor JSON fixes from the voices on discord ([#74187](https://github.com/CleverRaven/Cataclysm-DDA/pull/74187))
 * cache available recipe list in craft menu ([#74178](https://github.com/CleverRaven/Cataclysm-DDA/pull/74178))
 * Fix an assertion failure ([#74185](https://github.com/CleverRaven/Cataclysm-DDA/pull/74185))
@@ -210,7 +212,6 @@
 * Correctly display the cost to learn the proficiency ([#74075](https://github.com/CleverRaven/Cataclysm-DDA/pull/74075))
 * Civilianize the SIG 553 ([#74085](https://github.com/CleverRaven/Cataclysm-DDA/pull/74085))
 * Rename "shotgun hull" ([#74087](https://github.com/CleverRaven/Cataclysm-DDA/pull/74087))
-* Backport #70359 and #71065 ([#74036](https://github.com/CleverRaven/Cataclysm-DDA/pull/74036))
 * Jesse fix ([#74082](https://github.com/CleverRaven/Cataclysm-DDA/pull/74082))
 * Made campus levels consistent ([#74076](https://github.com/CleverRaven/Cataclysm-DDA/pull/74076))
 * [Innawoods] Makes portable soldering iron craftable ([#74092](https://github.com/CleverRaven/Cataclysm-DDA/pull/74092))
@@ -226,4 +227,3 @@
 * Butterfly nets ([#74049](https://github.com/CleverRaven/Cataclysm-DDA/pull/74049))
 * Added roofs to workshop 1 ([#74037](https://github.com/CleverRaven/Cataclysm-DDA/pull/74037))
 * Oops - remove cramped space when no longer cramped ([#74046](https://github.com/CleverRaven/Cataclysm-DDA/pull/74046))
-* Tainted meat is no longer craftable ([#74034](https://github.com/CleverRaven/Cataclysm-DDA/pull/74034))
