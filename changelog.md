@@ -205,7 +205,6 @@
 * Backport #72892 ([#74048](https://github.com/CleverRaven/Cataclysm-DDA/pull/74048))
 * Backport #72608 ([#74047](https://github.com/CleverRaven/Cataclysm-DDA/pull/74047))
 * Backport #70799 and #72684 ([#74042](https://github.com/CleverRaven/Cataclysm-DDA/pull/74042))
-* Backport #70705 and #72574 ([#74041](https://github.com/CleverRaven/Cataclysm-DDA/pull/74041))
 * Routine i18n updates on 25 May 2024 ([#74060](https://github.com/CleverRaven/Cataclysm-DDA/pull/74060))
 * fix: Triple-Pane glass window components added wood material ([#74100](https://github.com/CleverRaven/Cataclysm-DDA/pull/74100))
 * Remove extraneous 0 from 38 requirement comment ([#74091](https://github.com/CleverRaven/Cataclysm-DDA/pull/74091))
