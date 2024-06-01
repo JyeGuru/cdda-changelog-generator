@@ -1,3 +1,5 @@
+* Grammar/Spelling Fixers for Fliers Snippets ([#74233](https://github.com/CleverRaven/Cataclysm-DDA/pull/74233))
+* Added chimney/vent pipe to shelter 2 base camp fireplace/wood stove ([#74236](https://github.com/CleverRaven/Cataclysm-DDA/pull/74236))
 * Add Unholy Debug Angel Cake ([#74216](https://github.com/CleverRaven/Cataclysm-DDA/pull/74216))
 * Routine tileset updates on 01 June 2024 ([#74222](https://github.com/CleverRaven/Cataclysm-DDA/pull/74222))
 
@@ -229,6 +231,4 @@
 * [MoM] Edit channeling formula to account for concentration proficiencies, clamp success chances ([#74024](https://github.com/CleverRaven/Cataclysm-DDA/pull/74024))
 * added roof to A/C carrier ([#74019](https://github.com/CleverRaven/Cataclysm-DDA/pull/74019))
 * Explicit roofs on workshop version 2 expansion ([#74018](https://github.com/CleverRaven/Cataclysm-DDA/pull/74018))
-* Make Skunks Less Bloodthirsty ([#74010](https://github.com/CleverRaven/Cataclysm-DDA/pull/74010))
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
-* Spellbook doesn't try to load invalid spells ([#74008](https://github.com/CleverRaven/Cataclysm-DDA/pull/74008))
