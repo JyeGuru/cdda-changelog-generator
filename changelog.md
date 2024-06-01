@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-01-0220 ([82c1845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-0220))
+
+* hound of tindalos looks like hound of tindalos ([#74225](https://github.com/CleverRaven/Cataclysm-DDA/pull/74225))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-05-31-1919 ([cef5d70](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-31-1919))
 
 * Add regen serum ([#74021](https://github.com/CleverRaven/Cataclysm-DDA/pull/74021))
@@ -224,6 +230,5 @@
 * Sane-ify in-vehicle movement size checks ([#74004](https://github.com/CleverRaven/Cataclysm-DDA/pull/74004))
 * Make Skunks Less Bloodthirsty ([#74010](https://github.com/CleverRaven/Cataclysm-DDA/pull/74010))
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
-* Fix some formatting in the document ([#74001](https://github.com/CleverRaven/Cataclysm-DDA/pull/74001))
 * Minor string and item category changes ([#74003](https://github.com/CleverRaven/Cataclysm-DDA/pull/74003))
 * Spellbook doesn't try to load invalid spells ([#74008](https://github.com/CleverRaven/Cataclysm-DDA/pull/74008))
