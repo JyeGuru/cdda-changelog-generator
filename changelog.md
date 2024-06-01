@@ -1,3 +1,11 @@
+* Add Unholy Debug Angel Cake ([#74216](https://github.com/CleverRaven/Cataclysm-DDA/pull/74216))
+* Routine tileset updates on 01 June 2024 ([#74222](https://github.com/CleverRaven/Cataclysm-DDA/pull/74222))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-01-1212 ([e8c17b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-1212))
+
+* Fix inconsistencies in corn and popcorn ([#74213](https://github.com/CleverRaven/Cataclysm-DDA/pull/74213))
 
 ---
 
@@ -188,11 +196,6 @@
 * Backport #73599 ([#74040](https://github.com/CleverRaven/Cataclysm-DDA/pull/74040))
 * Backport #73917 ([#74039](https://github.com/CleverRaven/Cataclysm-DDA/pull/74039))
 * Backport #73930 ([#74038](https://github.com/CleverRaven/Cataclysm-DDA/pull/74038))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-26-1953 ([cd60b6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-1953))
-
 * fix #73907   Stop Flip Flopping mutations in Alpha stomach chain ([#74022](https://github.com/CleverRaven/Cataclysm-DDA/pull/74022))
 * Routine i18n updates on 25 May 2024 ([#74060](https://github.com/CleverRaven/Cataclysm-DDA/pull/74060))
 * fix: Triple-Pane glass window components added wood material ([#74100](https://github.com/CleverRaven/Cataclysm-DDA/pull/74100))
@@ -218,7 +221,6 @@
 * [MoM] Increase Farstep range ([#74050](https://github.com/CleverRaven/Cataclysm-DDA/pull/74050))
 * [DinoMod] camp hunting rebalance ([#74020](https://github.com/CleverRaven/Cataclysm-DDA/pull/74020))
 * Butterfly nets ([#74049](https://github.com/CleverRaven/Cataclysm-DDA/pull/74049))
-* [MoM] Add Torrential Channeling, revamp Extended Channeling ([#74007](https://github.com/CleverRaven/Cataclysm-DDA/pull/74007))
 * Random NPCs have the same starting skills and proficiencies as the average new character ([#74013](https://github.com/CleverRaven/Cataclysm-DDA/pull/74013))
 * Added roofs to workshop 1 ([#74037](https://github.com/CleverRaven/Cataclysm-DDA/pull/74037))
 * Oops - remove cramped space when no longer cramped ([#74046](https://github.com/CleverRaven/Cataclysm-DDA/pull/74046))
@@ -227,8 +229,6 @@
 * [MoM] Edit channeling formula to account for concentration proficiencies, clamp success chances ([#74024](https://github.com/CleverRaven/Cataclysm-DDA/pull/74024))
 * added roof to A/C carrier ([#74019](https://github.com/CleverRaven/Cataclysm-DDA/pull/74019))
 * Explicit roofs on workshop version 2 expansion ([#74018](https://github.com/CleverRaven/Cataclysm-DDA/pull/74018))
-* Sane-ify in-vehicle movement size checks ([#74004](https://github.com/CleverRaven/Cataclysm-DDA/pull/74004))
 * Make Skunks Less Bloodthirsty ([#74010](https://github.com/CleverRaven/Cataclysm-DDA/pull/74010))
 * [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
-* Minor string and item category changes ([#74003](https://github.com/CleverRaven/Cataclysm-DDA/pull/74003))
 * Spellbook doesn't try to load invalid spells ([#74008](https://github.com/CleverRaven/Cataclysm-DDA/pull/74008))
