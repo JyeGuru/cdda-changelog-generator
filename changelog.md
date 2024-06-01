@@ -1,3 +1,4 @@
+* [MoM] Torrential channeling research no longer has required proficiencies ([#74215](https://github.com/CleverRaven/Cataclysm-DDA/pull/74215))
 * Cooldown fix and minor changes ([#74139](https://github.com/CleverRaven/Cataclysm-DDA/pull/74139))
 * Audit vitamin costs per mutation ([#74145](https://github.com/CleverRaven/Cataclysm-DDA/pull/74145))
 * Remove extern trap ids ([#74214](https://github.com/CleverRaven/Cataclysm-DDA/pull/74214))
@@ -205,7 +206,6 @@
 * Backport #70799 and #72684 ([#74042](https://github.com/CleverRaven/Cataclysm-DDA/pull/74042))
 * Backport #70705 and #72574 ([#74041](https://github.com/CleverRaven/Cataclysm-DDA/pull/74041))
 * Backport #73599 ([#74040](https://github.com/CleverRaven/Cataclysm-DDA/pull/74040))
-* Backport #73917 ([#74039](https://github.com/CleverRaven/Cataclysm-DDA/pull/74039))
 * Routine i18n updates on 25 May 2024 ([#74060](https://github.com/CleverRaven/Cataclysm-DDA/pull/74060))
 * fix: Triple-Pane glass window components added wood material ([#74100](https://github.com/CleverRaven/Cataclysm-DDA/pull/74100))
 * Remove extraneous 0 from 38 requirement comment ([#74091](https://github.com/CleverRaven/Cataclysm-DDA/pull/74091))
