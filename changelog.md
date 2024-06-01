@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-01-1432 ([27793bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-1432))
+
 * [MoM] Torrential channeling research no longer has required proficiencies ([#74215](https://github.com/CleverRaven/Cataclysm-DDA/pull/74215))
 * Cooldown fix and minor changes ([#74139](https://github.com/CleverRaven/Cataclysm-DDA/pull/74139))
 * Audit vitamin costs per mutation ([#74145](https://github.com/CleverRaven/Cataclysm-DDA/pull/74145))
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-05-27-0300 ([0e9a8b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-0300))
 
 * Fixed construction marker ([#74104](https://github.com/CleverRaven/Cataclysm-DDA/pull/74104))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-26-2348 ([dae1cf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-26-2348))
-
 * Paying for my hubris ([#74106](https://github.com/CleverRaven/Cataclysm-DDA/pull/74106))
 * Backport #72892 ([#74048](https://github.com/CleverRaven/Cataclysm-DDA/pull/74048))
 * Backport #72608 ([#74047](https://github.com/CleverRaven/Cataclysm-DDA/pull/74047))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-01-1432 (27793bd)
 * [MoM] Torrential channeling research no longer has required proficiencies (#74215)
 * Cooldown fix and minor changes (#74139)
 * Audit vitamin costs per mutation (#74145)
@@ -117,8 +119,6 @@ Cataclysm-DDA 0.H release candidate 2024-05-27-0500 (ee25b55)
 
 Cataclysm-DDA experimental build 2024-05-27-0300 (0e9a8b6)
 * Fixed construction marker (#74104)
-
-Cataclysm-DDA experimental build 2024-05-26-2348 (dae1cf6)
 * Paying for my hubris (#74106)
 * Backport #72892 (#74048)
 * Backport #72608 (#74047)
