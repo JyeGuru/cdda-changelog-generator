@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-01-1745 (1ab7d17)
 * stl_emulation span::count_ is not const anymore (#74229)
 
 Cataclysm-DDA experimental build 2024-06-01-1432 (27793bd)
@@ -117,8 +119,6 @@ Cataclysm-DDA 0.H release candidate 2024-05-27-0630 (fc75aa7)
 
 Cataclysm-DDA 0.H release candidate 2024-05-27-0500 (ee25b55)
 * No smithy in a box for 0.H (#74119)
-
-Cataclysm-DDA experimental build 2024-05-27-0300 (0e9a8b6)
 * Fixed construction marker (#74104)
 * Paying for my hubris (#74106)
 * Backport #72892 (#74048)
