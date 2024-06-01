@@ -1,3 +1,9 @@
+* fix sort armor ui list indexing ([#74210](https://github.com/CleverRaven/Cataclysm-DDA/pull/74210))
+* Added chimney/vent pipe above fireplace/wood stove on base shelter 1 ([#74211](https://github.com/CleverRaven/Cataclysm-DDA/pull/74211))
+* Allow appliances to looks_like furniture ([#74212](https://github.com/CleverRaven/Cataclysm-DDA/pull/74212))
+* small tipo fix ([#74226](https://github.com/CleverRaven/Cataclysm-DDA/pull/74226))
+* Routine i18n updates on 01 June 2024 ([#74227](https://github.com/CleverRaven/Cataclysm-DDA/pull/74227))
+* G80 Category ([#74228](https://github.com/CleverRaven/Cataclysm-DDA/pull/74228))
 * Grammar/Spelling Fixers for Fliers Snippets ([#74233](https://github.com/CleverRaven/Cataclysm-DDA/pull/74233))
 * Added chimney/vent pipe to shelter 2 base camp fireplace/wood stove ([#74236](https://github.com/CleverRaven/Cataclysm-DDA/pull/74236))
 * Add Unholy Debug Angel Cake ([#74216](https://github.com/CleverRaven/Cataclysm-DDA/pull/74216))
@@ -14,12 +20,6 @@
 #### Cataclysm-DDA experimental build 2024-06-01-0220 ([82c1845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-0220))
 
 * hound of tindalos looks like hound of tindalos ([#74225](https://github.com/CleverRaven/Cataclysm-DDA/pull/74225))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-31-1919 ([cef5d70](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-31-1919))
-
-* Add regen serum ([#74021](https://github.com/CleverRaven/Cataclysm-DDA/pull/74021))
 * Automatic turrets will not fire guns if they are going to overheat. ([#74190](https://github.com/CleverRaven/Cataclysm-DDA/pull/74190))
 * Remove CCP from .22 groups ([#74205](https://github.com/CleverRaven/Cataclysm-DDA/pull/74205))
 
@@ -221,14 +221,9 @@
 * palette parameters + roof for saltworks ([#74071](https://github.com/CleverRaven/Cataclysm-DDA/pull/74071))
 * Food continues to rot at temp above 63C ([#74058](https://github.com/CleverRaven/Cataclysm-DDA/pull/74058))
 * [MoM] Increase Farstep range ([#74050](https://github.com/CleverRaven/Cataclysm-DDA/pull/74050))
-* [DinoMod] camp hunting rebalance ([#74020](https://github.com/CleverRaven/Cataclysm-DDA/pull/74020))
 * Butterfly nets ([#74049](https://github.com/CleverRaven/Cataclysm-DDA/pull/74049))
-* Random NPCs have the same starting skills and proficiencies as the average new character ([#74013](https://github.com/CleverRaven/Cataclysm-DDA/pull/74013))
 * Added roofs to workshop 1 ([#74037](https://github.com/CleverRaven/Cataclysm-DDA/pull/74037))
 * Oops - remove cramped space when no longer cramped ([#74046](https://github.com/CleverRaven/Cataclysm-DDA/pull/74046))
 * Tainted meat is no longer craftable ([#74034](https://github.com/CleverRaven/Cataclysm-DDA/pull/74034))
 * [Xedra Evolved] Make Paraclesian fae's magic easier in appropriate terrain ([#74027](https://github.com/CleverRaven/Cataclysm-DDA/pull/74027))
 * [MoM] Edit channeling formula to account for concentration proficiencies, clamp success chances ([#74024](https://github.com/CleverRaven/Cataclysm-DDA/pull/74024))
-* added roof to A/C carrier ([#74019](https://github.com/CleverRaven/Cataclysm-DDA/pull/74019))
-* Explicit roofs on workshop version 2 expansion ([#74018](https://github.com/CleverRaven/Cataclysm-DDA/pull/74018))
-* [Magiclysm] Being grabbed makes SOMATIC spells harder to cast ([#74011](https://github.com/CleverRaven/Cataclysm-DDA/pull/74011))
