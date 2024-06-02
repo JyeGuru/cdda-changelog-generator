@@ -1,3 +1,6 @@
+* Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests ([#74162](https://github.com/CleverRaven/Cataclysm-DDA/pull/74162))
+* Summon mojocycle upgrades at lvl 10 ([#74193](https://github.com/CleverRaven/Cataclysm-DDA/pull/74193))
+* Aftershock: Urban farms ([#74239](https://github.com/CleverRaven/Cataclysm-DDA/pull/74239))
 
 ---
 
@@ -208,8 +211,6 @@
 * No smithy in a box for 0.H ([#74119](https://github.com/CleverRaven/Cataclysm-DDA/pull/74119))
 * Fixed construction marker ([#74104](https://github.com/CleverRaven/Cataclysm-DDA/pull/74104))
 * Paying for my hubris ([#74106](https://github.com/CleverRaven/Cataclysm-DDA/pull/74106))
-* Backport #72892 ([#74048](https://github.com/CleverRaven/Cataclysm-DDA/pull/74048))
-* Backport #72608 ([#74047](https://github.com/CleverRaven/Cataclysm-DDA/pull/74047))
 * Routine i18n updates on 25 May 2024 ([#74060](https://github.com/CleverRaven/Cataclysm-DDA/pull/74060))
 * fix: Triple-Pane glass window components added wood material ([#74100](https://github.com/CleverRaven/Cataclysm-DDA/pull/74100))
 * Remove extraneous 0 from 38 requirement comment ([#74091](https://github.com/CleverRaven/Cataclysm-DDA/pull/74091))
@@ -230,4 +231,3 @@
 * Food continues to rot at temp above 63C ([#74058](https://github.com/CleverRaven/Cataclysm-DDA/pull/74058))
 * [MoM] Increase Farstep range ([#74050](https://github.com/CleverRaven/Cataclysm-DDA/pull/74050))
 * Butterfly nets ([#74049](https://github.com/CleverRaven/Cataclysm-DDA/pull/74049))
-* Oops - remove cramped space when no longer cramped ([#74046](https://github.com/CleverRaven/Cataclysm-DDA/pull/74046))
