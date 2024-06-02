@@ -123,8 +123,6 @@ Cataclysm-DDA experimental build 2024-05-27-1329 (d12ebbc)
 Cataclysm-DDA 0.H release candidate 2024-05-27-0630 (fc75aa7)
 * godco predatory trader shouldn't be a random spawn for 0.H (#74122)
 * Re-re-add the cataclysm poem (#74123)
-
-Cataclysm-DDA 0.H release candidate 2024-05-27-0500 (ee25b55)
 * No smithy in a box for 0.H (#74119)
 * Fixed construction marker (#74104)
 * Paying for my hubris (#74106)

@@ -204,11 +204,6 @@
 
 * godco predatory trader shouldn't be a random spawn for 0.H ([#74122](https://github.com/CleverRaven/Cataclysm-DDA/pull/74122))
 * Re-re-add the cataclysm poem ([#74123](https://github.com/CleverRaven/Cataclysm-DDA/pull/74123))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-27-0500 ([ee25b55](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-27-0500))
-
 * No smithy in a box for 0.H ([#74119](https://github.com/CleverRaven/Cataclysm-DDA/pull/74119))
 * Fixed construction marker ([#74104](https://github.com/CleverRaven/Cataclysm-DDA/pull/74104))
 * Paying for my hubris ([#74106](https://github.com/CleverRaven/Cataclysm-DDA/pull/74106))
