@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-02-1858 ([f3f4d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-1858))
+
 * Cut down on gun_variant_validator blacklist ([#74248](https://github.com/CleverRaven/Cataclysm-DDA/pull/74248))
 * Grammar Sweep for Fridges/Freezers ([#74251](https://github.com/CleverRaven/Cataclysm-DDA/pull/74251))
 * Fix cata-static-string_id-constants in char_volume_test ([#74259](https://github.com/CleverRaven/Cataclysm-DDA/pull/74259))
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2024-05-28-0322 ([ec621a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-0322))
 
 * Aftershock: Low priority maintenance. ([#74124](https://github.com/CleverRaven/Cataclysm-DDA/pull/74124))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-27-2230 ([ef5af3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-2230))
-
 * Cataclysm Poem grammatical error fix ([#74136](https://github.com/CleverRaven/Cataclysm-DDA/pull/74136))
 * No smithy in a box. ([#74120](https://github.com/CleverRaven/Cataclysm-DDA/pull/74120))
 * godco predatory trader shouldn't be a random spawn ([#74121](https://github.com/CleverRaven/Cataclysm-DDA/pull/74121))
