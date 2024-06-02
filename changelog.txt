@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-02-0619 (f608d5b)
 * Hold your arrow (#74065)
 * Weekly Changelog 2024-05-20 to 2024-05-27 (#74128)
 * Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests (#74162)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2024-05-27-1600 (2c68074)
 Cataclysm-DDA experimental build 2024-05-27-1329 (d12ebbc)
 * Fix hair mutation names (#74134)
 * Added roofs to modular shack (#74108)
-
-Cataclysm-DDA 0.H release candidate 2024-05-27-0630 (fc75aa7)
 * godco predatory trader shouldn't be a random spawn for 0.H (#74122)
 * Re-re-add the cataclysm poem (#74123)
 * No smithy in a box for 0.H (#74119)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-02-0619 ([f608d5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-0619))
+
 * Hold your arrow ([#74065](https://github.com/CleverRaven/Cataclysm-DDA/pull/74065))
 * Weekly Changelog 2024-05-20 to 2024-05-27 ([#74128](https://github.com/CleverRaven/Cataclysm-DDA/pull/74128))
 * Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests ([#74162](https://github.com/CleverRaven/Cataclysm-DDA/pull/74162))
@@ -198,11 +203,6 @@
 
 * Fix hair mutation names ([#74134](https://github.com/CleverRaven/Cataclysm-DDA/pull/74134))
 * Added roofs to modular shack ([#74108](https://github.com/CleverRaven/Cataclysm-DDA/pull/74108))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-27-0630 ([fc75aa7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-27-0630))
-
 * godco predatory trader shouldn't be a random spawn for 0.H ([#74122](https://github.com/CleverRaven/Cataclysm-DDA/pull/74122))
 * Re-re-add the cataclysm poem ([#74123](https://github.com/CleverRaven/Cataclysm-DDA/pull/74123))
 * No smithy in a box for 0.H ([#74119](https://github.com/CleverRaven/Cataclysm-DDA/pull/74119))
