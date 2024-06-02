@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-02-2341 (e90dc11)
 * More tied fridges (#74249)
 
 Cataclysm-DDA experimental build 2024-06-02-2121 (9f9ae41)
@@ -116,8 +118,6 @@ Cataclysm-DDA experimental build 2024-05-28-1916 (def88e8)
 * fish emulsion (#74138)
 * Correctly display pain penalties. (#74116)
 * Fix tools on the ground (#74140)
-
-Cataclysm-DDA experimental build 2024-05-28-1632 (9890a02)
 * Add scrapple as a comestible (#74143)
 * Aftershock: Low priority maintenance. (#74124)
 * Cataclysm Poem grammatical error fix (#74136)

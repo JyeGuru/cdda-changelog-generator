@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-02-2341 ([e90dc11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-2341))
+
 * More tied fridges ([#74249](https://github.com/CleverRaven/Cataclysm-DDA/pull/74249))
 
 ---
@@ -194,11 +199,6 @@
 * fish emulsion ([#74138](https://github.com/CleverRaven/Cataclysm-DDA/pull/74138))
 * Correctly display pain penalties. ([#74116](https://github.com/CleverRaven/Cataclysm-DDA/pull/74116))
 * Fix tools on the ground ([#74140](https://github.com/CleverRaven/Cataclysm-DDA/pull/74140))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-28-1632 ([9890a02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-1632))
-
 * Add scrapple as a comestible ([#74143](https://github.com/CleverRaven/Cataclysm-DDA/pull/74143))
 * Aftershock: Low priority maintenance. ([#74124](https://github.com/CleverRaven/Cataclysm-DDA/pull/74124))
 * Cataclysm Poem grammatical error fix ([#74136](https://github.com/CleverRaven/Cataclysm-DDA/pull/74136))
