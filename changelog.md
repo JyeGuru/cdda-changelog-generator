@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-02-1134 ([3dd6090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-1134))
+
+* Switched Plasma Reload Speeds ([#74243](https://github.com/CleverRaven/Cataclysm-DDA/pull/74243))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-02-0619 ([f608d5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-0619))
 
 * Hold your arrow ([#74065](https://github.com/CleverRaven/Cataclysm-DDA/pull/74065))
@@ -185,12 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-05-27-2230 ([ef5af3b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-2230))
 
 * Cataclysm Poem grammatical error fix ([#74136](https://github.com/CleverRaven/Cataclysm-DDA/pull/74136))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-27-1600 ([2c68074](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-27-1600))
-
-* Add Weighted Blankets and Blanket Variants/Snippets ([#74051](https://github.com/CleverRaven/Cataclysm-DDA/pull/74051))
 * No smithy in a box. ([#74120](https://github.com/CleverRaven/Cataclysm-DDA/pull/74120))
 * godco predatory trader shouldn't be a random spawn ([#74121](https://github.com/CleverRaven/Cataclysm-DDA/pull/74121))
 * Improve gun variant validator script ([#74127](https://github.com/CleverRaven/Cataclysm-DDA/pull/74127))

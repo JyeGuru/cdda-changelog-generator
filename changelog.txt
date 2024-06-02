@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-02-1134 (3dd6090)
+* Switched Plasma Reload Speeds (#74243)
+
 Cataclysm-DDA experimental build 2024-06-02-0619 (f608d5b)
 * Hold your arrow (#74065)
 * Weekly Changelog 2024-05-20 to 2024-05-27 (#74128)
@@ -110,9 +113,6 @@ Cataclysm-DDA experimental build 2024-05-28-0322 (ec621a8)
 
 Cataclysm-DDA experimental build 2024-05-27-2230 (ef5af3b)
 * Cataclysm Poem grammatical error fix (#74136)
-
-Cataclysm-DDA experimental build 2024-05-27-1600 (2c68074)
-* Add Weighted Blankets and Blanket Variants/Snippets (#74051)
 * No smithy in a box. (#74120)
 * godco predatory trader shouldn't be a random spawn (#74121)
 * Improve gun variant validator script (#74127)
