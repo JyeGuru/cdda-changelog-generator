@@ -1,3 +1,10 @@
+* More tied fridges ([#74249](https://github.com/CleverRaven/Cataclysm-DDA/pull/74249))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-02-2121 ([9f9ae41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-2121))
+
+* Remove Railgun Fouling ([#74250](https://github.com/CleverRaven/Cataclysm-DDA/pull/74250))
 
 ---
 
@@ -24,12 +31,6 @@
 #### Cataclysm-DDA experimental build 2024-06-02-1134 ([3dd6090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-1134))
 
 * Switched Plasma Reload Speeds ([#74243](https://github.com/CleverRaven/Cataclysm-DDA/pull/74243))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-02-0619 ([f608d5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-0619))
-
-* Hold your arrow ([#74065](https://github.com/CleverRaven/Cataclysm-DDA/pull/74065))
 * Weekly Changelog 2024-05-20 to 2024-05-27 ([#74128](https://github.com/CleverRaven/Cataclysm-DDA/pull/74128))
 * Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests ([#74162](https://github.com/CleverRaven/Cataclysm-DDA/pull/74162))
 * Summon mojocycle upgrades at lvl 10 ([#74193](https://github.com/CleverRaven/Cataclysm-DDA/pull/74193))
@@ -199,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-05-28-1632 ([9890a02](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-1632))
 
 * Add scrapple as a comestible ([#74143](https://github.com/CleverRaven/Cataclysm-DDA/pull/74143))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-28-0322 ([ec621a8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-0322))
-
 * Aftershock: Low priority maintenance. ([#74124](https://github.com/CleverRaven/Cataclysm-DDA/pull/74124))
 * Cataclysm Poem grammatical error fix ([#74136](https://github.com/CleverRaven/Cataclysm-DDA/pull/74136))
 * No smithy in a box. ([#74120](https://github.com/CleverRaven/Cataclysm-DDA/pull/74120))
@@ -227,7 +223,6 @@
 * Made campus levels consistent ([#74076](https://github.com/CleverRaven/Cataclysm-DDA/pull/74076))
 * [Innawoods] Makes portable soldering iron craftable ([#74092](https://github.com/CleverRaven/Cataclysm-DDA/pull/74092))
 * teensy variable ordering fix ([#74095](https://github.com/CleverRaven/Cataclysm-DDA/pull/74095))
-* Fix Concrete Pallet Smash Results ([#74064](https://github.com/CleverRaven/Cataclysm-DDA/pull/74064))
 * Aftershock: Basic Hacking EOCs ([#74066](https://github.com/CleverRaven/Cataclysm-DDA/pull/74066))
 * Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW ([#74083](https://github.com/CleverRaven/Cataclysm-DDA/pull/74083))
 * palette parameters + roof for saltworks ([#74071](https://github.com/CleverRaven/Cataclysm-DDA/pull/74071))
