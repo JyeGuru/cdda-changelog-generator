@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-02-1424 (a02c572)
+* [Aftershock] Urban Farm Shelf Fix. (#74253)
+
 Cataclysm-DDA experimental build 2024-06-02-1134 (3dd6090)
 * Switched Plasma Reload Speeds (#74243)
 
@@ -118,8 +121,6 @@ Cataclysm-DDA experimental build 2024-05-27-2230 (ef5af3b)
 * Improve gun variant validator script (#74127)
 * Added roof + chimney to pottery cottage (#74133)
 * Remove special casing test for Alpha and increase vitamin max/thresbreach (#74101)
-
-Cataclysm-DDA experimental build 2024-05-27-1329 (d12ebbc)
 * Fix hair mutation names (#74134)
 * Added roofs to modular shack (#74108)
 * godco predatory trader shouldn't be a random spawn for 0.H (#74122)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2024-05-27-1329 (d12ebbc)
 * Routine i18n updates on 25 May 2024 (#74060)
 * fix: Triple-Pane glass window components added wood material (#74100)
 * Remove extraneous 0 from 38 requirement comment (#74091)
-* Primitive tailoring fixes (#74056)
 * Correctly display the cost to learn the proficiency (#74075)
 * Civilianize the SIG 553 (#74085)
 * Rename "shotgun hull" (#74087)
