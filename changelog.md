@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-02-0049 ([c4c9f26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-0049))
+
+* Load sound-triggered traps with more safety ([#74198](https://github.com/CleverRaven/Cataclysm-DDA/pull/74198))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-01-1745 ([1ab7d17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-1745))
 
 * stl_emulation span::count_ is not const anymore ([#74229](https://github.com/CleverRaven/Cataclysm-DDA/pull/74229))
@@ -204,7 +210,6 @@
 * Paying for my hubris ([#74106](https://github.com/CleverRaven/Cataclysm-DDA/pull/74106))
 * Backport #72892 ([#74048](https://github.com/CleverRaven/Cataclysm-DDA/pull/74048))
 * Backport #72608 ([#74047](https://github.com/CleverRaven/Cataclysm-DDA/pull/74047))
-* Backport #70799 and #72684 ([#74042](https://github.com/CleverRaven/Cataclysm-DDA/pull/74042))
 * Routine i18n updates on 25 May 2024 ([#74060](https://github.com/CleverRaven/Cataclysm-DDA/pull/74060))
 * fix: Triple-Pane glass window components added wood material ([#74100](https://github.com/CleverRaven/Cataclysm-DDA/pull/74100))
 * Remove extraneous 0 from 38 requirement comment ([#74091](https://github.com/CleverRaven/Cataclysm-DDA/pull/74091))

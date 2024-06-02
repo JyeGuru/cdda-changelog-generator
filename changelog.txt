@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-02-0049 (c4c9f26)
+* Load sound-triggered traps with more safety (#74198)
+
 Cataclysm-DDA experimental build 2024-06-01-1745 (1ab7d17)
 * stl_emulation span::count_ is not const anymore (#74229)
 
@@ -123,7 +126,6 @@ Cataclysm-DDA 0.H release candidate 2024-05-27-0500 (ee25b55)
 * Paying for my hubris (#74106)
 * Backport #72892 (#74048)
 * Backport #72608 (#74047)
-* Backport #70799 and #72684 (#74042)
 * Routine i18n updates on 25 May 2024 (#74060)
 * fix: Triple-Pane glass window components added wood material (#74100)
 * Remove extraneous 0 from 38 requirement comment (#74091)
