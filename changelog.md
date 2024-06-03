@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-03-2218 ([be3593a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-03-2218))
+
+* Reduce Mini 14/Judge Spawn ([#74276](https://github.com/CleverRaven/Cataclysm-DDA/pull/74276))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-03-0754 ([26960ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-03-0754))
 
 * Reconfigures 'plastic_molding' recipes to be more accurate ([#74080](https://github.com/CleverRaven/Cataclysm-DDA/pull/74080))
@@ -184,11 +190,6 @@
 
 * Create header for forward declarations of point types ([#74161](https://github.com/CleverRaven/Cataclysm-DDA/pull/74161))
 * Fix clang tidy unable to find interned third party headers. ([#74156](https://github.com/CleverRaven/Cataclysm-DDA/pull/74156))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-29-0947 ([a206790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-0947))
-
 * Change steel coverage of pair of heavy survivor boots and gloves ([#74147](https://github.com/CleverRaven/Cataclysm-DDA/pull/74147))
 * [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI ([#74150](https://github.com/CleverRaven/Cataclysm-DDA/pull/74150))
 * Anklet spawn rate adjustment ([#74144](https://github.com/CleverRaven/Cataclysm-DDA/pull/74144))
@@ -216,7 +217,6 @@
 * Civilianize the SIG 553 ([#74085](https://github.com/CleverRaven/Cataclysm-DDA/pull/74085))
 * Rename "shotgun hull" ([#74087](https://github.com/CleverRaven/Cataclysm-DDA/pull/74087))
 * Jesse fix ([#74082](https://github.com/CleverRaven/Cataclysm-DDA/pull/74082))
-* Made campus levels consistent ([#74076](https://github.com/CleverRaven/Cataclysm-DDA/pull/74076))
 * [Innawoods] Makes portable soldering iron craftable ([#74092](https://github.com/CleverRaven/Cataclysm-DDA/pull/74092))
 * teensy variable ordering fix ([#74095](https://github.com/CleverRaven/Cataclysm-DDA/pull/74095))
 * Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW ([#74083](https://github.com/CleverRaven/Cataclysm-DDA/pull/74083))
