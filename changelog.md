@@ -223,6 +223,5 @@
 * Made campus levels consistent ([#74076](https://github.com/CleverRaven/Cataclysm-DDA/pull/74076))
 * [Innawoods] Makes portable soldering iron craftable ([#74092](https://github.com/CleverRaven/Cataclysm-DDA/pull/74092))
 * teensy variable ordering fix ([#74095](https://github.com/CleverRaven/Cataclysm-DDA/pull/74095))
-* Aftershock: Basic Hacking EOCs ([#74066](https://github.com/CleverRaven/Cataclysm-DDA/pull/74066))
 * Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW ([#74083](https://github.com/CleverRaven/Cataclysm-DDA/pull/74083))
 * palette parameters + roof for saltworks ([#74071](https://github.com/CleverRaven/Cataclysm-DDA/pull/74071))
