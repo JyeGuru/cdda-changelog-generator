@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-03-0754 ([26960ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-03-0754))
+
 * Reconfigures 'plastic_molding' recipes to be more accurate ([#74080](https://github.com/CleverRaven/Cataclysm-DDA/pull/74080))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-05-29-0947 ([a206790](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-0947))
 
 * Change steel coverage of pair of heavy survivor boots and gloves ([#74147](https://github.com/CleverRaven/Cataclysm-DDA/pull/74147))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-29-0306 ([8b0ea8d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-0306))
-
 * [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI ([#74150](https://github.com/CleverRaven/Cataclysm-DDA/pull/74150))
 * Anklet spawn rate adjustment ([#74144](https://github.com/CleverRaven/Cataclysm-DDA/pull/74144))
 * Adds the Taurus Judge ([#74115](https://github.com/CleverRaven/Cataclysm-DDA/pull/74115))
