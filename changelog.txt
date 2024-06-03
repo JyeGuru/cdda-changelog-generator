@@ -1,41 +1,19 @@
-
-Cataclysm-DDA experimental build 2024-06-03-0754 (26960ee)
 * Reconfigures 'plastic_molding' recipes to be more accurate (#74080)
-
-Cataclysm-DDA experimental build 2024-06-03-0520 (0b5dbd5)
 * Remove the ability to force feed NPCs petfood (#74262)
-
-Cataclysm-DDA experimental build 2024-06-02-2341 (e90dc11)
 * More tied fridges (#74249)
-
-Cataclysm-DDA experimental build 2024-06-02-2121 (9f9ae41)
 * Remove Railgun Fouling (#74250)
-
-Cataclysm-DDA experimental build 2024-06-02-1858 (f3f4d6d)
 * Cut down on gun_variant_validator blacklist (#74248)
 * Grammar Sweep for Fridges/Freezers (#74251)
 * Fix cata-static-string_id-constants in char_volume_test (#74259)
-
-Cataclysm-DDA experimental build 2024-06-02-1647 (466500a)
 * Adds the Ruger Mk IV (#74223)
-
-Cataclysm-DDA experimental build 2024-06-02-1424 (a02c572)
 * [Aftershock] Urban Farm Shelf Fix. (#74253)
-
-Cataclysm-DDA experimental build 2024-06-02-1134 (3dd6090)
 * Switched Plasma Reload Speeds (#74243)
 * Weekly Changelog 2024-05-20 to 2024-05-27 (#74128)
 * Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests (#74162)
 * Summon mojocycle upgrades at lvl 10 (#74193)
 * Aftershock: Urban farms (#74239)
-
-Cataclysm-DDA experimental build 2024-06-02-0049 (c4c9f26)
 * Load sound-triggered traps with more safety (#74198)
-
-Cataclysm-DDA experimental build 2024-06-01-1745 (1ab7d17)
 * stl_emulation span::count_ is not const anymore (#74229)
-
-Cataclysm-DDA experimental build 2024-06-01-1432 (27793bd)
 * [MoM] Torrential channeling research no longer has required proficiencies (#74215)
 * Cooldown fix and minor changes (#74139)
 * Audit vitamin costs per mutation (#74145)
@@ -56,61 +34,31 @@ Cataclysm-DDA experimental build 2024-06-01-1432 (27793bd)
 * Added chimney/vent pipe to shelter 2 base camp fireplace/wood stove (#74236)
 * Add Unholy Debug Angel Cake (#74216)
 * Routine tileset updates on 01 June 2024 (#74222)
-
-Cataclysm-DDA experimental build 2024-06-01-1212 (e8c17b7)
 * Fix inconsistencies in corn and popcorn (#74213)
-
-Cataclysm-DDA experimental build 2024-06-01-0220 (82c1845)
 * hound of tindalos looks like hound of tindalos (#74225)
 * Automatic turrets will not fire guns if they are going to overheat. (#74190)
 * Remove CCP from .22 groups (#74205)
-
-Cataclysm-DDA experimental build 2024-05-31-1629 (195182f)
 * [Magiclysm] Reduce preserved food in druid tower (#74194)
-
-Cataclysm-DDA experimental build 2024-05-31-0408 (9568831)
 * Egg spoilage audit (#74199)
-
-Cataclysm-DDA 0.H release candidate 2024-05-31-0030 (f8cf42f)
 * Backport #71522 (#74141)
-
-Cataclysm-DDA experimental build 2024-05-30-2137 (261b61c)
 * Adds the CP33 (#74181)
-
-Cataclysm-DDA experimental build 2024-05-30-1846 (3f3e30b)
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` (#74183)
 * [Aftershock] Add Habitat Block 1 to Exoplanet. Also adds Reinforced Glass Display cases and Electronic Lock doors. (#74174)
 * Update furniture_fireplaces.json to include open roof rock floor fire ring (#74166)
 * Increase reload time of the P50 (#74182)
 * [Xedra Evolved] Update Undine water-checking EoCs to use `test_eoc` (#74179)
-
-Cataclysm-DDA experimental build 2024-05-30-1550 (18efe96)
 * [Xedra Evolved] Update Homullus civilization checker to run once per OMT (#74175)
-
-Cataclysm-DDA experimental build 2024-05-30-0626 (8249ff5)
 * Fix salvaged exoskeletons turning into functional exoskeletons (#74164)
-
-Cataclysm-DDA 0.H release candidate 2024-05-30-0506 (1666cf2)
 * Backport #74092 (#74135)
 * Ammo_effects can cast spells (#74167)
 * Adjust helicopter spawn rates (#74176)
 * support selecting all npcs (#74172)
 * [MoM] Update chance to bypass prerequisites when learning psionic powers to use `test_eoc` (#74155)
-
-Cataclysm-DDA experimental build 2024-05-30-0242 (671a708)
 * make wood rails flammable (#74173)
-
-Cataclysm-DDA experimental build 2024-05-29-2113 (0807425)
 * Added roof chimney/vent pipe (#74163)
-
-Cataclysm-DDA experimental build 2024-05-29-1756 (2d1b001)
 * Terminology Update (#74157)
-
-Cataclysm-DDA experimental build 2024-05-29-1636 (f7cce92)
 * Create header for forward declarations of point types (#74161)
 * Fix clang tidy unable to find interned third party headers. (#74156)
-
-Cataclysm-DDA experimental build 2024-05-29-0947 (a206790)
 * Change steel coverage of pair of heavy survivor boots and gloves (#74147)
 * [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI (#74150)
 * Anklet spawn rate adjustment (#74144)
