@@ -190,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-05-28-2212 ([bf808f6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-2212))
 
 * Anklet spawn rate adjustment ([#74144](https://github.com/CleverRaven/Cataclysm-DDA/pull/74144))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-28-1916 ([def88e8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-28-1916))
-
 * Adds the Taurus Judge ([#74115](https://github.com/CleverRaven/Cataclysm-DDA/pull/74115))
 * fish emulsion ([#74138](https://github.com/CleverRaven/Cataclysm-DDA/pull/74138))
 * Correctly display pain penalties. ([#74116](https://github.com/CleverRaven/Cataclysm-DDA/pull/74116))
