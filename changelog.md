@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-04-1918 ([4578b85](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-04-1918))
+
 * [Magiclysm]Fix Proficiency Scaling in "jmath.json" ([#74293](https://github.com/CleverRaven/Cataclysm-DDA/pull/74293))
 * Fix M27 melee damage ([#74294](https://github.com/CleverRaven/Cataclysm-DDA/pull/74294))
 
@@ -179,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-05-30-0626 ([8249ff5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-30-0626))
 
 * Fix salvaged exoskeletons turning into functional exoskeletons ([#74164](https://github.com/CleverRaven/Cataclysm-DDA/pull/74164))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-30-0506 ([1666cf2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-30-0506))
-
 * Backport #74092 ([#74135](https://github.com/CleverRaven/Cataclysm-DDA/pull/74135))
 * Ammo_effects can cast spells ([#74167](https://github.com/CleverRaven/Cataclysm-DDA/pull/74167))
 * Adjust helicopter spawn rates ([#74176](https://github.com/CleverRaven/Cataclysm-DDA/pull/74176))
