@@ -1,3 +1,4 @@
+* godco got roofs (#74312)
 
 Cataclysm-DDA experimental build 2024-06-04-1918 (4578b85)
 * [Magiclysm]Fix Proficiency Scaling in "jmath.json" (#74293)
@@ -128,7 +129,6 @@ Cataclysm-DDA experimental build 2024-05-30-0242 (671a708)
 * [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI (#74150)
 * Anklet spawn rate adjustment (#74144)
 * fish emulsion (#74138)
-* Correctly display pain penalties. (#74116)
 * Fix tools on the ground (#74140)
 * Add scrapple as a comestible (#74143)
 * Aftershock: Low priority maintenance. (#74124)

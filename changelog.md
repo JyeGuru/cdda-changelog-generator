@@ -1,3 +1,4 @@
+* godco got roofs ([#74312](https://github.com/CleverRaven/Cataclysm-DDA/pull/74312))
 
 ---
 
@@ -203,7 +204,6 @@
 * [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI ([#74150](https://github.com/CleverRaven/Cataclysm-DDA/pull/74150))
 * Anklet spawn rate adjustment ([#74144](https://github.com/CleverRaven/Cataclysm-DDA/pull/74144))
 * fish emulsion ([#74138](https://github.com/CleverRaven/Cataclysm-DDA/pull/74138))
-* Correctly display pain penalties. ([#74116](https://github.com/CleverRaven/Cataclysm-DDA/pull/74116))
 * Fix tools on the ground ([#74140](https://github.com/CleverRaven/Cataclysm-DDA/pull/74140))
 * Add scrapple as a comestible ([#74143](https://github.com/CleverRaven/Cataclysm-DDA/pull/74143))
 * Aftershock: Low priority maintenance. ([#74124](https://github.com/CleverRaven/Cataclysm-DDA/pull/74124))
