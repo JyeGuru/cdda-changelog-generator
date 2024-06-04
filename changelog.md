@@ -1,15 +1,21 @@
+* Monster difficulty has a floor of 1 ([#74267](https://github.com/CleverRaven/Cataclysm-DDA/pull/74267))
+* Fixed tools/json_tools/table.py and this get clean csv file for tools/gfx_tools/tileset_coverage.py ([#74284](https://github.com/CleverRaven/Cataclysm-DDA/pull/74284))
+* Aftershock: Update bug brewing nutrients to be equivalent to red meat. ([#74272](https://github.com/CleverRaven/Cataclysm-DDA/pull/74272))
+* use local coordinates instead of global in avatar::rebuild_aim_cache() ([#74287](https://github.com/CleverRaven/Cataclysm-DDA/pull/74287))
+* provided scrap yard with roofs ([#74289](https://github.com/CleverRaven/Cataclysm-DDA/pull/74289))
+* `weather_glass` description etc. ([#74297](https://github.com/CleverRaven/Cataclysm-DDA/pull/74297))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-04-0210 ([9ec3053](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-04-0210))
+
+* Allow using hotkeys to select spells in other categories ([#74281](https://github.com/CleverRaven/Cataclysm-DDA/pull/74281))
 
 ---
 
 #### Cataclysm-DDA experimental build 2024-06-03-2218 ([be3593a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-03-2218))
 
 * Reduce Mini 14/Judge Spawn ([#74276](https://github.com/CleverRaven/Cataclysm-DDA/pull/74276))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-03-0754 ([26960ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-03-0754))
-
-* Reconfigures 'plastic_molding' recipes to be more accurate ([#74080](https://github.com/CleverRaven/Cataclysm-DDA/pull/74080))
 
 ---
 
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-05-29-1756 ([2d1b001](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-1756))
 
 * Terminology Update ([#74157](https://github.com/CleverRaven/Cataclysm-DDA/pull/74157))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-29-1636 ([f7cce92](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-1636))
-
 * Create header for forward declarations of point types ([#74161](https://github.com/CleverRaven/Cataclysm-DDA/pull/74161))
 * Fix clang tidy unable to find interned third party headers. ([#74156](https://github.com/CleverRaven/Cataclysm-DDA/pull/74156))
 * Change steel coverage of pair of heavy survivor boots and gloves ([#74147](https://github.com/CleverRaven/Cataclysm-DDA/pull/74147))
@@ -214,9 +215,5 @@
 * Paying for my hubris ([#74106](https://github.com/CleverRaven/Cataclysm-DDA/pull/74106))
 * fix: Triple-Pane glass window components added wood material ([#74100](https://github.com/CleverRaven/Cataclysm-DDA/pull/74100))
 * Remove extraneous 0 from 38 requirement comment ([#74091](https://github.com/CleverRaven/Cataclysm-DDA/pull/74091))
-* Civilianize the SIG 553 ([#74085](https://github.com/CleverRaven/Cataclysm-DDA/pull/74085))
-* Rename "shotgun hull" ([#74087](https://github.com/CleverRaven/Cataclysm-DDA/pull/74087))
-* Jesse fix ([#74082](https://github.com/CleverRaven/Cataclysm-DDA/pull/74082))
 * [Innawoods] Makes portable soldering iron craftable ([#74092](https://github.com/CleverRaven/Cataclysm-DDA/pull/74092))
 * teensy variable ordering fix ([#74095](https://github.com/CleverRaven/Cataclysm-DDA/pull/74095))
-* Add RISK_EXTREME flag, audit RISK_HIGH and RISK_LOW ([#74083](https://github.com/CleverRaven/Cataclysm-DDA/pull/74083))
