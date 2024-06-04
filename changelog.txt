@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-04-1640 (5cf8042)
+* Adjust Copper Wire Deconstructions (#74296)
+
 Cataclysm-DDA experimental build 2024-06-04-0517 (02d16e3)
 * Introduce half face gas mask (#74255)
 * [MoM] Reduce maximum length of Nether Conduit attunement effect (#74264)
@@ -115,8 +118,6 @@ Cataclysm-DDA 0.H release candidate 2024-05-30-0506 (1666cf2)
 
 Cataclysm-DDA experimental build 2024-05-30-0242 (671a708)
 * make wood rails flammable (#74173)
-
-Cataclysm-DDA experimental build 2024-05-29-2113 (0807425)
 * Added roof chimney/vent pipe (#74163)
 * Terminology Update (#74157)
 * Create header for forward declarations of point types (#74161)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2024-05-29-2113 (0807425)
 * godco predatory trader shouldn't be a random spawn for 0.H (#74122)
 * Re-re-add the cataclysm poem (#74123)
 * No smithy in a box for 0.H (#74119)
-* Paying for my hubris (#74106)

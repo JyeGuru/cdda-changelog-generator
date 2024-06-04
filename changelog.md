@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-04-1640 ([5cf8042](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-04-1640))
+
+* Adjust Copper Wire Deconstructions ([#74296](https://github.com/CleverRaven/Cataclysm-DDA/pull/74296))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-04-0517 ([02d16e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-04-0517))
 
 * Introduce half face gas mask ([#74255](https://github.com/CleverRaven/Cataclysm-DDA/pull/74255))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-05-30-0242 ([671a708](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-30-0242))
 
 * make wood rails flammable ([#74173](https://github.com/CleverRaven/Cataclysm-DDA/pull/74173))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-29-2113 ([0807425](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-2113))
-
 * Added roof chimney/vent pipe ([#74163](https://github.com/CleverRaven/Cataclysm-DDA/pull/74163))
 * Terminology Update ([#74157](https://github.com/CleverRaven/Cataclysm-DDA/pull/74157))
 * Create header for forward declarations of point types ([#74161](https://github.com/CleverRaven/Cataclysm-DDA/pull/74161))
@@ -215,4 +216,3 @@
 * godco predatory trader shouldn't be a random spawn for 0.H ([#74122](https://github.com/CleverRaven/Cataclysm-DDA/pull/74122))
 * Re-re-add the cataclysm poem ([#74123](https://github.com/CleverRaven/Cataclysm-DDA/pull/74123))
 * No smithy in a box for 0.H ([#74119](https://github.com/CleverRaven/Cataclysm-DDA/pull/74119))
-* Paying for my hubris ([#74106](https://github.com/CleverRaven/Cataclysm-DDA/pull/74106))
