@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-04-0517 ([02d16e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-04-0517))
+
 * Introduce half face gas mask ([#74255](https://github.com/CleverRaven/Cataclysm-DDA/pull/74255))
 * [MoM] Reduce maximum length of Nether Conduit attunement effect ([#74264](https://github.com/CleverRaven/Cataclysm-DDA/pull/74264))
 * [MoM] Extended channeling lowers Nether Attunement event odds ([#74265](https://github.com/CleverRaven/Cataclysm-DDA/pull/74265))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-05-29-2113 ([0807425](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-2113))
 
 * Added roof chimney/vent pipe ([#74163](https://github.com/CleverRaven/Cataclysm-DDA/pull/74163))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-29-1756 ([2d1b001](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-29-1756))
-
 * Terminology Update ([#74157](https://github.com/CleverRaven/Cataclysm-DDA/pull/74157))
 * Create header for forward declarations of point types ([#74161](https://github.com/CleverRaven/Cataclysm-DDA/pull/74161))
 * Fix clang tidy unable to find interned third party headers. ([#74156](https://github.com/CleverRaven/Cataclysm-DDA/pull/74156))
