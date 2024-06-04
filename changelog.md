@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-04-2208 ([e7319f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-04-2208))
+
 * godco got roofs ([#74312](https://github.com/CleverRaven/Cataclysm-DDA/pull/74312))
 
 ---
@@ -190,11 +195,6 @@
 * Adjust helicopter spawn rates ([#74176](https://github.com/CleverRaven/Cataclysm-DDA/pull/74176))
 * support selecting all npcs ([#74172](https://github.com/CleverRaven/Cataclysm-DDA/pull/74172))
 * [MoM] Update chance to bypass prerequisites when learning psionic powers to use `test_eoc` ([#74155](https://github.com/CleverRaven/Cataclysm-DDA/pull/74155))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-30-0242 ([671a708](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-30-0242))
-
 * make wood rails flammable ([#74173](https://github.com/CleverRaven/Cataclysm-DDA/pull/74173))
 * Added roof chimney/vent pipe ([#74163](https://github.com/CleverRaven/Cataclysm-DDA/pull/74163))
 * Terminology Update ([#74157](https://github.com/CleverRaven/Cataclysm-DDA/pull/74157))
