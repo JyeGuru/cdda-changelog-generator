@@ -1,3 +1,5 @@
+* [Magiclysm]Fix Proficiency Scaling in "jmath.json" ([#74293](https://github.com/CleverRaven/Cataclysm-DDA/pull/74293))
+* Fix M27 melee damage ([#74294](https://github.com/CleverRaven/Cataclysm-DDA/pull/74294))
 
 ---
 
@@ -200,7 +202,6 @@
 * Change steel coverage of pair of heavy survivor boots and gloves ([#74147](https://github.com/CleverRaven/Cataclysm-DDA/pull/74147))
 * [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI ([#74150](https://github.com/CleverRaven/Cataclysm-DDA/pull/74150))
 * Anklet spawn rate adjustment ([#74144](https://github.com/CleverRaven/Cataclysm-DDA/pull/74144))
-* Adds the Taurus Judge ([#74115](https://github.com/CleverRaven/Cataclysm-DDA/pull/74115))
 * fish emulsion ([#74138](https://github.com/CleverRaven/Cataclysm-DDA/pull/74138))
 * Correctly display pain penalties. ([#74116](https://github.com/CleverRaven/Cataclysm-DDA/pull/74116))
 * Fix tools on the ground ([#74140](https://github.com/CleverRaven/Cataclysm-DDA/pull/74140))
@@ -212,7 +213,6 @@
 * Improve gun variant validator script ([#74127](https://github.com/CleverRaven/Cataclysm-DDA/pull/74127))
 * Added roof + chimney to pottery cottage ([#74133](https://github.com/CleverRaven/Cataclysm-DDA/pull/74133))
 * Fix hair mutation names ([#74134](https://github.com/CleverRaven/Cataclysm-DDA/pull/74134))
-* Added roofs to modular shack ([#74108](https://github.com/CleverRaven/Cataclysm-DDA/pull/74108))
 * godco predatory trader shouldn't be a random spawn for 0.H ([#74122](https://github.com/CleverRaven/Cataclysm-DDA/pull/74122))
 * Re-re-add the cataclysm poem ([#74123](https://github.com/CleverRaven/Cataclysm-DDA/pull/74123))
 * No smithy in a box for 0.H ([#74119](https://github.com/CleverRaven/Cataclysm-DDA/pull/74119))
