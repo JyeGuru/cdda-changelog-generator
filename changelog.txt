@@ -1,3 +1,4 @@
+* Corrected exodii base roof shape to match courtyard (#74286)
 * fix weight of slow-sand water filter (#74323)
 
 Cataclysm-DDA experimental build 2024-06-05-1545 (83156ec)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2024-05-30-2137 (261b61c)
 * fish emulsion (#74138)
 * Fix tools on the ground (#74140)
 * Add scrapple as a comestible (#74143)
-* Aftershock: Low priority maintenance. (#74124)
 * Cataclysm Poem grammatical error fix (#74136)
 * Improve gun variant validator script (#74127)
 * Added roof + chimney to pottery cottage (#74133)
