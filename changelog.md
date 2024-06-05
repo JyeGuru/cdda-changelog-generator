@@ -209,7 +209,6 @@
 * Add scrapple as a comestible ([#74143](https://github.com/CleverRaven/Cataclysm-DDA/pull/74143))
 * Aftershock: Low priority maintenance. ([#74124](https://github.com/CleverRaven/Cataclysm-DDA/pull/74124))
 * Cataclysm Poem grammatical error fix ([#74136](https://github.com/CleverRaven/Cataclysm-DDA/pull/74136))
-* No smithy in a box. ([#74120](https://github.com/CleverRaven/Cataclysm-DDA/pull/74120))
 * godco predatory trader shouldn't be a random spawn ([#74121](https://github.com/CleverRaven/Cataclysm-DDA/pull/74121))
 * Improve gun variant validator script ([#74127](https://github.com/CleverRaven/Cataclysm-DDA/pull/74127))
 * Added roof + chimney to pottery cottage ([#74133](https://github.com/CleverRaven/Cataclysm-DDA/pull/74133))
