@@ -1,3 +1,4 @@
+* rename `acetylene` -> `oxyacetylene` to avoid name collision (#74325)
 
 Cataclysm-DDA experimental build 2024-06-05-1106 (424a5b2)
 * Correct the duct tape requirements in aquarium recipes (#74311)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2024-05-30-1846 (3f3e30b)
 * Improve gun variant validator script (#74127)
 * Added roof + chimney to pottery cottage (#74133)
 * Fix hair mutation names (#74134)
-* godco predatory trader shouldn't be a random spawn for 0.H (#74122)
 * Re-re-add the cataclysm poem (#74123)
