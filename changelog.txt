@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-05-1812 (1a6014e)
 * Corrected exodii base roof shape to match courtyard (#74286)
 * fix weight of slow-sand water filter (#74323)
 
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-05-31-0408 (9568831)
 
 Cataclysm-DDA 0.H release candidate 2024-05-31-0030 (f8cf42f)
 * Backport #71522 (#74141)
-
-Cataclysm-DDA experimental build 2024-05-30-2137 (261b61c)
 * Adds the CP33 (#74181)
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` (#74183)
 * [Aftershock] Add Habitat Block 1 to Exoplanet. Also adds Reinforced Glass Display cases and Electronic Lock doors. (#74174)
