@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-05-2221 (7d5264d)
+* [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. (#74326)
+
 Cataclysm-DDA experimental build 2024-06-05-1812 (1a6014e)
 * Corrected exodii base roof shape to match courtyard (#74286)
 * fix weight of slow-sand water filter (#74323)
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2024-05-31-1629 (195182f)
 
 Cataclysm-DDA experimental build 2024-05-31-0408 (9568831)
 * Egg spoilage audit (#74199)
-
-Cataclysm-DDA 0.H release candidate 2024-05-31-0030 (f8cf42f)
 * Backport #71522 (#74141)
 * Adds the CP33 (#74181)
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` (#74183)
@@ -137,6 +138,5 @@ Cataclysm-DDA 0.H release candidate 2024-05-31-0030 (f8cf42f)
 * Fix tools on the ground (#74140)
 * Add scrapple as a comestible (#74143)
 * Cataclysm Poem grammatical error fix (#74136)
-* Improve gun variant validator script (#74127)
 * Added roof + chimney to pottery cottage (#74133)
 * Fix hair mutation names (#74134)

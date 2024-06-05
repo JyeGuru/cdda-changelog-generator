@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-05-2221 ([7d5264d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-2221))
+
+* [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. ([#74326](https://github.com/CleverRaven/Cataclysm-DDA/pull/74326))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-05-1812 ([1a6014e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-1812))
 
 * Corrected exodii base roof shape to match courtyard ([#74286](https://github.com/CleverRaven/Cataclysm-DDA/pull/74286))
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2024-05-31-0408 ([9568831](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-31-0408))
 
 * Egg spoilage audit ([#74199](https://github.com/CleverRaven/Cataclysm-DDA/pull/74199))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-05-31-0030 ([f8cf42f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-05-31-0030))
-
 * Backport #71522 ([#74141](https://github.com/CleverRaven/Cataclysm-DDA/pull/74141))
 * Adds the CP33 ([#74181](https://github.com/CleverRaven/Cataclysm-DDA/pull/74181))
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` ([#74183](https://github.com/CleverRaven/Cataclysm-DDA/pull/74183))
@@ -212,6 +213,5 @@
 * Fix tools on the ground ([#74140](https://github.com/CleverRaven/Cataclysm-DDA/pull/74140))
 * Add scrapple as a comestible ([#74143](https://github.com/CleverRaven/Cataclysm-DDA/pull/74143))
 * Cataclysm Poem grammatical error fix ([#74136](https://github.com/CleverRaven/Cataclysm-DDA/pull/74136))
-* Improve gun variant validator script ([#74127](https://github.com/CleverRaven/Cataclysm-DDA/pull/74127))
 * Added roof + chimney to pottery cottage ([#74133](https://github.com/CleverRaven/Cataclysm-DDA/pull/74133))
 * Fix hair mutation names ([#74134](https://github.com/CleverRaven/Cataclysm-DDA/pull/74134))
