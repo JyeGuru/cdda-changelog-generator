@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-05-0202 ([b8f906a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-0202))
+
+* Break recursive death spiral ([#74315](https://github.com/CleverRaven/Cataclysm-DDA/pull/74315))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-04-2208 ([e7319f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-04-2208))
 
 * godco got roofs ([#74312](https://github.com/CleverRaven/Cataclysm-DDA/pull/74312))
@@ -184,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-05-30-1550 ([18efe96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-30-1550))
 
 * [Xedra Evolved] Update Homullus civilization checker to run once per OMT ([#74175](https://github.com/CleverRaven/Cataclysm-DDA/pull/74175))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-30-0626 ([8249ff5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-30-0626))
-
 * Fix salvaged exoskeletons turning into functional exoskeletons ([#74164](https://github.com/CleverRaven/Cataclysm-DDA/pull/74164))
 * Backport #74092 ([#74135](https://github.com/CleverRaven/Cataclysm-DDA/pull/74135))
 * Ammo_effects can cast spells ([#74167](https://github.com/CleverRaven/Cataclysm-DDA/pull/74167))
@@ -215,4 +216,3 @@
 * Fix hair mutation names ([#74134](https://github.com/CleverRaven/Cataclysm-DDA/pull/74134))
 * godco predatory trader shouldn't be a random spawn for 0.H ([#74122](https://github.com/CleverRaven/Cataclysm-DDA/pull/74122))
 * Re-re-add the cataclysm poem ([#74123](https://github.com/CleverRaven/Cataclysm-DDA/pull/74123))
-* No smithy in a box for 0.H ([#74119](https://github.com/CleverRaven/Cataclysm-DDA/pull/74119))

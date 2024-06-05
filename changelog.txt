@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-05-0202 (b8f906a)
+* Break recursive death spiral (#74315)
+
 Cataclysm-DDA experimental build 2024-06-04-2208 (e7319f8)
 * godco got roofs (#74312)
 
@@ -112,8 +115,6 @@ Cataclysm-DDA experimental build 2024-05-30-1846 (3f3e30b)
 
 Cataclysm-DDA experimental build 2024-05-30-1550 (18efe96)
 * [Xedra Evolved] Update Homullus civilization checker to run once per OMT (#74175)
-
-Cataclysm-DDA experimental build 2024-05-30-0626 (8249ff5)
 * Fix salvaged exoskeletons turning into functional exoskeletons (#74164)
 * Backport #74092 (#74135)
 * Ammo_effects can cast spells (#74167)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2024-05-30-0626 (8249ff5)
 * Fix hair mutation names (#74134)
 * godco predatory trader shouldn't be a random spawn for 0.H (#74122)
 * Re-re-add the cataclysm poem (#74123)
-* No smithy in a box for 0.H (#74119)
