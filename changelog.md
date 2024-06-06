@@ -1,3 +1,4 @@
+* Snow Cones For Alcoholics ([#74269](https://github.com/CleverRaven/Cataclysm-DDA/pull/74269))
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. ([#74324](https://github.com/CleverRaven/Cataclysm-DDA/pull/74324))
 
 ---
@@ -214,5 +215,4 @@
 * Fix tools on the ground ([#74140](https://github.com/CleverRaven/Cataclysm-DDA/pull/74140))
 * Add scrapple as a comestible ([#74143](https://github.com/CleverRaven/Cataclysm-DDA/pull/74143))
 * Cataclysm Poem grammatical error fix ([#74136](https://github.com/CleverRaven/Cataclysm-DDA/pull/74136))
-* Added roof + chimney to pottery cottage ([#74133](https://github.com/CleverRaven/Cataclysm-DDA/pull/74133))
 * Fix hair mutation names ([#74134](https://github.com/CleverRaven/Cataclysm-DDA/pull/74134))

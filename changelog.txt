@@ -1,3 +1,4 @@
+* Snow Cones For Alcoholics (#74269)
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. (#74324)
 
 Cataclysm-DDA experimental build 2024-06-06-0252 (0ca728a)
@@ -139,5 +140,4 @@ Cataclysm-DDA experimental build 2024-05-31-1629 (195182f)
 * Fix tools on the ground (#74140)
 * Add scrapple as a comestible (#74143)
 * Cataclysm Poem grammatical error fix (#74136)
-* Added roof + chimney to pottery cottage (#74133)
 * Fix hair mutation names (#74134)
