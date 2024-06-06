@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-06-2047 ([daea5c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-2047))
+
 * Add turpentine, camphine to flammable fuel reicpe requirements group ([#74319](https://github.com/CleverRaven/Cataclysm-DDA/pull/74319))
 
 ---
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-06-01-1212 ([e8c17b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-1212))
 
 * Fix inconsistencies in corn and popcorn ([#74213](https://github.com/CleverRaven/Cataclysm-DDA/pull/74213))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-01-0220 ([82c1845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-0220))
-
 * hound of tindalos looks like hound of tindalos ([#74225](https://github.com/CleverRaven/Cataclysm-DDA/pull/74225))
 * Automatic turrets will not fire guns if they are going to overheat. ([#74190](https://github.com/CleverRaven/Cataclysm-DDA/pull/74190))
 * Remove CCP from .22 groups ([#74205](https://github.com/CleverRaven/Cataclysm-DDA/pull/74205))
