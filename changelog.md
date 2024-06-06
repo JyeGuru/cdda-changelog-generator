@@ -1,3 +1,4 @@
+* Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))
 
 ---
 
@@ -120,7 +121,6 @@
 #### Cataclysm-DDA experimental build 2024-06-02-1134 ([3dd6090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-1134))
 
 * Switched Plasma Reload Speeds ([#74243](https://github.com/CleverRaven/Cataclysm-DDA/pull/74243))
-* Weekly Changelog 2024-05-20 to 2024-05-27 ([#74128](https://github.com/CleverRaven/Cataclysm-DDA/pull/74128))
 * Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests ([#74162](https://github.com/CleverRaven/Cataclysm-DDA/pull/74162))
 * Summon mojocycle upgrades at lvl 10 ([#74193](https://github.com/CleverRaven/Cataclysm-DDA/pull/74193))
 * Aftershock: Urban farms ([#74239](https://github.com/CleverRaven/Cataclysm-DDA/pull/74239))

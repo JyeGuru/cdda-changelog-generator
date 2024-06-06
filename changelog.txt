@@ -1,3 +1,4 @@
+* Corpses can decay into bones, etc. (#74328)
 
 Cataclysm-DDA experimental build 2024-06-05-2221 (7d5264d)
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. (#74326)
@@ -66,7 +67,6 @@ Cataclysm-DDA experimental build 2024-06-02-1424 (a02c572)
 
 Cataclysm-DDA experimental build 2024-06-02-1134 (3dd6090)
 * Switched Plasma Reload Speeds (#74243)
-* Weekly Changelog 2024-05-20 to 2024-05-27 (#74128)
 * Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests (#74162)
 * Summon mojocycle upgrades at lvl 10 (#74193)
 * Aftershock: Urban farms (#74239)
