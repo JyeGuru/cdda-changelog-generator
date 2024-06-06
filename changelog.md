@@ -1,3 +1,9 @@
+* Warn the player when auto features are off and user is setting an auto feature with a hotkey. ([#74324](https://github.com/CleverRaven/Cataclysm-DDA/pull/74324))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-06-0252 ([0ca728a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-0252))
+
 * Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))
 
 ---
@@ -181,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2024-05-31-1629 ([195182f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-31-1629))
 
 * [Magiclysm] Reduce preserved food in druid tower ([#74194](https://github.com/CleverRaven/Cataclysm-DDA/pull/74194))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-31-0408 ([9568831](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-31-0408))
-
 * Egg spoilage audit ([#74199](https://github.com/CleverRaven/Cataclysm-DDA/pull/74199))
 * Backport #71522 ([#74141](https://github.com/CleverRaven/Cataclysm-DDA/pull/74141))
 * Adds the CP33 ([#74181](https://github.com/CleverRaven/Cataclysm-DDA/pull/74181))
