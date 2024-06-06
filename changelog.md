@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-06-0510 ([0c962bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-0510))
+
 * Snow Cones For Alcoholics ([#74269](https://github.com/CleverRaven/Cataclysm-DDA/pull/74269))
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. ([#74324](https://github.com/CleverRaven/Cataclysm-DDA/pull/74324))
 
@@ -182,11 +187,6 @@
 * hound of tindalos looks like hound of tindalos ([#74225](https://github.com/CleverRaven/Cataclysm-DDA/pull/74225))
 * Automatic turrets will not fire guns if they are going to overheat. ([#74190](https://github.com/CleverRaven/Cataclysm-DDA/pull/74190))
 * Remove CCP from .22 groups ([#74205](https://github.com/CleverRaven/Cataclysm-DDA/pull/74205))
-
----
-
-#### Cataclysm-DDA experimental build 2024-05-31-1629 ([195182f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-05-31-1629))
-
 * [Magiclysm] Reduce preserved food in druid tower ([#74194](https://github.com/CleverRaven/Cataclysm-DDA/pull/74194))
 * Egg spoilage audit ([#74199](https://github.com/CleverRaven/Cataclysm-DDA/pull/74199))
 * Backport #71522 ([#74141](https://github.com/CleverRaven/Cataclysm-DDA/pull/74141))
