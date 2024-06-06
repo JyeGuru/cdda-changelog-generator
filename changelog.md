@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-06-1728 ([ed23613](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-1728))
+
+* Fixed Proper Nouns ([#74340](https://github.com/CleverRaven/Cataclysm-DDA/pull/74340))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-06-0510 ([0c962bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-0510))
 
 * Snow Cones For Alcoholics ([#74269](https://github.com/CleverRaven/Cataclysm-DDA/pull/74269))
@@ -215,4 +221,3 @@
 * Fix tools on the ground ([#74140](https://github.com/CleverRaven/Cataclysm-DDA/pull/74140))
 * Add scrapple as a comestible ([#74143](https://github.com/CleverRaven/Cataclysm-DDA/pull/74143))
 * Cataclysm Poem grammatical error fix ([#74136](https://github.com/CleverRaven/Cataclysm-DDA/pull/74136))
-* Fix hair mutation names ([#74134](https://github.com/CleverRaven/Cataclysm-DDA/pull/74134))
