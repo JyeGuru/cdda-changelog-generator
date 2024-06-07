@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-07-1705 (716e137)
 * Fix connections sometimes failing to gen on cityless overmaps (#74329)
 * Make options fail faster, fix silent errors (#74343)
 
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2024-06-02-1134 (3dd6090)
 
 Cataclysm-DDA experimental build 2024-06-02-0049 (c4c9f26)
 * Load sound-triggered traps with more safety (#74198)
-
-Cataclysm-DDA experimental build 2024-06-01-1745 (1ab7d17)
 * stl_emulation span::count_ is not const anymore (#74229)
 * [MoM] Torrential channeling research no longer has required proficiencies (#74215)
 * Audit vitamin costs per mutation (#74145)
