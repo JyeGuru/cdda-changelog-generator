@@ -1,3 +1,9 @@
+* Hells Raiders (roof) fixup ([#74347](https://github.com/CleverRaven/Cataclysm-DDA/pull/74347))
+* Fix typo and redundant in mutation_techs.json ([#74350](https://github.com/CleverRaven/Cataclysm-DDA/pull/74350))
+* Remove Survivor Naginata ([#74355](https://github.com/CleverRaven/Cataclysm-DDA/pull/74355))
+* Water terrain connects to dock terrain ([#74356](https://github.com/CleverRaven/Cataclysm-DDA/pull/74356))
+* fix golden crown disassembly ([#74358](https://github.com/CleverRaven/Cataclysm-DDA/pull/74358))
+* Update house_38 to fix miss-matched floor tile ([#74361](https://github.com/CleverRaven/Cataclysm-DDA/pull/74361))
 
 ---
 
@@ -175,7 +181,6 @@
 * Load sound-triggered traps with more safety ([#74198](https://github.com/CleverRaven/Cataclysm-DDA/pull/74198))
 * stl_emulation span::count_ is not const anymore ([#74229](https://github.com/CleverRaven/Cataclysm-DDA/pull/74229))
 * [MoM] Torrential channeling research no longer has required proficiencies ([#74215](https://github.com/CleverRaven/Cataclysm-DDA/pull/74215))
-* Audit vitamin costs per mutation ([#74145](https://github.com/CleverRaven/Cataclysm-DDA/pull/74145))
 * Remove extern trap ids ([#74214](https://github.com/CleverRaven/Cataclysm-DDA/pull/74214))
 * Prevent gun variant script identifiers from being cut off ([#74224](https://github.com/CleverRaven/Cataclysm-DDA/pull/74224))
 * A little bit of everything - Minor JSON fixes from the voices on discord ([#74187](https://github.com/CleverRaven/Cataclysm-DDA/pull/74187))
@@ -216,6 +221,3 @@
 * Terminology Update ([#74157](https://github.com/CleverRaven/Cataclysm-DDA/pull/74157))
 * Create header for forward declarations of point types ([#74161](https://github.com/CleverRaven/Cataclysm-DDA/pull/74161))
 * Fix clang tidy unable to find interned third party headers. ([#74156](https://github.com/CleverRaven/Cataclysm-DDA/pull/74156))
-* Change steel coverage of pair of heavy survivor boots and gloves ([#74147](https://github.com/CleverRaven/Cataclysm-DDA/pull/74147))
-* [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI ([#74150](https://github.com/CleverRaven/Cataclysm-DDA/pull/74150))
-* Anklet spawn rate adjustment ([#74144](https://github.com/CleverRaven/Cataclysm-DDA/pull/74144))
