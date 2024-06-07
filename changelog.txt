@@ -1,3 +1,4 @@
+* Fix connections sometimes failing to gen on cityless overmaps (#74329)
 * Make options fail faster, fix silent errors (#74343)
 * Remove legacy npc_class_id handling and extern list (#74354)
 
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2024-06-01-1432 (27793bd)
 * Change steel coverage of pair of heavy survivor boots and gloves (#74147)
 * [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI (#74150)
 * Anklet spawn rate adjustment (#74144)
-* Add scrapple as a comestible (#74143)

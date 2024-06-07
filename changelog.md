@@ -1,3 +1,4 @@
+* Fix connections sometimes failing to gen on cityless overmaps ([#74329](https://github.com/CleverRaven/Cataclysm-DDA/pull/74329))
 * Make options fail faster, fix silent errors ([#74343](https://github.com/CleverRaven/Cataclysm-DDA/pull/74343))
 * Remove legacy npc_class_id handling and extern list ([#74354](https://github.com/CleverRaven/Cataclysm-DDA/pull/74354))
 
@@ -218,4 +219,3 @@
 * Change steel coverage of pair of heavy survivor boots and gloves ([#74147](https://github.com/CleverRaven/Cataclysm-DDA/pull/74147))
 * [Mods] Psionic powers say "Power level" instead of "Spell level" in the UI ([#74150](https://github.com/CleverRaven/Cataclysm-DDA/pull/74150))
 * Anklet spawn rate adjustment ([#74144](https://github.com/CleverRaven/Cataclysm-DDA/pull/74144))
-* Add scrapple as a comestible ([#74143](https://github.com/CleverRaven/Cataclysm-DDA/pull/74143))
