@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-07-2213 (36fe02f)
 * CITY_UNIQUE flag (#74290)
 * Add a variety of marine plants (#74271)
 
