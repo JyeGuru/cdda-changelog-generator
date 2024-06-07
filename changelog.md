@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-07-1923 ([9461bb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-07-1923))
+
 * Adds the Charger Pistol ([#74321](https://github.com/CleverRaven/Cataclysm-DDA/pull/74321))
 * Party Rock is in the House Tonight ([#74305](https://github.com/CleverRaven/Cataclysm-DDA/pull/74305))
 * Hells Raiders (roof) fixup ([#74347](https://github.com/CleverRaven/Cataclysm-DDA/pull/74347))
@@ -175,11 +180,6 @@
 * Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests ([#74162](https://github.com/CleverRaven/Cataclysm-DDA/pull/74162))
 * Summon mojocycle upgrades at lvl 10 ([#74193](https://github.com/CleverRaven/Cataclysm-DDA/pull/74193))
 * Aftershock: Urban farms ([#74239](https://github.com/CleverRaven/Cataclysm-DDA/pull/74239))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-02-0049 ([c4c9f26](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-0049))
-
 * Load sound-triggered traps with more safety ([#74198](https://github.com/CleverRaven/Cataclysm-DDA/pull/74198))
 * stl_emulation span::count_ is not const anymore ([#74229](https://github.com/CleverRaven/Cataclysm-DDA/pull/74229))
 * [MoM] Torrential channeling research no longer has required proficiencies ([#74215](https://github.com/CleverRaven/Cataclysm-DDA/pull/74215))
