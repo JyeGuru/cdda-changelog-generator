@@ -1,5 +1,10 @@
 * Fix connections sometimes failing to gen on cityless overmaps ([#74329](https://github.com/CleverRaven/Cataclysm-DDA/pull/74329))
 * Make options fail faster, fix silent errors ([#74343](https://github.com/CleverRaven/Cataclysm-DDA/pull/74343))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-07-1438 ([b03844f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-07-1438))
+
 * Remove legacy npc_class_id handling and extern list ([#74354](https://github.com/CleverRaven/Cataclysm-DDA/pull/74354))
 
 ---
@@ -169,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2024-06-01-1745 ([1ab7d17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-1745))
 
 * stl_emulation span::count_ is not const anymore ([#74229](https://github.com/CleverRaven/Cataclysm-DDA/pull/74229))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-01-1432 ([27793bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-1432))
-
 * [MoM] Torrential channeling research no longer has required proficiencies ([#74215](https://github.com/CleverRaven/Cataclysm-DDA/pull/74215))
 * Audit vitamin costs per mutation ([#74145](https://github.com/CleverRaven/Cataclysm-DDA/pull/74145))
 * Remove extern trap ids ([#74214](https://github.com/CleverRaven/Cataclysm-DDA/pull/74214))
