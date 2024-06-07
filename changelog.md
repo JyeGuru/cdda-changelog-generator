@@ -1,3 +1,5 @@
+* Adds the Charger Pistol ([#74321](https://github.com/CleverRaven/Cataclysm-DDA/pull/74321))
+* Party Rock is in the House Tonight ([#74305](https://github.com/CleverRaven/Cataclysm-DDA/pull/74305))
 * Hells Raiders (roof) fixup ([#74347](https://github.com/CleverRaven/Cataclysm-DDA/pull/74347))
 * Fix typo and redundant in mutation_techs.json ([#74350](https://github.com/CleverRaven/Cataclysm-DDA/pull/74350))
 * Remove Survivor Naginata ([#74355](https://github.com/CleverRaven/Cataclysm-DDA/pull/74355))
@@ -215,7 +217,6 @@
 * Ammo_effects can cast spells ([#74167](https://github.com/CleverRaven/Cataclysm-DDA/pull/74167))
 * Adjust helicopter spawn rates ([#74176](https://github.com/CleverRaven/Cataclysm-DDA/pull/74176))
 * support selecting all npcs ([#74172](https://github.com/CleverRaven/Cataclysm-DDA/pull/74172))
-* [MoM] Update chance to bypass prerequisites when learning psionic powers to use `test_eoc` ([#74155](https://github.com/CleverRaven/Cataclysm-DDA/pull/74155))
 * make wood rails flammable ([#74173](https://github.com/CleverRaven/Cataclysm-DDA/pull/74173))
 * Added roof chimney/vent pipe ([#74163](https://github.com/CleverRaven/Cataclysm-DDA/pull/74163))
 * Terminology Update ([#74157](https://github.com/CleverRaven/Cataclysm-DDA/pull/74157))
