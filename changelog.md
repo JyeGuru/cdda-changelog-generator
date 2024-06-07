@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-06-07-1409 ([d6f3403](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-07-1409))
+
+* backport wasm build to 0.H ([#74362](https://github.com/CleverRaven/Cataclysm-DDA/pull/74362))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-06-2047 ([daea5c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-2047))
 
 * Add turpentine, camphine to flammable fuel reicpe requirements group ([#74319](https://github.com/CleverRaven/Cataclysm-DDA/pull/74319))
@@ -166,7 +172,6 @@
 #### Cataclysm-DDA experimental build 2024-06-01-1432 ([27793bd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-1432))
 
 * [MoM] Torrential channeling research no longer has required proficiencies ([#74215](https://github.com/CleverRaven/Cataclysm-DDA/pull/74215))
-* Cooldown fix and minor changes ([#74139](https://github.com/CleverRaven/Cataclysm-DDA/pull/74139))
 * Audit vitamin costs per mutation ([#74145](https://github.com/CleverRaven/Cataclysm-DDA/pull/74145))
 * Remove extern trap ids ([#74214](https://github.com/CleverRaven/Cataclysm-DDA/pull/74214))
 * Prevent gun variant script identifiers from being cut off ([#74224](https://github.com/CleverRaven/Cataclysm-DDA/pull/74224))
@@ -185,11 +190,6 @@
 * Added chimney/vent pipe to shelter 2 base camp fireplace/wood stove ([#74236](https://github.com/CleverRaven/Cataclysm-DDA/pull/74236))
 * Add Unholy Debug Angel Cake ([#74216](https://github.com/CleverRaven/Cataclysm-DDA/pull/74216))
 * Routine tileset updates on 01 June 2024 ([#74222](https://github.com/CleverRaven/Cataclysm-DDA/pull/74222))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-01-1212 ([e8c17b7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-01-1212))
-
 * Fix inconsistencies in corn and popcorn ([#74213](https://github.com/CleverRaven/Cataclysm-DDA/pull/74213))
 * hound of tindalos looks like hound of tindalos ([#74225](https://github.com/CleverRaven/Cataclysm-DDA/pull/74225))
 * Automatic turrets will not fire guns if they are going to overheat. ([#74190](https://github.com/CleverRaven/Cataclysm-DDA/pull/74190))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.H release candidate 2024-06-07-1409 (d6f3403)
+* backport wasm build to 0.H (#74362)
+
 Cataclysm-DDA experimental build 2024-06-06-2047 (daea5c2)
 * Add turpentine, camphine to flammable fuel reicpe requirements group (#74319)
 
@@ -91,7 +94,6 @@ Cataclysm-DDA experimental build 2024-06-01-1745 (1ab7d17)
 
 Cataclysm-DDA experimental build 2024-06-01-1432 (27793bd)
 * [MoM] Torrential channeling research no longer has required proficiencies (#74215)
-* Cooldown fix and minor changes (#74139)
 * Audit vitamin costs per mutation (#74145)
 * Remove extern trap ids (#74214)
 * Prevent gun variant script identifiers from being cut off (#74224)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-06-01-1432 (27793bd)
 * Added chimney/vent pipe to shelter 2 base camp fireplace/wood stove (#74236)
 * Add Unholy Debug Angel Cake (#74216)
 * Routine tileset updates on 01 June 2024 (#74222)
-
-Cataclysm-DDA experimental build 2024-06-01-1212 (e8c17b7)
 * Fix inconsistencies in corn and popcorn (#74213)
 * hound of tindalos looks like hound of tindalos (#74225)
 * Automatic turrets will not fire guns if they are going to overheat. (#74190)
