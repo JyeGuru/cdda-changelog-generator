@@ -1,3 +1,5 @@
+* CITY_UNIQUE flag (#74290)
+* Add a variety of marine plants (#74271)
 
 Cataclysm-DDA experimental build 2024-06-07-1923 (9461bb9)
 * Adds the Charger Pistol (#74321)
@@ -141,6 +143,4 @@ Cataclysm-DDA experimental build 2024-06-02-1134 (3dd6090)
 * support selecting all npcs (#74172)
 * make wood rails flammable (#74173)
 * Added roof chimney/vent pipe (#74163)
-* Terminology Update (#74157)
 * Create header for forward declarations of point types (#74161)
-* Fix clang tidy unable to find interned third party headers. (#74156)

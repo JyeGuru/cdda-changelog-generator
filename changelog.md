@@ -1,3 +1,5 @@
+* CITY_UNIQUE flag ([#74290](https://github.com/CleverRaven/Cataclysm-DDA/pull/74290))
+* Add a variety of marine plants ([#74271](https://github.com/CleverRaven/Cataclysm-DDA/pull/74271))
 
 ---
 
@@ -219,6 +221,4 @@
 * support selecting all npcs ([#74172](https://github.com/CleverRaven/Cataclysm-DDA/pull/74172))
 * make wood rails flammable ([#74173](https://github.com/CleverRaven/Cataclysm-DDA/pull/74173))
 * Added roof chimney/vent pipe ([#74163](https://github.com/CleverRaven/Cataclysm-DDA/pull/74163))
-* Terminology Update ([#74157](https://github.com/CleverRaven/Cataclysm-DDA/pull/74157))
 * Create header for forward declarations of point types ([#74161](https://github.com/CleverRaven/Cataclysm-DDA/pull/74161))
-* Fix clang tidy unable to find interned third party headers. ([#74156](https://github.com/CleverRaven/Cataclysm-DDA/pull/74156))
