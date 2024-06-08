@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-08-1658 ([0d5f225](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-08-1658))
+
+* [Aftershock] Add another variant of Habitat Block to the Aftershock Exoplanet ([#74337](https://github.com/CleverRaven/Cataclysm-DDA/pull/74337))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-07-2213 ([36fe02f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-07-2213))
 
 * CITY_UNIQUE flag ([#74290](https://github.com/CleverRaven/Cataclysm-DDA/pull/74290))
