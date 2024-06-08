@@ -1,3 +1,4 @@
+* Routine i18n updates on 08 June 2024 (#74374)
 
 Cataclysm-DDA experimental build 2024-06-08-1658 (0d5f225)
 * [Aftershock] Add another variant of Habitat Block to the Aftershock Exoplanet (#74337)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2024-06-02-1134 (3dd6090)
 * support selecting all npcs (#74172)
 * make wood rails flammable (#74173)
 * Added roof chimney/vent pipe (#74163)
-* Create header for forward declarations of point types (#74161)

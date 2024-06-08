@@ -1,3 +1,4 @@
+* Routine i18n updates on 08 June 2024 ([#74374](https://github.com/CleverRaven/Cataclysm-DDA/pull/74374))
 
 ---
 
@@ -232,4 +233,3 @@
 * support selecting all npcs ([#74172](https://github.com/CleverRaven/Cataclysm-DDA/pull/74172))
 * make wood rails flammable ([#74173](https://github.com/CleverRaven/Cataclysm-DDA/pull/74173))
 * Added roof chimney/vent pipe ([#74163](https://github.com/CleverRaven/Cataclysm-DDA/pull/74163))
-* Create header for forward declarations of point types ([#74161](https://github.com/CleverRaven/Cataclysm-DDA/pull/74161))
