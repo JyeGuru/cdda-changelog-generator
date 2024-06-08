@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-08-1956 ([96d81dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-08-1956))
+
 * Routine i18n updates on 08 June 2024 ([#74374](https://github.com/CleverRaven/Cataclysm-DDA/pull/74374))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-06-02-1424 ([a02c572](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-1424))
 
 * [Aftershock] Urban Farm Shelf Fix. ([#74253](https://github.com/CleverRaven/Cataclysm-DDA/pull/74253))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-02-1134 ([3dd6090](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-1134))
-
 * Switched Plasma Reload Speeds ([#74243](https://github.com/CleverRaven/Cataclysm-DDA/pull/74243))
 * Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests ([#74162](https://github.com/CleverRaven/Cataclysm-DDA/pull/74162))
 * Summon mojocycle upgrades at lvl 10 ([#74193](https://github.com/CleverRaven/Cataclysm-DDA/pull/74193))
