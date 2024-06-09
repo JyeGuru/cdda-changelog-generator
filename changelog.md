@@ -228,7 +228,6 @@
 * Increase reload time of the P50 ([#74182](https://github.com/CleverRaven/Cataclysm-DDA/pull/74182))
 * [Xedra Evolved] Update Undine water-checking EoCs to use `test_eoc` ([#74179](https://github.com/CleverRaven/Cataclysm-DDA/pull/74179))
 * [Xedra Evolved] Update Homullus civilization checker to run once per OMT ([#74175](https://github.com/CleverRaven/Cataclysm-DDA/pull/74175))
-* Ammo_effects can cast spells ([#74167](https://github.com/CleverRaven/Cataclysm-DDA/pull/74167))
 * Adjust helicopter spawn rates ([#74176](https://github.com/CleverRaven/Cataclysm-DDA/pull/74176))
 * support selecting all npcs ([#74172](https://github.com/CleverRaven/Cataclysm-DDA/pull/74172))
 * make wood rails flammable ([#74173](https://github.com/CleverRaven/Cataclysm-DDA/pull/74173))
