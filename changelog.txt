@@ -1,3 +1,4 @@
+* Full Auto 10/22 (#74371)
 
 Cataclysm-DDA experimental build 2024-06-09-0315 (d5c7011)
 * Fix night vision goggles (#74298)
@@ -145,5 +146,4 @@ Cataclysm-DDA experimental build 2024-06-02-1858 (f3f4d6d)
 * [Xedra Evolved] Update Undine water-checking EoCs to use `test_eoc` (#74179)
 * [Xedra Evolved] Update Homullus civilization checker to run once per OMT (#74175)
 * Adjust helicopter spawn rates (#74176)
-* support selecting all npcs (#74172)
 * make wood rails flammable (#74173)
