@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-09-0315 (d5c7011)
 * Fix night vision goggles (#74298)
 * allow more recipes to use more kinds of water (#74357)
 
@@ -105,8 +107,6 @@ Cataclysm-DDA experimental build 2024-06-02-1858 (f3f4d6d)
 * Cut down on gun_variant_validator blacklist (#74248)
 * Grammar Sweep for Fridges/Freezers (#74251)
 * Fix cata-static-string_id-constants in char_volume_test (#74259)
-
-Cataclysm-DDA experimental build 2024-06-02-1647 (466500a)
 * Adds the Ruger Mk IV (#74223)
 * [Aftershock] Urban Farm Shelf Fix. (#74253)
 * Switched Plasma Reload Speeds (#74243)

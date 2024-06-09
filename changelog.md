@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-09-0315 ([d5c7011](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-0315))
+
 * Fix night vision goggles ([#74298](https://github.com/CleverRaven/Cataclysm-DDA/pull/74298))
 * allow more recipes to use more kinds of water ([#74357](https://github.com/CleverRaven/Cataclysm-DDA/pull/74357))
 
@@ -186,11 +191,6 @@
 * Cut down on gun_variant_validator blacklist ([#74248](https://github.com/CleverRaven/Cataclysm-DDA/pull/74248))
 * Grammar Sweep for Fridges/Freezers ([#74251](https://github.com/CleverRaven/Cataclysm-DDA/pull/74251))
 * Fix cata-static-string_id-constants in char_volume_test ([#74259](https://github.com/CleverRaven/Cataclysm-DDA/pull/74259))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-02-1647 ([466500a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-1647))
-
 * Adds the Ruger Mk IV ([#74223](https://github.com/CleverRaven/Cataclysm-DDA/pull/74223))
 * [Aftershock] Urban Farm Shelf Fix. ([#74253](https://github.com/CleverRaven/Cataclysm-DDA/pull/74253))
 * Switched Plasma Reload Speeds ([#74243](https://github.com/CleverRaven/Cataclysm-DDA/pull/74243))
