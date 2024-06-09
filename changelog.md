@@ -1,3 +1,10 @@
+* Remove further survivor naginata mentions ([#74372](https://github.com/CleverRaven/Cataclysm-DDA/pull/74372))
+* Remove (most) Crater Spawns ([#74369](https://github.com/CleverRaven/Cataclysm-DDA/pull/74369))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-09-1450 ([2f2d329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-1450))
+
 * Full Auto 10/22 ([#74371](https://github.com/CleverRaven/Cataclysm-DDA/pull/74371))
 
 ---
@@ -184,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-06-02-2121 ([9f9ae41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-2121))
 
 * Remove Railgun Fouling ([#74250](https://github.com/CleverRaven/Cataclysm-DDA/pull/74250))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-02-1858 ([f3f4d6d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-1858))
-
 * Cut down on gun_variant_validator blacklist ([#74248](https://github.com/CleverRaven/Cataclysm-DDA/pull/74248))
 * Grammar Sweep for Fridges/Freezers ([#74251](https://github.com/CleverRaven/Cataclysm-DDA/pull/74251))
 * Fix cata-static-string_id-constants in char_volume_test ([#74259](https://github.com/CleverRaven/Cataclysm-DDA/pull/74259))
@@ -225,9 +227,7 @@
 * Egg spoilage audit ([#74199](https://github.com/CleverRaven/Cataclysm-DDA/pull/74199))
 * Adds the CP33 ([#74181](https://github.com/CleverRaven/Cataclysm-DDA/pull/74181))
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` ([#74183](https://github.com/CleverRaven/Cataclysm-DDA/pull/74183))
-* [Aftershock] Add Habitat Block 1 to Exoplanet. Also adds Reinforced Glass Display cases and Electronic Lock doors. ([#74174](https://github.com/CleverRaven/Cataclysm-DDA/pull/74174))
 * Increase reload time of the P50 ([#74182](https://github.com/CleverRaven/Cataclysm-DDA/pull/74182))
 * [Xedra Evolved] Update Undine water-checking EoCs to use `test_eoc` ([#74179](https://github.com/CleverRaven/Cataclysm-DDA/pull/74179))
 * [Xedra Evolved] Update Homullus civilization checker to run once per OMT ([#74175](https://github.com/CleverRaven/Cataclysm-DDA/pull/74175))
 * Adjust helicopter spawn rates ([#74176](https://github.com/CleverRaven/Cataclysm-DDA/pull/74176))
-* make wood rails flammable ([#74173](https://github.com/CleverRaven/Cataclysm-DDA/pull/74173))
