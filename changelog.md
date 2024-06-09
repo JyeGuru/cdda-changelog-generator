@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-09-2139 ([23e26e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-2139))
+
 * Rename Augmentative Tech Review ([#74409](https://github.com/CleverRaven/Cataclysm-DDA/pull/74409))
 
 ---
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-06-03-0520 ([0b5dbd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-03-0520))
 
 * Remove the ability to force feed NPCs petfood ([#74262](https://github.com/CleverRaven/Cataclysm-DDA/pull/74262))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-02-2341 ([e90dc11](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-2341))
-
 * More tied fridges ([#74249](https://github.com/CleverRaven/Cataclysm-DDA/pull/74249))
 * Remove Railgun Fouling ([#74250](https://github.com/CleverRaven/Cataclysm-DDA/pull/74250))
 * Cut down on gun_variant_validator blacklist ([#74248](https://github.com/CleverRaven/Cataclysm-DDA/pull/74248))
