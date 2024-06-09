@@ -1,3 +1,4 @@
+* Rename Augmentative Tech Review ([#74409](https://github.com/CleverRaven/Cataclysm-DDA/pull/74409))
 * Remove further survivor naginata mentions ([#74372](https://github.com/CleverRaven/Cataclysm-DDA/pull/74372))
 * Remove (most) Crater Spawns ([#74369](https://github.com/CleverRaven/Cataclysm-DDA/pull/74369))
 
@@ -229,5 +230,4 @@
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` ([#74183](https://github.com/CleverRaven/Cataclysm-DDA/pull/74183))
 * Increase reload time of the P50 ([#74182](https://github.com/CleverRaven/Cataclysm-DDA/pull/74182))
 * [Xedra Evolved] Update Undine water-checking EoCs to use `test_eoc` ([#74179](https://github.com/CleverRaven/Cataclysm-DDA/pull/74179))
-* [Xedra Evolved] Update Homullus civilization checker to run once per OMT ([#74175](https://github.com/CleverRaven/Cataclysm-DDA/pull/74175))
 * Adjust helicopter spawn rates ([#74176](https://github.com/CleverRaven/Cataclysm-DDA/pull/74176))
