@@ -1,3 +1,10 @@
+* allow more recipes to use more kinds of water ([#74357](https://github.com/CleverRaven/Cataclysm-DDA/pull/74357))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-09-0017 ([a9db8b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-0017))
+
+* Adds Bench Vise ([#74370](https://github.com/CleverRaven/Cataclysm-DDA/pull/74370))
 
 ---
 
@@ -184,14 +191,8 @@
 #### Cataclysm-DDA experimental build 2024-06-02-1647 ([466500a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-1647))
 
 * Adds the Ruger Mk IV ([#74223](https://github.com/CleverRaven/Cataclysm-DDA/pull/74223))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-02-1424 ([a02c572](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-02-1424))
-
 * [Aftershock] Urban Farm Shelf Fix. ([#74253](https://github.com/CleverRaven/Cataclysm-DDA/pull/74253))
 * Switched Plasma Reload Speeds ([#74243](https://github.com/CleverRaven/Cataclysm-DDA/pull/74243))
-* Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests ([#74162](https://github.com/CleverRaven/Cataclysm-DDA/pull/74162))
 * Summon mojocycle upgrades at lvl 10 ([#74193](https://github.com/CleverRaven/Cataclysm-DDA/pull/74193))
 * Aftershock: Urban farms ([#74239](https://github.com/CleverRaven/Cataclysm-DDA/pull/74239))
 * Load sound-triggered traps with more safety ([#74198](https://github.com/CleverRaven/Cataclysm-DDA/pull/74198))
@@ -232,4 +233,3 @@
 * Adjust helicopter spawn rates ([#74176](https://github.com/CleverRaven/Cataclysm-DDA/pull/74176))
 * support selecting all npcs ([#74172](https://github.com/CleverRaven/Cataclysm-DDA/pull/74172))
 * make wood rails flammable ([#74173](https://github.com/CleverRaven/Cataclysm-DDA/pull/74173))
-* Added roof chimney/vent pipe ([#74163](https://github.com/CleverRaven/Cataclysm-DDA/pull/74163))

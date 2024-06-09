@@ -1,3 +1,7 @@
+* allow more recipes to use more kinds of water (#74357)
+
+Cataclysm-DDA experimental build 2024-06-09-0017 (a9db8b3)
+* Adds Bench Vise (#74370)
 
 Cataclysm-DDA experimental build 2024-06-08-1956 (96d81dc)
 * Routine i18n updates on 08 June 2024 (#74374)
@@ -103,11 +107,8 @@ Cataclysm-DDA experimental build 2024-06-02-1858 (f3f4d6d)
 
 Cataclysm-DDA experimental build 2024-06-02-1647 (466500a)
 * Adds the Ruger Mk IV (#74223)
-
-Cataclysm-DDA experimental build 2024-06-02-1424 (a02c572)
 * [Aftershock] Urban Farm Shelf Fix. (#74253)
 * Switched Plasma Reload Speeds (#74243)
-* Characters have actual volume, sane-ify sane-ified vehicle size checks. Enforce with unit tests (#74162)
 * Summon mojocycle upgrades at lvl 10 (#74193)
 * Aftershock: Urban farms (#74239)
 * Load sound-triggered traps with more safety (#74198)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2024-06-02-1424 (a02c572)
 * Adjust helicopter spawn rates (#74176)
 * support selecting all npcs (#74172)
 * make wood rails flammable (#74173)
-* Added roof chimney/vent pipe (#74163)
