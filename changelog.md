@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-06-10-1620 ([e52bd7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-10-1620))
+
+* Revert conflicting fix that caused #74158 ([#74421](https://github.com/CleverRaven/Cataclysm-DDA/pull/74421))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-10-1421 ([b54b0ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-10-1421))
 
 * [MOM] Allow short circuit to kill flying robots ([#74423](https://github.com/CleverRaven/Cataclysm-DDA/pull/74423))
@@ -196,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2024-06-04-0210 ([9ec3053](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-04-0210))
 
 * Allow using hotkeys to select spells in other categories ([#74281](https://github.com/CleverRaven/Cataclysm-DDA/pull/74281))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-03-2218 ([be3593a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-03-2218))
-
 * Reduce Mini 14/Judge Spawn ([#74276](https://github.com/CleverRaven/Cataclysm-DDA/pull/74276))
 * Remove the ability to force feed NPCs petfood ([#74262](https://github.com/CleverRaven/Cataclysm-DDA/pull/74262))
 * More tied fridges ([#74249](https://github.com/CleverRaven/Cataclysm-DDA/pull/74249))
@@ -238,6 +239,5 @@
 * Remove CCP from .22 groups ([#74205](https://github.com/CleverRaven/Cataclysm-DDA/pull/74205))
 * [Magiclysm] Reduce preserved food in druid tower ([#74194](https://github.com/CleverRaven/Cataclysm-DDA/pull/74194))
 * Egg spoilage audit ([#74199](https://github.com/CleverRaven/Cataclysm-DDA/pull/74199))
-* Adds the CP33 ([#74181](https://github.com/CleverRaven/Cataclysm-DDA/pull/74181))
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` ([#74183](https://github.com/CleverRaven/Cataclysm-DDA/pull/74183))
 * Increase reload time of the P50 ([#74182](https://github.com/CleverRaven/Cataclysm-DDA/pull/74182))
