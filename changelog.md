@@ -1,3 +1,10 @@
+* [Aftershock] Add the Esper scenario ([#74279](https://github.com/CleverRaven/Cataclysm-DDA/pull/74279))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-10-0028 ([b7f634c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-10-0028))
+
+* Remove extern morale_type ids ([#74217](https://github.com/CleverRaven/Cataclysm-DDA/pull/74217))
 
 ---
 
@@ -206,7 +213,6 @@
 * Remove extern trap ids ([#74214](https://github.com/CleverRaven/Cataclysm-DDA/pull/74214))
 * Prevent gun variant script identifiers from being cut off ([#74224](https://github.com/CleverRaven/Cataclysm-DDA/pull/74224))
 * A little bit of everything - Minor JSON fixes from the voices on discord ([#74187](https://github.com/CleverRaven/Cataclysm-DDA/pull/74187))
-* cache available recipe list in craft menu ([#74178](https://github.com/CleverRaven/Cataclysm-DDA/pull/74178))
 * Fix an assertion failure ([#74185](https://github.com/CleverRaven/Cataclysm-DDA/pull/74185))
 * Added chimney/vent pipe to shelter ([#74186](https://github.com/CleverRaven/Cataclysm-DDA/pull/74186))
 * Nerf the warmth values of some undergarments and thin clothes. ([#74189](https://github.com/CleverRaven/Cataclysm-DDA/pull/74189))
@@ -230,4 +236,3 @@
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` ([#74183](https://github.com/CleverRaven/Cataclysm-DDA/pull/74183))
 * Increase reload time of the P50 ([#74182](https://github.com/CleverRaven/Cataclysm-DDA/pull/74182))
 * [Xedra Evolved] Update Undine water-checking EoCs to use `test_eoc` ([#74179](https://github.com/CleverRaven/Cataclysm-DDA/pull/74179))
-* Adjust helicopter spawn rates ([#74176](https://github.com/CleverRaven/Cataclysm-DDA/pull/74176))
