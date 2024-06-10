@@ -221,7 +221,6 @@
 * Remove extern trap ids ([#74214](https://github.com/CleverRaven/Cataclysm-DDA/pull/74214))
 * Prevent gun variant script identifiers from being cut off ([#74224](https://github.com/CleverRaven/Cataclysm-DDA/pull/74224))
 * A little bit of everything - Minor JSON fixes from the voices on discord ([#74187](https://github.com/CleverRaven/Cataclysm-DDA/pull/74187))
-* Fix an assertion failure ([#74185](https://github.com/CleverRaven/Cataclysm-DDA/pull/74185))
 * Added chimney/vent pipe to shelter ([#74186](https://github.com/CleverRaven/Cataclysm-DDA/pull/74186))
 * Nerf the warmth values of some undergarments and thin clothes. ([#74189](https://github.com/CleverRaven/Cataclysm-DDA/pull/74189))
 * fix sort armor ui list indexing ([#74210](https://github.com/CleverRaven/Cataclysm-DDA/pull/74210))
