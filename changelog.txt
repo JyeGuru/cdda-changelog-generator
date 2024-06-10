@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-10-1733 (8bf8170)
 * Random legacy code cleanup (#74351)
 
 Cataclysm-DDA 0.H release candidate 2024-06-10-1620 (e52bd7f)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-06-04-0517 (02d16e3)
 * use local coordinates instead of global in avatar::rebuild_aim_cache() (#74287)
 * provided scrap yard with roofs (#74289)
 * `weather_glass` description etc. (#74297)
-
-Cataclysm-DDA experimental build 2024-06-04-0210 (9ec3053)
 * Allow using hotkeys to select spells in other categories (#74281)
 * Reduce Mini 14/Judge Spawn (#74276)
 * Remove the ability to force feed NPCs petfood (#74262)
