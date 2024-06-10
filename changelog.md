@@ -240,4 +240,3 @@
 * Remove CCP from .22 groups ([#74205](https://github.com/CleverRaven/Cataclysm-DDA/pull/74205))
 * [Magiclysm] Reduce preserved food in druid tower ([#74194](https://github.com/CleverRaven/Cataclysm-DDA/pull/74194))
 * Egg spoilage audit ([#74199](https://github.com/CleverRaven/Cataclysm-DDA/pull/74199))
-* [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` ([#74183](https://github.com/CleverRaven/Cataclysm-DDA/pull/74183))
