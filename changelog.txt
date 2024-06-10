@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-10-0401 (62b7550)
 * [Aftershock] Add the Esper scenario (#74279)
 
 Cataclysm-DDA experimental build 2024-06-10-0028 (b7f634c)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2024-06-04-0210 (9ec3053)
 
 Cataclysm-DDA experimental build 2024-06-03-2218 (be3593a)
 * Reduce Mini 14/Judge Spawn (#74276)
-
-Cataclysm-DDA experimental build 2024-06-03-0520 (0b5dbd5)
 * Remove the ability to force feed NPCs petfood (#74262)
 * More tied fridges (#74249)
 * Remove Railgun Fouling (#74250)
