@@ -1,3 +1,4 @@
+* Random legacy code cleanup ([#74351](https://github.com/CleverRaven/Cataclysm-DDA/pull/74351))
 
 ---
 
@@ -240,4 +241,3 @@
 * [Magiclysm] Reduce preserved food in druid tower ([#74194](https://github.com/CleverRaven/Cataclysm-DDA/pull/74194))
 * Egg spoilage audit ([#74199](https://github.com/CleverRaven/Cataclysm-DDA/pull/74199))
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` ([#74183](https://github.com/CleverRaven/Cataclysm-DDA/pull/74183))
-* Increase reload time of the P50 ([#74182](https://github.com/CleverRaven/Cataclysm-DDA/pull/74182))
