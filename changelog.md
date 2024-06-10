@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-10-1421 ([b54b0ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-10-1421))
+
+* [MOM] Allow short circuit to kill flying robots ([#74423](https://github.com/CleverRaven/Cataclysm-DDA/pull/74423))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-10-0401 ([62b7550](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-10-0401))
 
 * [Aftershock] Add the Esper scenario ([#74279](https://github.com/CleverRaven/Cataclysm-DDA/pull/74279))
@@ -235,4 +241,3 @@
 * Adds the CP33 ([#74181](https://github.com/CleverRaven/Cataclysm-DDA/pull/74181))
 * [Xedra Evolved] Update Arvore forest-checking EoCs to use `test_eoc` ([#74183](https://github.com/CleverRaven/Cataclysm-DDA/pull/74183))
 * Increase reload time of the P50 ([#74182](https://github.com/CleverRaven/Cataclysm-DDA/pull/74182))
-* [Xedra Evolved] Update Undine water-checking EoCs to use `test_eoc` ([#74179](https://github.com/CleverRaven/Cataclysm-DDA/pull/74179))
