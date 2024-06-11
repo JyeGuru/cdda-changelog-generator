@@ -1,3 +1,4 @@
+* Minor house map adjustments, mostly roofs ([#74367](https://github.com/CleverRaven/Cataclysm-DDA/pull/74367))
 * Weekly Changelog 2024-05-27 to 2024-06-03 ([#74274](https://github.com/CleverRaven/Cataclysm-DDA/pull/74274))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
 * Fixes heater system ([#74313](https://github.com/CleverRaven/Cataclysm-DDA/pull/74313))
@@ -233,4 +234,3 @@
 * G80 Category ([#74228](https://github.com/CleverRaven/Cataclysm-DDA/pull/74228))
 * Grammar/Spelling Fixers for Fliers Snippets ([#74233](https://github.com/CleverRaven/Cataclysm-DDA/pull/74233))
 * Added chimney/vent pipe to shelter 2 base camp fireplace/wood stove ([#74236](https://github.com/CleverRaven/Cataclysm-DDA/pull/74236))
-* hound of tindalos looks like hound of tindalos ([#74225](https://github.com/CleverRaven/Cataclysm-DDA/pull/74225))
