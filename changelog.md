@@ -1,3 +1,4 @@
+* Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
 * Variant Undies: Boxer Briefs and Boxer Shorts ([#74257](https://github.com/CleverRaven/Cataclysm-DDA/pull/74257))
 
 ---
@@ -233,4 +234,3 @@
 * Fix cata-static-string_id-constants in char_volume_test ([#74259](https://github.com/CleverRaven/Cataclysm-DDA/pull/74259))
 * [Aftershock] Urban Farm Shelf Fix. ([#74253](https://github.com/CleverRaven/Cataclysm-DDA/pull/74253))
 * Switched Plasma Reload Speeds ([#74243](https://github.com/CleverRaven/Cataclysm-DDA/pull/74243))
-* Aftershock: Urban farms ([#74239](https://github.com/CleverRaven/Cataclysm-DDA/pull/74239))

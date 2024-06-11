@@ -1,3 +1,4 @@
+* Correct occlusion distance calc for non-isometric tilesets (#74445)
 * Variant Undies: Boxer Briefs and Boxer Shorts (#74257)
 
 Cataclysm-DDA experimental build 2024-06-11-2311 (65c1f96)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2024-06-05-0202 (b8f906a)
 * Fix cata-static-string_id-constants in char_volume_test (#74259)
 * [Aftershock] Urban Farm Shelf Fix. (#74253)
 * Switched Plasma Reload Speeds (#74243)
-* Aftershock: Urban farms (#74239)
