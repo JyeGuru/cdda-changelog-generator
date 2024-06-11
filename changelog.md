@@ -1,3 +1,6 @@
+* Fixes heater system ([#74313](https://github.com/CleverRaven/Cataclysm-DDA/pull/74313))
+* Consistency/balance change to sky islands mission count upgrade ([#74334](https://github.com/CleverRaven/Cataclysm-DDA/pull/74334))
+* `Pour into` instead of `Container for` ([#74346](https://github.com/CleverRaven/Cataclysm-DDA/pull/74346))
 * Organize bone resource item file contents ([#74392](https://github.com/CleverRaven/Cataclysm-DDA/pull/74392))
 * Corrections to a couple of house JSON definitions ([#74379](https://github.com/CleverRaven/Cataclysm-DDA/pull/74379))
 * Adjust Newspaper Chronology ([#74398](https://github.com/CleverRaven/Cataclysm-DDA/pull/74398))
@@ -42,12 +45,6 @@
 #### Cataclysm-DDA experimental build 2024-06-10-0401 ([62b7550](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-10-0401))
 
 * [Aftershock] Add the Esper scenario ([#74279](https://github.com/CleverRaven/Cataclysm-DDA/pull/74279))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-10-0028 ([b7f634c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-10-0028))
-
-* Remove extern morale_type ids ([#74217](https://github.com/CleverRaven/Cataclysm-DDA/pull/74217))
 
 ---
 
@@ -236,6 +233,4 @@
 * G80 Category ([#74228](https://github.com/CleverRaven/Cataclysm-DDA/pull/74228))
 * Grammar/Spelling Fixers for Fliers Snippets ([#74233](https://github.com/CleverRaven/Cataclysm-DDA/pull/74233))
 * Added chimney/vent pipe to shelter 2 base camp fireplace/wood stove ([#74236](https://github.com/CleverRaven/Cataclysm-DDA/pull/74236))
-* Add Unholy Debug Angel Cake ([#74216](https://github.com/CleverRaven/Cataclysm-DDA/pull/74216))
-* Routine tileset updates on 01 June 2024 ([#74222](https://github.com/CleverRaven/Cataclysm-DDA/pull/74222))
 * hound of tindalos looks like hound of tindalos ([#74225](https://github.com/CleverRaven/Cataclysm-DDA/pull/74225))
