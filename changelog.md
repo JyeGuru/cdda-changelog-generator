@@ -1,3 +1,4 @@
+* Corrections to a couple of house JSON definitions ([#74379](https://github.com/CleverRaven/Cataclysm-DDA/pull/74379))
 * Adjust Newspaper Chronology ([#74398](https://github.com/CleverRaven/Cataclysm-DDA/pull/74398))
 * Summer Hard Hat Modernisation ([#74400](https://github.com/CleverRaven/Cataclysm-DDA/pull/74400))
 * Small lighthouse ([#74393](https://github.com/CleverRaven/Cataclysm-DDA/pull/74393))
@@ -229,7 +230,6 @@
 * Aftershock: Urban farms ([#74239](https://github.com/CleverRaven/Cataclysm-DDA/pull/74239))
 * stl_emulation span::count_ is not const anymore ([#74229](https://github.com/CleverRaven/Cataclysm-DDA/pull/74229))
 * [MoM] Torrential channeling research no longer has required proficiencies ([#74215](https://github.com/CleverRaven/Cataclysm-DDA/pull/74215))
-* Remove extern trap ids ([#74214](https://github.com/CleverRaven/Cataclysm-DDA/pull/74214))
 * Prevent gun variant script identifiers from being cut off ([#74224](https://github.com/CleverRaven/Cataclysm-DDA/pull/74224))
 * small tipo fix ([#74226](https://github.com/CleverRaven/Cataclysm-DDA/pull/74226))
 * Routine i18n updates on 01 June 2024 ([#74227](https://github.com/CleverRaven/Cataclysm-DDA/pull/74227))
