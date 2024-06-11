@@ -1,3 +1,4 @@
+* [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
 * Fixes heater system ([#74313](https://github.com/CleverRaven/Cataclysm-DDA/pull/74313))
 * Consistency/balance change to sky islands mission count upgrade ([#74334](https://github.com/CleverRaven/Cataclysm-DDA/pull/74334))
 * `Pour into` instead of `Container for` ([#74346](https://github.com/CleverRaven/Cataclysm-DDA/pull/74346))
@@ -222,7 +223,6 @@
 * Cut down on gun_variant_validator blacklist ([#74248](https://github.com/CleverRaven/Cataclysm-DDA/pull/74248))
 * Grammar Sweep for Fridges/Freezers ([#74251](https://github.com/CleverRaven/Cataclysm-DDA/pull/74251))
 * Fix cata-static-string_id-constants in char_volume_test ([#74259](https://github.com/CleverRaven/Cataclysm-DDA/pull/74259))
-* Adds the Ruger Mk IV ([#74223](https://github.com/CleverRaven/Cataclysm-DDA/pull/74223))
 * [Aftershock] Urban Farm Shelf Fix. ([#74253](https://github.com/CleverRaven/Cataclysm-DDA/pull/74253))
 * Switched Plasma Reload Speeds ([#74243](https://github.com/CleverRaven/Cataclysm-DDA/pull/74243))
 * Aftershock: Urban farms ([#74239](https://github.com/CleverRaven/Cataclysm-DDA/pull/74239))
