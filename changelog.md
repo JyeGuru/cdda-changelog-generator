@@ -1,3 +1,10 @@
+* Variant Undies: Boxer Briefs and Boxer Shorts ([#74257](https://github.com/CleverRaven/Cataclysm-DDA/pull/74257))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-11-2311 ([65c1f96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-11-2311))
+
+* add roof to lumber hotel ([#74452](https://github.com/CleverRaven/Cataclysm-DDA/pull/74452))
 
 ---
 
@@ -201,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2024-06-05-0202 ([b8f906a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-0202))
 
 * Break recursive death spiral ([#74315](https://github.com/CleverRaven/Cataclysm-DDA/pull/74315))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-04-2208 ([e7319f8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-04-2208))
-
 * godco got roofs ([#74312](https://github.com/CleverRaven/Cataclysm-DDA/pull/74312))
 * [Magiclysm]Fix Proficiency Scaling in "jmath.json" ([#74293](https://github.com/CleverRaven/Cataclysm-DDA/pull/74293))
 * Fix M27 melee damage ([#74294](https://github.com/CleverRaven/Cataclysm-DDA/pull/74294))
@@ -232,5 +234,3 @@
 * [Aftershock] Urban Farm Shelf Fix. ([#74253](https://github.com/CleverRaven/Cataclysm-DDA/pull/74253))
 * Switched Plasma Reload Speeds ([#74243](https://github.com/CleverRaven/Cataclysm-DDA/pull/74243))
 * Aftershock: Urban farms ([#74239](https://github.com/CleverRaven/Cataclysm-DDA/pull/74239))
-* Grammar/Spelling Fixers for Fliers Snippets ([#74233](https://github.com/CleverRaven/Cataclysm-DDA/pull/74233))
-* Added chimney/vent pipe to shelter 2 base camp fireplace/wood stove ([#74236](https://github.com/CleverRaven/Cataclysm-DDA/pull/74236))
