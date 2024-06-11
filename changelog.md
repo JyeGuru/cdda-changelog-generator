@@ -1,3 +1,4 @@
+* Weekly Changelog 2024-05-27 to 2024-06-03 ([#74274](https://github.com/CleverRaven/Cataclysm-DDA/pull/74274))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
 * Fixes heater system ([#74313](https://github.com/CleverRaven/Cataclysm-DDA/pull/74313))
 * Consistency/balance change to sky islands mission count upgrade ([#74334](https://github.com/CleverRaven/Cataclysm-DDA/pull/74334))
@@ -227,7 +228,6 @@
 * Switched Plasma Reload Speeds ([#74243](https://github.com/CleverRaven/Cataclysm-DDA/pull/74243))
 * Aftershock: Urban farms ([#74239](https://github.com/CleverRaven/Cataclysm-DDA/pull/74239))
 * stl_emulation span::count_ is not const anymore ([#74229](https://github.com/CleverRaven/Cataclysm-DDA/pull/74229))
-* Prevent gun variant script identifiers from being cut off ([#74224](https://github.com/CleverRaven/Cataclysm-DDA/pull/74224))
 * small tipo fix ([#74226](https://github.com/CleverRaven/Cataclysm-DDA/pull/74226))
 * Routine i18n updates on 01 June 2024 ([#74227](https://github.com/CleverRaven/Cataclysm-DDA/pull/74227))
 * G80 Category ([#74228](https://github.com/CleverRaven/Cataclysm-DDA/pull/74228))
