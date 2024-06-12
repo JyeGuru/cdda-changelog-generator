@@ -1,3 +1,4 @@
+* Aftershock: Replace radioactive gas with ominous radioactive glow. ([#74270](https://github.com/CleverRaven/Cataclysm-DDA/pull/74270))
 * Add cooking_components group to snow cone recipe ([#74465](https://github.com/CleverRaven/Cataclysm-DDA/pull/74465))
 * Purge the overmap coverage test whitelist ([#74424](https://github.com/CleverRaven/Cataclysm-DDA/pull/74424))
 
@@ -220,7 +221,6 @@
 * [Magiclysm]Fix Proficiency Scaling in "jmath.json" ([#74293](https://github.com/CleverRaven/Cataclysm-DDA/pull/74293))
 * Fix M27 melee damage ([#74294](https://github.com/CleverRaven/Cataclysm-DDA/pull/74294))
 * Adjust Copper Wire Deconstructions ([#74296](https://github.com/CleverRaven/Cataclysm-DDA/pull/74296))
-* Introduce half face gas mask ([#74255](https://github.com/CleverRaven/Cataclysm-DDA/pull/74255))
 * [MoM] Reduce maximum length of Nether Conduit attunement effect ([#74264](https://github.com/CleverRaven/Cataclysm-DDA/pull/74264))
 * [MoM] Extended channeling lowers Nether Attunement event odds ([#74265](https://github.com/CleverRaven/Cataclysm-DDA/pull/74265))
 * [MoM] Fix Earthshaker ter_transform ([#74266](https://github.com/CleverRaven/Cataclysm-DDA/pull/74266))
