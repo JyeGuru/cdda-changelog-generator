@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-12-0205 ([afca258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-0205))
+
 * Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
 * Variant Undies: Boxer Briefs and Boxer Shorts ([#74257](https://github.com/CleverRaven/Cataclysm-DDA/pull/74257))
 
@@ -203,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2024-06-05-1106 ([424a5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-1106))
 
 * Correct the duct tape requirements in aquarium recipes ([#74311](https://github.com/CleverRaven/Cataclysm-DDA/pull/74311))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-05-0202 ([b8f906a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-0202))
-
 * Break recursive death spiral ([#74315](https://github.com/CleverRaven/Cataclysm-DDA/pull/74315))
 * godco got roofs ([#74312](https://github.com/CleverRaven/Cataclysm-DDA/pull/74312))
 * [Magiclysm]Fix Proficiency Scaling in "jmath.json" ([#74293](https://github.com/CleverRaven/Cataclysm-DDA/pull/74293))

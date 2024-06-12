@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-12-0205 (afca258)
 * Correct occlusion distance calc for non-isometric tilesets (#74445)
 * Variant Undies: Boxer Briefs and Boxer Shorts (#74257)
 
@@ -119,8 +121,6 @@ Cataclysm-DDA experimental build 2024-06-05-1545 (83156ec)
 
 Cataclysm-DDA experimental build 2024-06-05-1106 (424a5b2)
 * Correct the duct tape requirements in aquarium recipes (#74311)
-
-Cataclysm-DDA experimental build 2024-06-05-0202 (b8f906a)
 * Break recursive death spiral (#74315)
 * godco got roofs (#74312)
 * [Magiclysm]Fix Proficiency Scaling in "jmath.json" (#74293)
