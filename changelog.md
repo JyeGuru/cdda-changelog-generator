@@ -1,3 +1,4 @@
+* KA-BAR now looks like National Guard Bayonet ([#74415](https://github.com/CleverRaven/Cataclysm-DDA/pull/74415))
 * [Aftershock] Esper additions ([#74431](https://github.com/CleverRaven/Cataclysm-DDA/pull/74431))
 * Fix calculation error in potassium iodide recipe ([#74450](https://github.com/CleverRaven/Cataclysm-DDA/pull/74450))
 * fix typo & refactor ([#74460](https://github.com/CleverRaven/Cataclysm-DDA/pull/74460))
@@ -230,7 +231,6 @@
 * Allow using hotkeys to select spells in other categories ([#74281](https://github.com/CleverRaven/Cataclysm-DDA/pull/74281))
 * Reduce Mini 14/Judge Spawn ([#74276](https://github.com/CleverRaven/Cataclysm-DDA/pull/74276))
 * Remove the ability to force feed NPCs petfood ([#74262](https://github.com/CleverRaven/Cataclysm-DDA/pull/74262))
-* More tied fridges ([#74249](https://github.com/CleverRaven/Cataclysm-DDA/pull/74249))
 * Remove Railgun Fouling ([#74250](https://github.com/CleverRaven/Cataclysm-DDA/pull/74250))
 * Grammar Sweep for Fridges/Freezers ([#74251](https://github.com/CleverRaven/Cataclysm-DDA/pull/74251))
 * Fix cata-static-string_id-constants in char_volume_test ([#74259](https://github.com/CleverRaven/Cataclysm-DDA/pull/74259))
