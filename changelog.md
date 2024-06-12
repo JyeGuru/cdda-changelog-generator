@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-12-1519 ([1f74d2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-1519))
+
 * Aftershock: Replace radioactive gas with ominous radioactive glow. ([#74270](https://github.com/CleverRaven/Cataclysm-DDA/pull/74270))
 * Add cooking_components group to snow cone recipe ([#74465](https://github.com/CleverRaven/Cataclysm-DDA/pull/74465))
 * Purge the overmap coverage test whitelist ([#74424](https://github.com/CleverRaven/Cataclysm-DDA/pull/74424))
@@ -207,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2024-06-05-2221 ([7d5264d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-2221))
 
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. ([#74326](https://github.com/CleverRaven/Cataclysm-DDA/pull/74326))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-05-1812 ([1a6014e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-1812))
-
 * Corrected exodii base roof shape to match courtyard ([#74286](https://github.com/CleverRaven/Cataclysm-DDA/pull/74286))
 * fix weight of slow-sand water filter ([#74323](https://github.com/CleverRaven/Cataclysm-DDA/pull/74323))
 * rename `acetylene` -> `oxyacetylene` to avoid name collision ([#74325](https://github.com/CleverRaven/Cataclysm-DDA/pull/74325))
