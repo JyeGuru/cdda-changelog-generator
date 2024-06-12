@@ -1,3 +1,4 @@
+* Add section on 3D printers to FMS ([#74493](https://github.com/CleverRaven/Cataclysm-DDA/pull/74493))
 
 ---
 
@@ -153,7 +154,6 @@
 #### Cataclysm-DDA experimental build 2024-06-07-2213 ([36fe02f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-07-2213))
 
 * CITY_UNIQUE flag ([#74290](https://github.com/CleverRaven/Cataclysm-DDA/pull/74290))
-* Add a variety of marine plants ([#74271](https://github.com/CleverRaven/Cataclysm-DDA/pull/74271))
 
 ---
 

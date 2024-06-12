@@ -1,3 +1,4 @@
+* Add section on 3D printers to FMS (#74493)
 
 Cataclysm-DDA experimental build 2024-06-12-1850 (aa11ccd)
 * Fix text typos. (#74458)
@@ -93,7 +94,6 @@ Cataclysm-DDA experimental build 2024-06-08-1658 (0d5f225)
 
 Cataclysm-DDA experimental build 2024-06-07-2213 (36fe02f)
 * CITY_UNIQUE flag (#74290)
-* Add a variety of marine plants (#74271)
 
 Cataclysm-DDA experimental build 2024-06-07-1923 (9461bb9)
 * Adds the Charger Pistol (#74321)
