@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-12-0454 ([fedfb57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-0454))
+
 * KA-BAR now looks like National Guard Bayonet ([#74415](https://github.com/CleverRaven/Cataclysm-DDA/pull/74415))
 * [Aftershock] Esper additions ([#74431](https://github.com/CleverRaven/Cataclysm-DDA/pull/74431))
 * Fix calculation error in potassium iodide recipe ([#74450](https://github.com/CleverRaven/Cataclysm-DDA/pull/74450))
@@ -206,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2024-06-05-1545 ([83156ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-1545))
 
 * rename `acetylene` -> `oxyacetylene` to avoid name collision ([#74325](https://github.com/CleverRaven/Cataclysm-DDA/pull/74325))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-05-1106 ([424a5b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-1106))
-
 * Correct the duct tape requirements in aquarium recipes ([#74311](https://github.com/CleverRaven/Cataclysm-DDA/pull/74311))
 * Break recursive death spiral ([#74315](https://github.com/CleverRaven/Cataclysm-DDA/pull/74315))
 * godco got roofs ([#74312](https://github.com/CleverRaven/Cataclysm-DDA/pull/74312))

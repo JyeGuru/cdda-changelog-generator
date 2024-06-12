@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-12-0454 (fedfb57)
 * KA-BAR now looks like National Guard Bayonet (#74415)
 * [Aftershock] Esper additions (#74431)
 * Fix calculation error in potassium iodide recipe (#74450)
@@ -122,8 +124,6 @@ Cataclysm-DDA experimental build 2024-06-05-1812 (1a6014e)
 
 Cataclysm-DDA experimental build 2024-06-05-1545 (83156ec)
 * rename `acetylene` -> `oxyacetylene` to avoid name collision (#74325)
-
-Cataclysm-DDA experimental build 2024-06-05-1106 (424a5b2)
 * Correct the duct tape requirements in aquarium recipes (#74311)
 * Break recursive death spiral (#74315)
 * godco got roofs (#74312)
