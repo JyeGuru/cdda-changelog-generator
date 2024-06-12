@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-12-1214 ([1fb61c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-1214))
+
+* [Backrooms] Update to use indestructible terrain, whitelist and EXTERNAL_OPTIONs ([#74434](https://github.com/CleverRaven/Cataclysm-DDA/pull/74434))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-12-0454 ([fedfb57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-0454))
 
 * KA-BAR now looks like National Guard Bayonet ([#74415](https://github.com/CleverRaven/Cataclysm-DDA/pull/74415))
@@ -205,11 +211,6 @@
 
 * Corrected exodii base roof shape to match courtyard ([#74286](https://github.com/CleverRaven/Cataclysm-DDA/pull/74286))
 * fix weight of slow-sand water filter ([#74323](https://github.com/CleverRaven/Cataclysm-DDA/pull/74323))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-05-1545 ([83156ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-1545))
-
 * rename `acetylene` -> `oxyacetylene` to avoid name collision ([#74325](https://github.com/CleverRaven/Cataclysm-DDA/pull/74325))
 * Correct the duct tape requirements in aquarium recipes ([#74311](https://github.com/CleverRaven/Cataclysm-DDA/pull/74311))
 * Break recursive death spiral ([#74315](https://github.com/CleverRaven/Cataclysm-DDA/pull/74315))
@@ -231,7 +232,6 @@
 * Allow using hotkeys to select spells in other categories ([#74281](https://github.com/CleverRaven/Cataclysm-DDA/pull/74281))
 * Reduce Mini 14/Judge Spawn ([#74276](https://github.com/CleverRaven/Cataclysm-DDA/pull/74276))
 * Remove the ability to force feed NPCs petfood ([#74262](https://github.com/CleverRaven/Cataclysm-DDA/pull/74262))
-* Remove Railgun Fouling ([#74250](https://github.com/CleverRaven/Cataclysm-DDA/pull/74250))
 * Grammar Sweep for Fridges/Freezers ([#74251](https://github.com/CleverRaven/Cataclysm-DDA/pull/74251))
 * Fix cata-static-string_id-constants in char_volume_test ([#74259](https://github.com/CleverRaven/Cataclysm-DDA/pull/74259))
 * [Aftershock] Urban Farm Shelf Fix. ([#74253](https://github.com/CleverRaven/Cataclysm-DDA/pull/74253))
