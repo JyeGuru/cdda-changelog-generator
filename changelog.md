@@ -1,3 +1,4 @@
+* Fix text typos. ([#74458](https://github.com/CleverRaven/Cataclysm-DDA/pull/74458))
 * Fix mouse overmap navigation while using an isometric non-overmap tileset ([#74481](https://github.com/CleverRaven/Cataclysm-DDA/pull/74481))
 * Add roofs to prison guard towers ([#74482](https://github.com/CleverRaven/Cataclysm-DDA/pull/74482))
 * Added roofs on refugee center roof access shacks ([#74484](https://github.com/CleverRaven/Cataclysm-DDA/pull/74484))
@@ -198,12 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-06-06-1728 ([ed23613](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-1728))
 
 * Fixed Proper Nouns ([#74340](https://github.com/CleverRaven/Cataclysm-DDA/pull/74340))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-06-0510 ([0c962bb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-0510))
-
-* Snow Cones For Alcoholics ([#74269](https://github.com/CleverRaven/Cataclysm-DDA/pull/74269))
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. ([#74324](https://github.com/CleverRaven/Cataclysm-DDA/pull/74324))
 
 ---

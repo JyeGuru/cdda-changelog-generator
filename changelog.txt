@@ -1,3 +1,4 @@
+* Fix text typos. (#74458)
 * Fix mouse overmap navigation while using an isometric non-overmap tileset (#74481)
 * Add roofs to prison guard towers (#74482)
 * Added roofs on refugee center roof access shacks (#74484)
@@ -120,9 +121,6 @@ Cataclysm-DDA experimental build 2024-06-06-2047 (daea5c2)
 
 Cataclysm-DDA experimental build 2024-06-06-1728 (ed23613)
 * Fixed Proper Nouns (#74340)
-
-Cataclysm-DDA experimental build 2024-06-06-0510 (0c962bb)
-* Snow Cones For Alcoholics (#74269)
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. (#74324)
 
 Cataclysm-DDA experimental build 2024-06-06-0252 (0ca728a)
