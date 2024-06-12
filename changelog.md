@@ -1,3 +1,8 @@
+* Fix mouse overmap navigation while using an isometric non-overmap tileset ([#74481](https://github.com/CleverRaven/Cataclysm-DDA/pull/74481))
+* Add roofs to prison guard towers ([#74482](https://github.com/CleverRaven/Cataclysm-DDA/pull/74482))
+* Added roofs on refugee center roof access shacks ([#74484](https://github.com/CleverRaven/Cataclysm-DDA/pull/74484))
+* natural rock-> floor/roof, adjusted destruction to match ([#74485](https://github.com/CleverRaven/Cataclysm-DDA/pull/74485))
+* Fix android build ([#74486](https://github.com/CleverRaven/Cataclysm-DDA/pull/74486))
 * Allow mod exclusions in get_all_mods.py ([#74476](https://github.com/CleverRaven/Cataclysm-DDA/pull/74476))
 
 ---
@@ -221,11 +226,7 @@
 * [Magiclysm]Fix Proficiency Scaling in "jmath.json" ([#74293](https://github.com/CleverRaven/Cataclysm-DDA/pull/74293))
 * Fix M27 melee damage ([#74294](https://github.com/CleverRaven/Cataclysm-DDA/pull/74294))
 * Adjust Copper Wire Deconstructions ([#74296](https://github.com/CleverRaven/Cataclysm-DDA/pull/74296))
-* [MoM] Reduce maximum length of Nether Conduit attunement effect ([#74264](https://github.com/CleverRaven/Cataclysm-DDA/pull/74264))
-* [MoM] Extended channeling lowers Nether Attunement event odds ([#74265](https://github.com/CleverRaven/Cataclysm-DDA/pull/74265))
-* [MoM] Fix Earthshaker ter_transform ([#74266](https://github.com/CleverRaven/Cataclysm-DDA/pull/74266))
 * Stop showing suffix of vehicle if link needs reeling ([#74280](https://github.com/CleverRaven/Cataclysm-DDA/pull/74280))
-* Monster difficulty has a floor of 1 ([#74267](https://github.com/CleverRaven/Cataclysm-DDA/pull/74267))
 * Fixed tools/json_tools/table.py and this get clean csv file for tools/gfx_tools/tileset_coverage.py ([#74284](https://github.com/CleverRaven/Cataclysm-DDA/pull/74284))
 * Aftershock: Update bug brewing nutrients to be equivalent to red meat. ([#74272](https://github.com/CleverRaven/Cataclysm-DDA/pull/74272))
 * use local coordinates instead of global in avatar::rebuild_aim_cache() ([#74287](https://github.com/CleverRaven/Cataclysm-DDA/pull/74287))
@@ -233,4 +234,3 @@
 * `weather_glass` description etc. ([#74297](https://github.com/CleverRaven/Cataclysm-DDA/pull/74297))
 * Allow using hotkeys to select spells in other categories ([#74281](https://github.com/CleverRaven/Cataclysm-DDA/pull/74281))
 * Reduce Mini 14/Judge Spawn ([#74276](https://github.com/CleverRaven/Cataclysm-DDA/pull/74276))
-* Remove the ability to force feed NPCs petfood ([#74262](https://github.com/CleverRaven/Cataclysm-DDA/pull/74262))
