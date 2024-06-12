@@ -27,7 +27,6 @@
 #### Cataclysm-DDA experimental build 2024-06-12-0205 ([afca258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-0205))
 
 * Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
-* Variant Undies: Boxer Briefs and Boxer Shorts ([#74257](https://github.com/CleverRaven/Cataclysm-DDA/pull/74257))
 
 ---
 

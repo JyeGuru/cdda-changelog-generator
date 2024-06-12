@@ -15,7 +15,6 @@ Cataclysm-DDA experimental build 2024-06-12-0454 (fedfb57)
 
 Cataclysm-DDA experimental build 2024-06-12-0205 (afca258)
 * Correct occlusion distance calc for non-isometric tilesets (#74445)
-* Variant Undies: Boxer Briefs and Boxer Shorts (#74257)
 
 Cataclysm-DDA experimental build 2024-06-11-2311 (65c1f96)
 * add roof to lumber hotel (#74452)
