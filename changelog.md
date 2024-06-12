@@ -1,3 +1,4 @@
+* Allow mod exclusions in get_all_mods.py ([#74476](https://github.com/CleverRaven/Cataclysm-DDA/pull/74476))
 
 ---
 
@@ -233,4 +234,3 @@
 * Allow using hotkeys to select spells in other categories ([#74281](https://github.com/CleverRaven/Cataclysm-DDA/pull/74281))
 * Reduce Mini 14/Judge Spawn ([#74276](https://github.com/CleverRaven/Cataclysm-DDA/pull/74276))
 * Remove the ability to force feed NPCs petfood ([#74262](https://github.com/CleverRaven/Cataclysm-DDA/pull/74262))
-* Fix cata-static-string_id-constants in char_volume_test ([#74259](https://github.com/CleverRaven/Cataclysm-DDA/pull/74259))
