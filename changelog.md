@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-12-1850 ([aa11ccd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-1850))
+
 * Fix text typos. ([#74458](https://github.com/CleverRaven/Cataclysm-DDA/pull/74458))
 * Fix mouse overmap navigation while using an isometric non-overmap tileset ([#74481](https://github.com/CleverRaven/Cataclysm-DDA/pull/74481))
 * Add roofs to prison guard towers ([#74482](https://github.com/CleverRaven/Cataclysm-DDA/pull/74482))
@@ -206,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2024-06-06-0252 ([0ca728a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-0252))
 
 * Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-05-2221 ([7d5264d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-05-2221))
-
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. ([#74326](https://github.com/CleverRaven/Cataclysm-DDA/pull/74326))
 * Corrected exodii base roof shape to match courtyard ([#74286](https://github.com/CleverRaven/Cataclysm-DDA/pull/74286))
 * fix weight of slow-sand water filter ([#74323](https://github.com/CleverRaven/Cataclysm-DDA/pull/74323))

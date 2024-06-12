@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-12-1850 (aa11ccd)
 * Fix text typos. (#74458)
 * Fix mouse overmap navigation while using an isometric non-overmap tileset (#74481)
 * Add roofs to prison guard towers (#74482)
@@ -125,8 +127,6 @@ Cataclysm-DDA experimental build 2024-06-06-1728 (ed23613)
 
 Cataclysm-DDA experimental build 2024-06-06-0252 (0ca728a)
 * Corpses can decay into bones, etc. (#74328)
-
-Cataclysm-DDA experimental build 2024-06-05-2221 (7d5264d)
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. (#74326)
 * Corrected exodii base roof shape to match courtyard (#74286)
 * fix weight of slow-sand water filter (#74323)
