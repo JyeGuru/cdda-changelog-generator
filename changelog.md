@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-12-2155 ([6153560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-2155))
+
 * Add section on 3D printers to FMS ([#74493](https://github.com/CleverRaven/Cataclysm-DDA/pull/74493))
 
 ---
@@ -199,11 +204,6 @@
 
 * Fixed Proper Nouns ([#74340](https://github.com/CleverRaven/Cataclysm-DDA/pull/74340))
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. ([#74324](https://github.com/CleverRaven/Cataclysm-DDA/pull/74324))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-06-0252 ([0ca728a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-0252))
-
 * Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. ([#74326](https://github.com/CleverRaven/Cataclysm-DDA/pull/74326))
 * Corrected exodii base roof shape to match courtyard ([#74286](https://github.com/CleverRaven/Cataclysm-DDA/pull/74286))

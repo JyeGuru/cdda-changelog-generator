@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-12-2155 (6153560)
 * Add section on 3D printers to FMS (#74493)
 
 Cataclysm-DDA experimental build 2024-06-12-1850 (aa11ccd)
@@ -121,8 +123,6 @@ Cataclysm-DDA experimental build 2024-06-06-2047 (daea5c2)
 Cataclysm-DDA experimental build 2024-06-06-1728 (ed23613)
 * Fixed Proper Nouns (#74340)
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. (#74324)
-
-Cataclysm-DDA experimental build 2024-06-06-0252 (0ca728a)
 * Corpses can decay into bones, etc. (#74328)
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. (#74326)
 * Corrected exodii base roof shape to match courtyard (#74286)
