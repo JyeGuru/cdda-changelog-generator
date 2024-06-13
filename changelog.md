@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-13-0053 ([47c8dfb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-0053))
+
 * [XEDRA] Add Ethereal Wings Dreamer spell ([#74477](https://github.com/CleverRaven/Cataclysm-DDA/pull/74477))
 
 ---
