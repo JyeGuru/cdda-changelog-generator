@@ -1,3 +1,5 @@
+* Remove Graphical_Overmap mod + Add errorless mod removal ([#74457](https://github.com/CleverRaven/Cataclysm-DDA/pull/74457))
+* Remove weird DUKW spawns ([#74467](https://github.com/CleverRaven/Cataclysm-DDA/pull/74467))
 * Field type migration ([#74497](https://github.com/CleverRaven/Cataclysm-DDA/pull/74497))
 * Fix Small Power Substation ([#74501](https://github.com/CleverRaven/Cataclysm-DDA/pull/74501))
 * Display distance to mission objective as a real distance ([#74502](https://github.com/CleverRaven/Cataclysm-DDA/pull/74502))
@@ -191,12 +193,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-06-07-2213 ([36fe02f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-07-2213))
-
-* CITY_UNIQUE flag ([#74290](https://github.com/CleverRaven/Cataclysm-DDA/pull/74290))
-
----
-
 #### Cataclysm-DDA experimental build 2024-06-07-1923 ([9461bb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-07-1923))
 
 * Adds the Charger Pistol ([#74321](https://github.com/CleverRaven/Cataclysm-DDA/pull/74321))
@@ -221,7 +217,6 @@
 * Correct the duct tape requirements in aquarium recipes ([#74311](https://github.com/CleverRaven/Cataclysm-DDA/pull/74311))
 * Break recursive death spiral ([#74315](https://github.com/CleverRaven/Cataclysm-DDA/pull/74315))
 * godco got roofs ([#74312](https://github.com/CleverRaven/Cataclysm-DDA/pull/74312))
-* [Magiclysm]Fix Proficiency Scaling in "jmath.json" ([#74293](https://github.com/CleverRaven/Cataclysm-DDA/pull/74293))
 * Fix M27 melee damage ([#74294](https://github.com/CleverRaven/Cataclysm-DDA/pull/74294))
 * Adjust Copper Wire Deconstructions ([#74296](https://github.com/CleverRaven/Cataclysm-DDA/pull/74296))
 * `weather_glass` description etc. ([#74297](https://github.com/CleverRaven/Cataclysm-DDA/pull/74297))
