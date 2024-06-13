@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-13-1554 ([fcbf5b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-1554))
+
 * [Aftershock] Convert Small and Large Power Substaions ([#74500](https://github.com/CleverRaven/Cataclysm-DDA/pull/74500))
 
 ---
@@ -197,11 +202,6 @@
 
 * Fix connections sometimes failing to gen on cityless overmaps ([#74329](https://github.com/CleverRaven/Cataclysm-DDA/pull/74329))
 * Make options fail faster, fix silent errors ([#74343](https://github.com/CleverRaven/Cataclysm-DDA/pull/74343))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-07-1438 ([b03844f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-07-1438))
-
 * Remove legacy npc_class_id handling and extern list ([#74354](https://github.com/CleverRaven/Cataclysm-DDA/pull/74354))
 * backport wasm build to 0.H ([#74362](https://github.com/CleverRaven/Cataclysm-DDA/pull/74362))
 * Add turpentine, camphine to flammable fuel reicpe requirements group ([#74319](https://github.com/CleverRaven/Cataclysm-DDA/pull/74319))
