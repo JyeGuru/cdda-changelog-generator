@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-13-0720 ([58b90c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-0720))
+
 * [MoM] Extend mood stabilization to others outside of dialogue ([#74437](https://github.com/CleverRaven/Cataclysm-DDA/pull/74437))
 
 ---
@@ -203,11 +208,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-06-07-1409 ([d6f3403](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-07-1409))
 
 * backport wasm build to 0.H ([#74362](https://github.com/CleverRaven/Cataclysm-DDA/pull/74362))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-06-2047 ([daea5c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-2047))
-
 * Add turpentine, camphine to flammable fuel reicpe requirements group ([#74319](https://github.com/CleverRaven/Cataclysm-DDA/pull/74319))
 * Fixed Proper Nouns ([#74340](https://github.com/CleverRaven/Cataclysm-DDA/pull/74340))
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. ([#74324](https://github.com/CleverRaven/Cataclysm-DDA/pull/74324))

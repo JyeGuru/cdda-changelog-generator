@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-13-0720 (58b90c6)
 * [MoM] Extend mood stabilization to others outside of dialogue (#74437)
 
 Cataclysm-DDA experimental build 2024-06-13-0502 (8e5e559)
@@ -122,8 +124,6 @@ Cataclysm-DDA experimental build 2024-06-07-1438 (b03844f)
 
 Cataclysm-DDA 0.H release candidate 2024-06-07-1409 (d6f3403)
 * backport wasm build to 0.H (#74362)
-
-Cataclysm-DDA experimental build 2024-06-06-2047 (daea5c2)
 * Add turpentine, camphine to flammable fuel reicpe requirements group (#74319)
 * Fixed Proper Nouns (#74340)
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. (#74324)
