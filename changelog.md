@@ -1,3 +1,4 @@
+* [XEDRA] Add Ethereal Wings Dreamer spell ([#74477](https://github.com/CleverRaven/Cataclysm-DDA/pull/74477))
 
 ---
 
@@ -217,7 +218,6 @@
 * Adjust Copper Wire Deconstructions ([#74296](https://github.com/CleverRaven/Cataclysm-DDA/pull/74296))
 * Stop showing suffix of vehicle if link needs reeling ([#74280](https://github.com/CleverRaven/Cataclysm-DDA/pull/74280))
 * Fixed tools/json_tools/table.py and this get clean csv file for tools/gfx_tools/tileset_coverage.py ([#74284](https://github.com/CleverRaven/Cataclysm-DDA/pull/74284))
-* Aftershock: Update bug brewing nutrients to be equivalent to red meat. ([#74272](https://github.com/CleverRaven/Cataclysm-DDA/pull/74272))
 * use local coordinates instead of global in avatar::rebuild_aim_cache() ([#74287](https://github.com/CleverRaven/Cataclysm-DDA/pull/74287))
 * provided scrap yard with roofs ([#74289](https://github.com/CleverRaven/Cataclysm-DDA/pull/74289))
 * `weather_glass` description etc. ([#74297](https://github.com/CleverRaven/Cataclysm-DDA/pull/74297))
