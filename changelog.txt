@@ -1,3 +1,7 @@
+* [MoM] Extend mood stabilization to others outside of dialogue (#74437)
+
+Cataclysm-DDA experimental build 2024-06-13-0502 (8e5e559)
+* Revert "Remove legacy inventory system handling" (#74499)
 
 Cataclysm-DDA experimental build 2024-06-13-0053 (47c8dfb)
 * [XEDRA] Add Ethereal Wings Dreamer spell (#74477)
@@ -39,7 +43,6 @@ Cataclysm-DDA experimental build 2024-06-11-0559 (ea11df8)
 * Add context to some snippets in `data/json/npcs/talk_tags.json` (#74327)
 * fix ingredients of slow-sand filter recipe (#74332)
 * Minor house map adjustments, mostly roofs (#74367)
-* Weekly Changelog 2024-05-27 to 2024-06-03 (#74274)
 * [MoM] Account for ROBOT_FLYING (#74432)
 * Fixes heater system (#74313)
 * Consistency/balance change to sky islands mission count upgrade (#74334)
@@ -122,8 +125,6 @@ Cataclysm-DDA 0.H release candidate 2024-06-07-1409 (d6f3403)
 
 Cataclysm-DDA experimental build 2024-06-06-2047 (daea5c2)
 * Add turpentine, camphine to flammable fuel reicpe requirements group (#74319)
-
-Cataclysm-DDA experimental build 2024-06-06-1728 (ed23613)
 * Fixed Proper Nouns (#74340)
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. (#74324)
 * Corpses can decay into bones, etc. (#74328)

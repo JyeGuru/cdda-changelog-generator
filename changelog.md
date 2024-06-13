@@ -1,3 +1,10 @@
+* [MoM] Extend mood stabilization to others outside of dialogue ([#74437](https://github.com/CleverRaven/Cataclysm-DDA/pull/74437))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-13-0502 ([8e5e559](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-0502))
+
+* Revert "Remove legacy inventory system handling" ([#74499](https://github.com/CleverRaven/Cataclysm-DDA/pull/74499))
 
 ---
 
@@ -66,7 +73,6 @@
 * Add context to some snippets in `data/json/npcs/talk_tags.json` ([#74327](https://github.com/CleverRaven/Cataclysm-DDA/pull/74327))
 * fix ingredients of slow-sand filter recipe ([#74332](https://github.com/CleverRaven/Cataclysm-DDA/pull/74332))
 * Minor house map adjustments, mostly roofs ([#74367](https://github.com/CleverRaven/Cataclysm-DDA/pull/74367))
-* Weekly Changelog 2024-05-27 to 2024-06-03 ([#74274](https://github.com/CleverRaven/Cataclysm-DDA/pull/74274))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
 * Fixes heater system ([#74313](https://github.com/CleverRaven/Cataclysm-DDA/pull/74313))
 * Consistency/balance change to sky islands mission count upgrade ([#74334](https://github.com/CleverRaven/Cataclysm-DDA/pull/74334))
@@ -203,11 +209,6 @@
 #### Cataclysm-DDA experimental build 2024-06-06-2047 ([daea5c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-2047))
 
 * Add turpentine, camphine to flammable fuel reicpe requirements group ([#74319](https://github.com/CleverRaven/Cataclysm-DDA/pull/74319))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-06-1728 ([ed23613](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-06-1728))
-
 * Fixed Proper Nouns ([#74340](https://github.com/CleverRaven/Cataclysm-DDA/pull/74340))
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. ([#74324](https://github.com/CleverRaven/Cataclysm-DDA/pull/74324))
 * Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))
