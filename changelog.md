@@ -1,3 +1,6 @@
+* Fix Small Power Substation ([#74501](https://github.com/CleverRaven/Cataclysm-DDA/pull/74501))
+* Display distance to mission objective as a real distance ([#74502](https://github.com/CleverRaven/Cataclysm-DDA/pull/74502))
+* Added roofs to Hub01 shack + merchants ([#74505](https://github.com/CleverRaven/Cataclysm-DDA/pull/74505))
 * Added roofs to abandoned01 ([#74506](https://github.com/CleverRaven/Cataclysm-DDA/pull/74506))
 * Added roof to roof access shack on apartment_mod_new ([#74507](https://github.com/CleverRaven/Cataclysm-DDA/pull/74507))
 
@@ -212,7 +215,6 @@
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. ([#74324](https://github.com/CleverRaven/Cataclysm-DDA/pull/74324))
 * Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. ([#74326](https://github.com/CleverRaven/Cataclysm-DDA/pull/74326))
-* Corrected exodii base roof shape to match courtyard ([#74286](https://github.com/CleverRaven/Cataclysm-DDA/pull/74286))
 * fix weight of slow-sand water filter ([#74323](https://github.com/CleverRaven/Cataclysm-DDA/pull/74323))
 * rename `acetylene` -> `oxyacetylene` to avoid name collision ([#74325](https://github.com/CleverRaven/Cataclysm-DDA/pull/74325))
 * Correct the duct tape requirements in aquarium recipes ([#74311](https://github.com/CleverRaven/Cataclysm-DDA/pull/74311))
@@ -221,7 +223,5 @@
 * [Magiclysm]Fix Proficiency Scaling in "jmath.json" ([#74293](https://github.com/CleverRaven/Cataclysm-DDA/pull/74293))
 * Fix M27 melee damage ([#74294](https://github.com/CleverRaven/Cataclysm-DDA/pull/74294))
 * Adjust Copper Wire Deconstructions ([#74296](https://github.com/CleverRaven/Cataclysm-DDA/pull/74296))
-* Fixed tools/json_tools/table.py and this get clean csv file for tools/gfx_tools/tileset_coverage.py ([#74284](https://github.com/CleverRaven/Cataclysm-DDA/pull/74284))
-* use local coordinates instead of global in avatar::rebuild_aim_cache() ([#74287](https://github.com/CleverRaven/Cataclysm-DDA/pull/74287))
 * provided scrap yard with roofs ([#74289](https://github.com/CleverRaven/Cataclysm-DDA/pull/74289))
 * `weather_glass` description etc. ([#74297](https://github.com/CleverRaven/Cataclysm-DDA/pull/74297))
