@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-13-1241 ([b421240](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-1241))
+
+* Shows the VZ. 58 the Door ([#74422](https://github.com/CleverRaven/Cataclysm-DDA/pull/74422))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-13-0720 ([58b90c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-0720))
 
 * [MoM] Extend mood stabilization to others outside of dialogue ([#74437](https://github.com/CleverRaven/Cataclysm-DDA/pull/74437))
@@ -202,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2024-06-07-1438 ([b03844f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-07-1438))
 
 * Remove legacy npc_class_id handling and extern list ([#74354](https://github.com/CleverRaven/Cataclysm-DDA/pull/74354))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-06-07-1409 ([d6f3403](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-07-1409))
-
 * backport wasm build to 0.H ([#74362](https://github.com/CleverRaven/Cataclysm-DDA/pull/74362))
 * Add turpentine, camphine to flammable fuel reicpe requirements group ([#74319](https://github.com/CleverRaven/Cataclysm-DDA/pull/74319))
 * Fixed Proper Nouns ([#74340](https://github.com/CleverRaven/Cataclysm-DDA/pull/74340))
@@ -228,4 +229,3 @@
 * provided scrap yard with roofs ([#74289](https://github.com/CleverRaven/Cataclysm-DDA/pull/74289))
 * `weather_glass` description etc. ([#74297](https://github.com/CleverRaven/Cataclysm-DDA/pull/74297))
 * Allow using hotkeys to select spells in other categories ([#74281](https://github.com/CleverRaven/Cataclysm-DDA/pull/74281))
-* Reduce Mini 14/Judge Spawn ([#74276](https://github.com/CleverRaven/Cataclysm-DDA/pull/74276))

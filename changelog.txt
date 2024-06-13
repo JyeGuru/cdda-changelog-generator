@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-13-1241 (b421240)
+* Shows the VZ. 58 the Door (#74422)
+
 Cataclysm-DDA experimental build 2024-06-13-0720 (58b90c6)
 * [MoM] Extend mood stabilization to others outside of dialogue (#74437)
 
@@ -121,8 +124,6 @@ Cataclysm-DDA experimental build 2024-06-07-1705 (716e137)
 
 Cataclysm-DDA experimental build 2024-06-07-1438 (b03844f)
 * Remove legacy npc_class_id handling and extern list (#74354)
-
-Cataclysm-DDA 0.H release candidate 2024-06-07-1409 (d6f3403)
 * backport wasm build to 0.H (#74362)
 * Add turpentine, camphine to flammable fuel reicpe requirements group (#74319)
 * Fixed Proper Nouns (#74340)
@@ -144,4 +145,3 @@ Cataclysm-DDA 0.H release candidate 2024-06-07-1409 (d6f3403)
 * provided scrap yard with roofs (#74289)
 * `weather_glass` description etc. (#74297)
 * Allow using hotkeys to select spells in other categories (#74281)
-* Reduce Mini 14/Judge Spawn (#74276)
