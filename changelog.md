@@ -1,3 +1,11 @@
+* Added roofs to abandoned01 ([#74506](https://github.com/CleverRaven/Cataclysm-DDA/pull/74506))
+* Added roof to roof access shack on apartment_mod_new ([#74507](https://github.com/CleverRaven/Cataclysm-DDA/pull/74507))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-13-2022 ([4e48379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-2022))
+
+* fix paste error in FAQ ([#74510](https://github.com/CleverRaven/Cataclysm-DDA/pull/74510))
 
 ---
 
@@ -195,11 +203,6 @@
 * Water terrain connects to dock terrain ([#74356](https://github.com/CleverRaven/Cataclysm-DDA/pull/74356))
 * fix golden crown disassembly ([#74358](https://github.com/CleverRaven/Cataclysm-DDA/pull/74358))
 * Update house_38 to fix miss-matched floor tile ([#74361](https://github.com/CleverRaven/Cataclysm-DDA/pull/74361))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-07-1705 ([716e137](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-07-1705))
-
 * Fix connections sometimes failing to gen on cityless overmaps ([#74329](https://github.com/CleverRaven/Cataclysm-DDA/pull/74329))
 * Make options fail faster, fix silent errors ([#74343](https://github.com/CleverRaven/Cataclysm-DDA/pull/74343))
 * Remove legacy npc_class_id handling and extern list ([#74354](https://github.com/CleverRaven/Cataclysm-DDA/pull/74354))
@@ -218,9 +221,7 @@
 * [Magiclysm]Fix Proficiency Scaling in "jmath.json" ([#74293](https://github.com/CleverRaven/Cataclysm-DDA/pull/74293))
 * Fix M27 melee damage ([#74294](https://github.com/CleverRaven/Cataclysm-DDA/pull/74294))
 * Adjust Copper Wire Deconstructions ([#74296](https://github.com/CleverRaven/Cataclysm-DDA/pull/74296))
-* Stop showing suffix of vehicle if link needs reeling ([#74280](https://github.com/CleverRaven/Cataclysm-DDA/pull/74280))
 * Fixed tools/json_tools/table.py and this get clean csv file for tools/gfx_tools/tileset_coverage.py ([#74284](https://github.com/CleverRaven/Cataclysm-DDA/pull/74284))
 * use local coordinates instead of global in avatar::rebuild_aim_cache() ([#74287](https://github.com/CleverRaven/Cataclysm-DDA/pull/74287))
 * provided scrap yard with roofs ([#74289](https://github.com/CleverRaven/Cataclysm-DDA/pull/74289))
 * `weather_glass` description etc. ([#74297](https://github.com/CleverRaven/Cataclysm-DDA/pull/74297))
-* Allow using hotkeys to select spells in other categories ([#74281](https://github.com/CleverRaven/Cataclysm-DDA/pull/74281))
