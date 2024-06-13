@@ -1,3 +1,4 @@
+* Adds a deconstruct query with item list ([#74440](https://github.com/CleverRaven/Cataclysm-DDA/pull/74440))
 * Remove Graphical_Overmap mod + Add errorless mod removal ([#74457](https://github.com/CleverRaven/Cataclysm-DDA/pull/74457))
 * Remove weird DUKW spawns ([#74467](https://github.com/CleverRaven/Cataclysm-DDA/pull/74467))
 * Field type migration ([#74497](https://github.com/CleverRaven/Cataclysm-DDA/pull/74497))
@@ -217,6 +218,5 @@
 * Correct the duct tape requirements in aquarium recipes ([#74311](https://github.com/CleverRaven/Cataclysm-DDA/pull/74311))
 * Break recursive death spiral ([#74315](https://github.com/CleverRaven/Cataclysm-DDA/pull/74315))
 * godco got roofs ([#74312](https://github.com/CleverRaven/Cataclysm-DDA/pull/74312))
-* Fix M27 melee damage ([#74294](https://github.com/CleverRaven/Cataclysm-DDA/pull/74294))
 * Adjust Copper Wire Deconstructions ([#74296](https://github.com/CleverRaven/Cataclysm-DDA/pull/74296))
 * `weather_glass` description etc. ([#74297](https://github.com/CleverRaven/Cataclysm-DDA/pull/74297))
