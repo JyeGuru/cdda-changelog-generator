@@ -1,3 +1,4 @@
+* [Aftershock] Convert Small and Large Power Substaions ([#74500](https://github.com/CleverRaven/Cataclysm-DDA/pull/74500))
 
 ---
 
@@ -126,12 +127,6 @@
 #### Cataclysm-DDA experimental build 2024-06-10-1421 ([b54b0ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-10-1421))
 
 * [MOM] Allow short circuit to kill flying robots ([#74423](https://github.com/CleverRaven/Cataclysm-DDA/pull/74423))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-10-0401 ([62b7550](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-10-0401))
-
-* [Aftershock] Add the Esper scenario ([#74279](https://github.com/CleverRaven/Cataclysm-DDA/pull/74279))
 
 ---
 
