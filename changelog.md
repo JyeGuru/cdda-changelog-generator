@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-13-2329 ([cb44970](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-2329))
+
 * Adds a deconstruct query with item list ([#74440](https://github.com/CleverRaven/Cataclysm-DDA/pull/74440))
 * Remove Graphical_Overmap mod + Add errorless mod removal ([#74457](https://github.com/CleverRaven/Cataclysm-DDA/pull/74457))
 * Remove weird DUKW spawns ([#74467](https://github.com/CleverRaven/Cataclysm-DDA/pull/74467))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-06-08-1658 ([0d5f225](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-08-1658))
 
 * [Aftershock] Add another variant of Habitat Block to the Aftershock Exoplanet ([#74337](https://github.com/CleverRaven/Cataclysm-DDA/pull/74337))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-07-1923 ([9461bb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-07-1923))
-
 * Adds the Charger Pistol ([#74321](https://github.com/CleverRaven/Cataclysm-DDA/pull/74321))
 * Party Rock is in the House Tonight ([#74305](https://github.com/CleverRaven/Cataclysm-DDA/pull/74305))
 * Hells Raiders (roof) fixup ([#74347](https://github.com/CleverRaven/Cataclysm-DDA/pull/74347))
