@@ -199,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-06-08-1956 ([96d81dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-08-1956))
 
 * Routine i18n updates on 08 June 2024 ([#74374](https://github.com/CleverRaven/Cataclysm-DDA/pull/74374))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-08-1658 ([0d5f225](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-08-1658))
-
 * [Aftershock] Add another variant of Habitat Block to the Aftershock Exoplanet ([#74337](https://github.com/CleverRaven/Cataclysm-DDA/pull/74337))
 * Hells Raiders (roof) fixup ([#74347](https://github.com/CleverRaven/Cataclysm-DDA/pull/74347))
 * Fix typo and redundant in mutation_techs.json ([#74350](https://github.com/CleverRaven/Cataclysm-DDA/pull/74350))
