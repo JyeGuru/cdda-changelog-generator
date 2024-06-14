@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-14-1722 ([47b046c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-14-1722))
+
 * [Xedra Evolved] More paraclesian powers ([#74468](https://github.com/CleverRaven/Cataclysm-DDA/pull/74468))
 * NPC @ menu: Show morale, medical; Change name, gender, armor sprite ([#74406](https://github.com/CleverRaven/Cataclysm-DDA/pull/74406))
 * Phosphorus from Matchboxes and Potassium Chloride From Match-heads ([#74489](https://github.com/CleverRaven/Cataclysm-DDA/pull/74489))
@@ -188,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-06-09-0017 ([a9db8b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-0017))
 
 * Adds Bench Vise ([#74370](https://github.com/CleverRaven/Cataclysm-DDA/pull/74370))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-08-1956 ([96d81dc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-08-1956))
-
 * Routine i18n updates on 08 June 2024 ([#74374](https://github.com/CleverRaven/Cataclysm-DDA/pull/74374))
 * [Aftershock] Add another variant of Habitat Block to the Aftershock Exoplanet ([#74337](https://github.com/CleverRaven/Cataclysm-DDA/pull/74337))
 * Hells Raiders (roof) fixup ([#74347](https://github.com/CleverRaven/Cataclysm-DDA/pull/74347))
