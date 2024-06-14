@@ -1,3 +1,4 @@
+* clean water goes bad if left in open container ([#74353](https://github.com/CleverRaven/Cataclysm-DDA/pull/74353))
 
 ---
 
@@ -207,7 +208,6 @@
 * Remove legacy npc_class_id handling and extern list ([#74354](https://github.com/CleverRaven/Cataclysm-DDA/pull/74354))
 * backport wasm build to 0.H ([#74362](https://github.com/CleverRaven/Cataclysm-DDA/pull/74362))
 * Fixed Proper Nouns ([#74340](https://github.com/CleverRaven/Cataclysm-DDA/pull/74340))
-* Warn the player when auto features are off and user is setting an auto feature with a hotkey. ([#74324](https://github.com/CleverRaven/Cataclysm-DDA/pull/74324))
 * Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. ([#74326](https://github.com/CleverRaven/Cataclysm-DDA/pull/74326))
 * rename `acetylene` -> `oxyacetylene` to avoid name collision ([#74325](https://github.com/CleverRaven/Cataclysm-DDA/pull/74325))

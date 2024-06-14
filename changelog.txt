@@ -1,3 +1,4 @@
+* clean water goes bad if left in open container (#74353)
 
 Cataclysm-DDA experimental build 2024-06-14-2255 (767b21a)
 * Add brick construction to camp expansions (#74389)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2024-06-09-1450 (2f2d329)
 * Remove legacy npc_class_id handling and extern list (#74354)
 * backport wasm build to 0.H (#74362)
 * Fixed Proper Nouns (#74340)
-* Warn the player when auto features are off and user is setting an auto feature with a hotkey. (#74324)
 * Corpses can decay into bones, etc. (#74328)
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. (#74326)
 * rename `acetylene` -> `oxyacetylene` to avoid name collision (#74325)
