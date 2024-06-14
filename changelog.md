@@ -1,3 +1,4 @@
+* NPC @ menu: Show morale, medical; Change name, gender, armor sprite ([#74406](https://github.com/CleverRaven/Cataclysm-DDA/pull/74406))
 * Phosphorus from Matchboxes and Potassium Chloride From Match-heads ([#74489](https://github.com/CleverRaven/Cataclysm-DDA/pull/74489))
 * Add Diet Soda Group/Update Snow Cone Recipe ([#74513](https://github.com/CleverRaven/Cataclysm-DDA/pull/74513))
 * Add Variants/Variable Snippets for Tights ([#74512](https://github.com/CleverRaven/Cataclysm-DDA/pull/74512))
@@ -204,7 +205,6 @@
 #### Cataclysm-DDA experimental build 2024-06-08-1658 ([0d5f225](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-08-1658))
 
 * [Aftershock] Add another variant of Habitat Block to the Aftershock Exoplanet ([#74337](https://github.com/CleverRaven/Cataclysm-DDA/pull/74337))
-* Adds the Charger Pistol ([#74321](https://github.com/CleverRaven/Cataclysm-DDA/pull/74321))
 * Hells Raiders (roof) fixup ([#74347](https://github.com/CleverRaven/Cataclysm-DDA/pull/74347))
 * Fix typo and redundant in mutation_techs.json ([#74350](https://github.com/CleverRaven/Cataclysm-DDA/pull/74350))
 * Remove Survivor Naginata ([#74355](https://github.com/CleverRaven/Cataclysm-DDA/pull/74355))
