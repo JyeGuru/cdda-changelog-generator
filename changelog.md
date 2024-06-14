@@ -1,3 +1,4 @@
+* [Xedra Evolved] More paraclesian powers ([#74468](https://github.com/CleverRaven/Cataclysm-DDA/pull/74468))
 * NPC @ menu: Show morale, medical; Change name, gender, armor sprite ([#74406](https://github.com/CleverRaven/Cataclysm-DDA/pull/74406))
 * Phosphorus from Matchboxes and Potassium Chloride From Match-heads ([#74489](https://github.com/CleverRaven/Cataclysm-DDA/pull/74489))
 * Add Diet Soda Group/Update Snow Cone Recipe ([#74513](https://github.com/CleverRaven/Cataclysm-DDA/pull/74513))
@@ -117,12 +118,6 @@
 #### Cataclysm-DDA experimental build 2024-06-11-1819 ([9242489](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-11-1819))
 
 * Fixed lab roofs ([#74388](https://github.com/CleverRaven/Cataclysm-DDA/pull/74388))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-11-0559 ([ea11df8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-11-0559))
-
-* remove PATH_AVOID_DANGER_2 ([#74322](https://github.com/CleverRaven/Cataclysm-DDA/pull/74322))
 * Add context to some snippets in `data/json/npcs/talk_tags.json` ([#74327](https://github.com/CleverRaven/Cataclysm-DDA/pull/74327))
 * fix ingredients of slow-sand filter recipe ([#74332](https://github.com/CleverRaven/Cataclysm-DDA/pull/74332))
 * Minor house map adjustments, mostly roofs ([#74367](https://github.com/CleverRaven/Cataclysm-DDA/pull/74367))
