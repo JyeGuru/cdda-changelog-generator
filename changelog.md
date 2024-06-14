@@ -1,3 +1,4 @@
+* Phosphorus from Matchboxes and Potassium Chloride From Match-heads ([#74489](https://github.com/CleverRaven/Cataclysm-DDA/pull/74489))
 * Add Diet Soda Group/Update Snow Cone Recipe ([#74513](https://github.com/CleverRaven/Cataclysm-DDA/pull/74513))
 * Add Variants/Variable Snippets for Tights ([#74512](https://github.com/CleverRaven/Cataclysm-DDA/pull/74512))
 * Even More Tied Appliances ([#74407](https://github.com/CleverRaven/Cataclysm-DDA/pull/74407))
