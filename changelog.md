@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-14-2255 ([767b21a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-14-2255))
+
+* Add brick construction to camp expansions ([#74389](https://github.com/CleverRaven/Cataclysm-DDA/pull/74389))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-14-1722 ([47b046c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-14-1722))
 
 * [Xedra Evolved] More paraclesian powers ([#74468](https://github.com/CleverRaven/Cataclysm-DDA/pull/74468))
@@ -187,11 +193,6 @@
 
 * Full Auto 10/22 ([#74371](https://github.com/CleverRaven/Cataclysm-DDA/pull/74371))
 * allow more recipes to use more kinds of water ([#74357](https://github.com/CleverRaven/Cataclysm-DDA/pull/74357))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-09-0017 ([a9db8b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-0017))
-
 * Adds Bench Vise ([#74370](https://github.com/CleverRaven/Cataclysm-DDA/pull/74370))
 * Routine i18n updates on 08 June 2024 ([#74374](https://github.com/CleverRaven/Cataclysm-DDA/pull/74374))
 * [Aftershock] Add another variant of Habitat Block to the Aftershock Exoplanet ([#74337](https://github.com/CleverRaven/Cataclysm-DDA/pull/74337))
@@ -209,5 +210,4 @@
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. ([#74324](https://github.com/CleverRaven/Cataclysm-DDA/pull/74324))
 * Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. ([#74326](https://github.com/CleverRaven/Cataclysm-DDA/pull/74326))
-* fix weight of slow-sand water filter ([#74323](https://github.com/CleverRaven/Cataclysm-DDA/pull/74323))
 * rename `acetylene` -> `oxyacetylene` to avoid name collision ([#74325](https://github.com/CleverRaven/Cataclysm-DDA/pull/74325))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-14-2255 (767b21a)
+* Add brick construction to camp expansions (#74389)
+
 Cataclysm-DDA experimental build 2024-06-14-1722 (47b046c)
 * [Xedra Evolved] More paraclesian powers (#74468)
 * NPC @ menu: Show morale, medical; Change name, gender, armor sprite (#74406)
@@ -118,8 +121,6 @@ Cataclysm-DDA experimental build 2024-06-09-1818 (b5f19f9)
 Cataclysm-DDA experimental build 2024-06-09-1450 (2f2d329)
 * Full Auto 10/22 (#74371)
 * allow more recipes to use more kinds of water (#74357)
-
-Cataclysm-DDA experimental build 2024-06-09-0017 (a9db8b3)
 * Adds Bench Vise (#74370)
 * Routine i18n updates on 08 June 2024 (#74374)
 * [Aftershock] Add another variant of Habitat Block to the Aftershock Exoplanet (#74337)
@@ -137,5 +138,4 @@ Cataclysm-DDA experimental build 2024-06-09-0017 (a9db8b3)
 * Warn the player when auto features are off and user is setting an auto feature with a hotkey. (#74324)
 * Corpses can decay into bones, etc. (#74328)
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. (#74326)
-* fix weight of slow-sand water filter (#74323)
 * rename `acetylene` -> `oxyacetylene` to avoid name collision (#74325)
