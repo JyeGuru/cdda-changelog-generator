@@ -1,3 +1,12 @@
+* no natural rock floor + roof on Lapin shed ([#74519](https://github.com/CleverRaven/Cataclysm-DDA/pull/74519))
+* Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
+* Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-14-1422 ([af77128](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-14-1422))
+
+* Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
 
 ---
 
@@ -171,12 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-06-09-1450 ([2f2d329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-1450))
 
 * Full Auto 10/22 ([#74371](https://github.com/CleverRaven/Cataclysm-DDA/pull/74371))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-09-0315 ([d5c7011](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-0315))
-
-* Fix night vision goggles ([#74298](https://github.com/CleverRaven/Cataclysm-DDA/pull/74298))
 * allow more recipes to use more kinds of water ([#74357](https://github.com/CleverRaven/Cataclysm-DDA/pull/74357))
 
 ---
@@ -197,7 +200,6 @@
 
 * [Aftershock] Add another variant of Habitat Block to the Aftershock Exoplanet ([#74337](https://github.com/CleverRaven/Cataclysm-DDA/pull/74337))
 * Adds the Charger Pistol ([#74321](https://github.com/CleverRaven/Cataclysm-DDA/pull/74321))
-* Party Rock is in the House Tonight ([#74305](https://github.com/CleverRaven/Cataclysm-DDA/pull/74305))
 * Hells Raiders (roof) fixup ([#74347](https://github.com/CleverRaven/Cataclysm-DDA/pull/74347))
 * Fix typo and redundant in mutation_techs.json ([#74350](https://github.com/CleverRaven/Cataclysm-DDA/pull/74350))
 * Remove Survivor Naginata ([#74355](https://github.com/CleverRaven/Cataclysm-DDA/pull/74355))
@@ -218,5 +220,3 @@
 * Correct the duct tape requirements in aquarium recipes ([#74311](https://github.com/CleverRaven/Cataclysm-DDA/pull/74311))
 * Break recursive death spiral ([#74315](https://github.com/CleverRaven/Cataclysm-DDA/pull/74315))
 * godco got roofs ([#74312](https://github.com/CleverRaven/Cataclysm-DDA/pull/74312))
-* Adjust Copper Wire Deconstructions ([#74296](https://github.com/CleverRaven/Cataclysm-DDA/pull/74296))
-* `weather_glass` description etc. ([#74297](https://github.com/CleverRaven/Cataclysm-DDA/pull/74297))

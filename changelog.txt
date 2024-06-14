@@ -1,3 +1,9 @@
+* no natural rock floor + roof on Lapin shed (#74519)
+* Added roof to incomplete campsite building (#74520)
+* Add roof to sewer tent (#74522)
+
+Cataclysm-DDA experimental build 2024-06-14-1422 (af77128)
+* Add roofs to tree farm shacks (#74523)
 
 Cataclysm-DDA experimental build 2024-06-13-2329 (cb44970)
 * Adds a deconstruct query with item list (#74440)
@@ -105,9 +111,6 @@ Cataclysm-DDA experimental build 2024-06-09-1818 (b5f19f9)
 
 Cataclysm-DDA experimental build 2024-06-09-1450 (2f2d329)
 * Full Auto 10/22 (#74371)
-
-Cataclysm-DDA experimental build 2024-06-09-0315 (d5c7011)
-* Fix night vision goggles (#74298)
 * allow more recipes to use more kinds of water (#74357)
 
 Cataclysm-DDA experimental build 2024-06-09-0017 (a9db8b3)
@@ -119,7 +122,6 @@ Cataclysm-DDA experimental build 2024-06-08-1956 (96d81dc)
 Cataclysm-DDA experimental build 2024-06-08-1658 (0d5f225)
 * [Aftershock] Add another variant of Habitat Block to the Aftershock Exoplanet (#74337)
 * Adds the Charger Pistol (#74321)
-* Party Rock is in the House Tonight (#74305)
 * Hells Raiders (roof) fixup (#74347)
 * Fix typo and redundant in mutation_techs.json (#74350)
 * Remove Survivor Naginata (#74355)
@@ -140,5 +142,3 @@ Cataclysm-DDA experimental build 2024-06-08-1658 (0d5f225)
 * Correct the duct tape requirements in aquarium recipes (#74311)
 * Break recursive death spiral (#74315)
 * godco got roofs (#74312)
-* Adjust Copper Wire Deconstructions (#74296)
-* `weather_glass` description etc. (#74297)
