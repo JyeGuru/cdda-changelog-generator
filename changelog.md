@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-15-2030 ([5a68b84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-2030))
+
 * Small bunch of minor fixes ([#74538](https://github.com/CleverRaven/Cataclysm-DDA/pull/74538))
 * Not to shatter already shattered armor. ([#74528](https://github.com/CleverRaven/Cataclysm-DDA/pull/74528))
 * [Aftershock] Add Solar Array Special ([#74498](https://github.com/CleverRaven/Cataclysm-DDA/pull/74498))
@@ -199,11 +204,6 @@
 
 * Random legacy code cleanup ([#74351](https://github.com/CleverRaven/Cataclysm-DDA/pull/74351))
 * Revert conflicting fix that caused #74158 ([#74421](https://github.com/CleverRaven/Cataclysm-DDA/pull/74421))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-10-1421 ([b54b0ea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-10-1421))
-
 * [MOM] Allow short circuit to kill flying robots ([#74423](https://github.com/CleverRaven/Cataclysm-DDA/pull/74423))
 * Rename Augmentative Tech Review ([#74409](https://github.com/CleverRaven/Cataclysm-DDA/pull/74409))
 * Remove further survivor naginata mentions ([#74372](https://github.com/CleverRaven/Cataclysm-DDA/pull/74372))
