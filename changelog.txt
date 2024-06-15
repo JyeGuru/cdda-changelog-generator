@@ -9,6 +9,9 @@ Cataclysm-DDA experimental build 2024-06-15-1417 (2561cc2)
 * Added explicit roofs to hazardous waste sarcophagus (#74542)
 * Added roof to baseball field shack (#74541)
 
+Cataclysm-DDA experimental build 2024-06-15-0832 (175eae4)
+* Fix character volume calculation (#74348)
+
 Cataclysm-DDA experimental build 2024-06-15-0455 (d5efb05)
 * Fixed Cody & Jay roofs (#74380)
 * Remove Raging Judge, A180, KSG-25, PPSH (#74397)

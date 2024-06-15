@@ -14,6 +14,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-15-0832 ([175eae4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-0832))
+
+* Fix character volume calculation ([#74348](https://github.com/CleverRaven/Cataclysm-DDA/pull/74348))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-15-0455 ([d5efb05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-0455))
 
 * Fixed Cody & Jay roofs ([#74380](https://github.com/CleverRaven/Cataclysm-DDA/pull/74380))
