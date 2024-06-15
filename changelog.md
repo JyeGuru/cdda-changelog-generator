@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-15-0138 ([fd7656a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-0138))
+
 * clean water goes bad if left in open container ([#74353](https://github.com/CleverRaven/Cataclysm-DDA/pull/74353))
 
 ---
