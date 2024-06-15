@@ -1,3 +1,5 @@
+* Added roof to LIXA guard shack (#74551)
+* Added explicit internal roofs to Karting (#74550)
 
 Cataclysm-DDA experimental build 2024-06-15-1417 (2561cc2)
 * Add roof to junkyard shack (#74548)
@@ -6,9 +8,6 @@ Cataclysm-DDA experimental build 2024-06-15-1417 (2561cc2)
 * Added roof to super home imp. roof shack (#74544)
 * Added explicit roofs to hazardous waste sarcophagus (#74542)
 * Added roof to baseball field shack (#74541)
-
-Cataclysm-DDA experimental build 2024-06-15-0832 (175eae4)
-* Fix character volume calculation (#74348)
 
 Cataclysm-DDA experimental build 2024-06-15-0455 (d5efb05)
 * Fixed Cody & Jay roofs (#74380)
@@ -133,7 +132,6 @@ Cataclysm-DDA experimental build 2024-06-10-1421 (b54b0ea)
 * allow more recipes to use more kinds of water (#74357)
 * Adds Bench Vise (#74370)
 * Routine i18n updates on 08 June 2024 (#74374)
-* Hells Raiders (roof) fixup (#74347)
 * Fix typo and redundant in mutation_techs.json (#74350)
 * Remove Survivor Naginata (#74355)
 * Water terrain connects to dock terrain (#74356)
