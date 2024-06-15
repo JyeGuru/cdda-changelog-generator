@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-15-1417 ([2561cc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-1417))
+
 * Add roof to junkyard shack ([#74548](https://github.com/CleverRaven/Cataclysm-DDA/pull/74548))
 * Add roofs to hotel roof access shacks ([#74546](https://github.com/CleverRaven/Cataclysm-DDA/pull/74546))
 * Add roof to homeless shelter roof access shack ([#74545](https://github.com/CleverRaven/Cataclysm-DDA/pull/74545))
