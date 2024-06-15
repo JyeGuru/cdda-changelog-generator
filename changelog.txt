@@ -92,7 +92,6 @@ Cataclysm-DDA experimental build 2024-06-11-2311 (65c1f96)
 
 Cataclysm-DDA experimental build 2024-06-11-1819 (9242489)
 * Fixed lab roofs (#74388)
-* fix ingredients of slow-sand filter recipe (#74332)
 * Minor house map adjustments, mostly roofs (#74367)
 * [MoM] Account for ROBOT_FLYING (#74432)
 * Consistency/balance change to sky islands mission count upgrade (#74334)

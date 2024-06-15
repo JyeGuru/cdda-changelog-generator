@@ -155,7 +155,6 @@
 #### Cataclysm-DDA experimental build 2024-06-11-1819 ([9242489](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-11-1819))
 
 * Fixed lab roofs ([#74388](https://github.com/CleverRaven/Cataclysm-DDA/pull/74388))
-* fix ingredients of slow-sand filter recipe ([#74332](https://github.com/CleverRaven/Cataclysm-DDA/pull/74332))
 * Minor house map adjustments, mostly roofs ([#74367](https://github.com/CleverRaven/Cataclysm-DDA/pull/74367))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
 * Consistency/balance change to sky islands mission count upgrade ([#74334](https://github.com/CleverRaven/Cataclysm-DDA/pull/74334))
