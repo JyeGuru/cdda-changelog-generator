@@ -1,3 +1,4 @@
+* Fixed Cody & Jay roofs ([#74380](https://github.com/CleverRaven/Cataclysm-DDA/pull/74380))
 * Remove Raging Judge, A180, KSG-25, PPSH ([#74397](https://github.com/CleverRaven/Cataclysm-DDA/pull/74397))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
 
@@ -215,4 +216,3 @@
 * Remove legacy npc_class_id handling and extern list ([#74354](https://github.com/CleverRaven/Cataclysm-DDA/pull/74354))
 * backport wasm build to 0.H ([#74362](https://github.com/CleverRaven/Cataclysm-DDA/pull/74362))
 * Fixed Proper Nouns ([#74340](https://github.com/CleverRaven/Cataclysm-DDA/pull/74340))
-* Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))

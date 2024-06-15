@@ -1,3 +1,4 @@
+* Fixed Cody & Jay roofs (#74380)
 * Remove Raging Judge, A180, KSG-25, PPSH (#74397)
 * Routine i18n updates on 15 June 2024 (#74540)
 
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2024-06-09-1818 (b5f19f9)
 * Remove legacy npc_class_id handling and extern list (#74354)
 * backport wasm build to 0.H (#74362)
 * Fixed Proper Nouns (#74340)
-* Corpses can decay into bones, etc. (#74328)
