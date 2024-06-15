@@ -1,3 +1,4 @@
+* Small bunch of minor fixes ([#74538](https://github.com/CleverRaven/Cataclysm-DDA/pull/74538))
 * Not to shatter already shattered armor. ([#74528](https://github.com/CleverRaven/Cataclysm-DDA/pull/74528))
 * [Aftershock] Add Solar Array Special ([#74498](https://github.com/CleverRaven/Cataclysm-DDA/pull/74498))
 
@@ -211,7 +212,6 @@
 * allow more recipes to use more kinds of water ([#74357](https://github.com/CleverRaven/Cataclysm-DDA/pull/74357))
 * Adds Bench Vise ([#74370](https://github.com/CleverRaven/Cataclysm-DDA/pull/74370))
 * Routine i18n updates on 08 June 2024 ([#74374](https://github.com/CleverRaven/Cataclysm-DDA/pull/74374))
-* Fix typo and redundant in mutation_techs.json ([#74350](https://github.com/CleverRaven/Cataclysm-DDA/pull/74350))
 * Remove Survivor Naginata ([#74355](https://github.com/CleverRaven/Cataclysm-DDA/pull/74355))
 * Water terrain connects to dock terrain ([#74356](https://github.com/CleverRaven/Cataclysm-DDA/pull/74356))
 * fix golden crown disassembly ([#74358](https://github.com/CleverRaven/Cataclysm-DDA/pull/74358))

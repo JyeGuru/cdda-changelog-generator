@@ -1,3 +1,4 @@
+* Small bunch of minor fixes (#74538)
 * Not to shatter already shattered armor. (#74528)
 * [Aftershock] Add Solar Array Special (#74498)
 
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2024-06-10-1421 (b54b0ea)
 * allow more recipes to use more kinds of water (#74357)
 * Adds Bench Vise (#74370)
 * Routine i18n updates on 08 June 2024 (#74374)
-* Fix typo and redundant in mutation_techs.json (#74350)
 * Remove Survivor Naginata (#74355)
 * Water terrain connects to dock terrain (#74356)
 * fix golden crown disassembly (#74358)
