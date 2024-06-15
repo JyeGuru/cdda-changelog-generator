@@ -1,3 +1,4 @@
+* Not to shatter already shattered armor. ([#74528](https://github.com/CleverRaven/Cataclysm-DDA/pull/74528))
 * [Aftershock] Add Solar Array Special ([#74498](https://github.com/CleverRaven/Cataclysm-DDA/pull/74498))
 
 ---

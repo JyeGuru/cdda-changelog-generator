@@ -1,3 +1,4 @@
+* Not to shatter already shattered armor. (#74528)
 * [Aftershock] Add Solar Array Special (#74498)
 
 Cataclysm-DDA experimental build 2024-06-15-1717 (8c1a78e)
