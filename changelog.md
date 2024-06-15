@@ -1,3 +1,5 @@
+* Remove Raging Judge, A180, KSG-25, PPSH ([#74397](https://github.com/CleverRaven/Cataclysm-DDA/pull/74397))
+* Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
 
 ---
 
@@ -141,7 +143,6 @@
 #### Cataclysm-DDA experimental build 2024-06-11-1819 ([9242489](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-11-1819))
 
 * Fixed lab roofs ([#74388](https://github.com/CleverRaven/Cataclysm-DDA/pull/74388))
-* Add context to some snippets in `data/json/npcs/talk_tags.json` ([#74327](https://github.com/CleverRaven/Cataclysm-DDA/pull/74327))
 * fix ingredients of slow-sand filter recipe ([#74332](https://github.com/CleverRaven/Cataclysm-DDA/pull/74332))
 * Minor house map adjustments, mostly roofs ([#74367](https://github.com/CleverRaven/Cataclysm-DDA/pull/74367))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
@@ -215,4 +216,3 @@
 * backport wasm build to 0.H ([#74362](https://github.com/CleverRaven/Cataclysm-DDA/pull/74362))
 * Fixed Proper Nouns ([#74340](https://github.com/CleverRaven/Cataclysm-DDA/pull/74340))
 * Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))
-* [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. ([#74326](https://github.com/CleverRaven/Cataclysm-DDA/pull/74326))
