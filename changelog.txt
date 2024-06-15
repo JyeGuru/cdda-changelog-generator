@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-15-0832 (175eae4)
 * Fix character volume calculation (#74348)
 
 Cataclysm-DDA experimental build 2024-06-15-0455 (d5efb05)
@@ -121,8 +123,6 @@ Cataclysm-DDA 0.H release candidate 2024-06-10-1620 (e52bd7f)
 
 Cataclysm-DDA experimental build 2024-06-10-1421 (b54b0ea)
 * [MOM] Allow short circuit to kill flying robots (#74423)
-
-Cataclysm-DDA experimental build 2024-06-09-2139 (23e26e7)
 * Rename Augmentative Tech Review (#74409)
 * Remove further survivor naginata mentions (#74372)
 * Remove (most) Crater Spawns (#74369)
