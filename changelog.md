@@ -1,3 +1,4 @@
+* [Aftershock] Add Solar Array Special ([#74498](https://github.com/CleverRaven/Cataclysm-DDA/pull/74498))
 
 ---
 
@@ -16,12 +17,6 @@
 * Added roof to super home imp. roof shack ([#74544](https://github.com/CleverRaven/Cataclysm-DDA/pull/74544))
 * Added explicit roofs to hazardous waste sarcophagus ([#74542](https://github.com/CleverRaven/Cataclysm-DDA/pull/74542))
 * Added roof to baseball field shack ([#74541](https://github.com/CleverRaven/Cataclysm-DDA/pull/74541))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-15-0832 ([175eae4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-0832))
-
-* Fix character volume calculation ([#74348](https://github.com/CleverRaven/Cataclysm-DDA/pull/74348))
 
 ---
 

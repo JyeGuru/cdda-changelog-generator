@@ -1,3 +1,4 @@
+* [Aftershock] Add Solar Array Special (#74498)
 
 Cataclysm-DDA experimental build 2024-06-15-1717 (8c1a78e)
 * Added roof to LIXA guard shack (#74551)
@@ -10,9 +11,6 @@ Cataclysm-DDA experimental build 2024-06-15-1417 (2561cc2)
 * Added roof to super home imp. roof shack (#74544)
 * Added explicit roofs to hazardous waste sarcophagus (#74542)
 * Added roof to baseball field shack (#74541)
-
-Cataclysm-DDA experimental build 2024-06-15-0832 (175eae4)
-* Fix character volume calculation (#74348)
 
 Cataclysm-DDA experimental build 2024-06-15-0455 (d5efb05)
 * Fixed Cody & Jay roofs (#74380)
