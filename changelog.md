@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-06-15-0219 ([be7a566](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-15-0219))
+
+* Backport #74053 Hordes don't wander to 0,0 ([#74527](https://github.com/CleverRaven/Cataclysm-DDA/pull/74527))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-15-0138 ([fd7656a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-0138))
 
 * clean water goes bad if left in open container ([#74353](https://github.com/CleverRaven/Cataclysm-DDA/pull/74353))
@@ -192,11 +198,6 @@
 
 * Remove further survivor naginata mentions ([#74372](https://github.com/CleverRaven/Cataclysm-DDA/pull/74372))
 * Remove (most) Crater Spawns ([#74369](https://github.com/CleverRaven/Cataclysm-DDA/pull/74369))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-09-1450 ([2f2d329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-1450))
-
 * Full Auto 10/22 ([#74371](https://github.com/CleverRaven/Cataclysm-DDA/pull/74371))
 * allow more recipes to use more kinds of water ([#74357](https://github.com/CleverRaven/Cataclysm-DDA/pull/74357))
 * Adds Bench Vise ([#74370](https://github.com/CleverRaven/Cataclysm-DDA/pull/74370))
@@ -215,4 +216,3 @@
 * Fixed Proper Nouns ([#74340](https://github.com/CleverRaven/Cataclysm-DDA/pull/74340))
 * Corpses can decay into bones, etc. ([#74328](https://github.com/CleverRaven/Cataclysm-DDA/pull/74328))
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. ([#74326](https://github.com/CleverRaven/Cataclysm-DDA/pull/74326))
-* rename `acetylene` -> `oxyacetylene` to avoid name collision ([#74325](https://github.com/CleverRaven/Cataclysm-DDA/pull/74325))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.H release candidate 2024-06-15-0219 (be7a566)
+* Backport #74053 Hordes don't wander to 0,0 (#74527)
+
 Cataclysm-DDA experimental build 2024-06-15-0138 (fd7656a)
 * clean water goes bad if left in open container (#74353)
 
@@ -120,8 +123,6 @@ Cataclysm-DDA experimental build 2024-06-09-2139 (23e26e7)
 Cataclysm-DDA experimental build 2024-06-09-1818 (b5f19f9)
 * Remove further survivor naginata mentions (#74372)
 * Remove (most) Crater Spawns (#74369)
-
-Cataclysm-DDA experimental build 2024-06-09-1450 (2f2d329)
 * Full Auto 10/22 (#74371)
 * allow more recipes to use more kinds of water (#74357)
 * Adds Bench Vise (#74370)
@@ -140,4 +141,3 @@ Cataclysm-DDA experimental build 2024-06-09-1450 (2f2d329)
 * Fixed Proper Nouns (#74340)
 * Corpses can decay into bones, etc. (#74328)
 * [Aftershock] Remove Habitat Block palette and expand Habitat Structure palettes. (#74326)
-* rename `acetylene` -> `oxyacetylene` to avoid name collision (#74325)
