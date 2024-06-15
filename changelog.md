@@ -1,3 +1,4 @@
+* Fix character volume calculation ([#74348](https://github.com/CleverRaven/Cataclysm-DDA/pull/74348))
 * Fixed Cody & Jay roofs ([#74380](https://github.com/CleverRaven/Cataclysm-DDA/pull/74380))
 * Remove Raging Judge, A180, KSG-25, PPSH ([#74397](https://github.com/CleverRaven/Cataclysm-DDA/pull/74397))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
@@ -211,7 +212,6 @@
 * Water terrain connects to dock terrain ([#74356](https://github.com/CleverRaven/Cataclysm-DDA/pull/74356))
 * fix golden crown disassembly ([#74358](https://github.com/CleverRaven/Cataclysm-DDA/pull/74358))
 * Update house_38 to fix miss-matched floor tile ([#74361](https://github.com/CleverRaven/Cataclysm-DDA/pull/74361))
-* Fix connections sometimes failing to gen on cityless overmaps ([#74329](https://github.com/CleverRaven/Cataclysm-DDA/pull/74329))
 * Make options fail faster, fix silent errors ([#74343](https://github.com/CleverRaven/Cataclysm-DDA/pull/74343))
 * Remove legacy npc_class_id handling and extern list ([#74354](https://github.com/CleverRaven/Cataclysm-DDA/pull/74354))
 * backport wasm build to 0.H ([#74362](https://github.com/CleverRaven/Cataclysm-DDA/pull/74362))
