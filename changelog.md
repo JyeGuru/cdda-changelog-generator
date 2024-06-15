@@ -1,4 +1,9 @@
 * Fix character volume calculation ([#74348](https://github.com/CleverRaven/Cataclysm-DDA/pull/74348))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-15-0455 ([d5efb05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-0455))
+
 * Fixed Cody & Jay roofs ([#74380](https://github.com/CleverRaven/Cataclysm-DDA/pull/74380))
 * Remove Raging Judge, A180, KSG-25, PPSH ([#74397](https://github.com/CleverRaven/Cataclysm-DDA/pull/74397))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-06-09-2139 ([23e26e7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-2139))
 
 * Rename Augmentative Tech Review ([#74409](https://github.com/CleverRaven/Cataclysm-DDA/pull/74409))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-09-1818 ([b5f19f9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-09-1818))
-
 * Remove further survivor naginata mentions ([#74372](https://github.com/CleverRaven/Cataclysm-DDA/pull/74372))
 * Remove (most) Crater Spawns ([#74369](https://github.com/CleverRaven/Cataclysm-DDA/pull/74369))
 * Full Auto 10/22 ([#74371](https://github.com/CleverRaven/Cataclysm-DDA/pull/74371))
