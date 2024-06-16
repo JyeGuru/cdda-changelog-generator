@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-16-0312 ([051fbd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-16-0312))
+
 * clang-tidy: fix cata-unsequenced-calls ([#74555](https://github.com/CleverRaven/Cataclysm-DDA/pull/74555))
 
 ---
@@ -186,11 +191,6 @@
 * Save achievement files with valid and unique names ([#74419](https://github.com/CleverRaven/Cataclysm-DDA/pull/74419))
 * No empty decay IDs ([#74428](https://github.com/CleverRaven/Cataclysm-DDA/pull/74428))
 * Added a portable makeshift brazier ([#74429](https://github.com/CleverRaven/Cataclysm-DDA/pull/74429))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-11-0319 ([99ed329](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-11-0319))
-
 * Add roofs to mil base ([#74430](https://github.com/CleverRaven/Cataclysm-DDA/pull/74430))
 * Revert conflicting fix that caused #74158 ([#74421](https://github.com/CleverRaven/Cataclysm-DDA/pull/74421))
 * [MOM] Allow short circuit to kill flying robots ([#74423](https://github.com/CleverRaven/Cataclysm-DDA/pull/74423))
