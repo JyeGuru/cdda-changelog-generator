@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-16-0542 ([ae7671a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-16-0542))
+
 * Add espadrilles ([#74490](https://github.com/CleverRaven/Cataclysm-DDA/pull/74490))
 
 ---
