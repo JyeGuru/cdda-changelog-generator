@@ -205,7 +205,6 @@
 * Remove further survivor naginata mentions ([#74372](https://github.com/CleverRaven/Cataclysm-DDA/pull/74372))
 * Remove (most) Crater Spawns ([#74369](https://github.com/CleverRaven/Cataclysm-DDA/pull/74369))
 * Full Auto 10/22 ([#74371](https://github.com/CleverRaven/Cataclysm-DDA/pull/74371))
-* allow more recipes to use more kinds of water ([#74357](https://github.com/CleverRaven/Cataclysm-DDA/pull/74357))
 * Adds Bench Vise ([#74370](https://github.com/CleverRaven/Cataclysm-DDA/pull/74370))
 * Routine i18n updates on 08 June 2024 ([#74374](https://github.com/CleverRaven/Cataclysm-DDA/pull/74374))
 * fix golden crown disassembly ([#74358](https://github.com/CleverRaven/Cataclysm-DDA/pull/74358))
