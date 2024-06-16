@@ -1,3 +1,12 @@
+* Remove nonsensical laundry basket crafting recipe ([#74586](https://github.com/CleverRaven/Cataclysm-DDA/pull/74586))
+* Added roofs on doctor's offices access shacks ([#74584](https://github.com/CleverRaven/Cataclysm-DDA/pull/74584))
+* Added roof to movie theater roof shack ([#74583](https://github.com/CleverRaven/Cataclysm-DDA/pull/74583))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-16-2231 ([c281593](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-16-2231))
+
+* Added roof to state park shack ([#74591](https://github.com/CleverRaven/Cataclysm-DDA/pull/74591))
 
 ---
 
@@ -175,14 +184,8 @@
 #### Cataclysm-DDA experimental build 2024-06-12-0205 ([afca258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-0205))
 
 * Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-11-2311 ([65c1f96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-11-2311))
-
 * add roof to lumber hotel ([#74452](https://github.com/CleverRaven/Cataclysm-DDA/pull/74452))
 * Fixed lab roofs ([#74388](https://github.com/CleverRaven/Cataclysm-DDA/pull/74388))
-* Minor house map adjustments, mostly roofs ([#74367](https://github.com/CleverRaven/Cataclysm-DDA/pull/74367))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
 * Organize bone resource item file contents ([#74392](https://github.com/CleverRaven/Cataclysm-DDA/pull/74392))
 * Corrections to a couple of house JSON definitions ([#74379](https://github.com/CleverRaven/Cataclysm-DDA/pull/74379))
@@ -203,10 +206,6 @@
 * [MOM] Allow short circuit to kill flying robots ([#74423](https://github.com/CleverRaven/Cataclysm-DDA/pull/74423))
 * Rename Augmentative Tech Review ([#74409](https://github.com/CleverRaven/Cataclysm-DDA/pull/74409))
 * Remove further survivor naginata mentions ([#74372](https://github.com/CleverRaven/Cataclysm-DDA/pull/74372))
-* Remove (most) Crater Spawns ([#74369](https://github.com/CleverRaven/Cataclysm-DDA/pull/74369))
 * Full Auto 10/22 ([#74371](https://github.com/CleverRaven/Cataclysm-DDA/pull/74371))
 * Adds Bench Vise ([#74370](https://github.com/CleverRaven/Cataclysm-DDA/pull/74370))
 * Routine i18n updates on 08 June 2024 ([#74374](https://github.com/CleverRaven/Cataclysm-DDA/pull/74374))
-* fix golden crown disassembly ([#74358](https://github.com/CleverRaven/Cataclysm-DDA/pull/74358))
-* Update house_38 to fix miss-matched floor tile ([#74361](https://github.com/CleverRaven/Cataclysm-DDA/pull/74361))
-* backport wasm build to 0.H ([#74362](https://github.com/CleverRaven/Cataclysm-DDA/pull/74362))
