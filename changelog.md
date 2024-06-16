@@ -42,12 +42,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-06-15-0138 ([fd7656a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-0138))
-
-* clean water goes bad if left in open container ([#74353](https://github.com/CleverRaven/Cataclysm-DDA/pull/74353))
-
----
-
 #### Cataclysm-DDA experimental build 2024-06-14-2255 ([767b21a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-14-2255))
 
 * Add brick construction to camp expansions ([#74389](https://github.com/CleverRaven/Cataclysm-DDA/pull/74389))
