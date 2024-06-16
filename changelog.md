@@ -1,3 +1,4 @@
+* Add espadrilles ([#74490](https://github.com/CleverRaven/Cataclysm-DDA/pull/74490))
 
 ---
 
@@ -205,5 +206,4 @@
 * Water terrain connects to dock terrain ([#74356](https://github.com/CleverRaven/Cataclysm-DDA/pull/74356))
 * fix golden crown disassembly ([#74358](https://github.com/CleverRaven/Cataclysm-DDA/pull/74358))
 * Update house_38 to fix miss-matched floor tile ([#74361](https://github.com/CleverRaven/Cataclysm-DDA/pull/74361))
-* Remove legacy npc_class_id handling and extern list ([#74354](https://github.com/CleverRaven/Cataclysm-DDA/pull/74354))
 * backport wasm build to 0.H ([#74362](https://github.com/CleverRaven/Cataclysm-DDA/pull/74362))

@@ -1,3 +1,4 @@
+* Add espadrilles (#74490)
 
 Cataclysm-DDA experimental build 2024-06-16-0312 (051fbd5)
 * clang-tidy: fix cata-unsequenced-calls (#74555)
@@ -136,5 +137,4 @@ Cataclysm-DDA experimental build 2024-06-11-1819 (9242489)
 * Water terrain connects to dock terrain (#74356)
 * fix golden crown disassembly (#74358)
 * Update house_38 to fix miss-matched floor tile (#74361)
-* Remove legacy npc_class_id handling and extern list (#74354)
 * backport wasm build to 0.H (#74362)
