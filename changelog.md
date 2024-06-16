@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-16-1205 ([a9d18c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-16-1205))
+
+* fix: invalid weapon category ([#74568](https://github.com/CleverRaven/Cataclysm-DDA/pull/74568))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-16-0542 ([ae7671a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-16-0542))
 
 * Add espadrilles ([#74490](https://github.com/CleverRaven/Cataclysm-DDA/pull/74490))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-06-11-2311 ([65c1f96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-11-2311))
 
 * add roof to lumber hotel ([#74452](https://github.com/CleverRaven/Cataclysm-DDA/pull/74452))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-11-1819 ([9242489](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-11-1819))
-
 * Fixed lab roofs ([#74388](https://github.com/CleverRaven/Cataclysm-DDA/pull/74388))
 * Minor house map adjustments, mostly roofs ([#74367](https://github.com/CleverRaven/Cataclysm-DDA/pull/74367))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
@@ -207,7 +208,6 @@
 * allow more recipes to use more kinds of water ([#74357](https://github.com/CleverRaven/Cataclysm-DDA/pull/74357))
 * Adds Bench Vise ([#74370](https://github.com/CleverRaven/Cataclysm-DDA/pull/74370))
 * Routine i18n updates on 08 June 2024 ([#74374](https://github.com/CleverRaven/Cataclysm-DDA/pull/74374))
-* Remove Survivor Naginata ([#74355](https://github.com/CleverRaven/Cataclysm-DDA/pull/74355))
 * Water terrain connects to dock terrain ([#74356](https://github.com/CleverRaven/Cataclysm-DDA/pull/74356))
 * fix golden crown disassembly ([#74358](https://github.com/CleverRaven/Cataclysm-DDA/pull/74358))
 * Update house_38 to fix miss-matched floor tile ([#74361](https://github.com/CleverRaven/Cataclysm-DDA/pull/74361))
