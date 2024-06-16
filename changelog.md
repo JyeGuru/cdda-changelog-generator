@@ -1,3 +1,5 @@
+* Adjusted changing room roofs ([#74592](https://github.com/CleverRaven/Cataclysm-DDA/pull/74592))
+* Add roofs on roof buildings, add glass roof on entrance ([#74588](https://github.com/CleverRaven/Cataclysm-DDA/pull/74588))
 * Adjusted roof to match walls ([#74589](https://github.com/CleverRaven/Cataclysm-DDA/pull/74589))
 * Adjusted small office's roof shack roof ([#74585](https://github.com/CleverRaven/Cataclysm-DDA/pull/74585))
 * Minor ocular zombie adjustments ([#74558](https://github.com/CleverRaven/Cataclysm-DDA/pull/74558))
@@ -191,7 +193,6 @@
 * Fixed lab roofs ([#74388](https://github.com/CleverRaven/Cataclysm-DDA/pull/74388))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
 * Organize bone resource item file contents ([#74392](https://github.com/CleverRaven/Cataclysm-DDA/pull/74392))
-* Corrections to a couple of house JSON definitions ([#74379](https://github.com/CleverRaven/Cataclysm-DDA/pull/74379))
 * Adjust Newspaper Chronology ([#74398](https://github.com/CleverRaven/Cataclysm-DDA/pull/74398))
 * Summer Hard Hat Modernisation ([#74400](https://github.com/CleverRaven/Cataclysm-DDA/pull/74400))
 * Small lighthouse ([#74393](https://github.com/CleverRaven/Cataclysm-DDA/pull/74393))
@@ -208,4 +209,3 @@
 * Revert conflicting fix that caused #74158 ([#74421](https://github.com/CleverRaven/Cataclysm-DDA/pull/74421))
 * [MOM] Allow short circuit to kill flying robots ([#74423](https://github.com/CleverRaven/Cataclysm-DDA/pull/74423))
 * Rename Augmentative Tech Review ([#74409](https://github.com/CleverRaven/Cataclysm-DDA/pull/74409))
-* Routine i18n updates on 08 June 2024 ([#74374](https://github.com/CleverRaven/Cataclysm-DDA/pull/74374))
