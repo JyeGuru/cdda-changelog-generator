@@ -177,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-06-12-2155 ([6153560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-2155))
 
 * Add section on 3D printers to FMS ([#74493](https://github.com/CleverRaven/Cataclysm-DDA/pull/74493))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-12-1850 ([aa11ccd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-1850))
-
 * Fix text typos. ([#74458](https://github.com/CleverRaven/Cataclysm-DDA/pull/74458))
 * Fix mouse overmap navigation while using an isometric non-overmap tileset ([#74481](https://github.com/CleverRaven/Cataclysm-DDA/pull/74481))
 * Add roofs to prison guard towers ([#74482](https://github.com/CleverRaven/Cataclysm-DDA/pull/74482))

@@ -114,8 +114,6 @@ Cataclysm-DDA experimental build 2024-06-13-0053 (47c8dfb)
 
 Cataclysm-DDA experimental build 2024-06-12-2155 (6153560)
 * Add section on 3D printers to FMS (#74493)
-
-Cataclysm-DDA experimental build 2024-06-12-1850 (aa11ccd)
 * Fix text typos. (#74458)
 * Fix mouse overmap navigation while using an isometric non-overmap tileset (#74481)
 * Add roofs to prison guard towers (#74482)
