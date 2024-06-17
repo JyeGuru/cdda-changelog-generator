@@ -1,3 +1,7 @@
+* 0.H fake parts fixes ([#74616](https://github.com/CleverRaven/Cataclysm-DDA/pull/74616))
+* Break fake parts when main part breaks ([#74615](https://github.com/CleverRaven/Cataclysm-DDA/pull/74615))
+* Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
+* Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
 * Update map_extras.json with "CLASSIC" tags ([#74603](https://github.com/CleverRaven/Cataclysm-DDA/pull/74603))
 * Fix identifier check for more guns ([#74530](https://github.com/CleverRaven/Cataclysm-DDA/pull/74530))
 * Use std::string_view in mod_tracker ([#74565](https://github.com/CleverRaven/Cataclysm-DDA/pull/74565))
@@ -151,12 +155,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-06-13-1241 ([b421240](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-1241))
-
-* Shows the VZ. 58 the Door ([#74422](https://github.com/CleverRaven/Cataclysm-DDA/pull/74422))
-
----
-
 #### Cataclysm-DDA experimental build 2024-06-13-0720 ([58b90c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-0720))
 
 * [MoM] Extend mood stabilization to others outside of dialogue ([#74437](https://github.com/CleverRaven/Cataclysm-DDA/pull/74437))
@@ -199,9 +197,6 @@
 * Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
 * add roof to lumber hotel ([#74452](https://github.com/CleverRaven/Cataclysm-DDA/pull/74452))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
-* Save achievement files with valid and unique names ([#74419](https://github.com/CleverRaven/Cataclysm-DDA/pull/74419))
 * No empty decay IDs ([#74428](https://github.com/CleverRaven/Cataclysm-DDA/pull/74428))
 * Added a portable makeshift brazier ([#74429](https://github.com/CleverRaven/Cataclysm-DDA/pull/74429))
 * Add roofs to mil base ([#74430](https://github.com/CleverRaven/Cataclysm-DDA/pull/74430))
-* Revert conflicting fix that caused #74158 ([#74421](https://github.com/CleverRaven/Cataclysm-DDA/pull/74421))
-* [MOM] Allow short circuit to kill flying robots ([#74423](https://github.com/CleverRaven/Cataclysm-DDA/pull/74423))
