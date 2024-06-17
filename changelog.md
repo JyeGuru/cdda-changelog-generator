@@ -1,3 +1,4 @@
+* FMS Copyediting ([#74580](https://github.com/CleverRaven/Cataclysm-DDA/pull/74580))
 
 ---
 
@@ -61,12 +62,6 @@
 * Added roof to super home imp. roof shack ([#74544](https://github.com/CleverRaven/Cataclysm-DDA/pull/74544))
 * Added explicit roofs to hazardous waste sarcophagus ([#74542](https://github.com/CleverRaven/Cataclysm-DDA/pull/74542))
 * Added roof to baseball field shack ([#74541](https://github.com/CleverRaven/Cataclysm-DDA/pull/74541))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-15-0455 ([d5efb05](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-0455))
-
-* Fixed Cody & Jay roofs ([#74380](https://github.com/CleverRaven/Cataclysm-DDA/pull/74380))
 * Remove Raging Judge, A180, KSG-25, PPSH ([#74397](https://github.com/CleverRaven/Cataclysm-DDA/pull/74397))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
 

@@ -1,3 +1,4 @@
+* FMS Copyediting (#74580)
 
 Cataclysm-DDA experimental build 2024-06-17-0139 (375c712)
 * Adjusted changing room roofs (#74592)
@@ -37,9 +38,6 @@ Cataclysm-DDA experimental build 2024-06-15-1417 (2561cc2)
 * Added roof to super home imp. roof shack (#74544)
 * Added explicit roofs to hazardous waste sarcophagus (#74542)
 * Added roof to baseball field shack (#74541)
-
-Cataclysm-DDA experimental build 2024-06-15-0455 (d5efb05)
-* Fixed Cody & Jay roofs (#74380)
 * Remove Raging Judge, A180, KSG-25, PPSH (#74397)
 * Routine i18n updates on 15 June 2024 (#74540)
 
