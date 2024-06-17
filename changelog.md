@@ -1,3 +1,15 @@
+* Adjusted icecream shop roof to match walls ([#74626](https://github.com/CleverRaven/Cataclysm-DDA/pull/74626))
+* Add roof on school roof access shack ([#74627](https://github.com/CleverRaven/Cataclysm-DDA/pull/74627))
+* Adjusted sewage treatment building roof, added roof access shack roof ([#74628](https://github.com/CleverRaven/Cataclysm-DDA/pull/74628))
+* Added roof to town hall roof access shack ([#74630](https://github.com/CleverRaven/Cataclysm-DDA/pull/74630))
+* Add roof to toxic waste dump shack ([#74631](https://github.com/CleverRaven/Cataclysm-DDA/pull/74631))
+* Add roof to tutorial building ([#74632](https://github.com/CleverRaven/Cataclysm-DDA/pull/74632))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-17-1448 ([3e678ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-17-1448))
+
+* Add roof on hospital wall extensions ([#74633](https://github.com/CleverRaven/Cataclysm-DDA/pull/74633))
 
 ---
 
@@ -67,7 +79,6 @@
 * Added roof to super home imp. roof shack ([#74544](https://github.com/CleverRaven/Cataclysm-DDA/pull/74544))
 * Added explicit roofs to hazardous waste sarcophagus ([#74542](https://github.com/CleverRaven/Cataclysm-DDA/pull/74542))
 * Added roof to baseball field shack ([#74541](https://github.com/CleverRaven/Cataclysm-DDA/pull/74541))
-* Remove Raging Judge, A180, KSG-25, PPSH ([#74397](https://github.com/CleverRaven/Cataclysm-DDA/pull/74397))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
 
 ---
@@ -75,12 +86,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-06-15-0219 ([be7a566](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-15-0219))
 
 * Backport #74053 Hordes don't wander to 0,0 ([#74527](https://github.com/CleverRaven/Cataclysm-DDA/pull/74527))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-14-2255 ([767b21a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-14-2255))
-
-* Add brick construction to camp expansions ([#74389](https://github.com/CleverRaven/Cataclysm-DDA/pull/74389))
 
 ---
 
@@ -173,11 +178,6 @@
 * Allow mod exclusions in get_all_mods.py ([#74476](https://github.com/CleverRaven/Cataclysm-DDA/pull/74476))
 * Add cooking_components group to snow cone recipe ([#74465](https://github.com/CleverRaven/Cataclysm-DDA/pull/74465))
 * Purge the overmap coverage test whitelist ([#74424](https://github.com/CleverRaven/Cataclysm-DDA/pull/74424))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-12-1214 ([1fb61c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-1214))
-
 * [Backrooms] Update to use indestructible terrain, whitelist and EXTERNAL_OPTIONs ([#74434](https://github.com/CleverRaven/Cataclysm-DDA/pull/74434))
 * KA-BAR now looks like National Guard Bayonet ([#74415](https://github.com/CleverRaven/Cataclysm-DDA/pull/74415))
 * [Aftershock] Esper additions ([#74431](https://github.com/CleverRaven/Cataclysm-DDA/pull/74431))
@@ -185,12 +185,9 @@
 * fix typo & refactor ([#74460](https://github.com/CleverRaven/Cataclysm-DDA/pull/74460))
 * Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
 * add roof to lumber hotel ([#74452](https://github.com/CleverRaven/Cataclysm-DDA/pull/74452))
-* Fixed lab roofs ([#74388](https://github.com/CleverRaven/Cataclysm-DDA/pull/74388))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
-* Organize bone resource item file contents ([#74392](https://github.com/CleverRaven/Cataclysm-DDA/pull/74392))
 * Adjust Newspaper Chronology ([#74398](https://github.com/CleverRaven/Cataclysm-DDA/pull/74398))
 * Summer Hard Hat Modernisation ([#74400](https://github.com/CleverRaven/Cataclysm-DDA/pull/74400))
-* Small lighthouse ([#74393](https://github.com/CleverRaven/Cataclysm-DDA/pull/74393))
 * Fix prison bus parts ([#74411](https://github.com/CleverRaven/Cataclysm-DDA/pull/74411))
 * Update leather lamellar recipie to be learned from appropriate manuals. ([#74402](https://github.com/CleverRaven/Cataclysm-DDA/pull/74402))
 * Modification of recipes related to iodine ([#74412](https://github.com/CleverRaven/Cataclysm-DDA/pull/74412))
