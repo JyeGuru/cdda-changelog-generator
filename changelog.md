@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-17-0139 ([375c712](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-17-0139))
+
 * Adjusted changing room roofs ([#74592](https://github.com/CleverRaven/Cataclysm-DDA/pull/74592))
 * Add roofs on roof buildings, add glass roof on entrance ([#74588](https://github.com/CleverRaven/Cataclysm-DDA/pull/74588))
 * Adjusted roof to match walls ([#74589](https://github.com/CleverRaven/Cataclysm-DDA/pull/74589))
@@ -183,11 +188,6 @@
 * [Aftershock] Esper additions ([#74431](https://github.com/CleverRaven/Cataclysm-DDA/pull/74431))
 * Fix calculation error in potassium iodide recipe ([#74450](https://github.com/CleverRaven/Cataclysm-DDA/pull/74450))
 * fix typo & refactor ([#74460](https://github.com/CleverRaven/Cataclysm-DDA/pull/74460))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-12-0205 ([afca258](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-0205))
-
 * Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
 * add roof to lumber hotel ([#74452](https://github.com/CleverRaven/Cataclysm-DDA/pull/74452))
 * Fixed lab roofs ([#74388](https://github.com/CleverRaven/Cataclysm-DDA/pull/74388))
