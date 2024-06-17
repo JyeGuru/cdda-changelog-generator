@@ -1,3 +1,4 @@
+* Fix identifier check for more guns ([#74530](https://github.com/CleverRaven/Cataclysm-DDA/pull/74530))
 * Use std::string_view in mod_tracker ([#74565](https://github.com/CleverRaven/Cataclysm-DDA/pull/74565))
 * Add some examples for rule #1 in gun naming ([#74577](https://github.com/CleverRaven/Cataclysm-DDA/pull/74577))
 * Added roof to roof access shack ([#74593](https://github.com/CleverRaven/Cataclysm-DDA/pull/74593))
@@ -186,7 +187,6 @@
 * Add cooking_components group to snow cone recipe ([#74465](https://github.com/CleverRaven/Cataclysm-DDA/pull/74465))
 * Purge the overmap coverage test whitelist ([#74424](https://github.com/CleverRaven/Cataclysm-DDA/pull/74424))
 * [Backrooms] Update to use indestructible terrain, whitelist and EXTERNAL_OPTIONs ([#74434](https://github.com/CleverRaven/Cataclysm-DDA/pull/74434))
-* KA-BAR now looks like National Guard Bayonet ([#74415](https://github.com/CleverRaven/Cataclysm-DDA/pull/74415))
 * [Aftershock] Esper additions ([#74431](https://github.com/CleverRaven/Cataclysm-DDA/pull/74431))
 * Fix calculation error in potassium iodide recipe ([#74450](https://github.com/CleverRaven/Cataclysm-DDA/pull/74450))
 * fix typo & refactor ([#74460](https://github.com/CleverRaven/Cataclysm-DDA/pull/74460))
