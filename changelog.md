@@ -199,7 +199,6 @@
 * Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
 * add roof to lumber hotel ([#74452](https://github.com/CleverRaven/Cataclysm-DDA/pull/74452))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
-* Rename SIG Mosquito ([#74418](https://github.com/CleverRaven/Cataclysm-DDA/pull/74418))
 * Save achievement files with valid and unique names ([#74419](https://github.com/CleverRaven/Cataclysm-DDA/pull/74419))
 * No empty decay IDs ([#74428](https://github.com/CleverRaven/Cataclysm-DDA/pull/74428))
 * Added a portable makeshift brazier ([#74429](https://github.com/CleverRaven/Cataclysm-DDA/pull/74429))
