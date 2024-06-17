@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-17-0438 (def4459)
 * FMS Copyediting (#74580)
 
 Cataclysm-DDA experimental build 2024-06-17-0139 (375c712)
@@ -108,8 +110,6 @@ Cataclysm-DDA experimental build 2024-06-12-1850 (aa11ccd)
 
 Cataclysm-DDA experimental build 2024-06-12-1214 (1fb61c1)
 * [Backrooms] Update to use indestructible terrain, whitelist and EXTERNAL_OPTIONs (#74434)
-
-Cataclysm-DDA experimental build 2024-06-12-0454 (fedfb57)
 * KA-BAR now looks like National Guard Bayonet (#74415)
 * [Aftershock] Esper additions (#74431)
 * Fix calculation error in potassium iodide recipe (#74450)

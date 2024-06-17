@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-17-0438 ([def4459](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-17-0438))
+
 * FMS Copyediting ([#74580](https://github.com/CleverRaven/Cataclysm-DDA/pull/74580))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-06-12-1214 ([1fb61c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-1214))
 
 * [Backrooms] Update to use indestructible terrain, whitelist and EXTERNAL_OPTIONs ([#74434](https://github.com/CleverRaven/Cataclysm-DDA/pull/74434))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-12-0454 ([fedfb57](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-0454))
-
 * KA-BAR now looks like National Guard Bayonet ([#74415](https://github.com/CleverRaven/Cataclysm-DDA/pull/74415))
 * [Aftershock] Esper additions ([#74431](https://github.com/CleverRaven/Cataclysm-DDA/pull/74431))
 * Fix calculation error in potassium iodide recipe ([#74450](https://github.com/CleverRaven/Cataclysm-DDA/pull/74450))
