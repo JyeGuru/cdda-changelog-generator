@@ -1,4 +1,9 @@
 * Start menu: Selector for trait variants ([#74525](https://github.com/CleverRaven/Cataclysm-DDA/pull/74525))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-06-17-1934 ([8c4e268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-17-1934))
+
 * 0.H fake parts fixes ([#74616](https://github.com/CleverRaven/Cataclysm-DDA/pull/74616))
 * Break fake parts when main part breaks ([#74615](https://github.com/CleverRaven/Cataclysm-DDA/pull/74615))
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-06-13-0053 ([47c8dfb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-0053))
 
 * [XEDRA] Add Ethereal Wings Dreamer spell ([#74477](https://github.com/CleverRaven/Cataclysm-DDA/pull/74477))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-12-2155 ([6153560](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-12-2155))
-
 * Add section on 3D printers to FMS ([#74493](https://github.com/CleverRaven/Cataclysm-DDA/pull/74493))
 * Fix text typos. ([#74458](https://github.com/CleverRaven/Cataclysm-DDA/pull/74458))
 * Fix mouse overmap navigation while using an isometric non-overmap tileset ([#74481](https://github.com/CleverRaven/Cataclysm-DDA/pull/74481))
