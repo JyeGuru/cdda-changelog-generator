@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-18-1237 ([08a9ab4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-1237))
+
+* Moving quadrupedally through acid or fire damages both your hands and feet ([#74639](https://github.com/CleverRaven/Cataclysm-DDA/pull/74639))
 * [Aftershock] Add Spark to Esper scenario ([#74461](https://github.com/CleverRaven/Cataclysm-DDA/pull/74461))
 
 ---
@@ -156,12 +162,6 @@
 #### Cataclysm-DDA experimental build 2024-06-14-1422 ([af77128](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-14-1422))
 
 * Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-13-2329 ([cb44970](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-2329))
-
-* Adds a deconstruct query with item list ([#74440](https://github.com/CleverRaven/Cataclysm-DDA/pull/74440))
 * Remove Graphical_Overmap mod + Add errorless mod removal ([#74457](https://github.com/CleverRaven/Cataclysm-DDA/pull/74457))
 * Remove weird DUKW spawns ([#74467](https://github.com/CleverRaven/Cataclysm-DDA/pull/74467))
 * Field type migration ([#74497](https://github.com/CleverRaven/Cataclysm-DDA/pull/74497))
@@ -176,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-06-13-2022 ([4e48379](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-2022))
 
 * fix paste error in FAQ ([#74510](https://github.com/CleverRaven/Cataclysm-DDA/pull/74510))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-13-1554 ([fcbf5b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-1554))
-
 * [Aftershock] Convert Small and Large Power Substaions ([#74500](https://github.com/CleverRaven/Cataclysm-DDA/pull/74500))
 * Revert "Remove legacy inventory system handling" ([#74499](https://github.com/CleverRaven/Cataclysm-DDA/pull/74499))
 * [XEDRA] Add Ethereal Wings Dreamer spell ([#74477](https://github.com/CleverRaven/Cataclysm-DDA/pull/74477))
@@ -195,5 +190,4 @@
 * Add cooking_components group to snow cone recipe ([#74465](https://github.com/CleverRaven/Cataclysm-DDA/pull/74465))
 * Fix calculation error in potassium iodide recipe ([#74450](https://github.com/CleverRaven/Cataclysm-DDA/pull/74450))
 * fix typo & refactor ([#74460](https://github.com/CleverRaven/Cataclysm-DDA/pull/74460))
-* Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
 * add roof to lumber hotel ([#74452](https://github.com/CleverRaven/Cataclysm-DDA/pull/74452))
