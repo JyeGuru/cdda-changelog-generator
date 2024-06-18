@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-18-0136 ([668e0d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-0136))
+
+* [Aftershock] Add small Enforcer Station ([#74471](https://github.com/CleverRaven/Cataclysm-DDA/pull/74471))
 * Start menu: Selector for trait variants ([#74525](https://github.com/CleverRaven/Cataclysm-DDA/pull/74525))
 
 ---
@@ -121,7 +127,6 @@
 * Phosphorus from Matchboxes and Potassium Chloride From Match-heads ([#74489](https://github.com/CleverRaven/Cataclysm-DDA/pull/74489))
 * Add Diet Soda Group/Update Snow Cone Recipe ([#74513](https://github.com/CleverRaven/Cataclysm-DDA/pull/74513))
 * Add Variants/Variable Snippets for Tights ([#74512](https://github.com/CleverRaven/Cataclysm-DDA/pull/74512))
-* Weekly Changelog 2024-06-03 to 2024-06-10 ([#74425](https://github.com/CleverRaven/Cataclysm-DDA/pull/74425))
 * Added roof to bike shop 1 roof shack ([#74517](https://github.com/CleverRaven/Cataclysm-DDA/pull/74517))
 * no natural rock floor + roof on Lapin shed ([#74519](https://github.com/CleverRaven/Cataclysm-DDA/pull/74519))
 * Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-06-13-0502 ([8e5e559](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-0502))
 
 * Revert "Remove legacy inventory system handling" ([#74499](https://github.com/CleverRaven/Cataclysm-DDA/pull/74499))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-13-0053 ([47c8dfb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-0053))
-
 * [XEDRA] Add Ethereal Wings Dreamer spell ([#74477](https://github.com/CleverRaven/Cataclysm-DDA/pull/74477))
 * Add section on 3D printers to FMS ([#74493](https://github.com/CleverRaven/Cataclysm-DDA/pull/74493))
 * Fix text typos. ([#74458](https://github.com/CleverRaven/Cataclysm-DDA/pull/74458))

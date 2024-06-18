@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-06-18-0136 (668e0d9)
+* [Aftershock] Add small Enforcer Station (#74471)
 * Start menu: Selector for trait variants (#74525)
 
 Cataclysm-DDA 0.H release candidate 2024-06-17-1934 (8c4e268)
@@ -79,7 +82,6 @@ Cataclysm-DDA experimental build 2024-06-14-1722 (47b046c)
 * Phosphorus from Matchboxes and Potassium Chloride From Match-heads (#74489)
 * Add Diet Soda Group/Update Snow Cone Recipe (#74513)
 * Add Variants/Variable Snippets for Tights (#74512)
-* Weekly Changelog 2024-06-03 to 2024-06-10 (#74425)
 * Added roof to bike shop 1 roof shack (#74517)
 * no natural rock floor + roof on Lapin shed (#74519)
 * Added roof to incomplete campsite building (#74520)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-06-13-0720 (58b90c6)
 
 Cataclysm-DDA experimental build 2024-06-13-0502 (8e5e559)
 * Revert "Remove legacy inventory system handling" (#74499)
-
-Cataclysm-DDA experimental build 2024-06-13-0053 (47c8dfb)
 * [XEDRA] Add Ethereal Wings Dreamer spell (#74477)
 * Add section on 3D printers to FMS (#74493)
 * Fix text typos. (#74458)
