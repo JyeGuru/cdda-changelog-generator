@@ -1,3 +1,4 @@
+* Remove the shooting lightning ability from monsters (#74521)
 
 Cataclysm-DDA experimental build 2024-06-18-1237 (08a9ab4)
 * Moving quadrupedally through acid or fire damages both your hands and feet (#74639)
@@ -130,5 +131,4 @@ Cataclysm-DDA experimental build 2024-06-13-2022 (4e48379)
 * Add cooking_components group to snow cone recipe (#74465)
 * Fix calculation error in potassium iodide recipe (#74450)
 * fix typo & refactor (#74460)
-* Correct occlusion distance calc for non-isometric tilesets (#74445)
 * add roof to lumber hotel (#74452)
