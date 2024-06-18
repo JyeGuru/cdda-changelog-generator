@@ -1,4 +1,9 @@
 * [Aftershock] Add Spark to Esper scenario ([#74461](https://github.com/CleverRaven/Cataclysm-DDA/pull/74461))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-06-18-0513 ([aab1180](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-18-0513))
+
 * Revert cramped vehicle changes for 0.H ([#74492](https://github.com/CleverRaven/Cataclysm-DDA/pull/74492))
 * Snippets tweak ([#74549](https://github.com/CleverRaven/Cataclysm-DDA/pull/74549))
 * Add the Chiappa Rhino ([#74561](https://github.com/CleverRaven/Cataclysm-DDA/pull/74561))
