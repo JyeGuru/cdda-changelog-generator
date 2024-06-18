@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-18-0433 ([008277f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-0433))
+
 * Drop object creator builds from CI ([#74587](https://github.com/CleverRaven/Cataclysm-DDA/pull/74587))
 
 ---
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-06-13-0720 ([58b90c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-0720))
 
 * [MoM] Extend mood stabilization to others outside of dialogue ([#74437](https://github.com/CleverRaven/Cataclysm-DDA/pull/74437))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-13-0502 ([8e5e559](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-13-0502))
-
 * Revert "Remove legacy inventory system handling" ([#74499](https://github.com/CleverRaven/Cataclysm-DDA/pull/74499))
 * [XEDRA] Add Ethereal Wings Dreamer spell ([#74477](https://github.com/CleverRaven/Cataclysm-DDA/pull/74477))
 * Add section on 3D printers to FMS ([#74493](https://github.com/CleverRaven/Cataclysm-DDA/pull/74493))
