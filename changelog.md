@@ -1,3 +1,4 @@
+* Drop object creator builds from CI ([#74587](https://github.com/CleverRaven/Cataclysm-DDA/pull/74587))
 
 ---
 
@@ -192,6 +193,5 @@
 * Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
 * add roof to lumber hotel ([#74452](https://github.com/CleverRaven/Cataclysm-DDA/pull/74452))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
-* No empty decay IDs ([#74428](https://github.com/CleverRaven/Cataclysm-DDA/pull/74428))
 * Added a portable makeshift brazier ([#74429](https://github.com/CleverRaven/Cataclysm-DDA/pull/74429))
 * Add roofs to mil base ([#74430](https://github.com/CleverRaven/Cataclysm-DDA/pull/74430))

@@ -1,3 +1,4 @@
+* Drop object creator builds from CI (#74587)
 
 Cataclysm-DDA experimental build 2024-06-18-0136 (668e0d9)
 * [Aftershock] Add small Enforcer Station (#74471)
@@ -129,6 +130,5 @@ Cataclysm-DDA experimental build 2024-06-13-0502 (8e5e559)
 * Correct occlusion distance calc for non-isometric tilesets (#74445)
 * add roof to lumber hotel (#74452)
 * [MoM] Account for ROBOT_FLYING (#74432)
-* No empty decay IDs (#74428)
 * Added a portable makeshift brazier (#74429)
 * Add roofs to mil base (#74430)
