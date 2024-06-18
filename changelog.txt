@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-18-1525 (2efe44b)
 * Remove the shooting lightning ability from monsters (#74521)
 
 Cataclysm-DDA experimental build 2024-06-18-1237 (08a9ab4)
@@ -114,8 +116,6 @@ Cataclysm-DDA experimental build 2024-06-14-1422 (af77128)
 * Added roofs to Hub01 shack + merchants (#74505)
 * Added roofs to abandoned01 (#74506)
 * Added roof to roof access shack on apartment_mod_new (#74507)
-
-Cataclysm-DDA experimental build 2024-06-13-2022 (4e48379)
 * fix paste error in FAQ (#74510)
 * [Aftershock] Convert Small and Large Power Substaions (#74500)
 * Revert "Remove legacy inventory system handling" (#74499)
