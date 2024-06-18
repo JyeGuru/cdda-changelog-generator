@@ -1,3 +1,4 @@
+* Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
 
 ---
 
