@@ -1,3 +1,6 @@
+* Add Mossberg 590M ([#74613](https://github.com/CleverRaven/Cataclysm-DDA/pull/74613))
+* adding tiny bottles and modifying nicotine liquid bottles ([#74614](https://github.com/CleverRaven/Cataclysm-DDA/pull/74614))
+* Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
 
 ---
 
@@ -187,11 +190,8 @@
 * Allow mod exclusions in get_all_mods.py ([#74476](https://github.com/CleverRaven/Cataclysm-DDA/pull/74476))
 * Add cooking_components group to snow cone recipe ([#74465](https://github.com/CleverRaven/Cataclysm-DDA/pull/74465))
 * [Backrooms] Update to use indestructible terrain, whitelist and EXTERNAL_OPTIONs ([#74434](https://github.com/CleverRaven/Cataclysm-DDA/pull/74434))
-* [Aftershock] Esper additions ([#74431](https://github.com/CleverRaven/Cataclysm-DDA/pull/74431))
 * Fix calculation error in potassium iodide recipe ([#74450](https://github.com/CleverRaven/Cataclysm-DDA/pull/74450))
 * fix typo & refactor ([#74460](https://github.com/CleverRaven/Cataclysm-DDA/pull/74460))
 * Correct occlusion distance calc for non-isometric tilesets ([#74445](https://github.com/CleverRaven/Cataclysm-DDA/pull/74445))
 * add roof to lumber hotel ([#74452](https://github.com/CleverRaven/Cataclysm-DDA/pull/74452))
 * [MoM] Account for ROBOT_FLYING ([#74432](https://github.com/CleverRaven/Cataclysm-DDA/pull/74432))
-* Added a portable makeshift brazier ([#74429](https://github.com/CleverRaven/Cataclysm-DDA/pull/74429))
-* Add roofs to mil base ([#74430](https://github.com/CleverRaven/Cataclysm-DDA/pull/74430))
