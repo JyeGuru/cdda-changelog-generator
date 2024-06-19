@@ -1,3 +1,5 @@
+
+Cataclysm-DDA 0.H release candidate 2024-06-19-1430 (7b4ff7f)
 * Breather fix 0.H (#74664)
 
 Cataclysm-DDA experimental build 2024-06-19-1355 (db4fb60)

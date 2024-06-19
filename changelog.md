@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-06-19-1430 ([7b4ff7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-19-1430))
+
 * Breather fix 0.H ([#74664](https://github.com/CleverRaven/Cataclysm-DDA/pull/74664))
 
 ---
