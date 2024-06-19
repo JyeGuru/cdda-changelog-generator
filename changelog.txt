@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-19-0151 (ae7bebb)
+* Add roofs to homeless upgrade (#74654)
+
 Cataclysm-DDA experimental build 2024-06-18-2254 (e87597d)
 * Provide roof for regional dump shack (#74651)
 * [Aftershock] Add Enclosed Parks (#74650)
@@ -110,10 +113,7 @@ Cataclysm-DDA experimental build 2024-06-14-1722 (47b046c)
 * no natural rock floor + roof on Lapin shed (#74519)
 * Added roof to incomplete campsite building (#74520)
 * Add roof to sewer tent (#74522)
-
-Cataclysm-DDA experimental build 2024-06-14-1422 (af77128)
 * Add roofs to tree farm shacks (#74523)
-* Remove Graphical_Overmap mod + Add errorless mod removal (#74457)
 * Remove weird DUKW spawns (#74467)
 * Field type migration (#74497)
 * Fix Small Power Substation (#74501)

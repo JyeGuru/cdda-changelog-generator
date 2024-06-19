@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-19-0151 ([ae7bebb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-0151))
+
+* Add roofs to homeless upgrade ([#74654](https://github.com/CleverRaven/Cataclysm-DDA/pull/74654))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-18-2254 ([e87597d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-2254))
 
 * Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
@@ -170,13 +176,7 @@
 * no natural rock floor + roof on Lapin shed ([#74519](https://github.com/CleverRaven/Cataclysm-DDA/pull/74519))
 * Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
 * Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-14-1422 ([af77128](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-14-1422))
-
 * Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
-* Remove Graphical_Overmap mod + Add errorless mod removal ([#74457](https://github.com/CleverRaven/Cataclysm-DDA/pull/74457))
 * Remove weird DUKW spawns ([#74467](https://github.com/CleverRaven/Cataclysm-DDA/pull/74467))
 * Field type migration ([#74497](https://github.com/CleverRaven/Cataclysm-DDA/pull/74497))
 * Fix Small Power Substation ([#74501](https://github.com/CleverRaven/Cataclysm-DDA/pull/74501))
