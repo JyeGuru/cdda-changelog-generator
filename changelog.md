@@ -1,3 +1,4 @@
+* Breather fix 0.H ([#74664](https://github.com/CleverRaven/Cataclysm-DDA/pull/74664))
 
 ---
 
@@ -36,7 +37,6 @@
 #### Cataclysm-DDA experimental build 2024-06-18-1237 ([08a9ab4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-1237))
 
 * Moving quadrupedally through acid or fire damages both your hands and feet ([#74639](https://github.com/CleverRaven/Cataclysm-DDA/pull/74639))
-* [Aftershock] Add Spark to Esper scenario ([#74461](https://github.com/CleverRaven/Cataclysm-DDA/pull/74461))
 
 ---
 

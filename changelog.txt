@@ -1,3 +1,4 @@
+* Breather fix 0.H (#74664)
 
 Cataclysm-DDA experimental build 2024-06-19-1355 (db4fb60)
 * [MoM] Write single variable-based EoC for power contemplation, make it more like other meditation activities (#74647)
@@ -18,7 +19,6 @@ Cataclysm-DDA experimental build 2024-06-18-1525 (2efe44b)
 
 Cataclysm-DDA experimental build 2024-06-18-1237 (08a9ab4)
 * Moving quadrupedally through acid or fire damages both your hands and feet (#74639)
-* [Aftershock] Add Spark to Esper scenario (#74461)
 
 Cataclysm-DDA 0.H release candidate 2024-06-18-0513 (aab1180)
 * Revert cramped vehicle changes for 0.H (#74492)
