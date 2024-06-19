@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-19-1635 ([5f78795](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-1635))
+
 * Miscellaneous Clothing Disassembly’s: 1 ([#74659](https://github.com/CleverRaven/Cataclysm-DDA/pull/74659))
 * Tone down hair growth times ([#74665](https://github.com/CleverRaven/Cataclysm-DDA/pull/74665))
 * Check DPS for all weapons, make bows, bionics, and clothes worse weapons ([#74600](https://github.com/CleverRaven/Cataclysm-DDA/pull/74600))
@@ -172,11 +177,6 @@
 * Added explicit roofs to hazardous waste sarcophagus ([#74542](https://github.com/CleverRaven/Cataclysm-DDA/pull/74542))
 * Added roof to baseball field shack ([#74541](https://github.com/CleverRaven/Cataclysm-DDA/pull/74541))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-06-15-0219 ([be7a566](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-15-0219))
-
 * Backport #74053 Hordes don't wander to 0,0 ([#74527](https://github.com/CleverRaven/Cataclysm-DDA/pull/74527))
 * Phosphorus from Matchboxes and Potassium Chloride From Match-heads ([#74489](https://github.com/CleverRaven/Cataclysm-DDA/pull/74489))
 * Add Diet Soda Group/Update Snow Cone Recipe ([#74513](https://github.com/CleverRaven/Cataclysm-DDA/pull/74513))

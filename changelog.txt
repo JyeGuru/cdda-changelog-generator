@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-19-1635 (5f78795)
 * Miscellaneous Clothing Disassembly’s: 1 (#74659)
 * Tone down hair growth times (#74665)
 * Check DPS for all weapons, make bows, bionics, and clothes worse weapons (#74600)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2024-06-15-1417 (2561cc2)
 * Added explicit roofs to hazardous waste sarcophagus (#74542)
 * Added roof to baseball field shack (#74541)
 * Routine i18n updates on 15 June 2024 (#74540)
-
-Cataclysm-DDA 0.H release candidate 2024-06-15-0219 (be7a566)
 * Backport #74053 Hordes don't wander to 0,0 (#74527)
 * Phosphorus from Matchboxes and Potassium Chloride From Match-heads (#74489)
 * Add Diet Soda Group/Update Snow Cone Recipe (#74513)
