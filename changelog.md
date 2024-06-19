@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-19-1355 ([db4fb60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-1355))
+
+* [MoM] Write single variable-based EoC for power contemplation, make it more like other meditation activities ([#74647](https://github.com/CleverRaven/Cataclysm-DDA/pull/74647))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-19-0447 ([551e1b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-0447))
 
 * Handle rounding errors in EOC proficiency gain ([#74641](https://github.com/CleverRaven/Cataclysm-DDA/pull/74641))
@@ -197,4 +203,3 @@
 * Fix android build ([#74486](https://github.com/CleverRaven/Cataclysm-DDA/pull/74486))
 * Allow mod exclusions in get_all_mods.py ([#74476](https://github.com/CleverRaven/Cataclysm-DDA/pull/74476))
 * Add cooking_components group to snow cone recipe ([#74465](https://github.com/CleverRaven/Cataclysm-DDA/pull/74465))
-* fix typo & refactor ([#74460](https://github.com/CleverRaven/Cataclysm-DDA/pull/74460))
