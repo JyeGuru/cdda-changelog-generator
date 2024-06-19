@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-19-0447 ([551e1b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-0447))
+
 * Handle rounding errors in EOC proficiency gain ([#74641](https://github.com/CleverRaven/Cataclysm-DDA/pull/74641))
 
 ---
@@ -164,11 +169,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-06-15-0219 ([be7a566](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-15-0219))
 
 * Backport #74053 Hordes don't wander to 0,0 ([#74527](https://github.com/CleverRaven/Cataclysm-DDA/pull/74527))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-14-1722 ([47b046c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-14-1722))
-
 * [Xedra Evolved] More paraclesian powers ([#74468](https://github.com/CleverRaven/Cataclysm-DDA/pull/74468))
 * Phosphorus from Matchboxes and Potassium Chloride From Match-heads ([#74489](https://github.com/CleverRaven/Cataclysm-DDA/pull/74489))
 * Add Diet Soda Group/Update Snow Cone Recipe ([#74513](https://github.com/CleverRaven/Cataclysm-DDA/pull/74513))

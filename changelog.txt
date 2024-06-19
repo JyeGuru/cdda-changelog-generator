@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-19-0447 (551e1b5)
 * Handle rounding errors in EOC proficiency gain (#74641)
 
 Cataclysm-DDA experimental build 2024-06-19-0151 (ae7bebb)
@@ -104,8 +106,6 @@ Cataclysm-DDA experimental build 2024-06-15-1417 (2561cc2)
 
 Cataclysm-DDA 0.H release candidate 2024-06-15-0219 (be7a566)
 * Backport #74053 Hordes don't wander to 0,0 (#74527)
-
-Cataclysm-DDA experimental build 2024-06-14-1722 (47b046c)
 * [Xedra Evolved] More paraclesian powers (#74468)
 * Phosphorus from Matchboxes and Potassium Chloride From Match-heads (#74489)
 * Add Diet Soda Group/Update Snow Cone Recipe (#74513)
