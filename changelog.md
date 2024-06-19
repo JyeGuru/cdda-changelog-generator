@@ -1,3 +1,5 @@
+* Remove the MR73 ([#74636](https://github.com/CleverRaven/Cataclysm-DDA/pull/74636))
+* Make a zombie-flavored breather and cut spawns of them in meat lab ([#74663](https://github.com/CleverRaven/Cataclysm-DDA/pull/74663))
 
 ---
 
@@ -195,11 +197,9 @@
 * fix paste error in FAQ ([#74510](https://github.com/CleverRaven/Cataclysm-DDA/pull/74510))
 * [Aftershock] Convert Small and Large Power Substaions ([#74500](https://github.com/CleverRaven/Cataclysm-DDA/pull/74500))
 * Revert "Remove legacy inventory system handling" ([#74499](https://github.com/CleverRaven/Cataclysm-DDA/pull/74499))
-* [XEDRA] Add Ethereal Wings Dreamer spell ([#74477](https://github.com/CleverRaven/Cataclysm-DDA/pull/74477))
 * Add section on 3D printers to FMS ([#74493](https://github.com/CleverRaven/Cataclysm-DDA/pull/74493))
 * Fix mouse overmap navigation while using an isometric non-overmap tileset ([#74481](https://github.com/CleverRaven/Cataclysm-DDA/pull/74481))
 * Add roofs to prison guard towers ([#74482](https://github.com/CleverRaven/Cataclysm-DDA/pull/74482))
 * Added roofs on refugee center roof access shacks ([#74484](https://github.com/CleverRaven/Cataclysm-DDA/pull/74484))
 * natural rock-> floor/roof, adjusted destruction to match ([#74485](https://github.com/CleverRaven/Cataclysm-DDA/pull/74485))
 * Fix android build ([#74486](https://github.com/CleverRaven/Cataclysm-DDA/pull/74486))
-* Allow mod exclusions in get_all_mods.py ([#74476](https://github.com/CleverRaven/Cataclysm-DDA/pull/74476))
