@@ -1,3 +1,6 @@
+* Tone down hair growth times ([#74665](https://github.com/CleverRaven/Cataclysm-DDA/pull/74665))
+* Check DPS for all weapons, make bows, bionics, and clothes worse weapons ([#74600](https://github.com/CleverRaven/Cataclysm-DDA/pull/74600))
+* [Aftershock] Add Exosuit Garages ([#74668](https://github.com/CleverRaven/Cataclysm-DDA/pull/74668))
 
 ---
 
@@ -180,7 +183,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-06-15-0219 ([be7a566](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-15-0219))
 
 * Backport #74053 Hordes don't wander to 0,0 ([#74527](https://github.com/CleverRaven/Cataclysm-DDA/pull/74527))
-* [Xedra Evolved] More paraclesian powers ([#74468](https://github.com/CleverRaven/Cataclysm-DDA/pull/74468))
 * Phosphorus from Matchboxes and Potassium Chloride From Match-heads ([#74489](https://github.com/CleverRaven/Cataclysm-DDA/pull/74489))
 * Add Diet Soda Group/Update Snow Cone Recipe ([#74513](https://github.com/CleverRaven/Cataclysm-DDA/pull/74513))
 * Add Variants/Variable Snippets for Tights ([#74512](https://github.com/CleverRaven/Cataclysm-DDA/pull/74512))
@@ -189,7 +191,6 @@
 * Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
 * Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
 * Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
-* Remove weird DUKW spawns ([#74467](https://github.com/CleverRaven/Cataclysm-DDA/pull/74467))
 * Field type migration ([#74497](https://github.com/CleverRaven/Cataclysm-DDA/pull/74497))
 * Fix Small Power Substation ([#74501](https://github.com/CleverRaven/Cataclysm-DDA/pull/74501))
 * Display distance to mission objective as a real distance ([#74502](https://github.com/CleverRaven/Cataclysm-DDA/pull/74502))
@@ -207,4 +208,3 @@
 * natural rock-> floor/roof, adjusted destruction to match ([#74485](https://github.com/CleverRaven/Cataclysm-DDA/pull/74485))
 * Fix android build ([#74486](https://github.com/CleverRaven/Cataclysm-DDA/pull/74486))
 * Allow mod exclusions in get_all_mods.py ([#74476](https://github.com/CleverRaven/Cataclysm-DDA/pull/74476))
-* Add cooking_components group to snow cone recipe ([#74465](https://github.com/CleverRaven/Cataclysm-DDA/pull/74465))
