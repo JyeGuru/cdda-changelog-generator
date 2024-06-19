@@ -1,3 +1,4 @@
+* Miscellaneous Clothing Disassembly’s: 1 ([#74659](https://github.com/CleverRaven/Cataclysm-DDA/pull/74659))
 * Tone down hair growth times ([#74665](https://github.com/CleverRaven/Cataclysm-DDA/pull/74665))
 * Check DPS for all weapons, make bows, bionics, and clothes worse weapons ([#74600](https://github.com/CleverRaven/Cataclysm-DDA/pull/74600))
 * [Aftershock] Add Exosuit Garages ([#74668](https://github.com/CleverRaven/Cataclysm-DDA/pull/74668))
@@ -63,12 +64,6 @@
 #### Cataclysm-DDA experimental build 2024-06-18-0433 ([008277f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-0433))
 
 * Drop object creator builds from CI ([#74587](https://github.com/CleverRaven/Cataclysm-DDA/pull/74587))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-18-0136 ([668e0d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-0136))
-
-* [Aftershock] Add small Enforcer Station ([#74471](https://github.com/CleverRaven/Cataclysm-DDA/pull/74471))
 * Start menu: Selector for trait variants ([#74525](https://github.com/CleverRaven/Cataclysm-DDA/pull/74525))
 
 ---
