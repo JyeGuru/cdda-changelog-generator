@@ -204,7 +204,6 @@
 * [Aftershock] Convert Small and Large Power Substaions ([#74500](https://github.com/CleverRaven/Cataclysm-DDA/pull/74500))
 * Revert "Remove legacy inventory system handling" ([#74499](https://github.com/CleverRaven/Cataclysm-DDA/pull/74499))
 * Add section on 3D printers to FMS ([#74493](https://github.com/CleverRaven/Cataclysm-DDA/pull/74493))
-* Add roofs to prison guard towers ([#74482](https://github.com/CleverRaven/Cataclysm-DDA/pull/74482))
 * Added roofs on refugee center roof access shacks ([#74484](https://github.com/CleverRaven/Cataclysm-DDA/pull/74484))
 * natural rock-> floor/roof, adjusted destruction to match ([#74485](https://github.com/CleverRaven/Cataclysm-DDA/pull/74485))
 * Fix android build ([#74486](https://github.com/CleverRaven/Cataclysm-DDA/pull/74486))
