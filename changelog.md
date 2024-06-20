@@ -1,3 +1,4 @@
+* Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
 * Add white phosphorus and related recipes ([#74599](https://github.com/CleverRaven/Cataclysm-DDA/pull/74599))
 
 ---
@@ -194,7 +195,6 @@
 * Added roof to baseball field shack ([#74541](https://github.com/CleverRaven/Cataclysm-DDA/pull/74541))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
 * Backport #74053 Hordes don't wander to 0,0 ([#74527](https://github.com/CleverRaven/Cataclysm-DDA/pull/74527))
-* Phosphorus from Matchboxes and Potassium Chloride From Match-heads ([#74489](https://github.com/CleverRaven/Cataclysm-DDA/pull/74489))
 * Add Diet Soda Group/Update Snow Cone Recipe ([#74513](https://github.com/CleverRaven/Cataclysm-DDA/pull/74513))
 * Add Variants/Variable Snippets for Tights ([#74512](https://github.com/CleverRaven/Cataclysm-DDA/pull/74512))
 * Added roof to bike shop 1 roof shack ([#74517](https://github.com/CleverRaven/Cataclysm-DDA/pull/74517))

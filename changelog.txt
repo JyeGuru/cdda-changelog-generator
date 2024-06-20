@@ -1,3 +1,4 @@
+* Validate involved variables when traveling to and from Port Augustmoon (#74682)
 * Add white phosphorus and related recipes (#74599)
 
 Cataclysm-DDA experimental build 2024-06-20-1643 (c0fa700)
@@ -122,7 +123,6 @@ Cataclysm-DDA experimental build 2024-06-15-1717 (8c1a78e)
 * Added roof to baseball field shack (#74541)
 * Routine i18n updates on 15 June 2024 (#74540)
 * Backport #74053 Hordes don't wander to 0,0 (#74527)
-* Phosphorus from Matchboxes and Potassium Chloride From Match-heads (#74489)
 * Add Diet Soda Group/Update Snow Cone Recipe (#74513)
 * Add Variants/Variable Snippets for Tights (#74512)
 * Added roof to bike shop 1 roof shack (#74517)
