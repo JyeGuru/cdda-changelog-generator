@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-20-1643 ([c0fa700](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-20-1643))
+
+* Fixes Description for Xanax ([#74661](https://github.com/CleverRaven/Cataclysm-DDA/pull/74661))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-20-0230 ([c0e4c91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-20-0230))
 
 * Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
@@ -179,11 +185,6 @@
 
 * Added roof to LIXA guard shack ([#74551](https://github.com/CleverRaven/Cataclysm-DDA/pull/74551))
 * Added explicit internal roofs to Karting ([#74550](https://github.com/CleverRaven/Cataclysm-DDA/pull/74550))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-15-1417 ([2561cc2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-1417))
-
 * Add roof to junkyard shack ([#74548](https://github.com/CleverRaven/Cataclysm-DDA/pull/74548))
 * Add roofs to hotel roof access shacks ([#74546](https://github.com/CleverRaven/Cataclysm-DDA/pull/74546))
 * Add roof to homeless shelter roof access shack ([#74545](https://github.com/CleverRaven/Cataclysm-DDA/pull/74545))
@@ -210,5 +211,4 @@
 * [Aftershock] Convert Small and Large Power Substaions ([#74500](https://github.com/CleverRaven/Cataclysm-DDA/pull/74500))
 * Revert "Remove legacy inventory system handling" ([#74499](https://github.com/CleverRaven/Cataclysm-DDA/pull/74499))
 * Add section on 3D printers to FMS ([#74493](https://github.com/CleverRaven/Cataclysm-DDA/pull/74493))
-* natural rock-> floor/roof, adjusted destruction to match ([#74485](https://github.com/CleverRaven/Cataclysm-DDA/pull/74485))
 * Fix android build ([#74486](https://github.com/CleverRaven/Cataclysm-DDA/pull/74486))

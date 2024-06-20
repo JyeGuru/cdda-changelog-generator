@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-20-1643 (c0fa700)
+* Fixes Description for Xanax (#74661)
+
 Cataclysm-DDA experimental build 2024-06-20-0230 (c0e4c91)
 * Added Tacoma roofs (#74674)
 
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2024-06-15-2030 (5a68b84)
 Cataclysm-DDA experimental build 2024-06-15-1717 (8c1a78e)
 * Added roof to LIXA guard shack (#74551)
 * Added explicit internal roofs to Karting (#74550)
-
-Cataclysm-DDA experimental build 2024-06-15-1417 (2561cc2)
 * Add roof to junkyard shack (#74548)
 * Add roofs to hotel roof access shacks (#74546)
 * Add roof to homeless shelter roof access shack (#74545)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2024-06-15-1417 (2561cc2)
 * [Aftershock] Convert Small and Large Power Substaions (#74500)
 * Revert "Remove legacy inventory system handling" (#74499)
 * Add section on 3D printers to FMS (#74493)
-* natural rock-> floor/roof, adjusted destruction to match (#74485)
 * Fix android build (#74486)
