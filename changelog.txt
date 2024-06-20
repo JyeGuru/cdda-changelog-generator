@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-20-2251 (03afa63)
+*  Remove shockstorm from electric skelezombos (#74693)
+
 Cataclysm-DDA experimental build 2024-06-20-1918 (beb71d9)
 * Validate involved variables when traveling to and from Port Augustmoon (#74682)
 * Add white phosphorus and related recipes (#74599)
@@ -103,13 +106,8 @@ Cataclysm-DDA experimental build 2024-06-16-2231 (c281593)
 Cataclysm-DDA experimental build 2024-06-16-1205 (a9d18c8)
 * fix: invalid weapon category (#74568)
 
-Cataclysm-DDA experimental build 2024-06-16-0542 (ae7671a)
-* Add espadrilles (#74490)
-
 Cataclysm-DDA experimental build 2024-06-16-0312 (051fbd5)
 * clang-tidy: fix cata-unsequenced-calls (#74555)
-
-Cataclysm-DDA experimental build 2024-06-15-2030 (5a68b84)
 * Small bunch of minor fixes (#74538)
 * Not to shatter already shattered armor. (#74528)
 * [Aftershock] Add Solar Array Special (#74498)
