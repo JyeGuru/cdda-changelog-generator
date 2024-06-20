@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-20-1918 ([beb71d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-20-1918))
+
 * Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
 * Add white phosphorus and related recipes ([#74599](https://github.com/CleverRaven/Cataclysm-DDA/pull/74599))
 
@@ -180,11 +185,6 @@
 * Small bunch of minor fixes ([#74538](https://github.com/CleverRaven/Cataclysm-DDA/pull/74538))
 * Not to shatter already shattered armor. ([#74528](https://github.com/CleverRaven/Cataclysm-DDA/pull/74528))
 * [Aftershock] Add Solar Array Special ([#74498](https://github.com/CleverRaven/Cataclysm-DDA/pull/74498))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-15-1717 ([8c1a78e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-15-1717))
-
 * Added roof to LIXA guard shack ([#74551](https://github.com/CleverRaven/Cataclysm-DDA/pull/74551))
 * Added explicit internal roofs to Karting ([#74550](https://github.com/CleverRaven/Cataclysm-DDA/pull/74550))
 * Add roof to junkyard shack ([#74548](https://github.com/CleverRaven/Cataclysm-DDA/pull/74548))
