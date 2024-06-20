@@ -1,3 +1,4 @@
+* Add white phosphorus and related recipes (#74599)
 
 Cataclysm-DDA experimental build 2024-06-20-1643 (c0fa700)
 * Fixes Description for Xanax (#74661)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-06-15-1717 (8c1a78e)
 * [Aftershock] Convert Small and Large Power Substaions (#74500)
 * Revert "Remove legacy inventory system handling" (#74499)
 * Add section on 3D printers to FMS (#74493)
-* Fix android build (#74486)
