@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-20-0230 (c0e4c91)
+* Added Tacoma roofs (#74674)
+
 Cataclysm-DDA experimental build 2024-06-19-2123 (0137f00)
 * Weekly Changelog 2024-06-10 to 2024-06-17 (#74619)
 * Remove the MR73 (#74636)
@@ -135,6 +138,5 @@ Cataclysm-DDA experimental build 2024-06-15-1417 (2561cc2)
 * [Aftershock] Convert Small and Large Power Substaions (#74500)
 * Revert "Remove legacy inventory system handling" (#74499)
 * Add section on 3D printers to FMS (#74493)
-* Added roofs on refugee center roof access shacks (#74484)
 * natural rock-> floor/roof, adjusted destruction to match (#74485)
 * Fix android build (#74486)

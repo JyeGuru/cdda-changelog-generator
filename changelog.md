@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-20-0230 ([c0e4c91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-20-0230))
+
+* Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-19-2123 ([0137f00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-2123))
 
 * Weekly Changelog 2024-06-10 to 2024-06-17 ([#74619](https://github.com/CleverRaven/Cataclysm-DDA/pull/74619))
@@ -204,6 +210,5 @@
 * [Aftershock] Convert Small and Large Power Substaions ([#74500](https://github.com/CleverRaven/Cataclysm-DDA/pull/74500))
 * Revert "Remove legacy inventory system handling" ([#74499](https://github.com/CleverRaven/Cataclysm-DDA/pull/74499))
 * Add section on 3D printers to FMS ([#74493](https://github.com/CleverRaven/Cataclysm-DDA/pull/74493))
-* Added roofs on refugee center roof access shacks ([#74484](https://github.com/CleverRaven/Cataclysm-DDA/pull/74484))
 * natural rock-> floor/roof, adjusted destruction to match ([#74485](https://github.com/CleverRaven/Cataclysm-DDA/pull/74485))
 * Fix android build ([#74486](https://github.com/CleverRaven/Cataclysm-DDA/pull/74486))
