@@ -1,3 +1,4 @@
+* Aftershock: Miscelaneous maintenance. ([#74648](https://github.com/CleverRaven/Cataclysm-DDA/pull/74648))
 * Add math effect to return effect duration ([#74670](https://github.com/CleverRaven/Cataclysm-DDA/pull/74670))
 * Pebble recovery chance ([#74679](https://github.com/CleverRaven/Cataclysm-DDA/pull/74679))
 
@@ -206,4 +207,3 @@
 * Added roof to roof access shack on apartment_mod_new ([#74507](https://github.com/CleverRaven/Cataclysm-DDA/pull/74507))
 * fix paste error in FAQ ([#74510](https://github.com/CleverRaven/Cataclysm-DDA/pull/74510))
 * [Aftershock] Convert Small and Large Power Substaions ([#74500](https://github.com/CleverRaven/Cataclysm-DDA/pull/74500))
-* Revert "Remove legacy inventory system handling" ([#74499](https://github.com/CleverRaven/Cataclysm-DDA/pull/74499))

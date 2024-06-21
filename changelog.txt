@@ -1,3 +1,4 @@
+* Aftershock: Miscelaneous maintenance. (#74648)
 * Add math effect to return effect duration (#74670)
 * Pebble recovery chance (#74679)
 
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2024-06-16-1205 (a9d18c8)
 * Added roof to roof access shack on apartment_mod_new (#74507)
 * fix paste error in FAQ (#74510)
 * [Aftershock] Convert Small and Large Power Substaions (#74500)
-* Revert "Remove legacy inventory system handling" (#74499)
