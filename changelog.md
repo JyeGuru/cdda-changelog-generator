@@ -1,3 +1,10 @@
+* Add math effect to return effect duration ([#74670](https://github.com/CleverRaven/Cataclysm-DDA/pull/74670))
+* Pebble recovery chance ([#74679](https://github.com/CleverRaven/Cataclysm-DDA/pull/74679))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-21-0513 ([4c16172](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-21-0513))
+
 * Roofs + floors on FEMA camp ([#74690](https://github.com/CleverRaven/Cataclysm-DDA/pull/74690))
 
 ---
@@ -172,15 +179,9 @@
 #### Cataclysm-DDA experimental build 2024-06-16-1205 ([a9d18c8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-16-1205))
 
 * fix: invalid weapon category ([#74568](https://github.com/CleverRaven/Cataclysm-DDA/pull/74568))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-16-0312 ([051fbd5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-16-0312))
-
 * clang-tidy: fix cata-unsequenced-calls ([#74555](https://github.com/CleverRaven/Cataclysm-DDA/pull/74555))
 * Small bunch of minor fixes ([#74538](https://github.com/CleverRaven/Cataclysm-DDA/pull/74538))
 * Not to shatter already shattered armor. ([#74528](https://github.com/CleverRaven/Cataclysm-DDA/pull/74528))
-* [Aftershock] Add Solar Array Special ([#74498](https://github.com/CleverRaven/Cataclysm-DDA/pull/74498))
 * Added roof to LIXA guard shack ([#74551](https://github.com/CleverRaven/Cataclysm-DDA/pull/74551))
 * Added explicit internal roofs to Karting ([#74550](https://github.com/CleverRaven/Cataclysm-DDA/pull/74550))
 * Add roof to junkyard shack ([#74548](https://github.com/CleverRaven/Cataclysm-DDA/pull/74548))
@@ -198,7 +199,6 @@
 * Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
 * Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
 * Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
-* Field type migration ([#74497](https://github.com/CleverRaven/Cataclysm-DDA/pull/74497))
 * Fix Small Power Substation ([#74501](https://github.com/CleverRaven/Cataclysm-DDA/pull/74501))
 * Display distance to mission objective as a real distance ([#74502](https://github.com/CleverRaven/Cataclysm-DDA/pull/74502))
 * Added roofs to Hub01 shack + merchants ([#74505](https://github.com/CleverRaven/Cataclysm-DDA/pull/74505))
