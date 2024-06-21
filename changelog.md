@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-21-0734 ([7a8edad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-21-0734))
+
 * Aftershock: Miscelaneous maintenance. ([#74648](https://github.com/CleverRaven/Cataclysm-DDA/pull/74648))
 * Add math effect to return effect duration ([#74670](https://github.com/CleverRaven/Cataclysm-DDA/pull/74670))
 * Pebble recovery chance ([#74679](https://github.com/CleverRaven/Cataclysm-DDA/pull/74679))
