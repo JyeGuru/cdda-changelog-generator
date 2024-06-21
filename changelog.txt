@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-21-0140 (d1fe2af)
+* Fixed monster rain + rotation havoc (#74687)
+
 Cataclysm-DDA experimental build 2024-06-20-2251 (03afa63)
 *  Remove shockstorm from electric skelezombos (#74693)
 
@@ -45,9 +48,6 @@ Cataclysm-DDA experimental build 2024-06-18-1525 (2efe44b)
 
 Cataclysm-DDA experimental build 2024-06-18-1237 (08a9ab4)
 * Moving quadrupedally through acid or fire damages both your hands and feet (#74639)
-
-Cataclysm-DDA 0.H release candidate 2024-06-18-0513 (aab1180)
-* Revert cramped vehicle changes for 0.H (#74492)
 * Snippets tweak (#74549)
 * Add the Chiappa Rhino (#74561)
 * Remove FS2000, Colt Lightning  (#74610)

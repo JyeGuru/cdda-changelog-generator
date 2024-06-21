@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-21-0140 ([d1fe2af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-21-0140))
+
+* Fixed monster rain + rotation havoc ([#74687](https://github.com/CleverRaven/Cataclysm-DDA/pull/74687))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-20-2251 ([03afa63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-20-2251))
 
 *  Remove shockstorm from electric skelezombos ([#74693](https://github.com/CleverRaven/Cataclysm-DDA/pull/74693))
@@ -84,12 +90,6 @@
 #### Cataclysm-DDA experimental build 2024-06-18-1237 ([08a9ab4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-1237))
 
 * Moving quadrupedally through acid or fire damages both your hands and feet ([#74639](https://github.com/CleverRaven/Cataclysm-DDA/pull/74639))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-06-18-0513 ([aab1180](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-18-0513))
-
-* Revert cramped vehicle changes for 0.H ([#74492](https://github.com/CleverRaven/Cataclysm-DDA/pull/74492))
 * Snippets tweak ([#74549](https://github.com/CleverRaven/Cataclysm-DDA/pull/74549))
 * Add the Chiappa Rhino ([#74561](https://github.com/CleverRaven/Cataclysm-DDA/pull/74561))
 * Remove FS2000, Colt Lightning  ([#74610](https://github.com/CleverRaven/Cataclysm-DDA/pull/74610))
