@@ -1,3 +1,4 @@
+* Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))
 
 ---
 
@@ -210,5 +211,4 @@
 * Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
 * Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
 * Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
-* Added roof to roof access shack on apartment_mod_new ([#74507](https://github.com/CleverRaven/Cataclysm-DDA/pull/74507))
 * fix paste error in FAQ ([#74510](https://github.com/CleverRaven/Cataclysm-DDA/pull/74510))
