@@ -1,3 +1,4 @@
+* Add flag for immunity to skin irritants ([#74680](https://github.com/CleverRaven/Cataclysm-DDA/pull/74680))
 
 ---
 
@@ -206,7 +207,6 @@
 * Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
 * Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
 * Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
-* Fix Small Power Substation ([#74501](https://github.com/CleverRaven/Cataclysm-DDA/pull/74501))
 * Display distance to mission objective as a real distance ([#74502](https://github.com/CleverRaven/Cataclysm-DDA/pull/74502))
 * Added roofs to Hub01 shack + merchants ([#74505](https://github.com/CleverRaven/Cataclysm-DDA/pull/74505))
 * Added roofs to abandoned01 ([#74506](https://github.com/CleverRaven/Cataclysm-DDA/pull/74506))

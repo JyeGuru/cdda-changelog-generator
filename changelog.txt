@@ -1,3 +1,4 @@
+* Add flag for immunity to skin irritants (#74680)
 
 Cataclysm-DDA experimental build 2024-06-21-1513 (8a43e0c)
 * Doggo JSON cleanup (#74645)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2024-06-16-2231 (c281593)
 * Added roof to incomplete campsite building (#74520)
 * Add roof to sewer tent (#74522)
 * Add roofs to tree farm shacks (#74523)
-* Fix Small Power Substation (#74501)
 * Display distance to mission objective as a real distance (#74502)
 * Added roofs to Hub01 shack + merchants (#74505)
 * Added roofs to abandoned01 (#74506)
