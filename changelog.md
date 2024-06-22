@@ -1,3 +1,11 @@
+* Fix Overmap Terrain Entry EOC ([#74711](https://github.com/CleverRaven/Cataclysm-DDA/pull/74711))
+* Added roofs to FEMA 2 buildings ([#74718](https://github.com/CleverRaven/Cataclysm-DDA/pull/74718))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-22-2343 ([09cce88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-2343))
+
+* Rescale recovery chance to match previous probabilities ([#74667](https://github.com/CleverRaven/Cataclysm-DDA/pull/74667))
 
 ---
 
@@ -176,11 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-06-17-1448 ([3e678ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-17-1448))
 
 * Add roof on hospital wall extensions ([#74633](https://github.com/CleverRaven/Cataclysm-DDA/pull/74633))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-17-0438 ([def4459](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-17-0438))
-
 * FMS Copyediting ([#74580](https://github.com/CleverRaven/Cataclysm-DDA/pull/74580))
 * Adjusted changing room roofs ([#74592](https://github.com/CleverRaven/Cataclysm-DDA/pull/74592))
 * Add roofs on roof buildings, add glass roof on entrance ([#74588](https://github.com/CleverRaven/Cataclysm-DDA/pull/74588))
@@ -205,11 +208,8 @@
 * Added roof to baseball field shack ([#74541](https://github.com/CleverRaven/Cataclysm-DDA/pull/74541))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
 * Backport #74053 Hordes don't wander to 0,0 ([#74527](https://github.com/CleverRaven/Cataclysm-DDA/pull/74527))
-* Add Diet Soda Group/Update Snow Cone Recipe ([#74513](https://github.com/CleverRaven/Cataclysm-DDA/pull/74513))
-* Add Variants/Variable Snippets for Tights ([#74512](https://github.com/CleverRaven/Cataclysm-DDA/pull/74512))
 * Added roof to bike shop 1 roof shack ([#74517](https://github.com/CleverRaven/Cataclysm-DDA/pull/74517))
 * no natural rock floor + roof on Lapin shed ([#74519](https://github.com/CleverRaven/Cataclysm-DDA/pull/74519))
 * Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
 * Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
 * Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
-* fix paste error in FAQ ([#74510](https://github.com/CleverRaven/Cataclysm-DDA/pull/74510))
