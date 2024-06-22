@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-22-1915 (b7a356d)
 * Remove AF-2011A1 (#74713)
 * Remove Reloaded Ammo Failure (#74707)
 
@@ -81,8 +83,6 @@ Cataclysm-DDA experimental build 2024-06-18-1237 (08a9ab4)
 Cataclysm-DDA experimental build 2024-06-18-0433 (008277f)
 * Drop object creator builds from CI (#74587)
 * Start menu: Selector for trait variants (#74525)
-
-Cataclysm-DDA 0.H release candidate 2024-06-17-1934 (8c4e268)
 * 0.H fake parts fixes (#74616)
 * Break fake parts when main part breaks (#74615)
 * Added roof to speedway speaker roof access shack (#74629)

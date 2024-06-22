@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-22-1915 ([b7a356d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-1915))
+
 * Remove AF-2011A1 ([#74713](https://github.com/CleverRaven/Cataclysm-DDA/pull/74713))
 * Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))
 
@@ -144,11 +149,6 @@
 
 * Drop object creator builds from CI ([#74587](https://github.com/CleverRaven/Cataclysm-DDA/pull/74587))
 * Start menu: Selector for trait variants ([#74525](https://github.com/CleverRaven/Cataclysm-DDA/pull/74525))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-06-17-1934 ([8c4e268](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-17-1934))
-
 * 0.H fake parts fixes ([#74616](https://github.com/CleverRaven/Cataclysm-DDA/pull/74616))
 * Break fake parts when main part breaks ([#74615](https://github.com/CleverRaven/Cataclysm-DDA/pull/74615))
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
