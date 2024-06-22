@@ -1,3 +1,10 @@
+* Faction camp takeovers ([#74604](https://github.com/CleverRaven/Cataclysm-DDA/pull/74604))
+* Shotguns once again ([#74642](https://github.com/CleverRaven/Cataclysm-DDA/pull/74642))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-22-0424 ([c144e61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-0424))
+
 * Add flag for immunity to skin irritants ([#74680](https://github.com/CleverRaven/Cataclysm-DDA/pull/74680))
 
 ---
@@ -180,11 +187,6 @@
 * Remove nonsensical laundry basket crafting recipe ([#74586](https://github.com/CleverRaven/Cataclysm-DDA/pull/74586))
 * Added roofs on doctor's offices access shacks ([#74584](https://github.com/CleverRaven/Cataclysm-DDA/pull/74584))
 * Added roof to movie theater roof shack ([#74583](https://github.com/CleverRaven/Cataclysm-DDA/pull/74583))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-16-2231 ([c281593](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-16-2231))
-
 * Added roof to state park shack ([#74591](https://github.com/CleverRaven/Cataclysm-DDA/pull/74591))
 * fix: invalid weapon category ([#74568](https://github.com/CleverRaven/Cataclysm-DDA/pull/74568))
 * clang-tidy: fix cata-unsequenced-calls ([#74555](https://github.com/CleverRaven/Cataclysm-DDA/pull/74555))
@@ -207,8 +209,6 @@
 * Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
 * Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
 * Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
-* Display distance to mission objective as a real distance ([#74502](https://github.com/CleverRaven/Cataclysm-DDA/pull/74502))
-* Added roofs to Hub01 shack + merchants ([#74505](https://github.com/CleverRaven/Cataclysm-DDA/pull/74505))
 * Added roofs to abandoned01 ([#74506](https://github.com/CleverRaven/Cataclysm-DDA/pull/74506))
 * Added roof to roof access shack on apartment_mod_new ([#74507](https://github.com/CleverRaven/Cataclysm-DDA/pull/74507))
 * fix paste error in FAQ ([#74510](https://github.com/CleverRaven/Cataclysm-DDA/pull/74510))
