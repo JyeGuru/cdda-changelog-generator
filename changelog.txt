@@ -1,3 +1,4 @@
+* Remove AF-2011A1 (#74713)
 * Remove Reloaded Ammo Failure (#74707)
 
 Cataclysm-DDA experimental build 2024-06-22-1628 (a88ea32)

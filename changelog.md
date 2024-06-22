@@ -1,3 +1,4 @@
+* Remove AF-2011A1 ([#74713](https://github.com/CleverRaven/Cataclysm-DDA/pull/74713))
 * Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))
 
 ---
