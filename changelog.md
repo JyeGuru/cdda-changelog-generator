@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-22-1628 ([a88ea32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-1628))
+
+* [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-22-0643 ([64852a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-0643))
 
 * Faction camp takeovers ([#74604](https://github.com/CleverRaven/Cataclysm-DDA/pull/74604))
@@ -151,11 +157,6 @@
 * Add some examples for rule #1 in gun naming ([#74577](https://github.com/CleverRaven/Cataclysm-DDA/pull/74577))
 * Added roof to roof access shack ([#74593](https://github.com/CleverRaven/Cataclysm-DDA/pull/74593))
 * Backport 71463 "Removed extra conversion to local coordinates" ([#74609](https://github.com/CleverRaven/Cataclysm-DDA/pull/74609))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-06-17-1554 ([ec7c0e1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-17-1554))
-
 * Backport 74617 "Only get valid rotations for SDL overmaps" ([#74618](https://github.com/CleverRaven/Cataclysm-DDA/pull/74618))
 * Only get valid rotations for SDL overmaps ([#74617](https://github.com/CleverRaven/Cataclysm-DDA/pull/74617))
 * No more random STALKER bunker ([#74620](https://github.com/CleverRaven/Cataclysm-DDA/pull/74620))
@@ -209,6 +210,5 @@
 * Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
 * Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
 * Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
-* Added roofs to abandoned01 ([#74506](https://github.com/CleverRaven/Cataclysm-DDA/pull/74506))
 * Added roof to roof access shack on apartment_mod_new ([#74507](https://github.com/CleverRaven/Cataclysm-DDA/pull/74507))
 * fix paste error in FAQ ([#74510](https://github.com/CleverRaven/Cataclysm-DDA/pull/74510))
