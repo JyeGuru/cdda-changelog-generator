@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-22-0643 ([64852a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-0643))
+
 * Faction camp takeovers ([#74604](https://github.com/CleverRaven/Cataclysm-DDA/pull/74604))
 * Shotguns once again ([#74642](https://github.com/CleverRaven/Cataclysm-DDA/pull/74642))
 
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-06-17-0438 ([def4459](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-17-0438))
 
 * FMS Copyediting ([#74580](https://github.com/CleverRaven/Cataclysm-DDA/pull/74580))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-17-0139 ([375c712](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-17-0139))
-
 * Adjusted changing room roofs ([#74592](https://github.com/CleverRaven/Cataclysm-DDA/pull/74592))
 * Add roofs on roof buildings, add glass roof on entrance ([#74588](https://github.com/CleverRaven/Cataclysm-DDA/pull/74588))
 * Adjusted roof to match walls ([#74589](https://github.com/CleverRaven/Cataclysm-DDA/pull/74589))
