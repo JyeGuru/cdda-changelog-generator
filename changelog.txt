@@ -1,3 +1,4 @@
+* Block monster and map extra from being generated repeatedly (#74703)
 
 Cataclysm-DDA experimental build 2024-06-23-0206 (04e4908)
 * Fix Overmap Terrain Entry EOC (#74711)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2024-06-18-0433 (008277f)
 * Added roof to baseball field shack (#74541)
 * Routine i18n updates on 15 June 2024 (#74540)
 * Backport #74053 Hordes don't wander to 0,0 (#74527)
-* no natural rock floor + roof on Lapin shed (#74519)
 * Added roof to incomplete campsite building (#74520)
 * Add roof to sewer tent (#74522)
 * Add roofs to tree farm shacks (#74523)
