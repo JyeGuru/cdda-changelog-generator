@@ -1,3 +1,6 @@
+* Fix bug in gun variant validator script ([#74727](https://github.com/CleverRaven/Cataclysm-DDA/pull/74727))
+* Adds the Rossi Gallery ([#74724](https://github.com/CleverRaven/Cataclysm-DDA/pull/74724))
+* Colt Python ([#74576](https://github.com/CleverRaven/Cataclysm-DDA/pull/74576))
 
 ---
 
@@ -173,7 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-06-18-0433 ([008277f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-0433))
 
 * Drop object creator builds from CI ([#74587](https://github.com/CleverRaven/Cataclysm-DDA/pull/74587))
-* Start menu: Selector for trait variants ([#74525](https://github.com/CleverRaven/Cataclysm-DDA/pull/74525))
 * 0.H fake parts fixes ([#74616](https://github.com/CleverRaven/Cataclysm-DDA/pull/74616))
 * Break fake parts when main part breaks ([#74615](https://github.com/CleverRaven/Cataclysm-DDA/pull/74615))
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
@@ -220,5 +222,3 @@
 * Added roof to baseball field shack ([#74541](https://github.com/CleverRaven/Cataclysm-DDA/pull/74541))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
 * Backport #74053 Hordes don't wander to 0,0 ([#74527](https://github.com/CleverRaven/Cataclysm-DDA/pull/74527))
-* Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
-* Add roofs to tree farm shacks ([#74523](https://github.com/CleverRaven/Cataclysm-DDA/pull/74523))
