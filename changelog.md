@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-23-2258 ([a37660f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-2258))
+
+* Balancing recipe imbalances due to red phosphorus weight changes ([#74722](https://github.com/CleverRaven/Cataclysm-DDA/pull/74722))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-23-1828 ([68ea0cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-1828))
 
 * Fixing raw copper wire weight consistency with copper ([#74702](https://github.com/CleverRaven/Cataclysm-DDA/pull/74702))
@@ -183,7 +189,6 @@
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
 * Update map_extras.json with "CLASSIC" tags ([#74603](https://github.com/CleverRaven/Cataclysm-DDA/pull/74603))
-* Fix identifier check for more guns ([#74530](https://github.com/CleverRaven/Cataclysm-DDA/pull/74530))
 * Use std::string_view in mod_tracker ([#74565](https://github.com/CleverRaven/Cataclysm-DDA/pull/74565))
 * Add some examples for rule #1 in gun naming ([#74577](https://github.com/CleverRaven/Cataclysm-DDA/pull/74577))
 * Added roof to roof access shack ([#74593](https://github.com/CleverRaven/Cataclysm-DDA/pull/74593))

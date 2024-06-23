@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-23-2258 (a37660f)
+* Balancing recipe imbalances due to red phosphorus weight changes (#74722)
+
 Cataclysm-DDA experimental build 2024-06-23-1828 (68ea0cc)
 * Fixing raw copper wire weight consistency with copper (#74702)
 * Rice material unification + MRE pluralization normalization (#74706)
@@ -105,7 +108,6 @@ Cataclysm-DDA experimental build 2024-06-18-1237 (08a9ab4)
 * Added roof to speedway speaker roof access shack (#74629)
 * Add explicit roof to biker dump original shack (#74634)
 * Update map_extras.json with "CLASSIC" tags (#74603)
-* Fix identifier check for more guns (#74530)
 * Use std::string_view in mod_tracker (#74565)
 * Add some examples for rule #1 in gun naming (#74577)
 * Added roof to roof access shack (#74593)
