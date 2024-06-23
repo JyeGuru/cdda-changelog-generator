@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-23-0432 (9d91f03)
 * Block monster and map extra from being generated repeatedly (#74703)
 
 Cataclysm-DDA experimental build 2024-06-23-0206 (04e4908)

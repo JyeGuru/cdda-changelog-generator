@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-23-0432 ([9d91f03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-0432))
+
 * Block monster and map extra from being generated repeatedly ([#74703](https://github.com/CleverRaven/Cataclysm-DDA/pull/74703))
 
 ---
