@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-23-1559 (34a1905)
 * Routine i18n updates on 22 June 2024 (#74712)
 
 Cataclysm-DDA experimental build 2024-06-23-1253 (9087f7e)
