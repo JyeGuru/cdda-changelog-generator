@@ -1,3 +1,10 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-23-1828 ([68ea0cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-1828))
+
+* Fixing raw copper wire weight consistency with copper ([#74702](https://github.com/CleverRaven/Cataclysm-DDA/pull/74702))
+* Rice material unification + MRE pluralization normalization ([#74706](https://github.com/CleverRaven/Cataclysm-DDA/pull/74706))
 * Fix bug in gun variant validator script ([#74727](https://github.com/CleverRaven/Cataclysm-DDA/pull/74727))
 * Adds the Rossi Gallery ([#74724](https://github.com/CleverRaven/Cataclysm-DDA/pull/74724))
 * Colt Python ([#74576](https://github.com/CleverRaven/Cataclysm-DDA/pull/74576))
@@ -170,11 +177,6 @@
 * Add Mossberg 590M ([#74613](https://github.com/CleverRaven/Cataclysm-DDA/pull/74613))
 * adding tiny bottles and modifying nicotine liquid bottles ([#74614](https://github.com/CleverRaven/Cataclysm-DDA/pull/74614))
 * Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-18-0433 ([008277f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-0433))
-
 * Drop object creator builds from CI ([#74587](https://github.com/CleverRaven/Cataclysm-DDA/pull/74587))
 * 0.H fake parts fixes ([#74616](https://github.com/CleverRaven/Cataclysm-DDA/pull/74616))
 * Break fake parts when main part breaks ([#74615](https://github.com/CleverRaven/Cataclysm-DDA/pull/74615))
@@ -211,7 +213,6 @@
 * fix: invalid weapon category ([#74568](https://github.com/CleverRaven/Cataclysm-DDA/pull/74568))
 * clang-tidy: fix cata-unsequenced-calls ([#74555](https://github.com/CleverRaven/Cataclysm-DDA/pull/74555))
 * Small bunch of minor fixes ([#74538](https://github.com/CleverRaven/Cataclysm-DDA/pull/74538))
-* Not to shatter already shattered armor. ([#74528](https://github.com/CleverRaven/Cataclysm-DDA/pull/74528))
 * Added roof to LIXA guard shack ([#74551](https://github.com/CleverRaven/Cataclysm-DDA/pull/74551))
 * Added explicit internal roofs to Karting ([#74550](https://github.com/CleverRaven/Cataclysm-DDA/pull/74550))
 * Add roof to junkyard shack ([#74548](https://github.com/CleverRaven/Cataclysm-DDA/pull/74548))
@@ -221,4 +222,3 @@
 * Added explicit roofs to hazardous waste sarcophagus ([#74542](https://github.com/CleverRaven/Cataclysm-DDA/pull/74542))
 * Added roof to baseball field shack ([#74541](https://github.com/CleverRaven/Cataclysm-DDA/pull/74541))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
-* Backport #74053 Hordes don't wander to 0,0 ([#74527](https://github.com/CleverRaven/Cataclysm-DDA/pull/74527))
