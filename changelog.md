@@ -1,3 +1,4 @@
+* Routine i18n updates on 22 June 2024 ([#74712](https://github.com/CleverRaven/Cataclysm-DDA/pull/74712))
 
 ---
 
@@ -149,12 +150,6 @@
 * Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
 * [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
 * Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-18-1525 ([2efe44b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-1525))
-
-* Remove the shooting lightning ability from monsters ([#74521](https://github.com/CleverRaven/Cataclysm-DDA/pull/74521))
 
 ---
 
