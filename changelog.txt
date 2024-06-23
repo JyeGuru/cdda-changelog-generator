@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-23-0206 (04e4908)
 * Fix Overmap Terrain Entry EOC (#74711)
 * Added roofs to FEMA 2 buildings (#74718)
 
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2024-06-18-0433 (008277f)
 * Added roof to town hall roof access shack (#74630)
 * Add roof to toxic waste dump shack (#74631)
 * Add roof to tutorial building (#74632)
-
-Cataclysm-DDA experimental build 2024-06-17-1448 (3e678ba)
 * Add roof on hospital wall extensions (#74633)
 * FMS Copyediting (#74580)
 * Adjusted changing room roofs (#74592)
@@ -136,7 +136,6 @@ Cataclysm-DDA experimental build 2024-06-17-1448 (3e678ba)
 * Added roof to baseball field shack (#74541)
 * Routine i18n updates on 15 June 2024 (#74540)
 * Backport #74053 Hordes don't wander to 0,0 (#74527)
-* Added roof to bike shop 1 roof shack (#74517)
 * no natural rock floor + roof on Lapin shed (#74519)
 * Added roof to incomplete campsite building (#74520)
 * Add roof to sewer tent (#74522)

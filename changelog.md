@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-23-0206 ([04e4908](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-0206))
+
 * Fix Overmap Terrain Entry EOC ([#74711](https://github.com/CleverRaven/Cataclysm-DDA/pull/74711))
 * Added roofs to FEMA 2 buildings ([#74718](https://github.com/CleverRaven/Cataclysm-DDA/pull/74718))
 
@@ -178,11 +183,6 @@
 * Added roof to town hall roof access shack ([#74630](https://github.com/CleverRaven/Cataclysm-DDA/pull/74630))
 * Add roof to toxic waste dump shack ([#74631](https://github.com/CleverRaven/Cataclysm-DDA/pull/74631))
 * Add roof to tutorial building ([#74632](https://github.com/CleverRaven/Cataclysm-DDA/pull/74632))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-17-1448 ([3e678ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-17-1448))
-
 * Add roof on hospital wall extensions ([#74633](https://github.com/CleverRaven/Cataclysm-DDA/pull/74633))
 * FMS Copyediting ([#74580](https://github.com/CleverRaven/Cataclysm-DDA/pull/74580))
 * Adjusted changing room roofs ([#74592](https://github.com/CleverRaven/Cataclysm-DDA/pull/74592))
@@ -208,7 +208,6 @@
 * Added roof to baseball field shack ([#74541](https://github.com/CleverRaven/Cataclysm-DDA/pull/74541))
 * Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
 * Backport #74053 Hordes don't wander to 0,0 ([#74527](https://github.com/CleverRaven/Cataclysm-DDA/pull/74527))
-* Added roof to bike shop 1 roof shack ([#74517](https://github.com/CleverRaven/Cataclysm-DDA/pull/74517))
 * no natural rock floor + roof on Lapin shed ([#74519](https://github.com/CleverRaven/Cataclysm-DDA/pull/74519))
 * Added roof to incomplete campsite building ([#74520](https://github.com/CleverRaven/Cataclysm-DDA/pull/74520))
 * Add roof to sewer tent ([#74522](https://github.com/CleverRaven/Cataclysm-DDA/pull/74522))
