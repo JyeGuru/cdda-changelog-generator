@@ -1,3 +1,4 @@
+* Added roof to two shacks ([#74758](https://github.com/CleverRaven/Cataclysm-DDA/pull/74758))
 
 ---
 
@@ -236,4 +237,3 @@
 * Added roof to state park shack ([#74591](https://github.com/CleverRaven/Cataclysm-DDA/pull/74591))
 * fix: invalid weapon category ([#74568](https://github.com/CleverRaven/Cataclysm-DDA/pull/74568))
 * clang-tidy: fix cata-unsequenced-calls ([#74555](https://github.com/CleverRaven/Cataclysm-DDA/pull/74555))
-* Added roof to LIXA guard shack ([#74551](https://github.com/CleverRaven/Cataclysm-DDA/pull/74551))
