@@ -1,3 +1,4 @@
+* Added roofs to garden greenhouses and shed ([#74751](https://github.com/CleverRaven/Cataclysm-DDA/pull/74751))
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde ([#74745](https://github.com/CleverRaven/Cataclysm-DDA/pull/74745))
 * Added roofs to tents and desolate barns ([#74737](https://github.com/CleverRaven/Cataclysm-DDA/pull/74737))
 
@@ -195,7 +196,6 @@
 * [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
 * Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
 * Moving quadrupedally through acid or fire damages both your hands and feet ([#74639](https://github.com/CleverRaven/Cataclysm-DDA/pull/74639))
-* Snippets tweak ([#74549](https://github.com/CleverRaven/Cataclysm-DDA/pull/74549))
 * Add the Chiappa Rhino ([#74561](https://github.com/CleverRaven/Cataclysm-DDA/pull/74561))
 * Remove FS2000, Colt Lightning  ([#74610](https://github.com/CleverRaven/Cataclysm-DDA/pull/74610))
 * Add Mossberg 590M ([#74613](https://github.com/CleverRaven/Cataclysm-DDA/pull/74613))
