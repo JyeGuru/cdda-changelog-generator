@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-24-0151 (08c3e24)
+* Fixed rotation and spawning issues (#74732)
+
 Cataclysm-DDA experimental build 2024-06-23-2258 (a37660f)
 * Balancing recipe imbalances due to red phosphorus weight changes (#74722)
 
@@ -93,8 +96,6 @@ Cataclysm-DDA experimental build 2024-06-18-2254 (e87597d)
 * Provide roof for regional dump shack (#74651)
 * [Aftershock] Add Enclosed Parks (#74650)
 * Give gun show tent a roof (#74652)
-
-Cataclysm-DDA experimental build 2024-06-18-1237 (08a9ab4)
 * Moving quadrupedally through acid or fire damages both your hands and feet (#74639)
 * Snippets tweak (#74549)
 * Add the Chiappa Rhino (#74561)
@@ -136,7 +137,6 @@ Cataclysm-DDA experimental build 2024-06-18-1237 (08a9ab4)
 * Added roof to state park shack (#74591)
 * fix: invalid weapon category (#74568)
 * clang-tidy: fix cata-unsequenced-calls (#74555)
-* Small bunch of minor fixes (#74538)
 * Added roof to LIXA guard shack (#74551)
 * Added explicit internal roofs to Karting (#74550)
 * Add roof to junkyard shack (#74548)

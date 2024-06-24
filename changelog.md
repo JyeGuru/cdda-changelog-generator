@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-24-0151 ([08c3e24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-24-0151))
+
+* Fixed rotation and spawning issues ([#74732](https://github.com/CleverRaven/Cataclysm-DDA/pull/74732))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-23-2258 ([a37660f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-2258))
 
 * Balancing recipe imbalances due to red phosphorus weight changes ([#74722](https://github.com/CleverRaven/Cataclysm-DDA/pull/74722))
@@ -171,11 +177,6 @@
 * Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
 * [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
 * Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-18-1237 ([08a9ab4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-1237))
-
 * Moving quadrupedally through acid or fire damages both your hands and feet ([#74639](https://github.com/CleverRaven/Cataclysm-DDA/pull/74639))
 * Snippets tweak ([#74549](https://github.com/CleverRaven/Cataclysm-DDA/pull/74549))
 * Add the Chiappa Rhino ([#74561](https://github.com/CleverRaven/Cataclysm-DDA/pull/74561))
@@ -217,7 +218,6 @@
 * Added roof to state park shack ([#74591](https://github.com/CleverRaven/Cataclysm-DDA/pull/74591))
 * fix: invalid weapon category ([#74568](https://github.com/CleverRaven/Cataclysm-DDA/pull/74568))
 * clang-tidy: fix cata-unsequenced-calls ([#74555](https://github.com/CleverRaven/Cataclysm-DDA/pull/74555))
-* Small bunch of minor fixes ([#74538](https://github.com/CleverRaven/Cataclysm-DDA/pull/74538))
 * Added roof to LIXA guard shack ([#74551](https://github.com/CleverRaven/Cataclysm-DDA/pull/74551))
 * Added explicit internal roofs to Karting ([#74550](https://github.com/CleverRaven/Cataclysm-DDA/pull/74550))
 * Add roof to junkyard shack ([#74548](https://github.com/CleverRaven/Cataclysm-DDA/pull/74548))
