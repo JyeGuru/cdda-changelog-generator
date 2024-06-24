@@ -1,3 +1,12 @@
+* Add a teeth necklace ([#74692](https://github.com/CleverRaven/Cataclysm-DDA/pull/74692))
+* Miscellaneous Clothing Disassembly’s: 3 ([#74705](https://github.com/CleverRaven/Cataclysm-DDA/pull/74705))
+* Update components of retractable telescope ([#74728](https://github.com/CleverRaven/Cataclysm-DDA/pull/74728))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-24-0511 ([5660f1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-24-0511))
+
+* fix displayed .223 guns do not have receiver installed ([#74736](https://github.com/CleverRaven/Cataclysm-DDA/pull/74736))
 
 ---
 
@@ -223,7 +232,3 @@
 * Add roof to junkyard shack ([#74548](https://github.com/CleverRaven/Cataclysm-DDA/pull/74548))
 * Add roofs to hotel roof access shacks ([#74546](https://github.com/CleverRaven/Cataclysm-DDA/pull/74546))
 * Add roof to homeless shelter roof access shack ([#74545](https://github.com/CleverRaven/Cataclysm-DDA/pull/74545))
-* Added roof to super home imp. roof shack ([#74544](https://github.com/CleverRaven/Cataclysm-DDA/pull/74544))
-* Added explicit roofs to hazardous waste sarcophagus ([#74542](https://github.com/CleverRaven/Cataclysm-DDA/pull/74542))
-* Added roof to baseball field shack ([#74541](https://github.com/CleverRaven/Cataclysm-DDA/pull/74541))
-* Routine i18n updates on 15 June 2024 ([#74540](https://github.com/CleverRaven/Cataclysm-DDA/pull/74540))
