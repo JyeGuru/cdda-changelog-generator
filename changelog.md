@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add the BARKY flag to Arvora and Ierde ([#74745](https://github.com/CleverRaven/Cataclysm-DDA/pull/74745))
 * Added roofs to tents and desolate barns ([#74737](https://github.com/CleverRaven/Cataclysm-DDA/pull/74737))
 
 ---
@@ -236,4 +237,3 @@
 * clang-tidy: fix cata-unsequenced-calls ([#74555](https://github.com/CleverRaven/Cataclysm-DDA/pull/74555))
 * Added roof to LIXA guard shack ([#74551](https://github.com/CleverRaven/Cataclysm-DDA/pull/74551))
 * Added explicit internal roofs to Karting ([#74550](https://github.com/CleverRaven/Cataclysm-DDA/pull/74550))
-* Add roof to junkyard shack ([#74548](https://github.com/CleverRaven/Cataclysm-DDA/pull/74548))
