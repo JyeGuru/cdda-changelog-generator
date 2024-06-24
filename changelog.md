@@ -1,3 +1,10 @@
+* Added roofs to tents and desolate barns ([#74737](https://github.com/CleverRaven/Cataclysm-DDA/pull/74737))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-24-1405 ([3a3169f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-24-1405))
+
+* Added roofs to greenhouses ([#74750](https://github.com/CleverRaven/Cataclysm-DDA/pull/74750))
 
 ---
 
@@ -183,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-06-19-0151 ([ae7bebb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-0151))
 
 * Add roofs to homeless upgrade ([#74654](https://github.com/CleverRaven/Cataclysm-DDA/pull/74654))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-18-2254 ([e87597d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-18-2254))
-
 * Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
 * [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
 * Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
@@ -235,5 +237,3 @@
 * Added roof to LIXA guard shack ([#74551](https://github.com/CleverRaven/Cataclysm-DDA/pull/74551))
 * Added explicit internal roofs to Karting ([#74550](https://github.com/CleverRaven/Cataclysm-DDA/pull/74550))
 * Add roof to junkyard shack ([#74548](https://github.com/CleverRaven/Cataclysm-DDA/pull/74548))
-* Add roofs to hotel roof access shacks ([#74546](https://github.com/CleverRaven/Cataclysm-DDA/pull/74546))
-* Add roof to homeless shelter roof access shack ([#74545](https://github.com/CleverRaven/Cataclysm-DDA/pull/74545))

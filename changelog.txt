@@ -1,3 +1,7 @@
+* Added roofs to tents and desolate barns (#74737)
+
+Cataclysm-DDA experimental build 2024-06-24-1405 (3a3169f)
+* Added roofs to greenhouses (#74750)
 
 Cataclysm-DDA experimental build 2024-06-24-0752 (1b599f0)
 * Add a teeth necklace (#74692)
@@ -99,8 +103,6 @@ Cataclysm-DDA experimental build 2024-06-19-0447 (551e1b5)
 
 Cataclysm-DDA experimental build 2024-06-19-0151 (ae7bebb)
 * Add roofs to homeless upgrade (#74654)
-
-Cataclysm-DDA experimental build 2024-06-18-2254 (e87597d)
 * Provide roof for regional dump shack (#74651)
 * [Aftershock] Add Enclosed Parks (#74650)
 * Give gun show tent a roof (#74652)
@@ -148,5 +150,3 @@ Cataclysm-DDA experimental build 2024-06-18-2254 (e87597d)
 * Added roof to LIXA guard shack (#74551)
 * Added explicit internal roofs to Karting (#74550)
 * Add roof to junkyard shack (#74548)
-* Add roofs to hotel roof access shacks (#74546)
-* Add roof to homeless shelter roof access shack (#74545)
