@@ -1,3 +1,4 @@
+* [Xedra Evolved] Vampire Powers overhaul ([#74729](https://github.com/CleverRaven/Cataclysm-DDA/pull/74729))
 * Change references to "intensity" to "duration" in effect_duration math function description ([#74764](https://github.com/CleverRaven/Cataclysm-DDA/pull/74764))
 * Remove vending machines from gunshop ([#74770](https://github.com/CleverRaven/Cataclysm-DDA/pull/74770))
 
@@ -214,7 +215,6 @@
 * Add Mossberg 590M ([#74613](https://github.com/CleverRaven/Cataclysm-DDA/pull/74613))
 * adding tiny bottles and modifying nicotine liquid bottles ([#74614](https://github.com/CleverRaven/Cataclysm-DDA/pull/74614))
 * Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
-* Drop object creator builds from CI ([#74587](https://github.com/CleverRaven/Cataclysm-DDA/pull/74587))
 * 0.H fake parts fixes ([#74616](https://github.com/CleverRaven/Cataclysm-DDA/pull/74616))
 * Break fake parts when main part breaks ([#74615](https://github.com/CleverRaven/Cataclysm-DDA/pull/74615))
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
