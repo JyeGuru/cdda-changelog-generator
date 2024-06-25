@@ -1,3 +1,14 @@
+* Add Colt Anaconda ([#74719](https://github.com/CleverRaven/Cataclysm-DDA/pull/74719))
+* Provided roofs for exodii crash site + debug mx spawn support ([#74754](https://github.com/CleverRaven/Cataclysm-DDA/pull/74754))
+* Moved zombie cage roofs to only generate when the cages are ([#74752](https://github.com/CleverRaven/Cataclysm-DDA/pull/74752))
+* [MoM] Add the BARKY flag to appropriate powers ([#74757](https://github.com/CleverRaven/Cataclysm-DDA/pull/74757))
+* Phosphorus ([#74759](https://github.com/CleverRaven/Cataclysm-DDA/pull/74759))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-25-0500 ([9281795](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-0500))
+
+* Add roofs to market stalls ([#74760](https://github.com/CleverRaven/Cataclysm-DDA/pull/74760))
 
 ---
 
@@ -61,12 +72,6 @@
 #### Cataclysm-DDA experimental build 2024-06-23-1559 ([34a1905](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-1559))
 
 * Routine i18n updates on 22 June 2024 ([#74712](https://github.com/CleverRaven/Cataclysm-DDA/pull/74712))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-23-1253 ([9087f7e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-1253))
-
-* [TropiCata] Termite audit ([#74567](https://github.com/CleverRaven/Cataclysm-DDA/pull/74567))
 
 ---
 
@@ -187,18 +192,12 @@
 #### Cataclysm-DDA experimental build 2024-06-19-1355 ([db4fb60](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-1355))
 
 * [MoM] Write single variable-based EoC for power contemplation, make it more like other meditation activities ([#74647](https://github.com/CleverRaven/Cataclysm-DDA/pull/74647))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-19-0447 ([551e1b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-0447))
-
 * Handle rounding errors in EOC proficiency gain ([#74641](https://github.com/CleverRaven/Cataclysm-DDA/pull/74641))
 * Add roofs to homeless upgrade ([#74654](https://github.com/CleverRaven/Cataclysm-DDA/pull/74654))
 * Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
 * [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
 * Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
 * Moving quadrupedally through acid or fire damages both your hands and feet ([#74639](https://github.com/CleverRaven/Cataclysm-DDA/pull/74639))
-* Add the Chiappa Rhino ([#74561](https://github.com/CleverRaven/Cataclysm-DDA/pull/74561))
 * Remove FS2000, Colt Lightning  ([#74610](https://github.com/CleverRaven/Cataclysm-DDA/pull/74610))
 * Add Mossberg 590M ([#74613](https://github.com/CleverRaven/Cataclysm-DDA/pull/74613))
 * adding tiny bottles and modifying nicotine liquid bottles ([#74614](https://github.com/CleverRaven/Cataclysm-DDA/pull/74614))
@@ -209,7 +208,6 @@
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
 * Update map_extras.json with "CLASSIC" tags ([#74603](https://github.com/CleverRaven/Cataclysm-DDA/pull/74603))
-* Use std::string_view in mod_tracker ([#74565](https://github.com/CleverRaven/Cataclysm-DDA/pull/74565))
 * Add some examples for rule #1 in gun naming ([#74577](https://github.com/CleverRaven/Cataclysm-DDA/pull/74577))
 * Added roof to roof access shack ([#74593](https://github.com/CleverRaven/Cataclysm-DDA/pull/74593))
 * Backport 71463 "Removed extra conversion to local coordinates" ([#74609](https://github.com/CleverRaven/Cataclysm-DDA/pull/74609))
@@ -230,10 +228,7 @@
 * Add roofs on roof buildings, add glass roof on entrance ([#74588](https://github.com/CleverRaven/Cataclysm-DDA/pull/74588))
 * Adjusted roof to match walls ([#74589](https://github.com/CleverRaven/Cataclysm-DDA/pull/74589))
 * Adjusted small office's roof shack roof ([#74585](https://github.com/CleverRaven/Cataclysm-DDA/pull/74585))
-* Minor ocular zombie adjustments ([#74558](https://github.com/CleverRaven/Cataclysm-DDA/pull/74558))
 * Remove nonsensical laundry basket crafting recipe ([#74586](https://github.com/CleverRaven/Cataclysm-DDA/pull/74586))
 * Added roofs on doctor's offices access shacks ([#74584](https://github.com/CleverRaven/Cataclysm-DDA/pull/74584))
 * Added roof to movie theater roof shack ([#74583](https://github.com/CleverRaven/Cataclysm-DDA/pull/74583))
 * Added roof to state park shack ([#74591](https://github.com/CleverRaven/Cataclysm-DDA/pull/74591))
-* fix: invalid weapon category ([#74568](https://github.com/CleverRaven/Cataclysm-DDA/pull/74568))
-* clang-tidy: fix cata-unsequenced-calls ([#74555](https://github.com/CleverRaven/Cataclysm-DDA/pull/74555))
