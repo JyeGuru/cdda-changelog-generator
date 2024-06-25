@@ -1,3 +1,5 @@
+* Miscellaneous Clothing Disassembly’s: 2 ([#74675](https://github.com/CleverRaven/Cataclysm-DDA/pull/74675))
+* [Magiclysm] Add a Translocator Gate to the Forge of Wonders. Also add consumable Forge warp scrolls. ([#74738](https://github.com/CleverRaven/Cataclysm-DDA/pull/74738))
 * Add Colt Anaconda ([#74719](https://github.com/CleverRaven/Cataclysm-DDA/pull/74719))
 * Provided roofs for exodii crash site + debug mx spawn support ([#74754](https://github.com/CleverRaven/Cataclysm-DDA/pull/74754))
 * Moved zombie cage roofs to only generate when the cages are ([#74752](https://github.com/CleverRaven/Cataclysm-DDA/pull/74752))
@@ -65,7 +67,6 @@
 * Rice material unification + MRE pluralization normalization ([#74706](https://github.com/CleverRaven/Cataclysm-DDA/pull/74706))
 * Fix bug in gun variant validator script ([#74727](https://github.com/CleverRaven/Cataclysm-DDA/pull/74727))
 * Adds the Rossi Gallery ([#74724](https://github.com/CleverRaven/Cataclysm-DDA/pull/74724))
-* Colt Python ([#74576](https://github.com/CleverRaven/Cataclysm-DDA/pull/74576))
 
 ---
 

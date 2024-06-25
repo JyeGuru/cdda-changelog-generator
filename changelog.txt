@@ -1,3 +1,5 @@
+* Miscellaneous Clothing Disassembly’s: 2 (#74675)
+* [Magiclysm] Add a Translocator Gate to the Forge of Wonders. Also add consumable Forge warp scrolls. (#74738)
 * Add Colt Anaconda (#74719)
 * Provided roofs for exodii crash site + debug mx spawn support (#74754)
 * Moved zombie cage roofs to only generate when the cages are (#74752)
@@ -38,7 +40,6 @@ Cataclysm-DDA experimental build 2024-06-23-1828 (68ea0cc)
 * Rice material unification + MRE pluralization normalization (#74706)
 * Fix bug in gun variant validator script (#74727)
 * Adds the Rossi Gallery (#74724)
-* Colt Python (#74576)
 
 Cataclysm-DDA experimental build 2024-06-23-1559 (34a1905)
 * Routine i18n updates on 22 June 2024 (#74712)
