@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-25-1641 (50f8ab2)
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax (#74768)
 
 Cataclysm-DDA experimental build 2024-06-25-1326 (1d2c114)

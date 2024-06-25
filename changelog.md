@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-25-1641 ([50f8ab2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-1641))
+
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
 
 ---
