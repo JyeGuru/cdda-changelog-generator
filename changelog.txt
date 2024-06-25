@@ -1,3 +1,4 @@
+* Correct an oversight from #72490 (#74765)
 
 Cataclysm-DDA experimental build 2024-06-25-1641 (50f8ab2)
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax (#74768)
@@ -149,5 +150,4 @@ Cataclysm-DDA experimental build 2024-06-19-2123 (0137f00)
 * Adjusted small office's roof shack roof (#74585)
 * Remove nonsensical laundry basket crafting recipe (#74586)
 * Added roofs on doctor's offices access shacks (#74584)
-* Added roof to movie theater roof shack (#74583)
 * Added roof to state park shack (#74591)

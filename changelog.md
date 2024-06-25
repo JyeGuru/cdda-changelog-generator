@@ -1,3 +1,4 @@
+* Correct an oversight from #72490 ([#74765](https://github.com/CleverRaven/Cataclysm-DDA/pull/74765))
 
 ---
 
@@ -236,5 +237,4 @@
 * Adjusted small office's roof shack roof ([#74585](https://github.com/CleverRaven/Cataclysm-DDA/pull/74585))
 * Remove nonsensical laundry basket crafting recipe ([#74586](https://github.com/CleverRaven/Cataclysm-DDA/pull/74586))
 * Added roofs on doctor's offices access shacks ([#74584](https://github.com/CleverRaven/Cataclysm-DDA/pull/74584))
-* Added roof to movie theater roof shack ([#74583](https://github.com/CleverRaven/Cataclysm-DDA/pull/74583))
 * Added roof to state park shack ([#74591](https://github.com/CleverRaven/Cataclysm-DDA/pull/74591))
