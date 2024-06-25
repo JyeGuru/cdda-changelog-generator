@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-25-1326 ([1d2c114](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-1326))
+
+* [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-25-0755 ([f0d983a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-0755))
 
 * Miscellaneous Clothing Disassembly’s: 2 ([#74675](https://github.com/CleverRaven/Cataclysm-DDA/pull/74675))
@@ -182,11 +188,6 @@
 * Weekly Changelog 2024-06-10 to 2024-06-17 ([#74619](https://github.com/CleverRaven/Cataclysm-DDA/pull/74619))
 * Remove the MR73 ([#74636](https://github.com/CleverRaven/Cataclysm-DDA/pull/74636))
 * Make a zombie-flavored breather and cut spawns of them in meat lab ([#74663](https://github.com/CleverRaven/Cataclysm-DDA/pull/74663))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-19-1635 ([5f78795](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-1635))
-
 * Miscellaneous Clothing Disassembly’s: 1 ([#74659](https://github.com/CleverRaven/Cataclysm-DDA/pull/74659))
 * Tone down hair growth times ([#74665](https://github.com/CleverRaven/Cataclysm-DDA/pull/74665))
 * Check DPS for all weapons, make bows, bionics, and clothes worse weapons ([#74600](https://github.com/CleverRaven/Cataclysm-DDA/pull/74600))
@@ -209,7 +210,6 @@
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
 * Update map_extras.json with "CLASSIC" tags ([#74603](https://github.com/CleverRaven/Cataclysm-DDA/pull/74603))
-* Add some examples for rule #1 in gun naming ([#74577](https://github.com/CleverRaven/Cataclysm-DDA/pull/74577))
 * Added roof to roof access shack ([#74593](https://github.com/CleverRaven/Cataclysm-DDA/pull/74593))
 * Backport 71463 "Removed extra conversion to local coordinates" ([#74609](https://github.com/CleverRaven/Cataclysm-DDA/pull/74609))
 * Backport 74617 "Only get valid rotations for SDL overmaps" ([#74618](https://github.com/CleverRaven/Cataclysm-DDA/pull/74618))
