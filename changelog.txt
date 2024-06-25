@@ -1,3 +1,4 @@
+* Correct some remnants of nonfunctional ``extend``/``delete`` syntax (#74768)
 
 Cataclysm-DDA experimental build 2024-06-25-1326 (1d2c114)
 * [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession (#74767)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2024-06-19-2123 (0137f00)
 * Add roof to toxic waste dump shack (#74631)
 * Add roof to tutorial building (#74632)
 * Add roof on hospital wall extensions (#74633)
-* FMS Copyediting (#74580)
 * Adjusted changing room roofs (#74592)
 * Add roofs on roof buildings, add glass roof on entrance (#74588)
 * Adjusted roof to match walls (#74589)

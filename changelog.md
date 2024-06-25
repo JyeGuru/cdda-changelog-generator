@@ -1,3 +1,4 @@
+* Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
 
 ---
 
@@ -224,7 +225,6 @@
 * Add roof to toxic waste dump shack ([#74631](https://github.com/CleverRaven/Cataclysm-DDA/pull/74631))
 * Add roof to tutorial building ([#74632](https://github.com/CleverRaven/Cataclysm-DDA/pull/74632))
 * Add roof on hospital wall extensions ([#74633](https://github.com/CleverRaven/Cataclysm-DDA/pull/74633))
-* FMS Copyediting ([#74580](https://github.com/CleverRaven/Cataclysm-DDA/pull/74580))
 * Adjusted changing room roofs ([#74592](https://github.com/CleverRaven/Cataclysm-DDA/pull/74592))
 * Add roofs on roof buildings, add glass roof on entrance ([#74588](https://github.com/CleverRaven/Cataclysm-DDA/pull/74588))
 * Adjusted roof to match walls ([#74589](https://github.com/CleverRaven/Cataclysm-DDA/pull/74589))
