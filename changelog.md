@@ -1,3 +1,10 @@
+* Change references to "intensity" to "duration" in effect_duration math function description ([#74764](https://github.com/CleverRaven/Cataclysm-DDA/pull/74764))
+* Remove vending machines from gunshop ([#74770](https://github.com/CleverRaven/Cataclysm-DDA/pull/74770))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-25-1924 ([8d40331](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-1924))
+
 * [Bombastic Perks] Add blood-themed perks ([#74761](https://github.com/CleverRaven/Cataclysm-DDA/pull/74761))
 * Correct an oversight from #72490 ([#74765](https://github.com/CleverRaven/Cataclysm-DDA/pull/74765))
 
@@ -188,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-06-20-0230 ([c0e4c91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-20-0230))
 
 * Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-19-2123 ([0137f00](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-19-2123))
-
 * Weekly Changelog 2024-06-10 to 2024-06-17 ([#74619](https://github.com/CleverRaven/Cataclysm-DDA/pull/74619))
 * Remove the MR73 ([#74636](https://github.com/CleverRaven/Cataclysm-DDA/pull/74636))
 * Make a zombie-flavored breather and cut spawns of them in meat lab ([#74663](https://github.com/CleverRaven/Cataclysm-DDA/pull/74663))
@@ -235,6 +237,4 @@
 * Adjusted changing room roofs ([#74592](https://github.com/CleverRaven/Cataclysm-DDA/pull/74592))
 * Add roofs on roof buildings, add glass roof on entrance ([#74588](https://github.com/CleverRaven/Cataclysm-DDA/pull/74588))
 * Adjusted roof to match walls ([#74589](https://github.com/CleverRaven/Cataclysm-DDA/pull/74589))
-* Adjusted small office's roof shack roof ([#74585](https://github.com/CleverRaven/Cataclysm-DDA/pull/74585))
-* Remove nonsensical laundry basket crafting recipe ([#74586](https://github.com/CleverRaven/Cataclysm-DDA/pull/74586))
 * Added roof to state park shack ([#74591](https://github.com/CleverRaven/Cataclysm-DDA/pull/74591))
