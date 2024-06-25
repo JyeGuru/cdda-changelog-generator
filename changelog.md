@@ -1,3 +1,4 @@
+* [Bombastic Perks] Add blood-themed perks ([#74761](https://github.com/CleverRaven/Cataclysm-DDA/pull/74761))
 * Correct an oversight from #72490 ([#74765](https://github.com/CleverRaven/Cataclysm-DDA/pull/74765))
 
 ---
@@ -236,5 +237,4 @@
 * Adjusted roof to match walls ([#74589](https://github.com/CleverRaven/Cataclysm-DDA/pull/74589))
 * Adjusted small office's roof shack roof ([#74585](https://github.com/CleverRaven/Cataclysm-DDA/pull/74585))
 * Remove nonsensical laundry basket crafting recipe ([#74586](https://github.com/CleverRaven/Cataclysm-DDA/pull/74586))
-* Added roofs on doctor's offices access shacks ([#74584](https://github.com/CleverRaven/Cataclysm-DDA/pull/74584))
 * Added roof to state park shack ([#74591](https://github.com/CleverRaven/Cataclysm-DDA/pull/74591))
