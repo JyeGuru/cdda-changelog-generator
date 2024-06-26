@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-26-0308 ([303c00f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-26-0308))
+
 * Travel to: fix travel to on ramps ([#74762](https://github.com/CleverRaven/Cataclysm-DDA/pull/74762))
 * Adding Doctor and Pharmacist Professions ([#74643](https://github.com/CleverRaven/Cataclysm-DDA/pull/74643))
 * More Gun Variants, Part Iv ([#74691](https://github.com/CleverRaven/Cataclysm-DDA/pull/74691))
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-06-20-2251 ([03afa63](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-20-2251))
 
 *  Remove shockstorm from electric skelezombos ([#74693](https://github.com/CleverRaven/Cataclysm-DDA/pull/74693))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-20-1918 ([beb71d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-20-1918))
-
 * Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
 * Fixes Description for Xanax ([#74661](https://github.com/CleverRaven/Cataclysm-DDA/pull/74661))
 * Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
