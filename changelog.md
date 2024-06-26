@@ -1,3 +1,9 @@
+* Remove bloated comments from translation files ([#74789](https://github.com/CleverRaven/Cataclysm-DDA/pull/74789))
+* Added roof to river cave ([#74791](https://github.com/CleverRaven/Cataclysm-DDA/pull/74791))
+* Added roofs to nether monster surface parts ([#74792](https://github.com/CleverRaven/Cataclysm-DDA/pull/74792))
+* Add roof to small scrapyard shack ([#74793](https://github.com/CleverRaven/Cataclysm-DDA/pull/74793))
+* natural rock floor -> concrete ([#74794](https://github.com/CleverRaven/Cataclysm-DDA/pull/74794))
+* Change natural rock floor to concrete ([#74795](https://github.com/CleverRaven/Cataclysm-DDA/pull/74795))
 
 ---
 
@@ -210,15 +216,9 @@
 * [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
 * Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
 * Moving quadrupedally through acid or fire damages both your hands and feet ([#74639](https://github.com/CleverRaven/Cataclysm-DDA/pull/74639))
-* Remove FS2000, Colt Lightning  ([#74610](https://github.com/CleverRaven/Cataclysm-DDA/pull/74610))
-* Add Mossberg 590M ([#74613](https://github.com/CleverRaven/Cataclysm-DDA/pull/74613))
-* adding tiny bottles and modifying nicotine liquid bottles ([#74614](https://github.com/CleverRaven/Cataclysm-DDA/pull/74614))
 * Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
-* 0.H fake parts fixes ([#74616](https://github.com/CleverRaven/Cataclysm-DDA/pull/74616))
-* Break fake parts when main part breaks ([#74615](https://github.com/CleverRaven/Cataclysm-DDA/pull/74615))
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
-* Backport 71463 "Removed extra conversion to local coordinates" ([#74609](https://github.com/CleverRaven/Cataclysm-DDA/pull/74609))
 * Backport 74617 "Only get valid rotations for SDL overmaps" ([#74618](https://github.com/CleverRaven/Cataclysm-DDA/pull/74618))
 * Only get valid rotations for SDL overmaps ([#74617](https://github.com/CleverRaven/Cataclysm-DDA/pull/74617))
 * No more random STALKER bunker ([#74620](https://github.com/CleverRaven/Cataclysm-DDA/pull/74620))
