@@ -1,3 +1,5 @@
+* More skeletal zombie upgrades ([#74676](https://github.com/CleverRaven/Cataclysm-DDA/pull/74676))
+* PSEUDO is a flag and not an ammo_effect ([#74784](https://github.com/CleverRaven/Cataclysm-DDA/pull/74784))
 
 ---
 
@@ -151,12 +153,6 @@
 #### Cataclysm-DDA experimental build 2024-06-22-1628 ([a88ea32](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-1628))
 
 * [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-22-0643 ([64852a6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-0643))
-
-* Faction camp takeovers ([#74604](https://github.com/CleverRaven/Cataclysm-DDA/pull/74604))
 * Shotguns once again ([#74642](https://github.com/CleverRaven/Cataclysm-DDA/pull/74642))
 
 ---
@@ -221,7 +217,6 @@
 * Break fake parts when main part breaks ([#74615](https://github.com/CleverRaven/Cataclysm-DDA/pull/74615))
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
-* Update map_extras.json with "CLASSIC" tags ([#74603](https://github.com/CleverRaven/Cataclysm-DDA/pull/74603))
 * Backport 71463 "Removed extra conversion to local coordinates" ([#74609](https://github.com/CleverRaven/Cataclysm-DDA/pull/74609))
 * Backport 74617 "Only get valid rotations for SDL overmaps" ([#74618](https://github.com/CleverRaven/Cataclysm-DDA/pull/74618))
 * Only get valid rotations for SDL overmaps ([#74617](https://github.com/CleverRaven/Cataclysm-DDA/pull/74617))
