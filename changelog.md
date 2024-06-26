@@ -1,3 +1,4 @@
+* Travel to: fix travel to on ramps ([#74762](https://github.com/CleverRaven/Cataclysm-DDA/pull/74762))
 * Adding Doctor and Pharmacist Professions ([#74643](https://github.com/CleverRaven/Cataclysm-DDA/pull/74643))
 * More Gun Variants, Part Iv ([#74691](https://github.com/CleverRaven/Cataclysm-DDA/pull/74691))
 * Palette of surface+roof chunks ([#74779](https://github.com/CleverRaven/Cataclysm-DDA/pull/74779))
