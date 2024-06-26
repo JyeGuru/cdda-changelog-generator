@@ -1,3 +1,4 @@
+* Vegan profession item substitutions ([#74649](https://github.com/CleverRaven/Cataclysm-DDA/pull/74649))
 * Appease clang ([#74734](https://github.com/CleverRaven/Cataclysm-DDA/pull/74734))
 * Remove bloated comments from translation files ([#74789](https://github.com/CleverRaven/Cataclysm-DDA/pull/74789))
 * Added roof to river cave ([#74791](https://github.com/CleverRaven/Cataclysm-DDA/pull/74791))
@@ -220,7 +221,6 @@
 * Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
-* Backport 74617 "Only get valid rotations for SDL overmaps" ([#74618](https://github.com/CleverRaven/Cataclysm-DDA/pull/74618))
 * No more random STALKER bunker ([#74620](https://github.com/CleverRaven/Cataclysm-DDA/pull/74620))
 * Add roof to cave ([#74623](https://github.com/CleverRaven/Cataclysm-DDA/pull/74623))
 * Added roofs onto gun store roof access shacks ([#74625](https://github.com/CleverRaven/Cataclysm-DDA/pull/74625))
