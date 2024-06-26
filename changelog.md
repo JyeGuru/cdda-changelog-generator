@@ -1,3 +1,8 @@
+* Adding Doctor and Pharmacist Professions ([#74643](https://github.com/CleverRaven/Cataclysm-DDA/pull/74643))
+* More Gun Variants, Part Iv ([#74691](https://github.com/CleverRaven/Cataclysm-DDA/pull/74691))
+* Palette of surface+roof chunks ([#74779](https://github.com/CleverRaven/Cataclysm-DDA/pull/74779))
+* Add roof to chicken coops ([#74780](https://github.com/CleverRaven/Cataclysm-DDA/pull/74780))
+* Added explicit roofs to hunting blinds ([#74782](https://github.com/CleverRaven/Cataclysm-DDA/pull/74782))
 
 ---
 
@@ -191,7 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-06-20-1918 ([beb71d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-20-1918))
 
 * Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
-* Add white phosphorus and related recipes ([#74599](https://github.com/CleverRaven/Cataclysm-DDA/pull/74599))
 * Fixes Description for Xanax ([#74661](https://github.com/CleverRaven/Cataclysm-DDA/pull/74661))
 * Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
 * Weekly Changelog 2024-06-10 to 2024-06-17 ([#74619](https://github.com/CleverRaven/Cataclysm-DDA/pull/74619))
@@ -199,7 +203,6 @@
 * Make a zombie-flavored breather and cut spawns of them in meat lab ([#74663](https://github.com/CleverRaven/Cataclysm-DDA/pull/74663))
 * Miscellaneous Clothing Disassembly’s: 1 ([#74659](https://github.com/CleverRaven/Cataclysm-DDA/pull/74659))
 * Tone down hair growth times ([#74665](https://github.com/CleverRaven/Cataclysm-DDA/pull/74665))
-* Check DPS for all weapons, make bows, bionics, and clothes worse weapons ([#74600](https://github.com/CleverRaven/Cataclysm-DDA/pull/74600))
 * [Aftershock] Add Exosuit Garages ([#74668](https://github.com/CleverRaven/Cataclysm-DDA/pull/74668))
 * Breather fix 0.H ([#74664](https://github.com/CleverRaven/Cataclysm-DDA/pull/74664))
 * [MoM] Write single variable-based EoC for power contemplation, make it more like other meditation activities ([#74647](https://github.com/CleverRaven/Cataclysm-DDA/pull/74647))
@@ -218,7 +221,6 @@
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
 * Update map_extras.json with "CLASSIC" tags ([#74603](https://github.com/CleverRaven/Cataclysm-DDA/pull/74603))
-* Added roof to roof access shack ([#74593](https://github.com/CleverRaven/Cataclysm-DDA/pull/74593))
 * Backport 71463 "Removed extra conversion to local coordinates" ([#74609](https://github.com/CleverRaven/Cataclysm-DDA/pull/74609))
 * Backport 74617 "Only get valid rotations for SDL overmaps" ([#74618](https://github.com/CleverRaven/Cataclysm-DDA/pull/74618))
 * Only get valid rotations for SDL overmaps ([#74617](https://github.com/CleverRaven/Cataclysm-DDA/pull/74617))
@@ -232,4 +234,3 @@
 * Add roof to toxic waste dump shack ([#74631](https://github.com/CleverRaven/Cataclysm-DDA/pull/74631))
 * Add roof to tutorial building ([#74632](https://github.com/CleverRaven/Cataclysm-DDA/pull/74632))
 * Add roof on hospital wall extensions ([#74633](https://github.com/CleverRaven/Cataclysm-DDA/pull/74633))
-* Adjusted changing room roofs ([#74592](https://github.com/CleverRaven/Cataclysm-DDA/pull/74592))
