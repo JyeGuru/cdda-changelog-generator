@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-26-1304 (ad0c03d)
+* Added (explicit) roofs to community gardens (#74781)
+
 Cataclysm-DDA experimental build 2024-06-26-0530 (8121068)
 * More skeletal zombie upgrades (#74676)
 * PSEUDO is a flag and not an ammo_effect (#74784)
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2024-06-21-0734 (7a8edad)
 
 Cataclysm-DDA experimental build 2024-06-21-0513 (4c16172)
 * Roofs + floors on FEMA camp (#74690)
-
-Cataclysm-DDA experimental build 2024-06-21-0140 (d1fe2af)
 * Fixed monster rain + rotation havoc (#74687)
 *  Remove shockstorm from electric skelezombos (#74693)
 * Validate involved variables when traveling to and from Port Augustmoon (#74682)

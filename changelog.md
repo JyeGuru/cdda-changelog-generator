@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-26-1304 ([ad0c03d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-26-1304))
+
+* Added (explicit) roofs to community gardens ([#74781](https://github.com/CleverRaven/Cataclysm-DDA/pull/74781))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-26-0530 ([8121068](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-26-0530))
 
 * More skeletal zombie upgrades ([#74676](https://github.com/CleverRaven/Cataclysm-DDA/pull/74676))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-06-21-0513 ([4c16172](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-21-0513))
 
 * Roofs + floors on FEMA camp ([#74690](https://github.com/CleverRaven/Cataclysm-DDA/pull/74690))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-21-0140 ([d1fe2af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-21-0140))
-
 * Fixed monster rain + rotation havoc ([#74687](https://github.com/CleverRaven/Cataclysm-DDA/pull/74687))
 *  Remove shockstorm from electric skelezombos ([#74693](https://github.com/CleverRaven/Cataclysm-DDA/pull/74693))
 * Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
