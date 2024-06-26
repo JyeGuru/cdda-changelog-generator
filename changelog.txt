@@ -115,8 +115,6 @@ Cataclysm-DDA experimental build 2024-06-21-0734 (7a8edad)
 * Aftershock: Miscelaneous maintenance. (#74648)
 * Add math effect to return effect duration (#74670)
 * Pebble recovery chance (#74679)
-
-Cataclysm-DDA experimental build 2024-06-21-0513 (4c16172)
 * Roofs + floors on FEMA camp (#74690)
 * Fixed monster rain + rotation havoc (#74687)
 *  Remove shockstorm from electric skelezombos (#74693)
