@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-26-0044 (d56fc07)
 * Synchronized bashing to roof and ground level (#74777)
 * Added roofs to wasp + dermatik nests (#74776)
 * Try to appease clang (#74740)
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2024-06-20-2251 (03afa63)
 Cataclysm-DDA experimental build 2024-06-20-1918 (beb71d9)
 * Validate involved variables when traveling to and from Port Augustmoon (#74682)
 * Add white phosphorus and related recipes (#74599)
-
-Cataclysm-DDA experimental build 2024-06-20-1643 (c0fa700)
 * Fixes Description for Xanax (#74661)
 * Added Tacoma roofs (#74674)
 * Weekly Changelog 2024-06-10 to 2024-06-17 (#74619)
