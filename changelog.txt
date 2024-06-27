@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-27-1738 (7d0afa4)
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing (#74798)
 
 Cataclysm-DDA 0.H release candidate 2024-06-27-1418 (1c136e0)
@@ -111,8 +113,6 @@ Cataclysm-DDA experimental build 2024-06-22-1915 (b7a356d)
 Cataclysm-DDA experimental build 2024-06-22-1628 (a88ea32)
 * [Xedra Evolved] Vampires can just drink blood (#74709)
 * Shotguns once again (#74642)
-
-Cataclysm-DDA experimental build 2024-06-22-0424 (c144e61)
 * Add flag for immunity to skin irritants (#74680)
 * Doggo JSON cleanup (#74645)
 * Aftershock: Miscelaneous maintenance. (#74648)

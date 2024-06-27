@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-27-1738 ([7d0afa4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-27-1738))
+
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing ([#74798](https://github.com/CleverRaven/Cataclysm-DDA/pull/74798))
 
 ---
@@ -186,11 +191,6 @@
 
 * [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))
 * Shotguns once again ([#74642](https://github.com/CleverRaven/Cataclysm-DDA/pull/74642))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-22-0424 ([c144e61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-0424))
-
 * Add flag for immunity to skin irritants ([#74680](https://github.com/CleverRaven/Cataclysm-DDA/pull/74680))
 * Doggo JSON cleanup ([#74645](https://github.com/CleverRaven/Cataclysm-DDA/pull/74645))
 * Aftershock: Miscelaneous maintenance. ([#74648](https://github.com/CleverRaven/Cataclysm-DDA/pull/74648))
