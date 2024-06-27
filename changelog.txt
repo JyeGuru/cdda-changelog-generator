@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-27-2347 (b2c9b79)
 * Weekly Changelog 2024-06-17 to 2024-06-24 (#74744)
 * Vitamin-based allergy (#74763)
 * Typified action.h/cpp (#74796)
@@ -116,8 +118,6 @@ Cataclysm-DDA experimental build 2024-06-22-2343 (09cce88)
 Cataclysm-DDA experimental build 2024-06-22-1915 (b7a356d)
 * Remove AF-2011A1 (#74713)
 * Remove Reloaded Ammo Failure (#74707)
-
-Cataclysm-DDA experimental build 2024-06-22-1628 (a88ea32)
 * [Xedra Evolved] Vampires can just drink blood (#74709)
 * Shotguns once again (#74642)
 * Add flag for immunity to skin irritants (#74680)
