@@ -1,3 +1,7 @@
+* Offspring inherit friendly (#74805)
+
+Cataclysm-DDA experimental build 2024-06-27-2118 (0a58b84)
+* [Bugfixes] Fix concentration metamagic sign flipping (#74810)
 
 Cataclysm-DDA experimental build 2024-06-27-1738 (7d0afa4)
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing (#74798)
@@ -140,8 +144,6 @@ Cataclysm-DDA experimental build 2024-06-22-1628 (a88ea32)
 * Clean up some ant names (#74640)
 * Added roof to speedway speaker roof access shack (#74629)
 * Add explicit roof to biker dump original shack (#74634)
-* Adjusted icecream shop roof to match walls (#74626)
-* Add roof on school roof access shack (#74627)
 * Adjusted sewage treatment building roof, added roof access shack roof (#74628)
 * Added roof to town hall roof access shack (#74630)
 * Add roof to toxic waste dump shack (#74631)

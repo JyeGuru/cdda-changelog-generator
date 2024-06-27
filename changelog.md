@@ -1,3 +1,10 @@
+* Offspring inherit friendly ([#74805](https://github.com/CleverRaven/Cataclysm-DDA/pull/74805))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-27-2118 ([0a58b84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-27-2118))
+
+* [Bugfixes] Fix concentration metamagic sign flipping ([#74810](https://github.com/CleverRaven/Cataclysm-DDA/pull/74810))
 
 ---
 
@@ -218,8 +225,6 @@
 * Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
-* Adjusted icecream shop roof to match walls ([#74626](https://github.com/CleverRaven/Cataclysm-DDA/pull/74626))
-* Add roof on school roof access shack ([#74627](https://github.com/CleverRaven/Cataclysm-DDA/pull/74627))
 * Adjusted sewage treatment building roof, added roof access shack roof ([#74628](https://github.com/CleverRaven/Cataclysm-DDA/pull/74628))
 * Added roof to town hall roof access shack ([#74630](https://github.com/CleverRaven/Cataclysm-DDA/pull/74630))
 * Add roof to toxic waste dump shack ([#74631](https://github.com/CleverRaven/Cataclysm-DDA/pull/74631))
