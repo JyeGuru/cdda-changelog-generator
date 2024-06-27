@@ -218,7 +218,6 @@
 * Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
-* Added roofs onto gun store roof access shacks ([#74625](https://github.com/CleverRaven/Cataclysm-DDA/pull/74625))
 * Adjusted icecream shop roof to match walls ([#74626](https://github.com/CleverRaven/Cataclysm-DDA/pull/74626))
 * Add roof on school roof access shack ([#74627](https://github.com/CleverRaven/Cataclysm-DDA/pull/74627))
 * Adjusted sewage treatment building roof, added roof access shack roof ([#74628](https://github.com/CleverRaven/Cataclysm-DDA/pull/74628))
