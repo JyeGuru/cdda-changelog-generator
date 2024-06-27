@@ -1,3 +1,15 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-06-27-1418 ([1c136e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-27-1418))
+
+* Backport 71500 (Fix MOLLE pouches hiding stored items and showing incorrect movecosts) ([#74797](https://github.com/CleverRaven/Cataclysm-DDA/pull/74797))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-27-1417 ([17f2b41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-27-1417))
+
+* Nerf to-hit of lucern hammer ([#74802](https://github.com/CleverRaven/Cataclysm-DDA/pull/74802))
 * Vegan profession item substitutions ([#74649](https://github.com/CleverRaven/Cataclysm-DDA/pull/74649))
 * Appease clang ([#74734](https://github.com/CleverRaven/Cataclysm-DDA/pull/74734))
 * Remove bloated comments from translation files ([#74789](https://github.com/CleverRaven/Cataclysm-DDA/pull/74789))
@@ -179,17 +191,7 @@
 #### Cataclysm-DDA experimental build 2024-06-22-0424 ([c144e61](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-0424))
 
 * Add flag for immunity to skin irritants ([#74680](https://github.com/CleverRaven/Cataclysm-DDA/pull/74680))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-21-1513 ([8a43e0c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-21-1513))
-
 * Doggo JSON cleanup ([#74645](https://github.com/CleverRaven/Cataclysm-DDA/pull/74645))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-21-0734 ([7a8edad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-21-0734))
-
 * Aftershock: Miscelaneous maintenance. ([#74648](https://github.com/CleverRaven/Cataclysm-DDA/pull/74648))
 * Add math effect to return effect duration ([#74670](https://github.com/CleverRaven/Cataclysm-DDA/pull/74670))
 * Pebble recovery chance ([#74679](https://github.com/CleverRaven/Cataclysm-DDA/pull/74679))
@@ -199,7 +201,6 @@
 * Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
 * Fixes Description for Xanax ([#74661](https://github.com/CleverRaven/Cataclysm-DDA/pull/74661))
 * Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
-* Weekly Changelog 2024-06-10 to 2024-06-17 ([#74619](https://github.com/CleverRaven/Cataclysm-DDA/pull/74619))
 * Remove the MR73 ([#74636](https://github.com/CleverRaven/Cataclysm-DDA/pull/74636))
 * Make a zombie-flavored breather and cut spawns of them in meat lab ([#74663](https://github.com/CleverRaven/Cataclysm-DDA/pull/74663))
 * Miscellaneous Clothing Disassembly’s: 1 ([#74659](https://github.com/CleverRaven/Cataclysm-DDA/pull/74659))
@@ -216,7 +217,6 @@
 * Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
 * Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
-* No more random STALKER bunker ([#74620](https://github.com/CleverRaven/Cataclysm-DDA/pull/74620))
 * Add roof to cave ([#74623](https://github.com/CleverRaven/Cataclysm-DDA/pull/74623))
 * Added roofs onto gun store roof access shacks ([#74625](https://github.com/CleverRaven/Cataclysm-DDA/pull/74625))
 * Adjusted icecream shop roof to match walls ([#74626](https://github.com/CleverRaven/Cataclysm-DDA/pull/74626))
