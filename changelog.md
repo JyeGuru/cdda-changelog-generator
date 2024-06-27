@@ -1,3 +1,5 @@
+* Vitamin-based allergy ([#74763](https://github.com/CleverRaven/Cataclysm-DDA/pull/74763))
+* Typified action.h/cpp ([#74796](https://github.com/CleverRaven/Cataclysm-DDA/pull/74796))
 * Offspring inherit friendly ([#74805](https://github.com/CleverRaven/Cataclysm-DDA/pull/74805))
 
 ---
@@ -223,9 +225,7 @@
 * Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
 * Moving quadrupedally through acid or fire damages both your hands and feet ([#74639](https://github.com/CleverRaven/Cataclysm-DDA/pull/74639))
 * Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
-* Added roof to speedway speaker roof access shack ([#74629](https://github.com/CleverRaven/Cataclysm-DDA/pull/74629))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
-* Adjusted sewage treatment building roof, added roof access shack roof ([#74628](https://github.com/CleverRaven/Cataclysm-DDA/pull/74628))
 * Added roof to town hall roof access shack ([#74630](https://github.com/CleverRaven/Cataclysm-DDA/pull/74630))
 * Add roof to toxic waste dump shack ([#74631](https://github.com/CleverRaven/Cataclysm-DDA/pull/74631))
 * Add roof to tutorial building ([#74632](https://github.com/CleverRaven/Cataclysm-DDA/pull/74632))
