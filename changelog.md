@@ -1,3 +1,4 @@
+* Weekly Changelog 2024-06-17 to 2024-06-24 ([#74744](https://github.com/CleverRaven/Cataclysm-DDA/pull/74744))
 * Vitamin-based allergy ([#74763](https://github.com/CleverRaven/Cataclysm-DDA/pull/74763))
 * Typified action.h/cpp ([#74796](https://github.com/CleverRaven/Cataclysm-DDA/pull/74796))
 * Offspring inherit friendly ([#74805](https://github.com/CleverRaven/Cataclysm-DDA/pull/74805))
@@ -226,7 +227,6 @@
 * Moving quadrupedally through acid or fire damages both your hands and feet ([#74639](https://github.com/CleverRaven/Cataclysm-DDA/pull/74639))
 * Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
 * Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
-* Added roof to town hall roof access shack ([#74630](https://github.com/CleverRaven/Cataclysm-DDA/pull/74630))
 * Add roof to toxic waste dump shack ([#74631](https://github.com/CleverRaven/Cataclysm-DDA/pull/74631))
 * Add roof to tutorial building ([#74632](https://github.com/CleverRaven/Cataclysm-DDA/pull/74632))
 * Add roof on hospital wall extensions ([#74633](https://github.com/CleverRaven/Cataclysm-DDA/pull/74633))
