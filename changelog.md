@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-28-0827 ([0dabb58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-0827))
+
 * Make the fourth tier of vampirism possible to obtain + add related NPC ([#74799](https://github.com/CleverRaven/Cataclysm-DDA/pull/74799))
 * Adds the Rossi RP63 revolver ([#74778](https://github.com/CleverRaven/Cataclysm-DDA/pull/74778))
 * Allow EOCs to check and modify battery charge in items ([#74748](https://github.com/CleverRaven/Cataclysm-DDA/pull/74748))
@@ -197,11 +202,6 @@
 
 * Fix Overmap Terrain Entry EOC ([#74711](https://github.com/CleverRaven/Cataclysm-DDA/pull/74711))
 * Added roofs to FEMA 2 buildings ([#74718](https://github.com/CleverRaven/Cataclysm-DDA/pull/74718))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-22-2343 ([09cce88](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-22-2343))
-
 * Rescale recovery chance to match previous probabilities ([#74667](https://github.com/CleverRaven/Cataclysm-DDA/pull/74667))
 * Remove AF-2011A1 ([#74713](https://github.com/CleverRaven/Cataclysm-DDA/pull/74713))
 * Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))

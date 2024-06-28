@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-28-0827 (0dabb58)
 * Make the fourth tier of vampirism possible to obtain + add related NPC (#74799)
 * Adds the Rossi RP63 revolver (#74778)
 * Allow EOCs to check and modify battery charge in items (#74748)
@@ -119,8 +121,6 @@ Cataclysm-DDA experimental build 2024-06-23-0432 (9d91f03)
 Cataclysm-DDA experimental build 2024-06-23-0206 (04e4908)
 * Fix Overmap Terrain Entry EOC (#74711)
 * Added roofs to FEMA 2 buildings (#74718)
-
-Cataclysm-DDA experimental build 2024-06-22-2343 (09cce88)
 * Rescale recovery chance to match previous probabilities (#74667)
 * Remove AF-2011A1 (#74713)
 * Remove Reloaded Ammo Failure (#74707)
