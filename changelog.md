@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-28-1704 ([d18e0a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-1704))
+
+* Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-28-0827 ([0dabb58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-0827))
 
 * Make the fourth tier of vampirism possible to obtain + add related NPC ([#74799](https://github.com/CleverRaven/Cataclysm-DDA/pull/74799))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-06-23-0432 ([9d91f03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-0432))
 
 * Block monster and map extra from being generated repeatedly ([#74703](https://github.com/CleverRaven/Cataclysm-DDA/pull/74703))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-23-0206 ([04e4908](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-0206))
-
 * Fix Overmap Terrain Entry EOC ([#74711](https://github.com/CleverRaven/Cataclysm-DDA/pull/74711))
 * Added roofs to FEMA 2 buildings ([#74718](https://github.com/CleverRaven/Cataclysm-DDA/pull/74718))
 * Rescale recovery chance to match previous probabilities ([#74667](https://github.com/CleverRaven/Cataclysm-DDA/pull/74667))
@@ -229,4 +230,3 @@
 * Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
 * [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
 * Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
-* Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
