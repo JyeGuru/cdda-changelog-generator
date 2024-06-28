@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-28-1939 ([d054031](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-1939))
+
+* Clean up overmap drawing code and consolidate to one function ([#74700](https://github.com/CleverRaven/Cataclysm-DDA/pull/74700))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-28-1704 ([d18e0a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-1704))
 
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
@@ -195,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-06-23-1559 ([34a1905](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-1559))
 
 * Routine i18n updates on 22 June 2024 ([#74712](https://github.com/CleverRaven/Cataclysm-DDA/pull/74712))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-23-0432 ([9d91f03](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-0432))
-
 * Block monster and map extra from being generated repeatedly ([#74703](https://github.com/CleverRaven/Cataclysm-DDA/pull/74703))
 * Fix Overmap Terrain Entry EOC ([#74711](https://github.com/CleverRaven/Cataclysm-DDA/pull/74711))
 * Added roofs to FEMA 2 buildings ([#74718](https://github.com/CleverRaven/Cataclysm-DDA/pull/74718))
@@ -225,7 +226,6 @@
 * [Aftershock] Add Exosuit Garages ([#74668](https://github.com/CleverRaven/Cataclysm-DDA/pull/74668))
 * Breather fix 0.H ([#74664](https://github.com/CleverRaven/Cataclysm-DDA/pull/74664))
 * [MoM] Write single variable-based EoC for power contemplation, make it more like other meditation activities ([#74647](https://github.com/CleverRaven/Cataclysm-DDA/pull/74647))
-* Handle rounding errors in EOC proficiency gain ([#74641](https://github.com/CleverRaven/Cataclysm-DDA/pull/74641))
 * Add roofs to homeless upgrade ([#74654](https://github.com/CleverRaven/Cataclysm-DDA/pull/74654))
 * Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
 * [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
