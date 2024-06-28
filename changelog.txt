@@ -1,3 +1,4 @@
+* Replace the S&W 619 with the 686 Plus (#74756)
 
 Cataclysm-DDA experimental build 2024-06-28-1939 (d054031)
 * Clean up overmap drawing code and consolidate to one function (#74700)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2024-06-23-1559 (34a1905)
 * Remove AF-2011A1 (#74713)
 * Remove Reloaded Ammo Failure (#74707)
 * [Xedra Evolved] Vampires can just drink blood (#74709)
-* Shotguns once again (#74642)
 * Add flag for immunity to skin irritants (#74680)
 * Doggo JSON cleanup (#74645)
 * Aftershock: Miscelaneous maintenance. (#74648)

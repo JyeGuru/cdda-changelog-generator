@@ -1,3 +1,4 @@
+* Replace the S&W 619 with the 686 Plus ([#74756](https://github.com/CleverRaven/Cataclysm-DDA/pull/74756))
 
 ---
 
@@ -208,7 +209,6 @@
 * Remove AF-2011A1 ([#74713](https://github.com/CleverRaven/Cataclysm-DDA/pull/74713))
 * Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))
 * [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))
-* Shotguns once again ([#74642](https://github.com/CleverRaven/Cataclysm-DDA/pull/74642))
 * Add flag for immunity to skin irritants ([#74680](https://github.com/CleverRaven/Cataclysm-DDA/pull/74680))
 * Doggo JSON cleanup ([#74645](https://github.com/CleverRaven/Cataclysm-DDA/pull/74645))
 * Aftershock: Miscelaneous maintenance. ([#74648](https://github.com/CleverRaven/Cataclysm-DDA/pull/74648))
