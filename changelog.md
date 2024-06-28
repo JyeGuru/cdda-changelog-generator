@@ -1,3 +1,7 @@
+* Make the fourth tier of vampirism possible to obtain + add related NPC ([#74799](https://github.com/CleverRaven/Cataclysm-DDA/pull/74799))
+* Adds the Rossi RP63 revolver ([#74778](https://github.com/CleverRaven/Cataclysm-DDA/pull/74778))
+* Allow EOCs to check and modify battery charge in items ([#74748](https://github.com/CleverRaven/Cataclysm-DDA/pull/74748))
+* Aftershock: Direct Fusion Gun ([#74803](https://github.com/CleverRaven/Cataclysm-DDA/pull/74803))
 * [MoM] Edit Mood Stabilization values for math ([#74808](https://github.com/CleverRaven/Cataclysm-DDA/pull/74808))
 
 ---
@@ -214,7 +218,6 @@
 * Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
 * Fixes Description for Xanax ([#74661](https://github.com/CleverRaven/Cataclysm-DDA/pull/74661))
 * Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
-* Remove the MR73 ([#74636](https://github.com/CleverRaven/Cataclysm-DDA/pull/74636))
 * Make a zombie-flavored breather and cut spawns of them in meat lab ([#74663](https://github.com/CleverRaven/Cataclysm-DDA/pull/74663))
 * Miscellaneous Clothing Disassembly’s: 1 ([#74659](https://github.com/CleverRaven/Cataclysm-DDA/pull/74659))
 * Tone down hair growth times ([#74665](https://github.com/CleverRaven/Cataclysm-DDA/pull/74665))
@@ -226,7 +229,4 @@
 * Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
 * [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
 * Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
-* Moving quadrupedally through acid or fire damages both your hands and feet ([#74639](https://github.com/CleverRaven/Cataclysm-DDA/pull/74639))
 * Clean up some ant names ([#74640](https://github.com/CleverRaven/Cataclysm-DDA/pull/74640))
-* Add explicit roof to biker dump original shack ([#74634](https://github.com/CleverRaven/Cataclysm-DDA/pull/74634))
-* Add roof on hospital wall extensions ([#74633](https://github.com/CleverRaven/Cataclysm-DDA/pull/74633))
