@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-06-28-2200 (54bd595)
 * Replace the S&W 619 with the 686 Plus (#74756)
 
 Cataclysm-DDA experimental build 2024-06-28-1939 (d054031)
