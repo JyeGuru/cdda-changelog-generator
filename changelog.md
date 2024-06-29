@@ -1,3 +1,12 @@
+* Make tree communion full function not depend on playing the game in English ([#74830](https://github.com/CleverRaven/Cataclysm-DDA/pull/74830))
+* Routine i18n updates on 29 June 2024 ([#74829](https://github.com/CleverRaven/Cataclysm-DDA/pull/74829))
+* Bugfix: LIXA Teleport Deaths ([#74831](https://github.com/CleverRaven/Cataclysm-DDA/pull/74831))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-29-2015 ([50e3375](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-29-2015))
+
+* Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
 
 ---
 
@@ -71,7 +80,6 @@
 #### Cataclysm-DDA experimental build 2024-06-27-1417 ([17f2b41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-27-1417))
 
 * Nerf to-hit of lucern hammer ([#74802](https://github.com/CleverRaven/Cataclysm-DDA/pull/74802))
-* Vegan profession item substitutions ([#74649](https://github.com/CleverRaven/Cataclysm-DDA/pull/74649))
 * Appease clang ([#74734](https://github.com/CleverRaven/Cataclysm-DDA/pull/74734))
 * Remove bloated comments from translation files ([#74789](https://github.com/CleverRaven/Cataclysm-DDA/pull/74789))
 * Added roof to river cave ([#74791](https://github.com/CleverRaven/Cataclysm-DDA/pull/74791))
@@ -197,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2024-06-23-2258 ([a37660f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-2258))
 
 * Balancing recipe imbalances due to red phosphorus weight changes ([#74722](https://github.com/CleverRaven/Cataclysm-DDA/pull/74722))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-23-1828 ([68ea0cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-1828))
-
 * Fixing raw copper wire weight consistency with copper ([#74702](https://github.com/CleverRaven/Cataclysm-DDA/pull/74702))
 * Rice material unification + MRE pluralization normalization ([#74706](https://github.com/CleverRaven/Cataclysm-DDA/pull/74706))
 * Fix bug in gun variant validator script ([#74727](https://github.com/CleverRaven/Cataclysm-DDA/pull/74727))
@@ -215,8 +218,6 @@
 * Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))
 * [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))
 * Add flag for immunity to skin irritants ([#74680](https://github.com/CleverRaven/Cataclysm-DDA/pull/74680))
-* Doggo JSON cleanup ([#74645](https://github.com/CleverRaven/Cataclysm-DDA/pull/74645))
-* Aftershock: Miscelaneous maintenance. ([#74648](https://github.com/CleverRaven/Cataclysm-DDA/pull/74648))
 * Add math effect to return effect duration ([#74670](https://github.com/CleverRaven/Cataclysm-DDA/pull/74670))
 * Pebble recovery chance ([#74679](https://github.com/CleverRaven/Cataclysm-DDA/pull/74679))
 * Roofs + floors on FEMA camp ([#74690](https://github.com/CleverRaven/Cataclysm-DDA/pull/74690))
@@ -230,7 +231,6 @@
 * Tone down hair growth times ([#74665](https://github.com/CleverRaven/Cataclysm-DDA/pull/74665))
 * [Aftershock] Add Exosuit Garages ([#74668](https://github.com/CleverRaven/Cataclysm-DDA/pull/74668))
 * Breather fix 0.H ([#74664](https://github.com/CleverRaven/Cataclysm-DDA/pull/74664))
-* [MoM] Write single variable-based EoC for power contemplation, make it more like other meditation activities ([#74647](https://github.com/CleverRaven/Cataclysm-DDA/pull/74647))
 * Add roofs to homeless upgrade ([#74654](https://github.com/CleverRaven/Cataclysm-DDA/pull/74654))
 * Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
 * [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
