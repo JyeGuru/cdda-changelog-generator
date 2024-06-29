@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-06-29-1733 ([16c3df3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-29-1733))
+
+* Moving quadrupedally through certain traps now applies appropriate damage to arms/hands ([#74662](https://github.com/CleverRaven/Cataclysm-DDA/pull/74662))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-06-28-2200 ([54bd595](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-2200))
 
 * Replace the S&W 619 with the 686 Plus ([#74756](https://github.com/CleverRaven/Cataclysm-DDA/pull/74756))
@@ -92,7 +98,6 @@
 #### Cataclysm-DDA experimental build 2024-06-26-0308 ([303c00f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-26-0308))
 
 * Travel to: fix travel to on ramps ([#74762](https://github.com/CleverRaven/Cataclysm-DDA/pull/74762))
-* Adding Doctor and Pharmacist Professions ([#74643](https://github.com/CleverRaven/Cataclysm-DDA/pull/74643))
 * More Gun Variants, Part Iv ([#74691](https://github.com/CleverRaven/Cataclysm-DDA/pull/74691))
 * Palette of surface+roof chunks ([#74779](https://github.com/CleverRaven/Cataclysm-DDA/pull/74779))
 * Add roof to chicken coops ([#74780](https://github.com/CleverRaven/Cataclysm-DDA/pull/74780))
@@ -201,11 +206,6 @@
 * Rice material unification + MRE pluralization normalization ([#74706](https://github.com/CleverRaven/Cataclysm-DDA/pull/74706))
 * Fix bug in gun variant validator script ([#74727](https://github.com/CleverRaven/Cataclysm-DDA/pull/74727))
 * Adds the Rossi Gallery ([#74724](https://github.com/CleverRaven/Cataclysm-DDA/pull/74724))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-23-1559 ([34a1905](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-1559))
-
 * Routine i18n updates on 22 June 2024 ([#74712](https://github.com/CleverRaven/Cataclysm-DDA/pull/74712))
 * Block monster and map extra from being generated repeatedly ([#74703](https://github.com/CleverRaven/Cataclysm-DDA/pull/74703))
 * Fix Overmap Terrain Entry EOC ([#74711](https://github.com/CleverRaven/Cataclysm-DDA/pull/74711))

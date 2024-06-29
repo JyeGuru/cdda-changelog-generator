@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-06-29-1733 (16c3df3)
+* Moving quadrupedally through certain traps now applies appropriate damage to arms/hands (#74662)
+
 Cataclysm-DDA experimental build 2024-06-28-2200 (54bd595)
 * Replace the S&W 619 with the 686 Plus (#74756)
 
@@ -53,7 +56,6 @@ Cataclysm-DDA experimental build 2024-06-26-0530 (8121068)
 
 Cataclysm-DDA experimental build 2024-06-26-0308 (303c00f)
 * Travel to: fix travel to on ramps (#74762)
-* Adding Doctor and Pharmacist Professions (#74643)
 * More Gun Variants, Part Iv (#74691)
 * Palette of surface+roof chunks (#74779)
 * Add roof to chicken coops (#74780)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2024-06-23-1828 (68ea0cc)
 * Rice material unification + MRE pluralization normalization (#74706)
 * Fix bug in gun variant validator script (#74727)
 * Adds the Rossi Gallery (#74724)
-
-Cataclysm-DDA experimental build 2024-06-23-1559 (34a1905)
 * Routine i18n updates on 22 June 2024 (#74712)
 * Block monster and map extra from being generated repeatedly (#74703)
 * Fix Overmap Terrain Entry EOC (#74711)
