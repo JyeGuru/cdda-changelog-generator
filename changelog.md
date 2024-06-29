@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-29-2246 ([3e49694](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-29-2246))
+
 * Picky Eater is mutually exclusive with Gourmand ([#74837](https://github.com/CleverRaven/Cataclysm-DDA/pull/74837))
 * Make tree communion full function not depend on playing the game in English ([#74830](https://github.com/CleverRaven/Cataclysm-DDA/pull/74830))
 * Routine i18n updates on 29 June 2024 ([#74829](https://github.com/CleverRaven/Cataclysm-DDA/pull/74829))
@@ -200,11 +205,6 @@
 #### Cataclysm-DDA experimental build 2024-06-24-0151 ([08c3e24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-24-0151))
 
 * Fixed rotation and spawning issues ([#74732](https://github.com/CleverRaven/Cataclysm-DDA/pull/74732))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-23-2258 ([a37660f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-23-2258))
-
 * Balancing recipe imbalances due to red phosphorus weight changes ([#74722](https://github.com/CleverRaven/Cataclysm-DDA/pull/74722))
 * Fixing raw copper wire weight consistency with copper ([#74702](https://github.com/CleverRaven/Cataclysm-DDA/pull/74702))
 * Rice material unification + MRE pluralization normalization ([#74706](https://github.com/CleverRaven/Cataclysm-DDA/pull/74706))
