@@ -1,3 +1,4 @@
+* Picky Eater is mutually exclusive with Gourmand ([#74837](https://github.com/CleverRaven/Cataclysm-DDA/pull/74837))
 * Make tree communion full function not depend on playing the game in English ([#74830](https://github.com/CleverRaven/Cataclysm-DDA/pull/74830))
 * Routine i18n updates on 29 June 2024 ([#74829](https://github.com/CleverRaven/Cataclysm-DDA/pull/74829))
 * Bugfix: LIXA Teleport Deaths ([#74831](https://github.com/CleverRaven/Cataclysm-DDA/pull/74831))
@@ -233,5 +234,4 @@
 * Breather fix 0.H ([#74664](https://github.com/CleverRaven/Cataclysm-DDA/pull/74664))
 * Add roofs to homeless upgrade ([#74654](https://github.com/CleverRaven/Cataclysm-DDA/pull/74654))
 * Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
-* [Aftershock] Add Enclosed Parks ([#74650](https://github.com/CleverRaven/Cataclysm-DDA/pull/74650))
 * Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))
