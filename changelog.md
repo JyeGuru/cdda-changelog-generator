@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-30-1704 ([24a4eb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-30-1704))
+
 * Add 12-bit rainbow color palette ([#74842](https://github.com/CleverRaven/Cataclysm-DDA/pull/74842))
 * [AFS/MoM] Rework Electron Overflow for new power EoC functionality ([#74769](https://github.com/CleverRaven/Cataclysm-DDA/pull/74769))
 
@@ -201,11 +206,6 @@
 * Add a teeth necklace ([#74692](https://github.com/CleverRaven/Cataclysm-DDA/pull/74692))
 * Miscellaneous Clothing Disassembly’s: 3 ([#74705](https://github.com/CleverRaven/Cataclysm-DDA/pull/74705))
 * Update components of retractable telescope ([#74728](https://github.com/CleverRaven/Cataclysm-DDA/pull/74728))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-24-0511 ([5660f1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-24-0511))
-
 * fix displayed .223 guns do not have receiver installed ([#74736](https://github.com/CleverRaven/Cataclysm-DDA/pull/74736))
 * Fixed rotation and spawning issues ([#74732](https://github.com/CleverRaven/Cataclysm-DDA/pull/74732))
 * Balancing recipe imbalances due to red phosphorus weight changes ([#74722](https://github.com/CleverRaven/Cataclysm-DDA/pull/74722))
