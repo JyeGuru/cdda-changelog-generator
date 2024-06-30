@@ -1,3 +1,10 @@
+* [AFS/MoM] Rework Electron Overflow for new power EoC functionality ([#74769](https://github.com/CleverRaven/Cataclysm-DDA/pull/74769))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-06-30-1418 ([1ce006e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-30-1418))
+
+* [MoM] Fix Prescient Tactics learning  ([#74839](https://github.com/CleverRaven/Cataclysm-DDA/pull/74839))
 
 ---
 
@@ -199,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2024-06-24-0511 ([5660f1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-24-0511))
 
 * fix displayed .223 guns do not have receiver installed ([#74736](https://github.com/CleverRaven/Cataclysm-DDA/pull/74736))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-24-0151 ([08c3e24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-24-0151))
-
 * Fixed rotation and spawning issues ([#74732](https://github.com/CleverRaven/Cataclysm-DDA/pull/74732))
 * Balancing recipe imbalances due to red phosphorus weight changes ([#74722](https://github.com/CleverRaven/Cataclysm-DDA/pull/74722))
 * Fixing raw copper wire weight consistency with copper ([#74702](https://github.com/CleverRaven/Cataclysm-DDA/pull/74702))
@@ -233,5 +235,3 @@
 * [Aftershock] Add Exosuit Garages ([#74668](https://github.com/CleverRaven/Cataclysm-DDA/pull/74668))
 * Breather fix 0.H ([#74664](https://github.com/CleverRaven/Cataclysm-DDA/pull/74664))
 * Add roofs to homeless upgrade ([#74654](https://github.com/CleverRaven/Cataclysm-DDA/pull/74654))
-* Provide roof for regional dump shack ([#74651](https://github.com/CleverRaven/Cataclysm-DDA/pull/74651))
-* Give gun show tent a roof ([#74652](https://github.com/CleverRaven/Cataclysm-DDA/pull/74652))

@@ -1,3 +1,7 @@
+* [AFS/MoM] Rework Electron Overflow for new power EoC functionality (#74769)
+
+Cataclysm-DDA experimental build 2024-06-30-1418 (1ce006e)
+* [MoM] Fix Prescient Tactics learning  (#74839)
 
 Cataclysm-DDA experimental build 2024-06-29-2246 (3e49694)
 * Picky Eater is mutually exclusive with Gourmand (#74837)
@@ -118,8 +122,6 @@ Cataclysm-DDA experimental build 2024-06-24-0752 (1b599f0)
 
 Cataclysm-DDA experimental build 2024-06-24-0511 (5660f1a)
 * fix displayed .223 guns do not have receiver installed (#74736)
-
-Cataclysm-DDA experimental build 2024-06-24-0151 (08c3e24)
 * Fixed rotation and spawning issues (#74732)
 * Balancing recipe imbalances due to red phosphorus weight changes (#74722)
 * Fixing raw copper wire weight consistency with copper (#74702)
@@ -149,5 +151,3 @@ Cataclysm-DDA experimental build 2024-06-24-0151 (08c3e24)
 * [Aftershock] Add Exosuit Garages (#74668)
 * Breather fix 0.H (#74664)
 * Add roofs to homeless upgrade (#74654)
-* Provide roof for regional dump shack (#74651)
-* Give gun show tent a roof (#74652)
