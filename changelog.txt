@@ -1,3 +1,8 @@
+* Fetlock furs fix (#74834)
+* Make the ``monsters`` GitHub label actually get applied - Attempt 2 (#74851)
+
+Cataclysm-DDA experimental build 2024-06-30-2320 (5c72e5b)
+* [Aftershock] Add Habitat Block 3 to Exoplanet (#74838)
 
 Cataclysm-DDA experimental build 2024-06-30-1704 (24a4eb9)
 * Add 12-bit rainbow color palette (#74842)
@@ -117,8 +122,6 @@ Cataclysm-DDA experimental build 2024-06-24-1652 (3b97827)
 
 Cataclysm-DDA experimental build 2024-06-24-1405 (3a3169f)
 * Added roofs to greenhouses (#74750)
-
-Cataclysm-DDA experimental build 2024-06-24-0752 (1b599f0)
 * Add a teeth necklace (#74692)
 * Miscellaneous Clothing Disassembly’s: 3 (#74705)
 * Update components of retractable telescope (#74728)
@@ -144,10 +147,8 @@ Cataclysm-DDA experimental build 2024-06-24-0752 (1b599f0)
 * Fixed monster rain + rotation havoc (#74687)
 *  Remove shockstorm from electric skelezombos (#74693)
 * Validate involved variables when traveling to and from Port Augustmoon (#74682)
-* Fixes Description for Xanax (#74661)
 * Added Tacoma roofs (#74674)
 * Make a zombie-flavored breather and cut spawns of them in meat lab (#74663)
-* Miscellaneous Clothing Disassembly’s: 1 (#74659)
 * Tone down hair growth times (#74665)
 * [Aftershock] Add Exosuit Garages (#74668)
 * Breather fix 0.H (#74664)
