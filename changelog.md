@@ -1,3 +1,9 @@
+* Small rat audit ([#74827](https://github.com/CleverRaven/Cataclysm-DDA/pull/74827))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-01-1436 ([8b1d698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-1436))
+
 * [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
 
 ---
@@ -193,11 +199,6 @@
 * Moved zombie cage roofs to only generate when the cages are ([#74752](https://github.com/CleverRaven/Cataclysm-DDA/pull/74752))
 * [MoM] Add the BARKY flag to appropriate powers ([#74757](https://github.com/CleverRaven/Cataclysm-DDA/pull/74757))
 * Phosphorus ([#74759](https://github.com/CleverRaven/Cataclysm-DDA/pull/74759))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-25-0500 ([9281795](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-0500))
-
 * Add roofs to market stalls ([#74760](https://github.com/CleverRaven/Cataclysm-DDA/pull/74760))
 * Added roof to two shacks ([#74758](https://github.com/CleverRaven/Cataclysm-DDA/pull/74758))
 * Fix NPC crafting message ([#74739](https://github.com/CleverRaven/Cataclysm-DDA/pull/74739))
@@ -230,4 +231,3 @@
 *  Remove shockstorm from electric skelezombos ([#74693](https://github.com/CleverRaven/Cataclysm-DDA/pull/74693))
 * Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
 * Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
-* [Aftershock] Add Exosuit Garages ([#74668](https://github.com/CleverRaven/Cataclysm-DDA/pull/74668))
