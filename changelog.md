@@ -1,3 +1,4 @@
+* [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
 
 ---
 
@@ -218,7 +219,6 @@
 * Block monster and map extra from being generated repeatedly ([#74703](https://github.com/CleverRaven/Cataclysm-DDA/pull/74703))
 * Fix Overmap Terrain Entry EOC ([#74711](https://github.com/CleverRaven/Cataclysm-DDA/pull/74711))
 * Added roofs to FEMA 2 buildings ([#74718](https://github.com/CleverRaven/Cataclysm-DDA/pull/74718))
-* Rescale recovery chance to match previous probabilities ([#74667](https://github.com/CleverRaven/Cataclysm-DDA/pull/74667))
 * Remove AF-2011A1 ([#74713](https://github.com/CleverRaven/Cataclysm-DDA/pull/74713))
 * Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))
 * [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))

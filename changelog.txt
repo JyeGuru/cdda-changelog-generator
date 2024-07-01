@@ -1,3 +1,4 @@
+* [Magiclysm] Dust Reborn clears rads (#74857)
 
 Cataclysm-DDA experimental build 2024-07-01-0638 (4f065b5)
 * Fix android bug (#74841)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2024-06-25-0500 (9281795)
 * Block monster and map extra from being generated repeatedly (#74703)
 * Fix Overmap Terrain Entry EOC (#74711)
 * Added roofs to FEMA 2 buildings (#74718)
-* Rescale recovery chance to match previous probabilities (#74667)
 * Remove AF-2011A1 (#74713)
 * Remove Reloaded Ammo Failure (#74707)
 * [Xedra Evolved] Vampires can just drink blood (#74709)
