@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-01-0127 ([2f860b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-0127))
+
 * Fetlock furs fix ([#74834](https://github.com/CleverRaven/Cataclysm-DDA/pull/74834))
 * Make the ``monsters`` GitHub label actually get applied - Attempt 2 ([#74851](https://github.com/CleverRaven/Cataclysm-DDA/pull/74851))
 
@@ -200,11 +205,6 @@
 * Added roofs to garden greenhouses and shed ([#74751](https://github.com/CleverRaven/Cataclysm-DDA/pull/74751))
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde ([#74745](https://github.com/CleverRaven/Cataclysm-DDA/pull/74745))
 * Added roofs to tents and desolate barns ([#74737](https://github.com/CleverRaven/Cataclysm-DDA/pull/74737))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-24-1405 ([3a3169f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-24-1405))
-
 * Added roofs to greenhouses ([#74750](https://github.com/CleverRaven/Cataclysm-DDA/pull/74750))
 * Add a teeth necklace ([#74692](https://github.com/CleverRaven/Cataclysm-DDA/pull/74692))
 * Miscellaneous Clothing Disassembly’s: 3 ([#74705](https://github.com/CleverRaven/Cataclysm-DDA/pull/74705))
