@@ -1,3 +1,7 @@
+* Add conjunctivitis from boomer bile (#74681)
+
+Cataclysm-DDA experimental build 2024-07-01-0424 (1ac2756)
+* [TropiCata] Scorpion audit + two tiny termite follow-up fixes (#74849)
 
 Cataclysm-DDA experimental build 2024-07-01-0127 (2f860b4)
 * Fetlock furs fix (#74834)
@@ -21,9 +25,6 @@ Cataclysm-DDA experimental build 2024-06-29-2246 (3e49694)
 
 Cataclysm-DDA experimental build 2024-06-29-2015 (50e3375)
 * Fix incorrect grabbed vehicle falling logic (#74835)
-
-Cataclysm-DDA experimental build 2024-06-29-1733 (16c3df3)
-* Moving quadrupedally through certain traps now applies appropriate damage to arms/hands (#74662)
 
 Cataclysm-DDA experimental build 2024-06-28-2200 (54bd595)
 * Replace the S&W 619 with the 686 Plus (#74756)
@@ -115,8 +116,6 @@ Cataclysm-DDA experimental build 2024-06-25-0500 (9281795)
 
 Cataclysm-DDA experimental build 2024-06-24-2155 (7da20bc)
 * Added roof to two shacks (#74758)
-
-Cataclysm-DDA experimental build 2024-06-24-1652 (3b97827)
 * Fix NPC crafting message (#74739)
 * Added roofs to garden greenhouses and shed (#74751)
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde (#74745)
@@ -148,7 +147,6 @@ Cataclysm-DDA experimental build 2024-06-24-1652 (3b97827)
 *  Remove shockstorm from electric skelezombos (#74693)
 * Validate involved variables when traveling to and from Port Augustmoon (#74682)
 * Added Tacoma roofs (#74674)
-* Make a zombie-flavored breather and cut spawns of them in meat lab (#74663)
 * Tone down hair growth times (#74665)
 * [Aftershock] Add Exosuit Garages (#74668)
 * Breather fix 0.H (#74664)

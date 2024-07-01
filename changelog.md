@@ -1,3 +1,10 @@
+* Add conjunctivitis from boomer bile ([#74681](https://github.com/CleverRaven/Cataclysm-DDA/pull/74681))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-01-0424 ([1ac2756](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-0424))
+
+* [TropiCata] Scorpion audit + two tiny termite follow-up fixes ([#74849](https://github.com/CleverRaven/Cataclysm-DDA/pull/74849))
 
 ---
 
@@ -39,12 +46,6 @@
 #### Cataclysm-DDA experimental build 2024-06-29-2015 ([50e3375](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-29-2015))
 
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-29-1733 ([16c3df3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-29-1733))
-
-* Moving quadrupedally through certain traps now applies appropriate damage to arms/hands ([#74662](https://github.com/CleverRaven/Cataclysm-DDA/pull/74662))
 
 ---
 
@@ -196,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-06-24-2155 ([7da20bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-24-2155))
 
 * Added roof to two shacks ([#74758](https://github.com/CleverRaven/Cataclysm-DDA/pull/74758))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-24-1652 ([3b97827](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-24-1652))
-
 * Fix NPC crafting message ([#74739](https://github.com/CleverRaven/Cataclysm-DDA/pull/74739))
 * Added roofs to garden greenhouses and shed ([#74751](https://github.com/CleverRaven/Cataclysm-DDA/pull/74751))
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde ([#74745](https://github.com/CleverRaven/Cataclysm-DDA/pull/74745))
@@ -232,7 +228,6 @@
 *  Remove shockstorm from electric skelezombos ([#74693](https://github.com/CleverRaven/Cataclysm-DDA/pull/74693))
 * Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
 * Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
-* Make a zombie-flavored breather and cut spawns of them in meat lab ([#74663](https://github.com/CleverRaven/Cataclysm-DDA/pull/74663))
 * Tone down hair growth times ([#74665](https://github.com/CleverRaven/Cataclysm-DDA/pull/74665))
 * [Aftershock] Add Exosuit Garages ([#74668](https://github.com/CleverRaven/Cataclysm-DDA/pull/74668))
 * Breather fix 0.H ([#74664](https://github.com/CleverRaven/Cataclysm-DDA/pull/74664))
