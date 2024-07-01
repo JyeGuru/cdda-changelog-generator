@@ -1,3 +1,5 @@
+* Fix android bug ([#74841](https://github.com/CleverRaven/Cataclysm-DDA/pull/74841))
+* Reduce Anthill Spawns ([#74824](https://github.com/CleverRaven/Cataclysm-DDA/pull/74824))
 * Add conjunctivitis from boomer bile ([#74681](https://github.com/CleverRaven/Cataclysm-DDA/pull/74681))
 
 ---
@@ -228,6 +230,4 @@
 *  Remove shockstorm from electric skelezombos ([#74693](https://github.com/CleverRaven/Cataclysm-DDA/pull/74693))
 * Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
 * Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
-* Tone down hair growth times ([#74665](https://github.com/CleverRaven/Cataclysm-DDA/pull/74665))
 * [Aftershock] Add Exosuit Garages ([#74668](https://github.com/CleverRaven/Cataclysm-DDA/pull/74668))
-* Breather fix 0.H ([#74664](https://github.com/CleverRaven/Cataclysm-DDA/pull/74664))
