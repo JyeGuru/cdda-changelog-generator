@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-01-0638 (4f065b5)
 * Fix android bug (#74841)
 * Reduce Anthill Spawns (#74824)
 * Add conjunctivitis from boomer bile (#74681)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2024-06-25-0755 (f0d983a)
 
 Cataclysm-DDA experimental build 2024-06-25-0500 (9281795)
 * Add roofs to market stalls (#74760)
-
-Cataclysm-DDA experimental build 2024-06-24-2155 (7da20bc)
 * Added roof to two shacks (#74758)
 * Fix NPC crafting message (#74739)
 * Added roofs to garden greenhouses and shed (#74751)
