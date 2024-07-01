@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-01-1706 ([e9c22bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-1706))
+
 * Small rat audit ([#74827](https://github.com/CleverRaven/Cataclysm-DDA/pull/74827))
 
 ---
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-06-25-1326 ([1d2c114](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-1326))
 
 * [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-25-0755 ([f0d983a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-0755))
-
 * Miscellaneous Clothing Disassembly’s: 2 ([#74675](https://github.com/CleverRaven/Cataclysm-DDA/pull/74675))
 * [Magiclysm] Add a Translocator Gate to the Forge of Wonders. Also add consumable Forge warp scrolls. ([#74738](https://github.com/CleverRaven/Cataclysm-DDA/pull/74738))
 * Add Colt Anaconda ([#74719](https://github.com/CleverRaven/Cataclysm-DDA/pull/74719))
