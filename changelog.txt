@@ -1,3 +1,4 @@
+* Add typed standard coordinate constants + typify active_item_cache (#74823)
 
 Cataclysm-DDA experimental build 2024-07-02-1906 (1bd5c31)
 * `SPEAR` flag removed from items that also does not possess the `REACH_ATTACK` or `REACH3` flag. (#74848)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2024-06-26-0044 (d56fc07)
 * Roofs + floors on FEMA camp (#74690)
 * Fixed monster rain + rotation havoc (#74687)
 *  Remove shockstorm from electric skelezombos (#74693)
-* Validate involved variables when traveling to and from Port Augustmoon (#74682)

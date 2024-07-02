@@ -1,3 +1,4 @@
+* Add typed standard coordinate constants + typify active_item_cache ([#74823](https://github.com/CleverRaven/Cataclysm-DDA/pull/74823))
 
 ---
 
@@ -225,4 +226,3 @@
 * Roofs + floors on FEMA camp ([#74690](https://github.com/CleverRaven/Cataclysm-DDA/pull/74690))
 * Fixed monster rain + rotation havoc ([#74687](https://github.com/CleverRaven/Cataclysm-DDA/pull/74687))
 *  Remove shockstorm from electric skelezombos ([#74693](https://github.com/CleverRaven/Cataclysm-DDA/pull/74693))
-* Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
