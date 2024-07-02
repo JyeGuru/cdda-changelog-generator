@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-02-2137 ([48eb345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-2137))
+
 * Add typed standard coordinate constants + typify active_item_cache ([#74823](https://github.com/CleverRaven/Cataclysm-DDA/pull/74823))
 
 ---

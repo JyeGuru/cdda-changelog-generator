@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-02-2137 (48eb345)
 * Add typed standard coordinate constants + typify active_item_cache (#74823)
 
 Cataclysm-DDA experimental build 2024-07-02-1906 (1bd5c31)
