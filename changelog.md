@@ -1,3 +1,14 @@
+* `SPEAR` flag removed from items that also does not possess the `REACH_ATTACK` or `REACH3` flag. ([#74848](https://github.com/CleverRaven/Cataclysm-DDA/pull/74848))
+* Routine tileset updates on 01 July 2024 ([#74853](https://github.com/CleverRaven/Cataclysm-DDA/pull/74853))
+* Migrate NPC rules to a new, dedicated imgui menu ([#74854](https://github.com/CleverRaven/Cataclysm-DDA/pull/74854))
+* Make hardtack easier to make ([#74856](https://github.com/CleverRaven/Cataclysm-DDA/pull/74856))
+* clean water stays clean in tanks ([#74863](https://github.com/CleverRaven/Cataclysm-DDA/pull/74863))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-02-1621 ([5034ef8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-1621))
+
+* Fix android build ([#74869](https://github.com/CleverRaven/Cataclysm-DDA/pull/74869))
 
 ---
 
@@ -23,7 +34,6 @@
 
 * Fix android bug ([#74841](https://github.com/CleverRaven/Cataclysm-DDA/pull/74841))
 * Reduce Anthill Spawns ([#74824](https://github.com/CleverRaven/Cataclysm-DDA/pull/74824))
-* Add conjunctivitis from boomer bile ([#74681](https://github.com/CleverRaven/Cataclysm-DDA/pull/74681))
 
 ---
 
@@ -151,12 +161,6 @@
 #### Cataclysm-DDA experimental build 2024-06-26-1304 ([ad0c03d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-26-1304))
 
 * Added (explicit) roofs to community gardens ([#74781](https://github.com/CleverRaven/Cataclysm-DDA/pull/74781))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-26-0530 ([8121068](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-26-0530))
-
-* More skeletal zombie upgrades ([#74676](https://github.com/CleverRaven/Cataclysm-DDA/pull/74676))
 * PSEUDO is a flag and not an ammo_effect ([#74784](https://github.com/CleverRaven/Cataclysm-DDA/pull/74784))
 
 ---
@@ -186,14 +190,8 @@
 
 * [Bombastic Perks] Add blood-themed perks ([#74761](https://github.com/CleverRaven/Cataclysm-DDA/pull/74761))
 * Correct an oversight from #72490 ([#74765](https://github.com/CleverRaven/Cataclysm-DDA/pull/74765))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-25-1641 ([50f8ab2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-1641))
-
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
 * [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
-* Miscellaneous Clothing Disassembly’s: 2 ([#74675](https://github.com/CleverRaven/Cataclysm-DDA/pull/74675))
 * [Magiclysm] Add a Translocator Gate to the Forge of Wonders. Also add consumable Forge warp scrolls. ([#74738](https://github.com/CleverRaven/Cataclysm-DDA/pull/74738))
 * Add Colt Anaconda ([#74719](https://github.com/CleverRaven/Cataclysm-DDA/pull/74719))
 * Provided roofs for exodii crash site + debug mx spawn support ([#74754](https://github.com/CleverRaven/Cataclysm-DDA/pull/74754))
@@ -224,10 +222,7 @@
 * Remove AF-2011A1 ([#74713](https://github.com/CleverRaven/Cataclysm-DDA/pull/74713))
 * Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))
 * [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))
-* Add flag for immunity to skin irritants ([#74680](https://github.com/CleverRaven/Cataclysm-DDA/pull/74680))
-* Pebble recovery chance ([#74679](https://github.com/CleverRaven/Cataclysm-DDA/pull/74679))
 * Roofs + floors on FEMA camp ([#74690](https://github.com/CleverRaven/Cataclysm-DDA/pull/74690))
 * Fixed monster rain + rotation havoc ([#74687](https://github.com/CleverRaven/Cataclysm-DDA/pull/74687))
 *  Remove shockstorm from electric skelezombos ([#74693](https://github.com/CleverRaven/Cataclysm-DDA/pull/74693))
 * Validate involved variables when traveling to and from Port Augustmoon ([#74682](https://github.com/CleverRaven/Cataclysm-DDA/pull/74682))
-* Added Tacoma roofs ([#74674](https://github.com/CleverRaven/Cataclysm-DDA/pull/74674))
