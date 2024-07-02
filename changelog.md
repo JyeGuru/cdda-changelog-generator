@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-02-0131 ([3fd721c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-0131))
+
+* Update and modernize FMS ([#74859](https://github.com/CleverRaven/Cataclysm-DDA/pull/74859))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-01-1706 ([e9c22bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-1706))
 
 * Small rat audit ([#74827](https://github.com/CleverRaven/Cataclysm-DDA/pull/74827))
@@ -186,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-06-25-1641 ([50f8ab2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-1641))
 
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-25-1326 ([1d2c114](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-1326))
-
 * [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
 * Miscellaneous Clothing Disassembly’s: 2 ([#74675](https://github.com/CleverRaven/Cataclysm-DDA/pull/74675))
 * [Magiclysm] Add a Translocator Gate to the Forge of Wonders. Also add consumable Forge warp scrolls. ([#74738](https://github.com/CleverRaven/Cataclysm-DDA/pull/74738))
@@ -224,7 +225,6 @@
 * Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))
 * [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))
 * Add flag for immunity to skin irritants ([#74680](https://github.com/CleverRaven/Cataclysm-DDA/pull/74680))
-* Add math effect to return effect duration ([#74670](https://github.com/CleverRaven/Cataclysm-DDA/pull/74670))
 * Pebble recovery chance ([#74679](https://github.com/CleverRaven/Cataclysm-DDA/pull/74679))
 * Roofs + floors on FEMA camp ([#74690](https://github.com/CleverRaven/Cataclysm-DDA/pull/74690))
 * Fixed monster rain + rotation havoc ([#74687](https://github.com/CleverRaven/Cataclysm-DDA/pull/74687))
