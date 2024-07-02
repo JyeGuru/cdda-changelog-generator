@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-02-1906 ([1bd5c31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-1906))
+
 * `SPEAR` flag removed from items that also does not possess the `REACH_ATTACK` or `REACH3` flag. ([#74848](https://github.com/CleverRaven/Cataclysm-DDA/pull/74848))
 * Routine tileset updates on 01 July 2024 ([#74853](https://github.com/CleverRaven/Cataclysm-DDA/pull/74853))
 * Migrate NPC rules to a new, dedicated imgui menu ([#74854](https://github.com/CleverRaven/Cataclysm-DDA/pull/74854))
@@ -183,11 +188,6 @@
 * [Xedra Evolved] Vampire Powers overhaul ([#74729](https://github.com/CleverRaven/Cataclysm-DDA/pull/74729))
 * Change references to "intensity" to "duration" in effect_duration math function description ([#74764](https://github.com/CleverRaven/Cataclysm-DDA/pull/74764))
 * Remove vending machines from gunshop ([#74770](https://github.com/CleverRaven/Cataclysm-DDA/pull/74770))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-25-1924 ([8d40331](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-25-1924))
-
 * [Bombastic Perks] Add blood-themed perks ([#74761](https://github.com/CleverRaven/Cataclysm-DDA/pull/74761))
 * Correct an oversight from #72490 ([#74765](https://github.com/CleverRaven/Cataclysm-DDA/pull/74765))
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
