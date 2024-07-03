@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-03-2023 ([9332ebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-2023))
+
 * Add note about points pool in FMS ([#74879](https://github.com/CleverRaven/Cataclysm-DDA/pull/74879))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-06-27-1738 ([7d0afa4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-27-1738))
 
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing ([#74798](https://github.com/CleverRaven/Cataclysm-DDA/pull/74798))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-06-27-1418 ([1c136e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-06-27-1418))
-
 * Backport 71500 (Fix MOLLE pouches hiding stored items and showing incorrect movecosts) ([#74797](https://github.com/CleverRaven/Cataclysm-DDA/pull/74797))
 
 ---

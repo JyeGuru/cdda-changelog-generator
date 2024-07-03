@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-03-2023 (9332ebc)
 * Add note about points pool in FMS (#74879)
 
 Cataclysm-DDA experimental build 2024-07-03-1803 (8824cac)
@@ -96,8 +98,6 @@ Cataclysm-DDA experimental build 2024-06-27-2118 (0a58b84)
 
 Cataclysm-DDA experimental build 2024-06-27-1738 (7d0afa4)
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing (#74798)
-
-Cataclysm-DDA 0.H release candidate 2024-06-27-1418 (1c136e0)
 * Backport 71500 (Fix MOLLE pouches hiding stored items and showing incorrect movecosts) (#74797)
 
 Cataclysm-DDA experimental build 2024-06-27-1417 (17f2b41)
