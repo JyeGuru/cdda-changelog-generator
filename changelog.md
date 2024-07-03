@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-03-1542 ([f581edd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-1542))
+
 * Weekly Changelog 2024-06-24 to 2024-07-01 ([#74855](https://github.com/CleverRaven/Cataclysm-DDA/pull/74855))
 
 ---
@@ -181,11 +186,6 @@
 * Add roof to small scrapyard shack ([#74793](https://github.com/CleverRaven/Cataclysm-DDA/pull/74793))
 * natural rock floor -> concrete ([#74794](https://github.com/CleverRaven/Cataclysm-DDA/pull/74794))
 * Change natural rock floor to concrete ([#74795](https://github.com/CleverRaven/Cataclysm-DDA/pull/74795))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-26-1304 ([ad0c03d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-26-1304))
-
 * Added (explicit) roofs to community gardens ([#74781](https://github.com/CleverRaven/Cataclysm-DDA/pull/74781))
 * PSEUDO is a flag and not an ammo_effect ([#74784](https://github.com/CleverRaven/Cataclysm-DDA/pull/74784))
 * Travel to: fix travel to on ramps ([#74762](https://github.com/CleverRaven/Cataclysm-DDA/pull/74762))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-03-1542 (f581edd)
 * Weekly Changelog 2024-06-24 to 2024-07-01 (#74855)
 
 Cataclysm-DDA experimental build 2024-07-03-1303 (fce8d46)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2024-06-27-1417 (17f2b41)
 * Add roof to small scrapyard shack (#74793)
 * natural rock floor -> concrete (#74794)
 * Change natural rock floor to concrete (#74795)
-
-Cataclysm-DDA experimental build 2024-06-26-1304 (ad0c03d)
 * Added (explicit) roofs to community gardens (#74781)
 * PSEUDO is a flag and not an ammo_effect (#74784)
 * Travel to: fix travel to on ramps (#74762)
