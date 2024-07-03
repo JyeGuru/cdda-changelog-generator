@@ -1,3 +1,5 @@
+* Make black tea addicting ([#74860](https://github.com/CleverRaven/Cataclysm-DDA/pull/74860))
+* Militia Community Addendum  ([#74865](https://github.com/CleverRaven/Cataclysm-DDA/pull/74865))
 * [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
 
 ---
@@ -186,7 +188,6 @@
 #### Cataclysm-DDA experimental build 2024-06-26-0308 ([303c00f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-26-0308))
 
 * Travel to: fix travel to on ramps ([#74762](https://github.com/CleverRaven/Cataclysm-DDA/pull/74762))
-* More Gun Variants, Part Iv ([#74691](https://github.com/CleverRaven/Cataclysm-DDA/pull/74691))
 * Palette of surface+roof chunks ([#74779](https://github.com/CleverRaven/Cataclysm-DDA/pull/74779))
 * Add roof to chicken coops ([#74780](https://github.com/CleverRaven/Cataclysm-DDA/pull/74780))
 * Added explicit roofs to hunting blinds ([#74782](https://github.com/CleverRaven/Cataclysm-DDA/pull/74782))
@@ -213,7 +214,6 @@
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde ([#74745](https://github.com/CleverRaven/Cataclysm-DDA/pull/74745))
 * Added roofs to tents and desolate barns ([#74737](https://github.com/CleverRaven/Cataclysm-DDA/pull/74737))
 * Added roofs to greenhouses ([#74750](https://github.com/CleverRaven/Cataclysm-DDA/pull/74750))
-* Add a teeth necklace ([#74692](https://github.com/CleverRaven/Cataclysm-DDA/pull/74692))
 * Miscellaneous Clothing Disassembly’s: 3 ([#74705](https://github.com/CleverRaven/Cataclysm-DDA/pull/74705))
 * Update components of retractable telescope ([#74728](https://github.com/CleverRaven/Cataclysm-DDA/pull/74728))
 * fix displayed .223 guns do not have receiver installed ([#74736](https://github.com/CleverRaven/Cataclysm-DDA/pull/74736))
