@@ -1,3 +1,10 @@
+* [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-03-0229 ([8597172](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-0229))
+
+* [MoM] Fix Revitalizating Mutation not going away ([#74870](https://github.com/CleverRaven/Cataclysm-DDA/pull/74870))
 
 ---
 
@@ -183,11 +190,6 @@
 * Palette of surface+roof chunks ([#74779](https://github.com/CleverRaven/Cataclysm-DDA/pull/74779))
 * Add roof to chicken coops ([#74780](https://github.com/CleverRaven/Cataclysm-DDA/pull/74780))
 * Added explicit roofs to hunting blinds ([#74782](https://github.com/CleverRaven/Cataclysm-DDA/pull/74782))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-26-0044 ([d56fc07](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-26-0044))
-
 * Synchronized bashing to roof and ground level ([#74777](https://github.com/CleverRaven/Cataclysm-DDA/pull/74777))
 * Added roofs to wasp + dermatik nests ([#74776](https://github.com/CleverRaven/Cataclysm-DDA/pull/74776))
 * Try to appease clang ([#74740](https://github.com/CleverRaven/Cataclysm-DDA/pull/74740))
@@ -228,6 +230,4 @@
 * Remove AF-2011A1 ([#74713](https://github.com/CleverRaven/Cataclysm-DDA/pull/74713))
 * Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))
 * [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))
-* Roofs + floors on FEMA camp ([#74690](https://github.com/CleverRaven/Cataclysm-DDA/pull/74690))
-* Fixed monster rain + rotation havoc ([#74687](https://github.com/CleverRaven/Cataclysm-DDA/pull/74687))
 *  Remove shockstorm from electric skelezombos ([#74693](https://github.com/CleverRaven/Cataclysm-DDA/pull/74693))

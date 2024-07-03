@@ -1,3 +1,7 @@
+* [MoM] Add Revitalizing Meditation ongoing costs (#74871)
+
+Cataclysm-DDA experimental build 2024-07-03-0229 (8597172)
+* [MoM] Fix Revitalizating Mutation not going away (#74870)
 
 Cataclysm-DDA experimental build 2024-07-02-2137 (48eb345)
 * Add typed standard coordinate constants + typify active_item_cache (#74823)
@@ -105,8 +109,6 @@ Cataclysm-DDA experimental build 2024-06-26-0308 (303c00f)
 * Palette of surface+roof chunks (#74779)
 * Add roof to chicken coops (#74780)
 * Added explicit roofs to hunting blinds (#74782)
-
-Cataclysm-DDA experimental build 2024-06-26-0044 (d56fc07)
 * Synchronized bashing to roof and ground level (#74777)
 * Added roofs to wasp + dermatik nests (#74776)
 * Try to appease clang (#74740)
@@ -147,6 +149,4 @@ Cataclysm-DDA experimental build 2024-06-26-0044 (d56fc07)
 * Remove AF-2011A1 (#74713)
 * Remove Reloaded Ammo Failure (#74707)
 * [Xedra Evolved] Vampires can just drink blood (#74709)
-* Roofs + floors on FEMA camp (#74690)
-* Fixed monster rain + rotation havoc (#74687)
 *  Remove shockstorm from electric skelezombos (#74693)
