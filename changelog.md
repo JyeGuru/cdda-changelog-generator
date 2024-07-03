@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-03-0458 ([ef74789](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-0458))
+
 * Make black tea addicting ([#74860](https://github.com/CleverRaven/Cataclysm-DDA/pull/74860))
 * Militia Community Addendum  ([#74865](https://github.com/CleverRaven/Cataclysm-DDA/pull/74865))
 * [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
@@ -182,11 +187,6 @@
 
 * Added (explicit) roofs to community gardens ([#74781](https://github.com/CleverRaven/Cataclysm-DDA/pull/74781))
 * PSEUDO is a flag and not an ammo_effect ([#74784](https://github.com/CleverRaven/Cataclysm-DDA/pull/74784))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-26-0308 ([303c00f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-26-0308))
-
 * Travel to: fix travel to on ramps ([#74762](https://github.com/CleverRaven/Cataclysm-DDA/pull/74762))
 * Palette of surface+roof chunks ([#74779](https://github.com/CleverRaven/Cataclysm-DDA/pull/74779))
 * Add roof to chicken coops ([#74780](https://github.com/CleverRaven/Cataclysm-DDA/pull/74780))
