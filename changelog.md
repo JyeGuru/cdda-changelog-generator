@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-07-03-2146 ([e8b3208](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-03-2146))
+
+* Backport #71156 for 0.H ([#74882](https://github.com/CleverRaven/Cataclysm-DDA/pull/74882))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-03-2023 ([9332ebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-2023))
 
 * Add note about points pool in FMS ([#74879](https://github.com/CleverRaven/Cataclysm-DDA/pull/74879))
@@ -180,11 +186,6 @@
 
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing ([#74798](https://github.com/CleverRaven/Cataclysm-DDA/pull/74798))
 * Backport 71500 (Fix MOLLE pouches hiding stored items and showing incorrect movecosts) ([#74797](https://github.com/CleverRaven/Cataclysm-DDA/pull/74797))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-27-1417 ([17f2b41](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-27-1417))
-
 * Nerf to-hit of lucern hammer ([#74802](https://github.com/CleverRaven/Cataclysm-DDA/pull/74802))
 * Appease clang ([#74734](https://github.com/CleverRaven/Cataclysm-DDA/pull/74734))
 * Remove bloated comments from translation files ([#74789](https://github.com/CleverRaven/Cataclysm-DDA/pull/74789))
@@ -222,7 +223,6 @@
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde ([#74745](https://github.com/CleverRaven/Cataclysm-DDA/pull/74745))
 * Added roofs to tents and desolate barns ([#74737](https://github.com/CleverRaven/Cataclysm-DDA/pull/74737))
 * Added roofs to greenhouses ([#74750](https://github.com/CleverRaven/Cataclysm-DDA/pull/74750))
-* Miscellaneous Clothing Disassembly’s: 3 ([#74705](https://github.com/CleverRaven/Cataclysm-DDA/pull/74705))
 * Update components of retractable telescope ([#74728](https://github.com/CleverRaven/Cataclysm-DDA/pull/74728))
 * fix displayed .223 guns do not have receiver installed ([#74736](https://github.com/CleverRaven/Cataclysm-DDA/pull/74736))
 * Fixed rotation and spawning issues ([#74732](https://github.com/CleverRaven/Cataclysm-DDA/pull/74732))
