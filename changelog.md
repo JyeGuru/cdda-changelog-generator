@@ -1,3 +1,10 @@
+* Weekly Changelog 2024-06-24 to 2024-07-01 ([#74855](https://github.com/CleverRaven/Cataclysm-DDA/pull/74855))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-03-1303 ([fce8d46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-1303))
+
+* More vampire additions ([#74822](https://github.com/CleverRaven/Cataclysm-DDA/pull/74822))
 
 ---
 
@@ -115,12 +122,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-06-28-1939 ([d054031](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-1939))
-
-* Clean up overmap drawing code and consolidate to one function ([#74700](https://github.com/CleverRaven/Cataclysm-DDA/pull/74700))
-
----
-
 #### Cataclysm-DDA experimental build 2024-06-28-1704 ([d18e0a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-1704))
 
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
@@ -230,4 +231,3 @@
 * Remove AF-2011A1 ([#74713](https://github.com/CleverRaven/Cataclysm-DDA/pull/74713))
 * Remove Reloaded Ammo Failure ([#74707](https://github.com/CleverRaven/Cataclysm-DDA/pull/74707))
 * [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))
-*  Remove shockstorm from electric skelezombos ([#74693](https://github.com/CleverRaven/Cataclysm-DDA/pull/74693))

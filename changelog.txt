@@ -1,3 +1,7 @@
+* Weekly Changelog 2024-06-24 to 2024-07-01 (#74855)
+
+Cataclysm-DDA experimental build 2024-07-03-1303 (fce8d46)
+* More vampire additions (#74822)
 
 Cataclysm-DDA experimental build 2024-07-03-0458 (ef74789)
 * Make black tea addicting (#74860)
@@ -61,9 +65,6 @@ Cataclysm-DDA experimental build 2024-06-29-2015 (50e3375)
 
 Cataclysm-DDA experimental build 2024-06-28-2200 (54bd595)
 * Replace the S&W 619 with the 686 Plus (#74756)
-
-Cataclysm-DDA experimental build 2024-06-28-1939 (d054031)
-* Clean up overmap drawing code and consolidate to one function (#74700)
 
 Cataclysm-DDA experimental build 2024-06-28-1704 (d18e0a0)
 * Feral Crowbar Drop Adjustment (#74817)
@@ -149,4 +150,3 @@ Cataclysm-DDA experimental build 2024-06-26-1304 (ad0c03d)
 * Remove AF-2011A1 (#74713)
 * Remove Reloaded Ammo Failure (#74707)
 * [Xedra Evolved] Vampires can just drink blood (#74709)
-*  Remove shockstorm from electric skelezombos (#74693)
