@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-04-1645 ([bf080d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-04-1645))
+
 * Typify a couple of activity actions ([#74876](https://github.com/CleverRaven/Cataclysm-DDA/pull/74876))
 * Lime, sulphur chunks, rhodonite, and zincite are now categorised as chemicals ([#74890](https://github.com/CleverRaven/Cataclysm-DDA/pull/74890))
 * Remove flavored condom variants ([#74891](https://github.com/CleverRaven/Cataclysm-DDA/pull/74891))
@@ -175,11 +180,6 @@
 * Allow EOCs to check and modify battery charge in items ([#74748](https://github.com/CleverRaven/Cataclysm-DDA/pull/74748))
 * Aftershock: Direct Fusion Gun ([#74803](https://github.com/CleverRaven/Cataclysm-DDA/pull/74803))
 * [MoM] Edit Mood Stabilization values for math ([#74808](https://github.com/CleverRaven/Cataclysm-DDA/pull/74808))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-28-0610 ([68c6c49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-0610))
-
 * [MoM] Fear hawks exist ([#74813](https://github.com/CleverRaven/Cataclysm-DDA/pull/74813))
 * Weekly Changelog 2024-06-17 to 2024-06-24 ([#74744](https://github.com/CleverRaven/Cataclysm-DDA/pull/74744))
 * Vitamin-based allergy ([#74763](https://github.com/CleverRaven/Cataclysm-DDA/pull/74763))

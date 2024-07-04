@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-04-1645 (bf080d9)
 * Typify a couple of activity actions (#74876)
 * Lime, sulphur chunks, rhodonite, and zincite are now categorised as chemicals (#74890)
 * Remove flavored condom variants (#74891)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2024-06-28-0827 (0dabb58)
 * Allow EOCs to check and modify battery charge in items (#74748)
 * Aftershock: Direct Fusion Gun (#74803)
 * [MoM] Edit Mood Stabilization values for math (#74808)
-
-Cataclysm-DDA experimental build 2024-06-28-0610 (68c6c49)
 * [MoM] Fear hawks exist (#74813)
 * Weekly Changelog 2024-06-17 to 2024-06-24 (#74744)
 * Vitamin-based allergy (#74763)
