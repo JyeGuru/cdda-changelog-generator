@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-04-2221 ([8c32140](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-04-2221))
+
+* [TropiCata] Velvet worm audit ([#74901](https://github.com/CleverRaven/Cataclysm-DDA/pull/74901))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-04-1645 ([bf080d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-04-1645))
 
 * Typify a couple of activity actions ([#74876](https://github.com/CleverRaven/Cataclysm-DDA/pull/74876))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-06-28-1704 ([d18e0a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-1704))
 
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-28-0827 ([0dabb58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-0827))
-
 * Make the fourth tier of vampirism possible to obtain + add related NPC ([#74799](https://github.com/CleverRaven/Cataclysm-DDA/pull/74799))
 * Adds the Rossi RP63 revolver ([#74778](https://github.com/CleverRaven/Cataclysm-DDA/pull/74778))
 * Allow EOCs to check and modify battery charge in items ([#74748](https://github.com/CleverRaven/Cataclysm-DDA/pull/74748))
@@ -213,7 +214,6 @@
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
 * [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
 * [Magiclysm] Add a Translocator Gate to the Forge of Wonders. Also add consumable Forge warp scrolls. ([#74738](https://github.com/CleverRaven/Cataclysm-DDA/pull/74738))
-* Add Colt Anaconda ([#74719](https://github.com/CleverRaven/Cataclysm-DDA/pull/74719))
 * Provided roofs for exodii crash site + debug mx spawn support ([#74754](https://github.com/CleverRaven/Cataclysm-DDA/pull/74754))
 * Moved zombie cage roofs to only generate when the cages are ([#74752](https://github.com/CleverRaven/Cataclysm-DDA/pull/74752))
 * [MoM] Add the BARKY flag to appropriate powers ([#74757](https://github.com/CleverRaven/Cataclysm-DDA/pull/74757))
