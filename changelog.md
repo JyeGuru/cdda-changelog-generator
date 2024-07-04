@@ -1,3 +1,7 @@
+* Lime, sulphur chunks, rhodonite, and zincite are now categorised as chemicals ([#74890](https://github.com/CleverRaven/Cataclysm-DDA/pull/74890))
+* Remove flavored condom variants ([#74891](https://github.com/CleverRaven/Cataclysm-DDA/pull/74891))
+* Remove plut_cell from electronics itemgroup ([#74883](https://github.com/CleverRaven/Cataclysm-DDA/pull/74883))
+* Update gunshow search range ([#74885](https://github.com/CleverRaven/Cataclysm-DDA/pull/74885))
 
 ---
 
@@ -176,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-06-28-0610 ([68c6c49](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-0610))
 
 * [MoM] Fear hawks exist ([#74813](https://github.com/CleverRaven/Cataclysm-DDA/pull/74813))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-27-2347 ([b2c9b79](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-27-2347))
-
 * Weekly Changelog 2024-06-17 to 2024-06-24 ([#74744](https://github.com/CleverRaven/Cataclysm-DDA/pull/74744))
 * Vitamin-based allergy ([#74763](https://github.com/CleverRaven/Cataclysm-DDA/pull/74763))
 * Typified action.h/cpp ([#74796](https://github.com/CleverRaven/Cataclysm-DDA/pull/74796))
@@ -231,8 +230,4 @@
 * Balancing recipe imbalances due to red phosphorus weight changes ([#74722](https://github.com/CleverRaven/Cataclysm-DDA/pull/74722))
 * Fix bug in gun variant validator script ([#74727](https://github.com/CleverRaven/Cataclysm-DDA/pull/74727))
 * Adds the Rossi Gallery ([#74724](https://github.com/CleverRaven/Cataclysm-DDA/pull/74724))
-* Routine i18n updates on 22 June 2024 ([#74712](https://github.com/CleverRaven/Cataclysm-DDA/pull/74712))
-* Fix Overmap Terrain Entry EOC ([#74711](https://github.com/CleverRaven/Cataclysm-DDA/pull/74711))
 * Added roofs to FEMA 2 buildings ([#74718](https://github.com/CleverRaven/Cataclysm-DDA/pull/74718))
-* Remove AF-2011A1 ([#74713](https://github.com/CleverRaven/Cataclysm-DDA/pull/74713))
-* [Xedra Evolved] Vampires can just drink blood ([#74709](https://github.com/CleverRaven/Cataclysm-DDA/pull/74709))
