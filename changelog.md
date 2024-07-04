@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-04-0601 ([40bc019](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-04-0601))
+
 * Default quadruped animal weakpoint set ([#74873](https://github.com/CleverRaven/Cataclysm-DDA/pull/74873))
 
 ---
@@ -180,11 +185,6 @@
 * Vitamin-based allergy ([#74763](https://github.com/CleverRaven/Cataclysm-DDA/pull/74763))
 * Typified action.h/cpp ([#74796](https://github.com/CleverRaven/Cataclysm-DDA/pull/74796))
 * Offspring inherit friendly ([#74805](https://github.com/CleverRaven/Cataclysm-DDA/pull/74805))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-27-2118 ([0a58b84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-27-2118))
-
 * [Bugfixes] Fix concentration metamagic sign flipping ([#74810](https://github.com/CleverRaven/Cataclysm-DDA/pull/74810))
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing ([#74798](https://github.com/CleverRaven/Cataclysm-DDA/pull/74798))
 * Backport 71500 (Fix MOLLE pouches hiding stored items and showing incorrect movecosts) ([#74797](https://github.com/CleverRaven/Cataclysm-DDA/pull/74797))
