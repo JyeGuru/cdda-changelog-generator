@@ -1,3 +1,4 @@
+* Restore mutant bug spawns + Normalize their evolution timers ([#74904](https://github.com/CleverRaven/Cataclysm-DDA/pull/74904))
 
 ---
 
@@ -235,4 +236,3 @@
 * Update components of retractable telescope ([#74728](https://github.com/CleverRaven/Cataclysm-DDA/pull/74728))
 * fix displayed .223 guns do not have receiver installed ([#74736](https://github.com/CleverRaven/Cataclysm-DDA/pull/74736))
 * Fixed rotation and spawning issues ([#74732](https://github.com/CleverRaven/Cataclysm-DDA/pull/74732))
-* Fix bug in gun variant validator script ([#74727](https://github.com/CleverRaven/Cataclysm-DDA/pull/74727))

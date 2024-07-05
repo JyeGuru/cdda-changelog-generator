@@ -1,3 +1,4 @@
+* Restore mutant bug spawns + Normalize their evolution timers (#74904)
 
 Cataclysm-DDA experimental build 2024-07-05-1725 (250198c)
 * [Xedra Evolved] Full vampires need stolen blood in their body to heal (#74912)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2024-06-28-2200 (54bd595)
 * Update components of retractable telescope (#74728)
 * fix displayed .223 guns do not have receiver installed (#74736)
 * Fixed rotation and spawning issues (#74732)
-* Fix bug in gun variant validator script (#74727)
