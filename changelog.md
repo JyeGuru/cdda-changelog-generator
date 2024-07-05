@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-05-1725 ([250198c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-05-1725))
+
+* [Xedra Evolved] Full vampires need stolen blood in their body to heal ([#74912](https://github.com/CleverRaven/Cataclysm-DDA/pull/74912))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-07-05-0342 ([47cb4c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-05-0342))
 
 * Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) ([#74908](https://github.com/CleverRaven/Cataclysm-DDA/pull/74908))
@@ -230,4 +236,3 @@
 * fix displayed .223 guns do not have receiver installed ([#74736](https://github.com/CleverRaven/Cataclysm-DDA/pull/74736))
 * Fixed rotation and spawning issues ([#74732](https://github.com/CleverRaven/Cataclysm-DDA/pull/74732))
 * Fix bug in gun variant validator script ([#74727](https://github.com/CleverRaven/Cataclysm-DDA/pull/74727))
-* Adds the Rossi Gallery ([#74724](https://github.com/CleverRaven/Cataclysm-DDA/pull/74724))
