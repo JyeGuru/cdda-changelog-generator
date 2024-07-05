@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-07-05-0342 ([47cb4c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-05-0342))
+
+* Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) ([#74908](https://github.com/CleverRaven/Cataclysm-DDA/pull/74908))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-04-2221 ([8c32140](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-04-2221))
 
 * [TropiCata] Velvet worm audit ([#74901](https://github.com/CleverRaven/Cataclysm-DDA/pull/74901))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-06-28-2200 ([54bd595](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-2200))
 
 * Replace the S&W 619 with the 686 Plus ([#74756](https://github.com/CleverRaven/Cataclysm-DDA/pull/74756))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-28-1704 ([d18e0a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-1704))
-
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
 * Make the fourth tier of vampirism possible to obtain + add related NPC ([#74799](https://github.com/CleverRaven/Cataclysm-DDA/pull/74799))
 * Adds the Rossi RP63 revolver ([#74778](https://github.com/CleverRaven/Cataclysm-DDA/pull/74778))
@@ -228,6 +229,5 @@
 * Update components of retractable telescope ([#74728](https://github.com/CleverRaven/Cataclysm-DDA/pull/74728))
 * fix displayed .223 guns do not have receiver installed ([#74736](https://github.com/CleverRaven/Cataclysm-DDA/pull/74736))
 * Fixed rotation and spawning issues ([#74732](https://github.com/CleverRaven/Cataclysm-DDA/pull/74732))
-* Balancing recipe imbalances due to red phosphorus weight changes ([#74722](https://github.com/CleverRaven/Cataclysm-DDA/pull/74722))
 * Fix bug in gun variant validator script ([#74727](https://github.com/CleverRaven/Cataclysm-DDA/pull/74727))
 * Adds the Rossi Gallery ([#74724](https://github.com/CleverRaven/Cataclysm-DDA/pull/74724))
