@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-05-2002 ([f45ceda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-05-2002))
+
 * Restore mutant bug spawns + Normalize their evolution timers ([#74904](https://github.com/CleverRaven/Cataclysm-DDA/pull/74904))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-06-29-2015 ([50e3375](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-29-2015))
 
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-28-2200 ([54bd595](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-28-2200))
-
 * Replace the S&W 619 with the 686 Plus ([#74756](https://github.com/CleverRaven/Cataclysm-DDA/pull/74756))
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
 * Make the fourth tier of vampirism possible to obtain + add related NPC ([#74799](https://github.com/CleverRaven/Cataclysm-DDA/pull/74799))
