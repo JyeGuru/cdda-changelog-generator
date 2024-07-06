@@ -173,11 +173,6 @@
 #### Cataclysm-DDA experimental build 2024-06-30-2320 ([5c72e5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-30-2320))
 
 * [Aftershock] Add Habitat Block 3 to Exoplanet ([#74838](https://github.com/CleverRaven/Cataclysm-DDA/pull/74838))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-30-1704 ([24a4eb9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-30-1704))
-
 * Add 12-bit rainbow color palette ([#74842](https://github.com/CleverRaven/Cataclysm-DDA/pull/74842))
 * [AFS/MoM] Rework Electron Overflow for new power EoC functionality ([#74769](https://github.com/CleverRaven/Cataclysm-DDA/pull/74769))
 * [MoM] Fix Prescient Tactics learning  ([#74839](https://github.com/CleverRaven/Cataclysm-DDA/pull/74839))
