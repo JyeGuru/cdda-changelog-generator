@@ -1,3 +1,4 @@
+* fix variable name error in example eoc ([#74917](https://github.com/CleverRaven/Cataclysm-DDA/pull/74917))
 
 ---
 
@@ -215,7 +216,6 @@
 * Synchronized bashing to roof and ground level ([#74777](https://github.com/CleverRaven/Cataclysm-DDA/pull/74777))
 * Added roofs to wasp + dermatik nests ([#74776](https://github.com/CleverRaven/Cataclysm-DDA/pull/74776))
 * Try to appease clang ([#74740](https://github.com/CleverRaven/Cataclysm-DDA/pull/74740))
-* [Xedra Evolved] Vampire Powers overhaul ([#74729](https://github.com/CleverRaven/Cataclysm-DDA/pull/74729))
 * Change references to "intensity" to "duration" in effect_duration math function description ([#74764](https://github.com/CleverRaven/Cataclysm-DDA/pull/74764))
 * Remove vending machines from gunshop ([#74770](https://github.com/CleverRaven/Cataclysm-DDA/pull/74770))
 * [Bombastic Perks] Add blood-themed perks ([#74761](https://github.com/CleverRaven/Cataclysm-DDA/pull/74761))

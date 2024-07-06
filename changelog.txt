@@ -1,3 +1,4 @@
+* fix variable name error in example eoc (#74917)
 
 Cataclysm-DDA experimental build 2024-07-06-0052 (05f9550)
 * [TropiCata] Make velvet worms zombify (#74914)
@@ -131,7 +132,6 @@ Cataclysm-DDA experimental build 2024-06-29-2246 (3e49694)
 * Synchronized bashing to roof and ground level (#74777)
 * Added roofs to wasp + dermatik nests (#74776)
 * Try to appease clang (#74740)
-* [Xedra Evolved] Vampire Powers overhaul (#74729)
 * Change references to "intensity" to "duration" in effect_duration math function description (#74764)
 * Remove vending machines from gunshop (#74770)
 * [Bombastic Perks] Add blood-themed perks (#74761)
