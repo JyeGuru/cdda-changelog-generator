@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-06-0052 ([05f9550](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-06-0052))
+
+* [TropiCata] Make velvet worms zombify ([#74914](https://github.com/CleverRaven/Cataclysm-DDA/pull/74914))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-05-2002 ([f45ceda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-05-2002))
 
 * Restore mutant bug spawns + Normalize their evolution timers ([#74904](https://github.com/CleverRaven/Cataclysm-DDA/pull/74904))
@@ -176,11 +182,6 @@
 * Make tree communion full function not depend on playing the game in English ([#74830](https://github.com/CleverRaven/Cataclysm-DDA/pull/74830))
 * Routine i18n updates on 29 June 2024 ([#74829](https://github.com/CleverRaven/Cataclysm-DDA/pull/74829))
 * Bugfix: LIXA Teleport Deaths ([#74831](https://github.com/CleverRaven/Cataclysm-DDA/pull/74831))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-29-2015 ([50e3375](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-29-2015))
-
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
 * Replace the S&W 619 with the 686 Plus ([#74756](https://github.com/CleverRaven/Cataclysm-DDA/pull/74756))
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
@@ -233,6 +234,5 @@
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde ([#74745](https://github.com/CleverRaven/Cataclysm-DDA/pull/74745))
 * Added roofs to tents and desolate barns ([#74737](https://github.com/CleverRaven/Cataclysm-DDA/pull/74737))
 * Added roofs to greenhouses ([#74750](https://github.com/CleverRaven/Cataclysm-DDA/pull/74750))
-* Update components of retractable telescope ([#74728](https://github.com/CleverRaven/Cataclysm-DDA/pull/74728))
 * fix displayed .223 guns do not have receiver installed ([#74736](https://github.com/CleverRaven/Cataclysm-DDA/pull/74736))
 * Fixed rotation and spawning issues ([#74732](https://github.com/CleverRaven/Cataclysm-DDA/pull/74732))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-07-06-0052 (05f9550)
+* [TropiCata] Make velvet worms zombify (#74914)
+
 Cataclysm-DDA experimental build 2024-07-05-2002 (f45ceda)
 * Restore mutant bug spawns + Normalize their evolution timers (#74904)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2024-06-29-2246 (3e49694)
 * Make tree communion full function not depend on playing the game in English (#74830)
 * Routine i18n updates on 29 June 2024 (#74829)
 * Bugfix: LIXA Teleport Deaths (#74831)
-
-Cataclysm-DDA experimental build 2024-06-29-2015 (50e3375)
 * Fix incorrect grabbed vehicle falling logic (#74835)
 * Replace the S&W 619 with the 686 Plus (#74756)
 * Feral Crowbar Drop Adjustment (#74817)
@@ -149,6 +150,5 @@ Cataclysm-DDA experimental build 2024-06-29-2015 (50e3375)
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde (#74745)
 * Added roofs to tents and desolate barns (#74737)
 * Added roofs to greenhouses (#74750)
-* Update components of retractable telescope (#74728)
 * fix displayed .223 guns do not have receiver installed (#74736)
 * Fixed rotation and spawning issues (#74732)
