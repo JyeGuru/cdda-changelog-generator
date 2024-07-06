@@ -1,3 +1,4 @@
+* Routine i18n updates on 06 July 2024 (#74927)
 
 Cataclysm-DDA experimental build 2024-07-06-1550 (76bd02d)
 * remove the social and scent making effects from skunk spray (#74922)
@@ -150,4 +151,3 @@ Cataclysm-DDA experimental build 2024-06-30-1704 (24a4eb9)
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde (#74745)
 * Added roofs to tents and desolate barns (#74737)
 * Added roofs to greenhouses (#74750)
-* fix displayed .223 guns do not have receiver installed (#74736)

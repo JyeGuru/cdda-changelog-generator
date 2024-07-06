@@ -1,3 +1,4 @@
+* Routine i18n updates on 06 July 2024 ([#74927](https://github.com/CleverRaven/Cataclysm-DDA/pull/74927))
 
 ---
 
@@ -234,4 +235,3 @@
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde ([#74745](https://github.com/CleverRaven/Cataclysm-DDA/pull/74745))
 * Added roofs to tents and desolate barns ([#74737](https://github.com/CleverRaven/Cataclysm-DDA/pull/74737))
 * Added roofs to greenhouses ([#74750](https://github.com/CleverRaven/Cataclysm-DDA/pull/74750))
-* fix displayed .223 guns do not have receiver installed ([#74736](https://github.com/CleverRaven/Cataclysm-DDA/pull/74736))
