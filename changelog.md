@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-06-0342 ([0df94b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-06-0342))
+
 * fix variable name error in example eoc ([#74917](https://github.com/CleverRaven/Cataclysm-DDA/pull/74917))
 
 ---
@@ -174,11 +179,6 @@
 #### Cataclysm-DDA experimental build 2024-06-30-1418 ([1ce006e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-30-1418))
 
 * [MoM] Fix Prescient Tactics learning  ([#74839](https://github.com/CleverRaven/Cataclysm-DDA/pull/74839))
-
----
-
-#### Cataclysm-DDA experimental build 2024-06-29-2246 ([3e49694](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-06-29-2246))
-
 * Picky Eater is mutually exclusive with Gourmand ([#74837](https://github.com/CleverRaven/Cataclysm-DDA/pull/74837))
 * Make tree communion full function not depend on playing the game in English ([#74830](https://github.com/CleverRaven/Cataclysm-DDA/pull/74830))
 * Routine i18n updates on 29 June 2024 ([#74829](https://github.com/CleverRaven/Cataclysm-DDA/pull/74829))

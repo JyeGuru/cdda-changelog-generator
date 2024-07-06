@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-06-0342 (0df94b5)
 * fix variable name error in example eoc (#74917)
 
 Cataclysm-DDA experimental build 2024-07-06-0052 (05f9550)
@@ -93,8 +95,6 @@ Cataclysm-DDA experimental build 2024-06-30-1704 (24a4eb9)
 
 Cataclysm-DDA experimental build 2024-06-30-1418 (1ce006e)
 * [MoM] Fix Prescient Tactics learning  (#74839)
-
-Cataclysm-DDA experimental build 2024-06-29-2246 (3e49694)
 * Picky Eater is mutually exclusive with Gourmand (#74837)
 * Make tree communion full function not depend on playing the game in English (#74830)
 * Routine i18n updates on 29 June 2024 (#74829)
