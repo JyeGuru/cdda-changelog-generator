@@ -201,7 +201,6 @@
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing ([#74798](https://github.com/CleverRaven/Cataclysm-DDA/pull/74798))
 * Backport 71500 (Fix MOLLE pouches hiding stored items and showing incorrect movecosts) ([#74797](https://github.com/CleverRaven/Cataclysm-DDA/pull/74797))
 * Nerf to-hit of lucern hammer ([#74802](https://github.com/CleverRaven/Cataclysm-DDA/pull/74802))
-* Appease clang ([#74734](https://github.com/CleverRaven/Cataclysm-DDA/pull/74734))
 * Remove bloated comments from translation files ([#74789](https://github.com/CleverRaven/Cataclysm-DDA/pull/74789))
 * Added roof to river cave ([#74791](https://github.com/CleverRaven/Cataclysm-DDA/pull/74791))
 * Added roofs to nether monster surface parts ([#74792](https://github.com/CleverRaven/Cataclysm-DDA/pull/74792))
