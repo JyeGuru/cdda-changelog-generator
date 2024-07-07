@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-07-07-0311 (79f0cfd)
+* fix vitamin enchantment condition (#74929)
 * Routine i18n updates on 06 July 2024 (#74927)
 
 Cataclysm-DDA experimental build 2024-07-06-1550 (76bd02d)
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2024-07-01-0424 (1ac2756)
 Cataclysm-DDA experimental build 2024-07-01-0127 (2f860b4)
 * Fetlock furs fix (#74834)
 * Make the ``monsters`` GitHub label actually get applied - Attempt 2 (#74851)
-
-Cataclysm-DDA experimental build 2024-06-30-2320 (5c72e5b)
 * [Aftershock] Add Habitat Block 3 to Exoplanet (#74838)
 * Add 12-bit rainbow color palette (#74842)
 * [AFS/MoM] Rework Electron Overflow for new power EoC functionality (#74769)
@@ -147,5 +148,4 @@ Cataclysm-DDA experimental build 2024-06-30-2320 (5c72e5b)
 * Fix NPC crafting message (#74739)
 * Added roofs to garden greenhouses and shed (#74751)
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde (#74745)
-* Added roofs to tents and desolate barns (#74737)
 * Added roofs to greenhouses (#74750)
