@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-07-0553 ([8d22462](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-07-0553))
+
 * Fix typo in balance scores for webbed, sludged, and sap ([#74932](https://github.com/CleverRaven/Cataclysm-DDA/pull/74932))
 * Fixed wrong "spoils_in" value for some food (fixes #70297) ([#74898](https://github.com/CleverRaven/Cataclysm-DDA/pull/74898))
 * Update 48x-"Locutus" effect wording ([#74905](https://github.com/CleverRaven/Cataclysm-DDA/pull/74905))
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-07-01-0424 ([1ac2756](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-0424))
 
 * [TropiCata] Scorpion audit + two tiny termite follow-up fixes ([#74849](https://github.com/CleverRaven/Cataclysm-DDA/pull/74849))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-01-0127 ([2f860b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-0127))
-
 * Fetlock furs fix ([#74834](https://github.com/CleverRaven/Cataclysm-DDA/pull/74834))
 * Make the ``monsters`` GitHub label actually get applied - Attempt 2 ([#74851](https://github.com/CleverRaven/Cataclysm-DDA/pull/74851))
 * [Aftershock] Add Habitat Block 3 to Exoplanet ([#74838](https://github.com/CleverRaven/Cataclysm-DDA/pull/74838))
