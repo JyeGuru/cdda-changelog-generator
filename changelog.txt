@@ -1,3 +1,4 @@
+* Fix rearward towing (#74916)
 
 Cataclysm-DDA experimental build 2024-07-07-1604 (aee440b)
 * [Xedra Evolved] Full vampires' healing speed is increased with blood but bandages do nothing (#74921)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2024-07-01-0638 (4f065b5)
 * Add roofs to market stalls (#74760)
 * Added roof to two shacks (#74758)
 * Added roofs to garden greenhouses and shed (#74751)
-* Added roofs to greenhouses (#74750)
