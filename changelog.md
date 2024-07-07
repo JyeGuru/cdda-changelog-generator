@@ -1,3 +1,5 @@
+* Update 48x-"Locutus" effect wording ([#74905](https://github.com/CleverRaven/Cataclysm-DDA/pull/74905))
+* Fix minor mapgen errors ([#74934](https://github.com/CleverRaven/Cataclysm-DDA/pull/74934))
 
 ---
 
@@ -219,14 +221,12 @@
 * Correct an oversight from #72490 ([#74765](https://github.com/CleverRaven/Cataclysm-DDA/pull/74765))
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
 * [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
-* [Magiclysm] Add a Translocator Gate to the Forge of Wonders. Also add consumable Forge warp scrolls. ([#74738](https://github.com/CleverRaven/Cataclysm-DDA/pull/74738))
 * Provided roofs for exodii crash site + debug mx spawn support ([#74754](https://github.com/CleverRaven/Cataclysm-DDA/pull/74754))
 * Moved zombie cage roofs to only generate when the cages are ([#74752](https://github.com/CleverRaven/Cataclysm-DDA/pull/74752))
 * [MoM] Add the BARKY flag to appropriate powers ([#74757](https://github.com/CleverRaven/Cataclysm-DDA/pull/74757))
 * Phosphorus ([#74759](https://github.com/CleverRaven/Cataclysm-DDA/pull/74759))
 * Add roofs to market stalls ([#74760](https://github.com/CleverRaven/Cataclysm-DDA/pull/74760))
 * Added roof to two shacks ([#74758](https://github.com/CleverRaven/Cataclysm-DDA/pull/74758))
-* Fix NPC crafting message ([#74739](https://github.com/CleverRaven/Cataclysm-DDA/pull/74739))
 * Added roofs to garden greenhouses and shed ([#74751](https://github.com/CleverRaven/Cataclysm-DDA/pull/74751))
 * [Xedra Evolved] Add the BARKY flag to Arvora and Ierde ([#74745](https://github.com/CleverRaven/Cataclysm-DDA/pull/74745))
 * Added roofs to greenhouses ([#74750](https://github.com/CleverRaven/Cataclysm-DDA/pull/74750))
