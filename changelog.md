@@ -1,3 +1,4 @@
+* fix loading of traps ([#74928](https://github.com/CleverRaven/Cataclysm-DDA/pull/74928))
 * Fix rearward towing ([#74916](https://github.com/CleverRaven/Cataclysm-DDA/pull/74916))
 
 ---
@@ -228,4 +229,3 @@
 * Phosphorus ([#74759](https://github.com/CleverRaven/Cataclysm-DDA/pull/74759))
 * Add roofs to market stalls ([#74760](https://github.com/CleverRaven/Cataclysm-DDA/pull/74760))
 * Added roof to two shacks ([#74758](https://github.com/CleverRaven/Cataclysm-DDA/pull/74758))
-* Added roofs to garden greenhouses and shed ([#74751](https://github.com/CleverRaven/Cataclysm-DDA/pull/74751))

@@ -1,3 +1,4 @@
+* fix loading of traps (#74928)
 * Fix rearward towing (#74916)
 
 Cataclysm-DDA experimental build 2024-07-07-1604 (aee440b)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2024-07-01-0638 (4f065b5)
 * Phosphorus (#74759)
 * Add roofs to market stalls (#74760)
 * Added roof to two shacks (#74758)
-* Added roofs to garden greenhouses and shed (#74751)
