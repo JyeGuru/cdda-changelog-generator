@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-07-1825 ([28e6a2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-07-1825))
+
 * Updates to debug menu ([#74910](https://github.com/CleverRaven/Cataclysm-DDA/pull/74910))
 * fix loading of traps ([#74928](https://github.com/CleverRaven/Cataclysm-DDA/pull/74928))
 * Fix rearward towing ([#74916](https://github.com/CleverRaven/Cataclysm-DDA/pull/74916))
@@ -171,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-07-01-1436 ([8b1d698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-1436))
 
 * [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-01-0638 ([4f065b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-0638))
-
 * Fix android bug ([#74841](https://github.com/CleverRaven/Cataclysm-DDA/pull/74841))
 * Reduce Anthill Spawns ([#74824](https://github.com/CleverRaven/Cataclysm-DDA/pull/74824))
 * [TropiCata] Scorpion audit + two tiny termite follow-up fixes ([#74849](https://github.com/CleverRaven/Cataclysm-DDA/pull/74849))
