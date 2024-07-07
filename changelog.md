@@ -1,3 +1,5 @@
+* Fix typo in balance scores for webbed, sludged, and sap ([#74932](https://github.com/CleverRaven/Cataclysm-DDA/pull/74932))
+* Fixed wrong "spoils_in" value for some food (fixes #70297) ([#74898](https://github.com/CleverRaven/Cataclysm-DDA/pull/74898))
 * Update 48x-"Locutus" effect wording ([#74905](https://github.com/CleverRaven/Cataclysm-DDA/pull/74905))
 * Fix minor mapgen errors ([#74934](https://github.com/CleverRaven/Cataclysm-DDA/pull/74934))
 
@@ -192,7 +194,6 @@
 * Aftershock: Direct Fusion Gun ([#74803](https://github.com/CleverRaven/Cataclysm-DDA/pull/74803))
 * [MoM] Edit Mood Stabilization values for math ([#74808](https://github.com/CleverRaven/Cataclysm-DDA/pull/74808))
 * [MoM] Fear hawks exist ([#74813](https://github.com/CleverRaven/Cataclysm-DDA/pull/74813))
-* Weekly Changelog 2024-06-17 to 2024-06-24 ([#74744](https://github.com/CleverRaven/Cataclysm-DDA/pull/74744))
 * Vitamin-based allergy ([#74763](https://github.com/CleverRaven/Cataclysm-DDA/pull/74763))
 * Typified action.h/cpp ([#74796](https://github.com/CleverRaven/Cataclysm-DDA/pull/74796))
 * Offspring inherit friendly ([#74805](https://github.com/CleverRaven/Cataclysm-DDA/pull/74805))
@@ -227,5 +228,4 @@
 * Add roofs to market stalls ([#74760](https://github.com/CleverRaven/Cataclysm-DDA/pull/74760))
 * Added roof to two shacks ([#74758](https://github.com/CleverRaven/Cataclysm-DDA/pull/74758))
 * Added roofs to garden greenhouses and shed ([#74751](https://github.com/CleverRaven/Cataclysm-DDA/pull/74751))
-* [Xedra Evolved] Add the BARKY flag to Arvora and Ierde ([#74745](https://github.com/CleverRaven/Cataclysm-DDA/pull/74745))
 * Added roofs to greenhouses ([#74750](https://github.com/CleverRaven/Cataclysm-DDA/pull/74750))
