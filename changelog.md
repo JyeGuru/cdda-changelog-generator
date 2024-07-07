@@ -1,3 +1,4 @@
+* Updates to debug menu ([#74910](https://github.com/CleverRaven/Cataclysm-DDA/pull/74910))
 * fix loading of traps ([#74928](https://github.com/CleverRaven/Cataclysm-DDA/pull/74928))
 * Fix rearward towing ([#74916](https://github.com/CleverRaven/Cataclysm-DDA/pull/74916))
 
@@ -224,7 +225,6 @@
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
 * [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
 * Provided roofs for exodii crash site + debug mx spawn support ([#74754](https://github.com/CleverRaven/Cataclysm-DDA/pull/74754))
-* Moved zombie cage roofs to only generate when the cages are ([#74752](https://github.com/CleverRaven/Cataclysm-DDA/pull/74752))
 * [MoM] Add the BARKY flag to appropriate powers ([#74757](https://github.com/CleverRaven/Cataclysm-DDA/pull/74757))
 * Phosphorus ([#74759](https://github.com/CleverRaven/Cataclysm-DDA/pull/74759))
 * Add roofs to market stalls ([#74760](https://github.com/CleverRaven/Cataclysm-DDA/pull/74760))
