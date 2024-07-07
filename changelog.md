@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-07-1604 ([aee440b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-07-1604))
+
+* [Xedra Evolved] Full vampires' healing speed is increased with blood but bandages do nothing ([#74921](https://github.com/CleverRaven/Cataclysm-DDA/pull/74921))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-07-0553 ([8d22462](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-07-0553))
 
 * Fix typo in balance scores for webbed, sludged, and sap ([#74932](https://github.com/CleverRaven/Cataclysm-DDA/pull/74932))
@@ -169,11 +175,6 @@
 
 * Fix android bug ([#74841](https://github.com/CleverRaven/Cataclysm-DDA/pull/74841))
 * Reduce Anthill Spawns ([#74824](https://github.com/CleverRaven/Cataclysm-DDA/pull/74824))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-01-0424 ([1ac2756](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-0424))
-
 * [TropiCata] Scorpion audit + two tiny termite follow-up fixes ([#74849](https://github.com/CleverRaven/Cataclysm-DDA/pull/74849))
 * Fetlock furs fix ([#74834](https://github.com/CleverRaven/Cataclysm-DDA/pull/74834))
 * Make the ``monsters`` GitHub label actually get applied - Attempt 2 ([#74851](https://github.com/CleverRaven/Cataclysm-DDA/pull/74851))
@@ -190,7 +191,6 @@
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
 * Make the fourth tier of vampirism possible to obtain + add related NPC ([#74799](https://github.com/CleverRaven/Cataclysm-DDA/pull/74799))
 * Adds the Rossi RP63 revolver ([#74778](https://github.com/CleverRaven/Cataclysm-DDA/pull/74778))
-* Allow EOCs to check and modify battery charge in items ([#74748](https://github.com/CleverRaven/Cataclysm-DDA/pull/74748))
 * Aftershock: Direct Fusion Gun ([#74803](https://github.com/CleverRaven/Cataclysm-DDA/pull/74803))
 * [MoM] Edit Mood Stabilization values for math ([#74808](https://github.com/CleverRaven/Cataclysm-DDA/pull/74808))
 * [MoM] Fear hawks exist ([#74813](https://github.com/CleverRaven/Cataclysm-DDA/pull/74813))
