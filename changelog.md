@@ -1,3 +1,4 @@
+* typified submap.h/cpp ([#74911](https://github.com/CleverRaven/Cataclysm-DDA/pull/74911))
 
 ---
 
@@ -204,7 +205,6 @@
 * Aftershock: Direct Fusion Gun ([#74803](https://github.com/CleverRaven/Cataclysm-DDA/pull/74803))
 * [MoM] Edit Mood Stabilization values for math ([#74808](https://github.com/CleverRaven/Cataclysm-DDA/pull/74808))
 * [MoM] Fear hawks exist ([#74813](https://github.com/CleverRaven/Cataclysm-DDA/pull/74813))
-* Vitamin-based allergy ([#74763](https://github.com/CleverRaven/Cataclysm-DDA/pull/74763))
 * Typified action.h/cpp ([#74796](https://github.com/CleverRaven/Cataclysm-DDA/pull/74796))
 * Offspring inherit friendly ([#74805](https://github.com/CleverRaven/Cataclysm-DDA/pull/74805))
 * [Bugfixes] Fix concentration metamagic sign flipping ([#74810](https://github.com/CleverRaven/Cataclysm-DDA/pull/74810))

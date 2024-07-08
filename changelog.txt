@@ -1,3 +1,4 @@
+* typified submap.h/cpp (#74911)
 
 Cataclysm-DDA experimental build 2024-07-08-1756 (e7d0f7d)
 * Extract personal effects from "science" item group, remove cannabis paraphernalia (#74894)
@@ -123,7 +124,6 @@ Cataclysm-DDA experimental build 2024-07-02-0131 (3fd721c)
 * Aftershock: Direct Fusion Gun (#74803)
 * [MoM] Edit Mood Stabilization values for math (#74808)
 * [MoM] Fear hawks exist (#74813)
-* Vitamin-based allergy (#74763)
 * Typified action.h/cpp (#74796)
 * Offspring inherit friendly (#74805)
 * [Bugfixes] Fix concentration metamagic sign flipping (#74810)
