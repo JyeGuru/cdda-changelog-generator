@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-08-2013 ([1e228ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-08-2013))
+
 * typified submap.h/cpp ([#74911](https://github.com/CleverRaven/Cataclysm-DDA/pull/74911))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-07-02-1621 ([5034ef8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-1621))
 
 * Fix android build ([#74869](https://github.com/CleverRaven/Cataclysm-DDA/pull/74869))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-02-0131 ([3fd721c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-0131))
-
 * Update and modernize FMS ([#74859](https://github.com/CleverRaven/Cataclysm-DDA/pull/74859))
 * Small rat audit ([#74827](https://github.com/CleverRaven/Cataclysm-DDA/pull/74827))
 * [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
