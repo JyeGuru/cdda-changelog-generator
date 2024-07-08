@@ -1,3 +1,4 @@
+* Extract personal effects from "science" item group, remove cannabis paraphernalia ([#74894](https://github.com/CleverRaven/Cataclysm-DDA/pull/74894))
 * burglar profession has the safecracking proficiency ([#74889](https://github.com/CleverRaven/Cataclysm-DDA/pull/74889))
 * refine ammo uncraft ([#74895](https://github.com/CleverRaven/Cataclysm-DDA/pull/74895))
 * [Xedra Evolved] Vampire blood gift research ([#74909](https://github.com/CleverRaven/Cataclysm-DDA/pull/74909))
@@ -218,7 +219,6 @@
 * Change natural rock floor to concrete ([#74795](https://github.com/CleverRaven/Cataclysm-DDA/pull/74795))
 * Added (explicit) roofs to community gardens ([#74781](https://github.com/CleverRaven/Cataclysm-DDA/pull/74781))
 * PSEUDO is a flag and not an ammo_effect ([#74784](https://github.com/CleverRaven/Cataclysm-DDA/pull/74784))
-* Travel to: fix travel to on ramps ([#74762](https://github.com/CleverRaven/Cataclysm-DDA/pull/74762))
 * Palette of surface+roof chunks ([#74779](https://github.com/CleverRaven/Cataclysm-DDA/pull/74779))
 * Add roof to chicken coops ([#74780](https://github.com/CleverRaven/Cataclysm-DDA/pull/74780))
 * Added explicit roofs to hunting blinds ([#74782](https://github.com/CleverRaven/Cataclysm-DDA/pull/74782))
