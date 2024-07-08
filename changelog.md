@@ -1,3 +1,7 @@
+* [Xedra Evolved] Vampire blood gift research ([#74909](https://github.com/CleverRaven/Cataclysm-DDA/pull/74909))
+* A few new NPC story snippets ([#74924](https://github.com/CleverRaven/Cataclysm-DDA/pull/74924))
+* [TropiCata] Audit mutant invert wilderness spawns ([#74930](https://github.com/CleverRaven/Cataclysm-DDA/pull/74930))
+* Making Bakeries Not Suck: Part One ([#74938](https://github.com/CleverRaven/Cataclysm-DDA/pull/74938))
 
 ---
 
@@ -191,7 +195,6 @@
 * Routine i18n updates on 29 June 2024 ([#74829](https://github.com/CleverRaven/Cataclysm-DDA/pull/74829))
 * Bugfix: LIXA Teleport Deaths ([#74831](https://github.com/CleverRaven/Cataclysm-DDA/pull/74831))
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
-* Replace the S&W 619 with the 686 Plus ([#74756](https://github.com/CleverRaven/Cataclysm-DDA/pull/74756))
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
 * Make the fourth tier of vampirism possible to obtain + add related NPC ([#74799](https://github.com/CleverRaven/Cataclysm-DDA/pull/74799))
 * Adds the Rossi RP63 revolver ([#74778](https://github.com/CleverRaven/Cataclysm-DDA/pull/74778))
@@ -225,7 +228,4 @@
 * Correct an oversight from #72490 ([#74765](https://github.com/CleverRaven/Cataclysm-DDA/pull/74765))
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
 * [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
-* [MoM] Add the BARKY flag to appropriate powers ([#74757](https://github.com/CleverRaven/Cataclysm-DDA/pull/74757))
-* Phosphorus ([#74759](https://github.com/CleverRaven/Cataclysm-DDA/pull/74759))
 * Add roofs to market stalls ([#74760](https://github.com/CleverRaven/Cataclysm-DDA/pull/74760))
-* Added roof to two shacks ([#74758](https://github.com/CleverRaven/Cataclysm-DDA/pull/74758))
