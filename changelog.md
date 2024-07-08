@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-08-2301 ([d630308](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-08-2301))
+
 * Regenerating zombie evolutions ([#74880](https://github.com/CleverRaven/Cataclysm-DDA/pull/74880))
 * Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
 
@@ -178,11 +183,6 @@
 * Migrate NPC rules to a new, dedicated imgui menu ([#74854](https://github.com/CleverRaven/Cataclysm-DDA/pull/74854))
 * Make hardtack easier to make ([#74856](https://github.com/CleverRaven/Cataclysm-DDA/pull/74856))
 * clean water stays clean in tanks ([#74863](https://github.com/CleverRaven/Cataclysm-DDA/pull/74863))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-02-1621 ([5034ef8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-1621))
-
 * Fix android build ([#74869](https://github.com/CleverRaven/Cataclysm-DDA/pull/74869))
 * Update and modernize FMS ([#74859](https://github.com/CleverRaven/Cataclysm-DDA/pull/74859))
 * Small rat audit ([#74827](https://github.com/CleverRaven/Cataclysm-DDA/pull/74827))

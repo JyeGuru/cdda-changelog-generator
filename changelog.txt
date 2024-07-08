@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-08-2301 (d630308)
 * Regenerating zombie evolutions (#74880)
 * Weekly Changelog 2024-07-01 to 2024-07-08 (#74946)
 
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2024-07-02-1906 (1bd5c31)
 * Migrate NPC rules to a new, dedicated imgui menu (#74854)
 * Make hardtack easier to make (#74856)
 * clean water stays clean in tanks (#74863)
-
-Cataclysm-DDA experimental build 2024-07-02-1621 (5034ef8)
 * Fix android build (#74869)
 * Update and modernize FMS (#74859)
 * Small rat audit (#74827)
