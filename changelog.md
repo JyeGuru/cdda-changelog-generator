@@ -1,3 +1,5 @@
+* Regenerating zombie evolutions ([#74880](https://github.com/CleverRaven/Cataclysm-DDA/pull/74880))
+* Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
 
 ---
 
@@ -224,8 +226,6 @@
 * Added explicit roofs to hunting blinds ([#74782](https://github.com/CleverRaven/Cataclysm-DDA/pull/74782))
 * Synchronized bashing to roof and ground level ([#74777](https://github.com/CleverRaven/Cataclysm-DDA/pull/74777))
 * Added roofs to wasp + dermatik nests ([#74776](https://github.com/CleverRaven/Cataclysm-DDA/pull/74776))
-* Change references to "intensity" to "duration" in effect_duration math function description ([#74764](https://github.com/CleverRaven/Cataclysm-DDA/pull/74764))
 * Remove vending machines from gunshop ([#74770](https://github.com/CleverRaven/Cataclysm-DDA/pull/74770))
-* Correct an oversight from #72490 ([#74765](https://github.com/CleverRaven/Cataclysm-DDA/pull/74765))
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
 * [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
