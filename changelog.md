@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-08-1454 ([44b397c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-08-1454))
+
+* Add Samosas ([#74940](https://github.com/CleverRaven/Cataclysm-DDA/pull/74940))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-07-1825 ([28e6a2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-07-1825))
 
 * Updates to debug menu ([#74910](https://github.com/CleverRaven/Cataclysm-DDA/pull/74910))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-07-01-1706 ([e9c22bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-1706))
 
 * Small rat audit ([#74827](https://github.com/CleverRaven/Cataclysm-DDA/pull/74827))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-01-1436 ([8b1d698](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-1436))
-
 * [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
 * Fix android bug ([#74841](https://github.com/CleverRaven/Cataclysm-DDA/pull/74841))
 * Reduce Anthill Spawns ([#74824](https://github.com/CleverRaven/Cataclysm-DDA/pull/74824))
@@ -224,7 +225,6 @@
 * Correct an oversight from #72490 ([#74765](https://github.com/CleverRaven/Cataclysm-DDA/pull/74765))
 * Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
 * [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
-* Provided roofs for exodii crash site + debug mx spawn support ([#74754](https://github.com/CleverRaven/Cataclysm-DDA/pull/74754))
 * [MoM] Add the BARKY flag to appropriate powers ([#74757](https://github.com/CleverRaven/Cataclysm-DDA/pull/74757))
 * Phosphorus ([#74759](https://github.com/CleverRaven/Cataclysm-DDA/pull/74759))
 * Add roofs to market stalls ([#74760](https://github.com/CleverRaven/Cataclysm-DDA/pull/74760))
