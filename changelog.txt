@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-08-1756 (e7d0f7d)
 * Extract personal effects from "science" item group, remove cannabis paraphernalia (#74894)
 * burglar profession has the safecracking proficiency (#74889)
 * refine ammo uncraft (#74895)
@@ -99,8 +101,6 @@ Cataclysm-DDA experimental build 2024-07-02-1621 (5034ef8)
 
 Cataclysm-DDA experimental build 2024-07-02-0131 (3fd721c)
 * Update and modernize FMS (#74859)
-
-Cataclysm-DDA experimental build 2024-07-01-1706 (e9c22bc)
 * Small rat audit (#74827)
 * [Magiclysm] Dust Reborn clears rads (#74857)
 * Fix android bug (#74841)

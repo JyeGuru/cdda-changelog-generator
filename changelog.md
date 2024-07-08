@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-08-1756 ([e7d0f7d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-08-1756))
+
 * Extract personal effects from "science" item group, remove cannabis paraphernalia ([#74894](https://github.com/CleverRaven/Cataclysm-DDA/pull/74894))
 * burglar profession has the safecracking proficiency ([#74889](https://github.com/CleverRaven/Cataclysm-DDA/pull/74889))
 * refine ammo uncraft ([#74895](https://github.com/CleverRaven/Cataclysm-DDA/pull/74895))
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-07-02-0131 ([3fd721c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-0131))
 
 * Update and modernize FMS ([#74859](https://github.com/CleverRaven/Cataclysm-DDA/pull/74859))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-01-1706 ([e9c22bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-01-1706))
-
 * Small rat audit ([#74827](https://github.com/CleverRaven/Cataclysm-DDA/pull/74827))
 * [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
 * Fix android bug ([#74841](https://github.com/CleverRaven/Cataclysm-DDA/pull/74841))
