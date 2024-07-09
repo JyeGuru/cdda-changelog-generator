@@ -1,3 +1,4 @@
+* Readd (Some) Condom Flavours (#74935)
 * Trap fixes and cyborg species fix (#74943)
 * Audit Carnivore for items with volumes indivisible by 50ml (#74888)
 
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2024-07-03-0229 (8597172)
 * Fix incorrect grabbed vehicle falling logic (#74835)
 * Feral Crowbar Drop Adjustment (#74817)
 * Make the fourth tier of vampirism possible to obtain + add related NPC (#74799)
-* Adds the Rossi RP63 revolver (#74778)
 * Aftershock: Direct Fusion Gun (#74803)
 * [MoM] Edit Mood Stabilization values for math (#74808)
 * [MoM] Fear hawks exist (#74813)

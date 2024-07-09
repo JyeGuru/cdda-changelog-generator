@@ -1,3 +1,4 @@
+* Readd (Some) Condom Flavours ([#74935](https://github.com/CleverRaven/Cataclysm-DDA/pull/74935))
 * Trap fixes and cyborg species fix ([#74943](https://github.com/CleverRaven/Cataclysm-DDA/pull/74943))
 * Audit Carnivore for items with volumes indivisible by 50ml ([#74888](https://github.com/CleverRaven/Cataclysm-DDA/pull/74888))
 
@@ -208,7 +209,6 @@
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
 * Make the fourth tier of vampirism possible to obtain + add related NPC ([#74799](https://github.com/CleverRaven/Cataclysm-DDA/pull/74799))
-* Adds the Rossi RP63 revolver ([#74778](https://github.com/CleverRaven/Cataclysm-DDA/pull/74778))
 * Aftershock: Direct Fusion Gun ([#74803](https://github.com/CleverRaven/Cataclysm-DDA/pull/74803))
 * [MoM] Edit Mood Stabilization values for math ([#74808](https://github.com/CleverRaven/Cataclysm-DDA/pull/74808))
 * [MoM] Fear hawks exist ([#74813](https://github.com/CleverRaven/Cataclysm-DDA/pull/74813))
