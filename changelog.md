@@ -143,11 +143,6 @@
 #### Cataclysm-DDA experimental build 2024-07-04-0311 ([9f14179](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-04-0311))
 
 * put a lab_file_serum_testing in a box ([#74884](https://github.com/CleverRaven/Cataclysm-DDA/pull/74884))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-07-03-2146 ([e8b3208](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-03-2146))
-
 * Backport #71156 for 0.H ([#74882](https://github.com/CleverRaven/Cataclysm-DDA/pull/74882))
 
 ---
