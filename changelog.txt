@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-07-09-1354 (5bfa3c4)
+* Artificial Night Generator do not grant invis (#74947)
+
 Cataclysm-DDA experimental build 2024-07-09-0155 (7f1fea9)
 * Jsonized end screen: How I learned to stop worrying and win the Cataclysm (#74844)
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) (#74951)
@@ -97,8 +100,6 @@ Cataclysm-DDA experimental build 2024-07-03-0458 (ef74789)
 
 Cataclysm-DDA experimental build 2024-07-03-0229 (8597172)
 * [MoM] Fix Revitalizating Mutation not going away (#74870)
-
-Cataclysm-DDA experimental build 2024-07-02-2137 (48eb345)
 * Add typed standard coordinate constants + typify active_item_cache (#74823)
 * `SPEAR` flag removed from items that also does not possess the `REACH_ATTACK` or `REACH3` flag. (#74848)
 * Routine tileset updates on 01 July 2024 (#74853)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2024-07-02-2137 (48eb345)
 * Added explicit roofs to hunting blinds (#74782)
 * Synchronized bashing to roof and ground level (#74777)
 * Added roofs to wasp + dermatik nests (#74776)
-* Remove vending machines from gunshop (#74770)

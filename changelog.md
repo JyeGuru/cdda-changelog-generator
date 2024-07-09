@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-09-1354 ([5bfa3c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-09-1354))
+
+* Artificial Night Generator do not grant invis ([#74947](https://github.com/CleverRaven/Cataclysm-DDA/pull/74947))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-09-0155 ([7f1fea9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-09-0155))
 
 * Jsonized end screen: How I learned to stop worrying and win the Cataclysm ([#74844](https://github.com/CleverRaven/Cataclysm-DDA/pull/74844))
@@ -175,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-07-03-0229 ([8597172](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-0229))
 
 * [MoM] Fix Revitalizating Mutation not going away ([#74870](https://github.com/CleverRaven/Cataclysm-DDA/pull/74870))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-02-2137 ([48eb345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-2137))
-
 * Add typed standard coordinate constants + typify active_item_cache ([#74823](https://github.com/CleverRaven/Cataclysm-DDA/pull/74823))
 * `SPEAR` flag removed from items that also does not possess the `REACH_ATTACK` or `REACH3` flag. ([#74848](https://github.com/CleverRaven/Cataclysm-DDA/pull/74848))
 * Routine tileset updates on 01 July 2024 ([#74853](https://github.com/CleverRaven/Cataclysm-DDA/pull/74853))
@@ -228,4 +229,3 @@
 * Added explicit roofs to hunting blinds ([#74782](https://github.com/CleverRaven/Cataclysm-DDA/pull/74782))
 * Synchronized bashing to roof and ground level ([#74777](https://github.com/CleverRaven/Cataclysm-DDA/pull/74777))
 * Added roofs to wasp + dermatik nests ([#74776](https://github.com/CleverRaven/Cataclysm-DDA/pull/74776))
-* Remove vending machines from gunshop ([#74770](https://github.com/CleverRaven/Cataclysm-DDA/pull/74770))
