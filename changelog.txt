@@ -1,3 +1,5 @@
+* Trap fixes and cyborg species fix (#74943)
+* Audit Carnivore for items with volumes indivisible by 50ml (#74888)
 
 Cataclysm-DDA experimental build 2024-07-09-1354 (5bfa3c4)
 * Artificial Night Generator do not grant invis (#74947)
@@ -146,5 +148,3 @@ Cataclysm-DDA experimental build 2024-07-03-0229 (8597172)
 * Palette of surface+roof chunks (#74779)
 * Add roof to chicken coops (#74780)
 * Added explicit roofs to hunting blinds (#74782)
-* Synchronized bashing to roof and ground level (#74777)
-* Added roofs to wasp + dermatik nests (#74776)

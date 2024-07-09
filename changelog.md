@@ -1,3 +1,5 @@
+* Trap fixes and cyborg species fix ([#74943](https://github.com/CleverRaven/Cataclysm-DDA/pull/74943))
+* Audit Carnivore for items with volumes indivisible by 50ml ([#74888](https://github.com/CleverRaven/Cataclysm-DDA/pull/74888))
 
 ---
 
@@ -227,5 +229,3 @@
 * Palette of surface+roof chunks ([#74779](https://github.com/CleverRaven/Cataclysm-DDA/pull/74779))
 * Add roof to chicken coops ([#74780](https://github.com/CleverRaven/Cataclysm-DDA/pull/74780))
 * Added explicit roofs to hunting blinds ([#74782](https://github.com/CleverRaven/Cataclysm-DDA/pull/74782))
-* Synchronized bashing to roof and ground level ([#74777](https://github.com/CleverRaven/Cataclysm-DDA/pull/74777))
-* Added roofs to wasp + dermatik nests ([#74776](https://github.com/CleverRaven/Cataclysm-DDA/pull/74776))
