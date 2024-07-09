@@ -1,6 +1,14 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-09-0155 ([7f1fea9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-09-0155))
+
+* Jsonized end screen: How I learned to stop worrying and win the Cataclysm ([#74844](https://github.com/CleverRaven/Cataclysm-DDA/pull/74844))
+* [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
+* [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-08-2301 ([d630308](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-08-2301))
 
 * Regenerating zombie evolutions ([#74880](https://github.com/CleverRaven/Cataclysm-DDA/pull/74880))
@@ -173,11 +181,6 @@
 #### Cataclysm-DDA experimental build 2024-07-02-2137 ([48eb345](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-2137))
 
 * Add typed standard coordinate constants + typify active_item_cache ([#74823](https://github.com/CleverRaven/Cataclysm-DDA/pull/74823))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-02-1906 ([1bd5c31](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-02-1906))
-
 * `SPEAR` flag removed from items that also does not possess the `REACH_ATTACK` or `REACH3` flag. ([#74848](https://github.com/CleverRaven/Cataclysm-DDA/pull/74848))
 * Routine tileset updates on 01 July 2024 ([#74853](https://github.com/CleverRaven/Cataclysm-DDA/pull/74853))
 * Migrate NPC rules to a new, dedicated imgui menu ([#74854](https://github.com/CleverRaven/Cataclysm-DDA/pull/74854))
@@ -194,7 +197,6 @@
 * Make the ``monsters`` GitHub label actually get applied - Attempt 2 ([#74851](https://github.com/CleverRaven/Cataclysm-DDA/pull/74851))
 * [Aftershock] Add Habitat Block 3 to Exoplanet ([#74838](https://github.com/CleverRaven/Cataclysm-DDA/pull/74838))
 * Add 12-bit rainbow color palette ([#74842](https://github.com/CleverRaven/Cataclysm-DDA/pull/74842))
-* [AFS/MoM] Rework Electron Overflow for new power EoC functionality ([#74769](https://github.com/CleverRaven/Cataclysm-DDA/pull/74769))
 * [MoM] Fix Prescient Tactics learning  ([#74839](https://github.com/CleverRaven/Cataclysm-DDA/pull/74839))
 * Picky Eater is mutually exclusive with Gourmand ([#74837](https://github.com/CleverRaven/Cataclysm-DDA/pull/74837))
 * Make tree communion full function not depend on playing the game in English ([#74830](https://github.com/CleverRaven/Cataclysm-DDA/pull/74830))
@@ -227,5 +229,3 @@
 * Synchronized bashing to roof and ground level ([#74777](https://github.com/CleverRaven/Cataclysm-DDA/pull/74777))
 * Added roofs to wasp + dermatik nests ([#74776](https://github.com/CleverRaven/Cataclysm-DDA/pull/74776))
 * Remove vending machines from gunshop ([#74770](https://github.com/CleverRaven/Cataclysm-DDA/pull/74770))
-* Correct some remnants of nonfunctional ``extend``/``delete`` syntax ([#74768](https://github.com/CleverRaven/Cataclysm-DDA/pull/74768))
-* [Magiclysm] Add Hy-Brasilean ambassadorial honor guard profession ([#74767](https://github.com/CleverRaven/Cataclysm-DDA/pull/74767))
