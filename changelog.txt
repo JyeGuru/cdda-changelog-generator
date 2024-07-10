@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-07-10-1648 (ad4cdcc)
+* [Xedra Evolved] Add vampire transformation powers (#74965)
+
 Cataclysm-DDA experimental build 2024-07-10-0115 (b65512d)
 * Adjust criteria for building roofs (#74948)
 * [Magiclysm] Druid's Nature's Communion morale scales (#74954)
@@ -99,8 +102,6 @@ Cataclysm-DDA experimental build 2024-07-03-1542 (f581edd)
 
 Cataclysm-DDA experimental build 2024-07-03-1303 (fce8d46)
 * More vampire additions (#74822)
-
-Cataclysm-DDA experimental build 2024-07-03-0458 (ef74789)
 * Make black tea addicting (#74860)
 * Militia Community Addendum  (#74865)
 * [MoM] Add Revitalizing Meditation ongoing costs (#74871)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2024-07-03-0458 (ef74789)
 * Add roof to small scrapyard shack (#74793)
 * natural rock floor -> concrete (#74794)
 * Change natural rock floor to concrete (#74795)
-* PSEUDO is a flag and not an ammo_effect (#74784)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-10-1648 ([ad4cdcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-10-1648))
+
+* [Xedra Evolved] Add vampire transformation powers ([#74965](https://github.com/CleverRaven/Cataclysm-DDA/pull/74965))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-10-0115 ([b65512d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-10-0115))
 
 * Adjust criteria for building roofs ([#74948](https://github.com/CleverRaven/Cataclysm-DDA/pull/74948))
@@ -174,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-07-03-1303 ([fce8d46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-1303))
 
 * More vampire additions ([#74822](https://github.com/CleverRaven/Cataclysm-DDA/pull/74822))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-03-0458 ([ef74789](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-0458))
-
 * Make black tea addicting ([#74860](https://github.com/CleverRaven/Cataclysm-DDA/pull/74860))
 * Militia Community Addendum  ([#74865](https://github.com/CleverRaven/Cataclysm-DDA/pull/74865))
 * [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
@@ -223,4 +224,3 @@
 * Add roof to small scrapyard shack ([#74793](https://github.com/CleverRaven/Cataclysm-DDA/pull/74793))
 * natural rock floor -> concrete ([#74794](https://github.com/CleverRaven/Cataclysm-DDA/pull/74794))
 * Change natural rock floor to concrete ([#74795](https://github.com/CleverRaven/Cataclysm-DDA/pull/74795))
-* PSEUDO is a flag and not an ammo_effect ([#74784](https://github.com/CleverRaven/Cataclysm-DDA/pull/74784))
