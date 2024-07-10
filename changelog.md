@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-10-0115 ([b65512d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-10-0115))
+
+* Adjust criteria for building roofs ([#74948](https://github.com/CleverRaven/Cataclysm-DDA/pull/74948))
 * [Magiclysm] Druid's Nature's Communion morale scales ([#74954](https://github.com/CleverRaven/Cataclysm-DDA/pull/74954))
 * [Xedra Evolved] Paraclesian fae cannot wield items made of steel or iron without problems (except Homullus) ([#74956](https://github.com/CleverRaven/Cataclysm-DDA/pull/74956))
 * add missing threshes to NECC blacklist ([#74959](https://github.com/CleverRaven/Cataclysm-DDA/pull/74959))
@@ -176,11 +182,6 @@
 * Make black tea addicting ([#74860](https://github.com/CleverRaven/Cataclysm-DDA/pull/74860))
 * Militia Community Addendum  ([#74865](https://github.com/CleverRaven/Cataclysm-DDA/pull/74865))
 * [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-03-0229 ([8597172](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-0229))
-
 * [MoM] Fix Revitalizating Mutation not going away ([#74870](https://github.com/CleverRaven/Cataclysm-DDA/pull/74870))
 * Add typed standard coordinate constants + typify active_item_cache ([#74823](https://github.com/CleverRaven/Cataclysm-DDA/pull/74823))
 * `SPEAR` flag removed from items that also does not possess the `REACH_ATTACK` or `REACH3` flag. ([#74848](https://github.com/CleverRaven/Cataclysm-DDA/pull/74848))
@@ -223,4 +224,3 @@
 * natural rock floor -> concrete ([#74794](https://github.com/CleverRaven/Cataclysm-DDA/pull/74794))
 * Change natural rock floor to concrete ([#74795](https://github.com/CleverRaven/Cataclysm-DDA/pull/74795))
 * PSEUDO is a flag and not an ammo_effect ([#74784](https://github.com/CleverRaven/Cataclysm-DDA/pull/74784))
-* Added explicit roofs to hunting blinds ([#74782](https://github.com/CleverRaven/Cataclysm-DDA/pull/74782))
