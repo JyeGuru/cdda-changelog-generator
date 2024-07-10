@@ -174,11 +174,6 @@
 #### Cataclysm-DDA experimental build 2024-07-03-1542 ([f581edd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-1542))
 
 * Weekly Changelog 2024-06-24 to 2024-07-01 ([#74855](https://github.com/CleverRaven/Cataclysm-DDA/pull/74855))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-03-1303 ([fce8d46](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-1303))
-
 * More vampire additions ([#74822](https://github.com/CleverRaven/Cataclysm-DDA/pull/74822))
 * Make black tea addicting ([#74860](https://github.com/CleverRaven/Cataclysm-DDA/pull/74860))
 * Militia Community Addendum  ([#74865](https://github.com/CleverRaven/Cataclysm-DDA/pull/74865))

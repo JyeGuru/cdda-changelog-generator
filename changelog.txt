@@ -99,8 +99,6 @@ Cataclysm-DDA experimental build 2024-07-03-1803 (8824cac)
 
 Cataclysm-DDA experimental build 2024-07-03-1542 (f581edd)
 * Weekly Changelog 2024-06-24 to 2024-07-01 (#74855)
-
-Cataclysm-DDA experimental build 2024-07-03-1303 (fce8d46)
 * More vampire additions (#74822)
 * Make black tea addicting (#74860)
 * Militia Community Addendum  (#74865)
