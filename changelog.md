@@ -1,3 +1,7 @@
+* Sōjutsu "Way of the spear" martial art *actually* uses spears now ([#74952](https://github.com/CleverRaven/Cataclysm-DDA/pull/74952))
+* Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
+* Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
+* Resize Hardtack into Hardtack Crackers ([#74887](https://github.com/CleverRaven/Cataclysm-DDA/pull/74887))
 
 ---
 
@@ -168,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2024-07-03-1803 ([8824cac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-1803))
 
 * base hardtack is inedible ([#74874](https://github.com/CleverRaven/Cataclysm-DDA/pull/74874))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-03-1542 ([f581edd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-1542))
-
 * Weekly Changelog 2024-06-24 to 2024-07-01 ([#74855](https://github.com/CleverRaven/Cataclysm-DDA/pull/74855))
 * More vampire additions ([#74822](https://github.com/CleverRaven/Cataclysm-DDA/pull/74822))
 * Make black tea addicting ([#74860](https://github.com/CleverRaven/Cataclysm-DDA/pull/74860))
@@ -213,9 +212,5 @@
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing ([#74798](https://github.com/CleverRaven/Cataclysm-DDA/pull/74798))
 * Backport 71500 (Fix MOLLE pouches hiding stored items and showing incorrect movecosts) ([#74797](https://github.com/CleverRaven/Cataclysm-DDA/pull/74797))
 * Nerf to-hit of lucern hammer ([#74802](https://github.com/CleverRaven/Cataclysm-DDA/pull/74802))
-* Remove bloated comments from translation files ([#74789](https://github.com/CleverRaven/Cataclysm-DDA/pull/74789))
-* Added roof to river cave ([#74791](https://github.com/CleverRaven/Cataclysm-DDA/pull/74791))
-* Added roofs to nether monster surface parts ([#74792](https://github.com/CleverRaven/Cataclysm-DDA/pull/74792))
-* Add roof to small scrapyard shack ([#74793](https://github.com/CleverRaven/Cataclysm-DDA/pull/74793))
 * natural rock floor -> concrete ([#74794](https://github.com/CleverRaven/Cataclysm-DDA/pull/74794))
 * Change natural rock floor to concrete ([#74795](https://github.com/CleverRaven/Cataclysm-DDA/pull/74795))
