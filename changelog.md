@@ -211,5 +211,4 @@
 * Offspring inherit friendly ([#74805](https://github.com/CleverRaven/Cataclysm-DDA/pull/74805))
 * [Bugfixes] Fix concentration metamagic sign flipping ([#74810](https://github.com/CleverRaven/Cataclysm-DDA/pull/74810))
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing ([#74798](https://github.com/CleverRaven/Cataclysm-DDA/pull/74798))
-* Backport 71500 (Fix MOLLE pouches hiding stored items and showing incorrect movecosts) ([#74797](https://github.com/CleverRaven/Cataclysm-DDA/pull/74797))
 * Nerf to-hit of lucern hammer ([#74802](https://github.com/CleverRaven/Cataclysm-DDA/pull/74802))
