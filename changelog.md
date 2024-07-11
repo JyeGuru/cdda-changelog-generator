@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-11-0546 ([e418d44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-11-0546))
+
 * Augustmoon tool trader ([#74961](https://github.com/CleverRaven/Cataclysm-DDA/pull/74961))
 
 ---
@@ -166,11 +171,6 @@
 
 * put a lab_file_serum_testing in a box ([#74884](https://github.com/CleverRaven/Cataclysm-DDA/pull/74884))
 * Backport #71156 for 0.H ([#74882](https://github.com/CleverRaven/Cataclysm-DDA/pull/74882))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-03-2023 ([9332ebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-2023))
-
 * Add note about points pool in FMS ([#74879](https://github.com/CleverRaven/Cataclysm-DDA/pull/74879))
 * base hardtack is inedible ([#74874](https://github.com/CleverRaven/Cataclysm-DDA/pull/74874))
 * Weekly Changelog 2024-06-24 to 2024-07-01 ([#74855](https://github.com/CleverRaven/Cataclysm-DDA/pull/74855))
