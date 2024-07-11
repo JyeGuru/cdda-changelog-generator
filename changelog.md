@@ -1,3 +1,4 @@
+* Augustmoon tool trader ([#74961](https://github.com/CleverRaven/Cataclysm-DDA/pull/74961))
 
 ---
 
@@ -212,5 +213,4 @@
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing ([#74798](https://github.com/CleverRaven/Cataclysm-DDA/pull/74798))
 * Backport 71500 (Fix MOLLE pouches hiding stored items and showing incorrect movecosts) ([#74797](https://github.com/CleverRaven/Cataclysm-DDA/pull/74797))
 * Nerf to-hit of lucern hammer ([#74802](https://github.com/CleverRaven/Cataclysm-DDA/pull/74802))
-* natural rock floor -> concrete ([#74794](https://github.com/CleverRaven/Cataclysm-DDA/pull/74794))
 * Change natural rock floor to concrete ([#74795](https://github.com/CleverRaven/Cataclysm-DDA/pull/74795))

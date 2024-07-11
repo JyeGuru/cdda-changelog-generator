@@ -1,3 +1,4 @@
+* Augustmoon tool trader (#74961)
 
 Cataclysm-DDA experimental build 2024-07-11-0323 (d540791)
 * Sōjutsu "Way of the spear" martial art *actually* uses spears now (#74952)
@@ -140,5 +141,4 @@ Cataclysm-DDA experimental build 2024-07-03-2023 (9332ebc)
 * [Magiclysm] Fix Spell Casting Proficiencies not progressing (#74798)
 * Backport 71500 (Fix MOLLE pouches hiding stored items and showing incorrect movecosts) (#74797)
 * Nerf to-hit of lucern hammer (#74802)
-* natural rock floor -> concrete (#74794)
 * Change natural rock floor to concrete (#74795)
