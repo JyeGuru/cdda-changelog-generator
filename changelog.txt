@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-11-0323 (d540791)
 * Sōjutsu "Way of the spear" martial art *actually* uses spears now (#74952)
 * Typified a bit of map.h/cpp (#74963)
 * Bugfix for Appliances Turning Off Randomly (#74964)
@@ -97,8 +99,6 @@ Cataclysm-DDA experimental build 2024-07-04-0311 (9f14179)
 
 Cataclysm-DDA experimental build 2024-07-03-2023 (9332ebc)
 * Add note about points pool in FMS (#74879)
-
-Cataclysm-DDA experimental build 2024-07-03-1803 (8824cac)
 * base hardtack is inedible (#74874)
 * Weekly Changelog 2024-06-24 to 2024-07-01 (#74855)
 * More vampire additions (#74822)

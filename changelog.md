@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-11-0323 ([d540791](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-11-0323))
+
 * Sōjutsu "Way of the spear" martial art *actually* uses spears now ([#74952](https://github.com/CleverRaven/Cataclysm-DDA/pull/74952))
 * Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
 * Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
@@ -166,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2024-07-03-2023 ([9332ebc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-2023))
 
 * Add note about points pool in FMS ([#74879](https://github.com/CleverRaven/Cataclysm-DDA/pull/74879))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-03-1803 ([8824cac](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-03-1803))
-
 * base hardtack is inedible ([#74874](https://github.com/CleverRaven/Cataclysm-DDA/pull/74874))
 * Weekly Changelog 2024-06-24 to 2024-07-01 ([#74855](https://github.com/CleverRaven/Cataclysm-DDA/pull/74855))
 * More vampire additions ([#74822](https://github.com/CleverRaven/Cataclysm-DDA/pull/74822))
