@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-07-12-0321 (32484db)
+* [Xedra Evolved] Give Vampires nighttime overmap sight (#74982)
+
 Cataclysm-DDA experimental build 2024-07-11-2014 (c6913e0)
 * [MoM] Concentrating on maintenance powers also levels metaphysics (#74978)
 
@@ -95,8 +98,6 @@ Cataclysm-DDA experimental build 2024-07-04-1645 (bf080d9)
 * Remove flavored condom variants (#74891)
 * Remove plut_cell from electronics itemgroup (#74883)
 * Update gunshow search range (#74885)
-
-Cataclysm-DDA experimental build 2024-07-04-0601 (40bc019)
 * Default quadruped animal weakpoint set (#74873)
 * put a lab_file_serum_testing in a box (#74884)
 * Backport #71156 for 0.H (#74882)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2024-07-04-0601 (40bc019)
 * [MoM] Fear hawks exist (#74813)
 * Offspring inherit friendly (#74805)
 * [Bugfixes] Fix concentration metamagic sign flipping (#74810)
-* [Magiclysm] Fix Spell Casting Proficiencies not progressing (#74798)
 * Nerf to-hit of lucern hammer (#74802)
