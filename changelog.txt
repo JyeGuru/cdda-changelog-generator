@@ -1,3 +1,4 @@
+* Fix conjunctivitis duration stacking and eyedrops (#74970)
 
 Cataclysm-DDA experimental build 2024-07-12-1858 (fe4755d)
 * [MoM] Pyrokinetics no longer blister when using Flame Immunity (#74984)
@@ -136,6 +137,5 @@ Cataclysm-DDA experimental build 2024-07-05-1725 (250198c)
 * Bugfix: LIXA Teleport Deaths (#74831)
 * Fix incorrect grabbed vehicle falling logic (#74835)
 * Feral Crowbar Drop Adjustment (#74817)
-* [MoM] Edit Mood Stabilization values for math (#74808)
 * [MoM] Fear hawks exist (#74813)
 * [Bugfixes] Fix concentration metamagic sign flipping (#74810)
