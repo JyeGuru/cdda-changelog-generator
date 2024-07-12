@@ -166,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2024-07-05-1725 ([250198c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-05-1725))
 
 * [Xedra Evolved] Full vampires need stolen blood in their body to heal ([#74912](https://github.com/CleverRaven/Cataclysm-DDA/pull/74912))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-07-05-0342 ([47cb4c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-05-0342))
-
 * Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) ([#74908](https://github.com/CleverRaven/Cataclysm-DDA/pull/74908))
 * [TropiCata] Velvet worm audit ([#74901](https://github.com/CleverRaven/Cataclysm-DDA/pull/74901))
 * Typify a couple of activity actions ([#74876](https://github.com/CleverRaven/Cataclysm-DDA/pull/74876))
