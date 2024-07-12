@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-12-1858 ([fe4755d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-12-1858))
+
+* [MoM] Pyrokinetics no longer blister when using Flame Immunity ([#74984](https://github.com/CleverRaven/Cataclysm-DDA/pull/74984))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-12-1547 ([f2db932](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-12-1547))
 
 * Remove the cotton_salted material used in the ichcahuipilli ([#74983](https://github.com/CleverRaven/Cataclysm-DDA/pull/74983))
@@ -166,11 +172,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-07-05-0342 ([47cb4c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-05-0342))
 
 * Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) ([#74908](https://github.com/CleverRaven/Cataclysm-DDA/pull/74908))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-04-2221 ([8c32140](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-04-2221))
-
 * [TropiCata] Velvet worm audit ([#74901](https://github.com/CleverRaven/Cataclysm-DDA/pull/74901))
 * Typify a couple of activity actions ([#74876](https://github.com/CleverRaven/Cataclysm-DDA/pull/74876))
 * Lime, sulphur chunks, rhodonite, and zincite are now categorised as chemicals ([#74890](https://github.com/CleverRaven/Cataclysm-DDA/pull/74890))
@@ -212,7 +213,6 @@
 * Bugfix: LIXA Teleport Deaths ([#74831](https://github.com/CleverRaven/Cataclysm-DDA/pull/74831))
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
-* Aftershock: Direct Fusion Gun ([#74803](https://github.com/CleverRaven/Cataclysm-DDA/pull/74803))
 * [MoM] Edit Mood Stabilization values for math ([#74808](https://github.com/CleverRaven/Cataclysm-DDA/pull/74808))
 * [MoM] Fear hawks exist ([#74813](https://github.com/CleverRaven/Cataclysm-DDA/pull/74813))
 * Offspring inherit friendly ([#74805](https://github.com/CleverRaven/Cataclysm-DDA/pull/74805))
