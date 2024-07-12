@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-12-1547 ([f2db932](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-12-1547))
+
 * Remove the cotton_salted material used in the ichcahuipilli ([#74983](https://github.com/CleverRaven/Cataclysm-DDA/pull/74983))
 
 ---
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2024-07-04-2221 ([8c32140](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-04-2221))
 
 * [TropiCata] Velvet worm audit ([#74901](https://github.com/CleverRaven/Cataclysm-DDA/pull/74901))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-04-1645 ([bf080d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-04-1645))
-
 * Typify a couple of activity actions ([#74876](https://github.com/CleverRaven/Cataclysm-DDA/pull/74876))
 * Lime, sulphur chunks, rhodonite, and zincite are now categorised as chemicals ([#74890](https://github.com/CleverRaven/Cataclysm-DDA/pull/74890))
 * Remove flavored condom variants ([#74891](https://github.com/CleverRaven/Cataclysm-DDA/pull/74891))
