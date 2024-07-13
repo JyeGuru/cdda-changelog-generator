@@ -1,3 +1,11 @@
+* Better EoC support for field search ([#74996](https://github.com/CleverRaven/Cataclysm-DDA/pull/74996))
+* Remove the white phosphorous recipe added in #74599 ([#74997](https://github.com/CleverRaven/Cataclysm-DDA/pull/74997))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-13-1505 ([3a61d58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-1505))
+
+* Routine i18n updates on 13 July 2024 ([#74998](https://github.com/CleverRaven/Cataclysm-DDA/pull/74998))
 
 ---
 
@@ -182,7 +190,6 @@
 * Add note about points pool in FMS ([#74879](https://github.com/CleverRaven/Cataclysm-DDA/pull/74879))
 * base hardtack is inedible ([#74874](https://github.com/CleverRaven/Cataclysm-DDA/pull/74874))
 * Weekly Changelog 2024-06-24 to 2024-07-01 ([#74855](https://github.com/CleverRaven/Cataclysm-DDA/pull/74855))
-* More vampire additions ([#74822](https://github.com/CleverRaven/Cataclysm-DDA/pull/74822))
 * Make black tea addicting ([#74860](https://github.com/CleverRaven/Cataclysm-DDA/pull/74860))
 * Militia Community Addendum  ([#74865](https://github.com/CleverRaven/Cataclysm-DDA/pull/74865))
 * [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
@@ -210,5 +217,3 @@
 * Routine i18n updates on 29 June 2024 ([#74829](https://github.com/CleverRaven/Cataclysm-DDA/pull/74829))
 * Bugfix: LIXA Teleport Deaths ([#74831](https://github.com/CleverRaven/Cataclysm-DDA/pull/74831))
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
-* Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
-* [MoM] Fear hawks exist ([#74813](https://github.com/CleverRaven/Cataclysm-DDA/pull/74813))
