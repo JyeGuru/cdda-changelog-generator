@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-13-0315 ([80a017e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-0315))
+
 * [Xedra Evolved] Vampire form tweaks ([#74995](https://github.com/CleverRaven/Cataclysm-DDA/pull/74995))
 
 ---
@@ -162,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2024-07-06-0052 ([05f9550](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-06-0052))
 
 * [TropiCata] Make velvet worms zombify ([#74914](https://github.com/CleverRaven/Cataclysm-DDA/pull/74914))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-05-2002 ([f45ceda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-05-2002))
-
 * Restore mutant bug spawns + Normalize their evolution timers ([#74904](https://github.com/CleverRaven/Cataclysm-DDA/pull/74904))
 * [Xedra Evolved] Full vampires need stolen blood in their body to heal ([#74912](https://github.com/CleverRaven/Cataclysm-DDA/pull/74912))
 * Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) ([#74908](https://github.com/CleverRaven/Cataclysm-DDA/pull/74908))
