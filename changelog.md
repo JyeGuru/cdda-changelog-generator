@@ -1,3 +1,5 @@
+* Allow getting in vehicles anyway ([#74981](https://github.com/CleverRaven/Cataclysm-DDA/pull/74981))
+* Add pain_max_val to conjunctivitis ([#75005](https://github.com/CleverRaven/Cataclysm-DDA/pull/75005))
 
 ---
 
@@ -209,11 +211,9 @@
 * [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
 * Fix android bug ([#74841](https://github.com/CleverRaven/Cataclysm-DDA/pull/74841))
 * [TropiCata] Scorpion audit + two tiny termite follow-up fixes ([#74849](https://github.com/CleverRaven/Cataclysm-DDA/pull/74849))
-* Fetlock furs fix ([#74834](https://github.com/CleverRaven/Cataclysm-DDA/pull/74834))
 * Make the ``monsters`` GitHub label actually get applied - Attempt 2 ([#74851](https://github.com/CleverRaven/Cataclysm-DDA/pull/74851))
 * [Aftershock] Add Habitat Block 3 to Exoplanet ([#74838](https://github.com/CleverRaven/Cataclysm-DDA/pull/74838))
 * Add 12-bit rainbow color palette ([#74842](https://github.com/CleverRaven/Cataclysm-DDA/pull/74842))
 * [MoM] Fix Prescient Tactics learning  ([#74839](https://github.com/CleverRaven/Cataclysm-DDA/pull/74839))
 * Picky Eater is mutually exclusive with Gourmand ([#74837](https://github.com/CleverRaven/Cataclysm-DDA/pull/74837))
-* Bugfix: LIXA Teleport Deaths ([#74831](https://github.com/CleverRaven/Cataclysm-DDA/pull/74831))
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
