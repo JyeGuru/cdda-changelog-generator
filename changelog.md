@@ -1,3 +1,4 @@
+* Prevent automatic assignment of hotkeys to passive bionics ([#74999](https://github.com/CleverRaven/Cataclysm-DDA/pull/74999))
 * fix negative KCAL and VITAMIN_ABSORB_MOD enchantments ([#74977](https://github.com/CleverRaven/Cataclysm-DDA/pull/74977))
 * Better EoC support for field search ([#74996](https://github.com/CleverRaven/Cataclysm-DDA/pull/74996))
 * Remove the white phosphorous recipe added in #74599 ([#74997](https://github.com/CleverRaven/Cataclysm-DDA/pull/74997))
@@ -205,7 +206,6 @@
 * Small rat audit ([#74827](https://github.com/CleverRaven/Cataclysm-DDA/pull/74827))
 * [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
 * Fix android bug ([#74841](https://github.com/CleverRaven/Cataclysm-DDA/pull/74841))
-* Reduce Anthill Spawns ([#74824](https://github.com/CleverRaven/Cataclysm-DDA/pull/74824))
 * [TropiCata] Scorpion audit + two tiny termite follow-up fixes ([#74849](https://github.com/CleverRaven/Cataclysm-DDA/pull/74849))
 * Fetlock furs fix ([#74834](https://github.com/CleverRaven/Cataclysm-DDA/pull/74834))
 * Make the ``monsters`` GitHub label actually get applied - Attempt 2 ([#74851](https://github.com/CleverRaven/Cataclysm-DDA/pull/74851))
