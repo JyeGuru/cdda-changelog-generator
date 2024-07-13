@@ -1,3 +1,4 @@
+* fix negative KCAL and VITAMIN_ABSORB_MOD enchantments ([#74977](https://github.com/CleverRaven/Cataclysm-DDA/pull/74977))
 * Better EoC support for field search ([#74996](https://github.com/CleverRaven/Cataclysm-DDA/pull/74996))
 * Remove the white phosphorous recipe added in #74599 ([#74997](https://github.com/CleverRaven/Cataclysm-DDA/pull/74997))
 
@@ -194,7 +195,6 @@
 * Militia Community Addendum  ([#74865](https://github.com/CleverRaven/Cataclysm-DDA/pull/74865))
 * [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
 * [MoM] Fix Revitalizating Mutation not going away ([#74870](https://github.com/CleverRaven/Cataclysm-DDA/pull/74870))
-* Add typed standard coordinate constants + typify active_item_cache ([#74823](https://github.com/CleverRaven/Cataclysm-DDA/pull/74823))
 * `SPEAR` flag removed from items that also does not possess the `REACH_ATTACK` or `REACH3` flag. ([#74848](https://github.com/CleverRaven/Cataclysm-DDA/pull/74848))
 * Routine tileset updates on 01 July 2024 ([#74853](https://github.com/CleverRaven/Cataclysm-DDA/pull/74853))
 * Migrate NPC rules to a new, dedicated imgui menu ([#74854](https://github.com/CleverRaven/Cataclysm-DDA/pull/74854))

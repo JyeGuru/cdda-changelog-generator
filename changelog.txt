@@ -1,3 +1,4 @@
+* fix negative KCAL and VITAMIN_ABSORB_MOD enchantments (#74977)
 * Better EoC support for field search (#74996)
 * Remove the white phosphorous recipe added in #74599 (#74997)
 
@@ -119,7 +120,6 @@ Cataclysm-DDA experimental build 2024-07-06-0052 (05f9550)
 * Militia Community Addendum  (#74865)
 * [MoM] Add Revitalizing Meditation ongoing costs (#74871)
 * [MoM] Fix Revitalizating Mutation not going away (#74870)
-* Add typed standard coordinate constants + typify active_item_cache (#74823)
 * `SPEAR` flag removed from items that also does not possess the `REACH_ATTACK` or `REACH3` flag. (#74848)
 * Routine tileset updates on 01 July 2024 (#74853)
 * Migrate NPC rules to a new, dedicated imgui menu (#74854)
