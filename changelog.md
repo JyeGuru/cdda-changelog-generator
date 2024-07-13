@@ -1,3 +1,4 @@
+* [Xedra Evolved] Vampire form tweaks ([#74995](https://github.com/CleverRaven/Cataclysm-DDA/pull/74995))
 
 ---
 

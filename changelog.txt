@@ -1,3 +1,4 @@
+* [Xedra Evolved] Vampire form tweaks (#74995)
 
 Cataclysm-DDA experimental build 2024-07-13-0020 (14d933b)
 * [XEDRA] Add MOM Electron Overflow compatibility by adding "ELECTROKINETIC_CHARGEABLE" flag to powered inventor items (#74976)
