@@ -1,3 +1,4 @@
+* [MoM] Add gremlin, a Nether-touched fox, plus small monster tweaks ([#74972](https://github.com/CleverRaven/Cataclysm-DDA/pull/74972))
 
 ---
 
@@ -214,6 +215,5 @@
 * [MoM] Fix Prescient Tactics learning  ([#74839](https://github.com/CleverRaven/Cataclysm-DDA/pull/74839))
 * Picky Eater is mutually exclusive with Gourmand ([#74837](https://github.com/CleverRaven/Cataclysm-DDA/pull/74837))
 * Make tree communion full function not depend on playing the game in English ([#74830](https://github.com/CleverRaven/Cataclysm-DDA/pull/74830))
-* Routine i18n updates on 29 June 2024 ([#74829](https://github.com/CleverRaven/Cataclysm-DDA/pull/74829))
 * Bugfix: LIXA Teleport Deaths ([#74831](https://github.com/CleverRaven/Cataclysm-DDA/pull/74831))
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
