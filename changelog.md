@@ -1,3 +1,4 @@
+* Add snippet for OCP trousers ([#75000](https://github.com/CleverRaven/Cataclysm-DDA/pull/75000))
 
 ---
 
@@ -214,6 +215,5 @@
 * Add 12-bit rainbow color palette ([#74842](https://github.com/CleverRaven/Cataclysm-DDA/pull/74842))
 * [MoM] Fix Prescient Tactics learning  ([#74839](https://github.com/CleverRaven/Cataclysm-DDA/pull/74839))
 * Picky Eater is mutually exclusive with Gourmand ([#74837](https://github.com/CleverRaven/Cataclysm-DDA/pull/74837))
-* Make tree communion full function not depend on playing the game in English ([#74830](https://github.com/CleverRaven/Cataclysm-DDA/pull/74830))
 * Bugfix: LIXA Teleport Deaths ([#74831](https://github.com/CleverRaven/Cataclysm-DDA/pull/74831))
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
