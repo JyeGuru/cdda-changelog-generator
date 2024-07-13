@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-13-2009 ([c0c6b5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-2009))
+
 * [MoM] Add gremlin, a Nether-touched fox, plus small monster tweaks ([#74972](https://github.com/CleverRaven/Cataclysm-DDA/pull/74972))
 
 ---
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-07-06-1550 ([76bd02d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-06-1550))
 
 * remove the social and scent making effects from skunk spray ([#74922](https://github.com/CleverRaven/Cataclysm-DDA/pull/74922))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-06-0342 ([0df94b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-06-0342))
-
 * fix variable name error in example eoc ([#74917](https://github.com/CleverRaven/Cataclysm-DDA/pull/74917))
 * [TropiCata] Make velvet worms zombify ([#74914](https://github.com/CleverRaven/Cataclysm-DDA/pull/74914))
 * Restore mutant bug spawns + Normalize their evolution timers ([#74904](https://github.com/CleverRaven/Cataclysm-DDA/pull/74904))
