@@ -1,3 +1,4 @@
+* Limit shot targets to the reality bubble ([#75002](https://github.com/CleverRaven/Cataclysm-DDA/pull/75002))
 * Prevent automatic assignment of hotkeys to passive bionics ([#74999](https://github.com/CleverRaven/Cataclysm-DDA/pull/74999))
 * fix negative KCAL and VITAMIN_ABSORB_MOD enchantments ([#74977](https://github.com/CleverRaven/Cataclysm-DDA/pull/74977))
 * Better EoC support for field search ([#74996](https://github.com/CleverRaven/Cataclysm-DDA/pull/74996))
@@ -203,7 +204,6 @@
 * clean water stays clean in tanks ([#74863](https://github.com/CleverRaven/Cataclysm-DDA/pull/74863))
 * Fix android build ([#74869](https://github.com/CleverRaven/Cataclysm-DDA/pull/74869))
 * Update and modernize FMS ([#74859](https://github.com/CleverRaven/Cataclysm-DDA/pull/74859))
-* Small rat audit ([#74827](https://github.com/CleverRaven/Cataclysm-DDA/pull/74827))
 * [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
 * Fix android bug ([#74841](https://github.com/CleverRaven/Cataclysm-DDA/pull/74841))
 * [TropiCata] Scorpion audit + two tiny termite follow-up fixes ([#74849](https://github.com/CleverRaven/Cataclysm-DDA/pull/74849))
