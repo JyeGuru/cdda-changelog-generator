@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-13-0020 ([14d933b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-0020))
+
+* [XEDRA] Add MOM Electron Overflow compatibility by adding "ELECTROKINETIC_CHARGEABLE" flag to powered inventor items ([#74976](https://github.com/CleverRaven/Cataclysm-DDA/pull/74976))
 * Fix conjunctivitis duration stacking and eyedrops ([#74970](https://github.com/CleverRaven/Cataclysm-DDA/pull/74970))
 
 ---
@@ -161,11 +167,6 @@
 #### Cataclysm-DDA experimental build 2024-07-05-2002 ([f45ceda](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-05-2002))
 
 * Restore mutant bug spawns + Normalize their evolution timers ([#74904](https://github.com/CleverRaven/Cataclysm-DDA/pull/74904))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-05-1725 ([250198c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-05-1725))
-
 * [Xedra Evolved] Full vampires need stolen blood in their body to heal ([#74912](https://github.com/CleverRaven/Cataclysm-DDA/pull/74912))
 * Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) ([#74908](https://github.com/CleverRaven/Cataclysm-DDA/pull/74908))
 * [TropiCata] Velvet worm audit ([#74901](https://github.com/CleverRaven/Cataclysm-DDA/pull/74901))
@@ -210,4 +211,3 @@
 * Fix incorrect grabbed vehicle falling logic ([#74835](https://github.com/CleverRaven/Cataclysm-DDA/pull/74835))
 * Feral Crowbar Drop Adjustment ([#74817](https://github.com/CleverRaven/Cataclysm-DDA/pull/74817))
 * [MoM] Fear hawks exist ([#74813](https://github.com/CleverRaven/Cataclysm-DDA/pull/74813))
-* [Bugfixes] Fix concentration metamagic sign flipping ([#74810](https://github.com/CleverRaven/Cataclysm-DDA/pull/74810))
