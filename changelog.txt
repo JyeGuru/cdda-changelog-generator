@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-13-2244 (2c9ec28)
 * Add snippet for OCP trousers (#75000)
 
 Cataclysm-DDA experimental build 2024-07-13-2009 (c0c6b5b)
@@ -100,8 +102,6 @@ Cataclysm-DDA experimental build 2024-07-07-0553 (8d22462)
 Cataclysm-DDA experimental build 2024-07-07-0311 (79f0cfd)
 * fix vitamin enchantment condition (#74929)
 * Routine i18n updates on 06 July 2024 (#74927)
-
-Cataclysm-DDA experimental build 2024-07-06-1550 (76bd02d)
 * remove the social and scent making effects from skunk spray (#74922)
 * fix variable name error in example eoc (#74917)
 * [TropiCata] Make velvet worms zombify (#74914)
