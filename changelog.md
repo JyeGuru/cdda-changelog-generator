@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-14-0135 ([17b6b9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-14-0135))
+
 * Allow getting in vehicles anyway ([#74981](https://github.com/CleverRaven/Cataclysm-DDA/pull/74981))
 * Add pain_max_val to conjunctivitis ([#75005](https://github.com/CleverRaven/Cataclysm-DDA/pull/75005))
 

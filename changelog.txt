@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-14-0135 (17b6b9c)
 * Allow getting in vehicles anyway (#74981)
 * Add pain_max_val to conjunctivitis (#75005)
 
