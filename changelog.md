@@ -1,3 +1,4 @@
+* Remove Acid Bombs ([#74900](https://github.com/CleverRaven/Cataclysm-DDA/pull/74900))
 
 ---
 
@@ -221,4 +222,3 @@
 * [Aftershock] Add Habitat Block 3 to Exoplanet ([#74838](https://github.com/CleverRaven/Cataclysm-DDA/pull/74838))
 * Add 12-bit rainbow color palette ([#74842](https://github.com/CleverRaven/Cataclysm-DDA/pull/74842))
 * [MoM] Fix Prescient Tactics learning  ([#74839](https://github.com/CleverRaven/Cataclysm-DDA/pull/74839))
-* Picky Eater is mutually exclusive with Gourmand ([#74837](https://github.com/CleverRaven/Cataclysm-DDA/pull/74837))

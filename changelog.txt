@@ -1,3 +1,4 @@
+* Remove Acid Bombs (#74900)
 
 Cataclysm-DDA experimental build 2024-07-14-0412 (2e7802c)
 * [MoM] Randomize monster power cooldowns (#74990)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-07-07-0553 (8d22462)
 * [Aftershock] Add Habitat Block 3 to Exoplanet (#74838)
 * Add 12-bit rainbow color palette (#74842)
 * [MoM] Fix Prescient Tactics learning  (#74839)
-* Picky Eater is mutually exclusive with Gourmand (#74837)
