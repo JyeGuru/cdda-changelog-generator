@@ -1,3 +1,4 @@
+* Actually remove acid bomb (#75017)
 
 Cataclysm-DDA experimental build 2024-07-14-0652 (38b05c2)
 * Roofed Aftershock (#74968)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-07-07-1604 (aee440b)
 * [Magiclysm] Dust Reborn clears rads (#74857)
 * [TropiCata] Scorpion audit + two tiny termite follow-up fixes (#74849)
 * Make the ``monsters`` GitHub label actually get applied - Attempt 2 (#74851)
-* Add 12-bit rainbow color palette (#74842)
