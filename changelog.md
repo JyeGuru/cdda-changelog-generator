@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-14-0412 ([2e7802c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-14-0412))
+
 * [MoM] Randomize monster power cooldowns ([#74990](https://github.com/CleverRaven/Cataclysm-DDA/pull/74990))
 
 ---
@@ -178,11 +183,6 @@
 * Fixed wrong "spoils_in" value for some food (fixes #70297) ([#74898](https://github.com/CleverRaven/Cataclysm-DDA/pull/74898))
 * Update 48x-"Locutus" effect wording ([#74905](https://github.com/CleverRaven/Cataclysm-DDA/pull/74905))
 * Fix minor mapgen errors ([#74934](https://github.com/CleverRaven/Cataclysm-DDA/pull/74934))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-07-0311 ([79f0cfd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-07-0311))
-
 * fix vitamin enchantment condition ([#74929](https://github.com/CleverRaven/Cataclysm-DDA/pull/74929))
 * Routine i18n updates on 06 July 2024 ([#74927](https://github.com/CleverRaven/Cataclysm-DDA/pull/74927))
 * remove the social and scent making effects from skunk spray ([#74922](https://github.com/CleverRaven/Cataclysm-DDA/pull/74922))
