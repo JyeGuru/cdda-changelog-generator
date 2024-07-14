@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-14-2247 ([62e11b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-14-2247))
+
 * Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
 
 ---
@@ -178,11 +183,6 @@
 * Updates to debug menu ([#74910](https://github.com/CleverRaven/Cataclysm-DDA/pull/74910))
 * fix loading of traps ([#74928](https://github.com/CleverRaven/Cataclysm-DDA/pull/74928))
 * Fix rearward towing ([#74916](https://github.com/CleverRaven/Cataclysm-DDA/pull/74916))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-07-1604 ([aee440b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-07-1604))
-
 * [Xedra Evolved] Full vampires' healing speed is increased with blood but bandages do nothing ([#74921](https://github.com/CleverRaven/Cataclysm-DDA/pull/74921))
 * Fix typo in balance scores for webbed, sludged, and sap ([#74932](https://github.com/CleverRaven/Cataclysm-DDA/pull/74932))
 * Fixed wrong "spoils_in" value for some food (fixes #70297) ([#74898](https://github.com/CleverRaven/Cataclysm-DDA/pull/74898))
