@@ -1,3 +1,4 @@
+* Roofed Aftershock ([#74968](https://github.com/CleverRaven/Cataclysm-DDA/pull/74968))
 * Gate Close Displacement Bugfix ([#74975](https://github.com/CleverRaven/Cataclysm-DDA/pull/74975))
 * prevent book scanning in darkness ([#75004](https://github.com/CleverRaven/Cataclysm-DDA/pull/75004))
 * Remove Acid Bombs ([#74900](https://github.com/CleverRaven/Cataclysm-DDA/pull/74900))
@@ -218,7 +219,6 @@
 * Fix android build ([#74869](https://github.com/CleverRaven/Cataclysm-DDA/pull/74869))
 * Update and modernize FMS ([#74859](https://github.com/CleverRaven/Cataclysm-DDA/pull/74859))
 * [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
-* Fix android bug ([#74841](https://github.com/CleverRaven/Cataclysm-DDA/pull/74841))
 * [TropiCata] Scorpion audit + two tiny termite follow-up fixes ([#74849](https://github.com/CleverRaven/Cataclysm-DDA/pull/74849))
 * Make the ``monsters`` GitHub label actually get applied - Attempt 2 ([#74851](https://github.com/CleverRaven/Cataclysm-DDA/pull/74851))
 * Add 12-bit rainbow color palette ([#74842](https://github.com/CleverRaven/Cataclysm-DDA/pull/74842))
