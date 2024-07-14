@@ -1,3 +1,4 @@
+* [MoM] Randomize monster power cooldowns (#74990)
 
 Cataclysm-DDA experimental build 2024-07-14-0135 (17b6b9c)
 * Allow getting in vehicles anyway (#74981)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-07-07-0311 (79f0cfd)
 * Add 12-bit rainbow color palette (#74842)
 * [MoM] Fix Prescient Tactics learning  (#74839)
 * Picky Eater is mutually exclusive with Gourmand (#74837)
-* Fix incorrect grabbed vehicle falling logic (#74835)
