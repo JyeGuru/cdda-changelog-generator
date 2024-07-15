@@ -1,3 +1,4 @@
+* Home Canning background (#75022)
 
 Cataclysm-DDA experimental build 2024-07-15-2338 (77843b4)
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target (#75032)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2024-07-09-1354 (5bfa3c4)
 * Militia Community Addendum  (#74865)
 * [MoM] Add Revitalizing Meditation ongoing costs (#74871)
 * [MoM] Fix Revitalizating Mutation not going away (#74870)
-* clean water stays clean in tanks (#74863)
 * Fix android build (#74869)

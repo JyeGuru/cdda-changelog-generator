@@ -1,3 +1,4 @@
+* Home Canning background ([#75022](https://github.com/CleverRaven/Cataclysm-DDA/pull/75022))
 
 ---
 
@@ -213,5 +214,4 @@
 * Militia Community Addendum  ([#74865](https://github.com/CleverRaven/Cataclysm-DDA/pull/74865))
 * [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
 * [MoM] Fix Revitalizating Mutation not going away ([#74870](https://github.com/CleverRaven/Cataclysm-DDA/pull/74870))
-* clean water stays clean in tanks ([#74863](https://github.com/CleverRaven/Cataclysm-DDA/pull/74863))
 * Fix android build ([#74869](https://github.com/CleverRaven/Cataclysm-DDA/pull/74869))
