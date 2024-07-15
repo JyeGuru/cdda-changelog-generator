@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-15-2338 ([77843b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-2338))
+
+* [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target ([#75032](https://github.com/CleverRaven/Cataclysm-DDA/pull/75032))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-15-1909 ([b87d515](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-1909))
 
 * [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
@@ -166,11 +172,6 @@
 * Artificial Night Generator do not grant invis ([#74947](https://github.com/CleverRaven/Cataclysm-DDA/pull/74947))
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-08-2301 ([d630308](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-08-2301))
-
 * Regenerating zombie evolutions ([#74880](https://github.com/CleverRaven/Cataclysm-DDA/pull/74880))
 * Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
 * typified submap.h/cpp ([#74911](https://github.com/CleverRaven/Cataclysm-DDA/pull/74911))
@@ -209,7 +210,6 @@
 * Backport #71156 for 0.H ([#74882](https://github.com/CleverRaven/Cataclysm-DDA/pull/74882))
 * Add note about points pool in FMS ([#74879](https://github.com/CleverRaven/Cataclysm-DDA/pull/74879))
 * base hardtack is inedible ([#74874](https://github.com/CleverRaven/Cataclysm-DDA/pull/74874))
-* Make black tea addicting ([#74860](https://github.com/CleverRaven/Cataclysm-DDA/pull/74860))
 * Militia Community Addendum  ([#74865](https://github.com/CleverRaven/Cataclysm-DDA/pull/74865))
 * [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
 * [MoM] Fix Revitalizating Mutation not going away ([#74870](https://github.com/CleverRaven/Cataclysm-DDA/pull/74870))
