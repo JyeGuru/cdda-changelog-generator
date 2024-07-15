@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-15-1909 ([b87d515](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-1909))
+
+* [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-15-1513 ([af2487d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-1513))
 
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods ([#75023](https://github.com/CleverRaven/Cataclysm-DDA/pull/75023))
@@ -167,11 +173,6 @@
 
 * Regenerating zombie evolutions ([#74880](https://github.com/CleverRaven/Cataclysm-DDA/pull/74880))
 * Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-08-2013 ([1e228ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-08-2013))
-
 * typified submap.h/cpp ([#74911](https://github.com/CleverRaven/Cataclysm-DDA/pull/74911))
 * Extract personal effects from "science" item group, remove cannabis paraphernalia ([#74894](https://github.com/CleverRaven/Cataclysm-DDA/pull/74894))
 * burglar profession has the safecracking proficiency ([#74889](https://github.com/CleverRaven/Cataclysm-DDA/pull/74889))
@@ -214,4 +215,3 @@
 * [MoM] Fix Revitalizating Mutation not going away ([#74870](https://github.com/CleverRaven/Cataclysm-DDA/pull/74870))
 * clean water stays clean in tanks ([#74863](https://github.com/CleverRaven/Cataclysm-DDA/pull/74863))
 * Fix android build ([#74869](https://github.com/CleverRaven/Cataclysm-DDA/pull/74869))
-* Update and modernize FMS ([#74859](https://github.com/CleverRaven/Cataclysm-DDA/pull/74859))
