@@ -1,3 +1,11 @@
+* Adjusted construction to not providing roofs ([#74960](https://github.com/CleverRaven/Cataclysm-DDA/pull/74960))
+* Remove roof magic and a work around to deal with it ([#74957](https://github.com/CleverRaven/Cataclysm-DDA/pull/74957))
+* [Xedra Evolved] Add check for Salamander being near fire, not just in it ([#75014](https://github.com/CleverRaven/Cataclysm-DDA/pull/75014))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-15-0254 ([020e8cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-0254))
+
 * Changed empty wall list on gates to match all walls ([#75008](https://github.com/CleverRaven/Cataclysm-DDA/pull/75008))
 
 ---
@@ -170,11 +178,6 @@
 #### Cataclysm-DDA experimental build 2024-07-08-1454 ([44b397c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-08-1454))
 
 * Add Samosas ([#74940](https://github.com/CleverRaven/Cataclysm-DDA/pull/74940))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-07-1825 ([28e6a2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-07-1825))
-
 * Updates to debug menu ([#74910](https://github.com/CleverRaven/Cataclysm-DDA/pull/74910))
 * fix loading of traps ([#74928](https://github.com/CleverRaven/Cataclysm-DDA/pull/74928))
 * Fix rearward towing ([#74916](https://github.com/CleverRaven/Cataclysm-DDA/pull/74916))
@@ -207,7 +210,6 @@
 * Militia Community Addendum  ([#74865](https://github.com/CleverRaven/Cataclysm-DDA/pull/74865))
 * [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
 * [MoM] Fix Revitalizating Mutation not going away ([#74870](https://github.com/CleverRaven/Cataclysm-DDA/pull/74870))
-* `SPEAR` flag removed from items that also does not possess the `REACH_ATTACK` or `REACH3` flag. ([#74848](https://github.com/CleverRaven/Cataclysm-DDA/pull/74848))
 * Routine tileset updates on 01 July 2024 ([#74853](https://github.com/CleverRaven/Cataclysm-DDA/pull/74853))
 * Migrate NPC rules to a new, dedicated imgui menu ([#74854](https://github.com/CleverRaven/Cataclysm-DDA/pull/74854))
 * Make hardtack easier to make ([#74856](https://github.com/CleverRaven/Cataclysm-DDA/pull/74856))
@@ -215,5 +217,3 @@
 * Fix android build ([#74869](https://github.com/CleverRaven/Cataclysm-DDA/pull/74869))
 * Update and modernize FMS ([#74859](https://github.com/CleverRaven/Cataclysm-DDA/pull/74859))
 * [Magiclysm] Dust Reborn clears rads ([#74857](https://github.com/CleverRaven/Cataclysm-DDA/pull/74857))
-* [TropiCata] Scorpion audit + two tiny termite follow-up fixes ([#74849](https://github.com/CleverRaven/Cataclysm-DDA/pull/74849))
-* Make the ``monsters`` GitHub label actually get applied - Attempt 2 ([#74851](https://github.com/CleverRaven/Cataclysm-DDA/pull/74851))
