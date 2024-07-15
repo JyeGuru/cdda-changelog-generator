@@ -1,3 +1,4 @@
+* Changed empty wall list on gates to match all walls ([#75008](https://github.com/CleverRaven/Cataclysm-DDA/pull/75008))
 
 ---
 
@@ -136,12 +137,6 @@
 #### Cataclysm-DDA experimental build 2024-07-09-1354 ([5bfa3c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-09-1354))
 
 * Artificial Night Generator do not grant invis ([#74947](https://github.com/CleverRaven/Cataclysm-DDA/pull/74947))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-09-0155 ([7f1fea9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-09-0155))
-
-* Jsonized end screen: How I learned to stop worrying and win the Cataclysm ([#74844](https://github.com/CleverRaven/Cataclysm-DDA/pull/74844))
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
 
