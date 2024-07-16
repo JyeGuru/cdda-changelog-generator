@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-16-1658 ([bdc6ee9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-16-1658))
+
 * [Magiclysm] Add Shifter druid profession + wildshifts ([#74988](https://github.com/CleverRaven/Cataclysm-DDA/pull/74988))
 * Blocked negative part index from being used ([#75031](https://github.com/CleverRaven/Cataclysm-DDA/pull/75031))
 * Audit Hub 01 armor repair fees and timeframes ([#75033](https://github.com/CleverRaven/Cataclysm-DDA/pull/75033))
@@ -167,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2024-07-10-1648 ([ad4cdcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-10-1648))
 
 * [Xedra Evolved] Add vampire transformation powers ([#74965](https://github.com/CleverRaven/Cataclysm-DDA/pull/74965))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-10-0115 ([b65512d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-10-0115))
-
 * Adjust criteria for building roofs ([#74948](https://github.com/CleverRaven/Cataclysm-DDA/pull/74948))
 * [Magiclysm] Druid's Nature's Communion morale scales ([#74954](https://github.com/CleverRaven/Cataclysm-DDA/pull/74954))
 * [Xedra Evolved] Paraclesian fae cannot wield items made of steel or iron without problems (except Homullus) ([#74956](https://github.com/CleverRaven/Cataclysm-DDA/pull/74956))
