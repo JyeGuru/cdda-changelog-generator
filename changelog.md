@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-16-0231 ([d661d9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-16-0231))
+
 * Home Canning background ([#75022](https://github.com/CleverRaven/Cataclysm-DDA/pull/75022))
 
 ---
