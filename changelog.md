@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-16-0501 ([aa0cd91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-16-0501))
+
 * [MoM] Reduce start-up time for contemplation recipes to 0 seconds, add EoC to provide metaphysics XP ([#75013](https://github.com/CleverRaven/Cataclysm-DDA/pull/75013))
 
 ---
@@ -171,11 +176,6 @@
 * Readd (Some) Condom Flavours ([#74935](https://github.com/CleverRaven/Cataclysm-DDA/pull/74935))
 * Trap fixes and cyborg species fix ([#74943](https://github.com/CleverRaven/Cataclysm-DDA/pull/74943))
 * Audit Carnivore for items with volumes indivisible by 50ml ([#74888](https://github.com/CleverRaven/Cataclysm-DDA/pull/74888))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-09-1354 ([5bfa3c4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-09-1354))
-
 * Artificial Night Generator do not grant invis ([#74947](https://github.com/CleverRaven/Cataclysm-DDA/pull/74947))
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
