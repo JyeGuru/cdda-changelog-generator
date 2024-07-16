@@ -1,3 +1,4 @@
+* [Magiclysm] Add Shifter druid profession + wildshifts ([#74988](https://github.com/CleverRaven/Cataclysm-DDA/pull/74988))
 * Blocked negative part index from being used ([#75031](https://github.com/CleverRaven/Cataclysm-DDA/pull/75031))
 * Audit Hub 01 armor repair fees and timeframes ([#75033](https://github.com/CleverRaven/Cataclysm-DDA/pull/75033))
 
@@ -217,4 +218,3 @@
 * put a lab_file_serum_testing in a box ([#74884](https://github.com/CleverRaven/Cataclysm-DDA/pull/74884))
 * Backport #71156 for 0.H ([#74882](https://github.com/CleverRaven/Cataclysm-DDA/pull/74882))
 * Add note about points pool in FMS ([#74879](https://github.com/CleverRaven/Cataclysm-DDA/pull/74879))
-* base hardtack is inedible ([#74874](https://github.com/CleverRaven/Cataclysm-DDA/pull/74874))

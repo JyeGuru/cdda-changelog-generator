@@ -1,3 +1,4 @@
+* [Magiclysm] Add Shifter druid profession + wildshifts (#74988)
 * Blocked negative part index from being used (#75031)
 * Audit Hub 01 armor repair fees and timeframes (#75033)
 
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-07-10-0115 (b65512d)
 * put a lab_file_serum_testing in a box (#74884)
 * Backport #71156 for 0.H (#74882)
 * Add note about points pool in FMS (#74879)
-* base hardtack is inedible (#74874)
