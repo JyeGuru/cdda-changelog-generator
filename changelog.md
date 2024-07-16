@@ -1,3 +1,5 @@
+* Blocked negative part index from being used ([#75031](https://github.com/CleverRaven/Cataclysm-DDA/pull/75031))
+* Audit Hub 01 armor repair fees and timeframes ([#75033](https://github.com/CleverRaven/Cataclysm-DDA/pull/75033))
 
 ---
 
@@ -218,5 +220,3 @@
 * Add note about points pool in FMS ([#74879](https://github.com/CleverRaven/Cataclysm-DDA/pull/74879))
 * base hardtack is inedible ([#74874](https://github.com/CleverRaven/Cataclysm-DDA/pull/74874))
 * [MoM] Add Revitalizing Meditation ongoing costs ([#74871](https://github.com/CleverRaven/Cataclysm-DDA/pull/74871))
-* [MoM] Fix Revitalizating Mutation not going away ([#74870](https://github.com/CleverRaven/Cataclysm-DDA/pull/74870))
-* Fix android build ([#74869](https://github.com/CleverRaven/Cataclysm-DDA/pull/74869))
