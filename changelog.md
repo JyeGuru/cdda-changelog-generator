@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-17-0556 ([f830123](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-0556))
+
 * Add TEMPORARY_SHAPESHIFT flag, use it to recalculate size before standard size flags ([#75043](https://github.com/CleverRaven/Cataclysm-DDA/pull/75043))
 * Various improvements to Barry Isherwood's rescue ([#75044](https://github.com/CleverRaven/Cataclysm-DDA/pull/75044))
 * Move minireactor to aftershock ([#75041](https://github.com/CleverRaven/Cataclysm-DDA/pull/75041))
