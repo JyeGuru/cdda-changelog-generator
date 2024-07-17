@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-17-1813 ([ef9c0eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-1813))
+
+* [Xedra Evolved] Add Iron Intolerance starting trait ([#75068](https://github.com/CleverRaven/Cataclysm-DDA/pull/75068))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-17-1500 ([ca314e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-1500))
 
 * [MoM] Add Sensor Jamming Photokinetic power ([#75056](https://github.com/CleverRaven/Cataclysm-DDA/pull/75056))
@@ -68,12 +74,6 @@
 #### Cataclysm-DDA experimental build 2024-07-15-1513 ([af2487d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-1513))
 
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods ([#75023](https://github.com/CleverRaven/Cataclysm-DDA/pull/75023))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-15-0603 ([f6ed398](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-0603))
-
-* Make the time_until function always return positive values when the argument is a preset time point ([#74893](https://github.com/CleverRaven/Cataclysm-DDA/pull/74893))
 * [MoM] You can't contemplate powers if you're too weary ([#75021](https://github.com/CleverRaven/Cataclysm-DDA/pull/75021))
 * Adjusted construction to not providing roofs ([#74960](https://github.com/CleverRaven/Cataclysm-DDA/pull/74960))
 * Remove roof magic and a work around to deal with it ([#74957](https://github.com/CleverRaven/Cataclysm-DDA/pull/74957))
@@ -183,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-07-11-2014 ([c6913e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-11-2014))
 
 * [MoM] Concentrating on maintenance powers also levels metaphysics ([#74978](https://github.com/CleverRaven/Cataclysm-DDA/pull/74978))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-11-0546 ([e418d44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-11-0546))
-
 * Augustmoon tool trader ([#74961](https://github.com/CleverRaven/Cataclysm-DDA/pull/74961))
 * Sōjutsu "Way of the spear" martial art *actually* uses spears now ([#74952](https://github.com/CleverRaven/Cataclysm-DDA/pull/74952))
 * Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
