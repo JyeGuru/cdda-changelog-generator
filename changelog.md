@@ -1,3 +1,10 @@
+* Updated special companions to use new rules dialog ([#75045](https://github.com/CleverRaven/Cataclysm-DDA/pull/75045))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-17-0303 ([57a4069](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-0303))
+
+* Camp storage meal abortion works properly ([#75047](https://github.com/CleverRaven/Cataclysm-DDA/pull/75047))
 
 ---
 
@@ -166,11 +173,6 @@
 * Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
 * Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
 * Resize Hardtack into Hardtack Crackers ([#74887](https://github.com/CleverRaven/Cataclysm-DDA/pull/74887))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-10-1648 ([ad4cdcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-10-1648))
-
 * [Xedra Evolved] Add vampire transformation powers ([#74965](https://github.com/CleverRaven/Cataclysm-DDA/pull/74965))
 * Adjust criteria for building roofs ([#74948](https://github.com/CleverRaven/Cataclysm-DDA/pull/74948))
 * [Magiclysm] Druid's Nature's Communion morale scales ([#74954](https://github.com/CleverRaven/Cataclysm-DDA/pull/74954))
@@ -210,11 +212,9 @@
 * [Xedra Evolved] Full vampires need stolen blood in their body to heal ([#74912](https://github.com/CleverRaven/Cataclysm-DDA/pull/74912))
 * Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) ([#74908](https://github.com/CleverRaven/Cataclysm-DDA/pull/74908))
 * [TropiCata] Velvet worm audit ([#74901](https://github.com/CleverRaven/Cataclysm-DDA/pull/74901))
-* Typify a couple of activity actions ([#74876](https://github.com/CleverRaven/Cataclysm-DDA/pull/74876))
 * Lime, sulphur chunks, rhodonite, and zincite are now categorised as chemicals ([#74890](https://github.com/CleverRaven/Cataclysm-DDA/pull/74890))
 * Remove flavored condom variants ([#74891](https://github.com/CleverRaven/Cataclysm-DDA/pull/74891))
 * Remove plut_cell from electronics itemgroup ([#74883](https://github.com/CleverRaven/Cataclysm-DDA/pull/74883))
 * Update gunshow search range ([#74885](https://github.com/CleverRaven/Cataclysm-DDA/pull/74885))
 * put a lab_file_serum_testing in a box ([#74884](https://github.com/CleverRaven/Cataclysm-DDA/pull/74884))
 * Backport #71156 for 0.H ([#74882](https://github.com/CleverRaven/Cataclysm-DDA/pull/74882))
-* Add note about points pool in FMS ([#74879](https://github.com/CleverRaven/Cataclysm-DDA/pull/74879))
