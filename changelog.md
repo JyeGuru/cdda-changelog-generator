@@ -1,3 +1,12 @@
+* Add "Wound Care" proficiency for Park Rangers ([#75065](https://github.com/CleverRaven/Cataclysm-DDA/pull/75065))
+* craftable super loud noisemaker ([#75058](https://github.com/CleverRaven/Cataclysm-DDA/pull/75058))
+* Implement sunset/sunrise appreciation ([#74899](https://github.com/CleverRaven/Cataclysm-DDA/pull/74899))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-17-2353 ([e9e740f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-2353))
+
+* [XE/Magiclysm] Update Giant Growth with new `TEMPORARY_SHAPESHIFT` flag ([#75066](https://github.com/CleverRaven/Cataclysm-DDA/pull/75066))
 
 ---
 
@@ -177,11 +186,6 @@
 #### Cataclysm-DDA experimental build 2024-07-12-1312 ([177bf64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-12-1312))
 
 * Draw fallback tiles for overmap weather on tiles overmap ([#74966](https://github.com/CleverRaven/Cataclysm-DDA/pull/74966))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-12-0321 ([32484db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-12-0321))
-
 * [Xedra Evolved] Give Vampires nighttime overmap sight ([#74982](https://github.com/CleverRaven/Cataclysm-DDA/pull/74982))
 * [MoM] Concentrating on maintenance powers also levels metaphysics ([#74978](https://github.com/CleverRaven/Cataclysm-DDA/pull/74978))
 * Augustmoon tool trader ([#74961](https://github.com/CleverRaven/Cataclysm-DDA/pull/74961))
@@ -200,7 +204,6 @@
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
 * Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
 * typified submap.h/cpp ([#74911](https://github.com/CleverRaven/Cataclysm-DDA/pull/74911))
-* refine ammo uncraft ([#74895](https://github.com/CleverRaven/Cataclysm-DDA/pull/74895))
 * [Xedra Evolved] Vampire blood gift research ([#74909](https://github.com/CleverRaven/Cataclysm-DDA/pull/74909))
 * A few new NPC story snippets ([#74924](https://github.com/CleverRaven/Cataclysm-DDA/pull/74924))
 * [TropiCata] Audit mutant invert wilderness spawns ([#74930](https://github.com/CleverRaven/Cataclysm-DDA/pull/74930))
@@ -211,7 +214,6 @@
 * Fix rearward towing ([#74916](https://github.com/CleverRaven/Cataclysm-DDA/pull/74916))
 * [Xedra Evolved] Full vampires' healing speed is increased with blood but bandages do nothing ([#74921](https://github.com/CleverRaven/Cataclysm-DDA/pull/74921))
 * Fix typo in balance scores for webbed, sludged, and sap ([#74932](https://github.com/CleverRaven/Cataclysm-DDA/pull/74932))
-* Fixed wrong "spoils_in" value for some food (fixes #70297) ([#74898](https://github.com/CleverRaven/Cataclysm-DDA/pull/74898))
 * Update 48x-"Locutus" effect wording ([#74905](https://github.com/CleverRaven/Cataclysm-DDA/pull/74905))
 * Fix minor mapgen errors ([#74934](https://github.com/CleverRaven/Cataclysm-DDA/pull/74934))
 * fix vitamin enchantment condition ([#74929](https://github.com/CleverRaven/Cataclysm-DDA/pull/74929))
