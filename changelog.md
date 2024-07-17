@@ -1,3 +1,11 @@
+* magiclysm: give spell herbs activation messages ([#75018](https://github.com/CleverRaven/Cataclysm-DDA/pull/75018))
+* Added deconstruction to deployed_items needing it ([#75052](https://github.com/CleverRaven/Cataclysm-DDA/pull/75052))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-17-1224 ([58089e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-1224))
+
+* Again. Some dialogue fixes. ([#75061](https://github.com/CleverRaven/Cataclysm-DDA/pull/75061))
 
 ---
 
@@ -180,7 +188,6 @@
 * Sōjutsu "Way of the spear" martial art *actually* uses spears now ([#74952](https://github.com/CleverRaven/Cataclysm-DDA/pull/74952))
 * Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
 * Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
-* Resize Hardtack into Hardtack Crackers ([#74887](https://github.com/CleverRaven/Cataclysm-DDA/pull/74887))
 * [Xedra Evolved] Add vampire transformation powers ([#74965](https://github.com/CleverRaven/Cataclysm-DDA/pull/74965))
 * Adjust criteria for building roofs ([#74948](https://github.com/CleverRaven/Cataclysm-DDA/pull/74948))
 * [Magiclysm] Druid's Nature's Communion morale scales ([#74954](https://github.com/CleverRaven/Cataclysm-DDA/pull/74954))
@@ -221,5 +228,3 @@
 * [TropiCata] Velvet worm audit ([#74901](https://github.com/CleverRaven/Cataclysm-DDA/pull/74901))
 * Lime, sulphur chunks, rhodonite, and zincite are now categorised as chemicals ([#74890](https://github.com/CleverRaven/Cataclysm-DDA/pull/74890))
 * Remove flavored condom variants ([#74891](https://github.com/CleverRaven/Cataclysm-DDA/pull/74891))
-* Update gunshow search range ([#74885](https://github.com/CleverRaven/Cataclysm-DDA/pull/74885))
-* put a lab_file_serum_testing in a box ([#74884](https://github.com/CleverRaven/Cataclysm-DDA/pull/74884))
