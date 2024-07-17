@@ -1,3 +1,4 @@
+* Typified a bit of map.h/cpp + dependents ([#74979](https://github.com/CleverRaven/Cataclysm-DDA/pull/74979))
 * magiclysm: give spell herbs activation messages ([#75018](https://github.com/CleverRaven/Cataclysm-DDA/pull/75018))
 * Added deconstruction to deployed_items needing it ([#75052](https://github.com/CleverRaven/Cataclysm-DDA/pull/75052))
 
@@ -195,7 +196,6 @@
 * add missing threshes to NECC blacklist ([#74959](https://github.com/CleverRaven/Cataclysm-DDA/pull/74959))
 * Readd (Some) Condom Flavours ([#74935](https://github.com/CleverRaven/Cataclysm-DDA/pull/74935))
 * Trap fixes and cyborg species fix ([#74943](https://github.com/CleverRaven/Cataclysm-DDA/pull/74943))
-* Audit Carnivore for items with volumes indivisible by 50ml ([#74888](https://github.com/CleverRaven/Cataclysm-DDA/pull/74888))
 * Artificial Night Generator do not grant invis ([#74947](https://github.com/CleverRaven/Cataclysm-DDA/pull/74947))
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
