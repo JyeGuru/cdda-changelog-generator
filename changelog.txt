@@ -1,3 +1,4 @@
+* mix the spawn pools in distorted labs (#75055)
 
 Cataclysm-DDA experimental build 2024-07-17-1813 (ef9c0eb)
 * [Xedra Evolved] Add Iron Intolerance starting trait (#75068)
@@ -118,7 +119,6 @@ Cataclysm-DDA experimental build 2024-07-11-2014 (c6913e0)
 * [Xedra Evolved] Paraclesian morale effects scale (#74953)
 * Weekly Changelog 2024-07-01 to 2024-07-08 (#74946)
 * typified submap.h/cpp (#74911)
-* Extract personal effects from "science" item group, remove cannabis paraphernalia (#74894)
 * refine ammo uncraft (#74895)
 * [Xedra Evolved] Vampire blood gift research (#74909)
 * A few new NPC story snippets (#74924)

@@ -1,3 +1,4 @@
+* mix the spawn pools in distorted labs ([#75055](https://github.com/CleverRaven/Cataclysm-DDA/pull/75055))
 
 ---
 
@@ -199,7 +200,6 @@
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
 * Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
 * typified submap.h/cpp ([#74911](https://github.com/CleverRaven/Cataclysm-DDA/pull/74911))
-* Extract personal effects from "science" item group, remove cannabis paraphernalia ([#74894](https://github.com/CleverRaven/Cataclysm-DDA/pull/74894))
 * refine ammo uncraft ([#74895](https://github.com/CleverRaven/Cataclysm-DDA/pull/74895))
 * [Xedra Evolved] Vampire blood gift research ([#74909](https://github.com/CleverRaven/Cataclysm-DDA/pull/74909))
 * A few new NPC story snippets ([#74924](https://github.com/CleverRaven/Cataclysm-DDA/pull/74924))
