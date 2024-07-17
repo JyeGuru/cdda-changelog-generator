@@ -1,3 +1,4 @@
+* [ Xedra Evolved ] Add some additional missions to gain best friend status with an npc. ([#74987](https://github.com/CleverRaven/Cataclysm-DDA/pull/74987))
 * Typified a bit of map.h/cpp + dependents ([#74979](https://github.com/CleverRaven/Cataclysm-DDA/pull/74979))
 * magiclysm: give spell herbs activation messages ([#75018](https://github.com/CleverRaven/Cataclysm-DDA/pull/75018))
 * Added deconstruction to deployed_items needing it ([#75052](https://github.com/CleverRaven/Cataclysm-DDA/pull/75052))
@@ -202,7 +203,6 @@
 * Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
 * typified submap.h/cpp ([#74911](https://github.com/CleverRaven/Cataclysm-DDA/pull/74911))
 * Extract personal effects from "science" item group, remove cannabis paraphernalia ([#74894](https://github.com/CleverRaven/Cataclysm-DDA/pull/74894))
-* burglar profession has the safecracking proficiency ([#74889](https://github.com/CleverRaven/Cataclysm-DDA/pull/74889))
 * refine ammo uncraft ([#74895](https://github.com/CleverRaven/Cataclysm-DDA/pull/74895))
 * [Xedra Evolved] Vampire blood gift research ([#74909](https://github.com/CleverRaven/Cataclysm-DDA/pull/74909))
 * A few new NPC story snippets ([#74924](https://github.com/CleverRaven/Cataclysm-DDA/pull/74924))
