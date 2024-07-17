@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-17-1500 ([ca314e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-1500))
+
 * [MoM] Add Sensor Jamming Photokinetic power ([#75056](https://github.com/CleverRaven/Cataclysm-DDA/pull/75056))
 * [Magiclysm] Add Iron Intolerance starting trait ([#75053](https://github.com/CleverRaven/Cataclysm-DDA/pull/75053))
 * [ Xedra Evolved ] Add some additional missions to gain best friend status with an npc. ([#74987](https://github.com/CleverRaven/Cataclysm-DDA/pull/74987))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-07-11-0546 ([e418d44](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-11-0546))
 
 * Augustmoon tool trader ([#74961](https://github.com/CleverRaven/Cataclysm-DDA/pull/74961))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-11-0323 ([d540791](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-11-0323))
-
 * Sōjutsu "Way of the spear" martial art *actually* uses spears now ([#74952](https://github.com/CleverRaven/Cataclysm-DDA/pull/74952))
 * Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
 * Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
