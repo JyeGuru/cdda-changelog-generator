@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-18-0220 ([9594eee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-18-0220))
+
 * Add "Wound Care" proficiency for Park Rangers ([#75065](https://github.com/CleverRaven/Cataclysm-DDA/pull/75065))
 * craftable super loud noisemaker ([#75058](https://github.com/CleverRaven/Cataclysm-DDA/pull/75058))
 * Implement sunset/sunrise appreciation ([#74899](https://github.com/CleverRaven/Cataclysm-DDA/pull/74899))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-07-12-1547 ([f2db932](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-12-1547))
 
 * Remove the cotton_salted material used in the ichcahuipilli ([#74983](https://github.com/CleverRaven/Cataclysm-DDA/pull/74983))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-12-1312 ([177bf64](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-12-1312))
-
 * Draw fallback tiles for overmap weather on tiles overmap ([#74966](https://github.com/CleverRaven/Cataclysm-DDA/pull/74966))
 * [Xedra Evolved] Give Vampires nighttime overmap sight ([#74982](https://github.com/CleverRaven/Cataclysm-DDA/pull/74982))
 * [MoM] Concentrating on maintenance powers also levels metaphysics ([#74978](https://github.com/CleverRaven/Cataclysm-DDA/pull/74978))

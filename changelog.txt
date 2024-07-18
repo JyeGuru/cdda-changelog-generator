@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-18-0220 (9594eee)
 * Add "Wound Care" proficiency for Park Rangers (#75065)
 * craftable super loud noisemaker (#75058)
 * Implement sunset/sunrise appreciation (#74899)
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2024-07-12-1858 (fe4755d)
 
 Cataclysm-DDA experimental build 2024-07-12-1547 (f2db932)
 * Remove the cotton_salted material used in the ichcahuipilli (#74983)
-
-Cataclysm-DDA experimental build 2024-07-12-1312 (177bf64)
 * Draw fallback tiles for overmap weather on tiles overmap (#74966)
 * [Xedra Evolved] Give Vampires nighttime overmap sight (#74982)
 * [MoM] Concentrating on maintenance powers also levels metaphysics (#74978)
