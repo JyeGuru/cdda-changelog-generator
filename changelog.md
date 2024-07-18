@@ -1,3 +1,4 @@
+* [Magiclysm] Diviner can send you to druid tower ([#75075](https://github.com/CleverRaven/Cataclysm-DDA/pull/75075))
 
 ---
 
@@ -215,7 +216,6 @@
 * Fix rearward towing ([#74916](https://github.com/CleverRaven/Cataclysm-DDA/pull/74916))
 * [Xedra Evolved] Full vampires' healing speed is increased with blood but bandages do nothing ([#74921](https://github.com/CleverRaven/Cataclysm-DDA/pull/74921))
 * Fix typo in balance scores for webbed, sludged, and sap ([#74932](https://github.com/CleverRaven/Cataclysm-DDA/pull/74932))
-* Update 48x-"Locutus" effect wording ([#74905](https://github.com/CleverRaven/Cataclysm-DDA/pull/74905))
 * Fix minor mapgen errors ([#74934](https://github.com/CleverRaven/Cataclysm-DDA/pull/74934))
 * fix vitamin enchantment condition ([#74929](https://github.com/CleverRaven/Cataclysm-DDA/pull/74929))
 * Routine i18n updates on 06 July 2024 ([#74927](https://github.com/CleverRaven/Cataclysm-DDA/pull/74927))
