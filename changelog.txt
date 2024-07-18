@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-18-1929 (83ac2a2)
 * [Magiclysm] Diviner can send you to druid tower (#75075)
 
 Cataclysm-DDA experimental build 2024-07-18-0452 (db34351)
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2024-07-13-0315 (80a017e)
 Cataclysm-DDA experimental build 2024-07-13-0020 (14d933b)
 * [XEDRA] Add MOM Electron Overflow compatibility by adding "ELECTROKINETIC_CHARGEABLE" flag to powered inventor items (#74976)
 * Fix conjunctivitis duration stacking and eyedrops (#74970)
-
-Cataclysm-DDA experimental build 2024-07-12-1858 (fe4755d)
 * [MoM] Pyrokinetics no longer blister when using Flame Immunity (#74984)
 * Remove the cotton_salted material used in the ichcahuipilli (#74983)
 * Draw fallback tiles for overmap weather on tiles overmap (#74966)
