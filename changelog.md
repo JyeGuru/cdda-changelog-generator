@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-18-0452 ([db34351](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-18-0452))
+
 * Fixed deconstruction save/load item_location loss and screwed progress ([#75020](https://github.com/CleverRaven/Cataclysm-DDA/pull/75020))
 * Fix weather json typo ([#75076](https://github.com/CleverRaven/Cataclysm-DDA/pull/75076))
 * Burning Buildings Bugfix ([#75038](https://github.com/CleverRaven/Cataclysm-DDA/pull/75038))
@@ -180,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-07-12-1858 ([fe4755d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-12-1858))
 
 * [MoM] Pyrokinetics no longer blister when using Flame Immunity ([#74984](https://github.com/CleverRaven/Cataclysm-DDA/pull/74984))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-12-1547 ([f2db932](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-12-1547))
-
 * Remove the cotton_salted material used in the ichcahuipilli ([#74983](https://github.com/CleverRaven/Cataclysm-DDA/pull/74983))
 * Draw fallback tiles for overmap weather on tiles overmap ([#74966](https://github.com/CleverRaven/Cataclysm-DDA/pull/74966))
 * [Xedra Evolved] Give Vampires nighttime overmap sight ([#74982](https://github.com/CleverRaven/Cataclysm-DDA/pull/74982))
