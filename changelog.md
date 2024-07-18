@@ -1,3 +1,4 @@
+* Burning Buildings Bugfix ([#75038](https://github.com/CleverRaven/Cataclysm-DDA/pull/75038))
 
 ---
 
@@ -5,7 +6,6 @@
 
 * Add "Wound Care" proficiency for Park Rangers ([#75065](https://github.com/CleverRaven/Cataclysm-DDA/pull/75065))
 * craftable super loud noisemaker ([#75058](https://github.com/CleverRaven/Cataclysm-DDA/pull/75058))
-* Implement sunset/sunrise appreciation ([#74899](https://github.com/CleverRaven/Cataclysm-DDA/pull/74899))
 
 ---
 
