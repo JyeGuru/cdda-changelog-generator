@@ -1,3 +1,5 @@
+* Fixed deconstruction save/load item_location loss and screwed progress (#75020)
+* Fix weather json typo (#75076)
 * Burning Buildings Bugfix (#75038)
 
 Cataclysm-DDA experimental build 2024-07-18-0220 (9594eee)
@@ -67,7 +69,6 @@ Cataclysm-DDA experimental build 2024-07-14-0652 (38b05c2)
 * Roofed Aftershock (#74968)
 * Gate Close Displacement Bugfix (#74975)
 * prevent book scanning in darkness (#75004)
-* Remove Acid Bombs (#74900)
 
 Cataclysm-DDA experimental build 2024-07-14-0412 (2e7802c)
 * [MoM] Randomize monster power cooldowns (#74990)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-07-12-1547 (f2db932)
 * Restore mutant bug spawns + Normalize their evolution timers (#74904)
 * [Xedra Evolved] Full vampires need stolen blood in their body to heal (#74912)
 * Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) (#74908)
-* [TropiCata] Velvet worm audit (#74901)

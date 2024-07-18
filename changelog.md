@@ -1,3 +1,5 @@
+* Fixed deconstruction save/load item_location loss and screwed progress ([#75020](https://github.com/CleverRaven/Cataclysm-DDA/pull/75020))
+* Fix weather json typo ([#75076](https://github.com/CleverRaven/Cataclysm-DDA/pull/75076))
 * Burning Buildings Bugfix ([#75038](https://github.com/CleverRaven/Cataclysm-DDA/pull/75038))
 
 ---
@@ -118,7 +120,6 @@
 * Roofed Aftershock ([#74968](https://github.com/CleverRaven/Cataclysm-DDA/pull/74968))
 * Gate Close Displacement Bugfix ([#74975](https://github.com/CleverRaven/Cataclysm-DDA/pull/74975))
 * prevent book scanning in darkness ([#75004](https://github.com/CleverRaven/Cataclysm-DDA/pull/75004))
-* Remove Acid Bombs ([#74900](https://github.com/CleverRaven/Cataclysm-DDA/pull/74900))
 
 ---
 
@@ -224,4 +225,3 @@
 * Restore mutant bug spawns + Normalize their evolution timers ([#74904](https://github.com/CleverRaven/Cataclysm-DDA/pull/74904))
 * [Xedra Evolved] Full vampires need stolen blood in their body to heal ([#74912](https://github.com/CleverRaven/Cataclysm-DDA/pull/74912))
 * Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) ([#74908](https://github.com/CleverRaven/Cataclysm-DDA/pull/74908))
-* [TropiCata] Velvet worm audit ([#74901](https://github.com/CleverRaven/Cataclysm-DDA/pull/74901))
