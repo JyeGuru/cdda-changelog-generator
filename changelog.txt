@@ -1,3 +1,4 @@
+* corrected nemesis respawn logic (#75083)
 
 Cataclysm-DDA experimental build 2024-07-18-1929 (83ac2a2)
 * [Magiclysm] Diviner can send you to druid tower (#75075)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2024-07-13-0020 (14d933b)
 * fix variable name error in example eoc (#74917)
 * [TropiCata] Make velvet worms zombify (#74914)
 * [Xedra Evolved] Full vampires need stolen blood in their body to heal (#74912)
-* Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) (#74908)

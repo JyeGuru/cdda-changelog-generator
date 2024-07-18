@@ -1,3 +1,4 @@
+* corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
 
 ---
 
@@ -223,4 +224,3 @@
 * fix variable name error in example eoc ([#74917](https://github.com/CleverRaven/Cataclysm-DDA/pull/74917))
 * [TropiCata] Make velvet worms zombify ([#74914](https://github.com/CleverRaven/Cataclysm-DDA/pull/74914))
 * [Xedra Evolved] Full vampires need stolen blood in their body to heal ([#74912](https://github.com/CleverRaven/Cataclysm-DDA/pull/74912))
-* Backport #73313 for 0.H (item condom cannot fit into pocket while loading: item is too long) ([#74908](https://github.com/CleverRaven/Cataclysm-DDA/pull/74908))
