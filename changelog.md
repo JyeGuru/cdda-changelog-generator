@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-19-2211 ([07bcddc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-19-2211))
+
 * Make salvaged combat exoskeletons repairable ([#74962](https://github.com/CleverRaven/Cataclysm-DDA/pull/74962))
 * Typified parts of map.h/map.cpp + usages ([#75077](https://github.com/CleverRaven/Cataclysm-DDA/pull/75077))
 
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-07-13-2009 ([c0c6b5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-2009))
 
 * [MoM] Add gremlin, a Nether-touched fox, plus small monster tweaks ([#74972](https://github.com/CleverRaven/Cataclysm-DDA/pull/74972))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-13-1733 ([6fcaa6b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-1733))
-
 * Limit shot targets to the reality bubble ([#75002](https://github.com/CleverRaven/Cataclysm-DDA/pull/75002))
 * Prevent automatic assignment of hotkeys to passive bionics ([#74999](https://github.com/CleverRaven/Cataclysm-DDA/pull/74999))
 * fix negative KCAL and VITAMIN_ABSORB_MOD enchantments ([#74977](https://github.com/CleverRaven/Cataclysm-DDA/pull/74977))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-19-2211 (07bcddc)
 * Make salvaged combat exoskeletons repairable (#74962)
 * Typified parts of map.h/map.cpp + usages (#75077)
 
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2024-07-13-2244 (2c9ec28)
 
 Cataclysm-DDA experimental build 2024-07-13-2009 (c0c6b5b)
 * [MoM] Add gremlin, a Nether-touched fox, plus small monster tweaks (#74972)
-
-Cataclysm-DDA experimental build 2024-07-13-1733 (6fcaa6b)
 * Limit shot targets to the reality bubble (#75002)
 * Prevent automatic assignment of hotkeys to passive bionics (#74999)
 * fix negative KCAL and VITAMIN_ABSORB_MOD enchantments (#74977)
