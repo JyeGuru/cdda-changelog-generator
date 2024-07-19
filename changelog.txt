@@ -1,3 +1,4 @@
+* Make salvaged combat exoskeletons repairable (#74962)
 * Typified parts of map.h/map.cpp + usages (#75077)
 
 Cataclysm-DDA experimental build 2024-07-19-1940 (4706e25)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2024-07-13-1733 (6fcaa6b)
 * Fix typo in balance scores for webbed, sludged, and sap (#74932)
 * Fix minor mapgen errors (#74934)
 * fix vitamin enchantment condition (#74929)
-* Routine i18n updates on 06 July 2024 (#74927)

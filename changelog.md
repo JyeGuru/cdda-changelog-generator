@@ -1,3 +1,4 @@
+* Make salvaged combat exoskeletons repairable ([#74962](https://github.com/CleverRaven/Cataclysm-DDA/pull/74962))
 * Typified parts of map.h/map.cpp + usages ([#75077](https://github.com/CleverRaven/Cataclysm-DDA/pull/75077))
 
 ---
@@ -230,4 +231,3 @@
 * Fix typo in balance scores for webbed, sludged, and sap ([#74932](https://github.com/CleverRaven/Cataclysm-DDA/pull/74932))
 * Fix minor mapgen errors ([#74934](https://github.com/CleverRaven/Cataclysm-DDA/pull/74934))
 * fix vitamin enchantment condition ([#74929](https://github.com/CleverRaven/Cataclysm-DDA/pull/74929))
-* Routine i18n updates on 06 July 2024 ([#74927](https://github.com/CleverRaven/Cataclysm-DDA/pull/74927))
