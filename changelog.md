@@ -1,3 +1,11 @@
+* Small dialogue fix ([#75100](https://github.com/CleverRaven/Cataclysm-DDA/pull/75100))
+* Add Isolation Protocol to autolabeler ([#75091](https://github.com/CleverRaven/Cataclysm-DDA/pull/75091))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-19-1400 ([b1cf8e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-19-1400))
+
+* Perk Category doesn't exist ([#75029](https://github.com/CleverRaven/Cataclysm-DDA/pull/75029))
 
 ---
 
@@ -186,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2024-07-13-0315 ([80a017e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-0315))
 
 * [Xedra Evolved] Vampire form tweaks ([#74995](https://github.com/CleverRaven/Cataclysm-DDA/pull/74995))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-13-0020 ([14d933b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-0020))
-
 * [XEDRA] Add MOM Electron Overflow compatibility by adding "ELECTROKINETIC_CHARGEABLE" flag to powered inventor items ([#74976](https://github.com/CleverRaven/Cataclysm-DDA/pull/74976))
 * Fix conjunctivitis duration stacking and eyedrops ([#74970](https://github.com/CleverRaven/Cataclysm-DDA/pull/74970))
 * [MoM] Pyrokinetics no longer blister when using Flame Immunity ([#74984](https://github.com/CleverRaven/Cataclysm-DDA/pull/74984))
@@ -213,7 +216,6 @@
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
 * Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
-* typified submap.h/cpp ([#74911](https://github.com/CleverRaven/Cataclysm-DDA/pull/74911))
 * A few new NPC story snippets ([#74924](https://github.com/CleverRaven/Cataclysm-DDA/pull/74924))
 * [TropiCata] Audit mutant invert wilderness spawns ([#74930](https://github.com/CleverRaven/Cataclysm-DDA/pull/74930))
 * Making Bakeries Not Suck: Part One ([#74938](https://github.com/CleverRaven/Cataclysm-DDA/pull/74938))
@@ -227,5 +229,3 @@
 * Routine i18n updates on 06 July 2024 ([#74927](https://github.com/CleverRaven/Cataclysm-DDA/pull/74927))
 * remove the social and scent making effects from skunk spray ([#74922](https://github.com/CleverRaven/Cataclysm-DDA/pull/74922))
 * fix variable name error in example eoc ([#74917](https://github.com/CleverRaven/Cataclysm-DDA/pull/74917))
-* [TropiCata] Make velvet worms zombify ([#74914](https://github.com/CleverRaven/Cataclysm-DDA/pull/74914))
-* [Xedra Evolved] Full vampires need stolen blood in their body to heal ([#74912](https://github.com/CleverRaven/Cataclysm-DDA/pull/74912))
