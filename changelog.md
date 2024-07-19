@@ -1,3 +1,5 @@
+* [Xedra Evolved] Add Skinchanger profession + hedge magic spell ([#75080](https://github.com/CleverRaven/Cataclysm-DDA/pull/75080))
+* [Magiclysm] Add mana trait NPC trait groups ([#75070](https://github.com/CleverRaven/Cataclysm-DDA/pull/75070))
 * [Xedra Evolved] Add Aelfen Tailoring to gossamer recipes ([#75096](https://github.com/CleverRaven/Cataclysm-DDA/pull/75096))
 * Add ITEM_WATERPROOFING flag, add to Magiclysm/XE content ([#75092](https://github.com/CleverRaven/Cataclysm-DDA/pull/75092))
 * Small dialogue fix ([#75100](https://github.com/CleverRaven/Cataclysm-DDA/pull/75100))
@@ -229,4 +231,3 @@
 * fix vitamin enchantment condition ([#74929](https://github.com/CleverRaven/Cataclysm-DDA/pull/74929))
 * Routine i18n updates on 06 July 2024 ([#74927](https://github.com/CleverRaven/Cataclysm-DDA/pull/74927))
 * remove the social and scent making effects from skunk spray ([#74922](https://github.com/CleverRaven/Cataclysm-DDA/pull/74922))
-* fix variable name error in example eoc ([#74917](https://github.com/CleverRaven/Cataclysm-DDA/pull/74917))
