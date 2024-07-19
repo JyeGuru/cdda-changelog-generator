@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-19-1649 ([006eac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-19-1649))
+
 * M110A1 Length Fix ([#75028](https://github.com/CleverRaven/Cataclysm-DDA/pull/75028))
 * [Xedra Evolved] Add Skinchanger profession + hedge magic spell ([#75080](https://github.com/CleverRaven/Cataclysm-DDA/pull/75080))
 * [Magiclysm] Add mana trait NPC trait groups ([#75070](https://github.com/CleverRaven/Cataclysm-DDA/pull/75070))
@@ -193,11 +198,6 @@
 #### Cataclysm-DDA experimental build 2024-07-13-1505 ([3a61d58](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-1505))
 
 * Routine i18n updates on 13 July 2024 ([#74998](https://github.com/CleverRaven/Cataclysm-DDA/pull/74998))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-13-0315 ([80a017e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-0315))
-
 * [Xedra Evolved] Vampire form tweaks ([#74995](https://github.com/CleverRaven/Cataclysm-DDA/pull/74995))
 * [XEDRA] Add MOM Electron Overflow compatibility by adding "ELECTROKINETIC_CHARGEABLE" flag to powered inventor items ([#74976](https://github.com/CleverRaven/Cataclysm-DDA/pull/74976))
 * Fix conjunctivitis duration stacking and eyedrops ([#74970](https://github.com/CleverRaven/Cataclysm-DDA/pull/74970))
