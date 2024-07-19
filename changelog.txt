@@ -1,3 +1,4 @@
+* Fix wield (#75103)
 
 Cataclysm-DDA experimental build 2024-07-19-1649 (006eac9)
 * M110A1 Length Fix (#75028)
@@ -146,4 +147,3 @@ Cataclysm-DDA experimental build 2024-07-13-1505 (3a61d58)
 * Fix minor mapgen errors (#74934)
 * fix vitamin enchantment condition (#74929)
 * Routine i18n updates on 06 July 2024 (#74927)
-* remove the social and scent making effects from skunk spray (#74922)
