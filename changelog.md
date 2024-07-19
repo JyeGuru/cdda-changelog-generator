@@ -1,3 +1,4 @@
+* [Isolation Protocol] Autodoc safe room variant ([#75087](https://github.com/CleverRaven/Cataclysm-DDA/pull/75087))
 * corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
 
 ---
@@ -207,7 +208,6 @@
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
 * Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
 * typified submap.h/cpp ([#74911](https://github.com/CleverRaven/Cataclysm-DDA/pull/74911))
-* [Xedra Evolved] Vampire blood gift research ([#74909](https://github.com/CleverRaven/Cataclysm-DDA/pull/74909))
 * A few new NPC story snippets ([#74924](https://github.com/CleverRaven/Cataclysm-DDA/pull/74924))
 * [TropiCata] Audit mutant invert wilderness spawns ([#74930](https://github.com/CleverRaven/Cataclysm-DDA/pull/74930))
 * Making Bakeries Not Suck: Part One ([#74938](https://github.com/CleverRaven/Cataclysm-DDA/pull/74938))
