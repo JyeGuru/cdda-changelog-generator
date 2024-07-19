@@ -1,3 +1,6 @@
+
+Cataclysm-DDA experimental build 2024-07-19-0455 (48419ad)
+* Weekly Changelog 2024-07-08 to 2024-07-15 (#75025)
 * [Isolation Protocol] Autodoc safe room variant (#75087)
 * corrected nemesis respawn logic (#75083)
 
@@ -131,7 +134,6 @@ Cataclysm-DDA experimental build 2024-07-13-0020 (14d933b)
 * [TropiCata] Audit mutant invert wilderness spawns (#74930)
 * Making Bakeries Not Suck: Part One (#74938)
 * Add Samosas (#74940)
-* Updates to debug menu (#74910)
 * fix loading of traps (#74928)
 * Fix rearward towing (#74916)
 * [Xedra Evolved] Full vampires' healing speed is increased with blood but bandages do nothing (#74921)

@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-19-0455 ([48419ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-19-0455))
+
+* Weekly Changelog 2024-07-08 to 2024-07-15 ([#75025](https://github.com/CleverRaven/Cataclysm-DDA/pull/75025))
 * [Isolation Protocol] Autodoc safe room variant ([#75087](https://github.com/CleverRaven/Cataclysm-DDA/pull/75087))
 * corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
 
@@ -212,7 +218,6 @@
 * [TropiCata] Audit mutant invert wilderness spawns ([#74930](https://github.com/CleverRaven/Cataclysm-DDA/pull/74930))
 * Making Bakeries Not Suck: Part One ([#74938](https://github.com/CleverRaven/Cataclysm-DDA/pull/74938))
 * Add Samosas ([#74940](https://github.com/CleverRaven/Cataclysm-DDA/pull/74940))
-* Updates to debug menu ([#74910](https://github.com/CleverRaven/Cataclysm-DDA/pull/74910))
 * fix loading of traps ([#74928](https://github.com/CleverRaven/Cataclysm-DDA/pull/74928))
 * Fix rearward towing ([#74916](https://github.com/CleverRaven/Cataclysm-DDA/pull/74916))
 * [Xedra Evolved] Full vampires' healing speed is increased with blood but bandages do nothing ([#74921](https://github.com/CleverRaven/Cataclysm-DDA/pull/74921))
