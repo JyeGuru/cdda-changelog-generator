@@ -1,3 +1,4 @@
+* Typified parts of map.h/map.cpp + usages (#75077)
 
 Cataclysm-DDA experimental build 2024-07-19-1940 (4706e25)
 * Fix wield (#75103)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2024-07-13-1733 (6fcaa6b)
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) (#74951)
 * [Xedra Evolved] Paraclesian morale effects scale (#74953)
 * Weekly Changelog 2024-07-01 to 2024-07-08 (#74946)
-* A few new NPC story snippets (#74924)
 * [TropiCata] Audit mutant invert wilderness spawns (#74930)
 * Making Bakeries Not Suck: Part One (#74938)
 * Add Samosas (#74940)
