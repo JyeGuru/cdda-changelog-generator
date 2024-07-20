@@ -1,3 +1,6 @@
+
+Cataclysm-DDA 0.H release candidate 2024-07-20-2154 (4b94d6c)
+* Backport #73129 for 0.H (misc repair kit reloading fix) (#75121)
 * init: finalize math last (#75109)
 
 Cataclysm-DDA experimental build 2024-07-20-1950 (5f7a7ca)
@@ -110,8 +113,6 @@ Cataclysm-DDA experimental build 2024-07-14-0652 (38b05c2)
 * Roofed Aftershock (#74968)
 * Gate Close Displacement Bugfix (#74975)
 * prevent book scanning in darkness (#75004)
-
-Cataclysm-DDA experimental build 2024-07-14-0412 (2e7802c)
 * [MoM] Randomize monster power cooldowns (#74990)
 * Allow getting in vehicles anyway (#74981)
 * Add pain_max_val to conjunctivitis (#75005)

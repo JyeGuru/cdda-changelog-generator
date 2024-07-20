@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-07-20-2154 ([4b94d6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-20-2154))
+
+* Backport #73129 for 0.H (misc repair kit reloading fix) ([#75121](https://github.com/CleverRaven/Cataclysm-DDA/pull/75121))
 * init: finalize math last ([#75109](https://github.com/CleverRaven/Cataclysm-DDA/pull/75109))
 
 ---
@@ -191,11 +197,6 @@
 * Roofed Aftershock ([#74968](https://github.com/CleverRaven/Cataclysm-DDA/pull/74968))
 * Gate Close Displacement Bugfix ([#74975](https://github.com/CleverRaven/Cataclysm-DDA/pull/74975))
 * prevent book scanning in darkness ([#75004](https://github.com/CleverRaven/Cataclysm-DDA/pull/75004))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-14-0412 ([2e7802c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-14-0412))
-
 * [MoM] Randomize monster power cooldowns ([#74990](https://github.com/CleverRaven/Cataclysm-DDA/pull/74990))
 * Allow getting in vehicles anyway ([#74981](https://github.com/CleverRaven/Cataclysm-DDA/pull/74981))
 * Add pain_max_val to conjunctivitis ([#75005](https://github.com/CleverRaven/Cataclysm-DDA/pull/75005))
