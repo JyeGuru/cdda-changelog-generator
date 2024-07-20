@@ -227,7 +227,6 @@
 * [TropiCata] Audit mutant invert wilderness spawns ([#74930](https://github.com/CleverRaven/Cataclysm-DDA/pull/74930))
 * Making Bakeries Not Suck: Part One ([#74938](https://github.com/CleverRaven/Cataclysm-DDA/pull/74938))
 * Add Samosas ([#74940](https://github.com/CleverRaven/Cataclysm-DDA/pull/74940))
-* fix loading of traps ([#74928](https://github.com/CleverRaven/Cataclysm-DDA/pull/74928))
 * Fix typo in balance scores for webbed, sludged, and sap ([#74932](https://github.com/CleverRaven/Cataclysm-DDA/pull/74932))
 * Fix minor mapgen errors ([#74934](https://github.com/CleverRaven/Cataclysm-DDA/pull/74934))
 * fix vitamin enchantment condition ([#74929](https://github.com/CleverRaven/Cataclysm-DDA/pull/74929))
