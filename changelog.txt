@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-20-1950 (5f7a7ca)
 * Leather Body Armor Coverage fix (#75117)
 
 Cataclysm-DDA experimental build 2024-07-20-1704 (8df469d)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-07-14-0652 (38b05c2)
 
 Cataclysm-DDA experimental build 2024-07-14-0412 (2e7802c)
 * [MoM] Randomize monster power cooldowns (#74990)
-
-Cataclysm-DDA experimental build 2024-07-14-0135 (17b6b9c)
 * Allow getting in vehicles anyway (#74981)
 * Add pain_max_val to conjunctivitis (#75005)
 * Add snippet for OCP trousers (#75000)
