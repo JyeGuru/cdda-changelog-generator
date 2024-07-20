@@ -1,3 +1,4 @@
+* init: finalize math last (#75109)
 
 Cataclysm-DDA experimental build 2024-07-20-1950 (5f7a7ca)
 * Leather Body Armor Coverage fix (#75117)
@@ -144,5 +145,4 @@ Cataclysm-DDA experimental build 2024-07-14-0412 (2e7802c)
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) (#74951)
 * [Xedra Evolved] Paraclesian morale effects scale (#74953)
 * Weekly Changelog 2024-07-01 to 2024-07-08 (#74946)
-* Making Bakeries Not Suck: Part One (#74938)
 * Add Samosas (#74940)

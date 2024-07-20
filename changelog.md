@@ -1,3 +1,4 @@
+* init: finalize math last ([#75109](https://github.com/CleverRaven/Cataclysm-DDA/pull/75109))
 
 ---
 
@@ -228,5 +229,4 @@
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
 * Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
-* Making Bakeries Not Suck: Part One ([#74938](https://github.com/CleverRaven/Cataclysm-DDA/pull/74938))
 * Add Samosas ([#74940](https://github.com/CleverRaven/Cataclysm-DDA/pull/74940))
