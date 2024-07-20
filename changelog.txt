@@ -1,3 +1,4 @@
+* Leather Body Armor Coverage fix (#75117)
 
 Cataclysm-DDA experimental build 2024-07-20-1704 (8df469d)
 * [MoM] Null line cleanup hits all possible targets (#75112)
@@ -138,7 +139,6 @@ Cataclysm-DDA experimental build 2024-07-14-0135 (17b6b9c)
 * [Magiclysm] Druid's Nature's Communion morale scales (#74954)
 * [Xedra Evolved] Paraclesian fae cannot wield items made of steel or iron without problems (except Homullus) (#74956)
 * add missing threshes to NECC blacklist (#74959)
-* Readd (Some) Condom Flavours (#74935)
 * Trap fixes and cyborg species fix (#74943)
 * Artificial Night Generator do not grant invis (#74947)
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) (#74951)

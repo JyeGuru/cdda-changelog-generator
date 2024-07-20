@@ -1,3 +1,4 @@
+* Leather Body Armor Coverage fix ([#75117](https://github.com/CleverRaven/Cataclysm-DDA/pull/75117))
 
 ---
 
@@ -222,7 +223,6 @@
 * [Magiclysm] Druid's Nature's Communion morale scales ([#74954](https://github.com/CleverRaven/Cataclysm-DDA/pull/74954))
 * [Xedra Evolved] Paraclesian fae cannot wield items made of steel or iron without problems (except Homullus) ([#74956](https://github.com/CleverRaven/Cataclysm-DDA/pull/74956))
 * add missing threshes to NECC blacklist ([#74959](https://github.com/CleverRaven/Cataclysm-DDA/pull/74959))
-* Readd (Some) Condom Flavours ([#74935](https://github.com/CleverRaven/Cataclysm-DDA/pull/74935))
 * Trap fixes and cyborg species fix ([#74943](https://github.com/CleverRaven/Cataclysm-DDA/pull/74943))
 * Artificial Night Generator do not grant invis ([#74947](https://github.com/CleverRaven/Cataclysm-DDA/pull/74947))
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
