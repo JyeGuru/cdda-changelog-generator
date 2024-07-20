@@ -1,3 +1,4 @@
+* Fix linux experimental build toolchain (#75126)
 
 Cataclysm-DDA 0.H release candidate 2024-07-20-2154 (4b94d6c)
 * Backport #73129 for 0.H (misc repair kit reloading fix) (#75121)
@@ -144,4 +145,3 @@ Cataclysm-DDA experimental build 2024-07-14-2247 (62e11b3)
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) (#74951)
 * [Xedra Evolved] Paraclesian morale effects scale (#74953)
 * Weekly Changelog 2024-07-01 to 2024-07-08 (#74946)
-* Add Samosas (#74940)
