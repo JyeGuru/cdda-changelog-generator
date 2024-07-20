@@ -1,3 +1,4 @@
+* [MoM] Null line cleanup hits all possible targets (#75112)
 * Chain zombie dogs via ``copy-from`` (#75102)
 * Routine i18n updates on 20 July 2024 (#75116)
 
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2024-07-13-2244 (2c9ec28)
 * Weekly Changelog 2024-07-01 to 2024-07-08 (#74946)
 * Making Bakeries Not Suck: Part One (#74938)
 * Add Samosas (#74940)
-* Fix minor mapgen errors (#74934)
