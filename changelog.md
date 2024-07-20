@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-20-1402 ([6ca95f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-20-1402))
+
+* [XE] Add more quests to Boann and add a way to get out of the world ([#75040](https://github.com/CleverRaven/Cataclysm-DDA/pull/75040))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-19-2211 ([07bcddc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-19-2211))
 
 * Make salvaged combat exoskeletons repairable ([#74962](https://github.com/CleverRaven/Cataclysm-DDA/pull/74962))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-07-13-2244 ([2c9ec28](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-2244))
 
 * Add snippet for OCP trousers ([#75000](https://github.com/CleverRaven/Cataclysm-DDA/pull/75000))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-13-2009 ([c0c6b5b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-13-2009))
-
 * [MoM] Add gremlin, a Nether-touched fox, plus small monster tweaks ([#74972](https://github.com/CleverRaven/Cataclysm-DDA/pull/74972))
 * Limit shot targets to the reality bubble ([#75002](https://github.com/CleverRaven/Cataclysm-DDA/pull/75002))
 * Prevent automatic assignment of hotkeys to passive bionics ([#74999](https://github.com/CleverRaven/Cataclysm-DDA/pull/74999))
@@ -229,4 +230,3 @@
 * Add Samosas ([#74940](https://github.com/CleverRaven/Cataclysm-DDA/pull/74940))
 * Fix typo in balance scores for webbed, sludged, and sap ([#74932](https://github.com/CleverRaven/Cataclysm-DDA/pull/74932))
 * Fix minor mapgen errors ([#74934](https://github.com/CleverRaven/Cataclysm-DDA/pull/74934))
-* fix vitamin enchantment condition ([#74929](https://github.com/CleverRaven/Cataclysm-DDA/pull/74929))

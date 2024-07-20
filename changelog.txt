@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-07-20-1402 (6ca95f0)
+* [XE] Add more quests to Boann and add a way to get out of the world (#75040)
+
 Cataclysm-DDA experimental build 2024-07-19-2211 (07bcddc)
 * Make salvaged combat exoskeletons repairable (#74962)
 * Typified parts of map.h/map.cpp + usages (#75077)
@@ -108,8 +111,6 @@ Cataclysm-DDA experimental build 2024-07-14-0135 (17b6b9c)
 
 Cataclysm-DDA experimental build 2024-07-13-2244 (2c9ec28)
 * Add snippet for OCP trousers (#75000)
-
-Cataclysm-DDA experimental build 2024-07-13-2009 (c0c6b5b)
 * [MoM] Add gremlin, a Nether-touched fox, plus small monster tweaks (#74972)
 * Limit shot targets to the reality bubble (#75002)
 * Prevent automatic assignment of hotkeys to passive bionics (#74999)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2024-07-13-2009 (c0c6b5b)
 * Add Samosas (#74940)
 * Fix typo in balance scores for webbed, sludged, and sap (#74932)
 * Fix minor mapgen errors (#74934)
-* fix vitamin enchantment condition (#74929)
