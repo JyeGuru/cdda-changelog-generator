@@ -108,8 +108,6 @@ Cataclysm-DDA experimental build 2024-07-15-0254 (020e8cd)
 
 Cataclysm-DDA experimental build 2024-07-14-2247 (62e11b3)
 * Actually remove acid bomb (#75017)
-
-Cataclysm-DDA experimental build 2024-07-14-0652 (38b05c2)
 * Roofed Aftershock (#74968)
 * Gate Close Displacement Bugfix (#74975)
 * prevent book scanning in darkness (#75004)

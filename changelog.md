@@ -189,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-07-14-2247 ([62e11b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-14-2247))
 
 * Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-14-0652 ([38b05c2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-14-0652))
-
 * Roofed Aftershock ([#74968](https://github.com/CleverRaven/Cataclysm-DDA/pull/74968))
 * Gate Close Displacement Bugfix ([#74975](https://github.com/CleverRaven/Cataclysm-DDA/pull/74975))
 * prevent book scanning in darkness ([#75004](https://github.com/CleverRaven/Cataclysm-DDA/pull/75004))
