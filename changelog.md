@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-21-1759 ([9e39260](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-21-1759))
+
+* Prune some unneeded magiclysm items from the to-hit blacklist ([#75131](https://github.com/CleverRaven/Cataclysm-DDA/pull/75131))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-21-0801 ([ecea7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-21-0801))
 
 * Make use of the hunting count calculated ([#75084](https://github.com/CleverRaven/Cataclysm-DDA/pull/75084))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-07-15-1909 ([b87d515](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-1909))
 
 * [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-15-1513 ([af2487d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-1513))
-
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods ([#75023](https://github.com/CleverRaven/Cataclysm-DDA/pull/75023))
 * [MoM] You can't contemplate powers if you're too weary ([#75021](https://github.com/CleverRaven/Cataclysm-DDA/pull/75021))
 * Adjusted construction to not providing roofs ([#74960](https://github.com/CleverRaven/Cataclysm-DDA/pull/74960))
@@ -222,7 +223,6 @@
 * [Xedra Evolved] Give Vampires nighttime overmap sight ([#74982](https://github.com/CleverRaven/Cataclysm-DDA/pull/74982))
 * [MoM] Concentrating on maintenance powers also levels metaphysics ([#74978](https://github.com/CleverRaven/Cataclysm-DDA/pull/74978))
 * Augustmoon tool trader ([#74961](https://github.com/CleverRaven/Cataclysm-DDA/pull/74961))
-* Sōjutsu "Way of the spear" martial art *actually* uses spears now ([#74952](https://github.com/CleverRaven/Cataclysm-DDA/pull/74952))
 * Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
 * Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
 * [Xedra Evolved] Add vampire transformation powers ([#74965](https://github.com/CleverRaven/Cataclysm-DDA/pull/74965))
