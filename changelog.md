@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-21-0150 ([a9e4235](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-21-0150))
+
+* Civilianize Semi Auto MP40 ([#75129](https://github.com/CleverRaven/Cataclysm-DDA/pull/75129))
 * [MoM] Correct Wave of Force learning message ([#75118](https://github.com/CleverRaven/Cataclysm-DDA/pull/75118))
 * Fix linux experimental build toolchain ([#75126](https://github.com/CleverRaven/Cataclysm-DDA/pull/75126))
 
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-07-15-0254 ([020e8cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-0254))
 
 * Changed empty wall list on gates to match all walls ([#75008](https://github.com/CleverRaven/Cataclysm-DDA/pull/75008))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-14-2247 ([62e11b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-14-2247))
-
 * Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
 * Roofed Aftershock ([#74968](https://github.com/CleverRaven/Cataclysm-DDA/pull/74968))
 * Gate Close Displacement Bugfix ([#74975](https://github.com/CleverRaven/Cataclysm-DDA/pull/74975))
@@ -225,4 +226,3 @@
 * Artificial Night Generator do not grant invis ([#74947](https://github.com/CleverRaven/Cataclysm-DDA/pull/74947))
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
-* Weekly Changelog 2024-07-01 to 2024-07-08 ([#74946](https://github.com/CleverRaven/Cataclysm-DDA/pull/74946))
