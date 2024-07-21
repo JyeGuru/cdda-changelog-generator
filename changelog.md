@@ -1,3 +1,10 @@
+* Make use of the hunting count calculated ([#75084](https://github.com/CleverRaven/Cataclysm-DDA/pull/75084))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-21-0503 ([c9f6b19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-21-0503))
+
+* Add apiaries to the farm generation ([#75124](https://github.com/CleverRaven/Cataclysm-DDA/pull/75124))
 
 ---
 
@@ -185,11 +192,6 @@
 * Adjusted construction to not providing roofs ([#74960](https://github.com/CleverRaven/Cataclysm-DDA/pull/74960))
 * Remove roof magic and a work around to deal with it ([#74957](https://github.com/CleverRaven/Cataclysm-DDA/pull/74957))
 * [Xedra Evolved] Add check for Salamander being near fire, not just in it ([#75014](https://github.com/CleverRaven/Cataclysm-DDA/pull/75014))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-15-0254 ([020e8cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-0254))
-
 * Changed empty wall list on gates to match all walls ([#75008](https://github.com/CleverRaven/Cataclysm-DDA/pull/75008))
 * Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
 * Roofed Aftershock ([#74968](https://github.com/CleverRaven/Cataclysm-DDA/pull/74968))
@@ -219,9 +221,7 @@
 * Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
 * Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
 * [Xedra Evolved] Add vampire transformation powers ([#74965](https://github.com/CleverRaven/Cataclysm-DDA/pull/74965))
-* Adjust criteria for building roofs ([#74948](https://github.com/CleverRaven/Cataclysm-DDA/pull/74948))
 * [Magiclysm] Druid's Nature's Communion morale scales ([#74954](https://github.com/CleverRaven/Cataclysm-DDA/pull/74954))
 * [Xedra Evolved] Paraclesian fae cannot wield items made of steel or iron without problems (except Homullus) ([#74956](https://github.com/CleverRaven/Cataclysm-DDA/pull/74956))
 * add missing threshes to NECC blacklist ([#74959](https://github.com/CleverRaven/Cataclysm-DDA/pull/74959))
-* [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
