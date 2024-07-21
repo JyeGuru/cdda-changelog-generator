@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-21-0801 ([ecea7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-21-0801))
+
 * Make use of the hunting count calculated ([#75084](https://github.com/CleverRaven/Cataclysm-DDA/pull/75084))
 
 ---
