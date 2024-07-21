@@ -1,4 +1,7 @@
 
+Cataclysm-DDA 0.H release candidate 2024-07-21-1845 (69aa044)
+* 0.H backport appliance shutoff fix (#75133)
+
 Cataclysm-DDA experimental build 2024-07-21-1759 (9e39260)
 * Prune some unneeded magiclysm items from the to-hit blacklist (#75131)
 
@@ -106,8 +109,6 @@ Cataclysm-DDA experimental build 2024-07-16-0231 (d661d9c)
 
 Cataclysm-DDA experimental build 2024-07-15-2338 (77843b4)
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target (#75032)
-
-Cataclysm-DDA experimental build 2024-07-15-1909 (b87d515)
 * [Bombastic Perks] Make perks unpurifiable (#75026)
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods (#75023)
 * [MoM] You can't contemplate powers if you're too weary (#75021)
@@ -145,4 +146,3 @@ Cataclysm-DDA experimental build 2024-07-15-1909 (b87d515)
 * [Magiclysm] Druid's Nature's Communion morale scales (#74954)
 * [Xedra Evolved] Paraclesian fae cannot wield items made of steel or iron without problems (except Homullus) (#74956)
 * add missing threshes to NECC blacklist (#74959)
-* [Xedra Evolved] Paraclesian morale effects scale (#74953)
