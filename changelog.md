@@ -223,6 +223,5 @@
 * [Magiclysm] Druid's Nature's Communion morale scales ([#74954](https://github.com/CleverRaven/Cataclysm-DDA/pull/74954))
 * [Xedra Evolved] Paraclesian fae cannot wield items made of steel or iron without problems (except Homullus) ([#74956](https://github.com/CleverRaven/Cataclysm-DDA/pull/74956))
 * add missing threshes to NECC blacklist ([#74959](https://github.com/CleverRaven/Cataclysm-DDA/pull/74959))
-* Artificial Night Generator do not grant invis ([#74947](https://github.com/CleverRaven/Cataclysm-DDA/pull/74947))
 * [Xedra Evolved] Paraclesian fae cannot wear steel or iron without problems (except Homullus) ([#74951](https://github.com/CleverRaven/Cataclysm-DDA/pull/74951))
 * [Xedra Evolved] Paraclesian morale effects scale ([#74953](https://github.com/CleverRaven/Cataclysm-DDA/pull/74953))
