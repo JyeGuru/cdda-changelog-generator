@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-22-1948 (8ae390f)
 * Fix error during player proficiency training (#75148)
 
 Cataclysm-DDA experimental build 2024-07-22-1649 (f4d1af7)
@@ -110,8 +112,6 @@ Cataclysm-DDA experimental build 2024-07-17-0556 (f830123)
 
 Cataclysm-DDA experimental build 2024-07-17-0303 (57a4069)
 * Camp storage meal abortion works properly (#75047)
-
-Cataclysm-DDA experimental build 2024-07-16-1658 (bdc6ee9)
 * [Magiclysm] Add Shifter druid profession + wildshifts (#74988)
 * Blocked negative part index from being used (#75031)
 * Audit Hub 01 armor repair fees and timeframes (#75033)
