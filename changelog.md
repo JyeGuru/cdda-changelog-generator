@@ -1,3 +1,5 @@
+* Sledgehammer Audit ([#75130](https://github.com/CleverRaven/Cataclysm-DDA/pull/75130))
+* Add WATERWALKING flag, implement it in Magiclysm/MoM/XE ([#75135](https://github.com/CleverRaven/Cataclysm-DDA/pull/75135))
 
 ---
 
@@ -198,7 +200,6 @@
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods ([#75023](https://github.com/CleverRaven/Cataclysm-DDA/pull/75023))
 * [MoM] You can't contemplate powers if you're too weary ([#75021](https://github.com/CleverRaven/Cataclysm-DDA/pull/75021))
 * Adjusted construction to not providing roofs ([#74960](https://github.com/CleverRaven/Cataclysm-DDA/pull/74960))
-* Remove roof magic and a work around to deal with it ([#74957](https://github.com/CleverRaven/Cataclysm-DDA/pull/74957))
 * [Xedra Evolved] Add check for Salamander being near fire, not just in it ([#75014](https://github.com/CleverRaven/Cataclysm-DDA/pull/75014))
 * Changed empty wall list on gates to match all walls ([#75008](https://github.com/CleverRaven/Cataclysm-DDA/pull/75008))
 * Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
@@ -228,5 +229,4 @@
 * Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
 * Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
 * [Xedra Evolved] Add vampire transformation powers ([#74965](https://github.com/CleverRaven/Cataclysm-DDA/pull/74965))
-* [Xedra Evolved] Paraclesian fae cannot wield items made of steel or iron without problems (except Homullus) ([#74956](https://github.com/CleverRaven/Cataclysm-DDA/pull/74956))
 * add missing threshes to NECC blacklist ([#74959](https://github.com/CleverRaven/Cataclysm-DDA/pull/74959))
