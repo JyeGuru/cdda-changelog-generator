@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-22-0629 ([ee4058b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-0629))
+
 * Only attempt to dodge relatively slow projectiles ([#75149](https://github.com/CleverRaven/Cataclysm-DDA/pull/75149))
 * Chain zombie wolves to zombie dogs through ``copy-from`` + Remove ``HOWL`` special attack ([#75145](https://github.com/CleverRaven/Cataclysm-DDA/pull/75145))
 * Actually use the zombie dog bone snippets ([#75142](https://github.com/CleverRaven/Cataclysm-DDA/pull/75142))
@@ -187,11 +192,6 @@
 * [Magiclysm] Add Shifter druid profession + wildshifts ([#74988](https://github.com/CleverRaven/Cataclysm-DDA/pull/74988))
 * Blocked negative part index from being used ([#75031](https://github.com/CleverRaven/Cataclysm-DDA/pull/75031))
 * Audit Hub 01 armor repair fees and timeframes ([#75033](https://github.com/CleverRaven/Cataclysm-DDA/pull/75033))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-16-0501 ([aa0cd91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-16-0501))
-
 * [MoM] Reduce start-up time for contemplation recipes to 0 seconds, add EoC to provide metaphysics XP ([#75013](https://github.com/CleverRaven/Cataclysm-DDA/pull/75013))
 * Home Canning background ([#75022](https://github.com/CleverRaven/Cataclysm-DDA/pull/75022))
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target ([#75032](https://github.com/CleverRaven/Cataclysm-DDA/pull/75032))
