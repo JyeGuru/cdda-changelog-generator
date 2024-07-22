@@ -1,3 +1,4 @@
+* Scorched zombie audit ([#75071](https://github.com/CleverRaven/Cataclysm-DDA/pull/75071))
 * Add more sorting options in advanced inventory manager ([#75104](https://github.com/CleverRaven/Cataclysm-DDA/pull/75104))
 * Further improve Barry Isherwood's rescue mission ([#75137](https://github.com/CleverRaven/Cataclysm-DDA/pull/75137))
 * [MoM] Fix possibility of studying new powers concurrently ([#75150](https://github.com/CleverRaven/Cataclysm-DDA/pull/75150))
@@ -228,4 +229,3 @@
 * [MoM] Pyrokinetics no longer blister when using Flame Immunity ([#74984](https://github.com/CleverRaven/Cataclysm-DDA/pull/74984))
 * Remove the cotton_salted material used in the ichcahuipilli ([#74983](https://github.com/CleverRaven/Cataclysm-DDA/pull/74983))
 * [Xedra Evolved] Give Vampires nighttime overmap sight ([#74982](https://github.com/CleverRaven/Cataclysm-DDA/pull/74982))
-* [MoM] Concentrating on maintenance powers also levels metaphysics ([#74978](https://github.com/CleverRaven/Cataclysm-DDA/pull/74978))
