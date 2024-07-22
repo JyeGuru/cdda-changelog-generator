@@ -227,6 +227,5 @@
 * Fix conjunctivitis duration stacking and eyedrops ([#74970](https://github.com/CleverRaven/Cataclysm-DDA/pull/74970))
 * [MoM] Pyrokinetics no longer blister when using Flame Immunity ([#74984](https://github.com/CleverRaven/Cataclysm-DDA/pull/74984))
 * Remove the cotton_salted material used in the ichcahuipilli ([#74983](https://github.com/CleverRaven/Cataclysm-DDA/pull/74983))
-* Draw fallback tiles for overmap weather on tiles overmap ([#74966](https://github.com/CleverRaven/Cataclysm-DDA/pull/74966))
 * [Xedra Evolved] Give Vampires nighttime overmap sight ([#74982](https://github.com/CleverRaven/Cataclysm-DDA/pull/74982))
 * [MoM] Concentrating on maintenance powers also levels metaphysics ([#74978](https://github.com/CleverRaven/Cataclysm-DDA/pull/74978))
