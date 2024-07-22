@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-22-0106 ([54ec149](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-0106))
+
+* fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-07-21-1845 ([69aa044](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-21-1845))
 
 * 0.H backport appliance shutoff fix ([#75133](https://github.com/CleverRaven/Cataclysm-DDA/pull/75133))
@@ -187,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-07-16-0231 ([d661d9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-16-0231))
 
 * Home Canning background ([#75022](https://github.com/CleverRaven/Cataclysm-DDA/pull/75022))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-15-2338 ([77843b4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-15-2338))
-
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target ([#75032](https://github.com/CleverRaven/Cataclysm-DDA/pull/75032))
 * [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods ([#75023](https://github.com/CleverRaven/Cataclysm-DDA/pull/75023))
@@ -227,6 +228,5 @@
 * Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
 * Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
 * [Xedra Evolved] Add vampire transformation powers ([#74965](https://github.com/CleverRaven/Cataclysm-DDA/pull/74965))
-* [Magiclysm] Druid's Nature's Communion morale scales ([#74954](https://github.com/CleverRaven/Cataclysm-DDA/pull/74954))
 * [Xedra Evolved] Paraclesian fae cannot wield items made of steel or iron without problems (except Homullus) ([#74956](https://github.com/CleverRaven/Cataclysm-DDA/pull/74956))
 * add missing threshes to NECC blacklist ([#74959](https://github.com/CleverRaven/Cataclysm-DDA/pull/74959))
