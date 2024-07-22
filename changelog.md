@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-22-0401 ([a1bce17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-0401))
+
 * Sledgehammer Audit ([#75130](https://github.com/CleverRaven/Cataclysm-DDA/pull/75130))
 * Add WATERWALKING flag, implement it in Magiclysm/MoM/XE ([#75135](https://github.com/CleverRaven/Cataclysm-DDA/pull/75135))
 
@@ -189,11 +194,6 @@
 #### Cataclysm-DDA experimental build 2024-07-16-0501 ([aa0cd91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-16-0501))
 
 * [MoM] Reduce start-up time for contemplation recipes to 0 seconds, add EoC to provide metaphysics XP ([#75013](https://github.com/CleverRaven/Cataclysm-DDA/pull/75013))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-16-0231 ([d661d9c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-16-0231))
-
 * Home Canning background ([#75022](https://github.com/CleverRaven/Cataclysm-DDA/pull/75022))
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target ([#75032](https://github.com/CleverRaven/Cataclysm-DDA/pull/75032))
 * [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
