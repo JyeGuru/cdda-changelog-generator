@@ -1,3 +1,10 @@
+* Fix error during player proficiency training ([#75148](https://github.com/CleverRaven/Cataclysm-DDA/pull/75148))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-22-1649 ([f4d1af7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-1649))
+
+* Adjust crude gun spawns ([#75155](https://github.com/CleverRaven/Cataclysm-DDA/pull/75155))
 
 ---
 
@@ -223,5 +230,3 @@
 * Draw fallback tiles for overmap weather on tiles overmap ([#74966](https://github.com/CleverRaven/Cataclysm-DDA/pull/74966))
 * [Xedra Evolved] Give Vampires nighttime overmap sight ([#74982](https://github.com/CleverRaven/Cataclysm-DDA/pull/74982))
 * [MoM] Concentrating on maintenance powers also levels metaphysics ([#74978](https://github.com/CleverRaven/Cataclysm-DDA/pull/74978))
-* Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
-* [Xedra Evolved] Add vampire transformation powers ([#74965](https://github.com/CleverRaven/Cataclysm-DDA/pull/74965))
