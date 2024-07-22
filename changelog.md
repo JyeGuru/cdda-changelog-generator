@@ -1,3 +1,4 @@
+* Only attempt to dodge relatively slow projectiles ([#75149](https://github.com/CleverRaven/Cataclysm-DDA/pull/75149))
 * Chain zombie wolves to zombie dogs through ``copy-from`` + Remove ``HOWL`` special attack ([#75145](https://github.com/CleverRaven/Cataclysm-DDA/pull/75145))
 * Actually use the zombie dog bone snippets ([#75142](https://github.com/CleverRaven/Cataclysm-DDA/pull/75142))
 * [My Sweet Cataclysm] Fix candy gator factions. Again. But for real this time tho ([#75143](https://github.com/CleverRaven/Cataclysm-DDA/pull/75143))
@@ -222,6 +223,5 @@
 * Draw fallback tiles for overmap weather on tiles overmap ([#74966](https://github.com/CleverRaven/Cataclysm-DDA/pull/74966))
 * [Xedra Evolved] Give Vampires nighttime overmap sight ([#74982](https://github.com/CleverRaven/Cataclysm-DDA/pull/74982))
 * [MoM] Concentrating on maintenance powers also levels metaphysics ([#74978](https://github.com/CleverRaven/Cataclysm-DDA/pull/74978))
-* Typified a bit of map.h/cpp ([#74963](https://github.com/CleverRaven/Cataclysm-DDA/pull/74963))
 * Bugfix for Appliances Turning Off Randomly ([#74964](https://github.com/CleverRaven/Cataclysm-DDA/pull/74964))
 * [Xedra Evolved] Add vampire transformation powers ([#74965](https://github.com/CleverRaven/Cataclysm-DDA/pull/74965))
