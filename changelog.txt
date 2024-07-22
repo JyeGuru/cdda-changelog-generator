@@ -1,3 +1,4 @@
+* Remove direction switching from stale action (#75167)
 
 Cataclysm-DDA experimental build 2024-07-22-1948 (8ae390f)
 * Fix error during player proficiency training (#75148)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2024-07-17-0303 (57a4069)
 * [Xedra Evolved] Add check for Salamander being near fire, not just in it (#75014)
 * Changed empty wall list on gates to match all walls (#75008)
 * Actually remove acid bomb (#75017)
-* Roofed Aftershock (#74968)
 * Gate Close Displacement Bugfix (#74975)
 * prevent book scanning in darkness (#75004)
 * [MoM] Randomize monster power cooldowns (#74990)

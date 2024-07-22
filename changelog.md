@@ -1,3 +1,4 @@
+* Remove direction switching from stale action ([#75167](https://github.com/CleverRaven/Cataclysm-DDA/pull/75167))
 
 ---
 
@@ -208,7 +209,6 @@
 * [Xedra Evolved] Add check for Salamander being near fire, not just in it ([#75014](https://github.com/CleverRaven/Cataclysm-DDA/pull/75014))
 * Changed empty wall list on gates to match all walls ([#75008](https://github.com/CleverRaven/Cataclysm-DDA/pull/75008))
 * Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
-* Roofed Aftershock ([#74968](https://github.com/CleverRaven/Cataclysm-DDA/pull/74968))
 * Gate Close Displacement Bugfix ([#74975](https://github.com/CleverRaven/Cataclysm-DDA/pull/74975))
 * prevent book scanning in darkness ([#75004](https://github.com/CleverRaven/Cataclysm-DDA/pull/75004))
 * [MoM] Randomize monster power cooldowns ([#74990](https://github.com/CleverRaven/Cataclysm-DDA/pull/74990))
