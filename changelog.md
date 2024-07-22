@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-22-2338 ([13a1a5f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-2338))
+
+* [Magiclysm] Artificer attunement passively recharges batteries in inventory ([#75161](https://github.com/CleverRaven/Cataclysm-DDA/pull/75161))
 * Remove direction switching from stale action ([#75167](https://github.com/CleverRaven/Cataclysm-DDA/pull/75167))
 
 ---
@@ -191,11 +197,6 @@
 * Various improvements to Barry Isherwood's rescue ([#75044](https://github.com/CleverRaven/Cataclysm-DDA/pull/75044))
 * Move minireactor to aftershock ([#75041](https://github.com/CleverRaven/Cataclysm-DDA/pull/75041))
 * Updated special companions to use new rules dialog ([#75045](https://github.com/CleverRaven/Cataclysm-DDA/pull/75045))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-17-0303 ([57a4069](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-0303))
-
 * Camp storage meal abortion works properly ([#75047](https://github.com/CleverRaven/Cataclysm-DDA/pull/75047))
 * [Magiclysm] Add Shifter druid profession + wildshifts ([#74988](https://github.com/CleverRaven/Cataclysm-DDA/pull/74988))
 * Blocked negative part index from being used ([#75031](https://github.com/CleverRaven/Cataclysm-DDA/pull/75031))
@@ -224,7 +225,6 @@
 * Routine i18n updates on 13 July 2024 ([#74998](https://github.com/CleverRaven/Cataclysm-DDA/pull/74998))
 * [Xedra Evolved] Vampire form tweaks ([#74995](https://github.com/CleverRaven/Cataclysm-DDA/pull/74995))
 * [XEDRA] Add MOM Electron Overflow compatibility by adding "ELECTROKINETIC_CHARGEABLE" flag to powered inventor items ([#74976](https://github.com/CleverRaven/Cataclysm-DDA/pull/74976))
-* Fix conjunctivitis duration stacking and eyedrops ([#74970](https://github.com/CleverRaven/Cataclysm-DDA/pull/74970))
 * [MoM] Pyrokinetics no longer blister when using Flame Immunity ([#74984](https://github.com/CleverRaven/Cataclysm-DDA/pull/74984))
 * Remove the cotton_salted material used in the ichcahuipilli ([#74983](https://github.com/CleverRaven/Cataclysm-DDA/pull/74983))
 * [Xedra Evolved] Give Vampires nighttime overmap sight ([#74982](https://github.com/CleverRaven/Cataclysm-DDA/pull/74982))
