@@ -1,3 +1,5 @@
+* [Xedra Evolved] Add waterwalking hedge magic spell ([#75171](https://github.com/CleverRaven/Cataclysm-DDA/pull/75171))
+* Remove survivor launchers ([#75172](https://github.com/CleverRaven/Cataclysm-DDA/pull/75172))
 * [Magiclysm] Vulcanists are immune to smoke and blistering ([#75165](https://github.com/CleverRaven/Cataclysm-DDA/pull/75165))
 
 ---
@@ -204,7 +206,6 @@
 * Move minireactor to aftershock ([#75041](https://github.com/CleverRaven/Cataclysm-DDA/pull/75041))
 * Updated special companions to use new rules dialog ([#75045](https://github.com/CleverRaven/Cataclysm-DDA/pull/75045))
 * Camp storage meal abortion works properly ([#75047](https://github.com/CleverRaven/Cataclysm-DDA/pull/75047))
-* [Magiclysm] Add Shifter druid profession + wildshifts ([#74988](https://github.com/CleverRaven/Cataclysm-DDA/pull/74988))
 * Blocked negative part index from being used ([#75031](https://github.com/CleverRaven/Cataclysm-DDA/pull/75031))
 * Audit Hub 01 armor repair fees and timeframes ([#75033](https://github.com/CleverRaven/Cataclysm-DDA/pull/75033))
 * [MoM] Reduce start-up time for contemplation recipes to 0 seconds, add EoC to provide metaphysics XP ([#75013](https://github.com/CleverRaven/Cataclysm-DDA/pull/75013))
@@ -217,7 +218,6 @@
 * Changed empty wall list on gates to match all walls ([#75008](https://github.com/CleverRaven/Cataclysm-DDA/pull/75008))
 * Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
 * prevent book scanning in darkness ([#75004](https://github.com/CleverRaven/Cataclysm-DDA/pull/75004))
-* [MoM] Randomize monster power cooldowns ([#74990](https://github.com/CleverRaven/Cataclysm-DDA/pull/74990))
 * Add pain_max_val to conjunctivitis ([#75005](https://github.com/CleverRaven/Cataclysm-DDA/pull/75005))
 * Add snippet for OCP trousers ([#75000](https://github.com/CleverRaven/Cataclysm-DDA/pull/75000))
 * Limit shot targets to the reality bubble ([#75002](https://github.com/CleverRaven/Cataclysm-DDA/pull/75002))
