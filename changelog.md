@@ -1,3 +1,4 @@
+* Add missing 'to' in Baton Proficiency ([#75175](https://github.com/CleverRaven/Cataclysm-DDA/pull/75175))
 * Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
 * Scorched zombie audit ([#75071](https://github.com/CleverRaven/Cataclysm-DDA/pull/75071))
 * Add more sorting options in advanced inventory manager ([#75104](https://github.com/CleverRaven/Cataclysm-DDA/pull/75104))

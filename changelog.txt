@@ -1,3 +1,4 @@
+* Add missing 'to' in Baton Proficiency (#75175)
 * Grant additional permissions to stale action (#75176)
 * Scorched zombie audit (#75071)
 * Add more sorting options in advanced inventory manager (#75104)
