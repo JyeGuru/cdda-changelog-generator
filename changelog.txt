@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-23-0822 (302ed6e)
 * Isolation protocol: Timer and map updates (#75088)
 * fix permission scope typo in stale.yml (#75180)
 * Remove crude gun mod locations (#75157)
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2024-07-17-2047 (d37ab3e)
 
 Cataclysm-DDA experimental build 2024-07-17-1813 (ef9c0eb)
 * [Xedra Evolved] Add Iron Intolerance starting trait (#75068)
-
-Cataclysm-DDA experimental build 2024-07-17-1500 (ca314e0)
 * [MoM] Add Sensor Jamming Photokinetic power (#75056)
 * [Magiclysm] Add Iron Intolerance starting trait (#75053)
 * [ Xedra Evolved ] Add some additional missions to gain best friend status with an npc. (#74987)

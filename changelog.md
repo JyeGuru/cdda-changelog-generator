@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-23-0822 ([302ed6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-23-0822))
+
 * Isolation protocol: Timer and map updates ([#75088](https://github.com/CleverRaven/Cataclysm-DDA/pull/75088))
 * fix permission scope typo in stale.yml ([#75180](https://github.com/CleverRaven/Cataclysm-DDA/pull/75180))
 * Remove crude gun mod locations ([#75157](https://github.com/CleverRaven/Cataclysm-DDA/pull/75157))
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-07-17-1813 ([ef9c0eb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-1813))
 
 * [Xedra Evolved] Add Iron Intolerance starting trait ([#75068](https://github.com/CleverRaven/Cataclysm-DDA/pull/75068))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-17-1500 ([ca314e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-1500))
-
 * [MoM] Add Sensor Jamming Photokinetic power ([#75056](https://github.com/CleverRaven/Cataclysm-DDA/pull/75056))
 * [Magiclysm] Add Iron Intolerance starting trait ([#75053](https://github.com/CleverRaven/Cataclysm-DDA/pull/75053))
 * [ Xedra Evolved ] Add some additional missions to gain best friend status with an npc. ([#74987](https://github.com/CleverRaven/Cataclysm-DDA/pull/74987))
