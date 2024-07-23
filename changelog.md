@@ -1,3 +1,4 @@
+* [MoM] Rework Extended and Torrential channeling recipe learning ([#75147](https://github.com/CleverRaven/Cataclysm-DDA/pull/75147))
 * [Xedra Evolved] Add waterwalking hedge magic spell ([#75171](https://github.com/CleverRaven/Cataclysm-DDA/pull/75171))
 * Remove survivor launchers ([#75172](https://github.com/CleverRaven/Cataclysm-DDA/pull/75172))
 * [Magiclysm] Vulcanists are immune to smoke and blistering ([#75165](https://github.com/CleverRaven/Cataclysm-DDA/pull/75165))
@@ -225,4 +226,3 @@
 * Better EoC support for field search ([#74996](https://github.com/CleverRaven/Cataclysm-DDA/pull/74996))
 * Remove the white phosphorous recipe added in #74599 ([#74997](https://github.com/CleverRaven/Cataclysm-DDA/pull/74997))
 * Routine i18n updates on 13 July 2024 ([#74998](https://github.com/CleverRaven/Cataclysm-DDA/pull/74998))
-* [Xedra Evolved] Vampire form tweaks ([#74995](https://github.com/CleverRaven/Cataclysm-DDA/pull/74995))
