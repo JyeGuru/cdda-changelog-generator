@@ -1,3 +1,5 @@
+* Isolation protocol: Timer and map updates (#75088)
+* fix permission scope typo in stale.yml (#75180)
 * Remove crude gun mod locations (#75157)
 * [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding (#75164)
 
@@ -142,5 +144,3 @@ Cataclysm-DDA experimental build 2024-07-17-1500 (ca314e0)
 * Remove the white phosphorous recipe added in #74599 (#74997)
 * Routine i18n updates on 13 July 2024 (#74998)
 * [Xedra Evolved] Vampire form tweaks (#74995)
-* [MoM] Pyrokinetics no longer blister when using Flame Immunity (#74984)
-* Remove the cotton_salted material used in the ichcahuipilli (#74983)

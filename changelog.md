@@ -1,3 +1,5 @@
+* Isolation protocol: Timer and map updates ([#75088](https://github.com/CleverRaven/Cataclysm-DDA/pull/75088))
+* fix permission scope typo in stale.yml ([#75180](https://github.com/CleverRaven/Cataclysm-DDA/pull/75180))
 * Remove crude gun mod locations ([#75157](https://github.com/CleverRaven/Cataclysm-DDA/pull/75157))
 * [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding ([#75164](https://github.com/CleverRaven/Cataclysm-DDA/pull/75164))
 
@@ -223,5 +225,3 @@
 * Remove the white phosphorous recipe added in #74599 ([#74997](https://github.com/CleverRaven/Cataclysm-DDA/pull/74997))
 * Routine i18n updates on 13 July 2024 ([#74998](https://github.com/CleverRaven/Cataclysm-DDA/pull/74998))
 * [Xedra Evolved] Vampire form tweaks ([#74995](https://github.com/CleverRaven/Cataclysm-DDA/pull/74995))
-* [MoM] Pyrokinetics no longer blister when using Flame Immunity ([#74984](https://github.com/CleverRaven/Cataclysm-DDA/pull/74984))
-* Remove the cotton_salted material used in the ichcahuipilli ([#74983](https://github.com/CleverRaven/Cataclysm-DDA/pull/74983))
