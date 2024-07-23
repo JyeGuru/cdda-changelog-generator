@@ -1,3 +1,4 @@
+* Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
 * Scorched zombie audit ([#75071](https://github.com/CleverRaven/Cataclysm-DDA/pull/75071))
 * Add more sorting options in advanced inventory manager ([#75104](https://github.com/CleverRaven/Cataclysm-DDA/pull/75104))
 * Further improve Barry Isherwood's rescue mission ([#75137](https://github.com/CleverRaven/Cataclysm-DDA/pull/75137))
@@ -184,7 +185,6 @@
 * [MoM] Add Sensor Jamming Photokinetic power ([#75056](https://github.com/CleverRaven/Cataclysm-DDA/pull/75056))
 * [Magiclysm] Add Iron Intolerance starting trait ([#75053](https://github.com/CleverRaven/Cataclysm-DDA/pull/75053))
 * [ Xedra Evolved ] Add some additional missions to gain best friend status with an npc. ([#74987](https://github.com/CleverRaven/Cataclysm-DDA/pull/74987))
-* Typified a bit of map.h/cpp + dependents ([#74979](https://github.com/CleverRaven/Cataclysm-DDA/pull/74979))
 * magiclysm: give spell herbs activation messages ([#75018](https://github.com/CleverRaven/Cataclysm-DDA/pull/75018))
 * Added deconstruction to deployed_items needing it ([#75052](https://github.com/CleverRaven/Cataclysm-DDA/pull/75052))
 
@@ -193,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-07-17-1224 ([58089e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-1224))
 
 * Again. Some dialogue fixes. ([#75061](https://github.com/CleverRaven/Cataclysm-DDA/pull/75061))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-17-0556 ([f830123](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-0556))
-
 * Add TEMPORARY_SHAPESHIFT flag, use it to recalculate size before standard size flags ([#75043](https://github.com/CleverRaven/Cataclysm-DDA/pull/75043))
 * Various improvements to Barry Isherwood's rescue ([#75044](https://github.com/CleverRaven/Cataclysm-DDA/pull/75044))
 * Move minireactor to aftershock ([#75041](https://github.com/CleverRaven/Cataclysm-DDA/pull/75041))
