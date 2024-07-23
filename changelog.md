@@ -1,3 +1,4 @@
+* add `always_cast_spell` ammo effect boolean ([#75168](https://github.com/CleverRaven/Cataclysm-DDA/pull/75168))
 * [MoM] Rework Extended and Torrential channeling recipe learning ([#75147](https://github.com/CleverRaven/Cataclysm-DDA/pull/75147))
 * [Xedra Evolved] Add waterwalking hedge magic spell ([#75171](https://github.com/CleverRaven/Cataclysm-DDA/pull/75171))
 * Remove survivor launchers ([#75172](https://github.com/CleverRaven/Cataclysm-DDA/pull/75172))
@@ -223,6 +224,5 @@
 * Add snippet for OCP trousers ([#75000](https://github.com/CleverRaven/Cataclysm-DDA/pull/75000))
 * Limit shot targets to the reality bubble ([#75002](https://github.com/CleverRaven/Cataclysm-DDA/pull/75002))
 * Prevent automatic assignment of hotkeys to passive bionics ([#74999](https://github.com/CleverRaven/Cataclysm-DDA/pull/74999))
-* Better EoC support for field search ([#74996](https://github.com/CleverRaven/Cataclysm-DDA/pull/74996))
 * Remove the white phosphorous recipe added in #74599 ([#74997](https://github.com/CleverRaven/Cataclysm-DDA/pull/74997))
 * Routine i18n updates on 13 July 2024 ([#74998](https://github.com/CleverRaven/Cataclysm-DDA/pull/74998))
