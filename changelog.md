@@ -1,3 +1,10 @@
+* Remove crude gun mod locations ([#75157](https://github.com/CleverRaven/Cataclysm-DDA/pull/75157))
+* [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding ([#75164](https://github.com/CleverRaven/Cataclysm-DDA/pull/75164))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-23-0544 ([261d9c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-23-0544))
+
 * Add missing 'to' in Baton Proficiency ([#75175](https://github.com/CleverRaven/Cataclysm-DDA/pull/75175))
 * Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
 * Scorched zombie audit ([#75071](https://github.com/CleverRaven/Cataclysm-DDA/pull/75071))
@@ -188,11 +195,6 @@
 * [ Xedra Evolved ] Add some additional missions to gain best friend status with an npc. ([#74987](https://github.com/CleverRaven/Cataclysm-DDA/pull/74987))
 * magiclysm: give spell herbs activation messages ([#75018](https://github.com/CleverRaven/Cataclysm-DDA/pull/75018))
 * Added deconstruction to deployed_items needing it ([#75052](https://github.com/CleverRaven/Cataclysm-DDA/pull/75052))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-17-1224 ([58089e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-1224))
-
 * Again. Some dialogue fixes. ([#75061](https://github.com/CleverRaven/Cataclysm-DDA/pull/75061))
 * Add TEMPORARY_SHAPESHIFT flag, use it to recalculate size before standard size flags ([#75043](https://github.com/CleverRaven/Cataclysm-DDA/pull/75043))
 * Various improvements to Barry Isherwood's rescue ([#75044](https://github.com/CleverRaven/Cataclysm-DDA/pull/75044))
@@ -213,7 +215,6 @@
 * Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
 * prevent book scanning in darkness ([#75004](https://github.com/CleverRaven/Cataclysm-DDA/pull/75004))
 * [MoM] Randomize monster power cooldowns ([#74990](https://github.com/CleverRaven/Cataclysm-DDA/pull/74990))
-* Allow getting in vehicles anyway ([#74981](https://github.com/CleverRaven/Cataclysm-DDA/pull/74981))
 * Add pain_max_val to conjunctivitis ([#75005](https://github.com/CleverRaven/Cataclysm-DDA/pull/75005))
 * Add snippet for OCP trousers ([#75000](https://github.com/CleverRaven/Cataclysm-DDA/pull/75000))
 * Limit shot targets to the reality bubble ([#75002](https://github.com/CleverRaven/Cataclysm-DDA/pull/75002))
@@ -224,4 +225,3 @@
 * [Xedra Evolved] Vampire form tweaks ([#74995](https://github.com/CleverRaven/Cataclysm-DDA/pull/74995))
 * [MoM] Pyrokinetics no longer blister when using Flame Immunity ([#74984](https://github.com/CleverRaven/Cataclysm-DDA/pull/74984))
 * Remove the cotton_salted material used in the ichcahuipilli ([#74983](https://github.com/CleverRaven/Cataclysm-DDA/pull/74983))
-* [Xedra Evolved] Give Vampires nighttime overmap sight ([#74982](https://github.com/CleverRaven/Cataclysm-DDA/pull/74982))
