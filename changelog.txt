@@ -1,3 +1,4 @@
+* also add actions:write permission to actions/stale (#75193)
 
 Cataclysm-DDA experimental build 2024-07-23-1729 (776c297)
 * add `always_cast_spell` ammo effect boolean (#75168)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2024-07-17-2353 (e9e740f)
 * Add snippet for OCP trousers (#75000)
 * Limit shot targets to the reality bubble (#75002)
 * Prevent automatic assignment of hotkeys to passive bionics (#74999)
-* Remove the white phosphorous recipe added in #74599 (#74997)
 * Routine i18n updates on 13 July 2024 (#74998)
