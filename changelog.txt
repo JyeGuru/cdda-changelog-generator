@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Fulgurating Strikes Sylph trait (#75198)
 
 Cataclysm-DDA experimental build 2024-07-24-2053 (f50d357)
 * Add missing <string> for std::string (#75202)
@@ -140,7 +141,6 @@ Cataclysm-DDA experimental build 2024-07-19-1940 (4706e25)
 * Camp storage meal abortion works properly (#75047)
 * Blocked negative part index from being used (#75031)
 * Audit Hub 01 armor repair fees and timeframes (#75033)
-* Home Canning background (#75022)
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target (#75032)
 * [Bombastic Perks] Make perks unpurifiable (#75026)
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods (#75023)

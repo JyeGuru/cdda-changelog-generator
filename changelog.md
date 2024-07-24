@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Fulgurating Strikes Sylph trait ([#75198](https://github.com/CleverRaven/Cataclysm-DDA/pull/75198))
 
 ---
 
@@ -221,7 +222,6 @@
 * Camp storage meal abortion works properly ([#75047](https://github.com/CleverRaven/Cataclysm-DDA/pull/75047))
 * Blocked negative part index from being used ([#75031](https://github.com/CleverRaven/Cataclysm-DDA/pull/75031))
 * Audit Hub 01 armor repair fees and timeframes ([#75033](https://github.com/CleverRaven/Cataclysm-DDA/pull/75033))
-* Home Canning background ([#75022](https://github.com/CleverRaven/Cataclysm-DDA/pull/75022))
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target ([#75032](https://github.com/CleverRaven/Cataclysm-DDA/pull/75032))
 * [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods ([#75023](https://github.com/CleverRaven/Cataclysm-DDA/pull/75023))
