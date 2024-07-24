@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-07-24-0547 ([85f25e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-24-0547))
+
 * Update AppStream metadata to current version info before final release of 0.H ([#75178](https://github.com/CleverRaven/Cataclysm-DDA/pull/75178))
 
 ---
@@ -192,11 +197,6 @@
 * Weekly Changelog 2024-07-08 to 2024-07-15 ([#75025](https://github.com/CleverRaven/Cataclysm-DDA/pull/75025))
 * [Isolation Protocol] Autodoc safe room variant ([#75087](https://github.com/CleverRaven/Cataclysm-DDA/pull/75087))
 * corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-18-1929 ([83ac2a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-18-1929))
-
 * [Magiclysm] Diviner can send you to druid tower ([#75075](https://github.com/CleverRaven/Cataclysm-DDA/pull/75075))
 * Fixed deconstruction save/load item_location loss and screwed progress ([#75020](https://github.com/CleverRaven/Cataclysm-DDA/pull/75020))
 * Fix weather json typo ([#75076](https://github.com/CleverRaven/Cataclysm-DDA/pull/75076))
