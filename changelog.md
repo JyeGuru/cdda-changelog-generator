@@ -224,5 +224,4 @@
 * [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods ([#75023](https://github.com/CleverRaven/Cataclysm-DDA/pull/75023))
 * [MoM] You can't contemplate powers if you're too weary ([#75021](https://github.com/CleverRaven/Cataclysm-DDA/pull/75021))
-* [Xedra Evolved] Add check for Salamander being near fire, not just in it ([#75014](https://github.com/CleverRaven/Cataclysm-DDA/pull/75014))
 * Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
