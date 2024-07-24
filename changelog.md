@@ -1,3 +1,6 @@
+* Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))
+* [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers ([#75197](https://github.com/CleverRaven/Cataclysm-DDA/pull/75197))
+* [MoM] You can always stop concentrating ([#75200](https://github.com/CleverRaven/Cataclysm-DDA/pull/75200))
 
 ---
 
@@ -199,7 +202,6 @@
 * [Isolation Protocol] Autodoc safe room variant ([#75087](https://github.com/CleverRaven/Cataclysm-DDA/pull/75087))
 * corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
 * [Magiclysm] Diviner can send you to druid tower ([#75075](https://github.com/CleverRaven/Cataclysm-DDA/pull/75075))
-* Fixed deconstruction save/load item_location loss and screwed progress ([#75020](https://github.com/CleverRaven/Cataclysm-DDA/pull/75020))
 * Fix weather json typo ([#75076](https://github.com/CleverRaven/Cataclysm-DDA/pull/75076))
 * Burning Buildings Bugfix ([#75038](https://github.com/CleverRaven/Cataclysm-DDA/pull/75038))
 * Add "Wound Care" proficiency for Park Rangers ([#75065](https://github.com/CleverRaven/Cataclysm-DDA/pull/75065))
@@ -209,7 +211,6 @@
 * [Xedra Evolved] Add Iron Intolerance starting trait ([#75068](https://github.com/CleverRaven/Cataclysm-DDA/pull/75068))
 * [MoM] Add Sensor Jamming Photokinetic power ([#75056](https://github.com/CleverRaven/Cataclysm-DDA/pull/75056))
 * [Magiclysm] Add Iron Intolerance starting trait ([#75053](https://github.com/CleverRaven/Cataclysm-DDA/pull/75053))
-* magiclysm: give spell herbs activation messages ([#75018](https://github.com/CleverRaven/Cataclysm-DDA/pull/75018))
 * Added deconstruction to deployed_items needing it ([#75052](https://github.com/CleverRaven/Cataclysm-DDA/pull/75052))
 * Again. Some dialogue fixes. ([#75061](https://github.com/CleverRaven/Cataclysm-DDA/pull/75061))
 * Add TEMPORARY_SHAPESHIFT flag, use it to recalculate size before standard size flags ([#75043](https://github.com/CleverRaven/Cataclysm-DDA/pull/75043))
@@ -224,4 +225,3 @@
 * [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods ([#75023](https://github.com/CleverRaven/Cataclysm-DDA/pull/75023))
 * [MoM] You can't contemplate powers if you're too weary ([#75021](https://github.com/CleverRaven/Cataclysm-DDA/pull/75021))
-* Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
