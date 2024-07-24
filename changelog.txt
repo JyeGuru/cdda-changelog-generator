@@ -1,3 +1,4 @@
+* Update AppStream metadata to current version info before final release of 0.H (#75178)
 
 Cataclysm-DDA experimental build 2024-07-24-0510 (a24a4db)
 * fix NPCs spawning hallucinations, that player can see (#75128)
@@ -143,5 +144,4 @@ Cataclysm-DDA experimental build 2024-07-18-1929 (83ac2a2)
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods (#75023)
 * [MoM] You can't contemplate powers if you're too weary (#75021)
 * [Xedra Evolved] Add check for Salamander being near fire, not just in it (#75014)
-* Changed empty wall list on gates to match all walls (#75008)
 * Actually remove acid bomb (#75017)
