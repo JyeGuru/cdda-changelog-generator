@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-07-24-2053 (f50d357)
+* Add missing <string> for std::string (#75202)
+
 Cataclysm-DDA experimental build 2024-07-24-1630 (02aa9a9)
 * Correct some categories from non-weapons (#75205)
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers (#75197)
@@ -107,8 +110,6 @@ Cataclysm-DDA experimental build 2024-07-20-1402 (6ca95f0)
 
 Cataclysm-DDA experimental build 2024-07-19-1940 (4706e25)
 * Fix wield (#75103)
-
-Cataclysm-DDA experimental build 2024-07-19-1649 (006eac9)
 * M110A1 Length Fix (#75028)
 * [Xedra Evolved] Add Skinchanger profession + hedge magic spell (#75080)
 * [Magiclysm] Add mana trait NPC trait groups (#75070)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-07-19-1649 (006eac9)
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target (#75032)
 * [Bombastic Perks] Make perks unpurifiable (#75026)
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods (#75023)
-* [MoM] You can't contemplate powers if you're too weary (#75021)

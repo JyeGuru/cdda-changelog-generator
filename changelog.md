@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-24-2053 ([f50d357](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-2053))
+
+* Add missing <string> for std::string ([#75202](https://github.com/CleverRaven/Cataclysm-DDA/pull/75202))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-24-1630 ([02aa9a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-1630))
 
 * Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))
@@ -185,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-07-19-1940 ([4706e25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-19-1940))
 
 * Fix wield ([#75103](https://github.com/CleverRaven/Cataclysm-DDA/pull/75103))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-19-1649 ([006eac9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-19-1649))
-
 * M110A1 Length Fix ([#75028](https://github.com/CleverRaven/Cataclysm-DDA/pull/75028))
 * [Xedra Evolved] Add Skinchanger profession + hedge magic spell ([#75080](https://github.com/CleverRaven/Cataclysm-DDA/pull/75080))
 * [Magiclysm] Add mana trait NPC trait groups ([#75070](https://github.com/CleverRaven/Cataclysm-DDA/pull/75070))
@@ -224,4 +225,3 @@
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target ([#75032](https://github.com/CleverRaven/Cataclysm-DDA/pull/75032))
 * [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
 * Prevent the unique Isherwood Migo Tower from Spawning in Innawoods ([#75023](https://github.com/CleverRaven/Cataclysm-DDA/pull/75023))
-* [MoM] You can't contemplate powers if you're too weary ([#75021](https://github.com/CleverRaven/Cataclysm-DDA/pull/75021))
