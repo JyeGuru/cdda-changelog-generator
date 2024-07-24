@@ -1,3 +1,6 @@
+* fix NPCs spawning hallucinations, that player can see (#75128)
+* Moved Magiclysm validation to Basic Build (#75132)
+* [Magiclysm] Reduce effect of Gaia's Chosen thorns (#75174)
 * Rename 'price / volume' to 'barter value / volume' (#75181)
 
 Cataclysm-DDA experimental build 2024-07-24-0150 (e4519e0)
@@ -142,6 +145,3 @@ Cataclysm-DDA experimental build 2024-07-18-0452 (db34351)
 * [Xedra Evolved] Add check for Salamander being near fire, not just in it (#75014)
 * Changed empty wall list on gates to match all walls (#75008)
 * Actually remove acid bomb (#75017)
-* prevent book scanning in darkness (#75004)
-* Add pain_max_val to conjunctivitis (#75005)
-* Limit shot targets to the reality bubble (#75002)
