@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-24-1353 ([f91e479](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-1353))
+
+* Yugg Gun to fix issues with gene sting ([#75079](https://github.com/CleverRaven/Cataclysm-DDA/pull/75079))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-07-24-0547 ([85f25e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-24-0547))
 
 * Update AppStream metadata to current version info before final release of 0.H ([#75178](https://github.com/CleverRaven/Cataclysm-DDA/pull/75178))
@@ -189,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-07-19-1400 ([b1cf8e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-19-1400))
 
 * Perk Category doesn't exist ([#75029](https://github.com/CleverRaven/Cataclysm-DDA/pull/75029))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-19-0455 ([48419ad](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-19-0455))
-
 * Weekly Changelog 2024-07-08 to 2024-07-15 ([#75025](https://github.com/CleverRaven/Cataclysm-DDA/pull/75025))
 * [Isolation Protocol] Autodoc safe room variant ([#75087](https://github.com/CleverRaven/Cataclysm-DDA/pull/75087))
 * corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
@@ -218,7 +219,6 @@
 * Camp storage meal abortion works properly ([#75047](https://github.com/CleverRaven/Cataclysm-DDA/pull/75047))
 * Blocked negative part index from being used ([#75031](https://github.com/CleverRaven/Cataclysm-DDA/pull/75031))
 * Audit Hub 01 armor repair fees and timeframes ([#75033](https://github.com/CleverRaven/Cataclysm-DDA/pull/75033))
-* [MoM] Reduce start-up time for contemplation recipes to 0 seconds, add EoC to provide metaphysics XP ([#75013](https://github.com/CleverRaven/Cataclysm-DDA/pull/75013))
 * Home Canning background ([#75022](https://github.com/CleverRaven/Cataclysm-DDA/pull/75022))
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target ([#75032](https://github.com/CleverRaven/Cataclysm-DDA/pull/75032))
 * [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
