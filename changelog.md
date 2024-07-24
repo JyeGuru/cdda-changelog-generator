@@ -1,3 +1,9 @@
+* Rename 'price / volume' to 'barter value / volume' ([#75181](https://github.com/CleverRaven/Cataclysm-DDA/pull/75181))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-24-0150 ([e4519e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-0150))
+
 * Fix house_detatched5's basement and roof ([#75182](https://github.com/CleverRaven/Cataclysm-DDA/pull/75182))
 
 ---
@@ -191,11 +197,6 @@
 * Fixed deconstruction save/load item_location loss and screwed progress ([#75020](https://github.com/CleverRaven/Cataclysm-DDA/pull/75020))
 * Fix weather json typo ([#75076](https://github.com/CleverRaven/Cataclysm-DDA/pull/75076))
 * Burning Buildings Bugfix ([#75038](https://github.com/CleverRaven/Cataclysm-DDA/pull/75038))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-18-0220 ([9594eee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-18-0220))
-
 * Add "Wound Care" proficiency for Park Rangers ([#75065](https://github.com/CleverRaven/Cataclysm-DDA/pull/75065))
 * craftable super loud noisemaker ([#75058](https://github.com/CleverRaven/Cataclysm-DDA/pull/75058))
 * [XE/Magiclysm] Update Giant Growth with new `TEMPORARY_SHAPESHIFT` flag ([#75066](https://github.com/CleverRaven/Cataclysm-DDA/pull/75066))
@@ -224,5 +225,4 @@
 * Actually remove acid bomb ([#75017](https://github.com/CleverRaven/Cataclysm-DDA/pull/75017))
 * prevent book scanning in darkness ([#75004](https://github.com/CleverRaven/Cataclysm-DDA/pull/75004))
 * Add pain_max_val to conjunctivitis ([#75005](https://github.com/CleverRaven/Cataclysm-DDA/pull/75005))
-* Add snippet for OCP trousers ([#75000](https://github.com/CleverRaven/Cataclysm-DDA/pull/75000))
 * Limit shot targets to the reality bubble ([#75002](https://github.com/CleverRaven/Cataclysm-DDA/pull/75002))
