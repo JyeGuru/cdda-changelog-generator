@@ -1,3 +1,7 @@
+* Fix house_detatched5's basement and roof (#75182)
+
+Cataclysm-DDA 0.H release candidate 2024-07-24-0105 (66fbd5c)
+* Typos in Aftershock exosuit_manual.json (#75192)
 * also add actions:write permission to actions/stale (#75193)
 
 Cataclysm-DDA experimental build 2024-07-23-1729 (776c297)
@@ -113,8 +117,6 @@ Cataclysm-DDA experimental build 2024-07-18-0452 (db34351)
 Cataclysm-DDA experimental build 2024-07-18-0220 (9594eee)
 * Add "Wound Care" proficiency for Park Rangers (#75065)
 * craftable super loud noisemaker (#75058)
-
-Cataclysm-DDA experimental build 2024-07-17-2353 (e9e740f)
 * [XE/Magiclysm] Update Giant Growth with new `TEMPORARY_SHAPESHIFT` flag (#75066)
 * mix the spawn pools in distorted labs (#75055)
 * [Xedra Evolved] Add Iron Intolerance starting trait (#75068)
@@ -143,5 +145,3 @@ Cataclysm-DDA experimental build 2024-07-17-2353 (e9e740f)
 * Add pain_max_val to conjunctivitis (#75005)
 * Add snippet for OCP trousers (#75000)
 * Limit shot targets to the reality bubble (#75002)
-* Prevent automatic assignment of hotkeys to passive bionics (#74999)
-* Routine i18n updates on 13 July 2024 (#74998)

@@ -1,3 +1,10 @@
+* Fix house_detatched5's basement and roof ([#75182](https://github.com/CleverRaven/Cataclysm-DDA/pull/75182))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-07-24-0105 ([66fbd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-24-0105))
+
+* Typos in Aftershock exosuit_manual.json ([#75192](https://github.com/CleverRaven/Cataclysm-DDA/pull/75192))
 * also add actions:write permission to actions/stale ([#75193](https://github.com/CleverRaven/Cataclysm-DDA/pull/75193))
 
 ---
@@ -191,11 +198,6 @@
 
 * Add "Wound Care" proficiency for Park Rangers ([#75065](https://github.com/CleverRaven/Cataclysm-DDA/pull/75065))
 * craftable super loud noisemaker ([#75058](https://github.com/CleverRaven/Cataclysm-DDA/pull/75058))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-17-2353 ([e9e740f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-17-2353))
-
 * [XE/Magiclysm] Update Giant Growth with new `TEMPORARY_SHAPESHIFT` flag ([#75066](https://github.com/CleverRaven/Cataclysm-DDA/pull/75066))
 * mix the spawn pools in distorted labs ([#75055](https://github.com/CleverRaven/Cataclysm-DDA/pull/75055))
 * [Xedra Evolved] Add Iron Intolerance starting trait ([#75068](https://github.com/CleverRaven/Cataclysm-DDA/pull/75068))
@@ -224,5 +226,3 @@
 * Add pain_max_val to conjunctivitis ([#75005](https://github.com/CleverRaven/Cataclysm-DDA/pull/75005))
 * Add snippet for OCP trousers ([#75000](https://github.com/CleverRaven/Cataclysm-DDA/pull/75000))
 * Limit shot targets to the reality bubble ([#75002](https://github.com/CleverRaven/Cataclysm-DDA/pull/75002))
-* Prevent automatic assignment of hotkeys to passive bionics ([#74999](https://github.com/CleverRaven/Cataclysm-DDA/pull/74999))
-* Routine i18n updates on 13 July 2024 ([#74998](https://github.com/CleverRaven/Cataclysm-DDA/pull/74998))
