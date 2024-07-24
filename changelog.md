@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-24-0510 ([a24a4db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-0510))
+
 * fix NPCs spawning hallucinations, that player can see ([#75128](https://github.com/CleverRaven/Cataclysm-DDA/pull/75128))
 * Moved Magiclysm validation to Basic Build ([#75132](https://github.com/CleverRaven/Cataclysm-DDA/pull/75132))
 * [Magiclysm] Reduce effect of Gaia's Chosen thorns ([#75174](https://github.com/CleverRaven/Cataclysm-DDA/pull/75174))
@@ -192,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-07-18-1929 ([83ac2a2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-18-1929))
 
 * [Magiclysm] Diviner can send you to druid tower ([#75075](https://github.com/CleverRaven/Cataclysm-DDA/pull/75075))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-18-0452 ([db34351](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-18-0452))
-
 * Fixed deconstruction save/load item_location loss and screwed progress ([#75020](https://github.com/CleverRaven/Cataclysm-DDA/pull/75020))
 * Fix weather json typo ([#75076](https://github.com/CleverRaven/Cataclysm-DDA/pull/75076))
 * Burning Buildings Bugfix ([#75038](https://github.com/CleverRaven/Cataclysm-DDA/pull/75038))
