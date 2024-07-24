@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-24-2312 ([8ffc091](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-2312))
+
 * [Xedra Evolved] Add Fulgurating Strikes Sylph trait ([#75198](https://github.com/CleverRaven/Cataclysm-DDA/pull/75198))
 
 ---
@@ -186,11 +191,6 @@
 
 * [XE] Add more quests to Boann and add a way to get out of the world ([#75040](https://github.com/CleverRaven/Cataclysm-DDA/pull/75040))
 * Typified parts of map.h/map.cpp + usages ([#75077](https://github.com/CleverRaven/Cataclysm-DDA/pull/75077))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-19-1940 ([4706e25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-19-1940))
-
 * Fix wield ([#75103](https://github.com/CleverRaven/Cataclysm-DDA/pull/75103))
 * M110A1 Length Fix ([#75028](https://github.com/CleverRaven/Cataclysm-DDA/pull/75028))
 * [Xedra Evolved] Add Skinchanger profession + hedge magic spell ([#75080](https://github.com/CleverRaven/Cataclysm-DDA/pull/75080))
