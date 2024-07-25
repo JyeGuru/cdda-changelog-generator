@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-25-1721 ([560f245](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-1721))
+
 * Get rid of compiler warnings ([#75228](https://github.com/CleverRaven/Cataclysm-DDA/pull/75228))
 * [Xedra Evolved] Replace solid fog field with solid fog terrain ([#75191](https://github.com/CleverRaven/Cataclysm-DDA/pull/75191))
 * [Magiclysm] Add mana mutagen as a possibility to mutagenic kits ([#75217](https://github.com/CleverRaven/Cataclysm-DDA/pull/75217))
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-07-20-1950 ([5f7a7ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-20-1950))
 
 * Leather Body Armor Coverage fix ([#75117](https://github.com/CleverRaven/Cataclysm-DDA/pull/75117))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-20-1704 ([8df469d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-20-1704))
-
 * [MoM] Null line cleanup hits all possible targets ([#75112](https://github.com/CleverRaven/Cataclysm-DDA/pull/75112))
 * Chain zombie dogs via ``copy-from`` ([#75102](https://github.com/CleverRaven/Cataclysm-DDA/pull/75102))
 * Routine i18n updates on 20 July 2024 ([#75116](https://github.com/CleverRaven/Cataclysm-DDA/pull/75116))
