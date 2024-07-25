@@ -1,3 +1,4 @@
+* Get rid of compiler warnings (#75228)
 * [Xedra Evolved] Replace solid fog field with solid fog terrain (#75191)
 * [Magiclysm] Add mana mutagen as a possibility to mutagenic kits (#75217)
 
@@ -115,7 +116,6 @@ Cataclysm-DDA experimental build 2024-07-20-1704 (8df469d)
 * [XE] Add more quests to Boann and add a way to get out of the world (#75040)
 * Typified parts of map.h/map.cpp + usages (#75077)
 * Fix wield (#75103)
-* M110A1 Length Fix (#75028)
 * [Xedra Evolved] Add Skinchanger profession + hedge magic spell (#75080)
 * [Magiclysm] Add mana trait NPC trait groups (#75070)
 * [Xedra Evolved] Add Aelfen Tailoring to gossamer recipes (#75096)
