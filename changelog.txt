@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-25-2035 (b0aae89)
 * Curable Shakes & Opium Sates (#75218)
 
 Cataclysm-DDA 0.H release candidate 2024-07-25-1811 (a54c861)

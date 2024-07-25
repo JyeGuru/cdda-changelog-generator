@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-25-2035 ([b0aae89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-2035))
+
 * Curable Shakes & Opium Sates ([#75218](https://github.com/CleverRaven/Cataclysm-DDA/pull/75218))
 
 ---
