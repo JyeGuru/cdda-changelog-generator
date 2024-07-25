@@ -97,8 +97,6 @@ Cataclysm-DDA experimental build 2024-07-21-0150 (a9e4235)
 * Civilianize Semi Auto MP40 (#75129)
 * [MoM] Correct Wave of Force learning message (#75118)
 * Fix linux experimental build toolchain (#75126)
-
-Cataclysm-DDA 0.H release candidate 2024-07-20-2154 (4b94d6c)
 * Backport #73129 for 0.H (misc repair kit reloading fix) (#75121)
 * init: finalize math last (#75109)
 

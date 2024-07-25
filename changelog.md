@@ -169,11 +169,6 @@
 * Civilianize Semi Auto MP40 ([#75129](https://github.com/CleverRaven/Cataclysm-DDA/pull/75129))
 * [MoM] Correct Wave of Force learning message ([#75118](https://github.com/CleverRaven/Cataclysm-DDA/pull/75118))
 * Fix linux experimental build toolchain ([#75126](https://github.com/CleverRaven/Cataclysm-DDA/pull/75126))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-07-20-2154 ([4b94d6c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-20-2154))
-
 * Backport #73129 for 0.H (misc repair kit reloading fix) ([#75121](https://github.com/CleverRaven/Cataclysm-DDA/pull/75121))
 * init: finalize math last ([#75109](https://github.com/CleverRaven/Cataclysm-DDA/pull/75109))
 
