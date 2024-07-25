@@ -1,3 +1,4 @@
+* Curable Shakes & Opium Sates ([#75218](https://github.com/CleverRaven/Cataclysm-DDA/pull/75218))
 
 ---
 
@@ -223,6 +224,5 @@
 * Move minireactor to aftershock ([#75041](https://github.com/CleverRaven/Cataclysm-DDA/pull/75041))
 * Updated special companions to use new rules dialog ([#75045](https://github.com/CleverRaven/Cataclysm-DDA/pull/75045))
 * Camp storage meal abortion works properly ([#75047](https://github.com/CleverRaven/Cataclysm-DDA/pull/75047))
-* Blocked negative part index from being used ([#75031](https://github.com/CleverRaven/Cataclysm-DDA/pull/75031))
 * Audit Hub 01 armor repair fees and timeframes ([#75033](https://github.com/CleverRaven/Cataclysm-DDA/pull/75033))
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target ([#75032](https://github.com/CleverRaven/Cataclysm-DDA/pull/75032))

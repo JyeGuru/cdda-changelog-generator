@@ -1,3 +1,4 @@
+* Curable Shakes & Opium Sates (#75218)
 
 Cataclysm-DDA 0.H release candidate 2024-07-25-1811 (a54c861)
 * Back out "fix wrong speech type in hallucination message" (#75232)
@@ -142,6 +143,5 @@ Cataclysm-DDA experimental build 2024-07-21-0150 (a9e4235)
 * Move minireactor to aftershock (#75041)
 * Updated special companions to use new rules dialog (#75045)
 * Camp storage meal abortion works properly (#75047)
-* Blocked negative part index from being used (#75031)
 * Audit Hub 01 armor repair fees and timeframes (#75033)
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target (#75032)
