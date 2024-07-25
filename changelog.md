@@ -1,3 +1,5 @@
+* [Xedra Evolved] Replace solid fog field with solid fog terrain ([#75191](https://github.com/CleverRaven/Cataclysm-DDA/pull/75191))
+* [Magiclysm] Add mana mutagen as a possibility to mutagenic kits ([#75217](https://github.com/CleverRaven/Cataclysm-DDA/pull/75217))
 
 ---
 
@@ -202,7 +204,6 @@
 * Small dialogue fix ([#75100](https://github.com/CleverRaven/Cataclysm-DDA/pull/75100))
 * Add Isolation Protocol to autolabeler ([#75091](https://github.com/CleverRaven/Cataclysm-DDA/pull/75091))
 * Perk Category doesn't exist ([#75029](https://github.com/CleverRaven/Cataclysm-DDA/pull/75029))
-* Weekly Changelog 2024-07-08 to 2024-07-15 ([#75025](https://github.com/CleverRaven/Cataclysm-DDA/pull/75025))
 * [Isolation Protocol] Autodoc safe room variant ([#75087](https://github.com/CleverRaven/Cataclysm-DDA/pull/75087))
 * corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
 * [Magiclysm] Diviner can send you to druid tower ([#75075](https://github.com/CleverRaven/Cataclysm-DDA/pull/75075))
@@ -225,4 +226,3 @@
 * Blocked negative part index from being used ([#75031](https://github.com/CleverRaven/Cataclysm-DDA/pull/75031))
 * Audit Hub 01 armor repair fees and timeframes ([#75033](https://github.com/CleverRaven/Cataclysm-DDA/pull/75033))
 * [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target ([#75032](https://github.com/CleverRaven/Cataclysm-DDA/pull/75032))
-* [Bombastic Perks] Make perks unpurifiable ([#75026](https://github.com/CleverRaven/Cataclysm-DDA/pull/75026))
