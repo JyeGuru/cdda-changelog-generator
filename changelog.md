@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-07-25-1811 ([a54c861](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-25-1811))
+
+* Back out "fix wrong speech type in hallucination message" ([#75232](https://github.com/CleverRaven/Cataclysm-DDA/pull/75232))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-25-1721 ([560f245](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-1721))
 
 * Get rid of compiler warnings ([#75228](https://github.com/CleverRaven/Cataclysm-DDA/pull/75228))
@@ -185,11 +191,6 @@
 * Fix linux experimental build toolchain ([#75126](https://github.com/CleverRaven/Cataclysm-DDA/pull/75126))
 * Backport #73129 for 0.H (misc repair kit reloading fix) ([#75121](https://github.com/CleverRaven/Cataclysm-DDA/pull/75121))
 * init: finalize math last ([#75109](https://github.com/CleverRaven/Cataclysm-DDA/pull/75109))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-20-1950 ([5f7a7ca](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-20-1950))
-
 * Leather Body Armor Coverage fix ([#75117](https://github.com/CleverRaven/Cataclysm-DDA/pull/75117))
 * [MoM] Null line cleanup hits all possible targets ([#75112](https://github.com/CleverRaven/Cataclysm-DDA/pull/75112))
 * Chain zombie dogs via ``copy-from`` ([#75102](https://github.com/CleverRaven/Cataclysm-DDA/pull/75102))
@@ -203,7 +204,6 @@
 * Add ITEM_WATERPROOFING flag, add to Magiclysm/XE content ([#75092](https://github.com/CleverRaven/Cataclysm-DDA/pull/75092))
 * Small dialogue fix ([#75100](https://github.com/CleverRaven/Cataclysm-DDA/pull/75100))
 * Add Isolation Protocol to autolabeler ([#75091](https://github.com/CleverRaven/Cataclysm-DDA/pull/75091))
-* Perk Category doesn't exist ([#75029](https://github.com/CleverRaven/Cataclysm-DDA/pull/75029))
 * [Isolation Protocol] Autodoc safe room variant ([#75087](https://github.com/CleverRaven/Cataclysm-DDA/pull/75087))
 * corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
 * [Magiclysm] Diviner can send you to druid tower ([#75075](https://github.com/CleverRaven/Cataclysm-DDA/pull/75075))
