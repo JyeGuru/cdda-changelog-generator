@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-25-1432 ([75cf294](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-1432))
+
+* [Xedra Evolved] Move Nuckalavees to XE ([#75222](https://github.com/CleverRaven/Cataclysm-DDA/pull/75222))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-25-0529 ([1d47633](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-0529))
 
 * remove wheat-free bread items and recipes ([#75185](https://github.com/CleverRaven/Cataclysm-DDA/pull/75185))
@@ -185,11 +191,6 @@
 * [MoM] Null line cleanup hits all possible targets ([#75112](https://github.com/CleverRaven/Cataclysm-DDA/pull/75112))
 * Chain zombie dogs via ``copy-from`` ([#75102](https://github.com/CleverRaven/Cataclysm-DDA/pull/75102))
 * Routine i18n updates on 20 July 2024 ([#75116](https://github.com/CleverRaven/Cataclysm-DDA/pull/75116))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-20-1402 ([6ca95f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-20-1402))
-
 * [XE] Add more quests to Boann and add a way to get out of the world ([#75040](https://github.com/CleverRaven/Cataclysm-DDA/pull/75040))
 * Typified parts of map.h/map.cpp + usages ([#75077](https://github.com/CleverRaven/Cataclysm-DDA/pull/75077))
 * Fix wield ([#75103](https://github.com/CleverRaven/Cataclysm-DDA/pull/75103))
