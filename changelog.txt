@@ -1,6 +1,8 @@
 
 Cataclysm-DDA 0.H release candidate 2024-07-26-1528 (c64e161)
 * [0.H backport] fix wrong speech type in hallucination message (#75235)
+
+Cataclysm-DDA experimental build 2024-07-26-1716 (26da18e)
 * [Sky Island] Add Flotation Stone craft (#75237)
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell (#75238)
 
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2024-07-22-0629 (ee4058b)
 Cataclysm-DDA experimental build 2024-07-22-0401 (a1bce17)
 * Sledgehammer Audit (#75130)
 * Add WATERWALKING flag, implement it in Magiclysm/MoM/XE (#75135)
-
-Cataclysm-DDA experimental build 2024-07-22-0106 (54ec149)
 * fix armor wear crash (#75141)
 * 0.H backport appliance shutoff fix (#75133)
 * Prune some unneeded magiclysm items from the to-hit blacklist (#75131)

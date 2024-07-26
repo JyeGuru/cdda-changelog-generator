@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.H release candidate 2024-07-26-1528 ([c64e161](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-26-1528))
 
 * [0.H backport] fix wrong speech type in hallucination message ([#75235](https://github.com/CleverRaven/Cataclysm-DDA/pull/75235))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-26-1716 ([26da18e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-1716))
+
 * [Sky Island] Add Flotation Stone craft ([#75237](https://github.com/CleverRaven/Cataclysm-DDA/pull/75237))
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
 
@@ -194,11 +199,6 @@
 
 * Sledgehammer Audit ([#75130](https://github.com/CleverRaven/Cataclysm-DDA/pull/75130))
 * Add WATERWALKING flag, implement it in Magiclysm/MoM/XE ([#75135](https://github.com/CleverRaven/Cataclysm-DDA/pull/75135))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-22-0106 ([54ec149](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-0106))
-
 * fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
 * 0.H backport appliance shutoff fix ([#75133](https://github.com/CleverRaven/Cataclysm-DDA/pull/75133))
 * Prune some unneeded magiclysm items from the to-hit blacklist ([#75131](https://github.com/CleverRaven/Cataclysm-DDA/pull/75131))
