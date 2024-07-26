@@ -1,3 +1,4 @@
+* [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs (#75239)
 
 Cataclysm-DDA experimental build 2024-07-26-0329 (2ec51c5)
 * Weekly Changelog 2024-07-15 to 2024-07-22 (#75153)
@@ -145,5 +146,4 @@ Cataclysm-DDA experimental build 2024-07-21-0503 (c9f6b19)
 * [Magiclysm] Add Iron Intolerance starting trait (#75053)
 * Added deconstruction to deployed_items needing it (#75052)
 * Again. Some dialogue fixes. (#75061)
-* Updated special companions to use new rules dialog (#75045)
 * Camp storage meal abortion works properly (#75047)
