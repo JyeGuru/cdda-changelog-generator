@@ -4,6 +4,11 @@
 #### Cataclysm-DDA experimental build 2024-07-26-2258 ([ebf95c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-2258))
 
 * add THROW_STR enchantment ([#75230](https://github.com/CleverRaven/Cataclysm-DDA/pull/75230))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-07-26-2355 ([2a9910a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-26-2355))
+
 * [0.H backport] port hallucinations ([#75250](https://github.com/CleverRaven/Cataclysm-DDA/pull/75250))
 
 ---
@@ -190,11 +195,6 @@
 
 * [Magiclysm] Artificer attunement passively recharges batteries in inventory ([#75161](https://github.com/CleverRaven/Cataclysm-DDA/pull/75161))
 * Remove direction switching from stale action ([#75167](https://github.com/CleverRaven/Cataclysm-DDA/pull/75167))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-22-1948 ([8ae390f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-1948))
-
 * Fix error during player proficiency training ([#75148](https://github.com/CleverRaven/Cataclysm-DDA/pull/75148))
 * Adjust crude gun spawns ([#75155](https://github.com/CleverRaven/Cataclysm-DDA/pull/75155))
 * Only attempt to dodge relatively slow projectiles ([#75149](https://github.com/CleverRaven/Cataclysm-DDA/pull/75149))
