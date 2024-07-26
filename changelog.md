@@ -1,3 +1,11 @@
+* [Sky Island] Add Flotation Stone craft ([#75237](https://github.com/CleverRaven/Cataclysm-DDA/pull/75237))
+* [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-26-1436 ([42258b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-1436))
+
+* Continue cleaning up dog JSON ([#75231](https://github.com/CleverRaven/Cataclysm-DDA/pull/75231))
 
 ---
 
@@ -193,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-07-21-1759 ([9e39260](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-21-1759))
 
 * Prune some unneeded magiclysm items from the to-hit blacklist ([#75131](https://github.com/CleverRaven/Cataclysm-DDA/pull/75131))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-21-0801 ([ecea7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-21-0801))
-
 * Make use of the hunting count calculated ([#75084](https://github.com/CleverRaven/Cataclysm-DDA/pull/75084))
 * Add apiaries to the farm generation ([#75124](https://github.com/CleverRaven/Cataclysm-DDA/pull/75124))
 * Civilianize Semi Auto MP40 ([#75129](https://github.com/CleverRaven/Cataclysm-DDA/pull/75129))
@@ -230,4 +233,3 @@
 * [Magiclysm] Add Iron Intolerance starting trait ([#75053](https://github.com/CleverRaven/Cataclysm-DDA/pull/75053))
 * Added deconstruction to deployed_items needing it ([#75052](https://github.com/CleverRaven/Cataclysm-DDA/pull/75052))
 * Again. Some dialogue fixes. ([#75061](https://github.com/CleverRaven/Cataclysm-DDA/pull/75061))
-* Camp storage meal abortion works properly ([#75047](https://github.com/CleverRaven/Cataclysm-DDA/pull/75047))
