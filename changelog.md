@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-26-2258 ([ebf95c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-2258))
+
 * add THROW_STR enchantment ([#75230](https://github.com/CleverRaven/Cataclysm-DDA/pull/75230))
 * [0.H backport] port hallucinations ([#75250](https://github.com/CleverRaven/Cataclysm-DDA/pull/75250))
 
@@ -191,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-07-22-1948 ([8ae390f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-1948))
 
 * Fix error during player proficiency training ([#75148](https://github.com/CleverRaven/Cataclysm-DDA/pull/75148))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-22-1649 ([f4d1af7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-1649))
-
 * Adjust crude gun spawns ([#75155](https://github.com/CleverRaven/Cataclysm-DDA/pull/75155))
 * Only attempt to dodge relatively slow projectiles ([#75149](https://github.com/CleverRaven/Cataclysm-DDA/pull/75149))
 * Chain zombie wolves to zombie dogs through ``copy-from`` + Remove ``HOWL`` special attack ([#75145](https://github.com/CleverRaven/Cataclysm-DDA/pull/75145))
