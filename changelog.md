@@ -1,3 +1,5 @@
+* add THROW_STR enchantment ([#75230](https://github.com/CleverRaven/Cataclysm-DDA/pull/75230))
+* [0.H backport] port hallucinations ([#75250](https://github.com/CleverRaven/Cataclysm-DDA/pull/75250))
 
 ---
 
@@ -229,8 +231,6 @@
 * [Magiclysm] Diviner can send you to druid tower ([#75075](https://github.com/CleverRaven/Cataclysm-DDA/pull/75075))
 * Fix weather json typo ([#75076](https://github.com/CleverRaven/Cataclysm-DDA/pull/75076))
 * Add "Wound Care" proficiency for Park Rangers ([#75065](https://github.com/CleverRaven/Cataclysm-DDA/pull/75065))
-* craftable super loud noisemaker ([#75058](https://github.com/CleverRaven/Cataclysm-DDA/pull/75058))
 * [XE/Magiclysm] Update Giant Growth with new `TEMPORARY_SHAPESHIFT` flag ([#75066](https://github.com/CleverRaven/Cataclysm-DDA/pull/75066))
 * [Xedra Evolved] Add Iron Intolerance starting trait ([#75068](https://github.com/CleverRaven/Cataclysm-DDA/pull/75068))
-* [MoM] Add Sensor Jamming Photokinetic power ([#75056](https://github.com/CleverRaven/Cataclysm-DDA/pull/75056))
 * Again. Some dialogue fixes. ([#75061](https://github.com/CleverRaven/Cataclysm-DDA/pull/75061))
