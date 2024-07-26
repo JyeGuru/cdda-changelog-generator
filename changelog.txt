@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-26-0605 (c336181)
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs (#75239)
 
 Cataclysm-DDA experimental build 2024-07-26-0329 (2ec51c5)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2024-07-21-1759 (9e39260)
 
 Cataclysm-DDA experimental build 2024-07-21-0801 (ecea7b5)
 * Make use of the hunting count calculated (#75084)
-
-Cataclysm-DDA experimental build 2024-07-21-0503 (c9f6b19)
 * Add apiaries to the farm generation (#75124)
 * Civilianize Semi Auto MP40 (#75129)
 * [MoM] Correct Wave of Force learning message (#75118)

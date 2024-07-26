@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-26-0605 ([c336181](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-0605))
+
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
 
 ---
@@ -194,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-07-21-0801 ([ecea7b5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-21-0801))
 
 * Make use of the hunting count calculated ([#75084](https://github.com/CleverRaven/Cataclysm-DDA/pull/75084))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-21-0503 ([c9f6b19](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-21-0503))
-
 * Add apiaries to the farm generation ([#75124](https://github.com/CleverRaven/Cataclysm-DDA/pull/75124))
 * Civilianize Semi Auto MP40 ([#75129](https://github.com/CleverRaven/Cataclysm-DDA/pull/75129))
 * [MoM] Correct Wave of Force learning message ([#75118](https://github.com/CleverRaven/Cataclysm-DDA/pull/75118))
