@@ -1,3 +1,15 @@
+* Weekly Changelog 2024-07-15 to 2024-07-22 ([#75153](https://github.com/CleverRaven/Cataclysm-DDA/pull/75153))
+* optimized map::generate a bit ([#75188](https://github.com/CleverRaven/Cataclysm-DDA/pull/75188))
+* Document how spellcasting proficiencies work ([#75196](https://github.com/CleverRaven/Cataclysm-DDA/pull/75196))
+* Clarify description of training furniture ([#75203](https://github.com/CleverRaven/Cataclysm-DDA/pull/75203))
+* Add new house ([#75208](https://github.com/CleverRaven/Cataclysm-DDA/pull/75208))
+* [MoM] Switch Astral Projection rider powers over to PSIONIC flag ([#75215](https://github.com/CleverRaven/Cataclysm-DDA/pull/75215))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-26-0048 ([8002d98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-0048))
+
+* [AFS/MoM] Fix concentration proficiency leveling EoC ([#75229](https://github.com/CleverRaven/Cataclysm-DDA/pull/75229))
 
 ---
 
@@ -163,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-07-22-0106 ([54ec149](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-0106))
 
 * fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-07-21-1845 ([69aa044](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-21-1845))
-
 * 0.H backport appliance shutoff fix ([#75133](https://github.com/CleverRaven/Cataclysm-DDA/pull/75133))
 
 ---
@@ -201,7 +208,6 @@
 * [MoM] Null line cleanup hits all possible targets ([#75112](https://github.com/CleverRaven/Cataclysm-DDA/pull/75112))
 * Chain zombie dogs via ``copy-from`` ([#75102](https://github.com/CleverRaven/Cataclysm-DDA/pull/75102))
 * Routine i18n updates on 20 July 2024 ([#75116](https://github.com/CleverRaven/Cataclysm-DDA/pull/75116))
-* [XE] Add more quests to Boann and add a way to get out of the world ([#75040](https://github.com/CleverRaven/Cataclysm-DDA/pull/75040))
 * Typified parts of map.h/map.cpp + usages ([#75077](https://github.com/CleverRaven/Cataclysm-DDA/pull/75077))
 * Fix wield ([#75103](https://github.com/CleverRaven/Cataclysm-DDA/pull/75103))
 * [Xedra Evolved] Add Skinchanger profession + hedge magic spell ([#75080](https://github.com/CleverRaven/Cataclysm-DDA/pull/75080))
@@ -214,7 +220,6 @@
 * corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
 * [Magiclysm] Diviner can send you to druid tower ([#75075](https://github.com/CleverRaven/Cataclysm-DDA/pull/75075))
 * Fix weather json typo ([#75076](https://github.com/CleverRaven/Cataclysm-DDA/pull/75076))
-* Burning Buildings Bugfix ([#75038](https://github.com/CleverRaven/Cataclysm-DDA/pull/75038))
 * Add "Wound Care" proficiency for Park Rangers ([#75065](https://github.com/CleverRaven/Cataclysm-DDA/pull/75065))
 * craftable super loud noisemaker ([#75058](https://github.com/CleverRaven/Cataclysm-DDA/pull/75058))
 * [XE/Magiclysm] Update Giant Growth with new `TEMPORARY_SHAPESHIFT` flag ([#75066](https://github.com/CleverRaven/Cataclysm-DDA/pull/75066))
@@ -224,10 +229,5 @@
 * [Magiclysm] Add Iron Intolerance starting trait ([#75053](https://github.com/CleverRaven/Cataclysm-DDA/pull/75053))
 * Added deconstruction to deployed_items needing it ([#75052](https://github.com/CleverRaven/Cataclysm-DDA/pull/75052))
 * Again. Some dialogue fixes. ([#75061](https://github.com/CleverRaven/Cataclysm-DDA/pull/75061))
-* Add TEMPORARY_SHAPESHIFT flag, use it to recalculate size before standard size flags ([#75043](https://github.com/CleverRaven/Cataclysm-DDA/pull/75043))
-* Various improvements to Barry Isherwood's rescue ([#75044](https://github.com/CleverRaven/Cataclysm-DDA/pull/75044))
-* Move minireactor to aftershock ([#75041](https://github.com/CleverRaven/Cataclysm-DDA/pull/75041))
 * Updated special companions to use new rules dialog ([#75045](https://github.com/CleverRaven/Cataclysm-DDA/pull/75045))
 * Camp storage meal abortion works properly ([#75047](https://github.com/CleverRaven/Cataclysm-DDA/pull/75047))
-* Audit Hub 01 armor repair fees and timeframes ([#75033](https://github.com/CleverRaven/Cataclysm-DDA/pull/75033))
-* [Magiclysm] Allow Ethereal Grasp and Blinding Flash to ground target ([#75032](https://github.com/CleverRaven/Cataclysm-DDA/pull/75032))
