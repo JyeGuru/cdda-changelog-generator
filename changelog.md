@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-26-1953 ([3c5c6c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-1953))
+
 * Place_vending function can place unpowered machines ([#75078](https://github.com/CleverRaven/Cataclysm-DDA/pull/75078))
 
 ---
@@ -193,11 +198,6 @@
 * Actually use the zombie dog bone snippets ([#75142](https://github.com/CleverRaven/Cataclysm-DDA/pull/75142))
 * [My Sweet Cataclysm] Fix candy gator factions. Again. But for real this time tho ([#75143](https://github.com/CleverRaven/Cataclysm-DDA/pull/75143))
 * Chain pupating zombies through ``copy-from`` ([#75144](https://github.com/CleverRaven/Cataclysm-DDA/pull/75144))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-22-0401 ([a1bce17](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-22-0401))
-
 * Sledgehammer Audit ([#75130](https://github.com/CleverRaven/Cataclysm-DDA/pull/75130))
 * Add WATERWALKING flag, implement it in Magiclysm/MoM/XE ([#75135](https://github.com/CleverRaven/Cataclysm-DDA/pull/75135))
 * fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
