@@ -1,3 +1,4 @@
+* Place_vending function can place unpowered machines ([#75078](https://github.com/CleverRaven/Cataclysm-DDA/pull/75078))
 
 ---
 
@@ -232,5 +233,4 @@
 * [Xedra Evolved] Add Iron Intolerance starting trait ([#75068](https://github.com/CleverRaven/Cataclysm-DDA/pull/75068))
 * [MoM] Add Sensor Jamming Photokinetic power ([#75056](https://github.com/CleverRaven/Cataclysm-DDA/pull/75056))
 * [Magiclysm] Add Iron Intolerance starting trait ([#75053](https://github.com/CleverRaven/Cataclysm-DDA/pull/75053))
-* Added deconstruction to deployed_items needing it ([#75052](https://github.com/CleverRaven/Cataclysm-DDA/pull/75052))
 * Again. Some dialogue fixes. ([#75061](https://github.com/CleverRaven/Cataclysm-DDA/pull/75061))

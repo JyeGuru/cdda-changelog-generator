@@ -1,3 +1,4 @@
+* Place_vending function can place unpowered machines (#75078)
 
 Cataclysm-DDA 0.H release candidate 2024-07-26-1528 (c64e161)
 * [0.H backport] fix wrong speech type in hallucination message (#75235)
@@ -148,5 +149,4 @@ Cataclysm-DDA experimental build 2024-07-22-0401 (a1bce17)
 * [Xedra Evolved] Add Iron Intolerance starting trait (#75068)
 * [MoM] Add Sensor Jamming Photokinetic power (#75056)
 * [Magiclysm] Add Iron Intolerance starting trait (#75053)
-* Added deconstruction to deployed_items needing it (#75052)
 * Again. Some dialogue fixes. (#75061)
