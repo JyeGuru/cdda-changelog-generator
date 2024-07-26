@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-26-0329 (2ec51c5)
 * Weekly Changelog 2024-07-15 to 2024-07-22 (#75153)
 * optimized map::generate a bit (#75188)
 * Document how spellcasting proficiencies work (#75196)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2024-07-21-0801 (ecea7b5)
 
 Cataclysm-DDA experimental build 2024-07-21-0503 (c9f6b19)
 * Add apiaries to the farm generation (#75124)
-
-Cataclysm-DDA experimental build 2024-07-21-0150 (a9e4235)
 * Civilianize Semi Auto MP40 (#75129)
 * [MoM] Correct Wave of Force learning message (#75118)
 * Fix linux experimental build toolchain (#75126)
