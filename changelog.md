@@ -1,3 +1,5 @@
+* [0.H backport] Added Russian "ё" to remove_accent function ([#75251](https://github.com/CleverRaven/Cataclysm-DDA/pull/75251))
+* [Xedra Evolved] Add the To Bless the Sacred Weapon charm ([#75249](https://github.com/CleverRaven/Cataclysm-DDA/pull/75249))
 
 ---
 
@@ -229,8 +231,6 @@
 * Add "Wound Care" proficiency for Park Rangers ([#75065](https://github.com/CleverRaven/Cataclysm-DDA/pull/75065))
 * craftable super loud noisemaker ([#75058](https://github.com/CleverRaven/Cataclysm-DDA/pull/75058))
 * [XE/Magiclysm] Update Giant Growth with new `TEMPORARY_SHAPESHIFT` flag ([#75066](https://github.com/CleverRaven/Cataclysm-DDA/pull/75066))
-* mix the spawn pools in distorted labs ([#75055](https://github.com/CleverRaven/Cataclysm-DDA/pull/75055))
 * [Xedra Evolved] Add Iron Intolerance starting trait ([#75068](https://github.com/CleverRaven/Cataclysm-DDA/pull/75068))
 * [MoM] Add Sensor Jamming Photokinetic power ([#75056](https://github.com/CleverRaven/Cataclysm-DDA/pull/75056))
-* [Magiclysm] Add Iron Intolerance starting trait ([#75053](https://github.com/CleverRaven/Cataclysm-DDA/pull/75053))
 * Again. Some dialogue fixes. ([#75061](https://github.com/CleverRaven/Cataclysm-DDA/pull/75061))
