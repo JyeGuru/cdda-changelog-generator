@@ -1,3 +1,4 @@
+* No filter on construction menu ([#75216](https://github.com/CleverRaven/Cataclysm-DDA/pull/75216))
 * Expand the labeler functionality for the ``Food & Vitamins`` label ([#75269](https://github.com/CleverRaven/Cataclysm-DDA/pull/75269))
 
 ---
@@ -230,7 +231,6 @@
 * [MoM] Null line cleanup hits all possible targets ([#75112](https://github.com/CleverRaven/Cataclysm-DDA/pull/75112))
 * Chain zombie dogs via ``copy-from`` ([#75102](https://github.com/CleverRaven/Cataclysm-DDA/pull/75102))
 * Routine i18n updates on 20 July 2024 ([#75116](https://github.com/CleverRaven/Cataclysm-DDA/pull/75116))
-* Typified parts of map.h/map.cpp + usages ([#75077](https://github.com/CleverRaven/Cataclysm-DDA/pull/75077))
 * Fix wield ([#75103](https://github.com/CleverRaven/Cataclysm-DDA/pull/75103))
 * [Xedra Evolved] Add Skinchanger profession + hedge magic spell ([#75080](https://github.com/CleverRaven/Cataclysm-DDA/pull/75080))
 * [Xedra Evolved] Add Aelfen Tailoring to gossamer recipes ([#75096](https://github.com/CleverRaven/Cataclysm-DDA/pull/75096))

@@ -1,3 +1,4 @@
+* No filter on construction menu (#75216)
 * Expand the labeler functionality for the ``Food & Vitamins`` label (#75269)
 
 Cataclysm-DDA experimental build 2024-07-27-1733 (e3c29e2)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2024-07-23-1506 (379c69d)
 * [MoM] Null line cleanup hits all possible targets (#75112)
 * Chain zombie dogs via ``copy-from`` (#75102)
 * Routine i18n updates on 20 July 2024 (#75116)
-* Typified parts of map.h/map.cpp + usages (#75077)
 * Fix wield (#75103)
 * [Xedra Evolved] Add Skinchanger profession + hedge magic spell (#75080)
 * [Xedra Evolved] Add Aelfen Tailoring to gossamer recipes (#75096)
