@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-27-1424 ([5876c2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-1424))
+
+* Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-27-0518 ([f3bcc4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-0518))
 
 * [Bombastic Perks] Sword and sorcery-esque perks ([#75136](https://github.com/CleverRaven/Cataclysm-DDA/pull/75136))
@@ -190,11 +196,6 @@
 * fix permission scope typo in stale.yml ([#75180](https://github.com/CleverRaven/Cataclysm-DDA/pull/75180))
 * Remove crude gun mod locations ([#75157](https://github.com/CleverRaven/Cataclysm-DDA/pull/75157))
 * [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding ([#75164](https://github.com/CleverRaven/Cataclysm-DDA/pull/75164))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-23-0544 ([261d9c6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-23-0544))
-
 * Add missing 'to' in Baton Proficiency ([#75175](https://github.com/CleverRaven/Cataclysm-DDA/pull/75175))
 * Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
 * Scorched zombie audit ([#75071](https://github.com/CleverRaven/Cataclysm-DDA/pull/75071))
@@ -230,7 +231,6 @@
 * Typified parts of map.h/map.cpp + usages ([#75077](https://github.com/CleverRaven/Cataclysm-DDA/pull/75077))
 * Fix wield ([#75103](https://github.com/CleverRaven/Cataclysm-DDA/pull/75103))
 * [Xedra Evolved] Add Skinchanger profession + hedge magic spell ([#75080](https://github.com/CleverRaven/Cataclysm-DDA/pull/75080))
-* [Magiclysm] Add mana trait NPC trait groups ([#75070](https://github.com/CleverRaven/Cataclysm-DDA/pull/75070))
 * [Xedra Evolved] Add Aelfen Tailoring to gossamer recipes ([#75096](https://github.com/CleverRaven/Cataclysm-DDA/pull/75096))
 * Add ITEM_WATERPROOFING flag, add to Magiclysm/XE content ([#75092](https://github.com/CleverRaven/Cataclysm-DDA/pull/75092))
 * Small dialogue fix ([#75100](https://github.com/CleverRaven/Cataclysm-DDA/pull/75100))
