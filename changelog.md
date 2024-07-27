@@ -1,3 +1,5 @@
+* Pluralize and unify offal naming ([#75252](https://github.com/CleverRaven/Cataclysm-DDA/pull/75252))
+* [TropiCata] Prune some zombies from the blacklist ([#75257](https://github.com/CleverRaven/Cataclysm-DDA/pull/75257))
 
 ---
 
@@ -198,7 +200,6 @@
 * [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding ([#75164](https://github.com/CleverRaven/Cataclysm-DDA/pull/75164))
 * Add missing 'to' in Baton Proficiency ([#75175](https://github.com/CleverRaven/Cataclysm-DDA/pull/75175))
 * Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
-* Scorched zombie audit ([#75071](https://github.com/CleverRaven/Cataclysm-DDA/pull/75071))
 * Add more sorting options in advanced inventory manager ([#75104](https://github.com/CleverRaven/Cataclysm-DDA/pull/75104))
 * Further improve Barry Isherwood's rescue mission ([#75137](https://github.com/CleverRaven/Cataclysm-DDA/pull/75137))
 * [MoM] Fix possibility of studying new powers concurrently ([#75150](https://github.com/CleverRaven/Cataclysm-DDA/pull/75150))
@@ -237,5 +238,4 @@
 * Add Isolation Protocol to autolabeler ([#75091](https://github.com/CleverRaven/Cataclysm-DDA/pull/75091))
 * [Isolation Protocol] Autodoc safe room variant ([#75087](https://github.com/CleverRaven/Cataclysm-DDA/pull/75087))
 * corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
-* [Magiclysm] Diviner can send you to druid tower ([#75075](https://github.com/CleverRaven/Cataclysm-DDA/pull/75075))
 * Fix weather json typo ([#75076](https://github.com/CleverRaven/Cataclysm-DDA/pull/75076))
