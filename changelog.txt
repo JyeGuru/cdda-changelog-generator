@@ -1,3 +1,4 @@
+* Add petri dishes (#75276)
 
 Cataclysm-DDA experimental build 2024-07-27-2022 (3135a6a)
 * No filter on construction menu (#75216)
@@ -27,9 +28,6 @@ Cataclysm-DDA 0.H release candidate 2024-07-26-2355 (2a9910a)
 Cataclysm-DDA 0.H release candidate 2024-07-26-2033 (c086611)
 * [0.H backport] Added Russian "ё" to remove_accent function (#75251)
 * [Xedra Evolved] Add the To Bless the Sacred Weapon charm (#75249)
-
-Cataclysm-DDA experimental build 2024-07-26-1953 (3c5c6c7)
-* Place_vending function can place unpowered machines (#75078)
 
 Cataclysm-DDA 0.H release candidate 2024-07-26-1528 (c64e161)
 * [0.H backport] fix wrong speech type in hallucination message (#75235)

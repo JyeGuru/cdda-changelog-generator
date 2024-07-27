@@ -1,3 +1,4 @@
+* Add petri dishes ([#75276](https://github.com/CleverRaven/Cataclysm-DDA/pull/75276))
 
 ---
 
@@ -51,12 +52,6 @@
 
 * [0.H backport] Added Russian "ё" to remove_accent function ([#75251](https://github.com/CleverRaven/Cataclysm-DDA/pull/75251))
 * [Xedra Evolved] Add the To Bless the Sacred Weapon charm ([#75249](https://github.com/CleverRaven/Cataclysm-DDA/pull/75249))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-26-1953 ([3c5c6c7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-1953))
-
-* Place_vending function can place unpowered machines ([#75078](https://github.com/CleverRaven/Cataclysm-DDA/pull/75078))
 
 ---
 
