@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-27-2022 ([3135a6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-2022))
+
 * No filter on construction menu ([#75216](https://github.com/CleverRaven/Cataclysm-DDA/pull/75216))
 * Expand the labeler functionality for the ``Food & Vitamins`` label ([#75269](https://github.com/CleverRaven/Cataclysm-DDA/pull/75269))
 
@@ -190,11 +195,6 @@
 * [Xedra Evolved] Add waterwalking hedge magic spell ([#75171](https://github.com/CleverRaven/Cataclysm-DDA/pull/75171))
 * Remove survivor launchers ([#75172](https://github.com/CleverRaven/Cataclysm-DDA/pull/75172))
 * [Magiclysm] Vulcanists are immune to smoke and blistering ([#75165](https://github.com/CleverRaven/Cataclysm-DDA/pull/75165))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-23-1506 ([379c69d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-23-1506))
-
 * [Magiclysm] Add Slow Magus spell ([#75177](https://github.com/CleverRaven/Cataclysm-DDA/pull/75177))
 * Isolation protocol: Timer and map updates ([#75088](https://github.com/CleverRaven/Cataclysm-DDA/pull/75088))
 * fix permission scope typo in stale.yml ([#75180](https://github.com/CleverRaven/Cataclysm-DDA/pull/75180))
