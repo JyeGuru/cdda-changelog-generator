@@ -1,4 +1,6 @@
 * Expand the labeler functionality for the ``Food & Vitamins`` label (#75269)
+
+Cataclysm-DDA experimental build 2024-07-27-1733 (e3c29e2)
 * Pluralize and unify offal naming (#75252)
 * [TropiCata] Prune some zombies from the blacklist (#75257)
 
@@ -106,8 +108,6 @@ Cataclysm-DDA experimental build 2024-07-23-1729 (776c297)
 
 Cataclysm-DDA experimental build 2024-07-23-1506 (379c69d)
 * [Magiclysm] Add Slow Magus spell (#75177)
-
-Cataclysm-DDA experimental build 2024-07-23-0822 (302ed6e)
 * Isolation protocol: Timer and map updates (#75088)
 * fix permission scope typo in stale.yml (#75180)
 * Remove crude gun mod locations (#75157)

@@ -1,4 +1,9 @@
 * Expand the labeler functionality for the ``Food & Vitamins`` label ([#75269](https://github.com/CleverRaven/Cataclysm-DDA/pull/75269))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-27-1733 ([e3c29e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-1733))
+
 * Pluralize and unify offal naming ([#75252](https://github.com/CleverRaven/Cataclysm-DDA/pull/75252))
 * [TropiCata] Prune some zombies from the blacklist ([#75257](https://github.com/CleverRaven/Cataclysm-DDA/pull/75257))
 
@@ -190,11 +195,6 @@
 #### Cataclysm-DDA experimental build 2024-07-23-1506 ([379c69d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-23-1506))
 
 * [Magiclysm] Add Slow Magus spell ([#75177](https://github.com/CleverRaven/Cataclysm-DDA/pull/75177))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-23-0822 ([302ed6e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-23-0822))
-
 * Isolation protocol: Timer and map updates ([#75088](https://github.com/CleverRaven/Cataclysm-DDA/pull/75088))
 * fix permission scope typo in stale.yml ([#75180](https://github.com/CleverRaven/Cataclysm-DDA/pull/75180))
 * Remove crude gun mod locations ([#75157](https://github.com/CleverRaven/Cataclysm-DDA/pull/75157))
