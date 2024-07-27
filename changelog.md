@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-27-2340 ([00f990d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-2340))
+
 * Add petri dishes ([#75276](https://github.com/CleverRaven/Cataclysm-DDA/pull/75276))
 
 ---
@@ -180,11 +185,6 @@
 
 * Typos in Aftershock exosuit_manual.json ([#75192](https://github.com/CleverRaven/Cataclysm-DDA/pull/75192))
 * also add actions:write permission to actions/stale ([#75193](https://github.com/CleverRaven/Cataclysm-DDA/pull/75193))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-23-1729 ([776c297](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-23-1729))
-
 * add `always_cast_spell` ammo effect boolean ([#75168](https://github.com/CleverRaven/Cataclysm-DDA/pull/75168))
 * [MoM] Rework Extended and Torrential channeling recipe learning ([#75147](https://github.com/CleverRaven/Cataclysm-DDA/pull/75147))
 * [Xedra Evolved] Add waterwalking hedge magic spell ([#75171](https://github.com/CleverRaven/Cataclysm-DDA/pull/75171))
