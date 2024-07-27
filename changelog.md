@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-27-0518 ([f3bcc4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-0518))
+
 * [Bombastic Perks] Sword and sorcery-esque perks ([#75136](https://github.com/CleverRaven/Cataclysm-DDA/pull/75136))
 * Fixes of dialogues in the refugee center ([#75187](https://github.com/CleverRaven/Cataclysm-DDA/pull/75187))
 * [MoM] Perfected Motion lets you run on water ([#75242](https://github.com/CleverRaven/Cataclysm-DDA/pull/75242))
