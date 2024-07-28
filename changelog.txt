@@ -1,3 +1,4 @@
+* Add more granularity to overmap vision (#75236)
 
 Cataclysm-DDA experimental build 2024-07-28-2319 (a334d3d)
 * Load container only when location is of that kind (#75289)
@@ -120,7 +121,6 @@ Cataclysm-DDA experimental build 2024-07-24-1630 (02aa9a9)
 * [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding (#75164)
 * Add missing 'to' in Baton Proficiency (#75175)
 * Grant additional permissions to stale action (#75176)
-* Add more sorting options in advanced inventory manager (#75104)
 * Further improve Barry Isherwood's rescue mission (#75137)
 * [MoM] Fix possibility of studying new powers concurrently (#75150)
 * Civilianize G36 (#75154)

@@ -1,3 +1,4 @@
+* Add more granularity to overmap vision ([#75236](https://github.com/CleverRaven/Cataclysm-DDA/pull/75236))
 
 ---
 
@@ -201,7 +202,6 @@
 * [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding ([#75164](https://github.com/CleverRaven/Cataclysm-DDA/pull/75164))
 * Add missing 'to' in Baton Proficiency ([#75175](https://github.com/CleverRaven/Cataclysm-DDA/pull/75175))
 * Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
-* Add more sorting options in advanced inventory manager ([#75104](https://github.com/CleverRaven/Cataclysm-DDA/pull/75104))
 * Further improve Barry Isherwood's rescue mission ([#75137](https://github.com/CleverRaven/Cataclysm-DDA/pull/75137))
 * [MoM] Fix possibility of studying new powers concurrently ([#75150](https://github.com/CleverRaven/Cataclysm-DDA/pull/75150))
 * Civilianize G36 ([#75154](https://github.com/CleverRaven/Cataclysm-DDA/pull/75154))
