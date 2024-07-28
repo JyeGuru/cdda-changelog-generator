@@ -1,3 +1,7 @@
+* [magiclysm] add message to feral wizards spell ([#75246](https://github.com/CleverRaven/Cataclysm-DDA/pull/75246))
+* Mesoamerican weaponry update ([#75248](https://github.com/CleverRaven/Cataclysm-DDA/pull/75248))
+* Remove bloated comments from translation files, part 2 ([#75253](https://github.com/CleverRaven/Cataclysm-DDA/pull/75253))
+* Treat bleeding from pets ([#75274](https://github.com/CleverRaven/Cataclysm-DDA/pull/75274))
 * Coyote audit ([#75259](https://github.com/CleverRaven/Cataclysm-DDA/pull/75259))
 
 ---
@@ -210,7 +214,6 @@
 * fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
 * 0.H backport appliance shutoff fix ([#75133](https://github.com/CleverRaven/Cataclysm-DDA/pull/75133))
 * Prune some unneeded magiclysm items from the to-hit blacklist ([#75131](https://github.com/CleverRaven/Cataclysm-DDA/pull/75131))
-* Make use of the hunting count calculated ([#75084](https://github.com/CleverRaven/Cataclysm-DDA/pull/75084))
 * Add apiaries to the farm generation ([#75124](https://github.com/CleverRaven/Cataclysm-DDA/pull/75124))
 * Civilianize Semi Auto MP40 ([#75129](https://github.com/CleverRaven/Cataclysm-DDA/pull/75129))
 * [MoM] Correct Wave of Force learning message ([#75118](https://github.com/CleverRaven/Cataclysm-DDA/pull/75118))
@@ -222,10 +225,7 @@
 * Chain zombie dogs via ``copy-from`` ([#75102](https://github.com/CleverRaven/Cataclysm-DDA/pull/75102))
 * Routine i18n updates on 20 July 2024 ([#75116](https://github.com/CleverRaven/Cataclysm-DDA/pull/75116))
 * Fix wield ([#75103](https://github.com/CleverRaven/Cataclysm-DDA/pull/75103))
-* [Xedra Evolved] Add Skinchanger profession + hedge magic spell ([#75080](https://github.com/CleverRaven/Cataclysm-DDA/pull/75080))
 * [Xedra Evolved] Add Aelfen Tailoring to gossamer recipes ([#75096](https://github.com/CleverRaven/Cataclysm-DDA/pull/75096))
 * Add ITEM_WATERPROOFING flag, add to Magiclysm/XE content ([#75092](https://github.com/CleverRaven/Cataclysm-DDA/pull/75092))
 * Small dialogue fix ([#75100](https://github.com/CleverRaven/Cataclysm-DDA/pull/75100))
 * Add Isolation Protocol to autolabeler ([#75091](https://github.com/CleverRaven/Cataclysm-DDA/pull/75091))
-* [Isolation Protocol] Autodoc safe room variant ([#75087](https://github.com/CleverRaven/Cataclysm-DDA/pull/75087))
-* corrected nemesis respawn logic ([#75083](https://github.com/CleverRaven/Cataclysm-DDA/pull/75083))
