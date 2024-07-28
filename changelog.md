@@ -228,4 +228,3 @@
 * Chain zombie dogs via ``copy-from`` ([#75102](https://github.com/CleverRaven/Cataclysm-DDA/pull/75102))
 * Routine i18n updates on 20 July 2024 ([#75116](https://github.com/CleverRaven/Cataclysm-DDA/pull/75116))
 * Fix wield ([#75103](https://github.com/CleverRaven/Cataclysm-DDA/pull/75103))
-* Small dialogue fix ([#75100](https://github.com/CleverRaven/Cataclysm-DDA/pull/75100))
