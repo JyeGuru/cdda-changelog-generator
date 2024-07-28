@@ -1,3 +1,4 @@
+* Coyote audit (#75259)
 
 Cataclysm-DDA experimental build 2024-07-27-2340 (00f990d)
 * Add petri dishes (#75276)
@@ -82,9 +83,6 @@ Cataclysm-DDA experimental build 2024-07-24-1630 (02aa9a9)
 * Correct some categories from non-weapons (#75205)
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers (#75197)
 * [MoM] You can always stop concentrating (#75200)
-
-Cataclysm-DDA experimental build 2024-07-24-1353 (f91e479)
-* Yugg Gun to fix issues with gene sting (#75079)
 
 Cataclysm-DDA 0.H release candidate 2024-07-24-0547 (85f25e5)
 * Update AppStream metadata to current version info before final release of 0.H (#75178)

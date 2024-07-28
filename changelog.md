@@ -1,3 +1,4 @@
+* Coyote audit ([#75259](https://github.com/CleverRaven/Cataclysm-DDA/pull/75259))
 
 ---
 
@@ -151,12 +152,6 @@
 * Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers ([#75197](https://github.com/CleverRaven/Cataclysm-DDA/pull/75197))
 * [MoM] You can always stop concentrating ([#75200](https://github.com/CleverRaven/Cataclysm-DDA/pull/75200))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-24-1353 ([f91e479](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-1353))
-
-* Yugg Gun to fix issues with gene sting ([#75079](https://github.com/CleverRaven/Cataclysm-DDA/pull/75079))
 
 ---
 
