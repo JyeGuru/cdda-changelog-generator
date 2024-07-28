@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-28-0227 ([bfeb1ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-0227))
+
+* Fixed map generate bug ([#75270](https://github.com/CleverRaven/Cataclysm-DDA/pull/75270))
 * [magiclysm] add message to feral wizards spell ([#75246](https://github.com/CleverRaven/Cataclysm-DDA/pull/75246))
 * Mesoamerican weaponry update ([#75248](https://github.com/CleverRaven/Cataclysm-DDA/pull/75248))
 * Remove bloated comments from translation files, part 2 ([#75253](https://github.com/CleverRaven/Cataclysm-DDA/pull/75253))
@@ -177,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-07-24-0150 ([e4519e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-0150))
 
 * Fix house_detatched5's basement and roof ([#75182](https://github.com/CleverRaven/Cataclysm-DDA/pull/75182))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-07-24-0105 ([66fbd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-24-0105))
-
 * Typos in Aftershock exosuit_manual.json ([#75192](https://github.com/CleverRaven/Cataclysm-DDA/pull/75192))
 * also add actions:write permission to actions/stale ([#75193](https://github.com/CleverRaven/Cataclysm-DDA/pull/75193))
 * add `always_cast_spell` ammo effect boolean ([#75168](https://github.com/CleverRaven/Cataclysm-DDA/pull/75168))
@@ -190,7 +191,6 @@
 * Remove survivor launchers ([#75172](https://github.com/CleverRaven/Cataclysm-DDA/pull/75172))
 * [Magiclysm] Vulcanists are immune to smoke and blistering ([#75165](https://github.com/CleverRaven/Cataclysm-DDA/pull/75165))
 * [Magiclysm] Add Slow Magus spell ([#75177](https://github.com/CleverRaven/Cataclysm-DDA/pull/75177))
-* Isolation protocol: Timer and map updates ([#75088](https://github.com/CleverRaven/Cataclysm-DDA/pull/75088))
 * fix permission scope typo in stale.yml ([#75180](https://github.com/CleverRaven/Cataclysm-DDA/pull/75180))
 * Remove crude gun mod locations ([#75157](https://github.com/CleverRaven/Cataclysm-DDA/pull/75157))
 * [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding ([#75164](https://github.com/CleverRaven/Cataclysm-DDA/pull/75164))
