@@ -1,3 +1,5 @@
+* Obsolete Dire Wolves (#75241)
+* Stop iteminfo test from failing w/ mod damage types (#75278)
 
 Cataclysm-DDA experimental build 2024-07-28-1646 (b7ae537)
 * [XE] Add Tier 5 of vampirism + related tweaks (#75199)
@@ -145,6 +147,4 @@ Cataclysm-DDA experimental build 2024-07-24-0150 (e4519e0)
 * Chain zombie dogs via ``copy-from`` (#75102)
 * Routine i18n updates on 20 July 2024 (#75116)
 * Fix wield (#75103)
-* [Xedra Evolved] Add Aelfen Tailoring to gossamer recipes (#75096)
-* Add ITEM_WATERPROOFING flag, add to Magiclysm/XE content (#75092)
 * Small dialogue fix (#75100)
