@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-28-2319 ([a334d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-2319))
+
 * Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
 * Added Russian "ё" to remove_accent function ([#75234](https://github.com/CleverRaven/Cataclysm-DDA/pull/75234))
 
@@ -178,11 +183,6 @@
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers ([#75197](https://github.com/CleverRaven/Cataclysm-DDA/pull/75197))
 * [MoM] You can always stop concentrating ([#75200](https://github.com/CleverRaven/Cataclysm-DDA/pull/75200))
 * Update AppStream metadata to current version info before final release of 0.H ([#75178](https://github.com/CleverRaven/Cataclysm-DDA/pull/75178))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-24-0510 ([a24a4db](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-0510))
-
 * fix NPCs spawning hallucinations, that player can see ([#75128](https://github.com/CleverRaven/Cataclysm-DDA/pull/75128))
 * Moved Magiclysm validation to Basic Build ([#75132](https://github.com/CleverRaven/Cataclysm-DDA/pull/75132))
 * [Magiclysm] Reduce effect of Gaia's Chosen thorns ([#75174](https://github.com/CleverRaven/Cataclysm-DDA/pull/75174))
