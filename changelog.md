@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-28-1646 ([b7ae537](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-1646))
+
+* [XE] Add Tier 5 of vampirism + related tweaks ([#75199](https://github.com/CleverRaven/Cataclysm-DDA/pull/75199))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-28-0227 ([bfeb1ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-0227))
 
 * Fixed map generate bug ([#75270](https://github.com/CleverRaven/Cataclysm-DDA/pull/75270))
@@ -162,11 +168,6 @@
 * Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers ([#75197](https://github.com/CleverRaven/Cataclysm-DDA/pull/75197))
 * [MoM] You can always stop concentrating ([#75200](https://github.com/CleverRaven/Cataclysm-DDA/pull/75200))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-07-24-0547 ([85f25e5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-24-0547))
-
 * Update AppStream metadata to current version info before final release of 0.H ([#75178](https://github.com/CleverRaven/Cataclysm-DDA/pull/75178))
 
 ---
@@ -228,4 +229,3 @@
 * [Xedra Evolved] Add Aelfen Tailoring to gossamer recipes ([#75096](https://github.com/CleverRaven/Cataclysm-DDA/pull/75096))
 * Add ITEM_WATERPROOFING flag, add to Magiclysm/XE content ([#75092](https://github.com/CleverRaven/Cataclysm-DDA/pull/75092))
 * Small dialogue fix ([#75100](https://github.com/CleverRaven/Cataclysm-DDA/pull/75100))
-* Add Isolation Protocol to autolabeler ([#75091](https://github.com/CleverRaven/Cataclysm-DDA/pull/75091))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-07-28-1646 (b7ae537)
+* [XE] Add Tier 5 of vampirism + related tweaks (#75199)
+
 Cataclysm-DDA experimental build 2024-07-28-0227 (bfeb1ff)
 * Fixed map generate bug (#75270)
 * [magiclysm] add message to feral wizards spell (#75246)
@@ -90,8 +93,6 @@ Cataclysm-DDA experimental build 2024-07-24-1630 (02aa9a9)
 * Correct some categories from non-weapons (#75205)
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers (#75197)
 * [MoM] You can always stop concentrating (#75200)
-
-Cataclysm-DDA 0.H release candidate 2024-07-24-0547 (85f25e5)
 * Update AppStream metadata to current version info before final release of 0.H (#75178)
 
 Cataclysm-DDA experimental build 2024-07-24-0510 (a24a4db)
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2024-07-24-0150 (e4519e0)
 * [Xedra Evolved] Add Aelfen Tailoring to gossamer recipes (#75096)
 * Add ITEM_WATERPROOFING flag, add to Magiclysm/XE content (#75092)
 * Small dialogue fix (#75100)
-* Add Isolation Protocol to autolabeler (#75091)
