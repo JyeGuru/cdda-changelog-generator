@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-28-1953 ([67026ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-1953))
+
 * Obsolete Dire Wolves ([#75241](https://github.com/CleverRaven/Cataclysm-DDA/pull/75241))
 * Stop iteminfo test from failing w/ mod damage types ([#75278](https://github.com/CleverRaven/Cataclysm-DDA/pull/75278))
 
@@ -180,11 +185,6 @@
 * Moved Magiclysm validation to Basic Build ([#75132](https://github.com/CleverRaven/Cataclysm-DDA/pull/75132))
 * [Magiclysm] Reduce effect of Gaia's Chosen thorns ([#75174](https://github.com/CleverRaven/Cataclysm-DDA/pull/75174))
 * Rename 'price / volume' to 'barter value / volume' ([#75181](https://github.com/CleverRaven/Cataclysm-DDA/pull/75181))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-24-0150 ([e4519e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-0150))
-
 * Fix house_detatched5's basement and roof ([#75182](https://github.com/CleverRaven/Cataclysm-DDA/pull/75182))
 * Typos in Aftershock exosuit_manual.json ([#75192](https://github.com/CleverRaven/Cataclysm-DDA/pull/75192))
 * also add actions:write permission to actions/stale ([#75193](https://github.com/CleverRaven/Cataclysm-DDA/pull/75193))
