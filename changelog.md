@@ -1,3 +1,4 @@
+* Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
 * Added Russian "ё" to remove_accent function ([#75234](https://github.com/CleverRaven/Cataclysm-DDA/pull/75234))
 
 ---
@@ -227,4 +228,3 @@
 * Leather Body Armor Coverage fix ([#75117](https://github.com/CleverRaven/Cataclysm-DDA/pull/75117))
 * [MoM] Null line cleanup hits all possible targets ([#75112](https://github.com/CleverRaven/Cataclysm-DDA/pull/75112))
 * Routine i18n updates on 20 July 2024 ([#75116](https://github.com/CleverRaven/Cataclysm-DDA/pull/75116))
-* Fix wield ([#75103](https://github.com/CleverRaven/Cataclysm-DDA/pull/75103))
