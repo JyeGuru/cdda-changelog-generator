@@ -1,3 +1,5 @@
+* Correct Petri dish description (#75290)
+* Updated milling documentation (#75294)
 
 Cataclysm-DDA experimental build 2024-07-29-0236 (d10b9fa)
 * Add more granularity to overmap vision (#75236)
@@ -145,7 +147,5 @@ Cataclysm-DDA experimental build 2024-07-24-1630 (02aa9a9)
 * [MoM] Correct Wave of Force learning message (#75118)
 * Fix linux experimental build toolchain (#75126)
 * Backport #73129 for 0.H (misc repair kit reloading fix) (#75121)
-* init: finalize math last (#75109)
 * Leather Body Armor Coverage fix (#75117)
-* [MoM] Null line cleanup hits all possible targets (#75112)
 * Routine i18n updates on 20 July 2024 (#75116)
