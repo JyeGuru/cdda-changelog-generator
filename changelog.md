@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-29-2156 ([951b8da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-2156))
+
 * add ar-15 .22 conversion kit ([#75210](https://github.com/CleverRaven/Cataclysm-DDA/pull/75210))
 * Appease clang ([#75271](https://github.com/CleverRaven/Cataclysm-DDA/pull/75271))
 * make ammo effect able to run EoC ([#75291](https://github.com/CleverRaven/Cataclysm-DDA/pull/75291))
