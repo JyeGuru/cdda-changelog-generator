@@ -1,3 +1,4 @@
+* [MoM] Update Brilliant Flash to use standard blind effect ([#75296](https://github.com/CleverRaven/Cataclysm-DDA/pull/75296))
 * Begin pruning the old ``to-hit`` list - Part 1 ([#75267](https://github.com/CleverRaven/Cataclysm-DDA/pull/75267))
 * Correct Petri dish description ([#75290](https://github.com/CleverRaven/Cataclysm-DDA/pull/75290))
 * Updated milling documentation ([#75294](https://github.com/CleverRaven/Cataclysm-DDA/pull/75294))
@@ -232,4 +233,3 @@
 * [MoM] Correct Wave of Force learning message ([#75118](https://github.com/CleverRaven/Cataclysm-DDA/pull/75118))
 * Fix linux experimental build toolchain ([#75126](https://github.com/CleverRaven/Cataclysm-DDA/pull/75126))
 * Backport #73129 for 0.H (misc repair kit reloading fix) ([#75121](https://github.com/CleverRaven/Cataclysm-DDA/pull/75121))
-* Leather Body Armor Coverage fix ([#75117](https://github.com/CleverRaven/Cataclysm-DDA/pull/75117))
