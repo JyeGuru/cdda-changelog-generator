@@ -1,3 +1,4 @@
+* Appease clang ([#75271](https://github.com/CleverRaven/Cataclysm-DDA/pull/75271))
 * make ammo effect able to run EoC ([#75291](https://github.com/CleverRaven/Cataclysm-DDA/pull/75291))
 * add THROW_DAMAGE enchantment ([#75300](https://github.com/CleverRaven/Cataclysm-DDA/pull/75300))
 * fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
@@ -233,4 +234,3 @@
 * Add WATERWALKING flag, implement it in Magiclysm/MoM/XE ([#75135](https://github.com/CleverRaven/Cataclysm-DDA/pull/75135))
 * fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
 * 0.H backport appliance shutoff fix ([#75133](https://github.com/CleverRaven/Cataclysm-DDA/pull/75133))
-* Prune some unneeded magiclysm items from the to-hit blacklist ([#75131](https://github.com/CleverRaven/Cataclysm-DDA/pull/75131))
