@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-29-1447 ([6e69fb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-1447))
+
+* Provide insertion failure reasons from only eligible pockets ([#75304](https://github.com/CleverRaven/Cataclysm-DDA/pull/75304))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-29-0544 ([14f5841](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-0544))
 
 * [MoM] Update Brilliant Flash to use standard blind effect ([#75296](https://github.com/CleverRaven/Cataclysm-DDA/pull/75296))
@@ -183,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-07-24-2312 ([8ffc091](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-2312))
 
 * [Xedra Evolved] Add Fulgurating Strikes Sylph trait ([#75198](https://github.com/CleverRaven/Cataclysm-DDA/pull/75198))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-24-2053 ([f50d357](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-2053))
-
 * Add missing <string> for std::string ([#75202](https://github.com/CleverRaven/Cataclysm-DDA/pull/75202))
 * Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers ([#75197](https://github.com/CleverRaven/Cataclysm-DDA/pull/75197))
@@ -230,6 +231,5 @@
 * Prune some unneeded magiclysm items from the to-hit blacklist ([#75131](https://github.com/CleverRaven/Cataclysm-DDA/pull/75131))
 * Add apiaries to the farm generation ([#75124](https://github.com/CleverRaven/Cataclysm-DDA/pull/75124))
 * Civilianize Semi Auto MP40 ([#75129](https://github.com/CleverRaven/Cataclysm-DDA/pull/75129))
-* [MoM] Correct Wave of Force learning message ([#75118](https://github.com/CleverRaven/Cataclysm-DDA/pull/75118))
 * Fix linux experimental build toolchain ([#75126](https://github.com/CleverRaven/Cataclysm-DDA/pull/75126))
 * Backport #73129 for 0.H (misc repair kit reloading fix) ([#75121](https://github.com/CleverRaven/Cataclysm-DDA/pull/75121))

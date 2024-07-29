@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-07-29-1447 (6e69fb7)
+* Provide insertion failure reasons from only eligible pockets (#75304)
+
 Cataclysm-DDA experimental build 2024-07-29-0544 (14f5841)
 * [MoM] Update Brilliant Flash to use standard blind effect (#75296)
 * Pruning the old ``to-hit`` syntax - Part 1 (#75267)
@@ -102,8 +105,6 @@ Cataclysm-DDA experimental build 2024-07-25-0529 (1d47633)
 
 Cataclysm-DDA experimental build 2024-07-24-2312 (8ffc091)
 * [Xedra Evolved] Add Fulgurating Strikes Sylph trait (#75198)
-
-Cataclysm-DDA experimental build 2024-07-24-2053 (f50d357)
 * Add missing <string> for std::string (#75202)
 * Correct some categories from non-weapons (#75205)
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers (#75197)
@@ -146,6 +147,5 @@ Cataclysm-DDA experimental build 2024-07-24-2053 (f50d357)
 * Prune some unneeded magiclysm items from the to-hit blacklist (#75131)
 * Add apiaries to the farm generation (#75124)
 * Civilianize Semi Auto MP40 (#75129)
-* [MoM] Correct Wave of Force learning message (#75118)
 * Fix linux experimental build toolchain (#75126)
 * Backport #73129 for 0.H (misc repair kit reloading fix) (#75121)
