@@ -4,7 +4,7 @@
 #### Cataclysm-DDA experimental build 2024-07-29-0544 ([14f5841](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-0544))
 
 * [MoM] Update Brilliant Flash to use standard blind effect ([#75296](https://github.com/CleverRaven/Cataclysm-DDA/pull/75296))
-* Begin pruning the old ``to-hit`` list - Part 1 ([#75267](https://github.com/CleverRaven/Cataclysm-DDA/pull/75267))
+* Pruning the old ``to-hit`` syntax - Part 1 ([#75267](https://github.com/CleverRaven/Cataclysm-DDA/pull/75267))
 * Correct Petri dish description ([#75290](https://github.com/CleverRaven/Cataclysm-DDA/pull/75290))
 * Updated milling documentation ([#75294](https://github.com/CleverRaven/Cataclysm-DDA/pull/75294))
 
