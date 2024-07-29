@@ -1,3 +1,4 @@
+* add ar-15 .22 conversion kit ([#75210](https://github.com/CleverRaven/Cataclysm-DDA/pull/75210))
 * Appease clang ([#75271](https://github.com/CleverRaven/Cataclysm-DDA/pull/75271))
 * make ammo effect able to run EoC ([#75291](https://github.com/CleverRaven/Cataclysm-DDA/pull/75291))
 * add THROW_DAMAGE enchantment ([#75300](https://github.com/CleverRaven/Cataclysm-DDA/pull/75300))
@@ -202,7 +203,6 @@
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers ([#75197](https://github.com/CleverRaven/Cataclysm-DDA/pull/75197))
 * [MoM] You can always stop concentrating ([#75200](https://github.com/CleverRaven/Cataclysm-DDA/pull/75200))
 * Update AppStream metadata to current version info before final release of 0.H ([#75178](https://github.com/CleverRaven/Cataclysm-DDA/pull/75178))
-* Moved Magiclysm validation to Basic Build ([#75132](https://github.com/CleverRaven/Cataclysm-DDA/pull/75132))
 * [Magiclysm] Reduce effect of Gaia's Chosen thorns ([#75174](https://github.com/CleverRaven/Cataclysm-DDA/pull/75174))
 * Rename 'price / volume' to 'barter value / volume' ([#75181](https://github.com/CleverRaven/Cataclysm-DDA/pull/75181))
 * Fix house_detatched5's basement and roof ([#75182](https://github.com/CleverRaven/Cataclysm-DDA/pull/75182))
