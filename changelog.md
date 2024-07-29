@@ -1,3 +1,4 @@
+* make ammo effect able to run EoC ([#75291](https://github.com/CleverRaven/Cataclysm-DDA/pull/75291))
 * add THROW_DAMAGE enchantment ([#75300](https://github.com/CleverRaven/Cataclysm-DDA/pull/75300))
 * fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
 * XE Migo Stalking Warper ([#75158](https://github.com/CleverRaven/Cataclysm-DDA/pull/75158))
@@ -229,7 +230,6 @@
 * Actually use the zombie dog bone snippets ([#75142](https://github.com/CleverRaven/Cataclysm-DDA/pull/75142))
 * [My Sweet Cataclysm] Fix candy gator factions. Again. But for real this time tho ([#75143](https://github.com/CleverRaven/Cataclysm-DDA/pull/75143))
 * Chain pupating zombies through ``copy-from`` ([#75144](https://github.com/CleverRaven/Cataclysm-DDA/pull/75144))
-* Sledgehammer Audit ([#75130](https://github.com/CleverRaven/Cataclysm-DDA/pull/75130))
 * Add WATERWALKING flag, implement it in Magiclysm/MoM/XE ([#75135](https://github.com/CleverRaven/Cataclysm-DDA/pull/75135))
 * fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
 * 0.H backport appliance shutoff fix ([#75133](https://github.com/CleverRaven/Cataclysm-DDA/pull/75133))
