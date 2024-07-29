@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-29-0236 ([d10b9fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-0236))
+
 * Add more granularity to overmap vision ([#75236](https://github.com/CleverRaven/Cataclysm-DDA/pull/75236))
 
 ---

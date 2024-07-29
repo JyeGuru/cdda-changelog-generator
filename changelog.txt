@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-29-0236 (d10b9fa)
 * Add more granularity to overmap vision (#75236)
 
 Cataclysm-DDA experimental build 2024-07-28-2319 (a334d3d)
