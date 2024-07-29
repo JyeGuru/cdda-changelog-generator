@@ -1,3 +1,4 @@
+* add THROW_DAMAGE enchantment ([#75300](https://github.com/CleverRaven/Cataclysm-DDA/pull/75300))
 * fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
 * XE Migo Stalking Warper ([#75158](https://github.com/CleverRaven/Cataclysm-DDA/pull/75158))
 * Remove guaranteed residential solar, add random residential solar ([#75227](https://github.com/CleverRaven/Cataclysm-DDA/pull/75227))
@@ -233,4 +234,3 @@
 * fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
 * 0.H backport appliance shutoff fix ([#75133](https://github.com/CleverRaven/Cataclysm-DDA/pull/75133))
 * Prune some unneeded magiclysm items from the to-hit blacklist ([#75131](https://github.com/CleverRaven/Cataclysm-DDA/pull/75131))
-* Civilianize Semi Auto MP40 ([#75129](https://github.com/CleverRaven/Cataclysm-DDA/pull/75129))
