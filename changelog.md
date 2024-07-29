@@ -1,3 +1,6 @@
+* fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
+* XE Migo Stalking Warper ([#75158](https://github.com/CleverRaven/Cataclysm-DDA/pull/75158))
+* Remove guaranteed residential solar, add random residential solar ([#75227](https://github.com/CleverRaven/Cataclysm-DDA/pull/75227))
 * Safer NPC Ranged Weapon Use ([#75297](https://github.com/CleverRaven/Cataclysm-DDA/pull/75297))
 
 ---
@@ -196,7 +199,6 @@
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers ([#75197](https://github.com/CleverRaven/Cataclysm-DDA/pull/75197))
 * [MoM] You can always stop concentrating ([#75200](https://github.com/CleverRaven/Cataclysm-DDA/pull/75200))
 * Update AppStream metadata to current version info before final release of 0.H ([#75178](https://github.com/CleverRaven/Cataclysm-DDA/pull/75178))
-* fix NPCs spawning hallucinations, that player can see ([#75128](https://github.com/CleverRaven/Cataclysm-DDA/pull/75128))
 * Moved Magiclysm validation to Basic Build ([#75132](https://github.com/CleverRaven/Cataclysm-DDA/pull/75132))
 * [Magiclysm] Reduce effect of Gaia's Chosen thorns ([#75174](https://github.com/CleverRaven/Cataclysm-DDA/pull/75174))
 * Rename 'price / volume' to 'barter value / volume' ([#75181](https://github.com/CleverRaven/Cataclysm-DDA/pull/75181))
@@ -231,6 +233,4 @@
 * fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
 * 0.H backport appliance shutoff fix ([#75133](https://github.com/CleverRaven/Cataclysm-DDA/pull/75133))
 * Prune some unneeded magiclysm items from the to-hit blacklist ([#75131](https://github.com/CleverRaven/Cataclysm-DDA/pull/75131))
-* Add apiaries to the farm generation ([#75124](https://github.com/CleverRaven/Cataclysm-DDA/pull/75124))
 * Civilianize Semi Auto MP40 ([#75129](https://github.com/CleverRaven/Cataclysm-DDA/pull/75129))
-* Fix linux experimental build toolchain ([#75126](https://github.com/CleverRaven/Cataclysm-DDA/pull/75126))
