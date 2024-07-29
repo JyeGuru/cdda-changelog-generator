@@ -1,3 +1,10 @@
+* Safer NPC Ranged Weapon Use ([#75297](https://github.com/CleverRaven/Cataclysm-DDA/pull/75297))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-29-1847 ([7382ea8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-1847))
+
+* Prevent segfault when unloading from spillable container ([#75299](https://github.com/CleverRaven/Cataclysm-DDA/pull/75299))
 
 ---
 
@@ -183,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-07-25-0529 ([1d47633](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-0529))
 
 * remove wheat-free bread items and recipes ([#75185](https://github.com/CleverRaven/Cataclysm-DDA/pull/75185))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-24-2312 ([8ffc091](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-24-2312))
-
 * [Xedra Evolved] Add Fulgurating Strikes Sylph trait ([#75198](https://github.com/CleverRaven/Cataclysm-DDA/pull/75198))
 * Add missing <string> for std::string ([#75202](https://github.com/CleverRaven/Cataclysm-DDA/pull/75202))
 * Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))
@@ -232,4 +234,3 @@
 * Add apiaries to the farm generation ([#75124](https://github.com/CleverRaven/Cataclysm-DDA/pull/75124))
 * Civilianize Semi Auto MP40 ([#75129](https://github.com/CleverRaven/Cataclysm-DDA/pull/75129))
 * Fix linux experimental build toolchain ([#75126](https://github.com/CleverRaven/Cataclysm-DDA/pull/75126))
-* Backport #73129 for 0.H (misc repair kit reloading fix) ([#75121](https://github.com/CleverRaven/Cataclysm-DDA/pull/75121))

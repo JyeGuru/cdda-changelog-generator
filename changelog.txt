@@ -1,3 +1,7 @@
+* Safer NPC Ranged Weapon Use (#75297)
+
+Cataclysm-DDA experimental build 2024-07-29-1847 (7382ea8)
+* Prevent segfault when unloading from spillable container (#75299)
 
 Cataclysm-DDA experimental build 2024-07-29-1447 (6e69fb7)
 * Provide insertion failure reasons from only eligible pockets (#75304)
@@ -102,8 +106,6 @@ Cataclysm-DDA experimental build 2024-07-25-1432 (75cf294)
 
 Cataclysm-DDA experimental build 2024-07-25-0529 (1d47633)
 * remove wheat-free bread items and recipes (#75185)
-
-Cataclysm-DDA experimental build 2024-07-24-2312 (8ffc091)
 * [Xedra Evolved] Add Fulgurating Strikes Sylph trait (#75198)
 * Add missing <string> for std::string (#75202)
 * Correct some categories from non-weapons (#75205)
@@ -148,4 +150,3 @@ Cataclysm-DDA experimental build 2024-07-24-2312 (8ffc091)
 * Add apiaries to the farm generation (#75124)
 * Civilianize Semi Auto MP40 (#75129)
 * Fix linux experimental build toolchain (#75126)
-* Backport #73129 for 0.H (misc repair kit reloading fix) (#75121)
