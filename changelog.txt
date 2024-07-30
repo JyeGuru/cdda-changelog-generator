@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-07-30-0433 (8062226)
+* [MoM] Change Voltaic Strikes and Electrical Discharge to concentration (#75313)
+
 Cataclysm-DDA experimental build 2024-07-29-2156 (951b8da)
 * add ar-15 .22 conversion kit (#75210)
 * Appease clang (#75271)
@@ -101,8 +104,6 @@ Cataclysm-DDA experimental build 2024-07-26-0048 (8002d98)
 
 Cataclysm-DDA experimental build 2024-07-25-2035 (b0aae89)
 * Curable Shakes & Opium Sates (#75218)
-
-Cataclysm-DDA 0.H release candidate 2024-07-25-1811 (a54c861)
 * Back out "fix wrong speech type in hallucination message" (#75232)
 
 Cataclysm-DDA experimental build 2024-07-25-1721 (560f245)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2024-07-25-0529 (1d47633)
 * Chain pupating zombies through ``copy-from`` (#75144)
 * Add WATERWALKING flag, implement it in Magiclysm/MoM/XE (#75135)
 * fix armor wear crash (#75141)
-* 0.H backport appliance shutoff fix (#75133)

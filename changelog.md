@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-30-0433 ([8062226](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-30-0433))
+
+* [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-29-2156 ([951b8da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-2156))
 
 * add ar-15 .22 conversion kit ([#75210](https://github.com/CleverRaven/Cataclysm-DDA/pull/75210))
@@ -176,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-07-25-2035 ([b0aae89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-2035))
 
 * Curable Shakes & Opium Sates ([#75218](https://github.com/CleverRaven/Cataclysm-DDA/pull/75218))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-07-25-1811 ([a54c861](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-25-1811))
-
 * Back out "fix wrong speech type in hallucination message" ([#75232](https://github.com/CleverRaven/Cataclysm-DDA/pull/75232))
 
 ---
@@ -238,4 +239,3 @@
 * Chain pupating zombies through ``copy-from`` ([#75144](https://github.com/CleverRaven/Cataclysm-DDA/pull/75144))
 * Add WATERWALKING flag, implement it in Magiclysm/MoM/XE ([#75135](https://github.com/CleverRaven/Cataclysm-DDA/pull/75135))
 * fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
-* 0.H backport appliance shutoff fix ([#75133](https://github.com/CleverRaven/Cataclysm-DDA/pull/75133))
