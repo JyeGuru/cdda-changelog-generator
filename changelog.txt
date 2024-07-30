@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-07-30-1629 (0b942b3)
+* Prevent segfault when target of firstaid_activity_actor disappears (#75310)
+
 Cataclysm-DDA experimental build 2024-07-30-0433 (8062226)
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration (#75313)
 
@@ -113,8 +116,6 @@ Cataclysm-DDA experimental build 2024-07-25-1721 (560f245)
 
 Cataclysm-DDA experimental build 2024-07-25-1432 (75cf294)
 * [Xedra Evolved] Move Nuckalavees to XE (#75222)
-
-Cataclysm-DDA experimental build 2024-07-25-0529 (1d47633)
 * remove wheat-free bread items and recipes (#75185)
 * [Xedra Evolved] Add Fulgurating Strikes Sylph trait (#75198)
 * Add missing <string> for std::string (#75202)

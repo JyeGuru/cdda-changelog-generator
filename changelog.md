@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-07-30-1629 ([0b942b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-30-1629))
+
+* Prevent segfault when target of firstaid_activity_actor disappears ([#75310](https://github.com/CleverRaven/Cataclysm-DDA/pull/75310))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-07-30-0433 ([8062226](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-30-0433))
 
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
@@ -197,11 +203,6 @@
 #### Cataclysm-DDA experimental build 2024-07-25-1432 ([75cf294](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-1432))
 
 * [Xedra Evolved] Move Nuckalavees to XE ([#75222](https://github.com/CleverRaven/Cataclysm-DDA/pull/75222))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-25-0529 ([1d47633](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-0529))
-
 * remove wheat-free bread items and recipes ([#75185](https://github.com/CleverRaven/Cataclysm-DDA/pull/75185))
 * [Xedra Evolved] Add Fulgurating Strikes Sylph trait ([#75198](https://github.com/CleverRaven/Cataclysm-DDA/pull/75198))
 * Add missing <string> for std::string ([#75202](https://github.com/CleverRaven/Cataclysm-DDA/pull/75202))
