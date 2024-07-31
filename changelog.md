@@ -1,3 +1,4 @@
+* Use inhaler/oxygen bottle with least content left ([#75328](https://github.com/CleverRaven/Cataclysm-DDA/pull/75328))
 * Update the table of contents in doc/JSON_INFO.md ([#75338](https://github.com/CleverRaven/Cataclysm-DDA/pull/75338))
 * ZenFS: Match encumberance colors ([#75283](https://github.com/CleverRaven/Cataclysm-DDA/pull/75283))
 * Tweak yugg death effect ([#75295](https://github.com/CleverRaven/Cataclysm-DDA/pull/75295))
@@ -233,5 +234,4 @@
 * Adjust crude gun spawns ([#75155](https://github.com/CleverRaven/Cataclysm-DDA/pull/75155))
 * Only attempt to dodge relatively slow projectiles ([#75149](https://github.com/CleverRaven/Cataclysm-DDA/pull/75149))
 * Chain zombie wolves to zombie dogs through ``copy-from`` + Remove ``HOWL`` special attack ([#75145](https://github.com/CleverRaven/Cataclysm-DDA/pull/75145))
-* [My Sweet Cataclysm] Fix candy gator factions. Again. But for real this time tho ([#75143](https://github.com/CleverRaven/Cataclysm-DDA/pull/75143))
 * Chain pupating zombies through ``copy-from`` ([#75144](https://github.com/CleverRaven/Cataclysm-DDA/pull/75144))
