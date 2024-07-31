@@ -1,3 +1,7 @@
+* Weekly Changelog 2024-07-22 to 2024-07-29 (#75307)
+
+Cataclysm-DDA experimental build 2024-07-31-2143 (3ae095f)
+* Make EXOTIC HWP resemble a LMG (#75281)
 
 Cataclysm-DDA experimental build 2024-07-31-0403 (836a1ce)
 * Use inhaler/oxygen bottle with least content left (#75328)
@@ -111,8 +115,6 @@ Cataclysm-DDA experimental build 2024-07-26-0329 (2ec51c5)
 
 Cataclysm-DDA experimental build 2024-07-26-0048 (8002d98)
 * [AFS/MoM] Fix concentration proficiency leveling EoC (#75229)
-
-Cataclysm-DDA experimental build 2024-07-25-2035 (b0aae89)
 * Curable Shakes & Opium Sates (#75218)
 * Back out "fix wrong speech type in hallucination message" (#75232)
 * Get rid of compiler warnings (#75228)
@@ -149,5 +151,3 @@ Cataclysm-DDA experimental build 2024-07-25-2035 (b0aae89)
 * Fix error during player proficiency training (#75148)
 * Adjust crude gun spawns (#75155)
 * Only attempt to dodge relatively slow projectiles (#75149)
-* Chain zombie wolves to zombie dogs through ``copy-from`` + Remove ``HOWL`` special attack (#75145)
-* Chain pupating zombies through ``copy-from`` (#75144)

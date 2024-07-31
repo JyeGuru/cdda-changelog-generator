@@ -1,3 +1,10 @@
+* Weekly Changelog 2024-07-22 to 2024-07-29 ([#75307](https://github.com/CleverRaven/Cataclysm-DDA/pull/75307))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-31-2143 ([3ae095f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-31-2143))
+
+* Make EXOTIC HWP resemble a LMG ([#75281](https://github.com/CleverRaven/Cataclysm-DDA/pull/75281))
 
 ---
 
@@ -192,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-07-26-0048 ([8002d98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-0048))
 
 * [AFS/MoM] Fix concentration proficiency leveling EoC ([#75229](https://github.com/CleverRaven/Cataclysm-DDA/pull/75229))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-25-2035 ([b0aae89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-2035))
-
 * Curable Shakes & Opium Sates ([#75218](https://github.com/CleverRaven/Cataclysm-DDA/pull/75218))
 * Back out "fix wrong speech type in hallucination message" ([#75232](https://github.com/CleverRaven/Cataclysm-DDA/pull/75232))
 * Get rid of compiler warnings ([#75228](https://github.com/CleverRaven/Cataclysm-DDA/pull/75228))
@@ -233,5 +235,3 @@
 * Fix error during player proficiency training ([#75148](https://github.com/CleverRaven/Cataclysm-DDA/pull/75148))
 * Adjust crude gun spawns ([#75155](https://github.com/CleverRaven/Cataclysm-DDA/pull/75155))
 * Only attempt to dodge relatively slow projectiles ([#75149](https://github.com/CleverRaven/Cataclysm-DDA/pull/75149))
-* Chain zombie wolves to zombie dogs through ``copy-from`` + Remove ``HOWL`` special attack ([#75145](https://github.com/CleverRaven/Cataclysm-DDA/pull/75145))
-* Chain pupating zombies through ``copy-from`` ([#75144](https://github.com/CleverRaven/Cataclysm-DDA/pull/75144))
