@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-07-31-0403 (836a1ce)
 * Use inhaler/oxygen bottle with least content left (#75328)
 * Update the table of contents in doc/JSON_INFO.md (#75338)
 * ZenFS: Match encumberance colors (#75283)
@@ -113,8 +115,6 @@ Cataclysm-DDA experimental build 2024-07-26-0048 (8002d98)
 Cataclysm-DDA experimental build 2024-07-25-2035 (b0aae89)
 * Curable Shakes & Opium Sates (#75218)
 * Back out "fix wrong speech type in hallucination message" (#75232)
-
-Cataclysm-DDA experimental build 2024-07-25-1721 (560f245)
 * Get rid of compiler warnings (#75228)
 * [Xedra Evolved] Replace solid fog field with solid fog terrain (#75191)
 * [Magiclysm] Add mana mutagen as a possibility to mutagenic kits (#75217)
