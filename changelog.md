@@ -1,3 +1,12 @@
+* ZenFS: Match encumberance colors ([#75283](https://github.com/CleverRaven/Cataclysm-DDA/pull/75283))
+* Tweak yugg death effect ([#75295](https://github.com/CleverRaven/Cataclysm-DDA/pull/75295))
+* [MoM] Change Blazing Aura to concentration ([#75305](https://github.com/CleverRaven/Cataclysm-DDA/pull/75305))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-07-31-0059 ([3b533cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-31-0059))
+
+* [MoM] Change Hardened Skin to concentration ([#75316](https://github.com/CleverRaven/Cataclysm-DDA/pull/75316))
 
 ---
 
@@ -107,12 +116,6 @@
 #### Cataclysm-DDA experimental build 2024-07-27-1424 ([5876c2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-1424))
 
 * Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-27-0518 ([f3bcc4d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-0518))
-
-* [Bombastic Perks] Sword and sorcery-esque perks ([#75136](https://github.com/CleverRaven/Cataclysm-DDA/pull/75136))
 * Fixes of dialogues in the refugee center ([#75187](https://github.com/CleverRaven/Cataclysm-DDA/pull/75187))
 * [MoM] Perfected Motion lets you run on water ([#75242](https://github.com/CleverRaven/Cataclysm-DDA/pull/75242))
 
@@ -197,11 +200,6 @@
 * Get rid of compiler warnings ([#75228](https://github.com/CleverRaven/Cataclysm-DDA/pull/75228))
 * [Xedra Evolved] Replace solid fog field with solid fog terrain ([#75191](https://github.com/CleverRaven/Cataclysm-DDA/pull/75191))
 * [Magiclysm] Add mana mutagen as a possibility to mutagenic kits ([#75217](https://github.com/CleverRaven/Cataclysm-DDA/pull/75217))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-25-1432 ([75cf294](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-25-1432))
-
 * [Xedra Evolved] Move Nuckalavees to XE ([#75222](https://github.com/CleverRaven/Cataclysm-DDA/pull/75222))
 * remove wheat-free bread items and recipes ([#75185](https://github.com/CleverRaven/Cataclysm-DDA/pull/75185))
 * [Xedra Evolved] Add Fulgurating Strikes Sylph trait ([#75198](https://github.com/CleverRaven/Cataclysm-DDA/pull/75198))
@@ -226,7 +224,6 @@
 * [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding ([#75164](https://github.com/CleverRaven/Cataclysm-DDA/pull/75164))
 * Add missing 'to' in Baton Proficiency ([#75175](https://github.com/CleverRaven/Cataclysm-DDA/pull/75175))
 * Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
-* Further improve Barry Isherwood's rescue mission ([#75137](https://github.com/CleverRaven/Cataclysm-DDA/pull/75137))
 * [MoM] Fix possibility of studying new powers concurrently ([#75150](https://github.com/CleverRaven/Cataclysm-DDA/pull/75150))
 * Civilianize G36 ([#75154](https://github.com/CleverRaven/Cataclysm-DDA/pull/75154))
 * [Magiclysm] Artificer attunement passively recharges batteries in inventory ([#75161](https://github.com/CleverRaven/Cataclysm-DDA/pull/75161))
@@ -238,5 +235,3 @@
 * Actually use the zombie dog bone snippets ([#75142](https://github.com/CleverRaven/Cataclysm-DDA/pull/75142))
 * [My Sweet Cataclysm] Fix candy gator factions. Again. But for real this time tho ([#75143](https://github.com/CleverRaven/Cataclysm-DDA/pull/75143))
 * Chain pupating zombies through ``copy-from`` ([#75144](https://github.com/CleverRaven/Cataclysm-DDA/pull/75144))
-* Add WATERWALKING flag, implement it in Magiclysm/MoM/XE ([#75135](https://github.com/CleverRaven/Cataclysm-DDA/pull/75135))
-* fix armor wear crash ([#75141](https://github.com/CleverRaven/Cataclysm-DDA/pull/75141))
