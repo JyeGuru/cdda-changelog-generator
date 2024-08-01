@@ -1,3 +1,9 @@
+* fix hwp maintenance kit item_restriction (#75323)
+* [backport] fix hwp maintenance kit item_restriction (#75324)
+* [Bombastic Perks] Fix Pantherish Grace menu display (#75333)
+* Restore functionality of make etags (#75339)
+
+Cataclysm-DDA 0.H release candidate 2024-08-01-0545 (f755902)
 * Fix faction succession condition of broken bone in 0.H (#75345)
 * fix yugg death without killer causes error (#75352)
 
@@ -91,8 +97,6 @@ Cataclysm-DDA experimental build 2024-07-27-0211 (b9b3f3f)
 
 Cataclysm-DDA experimental build 2024-07-26-2258 (ebf95c1)
 * add THROW_STR enchantment (#75230)
-
-Cataclysm-DDA 0.H release candidate 2024-07-26-2355 (2a9910a)
 * [0.H backport] port hallucinations (#75250)
 * [0.H backport] Added Russian "ё" to remove_accent function (#75251)
 * [Xedra Evolved] Add the To Bless the Sacred Weapon charm (#75249)
@@ -107,9 +111,6 @@ Cataclysm-DDA experimental build 2024-07-26-1436 (42258b3)
 
 Cataclysm-DDA experimental build 2024-07-26-0605 (c336181)
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs (#75239)
-
-Cataclysm-DDA experimental build 2024-07-26-0329 (2ec51c5)
-* Weekly Changelog 2024-07-15 to 2024-07-22 (#75153)
 * optimized map::generate a bit (#75188)
 * Document how spellcasting proficiencies work (#75196)
 * Clarify description of training furniture (#75203)
@@ -146,8 +147,6 @@ Cataclysm-DDA experimental build 2024-07-26-0048 (8002d98)
 * [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding (#75164)
 * Add missing 'to' in Baton Proficiency (#75175)
 * Grant additional permissions to stale action (#75176)
-* [MoM] Fix possibility of studying new powers concurrently (#75150)
-* Civilianize G36 (#75154)
 * [Magiclysm] Artificer attunement passively recharges batteries in inventory (#75161)
 * Remove direction switching from stale action (#75167)
 * Adjust crude gun spawns (#75155)

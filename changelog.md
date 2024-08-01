@@ -1,3 +1,12 @@
+* fix hwp maintenance kit item_restriction ([#75323](https://github.com/CleverRaven/Cataclysm-DDA/pull/75323))
+* [backport] fix hwp maintenance kit item_restriction ([#75324](https://github.com/CleverRaven/Cataclysm-DDA/pull/75324))
+* [Bombastic Perks] Fix Pantherish Grace menu display ([#75333](https://github.com/CleverRaven/Cataclysm-DDA/pull/75333))
+* Restore functionality of make etags ([#75339](https://github.com/CleverRaven/Cataclysm-DDA/pull/75339))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-08-01-0545 ([f755902](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-01-0545))
+
 * Fix faction succession condition of broken bone in 0.H ([#75345](https://github.com/CleverRaven/Cataclysm-DDA/pull/75345))
 * fix yugg death without killer causes error ([#75352](https://github.com/CleverRaven/Cataclysm-DDA/pull/75352))
 
@@ -157,11 +166,6 @@
 #### Cataclysm-DDA experimental build 2024-07-26-2258 ([ebf95c1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-2258))
 
 * add THROW_STR enchantment ([#75230](https://github.com/CleverRaven/Cataclysm-DDA/pull/75230))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-07-26-2355 ([2a9910a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-26-2355))
-
 * [0.H backport] port hallucinations ([#75250](https://github.com/CleverRaven/Cataclysm-DDA/pull/75250))
 * [0.H backport] Added Russian "ё" to remove_accent function ([#75251](https://github.com/CleverRaven/Cataclysm-DDA/pull/75251))
 * [Xedra Evolved] Add the To Bless the Sacred Weapon charm ([#75249](https://github.com/CleverRaven/Cataclysm-DDA/pull/75249))
@@ -185,12 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-07-26-0605 ([c336181](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-0605))
 
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-26-0329 ([2ec51c5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-0329))
-
-* Weekly Changelog 2024-07-15 to 2024-07-22 ([#75153](https://github.com/CleverRaven/Cataclysm-DDA/pull/75153))
 * optimized map::generate a bit ([#75188](https://github.com/CleverRaven/Cataclysm-DDA/pull/75188))
 * Document how spellcasting proficiencies work ([#75196](https://github.com/CleverRaven/Cataclysm-DDA/pull/75196))
 * Clarify description of training furniture ([#75203](https://github.com/CleverRaven/Cataclysm-DDA/pull/75203))
@@ -230,8 +228,6 @@
 * [Magiclysm] Change Blood Mage attunement's bleed immunity to very slow bleeding ([#75164](https://github.com/CleverRaven/Cataclysm-DDA/pull/75164))
 * Add missing 'to' in Baton Proficiency ([#75175](https://github.com/CleverRaven/Cataclysm-DDA/pull/75175))
 * Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
-* [MoM] Fix possibility of studying new powers concurrently ([#75150](https://github.com/CleverRaven/Cataclysm-DDA/pull/75150))
-* Civilianize G36 ([#75154](https://github.com/CleverRaven/Cataclysm-DDA/pull/75154))
 * [Magiclysm] Artificer attunement passively recharges batteries in inventory ([#75161](https://github.com/CleverRaven/Cataclysm-DDA/pull/75161))
 * Remove direction switching from stale action ([#75167](https://github.com/CleverRaven/Cataclysm-DDA/pull/75167))
 * Adjust crude gun spawns ([#75155](https://github.com/CleverRaven/Cataclysm-DDA/pull/75155))
