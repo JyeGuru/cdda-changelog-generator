@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-01-0347 ([348ab84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-0347))
+
+* Improved error message ([#75350](https://github.com/CleverRaven/Cataclysm-DDA/pull/75350))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-01-0043 ([1fd261f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-0043))
 
 * Weekly Changelog 2024-07-22 to 2024-07-29 ([#75307](https://github.com/CleverRaven/Cataclysm-DDA/pull/75307))
@@ -155,11 +161,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-07-26-2355 ([2a9910a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-26-2355))
 
 * [0.H backport] port hallucinations ([#75250](https://github.com/CleverRaven/Cataclysm-DDA/pull/75250))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-07-26-2033 ([c086611](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-07-26-2033))
-
 * [0.H backport] Added Russian "ё" to remove_accent function ([#75251](https://github.com/CleverRaven/Cataclysm-DDA/pull/75251))
 * [Xedra Evolved] Add the To Bless the Sacred Weapon charm ([#75249](https://github.com/CleverRaven/Cataclysm-DDA/pull/75249))
 * [0.H backport] fix wrong speech type in hallucination message ([#75235](https://github.com/CleverRaven/Cataclysm-DDA/pull/75235))
@@ -218,7 +219,6 @@
 * Typos in Aftershock exosuit_manual.json ([#75192](https://github.com/CleverRaven/Cataclysm-DDA/pull/75192))
 * also add actions:write permission to actions/stale ([#75193](https://github.com/CleverRaven/Cataclysm-DDA/pull/75193))
 * add `always_cast_spell` ammo effect boolean ([#75168](https://github.com/CleverRaven/Cataclysm-DDA/pull/75168))
-* [MoM] Rework Extended and Torrential channeling recipe learning ([#75147](https://github.com/CleverRaven/Cataclysm-DDA/pull/75147))
 * [Xedra Evolved] Add waterwalking hedge magic spell ([#75171](https://github.com/CleverRaven/Cataclysm-DDA/pull/75171))
 * Remove survivor launchers ([#75172](https://github.com/CleverRaven/Cataclysm-DDA/pull/75172))
 * [Magiclysm] Vulcanists are immune to smoke and blistering ([#75165](https://github.com/CleverRaven/Cataclysm-DDA/pull/75165))
