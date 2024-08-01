@@ -1,3 +1,4 @@
+* Broth audit ([#75351](https://github.com/CleverRaven/Cataclysm-DDA/pull/75351))
 * fix hwp maintenance kit item_restriction ([#75323](https://github.com/CleverRaven/Cataclysm-DDA/pull/75323))
 * [backport] fix hwp maintenance kit item_restriction ([#75324](https://github.com/CleverRaven/Cataclysm-DDA/pull/75324))
 * [Bombastic Perks] Fix Pantherish Grace menu display ([#75333](https://github.com/CleverRaven/Cataclysm-DDA/pull/75333))
@@ -230,4 +231,3 @@
 * Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
 * [Magiclysm] Artificer attunement passively recharges batteries in inventory ([#75161](https://github.com/CleverRaven/Cataclysm-DDA/pull/75161))
 * Remove direction switching from stale action ([#75167](https://github.com/CleverRaven/Cataclysm-DDA/pull/75167))
-* Adjust crude gun spawns ([#75155](https://github.com/CleverRaven/Cataclysm-DDA/pull/75155))
