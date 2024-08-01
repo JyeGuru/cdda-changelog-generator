@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-01-0705 ([12eebf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-0705))
+
 * [MoM] Update building vision levels ([#75306](https://github.com/CleverRaven/Cataclysm-DDA/pull/75306))
 * Add faster staling for issues with the Suggestion/ Discussion label. ([#75303](https://github.com/CleverRaven/Cataclysm-DDA/pull/75303))
 * replace modular m4 carabin item with respective itemgroup ([#75298](https://github.com/CleverRaven/Cataclysm-DDA/pull/75298))
@@ -198,11 +203,6 @@
 * Clarify description of training furniture ([#75203](https://github.com/CleverRaven/Cataclysm-DDA/pull/75203))
 * Add new house ([#75208](https://github.com/CleverRaven/Cataclysm-DDA/pull/75208))
 * [MoM] Switch Astral Projection rider powers over to PSIONIC flag ([#75215](https://github.com/CleverRaven/Cataclysm-DDA/pull/75215))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-26-0048 ([8002d98](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-0048))
-
 * [AFS/MoM] Fix concentration proficiency leveling EoC ([#75229](https://github.com/CleverRaven/Cataclysm-DDA/pull/75229))
 * Curable Shakes & Opium Sates ([#75218](https://github.com/CleverRaven/Cataclysm-DDA/pull/75218))
 * Back out "fix wrong speech type in hallucination message" ([#75232](https://github.com/CleverRaven/Cataclysm-DDA/pull/75232))
