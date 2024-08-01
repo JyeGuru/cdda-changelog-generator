@@ -1,3 +1,5 @@
+* Fix faction succession condition of broken bone in 0.H ([#75345](https://github.com/CleverRaven/Cataclysm-DDA/pull/75345))
+* fix yugg death without killer causes error ([#75352](https://github.com/CleverRaven/Cataclysm-DDA/pull/75352))
 
 ---
 
@@ -232,6 +234,4 @@
 * Civilianize G36 ([#75154](https://github.com/CleverRaven/Cataclysm-DDA/pull/75154))
 * [Magiclysm] Artificer attunement passively recharges batteries in inventory ([#75161](https://github.com/CleverRaven/Cataclysm-DDA/pull/75161))
 * Remove direction switching from stale action ([#75167](https://github.com/CleverRaven/Cataclysm-DDA/pull/75167))
-* Fix error during player proficiency training ([#75148](https://github.com/CleverRaven/Cataclysm-DDA/pull/75148))
 * Adjust crude gun spawns ([#75155](https://github.com/CleverRaven/Cataclysm-DDA/pull/75155))
-* Only attempt to dodge relatively slow projectiles ([#75149](https://github.com/CleverRaven/Cataclysm-DDA/pull/75149))

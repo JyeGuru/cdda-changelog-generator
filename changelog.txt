@@ -1,3 +1,5 @@
+* Fix faction succession condition of broken bone in 0.H (#75345)
+* fix yugg death without killer causes error (#75352)
 
 Cataclysm-DDA experimental build 2024-08-01-0347 (348ab84)
 * Improved error message (#75350)
@@ -148,6 +150,4 @@ Cataclysm-DDA experimental build 2024-07-26-0048 (8002d98)
 * Civilianize G36 (#75154)
 * [Magiclysm] Artificer attunement passively recharges batteries in inventory (#75161)
 * Remove direction switching from stale action (#75167)
-* Fix error during player proficiency training (#75148)
 * Adjust crude gun spawns (#75155)
-* Only attempt to dodge relatively slow projectiles (#75149)
