@@ -6,6 +6,8 @@ Cataclysm-DDA experimental build 2024-08-01-0705 (12eebf6)
 * Add a bunch of new perks to Bombastic Perks (#75335)
 * Broth audit (#75351)
 * fix hwp maintenance kit item_restriction (#75323)
+
+Cataclysm-DDA 0.H release candidate 2024-08-01-0852 (c06f12d)
 * [backport] fix hwp maintenance kit item_restriction (#75324)
 * [Bombastic Perks] Fix Pantherish Grace menu display (#75333)
 * Restore functionality of make etags (#75339)
