@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-01-2310 ([09410b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-2310))
+
 * Ruin propane supply ([#75356](https://github.com/CleverRaven/Cataclysm-DDA/pull/75356))
 
 ---
@@ -198,11 +203,6 @@
 
 * [Sky Island] Add Flotation Stone craft ([#75237](https://github.com/CleverRaven/Cataclysm-DDA/pull/75237))
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-26-1436 ([42258b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-1436))
-
 * Continue cleaning up dog JSON ([#75231](https://github.com/CleverRaven/Cataclysm-DDA/pull/75231))
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
 * optimized map::generate a bit ([#75188](https://github.com/CleverRaven/Cataclysm-DDA/pull/75188))
