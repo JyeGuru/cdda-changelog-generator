@@ -1,3 +1,10 @@
+* Ruin propane supply ([#75356](https://github.com/CleverRaven/Cataclysm-DDA/pull/75356))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-01-2006 ([c8cda47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-2006))
+
+* Routine tileset updates on 01 August 2024 ([#75359](https://github.com/CleverRaven/Cataclysm-DDA/pull/75359))
 
 ---
 
@@ -197,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2024-07-26-1436 ([42258b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-1436))
 
 * Continue cleaning up dog JSON ([#75231](https://github.com/CleverRaven/Cataclysm-DDA/pull/75231))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-26-0605 ([c336181](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-0605))
-
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
 * optimized map::generate a bit ([#75188](https://github.com/CleverRaven/Cataclysm-DDA/pull/75188))
 * Document how spellcasting proficiencies work ([#75196](https://github.com/CleverRaven/Cataclysm-DDA/pull/75196))
@@ -230,9 +232,7 @@
 * add `always_cast_spell` ammo effect boolean ([#75168](https://github.com/CleverRaven/Cataclysm-DDA/pull/75168))
 * [Xedra Evolved] Add waterwalking hedge magic spell ([#75171](https://github.com/CleverRaven/Cataclysm-DDA/pull/75171))
 * Remove survivor launchers ([#75172](https://github.com/CleverRaven/Cataclysm-DDA/pull/75172))
-* [Magiclysm] Vulcanists are immune to smoke and blistering ([#75165](https://github.com/CleverRaven/Cataclysm-DDA/pull/75165))
 * [Magiclysm] Add Slow Magus spell ([#75177](https://github.com/CleverRaven/Cataclysm-DDA/pull/75177))
 * fix permission scope typo in stale.yml ([#75180](https://github.com/CleverRaven/Cataclysm-DDA/pull/75180))
 * Add missing 'to' in Baton Proficiency ([#75175](https://github.com/CleverRaven/Cataclysm-DDA/pull/75175))
 * Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
-* Remove direction switching from stale action ([#75167](https://github.com/CleverRaven/Cataclysm-DDA/pull/75167))

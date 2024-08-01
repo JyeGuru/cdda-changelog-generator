@@ -1,3 +1,7 @@
+* Ruin propane supply (#75356)
+
+Cataclysm-DDA experimental build 2024-08-01-2006 (c8cda47)
+* Routine tileset updates on 01 August 2024 (#75359)
 
 Cataclysm-DDA experimental build 2024-08-01-0705 (12eebf6)
 * [MoM] Update building vision levels (#75306)
@@ -116,8 +120,6 @@ Cataclysm-DDA experimental build 2024-07-26-1716 (26da18e)
 
 Cataclysm-DDA experimental build 2024-07-26-1436 (42258b3)
 * Continue cleaning up dog JSON (#75231)
-
-Cataclysm-DDA experimental build 2024-07-26-0605 (c336181)
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs (#75239)
 * optimized map::generate a bit (#75188)
 * Document how spellcasting proficiencies work (#75196)
@@ -146,9 +148,7 @@ Cataclysm-DDA experimental build 2024-07-26-0605 (c336181)
 * add `always_cast_spell` ammo effect boolean (#75168)
 * [Xedra Evolved] Add waterwalking hedge magic spell (#75171)
 * Remove survivor launchers (#75172)
-* [Magiclysm] Vulcanists are immune to smoke and blistering (#75165)
 * [Magiclysm] Add Slow Magus spell (#75177)
 * fix permission scope typo in stale.yml (#75180)
 * Add missing 'to' in Baton Proficiency (#75175)
 * Grant additional permissions to stale action (#75176)
-* Remove direction switching from stale action (#75167)
