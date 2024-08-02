@@ -1,3 +1,8 @@
+* fix m4_cqbr spawning in the wild ([#75374](https://github.com/CleverRaven/Cataclysm-DDA/pull/75374))
+* Random NPC classes can define weighted chance of spawning ([#75384](https://github.com/CleverRaven/Cataclysm-DDA/pull/75384))
+* Remove inaccessible valhallist-related content ([#75385](https://github.com/CleverRaven/Cataclysm-DDA/pull/75385))
+* Quick setup at start for debug worlds/characters ([#75388](https://github.com/CleverRaven/Cataclysm-DDA/pull/75388))
+* Made use action appliance deployment work properly ([#75397](https://github.com/CleverRaven/Cataclysm-DDA/pull/75397))
 * Powdered gelatin audit ([#75371](https://github.com/CleverRaven/Cataclysm-DDA/pull/75371))
 
 ---
@@ -233,10 +238,5 @@
 * Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers ([#75197](https://github.com/CleverRaven/Cataclysm-DDA/pull/75197))
 * [MoM] You can always stop concentrating ([#75200](https://github.com/CleverRaven/Cataclysm-DDA/pull/75200))
-* Update AppStream metadata to current version info before final release of 0.H ([#75178](https://github.com/CleverRaven/Cataclysm-DDA/pull/75178))
-* Rename 'price / volume' to 'barter value / volume' ([#75181](https://github.com/CleverRaven/Cataclysm-DDA/pull/75181))
-* Fix house_detatched5's basement and roof ([#75182](https://github.com/CleverRaven/Cataclysm-DDA/pull/75182))
 * Typos in Aftershock exosuit_manual.json ([#75192](https://github.com/CleverRaven/Cataclysm-DDA/pull/75192))
 * also add actions:write permission to actions/stale ([#75193](https://github.com/CleverRaven/Cataclysm-DDA/pull/75193))
-* [Magiclysm] Add Slow Magus spell ([#75177](https://github.com/CleverRaven/Cataclysm-DDA/pull/75177))
-* fix permission scope typo in stale.yml ([#75180](https://github.com/CleverRaven/Cataclysm-DDA/pull/75180))
