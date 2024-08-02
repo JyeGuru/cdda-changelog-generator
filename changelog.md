@@ -1,3 +1,7 @@
+* Update cigar description ([#75393](https://github.com/CleverRaven/Cataclysm-DDA/pull/75393))
+* better debugmsg of multiple attacks of the same type ([#75364](https://github.com/CleverRaven/Cataclysm-DDA/pull/75364))
+* Allow stereo system and some other small parts to be installed in aircraft ([#75360](https://github.com/CleverRaven/Cataclysm-DDA/pull/75360))
+* Make some chemicals that don't need to be comestible no longer comestible ([#75368](https://github.com/CleverRaven/Cataclysm-DDA/pull/75368))
 * fix m4_cqbr spawning in the wild ([#75374](https://github.com/CleverRaven/Cataclysm-DDA/pull/75374))
 * Random NPC classes can define weighted chance of spawning ([#75384](https://github.com/CleverRaven/Cataclysm-DDA/pull/75384))
 * Remove inaccessible valhallist-related content ([#75385](https://github.com/CleverRaven/Cataclysm-DDA/pull/75385))
@@ -203,7 +207,6 @@
 #### Cataclysm-DDA experimental build 2024-07-27-1424 ([5876c2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-1424))
 
 * Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
-* Fixes of dialogues in the refugee center ([#75187](https://github.com/CleverRaven/Cataclysm-DDA/pull/75187))
 * [MoM] Perfected Motion lets you run on water ([#75242](https://github.com/CleverRaven/Cataclysm-DDA/pull/75242))
 
 ---
@@ -220,7 +223,6 @@
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
 * Continue cleaning up dog JSON ([#75231](https://github.com/CleverRaven/Cataclysm-DDA/pull/75231))
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
-* optimized map::generate a bit ([#75188](https://github.com/CleverRaven/Cataclysm-DDA/pull/75188))
 * Document how spellcasting proficiencies work ([#75196](https://github.com/CleverRaven/Cataclysm-DDA/pull/75196))
 * Clarify description of training furniture ([#75203](https://github.com/CleverRaven/Cataclysm-DDA/pull/75203))
 * Add new house ([#75208](https://github.com/CleverRaven/Cataclysm-DDA/pull/75208))
@@ -229,10 +231,8 @@
 * Curable Shakes & Opium Sates ([#75218](https://github.com/CleverRaven/Cataclysm-DDA/pull/75218))
 * Back out "fix wrong speech type in hallucination message" ([#75232](https://github.com/CleverRaven/Cataclysm-DDA/pull/75232))
 * Get rid of compiler warnings ([#75228](https://github.com/CleverRaven/Cataclysm-DDA/pull/75228))
-* [Xedra Evolved] Replace solid fog field with solid fog terrain ([#75191](https://github.com/CleverRaven/Cataclysm-DDA/pull/75191))
 * [Magiclysm] Add mana mutagen as a possibility to mutagenic kits ([#75217](https://github.com/CleverRaven/Cataclysm-DDA/pull/75217))
 * [Xedra Evolved] Move Nuckalavees to XE ([#75222](https://github.com/CleverRaven/Cataclysm-DDA/pull/75222))
-* remove wheat-free bread items and recipes ([#75185](https://github.com/CleverRaven/Cataclysm-DDA/pull/75185))
 * [Xedra Evolved] Add Fulgurating Strikes Sylph trait ([#75198](https://github.com/CleverRaven/Cataclysm-DDA/pull/75198))
 * Add missing <string> for std::string ([#75202](https://github.com/CleverRaven/Cataclysm-DDA/pull/75202))
 * Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))
