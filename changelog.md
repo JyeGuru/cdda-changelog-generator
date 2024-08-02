@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-02-2006 ([56ce45a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-02-2006))
+
 * Fixed getting min/max drop values from deconstruction when modifier is NULL ([#75325](https://github.com/CleverRaven/Cataclysm-DDA/pull/75325))
 * Expose instability to json ([#75330](https://github.com/CleverRaven/Cataclysm-DDA/pull/75330))
 * make monattacks able to run eocs ([#75334](https://github.com/CleverRaven/Cataclysm-DDA/pull/75334))
@@ -211,11 +216,6 @@
 
 * Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
 * [MoM] Perfected Motion lets you run on water ([#75242](https://github.com/CleverRaven/Cataclysm-DDA/pull/75242))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-27-0211 ([b9b3f3f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-0211))
-
 * Withdrawals are distracting ([#75261](https://github.com/CleverRaven/Cataclysm-DDA/pull/75261))
 * add THROW_STR enchantment ([#75230](https://github.com/CleverRaven/Cataclysm-DDA/pull/75230))
 * [0.H backport] port hallucinations ([#75250](https://github.com/CleverRaven/Cataclysm-DDA/pull/75250))

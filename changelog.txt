@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-02-2006 (56ce45a)
 * Fixed getting min/max drop values from deconstruction when modifier is NULL (#75325)
 * Expose instability to json (#75330)
 * make monattacks able to run eocs (#75334)
@@ -127,8 +129,6 @@ Cataclysm-DDA experimental build 2024-07-27-1733 (e3c29e2)
 Cataclysm-DDA experimental build 2024-07-27-1424 (5876c2a)
 * Routine i18n updates on 27 July 2024 (#75264)
 * [MoM] Perfected Motion lets you run on water (#75242)
-
-Cataclysm-DDA experimental build 2024-07-27-0211 (b9b3f3f)
 * Withdrawals are distracting (#75261)
 * add THROW_STR enchantment (#75230)
 * [0.H backport] port hallucinations (#75250)
