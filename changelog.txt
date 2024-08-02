@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-02-1704 (4ceb3da)
+* Add FMS about mining (#75396)
+
 Cataclysm-DDA experimental build 2024-08-02-0528 (0ca32b8)
 * Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance (#75376)
 
@@ -115,8 +118,6 @@ Cataclysm-DDA experimental build 2024-07-27-1424 (5876c2a)
 
 Cataclysm-DDA experimental build 2024-07-27-0211 (b9b3f3f)
 * Withdrawals are distracting (#75261)
-
-Cataclysm-DDA experimental build 2024-07-26-2258 (ebf95c1)
 * add THROW_STR enchantment (#75230)
 * [0.H backport] port hallucinations (#75250)
 * [0.H backport] Added Russian "ё" to remove_accent function (#75251)
@@ -151,5 +152,4 @@ Cataclysm-DDA experimental build 2024-07-26-2258 (ebf95c1)
 * also add actions:write permission to actions/stale (#75193)
 * [Magiclysm] Add Slow Magus spell (#75177)
 * fix permission scope typo in stale.yml (#75180)
-* Add missing 'to' in Baton Proficiency (#75175)
 * Grant additional permissions to stale action (#75176)
