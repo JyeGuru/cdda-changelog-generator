@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-02-0201 ([99386ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-02-0201))
+
+* Removes Mortar Recipe's cement recipe book requirement ([#75348](https://github.com/CleverRaven/Cataclysm-DDA/pull/75348))
 * purge not used hardcoded mattacks ([#75347](https://github.com/CleverRaven/Cataclysm-DDA/pull/75347))
 
 ---
@@ -197,11 +203,6 @@
 * [0.H backport] Added Russian "ё" to remove_accent function ([#75251](https://github.com/CleverRaven/Cataclysm-DDA/pull/75251))
 * [Xedra Evolved] Add the To Bless the Sacred Weapon charm ([#75249](https://github.com/CleverRaven/Cataclysm-DDA/pull/75249))
 * [0.H backport] fix wrong speech type in hallucination message ([#75235](https://github.com/CleverRaven/Cataclysm-DDA/pull/75235))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-26-1716 ([26da18e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-26-1716))
-
 * [Sky Island] Add Flotation Stone craft ([#75237](https://github.com/CleverRaven/Cataclysm-DDA/pull/75237))
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
 * Continue cleaning up dog JSON ([#75231](https://github.com/CleverRaven/Cataclysm-DDA/pull/75231))
@@ -230,7 +231,6 @@
 * Fix house_detatched5's basement and roof ([#75182](https://github.com/CleverRaven/Cataclysm-DDA/pull/75182))
 * Typos in Aftershock exosuit_manual.json ([#75192](https://github.com/CleverRaven/Cataclysm-DDA/pull/75192))
 * also add actions:write permission to actions/stale ([#75193](https://github.com/CleverRaven/Cataclysm-DDA/pull/75193))
-* [Xedra Evolved] Add waterwalking hedge magic spell ([#75171](https://github.com/CleverRaven/Cataclysm-DDA/pull/75171))
 * Remove survivor launchers ([#75172](https://github.com/CleverRaven/Cataclysm-DDA/pull/75172))
 * [Magiclysm] Add Slow Magus spell ([#75177](https://github.com/CleverRaven/Cataclysm-DDA/pull/75177))
 * fix permission scope typo in stale.yml ([#75180](https://github.com/CleverRaven/Cataclysm-DDA/pull/75180))
