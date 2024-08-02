@@ -1,3 +1,4 @@
+* Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance (#75376)
 
 Cataclysm-DDA experimental build 2024-08-02-0201 (99386ed)
 * Removes Mortar Recipe's cement recipe book requirement (#75348)
@@ -147,7 +148,6 @@ Cataclysm-DDA experimental build 2024-07-26-2258 (ebf95c1)
 * Fix house_detatched5's basement and roof (#75182)
 * Typos in Aftershock exosuit_manual.json (#75192)
 * also add actions:write permission to actions/stale (#75193)
-* Remove survivor launchers (#75172)
 * [Magiclysm] Add Slow Magus spell (#75177)
 * fix permission scope typo in stale.yml (#75180)
 * Add missing 'to' in Baton Proficiency (#75175)
