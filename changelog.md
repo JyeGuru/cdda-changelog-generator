@@ -1,3 +1,4 @@
+* Fixed getting min/max drop values from deconstruction when modifier is NULL ([#75325](https://github.com/CleverRaven/Cataclysm-DDA/pull/75325))
 * Expose instability to json ([#75330](https://github.com/CleverRaven/Cataclysm-DDA/pull/75330))
 * make monattacks able to run eocs ([#75334](https://github.com/CleverRaven/Cataclysm-DDA/pull/75334))
 * Update cigar description ([#75393](https://github.com/CleverRaven/Cataclysm-DDA/pull/75393))
@@ -225,7 +226,6 @@
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
 * Continue cleaning up dog JSON ([#75231](https://github.com/CleverRaven/Cataclysm-DDA/pull/75231))
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
-* Document how spellcasting proficiencies work ([#75196](https://github.com/CleverRaven/Cataclysm-DDA/pull/75196))
 * Clarify description of training furniture ([#75203](https://github.com/CleverRaven/Cataclysm-DDA/pull/75203))
 * Add new house ([#75208](https://github.com/CleverRaven/Cataclysm-DDA/pull/75208))
 * [MoM] Switch Astral Projection rider powers over to PSIONIC flag ([#75215](https://github.com/CleverRaven/Cataclysm-DDA/pull/75215))
