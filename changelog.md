@@ -1,3 +1,4 @@
+* purge not used hardcoded mattacks ([#75347](https://github.com/CleverRaven/Cataclysm-DDA/pull/75347))
 
 ---
 
@@ -229,7 +230,6 @@
 * Fix house_detatched5's basement and roof ([#75182](https://github.com/CleverRaven/Cataclysm-DDA/pull/75182))
 * Typos in Aftershock exosuit_manual.json ([#75192](https://github.com/CleverRaven/Cataclysm-DDA/pull/75192))
 * also add actions:write permission to actions/stale ([#75193](https://github.com/CleverRaven/Cataclysm-DDA/pull/75193))
-* add `always_cast_spell` ammo effect boolean ([#75168](https://github.com/CleverRaven/Cataclysm-DDA/pull/75168))
 * [Xedra Evolved] Add waterwalking hedge magic spell ([#75171](https://github.com/CleverRaven/Cataclysm-DDA/pull/75171))
 * Remove survivor launchers ([#75172](https://github.com/CleverRaven/Cataclysm-DDA/pull/75172))
 * [Magiclysm] Add Slow Magus spell ([#75177](https://github.com/CleverRaven/Cataclysm-DDA/pull/75177))
