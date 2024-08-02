@@ -1,3 +1,4 @@
+* Powdered gelatin audit (#75371)
 
 Cataclysm-DDA experimental build 2024-08-02-1704 (4ceb3da)
 * Add FMS about mining (#75396)
@@ -152,4 +153,3 @@ Cataclysm-DDA experimental build 2024-07-27-0211 (b9b3f3f)
 * also add actions:write permission to actions/stale (#75193)
 * [Magiclysm] Add Slow Magus spell (#75177)
 * fix permission scope typo in stale.yml (#75180)
-* Grant additional permissions to stale action (#75176)

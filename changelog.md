@@ -1,3 +1,4 @@
+* Powdered gelatin audit ([#75371](https://github.com/CleverRaven/Cataclysm-DDA/pull/75371))
 
 ---
 
@@ -239,4 +240,3 @@
 * also add actions:write permission to actions/stale ([#75193](https://github.com/CleverRaven/Cataclysm-DDA/pull/75193))
 * [Magiclysm] Add Slow Magus spell ([#75177](https://github.com/CleverRaven/Cataclysm-DDA/pull/75177))
 * fix permission scope typo in stale.yml ([#75180](https://github.com/CleverRaven/Cataclysm-DDA/pull/75180))
-* Grant additional permissions to stale action ([#75176](https://github.com/CleverRaven/Cataclysm-DDA/pull/75176))
