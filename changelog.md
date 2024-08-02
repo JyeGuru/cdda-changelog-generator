@@ -1,3 +1,5 @@
+* Expose instability to json ([#75330](https://github.com/CleverRaven/Cataclysm-DDA/pull/75330))
+* make monattacks able to run eocs ([#75334](https://github.com/CleverRaven/Cataclysm-DDA/pull/75334))
 * Update cigar description ([#75393](https://github.com/CleverRaven/Cataclysm-DDA/pull/75393))
 * better debugmsg of multiple attacks of the same type ([#75364](https://github.com/CleverRaven/Cataclysm-DDA/pull/75364))
 * Allow stereo system and some other small parts to be installed in aircraft ([#75360](https://github.com/CleverRaven/Cataclysm-DDA/pull/75360))
@@ -238,5 +240,3 @@
 * Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))
 * [MoM] Add MUSCLE_VEH_BOOST flag to appropriate powers ([#75197](https://github.com/CleverRaven/Cataclysm-DDA/pull/75197))
 * [MoM] You can always stop concentrating ([#75200](https://github.com/CleverRaven/Cataclysm-DDA/pull/75200))
-* Typos in Aftershock exosuit_manual.json ([#75192](https://github.com/CleverRaven/Cataclysm-DDA/pull/75192))
-* also add actions:write permission to actions/stale ([#75193](https://github.com/CleverRaven/Cataclysm-DDA/pull/75193))
