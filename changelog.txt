@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-02-0528 (0ca32b8)
 * Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance (#75376)
 
 Cataclysm-DDA experimental build 2024-08-02-0201 (99386ed)
