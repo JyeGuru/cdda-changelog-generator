@@ -232,7 +232,6 @@
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
 * Continue cleaning up dog JSON ([#75231](https://github.com/CleverRaven/Cataclysm-DDA/pull/75231))
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
-* Add new house ([#75208](https://github.com/CleverRaven/Cataclysm-DDA/pull/75208))
 * [MoM] Switch Astral Projection rider powers over to PSIONIC flag ([#75215](https://github.com/CleverRaven/Cataclysm-DDA/pull/75215))
 * [AFS/MoM] Fix concentration proficiency leveling EoC ([#75229](https://github.com/CleverRaven/Cataclysm-DDA/pull/75229))
 * Curable Shakes & Opium Sates ([#75218](https://github.com/CleverRaven/Cataclysm-DDA/pull/75218))
