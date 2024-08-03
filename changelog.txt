@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-03-1813 (1fc1e9a)
 * Expand Home Photos to Use Variable Snippets (#75405)
 * Disassembly adjustments for underwear and MRE bags (#75399)
 
@@ -127,8 +129,6 @@ Cataclysm-DDA experimental build 2024-07-28-0227 (bfeb1ff)
 
 Cataclysm-DDA experimental build 2024-07-27-2340 (00f990d)
 * Add petri dishes (#75276)
-
-Cataclysm-DDA experimental build 2024-07-27-2022 (3135a6a)
 * No filter on construction menu (#75216)
 * Expand the labeler functionality for the ``Food & Vitamins`` label (#75269)
 * Pluralize and unify offal naming (#75252)

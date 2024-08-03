@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-03-1813 ([1fc1e9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-1813))
+
 * Expand Home Photos to Use Variable Snippets ([#75405](https://github.com/CleverRaven/Cataclysm-DDA/pull/75405))
 * Disassembly adjustments for underwear and MRE bags ([#75399](https://github.com/CleverRaven/Cataclysm-DDA/pull/75399))
 
@@ -211,11 +216,6 @@
 #### Cataclysm-DDA experimental build 2024-07-27-2340 ([00f990d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-2340))
 
 * Add petri dishes ([#75276](https://github.com/CleverRaven/Cataclysm-DDA/pull/75276))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-27-2022 ([3135a6a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-2022))
-
 * No filter on construction menu ([#75216](https://github.com/CleverRaven/Cataclysm-DDA/pull/75216))
 * Expand the labeler functionality for the ``Food & Vitamins`` label ([#75269](https://github.com/CleverRaven/Cataclysm-DDA/pull/75269))
 * Pluralize and unify offal naming ([#75252](https://github.com/CleverRaven/Cataclysm-DDA/pull/75252))
