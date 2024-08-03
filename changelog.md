@@ -1,3 +1,4 @@
+* Expand Home Photos to Use Variable Snippets ([#75405](https://github.com/CleverRaven/Cataclysm-DDA/pull/75405))
 * Disassembly adjustments for underwear and MRE bags ([#75399](https://github.com/CleverRaven/Cataclysm-DDA/pull/75399))
 
 ---
@@ -239,4 +240,3 @@
 * Get rid of compiler warnings ([#75228](https://github.com/CleverRaven/Cataclysm-DDA/pull/75228))
 * [Magiclysm] Add mana mutagen as a possibility to mutagenic kits ([#75217](https://github.com/CleverRaven/Cataclysm-DDA/pull/75217))
 * [Xedra Evolved] Move Nuckalavees to XE ([#75222](https://github.com/CleverRaven/Cataclysm-DDA/pull/75222))
-* Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))

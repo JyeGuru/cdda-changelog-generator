@@ -1,3 +1,4 @@
+* Expand Home Photos to Use Variable Snippets (#75405)
 * Disassembly adjustments for underwear and MRE bags (#75399)
 
 Cataclysm-DDA experimental build 2024-08-03-1528 (6b4c4d9)
@@ -152,4 +153,3 @@ Cataclysm-DDA experimental build 2024-07-27-2022 (3135a6a)
 * Get rid of compiler warnings (#75228)
 * [Magiclysm] Add mana mutagen as a possibility to mutagenic kits (#75217)
 * [Xedra Evolved] Move Nuckalavees to XE (#75222)
-* Correct some categories from non-weapons (#75205)
