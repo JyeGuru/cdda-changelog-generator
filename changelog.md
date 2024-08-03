@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-03-1528 ([6b4c4d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-1528))
+
+* Remove unnecessary workout y/n prompt ([#75415](https://github.com/CleverRaven/Cataclysm-DDA/pull/75415))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-03-0533 ([1c140ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-0533))
 
 * more flavor shadow warning messages ([#75402](https://github.com/CleverRaven/Cataclysm-DDA/pull/75402))
@@ -210,11 +216,6 @@
 
 * No filter on construction menu ([#75216](https://github.com/CleverRaven/Cataclysm-DDA/pull/75216))
 * Expand the labeler functionality for the ``Food & Vitamins`` label ([#75269](https://github.com/CleverRaven/Cataclysm-DDA/pull/75269))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-27-1733 ([e3c29e2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-1733))
-
 * Pluralize and unify offal naming ([#75252](https://github.com/CleverRaven/Cataclysm-DDA/pull/75252))
 * [TropiCata] Prune some zombies from the blacklist ([#75257](https://github.com/CleverRaven/Cataclysm-DDA/pull/75257))
 * Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
@@ -238,5 +239,4 @@
 * Get rid of compiler warnings ([#75228](https://github.com/CleverRaven/Cataclysm-DDA/pull/75228))
 * [Magiclysm] Add mana mutagen as a possibility to mutagenic kits ([#75217](https://github.com/CleverRaven/Cataclysm-DDA/pull/75217))
 * [Xedra Evolved] Move Nuckalavees to XE ([#75222](https://github.com/CleverRaven/Cataclysm-DDA/pull/75222))
-* Add missing <string> for std::string ([#75202](https://github.com/CleverRaven/Cataclysm-DDA/pull/75202))
 * Correct some categories from non-weapons ([#75205](https://github.com/CleverRaven/Cataclysm-DDA/pull/75205))

@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-03-1528 (6b4c4d9)
+* Remove unnecessary workout y/n prompt (#75415)
+
 Cataclysm-DDA experimental build 2024-08-03-0533 (1c140ab)
 * more flavor shadow warning messages (#75402)
 * Make the one of Yugg's corpses that is actually flesh rot (#75355)
@@ -126,8 +129,6 @@ Cataclysm-DDA experimental build 2024-07-27-2340 (00f990d)
 Cataclysm-DDA experimental build 2024-07-27-2022 (3135a6a)
 * No filter on construction menu (#75216)
 * Expand the labeler functionality for the ``Food & Vitamins`` label (#75269)
-
-Cataclysm-DDA experimental build 2024-07-27-1733 (e3c29e2)
 * Pluralize and unify offal naming (#75252)
 * [TropiCata] Prune some zombies from the blacklist (#75257)
 * Routine i18n updates on 27 July 2024 (#75264)
@@ -151,5 +152,4 @@ Cataclysm-DDA experimental build 2024-07-27-1733 (e3c29e2)
 * Get rid of compiler warnings (#75228)
 * [Magiclysm] Add mana mutagen as a possibility to mutagenic kits (#75217)
 * [Xedra Evolved] Move Nuckalavees to XE (#75222)
-* Add missing <string> for std::string (#75202)
 * Correct some categories from non-weapons (#75205)
