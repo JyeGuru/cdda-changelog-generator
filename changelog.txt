@@ -1,3 +1,4 @@
+* Disassembly adjustments for underwear and MRE bags (#75399)
 
 Cataclysm-DDA experimental build 2024-08-03-1528 (6b4c4d9)
 * Remove unnecessary workout y/n prompt (#75415)
@@ -143,7 +144,6 @@ Cataclysm-DDA experimental build 2024-07-27-2022 (3135a6a)
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell (#75238)
 * Continue cleaning up dog JSON (#75231)
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs (#75239)
-* Clarify description of training furniture (#75203)
 * Add new house (#75208)
 * [MoM] Switch Astral Projection rider powers over to PSIONIC flag (#75215)
 * [AFS/MoM] Fix concentration proficiency leveling EoC (#75229)
