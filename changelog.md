@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-03-0533 ([1c140ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-0533))
+
 * more flavor shadow warning messages ([#75402](https://github.com/CleverRaven/Cataclysm-DDA/pull/75402))
 * Make the one of Yugg's corpses that is actually flesh rot ([#75355](https://github.com/CleverRaven/Cataclysm-DDA/pull/75355))
 * add swamp to shadow spawn locs ([#75400](https://github.com/CleverRaven/Cataclysm-DDA/pull/75400))
@@ -212,11 +217,6 @@
 
 * Pluralize and unify offal naming ([#75252](https://github.com/CleverRaven/Cataclysm-DDA/pull/75252))
 * [TropiCata] Prune some zombies from the blacklist ([#75257](https://github.com/CleverRaven/Cataclysm-DDA/pull/75257))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-27-1424 ([5876c2a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-1424))
-
 * Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
 * [MoM] Perfected Motion lets you run on water ([#75242](https://github.com/CleverRaven/Cataclysm-DDA/pull/75242))
 * Withdrawals are distracting ([#75261](https://github.com/CleverRaven/Cataclysm-DDA/pull/75261))
