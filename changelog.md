@@ -1,3 +1,5 @@
+* Prevent negative array index for floor_cache ([#75453](https://github.com/CleverRaven/Cataclysm-DDA/pull/75453))
+* Show variant tiles for overmap vision levels ([#75456](https://github.com/CleverRaven/Cataclysm-DDA/pull/75456))
 * Remove block from F-S fighting knife ([#75452](https://github.com/CleverRaven/Cataclysm-DDA/pull/75452))
 
 ---
@@ -171,7 +173,6 @@
 * make ammo effect able to run EoC ([#75291](https://github.com/CleverRaven/Cataclysm-DDA/pull/75291))
 * add THROW_DAMAGE enchantment ([#75300](https://github.com/CleverRaven/Cataclysm-DDA/pull/75300))
 * fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
-* Remove guaranteed residential solar, add random residential solar ([#75227](https://github.com/CleverRaven/Cataclysm-DDA/pull/75227))
 * Safer NPC Ranged Weapon Use ([#75297](https://github.com/CleverRaven/Cataclysm-DDA/pull/75297))
 
 ---
@@ -238,4 +239,3 @@
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
 * [AFS/MoM] Fix concentration proficiency leveling EoC ([#75229](https://github.com/CleverRaven/Cataclysm-DDA/pull/75229))
 * Back out "fix wrong speech type in hallucination message" ([#75232](https://github.com/CleverRaven/Cataclysm-DDA/pull/75232))
-* Get rid of compiler warnings ([#75228](https://github.com/CleverRaven/Cataclysm-DDA/pull/75228))
