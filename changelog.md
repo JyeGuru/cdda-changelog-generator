@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-04-1843 ([1b3cce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-04-1843))
+
 * Defer checking death effect validity until finalize function. ([#75410](https://github.com/CleverRaven/Cataclysm-DDA/pull/75410))
 * Prevent segfault if repair item disappears ([#75413](https://github.com/CleverRaven/Cataclysm-DDA/pull/75413))
 
@@ -201,11 +206,6 @@
 
 * Obsolete Dire Wolves ([#75241](https://github.com/CleverRaven/Cataclysm-DDA/pull/75241))
 * Stop iteminfo test from failing w/ mod damage types ([#75278](https://github.com/CleverRaven/Cataclysm-DDA/pull/75278))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-28-0227 ([bfeb1ff](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-0227))
-
 * Fixed map generate bug ([#75270](https://github.com/CleverRaven/Cataclysm-DDA/pull/75270))
 * [magiclysm] add message to feral wizards spell ([#75246](https://github.com/CleverRaven/Cataclysm-DDA/pull/75246))
 * Mesoamerican weaponry update ([#75248](https://github.com/CleverRaven/Cataclysm-DDA/pull/75248))
