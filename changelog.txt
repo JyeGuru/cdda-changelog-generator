@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-04-2117 (5dca8af)
 * Show tileset id along with debug overmap info (#75430)
 * Use CC-Sounds as default soundpack if it's present on first launch (#75447)
 

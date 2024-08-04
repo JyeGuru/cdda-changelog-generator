@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-04-2117 ([5dca8af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-04-2117))
+
 * Show tileset id along with debug overmap info ([#75430](https://github.com/CleverRaven/Cataclysm-DDA/pull/75430))
 * Use CC-Sounds as default soundpack if it's present on first launch ([#75447](https://github.com/CleverRaven/Cataclysm-DDA/pull/75447))
 
