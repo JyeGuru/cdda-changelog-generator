@@ -1,3 +1,4 @@
+* Set owner of disassembly result ([#75411](https://github.com/CleverRaven/Cataclysm-DDA/pull/75411))
 * Make howling dogs actually behave like zombies ([#75422](https://github.com/CleverRaven/Cataclysm-DDA/pull/75422))
 * Fixed throw & swap_critters crash bugs ([#75418](https://github.com/CleverRaven/Cataclysm-DDA/pull/75418))
 * Typo fix for doc file filename ([#75436](https://github.com/CleverRaven/Cataclysm-DDA/pull/75436))
@@ -211,7 +212,6 @@
 #### Cataclysm-DDA experimental build 2024-07-28-2319 ([a334d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-2319))
 
 * Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
-* Added Russian "ё" to remove_accent function ([#75234](https://github.com/CleverRaven/Cataclysm-DDA/pull/75234))
 
 ---
 
