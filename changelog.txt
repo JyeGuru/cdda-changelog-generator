@@ -1,3 +1,4 @@
+* Remove block from F-S fighting knife (#75452)
 
 Cataclysm-DDA experimental build 2024-08-04-2117 (5dca8af)
 * Show tileset id along with debug overmap info (#75430)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2024-07-28-1953 (67026ae)
 * [AFS/MoM] Fix concentration proficiency leveling EoC (#75229)
 * Back out "fix wrong speech type in hallucination message" (#75232)
 * Get rid of compiler warnings (#75228)
-* [Xedra Evolved] Move Nuckalavees to XE (#75222)

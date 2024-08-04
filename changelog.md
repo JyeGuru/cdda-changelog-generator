@@ -1,3 +1,4 @@
+* Remove block from F-S fighting knife ([#75452](https://github.com/CleverRaven/Cataclysm-DDA/pull/75452))
 
 ---
 
@@ -238,4 +239,3 @@
 * [AFS/MoM] Fix concentration proficiency leveling EoC ([#75229](https://github.com/CleverRaven/Cataclysm-DDA/pull/75229))
 * Back out "fix wrong speech type in hallucination message" ([#75232](https://github.com/CleverRaven/Cataclysm-DDA/pull/75232))
 * Get rid of compiler warnings ([#75228](https://github.com/CleverRaven/Cataclysm-DDA/pull/75228))
-* [Xedra Evolved] Move Nuckalavees to XE ([#75222](https://github.com/CleverRaven/Cataclysm-DDA/pull/75222))
