@@ -1,3 +1,9 @@
+* [ Xedra Evolved ] Cryptid video snippets ([#75287](https://github.com/CleverRaven/Cataclysm-DDA/pull/75287))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-04-2354 ([874dded](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-04-2354))
+
 * Avoid crash when no proficiencies in character menu ([#75370](https://github.com/CleverRaven/Cataclysm-DDA/pull/75370))
 * Routine i18n updates on 03 August 2024 ([#75408](https://github.com/CleverRaven/Cataclysm-DDA/pull/75408))
 * Set owner of disassembly result ([#75411](https://github.com/CleverRaven/Cataclysm-DDA/pull/75411))
@@ -208,11 +214,6 @@
 #### Cataclysm-DDA experimental build 2024-07-28-2319 ([a334d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-2319))
 
 * Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-28-1953 ([67026ae](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-1953))
-
 * Obsolete Dire Wolves ([#75241](https://github.com/CleverRaven/Cataclysm-DDA/pull/75241))
 * Stop iteminfo test from failing w/ mod damage types ([#75278](https://github.com/CleverRaven/Cataclysm-DDA/pull/75278))
 * Fixed map generate bug ([#75270](https://github.com/CleverRaven/Cataclysm-DDA/pull/75270))
@@ -231,6 +232,5 @@
 * [0.H backport] port hallucinations ([#75250](https://github.com/CleverRaven/Cataclysm-DDA/pull/75250))
 * [0.H backport] Added Russian "ё" to remove_accent function ([#75251](https://github.com/CleverRaven/Cataclysm-DDA/pull/75251))
 * [Xedra Evolved] Add the To Bless the Sacred Weapon charm ([#75249](https://github.com/CleverRaven/Cataclysm-DDA/pull/75249))
-* [Sky Island] Add Flotation Stone craft ([#75237](https://github.com/CleverRaven/Cataclysm-DDA/pull/75237))
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
