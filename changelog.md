@@ -1,3 +1,5 @@
+* Show tileset id along with debug overmap info ([#75430](https://github.com/CleverRaven/Cataclysm-DDA/pull/75430))
+* Use CC-Sounds as default soundpack if it's present on first launch ([#75447](https://github.com/CleverRaven/Cataclysm-DDA/pull/75447))
 
 ---
 
@@ -229,8 +231,6 @@
 * Continue cleaning up dog JSON ([#75231](https://github.com/CleverRaven/Cataclysm-DDA/pull/75231))
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
 * [AFS/MoM] Fix concentration proficiency leveling EoC ([#75229](https://github.com/CleverRaven/Cataclysm-DDA/pull/75229))
-* Curable Shakes & Opium Sates ([#75218](https://github.com/CleverRaven/Cataclysm-DDA/pull/75218))
 * Back out "fix wrong speech type in hallucination message" ([#75232](https://github.com/CleverRaven/Cataclysm-DDA/pull/75232))
 * Get rid of compiler warnings ([#75228](https://github.com/CleverRaven/Cataclysm-DDA/pull/75228))
-* [Magiclysm] Add mana mutagen as a possibility to mutagenic kits ([#75217](https://github.com/CleverRaven/Cataclysm-DDA/pull/75217))
 * [Xedra Evolved] Move Nuckalavees to XE ([#75222](https://github.com/CleverRaven/Cataclysm-DDA/pull/75222))
