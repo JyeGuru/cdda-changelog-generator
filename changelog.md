@@ -1,3 +1,5 @@
+* Avoid crash when no proficiencies in character menu ([#75370](https://github.com/CleverRaven/Cataclysm-DDA/pull/75370))
+* Routine i18n updates on 03 August 2024 ([#75408](https://github.com/CleverRaven/Cataclysm-DDA/pull/75408))
 * Set owner of disassembly result ([#75411](https://github.com/CleverRaven/Cataclysm-DDA/pull/75411))
 * Make howling dogs actually behave like zombies ([#75422](https://github.com/CleverRaven/Cataclysm-DDA/pull/75422))
 * Fixed throw & swap_critters crash bugs ([#75418](https://github.com/CleverRaven/Cataclysm-DDA/pull/75418))
@@ -203,12 +205,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-07-29-0236 ([d10b9fa](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-0236))
-
-* Add more granularity to overmap vision ([#75236](https://github.com/CleverRaven/Cataclysm-DDA/pull/75236))
-
----
-
 #### Cataclysm-DDA experimental build 2024-07-28-2319 ([a334d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-2319))
 
 * Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
@@ -235,7 +231,6 @@
 * [0.H backport] port hallucinations ([#75250](https://github.com/CleverRaven/Cataclysm-DDA/pull/75250))
 * [0.H backport] Added Russian "ё" to remove_accent function ([#75251](https://github.com/CleverRaven/Cataclysm-DDA/pull/75251))
 * [Xedra Evolved] Add the To Bless the Sacred Weapon charm ([#75249](https://github.com/CleverRaven/Cataclysm-DDA/pull/75249))
-* [0.H backport] fix wrong speech type in hallucination message ([#75235](https://github.com/CleverRaven/Cataclysm-DDA/pull/75235))
 * [Sky Island] Add Flotation Stone craft ([#75237](https://github.com/CleverRaven/Cataclysm-DDA/pull/75237))
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
