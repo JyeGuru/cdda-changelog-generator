@@ -1,3 +1,11 @@
+* Defer checking death effect validity until finalize function. ([#75410](https://github.com/CleverRaven/Cataclysm-DDA/pull/75410))
+* Prevent segfault if repair item disappears ([#75413](https://github.com/CleverRaven/Cataclysm-DDA/pull/75413))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-04-1521 ([b7a3317](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-04-1521))
+
+* Give a bunch of reversible crafts specified disassembly times ([#75414](https://github.com/CleverRaven/Cataclysm-DDA/pull/75414))
 
 ---
 
@@ -204,13 +212,7 @@
 * Remove bloated comments from translation files, part 2 ([#75253](https://github.com/CleverRaven/Cataclysm-DDA/pull/75253))
 * Treat bleeding from pets ([#75274](https://github.com/CleverRaven/Cataclysm-DDA/pull/75274))
 * Coyote audit ([#75259](https://github.com/CleverRaven/Cataclysm-DDA/pull/75259))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-27-2340 ([00f990d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-27-2340))
-
 * Add petri dishes ([#75276](https://github.com/CleverRaven/Cataclysm-DDA/pull/75276))
-* No filter on construction menu ([#75216](https://github.com/CleverRaven/Cataclysm-DDA/pull/75216))
 * Expand the labeler functionality for the ``Food & Vitamins`` label ([#75269](https://github.com/CleverRaven/Cataclysm-DDA/pull/75269))
 * Pluralize and unify offal naming ([#75252](https://github.com/CleverRaven/Cataclysm-DDA/pull/75252))
 * [TropiCata] Prune some zombies from the blacklist ([#75257](https://github.com/CleverRaven/Cataclysm-DDA/pull/75257))
@@ -226,7 +228,6 @@
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
 * Continue cleaning up dog JSON ([#75231](https://github.com/CleverRaven/Cataclysm-DDA/pull/75231))
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
-* [MoM] Switch Astral Projection rider powers over to PSIONIC flag ([#75215](https://github.com/CleverRaven/Cataclysm-DDA/pull/75215))
 * [AFS/MoM] Fix concentration proficiency leveling EoC ([#75229](https://github.com/CleverRaven/Cataclysm-DDA/pull/75229))
 * Curable Shakes & Opium Sates ([#75218](https://github.com/CleverRaven/Cataclysm-DDA/pull/75218))
 * Back out "fix wrong speech type in hallucination message" ([#75232](https://github.com/CleverRaven/Cataclysm-DDA/pull/75232))
