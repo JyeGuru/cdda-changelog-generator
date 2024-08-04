@@ -1,3 +1,4 @@
+* Fixed throw & swap_critters crash bugs ([#75418](https://github.com/CleverRaven/Cataclysm-DDA/pull/75418))
 * Typo fix for doc file filename ([#75436](https://github.com/CleverRaven/Cataclysm-DDA/pull/75436))
 * fixed item location load failure fallback ([#75441](https://github.com/CleverRaven/Cataclysm-DDA/pull/75441))
 * Prevent negative array index for floor_cache ([#75453](https://github.com/CleverRaven/Cataclysm-DDA/pull/75453))
@@ -236,6 +237,5 @@
 * [0.H backport] fix wrong speech type in hallucination message ([#75235](https://github.com/CleverRaven/Cataclysm-DDA/pull/75235))
 * [Sky Island] Add Flotation Stone craft ([#75237](https://github.com/CleverRaven/Cataclysm-DDA/pull/75237))
 * [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
-* Continue cleaning up dog JSON ([#75231](https://github.com/CleverRaven/Cataclysm-DDA/pull/75231))
 * [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
 * Back out "fix wrong speech type in hallucination message" ([#75232](https://github.com/CleverRaven/Cataclysm-DDA/pull/75232))
