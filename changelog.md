@@ -1,3 +1,4 @@
+* Description fix for Bren 5.56x45mm carbine ([#75435](https://github.com/CleverRaven/Cataclysm-DDA/pull/75435))
 
 ---
 
@@ -229,7 +230,6 @@
 * Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
 * Stop iteminfo test from failing w/ mod damage types ([#75278](https://github.com/CleverRaven/Cataclysm-DDA/pull/75278))
 * Fixed map generate bug ([#75270](https://github.com/CleverRaven/Cataclysm-DDA/pull/75270))
-* Remove bloated comments from translation files, part 2 ([#75253](https://github.com/CleverRaven/Cataclysm-DDA/pull/75253))
 * Treat bleeding from pets ([#75274](https://github.com/CleverRaven/Cataclysm-DDA/pull/75274))
 * Coyote audit ([#75259](https://github.com/CleverRaven/Cataclysm-DDA/pull/75259))
 * Add petri dishes ([#75276](https://github.com/CleverRaven/Cataclysm-DDA/pull/75276))

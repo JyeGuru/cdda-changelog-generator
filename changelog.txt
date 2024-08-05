@@ -1,3 +1,4 @@
+* Description fix for Bren 5.56x45mm carbine (#75435)
 
 Cataclysm-DDA experimental build 2024-08-05-1158 (35e37f3)
 * Enabled towing over ramps (#75346)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2024-07-29-1447 (6e69fb7)
 * Load container only when location is of that kind (#75289)
 * Stop iteminfo test from failing w/ mod damage types (#75278)
 * Fixed map generate bug (#75270)
-* Remove bloated comments from translation files, part 2 (#75253)
 * Treat bleeding from pets (#75274)
 * Coyote audit (#75259)
 * Add petri dishes (#75276)
