@@ -1,3 +1,6 @@
+* Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
+* Sand and gravel pit ([#75381](https://github.com/CleverRaven/Cataclysm-DDA/pull/75381))
+* let hospitalized humans revive as zed crawlers ([#75412](https://github.com/CleverRaven/Cataclysm-DDA/pull/75412))
 
 ---
 
@@ -220,8 +223,6 @@
 * Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
 * Stop iteminfo test from failing w/ mod damage types ([#75278](https://github.com/CleverRaven/Cataclysm-DDA/pull/75278))
 * Fixed map generate bug ([#75270](https://github.com/CleverRaven/Cataclysm-DDA/pull/75270))
-* [magiclysm] add message to feral wizards spell ([#75246](https://github.com/CleverRaven/Cataclysm-DDA/pull/75246))
-* Mesoamerican weaponry update ([#75248](https://github.com/CleverRaven/Cataclysm-DDA/pull/75248))
 * Remove bloated comments from translation files, part 2 ([#75253](https://github.com/CleverRaven/Cataclysm-DDA/pull/75253))
 * Treat bleeding from pets ([#75274](https://github.com/CleverRaven/Cataclysm-DDA/pull/75274))
 * Coyote audit ([#75259](https://github.com/CleverRaven/Cataclysm-DDA/pull/75259))
@@ -233,4 +234,3 @@
 * Withdrawals are distracting ([#75261](https://github.com/CleverRaven/Cataclysm-DDA/pull/75261))
 * [0.H backport] port hallucinations ([#75250](https://github.com/CleverRaven/Cataclysm-DDA/pull/75250))
 * [0.H backport] Added Russian "ё" to remove_accent function ([#75251](https://github.com/CleverRaven/Cataclysm-DDA/pull/75251))
-* [Xedra Evolved] Add the To Bless the Sacred Weapon charm ([#75249](https://github.com/CleverRaven/Cataclysm-DDA/pull/75249))
