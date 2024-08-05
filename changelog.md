@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-05-0511 ([6ee8e16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-0511))
+
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
 * Sand and gravel pit ([#75381](https://github.com/CleverRaven/Cataclysm-DDA/pull/75381))
 * let hospitalized humans revive as zed crawlers ([#75412](https://github.com/CleverRaven/Cataclysm-DDA/pull/75412))
