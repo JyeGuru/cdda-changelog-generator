@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-05-1158 ([35e37f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-1158))
+
+* Enabled towing over ramps ([#75346](https://github.com/CleverRaven/Cataclysm-DDA/pull/75346))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-05-0511 ([6ee8e16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-0511))
 
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
@@ -216,11 +222,6 @@
 #### Cataclysm-DDA experimental build 2024-07-29-1447 ([6e69fb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-1447))
 
 * Provide insertion failure reasons from only eligible pockets ([#75304](https://github.com/CleverRaven/Cataclysm-DDA/pull/75304))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-29-0544 ([14f5841](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-0544))
-
 * [MoM] Update Brilliant Flash to use standard blind effect ([#75296](https://github.com/CleverRaven/Cataclysm-DDA/pull/75296))
 * Pruning the old ``to-hit`` syntax - Part 1 ([#75267](https://github.com/CleverRaven/Cataclysm-DDA/pull/75267))
 * Correct Petri dish description ([#75290](https://github.com/CleverRaven/Cataclysm-DDA/pull/75290))
@@ -233,7 +234,6 @@
 * Coyote audit ([#75259](https://github.com/CleverRaven/Cataclysm-DDA/pull/75259))
 * Add petri dishes ([#75276](https://github.com/CleverRaven/Cataclysm-DDA/pull/75276))
 * Expand the labeler functionality for the ``Food & Vitamins`` label ([#75269](https://github.com/CleverRaven/Cataclysm-DDA/pull/75269))
-* Pluralize and unify offal naming ([#75252](https://github.com/CleverRaven/Cataclysm-DDA/pull/75252))
 * [TropiCata] Prune some zombies from the blacklist ([#75257](https://github.com/CleverRaven/Cataclysm-DDA/pull/75257))
 * Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
 * Withdrawals are distracting ([#75261](https://github.com/CleverRaven/Cataclysm-DDA/pull/75261))
