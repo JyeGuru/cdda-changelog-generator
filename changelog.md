@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-05-1452 ([dadaa89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-1452))
+
 * Description fix for Bren 5.56x45mm carbine ([#75435](https://github.com/CleverRaven/Cataclysm-DDA/pull/75435))
 
 ---
@@ -217,11 +222,6 @@
 #### Cataclysm-DDA experimental build 2024-07-29-1847 ([7382ea8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-1847))
 
 * Prevent segfault when unloading from spillable container ([#75299](https://github.com/CleverRaven/Cataclysm-DDA/pull/75299))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-29-1447 ([6e69fb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-29-1447))
-
 * Provide insertion failure reasons from only eligible pockets ([#75304](https://github.com/CleverRaven/Cataclysm-DDA/pull/75304))
 * [MoM] Update Brilliant Flash to use standard blind effect ([#75296](https://github.com/CleverRaven/Cataclysm-DDA/pull/75296))
 * Pruning the old ``to-hit`` syntax - Part 1 ([#75267](https://github.com/CleverRaven/Cataclysm-DDA/pull/75267))
