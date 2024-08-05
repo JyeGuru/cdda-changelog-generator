@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-05-0243 (9f15085)
 * Add comments describing use of vision levels (#75429)
 * Prevent phantom "cramped space" on empty tiles (#75445)
 * more sophisticated logic and details in the sunset/sunrise morale (#75404)
@@ -131,8 +133,6 @@ Cataclysm-DDA experimental build 2024-07-29-0544 (14f5841)
 * Pruning the old ``to-hit`` syntax - Part 1 (#75267)
 * Correct Petri dish description (#75290)
 * Updated milling documentation (#75294)
-
-Cataclysm-DDA experimental build 2024-07-28-2319 (a334d3d)
 * Load container only when location is of that kind (#75289)
 * Stop iteminfo test from failing w/ mod damage types (#75278)
 * Fixed map generate bug (#75270)
