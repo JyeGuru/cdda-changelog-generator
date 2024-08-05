@@ -1,3 +1,7 @@
+* Add comments describing use of vision levels ([#75429](https://github.com/CleverRaven/Cataclysm-DDA/pull/75429))
+* Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
+* more sophisticated logic and details in the sunset/sunrise morale ([#75404](https://github.com/CleverRaven/Cataclysm-DDA/pull/75404))
+* allow map_cursor to be made from abs pos ([#75449](https://github.com/CleverRaven/Cataclysm-DDA/pull/75449))
 * [ Xedra Evolved ] Cryptid video snippets ([#75287](https://github.com/CleverRaven/Cataclysm-DDA/pull/75287))
 
 ---
@@ -214,7 +218,6 @@
 #### Cataclysm-DDA experimental build 2024-07-28-2319 ([a334d3d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-28-2319))
 
 * Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
-* Obsolete Dire Wolves ([#75241](https://github.com/CleverRaven/Cataclysm-DDA/pull/75241))
 * Stop iteminfo test from failing w/ mod damage types ([#75278](https://github.com/CleverRaven/Cataclysm-DDA/pull/75278))
 * Fixed map generate bug ([#75270](https://github.com/CleverRaven/Cataclysm-DDA/pull/75270))
 * [magiclysm] add message to feral wizards spell ([#75246](https://github.com/CleverRaven/Cataclysm-DDA/pull/75246))
@@ -227,10 +230,7 @@
 * Pluralize and unify offal naming ([#75252](https://github.com/CleverRaven/Cataclysm-DDA/pull/75252))
 * [TropiCata] Prune some zombies from the blacklist ([#75257](https://github.com/CleverRaven/Cataclysm-DDA/pull/75257))
 * Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
-* [MoM] Perfected Motion lets you run on water ([#75242](https://github.com/CleverRaven/Cataclysm-DDA/pull/75242))
 * Withdrawals are distracting ([#75261](https://github.com/CleverRaven/Cataclysm-DDA/pull/75261))
 * [0.H backport] port hallucinations ([#75250](https://github.com/CleverRaven/Cataclysm-DDA/pull/75250))
 * [0.H backport] Added Russian "ё" to remove_accent function ([#75251](https://github.com/CleverRaven/Cataclysm-DDA/pull/75251))
 * [Xedra Evolved] Add the To Bless the Sacred Weapon charm ([#75249](https://github.com/CleverRaven/Cataclysm-DDA/pull/75249))
-* [Magiclysm] Add WATERWALKING and ITEM_WATERPROOFING to Body of Spirit spell ([#75238](https://github.com/CleverRaven/Cataclysm-DDA/pull/75238))
-* [Magiclysm] Make the Artificer and Storm Elemental attunements innately immune to EMPs ([#75239](https://github.com/CleverRaven/Cataclysm-DDA/pull/75239))
