@@ -1,3 +1,4 @@
+* replace magiclysm enchanted base items with tempered version ([#75483](https://github.com/CleverRaven/Cataclysm-DDA/pull/75483))
 
 ---
 
@@ -65,7 +66,6 @@
 * Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
 * more sophisticated logic and details in the sunset/sunrise morale ([#75404](https://github.com/CleverRaven/Cataclysm-DDA/pull/75404))
 * allow map_cursor to be made from abs pos ([#75449](https://github.com/CleverRaven/Cataclysm-DDA/pull/75449))
-* [ Xedra Evolved ] Cryptid video snippets ([#75287](https://github.com/CleverRaven/Cataclysm-DDA/pull/75287))
 
 ---
 
