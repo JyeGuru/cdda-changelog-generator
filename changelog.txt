@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-06-0149 (3f860f1)
+* [MoM] Move Trick of the Light to concentration (#75469)
+
 Cataclysm-DDA experimental build 2024-08-05-2150 (5bec8cc)
 * Cramped space doesn't prevent sleep (#75470)
 
@@ -145,7 +148,6 @@ Cataclysm-DDA experimental build 2024-07-30-0433 (8062226)
 * Stop iteminfo test from failing w/ mod damage types (#75278)
 * Fixed map generate bug (#75270)
 * Treat bleeding from pets (#75274)
-* Coyote audit (#75259)
 * Add petri dishes (#75276)
 * Expand the labeler functionality for the ``Food & Vitamins`` label (#75269)
 * Routine i18n updates on 27 July 2024 (#75264)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-06-0149 ([3f860f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-0149))
+
+* [MoM] Move Trick of the Light to concentration ([#75469](https://github.com/CleverRaven/Cataclysm-DDA/pull/75469))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-05-2150 ([5bec8cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-2150))
 
 * Cramped space doesn't prevent sleep ([#75470](https://github.com/CleverRaven/Cataclysm-DDA/pull/75470))
@@ -232,7 +238,6 @@
 * Stop iteminfo test from failing w/ mod damage types ([#75278](https://github.com/CleverRaven/Cataclysm-DDA/pull/75278))
 * Fixed map generate bug ([#75270](https://github.com/CleverRaven/Cataclysm-DDA/pull/75270))
 * Treat bleeding from pets ([#75274](https://github.com/CleverRaven/Cataclysm-DDA/pull/75274))
-* Coyote audit ([#75259](https://github.com/CleverRaven/Cataclysm-DDA/pull/75259))
 * Add petri dishes ([#75276](https://github.com/CleverRaven/Cataclysm-DDA/pull/75276))
 * Expand the labeler functionality for the ``Food & Vitamins`` label ([#75269](https://github.com/CleverRaven/Cataclysm-DDA/pull/75269))
 * Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
