@@ -1,3 +1,14 @@
+* Neutral NPCs can now be pushed ([#75390](https://github.com/CleverRaven/Cataclysm-DDA/pull/75390))
+* Fixes Clear Outsert Lens Compatibility with Gas Masks ([#75394](https://github.com/CleverRaven/Cataclysm-DDA/pull/75394))
+* Handheld game system disassembly changes + Updates to disassembly documentation ([#75395](https://github.com/CleverRaven/Cataclysm-DDA/pull/75395))
+* Adds Heritage Rough Rider revolver ([#75407](https://github.com/CleverRaven/Cataclysm-DDA/pull/75407))
+* Add `reveal_map` and `reveal_route` EoC effects ([#75417](https://github.com/CleverRaven/Cataclysm-DDA/pull/75417))
+* [MoM] Make Oxygen Absorption effect visible  ([#75450](https://github.com/CleverRaven/Cataclysm-DDA/pull/75450))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-06-0516 ([3610977](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-0516))
+
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time ([#75474](https://github.com/CleverRaven/Cataclysm-DDA/pull/75474))
 
 ---
@@ -218,13 +229,7 @@
 #### Cataclysm-DDA experimental build 2024-07-30-1629 ([0b942b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-30-1629))
 
 * Prevent segfault when target of firstaid_activity_actor disappears ([#75310](https://github.com/CleverRaven/Cataclysm-DDA/pull/75310))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-30-0433 ([8062226](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-30-0433))
-
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
-* Appease clang ([#75271](https://github.com/CleverRaven/Cataclysm-DDA/pull/75271))
 * make ammo effect able to run EoC ([#75291](https://github.com/CleverRaven/Cataclysm-DDA/pull/75291))
 * add THROW_DAMAGE enchantment ([#75300](https://github.com/CleverRaven/Cataclysm-DDA/pull/75300))
 * fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
@@ -232,13 +237,8 @@
 * Prevent segfault when unloading from spillable container ([#75299](https://github.com/CleverRaven/Cataclysm-DDA/pull/75299))
 * Provide insertion failure reasons from only eligible pockets ([#75304](https://github.com/CleverRaven/Cataclysm-DDA/pull/75304))
 * [MoM] Update Brilliant Flash to use standard blind effect ([#75296](https://github.com/CleverRaven/Cataclysm-DDA/pull/75296))
-* Pruning the old ``to-hit`` syntax - Part 1 ([#75267](https://github.com/CleverRaven/Cataclysm-DDA/pull/75267))
 * Correct Petri dish description ([#75290](https://github.com/CleverRaven/Cataclysm-DDA/pull/75290))
 * Updated milling documentation ([#75294](https://github.com/CleverRaven/Cataclysm-DDA/pull/75294))
 * Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
 * Stop iteminfo test from failing w/ mod damage types ([#75278](https://github.com/CleverRaven/Cataclysm-DDA/pull/75278))
-* Fixed map generate bug ([#75270](https://github.com/CleverRaven/Cataclysm-DDA/pull/75270))
-* Treat bleeding from pets ([#75274](https://github.com/CleverRaven/Cataclysm-DDA/pull/75274))
 * Add petri dishes ([#75276](https://github.com/CleverRaven/Cataclysm-DDA/pull/75276))
-* Expand the labeler functionality for the ``Food & Vitamins`` label ([#75269](https://github.com/CleverRaven/Cataclysm-DDA/pull/75269))
-* Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
