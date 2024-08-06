@@ -1,3 +1,4 @@
+* [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time ([#75474](https://github.com/CleverRaven/Cataclysm-DDA/pull/75474))
 
 ---
 
@@ -241,4 +242,3 @@
 * Add petri dishes ([#75276](https://github.com/CleverRaven/Cataclysm-DDA/pull/75276))
 * Expand the labeler functionality for the ``Food & Vitamins`` label ([#75269](https://github.com/CleverRaven/Cataclysm-DDA/pull/75269))
 * Routine i18n updates on 27 July 2024 ([#75264](https://github.com/CleverRaven/Cataclysm-DDA/pull/75264))
-* Withdrawals are distracting ([#75261](https://github.com/CleverRaven/Cataclysm-DDA/pull/75261))

@@ -1,3 +1,4 @@
+* [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time (#75474)
 
 Cataclysm-DDA experimental build 2024-08-06-0149 (3f860f1)
 * [MoM] Move Trick of the Light to concentration (#75469)
@@ -151,4 +152,3 @@ Cataclysm-DDA experimental build 2024-07-30-0433 (8062226)
 * Add petri dishes (#75276)
 * Expand the labeler functionality for the ``Food & Vitamins`` label (#75269)
 * Routine i18n updates on 27 July 2024 (#75264)
-* Withdrawals are distracting (#75261)
