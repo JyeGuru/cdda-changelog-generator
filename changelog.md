@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-06-0750 ([fd4d1a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-0750))
+
 * Use an enum to specify overmap tile see cost instead of a number ([#75432](https://github.com/CleverRaven/Cataclysm-DDA/pull/75432))
 * [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action ([#75437](https://github.com/CleverRaven/Cataclysm-DDA/pull/75437))
 * Energy density for batteries ([#75361](https://github.com/CleverRaven/Cataclysm-DDA/pull/75361))
@@ -220,11 +225,6 @@
 #### Cataclysm-DDA experimental build 2024-07-31-0059 ([3b533cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-31-0059))
 
 * [MoM] Change Hardened Skin to concentration ([#75316](https://github.com/CleverRaven/Cataclysm-DDA/pull/75316))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-30-1629 ([0b942b3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-30-1629))
-
 * Prevent segfault when target of firstaid_activity_actor disappears ([#75310](https://github.com/CleverRaven/Cataclysm-DDA/pull/75310))
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
 * make ammo effect able to run EoC ([#75291](https://github.com/CleverRaven/Cataclysm-DDA/pull/75291))
