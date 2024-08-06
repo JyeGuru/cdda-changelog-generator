@@ -1,3 +1,6 @@
+* Use an enum to specify overmap tile see cost instead of a number ([#75432](https://github.com/CleverRaven/Cataclysm-DDA/pull/75432))
+* [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action ([#75437](https://github.com/CleverRaven/Cataclysm-DDA/pull/75437))
+* Energy density for batteries ([#75361](https://github.com/CleverRaven/Cataclysm-DDA/pull/75361))
 * Neutral NPCs can now be pushed ([#75390](https://github.com/CleverRaven/Cataclysm-DDA/pull/75390))
 * Fixes Clear Outsert Lens Compatibility with Gas Masks ([#75394](https://github.com/CleverRaven/Cataclysm-DDA/pull/75394))
 * Handheld game system disassembly changes + Updates to disassembly documentation ([#75395](https://github.com/CleverRaven/Cataclysm-DDA/pull/75395))
@@ -204,12 +207,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-07-31-2143 ([3ae095f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-31-2143))
-
-* Make EXOTIC HWP resemble a LMG ([#75281](https://github.com/CleverRaven/Cataclysm-DDA/pull/75281))
-
----
-
 #### Cataclysm-DDA experimental build 2024-07-31-0403 ([836a1ce](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-31-0403))
 
 * Use inhaler/oxygen bottle with least content left ([#75328](https://github.com/CleverRaven/Cataclysm-DDA/pull/75328))
@@ -240,5 +237,3 @@
 * Correct Petri dish description ([#75290](https://github.com/CleverRaven/Cataclysm-DDA/pull/75290))
 * Updated milling documentation ([#75294](https://github.com/CleverRaven/Cataclysm-DDA/pull/75294))
 * Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
-* Stop iteminfo test from failing w/ mod damage types ([#75278](https://github.com/CleverRaven/Cataclysm-DDA/pull/75278))
-* Add petri dishes ([#75276](https://github.com/CleverRaven/Cataclysm-DDA/pull/75276))
