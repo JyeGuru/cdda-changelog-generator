@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-06-2043 (0f92209)
+* [XE] Add Tier 5 vampire powers (#75373)
+
 Cataclysm-DDA experimental build 2024-08-06-0750 (fd4d1a9)
 * Use an enum to specify overmap tile see cost instead of a number (#75432)
 * [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action (#75437)
@@ -132,11 +135,8 @@ Cataclysm-DDA experimental build 2024-08-01-0043 (1fd261f)
 Cataclysm-DDA experimental build 2024-07-31-0403 (836a1ce)
 * Use inhaler/oxygen bottle with least content left (#75328)
 * Update the table of contents in doc/JSON_INFO.md (#75338)
-* ZenFS: Match encumberance colors (#75283)
 * Tweak yugg death effect (#75295)
 * [MoM] Change Blazing Aura to concentration (#75305)
-
-Cataclysm-DDA experimental build 2024-07-31-0059 (3b533cd)
 * [MoM] Change Hardened Skin to concentration (#75316)
 * Prevent segfault when target of firstaid_activity_actor disappears (#75310)
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration (#75313)

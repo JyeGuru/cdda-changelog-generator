@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-06-2043 ([0f92209](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-2043))
+
+* [XE] Add Tier 5 vampire powers ([#75373](https://github.com/CleverRaven/Cataclysm-DDA/pull/75373))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-06-0750 ([fd4d1a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-0750))
 
 * Use an enum to specify overmap tile see cost instead of a number ([#75432](https://github.com/CleverRaven/Cataclysm-DDA/pull/75432))
@@ -216,14 +222,8 @@
 
 * Use inhaler/oxygen bottle with least content left ([#75328](https://github.com/CleverRaven/Cataclysm-DDA/pull/75328))
 * Update the table of contents in doc/JSON_INFO.md ([#75338](https://github.com/CleverRaven/Cataclysm-DDA/pull/75338))
-* ZenFS: Match encumberance colors ([#75283](https://github.com/CleverRaven/Cataclysm-DDA/pull/75283))
 * Tweak yugg death effect ([#75295](https://github.com/CleverRaven/Cataclysm-DDA/pull/75295))
 * [MoM] Change Blazing Aura to concentration ([#75305](https://github.com/CleverRaven/Cataclysm-DDA/pull/75305))
-
----
-
-#### Cataclysm-DDA experimental build 2024-07-31-0059 ([3b533cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-07-31-0059))
-
 * [MoM] Change Hardened Skin to concentration ([#75316](https://github.com/CleverRaven/Cataclysm-DDA/pull/75316))
 * Prevent segfault when target of firstaid_activity_actor disappears ([#75310](https://github.com/CleverRaven/Cataclysm-DDA/pull/75310))
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
