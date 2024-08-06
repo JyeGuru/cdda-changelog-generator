@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-06-2324 (822c4ee)
 * replace magiclysm enchanted base items with tempered version (#75483)
 
 Cataclysm-DDA experimental build 2024-08-06-2043 (0f92209)
@@ -131,8 +133,6 @@ Cataclysm-DDA experimental build 2024-08-01-0347 (348ab84)
 
 Cataclysm-DDA experimental build 2024-08-01-0043 (1fd261f)
 * Weekly Changelog 2024-07-22 to 2024-07-29 (#75307)
-
-Cataclysm-DDA experimental build 2024-07-31-0403 (836a1ce)
 * Use inhaler/oxygen bottle with least content left (#75328)
 * Update the table of contents in doc/JSON_INFO.md (#75338)
 * Tweak yugg death effect (#75295)
