@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-07-0555 (293f801)
+* Rename Psychopath trait in a few places (#75481)
+
 Cataclysm-DDA experimental build 2024-08-06-2324 (822c4ee)
 * replace magiclysm enchanted base items with tempered version (#75483)
 
@@ -149,4 +152,3 @@ Cataclysm-DDA experimental build 2024-08-01-0043 (1fd261f)
 * [MoM] Update Brilliant Flash to use standard blind effect (#75296)
 * Correct Petri dish description (#75290)
 * Updated milling documentation (#75294)
-* Load container only when location is of that kind (#75289)

@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-07-0555 ([293f801](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-07-0555))
+
+* Rename Psychopath trait in a few places ([#75481](https://github.com/CleverRaven/Cataclysm-DDA/pull/75481))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-06-2324 ([822c4ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-2324))
 
 * replace magiclysm enchanted base items with tempered version ([#75483](https://github.com/CleverRaven/Cataclysm-DDA/pull/75483))
@@ -236,4 +242,3 @@
 * [MoM] Update Brilliant Flash to use standard blind effect ([#75296](https://github.com/CleverRaven/Cataclysm-DDA/pull/75296))
 * Correct Petri dish description ([#75290](https://github.com/CleverRaven/Cataclysm-DDA/pull/75290))
 * Updated milling documentation ([#75294](https://github.com/CleverRaven/Cataclysm-DDA/pull/75294))
-* Load container only when location is of that kind ([#75289](https://github.com/CleverRaven/Cataclysm-DDA/pull/75289))
