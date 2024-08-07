@@ -1,3 +1,10 @@
+* make magiclysm/xedra evolved modded weapons useable by practice recipes ([#75491](https://github.com/CleverRaven/Cataclysm-DDA/pull/75491))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-07-2347 ([162e722](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-07-2347))
+
+* [MoM] Make Veil of Light concentration ([#75503](https://github.com/CleverRaven/Cataclysm-DDA/pull/75503))
 
 ---
 
@@ -220,11 +227,6 @@
 #### Cataclysm-DDA experimental build 2024-08-01-0347 ([348ab84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-0347))
 
 * Improved error message ([#75350](https://github.com/CleverRaven/Cataclysm-DDA/pull/75350))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-01-0043 ([1fd261f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-0043))
-
 * Weekly Changelog 2024-07-22 to 2024-07-29 ([#75307](https://github.com/CleverRaven/Cataclysm-DDA/pull/75307))
 * Use inhaler/oxygen bottle with least content left ([#75328](https://github.com/CleverRaven/Cataclysm-DDA/pull/75328))
 * Update the table of contents in doc/JSON_INFO.md ([#75338](https://github.com/CleverRaven/Cataclysm-DDA/pull/75338))
@@ -233,12 +235,10 @@
 * [MoM] Change Hardened Skin to concentration ([#75316](https://github.com/CleverRaven/Cataclysm-DDA/pull/75316))
 * Prevent segfault when target of firstaid_activity_actor disappears ([#75310](https://github.com/CleverRaven/Cataclysm-DDA/pull/75310))
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
-* make ammo effect able to run EoC ([#75291](https://github.com/CleverRaven/Cataclysm-DDA/pull/75291))
 * add THROW_DAMAGE enchantment ([#75300](https://github.com/CleverRaven/Cataclysm-DDA/pull/75300))
 * fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
 * Safer NPC Ranged Weapon Use ([#75297](https://github.com/CleverRaven/Cataclysm-DDA/pull/75297))
 * Prevent segfault when unloading from spillable container ([#75299](https://github.com/CleverRaven/Cataclysm-DDA/pull/75299))
 * Provide insertion failure reasons from only eligible pockets ([#75304](https://github.com/CleverRaven/Cataclysm-DDA/pull/75304))
 * [MoM] Update Brilliant Flash to use standard blind effect ([#75296](https://github.com/CleverRaven/Cataclysm-DDA/pull/75296))
-* Correct Petri dish description ([#75290](https://github.com/CleverRaven/Cataclysm-DDA/pull/75290))
 * Updated milling documentation ([#75294](https://github.com/CleverRaven/Cataclysm-DDA/pull/75294))
