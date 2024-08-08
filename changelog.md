@@ -216,7 +216,6 @@
 
 * [MoM] Update building vision levels ([#75306](https://github.com/CleverRaven/Cataclysm-DDA/pull/75306))
 * Add faster staling for issues with the Suggestion/ Discussion label. ([#75303](https://github.com/CleverRaven/Cataclysm-DDA/pull/75303))
-* replace modular m4 carabin item with respective itemgroup ([#75298](https://github.com/CleverRaven/Cataclysm-DDA/pull/75298))
 * Add a bunch of new perks to Bombastic Perks ([#75335](https://github.com/CleverRaven/Cataclysm-DDA/pull/75335))
 * Broth audit ([#75351](https://github.com/CleverRaven/Cataclysm-DDA/pull/75351))
 * fix hwp maintenance kit item_restriction ([#75323](https://github.com/CleverRaven/Cataclysm-DDA/pull/75323))
