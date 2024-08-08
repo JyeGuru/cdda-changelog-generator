@@ -1,3 +1,13 @@
+* Yet more item disassembly adjustments ([#75486](https://github.com/CleverRaven/Cataclysm-DDA/pull/75486))
+* Pruning the old ``to-hit`` syntax - Part 2 ([#75311](https://github.com/CleverRaven/Cataclysm-DDA/pull/75311))
+* Some item category changes + Vegan gummy candy renaming ([#75455](https://github.com/CleverRaven/Cataclysm-DDA/pull/75455))
+* add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-08-2319 ([c8fcd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-08-2319))
+
+* A bit more shotguns ([#75378](https://github.com/CleverRaven/Cataclysm-DDA/pull/75378))
 
 ---
 
@@ -214,13 +224,7 @@
 #### Cataclysm-DDA experimental build 2024-08-01-2006 ([c8cda47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-2006))
 
 * Routine tileset updates on 01 August 2024 ([#75359](https://github.com/CleverRaven/Cataclysm-DDA/pull/75359))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-01-0705 ([12eebf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-0705))
-
 * [MoM] Update building vision levels ([#75306](https://github.com/CleverRaven/Cataclysm-DDA/pull/75306))
-* Add faster staling for issues with the Suggestion/ Discussion label. ([#75303](https://github.com/CleverRaven/Cataclysm-DDA/pull/75303))
 * Add a bunch of new perks to Bombastic Perks ([#75335](https://github.com/CleverRaven/Cataclysm-DDA/pull/75335))
 * Broth audit ([#75351](https://github.com/CleverRaven/Cataclysm-DDA/pull/75351))
 * fix hwp maintenance kit item_restriction ([#75323](https://github.com/CleverRaven/Cataclysm-DDA/pull/75323))
@@ -233,11 +237,7 @@
 * Weekly Changelog 2024-07-22 to 2024-07-29 ([#75307](https://github.com/CleverRaven/Cataclysm-DDA/pull/75307))
 * Use inhaler/oxygen bottle with least content left ([#75328](https://github.com/CleverRaven/Cataclysm-DDA/pull/75328))
 * Update the table of contents in doc/JSON_INFO.md ([#75338](https://github.com/CleverRaven/Cataclysm-DDA/pull/75338))
-* [MoM] Change Blazing Aura to concentration ([#75305](https://github.com/CleverRaven/Cataclysm-DDA/pull/75305))
 * [MoM] Change Hardened Skin to concentration ([#75316](https://github.com/CleverRaven/Cataclysm-DDA/pull/75316))
 * Prevent segfault when target of firstaid_activity_actor disappears ([#75310](https://github.com/CleverRaven/Cataclysm-DDA/pull/75310))
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
-* add THROW_DAMAGE enchantment ([#75300](https://github.com/CleverRaven/Cataclysm-DDA/pull/75300))
 * fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
-* Prevent segfault when unloading from spillable container ([#75299](https://github.com/CleverRaven/Cataclysm-DDA/pull/75299))
-* Provide insertion failure reasons from only eligible pockets ([#75304](https://github.com/CleverRaven/Cataclysm-DDA/pull/75304))
