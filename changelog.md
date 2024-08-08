@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-08-1605 ([a4755e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-08-1605))
+
+* Fix typo in Megafauna's Zebras ([#75508](https://github.com/CleverRaven/Cataclysm-DDA/pull/75508))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-08-0228 ([a901bcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-08-0228))
 
 * Make electrons not drop from the batteries ([#75506](https://github.com/CleverRaven/Cataclysm-DDA/pull/75506))
@@ -213,11 +219,6 @@
 * Add a bunch of new perks to Bombastic Perks ([#75335](https://github.com/CleverRaven/Cataclysm-DDA/pull/75335))
 * Broth audit ([#75351](https://github.com/CleverRaven/Cataclysm-DDA/pull/75351))
 * fix hwp maintenance kit item_restriction ([#75323](https://github.com/CleverRaven/Cataclysm-DDA/pull/75323))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-08-01-0852 ([c06f12d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-01-0852))
-
 * [backport] fix hwp maintenance kit item_restriction ([#75324](https://github.com/CleverRaven/Cataclysm-DDA/pull/75324))
 * [Bombastic Perks] Fix Pantherish Grace menu display ([#75333](https://github.com/CleverRaven/Cataclysm-DDA/pull/75333))
 * Restore functionality of make etags ([#75339](https://github.com/CleverRaven/Cataclysm-DDA/pull/75339))
@@ -241,4 +242,3 @@
 * Safer NPC Ranged Weapon Use ([#75297](https://github.com/CleverRaven/Cataclysm-DDA/pull/75297))
 * Prevent segfault when unloading from spillable container ([#75299](https://github.com/CleverRaven/Cataclysm-DDA/pull/75299))
 * Provide insertion failure reasons from only eligible pockets ([#75304](https://github.com/CleverRaven/Cataclysm-DDA/pull/75304))
-* [MoM] Update Brilliant Flash to use standard blind effect ([#75296](https://github.com/CleverRaven/Cataclysm-DDA/pull/75296))
