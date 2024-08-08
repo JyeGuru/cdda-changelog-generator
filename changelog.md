@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-08-0228 ([a901bcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-08-0228))
+
 * Make electrons not drop from the batteries ([#75506](https://github.com/CleverRaven/Cataclysm-DDA/pull/75506))
 * Remove Superglue Recipe ([#75492](https://github.com/CleverRaven/Cataclysm-DDA/pull/75492))
 * make magiclysm/xedra evolved modded weapons useable by practice recipes ([#75491](https://github.com/CleverRaven/Cataclysm-DDA/pull/75491))
@@ -216,11 +221,6 @@
 * [backport] fix hwp maintenance kit item_restriction ([#75324](https://github.com/CleverRaven/Cataclysm-DDA/pull/75324))
 * [Bombastic Perks] Fix Pantherish Grace menu display ([#75333](https://github.com/CleverRaven/Cataclysm-DDA/pull/75333))
 * Restore functionality of make etags ([#75339](https://github.com/CleverRaven/Cataclysm-DDA/pull/75339))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-08-01-0545 ([f755902](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-01-0545))
-
 * Fix faction succession condition of broken bone in 0.H ([#75345](https://github.com/CleverRaven/Cataclysm-DDA/pull/75345))
 * fix yugg death without killer causes error ([#75352](https://github.com/CleverRaven/Cataclysm-DDA/pull/75352))
 
