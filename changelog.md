@@ -1,3 +1,4 @@
+* Remove unnecessary damage types ([#75464](https://github.com/CleverRaven/Cataclysm-DDA/pull/75464))
 
 ---
 
@@ -239,6 +240,5 @@
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
 * add THROW_DAMAGE enchantment ([#75300](https://github.com/CleverRaven/Cataclysm-DDA/pull/75300))
 * fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
-* Safer NPC Ranged Weapon Use ([#75297](https://github.com/CleverRaven/Cataclysm-DDA/pull/75297))
 * Prevent segfault when unloading from spillable container ([#75299](https://github.com/CleverRaven/Cataclysm-DDA/pull/75299))
 * Provide insertion failure reasons from only eligible pockets ([#75304](https://github.com/CleverRaven/Cataclysm-DDA/pull/75304))

@@ -1,3 +1,4 @@
+* Remove unnecessary damage types (#75464)
 
 Cataclysm-DDA experimental build 2024-08-08-1605 (a4755e0)
 * Fix typo in Megafauna's Zebras (#75508)
@@ -149,6 +150,5 @@ Cataclysm-DDA experimental build 2024-08-01-0347 (348ab84)
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration (#75313)
 * add THROW_DAMAGE enchantment (#75300)
 * fix missing color in nursing_home_8 (#75312)
-* Safer NPC Ranged Weapon Use (#75297)
 * Prevent segfault when unloading from spillable container (#75299)
 * Provide insertion failure reasons from only eligible pockets (#75304)
