@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-08-1855 ([643bab3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-08-1855))
+
 * Remove unnecessary damage types ([#75464](https://github.com/CleverRaven/Cataclysm-DDA/pull/75464))
 
 ---
@@ -224,11 +229,6 @@
 * Restore functionality of make etags ([#75339](https://github.com/CleverRaven/Cataclysm-DDA/pull/75339))
 * Fix faction succession condition of broken bone in 0.H ([#75345](https://github.com/CleverRaven/Cataclysm-DDA/pull/75345))
 * fix yugg death without killer causes error ([#75352](https://github.com/CleverRaven/Cataclysm-DDA/pull/75352))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-01-0347 ([348ab84](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-0347))
-
 * Improved error message ([#75350](https://github.com/CleverRaven/Cataclysm-DDA/pull/75350))
 * Weekly Changelog 2024-07-22 to 2024-07-29 ([#75307](https://github.com/CleverRaven/Cataclysm-DDA/pull/75307))
 * Use inhaler/oxygen bottle with least content left ([#75328](https://github.com/CleverRaven/Cataclysm-DDA/pull/75328))

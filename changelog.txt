@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-08-1855 (643bab3)
 * Remove unnecessary damage types (#75464)
 
 Cataclysm-DDA experimental build 2024-08-08-1605 (a4755e0)
@@ -137,8 +139,6 @@ Cataclysm-DDA experimental build 2024-08-01-0705 (12eebf6)
 * Restore functionality of make etags (#75339)
 * Fix faction succession condition of broken bone in 0.H (#75345)
 * fix yugg death without killer causes error (#75352)
-
-Cataclysm-DDA experimental build 2024-08-01-0347 (348ab84)
 * Improved error message (#75350)
 * Weekly Changelog 2024-07-22 to 2024-07-29 (#75307)
 * Use inhaler/oxygen bottle with least content left (#75328)
