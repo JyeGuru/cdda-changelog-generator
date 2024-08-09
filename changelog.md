@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-09-0203 ([61e0526](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-09-0203))
+
 * Yet more item disassembly adjustments ([#75486](https://github.com/CleverRaven/Cataclysm-DDA/pull/75486))
 * Pruning the old ``to-hit`` syntax - Part 2 ([#75311](https://github.com/CleverRaven/Cataclysm-DDA/pull/75311))
 * Some item category changes + Vegan gummy candy renaming ([#75455](https://github.com/CleverRaven/Cataclysm-DDA/pull/75455))
@@ -218,11 +223,6 @@
 #### Cataclysm-DDA experimental build 2024-08-01-2310 ([09410b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-2310))
 
 * Ruin propane supply ([#75356](https://github.com/CleverRaven/Cataclysm-DDA/pull/75356))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-01-2006 ([c8cda47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-2006))
-
 * Routine tileset updates on 01 August 2024 ([#75359](https://github.com/CleverRaven/Cataclysm-DDA/pull/75359))
 * [MoM] Update building vision levels ([#75306](https://github.com/CleverRaven/Cataclysm-DDA/pull/75306))
 * Add a bunch of new perks to Bombastic Perks ([#75335](https://github.com/CleverRaven/Cataclysm-DDA/pull/75335))
