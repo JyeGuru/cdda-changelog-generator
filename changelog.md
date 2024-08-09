@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-09-1521 ([9b2ac1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-09-1521))
+
+* Plain color t-shirts ([#75526](https://github.com/CleverRaven/Cataclysm-DDA/pull/75526))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-09-0203 ([61e0526](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-09-0203))
 
 * Yet more item disassembly adjustments ([#75486](https://github.com/CleverRaven/Cataclysm-DDA/pull/75486))
@@ -217,14 +223,8 @@
 
 * Removes Mortar Recipe's cement recipe book requirement ([#75348](https://github.com/CleverRaven/Cataclysm-DDA/pull/75348))
 * purge not used hardcoded mattacks ([#75347](https://github.com/CleverRaven/Cataclysm-DDA/pull/75347))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-01-2310 ([09410b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-01-2310))
-
 * Ruin propane supply ([#75356](https://github.com/CleverRaven/Cataclysm-DDA/pull/75356))
 * Routine tileset updates on 01 August 2024 ([#75359](https://github.com/CleverRaven/Cataclysm-DDA/pull/75359))
-* [MoM] Update building vision levels ([#75306](https://github.com/CleverRaven/Cataclysm-DDA/pull/75306))
 * Add a bunch of new perks to Bombastic Perks ([#75335](https://github.com/CleverRaven/Cataclysm-DDA/pull/75335))
 * Broth audit ([#75351](https://github.com/CleverRaven/Cataclysm-DDA/pull/75351))
 * fix hwp maintenance kit item_restriction ([#75323](https://github.com/CleverRaven/Cataclysm-DDA/pull/75323))
