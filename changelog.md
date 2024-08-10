@@ -238,6 +238,5 @@
 * Use inhaler/oxygen bottle with least content left ([#75328](https://github.com/CleverRaven/Cataclysm-DDA/pull/75328))
 * Update the table of contents in doc/JSON_INFO.md ([#75338](https://github.com/CleverRaven/Cataclysm-DDA/pull/75338))
 * [MoM] Change Hardened Skin to concentration ([#75316](https://github.com/CleverRaven/Cataclysm-DDA/pull/75316))
-* Prevent segfault when target of firstaid_activity_actor disappears ([#75310](https://github.com/CleverRaven/Cataclysm-DDA/pull/75310))
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
 * fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
