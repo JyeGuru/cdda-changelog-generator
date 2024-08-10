@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-10-1416 ([c50cb75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-10-1416))
+
+* max amount of hp can't be less than 1 ([#75537](https://github.com/CleverRaven/Cataclysm-DDA/pull/75537))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-09-1521 ([9b2ac1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-09-1521))
 
 * Plain color t-shirts ([#75526](https://github.com/CleverRaven/Cataclysm-DDA/pull/75526))
@@ -216,11 +222,6 @@
 #### Cataclysm-DDA experimental build 2024-08-02-0528 ([0ca32b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-02-0528))
 
 * Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance ([#75376](https://github.com/CleverRaven/Cataclysm-DDA/pull/75376))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-02-0201 ([99386ed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-02-0201))
-
 * Removes Mortar Recipe's cement recipe book requirement ([#75348](https://github.com/CleverRaven/Cataclysm-DDA/pull/75348))
 * purge not used hardcoded mattacks ([#75347](https://github.com/CleverRaven/Cataclysm-DDA/pull/75347))
 * Ruin propane supply ([#75356](https://github.com/CleverRaven/Cataclysm-DDA/pull/75356))
@@ -234,7 +235,6 @@
 * Fix faction succession condition of broken bone in 0.H ([#75345](https://github.com/CleverRaven/Cataclysm-DDA/pull/75345))
 * fix yugg death without killer causes error ([#75352](https://github.com/CleverRaven/Cataclysm-DDA/pull/75352))
 * Improved error message ([#75350](https://github.com/CleverRaven/Cataclysm-DDA/pull/75350))
-* Weekly Changelog 2024-07-22 to 2024-07-29 ([#75307](https://github.com/CleverRaven/Cataclysm-DDA/pull/75307))
 * Use inhaler/oxygen bottle with least content left ([#75328](https://github.com/CleverRaven/Cataclysm-DDA/pull/75328))
 * Update the table of contents in doc/JSON_INFO.md ([#75338](https://github.com/CleverRaven/Cataclysm-DDA/pull/75338))
 * [MoM] Change Hardened Skin to concentration ([#75316](https://github.com/CleverRaven/Cataclysm-DDA/pull/75316))

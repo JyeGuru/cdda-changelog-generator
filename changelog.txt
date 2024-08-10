@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-10-1416 (c50cb75)
+* max amount of hp can't be less than 1 (#75537)
+
 Cataclysm-DDA experimental build 2024-08-09-1521 (9b2ac1a)
 * Plain color t-shirts (#75526)
 
@@ -129,8 +132,6 @@ Cataclysm-DDA experimental build 2024-08-02-1704 (4ceb3da)
 
 Cataclysm-DDA experimental build 2024-08-02-0528 (0ca32b8)
 * Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance (#75376)
-
-Cataclysm-DDA experimental build 2024-08-02-0201 (99386ed)
 * Removes Mortar Recipe's cement recipe book requirement (#75348)
 * purge not used hardcoded mattacks (#75347)
 * Ruin propane supply (#75356)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2024-08-02-0201 (99386ed)
 * Fix faction succession condition of broken bone in 0.H (#75345)
 * fix yugg death without killer causes error (#75352)
 * Improved error message (#75350)
-* Weekly Changelog 2024-07-22 to 2024-07-29 (#75307)
 * Use inhaler/oxygen bottle with least content left (#75328)
 * Update the table of contents in doc/JSON_INFO.md (#75338)
 * [MoM] Change Hardened Skin to concentration (#75316)
