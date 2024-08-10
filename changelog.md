@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-10-2317 ([e5033d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-10-2317))
+
 * Google Maps ([#75499](https://github.com/CleverRaven/Cataclysm-DDA/pull/75499))
 
 ---
@@ -216,11 +221,6 @@
 * Quick setup at start for debug worlds/characters ([#75388](https://github.com/CleverRaven/Cataclysm-DDA/pull/75388))
 * Made use action appliance deployment work properly ([#75397](https://github.com/CleverRaven/Cataclysm-DDA/pull/75397))
 * Powdered gelatin audit ([#75371](https://github.com/CleverRaven/Cataclysm-DDA/pull/75371))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-02-1704 ([4ceb3da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-02-1704))
-
 * Add FMS about mining ([#75396](https://github.com/CleverRaven/Cataclysm-DDA/pull/75396))
 * Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance ([#75376](https://github.com/CleverRaven/Cataclysm-DDA/pull/75376))
 * Removes Mortar Recipe's cement recipe book requirement ([#75348](https://github.com/CleverRaven/Cataclysm-DDA/pull/75348))

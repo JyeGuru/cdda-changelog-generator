@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-10-2317 (e5033d9)
 * Google Maps (#75499)
 
 Cataclysm-DDA experimental build 2024-08-10-2021 (e240f7c)
@@ -129,8 +131,6 @@ Cataclysm-DDA experimental build 2024-08-02-2006 (56ce45a)
 * Quick setup at start for debug worlds/characters (#75388)
 * Made use action appliance deployment work properly (#75397)
 * Powdered gelatin audit (#75371)
-
-Cataclysm-DDA experimental build 2024-08-02-1704 (4ceb3da)
 * Add FMS about mining (#75396)
 * Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance (#75376)
 * Removes Mortar Recipe's cement recipe book requirement (#75348)
