@@ -1,3 +1,10 @@
+* Google Maps ([#75499](https://github.com/CleverRaven/Cataclysm-DDA/pull/75499))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-10-2021 ([e240f7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-10-2021))
+
+* drystone walls support roofs ([#75531](https://github.com/CleverRaven/Cataclysm-DDA/pull/75531))
 
 ---
 
@@ -16,7 +23,6 @@
 #### Cataclysm-DDA experimental build 2024-08-09-0203 ([61e0526](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-09-0203))
 
 * Yet more item disassembly adjustments ([#75486](https://github.com/CleverRaven/Cataclysm-DDA/pull/75486))
-* Pruning the old ``to-hit`` syntax - Part 2 ([#75311](https://github.com/CleverRaven/Cataclysm-DDA/pull/75311))
 * Some item category changes + Vegan gummy candy renaming ([#75455](https://github.com/CleverRaven/Cataclysm-DDA/pull/75455))
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
 
@@ -216,11 +222,6 @@
 #### Cataclysm-DDA experimental build 2024-08-02-1704 ([4ceb3da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-02-1704))
 
 * Add FMS about mining ([#75396](https://github.com/CleverRaven/Cataclysm-DDA/pull/75396))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-02-0528 ([0ca32b8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-02-0528))
-
 * Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance ([#75376](https://github.com/CleverRaven/Cataclysm-DDA/pull/75376))
 * Removes Mortar Recipe's cement recipe book requirement ([#75348](https://github.com/CleverRaven/Cataclysm-DDA/pull/75348))
 * purge not used hardcoded mattacks ([#75347](https://github.com/CleverRaven/Cataclysm-DDA/pull/75347))
@@ -239,4 +240,3 @@
 * Update the table of contents in doc/JSON_INFO.md ([#75338](https://github.com/CleverRaven/Cataclysm-DDA/pull/75338))
 * [MoM] Change Hardened Skin to concentration ([#75316](https://github.com/CleverRaven/Cataclysm-DDA/pull/75316))
 * [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
-* fix missing color in nursing_home_8 ([#75312](https://github.com/CleverRaven/Cataclysm-DDA/pull/75312))
