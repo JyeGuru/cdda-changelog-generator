@@ -1,3 +1,11 @@
+* Items inside integrated armor are not deleted if mutation is removed ([#75565](https://github.com/CleverRaven/Cataclysm-DDA/pull/75565))
+* [TropiCata] Velvet worm faction ([#75573](https://github.com/CleverRaven/Cataclysm-DDA/pull/75573))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-11-0615 ([8d63411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-11-0615))
+
+* [MoM] Update Nether Attunement more frequently ([#75580](https://github.com/CleverRaven/Cataclysm-DDA/pull/75580))
 
 ---
 
@@ -203,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2024-08-03-0304 ([e218158](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-0304))
 
 * [Sky Island] Add bunker climate control upgrade ([#75403](https://github.com/CleverRaven/Cataclysm-DDA/pull/75403))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-02-2006 ([56ce45a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-02-2006))
-
 * Fixed getting min/max drop values from deconstruction when modifier is NULL ([#75325](https://github.com/CleverRaven/Cataclysm-DDA/pull/75325))
 * Expose instability to json ([#75330](https://github.com/CleverRaven/Cataclysm-DDA/pull/75330))
 * make monattacks able to run eocs ([#75334](https://github.com/CleverRaven/Cataclysm-DDA/pull/75334))
@@ -229,7 +232,6 @@
 * Routine tileset updates on 01 August 2024 ([#75359](https://github.com/CleverRaven/Cataclysm-DDA/pull/75359))
 * Add a bunch of new perks to Bombastic Perks ([#75335](https://github.com/CleverRaven/Cataclysm-DDA/pull/75335))
 * Broth audit ([#75351](https://github.com/CleverRaven/Cataclysm-DDA/pull/75351))
-* fix hwp maintenance kit item_restriction ([#75323](https://github.com/CleverRaven/Cataclysm-DDA/pull/75323))
 * [backport] fix hwp maintenance kit item_restriction ([#75324](https://github.com/CleverRaven/Cataclysm-DDA/pull/75324))
 * [Bombastic Perks] Fix Pantherish Grace menu display ([#75333](https://github.com/CleverRaven/Cataclysm-DDA/pull/75333))
 * Restore functionality of make etags ([#75339](https://github.com/CleverRaven/Cataclysm-DDA/pull/75339))
@@ -238,5 +240,3 @@
 * Improved error message ([#75350](https://github.com/CleverRaven/Cataclysm-DDA/pull/75350))
 * Use inhaler/oxygen bottle with least content left ([#75328](https://github.com/CleverRaven/Cataclysm-DDA/pull/75328))
 * Update the table of contents in doc/JSON_INFO.md ([#75338](https://github.com/CleverRaven/Cataclysm-DDA/pull/75338))
-* [MoM] Change Hardened Skin to concentration ([#75316](https://github.com/CleverRaven/Cataclysm-DDA/pull/75316))
-* [MoM] Change Voltaic Strikes and Electrical Discharge to concentration ([#75313](https://github.com/CleverRaven/Cataclysm-DDA/pull/75313))
