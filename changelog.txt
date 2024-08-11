@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-11-0857 (2d4e043)
 * Small bark audit - fixing bark resource density (#75550)
 * Clean up Megafauna wilderness spawns (#75551)
 * Items inside integrated armor are not deleted if mutation is removed (#75565)
@@ -120,8 +122,6 @@ Cataclysm-DDA experimental build 2024-08-03-0533 (1c140ab)
 * more flavor shadow warning messages (#75402)
 * Make the one of Yugg's corpses that is actually flesh rot (#75355)
 * add swamp to shadow spawn locs (#75400)
-
-Cataclysm-DDA experimental build 2024-08-03-0304 (e218158)
 * [Sky Island] Add bunker climate control upgrade (#75403)
 * Expose instability to json (#75330)
 * make monattacks able to run eocs (#75334)

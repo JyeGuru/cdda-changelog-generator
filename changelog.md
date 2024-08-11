@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-11-0857 ([2d4e043](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-11-0857))
+
 * Small bark audit - fixing bark resource density ([#75550](https://github.com/CleverRaven/Cataclysm-DDA/pull/75550))
 * Clean up Megafauna wilderness spawns ([#75551](https://github.com/CleverRaven/Cataclysm-DDA/pull/75551))
 * Items inside integrated armor are not deleted if mutation is removed ([#75565](https://github.com/CleverRaven/Cataclysm-DDA/pull/75565))
@@ -207,11 +212,6 @@
 * more flavor shadow warning messages ([#75402](https://github.com/CleverRaven/Cataclysm-DDA/pull/75402))
 * Make the one of Yugg's corpses that is actually flesh rot ([#75355](https://github.com/CleverRaven/Cataclysm-DDA/pull/75355))
 * add swamp to shadow spawn locs ([#75400](https://github.com/CleverRaven/Cataclysm-DDA/pull/75400))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-03-0304 ([e218158](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-0304))
-
 * [Sky Island] Add bunker climate control upgrade ([#75403](https://github.com/CleverRaven/Cataclysm-DDA/pull/75403))
 * Expose instability to json ([#75330](https://github.com/CleverRaven/Cataclysm-DDA/pull/75330))
 * make monattacks able to run eocs ([#75334](https://github.com/CleverRaven/Cataclysm-DDA/pull/75334))
