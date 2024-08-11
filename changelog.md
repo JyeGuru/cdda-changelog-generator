@@ -1,3 +1,5 @@
+* Small bark audit - fixing bark resource density ([#75550](https://github.com/CleverRaven/Cataclysm-DDA/pull/75550))
+* Clean up Megafauna wilderness spawns ([#75551](https://github.com/CleverRaven/Cataclysm-DDA/pull/75551))
 * Items inside integrated armor are not deleted if mutation is removed ([#75565](https://github.com/CleverRaven/Cataclysm-DDA/pull/75565))
 * [TropiCata] Velvet worm faction ([#75573](https://github.com/CleverRaven/Cataclysm-DDA/pull/75573))
 
@@ -211,7 +213,6 @@
 #### Cataclysm-DDA experimental build 2024-08-03-0304 ([e218158](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-0304))
 
 * [Sky Island] Add bunker climate control upgrade ([#75403](https://github.com/CleverRaven/Cataclysm-DDA/pull/75403))
-* Fixed getting min/max drop values from deconstruction when modifier is NULL ([#75325](https://github.com/CleverRaven/Cataclysm-DDA/pull/75325))
 * Expose instability to json ([#75330](https://github.com/CleverRaven/Cataclysm-DDA/pull/75330))
 * make monattacks able to run eocs ([#75334](https://github.com/CleverRaven/Cataclysm-DDA/pull/75334))
 * Update cigar description ([#75393](https://github.com/CleverRaven/Cataclysm-DDA/pull/75393))
@@ -232,7 +233,6 @@
 * Routine tileset updates on 01 August 2024 ([#75359](https://github.com/CleverRaven/Cataclysm-DDA/pull/75359))
 * Add a bunch of new perks to Bombastic Perks ([#75335](https://github.com/CleverRaven/Cataclysm-DDA/pull/75335))
 * Broth audit ([#75351](https://github.com/CleverRaven/Cataclysm-DDA/pull/75351))
-* [backport] fix hwp maintenance kit item_restriction ([#75324](https://github.com/CleverRaven/Cataclysm-DDA/pull/75324))
 * [Bombastic Perks] Fix Pantherish Grace menu display ([#75333](https://github.com/CleverRaven/Cataclysm-DDA/pull/75333))
 * Restore functionality of make etags ([#75339](https://github.com/CleverRaven/Cataclysm-DDA/pull/75339))
 * Fix faction succession condition of broken bone in 0.H ([#75345](https://github.com/CleverRaven/Cataclysm-DDA/pull/75345))
