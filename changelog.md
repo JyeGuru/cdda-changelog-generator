@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-12-0753 ([61cda3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-0753))
+
 * get the electric hair trimmer to only use one charge ([#75518](https://github.com/CleverRaven/Cataclysm-DDA/pull/75518))
 * Remove bonus items from naked and afraid ([#75533](https://github.com/CleverRaven/Cataclysm-DDA/pull/75533))
 * Bugfix for Vehicles Incorrectly Displacing Water Creatures ([#75554](https://github.com/CleverRaven/Cataclysm-DDA/pull/75554))
@@ -212,11 +217,6 @@
 #### Cataclysm-DDA experimental build 2024-08-04-1521 ([b7a3317](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-04-1521))
 
 * Give a bunch of reversible crafts specified disassembly times ([#75414](https://github.com/CleverRaven/Cataclysm-DDA/pull/75414))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-03-1813 ([1fc1e9a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-1813))
-
 * Expand Home Photos to Use Variable Snippets ([#75405](https://github.com/CleverRaven/Cataclysm-DDA/pull/75405))
 * Disassembly adjustments for underwear and MRE bags ([#75399](https://github.com/CleverRaven/Cataclysm-DDA/pull/75399))
 * Remove unnecessary workout y/n prompt ([#75415](https://github.com/CleverRaven/Cataclysm-DDA/pull/75415))
