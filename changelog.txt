@@ -1,3 +1,4 @@
+* rename zed_lieutenant.json to singularities.json as the naming scheme changed a while ago (#75507)
 
 Cataclysm-DDA experimental build 2024-08-12-0753 (61cda3e)
 * get the electric hair trimmer to only use one charge (#75518)
@@ -77,7 +78,6 @@ Cataclysm-DDA experimental build 2024-08-06-2043 (0f92209)
 Cataclysm-DDA experimental build 2024-08-06-0750 (fd4d1a9)
 * Use an enum to specify overmap tile see cost instead of a number (#75432)
 * [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action (#75437)
-* Energy density for batteries (#75361)
 * Neutral NPCs can now be pushed (#75390)
 * Fixes Clear Outsert Lens Compatibility with Gas Masks (#75394)
 * Handheld game system disassembly changes + Updates to disassembly documentation (#75395)

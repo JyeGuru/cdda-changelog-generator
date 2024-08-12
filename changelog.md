@@ -1,3 +1,4 @@
+* rename zed_lieutenant.json to singularities.json as the naming scheme changed a while ago ([#75507](https://github.com/CleverRaven/Cataclysm-DDA/pull/75507))
 
 ---
 
@@ -134,7 +135,6 @@
 
 * Use an enum to specify overmap tile see cost instead of a number ([#75432](https://github.com/CleverRaven/Cataclysm-DDA/pull/75432))
 * [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action ([#75437](https://github.com/CleverRaven/Cataclysm-DDA/pull/75437))
-* Energy density for batteries ([#75361](https://github.com/CleverRaven/Cataclysm-DDA/pull/75361))
 * Neutral NPCs can now be pushed ([#75390](https://github.com/CleverRaven/Cataclysm-DDA/pull/75390))
 * Fixes Clear Outsert Lens Compatibility with Gas Masks ([#75394](https://github.com/CleverRaven/Cataclysm-DDA/pull/75394))
 * Handheld game system disassembly changes + Updates to disassembly documentation ([#75395](https://github.com/CleverRaven/Cataclysm-DDA/pull/75395))
