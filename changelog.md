@@ -1,3 +1,4 @@
+* Make solar panels to work less effeiciently in a rainstorm ([#75595](https://github.com/CleverRaven/Cataclysm-DDA/pull/75595))
 * Add missing space ([#75588](https://github.com/CleverRaven/Cataclysm-DDA/pull/75588))
 * [Magiclysm] Fix hand antlers ([#75609](https://github.com/CleverRaven/Cataclysm-DDA/pull/75609))
 * [Isolation Protocol] Fix Hypocrit's Oath perk ([#75610](https://github.com/CleverRaven/Cataclysm-DDA/pull/75610))
@@ -146,12 +147,6 @@
 #### Cataclysm-DDA experimental build 2024-08-05-1452 ([dadaa89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-1452))
 
 * Description fix for Bren 5.56x45mm carbine ([#75435](https://github.com/CleverRaven/Cataclysm-DDA/pull/75435))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-05-1158 ([35e37f3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-1158))
-
-* Enabled towing over ramps ([#75346](https://github.com/CleverRaven/Cataclysm-DDA/pull/75346))
 
 ---
 
