@@ -1,3 +1,11 @@
+* More energy density errata ([#75557](https://github.com/CleverRaven/Cataclysm-DDA/pull/75557))
+* Invalidate weight carried cache when multidrop ([#75560](https://github.com/CleverRaven/Cataclysm-DDA/pull/75560))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-12-0211 ([01ab028](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-0211))
+
+* [MoM] Fix Heightened Reflexes ([#75603](https://github.com/CleverRaven/Cataclysm-DDA/pull/75603))
 
 ---
 
@@ -204,16 +212,10 @@
 #### Cataclysm-DDA experimental build 2024-08-03-1528 ([6b4c4d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-1528))
 
 * Remove unnecessary workout y/n prompt ([#75415](https://github.com/CleverRaven/Cataclysm-DDA/pull/75415))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-03-0533 ([1c140ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-0533))
-
 * more flavor shadow warning messages ([#75402](https://github.com/CleverRaven/Cataclysm-DDA/pull/75402))
 * Make the one of Yugg's corpses that is actually flesh rot ([#75355](https://github.com/CleverRaven/Cataclysm-DDA/pull/75355))
 * add swamp to shadow spawn locs ([#75400](https://github.com/CleverRaven/Cataclysm-DDA/pull/75400))
 * [Sky Island] Add bunker climate control upgrade ([#75403](https://github.com/CleverRaven/Cataclysm-DDA/pull/75403))
-* Expose instability to json ([#75330](https://github.com/CleverRaven/Cataclysm-DDA/pull/75330))
 * make monattacks able to run eocs ([#75334](https://github.com/CleverRaven/Cataclysm-DDA/pull/75334))
 * Update cigar description ([#75393](https://github.com/CleverRaven/Cataclysm-DDA/pull/75393))
 * better debugmsg of multiple attacks of the same type ([#75364](https://github.com/CleverRaven/Cataclysm-DDA/pull/75364))
@@ -233,10 +235,8 @@
 * Routine tileset updates on 01 August 2024 ([#75359](https://github.com/CleverRaven/Cataclysm-DDA/pull/75359))
 * Add a bunch of new perks to Bombastic Perks ([#75335](https://github.com/CleverRaven/Cataclysm-DDA/pull/75335))
 * Broth audit ([#75351](https://github.com/CleverRaven/Cataclysm-DDA/pull/75351))
-* [Bombastic Perks] Fix Pantherish Grace menu display ([#75333](https://github.com/CleverRaven/Cataclysm-DDA/pull/75333))
 * Restore functionality of make etags ([#75339](https://github.com/CleverRaven/Cataclysm-DDA/pull/75339))
 * Fix faction succession condition of broken bone in 0.H ([#75345](https://github.com/CleverRaven/Cataclysm-DDA/pull/75345))
 * fix yugg death without killer causes error ([#75352](https://github.com/CleverRaven/Cataclysm-DDA/pull/75352))
 * Improved error message ([#75350](https://github.com/CleverRaven/Cataclysm-DDA/pull/75350))
-* Use inhaler/oxygen bottle with least content left ([#75328](https://github.com/CleverRaven/Cataclysm-DDA/pull/75328))
 * Update the table of contents in doc/JSON_INFO.md ([#75338](https://github.com/CleverRaven/Cataclysm-DDA/pull/75338))
