@@ -1,3 +1,10 @@
+* Add Maximize build space action to build job ([#75576](https://github.com/CleverRaven/Cataclysm-DDA/pull/75576))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-12-2112 ([54a7e23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-2112))
+
+* Weekly Changelog 2024-08-05 to 2024-08-12 ([#75611](https://github.com/CleverRaven/Cataclysm-DDA/pull/75611))
 
 ---
 
@@ -209,11 +216,6 @@
 
 * Show tileset id along with debug overmap info ([#75430](https://github.com/CleverRaven/Cataclysm-DDA/pull/75430))
 * Use CC-Sounds as default soundpack if it's present on first launch ([#75447](https://github.com/CleverRaven/Cataclysm-DDA/pull/75447))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-04-1843 ([1b3cce7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-04-1843))
-
 * Defer checking death effect validity until finalize function. ([#75410](https://github.com/CleverRaven/Cataclysm-DDA/pull/75410))
 * Prevent segfault if repair item disappears ([#75413](https://github.com/CleverRaven/Cataclysm-DDA/pull/75413))
 * Give a bunch of reversible crafts specified disassembly times ([#75414](https://github.com/CleverRaven/Cataclysm-DDA/pull/75414))
@@ -224,8 +226,6 @@
 * add swamp to shadow spawn locs ([#75400](https://github.com/CleverRaven/Cataclysm-DDA/pull/75400))
 * [Sky Island] Add bunker climate control upgrade ([#75403](https://github.com/CleverRaven/Cataclysm-DDA/pull/75403))
 * Update cigar description ([#75393](https://github.com/CleverRaven/Cataclysm-DDA/pull/75393))
-* better debugmsg of multiple attacks of the same type ([#75364](https://github.com/CleverRaven/Cataclysm-DDA/pull/75364))
-* Make some chemicals that don't need to be comestible no longer comestible ([#75368](https://github.com/CleverRaven/Cataclysm-DDA/pull/75368))
 * fix m4_cqbr spawning in the wild ([#75374](https://github.com/CleverRaven/Cataclysm-DDA/pull/75374))
 * Random NPC classes can define weighted chance of spawning ([#75384](https://github.com/CleverRaven/Cataclysm-DDA/pull/75384))
 * Remove inaccessible valhallist-related content ([#75385](https://github.com/CleverRaven/Cataclysm-DDA/pull/75385))
