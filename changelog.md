@@ -1,3 +1,9 @@
+* Update some lore for the New England Community Church ([#75582](https://github.com/CleverRaven/Cataclysm-DDA/pull/75582))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-12-0453 ([44e0b36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-0453))
+
 * Do not pop up the message "There is nothing to pick up" ([#75564](https://github.com/CleverRaven/Cataclysm-DDA/pull/75564))
 * Pruning the old ``to-hit`` syntax - Part 3 ([#75569](https://github.com/CleverRaven/Cataclysm-DDA/pull/75569))
 * Make solar panels to work less effeiciently in a rainstorm ([#75595](https://github.com/CleverRaven/Cataclysm-DDA/pull/75595))
@@ -208,11 +214,6 @@
 
 * Expand Home Photos to Use Variable Snippets ([#75405](https://github.com/CleverRaven/Cataclysm-DDA/pull/75405))
 * Disassembly adjustments for underwear and MRE bags ([#75399](https://github.com/CleverRaven/Cataclysm-DDA/pull/75399))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-03-1528 ([6b4c4d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-03-1528))
-
 * Remove unnecessary workout y/n prompt ([#75415](https://github.com/CleverRaven/Cataclysm-DDA/pull/75415))
 * more flavor shadow warning messages ([#75402](https://github.com/CleverRaven/Cataclysm-DDA/pull/75402))
 * Make the one of Yugg's corpses that is actually flesh rot ([#75355](https://github.com/CleverRaven/Cataclysm-DDA/pull/75355))
@@ -234,4 +235,3 @@
 * Routine tileset updates on 01 August 2024 ([#75359](https://github.com/CleverRaven/Cataclysm-DDA/pull/75359))
 * Broth audit ([#75351](https://github.com/CleverRaven/Cataclysm-DDA/pull/75351))
 * fix yugg death without killer causes error ([#75352](https://github.com/CleverRaven/Cataclysm-DDA/pull/75352))
-* Improved error message ([#75350](https://github.com/CleverRaven/Cataclysm-DDA/pull/75350))
