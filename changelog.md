@@ -1,3 +1,6 @@
+* Fix typos ([#75585](https://github.com/CleverRaven/Cataclysm-DDA/pull/75585))
+* Fix few potential issues in google maps ([#75590](https://github.com/CleverRaven/Cataclysm-DDA/pull/75590))
+* Fix tests failing to spawn gun show ([#75615](https://github.com/CleverRaven/Cataclysm-DDA/pull/75615))
 * Add Maximize build space action to build job ([#75576](https://github.com/CleverRaven/Cataclysm-DDA/pull/75576))
 
 ---
@@ -137,12 +140,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-08-06-2043 ([0f92209](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-2043))
-
-* [XE] Add Tier 5 vampire powers ([#75373](https://github.com/CleverRaven/Cataclysm-DDA/pull/75373))
-
----
-
 #### Cataclysm-DDA experimental build 2024-08-06-0750 ([fd4d1a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-0750))
 
 * Use an enum to specify overmap tile see cost instead of a number ([#75432](https://github.com/CleverRaven/Cataclysm-DDA/pull/75432))
@@ -194,12 +191,6 @@
 * Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
 * more sophisticated logic and details in the sunset/sunrise morale ([#75404](https://github.com/CleverRaven/Cataclysm-DDA/pull/75404))
 * allow map_cursor to be made from abs pos ([#75449](https://github.com/CleverRaven/Cataclysm-DDA/pull/75449))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-04-2354 ([874dded](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-04-2354))
-
-* Avoid crash when no proficiencies in character menu ([#75370](https://github.com/CleverRaven/Cataclysm-DDA/pull/75370))
 * Routine i18n updates on 03 August 2024 ([#75408](https://github.com/CleverRaven/Cataclysm-DDA/pull/75408))
 * Set owner of disassembly result ([#75411](https://github.com/CleverRaven/Cataclysm-DDA/pull/75411))
 * Make howling dogs actually behave like zombies ([#75422](https://github.com/CleverRaven/Cataclysm-DDA/pull/75422))
@@ -231,6 +222,5 @@
 * Remove inaccessible valhallist-related content ([#75385](https://github.com/CleverRaven/Cataclysm-DDA/pull/75385))
 * Quick setup at start for debug worlds/characters ([#75388](https://github.com/CleverRaven/Cataclysm-DDA/pull/75388))
 * Made use action appliance deployment work properly ([#75397](https://github.com/CleverRaven/Cataclysm-DDA/pull/75397))
-* Powdered gelatin audit ([#75371](https://github.com/CleverRaven/Cataclysm-DDA/pull/75371))
 * Add FMS about mining ([#75396](https://github.com/CleverRaven/Cataclysm-DDA/pull/75396))
 * Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance ([#75376](https://github.com/CleverRaven/Cataclysm-DDA/pull/75376))
