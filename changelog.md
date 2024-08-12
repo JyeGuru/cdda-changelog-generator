@@ -225,7 +225,6 @@
 * [Sky Island] Add bunker climate control upgrade ([#75403](https://github.com/CleverRaven/Cataclysm-DDA/pull/75403))
 * Update cigar description ([#75393](https://github.com/CleverRaven/Cataclysm-DDA/pull/75393))
 * better debugmsg of multiple attacks of the same type ([#75364](https://github.com/CleverRaven/Cataclysm-DDA/pull/75364))
-* Allow stereo system and some other small parts to be installed in aircraft ([#75360](https://github.com/CleverRaven/Cataclysm-DDA/pull/75360))
 * Make some chemicals that don't need to be comestible no longer comestible ([#75368](https://github.com/CleverRaven/Cataclysm-DDA/pull/75368))
 * fix m4_cqbr spawning in the wild ([#75374](https://github.com/CleverRaven/Cataclysm-DDA/pull/75374))
 * Random NPC classes can define weighted chance of spawning ([#75384](https://github.com/CleverRaven/Cataclysm-DDA/pull/75384))
