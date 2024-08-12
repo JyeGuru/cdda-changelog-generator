@@ -1,3 +1,5 @@
+* Update e_logs.json (#75476)
+* [Sky Island] Add statue dialogue to let you repeat construction stages (#75552)
 * Update some lore for the New England Community Church (#75582)
 
 Cataclysm-DDA experimental build 2024-08-12-0453 (44e0b36)
@@ -146,5 +148,3 @@ Cataclysm-DDA experimental build 2024-08-03-1813 (1fc1e9a)
 * Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance (#75376)
 * Ruin propane supply (#75356)
 * Routine tileset updates on 01 August 2024 (#75359)
-* Broth audit (#75351)
-* fix yugg death without killer causes error (#75352)

@@ -1,3 +1,5 @@
+* Update e_logs.json ([#75476](https://github.com/CleverRaven/Cataclysm-DDA/pull/75476))
+* [Sky Island] Add statue dialogue to let you repeat construction stages ([#75552](https://github.com/CleverRaven/Cataclysm-DDA/pull/75552))
 * Update some lore for the New England Community Church ([#75582](https://github.com/CleverRaven/Cataclysm-DDA/pull/75582))
 
 ---
@@ -233,5 +235,3 @@
 * Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance ([#75376](https://github.com/CleverRaven/Cataclysm-DDA/pull/75376))
 * Ruin propane supply ([#75356](https://github.com/CleverRaven/Cataclysm-DDA/pull/75356))
 * Routine tileset updates on 01 August 2024 ([#75359](https://github.com/CleverRaven/Cataclysm-DDA/pull/75359))
-* Broth audit ([#75351](https://github.com/CleverRaven/Cataclysm-DDA/pull/75351))
-* fix yugg death without killer causes error ([#75352](https://github.com/CleverRaven/Cataclysm-DDA/pull/75352))
