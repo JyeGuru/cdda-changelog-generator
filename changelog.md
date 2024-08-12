@@ -1,3 +1,4 @@
+* [MoM] Nether Attunement affects psionic calorie usage ([#75596](https://github.com/CleverRaven/Cataclysm-DDA/pull/75596))
 * More energy density errata ([#75557](https://github.com/CleverRaven/Cataclysm-DDA/pull/75557))
 * Invalidate weight carried cache when multidrop ([#75560](https://github.com/CleverRaven/Cataclysm-DDA/pull/75560))
 
@@ -216,7 +217,6 @@
 * Make the one of Yugg's corpses that is actually flesh rot ([#75355](https://github.com/CleverRaven/Cataclysm-DDA/pull/75355))
 * add swamp to shadow spawn locs ([#75400](https://github.com/CleverRaven/Cataclysm-DDA/pull/75400))
 * [Sky Island] Add bunker climate control upgrade ([#75403](https://github.com/CleverRaven/Cataclysm-DDA/pull/75403))
-* make monattacks able to run eocs ([#75334](https://github.com/CleverRaven/Cataclysm-DDA/pull/75334))
 * Update cigar description ([#75393](https://github.com/CleverRaven/Cataclysm-DDA/pull/75393))
 * better debugmsg of multiple attacks of the same type ([#75364](https://github.com/CleverRaven/Cataclysm-DDA/pull/75364))
 * Allow stereo system and some other small parts to be installed in aircraft ([#75360](https://github.com/CleverRaven/Cataclysm-DDA/pull/75360))
