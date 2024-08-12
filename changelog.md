@@ -1,3 +1,4 @@
+* Make solar car more rare ([#75617](https://github.com/CleverRaven/Cataclysm-DDA/pull/75617))
 * Fix typos ([#75585](https://github.com/CleverRaven/Cataclysm-DDA/pull/75585))
 * Fix few potential issues in google maps ([#75590](https://github.com/CleverRaven/Cataclysm-DDA/pull/75590))
 * Fix tests failing to spawn gun show ([#75615](https://github.com/CleverRaven/Cataclysm-DDA/pull/75615))
@@ -217,7 +218,6 @@
 * add swamp to shadow spawn locs ([#75400](https://github.com/CleverRaven/Cataclysm-DDA/pull/75400))
 * [Sky Island] Add bunker climate control upgrade ([#75403](https://github.com/CleverRaven/Cataclysm-DDA/pull/75403))
 * Update cigar description ([#75393](https://github.com/CleverRaven/Cataclysm-DDA/pull/75393))
-* fix m4_cqbr spawning in the wild ([#75374](https://github.com/CleverRaven/Cataclysm-DDA/pull/75374))
 * Random NPC classes can define weighted chance of spawning ([#75384](https://github.com/CleverRaven/Cataclysm-DDA/pull/75384))
 * Remove inaccessible valhallist-related content ([#75385](https://github.com/CleverRaven/Cataclysm-DDA/pull/75385))
 * Quick setup at start for debug worlds/characters ([#75388](https://github.com/CleverRaven/Cataclysm-DDA/pull/75388))
