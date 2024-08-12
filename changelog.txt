@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-12-1249 (467f08f)
 * rename zed_lieutenant.json to singularities.json as the naming scheme changed a while ago (#75507)
 
 Cataclysm-DDA experimental build 2024-08-12-0753 (61cda3e)
@@ -127,8 +129,6 @@ Cataclysm-DDA experimental build 2024-08-04-2117 (5dca8af)
 Cataclysm-DDA experimental build 2024-08-04-1843 (1b3cce7)
 * Defer checking death effect validity until finalize function. (#75410)
 * Prevent segfault if repair item disappears (#75413)
-
-Cataclysm-DDA experimental build 2024-08-04-1521 (b7a3317)
 * Give a bunch of reversible crafts specified disassembly times (#75414)
 * Expand Home Photos to Use Variable Snippets (#75405)
 * Disassembly adjustments for underwear and MRE bags (#75399)

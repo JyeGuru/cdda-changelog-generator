@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-12-1249 ([467f08f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-1249))
+
 * rename zed_lieutenant.json to singularities.json as the naming scheme changed a while ago ([#75507](https://github.com/CleverRaven/Cataclysm-DDA/pull/75507))
 
 ---
@@ -211,11 +216,6 @@
 
 * Defer checking death effect validity until finalize function. ([#75410](https://github.com/CleverRaven/Cataclysm-DDA/pull/75410))
 * Prevent segfault if repair item disappears ([#75413](https://github.com/CleverRaven/Cataclysm-DDA/pull/75413))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-04-1521 ([b7a3317](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-04-1521))
-
 * Give a bunch of reversible crafts specified disassembly times ([#75414](https://github.com/CleverRaven/Cataclysm-DDA/pull/75414))
 * Expand Home Photos to Use Variable Snippets ([#75405](https://github.com/CleverRaven/Cataclysm-DDA/pull/75405))
 * Disassembly adjustments for underwear and MRE bags ([#75399](https://github.com/CleverRaven/Cataclysm-DDA/pull/75399))
