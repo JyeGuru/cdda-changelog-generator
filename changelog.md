@@ -1,3 +1,6 @@
+* NECC mission description clarifications ([#75493](https://github.com/CleverRaven/Cataclysm-DDA/pull/75493))
+* Allow tileset connections for overmap water tiles ([#75494](https://github.com/CleverRaven/Cataclysm-DDA/pull/75494))
+* rebalance beverage quench based on oral hydration index ([#75498](https://github.com/CleverRaven/Cataclysm-DDA/pull/75498))
 * Add EoC effect that return closest city ([#75510](https://github.com/CleverRaven/Cataclysm-DDA/pull/75510))
 * Add `CLIMB_FLYING` flag, implement it in Magiclysm, MoM and Xedra Evolved ([#75515](https://github.com/CleverRaven/Cataclysm-DDA/pull/75515))
 * [MoM] Switch armor overrides to armor extensions ([#75613](https://github.com/CleverRaven/Cataclysm-DDA/pull/75613))
@@ -159,8 +162,6 @@
 
 * Use an enum to specify overmap tile see cost instead of a number ([#75432](https://github.com/CleverRaven/Cataclysm-DDA/pull/75432))
 * [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action ([#75437](https://github.com/CleverRaven/Cataclysm-DDA/pull/75437))
-* Fixes Clear Outsert Lens Compatibility with Gas Masks ([#75394](https://github.com/CleverRaven/Cataclysm-DDA/pull/75394))
-* Handheld game system disassembly changes + Updates to disassembly documentation ([#75395](https://github.com/CleverRaven/Cataclysm-DDA/pull/75395))
 * Adds Heritage Rough Rider revolver ([#75407](https://github.com/CleverRaven/Cataclysm-DDA/pull/75407))
 * Add `reveal_map` and `reveal_route` EoC effects ([#75417](https://github.com/CleverRaven/Cataclysm-DDA/pull/75417))
 * [MoM] Make Oxygen Absorption effect visible  ([#75450](https://github.com/CleverRaven/Cataclysm-DDA/pull/75450))
@@ -225,4 +226,3 @@
 * add swamp to shadow spawn locs ([#75400](https://github.com/CleverRaven/Cataclysm-DDA/pull/75400))
 * [Sky Island] Add bunker climate control upgrade ([#75403](https://github.com/CleverRaven/Cataclysm-DDA/pull/75403))
 * Made use action appliance deployment work properly ([#75397](https://github.com/CleverRaven/Cataclysm-DDA/pull/75397))
-* Add FMS about mining ([#75396](https://github.com/CleverRaven/Cataclysm-DDA/pull/75396))
