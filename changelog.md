@@ -1,3 +1,4 @@
+* Reading maps will reveal previously partially revealed tiles ([#75641](https://github.com/CleverRaven/Cataclysm-DDA/pull/75641))
 * Add myself to confirm-bug list ([#75646](https://github.com/CleverRaven/Cataclysm-DDA/pull/75646))
 * [MoM] Fix nether-void speed ([#75650](https://github.com/CleverRaven/Cataclysm-DDA/pull/75650))
 
@@ -212,7 +213,6 @@
 * Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
 * allow map_cursor to be made from abs pos ([#75449](https://github.com/CleverRaven/Cataclysm-DDA/pull/75449))
 * Make howling dogs actually behave like zombies ([#75422](https://github.com/CleverRaven/Cataclysm-DDA/pull/75422))
-* Fixed throw & swap_critters crash bugs ([#75418](https://github.com/CleverRaven/Cataclysm-DDA/pull/75418))
 * Typo fix for doc file filename ([#75436](https://github.com/CleverRaven/Cataclysm-DDA/pull/75436))
 * fixed item location load failure fallback ([#75441](https://github.com/CleverRaven/Cataclysm-DDA/pull/75441))
 * Prevent negative array index for floor_cache ([#75453](https://github.com/CleverRaven/Cataclysm-DDA/pull/75453))
