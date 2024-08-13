@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-13-2223 ([4bf90cd](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-13-2223))
+
 * Add Flathub download button and Flatpak manifest ([#75625](https://github.com/CleverRaven/Cataclysm-DDA/pull/75625))
 * Reading maps will reveal previously partially revealed tiles ([#75641](https://github.com/CleverRaven/Cataclysm-DDA/pull/75641))
 * Add myself to confirm-bug list ([#75646](https://github.com/CleverRaven/Cataclysm-DDA/pull/75646))
@@ -203,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2024-08-05-2150 ([5bec8cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-2150))
 
 * Cramped space doesn't prevent sleep ([#75470](https://github.com/CleverRaven/Cataclysm-DDA/pull/75470))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-05-1452 ([dadaa89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-1452))
-
 * Description fix for Bren 5.56x45mm carbine ([#75435](https://github.com/CleverRaven/Cataclysm-DDA/pull/75435))
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
 * Add comments describing use of vision levels ([#75429](https://github.com/CleverRaven/Cataclysm-DDA/pull/75429))

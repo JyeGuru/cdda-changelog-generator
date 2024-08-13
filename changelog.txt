@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-13-2223 (4bf90cd)
 * Add Flathub download button and Flatpak manifest (#75625)
 * Reading maps will reveal previously partially revealed tiles (#75641)
 * Add myself to confirm-bug list (#75646)
@@ -128,8 +130,6 @@ Cataclysm-DDA experimental build 2024-08-06-0149 (3f860f1)
 
 Cataclysm-DDA experimental build 2024-08-05-2150 (5bec8cc)
 * Cramped space doesn't prevent sleep (#75470)
-
-Cataclysm-DDA experimental build 2024-08-05-1452 (dadaa89)
 * Description fix for Bren 5.56x45mm carbine (#75435)
 * Fix characters at the wrong level (#75459)
 * Add comments describing use of vision levels (#75429)
