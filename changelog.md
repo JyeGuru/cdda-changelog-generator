@@ -1,3 +1,5 @@
+* Routine i18n updates on 10 August 2024 ([#75555](https://github.com/CleverRaven/Cataclysm-DDA/pull/75555))
+* Fix cottage cheese w/ savory veg also requiring fruit ([#75614](https://github.com/CleverRaven/Cataclysm-DDA/pull/75614))
 
 ---
 
@@ -99,12 +101,6 @@
 * Yet more item disassembly adjustments ([#75486](https://github.com/CleverRaven/Cataclysm-DDA/pull/75486))
 * Some item category changes + Vegan gummy candy renaming ([#75455](https://github.com/CleverRaven/Cataclysm-DDA/pull/75455))
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-08-2319 ([c8fcd5c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-08-2319))
-
-* A bit more shotguns ([#75378](https://github.com/CleverRaven/Cataclysm-DDA/pull/75378))
 
 ---
 
@@ -223,4 +219,3 @@
 * Quick setup at start for debug worlds/characters ([#75388](https://github.com/CleverRaven/Cataclysm-DDA/pull/75388))
 * Made use action appliance deployment work properly ([#75397](https://github.com/CleverRaven/Cataclysm-DDA/pull/75397))
 * Add FMS about mining ([#75396](https://github.com/CleverRaven/Cataclysm-DDA/pull/75396))
-* Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance ([#75376](https://github.com/CleverRaven/Cataclysm-DDA/pull/75376))

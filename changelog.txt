@@ -1,3 +1,5 @@
+* Routine i18n updates on 10 August 2024 (#75555)
+* Fix cottage cheese w/ savory veg also requiring fruit (#75614)
 
 Cataclysm-DDA experimental build 2024-08-12-2352 (12bb7da)
 * Make solar car more rare (#75617)
@@ -60,9 +62,6 @@ Cataclysm-DDA experimental build 2024-08-09-0203 (61e0526)
 * Yet more item disassembly adjustments (#75486)
 * Some item category changes + Vegan gummy candy renaming (#75455)
 * add screenshots game (#75524)
-
-Cataclysm-DDA experimental build 2024-08-08-2319 (c8fcd5c)
-* A bit more shotguns (#75378)
 
 Cataclysm-DDA experimental build 2024-08-08-1855 (643bab3)
 * Remove unnecessary damage types (#75464)
@@ -142,4 +141,3 @@ Cataclysm-DDA experimental build 2024-08-05-0243 (9f15085)
 * Quick setup at start for debug worlds/characters (#75388)
 * Made use action appliance deployment work properly (#75397)
 * Add FMS about mining (#75396)
-* Optimize typed coordinate conversion functions for faster Windows unsafe_get_submap_at performance (#75376)
