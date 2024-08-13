@@ -1,3 +1,4 @@
+* Add Flathub download button and Flatpak manifest ([#75625](https://github.com/CleverRaven/Cataclysm-DDA/pull/75625))
 * Reading maps will reveal previously partially revealed tiles ([#75641](https://github.com/CleverRaven/Cataclysm-DDA/pull/75641))
 * Add myself to confirm-bug list ([#75646](https://github.com/CleverRaven/Cataclysm-DDA/pull/75646))
 * [MoM] Fix nether-void speed ([#75650](https://github.com/CleverRaven/Cataclysm-DDA/pull/75650))
