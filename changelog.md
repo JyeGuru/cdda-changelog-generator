@@ -1,3 +1,5 @@
+* Add EoC effect that return closest city ([#75510](https://github.com/CleverRaven/Cataclysm-DDA/pull/75510))
+* Add `CLIMB_FLYING` flag, implement it in Magiclysm, MoM and Xedra Evolved ([#75515](https://github.com/CleverRaven/Cataclysm-DDA/pull/75515))
 * [MoM] Switch armor overrides to armor extensions ([#75613](https://github.com/CleverRaven/Cataclysm-DDA/pull/75613))
 
 ---
@@ -157,7 +159,6 @@
 
 * Use an enum to specify overmap tile see cost instead of a number ([#75432](https://github.com/CleverRaven/Cataclysm-DDA/pull/75432))
 * [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action ([#75437](https://github.com/CleverRaven/Cataclysm-DDA/pull/75437))
-* Neutral NPCs can now be pushed ([#75390](https://github.com/CleverRaven/Cataclysm-DDA/pull/75390))
 * Fixes Clear Outsert Lens Compatibility with Gas Masks ([#75394](https://github.com/CleverRaven/Cataclysm-DDA/pull/75394))
 * Handheld game system disassembly changes + Updates to disassembly documentation ([#75395](https://github.com/CleverRaven/Cataclysm-DDA/pull/75395))
 * Adds Heritage Rough Rider revolver ([#75407](https://github.com/CleverRaven/Cataclysm-DDA/pull/75407))
@@ -223,6 +224,5 @@
 * more flavor shadow warning messages ([#75402](https://github.com/CleverRaven/Cataclysm-DDA/pull/75402))
 * add swamp to shadow spawn locs ([#75400](https://github.com/CleverRaven/Cataclysm-DDA/pull/75400))
 * [Sky Island] Add bunker climate control upgrade ([#75403](https://github.com/CleverRaven/Cataclysm-DDA/pull/75403))
-* Update cigar description ([#75393](https://github.com/CleverRaven/Cataclysm-DDA/pull/75393))
 * Made use action appliance deployment work properly ([#75397](https://github.com/CleverRaven/Cataclysm-DDA/pull/75397))
 * Add FMS about mining ([#75396](https://github.com/CleverRaven/Cataclysm-DDA/pull/75396))
