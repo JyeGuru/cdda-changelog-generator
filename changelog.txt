@@ -1,3 +1,4 @@
+* [MoM] Switch armor overrides to armor extensions (#75613)
 
 Cataclysm-DDA experimental build 2024-08-13-0252 (90c6136)
 * I can't believe it's more item disassembly changes (#75547)

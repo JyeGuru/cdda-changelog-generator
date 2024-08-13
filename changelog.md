@@ -1,3 +1,4 @@
+* [MoM] Switch armor overrides to armor extensions ([#75613](https://github.com/CleverRaven/Cataclysm-DDA/pull/75613))
 
 ---
 
