@@ -1,3 +1,4 @@
+* Fix for Carnivores being able to eat low-calorie veggies ([#75534](https://github.com/CleverRaven/Cataclysm-DDA/pull/75534))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
 * Fix vitamin inheritance not overwriting vitamin when needed ([#75426](https://github.com/CleverRaven/Cataclysm-DDA/pull/75426))
 * Add v2 (monocrystalline) panels to rooftop solar ([#75431](https://github.com/CleverRaven/Cataclysm-DDA/pull/75431))
@@ -218,6 +219,5 @@
 * Remove block from F-S fighting knife ([#75452](https://github.com/CleverRaven/Cataclysm-DDA/pull/75452))
 * Show tileset id along with debug overmap info ([#75430](https://github.com/CleverRaven/Cataclysm-DDA/pull/75430))
 * Use CC-Sounds as default soundpack if it's present on first launch ([#75447](https://github.com/CleverRaven/Cataclysm-DDA/pull/75447))
-* Prevent segfault if repair item disappears ([#75413](https://github.com/CleverRaven/Cataclysm-DDA/pull/75413))
 * Give a bunch of reversible crafts specified disassembly times ([#75414](https://github.com/CleverRaven/Cataclysm-DDA/pull/75414))
 * Remove unnecessary workout y/n prompt ([#75415](https://github.com/CleverRaven/Cataclysm-DDA/pull/75415))
