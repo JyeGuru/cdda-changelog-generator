@@ -1,3 +1,4 @@
+* Fix dereference into an empty container (#75630)
 * Fix vitamin inheritance not overwriting vitamin when needed (#75426)
 * Add v2 (monocrystalline) panels to rooftop solar (#75431)
 * prevent spam of healing messages from WEAKNESS_TO_WATER (#75480)
@@ -127,9 +128,6 @@ Cataclysm-DDA experimental build 2024-08-05-1452 (dadaa89)
 
 Cataclysm-DDA experimental build 2024-08-05-0511 (6ee8e16)
 * Fix characters at the wrong level (#75459)
-* let hospitalized humans revive as zed crawlers (#75412)
-
-Cataclysm-DDA experimental build 2024-08-05-0243 (9f15085)
 * Add comments describing use of vision levels (#75429)
 * Prevent phantom "cramped space" on empty tiles (#75445)
 * allow map_cursor to be made from abs pos (#75449)

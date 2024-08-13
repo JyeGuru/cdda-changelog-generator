@@ -1,3 +1,4 @@
+* Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
 * Fix vitamin inheritance not overwriting vitamin when needed ([#75426](https://github.com/CleverRaven/Cataclysm-DDA/pull/75426))
 * Add v2 (monocrystalline) panels to rooftop solar ([#75431](https://github.com/CleverRaven/Cataclysm-DDA/pull/75431))
 * prevent spam of healing messages from WEAKNESS_TO_WATER ([#75480](https://github.com/CleverRaven/Cataclysm-DDA/pull/75480))
@@ -205,12 +206,6 @@
 #### Cataclysm-DDA experimental build 2024-08-05-0511 ([6ee8e16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-0511))
 
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
-* let hospitalized humans revive as zed crawlers ([#75412](https://github.com/CleverRaven/Cataclysm-DDA/pull/75412))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-05-0243 ([9f15085](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-0243))
-
 * Add comments describing use of vision levels ([#75429](https://github.com/CleverRaven/Cataclysm-DDA/pull/75429))
 * Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
 * allow map_cursor to be made from abs pos ([#75449](https://github.com/CleverRaven/Cataclysm-DDA/pull/75449))
