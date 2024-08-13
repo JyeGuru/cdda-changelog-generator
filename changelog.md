@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-13-0252 ([90c6136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-13-0252))
+
 * I can't believe it's more item disassembly changes ([#75547](https://github.com/CleverRaven/Cataclysm-DDA/pull/75547))
 * Variantize shirts ([#75548](https://github.com/CleverRaven/Cataclysm-DDA/pull/75548))
 * Tweak boiled bandages ([#75616](https://github.com/CleverRaven/Cataclysm-DDA/pull/75616))

@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-13-0252 (90c6136)
 * I can't believe it's more item disassembly changes (#75547)
 * Variantize shirts (#75548)
 * Tweak boiled bandages (#75616)
