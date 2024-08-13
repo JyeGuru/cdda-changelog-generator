@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-13-0631 ([b8dba37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-13-0631))
+
 * Fix for Carnivores being able to eat low-calorie veggies ([#75534](https://github.com/CleverRaven/Cataclysm-DDA/pull/75534))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
 * Fix vitamin inheritance not overwriting vitamin when needed ([#75426](https://github.com/CleverRaven/Cataclysm-DDA/pull/75426))
@@ -201,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2024-08-05-1452 ([dadaa89](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-1452))
 
 * Description fix for Bren 5.56x45mm carbine ([#75435](https://github.com/CleverRaven/Cataclysm-DDA/pull/75435))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-05-0511 ([6ee8e16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-0511))
-
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
 * Add comments describing use of vision levels ([#75429](https://github.com/CleverRaven/Cataclysm-DDA/pull/75429))
 * Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
