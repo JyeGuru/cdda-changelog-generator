@@ -1,3 +1,4 @@
+* Make aim game toolkit recipes use 5 energy instead of 50 (#75558)
 * Routine i18n updates on 10 August 2024 (#75555)
 * Fix cottage cheese w/ savory veg also requiring fruit (#75614)
 
@@ -107,7 +108,6 @@ Cataclysm-DDA experimental build 2024-08-05-1452 (dadaa89)
 
 Cataclysm-DDA experimental build 2024-08-05-0511 (6ee8e16)
 * Fix characters at the wrong level (#75459)
-* Sand and gravel pit (#75381)
 * let hospitalized humans revive as zed crawlers (#75412)
 
 Cataclysm-DDA experimental build 2024-08-05-0243 (9f15085)

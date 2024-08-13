@@ -1,3 +1,4 @@
+* Make aim game toolkit recipes use 5 energy instead of 50 ([#75558](https://github.com/CleverRaven/Cataclysm-DDA/pull/75558))
 * Routine i18n updates on 10 August 2024 ([#75555](https://github.com/CleverRaven/Cataclysm-DDA/pull/75555))
 * Fix cottage cheese w/ savory veg also requiring fruit ([#75614](https://github.com/CleverRaven/Cataclysm-DDA/pull/75614))
 
@@ -182,7 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-08-05-0511 ([6ee8e16](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-0511))
 
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
-* Sand and gravel pit ([#75381](https://github.com/CleverRaven/Cataclysm-DDA/pull/75381))
 * let hospitalized humans revive as zed crawlers ([#75412](https://github.com/CleverRaven/Cataclysm-DDA/pull/75412))
 
 ---
