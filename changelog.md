@@ -219,5 +219,4 @@
 * Remove block from F-S fighting knife ([#75452](https://github.com/CleverRaven/Cataclysm-DDA/pull/75452))
 * Show tileset id along with debug overmap info ([#75430](https://github.com/CleverRaven/Cataclysm-DDA/pull/75430))
 * Use CC-Sounds as default soundpack if it's present on first launch ([#75447](https://github.com/CleverRaven/Cataclysm-DDA/pull/75447))
-* Give a bunch of reversible crafts specified disassembly times ([#75414](https://github.com/CleverRaven/Cataclysm-DDA/pull/75414))
 * Remove unnecessary workout y/n prompt ([#75415](https://github.com/CleverRaven/Cataclysm-DDA/pull/75415))
