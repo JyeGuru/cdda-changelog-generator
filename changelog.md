@@ -1,3 +1,5 @@
+* Add myself to confirm-bug list ([#75646](https://github.com/CleverRaven/Cataclysm-DDA/pull/75646))
+* [MoM] Fix nether-void speed ([#75650](https://github.com/CleverRaven/Cataclysm-DDA/pull/75650))
 
 ---
 
@@ -180,7 +182,6 @@
 
 * Use an enum to specify overmap tile see cost instead of a number ([#75432](https://github.com/CleverRaven/Cataclysm-DDA/pull/75432))
 * [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action ([#75437](https://github.com/CleverRaven/Cataclysm-DDA/pull/75437))
-* Add `reveal_map` and `reveal_route` EoC effects ([#75417](https://github.com/CleverRaven/Cataclysm-DDA/pull/75417))
 * [MoM] Make Oxygen Absorption effect visible  ([#75450](https://github.com/CleverRaven/Cataclysm-DDA/pull/75450))
 
 ---
@@ -219,4 +220,3 @@
 * Remove block from F-S fighting knife ([#75452](https://github.com/CleverRaven/Cataclysm-DDA/pull/75452))
 * Show tileset id along with debug overmap info ([#75430](https://github.com/CleverRaven/Cataclysm-DDA/pull/75430))
 * Use CC-Sounds as default soundpack if it's present on first launch ([#75447](https://github.com/CleverRaven/Cataclysm-DDA/pull/75447))
-* Remove unnecessary workout y/n prompt ([#75415](https://github.com/CleverRaven/Cataclysm-DDA/pull/75415))
