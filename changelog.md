@@ -1,3 +1,4 @@
+* Give martial arts techniques that work with criticals ([#75462](https://github.com/CleverRaven/Cataclysm-DDA/pull/75462))
 * fix weight of huge_atomic_battery_cell ([#75505](https://github.com/CleverRaven/Cataclysm-DDA/pull/75505))
 * Exodii mission and text style fixes ([#75495](https://github.com/CleverRaven/Cataclysm-DDA/pull/75495))
 * move Autodoc Specialist to Bionic Professions ([#75496](https://github.com/CleverRaven/Cataclysm-DDA/pull/75496))
@@ -203,7 +204,6 @@
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time ([#75474](https://github.com/CleverRaven/Cataclysm-DDA/pull/75474))
 * [MoM] Move Trick of the Light to concentration ([#75469](https://github.com/CleverRaven/Cataclysm-DDA/pull/75469))
 * Cramped space doesn't prevent sleep ([#75470](https://github.com/CleverRaven/Cataclysm-DDA/pull/75470))
-* Description fix for Bren 5.56x45mm carbine ([#75435](https://github.com/CleverRaven/Cataclysm-DDA/pull/75435))
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
 * Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
 * allow map_cursor to be made from abs pos ([#75449](https://github.com/CleverRaven/Cataclysm-DDA/pull/75449))
