@@ -1,3 +1,4 @@
+* Dial down the amount of charges for beginner practice recipe (#75635)
 
 Cataclysm-DDA experimental build 2024-08-14-1807 (1794df8)
 * Conductivity audit/fixes for all bolts & arrows (#75440)
@@ -130,7 +131,6 @@ Cataclysm-DDA experimental build 2024-08-07-0555 (293f801)
 
 Cataclysm-DDA experimental build 2024-08-06-2324 (822c4ee)
 * replace magiclysm enchanted base items with tempered version (#75483)
-* [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action (#75437)
 * [MoM] Make Oxygen Absorption effect visible  (#75450)
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time (#75474)
 * [MoM] Move Trick of the Light to concentration (#75469)
