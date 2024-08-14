@@ -1,3 +1,6 @@
+* Added mashed potatoes ([#75511](https://github.com/CleverRaven/Cataclysm-DDA/pull/75511))
+* Move npc relations to math ([#75529](https://github.com/CleverRaven/Cataclysm-DDA/pull/75529))
+* Prevent div by zero crash in mana widget ([#75642](https://github.com/CleverRaven/Cataclysm-DDA/pull/75642))
 
 ---
 
@@ -20,7 +23,6 @@
 
 * Fix for Carnivores being able to eat low-calorie veggies ([#75534](https://github.com/CleverRaven/Cataclysm-DDA/pull/75534))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
-* Fix vitamin inheritance not overwriting vitamin when needed ([#75426](https://github.com/CleverRaven/Cataclysm-DDA/pull/75426))
 * Add v2 (monocrystalline) panels to rooftop solar ([#75431](https://github.com/CleverRaven/Cataclysm-DDA/pull/75431))
 * prevent spam of healing messages from WEAKNESS_TO_WATER ([#75480](https://github.com/CleverRaven/Cataclysm-DDA/pull/75480))
 * add garbage bags to evac shelter cleaning supplies ([#75516](https://github.com/CleverRaven/Cataclysm-DDA/pull/75516))
@@ -206,10 +208,8 @@
 * Cramped space doesn't prevent sleep ([#75470](https://github.com/CleverRaven/Cataclysm-DDA/pull/75470))
 * Description fix for Bren 5.56x45mm carbine ([#75435](https://github.com/CleverRaven/Cataclysm-DDA/pull/75435))
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
-* Add comments describing use of vision levels ([#75429](https://github.com/CleverRaven/Cataclysm-DDA/pull/75429))
 * Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
 * allow map_cursor to be made from abs pos ([#75449](https://github.com/CleverRaven/Cataclysm-DDA/pull/75449))
-* Make howling dogs actually behave like zombies ([#75422](https://github.com/CleverRaven/Cataclysm-DDA/pull/75422))
 * Typo fix for doc file filename ([#75436](https://github.com/CleverRaven/Cataclysm-DDA/pull/75436))
 * fixed item location load failure fallback ([#75441](https://github.com/CleverRaven/Cataclysm-DDA/pull/75441))
 * Prevent negative array index for floor_cache ([#75453](https://github.com/CleverRaven/Cataclysm-DDA/pull/75453))
