@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-14-0103 (45f35ec)
 * [Xedra Evolved] Turn activated learn-recipe Paraclesian traits into Passive ones (#75629)
 
 Cataclysm-DDA experimental build 2024-08-13-2223 (4bf90cd)
@@ -128,8 +130,6 @@ Cataclysm-DDA experimental build 2024-08-06-0516 (3610977)
 
 Cataclysm-DDA experimental build 2024-08-06-0149 (3f860f1)
 * [MoM] Move Trick of the Light to concentration (#75469)
-
-Cataclysm-DDA experimental build 2024-08-05-2150 (5bec8cc)
 * Cramped space doesn't prevent sleep (#75470)
 * Description fix for Bren 5.56x45mm carbine (#75435)
 * Fix characters at the wrong level (#75459)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-14-0103 ([45f35ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-0103))
+
 * [Xedra Evolved] Turn activated learn-recipe Paraclesian traits into Passive ones ([#75629](https://github.com/CleverRaven/Cataclysm-DDA/pull/75629))
 
 ---
@@ -203,11 +208,6 @@
 #### Cataclysm-DDA experimental build 2024-08-06-0149 ([3f860f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-0149))
 
 * [MoM] Move Trick of the Light to concentration ([#75469](https://github.com/CleverRaven/Cataclysm-DDA/pull/75469))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-05-2150 ([5bec8cc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-05-2150))
-
 * Cramped space doesn't prevent sleep ([#75470](https://github.com/CleverRaven/Cataclysm-DDA/pull/75470))
 * Description fix for Bren 5.56x45mm carbine ([#75435](https://github.com/CleverRaven/Cataclysm-DDA/pull/75435))
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
