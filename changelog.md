@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-14-0712 ([54be579](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-0712))
+
 * Give martial arts techniques that work with criticals ([#75462](https://github.com/CleverRaven/Cataclysm-DDA/pull/75462))
 * fix weight of huge_atomic_battery_cell ([#75505](https://github.com/CleverRaven/Cataclysm-DDA/pull/75505))
 * Exodii mission and text style fixes ([#75495](https://github.com/CleverRaven/Cataclysm-DDA/pull/75495))
@@ -196,11 +201,6 @@
 * replace magiclysm enchanted base items with tempered version ([#75483](https://github.com/CleverRaven/Cataclysm-DDA/pull/75483))
 * [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action ([#75437](https://github.com/CleverRaven/Cataclysm-DDA/pull/75437))
 * [MoM] Make Oxygen Absorption effect visible  ([#75450](https://github.com/CleverRaven/Cataclysm-DDA/pull/75450))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-06-0516 ([3610977](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-0516))
-
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time ([#75474](https://github.com/CleverRaven/Cataclysm-DDA/pull/75474))
 * [MoM] Move Trick of the Light to concentration ([#75469](https://github.com/CleverRaven/Cataclysm-DDA/pull/75469))
 * Cramped space doesn't prevent sleep ([#75470](https://github.com/CleverRaven/Cataclysm-DDA/pull/75470))
