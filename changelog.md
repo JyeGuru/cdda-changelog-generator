@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-14-1807 ([1794df8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-1807))
+
+* Conductivity audit/fixes for all bolts & arrows ([#75440](https://github.com/CleverRaven/Cataclysm-DDA/pull/75440))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-14-0712 ([54be579](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-0712))
 
 * Give martial arts techniques that work with criticals ([#75462](https://github.com/CleverRaven/Cataclysm-DDA/pull/75462))
@@ -207,7 +213,6 @@
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
 * Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
 * allow map_cursor to be made from abs pos ([#75449](https://github.com/CleverRaven/Cataclysm-DDA/pull/75449))
-* Typo fix for doc file filename ([#75436](https://github.com/CleverRaven/Cataclysm-DDA/pull/75436))
 * fixed item location load failure fallback ([#75441](https://github.com/CleverRaven/Cataclysm-DDA/pull/75441))
 * Prevent negative array index for floor_cache ([#75453](https://github.com/CleverRaven/Cataclysm-DDA/pull/75453))
 * Show variant tiles for overmap vision levels ([#75456](https://github.com/CleverRaven/Cataclysm-DDA/pull/75456))
