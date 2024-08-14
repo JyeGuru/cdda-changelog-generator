@@ -1,3 +1,4 @@
+* [MoM] Move Blinding Radiance to concentration ([#75653](https://github.com/CleverRaven/Cataclysm-DDA/pull/75653))
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
 
 ---
@@ -207,7 +208,6 @@
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
 * Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
 * allow map_cursor to be made from abs pos ([#75449](https://github.com/CleverRaven/Cataclysm-DDA/pull/75449))
-* fixed item location load failure fallback ([#75441](https://github.com/CleverRaven/Cataclysm-DDA/pull/75441))
 * Prevent negative array index for floor_cache ([#75453](https://github.com/CleverRaven/Cataclysm-DDA/pull/75453))
 * Show variant tiles for overmap vision levels ([#75456](https://github.com/CleverRaven/Cataclysm-DDA/pull/75456))
 * Remove block from F-S fighting knife ([#75452](https://github.com/CleverRaven/Cataclysm-DDA/pull/75452))
