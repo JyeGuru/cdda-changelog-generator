@@ -1,4 +1,6 @@
 * [MoM] Move Blinding Radiance to concentration (#75653)
+
+Cataclysm-DDA experimental build 2024-08-14-2135 (9a18322)
 * Dial down the amount of charges for beginner practice recipe (#75635)
 
 Cataclysm-DDA experimental build 2024-08-14-0712 (54be579)

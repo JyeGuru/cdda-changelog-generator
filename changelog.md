@@ -1,4 +1,9 @@
 * [MoM] Move Blinding Radiance to concentration ([#75653](https://github.com/CleverRaven/Cataclysm-DDA/pull/75653))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-14-2135 ([9a18322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-2135))
+
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
 
 ---
