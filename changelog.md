@@ -1,3 +1,6 @@
+* fix weight of huge_atomic_battery_cell ([#75505](https://github.com/CleverRaven/Cataclysm-DDA/pull/75505))
+* Exodii mission and text style fixes ([#75495](https://github.com/CleverRaven/Cataclysm-DDA/pull/75495))
+* move Autodoc Specialist to Bionic Professions ([#75496](https://github.com/CleverRaven/Cataclysm-DDA/pull/75496))
 * Fix typo in Megafauna giant horses mf_domestic.json ([#75509](https://github.com/CleverRaven/Cataclysm-DDA/pull/75509))
 * Added mashed potatoes ([#75511](https://github.com/CleverRaven/Cataclysm-DDA/pull/75511))
 * Move npc relations to math ([#75529](https://github.com/CleverRaven/Cataclysm-DDA/pull/75529))
@@ -24,7 +27,6 @@
 
 * Fix for Carnivores being able to eat low-calorie veggies ([#75534](https://github.com/CleverRaven/Cataclysm-DDA/pull/75534))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
-* Add v2 (monocrystalline) panels to rooftop solar ([#75431](https://github.com/CleverRaven/Cataclysm-DDA/pull/75431))
 * prevent spam of healing messages from WEAKNESS_TO_WATER ([#75480](https://github.com/CleverRaven/Cataclysm-DDA/pull/75480))
 * add garbage bags to evac shelter cleaning supplies ([#75516](https://github.com/CleverRaven/Cataclysm-DDA/pull/75516))
 * add loudness multiplier for gunmods ([#75546](https://github.com/CleverRaven/Cataclysm-DDA/pull/75546))
@@ -191,12 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-08-06-2324 ([822c4ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-2324))
 
 * replace magiclysm enchanted base items with tempered version ([#75483](https://github.com/CleverRaven/Cataclysm-DDA/pull/75483))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-06-0750 ([fd4d1a9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-06-0750))
-
-* Use an enum to specify overmap tile see cost instead of a number ([#75432](https://github.com/CleverRaven/Cataclysm-DDA/pull/75432))
 * [MoM] Update morphic resilience cream (renamed "morphic reinforcement serum") with MUT_INSTABILITY_MOD, switch it and noetic resilience treatment over to `consume_drug` use action ([#75437](https://github.com/CleverRaven/Cataclysm-DDA/pull/75437))
 * [MoM] Make Oxygen Absorption effect visible  ([#75450](https://github.com/CleverRaven/Cataclysm-DDA/pull/75450))
 
