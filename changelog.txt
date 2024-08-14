@@ -127,8 +127,6 @@ Cataclysm-DDA experimental build 2024-08-06-0750 (fd4d1a9)
 
 Cataclysm-DDA experimental build 2024-08-06-0516 (3610977)
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time (#75474)
-
-Cataclysm-DDA experimental build 2024-08-06-0149 (3f860f1)
 * [MoM] Move Trick of the Light to concentration (#75469)
 * Cramped space doesn't prevent sleep (#75470)
 * Description fix for Bren 5.56x45mm carbine (#75435)
