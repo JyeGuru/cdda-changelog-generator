@@ -2,12 +2,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-08-14-1807 ([1794df8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-1807))
-
-* Conductivity audit/fixes for all bolts & arrows ([#75440](https://github.com/CleverRaven/Cataclysm-DDA/pull/75440))
-
----
-
 #### Cataclysm-DDA experimental build 2024-08-14-0712 ([54be579](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-0712))
 
 * Give martial arts techniques that work with criticals ([#75462](https://github.com/CleverRaven/Cataclysm-DDA/pull/75462))
