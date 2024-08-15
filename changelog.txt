@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-15-2050 (a82f380)
 * [MoM] Further randomize cooldowns (#75664)
 
 Cataclysm-DDA experimental build 2024-08-15-1712 (f77e07e)

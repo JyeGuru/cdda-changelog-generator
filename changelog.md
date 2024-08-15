@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-15-2050 ([a82f380](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-2050))
+
 * [MoM] Further randomize cooldowns ([#75664](https://github.com/CleverRaven/Cataclysm-DDA/pull/75664))
 
 ---
