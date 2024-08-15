@@ -10,6 +10,11 @@
 #### Cataclysm-DDA 0.H release candidate 2024-08-15-0314 ([9883075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-15-0314))
 
 * Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-15-0407 ([66f25e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-0407))
+
 * Clean up deagle conversion kits ([#75644](https://github.com/CleverRaven/Cataclysm-DDA/pull/75644))
 * [MoM] Nether-void edits ([#75654](https://github.com/CleverRaven/Cataclysm-DDA/pull/75654))
 * Active grenades don't spawn as duds ([#75662](https://github.com/CleverRaven/Cataclysm-DDA/pull/75662))
@@ -203,11 +208,6 @@
 * Make electrons not drop from the batteries ([#75506](https://github.com/CleverRaven/Cataclysm-DDA/pull/75506))
 * Remove Superglue Recipe ([#75492](https://github.com/CleverRaven/Cataclysm-DDA/pull/75492))
 * make magiclysm/xedra evolved modded weapons useable by practice recipes ([#75491](https://github.com/CleverRaven/Cataclysm-DDA/pull/75491))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-07-2347 ([162e722](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-07-2347))
-
 * [MoM] Make Veil of Light concentration ([#75503](https://github.com/CleverRaven/Cataclysm-DDA/pull/75503))
 * Rename Psychopath trait in a few places ([#75481](https://github.com/CleverRaven/Cataclysm-DDA/pull/75481))
 * replace magiclysm enchanted base items with tempered version ([#75483](https://github.com/CleverRaven/Cataclysm-DDA/pull/75483))
