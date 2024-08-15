@@ -1,3 +1,6 @@
+* provide a desired_bounds for the vehicle appliance interaction menu ([#75692](https://github.com/CleverRaven/Cataclysm-DDA/pull/75692))
+* Update otherworldly measuring device power draw ([#75683](https://github.com/CleverRaven/Cataclysm-DDA/pull/75683))
+* make uilist menus render their footer text/item descriptions with color ([#75684](https://github.com/CleverRaven/Cataclysm-DDA/pull/75684))
 * Vision granularity audit: Military (or just FEMA Camps) ([#75645](https://github.com/CleverRaven/Cataclysm-DDA/pull/75645))
 * Allow ebooks in read command ([#75660](https://github.com/CleverRaven/Cataclysm-DDA/pull/75660))
 
@@ -27,12 +30,6 @@
 #### Cataclysm-DDA experimental build 2024-08-14-2135 ([9a18322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-2135))
 
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-14-0712 ([54be579](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-0712))
-
-* Give martial arts techniques that work with criticals ([#75462](https://github.com/CleverRaven/Cataclysm-DDA/pull/75462))
 * fix weight of huge_atomic_battery_cell ([#75505](https://github.com/CleverRaven/Cataclysm-DDA/pull/75505))
 * Exodii mission and text style fixes ([#75495](https://github.com/CleverRaven/Cataclysm-DDA/pull/75495))
 * move Autodoc Specialist to Bionic Professions ([#75496](https://github.com/CleverRaven/Cataclysm-DDA/pull/75496))
@@ -217,4 +214,3 @@
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time ([#75474](https://github.com/CleverRaven/Cataclysm-DDA/pull/75474))
 * [MoM] Move Trick of the Light to concentration ([#75469](https://github.com/CleverRaven/Cataclysm-DDA/pull/75469))
 * Cramped space doesn't prevent sleep ([#75470](https://github.com/CleverRaven/Cataclysm-DDA/pull/75470))
-* Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
