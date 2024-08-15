@@ -1,3 +1,4 @@
+* Keep uilist menu items lined up with each other even if some do not have hotkeys ([#75696](https://github.com/CleverRaven/Cataclysm-DDA/pull/75696))
 
 ---
 
@@ -213,4 +214,3 @@
 * [MoM] Make Veil of Light concentration ([#75503](https://github.com/CleverRaven/Cataclysm-DDA/pull/75503))
 * Rename Psychopath trait in a few places ([#75481](https://github.com/CleverRaven/Cataclysm-DDA/pull/75481))
 * replace magiclysm enchanted base items with tempered version ([#75483](https://github.com/CleverRaven/Cataclysm-DDA/pull/75483))
-* [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time ([#75474](https://github.com/CleverRaven/Cataclysm-DDA/pull/75474))

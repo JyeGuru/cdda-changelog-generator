@@ -1,3 +1,4 @@
+* Keep uilist menu items lined up with each other even if some do not have hotkeys (#75696)
 
 Cataclysm-DDA experimental build 2024-08-15-2050 (a82f380)
 * [MoM] Further randomize cooldowns (#75664)
@@ -141,4 +142,3 @@ Cataclysm-DDA experimental build 2024-08-09-0203 (61e0526)
 * [MoM] Make Veil of Light concentration (#75503)
 * Rename Psychopath trait in a few places (#75481)
 * replace magiclysm enchanted base items with tempered version (#75483)
-* [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time (#75474)
