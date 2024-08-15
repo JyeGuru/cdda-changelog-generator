@@ -1,3 +1,4 @@
+* Typo Fixes ([#75656](https://github.com/CleverRaven/Cataclysm-DDA/pull/75656))
 * provide a desired_bounds for the vehicle appliance interaction menu ([#75692](https://github.com/CleverRaven/Cataclysm-DDA/pull/75692))
 * Update otherworldly measuring device power draw ([#75683](https://github.com/CleverRaven/Cataclysm-DDA/pull/75683))
 * make uilist menus render their footer text/item descriptions with color ([#75684](https://github.com/CleverRaven/Cataclysm-DDA/pull/75684))
@@ -64,7 +65,6 @@
 * add loudness multiplier for gunmods ([#75546](https://github.com/CleverRaven/Cataclysm-DDA/pull/75546))
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
-* Tacoma doctor can't do bionic ([#75463](https://github.com/CleverRaven/Cataclysm-DDA/pull/75463))
 * NECC mission description clarifications ([#75493](https://github.com/CleverRaven/Cataclysm-DDA/pull/75493))
 * Allow tileset connections for overmap water tiles ([#75494](https://github.com/CleverRaven/Cataclysm-DDA/pull/75494))
 * rebalance beverage quench based on oral hydration index ([#75498](https://github.com/CleverRaven/Cataclysm-DDA/pull/75498))
