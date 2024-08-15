@@ -1,3 +1,5 @@
+* Vision granularity audit: Military (or just FEMA Camps) ([#75645](https://github.com/CleverRaven/Cataclysm-DDA/pull/75645))
+* Allow ebooks in read command ([#75660](https://github.com/CleverRaven/Cataclysm-DDA/pull/75660))
 
 ---
 
@@ -66,7 +68,6 @@
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
 * Tacoma doctor can't do bionic ([#75463](https://github.com/CleverRaven/Cataclysm-DDA/pull/75463))
-* [MoM] Make Neuro-Acceleration concentration (for self) ([#75457](https://github.com/CleverRaven/Cataclysm-DDA/pull/75457))
 * NECC mission description clarifications ([#75493](https://github.com/CleverRaven/Cataclysm-DDA/pull/75493))
 * Allow tileset connections for overmap water tiles ([#75494](https://github.com/CleverRaven/Cataclysm-DDA/pull/75494))
 * rebalance beverage quench based on oral hydration index ([#75498](https://github.com/CleverRaven/Cataclysm-DDA/pull/75498))
@@ -217,4 +218,3 @@
 * [MoM] Move Trick of the Light to concentration ([#75469](https://github.com/CleverRaven/Cataclysm-DDA/pull/75469))
 * Cramped space doesn't prevent sleep ([#75470](https://github.com/CleverRaven/Cataclysm-DDA/pull/75470))
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
-* Show variant tiles for overmap vision levels ([#75456](https://github.com/CleverRaven/Cataclysm-DDA/pull/75456))
