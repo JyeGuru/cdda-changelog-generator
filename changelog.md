@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-08-15-0314 ([9883075](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-15-0314))
+
+* Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
 * Clean up deagle conversion kits ([#75644](https://github.com/CleverRaven/Cataclysm-DDA/pull/75644))
 * [MoM] Nether-void edits ([#75654](https://github.com/CleverRaven/Cataclysm-DDA/pull/75654))
 * Active grenades don't spawn as duds ([#75662](https://github.com/CleverRaven/Cataclysm-DDA/pull/75662))
@@ -178,7 +184,6 @@
 #### Cataclysm-DDA experimental build 2024-08-09-0203 ([61e0526](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-09-0203))
 
 * Yet more item disassembly adjustments ([#75486](https://github.com/CleverRaven/Cataclysm-DDA/pull/75486))
-* Some item category changes + Vegan gummy candy renaming ([#75455](https://github.com/CleverRaven/Cataclysm-DDA/pull/75455))
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
 
 ---
@@ -206,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2024-08-07-2347 ([162e722](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-07-2347))
 
 * [MoM] Make Veil of Light concentration ([#75503](https://github.com/CleverRaven/Cataclysm-DDA/pull/75503))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-07-0555 ([293f801](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-07-0555))
-
 * Rename Psychopath trait in a few places ([#75481](https://github.com/CleverRaven/Cataclysm-DDA/pull/75481))
 * replace magiclysm enchanted base items with tempered version ([#75483](https://github.com/CleverRaven/Cataclysm-DDA/pull/75483))
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time ([#75474](https://github.com/CleverRaven/Cataclysm-DDA/pull/75474))
