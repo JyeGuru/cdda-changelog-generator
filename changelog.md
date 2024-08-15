@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-15-0735 ([238454f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-0735))
+
 * [MoM] Powers should not be directly teachable ([#75665](https://github.com/CleverRaven/Cataclysm-DDA/pull/75665))
 * Typo Fixes ([#75656](https://github.com/CleverRaven/Cataclysm-DDA/pull/75656))
 * provide a desired_bounds for the vehicle appliance interaction menu ([#75692](https://github.com/CleverRaven/Cataclysm-DDA/pull/75692))
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-08-08-1605 ([a4755e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-08-1605))
 
 * Fix typo in Megafauna's Zebras ([#75508](https://github.com/CleverRaven/Cataclysm-DDA/pull/75508))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-08-0228 ([a901bcc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-08-0228))
-
 * Make electrons not drop from the batteries ([#75506](https://github.com/CleverRaven/Cataclysm-DDA/pull/75506))
 * Remove Superglue Recipe ([#75492](https://github.com/CleverRaven/Cataclysm-DDA/pull/75492))
 * make magiclysm/xedra evolved modded weapons useable by practice recipes ([#75491](https://github.com/CleverRaven/Cataclysm-DDA/pull/75491))
