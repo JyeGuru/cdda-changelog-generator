@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-15-0025 (207d942)
 * [MoM] Move Blinding Radiance to concentration (#75653)
 
 Cataclysm-DDA experimental build 2024-08-14-2135 (9a18322)
@@ -128,8 +130,6 @@ Cataclysm-DDA experimental build 2024-08-07-2347 (162e722)
 
 Cataclysm-DDA experimental build 2024-08-07-0555 (293f801)
 * Rename Psychopath trait in a few places (#75481)
-
-Cataclysm-DDA experimental build 2024-08-06-2324 (822c4ee)
 * replace magiclysm enchanted base items with tempered version (#75483)
 * [MoM] Make Oxygen Absorption effect visible  (#75450)
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time (#75474)
