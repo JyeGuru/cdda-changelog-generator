@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-15-1712 (f77e07e)
+* Allow operand number formats on g++14 (#75690)
+
 Cataclysm-DDA experimental build 2024-08-15-0735 (238454f)
 * [MoM] Powers should not be directly teachable (#75665)
 * Typo Fixes (#75656)
@@ -128,8 +131,6 @@ Cataclysm-DDA experimental build 2024-08-09-1521 (9b2ac1a)
 Cataclysm-DDA experimental build 2024-08-09-0203 (61e0526)
 * Yet more item disassembly adjustments (#75486)
 * add screenshots game (#75524)
-
-Cataclysm-DDA experimental build 2024-08-08-1605 (a4755e0)
 * Fix typo in Megafauna's Zebras (#75508)
 * Make electrons not drop from the batteries (#75506)
 * Remove Superglue Recipe (#75492)
@@ -138,5 +139,4 @@ Cataclysm-DDA experimental build 2024-08-08-1605 (a4755e0)
 * Rename Psychopath trait in a few places (#75481)
 * replace magiclysm enchanted base items with tempered version (#75483)
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time (#75474)
-* [MoM] Move Trick of the Light to concentration (#75469)
 * Cramped space doesn't prevent sleep (#75470)

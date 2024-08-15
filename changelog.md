@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-15-1712 ([f77e07e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-1712))
+
+* Allow operand number formats on g++14 ([#75690](https://github.com/CleverRaven/Cataclysm-DDA/pull/75690))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-15-0735 ([238454f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-0735))
 
 * [MoM] Powers should not be directly teachable ([#75665](https://github.com/CleverRaven/Cataclysm-DDA/pull/75665))
@@ -194,11 +200,6 @@
 
 * Yet more item disassembly adjustments ([#75486](https://github.com/CleverRaven/Cataclysm-DDA/pull/75486))
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-08-1605 ([a4755e0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-08-1605))
-
 * Fix typo in Megafauna's Zebras ([#75508](https://github.com/CleverRaven/Cataclysm-DDA/pull/75508))
 * Make electrons not drop from the batteries ([#75506](https://github.com/CleverRaven/Cataclysm-DDA/pull/75506))
 * Remove Superglue Recipe ([#75492](https://github.com/CleverRaven/Cataclysm-DDA/pull/75492))
@@ -207,5 +208,4 @@
 * Rename Psychopath trait in a few places ([#75481](https://github.com/CleverRaven/Cataclysm-DDA/pull/75481))
 * replace magiclysm enchanted base items with tempered version ([#75483](https://github.com/CleverRaven/Cataclysm-DDA/pull/75483))
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time ([#75474](https://github.com/CleverRaven/Cataclysm-DDA/pull/75474))
-* [MoM] Move Trick of the Light to concentration ([#75469](https://github.com/CleverRaven/Cataclysm-DDA/pull/75469))
 * Cramped space doesn't prevent sleep ([#75470](https://github.com/CleverRaven/Cataclysm-DDA/pull/75470))
