@@ -1,3 +1,4 @@
+* [MoM] Powers should not be directly teachable ([#75665](https://github.com/CleverRaven/Cataclysm-DDA/pull/75665))
 * Typo Fixes ([#75656](https://github.com/CleverRaven/Cataclysm-DDA/pull/75656))
 * provide a desired_bounds for the vehicle appliance interaction menu ([#75692](https://github.com/CleverRaven/Cataclysm-DDA/pull/75692))
 * Update otherworldly measuring device power draw ([#75683](https://github.com/CleverRaven/Cataclysm-DDA/pull/75683))
@@ -188,12 +189,6 @@
 
 * Yet more item disassembly adjustments ([#75486](https://github.com/CleverRaven/Cataclysm-DDA/pull/75486))
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-08-1855 ([643bab3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-08-1855))
-
-* Remove unnecessary damage types ([#75464](https://github.com/CleverRaven/Cataclysm-DDA/pull/75464))
 
 ---
 

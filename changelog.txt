@@ -1,3 +1,4 @@
+* [MoM] Powers should not be directly teachable (#75665)
 * Typo Fixes (#75656)
 * provide a desired_bounds for the vehicle appliance interaction menu (#75692)
 * Update otherworldly measuring device power draw (#75683)
@@ -125,9 +126,6 @@ Cataclysm-DDA experimental build 2024-08-09-1521 (9b2ac1a)
 Cataclysm-DDA experimental build 2024-08-09-0203 (61e0526)
 * Yet more item disassembly adjustments (#75486)
 * add screenshots game (#75524)
-
-Cataclysm-DDA experimental build 2024-08-08-1855 (643bab3)
-* Remove unnecessary damage types (#75464)
 
 Cataclysm-DDA experimental build 2024-08-08-1605 (a4755e0)
 * Fix typo in Megafauna's Zebras (#75508)
