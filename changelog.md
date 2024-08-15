@@ -1,3 +1,12 @@
+* Clean up deagle conversion kits ([#75644](https://github.com/CleverRaven/Cataclysm-DDA/pull/75644))
+* [MoM] Nether-void edits ([#75654](https://github.com/CleverRaven/Cataclysm-DDA/pull/75654))
+* Active grenades don't spawn as duds ([#75662](https://github.com/CleverRaven/Cataclysm-DDA/pull/75662))
+* NPCs can use C4 ([#75668](https://github.com/CleverRaven/Cataclysm-DDA/pull/75668))
+* Mutinous NPCs no longer follower your rules ([#75670](https://github.com/CleverRaven/Cataclysm-DDA/pull/75670))
+* Expose new faction values to math ([#75672](https://github.com/CleverRaven/Cataclysm-DDA/pull/75672))
+* [Xedra Evolved] Add Purifying the Air sylph spell ([#75677](https://github.com/CleverRaven/Cataclysm-DDA/pull/75677))
+* Make scripted unique NPC spawns unavailable as random spawns ([#75681](https://github.com/CleverRaven/Cataclysm-DDA/pull/75681))
+* I just pulled the Draco out the Rari ([#75633](https://github.com/CleverRaven/Cataclysm-DDA/pull/75633))
 
 ---
 
@@ -52,8 +61,6 @@
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
 * Tacoma doctor can't do bionic ([#75463](https://github.com/CleverRaven/Cataclysm-DDA/pull/75463))
 * [MoM] Make Neuro-Acceleration concentration (for self) ([#75457](https://github.com/CleverRaven/Cataclysm-DDA/pull/75457))
-* Vanilla NPCs do not rely on your bank account anymore ([#75444](https://github.com/CleverRaven/Cataclysm-DDA/pull/75444))
-* Allow CVD machine to coat iron weapons ([#75451](https://github.com/CleverRaven/Cataclysm-DDA/pull/75451))
 * NECC mission description clarifications ([#75493](https://github.com/CleverRaven/Cataclysm-DDA/pull/75493))
 * Allow tileset connections for overmap water tiles ([#75494](https://github.com/CleverRaven/Cataclysm-DDA/pull/75494))
 * rebalance beverage quench based on oral hydration index ([#75498](https://github.com/CleverRaven/Cataclysm-DDA/pull/75498))
@@ -206,14 +213,8 @@
 
 * Rename Psychopath trait in a few places ([#75481](https://github.com/CleverRaven/Cataclysm-DDA/pull/75481))
 * replace magiclysm enchanted base items with tempered version ([#75483](https://github.com/CleverRaven/Cataclysm-DDA/pull/75483))
-* [MoM] Make Oxygen Absorption effect visible  ([#75450](https://github.com/CleverRaven/Cataclysm-DDA/pull/75450))
 * [MoM] increase Flame Immunity heat resist so you're actually immune to fire for real this time ([#75474](https://github.com/CleverRaven/Cataclysm-DDA/pull/75474))
 * [MoM] Move Trick of the Light to concentration ([#75469](https://github.com/CleverRaven/Cataclysm-DDA/pull/75469))
 * Cramped space doesn't prevent sleep ([#75470](https://github.com/CleverRaven/Cataclysm-DDA/pull/75470))
 * Fix characters at the wrong level ([#75459](https://github.com/CleverRaven/Cataclysm-DDA/pull/75459))
-* Prevent phantom "cramped space" on empty tiles ([#75445](https://github.com/CleverRaven/Cataclysm-DDA/pull/75445))
-* allow map_cursor to be made from abs pos ([#75449](https://github.com/CleverRaven/Cataclysm-DDA/pull/75449))
-* Prevent negative array index for floor_cache ([#75453](https://github.com/CleverRaven/Cataclysm-DDA/pull/75453))
 * Show variant tiles for overmap vision levels ([#75456](https://github.com/CleverRaven/Cataclysm-DDA/pull/75456))
-* Remove block from F-S fighting knife ([#75452](https://github.com/CleverRaven/Cataclysm-DDA/pull/75452))
-* Use CC-Sounds as default soundpack if it's present on first launch ([#75447](https://github.com/CleverRaven/Cataclysm-DDA/pull/75447))
