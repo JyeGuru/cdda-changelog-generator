@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-16-0646 ([0b8d7ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-0646))
+
 * Superglue audit ([#75682](https://github.com/CleverRaven/Cataclysm-DDA/pull/75682))
 * Prevent segfault when refitting item in spillable container ([#75687](https://github.com/CleverRaven/Cataclysm-DDA/pull/75687))
 * Espadrilles are not armor ([#75700](https://github.com/CleverRaven/Cataclysm-DDA/pull/75700))
@@ -207,11 +212,6 @@
 #### Cataclysm-DDA experimental build 2024-08-10-1416 ([c50cb75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-10-1416))
 
 * max amount of hp can't be less than 1 ([#75537](https://github.com/CleverRaven/Cataclysm-DDA/pull/75537))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-09-1521 ([9b2ac1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-09-1521))
-
 * Plain color t-shirts ([#75526](https://github.com/CleverRaven/Cataclysm-DDA/pull/75526))
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
 * Fix typo in Megafauna's Zebras ([#75508](https://github.com/CleverRaven/Cataclysm-DDA/pull/75508))
