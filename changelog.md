@@ -1,4 +1,12 @@
+* Superglue audit ([#75682](https://github.com/CleverRaven/Cataclysm-DDA/pull/75682))
+* Prevent segfault when refitting item in spillable container ([#75687](https://github.com/CleverRaven/Cataclysm-DDA/pull/75687))
+* Espadrilles are not armor ([#75700](https://github.com/CleverRaven/Cataclysm-DDA/pull/75700))
 * fungal infected ferals have lower speed ([#75694](https://github.com/CleverRaven/Cataclysm-DDA/pull/75694))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-16-0313 ([d06c2d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-0313))
+
 * Make debug Mjollnir unbreakable ([#75706](https://github.com/CleverRaven/Cataclysm-DDA/pull/75706))
 
 ---
@@ -205,17 +213,9 @@
 #### Cataclysm-DDA experimental build 2024-08-09-1521 ([9b2ac1a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-09-1521))
 
 * Plain color t-shirts ([#75526](https://github.com/CleverRaven/Cataclysm-DDA/pull/75526))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-09-0203 ([61e0526](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-09-0203))
-
-* Yet more item disassembly adjustments ([#75486](https://github.com/CleverRaven/Cataclysm-DDA/pull/75486))
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
 * Fix typo in Megafauna's Zebras ([#75508](https://github.com/CleverRaven/Cataclysm-DDA/pull/75508))
 * Make electrons not drop from the batteries ([#75506](https://github.com/CleverRaven/Cataclysm-DDA/pull/75506))
 * Remove Superglue Recipe ([#75492](https://github.com/CleverRaven/Cataclysm-DDA/pull/75492))
 * make magiclysm/xedra evolved modded weapons useable by practice recipes ([#75491](https://github.com/CleverRaven/Cataclysm-DDA/pull/75491))
 * [MoM] Make Veil of Light concentration ([#75503](https://github.com/CleverRaven/Cataclysm-DDA/pull/75503))
-* Rename Psychopath trait in a few places ([#75481](https://github.com/CleverRaven/Cataclysm-DDA/pull/75481))
-* replace magiclysm enchanted base items with tempered version ([#75483](https://github.com/CleverRaven/Cataclysm-DDA/pull/75483))
