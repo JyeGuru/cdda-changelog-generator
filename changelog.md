@@ -1,3 +1,12 @@
+* [Sky Island] Add Warped Pond craft ([#75713](https://github.com/CleverRaven/Cataclysm-DDA/pull/75713))
+* Throw out the kitchen cupboard out of ``bungalow04``'s bedroom ([#75721](https://github.com/CleverRaven/Cataclysm-DDA/pull/75721))
+* wrap the text in the butchery menu ([#75733](https://github.com/CleverRaven/Cataclysm-DDA/pull/75733))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-16-2012 ([d5066b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-2012))
+
+* Make Frog Eyes neutral ([#75729](https://github.com/CleverRaven/Cataclysm-DDA/pull/75729))
 
 ---
 
@@ -108,8 +117,6 @@
 * add loudness multiplier for gunmods ([#75546](https://github.com/CleverRaven/Cataclysm-DDA/pull/75546))
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
-* NECC mission description clarifications ([#75493](https://github.com/CleverRaven/Cataclysm-DDA/pull/75493))
-* Allow tileset connections for overmap water tiles ([#75494](https://github.com/CleverRaven/Cataclysm-DDA/pull/75494))
 * rebalance beverage quench based on oral hydration index ([#75498](https://github.com/CleverRaven/Cataclysm-DDA/pull/75498))
 * Add EoC effect that return closest city ([#75510](https://github.com/CleverRaven/Cataclysm-DDA/pull/75510))
 * Add `CLIMB_FLYING` flag, implement it in Magiclysm, MoM and Xedra Evolved ([#75515](https://github.com/CleverRaven/Cataclysm-DDA/pull/75515))
@@ -206,16 +213,9 @@
 #### Cataclysm-DDA experimental build 2024-08-10-2021 ([e240f7c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-10-2021))
 
 * drystone walls support roofs ([#75531](https://github.com/CleverRaven/Cataclysm-DDA/pull/75531))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-10-1416 ([c50cb75](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-10-1416))
-
 * max amount of hp can't be less than 1 ([#75537](https://github.com/CleverRaven/Cataclysm-DDA/pull/75537))
 * Plain color t-shirts ([#75526](https://github.com/CleverRaven/Cataclysm-DDA/pull/75526))
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
 * Fix typo in Megafauna's Zebras ([#75508](https://github.com/CleverRaven/Cataclysm-DDA/pull/75508))
 * Make electrons not drop from the batteries ([#75506](https://github.com/CleverRaven/Cataclysm-DDA/pull/75506))
-* Remove Superglue Recipe ([#75492](https://github.com/CleverRaven/Cataclysm-DDA/pull/75492))
-* make magiclysm/xedra evolved modded weapons useable by practice recipes ([#75491](https://github.com/CleverRaven/Cataclysm-DDA/pull/75491))
 * [MoM] Make Veil of Light concentration ([#75503](https://github.com/CleverRaven/Cataclysm-DDA/pull/75503))
