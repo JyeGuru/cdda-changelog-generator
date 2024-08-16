@@ -1,3 +1,4 @@
+* Make debug Mjollnir unbreakable ([#75706](https://github.com/CleverRaven/Cataclysm-DDA/pull/75706))
 
 ---
 
@@ -142,7 +143,6 @@
 * get the electric hair trimmer to only use one charge ([#75518](https://github.com/CleverRaven/Cataclysm-DDA/pull/75518))
 * Remove bonus items from naked and afraid ([#75533](https://github.com/CleverRaven/Cataclysm-DDA/pull/75533))
 * Bugfix for Vehicles Incorrectly Displacing Water Creatures ([#75554](https://github.com/CleverRaven/Cataclysm-DDA/pull/75554))
-* Update e_logs.json ([#75476](https://github.com/CleverRaven/Cataclysm-DDA/pull/75476))
 * [Sky Island] Add statue dialogue to let you repeat construction stages ([#75552](https://github.com/CleverRaven/Cataclysm-DDA/pull/75552))
 * Update some lore for the New England Community Church ([#75582](https://github.com/CleverRaven/Cataclysm-DDA/pull/75582))
 
