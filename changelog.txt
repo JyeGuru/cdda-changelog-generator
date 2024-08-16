@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-16-2325 (a0bc244)
 * [Sky Island] Add Warped Pond craft (#75713)
 * Throw out the kitchen cupboard out of ``bungalow04``'s bedroom (#75721)
 * wrap the text in the butchery menu (#75733)
@@ -135,8 +137,6 @@ Cataclysm-DDA experimental build 2024-08-11-0615 (8d63411)
 
 Cataclysm-DDA experimental build 2024-08-10-2317 (e5033d9)
 * Google Maps (#75499)
-
-Cataclysm-DDA experimental build 2024-08-10-2021 (e240f7c)
 * drystone walls support roofs (#75531)
 * max amount of hp can't be less than 1 (#75537)
 * Plain color t-shirts (#75526)
