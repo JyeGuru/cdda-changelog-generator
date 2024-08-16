@@ -1,3 +1,4 @@
+* fungal infected ferals have lower speed ([#75694](https://github.com/CleverRaven/Cataclysm-DDA/pull/75694))
 * Make debug Mjollnir unbreakable ([#75706](https://github.com/CleverRaven/Cataclysm-DDA/pull/75706))
 
 ---
@@ -90,7 +91,6 @@
 
 * Fix for Carnivores being able to eat low-calorie veggies ([#75534](https://github.com/CleverRaven/Cataclysm-DDA/pull/75534))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
-* prevent spam of healing messages from WEAKNESS_TO_WATER ([#75480](https://github.com/CleverRaven/Cataclysm-DDA/pull/75480))
 * add garbage bags to evac shelter cleaning supplies ([#75516](https://github.com/CleverRaven/Cataclysm-DDA/pull/75516))
 * add loudness multiplier for gunmods ([#75546](https://github.com/CleverRaven/Cataclysm-DDA/pull/75546))
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))

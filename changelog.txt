@@ -1,3 +1,4 @@
+* fungal infected ferals have lower speed (#75694)
 * Make debug Mjollnir unbreakable (#75706)
 
 Cataclysm-DDA experimental build 2024-08-16-0001 (c72f9ef)
@@ -57,7 +58,6 @@ Cataclysm-DDA experimental build 2024-08-13-2223 (4bf90cd)
 Cataclysm-DDA experimental build 2024-08-13-0631 (b8dba37)
 * Fix for Carnivores being able to eat low-calorie veggies (#75534)
 * Fix dereference into an empty container (#75630)
-* prevent spam of healing messages from WEAKNESS_TO_WATER (#75480)
 * add garbage bags to evac shelter cleaning supplies (#75516)
 * add loudness multiplier for gunmods (#75546)
 * Start with a wallet (#75581)
