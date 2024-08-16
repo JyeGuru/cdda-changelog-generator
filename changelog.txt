@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-16-0001 (c72f9ef)
 * Keep uilist menu items lined up with each other even if some do not have hotkeys (#75696)
 
 Cataclysm-DDA experimental build 2024-08-15-2050 (a82f380)

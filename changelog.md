@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-16-0001 ([c72f9ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-0001))
+
 * Keep uilist menu items lined up with each other even if some do not have hotkeys ([#75696](https://github.com/CleverRaven/Cataclysm-DDA/pull/75696))
 
 ---
