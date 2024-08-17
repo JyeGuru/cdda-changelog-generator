@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-17-0508 (a83322d)
+* fix desert region mod: adds missing see_cost (#75727)
+
 Cataclysm-DDA experimental build 2024-08-16-2325 (a0bc244)
 * [Sky Island] Add Warped Pond craft (#75713)
 * Throw out the kitchen cupboard out of ``bungalow04``'s bedroom (#75721)
@@ -54,7 +57,6 @@ Cataclysm-DDA experimental build 2024-08-15-0025 (207d942)
 Cataclysm-DDA experimental build 2024-08-14-2135 (9a18322)
 * Dial down the amount of charges for beginner practice recipe (#75635)
 * fix weight of huge_atomic_battery_cell (#75505)
-* Exodii mission and text style fixes (#75495)
 * move Autodoc Specialist to Bionic Professions (#75496)
 * Fix typo in Megafauna giant horses mf_domestic.json (#75509)
 * Added mashed potatoes (#75511)
@@ -134,8 +136,6 @@ Cataclysm-DDA experimental build 2024-08-11-0857 (2d4e043)
 
 Cataclysm-DDA experimental build 2024-08-11-0615 (8d63411)
 * [MoM] Update Nether Attunement more frequently (#75580)
-
-Cataclysm-DDA experimental build 2024-08-10-2317 (e5033d9)
 * Google Maps (#75499)
 * drystone walls support roofs (#75531)
 * max amount of hp can't be less than 1 (#75537)

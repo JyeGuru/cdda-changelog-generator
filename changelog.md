@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-17-0508 ([a83322d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-0508))
+
+* fix desert region mod: adds missing see_cost ([#75727](https://github.com/CleverRaven/Cataclysm-DDA/pull/75727))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-16-2325 ([a0bc244](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-2325))
 
 * [Sky Island] Add Warped Pond craft ([#75713](https://github.com/CleverRaven/Cataclysm-DDA/pull/75713))
@@ -90,7 +96,6 @@
 
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
 * fix weight of huge_atomic_battery_cell ([#75505](https://github.com/CleverRaven/Cataclysm-DDA/pull/75505))
-* Exodii mission and text style fixes ([#75495](https://github.com/CleverRaven/Cataclysm-DDA/pull/75495))
 * move Autodoc Specialist to Bionic Professions ([#75496](https://github.com/CleverRaven/Cataclysm-DDA/pull/75496))
 * Fix typo in Megafauna giant horses mf_domestic.json ([#75509](https://github.com/CleverRaven/Cataclysm-DDA/pull/75509))
 * Added mashed potatoes ([#75511](https://github.com/CleverRaven/Cataclysm-DDA/pull/75511))
@@ -206,11 +211,6 @@
 #### Cataclysm-DDA experimental build 2024-08-11-0615 ([8d63411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-11-0615))
 
 * [MoM] Update Nether Attunement more frequently ([#75580](https://github.com/CleverRaven/Cataclysm-DDA/pull/75580))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-10-2317 ([e5033d9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-10-2317))
-
 * Google Maps ([#75499](https://github.com/CleverRaven/Cataclysm-DDA/pull/75499))
 * drystone walls support roofs ([#75531](https://github.com/CleverRaven/Cataclysm-DDA/pull/75531))
 * max amount of hp can't be less than 1 ([#75537](https://github.com/CleverRaven/Cataclysm-DDA/pull/75537))
