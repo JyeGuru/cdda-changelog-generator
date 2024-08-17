@@ -1,3 +1,5 @@
+* Routine i18n updates on 17 August 2024 ([#75759](https://github.com/CleverRaven/Cataclysm-DDA/pull/75759))
+* Correct some word capitalization ([#75750](https://github.com/CleverRaven/Cataclysm-DDA/pull/75750))
 
 ---
 
@@ -132,7 +134,6 @@
 * add loudness multiplier for gunmods ([#75546](https://github.com/CleverRaven/Cataclysm-DDA/pull/75546))
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
-* rebalance beverage quench based on oral hydration index ([#75498](https://github.com/CleverRaven/Cataclysm-DDA/pull/75498))
 * Add EoC effect that return closest city ([#75510](https://github.com/CleverRaven/Cataclysm-DDA/pull/75510))
 * Add `CLIMB_FLYING` flag, implement it in Magiclysm, MoM and Xedra Evolved ([#75515](https://github.com/CleverRaven/Cataclysm-DDA/pull/75515))
 * [MoM] Switch armor overrides to armor extensions ([#75613](https://github.com/CleverRaven/Cataclysm-DDA/pull/75613))
@@ -211,7 +212,6 @@
 * Items inside integrated armor are not deleted if mutation is removed ([#75565](https://github.com/CleverRaven/Cataclysm-DDA/pull/75565))
 * [TropiCata] Velvet worm faction ([#75573](https://github.com/CleverRaven/Cataclysm-DDA/pull/75573))
 * [MoM] Update Nether Attunement more frequently ([#75580](https://github.com/CleverRaven/Cataclysm-DDA/pull/75580))
-* Google Maps ([#75499](https://github.com/CleverRaven/Cataclysm-DDA/pull/75499))
 * drystone walls support roofs ([#75531](https://github.com/CleverRaven/Cataclysm-DDA/pull/75531))
 * max amount of hp can't be less than 1 ([#75537](https://github.com/CleverRaven/Cataclysm-DDA/pull/75537))
 * Plain color t-shirts ([#75526](https://github.com/CleverRaven/Cataclysm-DDA/pull/75526))
