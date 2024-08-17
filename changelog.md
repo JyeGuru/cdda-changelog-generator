@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-17-1809 ([09a131e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-1809))
+
 * Routine i18n updates on 17 August 2024 ([#75759](https://github.com/CleverRaven/Cataclysm-DDA/pull/75759))
 * Correct some word capitalization ([#75750](https://github.com/CleverRaven/Cataclysm-DDA/pull/75750))
 
@@ -202,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2024-08-12-0211 ([01ab028](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-0211))
 
 * [MoM] Fix Heightened Reflexes ([#75603](https://github.com/CleverRaven/Cataclysm-DDA/pull/75603))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-11-0857 ([2d4e043](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-11-0857))
-
 * Small bark audit - fixing bark resource density ([#75550](https://github.com/CleverRaven/Cataclysm-DDA/pull/75550))
 * Clean up Megafauna wilderness spawns ([#75551](https://github.com/CleverRaven/Cataclysm-DDA/pull/75551))
 * Items inside integrated armor are not deleted if mutation is removed ([#75565](https://github.com/CleverRaven/Cataclysm-DDA/pull/75565))
