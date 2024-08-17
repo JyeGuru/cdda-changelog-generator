@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-17-1531 ([095e71d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-1531))
+
+* Remove beetle weakpoints from the woodlouse ([#75751](https://github.com/CleverRaven/Cataclysm-DDA/pull/75751))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-17-0508 ([a83322d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-0508))
 
 * fix desert region mod: adds missing see_cost ([#75727](https://github.com/CleverRaven/Cataclysm-DDA/pull/75727))
@@ -96,7 +102,6 @@
 
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
 * fix weight of huge_atomic_battery_cell ([#75505](https://github.com/CleverRaven/Cataclysm-DDA/pull/75505))
-* move Autodoc Specialist to Bionic Professions ([#75496](https://github.com/CleverRaven/Cataclysm-DDA/pull/75496))
 * Fix typo in Megafauna giant horses mf_domestic.json ([#75509](https://github.com/CleverRaven/Cataclysm-DDA/pull/75509))
 * Added mashed potatoes ([#75511](https://github.com/CleverRaven/Cataclysm-DDA/pull/75511))
 * Move npc relations to math ([#75529](https://github.com/CleverRaven/Cataclysm-DDA/pull/75529))
@@ -205,11 +210,6 @@
 * Clean up Megafauna wilderness spawns ([#75551](https://github.com/CleverRaven/Cataclysm-DDA/pull/75551))
 * Items inside integrated armor are not deleted if mutation is removed ([#75565](https://github.com/CleverRaven/Cataclysm-DDA/pull/75565))
 * [TropiCata] Velvet worm faction ([#75573](https://github.com/CleverRaven/Cataclysm-DDA/pull/75573))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-11-0615 ([8d63411](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-11-0615))
-
 * [MoM] Update Nether Attunement more frequently ([#75580](https://github.com/CleverRaven/Cataclysm-DDA/pull/75580))
 * Google Maps ([#75499](https://github.com/CleverRaven/Cataclysm-DDA/pull/75499))
 * drystone walls support roofs ([#75531](https://github.com/CleverRaven/Cataclysm-DDA/pull/75531))
