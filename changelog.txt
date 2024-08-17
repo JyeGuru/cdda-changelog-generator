@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-17-2035 (760786a)
 * [MoM] Fix Combat Dance recoil mod (#75748)
 
 Cataclysm-DDA experimental build 2024-08-17-1809 (09a131e)
@@ -130,8 +132,6 @@ Cataclysm-DDA experimental build 2024-08-12-0453 (44e0b36)
 * [MoM] Nether Attunement affects psionic calorie usage (#75596)
 * More energy density errata (#75557)
 * Invalidate weight carried cache when multidrop (#75560)
-
-Cataclysm-DDA experimental build 2024-08-12-0211 (01ab028)
 * [MoM] Fix Heightened Reflexes (#75603)
 * Small bark audit - fixing bark resource density (#75550)
 * Clean up Megafauna wilderness spawns (#75551)
