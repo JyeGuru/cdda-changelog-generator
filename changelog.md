@@ -1,3 +1,4 @@
+* [MoM] Fix Combat Dance recoil mod ([#75748](https://github.com/CleverRaven/Cataclysm-DDA/pull/75748))
 
 ---
 
@@ -218,4 +219,3 @@
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
 * Fix typo in Megafauna's Zebras ([#75508](https://github.com/CleverRaven/Cataclysm-DDA/pull/75508))
 * Make electrons not drop from the batteries ([#75506](https://github.com/CleverRaven/Cataclysm-DDA/pull/75506))
-* [MoM] Make Veil of Light concentration ([#75503](https://github.com/CleverRaven/Cataclysm-DDA/pull/75503))

@@ -1,3 +1,4 @@
+* [MoM] Fix Combat Dance recoil mod (#75748)
 
 Cataclysm-DDA experimental build 2024-08-17-1809 (09a131e)
 * Routine i18n updates on 17 August 2024 (#75759)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-08-12-0211 (01ab028)
 * add screenshots game (#75524)
 * Fix typo in Megafauna's Zebras (#75508)
 * Make electrons not drop from the batteries (#75506)
-* [MoM] Make Veil of Light concentration (#75503)
