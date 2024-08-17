@@ -1,3 +1,4 @@
+* Exclude PARROT special attack from monster difficulty calculations (#75716)
 
 Cataclysm-DDA experimental build 2024-08-17-2344 (207c865)
 * Remove Gyroscopic Stabilizer (#75749)
@@ -143,4 +144,3 @@ Cataclysm-DDA experimental build 2024-08-12-0753 (61cda3e)
 * Plain color t-shirts (#75526)
 * add screenshots game (#75524)
 * Fix typo in Megafauna's Zebras (#75508)
-* Make electrons not drop from the batteries (#75506)

@@ -1,3 +1,4 @@
+* Exclude PARROT special attack from monster difficulty calculations ([#75716](https://github.com/CleverRaven/Cataclysm-DDA/pull/75716))
 
 ---
 
@@ -218,4 +219,3 @@
 * Plain color t-shirts ([#75526](https://github.com/CleverRaven/Cataclysm-DDA/pull/75526))
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
 * Fix typo in Megafauna's Zebras ([#75508](https://github.com/CleverRaven/Cataclysm-DDA/pull/75508))
-* Make electrons not drop from the batteries ([#75506](https://github.com/CleverRaven/Cataclysm-DDA/pull/75506))
