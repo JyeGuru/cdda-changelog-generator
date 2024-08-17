@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-17-2344 ([207c865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-2344))
+
+* Remove Gyroscopic Stabilizer ([#75749](https://github.com/CleverRaven/Cataclysm-DDA/pull/75749))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-17-2035 ([760786a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-2035))
 
 * [MoM] Fix Combat Dance recoil mod ([#75748](https://github.com/CleverRaven/Cataclysm-DDA/pull/75748))
@@ -114,7 +120,6 @@
 #### Cataclysm-DDA experimental build 2024-08-14-2135 ([9a18322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-2135))
 
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
-* fix weight of huge_atomic_battery_cell ([#75505](https://github.com/CleverRaven/Cataclysm-DDA/pull/75505))
 * Fix typo in Megafauna giant horses mf_domestic.json ([#75509](https://github.com/CleverRaven/Cataclysm-DDA/pull/75509))
 * Added mashed potatoes ([#75511](https://github.com/CleverRaven/Cataclysm-DDA/pull/75511))
 * Move npc relations to math ([#75529](https://github.com/CleverRaven/Cataclysm-DDA/pull/75529))
@@ -192,11 +197,6 @@
 * Bugfix for Vehicles Incorrectly Displacing Water Creatures ([#75554](https://github.com/CleverRaven/Cataclysm-DDA/pull/75554))
 * [Sky Island] Add statue dialogue to let you repeat construction stages ([#75552](https://github.com/CleverRaven/Cataclysm-DDA/pull/75552))
 * Update some lore for the New England Community Church ([#75582](https://github.com/CleverRaven/Cataclysm-DDA/pull/75582))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-12-0453 ([44e0b36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-0453))
-
 * Do not pop up the message "There is nothing to pick up" ([#75564](https://github.com/CleverRaven/Cataclysm-DDA/pull/75564))
 * Pruning the old ``to-hit`` syntax - Part 3 ([#75569](https://github.com/CleverRaven/Cataclysm-DDA/pull/75569))
 * Make solar panels to work less effeiciently in a rainstorm ([#75595](https://github.com/CleverRaven/Cataclysm-DDA/pull/75595))
