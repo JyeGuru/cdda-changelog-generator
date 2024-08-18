@@ -1,5 +1,9 @@
+* Added validation of mapgen weight ([#75770](https://github.com/CleverRaven/Cataclysm-DDA/pull/75770))
+* wrap the descriptions in the EOC selector menu ([#75790](https://github.com/CleverRaven/Cataclysm-DDA/pull/75790))
+* Move ``recipe_deconstruction.json`` to the uncraft folder ([#75797](https://github.com/CleverRaven/Cataclysm-DDA/pull/75797))
+* Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
+* Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
 * Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))
-*  EOD helmet radio is fixed ([#75553](https://github.com/CleverRaven/Cataclysm-DDA/pull/75553))
 
 ---
 
@@ -195,7 +199,6 @@
 * Tweak boiled bandages ([#75616](https://github.com/CleverRaven/Cataclysm-DDA/pull/75616))
 * Correct tail hook stock description ([#75623](https://github.com/CleverRaven/Cataclysm-DDA/pull/75623))
 * Make aim game toolkit recipes use 5 energy instead of 50 ([#75558](https://github.com/CleverRaven/Cataclysm-DDA/pull/75558))
-* Routine i18n updates on 10 August 2024 ([#75555](https://github.com/CleverRaven/Cataclysm-DDA/pull/75555))
 * Fix cottage cheese w/ savory veg also requiring fruit ([#75614](https://github.com/CleverRaven/Cataclysm-DDA/pull/75614))
 * Make solar car more rare ([#75617](https://github.com/CleverRaven/Cataclysm-DDA/pull/75617))
 * Fix typos ([#75585](https://github.com/CleverRaven/Cataclysm-DDA/pull/75585))
@@ -203,8 +206,6 @@
 * Fix tests failing to spawn gun show ([#75615](https://github.com/CleverRaven/Cataclysm-DDA/pull/75615))
 * Add Maximize build space action to build job ([#75576](https://github.com/CleverRaven/Cataclysm-DDA/pull/75576))
 * Weekly Changelog 2024-08-05 to 2024-08-12 ([#75611](https://github.com/CleverRaven/Cataclysm-DDA/pull/75611))
-* Bugfix for Vehicles Incorrectly Displacing Water Creatures ([#75554](https://github.com/CleverRaven/Cataclysm-DDA/pull/75554))
-* [Sky Island] Add statue dialogue to let you repeat construction stages ([#75552](https://github.com/CleverRaven/Cataclysm-DDA/pull/75552))
 * Update some lore for the New England Community Church ([#75582](https://github.com/CleverRaven/Cataclysm-DDA/pull/75582))
 * Do not pop up the message "There is nothing to pick up" ([#75564](https://github.com/CleverRaven/Cataclysm-DDA/pull/75564))
 * Pruning the old ``to-hit`` syntax - Part 3 ([#75569](https://github.com/CleverRaven/Cataclysm-DDA/pull/75569))
@@ -214,7 +215,6 @@
 * [Isolation Protocol] Fix Hypocrit's Oath perk ([#75610](https://github.com/CleverRaven/Cataclysm-DDA/pull/75610))
 * Remove XS/XXXL traits from the player display ([#75612](https://github.com/CleverRaven/Cataclysm-DDA/pull/75612))
 * [MoM] Nether Attunement affects psionic calorie usage ([#75596](https://github.com/CleverRaven/Cataclysm-DDA/pull/75596))
-* More energy density errata ([#75557](https://github.com/CleverRaven/Cataclysm-DDA/pull/75557))
 * Invalidate weight carried cache when multidrop ([#75560](https://github.com/CleverRaven/Cataclysm-DDA/pull/75560))
 * [MoM] Fix Heightened Reflexes ([#75603](https://github.com/CleverRaven/Cataclysm-DDA/pull/75603))
 * Items inside integrated armor are not deleted if mutation is removed ([#75565](https://github.com/CleverRaven/Cataclysm-DDA/pull/75565))
