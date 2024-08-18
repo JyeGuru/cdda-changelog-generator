@@ -1,3 +1,4 @@
+* Support for multiple randomized field sprite variants ([#75636](https://github.com/CleverRaven/Cataclysm-DDA/pull/75636))
 * [EOC] Support string user input in EOC (similar to num_input in `math`) ([#75675](https://github.com/CleverRaven/Cataclysm-DDA/pull/75675))
 * draw_colored_text should “draw” an empty line if given an empty string ([#75697](https://github.com/CleverRaven/Cataclysm-DDA/pull/75697))
 * Prevent crash from using invalidated explosion data ([#75711](https://github.com/CleverRaven/Cataclysm-DDA/pull/75711))
@@ -216,7 +217,6 @@
 * Fix typos ([#75585](https://github.com/CleverRaven/Cataclysm-DDA/pull/75585))
 * Fix few potential issues in google maps ([#75590](https://github.com/CleverRaven/Cataclysm-DDA/pull/75590))
 * Fix tests failing to spawn gun show ([#75615](https://github.com/CleverRaven/Cataclysm-DDA/pull/75615))
-* Add Maximize build space action to build job ([#75576](https://github.com/CleverRaven/Cataclysm-DDA/pull/75576))
 * Weekly Changelog 2024-08-05 to 2024-08-12 ([#75611](https://github.com/CleverRaven/Cataclysm-DDA/pull/75611))
 * Update some lore for the New England Community Church ([#75582](https://github.com/CleverRaven/Cataclysm-DDA/pull/75582))
 * Make solar panels to work less effeiciently in a rainstorm ([#75595](https://github.com/CleverRaven/Cataclysm-DDA/pull/75595))
