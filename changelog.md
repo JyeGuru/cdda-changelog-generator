@@ -1,3 +1,7 @@
+* [Tamable Wildlife] Allow the taming of chicks ([#75766](https://github.com/CleverRaven/Cataclysm-DDA/pull/75766))
+* Enchantments can affect monster luminance ([#75768](https://github.com/CleverRaven/Cataclysm-DDA/pull/75768))
+* [TropiCata] Flying bird audit ([#75769](https://github.com/CleverRaven/Cataclysm-DDA/pull/75769))
+* Allow speech to be relearnt in the dark ([#75710](https://github.com/CleverRaven/Cataclysm-DDA/pull/75710))
 * Exclude PARROT special attack from monster difficulty calculations ([#75716](https://github.com/CleverRaven/Cataclysm-DDA/pull/75716))
 
 ---
@@ -121,7 +125,6 @@
 #### Cataclysm-DDA experimental build 2024-08-14-2135 ([9a18322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-2135))
 
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
-* Fix typo in Megafauna giant horses mf_domestic.json ([#75509](https://github.com/CleverRaven/Cataclysm-DDA/pull/75509))
 * Added mashed potatoes ([#75511](https://github.com/CleverRaven/Cataclysm-DDA/pull/75511))
 * Move npc relations to math ([#75529](https://github.com/CleverRaven/Cataclysm-DDA/pull/75529))
 * Prevent div by zero crash in mana widget ([#75642](https://github.com/CleverRaven/Cataclysm-DDA/pull/75642))
@@ -151,7 +154,6 @@
 * add loudness multiplier for gunmods ([#75546](https://github.com/CleverRaven/Cataclysm-DDA/pull/75546))
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
-* Add EoC effect that return closest city ([#75510](https://github.com/CleverRaven/Cataclysm-DDA/pull/75510))
 * Add `CLIMB_FLYING` flag, implement it in Magiclysm, MoM and Xedra Evolved ([#75515](https://github.com/CleverRaven/Cataclysm-DDA/pull/75515))
 * [MoM] Switch armor overrides to armor extensions ([#75613](https://github.com/CleverRaven/Cataclysm-DDA/pull/75613))
 
@@ -185,12 +187,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-08-12-1249 ([467f08f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-1249))
-
-* rename zed_lieutenant.json to singularities.json as the naming scheme changed a while ago ([#75507](https://github.com/CleverRaven/Cataclysm-DDA/pull/75507))
-
----
-
 #### Cataclysm-DDA experimental build 2024-08-12-0753 ([61cda3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-0753))
 
 * get the electric hair trimmer to only use one charge ([#75518](https://github.com/CleverRaven/Cataclysm-DDA/pull/75518))
@@ -218,4 +214,3 @@
 * max amount of hp can't be less than 1 ([#75537](https://github.com/CleverRaven/Cataclysm-DDA/pull/75537))
 * Plain color t-shirts ([#75526](https://github.com/CleverRaven/Cataclysm-DDA/pull/75526))
 * add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
-* Fix typo in Megafauna's Zebras ([#75508](https://github.com/CleverRaven/Cataclysm-DDA/pull/75508))
