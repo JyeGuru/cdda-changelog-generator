@@ -1,3 +1,5 @@
+* Untool the wool staple ([#75719](https://github.com/CleverRaven/Cataclysm-DDA/pull/75719))
+* [Magiclysm] Update Restore Genetic Stability biomancer spell for new `MUT_INSTABILITY_MOD` effect ([#75746](https://github.com/CleverRaven/Cataclysm-DDA/pull/75746))
 * [Tamable Wildlife] Allow the taming of chicks ([#75766](https://github.com/CleverRaven/Cataclysm-DDA/pull/75766))
 * Enchantments can affect monster luminance ([#75768](https://github.com/CleverRaven/Cataclysm-DDA/pull/75768))
 * [TropiCata] Flying bird audit ([#75769](https://github.com/CleverRaven/Cataclysm-DDA/pull/75769))
@@ -125,7 +127,6 @@
 #### Cataclysm-DDA experimental build 2024-08-14-2135 ([9a18322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-2135))
 
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
-* Added mashed potatoes ([#75511](https://github.com/CleverRaven/Cataclysm-DDA/pull/75511))
 * Move npc relations to math ([#75529](https://github.com/CleverRaven/Cataclysm-DDA/pull/75529))
 * Prevent div by zero crash in mana widget ([#75642](https://github.com/CleverRaven/Cataclysm-DDA/pull/75642))
 
@@ -154,7 +155,6 @@
 * add loudness multiplier for gunmods ([#75546](https://github.com/CleverRaven/Cataclysm-DDA/pull/75546))
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
-* Add `CLIMB_FLYING` flag, implement it in Magiclysm, MoM and Xedra Evolved ([#75515](https://github.com/CleverRaven/Cataclysm-DDA/pull/75515))
 * [MoM] Switch armor overrides to armor extensions ([#75613](https://github.com/CleverRaven/Cataclysm-DDA/pull/75613))
 
 ---
