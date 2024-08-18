@@ -1,3 +1,4 @@
+* Category changes for a few items ([#75720](https://github.com/CleverRaven/Cataclysm-DDA/pull/75720))
 
 ---
 
@@ -156,7 +157,6 @@
 
 * Fix for Carnivores being able to eat low-calorie veggies ([#75534](https://github.com/CleverRaven/Cataclysm-DDA/pull/75534))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
-* add garbage bags to evac shelter cleaning supplies ([#75516](https://github.com/CleverRaven/Cataclysm-DDA/pull/75516))
 * add loudness multiplier for gunmods ([#75546](https://github.com/CleverRaven/Cataclysm-DDA/pull/75546))
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
