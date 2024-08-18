@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-18-1413 ([a1927ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-1413))
+
+* Adds the 1911-22 ([#75783](https://github.com/CleverRaven/Cataclysm-DDA/pull/75783))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-18-0509 ([1b5a260](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-0509))
 
 * Category changes for a few items ([#75720](https://github.com/CleverRaven/Cataclysm-DDA/pull/75720))
@@ -188,13 +194,7 @@
 * Fix few potential issues in google maps ([#75590](https://github.com/CleverRaven/Cataclysm-DDA/pull/75590))
 * Fix tests failing to spawn gun show ([#75615](https://github.com/CleverRaven/Cataclysm-DDA/pull/75615))
 * Add Maximize build space action to build job ([#75576](https://github.com/CleverRaven/Cataclysm-DDA/pull/75576))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-12-2112 ([54a7e23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-2112))
-
 * Weekly Changelog 2024-08-05 to 2024-08-12 ([#75611](https://github.com/CleverRaven/Cataclysm-DDA/pull/75611))
-* get the electric hair trimmer to only use one charge ([#75518](https://github.com/CleverRaven/Cataclysm-DDA/pull/75518))
 * Remove bonus items from naked and afraid ([#75533](https://github.com/CleverRaven/Cataclysm-DDA/pull/75533))
 * Bugfix for Vehicles Incorrectly Displacing Water Creatures ([#75554](https://github.com/CleverRaven/Cataclysm-DDA/pull/75554))
 * [Sky Island] Add statue dialogue to let you repeat construction stages ([#75552](https://github.com/CleverRaven/Cataclysm-DDA/pull/75552))
