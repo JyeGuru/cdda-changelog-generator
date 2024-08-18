@@ -4,6 +4,11 @@
 * Redo superglue description ([#75745](https://github.com/CleverRaven/Cataclysm-DDA/pull/75745))
 * Telescopic Eyes cbm cancels mesopic mutation ([#75740](https://github.com/CleverRaven/Cataclysm-DDA/pull/75740))
 * desert_region: fix too high weight, blacklist meadow and stream ([#75747](https://github.com/CleverRaven/Cataclysm-DDA/pull/75747))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-08-18-1525 ([1043de2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-18-1525))
+
 * Return to always treating hostile NPCs as being dangerous for 0.H ([#75781](https://github.com/CleverRaven/Cataclysm-DDA/pull/75781))
 * Return to always treating hostile NPCs as being dangerous (for 0.I) ([#75782](https://github.com/CleverRaven/Cataclysm-DDA/pull/75782))
 * Fif for dialog ([#75780](https://github.com/CleverRaven/Cataclysm-DDA/pull/75780))
@@ -180,11 +185,6 @@
 * Make aim game toolkit recipes use 5 energy instead of 50 ([#75558](https://github.com/CleverRaven/Cataclysm-DDA/pull/75558))
 * Routine i18n updates on 10 August 2024 ([#75555](https://github.com/CleverRaven/Cataclysm-DDA/pull/75555))
 * Fix cottage cheese w/ savory veg also requiring fruit ([#75614](https://github.com/CleverRaven/Cataclysm-DDA/pull/75614))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-12-2352 ([12bb7da](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-2352))
-
 * Make solar car more rare ([#75617](https://github.com/CleverRaven/Cataclysm-DDA/pull/75617))
 * Fix typos ([#75585](https://github.com/CleverRaven/Cataclysm-DDA/pull/75585))
 * Fix few potential issues in google maps ([#75590](https://github.com/CleverRaven/Cataclysm-DDA/pull/75590))
