@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-18-0509 ([1b5a260](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-0509))
+
 * Category changes for a few items ([#75720](https://github.com/CleverRaven/Cataclysm-DDA/pull/75720))
 
 ---
