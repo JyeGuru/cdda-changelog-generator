@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-18-1739 ([90b5cea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-1739))
+
 * Some nested recipe fixes ([#75701](https://github.com/CleverRaven/Cataclysm-DDA/pull/75701))
 * wrap the text in the martial arts selection window ([#75737](https://github.com/CleverRaven/Cataclysm-DDA/pull/75737))
 * Prevent crash from -1 array idx when searching zones ([#75739](https://github.com/CleverRaven/Cataclysm-DDA/pull/75739))

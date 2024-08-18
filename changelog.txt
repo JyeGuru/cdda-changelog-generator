@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-18-1739 (90b5cea)
 * Some nested recipe fixes (#75701)
 * wrap the text in the martial arts selection window (#75737)
 * Prevent crash from -1 array idx when searching zones (#75739)
