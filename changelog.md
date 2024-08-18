@@ -1,3 +1,6 @@
+* Some nested recipe fixes ([#75701](https://github.com/CleverRaven/Cataclysm-DDA/pull/75701))
+* wrap the text in the martial arts selection window ([#75737](https://github.com/CleverRaven/Cataclysm-DDA/pull/75737))
+* Prevent crash from -1 array idx when searching zones ([#75739](https://github.com/CleverRaven/Cataclysm-DDA/pull/75739))
 * Redo superglue description ([#75745](https://github.com/CleverRaven/Cataclysm-DDA/pull/75745))
 * Telescopic Eyes cbm cancels mesopic mutation ([#75740](https://github.com/CleverRaven/Cataclysm-DDA/pull/75740))
 * desert_region: fix too high weight, blacklist meadow and stream ([#75747](https://github.com/CleverRaven/Cataclysm-DDA/pull/75747))
@@ -168,16 +171,9 @@
 * Add myself to confirm-bug list ([#75646](https://github.com/CleverRaven/Cataclysm-DDA/pull/75646))
 * [MoM] Fix nether-void speed ([#75650](https://github.com/CleverRaven/Cataclysm-DDA/pull/75650))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
-* add loudness multiplier for gunmods ([#75546](https://github.com/CleverRaven/Cataclysm-DDA/pull/75546))
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
 * [MoM] Switch armor overrides to armor extensions ([#75613](https://github.com/CleverRaven/Cataclysm-DDA/pull/75613))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-13-0252 ([90c6136](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-13-0252))
-
-* I can't believe it's more item disassembly changes ([#75547](https://github.com/CleverRaven/Cataclysm-DDA/pull/75547))
 * Variantize shirts ([#75548](https://github.com/CleverRaven/Cataclysm-DDA/pull/75548))
 * Tweak boiled bandages ([#75616](https://github.com/CleverRaven/Cataclysm-DDA/pull/75616))
 * Correct tail hook stock description ([#75623](https://github.com/CleverRaven/Cataclysm-DDA/pull/75623))
@@ -214,4 +210,3 @@
 * Items inside integrated armor are not deleted if mutation is removed ([#75565](https://github.com/CleverRaven/Cataclysm-DDA/pull/75565))
 * [TropiCata] Velvet worm faction ([#75573](https://github.com/CleverRaven/Cataclysm-DDA/pull/75573))
 * [MoM] Update Nether Attunement more frequently ([#75580](https://github.com/CleverRaven/Cataclysm-DDA/pull/75580))
-* max amount of hp can't be less than 1 ([#75537](https://github.com/CleverRaven/Cataclysm-DDA/pull/75537))
