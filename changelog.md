@@ -8,6 +8,11 @@
 * Move ``recipe_deconstruction.json`` to the uncraft folder ([#75797](https://github.com/CleverRaven/Cataclysm-DDA/pull/75797))
 * Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
 * Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-08-18-2238 ([17b493d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-18-2238))
+
 * Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))
 
 ---
