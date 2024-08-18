@@ -1,3 +1,11 @@
+* Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))
+*  EOD helmet radio is fixed ([#75553](https://github.com/CleverRaven/Cataclysm-DDA/pull/75553))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-18-2220 ([1af0453](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-2220))
+
+* Fixes Genetic Chaos gaining perks ([#75637](https://github.com/CleverRaven/Cataclysm-DDA/pull/75637))
 
 ---
 
@@ -184,7 +192,6 @@
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
 * [MoM] Switch armor overrides to armor extensions ([#75613](https://github.com/CleverRaven/Cataclysm-DDA/pull/75613))
-* Variantize shirts ([#75548](https://github.com/CleverRaven/Cataclysm-DDA/pull/75548))
 * Tweak boiled bandages ([#75616](https://github.com/CleverRaven/Cataclysm-DDA/pull/75616))
 * Correct tail hook stock description ([#75623](https://github.com/CleverRaven/Cataclysm-DDA/pull/75623))
 * Make aim game toolkit recipes use 5 energy instead of 50 ([#75558](https://github.com/CleverRaven/Cataclysm-DDA/pull/75558))
@@ -210,8 +217,6 @@
 * More energy density errata ([#75557](https://github.com/CleverRaven/Cataclysm-DDA/pull/75557))
 * Invalidate weight carried cache when multidrop ([#75560](https://github.com/CleverRaven/Cataclysm-DDA/pull/75560))
 * [MoM] Fix Heightened Reflexes ([#75603](https://github.com/CleverRaven/Cataclysm-DDA/pull/75603))
-* Small bark audit - fixing bark resource density ([#75550](https://github.com/CleverRaven/Cataclysm-DDA/pull/75550))
-* Clean up Megafauna wilderness spawns ([#75551](https://github.com/CleverRaven/Cataclysm-DDA/pull/75551))
 * Items inside integrated armor are not deleted if mutation is removed ([#75565](https://github.com/CleverRaven/Cataclysm-DDA/pull/75565))
 * [TropiCata] Velvet worm faction ([#75573](https://github.com/CleverRaven/Cataclysm-DDA/pull/75573))
 * [MoM] Update Nether Attunement more frequently ([#75580](https://github.com/CleverRaven/Cataclysm-DDA/pull/75580))
