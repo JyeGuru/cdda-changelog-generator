@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-18-0231 ([230bfc7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-0231))
+
 * Untool the wool staple ([#75719](https://github.com/CleverRaven/Cataclysm-DDA/pull/75719))
 * [Magiclysm] Update Restore Genetic Stability biomancer spell for new `MUT_INSTABILITY_MOD` effect ([#75746](https://github.com/CleverRaven/Cataclysm-DDA/pull/75746))
 * [Tamable Wildlife] Allow the taming of chicks ([#75766](https://github.com/CleverRaven/Cataclysm-DDA/pull/75766))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-08-12-2112 ([54a7e23](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-2112))
 
 * Weekly Changelog 2024-08-05 to 2024-08-12 ([#75611](https://github.com/CleverRaven/Cataclysm-DDA/pull/75611))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-12-0753 ([61cda3e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-12-0753))
-
 * get the electric hair trimmer to only use one charge ([#75518](https://github.com/CleverRaven/Cataclysm-DDA/pull/75518))
 * Remove bonus items from naked and afraid ([#75533](https://github.com/CleverRaven/Cataclysm-DDA/pull/75533))
 * Bugfix for Vehicles Incorrectly Displacing Water Creatures ([#75554](https://github.com/CleverRaven/Cataclysm-DDA/pull/75554))
