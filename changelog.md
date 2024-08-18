@@ -1,3 +1,5 @@
+* [EOC] Support string user input in EOC (similar to num_input in `math`) ([#75675](https://github.com/CleverRaven/Cataclysm-DDA/pull/75675))
+* draw_colored_text should “draw” an empty line if given an empty string ([#75697](https://github.com/CleverRaven/Cataclysm-DDA/pull/75697))
 * Prevent crash from using invalidated explosion data ([#75711](https://github.com/CleverRaven/Cataclysm-DDA/pull/75711))
 * Monster vision enchantment and evaluation ([#75753](https://github.com/CleverRaven/Cataclysm-DDA/pull/75753))
 * Homullus alchemy ([#75714](https://github.com/CleverRaven/Cataclysm-DDA/pull/75714))
@@ -224,5 +226,4 @@
 * Remove XS/XXXL traits from the player display ([#75612](https://github.com/CleverRaven/Cataclysm-DDA/pull/75612))
 * [MoM] Nether Attunement affects psionic calorie usage ([#75596](https://github.com/CleverRaven/Cataclysm-DDA/pull/75596))
 * [MoM] Fix Heightened Reflexes ([#75603](https://github.com/CleverRaven/Cataclysm-DDA/pull/75603))
-* [TropiCata] Velvet worm faction ([#75573](https://github.com/CleverRaven/Cataclysm-DDA/pull/75573))
 * [MoM] Update Nether Attunement more frequently ([#75580](https://github.com/CleverRaven/Cataclysm-DDA/pull/75580))
