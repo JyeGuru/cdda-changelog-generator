@@ -1,3 +1,10 @@
+* Redo superglue description ([#75745](https://github.com/CleverRaven/Cataclysm-DDA/pull/75745))
+* Telescopic Eyes cbm cancels mesopic mutation ([#75740](https://github.com/CleverRaven/Cataclysm-DDA/pull/75740))
+* desert_region: fix too high weight, blacklist meadow and stream ([#75747](https://github.com/CleverRaven/Cataclysm-DDA/pull/75747))
+* Return to always treating hostile NPCs as being dangerous for 0.H ([#75781](https://github.com/CleverRaven/Cataclysm-DDA/pull/75781))
+* Return to always treating hostile NPCs as being dangerous (for 0.I) ([#75782](https://github.com/CleverRaven/Cataclysm-DDA/pull/75782))
+* Fif for dialog ([#75780](https://github.com/CleverRaven/Cataclysm-DDA/pull/75780))
+* Allow cephalopods to gain the ability to eat, sleep underwater ([#75764](https://github.com/CleverRaven/Cataclysm-DDA/pull/75764))
 
 ---
 
@@ -144,7 +151,6 @@
 #### Cataclysm-DDA experimental build 2024-08-14-2135 ([9a18322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-2135))
 
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
-* Move npc relations to math ([#75529](https://github.com/CleverRaven/Cataclysm-DDA/pull/75529))
 * Prevent div by zero crash in mana widget ([#75642](https://github.com/CleverRaven/Cataclysm-DDA/pull/75642))
 
 ---
@@ -161,12 +167,6 @@
 * Reading maps will reveal previously partially revealed tiles ([#75641](https://github.com/CleverRaven/Cataclysm-DDA/pull/75641))
 * Add myself to confirm-bug list ([#75646](https://github.com/CleverRaven/Cataclysm-DDA/pull/75646))
 * [MoM] Fix nether-void speed ([#75650](https://github.com/CleverRaven/Cataclysm-DDA/pull/75650))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-13-0631 ([b8dba37](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-13-0631))
-
-* Fix for Carnivores being able to eat low-calorie veggies ([#75534](https://github.com/CleverRaven/Cataclysm-DDA/pull/75534))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
 * add loudness multiplier for gunmods ([#75546](https://github.com/CleverRaven/Cataclysm-DDA/pull/75546))
 * Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
@@ -195,7 +195,6 @@
 * Fix tests failing to spawn gun show ([#75615](https://github.com/CleverRaven/Cataclysm-DDA/pull/75615))
 * Add Maximize build space action to build job ([#75576](https://github.com/CleverRaven/Cataclysm-DDA/pull/75576))
 * Weekly Changelog 2024-08-05 to 2024-08-12 ([#75611](https://github.com/CleverRaven/Cataclysm-DDA/pull/75611))
-* Remove bonus items from naked and afraid ([#75533](https://github.com/CleverRaven/Cataclysm-DDA/pull/75533))
 * Bugfix for Vehicles Incorrectly Displacing Water Creatures ([#75554](https://github.com/CleverRaven/Cataclysm-DDA/pull/75554))
 * [Sky Island] Add statue dialogue to let you repeat construction stages ([#75552](https://github.com/CleverRaven/Cataclysm-DDA/pull/75552))
 * Update some lore for the New England Community Church ([#75582](https://github.com/CleverRaven/Cataclysm-DDA/pull/75582))
@@ -215,7 +214,4 @@
 * Items inside integrated armor are not deleted if mutation is removed ([#75565](https://github.com/CleverRaven/Cataclysm-DDA/pull/75565))
 * [TropiCata] Velvet worm faction ([#75573](https://github.com/CleverRaven/Cataclysm-DDA/pull/75573))
 * [MoM] Update Nether Attunement more frequently ([#75580](https://github.com/CleverRaven/Cataclysm-DDA/pull/75580))
-* drystone walls support roofs ([#75531](https://github.com/CleverRaven/Cataclysm-DDA/pull/75531))
 * max amount of hp can't be less than 1 ([#75537](https://github.com/CleverRaven/Cataclysm-DDA/pull/75537))
-* Plain color t-shirts ([#75526](https://github.com/CleverRaven/Cataclysm-DDA/pull/75526))
-* add screenshots game ([#75524](https://github.com/CleverRaven/Cataclysm-DDA/pull/75524))
