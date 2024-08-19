@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-19-0453 (8d3cb96)
 * Added flags and melee nerf in fishing.json (#75638)
 * AR Pistol Audit (#75757)
 * Support for multiple randomized field sprite variants (#75636)
@@ -124,8 +126,6 @@ Cataclysm-DDA experimental build 2024-08-14-2135 (9a18322)
 
 Cataclysm-DDA experimental build 2024-08-14-0103 (45f35ec)
 * [Xedra Evolved] Turn activated learn-recipe Paraclesian traits into Passive ones (#75629)
-
-Cataclysm-DDA experimental build 2024-08-13-2223 (4bf90cd)
 * Add Flathub download button and Flatpak manifest (#75625)
 * Reading maps will reveal previously partially revealed tiles (#75641)
 * Add myself to confirm-bug list (#75646)
