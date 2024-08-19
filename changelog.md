@@ -1,3 +1,7 @@
+* Backport #74092 ([#75821](https://github.com/CleverRaven/Cataclysm-DDA/pull/75821))
+* Backport #75560 ([#75824](https://github.com/CleverRaven/Cataclysm-DDA/pull/75824))
+* Backport #75662 ([#75826](https://github.com/CleverRaven/Cataclysm-DDA/pull/75826))
+* backport #75616 ([#75825](https://github.com/CleverRaven/Cataclysm-DDA/pull/75825))
 
 ---
 
@@ -210,18 +214,13 @@
 * Add myself to confirm-bug list ([#75646](https://github.com/CleverRaven/Cataclysm-DDA/pull/75646))
 * [MoM] Fix nether-void speed ([#75650](https://github.com/CleverRaven/Cataclysm-DDA/pull/75650))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
-* More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
 * [MoM] Switch armor overrides to armor extensions ([#75613](https://github.com/CleverRaven/Cataclysm-DDA/pull/75613))
 * Tweak boiled bandages ([#75616](https://github.com/CleverRaven/Cataclysm-DDA/pull/75616))
 * Correct tail hook stock description ([#75623](https://github.com/CleverRaven/Cataclysm-DDA/pull/75623))
 * Fix cottage cheese w/ savory veg also requiring fruit ([#75614](https://github.com/CleverRaven/Cataclysm-DDA/pull/75614))
 * Make solar car more rare ([#75617](https://github.com/CleverRaven/Cataclysm-DDA/pull/75617))
-* Fix typos ([#75585](https://github.com/CleverRaven/Cataclysm-DDA/pull/75585))
-* Fix few potential issues in google maps ([#75590](https://github.com/CleverRaven/Cataclysm-DDA/pull/75590))
 * Fix tests failing to spawn gun show ([#75615](https://github.com/CleverRaven/Cataclysm-DDA/pull/75615))
 * Weekly Changelog 2024-08-05 to 2024-08-12 ([#75611](https://github.com/CleverRaven/Cataclysm-DDA/pull/75611))
-* Make solar panels to work less effeiciently in a rainstorm ([#75595](https://github.com/CleverRaven/Cataclysm-DDA/pull/75595))
-* Add missing space ([#75588](https://github.com/CleverRaven/Cataclysm-DDA/pull/75588))
 * [Magiclysm] Fix hand antlers ([#75609](https://github.com/CleverRaven/Cataclysm-DDA/pull/75609))
 * [Isolation Protocol] Fix Hypocrit's Oath perk ([#75610](https://github.com/CleverRaven/Cataclysm-DDA/pull/75610))
 * Remove XS/XXXL traits from the player display ([#75612](https://github.com/CleverRaven/Cataclysm-DDA/pull/75612))
