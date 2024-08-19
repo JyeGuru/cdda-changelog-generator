@@ -1,4 +1,6 @@
 * Backport planters (#75832)
+
+Cataclysm-DDA experimental build 2024-08-19-2059 (b2d3edf)
 * No Summoned Undead corpse (#75806)
 
 Cataclysm-DDA 0.H release candidate 2024-08-19-1847 (7fa1599)

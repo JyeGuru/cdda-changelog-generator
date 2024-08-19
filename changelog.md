@@ -1,4 +1,9 @@
 * Backport planters ([#75832](https://github.com/CleverRaven/Cataclysm-DDA/pull/75832))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-19-2059 ([b2d3edf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-19-2059))
+
 * No Summoned Undead corpse ([#75806](https://github.com/CleverRaven/Cataclysm-DDA/pull/75806))
 
 ---
