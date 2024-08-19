@@ -1,3 +1,4 @@
+* Added flags and melee nerf in fishing.json ([#75638](https://github.com/CleverRaven/Cataclysm-DDA/pull/75638))
 * AR Pistol Audit ([#75757](https://github.com/CleverRaven/Cataclysm-DDA/pull/75757))
 * Support for multiple randomized field sprite variants ([#75636](https://github.com/CleverRaven/Cataclysm-DDA/pull/75636))
 * [EOC] Support string user input in EOC (similar to num_input in `math`) ([#75675](https://github.com/CleverRaven/Cataclysm-DDA/pull/75675))
@@ -208,7 +209,6 @@
 * Add myself to confirm-bug list ([#75646](https://github.com/CleverRaven/Cataclysm-DDA/pull/75646))
 * [MoM] Fix nether-void speed ([#75650](https://github.com/CleverRaven/Cataclysm-DDA/pull/75650))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
-* Start with a wallet ([#75581](https://github.com/CleverRaven/Cataclysm-DDA/pull/75581))
 * More uncraft/salvage adjustments ([#75584](https://github.com/CleverRaven/Cataclysm-DDA/pull/75584))
 * [MoM] Switch armor overrides to armor extensions ([#75613](https://github.com/CleverRaven/Cataclysm-DDA/pull/75613))
 * Tweak boiled bandages ([#75616](https://github.com/CleverRaven/Cataclysm-DDA/pull/75616))
