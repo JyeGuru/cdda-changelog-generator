@@ -1,3 +1,4 @@
+* Backport planters ([#75832](https://github.com/CleverRaven/Cataclysm-DDA/pull/75832))
 * No Summoned Undead corpse ([#75806](https://github.com/CleverRaven/Cataclysm-DDA/pull/75806))
 
 ---
@@ -230,5 +231,4 @@
 * [Magiclysm] Fix hand antlers ([#75609](https://github.com/CleverRaven/Cataclysm-DDA/pull/75609))
 * [Isolation Protocol] Fix Hypocrit's Oath perk ([#75610](https://github.com/CleverRaven/Cataclysm-DDA/pull/75610))
 * Remove XS/XXXL traits from the player display ([#75612](https://github.com/CleverRaven/Cataclysm-DDA/pull/75612))
-* [MoM] Nether Attunement affects psionic calorie usage ([#75596](https://github.com/CleverRaven/Cataclysm-DDA/pull/75596))
 * [MoM] Fix Heightened Reflexes ([#75603](https://github.com/CleverRaven/Cataclysm-DDA/pull/75603))
