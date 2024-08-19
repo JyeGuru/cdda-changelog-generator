@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-08-19-1549 ([d204abf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-19-1549))
+
+* Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-19-0453 ([8d3cb96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-19-0453))
 
 * Added flags and melee nerf in fishing.json ([#75638](https://github.com/CleverRaven/Cataclysm-DDA/pull/75638))
@@ -214,7 +220,6 @@
 * Fix few potential issues in google maps ([#75590](https://github.com/CleverRaven/Cataclysm-DDA/pull/75590))
 * Fix tests failing to spawn gun show ([#75615](https://github.com/CleverRaven/Cataclysm-DDA/pull/75615))
 * Weekly Changelog 2024-08-05 to 2024-08-12 ([#75611](https://github.com/CleverRaven/Cataclysm-DDA/pull/75611))
-* Update some lore for the New England Community Church ([#75582](https://github.com/CleverRaven/Cataclysm-DDA/pull/75582))
 * Make solar panels to work less effeiciently in a rainstorm ([#75595](https://github.com/CleverRaven/Cataclysm-DDA/pull/75595))
 * Add missing space ([#75588](https://github.com/CleverRaven/Cataclysm-DDA/pull/75588))
 * [Magiclysm] Fix hand antlers ([#75609](https://github.com/CleverRaven/Cataclysm-DDA/pull/75609))
