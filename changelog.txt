@@ -1,3 +1,4 @@
+* No Summoned Undead corpse (#75806)
 
 Cataclysm-DDA 0.H release candidate 2024-08-19-1847 (7fa1599)
 * Backport #74092 (#75821)
@@ -148,5 +149,4 @@ Cataclysm-DDA experimental build 2024-08-14-2135 (9a18322)
 * [Magiclysm] Fix hand antlers (#75609)
 * [Isolation Protocol] Fix Hypocrit's Oath perk (#75610)
 * Remove XS/XXXL traits from the player display (#75612)
-* [MoM] Nether Attunement affects psionic calorie usage (#75596)
 * [MoM] Fix Heightened Reflexes (#75603)
