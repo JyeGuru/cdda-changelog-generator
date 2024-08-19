@@ -198,11 +198,6 @@
 
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
 * Prevent div by zero crash in mana widget ([#75642](https://github.com/CleverRaven/Cataclysm-DDA/pull/75642))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-14-0103 ([45f35ec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-0103))
-
 * [Xedra Evolved] Turn activated learn-recipe Paraclesian traits into Passive ones ([#75629](https://github.com/CleverRaven/Cataclysm-DDA/pull/75629))
 * Add Flathub download button and Flatpak manifest ([#75625](https://github.com/CleverRaven/Cataclysm-DDA/pull/75625))
 * Reading maps will reveal previously partially revealed tiles ([#75641](https://github.com/CleverRaven/Cataclysm-DDA/pull/75641))
