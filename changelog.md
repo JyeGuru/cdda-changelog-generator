@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-08-19-2312 ([35afcb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-19-2312))
+
 * Backport planters ([#75832](https://github.com/CleverRaven/Cataclysm-DDA/pull/75832))
 
 ---
@@ -213,11 +218,6 @@
 #### Cataclysm-DDA experimental build 2024-08-15-0025 ([207d942](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-0025))
 
 * [MoM] Move Blinding Radiance to concentration ([#75653](https://github.com/CleverRaven/Cataclysm-DDA/pull/75653))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-14-2135 ([9a18322](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-14-2135))
-
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
 * Prevent div by zero crash in mana widget ([#75642](https://github.com/CleverRaven/Cataclysm-DDA/pull/75642))
 * [Xedra Evolved] Turn activated learn-recipe Paraclesian traits into Passive ones ([#75629](https://github.com/CleverRaven/Cataclysm-DDA/pull/75629))
