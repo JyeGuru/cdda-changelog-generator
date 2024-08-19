@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-08-19-1847 ([7fa1599](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-19-1847))
+
 * Backport #74092 ([#75821](https://github.com/CleverRaven/Cataclysm-DDA/pull/75821))
 * Backport #75560 ([#75824](https://github.com/CleverRaven/Cataclysm-DDA/pull/75824))
 * Backport #75662 ([#75826](https://github.com/CleverRaven/Cataclysm-DDA/pull/75826))
