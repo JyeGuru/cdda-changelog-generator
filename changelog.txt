@@ -1,3 +1,6 @@
+* Prevent segfault when deconstructing improvised shelter (#75703)
+* Add itemgroup field that activate spawned item (#75663)
+* add eoc effect and condition, that searches weighed amount of items in your inventory (#75631)
 
 Cataclysm-DDA experimental build 2024-08-20-0511 (a0579c0)
 * Weekly Changelog 2024-08-12 to 2024-08-19 (#75811)
@@ -120,8 +123,6 @@ Cataclysm-DDA experimental build 2024-08-15-0735 (238454f)
 * make uilist menus render their footer text/item descriptions with color (#75684)
 * Vision granularity audit: Military (or just FEMA Camps) (#75645)
 * Allow ebooks in read command (#75660)
-
-Cataclysm-DDA 0.H release candidate 2024-08-15-0314 (9883075)
 * Backport 75310 to 0.H-branch (#75691)
 
 Cataclysm-DDA experimental build 2024-08-15-0407 (66f25e3)
@@ -149,7 +150,4 @@ Cataclysm-DDA experimental build 2024-08-15-0407 (66f25e3)
 * Fix cottage cheese w/ savory veg also requiring fruit (#75614)
 * Make solar car more rare (#75617)
 * Fix tests failing to spawn gun show (#75615)
-* Weekly Changelog 2024-08-05 to 2024-08-12 (#75611)
-* [Magiclysm] Fix hand antlers (#75609)
-* [Isolation Protocol] Fix Hypocrit's Oath perk (#75610)
 * Remove XS/XXXL traits from the player display (#75612)
