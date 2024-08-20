@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-20-0511 ([a0579c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-20-0511))
+
+* Weekly Changelog 2024-08-12 to 2024-08-19 ([#75811](https://github.com/CleverRaven/Cataclysm-DDA/pull/75811))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-08-19-2312 ([35afcb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-19-2312))
 
 * Backport planters ([#75832](https://github.com/CleverRaven/Cataclysm-DDA/pull/75832))
@@ -212,11 +218,6 @@
 * [Xedra Evolved] Add Purifying the Air sylph spell ([#75677](https://github.com/CleverRaven/Cataclysm-DDA/pull/75677))
 * Make scripted unique NPC spawns unavailable as random spawns ([#75681](https://github.com/CleverRaven/Cataclysm-DDA/pull/75681))
 * I just pulled the Draco out the Rari ([#75633](https://github.com/CleverRaven/Cataclysm-DDA/pull/75633))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-15-0025 ([207d942](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-0025))
-
 * [MoM] Move Blinding Radiance to concentration ([#75653](https://github.com/CleverRaven/Cataclysm-DDA/pull/75653))
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
 * Prevent div by zero crash in mana widget ([#75642](https://github.com/CleverRaven/Cataclysm-DDA/pull/75642))
@@ -236,4 +237,3 @@
 * [Magiclysm] Fix hand antlers ([#75609](https://github.com/CleverRaven/Cataclysm-DDA/pull/75609))
 * [Isolation Protocol] Fix Hypocrit's Oath perk ([#75610](https://github.com/CleverRaven/Cataclysm-DDA/pull/75610))
 * Remove XS/XXXL traits from the player display ([#75612](https://github.com/CleverRaven/Cataclysm-DDA/pull/75612))
-* [MoM] Fix Heightened Reflexes ([#75603](https://github.com/CleverRaven/Cataclysm-DDA/pull/75603))

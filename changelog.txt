@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-20-0511 (a0579c0)
+* Weekly Changelog 2024-08-12 to 2024-08-19 (#75811)
+
 Cataclysm-DDA 0.H release candidate 2024-08-19-2312 (35afcb1)
 * Backport planters (#75832)
 
@@ -131,8 +134,6 @@ Cataclysm-DDA experimental build 2024-08-15-0407 (66f25e3)
 * [Xedra Evolved] Add Purifying the Air sylph spell (#75677)
 * Make scripted unique NPC spawns unavailable as random spawns (#75681)
 * I just pulled the Draco out the Rari (#75633)
-
-Cataclysm-DDA experimental build 2024-08-15-0025 (207d942)
 * [MoM] Move Blinding Radiance to concentration (#75653)
 * Dial down the amount of charges for beginner practice recipe (#75635)
 * Prevent div by zero crash in mana widget (#75642)
@@ -152,4 +153,3 @@ Cataclysm-DDA experimental build 2024-08-15-0025 (207d942)
 * [Magiclysm] Fix hand antlers (#75609)
 * [Isolation Protocol] Fix Hypocrit's Oath perk (#75610)
 * Remove XS/XXXL traits from the player display (#75612)
-* [MoM] Fix Heightened Reflexes (#75603)
