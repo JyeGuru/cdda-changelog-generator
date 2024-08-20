@@ -202,11 +202,6 @@
 #### Cataclysm-DDA experimental build 2024-08-15-1712 ([f77e07e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-1712))
 
 * Allow operand number formats on g++14 ([#75690](https://github.com/CleverRaven/Cataclysm-DDA/pull/75690))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-15-0735 ([238454f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-0735))
-
 * [MoM] Powers should not be directly teachable ([#75665](https://github.com/CleverRaven/Cataclysm-DDA/pull/75665))
 * Typo Fixes ([#75656](https://github.com/CleverRaven/Cataclysm-DDA/pull/75656))
 * provide a desired_bounds for the vehicle appliance interaction menu ([#75692](https://github.com/CleverRaven/Cataclysm-DDA/pull/75692))

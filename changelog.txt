@@ -124,8 +124,6 @@ Cataclysm-DDA experimental build 2024-08-15-2050 (a82f380)
 
 Cataclysm-DDA experimental build 2024-08-15-1712 (f77e07e)
 * Allow operand number formats on g++14 (#75690)
-
-Cataclysm-DDA experimental build 2024-08-15-0735 (238454f)
 * [MoM] Powers should not be directly teachable (#75665)
 * Typo Fixes (#75656)
 * provide a desired_bounds for the vehicle appliance interaction menu (#75692)
