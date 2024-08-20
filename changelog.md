@@ -1,3 +1,4 @@
+* Backport few magiclysm fixes ([#75841](https://github.com/CleverRaven/Cataclysm-DDA/pull/75841))
 * Exceptional 0.H i18n update on 19 August 2024 ([#75835](https://github.com/CleverRaven/Cataclysm-DDA/pull/75835))
 * Prevent crash from -1 array idx when searching zones ([#75834](https://github.com/CleverRaven/Cataclysm-DDA/pull/75834))
 * Switch 0.H transifex config to point to the 0.H resource ([#75833](https://github.com/CleverRaven/Cataclysm-DDA/pull/75833))
@@ -231,4 +232,3 @@
 * Add myself to confirm-bug list ([#75646](https://github.com/CleverRaven/Cataclysm-DDA/pull/75646))
 * [MoM] Fix nether-void speed ([#75650](https://github.com/CleverRaven/Cataclysm-DDA/pull/75650))
 * Fix dereference into an empty container ([#75630](https://github.com/CleverRaven/Cataclysm-DDA/pull/75630))
-* Correct tail hook stock description ([#75623](https://github.com/CleverRaven/Cataclysm-DDA/pull/75623))
