@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-08-20-2247 ([4180cc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-20-2247))
+
 * backport #75668 ([#75828](https://github.com/CleverRaven/Cataclysm-DDA/pull/75828))
 * Backport few magiclysm fixes ([#75841](https://github.com/CleverRaven/Cataclysm-DDA/pull/75841))
 
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-08-15-2050 ([a82f380](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-2050))
 
 * [MoM] Further randomize cooldowns ([#75664](https://github.com/CleverRaven/Cataclysm-DDA/pull/75664))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-15-1712 ([f77e07e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-1712))
-
 * Allow operand number formats on g++14 ([#75690](https://github.com/CleverRaven/Cataclysm-DDA/pull/75690))
 * [MoM] Powers should not be directly teachable ([#75665](https://github.com/CleverRaven/Cataclysm-DDA/pull/75665))
 * Typo Fixes ([#75656](https://github.com/CleverRaven/Cataclysm-DDA/pull/75656))
