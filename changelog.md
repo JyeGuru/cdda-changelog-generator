@@ -1,5 +1,10 @@
 * backport #75668 ([#75828](https://github.com/CleverRaven/Cataclysm-DDA/pull/75828))
 * Backport few magiclysm fixes ([#75841](https://github.com/CleverRaven/Cataclysm-DDA/pull/75841))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-08-20-1933 ([b356ae3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-20-1933))
+
 * Exceptional 0.H i18n update on 19 August 2024 ([#75835](https://github.com/CleverRaven/Cataclysm-DDA/pull/75835))
 * Prevent crash from -1 array idx when searching zones ([#75834](https://github.com/CleverRaven/Cataclysm-DDA/pull/75834))
 * Switch 0.H transifex config to point to the 0.H resource ([#75833](https://github.com/CleverRaven/Cataclysm-DDA/pull/75833))
@@ -210,11 +215,6 @@
 * Vision granularity audit: Military (or just FEMA Camps) ([#75645](https://github.com/CleverRaven/Cataclysm-DDA/pull/75645))
 * Allow ebooks in read command ([#75660](https://github.com/CleverRaven/Cataclysm-DDA/pull/75660))
 * Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-15-0407 ([66f25e3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-0407))
-
 * Clean up deagle conversion kits ([#75644](https://github.com/CleverRaven/Cataclysm-DDA/pull/75644))
 * [MoM] Nether-void edits ([#75654](https://github.com/CleverRaven/Cataclysm-DDA/pull/75654))
 * Active grenades don't spawn as duds ([#75662](https://github.com/CleverRaven/Cataclysm-DDA/pull/75662))
