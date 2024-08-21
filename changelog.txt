@@ -1,3 +1,4 @@
+* American Spelling (#75734)
 
 Cataclysm-DDA experimental build 2024-08-21-0826 (cdd78ab)
 * format `uilist` menu entries with a table (#75845)
@@ -18,7 +19,6 @@ Cataclysm-DDA 0.H release candidate 2024-08-20-1933 (b356ae3)
 * Fix spellcast adjustment not working (#75805)
 * Prevent segfault when deconstructing improvised shelter (#75703)
 * Add itemgroup field that activate spawned item (#75663)
-* add eoc effect and condition, that searches weighed amount of items in your inventory (#75631)
 
 Cataclysm-DDA experimental build 2024-08-20-0511 (a0579c0)
 * Weekly Changelog 2024-08-12 to 2024-08-19 (#75811)

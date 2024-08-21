@@ -1,3 +1,4 @@
+* American Spelling ([#75734](https://github.com/CleverRaven/Cataclysm-DDA/pull/75734))
 
 ---
 
@@ -30,7 +31,6 @@
 * Fix spellcast adjustment not working ([#75805](https://github.com/CleverRaven/Cataclysm-DDA/pull/75805))
 * Prevent segfault when deconstructing improvised shelter ([#75703](https://github.com/CleverRaven/Cataclysm-DDA/pull/75703))
 * Add itemgroup field that activate spawned item ([#75663](https://github.com/CleverRaven/Cataclysm-DDA/pull/75663))
-* add eoc effect and condition, that searches weighed amount of items in your inventory ([#75631](https://github.com/CleverRaven/Cataclysm-DDA/pull/75631))
 
 ---
 
