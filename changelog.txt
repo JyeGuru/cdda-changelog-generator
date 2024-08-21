@@ -1,3 +1,4 @@
+* format `uilist` menu entries with a table (#75845)
 
 Cataclysm-DDA experimental build 2024-08-21-0417 (6412e91)
 * Isolation Protocol: New lab shape (#75788)
@@ -148,4 +149,3 @@ Cataclysm-DDA experimental build 2024-08-16-0001 (c72f9ef)
 * Reading maps will reveal previously partially revealed tiles (#75641)
 * Add myself to confirm-bug list (#75646)
 * [MoM] Fix nether-void speed (#75650)
-* Fix dereference into an empty container (#75630)
