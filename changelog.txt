@@ -1,3 +1,4 @@
+* Isolation Protocol: New lab shape (#75788)
 
 Cataclysm-DDA 0.H release candidate 2024-08-20-2247 (4180cc3)
 * backport #75668 (#75828)
@@ -144,7 +145,6 @@ Cataclysm-DDA experimental build 2024-08-15-2050 (a82f380)
 * [MoM] Move Blinding Radiance to concentration (#75653)
 * Dial down the amount of charges for beginner practice recipe (#75635)
 * Prevent div by zero crash in mana widget (#75642)
-* [Xedra Evolved] Turn activated learn-recipe Paraclesian traits into Passive ones (#75629)
 * Reading maps will reveal previously partially revealed tiles (#75641)
 * Add myself to confirm-bug list (#75646)
 * [MoM] Fix nether-void speed (#75650)
