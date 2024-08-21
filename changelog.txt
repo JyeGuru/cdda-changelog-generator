@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-21-0417 (6412e91)
 * Isolation Protocol: New lab shape (#75788)
 
 Cataclysm-DDA 0.H release candidate 2024-08-20-2247 (4180cc3)
@@ -121,8 +123,6 @@ Cataclysm-DDA experimental build 2024-08-16-0313 (d06c2d8)
 
 Cataclysm-DDA experimental build 2024-08-16-0001 (c72f9ef)
 * Keep uilist menu items lined up with each other even if some do not have hotkeys (#75696)
-
-Cataclysm-DDA experimental build 2024-08-15-2050 (a82f380)
 * [MoM] Further randomize cooldowns (#75664)
 * Allow operand number formats on g++14 (#75690)
 * [MoM] Powers should not be directly teachable (#75665)

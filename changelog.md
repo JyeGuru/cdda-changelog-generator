@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-21-0417 ([6412e91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-21-0417))
+
 * Isolation Protocol: New lab shape ([#75788](https://github.com/CleverRaven/Cataclysm-DDA/pull/75788))
 
 ---
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-08-16-0001 ([c72f9ef](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-0001))
 
 * Keep uilist menu items lined up with each other even if some do not have hotkeys ([#75696](https://github.com/CleverRaven/Cataclysm-DDA/pull/75696))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-15-2050 ([a82f380](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-15-2050))
-
 * [MoM] Further randomize cooldowns ([#75664](https://github.com/CleverRaven/Cataclysm-DDA/pull/75664))
 * Allow operand number formats on g++14 ([#75690](https://github.com/CleverRaven/Cataclysm-DDA/pull/75690))
 * [MoM] Powers should not be directly teachable ([#75665](https://github.com/CleverRaven/Cataclysm-DDA/pull/75665))
