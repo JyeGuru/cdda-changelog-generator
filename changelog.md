@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-21-1908 ([3548e83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-21-1908))
+
 * American Spelling ([#75734](https://github.com/CleverRaven/Cataclysm-DDA/pull/75734))
 
 ---
@@ -195,11 +200,6 @@
 * Prevent segfault when refitting item in spillable container ([#75687](https://github.com/CleverRaven/Cataclysm-DDA/pull/75687))
 * Espadrilles are not armor ([#75700](https://github.com/CleverRaven/Cataclysm-DDA/pull/75700))
 * fungal infected ferals have lower speed ([#75694](https://github.com/CleverRaven/Cataclysm-DDA/pull/75694))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-16-0313 ([d06c2d8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-0313))
-
 * Make debug Mjollnir unbreakable ([#75706](https://github.com/CleverRaven/Cataclysm-DDA/pull/75706))
 * Keep uilist menu items lined up with each other even if some do not have hotkeys ([#75696](https://github.com/CleverRaven/Cataclysm-DDA/pull/75696))
 * [MoM] Further randomize cooldowns ([#75664](https://github.com/CleverRaven/Cataclysm-DDA/pull/75664))
