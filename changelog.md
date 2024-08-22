@@ -1,3 +1,7 @@
+* Neverending problems with disassembly ([#75722](https://github.com/CleverRaven/Cataclysm-DDA/pull/75722))
+* overmap granularity audit: Industrial buildings ([#75704](https://github.com/CleverRaven/Cataclysm-DDA/pull/75704))
+* Give zombie prisoner variants their full name ([#75839](https://github.com/CleverRaven/Cataclysm-DDA/pull/75839))
+* [MoM] Convert Lifting Hand to power, give Telekinetics a new passive ([#75816](https://github.com/CleverRaven/Cataclysm-DDA/pull/75816))
 
 ---
 
@@ -75,14 +79,7 @@
 #### Cataclysm-DDA 0.H release candidate 2024-08-19-1549 ([d204abf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-19-1549))
 
 * Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-19-0453 ([8d3cb96](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-19-0453))
-
-* Added flags and melee nerf in fishing.json ([#75638](https://github.com/CleverRaven/Cataclysm-DDA/pull/75638))
 * AR Pistol Audit ([#75757](https://github.com/CleverRaven/Cataclysm-DDA/pull/75757))
-* Support for multiple randomized field sprite variants ([#75636](https://github.com/CleverRaven/Cataclysm-DDA/pull/75636))
 * [EOC] Support string user input in EOC (similar to num_input in `math`) ([#75675](https://github.com/CleverRaven/Cataclysm-DDA/pull/75675))
 * draw_colored_text should “draw” an empty line if given an empty string ([#75697](https://github.com/CleverRaven/Cataclysm-DDA/pull/75697))
 * Prevent crash from using invalidated explosion data ([#75711](https://github.com/CleverRaven/Cataclysm-DDA/pull/75711))
@@ -102,12 +99,6 @@
 #### Cataclysm-DDA 0.H release candidate 2024-08-18-2238 ([17b493d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-18-2238))
 
 * Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-18-2220 ([1af0453](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-2220))
-
-* Fixes Genetic Chaos gaining perks ([#75637](https://github.com/CleverRaven/Cataclysm-DDA/pull/75637))
 
 ---
 
@@ -222,7 +213,6 @@
 * [Xedra Evolved] Add Purifying the Air sylph spell ([#75677](https://github.com/CleverRaven/Cataclysm-DDA/pull/75677))
 * Make scripted unique NPC spawns unavailable as random spawns ([#75681](https://github.com/CleverRaven/Cataclysm-DDA/pull/75681))
 * [MoM] Move Blinding Radiance to concentration ([#75653](https://github.com/CleverRaven/Cataclysm-DDA/pull/75653))
-* Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
 * Prevent div by zero crash in mana widget ([#75642](https://github.com/CleverRaven/Cataclysm-DDA/pull/75642))
 * Reading maps will reveal previously partially revealed tiles ([#75641](https://github.com/CleverRaven/Cataclysm-DDA/pull/75641))
 * Add myself to confirm-bug list ([#75646](https://github.com/CleverRaven/Cataclysm-DDA/pull/75646))
