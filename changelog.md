@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-22-0221 ([2823ab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-0221))
+
+* Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-21-1908 ([3548e83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-21-1908))
 
 * American Spelling ([#75734](https://github.com/CleverRaven/Cataclysm-DDA/pull/75734))
@@ -191,11 +197,6 @@
 #### Cataclysm-DDA experimental build 2024-08-16-2012 ([d5066b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-2012))
 
 * Make Frog Eyes neutral ([#75729](https://github.com/CleverRaven/Cataclysm-DDA/pull/75729))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-16-0646 ([0b8d7ba](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-0646))
-
 * Superglue audit ([#75682](https://github.com/CleverRaven/Cataclysm-DDA/pull/75682))
 * Prevent segfault when refitting item in spillable container ([#75687](https://github.com/CleverRaven/Cataclysm-DDA/pull/75687))
 * Espadrilles are not armor ([#75700](https://github.com/CleverRaven/Cataclysm-DDA/pull/75700))
@@ -220,7 +221,6 @@
 * Expose new faction values to math ([#75672](https://github.com/CleverRaven/Cataclysm-DDA/pull/75672))
 * [Xedra Evolved] Add Purifying the Air sylph spell ([#75677](https://github.com/CleverRaven/Cataclysm-DDA/pull/75677))
 * Make scripted unique NPC spawns unavailable as random spawns ([#75681](https://github.com/CleverRaven/Cataclysm-DDA/pull/75681))
-* I just pulled the Draco out the Rari ([#75633](https://github.com/CleverRaven/Cataclysm-DDA/pull/75633))
 * [MoM] Move Blinding Radiance to concentration ([#75653](https://github.com/CleverRaven/Cataclysm-DDA/pull/75653))
 * Dial down the amount of charges for beginner practice recipe ([#75635](https://github.com/CleverRaven/Cataclysm-DDA/pull/75635))
 * Prevent div by zero crash in mana widget ([#75642](https://github.com/CleverRaven/Cataclysm-DDA/pull/75642))

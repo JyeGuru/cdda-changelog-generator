@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-22-0221 (2823ab1)
+* Fix android build (#75858)
+
 Cataclysm-DDA experimental build 2024-08-21-1908 (3548e83)
 * American Spelling (#75734)
 
@@ -116,8 +119,6 @@ Cataclysm-DDA experimental build 2024-08-16-2325 (a0bc244)
 
 Cataclysm-DDA experimental build 2024-08-16-2012 (d5066b6)
 * Make Frog Eyes neutral (#75729)
-
-Cataclysm-DDA experimental build 2024-08-16-0646 (0b8d7ba)
 * Superglue audit (#75682)
 * Prevent segfault when refitting item in spillable container (#75687)
 * Espadrilles are not armor (#75700)
@@ -142,7 +143,6 @@ Cataclysm-DDA experimental build 2024-08-16-0646 (0b8d7ba)
 * Expose new faction values to math (#75672)
 * [Xedra Evolved] Add Purifying the Air sylph spell (#75677)
 * Make scripted unique NPC spawns unavailable as random spawns (#75681)
-* I just pulled the Draco out the Rari (#75633)
 * [MoM] Move Blinding Radiance to concentration (#75653)
 * Dial down the amount of charges for beginner practice recipe (#75635)
 * Prevent div by zero crash in mana widget (#75642)
