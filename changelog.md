@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-22-0621 ([15a5866](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-0621))
+
 * migrate miner hat to hard hat with flashlight ([#75844](https://github.com/CleverRaven/Cataclysm-DDA/pull/75844))
 * [Sky Island] Update Warped Pond recipe with man-made terrain ([#75831](https://github.com/CleverRaven/Cataclysm-DDA/pull/75831))
 * [MoM] Check vitamins not powers for concentration breakers  ([#75795](https://github.com/CleverRaven/Cataclysm-DDA/pull/75795))
@@ -185,11 +190,6 @@
 * [Sky Island] Add Warped Pond craft ([#75713](https://github.com/CleverRaven/Cataclysm-DDA/pull/75713))
 * Throw out the kitchen cupboard out of ``bungalow04``'s bedroom ([#75721](https://github.com/CleverRaven/Cataclysm-DDA/pull/75721))
 * wrap the text in the butchery menu ([#75733](https://github.com/CleverRaven/Cataclysm-DDA/pull/75733))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-16-2012 ([d5066b6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-2012))
-
 * Make Frog Eyes neutral ([#75729](https://github.com/CleverRaven/Cataclysm-DDA/pull/75729))
 * Superglue audit ([#75682](https://github.com/CleverRaven/Cataclysm-DDA/pull/75682))
 * Prevent segfault when refitting item in spillable container ([#75687](https://github.com/CleverRaven/Cataclysm-DDA/pull/75687))
