@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-22-2346 ([6848495](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-2346))
+
 * [Xedra Evolved] Add werewolf start scenario ([#75863](https://github.com/CleverRaven/Cataclysm-DDA/pull/75863))
 * [Xedra Evolved] Wolves Can't Talk ([#75875](https://github.com/CleverRaven/Cataclysm-DDA/pull/75875))
 * [MoM] Add variable to Lifting Field update EoC ([#75870](https://github.com/CleverRaven/Cataclysm-DDA/pull/75870))
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-08-17-1531 ([095e71d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-1531))
 
 * Remove beetle weakpoints from the woodlouse ([#75751](https://github.com/CleverRaven/Cataclysm-DDA/pull/75751))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-17-0508 ([a83322d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-0508))
-
 * fix desert region mod: adds missing see_cost ([#75727](https://github.com/CleverRaven/Cataclysm-DDA/pull/75727))
 * [Sky Island] Add Warped Pond craft ([#75713](https://github.com/CleverRaven/Cataclysm-DDA/pull/75713))
 * Throw out the kitchen cupboard out of ``bungalow04``'s bedroom ([#75721](https://github.com/CleverRaven/Cataclysm-DDA/pull/75721))
