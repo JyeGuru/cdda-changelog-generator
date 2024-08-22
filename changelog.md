@@ -1,3 +1,4 @@
+* migrate miner hat to hard hat with flashlight ([#75844](https://github.com/CleverRaven/Cataclysm-DDA/pull/75844))
 * [Sky Island] Update Warped Pond recipe with man-made terrain ([#75831](https://github.com/CleverRaven/Cataclysm-DDA/pull/75831))
 * [MoM] Check vitamins not powers for concentration breakers  ([#75795](https://github.com/CleverRaven/Cataclysm-DDA/pull/75795))
 * Neverending problems with disassembly ([#75722](https://github.com/CleverRaven/Cataclysm-DDA/pull/75722))
@@ -206,7 +207,6 @@
 * Vision granularity audit: Military (or just FEMA Camps) ([#75645](https://github.com/CleverRaven/Cataclysm-DDA/pull/75645))
 * Allow ebooks in read command ([#75660](https://github.com/CleverRaven/Cataclysm-DDA/pull/75660))
 * Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
-* Clean up deagle conversion kits ([#75644](https://github.com/CleverRaven/Cataclysm-DDA/pull/75644))
 * [MoM] Nether-void edits ([#75654](https://github.com/CleverRaven/Cataclysm-DDA/pull/75654))
 * Active grenades don't spawn as duds ([#75662](https://github.com/CleverRaven/Cataclysm-DDA/pull/75662))
 * NPCs can use C4 ([#75668](https://github.com/CleverRaven/Cataclysm-DDA/pull/75668))
