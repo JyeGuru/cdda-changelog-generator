@@ -1,4 +1,13 @@
+* [Xedra Evolved] Add werewolf start scenario ([#75863](https://github.com/CleverRaven/Cataclysm-DDA/pull/75863))
+* [Xedra Evolved] Wolves Can't Talk ([#75875](https://github.com/CleverRaven/Cataclysm-DDA/pull/75875))
+* [MoM] Add variable to Lifting Field update EoC ([#75870](https://github.com/CleverRaven/Cataclysm-DDA/pull/75870))
+* [MOM] Add Reality Tear Teleporter Power ([#75876](https://github.com/CleverRaven/Cataclysm-DDA/pull/75876))
 * Audit the remaining vanilla birds ([#75779](https://github.com/CleverRaven/Cataclysm-DDA/pull/75779))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-22-2053 ([88e7ada](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-2053))
+
 * [MOM] Add teleportation ephemeral walk power ([#75867](https://github.com/CleverRaven/Cataclysm-DDA/pull/75867))
 
 ---
@@ -184,11 +193,6 @@
 #### Cataclysm-DDA experimental build 2024-08-17-0508 ([a83322d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-0508))
 
 * fix desert region mod: adds missing see_cost ([#75727](https://github.com/CleverRaven/Cataclysm-DDA/pull/75727))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-16-2325 ([a0bc244](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-16-2325))
-
 * [Sky Island] Add Warped Pond craft ([#75713](https://github.com/CleverRaven/Cataclysm-DDA/pull/75713))
 * Throw out the kitchen cupboard out of ``bungalow04``'s bedroom ([#75721](https://github.com/CleverRaven/Cataclysm-DDA/pull/75721))
 * wrap the text in the butchery menu ([#75733](https://github.com/CleverRaven/Cataclysm-DDA/pull/75733))
@@ -202,14 +206,10 @@
 * [MoM] Further randomize cooldowns ([#75664](https://github.com/CleverRaven/Cataclysm-DDA/pull/75664))
 * Allow operand number formats on g++14 ([#75690](https://github.com/CleverRaven/Cataclysm-DDA/pull/75690))
 * [MoM] Powers should not be directly teachable ([#75665](https://github.com/CleverRaven/Cataclysm-DDA/pull/75665))
-* Typo Fixes ([#75656](https://github.com/CleverRaven/Cataclysm-DDA/pull/75656))
 * provide a desired_bounds for the vehicle appliance interaction menu ([#75692](https://github.com/CleverRaven/Cataclysm-DDA/pull/75692))
 * Update otherworldly measuring device power draw ([#75683](https://github.com/CleverRaven/Cataclysm-DDA/pull/75683))
 * make uilist menus render their footer text/item descriptions with color ([#75684](https://github.com/CleverRaven/Cataclysm-DDA/pull/75684))
-* Allow ebooks in read command ([#75660](https://github.com/CleverRaven/Cataclysm-DDA/pull/75660))
 * Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
-* [MoM] Nether-void edits ([#75654](https://github.com/CleverRaven/Cataclysm-DDA/pull/75654))
-* Active grenades don't spawn as duds ([#75662](https://github.com/CleverRaven/Cataclysm-DDA/pull/75662))
 * NPCs can use C4 ([#75668](https://github.com/CleverRaven/Cataclysm-DDA/pull/75668))
 * Mutinous NPCs no longer follower your rules ([#75670](https://github.com/CleverRaven/Cataclysm-DDA/pull/75670))
 * Expose new faction values to math ([#75672](https://github.com/CleverRaven/Cataclysm-DDA/pull/75672))
