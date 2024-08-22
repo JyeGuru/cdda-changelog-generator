@@ -204,7 +204,6 @@
 * provide a desired_bounds for the vehicle appliance interaction menu ([#75692](https://github.com/CleverRaven/Cataclysm-DDA/pull/75692))
 * Update otherworldly measuring device power draw ([#75683](https://github.com/CleverRaven/Cataclysm-DDA/pull/75683))
 * make uilist menus render their footer text/item descriptions with color ([#75684](https://github.com/CleverRaven/Cataclysm-DDA/pull/75684))
-* Vision granularity audit: Military (or just FEMA Camps) ([#75645](https://github.com/CleverRaven/Cataclysm-DDA/pull/75645))
 * Allow ebooks in read command ([#75660](https://github.com/CleverRaven/Cataclysm-DDA/pull/75660))
 * Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
 * [MoM] Nether-void edits ([#75654](https://github.com/CleverRaven/Cataclysm-DDA/pull/75654))
