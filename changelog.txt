@@ -1,3 +1,5 @@
+* Audit the remaining vanilla birds (#75779)
+* [MOM] Add teleportation ephemeral walk power (#75867)
 
 Cataclysm-DDA experimental build 2024-08-22-0621 (15a5866)
 * migrate miner hat to hard hat with flashlight (#75844)
@@ -141,5 +143,3 @@ Cataclysm-DDA experimental build 2024-08-16-2325 (a0bc244)
 * Expose new faction values to math (#75672)
 * [Xedra Evolved] Add Purifying the Air sylph spell (#75677)
 * Make scripted unique NPC spawns unavailable as random spawns (#75681)
-* [MoM] Move Blinding Radiance to concentration (#75653)
-* [MoM] Fix nether-void speed (#75650)

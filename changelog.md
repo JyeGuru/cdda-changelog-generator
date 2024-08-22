@@ -1,3 +1,5 @@
+* Audit the remaining vanilla birds ([#75779](https://github.com/CleverRaven/Cataclysm-DDA/pull/75779))
+* [MOM] Add teleportation ephemeral walk power ([#75867](https://github.com/CleverRaven/Cataclysm-DDA/pull/75867))
 
 ---
 
@@ -213,5 +215,3 @@
 * Expose new faction values to math ([#75672](https://github.com/CleverRaven/Cataclysm-DDA/pull/75672))
 * [Xedra Evolved] Add Purifying the Air sylph spell ([#75677](https://github.com/CleverRaven/Cataclysm-DDA/pull/75677))
 * Make scripted unique NPC spawns unavailable as random spawns ([#75681](https://github.com/CleverRaven/Cataclysm-DDA/pull/75681))
-* [MoM] Move Blinding Radiance to concentration ([#75653](https://github.com/CleverRaven/Cataclysm-DDA/pull/75653))
-* [MoM] Fix nether-void speed ([#75650](https://github.com/CleverRaven/Cataclysm-DDA/pull/75650))
