@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-23-1441 (7de63a0)
 * Add jack-o'-lantern recipe byproducts (#75893)
 
 Cataclysm-DDA experimental build 2024-08-22-2346 (6848495)
@@ -117,8 +119,6 @@ Cataclysm-DDA experimental build 2024-08-17-2035 (760786a)
 Cataclysm-DDA experimental build 2024-08-17-1809 (09a131e)
 * Routine i18n updates on 17 August 2024 (#75759)
 * Correct some word capitalization (#75750)
-
-Cataclysm-DDA experimental build 2024-08-17-1531 (095e71d)
 * Remove beetle weakpoints from the woodlouse (#75751)
 * fix desert region mod: adds missing see_cost (#75727)
 * [Sky Island] Add Warped Pond craft (#75713)
