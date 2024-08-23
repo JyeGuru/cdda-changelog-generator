@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-23-1745 ([80626e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-23-1745))
+
 * [MoM] Add PHASE_DISTANCE to Astral Projection ([#75890](https://github.com/CleverRaven/Cataclysm-DDA/pull/75890))
 * Prevent automatic assignment of hotkeys to passive mutations ([#75896](https://github.com/CleverRaven/Cataclysm-DDA/pull/75896))
 
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-08-17-2035 ([760786a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-2035))
 
 * [MoM] Fix Combat Dance recoil mod ([#75748](https://github.com/CleverRaven/Cataclysm-DDA/pull/75748))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-17-1809 ([09a131e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-1809))
-
 * Routine i18n updates on 17 August 2024 ([#75759](https://github.com/CleverRaven/Cataclysm-DDA/pull/75759))
 * Correct some word capitalization ([#75750](https://github.com/CleverRaven/Cataclysm-DDA/pull/75750))
 * Remove beetle weakpoints from the woodlouse ([#75751](https://github.com/CleverRaven/Cataclysm-DDA/pull/75751))
@@ -210,7 +210,6 @@
 * Update otherworldly measuring device power draw ([#75683](https://github.com/CleverRaven/Cataclysm-DDA/pull/75683))
 * make uilist menus render their footer text/item descriptions with color ([#75684](https://github.com/CleverRaven/Cataclysm-DDA/pull/75684))
 * Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
-* NPCs can use C4 ([#75668](https://github.com/CleverRaven/Cataclysm-DDA/pull/75668))
 * Mutinous NPCs no longer follower your rules ([#75670](https://github.com/CleverRaven/Cataclysm-DDA/pull/75670))
 * Expose new faction values to math ([#75672](https://github.com/CleverRaven/Cataclysm-DDA/pull/75672))
 * [Xedra Evolved] Add Purifying the Air sylph spell ([#75677](https://github.com/CleverRaven/Cataclysm-DDA/pull/75677))
