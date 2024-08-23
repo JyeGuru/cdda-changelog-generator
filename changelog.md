@@ -1,3 +1,4 @@
+* Add jack-o'-lantern recipe byproducts ([#75893](https://github.com/CleverRaven/Cataclysm-DDA/pull/75893))
 
 ---
 
@@ -69,7 +70,6 @@
 * Fix reloading with speedloader when it's the only choice ([#75815](https://github.com/CleverRaven/Cataclysm-DDA/pull/75815))
 * Fix spellcast adjustment not working ([#75805](https://github.com/CleverRaven/Cataclysm-DDA/pull/75805))
 * Prevent segfault when deconstructing improvised shelter ([#75703](https://github.com/CleverRaven/Cataclysm-DDA/pull/75703))
-* Add itemgroup field that activate spawned item ([#75663](https://github.com/CleverRaven/Cataclysm-DDA/pull/75663))
 
 ---
 
