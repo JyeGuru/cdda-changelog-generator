@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-23-2024 ([6d6779a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-23-2024))
+
 * [MoM] Add QD944-P 'Mindsight' glasses ([#75855](https://github.com/CleverRaven/Cataclysm-DDA/pull/75855))
 
 ---
@@ -186,11 +191,6 @@
 #### Cataclysm-DDA experimental build 2024-08-17-2344 ([207c865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-2344))
 
 * Remove Gyroscopic Stabilizer ([#75749](https://github.com/CleverRaven/Cataclysm-DDA/pull/75749))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-17-2035 ([760786a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-2035))
-
 * [MoM] Fix Combat Dance recoil mod ([#75748](https://github.com/CleverRaven/Cataclysm-DDA/pull/75748))
 * Routine i18n updates on 17 August 2024 ([#75759](https://github.com/CleverRaven/Cataclysm-DDA/pull/75759))
 * Correct some word capitalization ([#75750](https://github.com/CleverRaven/Cataclysm-DDA/pull/75750))

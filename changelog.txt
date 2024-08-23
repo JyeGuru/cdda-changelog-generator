@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-23-2024 (6d6779a)
 * [MoM] Add QD944-P 'Mindsight' glasses (#75855)
 
 Cataclysm-DDA experimental build 2024-08-23-1745 (80626e6)
@@ -117,8 +119,6 @@ Cataclysm-DDA experimental build 2024-08-18-0231 (230bfc7)
 
 Cataclysm-DDA experimental build 2024-08-17-2344 (207c865)
 * Remove Gyroscopic Stabilizer (#75749)
-
-Cataclysm-DDA experimental build 2024-08-17-2035 (760786a)
 * [MoM] Fix Combat Dance recoil mod (#75748)
 * Routine i18n updates on 17 August 2024 (#75759)
 * Correct some word capitalization (#75750)
