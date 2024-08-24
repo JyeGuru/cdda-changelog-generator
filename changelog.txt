@@ -90,8 +90,6 @@ Cataclysm-DDA 0.H release candidate 2024-08-19-1549 (d204abf)
 * Move ``recipe_deconstruction.json`` to the uncraft folder (#75797)
 * Exclude food eating special attacks from monster difficulty calculation (#75804)
 * Update tropical_reptile_amphibian.json (#75807)
-
-Cataclysm-DDA 0.H release candidate 2024-08-18-2238 (17b493d)
 * Backport #71801 to the 0.H branch (#75787)
 
 Cataclysm-DDA experimental build 2024-08-18-1739 (90b5cea)
