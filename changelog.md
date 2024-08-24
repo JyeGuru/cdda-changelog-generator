@@ -1,3 +1,4 @@
+* [Sky Island] Make bettter security containers obtainable ([#75883](https://github.com/CleverRaven/Cataclysm-DDA/pull/75883))
 * [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions ([#75891](https://github.com/CleverRaven/Cataclysm-DDA/pull/75891))
 
 ---
@@ -212,5 +213,4 @@
 * Update otherworldly measuring device power draw ([#75683](https://github.com/CleverRaven/Cataclysm-DDA/pull/75683))
 * make uilist menus render their footer text/item descriptions with color ([#75684](https://github.com/CleverRaven/Cataclysm-DDA/pull/75684))
 * Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
-* [Xedra Evolved] Add Purifying the Air sylph spell ([#75677](https://github.com/CleverRaven/Cataclysm-DDA/pull/75677))
 * Make scripted unique NPC spawns unavailable as random spawns ([#75681](https://github.com/CleverRaven/Cataclysm-DDA/pull/75681))
