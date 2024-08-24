@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions (#75891)
 
 Cataclysm-DDA experimental build 2024-08-24-0256 (1d2312b)
 * Fix driveway of in-construction house_01 (#75898)
@@ -74,7 +75,6 @@ Cataclysm-DDA 0.H release candidate 2024-08-19-1847 (7fa1599)
 Cataclysm-DDA 0.H release candidate 2024-08-19-1549 (d204abf)
 * Backport #75364 (#75822)
 * AR Pistol Audit (#75757)
-* [EOC] Support string user input in EOC (similar to num_input in `math`) (#75675)
 * draw_colored_text should “draw” an empty line if given an empty string (#75697)
 * Prevent crash from using invalidated explosion data (#75711)
 * Monster vision enchantment and evaluation (#75753)

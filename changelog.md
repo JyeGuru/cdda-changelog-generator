@@ -1,3 +1,4 @@
+* [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions ([#75891](https://github.com/CleverRaven/Cataclysm-DDA/pull/75891))
 
 ---
 
@@ -128,7 +129,6 @@
 
 * Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
 * AR Pistol Audit ([#75757](https://github.com/CleverRaven/Cataclysm-DDA/pull/75757))
-* [EOC] Support string user input in EOC (similar to num_input in `math`) ([#75675](https://github.com/CleverRaven/Cataclysm-DDA/pull/75675))
 * draw_colored_text should “draw” an empty line if given an empty string ([#75697](https://github.com/CleverRaven/Cataclysm-DDA/pull/75697))
 * Prevent crash from using invalidated explosion data ([#75711](https://github.com/CleverRaven/Cataclysm-DDA/pull/75711))
 * Monster vision enchantment and evaluation ([#75753](https://github.com/CleverRaven/Cataclysm-DDA/pull/75753))
