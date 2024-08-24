@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-24-0612 ([ae2b99e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-24-0612))
+
 * [Sky Island] Make bettter security containers obtainable ([#75883](https://github.com/CleverRaven/Cataclysm-DDA/pull/75883))
 * [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions ([#75891](https://github.com/CleverRaven/Cataclysm-DDA/pull/75891))
 
@@ -159,11 +164,6 @@
 * Redo superglue description ([#75745](https://github.com/CleverRaven/Cataclysm-DDA/pull/75745))
 * Telescopic Eyes cbm cancels mesopic mutation ([#75740](https://github.com/CleverRaven/Cataclysm-DDA/pull/75740))
 * desert_region: fix too high weight, blacklist meadow and stream ([#75747](https://github.com/CleverRaven/Cataclysm-DDA/pull/75747))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-08-18-1525 ([1043de2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-18-1525))
-
 * Return to always treating hostile NPCs as being dangerous for 0.H ([#75781](https://github.com/CleverRaven/Cataclysm-DDA/pull/75781))
 * Return to always treating hostile NPCs as being dangerous (for 0.I) ([#75782](https://github.com/CleverRaven/Cataclysm-DDA/pull/75782))
 * Fif for dialog ([#75780](https://github.com/CleverRaven/Cataclysm-DDA/pull/75780))
