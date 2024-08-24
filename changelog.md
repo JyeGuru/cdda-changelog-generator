@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-24-0256 ([1d2312b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-24-0256))
+
+* Fix driveway of in-construction house_01 ([#75898](https://github.com/CleverRaven/Cataclysm-DDA/pull/75898))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-23-2024 ([6d6779a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-23-2024))
 
 * [MoM] Add QD944-P 'Mindsight' glasses ([#75855](https://github.com/CleverRaven/Cataclysm-DDA/pull/75855))
@@ -185,11 +191,6 @@
 * [TropiCata] Flying bird audit ([#75769](https://github.com/CleverRaven/Cataclysm-DDA/pull/75769))
 * Allow speech to be relearnt in the dark ([#75710](https://github.com/CleverRaven/Cataclysm-DDA/pull/75710))
 * Exclude PARROT special attack from monster difficulty calculations ([#75716](https://github.com/CleverRaven/Cataclysm-DDA/pull/75716))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-17-2344 ([207c865](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-17-2344))
-
 * Remove Gyroscopic Stabilizer ([#75749](https://github.com/CleverRaven/Cataclysm-DDA/pull/75749))
 * [MoM] Fix Combat Dance recoil mod ([#75748](https://github.com/CleverRaven/Cataclysm-DDA/pull/75748))
 * Routine i18n updates on 17 August 2024 ([#75759](https://github.com/CleverRaven/Cataclysm-DDA/pull/75759))
@@ -211,6 +212,5 @@
 * Update otherworldly measuring device power draw ([#75683](https://github.com/CleverRaven/Cataclysm-DDA/pull/75683))
 * make uilist menus render their footer text/item descriptions with color ([#75684](https://github.com/CleverRaven/Cataclysm-DDA/pull/75684))
 * Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
-* Expose new faction values to math ([#75672](https://github.com/CleverRaven/Cataclysm-DDA/pull/75672))
 * [Xedra Evolved] Add Purifying the Air sylph spell ([#75677](https://github.com/CleverRaven/Cataclysm-DDA/pull/75677))
 * Make scripted unique NPC spawns unavailable as random spawns ([#75681](https://github.com/CleverRaven/Cataclysm-DDA/pull/75681))
