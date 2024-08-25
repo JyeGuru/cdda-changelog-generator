@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-25-2047 (9bacf01)
 * [Xedra Evolved] More Paraclesian restrictions (#75931)
 
 Cataclysm-DDA experimental build 2024-08-25-1618 (0d9bfb5)
@@ -103,8 +105,6 @@ Cataclysm-DDA 0.H release candidate 2024-08-19-1549 (d204abf)
 * Exclude food eating special attacks from monster difficulty calculation (#75804)
 * Update tropical_reptile_amphibian.json (#75807)
 * Backport #71801 to the 0.H branch (#75787)
-
-Cataclysm-DDA experimental build 2024-08-18-1739 (90b5cea)
 * Some nested recipe fixes (#75701)
 * wrap the text in the martial arts selection window (#75737)
 * Prevent crash from -1 array idx when searching zones (#75739)

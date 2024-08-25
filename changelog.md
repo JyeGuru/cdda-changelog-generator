@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-25-2047 ([9bacf01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-2047))
+
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
 
 ---
@@ -169,11 +174,6 @@
 * Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
 * Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
 * Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-18-1739 ([90b5cea](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-1739))
-
 * Some nested recipe fixes ([#75701](https://github.com/CleverRaven/Cataclysm-DDA/pull/75701))
 * wrap the text in the martial arts selection window ([#75737](https://github.com/CleverRaven/Cataclysm-DDA/pull/75737))
 * Prevent crash from -1 array idx when searching zones ([#75739](https://github.com/CleverRaven/Cataclysm-DDA/pull/75739))
