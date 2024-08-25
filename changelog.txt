@@ -1,3 +1,5 @@
+* Fix python speedloader (#75929)
+* Fix superglue density (#75930)
 * ImGui to respect `fonts.json` (#75920)
 
 Cataclysm-DDA experimental build 2024-08-25-0056 (dcc918e)
@@ -137,6 +139,4 @@ Cataclysm-DDA experimental build 2024-08-18-0509 (1b5a260)
 * Keep uilist menu items lined up with each other even if some do not have hotkeys (#75696)
 * Allow operand number formats on g++14 (#75690)
 * provide a desired_bounds for the vehicle appliance interaction menu (#75692)
-* Update otherworldly measuring device power draw (#75683)
-* make uilist menus render their footer text/item descriptions with color (#75684)
 * Backport 75310 to 0.H-branch (#75691)
