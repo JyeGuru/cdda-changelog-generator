@@ -1,3 +1,4 @@
+* [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
 
 ---
 
@@ -207,4 +208,3 @@
 * Make debug Mjollnir unbreakable ([#75706](https://github.com/CleverRaven/Cataclysm-DDA/pull/75706))
 * Keep uilist menu items lined up with each other even if some do not have hotkeys ([#75696](https://github.com/CleverRaven/Cataclysm-DDA/pull/75696))
 * provide a desired_bounds for the vehicle appliance interaction menu ([#75692](https://github.com/CleverRaven/Cataclysm-DDA/pull/75692))
-* Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
