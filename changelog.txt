@@ -1,3 +1,4 @@
+* ImGui to respect `fonts.json` (#75920)
 
 Cataclysm-DDA experimental build 2024-08-25-0056 (dcc918e)
 * Made human products get human 'vitamin' and vitamin inheritance (#75918)
@@ -129,7 +130,6 @@ Cataclysm-DDA experimental build 2024-08-18-0509 (1b5a260)
 * Throw out the kitchen cupboard out of ``bungalow04``'s bedroom (#75721)
 * wrap the text in the butchery menu (#75733)
 * Make Frog Eyes neutral (#75729)
-* Superglue audit (#75682)
 * Prevent segfault when refitting item in spillable container (#75687)
 * Espadrilles are not armor (#75700)
 * fungal infected ferals have lower speed (#75694)
