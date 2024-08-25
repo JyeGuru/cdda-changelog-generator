@@ -201,7 +201,6 @@
 * Throw out the kitchen cupboard out of ``bungalow04``'s bedroom ([#75721](https://github.com/CleverRaven/Cataclysm-DDA/pull/75721))
 * wrap the text in the butchery menu ([#75733](https://github.com/CleverRaven/Cataclysm-DDA/pull/75733))
 * Make Frog Eyes neutral ([#75729](https://github.com/CleverRaven/Cataclysm-DDA/pull/75729))
-* Prevent segfault when refitting item in spillable container ([#75687](https://github.com/CleverRaven/Cataclysm-DDA/pull/75687))
 * Espadrilles are not armor ([#75700](https://github.com/CleverRaven/Cataclysm-DDA/pull/75700))
 * fungal infected ferals have lower speed ([#75694](https://github.com/CleverRaven/Cataclysm-DDA/pull/75694))
 * Make debug Mjollnir unbreakable ([#75706](https://github.com/CleverRaven/Cataclysm-DDA/pull/75706))
