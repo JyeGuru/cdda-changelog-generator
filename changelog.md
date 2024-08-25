@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-25-1618 ([0d9bfb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-1618))
+
+* JSON-ify sleep-affecting mutations, trying to sleep, and sleep comfort ([#75852](https://github.com/CleverRaven/Cataclysm-DDA/pull/75852))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-25-0446 ([5237214](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-0446))
 
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
@@ -177,11 +183,6 @@
 * Return to always treating hostile NPCs as being dangerous (for 0.I) ([#75782](https://github.com/CleverRaven/Cataclysm-DDA/pull/75782))
 * Fif for dialog ([#75780](https://github.com/CleverRaven/Cataclysm-DDA/pull/75780))
 * Allow cephalopods to gain the ability to eat, sleep underwater ([#75764](https://github.com/CleverRaven/Cataclysm-DDA/pull/75764))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-18-1413 ([a1927ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-1413))
-
 * Adds the 1911-22 ([#75783](https://github.com/CleverRaven/Cataclysm-DDA/pull/75783))
 * Category changes for a few items ([#75720](https://github.com/CleverRaven/Cataclysm-DDA/pull/75720))
 * Untool the wool staple ([#75719](https://github.com/CleverRaven/Cataclysm-DDA/pull/75719))
@@ -205,6 +206,5 @@
 * fungal infected ferals have lower speed ([#75694](https://github.com/CleverRaven/Cataclysm-DDA/pull/75694))
 * Make debug Mjollnir unbreakable ([#75706](https://github.com/CleverRaven/Cataclysm-DDA/pull/75706))
 * Keep uilist menu items lined up with each other even if some do not have hotkeys ([#75696](https://github.com/CleverRaven/Cataclysm-DDA/pull/75696))
-* Allow operand number formats on g++14 ([#75690](https://github.com/CleverRaven/Cataclysm-DDA/pull/75690))
 * provide a desired_bounds for the vehicle appliance interaction menu ([#75692](https://github.com/CleverRaven/Cataclysm-DDA/pull/75692))
 * Backport 75310 to 0.H-branch ([#75691](https://github.com/CleverRaven/Cataclysm-DDA/pull/75691))
