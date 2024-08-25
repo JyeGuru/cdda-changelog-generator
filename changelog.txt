@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-25-0056 (dcc918e)
+* Made human products get human 'vitamin' and vitamin inheritance (#75918)
+
 Cataclysm-DDA experimental build 2024-08-24-0612 (ae2b99e)
 * [Sky Island] Make bettter security containers obtainable (#75883)
 * [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions (#75891)
@@ -109,8 +112,6 @@ Cataclysm-DDA experimental build 2024-08-18-1413 (a1927ee)
 
 Cataclysm-DDA experimental build 2024-08-18-0509 (1b5a260)
 * Category changes for a few items (#75720)
-
-Cataclysm-DDA experimental build 2024-08-18-0231 (230bfc7)
 * Untool the wool staple (#75719)
 * [Magiclysm] Update Restore Genetic Stability biomancer spell for new `MUT_INSTABILITY_MOD` effect (#75746)
 * [Tamable Wildlife] Allow the taming of chicks (#75766)
@@ -139,4 +140,3 @@ Cataclysm-DDA experimental build 2024-08-18-0231 (230bfc7)
 * Update otherworldly measuring device power draw (#75683)
 * make uilist menus render their footer text/item descriptions with color (#75684)
 * Backport 75310 to 0.H-branch (#75691)
-* Make scripted unique NPC spawns unavailable as random spawns (#75681)
