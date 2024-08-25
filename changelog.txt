@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-25-0446 (5237214)
 * Fix python speedloader (#75929)
 * Fix superglue density (#75930)
 * ImGui to respect `fonts.json` (#75920)
@@ -112,8 +114,6 @@ Cataclysm-DDA experimental build 2024-08-18-1739 (90b5cea)
 
 Cataclysm-DDA experimental build 2024-08-18-1413 (a1927ee)
 * Adds the 1911-22 (#75783)
-
-Cataclysm-DDA experimental build 2024-08-18-0509 (1b5a260)
 * Category changes for a few items (#75720)
 * Untool the wool staple (#75719)
 * [Magiclysm] Update Restore Genetic Stability biomancer spell for new `MUT_INSTABILITY_MOD` effect (#75746)

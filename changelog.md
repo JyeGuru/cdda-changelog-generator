@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-25-0446 ([5237214](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-0446))
+
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
 * ImGui to respect `fonts.json` ([#75920](https://github.com/CleverRaven/Cataclysm-DDA/pull/75920))
@@ -178,11 +183,6 @@
 #### Cataclysm-DDA experimental build 2024-08-18-1413 ([a1927ee](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-1413))
 
 * Adds the 1911-22 ([#75783](https://github.com/CleverRaven/Cataclysm-DDA/pull/75783))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-18-0509 ([1b5a260](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-18-0509))
-
 * Category changes for a few items ([#75720](https://github.com/CleverRaven/Cataclysm-DDA/pull/75720))
 * Untool the wool staple ([#75719](https://github.com/CleverRaven/Cataclysm-DDA/pull/75719))
 * [Magiclysm] Update Restore Genetic Stability biomancer spell for new `MUT_INSTABILITY_MOD` effect ([#75746](https://github.com/CleverRaven/Cataclysm-DDA/pull/75746))
