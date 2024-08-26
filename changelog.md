@@ -1,3 +1,5 @@
+* [MoM] Update Teleporter Documentation ([#75885](https://github.com/CleverRaven/Cataclysm-DDA/pull/75885))
+* No cost to turn off ([#75892](https://github.com/CleverRaven/Cataclysm-DDA/pull/75892))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
 
 ---
@@ -111,7 +113,6 @@
 * migrate miner hat to hard hat with flashlight ([#75844](https://github.com/CleverRaven/Cataclysm-DDA/pull/75844))
 * [Sky Island] Update Warped Pond recipe with man-made terrain ([#75831](https://github.com/CleverRaven/Cataclysm-DDA/pull/75831))
 * [MoM] Check vitamins not powers for concentration breakers  ([#75795](https://github.com/CleverRaven/Cataclysm-DDA/pull/75795))
-* Neverending problems with disassembly ([#75722](https://github.com/CleverRaven/Cataclysm-DDA/pull/75722))
 * Give zombie prisoner variants their full name ([#75839](https://github.com/CleverRaven/Cataclysm-DDA/pull/75839))
 * [MoM] Convert Lifting Hand to power, give Telekinetics a new passive ([#75816](https://github.com/CleverRaven/Cataclysm-DDA/pull/75816))
 
@@ -215,6 +216,5 @@
 * Correct some word capitalization ([#75750](https://github.com/CleverRaven/Cataclysm-DDA/pull/75750))
 * Remove beetle weakpoints from the woodlouse ([#75751](https://github.com/CleverRaven/Cataclysm-DDA/pull/75751))
 * fix desert region mod: adds missing see_cost ([#75727](https://github.com/CleverRaven/Cataclysm-DDA/pull/75727))
-* Throw out the kitchen cupboard out of ``bungalow04``'s bedroom ([#75721](https://github.com/CleverRaven/Cataclysm-DDA/pull/75721))
 * wrap the text in the butchery menu ([#75733](https://github.com/CleverRaven/Cataclysm-DDA/pull/75733))
 * Make Frog Eyes neutral ([#75729](https://github.com/CleverRaven/Cataclysm-DDA/pull/75729))
