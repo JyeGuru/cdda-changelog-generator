@@ -1,3 +1,4 @@
+* Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 
 ---
 
@@ -145,12 +146,6 @@
 #### Cataclysm-DDA experimental build 2024-08-22-0221 ([2823ab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-0221))
 
 * Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-21-1908 ([3548e83](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-21-1908))
-
-* American Spelling ([#75734](https://github.com/CleverRaven/Cataclysm-DDA/pull/75734))
 
 ---
 

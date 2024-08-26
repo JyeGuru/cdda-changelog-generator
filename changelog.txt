@@ -1,3 +1,4 @@
+* Manatouched_serum fix (#75952)
 
 Cataclysm-DDA experimental build 2024-08-26-1713 (640fcb7)
 * Civilian Magazine Spawn Adjustments (#75925)
@@ -85,9 +86,6 @@ Cataclysm-DDA experimental build 2024-08-22-0621 (15a5866)
 
 Cataclysm-DDA experimental build 2024-08-22-0221 (2823ab1)
 * Fix android build (#75858)
-
-Cataclysm-DDA experimental build 2024-08-21-1908 (3548e83)
-* American Spelling (#75734)
 
 Cataclysm-DDA experimental build 2024-08-21-0826 (cdd78ab)
 * format `uilist` menu entries with a table (#75845)
