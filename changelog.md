@@ -2,6 +2,11 @@
 * towers are vaguely seen as tall buildings ([#75879](https://github.com/CleverRaven/Cataclysm-DDA/pull/75879))
 * [MoM] Update Teleporter Documentation ([#75885](https://github.com/CleverRaven/Cataclysm-DDA/pull/75885))
 * No cost to turn off ([#75892](https://github.com/CleverRaven/Cataclysm-DDA/pull/75892))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-08-26-0817 ([320c62c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-26-0817))
+
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
 
 ---
@@ -177,11 +182,6 @@
 #### Cataclysm-DDA experimental build 2024-08-19-2059 ([b2d3edf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-19-2059))
 
 * No Summoned Undead corpse ([#75806](https://github.com/CleverRaven/Cataclysm-DDA/pull/75806))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-08-19-1847 ([7fa1599](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-19-1847))
-
 * Backport #74092 ([#75821](https://github.com/CleverRaven/Cataclysm-DDA/pull/75821))
 * Backport #75560 ([#75824](https://github.com/CleverRaven/Cataclysm-DDA/pull/75824))
 * Backport #75662 ([#75826](https://github.com/CleverRaven/Cataclysm-DDA/pull/75826))

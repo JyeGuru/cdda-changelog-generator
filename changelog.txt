@@ -2,6 +2,8 @@
 * towers are vaguely seen as tall buildings (#75879)
 * [MoM] Update Teleporter Documentation (#75885)
 * No cost to turn off (#75892)
+
+Cataclysm-DDA 0.H release candidate 2024-08-26-0817 (320c62c)
 * Fix clang-tidy complaint about double spaces (0.H) (#75957)
 
 Cataclysm-DDA experimental build 2024-08-26-0429 (18b13f1)
@@ -105,8 +107,6 @@ Cataclysm-DDA 0.H release candidate 2024-08-19-2312 (35afcb1)
 
 Cataclysm-DDA experimental build 2024-08-19-2059 (b2d3edf)
 * No Summoned Undead corpse (#75806)
-
-Cataclysm-DDA 0.H release candidate 2024-08-19-1847 (7fa1599)
 * Backport #74092 (#75821)
 * Backport #75560 (#75824)
 * Backport #75662 (#75826)
