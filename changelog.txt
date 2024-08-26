@@ -1,6 +1,8 @@
 * Isolation Protocol:  Add roguelike style health regen and pain reduction (#75860)
 * towers are vaguely seen as tall buildings (#75879)
 * [MoM] Update Teleporter Documentation (#75885)
+
+Cataclysm-DDA experimental build 2024-08-26-0842 (b44ed93)
 * No cost to turn off (#75892)
 
 Cataclysm-DDA 0.H release candidate 2024-08-26-0817 (320c62c)
@@ -101,8 +103,6 @@ Cataclysm-DDA 0.H release candidate 2024-08-20-1933 (b356ae3)
 
 Cataclysm-DDA experimental build 2024-08-20-0511 (a0579c0)
 * Weekly Changelog 2024-08-12 to 2024-08-19 (#75811)
-
-Cataclysm-DDA 0.H release candidate 2024-08-19-2312 (35afcb1)
 * Backport planters (#75832)
 
 Cataclysm-DDA experimental build 2024-08-19-2059 (b2d3edf)

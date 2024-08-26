@@ -1,6 +1,11 @@
 * Isolation Protocol:  Add roguelike style health regen and pain reduction ([#75860](https://github.com/CleverRaven/Cataclysm-DDA/pull/75860))
 * towers are vaguely seen as tall buildings ([#75879](https://github.com/CleverRaven/Cataclysm-DDA/pull/75879))
 * [MoM] Update Teleporter Documentation ([#75885](https://github.com/CleverRaven/Cataclysm-DDA/pull/75885))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-26-0842 ([b44ed93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-0842))
+
 * No cost to turn off ([#75892](https://github.com/CleverRaven/Cataclysm-DDA/pull/75892))
 
 ---
@@ -170,11 +175,6 @@
 #### Cataclysm-DDA experimental build 2024-08-20-0511 ([a0579c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-20-0511))
 
 * Weekly Changelog 2024-08-12 to 2024-08-19 ([#75811](https://github.com/CleverRaven/Cataclysm-DDA/pull/75811))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-08-19-2312 ([35afcb1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-19-2312))
-
 * Backport planters ([#75832](https://github.com/CleverRaven/Cataclysm-DDA/pull/75832))
 
 ---
