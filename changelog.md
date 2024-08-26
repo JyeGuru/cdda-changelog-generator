@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-26-1713 ([640fcb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-1713))
+
+* Civilian Magazine Spawn Adjustments ([#75925](https://github.com/CleverRaven/Cataclysm-DDA/pull/75925))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-26-1250 ([911eeed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-1250))
 
 * Give the kitted survivor a smartphone ([#75915](https://github.com/CleverRaven/Cataclysm-DDA/pull/75915))
@@ -222,4 +228,3 @@
 * Routine i18n updates on 17 August 2024 ([#75759](https://github.com/CleverRaven/Cataclysm-DDA/pull/75759))
 * Correct some word capitalization ([#75750](https://github.com/CleverRaven/Cataclysm-DDA/pull/75750))
 * Remove beetle weakpoints from the woodlouse ([#75751](https://github.com/CleverRaven/Cataclysm-DDA/pull/75751))
-* wrap the text in the butchery menu ([#75733](https://github.com/CleverRaven/Cataclysm-DDA/pull/75733))
