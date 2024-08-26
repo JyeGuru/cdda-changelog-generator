@@ -1,3 +1,4 @@
+* Second nail into the battery coffin ([#75865](https://github.com/CleverRaven/Cataclysm-DDA/pull/75865))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 
 ---
@@ -204,7 +205,6 @@
 * Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
 * Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
 * Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))
-* wrap the text in the martial arts selection window ([#75737](https://github.com/CleverRaven/Cataclysm-DDA/pull/75737))
 * Prevent crash from -1 array idx when searching zones ([#75739](https://github.com/CleverRaven/Cataclysm-DDA/pull/75739))
 * Redo superglue description ([#75745](https://github.com/CleverRaven/Cataclysm-DDA/pull/75745))
 * Telescopic Eyes cbm cancels mesopic mutation ([#75740](https://github.com/CleverRaven/Cataclysm-DDA/pull/75740))
