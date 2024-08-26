@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-26-1250 ([911eeed](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-1250))
+
 * Give the kitted survivor a smartphone ([#75915](https://github.com/CleverRaven/Cataclysm-DDA/pull/75915))
 * Isolation Protocol:  Add roguelike style health regen and pain reduction ([#75860](https://github.com/CleverRaven/Cataclysm-DDA/pull/75860))
 * towers are vaguely seen as tall buildings ([#75879](https://github.com/CleverRaven/Cataclysm-DDA/pull/75879))
