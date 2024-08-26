@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-26-2014 ([2db2a2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-2014))
+
 * Second nail into the battery coffin ([#75865](https://github.com/CleverRaven/Cataclysm-DDA/pull/75865))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 
@@ -184,11 +189,6 @@
 
 * Weekly Changelog 2024-08-12 to 2024-08-19 ([#75811](https://github.com/CleverRaven/Cataclysm-DDA/pull/75811))
 * Backport planters ([#75832](https://github.com/CleverRaven/Cataclysm-DDA/pull/75832))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-19-2059 ([b2d3edf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-19-2059))
-
 * No Summoned Undead corpse ([#75806](https://github.com/CleverRaven/Cataclysm-DDA/pull/75806))
 * Backport #74092 ([#75821](https://github.com/CleverRaven/Cataclysm-DDA/pull/75821))
 * Backport #75560 ([#75824](https://github.com/CleverRaven/Cataclysm-DDA/pull/75824))
