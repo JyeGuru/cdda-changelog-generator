@@ -1,3 +1,4 @@
+* Fix clang-tidy complaint about double spaces (0.H) (#75957)
 
 Cataclysm-DDA experimental build 2024-08-26-0429 (18b13f1)
 * Pruning some unused IDs (#75926)
@@ -129,7 +130,6 @@ Cataclysm-DDA 0.H release candidate 2024-08-19-1847 (7fa1599)
 * Fif for dialog (#75780)
 * Allow cephalopods to gain the ability to eat, sleep underwater (#75764)
 * Adds the 1911-22 (#75783)
-* Category changes for a few items (#75720)
 * [Magiclysm] Update Restore Genetic Stability biomancer spell for new `MUT_INSTABILITY_MOD` effect (#75746)
 * [Tamable Wildlife] Allow the taming of chicks (#75766)
 * Enchantments can affect monster luminance (#75768)
