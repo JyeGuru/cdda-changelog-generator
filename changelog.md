@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-26-0429 ([18b13f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-0429))
+
 * Pruning some unused IDs ([#75926](https://github.com/CleverRaven/Cataclysm-DDA/pull/75926))
 * Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu ([#75940](https://github.com/CleverRaven/Cataclysm-DDA/pull/75940))
 * Text Error Fixes ([#75927](https://github.com/CleverRaven/Cataclysm-DDA/pull/75927))
@@ -177,11 +182,6 @@
 * Backport #75560 ([#75824](https://github.com/CleverRaven/Cataclysm-DDA/pull/75824))
 * Backport #75662 ([#75826](https://github.com/CleverRaven/Cataclysm-DDA/pull/75826))
 * backport #75616 ([#75825](https://github.com/CleverRaven/Cataclysm-DDA/pull/75825))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-08-19-1549 ([d204abf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-19-1549))
-
 * Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
 * AR Pistol Audit ([#75757](https://github.com/CleverRaven/Cataclysm-DDA/pull/75757))
 * Monster vision enchantment and evaluation ([#75753](https://github.com/CleverRaven/Cataclysm-DDA/pull/75753))
