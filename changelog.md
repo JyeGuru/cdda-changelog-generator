@@ -1,3 +1,23 @@
+* [EOC] fix somethings and add somethings for #75675 string input ([#75949](https://github.com/CleverRaven/Cataclysm-DDA/pull/75949))
+* Bugfix: Reach attack around corners ([#75939](https://github.com/CleverRaven/Cataclysm-DDA/pull/75939))
+* Routine i18n updates on 24 August 2024 ([#75914](https://github.com/CleverRaven/Cataclysm-DDA/pull/75914))
+* Added build instructions for Fedora ([#75906](https://github.com/CleverRaven/Cataclysm-DDA/pull/75906))
+* Fix Dear ImTui Demo ([#75905](https://github.com/CleverRaven/Cataclysm-DDA/pull/75905))
+* Add roof to `apartment_con_new`'s stair bulkhead  ([#75902](https://github.com/CleverRaven/Cataclysm-DDA/pull/75902))
+* Extract graffiti text and vision levels names ([#75894](https://github.com/CleverRaven/Cataclysm-DDA/pull/75894))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-08-26-0150 ([f502188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-26-0150))
+
+* Warn on new character in existing world (0.H) ([#75886](https://github.com/CleverRaven/Cataclysm-DDA/pull/75886))
+* Make Alpha Social not a starting trait  ([#75853](https://github.com/CleverRaven/Cataclysm-DDA/pull/75853))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-26-0108 ([8185064](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-0108))
+
+* Handled nowhere parent ([#75819](https://github.com/CleverRaven/Cataclysm-DDA/pull/75819))
 
 ---
 
@@ -81,7 +101,6 @@
 * [Sky Island] Update Warped Pond recipe with man-made terrain ([#75831](https://github.com/CleverRaven/Cataclysm-DDA/pull/75831))
 * [MoM] Check vitamins not powers for concentration breakers  ([#75795](https://github.com/CleverRaven/Cataclysm-DDA/pull/75795))
 * Neverending problems with disassembly ([#75722](https://github.com/CleverRaven/Cataclysm-DDA/pull/75722))
-* overmap granularity audit: Industrial buildings ([#75704](https://github.com/CleverRaven/Cataclysm-DDA/pull/75704))
 * Give zombie prisoner variants their full name ([#75839](https://github.com/CleverRaven/Cataclysm-DDA/pull/75839))
 * [MoM] Convert Lifting Hand to power, give Telekinetics a new passive ([#75816](https://github.com/CleverRaven/Cataclysm-DDA/pull/75816))
 
@@ -126,7 +145,6 @@
 * Move the remaining lost uncrafts into the uncraft folder ([#75820](https://github.com/CleverRaven/Cataclysm-DDA/pull/75820))
 * Fix reloading with speedloader when it's the only choice ([#75815](https://github.com/CleverRaven/Cataclysm-DDA/pull/75815))
 * Fix spellcast adjustment not working ([#75805](https://github.com/CleverRaven/Cataclysm-DDA/pull/75805))
-* Prevent segfault when deconstructing improvised shelter ([#75703](https://github.com/CleverRaven/Cataclysm-DDA/pull/75703))
 
 ---
 
@@ -161,7 +179,6 @@
 
 * Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
 * AR Pistol Audit ([#75757](https://github.com/CleverRaven/Cataclysm-DDA/pull/75757))
-* draw_colored_text should “draw” an empty line if given an empty string ([#75697](https://github.com/CleverRaven/Cataclysm-DDA/pull/75697))
 * Prevent crash from using invalidated explosion data ([#75711](https://github.com/CleverRaven/Cataclysm-DDA/pull/75711))
 * Monster vision enchantment and evaluation ([#75753](https://github.com/CleverRaven/Cataclysm-DDA/pull/75753))
 * Homullus alchemy ([#75714](https://github.com/CleverRaven/Cataclysm-DDA/pull/75714))
@@ -174,7 +191,6 @@
 * Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
 * Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
 * Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))
-* Some nested recipe fixes ([#75701](https://github.com/CleverRaven/Cataclysm-DDA/pull/75701))
 * wrap the text in the martial arts selection window ([#75737](https://github.com/CleverRaven/Cataclysm-DDA/pull/75737))
 * Prevent crash from -1 array idx when searching zones ([#75739](https://github.com/CleverRaven/Cataclysm-DDA/pull/75739))
 * Redo superglue description ([#75745](https://github.com/CleverRaven/Cataclysm-DDA/pull/75745))
@@ -191,7 +207,6 @@
 * [Tamable Wildlife] Allow the taming of chicks ([#75766](https://github.com/CleverRaven/Cataclysm-DDA/pull/75766))
 * Enchantments can affect monster luminance ([#75768](https://github.com/CleverRaven/Cataclysm-DDA/pull/75768))
 * [TropiCata] Flying bird audit ([#75769](https://github.com/CleverRaven/Cataclysm-DDA/pull/75769))
-* Allow speech to be relearnt in the dark ([#75710](https://github.com/CleverRaven/Cataclysm-DDA/pull/75710))
 * Exclude PARROT special attack from monster difficulty calculations ([#75716](https://github.com/CleverRaven/Cataclysm-DDA/pull/75716))
 * Remove Gyroscopic Stabilizer ([#75749](https://github.com/CleverRaven/Cataclysm-DDA/pull/75749))
 * [MoM] Fix Combat Dance recoil mod ([#75748](https://github.com/CleverRaven/Cataclysm-DDA/pull/75748))
@@ -203,8 +218,3 @@
 * Throw out the kitchen cupboard out of ``bungalow04``'s bedroom ([#75721](https://github.com/CleverRaven/Cataclysm-DDA/pull/75721))
 * wrap the text in the butchery menu ([#75733](https://github.com/CleverRaven/Cataclysm-DDA/pull/75733))
 * Make Frog Eyes neutral ([#75729](https://github.com/CleverRaven/Cataclysm-DDA/pull/75729))
-* Espadrilles are not armor ([#75700](https://github.com/CleverRaven/Cataclysm-DDA/pull/75700))
-* fungal infected ferals have lower speed ([#75694](https://github.com/CleverRaven/Cataclysm-DDA/pull/75694))
-* Make debug Mjollnir unbreakable ([#75706](https://github.com/CleverRaven/Cataclysm-DDA/pull/75706))
-* Keep uilist menu items lined up with each other even if some do not have hotkeys ([#75696](https://github.com/CleverRaven/Cataclysm-DDA/pull/75696))
-* provide a desired_bounds for the vehicle appliance interaction menu ([#75692](https://github.com/CleverRaven/Cataclysm-DDA/pull/75692))
