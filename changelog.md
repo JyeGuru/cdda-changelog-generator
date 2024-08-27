@@ -1,3 +1,11 @@
+* Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
+* Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-27-0159 ([2851bdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-0159))
+
+* [MoM] Further concentration updates ([#75851](https://github.com/CleverRaven/Cataclysm-DDA/pull/75851))
 
 ---
 
@@ -171,11 +179,6 @@
 
 * backport #75668 ([#75828](https://github.com/CleverRaven/Cataclysm-DDA/pull/75828))
 * Backport few magiclysm fixes ([#75841](https://github.com/CleverRaven/Cataclysm-DDA/pull/75841))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-08-20-1933 ([b356ae3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-20-1933))
-
 * Exceptional 0.H i18n update on 19 August 2024 ([#75835](https://github.com/CleverRaven/Cataclysm-DDA/pull/75835))
 * Prevent crash from -1 array idx when searching zones ([#75834](https://github.com/CleverRaven/Cataclysm-DDA/pull/75834))
 * Switch 0.H transifex config to point to the 0.H resource ([#75833](https://github.com/CleverRaven/Cataclysm-DDA/pull/75833))
@@ -205,9 +208,6 @@
 * Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
 * Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
 * Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))
-* Prevent crash from -1 array idx when searching zones ([#75739](https://github.com/CleverRaven/Cataclysm-DDA/pull/75739))
-* Redo superglue description ([#75745](https://github.com/CleverRaven/Cataclysm-DDA/pull/75745))
-* Telescopic Eyes cbm cancels mesopic mutation ([#75740](https://github.com/CleverRaven/Cataclysm-DDA/pull/75740))
 * desert_region: fix too high weight, blacklist meadow and stream ([#75747](https://github.com/CleverRaven/Cataclysm-DDA/pull/75747))
 * Return to always treating hostile NPCs as being dangerous for 0.H ([#75781](https://github.com/CleverRaven/Cataclysm-DDA/pull/75781))
 * Return to always treating hostile NPCs as being dangerous (for 0.I) ([#75782](https://github.com/CleverRaven/Cataclysm-DDA/pull/75782))
