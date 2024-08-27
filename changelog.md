@@ -1,3 +1,5 @@
+* [MOM] Add ephemeral walk to missing EOCs ([#75919](https://github.com/CleverRaven/Cataclysm-DDA/pull/75919))
+* [Magiclysm] Density and weight ([#75934](https://github.com/CleverRaven/Cataclysm-DDA/pull/75934))
 * Change vehicle parts material to mild steel ([#75850](https://github.com/CleverRaven/Cataclysm-DDA/pull/75850))
 * Weakpoints can use conditions and eocs ([#75946](https://github.com/CleverRaven/Cataclysm-DDA/pull/75946))
 
@@ -204,7 +206,6 @@
 * backport #75616 ([#75825](https://github.com/CleverRaven/Cataclysm-DDA/pull/75825))
 * Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
 * AR Pistol Audit ([#75757](https://github.com/CleverRaven/Cataclysm-DDA/pull/75757))
-* Monster vision enchantment and evaluation ([#75753](https://github.com/CleverRaven/Cataclysm-DDA/pull/75753))
 * fix wont_hit_friend causing segfault ([#75760](https://github.com/CleverRaven/Cataclysm-DDA/pull/75760))
 * Drystone wall recipes need more rocks ([#75789](https://github.com/CleverRaven/Cataclysm-DDA/pull/75789))
 * Added validation of mapgen weight ([#75770](https://github.com/CleverRaven/Cataclysm-DDA/pull/75770))
@@ -222,4 +223,3 @@
 * Enchantments can affect monster luminance ([#75768](https://github.com/CleverRaven/Cataclysm-DDA/pull/75768))
 * [TropiCata] Flying bird audit ([#75769](https://github.com/CleverRaven/Cataclysm-DDA/pull/75769))
 * Routine i18n updates on 17 August 2024 ([#75759](https://github.com/CleverRaven/Cataclysm-DDA/pull/75759))
-* Remove beetle weakpoints from the woodlouse ([#75751](https://github.com/CleverRaven/Cataclysm-DDA/pull/75751))
