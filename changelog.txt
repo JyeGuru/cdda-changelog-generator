@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-27-1512 (5e19877)
 * Prevent wielding items under certain conditions while driving (#75955)
 * More buggy friends underground (#75803)
 * Warn about problems related to creating a new character in an existing world for 0.I (#75908)

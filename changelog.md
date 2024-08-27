@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-27-1512 ([5e19877](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-1512))
+
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
 * More buggy friends underground ([#75803](https://github.com/CleverRaven/Cataclysm-DDA/pull/75803))
 * Warn about problems related to creating a new character in an existing world for 0.I ([#75908](https://github.com/CleverRaven/Cataclysm-DDA/pull/75908))
