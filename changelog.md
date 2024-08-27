@@ -216,5 +216,4 @@
 * Return to always treating hostile NPCs as being dangerous (for 0.I) ([#75782](https://github.com/CleverRaven/Cataclysm-DDA/pull/75782))
 * Fif for dialog ([#75780](https://github.com/CleverRaven/Cataclysm-DDA/pull/75780))
 * Adds the 1911-22 ([#75783](https://github.com/CleverRaven/Cataclysm-DDA/pull/75783))
-* Enchantments can affect monster luminance ([#75768](https://github.com/CleverRaven/Cataclysm-DDA/pull/75768))
 * [TropiCata] Flying bird audit ([#75769](https://github.com/CleverRaven/Cataclysm-DDA/pull/75769))
