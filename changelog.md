@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-27-0436 ([9a42acb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-0436))
+
 * Fixed Chitin Gauntlets' coverage inconsistency ([#75972](https://github.com/CleverRaven/Cataclysm-DDA/pull/75972))
 * Fix #73172 ([#75953](https://github.com/CleverRaven/Cataclysm-DDA/pull/75953))
 * Electrohack charges ([#75817](https://github.com/CleverRaven/Cataclysm-DDA/pull/75817))
@@ -175,11 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-08-21-0417 ([6412e91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-21-0417))
 
 * Isolation Protocol: New lab shape ([#75788](https://github.com/CleverRaven/Cataclysm-DDA/pull/75788))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-08-20-2247 ([4180cc3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-20-2247))
-
 * backport #75668 ([#75828](https://github.com/CleverRaven/Cataclysm-DDA/pull/75828))
 * Backport few magiclysm fixes ([#75841](https://github.com/CleverRaven/Cataclysm-DDA/pull/75841))
 * Exceptional 0.H i18n update on 19 August 2024 ([#75835](https://github.com/CleverRaven/Cataclysm-DDA/pull/75835))

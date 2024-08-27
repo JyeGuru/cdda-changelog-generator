@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-27-0436 (9a42acb)
 * Fixed Chitin Gauntlets' coverage inconsistency (#75972)
 * Fix #73172 (#75953)
 * Electrohack charges (#75817)
@@ -103,8 +105,6 @@ Cataclysm-DDA experimental build 2024-08-21-0826 (cdd78ab)
 
 Cataclysm-DDA experimental build 2024-08-21-0417 (6412e91)
 * Isolation Protocol: New lab shape (#75788)
-
-Cataclysm-DDA 0.H release candidate 2024-08-20-2247 (4180cc3)
 * backport #75668 (#75828)
 * Backport few magiclysm fixes (#75841)
 * Exceptional 0.H i18n update on 19 August 2024 (#75835)
