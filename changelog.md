@@ -1,3 +1,4 @@
+* Pruning the old ``to-hit`` syntax - Part 4 ([#75923](https://github.com/CleverRaven/Cataclysm-DDA/pull/75923))
 * [MOM] Add ephemeral walk to missing EOCs ([#75919](https://github.com/CleverRaven/Cataclysm-DDA/pull/75919))
 * [Magiclysm] Density and weight ([#75934](https://github.com/CleverRaven/Cataclysm-DDA/pull/75934))
 * Change vehicle parts material to mild steel ([#75850](https://github.com/CleverRaven/Cataclysm-DDA/pull/75850))
@@ -205,7 +206,6 @@
 * Backport #75662 ([#75826](https://github.com/CleverRaven/Cataclysm-DDA/pull/75826))
 * backport #75616 ([#75825](https://github.com/CleverRaven/Cataclysm-DDA/pull/75825))
 * Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
-* AR Pistol Audit ([#75757](https://github.com/CleverRaven/Cataclysm-DDA/pull/75757))
 * fix wont_hit_friend causing segfault ([#75760](https://github.com/CleverRaven/Cataclysm-DDA/pull/75760))
 * Drystone wall recipes need more rocks ([#75789](https://github.com/CleverRaven/Cataclysm-DDA/pull/75789))
 * Added validation of mapgen weight ([#75770](https://github.com/CleverRaven/Cataclysm-DDA/pull/75770))
