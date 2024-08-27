@@ -1,3 +1,4 @@
+* Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
 * More buggy friends underground ([#75803](https://github.com/CleverRaven/Cataclysm-DDA/pull/75803))
 * Warn about problems related to creating a new character in an existing world for 0.I ([#75908](https://github.com/CleverRaven/Cataclysm-DDA/pull/75908))
 * Mailboxes use wooden posts ([#75932](https://github.com/CleverRaven/Cataclysm-DDA/pull/75932))
@@ -216,4 +217,3 @@
 * Return to always treating hostile NPCs as being dangerous (for 0.I) ([#75782](https://github.com/CleverRaven/Cataclysm-DDA/pull/75782))
 * Fif for dialog ([#75780](https://github.com/CleverRaven/Cataclysm-DDA/pull/75780))
 * Adds the 1911-22 ([#75783](https://github.com/CleverRaven/Cataclysm-DDA/pull/75783))
-* [TropiCata] Flying bird audit ([#75769](https://github.com/CleverRaven/Cataclysm-DDA/pull/75769))
