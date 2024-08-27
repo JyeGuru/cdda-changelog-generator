@@ -197,11 +197,6 @@
 * Move the remaining lost uncrafts into the uncraft folder ([#75820](https://github.com/CleverRaven/Cataclysm-DDA/pull/75820))
 * Fix reloading with speedloader when it's the only choice ([#75815](https://github.com/CleverRaven/Cataclysm-DDA/pull/75815))
 * Fix spellcast adjustment not working ([#75805](https://github.com/CleverRaven/Cataclysm-DDA/pull/75805))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-20-0511 ([a0579c0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-20-0511))
-
 * Weekly Changelog 2024-08-12 to 2024-08-19 ([#75811](https://github.com/CleverRaven/Cataclysm-DDA/pull/75811))
 * Backport planters ([#75832](https://github.com/CleverRaven/Cataclysm-DDA/pull/75832))
 * No Summoned Undead corpse ([#75806](https://github.com/CleverRaven/Cataclysm-DDA/pull/75806))
