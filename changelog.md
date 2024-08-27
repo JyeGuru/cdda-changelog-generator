@@ -1,3 +1,4 @@
+* Electrohack charges ([#75817](https://github.com/CleverRaven/Cataclysm-DDA/pull/75817))
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
 
@@ -214,7 +215,6 @@
 * Fif for dialog ([#75780](https://github.com/CleverRaven/Cataclysm-DDA/pull/75780))
 * Allow cephalopods to gain the ability to eat, sleep underwater ([#75764](https://github.com/CleverRaven/Cataclysm-DDA/pull/75764))
 * Adds the 1911-22 ([#75783](https://github.com/CleverRaven/Cataclysm-DDA/pull/75783))
-* [Magiclysm] Update Restore Genetic Stability biomancer spell for new `MUT_INSTABILITY_MOD` effect ([#75746](https://github.com/CleverRaven/Cataclysm-DDA/pull/75746))
 * [Tamable Wildlife] Allow the taming of chicks ([#75766](https://github.com/CleverRaven/Cataclysm-DDA/pull/75766))
 * Enchantments can affect monster luminance ([#75768](https://github.com/CleverRaven/Cataclysm-DDA/pull/75768))
 * [TropiCata] Flying bird audit ([#75769](https://github.com/CleverRaven/Cataclysm-DDA/pull/75769))
