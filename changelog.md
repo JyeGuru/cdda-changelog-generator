@@ -1,3 +1,4 @@
+* Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
 
 ---
 
@@ -212,7 +213,6 @@
 * backport #75616 ([#75825](https://github.com/CleverRaven/Cataclysm-DDA/pull/75825))
 * Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
 * Drystone wall recipes need more rocks ([#75789](https://github.com/CleverRaven/Cataclysm-DDA/pull/75789))
-* Added validation of mapgen weight ([#75770](https://github.com/CleverRaven/Cataclysm-DDA/pull/75770))
 * wrap the descriptions in the EOC selector menu ([#75790](https://github.com/CleverRaven/Cataclysm-DDA/pull/75790))
 * Move ``recipe_deconstruction.json`` to the uncraft folder ([#75797](https://github.com/CleverRaven/Cataclysm-DDA/pull/75797))
 * Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))

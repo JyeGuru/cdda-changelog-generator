@@ -1,3 +1,4 @@
+* Fishing is chill (#75994)
 
 Cataclysm-DDA experimental build 2024-08-27-1512 (5e19877)
 * Prevent wielding items under certain conditions while driving (#75955)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2024-08-21-0417 (6412e91)
 * backport #75616 (#75825)
 * Backport #75364 (#75822)
 * Drystone wall recipes need more rocks (#75789)
-* Added validation of mapgen weight (#75770)
 * wrap the descriptions in the EOC selector menu (#75790)
 * Move ``recipe_deconstruction.json`` to the uncraft folder (#75797)
 * Exclude food eating special attacks from monster difficulty calculation (#75804)
