@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-27-1941 ([871d063](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-1941))
+
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
 
 ---
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-08-21-0826 ([cdd78ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-21-0826))
 
 * format `uilist` menu entries with a table ([#75845](https://github.com/CleverRaven/Cataclysm-DDA/pull/75845))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-21-0417 ([6412e91](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-21-0417))
-
 * Isolation Protocol: New lab shape ([#75788](https://github.com/CleverRaven/Cataclysm-DDA/pull/75788))
 * backport #75668 ([#75828](https://github.com/CleverRaven/Cataclysm-DDA/pull/75828))
 * Backport few magiclysm fixes ([#75841](https://github.com/CleverRaven/Cataclysm-DDA/pull/75841))
