@@ -1,3 +1,4 @@
+* Fix macos builds from using ungated std::filesystem calls in cata_imgui (#75986)
 
 Cataclysm-DDA experimental build 2024-08-27-1717 (83b5393)
 * Fishing is chill (#75994)
@@ -100,7 +101,6 @@ Cataclysm-DDA experimental build 2024-08-22-2346 (6848495)
 * [Xedra Evolved] Wolves Can't Talk (#75875)
 * [MoM] Add variable to Lifting Field update EoC (#75870)
 * [MOM] Add Reality Tear Teleporter Power (#75876)
-* Audit the remaining vanilla birds (#75779)
 
 Cataclysm-DDA experimental build 2024-08-22-2053 (88e7ada)
 * [MOM] Add teleportation ephemeral walk power (#75867)

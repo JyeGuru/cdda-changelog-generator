@@ -1,3 +1,4 @@
+* Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
 
 ---
 
@@ -166,7 +167,6 @@
 * [Xedra Evolved] Wolves Can't Talk ([#75875](https://github.com/CleverRaven/Cataclysm-DDA/pull/75875))
 * [MoM] Add variable to Lifting Field update EoC ([#75870](https://github.com/CleverRaven/Cataclysm-DDA/pull/75870))
 * [MOM] Add Reality Tear Teleporter Power ([#75876](https://github.com/CleverRaven/Cataclysm-DDA/pull/75876))
-* Audit the remaining vanilla birds ([#75779](https://github.com/CleverRaven/Cataclysm-DDA/pull/75779))
 
 ---
 
