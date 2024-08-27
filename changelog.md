@@ -14,7 +14,7 @@
 
 * Fixed Chitin Gauntlets' coverage inconsistency ([#75972](https://github.com/CleverRaven/Cataclysm-DDA/pull/75972))
 * Fix #73172 ([#75953](https://github.com/CleverRaven/Cataclysm-DDA/pull/75953))
-* Electrohack charges ([#75817](https://github.com/CleverRaven/Cataclysm-DDA/pull/75817))
+* Electrohack Charges ([#75817](https://github.com/CleverRaven/Cataclysm-DDA/pull/75817))
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
 

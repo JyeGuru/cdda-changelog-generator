@@ -11,7 +11,7 @@
 Cataclysm-DDA experimental build 2024-08-27-0436 (9a42acb)
 * Fixed Chitin Gauntlets' coverage inconsistency (#75972)
 * Fix #73172 (#75953)
-* Electrohack charges (#75817)
+* Electrohack Charges (#75817)
 * Silence clang-tidy warning about useless const (#75981)
 * Make the chemist receive actually 100L of gasoline (#75965)
 
