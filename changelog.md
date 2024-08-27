@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-27-2304 ([2430ee4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-2304))
+
+* Extract `game::find_stairs` from `game::find_or_make_stairs` ([#75963](https://github.com/CleverRaven/Cataclysm-DDA/pull/75963))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-27-1941 ([871d063](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-1941))
 
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-08-22-0221 ([2823ab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-0221))
 
 * Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-21-0826 ([cdd78ab](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-21-0826))
-
 * format `uilist` menu entries with a table ([#75845](https://github.com/CleverRaven/Cataclysm-DDA/pull/75845))
 * Isolation Protocol: New lab shape ([#75788](https://github.com/CleverRaven/Cataclysm-DDA/pull/75788))
 * backport #75668 ([#75828](https://github.com/CleverRaven/Cataclysm-DDA/pull/75828))
@@ -225,5 +226,4 @@
 * Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))
 * Return to always treating hostile NPCs as being dangerous for 0.H ([#75781](https://github.com/CleverRaven/Cataclysm-DDA/pull/75781))
 * Return to always treating hostile NPCs as being dangerous (for 0.I) ([#75782](https://github.com/CleverRaven/Cataclysm-DDA/pull/75782))
-* Fif for dialog ([#75780](https://github.com/CleverRaven/Cataclysm-DDA/pull/75780))
 * Adds the 1911-22 ([#75783](https://github.com/CleverRaven/Cataclysm-DDA/pull/75783))
