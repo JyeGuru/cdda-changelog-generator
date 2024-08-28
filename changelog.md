@@ -1,3 +1,4 @@
+* [MoM] Rework Gateway ([#75872](https://github.com/CleverRaven/Cataclysm-DDA/pull/75872))
 
 ---
 
@@ -210,7 +211,6 @@
 * [MoM] Convert Lifting Hand to power, give Telekinetics a new passive ([#75816](https://github.com/CleverRaven/Cataclysm-DDA/pull/75816))
 * Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
 * format `uilist` menu entries with a table ([#75845](https://github.com/CleverRaven/Cataclysm-DDA/pull/75845))
-* Isolation Protocol: New lab shape ([#75788](https://github.com/CleverRaven/Cataclysm-DDA/pull/75788))
 * backport #75668 ([#75828](https://github.com/CleverRaven/Cataclysm-DDA/pull/75828))
 * Backport few magiclysm fixes ([#75841](https://github.com/CleverRaven/Cataclysm-DDA/pull/75841))
 * Exceptional 0.H i18n update on 19 August 2024 ([#75835](https://github.com/CleverRaven/Cataclysm-DDA/pull/75835))

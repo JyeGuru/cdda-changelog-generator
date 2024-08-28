@@ -1,3 +1,4 @@
+* [MoM] Rework Gateway (#75872)
 
 Cataclysm-DDA experimental build 2024-08-28-0431 (3e39d80)
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl (#75971)
@@ -126,7 +127,6 @@ Cataclysm-DDA experimental build 2024-08-22-0621 (15a5866)
 * [MoM] Convert Lifting Hand to power, give Telekinetics a new passive (#75816)
 * Fix android build (#75858)
 * format `uilist` menu entries with a table (#75845)
-* Isolation Protocol: New lab shape (#75788)
 * backport #75668 (#75828)
 * Backport few magiclysm fixes (#75841)
 * Exceptional 0.H i18n update on 19 August 2024 (#75835)
