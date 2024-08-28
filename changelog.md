@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-28-0630 ([3484533](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-0630))
+
 * [MoM] Rework Gateway ([#75872](https://github.com/CleverRaven/Cataclysm-DDA/pull/75872))
 
 ---
@@ -199,11 +204,6 @@
 #### Cataclysm-DDA experimental build 2024-08-22-2053 ([88e7ada](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-2053))
 
 * [MOM] Add teleportation ephemeral walk power ([#75867](https://github.com/CleverRaven/Cataclysm-DDA/pull/75867))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-22-0621 ([15a5866](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-0621))
-
 * migrate miner hat to hard hat with flashlight ([#75844](https://github.com/CleverRaven/Cataclysm-DDA/pull/75844))
 * [Sky Island] Update Warped Pond recipe with man-made terrain ([#75831](https://github.com/CleverRaven/Cataclysm-DDA/pull/75831))
 * [MoM] Check vitamins not powers for concentration breakers  ([#75795](https://github.com/CleverRaven/Cataclysm-DDA/pull/75795))
