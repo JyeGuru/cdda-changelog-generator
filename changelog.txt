@@ -1,3 +1,8 @@
+* Hunted forever scenario description correction (#75854)
+* Fixed clamping order count in trading inventory (#75849)
+
+Cataclysm-DDA experimental build 2024-08-28-0235 (facba24)
+* Adjust Feral Prepper Gun Drops (#75982)
 
 Cataclysm-DDA experimental build 2024-08-27-2304 (2430ee4)
 * Extract `game::find_stairs` from `game::find_or_make_stairs` (#75963)
@@ -143,6 +148,3 @@ Cataclysm-DDA experimental build 2024-08-22-0221 (2823ab1)
 * Exclude food eating special attacks from monster difficulty calculation (#75804)
 * Update tropical_reptile_amphibian.json (#75807)
 * Backport #71801 to the 0.H branch (#75787)
-* Return to always treating hostile NPCs as being dangerous for 0.H (#75781)
-* Return to always treating hostile NPCs as being dangerous (for 0.I) (#75782)
-* Adds the 1911-22 (#75783)

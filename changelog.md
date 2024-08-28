@@ -1,3 +1,11 @@
+* Hunted forever scenario description correction ([#75854](https://github.com/CleverRaven/Cataclysm-DDA/pull/75854))
+* Fixed clamping order count in trading inventory ([#75849](https://github.com/CleverRaven/Cataclysm-DDA/pull/75849))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-28-0235 ([facba24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-0235))
+
+* Adjust Feral Prepper Gun Drops ([#75982](https://github.com/CleverRaven/Cataclysm-DDA/pull/75982))
 
 ---
 
@@ -224,6 +232,3 @@
 * Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
 * Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
 * Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))
-* Return to always treating hostile NPCs as being dangerous for 0.H ([#75781](https://github.com/CleverRaven/Cataclysm-DDA/pull/75781))
-* Return to always treating hostile NPCs as being dangerous (for 0.I) ([#75782](https://github.com/CleverRaven/Cataclysm-DDA/pull/75782))
-* Adds the 1911-22 ([#75783](https://github.com/CleverRaven/Cataclysm-DDA/pull/75783))
