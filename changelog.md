@@ -1,3 +1,4 @@
+* move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl ([#75971](https://github.com/CleverRaven/Cataclysm-DDA/pull/75971))
 * Hunted forever scenario description correction ([#75854](https://github.com/CleverRaven/Cataclysm-DDA/pull/75854))
 * Fixed clamping order count in trading inventory ([#75849](https://github.com/CleverRaven/Cataclysm-DDA/pull/75849))
 
@@ -231,4 +232,3 @@
 * Move ``recipe_deconstruction.json`` to the uncraft folder ([#75797](https://github.com/CleverRaven/Cataclysm-DDA/pull/75797))
 * Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
 * Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
-* Backport #71801 to the 0.H branch ([#75787](https://github.com/CleverRaven/Cataclysm-DDA/pull/75787))

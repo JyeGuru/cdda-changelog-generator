@@ -1,3 +1,4 @@
+* move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl (#75971)
 * Hunted forever scenario description correction (#75854)
 * Fixed clamping order count in trading inventory (#75849)
 
@@ -147,4 +148,3 @@ Cataclysm-DDA experimental build 2024-08-22-0221 (2823ab1)
 * Move ``recipe_deconstruction.json`` to the uncraft folder (#75797)
 * Exclude food eating special attacks from monster difficulty calculation (#75804)
 * Update tropical_reptile_amphibian.json (#75807)
-* Backport #71801 to the 0.H branch (#75787)
