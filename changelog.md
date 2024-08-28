@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-28-2317 ([72a0ea0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-2317))
+
+* [Xedra] Inventor: (Re)Add Dimensional Research ([#75916](https://github.com/CleverRaven/Cataclysm-DDA/pull/75916))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-28-2010 ([4696f0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-2010))
 
 * [MoM] Fix snippet codename ([#76015](https://github.com/CleverRaven/Cataclysm-DDA/pull/76015))
@@ -194,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-08-23-2024 ([6d6779a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-23-2024))
 
 * [MoM] Add QD944-P 'Mindsight' glasses ([#75855](https://github.com/CleverRaven/Cataclysm-DDA/pull/75855))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-23-1745 ([80626e6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-23-1745))
-
 * [MoM] Add PHASE_DISTANCE to Astral Projection ([#75890](https://github.com/CleverRaven/Cataclysm-DDA/pull/75890))
 * Prevent automatic assignment of hotkeys to passive mutations ([#75896](https://github.com/CleverRaven/Cataclysm-DDA/pull/75896))
 * Add jack-o'-lantern recipe byproducts ([#75893](https://github.com/CleverRaven/Cataclysm-DDA/pull/75893))
@@ -229,6 +230,5 @@
 * Backport #75662 ([#75826](https://github.com/CleverRaven/Cataclysm-DDA/pull/75826))
 * backport #75616 ([#75825](https://github.com/CleverRaven/Cataclysm-DDA/pull/75825))
 * Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
-* Move ``recipe_deconstruction.json`` to the uncraft folder ([#75797](https://github.com/CleverRaven/Cataclysm-DDA/pull/75797))
 * Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
 * Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
