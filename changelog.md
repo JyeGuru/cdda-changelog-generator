@@ -1,3 +1,10 @@
+* Lobster in ocean monster group ([#75996](https://github.com/CleverRaven/Cataclysm-DDA/pull/75996))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-28-1527 ([0897544](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-1527))
+
+* Update EFFECT_ON_CONDITION.md ([#75951](https://github.com/CleverRaven/Cataclysm-DDA/pull/75951))
 
 ---
 
@@ -198,11 +205,6 @@
 * [Xedra Evolved] Wolves Can't Talk ([#75875](https://github.com/CleverRaven/Cataclysm-DDA/pull/75875))
 * [MoM] Add variable to Lifting Field update EoC ([#75870](https://github.com/CleverRaven/Cataclysm-DDA/pull/75870))
 * [MOM] Add Reality Tear Teleporter Power ([#75876](https://github.com/CleverRaven/Cataclysm-DDA/pull/75876))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-22-2053 ([88e7ada](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-2053))
-
 * [MOM] Add teleportation ephemeral walk power ([#75867](https://github.com/CleverRaven/Cataclysm-DDA/pull/75867))
 * migrate miner hat to hard hat with flashlight ([#75844](https://github.com/CleverRaven/Cataclysm-DDA/pull/75844))
 * [Sky Island] Update Warped Pond recipe with man-made terrain ([#75831](https://github.com/CleverRaven/Cataclysm-DDA/pull/75831))
@@ -227,8 +229,6 @@
 * Backport #75662 ([#75826](https://github.com/CleverRaven/Cataclysm-DDA/pull/75826))
 * backport #75616 ([#75825](https://github.com/CleverRaven/Cataclysm-DDA/pull/75825))
 * Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
-* Drystone wall recipes need more rocks ([#75789](https://github.com/CleverRaven/Cataclysm-DDA/pull/75789))
-* wrap the descriptions in the EOC selector menu ([#75790](https://github.com/CleverRaven/Cataclysm-DDA/pull/75790))
 * Move ``recipe_deconstruction.json`` to the uncraft folder ([#75797](https://github.com/CleverRaven/Cataclysm-DDA/pull/75797))
 * Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
 * Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
