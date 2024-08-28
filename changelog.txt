@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-28-0431 (3e39d80)
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl (#75971)
 * Hunted forever scenario description correction (#75854)
 * Fixed clamping order count in trading inventory (#75849)
@@ -122,8 +124,6 @@ Cataclysm-DDA experimental build 2024-08-22-0621 (15a5866)
 * [MoM] Check vitamins not powers for concentration breakers  (#75795)
 * Give zombie prisoner variants their full name (#75839)
 * [MoM] Convert Lifting Hand to power, give Telekinetics a new passive (#75816)
-
-Cataclysm-DDA experimental build 2024-08-22-0221 (2823ab1)
 * Fix android build (#75858)
 * format `uilist` menu entries with a table (#75845)
 * Isolation Protocol: New lab shape (#75788)

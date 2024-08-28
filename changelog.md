@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-28-0431 ([3e39d80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-0431))
+
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl ([#75971](https://github.com/CleverRaven/Cataclysm-DDA/pull/75971))
 * Hunted forever scenario description correction ([#75854](https://github.com/CleverRaven/Cataclysm-DDA/pull/75854))
 * Fixed clamping order count in trading inventory ([#75849](https://github.com/CleverRaven/Cataclysm-DDA/pull/75849))
@@ -203,11 +208,6 @@
 * [MoM] Check vitamins not powers for concentration breakers  ([#75795](https://github.com/CleverRaven/Cataclysm-DDA/pull/75795))
 * Give zombie prisoner variants their full name ([#75839](https://github.com/CleverRaven/Cataclysm-DDA/pull/75839))
 * [MoM] Convert Lifting Hand to power, give Telekinetics a new passive ([#75816](https://github.com/CleverRaven/Cataclysm-DDA/pull/75816))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-22-0221 ([2823ab1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-0221))
-
 * Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
 * format `uilist` menu entries with a table ([#75845](https://github.com/CleverRaven/Cataclysm-DDA/pull/75845))
 * Isolation Protocol: New lab shape ([#75788](https://github.com/CleverRaven/Cataclysm-DDA/pull/75788))
