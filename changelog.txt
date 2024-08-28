@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-28-2010 (4696f0d)
+* [MoM] Fix snippet codename (#76015)
+
 Cataclysm-DDA experimental build 2024-08-28-1747 (9744b0a)
 * Lobster in ocean monster group (#75996)
 
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2024-08-23-2024 (6d6779a)
 Cataclysm-DDA experimental build 2024-08-23-1745 (80626e6)
 * [MoM] Add PHASE_DISTANCE to Astral Projection (#75890)
 * Prevent automatic assignment of hotkeys to passive mutations (#75896)
-
-Cataclysm-DDA experimental build 2024-08-23-1441 (7de63a0)
 * Add jack-o'-lantern recipe byproducts (#75893)
 * [Xedra Evolved] Add werewolf start scenario (#75863)
 * [Xedra Evolved] Wolves Can't Talk (#75875)
@@ -124,7 +125,6 @@ Cataclysm-DDA experimental build 2024-08-23-1441 (7de63a0)
 * [MOM] Add teleportation ephemeral walk power (#75867)
 * migrate miner hat to hard hat with flashlight (#75844)
 * [Sky Island] Update Warped Pond recipe with man-made terrain (#75831)
-* [MoM] Check vitamins not powers for concentration breakers  (#75795)
 * Give zombie prisoner variants their full name (#75839)
 * [MoM] Convert Lifting Hand to power, give Telekinetics a new passive (#75816)
 * Fix android build (#75858)

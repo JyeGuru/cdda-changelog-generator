@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-28-2010 ([4696f0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-2010))
+
+* [MoM] Fix snippet codename ([#76015](https://github.com/CleverRaven/Cataclysm-DDA/pull/76015))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-28-1747 ([9744b0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-1747))
 
 * Lobster in ocean monster group ([#75996](https://github.com/CleverRaven/Cataclysm-DDA/pull/75996))
@@ -195,11 +201,6 @@
 
 * [MoM] Add PHASE_DISTANCE to Astral Projection ([#75890](https://github.com/CleverRaven/Cataclysm-DDA/pull/75890))
 * Prevent automatic assignment of hotkeys to passive mutations ([#75896](https://github.com/CleverRaven/Cataclysm-DDA/pull/75896))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-23-1441 ([7de63a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-23-1441))
-
 * Add jack-o'-lantern recipe byproducts ([#75893](https://github.com/CleverRaven/Cataclysm-DDA/pull/75893))
 * [Xedra Evolved] Add werewolf start scenario ([#75863](https://github.com/CleverRaven/Cataclysm-DDA/pull/75863))
 * [Xedra Evolved] Wolves Can't Talk ([#75875](https://github.com/CleverRaven/Cataclysm-DDA/pull/75875))
@@ -208,7 +209,6 @@
 * [MOM] Add teleportation ephemeral walk power ([#75867](https://github.com/CleverRaven/Cataclysm-DDA/pull/75867))
 * migrate miner hat to hard hat with flashlight ([#75844](https://github.com/CleverRaven/Cataclysm-DDA/pull/75844))
 * [Sky Island] Update Warped Pond recipe with man-made terrain ([#75831](https://github.com/CleverRaven/Cataclysm-DDA/pull/75831))
-* [MoM] Check vitamins not powers for concentration breakers  ([#75795](https://github.com/CleverRaven/Cataclysm-DDA/pull/75795))
 * Give zombie prisoner variants their full name ([#75839](https://github.com/CleverRaven/Cataclysm-DDA/pull/75839))
 * [MoM] Convert Lifting Hand to power, give Telekinetics a new passive ([#75816](https://github.com/CleverRaven/Cataclysm-DDA/pull/75816))
 * Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
