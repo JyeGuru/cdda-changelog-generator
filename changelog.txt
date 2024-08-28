@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-08-28-1747 (9744b0a)
 * Lobster in ocean monster group (#75996)
 
 Cataclysm-DDA experimental build 2024-08-28-1527 (0897544)
@@ -115,8 +117,6 @@ Cataclysm-DDA experimental build 2024-08-23-1745 (80626e6)
 
 Cataclysm-DDA experimental build 2024-08-23-1441 (7de63a0)
 * Add jack-o'-lantern recipe byproducts (#75893)
-
-Cataclysm-DDA experimental build 2024-08-22-2346 (6848495)
 * [Xedra Evolved] Add werewolf start scenario (#75863)
 * [Xedra Evolved] Wolves Can't Talk (#75875)
 * [MoM] Add variable to Lifting Field update EoC (#75870)

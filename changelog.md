@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-28-1747 ([9744b0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-1747))
+
 * Lobster in ocean monster group ([#75996](https://github.com/CleverRaven/Cataclysm-DDA/pull/75996))
 
 ---
@@ -196,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-08-23-1441 ([7de63a0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-23-1441))
 
 * Add jack-o'-lantern recipe byproducts ([#75893](https://github.com/CleverRaven/Cataclysm-DDA/pull/75893))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-22-2346 ([6848495](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-22-2346))
-
 * [Xedra Evolved] Add werewolf start scenario ([#75863](https://github.com/CleverRaven/Cataclysm-DDA/pull/75863))
 * [Xedra Evolved] Wolves Can't Talk ([#75875](https://github.com/CleverRaven/Cataclysm-DDA/pull/75875))
 * [MoM] Add variable to Lifting Field update EoC ([#75870](https://github.com/CleverRaven/Cataclysm-DDA/pull/75870))
