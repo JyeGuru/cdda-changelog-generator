@@ -118,8 +118,6 @@ Cataclysm-DDA experimental build 2024-08-24-0612 (ae2b99e)
 
 Cataclysm-DDA experimental build 2024-08-24-0256 (1d2312b)
 * Fix driveway of in-construction house_01 (#75898)
-
-Cataclysm-DDA experimental build 2024-08-23-2024 (6d6779a)
 * [MoM] Add QD944-P 'Mindsight' glasses (#75855)
 * [MoM] Add PHASE_DISTANCE to Astral Projection (#75890)
 * Prevent automatic assignment of hotkeys to passive mutations (#75896)

@@ -199,11 +199,6 @@
 #### Cataclysm-DDA experimental build 2024-08-24-0256 ([1d2312b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-24-0256))
 
 * Fix driveway of in-construction house_01 ([#75898](https://github.com/CleverRaven/Cataclysm-DDA/pull/75898))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-23-2024 ([6d6779a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-23-2024))
-
 * [MoM] Add QD944-P 'Mindsight' glasses ([#75855](https://github.com/CleverRaven/Cataclysm-DDA/pull/75855))
 * [MoM] Add PHASE_DISTANCE to Astral Projection ([#75890](https://github.com/CleverRaven/Cataclysm-DDA/pull/75890))
 * Prevent automatic assignment of hotkeys to passive mutations ([#75896](https://github.com/CleverRaven/Cataclysm-DDA/pull/75896))
