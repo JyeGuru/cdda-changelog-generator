@@ -115,8 +115,6 @@ Cataclysm-DDA experimental build 2024-08-25-0056 (dcc918e)
 Cataclysm-DDA experimental build 2024-08-24-0612 (ae2b99e)
 * [Sky Island] Make bettter security containers obtainable (#75883)
 * [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions (#75891)
-
-Cataclysm-DDA experimental build 2024-08-24-0256 (1d2312b)
 * Fix driveway of in-construction house_01 (#75898)
 * [MoM] Add QD944-P 'Mindsight' glasses (#75855)
 * [MoM] Add PHASE_DISTANCE to Astral Projection (#75890)

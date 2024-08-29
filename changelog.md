@@ -193,11 +193,6 @@
 
 * [Sky Island] Make bettter security containers obtainable ([#75883](https://github.com/CleverRaven/Cataclysm-DDA/pull/75883))
 * [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions ([#75891](https://github.com/CleverRaven/Cataclysm-DDA/pull/75891))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-24-0256 ([1d2312b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-24-0256))
-
 * Fix driveway of in-construction house_01 ([#75898](https://github.com/CleverRaven/Cataclysm-DDA/pull/75898))
 * [MoM] Add QD944-P 'Mindsight' glasses ([#75855](https://github.com/CleverRaven/Cataclysm-DDA/pull/75855))
 * [MoM] Add PHASE_DISTANCE to Astral Projection ([#75890](https://github.com/CleverRaven/Cataclysm-DDA/pull/75890))
