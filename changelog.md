@@ -1,3 +1,4 @@
+* Adjust military/police magazines ([#76016](https://github.com/CleverRaven/Cataclysm-DDA/pull/76016))
 * Weekly Changelog 2024-08-19 to 2024-08-26 ([#75956](https://github.com/CleverRaven/Cataclysm-DDA/pull/75956))
 * Apply mag_jam_mult to helical and drum magazines ([#75970](https://github.com/CleverRaven/Cataclysm-DDA/pull/75970))
 * [MoM] Add Illuminate Photokinetic power ([#75979](https://github.com/CleverRaven/Cataclysm-DDA/pull/75979))
@@ -206,7 +207,6 @@
 * migrate miner hat to hard hat with flashlight ([#75844](https://github.com/CleverRaven/Cataclysm-DDA/pull/75844))
 * [Sky Island] Update Warped Pond recipe with man-made terrain ([#75831](https://github.com/CleverRaven/Cataclysm-DDA/pull/75831))
 * Give zombie prisoner variants their full name ([#75839](https://github.com/CleverRaven/Cataclysm-DDA/pull/75839))
-* [MoM] Convert Lifting Hand to power, give Telekinetics a new passive ([#75816](https://github.com/CleverRaven/Cataclysm-DDA/pull/75816))
 * Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
 * format `uilist` menu entries with a table ([#75845](https://github.com/CleverRaven/Cataclysm-DDA/pull/75845))
 * backport #75668 ([#75828](https://github.com/CleverRaven/Cataclysm-DDA/pull/75828))
