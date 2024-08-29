@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-29-0513 ([673d845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-29-0513))
+
 * Adjust military/police magazines ([#76016](https://github.com/CleverRaven/Cataclysm-DDA/pull/76016))
 * Weekly Changelog 2024-08-19 to 2024-08-26 ([#75956](https://github.com/CleverRaven/Cataclysm-DDA/pull/75956))
 * Apply mag_jam_mult to helical and drum magazines ([#75970](https://github.com/CleverRaven/Cataclysm-DDA/pull/75970))
@@ -187,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-08-25-0056 ([dcc918e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-0056))
 
 * Made human products get human 'vitamin' and vitamin inheritance ([#75918](https://github.com/CleverRaven/Cataclysm-DDA/pull/75918))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-24-0612 ([ae2b99e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-24-0612))
-
 * [Sky Island] Make bettter security containers obtainable ([#75883](https://github.com/CleverRaven/Cataclysm-DDA/pull/75883))
 * [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions ([#75891](https://github.com/CleverRaven/Cataclysm-DDA/pull/75891))
 * Fix driveway of in-construction house_01 ([#75898](https://github.com/CleverRaven/Cataclysm-DDA/pull/75898))
