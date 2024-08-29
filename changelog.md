@@ -1,3 +1,9 @@
+* Weekly Changelog 2024-08-19 to 2024-08-26 ([#75956](https://github.com/CleverRaven/Cataclysm-DDA/pull/75956))
+* Apply mag_jam_mult to helical and drum magazines ([#75970](https://github.com/CleverRaven/Cataclysm-DDA/pull/75970))
+* [MoM] Add Illuminate Photokinetic power ([#75979](https://github.com/CleverRaven/Cataclysm-DDA/pull/75979))
+* Change "stock mount" to "stock" for SIG rattler ([#76001](https://github.com/CleverRaven/Cataclysm-DDA/pull/76001))
+* JSON-ify sleep 2: Skeep No More ([#76003](https://github.com/CleverRaven/Cataclysm-DDA/pull/76003))
+* ui_adaptor: don't invalidate uis below when exiting game ([#76000](https://github.com/CleverRaven/Cataclysm-DDA/pull/76000))
 
 ---
 
@@ -66,7 +72,6 @@
 #### Cataclysm-DDA experimental build 2024-08-27-1512 ([5e19877](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-1512))
 
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
-* More buggy friends underground ([#75803](https://github.com/CleverRaven/Cataclysm-DDA/pull/75803))
 * Warn about problems related to creating a new character in an existing world for 0.I ([#75908](https://github.com/CleverRaven/Cataclysm-DDA/pull/75908))
 * Mailboxes use wooden posts ([#75932](https://github.com/CleverRaven/Cataclysm-DDA/pull/75932))
 * Some new reptiles ([#75829](https://github.com/CleverRaven/Cataclysm-DDA/pull/75829))
@@ -220,15 +225,9 @@
 * Prevent crash from -1 array idx when searching zones ([#75834](https://github.com/CleverRaven/Cataclysm-DDA/pull/75834))
 * Switch 0.H transifex config to point to the 0.H resource ([#75833](https://github.com/CleverRaven/Cataclysm-DDA/pull/75833))
 * Move the remaining lost uncrafts into the uncraft folder ([#75820](https://github.com/CleverRaven/Cataclysm-DDA/pull/75820))
-* Fix reloading with speedloader when it's the only choice ([#75815](https://github.com/CleverRaven/Cataclysm-DDA/pull/75815))
-* Fix spellcast adjustment not working ([#75805](https://github.com/CleverRaven/Cataclysm-DDA/pull/75805))
-* Weekly Changelog 2024-08-12 to 2024-08-19 ([#75811](https://github.com/CleverRaven/Cataclysm-DDA/pull/75811))
 * Backport planters ([#75832](https://github.com/CleverRaven/Cataclysm-DDA/pull/75832))
-* No Summoned Undead corpse ([#75806](https://github.com/CleverRaven/Cataclysm-DDA/pull/75806))
 * Backport #74092 ([#75821](https://github.com/CleverRaven/Cataclysm-DDA/pull/75821))
 * Backport #75560 ([#75824](https://github.com/CleverRaven/Cataclysm-DDA/pull/75824))
 * Backport #75662 ([#75826](https://github.com/CleverRaven/Cataclysm-DDA/pull/75826))
 * backport #75616 ([#75825](https://github.com/CleverRaven/Cataclysm-DDA/pull/75825))
 * Backport #75364 ([#75822](https://github.com/CleverRaven/Cataclysm-DDA/pull/75822))
-* Exclude food eating special attacks from monster difficulty calculation ([#75804](https://github.com/CleverRaven/Cataclysm-DDA/pull/75804))
-* Update tropical_reptile_amphibian.json ([#75807](https://github.com/CleverRaven/Cataclysm-DDA/pull/75807))
