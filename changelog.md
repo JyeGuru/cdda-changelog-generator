@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-29-1703 ([79e2897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-29-1703))
+
+* [MoM] Remove crystal shard use_action ([#76024](https://github.com/CleverRaven/Cataclysm-DDA/pull/76024))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-29-0513 ([673d845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-29-0513))
 
 * Adjust military/police magazines ([#76016](https://github.com/CleverRaven/Cataclysm-DDA/pull/76016))
@@ -93,7 +99,6 @@
 
 * Fixed Chitin Gauntlets' coverage inconsistency ([#75972](https://github.com/CleverRaven/Cataclysm-DDA/pull/75972))
 * Fix #73172 ([#75953](https://github.com/CleverRaven/Cataclysm-DDA/pull/75953))
-* Electrohack Charges ([#75817](https://github.com/CleverRaven/Cataclysm-DDA/pull/75817))
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
 

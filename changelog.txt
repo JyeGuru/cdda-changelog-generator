@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-29-1703 (79e2897)
+* [MoM] Remove crystal shard use_action (#76024)
+
 Cataclysm-DDA experimental build 2024-08-29-0513 (673d845)
 * Adjust military/police magazines (#76016)
 * Weekly Changelog 2024-08-19 to 2024-08-26 (#75956)
@@ -54,7 +57,6 @@ Cataclysm-DDA experimental build 2024-08-27-1512 (5e19877)
 Cataclysm-DDA experimental build 2024-08-27-0436 (9a42acb)
 * Fixed Chitin Gauntlets' coverage inconsistency (#75972)
 * Fix #73172 (#75953)
-* Electrohack Charges (#75817)
 * Silence clang-tidy warning about useless const (#75981)
 * Make the chemist receive actually 100L of gasoline (#75965)
 
