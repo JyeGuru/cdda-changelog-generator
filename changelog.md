@@ -168,12 +168,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-08-26-0108 ([8185064](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-0108))
-
-* Handled nowhere parent ([#75819](https://github.com/CleverRaven/Cataclysm-DDA/pull/75819))
-
----
-
 #### Cataclysm-DDA experimental build 2024-08-25-2047 ([9bacf01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-2047))
 
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))

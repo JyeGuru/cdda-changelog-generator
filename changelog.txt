@@ -100,9 +100,6 @@ Cataclysm-DDA 0.H release candidate 2024-08-26-0150 (f502188)
 * Warn on new character in existing world (0.H) (#75886)
 * Make Alpha Social not a starting trait  (#75853)
 
-Cataclysm-DDA experimental build 2024-08-26-0108 (8185064)
-* Handled nowhere parent (#75819)
-
 Cataclysm-DDA experimental build 2024-08-25-2047 (9bacf01)
 * [Xedra Evolved] More Paraclesian restrictions (#75931)
 
