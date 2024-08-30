@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-30-1256 ([1ab5fb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-1256))
+
 * EOC OMT search functions look for matching type ([#75836](https://github.com/CleverRaven/Cataclysm-DDA/pull/75836))
 
 ---
@@ -191,11 +196,6 @@
 
 * Warn on new character in existing world (0.H) ([#75886](https://github.com/CleverRaven/Cataclysm-DDA/pull/75886))
 * Make Alpha Social not a starting trait  ([#75853](https://github.com/CleverRaven/Cataclysm-DDA/pull/75853))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-25-2047 ([9bacf01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-2047))
-
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
 * JSON-ify sleep-affecting mutations, trying to sleep, and sleep comfort ([#75852](https://github.com/CleverRaven/Cataclysm-DDA/pull/75852))
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
