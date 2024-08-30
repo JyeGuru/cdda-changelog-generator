@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-30-1047 ([b38588a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-1047))
+
+* [Xedra Evolved] Fix Sylph flying effect ([#76014](https://github.com/CleverRaven/Cataclysm-DDA/pull/76014))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-30-0310 ([8ebdfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-0310))
 
 * Expand `character_takes_damage` event to send beta talker also ([#75980](https://github.com/CleverRaven/Cataclysm-DDA/pull/75980))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-08-25-2047 ([9bacf01](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-2047))
 
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-25-1618 ([0d9bfb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-1618))
-
 * JSON-ify sleep-affecting mutations, trying to sleep, and sleep comfort ([#75852](https://github.com/CleverRaven/Cataclysm-DDA/pull/75852))
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
@@ -220,4 +221,3 @@
 * Exceptional 0.H i18n update on 19 August 2024 ([#75835](https://github.com/CleverRaven/Cataclysm-DDA/pull/75835))
 * Prevent crash from -1 array idx when searching zones ([#75834](https://github.com/CleverRaven/Cataclysm-DDA/pull/75834))
 * Switch 0.H transifex config to point to the 0.H resource ([#75833](https://github.com/CleverRaven/Cataclysm-DDA/pull/75833))
-* Backport planters ([#75832](https://github.com/CleverRaven/Cataclysm-DDA/pull/75832))
