@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-30-0310 ([8ebdfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-0310))
+
+* Expand `character_takes_damage` event to send beta talker also ([#75980](https://github.com/CleverRaven/Cataclysm-DDA/pull/75980))
 * Improve tabi and geta descriptions ([#76028](https://github.com/CleverRaven/Cataclysm-DDA/pull/76028))
 * [MOM] Add gamestart ephemeral walk learning eoc for ascended teleporters ([#76005](https://github.com/CleverRaven/Cataclysm-DDA/pull/76005))
 * [MOM] Change text in practice message to tag/variable ([#76013](https://github.com/CleverRaven/Cataclysm-DDA/pull/76013))
@@ -190,11 +196,6 @@
 #### Cataclysm-DDA experimental build 2024-08-25-1618 ([0d9bfb5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-1618))
 
 * JSON-ify sleep-affecting mutations, trying to sleep, and sleep comfort ([#75852](https://github.com/CleverRaven/Cataclysm-DDA/pull/75852))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-25-0446 ([5237214](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-0446))
-
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
 * ImGui to respect `fonts.json` ([#75920](https://github.com/CleverRaven/Cataclysm-DDA/pull/75920))
@@ -212,7 +213,6 @@
 * [MOM] Add Reality Tear Teleporter Power ([#75876](https://github.com/CleverRaven/Cataclysm-DDA/pull/75876))
 * [MOM] Add teleportation ephemeral walk power ([#75867](https://github.com/CleverRaven/Cataclysm-DDA/pull/75867))
 * migrate miner hat to hard hat with flashlight ([#75844](https://github.com/CleverRaven/Cataclysm-DDA/pull/75844))
-* [Sky Island] Update Warped Pond recipe with man-made terrain ([#75831](https://github.com/CleverRaven/Cataclysm-DDA/pull/75831))
 * Give zombie prisoner variants their full name ([#75839](https://github.com/CleverRaven/Cataclysm-DDA/pull/75839))
 * Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
 * format `uilist` menu entries with a table ([#75845](https://github.com/CleverRaven/Cataclysm-DDA/pull/75845))
