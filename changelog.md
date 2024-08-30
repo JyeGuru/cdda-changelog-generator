@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-30-1834 ([b325a47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-1834))
+
+* Fix npc butchering ([#76040](https://github.com/CleverRaven/Cataclysm-DDA/pull/76040))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-30-1256 ([1ab5fb4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-1256))
 
 * EOC OMT search functions look for matching type ([#75836](https://github.com/CleverRaven/Cataclysm-DDA/pull/75836))
@@ -189,11 +195,6 @@
 * Fix Dear ImTui Demo ([#75905](https://github.com/CleverRaven/Cataclysm-DDA/pull/75905))
 * Add roof to `apartment_con_new`'s stair bulkhead  ([#75902](https://github.com/CleverRaven/Cataclysm-DDA/pull/75902))
 * Extract graffiti text and vision levels names ([#75894](https://github.com/CleverRaven/Cataclysm-DDA/pull/75894))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-08-26-0150 ([f502188](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-26-0150))
-
 * Warn on new character in existing world (0.H) ([#75886](https://github.com/CleverRaven/Cataclysm-DDA/pull/75886))
 * Make Alpha Social not a starting trait  ([#75853](https://github.com/CleverRaven/Cataclysm-DDA/pull/75853))
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
@@ -220,4 +221,3 @@
 * format `uilist` menu entries with a table ([#75845](https://github.com/CleverRaven/Cataclysm-DDA/pull/75845))
 * Backport few magiclysm fixes ([#75841](https://github.com/CleverRaven/Cataclysm-DDA/pull/75841))
 * Exceptional 0.H i18n update on 19 August 2024 ([#75835](https://github.com/CleverRaven/Cataclysm-DDA/pull/75835))
-* Prevent crash from -1 array idx when searching zones ([#75834](https://github.com/CleverRaven/Cataclysm-DDA/pull/75834))

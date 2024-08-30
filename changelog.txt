@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-08-30-1834 (b325a47)
+* Fix npc butchering (#76040)
+
 Cataclysm-DDA experimental build 2024-08-30-1256 (1ab5fb4)
 * EOC OMT search functions look for matching type (#75836)
 
@@ -114,8 +117,6 @@ Cataclysm-DDA experimental build 2024-08-26-0429 (18b13f1)
 * Fix Dear ImTui Demo (#75905)
 * Add roof to `apartment_con_new`'s stair bulkhead  (#75902)
 * Extract graffiti text and vision levels names (#75894)
-
-Cataclysm-DDA 0.H release candidate 2024-08-26-0150 (f502188)
 * Warn on new character in existing world (0.H) (#75886)
 * Make Alpha Social not a starting trait  (#75853)
 * [Xedra Evolved] More Paraclesian restrictions (#75931)
@@ -142,4 +143,3 @@ Cataclysm-DDA 0.H release candidate 2024-08-26-0150 (f502188)
 * format `uilist` menu entries with a table (#75845)
 * Backport few magiclysm fixes (#75841)
 * Exceptional 0.H i18n update on 19 August 2024 (#75835)
-* Prevent crash from -1 array idx when searching zones (#75834)
