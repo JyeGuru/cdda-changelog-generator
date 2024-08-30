@@ -1,3 +1,4 @@
+* Fixed segfault when monster tries to grab-drag another monster out of reality bubble ([#76058](https://github.com/CleverRaven/Cataclysm-DDA/pull/76058))
 
 ---
 
@@ -220,4 +221,3 @@
 * Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
 * format `uilist` menu entries with a table ([#75845](https://github.com/CleverRaven/Cataclysm-DDA/pull/75845))
 * Backport few magiclysm fixes ([#75841](https://github.com/CleverRaven/Cataclysm-DDA/pull/75841))
-* Exceptional 0.H i18n update on 19 August 2024 ([#75835](https://github.com/CleverRaven/Cataclysm-DDA/pull/75835))

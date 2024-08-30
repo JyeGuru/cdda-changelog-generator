@@ -1,3 +1,4 @@
+* Fixed segfault when monster tries to grab-drag another monster out of reality bubble (#76058)
 
 Cataclysm-DDA experimental build 2024-08-30-1834 (b325a47)
 * Fix npc butchering (#76040)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2024-08-26-0429 (18b13f1)
 * Fix android build (#75858)
 * format `uilist` menu entries with a table (#75845)
 * Backport few magiclysm fixes (#75841)
-* Exceptional 0.H i18n update on 19 August 2024 (#75835)
