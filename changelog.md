@@ -6,6 +6,11 @@
 #### Cataclysm-DDA 0.H release candidate 2024-08-30-2058 ([f4750fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-30-2058))
 
 * Backport #76058 ([#76067](https://github.com/CleverRaven/Cataclysm-DDA/pull/76067))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-30-2212 ([13f5534](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-2212))
+
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble ([#76058](https://github.com/CleverRaven/Cataclysm-DDA/pull/76058))
 
 ---

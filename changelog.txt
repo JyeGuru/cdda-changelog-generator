@@ -3,6 +3,8 @@
 
 Cataclysm-DDA 0.H release candidate 2024-08-30-2058 (f4750fc)
 * Backport #76058 (#76067)
+
+Cataclysm-DDA experimental build 2024-08-30-2212 (13f5534)
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble (#76058)
 
 Cataclysm-DDA experimental build 2024-08-30-1834 (b325a47)
