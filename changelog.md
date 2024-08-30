@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-08-30-0021 ([bc9e6bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-0021))
+
+* [MoM] Add Headblind trait and Latent Psion trait.  ([#76004](https://github.com/CleverRaven/Cataclysm-DDA/pull/76004))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-08-29-1703 ([79e2897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-29-1703))
 
 * [MoM] Remove crystal shard use_action ([#76024](https://github.com/CleverRaven/Cataclysm-DDA/pull/76024))
@@ -185,11 +191,6 @@
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
 * ImGui to respect `fonts.json` ([#75920](https://github.com/CleverRaven/Cataclysm-DDA/pull/75920))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-25-0056 ([dcc918e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-25-0056))
-
 * Made human products get human 'vitamin' and vitamin inheritance ([#75918](https://github.com/CleverRaven/Cataclysm-DDA/pull/75918))
 * [Sky Island] Make bettter security containers obtainable ([#75883](https://github.com/CleverRaven/Cataclysm-DDA/pull/75883))
 * [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions ([#75891](https://github.com/CleverRaven/Cataclysm-DDA/pull/75891))
@@ -213,7 +214,6 @@
 * Exceptional 0.H i18n update on 19 August 2024 ([#75835](https://github.com/CleverRaven/Cataclysm-DDA/pull/75835))
 * Prevent crash from -1 array idx when searching zones ([#75834](https://github.com/CleverRaven/Cataclysm-DDA/pull/75834))
 * Switch 0.H transifex config to point to the 0.H resource ([#75833](https://github.com/CleverRaven/Cataclysm-DDA/pull/75833))
-* Move the remaining lost uncrafts into the uncraft folder ([#75820](https://github.com/CleverRaven/Cataclysm-DDA/pull/75820))
 * Backport planters ([#75832](https://github.com/CleverRaven/Cataclysm-DDA/pull/75832))
 * Backport #74092 ([#75821](https://github.com/CleverRaven/Cataclysm-DDA/pull/75821))
 * Backport #75560 ([#75824](https://github.com/CleverRaven/Cataclysm-DDA/pull/75824))
