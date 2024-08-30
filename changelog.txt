@@ -1,3 +1,4 @@
+* EOC OMT search functions look for matching type (#75836)
 
 Cataclysm-DDA experimental build 2024-08-30-1047 (b38588a)
 * [Xedra Evolved] Fix Sylph flying effect (#76014)
@@ -142,4 +143,3 @@ Cataclysm-DDA experimental build 2024-08-25-2047 (9bacf01)
 * Backport few magiclysm fixes (#75841)
 * Exceptional 0.H i18n update on 19 August 2024 (#75835)
 * Prevent crash from -1 array idx when searching zones (#75834)
-* Switch 0.H transifex config to point to the 0.H resource (#75833)
