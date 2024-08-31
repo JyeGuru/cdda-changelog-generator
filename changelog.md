@@ -1,3 +1,4 @@
+* [Xedra Evolved] Fix summoned ancient warriors leaving corpses ([#76055](https://github.com/CleverRaven/Cataclysm-DDA/pull/76055))
 * [Magiclysm] Integrated black dragon scale ([#76021](https://github.com/CleverRaven/Cataclysm-DDA/pull/76021))
 * Prevent being teleported beyond OVERMAP_DEPTH ([#76053](https://github.com/CleverRaven/Cataclysm-DDA/pull/76053))
 * Replace u/npc_has_var with compare_string ([#76036](https://github.com/CleverRaven/Cataclysm-DDA/pull/76036))
@@ -138,7 +139,6 @@
 * Pruning the old ``to-hit`` syntax - Part 4 ([#75923](https://github.com/CleverRaven/Cataclysm-DDA/pull/75923))
 * [MOM] Add ephemeral walk to missing EOCs ([#75919](https://github.com/CleverRaven/Cataclysm-DDA/pull/75919))
 * [Magiclysm] Density and weight ([#75934](https://github.com/CleverRaven/Cataclysm-DDA/pull/75934))
-* Change vehicle parts material to mild steel ([#75850](https://github.com/CleverRaven/Cataclysm-DDA/pull/75850))
 * Weakpoints can use conditions and eocs ([#75946](https://github.com/CleverRaven/Cataclysm-DDA/pull/75946))
 
 ---
