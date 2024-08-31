@@ -181,11 +181,6 @@
 
 * No cost to turn off ([#75892](https://github.com/CleverRaven/Cataclysm-DDA/pull/75892))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-26-0429 ([18b13f1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-0429))
-
 * Pruning some unused IDs ([#75926](https://github.com/CleverRaven/Cataclysm-DDA/pull/75926))
 * Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu ([#75940](https://github.com/CleverRaven/Cataclysm-DDA/pull/75940))
 * Text Error Fixes ([#75927](https://github.com/CleverRaven/Cataclysm-DDA/pull/75927))
