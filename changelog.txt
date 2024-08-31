@@ -1,3 +1,4 @@
+* Remove gates from FEMA camp fence corners (#76089)
 
 Cataclysm-DDA experimental build 2024-08-31-2037 (b51dc34)
 * NPC flee from being run over by vehicles (#76050)
@@ -127,7 +128,6 @@ Cataclysm-DDA experimental build 2024-08-27-0436 (9a42acb)
 * [Sky Island] Make bettter security containers obtainable (#75883)
 * [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions (#75891)
 * Fix driveway of in-construction house_01 (#75898)
-* [MoM] Add QD944-P 'Mindsight' glasses (#75855)
 * [MoM] Add PHASE_DISTANCE to Astral Projection (#75890)
 * Prevent automatic assignment of hotkeys to passive mutations (#75896)
 * Add jack-o'-lantern recipe byproducts (#75893)

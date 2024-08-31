@@ -1,3 +1,4 @@
+* Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
 
 ---
 
@@ -196,7 +197,6 @@
 * [Sky Island] Make bettter security containers obtainable ([#75883](https://github.com/CleverRaven/Cataclysm-DDA/pull/75883))
 * [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions ([#75891](https://github.com/CleverRaven/Cataclysm-DDA/pull/75891))
 * Fix driveway of in-construction house_01 ([#75898](https://github.com/CleverRaven/Cataclysm-DDA/pull/75898))
-* [MoM] Add QD944-P 'Mindsight' glasses ([#75855](https://github.com/CleverRaven/Cataclysm-DDA/pull/75855))
 * [MoM] Add PHASE_DISTANCE to Astral Projection ([#75890](https://github.com/CleverRaven/Cataclysm-DDA/pull/75890))
 * Prevent automatic assignment of hotkeys to passive mutations ([#75896](https://github.com/CleverRaven/Cataclysm-DDA/pull/75896))
 * Add jack-o'-lantern recipe byproducts ([#75893](https://github.com/CleverRaven/Cataclysm-DDA/pull/75893))
