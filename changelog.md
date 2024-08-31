@@ -1,3 +1,9 @@
+* fix light_cell_rechargeable not fitting in batteries itemgroup ([#76081](https://github.com/CleverRaven/Cataclysm-DDA/pull/76081))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-31-2245 ([28df08a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-31-2245))
+
 * Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
 
 ---
@@ -158,11 +164,6 @@
 * [MOM] Add ephemeral walk to missing EOCs ([#75919](https://github.com/CleverRaven/Cataclysm-DDA/pull/75919))
 * [Magiclysm] Density and weight ([#75934](https://github.com/CleverRaven/Cataclysm-DDA/pull/75934))
 * Weakpoints can use conditions and eocs ([#75946](https://github.com/CleverRaven/Cataclysm-DDA/pull/75946))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-27-0436 ([9a42acb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-0436))
-
 * Fixed Chitin Gauntlets' coverage inconsistency ([#75972](https://github.com/CleverRaven/Cataclysm-DDA/pull/75972))
 * Fix #73172 ([#75953](https://github.com/CleverRaven/Cataclysm-DDA/pull/75953))
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
@@ -205,4 +206,3 @@
 * [MoM] Add variable to Lifting Field update EoC ([#75870](https://github.com/CleverRaven/Cataclysm-DDA/pull/75870))
 * [MOM] Add Reality Tear Teleporter Power ([#75876](https://github.com/CleverRaven/Cataclysm-DDA/pull/75876))
 * [MOM] Add teleportation ephemeral walk power ([#75867](https://github.com/CleverRaven/Cataclysm-DDA/pull/75867))
-* Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
