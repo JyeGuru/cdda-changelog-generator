@@ -1,3 +1,7 @@
+* NPC flee from being run over by vehicles (#76050)
+
+Cataclysm-DDA experimental build 2024-08-31-1825 (c85007d)
+* Routine i18n updates on 31 August 2024 (#76071)
 
 Cataclysm-DDA experimental build 2024-08-31-0432 (88ecaf6)
 * Toggle to Only Draw Overmap During Autotravel (#76017)
@@ -64,7 +68,6 @@ Cataclysm-DDA experimental build 2024-08-28-0630 (3484533)
 
 Cataclysm-DDA experimental build 2024-08-28-0431 (3e39d80)
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl (#75971)
-* Hunted forever scenario description correction (#75854)
 
 Cataclysm-DDA experimental build 2024-08-28-0235 (facba24)
 * Adjust Feral Prepper Gun Drops (#75982)
@@ -92,8 +95,6 @@ Cataclysm-DDA experimental build 2024-08-27-0436 (9a42acb)
 * Fix #73172 (#75953)
 * Silence clang-tidy warning about useless const (#75981)
 * Make the chemist receive actually 100L of gasoline (#75965)
-
-Cataclysm-DDA experimental build 2024-08-26-2014 (2db2a2e)
 * Second nail into the battery coffin (#75865)
 * Manatouched_serum fix (#75952)
 * Civilian Magazine Spawn Adjustments (#75925)
@@ -116,7 +117,6 @@ Cataclysm-DDA experimental build 2024-08-26-2014 (2db2a2e)
 * Add roof to `apartment_con_new`'s stair bulkhead  (#75902)
 * Extract graffiti text and vision levels names (#75894)
 * Warn on new character in existing world (0.H) (#75886)
-* Make Alpha Social not a starting trait  (#75853)
 * [Xedra Evolved] More Paraclesian restrictions (#75931)
 * Fix python speedloader (#75929)
 * Fix superglue density (#75930)

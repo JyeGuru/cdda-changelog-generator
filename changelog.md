@@ -1,3 +1,10 @@
+* NPC flee from being run over by vehicles ([#76050](https://github.com/CleverRaven/Cataclysm-DDA/pull/76050))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-31-1825 ([c85007d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-31-1825))
+
+* Routine i18n updates on 31 August 2024 ([#76071](https://github.com/CleverRaven/Cataclysm-DDA/pull/76071))
 
 ---
 
@@ -109,7 +116,6 @@
 #### Cataclysm-DDA experimental build 2024-08-28-0431 ([3e39d80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-0431))
 
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl ([#75971](https://github.com/CleverRaven/Cataclysm-DDA/pull/75971))
-* Hunted forever scenario description correction ([#75854](https://github.com/CleverRaven/Cataclysm-DDA/pull/75854))
 
 ---
 
@@ -155,11 +161,6 @@
 * Fix #73172 ([#75953](https://github.com/CleverRaven/Cataclysm-DDA/pull/75953))
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-26-2014 ([2db2a2e](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-2014))
-
 * Second nail into the battery coffin ([#75865](https://github.com/CleverRaven/Cataclysm-DDA/pull/75865))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 * Civilian Magazine Spawn Adjustments ([#75925](https://github.com/CleverRaven/Cataclysm-DDA/pull/75925))
@@ -182,7 +183,6 @@
 * Add roof to `apartment_con_new`'s stair bulkhead  ([#75902](https://github.com/CleverRaven/Cataclysm-DDA/pull/75902))
 * Extract graffiti text and vision levels names ([#75894](https://github.com/CleverRaven/Cataclysm-DDA/pull/75894))
 * Warn on new character in existing world (0.H) ([#75886](https://github.com/CleverRaven/Cataclysm-DDA/pull/75886))
-* Make Alpha Social not a starting trait  ([#75853](https://github.com/CleverRaven/Cataclysm-DDA/pull/75853))
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
