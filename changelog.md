@@ -1,3 +1,6 @@
+* [Magiclysm] Integrated black dragon scale ([#76021](https://github.com/CleverRaven/Cataclysm-DDA/pull/76021))
+* Prevent being teleported beyond OVERMAP_DEPTH ([#76053](https://github.com/CleverRaven/Cataclysm-DDA/pull/76053))
+* Replace u/npc_has_var with compare_string ([#76036](https://github.com/CleverRaven/Cataclysm-DDA/pull/76036))
 * Prevent the imperfect doll being activated multiple times ([#76054](https://github.com/CleverRaven/Cataclysm-DDA/pull/76054))
 * Backport #75564 ([#76046](https://github.com/CleverRaven/Cataclysm-DDA/pull/76046))
 * backport #71875 and #75815 ([#76066](https://github.com/CleverRaven/Cataclysm-DDA/pull/76066))
@@ -100,7 +103,6 @@
 
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl ([#75971](https://github.com/CleverRaven/Cataclysm-DDA/pull/75971))
 * Hunted forever scenario description correction ([#75854](https://github.com/CleverRaven/Cataclysm-DDA/pull/75854))
-* Fixed clamping order count in trading inventory ([#75849](https://github.com/CleverRaven/Cataclysm-DDA/pull/75849))
 
 ---
 
@@ -210,4 +212,3 @@
 * [MOM] Add Reality Tear Teleporter Power ([#75876](https://github.com/CleverRaven/Cataclysm-DDA/pull/75876))
 * [MOM] Add teleportation ephemeral walk power ([#75867](https://github.com/CleverRaven/Cataclysm-DDA/pull/75867))
 * Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
-* format `uilist` menu entries with a table ([#75845](https://github.com/CleverRaven/Cataclysm-DDA/pull/75845))
