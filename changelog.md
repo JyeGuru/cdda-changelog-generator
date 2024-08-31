@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-08-31-0432 ([88ecaf6](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-31-0432))
+
 * Toggle to Only Draw Overmap During Autotravel ([#76017](https://github.com/CleverRaven/Cataclysm-DDA/pull/76017))
 * [Xedra Evolved] Fix summoned ancient warriors leaving corpses ([#76055](https://github.com/CleverRaven/Cataclysm-DDA/pull/76055))
 * [Magiclysm] Integrated black dragon scale ([#76021](https://github.com/CleverRaven/Cataclysm-DDA/pull/76021))
@@ -157,11 +162,6 @@
 
 * Second nail into the battery coffin ([#75865](https://github.com/CleverRaven/Cataclysm-DDA/pull/75865))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-26-1713 ([640fcb7](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-1713))
-
 * Civilian Magazine Spawn Adjustments ([#75925](https://github.com/CleverRaven/Cataclysm-DDA/pull/75925))
 * Give the kitted survivor a smartphone ([#75915](https://github.com/CleverRaven/Cataclysm-DDA/pull/75915))
 * Isolation Protocol:  Add roguelike style health regen and pain reduction ([#75860](https://github.com/CleverRaven/Cataclysm-DDA/pull/75860))
