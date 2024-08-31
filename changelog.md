@@ -1,3 +1,4 @@
+* Prevent the imperfect doll being activated multiple times ([#76054](https://github.com/CleverRaven/Cataclysm-DDA/pull/76054))
 * Backport #75564 ([#76046](https://github.com/CleverRaven/Cataclysm-DDA/pull/76046))
 * backport #71875 and #75815 ([#76066](https://github.com/CleverRaven/Cataclysm-DDA/pull/76066))
 
@@ -174,11 +175,6 @@
 * Isolation Protocol:  Add roguelike style health regen and pain reduction ([#75860](https://github.com/CleverRaven/Cataclysm-DDA/pull/75860))
 * towers are vaguely seen as tall buildings ([#75879](https://github.com/CleverRaven/Cataclysm-DDA/pull/75879))
 * [MoM] Update Teleporter Documentation ([#75885](https://github.com/CleverRaven/Cataclysm-DDA/pull/75885))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-26-0842 ([b44ed93](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-26-0842))
-
 * No cost to turn off ([#75892](https://github.com/CleverRaven/Cataclysm-DDA/pull/75892))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
 * Pruning some unused IDs ([#75926](https://github.com/CleverRaven/Cataclysm-DDA/pull/75926))
@@ -213,6 +209,5 @@
 * [MoM] Add variable to Lifting Field update EoC ([#75870](https://github.com/CleverRaven/Cataclysm-DDA/pull/75870))
 * [MOM] Add Reality Tear Teleporter Power ([#75876](https://github.com/CleverRaven/Cataclysm-DDA/pull/75876))
 * [MOM] Add teleportation ephemeral walk power ([#75867](https://github.com/CleverRaven/Cataclysm-DDA/pull/75867))
-* migrate miner hat to hard hat with flashlight ([#75844](https://github.com/CleverRaven/Cataclysm-DDA/pull/75844))
 * Fix android build ([#75858](https://github.com/CleverRaven/Cataclysm-DDA/pull/75858))
 * format `uilist` menu entries with a table ([#75845](https://github.com/CleverRaven/Cataclysm-DDA/pull/75845))
