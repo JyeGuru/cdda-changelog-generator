@@ -1,3 +1,4 @@
+* Toggle to Only Draw Overmap During Autotravel ([#76017](https://github.com/CleverRaven/Cataclysm-DDA/pull/76017))
 * [Xedra Evolved] Fix summoned ancient warriors leaving corpses ([#76055](https://github.com/CleverRaven/Cataclysm-DDA/pull/76055))
 * [Magiclysm] Integrated black dragon scale ([#76021](https://github.com/CleverRaven/Cataclysm-DDA/pull/76021))
 * Prevent being teleported beyond OVERMAP_DEPTH ([#76053](https://github.com/CleverRaven/Cataclysm-DDA/pull/76053))
@@ -149,12 +150,6 @@
 * Fix #73172 ([#75953](https://github.com/CleverRaven/Cataclysm-DDA/pull/75953))
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-27-0159 ([2851bdb](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-0159))
-
-* [MoM] Further concentration updates ([#75851](https://github.com/CleverRaven/Cataclysm-DDA/pull/75851))
 
 ---
 
