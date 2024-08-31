@@ -184,7 +184,6 @@
 * Warn on new character in existing world (0.H) ([#75886](https://github.com/CleverRaven/Cataclysm-DDA/pull/75886))
 * Make Alpha Social not a starting trait  ([#75853](https://github.com/CleverRaven/Cataclysm-DDA/pull/75853))
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
-* JSON-ify sleep-affecting mutations, trying to sleep, and sleep comfort ([#75852](https://github.com/CleverRaven/Cataclysm-DDA/pull/75852))
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
 * ImGui to respect `fonts.json` ([#75920](https://github.com/CleverRaven/Cataclysm-DDA/pull/75920))
