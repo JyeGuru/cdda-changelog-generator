@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-09-01-2220 ([ef5c2e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-01-2220))
+
 * Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
 * Update notice about camp zones changing... five years ago ([#76114](https://github.com/CleverRaven/Cataclysm-DDA/pull/76114))
 
