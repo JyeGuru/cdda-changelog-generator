@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-01-1158 ([7f37775](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-1158))
+
+* roof innawood caves ([#76109](https://github.com/CleverRaven/Cataclysm-DDA/pull/76109))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-01-0444 ([0527e71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-0444))
 
 * Remove generic bird egg, replace its role with chicken egg ([#76090](https://github.com/CleverRaven/Cataclysm-DDA/pull/76090))
@@ -155,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2024-08-27-2304 ([2430ee4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-2304))
 
 * Extract `game::find_stairs` from `game::find_or_make_stairs` ([#75963](https://github.com/CleverRaven/Cataclysm-DDA/pull/75963))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-27-1941 ([871d063](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-1941))
-
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
 * Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
@@ -204,5 +205,4 @@
 * [MoM] Add PHASE_DISTANCE to Astral Projection ([#75890](https://github.com/CleverRaven/Cataclysm-DDA/pull/75890))
 * Prevent automatic assignment of hotkeys to passive mutations ([#75896](https://github.com/CleverRaven/Cataclysm-DDA/pull/75896))
 * Add jack-o'-lantern recipe byproducts ([#75893](https://github.com/CleverRaven/Cataclysm-DDA/pull/75893))
-* [Xedra Evolved] Wolves Can't Talk ([#75875](https://github.com/CleverRaven/Cataclysm-DDA/pull/75875))
 * [MOM] Add Reality Tear Teleporter Power ([#75876](https://github.com/CleverRaven/Cataclysm-DDA/pull/75876))

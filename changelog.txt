@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-01-1158 (7f37775)
+* roof innawood caves (#76109)
+
 Cataclysm-DDA experimental build 2024-09-01-0444 (0527e71)
 * Remove generic bird egg, replace its role with chicken egg (#76090)
 * Handle mouse input in a more sophisticated manner (#76033)
@@ -89,8 +92,6 @@ Cataclysm-DDA experimental build 2024-08-28-0235 (facba24)
 
 Cataclysm-DDA experimental build 2024-08-27-2304 (2430ee4)
 * Extract `game::find_stairs` from `game::find_or_make_stairs` (#75963)
-
-Cataclysm-DDA experimental build 2024-08-27-1941 (871d063)
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui (#75986)
 * Fishing is chill (#75994)
 * Prevent wielding items under certain conditions while driving (#75955)
@@ -135,5 +136,4 @@ Cataclysm-DDA experimental build 2024-08-27-1941 (871d063)
 * [MoM] Add PHASE_DISTANCE to Astral Projection (#75890)
 * Prevent automatic assignment of hotkeys to passive mutations (#75896)
 * Add jack-o'-lantern recipe byproducts (#75893)
-* [Xedra Evolved] Wolves Can't Talk (#75875)
 * [MOM] Add Reality Tear Teleporter Power (#75876)
