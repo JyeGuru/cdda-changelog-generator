@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-01-0035 ([3b69d6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-0035))
+
 * fix light_cell_rechargeable not fitting in batteries itemgroup ([#76081](https://github.com/CleverRaven/Cataclysm-DDA/pull/76081))
 
 ---
