@@ -1,3 +1,7 @@
+* Remove generic bird egg, replace its role with chicken egg ([#76090](https://github.com/CleverRaven/Cataclysm-DDA/pull/76090))
+* Handle mouse input in a more sophisticated manner ([#76033](https://github.com/CleverRaven/Cataclysm-DDA/pull/76033))
+* More Ruger 10/22 Mags ([#76032](https://github.com/CleverRaven/Cataclysm-DDA/pull/76032))
+* fix the crash by bulding the font atlas ([#76070](https://github.com/CleverRaven/Cataclysm-DDA/pull/76070))
 * Fix clang error from new warning ([#76078](https://github.com/CleverRaven/Cataclysm-DDA/pull/76078))
 
 ---
@@ -131,12 +135,6 @@
 
 ---
 
-#### Cataclysm-DDA experimental build 2024-08-28-0630 ([3484533](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-0630))
-
-* [MoM] Rework Gateway ([#75872](https://github.com/CleverRaven/Cataclysm-DDA/pull/75872))
-
----
-
 #### Cataclysm-DDA experimental build 2024-08-28-0431 ([3e39d80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-0431))
 
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl ([#75971](https://github.com/CleverRaven/Cataclysm-DDA/pull/75971))
@@ -175,7 +173,6 @@
 * Fix #73172 ([#75953](https://github.com/CleverRaven/Cataclysm-DDA/pull/75953))
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
-* Second nail into the battery coffin ([#75865](https://github.com/CleverRaven/Cataclysm-DDA/pull/75865))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 * Civilian Magazine Spawn Adjustments ([#75925](https://github.com/CleverRaven/Cataclysm-DDA/pull/75925))
 * Give the kitted survivor a smartphone ([#75915](https://github.com/CleverRaven/Cataclysm-DDA/pull/75915))
@@ -208,6 +205,4 @@
 * Prevent automatic assignment of hotkeys to passive mutations ([#75896](https://github.com/CleverRaven/Cataclysm-DDA/pull/75896))
 * Add jack-o'-lantern recipe byproducts ([#75893](https://github.com/CleverRaven/Cataclysm-DDA/pull/75893))
 * [Xedra Evolved] Wolves Can't Talk ([#75875](https://github.com/CleverRaven/Cataclysm-DDA/pull/75875))
-* [MoM] Add variable to Lifting Field update EoC ([#75870](https://github.com/CleverRaven/Cataclysm-DDA/pull/75870))
 * [MOM] Add Reality Tear Teleporter Power ([#75876](https://github.com/CleverRaven/Cataclysm-DDA/pull/75876))
-* [MOM] Add teleportation ephemeral walk power ([#75867](https://github.com/CleverRaven/Cataclysm-DDA/pull/75867))
