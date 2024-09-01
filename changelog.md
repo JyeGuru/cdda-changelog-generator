@@ -1,3 +1,12 @@
+* Commentary Cyborg and Robot ([#75944](https://github.com/CleverRaven/Cataclysm-DDA/pull/75944))
+* simplify jam_mult formula ([#76059](https://github.com/CleverRaven/Cataclysm-DDA/pull/76059))
+* Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-09-01-1243 ([90d4b25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-01-1243))
+
+* Update 0.H strings from experimental ([#75948](https://github.com/CleverRaven/Cataclysm-DDA/pull/75948))
 * Improve performance in npc::has_potential_los ([#76009](https://github.com/CleverRaven/Cataclysm-DDA/pull/76009))
 * Extend/delete support for harvest lists ([#76047](https://github.com/CleverRaven/Cataclysm-DDA/pull/76047))
 * add damage spellcasting_adjustment ([#76064](https://github.com/CleverRaven/Cataclysm-DDA/pull/76064))
@@ -162,11 +171,6 @@
 #### Cataclysm-DDA experimental build 2024-08-28-0235 ([facba24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-0235))
 
 * Adjust Feral Prepper Gun Drops ([#75982](https://github.com/CleverRaven/Cataclysm-DDA/pull/75982))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-27-2304 ([2430ee4](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-2304))
-
 * Extract `game::find_stairs` from `game::find_or_make_stairs` ([#75963](https://github.com/CleverRaven/Cataclysm-DDA/pull/75963))
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
 * Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
@@ -184,7 +188,6 @@
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 * Civilian Magazine Spawn Adjustments ([#75925](https://github.com/CleverRaven/Cataclysm-DDA/pull/75925))
 * Give the kitted survivor a smartphone ([#75915](https://github.com/CleverRaven/Cataclysm-DDA/pull/75915))
-* No cost to turn off ([#75892](https://github.com/CleverRaven/Cataclysm-DDA/pull/75892))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
 * Pruning some unused IDs ([#75926](https://github.com/CleverRaven/Cataclysm-DDA/pull/75926))
 * Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu ([#75940](https://github.com/CleverRaven/Cataclysm-DDA/pull/75940))
@@ -197,13 +200,10 @@
 * Added build instructions for Fedora ([#75906](https://github.com/CleverRaven/Cataclysm-DDA/pull/75906))
 * Fix Dear ImTui Demo ([#75905](https://github.com/CleverRaven/Cataclysm-DDA/pull/75905))
 * Add roof to `apartment_con_new`'s stair bulkhead  ([#75902](https://github.com/CleverRaven/Cataclysm-DDA/pull/75902))
-* Extract graffiti text and vision levels names ([#75894](https://github.com/CleverRaven/Cataclysm-DDA/pull/75894))
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
 * ImGui to respect `fonts.json` ([#75920](https://github.com/CleverRaven/Cataclysm-DDA/pull/75920))
 * Made human products get human 'vitamin' and vitamin inheritance ([#75918](https://github.com/CleverRaven/Cataclysm-DDA/pull/75918))
-* [Xedra Evolved] Add Homullus must wake up near humans fae ban + eating restrictions ([#75891](https://github.com/CleverRaven/Cataclysm-DDA/pull/75891))
 * Fix driveway of in-construction house_01 ([#75898](https://github.com/CleverRaven/Cataclysm-DDA/pull/75898))
 * Prevent automatic assignment of hotkeys to passive mutations ([#75896](https://github.com/CleverRaven/Cataclysm-DDA/pull/75896))
-* Add jack-o'-lantern recipe byproducts ([#75893](https://github.com/CleverRaven/Cataclysm-DDA/pull/75893))
