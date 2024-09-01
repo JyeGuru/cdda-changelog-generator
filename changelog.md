@@ -1,3 +1,5 @@
+* Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
+* Update notice about camp zones changing... five years ago ([#76114](https://github.com/CleverRaven/Cataclysm-DDA/pull/76114))
 
 ---
 
@@ -200,10 +202,8 @@
 * Routine i18n updates on 24 August 2024 ([#75914](https://github.com/CleverRaven/Cataclysm-DDA/pull/75914))
 * Added build instructions for Fedora ([#75906](https://github.com/CleverRaven/Cataclysm-DDA/pull/75906))
 * Fix Dear ImTui Demo ([#75905](https://github.com/CleverRaven/Cataclysm-DDA/pull/75905))
-* Add roof to `apartment_con_new`'s stair bulkhead  ([#75902](https://github.com/CleverRaven/Cataclysm-DDA/pull/75902))
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
 * ImGui to respect `fonts.json` ([#75920](https://github.com/CleverRaven/Cataclysm-DDA/pull/75920))
 * Made human products get human 'vitamin' and vitamin inheritance ([#75918](https://github.com/CleverRaven/Cataclysm-DDA/pull/75918))
-* Fix driveway of in-construction house_01 ([#75898](https://github.com/CleverRaven/Cataclysm-DDA/pull/75898))
