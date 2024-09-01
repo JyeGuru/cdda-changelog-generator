@@ -1,3 +1,4 @@
+* Fix clang error from new warning (#76078)
 
 Cataclysm-DDA experimental build 2024-09-01-0300 (2d41010)
 * Make skill rust related mutations display as mixed effect (#76076)
@@ -134,7 +135,6 @@ Cataclysm-DDA experimental build 2024-08-27-1717 (83b5393)
 * [MoM] Add PHASE_DISTANCE to Astral Projection (#75890)
 * Prevent automatic assignment of hotkeys to passive mutations (#75896)
 * Add jack-o'-lantern recipe byproducts (#75893)
-* [Xedra Evolved] Add werewolf start scenario (#75863)
 * [Xedra Evolved] Wolves Can't Talk (#75875)
 * [MoM] Add variable to Lifting Field update EoC (#75870)
 * [MOM] Add Reality Tear Teleporter Power (#75876)
