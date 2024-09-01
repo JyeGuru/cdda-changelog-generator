@@ -1,6 +1,8 @@
 
 Cataclysm-DDA 0.H release candidate 2024-09-01-2220 (ef5c2e9)
 * Backport #75717 (#76123)
+
+Cataclysm-DDA experimental build 2024-09-01-2346 (7483759)
 * Update notice about camp zones changing... five years ago (#76114)
 
 Cataclysm-DDA experimental build 2024-09-01-2159 (9dfbd30)
@@ -102,8 +104,6 @@ Cataclysm-DDA experimental build 2024-08-28-2010 (4696f0d)
 
 Cataclysm-DDA experimental build 2024-08-28-1747 (9744b0a)
 * Lobster in ocean monster group (#75996)
-
-Cataclysm-DDA experimental build 2024-08-28-1527 (0897544)
 * Update EFFECT_ON_CONDITION.md (#75951)
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl (#75971)
 * Adjust Feral Prepper Gun Drops (#75982)
