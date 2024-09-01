@@ -1,3 +1,4 @@
+* Make skill rust related mutations display as mixed effect (#76076)
 
 Cataclysm-DDA experimental build 2024-09-01-0035 (3b69d6f)
 * fix light_cell_rechargeable not fitting in batteries itemgroup (#76081)
@@ -105,7 +106,6 @@ Cataclysm-DDA experimental build 2024-08-27-1512 (5e19877)
 * Manatouched_serum fix (#75952)
 * Civilian Magazine Spawn Adjustments (#75925)
 * Give the kitted survivor a smartphone (#75915)
-* Isolation Protocol:  Add roguelike style health regen and pain reduction (#75860)
 * towers are vaguely seen as tall buildings (#75879)
 * [MoM] Update Teleporter Documentation (#75885)
 * No cost to turn off (#75892)

@@ -1,3 +1,4 @@
+* Make skill rust related mutations display as mixed effect ([#76076](https://github.com/CleverRaven/Cataclysm-DDA/pull/76076))
 
 ---
 
@@ -177,7 +178,6 @@
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 * Civilian Magazine Spawn Adjustments ([#75925](https://github.com/CleverRaven/Cataclysm-DDA/pull/75925))
 * Give the kitted survivor a smartphone ([#75915](https://github.com/CleverRaven/Cataclysm-DDA/pull/75915))
-* Isolation Protocol:  Add roguelike style health regen and pain reduction ([#75860](https://github.com/CleverRaven/Cataclysm-DDA/pull/75860))
 * towers are vaguely seen as tall buildings ([#75879](https://github.com/CleverRaven/Cataclysm-DDA/pull/75879))
 * [MoM] Update Teleporter Documentation ([#75885](https://github.com/CleverRaven/Cataclysm-DDA/pull/75885))
 * No cost to turn off ([#75892](https://github.com/CleverRaven/Cataclysm-DDA/pull/75892))
