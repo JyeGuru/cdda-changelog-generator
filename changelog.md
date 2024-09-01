@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-01-2159 ([9dfbd30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-2159))
+
+* Sweep of sanification for electronic devices ([#76029](https://github.com/CleverRaven/Cataclysm-DDA/pull/76029))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-01-1411 ([746a170](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-1411))
 
 * Commentary Cyborg and Robot ([#75944](https://github.com/CleverRaven/Cataclysm-DDA/pull/75944))
@@ -164,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2024-08-28-1527 ([0897544](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-1527))
 
 * Update EFFECT_ON_CONDITION.md ([#75951](https://github.com/CleverRaven/Cataclysm-DDA/pull/75951))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-28-0431 ([3e39d80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-0431))
-
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl ([#75971](https://github.com/CleverRaven/Cataclysm-DDA/pull/75971))
 * Adjust Feral Prepper Gun Drops ([#75982](https://github.com/CleverRaven/Cataclysm-DDA/pull/75982))
 * Extract `game::find_stairs` from `game::find_or_make_stairs` ([#75963](https://github.com/CleverRaven/Cataclysm-DDA/pull/75963))
@@ -206,4 +207,3 @@
 * ImGui to respect `fonts.json` ([#75920](https://github.com/CleverRaven/Cataclysm-DDA/pull/75920))
 * Made human products get human 'vitamin' and vitamin inheritance ([#75918](https://github.com/CleverRaven/Cataclysm-DDA/pull/75918))
 * Fix driveway of in-construction house_01 ([#75898](https://github.com/CleverRaven/Cataclysm-DDA/pull/75898))
-* Prevent automatic assignment of hotkeys to passive mutations ([#75896](https://github.com/CleverRaven/Cataclysm-DDA/pull/75896))

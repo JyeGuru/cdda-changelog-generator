@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-01-2159 (9dfbd30)
+* Sweep of sanification for electronic devices (#76029)
+
 Cataclysm-DDA experimental build 2024-09-01-1411 (746a170)
 * Commentary Cyborg and Robot (#75944)
 * simplify jam_mult formula (#76059)
@@ -98,8 +101,6 @@ Cataclysm-DDA experimental build 2024-08-28-1747 (9744b0a)
 
 Cataclysm-DDA experimental build 2024-08-28-1527 (0897544)
 * Update EFFECT_ON_CONDITION.md (#75951)
-
-Cataclysm-DDA experimental build 2024-08-28-0431 (3e39d80)
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl (#75971)
 * Adjust Feral Prepper Gun Drops (#75982)
 * Extract `game::find_stairs` from `game::find_or_make_stairs` (#75963)
@@ -137,4 +138,3 @@ Cataclysm-DDA experimental build 2024-08-28-0431 (3e39d80)
 * ImGui to respect `fonts.json` (#75920)
 * Made human products get human 'vitamin' and vitamin inheritance (#75918)
 * Fix driveway of in-construction house_01 (#75898)
-* Prevent automatic assignment of hotkeys to passive mutations (#75896)
