@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-01-0444 ([0527e71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-0444))
+
 * Remove generic bird egg, replace its role with chicken egg ([#76090](https://github.com/CleverRaven/Cataclysm-DDA/pull/76090))
 * Handle mouse input in a more sophisticated manner ([#76033](https://github.com/CleverRaven/Cataclysm-DDA/pull/76033))
 * More Ruger 10/22 Mags ([#76032](https://github.com/CleverRaven/Cataclysm-DDA/pull/76032))
@@ -156,11 +161,6 @@
 #### Cataclysm-DDA experimental build 2024-08-27-1941 ([871d063](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-1941))
 
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-27-1717 ([83b5393](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-1717))
-
 * Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
 * Warn about problems related to creating a new character in an existing world for 0.I ([#75908](https://github.com/CleverRaven/Cataclysm-DDA/pull/75908))
