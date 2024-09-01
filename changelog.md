@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-01-0300 ([2d41010](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-0300))
+
 * Make skill rust related mutations display as mixed effect ([#76076](https://github.com/CleverRaven/Cataclysm-DDA/pull/76076))
 
 ---
@@ -158,11 +163,6 @@
 #### Cataclysm-DDA experimental build 2024-08-27-1717 ([83b5393](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-1717))
 
 * Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-27-1512 ([5e19877](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-27-1512))
-
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
 * Warn about problems related to creating a new character in an existing world for 0.I ([#75908](https://github.com/CleverRaven/Cataclysm-DDA/pull/75908))
 * Mailboxes use wooden posts ([#75932](https://github.com/CleverRaven/Cataclysm-DDA/pull/75932))

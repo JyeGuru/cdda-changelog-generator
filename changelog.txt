@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-01-0300 (2d41010)
 * Make skill rust related mutations display as mixed effect (#76076)
 
 Cataclysm-DDA experimental build 2024-09-01-0035 (3b69d6f)
@@ -89,8 +91,6 @@ Cataclysm-DDA experimental build 2024-08-27-1941 (871d063)
 
 Cataclysm-DDA experimental build 2024-08-27-1717 (83b5393)
 * Fishing is chill (#75994)
-
-Cataclysm-DDA experimental build 2024-08-27-1512 (5e19877)
 * Prevent wielding items under certain conditions while driving (#75955)
 * Warn about problems related to creating a new character in an existing world for 0.I (#75908)
 * Mailboxes use wooden posts (#75932)
