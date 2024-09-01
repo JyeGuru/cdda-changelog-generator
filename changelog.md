@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-01-1411 ([746a170](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-1411))
+
 * Commentary Cyborg and Robot ([#75944](https://github.com/CleverRaven/Cataclysm-DDA/pull/75944))
 * simplify jam_mult formula ([#76059](https://github.com/CleverRaven/Cataclysm-DDA/pull/76059))
 * Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
@@ -165,11 +170,6 @@
 #### Cataclysm-DDA experimental build 2024-08-28-0431 ([3e39d80](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-0431))
 
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl ([#75971](https://github.com/CleverRaven/Cataclysm-DDA/pull/75971))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-28-0235 ([facba24](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-0235))
-
 * Adjust Feral Prepper Gun Drops ([#75982](https://github.com/CleverRaven/Cataclysm-DDA/pull/75982))
 * Extract `game::find_stairs` from `game::find_or_make_stairs` ([#75963](https://github.com/CleverRaven/Cataclysm-DDA/pull/75963))
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
