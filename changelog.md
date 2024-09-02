@@ -1,3 +1,10 @@
+* Shorten skull-specific harvestgroups with the power of ``extend`` ([#76117](https://github.com/CleverRaven/Cataclysm-DDA/pull/76117))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-02-1922 ([6dc152c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-1922))
+
+* Print church/school bell ringing sound in the message log once again ([#76146](https://github.com/CleverRaven/Cataclysm-DDA/pull/76146))
 
 ---
 
@@ -198,7 +205,6 @@
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 * Civilian Magazine Spawn Adjustments ([#75925](https://github.com/CleverRaven/Cataclysm-DDA/pull/75925))
-* Give the kitted survivor a smartphone ([#75915](https://github.com/CleverRaven/Cataclysm-DDA/pull/75915))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
 * Pruning some unused IDs ([#75926](https://github.com/CleverRaven/Cataclysm-DDA/pull/75926))
 * Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu ([#75940](https://github.com/CleverRaven/Cataclysm-DDA/pull/75940))
@@ -207,7 +213,6 @@
 * Shortest. P.R. Everrrrrr  ([#75943](https://github.com/CleverRaven/Cataclysm-DDA/pull/75943))
 * [EOC] fix somethings and add somethings for #75675 string input ([#75949](https://github.com/CleverRaven/Cataclysm-DDA/pull/75949))
 * Bugfix: Reach attack around corners ([#75939](https://github.com/CleverRaven/Cataclysm-DDA/pull/75939))
-* Routine i18n updates on 24 August 2024 ([#75914](https://github.com/CleverRaven/Cataclysm-DDA/pull/75914))
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
