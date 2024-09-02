@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-02-0320 ([c17fa69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-0320))
+
 * [Magiclysm] Magic items have flags like vanilla counterparts do ([#76077](https://github.com/CleverRaven/Cataclysm-DDA/pull/76077))
 * Put player under during CBM surgery initiated from Rubik's dialogue ([#76120](https://github.com/CleverRaven/Cataclysm-DDA/pull/76120))
 
@@ -172,11 +177,6 @@
 #### Cataclysm-DDA experimental build 2024-08-28-2317 ([72a0ea0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-2317))
 
 * [Xedra] Inventor: (Re)Add Dimensional Research ([#75916](https://github.com/CleverRaven/Cataclysm-DDA/pull/75916))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-28-2010 ([4696f0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-2010))
-
 * [MoM] Fix snippet codename ([#76015](https://github.com/CleverRaven/Cataclysm-DDA/pull/76015))
 * Lobster in ocean monster group ([#75996](https://github.com/CleverRaven/Cataclysm-DDA/pull/75996))
 * Update EFFECT_ON_CONDITION.md ([#75951](https://github.com/CleverRaven/Cataclysm-DDA/pull/75951))
