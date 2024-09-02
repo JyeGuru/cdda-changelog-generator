@@ -217,4 +217,3 @@
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
 * ImGui to respect `fonts.json` ([#75920](https://github.com/CleverRaven/Cataclysm-DDA/pull/75920))
-* Made human products get human 'vitamin' and vitamin inheritance ([#75918](https://github.com/CleverRaven/Cataclysm-DDA/pull/75918))
