@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-02-0137 ([050fa50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-0137))
+
+* Refugee center adds food you sell/give them to their camp storage ([#76105](https://github.com/CleverRaven/Cataclysm-DDA/pull/76105))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-09-01-2220 ([ef5c2e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-01-2220))
 
 * Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
@@ -170,11 +176,6 @@
 #### Cataclysm-DDA experimental build 2024-08-28-2010 ([4696f0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-2010))
 
 * [MoM] Fix snippet codename ([#76015](https://github.com/CleverRaven/Cataclysm-DDA/pull/76015))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-28-1747 ([9744b0a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-1747))
-
 * Lobster in ocean monster group ([#75996](https://github.com/CleverRaven/Cataclysm-DDA/pull/75996))
 * Update EFFECT_ON_CONDITION.md ([#75951](https://github.com/CleverRaven/Cataclysm-DDA/pull/75951))
 * move NoScrollbar and NoScrollWithMouse flags from cataimgui::window to uilist_impl ([#75971](https://github.com/CleverRaven/Cataclysm-DDA/pull/75971))
