@@ -1,3 +1,5 @@
+* [Magiclysm] Magic items have flags like vanilla counterparts do ([#76077](https://github.com/CleverRaven/Cataclysm-DDA/pull/76077))
+* Put player under during CBM surgery initiated from Rubik's dialogue ([#76120](https://github.com/CleverRaven/Cataclysm-DDA/pull/76120))
 
 ---
 
@@ -206,8 +208,6 @@
 * [EOC] fix somethings and add somethings for #75675 string input ([#75949](https://github.com/CleverRaven/Cataclysm-DDA/pull/75949))
 * Bugfix: Reach attack around corners ([#75939](https://github.com/CleverRaven/Cataclysm-DDA/pull/75939))
 * Routine i18n updates on 24 August 2024 ([#75914](https://github.com/CleverRaven/Cataclysm-DDA/pull/75914))
-* Added build instructions for Fedora ([#75906](https://github.com/CleverRaven/Cataclysm-DDA/pull/75906))
-* Fix Dear ImTui Demo ([#75905](https://github.com/CleverRaven/Cataclysm-DDA/pull/75905))
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
