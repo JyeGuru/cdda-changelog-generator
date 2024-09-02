@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-02-2126 (9c0bc47)
 * Add indoor flagpole and use it for Hub01 American flags (#76111)
 * Shorten skull-specific harvestgroups with the power of ``extend`` (#76117)
 
