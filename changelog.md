@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-02-1123 ([9c09701](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-1123))
+
+* [XEDRA] Fix Inventor Grenade launcher mod definition ([#76096](https://github.com/CleverRaven/Cataclysm-DDA/pull/76096))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-02-0320 ([c17fa69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-0320))
 
 * [Magiclysm] Magic items have flags like vanilla counterparts do ([#76077](https://github.com/CleverRaven/Cataclysm-DDA/pull/76077))
@@ -171,11 +177,6 @@
 * Change "stock mount" to "stock" for SIG rattler ([#76001](https://github.com/CleverRaven/Cataclysm-DDA/pull/76001))
 * JSON-ify sleep 2: Skeep No More ([#76003](https://github.com/CleverRaven/Cataclysm-DDA/pull/76003))
 * ui_adaptor: don't invalidate uis below when exiting game ([#76000](https://github.com/CleverRaven/Cataclysm-DDA/pull/76000))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-28-2317 ([72a0ea0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-28-2317))
-
 * [Xedra] Inventor: (Re)Add Dimensional Research ([#75916](https://github.com/CleverRaven/Cataclysm-DDA/pull/75916))
 * [MoM] Fix snippet codename ([#76015](https://github.com/CleverRaven/Cataclysm-DDA/pull/76015))
 * Lobster in ocean monster group ([#75996](https://github.com/CleverRaven/Cataclysm-DDA/pull/75996))
@@ -186,7 +187,6 @@
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
 * Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
-* Warn about problems related to creating a new character in an existing world for 0.I ([#75908](https://github.com/CleverRaven/Cataclysm-DDA/pull/75908))
 * Mailboxes use wooden posts ([#75932](https://github.com/CleverRaven/Cataclysm-DDA/pull/75932))
 * Pruning the old ``to-hit`` syntax - Part 4 ([#75923](https://github.com/CleverRaven/Cataclysm-DDA/pull/75923))
 * [MOM] Add ephemeral walk to missing EOCs ([#75919](https://github.com/CleverRaven/Cataclysm-DDA/pull/75919))
