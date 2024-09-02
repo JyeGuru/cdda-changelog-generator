@@ -1,3 +1,4 @@
+* Add indoor flagpole and use it for Hub01 American flags ([#76111](https://github.com/CleverRaven/Cataclysm-DDA/pull/76111))
 * Shorten skull-specific harvestgroups with the power of ``extend`` ([#76117](https://github.com/CleverRaven/Cataclysm-DDA/pull/76117))
 
 ---
@@ -184,7 +185,6 @@
 * Change "stock mount" to "stock" for SIG rattler ([#76001](https://github.com/CleverRaven/Cataclysm-DDA/pull/76001))
 * JSON-ify sleep 2: Skeep No More ([#76003](https://github.com/CleverRaven/Cataclysm-DDA/pull/76003))
 * ui_adaptor: don't invalidate uis below when exiting game ([#76000](https://github.com/CleverRaven/Cataclysm-DDA/pull/76000))
-* [Xedra] Inventor: (Re)Add Dimensional Research ([#75916](https://github.com/CleverRaven/Cataclysm-DDA/pull/75916))
 * [MoM] Fix snippet codename ([#76015](https://github.com/CleverRaven/Cataclysm-DDA/pull/76015))
 * Lobster in ocean monster group ([#75996](https://github.com/CleverRaven/Cataclysm-DDA/pull/75996))
 * Update EFFECT_ON_CONDITION.md ([#75951](https://github.com/CleverRaven/Cataclysm-DDA/pull/75951))
