@@ -213,7 +213,6 @@
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
-* Pruning some unused IDs ([#75926](https://github.com/CleverRaven/Cataclysm-DDA/pull/75926))
 * Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu ([#75940](https://github.com/CleverRaven/Cataclysm-DDA/pull/75940))
 * Text Error Fixes ([#75927](https://github.com/CleverRaven/Cataclysm-DDA/pull/75927))
 * Check the typeface file exists ([#75937](https://github.com/CleverRaven/Cataclysm-DDA/pull/75937))
