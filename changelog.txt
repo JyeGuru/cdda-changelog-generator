@@ -1,3 +1,4 @@
+* out ot -> out of (#76144)
 
 Cataclysm-DDA experimental build 2024-09-03-1615 (3a672af)
 * Fixed a typo (#76139)
@@ -137,7 +138,6 @@ Cataclysm-DDA experimental build 2024-08-30-0021 (bc9e6bc)
 * Manatouched_serum fix (#75952)
 * Fix clang-tidy complaint about double spaces (0.H) (#75957)
 * Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu (#75940)
-* Text Error Fixes (#75927)
 * Check the typeface file exists (#75937)
 * Shortest. P.R. Everrrrrr  (#75943)
 * [EOC] fix somethings and add somethings for #75675 string input (#75949)

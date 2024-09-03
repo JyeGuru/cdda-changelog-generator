@@ -1,3 +1,4 @@
+* out ot -> out of ([#76144](https://github.com/CleverRaven/Cataclysm-DDA/pull/76144))
 
 ---
 
@@ -215,7 +216,6 @@
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
 * Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu ([#75940](https://github.com/CleverRaven/Cataclysm-DDA/pull/75940))
-* Text Error Fixes ([#75927](https://github.com/CleverRaven/Cataclysm-DDA/pull/75927))
 * Check the typeface file exists ([#75937](https://github.com/CleverRaven/Cataclysm-DDA/pull/75937))
 * Shortest. P.R. Everrrrrr  ([#75943](https://github.com/CleverRaven/Cataclysm-DDA/pull/75943))
 * [EOC] fix somethings and add somethings for #75675 string input ([#75949](https://github.com/CleverRaven/Cataclysm-DDA/pull/75949))
