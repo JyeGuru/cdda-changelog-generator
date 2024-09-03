@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-03-0707 (c0f8c04)
 * Add the FBI Profession (#76068)
 * Add regular hearts to the game and make them obtainable through butchery (#76041)
 * [MOM] Add electrokinetic override for internal battery compartment (#76101)
@@ -107,8 +109,6 @@ Cataclysm-DDA experimental build 2024-08-30-0310 (8ebdfc1)
 
 Cataclysm-DDA experimental build 2024-08-30-0021 (bc9e6bc)
 * [MoM] Add Headblind trait and Latent Psion trait.  (#76004)
-
-Cataclysm-DDA experimental build 2024-08-29-1703 (79e2897)
 * [MoM] Remove crystal shard use_action (#76024)
 * Adjust military/police magazines (#76016)
 * Weekly Changelog 2024-08-19 to 2024-08-26 (#75956)

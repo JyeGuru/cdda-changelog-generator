@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-03-0707 ([c0f8c04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-03-0707))
+
 * Add the FBI Profession ([#76068](https://github.com/CleverRaven/Cataclysm-DDA/pull/76068))
 * Add regular hearts to the game and make them obtainable through butchery ([#76041](https://github.com/CleverRaven/Cataclysm-DDA/pull/76041))
 * [MOM] Add electrokinetic override for internal battery compartment ([#76101](https://github.com/CleverRaven/Cataclysm-DDA/pull/76101))
@@ -182,11 +187,6 @@
 #### Cataclysm-DDA experimental build 2024-08-30-0021 ([bc9e6bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-0021))
 
 * [MoM] Add Headblind trait and Latent Psion trait.  ([#76004](https://github.com/CleverRaven/Cataclysm-DDA/pull/76004))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-29-1703 ([79e2897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-29-1703))
-
 * [MoM] Remove crystal shard use_action ([#76024](https://github.com/CleverRaven/Cataclysm-DDA/pull/76024))
 * Adjust military/police magazines ([#76016](https://github.com/CleverRaven/Cataclysm-DDA/pull/76016))
 * Weekly Changelog 2024-08-19 to 2024-08-26 ([#75956](https://github.com/CleverRaven/Cataclysm-DDA/pull/75956))
