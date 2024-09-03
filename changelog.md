@@ -1,3 +1,6 @@
+* Add the FBI Profession ([#76068](https://github.com/CleverRaven/Cataclysm-DDA/pull/76068))
+* Add regular hearts to the game and make them obtainable through butchery ([#76041](https://github.com/CleverRaven/Cataclysm-DDA/pull/76041))
+* [MOM] Add electrokinetic override for internal battery compartment ([#76101](https://github.com/CleverRaven/Cataclysm-DDA/pull/76101))
 * fix Segfault when trying to cast a spell ([#76155](https://github.com/CleverRaven/Cataclysm-DDA/pull/76155))
 
 ---
@@ -202,7 +205,6 @@
 * Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
 * Mailboxes use wooden posts ([#75932](https://github.com/CleverRaven/Cataclysm-DDA/pull/75932))
-* Pruning the old ``to-hit`` syntax - Part 4 ([#75923](https://github.com/CleverRaven/Cataclysm-DDA/pull/75923))
 * [Magiclysm] Density and weight ([#75934](https://github.com/CleverRaven/Cataclysm-DDA/pull/75934))
 * Weakpoints can use conditions and eocs ([#75946](https://github.com/CleverRaven/Cataclysm-DDA/pull/75946))
 * Fixed Chitin Gauntlets' coverage inconsistency ([#75972](https://github.com/CleverRaven/Cataclysm-DDA/pull/75972))
@@ -210,7 +212,6 @@
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
-* Civilian Magazine Spawn Adjustments ([#75925](https://github.com/CleverRaven/Cataclysm-DDA/pull/75925))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
 * Pruning some unused IDs ([#75926](https://github.com/CleverRaven/Cataclysm-DDA/pull/75926))
 * Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu ([#75940](https://github.com/CleverRaven/Cataclysm-DDA/pull/75940))
@@ -222,4 +223,3 @@
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
-* ImGui to respect `fonts.json` ([#75920](https://github.com/CleverRaven/Cataclysm-DDA/pull/75920))
