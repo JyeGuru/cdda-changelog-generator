@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-03-1615 ([3a672af](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-03-1615))
+
+* Fixed a typo ([#76139](https://github.com/CleverRaven/Cataclysm-DDA/pull/76139))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-03-0707 ([c0f8c04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-03-0707))
 
 * Add the FBI Profession ([#76068](https://github.com/CleverRaven/Cataclysm-DDA/pull/76068))
@@ -143,11 +149,6 @@
 * Prevent the imperfect doll being activated multiple times ([#76054](https://github.com/CleverRaven/Cataclysm-DDA/pull/76054))
 * Backport #75564 ([#76046](https://github.com/CleverRaven/Cataclysm-DDA/pull/76046))
 * backport #71875 and #75815 ([#76066](https://github.com/CleverRaven/Cataclysm-DDA/pull/76066))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-08-30-2058 ([f4750fc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-08-30-2058))
-
 * Backport #76058 ([#76067](https://github.com/CleverRaven/Cataclysm-DDA/pull/76067))
 
 ---
@@ -213,7 +214,6 @@
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
-* Pruning some unused IDs ([#75926](https://github.com/CleverRaven/Cataclysm-DDA/pull/75926))
 * Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu ([#75940](https://github.com/CleverRaven/Cataclysm-DDA/pull/75940))
 * Text Error Fixes ([#75927](https://github.com/CleverRaven/Cataclysm-DDA/pull/75927))
 * Check the typeface file exists ([#75937](https://github.com/CleverRaven/Cataclysm-DDA/pull/75937))

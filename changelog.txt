@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-03-1615 (3a672af)
+* Fixed a typo (#76139)
+
 Cataclysm-DDA experimental build 2024-09-03-0707 (c0f8c04)
 * Add the FBI Profession (#76068)
 * Add regular hearts to the game and make them obtainable through butchery (#76041)
@@ -83,8 +86,6 @@ Cataclysm-DDA experimental build 2024-08-31-0432 (88ecaf6)
 * Prevent the imperfect doll being activated multiple times (#76054)
 * Backport #75564 (#76046)
 * backport #71875 and #75815 (#76066)
-
-Cataclysm-DDA 0.H release candidate 2024-08-30-2058 (f4750fc)
 * Backport #76058 (#76067)
 
 Cataclysm-DDA experimental build 2024-08-30-2212 (13f5534)
@@ -135,7 +136,6 @@ Cataclysm-DDA experimental build 2024-08-30-0021 (bc9e6bc)
 * Make the chemist receive actually 100L of gasoline (#75965)
 * Manatouched_serum fix (#75952)
 * Fix clang-tidy complaint about double spaces (0.H) (#75957)
-* Pruning some unused IDs (#75926)
 * Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu (#75940)
 * Text Error Fixes (#75927)
 * Check the typeface file exists (#75937)
