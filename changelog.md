@@ -1,3 +1,10 @@
+* fix Segfault when trying to cast a spell ([#76155](https://github.com/CleverRaven/Cataclysm-DDA/pull/76155))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-03-0505 ([01a0c36](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-03-0505))
+
+* wrap the description in the zone menu to avoid a ridiculous width ([#76157](https://github.com/CleverRaven/Cataclysm-DDA/pull/76157))
 
 ---
 
@@ -178,11 +185,6 @@
 #### Cataclysm-DDA experimental build 2024-08-29-1703 ([79e2897](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-29-1703))
 
 * [MoM] Remove crystal shard use_action ([#76024](https://github.com/CleverRaven/Cataclysm-DDA/pull/76024))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-29-0513 ([673d845](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-29-0513))
-
 * Adjust military/police magazines ([#76016](https://github.com/CleverRaven/Cataclysm-DDA/pull/76016))
 * Weekly Changelog 2024-08-19 to 2024-08-26 ([#75956](https://github.com/CleverRaven/Cataclysm-DDA/pull/75956))
 * Apply mag_jam_mult to helical and drum magazines ([#75970](https://github.com/CleverRaven/Cataclysm-DDA/pull/75970))
@@ -201,7 +203,6 @@
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
 * Mailboxes use wooden posts ([#75932](https://github.com/CleverRaven/Cataclysm-DDA/pull/75932))
 * Pruning the old ``to-hit`` syntax - Part 4 ([#75923](https://github.com/CleverRaven/Cataclysm-DDA/pull/75923))
-* [MOM] Add ephemeral walk to missing EOCs ([#75919](https://github.com/CleverRaven/Cataclysm-DDA/pull/75919))
 * [Magiclysm] Density and weight ([#75934](https://github.com/CleverRaven/Cataclysm-DDA/pull/75934))
 * Weakpoints can use conditions and eocs ([#75946](https://github.com/CleverRaven/Cataclysm-DDA/pull/75946))
 * Fixed Chitin Gauntlets' coverage inconsistency ([#75972](https://github.com/CleverRaven/Cataclysm-DDA/pull/75972))
@@ -222,4 +223,3 @@
 * Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
 * ImGui to respect `fonts.json` ([#75920](https://github.com/CleverRaven/Cataclysm-DDA/pull/75920))
-* Made human products get human 'vitamin' and vitamin inheritance ([#75918](https://github.com/CleverRaven/Cataclysm-DDA/pull/75918))
