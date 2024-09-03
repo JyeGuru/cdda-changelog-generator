@@ -226,4 +226,5 @@
 * [EOC] fix somethings and add somethings for #75675 string input ([#75949](https://github.com/CleverRaven/Cataclysm-DDA/pull/75949))
 * Bugfix: Reach attack around corners ([#75939](https://github.com/CleverRaven/Cataclysm-DDA/pull/75939))
 * [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
+* Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
 * Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
