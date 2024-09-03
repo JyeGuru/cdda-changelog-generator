@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-03-1837 ([fe410bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-03-1837))
+
 * out ot -> out of ([#76144](https://github.com/CleverRaven/Cataclysm-DDA/pull/76144))
 
 ---

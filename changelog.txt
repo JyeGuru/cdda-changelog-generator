@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-03-1837 (fe410bf)
 * out ot -> out of (#76144)
 
 Cataclysm-DDA experimental build 2024-09-03-1615 (3a672af)
