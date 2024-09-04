@@ -1,3 +1,4 @@
+* Improved companion order failure reporting somewhat ([#76193](https://github.com/CleverRaven/Cataclysm-DDA/pull/76193))
 * Fix overlook in #76029 ([#76167](https://github.com/CleverRaven/Cataclysm-DDA/pull/76167))
 * [Sky Island] Fix pond recipe failed refunds ([#76179](https://github.com/CleverRaven/Cataclysm-DDA/pull/76179))
 * [MoM] Add extra possible learning conditions for Extended Channeling ([#76148](https://github.com/CleverRaven/Cataclysm-DDA/pull/76148))
@@ -114,12 +115,6 @@
 * Sweep of sanification for electronic devices ([#76029](https://github.com/CleverRaven/Cataclysm-DDA/pull/76029))
 * simplify jam_mult formula ([#76059](https://github.com/CleverRaven/Cataclysm-DDA/pull/76059))
 * Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-01-1243 ([90d4b25](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-01-1243))
-
-* Update 0.H strings from experimental ([#75948](https://github.com/CleverRaven/Cataclysm-DDA/pull/75948))
 * Improve performance in npc::has_potential_los ([#76009](https://github.com/CleverRaven/Cataclysm-DDA/pull/76009))
 * Extend/delete support for harvest lists ([#76047](https://github.com/CleverRaven/Cataclysm-DDA/pull/76047))
 * add damage spellcasting_adjustment ([#76064](https://github.com/CleverRaven/Cataclysm-DDA/pull/76064))
