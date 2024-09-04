@@ -1,3 +1,12 @@
+* fix GitHub errors; save `overmap_fast_travel` & `overmap_fast_scroll` ([#76145](https://github.com/CleverRaven/Cataclysm-DDA/pull/76145))
+* Kill a pointless slur ([#76161](https://github.com/CleverRaven/Cataclysm-DDA/pull/76161))
+* Correct naming of Arisaka calibre ([#76169](https://github.com/CleverRaven/Cataclysm-DDA/pull/76169))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-04-0157 ([ca3289b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-0157))
+
+* Remove the music action from AR bionic ([#76177](https://github.com/CleverRaven/Cataclysm-DDA/pull/76177))
 
 ---
 
@@ -188,11 +197,6 @@
 * Fix the typo in garter snake naming ([#76030](https://github.com/CleverRaven/Cataclysm-DDA/pull/76030))
 * fix ImTui rendering by defining the IMTUI define ([#76031](https://github.com/CleverRaven/Cataclysm-DDA/pull/76031))
 * [Xedra Evolved] Extend hedge magic research system, part 1 ([#76035](https://github.com/CleverRaven/Cataclysm-DDA/pull/76035))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-30-0021 ([bc9e6bc](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-0021))
-
 * [MoM] Add Headblind trait and Latent Psion trait.  ([#76004](https://github.com/CleverRaven/Cataclysm-DDA/pull/76004))
 * [MoM] Remove crystal shard use_action ([#76024](https://github.com/CleverRaven/Cataclysm-DDA/pull/76024))
 * Adjust military/police magazines ([#76016](https://github.com/CleverRaven/Cataclysm-DDA/pull/76016))
@@ -211,7 +215,6 @@
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
 * Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
-* Mailboxes use wooden posts ([#75932](https://github.com/CleverRaven/Cataclysm-DDA/pull/75932))
 * [Magiclysm] Density and weight ([#75934](https://github.com/CleverRaven/Cataclysm-DDA/pull/75934))
 * Weakpoints can use conditions and eocs ([#75946](https://github.com/CleverRaven/Cataclysm-DDA/pull/75946))
 * Fixed Chitin Gauntlets' coverage inconsistency ([#75972](https://github.com/CleverRaven/Cataclysm-DDA/pull/75972))
@@ -225,6 +228,3 @@
 * Shortest. P.R. Everrrrrr  ([#75943](https://github.com/CleverRaven/Cataclysm-DDA/pull/75943))
 * [EOC] fix somethings and add somethings for #75675 string input ([#75949](https://github.com/CleverRaven/Cataclysm-DDA/pull/75949))
 * Bugfix: Reach attack around corners ([#75939](https://github.com/CleverRaven/Cataclysm-DDA/pull/75939))
-* [Xedra Evolved] More Paraclesian restrictions ([#75931](https://github.com/CleverRaven/Cataclysm-DDA/pull/75931))
-* Fix python speedloader ([#75929](https://github.com/CleverRaven/Cataclysm-DDA/pull/75929))
-* Fix superglue density ([#75930](https://github.com/CleverRaven/Cataclysm-DDA/pull/75930))
