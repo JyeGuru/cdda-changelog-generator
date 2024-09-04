@@ -1,3 +1,11 @@
+* [Sky Island] Fix pond recipe failed refunds ([#76179](https://github.com/CleverRaven/Cataclysm-DDA/pull/76179))
+* [MoM] Add extra possible learning conditions for Extended Channeling ([#76148](https://github.com/CleverRaven/Cataclysm-DDA/pull/76148))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-04-1749 ([2212ca2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-1749))
+
+* Autodrive works on forest trails again (for tiny vehicles) ([#76184](https://github.com/CleverRaven/Cataclysm-DDA/pull/76184))
 
 ---
 
@@ -103,12 +111,6 @@
 #### Cataclysm-DDA experimental build 2024-09-01-2159 ([9dfbd30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-2159))
 
 * Sweep of sanification for electronic devices ([#76029](https://github.com/CleverRaven/Cataclysm-DDA/pull/76029))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-01-1411 ([746a170](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-1411))
-
-* Commentary Cyborg and Robot ([#75944](https://github.com/CleverRaven/Cataclysm-DDA/pull/75944))
 * simplify jam_mult formula ([#76059](https://github.com/CleverRaven/Cataclysm-DDA/pull/76059))
 * Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
 
@@ -190,11 +192,6 @@
 #### Cataclysm-DDA experimental build 2024-08-30-2212 ([13f5534](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-2212))
 
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble ([#76058](https://github.com/CleverRaven/Cataclysm-DDA/pull/76058))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-30-1834 ([b325a47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-1834))
-
 * Fix npc butchering ([#76040](https://github.com/CleverRaven/Cataclysm-DDA/pull/76040))
 * [Xedra Evolved] Fix Sylph flying effect ([#76014](https://github.com/CleverRaven/Cataclysm-DDA/pull/76014))
 * Expand `character_takes_damage` event to send beta talker also ([#75980](https://github.com/CleverRaven/Cataclysm-DDA/pull/75980))
@@ -231,5 +228,4 @@
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
-* Shortest. P.R. Everrrrrr  ([#75943](https://github.com/CleverRaven/Cataclysm-DDA/pull/75943))
 * [EOC] fix somethings and add somethings for #75675 string input ([#75949](https://github.com/CleverRaven/Cataclysm-DDA/pull/75949))

@@ -1,3 +1,8 @@
+* [Sky Island] Fix pond recipe failed refunds (#76179)
+* [MoM] Add extra possible learning conditions for Extended Channeling (#76148)
+
+Cataclysm-DDA experimental build 2024-09-04-1749 (2212ca2)
+* Autodrive works on forest trails again (for tiny vehicles) (#76184)
 
 Cataclysm-DDA experimental build 2024-09-04-1259 (9633d7f)
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Animist/biomancer edition) (#76160)
@@ -55,9 +60,6 @@ Cataclysm-DDA experimental build 2024-09-01-2346 (7483759)
 
 Cataclysm-DDA experimental build 2024-09-01-2159 (9dfbd30)
 * Sweep of sanification for electronic devices (#76029)
-
-Cataclysm-DDA experimental build 2024-09-01-1411 (746a170)
-* Commentary Cyborg and Robot (#75944)
 * simplify jam_mult formula (#76059)
 * Update the autolabeler (#76112)
 
@@ -109,8 +111,6 @@ Cataclysm-DDA experimental build 2024-08-31-0432 (88ecaf6)
 
 Cataclysm-DDA experimental build 2024-08-30-2212 (13f5534)
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble (#76058)
-
-Cataclysm-DDA experimental build 2024-08-30-1834 (b325a47)
 * Fix npc butchering (#76040)
 * [Xedra Evolved] Fix Sylph flying effect (#76014)
 * Expand `character_takes_damage` event to send beta talker also (#75980)
@@ -147,5 +147,4 @@ Cataclysm-DDA experimental build 2024-08-30-1834 (b325a47)
 * Make the chemist receive actually 100L of gasoline (#75965)
 * Manatouched_serum fix (#75952)
 * Fix clang-tidy complaint about double spaces (0.H) (#75957)
-* Shortest. P.R. Everrrrrr  (#75943)
 * [EOC] fix somethings and add somethings for #75675 string input (#75949)
