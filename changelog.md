@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-04-2342 ([6f95906](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-2342))
+
 * show spell components in new spell ui and fix color tags in it ([#76149](https://github.com/CleverRaven/Cataclysm-DDA/pull/76149))
 
 ---

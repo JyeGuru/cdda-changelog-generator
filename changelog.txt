@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-04-2342 (6f95906)
 * show spell components in new spell ui and fix color tags in it (#76149)
 
 Cataclysm-DDA experimental build 2024-09-04-2028 (33970f5)
