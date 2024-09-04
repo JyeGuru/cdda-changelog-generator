@@ -1,3 +1,4 @@
+* show spell components in new spell ui and fix color tags in it ([#76149](https://github.com/CleverRaven/Cataclysm-DDA/pull/76149))
 
 ---
 
@@ -218,7 +219,6 @@
 * Extract `game::find_stairs` from `game::find_or_make_stairs` ([#75963](https://github.com/CleverRaven/Cataclysm-DDA/pull/75963))
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
 * Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
-* Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
 * Fixed Chitin Gauntlets' coverage inconsistency ([#75972](https://github.com/CleverRaven/Cataclysm-DDA/pull/75972))
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
