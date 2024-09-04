@@ -1,3 +1,4 @@
+* Fix overlook in #76029 ([#76167](https://github.com/CleverRaven/Cataclysm-DDA/pull/76167))
 * [Sky Island] Fix pond recipe failed refunds ([#76179](https://github.com/CleverRaven/Cataclysm-DDA/pull/76179))
 * [MoM] Add extra possible learning conditions for Extended Channeling ([#76148](https://github.com/CleverRaven/Cataclysm-DDA/pull/76148))
 
@@ -221,7 +222,6 @@
 * Fix macos builds from using ungated std::filesystem calls in cata_imgui ([#75986](https://github.com/CleverRaven/Cataclysm-DDA/pull/75986))
 * Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
-* Weakpoints can use conditions and eocs ([#75946](https://github.com/CleverRaven/Cataclysm-DDA/pull/75946))
 * Fixed Chitin Gauntlets' coverage inconsistency ([#75972](https://github.com/CleverRaven/Cataclysm-DDA/pull/75972))
 * Fix #73172 ([#75953](https://github.com/CleverRaven/Cataclysm-DDA/pull/75953))
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
