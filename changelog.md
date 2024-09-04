@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-04-2028 ([33970f5](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-2028))
+
 * fix explosion in bubble ([#76113](https://github.com/CleverRaven/Cataclysm-DDA/pull/76113))
 * Weekly Changelog 2024-08-26 to 2024-09-02 ([#76132](https://github.com/CleverRaven/Cataclysm-DDA/pull/76132))
 * Prevent XEDRA mercenary officer from evolving, which otherwise prevents finishing the haunting fight ([#76127](https://github.com/CleverRaven/Cataclysm-DDA/pull/76127))
@@ -185,11 +190,6 @@
 * Backport #75564 ([#76046](https://github.com/CleverRaven/Cataclysm-DDA/pull/76046))
 * backport #71875 and #75815 ([#76066](https://github.com/CleverRaven/Cataclysm-DDA/pull/76066))
 * Backport #76058 ([#76067](https://github.com/CleverRaven/Cataclysm-DDA/pull/76067))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-30-2212 ([13f5534](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-2212))
-
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble ([#76058](https://github.com/CleverRaven/Cataclysm-DDA/pull/76058))
 * Fix npc butchering ([#76040](https://github.com/CleverRaven/Cataclysm-DDA/pull/76040))
 * [Xedra Evolved] Fix Sylph flying effect ([#76014](https://github.com/CleverRaven/Cataclysm-DDA/pull/76014))
