@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-04-0626 ([0c909b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-0626))
+
 * turn off ATMs ([#76051](https://github.com/CleverRaven/Cataclysm-DDA/pull/76051))
 * Maybe fix 0.H tests ([#76185](https://github.com/CleverRaven/Cataclysm-DDA/pull/76185))
 
@@ -185,11 +190,6 @@
 #### Cataclysm-DDA experimental build 2024-08-30-1834 ([b325a47](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-1834))
 
 * Fix npc butchering ([#76040](https://github.com/CleverRaven/Cataclysm-DDA/pull/76040))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-30-1047 ([b38588a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-1047))
-
 * [Xedra Evolved] Fix Sylph flying effect ([#76014](https://github.com/CleverRaven/Cataclysm-DDA/pull/76014))
 * Expand `character_takes_damage` event to send beta talker also ([#75980](https://github.com/CleverRaven/Cataclysm-DDA/pull/75980))
 * Improve tabi and geta descriptions ([#76028](https://github.com/CleverRaven/Cataclysm-DDA/pull/76028))
