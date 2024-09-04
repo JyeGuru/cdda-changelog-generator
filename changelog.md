@@ -220,7 +220,6 @@
 * Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
 * Prevent wielding items under certain conditions while driving ([#75955](https://github.com/CleverRaven/Cataclysm-DDA/pull/75955))
 * Fixed Chitin Gauntlets' coverage inconsistency ([#75972](https://github.com/CleverRaven/Cataclysm-DDA/pull/75972))
-* Fix #73172 ([#75953](https://github.com/CleverRaven/Cataclysm-DDA/pull/75953))
 * Silence clang-tidy warning about useless const ([#75981](https://github.com/CleverRaven/Cataclysm-DDA/pull/75981))
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
