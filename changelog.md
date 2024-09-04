@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-04-1259 ([9633d7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-1259))
+
+* [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Animist/biomancer edition) ([#76160](https://github.com/CleverRaven/Cataclysm-DDA/pull/76160))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-04-0626 ([0c909b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-0626))
 
 * turn off ATMs ([#76051](https://github.com/CleverRaven/Cataclysm-DDA/pull/76051))
@@ -225,6 +231,5 @@
 * Make the chemist receive actually 100L of gasoline ([#75965](https://github.com/CleverRaven/Cataclysm-DDA/pull/75965))
 * Manatouched_serum fix ([#75952](https://github.com/CleverRaven/Cataclysm-DDA/pull/75952))
 * Fix clang-tidy complaint about double spaces (0.H) ([#75957](https://github.com/CleverRaven/Cataclysm-DDA/pull/75957))
-* Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu ([#75940](https://github.com/CleverRaven/Cataclysm-DDA/pull/75940))
 * Shortest. P.R. Everrrrrr  ([#75943](https://github.com/CleverRaven/Cataclysm-DDA/pull/75943))
 * [EOC] fix somethings and add somethings for #75675 string input ([#75949](https://github.com/CleverRaven/Cataclysm-DDA/pull/75949))

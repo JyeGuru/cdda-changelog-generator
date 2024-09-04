@@ -1,4 +1,7 @@
 
+Cataclysm-DDA experimental build 2024-09-04-1259 (9633d7f)
+* [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Animist/biomancer edition) (#76160)
+
 Cataclysm-DDA experimental build 2024-09-04-0626 (0c909b2)
 * turn off ATMs (#76051)
 * Maybe fix 0.H tests (#76185)
@@ -144,6 +147,5 @@ Cataclysm-DDA experimental build 2024-08-30-1834 (b325a47)
 * Make the chemist receive actually 100L of gasoline (#75965)
 * Manatouched_serum fix (#75952)
 * Fix clang-tidy complaint about double spaces (0.H) (#75957)
-* Remove CLAWS from Judo, Aikido, Eskrima and Biojutsu (#75940)
 * Shortest. P.R. Everrrrrr  (#75943)
 * [EOC] fix somethings and add somethings for #75675 string input (#75949)
