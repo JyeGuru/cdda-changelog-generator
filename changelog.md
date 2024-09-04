@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-04-0426 ([03f7d9b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-0426))
+
 * Correct naming of Desert Tec > Desert Tech in the MDRX assembly descriptions ([#76171](https://github.com/CleverRaven/Cataclysm-DDA/pull/76171))
 * fix GitHub errors; save `overmap_fast_travel` & `overmap_fast_scroll` ([#76145](https://github.com/CleverRaven/Cataclysm-DDA/pull/76145))
 * Kill a pointless slur ([#76161](https://github.com/CleverRaven/Cataclysm-DDA/pull/76161))
@@ -184,11 +189,6 @@
 #### Cataclysm-DDA experimental build 2024-08-30-1047 ([b38588a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-1047))
 
 * [Xedra Evolved] Fix Sylph flying effect ([#76014](https://github.com/CleverRaven/Cataclysm-DDA/pull/76014))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-30-0310 ([8ebdfc1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-30-0310))
-
 * Expand `character_takes_damage` event to send beta talker also ([#75980](https://github.com/CleverRaven/Cataclysm-DDA/pull/75980))
 * Improve tabi and geta descriptions ([#76028](https://github.com/CleverRaven/Cataclysm-DDA/pull/76028))
 * [MOM] Add gamestart ephemeral walk learning eoc for ascended teleporters ([#76005](https://github.com/CleverRaven/Cataclysm-DDA/pull/76005))
