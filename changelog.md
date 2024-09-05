@@ -1,3 +1,5 @@
+* Update numbers on some Tacoma ranch missions ([#76073](https://github.com/CleverRaven/Cataclysm-DDA/pull/76073))
+* Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * Replace pf_special with a scoped enum (PathfindingFlag) and add more flags ([#76026](https://github.com/CleverRaven/Cataclysm-DDA/pull/76026))
 * Partial chitinous helmets ([#76044](https://github.com/CleverRaven/Cataclysm-DDA/pull/76044))
 * [Magiclysm] Fix the harvest ([#76049](https://github.com/CleverRaven/Cataclysm-DDA/pull/76049))
@@ -165,7 +167,6 @@
 * Sweep of sanification for electronic devices ([#76029](https://github.com/CleverRaven/Cataclysm-DDA/pull/76029))
 * simplify jam_mult formula ([#76059](https://github.com/CleverRaven/Cataclysm-DDA/pull/76059))
 * Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
-* Improve performance in npc::has_potential_los ([#76009](https://github.com/CleverRaven/Cataclysm-DDA/pull/76009))
 * Extend/delete support for harvest lists ([#76047](https://github.com/CleverRaven/Cataclysm-DDA/pull/76047))
 * add damage spellcasting_adjustment ([#76064](https://github.com/CleverRaven/Cataclysm-DDA/pull/76064))
 * Massively increase overmap UI search range ([#76072](https://github.com/CleverRaven/Cataclysm-DDA/pull/76072))
