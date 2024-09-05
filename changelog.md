@@ -221,7 +221,6 @@
 * Backport #76058 ([#76067](https://github.com/CleverRaven/Cataclysm-DDA/pull/76067))
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble ([#76058](https://github.com/CleverRaven/Cataclysm-DDA/pull/76058))
 * Fix npc butchering ([#76040](https://github.com/CleverRaven/Cataclysm-DDA/pull/76040))
-* [Xedra Evolved] Fix Sylph flying effect ([#76014](https://github.com/CleverRaven/Cataclysm-DDA/pull/76014))
 * Improve tabi and geta descriptions ([#76028](https://github.com/CleverRaven/Cataclysm-DDA/pull/76028))
 * Allow military NVGs to attach to combat exoskeleton helmets ([#76018](https://github.com/CleverRaven/Cataclysm-DDA/pull/76018))
 * Allow vitamin-providing drugs to be deposited into faction camp larder ([#76025](https://github.com/CleverRaven/Cataclysm-DDA/pull/76025))
