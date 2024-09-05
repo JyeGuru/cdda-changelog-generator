@@ -1,3 +1,10 @@
+* Butchering proficiencies ([#76156](https://github.com/CleverRaven/Cataclysm-DDA/pull/76156))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-05-1516 ([67159f2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-05-1516))
+
+* allow pipe cleaner to be crafted using any sort of wire ([#76187](https://github.com/CleverRaven/Cataclysm-DDA/pull/76187))
 
 ---
 
@@ -200,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2024-08-31-2037 ([b51dc34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-31-2037))
 
 * NPC flee from being run over by vehicles ([#76050](https://github.com/CleverRaven/Cataclysm-DDA/pull/76050))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-31-1825 ([c85007d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-31-1825))
-
 * Routine i18n updates on 31 August 2024 ([#76071](https://github.com/CleverRaven/Cataclysm-DDA/pull/76071))
 * Toggle to Only Draw Overmap During Autotravel ([#76017](https://github.com/CleverRaven/Cataclysm-DDA/pull/76017))
 * [Xedra Evolved] Fix summoned ancient warriors leaving corpses ([#76055](https://github.com/CleverRaven/Cataclysm-DDA/pull/76055))
@@ -233,5 +235,3 @@
 * JSON-ify sleep 2: Skeep No More ([#76003](https://github.com/CleverRaven/Cataclysm-DDA/pull/76003))
 * ui_adaptor: don't invalidate uis below when exiting game ([#76000](https://github.com/CleverRaven/Cataclysm-DDA/pull/76000))
 * [MoM] Fix snippet codename ([#76015](https://github.com/CleverRaven/Cataclysm-DDA/pull/76015))
-* Lobster in ocean monster group ([#75996](https://github.com/CleverRaven/Cataclysm-DDA/pull/75996))
-* Fishing is chill ([#75994](https://github.com/CleverRaven/Cataclysm-DDA/pull/75994))
