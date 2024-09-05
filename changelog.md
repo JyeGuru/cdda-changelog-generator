@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-09-05-1853 ([675ea0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-05-1853))
+
+* Backport MoM #70838, #70904, #70830, #71228, #71024, and #73529 ([#76174](https://github.com/CleverRaven/Cataclysm-DDA/pull/76174))
 * Update numbers on some Tacoma ranch missions ([#76073](https://github.com/CleverRaven/Cataclysm-DDA/pull/76073))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * Replace pf_special with a scoped enum (PathfindingFlag) and add more flags ([#76026](https://github.com/CleverRaven/Cataclysm-DDA/pull/76026))
@@ -201,11 +207,6 @@
 #### Cataclysm-DDA experimental build 2024-09-01-0035 ([3b69d6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-0035))
 
 * fix light_cell_rechargeable not fitting in batteries itemgroup ([#76081](https://github.com/CleverRaven/Cataclysm-DDA/pull/76081))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-31-2245 ([28df08a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-31-2245))
-
 * Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
 * NPC flee from being run over by vehicles ([#76050](https://github.com/CleverRaven/Cataclysm-DDA/pull/76050))
 * Routine i18n updates on 31 August 2024 ([#76071](https://github.com/CleverRaven/Cataclysm-DDA/pull/76071))
@@ -222,7 +223,6 @@
 * Fix npc butchering ([#76040](https://github.com/CleverRaven/Cataclysm-DDA/pull/76040))
 * [Xedra Evolved] Fix Sylph flying effect ([#76014](https://github.com/CleverRaven/Cataclysm-DDA/pull/76014))
 * Improve tabi and geta descriptions ([#76028](https://github.com/CleverRaven/Cataclysm-DDA/pull/76028))
-* [MOM] Change text in practice message to tag/variable ([#76013](https://github.com/CleverRaven/Cataclysm-DDA/pull/76013))
 * Allow military NVGs to attach to combat exoskeleton helmets ([#76018](https://github.com/CleverRaven/Cataclysm-DDA/pull/76018))
 * Allow vitamin-providing drugs to be deposited into faction camp larder ([#76025](https://github.com/CleverRaven/Cataclysm-DDA/pull/76025))
 * Fix the typo in garter snake naming ([#76030](https://github.com/CleverRaven/Cataclysm-DDA/pull/76030))
