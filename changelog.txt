@@ -1,3 +1,5 @@
+* Functioning toasters (#76074)
+* fix you being able to "see" impossible shape when blind (#76206)
 * Butchering proficiencies (#76156)
 
 Cataclysm-DDA experimental build 2024-09-05-1516 (67159f2)
@@ -147,7 +149,5 @@ Cataclysm-DDA experimental build 2024-08-31-2037 (b51dc34)
 * [MoM] Add Headblind trait and Latent Psion trait.  (#76004)
 * [MoM] Remove crystal shard use_action (#76024)
 * Adjust military/police magazines (#76016)
-* Change "stock mount" to "stock" for SIG rattler (#76001)
 * JSON-ify sleep 2: Skeep No More (#76003)
-* ui_adaptor: don't invalidate uis below when exiting game (#76000)
 * [MoM] Fix snippet codename (#76015)

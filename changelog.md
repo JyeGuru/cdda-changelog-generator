@@ -1,3 +1,5 @@
+* Functioning toasters ([#76074](https://github.com/CleverRaven/Cataclysm-DDA/pull/76074))
+* fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
 * Butchering proficiencies ([#76156](https://github.com/CleverRaven/Cataclysm-DDA/pull/76156))
 
 ---
@@ -231,7 +233,5 @@
 * [MoM] Add Headblind trait and Latent Psion trait.  ([#76004](https://github.com/CleverRaven/Cataclysm-DDA/pull/76004))
 * [MoM] Remove crystal shard use_action ([#76024](https://github.com/CleverRaven/Cataclysm-DDA/pull/76024))
 * Adjust military/police magazines ([#76016](https://github.com/CleverRaven/Cataclysm-DDA/pull/76016))
-* Change "stock mount" to "stock" for SIG rattler ([#76001](https://github.com/CleverRaven/Cataclysm-DDA/pull/76001))
 * JSON-ify sleep 2: Skeep No More ([#76003](https://github.com/CleverRaven/Cataclysm-DDA/pull/76003))
-* ui_adaptor: don't invalidate uis below when exiting game ([#76000](https://github.com/CleverRaven/Cataclysm-DDA/pull/76000))
 * [MoM] Fix snippet codename ([#76015](https://github.com/CleverRaven/Cataclysm-DDA/pull/76015))
