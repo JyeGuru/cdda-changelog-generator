@@ -4,6 +4,11 @@
 #### Cataclysm-DDA 0.H release candidate 2024-09-05-1853 ([675ea0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-05-1853))
 
 * Backport MoM #70838, #70904, #70830, #71228, #71024, and #73529 ([#76174](https://github.com/CleverRaven/Cataclysm-DDA/pull/76174))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-05-2020 ([c017e94](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-05-2020))
+
 * Update numbers on some Tacoma ranch missions ([#76073](https://github.com/CleverRaven/Cataclysm-DDA/pull/76073))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
 * Replace pf_special with a scoped enum (PathfindingFlag) and add more flags ([#76026](https://github.com/CleverRaven/Cataclysm-DDA/pull/76026))
@@ -201,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2024-09-01-0300 ([2d41010](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-0300))
 
 * Make skill rust related mutations display as mixed effect ([#76076](https://github.com/CleverRaven/Cataclysm-DDA/pull/76076))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-01-0035 ([3b69d6f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-0035))
-
 * fix light_cell_rechargeable not fitting in batteries itemgroup ([#76081](https://github.com/CleverRaven/Cataclysm-DDA/pull/76081))
 * Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
 * NPC flee from being run over by vehicles ([#76050](https://github.com/CleverRaven/Cataclysm-DDA/pull/76050))
