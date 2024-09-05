@@ -1,3 +1,4 @@
+* casting a spell casts the wrong spell (#76137)
 * Fix inconsistent crafting range (#76143)
 
 Cataclysm-DDA experimental build 2024-09-05-0221 (7c664e1)
