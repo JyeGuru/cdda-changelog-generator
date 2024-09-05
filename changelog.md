@@ -1,3 +1,4 @@
+* Fix inconsistent crafting range ([#76143](https://github.com/CleverRaven/Cataclysm-DDA/pull/76143))
 
 ---
 

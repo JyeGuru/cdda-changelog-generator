@@ -1,3 +1,4 @@
+* Fix inconsistent crafting range (#76143)
 
 Cataclysm-DDA experimental build 2024-09-05-0221 (7c664e1)
 * fix the skill editor to use the text property instead of textformatted (#76141)
