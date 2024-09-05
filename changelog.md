@@ -206,11 +206,6 @@
 #### Cataclysm-DDA experimental build 2024-08-31-2245 ([28df08a](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-31-2245))
 
 * Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
-
----
-
-#### Cataclysm-DDA experimental build 2024-08-31-2037 ([b51dc34](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-08-31-2037))
-
 * NPC flee from being run over by vehicles ([#76050](https://github.com/CleverRaven/Cataclysm-DDA/pull/76050))
 * Routine i18n updates on 31 August 2024 ([#76071](https://github.com/CleverRaven/Cataclysm-DDA/pull/76071))
 * Toggle to Only Draw Overmap During Autotravel ([#76017](https://github.com/CleverRaven/Cataclysm-DDA/pull/76017))
