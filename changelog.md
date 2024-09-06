@@ -1,3 +1,5 @@
+* Move some IDs only used in mods to corresponding mod files, remove ``VERMIN`` flag ([#76091](https://github.com/CleverRaven/Cataclysm-DDA/pull/76091))
+* [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Druid/Earthshaper edition)  ([#76197](https://github.com/CleverRaven/Cataclysm-DDA/pull/76197))
 * [MoM] Add two snippets ([#76219](https://github.com/CleverRaven/Cataclysm-DDA/pull/76219))
 * Fix point hash to be well distributed. ([#76153](https://github.com/CleverRaven/Cataclysm-DDA/pull/76153))
 
@@ -226,6 +228,4 @@
 * Backport #76058 ([#76067](https://github.com/CleverRaven/Cataclysm-DDA/pull/76067))
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble ([#76058](https://github.com/CleverRaven/Cataclysm-DDA/pull/76058))
 * Fix npc butchering ([#76040](https://github.com/CleverRaven/Cataclysm-DDA/pull/76040))
-* Fix the typo in garter snake naming ([#76030](https://github.com/CleverRaven/Cataclysm-DDA/pull/76030))
-* fix ImTui rendering by defining the IMTUI define ([#76031](https://github.com/CleverRaven/Cataclysm-DDA/pull/76031))
 * [Xedra Evolved] Extend hedge magic research system, part 1 ([#76035](https://github.com/CleverRaven/Cataclysm-DDA/pull/76035))
