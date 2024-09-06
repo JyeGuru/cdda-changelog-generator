@@ -1,6 +1,13 @@
 
 ---
 
+#### Cataclysm-DDA 0.H release candidate 2024-09-06-1852 ([dec9eec](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-06-1852))
+
+* [MoM] Backport #70729, #70615, #71260, #70910, and #71399 to 0.H ([#76225](https://github.com/CleverRaven/Cataclysm-DDA/pull/76225))
+* Capitalize “Scan” ([#76237](https://github.com/CleverRaven/Cataclysm-DDA/pull/76237))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-06-1722 ([faa10bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-1722))
 
 * overmap: don't initialize redundant ui_adaptor by default ([#76220](https://github.com/CleverRaven/Cataclysm-DDA/pull/76220))
@@ -204,11 +211,6 @@
 * fix vitamins in vitamins ([#76075](https://github.com/CleverRaven/Cataclysm-DDA/pull/76075))
 * Routine tileset updates on 01 September 2024 ([#76094](https://github.com/CleverRaven/Cataclysm-DDA/pull/76094))
 * Remove extraneous copy of lake_cabin_water terrain from lighthouse ([#76104](https://github.com/CleverRaven/Cataclysm-DDA/pull/76104))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-01-1158 ([7f37775](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-1158))
-
 * roof innawood caves ([#76109](https://github.com/CleverRaven/Cataclysm-DDA/pull/76109))
 * Remove generic bird egg, replace its role with chicken egg ([#76090](https://github.com/CleverRaven/Cataclysm-DDA/pull/76090))
 * Handle mouse input in a more sophisticated manner ([#76033](https://github.com/CleverRaven/Cataclysm-DDA/pull/76033))
@@ -230,8 +232,6 @@
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble ([#76058](https://github.com/CleverRaven/Cataclysm-DDA/pull/76058))
 * Fix npc butchering ([#76040](https://github.com/CleverRaven/Cataclysm-DDA/pull/76040))
 * Improve tabi and geta descriptions ([#76028](https://github.com/CleverRaven/Cataclysm-DDA/pull/76028))
-* Allow vitamin-providing drugs to be deposited into faction camp larder ([#76025](https://github.com/CleverRaven/Cataclysm-DDA/pull/76025))
 * Fix the typo in garter snake naming ([#76030](https://github.com/CleverRaven/Cataclysm-DDA/pull/76030))
 * fix ImTui rendering by defining the IMTUI define ([#76031](https://github.com/CleverRaven/Cataclysm-DDA/pull/76031))
 * [Xedra Evolved] Extend hedge magic research system, part 1 ([#76035](https://github.com/CleverRaven/Cataclysm-DDA/pull/76035))
-* [MoM] Remove crystal shard use_action ([#76024](https://github.com/CleverRaven/Cataclysm-DDA/pull/76024))
