@@ -1,3 +1,12 @@
+* Re-added ability to launch nuclear missile to No Hope mod, once again ([#76214](https://github.com/CleverRaven/Cataclysm-DDA/pull/76214))
+* Pruning the old ``to-hit`` syntax - Part 6 ([#76213](https://github.com/CleverRaven/Cataclysm-DDA/pull/76213))
+* change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-06-0432 ([84eace8](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-0432))
+
+* [MoM] Add Leukocyte Accumulation vitakinetic power, obsolete Damage Balancing ([#76125](https://github.com/CleverRaven/Cataclysm-DDA/pull/76125))
 
 ---
 
@@ -44,7 +53,6 @@
 * fix the skill editor to use the text property instead of textformatted ([#76141](https://github.com/CleverRaven/Cataclysm-DDA/pull/76141))
 * Updated default keybindings for changing start dates in character creation menu ([#76164](https://github.com/CleverRaven/Cataclysm-DDA/pull/76164))
 * Migrate ACT_PULP to the new activity actor system ([#76163](https://github.com/CleverRaven/Cataclysm-DDA/pull/76163))
-* Add more generic gun names ([#76019](https://github.com/CleverRaven/Cataclysm-DDA/pull/76019))
 * [Xedra Evolved] Extend hedge magic research system, part 2 ([#76061](https://github.com/CleverRaven/Cataclysm-DDA/pull/76061))
 * [Xedra Evolved]Fix Electric Brandish uses spellcraft skill instead of deduction ([#76136](https://github.com/CleverRaven/Cataclysm-DDA/pull/76136))
 * properly compute colors for palette indexes above 15 in curses builds ([#76124](https://github.com/CleverRaven/Cataclysm-DDA/pull/76124))
@@ -164,11 +172,6 @@
 #### Cataclysm-DDA experimental build 2024-09-02-0137 ([050fa50](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-0137))
 
 * Refugee center adds food you sell/give them to their camp storage ([#76105](https://github.com/CleverRaven/Cataclysm-DDA/pull/76105))
-
----
-
-#### Cataclysm-DDA 0.H release candidate 2024-09-01-2220 ([ef5c2e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-01-2220))
-
 * Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
 
 ---
@@ -216,7 +219,6 @@
 * Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
 * NPC flee from being run over by vehicles ([#76050](https://github.com/CleverRaven/Cataclysm-DDA/pull/76050))
 * Routine i18n updates on 31 August 2024 ([#76071](https://github.com/CleverRaven/Cataclysm-DDA/pull/76071))
-* Toggle to Only Draw Overmap During Autotravel ([#76017](https://github.com/CleverRaven/Cataclysm-DDA/pull/76017))
 * [Xedra Evolved] Fix summoned ancient warriors leaving corpses ([#76055](https://github.com/CleverRaven/Cataclysm-DDA/pull/76055))
 * [Magiclysm] Integrated black dragon scale ([#76021](https://github.com/CleverRaven/Cataclysm-DDA/pull/76021))
 * Prevent being teleported beyond OVERMAP_DEPTH ([#76053](https://github.com/CleverRaven/Cataclysm-DDA/pull/76053))
@@ -228,10 +230,8 @@
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble ([#76058](https://github.com/CleverRaven/Cataclysm-DDA/pull/76058))
 * Fix npc butchering ([#76040](https://github.com/CleverRaven/Cataclysm-DDA/pull/76040))
 * Improve tabi and geta descriptions ([#76028](https://github.com/CleverRaven/Cataclysm-DDA/pull/76028))
-* Allow military NVGs to attach to combat exoskeleton helmets ([#76018](https://github.com/CleverRaven/Cataclysm-DDA/pull/76018))
 * Allow vitamin-providing drugs to be deposited into faction camp larder ([#76025](https://github.com/CleverRaven/Cataclysm-DDA/pull/76025))
 * Fix the typo in garter snake naming ([#76030](https://github.com/CleverRaven/Cataclysm-DDA/pull/76030))
 * fix ImTui rendering by defining the IMTUI define ([#76031](https://github.com/CleverRaven/Cataclysm-DDA/pull/76031))
 * [Xedra Evolved] Extend hedge magic research system, part 1 ([#76035](https://github.com/CleverRaven/Cataclysm-DDA/pull/76035))
 * [MoM] Remove crystal shard use_action ([#76024](https://github.com/CleverRaven/Cataclysm-DDA/pull/76024))
-* Adjust military/police magazines ([#76016](https://github.com/CleverRaven/Cataclysm-DDA/pull/76016))
