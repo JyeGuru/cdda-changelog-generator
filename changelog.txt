@@ -1,3 +1,4 @@
+* [MoM] Add two snippets (#76219)
 * Fix point hash to be well distributed. (#76153)
 
 Cataclysm-DDA 0.H release candidate 2024-09-06-1852 (dec9eec)
@@ -116,9 +117,6 @@ Cataclysm-DDA experimental build 2024-09-02-0137 (050fa50)
 
 Cataclysm-DDA experimental build 2024-09-01-2346 (7483759)
 * Update notice about camp zones changing... five years ago (#76114)
-
-Cataclysm-DDA experimental build 2024-09-01-2159 (9dfbd30)
-* Sweep of sanification for electronic devices (#76029)
 * simplify jam_mult formula (#76059)
 * Update the autolabeler (#76112)
 * Extend/delete support for harvest lists (#76047)

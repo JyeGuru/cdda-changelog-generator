@@ -1,3 +1,4 @@
+* [MoM] Add two snippets ([#76219](https://github.com/CleverRaven/Cataclysm-DDA/pull/76219))
 * Fix point hash to be well distributed. ([#76153](https://github.com/CleverRaven/Cataclysm-DDA/pull/76153))
 
 ---
@@ -197,12 +198,6 @@
 #### Cataclysm-DDA experimental build 2024-09-01-2346 ([7483759](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-2346))
 
 * Update notice about camp zones changing... five years ago ([#76114](https://github.com/CleverRaven/Cataclysm-DDA/pull/76114))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-01-2159 ([9dfbd30](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-2159))
-
-* Sweep of sanification for electronic devices ([#76029](https://github.com/CleverRaven/Cataclysm-DDA/pull/76029))
 * simplify jam_mult formula ([#76059](https://github.com/CleverRaven/Cataclysm-DDA/pull/76059))
 * Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
 * Extend/delete support for harvest lists ([#76047](https://github.com/CleverRaven/Cataclysm-DDA/pull/76047))
