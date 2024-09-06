@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-06-1722 ([faa10bf](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-1722))
+
+* overmap: don't initialize redundant ui_adaptor by default ([#76220](https://github.com/CleverRaven/Cataclysm-DDA/pull/76220))
+
+---
+
 #### Cataclysm-DDA experimental build 2024-09-06-0627 ([1a13be3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-0627))
 
 * Re-added ability to launch nuclear missile to No Hope mod, once again ([#76214](https://github.com/CleverRaven/Cataclysm-DDA/pull/76214))
@@ -204,11 +210,6 @@
 #### Cataclysm-DDA experimental build 2024-09-01-1158 ([7f37775](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-1158))
 
 * roof innawood caves ([#76109](https://github.com/CleverRaven/Cataclysm-DDA/pull/76109))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-01-0444 ([0527e71](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-0444))
-
 * Remove generic bird egg, replace its role with chicken egg ([#76090](https://github.com/CleverRaven/Cataclysm-DDA/pull/76090))
 * Handle mouse input in a more sophisticated manner ([#76033](https://github.com/CleverRaven/Cataclysm-DDA/pull/76033))
 * More Ruger 10/22 Mags ([#76032](https://github.com/CleverRaven/Cataclysm-DDA/pull/76032))
@@ -220,7 +221,6 @@
 * NPC flee from being run over by vehicles ([#76050](https://github.com/CleverRaven/Cataclysm-DDA/pull/76050))
 * Routine i18n updates on 31 August 2024 ([#76071](https://github.com/CleverRaven/Cataclysm-DDA/pull/76071))
 * [Xedra Evolved] Fix summoned ancient warriors leaving corpses ([#76055](https://github.com/CleverRaven/Cataclysm-DDA/pull/76055))
-* [Magiclysm] Integrated black dragon scale ([#76021](https://github.com/CleverRaven/Cataclysm-DDA/pull/76021))
 * Prevent being teleported beyond OVERMAP_DEPTH ([#76053](https://github.com/CleverRaven/Cataclysm-DDA/pull/76053))
 * Replace u/npc_has_var with compare_string ([#76036](https://github.com/CleverRaven/Cataclysm-DDA/pull/76036))
 * Prevent the imperfect doll being activated multiple times ([#76054](https://github.com/CleverRaven/Cataclysm-DDA/pull/76054))
