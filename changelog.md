@@ -1,3 +1,4 @@
+* Fix point hash to be well distributed. ([#76153](https://github.com/CleverRaven/Cataclysm-DDA/pull/76153))
 
 ---
 
@@ -44,7 +45,6 @@
 
 * Update numbers on some Tacoma ranch missions ([#76073](https://github.com/CleverRaven/Cataclysm-DDA/pull/76073))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
-* Replace pf_special with a scoped enum (PathfindingFlag) and add more flags ([#76026](https://github.com/CleverRaven/Cataclysm-DDA/pull/76026))
 * Partial chitinous helmets ([#76044](https://github.com/CleverRaven/Cataclysm-DDA/pull/76044))
 * [Magiclysm] Fix the harvest ([#76049](https://github.com/CleverRaven/Cataclysm-DDA/pull/76049))
 * Functioning toasters ([#76074](https://github.com/CleverRaven/Cataclysm-DDA/pull/76074))

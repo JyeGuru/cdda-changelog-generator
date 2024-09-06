@@ -1,3 +1,4 @@
+* Fix point hash to be well distributed. (#76153)
 
 Cataclysm-DDA 0.H release candidate 2024-09-06-1852 (dec9eec)
 * [MoM] Backport #70729, #70615, #71260, #70910, and #71399 to 0.H (#76225)
@@ -23,7 +24,6 @@ Cataclysm-DDA 0.H release candidate 2024-09-05-1853 (675ea0d)
 Cataclysm-DDA experimental build 2024-09-05-2020 (c017e94)
 * Update numbers on some Tacoma ranch missions (#76073)
 * Correct some ``copy-from`` weirdness caught in #76180 (#76188)
-* Replace pf_special with a scoped enum (PathfindingFlag) and add more flags (#76026)
 * Partial chitinous helmets (#76044)
 * [Magiclysm] Fix the harvest (#76049)
 * Functioning toasters (#76074)
