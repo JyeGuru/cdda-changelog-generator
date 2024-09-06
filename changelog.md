@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-06-0627 ([1a13be3](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-0627))
+
 * Re-added ability to launch nuclear missile to No Hope mod, once again ([#76214](https://github.com/CleverRaven/Cataclysm-DDA/pull/76214))
 * Pruning the old ``to-hit`` syntax - Part 6 ([#76213](https://github.com/CleverRaven/Cataclysm-DDA/pull/76213))
 * change the loading screen to a png file instead of avif ([#76226](https://github.com/CleverRaven/Cataclysm-DDA/pull/76226))
@@ -209,11 +214,6 @@
 * More Ruger 10/22 Mags ([#76032](https://github.com/CleverRaven/Cataclysm-DDA/pull/76032))
 * fix the crash by bulding the font atlas ([#76070](https://github.com/CleverRaven/Cataclysm-DDA/pull/76070))
 * Fix clang error from new warning ([#76078](https://github.com/CleverRaven/Cataclysm-DDA/pull/76078))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-01-0300 ([2d41010](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-0300))
-
 * Make skill rust related mutations display as mixed effect ([#76076](https://github.com/CleverRaven/Cataclysm-DDA/pull/76076))
 * fix light_cell_rechargeable not fitting in batteries itemgroup ([#76081](https://github.com/CleverRaven/Cataclysm-DDA/pull/76081))
 * Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
