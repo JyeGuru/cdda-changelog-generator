@@ -1,6 +1,12 @@
 
 ---
 
+#### Cataclysm-DDA experimental build 2024-09-06-0015 ([7d7dd4b](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-06-0015))
+
+* Machete proliferation ([#76176](https://github.com/CleverRaven/Cataclysm-DDA/pull/76176))
+
+---
+
 #### Cataclysm-DDA 0.H release candidate 2024-09-05-1853 ([675ea0d](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-05-1853))
 
 * Backport MoM #70838, #70904, #70830, #71228, #71024, and #73529 ([#76174](https://github.com/CleverRaven/Cataclysm-DDA/pull/76174))
@@ -229,4 +235,3 @@
 * [Xedra Evolved] Extend hedge magic research system, part 1 ([#76035](https://github.com/CleverRaven/Cataclysm-DDA/pull/76035))
 * [MoM] Remove crystal shard use_action ([#76024](https://github.com/CleverRaven/Cataclysm-DDA/pull/76024))
 * Adjust military/police magazines ([#76016](https://github.com/CleverRaven/Cataclysm-DDA/pull/76016))
-* [MoM] Fix snippet codename ([#76015](https://github.com/CleverRaven/Cataclysm-DDA/pull/76015))
