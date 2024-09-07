@@ -1,3 +1,9 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-07-0110 ([e398be1](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-07-0110))
+
+* [MoM] Remove remaining Damage Balancing references ([#76244](https://github.com/CleverRaven/Cataclysm-DDA/pull/76244))
 * Clean up some vanilla-unused itemgroups ([#76086](https://github.com/CleverRaven/Cataclysm-DDA/pull/76086))
 * Doc outlining how batteries are represented in the game ([#76065](https://github.com/CleverRaven/Cataclysm-DDA/pull/76065))
 * Move some IDs only used in mods to corresponding mod files, remove ``VERMIN`` flag ([#76091](https://github.com/CleverRaven/Cataclysm-DDA/pull/76091))
@@ -196,11 +202,6 @@
 
 * Refugee center adds food you sell/give them to their camp storage ([#76105](https://github.com/CleverRaven/Cataclysm-DDA/pull/76105))
 * Backport #75717 ([#76123](https://github.com/CleverRaven/Cataclysm-DDA/pull/76123))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-01-2346 ([7483759](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-01-2346))
-
 * Update notice about camp zones changing... five years ago ([#76114](https://github.com/CleverRaven/Cataclysm-DDA/pull/76114))
 * simplify jam_mult formula ([#76059](https://github.com/CleverRaven/Cataclysm-DDA/pull/76059))
 * Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
@@ -228,4 +229,3 @@
 * Backport #76058 ([#76067](https://github.com/CleverRaven/Cataclysm-DDA/pull/76067))
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble ([#76058](https://github.com/CleverRaven/Cataclysm-DDA/pull/76058))
 * Fix npc butchering ([#76040](https://github.com/CleverRaven/Cataclysm-DDA/pull/76040))
-* [Xedra Evolved] Extend hedge magic research system, part 1 ([#76035](https://github.com/CleverRaven/Cataclysm-DDA/pull/76035))
