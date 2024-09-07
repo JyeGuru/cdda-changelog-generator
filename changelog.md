@@ -1,3 +1,12 @@
+* Pruning the old ``to-hit`` syntax - Part 7 ([#76238](https://github.com/CleverRaven/Cataclysm-DDA/pull/76238))
+* [Magiclysm] Add three new spells ([#76240](https://github.com/CleverRaven/Cataclysm-DDA/pull/76240))
+* [Magiclysm] Druid brambles burn ([#76243](https://github.com/CleverRaven/Cataclysm-DDA/pull/76243))
+
+---
+
+#### Cataclysm-DDA 0.H release candidate 2024-09-07-1839 ([d80c1f0](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-0.H-2024-09-07-1839))
+
+* [MoM] Backport #70956, #71061, and remaining parts of #71437 ([#76248](https://github.com/CleverRaven/Cataclysm-DDA/pull/76248))
 
 ---
 
@@ -68,7 +77,6 @@
 
 * Update numbers on some Tacoma ranch missions ([#76073](https://github.com/CleverRaven/Cataclysm-DDA/pull/76073))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
-* Partial chitinous helmets ([#76044](https://github.com/CleverRaven/Cataclysm-DDA/pull/76044))
 * [Magiclysm] Fix the harvest ([#76049](https://github.com/CleverRaven/Cataclysm-DDA/pull/76049))
 * Functioning toasters ([#76074](https://github.com/CleverRaven/Cataclysm-DDA/pull/76074))
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
@@ -172,7 +180,6 @@
 #### Cataclysm-DDA experimental build 2024-09-03-0707 ([c0f8c04](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-03-0707))
 
 * Add the FBI Profession ([#76068](https://github.com/CleverRaven/Cataclysm-DDA/pull/76068))
-* Add regular hearts to the game and make them obtainable through butchery ([#76041](https://github.com/CleverRaven/Cataclysm-DDA/pull/76041))
 * [MOM] Add electrokinetic override for internal battery compartment ([#76101](https://github.com/CleverRaven/Cataclysm-DDA/pull/76101))
 * fix Segfault when trying to cast a spell ([#76155](https://github.com/CleverRaven/Cataclysm-DDA/pull/76155))
 
@@ -194,11 +201,6 @@
 #### Cataclysm-DDA experimental build 2024-09-02-1922 ([6dc152c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-1922))
 
 * Print church/school bell ringing sound in the message log once again ([#76146](https://github.com/CleverRaven/Cataclysm-DDA/pull/76146))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-02-1123 ([9c09701](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-1123))
-
 * [XEDRA] Fix Inventor Grenade launcher mod definition ([#76096](https://github.com/CleverRaven/Cataclysm-DDA/pull/76096))
 * [Magiclysm] Magic items have flags like vanilla counterparts do ([#76077](https://github.com/CleverRaven/Cataclysm-DDA/pull/76077))
 * Put player under during CBM surgery initiated from Rubik's dialogue ([#76120](https://github.com/CleverRaven/Cataclysm-DDA/pull/76120))
@@ -207,7 +209,6 @@
 * Update notice about camp zones changing... five years ago ([#76114](https://github.com/CleverRaven/Cataclysm-DDA/pull/76114))
 * simplify jam_mult formula ([#76059](https://github.com/CleverRaven/Cataclysm-DDA/pull/76059))
 * Update the autolabeler ([#76112](https://github.com/CleverRaven/Cataclysm-DDA/pull/76112))
-* Extend/delete support for harvest lists ([#76047](https://github.com/CleverRaven/Cataclysm-DDA/pull/76047))
 * add damage spellcasting_adjustment ([#76064](https://github.com/CleverRaven/Cataclysm-DDA/pull/76064))
 * Massively increase overmap UI search range ([#76072](https://github.com/CleverRaven/Cataclysm-DDA/pull/76072))
 * fix vitamins in vitamins ([#76075](https://github.com/CleverRaven/Cataclysm-DDA/pull/76075))
@@ -225,7 +226,6 @@
 * [Xedra Evolved] Fix summoned ancient warriors leaving corpses ([#76055](https://github.com/CleverRaven/Cataclysm-DDA/pull/76055))
 * Prevent being teleported beyond OVERMAP_DEPTH ([#76053](https://github.com/CleverRaven/Cataclysm-DDA/pull/76053))
 * Prevent the imperfect doll being activated multiple times ([#76054](https://github.com/CleverRaven/Cataclysm-DDA/pull/76054))
-* Backport #75564 ([#76046](https://github.com/CleverRaven/Cataclysm-DDA/pull/76046))
 * backport #71875 and #75815 ([#76066](https://github.com/CleverRaven/Cataclysm-DDA/pull/76066))
 * Backport #76058 ([#76067](https://github.com/CleverRaven/Cataclysm-DDA/pull/76067))
 * Fixed segfault when monster tries to grab-drag another monster out of reality bubble ([#76058](https://github.com/CleverRaven/Cataclysm-DDA/pull/76058))
