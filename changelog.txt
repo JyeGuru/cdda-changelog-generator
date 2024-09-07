@@ -1,3 +1,5 @@
+
+Cataclysm-DDA experimental build 2024-09-07-2028 (772b0e9)
 * Jika-tabi footwear (#76100)
 * Backport #70721 (move prosthetics etc to WIP limb mod) for 0.H (#76175)
 * Heat immune cleanup (#76218)
@@ -116,8 +118,6 @@ Cataclysm-DDA experimental build 2024-09-03-0505 (01a0c36)
 Cataclysm-DDA experimental build 2024-09-02-2126 (9c0bc47)
 * Add indoor flagpole and use it for Hub01 American flags (#76111)
 * Shorten skull-specific harvestgroups with the power of ``extend`` (#76117)
-
-Cataclysm-DDA experimental build 2024-09-02-1922 (6dc152c)
 * Print church/school bell ringing sound in the message log once again (#76146)
 * [XEDRA] Fix Inventor Grenade launcher mod definition (#76096)
 * [Magiclysm] Magic items have flags like vanilla counterparts do (#76077)

@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-07-2028 ([772b0e9](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-07-2028))
+
 * Jika-tabi footwear ([#76100](https://github.com/CleverRaven/Cataclysm-DDA/pull/76100))
 * Backport #70721 (move prosthetics etc to WIP limb mod) for 0.H ([#76175](https://github.com/CleverRaven/Cataclysm-DDA/pull/76175))
 * Heat immune cleanup ([#76218](https://github.com/CleverRaven/Cataclysm-DDA/pull/76218))
@@ -191,11 +196,6 @@
 
 * Add indoor flagpole and use it for Hub01 American flags ([#76111](https://github.com/CleverRaven/Cataclysm-DDA/pull/76111))
 * Shorten skull-specific harvestgroups with the power of ``extend`` ([#76117](https://github.com/CleverRaven/Cataclysm-DDA/pull/76117))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-02-1922 ([6dc152c](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-1922))
-
 * Print church/school bell ringing sound in the message log once again ([#76146](https://github.com/CleverRaven/Cataclysm-DDA/pull/76146))
 * [XEDRA] Fix Inventor Grenade launcher mod definition ([#76096](https://github.com/CleverRaven/Cataclysm-DDA/pull/76096))
 * [Magiclysm] Magic items have flags like vanilla counterparts do ([#76077](https://github.com/CleverRaven/Cataclysm-DDA/pull/76077))
