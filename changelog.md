@@ -1,3 +1,6 @@
+* Jika-tabi footwear ([#76100](https://github.com/CleverRaven/Cataclysm-DDA/pull/76100))
+* Backport #70721 (move prosthetics etc to WIP limb mod) for 0.H ([#76175](https://github.com/CleverRaven/Cataclysm-DDA/pull/76175))
+* Heat immune cleanup ([#76218](https://github.com/CleverRaven/Cataclysm-DDA/pull/76218))
 * Pruning the old ``to-hit`` syntax - Part 7 ([#76238](https://github.com/CleverRaven/Cataclysm-DDA/pull/76238))
 * [Magiclysm] Add three new spells ([#76240](https://github.com/CleverRaven/Cataclysm-DDA/pull/76240))
 * [Magiclysm] Druid brambles burn ([#76243](https://github.com/CleverRaven/Cataclysm-DDA/pull/76243))
@@ -77,7 +80,6 @@
 
 * Update numbers on some Tacoma ranch missions ([#76073](https://github.com/CleverRaven/Cataclysm-DDA/pull/76073))
 * Correct some ``copy-from`` weirdness caught in #76180 ([#76188](https://github.com/CleverRaven/Cataclysm-DDA/pull/76188))
-* [Magiclysm] Fix the harvest ([#76049](https://github.com/CleverRaven/Cataclysm-DDA/pull/76049))
 * Functioning toasters ([#76074](https://github.com/CleverRaven/Cataclysm-DDA/pull/76074))
 * fix you being able to "see" impossible shape when blind ([#76206](https://github.com/CleverRaven/Cataclysm-DDA/pull/76206))
 * Butchering proficiencies ([#76156](https://github.com/CleverRaven/Cataclysm-DDA/pull/76156))
@@ -140,12 +142,6 @@
 #### Cataclysm-DDA experimental build 2024-09-04-1259 ([9633d7f](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-1259))
 
 * [Magiclysm] Move bulk of spellcasting proficiency processing to dedicated EoCs and out of spell JSON (Animist/biomancer edition) ([#76160](https://github.com/CleverRaven/Cataclysm-DDA/pull/76160))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-04-0626 ([0c909b2](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-04-0626))
-
-* turn off ATMs ([#76051](https://github.com/CleverRaven/Cataclysm-DDA/pull/76051))
 * Maybe fix 0.H tests ([#76185](https://github.com/CleverRaven/Cataclysm-DDA/pull/76185))
 
 ---
@@ -221,7 +217,6 @@
 * Make skill rust related mutations display as mixed effect ([#76076](https://github.com/CleverRaven/Cataclysm-DDA/pull/76076))
 * fix light_cell_rechargeable not fitting in batteries itemgroup ([#76081](https://github.com/CleverRaven/Cataclysm-DDA/pull/76081))
 * Remove gates from FEMA camp fence corners ([#76089](https://github.com/CleverRaven/Cataclysm-DDA/pull/76089))
-* NPC flee from being run over by vehicles ([#76050](https://github.com/CleverRaven/Cataclysm-DDA/pull/76050))
 * Routine i18n updates on 31 August 2024 ([#76071](https://github.com/CleverRaven/Cataclysm-DDA/pull/76071))
 * [Xedra Evolved] Fix summoned ancient warriors leaving corpses ([#76055](https://github.com/CleverRaven/Cataclysm-DDA/pull/76055))
 * Prevent being teleported beyond OVERMAP_DEPTH ([#76053](https://github.com/CleverRaven/Cataclysm-DDA/pull/76053))
