@@ -1,3 +1,8 @@
+
+---
+
+#### Cataclysm-DDA experimental build 2024-09-07-1828 ([aaa7892](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-07-1828))
+
 * Routine i18n updates on 07 September 2024 ([#76254](https://github.com/CleverRaven/Cataclysm-DDA/pull/76254))
 
 ---
@@ -195,11 +200,6 @@
 #### Cataclysm-DDA experimental build 2024-09-02-1123 ([9c09701](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-1123))
 
 * [XEDRA] Fix Inventor Grenade launcher mod definition ([#76096](https://github.com/CleverRaven/Cataclysm-DDA/pull/76096))
-
----
-
-#### Cataclysm-DDA experimental build 2024-09-02-0320 ([c17fa69](https://github.com/CleverRaven/Cataclysm-DDA/releases/tag/cdda-experimental-2024-09-02-0320))
-
 * [Magiclysm] Magic items have flags like vanilla counterparts do ([#76077](https://github.com/CleverRaven/Cataclysm-DDA/pull/76077))
 * Put player under during CBM surgery initiated from Rubik's dialogue ([#76120](https://github.com/CleverRaven/Cataclysm-DDA/pull/76120))
 * Refugee center adds food you sell/give them to their camp storage ([#76105](https://github.com/CleverRaven/Cataclysm-DDA/pull/76105))
